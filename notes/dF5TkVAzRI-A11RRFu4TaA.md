@@ -34,6 +34,15 @@ tags: open-student-org
 
 ---
 
+### Solution
+
+- 降低參與門檻（教育階段）
+- 建立學生自治開放治理相關指引
+    - [Previous version](https://drive.google.com/file/d/1Us_kbqB4Nwt5dfCWLLFR6BBV7oelcMIq/view?usp=sharing)
+- 實際推動可行性？
+
+---
+
 ### Thanks
 
 ##### 開放學生自治社群

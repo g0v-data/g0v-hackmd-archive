@@ -67,9 +67,15 @@ https://datahub.ncdr.nat.gov.tw/dataset
 
 #### Open Data / Release Data
 
-民間開始盤點各縣市避難收容處所，地理資料化程度
-2024.01 僅 臺中市、臺東縣、澎湖縣 有釋出 KML 地點資料，待確認是「疏散避難場所」還是「防災避難收容處所」
-也盤點日本韓國類似的資料集
+消防署釋出全台點位資料
+- 資料欄位：序號、縣市及鄉鎮市區、村里、避難收容處所地址、經度、緯度、避難收容處所名稱、預計收容村里、預計收容人數、適用災害類別、管理人姓名、管理人電話、室內、室外、適合避難弱者安置
+- https://data.gov.tw/dataset/73242
+
+個別縣市釋出資料集
+- 2024.01 僅 臺中市、臺東縣、澎湖縣 有釋出 KML 地點資料，待確認是「疏散避難場所」還是「防災避難收容處所」
+- 新北市 NCDR 資料平台上有釋出
+
+盤點日本韓國類似的資料集
 https://docs.google.com/spreadsheets/d/1OT-Xwx8fSfPdehkgalaF-JtxM5HvHQGLJ2wadFIUpMQ/edit?usp=sharing
 🔥🔥🔥
 

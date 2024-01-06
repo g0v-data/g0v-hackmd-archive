@@ -4,7 +4,7 @@
 
 
 :::info
-參與討論 -> Slack @rep0ter
+參與討論 -> Slack #rep0ter
 :::
 
 ## 專案動機

@@ -89,10 +89,10 @@ https://cofacts.g0v.tw/hoax-for-you
 
 ### Programming
 - Jack - [chatbot reply enhancement](https://github.com/cofacts/rumors-line-bot/pull/382)
-- Simon - website
-- Dennis - [open data reformat]()
+- Simon - [website](https://github.com/cofacts/rumors-site/pull/557)
+- Dennis - [open data reformat](https://github.com/cofacts/ground-truth/issues/1)
 - Eliot - [moderation command tool enhancement](https://github.com/cofacts/rumors-api/pull/328)
-
+- Jadepypy - [Allow empty slug](https://github.com/cofacts/rumors-api/pull/329/files)
 
 ## 成果 - 選務選制謠言
 
@@ -135,6 +135,7 @@ https://g0v.hackmd.io/@mrorz/vote-fraud-hoax
 
 實際規範：
 https://g0v.hackmd.io/Hw7fiVMaS_KmWvZ2EA49Gw#%E6%8A%95%E7%A5%A8%E6%99%82%E9%96%93%E6%88%AA%E6%AD%A2%E5%8F%8A%E9%96%8B%E7%A5%A8%E5%89%8D%E4%BD%9C%E6%A5%AD
+anger++ YC++
 
 圈選器很髒一定要戴手套圈票
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7f3098199cddd0914fcb30fb37dcf999.png)
@@ -145,3 +146,6 @@ https://g0v.hackmd.io/Hw7fiVMaS_KmWvZ2EA49Gw#%E6%8A%95%E7%A5%A8%E6%99%82%E9%96%9
 融合！
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_277614ca43c38a338acb0b5535128206.png)
 
+:::success
+:pencil: 看筆記、協作：https://g0v.hackmd.io/@mrorz/vote-fraud-hoax
+:::

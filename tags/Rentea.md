@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v Summit 社群軌 x Rentea 意見收集](../notes/PcWuQ3vXREqLAqrd0EQugg.md) | 2024-01-06T03:24:51.059Z | 2023-08-15T13:12:56.857Z |
+| 1 | [g0v Summit 社群軌 x Rentea 意見收集](../notes/PcWuQ3vXREqLAqrd0EQugg.md) | 2024-01-06T11:55:10.723Z | 2023-08-15T13:12:56.857Z |
 | 2 | [Rentea Tuesday #71, 73, 75, 77, 79, 81, 83 單數線上小聚筆記](../notes/6H6cdyg3QB6IHW9ua-nXoA.md) | 2024-01-06T03:12:30.485Z | 2023-06-19T07:41:21.090Z |
 | 3 | [你想在 Summit 討論什麼居住議題？](../notes/kHm-7vUzSVa6piLJM3H7cA.md) | 2024-01-06T01:58:47.761Z | 2024-01-05T12:58:33.375Z |
 | 4 | [Rentea Tuesday - 週二來聊居住經驗吧！](../notes/YVw3eVgQQb-nHIN4dDp_hg.md) | 2023-12-28T06:29:13.190Z | 2020-01-18T12:44:14.514Z |

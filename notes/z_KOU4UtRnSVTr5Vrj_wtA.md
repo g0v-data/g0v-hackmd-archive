@@ -13,3 +13,5 @@ tags: GIS
 20240104 路過西藏路路口，看到箱涵施作過程拍照
 https://maps.app.goo.gl/htc3TL9Eo8pGidYH6
 https://www.facebook.com/groups/582154450196478/posts/903378741407379/
+
+2024 臺北市政府將針對「中正區及萬華區」提出城市降溫計畫
