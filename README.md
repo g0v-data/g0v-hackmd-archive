@@ -2,12 +2,12 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [cofacts](tags/cofacts.md) | 423 | 2024-01-06T02:50:39.940Z |
 | [Rentea](tags/Rentea.md) | 170 | 2024-01-06T01:58:47.761Z |
 | [open-student-org](tags/open-student-org.md) | 1 | 2024-01-06T01:32:31.318Z |
 | [cowork guideline](tags/cowork%20guideline.md) | 24 | 2024-01-05T21:31:58.218Z |
 | [AI](tags/AI.md) | 21 | 2024-01-05T21:28:27.344Z |
 | [Environmental Design](tags/Environmental%20Design.md) | 1 | 2024-01-05T21:28:27.344Z |
-| [cofacts](tags/cofacts.md) | 423 | 2024-01-05T16:54:50.307Z |
 | [選舉](tags/%E9%81%B8%E8%88%89.md) | 2 | 2024-01-05T16:49:48.833Z |
 | [選務](tags/%E9%81%B8%E5%8B%99.md) | 1 | 2024-01-05T16:49:48.833Z |
 | [大選](tags/%E5%A4%A7%E9%81%B8.md) | 2 | 2024-01-05T16:49:48.833Z |

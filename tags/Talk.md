@@ -27,7 +27,7 @@
 | 23 | [2014-5-24 「科技與社會研究繼續教育研習營」資訊科技的社會介入：Mindos - 逐字稿](../notes/7K4LE51kQoCHs82PrC6eVg.md) | 2014-08-14T19:00:16.000Z | 2014-08-14T18:48:03.000Z |
 | 24 | [2014-1-21 立法院資訊處演講：clkao - 逐字稿](../notes/mZM35u5yRSO3h6DommEwVw.md) | 2014-04-08T17:01:43.000Z | 2014-01-21T12:27:30.000Z |
 | 25 | [2014-1-21 立法院資訊處演講：johnny - 逐字稿](../notes/9JnriZNdQpeciBE7S_It2Q.md) | 2014-04-08T05:52:10.000Z | 2014-01-21T12:24:47.000Z |
-| 26 | [MaD | clkao: Open Source, Open Data, Open Government 字幕翻譯](../notes/D_aSsx01S92kep0O_ekUrA.md) | 2014-04-07T03:02:18.000Z | 2014-04-04T09:31:11.000Z |
+| 26 | [MaD \| clkao: Open Source, Open Data, Open Government 字幕翻譯](../notes/D_aSsx01S92kep0O_ekUrA.md) | 2014-04-07T03:02:18.000Z | 2014-04-04T09:31:11.000Z |
 | 27 | [四月松來ger好題目短講系列吧!](../notes/rmklpdBsSDS-oNCuUp6SbA.md) | 2014-04-02T15:16:04.000Z | 2014-04-02T14:29:54.000Z |
 | 28 | [3/12 萌典/教育部會談紀錄](../notes/xxJW6ILoT8ilpmVS0g_MuA.md) | 2014-03-18T06:33:31.000Z | 2014-03-18T05:55:41.000Z |
 | 29 | [g0v 公開演講 at 不要核四、五六運動「公民論壇」逐字稿（完成）](../notes/FAIE6-07TqOy0OczsqlfUA.md) | 2014-03-09T10:42:24.000Z | 2013-12-30T12:27:29.000Z |

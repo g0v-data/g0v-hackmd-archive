@@ -70,7 +70,7 @@
 | 66 | [憲法心理測驗：你適合哪種制度？](../notes/-RTdaKliR1-nWvPWNsnG1g.md) | 2021-07-05T15:20:06.150Z | 2015-01-31T06:14:51.000Z |
 | 67 | [開放都市計畫- 都市計畫書資料庫化](../notes/-ANGwv0QRGu70B7dDMKIEg.md) | 2021-07-05T13:37:59.816Z | 2015-04-08T01:46:45.000Z |
 | 68 | [數位政委：g0v x gov 的新挑戰](../notes/sgcAKlY5S2GXQySNnOCoSw.md) | 2021-07-05T12:30:11.304Z | 2016-08-25T03:04:59.000Z |
-| 69 | [g0v Foreign Policy | 零時政府外交政策](../notes/jwZx-YooQNKkKCQHFg-6qA.md) | 2021-07-05T12:16:21.061Z | 2014-01-05T06:48:23.000Z |
+| 69 | [g0v Foreign Policy \| 零時政府外交政策](../notes/jwZx-YooQNKkKCQHFg-6qA.md) | 2021-07-05T12:16:21.061Z | 2014-01-05T06:48:23.000Z |
 | 70 | [g0v <-> gov 合作計畫](../notes/9cyDFai0SdelBCigUnzLqg.md) | 2021-07-05T12:12:52.430Z | 2014-02-07T09:08:37.000Z |
 | 71 | [臺灣的體育預算跟選手待遇／比較一覽／網站建置計劃](../notes/B_EErJgGQWiDjwXRI8MqSA.md) | 2021-06-25T17:24:12.743Z | 2016-08-08T21:56:58.000Z |
 | 72 | [可追蹤的預算視覺化](../notes/PG2_eu6oSd6cBd4Ow4FKwg.md) | 2021-06-25T17:23:07.069Z | 2016-12-23T10:50:19.000Z |
@@ -102,7 +102,7 @@
 | 98 | [g0v 零時空汙觀測專案-感測器開發共筆](../notes/4UkEbzLgTUu5Oh_Rypol5g.md) | 2020-03-23T15:35:41.969Z | 2016-03-13T11:54:39.000Z |
 | 99 | [g0v 零時空汙觀測專案-網站開發共筆](../notes/p7-8t6kCQvWy-49C6zMgBg.md) | 2020-03-23T15:35:04.060Z | 2016-03-13T11:36:25.000Z |
 | 100 | [開放政府資料法](../notes/MZC4p1QMQZ6WRAPuYUuxtA.md) | 2020-03-19T01:21:01.807Z | 2014-12-10T11:29:10.000Z |
-| 101 | [g0v Media Policy | 零時政府媒體政策](../notes/kqQGe6yhQgWFIya5Ztvajg.md) | 2020-03-18T09:26:53.388Z | 2014-03-31T19:45:40.000Z |
+| 101 | [g0v Media Policy \| 零時政府媒體政策](../notes/kqQGe6yhQgWFIya5Ztvajg.md) | 2020-03-18T09:26:53.388Z | 2014-03-31T19:45:40.000Z |
 | 102 | [magic-mirror](../notes/udz_FWEyQam4ELryYIy5OA.md) | 2020-03-01T03:13:35.030Z | 2013-08-12T19:43:25.000Z |
 | 103 | [社會運動維基條目修改計畫](../notes/RFrH1BYyQAS59_RvX2o2Jg.md) | 2020-02-18T15:17:21.579Z | 2014-04-21T04:08:49.000Z |
 | 104 | [中文處理工具簡介](../notes/fR51fyEcQYOVIGSCanO3TA.md) | 2020-01-11T15:12:24.782Z | 2014-11-14T08:13:46.000Z |
@@ -850,7 +850,7 @@
 | 846 | [第十二組：數據處理](../notes/tcm7XaxtTmaiNRyr8easVA.md) | 2016-11-23T13:14:58.000Z | 2016-11-19T09:02:03.000Z |
 | 847 | [gov pxweb list](../notes/9GG4V8fbRSmZe0mi6TkyOw.md) | 2016-11-21T05:01:34.000Z | 2016-11-21T04:58:22.000Z |
 | 848 | [CfA note-taking](../notes/clBLft8NRzSnwA8WxAcCRQ.md) | 2016-11-20T23:58:18.000Z | 2016-10-31T17:48:14.000Z |
-| 849 | [d|Bootcamp Taipei 共筆 - 資料視覺化：簡介與討論](../notes/SlMEv3FcQcy6i5R9CgPGyA.md) | 2016-11-19T23:44:31.000Z | 2015-08-07T04:43:58.000Z |
+| 849 | [d\|Bootcamp Taipei 共筆 - 資料視覺化：簡介與討論](../notes/SlMEv3FcQcy6i5R9CgPGyA.md) | 2016-11-19T23:44:31.000Z | 2015-08-07T04:43:58.000Z |
 | 850 | [第十一組:消防安全](../notes/FJtuW4OsRvSOHiJG3yZPLg.md) | 2016-11-19T13:22:40.000Z | 2016-11-19T13:16:24.000Z |
 | 851 | [第參次基礎建設松](../notes/J8Knm3_XRoOpEyMghGWw2w.md) | 2016-11-15T15:11:09.000Z | 2016-07-12T08:59:29.000Z |
 | 852 | [台灣正名懶人包](../notes/e_WVANmOQiqivjZ1U1a7-A.md) | 2016-11-13T00:34:26.000Z | 2016-11-06T14:53:54.000Z |
@@ -935,7 +935,7 @@
 | 931 | [翻譯、字幕、逐字稿，多國語言素材處理相關工具收集區](../notes/jf7e5FNxSgKoJCk_EAwpSw.md) | 2016-08-22T10:56:25.000Z | 2014-06-28T04:14:15.000Z |
 | 932 | [抓黨產GO！](../notes/YesXbIwpRi2CUEe64v9IIg.md) | 2016-08-22T07:40:45.000Z | 2016-08-22T03:19:46.000Z |
 | 933 | [新手教學一頁版](../notes/QIlXPPKfQLSeoOJk5VPtAg.md) | 2016-08-17T12:57:30.000Z | 2016-08-17T12:43:08.000Z |
-| 934 | [Debater | 辯論家](../notes/apsia6puTpmtbkQ7VatdzQ.md) | 2016-08-17T08:20:24.000Z | 2016-01-30T01:18:10.000Z |
+| 934 | [Debater \| 辯論家](../notes/apsia6puTpmtbkQ7VatdzQ.md) | 2016-08-17T08:20:24.000Z | 2016-01-30T01:18:10.000Z |
 | 935 | [都市規劃案件地圖](../notes/NkYO4u_oSbyRgxDdE99HUQ.md) | 2016-08-15T13:45:42.000Z | 2016-08-15T13:43:14.000Z |
 | 936 | [抵制大幫手 - Operation Decent](../notes/sguODiwlRHiG7ogvJLTX5w.md) | 2016-08-09T15:51:30.000Z | 2014-10-10T01:37:58.000Z |
 | 937 | [第零次百姓松 civicth0n](../notes/IIx4CvpTT4SLwBlC1hZ0Zw.md) | 2016-08-07T16:46:36.000Z | 2016-06-11T07:43:20.000Z |
@@ -1395,7 +1395,7 @@
 | 1391 | [（暫名：人類商業產品大全）](../notes/-EE2d09jTz6EzAEnNCgshw.md) | 2015-11-29T18:43:38.000Z | 2014-10-13T19:38:08.000Z |
 | 1392 | [臺北盆地農食事件時間進展圖](../notes/nEydYhdITqOsMZxPaVI-cw.md) | 2015-11-27T23:30:54.000Z | 2015-11-27T14:15:19.000Z |
 | 1393 | [Open Space Seattle 2100](../notes/IH9Yca2SSre78YtzK2Vj5g.md) | 2015-11-27T19:13:54.000Z | 2015-11-26T00:40:07.000Z |
-| 1394 | [2015/10/04 新科技新民主 | OCF 開放文化基金會國際交流計畫](../notes/_0VP4lnIQZO8RaXmW-mBVg.md) | 2015-11-26T12:23:56.000Z | 2015-10-04T05:50:39.000Z |
+| 1394 | [2015/10/04 新科技新民主 \| OCF 開放文化基金會國際交流計畫](../notes/_0VP4lnIQZO8RaXmW-mBVg.md) | 2015-11-26T12:23:56.000Z | 2015-10-04T05:50:39.000Z |
 | 1395 | [情境網頁遊戲框架](../notes/rrGzX4bGQo6DRMseNXXQKw.md) | 2015-11-24T14:34:19.000Z | 2015-08-17T03:05:03.000Z |
 | 1396 | [國民大會黑客松專案構想（Idea Pool）（已結束！！）](../notes/Wyobmm_DTsSut67EgVyT9g.md) | 2015-11-21T04:29:13.000Z | 2013-07-26T09:37:34.000Z |
 | 1397 | [空氣污染資訊與（A）環評建案、（B）固定污染源以及（C）環境敏感區之地理套疊](../notes/e3gFkw10TMqguDEH49V_cQ.md) | 2015-11-20T02:31:43.000Z | 2014-12-25T06:50:05.000Z |
@@ -1500,7 +1500,7 @@
 | 1496 | [HCD Class 2 - Reading](../notes/2JZS38SORB-tKIO9i1LkRg.md) | 2015-09-10T02:53:03.000Z | 2015-09-08T15:47:09.000Z |
 | 1497 | [萬華窗口](../notes/C5LAiWM6RKO7eB_up_UyhQ.md) | 2015-09-10T02:48:49.000Z | 2015-09-07T15:17:26.000Z |
 | 1498 | [HCD Class 1 - Workshop](../notes/XrBLCtuUSkSi6Lk_38Zwnw.md) | 2015-09-10T02:17:45.000Z | 2015-09-07T05:24:18.000Z |
-| 1499 | [d|Bootcamp Taipei 共筆 - 穿越時空的資料新聞呈現 - 簡介與工具介紹](../notes/erdBYwoVTMeI-xg8W_JH3Q.md) | 2015-09-09T07:58:47.000Z | 2015-08-07T04:29:21.000Z |
+| 1499 | [d\|Bootcamp Taipei 共筆 - 穿越時空的資料新聞呈現 - 簡介與工具介紹](../notes/erdBYwoVTMeI-xg8W_JH3Q.md) | 2015-09-09T07:58:47.000Z | 2015-08-07T04:29:21.000Z |
 | 1500 | [台灣輻射地圖](../notes/Ne6_7J2sTuO0EARivWT3MA.md) | 2015-09-08T14:22:51.000Z | 2014-01-10T16:02:46.000Z |
 | 1501 | [東協－台灣新聞觀察](../notes/DqrL84Y9RjOhed7KWc8Nbw.md) | 2015-09-07T14:27:53.000Z | 2015-09-07T14:26:11.000Z |
 | 1502 | [[PPT] RoadMap](../notes/4FespkvPSDeXY9TYlRHRpw.md) | 2015-09-06T08:24:11.000Z | 2015-04-18T13:52:32.000Z |
@@ -1529,33 +1529,33 @@
 | 1525 | [公有資產地圖](../notes/rMyhh86xQUiGOCfkSI9X4A.md) | 2015-08-24T15:23:12.000Z | 2015-08-18T14:55:22.000Z |
 | 1526 | [如何增加台灣在東南亞各國的知名度](../notes/Yts6ZEEXRT6BQaH6r0tb1g.md) | 2015-08-24T09:22:04.000Z | 2015-08-24T09:00:17.000Z |
 | 1527 | [自己的土地使用自己畫（暫）](../notes/6dZCerG3RHm2Hj1tGe004g.md) | 2015-08-24T07:45:28.000Z | 2015-05-20T16:43:59.000Z |
-| 1528 | [d|Bootcamp Taipei - 第五組共筆](../notes/PBfaY42eRxuBwmZaPY0Qvw.md) | 2015-08-24T05:16:22.000Z | 2015-08-07T06:20:05.000Z |
-| 1529 | [d|Bootcamp Taipei 共筆 - 座談：一窺編輯室中的資料新聞](../notes/Pz9Or4x2QfeM7uqMFe-qwQ.md) | 2015-08-23T15:32:11.000Z | 2015-08-07T04:45:56.000Z |
+| 1528 | [d\|Bootcamp Taipei - 第五組共筆](../notes/PBfaY42eRxuBwmZaPY0Qvw.md) | 2015-08-24T05:16:22.000Z | 2015-08-07T06:20:05.000Z |
+| 1529 | [d\|Bootcamp Taipei 共筆 - 座談：一窺編輯室中的資料新聞](../notes/Pz9Or4x2QfeM7uqMFe-qwQ.md) | 2015-08-23T15:32:11.000Z | 2015-08-07T04:45:56.000Z |
 | 1530 | [第拾伍次資料科學黑客松 / 公有地記錄](../notes/mm1INO1tQzKPezDADQQA5A.md) | 2015-08-23T15:11:56.000Z | 2015-08-23T13:41:00.000Z |
 | 1531 | [IssueTaiwan 台灣好問題](../notes/ywRi4xcZRyCHd6IzS1suWg.md) | 2015-08-23T07:29:10.000Z | 2015-08-22T02:37:09.000Z |
-| 1532 | [d|Bootcamp Taipei 共筆- 打造「能用」的新聞](../notes/5bDUDEEMQB2pA39Xu-jI5A.md) | 2015-08-23T07:28:24.000Z | 2015-08-07T04:08:44.000Z |
+| 1532 | [d\|Bootcamp Taipei 共筆- 打造「能用」的新聞](../notes/5bDUDEEMQB2pA39Xu-jI5A.md) | 2015-08-23T07:28:24.000Z | 2015-08-07T04:08:44.000Z |
 | 1533 | [短講 - 解析政府組織](../notes/sd2108A0RSauUuPabuPRxg.md) | 2015-08-23T06:36:48.000Z | 2015-08-23T06:29:10.000Z |
-| 1534 | [d|Bootcamp Taipei 共筆- 用全新策略提升新聞價值](../notes/zPSu51t2QR-1g0KYdwXmSA.md) | 2015-08-23T06:29:02.000Z | 2015-08-07T04:24:19.000Z |
+| 1534 | [d\|Bootcamp Taipei 共筆- 用全新策略提升新聞價值](../notes/zPSu51t2QR-1g0KYdwXmSA.md) | 2015-08-23T06:29:02.000Z | 2015-08-07T04:24:19.000Z |
 | 1535 | [臺北高等行政法院判決 103年度訴字第1627號](../notes/Q4hk9goFTzKFJjYm9VJ9Bw.md) | 2015-08-23T05:47:07.000Z | 2015-08-21T07:57:25.000Z |
-| 1536 | [d|Bootcamp Taipei - 第六組共筆](../notes/gM5vdk2mRcysqzPPxZS7lA.md) | 2015-08-22T14:35:06.000Z | 2015-08-07T06:22:03.000Z |
+| 1536 | [d\|Bootcamp Taipei - 第六組共筆](../notes/gM5vdk2mRcysqzPPxZS7lA.md) | 2015-08-22T14:35:06.000Z | 2015-08-07T06:22:03.000Z |
 | 1537 | [Taiwan Little Green Data Book](../notes/_7uM_ljsSu6mN6likuwQNw.md) | 2015-08-22T13:18:10.000Z | 2015-08-22T12:28:32.000Z |
 | 1538 | [圈圈游泳池](../notes/R0l1P6MpQqeLahq-BWX0yg.md) | 2015-08-22T12:28:09.000Z | 2015-08-22T12:20:42.000Z |
-| 1539 | [d|Bootcamp Taipei - 第二組共筆](../notes/A9nCRgqQQ1ej6C_U9wGTVg.md) | 2015-08-22T09:29:53.000Z | 2015-08-07T06:19:35.000Z |
+| 1539 | [d\|Bootcamp Taipei - 第二組共筆](../notes/A9nCRgqQQ1ej6C_U9wGTVg.md) | 2015-08-22T09:29:53.000Z | 2015-08-07T06:19:35.000Z |
 | 1540 | [Twine 情境遊戲範本整理](../notes/oR6dYResQKy1uBNxDnnlhw.md) | 2015-08-22T06:59:26.000Z | 2015-08-22T05:31:35.000Z |
 | 1541 | [#選舉媒體宣傳經費監測 專案介紹](../notes/-pGeDFBtThqUMcIxj21Aww.md) | 2015-08-22T06:14:44.000Z | 2015-08-22T05:32:26.000Z |
 | 1542 | [hackath15n - 第拾伍次資料科學黑客松活動資訊](../notes/m9KGP8N8RymRkcy-CofMHw.md) | 2015-08-22T02:48:21.000Z | 2015-08-08T08:34:57.000Z |
-| 1543 | [d|Bootcamp Taipei - 第四組共筆](../notes/vgO8N2inTMOmO1z1zN8C5A.md) | 2015-08-21T09:10:29.000Z | 2015-08-07T06:19:56.000Z |
-| 1544 | [d|Bootcamp Taipei - 第八組共筆](../notes/nK2pHS93RD2rbYNPIPYbFg.md) | 2015-08-21T08:48:44.000Z | 2015-08-07T06:23:31.000Z |
-| 1545 | [d|Bootcamp Taipei - 第七組共筆](../notes/dm95RmEtQUOoEfrIZOwbsg.md) | 2015-08-21T08:35:25.000Z | 2015-08-07T06:22:13.000Z |
-| 1546 | [d|Bootcamp Taipei 共筆 - 資料在哪裡？](../notes/_9WbiIqVRi-pmi3wFHuRhQ.md) | 2015-08-21T07:55:09.000Z | 2015-08-07T04:32:10.000Z |
-| 1547 | [d|Bootcamp Taipei 共筆 - 迎戰壞資料 - 實用工具與技巧](../notes/mebHo2IRSo64xz1UeWBV3g.md) | 2015-08-21T07:54:56.000Z | 2015-08-07T04:42:05.000Z |
-| 1548 | [d|Bootcamp Taipei - 第九組共筆](../notes/mR1zDgHdSVqbUfTztonSWA.md) | 2015-08-21T06:37:27.000Z | 2015-08-07T06:23:42.000Z |
+| 1543 | [d\|Bootcamp Taipei - 第四組共筆](../notes/vgO8N2inTMOmO1z1zN8C5A.md) | 2015-08-21T09:10:29.000Z | 2015-08-07T06:19:56.000Z |
+| 1544 | [d\|Bootcamp Taipei - 第八組共筆](../notes/nK2pHS93RD2rbYNPIPYbFg.md) | 2015-08-21T08:48:44.000Z | 2015-08-07T06:23:31.000Z |
+| 1545 | [d\|Bootcamp Taipei - 第七組共筆](../notes/dm95RmEtQUOoEfrIZOwbsg.md) | 2015-08-21T08:35:25.000Z | 2015-08-07T06:22:13.000Z |
+| 1546 | [d\|Bootcamp Taipei 共筆 - 資料在哪裡？](../notes/_9WbiIqVRi-pmi3wFHuRhQ.md) | 2015-08-21T07:55:09.000Z | 2015-08-07T04:32:10.000Z |
+| 1547 | [d\|Bootcamp Taipei 共筆 - 迎戰壞資料 - 實用工具與技巧](../notes/mebHo2IRSo64xz1UeWBV3g.md) | 2015-08-21T07:54:56.000Z | 2015-08-07T04:42:05.000Z |
+| 1548 | [d\|Bootcamp Taipei - 第九組共筆](../notes/mR1zDgHdSVqbUfTztonSWA.md) | 2015-08-21T06:37:27.000Z | 2015-08-07T06:23:42.000Z |
 | 1549 | [法庭實境遊戲創作松](../notes/j4fRZ06yT3aRGOy7tIZC0w.md) | 2015-08-21T05:56:50.000Z | 2015-05-16T11:58:41.000Z |
-| 1550 | [d|Bootcamp Taipei - 第十組共筆](../notes/xGnfoqu9RqqRO6BW2qRGCA.md) | 2015-08-21T05:25:08.000Z | 2015-08-07T06:23:53.000Z |
-| 1551 | [d|Bootcamp Taipei - 第一組共筆](../notes/qJAPiKL5QnyY9ptNBljznw.md) | 2015-08-21T05:11:34.000Z | 2015-08-07T06:17:40.000Z |
-| 1552 | [d|Bootcamp Taipei 共筆](../notes/phaahMmXQ-eNmlCS8nL0-A.md) | 2015-08-21T01:15:13.000Z | 2015-08-06T03:15:14.000Z |
+| 1550 | [d\|Bootcamp Taipei - 第十組共筆](../notes/xGnfoqu9RqqRO6BW2qRGCA.md) | 2015-08-21T05:25:08.000Z | 2015-08-07T06:23:53.000Z |
+| 1551 | [d\|Bootcamp Taipei - 第一組共筆](../notes/qJAPiKL5QnyY9ptNBljznw.md) | 2015-08-21T05:11:34.000Z | 2015-08-07T06:17:40.000Z |
+| 1552 | [d\|Bootcamp Taipei 共筆](../notes/phaahMmXQ-eNmlCS8nL0-A.md) | 2015-08-21T01:15:13.000Z | 2015-08-06T03:15:14.000Z |
 | 1553 | [公有地大行動－公務資料庫現況](../notes/LsyBibp8QFq0c9y9uDicfg.md) | 2015-08-20T17:39:16.000Z | 2014-06-30T19:13:11.000Z |
-| 1554 | [d|Bootcamp Taipei - 第三組共筆](../notes/tWSPRA-JQ4-J4jkLP02b0Q.md) | 2015-08-20T16:49:50.000Z | 2015-08-07T06:19:45.000Z |
+| 1554 | [d\|Bootcamp Taipei - 第三組共筆](../notes/tWSPRA-JQ4-J4jkLP02b0Q.md) | 2015-08-20T16:49:50.000Z | 2015-08-07T06:19:45.000Z |
 | 1555 | [地政整合資訊服務共享平台-相關筆記](../notes/cT8y6H-gSrOO5Voj6qHErA.md) | 2015-08-20T16:13:32.000Z | 2015-08-20T15:35:37.000Z |
 | 1556 | [行政院資料開放諮詢小組第三次會議](../notes/Zr-Q2jxEQzOtBnFvZlTkWg.md) | 2015-08-20T08:05:53.000Z | 2015-08-20T06:06:42.000Z |
 | 1557 | [都巿計畫概念](../notes/4Qepo1DjRB6VzXhYMn1JMg.md) | 2015-08-20T04:01:38.000Z | 2015-05-24T03:09:03.000Z |
@@ -1571,7 +1571,7 @@
 | 1567 | [國防](../notes/pcbg8r-fS_W05mgrimGBRA.md) | 2015-08-16T01:34:23.000Z | 2015-08-16T01:29:38.000Z |
 | 1568 | [未來需要的人才](../notes/0BYjueWpQkSwyD_L-g62iw.md) | 2015-08-15T06:57:51.000Z | 2015-08-10T00:58:38.000Z |
 | 1569 | [都市農業－台灣問題現狀分析](../notes/u0gxhEkFRqyXSCz0U3rtyw.md) | 2015-08-15T06:29:47.000Z | 2015-08-14T02:05:36.000Z |
-| 1570 | [d|Bootcamp Taipei](../notes/2Pt5pA8MQ72Yx3rNch97iQ.md) | 2015-08-14T15:15:44.000Z | 2015-05-02T09:03:42.000Z |
+| 1570 | [d\|Bootcamp Taipei](../notes/2Pt5pA8MQ72Yx3rNch97iQ.md) | 2015-08-14T15:15:44.000Z | 2015-05-02T09:03:42.000Z |
 | 1571 | [感謝製作團隊的努力](../notes/TW7cy3BpRRmpkulGA3gs-Q.md) | 2015-08-14T09:08:45.000Z | 2015-08-14T08:59:47.000Z |
 | 1572 | [如何前往國史館查資料](../notes/8nDAYzpKRjCKxW3wYWMHzw.md) | 2015-08-13T15:16:23.000Z | 2015-08-13T08:49:51.000Z |
 | 1573 | [20150524 地參次土地松](../notes/voKVoamJTL68_TTIWhBf_A.md) | 2015-08-13T14:35:32.000Z | 2015-02-17T04:14:23.000Z |
@@ -1776,7 +1776,7 @@
 | 1772 | [［做個統計網站］專門記錄公務機關的海報比賽徵文比賽的總表](../notes/l60EbNEgQzyeovrXHelDfg.md) | 2015-03-20T15:23:37.000Z | 2015-03-20T13:07:46.000Z |
 | 1773 | [線路松一週年：318（第一場）](../notes/HnDLjjVJSb2ZXzeFTxb4Yg.md) | 2015-03-18T17:37:25.000Z | 2015-02-25T06:40:06.000Z |
 | 1774 | [省電取代蓋電廠，數據收集](../notes/l1GvMCngTxe_j4AryHuhNg.md) | 2015-03-18T15:17:47.000Z | 2014-04-27T03:30:58.000Z |
-| 1775 | [APP4AM | 全民除黴計畫 0.5 (封存)](../notes/srvAa5NCQK6kRd5XX-msDQ.md) | 2015-03-18T13:40:35.000Z | 2014-04-17T11:07:30.000Z |
+| 1775 | [APP4AM \| 全民除黴計畫 0.5 (封存)](../notes/srvAa5NCQK6kRd5XX-msDQ.md) | 2015-03-18T13:40:35.000Z | 2014-04-17T11:07:30.000Z |
 | 1776 | [Meeting Notes 2015-03-17 (III)](../notes/BhJ4vmEpRkGpAcVB9poBVA.md) | 2015-03-17T10:54:44.000Z | 2015-03-17T09:51:27.000Z |
 | 1777 | [線路松一週年：321（第二場）](../notes/0rLNU4wvTGSzESluYjrY9A.md) | 2015-03-17T10:07:39.000Z | 2015-03-06T08:54:54.000Z |
 | 1778 | [Untitled - g0v.hackpad.tw](../notes/Q-G3Ok5JQdmyBCeXE2NAuQ.md) | 2015-03-17T09:02:02.000Z | 2015-03-17T09:00:25.000Z |
@@ -2256,7 +2256,7 @@
 | 2252 | [Huerta de SOV 採訪](../notes/CypQOiKFRUelRrIhARg4uQ.md) | 2014-09-06T11:00:55.000Z | 2014-08-20T18:05:22.000Z |
 | 2253 | [第二次除黴會議紀錄(已結束)](../notes/HgeCRs49Q32OwOx0V0KKqw.md) | 2014-09-06T10:58:15.000Z | 2014-06-28T15:32:00.000Z |
 | 2254 | [［作業計畫］華山1914文化創意產業園區（場地限制）](../notes/OEa7RrHsS42ZGzbyOZVMCQ.md) | 2014-09-06T10:53:21.000Z | 2014-04-18T03:39:40.000Z |
-| 2255 | [g0v hackath1n |  台灣零時政府第壹次公地放領黑客松](../notes/M3J3apInSOy6f-TE-_b2zw.md) | 2014-09-06T10:23:22.000Z | 2014-07-21T17:06:22.000Z |
+| 2255 | [g0v hackath1n \|  台灣零時政府第壹次公地放領黑客松](../notes/M3J3apInSOy6f-TE-_b2zw.md) | 2014-09-06T10:23:22.000Z | 2014-07-21T17:06:22.000Z |
 | 2256 | [UX flow](../notes/_YJWKoohSgGGB_PJTpX-1Q.md) | 2014-09-06T09:35:20.000Z | 2014-07-04T07:18:28.000Z |
 | 2257 | [在 Fire.app 中使用 Jade 樣板語法（以 Windows 版為例）](../notes/sdEry_ZXTTO-ayLm6K7A6w.md) | 2014-09-06T07:12:10.000Z | 2013-08-05T18:05:21.000Z |
 | 2258 | [割闌尾V計畫](../notes/BhSgPD2XRwWO_ki51NudeA.md) | 2014-09-06T02:04:42.000Z | 2014-08-30T03:43:54.000Z |
@@ -2284,7 +2284,7 @@
 | 2280 | [長期照顧](../notes/hxogJ6cfQl2_dU-ut_d0dg.md) | 2014-08-30T16:40:31.000Z | 2014-08-21T07:12:27.000Z |
 | 2281 | [快速上手 idea 暫存區](../notes/YKqdx2y_S4CWWZNyskrZGw.md) | 2014-08-30T16:32:25.000Z | 2013-05-25T20:20:19.000Z |
 | 2282 | [天下雜誌訪談共筆](../notes/dQgDTUhOTZKhK5CxqnI67A.md) | 2014-08-30T02:22:05.000Z | 2014-08-18T01:49:10.000Z |
-| 2283 | [黑客松 | 新聞啄木鳥 demo](../notes/YG5Z5Vq6RTajwCHrXrcrZA.md) | 2014-08-29T20:43:02.000Z | 2014-08-29T06:30:16.000Z |
+| 2283 | [黑客松 \| 新聞啄木鳥 demo](../notes/YG5Z5Vq6RTajwCHrXrcrZA.md) | 2014-08-29T20:43:02.000Z | 2014-08-29T06:30:16.000Z |
 | 2284 | [2014/08/18~08/31 公報](../notes/eXhuzJLgT6-1OHMOzWM-Gg.md) | 2014-08-29T06:03:05.000Z | 2014-08-27T14:55:43.000Z |
 | 2285 | [公民直播＆文播，改善分工與量產之方法](../notes/x3C1ngHHSUaX_c4TZ6EbNQ.md) | 2014-08-28T08:32:31.000Z | 2018-08-23T01:12:19.091Z |
 | 2286 | [Fight! 筆戰系統](../notes/4FaUsai3QC6c8JuBJ86YXA.md) | 2014-08-28T07:53:44.000Z | 2014-08-21T13:56:54.000Z |
@@ -2329,7 +2329,7 @@
 | 2325 | [20140612 FEPZ@Bookshow 簡報概要](../notes/70C3Ib6QTZCmZQ5NFombrg.md) | 2014-08-07T20:31:16.000Z | 2014-06-12T06:13:25.000Z |
 | 2326 | [525 萌典併政治獻金松：實作提案](../notes/GSvopFRxRTGIE0ANJuh2tg.md) | 2014-08-06T19:15:09.000Z | 2014-05-08T08:32:34.000Z |
 | 2327 | [5 月萌典松: moed4ct 含直播及文字轉播](../notes/rKdCaGvXQxiQxql9uWQfkQ.md) | 2014-08-06T17:50:56.000Z | 2014-05-07T15:16:33.000Z |
-| 2328 | [APP4AM  |  專家意見整理](../notes/8IPp1-qESMycLRY6CAOe7Q.md) | 2014-08-06T05:30:59.000Z | 2014-05-01T17:01:11.000Z |
+| 2328 | [APP4AM  \|  專家意見整理](../notes/8IPp1-qESMycLRY6CAOe7Q.md) | 2014-08-06T05:30:59.000Z | 2014-05-01T17:01:11.000Z |
 | 2329 | [Clay Shirky講者資料](../notes/Io1QKvz1SMmf0NKpwtN1mw.md) | 2014-08-06T04:29:18.000Z | 2014-08-06T04:12:02.000Z |
 | 2330 | [誤刪 hackpad 如何搶救內容](../notes/50i5BoIwS4ajQczuBm7t3g.md) | 2014-08-06T02:11:10.000Z | 2014-08-05T19:20:59.000Z |
 | 2331 | [《文資法》國際案例](../notes/kSJzhJMXQumffyPr7ykfCg.md) | 2014-08-05T23:36:57.000Z | 2014-07-07T20:58:09.000Z |
@@ -2403,7 +2403,7 @@
 | 2399 | [開放政治獻金 - 資料說明](../notes/W0Jug8K-SSufQ73IiygBaw.md) | 2014-07-05T10:38:10.000Z | 2014-06-21T04:20:41.000Z |
 | 2400 | [新購物運動 - Windows 筆電篇](../notes/3KrSJ5wARoeTesL7mA_8pA.md) | 2014-07-03T11:08:53.000Z | 2014-07-02T18:17:55.000Z |
 | 2401 | [工業局開放資料推動建議](../notes/sumz0bgvQISIz8iXj-PaVA.md) | 2014-07-03T08:52:21.000Z | 2014-07-03T08:19:21.000Z |
-| 2402 | [APP4AM  |  Q&A 統整連結區](../notes/kpdnrpWgTHC8ifD_UXdgEg.md) | 2014-07-02T16:20:14.000Z | 2014-05-02T12:03:25.000Z |
+| 2402 | [APP4AM  \|  Q&A 統整連結區](../notes/kpdnrpWgTHC8ifD_UXdgEg.md) | 2014-07-02T16:20:14.000Z | 2014-05-02T12:03:25.000Z |
 | 2403 | [2014/06/23~06/29 公報](../notes/P17g2V6DSFuPa2YAc2sAlg.md) | 2014-07-02T14:52:36.000Z | 2014-06-23T17:43:01.000Z |
 | 2404 | [消費者互動案例分享](../notes/aRoFc4gtQ0WNQcuWAwckKA.md) | 2014-07-02T14:19:15.000Z | 2014-07-02T03:24:06.000Z |
 | 2405 | [給議案審議程序圖的建議](../notes/WCmH1_aMTeqY-RDmPa4OlA.md) | 2014-07-02T10:02:33.000Z | 2014-07-02T09:31:12.000Z |
@@ -2415,7 +2415,7 @@
 | 2411 | [實體x虛擬公民論壇MVP](../notes/loiKADV7QZiORdS03Jqjmw.md) | 2014-06-30T07:03:52.000Z | 2014-03-26T00:36:12.000Z |
 | 2412 | [步驟 - 將現有作品變成 g0v 專案](../notes/qtlXYOC1SaykTFHshZGUcw.md) | 2014-06-30T06:35:21.000Z | 2014-06-24T17:34:32.000Z |
 | 2413 | [nonuke.today協作hackfoldr交接簿](../notes/nLPwJztHTPabCVxoyeJBDg.md) | 2014-06-28T12:45:35.000Z | 2014-04-29T20:39:00.000Z |
-| 2414 | [APP4AM  | 評價系統設計規範(草稿)](../notes/caHZcrkGTVW8ZidGdTqmkQ.md) | 2014-06-28T11:31:15.000Z | 2014-04-23T15:31:23.000Z |
+| 2414 | [APP4AM  \| 評價系統設計規範(草稿)](../notes/caHZcrkGTVW8ZidGdTqmkQ.md) | 2014-06-28T11:31:15.000Z | 2014-04-23T15:31:23.000Z |
 | 2415 | [PEOPO 參訪筆記](../notes/2ougT0R2RyOMY4A_YQf9Zg.md) | 2014-06-27T17:01:18.000Z | 2014-06-13T06:13:29.000Z |
 | 2416 | [臺南市政府 2014台南黑客松-HackTainan 成果蒐集](../notes/KRdKBXRvSFynEwL84WVQJw.md) | 2014-06-27T06:45:22.000Z | 2014-06-24T01:24:25.000Z |
 | 2417 | [媒體相關專案會碰到的法律問題整理](../notes/g-eEb9m5TjmGq9cylJq8IA.md) | 2014-06-26T16:07:57.000Z | 2014-06-26T15:22:37.000Z |
@@ -2514,7 +2514,7 @@
 | 2510 | [從Web 2.0到Gov 2.0－網路改變政治十年之路](../notes/yMf2hGNgR6CDI2OtLwLlGQ.md) | 2014-05-17T17:05:31.000Z | 2014-05-11T16:20:27.000Z |
 | 2511 | [513 Viet Hoa](../notes/MvOoZTzWRv2bfad-y4tmJw.md) | 2014-05-16T08:58:21.000Z | 2014-05-16T08:12:08.000Z |
 | 2512 | [動民主 2.0 app 化 a.k.a. 動民主 1.337](../notes/ObFcwR02SnG6h4gsJ2k0rw.md) | 2014-05-16T08:15:49.000Z | 2014-02-12T05:36:07.000Z |
-| 2513 | [動民主 2.0 | Social Democracy](../notes/gsP2yupgTT6q3i-eKBu1Sg.md) | 2014-05-16T08:12:37.000Z | 2013-07-17T18:42:05.000Z |
+| 2513 | [動民主 2.0 \| Social Democracy](../notes/gsP2yupgTT6q3i-eKBu1Sg.md) | 2014-05-16T08:12:37.000Z | 2013-07-17T18:42:05.000Z |
 | 2514 | [2013 下半年度公報](../notes/tvCeDl7XSFuZtHr4qeFjDQ.md) | 2014-05-16T07:07:32.000Z | 2014-01-02T13:36:10.000Z |
 | 2515 | [財團法人開放文化基金會捐助章程](../notes/ifibdZKwSHm3qa6WA67rpQ.md) | 2014-05-16T04:03:55.000Z | 2014-02-26T07:45:34.000Z |
 | 2516 | [2014/05/12~05/18 公報](../notes/RkntwoWNSseUeIRHYpciCA.md) | 2014-05-16T03:45:38.000Z | 2014-05-13T16:51:46.000Z |
@@ -2702,7 +2702,7 @@
 | 2698 | [捍衛新聞媒體報導的客觀性與正確性](../notes/3Dx98--QQFmydDo2JDlqXA.md) | 2014-04-07T08:44:53.000Z | 2014-04-05T17:12:24.000Z |
 | 2699 | [在會場中建立可靠的訊息傳遞網路](../notes/mEeZehwDQGm74C5cWkogbQ.md) | 2014-04-07T07:10:28.000Z | 2014-03-20T17:41:32.000Z |
 | 2700 | [學界連署/聲明平台](../notes/nZlA2RQdQVC3bfUYssqNsA.md) | 2014-04-07T06:34:27.000Z | 2014-04-05T20:14:41.000Z |
-| 2701 | [MaD | clkao: Open Source, Open Data, Open Government 字幕翻譯](../notes/D_aSsx01S92kep0O_ekUrA.md) | 2014-04-07T03:02:18.000Z | 2014-04-04T09:31:11.000Z |
+| 2701 | [MaD \| clkao: Open Source, Open Data, Open Government 字幕翻譯](../notes/D_aSsx01S92kep0O_ekUrA.md) | 2014-04-07T03:02:18.000Z | 2014-04-04T09:31:11.000Z |
 | 2702 | [g0v x 太陽花事件](../notes/7dTDjO6tRJmVt9Lx5R0vDg.md) | 2014-04-07T02:17:57.000Z | 2014-04-07T01:48:51.000Z |
 | 2703 | [書訊：政治學的世界](../notes/dcahkSJWRN2i2AxEPwIKXA.md) | 2014-04-06T16:57:55.000Z | 2014-03-16T14:24:09.000Z |
 | 2704 | [破報採訪共筆：佔領立法院](../notes/1ETz9KoLT9yOSl2td3-YdA.md) | 2014-04-06T11:07:53.000Z | 2014-03-17T06:48:08.000Z |
@@ -2845,7 +2845,7 @@
 | 2841 | [2013/11/24 ~11/30 公報](../notes/ohE8bgg-RDm-8nSRcR0Gbw.md) | 2014-02-12T15:14:23.000Z | 2013-11-26T13:21:44.000Z |
 | 2842 | [2013/12/08 ~12/14 公報](../notes/l2eSh9uXTn-T6RcsUCb2Mg.md) | 2014-02-12T06:25:43.000Z | 2013-12-10T13:07:11.000Z |
 | 2843 | [2013/10/07 ~10/13 公報](../notes/RvFc2kfBQNGPZEbsZ0eTCg.md) | 2014-02-11T17:19:51.000Z | 2013-10-06T16:33:46.000Z |
-| 2844 | [g0v Dev Policy | 零時政府開發政策](../notes/ezsi0OMwScmGhZKu_yDp3g.md) | 2014-02-11T17:13:23.000Z | 2014-02-11T02:45:27.000Z |
+| 2844 | [g0v Dev Policy \| 零時政府開發政策](../notes/ezsi0OMwScmGhZKu_yDp3g.md) | 2014-02-11T17:13:23.000Z | 2014-02-11T02:45:27.000Z |
 | 2845 | [2013/09/16 ~09/22 公報](../notes/k80MUbviQGGOALZ2B_9k9w.md) | 2014-02-11T17:12:11.000Z | 2013-09-16T01:57:46.000Z |
 | 2846 | [2013/10/01 ~10/06 公報](../notes/EYFAdOflR0CrOIxqMb8L8w.md) | 2014-02-11T17:03:45.000Z | 2013-09-30T16:46:23.000Z |
 | 2847 | [動民主家族歷次小輕松隨手記](../notes/gGjjzTjeROi-bG1QkiA-EQ.md) | 2014-02-11T08:40:41.000Z | 2014-01-05T09:09:28.000Z |
@@ -2916,7 +2916,7 @@
 | 2912 | [g0v x NSC research project](../notes/SWQlJaL-R1q9-LfQo0dfhw.md) | 2013-12-19T23:51:06.000Z | 2013-12-06T14:30:30.000Z |
 | 2913 | [FAQ 共用版](../notes/T98ElSG_SLiGXBGFs4DU2w.md) | 2013-12-19T07:41:14.000Z | 2013-12-19T07:30:21.000Z |
 | 2914 | [政誌 - 討論與建議](../notes/FOd7MeHsSTmSWb5f-SnVIA.md) | 2013-12-18T15:34:59.000Z | 2013-07-26T10:32:31.000Z |
-| 2915 | [全民踹共 - 公民社交網 | Social Democracy （過期文件不用看 XD）](../notes/LknOWBf9Qr6CVQ6CTwdIUg.md) | 2013-12-18T14:57:59.000Z | 2013-07-21T10:01:09.000Z |
+| 2915 | [全民踹共 - 公民社交網 \| Social Democracy （過期文件不用看 XD）](../notes/LknOWBf9Qr6CVQ6CTwdIUg.md) | 2013-12-18T14:57:59.000Z | 2013-07-21T10:01:09.000Z |
 | 2916 | [綠黨網路支黨部成立趴筆記](../notes/aS5nmL7sQtWmD3lZRbcK_Q.md) | 2013-12-18T14:53:24.000Z | 2013-11-08T11:21:19.000Z |
 | 2917 | [動民主 2.0 responsive plan（過期文件不用看 XD）](../notes/CE_YAGUQSkih-PSrNeC9gA.md) | 2013-12-18T14:46:37.000Z | 2013-09-12T05:33:47.000Z |
 | 2918 | [立院名言錄（長笑歌籌備處）](../notes/pbxxc5cnQzSCDsb8R4BAzQ.md) | 2013-12-18T08:50:04.000Z | 2013-12-16T14:44:55.000Z |
@@ -2944,7 +2944,7 @@
 | 2940 | [g1v work items](../notes/-iT2meZ9Sd6Jxus2lIauiQ.md) | 2013-11-03T02:35:48.000Z | 2013-11-02T02:38:11.000Z |
 | 2941 | [ly.g0v.tw 零時政府立院網站徵求命名](../notes/2yNz6qBGQZm0eRsNoDeSBg.md) | 2013-11-02T19:50:53.000Z | 2013-11-01T03:41:27.000Z |
 | 2942 | [twlaw UI (abstract)](../notes/Svhz8HdbQ1uIFS0YcdAfIw.md) | 2013-10-28T00:42:37.000Z | 2013-10-06T15:51:27.000Z |
-| 2943 | [服貿協議 | 審議平台](../notes/ntjtBe4CThWlD20LghC7EA.md) | 2013-10-27T12:13:01.000Z | 2013-06-27T04:24:21.000Z |
+| 2943 | [服貿協議 \| 審議平台](../notes/ntjtBe4CThWlD20LghC7EA.md) | 2013-10-27T12:13:01.000Z | 2013-06-27T04:24:21.000Z |
 | 2944 | [農業資料分類區](../notes/oz2RatncS6y8sCqckh7odg.md) | 2013-10-27T00:23:53.000Z | 2013-10-23T08:13:41.000Z |
 | 2945 | [立院影城](../notes/ws2BYq_wTZOZw0lRx3TZ9g.md) | 2013-10-22T08:23:09.000Z | 2013-10-20T04:09:59.000Z |
 | 2946 | [[hackath5n] 文字即時記錄](../notes/nuIOu6kQR8OiZdbkj3C_pA.md) | 2013-10-22T08:19:31.000Z | 2013-10-20T01:50:03.000Z |
@@ -3025,9 +3025,9 @@
 | 3021 | [Hackathon for Students (g0v)](../notes/ePdWSrTeQEqJjfAk4pn7cg.md) | 2013-07-23T02:19:06.000Z | 2013-07-22T14:51:02.000Z |
 | 3022 | [Timeline Editor](../notes/B20IW-iBRFWYMqCyL7VEyQ.md) | 2013-07-20T15:55:29.000Z | 2013-07-20T15:25:25.000Z |
 | 3023 | [g0v pre-hackath4n](../notes/Netyh8pXTNy3Vy2bNkjdJA.md) | 2013-07-15T15:10:42.000Z | 2013-07-08T14:44:28.000Z |
-| 3024 | [社會議題追蹤網](../notes/tv-8puj6SHukJ7GDS_66Yw.md) | 2013-07-09T04:31:57.000Z | 2013-06-08T05:16:04.000Z |
-| 3025 | [STOP TW SOPA 文案](../notes/dj3AANJwSZ6X6fWsCVAqqA.md) | 2013-07-09T04:31:57.000Z | 2013-06-02T16:55:30.000Z |
-| 3026 | [服貿協議 | 網路串連前期討論](../notes/Lnkdlb0XRM-fDBYZg-l9LQ.md) | 2013-07-09T04:31:50.000Z | 2013-07-06T01:31:47.000Z |
+| 3024 | [STOP TW SOPA 文案](../notes/dj3AANJwSZ6X6fWsCVAqqA.md) | 2013-07-09T04:31:57.000Z | 2013-06-02T16:55:30.000Z |
+| 3025 | [社會議題追蹤網](../notes/tv-8puj6SHukJ7GDS_66Yw.md) | 2013-07-09T04:31:57.000Z | 2013-06-08T05:16:04.000Z |
+| 3026 | [服貿協議 \| 網路串連前期討論](../notes/Lnkdlb0XRM-fDBYZg-l9LQ.md) | 2013-07-09T04:31:50.000Z | 2013-07-06T01:31:47.000Z |
 | 3027 | [g0v post-hackath3n](../notes/rjsA_P_KQGG2R4KZsfjhgg.md) | 2013-06-23T05:28:26.000Z | 2013-06-22T14:34:01.000Z |
 | 3028 | [MoeDict - 萌典](../notes/Ln92f8-PSieyUH0OzWsRpQ.md) | 2013-06-16T11:36:17.000Z | 2013-06-08T02:22:01.000Z |
 | 3029 | [everyone交通感應器](../notes/O5a4qAI9S6-ZAqNiWn0VTg.md) | 2013-06-15T11:50:05.000Z | 2018-08-23T01:32:15.618Z |

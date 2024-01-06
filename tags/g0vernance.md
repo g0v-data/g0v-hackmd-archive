@@ -23,7 +23,7 @@
 | 19 | [g0v slack 版名改名草案 20220312](../notes/wUL9L_T5SYmccI_2PistNQ.md) | 2022-03-12T07:55:49.675Z | 2022-03-12T07:22:21.128Z |
 | 20 | [How to fork g0v.tw](../notes/CpZvH-DRTjOrlFZzfydGNw.md) | 2021-08-26T02:05:46.876Z | 2021-08-26T01:28:33.967Z |
 | 21 | [g0v マニフェスト (2019/10/20 修正) - Japanese](../notes/1gqoyQZIQXa3pK85HKF-UA.md) | 2021-07-07T09:40:47.068Z | 2021-06-28T04:39:32.559Z |
-| 22 | [g0v Foreign Policy | 零時政府外交政策](../notes/jwZx-YooQNKkKCQHFg-6qA.md) | 2021-07-05T12:16:21.061Z | 2014-01-05T06:48:23.000Z |
+| 22 | [g0v Foreign Policy \| 零時政府外交政策](../notes/jwZx-YooQNKkKCQHFg-6qA.md) | 2021-07-05T12:16:21.061Z | 2014-01-05T06:48:23.000Z |
 | 23 | [g0v IRC 現況](../notes/3wfzSv2DSWeBPKbm7yXe6g.md) | 2021-06-26T11:58:05.501Z | 2021-05-22T07:20:19.609Z |
 | 24 | [g0v slack app 登記](../notes/xbrqQThXSNmWTepWqbZ9GQ.md) | 2021-06-12T07:20:16.872Z | 2021-06-01T11:54:44.984Z |
 | 25 | [g0v Manifesto (2019/10/20 Amendment) - English](../notes/r4IvECqxRyK2D6PzuPug-A.md) | 2021-05-22T08:56:51.534Z | 2019-11-17T09:07:00.567Z |
@@ -32,7 +32,7 @@
 | 28 | [每月社群大小事 What’s happening in g0v](../notes/JoNZjrU9TjO6oR5OcJ0Dng.md) | 2020-11-17T05:46:40.679Z | 2019-07-05T00:02:01.953Z |
 | 29 | [g0v-intl：g0v 國際交流社群工作小組開放治理機制](../notes/Ozy9SKwORXOIBFiGdSkLtw.md) | 2020-06-01T05:40:41.084Z | 2019-05-06T10:11:17.277Z |
 | 30 | [g0v.news 社群治理機制／g0v.news governance](../notes/t5qvF5BARUa0yEKYdNG7QA.md) | 2020-04-09T17:00:25.724Z | 2019-06-29T03:26:17.894Z |
-| 31 | [g0v Media Policy | 零時政府媒體政策](../notes/kqQGe6yhQgWFIya5Ztvajg.md) | 2020-03-18T09:26:53.388Z | 2014-03-31T19:45:40.000Z |
+| 31 | [g0v Media Policy \| 零時政府媒體政策](../notes/kqQGe6yhQgWFIya5Ztvajg.md) | 2020-03-18T09:26:53.388Z | 2014-03-31T19:45:40.000Z |
 | 32 | [論開放協作 g0v 專案使用 Google Drive 的設定方法 – 以 0archive 為例](../notes/SSLq2Ga2QMyDXI3J-D2Ccg.md) | 2020-03-16T16:40:12.329Z | 2019-03-08T09:10:01.194Z |
 | 33 | [g0v GitHub 申請規範 v0.1](../notes/I4_oYRIvT9S0RKufKKKKvg.md) | 2020-01-21T07:27:47.477Z | 2020-01-18T07:11:40.521Z |
 | 34 | [g0v github 社群規範討論](../notes/1wFAJoQeTrmw9pnjcqPkXg.md) | 2020-01-19T11:57:56.761Z | 2020-01-18T06:02:29.164Z |

@@ -15,18 +15,18 @@
 | 11 | [Rentea x OURS 租客組織](../notes/29u9XfabTsumGVChv7TMFA.md) | 2023-09-11T08:40:03.104Z | 2023-05-03T14:41:49.491Z |
 | 12 | [Rentea 小聚新提議](../notes/q89qMsHERWOyPg0q0F6YdQ.md) | 2023-08-16T06:53:06.357Z | 2023-08-15T12:51:29.543Z |
 | 13 | [Rentea 初夏小聚！遮陽 x 無損立柱 - Labrico 頂天立地竹簾架試做](../notes/BuG8A87WQLyYkDSw165ljw.md) | 2023-08-15T13:50:57.379Z | 2023-05-17T07:10:38.097Z |
-| 14 | [重新啟動提案 | 長租剛好](../notes/7nsHOG-NRZa0GXoHDAol3A.md) | 2023-07-08T03:40:13.455Z | 2023-07-08T02:59:08.197Z |
+| 14 | [重新啟動提案 \| 長租剛好](../notes/7nsHOG-NRZa0GXoHDAol3A.md) | 2023-07-08T03:40:13.455Z | 2023-07-08T02:59:08.197Z |
 | 15 | [長租剛好專案資料夾](../notes/J9OZeD39SnesR56AbwrT2g.md) | 2023-07-08T03:31:10.623Z | 2022-11-14T08:05:46.964Z |
 | 16 | [Rentea Tuesday #28 小筆記](../notes/Y_9hlib1Rt-AO_R9qg6xRA.md) | 2023-06-20T11:27:16.022Z | 2021-06-29T09:31:36.260Z |
 | 17 | [Rentea Tuesday #70 小筆記](../notes/qMeRBz9xQf-fbu_c2cFA3A.md) | 2023-06-09T12:45:56.057Z | 2023-05-20T06:34:15.892Z |
 | 18 | [2022-06-01 g0v Underground 零時電台 EP 7](../notes/eCPMQEZnRGi-Tm0jaPywQA.md) | 2023-05-29T14:30:07.942Z | 2023-05-28T13:04:50.542Z |
 | 19 | [租屋相關法規整理](../notes/kgQvBVMgQhaVcvjrFZ6wmw.md) | 2023-05-26T16:29:42.735Z | 2023-05-26T16:11:43.122Z |
 | 20 | [Rentea Tuesday #63-69小筆記](../notes/7r-3b8ekQvCU5m5PtjCSsA.md) | 2023-05-16T13:18:36.271Z | 2023-02-03T08:04:24.473Z |
-| 21 | [長租剛好 - 市場研究與服務提案 | 第一間房子延續提案](../notes/vhCCXl1tQBKA0gdixZw_jA.md) | 2023-03-16T11:03:42.899Z | 2022-07-03T07:45:02.554Z |
+| 21 | [長租剛好 - 市場研究與服務提案 \| 第一間房子延續提案](../notes/vhCCXl1tQBKA0gdixZw_jA.md) | 2023-03-16T11:03:42.899Z | 2022-07-03T07:45:02.554Z |
 | 22 | [#2 零時小學校 / 零時小學校 2022-23 決選參賽團隊成果資料上傳](../notes/g_sw3E43RyWQiMoAK7zAoQ.md) | 2023-03-07T14:33:27.303Z | 2023-03-07T13:47:20.261Z |
 | 23 | [20 年後，你想住在怎麼樣的城市裡？](../notes/RhTrCD4QROuL4ei_ZT0Bag.md) | 2023-03-07T14:15:33.523Z | 2023-03-06T11:25:42.596Z |
 | 24 | [資料整理 ==標題徵求中==](../notes/NK09V7gOSW-K_K4ka5b5QQ.md) | 2023-03-07T12:55:55.165Z | 2023-03-02T08:15:21.643Z |
-| 25 | [長租剛好 | 2022 回顧與檢討](../notes/ABrRKALbSS-h9ps801nzaQ.md) | 2023-02-11T08:04:51.551Z | 2023-02-07T07:54:46.899Z |
+| 25 | [長租剛好 \| 2022 回顧與檢討](../notes/ABrRKALbSS-h9ps801nzaQ.md) | 2023-02-11T08:04:51.551Z | 2023-02-07T07:54:46.899Z |
 | 26 | [Rentea Tuesday #63 小筆記](../notes/gb9u342bQxKgOvhPVZjDQw.md) | 2023-02-07T07:51:46.441Z | 2023-02-07T07:49:56.855Z |
 | 27 | [Rentea Tuesday #57-62 小筆記](../notes/RWphknJ8TlKsTrhiV-3L0w.md) | 2023-02-03T08:03:26.560Z | 2023-02-03T08:03:26.560Z |
 | 28 | [Rentea Tuesday #57-62 小筆記](../notes/c6EV9HCnTy2sE8Isbsiqrg.md) | 2023-02-03T07:29:18.919Z | 2022-10-26T12:14:20.384Z |
@@ -38,12 +38,12 @@
 | 34 | [零時小學校 初選入圍共筆](../notes/pGYBYQjlQ2CoI5vJBVjZEA.md) | 2022-12-08T13:53:38.809Z | 2022-12-07T10:11:10.669Z |
 | 35 | [長租剛好 - 市場研究與服務提案啟動！](../notes/I6rGt7AvTo6SowIH-9mr6w.md) | 2022-11-13T10:04:35.718Z | 2022-10-26T12:27:53.606Z |
 | 36 | [長租剛好 - 各種小點子 by ddio](../notes/HwRYHDxoQYixaWE9Je2RyQ.md) | 2022-11-01T13:28:52.487Z | 2022-10-16T12:02:43.928Z |
-| 37 | [長租剛好 - 市場研究與服務提案 | schoo1 提案](../notes/ZRZ4Mj5_SkO30TmB3PBl-g.md) | 2022-11-01T13:18:06.200Z | 2022-10-16T03:58:07.905Z |
+| 37 | [長租剛好 - 市場研究與服務提案 \| schoo1 提案](../notes/ZRZ4Mj5_SkO30TmB3PBl-g.md) | 2022-11-01T13:18:06.200Z | 2022-10-16T03:58:07.905Z |
 | 38 | [Rentea Tuesday #55-56 小筆記](../notes/rYFiszDUSSujApZwyIFqIQ.md) | 2022-10-26T12:14:11.464Z | 2022-09-25T02:10:52.595Z |
 | 39 | [Rentea Tuesday #51-54 小筆記](../notes/pCwbcp0rTreXkoGVfbVeLg.md) | 2022-09-13T10:27:15.442Z | 2022-08-01T09:30:46.265Z |
 | 40 | [蓋房不難。難在台灣的天災、法規及潛規則](../notes/SdjXJQzdS2-XSel830vO5w.md) | 2022-09-07T10:28:10.301Z | 2022-08-20T03:45:04.906Z |
 | 41 | [住宅租賃市場樣貌與發展趨勢 - 演講紀錄共筆](../notes/TEjQmlJcRHOP0JYS9s0RsQ.md) | 2022-08-18T07:25:45.333Z | 2022-08-17T06:13:31.608Z |
-| 42 | [長租剛好 - 跨界實做 | 第一間房子延續提案](../notes/8qFka1YNQcCOZC_PT-Rjxg.md) | 2022-08-16T09:09:34.400Z | 2022-08-16T08:33:09.183Z |
+| 42 | [長租剛好 - 跨界實做 \| 第一間房子延續提案](../notes/8qFka1YNQcCOZC_PT-Rjxg.md) | 2022-08-16T09:09:34.400Z | 2022-08-16T08:33:09.183Z |
 | 43 | [Rentea 營運企劃簡報](../notes/Yxv5lUBQS76w8JbcLzxAeg.md) | 2022-08-16T08:49:10.319Z | 2022-05-22T15:04:41.816Z |
 | 44 | [Rentea Tuesday #XX 小筆記](../notes/koM0_0VZRkWpwN83PfL_tA.md) | 2022-08-01T09:36:24.653Z | 2021-08-10T02:03:34.025Z |
 | 45 | [Rentea Tuesday #47-50 小筆記](../notes/ugDwI-AVTC2PltpNz9r0fQ.md) | 2022-07-20T05:15:39.789Z | 2022-05-25T13:51:13.759Z |

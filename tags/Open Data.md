@@ -11,7 +11,7 @@
 | 7 | [開放資料調查研究計劃工作倫理承諾書（模版）](../notes/qKXCn5xmQoydp3dkZROGbA.md) | 2016-07-05T01:39:31.000Z | 2016-06-29T08:46:17.000Z |
 | 8 | [縣市開放資料集索引](../notes/KigY73IpQEOGRbH4OXjzaA.md) | 2016-05-05T03:54:58.000Z | 2016-04-26T23:59:41.000Z |
 | 9 | [Meeting Notes 2015-01-12 (TODC)](../notes/r6Xh8h7yTH2vt-KDnp0UVw.md) | 2015-11-16T08:44:39.000Z | 2015-01-12T07:55:39.000Z |
-| 10 | [d|Bootcamp Taipei 共筆 - 資料在哪裡？](../notes/_9WbiIqVRi-pmi3wFHuRhQ.md) | 2015-08-21T07:55:09.000Z | 2015-08-07T04:32:10.000Z |
+| 10 | [d\|Bootcamp Taipei 共筆 - 資料在哪裡？](../notes/_9WbiIqVRi-pmi3wFHuRhQ.md) | 2015-08-21T07:55:09.000Z | 2015-08-07T04:32:10.000Z |
 | 11 | [Meeting Notes 2015-03-04 (MOC)](../notes/YqciVVvpTliM-P-IS0HSAA.md) | 2015-03-10T08:09:32.000Z | 2015-03-02T17:35:00.000Z |
 | 12 | [Meeting Notes 2015-02-10 (NDC)](../notes/W5LsH5d9R0uU5Oy9p9J0TQ.md) | 2015-02-19T15:54:53.000Z | 2015-02-10T11:20:48.000Z |
 | 13 | [0rg.tw - 開放文化基金會（暫定）](../notes/x6e7mZ1xTZWtpAiQ-TO1lQ.md) | 2015-01-06T12:07:28.000Z | 2014-02-18T17:55:47.000Z |

@@ -83,14 +83,10 @@ https://cofacts.g0v.tw/hoax-for-you
 
 ## 協作
 
-選務謠言筆記
-- cai：整理中選會資源、選務謠言
-- anger：[投開票所作業程序動畫教材 逐字稿](https://g0v.hackmd.io/@mrorz/vote-fraud-hoax/%2FHw7fiVMaS_KmWvZ2EA49Gw)、查核
-- YC：[投開票所作業程序動畫教材 逐字稿](https://g0v.hackmd.io/@mrorz/vote-fraud-hoax/%2FHw7fiVMaS_KmWvZ2EA49Gw)
-- Tonie：查訊息
-- 4000 協助介紹 Cofacts
+## 成果
 
-<!--
-Development
-- Moritz
--->
+### 選務選制謠言
+https://g0v.hackmd.io/@mrorz/vote-fraud-hoax
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_21072b5acb918dba73329b94de5e45a7.png)
+
