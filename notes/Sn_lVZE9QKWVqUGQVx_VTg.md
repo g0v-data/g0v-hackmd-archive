@@ -15,7 +15,7 @@ nonprofit-helper
 
 
 ## 專案團隊討論共筆
-[nonprofit-helper Home](/eivkYtpjQiSQHyP7M-H9zA?both)
+[nonprofit-helper Home](/eivkYtpjQiSQHyP7M-H9zA?view)
 
 ## 此專案於 g0v slack 的頻道名稱
 #edu-nonprofit-helper

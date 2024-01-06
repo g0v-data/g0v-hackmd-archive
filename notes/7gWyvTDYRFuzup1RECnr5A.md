@@ -50,8 +50,13 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 - [`2018` 留下空白票，會被拿去作弊](https://cofacts.tw/article/3o8eui2cp97j5)
 - [`2022` 如果不領或不蓋，他們就可以自己蓋](https://cofacts.tw/article/w6na24vj8s41)
 - [`2022` 中選會規定公投票不會提醒你要領票](https://cofacts.tw/article/vonzkmz0hmq3)
-- [`2018` 墨水改油性](https://cofacts.tw/article/3pafqprocgjxy)
+- [`2018` 印泥是油性](https://cofacts.tw/article/sugvotk1h47m)
+- [`2018` 今年投票蓋的章，是油性的，不容易乾](https://cofacts.tw/article/f0lnv0rfgpib)
+- [`2018` 印泥很濕、選務人員手髒](https://cofacts.tw/article/eysqdivavbp4)
 - [`2019` 選票上有蠟](https://cofacts.tw/article/36cgjv32naww6)
+- [`2018` 假買票](https://cofacts.tw/article/l9jihodgxec8)
+- [`2018` 公投號次亂改](https://cofacts.tw/article/ikqyezmx3q5x)
+- [`2018` 前一天晚上 10 點不能傳選舉](https://cofacts.tw/article/1w58pt5h3sq46)
 
 ### 隱形墨水
 - [`2020` CIA 隱形墨水](https://cofacts.tw/article/3pzx67i5g14ga)
@@ -98,7 +103,9 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 - [`2022` 口罩要素面無花紋](https://cofacts.tw/article/UPpllIQBC7Q3lHuUTUk9)
 
 ### 選前十天不傳文宣
+- [`2018` 不能在群組中傳任何民調，罰 50 萬（正確）](https://cofacts.tw/article/j910eqlg1acn)
 - [`2018` 不要傳選舉有關文字](https://cofacts.tw/article/ni4ya18o13q7)
+- [`2018` 禁止用 line，臉書兒，傳任何選舉有關之訊息](https://cofacts.tw/article/1cnyvslpazz8v)
 - [`2020` 反滲透法通過，別傳選舉文宣](https://cofacts.tw/article/1zis0072501ip) 
 - [`2020` 選舉最後10天，請不要發布有關選舉政治話題，已有多人已被違反社會秩序法被約談](https://cofacts.tw/article/2osur99scqkg0)
 - [`2024` 投票日前十天起禁止發送或傳閱各種選舉海報或文宣](https://cofacts.tw/article/2gdqrp3zrufpr)

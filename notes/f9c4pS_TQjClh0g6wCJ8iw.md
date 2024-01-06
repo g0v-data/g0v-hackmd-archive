@@ -34,7 +34,7 @@ vTaiwan 自從 2014 太陽花學運後創立，是當時的政府為了增進公
 :::
 - 如果想要成為參與者，強烈建議先看 [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 - 如果對於每週小聚有興趣，可以參考左邊文件列下方的小松紀錄 
-    - 最新的小松 [1220 小松](/0vjJKyzsRuuKg_pj75z-kQ)
+    - 最新的小松 [0110小松](/ZxqLTv5DQdGXPdSYNKLJHw)
 - 如果對於目前進行中的專案感興趣，歡迎參考左邊文件列中的進行中專案
 - 如果對於過去的專案感興趣，歡迎參考左邊文件列中的過去專案
 - 如果想要參考相關資料：可以去 vTaiwan 相關資料整理。

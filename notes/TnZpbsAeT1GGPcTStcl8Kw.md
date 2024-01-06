@@ -88,37 +88,60 @@ https://cofacts.g0v.tw/hoax-for-you
 - Anger
 
 ### Programming
-- Jack - chatbot reply enhancement
+- Jack - [chatbot reply enhancement](https://github.com/cofacts/rumors-line-bot/pull/382)
 - Simon - website
-- Dennis - open data
+- Dennis - [open data reformat]()
+- Eliot - [moderation command tool enhancement](https://github.com/cofacts/rumors-api/pull/328)
 
 
-## 成果
+## 成果 - 選務選制謠言
 
-### 選務選制謠言
 https://g0v.hackmd.io/@mrorz/vote-fraud-hoax
 
-#### 最後十天不要討論政治
+### 最後十天不要討論政治
 這幾天很紅
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8a5eb4ed49d75ff12787f34278cb1de2.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b5655ee82faab41b5729079cd8c2e954.png)
 
-2018 年版本
+2018 年版本（投票日：1124）
+對的：
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_233d459caae486f3ea98caa50651fb0b.png)
+
+錯的：
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3b5a9e26836e7706c9742e62cbd84b31.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_49d768228d7a2b8e2535366f0f101623.png)
 
 2020 年版本
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b5f10f30cb8ddc8cb0baafb046fb8a32.png)
 
-這個訊息有人信嗎？
+2023 年變體們
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d19c20eac002661fe310f28b57b7ece9.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_373103c410a622b1770c973aa45f4bd2.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bae7018a743f9b5b39f2657a6436406a.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8a5eb4ed49d75ff12787f34278cb1de2.png)
+
+這種訊息有人信嗎？
 不知道，但總有人會擴散。
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_21072b5acb918dba73329b94de5e45a7.png)
 
 ### 投票餿主意
 
-2018
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4114ffb2e55bb00ac8e8b45af9268746.png)
+晚投票可以防做票
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3e40e29d860c14f0432257d2c3e8d609.png)
 
+「晚投票可以防做票」是謠言，會導致投不到票
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9d517d05f526ebec2fc6942df366afd1.png)
 
 實際規範：
 https://g0v.hackmd.io/Hw7fiVMaS_KmWvZ2EA49Gw#%E6%8A%95%E7%A5%A8%E6%99%82%E9%96%93%E6%88%AA%E6%AD%A2%E5%8F%8A%E9%96%8B%E7%A5%A8%E5%89%8D%E4%BD%9C%E6%A5%AD
+
+圈選器很髒一定要戴手套圈票
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7f3098199cddd0914fcb30fb37dcf999.png)
+
+戴手套圈票違法
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_91e6f76cb36a2311fda531c8324c40e0.png)
+
+融合！
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_277614ca43c38a338acb0b5535128206.png)
+
