@@ -44,4 +44,18 @@ tags: vTaiwan
     - 活動紀錄：希望能夠有人負責紀錄活動的討論，目前宛真有跳坑。
 
 
-## 
+## Considerit 測試意見
+
+- creating account 會產生使用者的心理障礙
+    - 使用者對於建立帳號與認證email 會有門檻
+    - 在不建立account的情形下，能否參與討論
+    - 註冊是一個很麻煩的事情
+    - 不註冊是可以review意見，但註冊
+- 雖然是光譜，但是還是要回歸到二分法裡面去進行
+    - 設計spetrum的兩端很重要。
+    - 如何設計相關的議題要經過討論
+- Content moderation policy 
+    - 要調整
+
+- polis 是可以將意見群體轉成二維的矩陣
+    - considerit 目前沒辦法

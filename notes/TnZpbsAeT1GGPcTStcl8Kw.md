@@ -88,5 +88,18 @@ https://cofacts.g0v.tw/hoax-for-you
 ### 選務選制謠言
 https://g0v.hackmd.io/@mrorz/vote-fraud-hoax
 
+#### 最後十天不要討論政治
+這幾天很紅
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8a5eb4ed49d75ff12787f34278cb1de2.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b5655ee82faab41b5729079cd8c2e954.png)
+
+2018 年版本
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_49d768228d7a2b8e2535366f0f101623.png)
+
+2020 年版本
+
+回到 2023
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_21072b5acb918dba73329b94de5e45a7.png)
+
 

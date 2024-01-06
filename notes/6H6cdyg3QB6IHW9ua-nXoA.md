@@ -1,7 +1,7 @@
 ---
 tags: Rentea
 ---
-# Rentea Tuesday #71, 73, 75, 77, 79, 81單數線上小聚筆記
+# Rentea Tuesday #71, 73, 75, 77, 79, 81, 83 單數線上小聚筆記
 
 - 文件授權： [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.zh_TW)
 - 地點：
