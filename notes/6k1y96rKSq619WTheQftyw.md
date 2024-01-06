@@ -45,17 +45,19 @@ tags: vTaiwan
 
 
 ## Considerit 測試意見
-
+- 感謝張馳！
 - creating account 會產生使用者的心理障礙
     - 使用者對於建立帳號與認證email 會有門檻
     - 在不建立account的情形下，能否參與討論
     - 註冊是一個很麻煩的事情
-    - 不註冊是可以review意見，但註冊
+    - 不註冊是可以review意見，但註冊後才能參與討論，這樣會降低意見的多元性？
+        - 但是註冊功能也讓後續追蹤成為可能
 - 雖然是光譜，但是還是要回歸到二分法裡面去進行
     - 設計spetrum的兩端很重要。
     - 如何設計相關的議題要經過討論
 - Content moderation policy 
     - 要調整
-
 - polis 是可以將意見群體轉成二維的矩陣
-    - considerit 目前沒辦法
+    - considerit 目前沒辦法做到意見的視覺化
+    - 匯出資料然後用 talktothecity？
+    - 不用登入，使用者打開就可以直接按勾勾或叉叉，使用體驗直覺、簡單

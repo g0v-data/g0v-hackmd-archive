@@ -47,6 +47,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 - [`2022` 集體偷票 無法無天](https://cofacts.tw/article/04ubOIQBv5it-Cx_C6yg)
 - [`2022` 屏東不亮票是合理的嗎](https://cofacts.tw/article/2vppvoQBC7Q3lHuUsHHa)
 - [`2022` 桃園選務疏失訛傳為屏東](https://cofacts.tw/article/tPq7wYQBC7Q3lHuUZnQM)
+- [`2018` 留下空白票，會被拿去作弊](https://cofacts.tw/article/3o8eui2cp97j5)
 - [`2022` 如果不領或不蓋，他們就可以自己蓋](https://cofacts.tw/article/w6na24vj8s41)
 - [`2022` 中選會規定公投票不會提醒你要領票](https://cofacts.tw/article/vonzkmz0hmq3)
 - [`2018` 墨水改油性](https://cofacts.tw/article/3pafqprocgjxy)
@@ -66,8 +67,8 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 
 ### 紙箱票匭不透明
 
-- [(圖)怎麼又是不透明的「紙箱」](https://cofacts.tw/article/kPrLrIQBC7Q3lHuUM2E1)
-- [(圖)食髓知味的故技重施](https://cofacts.tw/article/nfrXsIQBC7Q3lHuUjGW-)
+- [`2022` (圖)怎麼又是不透明的「紙箱」](https://cofacts.tw/article/kPrLrIQBC7Q3lHuUM2E1)
+- [`2022` (圖)食髓知味的故技重施](https://cofacts.tw/article/nfrXsIQBC7Q3lHuUjGW-)
 
 ### 票數兜不起來，但其實算錯
 
@@ -86,15 +87,15 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 - [若是‘’不投‘’或投‘’廢票‘’，就等於是同意](https://cofacts.tw/article/3slzwgnru6nev)
 
 ### 投票餿主意
-- [晚投票可以防做票](https://cofacts.tw/article/cdvw7jruku7r)
-- [「晚投票可以防做票」是謠言，會導致投不到票](https://cofacts.tw/article/4m9gqn1tmm1t)
-- [圈選器很髒一定要戴手套圈票](https://cofacts.tw/article/n14mkz7gyw12)
-- [戴手套圈票違法](https://cofacts.tw/article/ysw9jviejn7e)
-- [「圈選器很髒一定要戴手套圈票」是謠言會變廢票、「晚投票可以防做票」是謠言會投不到票](https://cofacts.tw/article/y5hfzt46kyna)
+- [`2022` 晚投票可以防做票](https://cofacts.tw/article/cdvw7jruku7r)
+- [`2022`「晚投票可以防做票」是謠言，會導致投不到票](https://cofacts.tw/article/4m9gqn1tmm1t)
+- [`2022` 圈選器很髒一定要戴手套圈票](https://cofacts.tw/article/n14mkz7gyw12)
+- [`2022` 戴手套圈票違法](https://cofacts.tw/article/ysw9jviejn7e)
+- [`2022`「圈選器很髒一定要戴手套圈票」是謠言會變廢票、「晚投票可以防做票」是謠言會投不到票](https://cofacts.tw/article/y5hfzt46kyna)
 
 ---
 
-- [口罩要素面無花紋](https://cofacts.tw/article/UPpllIQBC7Q3lHuUTUk9)
+- [`2022` 口罩要素面無花紋](https://cofacts.tw/article/UPpllIQBC7Q3lHuUTUk9)
 
 ### 選前十天不傳文宣
 - [`2018` 不要傳選舉有關文字](https://cofacts.tw/article/ni4ya18o13q7)

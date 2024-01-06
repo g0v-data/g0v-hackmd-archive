@@ -83,6 +83,16 @@ https://cofacts.g0v.tw/hoax-for-you
 
 ## 協作
 
+### Fact check
+- Lulu
+- Anger
+
+### Programming
+- Jack - chatbot reply enhancement
+- Simon - website
+- Dennis - open data
+
+
 ## 成果
 
 ### 選務選制謠言
@@ -97,9 +107,18 @@ https://g0v.hackmd.io/@mrorz/vote-fraud-hoax
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_49d768228d7a2b8e2535366f0f101623.png)
 
 2020 年版本
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b5f10f30cb8ddc8cb0baafb046fb8a32.png)
 
-回到 2023
+這個訊息有人信嗎？
+不知道，但總有人會擴散。
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_21072b5acb918dba73329b94de5e45a7.png)
 
+### 投票餿主意
 
+2018
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4114ffb2e55bb00ac8e8b45af9268746.png)
+
+
+實際規範：
+https://g0v.hackmd.io/Hw7fiVMaS_KmWvZ2EA49Gw#%E6%8A%95%E7%A5%A8%E6%99%82%E9%96%93%E6%88%AA%E6%AD%A2%E5%8F%8A%E9%96%8B%E7%A5%A8%E5%89%8D%E4%BD%9C%E6%A5%AD
