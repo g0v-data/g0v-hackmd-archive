@@ -1,0 +1,13 @@
+# CAI
+
+| 序號 | 標題 | 編輯時間 | 建立時間 |
+| ---- | --- | ------ | ------------
+| posts | [](../notes/.md) |  |  |
+| 0 | [[20230719] vTaiwan 小黑客松](../notes/35yAn0VvS7uPDZPFDv8r1g.md) | 2023-07-19T15:21:11.741Z | 2023-07-18T15:51:19.722Z |
+| 1 | [{20230719} vTaiwan 小黑客松](../notes/sDZxHEUgS6-BWYynnNootQ.md) | 2023-07-19T12:46:42.949Z | 2023-07-18T15:46:43.946Z |
+| 2 | [{20230628} vTaiwan 小黑客松](../notes/xkye2NxJTTGRXm1pdRWBCg.md) | 2023-07-05T12:37:46.713Z | 2023-06-26T20:38:30.700Z |
+| 3 | [{20230621} vTaiwan 小黑客松](../notes/QIc63Gr9SNGExMN-3e9w7w.md) | 2023-06-21T17:07:30.401Z | 2023-06-19T13:41:38.679Z |
+| 4 | [{20230614} vTaiwan 小黑客松](../notes/9539BGNoStK3OFVAO5ZQew.md) | 2023-06-14T13:05:29.034Z | 2023-06-13T07:56:15.500Z |
+| 5 | [{20230608} vTaiwan 延伸討論](../notes/ZTdQZrBcQD2fdLmIOH4SRQ.md) | 2023-06-11T13:28:35.197Z | 2023-06-08T11:51:41.001Z |
+| 6 | [AI  vTaiwan 專案主頁](../notes/xFAlXDN9Q5-d-zrw6PTD3Q.md) | 2023-06-07T13:08:25.069Z | 2023-06-07T12:32:32.503Z |
+| 7 | [{20230607} vTaiwan 小黑客松](../notes/T4RRx5WSRdiZDrYu9NApqg.md) | 2023-06-07T12:34:32.693Z | 2023-06-05T12:35:11.159Z |

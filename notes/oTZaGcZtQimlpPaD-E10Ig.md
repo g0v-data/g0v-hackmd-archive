@@ -1,0 +1,9 @@
+#臨床病毒
+　VHF是被特定RNA病毒感染所產生的症狀，目前所知的病毒至少有30種。其症狀包含發燒、不舒服、血壓下降致使休克、凝血缺陷而持續流血。
+    除了登革熱病毒以外，其餘的病毒基本上都是感染動物為主，人類為不小心被節肢動物咬到的意外宿主。
+VHF可分為以下四大家族：arenavirus、filovirus、bunyavirus、flavivirus
+主要傳播方式可經由氣膠、被汙染的食物或水以及被載體叮咬所致。
+常見載體(節肢動物)有：
+蚊子：散播bunyavirus造成RVF、散播flavivirus造成登革熱
+蜱：散播bunyavirus造成CCHF、flaviviurs造成KFD以及OHF
+吸血蒼蠅：散播bunyaviris造成RVF

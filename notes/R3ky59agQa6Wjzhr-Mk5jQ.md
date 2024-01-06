@@ -1,0 +1,1 @@
+# '/**/and/**/DBMS_PIPE.RECEIVE_MESSAGE('r',2)='r

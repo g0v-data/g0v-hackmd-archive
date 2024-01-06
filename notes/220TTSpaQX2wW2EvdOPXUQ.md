@@ -1,0 +1,2 @@
+app.js跟db連，connect之後db不要關起來
+非同步問題

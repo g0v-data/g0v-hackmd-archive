@@ -1,0 +1,1 @@
+因為短網址考量，本文件搬家到這 > https://g0v.hackmd.io/@irvin/221217net

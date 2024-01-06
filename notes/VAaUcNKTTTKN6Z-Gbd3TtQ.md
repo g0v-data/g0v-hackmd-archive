@@ -1,0 +1,110 @@
+# 違章工廠回報系統第116次小聚
+###### tags: `Disfactory` `違章工廠` `違章工廠舉報系統`
+
+時間：20220302 19:30 (GMT+8)
+地點：線上、實體hybrid
+實體地點：地球公民基金會台北辦公室（北平東路28號9樓之2）
+線上：https://meet.google.com/coc-vuaa-ykz
+共筆：
+https://g0v.hackmd.io/@yukaii/Disfactory/%2FVAaUcNKTTTKN6Z-Gbd3TtQ
+
+## 參與者簽到：
+- deeper
+- peii
+- yukaii
+- dotsea
+
+### 線上
+- ael
+- oriyar
+- lydia
+- yenchia
+- soursourbie
+- aaron
+
+
+## 近期update
+- 回報數匯總
+
+| 月份 | 回報件數 |
+| ---- | ---- |
+|2020.11| 24|
+|     12| 46|
+|2021. 1| 49|
+|      2| 55|
+|      3| 53|
+|      4|110|
+|      5| 65|
+|      6|109|
+|      7| 60|
+|      8| 90|
+|      9| 59|
+|     10|104|
+|     11| 82|
+|     12|144|
+|2022. 1| 73|
+|      2|114|
+|      3|  9|
+
+## 議程
+19:30-20:00 disfactory.tw
+20:00-20:15 整體議題、跨網站
+20:15-20:45 大家來找廠 SpotDiff
+20:45-21:00 最後加點（？）
+21:00～ 自由討論
+
+## 會議記錄
+### 19:30-20:00 disfactory.tw
+
+- 
+### 20:00-20:15 整體議題、跨網站
+- p0dcast
+    - deeper、yukaii下週四去
+- 
+### 20:15-20:45 大家來找廠 SpotDiff
+- 縣市filter
+    - db現在沒存，要的話，可能要
+        - 分出不同縣市的list
+        - 加上一個縣市的欄位
+- 測試
+    - [測試表](https://docs.google.com/document/d/19d-eOqF-m-mygV9MA_Jd7KzVyS2ZygWRmT93S00_42Q/edit)
+- 行銷討論
+    - 既有企劃：[連結](https://docs.google.com/document/d/1VHvbYUyeb3N-fqUuPgB8uEoOyzh093A6LV6PPFgVQFw/edit?usp=sharing)
+    - 易用性測試
+        - 本週
+- 約行銷會議時間
+    - 先找好案例、先找好案例、先找好案例
+    - go viral v.s. 長期推廣
+        - 長期推廣的目的和形式
+    - 
+### 20:45-21:00 最後加點（？）
+- 
+### 21:00～ 自由討論
+- 
+
+
+
+## 待辦&待討論事項
+- 下次討論
+- deeper
+    - GA研究
+    - 再約一個行銷會議
+        - IG、FB各找到三個行銷go viral案例or常青案例（小部分使用者一直回來）
+        - 設定客群 persona -> user journey
+        - 外部誘因、內部誘因
+
+- 累積待討論
+    - [motion graphic腳本](/MmcrFV3AS4qnYESGCEvBug)
+- 累積待辦事項
+    - 寄東西給未曾謀面的捧油
+
+
+
+## 總文件庫
+- 「大家來找廠」project spot.disfactory.tw
+    - [計畫整體樣貌](https://g0v.hackmd.io/@yukaii/Disfactory/%2F5QH2TlaXQR21wMo3UIKZug) 
+    - [spec](https://github.com/Disfactory/satellite/issues/2#issuecomment-866704442)
+    - [mockup](https://www.figma.com/proto/TVAEC28E3ojabGHc8BawbI/%E8%A1%9B%E6%98%9F%E7%A9%BA%E7%85%A7%E5%9C%96?node-id=776%3A140800&scaling=min-zoom&page-id=599%3A433&starting-point-node-id=635%3A885)
+    - [期程](https://www.notion.so/agrifactory/cf057f3b46fe4a738523b500c967ef5d?v=987e3e087e114c679142dab0c36af702)
+    - [前端測試](https://disfactory-spotdiff.netlify.app/)
+    - [about 設計](https://www.figma.com/file/vnvt7JjXrRcXZlqLoW2vCZ/About.Disfactory?node-id=575%3A3533)

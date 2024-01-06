@@ -1,0 +1,1 @@
+com.github.lianjiatech.retrofit.spring.boot.annotation.RetrofitClient

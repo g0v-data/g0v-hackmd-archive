@@ -1,0 +1,6 @@
+---
+tags: edu, ai
+---
+# 【2023 均優學習論壇】實驗教育如何面對人工智慧＿共筆
+
+共筆連結：https://docs.google.com/document/d/1SWeKInajrYj437tOsp_FnsRQU1m3qYU4cWunR88SpBQ/edit

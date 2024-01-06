@@ -1,0 +1,256 @@
+---
+title: 2023 第一次網路治理讀書會
+tags: internet governance, study groups, 讀冊, 讀書會, study group, ICANN, IGF, 網路治理, 共筆, 共同筆記
+image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2e2f8e390e205f728e32c47b45df4e8e.jpg
+---
+
+# 2023 第一次網路治理讀書會共同筆記
+
+:::success
+↩️ 回到 [網路治理讀書會](/pQpEXq0zRve-3LJuNbpmXA) 首頁。
+本共筆採 CC BY-SA 4.0 授權。
+:::
+
+## 第一次讀書會：[Creating a Framework for Global Electronic Commerce 美國白宮網路白皮書](http://www.pff.org/issues-pubs/futureinsights/fi6.1globaleconomiccommerce.html?fbclid=IwAR39ARMVXIrT2bJGCJxtK1ZNuHcxpQ2FXyGmNMeMgGi2S71lO2SyiXev0h8)
+:::warning
+- 第一次讀書會時間於 2023/11/19 Sun. 13:30 ~ 15:30，地點於 [摩茲工寮 Mozilla Community Space Taipei](https://maps.app.goo.gl/Lt1b49aBWxmjAyQR6) （100 台北市中正區八德路一段 94 號 3F，看到「中央助聽器」招牌走上3樓）。
+- 請參與者在第一次讀書會前完整閱讀 「Creating a Framework for Global Electronic Commerce 美國白宮網路白皮書」，以利於讀書會進行討論。
+- 報名請於[此貼文下方](https://www.facebook.com/groups/twigf/posts/3697520227157952/)留言。
+:::
+
+#### Why does it matter?
+- 時代背景：克林頓總統時期
+- 作者：起草及召集人是時任白宮首席科學顧問 — Ira Magaziner。
+> 透過這份文件能夠理解當年白宮為何作這樣的決定。為何因此引起全球的關注，聯合國因此開了二次的WSIS（World Summit of Internet Society，一次在2003，一次在2005），接著從2006年開始每年開IGF。而且白宮這個決定引發全球性的「電信自由化」，而且制定了一系列的CDA，尤其是法案 Section 230。[name=Kuo Wei Wu]
+- 第一次讀書會導讀人：[Kuo-Wei Wu（臺灣網路治理論壇 TWIGF 理事長）](https://www.facebook.com/kuoweiwu/)
+#### 讀書會當天共筆
+- 在網路快速成長的背景所產生的白皮書
+    - international superhighway 也是同一位作者所提
+    - 像是
+        - 馬賽克瀏覽器
+        - Netscape, Marc Andreessen
+- 為什麼要提 high growth economy 和 e-commerce?
+    - 因為美國總統選舉認為這件事情很重要
+    - 就像後面提到的，跟商務部有關 "The Department of Commerce’s April 1998 report, The Emerging Digital Economy, forecasts the economic potential of electronic commerce at well over $300 billion by the year 2002. "
+- "Let me begin by suggesting that humility is an important quality for anyone working to develop policies for the Internet and electronic commerce, because no one really understands where we are headed. We are sailing at high speed into uncharted waters."
+    - 或者是有外交目的的
+    - 像是後面所講的 
+        - "The Internet is also a force for the promotion of democracy, because dictatorship depends upon the control of the flow of information."
+        - 但很感慨，目前網路卻被用作獨裁者之用（像是中國的狀況）
+        - Hilary Clinton 做國務卿時，也有透過網路推廣民主外交政策，阿拉伯之春可能就是影響之一
+- 網路和市場發展的競爭
+    - 需要談到作者的背景，他是布朗大學的學生會主席，反越戰的學生領袖（左派）
+        - 本來 Bill 柯林頓是要找他進白宮搞全民健保
+    - 假如市場競爭進入不健康的狀態，還是得介入市場
+    - 1970s 美國正在導入壟斷法對電信業的適用
+- stakeholder-based group 概念如何被導入的
+    - "...the rules should be set by private, nonprofit, stakeholder-based groups."
+    - 受到 Lawrance Lessig 影響
+    - [IETF](https://www.ietf.org) 由討厭官僚的工程師組成，對於作者有很大的影響
+    - Internet Architecture Board, IAB 就是來決定 RFC 最後通過與否
+        - 有一位 [IAB](https://www.iab.org) 的 Board member 有被 Mr. Wu 邀請來臺灣過
+- [IANA](https://www.iana.org) 的重要性
+    - 本來 2016 年之前 IANA 的所有權還是在美國商務部手上
+    - "Core"：歐盟要求 IANA 的 functionality and base 需要改到歐洲，像是放在日內瓦之類的地方
+    - IANA 要被釋出前，Texas 的 Senator 甚至指著 Obama 說是賣國賊，因為本來是美國政府的 property
+    - > 上述兩點需要找 references [name=paul]
+
+- "There is another factor arguing against a traditional regulatory role for government. The Internet moves rapidly, mutating as technology changes. Governments inherently move slowly, bureaucratically – slower than is necessary for the Internet to flourish."
+    - why private nonprofit is better than traditional regulatory?
+    - Mr. Wu 在蕃薯藤（1991~1993）時，當時的網路治理議題
+        - IPv4 地址不夠
+            - 1996 IPv6 就產生了
+        - bandwidth 不夠，沒有人有能力撐得起這樣的 backbone
+            - 當時 Mr.Wu 和楊世緘一直爭取 T1/T3 的專線，但是中華電信開了天價
+- "Stakeholder-based groups can be more flexible; they can change as markets and technologies change. They can be more directly responsive to stakeholders, and they can move more quickly. Therefore, where possible, we think those kinds of organizations are most effective in helping set rules."
+    - 但來到 2023 年，ICANN 的流程真的有比較快嗎XD，或許可以打個問號
+- "Of course, private, nonprofit, stakeholder-based groups are not a perfect solution in every case. One of their shortcomings, for example, is that they don’t have an easy answer for the question, "Who elected you?" That is, they do not have the legitimacy democratic governments can claim from the electoral process. That is one of the reasons why government action is sometimes necessary."
+    - legitimacy 怎麼辦？
+    - 但 ICANN 從 accountablity 下手
+        - 公信力怎麼來？
+        - 有法律，但不一定有公信力
+        - ICANN 都會一直把 accountablity 做到極致，會一直檢討自己的流程
+        - 但也不是完美，像是網路治理也會有壞蛋，像是 [AFRINIC](https://afrinic.net) 破產
+- 憑什麼大家要聽 ICANN 的話？
+    - "Even when government action is necessary, however, we should not rush to enact omnibus legislation claiming to address the latest change and to figure out all the ways to regulate it. Government action should occur only in precise ways, in transparent ways, and through the development of a consensus of the need for such action."
+    - "For example, in issues related to privacy, we have favored the formation of industry or private sector self-regulation. But there may be certain cases where, as a backup, government action will be needed. Those cases, however, should be defined in very precise ways to address the voids left by self-regulation. So we should not start with a government action, but we may have to develop government action, action that is as precise as possible. That should be what we do: develop government action only when it is needed, when it is clear that it is needed, and a consensus develops."
+    - 部分 Blockchain 圈子的人認為 ICANN 過於 centralized，希望能夠更去中心化一點。
+        - > 如果 ICANN 不算 decentralized，那我不知道這世界上還有哪個組織算 decentralized 了 LMAO [name=paul]
+- ICANN 開始的時候長的是什麼模樣？
+    - 最一開始的時候沒有 [at-large](https://atlarge.icann.org/about/index)
+    - who's the stakehodler? 誰來決定
+    - 第一次 bylaw 的修訂新增了什麼
+        - 劉靜怡老師也有 invovle 在討論過程裡面
+        > 怕 [name=peter]
+        - 就加入了 [at-large](https://atlarge.icann.org/about/index)、[GNSO](https://blog.twnic.tw/2021/12/28/21505/)、[ccNSO](https://blog.twnic.tw/2021/11/29/21087/)
+            - 當時的 ccNSO 拒絕加入，因為 sovereignty issue
+            - e.g. 中國政府 CNNIC 2012 才加入 ccNSO
+    - 像是 ccNSO 或者是一些 Orgnization 都是透過 MOU 或 agreement 跟 ICANN 產生連結
+        - 放在 ICANN 底下他們受不了
+    - [ASO](https://www.netalent.pro/views/NetWIKI.html?id=ASO) 和 ccNSO 
+        - TWNIC 繳的會費佔了有繳的裡面 70 %
+            - 當然也跟 ICANN 成立時只有三個 RIR 有關係
+            - > 現在 TWNIC 還是繳這麼高比例 [name=Mr. Wu]
+- [Milton Mueller](https://spp.gatech.edu/people/person/milton-l-mueller) 和 [WILLIAM DRAKE](https://www.igf.org.tw/?page_id=5739) 和 [Wolfgang Kleinwächter](https://www.intgovforum.org/en/content/kleinwaechter-wolfgang-mr-university-of-aarhus-germany)
+    - 在此之後就有了 Non-commercial
+- ASO 因此成立了 NRO
+    - 用場租費作為理由來繳錢給 ICANN
+- ASO 為什麼很少在 annual meeting 開會？
+- 誰最愛來 ICANN 開會
+    - register and registra 最積極，因為靠這個賺錢
+    - 曾經有段時間，ASO 想跟 ICANN 拆夥
+    - 最主要的資金來源就是 register and registra，在每年的收入來源佔了 ICANN 96%
+    - > 我和 Akinori-san 都是 ASO 選出來的，2012 年有次 ASO meeting 18 個 ICANN board member 全部出席 [name=Mr.Wu]
+- ccNSO 為什麼沒有離開
+    - ccTLD 有六成是 register and registra 在管的
+    - 許多太平洋島國都是把自己 ccTLD 賣給別人用
+    - 劉靜怡 雷憶瑜 陳文生 電信總局高凱聲把 TWNIC 和 ICANN 的 contract 弄出來
+    - 目前的困境
+        - ISO31669 如果沒有 .tw，就會很有問題
+        - ICANN 就有機會收回 .tw
+- 美國怎麼在做到跨部會協作？
+    - "The Process: The process of releasing the electronic commerce framework report was the culmination of well over a year’s work. A broad interagency group within the government, making up 18 different agencies of government, came together and agreed upon a common strategy, after broad consultation with interested parties who gave their input."
+    - Mr.Wu 在國科會的時候，李國鼎當政委，李會用政委名義把不同部會首長抓過來
+        - 楊世緘（時任政務委員）開會的時候，已經變成次長
+        - 之後的政委開會，只剩科員
+    - trivia：當時有些亞洲單位共同組成 Asia Pacific Internet Association，特地以這個組織進入白宮討論本文白皮書
+- 需要處理的議題：Tariffs and Taxation; Privacy; Content Restrictions; Digital Signatures and Authentication; Copyright, Internet Management; Encryption; and, Telecommunications Deregulation
+    - Communications Decency Act
+        - section 230
+        - 被 revised 很多次，因為很多特例和新狀況發生
+        - 很多訴訟案都會把這個部分拿來作為 concept
+            - 當時 Mr.Wu 還在蕃薯藤時，有鳥類攝影師拿著作權，就有援引這個概念
+                - 當時還沒有 safe habour
+    - duty and tariff 
+        - "Tariffs and Taxation: With respect to tariffs and taxation, it is fair to say that, by putting forth our strategy for the Internet and advocating its approach around the world, we at least changed the momentum in these areas. That is not to say that the urge to regulate or to control is not still there, even within our own government."
+        - 1995 年法國就在談數位稅 bit tax or customs duties
+        - 沒有收稅的權力就不是國家，而且也沒有資源 operate public good
+        - 之後這些題目都被丟到 WTO 辯論
+            - China: 要談可以，但要先討論 internet sovereignty。
+            - 根本無法討論所以不了了之
+        - 美國有聯邦稅、州稅、甚至是城市或郡稅
+            - 保守州：像是佛羅里達或德州，對於 230 當然不能接受
+        - peering 
+            - e.g. ebay 總部在英國(背景在 2000 前)
+                - 但是他的收入來源在英國和德國，他們卻收不到錢
+                    - 史諾登（NSA 監聽歐洲領袖）的問題為什麼會發生？因為封包都會跑到美國
+                        - 所以在這之後梅克爾就說至少要有一個 EuroNet，歐洲政府的 traffic 要留在歐洲
+            - 台灣和歐洲都有類似的狀況，peering 到美國都比較便宜
+                - peering 從國外走（像是美國）跟中華電信買 peering 比起來還比較便宜
+            - 台灣海纜的流量有大量的流量都是掌握在幾家網路公司中，且中華電信的海纜流量電信公司不願意投標。
+                - 遠傳就有幾條是直接去中國電信
+        - "discriminatory taxation"
+            - 可以看出美國政府和其他地區政府的立場不同
+    - Privacy; Content Restrictions
+        - "Privacy: The second issue has to do with the protection of privacy. One of our fundamental values is that people should have the ability to protect their own privacy. And we believe that the use of the Internet as a medium will reach its full potential only if people feel comfortable online, only if they believe that their privacy is protected."
+        - 本段可以看出本文作者和柯林頓總統在當時背景下的一廂情願的天真：希望透過市場機制與競爭來解決可能的隱私疑慮。
+            - 當代的市場失靈狀況：沒有同意 terms of service 就不能使用線上服務，也缺乏有效的競爭者
+                - there's no way to opt in and opt out
+                - inform consent 系統帶來的問題
+                - nowadays: GDPR 也有類似的問題
+                    - 每個 EU 成員國都可以自己加料，各國可以以自己的 GDPR board 
+                    - there's no way to build seamless global internet environment under this circumstance
+                    - 對於網際網路的連接產生障礙。
+    - Content
+        - 兒少保護，"We do not deny that objectionable content is a problem. As the parent of young children who understand the Internet better than I do, I think I am in a situation similar to that of most parents in the country; we worry about what our children are accessing on the Internet."
+        - 可以從這邊再看到 private, nonprofit, stakeholder-based groups 是貫穿整個白皮書的概念
+        - 當時認為 content 的分級制度可以從 ISP 或 company 自己來做
+            - e.g. 當時有一間公司 PICS，英國的 nonprofit 提出的，如果有兒童不宜的內容，可以反映，如果小孩不能看，就會出現 PICS Logo
+        - TAnet 的管理委員會
+            - 有一個規定，如果有色情或其他不好的內容就放進 blacklist
+            - 結果學生直接去看 blacklist 就好 LOL
+    - Digital Signatures and Authentication
+        - "We have also been working on authentication, digital signatures, and other issues related to the use of the Internet as a business medium. Again, we prefer a market-driven approach, but obviously legislation is necessary to adapt contract law to cyberspace."
+        - PKI 就是在這個背景下成立的
+        - 扯遠的部分
+            - Jon Postel 在協助成立 [NTIA](https://www.ntia.gov) 起初，他自己不想管 TLD，所以美國政府管 NTIA 時期把 TLD 租賃業務通通外包給 register.com，包含
+                - 包含 .com .net .org .edu
+                - 除了 .gov .mil 是政府管的以外
+                - > 但台灣 gov.tw 是給中華電信XD，名義是掛研考會，但他們沒能力處理 [name=Mr. Wu]
+            - 當時全球最大的 PKI services provider 就是 [verisign](https://www.verisign.com)，之後發現 domain name 比較好賺，所以直接把 register.com， .com 和很多 TLD 管理權在 2000 年用兩億美金買下來
+                - Vint Cert 當時是 ISOC Chairman（或是 ICANN？），他就逼 verisign 把 .org 賣（或讓）出來給 ISOC
+                    - 他用一個壓力，如果 verisign 不把 .org 釋出，就把 .com 從 verisign 手上拿走
+                    - verisign 嚇到了，因為 .com 佔比全球註冊量 6 成
+                    - 然後現狀是 .org ISOC 外包給 PIR Public Interest Registry，但其實 PIR 也把這個業務外包給其他公司，自己坐著收被動收入XD
+        - 台灣在本文的背景也開始電信自由化
+            - > 但 peering 或海纜這種超高成本的基礎建設還是很難有正常的市場競爭環境 [name=paul]
+        - 目前 services providor 若要加 SSL 就需要買 PKI，但不知為何不賺錢
+
+    - copyright
+        - "As Professor Lawrence Lessig has commented, intellectual property needs to be protected so as to create market incentives for the production of copyrighted materials, but it should not be protected forever. To that end, we have been working to ratify the treaties that were negotiated in the World Intellectual Property Organization."
+        - Lessig 在 CODE 一書中裡面卻有不同想法
+            - > Lessig 最近比較在乎美國的民主失靈XD [name=Mr.Wu]
+        - Lessig 認為 intellectual property 應該是 public good，要有 life cycle
+        - 1997 1998 的討論：domain name 是智財嗎？
+            - disney.com.tw 當時是學生註冊下來的
+                - > 結果是 AIT 跑來給我國政府施壓，才開始解決XDDDD ~~LINE 就是因為不是美國公司才沒有靠山啦~~[name=Mr.Wu]
+    - Internet Management
+        - "There is one other area in which we have had significant progress: Internet management. The question of technical management of the Internet -- the management of the domain name system, the root server system, and the numbering allocation system. In the past, these have been managed by the Internet Assigned Numbers Authority (IANA), the University of Southern California, and a Virginia company named Network Solutions, Inc., on behalf of the U.S. Government."
+            - ICANN 的起源，也就是前段所提到的 "new organization"
+        - "Groups of stakeholders met on this issue throughout the summer and fall of 1998, in Washington, Brussels, Geneva, Singapore, and Buenos Aires. In November 1998, the U.S. Government recognized a stakeholder group. Based largely on our work, they have been building a consensus on the structure of a new organization, its bylaws and board of directors and so on. There is now general agreement about how to proceed with privatization, and it is well on its way."
+            - 當時科法中心主任陳家駿（現安侯建業的律師，林子儀的學長）幫忙 Mr.Wu 釐清，因為當時 Mr.Wu 是場內唯一一個非法律人
+            - 當時討論重點：IANA 的歸屬到底是誰？
+                - 而且討論 IANA 還要討論 IP/Root Server/Domain Name 的問題
+                - 台灣的 IPv4 當時只有一個 class
+                - 結果印度發現的時候已經枯竭了
+                    - 當然好處是印度直接進入 IPv6 時代
+                    - 留在 IPv4 就會踩到 routing land-lines 的洞
+                - [2017 台灣 IPv6 成長創世界紀錄](https://ipv6now.twnic.tw/ipv6/index.html)
+                    - Mr.Wu 當時是 CHT 獨董，跟 NCC Chair Nicole Chan 和 TWNIC 一起推 IPv6，直接成長 3,000%，從吊車尾到全球前三
+                    - 相關報導 [迎向 IPv6 時代(二)：IPv6 在台灣和世界的趨勢總整理](https://medium.com/upas/迎向ipv6時代-二-ipv6在台灣和世界的趨勢總整理-942177daac4c)
+          - "private, nonprofit, stakeholder-based groups"
+    - Encryption
+        - "There have been a couple of areas, however, in which we have not yet succeeded. The first is encryption. Despite our very hard work, we have not found a solution to the encryption problem, an encryption policy that satisfies policymakers in the Administration. There are substantial disagreements within the Administration, and within the government as a whole, about how to proceed on this issue."
+        - 本文作者於此處就表現得像美國左派，但基本上無法說服偵查和國安單位，所以
+    - Telecommunications Deregulation
+        - An area in which we have made progress but have had less than complete success is in telecommunications deregulation. In this area, I believe we need to recommit ourselves to the principle of free enterprise, a principle The Progress & Freedom Foundation has been very influential in helping to promote.
+        - nuances：為什麼沒有國營電信，還要談 Deregulation?
+            - > 或許就是因為沒有國營電信，所以私部門才持續要求 Deregulation [name=余若凡律師]
+        - VoIP 是否需要適用電信法規？
+        - 網路廣播是否要符合現行的廣播法規？
+- 可以在本文看到美國談的議題很超前，這些議題都會進入未來讀書會的文本（聯合國 WSIS 討論議題 2003 和 2005 report）
+    - 所以這些都是 hot topic，對於美國以外的國家，如果你不表達意見，就會進入美國的討論框架
+    - 發展中國家的首領卻反對歐盟的框架，要求要有一個比歐盟更強硬的框架
+        - 當時歐盟認為自己在網路市場還有機會成為主導者
+    - 後面還有提到本文作者想分享的全民健保議題
+- 討論
+    - Nicole Chan
+        - 美國是 AT&T 坐大
+        - 歐盟卻是本來國營電信公司轉型民營化
+        - 還有成立 [PTI](https://pti.icann.org) (public technical identifier) 來 operate IANA 功能
+            - 每年都會報告一次 IANA
+    - 補充
+        - 稅的方面，國貿局有委託中經院討論跨境業者商務課稅的資訊搜集
+        - 媒體議價法的可能性
+            - 成立基金會，從網路業者的財源（可能廣告收入的百分之五？）挹注
+        - 日本電信法
+            - 第一類：通用網路建設
+            - 第二類：不用通用網路建設
+            - 特殊二類：LINE
+        - DSA/DMA
+            - 需要多瞭解歐洲脈絡和文本
+            - 背後的脈絡也與網路治理有關。
+        - IntraNet
+            - 俄羅斯和伊朗都想搞自己的內部網
+            - 為什麼俄羅斯不搞網路長城？
+                - 太貴
+                - 不想當老二
+            - takeaway：不要亂搞 root server
+        - 中國網路長城
+            - ISOC China 就是負責在搞這個系統的 maintainance
+            - > IETF 或許也有責任，為什麼 TCP/IP 不能 RFC updated 後不能直接讓 intraNet 失效？ [name=Mr.Wu]
+        - definition of Internet governance 
+            - 一本書，推薦去看
+            - 法律和 internet governance 是不一樣的
+            - 某種程度上更適合國際關係或政治系去談
+            - 法律的問題在於執行，執行會需要具體的標準與細節的規定
+        - The origin of Diplo foundation
+            - 是聯合國網路中心主任和另一個人在 WSIS 議題產生後組成的
+            - 當時是來自於 ITU UN and EU 一起 funding 的
+            - 如何訓練外交人員參與網路治理議題
+            - 但台灣外交部不太在乎XD
+            - Diplo Foundation 有免費的書，Kenny Huang 推薦之後讀書會可以看
+                - [introduction-to-internet-governance](https://www.diplomacy.edu/resource/an-introduction-to-internet-governance/)
+        - WSIS 和 IGF 的秘書長就有幫忙 ITU funding
+            - Jovan Kurbalija
+

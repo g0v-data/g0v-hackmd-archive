@@ -1,0 +1,6 @@
+# slack
+
+| 序號 | 標題 | 編輯時間 | 建立時間 |
+| ---- | --- | ------ | ------------
+| posts | [](../notes/.md) |  |  |
+| 0 | [Code for All - Slack Channel #taiwan-臺灣](../notes/thD2POc_TRCE6L8fBzvnTw.md) | 2023-12-15T23:30:44.374Z | 2023-12-14T12:12:51.030Z |

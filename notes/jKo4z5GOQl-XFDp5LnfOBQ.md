@@ -1,0 +1,1 @@
+- 因應參與回溯性公共投資計畫，9-12月會議紀錄將整理在[Airtable](https://airtable.com/app3c5Ed9xJT08zJF/shrDiUmi6vnhzVygB/tblzVhU9ifz8xx0ua)

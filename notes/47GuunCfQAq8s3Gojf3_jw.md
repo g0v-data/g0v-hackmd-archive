@@ -1,0 +1,33 @@
+---
+title: "English Communiqué about the current situation of the anti-CSSTA protests and the events of the past week"
+tags: hackpad
+---
+
+# English Communiqué about the current situation of the anti-CSSTA protests and the events of the past week
+
+> [點此觀看原始內容](https://g0v.hackpad.tw/HeVtO3WBpXk)
+
+
+ _The purpose of this communiqué is to provide a background of the Sunflower Movement which took place on March 18, 2014, and to clarify some incorrect information as there may be discrepancies due to multiple local media sources._
+
+            On June 21 2013, representatives from Taiwan and Mainland China signed the “[Cross-Strait Service Trade Agreement](http://en.wikipedia.org/wiki/Cross-Strait_Service_Trade_Agreement)” (CSSTA) to open cross-strait trade in service sectors. The agreement has triggered much controversy in Taiwan as opposition parties voiced concerns, claiming the agreement grants China an unequal amount of control over Taiwan's market.
+ While Taiwan's few large corporations will likely benefit from the planned exchange, it is estimated that the majority, which are usually small and middle-sized companies, will suffer severe losses, and national employment rates will fall. Further concerns were raised about opening the media sector to China, due to fear of public opinion being undermined, and Taiwan ultimately swallowed by China's “[United Front Doctrine](http://en.wikipedia.org/wiki/United_Front_Doctrine)”.
+During the last months, the agreement was supposed to be examined item by item which, due to political squabbling, did not take place. On Monday 17 June 2014, after 90 days of examination time, the reigning Chinese Nationalist Party—Kuomintang (KMT)—passed the trade accord to the legislative floor on the ground of a highly controversial interpretation of laws. By the opposition, this is viewed as a circumvention of the democratic system, to quickly press the agreement through the different institutions.
+The following day, protesters occupied the [Legislative Yuan](http://en.wikipedia.org/wiki/Legislative_Yuan)—the Taiwanese parliament—with about 300 persons, mostly students, breaking into the conference hall. They demanded the current President Ma Ying-jiu to withdraw the CSSTA, and pass regulations on supervision to avoid such incidents in the future. During the hours and days after, up to 30,000 (according to local media)  protesters rallied outside the building, giving speeches and concerts, followed by slogans such as “withdraw the CSSTA” (退回服貿) and “protect democracy” (捍衛民主).
+            Among the protesters are not only students, but people from all sections of society including university professors, intellectuals, delegations of lawyers, and doctors, voluntarily offering their services to their fellow protesters and giving classes to the people on the street about the current issues.
+            Taiwanese “[gangster-politician](http://thediplomat.com/2014/02/the-return-of-gangster-politics-in-taiwan/)” Chang An-le, known as the White Wolf, also appeared at the scene, and several members of the mafia have been caught trying to cause disturbances during the protests. This raises questions about the involvement of the [Taiwanese Triads](http://en.wikipedia.org/wiki/Bamboo_Union) which endorse a Chinese reunification.
+No official statement was issued by the government until Saturday 4:19 pm, when President Ma sent Premier [Jiang Yi-huah](http://en.wikipedia.org/wiki/Jiang_Yi-huah) to the scene to negotiate with the students. The students agreed to a discussion of the CSSTA only under the premise that their two demands were met, that is the current CSSTA be taken back and regulations for supervision be installed. The Premier denied any possibility and intention to both withdraw the agreement or make any changes, because “it brings great opportunities for our country”. Not satisfied with this response, students kindly asked him to return to his office.
+            Across the nation, thousands of citizens started sit-ins at their local KMT offices, holding speeches and blocking them.
+On Sunday morning, 23 June 2014, President Ma himself gave a press conference,  but failed to directly answer to the students demands, and merely tried to explain why the CSSTA is beneficial for Taiwan.
+Out of frustration over the numbness of their government, around 7:33 pm, a group of activists decided to try and expand the protest to the [Executive Yuan](http://en.wikipedia.org/wiki/Executive_Yuan)—the executive branch of Taiwan's government. Within few hours, about 15,000 (according to local media)  supporters had gathered in and around the courtyard of the Executive Yuan. Contrary to the Parliament’s President Wang Jin-pyng's passive stance, the Executive Yuan's President Premier Jiang immediately ordered the forced eviction of Executive Yuan before the next dawn. On Monday morning, at 00:30 am, while the occupants were still chanting “Peace! Peace! Police retreat!”, on-site police stepped in with units of riot police who just arrived at the scene.
+The police swung batons at protestors’ heads, used shields to stab them at their faces and feet, kicked men lying on the ground in the groin, and with the support of multiple anti-riot water cannons, evicted roughly 2000 non-violent protestors from the courtyard within five hours. An estimated [55 protesters and 52 riot police officers were hurt](http://iservice.libertytimes.com.tw/liveNews/news.php?no=974500&type=政治), some of the protesters suffering severe injuries. Since the protests have since their beginning set an emphasis on peacefulness and passiveness, it is unclear how the riot police sustained their injuries.
+            61 persons have been arrested, among them, student Wei Yang who had been coordinating the peaceful protest and challenged on-site police officers to turn around and join the protesters. He was [charged](http://www.nownews.com/n/2014/03/25/1163692) with six counts of various charges, including "inciting violence, disrupting government function, and trespassing", potentially facing one to seven years of prison. The following night, 25 June 2014 at 00:00 am, he was [released without bail](http://www.nownews.com/n/2014/03/25/1163692).
+            In the aftermath of this bloody Sunday, many universities declared their solidarity to the cause, and several student organisations announced student strikes during this week.
+            Protesters still in the Legislative Yuan later declared they are now preparing for a long-term occupation.
+
+
+
+ _This summary was compiled on 25 March 2014 by the translation team of the movement’s live blog._
+
+
+

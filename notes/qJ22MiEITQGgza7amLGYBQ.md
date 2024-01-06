@@ -1,0 +1,444 @@
+由於回應的json內容及語法衝突的限制，無法將所有的輸入法合成同一種語法。以下將語法一輸入的卡數與其銀行的異同做分類。
+
+* <bank1>、<bank2>、<bank3>:<中國信託銀行>、<台新銀行>、<富邦銀行>、<國泰世華銀行>、<中華郵政>、<花旗銀行>、<玉山銀行>
+* <banki_cardj>:<中國信託卡>、<台新銀行卡>、<富邦銀行卡>、<國泰世華卡>、<中華郵政卡>、<花旗銀行卡>、<玉山銀行卡>、<中國信託卡2>、<台新銀行卡2>、<富邦銀行卡2>、<國泰世華卡2>、<中華郵政卡2>、<花旗銀行卡2>、<玉山銀行卡2>、<中國信託卡3>、<台新銀行卡3>、<富邦銀行卡3>、<國泰世華卡3>、<中華郵政卡3>、<花旗銀行卡3>、<玉山銀行卡3>
+
+**兩張卡**
+1.同銀行
+   -語法：<bank1><bank1_card1>[<bank1>]<bank1_card2>
+   -回答：
+   
+``` = json  
+{
+    “semantic”:{
+                “card_amount”:”2“
+                “bank_name”:[”bank1”,“bank1”]
+                ”type”:”search”,
+                ”card”:[”<bank1_card1>”,“<bank1_card2>”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                }
+    },
+    ”param”:{
+                 “principal”:””,
+                 ”term”:””
+    }
+}
+```         
+   -例：
+    語法：<玉山銀行><玉山銀行卡>[<玉山銀行>]<玉山銀行卡2>
+    回答：
+``` = json
+{
+    “semantic”:{
+                “card_amount”:”2“
+                “bank_name”:[”玉山銀行”,“玉山銀行”]
+                ”type”:”search”,
+                ”card”:[”<玉山銀行卡>”,“<玉山銀行卡2>”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+         
+   -使用者輸入例子：玉山世界卡 公司卡
+   -回答例子：
+``` = json
+{
+    “semantic”:{
+                “card_amount”:”2“
+                “bank_name”:[”玉山銀行”,“玉山銀行”]
+                ”type”:”search”,
+                ”card”:[”世界卡”,“公司卡”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+2.不同銀行
+   -語法：<bank1><bank1_card1><bank2><bank2_card1>
+   -回答：
+``` = json  
+{
+    “semantic”:{
+                “card_amount”:”2“
+                “bank_name”:[”bank1”,“bank2”]
+                ”type”:”search”,
+                ”card”:[”<bank1_card1>”,“<bank2_card1>”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+   -例：
+    語法：<玉山銀行><玉山銀行卡><台新銀行><台新銀行卡>
+    回答：
+``` = json
+{
+    “semantic”:{
+                “card_amount”:”2“
+                “bank_name”:[”玉山銀行”,“台新銀行”]
+                ”type”:”search”,
+                ”card”:[”<玉山銀行卡>”,“<台新銀行卡>”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+   -使用者輸入例子：玉山世界卡 台新無限卡
+   -回答例子：
+``` = json   
+{
+    “semantic”:{
+                “card_amount”:”2“
+                “bank_name”:[”玉山銀行”,“台新銀行”]
+                ”type”:”search”,
+                ”card”:[”世界卡”,“無限卡”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+**三張卡**
+1.同銀行
+   -語法：<bank1><bank1_card1>[<bank1>]<bank1_card2>[<bank1>]<bank1_card3>
+   -回答：
+``` = json   
+{
+    “semantic”:{
+                “card_amount”:”3“
+                “bank_name”:[”bank1”,“bank1”,“bank1”]
+                ”type”:”search”,
+                ”card”:[”<bank1_card1>”,“<bank1_card2>”,“<bank1_card3>”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+   -例：
+    語法：<玉山銀行><玉山銀行卡>[<玉山銀行>]<玉山銀行卡2>[<玉山銀行>]<玉山銀行卡3>
+    回答：
+``` = json    
+{
+    “semantic”:{
+                “card_amount”:”3“
+                “bank_name”:[”玉山銀行”,“玉山銀行”,“玉山銀行”]
+                ”type”:”search”,
+                ”card”:[”<玉山銀行卡>”,“<玉山銀行卡2>”,“<玉山銀行卡3>”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+   -使用者輸入例子：玉山世界卡 公司卡 愛心卡
+   -回答例子：
+``` = json   
+{
+    “semantic”:{
+                “card_amount”:”3“
+                “bank_name”:[”玉山銀行”,“玉山銀行”,“玉山銀行”]
+                ”type”:”search”,
+                ”card”:[”世界卡”,“公司卡”,“愛心卡”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+2.二同一異
+* 同同異
+   -語法：<bank1><bank1_card1>[<bank1>]<bank1_card2><bank2><bank2_card1>
+   -回答：
+``` = json   
+{
+    “semantic”:{
+                “card_amount”:”3“
+                “bank_name”:[”bank1”,“bank1”,“bank2”]
+                ”type”:”search”,
+                ”card”:[”<bank1_card1>”,“<bank1_card2>”,“<bank2_card1>”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+   -例：
+    語法：<玉山銀行><玉山銀行卡>[<玉山銀行>]<玉山銀行卡2><台新銀行><台新銀行卡>
+    回答：
+``` = json    
+{
+    “semantic”:{
+                “card_amount”:”3“
+                “bank_name”:[”玉山銀行”,“玉山銀行”,“台新銀行”]
+                ”type”:”search”,
+                ”card”:[”<玉山銀行卡>”,“<玉山銀行卡2>”,“<台新銀行卡>”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+   -使用者輸入例子：玉山世界卡 公司卡 台新無限卡
+   -回答例子：
+``` = json   
+{
+    “semantic”:{
+                “card_amount”:”3“
+                “bank_name”:[”玉山銀行”,“玉山銀行”,“台新銀行”]
+                ”type”:”search”,
+                ”card”:[”世界卡”,“公司卡”,“無限卡”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+*同異同
+   -語法：<bank1><bank1_card1><bank2><bank2_card1><bank1><bank1_card2>
+   -回答：
+``` = json   
+{
+    “semantic”:{
+                “card_amount”:”3“
+                “bank_name”:[”bank1”,“bank2”,“bank1”]
+                ”type”:”search”,
+                ”card”:[”<bank1_card1>”,“<bank2_card1>”,“<bank1_card2>”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+   -例：
+    語法：<玉山銀行><玉山銀行卡><台新銀行><台新銀行卡><玉山銀行><玉山銀行卡2>
+    回答：
+``` = json    
+{
+    “semantic”:{
+                “card_amount”:”3“
+                “bank_name”:[”玉山銀行”,“台新銀行”,“玉山銀行”]
+                ”type”:”search”,
+                ”card”:[”<玉山銀行卡>”,“<台新銀行卡>”,“<玉山銀行卡2>”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+   -使用者輸入例子：玉山世界卡 台新無限卡 玉山公司卡
+   -回答例子：
+``` = json   
+{
+    “semantic”:{
+                “card_amount”:”3“
+                “bank_name”:[”玉山銀行”,“台新銀行”,“玉山銀行”]
+                ”type”:”search”,
+                ”card”:[”世界卡”,“無限卡”,“公司卡”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+*異同同
+   -語法：<bank1><bank1_card1><bank2><bank2_card1>[<bank2>]<bank2_card2>
+   -回答：
+``` = json   
+{
+    “semantic”:{
+                “card_amount”:”3“
+                “bank_name”:[”bank1”,“bank2”,“bank2”]
+                ”type”:”search”,
+                ”card”:[”<bank1_card1>”,“<bank2_card1>”,“<bank2_card2>”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+   -例：
+    語法：<台新銀行><台新銀行卡><玉山銀行><玉山銀行卡>[<玉山銀行>]<玉山銀行卡2>
+    回答：
+``` = json    
+{
+    “semantic”:{
+                “card_amount”:”3“
+                “bank_name”:[“台新銀行”,”玉山銀行”,“玉山銀行”]
+                ”type”:”search”,
+                ”card”:[“<台新銀行卡>”,”<玉山銀行卡>”,“<玉山銀行卡2>”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+   -使用者輸入例子：台新無限卡 玉山世界卡 公司卡
+   -回答例子：
+``` = json   
+{
+    “semantic”:{
+                “card_amount”:”3“
+                “bank_name”:[“台新銀行”,”玉山銀行”,“玉山銀行”]
+                ”type”:”search”,
+                ”card”:[“無限卡”,”世界卡”,“公司卡”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+3.三不同
+   -語法：<bank1><bank1_card1><bank2><bank2_card1><bank3><bank3_card1>
+   -回答：
+``` = json   
+{
+    “semantic”:{
+                “card_amount”:”3“
+                “bank_name”:[”bank1”,“bank2”,“bank3”]
+                ”type”:”search”,
+                ”card”:[”<bank1_card1>”,“<bank2_card1>”,“<bank3_card1>”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+   -例：
+    語法：<台新銀行><台新銀行卡><玉山銀行><玉山銀行卡><富邦銀行><富邦銀行卡>
+    回答：
+``` = json    
+{
+    “semantic”:{
+                “card_amount”:”3“
+                “bank_name”:[“台新銀行”,”玉山銀行”,“富邦銀行”]
+                ”type”:”search”,
+                ”card”:[“<台新銀行卡>”,”<玉山銀行卡>”,“<富邦銀行卡>”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```
+   -使用者輸入例子：台新無限卡 玉山世界卡 富邦j卡
+   -回答例子：
+``` = json   
+{
+    “semantic”:{
+                “card_amount”:”3“
+                “bank_name”:[“台新銀行”,”玉山銀行”,“富邦銀行”]
+                ”type”:”search”,
+                ”card”:[“無限卡”,”世界卡”,“j卡”]
+                ”bonus”:{
+                        “bonus_type”:””,
+                        ”detail”:””
+                        }
+                },
+    ”param”:{
+            “principal”:””,
+            ”term”:””
+            }
+}
+```

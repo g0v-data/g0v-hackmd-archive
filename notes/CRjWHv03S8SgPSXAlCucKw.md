@@ -1,0 +1,1 @@
+# '/**/and(select'1'from/**/pg_sleep(0))::text>'0

