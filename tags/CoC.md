@@ -2,5 +2,4 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| posts | [](../notes/.md) |  |  |
-| 0 | [g0v 行為守則 g0v Code of Conduct](../notes/XPzJRxsHT2CaOO5WZ5r-BA.md) | 2023-08-29T06:40:54.804Z | 2017-08-21T03:57:16.000Z |
+| 1 | [g0v 行為守則 g0v Code of Conduct](../notes/XPzJRxsHT2CaOO5WZ5r-BA.md) | 2023-08-29T06:40:54.804Z | 2017-08-21T03:57:16.000Z |

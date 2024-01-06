@@ -2,5 +2,4 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| posts | [](../notes/.md) |  |  |
-| 0 | [GNU GPL ver 2 翻譯嘗試](../notes/CjvYICQfTaei3xQGBi9Olg.md) | 2021-07-10T16:53:37.733Z | 2021-06-16T15:53:55.706Z |
+| 1 | [GNU GPL ver 2 翻譯嘗試](../notes/CjvYICQfTaei3xQGBi9Olg.md) | 2021-07-10T16:53:37.733Z | 2021-06-16T15:53:55.706Z |

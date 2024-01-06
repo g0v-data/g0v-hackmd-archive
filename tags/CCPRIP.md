@@ -2,5 +2,4 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| posts | [](../notes/.md) |  |  |
-| 0 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2023-12-06T11:45:25.799Z | 2022-08-05T02:46:53.351Z |
+| 1 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2023-12-06T11:45:25.799Z | 2022-08-05T02:46:53.351Z |

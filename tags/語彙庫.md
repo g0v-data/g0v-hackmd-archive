@@ -2,5 +2,4 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| posts | [](../notes/.md) |  |  |
-| 0 | [g0v Language Portal](../notes/kXJetmRdTHqEjx3iN7e-Ig.md) | 2023-07-19T20:46:16.462Z | 2022-09-25T11:37:13.513Z |
+| 1 | [g0v Language Portal](../notes/kXJetmRdTHqEjx3iN7e-Ig.md) | 2023-07-19T20:46:16.462Z | 2022-09-25T11:37:13.513Z |

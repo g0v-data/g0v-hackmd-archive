@@ -2,5 +2,4 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| posts | [](../notes/.md) |  |  |
-| 0 | [Cofacts  Hypercerts](../notes/1ZqfFBAdQFSH3Z5O4G3pMg.md) | 2023-09-22T12:23:38.872Z | 2023-09-22T12:20:26.359Z |
+| 1 | [Cofacts  Hypercerts](../notes/1ZqfFBAdQFSH3Z5O4G3pMg.md) | 2023-09-22T12:23:38.872Z | 2023-09-22T12:20:26.359Z |

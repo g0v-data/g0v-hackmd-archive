@@ -2,5 +2,4 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| posts | [](../notes/.md) |  |  |
-| 0 | [Earth Federation EF 地球聯邦 - 司法正義集團](../notes/2S6VqvXZSxuRAbUkBBbuGQ.md) | 2015-09-12T15:24:00.000Z | 2015-09-12T15:14:13.000Z |
+| 1 | [Earth Federation EF 地球聯邦 - 司法正義集團](../notes/2S6VqvXZSxuRAbUkBBbuGQ.md) | 2015-09-12T15:24:00.000Z | 2015-09-12T15:14:13.000Z |

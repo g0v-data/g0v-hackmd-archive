@@ -2,5 +2,4 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| posts | [](../notes/.md) |  |  |
-| 0 | [TranscribeExpress 逐字稿限掛](../notes/SZU3FbKKQvGh9bUtg_ZoKw.md) | 2023-07-01T08:19:14.423Z | 2023-07-01T07:17:21.687Z |
+| 1 | [TranscribeExpress 逐字稿限掛](../notes/SZU3FbKKQvGh9bUtg_ZoKw.md) | 2023-07-01T08:19:14.423Z | 2023-07-01T07:17:21.687Z |

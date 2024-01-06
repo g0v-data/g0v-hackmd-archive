@@ -2,6 +2,5 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| posts | [](../notes/.md) |  |  |
-| 0 | [最想改造的公務軟體](../notes/8EO5vdInTOazhwJgE5pEgA.md) | 2023-07-08T09:33:35.544Z | 2014-11-28T10:15:29.000Z |
-| 1 | [Tax System Renew](../notes/jLUqqb_XQp69ti-RoLhfFg.md) | 2021-06-19T13:50:24.266Z | 2021-06-14T04:20:14.550Z |
+| 1 | [最想改造的公務軟體](../notes/8EO5vdInTOazhwJgE5pEgA.md) | 2023-07-08T09:33:35.544Z | 2014-11-28T10:15:29.000Z |
+| 2 | [Tax System Renew](../notes/jLUqqb_XQp69ti-RoLhfFg.md) | 2021-06-19T13:50:24.266Z | 2021-06-14T04:20:14.550Z |

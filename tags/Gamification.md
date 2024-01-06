@@ -2,5 +2,4 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| posts | [](../notes/.md) |  |  |
-| 0 | [Gamification](../notes/SIuQ5Gq6SpSY7x3PoA83ww.md) | 2018-08-18T12:03:43.000Z | 2015-05-13T10:43:21.000Z |
+| 1 | [Gamification](../notes/SIuQ5Gq6SpSY7x3PoA83ww.md) | 2018-08-18T12:03:43.000Z | 2015-05-13T10:43:21.000Z |

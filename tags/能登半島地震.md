@@ -2,5 +2,4 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| posts | [](../notes/.md) |  |  |
-| 0 | [令和 6 年能登半島地震資訊筆記（Info of 2024 Noto Peninsula Earthquake）](../notes/EJAz1Te6RDOE059f6WVmLw.md) | 2024-01-04T09:02:34.862Z | 2024-01-04T07:54:33.496Z |
+| 1 | [令和 6 年能登半島地震資訊筆記（Info of 2024 Noto Peninsula Earthquake）](../notes/EJAz1Te6RDOE059f6WVmLw.md) | 2024-01-04T09:02:34.862Z | 2024-01-04T07:54:33.496Z |
