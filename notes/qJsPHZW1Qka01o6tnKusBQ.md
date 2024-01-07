@@ -107,7 +107,21 @@ kubectl api-resources
 kubectl describe node lab
 
 ##看叢集有關的指令
-ㄔㄧㄠˉ
+##取得cli 跟api 版本
+kubectl version
+##取得cluster 資訊
+kubectl cluster-info
+##取得API 的相關資訊
+kubectl api-resources
+##可以看API 規格，像api的本地文件，文件展開會用黏巴達的方式一直點下去，node.status.nodeInfo
+kubectl explain node
+##容器互動類，跟docker 很像，也可以將容器與本地做資料交換，參數-f 是flow ，可以一直e關注log不關閉
+kubectl logs -n kube-system -f
+#容器相關指令，查看容器內目錄
+kubectl -n calico-system exec calico-node-grd9b ls
+##容器相關指令，進入到容器進行互動，加入-it
+kubectl -n calico-system exec -it calico-node-grd9b sh
+sh-4.4# bash ##使用linux shell工具。
 
 
 ```

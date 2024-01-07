@@ -2,12 +2,13 @@
 tags: GIS, 防災, 民防
 ---
 
-# WaytoSafety 隨時隨地知道避難場所位置<br>災害避難疏散場所 (Evacuation Area)、防災避難收容處所 (Shelter)、防空避難處所 (Air Raid Shelter) 
+# WaytoSafety 隨時隨地知道避難場所位置：<br>災害避難疏散場所 (Evacuation Area)、防災避難收容處所 (Shelter)、防空避難處所 (Air Raid Shelter) 
 
 :::info
 Channel: g0v Slack #facing-the-ocean
 Contributor: 
-- chewei, 
+- chewei
+- supaplextw 幫找到消防署釋出的全台資料集 & 分享 OpenStreetMap 過去有整合過一次防災避難收容點位資料
 - 感謝 hwan 分享韓國的 Shelter 查詢網頁，以及用詞建議 "대피소"
 :::
 
@@ -67,13 +68,58 @@ https://datahub.ncdr.nat.gov.tw/dataset
 
 #### Open Data / Release Data
 
-消防署釋出全台點位資料
+消防署釋出全台避難收容處所點位資料
 - 資料欄位：序號、縣市及鄉鎮市區、村里、避難收容處所地址、經度、緯度、避難收容處所名稱、預計收容村里、預計收容人數、適用災害類別、管理人姓名、管理人電話、室內、室外、適合避難弱者安置
-- https://data.gov.tw/dataset/73242
+- 資料下載網址：https://data.gov.tw/dataset/73242
+
+民間建立的線上地圖
+- 線上地圖搭配篩選器：https://app.awesome-table.com/-NnYWzaRVwV_CasaZLAV/view
+- 地圖所依據的資料集 Googlesheet：https://docs.google.com/spreadsheets/d/1l_Au7txDgsknhHKvhLksfSAzeMmSoaih3m4pMdqwrBU/edit
+
+<iframe referrerpolicy="no-referrer-when-downgrade" height="600px" width="100%" style="border:none;" src="https://view-awesome-table.com/-NnYWzaRVwV_CasaZLAV/view"></iframe>
+
+---
+
+消防署資料集討論
+- 位置勘誤與回報
+    - 
+- 一個避難收容處所，標記不是室內，也不是室外，那這是什麼意思？
+- 適合避難弱者的收容處所，有什麼明確的判斷嗎？
+    - 如果沒有被標記為「適合避難弱者安置」該如何理解？
+- 中英文對照，初步採用：
+    - 縣市及鄉鎮市區 County and Area
+    - 村里 Village
+    - 預計收容村里 Service Area
+    - 避難收容處所地址 Address
+    - 避難收容處所名稱 Shelter Name
+    - 適用災害類別 Disaster Categories
+        - 水災-Flooding
+        - 地震-Earthquake
+        - 土石流-Landslide
+        - 坡地災害-HillslopeDisaster
+        - 海嘯-Tsunami
+        - 核子事故-NuclearEmergency
+    - 適合避難弱者安置 Shelter for Vulnerable People
+        - 是 Shelter for Vulnerable People
+        - 否 No
+    - 室內 Indoor
+        - 室內 Indoor
+        - 否
+    - 室外 Outdoor
+        - 室外 Outdoor
+        - 否
+    - 預計收容人數 Capacity
+
+
+---
 
 個別縣市釋出資料集
 - 2024.01 僅 臺中市、臺東縣、澎湖縣 有釋出 KML 地點資料，待確認是「疏散避難場所」還是「防災避難收容處所」
 - 新北市 NCDR 資料平台上有釋出
+- 臺東縣關山鎮，有標記為 短期 或 長期 
+    - https://www.guanshan.gov.tw/files/108%E6%94%B6%E5%AE%B9%E6%89%80%E6%B8%85%E5%96%AE(%E8%8B%B1%E6%96%87)%20.pdf
+
+
 
 盤點日本韓國類似的資料集
 https://docs.google.com/spreadsheets/d/1OT-Xwx8fSfPdehkgalaF-JtxM5HvHQGLJ2wadFIUpMQ/edit?usp=sharing
@@ -97,8 +143,17 @@ https://hackmd.io/@osm-tw/HyUvtrOmu
 
 #### 資料應用
 
+民間建立全台避難收容處所線上地圖
+- 線上地圖搭配篩選器：https://app.awesome-table.com/-NnYWzaRVwV_CasaZLAV/view
+- 地圖所依據的資料集 Googlesheet：https://docs.google.com/spreadsheets/d/1l_Au7txDgsknhHKvhLksfSAzeMmSoaih3m4pMdqwrBU/edit
+- 消防署釋出全台避難收容處所點位資料，資料欄位：序號、縣市及鄉鎮市區、村里、避難收容處所地址、經度、緯度、避難收容處所名稱、預計收容村里、預計收容人數、適用災害類別、管理人姓名、管理人電話、室內、室外、適合避難弱者安置
+    - 資料下載網址：https://data.gov.tw/dataset/73242
+
 南投縣草屯鎮日新國中，製作防災避難引導 Linebot，介紹網頁
 https://rsjhs.ntct.edu.tw/p/404-1010-403933.php?Lang=zh-tw
+
+大規模震災情境下避難收容處所開設管理與防災士空間分布特徵之評析
+https://hdl.handle.net/11296/3m94b2
 
 日本，列印紙本地圖
 https://kamimap.com/tw/map/2024-noto-earthquake/
@@ -127,7 +182,7 @@ APP
 - 警政服務 App，提供「防空疏散避難專區」查詢，也是用 Google My Map 提供各地區地圖
     - https://www.npa.gov.tw/ch/app/artwebsite/view?module=artwebsite&id=1061&serno=25d5dae3-2a7d-40ea-8016-e567912ac57c
 
-也盤點日本韓國類似的資料集
+盤點日本韓國類似的資料集
 https://docs.google.com/spreadsheets/d/1OT-Xwx8fSfPdehkgalaF-JtxM5HvHQGLJ2wadFIUpMQ/edit?usp=sharing
 
 ### Evacuation Drill / Record
