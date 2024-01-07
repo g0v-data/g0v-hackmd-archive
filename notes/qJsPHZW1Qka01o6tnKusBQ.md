@@ -96,12 +96,25 @@ kube開頭的namespace 盡量不要使用。
 kubectl get ns
 #加入參數可以輸出更多資訊
 kubectl get ns -o wide
+kubectl get nodes -A -o wide
 #輸出成Json 或yaml
 kubectl get ns -o json
 
 #查詢kubectl 的API-resource，例如get xxxx，xxxx就是api-resource
 kubectl api-resources
+
+##看事件使用describe
+kubectl describe node lab
+
+##看叢集有關的指令
+ㄔㄧㄠˉ
+
+
 ```
+
+
+## 重要指令整理
+
 
 Examples
 ---
