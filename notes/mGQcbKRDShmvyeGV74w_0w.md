@@ -33,12 +33,14 @@ We want to discuss measures for both governmental and civil department, that can
 各次小松
 ---
 `Latest` 
+- [202402XX DigiResiTh3n 第參次](/Xt7FoiZgTYq-7x20iNGN4A)
 - [20240120 DigiResiTh2n 第貳次](/iC-7ZtqJTqG75GxUY3aiAQ)
 - [20231230 DigiResiTh1n 第壹次](/mKkOC9PLSXi0GZg7uGm1xA)
 - [20231104 DigiResiTh0n 第零次](/oyNRfe4lTuaZ5RbcPSS7TQ)
 
 數位韌性專案們
 ---
+- [WaytoSafety 隨時隨地知道避難場所位置](/JzB6MXZRThm6hIgS0OHEdQ?view)
 - [Meshtastic as Citizen Network](https://g0v.hackmd.io/0bR8-LvHRMaNaR97YaXpnQ)
 - [數位韌性情境分級(wip)](https://g0v.hackmd.io/SYTBWVohTyuCgPGUqfAl9g)
 - [離線防災資訊資料庫](/0E3O29reTPSItud6rcupag)

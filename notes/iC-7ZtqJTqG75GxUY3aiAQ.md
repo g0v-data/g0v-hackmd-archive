@@ -75,7 +75,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 ### WaytoSafety 隨時隨地知道避難場所位置<br>Shelter Map (Taiwan, Japan, Korea)
 專案共筆：https://g0v.hackmd.io/JzB6MXZRThm6hIgS0OHEdQ?view
-跳坑者簽到：chewei,
+跳坑者簽到：chewei, [林博仁(Buo-ren, Lin)](https://brlin.me), Reily
 頻道：
 - 臺灣資料 #disaster-go
 - 日本與韓國資料 #facing-the-ocean
@@ -107,13 +107,15 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
     - 各地房仲
     - 各地區有登記公司的企業
     - 物業管理公會
+
+### ATAK
 - 哈爸提問：
     - 來試做即時狀態更新的方法如何？ATAK 技術團想發展一個方法，做即時狀態更新
     - [ATAK 簡介](https://docs.google.com/presentation/d/1sgvT_9FFuzaZKJYy_NaE582szxIa7LpsQljQtqLLP6g/edit#slide=id.p)
         - ATAK-CIV
             - 可以收集災害現況資訊，可以協同標記，如防災，救災，登山，任務小組活動都適用，同理也能應用在區域衝突發生時。
-            - 本來是[美軍大兵現場戰鬥軟體 TAK](https://github.com/TAK-Product-Center)，ATEK 是上述 TAK 的降階版，是一個穩定而且 proven-worked 的平台
-            - Android based (另外還有 WinTEK, iTEK)、play store: ATAK-CIV 
+            - 本來是[美軍大兵現場戰鬥軟體 TAK](https://github.com/TAK-Product-Center)，ATAK 是上述 TAK 的降階版，是一個穩定而且 proven-worked 的平台
+            - Android based (另外還有 WinTAK, iTAK)、play store: ATAK-CIV 
             - 開源軟體，有社群支援、很多 plugin、github: AndroidTacticalAssaultKit-CIV
             - 團隊即時位置、距離，方位量測、3D 支援
             - 可串攝影機、可看 UAV、同步攝影機的位置與視角
@@ -148,10 +150,23 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 ### data over voice
 - jimmy C. 實驗透過無線段傳輸
-    - 測試 Waver 聲音訊號透過 FM 波段無線電傳輸，測試頻率 144.660。直接由電腦播放 Waver 軟體產生的音頻至無線電，另一部無線電直接將音頻播放給手機聽，測試成功，但因無線電收音靈敏度不高，若將能 Waver 音量放大，或是直接 line-in 至無線電發送，則較可能實用。
+    - 測試 Waver 聲音訊號透過 FM 波段無線電傳輸，測試頻率 144.660。
+    - 直接由電腦播放 Waver 軟體產生的音頻至無線電，另一部無線電直接將音頻播放給手機聽，測試成功，但因無線電收音靈敏度不高，若將能 Waver 音量放大，或是直接 line-in 至無線電發送，則較可能實用。
     - Waver 訊號前後會各有一段長音，如果搭配 line-in 線及無線電的聲音啟動送信功能，理論上應該可以做到在鍵盤上輸入完成就自動發送的機制。 
     - 效果最好的 protocol 是 DT，U 則完全無法工作。
     - 公開頻道，訊息完全沒有保密性可言，不建議使用明碼。
  - 現場實驗透過 電腦 => NIOPORTABLE => 103.2MHz => TECSUN PL990 FM收音機 => 手機 傳遞資料
      - Ultrasound 無法使用 (15khz 以上)
      - 如果多一點人在講話的話會傳輸失敗
+
+
+### OSM X 避難場所
+
+- [OSM上的災防疏散避難地圖](https://osmtw.hackpad.tw/OSM-lis34MoHRDu)
+- [Overpass-Turbo query @ TW](http://overpass-turbo.eu/s/1GcO) [name=yellowsoar]
+
+### [離線防災資訊資料庫](/0E3O29reTPSItud6rcupag)
+
+:::info
+感謝簡菱瑤、張嘉君、Ying 的貢獻！整理超多資訊在共筆裡 ><
+:::

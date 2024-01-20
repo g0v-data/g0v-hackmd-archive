@@ -31,9 +31,15 @@
 * [避難指示等に関する多言語辞書（14か国語）](https://docs.google.com/spreadsheets/d/16mJKMmLcNQ5z3NtuB3wqD-UbHn8OkHW1/preview)  
   由日本公家機關整理的，不同情境的多國語言訊息，可用於應用軟體的在地化(L10N)參考
 
+## 應用規範<br>Application specifications
+
+說明怎麼使用這些資料讓人民可以方便存取相關資源：
+
+* [避難資訊快速查找應用（待完成雛型）](/iJnBO1YKRDORQDCwy1ftZg)
+
 ## 成果發表<br>Progress publication
 
-* [《g0v 第貳次數位韌性松》成果發表簡報](/5o9f7rpqR1eetfFQOlB2LQ)
+* [《g0v 第貳次數位韌性松》成果發表簡報](https://g0v.hackmd.io/@brlin/waytosafety-digiresith2n-progress-presentation)
 
 ## 平台使用說明📖<br>HOWTOs
 
@@ -44,10 +50,3 @@
 * [HackMD書本模式：如何編輯目錄<br>HackMD Book Mode: How To Edit List of Contents](/T3Wl5AnLTfCo8uF6D71fWQ)
 * [Book Mode example](https://hackmd.io/book-example)
 * [Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html)
-
-<!--
-## 應用規範<br>Application specifications
-
-怎麼使用這些資料讓人民可以方便存取相關資源
--->
-

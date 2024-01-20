@@ -133,6 +133,8 @@ https://g0v.hackmd.io/_HFiW7HDT9S2lwf02hTJNA?view
 | Facebook | facebook.com |
 | Telegram | |
 | IG | |
+|dcard||
+|ptt||
 
 ### 工作
 
@@ -193,15 +195,28 @@ https://g0v.hackmd.io/_HFiW7HDT9S2lwf02hTJNA?view
 
 ### 被許多廣泛使用的 framework / service
 
+需要找一些前端 lib 市場數據的資料
+
+https://gist.github.com/tkrotoff/b1caa4c3a185629299ec234d2314e190
+
+https://tsh.io/state-of-frontend/
+https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/
+
+
 | framework | 服務提供的預設網址 | 是否有國內節點 | 備註 |
 |---|---|---|---|
 | jQuery | code.jquery.com | Fastly / 香港 | |
+| React | | |
+| Angular | | |
+| Vue | | |
 | Google Tag Manager | www.googletagmanager.com | ? (Google) | |
 | fontawesome | kit.fontawesome.com | Y (Cloudflare) | |
 | Adobe (Typekit) | use.typekit.net | | 死掉可能沒差 |
 | Google Font | | | 死掉可能沒差 |
-
-
+| cdnjs | | |
+| jsdelivr | | |
+| googleapis | ajax.googleapis.com | | [ref](https://developers.google.com/speed/libraries?hl=zh-tw) |
+| 已知的 library CND | | |
 
 <!-- 需離線可得或整理與分流的防災資訊移到：https://g0v.hackmd.io/oyNRfe4lTuaZ5RbcPSS7TQ?both#防災知識庫
 ### 生存
@@ -216,17 +231,20 @@ https://g0v.hackmd.io/_HFiW7HDT9S2lwf02hTJNA?view
 
 ## 服務韌性檢測方式（wip）
 
-- 檢查網站 hosting 所在地 & API 所在地
-    - 位置：國內 / 國外
-    - 是否是 anycast，且提供國內節點
-- 網站 / API hosting 是否通過 CDN
+- 檢查網站 hosting 主機 
+    - 所在地 & API 所在地
+        - 位置：國內 / 國外
+        - 是否是 anycast，且提供國內節點
+- 檢查網站頁面 & API 是否通過 CDN
     - CDN 是否是已知有落地的單位
         - cloudflare (TPE)
         - Akamai
-- 有無使用外部 library (jquery, anguler, vue... etc)
-    - 是否位於已知有落地的 CDN
+- 檢查網站使用的 library (jquery, anguler, vue... etc)
+    - 是否使用公共的 CDN
+        - 是否已知有落地
         - cdnjs (over cloudflare)
         - jsdelivr?
+    - 是否與網站一起 serve
 
 
 

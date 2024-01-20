@@ -4,22 +4,11 @@
 :::
 
 
-### 離線版防災資訊
-
-
-### 防災知識庫
-- （謎）沃草下一版的手冊會免費（？）
-> 哦哦哦哦哦 [name=paulpengtw]
+## 防災知識庫
+- 可以參考沃草的防災手冊
 > [物資哪裡買](https://g0v.hackmd.io/@billy3321/ryMJ68XQ6)
+- [全民國防手冊](https://aodm.mnd.gov.tw/front/down.aspx?menu=069&mCate=069)
 
-- 日本方案
-    - ["TOKYO BOUSAI", a disaster prevention book by NOSIGNER](https://nosigner.com/tokyo-bousai)
-    - ["OLIVE", a wiki to centralize and share information that is useful when disasters strike.](https://nosigner.com/olive)
-    - ["THE SECOND AID", A disaster prevention kit included survival food and supplies](https://nosigner.com/the-second-aid)
-        - 這是防災包+防災知識庫
-
-
-- 資料搜集要怎麼確認資料正確與否、內容搜集、
 
 ## 地震
 ### 事前防災準備
@@ -141,3 +130,11 @@
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6ae07a758f59e2399bed188b1826eb94.png)
 
 暫存：https://www.facebook.com/TaipeiNeedYou/posts/2279770472069198/?paipv=0&eav=AfaSw_i-s2G9NZ7hdLIwotA9tp4bqASW7aReZDKVHMGzPDz6a-9Nsh9DqCNoeiqnvR4&_rdr
+
+## 參考資料
+- 參考日本方案
+    - ["TOKYO BOUSAI", a disaster prevention book by NOSIGNER](https://nosigner.com/tokyo-bousai)
+    - ["OLIVE", a wiki to centralize and share information that is useful when disasters strike.](https://nosigner.com/olive)
+    - ["THE SECOND AID", A disaster prevention kit included survival food and supplies](https://nosigner.com/the-second-aid)
+        - 這是防災包+防災知識庫
+
