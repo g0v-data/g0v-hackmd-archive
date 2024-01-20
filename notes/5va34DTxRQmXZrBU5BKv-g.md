@@ -1,6 +1,5 @@
 ---
-title: "CC.tw x g0v文化部"
-tags: g0v 文化部,hackpad
+tags: CC, g0v 文化部,hackpad
 ---
 
 # CC.tw x g0v文化部

@@ -4,6 +4,10 @@ title: nonprofit-helper Home
 ---
 # nonprofit-helper Home
 
+:::info
+This is a nominee of [4th sch001 project incubation competition](https://g0v.hackmd.io/@jothon/rydvIDluT/https%3A%2F%2Fg0v.hackmd.io%2F%40jothon%2FSJbjGMnvT)
+:::
+
 ## project proposal
 [nonprofit-helper proposal documents](/Sn_lVZE9QKWVqUGQVx_VTg)
 
@@ -21,6 +25,9 @@ title: nonprofit-helper Home
 - 【回饋 3】
     1. 透過AI工具的輔助，資料的整合可有效解決這些非營利組織在行政作業上的壓力。
     2. 多項工具若開發完成，亦可拓展到類似組織架構的單位上。
+
+## implementation
+- [RAG](/PAMWvWCiQMykE8ONzvZzEw)
 
 ## potential partnership resoureces
 - 網路星期二

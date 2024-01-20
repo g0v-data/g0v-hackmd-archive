@@ -125,7 +125,7 @@ SDG 6 淨水及衛生：確保所有人都能享有水、衛生及其永續管�
 
 ### Health Passport 如何申請
 
-## 5/31零時提案!!!
+## 5/31臨時提案!!!
 [範例](https://sch001.g0v.tw/dash/prj/PIiwt0M2ouBWE4tG54iBtJ6QVJWbOT)
 5/19討論&分配
 

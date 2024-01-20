@@ -143,6 +143,9 @@ https://www.comicworld.com.tw
 歡樂飲酒歌
 https://m.facebook.com/story.php?story_fbid=pfbid02LtmmnWuxqPSyMYYNcCXP1g1zGHch72jrskJvLePpnXAzASyk6kcSWqcr83XTXKc5l&id=2252281515022866&mibextid=qC1gEa
 
+生物多樣性中心
+https://www.facebook.com/share/p/aN5tCow7XbjtyXaC/?
+
 ## 三十年
 
 特生中心30週年研討會

@@ -4,7 +4,7 @@ tags: 公民參與
 
 # 公民參與，哪來的時間？
 
-觀察
+## 公民參與活動，活動型態觀察
 - 型態
     - 型態一：週間舉辦實體活動
         - 有工作的民眾，多數需要請假排休
@@ -28,6 +28,7 @@ tags: 公民參與
                 - https://www.facebook.com/cih.tw/posts/pfbid02bcohmM9j31ahV8J3KzvnavUtzdNm2p3XQ6XxD4PK6ErJLo1yppUnYPdbBEJn4sc9l
             - (1) 假日人數比週間多
             - (2) 一天之中，晚上 21:00-22:00 人數最多
+    - 型態五：例如為期一個月的文件公展，並蒐集意見
 
 
 ## 將公民參與活動，建立研習時數認證

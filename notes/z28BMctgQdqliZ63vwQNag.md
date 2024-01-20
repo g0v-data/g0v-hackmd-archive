@@ -1,10 +1,21 @@
-# Rep0rter - g0v 虛擬記者 - 每日 g0v 大小事資訊推播
+---
+tags: Rep0rter - g0v 零時記者
+---
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7f522a877327ccb5484b590e64522ffe.png-500px)
+# Rep0rter - g0v 零時記者 - 每日 g0v 大小事資訊推播
 
+<p style="text-align: center;">
+<img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7f522a877327ccb5484b590e64522ffe.png" width="300" height="300">
+</p>
+
+<!-- 
+chewei> 圖沒跑出來耶  
+skyhong2002> 好ㄌ  
+-->
 
 :::info
-參與討論 -> Slack #rep0ter
+參與討論 -> g0v Slack #rep0rter
+溝通用 Mailing List -> rep0rter@googlegroups.com
 :::
 
 ## 專案動機
@@ -22,6 +33,49 @@
 但這樣的企劃需要非常大量資源才能進行。目前大部分由揪松團職工協助營運，從企劃、撰寫到發布，需要耗費人力、無論在時間還是資訊量都不是正常能夠消化的量。也因此認為應該要有這樣的基礎建設，也成為了要這個專案的動機。
 :::
 
+## 會議記錄
+
+- [第零次 Rep0rter 專案開會](https://g0v.hackmd.io/@Hawks/rJ2aJTetT)
+- [第壹次 Rep0rter 專案開會](https://g0v.hackmd.io/@Hawks/S1CgYAeK6)
+
+
 ## 專案團隊成員
-- 坑主- Hawks
-- -Sky Hong
+- Hawks  
+    - sean8321@gmail.com
+- Sky Hong  
+    - me@skyhong.tw
+- Wolf Yuan  
+    - [wolf@wolf-yuan.dev](mailto:wolf@wolf-yuan.dev)
+
+## 溝通用 Mailing List
+
+rep0rter@googlegroups.com
+
+加入連結：https://groups.google.com/g/rep0rter
+
+## 成員治理機制
+
+零時小學校比賽結束前會以以下方式為準：
+
+- 參加零時小學校專案孵化競賽
+- 維持 U18 資格
+- 須由所有目前成員同意始得加入
+
+零時小學校比賽結束後的治理方式尚未建立，將於 3/2 左右建立
+
+## 初選評審回饋
+
+
+【回饋 1】
+
+很喜歡這個從 g0v 社群角度出發的專案，如果可以有更有效率的將資訊整理並傳播的方式會非常棒。
+
+【回饋 2】
+
+是個值得一試的點子，建議在開始實做前，先手工拿資料 + prompt 來試試，看看能否生成想要的內容。
+
+由於在揪松團的基礎建設中，已經有其他在收集各坑資料的專案，或許這個專案，可以將焦點放在如何生成適合閱讀的內容，就能更容易與其他專案一起合作、接力。
+
+【回饋 3】
+
+資訊的彙整平台可以大幅新進者進入的門檻，有利於 g0v 之推廣及理念傳遞。

@@ -2,14 +2,17 @@
 tags: GIS, 防災, 民防
 ---
 
-# WaytoSafety 隨時隨地知道避難場所位置：<br>災害避難疏散場所 (Evacuation Area)、防災避難收容處所 (Shelter)、防空避難處所 (Air Raid Shelter) 
+# WaytoSafety 隨時隨地知道避難場所位置<br>Shelter Map (Taiwan, Japan, Korea)
 
 :::info
-Channel: g0v Slack #facing-the-ocean
+Channel:
+- g0v Slack #facing-the-ocean
+- g0v Slack #disaster-go
+
 Contributor: 
-- chewei
-- supaplextw 幫找到消防署釋出的全台資料集 & 分享 OpenStreetMap 過去有整合過一次防災避難收容點位資料
-- 感謝 hwan 分享韓國的 Shelter 查詢網頁，以及用詞建議 "대피소"
+- chewei 資料勘誤
+- supaplextw 協助找到消防署釋出的全台資料集 & 分享 OpenStreetMap 過去有整合過一次防災避難收容點位資料
+- hwan 分享韓國的 Shelter 查詢網頁，以及用詞建議 "대피소" 也分享韓國政府資料開放平台上避難所的 API 釋出網頁，並且彙整靜態資料 csv (2024.01)
 :::
 
 :::warning
@@ -17,21 +20,14 @@ Contributor:
 [TOC]
 :::
 
-## Evacuation Area / ひなんばしょ / 대피 장소 / 災害避難疏散場所<br>Shelter / ひなんじょ / 대피소 / 防災避難收容處所
+Intro:
+- Offline Map
+- Open Data / Release Data
+- Evacuation Drill / Record
 
-用詞：
-- Evacuation Area / ひなんばしょ / 대피 장소 / 災害避難疏散場所
-    - 例如地震當下，海嘯來臨前，應前往的疏散避難場所
-        - 但不一定是 避難收容處所
-        - 例如地震來臨，學校空曠的操場；情況較穩定後，可選擇前往 收容處所，例如經確認餘震期間仍可判斷為安全的運動場館室內
-- Shelter / ひなんじょ / 대피소 / 防災避難收容處所
-    - 室內避難收容處所(優先安置學校) Indoor Evacuation Shelter ( School for Priority Shelter )
-    - 室外避難收容處所(防災公園) Outdoor Evacuation Shelter ( Disaster Prevention Park )
-    - 避難收容處所(備用) Evacuation Shelter ( Backup )
+## Offline Map
 
-### Offline Map
-
-#### 全國各村里簡易疏散避難地圖
+### 全國各村里簡易疏散避難地圖
 
 簡易疏散避難地圖，但好像還是各村里 PDF 檔案方式釋出？
 https://www.nfa.gov.tw/cht/index.php?code=list&ids=82
@@ -39,7 +35,7 @@ https://www.nfa.gov.tw/cht/index.php?code=list&ids=82
 如何找到自己所在的村里避難地圖，推廣網頁
 https://www.safetaiwan.com/blogs/disaster-prevention-column/evacuation-map
 
-#### 特定地區或園區的避難地圖
+### 特定地區或園區的避難地圖
 
 國內研究「地形特徵圖」部分地區有產製避難路線建議章節
 https://atlas.geo.ntnu.edu.tw/
@@ -56,39 +52,137 @@ https://atlas.geo.ntnu.edu.tw/
 - 高雄市桃源區荖濃溪 https://photos.app.goo.gl/oJ1VFzUmBvSJJm1m9
     - 這本有介紹避難路線與各部落避難建議據點
 
-產業與科學園區
+園區
+- 產業與科學園區
+- 交通園區
+- 海生館
 
-交通園區
+### 應用、實際使用
 
-NCDR 資料釋出網址
-https://datahub.ncdr.nat.gov.tw/dataset
+有相關應用經驗嗎？
 
+其他：Vectorization 將內容數位化為資料
+- 民間專案曾嘗試建立線上地圖 https://github.com/lowiki-org
+- 討論：於 OpenStreetMap 如何標記防災避難收容處所 https://hackmd.io/@osm-tw/HyUvtrOmu
+- 討論：是否有可能用 群眾標註地圖，把簡易疏散避難地圖上面的地點，標記到 群眾標註地圖 上
+    - 標記測試：
+        - 先找到一幅簡易疏散避難地圖檔案，以「臺北市中山區朱園里」為例 https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzEzL3JlbGZpbGUvMTI4NDEvMjMwMi9iMzJkODg0MC05MzU0LTQ2ZGYtYTFiZi1iMDY0MWRhM2MwN2QucGRm&n=NjMwMDQwMF8wMzbkuK3lsbHljYDmnLHlnJLph4xf5Lit5paHLnBkZg%3d%3d&icon=..pdf
+        - 標記「避難收容處所(備用)：臺北市中山區長安國中」，把地點標記在校門出入口的位置 https://commutag.agawork.tw/image?dataset=5e6b06a177e80cf258b9ba72&image=6596b33238c282d22899f2a2
 
-### Data
+## Open Data / Release Data
 
-#### Open Data / Release Data
+### 【臺灣】<br>Evacuation sites / ひなんばしょ(指定緊急避難場所) / 대피 장소 / 災害避難疏散場所<br>Shelter / ひなんじょ(避難所) / 대피소 / 防災避難收容處所
 
-消防署釋出全台避難收容處所點位資料
+#### 政府釋出的資料與查詢工具
+
+##### 全民防災e點通 - 避難收容場所
+- 形式：地圖網頁
+- 網址：https://bear.emic.gov.tw/MY/#/home/map
+    - 勾選「避難場所」圖資，可以呈現在地圖上
+- 資料錯誤：
+    - 尚未花費大量力氣普查勘誤此地圖網頁，但可以簡單就隨機發現許多避難場所位置有誤
+    - 錯誤地點截圖相簿：https://photos.app.goo.gl/BYcLneADj73YArEv7
+
+##### 全民防災e點通 - 災民收容救濟站
+- 形式：地圖網頁
+- 網址：https://bear.emic.gov.tw/MY/#/home/map
+    - 勾選「災民收容救濟站(衛服部提供)」圖資，可以呈現在地圖上
+- 討論：
+    - 「災民收容救濟站」有另外釋出資料嗎？
+    - 少數「災民收容救濟站」與「避難場所」的空間位置是一樣的，但多數救濟站並不是避難場所
+    - 對於民眾來說，是否要前往「災民收容救濟站」？
+- TODO
+    - 預計寫信詢問 衛生福利部，如何理解「災民收容救濟站」？是否作為避難場所？
+
+##### 衛服部避難地圖查詢網頁 - 避難收容處所
+- 形式：地圖網頁
+- 網址：https://rvis.mohw.gov.tw/mgov-rvis/home/map#
+- 資料錯誤：
+    - 尚未花費大量力氣普查勘誤此地圖網頁，但可以簡單就隨機發現許多避難場所位置有誤
+    - 錯誤地點截圖相簿：https://photos.app.goo.gl/BYcLneADj73YArEv7
+
+##### 消防防災e點通 APP - 避難收容處所
+- 形式：App
+- 網址：https://www.moi.gov.tw/News_Content.aspx?n=10&sms=9009&s=265624&fbclid=IwAR3uH56mpYYcJnMiwVZOT5mrNCz8yersinbqQVbohIMerFULwEGjaIlRbV4
+- 資料錯誤：
+    - 尚未花費大量力氣普查勘誤此地圖網頁，但可以簡單就隨機發現許多避難場所位置有誤
+    - 錯誤地點截圖相簿：https://photos.app.goo.gl/BYcLneADj73YArEv7
+
+##### 消防署釋出全台「避難收容處所」點位資料
 - 資料欄位：序號、縣市及鄉鎮市區、村里、避難收容處所地址、經度、緯度、避難收容處所名稱、預計收容村里、預計收容人數、適用災害類別、管理人姓名、管理人電話、室內、室外、適合避難弱者安置
+- 資料格式：csv
 - 資料下載網址：https://data.gov.tw/dataset/73242
 
-民間建立的線上地圖
+民間下載 20240107 資料集建立的線上地圖
 - 線上地圖搭配篩選器：https://app.awesome-table.com/-NnYWzaRVwV_CasaZLAV/view
-- 地圖所依據的資料集 Googlesheet：https://docs.google.com/spreadsheets/d/1l_Au7txDgsknhHKvhLksfSAzeMmSoaih3m4pMdqwrBU/edit
+    - 輔助用線上地圖 (無篩選器)：https://umap.openstreetmap.fr/zh-tw/map/2024010
+- 地圖所依據的資料集 Googlesheet：
+    - https://docs.google.com/spreadsheets/d/1l_Au7txDgsknhHKvhLksfSAzeMmSoaih3m4pMdqwrBU/edit
 
 <iframe referrerpolicy="no-referrer-when-downgrade" height="600px" width="100%" style="border:none;" src="https://view-awesome-table.com/-NnYWzaRVwV_CasaZLAV/view"></iframe>
 
 ---
 
-消防署資料集討論
-- 位置勘誤
-    - 標記在 Googlesheet
-    - 勘誤類型
-        - 經緯度位置並不是該場所名稱的位置
-        - 地名有難字無法正確顯示
-        - 聯絡人員姓名有難字無法正確顯示
-        - 缺字或漏字 (並非難字)
+消防署 csv 資料集勘誤進度說明
+- 勘誤成果請見 [Googlesheet 資料集](https://docs.google.com/spreadsheets/d/1l_Au7txDgsknhHKvhLksfSAzeMmSoaih3m4pMdqwrBU/edit))
+- 【建議優先修正之類型】位置有誤，經緯度位置並不是該場所名稱的位置
+    - 130 筆位置有誤
+        - 20240117 應該不止 130 筆，目前隨機找一個鄉鎮區，都可以找出 2~3 個標錯位置的
+        - 錯誤模式明顯可猜想來源單位有誤
+            - 臺北市政府體育局：只有松山運動中心是對的，其他 11 個行政區運動中心與 1 筆臺北體育館，經緯度都標錯
+            - 桃園市政府新屋區：整批經緯度飄到海上
+    - 勘誤方式說明
+        - 主要方式，用線上地圖，找出偏差位置太遠的
+            - 海域上、中國範圍、非洲範圍
+            - 20240108 done
+        - 主要方式，用線上地圖，隨機瀏覽，找出經緯度完全重疊的
+            - 例如臺北市忠孝新生捷運站匯聚了 36 筆經緯度完全一樣的資料集，且都不是臺北市避難場所
+            - 例如序號 4620、4621、4622 霧峰國中與國小經緯度一樣
+        - 次要方式，隨機瀏覽，透過衛星底圖的地貌 (深山森林、沿海海域、魚塭) 來指認錯誤標記資料
+            - 可優先檢視點位位置座落在深山森林中，例如尖石鄉有幾個經緯度位置明顯是在無道路的森林中
+            - 可優先檢視島嶼海岸線附近，通常有一些點位位在海面，離海岸線不遠，但是要近看才看到的是在海面
+            - 可優先檢視魚塭水域，有一些點位標錯標在魚塭中
+            - 如果衛星底圖看起來房舍很小，不像是公共建築樣式，其實就有可能是標錯位置
+        - 不點開就完全不知道是錯的
+            - 例如臺北市多個行政區運動中心經緯度，運動中心經緯度都與該行政區另一個避難場所共用同一個經緯度，位置還是在市區，所以不點開資料實在不知道是錯的 
+- 【建議優先修正之類型】沒有描述該場所適用哪些種類的災害
+    - 164 筆：沒有說明場所適用哪些災害種類 (地震、水災、土石流、坡地災害、海嘯、核子事故)
+    - 個案舉例：
+        - 序號 5918 金山區獅頭山公園，公園位置緊鄰海岸線且屬於小型半島一旁的漁港屬於凹口，都是海嘯加劇的地形，可能不適用於 海嘯避難
+- 【建議優先修正之類型】地區範圍稱呼用詞待確認
+    - 15 筆
+        - 序號 5232、5244、5799
+            - 收容場所與預計收容範圍，地理距離超過 10 公里
+        - 「預計收容村里」這個欄位，有出現像是「新北市漳和區 (序號 5072)」、「桃園市會稽區各里 (序號 510)」、「桃園市埔子區各里 (序號 5087)」、「三村 (序號 510)」
+    - 討論：預計收容村里，不少資料會寫 "全區" 應該是指 "行政區" ？
+        - 案例：
+            - 序號 653，高雄市梓官區蚵寮國民小學（備用），「全區」應該指的是「高雄市梓官區」
+            - 序號 5443，榮星花園公園，「全區」應該指的是「臺北市中山區」；[岔題延伸討論] 此個案可以實質討論，因為中山區包含基隆河北側與南側，榮星花園位在南側，基本上大規模災害，是否適合北側民眾跨越基隆河的少數橋梁，到南側榮星花園，或是應考慮在北側的大型場所避難？
+                - 從資料標記的方便程度來說，會需要有「中山區北側的里清單」與「中山區南側的里清單」
+    - 討論：預計收容村里，除了請人員手動輸入中文文字方式之外，有沒有什麼改善方向？
+        - 目前中文文字輸入結果無法統一，逗號或用詞不統一、難字無法輸入正確
+        - 改善方向：選項化
+            - 提供村里選項，請資料維護者，點選村里
+            - 要注意不同縣市會有同一個村里名
+        - 改善方向：地理計算
+            - 場所中心出入口經緯度，依據實際可行走道路，進行一個時間長度的可及範圍所涵蓋的村里
+                - 類似方式的操作網頁：https://www.map8.zone/showcase/snapToRoads
+                    - https://www.map8.zone/map8-control-api-docs/map8-js-route/map8-js-route.html
+- 【建議優先修正之類型】地名有難字無法正確顯示
+    - 137 筆：地名難字
+- 聯絡人員姓名有難字無法正確顯示
+    - 75 筆：聯絡人員姓名難字
+- 缺字或漏字 (並非難字)
+    - 197 筆：缺字，多數是沒有填寫場所座落在哪一個村里
+
+---
+
+【構想】程式自動勘誤
+- [較有把握] 陸域範圍取交集
+- [不太有把握] 用地址產出經緯度，與原始資料經緯度計算距離
+    - 課題：許多地址產出的經緯度也不一定在場所位置
 - 許多資料的經緯度位數太少，其實並不是很精確定位在該場所
+    - 推測是不是因為在資料整理的過程中，欄位被省略小數點以下的位數
     - 討論舉例
         - 序號：4894
         - 桃園市桃園區福林里建國國中
@@ -97,12 +191,14 @@ https://datahub.ncdr.nat.gov.tw/dataset
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b1539de06e7a1dbd885682d5b0776861.png)
 
-- 預計收容村里
-    - 寫 "全區" 應該是只 "行政區"
-        - 序號
+
+資料欄位內容討論
 - 一個避難收容處所，標記不是室內，也不是室外，那這是什麼意思？
-- 適合避難弱者的收容處所，有什麼明確的判斷嗎？
+- 關於「適合避難弱者安置」的收容處所
     - 如果沒有被標記為「適合避難弱者安置」該如何理解？
+        - 是不建議避難弱者前往嗎？
+    - 有部分場所有註記，例如「序號 747 高雄市燕巢區瓊林里岡山榮譽國民之家，可收容特殊需照料之弱勢災民，如洗腎患者及其家屬」
+        - 這些涉及特定醫療器材的資訊，是否也需要提列成欄位？
 - 中英文對照，初步採用：
     - 縣市及鄉鎮市區 County and Area
     - 村里 Village
@@ -126,45 +222,120 @@ https://datahub.ncdr.nat.gov.tw/dataset
         - 室外 Outdoor
         - 否
     - 預計收容人數 Capacity
+- 設想使用路徑：
+    - 使用者在線上地圖查詢，選擇災害種類，篩選出適合的避難收容處所，點開避難收容處所欄位資料，也可以進一步提供該場所的避難地圖圖檔
+    - Case: 彰化縣彰化市 https://docs.google.com/presentation/d/1zsKhzBNxHTcPPk9Wh3OE5fn8ooSONA3M/edit?usp=sharing&ouid=105730214933763595410&rtpof=true&sd=true
+    
+---
 
+#### Todo：資料勘誤與回報
+
+##### 寫一份給行政院的，整合說明內政部消防署、衛服部
+- 行政院院長信箱：https://eyemail.ey.gov.tw/WWW/MailToPremier.aspx
+    - 進度：
+- 內政部部長信箱：https://service.moi.gov.tw/
+    - 進度：
+- 消防署署長信箱：https://www.nfa.gov.tw/cht/index.php?code=list&ids=523
+    - 進度：
+- 衛服部部長信箱：https://www.email.mohw.gov.tw/
+    - 進度：
+
+【草稿】
+
+您好，我是民間專案「WaytoSafety 隨時隨地知道避難場所位置」的專案成員
+
+專案近期主動檢視國內「防災避難收容處所」的地點資料、地圖網頁、APP，已發現許多場所位置有誤，分項說明如下：
+
+一、消防署釋出全台避難收容處所點位資料
+- 形式：資料集
+- 網址：https://data.gov.tw/dataset/73242
+- 資料錯誤說明：(以下錯誤數量統計至20240117，有嘗試盡量勘誤，但判斷應該還有資料尚未勘誤出來)
+    - 140 筆資料，其經緯度位置標示錯誤
+    - 161 筆資料，沒有說明該場所適用哪些災害情境
+    - 351 筆資料，文字缺漏無法完整傳達地點
+
+二、全民防災e點通
+- 形式：地圖網頁
+- 網址：https://bear.emic.gov.tw/MY/#/home/map
+- 資料錯誤：
+    - 本團隊尚未花費大量力氣普查勘誤此地圖網頁，但可以簡單就隨機發現許多避難場所位置有誤
+    - 錯誤地點截圖相簿：https://photos.app.goo.gl/BYcLneADj73YArEv7
+
+三、衛服部避難地圖查詢網頁
+- 形式：地圖網頁
+- 網址：https://rvis.mohw.gov.tw/mgov-rvis/home/map#
+- 資料錯誤：
+    - 本團隊尚未花費大量力氣普查勘誤此地圖網頁，但可以簡單就隨機發現許多避難場所位置有誤
+    - 錯誤地點截圖相簿：https://photos.app.goo.gl/BYcLneADj73YArEv7
+
+四、消防防災e點通 APP
+- 形式：App
+- 網址：https://www.moi.gov.tw/News_Content.aspx?n=10&sms=9009&s=265624&fbclid=IwAR3uH56mpYYcJnMiwVZOT5mrNCz8yersinbqQVbohIMerFULwEGjaIlRbV4
+- 資料錯誤：
+    - 本團隊尚未花費大量力氣普查勘誤此 APP 內的地圖，但可以簡單就隨機發現許多避難場所位置有誤
+    - 錯誤地點截圖相簿：https://photos.app.goo.gl/BYcLneADj73YArEv7
 
 ---
 
-個別縣市釋出資料集
-- 2024.01 僅 臺中市、臺東縣、澎湖縣 有釋出 KML 地點資料，待確認是「疏散避難場所」還是「防災避難收容處所」
-- 新北市 NCDR 資料平台上有釋出
-- 臺東縣關山鎮，有標記為 短期 或 長期 
+#### 更多資料 / 資料議題討論
+
+個別單位釋出的資料，優先盤點比消防署全國資料的欄位種類更多的資料集
+- 基隆市災民避難收容所一覽表
+    - csv 資料集申請網址：https://datahub.ncdr.nat.gov.tw/dataset/detail?pid=c35e182f-4000-43a4-a7ee-5ac1aaaa1ced
+    - csv 資料 https://docs.google.com/spreadsheets/d/1LXasjsSac1H8n7Fz7rHfHBPlG-zMxxEw/edit?usp=sharing&ouid=105730214933763595410&rtpof=true&sd=true
+    - 有提供以下欄位：
+        - 衛福部重災系統災民收容所編號、屋齡、備用鑰匙存放位置、建造執照、使用執照、面積（平方公尺）、預估收容人數
+        - Ｘ座標、Ｙ座標
+- 臺中市避難看板位置
+    - csv 資料集申請網址：https://datahub.ncdr.nat.gov.tw/dataset/detail?pid=73d765ec-da93-4013-bdb9-7540c9cfb8bd
+    - csv 資料 https://docs.google.com/spreadsheets/d/1ZG_6yNMF1gWi4bQwVYALMIC8JYPEhgdXFju6MZmAhyg/edit?usp=sharing
+    - 資料欄位：
+        - 看板行政區、看板位置、看板X、看板Y、看板NE
+        - 中區、大誠里大誠街與大誠街49巷交叉路口人行道、120.678902、24.145379、24°08'43.4"N 120°40'44.1"E
+    - 討論：
+        - 實際上這個用途是什麼？
+        - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_65779685c5b6a91025cb9dcd6187f7cb.png)
+- 臺東縣關山鎮，PDF 表格檔案，有標記為 短期 或 長期 
     - https://www.guanshan.gov.tw/files/108%E6%94%B6%E5%AE%B9%E6%89%80%E6%B8%85%E5%96%AE(%E8%8B%B1%E6%96%87)%20.pdf
 
+待確認欄位資訊有沒有比較多
+- 新北市 NCDR 資料平台上有釋出，shp 可以直接下載，不用申請
+    - 資料網址：https://datahub.ncdr.nat.gov.tw/dataset/detail?pid=7e0ec2a5-d17e-49b3-a7b4-4c89c8875de7
+    - 待確認欄位資訊種類，是不是有比消防署的全國資料多
+- 2024.01 臺中市、臺東縣、澎湖縣 有釋出 KML 地點資料，待確認是「疏散避難場所」還是「防災避難收容處所」
+    - 資料網址：https://data.gov.tw/dataset/31979
+    - 待確認欄位資訊種類，是不是有比消防署的全國資料多
+- NCDR 資料平台上有釋出部分縣市的避難地圖資料
+    - 資料平台網址：https://datahub.ncdr.nat.gov.tw/dataset
+    - 20240108 chewei 撰寫申請資料名稱包含「避難」一詞的資料集或檔案，等待審核；需於 2024-01-15 之前下載
+        - 檔案資料夾：https://drive.google.com/drive/folders/1-KoiXmLJnQR0SWiy3xnbbYFTf0umUIgV?usp=sharing
 
-
-盤點日本韓國類似的資料集
-https://docs.google.com/spreadsheets/d/1OT-Xwx8fSfPdehkgalaF-JtxM5HvHQGLJ2wadFIUpMQ/edit?usp=sharing
-🔥🔥🔥
-
-#### Vectorization 將內容數位化為資料
-
-民間專案曾嘗試建立線上地圖
-https://github.com/lowiki-org
-
-討論：於 OpenStreetMap 如何標記防災避難收容處所
-https://hackmd.io/@osm-tw/HyUvtrOmu
-
-討論：是否有可能用 群眾標註地圖，把簡易疏散避難地圖上面的地點，標記到 群眾標註地圖 上
-- 標記測試：
-    - 先找到一幅簡易疏散避難地圖檔案，以「臺北市中山區朱園里」為例
-        - https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzEzL3JlbGZpbGUvMTI4NDEvMjMwMi9iMzJkODg0MC05MzU0LTQ2ZGYtYTFiZi1iMDY0MWRhM2MwN2QucGRm&n=NjMwMDQwMF8wMzbkuK3lsbHljYDmnLHlnJLph4xf5Lit5paHLnBkZg%3d%3d&icon=..pdf
-    - 標記「避難收容處所(備用)：臺北市中山區長安國中」
-        - 把地點標記在校門出入口的位置
-        - https://commutag.agawork.tw/image?dataset=5e6b06a177e80cf258b9ba72&image=6596b33238c282d22899f2a2
+是否區分「災時當下避難」與「災後短期收容」，需要依照不同種類的「災害情境時序與衝擊型態」
+- 例如海嘯，海嘯來臨前，應前往的海嘯緊急疏散避難地點
+    - 海嘯緊急疏散避難地點，不一定是災後短期收容地點
+- 例如地震來臨，前往學校空曠的操場或是比較沒有建物傾倒風險的公園中央
+    - 接著需要判斷餘震期間，仍可判斷為安全的運動場館室內
+    - 情況較穩定後，可選擇前往 收容處所
+- 例如土石流災害預警，通常是預先開始撤離
+- 例如核子事故，應該是尋找遮蔽空間
 
 #### 資料應用
 
-民間建立全台避難收容處所線上地圖
-- 線上地圖搭配篩選器：https://app.awesome-table.com/-NnYWzaRVwV_CasaZLAV/view
-- 地圖所依據的資料集 Googlesheet：https://docs.google.com/spreadsheets/d/1l_Au7txDgsknhHKvhLksfSAzeMmSoaih3m4pMdqwrBU/edit
-- 消防署釋出全台避難收容處所點位資料，資料欄位：序號、縣市及鄉鎮市區、村里、避難收容處所地址、經度、緯度、避難收容處所名稱、預計收容村里、預計收容人數、適用災害類別、管理人姓名、管理人電話、室內、室外、適合避難弱者安置
-    - 資料下載網址：https://data.gov.tw/dataset/73242
+提供一個查找路徑：
+- 使用者瀏覽全台避難收容處所查詢線上地圖
+- 選擇災害情境作為篩選條件
+- 顯示該災害情境下，適合的避難收容處所
+- 顯示該避難收容處所的建議前往路線
+    - 少數縣市有畫出來，且針對淹水情境，路線會繞開淹水潛勢高的地區
+    - Case: 彰化縣彰化市 https://docs.google.com/presentation/d/1zsKhzBNxHTcPPk9Wh3OE5fn8ooSONA3M/edit?usp=sharing&ouid=105730214933763595410&rtpof=true&sd=true
+- 點選避難收容處所，了解欄位資料與避難疏散地圖，或下載避難疏散地圖
+
+民眾入住該地區的流程中，提供避難地圖與手冊
+https://youtu.be/rjXJK0dRys0
+延伸發想：
+- 房仲業者
+- 物業管理公會
+- 家長會
 
 南投縣草屯鎮日新國中，製作防災避難引導 Linebot，介紹網頁
 https://rsjhs.ntct.edu.tw/p/404-1010-403933.php?Lang=zh-tw
@@ -172,18 +343,17 @@ https://rsjhs.ntct.edu.tw/p/404-1010-403933.php?Lang=zh-tw
 大規模震災情境下避難收容處所開設管理與防災士空間分布特徵之評析
 https://hdl.handle.net/11296/3m94b2
 
-日本，列印紙本地圖
-https://kamimap.com/tw/map/2024-noto-earthquake/
+應變單位與救援單位 csv
+https://data.gov.tw/dataset/5969
 
-## Air Raid Shelter / 防空ごう / 방공호 / 防空避難處所
+
+### 【臺灣】Air Raid Shelter / 防空ごう / 민방위대피소 / 防空避難處所
 
 用詞：
 - 防空避難處所
 - 防空避難設施
 - 防空疏散避難設施
 - 防空疏散避難設備
-
-### Data / Online Map
 
 線上地圖與資料集
 - 內政部警政署民防指揮管制所，用 Google My Map 提供各地區防空避難處所
@@ -199,12 +369,69 @@ APP
 - 警政服務 App，提供「防空疏散避難專區」查詢，也是用 Google My Map 提供各地區地圖
     - https://www.npa.gov.tw/ch/app/artwebsite/view?module=artwebsite&id=1061&serno=25d5dae3-2a7d-40ea-8016-e567912ac57c
 
-盤點日本韓國類似的資料集
-https://docs.google.com/spreadsheets/d/1OT-Xwx8fSfPdehkgalaF-JtxM5HvHQGLJ2wadFIUpMQ/edit?usp=sharing
+### 【日本】全国避難所ガイド
+- 日本 APP「Safety tips」&「全國避難所」
+    - https://www.jnto.go.jp/safety-tips/chc/app.html
+    - https://apps.apple.com/tw/app/%E5%85%A8%E5%9B%BD%E9%81%BF%E9%9B%A3%E6%89%80%E3%82%AC%E3%82%A4%E3%83%89/id446063625
+    - APP 畫面截圖：https://photos.app.goo.gl/hq2YiD1sC5rCnU7K8
+    - 討論：
+        - 要裝兩個 APP
+        - 全國避難所 APP
+            - 可以 GPS 定位
+            - 可以預演
+                - 例如身在臺灣，想了解東京都世田谷區任意地點前往避難處所的路線，使用者自行將起點設置在日本東京
+            - 避難處所地圖上有顯示全部的地點
+            - 沒有災害情境條件搭配篩選出對應的處所，點開處所之後，在介紹欄位中顯示適用哪些災害種類
+- 日本，列印紙本地圖 https://kamimap.com/tw/map/2024-noto-earthquake/
+- 日本，透過大貨車、大客車的 GPS 追蹤資料去帶出道路是否中斷的資訊
+    - https://www.its-jp.org/news_info/107997/
+    - https://disaster-system.its-jp.org/map4/map/
+- 日本，呈現加油站的營業狀態
+    - https://www.enecho-ss.meti.go.jp/b/enecho/
 
-### Evacuation Drill / Record
+### 【韓國】6 種避難場所種類，各個查詢網頁
 
-#### 20231230 中正紀念堂捷運站 至 NPOHub 沿途防空避難所外觀拍照
+Webpage / API
+- 지진옥외대피장소 地震室外避難場所 
+    - 查詢網頁：https://www.safekorea.go.kr/idsiSFK/neo/sfk/cs/sfc/res/victimList.jsp?acmdfclty_cd=2&emgPage=Y&menuSeq=855
+    - API：https://www.data.go.kr/data/15039250/openapi.do#/API%20%EB%AA%A9%EB%A1%9D/getArea3List
+    - 20240110 爬蟲成果 11300 筆資料 by hwan：https://docs.google.com/spreadsheets/d/1fEaFwnJ9KRlcFXdStt10hqfnStBCmpxmw6TVhtXLveo/edit#gid=1282817316
+- 지진해일 긴급대피장소 海嘯緊急避難場所 
+    - 查詢網頁：https://www.safekorea.go.kr/idsiSFK/neo/sfk/cs/sfc/res/victimList.jsp?acmdfclty_cd=2&emgPage=Y&menuSeq=855
+    - API：https://www.data.go.kr/data/3058512/openapi.do
+    - 20240110 爬蟲成果 660 筆資料 by hwan：https://docs.google.com/spreadsheets/d/1fEaFwnJ9KRlcFXdStt10hqfnStBCmpxmw6TVhtXLveo/edit#gid=0
+- 쉼터 庇護所 무더위쉼터 躲避酷暑
+    - 查詢網頁：https://www.safekorea.go.kr/idsiSFK/neo/sfk/cs/sfc/htw/htweaiList.html?menuSeq=862
+    - API：https://www.data.go.kr/data/15107290/openapi.do
+- 쉼터 庇護所 미세먼지쉼터 精細防塵罩
+    - 查詢網頁：https://www.safekorea.go.kr/idsiSFK/neo/sfk/cs/sfc/htw/htweaiList.html?menuSeq=862
+- 쉼터 庇護所 한파쉼터 寒流避難所
+    - 查詢網頁：https://www.safekorea.go.kr/idsiSFK/neo/sfk/cs/sfc/htw/htweaiList.html?menuSeq=862
+- 민방위대피소 民防庇護所
+    - 查詢網頁：https://www.safekorea.go.kr/idsiSFK/neo/sfk/cs/contents/civil_defense/SDIJKM1402.html?menuSeq=57
+
+資料彙整 demo，試作釜山地區的資料
+- csv-demo https://docs.google.com/spreadsheets/d/1gQG2k94RvmNcyXLnKT1xWTgafF0SRJIq2TrF96Y1ZJE/edit
+- map-demo https://app.awesome-table.com/-NnnM3t8IzB_LBA8hMWn/view
+
+### 多種語言翻譯課題
+
+日本釋出的「避難指示等に関する多言語辞書（14か国語）」文件
+- 下載網址：https://www.soumu.go.jp/menu_seisaku/kokumin/jyohonanminzero/index.html
+- 線上瀏覽 (檔案日期 20240118)：https://docs.google.com/spreadsheets/d/16mJKMmLcNQ5z3NtuB3wqD-UbHn8OkHW1/edit?usp=sharing&ouid=115613229829145960960&rtpof=true&sd=true
+- 討論
+    - 災害種別用語，裡面沒有「地震」一詞
+
+筆記
+- 지진 地震
+- 지진해일 海嘯
+- 室內避難收容處所(優先安置學校) Indoor Evacuation Shelter ( School for Priority Shelter )
+- 室外避難收容處所(防災公園) Outdoor Evacuation Shelter ( Disaster Prevention Park )
+- 避難收容處所(備用) Evacuation Shelter ( Backup )
+
+## Evacuation Drill / Record
+
+### 20231230 中正紀念堂捷運站 至 NPOHub 沿途防空避難所外觀拍照
 
 拍照：https://photos.app.goo.gl/BYcLneADj73YArEv7
 討論：
@@ -222,11 +449,9 @@ https://docs.google.com/spreadsheets/d/1OT-Xwx8fSfPdehkgalaF-JtxM5HvHQGLJ2wadFIU
     - 例如中正區的南門市場，屬於防空避難，其實建築才剛落成，也屬於公有建築物，很適合水災情境的垂直避難處所，或是地震情境時，此建築物理當相對安全，或是考量南門市場臨著羅斯福路非常空曠的道路空間，適合戶外避難，因為餘震期間街區建物無法確保安全
 
 
-## 其他災時圖資
+---
 
-日本，透過大貨車、大客車的 GPS 追蹤資料去帶出道路是否中斷的資訊
-https://www.its-jp.org/news_info/107997/
-https://disaster-system.its-jp.org/map4/map/
-日本，呈現加油站的營業狀態
-https://www.enecho-ss.meti.go.jp/b/enecho/
-
+:::warning
+文件目錄
+[TOC]
+:::

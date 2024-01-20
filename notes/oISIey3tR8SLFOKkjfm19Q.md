@@ -2,7 +2,7 @@
  
 ![](https://i.imgur.com/ot7oIl5.png)
 
-The suspension, among the engine or the transmission had been a fantastic addition to the car because it makes driving even on uneven surfaces incredibly smooth.
+The suspension, among the engine osssr the transmission had been a fantastic addition to the car because it makes driving even on uneven surfaces incredibly smooth.
 
 However, it usually gets less attention. However, the suspension may be prone to deterioration, especially if there are frequent instances of short-braking and driving on poor roads (filled with potholes). It might be carrying additional weight in the boot or on top.
 

@@ -2,42 +2,42 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [summit2024 提案草稿：g0v 社群算實驗教育的一環嗎](../notes/kOqmw0ffT8eQuaEOZiluqw.md) | 2023-12-06T11:02:48.612Z | 2023-11-26T08:34:44.297Z |
-| 2 | [summit 2024 議程委員二次討論](../notes/Cou8IiZxQrm4WyEZ9JUBzg.md) | 2023-11-28T14:06:33.954Z | 2023-11-24T09:34:35.461Z |
-| 3 | [g0v Summit 簡介](../notes/ImDuJ2MwSh2Cmia0WyWinA.md) | 2023-11-17T14:06:51.406Z | 2023-04-04T04:20:41.907Z |
-| 4 | [議程組 + 直播組 + 設備組最終確認](../notes/3e6-XVehSd-Zgtz0akBpGw.md) | 2023-09-18T12:13:02.737Z | 2020-11-25T13:03:59.125Z |
-| 5 | [接觸即興：沒有人以身體作為對話平台](../notes/oHV5CTh_QDCzh3dirM_7Xg.md) | 2022-04-11T08:13:59.131Z | 2022-04-11T07:54:15.116Z |
-| 6 | [g0v Summit 2020 銜接 2022 十週年相關討論](../notes/YUKO_AizSiWco9xX-wW2Vw.md) | 2022-04-01T15:12:35.210Z | 2022-03-14T11:20:46.442Z |
-| 7 | [g0v Summit 2022? bootstrap](../notes/vtvQ3zFeTHmgQqeJPp07xQ.md) | 2021-05-24T01:31:38.351Z | 2021-05-22T04:29:25.547Z |
-| 8 | [g0v Summit 2020 設計概念](../notes/vVxT69jjR4SlQUy9CLEdQg.md) | 2021-01-23T08:51:58.967Z | 2021-01-23T07:17:02.510Z |
-| 9 | [Summit 2020 網站檢討](../notes/13d9rRhYRnyMxgZ4zT_YvQ.md) | 2021-01-09T02:28:24.652Z | 2020-10-01T01:21:06.714Z |
-| 10 | [summit 工人 email 草稿](../notes/WIZ6aG-DRAOj-zx7ePY1ow.md) | 2020-12-22T09:24:29.032Z | 2020-04-09T15:06:32.545Z |
-| 11 | [g0v Summit 2020 週六夜](../notes/osZboCtJS5GnOan9qTDsdg.md) | 2020-12-08T17:04:26.591Z | 2020-03-09T14:01:05.440Z |
-| 12 | [尋人尋物 Lost & Found / g0v Summit 2020](../notes/CGa2dcNtRoqd3isWaIA3Mw.md) | 2020-12-08T13:47:50.680Z | 2020-12-07T13:02:05.766Z |
-| 13 | [各軌開場宣佈事項](../notes/CgWBzuMnSom1X_khZVLsqw.md) | 2020-12-06T00:20:58.669Z | 2020-11-21T06:06:24.623Z |
-| 14 | [大會媒體聯繫及接待整體規劃 / g0v Summit 2020](../notes/zG9SbIhDQCiIlXif9eQutQ.md) | 2020-12-05T16:12:36.314Z | 2020-11-26T09:25:35.777Z |
-| 15 | [議程各 stakeholder 行前注意事項](../notes/fOgZpN5rR2emDO1kOlSZzw.md) | 2020-12-04T15:32:10.885Z | 2020-11-30T17:24:45.383Z |
-| 16 | [議程相關圖片](../notes/ZbGOzomTTT-EUhX2QR2skQ.md) | 2020-12-04T05:06:44.381Z | 2020-11-11T06:34:25.756Z |
-| 17 | [什麼？](../notes/Y_FtHN-sSkmex2-ETFNDwg.md) | 2020-12-04T02:03:06.169Z | 2020-12-03T11:37:37.009Z |
-| 18 | [辦桌最終版 / g0v Summit 2020](../notes/g_i7ogiJRpChHqpcRF4c7w.md) | 2020-12-03T16:37:17.731Z | 2020-12-03T12:38:09.421Z |
-| 19 | [summit小吃推薦](../notes/D00kHA1VQOmogvXgtnDGBA.md) | 2020-12-03T11:39:46.087Z | 2020-11-03T15:29:45.676Z |
-| 20 | [Sentry 練習 x Summit 網站工人回顧](../notes/13NummLcTSGMDaOqOBf4ZQ.md) | 2020-12-03T07:47:33.311Z | 2020-12-02T03:54:24.310Z |
-| 21 | [2020-12-01 視覺設計工作](../notes/w7QV_s2UTAe_HTk7JXh-2w.md) | 2020-12-02T07:31:32.752Z | 2020-12-01T14:20:54.000Z |
-| 22 | [g0v Summit 2020 宣傳組](../notes/kwdhxMcrRGW9o2rSGqh_OA.md) | 2020-12-02T03:57:26.661Z | 2020-05-06T01:01:23.818Z |
-| 23 | [FtO Tainan 面海松･台南 2020 × 午營咖啡 a break cafe × g0v Summit 2020](../notes/7G5LQbjJQT2PTmHLZhuR8Q.md) | 2020-12-02T01:56:16.348Z | 2020-03-09T14:57:07.828Z |
-| 24 | [g0v Summit 2020 工人慶功宴](../notes/g1gj4iJZR-K_W58JA_2uxQ.md) | 2020-12-02T01:49:59.493Z | 2020-04-02T13:46:28.287Z |
-| 25 | [Unconf & 閃電講規劃](../notes/btTZq5RKRSqcyxgKZs4E4Q.md) | 2020-12-01T12:53:44.951Z | 2020-11-21T08:22:18.944Z |
-| 26 | [2020-11-24 視覺設計工作](../notes/kSDAiKziR_6EhJ-_TX94Qg.md) | 2020-11-30T07:34:46.183Z | 2020-11-24T13:30:47.340Z |
-| 27 | [g0v Summit 2020 議程宣傳圖文](../notes/_u0SIyfMQBaiDf7Lnr3GUQ.md) | 2020-11-29T17:05:26.782Z | 2020-10-12T08:06:33.905Z |
-| 28 | [g0v Summit 2020 閃電講、Unconf、HackMD、Slido 介紹](../notes/1nTTtguvQ0morpCXzCfIaQ.md) | 2020-11-28T10:35:49.399Z | 2020-10-24T12:36:07.127Z |
-| 29 | [g0v Summit 2020 × 南方創客基地 × Fablab Tainan](../notes/5JgHlvWWTPu32bYlJrz7Ng.md) | 2020-11-25T10:52:13.800Z | 2020-11-25T10:52:08.257Z |
-| 30 | [各軌講者人數估計](../notes/f9xaCt9LRMiYMEbkxR0iOg.md) | 2020-11-24T09:28:53.643Z | 2020-11-24T01:57:11.228Z |
-| 31 | [g0v Summit 2020 場佈設計](../notes/UZvl4r7ATgO-eqoms8S93Q.md) | 2020-11-23T17:53:59.189Z | 2020-10-15T02:19:50.793Z |
-| 32 | [基調座談 -- why?](../notes/fVQxWP18RlS-HN5f6vMG2A.md) | 2020-11-21T08:35:01.975Z | 2020-11-21T08:34:09.681Z |
-| 33 | [E-mail 通知信們](../notes/Wo-jZV1ESUmWsCz1-D9wAg.md) | 2020-11-20T16:37:10.135Z | 2020-06-22T12:57:13.836Z |
-| 34 | [講者、主持人的邀請碼 email](../notes/4Aq_6yinQ5a0HjtK6DWNUA.md) | 2020-11-19T05:15:13.947Z | 2020-11-05T10:18:10.676Z |
-| 35 | [2020-11-17 視覺設計工作](../notes/tytYh16VQXmuqEkk5cWF3A.md) | 2020-11-17T15:29:32.595Z | 2020-11-17T13:19:07.010Z |
-| 36 | [g0v Summit 工人群治理機制 / g0v Summit Working Group governance](../notes/c_mPhOsZQC6FHJiMl3BIhw.md) | 2020-11-17T15:17:59.697Z | 2020-04-09T02:41:01.748Z |
+| 1 | [g0v Summit 工人群治理機制 / g0v Summit Working Group governance](../notes/c_mPhOsZQC6FHJiMl3BIhw.md) | 2024-01-16T11:37:56.416Z | 2020-04-09T02:41:01.748Z |
+| 2 | [summit2024 提案草稿：g0v 社群算實驗教育的一環嗎](../notes/kOqmw0ffT8eQuaEOZiluqw.md) | 2023-12-06T11:02:48.612Z | 2023-11-26T08:34:44.297Z |
+| 3 | [summit 2024 議程委員二次討論](../notes/Cou8IiZxQrm4WyEZ9JUBzg.md) | 2023-11-28T14:06:33.954Z | 2023-11-24T09:34:35.461Z |
+| 4 | [g0v Summit 簡介](../notes/ImDuJ2MwSh2Cmia0WyWinA.md) | 2023-11-17T14:06:51.406Z | 2023-04-04T04:20:41.907Z |
+| 5 | [議程組 + 直播組 + 設備組最終確認](../notes/3e6-XVehSd-Zgtz0akBpGw.md) | 2023-09-18T12:13:02.737Z | 2020-11-25T13:03:59.125Z |
+| 6 | [接觸即興：沒有人以身體作為對話平台](../notes/oHV5CTh_QDCzh3dirM_7Xg.md) | 2022-04-11T08:13:59.131Z | 2022-04-11T07:54:15.116Z |
+| 7 | [g0v Summit 2020 銜接 2022 十週年相關討論](../notes/YUKO_AizSiWco9xX-wW2Vw.md) | 2022-04-01T15:12:35.210Z | 2022-03-14T11:20:46.442Z |
+| 8 | [g0v Summit 2022? bootstrap](../notes/vtvQ3zFeTHmgQqeJPp07xQ.md) | 2021-05-24T01:31:38.351Z | 2021-05-22T04:29:25.547Z |
+| 9 | [g0v Summit 2020 設計概念](../notes/vVxT69jjR4SlQUy9CLEdQg.md) | 2021-01-23T08:51:58.967Z | 2021-01-23T07:17:02.510Z |
+| 10 | [Summit 2020 網站檢討](../notes/13d9rRhYRnyMxgZ4zT_YvQ.md) | 2021-01-09T02:28:24.652Z | 2020-10-01T01:21:06.714Z |
+| 11 | [summit 工人 email 草稿](../notes/WIZ6aG-DRAOj-zx7ePY1ow.md) | 2020-12-22T09:24:29.032Z | 2020-04-09T15:06:32.545Z |
+| 12 | [g0v Summit 2020 週六夜](../notes/osZboCtJS5GnOan9qTDsdg.md) | 2020-12-08T17:04:26.591Z | 2020-03-09T14:01:05.440Z |
+| 13 | [尋人尋物 Lost & Found / g0v Summit 2020](../notes/CGa2dcNtRoqd3isWaIA3Mw.md) | 2020-12-08T13:47:50.680Z | 2020-12-07T13:02:05.766Z |
+| 14 | [各軌開場宣佈事項](../notes/CgWBzuMnSom1X_khZVLsqw.md) | 2020-12-06T00:20:58.669Z | 2020-11-21T06:06:24.623Z |
+| 15 | [大會媒體聯繫及接待整體規劃 / g0v Summit 2020](../notes/zG9SbIhDQCiIlXif9eQutQ.md) | 2020-12-05T16:12:36.314Z | 2020-11-26T09:25:35.777Z |
+| 16 | [議程各 stakeholder 行前注意事項](../notes/fOgZpN5rR2emDO1kOlSZzw.md) | 2020-12-04T15:32:10.885Z | 2020-11-30T17:24:45.383Z |
+| 17 | [議程相關圖片](../notes/ZbGOzomTTT-EUhX2QR2skQ.md) | 2020-12-04T05:06:44.381Z | 2020-11-11T06:34:25.756Z |
+| 18 | [什麼？](../notes/Y_FtHN-sSkmex2-ETFNDwg.md) | 2020-12-04T02:03:06.169Z | 2020-12-03T11:37:37.009Z |
+| 19 | [辦桌最終版 / g0v Summit 2020](../notes/g_i7ogiJRpChHqpcRF4c7w.md) | 2020-12-03T16:37:17.731Z | 2020-12-03T12:38:09.421Z |
+| 20 | [summit小吃推薦](../notes/D00kHA1VQOmogvXgtnDGBA.md) | 2020-12-03T11:39:46.087Z | 2020-11-03T15:29:45.676Z |
+| 21 | [Sentry 練習 x Summit 網站工人回顧](../notes/13NummLcTSGMDaOqOBf4ZQ.md) | 2020-12-03T07:47:33.311Z | 2020-12-02T03:54:24.310Z |
+| 22 | [2020-12-01 視覺設計工作](../notes/w7QV_s2UTAe_HTk7JXh-2w.md) | 2020-12-02T07:31:32.752Z | 2020-12-01T14:20:54.000Z |
+| 23 | [g0v Summit 2020 宣傳組](../notes/kwdhxMcrRGW9o2rSGqh_OA.md) | 2020-12-02T03:57:26.661Z | 2020-05-06T01:01:23.818Z |
+| 24 | [FtO Tainan 面海松･台南 2020 × 午營咖啡 a break cafe × g0v Summit 2020](../notes/7G5LQbjJQT2PTmHLZhuR8Q.md) | 2020-12-02T01:56:16.348Z | 2020-03-09T14:57:07.828Z |
+| 25 | [g0v Summit 2020 工人慶功宴](../notes/g1gj4iJZR-K_W58JA_2uxQ.md) | 2020-12-02T01:49:59.493Z | 2020-04-02T13:46:28.287Z |
+| 26 | [Unconf & 閃電講規劃](../notes/btTZq5RKRSqcyxgKZs4E4Q.md) | 2020-12-01T12:53:44.951Z | 2020-11-21T08:22:18.944Z |
+| 27 | [2020-11-24 視覺設計工作](../notes/kSDAiKziR_6EhJ-_TX94Qg.md) | 2020-11-30T07:34:46.183Z | 2020-11-24T13:30:47.340Z |
+| 28 | [g0v Summit 2020 議程宣傳圖文](../notes/_u0SIyfMQBaiDf7Lnr3GUQ.md) | 2020-11-29T17:05:26.782Z | 2020-10-12T08:06:33.905Z |
+| 29 | [g0v Summit 2020 閃電講、Unconf、HackMD、Slido 介紹](../notes/1nTTtguvQ0morpCXzCfIaQ.md) | 2020-11-28T10:35:49.399Z | 2020-10-24T12:36:07.127Z |
+| 30 | [g0v Summit 2020 × 南方創客基地 × Fablab Tainan](../notes/5JgHlvWWTPu32bYlJrz7Ng.md) | 2020-11-25T10:52:13.800Z | 2020-11-25T10:52:08.257Z |
+| 31 | [各軌講者人數估計](../notes/f9xaCt9LRMiYMEbkxR0iOg.md) | 2020-11-24T09:28:53.643Z | 2020-11-24T01:57:11.228Z |
+| 32 | [g0v Summit 2020 場佈設計](../notes/UZvl4r7ATgO-eqoms8S93Q.md) | 2020-11-23T17:53:59.189Z | 2020-10-15T02:19:50.793Z |
+| 33 | [基調座談 -- why?](../notes/fVQxWP18RlS-HN5f6vMG2A.md) | 2020-11-21T08:35:01.975Z | 2020-11-21T08:34:09.681Z |
+| 34 | [E-mail 通知信們](../notes/Wo-jZV1ESUmWsCz1-D9wAg.md) | 2020-11-20T16:37:10.135Z | 2020-06-22T12:57:13.836Z |
+| 35 | [講者、主持人的邀請碼 email](../notes/4Aq_6yinQ5a0HjtK6DWNUA.md) | 2020-11-19T05:15:13.947Z | 2020-11-05T10:18:10.676Z |
+| 36 | [2020-11-17 視覺設計工作](../notes/tytYh16VQXmuqEkk5cWF3A.md) | 2020-11-17T15:29:32.595Z | 2020-11-17T13:19:07.010Z |
 | 37 | [g0v Summit 2020 Code of Conduct 處理機制提案](../notes/fnUc5tulT_CEnPDSOO1hnQ.md) | 2020-11-17T15:15:55.566Z | 2020-11-07T02:13:53.554Z |
 | 38 | [LINE](../notes/OdR5CBtzQJe4VlgJXk-aRw.md) | 2020-11-15T14:47:54.074Z | 2020-11-14T11:02:25.892Z |
 | 39 | [手冊](../notes/LbWZ1GVVRXC4PR_dfQR_2A.md) | 2020-11-15T04:43:12.053Z | 2020-11-11T14:13:33.731Z |

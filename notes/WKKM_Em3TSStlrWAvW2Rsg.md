@@ -168,3 +168,10 @@ ping ldap.tatw.micron.com
 
 Desktop MTB Support
 Network MTB Support
+
+
+你交叉測試一下看看 其他台原本可以連的網路線 接上這台是不是也可以連
+
+1.如果可以連 就是原本的網路線問題
+
+2.不能連就是 就是電腦問題

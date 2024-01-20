@@ -39,6 +39,7 @@ tags: 公民參與
 
 ## JOIN 平台
 - [研擬 JOIN 平台<br>中長期擴充方向 🔭](https://g0v.hackmd.io/ppg1uE27SW66b8xfw88_bg?view)
+- [討論 JOIN 平台是否可釋出哪些資料](https://g0v.hackmd.io/3XbqjFIUQaOMw5XH0m42bA)
 
 ### JOIN 平台 - 空間類案件案例
 - [兒童遊戲場方案](https://tainan.join.gov.tw/policies/detail/232e347c-00cb-4fbc-8af9-87a61c585245)[target=_blank]

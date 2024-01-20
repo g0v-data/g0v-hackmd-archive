@@ -19,6 +19,9 @@ tags: 新生流域
 <iframe src="https://www.google.com/maps/d/embed?mid=1CdhA6uzy2euMGbMBCII5lEK-296XokkR&ehbc=2E312F" width=100% height="480"></iframe>
 
 ### Todo
+- 參考案例
+    - 倫敦 公共藝術 forgetten stream https://www.facebook.com/share/r/jJLnBtdDXY8eQZ7w/ 
+- 捷運中和光復線，可能與新生大排重疊 https://www.facebook.com/share/p/vXxeA6Vs8Rm2yqcj/
 - 標記 20xx 林務局國土綠網三個生態熱區（北端-水域、大安森林公園-水鳥、南端-植被）
     - https://www.facebook.com/groups/582154450196478/posts/710832380662017/
 - 把新生流域範圍及週邊的雨量站標記到地圖上 (長安國小、五常國小、臺灣大學、大安森林公園、中正國中、氣象署、大安福州山、仁愛國小、三興國小、松山運中心、建國抽水站、太平國小、劍潭山、民生國中、市政府)
@@ -33,6 +36,7 @@ tags: 新生流域
     - https://eng.water.gov.taipei/News_Content.aspx?n=4A8046A3D1F886F6&sms=2D72BAE25D4739AF&s=E96F26262F5BA6E3
     - https://eng.water.gov.taipei/News_Content.aspx?n=4A8046A3D1F886F6&sms=2D72BAE25D4739AF&s=A4E62838557619CA
 - 台大管院附近的圍牆與舊水路 https://www.facebook.com/193313627448659/posts/pfbid0h84craT997K4CzBiimn8ZDoFN3kXNBNVtSjQP1aYMSkfAAkNvQ52XqyoS6TjZ5eTl/?mibextid=cr9u03
+- 大龍峒發現新石器時代的「訊塘埔文化遺址」
 - 重劃區
     - https://www.facebook.com/groups/582154450196478/posts/852093193202601/
     - 市區改正範圍、臺北城內市區計畫、城外南方市區計畫、東門
@@ -68,6 +72,7 @@ tags: 新生流域
     - 照片https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577645119327/
     - 照片https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577645119327/
     - 1968 南京新生路口，照片https://www.facebook.com/104339821634619/posts/pfbid02WJy6KE9khYPRbEzAdVZEwVHKdJhd8gHnmUWsVebJHU922x3jSrVSZ1A3sWge1QPHl/?mibextid=cr9u03
+    - 中崙福順宮 似乎鄰接著 給水路 https://maps.app.goo.gl/VGUmitiHJJNGxdyh8
     - 照片，建國高架興建中與大安森林公園位置
         - https://www.facebook.com/ZhangZheSheng/photos/a.10152144402114531/10152335556574531/
     - 照片，冰店與新生大排便橋，新生南路三段42號 

@@ -6,7 +6,7 @@ tags: vTaiwan
 
 ## 活動資訊
 - 活動名稱：vTaiwan 小聚
-- 活動日期：8/23-9/20之每週三晚上。（需要向社創中心借用日期為：8/23, 9/6, 9/13）
+- 活動日期：1/24
 - 活動時間：19:00-21:00 （18:00-19:00為場布與報到時間，21:00-21:30 為場復時間）。
 - 參與人數：10人
 
@@ -33,12 +33,10 @@ tags: vTaiwan
 - 免費！
 
 ## 主要活動
-- 處理 9/24 諮詢會議相關事項。
-- 討論人工智慧相關議題。
-    - What principles should guide AI when handling topics that involve both human rights and local cultural or legal differences, like LGBTQ rights and women’s rights? Should AI responses change based on the location or culture in which it’s used?
-    - 中文版翻譯：如果人工智慧要處理同時有人權以及當地法律與文化差異的議題，例如LGBTQ 與女性議題，則人工智慧在處理相關議題時應該遵循何種原則？人工智慧應該基於使用時的文化與地區差異改變回應嗎？
-- 社群參與者交流。
-
+- 社群活動
+- 討論 TicTec分享
+- 討論 DSET 合作
+- 討論司法院合作
 ## 活動流程
 
 本活動流程預計規劃如下

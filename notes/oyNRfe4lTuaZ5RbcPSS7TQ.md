@@ -73,8 +73,9 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
                 - LoRa 晶片本身, 有幾百 MHz 頻寬, 是在各國被限制在各自的 ISM 頻段
                 - 915~923(或926)
                     - 433 不確定是否合法 (433MHz為緊急救難頻率)
+                        - 433.000MHz 緊急救難頻率只是 FM 通訊使用，433MHz ISM 其實中心頻率在 433.920MHz 那邊，不影響，但是臺灣屬於 ITU-R3，沒有 433MHz ISM Band 可以使用
                     - 目前假定是 按 NCC lora 規範使用,915mhz.但烏克蘭案例.戰時任意頻道都能用.且戰時軟體直接支援.
-                - 穿透能力不強，因為頻率不強
+                - 穿透能力不強，因為輸出功率不大（且法規有限制發射 Duty-Cycle，不能把傳輸速率降低太多）
             - 它的廣播演算法 https://meshtastic.org/docs/overview/mesh-algo
             - 通訊範圍 2~5 公里
             - 只要跟手機配對就能用
@@ -113,29 +114,37 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
     - [AREDN, Amateur Radio Emergency Data Network](https://www.arednmesh.org)
         - 頻寬較高
         - WiFi, 2.4GHz or 5GHz
-        - 傳輸距離 300 M ~ 500 M
+        - 2440~2450MHz 是業餘無線電頻段，可以把功率拉到 200W（但是標準 Wi-Fi 頻寬就有 20MHz）
+        - 非定向傳輸距離 300 M ~ 500 M，定向至少數 km
         - 指向性天線要指得準
-            - 買不起，所以還沒試過
-        - 可點對點或點到多點，只要同頻道、同SSID就可以做到點對點網路「串聯」
+            - 其實不用指得很準，20dBi 天線的 -3dB Beam Width 還有 20 度角
+        - 可點對點或點到多點，只要同頻道，單 Radio 就可以做到中繼（但是效能會因為 CSMA/CD 碰撞下降得很快）
+        - 多 Radio 可以做不同頻段中繼
         - 不仰賴現有架構的社群 mesh network
         - 門檻較高
             - 支援的路由器台灣比較難買
-            - 支援的不一定有過 NCC 認證
+            - 支援的不一定有過 NCC 認證（進口可以簽自用切結書）
         - 可以有很多個節點，三個節點有兩個網路，只要其中一個節點有連到 Internet，其他兩個節點就能連線
         - 可以透過定向天線打到 5 ~ 8 公里
-            - 已經有些家用產品（3~5萬）可以做到類似的傳輸等級
-            - e.g. mikrotik hap ac3
+            - 能夠外接天線的普通家用產品 (~NT$3000) 都可以做到類似的傳輸距離
+            - e.g. MikroTik hAP ac3 或是 ASUS RT-AC88U
             - 台灣最貴的mesh設備是mpu5 軍規和商用 mpu5 預算決定想像空間 可直接連網路.手機通訊.衛星.
             - > 我看到有人說9K USD 大概不是民間能輕易取得的價格
+        - 定向天線的取得：
+            - 天線只有分運作頻段和功率極限而已，就算一邊是 RP-SMA 一邊是 SMA 也能轉接（轉接頭也會有功率損耗，但通常小到可以忽略不計）
+            - 無人機 2.4GHz / 5.8GHz 天線好買到，也便宜，但要確認好轉接問題 
         - 在美國算普及，實際應用：router放在易有野火地區
         - 有沒有機會用家用 WiFi 用指向性天線？
-            - 需要用指定型號來做到
+            - 只要是有 SMA (RP-SMA 或是 SMA 都行) 的機器都能，但是 NCC 低功率射頻器材規範裡面有規範天線增益的限制，規則比較複雜： https://www.ncc.gov.tw/chinese/files/20071/%e4%bd%8e%e5%8a%9f%e7%8e%87%e5%b0%84%e9%a0%bb%e5%99%a8%e6%9d%90%e6%8a%80%e8%a1%93%e8%a6%8f%e7%af%84%e5%85%a8%e6%96%87%20-1090813v2%20-%20%e5%8a%a0%e7%9b%ae%e9%8c%84.pdf
+            - 5725-5850MHz 之間沒有天線增益管制
+            - 當然 NCC 通常也沒在嚴格管制，所以大家懂得
 
     - 真的在意距離, 可以看這個測試數據
         - https://meshtastic.org/docs/overview/range-tests
         - > Current Ground Record: 254km
             - 極端值
-
+        - Wi-Fi 距離世界紀錄可以到 304km，在臺灣應該比較難達成（因為制高點周圍通常還有其他山環繞）
+            - https://en.wikipedia.org/wiki/Long-range_Wi-Fi
     - 公民守護山域提案
       - 之前 Gavin 有過提案 https://docs.google.com/presentation/d/1OG4NIeO_6lDo5YVe1rXPHvPbQDWF7OKt/edit#slide=id.p1
     - 比無線電好的地方
@@ -161,7 +170,15 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
       - 硬體部份 mpu5.三星手機9-23(官方指定和三星有支援).Somewear.moto數位無線電.Beartooth MK II.各種無人機.gotenna pro x.
       - 架構 使用server或是vpn及mesh網路.
       - 協定相關 cot
-
+    - APRS
+      - 需要業餘無線電執照才可使用，在 144.640MHz FM (25kHz FM, 5kHz deviation)
+      - 業餘無線電最大最活躍的的封包網路 (aprs.fi 上面可以看到現況)
+      - 在臺灣有非常多現成的 Digipeater（中繼站）和使用者
+          - 但是現成也有幾個有問題的垃圾站臺，導致部分地區頻道容易擁塞
+      - 傳輸方式是 1200bps AFSK over FM，普通便宜的 FM 手持機配合音頻轉接線插上手機即可使用
+          - 一般手持機輸出功率有 5W，配合適合的天線（比如 Diamond RH-770 這種在 VHF 上面是 1/2 wave radial-less），不經過中繼就可以傳 40km+
+      - 每個封包頂多 200 byte 左右，大多數直接 APRS 的設備不支援中文（比如 Kenwood TH-D7/D72/D74, TM-D700/D710 或是 Yaesu VX-8DR / FT1/2/3/5DR）
+      - 也有手機 App 可以使用（例如 APRSDroid，但維護得不怎樣）
     
 ### 網路模擬報告
 - 中共可能不會斷我們的網絡？（想放大投降聲音？）

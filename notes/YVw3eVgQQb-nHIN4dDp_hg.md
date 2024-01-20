@@ -54,6 +54,10 @@ Rentea Tuesday 源自於 [g0v 社群](https://g0v.tw/)，是以城市的居住�
 
 ## 活動紀錄
 
+### 2024
+
+- [#85](https://g0v.hackmd.io/z_NS4t7QSRub4kwZriFlxQ)
+
 ### 2023
 
 - [#71, 73, 75, 77, 79, 81, 83](https://g0v.hackmd.io/6H6cdyg3QB6IHW9ua-nXoA)

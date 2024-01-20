@@ -2,9 +2,9 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Environmental Design & Computer-Aided 空間規劃設計與 AI 工具](../notes/3dqTVh6SS9a4SIXMT3X1HQ.md) | 2024-01-05T21:28:27.344Z | 2023-03-25T13:43:44.533Z |
-| 2 | [RAG](../notes/PAMWvWCiQMykE8ONzvZzEw.md) | 2024-01-05T14:58:54.155Z | 2023-12-25T04:20:36.269Z |
-| 3 | [如何在全新的 Macbook 裝 whisper](../notes/t1B_DdkHTOyqsWiYm0bzAw.md) | 2023-12-30T07:04:45.379Z | 2023-05-30T09:42:37.895Z |
+| 1 | [如何在全新的 Macbook 裝 whisper](../notes/t1B_DdkHTOyqsWiYm0bzAw.md) | 2024-01-17T06:08:32.009Z | 2023-05-30T09:42:37.895Z |
+| 2 | [Environmental Design & Computer-Aided 空間規劃設計與 AI 工具](../notes/3dqTVh6SS9a4SIXMT3X1HQ.md) | 2024-01-05T21:28:27.344Z | 2023-03-25T13:43:44.533Z |
+| 3 | [RAG](../notes/PAMWvWCiQMykE8ONzvZzEw.md) | 2024-01-05T14:58:54.155Z | 2023-12-25T04:20:36.269Z |
 | 4 | [g0v AI 機器人 aka 找專案分類帽](../notes/yOmr3hf7RDypNnAWRnw2gQ.md) | 2023-12-27T11:51:43.483Z | 2023-03-23T07:47:11.735Z |
 | 5 | [各機關與大學因應 生成式 AI / ChatGPT 政策與指引](../notes/kayNDqm2RemwG2mfWDGxEQ.md) | 2023-12-18T05:22:40.802Z | 2023-03-13T15:08:08.256Z |
 | 6 | [TW-Bench](../notes/LBqPDIUJT5qedcDOm1UEgQ.md) | 2023-12-10T14:33:30.699Z | 2023-12-09T08:00:00.756Z |

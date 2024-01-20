@@ -294,3 +294,78 @@ Opass 教學
 > 各位晚安，我是Skyler，g0v Summit 2024紀念品專案的負責人之一。紀念品投票的期限將進入倒數，如果期望選出心目中最讚、最酷也符合期待的紀念品，趕緊把握最後的機會吧！
 - 限時動態配圖
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6748d383a63babbbda7ecf76a490f939.PNG)
+
+## 20240112 第十三次會議紀錄
+> 時間：2024/1/12（五） 8:30 PM
+> 地點：線上
+> 出席：Dong、Skyler、阿敏
+
+### 紀念品投票結果
+
+* 高價紀念品
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d47faf0d23c694233e05de38ac0f1076.png)
+
+* 低價紀念品
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5cdcda8ca6d61db6bc89ed37f7f668fd.png)
+
+* 許願池
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4b6ec0573d181de29df1dee65c31a237.png)
+
+* 許願池價格
+
+    * 許願池價格大多數落在500-1000之間：
+        * g0v hoodie 800-1000、500-650元
+        * 蒸氣龐克帽 500-1000元
+        * 摺疊傘較懸殊：250-400、500-700 元
+        * 造型毛巾 100-300元
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d4090ef58dfe55afc578e6809adddaea.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d458685272bc2083725d56a5fc08a630.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d22a096aba6d924539ccc738a4572622.png)
+
+
+* 其他回應
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_09010c7e104d07279612cc6de00e6696.png)
+
+## 20240119 第十四次會議紀錄
+> 時間：2024/1/19（五） 8:30 PM
+> 地點：線上
+> 出席：Dong、阿敏、Skyler
+ 
+### 紀念品報價回報
+
+* 詢問報價的數量依據：[g0v Summit宣傳組預算規劃](https://docs.google.com/spreadsheets/d/1rbDUOWR5OeKaFYdJiLCs-_9Q-sOHFmJAVbBfPZuVPkc/edit#gid=0)
+* 已陸續向廠商詢問報價/查詢相關訂製方案，目前狀態：
+    * g0v nobody 短袖 t-shirt(高價紀念品)
+        * [Partee](https://www.partee.com.tw/News/2016-groupT-discount.php)：100件每件平均199方案：限「白色」且logo尺寸需為A4內
+        * 已向Partee詢問報價：提供條件包含200件、logo印製於胸前位置(尺寸10X10公分)。**目前尚未得到回應。**
+            * 註：短袖t-shirt報價之所以要先提供logo尺寸是因為廠商會當作報價的依據，因此官方建議以10X10公分的logo當作報價參考
+
+    * 心情轉換能量胸針(低價紀念品)
+        * 已向廠商詢問報價，以及是否有足夠的庫存：提供條件為可能訂製數量為700件。**尚未得到回覆。**
+* 下週繼續詢問許願池相關的紀念品報價，並同步追蹤高價和低價紀念品的廠商回覆情況(以及再詢問幾間廠商貨比三家)
+
+
+接下來要做的事：
+- 問揪松有沒有想要做
+- 報價可以找找之前的廠商
+    - [社會創新平台 | Social Innovation - 社創選品採購型錄](https://si.taiwan.gov.tw/Home/catalog)，可以找找有沒有成衣相關
+    - 以下相關訊息自[沒有人做帽T g0v-h00die 共筆](https://g0v.hackmd.io/uIDlOIqlSQyDs6qmZrv7-Q?bot)轉貼
+        >可以問問看 OCF 有沒有推薦的廠商，以及一些訂製撇步，以下是訂製成果：https://www.facebook.com/story.php?story_fbid=pfbid0KsnsqbTp9sQbZdMgpsCjXa875Zxyzq8KZ45zQqTHtMGp8og8ZLqMqRJ6Hxx4dZC2l&id=1502561953353069&mibextid=qC1gEa
+        >這裡有一份社會企業的廠商名單，待找找看有沒有成衣類的廠商 https://si.taiwan.gov.tw/Home/catalog
+        >轉貼：新光 ISP INFINITY SHIRT PROJECT 100% Recyclable 採用回收寶特瓶生產的機能布料，具備環保、舒適、耐用性，且搭配環保包裝及配件，達到整件制服皆可100%回收。https://www.skuniform.com.tw/infinity-shirt-project
+- 心情轉換能量胸章可以客製化嗎？
+    - 可能要開模做自己的比較難 [name=Dong]，不知道可不可以改一點點小設計，例如把指針改為穿山甲之類的。
+
+### FOSDEM 小傳單
+[FOSDEM 2024 外文文宣 canva 檔案（使用media帳號登入可編輯）](https://www.canva.com/design/DAF6Jss9bLw/4Q3A0Oh2SPkg6xGY4gIgNw/edit?utm_content=DA[…]m_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_488777e30976d537469424e5f1e3c534.png)
+
+- 剩下要調整的地方
+    - 英文最後一段要小修 [name=RS]
+    - 地圖分佈圖要小調整，把黑色的部分改成白色，之後再改傳單 [name=阿敏]
+    - 拼一張兩邊顛倒的A4版本 [name=Dong]

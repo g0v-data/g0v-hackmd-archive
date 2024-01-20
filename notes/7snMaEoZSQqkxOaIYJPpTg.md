@@ -9,6 +9,7 @@ tags: GIS　
     - 一、題目：菸蒂公害相關問題之探討
     - 二、所涉法規：菸害防制法、廢棄物清理法
     - https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6590&pid=210319
+- 消防署歸納火災成因，包含煙蒂：https://www.facebook.com/share/p/Bfyh7SE2T8pxtQUz/
 - 新北市環保局的探討：https://www.epd.ntpc.gov.tw/Article?catID=1988
     - 卡在水溝蓋上的數量最多，其次則為停車場和騎樓、商家門口
 - 違反廢棄物清理法案件管理資訊系統

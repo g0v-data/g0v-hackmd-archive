@@ -146,6 +146,10 @@ https://www.facebook.com/story.php?story_fbid=pfbid0oW43sNAbPJN7ZvaF25nQXCJ2SkDT
 左營，計畫道路調整，搭配既有圓環
 https://www.facebook.com/story.php?story_fbid=pfbid0kEdA3VBVjWniyJ7ytY68Xfb7EtaphhwxeQrc46Bt3VfxcgDyGxpz3UZRjSdC91uql&id=100000571470160&mibextid=qC1gEa
 
+高雄文橫廣西路口社區圓環
+https://www.facebook.com/share/p/fXk64Cjy9qSgRA7h/
+
+
 屏東圓環
 https://www.facebook.com/100049204915573/posts/pfbid02EhbvNViDHVbhuyWusVEJYACV3mF6RM2zxZREbELLeRff76N986meDLLgfiEgxTJQl/
 
@@ -405,6 +409,9 @@ https://www.facebook.com/story.php?story_fbid=pfbid0mAPsr4zyaC6zqib8faKA1WsoTYvt
 
 在台南東區後甲國中這個路口，雖然對比改善前好很多，但有成功大學的同學反應，庇護島的方向設計有問題，我透過影片轉述他對於路口設計的建議
 https://www.facebook.com/watch?v=950240829364406
+
+博愛國小
+https://www.facebook.com/events/894503588982526?view=permalink&id=898450861921132
 
 北區民德國中
 https://www.facebook.com/100063582707007/posts/pfbid0na6J1u4D6yZey9mBhWYbHfKw6zofFdj63obfNstzn1Nm3J535QtzQebCbn3RVRTtl/

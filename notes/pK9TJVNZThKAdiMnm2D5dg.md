@@ -1,6 +1,5 @@
 ---
-title: "UX"
-tags: hackpad
+tags: UX, hackpad
 ---
 
 # UX

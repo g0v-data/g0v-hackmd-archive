@@ -29,13 +29,14 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 大家在日本旅遊購物的時候會拿到 :star: T-POINT 回饋點數，可以直接將用不到的 T-POINT 作為捐款（需要日本雅虎帳號、需要日本電話認證）。
 - :white_check_mark: [The Nippon Foundation](https://kifu.www.nippon-foundation.or.jp/dras/?lang=en) 
 有英文介面，可以刷海外信用卡或 Paypal、Google Pay。`已肉身測試可以刷海外卡和 Paypal，有定期或單筆的選項，1000 日幣就可以捐囉！`
+  - [nippon.com 介紹](https://www.facebook.com/NipponcomHk/posts/pfbid02b5zCdXYucvHNaEWnmUmdBGHNL4J6bNZJzqFSrvRWQmHAd8wYdwwpxt5oLaBtZKEGl?__cft__[0]=AZUPhKUuPwUE35rAzGmkSiAe41mb2h-rw9LXlQNWYQgafHjGkop2igO7Qfo8fbm0bctT9sdUxVb__Ryo-OHkmF6SmKwp2IDZ8qVZU7_9yc19Ra8Ye7pIibpAxPwMxHPBOPk_vml9WRl6VOt8OS6FtLp1&__tn__=%2CO%2CP-R)：當今日本最大民間的公益慈善團體、快和直接。
 - :white_check_mark: [Fracton Ventures](https://twitter.com/wecandaoit/status/1742074133649973351?s=20&fbclid=IwAR2j5PhgDHe0q39cUkv-bkWtfyataLsyzQSxtEZpMkUwlAHSOWcYHwnsIMI) 
 想使用虛擬貨幣的朋友，可以透過這個單位捐款。
 
 ### 台灣
 
 :::warning
-賑災專戶開放愛心捐款期間：1/5-1/19（[台灣衛生福利部原文連結](https://www.facebook.com/mohw.gov.tw)）
+賑災專戶開放愛心捐款期間：1/5-1/19（[台灣衛生福利部原文連結](https://www.facebook.com/mohw.gov.tw/posts/pfbid0bZQ7kPFQEUf5ZNZzybr3a3QFKUTczY5mofyfSNnmLFELbCdxoFwoyT9UPf85St9il?__cft__[0]=AZUXi0Q9QhY-Gf4A2tl59fLwdbKF3WNlcAC5gqSLgjn5OpjVNNSw-ku_jezhPKMEIZJlMQzgsOmGdOUhEKWqeBz2vH98Z2sydZ9Bf5d5CPBWG_lqJDFElpj9XuV0jfoKoL8sm3GZa_9aLiLsRCGRUNfum-O7-p7FHKW2VRF4GRRMzz5BFq5C1hIoX1ukmFocjJg&__tn__=%2CO%2CP-R)）
 :::
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b1dd738b560ef08e1567f43ec3b6a900.jpg)

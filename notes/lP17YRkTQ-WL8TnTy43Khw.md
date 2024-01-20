@@ -1,6 +1,5 @@
 ---
-title: "2014-2015著作權法修正草案 billab 勘誤"
-tags: hackpad
+tags: 著作權, hackpad
 ---
 
 # 2014-2015著作權法修正草案 billab 勘誤

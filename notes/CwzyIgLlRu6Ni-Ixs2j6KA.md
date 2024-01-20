@@ -5,6 +5,8 @@ tags: edu
 # 2023 山城黑客松
 
 活動官網：https://hackathon.4impact.cc/
+活動花絮影片：https://www.facebook.com/share/v/YXKURAFxWQtM3qEN/
+
 
 蘇恆誠老師的分享貼文，有攤位照片 https://www.facebook.com/share/p/CYjBqLAh21WGidxq/
 

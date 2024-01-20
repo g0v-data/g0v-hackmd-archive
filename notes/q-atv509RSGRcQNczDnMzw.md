@@ -14,8 +14,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 ## 2024 第一次讀書會：[Report of the Working Group on Internet Governance](https://www.wgig.org/docs/WGIGREPORT.pdf)
 
 :::warning
-- 本次讀書會時間於 2024/1/21 Sun. 13:30 ~ 15:30，地點 確認中。
-<!-- - 於 [摩茲工寮 Mozilla Community Space Taipei](https://maps.app.goo.gl/Lt1b49aBWxmjAyQR6) （100 台北市中正區八德路一段 94 號 3F，看到「中央助聽器」招牌走上3樓）。 -->
+- 本次讀書會時間於 2024/1/21 Sun. 13:30 ~ 15:30，地點於 [摩茲工寮 Mozilla Community Space Taipei](https://maps.app.goo.gl/Lt1b49aBWxmjAyQR6) （100 台北市中正區八德路一段 94 號 3F，看到「中央助聽器」招牌走上3樓）。
 - 請參與者在讀書會前完整閱讀 「[Report of the Working Group on Internet Governance](https://www.wgig.org/docs/WGIGREPORT.pdf)」，以利於讀書會進行討論。
 - 報名請於 [此貼文下方](https://www.facebook.com/groups/twigf/posts/3726135347629773/) 留言。若不願意使用臉書，請直接私訊發文者即可。
 :::

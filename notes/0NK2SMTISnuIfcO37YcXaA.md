@@ -49,6 +49,14 @@ tags: edu
 - Next
     - 有開一個共筆，蒐集大家的回饋內容：https://g0v.hackmd.io/@skywind5487/Pedestrian_Hall
 
+## 20240111 詢問噪音相關專案
+- 發問內容
+    - slack 頻道 #general
+    - slack 歷史對話紀錄網址：https://g0v-slack-archive.g0v.ronny.tw/index/channel/C02G2SXKX#ts-1704955301.211479
+    - 發問背景：發問者想詢問如何建立測噪設備、紀錄一整週每個時間點的分貝數折線圖、討論分貝計要買哪一款等
+- Next
+    - 有開一個共筆，蒐集大家的回饋內容：https://g0v.hackmd.io/OTkb7X61QBCmHB0gAaQEkg?view
+
 
 ## 職業災害
 

@@ -44,8 +44,8 @@ tags: AI, whisper
 - 如果要下載 youtube 影片
     - ``` streamlink "網址" 1080p -o video.mkv ```
 - ``` ffmpeg -i input-file -ar 16000 -ac 1 -c:a pcm_s16le output.wav ```
-    - 將目標影片檔案轉換成純聲音 wave 檔
-    - 把影片檔案拉到「input-file」的地方（要把「input-file」刪掉）
+    - 將目標影片檔案（或 mp3）轉換成純聲音 wave 檔
+    - 把影片檔案（或 mp3）拉到「input-file」的地方（要把「input-file」刪掉）
 - ``` ./whisper.cpp/main -m ./whisper.cpp/models/ggml-medium.bin -l zh output.wav > output.txt ```
     - 使用 medium model 將 output.wav 轉成逐字稿，並存到 output.txt
     - 如果願意等久一點，可以把 ggml-medium 改成 ggml-large ，需要等更久但是結果會更精準
@@ -66,3 +66,6 @@ tags: AI, whisper
 
 筆記區
 https://goodsnooze.gumroad.com/l/macwhisper
+
+用於視聽輔具應用情境
+- https://www.facebook.com/share/p/T5MZzioixSQcfwZ2/

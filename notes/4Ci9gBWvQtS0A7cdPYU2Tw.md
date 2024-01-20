@@ -1,22 +1,28 @@
-8day một nhà cái mới nổi và được biết đến là nhà cái uy tín bậc nhất Châu Á. Với đa dạng trò chơi trực tuyến đã tạo nên những trải nghiệm đỉnh cao, làm biết bao nhiêu anh em cược thủ say mê
+KingFun - Thương hiệu cá cược online nổi tiếng hiện đã, đang hoạt động tại Việt Nam. Cổng game có nhiều trò chơi hấp dẫn, phần thưởng khủng.
 Thông tin chi tiết:
-Website: https://8day.global/
-Địa chỉ: 183/8b Tổ 8 Kp5, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh, Việt Nam
-Email: phanthaolinh1088@gmail.com
-#8day, #8day_global, #8day_casino
-Social
-https://bd.radiocut.fm/user/global8day/ 
-http://techou.jp/index.php?8dayglobal 
-https://www.bandsworksconcerts.info/index.php?8dayglobal 
-https://tess.elixir-europe.org/users/8dayglobal 
-https://glints.com/vn/profile/public/4a5cc31f-5ede-405a-b93d-76e28e40c5ab 
-https://www.freelistingusa.com/listings/8dayglobal 
-https://nexusconsultancy.co.uk/forums/users/8dayglobal/ 
-https://linkr.bio/8dayglobal/ 
-https://audiomack.com/8dayglobal 
-https://dutrai.com/members/8dayglobal.14779/#about 
-https://www.swanmei.com/space-uid-3036970.html 
-https://lazi.vn/user/8dayglobal 
-https://www.stem.org.uk/user/1292755/profile 
-https://www.quadmonitorbackgrounds.com/8dayglobal 
-https://aspiriamc.com/members/8dayglobal.15321/#about 
+Website: https://kingfun.art/
+Địa chỉ: 186D/2 Bình Thới, Phường 14, Quận 11, Thành phố Hồ Chí Minh
+Email: allendileychung7770@gmail.com
+#kingfun, #kingfun_art, #kingfun_cong_game
+Social:
+https://www.passes.com/kingfunart
+https://meetup.furryfederation.com/events/1e40b45a-fcfa-4e87-8bec-44344d57cd7e
+https://www.faceparty.com/kingfunart
+http://www.getjob.us/usa-jobs-view/job-posting-867339-kingfunart.html
+https://www.copytechnet.com/forums/members/kingfunart.html
+https://club.vexanium.com/user/kingfunart
+https://www.bondhuplus.com/kingfunart
+https://www.exoltech.us/kingfunart
+https://deadreckoninggame.com/index.php/User:Kingfunart
+https://dripwiki.com/index.php/User:Kingfunart
+https://wiki.sports-5.ch/index.php?title=Utilisateur:Kingfunart
+https://bbs.weipubao.cn/home.php?mod=space&uid=3396593
+https://www.anycd.net/home.php?mod=space&uid=3225219
+https://learn.centa.org/members/kingfunart/profile
+http://planforexams.com/q2a/user/kingfunart
+https://filesharingtalk.com/members/590844-kingfunart
+https://wiwonder.com/kingfunart
+https://linkspreed.com/kingfunart
+https://kolaente.dev/kingfunart
+https://makersplace.com/kingfunart/
+https://defol.io/drews-hagi
