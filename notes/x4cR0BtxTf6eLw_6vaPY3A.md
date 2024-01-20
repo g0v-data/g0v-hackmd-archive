@@ -110,8 +110,21 @@ https://g0v.hackmd.io/oyNRfe4lTuaZ5RbcPSS7TQ?both#peer-to-peer-服務測試
 
 ### 銀行
 
+| 銀行名稱 | 官方下載頁面                                                                             |
+| -------- | ---------------------------------------------------------------------------------------- |
+| 國泰世華 | https://www.cathaybk.com.tw/cathaybk/promo/event/ebanking/product/appdownload/index.html |
+| 富邦     | https://www.fubon.com/banking/personal/mobile/index.htm                                  |
+| 聯邦     | https://play.google.com/store/apps/details?id=wbank.ubot.com.tw&hl=en_US                 |
+| 中國信託 | https://play.google.com/store/apps/details?id=com.chinatrust.mobilebank                  |
+| 玉山     | https://play.google.com/store/apps/details?id=com.esunbank&hl=zh_TW&gl=US                |
+|台銀 |https://play.google.com/store/apps/details?id=com.bot.ibank&hl=zh_TW&gl=US   |
+| 台新     | https://play.google.com/store/apps/details?id=tw.com.taishinbank.mobile&hl=zh_TW&gl=US   |
+|郵局 |https://play.google.com/store/apps/details?id=tw.gov.post.mpost&hl=zh_TW&gl=US |
+|合作金庫|https://www.tcb-bank.com.tw/personal-banking/digital-finance/services/app|
 |||
-|---|---|
+|||
+|||
+|||
 |||
 
 ### 對外溝通與宣傳
