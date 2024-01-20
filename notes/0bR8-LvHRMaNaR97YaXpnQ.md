@@ -82,3 +82,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
               - 傳一個座標需一分.設定錯誤? 效能不會這樣差.請列出FW版本和app版本. [name=gavin]
               - 對，我也很意外。目前使用ATAK 4.10 / Meshtastic官方Plugin 1.0.4 / Meshtastic 韌體 2.1.11 / APP 2.2.12 [name=SCWhite]
               - 在使用atak-forwarder時狀況沒這麼差，不過也要10多秒 [name=SCWhite]
+
+
+## 目標
+- > 或許可以變成 g0v 社群或開源社群在緊急或網路障礙情況下暢通無阻的交換資訊方式 [name=paul]

@@ -12,7 +12,7 @@ image: https://imagedelivery.net/WO_sK8AGsHZbPc2iUuxbgA/10270e87-0277-4c35-1339-
 ::: 
 # g0v DigiResiTh2n 第貳次數位韌性松
 :::info
-[↩️回到籌備文件](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home)
+[↩️ 回到籌備文件](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home)
 :::
 
 :::success
@@ -173,6 +173,6 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 ### 防災韌性閒聊
 - 防災士到底有沒有主責機構來去統籌這些人力？
-- 戶政制度無法很精準的協助統計常住人口
+- 戶政制度無法很精準的協助統計常在（住）人口
     - 導致無法精準統計備用糧食等
-    - 戶籍制度和
+    - 戶籍制度和常在（駐）人口

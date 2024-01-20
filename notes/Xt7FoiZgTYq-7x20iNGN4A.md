@@ -12,7 +12,7 @@ image: https://imagedelivery.net/WO_sK8AGsHZbPc2iUuxbgA/10270e87-0277-4c35-1339-
 ::: 
 # g0v DigiResiTh3n 第參次數位韌性松
 :::info
-[↩️回到籌備文件](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home)
+[↩️ 回到籌備文件](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home)
 :::
 
 :::success

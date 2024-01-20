@@ -1,6 +1,10 @@
 # WaytoSafety 隨時隨地知道避難場所位置<br>Shelter Map (Taiwan, Japan, Korea)
 
-<https://g0v.hackmd.io/@chewei/waytosafety>（暫定地址）
+<https://g0v.hackmd.io/@chewei/SJeTRFyFYp/>（申請 HackMD 團隊中，此為暫定地址）
+
+<!--
+<https://g0v.hackmd.io/@chewei/waytosafety>
+-->
 
 * [首頁](https://g0v.hackmd.io/@chewei/waytosafety-home)
 
