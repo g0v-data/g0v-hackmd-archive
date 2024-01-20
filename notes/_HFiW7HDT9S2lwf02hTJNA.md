@@ -11,6 +11,7 @@
 
     - 也是 P2P 通訊 （IM、Video/語音 Meeting）
         - 越多人使用越順暢
+    - 以房間為基礎
     - 沒有 open source
       - 底層技術有開源 https://github.com/orgs/holepunchto/repositories [name=gasolin]
     - 加入非常快，剛進來會給一個亂數名稱，再到 profile 去改名字
@@ -35,15 +36,21 @@
         > 目前收不到註冊簡訊 x 2
         >  [name=irvin]
         >  [name=jimmy]
+    - 今天收得到了 
+        >  [time=Sat, Jan 20, 2024 2:36 PM] [name=Irvin Chen]
 
 
 ## Quiet 
 
+- "g0v" instance invite link - https://tryquiet.org/join#sik5h3fr7gzy4czjvllhtd7zgmljtrqrtwejlkr47h5s3s4e2tjksxid
+    - join link 好像掛掉了 
+    > [time=Sat, Jan 20, 2024 2:35 PM] [name=irvin]
+
 - ~~P2P~~ 無中央伺服器 & over TOR 的 Slack
+    - 以 instance 為基礎 （較接近 slack / discord）
     - 加入非常慢，因為要通過 tor，目前測試 Android、Linux 都有正常開啟 APP ，卡住在加入下面的 room
     - 有 open source [Github](https://github.com/TryQuiet/quiet)
     - 經過 Tor，但剛剛查台灣只有兩台
         > 35.221.182.226
         > 35.221.208.143
-    - "g0v" instance invite link - https://tryquiet.org/join#sik5h3fr7gzy4czjvllhtd7zgmljtrqrtwejlkr47h5s3s4e2tjksxid
-        > iOS 上無法選照片（可以送檔案） [name=irvin]
+    > iOS 上無法選照片（可以送檔案） [name=irvin]

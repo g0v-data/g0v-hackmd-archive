@@ -61,7 +61,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | WaytoSafety 隨時隨地知道避難場所位置<br>Shelter Map (Taiwan, Japan, Korea) | chewei | [#WaytoSafety-隨時隨地知道避難場所位置](#WaytoSafety-隨時隨地知道避難場所位置Shelter-Map-Taiwan-Japan-Korea) |
 | 韌性情境分級表 |  | https://g0v.hackmd.io/SYTBWVohTyuCgPGUqfAl9g |
 | 重要網站列表與檢測 | Irvin | a.列舉急難時(對外中斷時)的重要網站<br>b.如何評估、檢測或倡議島外斷網時上述網站的韌性狀態<br>https://g0v.hackmd.io/@irvin/digital-services-resilience/edit |
-| P2P 服務測試 |  | [Quite](https://tryquiet.org/) 跟 [Keet](https://keet.io/) 吧<br> https://g0v.hackmd.io/@irvin/p2p-chat/edit |
+| P2P 服務測試 |  | https://g0v.hackmd.io/@irvin/p2p-chat/edit |
 | Data over voice 研究 | Ronny | 是否有辦法透過聲音傳遞資料呢？這樣是不是可以用 FM/AM 廣播傳遞更多更準確的資訊？ Ex: https://waver.ggerganov.com/ |
 | 利用 PWA 來做離線也可以瀏覽的防災手冊吧 | Ronny | PWA 是一種手機 App 技術，他可以簡單做出一個不需要安裝的 App ，並且在有網路時就更新資料，沒網路時就離線瀏覽，拿來當作防災手冊正好適合！ |
 | Meshtastic 測試 / user manual 撰寫 | Paul | https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/https%3A%2F%2Fg0v.hackmd.io%2F0bR8-LvHRMaNaR97YaXpnQ |
@@ -125,7 +125,6 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
         - [ATAK 應用推廣](https://drive.google.com/open?id=1WTUEo19rWgSt3mZYNKlHhjE8w6kFQ6w9CY9BiDBRq2U&usp=drive_copy) 
             - [ATAK 實際練習指引](https://docs.google.com/document/d/1iYTytoNjY5m9yEANjiXu5BLPjMe8uSo60hC5pn4Kj-c/edit#heading=h.tj6zxe1x7lkt)
         - 之前在 g0v 黑客松的提案： [學習筆記- g0v: 18 歲公民權黑客松](https://hackmd.io/@Hqy9p1_8RVS1JskGli0bBQ/S1o4g_cuo)
-
     - 上述的功能都很適合讓建檔資料者直接接入 ATAK 的介面進行協作，再將資料串接到靜態網站上，讓一般民眾可以查閱
     - 最近在推動的部分：
         - [民間回報給相關單位發想](https://docs.google.com/document/d/1zfWSsmuAhcG4bxzwa8P5gNnaxWle5wcDPOKCagVLEVA/edit) 

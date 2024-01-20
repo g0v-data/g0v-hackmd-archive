@@ -18,7 +18,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 
 > 不納入實體離線服務如 7-11 店面與捷運⋯⋯等。也不列入各消費端服務的上游相關設施（如 EC 網站的物流，我們期待該網站能與其供應鏈上下游協作，推行進一步的韌性計畫）
 
-**倡議：** 民生必需的服務應備有網路嚴重障礙的緊急應變計劃，並且定期進行相關的演練。
+**倡議：** 民生必需的服務，應備有對外網路嚴重障礙的緊急應變計劃，並且定期進行相關的演練。
 
 
 ---
@@ -31,6 +31,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 |---|---|
 | Google | google.com |
 | Yahoo奇摩 | yahoo.com |
+| Bing | bing.com |
 
 
 ### 新聞
@@ -59,7 +60,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 
 |||
 |---|---|
-| Google Maps (app / web) | |
+| Google Maps (app / web) | maps.google.com |
 
 ### 通訊與社群
 

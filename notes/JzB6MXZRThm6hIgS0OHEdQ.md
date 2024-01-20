@@ -10,7 +10,10 @@ Channel:
 - g0v Slack #facing-the-ocean
 
 Contributor: 
-- chewei 資料勘誤
+- 資料勘誤
+    - chewei 
+    - [林博仁(Buo-ren, Lin)](https://brlin.me)
+    - id
 - supaplextw 協助找到消防署釋出的全台資料集 & 分享 OpenStreetMap 過去有整合過一次防災避難收容點位資料
 - hwan 分享韓國的 Shelter 查詢網頁，以及用詞建議 "대피소" 也分享韓國政府資料開放平台上避難所的 API 釋出網頁，並且彙整靜態資料 csv (2024.01)
 :::
@@ -32,6 +35,7 @@ Intro:
 簡易疏散避難地圖，但好像還是各村里 PDF 檔案方式釋出？
 https://www.nfa.gov.tw/cht/index.php?code=list&ids=82
 
+補充： [開放資料](https://data.gov.tw/datasets/search?p=1&size=10&s=_score_desc&rft=%E5%90%84%E5%8D%80%E9%87%8C%E7%96%8F%E6%95%A3%E9%81%BF%E9%9B%A3%E5%9C%96)
 如何找到自己所在的村里避難地圖，推廣網頁
 https://www.safetaiwan.com/blogs/disaster-prevention-column/evacuation-map
 
@@ -123,8 +127,8 @@ https://atlas.geo.ntnu.edu.tw/
 
 ---
 
-消防署 csv 資料集勘誤進度說明
-- 勘誤成果請見 [Googlesheet 資料集](https://docs.google.com/spreadsheets/d/1l_Au7txDgsknhHKvhLksfSAzeMmSoaih3m4pMdqwrBU/edit))
+消防署 csv 資料集勘誤進度說明：
+- 勘誤成果請見 [Googlesheet 資料集](https://docs.google.com/spreadsheets/d/1l_Au7txDgsknhHKvhLksfSAzeMmSoaih3m4pMdqwrBU/edit)
 - 【建議優先修正之類型】位置有誤，經緯度位置並不是該場所名稱的位置
     - 130 筆位置有誤
         - 20240117 應該不止 130 筆，目前隨機找一個鄉鎮區，都可以找出 2~3 個標錯位置的
@@ -250,9 +254,12 @@ https://atlas.geo.ntnu.edu.tw/
 - 形式：資料集
 - 網址：https://data.gov.tw/dataset/73242
 - 資料錯誤說明：(以下錯誤數量統計至20240117，有嘗試盡量勘誤，但判斷應該還有資料尚未勘誤出來)
-    - 140 筆資料，其經緯度位置標示錯誤
+    - 142 筆資料，其經緯度位置標示錯誤
     - 161 筆資料，沒有說明該場所適用哪些災害情境
     - 351 筆資料，文字缺漏無法完整傳達地點
+- 已勘誤的「序號清冊」整理如下
+    - 資料集中的「勘誤備註說明」欄位，有說明該筆資料的錯誤類型，補充建議修改的方向
+    - 下載網址https://docs.google.com/spreadsheets/d/1l_Au7txDgsknhHKvhLksfSAzeMmSoaih3m4pMdqwrBU/edit#gid=1725071717
 
 二、全民防災e點通
 - 形式：地圖網頁

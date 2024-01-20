@@ -241,3 +241,12 @@ Step 7 點擊「團隊成員」
 - 申請人 slack ID：chewei
 - 聯絡人 slack ID：chewei, delightfullychoatic, singing
 - 預計用於 Bookmode https://g0v.hackmd.io/@pmpc/main
+
+### waytosafety
+- 申請日期：20240120
+- 申請名稱：waytosafety
+- 專案簡介：這個專案檢視避難收容地點資料，也討論收容資料的應用方向
+- slack channel #disaster-go
+- 申請人 slack ID：chewei
+- 聯絡人 slack ID：chewei
+- 預計用於 Bookmode https://g0v.hackmd.io/@waytosafety/home
