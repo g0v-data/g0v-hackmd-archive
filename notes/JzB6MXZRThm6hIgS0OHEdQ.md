@@ -6,8 +6,8 @@ tags: GIS, 防災, 民防
 
 :::info
 Channel:
-- g0v Slack #facing-the-ocean
 - g0v Slack #disaster-go
+- g0v Slack #facing-the-ocean
 
 Contributor: 
 - chewei 資料勘誤

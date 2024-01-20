@@ -2,427 +2,427 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20240117 會議記錄](../notes/wg2iF9fARBCREZ1gTauvUw.md) | 2024-01-17T12:33:45.995Z | 2024-01-17T06:43:10.963Z |
-| 2 | [Cofacts・台灣選務謠言筆記 hackath60n 協作頁面](../notes/TnZpbsAeT1GGPcTStcl8Kw.md) | 2024-01-06T08:17:09.080Z | 2024-01-05T16:46:57.286Z |
-| 3 | [台灣選制、選務謠言筆記](../notes/7gWyvTDYRFuzup1RECnr5A.md) | 2024-01-06T06:53:12.623Z | 2023-12-08T07:25:01.081Z |
-| 4 | [20240103 會議記錄](../notes/Oc68Wf3yRIm5UC7IeN6Pcg.md) | 2024-01-04T19:17:32.318Z | 2024-01-02T18:26:29.053Z |
-| 5 | [20231228 會議記錄](../notes/vKCvrqSQTlm7GEx9MAXGaw.md) | 2024-01-03T10:44:04.486Z | 2023-12-26T18:19:54.016Z |
-| 6 | [20231220 會議記錄](../notes/kxGE_l7XT4ePTO1ljmtNkQ.md) | 2023-12-20T13:11:53.501Z | 2023-12-19T19:19:13.335Z |
-| 7 | [20231213 會議記錄](../notes/0Ta4gitcTJCY2Lnwll0qrw.md) | 2023-12-20T11:59:19.881Z | 2023-12-12T18:32:18.880Z |
-| 8 | [Cofacts・台灣選務謠言筆記 hackath59n 協作頁面](../notes/I7J17SoFRvWyxRuAecoS1w.md) | 2023-12-09T08:34:51.044Z | 2023-12-05T19:11:38.275Z |
-| 9 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2023-12-06T11:45:25.799Z | 2022-08-05T02:46:53.351Z |
-| 10 | [Cofacts article group design doc](../notes/f_Ze19PhQuqx_fzOAOkohQ.md) | 2023-12-02T17:13:23.036Z | 2022-10-03T23:42:45.041Z |
-| 11 | [20231122 會議記錄](../notes/RRRZSBSKRLCm3fBnHG1j9g.md) | 2023-11-22T12:49:06.649Z | 2023-11-21T04:49:13.362Z |
-| 12 | [20231115 會議記錄](../notes/vAUg0WtvTAi0rzJ7E1spnQ.md) | 2023-11-18T05:59:39.772Z | 2023-11-14T18:28:00.304Z |
-| 13 | [20231108 會議記錄](../notes/oz-49rOSSPW3J8AbG0yRSA.md) | 2023-11-15T11:40:05.645Z | 2023-11-08T04:55:10.446Z |
-| 14 | [20231101 會議記錄](../notes/g4Ikla2NQESsGM05-wiyNg.md) | 2023-11-01T12:52:36.984Z | 2023-11-01T04:32:34.114Z |
-| 15 | [20231025 會議記錄](../notes/ZOZrbHxEQV25eP7a4dxzYw.md) | 2023-10-25T13:06:48.123Z | 2023-10-24T18:48:52.365Z |
-| 16 | [Cofacts crowd-sourced transcript design doc](../notes/OhGIQzoxR5eF6audQuS_FQ.md) | 2023-10-25T06:06:01.668Z | 2022-08-28T08:38:50.361Z |
-| 17 | [20231018 會議記錄](../notes/v4taAFAtRt6EOMGGMa7Btw.md) | 2023-10-19T03:23:02.621Z | 2023-10-18T03:35:46.936Z |
-| 18 | [20231011 會議記錄](../notes/t9ypB87SQBuMjjW_PheZVg.md) | 2023-10-18T03:34:35.294Z | 2023-10-10T10:57:29.122Z |
-| 19 | [Cofacts hackath58n 協作頁面](../notes/hb5doTr1Re2OjGFCO2Ob8w.md) | 2023-10-15T08:12:55.949Z | 2023-10-14T11:46:48.446Z |
-| 20 | [20231004 會議記錄](../notes/XRzWTxjVTFWI8JNzLVh9lQ.md) | 2023-10-11T11:02:04.584Z | 2023-10-03T16:03:11.521Z |
-| 21 | [20230927 會議記錄](../notes/Eu2AOPXnTzixK6qt7t4ikg.md) | 2023-09-27T13:14:57.942Z | 2023-09-26T17:14:37.858Z |
-| 22 | [20230921 會議記錄](../notes/ulv1SGtBRWmhxnE9Lpv9TQ.md) | 2023-09-24T15:23:08.935Z | 2023-09-20T15:59:17.829Z |
-| 23 | [Cofacts  Hypercerts](../notes/1ZqfFBAdQFSH3Z5O4G3pMg.md) | 2023-09-22T12:23:38.872Z | 2023-09-22T12:20:26.359Z |
-| 24 | [20230917 Cofacts 真的假的 第 38 次查核小聚 小松果](../notes/lXd4Ypg_S12HLxs5z9wAkQ.md) | 2023-09-21T11:42:05.740Z | 2023-09-17T05:38:44.465Z |
-| 25 | [20230913 會議記錄](../notes/ZDlTB7buRUqIG9c3wMOkRQ.md) | 2023-09-17T05:23:04.358Z | 2023-09-13T04:37:12.803Z |
-| 26 | [Translation Cofacts video](../notes/Jcer4KcJQJiFLQS4cF1Qwg.md) | 2023-09-14T07:34:28.575Z | 2021-03-20T02:49:17.753Z |
-| 27 | [20230907 會議記錄](../notes/GHKWDHGITHaKeBzQdVf5pA.md) | 2023-09-07T12:45:28.797Z | 2023-09-06T15:39:15.699Z |
-| 28 | [วิธีการใช้งาน COFACT.ORG / 如何使用 COFACT.ORG](../notes/2lYi8f6PSYyCfBw1MPGtQA.md) | 2023-09-02T08:20:54.541Z | 2023-09-02T08:18:50.647Z |
-| 29 | [20230831 會議記錄](../notes/K02x8V48TDmiPdwXtWCZSQ.md) | 2023-08-31T12:53:45.816Z | 2023-08-31T05:37:56.059Z |
-| 30 | [對話整理樣板：一句話描述這篇](../notes/lr3q2O7eRZqevdNewpZ1Yg.md) | 2023-08-27T09:07:10.780Z | 2018-10-10T12:27:35.463Z |
-| 31 | [Cofacts Hackath57n 協作頁面](../notes/uO2pc1SlQCqtK7WZBknBZw.md) | 2023-08-26T15:07:54.609Z | 2023-08-26T06:49:11.533Z |
-| 32 | [20230823 會議記錄](../notes/Fmkhf62_SKGIlwwwLrRnAw.md) | 2023-08-23T18:28:12.937Z | 2023-08-23T09:05:16.294Z |
-| 33 | [20230817 會議記錄](../notes/5Pn97RTPTpmsrW4opnSKNA.md) | 2023-08-17T13:00:48.611Z | 2023-08-17T04:57:08.371Z |
-| 34 | [Cofacts API access management](../notes/51wwLHgvSUqtBDaP-yAVnA.md) | 2023-08-09T18:48:05.182Z | 2021-01-19T14:33:07.020Z |
-| 35 | [Cofacts Huggingface 資料集評估 By Teemo](../notes/p-4gLJ-ASe-0wzp_G6h7TQ.md) | 2023-08-01T03:21:40.181Z | 2023-07-05T13:56:48.118Z |
-| 36 | [20230719 會議記錄](../notes/EfM4Xqn4TA-nIXF8Njjovg.md) | 2023-07-19T12:51:24.893Z | 2023-07-18T19:19:07.983Z |
-| 37 | [20230712 會議記錄](../notes/hZ4I3iFfSPGr9JROtBZNzQ.md) | 2023-07-12T13:23:40.996Z | 2023-07-12T09:36:29.810Z |
-| 38 | [Cofacts 第 36 次小聚小松果](../notes/DACiWe7XQnS4fo7v0OX4pg.md) | 2023-07-12T10:56:45.643Z | 2023-07-09T06:03:10.244Z |
-| 39 | [20230705 會議記錄](../notes/LxNqtaRhQbqkSFMsLShAiQ.md) | 2023-07-09T05:29:50.853Z | 2023-07-04T18:50:01.099Z |
-| 40 | [20230607 會議記錄](../notes/dkyaltHuSp6jPPw9oL4Wig.md) | 2023-07-01T15:21:29.972Z | 2023-06-06T19:20:26.451Z |
-| 41 | [Cofacts Hackath56n 協作頁面](../notes/UpvWnVNKREmzgS1jmy3-0A.md) | 2023-07-01T08:38:29.031Z | 2023-06-30T17:53:36.498Z |
-| 42 | [Cofacts GA4 Migration design doc](../notes/cJFFXVzgT4OFT6bBLtulGg.md) | 2023-06-27T06:38:59.298Z | 2023-01-31T01:42:15.259Z |
-| 43 | [20230614 會議記錄](../notes/hT9OKQYJRcqPgC18U4csuw.md) | 2023-06-14T12:51:53.275Z | 2023-06-13T19:01:48.388Z |
-| 44 | [How to organize an editor’s meetup](../notes/s7Hb2sSATq-1z68Nhl6a2w.md) | 2023-06-12T13:32:00.995Z | 2018-10-05T05:37:52.759Z |
-| 45 | [「說這話的人，幾天後被砸死」的中國訊息 - MrOrz](../notes/4TaassszRQmoBZIH_7TPog.md) | 2023-06-12T13:27:07.978Z | 2023-06-08T02:41:25.108Z |
-| 46 | [Cofacts Editors’ Gathering Guidelines and Policy](../notes/oT1pmA5ETQWuooNU0GnVAw.md) | 2023-06-12T13:25:12.117Z | 2018-10-05T05:35:07.475Z |
-| 47 | [Cofacts Editors’ Guideline and Policy](../notes/T_XuC8JcR_-cxuF0VU1pXA.md) | 2023-06-12T13:25:03.081Z | 2018-10-05T05:33:40.761Z |
-| 48 | [Cofacts Database: Step-by-step Tutorial](../notes/OCxsEsUSQt2OnGfxDPfjoA.md) | 2023-06-12T13:24:57.597Z | 2018-10-05T05:23:25.820Z |
-| 49 | [First Step For Cofacts Editor](../notes/z7PY2mQeSMyWBoZpaVhAPg.md) | 2023-06-12T13:24:53.570Z | 2018-10-05T05:15:19.100Z |
-| 50 | [Frequently Asked Questions](../notes/E6ZsE8csSI6_PbMZzmXhTg.md) | 2023-06-12T13:24:48.553Z | 2018-10-05T05:04:22.878Z |
-| 51 | [Cofacts LINE Bot User Manual](../notes/WhGyJgyBQJi_JtGlBcevRA.md) | 2023-06-12T13:24:44.514Z | 2018-10-05T04:36:25.840Z |
-| 52 | [Cofacts Tutorial](../notes/Waz-B9sORSOPLp6nAOS82w.md) | 2023-06-12T13:24:39.414Z | 2018-10-04T09:53:48.129Z |
-| 53 | [Manual for Cofacts LINE bot collaboration / Bug Report Group](../notes/mF_43o89SOSzAmb6DyaJBA.md) | 2023-06-12T13:24:23.375Z | 2018-10-05T05:38:48.508Z |
-| 54 | [Cofacts Design Decision](../notes/ZNzzDKzOS1-CUi67EVJwig.md) | 2023-06-12T13:24:18.344Z | 2018-10-05T05:40:44.416Z |
-| 55 | [Cofacts Editor On-boarding SOP](../notes/0-QjXPxURka8hrPDmKYP7w.md) | 2023-06-12T13:24:03.234Z | 2018-10-05T05:36:53.688Z |
-| 56 | [《沒有人要做 Cofacts 編輯啦！》Workshop 會後](../notes/a-SpuZ_WQSGMA1TmiWnXIg.md) | 2023-06-12T13:23:43.208Z | 2018-10-06T02:16:37.164Z |
-| 57 | [20230531 會議記錄](../notes/luIa-z9HToC2zlFpD9yK3w.md) | 2023-05-31T13:31:01.268Z | 2023-05-31T05:27:12.542Z |
-| 58 | [20230524 會議記錄](../notes/d-3Itg9jTb61ZYWEVnRqsg.md) | 2023-05-27T05:36:22.692Z | 2023-05-23T14:43:39.530Z |
-| 59 | [20230517 會議記錄](../notes/hn7Zy2X1QKuM8Kb5K6d4pA.md) | 2023-05-17T13:03:02.631Z | 2023-05-16T18:15:39.957Z |
-| 60 | [20230511 會議記錄](../notes/joEUsABVRr2aMQqD-Z8ixQ.md) | 2023-05-17T05:40:08.767Z | 2023-05-09T17:11:12.510Z |
-| 61 | [Cofacts multimedia support research](../notes/aJqHn8f5QGuBDLSMH_EinA.md) | 2023-05-10T09:16:54.040Z | 2021-08-25T17:31:40.210Z |
-| 62 | [Generative AI 如何幫助 Fact check](../notes/RLpf-11GTCGWtMpKUQalQw.md) | 2023-05-07T18:49:02.325Z | 2023-05-07T05:49:18.607Z |
-| 63 | [20230503 會議記錄](../notes/SHMhOYbBQ4Sjb5N41lsqMg.md) | 2023-05-03T13:26:21.144Z | 2023-05-02T17:47:38.631Z |
-| 64 | [Cofacts preview generation](../notes/gu_hAI6tTeaeBuNUgGpq-g.md) | 2023-04-07T02:24:21.638Z | 2023-02-03T17:12:01.139Z |
-| 65 | [20230319 Cofacts 真的假的 35th 小松果](../notes/zKmBJn2sTcGtUqtCP0NluA.md) | 2023-03-20T05:28:54.401Z | 2023-03-19T02:58:14.338Z |
-| 66 | [Cofacts Data Usage](../notes/CfWAEl5xTUG8jSlwBVdN-w.md) | 2023-03-01T05:29:17.262Z | 2022-11-16T02:44:45.892Z |
-| 67 | [Cofacts Google Analytics 4 migration research](../notes/QRRlVa_URk-wT0QqahLN-w.md) | 2023-02-26T04:18:43.887Z | 2022-05-13T14:11:44.028Z |
-| 68 | [Cofacts anti SEO-spam mechanism](../notes/XBJS-KEtScWyVCuQ9P_iNQ.md) | 2023-02-15T06:35:09.537Z | 2022-11-23T06:01:48.618Z |
-| 69 | [Cofacts chatbot error analysis 2023/01/21 ~](../notes/mkb9Wr_2SrCbbiLCv_7-EQ.md) | 2023-02-14T12:39:10.868Z | 2023-02-03T04:06:29.417Z |
-| 70 | [20230131 會議記錄](../notes/iGqCnbuoQfKlZLTNEyM3dw.md) | 2023-02-06T15:32:03.357Z | 2023-01-31T00:52:03.699Z |
-| 71 | [Cofacts 會議記錄 (已移動)](../notes/u3dHh69PTHWTwsLWjUEMNA.md) | 2023-02-04T18:03:41.580Z | 2020-06-10T05:42:05.101Z |
-| 72 | [20230118 會議記錄](../notes/uBKnDEn0TxeplRUE5BXEsQ.md) | 2023-01-18T13:28:02.081Z | 2023-01-17T17:40:43.603Z |
-| 73 | [20230111 會議記錄](../notes/vfsdHNS2R0-XhYyy2Lphbw.md) | 2023-01-15T05:54:07.426Z | 2023-01-10T17:45:42.628Z |
-| 74 | [20230104 會議記錄](../notes/OVi9dcfGTSusdskezsphFA.md) | 2023-01-09T02:31:08.712Z | 2023-01-03T05:18:00.803Z |
-| 75 | [20221228 會議記錄](../notes/6c3CpKXhQwOtFX8kf31ePA.md) | 2022-12-28T14:04:20.186Z | 2022-12-28T00:28:23.767Z |
-| 76 | [20221221 會議記錄](../notes/yQkG7XW7TXaB4pdjU5s3dg.md) | 2022-12-26T15:54:45.739Z | 2022-12-21T02:26:33.365Z |
-| 77 | [20221214 會議記錄](../notes/qWt5V0kYSJCyJxO8epITnw.md) | 2022-12-14T13:11:51.448Z | 2022-12-13T18:45:54.389Z |
-| 78 | [20221207 會議記錄](../notes/VVIOZobARkegK3vxYdG52Q.md) | 2022-12-14T12:35:03.622Z | 2022-12-06T18:39:16.018Z |
-| 79 | [20221130 會議記錄](../notes/wO4db9f6QNSX71_iTMFSpg.md) | 2022-12-03T03:13:19.857Z | 2022-11-29T16:38:19.101Z |
-| 80 | [20221123 會議記錄](../notes/SS2HXEoGTqOgmZHKdJcTFA.md) | 2022-11-23T12:56:02.184Z | 2022-11-22T17:23:43.724Z |
-| 81 | [20221116 會議記錄](../notes/R2Yr4tgbQ6SYYxquU8Ysmg.md) | 2022-11-23T07:51:07.758Z | 2022-11-15T16:47:46.143Z |
-| 82 | [20221120 Cofacts 真的假的 33rd 查核協作者小聚](../notes/h-F8cy3mSKesQhDHspll6g.md) | 2022-11-20T13:12:08.272Z | 2022-11-20T05:09:34.907Z |
-| 83 | [20221109 會議記錄](../notes/nNjUnOgRTqOa2dDcqF67KA.md) | 2022-11-09T13:27:38.427Z | 2022-11-08T18:18:51.018Z |
-| 84 | [20221102 會議記錄](../notes/QPTHTIGEQpGgyYrDxNOMCQ.md) | 2022-11-09T08:21:22.064Z | 2022-11-01T15:56:32.173Z |
-| 85 | [2022/10 Facebook login incident report](../notes/K_sfKNZjRG-pSsQrEAGhEA.md) | 2022-10-29T16:07:34.362Z | 2022-10-27T17:56:31.147Z |
-| 86 | [20221026 會議記錄](../notes/G8JKqoW6T-SpCa704awGsw.md) | 2022-10-26T15:15:54.291Z | 2022-10-24T17:22:00.784Z |
-| 87 | [20220928 會議記錄](../notes/ysACleHDTBmVMbH_4mi8uQ.md) | 2022-10-26T11:44:00.683Z | 2022-09-27T05:20:26.278Z |
-| 88 | [20221019 會議記錄](../notes/JPUb9EMATwGLBhgeECAskA.md) | 2022-10-24T17:23:11.881Z | 2022-10-18T02:02:15.986Z |
-| 89 | [Cofacts Hackath52n 協作頁面](../notes/I2IhD3wGS1OawGB1Tarfxg.md) | 2022-10-22T08:35:13.331Z | 2022-10-21T17:13:39.153Z |
-| 90 | [20221012 會議記錄](../notes/000c8SvUQXKOVKIgIzNpXg.md) | 2022-10-12T13:31:40.434Z | 2022-10-04T13:58:22.093Z |
-| 91 | [Cofacts media manager implementation](../notes/C8dW2cFiR1-N5Z0wcOefuA.md) | 2022-10-06T19:31:59.632Z | 2022-04-29T13:07:56.997Z |
-| 92 | [Cofacts Next Spec](../notes/EoaSauHDRrmZ1-ROcL7IMw.md) | 2022-09-26T05:48:13.455Z | 2020-02-26T09:39:57.842Z |
-| 93 | [20220921 會議記錄](../notes/IqCOZMZLRe-JPMSJIV3yRQ.md) | 2022-09-25T05:53:15.714Z | 2022-09-20T05:27:08.531Z |
-| 94 | [20220914 會議記錄](../notes/vl_7BJq1RsGb15a_R6sQWA.md) | 2022-09-21T17:41:17.953Z | 2022-09-14T02:24:20.909Z |
-| 95 | [20220907 會議記錄](../notes/FYQIQOIgQ1evVfzG-33fwg.md) | 2022-09-09T06:25:06.693Z | 2022-08-31T08:42:19.249Z |
-| 96 | [20220824 會議記錄](../notes/QgeoAzSeR4KaXR8sGHA6Nw.md) | 2022-08-31T15:50:02.500Z | 2022-08-24T04:42:32.670Z |
-| 97 | [20220817 會議記錄](../notes/sDlMC1SiQM-7R72UZUBSkA.md) | 2022-08-17T12:43:21.196Z | 2022-08-17T04:19:46.188Z |
-| 98 | [20220810 會議記錄](../notes/uZ3gouRWRamtrCFzKFrgnw.md) | 2022-08-17T05:58:44.503Z | 2022-08-09T16:55:55.120Z |
-| 99 | [20220803 會議記錄](../notes/6gLsmuTUQia3sjyYPPcFvQ.md) | 2022-08-03T19:06:25.523Z | 2022-08-03T05:44:59.399Z |
-| 100 | [20220727 會議記錄](../notes/JfQ03mRCTWiREv2PKWhfDQ.md) | 2022-07-27T12:18:27.237Z | 2022-07-27T05:16:07.942Z |
-| 101 | [20220720 會議記錄](../notes/4OmK8sx5Snuq3uV5ju77hw.md) | 2022-07-27T05:29:37.055Z | 2022-07-19T17:52:37.865Z |
-| 102 | [最近每日被查詢次數圖表](../notes/0kjaVlFASSyddkltqGR6Nw.md) | 2022-07-26T18:35:44.716Z | 2020-06-30T05:11:09.941Z |
-| 103 | [20220713 會議記錄](../notes/AqvBLZNmS4uAGMmuNQSgVg.md) | 2022-07-20T05:55:46.212Z | 2022-07-12T18:53:28.192Z |
-| 104 | [20220706 會議記錄](../notes/UopCx5bcRb-gt_3SdVqRdQ.md) | 2022-07-13T10:51:02.003Z | 2022-07-06T03:15:12.918Z |
-| 105 | [20220629 會議記錄](../notes/UP6DRljfTciCSv_mUtB7wQ.md) | 2022-07-04T18:34:21.088Z | 2022-06-29T04:28:25.372Z |
-| 106 | [20220623 會議記錄](../notes/_MhN2CdMQJu8RrNAqY5FaA.md) | 2022-06-29T11:58:57.810Z | 2022-06-22T16:49:17.223Z |
-| 107 | [20220617 會議記錄](../notes/Gf45qq-9T9GLMkSrsfXG1A.md) | 2022-06-17T14:55:43.153Z | 2022-06-17T05:04:45.376Z |
-| 108 | [QA - ㄇ Cofacts 真的假的闢謠 LINE Bot](../notes/fZmP6znBTaWJyEL9uSncHA.md) | 2022-06-17T07:14:08.294Z | 2022-06-17T07:13:10.570Z |
-| 109 | [20220608 會議記錄](../notes/JZbn_HoESFGAKnJZtHnE5Q.md) | 2022-06-08T12:41:26.114Z | 2022-06-08T06:36:43.943Z |
-| 110 | [20220601 會議記錄](../notes/nbPCJPNpRHKDvdKiy2knHg.md) | 2022-06-08T05:58:38.713Z | 2022-05-31T18:02:26.369Z |
-| 111 | [20220525 會議記錄](../notes/3_jgVd9vQreCsgADOdF25w.md) | 2022-05-25T12:42:49.884Z | 2022-05-25T08:54:21.318Z |
-| 112 | [20220518 會議記錄](../notes/_HXxDu6OQPaK08WFwOshtg.md) | 2022-05-19T05:58:29.851Z | 2022-05-18T04:23:04.239Z |
-| 113 | [2018/10/21 Cofacts chatbot incident report](../notes/xd8i1oR-Q9OEFQjOCPOplQ.md) | 2022-05-18T14:14:22.942Z | 2018-10-24T07:07:52.182Z |
-| 114 | [20190629 編輯小聚](../notes/XkpwvzvaTkiyEAOGaV1SiA.md) | 2022-05-18T14:14:01.860Z | 2019-06-29T08:16:24.070Z |
-| 115 | [20220515 Cofacts 小松果](../notes/q2AjbzezR8SsMoozvnNCzA.md) | 2022-05-18T14:12:59.481Z | 2022-05-15T07:08:45.437Z |
-| 116 | [20220511 會議記錄](../notes/R_cEiQ8eRDmQxUss4niJzQ.md) | 2022-05-15T06:36:27.332Z | 2022-05-10T16:36:23.286Z |
-| 117 | [20220504 會議記錄](../notes/Y40dNpVBSbKF-NHqfmdGNQ.md) | 2022-05-11T06:10:20.534Z | 2022-05-04T04:30:50.994Z |
-| 118 | [20220427 會議記錄](../notes/fOBTLOQkSI-z-CRFSI2Fgg.md) | 2022-05-01T14:53:07.705Z | 2022-04-27T05:04:12.071Z |
-| 119 | [20XXXXXX 會議記錄](../notes/ew5xh2wyRBq5c9S7DPJV6Q.md) | 2022-04-27T12:09:20.204Z | 2019-05-28T17:08:51.139Z |
-| 120 | [20220420 會議記錄](../notes/pGl4iqVKRXed7opCK_txVw.md) | 2022-04-20T12:58:44.732Z | 2022-04-19T15:51:46.795Z |
-| 121 | [20220413 會議記錄](../notes/PxuoYf6ISYyFegtzAQp83w.md) | 2022-04-13T13:29:22.162Z | 2022-04-13T05:10:19.956Z |
-| 122 | [20220316 會議記錄](../notes/eo8NM1VGQ7qxaamBZXRPtA.md) | 2022-04-09T08:22:13.473Z | 2022-03-15T17:41:17.255Z |
-| 123 | [20220406 會議記錄](../notes/gyIJXbTqRnySbfeaPJcJew.md) | 2022-04-06T12:31:11.129Z | 2022-04-05T16:40:03.699Z |
-| 124 | [20220330 會議記錄](../notes/OdOwYeKjQsSyUVzuE-BGiw.md) | 2022-03-30T12:32:45.258Z | 2022-03-29T19:02:17.408Z |
-| 125 | [20220323 會議記錄](../notes/bTVlJ8yYRb2nfDmGz09Psg.md) | 2022-03-23T12:31:19.066Z | 2022-03-23T05:07:40.961Z |
-| 126 | [20220309 會議記錄](../notes/J40y6r1gQ5WzIdKvufjwng.md) | 2022-03-15T17:56:17.060Z | 2022-03-09T04:53:18.785Z |
-| 127 | [Cofacts真的假的小松果第29次](../notes/Dw2J8hqsRcqRO0abDxTkBQ.md) | 2022-03-14T12:28:38.014Z | 2022-03-11T16:28:42.030Z |
-| 128 | [20220302 會議記錄](../notes/dOAOGDNzTGCWEsXW8weIgg.md) | 2022-03-09T04:58:33.753Z | 2022-03-01T19:00:21.868Z |
-| 129 | [20220223 會議記錄](../notes/ReVDO3iiSQ28qG0XTOovKQ.md) | 2022-02-28T14:59:53.820Z | 2022-02-22T15:36:20.718Z |
-| 130 | [Cofacts Hackath48n 協作頁面](../notes/V5X1JwIZSkWNjaXWWcfGAA.md) | 2022-02-19T03:29:27.940Z | 2022-02-18T14:44:26.886Z |
-| 131 | [20220216 會議記錄](../notes/xsDcMPySQM69vA0xHO8_dA.md) | 2022-02-17T03:24:32.608Z | 2022-02-15T13:38:25.853Z |
-| 132 | [20220209 會議記錄](../notes/lkGJU4TpQ7evxDoXYK1rtQ.md) | 2022-02-16T04:21:19.523Z | 2022-02-09T04:22:58.243Z |
-| 133 | [20220119 會議記錄](../notes/bhL6csQ8T1e81E2De7ZS5Q.md) | 2022-02-09T13:07:37.014Z | 2022-01-19T04:41:26.622Z |
-| 134 | [Cofacts user blocking mechanism](../notes/hk1v8Ka5TCmIZinQ6zKU9Q.md) | 2022-01-31T09:21:46.639Z | 2021-12-01T05:26:48.159Z |
-| 135 | [20220126 會議記錄](../notes/tBEc2MajQkS-s-lGaG91Gg.md) | 2022-01-26T12:57:08.720Z | 2022-01-25T16:19:55.921Z |
-| 136 | [20220112 會議記錄](../notes/SETMQ8DaQDu3a5ZYnrvfpA.md) | 2022-01-19T12:01:24.772Z | 2022-01-11T18:56:44.238Z |
-| 137 | [20220105 會議記錄](../notes/RtKFTKRFRduJK0gz3St3lQ.md) | 2022-01-09T05:55:12.210Z | 2022-01-05T04:54:39.784Z |
-| 138 | [20211103 會議記錄](../notes/1WADYBY0TH27ZqOaVMjqUg.md) | 2022-01-02T09:35:08.764Z | 2021-11-02T15:18:18.412Z |
-| 139 | [20211229 會議記錄](../notes/Syl8le5xS22nLo8Vc56gmw.md) | 2022-01-01T15:23:18.096Z | 2021-12-28T16:23:38.660Z |
-| 140 | [20211222 會議記錄](../notes/O0pXnRocRuKoJwdC1_9wmA.md) | 2021-12-23T05:26:08.373Z | 2021-12-21T16:50:52.599Z |
-| 141 | [20211215 會議記錄](../notes/WEqAcqHwRAeiQywjdOu1Jw.md) | 2021-12-15T13:12:00.902Z | 2021-12-14T16:35:33.168Z |
-| 142 | [Cofacts @ g0v Hackath47n 協作頁面](../notes/1BxlPa-eQi2l13pScuGUCg.md) | 2021-12-11T09:03:30.680Z | 2021-12-10T23:29:29.775Z |
-| 143 | [20211208 會議記錄](../notes/-G9Md9IyQauRoalIXJgenQ.md) | 2021-12-11T08:33:31.566Z | 2021-12-07T18:06:19.007Z |
-| 144 | [20211201 會議記錄](../notes/TEbULkjbSE-3GDyk-Whj2A.md) | 2021-12-01T13:47:06.329Z | 2021-12-01T04:57:14.604Z |
-| 145 | [20211124 會議記錄](../notes/YaQbzua8SWmkm2DNSGD-eQ.md) | 2021-12-01T12:01:01.227Z | 2021-11-23T18:45:24.041Z |
-| 146 | [20211006 會議記錄](../notes/zlWWCpDTQ5iADHNw7Thpog.md) | 2021-12-01T05:53:19.985Z | 2021-10-05T05:41:01.976Z |
-| 147 | [20211013 會議記錄](../notes/0Cv5hmmAQYyW8SJdXvfdtw.md) | 2021-12-01T05:53:12.982Z | 2021-10-13T05:49:53.824Z |
-| 148 | [20211027 會議記錄](../notes/rf0A7MRfTOC613QZmFehQA.md) | 2021-12-01T05:52:56.600Z | 2021-10-27T04:44:15.647Z |
-| 149 | [20211117 會議記錄](../notes/lYTN-n1xQyqlHB9oeaPvuQ.md) | 2021-12-01T05:04:31.771Z | 2021-11-16T06:09:25.648Z |
-| 150 | [20211110 會議記錄](../notes/hEaUz91PR0mFftzDfydg8A.md) | 2021-11-17T12:38:34.178Z | 2021-11-09T13:25:02.456Z |
-| 151 | [20210303 會議記錄](../notes/-Mth-vd5RPWqdLOfRJHHcg.md) | 2021-11-03T05:16:57.598Z | 2021-03-02T05:20:03.372Z |
-| 152 | [Cofacts Hackath46n 協作頁面](../notes/6iSR4tW3Qv-nXFsKOf127w.md) | 2021-10-23T08:05:11.090Z | 2021-10-23T06:54:56.401Z |
-| 153 | [20211020 會議記錄](../notes/wNhf1vDGQd6J2Plp4u4Ebg.md) | 2021-10-20T12:31:41.880Z | 2021-10-17T06:26:36.613Z |
-| 154 | [20210929 會議記錄](../notes/5VRwpbcJSlSPFtISaNBJ8g.md) | 2021-09-29T13:39:16.858Z | 2021-09-28T16:49:03.529Z |
-| 155 | [20210922 會議記錄](../notes/s3gX4lQ-SSmqMXzrcOpPag.md) | 2021-09-29T02:11:38.358Z | 2021-09-22T04:29:34.688Z |
-| 156 | [20210915 會議記錄](../notes/iTCmUFHeQLSILSXi2dBTjw.md) | 2021-09-15T16:48:32.618Z | 2021-09-12T09:22:52.953Z |
-| 157 | [20210908 會議記錄](../notes/6mTYVWhLSTWfDcyaxYLaXA.md) | 2021-09-15T12:50:45.279Z | 2021-09-08T04:51:41.677Z |
-| 158 | [20210901 會議記錄](../notes/E1-ajzinSwCyacGG228VsQ.md) | 2021-09-01T13:06:31.148Z | 2021-09-01T05:26:10.265Z |
-| 159 | [20210825 會議記錄](../notes/LP1rs4IOQYOWJ7YBj9dYbw.md) | 2021-09-01T05:41:42.345Z | 2021-08-25T04:39:15.762Z |
-| 160 | [Cofacts Hackath45n 協作頁面](../notes/9a80Jf-6STWQgEgrNvwsww.md) | 2021-08-21T08:24:43.989Z | 2021-08-18T12:17:54.465Z |
-| 161 | [20210818 會議記錄](../notes/CR_EsJHpSRe7YhJ8WVN_nA.md) | 2021-08-18T13:42:09.344Z | 2021-08-16T17:18:11.264Z |
-| 162 | [20210811 會議記錄](../notes/tu1avkzHTHWw5yHG1aucfQ.md) | 2021-08-18T05:47:33.403Z | 2021-08-11T02:40:30.780Z |
-| 163 | [QA - ㄇ Cofacts 真的假的闢謠 LINE Bot](../notes/o3-A1j6XTzWl27tK_MomZQ.md) | 2021-08-14T06:52:17.933Z | 2021-07-25T07:52:25.896Z |
-| 164 | [20210804 會議記錄](../notes/Nhc9MnskSsGvUqntz0z7Dg.md) | 2021-08-11T14:31:35.446Z | 2021-08-04T04:19:36.270Z |
-| 165 | [20210728 會議記錄](../notes/ie1Ymj_3SlmHp0jAIy6mJw.md) | 2021-07-28T12:50:25.336Z | 2021-07-27T15:56:44.646Z |
-| 166 | [20210721 會議記錄](../notes/vcKai2DNQYeZKjY8oe6O9w.md) | 2021-07-24T07:21:21.504Z | 2021-07-21T05:08:04.826Z |
-| 167 | [20210714 會議記錄](../notes/P3-iDyfYRNiW1kxe4r2ROQ.md) | 2021-07-21T05:10:21.785Z | 2021-07-13T16:58:30.368Z |
-| 168 | [20210707 會議記錄](../notes/LpBtA5-CT-m0XmlqpsdWEQ.md) | 2021-07-07T14:14:27.236Z | 2021-07-05T15:14:28.587Z |
-| 169 | [20210630 會議記錄](../notes/cjyi0ezPSzS2Dsgw1oBfmg.md) | 2021-06-30T13:06:39.690Z | 2021-06-29T17:03:54.657Z |
-| 170 | [Cofacts Hackath44n 協作頁面](../notes/K2UA8LDXT7qGIa0WZV77OA.md) | 2021-06-26T08:19:18.497Z | 2021-06-26T01:33:35.226Z |
-| 171 | [20210623 會議記錄](../notes/hakuJY45QWe5xb7Csr-gsw.md) | 2021-06-23T13:45:05.082Z | 2021-06-22T18:51:28.689Z |
-| 172 | [20210616 會議記錄](../notes/MhHehw-oQ2OqTVWFUxNRfA.md) | 2021-06-16T15:35:55.871Z | 2021-06-16T05:39:52.350Z |
-| 173 | [20210609 會議記錄](../notes/giYWfM8yRkKghtPOG1EBig.md) | 2021-06-16T05:39:17.449Z | 2021-06-08T16:43:48.892Z |
-| 174 | [20210602 會議記錄](../notes/yCJkaJJiSQmApACcVWkVNg.md) | 2021-06-08T16:43:17.627Z | 2021-06-02T04:46:42.434Z |
-| 175 | [20210526 會議記錄](../notes/8VGFKx-cR8yEdKlAQ3vv5A.md) | 2021-06-06T18:05:21.686Z | 2021-05-26T04:20:53.406Z |
-| 176 | [20210512 會議記錄](../notes/dZmNJ78pTkugvqdJZGEM5Q.md) | 2021-05-26T04:25:57.181Z | 2021-05-12T05:22:11.147Z |
-| 177 | [20210519 會議記錄](../notes/EzCMaHOrRN--GGArbZHYrg.md) | 2021-05-26T04:21:22.926Z | 2021-05-19T06:11:02.098Z |
-| 178 | [20210505 會議記錄](../notes/BRQtYUVzTU2vNxainshnMQ.md) | 2021-05-12T05:22:23.305Z | 2021-05-05T05:13:09.695Z |
-| 179 | [20210428 會議記錄](../notes/6ZwH7NANRqG6s-CCIy9IYw.md) | 2021-05-08T11:37:59.667Z | 2021-04-27T13:35:50.986Z |
-| 180 | [20210421 會議記錄](../notes/Zb0JxBEJQlagaWYxlo_CiQ.md) | 2021-04-27T14:54:05.640Z | 2021-04-20T05:10:54.808Z |
-| 181 | [20210413 會議記錄](../notes/BBeVH2VxRNOCq5QB_HC6EQ.md) | 2021-04-20T05:13:16.080Z | 2021-04-12T15:05:13.781Z |
-| 182 | [20210407 會議記錄](../notes/lYRkMMQNTqewpjDjpeqTiQ.md) | 2021-04-12T15:13:11.436Z | 2021-04-07T05:13:06.424Z |
-| 183 | [20210331 會議記錄](../notes/f8DNWPiQST6yZZtjXBji7g.md) | 2021-04-05T15:03:50.603Z | 2021-03-30T17:32:01.534Z |
-| 184 | [20210324 會議記錄](../notes/UvlEm1-aSQ-DkDrs8Ty52Q.md) | 2021-03-30T17:31:40.818Z | 2021-03-24T05:26:20.843Z |
-| 185 | [Cofacts Hackath43n 協作頁面](../notes/_-T0BgJtTwitYTuAjxAtlA.md) | 2021-03-20T16:39:00.372Z | 2021-03-20T01:29:12.133Z |
-| 186 | [20210317 會議記錄](../notes/EnqXUoYhRsiZrTVdXqWGJg.md) | 2021-03-17T13:03:13.797Z | 2021-03-17T04:18:45.469Z |
-| 187 | [20210310 會議記錄](../notes/hKK0F5KLRAGOz3Zz_kgrHQ.md) | 2021-03-17T06:13:59.678Z | 2021-03-10T05:06:01.373Z |
-| 188 | [20210224 會議記錄](../notes/Svt6MCd5T76hjDJ8UsKBnQ.md) | 2021-03-02T06:00:45.888Z | 2021-02-24T05:09:28.581Z |
-| 189 | [20210217 會議記錄](../notes/CqKV8gfNSfyuvdQOtq7TlQ.md) | 2021-02-24T05:08:46.269Z | 2021-02-17T03:03:47.297Z |
-| 190 | [20210120 會議記錄](../notes/JUVhhxSmSx62O5SUVuJ1rw.md) | 2021-02-17T05:23:12.329Z | 2021-01-19T18:21:01.594Z |
-| 191 | [20210203 會議記錄](../notes/B-f5FBgeTNGLL8EdKNoZhQ.md) | 2021-02-11T10:12:57.263Z | 2021-02-03T04:40:23.242Z |
-| 192 | [關於 / 教學](../notes/sB_zayWjTo-W0R7xe_U34w.md) | 2021-02-03T12:45:44.994Z | 2020-08-09T09:43:20.887Z |
-| 193 | [20210127 會議記錄](../notes/GNOXeZLcQMa8mpeFGXtR9Q.md) | 2021-01-27T15:06:23.386Z | 2021-01-26T17:54:13.971Z |
-| 194 | [User Profile Page Pilot Study](../notes/lIedGsQWTeScBTWfr4Zq0w.md) | 2021-01-27T05:59:23.443Z | 2021-01-13T04:28:44.362Z |
-| 195 | [Cofacts Hackath42n 協作頁面](../notes/VCm9VKM4TvmWJJk_4EMbdg.md) | 2021-01-23T08:51:02.877Z | 2021-01-23T01:14:08.120Z |
-| 196 | [20210113 會議記錄](../notes/XvP4q3IkTwCDeT1zopaTQg.md) | 2021-01-20T07:16:03.168Z | 2021-01-12T17:27:00.681Z |
-| 197 | [20210106 會議記錄](../notes/0RX4MsjRRJmBqJSKVilWMA.md) | 2021-01-13T03:05:10.935Z | 2021-01-03T16:29:11.178Z |
-| 198 | [20201125 會議記錄](../notes/naJGBDO0QFW4b4H4M9ElIw.md) | 2021-01-12T03:42:55.627Z | 2020-11-23T05:14:40.830Z |
-| 199 | [20201230 會議記錄](../notes/SfPmNj0aRAaQrkQ_Cx1KLQ.md) | 2021-01-03T16:48:21.134Z | 2020-12-30T05:20:15.818Z |
-| 200 | [20201223 會議記錄](../notes/f0V7J5ceTS-1vnKh0RwILw.md) | 2020-12-25T04:09:45.626Z | 2020-12-22T05:31:39.854Z |
-| 201 | [20201202 會議記錄](../notes/vErWoVXYRTKnxpID610C-A.md) | 2020-12-23T12:53:25.888Z | 2020-12-01T12:59:46.418Z |
-| 202 | [20201216 會議記錄](../notes/uJKukwUkSYy_FYI17SsYew.md) | 2020-12-23T12:13:28.843Z | 2020-12-15T17:00:45.533Z |
-| 203 | [20201209 會議記錄](../notes/NqPf1SfPQEGOZ3Z6h7Q7wA.md) | 2020-12-15T05:33:15.711Z | 2020-12-07T05:29:08.421Z |
-| 204 | [20201028 會議記錄](../notes/n74W64y4RiWIKt1Noxn-Mg.md) | 2020-12-08T06:15:20.574Z | 2020-10-27T18:59:29.925Z |
-| 205 | [20201118 會議記錄](../notes/Ha-SMCxJQuGzqx6EnrKanA.md) | 2020-11-23T05:10:31.513Z | 2020-11-17T16:43:30.612Z |
-| 206 | [20201111 會議記錄](../notes/kWuTnoC1TG-MONPhxp8rGQ.md) | 2020-11-18T13:48:27.092Z | 2020-11-09T05:33:00.773Z |
-| 207 | [20201104 會議記錄](../notes/Sl_84QO8TQ6WKKI0bT4pYw.md) | 2020-11-09T05:32:18.127Z | 2020-11-03T05:23:19.886Z |
-| 208 | [20190403 會議記錄](../notes/_GlcAQBfRXy078QQDiigSg.md) | 2020-11-05T20:12:27.984Z | 2019-04-02T07:03:50.450Z |
-| 209 | [Cofacts Hackath41n 協作頁面](../notes/IzcYlM1PQu-1HeBBqH_JRQ.md) | 2020-10-24T09:14:25.612Z | 2020-10-21T05:22:38.208Z |
-| 210 | [20201021 會議記錄](../notes/NmokGVB_Qsa1dIgGEsfoJQ.md) | 2020-10-21T14:13:34.648Z | 2020-10-20T15:42:38.674Z |
-| 211 | [20201014 會議記錄](../notes/R3TffjwOSXefZBCFPkSrqA.md) | 2020-10-21T05:21:16.435Z | 2020-10-11T09:54:41.016Z |
-| 212 | [20200930 會議記錄](../notes/GhVhBlK_QwKT3E5clAfkJw.md) | 2020-10-14T08:03:35.989Z | 2020-09-28T05:57:07.646Z |
-| 213 | [20201007 會議記錄](../notes/CCecwMdhT_eTPQmNfzQTzQ.md) | 2020-10-14T05:32:54.659Z | 2020-10-06T05:15:50.439Z |
-| 214 | [Cofacts RSS 訂閱腳本](../notes/TfCHhvtFTLmP0YKmaU1yVA.md) | 2020-10-09T05:58:01.358Z | 2020-09-08T05:27:57.099Z |
-| 215 | [20200923 會議記錄](../notes/-j-fAX0tS62amv9LejshOg.md) | 2020-10-07T11:58:40.155Z | 2020-09-21T05:42:31.650Z |
-| 216 | [20200916 會議記錄](../notes/yEp9JJtHSyK18bxCQV4dUg.md) | 2020-09-26T17:10:50.454Z | 2020-09-15T06:07:47.577Z |
-| 217 | [20200909 會議記錄](../notes/5JMzChJOQPqKe_CX_wbRmg.md) | 2020-09-23T12:35:56.869Z | 2020-09-07T05:57:51.286Z |
-| 218 | [20200902 會議記錄](../notes/c5wpuEPaQLWwM_5vxuo_Yw.md) | 2020-09-03T06:06:08.861Z | 2020-09-01T16:48:04.086Z |
-| 219 | [Rumors-api userId & appId management proposal](../notes/ZcoUOX_-RQSkJyl5xz4_Zg.md) | 2020-08-31T05:42:56.683Z | 2020-05-07T06:20:13.962Z |
-| 220 | [20200826 會議記錄](../notes/PQf7jdWBTSiw376UMm-2Xg.md) | 2020-08-26T14:14:28.201Z | 2020-08-21T16:11:38.734Z |
-| 221 | [20200819 會議記錄](../notes/DjY6dVLxQFG6moNlM98_OQ.md) | 2020-08-25T05:40:04.771Z | 2020-08-18T05:39:31.299Z |
-| 222 | [20200812 會議記錄](../notes/eitM7s0bSSeS3kg-MAcpDw.md) | 2020-08-18T06:26:50.406Z | 2020-08-11T05:17:48.994Z |
-| 223 | [20200805 會議記錄](../notes/rEtx-47bRHeW2aM05DINDQ.md) | 2020-08-16T10:39:40.328Z | 2020-08-04T05:13:30.129Z |
-| 224 | [[Spec] 個人資訊](../notes/bbreV0ZqRDarHl4Zt5UpEw.md) | 2020-08-09T12:03:02.777Z | 2020-03-11T13:10:27.580Z |
-| 225 | [[Spec] 最新查核訊息(需複查列表)](../notes/ZZWHWi2BTuyhkSWzAvKLAw.md) | 2020-08-09T11:24:35.061Z | 2020-02-16T10:35:17.502Z |
-| 226 | [20200729 會議記錄](../notes/r3NK7xssSwCNPFxthlw7tA.md) | 2020-08-05T07:22:47.016Z | 2020-07-27T17:05:52.717Z |
-| 227 | [20200722 會議記錄](../notes/9qp8dE7dReK2q8FTeP9Feg.md) | 2020-07-29T04:52:29.742Z | 2020-07-21T17:13:40.167Z |
-| 228 | [20200708 會議記錄](../notes/ehzopA3fScSn9PjkBM79bA.md) | 2020-07-27T17:42:01.684Z | 2020-07-08T04:54:17.706Z |
-| 229 | [Cofacts Hackath40n 協作頁面](../notes/6OzPCSNsTXKKqrNSWNhg7Q.md) | 2020-07-25T09:26:10.538Z | 2020-07-21T17:50:06.663Z |
-| 230 | [Cofacts 標籤定義](../notes/D4KfdMRWS-OmCKd-Fhli2Q.md) | 2020-07-24T18:02:53.165Z | 2020-07-17T05:56:07.292Z |
-| 231 | [20200715 會議記錄](../notes/OC7BneJ3TEGJHge1hWV-0w.md) | 2020-07-21T17:23:00.260Z | 2020-07-14T18:30:34.477Z |
-| 232 | [rumors-line-bot 過去傳過訊息 implementation](../notes/eIeU2g86Tfu5VnLazNfUvQ.md) | 2020-07-10T06:24:53.359Z | 2020-03-09T09:04:00.691Z |
-| 233 | [20200701 會議記錄](../notes/U-KmeEYJTVmtCFB-bqWfGg.md) | 2020-07-08T04:53:55.503Z | 2020-06-30T15:54:40.883Z |
-| 234 | [20200617 會議記錄](../notes/ma_IUiRqToO_WJMwPfBpYw.md) | 2020-07-05T09:24:55.638Z | 2020-06-16T17:39:28.926Z |
-| 235 | [20200624 會議記錄](../notes/W16H4cLoSQ66SPQNYpmvRQ.md) | 2020-07-01T05:19:31.905Z | 2020-06-21T16:09:58.166Z |
-| 236 | [Cofacts list page refactor](../notes/h8rP0TOGTh2Clxi_Oi_QKw.md) | 2020-07-01T05:11:41.756Z | 2020-06-26T03:32:18.840Z |
-| 237 | [訊息詳情](../notes/Cx7dQo3YTQS4KwYmYCBY8w.md) | 2020-06-30T05:13:24.683Z | 2020-02-26T09:47:43.014Z |
-| 238 | [[Spec] 搜尋結果](../notes/oWSar1t0SzWo150Dsbepxw.md) | 2020-06-26T14:32:50.846Z | 2020-02-26T11:10:34.862Z |
-| 239 | [已刪除回應](../notes/dYT7zCPGQiKsTne7-kkybw.md) | 2020-06-24T14:25:01.709Z | 2020-06-24T14:24:23.693Z |
-| 240 | [20200610 會議紀錄](../notes/cavB6CnbTEydj758_WYM2A.md) | 2020-06-10T13:26:12.682Z | 2020-06-10T06:06:27.847Z |
-| 241 | [[Spec] 可疑轉傳訊息](../notes/ahtI6xsFRQyxktrIlc1VcQ.md) | 2020-06-03T14:02:21.443Z | 2020-02-26T09:37:07.538Z |
-| 242 | [[Spec] 篩選排序](../notes/wJSQCszLSGCy0f5B96td0w.md) | 2020-06-03T14:02:08.428Z | 2020-03-14T12:15:10.706Z |
-| 243 | [20200603 會議紀錄](../notes/NiScWzGyS8W3A7NEdaTpyg.md) | 2020-06-03T13:55:55.432Z | 2020-06-02T16:02:36.318Z |
-| 244 | [20200527 會議紀錄](../notes/lLInMgXDRFqfegZQYC3XIQ.md) | 2020-05-31T05:52:10.485Z | 2020-05-27T04:03:26.989Z |
-| 245 | [20200205 會議紀錄](../notes/rP4lmUZoRV6bjOSxzmW5Lw.md) | 2020-05-31T02:42:05.629Z | 2020-02-05T03:39:50.559Z |
-| 246 | [Youtube scrapping alternatives](../notes/6f87Zwo7QAOGx7rYK-QRfw.md) | 2020-05-26T05:01:41.455Z | 2020-05-21T01:21:57.297Z |
-| 247 | [Cofacts Hackath39n 協作頁面](../notes/mBapzKJXSbSHXAXsMdsWOA.md) | 2020-05-23T08:36:57.889Z | 2020-05-21T11:06:59.169Z |
-| 248 | [20200520 會議紀錄](../notes/TfMlpKYhS3-boaLTgiriYg.md) | 2020-05-20T14:05:54.889Z | 2020-05-19T18:27:09.050Z |
-| 249 | [[Spec] 遊戲化設計](../notes/XqwLr7_HS9KboeewCOIueg.md) | 2020-05-18T17:52:31.256Z | 2020-05-18T15:10:09.642Z |
-| 250 | [20200513 會議紀錄](../notes/0xqZVqKiSYaIeSYFtT5NRg.md) | 2020-05-18T17:14:18.251Z | 2020-05-13T02:57:24.086Z |
-| 251 | [Cofacts Next list pages TODO items](../notes/8qj-pd_XTN-nOYMi-5ZBnw.md) | 2020-05-13T10:14:32.521Z | 2020-05-13T06:01:14.463Z |
-| 252 | [Cofacts DB Mapping](../notes/F1K20uFNSzivBPXsKdg30Q.md) | 2020-05-07T16:36:58.732Z | 2020-05-07T08:37:21.913Z |
-| 253 | [20200429 會議紀錄](../notes/ynQn2LmoQSmQQpwidirI6g.md) | 2020-05-07T16:06:24.850Z | 2020-04-29T05:36:03.430Z |
-| 254 | [20200506 會議紀錄](../notes/KVzYgGsARZuyd3AJjJtxlA.md) | 2020-05-07T16:06:15.834Z | 2020-05-05T13:03:39.130Z |
-| 255 | [Running Cofacts on Laptop: README](../notes/6KbpTYwITdqIE-51cI6Ldg.md) | 2020-05-07T16:04:38.710Z | 2018-10-06T18:20:55.114Z |
-| 256 | [20200422 會議紀錄](../notes/gqr699jtSEGbcT_GoIiWPg.md) | 2020-04-23T02:03:52.819Z | 2020-04-21T18:09:11.799Z |
-| 257 | [20200415 會議紀錄](../notes/fRDzVwdqSduSlI-BBBK3Jg.md) | 2020-04-18T05:56:16.140Z | 2020-04-15T03:10:00.765Z |
-| 258 | [20200408 會議紀錄](../notes/pDyGj-w0QPWKdV2gp2h9LQ.md) | 2020-04-15T03:12:41.686Z | 2020-04-07T17:08:18.774Z |
-| 259 | [20200325 會議紀錄](../notes/6f12uznTQjCDRAKRyPOSxw.md) | 2020-04-12T12:41:41.244Z | 2020-03-25T01:43:30.488Z |
-| 260 | [Cofacts LIFF redesign](../notes/860RnxUGTi6z2Kca6ojAbg.md) | 2020-04-10T18:04:06.821Z | 2020-03-17T09:31:20.700Z |
-| 261 | [20190130 會議記錄](../notes/QyGoi7T1Q-mCzr42_oQLTA.md) | 2020-04-08T13:39:31.310Z | 2019-01-29T16:53:56.422Z |
-| 262 | [[Spec] 等你來答](../notes/N8I2-zkJTaS35BP8VH8ZQA.md) | 2020-04-02T15:17:02.223Z | 2020-02-26T09:47:31.518Z |
-| 263 | [20200401 會議紀錄](../notes/IS6_Qg6pQFK6uorTtatZ7w.md) | 2020-04-01T12:45:50.505Z | 2020-04-01T05:28:04.257Z |
-| 264 | [列表](../notes/iJm9_nZaTA2GyInn7ycxoA.md) | 2020-03-24T09:39:11.096Z | 2020-02-26T12:06:38.343Z |
-| 265 | [20200318 會議紀錄](../notes/eqkFjUjYTYetmvmr6d2AZQ.md) | 2020-03-18T17:10:11.069Z | 2020-03-18T07:18:59.222Z |
-| 266 | [20200311 會議紀錄](../notes/xLlqGYLoQmO9Ri-r5-w2xw.md) | 2020-03-18T07:16:32.317Z | 2020-03-11T04:17:22.881Z |
-| 267 | [導航搜尋框](../notes/W0LDSmfISfq0_1j8ZCH6rg.md) | 2020-03-14T11:31:45.437Z | 2020-02-26T11:26:14.074Z |
-| 268 | [訂閱](../notes/Rl_bVFgfQWiJnZxj9zJnrg.md) | 2020-03-14T11:28:36.621Z | 2020-03-14T11:28:11.501Z |
-| 269 | [Cofacts Hackath38n 協作頁面](../notes/Xi499UujS3-IfU9KnTbK7Q.md) | 2020-03-14T08:39:20.875Z | 2020-03-11T10:01:46.720Z |
-| 270 | [20200226 會議紀錄](../notes/-OLr4hRoQBOjtMjo947X4Q.md) | 2020-03-09T09:55:31.693Z | 2020-02-26T04:56:34.499Z |
-| 271 | [20200304 會議紀錄](../notes/-x5qyf_ER-mTiECYx0GX6g.md) | 2020-03-05T05:05:21.002Z | 2020-03-04T05:09:25.877Z |
-| 272 | [20200219 會議紀錄](../notes/sIqVRNENS5ePXrFVW4xp4g.md) | 2020-02-26T05:00:58.389Z | 2020-02-18T04:13:01.375Z |
-| 273 | [20200212 會議紀錄](../notes/AwNFa7L1QKiBPziTtYva0A.md) | 2020-02-12T14:09:05.027Z | 2020-02-12T04:46:24.069Z |
-| 274 | [20200129 會議紀錄](../notes/tkVNCWFXRyWZ2HHQ1Fe7rA.md) | 2020-01-29T14:36:02.183Z | 2020-01-29T05:09:14.253Z |
-| 275 | [20200122 會議紀錄](../notes/jWXgq3jVT8Gvl3o_HjeSdg.md) | 2020-01-29T14:34:44.384Z | 2020-01-22T05:40:59.802Z |
-| 276 | [20200115 會議紀錄](../notes/sFFVd708TC-Fk3YDgPpuMw.md) | 2020-01-18T09:21:28.069Z | 2020-01-15T05:16:28.160Z |
-| 277 | [20200108 會議紀錄](../notes/MTCDE5-cRym_OIdbzG2ZmA.md) | 2020-01-15T05:22:50.948Z | 2020-01-08T05:16:32.926Z |
-| 278 | [20200101 會議紀錄](../notes/kYsGYzB4Rd2RnOPJvgwuLA.md) | 2020-01-01T13:58:48.631Z | 2019-12-31T18:56:12.579Z |
-| 279 | [20191225 會議記錄](../notes/qFcmEpcfQqaSN2fyMeI93Q.md) | 2019-12-25T13:41:34.686Z | 2019-12-25T13:33:30.900Z |
-| 280 | [Cofacts · FtO Collaborative Homepage](../notes/F9TublsbRriZUed2NOgrhw.md) | 2019-12-21T09:30:46.339Z | 2019-12-18T12:14:23.032Z |
-| 281 | [20191218 會議記錄](../notes/kJws0_UQSfOAOjOGuXQn1w.md) | 2019-12-18T12:55:32.329Z | 2019-12-18T05:11:41.845Z |
-| 282 | [20191211 會議記錄](../notes/8ei1xlK5Rsere-dd7PKR9g.md) | 2019-12-12T05:41:16.779Z | 2019-12-11T05:12:33.609Z |
-| 283 | [20191204 會議記錄](../notes/Nkm5XLouSEKekWt8oOe1AA.md) | 2019-12-04T14:14:46.755Z | 2019-12-03T17:28:46.748Z |
-| 284 | [20191120 會議記錄](../notes/uCdEwXawTECWbnZJ5J6mYQ.md) | 2019-12-01T06:50:26.129Z | 2019-11-20T05:32:57.689Z |
-| 285 | [20191127 會議記錄](../notes/vfmBaVwMThi8BEnj_bsQAg.md) | 2019-12-01T06:02:59.582Z | 2019-11-27T05:29:46.461Z |
-| 286 | [20191113 會議記錄](../notes/m5yFYM3PT7SKeVrBqjdixA.md) | 2019-11-13T15:01:28.406Z | 2019-11-13T04:59:44.999Z |
-| 287 | [20191106 會議記錄](../notes/YnC2mA_IRz-v_2JK-M1h3Q.md) | 2019-11-06T16:55:26.830Z | 2019-11-06T05:40:02.873Z |
-| 288 | [20191002 會議記錄](../notes/aFlcWoTQR-OGePLPCX6Osw.md) | 2019-10-31T16:27:04.679Z | 2019-10-01T07:17:22.883Z |
-| 289 | [:jack_o_lantern: 20191030 會議記錄 :jack_o_lantern:](../notes/DbgrtcJ3T8KgwNAzvomK2Q.md) | 2019-10-31T16:03:31.716Z | 2019-10-30T06:30:07.185Z |
-| 290 | [20191023 會議記錄](../notes/0F9HO6kQTUiP3qrFT_w20A.md) | 2019-10-24T06:03:35.207Z | 2019-10-23T05:20:16.933Z |
-| 291 | [20191016 會議記錄](../notes/VE7wEXXSTQ245jqjwMu1_g.md) | 2019-10-23T05:20:25.836Z | 2019-10-16T05:12:58.195Z |
-| 292 | [20190925 會議記錄](../notes/oOEz-UpNQOS-n7isB45MNg.md) | 2019-09-25T15:01:34.659Z | 2019-09-24T17:34:28.541Z |
-| 293 | [20190918 會議記錄](../notes/2j_zXsDTTr-koQ6fzSHf_g.md) | 2019-09-18T14:12:25.449Z | 2019-09-18T05:43:59.495Z |
-| 294 | [20190911 會議記錄](../notes/3sK-smdoQBW6Vhw3oQCW4w.md) | 2019-09-18T05:44:21.988Z | 2019-09-09T05:50:45.068Z |
-| 295 | [20190904 會議記錄](../notes/CWKXj50SRQuCfxxlFi3STg.md) | 2019-09-09T05:50:41.079Z | 2019-09-04T05:21:17.907Z |
-| 296 | [20190828 會議記錄](../notes/z2GrR82mStaYVcceMmi8-w.md) | 2019-08-31T06:57:39.050Z | 2019-08-27T18:03:28.832Z |
-| 297 | [20190821 會議記錄](../notes/Jm3Ke0ndSCST96WOML-FXA.md) | 2019-08-21T14:28:11.421Z | 2019-08-21T04:17:58.664Z |
-| 298 | [Cofacts @ COSCUP 2019 大綱](../notes/Z5HrpQxJR0OeQkVQ0WfVbg.md) | 2019-08-16T11:24:34.109Z | 2019-08-05T05:30:07.063Z |
-| 299 | [20190814 會議記錄](../notes/gycZ5SWQQ2iRik-1GVuZXw.md) | 2019-08-15T06:12:51.487Z | 2019-08-14T06:25:56.667Z |
-| 300 | [20190807 會議記錄](../notes/t2ndWFOnRF2jB39_Fy675w.md) | 2019-08-11T19:01:07.507Z | 2019-08-07T04:20:07.331Z |
-| 301 | [20190731 會議紀錄](../notes/A40eAMBBRwGsHTH0sLwfNg.md) | 2019-07-31T15:22:19.530Z | 2019-07-30T08:51:51.215Z |
-| 302 | [20190724 會議紀錄](../notes/SLdQ6HlETYO4NWmfVYsB1g.md) | 2019-07-25T02:27:07.374Z | 2019-07-24T05:38:00.153Z |
-| 303 | [Cofacts · g0v-hackath35n 協作首頁](../notes/xEnANn8pQtS6gib_ujsSfQ.md) | 2019-07-20T03:19:03.133Z | 2019-07-19T16:30:27.534Z |
-| 304 | [20190717 會議紀錄](../notes/PM4ibZqDSsGVwml000OcIA.md) | 2019-07-17T14:23:23.567Z | 2019-07-16T14:09:15.608Z |
-| 305 | [20190703 會議記錄](../notes/s1qOUn4jSQyyagQW_sx30g.md) | 2019-07-17T13:44:38.017Z | 2019-07-03T05:50:24.863Z |
-| 306 | [20190710 會議紀錄](../notes/hm3LY2asT_CwI_M4ffR_pA.md) | 2019-07-16T14:15:02.098Z | 2019-07-10T02:41:13.417Z |
-| 307 | [20190626 會議記錄](../notes/k3m0IwCRQlCHcCX29NL0Iw.md) | 2019-06-28T15:18:18.308Z | 2019-06-26T02:48:44.510Z |
-| 308 | [20190605 會議記錄](../notes/VXMaH7tsSiWSpvYvbUTCnA.md) | 2019-06-19T06:44:32.230Z | 2019-06-05T01:08:36.422Z |
-| 309 | [20190529 會議記錄](../notes/8VmiyCx6TFOJWYqVLvjXTA.md) | 2019-05-31T01:25:29.885Z | 2019-05-28T17:11:51.263Z |
-| 310 | [20190522 會議記錄](../notes/FcKJO3pjRAGP1OfkmW-iPw.md) | 2019-05-28T17:39:12.580Z | 2019-05-21T04:19:54.367Z |
-| 311 | [Cofacts · g0v-hackath34n 協作首頁](../notes/jaExILd7Rv6oNCbOmv9fiw.md) | 2019-05-25T03:25:16.970Z | 2019-05-22T12:59:34.918Z |
-| 312 | [20190515 會議記錄](../notes/xL8fP_CeQoe6-2JGdLjnBg.md) | 2019-05-15T13:39:50.756Z | 2019-05-14T17:20:08.786Z |
-| 313 | [可以用來回應的材料](../notes/FySWZdlKTZyrLnHaL8a7KQ.md) | 2019-05-12T11:43:14.477Z | 2018-09-03T16:25:33.832Z |
-| 314 | [20190508 會議記錄](../notes/EruQorw3RXmN3P2I7y4iaA.md) | 2019-05-08T14:44:58.895Z | 2019-05-07T16:10:20.528Z |
-| 315 | [Cofacts in COSCUP 2019 Call for Proposals](../notes/gOfjy8VIRoKT6qjgusGkPA.md) | 2019-05-07T19:56:20.381Z | 2019-05-05T10:25:24.031Z |
-| 316 | [20190501 會議記錄](../notes/nmY0GxGWQ1eZ3Sd4QVnfPw.md) | 2019-05-01T13:08:23.910Z | 2019-05-01T01:42:27.709Z |
-| 317 | [20190424 會議記錄](../notes/JM0MhuzfTl-DaPmwhYZL7A.md) | 2019-04-24T14:04:00.259Z | 2019-04-21T10:23:40.344Z |
-| 318 | [20190417 會議記錄](../notes/uHY3iRZYSjOO-LSGVAgxzg.md) | 2019-04-17T13:55:19.760Z | 2019-04-17T05:38:37.311Z |
-| 319 | [20190410 會議記錄](../notes/vhIGwYnNSo-HERNsCaagFg.md) | 2019-04-14T07:11:00.500Z | 2019-04-10T12:09:30.217Z |
-| 320 | [20190327 會議記錄](../notes/2oVnJnsTQtq8mipeiYuoHw.md) | 2019-03-27T14:52:20.034Z | 2019-03-26T17:48:00.490Z |
-| 321 | [20190320 會議記錄](../notes/QffxWRuqSJ2ckO7ykoo6ZQ.md) | 2019-03-20T14:50:54.225Z | 2019-03-20T07:21:27.607Z |
-| 322 | [20190313 會議記錄](../notes/bxzNrbHOQQuIT8sfrW_kNQ.md) | 2019-03-13T14:45:11.931Z | 2019-03-13T10:53:06.377Z |
-| 323 | [20190306 會議記錄](../notes/_hlGi2owR1aiDFYOmvVDhg.md) | 2019-03-06T15:02:02.760Z | 2019-03-04T05:19:34.063Z |
-| 324 | [20190227 會議記錄](../notes/Lw4GLxLoT7e1UVAG13RdZQ.md) | 2019-02-27T14:06:52.163Z | 2019-02-27T06:33:38.052Z |
-| 325 | [20190220 會議記錄](../notes/1wmM-FIiTVSbw0BldFoZTg.md) | 2019-02-20T13:58:58.389Z | 2019-02-20T05:20:51.694Z |
-| 326 | [20190213 會議記錄](../notes/oYOBlXQCRne3GXeAqlB4Xg.md) | 2019-02-16T03:50:15.061Z | 2019-02-12T02:32:26.496Z |
-| 327 | [20190123 會議記錄](../notes/ZWtHa0RQR2W_FQ3ZyOlHRQ.md) | 2019-01-23T14:16:47.890Z | 2019-01-22T14:57:19.890Z |
-| 328 | [20190116 會議記錄](../notes/eRVchyULSY2BBP1LxV_DAg.md) | 2019-01-16T16:26:45.630Z | 2019-01-14T16:31:11.358Z |
-| 329 | [20190109 會議記錄](../notes/FmJ7ZkbVR6mPffDeQMuFGg.md) | 2019-01-14T17:19:20.088Z | 2019-01-08T15:11:39.494Z |
-| 330 | [20190102 會議記錄](../notes/c2spCIDdR6mAsqTliWF-YQ.md) | 2019-01-02T13:29:16.635Z | 2018-12-30T09:08:12.492Z |
-| 331 | [20181226 會議記錄](../notes/STB6wBxHQimcOH-Kx4728A.md) | 2018-12-26T17:55:04.703Z | 2018-12-25T17:40:11.923Z |
-| 332 | [20181219 會議記錄](../notes/K082itdJSpKksNpIj-aMvQ.md) | 2018-12-19T15:14:44.014Z | 2018-12-19T05:20:51.014Z |
-| 333 | [20181212 會議記錄](../notes/RLsQrm9uSMiDXrgPgFDlZA.md) | 2018-12-12T14:32:23.272Z | 2018-12-12T10:33:09.066Z |
-| 334 | [20181205 會議記錄](../notes/zpvD5Bo3QDG5-v4zkRR1ug.md) | 2018-12-05T14:07:56.003Z | 2018-12-05T07:47:41.710Z |
-| 335 | [20181128 會議記錄](../notes/dXhdYStIQvqfZK9E_JuKrw.md) | 2018-12-05T07:49:07.672Z | 2018-11-28T08:42:00.201Z |
-| 336 | [不斷變種的民視新聞報導](../notes/wcR2746yRjGEa_LXyfPakw.md) | 2018-12-05T06:35:59.348Z | 2018-09-03T13:39:45.913Z |
-| 337 | [《我愛家我解惑》資料庫](../notes/YMFKjT26T_KG4UunfNQQwQ.md) | 2018-11-29T05:43:18.773Z | 2018-08-29T18:26:10.745Z |
-| 338 | [11/27 公投位階高於憲法](../notes/dMlDz80PQZqfcEwXVkM_1Q.md) | 2018-11-29T05:43:04.840Z | 2018-11-29T05:25:48.300Z |
-| 339 | [前法務部長羅瑩雪白色覺醒影片](../notes/9kgv2sBYRe2fdLC5w12JKQ.md) | 2018-11-29T05:24:47.898Z | 2018-11-29T05:21:32.107Z |
-| 340 | [20181107 會議記錄](../notes/tNTr1n7ZQ6CVeVYodhZ7HQ.md) | 2018-11-28T08:54:19.615Z | 2018-11-06T17:17:07.545Z |
-| 341 | [10/14 同婚過後，父母的權利就被剝奪了](../notes/hD0b-GOYTr-qhSECRmzjHw.md) | 2018-11-27T17:56:58.117Z | 2018-10-15T16:57:35.277Z |
-| 342 | [11/27 同性戀與碳酸飲料](../notes/cP0R_lYkTMSbodgtaUoX1A.md) | 2018-11-27T16:01:09.284Z | 2018-11-27T15:59:51.099Z |
-| 343 | [11/25 子法絕對不能凌駕在民法之上](../notes/8yaR5-PAQ3G5xUqeSJOypw.md) | 2018-11-27T05:27:59.331Z | 2018-11-27T05:05:06.222Z |
-| 344 | [11/27 市府民政局對台灣守護家庭網站的指控，下福盟的回應](../notes/hzkpvsnESWiuX4slirqAmQ.md) | 2018-11-27T05:02:10.112Z | 2018-11-27T05:00:22.494Z |
-| 345 | [2016年 兩個孩子的媽](../notes/gfqYEOivSDiV_CyzmCQK9w.md) | 2018-11-20T11:17:35.499Z | 2018-09-06T17:38:42.561Z |
-| 346 | [8/22 下福盟官方 Youtube 影片](../notes/k24wY1vbQdmUs3LMGqesNw.md) | 2018-11-20T03:25:41.020Z | 2018-08-29T18:33:30.961Z |
-| 347 | [11/13 台中市一位媽媽拿著教科書問教育部官員](../notes/vC4V9_t-QaCpASZew-_orA.md) | 2018-11-19T03:36:17.023Z | 2018-11-17T01:35:53.558Z |
-| 348 | [11/5 這是一場史無前例的實境教育，即將在台灣展開 youtube](../notes/6yqt-ayaTtyOqBYbLABNXw.md) | 2018-11-17T03:07:49.525Z | 2018-11-07T05:47:42.844Z |
-| 349 | [20181114 會議記錄](../notes/7fCxxQeOTHm0snnDVJDnCA.md) | 2018-11-14T14:31:31.361Z | 2018-11-14T10:25:29.078Z |
-| 350 | [台灣百合正義會 youtube：捐血一袋，害人一命](../notes/Y_pgCwsQQyOj4a1kUJb_7Q.md) | 2018-11-13T13:59:06.493Z | 2018-10-10T14:43:13.346Z |
-| 351 | [11/8 【六色彩虹宣言】，他們主張紅色的訴求除了「性權」外，也包括廢除「惡法」](../notes/o5q09u3gSZuNELNnZI8KQg.md) | 2018-11-13T11:14:46.057Z | 2018-11-08T14:29:59.038Z |
-| 352 | [10/31 同運人士嚷嚷【你的孩子不是你的孩子】+ 22 項爭議性平教材](../notes/11KSehakRUqB_O5oDW4-JQ.md) | 2018-11-12T07:25:37.232Z | 2018-11-02T19:34:24.648Z |
-| 353 | [逆向歧視](../notes/fVRplrj7Raa2bisqO8CeRA.md) | 2018-11-08T17:43:13.854Z | 2018-09-03T16:18:36.698Z |
-| 354 | [11/7 淫腸綜合症](../notes/sYvnziDAQKWlfxqW_HtgBw.md) | 2018-11-08T14:01:51.598Z | 2018-11-08T13:40:51.580Z |
-| 355 | [11/8 要傳給台中人看，林佳龍是性平委員會主委，主張同婚及同性戀](../notes/5J5lcqZlR_q_oSpk3CzpsQ.md) | 2018-11-08T13:58:30.290Z | 2018-11-08T13:48:33.902Z |
-| 356 | [10/25 驚！辦過多P和約炮講座的團體居然入班教學！！！](../notes/1LmWn97CRT-i1Qk9Yw17LA.md) | 2018-11-08T13:46:52.599Z | 2018-11-02T20:13:12.142Z |
-| 357 | [性別意識危害兒少，提倡性別重整手術的人正在促長精神疾病](../notes/6j4BIcRSSdm7s-h9qS9_dg.md) | 2018-11-08T09:51:22.086Z | 2018-10-12T17:21:22.656Z |
-| 358 | [10/14 2005年疾管署官員敢說此事實的勇氣](../notes/Vhgp69whRt62IpdWGgF5YA.md) | 2018-11-08T06:09:30.445Z | 2018-10-14T18:07:12.910Z |
-| 359 | [11/2 民法972修法牽涉太多社會問題，背後的同運團體應該有很大的企業在影響](../notes/01aOfBusS3uqvljzHPbBkQ.md) | 2018-11-07T13:08:06.596Z | 2018-11-02T19:22:24.119Z |
-| 360 | [11/5 同性婚姻侵犯同二代天賦人權](../notes/gz1OvcRjQ5y2ficc5fHIKg.md) | 2018-11-07T05:45:24.641Z | 2018-11-07T05:39:49.136Z |
-| 361 | [11/1 「國中小課本的同志教育內容」旁白氣噗噗 youtube](../notes/5BuVYQzvRpaNF-3eZViYzg.md) | 2018-11-07T05:35:00.766Z | 2018-11-02T19:12:55.317Z |
-| 362 | [10/19 這裡面有陰謀的，是一群性解放團體打著性別平等的口號，實際他們想要的是性解放](../notes/HUmlGG-SRRGK8q-6BtHbcw.md) | 2018-11-07T04:58:16.642Z | 2018-11-02T20:39:11.093Z |
-| 363 | [（很久以前的）護家盟記者會](../notes/3XXJv022QemfEXZZuyOF7g.md) | 2018-11-06T06:04:15.431Z | 2018-10-24T13:37:10.635Z |
-| 364 | [10/28 「為什麼「婚姻」必須是「一夫一妻」？」youtube](../notes/YNVDLfPBR_a7rnShckFTRQ.md) | 2018-11-06T04:12:48.541Z | 2018-10-30T15:25:23.487Z |
-| 365 | [11/3 老師教小三生戴保險套 高雄家長聯盟抗議](../notes/wqVpNvqOT8GOT-Ux8xhdtg.md) | 2018-11-06T02:11:20.119Z | 2018-11-03T19:09:54.756Z |
-| 366 | [曾有文／全球愛滋病患感謝台灣健保！](../notes/rE10E-BcS1W6FGmmoCGpbg.md) | 2018-11-05T17:51:46.544Z | 2018-10-10T13:04:13.432Z |
-| 367 | [9/12 下福盟官方 LINE 新聞稿：適齡性平教育](../notes/HrVcxJpcS0SgO1HKwwAF8A.md) | 2018-11-05T17:51:35.505Z | 2018-10-12T17:36:22.570Z |
-| 368 | [加拿大公立學校的性傾向及性別認同課程](../notes/mrsydmcAQkGasHYtWTLsGQ.md) | 2018-11-05T17:51:27.623Z | 2018-10-10T14:37:10.294Z |
-| 369 | [10/24 itw999.tw 性平教育性平教慾](../notes/HjwaoyqYSGarXAsWeTCfWQ.md) | 2018-11-05T17:50:59.726Z | 2018-11-02T20:31:54.927Z |
-| 370 | [10/25 您若看過中小學的教科書，上面竟然有圖片教小學生如何自衛，如何進行性行為](../notes/gOOgMgCgRSWyzo6H18s1Bg.md) | 2018-11-05T17:50:53.115Z | 2018-11-02T20:22:18.209Z |
-| 371 | [10/30 一個愛滋病患的故事 - 樹葬](../notes/Dw47cXTJRYCS6E7FZ3KNvg.md) | 2018-11-05T17:50:37.861Z | 2018-11-02T19:14:41.612Z |
-| 372 | [10/30 《真的很擔憂下一代》無法接受現在課本，早已偏移性別教育教綱](../notes/YS43ONuFRCaRxOqOqrP3aQ.md) | 2018-11-05T17:50:31.412Z | 2018-11-02T19:30:42.161Z |
-| 373 | [10/30 旌旗教會「給同運人士的一封信」影片](../notes/b5nunPIjS1uhjAHDKFpbSw.md) | 2018-11-05T17:50:26.821Z | 2018-11-02T19:59:35.794Z |
-| 374 | [11/2 台中市政府所有轄下單位，含教育局，都在力推有同志教育在內的「性平教育」](../notes/N_Pcoh0DQquukUAJwKEiEQ.md) | 2018-11-05T17:50:16.799Z | 2018-11-02T19:16:37.912Z |
-| 375 | [11/4 如果愛家公投沒有達到500萬同意票會發生甚麼事?](../notes/7jZrAM2yTRGAiLWP9HfWzw.md) | 2018-11-05T17:50:09.070Z | 2018-11-04T08:04:54.859Z |
-| 376 | [不知所云的927憲法 (?)](../notes/6y97xlr5TU2sd12Q1ZRW9w.md) | 2018-11-05T17:49:14.392Z | 2018-10-12T17:07:03.647Z |
-| 377 | [8/31 反同「被騙」同意票宣傳](../notes/aDRrQmOSQS-UvETQj3QrfQ.md) | 2018-11-05T17:49:07.378Z | 2018-09-02T11:16:59.835Z |
-| 378 | [彩虹愛家志工招募](../notes/yifjRyxxR-eoCItrpzKq_w.md) | 2018-11-05T17:49:02.362Z | 2018-10-10T12:52:55.523Z |
-| 379 | [李天柱「同性戀滅絕人類」 爆同婚比木馬程式更毒](../notes/WHsfMbXbRX6W693gTEqeNg.md) | 2018-11-05T17:48:57.341Z | 2018-10-10T15:06:39.623Z |
-| 380 | [整個大學都在情慾大解放，心很痛](../notes/1UGlRqEOQaGZQQldYBBLiw.md) | 2018-11-05T17:48:40.939Z | 2018-10-12T17:28:27.647Z |
-| 381 | [領公投票反對同志教育的宣傳](../notes/D83e8SmcRqKnJZD6iW_OOg.md) | 2018-11-05T17:48:25.683Z | 2018-10-12T16:23:05.235Z |
-| 382 | [10/22 11/24日同性戀合法化公投如何阻止？](../notes/Ks9oEopKR9GiOQuM0bJQvA.md) | 2018-11-05T17:48:15.199Z | 2018-11-02T20:34:41.431Z |
-| 383 | [10/23 同志遊行與愛滋捐血相關](../notes/b6xau3NpTUSNZ3GtsPTOeA.md) | 2018-11-05T17:48:08.176Z | 2018-10-24T14:34:05.775Z |
-| 384 | [10/23 長度 03:53 的 LINE 錄音](../notes/J_ZiZ415RSWAvMlV1ZJ2MQ.md) | 2018-11-05T17:48:03.623Z | 2018-10-24T13:55:24.556Z |
-| 385 | [10/23 大法官已釋憲，如果年底公投沒有500萬票](../notes/vSxBQDyrTCSIk71Zn_5qTw.md) | 2018-11-05T17:47:58.092Z | 2018-10-26T10:26:40.298Z |
-| 386 | [10/23 此普悠瑪出軌事故好像上帝在對台灣說台灣不要再出軌了](../notes/bMvzrAYSTE2bS6H34MS1Iw.md) | 2018-11-05T17:47:50.426Z | 2018-11-02T20:24:42.676Z |
-| 387 | [10/23 男同性戀者要藉捐血讓2300萬人得愛滋病!!!](../notes/UOhLRGE-RPaujcqb6MvEkw.md) | 2018-11-05T17:47:45.400Z | 2018-11-02T20:26:08.672Z |
-| 388 | [10/23 靈糧堂 - 下一代未來，取決於你 Youtube](../notes/fmhS8HqkTz21md2370BPig.md) | 2018-11-05T17:47:41.376Z | 2018-11-02T18:20:33.506Z |
-| 389 | [10/23 「自慰是人類開始呈現的一種方法」教案](../notes/1jqP21nXTxKdcWIeiXezpA.md) | 2018-11-05T17:47:30.529Z | 2018-11-02T20:33:10.817Z |
-| 390 | [10/24 鏡傳媒「我從哪裡來」繪本報導](../notes/xc6s5exBSUaiGmy4DjJfIA.md) | 2018-11-05T17:47:24.519Z | 2018-10-24T14:07:10.010Z |
-| 391 | [10/31 性教育手冊太露骨 學童廁所實戰　射精嚇壞](../notes/JOzebn0nR2u_335KzsQNWw.md) | 2018-11-05T17:47:14.481Z | 2018-11-02T19:45:23.748Z |
-| 392 | [10/25 法國家庭組織：同婚已讓「婚姻」兩字亳無意義](../notes/rLJjd2X5QgSK0ZEqOiI_OQ.md) | 2018-11-05T17:47:01.712Z | 2018-11-02T20:14:24.085Z |
-| 393 | [10/25 主動領10、11、12蓋同意，還要主動領14、15蓋不同意哦～](../notes/o5_pLQ5UTxS1D0EAQjE7fw.md) | 2018-11-05T17:46:54.670Z | 2018-11-02T20:23:42.206Z |
-| 394 | [10/26 沒有父母稱謂也沒有叔叔嬸嬸 / 民法將要去「男女」，改為「二人」；去「夫妻」，改為「伴侶」](../notes/QgVpvBckRseeDAF8pt8Cfw.md) | 2018-11-05T17:46:47.660Z | 2018-11-02T19:31:42.189Z |
-| 395 | [10/27 昨天晚上台北新店行道會教會張茂松牧師說](../notes/XqLpU4mBQGGioF7LgR90vg.md) | 2018-11-05T17:46:39.625Z | 2018-11-02T20:07:18.627Z |
-| 396 | [10/27 驚！台灣愛滋感染　亞洲四小龍之冠](../notes/DM6uS1tWQk2v6JqS7uGNiw.md) | 2018-11-05T17:46:30.362Z | 2018-11-02T20:08:43.422Z |
-| 397 | [10/28 明年5月份開始我們的小孩就會在學校被強迫上同志教育](../notes/EYOCgg5UQ02csjVjnkxELg.md) | 2018-11-05T17:46:16.317Z | 2018-11-02T20:03:28.524Z |
-| 398 | [10/29 「嚴謹的科學、醫學研究」卻沒有出處](../notes/p5tmlIXgSFiO2VO_OccUGw.md) | 2018-11-05T17:46:10.610Z | 2018-10-30T04:58:03.573Z |
-| 399 | [10/30 愛滋病是少部份個人或群體自求變性或亂性的私人情欲](../notes/veyzsJ1eQwCEctHv2fk7rQ.md) | 2018-11-05T17:46:02.590Z | 2018-10-30T15:59:38.106Z |
-| 400 | [10/30 「一個年輕人在24歲發現得了愛滋」算醫藥費](../notes/CIyQFqAbRhWCx7CIdtKw9g.md) | 2018-11-05T17:45:56.539Z | 2018-11-02T19:49:00.499Z |
-| 401 | [10/31 彩虹大遊行暴露身體傷風敗俗](../notes/clW62_8PR7uevvcIGA8beA.md) | 2018-11-05T17:45:35.235Z | 2018-11-02T19:37:33.596Z |
-| 402 | [10/30 法國法國20萬人上街頭要求廢除「同性婚姻法」](../notes/PXtXPytOSV-TYyMoQKUCaw.md) | 2018-11-05T17:45:26.192Z | 2018-11-02T19:39:26.355Z |
-| 403 | [10/31 民視報導考古學家說找到舊約聖經的所多瑪~淫亂罪惡大城](../notes/SIZFO4SyRbSe3Z3spc5H2w.md) | 2018-11-05T17:45:19.412Z | 2018-11-02T19:46:53.038Z |
-| 404 | [10/31 我之前是做外國人、外籍老師仲介，很多國外有愛滋病的都來臺灣](../notes/KrrtYJXRQNuMFBzt-6AtCA.md) | 2018-11-05T17:45:13.390Z | 2018-11-02T19:55:44.364Z |
-| 405 | [11/1 Eliza 媽媽性教育公投](../notes/Bs6qCeLfQUKqrJQ21O9LMw.md) | 2018-11-05T17:45:06.553Z | 2018-11-02T19:24:45.908Z |
-| 406 | [11/2 北美同志旅遊業者赴台熟悉旅遊機票採購](../notes/6GAaLQVjTIK76-0DewHmVw.md) | 2018-11-05T17:44:44.589Z | 2018-11-02T18:18:30.273Z |
-| 407 | [11/2 11/24為了下一代投同意票 Youtube](../notes/V8V2flTjRdO6rFvxBNAaPg.md) | 2018-11-05T17:44:37.567Z | 2018-11-02T18:21:47.464Z |
-| 408 | [11/3 昨天ㄧ位媽媽去地檢署按鈴申告，小六大兒子被強迫跟另外一個女生練習自慰](../notes/HJKZCB3XQrCDKn4hq3d-zQ.md) | 2018-11-05T17:44:30.535Z | 2018-11-03T18:44:42.422Z |
-| 409 | [10/24 性教育到底該從幾歲開始？又該如何拿捏？讓家長、老師、主管機關很頭痛，國外也一樣](../notes/LYI9EOa6S7-nGPYGeQX0Qg.md) | 2018-11-04T13:21:06.607Z | 2018-11-02T20:28:24.745Z |
-| 410 | [11/2 23 項課本爭議內容](../notes/zN7J7rNWR1y1I7EfJFdglw.md) | 2018-11-03T04:14:05.375Z | 2018-11-02T18:17:14.941Z |
-| 411 | [10/26 沒有父母稱謂 只有雙親一，雙親二，以後也沒有叔叔嬸嬸等稱謂了](../notes/iSOcVmiNT3G-EdYlfY8k0w.md) | 2018-11-03T03:09:40.043Z | 2018-11-02T20:10:57.485Z |
-| 412 | [10/24 【性教育衝過頭】教材太寫實　有學童在廁所實戰操演](../notes/bygCKYL4Q-2CccF0Ilemsg.md) | 2018-11-02T20:54:45.422Z | 2018-11-02T20:27:09.218Z |
-| 413 | [20181031 會議記錄](../notes/lEiRuvonTCiCRq4dvmBxZg.md) | 2018-10-31T14:11:24.453Z | 2018-10-31T01:50:30.958Z |
-| 414 | [20181024 會議記錄](../notes/nRRlIkzMQYy5RPd-15T4vw.md) | 2018-10-30T03:56:59.255Z | 2018-10-24T05:11:27.222Z |
-| 415 | [20181017 會議記錄](../notes/bgBSL7aYRziLDvSZzYp1Ww.md) | 2018-10-22T16:19:17.187Z | 2018-10-16T17:53:20.648Z |
-| 416 | [20181010 會議記錄](../notes/AzZMgKyeRLGhckfvxsg0bA.md) | 2018-10-10T15:06:25.025Z | 2018-10-10T06:25:59.328Z |
-| 417 | [FB Group 的正確打開方式](../notes/cnH6nDXfSriLdiRT-nB9Sw.md) | 2018-10-10T12:52:21.685Z | 2018-09-02T01:58:27.718Z |
-| 418 | [g0v summit 2018 《沒有人來做 Cofacts 編輯啦》 Rundown](../notes/lZp68U0yQDevFXceQSdLEw.md) | 2018-10-05T07:38:33.623Z | 2018-09-30T09:31:17.379Z |
-| 419 | [《沒有人要做 Cofacts 編輯啦！》Workshop 用文](../notes/Jmhj7ptnSyWwAc6I7RzzDw.md) | 2018-10-03T17:23:36.846Z | 2018-10-03T17:23:24.044Z |
-| 420 | [[TEST RUN]《沒有人要做 Cofacts 編輯啦！》Workshop 用文](../notes/ICJ0IT6PSVSWyXg8fKrv2w.md) | 2018-10-03T17:15:16.261Z | 2018-09-30T11:48:56.703Z |
-| 421 | [20181003 會議記錄](../notes/vqSq3364R5uu2AXcB5GlOQ.md) | 2018-10-03T09:52:54.000Z | 2018-09-29T15:41:37.196Z |
-| 422 | [20180926 會議記錄](../notes/NGg-X7OLQW674bZAbdvyUA.md) | 2018-09-26T14:51:06.230Z | 2018-09-26T06:48:44.105Z |
-| 423 | [20180919 會議記錄](../notes/7GfT5p0MSVmoWrwgNEft8g.md) | 2018-09-19T15:15:09.033Z | 2018-09-19T03:17:38.319Z |
-| 424 | [20180912 會議記錄](../notes/At7YimndTOWcS1Zej0UHYQ.md) | 2018-09-19T03:17:22.515Z | 2018-09-12T03:12:30.584Z |
+| 1 | [20240117 會議記錄](../notes/wg2iF9fARBCREZ1gTauvUw.md) | 2024-01-17T20:33:45+08:00 | 2024-01-17T14:43:10+08:00 |
+| 2 | [Cofacts・台灣選務謠言筆記 hackath60n 協作頁面](../notes/TnZpbsAeT1GGPcTStcl8Kw.md) | 2024-01-06T16:17:09+08:00 | 2024-01-06T00:46:57+08:00 |
+| 3 | [台灣選制、選務謠言筆記](../notes/7gWyvTDYRFuzup1RECnr5A.md) | 2024-01-06T14:53:12+08:00 | 2023-12-08T15:25:01+08:00 |
+| 4 | [20240103 會議記錄](../notes/Oc68Wf3yRIm5UC7IeN6Pcg.md) | 2024-01-05T03:17:32+08:00 | 2024-01-03T02:26:29+08:00 |
+| 5 | [20231228 會議記錄](../notes/vKCvrqSQTlm7GEx9MAXGaw.md) | 2024-01-03T18:44:04+08:00 | 2023-12-27T02:19:54+08:00 |
+| 6 | [20231220 會議記錄](../notes/kxGE_l7XT4ePTO1ljmtNkQ.md) | 2023-12-20T21:11:53+08:00 | 2023-12-20T03:19:13+08:00 |
+| 7 | [20231213 會議記錄](../notes/0Ta4gitcTJCY2Lnwll0qrw.md) | 2023-12-20T19:59:19+08:00 | 2023-12-13T02:32:18+08:00 |
+| 8 | [Cofacts・台灣選務謠言筆記 hackath59n 協作頁面](../notes/I7J17SoFRvWyxRuAecoS1w.md) | 2023-12-09T16:34:51+08:00 | 2023-12-06T03:11:38+08:00 |
+| 9 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2023-12-06T19:45:25+08:00 | 2022-08-05T10:46:53+08:00 |
+| 10 | [Cofacts article group design doc](../notes/f_Ze19PhQuqx_fzOAOkohQ.md) | 2023-12-03T01:13:23+08:00 | 2022-10-04T07:42:45+08:00 |
+| 11 | [20231122 會議記錄](../notes/RRRZSBSKRLCm3fBnHG1j9g.md) | 2023-11-22T20:49:06+08:00 | 2023-11-21T12:49:13+08:00 |
+| 12 | [20231115 會議記錄](../notes/vAUg0WtvTAi0rzJ7E1spnQ.md) | 2023-11-18T13:59:39+08:00 | 2023-11-15T02:28:00+08:00 |
+| 13 | [20231108 會議記錄](../notes/oz-49rOSSPW3J8AbG0yRSA.md) | 2023-11-15T19:40:05+08:00 | 2023-11-08T12:55:10+08:00 |
+| 14 | [20231101 會議記錄](../notes/g4Ikla2NQESsGM05-wiyNg.md) | 2023-11-01T20:52:36+08:00 | 2023-11-01T12:32:34+08:00 |
+| 15 | [20231025 會議記錄](../notes/ZOZrbHxEQV25eP7a4dxzYw.md) | 2023-10-25T21:06:48+08:00 | 2023-10-25T02:48:52+08:00 |
+| 16 | [Cofacts crowd-sourced transcript design doc](../notes/OhGIQzoxR5eF6audQuS_FQ.md) | 2023-10-25T14:06:01+08:00 | 2022-08-28T16:38:50+08:00 |
+| 17 | [20231018 會議記錄](../notes/v4taAFAtRt6EOMGGMa7Btw.md) | 2023-10-19T11:23:02+08:00 | 2023-10-18T11:35:46+08:00 |
+| 18 | [20231011 會議記錄](../notes/t9ypB87SQBuMjjW_PheZVg.md) | 2023-10-18T11:34:35+08:00 | 2023-10-10T18:57:29+08:00 |
+| 19 | [Cofacts hackath58n 協作頁面](../notes/hb5doTr1Re2OjGFCO2Ob8w.md) | 2023-10-15T16:12:55+08:00 | 2023-10-14T19:46:48+08:00 |
+| 20 | [20231004 會議記錄](../notes/XRzWTxjVTFWI8JNzLVh9lQ.md) | 2023-10-11T19:02:04+08:00 | 2023-10-04T00:03:11+08:00 |
+| 21 | [20230927 會議記錄](../notes/Eu2AOPXnTzixK6qt7t4ikg.md) | 2023-09-27T21:14:57+08:00 | 2023-09-27T01:14:37+08:00 |
+| 22 | [20230921 會議記錄](../notes/ulv1SGtBRWmhxnE9Lpv9TQ.md) | 2023-09-24T23:23:08+08:00 | 2023-09-20T23:59:17+08:00 |
+| 23 | [Cofacts  Hypercerts](../notes/1ZqfFBAdQFSH3Z5O4G3pMg.md) | 2023-09-22T20:23:38+08:00 | 2023-09-22T20:20:26+08:00 |
+| 24 | [20230917 Cofacts 真的假的 第 38 次查核小聚 小松果](../notes/lXd4Ypg_S12HLxs5z9wAkQ.md) | 2023-09-21T19:42:05+08:00 | 2023-09-17T13:38:44+08:00 |
+| 25 | [20230913 會議記錄](../notes/ZDlTB7buRUqIG9c3wMOkRQ.md) | 2023-09-17T13:23:04+08:00 | 2023-09-13T12:37:12+08:00 |
+| 26 | [Translation Cofacts video](../notes/Jcer4KcJQJiFLQS4cF1Qwg.md) | 2023-09-14T15:34:28+08:00 | 2021-03-20T10:49:17+08:00 |
+| 27 | [20230907 會議記錄](../notes/GHKWDHGITHaKeBzQdVf5pA.md) | 2023-09-07T20:45:28+08:00 | 2023-09-06T23:39:15+08:00 |
+| 28 | [วิธีการใช้งาน COFACT.ORG / 如何使用 COFACT.ORG](../notes/2lYi8f6PSYyCfBw1MPGtQA.md) | 2023-09-02T16:20:54+08:00 | 2023-09-02T16:18:50+08:00 |
+| 29 | [20230831 會議記錄](../notes/K02x8V48TDmiPdwXtWCZSQ.md) | 2023-08-31T20:53:45+08:00 | 2023-08-31T13:37:56+08:00 |
+| 30 | [對話整理樣板：一句話描述這篇](../notes/lr3q2O7eRZqevdNewpZ1Yg.md) | 2023-08-27T17:07:10+08:00 | 2018-10-10T20:27:35+08:00 |
+| 31 | [Cofacts Hackath57n 協作頁面](../notes/uO2pc1SlQCqtK7WZBknBZw.md) | 2023-08-26T23:07:54+08:00 | 2023-08-26T14:49:11+08:00 |
+| 32 | [20230823 會議記錄](../notes/Fmkhf62_SKGIlwwwLrRnAw.md) | 2023-08-24T02:28:12+08:00 | 2023-08-23T17:05:16+08:00 |
+| 33 | [20230817 會議記錄](../notes/5Pn97RTPTpmsrW4opnSKNA.md) | 2023-08-17T21:00:48+08:00 | 2023-08-17T12:57:08+08:00 |
+| 34 | [Cofacts API access management](../notes/51wwLHgvSUqtBDaP-yAVnA.md) | 2023-08-10T02:48:05+08:00 | 2021-01-19T22:33:07+08:00 |
+| 35 | [Cofacts Huggingface 資料集評估 By Teemo](../notes/p-4gLJ-ASe-0wzp_G6h7TQ.md) | 2023-08-01T11:21:40+08:00 | 2023-07-05T21:56:48+08:00 |
+| 36 | [20230719 會議記錄](../notes/EfM4Xqn4TA-nIXF8Njjovg.md) | 2023-07-19T20:51:24+08:00 | 2023-07-19T03:19:07+08:00 |
+| 37 | [20230712 會議記錄](../notes/hZ4I3iFfSPGr9JROtBZNzQ.md) | 2023-07-12T21:23:40+08:00 | 2023-07-12T17:36:29+08:00 |
+| 38 | [Cofacts 第 36 次小聚小松果](../notes/DACiWe7XQnS4fo7v0OX4pg.md) | 2023-07-12T18:56:45+08:00 | 2023-07-09T14:03:10+08:00 |
+| 39 | [20230705 會議記錄](../notes/LxNqtaRhQbqkSFMsLShAiQ.md) | 2023-07-09T13:29:50+08:00 | 2023-07-05T02:50:01+08:00 |
+| 40 | [20230607 會議記錄](../notes/dkyaltHuSp6jPPw9oL4Wig.md) | 2023-07-01T23:21:29+08:00 | 2023-06-07T03:20:26+08:00 |
+| 41 | [Cofacts Hackath56n 協作頁面](../notes/UpvWnVNKREmzgS1jmy3-0A.md) | 2023-07-01T16:38:29+08:00 | 2023-07-01T01:53:36+08:00 |
+| 42 | [Cofacts GA4 Migration design doc](../notes/cJFFXVzgT4OFT6bBLtulGg.md) | 2023-06-27T14:38:59+08:00 | 2023-01-31T09:42:15+08:00 |
+| 43 | [20230614 會議記錄](../notes/hT9OKQYJRcqPgC18U4csuw.md) | 2023-06-14T20:51:53+08:00 | 2023-06-14T03:01:48+08:00 |
+| 44 | [How to organize an editor’s meetup](../notes/s7Hb2sSATq-1z68Nhl6a2w.md) | 2023-06-12T21:32:00+08:00 | 2018-10-05T13:37:52+08:00 |
+| 45 | [「說這話的人，幾天後被砸死」的中國訊息 - MrOrz](../notes/4TaassszRQmoBZIH_7TPog.md) | 2023-06-12T21:27:07+08:00 | 2023-06-08T10:41:25+08:00 |
+| 46 | [Cofacts Editors’ Gathering Guidelines and Policy](../notes/oT1pmA5ETQWuooNU0GnVAw.md) | 2023-06-12T21:25:12+08:00 | 2018-10-05T13:35:07+08:00 |
+| 47 | [Cofacts Editors’ Guideline and Policy](../notes/T_XuC8JcR_-cxuF0VU1pXA.md) | 2023-06-12T21:25:03+08:00 | 2018-10-05T13:33:40+08:00 |
+| 48 | [Cofacts Database: Step-by-step Tutorial](../notes/OCxsEsUSQt2OnGfxDPfjoA.md) | 2023-06-12T21:24:57+08:00 | 2018-10-05T13:23:25+08:00 |
+| 49 | [First Step For Cofacts Editor](../notes/z7PY2mQeSMyWBoZpaVhAPg.md) | 2023-06-12T21:24:53+08:00 | 2018-10-05T13:15:19+08:00 |
+| 50 | [Frequently Asked Questions](../notes/E6ZsE8csSI6_PbMZzmXhTg.md) | 2023-06-12T21:24:48+08:00 | 2018-10-05T13:04:22+08:00 |
+| 51 | [Cofacts LINE Bot User Manual](../notes/WhGyJgyBQJi_JtGlBcevRA.md) | 2023-06-12T21:24:44+08:00 | 2018-10-05T12:36:25+08:00 |
+| 52 | [Cofacts Tutorial](../notes/Waz-B9sORSOPLp6nAOS82w.md) | 2023-06-12T21:24:39+08:00 | 2018-10-04T17:53:48+08:00 |
+| 53 | [Manual for Cofacts LINE bot collaboration / Bug Report Group](../notes/mF_43o89SOSzAmb6DyaJBA.md) | 2023-06-12T21:24:23+08:00 | 2018-10-05T13:38:48+08:00 |
+| 54 | [Cofacts Design Decision](../notes/ZNzzDKzOS1-CUi67EVJwig.md) | 2023-06-12T21:24:18+08:00 | 2018-10-05T13:40:44+08:00 |
+| 55 | [Cofacts Editor On-boarding SOP](../notes/0-QjXPxURka8hrPDmKYP7w.md) | 2023-06-12T21:24:03+08:00 | 2018-10-05T13:36:53+08:00 |
+| 56 | [《沒有人要做 Cofacts 編輯啦！》Workshop 會後](../notes/a-SpuZ_WQSGMA1TmiWnXIg.md) | 2023-06-12T21:23:43+08:00 | 2018-10-06T10:16:37+08:00 |
+| 57 | [20230531 會議記錄](../notes/luIa-z9HToC2zlFpD9yK3w.md) | 2023-05-31T21:31:01+08:00 | 2023-05-31T13:27:12+08:00 |
+| 58 | [20230524 會議記錄](../notes/d-3Itg9jTb61ZYWEVnRqsg.md) | 2023-05-27T13:36:22+08:00 | 2023-05-23T22:43:39+08:00 |
+| 59 | [20230517 會議記錄](../notes/hn7Zy2X1QKuM8Kb5K6d4pA.md) | 2023-05-17T21:03:02+08:00 | 2023-05-17T02:15:39+08:00 |
+| 60 | [20230511 會議記錄](../notes/joEUsABVRr2aMQqD-Z8ixQ.md) | 2023-05-17T13:40:08+08:00 | 2023-05-10T01:11:12+08:00 |
+| 61 | [Cofacts multimedia support research](../notes/aJqHn8f5QGuBDLSMH_EinA.md) | 2023-05-10T17:16:54+08:00 | 2021-08-26T01:31:40+08:00 |
+| 62 | [Generative AI 如何幫助 Fact check](../notes/RLpf-11GTCGWtMpKUQalQw.md) | 2023-05-08T02:49:02+08:00 | 2023-05-07T13:49:18+08:00 |
+| 63 | [20230503 會議記錄](../notes/SHMhOYbBQ4Sjb5N41lsqMg.md) | 2023-05-03T21:26:21+08:00 | 2023-05-03T01:47:38+08:00 |
+| 64 | [Cofacts preview generation](../notes/gu_hAI6tTeaeBuNUgGpq-g.md) | 2023-04-07T10:24:21+08:00 | 2023-02-04T01:12:01+08:00 |
+| 65 | [20230319 Cofacts 真的假的 35th 小松果](../notes/zKmBJn2sTcGtUqtCP0NluA.md) | 2023-03-20T13:28:54+08:00 | 2023-03-19T10:58:14+08:00 |
+| 66 | [Cofacts Data Usage](../notes/CfWAEl5xTUG8jSlwBVdN-w.md) | 2023-03-01T13:29:17+08:00 | 2022-11-16T10:44:45+08:00 |
+| 67 | [Cofacts Google Analytics 4 migration research](../notes/QRRlVa_URk-wT0QqahLN-w.md) | 2023-02-26T12:18:43+08:00 | 2022-05-13T22:11:44+08:00 |
+| 68 | [Cofacts anti SEO-spam mechanism](../notes/XBJS-KEtScWyVCuQ9P_iNQ.md) | 2023-02-15T14:35:09+08:00 | 2022-11-23T14:01:48+08:00 |
+| 69 | [Cofacts chatbot error analysis 2023/01/21 ~](../notes/mkb9Wr_2SrCbbiLCv_7-EQ.md) | 2023-02-14T20:39:10+08:00 | 2023-02-03T12:06:29+08:00 |
+| 70 | [20230131 會議記錄](../notes/iGqCnbuoQfKlZLTNEyM3dw.md) | 2023-02-06T23:32:03+08:00 | 2023-01-31T08:52:03+08:00 |
+| 71 | [Cofacts 會議記錄 (已移動)](../notes/u3dHh69PTHWTwsLWjUEMNA.md) | 2023-02-05T02:03:41+08:00 | 2020-06-10T13:42:05+08:00 |
+| 72 | [20230118 會議記錄](../notes/uBKnDEn0TxeplRUE5BXEsQ.md) | 2023-01-18T21:28:02+08:00 | 2023-01-18T01:40:43+08:00 |
+| 73 | [20230111 會議記錄](../notes/vfsdHNS2R0-XhYyy2Lphbw.md) | 2023-01-15T13:54:07+08:00 | 2023-01-11T01:45:42+08:00 |
+| 74 | [20230104 會議記錄](../notes/OVi9dcfGTSusdskezsphFA.md) | 2023-01-09T10:31:08+08:00 | 2023-01-03T13:18:00+08:00 |
+| 75 | [20221228 會議記錄](../notes/6c3CpKXhQwOtFX8kf31ePA.md) | 2022-12-28T22:04:20+08:00 | 2022-12-28T08:28:23+08:00 |
+| 76 | [20221221 會議記錄](../notes/yQkG7XW7TXaB4pdjU5s3dg.md) | 2022-12-26T23:54:45+08:00 | 2022-12-21T10:26:33+08:00 |
+| 77 | [20221214 會議記錄](../notes/qWt5V0kYSJCyJxO8epITnw.md) | 2022-12-14T21:11:51+08:00 | 2022-12-14T02:45:54+08:00 |
+| 78 | [20221207 會議記錄](../notes/VVIOZobARkegK3vxYdG52Q.md) | 2022-12-14T20:35:03+08:00 | 2022-12-07T02:39:16+08:00 |
+| 79 | [20221130 會議記錄](../notes/wO4db9f6QNSX71_iTMFSpg.md) | 2022-12-03T11:13:19+08:00 | 2022-11-30T00:38:19+08:00 |
+| 80 | [20221123 會議記錄](../notes/SS2HXEoGTqOgmZHKdJcTFA.md) | 2022-11-23T20:56:02+08:00 | 2022-11-23T01:23:43+08:00 |
+| 81 | [20221116 會議記錄](../notes/R2Yr4tgbQ6SYYxquU8Ysmg.md) | 2022-11-23T15:51:07+08:00 | 2022-11-16T00:47:46+08:00 |
+| 82 | [20221120 Cofacts 真的假的 33rd 查核協作者小聚](../notes/h-F8cy3mSKesQhDHspll6g.md) | 2022-11-20T21:12:08+08:00 | 2022-11-20T13:09:34+08:00 |
+| 83 | [20221109 會議記錄](../notes/nNjUnOgRTqOa2dDcqF67KA.md) | 2022-11-09T21:27:38+08:00 | 2022-11-09T02:18:51+08:00 |
+| 84 | [20221102 會議記錄](../notes/QPTHTIGEQpGgyYrDxNOMCQ.md) | 2022-11-09T16:21:22+08:00 | 2022-11-01T23:56:32+08:00 |
+| 85 | [2022/10 Facebook login incident report](../notes/K_sfKNZjRG-pSsQrEAGhEA.md) | 2022-10-30T00:07:34+08:00 | 2022-10-28T01:56:31+08:00 |
+| 86 | [20221026 會議記錄](../notes/G8JKqoW6T-SpCa704awGsw.md) | 2022-10-26T23:15:54+08:00 | 2022-10-25T01:22:00+08:00 |
+| 87 | [20220928 會議記錄](../notes/ysACleHDTBmVMbH_4mi8uQ.md) | 2022-10-26T19:44:00+08:00 | 2022-09-27T13:20:26+08:00 |
+| 88 | [20221019 會議記錄](../notes/JPUb9EMATwGLBhgeECAskA.md) | 2022-10-25T01:23:11+08:00 | 2022-10-18T10:02:15+08:00 |
+| 89 | [Cofacts Hackath52n 協作頁面](../notes/I2IhD3wGS1OawGB1Tarfxg.md) | 2022-10-22T16:35:13+08:00 | 2022-10-22T01:13:39+08:00 |
+| 90 | [20221012 會議記錄](../notes/000c8SvUQXKOVKIgIzNpXg.md) | 2022-10-12T21:31:40+08:00 | 2022-10-04T21:58:22+08:00 |
+| 91 | [Cofacts media manager implementation](../notes/C8dW2cFiR1-N5Z0wcOefuA.md) | 2022-10-07T03:31:59+08:00 | 2022-04-29T21:07:56+08:00 |
+| 92 | [Cofacts Next Spec](../notes/EoaSauHDRrmZ1-ROcL7IMw.md) | 2022-09-26T13:48:13+08:00 | 2020-02-26T17:39:57+08:00 |
+| 93 | [20220921 會議記錄](../notes/IqCOZMZLRe-JPMSJIV3yRQ.md) | 2022-09-25T13:53:15+08:00 | 2022-09-20T13:27:08+08:00 |
+| 94 | [20220914 會議記錄](../notes/vl_7BJq1RsGb15a_R6sQWA.md) | 2022-09-22T01:41:17+08:00 | 2022-09-14T10:24:20+08:00 |
+| 95 | [20220907 會議記錄](../notes/FYQIQOIgQ1evVfzG-33fwg.md) | 2022-09-09T14:25:06+08:00 | 2022-08-31T16:42:19+08:00 |
+| 96 | [20220824 會議記錄](../notes/QgeoAzSeR4KaXR8sGHA6Nw.md) | 2022-08-31T23:50:02+08:00 | 2022-08-24T12:42:32+08:00 |
+| 97 | [20220817 會議記錄](../notes/sDlMC1SiQM-7R72UZUBSkA.md) | 2022-08-17T20:43:21+08:00 | 2022-08-17T12:19:46+08:00 |
+| 98 | [20220810 會議記錄](../notes/uZ3gouRWRamtrCFzKFrgnw.md) | 2022-08-17T13:58:44+08:00 | 2022-08-10T00:55:55+08:00 |
+| 99 | [20220803 會議記錄](../notes/6gLsmuTUQia3sjyYPPcFvQ.md) | 2022-08-04T03:06:25+08:00 | 2022-08-03T13:44:59+08:00 |
+| 100 | [20220727 會議記錄](../notes/JfQ03mRCTWiREv2PKWhfDQ.md) | 2022-07-27T20:18:27+08:00 | 2022-07-27T13:16:07+08:00 |
+| 101 | [20220720 會議記錄](../notes/4OmK8sx5Snuq3uV5ju77hw.md) | 2022-07-27T13:29:37+08:00 | 2022-07-20T01:52:37+08:00 |
+| 102 | [最近每日被查詢次數圖表](../notes/0kjaVlFASSyddkltqGR6Nw.md) | 2022-07-27T02:35:44+08:00 | 2020-06-30T13:11:09+08:00 |
+| 103 | [20220713 會議記錄](../notes/AqvBLZNmS4uAGMmuNQSgVg.md) | 2022-07-20T13:55:46+08:00 | 2022-07-13T02:53:28+08:00 |
+| 104 | [20220706 會議記錄](../notes/UopCx5bcRb-gt_3SdVqRdQ.md) | 2022-07-13T18:51:02+08:00 | 2022-07-06T11:15:12+08:00 |
+| 105 | [20220629 會議記錄](../notes/UP6DRljfTciCSv_mUtB7wQ.md) | 2022-07-05T02:34:21+08:00 | 2022-06-29T12:28:25+08:00 |
+| 106 | [20220623 會議記錄](../notes/_MhN2CdMQJu8RrNAqY5FaA.md) | 2022-06-29T19:58:57+08:00 | 2022-06-23T00:49:17+08:00 |
+| 107 | [20220617 會議記錄](../notes/Gf45qq-9T9GLMkSrsfXG1A.md) | 2022-06-17T22:55:43+08:00 | 2022-06-17T13:04:45+08:00 |
+| 108 | [QA - ㄇ Cofacts 真的假的闢謠 LINE Bot](../notes/fZmP6znBTaWJyEL9uSncHA.md) | 2022-06-17T15:14:08+08:00 | 2022-06-17T15:13:10+08:00 |
+| 109 | [20220608 會議記錄](../notes/JZbn_HoESFGAKnJZtHnE5Q.md) | 2022-06-08T20:41:26+08:00 | 2022-06-08T14:36:43+08:00 |
+| 110 | [20220601 會議記錄](../notes/nbPCJPNpRHKDvdKiy2knHg.md) | 2022-06-08T13:58:38+08:00 | 2022-06-01T02:02:26+08:00 |
+| 111 | [20220525 會議記錄](../notes/3_jgVd9vQreCsgADOdF25w.md) | 2022-05-25T20:42:49+08:00 | 2022-05-25T16:54:21+08:00 |
+| 112 | [20220518 會議記錄](../notes/_HXxDu6OQPaK08WFwOshtg.md) | 2022-05-19T13:58:29+08:00 | 2022-05-18T12:23:04+08:00 |
+| 113 | [2018/10/21 Cofacts chatbot incident report](../notes/xd8i1oR-Q9OEFQjOCPOplQ.md) | 2022-05-18T22:14:22+08:00 | 2018-10-24T15:07:52+08:00 |
+| 114 | [20190629 編輯小聚](../notes/XkpwvzvaTkiyEAOGaV1SiA.md) | 2022-05-18T22:14:01+08:00 | 2019-06-29T16:16:24+08:00 |
+| 115 | [20220515 Cofacts 小松果](../notes/q2AjbzezR8SsMoozvnNCzA.md) | 2022-05-18T22:12:59+08:00 | 2022-05-15T15:08:45+08:00 |
+| 116 | [20220511 會議記錄](../notes/R_cEiQ8eRDmQxUss4niJzQ.md) | 2022-05-15T14:36:27+08:00 | 2022-05-11T00:36:23+08:00 |
+| 117 | [20220504 會議記錄](../notes/Y40dNpVBSbKF-NHqfmdGNQ.md) | 2022-05-11T14:10:20+08:00 | 2022-05-04T12:30:50+08:00 |
+| 118 | [20220427 會議記錄](../notes/fOBTLOQkSI-z-CRFSI2Fgg.md) | 2022-05-01T22:53:07+08:00 | 2022-04-27T13:04:12+08:00 |
+| 119 | [20XXXXXX 會議記錄](../notes/ew5xh2wyRBq5c9S7DPJV6Q.md) | 2022-04-27T20:09:20+08:00 | 2019-05-29T01:08:51+08:00 |
+| 120 | [20220420 會議記錄](../notes/pGl4iqVKRXed7opCK_txVw.md) | 2022-04-20T20:58:44+08:00 | 2022-04-19T23:51:46+08:00 |
+| 121 | [20220413 會議記錄](../notes/PxuoYf6ISYyFegtzAQp83w.md) | 2022-04-13T21:29:22+08:00 | 2022-04-13T13:10:19+08:00 |
+| 122 | [20220316 會議記錄](../notes/eo8NM1VGQ7qxaamBZXRPtA.md) | 2022-04-09T16:22:13+08:00 | 2022-03-16T01:41:17+08:00 |
+| 123 | [20220406 會議記錄](../notes/gyIJXbTqRnySbfeaPJcJew.md) | 2022-04-06T20:31:11+08:00 | 2022-04-06T00:40:03+08:00 |
+| 124 | [20220330 會議記錄](../notes/OdOwYeKjQsSyUVzuE-BGiw.md) | 2022-03-30T20:32:45+08:00 | 2022-03-30T03:02:17+08:00 |
+| 125 | [20220323 會議記錄](../notes/bTVlJ8yYRb2nfDmGz09Psg.md) | 2022-03-23T20:31:19+08:00 | 2022-03-23T13:07:40+08:00 |
+| 126 | [20220309 會議記錄](../notes/J40y6r1gQ5WzIdKvufjwng.md) | 2022-03-16T01:56:17+08:00 | 2022-03-09T12:53:18+08:00 |
+| 127 | [Cofacts真的假的小松果第29次](../notes/Dw2J8hqsRcqRO0abDxTkBQ.md) | 2022-03-14T20:28:38+08:00 | 2022-03-12T00:28:42+08:00 |
+| 128 | [20220302 會議記錄](../notes/dOAOGDNzTGCWEsXW8weIgg.md) | 2022-03-09T12:58:33+08:00 | 2022-03-02T03:00:21+08:00 |
+| 129 | [20220223 會議記錄](../notes/ReVDO3iiSQ28qG0XTOovKQ.md) | 2022-02-28T22:59:53+08:00 | 2022-02-22T23:36:20+08:00 |
+| 130 | [Cofacts Hackath48n 協作頁面](../notes/V5X1JwIZSkWNjaXWWcfGAA.md) | 2022-02-19T11:29:27+08:00 | 2022-02-18T22:44:26+08:00 |
+| 131 | [20220216 會議記錄](../notes/xsDcMPySQM69vA0xHO8_dA.md) | 2022-02-17T11:24:32+08:00 | 2022-02-15T21:38:25+08:00 |
+| 132 | [20220209 會議記錄](../notes/lkGJU4TpQ7evxDoXYK1rtQ.md) | 2022-02-16T12:21:19+08:00 | 2022-02-09T12:22:58+08:00 |
+| 133 | [20220119 會議記錄](../notes/bhL6csQ8T1e81E2De7ZS5Q.md) | 2022-02-09T21:07:37+08:00 | 2022-01-19T12:41:26+08:00 |
+| 134 | [Cofacts user blocking mechanism](../notes/hk1v8Ka5TCmIZinQ6zKU9Q.md) | 2022-01-31T17:21:46+08:00 | 2021-12-01T13:26:48+08:00 |
+| 135 | [20220126 會議記錄](../notes/tBEc2MajQkS-s-lGaG91Gg.md) | 2022-01-26T20:57:08+08:00 | 2022-01-26T00:19:55+08:00 |
+| 136 | [20220112 會議記錄](../notes/SETMQ8DaQDu3a5ZYnrvfpA.md) | 2022-01-19T20:01:24+08:00 | 2022-01-12T02:56:44+08:00 |
+| 137 | [20220105 會議記錄](../notes/RtKFTKRFRduJK0gz3St3lQ.md) | 2022-01-09T13:55:12+08:00 | 2022-01-05T12:54:39+08:00 |
+| 138 | [20211103 會議記錄](../notes/1WADYBY0TH27ZqOaVMjqUg.md) | 2022-01-02T17:35:08+08:00 | 2021-11-02T23:18:18+08:00 |
+| 139 | [20211229 會議記錄](../notes/Syl8le5xS22nLo8Vc56gmw.md) | 2022-01-01T23:23:18+08:00 | 2021-12-29T00:23:38+08:00 |
+| 140 | [20211222 會議記錄](../notes/O0pXnRocRuKoJwdC1_9wmA.md) | 2021-12-23T13:26:08+08:00 | 2021-12-22T00:50:52+08:00 |
+| 141 | [20211215 會議記錄](../notes/WEqAcqHwRAeiQywjdOu1Jw.md) | 2021-12-15T21:12:00+08:00 | 2021-12-15T00:35:33+08:00 |
+| 142 | [Cofacts @ g0v Hackath47n 協作頁面](../notes/1BxlPa-eQi2l13pScuGUCg.md) | 2021-12-11T17:03:30+08:00 | 2021-12-11T07:29:29+08:00 |
+| 143 | [20211208 會議記錄](../notes/-G9Md9IyQauRoalIXJgenQ.md) | 2021-12-11T16:33:31+08:00 | 2021-12-08T02:06:19+08:00 |
+| 144 | [20211201 會議記錄](../notes/TEbULkjbSE-3GDyk-Whj2A.md) | 2021-12-01T21:47:06+08:00 | 2021-12-01T12:57:14+08:00 |
+| 145 | [20211124 會議記錄](../notes/YaQbzua8SWmkm2DNSGD-eQ.md) | 2021-12-01T20:01:01+08:00 | 2021-11-24T02:45:24+08:00 |
+| 146 | [20211006 會議記錄](../notes/zlWWCpDTQ5iADHNw7Thpog.md) | 2021-12-01T13:53:19+08:00 | 2021-10-05T13:41:01+08:00 |
+| 147 | [20211013 會議記錄](../notes/0Cv5hmmAQYyW8SJdXvfdtw.md) | 2021-12-01T13:53:12+08:00 | 2021-10-13T13:49:53+08:00 |
+| 148 | [20211027 會議記錄](../notes/rf0A7MRfTOC613QZmFehQA.md) | 2021-12-01T13:52:56+08:00 | 2021-10-27T12:44:15+08:00 |
+| 149 | [20211117 會議記錄](../notes/lYTN-n1xQyqlHB9oeaPvuQ.md) | 2021-12-01T13:04:31+08:00 | 2021-11-16T14:09:25+08:00 |
+| 150 | [20211110 會議記錄](../notes/hEaUz91PR0mFftzDfydg8A.md) | 2021-11-17T20:38:34+08:00 | 2021-11-09T21:25:02+08:00 |
+| 151 | [20210303 會議記錄](../notes/-Mth-vd5RPWqdLOfRJHHcg.md) | 2021-11-03T13:16:57+08:00 | 2021-03-02T13:20:03+08:00 |
+| 152 | [Cofacts Hackath46n 協作頁面](../notes/6iSR4tW3Qv-nXFsKOf127w.md) | 2021-10-23T16:05:11+08:00 | 2021-10-23T14:54:56+08:00 |
+| 153 | [20211020 會議記錄](../notes/wNhf1vDGQd6J2Plp4u4Ebg.md) | 2021-10-20T20:31:41+08:00 | 2021-10-17T14:26:36+08:00 |
+| 154 | [20210929 會議記錄](../notes/5VRwpbcJSlSPFtISaNBJ8g.md) | 2021-09-29T21:39:16+08:00 | 2021-09-29T00:49:03+08:00 |
+| 155 | [20210922 會議記錄](../notes/s3gX4lQ-SSmqMXzrcOpPag.md) | 2021-09-29T10:11:38+08:00 | 2021-09-22T12:29:34+08:00 |
+| 156 | [20210915 會議記錄](../notes/iTCmUFHeQLSILSXi2dBTjw.md) | 2021-09-16T00:48:32+08:00 | 2021-09-12T17:22:52+08:00 |
+| 157 | [20210908 會議記錄](../notes/6mTYVWhLSTWfDcyaxYLaXA.md) | 2021-09-15T20:50:45+08:00 | 2021-09-08T12:51:41+08:00 |
+| 158 | [20210901 會議記錄](../notes/E1-ajzinSwCyacGG228VsQ.md) | 2021-09-01T21:06:31+08:00 | 2021-09-01T13:26:10+08:00 |
+| 159 | [20210825 會議記錄](../notes/LP1rs4IOQYOWJ7YBj9dYbw.md) | 2021-09-01T13:41:42+08:00 | 2021-08-25T12:39:15+08:00 |
+| 160 | [Cofacts Hackath45n 協作頁面](../notes/9a80Jf-6STWQgEgrNvwsww.md) | 2021-08-21T16:24:43+08:00 | 2021-08-18T20:17:54+08:00 |
+| 161 | [20210818 會議記錄](../notes/CR_EsJHpSRe7YhJ8WVN_nA.md) | 2021-08-18T21:42:09+08:00 | 2021-08-17T01:18:11+08:00 |
+| 162 | [20210811 會議記錄](../notes/tu1avkzHTHWw5yHG1aucfQ.md) | 2021-08-18T13:47:33+08:00 | 2021-08-11T10:40:30+08:00 |
+| 163 | [QA - ㄇ Cofacts 真的假的闢謠 LINE Bot](../notes/o3-A1j6XTzWl27tK_MomZQ.md) | 2021-08-14T14:52:17+08:00 | 2021-07-25T15:52:25+08:00 |
+| 164 | [20210804 會議記錄](../notes/Nhc9MnskSsGvUqntz0z7Dg.md) | 2021-08-11T22:31:35+08:00 | 2021-08-04T12:19:36+08:00 |
+| 165 | [20210728 會議記錄](../notes/ie1Ymj_3SlmHp0jAIy6mJw.md) | 2021-07-28T20:50:25+08:00 | 2021-07-27T23:56:44+08:00 |
+| 166 | [20210721 會議記錄](../notes/vcKai2DNQYeZKjY8oe6O9w.md) | 2021-07-24T15:21:21+08:00 | 2021-07-21T13:08:04+08:00 |
+| 167 | [20210714 會議記錄](../notes/P3-iDyfYRNiW1kxe4r2ROQ.md) | 2021-07-21T13:10:21+08:00 | 2021-07-14T00:58:30+08:00 |
+| 168 | [20210707 會議記錄](../notes/LpBtA5-CT-m0XmlqpsdWEQ.md) | 2021-07-07T22:14:27+08:00 | 2021-07-05T23:14:28+08:00 |
+| 169 | [20210630 會議記錄](../notes/cjyi0ezPSzS2Dsgw1oBfmg.md) | 2021-06-30T21:06:39+08:00 | 2021-06-30T01:03:54+08:00 |
+| 170 | [Cofacts Hackath44n 協作頁面](../notes/K2UA8LDXT7qGIa0WZV77OA.md) | 2021-06-26T16:19:18+08:00 | 2021-06-26T09:33:35+08:00 |
+| 171 | [20210623 會議記錄](../notes/hakuJY45QWe5xb7Csr-gsw.md) | 2021-06-23T21:45:05+08:00 | 2021-06-23T02:51:28+08:00 |
+| 172 | [20210616 會議記錄](../notes/MhHehw-oQ2OqTVWFUxNRfA.md) | 2021-06-16T23:35:55+08:00 | 2021-06-16T13:39:52+08:00 |
+| 173 | [20210609 會議記錄](../notes/giYWfM8yRkKghtPOG1EBig.md) | 2021-06-16T13:39:17+08:00 | 2021-06-09T00:43:48+08:00 |
+| 174 | [20210602 會議記錄](../notes/yCJkaJJiSQmApACcVWkVNg.md) | 2021-06-09T00:43:17+08:00 | 2021-06-02T12:46:42+08:00 |
+| 175 | [20210526 會議記錄](../notes/8VGFKx-cR8yEdKlAQ3vv5A.md) | 2021-06-07T02:05:21+08:00 | 2021-05-26T12:20:53+08:00 |
+| 176 | [20210512 會議記錄](../notes/dZmNJ78pTkugvqdJZGEM5Q.md) | 2021-05-26T12:25:57+08:00 | 2021-05-12T13:22:11+08:00 |
+| 177 | [20210519 會議記錄](../notes/EzCMaHOrRN--GGArbZHYrg.md) | 2021-05-26T12:21:22+08:00 | 2021-05-19T14:11:02+08:00 |
+| 178 | [20210505 會議記錄](../notes/BRQtYUVzTU2vNxainshnMQ.md) | 2021-05-12T13:22:23+08:00 | 2021-05-05T13:13:09+08:00 |
+| 179 | [20210428 會議記錄](../notes/6ZwH7NANRqG6s-CCIy9IYw.md) | 2021-05-08T19:37:59+08:00 | 2021-04-27T21:35:50+08:00 |
+| 180 | [20210421 會議記錄](../notes/Zb0JxBEJQlagaWYxlo_CiQ.md) | 2021-04-27T22:54:05+08:00 | 2021-04-20T13:10:54+08:00 |
+| 181 | [20210413 會議記錄](../notes/BBeVH2VxRNOCq5QB_HC6EQ.md) | 2021-04-20T13:13:16+08:00 | 2021-04-12T23:05:13+08:00 |
+| 182 | [20210407 會議記錄](../notes/lYRkMMQNTqewpjDjpeqTiQ.md) | 2021-04-12T23:13:11+08:00 | 2021-04-07T13:13:06+08:00 |
+| 183 | [20210331 會議記錄](../notes/f8DNWPiQST6yZZtjXBji7g.md) | 2021-04-05T23:03:50+08:00 | 2021-03-31T01:32:01+08:00 |
+| 184 | [20210324 會議記錄](../notes/UvlEm1-aSQ-DkDrs8Ty52Q.md) | 2021-03-31T01:31:40+08:00 | 2021-03-24T13:26:20+08:00 |
+| 185 | [Cofacts Hackath43n 協作頁面](../notes/_-T0BgJtTwitYTuAjxAtlA.md) | 2021-03-21T00:39:00+08:00 | 2021-03-20T09:29:12+08:00 |
+| 186 | [20210317 會議記錄](../notes/EnqXUoYhRsiZrTVdXqWGJg.md) | 2021-03-17T21:03:13+08:00 | 2021-03-17T12:18:45+08:00 |
+| 187 | [20210310 會議記錄](../notes/hKK0F5KLRAGOz3Zz_kgrHQ.md) | 2021-03-17T14:13:59+08:00 | 2021-03-10T13:06:01+08:00 |
+| 188 | [20210224 會議記錄](../notes/Svt6MCd5T76hjDJ8UsKBnQ.md) | 2021-03-02T14:00:45+08:00 | 2021-02-24T13:09:28+08:00 |
+| 189 | [20210217 會議記錄](../notes/CqKV8gfNSfyuvdQOtq7TlQ.md) | 2021-02-24T13:08:46+08:00 | 2021-02-17T11:03:47+08:00 |
+| 190 | [20210120 會議記錄](../notes/JUVhhxSmSx62O5SUVuJ1rw.md) | 2021-02-17T13:23:12+08:00 | 2021-01-20T02:21:01+08:00 |
+| 191 | [20210203 會議記錄](../notes/B-f5FBgeTNGLL8EdKNoZhQ.md) | 2021-02-11T18:12:57+08:00 | 2021-02-03T12:40:23+08:00 |
+| 192 | [關於 / 教學](../notes/sB_zayWjTo-W0R7xe_U34w.md) | 2021-02-03T20:45:44+08:00 | 2020-08-09T17:43:20+08:00 |
+| 193 | [20210127 會議記錄](../notes/GNOXeZLcQMa8mpeFGXtR9Q.md) | 2021-01-27T23:06:23+08:00 | 2021-01-27T01:54:13+08:00 |
+| 194 | [User Profile Page Pilot Study](../notes/lIedGsQWTeScBTWfr4Zq0w.md) | 2021-01-27T13:59:23+08:00 | 2021-01-13T12:28:44+08:00 |
+| 195 | [Cofacts Hackath42n 協作頁面](../notes/VCm9VKM4TvmWJJk_4EMbdg.md) | 2021-01-23T16:51:02+08:00 | 2021-01-23T09:14:08+08:00 |
+| 196 | [20210113 會議記錄](../notes/XvP4q3IkTwCDeT1zopaTQg.md) | 2021-01-20T15:16:03+08:00 | 2021-01-13T01:27:00+08:00 |
+| 197 | [20210106 會議記錄](../notes/0RX4MsjRRJmBqJSKVilWMA.md) | 2021-01-13T11:05:10+08:00 | 2021-01-04T00:29:11+08:00 |
+| 198 | [20201125 會議記錄](../notes/naJGBDO0QFW4b4H4M9ElIw.md) | 2021-01-12T11:42:55+08:00 | 2020-11-23T13:14:40+08:00 |
+| 199 | [20201230 會議記錄](../notes/SfPmNj0aRAaQrkQ_Cx1KLQ.md) | 2021-01-04T00:48:21+08:00 | 2020-12-30T13:20:15+08:00 |
+| 200 | [20201223 會議記錄](../notes/f0V7J5ceTS-1vnKh0RwILw.md) | 2020-12-25T12:09:45+08:00 | 2020-12-22T13:31:39+08:00 |
+| 201 | [20201202 會議記錄](../notes/vErWoVXYRTKnxpID610C-A.md) | 2020-12-23T20:53:25+08:00 | 2020-12-01T20:59:46+08:00 |
+| 202 | [20201216 會議記錄](../notes/uJKukwUkSYy_FYI17SsYew.md) | 2020-12-23T20:13:28+08:00 | 2020-12-16T01:00:45+08:00 |
+| 203 | [20201209 會議記錄](../notes/NqPf1SfPQEGOZ3Z6h7Q7wA.md) | 2020-12-15T13:33:15+08:00 | 2020-12-07T13:29:08+08:00 |
+| 204 | [20201028 會議記錄](../notes/n74W64y4RiWIKt1Noxn-Mg.md) | 2020-12-08T14:15:20+08:00 | 2020-10-28T02:59:29+08:00 |
+| 205 | [20201118 會議記錄](../notes/Ha-SMCxJQuGzqx6EnrKanA.md) | 2020-11-23T13:10:31+08:00 | 2020-11-18T00:43:30+08:00 |
+| 206 | [20201111 會議記錄](../notes/kWuTnoC1TG-MONPhxp8rGQ.md) | 2020-11-18T21:48:27+08:00 | 2020-11-09T13:33:00+08:00 |
+| 207 | [20201104 會議記錄](../notes/Sl_84QO8TQ6WKKI0bT4pYw.md) | 2020-11-09T13:32:18+08:00 | 2020-11-03T13:23:19+08:00 |
+| 208 | [20190403 會議記錄](../notes/_GlcAQBfRXy078QQDiigSg.md) | 2020-11-06T04:12:27+08:00 | 2019-04-02T15:03:50+08:00 |
+| 209 | [Cofacts Hackath41n 協作頁面](../notes/IzcYlM1PQu-1HeBBqH_JRQ.md) | 2020-10-24T17:14:25+08:00 | 2020-10-21T13:22:38+08:00 |
+| 210 | [20201021 會議記錄](../notes/NmokGVB_Qsa1dIgGEsfoJQ.md) | 2020-10-21T22:13:34+08:00 | 2020-10-20T23:42:38+08:00 |
+| 211 | [20201014 會議記錄](../notes/R3TffjwOSXefZBCFPkSrqA.md) | 2020-10-21T13:21:16+08:00 | 2020-10-11T17:54:41+08:00 |
+| 212 | [20200930 會議記錄](../notes/GhVhBlK_QwKT3E5clAfkJw.md) | 2020-10-14T16:03:35+08:00 | 2020-09-28T13:57:07+08:00 |
+| 213 | [20201007 會議記錄](../notes/CCecwMdhT_eTPQmNfzQTzQ.md) | 2020-10-14T13:32:54+08:00 | 2020-10-06T13:15:50+08:00 |
+| 214 | [Cofacts RSS 訂閱腳本](../notes/TfCHhvtFTLmP0YKmaU1yVA.md) | 2020-10-09T13:58:01+08:00 | 2020-09-08T13:27:57+08:00 |
+| 215 | [20200923 會議記錄](../notes/-j-fAX0tS62amv9LejshOg.md) | 2020-10-07T19:58:40+08:00 | 2020-09-21T13:42:31+08:00 |
+| 216 | [20200916 會議記錄](../notes/yEp9JJtHSyK18bxCQV4dUg.md) | 2020-09-27T01:10:50+08:00 | 2020-09-15T14:07:47+08:00 |
+| 217 | [20200909 會議記錄](../notes/5JMzChJOQPqKe_CX_wbRmg.md) | 2020-09-23T20:35:56+08:00 | 2020-09-07T13:57:51+08:00 |
+| 218 | [20200902 會議記錄](../notes/c5wpuEPaQLWwM_5vxuo_Yw.md) | 2020-09-03T14:06:08+08:00 | 2020-09-02T00:48:04+08:00 |
+| 219 | [Rumors-api userId & appId management proposal](../notes/ZcoUOX_-RQSkJyl5xz4_Zg.md) | 2020-08-31T13:42:56+08:00 | 2020-05-07T14:20:13+08:00 |
+| 220 | [20200826 會議記錄](../notes/PQf7jdWBTSiw376UMm-2Xg.md) | 2020-08-26T22:14:28+08:00 | 2020-08-22T00:11:38+08:00 |
+| 221 | [20200819 會議記錄](../notes/DjY6dVLxQFG6moNlM98_OQ.md) | 2020-08-25T13:40:04+08:00 | 2020-08-18T13:39:31+08:00 |
+| 222 | [20200812 會議記錄](../notes/eitM7s0bSSeS3kg-MAcpDw.md) | 2020-08-18T14:26:50+08:00 | 2020-08-11T13:17:48+08:00 |
+| 223 | [20200805 會議記錄](../notes/rEtx-47bRHeW2aM05DINDQ.md) | 2020-08-16T18:39:40+08:00 | 2020-08-04T13:13:30+08:00 |
+| 224 | [[Spec] 個人資訊](../notes/bbreV0ZqRDarHl4Zt5UpEw.md) | 2020-08-09T20:03:02+08:00 | 2020-03-11T21:10:27+08:00 |
+| 225 | [[Spec] 最新查核訊息(需複查列表)](../notes/ZZWHWi2BTuyhkSWzAvKLAw.md) | 2020-08-09T19:24:35+08:00 | 2020-02-16T18:35:17+08:00 |
+| 226 | [20200729 會議記錄](../notes/r3NK7xssSwCNPFxthlw7tA.md) | 2020-08-05T15:22:47+08:00 | 2020-07-28T01:05:52+08:00 |
+| 227 | [20200722 會議記錄](../notes/9qp8dE7dReK2q8FTeP9Feg.md) | 2020-07-29T12:52:29+08:00 | 2020-07-22T01:13:40+08:00 |
+| 228 | [20200708 會議記錄](../notes/ehzopA3fScSn9PjkBM79bA.md) | 2020-07-28T01:42:01+08:00 | 2020-07-08T12:54:17+08:00 |
+| 229 | [Cofacts Hackath40n 協作頁面](../notes/6OzPCSNsTXKKqrNSWNhg7Q.md) | 2020-07-25T17:26:10+08:00 | 2020-07-22T01:50:06+08:00 |
+| 230 | [Cofacts 標籤定義](../notes/D4KfdMRWS-OmCKd-Fhli2Q.md) | 2020-07-25T02:02:53+08:00 | 2020-07-17T13:56:07+08:00 |
+| 231 | [20200715 會議記錄](../notes/OC7BneJ3TEGJHge1hWV-0w.md) | 2020-07-22T01:23:00+08:00 | 2020-07-15T02:30:34+08:00 |
+| 232 | [rumors-line-bot 過去傳過訊息 implementation](../notes/eIeU2g86Tfu5VnLazNfUvQ.md) | 2020-07-10T14:24:53+08:00 | 2020-03-09T17:04:00+08:00 |
+| 233 | [20200701 會議記錄](../notes/U-KmeEYJTVmtCFB-bqWfGg.md) | 2020-07-08T12:53:55+08:00 | 2020-06-30T23:54:40+08:00 |
+| 234 | [20200617 會議記錄](../notes/ma_IUiRqToO_WJMwPfBpYw.md) | 2020-07-05T17:24:55+08:00 | 2020-06-17T01:39:28+08:00 |
+| 235 | [20200624 會議記錄](../notes/W16H4cLoSQ66SPQNYpmvRQ.md) | 2020-07-01T13:19:31+08:00 | 2020-06-22T00:09:58+08:00 |
+| 236 | [Cofacts list page refactor](../notes/h8rP0TOGTh2Clxi_Oi_QKw.md) | 2020-07-01T13:11:41+08:00 | 2020-06-26T11:32:18+08:00 |
+| 237 | [訊息詳情](../notes/Cx7dQo3YTQS4KwYmYCBY8w.md) | 2020-06-30T13:13:24+08:00 | 2020-02-26T17:47:43+08:00 |
+| 238 | [[Spec] 搜尋結果](../notes/oWSar1t0SzWo150Dsbepxw.md) | 2020-06-26T22:32:50+08:00 | 2020-02-26T19:10:34+08:00 |
+| 239 | [已刪除回應](../notes/dYT7zCPGQiKsTne7-kkybw.md) | 2020-06-24T22:25:01+08:00 | 2020-06-24T22:24:23+08:00 |
+| 240 | [20200610 會議紀錄](../notes/cavB6CnbTEydj758_WYM2A.md) | 2020-06-10T21:26:12+08:00 | 2020-06-10T14:06:27+08:00 |
+| 241 | [[Spec] 可疑轉傳訊息](../notes/ahtI6xsFRQyxktrIlc1VcQ.md) | 2020-06-03T22:02:21+08:00 | 2020-02-26T17:37:07+08:00 |
+| 242 | [[Spec] 篩選排序](../notes/wJSQCszLSGCy0f5B96td0w.md) | 2020-06-03T22:02:08+08:00 | 2020-03-14T20:15:10+08:00 |
+| 243 | [20200603 會議紀錄](../notes/NiScWzGyS8W3A7NEdaTpyg.md) | 2020-06-03T21:55:55+08:00 | 2020-06-03T00:02:36+08:00 |
+| 244 | [20200527 會議紀錄](../notes/lLInMgXDRFqfegZQYC3XIQ.md) | 2020-05-31T13:52:10+08:00 | 2020-05-27T12:03:26+08:00 |
+| 245 | [20200205 會議紀錄](../notes/rP4lmUZoRV6bjOSxzmW5Lw.md) | 2020-05-31T10:42:05+08:00 | 2020-02-05T11:39:50+08:00 |
+| 246 | [Youtube scrapping alternatives](../notes/6f87Zwo7QAOGx7rYK-QRfw.md) | 2020-05-26T13:01:41+08:00 | 2020-05-21T09:21:57+08:00 |
+| 247 | [Cofacts Hackath39n 協作頁面](../notes/mBapzKJXSbSHXAXsMdsWOA.md) | 2020-05-23T16:36:57+08:00 | 2020-05-21T19:06:59+08:00 |
+| 248 | [20200520 會議紀錄](../notes/TfMlpKYhS3-boaLTgiriYg.md) | 2020-05-20T22:05:54+08:00 | 2020-05-20T02:27:09+08:00 |
+| 249 | [[Spec] 遊戲化設計](../notes/XqwLr7_HS9KboeewCOIueg.md) | 2020-05-19T01:52:31+08:00 | 2020-05-18T23:10:09+08:00 |
+| 250 | [20200513 會議紀錄](../notes/0xqZVqKiSYaIeSYFtT5NRg.md) | 2020-05-19T01:14:18+08:00 | 2020-05-13T10:57:24+08:00 |
+| 251 | [Cofacts Next list pages TODO items](../notes/8qj-pd_XTN-nOYMi-5ZBnw.md) | 2020-05-13T18:14:32+08:00 | 2020-05-13T14:01:14+08:00 |
+| 252 | [Cofacts DB Mapping](../notes/F1K20uFNSzivBPXsKdg30Q.md) | 2020-05-08T00:36:58+08:00 | 2020-05-07T16:37:21+08:00 |
+| 253 | [20200429 會議紀錄](../notes/ynQn2LmoQSmQQpwidirI6g.md) | 2020-05-08T00:06:24+08:00 | 2020-04-29T13:36:03+08:00 |
+| 254 | [20200506 會議紀錄](../notes/KVzYgGsARZuyd3AJjJtxlA.md) | 2020-05-08T00:06:15+08:00 | 2020-05-05T21:03:39+08:00 |
+| 255 | [Running Cofacts on Laptop: README](../notes/6KbpTYwITdqIE-51cI6Ldg.md) | 2020-05-08T00:04:38+08:00 | 2018-10-07T02:20:55+08:00 |
+| 256 | [20200422 會議紀錄](../notes/gqr699jtSEGbcT_GoIiWPg.md) | 2020-04-23T10:03:52+08:00 | 2020-04-22T02:09:11+08:00 |
+| 257 | [20200415 會議紀錄](../notes/fRDzVwdqSduSlI-BBBK3Jg.md) | 2020-04-18T13:56:16+08:00 | 2020-04-15T11:10:00+08:00 |
+| 258 | [20200408 會議紀錄](../notes/pDyGj-w0QPWKdV2gp2h9LQ.md) | 2020-04-15T11:12:41+08:00 | 2020-04-08T01:08:18+08:00 |
+| 259 | [20200325 會議紀錄](../notes/6f12uznTQjCDRAKRyPOSxw.md) | 2020-04-12T20:41:41+08:00 | 2020-03-25T09:43:30+08:00 |
+| 260 | [Cofacts LIFF redesign](../notes/860RnxUGTi6z2Kca6ojAbg.md) | 2020-04-11T02:04:06+08:00 | 2020-03-17T17:31:20+08:00 |
+| 261 | [20190130 會議記錄](../notes/QyGoi7T1Q-mCzr42_oQLTA.md) | 2020-04-08T21:39:31+08:00 | 2019-01-30T00:53:56+08:00 |
+| 262 | [[Spec] 等你來答](../notes/N8I2-zkJTaS35BP8VH8ZQA.md) | 2020-04-02T23:17:02+08:00 | 2020-02-26T17:47:31+08:00 |
+| 263 | [20200401 會議紀錄](../notes/IS6_Qg6pQFK6uorTtatZ7w.md) | 2020-04-01T20:45:50+08:00 | 2020-04-01T13:28:04+08:00 |
+| 264 | [列表](../notes/iJm9_nZaTA2GyInn7ycxoA.md) | 2020-03-24T17:39:11+08:00 | 2020-02-26T20:06:38+08:00 |
+| 265 | [20200318 會議紀錄](../notes/eqkFjUjYTYetmvmr6d2AZQ.md) | 2020-03-19T01:10:11+08:00 | 2020-03-18T15:18:59+08:00 |
+| 266 | [20200311 會議紀錄](../notes/xLlqGYLoQmO9Ri-r5-w2xw.md) | 2020-03-18T15:16:32+08:00 | 2020-03-11T12:17:22+08:00 |
+| 267 | [導航搜尋框](../notes/W0LDSmfISfq0_1j8ZCH6rg.md) | 2020-03-14T19:31:45+08:00 | 2020-02-26T19:26:14+08:00 |
+| 268 | [訂閱](../notes/Rl_bVFgfQWiJnZxj9zJnrg.md) | 2020-03-14T19:28:36+08:00 | 2020-03-14T19:28:11+08:00 |
+| 269 | [Cofacts Hackath38n 協作頁面](../notes/Xi499UujS3-IfU9KnTbK7Q.md) | 2020-03-14T16:39:20+08:00 | 2020-03-11T18:01:46+08:00 |
+| 270 | [20200226 會議紀錄](../notes/-OLr4hRoQBOjtMjo947X4Q.md) | 2020-03-09T17:55:31+08:00 | 2020-02-26T12:56:34+08:00 |
+| 271 | [20200304 會議紀錄](../notes/-x5qyf_ER-mTiECYx0GX6g.md) | 2020-03-05T13:05:21+08:00 | 2020-03-04T13:09:25+08:00 |
+| 272 | [20200219 會議紀錄](../notes/sIqVRNENS5ePXrFVW4xp4g.md) | 2020-02-26T13:00:58+08:00 | 2020-02-18T12:13:01+08:00 |
+| 273 | [20200212 會議紀錄](../notes/AwNFa7L1QKiBPziTtYva0A.md) | 2020-02-12T22:09:05+08:00 | 2020-02-12T12:46:24+08:00 |
+| 274 | [20200129 會議紀錄](../notes/tkVNCWFXRyWZ2HHQ1Fe7rA.md) | 2020-01-29T22:36:02+08:00 | 2020-01-29T13:09:14+08:00 |
+| 275 | [20200122 會議紀錄](../notes/jWXgq3jVT8Gvl3o_HjeSdg.md) | 2020-01-29T22:34:44+08:00 | 2020-01-22T13:40:59+08:00 |
+| 276 | [20200115 會議紀錄](../notes/sFFVd708TC-Fk3YDgPpuMw.md) | 2020-01-18T17:21:28+08:00 | 2020-01-15T13:16:28+08:00 |
+| 277 | [20200108 會議紀錄](../notes/MTCDE5-cRym_OIdbzG2ZmA.md) | 2020-01-15T13:22:50+08:00 | 2020-01-08T13:16:32+08:00 |
+| 278 | [20200101 會議紀錄](../notes/kYsGYzB4Rd2RnOPJvgwuLA.md) | 2020-01-01T21:58:48+08:00 | 2020-01-01T02:56:12+08:00 |
+| 279 | [20191225 會議記錄](../notes/qFcmEpcfQqaSN2fyMeI93Q.md) | 2019-12-25T21:41:34+08:00 | 2019-12-25T21:33:30+08:00 |
+| 280 | [Cofacts · FtO Collaborative Homepage](../notes/F9TublsbRriZUed2NOgrhw.md) | 2019-12-21T17:30:46+08:00 | 2019-12-18T20:14:23+08:00 |
+| 281 | [20191218 會議記錄](../notes/kJws0_UQSfOAOjOGuXQn1w.md) | 2019-12-18T20:55:32+08:00 | 2019-12-18T13:11:41+08:00 |
+| 282 | [20191211 會議記錄](../notes/8ei1xlK5Rsere-dd7PKR9g.md) | 2019-12-12T13:41:16+08:00 | 2019-12-11T13:12:33+08:00 |
+| 283 | [20191204 會議記錄](../notes/Nkm5XLouSEKekWt8oOe1AA.md) | 2019-12-04T22:14:46+08:00 | 2019-12-04T01:28:46+08:00 |
+| 284 | [20191120 會議記錄](../notes/uCdEwXawTECWbnZJ5J6mYQ.md) | 2019-12-01T14:50:26+08:00 | 2019-11-20T13:32:57+08:00 |
+| 285 | [20191127 會議記錄](../notes/vfmBaVwMThi8BEnj_bsQAg.md) | 2019-12-01T14:02:59+08:00 | 2019-11-27T13:29:46+08:00 |
+| 286 | [20191113 會議記錄](../notes/m5yFYM3PT7SKeVrBqjdixA.md) | 2019-11-13T23:01:28+08:00 | 2019-11-13T12:59:44+08:00 |
+| 287 | [20191106 會議記錄](../notes/YnC2mA_IRz-v_2JK-M1h3Q.md) | 2019-11-07T00:55:26+08:00 | 2019-11-06T13:40:02+08:00 |
+| 288 | [20191002 會議記錄](../notes/aFlcWoTQR-OGePLPCX6Osw.md) | 2019-11-01T00:27:04+08:00 | 2019-10-01T15:17:22+08:00 |
+| 289 | [:jack_o_lantern: 20191030 會議記錄 :jack_o_lantern:](../notes/DbgrtcJ3T8KgwNAzvomK2Q.md) | 2019-11-01T00:03:31+08:00 | 2019-10-30T14:30:07+08:00 |
+| 290 | [20191023 會議記錄](../notes/0F9HO6kQTUiP3qrFT_w20A.md) | 2019-10-24T14:03:35+08:00 | 2019-10-23T13:20:16+08:00 |
+| 291 | [20191016 會議記錄](../notes/VE7wEXXSTQ245jqjwMu1_g.md) | 2019-10-23T13:20:25+08:00 | 2019-10-16T13:12:58+08:00 |
+| 292 | [20190925 會議記錄](../notes/oOEz-UpNQOS-n7isB45MNg.md) | 2019-09-25T23:01:34+08:00 | 2019-09-25T01:34:28+08:00 |
+| 293 | [20190918 會議記錄](../notes/2j_zXsDTTr-koQ6fzSHf_g.md) | 2019-09-18T22:12:25+08:00 | 2019-09-18T13:43:59+08:00 |
+| 294 | [20190911 會議記錄](../notes/3sK-smdoQBW6Vhw3oQCW4w.md) | 2019-09-18T13:44:21+08:00 | 2019-09-09T13:50:45+08:00 |
+| 295 | [20190904 會議記錄](../notes/CWKXj50SRQuCfxxlFi3STg.md) | 2019-09-09T13:50:41+08:00 | 2019-09-04T13:21:17+08:00 |
+| 296 | [20190828 會議記錄](../notes/z2GrR82mStaYVcceMmi8-w.md) | 2019-08-31T14:57:39+08:00 | 2019-08-28T02:03:28+08:00 |
+| 297 | [20190821 會議記錄](../notes/Jm3Ke0ndSCST96WOML-FXA.md) | 2019-08-21T22:28:11+08:00 | 2019-08-21T12:17:58+08:00 |
+| 298 | [Cofacts @ COSCUP 2019 大綱](../notes/Z5HrpQxJR0OeQkVQ0WfVbg.md) | 2019-08-16T19:24:34+08:00 | 2019-08-05T13:30:07+08:00 |
+| 299 | [20190814 會議記錄](../notes/gycZ5SWQQ2iRik-1GVuZXw.md) | 2019-08-15T14:12:51+08:00 | 2019-08-14T14:25:56+08:00 |
+| 300 | [20190807 會議記錄](../notes/t2ndWFOnRF2jB39_Fy675w.md) | 2019-08-12T03:01:07+08:00 | 2019-08-07T12:20:07+08:00 |
+| 301 | [20190731 會議紀錄](../notes/A40eAMBBRwGsHTH0sLwfNg.md) | 2019-07-31T23:22:19+08:00 | 2019-07-30T16:51:51+08:00 |
+| 302 | [20190724 會議紀錄](../notes/SLdQ6HlETYO4NWmfVYsB1g.md) | 2019-07-25T10:27:07+08:00 | 2019-07-24T13:38:00+08:00 |
+| 303 | [Cofacts · g0v-hackath35n 協作首頁](../notes/xEnANn8pQtS6gib_ujsSfQ.md) | 2019-07-20T11:19:03+08:00 | 2019-07-20T00:30:27+08:00 |
+| 304 | [20190717 會議紀錄](../notes/PM4ibZqDSsGVwml000OcIA.md) | 2019-07-17T22:23:23+08:00 | 2019-07-16T22:09:15+08:00 |
+| 305 | [20190703 會議記錄](../notes/s1qOUn4jSQyyagQW_sx30g.md) | 2019-07-17T21:44:38+08:00 | 2019-07-03T13:50:24+08:00 |
+| 306 | [20190710 會議紀錄](../notes/hm3LY2asT_CwI_M4ffR_pA.md) | 2019-07-16T22:15:02+08:00 | 2019-07-10T10:41:13+08:00 |
+| 307 | [20190626 會議記錄](../notes/k3m0IwCRQlCHcCX29NL0Iw.md) | 2019-06-28T23:18:18+08:00 | 2019-06-26T10:48:44+08:00 |
+| 308 | [20190605 會議記錄](../notes/VXMaH7tsSiWSpvYvbUTCnA.md) | 2019-06-19T14:44:32+08:00 | 2019-06-05T09:08:36+08:00 |
+| 309 | [20190529 會議記錄](../notes/8VmiyCx6TFOJWYqVLvjXTA.md) | 2019-05-31T09:25:29+08:00 | 2019-05-29T01:11:51+08:00 |
+| 310 | [20190522 會議記錄](../notes/FcKJO3pjRAGP1OfkmW-iPw.md) | 2019-05-29T01:39:12+08:00 | 2019-05-21T12:19:54+08:00 |
+| 311 | [Cofacts · g0v-hackath34n 協作首頁](../notes/jaExILd7Rv6oNCbOmv9fiw.md) | 2019-05-25T11:25:16+08:00 | 2019-05-22T20:59:34+08:00 |
+| 312 | [20190515 會議記錄](../notes/xL8fP_CeQoe6-2JGdLjnBg.md) | 2019-05-15T21:39:50+08:00 | 2019-05-15T01:20:08+08:00 |
+| 313 | [可以用來回應的材料](../notes/FySWZdlKTZyrLnHaL8a7KQ.md) | 2019-05-12T19:43:14+08:00 | 2018-09-04T00:25:33+08:00 |
+| 314 | [20190508 會議記錄](../notes/EruQorw3RXmN3P2I7y4iaA.md) | 2019-05-08T22:44:58+08:00 | 2019-05-08T00:10:20+08:00 |
+| 315 | [Cofacts in COSCUP 2019 Call for Proposals](../notes/gOfjy8VIRoKT6qjgusGkPA.md) | 2019-05-08T03:56:20+08:00 | 2019-05-05T18:25:24+08:00 |
+| 316 | [20190501 會議記錄](../notes/nmY0GxGWQ1eZ3Sd4QVnfPw.md) | 2019-05-01T21:08:23+08:00 | 2019-05-01T09:42:27+08:00 |
+| 317 | [20190424 會議記錄](../notes/JM0MhuzfTl-DaPmwhYZL7A.md) | 2019-04-24T22:04:00+08:00 | 2019-04-21T18:23:40+08:00 |
+| 318 | [20190417 會議記錄](../notes/uHY3iRZYSjOO-LSGVAgxzg.md) | 2019-04-17T21:55:19+08:00 | 2019-04-17T13:38:37+08:00 |
+| 319 | [20190410 會議記錄](../notes/vhIGwYnNSo-HERNsCaagFg.md) | 2019-04-14T15:11:00+08:00 | 2019-04-10T20:09:30+08:00 |
+| 320 | [20190327 會議記錄](../notes/2oVnJnsTQtq8mipeiYuoHw.md) | 2019-03-27T22:52:20+08:00 | 2019-03-27T01:48:00+08:00 |
+| 321 | [20190320 會議記錄](../notes/QffxWRuqSJ2ckO7ykoo6ZQ.md) | 2019-03-20T22:50:54+08:00 | 2019-03-20T15:21:27+08:00 |
+| 322 | [20190313 會議記錄](../notes/bxzNrbHOQQuIT8sfrW_kNQ.md) | 2019-03-13T22:45:11+08:00 | 2019-03-13T18:53:06+08:00 |
+| 323 | [20190306 會議記錄](../notes/_hlGi2owR1aiDFYOmvVDhg.md) | 2019-03-06T23:02:02+08:00 | 2019-03-04T13:19:34+08:00 |
+| 324 | [20190227 會議記錄](../notes/Lw4GLxLoT7e1UVAG13RdZQ.md) | 2019-02-27T22:06:52+08:00 | 2019-02-27T14:33:38+08:00 |
+| 325 | [20190220 會議記錄](../notes/1wmM-FIiTVSbw0BldFoZTg.md) | 2019-02-20T21:58:58+08:00 | 2019-02-20T13:20:51+08:00 |
+| 326 | [20190213 會議記錄](../notes/oYOBlXQCRne3GXeAqlB4Xg.md) | 2019-02-16T11:50:15+08:00 | 2019-02-12T10:32:26+08:00 |
+| 327 | [20190123 會議記錄](../notes/ZWtHa0RQR2W_FQ3ZyOlHRQ.md) | 2019-01-23T22:16:47+08:00 | 2019-01-22T22:57:19+08:00 |
+| 328 | [20190116 會議記錄](../notes/eRVchyULSY2BBP1LxV_DAg.md) | 2019-01-17T00:26:45+08:00 | 2019-01-15T00:31:11+08:00 |
+| 329 | [20190109 會議記錄](../notes/FmJ7ZkbVR6mPffDeQMuFGg.md) | 2019-01-15T01:19:20+08:00 | 2019-01-08T23:11:39+08:00 |
+| 330 | [20190102 會議記錄](../notes/c2spCIDdR6mAsqTliWF-YQ.md) | 2019-01-02T21:29:16+08:00 | 2018-12-30T17:08:12+08:00 |
+| 331 | [20181226 會議記錄](../notes/STB6wBxHQimcOH-Kx4728A.md) | 2018-12-27T01:55:04+08:00 | 2018-12-26T01:40:11+08:00 |
+| 332 | [20181219 會議記錄](../notes/K082itdJSpKksNpIj-aMvQ.md) | 2018-12-19T23:14:44+08:00 | 2018-12-19T13:20:51+08:00 |
+| 333 | [20181212 會議記錄](../notes/RLsQrm9uSMiDXrgPgFDlZA.md) | 2018-12-12T22:32:23+08:00 | 2018-12-12T18:33:09+08:00 |
+| 334 | [20181205 會議記錄](../notes/zpvD5Bo3QDG5-v4zkRR1ug.md) | 2018-12-05T22:07:56+08:00 | 2018-12-05T15:47:41+08:00 |
+| 335 | [20181128 會議記錄](../notes/dXhdYStIQvqfZK9E_JuKrw.md) | 2018-12-05T15:49:07+08:00 | 2018-11-28T16:42:00+08:00 |
+| 336 | [不斷變種的民視新聞報導](../notes/wcR2746yRjGEa_LXyfPakw.md) | 2018-12-05T14:35:59+08:00 | 2018-09-03T21:39:45+08:00 |
+| 337 | [《我愛家我解惑》資料庫](../notes/YMFKjT26T_KG4UunfNQQwQ.md) | 2018-11-29T13:43:18+08:00 | 2018-08-30T02:26:10+08:00 |
+| 338 | [11/27 公投位階高於憲法](../notes/dMlDz80PQZqfcEwXVkM_1Q.md) | 2018-11-29T13:43:04+08:00 | 2018-11-29T13:25:48+08:00 |
+| 339 | [前法務部長羅瑩雪白色覺醒影片](../notes/9kgv2sBYRe2fdLC5w12JKQ.md) | 2018-11-29T13:24:47+08:00 | 2018-11-29T13:21:32+08:00 |
+| 340 | [20181107 會議記錄](../notes/tNTr1n7ZQ6CVeVYodhZ7HQ.md) | 2018-11-28T16:54:19+08:00 | 2018-11-07T01:17:07+08:00 |
+| 341 | [10/14 同婚過後，父母的權利就被剝奪了](../notes/hD0b-GOYTr-qhSECRmzjHw.md) | 2018-11-28T01:56:58+08:00 | 2018-10-16T00:57:35+08:00 |
+| 342 | [11/27 同性戀與碳酸飲料](../notes/cP0R_lYkTMSbodgtaUoX1A.md) | 2018-11-28T00:01:09+08:00 | 2018-11-27T23:59:51+08:00 |
+| 343 | [11/25 子法絕對不能凌駕在民法之上](../notes/8yaR5-PAQ3G5xUqeSJOypw.md) | 2018-11-27T13:27:59+08:00 | 2018-11-27T13:05:06+08:00 |
+| 344 | [11/27 市府民政局對台灣守護家庭網站的指控，下福盟的回應](../notes/hzkpvsnESWiuX4slirqAmQ.md) | 2018-11-27T13:02:10+08:00 | 2018-11-27T13:00:22+08:00 |
+| 345 | [2016年 兩個孩子的媽](../notes/gfqYEOivSDiV_CyzmCQK9w.md) | 2018-11-20T19:17:35+08:00 | 2018-09-07T01:38:42+08:00 |
+| 346 | [8/22 下福盟官方 Youtube 影片](../notes/k24wY1vbQdmUs3LMGqesNw.md) | 2018-11-20T11:25:41+08:00 | 2018-08-30T02:33:30+08:00 |
+| 347 | [11/13 台中市一位媽媽拿著教科書問教育部官員](../notes/vC4V9_t-QaCpASZew-_orA.md) | 2018-11-19T11:36:17+08:00 | 2018-11-17T09:35:53+08:00 |
+| 348 | [11/5 這是一場史無前例的實境教育，即將在台灣展開 youtube](../notes/6yqt-ayaTtyOqBYbLABNXw.md) | 2018-11-17T11:07:49+08:00 | 2018-11-07T13:47:42+08:00 |
+| 349 | [20181114 會議記錄](../notes/7fCxxQeOTHm0snnDVJDnCA.md) | 2018-11-14T22:31:31+08:00 | 2018-11-14T18:25:29+08:00 |
+| 350 | [台灣百合正義會 youtube：捐血一袋，害人一命](../notes/Y_pgCwsQQyOj4a1kUJb_7Q.md) | 2018-11-13T21:59:06+08:00 | 2018-10-10T22:43:13+08:00 |
+| 351 | [11/8 【六色彩虹宣言】，他們主張紅色的訴求除了「性權」外，也包括廢除「惡法」](../notes/o5q09u3gSZuNELNnZI8KQg.md) | 2018-11-13T19:14:46+08:00 | 2018-11-08T22:29:59+08:00 |
+| 352 | [10/31 同運人士嚷嚷【你的孩子不是你的孩子】+ 22 項爭議性平教材](../notes/11KSehakRUqB_O5oDW4-JQ.md) | 2018-11-12T15:25:37+08:00 | 2018-11-03T03:34:24+08:00 |
+| 353 | [逆向歧視](../notes/fVRplrj7Raa2bisqO8CeRA.md) | 2018-11-09T01:43:13+08:00 | 2018-09-04T00:18:36+08:00 |
+| 354 | [11/7 淫腸綜合症](../notes/sYvnziDAQKWlfxqW_HtgBw.md) | 2018-11-08T22:01:51+08:00 | 2018-11-08T21:40:51+08:00 |
+| 355 | [11/8 要傳給台中人看，林佳龍是性平委員會主委，主張同婚及同性戀](../notes/5J5lcqZlR_q_oSpk3CzpsQ.md) | 2018-11-08T21:58:30+08:00 | 2018-11-08T21:48:33+08:00 |
+| 356 | [10/25 驚！辦過多P和約炮講座的團體居然入班教學！！！](../notes/1LmWn97CRT-i1Qk9Yw17LA.md) | 2018-11-08T21:46:52+08:00 | 2018-11-03T04:13:12+08:00 |
+| 357 | [性別意識危害兒少，提倡性別重整手術的人正在促長精神疾病](../notes/6j4BIcRSSdm7s-h9qS9_dg.md) | 2018-11-08T17:51:22+08:00 | 2018-10-13T01:21:22+08:00 |
+| 358 | [10/14 2005年疾管署官員敢說此事實的勇氣](../notes/Vhgp69whRt62IpdWGgF5YA.md) | 2018-11-08T14:09:30+08:00 | 2018-10-15T02:07:12+08:00 |
+| 359 | [11/2 民法972修法牽涉太多社會問題，背後的同運團體應該有很大的企業在影響](../notes/01aOfBusS3uqvljzHPbBkQ.md) | 2018-11-07T21:08:06+08:00 | 2018-11-03T03:22:24+08:00 |
+| 360 | [11/5 同性婚姻侵犯同二代天賦人權](../notes/gz1OvcRjQ5y2ficc5fHIKg.md) | 2018-11-07T13:45:24+08:00 | 2018-11-07T13:39:49+08:00 |
+| 361 | [11/1 「國中小課本的同志教育內容」旁白氣噗噗 youtube](../notes/5BuVYQzvRpaNF-3eZViYzg.md) | 2018-11-07T13:35:00+08:00 | 2018-11-03T03:12:55+08:00 |
+| 362 | [10/19 這裡面有陰謀的，是一群性解放團體打著性別平等的口號，實際他們想要的是性解放](../notes/HUmlGG-SRRGK8q-6BtHbcw.md) | 2018-11-07T12:58:16+08:00 | 2018-11-03T04:39:11+08:00 |
+| 363 | [（很久以前的）護家盟記者會](../notes/3XXJv022QemfEXZZuyOF7g.md) | 2018-11-06T14:04:15+08:00 | 2018-10-24T21:37:10+08:00 |
+| 364 | [10/28 「為什麼「婚姻」必須是「一夫一妻」？」youtube](../notes/YNVDLfPBR_a7rnShckFTRQ.md) | 2018-11-06T12:12:48+08:00 | 2018-10-30T23:25:23+08:00 |
+| 365 | [11/3 老師教小三生戴保險套 高雄家長聯盟抗議](../notes/wqVpNvqOT8GOT-Ux8xhdtg.md) | 2018-11-06T10:11:20+08:00 | 2018-11-04T03:09:54+08:00 |
+| 366 | [曾有文／全球愛滋病患感謝台灣健保！](../notes/rE10E-BcS1W6FGmmoCGpbg.md) | 2018-11-06T01:51:46+08:00 | 2018-10-10T21:04:13+08:00 |
+| 367 | [9/12 下福盟官方 LINE 新聞稿：適齡性平教育](../notes/HrVcxJpcS0SgO1HKwwAF8A.md) | 2018-11-06T01:51:35+08:00 | 2018-10-13T01:36:22+08:00 |
+| 368 | [加拿大公立學校的性傾向及性別認同課程](../notes/mrsydmcAQkGasHYtWTLsGQ.md) | 2018-11-06T01:51:27+08:00 | 2018-10-10T22:37:10+08:00 |
+| 369 | [10/24 itw999.tw 性平教育性平教慾](../notes/HjwaoyqYSGarXAsWeTCfWQ.md) | 2018-11-06T01:50:59+08:00 | 2018-11-03T04:31:54+08:00 |
+| 370 | [10/25 您若看過中小學的教科書，上面竟然有圖片教小學生如何自衛，如何進行性行為](../notes/gOOgMgCgRSWyzo6H18s1Bg.md) | 2018-11-06T01:50:53+08:00 | 2018-11-03T04:22:18+08:00 |
+| 371 | [10/30 一個愛滋病患的故事 - 樹葬](../notes/Dw47cXTJRYCS6E7FZ3KNvg.md) | 2018-11-06T01:50:37+08:00 | 2018-11-03T03:14:41+08:00 |
+| 372 | [10/30 《真的很擔憂下一代》無法接受現在課本，早已偏移性別教育教綱](../notes/YS43ONuFRCaRxOqOqrP3aQ.md) | 2018-11-06T01:50:31+08:00 | 2018-11-03T03:30:42+08:00 |
+| 373 | [10/30 旌旗教會「給同運人士的一封信」影片](../notes/b5nunPIjS1uhjAHDKFpbSw.md) | 2018-11-06T01:50:26+08:00 | 2018-11-03T03:59:35+08:00 |
+| 374 | [11/2 台中市政府所有轄下單位，含教育局，都在力推有同志教育在內的「性平教育」](../notes/N_Pcoh0DQquukUAJwKEiEQ.md) | 2018-11-06T01:50:16+08:00 | 2018-11-03T03:16:37+08:00 |
+| 375 | [11/4 如果愛家公投沒有達到500萬同意票會發生甚麼事?](../notes/7jZrAM2yTRGAiLWP9HfWzw.md) | 2018-11-06T01:50:09+08:00 | 2018-11-04T16:04:54+08:00 |
+| 376 | [不知所云的927憲法 (?)](../notes/6y97xlr5TU2sd12Q1ZRW9w.md) | 2018-11-06T01:49:14+08:00 | 2018-10-13T01:07:03+08:00 |
+| 377 | [8/31 反同「被騙」同意票宣傳](../notes/aDRrQmOSQS-UvETQj3QrfQ.md) | 2018-11-06T01:49:07+08:00 | 2018-09-02T19:16:59+08:00 |
+| 378 | [彩虹愛家志工招募](../notes/yifjRyxxR-eoCItrpzKq_w.md) | 2018-11-06T01:49:02+08:00 | 2018-10-10T20:52:55+08:00 |
+| 379 | [李天柱「同性戀滅絕人類」 爆同婚比木馬程式更毒](../notes/WHsfMbXbRX6W693gTEqeNg.md) | 2018-11-06T01:48:57+08:00 | 2018-10-10T23:06:39+08:00 |
+| 380 | [整個大學都在情慾大解放，心很痛](../notes/1UGlRqEOQaGZQQldYBBLiw.md) | 2018-11-06T01:48:40+08:00 | 2018-10-13T01:28:27+08:00 |
+| 381 | [領公投票反對同志教育的宣傳](../notes/D83e8SmcRqKnJZD6iW_OOg.md) | 2018-11-06T01:48:25+08:00 | 2018-10-13T00:23:05+08:00 |
+| 382 | [10/22 11/24日同性戀合法化公投如何阻止？](../notes/Ks9oEopKR9GiOQuM0bJQvA.md) | 2018-11-06T01:48:15+08:00 | 2018-11-03T04:34:41+08:00 |
+| 383 | [10/23 同志遊行與愛滋捐血相關](../notes/b6xau3NpTUSNZ3GtsPTOeA.md) | 2018-11-06T01:48:08+08:00 | 2018-10-24T22:34:05+08:00 |
+| 384 | [10/23 長度 03:53 的 LINE 錄音](../notes/J_ZiZ415RSWAvMlV1ZJ2MQ.md) | 2018-11-06T01:48:03+08:00 | 2018-10-24T21:55:24+08:00 |
+| 385 | [10/23 大法官已釋憲，如果年底公投沒有500萬票](../notes/vSxBQDyrTCSIk71Zn_5qTw.md) | 2018-11-06T01:47:58+08:00 | 2018-10-26T18:26:40+08:00 |
+| 386 | [10/23 此普悠瑪出軌事故好像上帝在對台灣說台灣不要再出軌了](../notes/bMvzrAYSTE2bS6H34MS1Iw.md) | 2018-11-06T01:47:50+08:00 | 2018-11-03T04:24:42+08:00 |
+| 387 | [10/23 男同性戀者要藉捐血讓2300萬人得愛滋病!!!](../notes/UOhLRGE-RPaujcqb6MvEkw.md) | 2018-11-06T01:47:45+08:00 | 2018-11-03T04:26:08+08:00 |
+| 388 | [10/23 靈糧堂 - 下一代未來，取決於你 Youtube](../notes/fmhS8HqkTz21md2370BPig.md) | 2018-11-06T01:47:41+08:00 | 2018-11-03T02:20:33+08:00 |
+| 389 | [10/23 「自慰是人類開始呈現的一種方法」教案](../notes/1jqP21nXTxKdcWIeiXezpA.md) | 2018-11-06T01:47:30+08:00 | 2018-11-03T04:33:10+08:00 |
+| 390 | [10/24 鏡傳媒「我從哪裡來」繪本報導](../notes/xc6s5exBSUaiGmy4DjJfIA.md) | 2018-11-06T01:47:24+08:00 | 2018-10-24T22:07:10+08:00 |
+| 391 | [10/31 性教育手冊太露骨 學童廁所實戰　射精嚇壞](../notes/JOzebn0nR2u_335KzsQNWw.md) | 2018-11-06T01:47:14+08:00 | 2018-11-03T03:45:23+08:00 |
+| 392 | [10/25 法國家庭組織：同婚已讓「婚姻」兩字亳無意義](../notes/rLJjd2X5QgSK0ZEqOiI_OQ.md) | 2018-11-06T01:47:01+08:00 | 2018-11-03T04:14:24+08:00 |
+| 393 | [10/25 主動領10、11、12蓋同意，還要主動領14、15蓋不同意哦～](../notes/o5_pLQ5UTxS1D0EAQjE7fw.md) | 2018-11-06T01:46:54+08:00 | 2018-11-03T04:23:42+08:00 |
+| 394 | [10/26 沒有父母稱謂也沒有叔叔嬸嬸 / 民法將要去「男女」，改為「二人」；去「夫妻」，改為「伴侶」](../notes/QgVpvBckRseeDAF8pt8Cfw.md) | 2018-11-06T01:46:47+08:00 | 2018-11-03T03:31:42+08:00 |
+| 395 | [10/27 昨天晚上台北新店行道會教會張茂松牧師說](../notes/XqLpU4mBQGGioF7LgR90vg.md) | 2018-11-06T01:46:39+08:00 | 2018-11-03T04:07:18+08:00 |
+| 396 | [10/27 驚！台灣愛滋感染　亞洲四小龍之冠](../notes/DM6uS1tWQk2v6JqS7uGNiw.md) | 2018-11-06T01:46:30+08:00 | 2018-11-03T04:08:43+08:00 |
+| 397 | [10/28 明年5月份開始我們的小孩就會在學校被強迫上同志教育](../notes/EYOCgg5UQ02csjVjnkxELg.md) | 2018-11-06T01:46:16+08:00 | 2018-11-03T04:03:28+08:00 |
+| 398 | [10/29 「嚴謹的科學、醫學研究」卻沒有出處](../notes/p5tmlIXgSFiO2VO_OccUGw.md) | 2018-11-06T01:46:10+08:00 | 2018-10-30T12:58:03+08:00 |
+| 399 | [10/30 愛滋病是少部份個人或群體自求變性或亂性的私人情欲](../notes/veyzsJ1eQwCEctHv2fk7rQ.md) | 2018-11-06T01:46:02+08:00 | 2018-10-30T23:59:38+08:00 |
+| 400 | [10/30 「一個年輕人在24歲發現得了愛滋」算醫藥費](../notes/CIyQFqAbRhWCx7CIdtKw9g.md) | 2018-11-06T01:45:56+08:00 | 2018-11-03T03:49:00+08:00 |
+| 401 | [10/31 彩虹大遊行暴露身體傷風敗俗](../notes/clW62_8PR7uevvcIGA8beA.md) | 2018-11-06T01:45:35+08:00 | 2018-11-03T03:37:33+08:00 |
+| 402 | [10/30 法國法國20萬人上街頭要求廢除「同性婚姻法」](../notes/PXtXPytOSV-TYyMoQKUCaw.md) | 2018-11-06T01:45:26+08:00 | 2018-11-03T03:39:26+08:00 |
+| 403 | [10/31 民視報導考古學家說找到舊約聖經的所多瑪~淫亂罪惡大城](../notes/SIZFO4SyRbSe3Z3spc5H2w.md) | 2018-11-06T01:45:19+08:00 | 2018-11-03T03:46:53+08:00 |
+| 404 | [10/31 我之前是做外國人、外籍老師仲介，很多國外有愛滋病的都來臺灣](../notes/KrrtYJXRQNuMFBzt-6AtCA.md) | 2018-11-06T01:45:13+08:00 | 2018-11-03T03:55:44+08:00 |
+| 405 | [11/1 Eliza 媽媽性教育公投](../notes/Bs6qCeLfQUKqrJQ21O9LMw.md) | 2018-11-06T01:45:06+08:00 | 2018-11-03T03:24:45+08:00 |
+| 406 | [11/2 北美同志旅遊業者赴台熟悉旅遊機票採購](../notes/6GAaLQVjTIK76-0DewHmVw.md) | 2018-11-06T01:44:44+08:00 | 2018-11-03T02:18:30+08:00 |
+| 407 | [11/2 11/24為了下一代投同意票 Youtube](../notes/V8V2flTjRdO6rFvxBNAaPg.md) | 2018-11-06T01:44:37+08:00 | 2018-11-03T02:21:47+08:00 |
+| 408 | [11/3 昨天ㄧ位媽媽去地檢署按鈴申告，小六大兒子被強迫跟另外一個女生練習自慰](../notes/HJKZCB3XQrCDKn4hq3d-zQ.md) | 2018-11-06T01:44:30+08:00 | 2018-11-04T02:44:42+08:00 |
+| 409 | [10/24 性教育到底該從幾歲開始？又該如何拿捏？讓家長、老師、主管機關很頭痛，國外也一樣](../notes/LYI9EOa6S7-nGPYGeQX0Qg.md) | 2018-11-04T21:21:06+08:00 | 2018-11-03T04:28:24+08:00 |
+| 410 | [11/2 23 項課本爭議內容](../notes/zN7J7rNWR1y1I7EfJFdglw.md) | 2018-11-03T12:14:05+08:00 | 2018-11-03T02:17:14+08:00 |
+| 411 | [10/26 沒有父母稱謂 只有雙親一，雙親二，以後也沒有叔叔嬸嬸等稱謂了](../notes/iSOcVmiNT3G-EdYlfY8k0w.md) | 2018-11-03T11:09:40+08:00 | 2018-11-03T04:10:57+08:00 |
+| 412 | [10/24 【性教育衝過頭】教材太寫實　有學童在廁所實戰操演](../notes/bygCKYL4Q-2CccF0Ilemsg.md) | 2018-11-03T04:54:45+08:00 | 2018-11-03T04:27:09+08:00 |
+| 413 | [20181031 會議記錄](../notes/lEiRuvonTCiCRq4dvmBxZg.md) | 2018-10-31T22:11:24+08:00 | 2018-10-31T09:50:30+08:00 |
+| 414 | [20181024 會議記錄](../notes/nRRlIkzMQYy5RPd-15T4vw.md) | 2018-10-30T11:56:59+08:00 | 2018-10-24T13:11:27+08:00 |
+| 415 | [20181017 會議記錄](../notes/bgBSL7aYRziLDvSZzYp1Ww.md) | 2018-10-23T00:19:17+08:00 | 2018-10-17T01:53:20+08:00 |
+| 416 | [20181010 會議記錄](../notes/AzZMgKyeRLGhckfvxsg0bA.md) | 2018-10-10T23:06:25+08:00 | 2018-10-10T14:25:59+08:00 |
+| 417 | [FB Group 的正確打開方式](../notes/cnH6nDXfSriLdiRT-nB9Sw.md) | 2018-10-10T20:52:21+08:00 | 2018-09-02T09:58:27+08:00 |
+| 418 | [g0v summit 2018 《沒有人來做 Cofacts 編輯啦》 Rundown](../notes/lZp68U0yQDevFXceQSdLEw.md) | 2018-10-05T15:38:33+08:00 | 2018-09-30T17:31:17+08:00 |
+| 419 | [《沒有人要做 Cofacts 編輯啦！》Workshop 用文](../notes/Jmhj7ptnSyWwAc6I7RzzDw.md) | 2018-10-04T01:23:36+08:00 | 2018-10-04T01:23:24+08:00 |
+| 420 | [[TEST RUN]《沒有人要做 Cofacts 編輯啦！》Workshop 用文](../notes/ICJ0IT6PSVSWyXg8fKrv2w.md) | 2018-10-04T01:15:16+08:00 | 2018-09-30T19:48:56+08:00 |
+| 421 | [20181003 會議記錄](../notes/vqSq3364R5uu2AXcB5GlOQ.md) | 2018-10-03T17:52:54+08:00 | 2018-09-29T23:41:37+08:00 |
+| 422 | [20180926 會議記錄](../notes/NGg-X7OLQW674bZAbdvyUA.md) | 2018-09-26T22:51:06+08:00 | 2018-09-26T14:48:44+08:00 |
+| 423 | [20180919 會議記錄](../notes/7GfT5p0MSVmoWrwgNEft8g.md) | 2018-09-19T23:15:09+08:00 | 2018-09-19T11:17:38+08:00 |
+| 424 | [20180912 會議記錄](../notes/At7YimndTOWcS1Zej0UHYQ.md) | 2018-09-19T11:17:22+08:00 | 2018-09-12T11:12:30+08:00 |

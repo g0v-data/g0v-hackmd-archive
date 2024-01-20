@@ -40,6 +40,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 | 中央社 | cna.com.tw |
 | 公視 | pts.org.tw |
 | 警廣（線上直播） | https://www.pbs.npa.gov.tw/ch/app/programList/list?module=programlist&id=18112 |
+| 華視 | cts.com.tw |
 
 <!-- 
 |Youtube|youtube.com| 
@@ -92,14 +93,15 @@ https://g0v.hackmd.io/oyNRfe4lTuaZ5RbcPSS7TQ?both#peer-to-peer-服務測試
 
 > 烏克蘭曾經用一些健保APP來推播戰爭資訊，所以可能也能盤點台灣很普及的政府APP  [name=Ronny]
 
-| APP | 主管機關 / link | 備註 |
-|-|-|-|
-| 健保快易通 | 衛服部 | |
-| 集保e手掌握 | 臺灣集中保管結算所 |
-| 統一發票兌獎 | 財政部 |
-| 發票存摺 | https://apps.apple.com/tw/app/id1276986959 |
-| 雲端發票 | https://apps.apple.com/tw/app/id512920023 |
-
+| APP          | 主管機關 / link                            |備註 |
+| ------------ | ------------------------------------------ |---- |
+| 健保快易通   | 衛服部                                     |     |
+| 集保e手掌握  | 臺灣集中保管結算所                         |     |
+| 統一發票兌獎 | 財政部                                     |     |
+| 發票存摺     | https://apps.apple.com/tw/app/id1276986959 |      |
+| 雲端發票     | https://apps.apple.com/tw/app/id512920023  |    |
+| 臺北市行動防災 | https://www.gov.taipei/News_Content.aspx?n=E913E3AE42428718&sms=5E1F5CB2AD837CAE&s=A96715627B83D676  |     |
+| 消防防災e點通 | https://play.google.com/store/apps/details?id=com.nfa.report&hl=zh_TW&gl=US <br/> https://apps.apple.com/tw/app/%E6%B6%88%E9%98%B2%E9%98%B2%E7%81%BDe%E9%BB%9E%E9%80%9A/id1500403641|     |
 
 <!-- 
 我覺得這個屬於「日常不會用到的東西」，其覆蓋率應該會隨時間越來越低，且功能已停止也難以檢測，可先跳過

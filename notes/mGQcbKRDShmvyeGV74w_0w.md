@@ -41,6 +41,7 @@ We want to discuss measures for both governmental and civil department, that can
 ---
 - [Meshtastic as Citizen Network](https://g0v.hackmd.io/0bR8-LvHRMaNaR97YaXpnQ)
 - [數位韌性情境分級(wip)](https://g0v.hackmd.io/SYTBWVohTyuCgPGUqfAl9g)
+- [離線防災資訊資料庫](/0E3O29reTPSItud6rcupag)
 
 Other
 ---

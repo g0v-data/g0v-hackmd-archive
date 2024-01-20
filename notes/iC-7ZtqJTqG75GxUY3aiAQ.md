@@ -62,7 +62,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | 韌性情境分級表 |  | https://g0v.hackmd.io/SYTBWVohTyuCgPGUqfAl9g |
 | 重要網站列表與檢測 | Irvin | a.列舉急難時(對外中斷時)的重要網站<br>b.如何評估、檢測或倡議島外斷網時上述網站的韌性狀態<br>https://g0v.hackmd.io/@irvin/digital-services-resilience/edit |
 | P2P 服務測試 |  | [Quite](https://tryquiet.org/) 跟 [Keet](https://keet.io/) 吧 |
-| Data over voice 研究 | Ronny | 是否有辦法透過聲音傳遞資料呢？這樣是不是可以用 FM/AM 廣播傳遞更多更準確的資訊？ |
+| Data over voice 研究 | Ronny | 是否有辦法透過聲音傳遞資料呢？這樣是不是可以用 FM/AM 廣播傳遞更多更準確的資訊？ Ex: https://waver.ggerganov.com/ |
 | 利用 PWA 來做離線也可以瀏覽的防災手冊吧 | Ronny | PWA 是一種手機 App 技術，他可以簡單做出一個不需要安裝的 App ，並且在有網路時就更新資料，沒網路時就離線瀏覽，拿來當作防災手冊正好適合！ |
 | Meshtastic 測試 / user manual 撰寫 | Paul | https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/https%3A%2F%2Fg0v.hackmd.io%2F0bR8-LvHRMaNaR97YaXpnQ |
 | 歡迎新增提案 |  |  |
@@ -70,7 +70,6 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | 歡迎新增提案 |  |  |
 | 歡迎新增提案 |  |  |
 | 歡迎自己加入空行 |  |  |
-
 
 
 ---
@@ -122,9 +121,6 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
             - 團隊即時位置、距離，方位量測、3D 支援
             - 可串攝影機、可看 UAV、同步攝影機的位置與視角
             - 結構簡單，容易整合各式各樣的硬體、目前有很多現成的硬體可以一起使用
-
-
-
     - 相關資訊
         - [ATAK 應用推廣](https://drive.google.com/open?id=1WTUEo19rWgSt3mZYNKlHhjE8w6kFQ6w9CY9BiDBRq2U&usp=drive_copy) 
             - [ATAK 實際練習指引](https://docs.google.com/document/d/1iYTytoNjY5m9yEANjiXu5BLPjMe8uSo60hC5pn4Kj-c/edit#heading=h.tj6zxe1x7lkt)

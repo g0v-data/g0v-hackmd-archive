@@ -2,5 +2,5 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [城市與數學](../notes/sRWE7B0BTsadnWsrV9L7kA.md) | 2023-03-24T06:05:00.952Z | 2015-08-05T13:24:57.000Z |
-| 2 | [Homotopy Type Theory 讀書會](../notes/AD3st8qeS4WxrOQf3ebpEg.md) | 2020-08-06T02:29:59.340Z | 2015-12-06T03:45:11.000Z |
+| 1 | [城市與數學](../notes/sRWE7B0BTsadnWsrV9L7kA.md) | 2023-03-24T14:05:00+08:00 | 2015-08-05T21:24:57+08:00 |
+| 2 | [Homotopy Type Theory 讀書會](../notes/AD3st8qeS4WxrOQf3ebpEg.md) | 2020-08-06T10:29:59+08:00 | 2015-12-06T11:45:11+08:00 |
