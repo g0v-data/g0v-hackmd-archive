@@ -49,8 +49,8 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | 1230 - 1300 | 活動入場 | 歡迎帶午餐或點心來享用 |
 | 1300 - 1315 | 介紹 | 介紹完記得拍大合照XD |
 | 1315 - 1345 | 提案 | |
-| 1345 - 1630 | Hacking | a.k.a. 開始做專案 |
-| 1630 - 1700 | 成果發表 | |
+| 1345 - 1600 | Hacking | a.k.a. 開始做專案 |
+| 1600 - 1700 | 成果發表 | |
 
 ## 提案區
 歡迎自由編輯～
@@ -65,9 +65,6 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | Data over voice 研究 | Ronny | 是否有辦法透過聲音傳遞資料呢？這樣是不是可以用 FM/AM 廣播傳遞更多更準確的資訊？ Ex: https://waver.ggerganov.com/ |
 | 利用 PWA 來做離線也可以瀏覽的防災手冊吧 | Ronny | PWA 是一種手機 App 技術，他可以簡單做出一個不需要安裝的 App ，並且在有網路時就更新資料，沒網路時就離線瀏覽，拿來當作防災手冊正好適合！ |
 | Meshtastic 測試 / user manual 撰寫 | Paul | https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/https%3A%2F%2Fg0v.hackmd.io%2F0bR8-LvHRMaNaR97YaXpnQ |
-| 歡迎新增提案 |  |  |
-| 歡迎新增提案 |  |  |
-| 歡迎新增提案 |  |  |
 | 歡迎新增提案 |  |  |
 | 歡迎自己加入空行 |  |  |
 
@@ -135,6 +132,19 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
             - 方法會跟 「民間回報給相關單位發想」的執行細節很像，晚一點再來推動
             - 相關資料會容易讓民間取得，成為本提案的資料內容，且與事件即時結合
 
-### 歡迎新增提案 
+### PWA 離線儲存
+- sample code: https://github.com/ronnywang/github-page-pwa
+    - Test: https://ronnywang.github.io/github-page-pwa/
+    - 使用/開發注意事項：
+        - 下載後，把 index.html、 manifest.webmanifest 、sw.js 把目錄名稱改掉，放到支援 https 的網域，就可以離線儲存了
+            - index.html: meta.canonical, meta.manifest 要改目錄名稱
+        - iOS 有 50MB 限制， Android 是 <6% of free space, [來源](iOS 有 50MB 限制， Android 是 <6% of free space)
+        - 開發如何測試、偵錯，可參考 [google提供的](https://developer.chrome.com/docs/devtools/progressive-web-apps?hl=zh-tw)
 
-### 歡迎新增提案
+### data over voice
+- Jimmy C. 實驗透過無線段傳輸
+    - Jimmy C. : 測試 Waver 聲音訊號透過 FM 波段無線電傳輸，測試頻率 144.660。直接由電腦播放 Waver 軟體產生的音頻至無線電，另一部無線電直接將音頻波ㄈㄤ，成功，但成功率偏低，推測主因是無線電靈敏度低。若將 Waver 音頻放大，或是直接 line-in 至無線電發送，則較可能實用。 
+    - 效果最好的 protocol 是 DT，U 則完全無法工作。
+ - 現場實驗透過 電腦 => NIOPORTABLE => 103.2MHz => TECSUN PL990 FM收音機 => 手機 傳遞資料
+     - Ultrasound 無法使用 (15khz 以上)
+     - 如果多一點人在講話的話會傳輸失敗

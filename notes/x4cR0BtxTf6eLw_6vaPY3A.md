@@ -74,7 +74,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 
 
 <!-- 本專案納入的範圍為「平常就被大量使用，而災難時希望能維持運作的民生服務」，以下適合災難環境下使用的服務移到:
-https://g0v.hackmd.io/oyNRfe4lTuaZ5RbcPSS7TQ?both#peer-to-peer-服務測試
+https://g0v.hackmd.io/_HFiW7HDT9S2lwf02hTJNA?view
 
 | Briar      | briarproject.org | 不需要網際網路，僅靠藍芽即可傳送文字訊息的通訊軟體。初次設定仍需網際網路。 |
 | Bridgefy   | bridgefy.me | （同上，但沒開源。） |
@@ -90,29 +90,26 @@ https://g0v.hackmd.io/oyNRfe4lTuaZ5RbcPSS7TQ?both#peer-to-peer-服務測試
 | 國防部 | www.mnd.gov.tw ||
 | 內政部 警政署 防空避難專區 | https://adr.npa.gov.tw |  (Website, Google Map) |
 
+
 ### 政府 APP / 金流 / 發票
 
 > 烏克蘭曾經用一些健保APP來推播戰爭資訊，所以可能也能盤點台灣很普及的政府APP  [name=Ronny]
 
-| APP          | 主管機關 / link                            |備註 |
-| ------------ | ------------------------------------------ |---- |
-| 健保快易通   | 衛服部                                     |     |
-| 集保e手掌握  | 臺灣集中保管結算所                         |     |
-| 統一發票兌獎 | 財政部                                     |     |
-| 發票存摺     | https://apps.apple.com/tw/app/id1276986959 |      |
-| 雲端發票     | https://apps.apple.com/tw/app/id512920023  |    |
-| 臺北市行動防災 | https://www.gov.taipei/News_Content.aspx?n=E913E3AE42428718&sms=5E1F5CB2AD837CAE&s=A96715627B83D676  |     |
-| 消防防災e點通 | https://play.google.com/store/apps/details?id=com.nfa.report&hl=zh_TW&gl=US <br/> https://apps.apple.com/tw/app/%E6%B6%88%E9%98%B2%E9%98%B2%E7%81%BDe%E9%BB%9E%E9%80%9A/id1500403641|     |
+| APP | 主管機關 / link |
+| --- | --- | 
+| 健保快易通 | 衛服部 | 
+| 集保e手掌握 | 臺灣集中保管結算所 | 
+| 統一發票兌獎 | 財政部 |
+| 發票存摺 | https://apps.apple.com/tw/app/id1276986959 |
+| 雲端發票 | https://apps.apple.com/tw/app/id512920023 |
+| 臺北市行動防災 | https://www.gov.taipei/News_Content.aspx?n=E913E3AE42428718&sms=5E1F5CB2AD837CAE&s=A96715627B83D676 |
+| 消防防災e點通 | https://play.google.com/store/apps/details?id=com.nfa.report&hl=zh_TW&gl=US <br/> https://apps.apple.com/tw/app/%E6%B6%88%E9%98%B2%E9%98%B2%E7%81%BDe%E9%BB%9E%E9%80%9A/id1500403641 |
 
-<!-- 
-我覺得這個屬於「日常不會用到的東西」，其覆蓋率應該會隨時間越來越低，且功能已停止也難以檢測，可先跳過
-| 台灣社交距離 | 衛服部 | 疫情期間實裝的 | 
--->
 
 ### 銀行
 
-| 銀行名稱 | 官方下載頁面                                                                             |
-| -------- | ---------------------------------------------------------------------------------------- |
+| 銀行名稱 | 官方下載頁面 |
+| --- | --- |
 | 國泰世華 | https://www.cathaybk.com.tw/cathaybk/promo/event/ebanking/product/appdownload/index.html |
 | 富邦     | https://www.fubon.com/banking/personal/mobile/index.htm                                  |
 | 聯邦     | https://play.google.com/store/apps/details?id=wbank.ubot.com.tw&hl=en_US                 |
@@ -134,6 +131,8 @@ https://g0v.hackmd.io/oyNRfe4lTuaZ5RbcPSS7TQ?both#peer-to-peer-服務測試
 |-|-|
 | X | x.com |
 | Facebook | facebook.com |
+| Telegram | |
+| IG | |
 
 
 
@@ -156,20 +155,34 @@ https://g0v.hackmd.io/oyNRfe4lTuaZ5RbcPSS7TQ?both#peer-to-peer-服務測試
 
 > iPhone / mac 運作時會存取（depend）超多 icloud 下的服務（與 api），android / windows 有什麼相對的服務?[name=irvin]
 
+### Cert
+
+如果對外網路中斷時，cert 的機制會有影響嗎？
+
+| 廠商 | 台灣節點 | 備註 | |
+|-|-|-|-|
+| Digicert | | 憑證驗證商<br> 在檢視 DNS log 時，發現 iPhone / Mac 都對這個憑證商有大量存取，如果無法使用，是否會造成 https 連鎖信任問題？ [name=Irvin] |
+
+### DNS
+
+| | IP | 台灣節點 |
+|-|-|-|-|
+| Google Public DNS | 8.8.8.8 | ? |
+| Hinet DNS | 168.95.1.1 / 168.95.192.1 | Y |
 
 
 ### 雲端平台 / IaaS / SaaS
 
-| 供應商 | 台灣有節點  | 資料來源 | 備註 |
-| --- | --- | --- | --- |
-| AWS | Y | [ref](https://aws.amazon.com/tw/about-aws/global-infrastructure/localzones/locations/) | |
-| Azure | Coming soon | [ref](https://azure.microsoft.com/zh-tw/explore/global-infrastructure/geographies/#geographies) | |
-| Azure CDN | Y | [ref](https://learn.microsoft.com/zh-tw/azure/cdn/microsoft-pop-abbreviations) | |
-| Google Cloud   | Y | | |
-| Cloudflare | Y | | |
-| Akamai | | | |
-| Digicert |  | | 憑證驗證商<br> 在檢視 DNS log 時，發現 iPhone / Mac 都對這個憑證商有大量存取，如果無法使用，是否會造成 https 連鎖信任問題？ [name=Irvin] |
-| GitHub | | | 許多軟體資源都在上面，少了它可能有很多緊急建置需求無法達成 |
+| 供應商 | 台灣有節點 | 備註 |
+| --- | --- | --- |
+| AWS | [Y](https://aws.amazon.com/tw/about-aws/global-infrastructure/localzones/locations/) |
+| Azure Edge | [Coming Soon](https://azure.microsoft.com/zh-tw/explore/global-infrastructure/geographies/#geographies) |
+| Azure CDN | [Y](https://learn.microsoft.com/zh-tw/azure/cdn/microsoft-pop-abbreviations) |
+| Google Cloud Edge | [Y](https://cloud.google.com/about/locations?hl=zh-tw#lightbox-edgepoint-map) |
+| Google Cloud CDN | [Y](https://cloud.google.com/about/locations?hl=zh-tw#lightbox-cdn-map) |
+| Cloudflare | [Y](https://www.cloudflare.com/zh-tw/network/) |
+| Akamai | [Y](https://www.akamai.com/legal/compliance/privacy-trust-center/list-of-countries-with-server-points-of-presence) | | |
+| GitHub | | 許多軟體資源都在上面，少了它可能有很多緊急建置需求無法達成 |
 | Google Workspace | | | 許多企業運作必須 |
 | Microsoft 365 | | | 同上 |
 

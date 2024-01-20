@@ -4,16 +4,19 @@ tags: GIS, 防災, 民防
 
 # WaytoSafety 隨時隨地知道避難場所位置<br>Shelter Map (Taiwan, Japan, Korea)
 
+<https://g0v.hackmd.io/@chewei/waytosafety-home>
+
 :::info
 Channel:
-- g0v Slack #disaster-go
-- g0v Slack #facing-the-ocean
+- 臺灣資料討論頻道 g0v Slack #disaster-go
+- 日本與韓國資料的討論頻道 g0v Slack #facing-the-ocean
+    - 這個頻道有與 Code for Japan, Code for Korea 的社群共用交流
 
 Contributor: 
-- 資料勘誤
+- 感謝投入資料勘誤
     - chewei 
     - [林博仁(Buo-ren, Lin)](https://brlin.me)
-    - id
+    - Reily
 - supaplextw 協助找到消防署釋出的全台資料集 & 分享 OpenStreetMap 過去有整合過一次防災避難收容點位資料
 - hwan 分享韓國的 Shelter 查詢網頁，以及用詞建議 "대피소" 也分享韓國政府資料開放平台上避難所的 API 釋出網頁，並且彙整靜態資料 csv (2024.01)
 :::
@@ -23,38 +26,41 @@ Contributor:
 [TOC]
 :::
 
-Intro:
-- Offline Map
-- Open Data / Release Data
-- Evacuation Drill / Record
 
 ## Offline Map
 
 ### 全國各村里簡易疏散避難地圖
 
-簡易疏散避難地圖，但好像還是各村里 PDF 檔案方式釋出？
-https://www.nfa.gov.tw/cht/index.php?code=list&ids=82
+各村里簡易疏散避難地圖 PDF 檔案
+- 消防署建立的整合入口查詢網頁：https://www.nfa.gov.tw/cht/index.php?code=list&ids=82
 
-補充： [開放資料](https://data.gov.tw/datasets/search?p=1&size=10&s=_score_desc&rft=%E5%90%84%E5%8D%80%E9%87%8C%E7%96%8F%E6%95%A3%E9%81%BF%E9%9B%A3%E5%9C%96)
-如何找到自己所在的村里避難地圖，推廣網頁
-https://www.safetaiwan.com/blogs/disaster-prevention-column/evacuation-map
+避難地圖的下載來源補充：
+- 政府資料開放平臺上面有部分的縣市有釋出 [開放資料](https://data.gov.tw/datasets/search?p=1&size=10&s=_score_desc&rft=%E5%90%84%E5%8D%80%E9%87%8C%E7%96%8F%E6%95%A3%E9%81%BF%E9%9B%A3%E5%9C%96)
+    - ㄉㄢ
+- 國家災害防救科技中心 NCDR 資料平台上，也有釋出部分縣市的避難地圖資料
+    - 資料平台網址：https://datahub.ncdr.nat.gov.tw/dataset
+    - 20240108 chewei 撰寫申請資料名稱包含「避難」一詞的資料集或檔案，等待審核；需於 2024-01-15 之前下載
+        - 檔案資料夾：https://drive.google.com/drive/folders/1-KoiXmLJnQR0SWiy3xnbbYFTf0umUIgV?usp=sharing
+
+民間撰寫的介紹文章：如何找到自己所在的村里避難地圖？
+- https://www.safetaiwan.com/blogs/disaster-prevention-column/evacuation-map
 
 ### 特定地區或園區的避難地圖
 
-國內研究「地形特徵圖」部分地區有產製避難路線建議章節
-https://atlas.geo.ntnu.edu.tw/
-- 木柵 https://atlas.geo.ntnu.edu.tw/html/muzha.html
-    - 這本並沒有談到避難路線 
-- 南投縣草屯鎮 https://atlas.geo.ntnu.edu.tw/html/caotun.html
-    - 這本並沒有談到避難路線 
-- 臺東縣成功鎮 https://atlas.geo.ntnu.edu.tw/html/chengkung.html
-    - 這本並沒有談到避難路線 
+國內研究「地形特徵圖」有針對部分地區有產製避難路線建議章節
+https://atlas.geo.ntnu.edu.tw/ 
 - 花蓮縣玉里鎮-D018大規模崩塌潛勢區 https://atlas.geo.ntnu.edu.tw/html/antun.html
     - 這本有介紹避難路線與各部落避難建議據點
 - 屏東縣來義鄉來社溪 https://atlas.geo.ntnu.edu.tw/html/laiyi.html
     - 這本有介紹避難路線與各部落避難建議據點
 - 高雄市桃源區荖濃溪 https://photos.app.goo.gl/oJ1VFzUmBvSJJm1m9
     - 這本有介紹避難路線與各部落避難建議據點
+- 木柵 https://atlas.geo.ntnu.edu.tw/html/muzha.html
+    - 不過，這本並沒有談到避難路線 
+- 南投縣草屯鎮 https://atlas.geo.ntnu.edu.tw/html/caotun.html
+    - 不過，這本並沒有談到避難路線 
+- 臺東縣成功鎮 https://atlas.geo.ntnu.edu.tw/html/chengkung.html
+    - 不過，這本並沒有談到避難路線
 
 園區
 - 產業與科學園區
