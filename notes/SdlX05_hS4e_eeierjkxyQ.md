@@ -10,10 +10,6 @@
 點擊上方左右側的<span style="padding: 1px 1.5px 3px 3.5px; background: white; border-radius: 5px; margin: 0px 4px;"><i class="fa fa-pencil fa-fw"></i></span>開始進行編輯
 :::
 
-## 成果發表<br>Progress publication
-
-* [《g0v 第貳次數位韌性松》成果發表簡報](/5o9f7rpqR1eetfFQOlB2LQ)
-
 ## 勘誤工作<br>Error correction tasks
 
 * [Shelter 消防署釋出避難收容處所點位檔案-20240107](https://app.awesome-table.com/-NnYWzaRVwV_CasaZLAV/view)  
@@ -34,6 +30,10 @@
   看看有沒有劑有的開放資料可以利用
 * [避難指示等に関する多言語辞書（14か国語）](https://docs.google.com/spreadsheets/d/16mJKMmLcNQ5z3NtuB3wqD-UbHn8OkHW1/preview)  
   由日本公家機關整理的，不同情境的多國語言訊息，可用於應用軟體的在地化(L10N)參考
+
+## 成果發表<br>Progress publication
+
+* [《g0v 第貳次數位韌性松》成果發表簡報](/5o9f7rpqR1eetfFQOlB2LQ)
 
 ## 平台使用說明📖<br>HOWTOs
 

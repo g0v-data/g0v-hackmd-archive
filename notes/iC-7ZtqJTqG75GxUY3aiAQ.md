@@ -138,13 +138,20 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
     - 使用/開發注意事項：
         - 下載後，把 index.html、 manifest.webmanifest 、sw.js 把目錄名稱改掉，放到支援 https 的網域，就可以離線儲存了
             - index.html: meta.canonical, meta.manifest 要改目錄名稱
+            - 到指定目錄後，可以用右上角的下載圖示（chrome）來安裝
+            - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_74217ae5d8e0d8ebc1c43bb360d65224.png
+)
         - iOS 有 50MB 限制， Android 是 <6% of free space, [來源](iOS 有 50MB 限制， Android 是 <6% of free space)
-        - 開發如何測試、偵錯，可參考 [google提供的](https://developer.chrome.com/docs/devtools/progressive-web-apps?hl=zh-tw)
+        - 開發如何測試、偵錯，可參考 google 提供的[對漸進式網頁應用程式進行偵錯](https://developer.chrome.com/docs/devtools/progressive-web-apps?hl=zh-tw) 
+            - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_573a8e2bc11d31b741e495e24f95ffd4.png)
+
 
 ### data over voice
-- Jimmy C. 實驗透過無線段傳輸
-    - Jimmy C. : 測試 Waver 聲音訊號透過 FM 波段無線電傳輸，測試頻率 144.660。直接由電腦播放 Waver 軟體產生的音頻至無線電，另一部無線電直接將音頻波ㄈㄤ，成功，但成功率偏低，推測主因是無線電靈敏度低。若將 Waver 音頻放大，或是直接 line-in 至無線電發送，則較可能實用。 
+- jimmy C. 實驗透過無線段傳輸
+    - 測試 Waver 聲音訊號透過 FM 波段無線電傳輸，測試頻率 144.660。直接由電腦播放 Waver 軟體產生的音頻至無線電，另一部無線電直接將音頻播放給手機聽，測試成功，但因無線電收音靈敏度不高，若將能 Waver 音量放大，或是直接 line-in 至無線電發送，則較可能實用。
+    - Waver 訊號前後會各有一段長音，如果搭配 line-in 線及無線電的聲音啟動送信功能，理論上應該可以做到在鍵盤上輸入完成就自動發送的機制。 
     - 效果最好的 protocol 是 DT，U 則完全無法工作。
+    - 公開頻道，訊息完全沒有保密性可言，不建議使用明碼。
  - 現場實驗透過 電腦 => NIOPORTABLE => 103.2MHz => TECSUN PL990 FM收音機 => 手機 傳遞資料
      - Ultrasound 無法使用 (15khz 以上)
      - 如果多一點人在講話的話會傳輸失敗

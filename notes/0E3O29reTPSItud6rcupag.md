@@ -125,11 +125,13 @@
     * 保暖衣物
     * 醫療＆清潔用品
     * 其它：哨子、防災地圖、可攜式收音機、手電筒、電池、打火機、瑞士刀、開罐器、紙筆、繩索... etc.
+    * 不要忘了重要物品：少許現金、證件影本
 
 ### 緊急救護
 {%youtube ZxirsV5iq0Y %}
 
-
+### 「避難收容處所」[這邊找](https://www.nfa.gov.tw/cht/index.php?code=list&ids=82)
+#### 想找更多避難相關資料 [這邊請](https://g0v.hackmd.io/@chewei/SJeTRFyFYp/https%3A%2F%2Fg0v.hackmd.io%2F%40chewei%2Fwaytosafety-home)
 
 ## 火山
 [3D 災害潛勢地圖](https://dmap.ncdr.nat.gov.tw/1109/map/)

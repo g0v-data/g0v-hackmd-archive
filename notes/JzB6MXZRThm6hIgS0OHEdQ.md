@@ -36,7 +36,7 @@ Contributor:
 
 避難地圖的下載來源補充：
 - 政府資料開放平臺上面有部分的縣市有釋出 [開放資料](https://data.gov.tw/datasets/search?p=1&size=10&s=_score_desc&rft=%E5%90%84%E5%8D%80%E9%87%8C%E7%96%8F%E6%95%A3%E9%81%BF%E9%9B%A3%E5%9C%96)
-    - ㄉㄢ
+    - 20240120 有看到 臺北市
 - 國家災害防救科技中心 NCDR 資料平台上，也有釋出部分縣市的避難地圖資料
     - 資料平台網址：https://datahub.ncdr.nat.gov.tw/dataset
     - 20240108 chewei 撰寫申請資料名稱包含「避難」一詞的資料集或檔案，等待審核；需於 2024-01-15 之前下載
@@ -62,8 +62,12 @@ https://atlas.geo.ntnu.edu.tw/
 - 臺東縣成功鎮 https://atlas.geo.ntnu.edu.tw/html/chengkung.html
     - 不過，這本並沒有談到避難路線
 
-園區
-- 產業與科學園區
+產業與科學園區
+- 國家科學及技術委員會新竹科學園區管理局
+    - 新竹園區防災地圖(pdf檔)、竹南園區防災地圖(pdf檔)、龍潭園區防災地圖(pdf檔)、銅鑼園區防災地圖(pdf檔)、宜蘭園區防災地圖(pdf檔)、生醫園區防災地圖(pdf檔)
+    - https://www.sipa.gov.tw/home.jsp?mserno=201604180001&serno=201001210016&menudata=ChineseMenu&contlink=ap/download_view.jsp&dataserno=202307040001
+
+其他，找找看
 - 交通園區
 - 海生館
 

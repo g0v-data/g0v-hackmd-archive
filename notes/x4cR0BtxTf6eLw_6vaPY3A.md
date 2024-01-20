@@ -134,6 +134,12 @@ https://g0v.hackmd.io/_HFiW7HDT9S2lwf02hTJNA?view
 | Telegram | |
 | IG | |
 
+### 工作
+
+| | | |
+|-|-|-|
+| Google Workspace | | 許多企業運作必須 |
+| Microsoft 365 | | 同上 |
 
 
 ---
@@ -182,9 +188,7 @@ https://g0v.hackmd.io/_HFiW7HDT9S2lwf02hTJNA?view
 | Google Cloud CDN | [Y](https://cloud.google.com/about/locations?hl=zh-tw#lightbox-cdn-map) |
 | Cloudflare | [Y](https://www.cloudflare.com/zh-tw/network/) |
 | Akamai | [Y](https://www.akamai.com/legal/compliance/privacy-trust-center/list-of-countries-with-server-points-of-presence) | | |
-| GitHub | | 許多軟體資源都在上面，少了它可能有很多緊急建置需求無法達成 |
-| Google Workspace | | | 許多企業運作必須 |
-| Microsoft 365 | | | 同上 |
+| GitHub | ? ([ref](https://github.com/orgs/community/discussions/42169#discussioncomment-4454218)) | 許多軟體資源都在上面，少了它可能有很多緊急建置需求無法達成 |
 
 
 ### 被許多廣泛使用的 framework / service
