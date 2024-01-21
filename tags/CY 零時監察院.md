@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [GXV: Guan Xi Visualized 關係視覺化](../notes/ZLjJxxzSSAelKvbaQbhDIQ.md) | 2023-09-20T00:54:31+08:00 | 2014-01-09T23:50:37+08:00 |
+| 1 | [GXV: Guan Xi Visualized 關係視覺化](../notes/ZLjJxxzSSAelKvbaQbhDIQ.md) | 2024-01-21T11:31:15+08:00 | 2014-01-09T23:50:37+08:00 |
 | 2 | [20221217 政治獻金發展-短講影片與簡報](../notes/QGAPQeaiTaGzbnvXkplnxg.md) | 2023-01-28T18:46:45+08:00 | 2022-12-25T16:00:47+08:00 |
 | 3 | [開放政治獻金](../notes/ZvOb3i_GR0ODjXurSgY4pQ.md) | 2022-12-23T17:04:08+08:00 | 2013-12-17T20:25:03+08:00 |
 | 4 | [開放政治獻金：facebook 貼文草稿協作](../notes/iMyxLjTXSbu8y6CEES3S3A.md) | 2016-05-12T03:38:40+08:00 | 2014-07-13T04:23:07+08:00 |

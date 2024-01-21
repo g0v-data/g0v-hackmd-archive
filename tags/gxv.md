@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [GXV: Guan Xi Visualized 關係視覺化](../notes/ZLjJxxzSSAelKvbaQbhDIQ.md) | 2023-09-20T00:54:31+08:00 | 2014-01-09T23:50:37+08:00 |
+| 1 | [GXV: Guan Xi Visualized 關係視覺化](../notes/ZLjJxxzSSAelKvbaQbhDIQ.md) | 2024-01-21T11:31:15+08:00 | 2014-01-09T23:50:37+08:00 |
 | 2 | [《總統的親戚》筆記與發想](../notes/PUlBCgrTTrOpkd9mixnv7g.md) | 2022-12-14T19:36:04+08:00 | 2014-09-14T20:48:33+08:00 |
 | 3 | [gxv bookmode](../notes/AYyVgkqhRF64s9ohuxSNDQ.md) | 2021-08-02T14:24:51+08:00 | 2021-08-02T14:20:46+08:00 |
 | 4 | [中研院企業親屬關係資料與研究](../notes/EHPdJZ7mR-i9WiaIdyLnoA.md) | 2021-08-02T14:20:28+08:00 | 2014-11-17T22:49:51+08:00 |

@@ -1,5 +1,4 @@
 ---
-title: "GXV: Guan Xi Visualized 關係視覺化"
 tags: gxv,CY 零時監察院,工人智慧,gxv
 ---
 
@@ -264,6 +263,7 @@ Hackfoldr [http://hackfoldr.org/gxv](http://hackfoldr.org/gxv)
     - https://www.facebook.com/100002478118417/posts/1986298974796020/
     - 2020/01/16 從台中顏家輸到雲林張家，立委選舉重挫代表地方派系被殲滅了嗎？
         - https://www.thenewslens.com/article/130133
+- 陳俞融https://www.facebook.com/share/p/zbpXPapfUYN5XoWP/
 - 顏家企業 https://m.facebook.com/story.php?story_fbid=pfbid0ZSGUEdub8NYJ9XB8G7F7mgwDdQE3TrZuJQQsQMNUG35qqDvPYbtAwdpyVGLhUkLSl&id=140282406003843
 - https://www.facebook.com/103032645529885/posts/113373044495845/
 - 摘：根據廠商名冊，謝新興正是南彰化知名地方政治家族謝家成員，是甫成新科立委、「為母復仇」的國民黨立委謝衣鳳伯父
