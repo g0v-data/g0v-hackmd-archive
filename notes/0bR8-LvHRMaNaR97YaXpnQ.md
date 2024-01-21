@@ -77,6 +77,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
                 - > 可以考慮移到 MCU 端做, 那就要考慮互通性問題 [name=..]
                 - > 是不是持續發, 是 MAC 層決定，Meshtastic 有自己的 Flooding 式廣播 [name=..]
         - 有些玩野外的搭配 TAK 地圖在用 https://read01.com/zh-tw/PzOJLL4.html
+            - 原文 https://hackaday.com/2022/09/08/the-tak-ecosystem-military-coordination-goes-open-source/
             - 可以搭配哈爸的 ATAK，可掛 Lora，working proof
             - 傳一個座標需要一分鐘，可以但效能不理想，還是比較適合 text 傳輸
               - 傳一個座標需一分.設定錯誤? 效能不會這樣差.請列出FW版本和app版本. [name=gavin]
