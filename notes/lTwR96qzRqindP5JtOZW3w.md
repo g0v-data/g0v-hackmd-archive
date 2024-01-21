@@ -26,11 +26,12 @@ Fastled 2.0
      B值 : 0~255
 
      可用簡易的方法輸出    CRGB::顏色名稱(Black即為無色)
-* color代碼:
+* **color代碼:**
   http://www.taichi-maker.com/homepage/reference-index/arduino-library-index/fastled-library/rgb-color/
-![reference link]
-用法:
- leds[0] = CRGB::Black;
+**用法:**
+ leds[i] = CRGB::Black;        
+ *i為 燈條上第i顆led燈，從0開始數*
+
 
 
 
