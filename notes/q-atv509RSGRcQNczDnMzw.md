@@ -275,6 +275,10 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
     - 起初歐盟其他三個 model 不錯，但是發現第三世界國家和蘇俄中國太積極在聯合國體系運作，因此相對支持 model 2（維持原狀）
     - 歐盟在網路產業是 loser，之後就想成為 regulator maker
         - 但可以彌補歐盟在網路商業上的失敗嗎？這是一個問題
+- 四個 model 中，其中三個提案都可以看出聯合國企圖要將 ICANN 納入聯合國體系中
+![](https://imagedelivery.net/WO_sK8AGsHZbPc2iUuxbgA/8f730536-eaad-4dda-cd4c-66122913c900/public)
+
+
 - TUNIS Agenda 是開三天會議後，討論出的決議
     - 但實際上就只產生了要開 IGF 的結論
 
@@ -289,18 +293,11 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
     - 假如 .cn 被美國切斷，還可以透過其他 anycast mirror 來讓 .cn 繼續連，只是不要更新 anycast 即可
     - 或許台灣也要有類似的東西
 
-
-### 最後要關注點
-- 這份文件的最後面提了四個架構
-    - 這邊可以看出聯合國企圖要將 ICANN 納入聯合國體系中
-
-
-
 ## 疑問
 ### 什麼事件導致這個 WG 的產生
-- 聯合國維和部隊只用於維護和平不打人
-- 對不同的 sovernity 是沒有強制規範力的、沒有制裁權，但依舊還是很重要的溝通平台
-- Biden 一直想要跟習近平對話
+- 雖然 UN 對不同的 sovernity 是沒有強制規範力的、沒有制裁權，但依舊還是很重要的溝通平台
+    - 聯合國維和部隊只用於維護和平不打人
+    - e.g. even 中國很難溝通，民主國家 Biden 依舊會想要跟習近平保持對話空間
 - 聯合國有很多分組織專注在不同領域上，internet governance 議題聯合國不知道要放在哪裡
 
 ### 國內的 NGO 有沒有什麼方式可以參與網路治理領域？
@@ -312,15 +309,21 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 - interest 有真空
     - milton 沒興趣了，但又捨不得關掉
 - GNSO 
-
 - Steve Crocker 把 ITU 趕出去，換成 Technical Liaison Groups 
 
+- > 請參考 ICANN Structure [name=paul]
+- ![](https://archive.icann.org/images/org-structure-700x420-14mar11.jpg)
+
+
+## todo
+- [ ] 建立讀書會帳本 [name=paul]
+
+## 閒聊
+
 > [name=林博仁] 有必要貼原文過來嗎（汗）
-> [name=paul] 我都習慣這樣（？）反正又沒有容量限制XD 這是 g0v host 的 XD
+> [name=paul] 我都習慣這樣（？）反正又沒有容量限制XD
 > [name=林博仁] 好喔 ~~HackMD：~~
-
-
-Steve Crocker
+> > [name=paul] 這是 g0v 揪松 host 的 XD
 
 
 <!--- 大家可以多幾個空白打在下面 --->

@@ -40,3 +40,61 @@ Fastled 2.0
      H值 : 色相/色調 (Hue) 0~255
      S值 : 飽和度(Saturation)  0 ~ 255 
      V值 : 色調  (Value) 0~255
+
+
+
+
+# **New knowledge:**
+1. **uint?_t**
+    uint8_t為0~2^8-1 (0x00~0xFF)
+    uint16_t為0~2^16-1 (0x0000~0xFFFF)
+    uint32_t為0~2^32-1 (0x00000000~0xFFFFFFFF)
+    uint64_t為0~2^64-1 (0x0000000000000000~0xFFFFFFFFFFFFFFFF)
+    
+2. i是座標系統(目前無垂直向量):
+```
+//設定部分
+// Params for width and height
+const uint8_t kMatrixWidth = 16;
+const uint8_t kMatrixHeight = 16;
+
+// Param for different pixel layouts
+const bool    kMatrixSerpentineLayout = true;
+const bool    kMatrixVertical = false;
+
+//座標系統部分(檢索座標):
+uint16_t XY( uint8_t x, uint8_t y)  //一個大空間的副函式
+{
+  uint16_t i;
+  //沒有垂直向量、所有的座標從左側出發
+  if( kMatrixSerpentineLayout == false) {
+    if (kMatrixVertical == false) {
+      i = (y * kMatrixWidth) + x;
+    } else {
+      i = kMatrixHeight * (kMatrixWidth - (x+1))+y;
+      
+    }
+  }
+//沒有垂直向量、下行的座標從上個座標x開始出發
+  if( kMatrixSerpentineLayout == true) {
+    if (kMatrixVertical == false) {
+      if( y & 0x01) {
+        // Odd rows run backwards
+        uint8_t reverseX = (kMatrixWidth - 1) - x;
+        i = (y * kMatrixWidth) + reverseX;
+      } else {
+        // Even rows run forwards
+        i = (y * kMatrixWidth) + x;
+      }
+    } else { // vertical positioning
+      if ( x & 0x01) {
+        i = kMatrixHeight * (kMatrixWidth - (x+1))+y;
+      } else {
+        i = kMatrixHeight * (kMatrixWidth - x) - (y+1);
+      }
+    }
+  }
+  
+  return i;
+}
+```
