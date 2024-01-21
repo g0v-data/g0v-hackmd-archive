@@ -204,7 +204,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
                 - 太慢、沒廠商想支援
                 - ~~存在感低到 KW Wu 忘記叫什麼名字~~ ~~不是 WiMAX~~
 
-    - 網路間{互連|peering} 和 inter-connection
+    - 網路間{互連|peering} 和 inter-connection、{電信基礎建設|telecommunications infrastructure}
         - 兩個網路要互連線要先拉過去
             - 問題：CHT 掌握所有 land line，講話比較大聲，你不付錢我就不接
                 - 誰要拉過去誰那裡
@@ -257,7 +257,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 - WTO 也會談類似問題
 ##### Multilingualism
 - ASCII 以外的 
-- 這個 IETF RFC 是 Kenny Huang 寫的
+- IDN 這個 IETF RFC 是 Kenny Huang 寫的
 
 #### Developing a common understanding of the respective roles and responsibilities of all stakeholders from both developed and developing countries
 - 可以自己讀這部分
@@ -278,42 +278,49 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 - TUNIS Agenda 是開三天會議後，討論出的決議
     - 但實際上就只產生了要開 IGF 的結論
 
+### 為什麼討論 ICANN 很重要
+- 是台灣少數可以在國際自由參與的組織
+- 如果是技術人
+    - root server operator 也開放加入（當然會審核）
+    - security team 好像台灣調查局有加入的樣子
 
+### 網路韌性
+- Paul Vixie 幫中國做了 yati project
+    - 假如 .cn 被美國切斷，還可以透過其他 anycast mirror 來讓 .cn 繼續連，只是不要更新 anycast 即可
+    - 或許台灣也要有類似的東西
 
-
-
-
-
-    - {電信基礎建設|telecommunications infrastructure}
-
-
-
-
-
-
-
-
-### 疑問：什麼事件導致這個 WG 的產生
-
-- 聯合國有很多分組織專注在不同領域上，internet governance 議題聯合國不知道要放在哪裡
-    - 此文件企圖要將 ICANN 納入聯合國體戲中
 
 ### 最後要關注點
 - 這份文件的最後面提了四個架構
     - 這邊可以看出聯合國企圖要將 ICANN 納入聯合國體系中
 
 
+
+## 疑問
+### 什麼事件導致這個 WG 的產生
 - 聯合國維和部隊只用於維護和平不打人
 - 對不同的 sovernity 是沒有強制規範力的、沒有制裁權，但依舊還是很重要的溝通平台
 - Biden 一直想要跟習近平對話
+- 聯合國有很多分組織專注在不同領域上，internet governance 議題聯合國不知道要放在哪裡
 
+### 國內的 NGO 有沒有什麼方式可以參與網路治理領域？
+- IETF 的參與對 NGO 不是很聰明的路，因為技術性太細過於瑣碎，而且需要有 proven solution，不是開發者完全不推薦
+    - 總之不是 user 該去的地方，完全浪費時間
+- 現在 ICANN 推薦 NGO 去的路
+    - 有 non-commerical（human right 或 academic）（在 GNSO 底下）去玩
+    - at-large 目前變成幫派，就是固定一小群人在玩，但推薦大家進去 disrupt 這個場域
+- interest 有真空
+    - milton 沒興趣了，但又捨不得關掉
+- GNSO 
+
+- Steve Crocker 把 ITU 趕出去，換成 Technical Liaison Groups 
 
 > [name=林博仁] 有必要貼原文過來嗎（汗）
 > [name=paul] 我都習慣這樣（？）反正又沒有容量限制XD 這是 g0v host 的 XD
 > [name=林博仁] 好喔 ~~HackMD：~~
 
 
-
+Steve Crocker
 
 
 <!--- 大家可以多幾個空白打在下面 --->
