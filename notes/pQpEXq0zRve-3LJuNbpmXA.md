@@ -35,9 +35,12 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 ### 尚未安排：[TUNIS AGENDA FOR THE INFORMATION SOCIETY](https://www.itu.int/net/wsis/docs2/tunis/off/6rev1.html)
 
 #### Why does it matter?
-> 本文件是第二次WSIS在突尼西亞開會後的結論，並且正式啟動聯合國IGF一系列的論壇活動（今年十月在日本京都舉辦）。[name=Kuo Wei Wu]
+> 本文件是第二次 WSIS 在突尼西亞開會後的結論，並且正式啟動聯合國 IGF 一系列的論壇活動（2023 年十月在日本京都舉辦）。[name=Kuo Wei Wu]
 
 ### 尚未安排：[ICANN Bylaws 及其修訂沿革](https://www.icann.org/resources/pages/governance/bylaws-archive-en)
+### 尚未安排：ICANN 結構
+
+### 尚未安排：RIRs Bylaws
 
 ## 已閱讀書單
 ### 2023 第一次讀書會：[Creating a Framework for Global Electronic Commerce 美國白宮網路白皮書](http://www.pff.org/issues-pubs/futureinsights/fi6.1globaleconomiccommerce.html)
