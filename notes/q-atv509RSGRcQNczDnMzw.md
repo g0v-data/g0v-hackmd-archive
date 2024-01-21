@@ -186,13 +186,105 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
             - internet 的 resilience 其中一部分是這樣建立的
     - IP 地址
         - 弔詭的地方是如果想要有 IP address 只能跟五大 RIRs 要 
-            - KW Wu 在當 ICANN Board 時就曾碰到南韓政府挑戰，憑什麼 IP address 只能跟你要？
+            - KW Wu 在當 APNIC Board 時就曾碰到南韓政府挑戰，憑什麼 IP address 只能跟你要？
             - 台灣 IP 地址只有一個 A class 多一點點
             - 印度 IPv4 地址數量最少所以 IPv6 發展快
          - 這篇報告幾乎不提 IPv4，只提 IPv6 如何公平分配
+        - AFRINIC 凍結卢恒非法拿到的 IPv4 地址事件
+            - 在 2023 年模里西斯的官司打輸後，大家就會開始擔心 RIRs 的 accountability 
+            - RIR 都是 nonprofits，以會員制進行治理的 governance 和機制開始被挑戰，multi stakeholder model 的穩定性和可信賴性也被挑戰
+- 因為過去大家不喜歡 UN 治理模式，那我們今天要怎麼面對多方利害關係人模式的 loop hole？
 
-        - 網路間{互連|peering}
-        - {電信基礎建設|telecommunications infrastructure}
+    - technical standards
+        - 大部分出自 IETF，但其非組織（每年在歐、美、亞、非開會），所以非常 critical
+            - 但非洲沒什麼人參與，所以就不太在那邊開會了
+        - ITU 也有 standard（相對於業界採納的 de facto standard）
+            - ITU 的 de jure standard 已經沒有在用了……
+            - 從 2G ~ 5G 從來沒有用過 ITU 標準、
+                - 太慢、沒廠商想支援
+                - ~~存在感低到 KW Wu 忘記叫什麼名字~~ ~~不是 WiMAX~~
+
+    - 網路間{互連|peering} 和 inter-connection
+        - 兩個網路要互連線要先拉過去
+            - 問題：CHT 掌握所有 land line，講話比較大聲，你不付錢我就不接
+                - 誰要拉過去誰那裡
+                - 線是誰的
+                - 誰要付錢
+                - 台灣大哥大（TWM）一度斷線不跟中華電信對接
+                    - > 要確認是幾年發生的
+                    - 後來是只收中華電信端接口費，線還是台灣大哥大的
+                - 電話是 caller pay，但網路呢？是接收人付錢還是傳輸人付錢？
+                    - peering 到底誰付錢，有各種說法，CHT or TWM 都會站在自己有利的立場（叫做 peering cost）
+                - 國際慣例當作商業行為，大家自行協調
+                    - TWM 和 FET 都覺得不公平
+                    - CHT 覺得 land line 和海纜都我維護啊，都走我的
+                    - 但 Google 在全世界 peering 都不付錢
+                        - 有天 google crash 全球流量少掉 30%...
+                        - 所有人都乖乖給 google free peering，一開始 CHT 不想給他 free peering，所以 google 叫 CHT 付海纜                            - google 什麼沒有頻寬最多，而且還有自己海纜，美國 google 也自己拉 land line（但一開始這個 idea 是 yahoo staff 想的，之後跑去 google）
+                         - 每年 internet traffic 可能平均成長一倍，如果 google 不走自己的 land line，成本會爆炸；自己拉的好處，技術升級，只要換接頭，光纖都不用換，頻寬就可以升級
+                         - 最後 CHT 低頭願意跟 Google free peering
+                         - 當時主管機關根本搞不清楚 peering 是啥...
+
+                - 歐洲的電信業者抱怨大家都在 free peering，要求繳 internet tax
+                    - 尤其在法國概念很興盛
+                    - 明明都是我埋網路線
+        - > peering 和 inter-connection 要找 Kenny Huang 來談，他談得更好 [name=KW Wu]
+
+##### Administration of the root zone files and system Unilateral control by the United States Government.
+- 因為史諾登案，所以歐巴馬政府 2016 年終於願意將 IANA 交出去，但是只願意給 MSM 作為基礎的機構，意涵就是只給 ICANN
+- universal access fund，台灣是普及連線基金
+##### spam
+- 當年是熱門議題
+- 電信總局還有垃圾郵件處理辦法
+    - 但影響到的是本土業者，像本土業者不能發電子報
+##### Meaningful participation in global policy development
+- 落後國家沒錢參加 ICANN 或聯合國會議
+    - ICANN 會付錢給開發中國家參與會議
+- ICANN 因此也開放線上參與會議
+##### Allocation of domain names
+- 2014 年 ICANN 開放申請 new gTLD
+- 那每個機構是自己都要申請各自的 gTLD 嗎？
+    - gTLD 有 1,600 多個耶
+    - Apple 有一個防搶註 gTLD manager
+- ICANN 賺爛了
+##### IP Addressing
+##### freedom of expression
+##### Data protection and privacy rights
+- 第一次讀書會有看到，美國不想管這部分
+- 但歐洲想管
+##### consumer rights
+- 跨國公司沒落地的爭議
+- WTO 也會談類似問題
+##### Multilingualism
+- ASCII 以外的 
+- 這個 IETF RFC 是 Kenny Huang 寫的
+
+#### Developing a common understanding of the respective roles and responsibilities of all stakeholders from both developed and developing countries
+- 可以自己讀這部分
+
+### Proposals for action, as appropriate” A. Recommendations related to Internet governance mechanisms
+- 可以看出 forum 的雛型，也就是 IGF
+    - > Such a space or forum for dialogue (hereafter referred to as “the forum”) should allow for the participation of all stakeholders from developing and developed countries on an equal footing
+    - 但蘇俄和中國就不喜歡，因為只有對話沒有決議
+- 洗臉美國掌握 IANA
+    - > No single Government should have a pre-eminent role in relation to international Internet governance
+
+### The review considered different organizational models for this purpose and the four models are set out below for consideration
+- 有四個 model，目前最後實際上是 Model 2 在運行（維持原狀）
+    - > 當時我就在想，如果是其他三個 model，台灣就不見了 [name=KW Wu]
+    - 起初歐盟其他三個 model 不錯，但是發現第三世界國家和蘇俄中國太積極在聯合國體系運作，因此相對支持 model 2（維持原狀）
+    - 歐盟在網路產業是 loser，之後就想成為 regulator maker
+        - 但可以彌補歐盟在網路商業上的失敗嗎？這是一個問題
+- TUNIS Agenda 是開三天會議後，討論出的決議
+    - 但實際上就只產生了要開 IGF 的結論
+
+
+
+
+
+
+
+    - {電信基礎建設|telecommunications infrastructure}
 
 
 
