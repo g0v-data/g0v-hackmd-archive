@@ -1,12 +1,29 @@
 Fastled 2.0
 =========================================
-**前綴有FastLED.的函式:**
-1. FastLED.addLeds<WS2812,6,GRB>(leds,NUM_LEDS);
+**前置設定**
+1. CRGB Name [ NUM_LEDS + 1];
+    
+    設定有幾個LED在燈條上.
+    
+    Q.為何要NUM_LED+1?
+    A.可以宣告一個帶有一個額外像素的 LED 作為緩衝區。
+ex. 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_211d7af6e790351a32c08537858067f4.png)
+
+1. FastLED.addLeds<模組名稱,訊號PIN,GRB>(leds,NUM_LEDS);
  
     設定模組名稱(WS2812)、訊號PIN(D6)、顏色配置(GRB)、LED數量(NUM_LEDS).
 
+**其他前綴有FastLED.的函式:**
+
+
 3. FastLED.setBrightness(96);
-    設定LED燈條的亮度.
+    設定LED燈條的亮度(0~255), 0為不亮.
+    下圖為亮度數值測試:1、10、50、100、150、255
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3429940efe922e713ef0b1d2667aaa28.jpg)
+
+
+
 
 5. FastLED.show();
     讓LED燈條輸出設定好的顏色數值.
@@ -52,6 +69,11 @@ Fastled 2.0
      V值 : 色調  (Value) 0~255
 
     ex. Name[0] = CHSV(100, 100, 100); 
+    
+# **建議:**
+1. 
+
+    
 
 
 

@@ -50,11 +50,12 @@ tags: 115B實驗室, 永續所得實驗室
 - 提案介紹
     - 提案者：Huanry 黃世和｜115B實驗室-社群協作激勵師/經濟協作設計師（[115B Slack 對話框檔案連結](https://115bworkspace.slack.com/archives/D03H1R4BNLA)）
     - 提案描述：115B實驗室今年會有兩個重點工作，其中一個是各類型活動的產生，另外是閒置資源的盤點，透過本次的意見交流去思考該如何建立資料庫。
-    - 參考資料(可參考下面2個資料庫建立形式)
+    - 參考資料(可參考下面幾個資料庫建立形式)
         - [vTaiwan 工作組資料庫](https://g0v.hackmd.io/e0G4OMPFQYuA2DaZyu74bA)
         - [台灣資訊環境研究中心 IORG-讓台灣資訊環境更健康的一百種方法
 盤點](https://docs.google.com/document/d/1R917odfmu7hgvvXVchLgRkOle6V_F3ED4x3xPyjFZ2U/edit?usp=sharing)
         - [低碳社會的公有資產定位：碳匯實踐場域](https://g0v.hackmd.io/@chewei/carbon-uptake/https%3A%2F%2Fg0v.hackmd.io%2F%40chewei%2FHJqS6oLeK)
+        - [g0v hackMD team 申請](https://g0v.hackmd.io/zNfe2MGfTrWo_5GZI0E5pQ)
 - 本次會以文檔協作平台，如HackMD等工具為基礎進行討論，該如何設計紀錄形式以進行閒置資源盤點以及活動內容資源盤點紀錄。
 - 對於閒置資源盤點有興趣的夥伴參與。
 
