@@ -1,4 +1,4 @@
-# Fastled(Arauino)
+# Fastled(Arduino)
 #include <fastLED.h>函示庫
   **前置**
 1.   CRGB 物件名稱[NUM_LEDS]
@@ -62,6 +62,10 @@ int rainbow16[8][3]={{255,   0,   0},    //紅
 3. FastLED.clear();             熄滅所有的LED.
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_09a8da50fda7b8e69508901fd24d0f0c.png)
+
+
+# **FastLED 2.0:**
+https://g0v.hackmd.io/lTwR96qzRqindP5JtOZW3w?view
 
 
 

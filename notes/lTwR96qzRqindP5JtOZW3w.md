@@ -1,4 +1,4 @@
-Fastled 2.0
+Fastled 2.0(Arduino)
 =========================================
 **前置設定**
 1. CRGB Name [ NUM_LEDS + 1];
