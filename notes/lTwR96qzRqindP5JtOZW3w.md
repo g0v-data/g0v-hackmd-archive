@@ -1,14 +1,25 @@
-Fastled 2.0(Arduino)
+**Fastled 2.0(Arduino)**
 =========================================
+**簡介**
+* 函式庫特色:
+    1. 讓新的開發者可以快速的熟悉
+    2. 無痛切換LED模組，只需要修改些許設定
+    3. 高效能--盡可能地節省CPU效能
+
+    
+
+
+
 **前置設定**
 1. CRGB Name [ NUM_LEDS + 1];
     
-    設定有幾個LED在燈條上.
+    設定有幾個LED在燈條上(NUM_LEDS)
     
     Q.為何要NUM_LED+1?
     A.可以宣告一個帶有一個額外像素的 LED 作為緩衝區。
-ex. 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_211d7af6e790351a32c08537858067f4.png)
+
+    ex. CRGB leds_plus_safety_pixel [ NUM_LEDS + 1];
+
 
 1. FastLED.addLeds<模組名稱,訊號輸出PIN,GRB>(leds,NUM_LEDS);
  
@@ -41,7 +52,7 @@ ex.
 
 8. FastLED.setMaxPowerInVoltsAndMilliamps( VOLTS, MAX_MA);
 
-# **Color**
+**Color:**
 
 1. 名稱[i] = CRGB(Red值, Green值, Blue值);
      RGB顏色模型，設定LED的顏色，參數範圍如下
@@ -52,7 +63,7 @@ ex.
      可用簡易的方法輸出    CRGB::顏色名稱(Black即為無色)
      ex. Name[0] = CRGB(100, 100, 100);
      
-* **color代碼:**
+* color代碼(英文):
   http://www.taichi-maker.com/homepage/reference-index/arduino-library-index/fastled-library/rgb-color/
 
     **用法:**
@@ -68,12 +79,51 @@ ex.
      S值 : 飽和度(Saturation)  0 ~ 255 
      V值 : 色調  (Value) 0~255
 
-    ex. Name[0] = CHSV(100, 100, 100); 
+    ex. Name[0] = CHSV(100, 255, 255); 
     
-# **建議:**
-1. 
+# **幫助:**
+1. 測試用程式碼
+```
+#include <FastLED.h>
+#define NUM_LEDS 60
+CRGB leds[NUM_LEDS];
+void setup() { FastLED.addLeds<NEOPIXEL, 6>(leds, NUM_LEDS); }
+void loop() {
+    leds[0] = CRGB::White; FastLED.show(); delay(30);
+    leds[0] = CRGB::Black; FastLED.show(); delay(30);
+}
+```
+
+2. Reddit 社群 https://reddit.com/r/FastLED
+該群組中有數千名知識淵博的 FastLED 用戶，並且在過去的歷史中提供了大量的解決方案。
+3. 如果遇到此庫的錯誤，或者想請求對特定平台或 LED 晶片組的支持，請在http://fastled.io/issues提交問題。
+
+
+5. 線上文檔網址:  https://fastled.io/docs/group__lib8tion.html
 
     
+# **應用:**
+1. 我認為此燈條可以作為一種外在的表現形式
+
+    1.1 顏色意義:
+例子.
+裝置收到簡訊/電話就亮顏色，爸爸是藍色、媽媽是紅色、姊姊是紫色.....，使用者可以輕易地讀取裝置所傳遞的訊息。
+
+    1.2 頻率意義:
+    例子.
+    裝置收到家人、公司的簡訊/電話，就亮3下，普通的提醒亮2下、其他亮1下。
+
+    1.3 裝飾意義:
+    例子.
+    某些人可能喜歡閃爍移動的東西，就可以設置一個主動觸發在裝置上，被觸發後呈現美麗的色彩變幻。
+
+2. 彼此之間的暗號:
+
+    透過特殊的頻率與朋友、戀人溝通，像是1長燈光訊號代表:"你在嗎?"，回復1長燈光:"我在!"，此方向可透過螢幕做出連動。
+
+
+
+
 
 
 
@@ -153,18 +203,9 @@ uint16_t XY( uint8_t x, uint8_t y)  //一個大空間的副函式
 
 
 
-# **應用**
-1. 我認為此燈條可以作為一種外在的表現形式
-
-    1.1 顏色意義
-
-    1.2 頻率意義
-
-    1.3 
-
-2. 彼此之間的暗號:
-
-    透過特殊的頻率與朋友、戀人
-4. 
 
 
+# **資料:**
+**3.6.0版本:**
+https://fastled.io/docs/group__lib8tion.html
+(在找scale8函式時發現的)
