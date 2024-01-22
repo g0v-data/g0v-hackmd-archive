@@ -28,16 +28,21 @@ tags: web3, Shoutout
 
 ## 例會議程
 - 共識出要優先做的項目
-- 討論實作推進方式
+- 實作和專案推進方式討論
 
 ## 任務清單
 
 
 ## 會議紀錄
-
+- 共識出要優先做的項目
+- 實作和專案推進方式討論
+    - 實作推進方式：想像上未來有不同實作同步進行，每個小組可以自訂目標 & checkpoints，每次例會大家可以分享下進度
+    - 專案推進方式：已根據大家的問卷反饋整理[一版](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=1594773836)
 
 ## Action Items
-
+- 優先做的項目
+- AT 帳號需求：需要再 12 個 google account
+- 收支表：再麻煩昶惟將支出金額調整成 USDC 幣種
 
 ## AI 整理總結
 
