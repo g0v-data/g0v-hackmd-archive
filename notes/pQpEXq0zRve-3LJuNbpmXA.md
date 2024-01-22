@@ -51,3 +51,13 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 > 透過這份文件能夠理解當年白宮為何作這樣的決定。為何因此引起全球的關注，聯合國因此開了二次的WSIS（World Summit of Internet Society，一次在2003，一次在2005），接著從2006年開始每年開IGF。而且白宮這個決定引發全球性的「電信自由化」，而且制定了一系列的CDA，尤其是法案 Section 230。[name=Kuo Wei Wu]
 - [2023 第一次網路治理讀書會共同筆記](/oQs810R4TS2JeHOcl-2P_A)
     - 本次讀書會導讀人：[Kuo-Wei Wu（臺灣網路治理論壇 TWIGF 理事長）](https://www.facebook.com/kuoweiwu/)
+
+## 讀書會基金
+
+
+| 日期 | 項目 | 支出 | 收入 | 結餘 | 經手人 | 備註 |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| 2024-01-21 Sun. | 2024 第一次讀書會餐飲 | - NTD 488.0 |  | NTD 757.0 `Latest` | Paul | 12 人參與 | 
+| 2024-01-21 Sun. | Kuo-wei Wu 贊助 |  | + NTD 1,000.0 | NTD 1,245.0 | Paul |  | 
+| 2023-11-19 Sun. | 2023 第一次讀書會餐飲 | - NTD 255.0  |  | NTD 245.0 | Paul | 11 人參與 | 
+| 2023-11-19 Sun. | Kuo-wei Wu 贊助 |  | + NTD 500.0 | NTD 500.0 | Paul |  | 
