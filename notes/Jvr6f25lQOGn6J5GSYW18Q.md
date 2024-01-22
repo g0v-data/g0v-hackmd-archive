@@ -51,4 +51,6 @@ _「所謂的數化是指圖形資料向量化（Vectorization），也就是根
     - "The project, which he calls the Venice Time Machine, will scan documents including maps, monographs, manuscripts and sheet music. It promises not only to open up reams of hidden history to scholars, but also to enable the researchers to search and cross-reference the information, thanks to advances in machine-learning technologies."
     - [https://www.nature.com/articles/n-12446262?WT.ec_id=NATURE-20170615&spMailingID=54279477&spUserID=MTU4ODc0ODUwMTc3S0&spJobID=1182429907&spReportId=MTE4MjQyOTkwNwS2](https://www.nature.com/articles/n-12446262?WT.ec_id=NATURE-20170615&spMailingID=54279477&spUserID=MTU4ODc0ODUwMTc3S0&spJobID=1182429907&spReportId=MTE4MjQyOTkwNwS2)
 
-
+專題題目：結合YOLOv5及Segment Anything Model進行台灣堡圖土地利用變遷分析
+https://gis.rchss.sinica.edu.tw/2023intern_report7/
+https://www.facebook.com/share/p/zkKv9ze8xojh87YU/
