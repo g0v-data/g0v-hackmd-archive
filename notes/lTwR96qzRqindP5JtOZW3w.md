@@ -118,4 +118,14 @@ uint16_t XY( uint8_t x, uint8_t y)  //一個大空間的副函式
 }
 ```
 
+**3. millis()函式應用**
+    
+1. 先呼叫millis()，並把這個值先賦於給startTime，相當於在時間軸上做了一個標記。
+
+
+3. 當程式進到迴圈時，就可以將”現在時間”-“開始時間”，就可以獲得”經過時間”，Duration=millis()-startTime。
+
+
+5. 最後我們可以用判斷式if，來判斷Duration是否達到條件。
+
 
