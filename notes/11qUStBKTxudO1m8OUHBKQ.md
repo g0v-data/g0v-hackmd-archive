@@ -5,6 +5,12 @@ tags: Rentea
 
 這份文件放著各種討論中、發展中，不確定狀況的點子。如果寫到有點形狀後，請搬到獨立頁面～
 
+## 2024 Rentea 新年新希望
+
+- 誕生時間：2024-01-22
+- 坑主：ddio
+- 共筆：https://g0v.hackmd.io/ctLdLCWASXaM7NopqkCiKA
+
 ## Rentea 營運企劃書
 
 - 誕生時間：2022-04-26 Rentea Tue #44
