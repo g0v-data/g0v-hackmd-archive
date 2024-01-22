@@ -22,6 +22,8 @@ tags: GIS
 - 優點：提供「街景服務」
 - 缺點：無法呈現「線型資料、面狀資料」，因為 google spreadsheet 無法支持線與面的地理資料型態
 - 缺點：沒有「圖層」功能
+- 缺點：免費使用有 500 次網頁瀏覽上限
+    - Yes, you can create apps for free. However, they will be limited to 500 pageviews each. That means that a free app can only be viewed 500 times after it has been created. Once you hit the limit, you’ll need a paid plan to use the app. To reiterate, free apps have a limit of 500 total pageviews, not 500 page views per month. https://awesome-table.com/pricing#apps
 
 資料
 - 資料來源：[民間社群標註官方公布的確診者足跡 😷](https://g0v.hackmd.io/GNfNQ8NbQ5KXJNTyftRLgA)
