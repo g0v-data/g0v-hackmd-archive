@@ -10,9 +10,9 @@ Fastled 2.0
 ex. 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_211d7af6e790351a32c08537858067f4.png)
 
-1. FastLED.addLeds<模組名稱,訊號PIN,GRB>(leds,NUM_LEDS);
+1. FastLED.addLeds<模組名稱,訊號輸出PIN,GRB>(leds,NUM_LEDS);
  
-    設定模組名稱(WS2812)、訊號PIN(D6)、顏色配置(GRB)、LED數量(NUM_LEDS).
+    設定模組名稱(WS2812)、訊號輸出PIN(自訂)、顏色配置(GRB)、NUM_LEDS = LED數量.
 
 **其他前綴有FastLED.的函式:**
 
