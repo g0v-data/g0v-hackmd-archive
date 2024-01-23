@@ -112,6 +112,9 @@ https://www.facebook.com/100063760886799/posts/pfbid02KgiKRT3mAruj36EeMgqmLwvH5E
 台南歸仁圓環
 https://www.facebook.com/100092995934211/posts/pfbid0SssWXfSJEk71SV8wjzx2ngeWoywQ27PJcYg5fb5Ca2uNZhMe6ieus8KdgFxUjTjNl/
 
+高雄博愛路自行車道
+https://www.facebook.com/share/p/3bUvsmQ1x6XGt9qH/
+
 高雄市新堀江五福二路玉竹三街行穿線中央分隔島敲除已完成啟用
 https://www.facebook.com/groups/525658186189949/permalink/642717687817331/
 
