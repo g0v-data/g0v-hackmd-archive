@@ -29,28 +29,32 @@ Rentea Tuesday 源自於 [g0v 社群](https://g0v.tw/)，是以城市的居住�
 
 ## 進行中的點子們
 
-- [看見空餘屋](https://g0v.hackmd.io/mSwkdpbdRmKTcPV4ZEFDDQ)
-- [Rentea 小聚新提案](https://g0v.hackmd.io/q89qMsHERWOyPg0q0F6YdQ)
 - [g0v Summit 社群軌意見收集](https://g0v.hackmd.io/PcWuQ3vXREqLAqrd0EQugg)
-- [Rentea x OURS 租客組織](https://g0v.hackmd.io/29u9XfabTsumGVChv7TMFA)
-- [保險、消防，租屋常見的風險與因應策略](https://g0v.hackmd.io/TFtX1PhbSlKv5tjHJngMmQ)
+- [眼底城市客座編輯](https://g0v.hackmd.io/vEI6DdfSQJaMqIzAjl7vrg)
 - [[**長租剛好**] 市場研究與服務提案](https://g0v.hackmd.io/@ddio/appropriate-rental-housing)
 - [租屋相關法規整理](https://g0v.hackmd.io/kgQvBVMgQhaVcvjrFZ6wmw?view)
 
-## 已完成、放置中的點子們
+## 等待復活的點子們
 
+- [看見空餘屋](https://g0v.hackmd.io/mSwkdpbdRmKTcPV4ZEFDDQ)
 - [Rentea 品牌識別](https://g0v.hackmd.io/4WNFAHdlQG-Sc3hWiOofTA)
+- [房東稅務x房客權益懶人包 <span class="label label-info">放置中</span>](https://g0v.hackmd.io/uMk1PvSyTISeEweWhQA6vg)
+- [營運企劃簡報 <span class="label label-info">放置中</span>](https://g0v.hackmd.io/Yxv5lUBQS76w8JbcLzxAeg)
+- [大共筆計畫 - 社群參與手冊＆共居提案手冊 <span class="label label-info">放置中</span>](https://g0v.hackmd.io/nytY6vSnSOqv8NPB9Jm5HA)
+
+## 已完成的點子們
+
 - [參與者自介x新手教學](/11qUStBKTxudO1m8OUHBKQ#Rentea-Tuesday-參與者自介x新手教學)
 - [第一間房子提案](https://g0v.hackmd.io/@ddio/corent)
 - [找房練習](https://g0v.hackmd.io/@ddio/corent/https%3A%2F%2Fg0v.hackmd.io%2FlCHQ5Gk7TKKoz5pJdNwXJA)
 - [合作租屋提案](/okUbXH1wS-GvEIMJoOwCBQ)
 - [合作租屋相關資訊收集](/drVUHw3GSly_3GuVFMwVjQ)
 - [二房東讀書會](/pzyTOqCeSE6wqzCuijBHLg)
-- [房東稅務x房客權益懶人包 <span class="label label-info">放置中</span>](https://g0v.hackmd.io/uMk1PvSyTISeEweWhQA6vg)
-- [營運企劃簡報 <span class="label label-info">放置中</span>](https://g0v.hackmd.io/Yxv5lUBQS76w8JbcLzxAeg)
-- [大共筆計畫 - 社群參與手冊＆共居提案手冊 <span class="label label-info">放置中</span>](https://g0v.hackmd.io/nytY6vSnSOqv8NPB9Jm5HA)
 - [各種文件寫寫](/11qUStBKTxudO1m8OUHBKQ#一起來寫部落格、Hackmd)
 - [Rentea 初夏小聚！遮陽 x 無損立柱 - Labrico 頂天立地竹簾架試做](https://g0v.hackmd.io/@ddio-io/SJLlAgfH3)
+- [Rentea x OURS 租客組織](https://g0v.hackmd.io/29u9XfabTsumGVChv7TMFA)
+- [Rentea 小聚新提案](https://g0v.hackmd.io/q89qMsHERWOyPg0q0F6YdQ)
+- [保險、消防，租屋常見的風險與因應策略](https://g0v.hackmd.io/TFtX1PhbSlKv5tjHJngMmQ)
 
 ## 活動紀錄
 
