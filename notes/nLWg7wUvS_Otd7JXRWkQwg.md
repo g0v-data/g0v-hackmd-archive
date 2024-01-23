@@ -29,6 +29,7 @@ tags: web3, Shoutout
 ## 例會議程
 - 共識出要優先做的項目
 - 實作和專案推進方式討論
+- 錄影方式討論
 
 ## 任務清單
 
@@ -38,6 +39,7 @@ tags: web3, Shoutout
 - 實作和專案推進方式討論
     - 實作推進方式：想像上未來有不同實作同步進行，每個小組可以自訂目標 & checkpoints，每次例會大家可以分享下進度
     - 專案推進方式：已根據大家的問卷反饋整理[一版](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=1594773836)
+- 錄影[方式](https://g0v-tw.slack.com/archives/C046ZFGTWQK/p1705504668004769?thread_ts=1705441057.542429&cid=C046ZFGTWQK)討論
 
 ## Action Items
 - 優先做的項目
