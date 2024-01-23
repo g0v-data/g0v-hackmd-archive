@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2024-01-22T15:46:20+08:00 | 2022-09-13T16:41:15+08:00 |
+| 1 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2024-01-23T12:40:08+08:00 | 2022-09-13T16:41:15+08:00 |
 | 2 | [g0v Summit 工人群治理機制 / g0v Summit Working Group governance](../notes/c_mPhOsZQC6FHJiMl3BIhw.md) | 2024-01-16T19:37:56+08:00 | 2020-04-09T10:41:01+08:00 |
 | 3 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2023-12-28T14:44:04+08:00 | 2018-08-30T15:19:57+08:00 |
 | 4 | [g0v SNS 社群治理機制](../notes/THKRsDsNRXGsa_0zFUn3Gw.md) | 2023-11-27T22:02:31+08:00 | 2019-07-06T08:21:31+08:00 |

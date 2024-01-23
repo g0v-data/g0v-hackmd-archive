@@ -43,6 +43,7 @@ tags: g0vernance, g0v, hackmd
 - summit2018
 - jothon
 - summit2020
+- int
 - podcast
 - g10v
 - da0
@@ -53,6 +54,7 @@ tags: g0vernance, g0v, hackmd
 - summit2024
 - bayarea
 - pmpc
+- waytosafety
 
 ## Team 的新增 / 修改設定 / 刪除機制
 - g0v HackMD 是擁有獨立的 Instance，所以 g0v HackMD 可以自行建立多個 Team；建立 Team 現在需要 Instance 的超級管理員權限。
