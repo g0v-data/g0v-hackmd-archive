@@ -16,6 +16,7 @@ tags: summit2024
 - 
 ### 國內
 - 目前邀請信尚未寄出
+- [邀請信草稿](https://docs.google.com/document/d/19IbzQdUivJAney2US5foIN5btjQuz_Cm7tp0V-2--po/edit)
 
 ## Unconf 規劃
 - 可能會需要一個專門的人負責跳坑

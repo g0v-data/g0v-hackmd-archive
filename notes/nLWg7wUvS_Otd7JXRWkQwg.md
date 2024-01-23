@@ -35,7 +35,9 @@ tags: web3, Shoutout
 
 
 ## 會議紀錄
-- 共識出要優先做的項目
+- 共識出要優先做的項目（英文數字和實作的對應請參考[連結](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=490061253)lol）
+    - A (FE): D + C
+    - C (BE): G + K + D
 - 實作和專案推進方式討論
     - 實作推進方式：想像上未來有不同實作同步進行，每個小組可以自訂目標 & checkpoints，每次例會大家可以分享下進度
     - 專案推進方式：已根據大家的問卷反饋整理[一版](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=1594773836)
