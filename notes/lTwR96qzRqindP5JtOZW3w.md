@@ -67,7 +67,7 @@
   http://www.taichi-maker.com/homepage/reference-index/arduino-library-index/fastled-library/rgb-color/
 
     **用法:**
-    ex. leds[i] = CRGB::Black;        
+    ex. Name[i] = CRGB::Black;        
     *//i為 燈條上第i顆led燈，從0開始數*
 
 
@@ -96,7 +96,7 @@ void loop() {
 
 2. Reddit 社群 https://reddit.com/r/FastLED
 該群組中有數千名知識淵博的 FastLED 用戶，並且在過去的歷史中提供了大量的解決方案。
-3. 如果遇到此庫的錯誤，或者想請求對特定平台或 LED 晶片組的支持，請在http://fastled.io/issues提交問題。
+3. 如果遇到此庫的錯誤，或者想請求對特定平台或 LED 晶片組的支持，請在http://fastled.io/issues 提交問題。
 
 
 5. 線上文檔網址:  https://fastled.io/docs/group__lib8tion.html
@@ -108,6 +108,7 @@ void loop() {
     1.1 顏色意義:
 例子.
 裝置收到簡訊/電話就亮顏色，爸爸是藍色、媽媽是紅色、姊姊是紫色.....，使用者可以輕易地讀取裝置所傳遞的訊息。
+也可以讓裝置發出的聲音與顏色綁定。
 
     1.2 頻率意義:
     例子.
@@ -201,11 +202,12 @@ uint16_t XY( uint8_t x, uint8_t y)  //一個大空間的副函式
 5. 最後我們可以用判斷式if，來判斷Duration是否達到條件。
 
 
+# **問題：**
 
 
 
 
-# **資料:**
+# **資料來源:**
 **3.6.0版本:**
 https://fastled.io/docs/group__lib8tion.html
 (在找scale8函式時發現的)
