@@ -203,8 +203,16 @@ uint16_t XY( uint8_t x, uint8_t y)  //一個大空間的副函式
 
 
 # **問題：**
+A.![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_dba6cbc416fb2e193125fe5768432836.jpg)
 
 
+1. cos16( ms * (27/1) )
+2. 中間的(int32_t)這個會括號意義
+3. 前面的int32_t用int是因為時間會佔比較多的記憶體空間嗎?
+Note. 這個程式視讓LED燈條隨著時間變化而改變色調，所以xHueDelta、yHueDelta分別代指x軸y軸位置上所增加的變量。
+4. 不確定的敘述: 從宣告的那個時間點，millis （）就開始計時了,然後下面的函式有用到ms 視為讀取時間
+
+B.
 
 
 # **資料來源:**
