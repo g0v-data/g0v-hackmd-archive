@@ -121,6 +121,10 @@ http://dev.cofacts.tw/
 
 > [20231018 會議記錄](https://g0v.hackmd.io/v4taAFAtRt6EOMGGMa7Btw#%E4%B8%80%E8%B5%B7%E8%BE%A6%E8%AC%A0%E8%A8%80%E6%83%91%E7%9C%BE%E7%8D%8E)
 
+- 活動建議、改善之處
+- 11 個獎項重新定義？https://www.mygopen.com/p/award.html
+- 整理 Cofacts Analytics 排名
+
 ## 實科協會
 
 - NPO Hub
