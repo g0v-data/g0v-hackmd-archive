@@ -54,7 +54,11 @@ BKK-TPE
 * BTS（空鐵）
 * MRT（地鐵）
 
+Read more
+https://footprints.tw/blog/post/118417451
+
 ## 網路
+* [曼谷機場自取] [dtac HAPPY TOURIST 4G/5G SIM](https://www.klook.com/zh-TW/activity/16587-dtac-4g-sim-thailand/?spm=SearchResult.SearchResult_LIST&clickId=a2e2778dc2)
 
 ## 行李
 * 浮潛器具：蛙鞋、面鏡、呼吸管、泳衣、泳帽（Optional）
