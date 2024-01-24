@@ -54,16 +54,18 @@ Eastin Grand Hotel Phayathai
 > 行程
 Chaweng Beach 查汶海灘
 Asiatique河濱夜市 11:00–00:00
-昭披耶河遊河 17:00-19:00
 
 ### Day 7 (2/9 週五-除夕)
-動物園 09:00–16:30
+Safari World Bangkok（賽佛瑞動物園） 09:00–16:30
+昭披耶河公主號遊河 17:00-19:00
 ICONSIAM（暹羅天地） 10:00-22:00
+
 
 ### Day 8 (2/10 週六)
 大皇宮/玉佛寺 08:30–15:30
 水上市場（未定）
 SEA LIFE曼谷海洋世界 10:00-20:00
+Siam Park City（樂園）
 
 ### Day 9 (2/11 週日-初二)
 > 飛機
@@ -71,6 +73,7 @@ SEA LIFE曼谷海洋世界 10:00-20:00
 14:05 ~ 18:40（3h35m）
 
 **ARL**（A08 PhayaThai - A01 Airport）35m
+1030 從飯店出發
 
 ## 交通
 * Bolt（平價/車多）
