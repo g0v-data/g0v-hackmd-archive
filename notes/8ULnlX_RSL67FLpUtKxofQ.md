@@ -67,3 +67,7 @@ BKK-TPE
 
 > Read more
 https://www.accuweather.com/zh/th/ko-samui/5470/daily-weather-forecast/5470?day=11
+
+## 冷知識
+* [昭披耶河又稱為湄南河嗎？](https://visionthai.net/article/differences-between-the-chao-phraya-river-and-mekong-river/)
+* 

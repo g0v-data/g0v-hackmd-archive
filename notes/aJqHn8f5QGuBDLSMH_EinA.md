@@ -59,6 +59,15 @@ Audios
         - Upload Python model on Huggingface to Elasticsearch https://www.elastic.co/guide/en/machine-learning/current/ml-nlp-text-emb-vector-search-example.html
             - Does not support image-related models ([reference](https://www.elastic.co/guide/en/machine-learning/current/ml-nlp-deploy-models.html#:~:text=Specify%20the%20type%20of%20NLP%20task.%20Supported%20values%20are%20fill_mask%2C%20ner%2C%20text_classification%2C%20text_embedding%2C%20and%20zero_shot_classification.))
 
+#### Systems / software for near duplicate video search
+- [Near Duplicate Video Retrieval](https://github.com/4ML-platform/ndvr)
+    - Handles these: side morrored, color-filtered, and waterwashed. Middle row: horizontal screen changed to vertical screen with large black margins. Botton row: rotated
+- [videohash](https://github.com/akamhy/videohash)
+    - Python
+    -  Near Duplicate Video Detection (Perceptual Video Hashing) - Get a 64-bit comparable hash-value for any video. 
+    -  Have collisions on unrelated video https://www.reddit.com/r/DataHoarder/comments/q74hkz/videohash_python_package_for_near_duplicate_video/
+
+
 #### Methodologies
 
 Image / video vectors
@@ -77,6 +86,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8321359/
     - Asymmetric comparison of FV - 圖只佔一部分可找（think of image in LINE chat screenshots), 一種 bag of features
     - Introduced by Perronnin and Dance, CVPR '07
     -  [Analyzing Classifiers: Fisher Vectors and Deep Neural Networks](https://openaccess.thecvf.com/content_cvpr_2016/papers/Bach_Analyzing_Classifiers_Fisher_CVPR_2016_paper.pdf)
+- IVWBAE2019 - Video indexing and retrieval based on content: a systematic literature review
+    - [Spreadsheet](https://docs.google.com/spreadsheets/d/1JzuAMTjCmY6zUZLmo-CrVHdhZ9WtCH612pigwYjAg8U/edit#gid=1193420145)
 
 Text embeddings
 - [OpenAI text embedding](https://platform.openai.com/docs/guides/embeddings/limitations-risks)

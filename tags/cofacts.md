@@ -2,68 +2,68 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20240125 會議記錄](../notes/4HVFW0ivS-e9QfArzzOFiA.md) | 2024-01-23T14:56:46+08:00 | 2024-01-23T13:10:34+08:00 |
-| 2 | [20240117 會議記錄](../notes/wg2iF9fARBCREZ1gTauvUw.md) | 2024-01-17T20:33:45+08:00 | 2024-01-17T14:43:10+08:00 |
-| 3 | [Cofacts・台灣選務謠言筆記 hackath60n 協作頁面](../notes/TnZpbsAeT1GGPcTStcl8Kw.md) | 2024-01-06T16:17:09+08:00 | 2024-01-06T00:46:57+08:00 |
-| 4 | [台灣選制、選務謠言筆記](../notes/7gWyvTDYRFuzup1RECnr5A.md) | 2024-01-06T14:53:12+08:00 | 2023-12-08T15:25:01+08:00 |
-| 5 | [20240103 會議記錄](../notes/Oc68Wf3yRIm5UC7IeN6Pcg.md) | 2024-01-05T03:17:32+08:00 | 2024-01-03T02:26:29+08:00 |
-| 6 | [20231228 會議記錄](../notes/vKCvrqSQTlm7GEx9MAXGaw.md) | 2024-01-03T18:44:04+08:00 | 2023-12-27T02:19:54+08:00 |
-| 7 | [20231220 會議記錄](../notes/kxGE_l7XT4ePTO1ljmtNkQ.md) | 2023-12-20T21:11:53+08:00 | 2023-12-20T03:19:13+08:00 |
-| 8 | [20231213 會議記錄](../notes/0Ta4gitcTJCY2Lnwll0qrw.md) | 2023-12-20T19:59:19+08:00 | 2023-12-13T02:32:18+08:00 |
-| 9 | [Cofacts・台灣選務謠言筆記 hackath59n 協作頁面](../notes/I7J17SoFRvWyxRuAecoS1w.md) | 2023-12-09T16:34:51+08:00 | 2023-12-06T03:11:38+08:00 |
-| 10 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2023-12-06T19:45:25+08:00 | 2022-08-05T10:46:53+08:00 |
-| 11 | [Cofacts article group design doc](../notes/f_Ze19PhQuqx_fzOAOkohQ.md) | 2023-12-03T01:13:23+08:00 | 2022-10-04T07:42:45+08:00 |
-| 12 | [20231122 會議記錄](../notes/RRRZSBSKRLCm3fBnHG1j9g.md) | 2023-11-22T20:49:06+08:00 | 2023-11-21T12:49:13+08:00 |
-| 13 | [20231115 會議記錄](../notes/vAUg0WtvTAi0rzJ7E1spnQ.md) | 2023-11-18T13:59:39+08:00 | 2023-11-15T02:28:00+08:00 |
-| 14 | [20231108 會議記錄](../notes/oz-49rOSSPW3J8AbG0yRSA.md) | 2023-11-15T19:40:05+08:00 | 2023-11-08T12:55:10+08:00 |
-| 15 | [20231101 會議記錄](../notes/g4Ikla2NQESsGM05-wiyNg.md) | 2023-11-01T20:52:36+08:00 | 2023-11-01T12:32:34+08:00 |
-| 16 | [20231025 會議記錄](../notes/ZOZrbHxEQV25eP7a4dxzYw.md) | 2023-10-25T21:06:48+08:00 | 2023-10-25T02:48:52+08:00 |
-| 17 | [Cofacts crowd-sourced transcript design doc](../notes/OhGIQzoxR5eF6audQuS_FQ.md) | 2023-10-25T14:06:01+08:00 | 2022-08-28T16:38:50+08:00 |
-| 18 | [20231018 會議記錄](../notes/v4taAFAtRt6EOMGGMa7Btw.md) | 2023-10-19T11:23:02+08:00 | 2023-10-18T11:35:46+08:00 |
-| 19 | [20231011 會議記錄](../notes/t9ypB87SQBuMjjW_PheZVg.md) | 2023-10-18T11:34:35+08:00 | 2023-10-10T18:57:29+08:00 |
-| 20 | [Cofacts hackath58n 協作頁面](../notes/hb5doTr1Re2OjGFCO2Ob8w.md) | 2023-10-15T16:12:55+08:00 | 2023-10-14T19:46:48+08:00 |
-| 21 | [20231004 會議記錄](../notes/XRzWTxjVTFWI8JNzLVh9lQ.md) | 2023-10-11T19:02:04+08:00 | 2023-10-04T00:03:11+08:00 |
-| 22 | [20230927 會議記錄](../notes/Eu2AOPXnTzixK6qt7t4ikg.md) | 2023-09-27T21:14:57+08:00 | 2023-09-27T01:14:37+08:00 |
-| 23 | [20230921 會議記錄](../notes/ulv1SGtBRWmhxnE9Lpv9TQ.md) | 2023-09-24T23:23:08+08:00 | 2023-09-20T23:59:17+08:00 |
-| 24 | [Cofacts  Hypercerts](../notes/1ZqfFBAdQFSH3Z5O4G3pMg.md) | 2023-09-22T20:23:38+08:00 | 2023-09-22T20:20:26+08:00 |
-| 25 | [20230917 Cofacts 真的假的 第 38 次查核小聚 小松果](../notes/lXd4Ypg_S12HLxs5z9wAkQ.md) | 2023-09-21T19:42:05+08:00 | 2023-09-17T13:38:44+08:00 |
-| 26 | [20230913 會議記錄](../notes/ZDlTB7buRUqIG9c3wMOkRQ.md) | 2023-09-17T13:23:04+08:00 | 2023-09-13T12:37:12+08:00 |
-| 27 | [Translation Cofacts video](../notes/Jcer4KcJQJiFLQS4cF1Qwg.md) | 2023-09-14T15:34:28+08:00 | 2021-03-20T10:49:17+08:00 |
-| 28 | [20230907 會議記錄](../notes/GHKWDHGITHaKeBzQdVf5pA.md) | 2023-09-07T20:45:28+08:00 | 2023-09-06T23:39:15+08:00 |
-| 29 | [วิธีการใช้งาน COFACT.ORG / 如何使用 COFACT.ORG](../notes/2lYi8f6PSYyCfBw1MPGtQA.md) | 2023-09-02T16:20:54+08:00 | 2023-09-02T16:18:50+08:00 |
-| 30 | [20230831 會議記錄](../notes/K02x8V48TDmiPdwXtWCZSQ.md) | 2023-08-31T20:53:45+08:00 | 2023-08-31T13:37:56+08:00 |
-| 31 | [對話整理樣板：一句話描述這篇](../notes/lr3q2O7eRZqevdNewpZ1Yg.md) | 2023-08-27T17:07:10+08:00 | 2018-10-10T20:27:35+08:00 |
-| 32 | [Cofacts Hackath57n 協作頁面](../notes/uO2pc1SlQCqtK7WZBknBZw.md) | 2023-08-26T23:07:54+08:00 | 2023-08-26T14:49:11+08:00 |
-| 33 | [20230823 會議記錄](../notes/Fmkhf62_SKGIlwwwLrRnAw.md) | 2023-08-24T02:28:12+08:00 | 2023-08-23T17:05:16+08:00 |
-| 34 | [20230817 會議記錄](../notes/5Pn97RTPTpmsrW4opnSKNA.md) | 2023-08-17T21:00:48+08:00 | 2023-08-17T12:57:08+08:00 |
-| 35 | [Cofacts API access management](../notes/51wwLHgvSUqtBDaP-yAVnA.md) | 2023-08-10T02:48:05+08:00 | 2021-01-19T22:33:07+08:00 |
-| 36 | [Cofacts Huggingface 資料集評估 By Teemo](../notes/p-4gLJ-ASe-0wzp_G6h7TQ.md) | 2023-08-01T11:21:40+08:00 | 2023-07-05T21:56:48+08:00 |
-| 37 | [20230719 會議記錄](../notes/EfM4Xqn4TA-nIXF8Njjovg.md) | 2023-07-19T20:51:24+08:00 | 2023-07-19T03:19:07+08:00 |
-| 38 | [20230712 會議記錄](../notes/hZ4I3iFfSPGr9JROtBZNzQ.md) | 2023-07-12T21:23:40+08:00 | 2023-07-12T17:36:29+08:00 |
-| 39 | [Cofacts 第 36 次小聚小松果](../notes/DACiWe7XQnS4fo7v0OX4pg.md) | 2023-07-12T18:56:45+08:00 | 2023-07-09T14:03:10+08:00 |
-| 40 | [20230705 會議記錄](../notes/LxNqtaRhQbqkSFMsLShAiQ.md) | 2023-07-09T13:29:50+08:00 | 2023-07-05T02:50:01+08:00 |
-| 41 | [20230607 會議記錄](../notes/dkyaltHuSp6jPPw9oL4Wig.md) | 2023-07-01T23:21:29+08:00 | 2023-06-07T03:20:26+08:00 |
-| 42 | [Cofacts Hackath56n 協作頁面](../notes/UpvWnVNKREmzgS1jmy3-0A.md) | 2023-07-01T16:38:29+08:00 | 2023-07-01T01:53:36+08:00 |
-| 43 | [Cofacts GA4 Migration design doc](../notes/cJFFXVzgT4OFT6bBLtulGg.md) | 2023-06-27T14:38:59+08:00 | 2023-01-31T09:42:15+08:00 |
-| 44 | [20230614 會議記錄](../notes/hT9OKQYJRcqPgC18U4csuw.md) | 2023-06-14T20:51:53+08:00 | 2023-06-14T03:01:48+08:00 |
-| 45 | [How to organize an editor’s meetup](../notes/s7Hb2sSATq-1z68Nhl6a2w.md) | 2023-06-12T21:32:00+08:00 | 2018-10-05T13:37:52+08:00 |
-| 46 | [「說這話的人，幾天後被砸死」的中國訊息 - MrOrz](../notes/4TaassszRQmoBZIH_7TPog.md) | 2023-06-12T21:27:07+08:00 | 2023-06-08T10:41:25+08:00 |
-| 47 | [Cofacts Editors’ Gathering Guidelines and Policy](../notes/oT1pmA5ETQWuooNU0GnVAw.md) | 2023-06-12T21:25:12+08:00 | 2018-10-05T13:35:07+08:00 |
-| 48 | [Cofacts Editors’ Guideline and Policy](../notes/T_XuC8JcR_-cxuF0VU1pXA.md) | 2023-06-12T21:25:03+08:00 | 2018-10-05T13:33:40+08:00 |
-| 49 | [Cofacts Database: Step-by-step Tutorial](../notes/OCxsEsUSQt2OnGfxDPfjoA.md) | 2023-06-12T21:24:57+08:00 | 2018-10-05T13:23:25+08:00 |
-| 50 | [First Step For Cofacts Editor](../notes/z7PY2mQeSMyWBoZpaVhAPg.md) | 2023-06-12T21:24:53+08:00 | 2018-10-05T13:15:19+08:00 |
-| 51 | [Frequently Asked Questions](../notes/E6ZsE8csSI6_PbMZzmXhTg.md) | 2023-06-12T21:24:48+08:00 | 2018-10-05T13:04:22+08:00 |
-| 52 | [Cofacts LINE Bot User Manual](../notes/WhGyJgyBQJi_JtGlBcevRA.md) | 2023-06-12T21:24:44+08:00 | 2018-10-05T12:36:25+08:00 |
-| 53 | [Cofacts Tutorial](../notes/Waz-B9sORSOPLp6nAOS82w.md) | 2023-06-12T21:24:39+08:00 | 2018-10-04T17:53:48+08:00 |
-| 54 | [Manual for Cofacts LINE bot collaboration / Bug Report Group](../notes/mF_43o89SOSzAmb6DyaJBA.md) | 2023-06-12T21:24:23+08:00 | 2018-10-05T13:38:48+08:00 |
-| 55 | [Cofacts Design Decision](../notes/ZNzzDKzOS1-CUi67EVJwig.md) | 2023-06-12T21:24:18+08:00 | 2018-10-05T13:40:44+08:00 |
-| 56 | [Cofacts Editor On-boarding SOP](../notes/0-QjXPxURka8hrPDmKYP7w.md) | 2023-06-12T21:24:03+08:00 | 2018-10-05T13:36:53+08:00 |
-| 57 | [《沒有人要做 Cofacts 編輯啦！》Workshop 會後](../notes/a-SpuZ_WQSGMA1TmiWnXIg.md) | 2023-06-12T21:23:43+08:00 | 2018-10-06T10:16:37+08:00 |
-| 58 | [20230531 會議記錄](../notes/luIa-z9HToC2zlFpD9yK3w.md) | 2023-05-31T21:31:01+08:00 | 2023-05-31T13:27:12+08:00 |
-| 59 | [20230524 會議記錄](../notes/d-3Itg9jTb61ZYWEVnRqsg.md) | 2023-05-27T13:36:22+08:00 | 2023-05-23T22:43:39+08:00 |
-| 60 | [20230517 會議記錄](../notes/hn7Zy2X1QKuM8Kb5K6d4pA.md) | 2023-05-17T21:03:02+08:00 | 2023-05-17T02:15:39+08:00 |
-| 61 | [20230511 會議記錄](../notes/joEUsABVRr2aMQqD-Z8ixQ.md) | 2023-05-17T13:40:08+08:00 | 2023-05-10T01:11:12+08:00 |
-| 62 | [Cofacts multimedia support research](../notes/aJqHn8f5QGuBDLSMH_EinA.md) | 2023-05-10T17:16:54+08:00 | 2021-08-26T01:31:40+08:00 |
+| 1 | [Cofacts multimedia support research](../notes/aJqHn8f5QGuBDLSMH_EinA.md) | 2024-01-24T11:52:53+08:00 | 2021-08-26T01:31:40+08:00 |
+| 2 | [20240125 會議記錄](../notes/4HVFW0ivS-e9QfArzzOFiA.md) | 2024-01-23T14:56:46+08:00 | 2024-01-23T13:10:34+08:00 |
+| 3 | [20240117 會議記錄](../notes/wg2iF9fARBCREZ1gTauvUw.md) | 2024-01-17T20:33:45+08:00 | 2024-01-17T14:43:10+08:00 |
+| 4 | [Cofacts・台灣選務謠言筆記 hackath60n 協作頁面](../notes/TnZpbsAeT1GGPcTStcl8Kw.md) | 2024-01-06T16:17:09+08:00 | 2024-01-06T00:46:57+08:00 |
+| 5 | [台灣選制、選務謠言筆記](../notes/7gWyvTDYRFuzup1RECnr5A.md) | 2024-01-06T14:53:12+08:00 | 2023-12-08T15:25:01+08:00 |
+| 6 | [20240103 會議記錄](../notes/Oc68Wf3yRIm5UC7IeN6Pcg.md) | 2024-01-05T03:17:32+08:00 | 2024-01-03T02:26:29+08:00 |
+| 7 | [20231228 會議記錄](../notes/vKCvrqSQTlm7GEx9MAXGaw.md) | 2024-01-03T18:44:04+08:00 | 2023-12-27T02:19:54+08:00 |
+| 8 | [20231220 會議記錄](../notes/kxGE_l7XT4ePTO1ljmtNkQ.md) | 2023-12-20T21:11:53+08:00 | 2023-12-20T03:19:13+08:00 |
+| 9 | [20231213 會議記錄](../notes/0Ta4gitcTJCY2Lnwll0qrw.md) | 2023-12-20T19:59:19+08:00 | 2023-12-13T02:32:18+08:00 |
+| 10 | [Cofacts・台灣選務謠言筆記 hackath59n 協作頁面](../notes/I7J17SoFRvWyxRuAecoS1w.md) | 2023-12-09T16:34:51+08:00 | 2023-12-06T03:11:38+08:00 |
+| 11 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2023-12-06T19:45:25+08:00 | 2022-08-05T10:46:53+08:00 |
+| 12 | [Cofacts article group design doc](../notes/f_Ze19PhQuqx_fzOAOkohQ.md) | 2023-12-03T01:13:23+08:00 | 2022-10-04T07:42:45+08:00 |
+| 13 | [20231122 會議記錄](../notes/RRRZSBSKRLCm3fBnHG1j9g.md) | 2023-11-22T20:49:06+08:00 | 2023-11-21T12:49:13+08:00 |
+| 14 | [20231115 會議記錄](../notes/vAUg0WtvTAi0rzJ7E1spnQ.md) | 2023-11-18T13:59:39+08:00 | 2023-11-15T02:28:00+08:00 |
+| 15 | [20231108 會議記錄](../notes/oz-49rOSSPW3J8AbG0yRSA.md) | 2023-11-15T19:40:05+08:00 | 2023-11-08T12:55:10+08:00 |
+| 16 | [20231101 會議記錄](../notes/g4Ikla2NQESsGM05-wiyNg.md) | 2023-11-01T20:52:36+08:00 | 2023-11-01T12:32:34+08:00 |
+| 17 | [20231025 會議記錄](../notes/ZOZrbHxEQV25eP7a4dxzYw.md) | 2023-10-25T21:06:48+08:00 | 2023-10-25T02:48:52+08:00 |
+| 18 | [Cofacts crowd-sourced transcript design doc](../notes/OhGIQzoxR5eF6audQuS_FQ.md) | 2023-10-25T14:06:01+08:00 | 2022-08-28T16:38:50+08:00 |
+| 19 | [20231018 會議記錄](../notes/v4taAFAtRt6EOMGGMa7Btw.md) | 2023-10-19T11:23:02+08:00 | 2023-10-18T11:35:46+08:00 |
+| 20 | [20231011 會議記錄](../notes/t9ypB87SQBuMjjW_PheZVg.md) | 2023-10-18T11:34:35+08:00 | 2023-10-10T18:57:29+08:00 |
+| 21 | [Cofacts hackath58n 協作頁面](../notes/hb5doTr1Re2OjGFCO2Ob8w.md) | 2023-10-15T16:12:55+08:00 | 2023-10-14T19:46:48+08:00 |
+| 22 | [20231004 會議記錄](../notes/XRzWTxjVTFWI8JNzLVh9lQ.md) | 2023-10-11T19:02:04+08:00 | 2023-10-04T00:03:11+08:00 |
+| 23 | [20230927 會議記錄](../notes/Eu2AOPXnTzixK6qt7t4ikg.md) | 2023-09-27T21:14:57+08:00 | 2023-09-27T01:14:37+08:00 |
+| 24 | [20230921 會議記錄](../notes/ulv1SGtBRWmhxnE9Lpv9TQ.md) | 2023-09-24T23:23:08+08:00 | 2023-09-20T23:59:17+08:00 |
+| 25 | [Cofacts  Hypercerts](../notes/1ZqfFBAdQFSH3Z5O4G3pMg.md) | 2023-09-22T20:23:38+08:00 | 2023-09-22T20:20:26+08:00 |
+| 26 | [20230917 Cofacts 真的假的 第 38 次查核小聚 小松果](../notes/lXd4Ypg_S12HLxs5z9wAkQ.md) | 2023-09-21T19:42:05+08:00 | 2023-09-17T13:38:44+08:00 |
+| 27 | [20230913 會議記錄](../notes/ZDlTB7buRUqIG9c3wMOkRQ.md) | 2023-09-17T13:23:04+08:00 | 2023-09-13T12:37:12+08:00 |
+| 28 | [Translation Cofacts video](../notes/Jcer4KcJQJiFLQS4cF1Qwg.md) | 2023-09-14T15:34:28+08:00 | 2021-03-20T10:49:17+08:00 |
+| 29 | [20230907 會議記錄](../notes/GHKWDHGITHaKeBzQdVf5pA.md) | 2023-09-07T20:45:28+08:00 | 2023-09-06T23:39:15+08:00 |
+| 30 | [วิธีการใช้งาน COFACT.ORG / 如何使用 COFACT.ORG](../notes/2lYi8f6PSYyCfBw1MPGtQA.md) | 2023-09-02T16:20:54+08:00 | 2023-09-02T16:18:50+08:00 |
+| 31 | [20230831 會議記錄](../notes/K02x8V48TDmiPdwXtWCZSQ.md) | 2023-08-31T20:53:45+08:00 | 2023-08-31T13:37:56+08:00 |
+| 32 | [對話整理樣板：一句話描述這篇](../notes/lr3q2O7eRZqevdNewpZ1Yg.md) | 2023-08-27T17:07:10+08:00 | 2018-10-10T20:27:35+08:00 |
+| 33 | [Cofacts Hackath57n 協作頁面](../notes/uO2pc1SlQCqtK7WZBknBZw.md) | 2023-08-26T23:07:54+08:00 | 2023-08-26T14:49:11+08:00 |
+| 34 | [20230823 會議記錄](../notes/Fmkhf62_SKGIlwwwLrRnAw.md) | 2023-08-24T02:28:12+08:00 | 2023-08-23T17:05:16+08:00 |
+| 35 | [20230817 會議記錄](../notes/5Pn97RTPTpmsrW4opnSKNA.md) | 2023-08-17T21:00:48+08:00 | 2023-08-17T12:57:08+08:00 |
+| 36 | [Cofacts API access management](../notes/51wwLHgvSUqtBDaP-yAVnA.md) | 2023-08-10T02:48:05+08:00 | 2021-01-19T22:33:07+08:00 |
+| 37 | [Cofacts Huggingface 資料集評估 By Teemo](../notes/p-4gLJ-ASe-0wzp_G6h7TQ.md) | 2023-08-01T11:21:40+08:00 | 2023-07-05T21:56:48+08:00 |
+| 38 | [20230719 會議記錄](../notes/EfM4Xqn4TA-nIXF8Njjovg.md) | 2023-07-19T20:51:24+08:00 | 2023-07-19T03:19:07+08:00 |
+| 39 | [20230712 會議記錄](../notes/hZ4I3iFfSPGr9JROtBZNzQ.md) | 2023-07-12T21:23:40+08:00 | 2023-07-12T17:36:29+08:00 |
+| 40 | [Cofacts 第 36 次小聚小松果](../notes/DACiWe7XQnS4fo7v0OX4pg.md) | 2023-07-12T18:56:45+08:00 | 2023-07-09T14:03:10+08:00 |
+| 41 | [20230705 會議記錄](../notes/LxNqtaRhQbqkSFMsLShAiQ.md) | 2023-07-09T13:29:50+08:00 | 2023-07-05T02:50:01+08:00 |
+| 42 | [20230607 會議記錄](../notes/dkyaltHuSp6jPPw9oL4Wig.md) | 2023-07-01T23:21:29+08:00 | 2023-06-07T03:20:26+08:00 |
+| 43 | [Cofacts Hackath56n 協作頁面](../notes/UpvWnVNKREmzgS1jmy3-0A.md) | 2023-07-01T16:38:29+08:00 | 2023-07-01T01:53:36+08:00 |
+| 44 | [Cofacts GA4 Migration design doc](../notes/cJFFXVzgT4OFT6bBLtulGg.md) | 2023-06-27T14:38:59+08:00 | 2023-01-31T09:42:15+08:00 |
+| 45 | [20230614 會議記錄](../notes/hT9OKQYJRcqPgC18U4csuw.md) | 2023-06-14T20:51:53+08:00 | 2023-06-14T03:01:48+08:00 |
+| 46 | [How to organize an editor’s meetup](../notes/s7Hb2sSATq-1z68Nhl6a2w.md) | 2023-06-12T21:32:00+08:00 | 2018-10-05T13:37:52+08:00 |
+| 47 | [「說這話的人，幾天後被砸死」的中國訊息 - MrOrz](../notes/4TaassszRQmoBZIH_7TPog.md) | 2023-06-12T21:27:07+08:00 | 2023-06-08T10:41:25+08:00 |
+| 48 | [Cofacts Editors’ Gathering Guidelines and Policy](../notes/oT1pmA5ETQWuooNU0GnVAw.md) | 2023-06-12T21:25:12+08:00 | 2018-10-05T13:35:07+08:00 |
+| 49 | [Cofacts Editors’ Guideline and Policy](../notes/T_XuC8JcR_-cxuF0VU1pXA.md) | 2023-06-12T21:25:03+08:00 | 2018-10-05T13:33:40+08:00 |
+| 50 | [Cofacts Database: Step-by-step Tutorial](../notes/OCxsEsUSQt2OnGfxDPfjoA.md) | 2023-06-12T21:24:57+08:00 | 2018-10-05T13:23:25+08:00 |
+| 51 | [First Step For Cofacts Editor](../notes/z7PY2mQeSMyWBoZpaVhAPg.md) | 2023-06-12T21:24:53+08:00 | 2018-10-05T13:15:19+08:00 |
+| 52 | [Frequently Asked Questions](../notes/E6ZsE8csSI6_PbMZzmXhTg.md) | 2023-06-12T21:24:48+08:00 | 2018-10-05T13:04:22+08:00 |
+| 53 | [Cofacts LINE Bot User Manual](../notes/WhGyJgyBQJi_JtGlBcevRA.md) | 2023-06-12T21:24:44+08:00 | 2018-10-05T12:36:25+08:00 |
+| 54 | [Cofacts Tutorial](../notes/Waz-B9sORSOPLp6nAOS82w.md) | 2023-06-12T21:24:39+08:00 | 2018-10-04T17:53:48+08:00 |
+| 55 | [Manual for Cofacts LINE bot collaboration / Bug Report Group](../notes/mF_43o89SOSzAmb6DyaJBA.md) | 2023-06-12T21:24:23+08:00 | 2018-10-05T13:38:48+08:00 |
+| 56 | [Cofacts Design Decision](../notes/ZNzzDKzOS1-CUi67EVJwig.md) | 2023-06-12T21:24:18+08:00 | 2018-10-05T13:40:44+08:00 |
+| 57 | [Cofacts Editor On-boarding SOP](../notes/0-QjXPxURka8hrPDmKYP7w.md) | 2023-06-12T21:24:03+08:00 | 2018-10-05T13:36:53+08:00 |
+| 58 | [《沒有人要做 Cofacts 編輯啦！》Workshop 會後](../notes/a-SpuZ_WQSGMA1TmiWnXIg.md) | 2023-06-12T21:23:43+08:00 | 2018-10-06T10:16:37+08:00 |
+| 59 | [20230531 會議記錄](../notes/luIa-z9HToC2zlFpD9yK3w.md) | 2023-05-31T21:31:01+08:00 | 2023-05-31T13:27:12+08:00 |
+| 60 | [20230524 會議記錄](../notes/d-3Itg9jTb61ZYWEVnRqsg.md) | 2023-05-27T13:36:22+08:00 | 2023-05-23T22:43:39+08:00 |
+| 61 | [20230517 會議記錄](../notes/hn7Zy2X1QKuM8Kb5K6d4pA.md) | 2023-05-17T21:03:02+08:00 | 2023-05-17T02:15:39+08:00 |
+| 62 | [20230511 會議記錄](../notes/joEUsABVRr2aMQqD-Z8ixQ.md) | 2023-05-17T13:40:08+08:00 | 2023-05-10T01:11:12+08:00 |
 | 63 | [Generative AI 如何幫助 Fact check](../notes/RLpf-11GTCGWtMpKUQalQw.md) | 2023-05-08T02:49:02+08:00 | 2023-05-07T13:49:18+08:00 |
 | 64 | [20230503 會議記錄](../notes/SHMhOYbBQ4Sjb5N41lsqMg.md) | 2023-05-03T21:26:21+08:00 | 2023-05-03T01:47:38+08:00 |
 | 65 | [Cofacts preview generation](../notes/gu_hAI6tTeaeBuNUgGpq-g.md) | 2023-04-07T10:24:21+08:00 | 2023-02-04T01:12:01+08:00 |
