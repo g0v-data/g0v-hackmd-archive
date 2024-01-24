@@ -8,6 +8,8 @@ Thailand [Samui & Bangko] 9 days
 ## 旅遊計畫
 曼谷轉機往蘇梅島（非開同一張機票，首日抵達曼谷時得先領行李再轉國內線）。先玩蘇梅島六天五夜，分兩間住宿，回程待曼谷三天再回台灣。
 
+
+
 成員：兩大、一小（低年級）
 
 ### Day 1 (2/3 週六)
@@ -62,23 +64,40 @@ Chaweng Beach 查汶海灘
 Asiatique河濱夜市 11:00–00:00
 
 ### Day 7 (2/9 週五-除夕)
-07:30 吃完早餐，從飯店出發（包車 1h30m）
+> 行程
+07:30 吃完早餐，從飯店出發（包車 1h30m）往 Ayutthaya
 [Sriayuthaya Lion Park](https://www.klook.com/zh-TW/activity/105309-sriayuthaya-lion-park-ticket-ticket/?spm=SearchResult.SearchResult_LIST&clickId=1aa17c7050)（大城動物園） 08:30–17:00
+（三點前離開動物園，五點前得抵達 ICONSIAM）
 [ICONSIAM](https://kimiyo.tw/iconsiam/)（暹羅天地） 10:00-22:00
 [The Opulence Cruise](https://www.klook.com/zh-TW/activity/99297-opulence-luxury-chao-phraya-dinner-cruise-cruise-bangkok/)（遊河晚餐） 20:00-22:15 / Checkin: 18:00-19:30
 
+> 出發：klook [包車](https://www.klook.com/zh-TW/activity/31774-ayutthaya-private-sightseeing-car-charter-bangkok/) 8h
+> 回程：Bolt/Grab 回飯店
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bf70096051fd08df5769126dbe740931.png)
+
+> 備案
+Safari World Bangkok
 
 ### Day 8 (2/10 週六)
+> 行程 by Grab/Bolt
 大皇宮/玉佛寺 08:30–15:30
+Ladmayom Floating Market（空叻瑪榮水上市場） 08:00-17:00
 Thonburi Market Place（吞武里海鮮市場） 07:00-20:00
-SEA LIFE曼谷海洋世界 10:00-20:00（Siam Paragon/B1）
+[JODD FAIRS Rama 9](https://www.bring-you.info/zh-tw/jodd-fairs)（喬德夜市） 16:00-00:00
+
+> 備案
+SEA LIFE（曼谷海洋世界） 10:00-20:00（Siam Paragon/B1）
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d8215c94e58853e87561ec240d857747.png)
+
 
 ### Day 9 (2/11 週日-初二)
 > 飛機
 **BKK-TPE** CI832（China Air）
 14:05 ~ 18:40（3h35m）
 
-> 出發往機場
+> 行程
 10:30 從飯店出發，走路到 BTS [Phaya Thai](https://maps.app.goo.gl/h9k195umaALYptGX9)，11:30 前到機場。
 **ARL**（A08 PhayaThai - A01 Suvarnabhumi Airport）35m
 
