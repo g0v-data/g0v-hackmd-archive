@@ -17,7 +17,12 @@ GA: UA-98468513-3
 
 - [ ] 日期：2/24
 - [ ] 食物
-- [ ] 場地：宜蘭？沒有就 npo hub
+- [ ] 場地：宜蘭
+    - [神農青舍](https://www.facebook.com/snvillage/?locale=zh_TW)
+      - 離宜蘭火車站最近
+      - https://www.facebook.com/photo/?fbid=743104471169952&set=a.452246433589092&__tn__=%2CO*F
+    - 熊與喵咖啡
+    - [宜蘭青年交流中心](https://yyh.e-land.gov.tw/bookthespace)
 - [x] 時間：
 	- 活動時間：14:00 - 17:00
 	- 時間分配
