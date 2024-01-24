@@ -35,20 +35,43 @@ tags: vTaiwan
     - vTaiwan for all 則是看講者在哪裡
 
 主持排班～～～
+主持必做：開共筆、找到人寫共筆、確保大家可以入場、確保場地有人借、的定義
 2/14 Eli
 2/21 Peter (當週也有 vTaiwan for all 2/22)
 2/28 Josh
-3/6 Erica
-3/13 宛真
-3/20 Shu
+3/6 Erica / Shu
+3/13 peter (原訂)
+3/20 Shu 
 3/27 子生
+4/3 宛真
 
+
+1hr: 行政雜事
+2nd hour: (optional) co-work time
+
+every month 1st week: design workshop (2hr)
+every month 3rd week: vTaiwan for all (2hr)
+
+做 calendar 建立 vTaiwan 活動列表
 
 vTaiwan 的帳目經費 [name = Peter]
  
+youtube channel
+https://www.youtube.com/@jubilee
+"middleground"
+做雜事 vs deliberation culture
 
+怎麼融入 deliberation culture
+- use polis
+- 用 madeline 的方式帶討論
+- consider.it
+- 
 
+polis: vTaiwan 的下一步
 
+- vTaiwan 工作坊：是可以 run activity 的組織 （我們提供 a set of tools, 有系統的幫助討論）
+- vTaiwan 是個大家都可以提案的平台，並且有提供清晰的提案管道
+- vTaiwan 街訪：vTaiwan 是個可以去掌握社會「關心」的議題的地方
 
 
 討論：vTaiwan的困境與出路😱？？？？？
@@ -56,7 +79,7 @@ vTaiwan 的帳目經費 [name = Peter]
 - 如何降低公民提案門檻
 - 是否可以朝向一個公民能持續自己線上提案的平台
 - 累積足夠聲量成為政府及民意代表參考的指標民意
-- Join目前的缺陷與借鏡
+- Join 目前的缺陷與借鏡
     - 沒有統整匯集意見
     - 只有一個人提出主要的提案設定agenda
 - vTaiwan提案流程如何從提案到立案的過程，讓不同程度參與社群的朋友（例如線上vs線下參與），不會因為參與度的不同，卻都能擁有多種交流、討論的機制，達到一起協作與做決定的氛圍
@@ -71,14 +94,15 @@ vTaiwan 的帳目經費 [name = Peter]
 - 提案後，案子要有機會有時間被討論被認識
 - 大家各自輪流介紹vtaiwan，藉此討論出vtaiwan2.0?
 
-## 
-司法院
+
+
+## 司法院
 
 
 ## DSET
 
 - 要寫信去follow進度 [name=Eli]
 - 目前的工作進度的是要從社群與其他管道蒐集，對於公務體系運動AI與機器學習應該要有的規範（或是更廣泛的意見）
-
+- 用2/22的活動來pilot這個意見徵集
 
 

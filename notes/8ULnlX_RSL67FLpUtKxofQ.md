@@ -46,6 +46,10 @@ Chaweng night market
 > 飛機
 **USM-BKK** PG136（Bangkok Air）
 13:55 ~ 15:10（1h15m）
+10:30 從飯店出發（11:00前到機場）
+
+> 午餐
+[Noori India](https://maps.app.goo.gl/9Ku4uDSmqSaNoT887) 在機場內，先掛行李再吃。
 
 > 住宿（3 Nights）
 Eastin Grand Hotel Phayathai
@@ -56,14 +60,15 @@ Chaweng Beach 查汶海灘
 Asiatique河濱夜市 11:00–00:00
 
 ### Day 7 (2/9 週五-除夕)
-Safari World Bangkok（賽佛瑞動物園） 09:00–16:30
-昭披耶河公主號遊河 17:00-19:00
+07:30 吃完早餐，從飯店出發（包車 1h30m）
+[Sriayuthaya Lion Park](https://www.klook.com/zh-TW/activity/105309-sriayuthaya-lion-park-ticket-ticket/?spm=SearchResult.SearchResult_LIST&clickId=1aa17c7050)（大城動物園） 08:30–17:00
 ICONSIAM（暹羅天地） 10:00-22:00
+[The Opulence Cruise](https://www.klook.com/zh-TW/activity/99297-opulence-luxury-chao-phraya-dinner-cruise-cruise-bangkok/)（遊河晚餐） 20:00-22:15 / Checkin: 18:00-19:30
 
 
 ### Day 8 (2/10 週六)
 大皇宮/玉佛寺 08:30–15:30
-水上市場（未定）
+Thonburi Market Place（吞武里海鮮市場）
 SEA LIFE曼谷海洋世界 10:00-20:00
 Siam Park City（樂園）
 
@@ -73,7 +78,7 @@ Siam Park City（樂園）
 14:05 ~ 18:40（3h35m）
 
 **ARL**（A08 PhayaThai - A01 Airport）35m
-1030 從飯店出發
+10:30 從飯店出發（11:30前到機場）
 
 ## 交通
 * Bolt（平價/車多）
@@ -102,4 +107,5 @@ https://footprints.tw/blog/post/118417451
 
 ## 冷知識
 * [昭披耶河又稱為湄南河嗎？](https://visionthai.net/article/differences-between-the-chao-phraya-river-and-mekong-river/)
+* 大皇宮內的玉佛寺（Wat Phra Kaew），內有泰國最神聖的佛像—翡翠佛，這裡是泰國佛教的心臟地帶。參觀時，請記住穿著適當，因為進入寺廟和皇宮區域有著嚴格的著裝要求。
 * 
