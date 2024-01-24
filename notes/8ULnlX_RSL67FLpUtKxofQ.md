@@ -8,6 +8,8 @@ Thailand [Samui & Bangko] 9 days
 ## 旅遊計畫
 曼谷轉機往蘇梅島（非開同一張機票，首日抵達曼谷時得先領行李再轉國內線）。先玩蘇梅島六天五夜，分兩間住宿，回程待曼谷三天再回台灣。
 
+成員：兩大、一小（低年級）
+
 ### Day 1 (2/3 週六)
 > 飛機
 **TPE-BKK** CI831（China Air）
@@ -62,23 +64,23 @@ Asiatique河濱夜市 11:00–00:00
 ### Day 7 (2/9 週五-除夕)
 07:30 吃完早餐，從飯店出發（包車 1h30m）
 [Sriayuthaya Lion Park](https://www.klook.com/zh-TW/activity/105309-sriayuthaya-lion-park-ticket-ticket/?spm=SearchResult.SearchResult_LIST&clickId=1aa17c7050)（大城動物園） 08:30–17:00
-ICONSIAM（暹羅天地） 10:00-22:00
+[ICONSIAM](https://kimiyo.tw/iconsiam/)（暹羅天地） 10:00-22:00
 [The Opulence Cruise](https://www.klook.com/zh-TW/activity/99297-opulence-luxury-chao-phraya-dinner-cruise-cruise-bangkok/)（遊河晚餐） 20:00-22:15 / Checkin: 18:00-19:30
 
 
 ### Day 8 (2/10 週六)
 大皇宮/玉佛寺 08:30–15:30
-Thonburi Market Place（吞武里海鮮市場）
-SEA LIFE曼谷海洋世界 10:00-20:00
-Siam Park City（樂園）
+Thonburi Market Place（吞武里海鮮市場） 07:00-20:00
+SEA LIFE曼谷海洋世界 10:00-20:00（Siam Paragon/B1）
 
 ### Day 9 (2/11 週日-初二)
 > 飛機
 **BKK-TPE** CI832（China Air）
 14:05 ~ 18:40（3h35m）
 
-**ARL**（A08 PhayaThai - A01 Airport）35m
-10:30 從飯店出發（11:30前到機場）
+> 出發往機場
+10:30 從飯店出發，走路到 BTS [Phaya Thai](https://maps.app.goo.gl/h9k195umaALYptGX9)，11:30 前到機場。
+**ARL**（A08 PhayaThai - A01 Suvarnabhumi Airport）35m
 
 ## 交通
 * Bolt（平價/車多）
