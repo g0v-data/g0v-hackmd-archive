@@ -65,19 +65,17 @@ Asiatique河濱夜市 11:00–00:00
 
 ### Day 7 (2/9 週五-除夕)
 > 行程
-07:30 吃完早餐，從飯店出發（包車 1h30m）往 Ayutthaya
-[Sriayuthaya Lion Park](https://www.klook.com/zh-TW/activity/105309-sriayuthaya-lion-park-ticket-ticket/?spm=SearchResult.SearchResult_LIST&clickId=1aa17c7050)（大城動物園） 08:30–17:00
-（三點前離開動物園，五點前得抵達 ICONSIAM）
+08:00 吃完早餐，從飯店出發（包車 40m）
+[Safari World Bangkok](https://www.safariworldbangkok.com/)（曼谷動物園）
+（四點前離開動物園，五點前抵達 ICONSIAM）
 [ICONSIAM](https://kimiyo.tw/iconsiam/)（暹羅天地） 10:00-22:00
-[The Opulence Cruise](https://www.klook.com/zh-TW/activity/99297-opulence-luxury-chao-phraya-dinner-cruise-cruise-bangkok/)（遊河晚餐） 20:00-22:15 / Checkin: 18:00-19:30
+[The Opulence Cruise](https://www.klook.com/zh-TW/activity/99297-opulence-luxury-chao-phraya-dinner-cruise-cruise-bangkok/)（遊河晚餐） 20:00-22:15 / Checkin 18:00-19:30
 
-> 出發：klook [包車](https://www.klook.com/zh-TW/activity/31774-ayutthaya-private-sightseeing-car-charter-bangkok/) 8h
+> 出發：klook [包車](https://www.klook.com/zh-TW/transport/ttd/car-charters/th/?des_id=10011&spm=Mobility_Aggregate.Transportation_LIST) 8h
 > 回程：Bolt/Grab 回飯店
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bf70096051fd08df5769126dbe740931.png)
-
 > 備案
-Safari World Bangkok（曼谷動物園）
+[Sriayuthaya Lion Park](https://www.klook.com/zh-TW/activity/105309-sriayuthaya-lion-park-ticket-ticket/?spm=SearchResult.SearchResult_LIST&clickId=1aa17c7050)（大城動物園） 08:30–17:00
 
 ### Day 8 (2/10 週六)
 > 行程 by Grab/Bolt
