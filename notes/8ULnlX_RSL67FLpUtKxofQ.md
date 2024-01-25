@@ -81,7 +81,7 @@ Safari World Bangkok（曼谷動物園）
 
 ### Day 8 (2/10 週六)
 > 行程 by Grab/Bolt
-大皇宮/玉佛寺 08:30–15:30
+[大皇宮](https://www.royalgrandpalace.th/cn/visit/practical-information)/玉佛寺 08:30–15:30
 Ladmayom Floating Market（空叻瑪榮水上市場） 08:00-17:00
 Thonburi Market Place（吞武里海鮮市場） 07:00-20:00
 [JODD FAIRS Rama 9](https://www.bring-you.info/zh-tw/jodd-fairs)（喬德夜市） 16:00-00:00
