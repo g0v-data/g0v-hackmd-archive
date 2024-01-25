@@ -6,4 +6,5 @@ tags:
 
 ISO 3166-1 country list names considered harmful. use GENC names
 
+by CLKAO
 https://clkao.substack.com/p/how-dbt-labs-demonstrates-its-inclusive

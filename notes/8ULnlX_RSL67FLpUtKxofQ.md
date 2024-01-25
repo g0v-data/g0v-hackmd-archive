@@ -65,7 +65,7 @@ Asiatique河濱夜市 11:00–00:00
 
 ### Day 7 (2/9 週五-除夕)
 > 行程
-08:00 吃完早餐，從飯店出發（包車 40m）
+08:10 吃完早餐，從飯店出發（包車 40m）
 [Safari World Bangkok](https://www.safariworldbangkok.com/)（曼谷動物園）
 （四點前離開動物園，五點前抵達 ICONSIAM）
 [ICONSIAM](https://kimiyo.tw/iconsiam/)（暹羅天地） 10:00-22:00
@@ -80,14 +80,12 @@ Asiatique河濱夜市 11:00–00:00
 ### Day 8 (2/10 週六)
 > 行程 by Grab/Bolt
 [大皇宮](https://www.royalgrandpalace.th/cn/visit/practical-information)/玉佛寺 08:30–15:30
-Ladmayom Floating Market（空叻瑪榮水上市場） 08:00-17:00
 Thonburi Market Place（吞武里海鮮市場） 07:00-20:00
+[SEA LIFE](https://www.klook.com/zh-TW/activity/357-sea-life-bangkok-ocean-world-bangkok/)（曼谷海洋世界） 10:00-20:00（Siam Paragon）[官網](https://www.visitsealife.com/bangkok/ch/what-s-inside/)
 [JODD FAIRS Rama 9](https://www.bring-you.info/zh-tw/jodd-fairs)（喬德夜市） 16:00-00:00
 
 > 備案
-SEA LIFE（曼谷海洋世界） 10:00-20:00（Siam Paragon/B1）
-
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d8215c94e58853e87561ec240d857747.png)
+Ladmayom Floating Market（空叻瑪榮水上市場） 08:00-17:00
 
 
 ### Day 9 (2/11 週日-初二)

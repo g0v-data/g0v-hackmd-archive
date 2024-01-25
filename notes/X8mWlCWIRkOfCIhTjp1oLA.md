@@ -8,7 +8,8 @@ title: 道路標線改造案例地圖、熱點關注地圖
 
 ## Map 地圖網址
 
-🔗 https://maps.app.goo.gl/W9abmpxwPtWr2x7o7
+🔗 瀏覽網址：https://maps.app.goo.gl/W9abmpxwPtWr2x7o7
+🔗 可編輯網址：https://www.google.com/maps/d/edit?mid=1bDD92bgy5n_N12Mm9X1PVC_mvSh3tmY&usp=sharing
 🟢 綠色：已改善案例
 🔴 紅色：可改善地點且有民間團體關注中
 
