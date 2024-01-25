@@ -27,9 +27,12 @@ rdm參數檔2：http://web1.emax.net.tw/ken542014/Temp/newtstop.dll
 https://drive.google.com/uc?id=1e0quXt20XF8QZkpFgR4Wj-z1LYKLGrkM&export=download
 curl hhttp://192.168.5.49:8080/Temp/ShowKeyPlus.zip -o C:\02Temp\ShowKeyPlus.zip
 
-#### 程式安裝指令
-powershell Start-Process cmd -verb runas
-安裝7-Zip+ OpenShell+Notepad++
+#### Windows標準安裝
+前置作業： (最好先備份一次當前系統)關閉防毒
+1. 手動安裝telnet client
+2. 手動安裝 .Net Frame Work 3.5-，注意磁碟機代號
+dism /online /enable-feature /featurename:netfx3 /All /LimitAccess /Source:D:\sources\sxs
+自動安裝開始：7-Zip、 OpenShell、Notepad++、01Backup(M1.bat+Dism全選清理硬碟)並刪除下載檔案
 curl https://www.chainlon.net/1/7z.msi -o C:\users\\%username%\Downloads\7z.msi
 curl https://www.chainlon.net/1/OpenShell.exe -o C:\users\\%username%\Downloads\OpenShell.exe
 curl https://www.chainlon.net/1/npp.exe -o C:\users\\%username%\Downloads\npp.exe
@@ -47,6 +50,7 @@ cd\01Backup\tools
 m1.bat
 cd Dism
 Dism++x64.exe
+自動安裝結束
 #### 允許資產管理LanSweeper(Dos)
 curl https://www.chainlon.net/1/ls.zip -o C:\users\\%username%\Downloads\ls.zip
 "C:\Program Files\7-Zip\7z.exe" x C:\users\\%username%\Downloads\ls.zip -oC:\01Backup\Tools\ -y
@@ -84,6 +88,8 @@ TFGInstallTool.exe -ForceUninstallMachineID
 net use T: http://192.168.5.50/cy /u:admin
 net use T: \\192.168.5.50\cy /u:admin
 Xcopy "P:\21.MIS\01Backup\" "C:\01Backup\" /s /e /y /i /h /d
+執行CMD管理員：
+powershell Start-Process cmd -verb runas
 #### 812用戶端環境
 echo 刪除JAVA版本升級檢查：
 reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Run" /v "SunJavaUpdateSched" /f
