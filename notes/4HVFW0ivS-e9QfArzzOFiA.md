@@ -30,14 +30,14 @@ TODO
 - [ ] 實作 ASKING_CONTEXT (Optional?)
 - [ ] 補 unit tests
 
+No progress this week T_T
+
 Enhancement on websites
 
-- Reuse reply in article group
-  - 相似可疑訊息納入搭配的回應
-- Want to know if article article in group are replied or not (how many replies)
-  - 想知道哪些還沒回，要補回應
-  - 有回應的話就知道可以重用
-  - 試排：每個 item 有 reply、group last report 移到最上面
+> Previous discussion: 
+
+- Ticket opened: https://github.com/cofacts/rumors-site/issues/564
+- 還沒試排 article group display. 之後重構網站時再做？ https://g0v.hackmd.io/wg2iF9fARBCREZ1gTauvUw#Comm-Cooccurrence--article-group
 
 ### [Op] 檢舉處理
 
@@ -51,7 +51,7 @@ Enhancement on websites
     - [神農青舍](https://www.facebook.com/snvillage/?locale=zh_TW)
       - 離宜蘭火車站最近
       - https://www.facebook.com/photo/?fbid=743104471169952&set=a.452246433589092&__tn__=%2CO*F
-    - 熊與喵咖啡
+    - [熊與喵咖啡](https://www.facebook.com/bearandcatcoffee)
     - [宜蘭青年交流中心](https://yyh.e-land.gov.tw/bookthespace)
     - [蘭燈空間](https://linteng.org.tw/lanternspace/) 只有 2/18 (日) 有空
 - [x] 時間：
@@ -86,8 +86,8 @@ Enhancement on websites
 ## 實科協會
 
 - NPO Hub
-    - 開會？
-- Reveal on cofacts.tw
+    - 下次開會在 Hub 嗎？
+- Reveal 實科協會 on cofacts.tw
     - 更改會址後、申請 Google 非營利前用
     - Cofacts 開源專案開始於 2016 年。2023 年，Cofacts 工作小組成立社團法人台灣實科協會，持續營運 Cofacts 社群。
 - 帳務

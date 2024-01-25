@@ -61,11 +61,11 @@ Eastin Grand Hotel Phayathai
 
 > 行程
 Chaweng Beach 查汶海灘
-Asiatique河濱夜市 11:00–00:00
+[JODD FAIRS Rama 9](https://www.bring-you.info/zh-tw/jodd-fairs)（喬德夜市） 16:00-00:00
 
 ### Day 7 (2/9 週五-除夕)
-> 行程
-08:10 吃完早餐，從飯店出發（包車 40m）
+> 行程 by 包車
+08:10 吃完早餐，從飯店出發（車程 40m）
 [Safari World Bangkok](https://www.safariworldbangkok.com/)（曼谷動物園）
 （四點前離開動物園，五點前抵達 ICONSIAM）
 [ICONSIAM](https://kimiyo.tw/iconsiam/)（暹羅天地） 10:00-22:00
@@ -78,11 +78,15 @@ Asiatique河濱夜市 11:00–00:00
 [Sriayuthaya Lion Park](https://www.klook.com/zh-TW/activity/105309-sriayuthaya-lion-park-ticket-ticket/?spm=SearchResult.SearchResult_LIST&clickId=1aa17c7050)（大城動物園） 08:30–17:00
 
 ### Day 8 (2/10 週六)
-> 行程 by Grab/Bolt
-[大皇宮](https://www.royalgrandpalace.th/cn/visit/practical-information)/玉佛寺 08:30–15:30
-Thonburi Market Place（吞武里海鮮市場） 07:00-20:00
-[SEA LIFE](https://www.klook.com/zh-TW/activity/357-sea-life-bangkok-ocean-world-bangkok/)（曼谷海洋世界） 10:00-20:00（Siam Paragon）[官網](https://www.visitsealife.com/bangkok/ch/what-s-inside/)
-[JODD FAIRS Rama 9](https://www.bring-you.info/zh-tw/jodd-fairs)（喬德夜市） 16:00-00:00
+行程 by 包車
+
+> 寺廟巡禮
+> 1. [大皇宮](https://www.royalgrandpalace.th/cn/visit/practical-information)＆玉佛寺 08:30–15:30
+> 1. [臥佛寺](https://mimihan.tw/wat-pho/) 08:00-18:30
+> 1. [鄭王廟](https://bkk.com.tw/wat-arun/) 08:00-18:00（用餐時間若衝突，先去海鮮市場再來）
+
+> Thonburi Market Place（吞武里海鮮市場） 07:00-20:00
+Siam Paragon [SEA LIFE](https://www.klook.com/zh-TW/activity/357-sea-life-bangkok-ocean-world-bangkok/)（曼谷海洋世界/[官網](https://www.visitsealife.com/bangkok/ch/what-s-inside/)） 10:00-20:00
 
 > 備案
 Ladmayom Floating Market（空叻瑪榮水上市場） 08:00-17:00
