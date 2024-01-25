@@ -29,9 +29,7 @@ curl hhttp://192.168.5.49:8080/Temp/ShowKeyPlus.zip -o C:\02Temp\ShowKeyPlus.zip
 
 #### Windows標準安裝
 前置作業： (最好先備份一次當前系統)關閉防毒
-
-dism /online /enable-feature /featurename:netfx3 /All /LimitAccess /Source:D:\sources\sxs
-自動安裝開始：7-Zip、 OpenShell、Notepad++、01Backup(M1.bat+Dism全選清理硬碟)並刪除下載檔案
+自動安裝開始(要檢查，有缺的改用手動)：7-Zip、 OpenShell、Notepad++、01Backup(M1.bat+Dism全選清理硬碟)並刪除下載檔案
 curl https://www.chainlon.net/1/7z.msi -o C:\users\\%username%\Downloads\7z.msi
 curl https://www.chainlon.net/1/OpenShell.exe -o C:\users\\%username%\Downloads\OpenShell.exe
 curl https://www.chainlon.net/1/npp.exe -o C:\users\\%username%\Downloads\npp.exe
@@ -58,7 +56,24 @@ m1.bat
 dism /online /enable-feature /featurename:netfx3 /All /LimitAccess /Source:D:\sources\sxs
 磁碟清理(全選)
 cd Dism
-Dism++x64.exe
+Dism++x64.exe 完成後重新開機一次，檢查系統是否正常
+..
+設定共用設定檔，並封裝
+    1.	啟用預設帳戶：administrator 
+        net user administrator /active:yes
+        logoff
+    2.	登入Administrator，刪除admin使用者設定檔
+    3.	登入admin，進行標準環境設定作為範本如下方
+        Edge-入門-設定完成-繼續但不登入
+        系統內容-進階-設定-效能-高級-最佳效能、啟動和修復—小記憶體256KB、允許遠端桌面
+        控制台—電源—高效能(限桌機)
+        設定→隱私權，逐一手動關閉
+        磁碟機設定：關閉磁碟碎片整理計劃、C:關閉索引
+        檔案總管設定：關閉快速存取、顯示副檔名、及其他相關
+        刪除無用捷徑：桌面Edge、工作列新聞、搜尋只要圖示
+    4. 關閉並移除OneDrive、移除市集，登出
+
+
 
 #### 允許資產管理LanSweeper(Dos)
 curl https://www.chainlon.net/1/ls.zip -o C:\users\\%username%\Downloads\ls.zip
