@@ -72,7 +72,7 @@ Chaweng Beach 查汶海灘
 [The Opulence Cruise](https://www.klook.com/zh-TW/activity/99297-opulence-luxury-chao-phraya-dinner-cruise-cruise-bangkok/)（遊河晚餐） 20:00-22:15 / Checkin 18:00-19:30
 
 > 出發：klook [包車](https://www.klook.com/zh-TW/transport/ttd/car-charters/th/?des_id=10011&spm=Mobility_Aggregate.Transportation_LIST) 8h
-> 回程：Bolt/Grab 回飯店
+> 回程：Bolt/Grab 回飯店 20m
 
 > 備案
 [Sriayuthaya Lion Park](https://www.klook.com/zh-TW/activity/105309-sriayuthaya-lion-park-ticket-ticket/?spm=SearchResult.SearchResult_LIST&clickId=1aa17c7050)（大城動物園） 08:30–17:00
@@ -81,14 +81,21 @@ Chaweng Beach 查汶海灘
 行程 by 包車
 
 > 寺廟巡禮
-> 1. [大皇宮](https://www.royalgrandpalace.th/cn/visit/practical-information)＆玉佛寺 08:30–15:30
-> 1. [臥佛寺](https://mimihan.tw/wat-pho/) 08:00-18:30
-> 1. [鄭王廟](https://bkk.com.tw/wat-arun/) 08:00-18:00（用餐時間若衝突，先去海鮮市場再來）
+> 1. [大皇宮] (https://www.royalgrandpalace.th/cn/visit/practical-information)＆玉佛寺 08:30–15:30 2h
+> 1. [臥佛寺](https://mimihan.tw/wat-pho/) 08:00-18:30 30m
+> 1. [鄭王廟](https://bkk.com.tw/wat-arun/) 08:00-18:00（用餐時間若衝突，先去海鮮市場再來）30m
 
-> Thonburi Market Place（吞武里海鮮市場） 07:00-20:00
+> Thonburi Market Place（吞武里海鮮市場） 07:00-20:00 1h30m
 Siam Paragon [SEA LIFE](https://www.klook.com/zh-TW/activity/357-sea-life-bangkok-ocean-world-bangkok/)（曼谷海洋世界/[官網](https://www.visitsealife.com/bangkok/ch/what-s-inside/)） 10:00-20:00
+回飯店：[BTS] Sukhumvit線（CEN 2號月台 - N02）13m
+
+
+> 早餐：飯店 06:00-11:30
+午餐：海鮮市場（生鮮烤完帶去熟食區座位區吃，熟食區有肉品攤）
+晚餐：SUSHIRO（Paragon 4F-423A / Centara 7F-B725）
 
 > 備案
+Central World 10:00-22:00
 Ladmayom Floating Market（空叻瑪榮水上市場） 08:00-17:00
 
 
