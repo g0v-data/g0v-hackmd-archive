@@ -29,8 +29,7 @@ curl hhttp://192.168.5.49:8080/Temp/ShowKeyPlus.zip -o C:\02Temp\ShowKeyPlus.zip
 
 #### Windows標準安裝
 前置作業： (最好先備份一次當前系統)關閉防毒
-1. 手動安裝telnet client
-2. 手動安裝 .Net Frame Work 3.5-，注意磁碟機代號
+
 dism /online /enable-feature /featurename:netfx3 /All /LimitAccess /Source:D:\sources\sxs
 自動安裝開始：7-Zip、 OpenShell、Notepad++、01Backup(M1.bat+Dism全選清理硬碟)並刪除下載檔案
 curl https://www.chainlon.net/1/7z.msi -o C:\users\\%username%\Downloads\7z.msi
@@ -52,9 +51,15 @@ Curl https://www.chainlon.net/1/01Backup.zip -o C:\users\\%username%\Downloads\0
 del C:\users\\%username%\Downloads\01Backup.zip /q
 cd\01Backup\tools
 m1.bat
+自動安裝結束
+手動補充安裝
+    telnet client
+    .Net Frame Work 3.5-，注意磁碟機代號
+dism /online /enable-feature /featurename:netfx3 /All /LimitAccess /Source:D:\sources\sxs
+磁碟清理(全選)
 cd Dism
 Dism++x64.exe
-自動安裝結束
+
 #### 允許資產管理LanSweeper(Dos)
 curl https://www.chainlon.net/1/ls.zip -o C:\users\\%username%\Downloads\ls.zip
 "C:\Program Files\7-Zip\7z.exe" x C:\users\\%username%\Downloads\ls.zip -oC:\01Backup\Tools\ -y

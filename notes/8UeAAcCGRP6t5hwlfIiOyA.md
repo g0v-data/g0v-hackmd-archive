@@ -2,6 +2,8 @@
 
 資料來源: https://blog.ja-ke.tech/2019/06/02/neopixel-performance.html
 
+網頁版本日期:2024/1/25
+
 * **簡介:** 驅動 WS2812B 的 RGB LED 中三個最受歡迎的程式庫效能比較，一切都是用邏輯分析儀測量的。
 
 * **函式庫在 ESP32 平台上產生訊號的方法:**
@@ -42,11 +44,25 @@
 
 
 
-3.  **使用100LED燈條的傳遞延遲:**
+3.  **使用n個LED燈條的傳輸開始時間:**
+    * **100LEDs**  
     ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a84d279cf75564da7a10402296021f65.png)
     
-    **Adafruits NeoPixel < FastLED  .**
+        **Adafruits NeoPixel < FastLED  .**
     
-    NeoPixel 幾乎沒有延遲（只有 2 μs），位元碰撞幾乎不需要任何設定。
-    不過，他們似乎將重置持續時間設定為不必要的長 300 μs，這使 FastLED 總體上略微領先。
+        NeoPixel 幾乎沒有延遲（只有 2 μs），位元碰撞幾乎不需要任何設定。
+        不過，他們似乎將重置持續時間設定為不必要的長 300 μs，這使 FastLED 總體上略微領先。
+    * **1000LEDs**  
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_35a51367d04b9f941a3d26162d051587.png)
+
     
+        **FastLED <  Adafruits NeoPixel .**
+    
+        FastLED 顯示延遲和準備時間增加，尤其是在rainbow fill上，速度最慢。
+        NeoPixel 明顯領先，計算效果現在可以透過彩虹動作來衡量。
+        
+    **Note** 
+    在現實世界中，可能不會注意到差異。
+    在 800 kbit/s 的情況下，1000 個 24 位元 LED 的資料傳輸無論如何都需要 30 ms，因此 0.5 ms 甚至 2.2 ms 的準備時間並不重要
+    
+4. 
