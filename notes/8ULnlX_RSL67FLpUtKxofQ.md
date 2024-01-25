@@ -62,6 +62,7 @@ Eastin Grand Hotel Phayathai
 
 > 行程
 Chaweng Beach 查汶海灘
+出機場後先搭BRT回飯店
 [JODD FAIRS Rama 9](https://www.bring-you.info/zh-tw/jodd-fairs)（喬德夜市） 16:00-00:00
 
 > 回程：Bolt/Grab
