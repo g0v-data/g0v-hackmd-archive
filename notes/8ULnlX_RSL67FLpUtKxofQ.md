@@ -54,6 +54,7 @@ Chaweng night market
 
 > 午餐
 [Noori India](https://maps.app.goo.gl/9Ku4uDSmqSaNoT887) 在機場內，先掛行李再吃。
+晚餐：喬德夜市
 
 > 住宿（3 Nights）
 Eastin Grand Hotel Phayathai
@@ -63,9 +64,11 @@ Eastin Grand Hotel Phayathai
 Chaweng Beach 查汶海灘
 [JODD FAIRS Rama 9](https://www.bring-you.info/zh-tw/jodd-fairs)（喬德夜市） 16:00-00:00
 
+> 回程：Bolt/Grab
+
 ### Day 7 (2/9 週五-除夕)
 > 行程 by 包車
-08:10 吃完早餐，從飯店出發（車程 40m）
+08:10 吃完飯店早餐後出發（車程 40m）
 [Safari World Bangkok](https://www.safariworldbangkok.com/)（曼谷動物園）
 （四點前離開動物園，五點前抵達 ICONSIAM）
 [ICONSIAM](https://kimiyo.tw/iconsiam/)（暹羅天地） 10:00-22:00
@@ -78,7 +81,7 @@ Chaweng Beach 查汶海灘
 [Sriayuthaya Lion Park](https://www.klook.com/zh-TW/activity/105309-sriayuthaya-lion-park-ticket-ticket/?spm=SearchResult.SearchResult_LIST&clickId=1aa17c7050)（大城動物園） 08:30–17:00
 
 ### Day 8 (2/10 週六)
-行程 by 包車
+行程 by Bolt/Grab
 
 > 寺廟巡禮
 > 1. [大皇宮] (https://www.royalgrandpalace.th/cn/visit/practical-information)＆玉佛寺 08:30–15:30 2h
@@ -108,11 +111,16 @@ Ladmayom Floating Market（空叻瑪榮水上市場） 08:00-17:00
 10:30 從飯店出發，走路到 BTS [Phaya Thai](https://maps.app.goo.gl/h9k195umaALYptGX9)，11:30 前到機場。
 **ARL**（A08 PhayaThai - A01 Suvarnabhumi Airport）35m
 
+> 早餐：飯店 06:00-11:30
+> 
 ## 交通
 * Bolt（平價/車多）
 * Grab（泰國版 Uber）
 * BTS（空鐵）
 * MRT（地鐵）
+
+[Grab 叫車攻略](https://visionthai.net/article/thai-grab-car-intro-fare/)
+[Muvmi嘟嘟車攻略](https://bkk.com.tw/muvmi-app/)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b3838f63c24b0dfc063046a813c1a13f.png)
 
