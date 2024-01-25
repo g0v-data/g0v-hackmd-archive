@@ -6,6 +6,8 @@
     2. 無痛切換LED模組，只需要修改些許設定
     3. 高效能--盡可能地節省CPU效能
 
+**與其他LED程式庫的比較:** https://g0v.hackmd.io/8UeAAcCGRP6t5hwlfIiOyA
+
 **前置設定**
 1. CRGB Name [ NUM_LEDS + 1];
     

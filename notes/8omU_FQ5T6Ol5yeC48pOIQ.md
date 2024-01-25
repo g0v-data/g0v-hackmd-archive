@@ -36,9 +36,13 @@ dism /online /enable-feature /featurename:netfx3 /All /LimitAccess /Source:D:\so
 curl https://www.chainlon.net/1/7z.msi -o C:\users\\%username%\Downloads\7z.msi
 curl https://www.chainlon.net/1/OpenShell.exe -o C:\users\\%username%\Downloads\OpenShell.exe
 curl https://www.chainlon.net/1/npp.exe -o C:\users\\%username%\Downloads\npp.exe
+timeout 5
 C:\users\\%username%\Downloads\7z.msi /quiet
+timeout 5
 C:\users\\%username%\Downloads\OpenShell.exe /qb START_MENU_FOLDER=0
+timeout 5
 C:\users\\%username%\Downloads\npp.exe /S
+timeout 5
 del C:\users\\%username%\Downloads\7z.msi /q
 del C:\users\\%username%\Downloads\npp.exe /q
 timeout 5
