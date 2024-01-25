@@ -65,4 +65,16 @@
     在現實世界中，可能不會注意到差異。
     在 800 kbit/s 的情況下，1000 個 24 位元 LED 的資料傳輸無論如何都需要 30 ms，因此 0.5 ms 甚至 2.2 ms 的準備時間並不重要
     
-4. 
+4. **完整傳輸時間比較:**
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ec8ccf4099a33418d61ed81605f42a07.png)
+    所有庫最終都能以超過 30 Hz（低於 33 ms）的頻率驅動 1000 個 LED 的燈帶。
+    在較少 LED 的燈帶上，差異按比例更大，但當它以 200 Hz 或更高的頻率運行時，這是便不重要了。
+    
+    
+    
+    
+**QA**
+1. single set:
+2. solid fill: 將燈條填滿所有顏色
+3. 
+

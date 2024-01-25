@@ -28,37 +28,37 @@ https://drive.google.com/uc?id=1e0quXt20XF8QZkpFgR4Wj-z1LYKLGrkM&export=download
 curl hhttp://192.168.5.49:8080/Temp/ShowKeyPlus.zip -o C:\02Temp\ShowKeyPlus.zip
 
 #### Windows標準安裝
-前置作業： (最好先備份一次當前系統)關閉防毒
-自動安裝開始(要檢查，有缺的改用手動)：7-Zip、 OpenShell、Notepad++、01Backup(M1.bat+Dism全選清理硬碟)並刪除下載檔案
-curl https://www.chainlon.net/1/7z.msi -o C:\users\\%username%\Downloads\7z.msi
-curl https://www.chainlon.net/1/OpenShell.exe -o C:\users\\%username%\Downloads\OpenShell.exe
-curl https://www.chainlon.net/1/npp.exe -o C:\users\\%username%\Downloads\npp.exe
-timeout 5
-C:\users\\%username%\Downloads\7z.msi /quiet
-timeout 5
-C:\users\\%username%\Downloads\OpenShell.exe /qb START_MENU_FOLDER=0
-timeout 5
-C:\users\\%username%\Downloads\npp.exe /S
-timeout 5
-del C:\users\\%username%\Downloads\7z.msi /q
-del C:\users\\%username%\Downloads\npp.exe /q
-timeout 5
-del C:\users\\%username%\Downloads\OpenShell.exe /q
-Curl https://www.chainlon.net/1/01Backup.zip -o C:\users\\%username%\Downloads\01Backup.zip
-"C:\Program Files\7-Zip\7z.exe" x C:\users\\%username%\Downloads\01Backup.zip -oc:\ -y
-del C:\users\\%username%\Downloads\01Backup.zip /q
-cd\01Backup\tools
-m1.bat
-自動安裝結束
-手動補充安裝
+    前置作業： (最好先備份一次當前系統)關閉防毒
+    自動安裝開始(要檢查，有缺的改用手動)：7-Zip、 OpenShell、Notepad++、01Backup(M1.bat+Dism全選清理硬碟)並刪除下載檔案
+    curl https://www.chainlon.net/1/7z.msi -o C:\users\\%username%\Downloads\7z.msi
+    curl https://www.chainlon.net/1/OpenShell.exe -o C:\users\\%username%\Downloads\OpenShell.exe
+    curl https://www.chainlon.net/1/npp.exe -o C:\users\\%username%\Downloads\npp.exe
+    timeout 5
+    C:\users\\%username%\Downloads\7z.msi /quiet
+    timeout 5
+    C:\users\\%username%\Downloads\OpenShell.exe /qb START_MENU_FOLDER=0
+    timeout 5
+    C:\users\\%username%\Downloads\npp.exe /S
+    timeout 5
+    del C:\users\\%username%\Downloads\7z.msi /q
+    del C:\users\\%username%\Downloads\npp.exe /q
+    timeout 5
+    del C:\users\\%username%\Downloads\OpenShell.exe /q
+    Curl https://www.chainlon.net/1/01Backup.zip -o C:\users\\%username%\Downloads\01Backup.zip
+    "C:\Program Files\7-Zip\7z.exe" x C:\users\\%username%\Downloads\01Backup.zip -oc:\ -y
+    del C:\users\\%username%\Downloads\01Backup.zip /q
+    cd\01Backup\tools
+    m1.bat
+    自動安裝結束
+    手動補充安裝
     telnet client
     .Net Frame Work 3.5-，注意磁碟機代號
-dism /online /enable-feature /featurename:netfx3 /All /LimitAccess /Source:D:\sources\sxs
-磁碟清理(全選)
-cd Dism
-Dism++x64.exe 完成後重新開機一次，檢查系統是否正常
-..
-設定共用設定檔，並封裝
+    dism /online /enable-feature /featurename:netfx3 /All /LimitAccess /Source:D:\sources\sxs
+    磁碟清理(全選)
+    cd Dism
+    Dism++x64.exe 完成後重新開機一次，檢查系統是否正常
+
+#### 設定共用設定檔並封裝
     1.	啟用預設帳戶：administrator 
         net user administrator /active:yes
         logoff
@@ -72,8 +72,11 @@ Dism++x64.exe 完成後重新開機一次，檢查系統是否正常
         檔案總管設定：關閉快速存取、顯示副檔名、及其他相關
         刪除無用捷徑：桌面Edge、工作列新聞、搜尋只要圖示
     4. 關閉並移除OneDrive、移除市集，登出
-
-
+    5. 登入Administrator，取得Defprof並安裝，執行：C:\01Backup\Tools\Defprof.exe admin /NoAppx
+    6.	顯示為成功，再進行Windows封裝
+	Cd\windows\system32\sysprep
+	Sysprep /generalize /shutdown /oobe
+	進行備份以供異機還原：Ghost、HBS皆可
 
 #### 允許資產管理LanSweeper(Dos)
 curl https://www.chainlon.net/1/ls.zip -o C:\users\\%username%\Downloads\ls.zip
