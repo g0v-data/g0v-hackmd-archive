@@ -12,6 +12,36 @@ GA: UA-98468513-3
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
+### [Op] Transcript spam
+> nonumpa
+> https://g0v.hackmd.io/vKCvrqSQTlm7GEx9MAXGaw?view#op-Transcript-spam-處理
+
+已開票: https://github.com/cofacts/rumors-api/issues/332
+
+### [Comm] Cooccurrence / article group
+
+TODO
+
+- [x] Fix blocker & bugs
+- [x] 大松
+- [x] 選前週會 test & release (如果沒問題)
+- [x] Implement website display cooccurrences
+- [x] 選舉
+- [ ] 實作 ASKING_CONTEXT (Optional?)
+- [ ] 補 unit tests
+
+Enhancement on websites
+
+- Reuse reply in article group
+  - 相似可疑訊息納入搭配的回應
+- Want to know if article article in group are replied or not (how many replies)
+  - 想知道哪些還沒回，要補回應
+  - 有回應的話就知道可以重用
+  - 試排：每個 item 有 reply、group last report 移到最上面
+
+### [Op] 檢舉處理
+
+[上週那位](https://g0v.hackmd.io/wg2iF9fARBCREZ1gTauvUw?both#Op-%E6%AA%A2%E8%88%89%E8%99%95%E7%90%86)好像沒在用了，先放著觀察？
 
 ## 2 月小聚籌備
 
@@ -23,6 +53,7 @@ GA: UA-98468513-3
       - https://www.facebook.com/photo/?fbid=743104471169952&set=a.452246433589092&__tn__=%2CO*F
     - 熊與喵咖啡
     - [宜蘭青年交流中心](https://yyh.e-land.gov.tw/bookthespace)
+    - [蘭燈空間](https://linteng.org.tw/lanternspace/) 只有 2/18 (日) 有空
 - [x] 時間：
 	- 活動時間：14:00 - 17:00
 	- 時間分配

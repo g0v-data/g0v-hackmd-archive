@@ -52,5 +52,6 @@ fill ( uint32_t color,uint16_t first, uint16_t count)
 
 
 1. 函式參考網址: https://adafruit.github.io/Adafruit_NeoPixel/html/class_adafruit___neo_pixel.html#aa1898f089b9a4e02841cec2e63b88c33
-2. ESP32: FastLED vs. NeoPixelBus vs. NeoPixel Library: https://blog.ja-ke.tech/2019/06/02/neopixel-performance.html#ws2812b-protocol
 
+1. ESP32: FastLED vs. Adafruit NeoPixel Library:
+ https://blog.ja-ke.tech/2019/06/02/neopixel-performance.html#ws2812b-protocol
