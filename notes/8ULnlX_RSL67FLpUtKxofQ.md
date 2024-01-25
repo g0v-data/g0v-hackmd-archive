@@ -77,7 +77,7 @@ Asiatique河濱夜市 11:00–00:00
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bf70096051fd08df5769126dbe740931.png)
 
 > 備案
-Safari World Bangkok
+Safari World Bangkok（曼谷動物園）
 
 ### Day 8 (2/10 週六)
 > 行程 by Grab/Bolt
@@ -115,6 +115,7 @@ https://footprints.tw/blog/post/118417451
 
 ## 網路
 * [曼谷機場自取] [dtac HAPPY TOURIST 4G/5G SIM](https://www.klook.com/zh-TW/activity/16587-dtac-4g-sim-thailand/?spm=SearchResult.SearchResult_LIST&clickId=a2e2778dc2)
+* [中華電信漫遊-海量型](https://www.cht.com.tw/home/campaign/roamingplan/index/plan?itemid=1C17DB528FC34AE493124BD783492305)
 
 ## 行李
 * 浮潛器具：蛙鞋、面鏡、呼吸管、泳衣、泳帽（Optional）
