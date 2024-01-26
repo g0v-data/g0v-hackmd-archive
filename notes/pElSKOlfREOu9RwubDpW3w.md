@@ -4,6 +4,8 @@
 - https://chinaobservers.eu/roadblocks-ahead-taiwan-europe-relations-after-2024-elections/
 - https://asia.nikkei.com/Politics/Taiwan-elections/Taiwan-s-Lai-faces-tough-road-ahead-after-historic-election-win
 - https://macdonaldlaurier.ca/taiwans-fate-is-our-future/
+- https://taiwaninsight.org/2024/01/25/taiwan-election-2024-what-it-means-for-the-islands-future-engagement-with-the-asia-pacific-region/
+- https://www.foreignaffairs.com/united-states/strategic-case-democracy-promotion-asia?
 
 Event
 - https://swissdemocracy.foundation/index.php/home/events/tw-election-results-briefing
