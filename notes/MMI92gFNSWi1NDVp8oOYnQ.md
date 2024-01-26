@@ -38,43 +38,45 @@ tags: vTaiwan
 TODO:
 - 借場地的方式寫成共筆, 分成可能台灣可以借的跟在國外也可以幫忙借的 [name=Peter]
      
-接下來 vTaiwan的活動
-- vTaiwan for all：歡迎新手的輕鬆活動
+為了開會效率，接下來 vTaiwan 的定期活動：
+- 每週小松 明確的時間規劃，讓大家自由選擇參加有興趣的時段
+    - 第一小時：處理行政雜事
+    - 第二小時：協作時間
+    
+- 每月第一週小松就地轉為 vTaiwan for all (2hr) 歡迎新手的輕鬆活動 
+- 每月第三週小松就地轉為 design workshop 形式
+    - 針對 vTaiwan 流程更清楚解釋的 brainstorming sessions
+    - 培養 deliberative culture 的場域
+
 - 未來 vTaiwan 的小松應該是網路還是實體：
-    - 網路的好處是不用提早到場準備
-    - 實體的好處是可以衍生處許多連結
-    - 或許可以讓主持人決定是否這次實體
+    - 讓主持人決定是否這次實體 （網路的好處是不用提早到場準備，實體的好處是可以衍生處許多連結）
     - 其實通常是虛擬，有時候有實體小松
     - vTaiwan for all 則是看講者在哪裡
 
 
 
 
-1hr: 行政雜事
-2nd hour: (optional) co-work time
+- 做 calendar 建立 vTaiwan 活動列表 [name=Peter]
 
-every month 1st week: design workshop (2hr)
-every month 3rd week: vTaiwan for all (2hr)
-
-做 calendar 建立 vTaiwan 活動列表
-
-vTaiwan 的帳目經費  [name=Peter]
+- vTaiwan 的帳目經費  [name=Peter]
  
-youtube channel
-https://www.youtube.com/@jubilee
-"middleground"
-做雜事 vs deliberation culture
+ 
+- 本週推薦閱讀
+    youtube channel @jubilee
+    https://www.youtube.com/@jubilee
+    "middleground"
+    做雜事 -> 建立 deliberation culture
 
-怎麼融入 deliberation culture
-- use polis
-- 用 madeline 的方式帶討論
-- consider.it
+    怎麼融入 deliberation culture
+    - use polis
+    - 用 madeline 的方式帶討論
+    - consider.it
 
-vTaiwan 的下一步
+- vTaiwan 的下一步轉型
 
-- vTaiwan 工作坊：是可以 run activity 的組織 （我們提供 a set of tools, 有系統的幫助討論）
-- vTaiwan 是個大家都可以提案的平台，並且有提供清晰的提案管道
-- vTaiwan 街訪：vTaiwan 是個可以去掌握社會「關心」的議題的地方
+    - vTaiwan 工作坊：是可以 run activity 的組織 （我們提供 a set of tools, 有系統的幫助討論）
+    - vTaiwan 是個大家都可以提案的平台，並且有提供清晰的提案管道
+    - vTaiwan 街訪：vTaiwan 是個可以去掌握社會「關心」的議題的地方
 
 
 討論：vTaiwan的困境與出路😱？？？？？
@@ -86,7 +88,7 @@ vTaiwan 的下一步
     - 沒有統整匯集意見
     - 只有一個人提出主要的提案設定agenda
 - vTaiwan提案流程如何從提案到立案的過程，讓不同程度參與社群的朋友（例如線上vs線下參與），不會因為參與度的不同，卻都能擁有多種交流、討論的機制，達到一起協作與做決定的氛圍
-- 需要ERICA大力輔助💪🏽！
+- 需要ERICA大力輔助 💪🏽！
 - 案件成立後，在社群內後續的討論機制如何設計（誰要接案，是否有負責人）
 
 ### 目前方向
@@ -105,7 +107,7 @@ vTaiwan 的下一步
 ## DSET
 
 - 要寫信去follow進度 [name=Eli]
-- 目前的工作進度的是要從社群與其他管道蒐集，對於公務體系運動AI與機器學習應該要有的規範（或是更廣泛的意見）
-- 用2/22的活動來pilot這個意見徵集
+- 目前的工作進度的是要從社群與其他管道蒐集，對於公務體系運動 AI 與機器學習應該要有的規範（或是更廣泛的意見）
+- 用 2/22 的活動來pilot這個意見徵集
 
 

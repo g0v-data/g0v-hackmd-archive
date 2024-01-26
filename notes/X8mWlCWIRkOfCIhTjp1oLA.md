@@ -470,6 +470,10 @@ https://www.facebook.com/story.php?story_fbid=pfbid0c3DJgTPuvQMDywiL9aZDM59RLC2B
 高雄市三民路
 https://www.facebook.com/100063689095329/posts/pfbid0eUBgBK7PYiy8Znz7CKnXwjZgQMdxhGy3vU3FZaik1UkqE6UrA7qyf1wrnXjNjxfgl/?mibextid=cr9u03
 
+高雄河堤南路
+https://www.facebook.com/share/p/qeufqGexrRSQKT9S/
+
+
 高雄左營明潭路-環山路口
 https://www.facebook.com/groups/525658186189949/posts/713914577364308/
 20231221 也標記至地圖中
