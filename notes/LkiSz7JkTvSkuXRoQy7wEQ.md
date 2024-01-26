@@ -168,3 +168,8 @@ ChatGPT 法律、資訊真假問題
 ### 儲電
     
 ### 碳黑 台泥
+
+
+ACIS
+
+- [嘉鼎簡介PPT](https://docs.google.com/presentation/d/1wRyPFmelwmtSi1P94VxlN7JVxovenuumpDHNK1E3uyA/edit#slide=id.g2648d336147_0_647)
