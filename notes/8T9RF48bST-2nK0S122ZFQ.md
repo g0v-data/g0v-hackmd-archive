@@ -14,10 +14,21 @@ They all study public management and will become administrative leaders in Germa
 - Their trip is organized with the Taiwanese embassy in Munich (Dr. Ian-Tsing Dieu) 
 	https://www.roc-taiwan.org/demuc/index.html
     
+## 0126 Updates 
+- Venue is secured: NPO Hub 4F 
+- Peter
+    - secured commitment in da0 
+    - secured commitment from cofacts
+    - asking jothon about the booklet 
+- Vennesa  
+    - Food
+    - Drink
+    - Google form 
+    - communication and translation 
 ## 0115 meeting 
 - 2/22 THR. 13:00-17:00
 - before the meeting: MODA (not secured)
-- two workshops: da0 / vTaiwan 
+- two workshops: da0 / vTaiwan / cofacts 
 - Content: 
     - 13:00-14:00 Introduction for g0v / vTaiwan / da0/other projects
     - 14:00-16:00 

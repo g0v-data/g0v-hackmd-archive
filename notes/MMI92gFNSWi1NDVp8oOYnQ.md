@@ -12,38 +12,42 @@ tags: vTaiwan
 - 社群媒體的經營 -> FB 帳號經營:Peter, 貼文內容：宛真
 - 對外曝光 -> 給 talk: Peter, Twitter PR: Josh
 - 每週活動主持 可以輪流
+
+    主持排班～～～ (主持人工作：開共筆、找到人寫共筆、確保大家可以入場、確保場地有人借)
+        
+        1/31, 2/7 農曆新年暫停兩週
+        2/14 Eli
+        2/21 Peter (當週也有 vTaiwan for all 2/22)
+        2/28 Josh
+        3/6 Erica / Shu
+        3/13 peter (原訂)
+        3/20 Shu 
+        3/27 子生
+        4/3 宛真
 - 對外接洽
- DEST - ELI
- Madeline - Shuyang
- 
- 介紹 vTaiwan 的簡報
- Peter 熱衷 
-     - 社群活動
-     - 對外 PR
-     - 審議主持
-     - Peter 借場地的方式寫成共筆, 分成可能台灣
+    - DSET [name=ELI]
+    - Madeline [name=Shuyang]
+    - Yushan [name=Shuyang]
+
+- 介紹 vTaiwan 的簡報 [name=everyone]
+- Peter 熱衷的社群工作內容：
+     - 社群活動、帶社群向心力
+     - 對外 PR、訴說 vTaiwan 故事
+     - 審議主持（例如924會議）
+
+TODO:
+- 借場地的方式寫成共筆, 分成可能台灣可以借的跟在國外也可以幫忙借的 [name=Peter]
      
 接下來 vTaiwan的活動
-- vTaiwan for all
-- 有時候有實體小松
-
+- vTaiwan for all：歡迎新手的輕鬆活動
 - 未來 vTaiwan 的小松應該是網路還是實體：
     - 網路的好處是不用提早到場準備
     - 實體的好處是可以衍生處許多連結
     - 或許可以讓主持人決定是否這次實體
-    - 其實通常是虛擬
+    - 其實通常是虛擬，有時候有實體小松
     - vTaiwan for all 則是看講者在哪裡
 
-主持排班～～～
-主持必做：開共筆、找到人寫共筆、確保大家可以入場、確保場地有人借、的定義
-2/14 Eli
-2/21 Peter (當週也有 vTaiwan for all 2/22)
-2/28 Josh
-3/6 Erica / Shu
-3/13 peter (原訂)
-3/20 Shu 
-3/27 子生
-4/3 宛真
+
 
 
 1hr: 行政雜事
@@ -54,7 +58,7 @@ every month 3rd week: vTaiwan for all (2hr)
 
 做 calendar 建立 vTaiwan 活動列表
 
-vTaiwan 的帳目經費 [name = Peter]
+vTaiwan 的帳目經費  [name=Peter]
  
 youtube channel
 https://www.youtube.com/@jubilee
@@ -65,9 +69,8 @@ https://www.youtube.com/@jubilee
 - use polis
 - 用 madeline 的方式帶討論
 - consider.it
-- 
 
-polis: vTaiwan 的下一步
+vTaiwan 的下一步
 
 - vTaiwan 工作坊：是可以 run activity 的組織 （我們提供 a set of tools, 有系統的幫助討論）
 - vTaiwan 是個大家都可以提案的平台，並且有提供清晰的提案管道
