@@ -78,7 +78,7 @@ tags: web3, Shoutout
   * D column 為今天例會提到的預期目標
 (2) 宣傳推廣 & 專案管理
 * 人力不用重分配，依照 backlog tab 上的人力分配即可
-* 負責該項目的夥伴可在 D column 填入預期目標
+* 負責該項目的夥伴可在 [D column](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=48365832) 填入預期目標
 3. 補充：
 (1) 評估項目優先級的思路（感謝 Chubby 提問）
 * 首先很感謝大家花時間提供每個項目的 impact/effort/人力等資訊，以協助優先級評估
@@ -89,6 +89,26 @@ tags: web3, Shoutout
 4.參考資料
 (1) Shoutout 討論彙整
 (2) 可至 [SO 專案總表 > Project Library tab](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=1351475811) 找到專案相關資料連結
+
+
+--
+## 會後夥伴補充
+jack   4 天前
+剛剛開會講到 line bot 我先貼一下可以參考 #cofacts 做的，他們功能跟文件都蠻齊全的
+:一雙眼睛:3: 字的手:2
+2 則回覆
+
+
+Kay  4 天前
+Hi @jack~ 這是 SO 的 DC work channel~ https://discord.com/channels/909473182598193272/1155877156677767179
+Discord
+Discord - A New Way to Chat with Friends & Communities
+Discord is the easiest way to communicate over voice, video, and text. Chat, hang out, and stay close with your friends and communities.
+
+
+Kay  4 天前Hi @jack@gim/dpupperr
+ sorry 也 fyi 目前 SO 有的兩個前端，可參考 row23 & row24 的連結
+https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=1351475811
 
 ## Reference
 
