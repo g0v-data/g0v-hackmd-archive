@@ -86,7 +86,65 @@ tags: web3, Shoutout
 - 大家：[填問卷](https://docs.google.com/forms/d/e/1FAIpQLSfTUu8sTblHmiN6Zevd6UkxGRSY6_nCpfufQLYwK31IMxgHMA/viewform)
 - 昶惟：計算資料庫等社群固定營運費用，並於[safe wallet](https://app.safe.global/home?safe=oeth:0x55F16e16FCBA8B18E3c2032a68cA863cd85a90f2)下週提出request共識轉帳
 
-## AI 整理總結
+## Kay 整理總結
+Hi 大家~ 感謝 12/26 的會議討論，再請參考會議記錄，謝謝！
+To-dos：
+* 01/02 將進行 SO phase 2 點子發想，歡迎大家先想想 & 將想法填寫到問卷上
+  * 預期 input：將問卷、SO Gsheet 等地方的想法事先整理到線上白板，作為討論基礎
+* 預期 output：針對 SO vision/情境/實作提供數個點子 & 做好歸類
+* 補充
+  * 以 vision 出發，來發想 SO 使用情境和實作，讓每個實作都能回應專案目標，或彼此有關聯（能迭代、複用等~）
+  * 今天例會忘了分享XD，有簡單整理 SO DC Bot [使用情境和次數分佈](https://docs.google.com/spreadsheets/d/1xcvJ-Hla8GC3AnR6f9YhBqcu9KjDpJeij-dvQZdVi-0/edit#gid=47282522)，歡迎大家參考（我根據 SO 文字做情境 labeling & 計算）
+* 大松經費用途規劃
+附錄：
+12/26 會議共筆：https://g0v.hackmd.io/aq8Q7dmTQyC73T3IrDNyBA?view
+Shoutout [討論彙整](https://airtable.com/app3c5Ed9xJT08zJF/shrDiUmi6vnhzVygB/tblzVhU9ifz8xx0ua)
+目前專案表單較多，若想尋找相關連結，都可至 [Shoutout Project master working gsheet > Project Liberary](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=1351475811) 找到
+(已編輯)
+:兩顆心:4
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1515d57739a6d3fdbc6e92f46b55b146.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_035f632c24769757186a0996efdfb956.png)
+
+
+
+
+## 會後夥伴討論
+
+gim/dpupperr 12/27  1 個月前
+我消化了一段時間, 想@shoutout
+@昶惟 謝謝昶惟 cue 我自介!><
+@Kay 謝謝 Kay 從上上周就主動耐心地帶我更認識SO專案和大家合作方式!
+@Lucky 謝謝 Lucky 的主持還有給我們填寫履歷表單!
+這個 shoutout 契機是昶惟昨晚的一cue, 看似是一件小小事, 但當下給我的是"在還不熟悉的群體, 多了跟大家認識的機會和參與感"的溫暖感受
+在過往參與工作團隊和一些web3社群的過程中, 我個人深深覺得人跟人的互動 & 在社群中的參與、成就感是讓人持續參與的極重要關鍵
+我想也是因為這樣, 所以在眾多專案裡我對SO特別感興趣 - 我想它可以是激勵社群參與的助力
+雖然我現在還是參與不多的觀察者, 但看到三位都扮演了這樣引導新夥伴加入&舊夥伴持續參與專案的角色, 真的覺得很棒! (其實覺得除了三位以外大家也幾乎都是了 這裡很有鼓勵參與的文化)
+題外話: 最近工作團隊達成一個小里程碑, 我想在工作群組shoutout大家很久了, 最後因為SO的啟發促使我鼓起勇氣真的去shoutout(沒有用bot, 單純用文字表達感恩讚嘆而已XD) 希望可以多多傳遞SO的精神跟正能量, 實踐在日常生活中的各種大小群體XD
+:愛心2:6:nyan-parrot:6:dao-cat:6
+
+Kay   1 個月前
+才謝謝 Gim 的參與！看到 Gim 在 Github 上有許多 Unity 專案，希望日後有機會交流~
+:愛心2:2:nyan-parrot:2:dao-cat:2
+
+Lucky:說話泡泡:  1 個月前
+一起討論遊戲化！
+
+
+Kevin 12/28 1 個月前
+我也想 @shoutout@昶惟@Kay@Lucky@Peixing
+@Stanley@Chubbytank@Lilian Wang
+第一次參加shoutout的討論就感受到大家的熱情與溫暖，期待下次一起討論、成長！
+ps.如果沒有mention到的再跟我說XD
+:愛心2:6:beating-heat:3
+3 則回覆
+Kay  1 個月前
+也謝謝 Kevin 參加討論和分享～期待未來的合作
+:愛心2:1
+Lucky:說話泡泡:  1 個月前
+覺得暖暖ㄉ！:愛心2:1
+Lilian Wang  29 天前
+歡迎加入！
+
 
 
 ## Reference

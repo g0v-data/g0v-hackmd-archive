@@ -253,6 +253,10 @@ https://photos.app.goo.gl/45SYWZXbJgmQ2pFR9
 
 新生南路，處理：公車專用道，同向分隔島，箱涵，人行道水路(已有案例：臺大、北科大、桃園水秀)
 
+師大路
+https://www.facebook.com/story.php?story_fbid=pfbid06bsJufp2fbYweDeBtHUavU4jNR1eB3DEzvFPkpdrcBVRmX79LaoRDfMy2kNcKaEBl&id=100076181288036
+
+
 台大校區無車化方案
 https://www.facebook.com/share/p/jSBZSRd54UnvwDhR/?mibextid=WC7FNe
 
