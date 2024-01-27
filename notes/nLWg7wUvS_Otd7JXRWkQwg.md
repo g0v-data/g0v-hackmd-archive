@@ -48,8 +48,47 @@ tags: web3, Shoutout
 - AT 帳號需求：需要再 12 個 google account
 - 收支表：再麻煩昶惟將支出金額調整成 USDC 幣種
 
-## AI 整理總結
+## Kay 整理總結
+1. 重點事項：大家收攏的實作已經整理在 [backlog](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=490061253)。排序的 raw data 可參閱 [PRI_2024_raw data](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=48365832)
 
+(1) 功能設計/開發
+* [E column](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=48365832) 標記 V 的項目是要做的項目
+* 同例會討論，已將這些標記 V 的項目收攏成兩個方向，整理在 backlog tab：展示所有 SO 內容的地方（資料展示）& 適用通訊軟體的 SO 工具（SO Solution/套件）
+* 雖然 E 項目沒有標記 V，但它可作為執行 D 項目（規劃資料梳理/標籤邏輯）的發想點
+
+(2) 機制設計
+* 雖然目前沒有項目被選出來做，但 Stanley 協助的 T 項目可部分實現 SO 公信機制設計（R 項目）
+(3) 宣傳推廣
+* E column 標記 V 的項目是要做的項目
+* 雖然 U 項目沒有標記 V，但理論上做其他通訊軟體 SO Bot 時，仍需要做教學/導入說明，所以我將 U 項目結合到 C 項目
+(4) 專案管理
+* E column 標記 V 的項目是要做的項目
+
+2. To-Dos：盡量 1/30 例會前完成~
+(1) 功能設計/開發
+* SO 資料展示：聚合展示所有 SO 內容的地方
+  * 主要結合 A/D 項目
+  * row 3 是原本的人力資訊（姓名後的英文字代表原本想參與的項目），大家可根據結合後的實作細節，評估是否參加該實作
+  * 若願意，可在 row 4 填入大名。若想主要參與某個項目，也可在表單上註記
+  * D column 為今天例會提到的預期目標（感謝 stanley 提醒）
+* SO Solution/套件：適用通訊軟體的 SO 工具
+  * 主要結合 A/C/D/G/K/U 項目
+  * row 5 是原本的人力資訊，大家可根據結合後的實作細節，評估是否參加該實作
+  * 若願意，可在 row 6 填入大名。若想主要參與某個項目，也可在表單上註記
+  * D column 為今天例會提到的預期目標
+(2) 宣傳推廣 & 專案管理
+* 人力不用重分配，依照 backlog tab 上的人力分配即可
+* 負責該項目的夥伴可在 D column 填入預期目標
+3. 補充：
+(1) 評估項目優先級的思路（感謝 Chubby 提問）
+* 首先很感謝大家花時間提供每個項目的 impact/effort/人力等資訊，以協助優先級評估
+* 大方向想法是選出「能被落地的重要項目」，因此先看看有沒有「impact 高/effort ok/人力足夠」的項目，若沒有，其次看看有沒有「impact 高/人力足夠，effort 能被調整」的項目
+  * 人力 & effort 比較有機會被調整成理想狀況，例如：透過招募增加人力 or 調整 scope 來降低 effort
+  * 以 SO 專案情況，effort 可能比人力更快或容易調整成合理的樣子（人力招募也看緣分lol），因此實務操作時的思路會像是「impact & 人力因不易被調整成理想樣子，因此需作為優先級的主要參考，effort 因為有調整的空間，可作為補充資訊」
+(2) 已將找尋外部活動這任務新增在「[社群/坑推進 > 目標設定](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=1594773836)」，感謝昶惟協助
+4.參考資料
+(1) Shoutout 討論彙整
+(2) 可至 [SO 專案總表 > Project Library tab](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=1351475811) 找到專案相關資料連結
 
 ## Reference
 

@@ -4,7 +4,7 @@ tags: web3, Shoutout
 
 # da0 Shoutout 01/09 會議記錄
 * 時間：2024/01/09 20:30
-* 參與者：chubby、昶惟、Kay、Gim、Lilian、Danny
+* 參與者：chubby、昶惟、Kay、Gim、Lilian、Danny、Peixing
 * [會議連結](https://meet.google.com/tpx-cukc-mfn)
 * 上次會議紀錄：https://g0v.hackmd.io/XoEC_9TcQaauEKkfkkjVEw#
 * [SO Project Master Working Sheet](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=1051831713)

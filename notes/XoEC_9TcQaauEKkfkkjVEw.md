@@ -4,7 +4,7 @@ tags: web3, Shoutout
 
 # da0 Shoutout 01/02 會議記錄
 * 時間：2024/01/02 20:30
-* 參與者：
+* 參與者：昶惟、Kay、Gim、Danny、Chubby、Kevin、Lilian、Peixing
 * [會議連結](https://meet.google.com/tpx-cukc-mfn)
 * [上次會議紀錄](https://g0v.hackmd.io/aq8Q7dmTQyC73T3IrDNyBA#)
 * [SO Project Master Working Sheet](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=1051831713)

@@ -2,11 +2,11 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [da0 Shoutout 01/30 會議記錄](../notes/7DttJh8PR3qVK2gLE5FIvA.md) | 2024-01-24T12:11:49+08:00 | 2024-01-24T12:02:20+08:00 |
-| 2 | [da0 Shoutout 01/23 會議記錄](../notes/nLWg7wUvS_Otd7JXRWkQwg.md) | 2024-01-23T23:09:22+08:00 | 2024-01-18T13:07:29+08:00 |
-| 3 | [da0 Shoutout 01/16 會議記錄](../notes/LXloyCEXR1W8KW0eQ2Zi0A.md) | 2024-01-16T21:26:08+08:00 | 2024-01-12T12:27:43+08:00 |
-| 4 | [da0 Shoutout 01/09 會議記錄](../notes/JlOYixP1RROdLvi6pT0v1g.md) | 2024-01-09T21:41:21+08:00 | 2024-01-03T16:18:52+08:00 |
-| 5 | [da0 Shoutout 01/02 會議記錄](../notes/XoEC_9TcQaauEKkfkkjVEw.md) | 2024-01-02T21:51:04+08:00 | 2023-12-28T13:28:21+08:00 |
+| 1 | [da0 Shoutout 01/23 會議記錄](../notes/nLWg7wUvS_Otd7JXRWkQwg.md) | 2024-01-27T15:59:20+08:00 | 2024-01-18T13:07:29+08:00 |
+| 2 | [da0 Shoutout 01/02 會議記錄](../notes/XoEC_9TcQaauEKkfkkjVEw.md) | 2024-01-27T15:10:14+08:00 | 2023-12-28T13:28:21+08:00 |
+| 3 | [da0 Shoutout 01/09 會議記錄](../notes/JlOYixP1RROdLvi6pT0v1g.md) | 2024-01-27T15:08:23+08:00 | 2024-01-03T16:18:52+08:00 |
+| 4 | [da0 Shoutout 01/30 會議記錄](../notes/7DttJh8PR3qVK2gLE5FIvA.md) | 2024-01-24T12:11:49+08:00 | 2024-01-24T12:02:20+08:00 |
+| 5 | [da0 Shoutout 01/16 會議記錄](../notes/LXloyCEXR1W8KW0eQ2Zi0A.md) | 2024-01-16T21:26:08+08:00 | 2024-01-12T12:27:43+08:00 |
 | 6 | [da0 Shoutout mm/dd 會議記錄](../notes/MMEnlv3QSxCYvQyRWUgrxw.md) | 2023-12-28T13:34:33+08:00 | 2023-10-18T21:35:32+08:00 |
 | 7 | [da0 Shoutout mm/dd 會議記錄](../notes/KkEh-ZaZSyK3QE43nSv2Sg.md) | 2023-12-28T13:27:17+08:00 | 2023-10-18T21:33:44+08:00 |
 | 8 | [da0 Shoutout 12/26 會議記錄](../notes/aq8Q7dmTQyC73T3IrDNyBA.md) | 2023-12-26T22:14:31+08:00 | 2023-10-19T00:26:27+08:00 |
