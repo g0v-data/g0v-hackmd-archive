@@ -434,7 +434,52 @@ Opass 教學
 > 地點：線上
 > 出席：Dong、Skyler、
 
+### [前情提要](https://g0v.hackmd.io/@summit2024/book/https%3A%2F%2Fg0v.hackmd.io%2F%40summit2024%2Fmedia-book)
+#### 紀念品
+* 帽T適合跟揪松談談看，由揪松製作成紀念品
+* 原因
+    * 可以賣比較長久
+    * 人力不夠且需求共通的部分可以拜託揪松一起問
+
 ### 要傳給揪松的訊息
 
-- 要溝通什麼？
-    - h00die 如ㄏㄜ
+- 揪松有想要做紀念品嗎？
+- h00die
+    - h00die 如何分工？
+    - 目前找到有關的報價可以提供給揪松
+        暫時皆以50件、正面胸前10X10公分logo進行報價參考
+
+| 廠商              | 材質 | 單件平均價格 | 工作天數(不含假日)|
+| ----------------- | ---- | ------------ | -------- |
+| [衣潮工廠](https://www.trendyfactory.com.tw/costume/87)| 100%全棉毛巾布(布內裡毛圈布)|530(不含稅)|約15天|
+| [灣得文創](https://www.wonder-product.com/shop.html?store-page=%E5%AE%A2%E8%A3%BD-%E6%BB%BF%E7%89%88-%E5%8D%B0%E8%8A%B1-%E9%80%A3%E5%B8%BD-T%E6%81%A4-p127433857&offset=0&sort=normal)| 100%聚酯纖維|696(無標示其他條件) |約8天|
+
+* 御守[(詢價請點我)](http://www.eli.tw/)
+* [乖乖](https://www.kuai.com.tw/web/contact/contact.jsp?lang=tw)(10萬包可客製化包裝)
+* 其他：
+    * 社群媒體排程，例如 IG
+    * 紀念品要寄送的話要跟揪松先聊聊Summit || g0v 好像有倉庫？
+    * 紀念品寄送到了之後揪松是否會進行管理
+
+### 紀念品下一步行動
+- 綜合性資料：
+    - 報價相關
+        - 抬頭：財團法人開放文化基金會
+        - 統編：38552170
+        - 聯絡人：負責人
+        - 聯絡人電話：負責人電話
+- t恤
+    - 顏色要選什麼？
+        - 保險色：白、黑
+    - logo要畫什麼？
+        - [2020團體服樣式](https://drive.google.com/drive/folders/1rC2TovDTrHQAijx-HKQhaFKiKVjLANol?usp=drive_link)
+    - 數量怎麼統計？
+        - A 版（第二天）：工作人員+講者 150 件
+        - B 版（第一天）：同時賣給會眾的 150+x 件
+先以 x = 200（總共 150、350 件）下去詢價
+    - 尺寸怎麼統計？
+        - 行政組會負責
+- 鏡頭保護蓋
+    - logo要畫什麼？
+        - [報價用穿山甲](https://drive.google.com/file/d/1RzbyPk1IfsnYS1PZcwqMN5dGo9guSpqk/view?usp=sharing)
+
