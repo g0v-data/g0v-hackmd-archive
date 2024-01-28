@@ -479,7 +479,10 @@ Opass 教學
 先以 x = 200（總共 150、350 件）下去詢價
     - 尺寸怎麼統計？
         - 行政組會負責
+    - 製程是什麼？
+        - 網版
 - 鏡頭保護蓋
     - logo要畫什麼？
         - [報價用穿山甲](https://drive.google.com/file/d/1RzbyPk1IfsnYS1PZcwqMN5dGo9guSpqk/view?usp=sharing)
+    - 已向[宏正實業有限公司](https://www.pinsmfg.com/main/list/special-gift/webcam-cover.html)重新詢問報價(
 
