@@ -82,9 +82,17 @@ tags: 115B實驗室, 永續所得實驗室
 - [LINE社群](https://line.me/ti/g2/g2VAPTEmkIMUZT8UMCIhh2J2Vo_zMmVq562rag)
 - [網站](https://115b.org/)
 
+---
+## 參加者
 
+* 安柏 Amber
+* 魯蛋 Jeffery
+* 葉卿林 Chris
+* 張軒豪 Nick
+* 黃世和 Huanry
 ---
 ## 筆記
+
 
 ### SDGs vs API
 
