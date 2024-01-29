@@ -28,16 +28,16 @@ Holiday Inn Resort Samui
 ### Day 2 (2/4 週日)
 Koh Tao 濤島(龜島)/南園島半日遊
 Bophut Beach 波普海灘放空
-Lamei night market
+Fisherman’s Village（夜市）
 
 ### Day 3 (2/5 週一)
 AngThong 安通一日遊
-Fisherman's Village 漁村夜市
+Fisherman's Village（夜市）
 
 ### Day 4 (2/6 週二)
 > 住宿（2 Nights）
 Centara Reserve Samui
-（[Luxury Ocean King](https://www.centarahotelsresorts.com/centarareserve/crs/luxury-ocean-room)：king size or two single beds）
+（[Luxury Ocean King](https://www.centarahotelsresorts.com/centarareserve/crs/luxury-ocean-room)：king size + bed 2944 THB）
 
 > 行程
 大象園半日遊（換住宿點）
@@ -132,6 +132,21 @@ https://footprints.tw/blog/post/118417451
 ## 網路
 * [曼谷機場自取] [dtac HAPPY TOURIST 4G/5G SIM](https://www.klook.com/zh-TW/activity/16587-dtac-4g-sim-thailand/?spm=SearchResult.SearchResult_LIST&clickId=a2e2778dc2)
 * [中華電信漫遊-海量型](https://www.cht.com.tw/home/campaign/roamingplan/index/plan?itemid=1C17DB528FC34AE493124BD783492305)
+
+## 費用
+> 打勾為已出帳
+
+* [ ] 餐飲：500*3*2*9 = 27000（每人每餐500，住宿皆供早餐）
+* [ ] 交通：2000
+* [ ] 包車：2000
+* [ ] 觀光：
+* [ ] 購物：？
+* [ ] 住宿：20805(3)+21612(3)+18741(3)=61158 (avg. 6795)
+* [x] 機票：8190(TPE-BKK)+23478(BKK-USM) = 31668
+* [x] 簽證：限時免簽。泰國政起至2024年5月10日止
+
+> 入境泰國海關會隨機抽查每人身上須準備2萬泰銖，**每個家庭4萬泰銖**。（等值貨幣即可，如美金、台幣等）。攜帶泰銖出境則不能超過5萬泰銖。攜往緬甸、寮國、柬埔寨、馬來西亞、越南，不能超
+> 過50萬泰銖。
 
 ## 行李
 * 浮潛器具：蛙鞋、面鏡、呼吸管、泳衣、泳帽（Optional）
