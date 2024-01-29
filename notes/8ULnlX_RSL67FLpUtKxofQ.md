@@ -70,15 +70,18 @@ Chaweng Beach 查汶海灘
 > 回程：Bolt/Grab
 
 ### Day 7 (2/9 週五-除夕)
-> 行程 by 包車
-08:10 吃完飯店早餐後出發（車程 40m）
-[Safari World Bangkok](https://www.safariworldbangkok.com/)（曼谷動物園）
+> 行程 by Bolt/Grab
+08:00 吃完飯店早餐後出發（車程 1h）
+[Safari World Bangkok](https://aikolife.com/safari-world-bangkok/)（曼谷動物園），海豚區需提早佔位。
+先逛海洋世界，搭園區大巴逛野生動物園。
 （四點前離開動物園，五點前抵達 ICONSIAM）
 [ICONSIAM](https://kimiyo.tw/iconsiam/)（暹羅天地） 10:00-22:00
 [The Opulence Cruise](https://www.klook.com/zh-TW/activity/99297-opulence-luxury-chao-phraya-dinner-cruise-cruise-bangkok/)（[遊河晚餐](https://www.elsa819.com/the-opulence-bkk/)） 20:00-22:15 / Checkin 18:00-19:30
 
-> 出發：klook [包車](https://www.klook.com/zh-TW/transport/ttd/car-charters/th/?des_id=10011&spm=Mobility_Aggregate.Transportation_LIST) 8h
 > 回程：Bolt/Grab 回飯店 20m
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a79ef7d1949da968fa66d120e4100132.png)
+
 
 > 備案
 [Sriayuthaya Lion Park](https://www.klook.com/zh-TW/activity/105309-sriayuthaya-lion-park-ticket-ticket/?spm=SearchResult.SearchResult_LIST&clickId=1aa17c7050)（大城動物園） 08:30–17:00
@@ -87,14 +90,14 @@ Chaweng Beach 查汶海灘
 行程 by Bolt/Grab
 
 > 寺廟巡禮
-> 1. [大皇宮] (https://www.royalgrandpalace.th/cn/visit/practical-information)＆玉佛寺 08:30–15:30 2h
+> 1. [大皇宮] (https://www.royalgrandpalace.th/cn/visit/practical-information)＆玉佛寺 08:30–15:30 2h（[即時買票](https://www.klook.com/zh-TW/activity/72670-bangkok-grand-palace-wat-phra-kaew-walking-tour/?spm=SearchResult.SearchResult_LIST&clickId=4ad6cd0db1)）
 > 1. [臥佛寺](https://mimihan.tw/wat-pho/) 08:00-18:30 30m
 > 1. [鄭王廟](https://bkk.com.tw/wat-arun/) 08:00-18:00（用餐時間若衝突，先去海鮮市場再來）30m
 
 > Thonburi Market Place（吞武里海鮮市場） 07:00-20:00 1h30m
-Siam Paragon [SEA LIFE](https://www.klook.com/zh-TW/activity/357-sea-life-bangkok-ocean-world-bangkok/)（曼谷海洋世界/[官網](https://www.visitsealife.com/bangkok/ch/what-s-inside/)） 10:00-20:00
+Siam Paragon [SEA LIFE](https://www.klook.com/zh-TW/activity/357-sea-life-bangkok-ocean-world-bangkok/)（曼谷海洋世界/[官網] 3h (https://www.visitsealife.com/bangkok/ch/what-s-inside/)） 10:00-20:00
 回飯店：[BTS] Sukhumvit線（CEN 2號月台 - N02）13m
-
+或
 
 > 早餐：飯店 06:00-11:30
 午餐：海鮮市場（生鮮烤完帶去熟食區座位區吃，熟食區有肉品攤）
@@ -141,7 +144,7 @@ https://footprints.tw/blog/post/118417451
 * [ ] 餐飲：500*3*2*9 = 27000（每人每餐500，住宿皆供早餐）
 * [ ] 交通：2000
 * [ ] 包車：2000
-* [ ] 觀光：4216(遊船)+
+* [ ] 觀光：4216(遊船)+3139(動物園)
 * [ ] 購物：？
 * [ ] 住宿：20805(3)+21612(2)+2944(bed)+18741(3)=63745 (avg. 7968)
 * [x] 機票：8190(TPE-BKK)+23478(BKK-USM) = 31668
@@ -155,10 +158,22 @@ https://footprints.tw/blog/post/118417451
 * 夏季穿著：排汗衣、遮陽帽、防曬乳、涼鞋、健走鞋、薄外套
 
 ## 天氣
+> 蘇美島（Surat Thani 區域）23～34度
+> 曼谷（Bangkok 區域）26～32度
+
 在二月份，泰國蘇梅島的天氣是旱季的一部分，這使得這個月份成為受歡迎的旅遊時期之一。二月的天氣整體晴朗宜人，降雨量很少。二月屬於泰國的涼季，這是一個氣候涼爽宜人的時期，也是泰國旅遊的旺季。
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f27a436a18b552692ee2feee461ff589.png)
 
 > [Read more](https://www.accuweather.com/zh/th/ko-samui/5470/daily-weather-forecast/5470?day=11)
+
+## Apps
+* Golt（平價計程車）
+* Grab（類Uber）
+* Muvmi（類嘟嘟車）
+* Beam（滑板車租借）
+* inDrive（新創叫車）
+* Thai Weather（天氣）
+* 泰語翻譯官（溝通）
 
 ## 冷知識
 * [昭披耶河又稱為湄南河嗎？](https://visionthai.net/article/differences-between-the-chao-phraya-river-and-mekong-river/)
