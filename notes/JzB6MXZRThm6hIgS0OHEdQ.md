@@ -4,8 +4,6 @@ tags: GIS, 防災, 民防
 
 # WaytoSafety 隨時隨地知道避難場所位置<br>Shelter Map (Taiwan, Japan, Korea)
 
-<https://g0v.hackmd.io/@chewei/waytosafety-home>
-
 :::info
 Channel:
 - 臺灣資料討論頻道 g0v Slack #disaster-go
