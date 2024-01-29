@@ -25,10 +25,11 @@ Contributor:
 [TOC]
 :::
 
+---
 
 ## Offline Map
 
-### 全國各村里簡易疏散避難地圖
+### TW 全國各村里簡易疏散避難地圖
 
 各村里簡易疏散避難地圖 PDF 檔案
 - 消防署建立的整合入口查詢網頁：https://www.nfa.gov.tw/cht/index.php?code=list&ids=82
@@ -44,7 +45,7 @@ Contributor:
 民間撰寫的介紹文章：如何找到自己所在的村里避難地圖？
 - https://www.safetaiwan.com/blogs/disaster-prevention-column/evacuation-map
 
-### 特定地區或園區的避難地圖
+### TW 特定地區或園區的避難地圖
 
 國內研究「地形特徵圖」有針對部分地區有產製避難路線建議章節
 https://atlas.geo.ntnu.edu.tw/ 
@@ -84,7 +85,7 @@ https://atlas.geo.ntnu.edu.tw/
 
 ## Open Data / Release Data
 
-### 【臺灣】<br>Evacuation sites / ひなんばしょ(指定緊急避難場所) / 대피 장소 / 災害避難疏散場所<br>Shelter / ひなんじょ(避難所) / 대피소 / 防災避難收容處所
+### 【TW 臺灣】Shelter / ひなんじょ(避難所) / 대피소 / 防災避難收容處所
 
 #### 政府釋出的資料與查詢工具
 
@@ -335,6 +336,7 @@ https://atlas.geo.ntnu.edu.tw/
 是否區分「災時當下避難」與「災後短期收容」，需要依照不同種類的「災害情境時序與衝擊型態」
 - 例如海嘯，海嘯來臨前，應前往的海嘯緊急疏散避難地點
     - 海嘯緊急疏散避難地點，不一定是災後短期收容地點
+    - Evacuation sites / ひなんばしょ(指定緊急避難場所) / 대피 장소 / 災害避難疏散場所
 - 例如地震來臨，前往學校空曠的操場或是比較沒有建物傾倒風險的公園中央
     - 接著需要判斷餘震期間，仍可判斷為安全的運動場館室內
     - 情況較穩定後，可選擇前往 收容處所
@@ -375,7 +377,7 @@ https://hdl.handle.net/11296/3m94b2
 https://data.gov.tw/dataset/5969
 
 
-### 【臺灣】Air Raid Shelter / 防空ごう / 민방위대피소 / 防空避難處所
+### 【TW 臺灣】Air Raid Shelter / 防空ごう / 민방위대피소 / 防空避難處所
 
 用詞：
 - 防空避難處所
@@ -397,7 +399,7 @@ APP
 - 警政服務 App，提供「防空疏散避難專區」查詢，也是用 Google My Map 提供各地區地圖
     - https://www.npa.gov.tw/ch/app/artwebsite/view?module=artwebsite&id=1061&serno=25d5dae3-2a7d-40ea-8016-e567912ac57c
 
-### 【日本】全国避難所ガイド
+### 【JP 日本】全国避難所ガイド
 - 日本 APP「Safety tips」&「全國避難所」
     - https://www.jnto.go.jp/safety-tips/chc/app.html
     - https://apps.apple.com/tw/app/%E5%85%A8%E5%9B%BD%E9%81%BF%E9%9B%A3%E6%89%80%E3%82%AC%E3%82%A4%E3%83%89/id446063625
@@ -417,7 +419,7 @@ APP
 - 日本，呈現加油站的營業狀態
     - https://www.enecho-ss.meti.go.jp/b/enecho/
 
-### 【韓國】6 種避難場所種類，各個查詢網頁
+### 【KR 韓國】6 種避難場所種類，各個查詢網頁
 
 Webpage / API
 - 지진옥외대피장소 地震室外避難場所 
