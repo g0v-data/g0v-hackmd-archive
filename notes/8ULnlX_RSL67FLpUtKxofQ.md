@@ -31,8 +31,10 @@ Bophut Beach 波普海灘放空
 Fisherman’s Village（夜市）
 
 ### Day 3 (2/5 週一)
-AngThong 安通一日遊
-Fisherman's Village（夜市）
+> 安通國家公園 (Angthong National Marine Park)
+> AngThong 安通一日遊
+
+> Fisherman's Village（夜市）
 
 ### Day 4 (2/6 週二)
 > 住宿（2 Nights）
@@ -73,7 +75,7 @@ Chaweng Beach 查汶海灘
 [Safari World Bangkok](https://www.safariworldbangkok.com/)（曼谷動物園）
 （四點前離開動物園，五點前抵達 ICONSIAM）
 [ICONSIAM](https://kimiyo.tw/iconsiam/)（暹羅天地） 10:00-22:00
-[The Opulence Cruise](https://www.klook.com/zh-TW/activity/99297-opulence-luxury-chao-phraya-dinner-cruise-cruise-bangkok/)（遊河晚餐） 20:00-22:15 / Checkin 18:00-19:30
+[The Opulence Cruise](https://www.klook.com/zh-TW/activity/99297-opulence-luxury-chao-phraya-dinner-cruise-cruise-bangkok/)（[遊河晚餐](https://www.elsa819.com/the-opulence-bkk/)） 20:00-22:15 / Checkin 18:00-19:30
 
 > 出發：klook [包車](https://www.klook.com/zh-TW/transport/ttd/car-charters/th/?des_id=10011&spm=Mobility_Aggregate.Transportation_LIST) 8h
 > 回程：Bolt/Grab 回飯店 20m
@@ -139,11 +141,11 @@ https://footprints.tw/blog/post/118417451
 * [ ] 餐飲：500*3*2*9 = 27000（每人每餐500，住宿皆供早餐）
 * [ ] 交通：2000
 * [ ] 包車：2000
-* [ ] 觀光：
+* [ ] 觀光：4216(遊船)+
 * [ ] 購物：？
-* [ ] 住宿：20805(3)+21612(3)+18741(3)=61158 (avg. 6795)
+* [ ] 住宿：20805(3)+21612(2)+2944(bed)+18741(3)=63745 (avg. 7968)
 * [x] 機票：8190(TPE-BKK)+23478(BKK-USM) = 31668
-* [x] 簽證：限時免簽。泰國政起至2024年5月10日止
+* [x] 簽證：限時免簽（2023/11/10 ～ 2024/05/10）
 
 > 入境泰國海關會隨機抽查每人身上須準備2萬泰銖，**每個家庭4萬泰銖**。（等值貨幣即可，如美金、台幣等）。攜帶泰銖出境則不能超過5萬泰銖。攜往緬甸、寮國、柬埔寨、馬來西亞、越南，不能超
 > 過50萬泰銖。
