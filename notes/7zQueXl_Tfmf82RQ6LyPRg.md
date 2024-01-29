@@ -211,6 +211,8 @@ https://www.twarchitect.org.tw/works/%e5%a4%a9%e7%a9%ba%e4%b9%8b%e6%a9%8b-%e7%b3
 虎尾糖廠
 https://www.facebook.com/story.php?story_fbid=pfbid0AsSLi4NGZsXDCd2EJi5FvGqmn3gkDQD9KnjBwzqudBtQbS4b5C96dhQrP2JmbVY8l&id=100002217764583&mibextid=qC1gEa
 https://www.facebook.com/story.php?story_fbid=pfbid0ktRkTTQgVV4MK5W2faSzijMQEqPsb1wKwPsD3muvUAqupXKgKpYXUD3HURnGCnmyl&id=100002217764583&mibextid=qC1gEa
+https://www.facebook.com/story.php?story_fbid=pfbid0imaS8DgNJqpNpGKzYPcYtV9GuCSXerTq3hv51GFoJqokVEAHeDzkko7mqC3r6nKql&id=1431886495
+
 
 烏樹林
 https://www.facebook.com/share/p/d6Xmj4H3Sx7vYgmA/

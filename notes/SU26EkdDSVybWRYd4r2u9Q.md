@@ -68,6 +68,7 @@ tags: GIS
     - https://www.facebook.com/events/254869885229646/
 - 桃園酒廠
     - https://www.facebook.com/100000292062685/posts/5153068464712838/
+- 虎尾 https://www.facebook.com/story.php?story_fbid=pfbid0imaS8DgNJqpNpGKzYPcYtV9GuCSXerTq3hv51GFoJqokVEAHeDzkko7mqC3r6nKql&id=1431886495
 - 萊姆酒
     - https://www.thenewslens.com/feature/taiwan-distillery-and-winery/175046
 - 政治立場與喜愛酒類
