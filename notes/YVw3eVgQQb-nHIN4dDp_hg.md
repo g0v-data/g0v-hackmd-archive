@@ -33,6 +33,7 @@ Rentea 小聚源自於 [g0v 社群](https://g0v.tw/)，是以城市的居住議�
 - [眼底城市客座編輯](https://g0v.hackmd.io/vEI6DdfSQJaMqIzAjl7vrg)
 - [[**長租剛好**] 市場研究與服務提案](https://g0v.hackmd.io/@ddio/appropriate-rental-housing)
 - [租屋相關法規整理](https://g0v.hackmd.io/kgQvBVMgQhaVcvjrFZ6wmw?view)
+- [租出育兒宅](https://g0v.hackmd.io/tQZeLfF7SueLMKLO6eMvrQ)
 
 ## 等待復活的點子們
 
