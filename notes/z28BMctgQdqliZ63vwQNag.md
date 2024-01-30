@@ -37,6 +37,7 @@ skyhong2002> 好ㄌ
 
 - [第零次 Rep0rter 專案開會](https://g0v.hackmd.io/@Hawks/rJ2aJTetT)
 - [第壹次 Rep0rter 專案開會](https://g0v.hackmd.io/@Hawks/S1CgYAeK6)
+- [第貳次 Rep0rter 專案開會](https://g0v.hackmd.io/@skyhong2002/rJR_oOLq6)
 
 
 ## 專案團隊成員
