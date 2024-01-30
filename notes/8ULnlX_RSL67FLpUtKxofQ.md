@@ -20,6 +20,9 @@ Thailand [Samui & Bangko] 9 days
 **BKK-USM** PG165（Bangkok Air）
 16:00 ~ 17:10（1h10m）
 
+> 行程
+> Fisherman’s Village（夜市）
+
 > 住宿（3 Nights）
 Holiday Inn Resort Samui
 （[Kid Suites room](https://www.ihg.com/holidayinnresorts/hotels/us/en/koh-samui/usmrt/hoteldetail/hotel-room-rates#)：king size and kid bed）
@@ -97,7 +100,6 @@ Chaweng Beach 查汶海灘
 > Thonburi Market Place（吞武里海鮮市場） 07:00-20:00 1h30m
 Siam Paragon [SEA LIFE](https://www.klook.com/zh-TW/activity/357-sea-life-bangkok-ocean-world-bangkok/)（曼谷海洋世界/[官網] 3h (https://www.visitsealife.com/bangkok/ch/what-s-inside/)） 10:00-20:00
 回飯店：[BTS] Sukhumvit線（CEN 2號月台 - N02）13m
-或
 
 > 早餐：飯店 06:00-11:30
 午餐：海鮮市場（生鮮烤完帶去熟食區座位區吃，熟食區有肉品攤）
