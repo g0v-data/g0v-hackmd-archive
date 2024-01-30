@@ -71,7 +71,7 @@ tags: GIS
     - 如果是已開發地區，土地使用分區應該也是符合現況
 - 國土利用調查，有一份比較舊的
     - 有些地區國土利用調查比較符合實際，例如一大塊農業區或保護區裡面有建物群，國土利用調查會基於現況進行調查標記出建物，但土地使用分區就是一大塊無法反映出建物群
-- 先放到 Google My Map：https://www.google.com/maps/d/u/0/viewer?mid=1_cZYRmxBvPc3Uh_v0ihe8QscrDThoJY&ll=0%2C0&z=13
+- 先放到 Google My Map：https://maps.app.goo.gl/agmYSYzcty9ca6ZcA
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1_cZYRmxBvPc3Uh_v0ihe8QscrDThoJY&ehbc=2E312F" width="100%" height="480"></iframe>
 
