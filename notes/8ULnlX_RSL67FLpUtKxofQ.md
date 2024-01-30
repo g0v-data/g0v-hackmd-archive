@@ -29,15 +29,20 @@ Holiday Inn Resort Samui
 
 
 ### Day 2 (2/4 週日)
-Koh Tao 濤島(龜島)/南園島半日遊
-Bophut Beach 波普海灘放空
+大象園半日遊
+Bophut Beach 波普海灘
 Fisherman’s Village（夜市）
 
+
 ### Day 3 (2/5 週一)
-> 安通國家公園 (Angthong National Marine Park)
-> AngThong 安通一日遊
+> 行程
+> Angthong National Marine Park（安通國家公園）
+> AngThong One-day Trip - [100 Degrees East](https://www.100degreeseast.com/snorkeling.php)
 
 > Fisherman's Village（夜市）
+
+> 備案
+~~Koh Tao 濤島(龜島)/南園島一日遊~~
 
 ### Day 4 (2/6 週二)
 > 住宿（2 Nights）
@@ -45,8 +50,8 @@ Centara Reserve Samui
 （[Luxury Ocean King](https://www.centarahotelsresorts.com/centarareserve/crs/luxury-ocean-room)：king size + bed 2944 THB）
 
 > 行程
-大象園半日遊（換住宿點）
-Chaweng night market
+換住宿點
+Chaweng night market（夜市）
 
 ### Day 5 (2/7 週三)
 酒店放空
@@ -106,8 +111,8 @@ Siam Paragon [SEA LIFE](https://www.klook.com/zh-TW/activity/357-sea-life-bangko
 晚餐：SUSHIRO（Paragon 4F-423A / Centara 7F-B725）
 
 > 備案
-Central World 10:00-22:00
-Ladmayom Floating Market（空叻瑪榮水上市場） 08:00-17:00
+~~Central World 10:00-22:00
+Ladmayom Floating Market（空叻瑪榮水上市場） 08:00-17:00~~
 
 
 ### Day 9 (2/11 週日-初二)
@@ -138,15 +143,14 @@ https://footprints.tw/blog/post/118417451
 
 ## 網路
 * [曼谷機場自取] [dtac HAPPY TOURIST 4G/5G SIM](https://www.klook.com/zh-TW/activity/16587-dtac-4g-sim-thailand/?spm=SearchResult.SearchResult_LIST&clickId=a2e2778dc2)
-* [中華電信漫遊-海量型](https://www.cht.com.tw/home/campaign/roamingplan/index/plan?itemid=1C17DB528FC34AE493124BD783492305)
+* [中華電信漫遊-海量型 40G/30d](https://www.cht.com.tw/home/campaign/roamingplan/index/plan?itemid=1C17DB528FC34AE493124BD783492305)
 
 ## 費用
 > 打勾為已出帳
 
 * [ ] 餐飲：500*3*2*9 = 27000（每人每餐500，住宿皆供早餐）
-* [ ] 交通：2000
-* [ ] 包車：2000
-* [ ] 觀光：4216(遊船)+3139(動物園)
+* [ ] 交通：5000
+* [ ] 觀光：4216(遊船)+3139(動物園)+11114(Angthong)
 * [ ] 購物：？
 * [ ] 住宿：20805(3)+21612(2)+2944(bed)+18741(3)=63745 (avg. 7968)
 * [x] 機票：8190(TPE-BKK)+23478(BKK-USM) = 31668
