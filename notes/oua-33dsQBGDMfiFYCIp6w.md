@@ -73,6 +73,18 @@ ans:picoCTF{sma11_N_n0_g0od_73918962}
 ## Tab, Tab, Attack
 Using tabcomplete in the Terminal will add years to your life, esp. when dealing with long rambling directory structures and filenames: Addadshashanammu.zip
 
+```
+wget https://mercury.picoctf.net/static/72712e82413e78cc8aa8d553ffea42b0/Addadshashanammu.zip
+```
+```
+unzip Addadshashanammu.zip
+```
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b7ddd041e27275c116bb148c61801990.png)
+只要先打 ./ 再一路按 tab 鍵，shell 自動幫你補上所有路徑
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_83bcbc47bb0eab2c97904678b3c4734f.png)
+ans:picoCTF{l3v3l_up!_t4k3_4_r35t!_6f332f10}
+
+
 
 
 
