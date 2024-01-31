@@ -47,5 +47,5 @@ We want to discuss measures for both governmental and civil department, that can
 
 Other
 ---
-- [DigiResiThon 數位韌性松 bootstrapping](/Qc8gsyY-Rn-4lXUA1gLH1g)
+- [bootstrap and 參考資訊們](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/Qc8gsyY-Rn-4lXUA1gLH1g)
 - [民防相關證照](/B-ky08JbR4-HD3lFDwynLQ)

@@ -47,6 +47,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 - 318 如何在抗爭現場建立穩定網路
     - [318 時期的在會場中建立可靠的訊息傳遞網路共筆](/mEeZehwDQGm74C5cWkogbQ)
     - [318 線路松](https://g0v.hackpad.tw/ep/pad/static/4AKHvZRwM59?fbclid=IwAR1OUBSa-e4HmvYuaRdBr8RvMW3_ajI4tnNptgv0JPrym8f-gQFzlTpOJjE)
+- [[社群公開版] #民防搞什麼 #WhatCivilDefense 系列座談 (2022)](https://docs.google.com/document/d/160yXsDL3TsSq9NQoms3kBKO8g90ZfeuNAMUNbAIjtEE/edit#heading=h.o55atwnbka83)
 
 
 ## 腦洞大開 Brainstorming

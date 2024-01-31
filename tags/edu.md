@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [nonprofit-helper 0st meeting](../notes/Gj99_10xQZicm_f1Qmp3xQ.md) | 2024-01-31T20:27:37+08:00 | 2024-01-31T16:19:24+08:00 |
+| 1 | [nonprofit-helper 0st meeting](../notes/Gj99_10xQZicm_f1Qmp3xQ.md) | 2024-01-31T21:41:31+08:00 | 2024-01-31T16:19:24+08:00 |
 | 2 | [Chapter5：共好 的 AI 時代](../notes/jDDJFw79QUqf2W3aISIXvw.md) | 2024-01-31T18:45:31+08:00 | 2024-01-31T18:40:43+08:00 |
 | 3 | [4-3 作法](../notes/nyUPdGfWTeW7mkYzE2t4dQ.md) | 2024-01-31T18:45:26+08:00 | 2024-01-31T18:40:35+08:00 |
 | 4 | [4-2 心法](../notes/HdrL0m4dQZKglyzh-7vBBg.md) | 2024-01-31T18:45:22+08:00 | 2024-01-31T18:38:56+08:00 |

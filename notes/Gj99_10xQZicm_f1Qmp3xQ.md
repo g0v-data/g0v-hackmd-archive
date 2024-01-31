@@ -16,6 +16,11 @@ title: nonprofit-helper 0st meeting
             - 已建
         - [zeabur](https://zeabur.com/docs/zh-TW/billing/sponsor) 
             - 要寫信先問一下時程趕不趕得上
+## 參考資料
+- [如何 5 分鐘內，幫你的 GPTs 加上資料庫](https://chatgptlanding.substack.com/p/gpts-oauth-astradb)
+- https://github.com/admineral/OpenAI-Assistant-API-Chat
+- [Assistants_API_overview_python.ipynb](https://github.com/openai/openai-cookbook/blob/main/examples/Assistants_API_overview_python.ipynb)
+- [A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y)
 
 ## 分工
 ### Paul

@@ -63,6 +63,7 @@ tags: 新生流域
         - https://www.facebook.com/photo?fbid=885845619797769&set=a.113042847078054
     - 陳永成公廳 https://www.facebook.com/photo.php?fbid=10150261926963618&id=747873617&set=a.10151834790708618&mibextid=qC1gEa
     - 住宅 https://www.facebook.com/share/p/Nn41VWhUuaLkPzra/?mibextid=WC7FNe
+    - 師大校區附近 舊照片 https://www.facebook.com/share/amDFgDNNDrzzKVZk/
     - 影片 56:46 段落，提到 北科大校門歷年移動，與大排有關 https://youtu.be/fyXjkOdDHUQ
     - 影片 01：05:29 有北科大校門水路照片 https://youtu.be/fyXjkOdDHUQ
     - 影片 06:05 有北科大北側水路，特一號大排尚未興建 https://youtu.be/0tK0gkDIi54
