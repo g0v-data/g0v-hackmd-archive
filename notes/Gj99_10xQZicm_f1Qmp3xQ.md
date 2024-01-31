@@ -1,3 +1,8 @@
+---
+tags: edu, nonprofit-helper, nonprofit, ngo, nonprofits
+title: nonprofit-helper 0st meeting
+---
+
 # nonprofit-helper 0st meeting
 
 ## 架構
@@ -8,6 +13,7 @@
 - 後端
     - 伺服器
         - AWS or
+            - 已建
         - [zeabur](https://zeabur.com/docs/zh-TW/billing/sponsor) 
             - 要寫信先問一下時程趕不趕得上
 
@@ -19,7 +25,8 @@
 
 
 ### Wei-ting
-- 
+- maintain AWS Server 
+- DataStax DB <-> OpenAI
 
 
 ## scope for now
@@ -35,7 +42,12 @@
 - [ ] 刻出網頁畫面
     - [ ] Chatbot interface
     - [ ] import custom regulation file interface
-    - [ ] calculator of 
+        - [ ] e.g. 該組稱組織章程
+    - [ ] calculator of meeting member counter
+        - [ ] input fields for present member's number
+        - [ ] 可能要串章程 + 會議規範（內政部頒布）
+    - [ ] guide to found a new orgnization (nice to have)
+        - [ ] input fields for require informations
 - [ ] 去敲零時先輩時間
 - [ ] 講解 OpenAI Platform
 - [ ] 
