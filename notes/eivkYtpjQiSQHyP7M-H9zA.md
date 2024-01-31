@@ -10,7 +10,7 @@ This is a nominee of [4th sch001 project incubation competition](https://g0v.hac
 
 ## 架構
 - DB
-    - DataStrax
+    - [DataStrax](https://www.datastax.com/)
 - 網頁
     - bootstrap
     - 伺服器
@@ -19,6 +19,12 @@ This is a nominee of [4th sch001 project incubation competition](https://g0v.hac
             - 要寫信先問一下時程趕不趕得上
 - 後端
     - 
+
+## 分工
+### Paul
+- prompt
+- assistant-api
+- front end
 
 ## Jan 31 2024 TODOs **DDay from now: 30 days left**
 - [ ] 去敲零時先輩時間
