@@ -1,5 +1,5 @@
 ---
-title: 避難資訊快速查找應用 設計規範
+title: 避難資訊快速查找應用 設計規範 | WaytoSafety 隨時隨地知道避難場所位置
 tags: waytosafety
 ---
 
