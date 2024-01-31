@@ -3,7 +3,7 @@
 # Function: 
 1. fill_solid()
     
-    功能: 將LED填滿單一顏色，範圍可調整。
+    功能: 將LED填滿單一顏色.(長度可調整)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f09eb1dcfb4a15c54c971bc5ede76b90.png)
 
 
@@ -27,7 +27,7 @@
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6c2010af0edf4b9875da29639702c0f5.png)
 2. 	fill_rainbow ()
 
-    功能: 將LED填滿不同顏色，LED之間色差範圍、長度可調整。
+    **功能:** 將LED填滿不同顏色，相鄰LED有相同的色差值.(可變更色差、長度)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f0ed8b4c4aa973b088949a1a15152fe2.png)
 **ex.** `fill_rainbow( leds+i , 2 , 10, 20);`
   i = 從第幾個LED開始填色
@@ -38,6 +38,21 @@
     **tip:**
     *      要記得在填完顏色後用FastLED.show();顯示.
     *      leds的名稱目前不能改變(未探討，應該與leds[NUM_LEDS];有關).
+
+    **test:**
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7c7a4dcf43c753008a647cb019051ed1.png)
+    255為色差上限值 = 色差0
+    
+3. fill_rainbow_circular ()
+    
+    功能: 將LED填滿不同顏色，相鄰LED有相同的色差值，且燈帶末端和開頭之間的色調是連續的.(可調整長度、是否reversed顛倒)
+    
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7ebda746b30ab5b8027a663bab818404.png)
+
+    **test:**
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5a062d1bba92540708001b98797dde14.png)
+
+
 
 # Other:
 
