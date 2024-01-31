@@ -8,6 +8,11 @@ title: nonprofit-helper Home
 This is a nominee of [4th sch001 project incubation competition](https://g0v.hackmd.io/@jothon/rydvIDluT/https%3A%2F%2Fg0v.hackmd.io%2F%40jothon%2FSJbjGMnvT)
 :::
 
+## 架構
+- DB
+- 網頁伺服器
+- 後端
+
 ## project proposal
 [nonprofit-helper proposal documents](/Sn_lVZE9QKWVqUGQVx_VTg)
 

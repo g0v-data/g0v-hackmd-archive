@@ -70,6 +70,34 @@ In RSA, a small e value can be problematic, but what about N? Can you decrypt th
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_585509d544cdbe4a0bcaf9f62105af72.png)
 ans:picoCTF{sma11_N_n0_g0od_73918962}
 
+## Static ain't always noise
+Can you look at the data in this binary: static? This BASH script might help!
+```
+wget https://mercury.picoctf.net/static/66932732825076cad4ba43e463dae82f/static
+```
+
+```
+wget https://mercury.picoctf.net/static/66932732825076cad4ba43e463dae82f/ltdis.sh
+```
+1.chmod +x static
+2.`./static`
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bfa6abed647487e4a6057659921ffd23.png)
+3.chmod +x ltdis.sh
+4.`./ltdis.sh`
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_613c5da87faf15f5a08c79212de60a1b.png)
+5.`./ltdis.sh ./static`
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3136d7b85208038ddfeb63b84468515e.png)
+可以看到產生了兩個檔案：
+./static.ltdis.x86_64.txt 與 ./static.ltdis.strings.txt ，
+根據程式輸出訊息，任何找到的字串都在 ./static.ltdis.strings.txt 中，
+我們用 grep 命令來找出 flag ：
+```
+grep 'picoCTF' ./static.ltdis.strings.txt
+```
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_94d1928c8c590e9480c44865c295d8ac.png)
+ans:picoCTF{d15a5m_t34s3r_f5aeda17}
+
+
 ## Tab, Tab, Attack
 Using tabcomplete in the Terminal will add years to your life, esp. when dealing with long rambling directory structures and filenames: Addadshashanammu.zip
 

@@ -75,7 +75,7 @@ tags: 115B實驗室, 永續所得實驗室
 ---
 ## 參加者
 
-* 安柏 Amber
+* 安柏 Anbert
 * 魯蛋 Jeffery
 * 葉卿林 Chris
 * 張軒豪 Nick
