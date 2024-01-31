@@ -59,6 +59,8 @@ tags: 新生流域
         - http://whatagodday.blogspot.com/2023/05/2023_16.html
     - 臺北給水工事設計報告書，臺灣總督府公文類纂
         - 鑽井位置？
+    - 建成圓環 消防用水池 https://www.facebook.com/share/p/uqGJRaPAVASBqwx2/
+    - 台博館南門園區 消防用水池
     - 1933 臺北市大觀
         - https://www.facebook.com/photo?fbid=885845619797769&set=a.113042847078054
     - 陳永成公廳 https://www.facebook.com/photo.php?fbid=10150261926963618&id=747873617&set=a.10151834790708618&mibextid=qC1gEa
