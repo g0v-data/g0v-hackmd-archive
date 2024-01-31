@@ -29,7 +29,11 @@ ssh ctf-player@venus.picoctf.net -p 50273
 - `cd /`到根目錄
 - `ls`+`cat 2of3.flag.txt` 得出第二部份的flag
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c677c95f897a47108aa1c53369e3e0c8.png)
-- `cd ~`到根目錄
-- `ls`+`cat 2of3.flag.txt` 得出第二部份的flag
+- `cd ~`返回到你的用戶家目錄
+- `ls`+`cat 3of3.flag.txt` 得出第三部份的flag
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ff81e62919033f2f63f6d0c1aa22b057.png)
+- ans:picoCTF{xxsh_0ut_0f_\/\/4t3r_3ca613a1}
+
+## 
 
 

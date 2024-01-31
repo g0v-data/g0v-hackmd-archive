@@ -10,8 +10,20 @@ This is a nominee of [4th sch001 project incubation competition](https://g0v.hac
 
 ## 架構
 - DB
-- 網頁伺服器
+    - DataStrax
+- 網頁
+    - bootstrap
+    - 伺服器
+        - AWS or
+        - [zeabur](https://zeabur.com/docs/zh-TW/billing/sponsor) 
+            - 要寫信先問一下時程趕不趕得上
 - 後端
+    - 
+
+## Jan 31 2024 TODOs **DDay from now: 30 days left**
+- [ ] 去敲零時先輩時間
+- [ ] 講解 OpenAI Platform
+- [ ] 拆產品架構和功能
 
 ## project proposal
 [nonprofit-helper proposal documents](/Sn_lVZE9QKWVqUGQVx_VTg)

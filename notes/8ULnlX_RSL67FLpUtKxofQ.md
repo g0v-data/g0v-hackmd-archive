@@ -8,8 +8,6 @@ Thailand [Samui & Bangko] 9 days
 ## 旅遊計畫
 曼谷轉機往蘇梅島（非開同一張機票，首日抵達曼谷時得先領行李再轉國內線）。先玩蘇梅島六天五夜，分兩間住宿，回程待曼谷三天再回台灣。
 
-
-
 成員：兩大、一小（低年級）
 
 ### Day 1 (2/3 週六)
@@ -29,7 +27,6 @@ Holiday Inn Resort Samui
 
 
 ### Day 2 (2/4 週日)
-大象園半日遊
 Bophut Beach 波普海灘
 Fisherman’s Village（夜市）
 
@@ -41,9 +38,6 @@ Fisherman’s Village（夜市）
 
 > Fisherman's Village（夜市）
 
-> 備案
-~~Koh Tao 濤島(龜島)/南園島一日遊~~
-
 ### Day 4 (2/6 週二)
 > 住宿（2 Nights）
 Centara Reserve Samui
@@ -54,7 +48,8 @@ Centara Reserve Samui
 Chaweng night market（夜市）
 
 ### Day 5 (2/7 週三)
-酒店放空
+> [Samui Elephant Kingdom Sanctuary](https://www.elephantkingdomsanctuary.com/)（大象王國）
+> Half-day Trip [schedule]
 
 ### Day 6 (2/8 週四)
 > 飛機
@@ -150,9 +145,10 @@ https://footprints.tw/blog/post/118417451
 
 * [ ] 餐飲：500*3*2*9 = 27000（每人每餐500，住宿皆供早餐）
 * [ ] 交通：5000
-* [ ] 觀光：4216(遊船)+3139(動物園)+11114(Angthong)
+* [ ] 觀光：4221(遊船)+3143(動物園)+水族館(2721)+11114(安通tour)+6771(大象tour) = 27970
 * [ ] 購物：？
 * [ ] 住宿：20805(3)+21612(2)+2944(bed)+18741(3)=63745 (avg. 7968)
+* [ ] 現金：40000
 * [x] 機票：8190(TPE-BKK)+23478(BKK-USM) = 31668
 * [x] 簽證：限時免簽（2023/11/10 ～ 2024/05/10）
 
