@@ -85,6 +85,7 @@ tags: 新生流域
     - 19 南京新生 https://www.facebook.com/groups/1464346490494897/permalink/3172352329694296/?comment_id=3172415869687942&mibextid=S66gvF
         - 留言串也有一張，建物與大排溝渠
     - 1978 照片 https://www.facebook.com/story.php?story_fbid=pfbid0Ypt5RJbMoKdVWJHzibUm4C7wZVujBfCAyAqtvDqGZgUEuSvzoMMUaAHfW5p5CUsl&id=747873617&mibextid=qC1gEa
+    - 1970 地圖 https://www.facebook.com/groups/582154450196478/permalink/919557983122788/?mibextid=K35XfP
     - 農安街生福祠
         - http://www.rhythmsmonthly.com/?p=33301
     - 民國67年北台灌區利用圖(wra00700)

@@ -79,6 +79,8 @@ https://www.facebook.com/605050693/posts/pfbid038MfJ3uCWfqQSSrGfdSM8MZt6KJFZXgXy
     - https://www.facebook.com/1833594957/posts/pfbid023yrkkbNeFXsgJJS31zDqaJDpakw88KT9Yetpnoo7cCjZroJP1dmTWLaiJbCs18Eel/
     - https://www.facebook.com/100067803482973/posts/pfbid023BmdU8KM7vTgrdTP3GqNPwqf4Dmq99nTR4q7aLikhxavCt4oLffukTrbhDG1dpNyl/
 - https://nccur.lib.nccu.edu.tw/bitstream/140.119/137714/1/000901.pdf
+- 中國民航局啟用航線，與金馬航線重疊
+    - https://news.ttv.com.tw/news/11301310013900I
 
 ### 探討此領域的單位
 - Asia Maritime Transparency Initiative
