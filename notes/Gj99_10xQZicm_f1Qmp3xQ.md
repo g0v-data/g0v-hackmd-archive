@@ -58,4 +58,4 @@ title: nonprofit-helper 0st meeting
 #### Done
 - [x] 設定 OpenAI API orgnization and charge credit
 
-## Jan 31 2024 TODOs **DDay from now: 30 days left**
+## **DDay from now: 30 days left**
