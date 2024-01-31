@@ -8,28 +8,8 @@ title: nonprofit-helper Home
 This is a nominee of [4th sch001 project incubation competition](https://g0v.hackmd.io/@jothon/rydvIDluT/https%3A%2F%2Fg0v.hackmd.io%2F%40jothon%2FSJbjGMnvT)
 :::
 
-## 架構
-- DB
-    - [DataStrax](https://www.datastax.com/)
-- 網頁
-    - bootstrap
-    - 伺服器
-        - AWS or
-        - [zeabur](https://zeabur.com/docs/zh-TW/billing/sponsor) 
-            - 要寫信先問一下時程趕不趕得上
-- 後端
-    - 
-
-## 分工
-### Paul
-- prompt
-- assistant-api
-- front end
-
-## Jan 31 2024 TODOs **DDay from now: 30 days left**
-- [ ] 去敲零時先輩時間
-- [ ] 講解 OpenAI Platform
-- [ ] 拆產品架構和功能
+## project meetings
+- [nonprofit-helper 0st meeting](/Gj99_10xQZicm_f1Qmp3xQ)
 
 ## project proposal
 [nonprofit-helper proposal documents](/Sn_lVZE9QKWVqUGQVx_VTg)

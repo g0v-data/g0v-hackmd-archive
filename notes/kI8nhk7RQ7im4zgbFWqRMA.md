@@ -1,3 +1,6 @@
+---
+tags: Rep0rter - g0v 零時記者
+---
 # 第貳次 Rep0rter 專案開會
 
 上一次：

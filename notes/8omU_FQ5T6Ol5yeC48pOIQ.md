@@ -11,7 +11,7 @@ https://p180907:4343/SMB/console/html/cgi/cgiChkMasterPwd.exe
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_45455a164fcda14a227a0df129d0db3e.png)
 
 @reg add ”HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced” /v ”NoNetCrawling” /d ”1” /t REG_DWORD /f
-
+@net use O: \\dfs-tc.chainlon.net\CY01\22會計部\《會計師查帳》 /u:chainlon\ac99
 
 del f:\2040DB_Backup\pubs.bak /q
 "C:\Proqram Files\Microsoft SQL Server\80\Tools\Binn\sqlcmd.exe" -U sa -P password -Q "BACKUP DATABASE pubs TO DISK='f:\2040DB_Backup\pubs.bak'"

@@ -34,6 +34,20 @@ ssh ctf-player@venus.picoctf.net -p 50273
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ff81e62919033f2f63f6d0c1aa22b057.png)
 - ans:picoCTF{xxsh_0ut_0f_\/\/4t3r_3ca613a1}
 
-## 
+## Glory of the Garden
+This garden contains more than it seems.
+```
+wget https://jupiter.challenges.picoctf.org/static/43c4743b3946f427e883f6b286f47467/garden.jpg
+```
+- hint:What is a hex editor?
+1.用hex editor滑到最後
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_566bdf75cf6bdd96d55d220e88047e1a.png)
+2.
+```
+strings garden.jpg | grep CTF
+```
+- 在 garden.jpg 文件中使用 strings 提取所有可讀的字符串，然後使用 grep 過濾包含 "CTF" 字符串的行
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_10f042265eff6516b146b5c687ca7461.png)
 
+- ANS:picoCTF{more_than_m33ts_the_3y3657BaB2C}
 
