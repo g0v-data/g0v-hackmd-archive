@@ -111,6 +111,9 @@ tags: 新生流域
     - 影片 02:31:44 殷海光故居庭院水路 https://youtu.be/fyXjkOdDHUQ
     - 台大明達館附近的 1936 民宅照片 https://www.flickr.com/photos/ntuhistorygallery/2577465266/in/album-72157605606822637/
     - 近期行動，北科大北側 https://www.facebook.com/groups/582154450196478/permalink/867944994950754/
+    - 嘉興街403巷 
+        - 照片地點位置推測https://maps.app.goo.gl/8xLW459sgMskiELG7
+        - https://www.facebook.com/groups/582154450196478/posts/919837806428139/
     - 找 安和路 路名由來，安河？
     - https://gpi.culture.tw/books/3911000005
     - http://www.artofwar-tw.org/bboard/viewtopic.php?t=16454&start=390
