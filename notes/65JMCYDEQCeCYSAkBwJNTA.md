@@ -4,6 +4,29 @@ tags: cofacts
 
 # API & Database enhancements
 
+## API
+
+### Adopting Typescript
+> [Typescript adoption on API](https://g0v.hackmd.io/It97AgA4RU6EwlWc7Q2yLw#rumors-api)
+
+### API access & client management
+
+
+### Better multimedia support
+- Video & audio thumbnail generation https://github.com/cofacts/rumors-api/issues/326
+- Reduce STT hallucination https://github.com/cofacts/rumors-api/issues/322
+
+### URL resolution
+
+- Currently url-resolver mostly works on `unfurl`, puppeteer seldom runs
+    - Stored HTML and  `gRPC` is redundant
+    - Does not handle PDF files
+- Should extract metadata from microdata https://g0v.hackmd.io/aJqHn8f5QGuBDLSMH_EinA#schemaorg-microdata
+- Replace url-resolver with ArchiveBox? https://github.com/cofacts/rumors-api/issues/136#issuecomment-1813762578
+    - Stores multiple format
+    - Including screenshots, solves https://github.com/cofacts/url-resolver/issues/71#issue-1641410356
+
+
 ## DB
 
 ### Requirements
@@ -15,6 +38,8 @@ We need a solution that does not perform worse than the current ElasticSearch on
 ### Solutions and alternatives
 
 #### Elasticsearch v8
+
+> Previous research: https://g0v.hackmd.io/aJqHn8f5QGuBDLSMH_EinA#Systems-supporting-vector-search
 
 - [Semantic search with Inference API](https://www.elastic.co/guide/en/elasticsearch/reference/8.12/semantic-search-inference.html) (with built-in `query_vector_builder`; can use raw query vector instead)
 - [Dense vector](https://www.elastic.co/guide/en/elasticsearch/reference/8.12/dense-vector.html) and [kNN search](https://www.elastic.co/guide/en/elasticsearch/reference/8.12/search-search.html#search-api-knn)
