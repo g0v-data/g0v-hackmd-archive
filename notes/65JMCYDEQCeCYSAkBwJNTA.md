@@ -6,15 +6,26 @@ tags: cofacts
 
 ## API
 
-### Adopting Typescript
-> [Typescript adoption on API](https://g0v.hackmd.io/It97AgA4RU6EwlWc7Q2yLw#rumors-api)
-
-### API access & client management
-
+We collect enhancements to API server here.
 
 ### Better multimedia support
 - Video & audio thumbnail generation https://github.com/cofacts/rumors-api/issues/326
 - Reduce STT hallucination https://github.com/cofacts/rumors-api/issues/322
+
+
+### Adopting Typescript
+> [Typescript adoption on API](https://g0v.hackmd.io/It97AgA4RU6EwlWc7Q2yLw#rumors-api)
+
+- Use current schema DSL & type the resolvers?
+
+### API access & client management
+> [Cloudflare Zero Trust Service Tokens](https://g0v.hackmd.io/51wwLHgvSUqtBDaP-yAVnA#Alternative-Implement-using-Cloudflare-Zero-Trust) 
+
+- Add service token first to LINE bot
+- Add service token to rumors-site & community builder after their rewrite
+- Make announcement that we are going to enforce service token & remove `api.cofacts.g0v.tw`
+- Apply access policy that blocks requests without service tokens
+
 
 ### URL resolution
 

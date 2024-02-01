@@ -64,3 +64,8 @@ title: nonprofit-helper 0st meeting
 - [x] 設定 OpenAI API orgnization and charge credit
 
 ## **DDay from now: 30 days left**
+
+
+## issues
+- 疑似：法規資料若以 GPT-4  and assistant api 做 retrieval token 數會超多
+    - 要考慮改用 chat completion and embedding
