@@ -48,7 +48,11 @@ Rentea 為 g0v 社群專案之一，其子專案「長租剛好 - 永續租屋�
 
 2022 年，Rentea 共同創辦人 ddio 在永和租了一間房子。他從高雄搬到台北租屋將近 20 年，這次是第七次租房的經歷，但跟以往有點不同——這是 Rentea 社群「第一間房子」專案的實驗過程。透過五年長期租約、房客需要自己裝修等條件，租金可以獲得折扣，體驗長租時會遇到的眉眉角角。
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d697f16ff8888d23d9602b642df3e3d9.jpeg)
+
 「第一間房子」的特色在於租屋規劃完全都是社群協作，有社群共筆，裝潢時還開放社群前來監工，一起拆除地板的舊磁磚。「過去大家會覺得租房子是可以過、暫時就好的狀態，這個專案希望讓大家更了解要怎麼設計租屋服務、要做什麼事情、要花多少錢」，ddio 解釋。
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d79451c6e112ace0776e5451c31e2e2e.jpeg)
 
 有資工背景的 ddio，從 2012 年開始就是 g0v 參與者。他的興趣廣泛，涉獵議題包含文化資產、性別、勞工議題。碰到都市發展後，ddio 發現租屋議題缺乏居住者的聲音，不只租屋網站是為房東所設計，管委會的參與、都更、社區營造等，權利義務都落在房東的身上，才成立 Rentea 社群。
 
@@ -68,7 +72,16 @@ Rentea 為 g0v 社群專案之一，其子專案「長租剛好 - 永續租屋�
 
 另外，評審指出技術研究的重要性，以及他們提出專案要將研究成果整理成模組化的內容，才能使專案協助到更多潛在的長租客的建議，也幫助 ddio 釐清專案走向。ddio 認為零時小學校的存在，可以讓更多人知道開源協作究竟是什麼樣子，串連不同社群，給大家變得更好，也讓更多有趣的專案繼續發生。
 
+:::info
+* Rentea 協作記錄：https://g0v.hackmd.io/@ddio/rentea-tue
+* Rentea「第一間房子」實驗歷程記錄：https://hackmd.io/@ddio/r1xJcNcB9
+* Rentea「長租剛好」：https://g0v.hackmd.io/@ddio/appropriate-rental-housing
+* g0v Underground 零時電台｜EP 7 - 運用開源社群力打造理想租屋環境 — Rentea ft. ddio, aniii, ichieh, analeigh：https://bit.ly/g0vUndergrounds1e7
+* g0v Underground 零時電台｜EP 23 - 讓租屋邁向低風險的居住選擇可以怎麼做？：Rentea 長租剛好 ft. ddio, PN, tiff：https://bit.ly/g0vUndergrounds1e23
+:::
+
 <br/>
+
 ## 🔹 Lipoic 來品一課
 
 :::warning
