@@ -85,4 +85,4 @@ Both solution has no GCP support.
 
 - Has `$vectorSearch` and `$search` aggregation operator.
 - `$search` runs Lucene, thus supports Elasticsearch-like queries such as `more_like_this`.
-- MongoDB Atlas only featuyre; not available on the community version and self-hosted MongoDB.
+- MongoDB Atlas only feature; not available on the community version and self-hosted MongoDB.

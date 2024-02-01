@@ -1,6 +1,18 @@
 # **FastLED 3.0 addition**
 
 # Function: 
+* 功能表: 
+    1. 單一顏色
+    2. 色差固定的變色 rainbow
+    3. 由長度控制的所有(包括first_LED & last_LED)色差固定的 rainbow
+    4. 顏色漸層
+    5. 
+
+
+
+
+
+
 1. fill_solid()
     
     功能: 將LED填滿單一顏色.(長度可調整)
@@ -15,11 +27,11 @@
   CRGB :: Blue = 顏色，用CRGB、CHSV都可以
     
     **tip:**
-    *      要記得在填完顏色後用FastLED.show();顯示.
+
     *      fill_solid(leds,numLED , CRGB::Black);可以清空所有LED的顏色.
         `p.s. numLED = 放入燈條上LED數`
 
-    *      leds的名稱目前不能改變(未探討，應該與leds[NUM_LEDS];有關).
+
     *      用CRGB、CHSV的顏色時可以用設定好的顏色.
     (但不能GRGB :: 自訂義顏色名)
     
@@ -35,9 +47,7 @@
   10 = 第一個LED的色調
   20 = 之後相鄰LED之間的色調差
     
-    **tip:**
-    *      要記得在填完顏色後用FastLED.show();顯示.
-    *      leds的名稱目前不能改變(未探討，應該與leds[NUM_LEDS];有關).
+    
 
     **test:**
     ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7c7a4dcf43c753008a647cb019051ed1.png)
@@ -45,16 +55,71 @@
     
 3. fill_rainbow_circular ()
     
-    功能: 將LED填滿不同顏色，相鄰LED有相同的色差值，且燈帶末端和開頭之間的色調是連續的.(可調整長度、是否reversed顛倒)
+    **功能:** 將LED填滿不同顏色，相鄰LED有相同的色差值，且燈帶末端和開頭之間的色調是連續的.(可調整長度、是否reversed顛倒)
     
     ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7ebda746b30ab5b8027a663bab818404.png)
 
     **test:**
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5a062d1bba92540708001b98797dde14.png)
+    **p.s.** 從橘色燈開始順時鐘方向LED編號為0, 1, 2, 3...
+4. fill_gradient()
+    
+    **功能:** 在LED_A(顏色1)到LED_B(顏色2)之間的LED，做出顏色1~顏色2的漸層.
+    ![image](https://hackmd.io/_uploads/ByYKNMKqa.png)
+    **ex.** fill_gradient( leds+i , 7 ,  CHSV(20,255,255) , CHSV(100,255,255) ,  FORWARD_HUES );
+    
+
+    i = LED編號，漸層**開始**的LED(第一個LED編號為0)
+    7 = 顏色漸層要進行的長度
+    CHSV(20,255,255) = 漸層**開始**的LED的顏色
+    CHSV(50,255,255) = LED編號，漸層**結束**的LED
+    CRGB :: Purple = 漸層**結束**的LED的顏色
+    
+    
+    FORWARD_HUES: hue always goes clockwise
+    BACKWARD_HUES: hue always goes counter-clockwise
+    
+    **test:**
+    ![image](https://hackmd.io/_uploads/S162sGKc6.png)
+
+    
+    **tip:**
+
+    *    漸層**開始** 的LED的顏色Hue值不一定要<漸層**結束**的LED的顏色Hue值.
+    
+    
+6. fill_gradient_RGB()
+
+    **功能:** 在LED_A(顏色1)到LED_B(顏色2)之間的LED，做出顏色1~顏色2的漸層.
+    ![image](https://hackmd.io/_uploads/BydHEzKca.png)
+
+    
+    
 
 
+    **ex.** fill_gradient_RGB ( leds , 0 , CRGB :: Blue , 7 , CRGB :: Purple );
+    leds = LED燈數量的陣列.
+    ( leds的名稱目前不能改變，應該與leds[NUM_LEDS];有關. )
+    
+    0 = LED編號，漸層**開始**的LED.
+    CRGB ::Blue = 漸層**開始**的LED的顏色.
+    7 = LED編號，漸層**結束**的LED.
+    CRGB :: Purple = 漸層**結束**的LED的顏色.
+    
+    **test:**
+    ![image](https://hackmd.io/_uploads/B1tLzGFca.png)
 
+
+    
+     
+    
 # Other:
 
 1. leds[NUM_LEDS];  可能為初始化LED陣列的函式
 
+# tip:
+    *      要記得在填完顏色後用FastLED.show();顯示.
+    
+    *      leds的名稱目前不能改變(未探討，應該與leds[NUM_LEDS];有關).
+    
+    *     
