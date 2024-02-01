@@ -8,3 +8,8 @@
 
 這邊在講區塊鏈有哪些組件
 1. Transactions
+就是講說Local跟local間的聯絡就叫做交易紀錄這樣。後面就是解釋性定義。
+2. Home Miners
+
+3. Local BC
+4. Local Storage
