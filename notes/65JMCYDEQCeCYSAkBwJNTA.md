@@ -10,6 +10,7 @@ We collect enhancements to API server here.
 
 ### Better multimedia support
 - Video & audio thumbnail generation https://github.com/cofacts/rumors-api/issues/326
+- Video metadata https://g0v.hackmd.io/aJqHn8f5QGuBDLSMH_EinA#How-to-extract
 - Reduce STT hallucination https://github.com/cofacts/rumors-api/issues/322
   - 遇到圖片、影片：請 gemini 多模態 model 描述圖片影片、產生關鍵字，有助於關鍵字搜尋 / 搜尋類似影片
 

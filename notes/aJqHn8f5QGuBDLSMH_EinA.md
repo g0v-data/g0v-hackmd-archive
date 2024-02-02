@@ -132,6 +132,7 @@ Multimodal embeddings (image / text embedding)
     - 文字搜尋上，embedding 是否有比 bm25 好或好多少，要看 Cofacts dataset 決定
     - 即使圖片影片中沒有文字可 OCR，有錯的通常是在圖說。這樣一來，[surrounding text](https://g0v.hackmd.io/@cofacts/rd/%2Ff_Ze19PhQuqx_fzOAOkohQ) 又比 vector search 重要。
 
+
 ## File storage & hosting
 
 ### Google drive
@@ -351,6 +352,13 @@ Following up above info, we can extend OCR to other metadata, and further discus
             - Implemeting one will have the same complication as the previous solution
         - Extraction is made again and again for even the same binary
             - Limits the methods we use in extraction in terms of cost; only choice for OCR may be tesseract.js
+
+#### How to extract
+
+[Google Video Intelligence API](https://cloud.google.com/video-intelligence/docs/annotate-video-command-line?hl=en)
+- [Visualizer](https://github.com/ZackAkil/video-intelligence-api-visualiser)
+- [Pricing](https://cloud.google.com/video-intelligence/pricing?hl=en) ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6a8efe71436885d9632f297491c64d1a.png)
+
 
 
 ### Video summarization for thumbnails
