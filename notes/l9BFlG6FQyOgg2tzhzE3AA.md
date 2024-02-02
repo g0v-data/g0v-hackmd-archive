@@ -21,6 +21,31 @@ There is some interesting information hidden around this site http://mercury.pic
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_deb4040da9c3167a47e21cf2ea76b716.png)
 - ans:picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_35844447}
 
+## Some Assembly Required 1
+http://mercury.picoctf.net:37669/index.html
+- 點進連結
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_781951bfabd8b231547a0fa6805d6da4.png)
+- 先隨意輸入
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c80c95c1c10fb97c82f94af336f34ea6.png)
+- 按F12到NETWORK，重整後會發現G82XCw5CX3.js
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_afa07f07158db972490b65e21e395709.png)
+- 在G82XCw5CX3.js裡re ./JIFxzHyW8W應該是跟目錄的一些檔案，下載該文件
+```
+wget http://mercury.picoctf.net:55336/JIFxzHyW8W
+```
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ade6527862bfa5b7c72ac2c03d58f447.png)
+- ANS:picoCTF{51e513c498950a515b1aab5e941b2615}
+
+## The Numbers
+The numbers... what do they mean?
+- 把numbers下載後打開，發現一串數字
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b92105aba29b9dfd4bd9f0f7efed5359.png)
+- 依照以往flag前面會是picoCTF的數字
+- 英文排序位置剛好對應到圖片上的數字
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_86894d798f9dd82454c2fdb6ef956ab8.png)
+- ans:picoCTF{thenumbersmason}
+
+
 
 
 
