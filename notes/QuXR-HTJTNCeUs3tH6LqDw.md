@@ -5,7 +5,22 @@ tags: 115B實驗室, 永續所得實驗室
 
 ![7th Co-Working Open Day & Idea Hack](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f1d65d4f4b4646ada36e7180014b2bbd.png)
 
+---
 
+**1. 場地佈置、主要活動、場地復原等時段規劃**
+* 9:00-9:15 場地佈置
+* 9:15-16:00 入場、活動開始
+* 16:00-16:30 清場
+* 16:30-17:00 場地復原
+
+**2. 參與人員人數、所需器材、收費狀況**
+* 預計參與人員人數：25人
+    * 工作人員5人
+    * 參與者20人
+* 所需器材：現有設備＋延長線X5（如沒有亦可）
+* 收費狀況：免費
+
+---
 各位關注再生經濟以及115B實驗室的夥伴們，
 
 115B 實驗室第七次的 Co-Working Office Open Day，要來啦。
