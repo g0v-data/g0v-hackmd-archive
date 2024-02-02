@@ -124,3 +124,4 @@ B. 跟蹤情境設計
 同時轉彎情境（Simultaneous Turn Scenario）：兩名居民同時轉彎。
 
 這些情境的目的是故意引起無縫傳感器的混淆，以證明有縫傳感器可以提供校正信息，從而改善無縫傳感器的估算結果。圖中展示了每種情境的原始路徑，無縫傳感器的估算結果以及有縫傳感器提供的校正結果。通過這種合作，可以實現無縫和有縫設備之間的相互合作。
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2f6a092d984eaaf84ed9b2b69431067d.png)
