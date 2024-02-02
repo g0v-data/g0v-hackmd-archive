@@ -484,5 +484,14 @@ Opass 教學
 - 鏡頭保護蓋
     - logo要畫什麼？
         - [報價用穿山甲](https://drive.google.com/file/d/1RzbyPk1IfsnYS1PZcwqMN5dGo9guSpqk/view?usp=sharing)
-    - 已向[宏正實業有限公司](https://www.pinsmfg.com/main/list/special-gift/webcam-cover.html)重新詢問報價(
+    - 已向[宏正實業有限公司](https://www.pinsmfg.com/main/list/special-gift/webcam-cover.html)重新詢問報價
+
+## 20240202 第十五次會議紀錄
+> 時間：2024/1/28（日） 4:00 PM
+> 地點：線上
+> 出席：Dong、Hou、
+
+
+
+
 
