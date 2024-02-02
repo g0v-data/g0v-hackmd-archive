@@ -98,7 +98,7 @@ Chaweng Beach 查汶海灘
 > 1. [鄭王廟](https://bkk.com.tw/wat-arun/) 08:00-18:00（用餐時間若衝突，先去海鮮市場再來）30m
 
 > Thonburi Market Place（吞武里海鮮市場） 07:00-20:00 1h30m
-Siam Paragon [SEA LIFE](https://www.klook.com/zh-TW/activity/357-sea-life-bangkok-ocean-world-bangkok/)（曼谷海洋世界/[官網] 3h (https://www.visitsealife.com/bangkok/ch/what-s-inside/)） 10:00-20:00
+Siam Paragon [SEA LIFE](https://www.visitsealife.com/bangkok/ch/plan-your-visit/before-you-visit/attraction-map/)（曼谷海洋世界/[官網] 3h (https://www.visitsealife.com/bangkok/ch/what-s-inside/)） 10:00-20:00
 回飯店：[BTS] Sukhumvit線（CEN 2號月台 - N02）13m
 
 > 早餐：飯店 06:00-11:30
