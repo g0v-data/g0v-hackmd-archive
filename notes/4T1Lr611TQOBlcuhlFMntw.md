@@ -1,3 +1,4 @@
+###### tags: `linevbot 快速建立`
 ### 1. 建立 linebot 帳號
 * #### [LineDevelopers](https://developers.line.biz/console/?status=success)
 ### 2. 建立 linebot 後端
