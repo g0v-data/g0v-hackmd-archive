@@ -33,7 +33,7 @@ We want to discuss measures for both governmental and civil department, that can
 各次小松
 ---
 `Latest` 
-- [202402XX DigiResiTh3n 第參次](/Xt7FoiZgTYq-7x20iNGN4A)
+- [20240224 DigiResiTh3n 第參次](/Xt7FoiZgTYq-7x20iNGN4A)
 - [20240120 DigiResiTh2n 第貳次](/iC-7ZtqJTqG75GxUY3aiAQ)
 - [20231230 DigiResiTh1n 第壹次](/mKkOC9PLSXi0GZg7uGm1xA)
 - [20231104 DigiResiTh0n 第零次](/oyNRfe4lTuaZ5RbcPSS7TQ)
@@ -49,3 +49,4 @@ Other
 ---
 - [bootstrap and 參考資訊們](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/Qc8gsyY-Rn-4lXUA1gLH1g)
 - [民防相關證照](/B-ky08JbR4-HD3lFDwynLQ)
+- [logistics of DigiResiTh0n](/e6rWxnppQmuSpUxcoXzoHw)

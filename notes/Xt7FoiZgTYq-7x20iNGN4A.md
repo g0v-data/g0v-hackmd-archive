@@ -37,9 +37,11 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 ## 時間地點
 
-- 日期未定 
-- 時間未定
-- 地點未定
+- Feb. 24 2024 Sat. 
+- 1300 - 1700（UTC+8）
+- [NPO HUB Taipei 台北NPO聚落](https://maps.app.goo.gl/XPrvzSdqgszbfRBV8) 4F 廚房
+    - [「如何入場」及場地使用規定](/9pwDPOXLTr6IJKiLofl3qg)
+
 
 ## 提案區
 歡迎自由編輯～
