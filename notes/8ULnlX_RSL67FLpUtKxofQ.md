@@ -28,6 +28,7 @@ Holiday Inn Resort Samui
 
 ### Day 2 (2/4 週日)
 Bophut Beach 波普海灘
+下午：卡丁車 
 Fisherman’s Village（夜市）
 
 

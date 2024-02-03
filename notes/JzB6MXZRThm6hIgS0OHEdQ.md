@@ -18,6 +18,9 @@ Contributor:
     - ying
 - supaplextw 協助找到消防署釋出的全台資料集 & 分享 OpenStreetMap 過去有整合過一次防災避難收容點位資料
 - hwan 分享韓國的 Shelter 查詢網頁，以及用詞建議 "대피소" 也分享韓國政府資料開放平台上避難所的 API 釋出網頁，並且彙整靜態資料 csv (2024.01)
+
+Doc
+- https://g0v.hackmd.io/@waytosafety/home/
 :::
 
 :::warning
