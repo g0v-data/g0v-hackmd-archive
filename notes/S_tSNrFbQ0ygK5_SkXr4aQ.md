@@ -25,7 +25,7 @@ Additional details will be available after launching your challenge instance.
 ## HideToSee
 How about some hide and seek heh?
 Look at this image here.
-
+[steghide](https://seamiloak.github.io/2020/08/24/Steghide%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%E5%8F%8A%E5%85%B6%E5%AF%86%E7%A0%81%E7%88%86%E7%A0%B4/)
 hint:Download the image and try to extract it.
 - 下載圖檔
 ```
@@ -42,3 +42,16 @@ steghide extract -sf atbash.jpg
 - 推測是透過atbash
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2d8eb996e11fc13f924fe647fe054422.png)
 - ans:picoCTF{atbash_crack_1f84d779}
+
+## find me
+Help us test the form by submiting the username as test and password as test!
+Additional details will be available after launching your challenge instance.
+- 利用burp suite打開網站後 輸入test、test!
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7ecdac5fb22c8e8dc417f0e302f937dd.png)
+- 在login頁面的response可看到id=cGljb0NURntwcm94aWVzX2Fs
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_475a687bf0df28007ec8b2448dffa654.png)
+- 提示說「有重定向嗎？」，進入登入畫面後，burp suite有收到兩個next page，另一個的id與上一個不同，id=bF90aGVfd2F5X2RmNDRjOTRjfQ==
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3bd0d6a4d4c3823633109c3c8fb863e0.png)
+- 將這兩個id合併(cGljb0NURntwcm94aWVzX2FsbF90aGVfd2F5X2RmNDRjOTRjfQ==)進行base64解碼
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_24668d8473c859ec32c4f8f04a5baf2d.png)
+- ans:picoCTF{proxies_all_the_way_df44c94c}
