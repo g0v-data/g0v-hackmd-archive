@@ -315,7 +315,7 @@ Wikipedia rules
 
 [Google cloud vision API](https://cloud.google.com/vision/docs/ocr?hl=zh-tw)
 - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ba39a2e37de4637d36cec59ecbd1851d.png)
-
+- Support local image (local file name / base65 encoded string)
 
 #### When to apply OCR
 - when image search yields no hit?
@@ -356,10 +356,12 @@ Following up above info, we can extend OCR to other metadata, and further discus
 #### How to extract
 
 [Google Video Intelligence API](https://cloud.google.com/video-intelligence/docs/annotate-video-command-line?hl=en)
+- API: 
 - [Visualizer](https://github.com/ZackAkil/video-intelligence-api-visualiser)
 - [Pricing](https://cloud.google.com/video-intelligence/pricing?hl=en) ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6a8efe71436885d9632f297491c64d1a.png)
-
-
+- [Test result analysis](https://docs.google.com/spreadsheets/d/1wU1kqIiNPsIjb9OeaMxCnbYv2hfGP-0rvXCYAaD9qh0/edit#gid=0)
+  - [Colab](https://colab.research.google.com/drive/18vFKlut5HBanhd-mLagD4ug-oE9F8nlt)
+  - Result files: `gs://cofacts-transcriptions-test/video-intelligence`
 
 ### Video summarization for thumbnails
 

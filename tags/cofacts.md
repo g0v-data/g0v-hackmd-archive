@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [API & Database enhancements](../notes/65JMCYDEQCeCYSAkBwJNTA.md) | 2024-02-03T01:51:07+08:00 | 2024-01-31T18:23:41+08:00 |
-| 2 | [Cofacts multimedia support research](../notes/aJqHn8f5QGuBDLSMH_EinA.md) | 2024-02-03T01:39:07+08:00 | 2021-08-26T01:31:40+08:00 |
+| 1 | [Cofacts multimedia support research](../notes/aJqHn8f5QGuBDLSMH_EinA.md) | 2024-02-04T23:00:01+08:00 | 2021-08-26T01:31:40+08:00 |
+| 2 | [API & Database enhancements](../notes/65JMCYDEQCeCYSAkBwJNTA.md) | 2024-02-03T01:51:07+08:00 | 2024-01-31T18:23:41+08:00 |
 | 3 | [20240125 會議記錄](../notes/4HVFW0ivS-e9QfArzzOFiA.md) | 2024-01-25T20:45:25+08:00 | 2024-01-23T13:10:34+08:00 |
 | 4 | [20240117 會議記錄](../notes/wg2iF9fARBCREZ1gTauvUw.md) | 2024-01-17T20:33:45+08:00 | 2024-01-17T14:43:10+08:00 |
 | 5 | [Cofacts・台灣選務謠言筆記 hackath60n 協作頁面](../notes/TnZpbsAeT1GGPcTStcl8Kw.md) | 2024-01-06T16:17:09+08:00 | 2024-01-06T00:46:57+08:00 |

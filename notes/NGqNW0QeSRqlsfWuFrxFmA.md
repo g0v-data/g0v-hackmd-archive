@@ -6,7 +6,7 @@
     2. 色差固定的變色 rainbow
     3. 由長度控制的所有(包括first_LED & last_LED)色差固定的 rainbow
     4. 顏色漸層
-    5. 顏色漸層
+    5. 體溫改變顏色
 
 
 
@@ -65,43 +65,21 @@
     **功能:** 將LED填滿不同顏色，相鄰LED有相同的色差值，且燈帶末端和開頭之間的色調是連續的.(可調整長度、是否reversed顛倒)
     
     ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7ebda746b30ab5b8027a663bab818404.png)
+    
+    **ex.** `fill_rainbow_circular( leds+i , 5 , 10, false);`
+        
+    **用法:**
+  leds+i = LED陣列位移i單位，i為+/-都可.  = 從第i+1個LED開始.(第一個LED編號0)
+    (與 `CRGB leds[NUM_LEDS];` 有關)
+    
+      2 (數字) = 要填滿多少個LED(長度)
+      10 = 第一個LED的色調
+      false = reversed(反轉)開關，可以放入true / false
 
     **test:**
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5a062d1bba92540708001b98797dde14.png)
-    **p.s.** 從橘色燈開始順時鐘方向LED編號為0, 1, 2, 3...
-    
-    
-    
-    
-    
-    
-    
-    
+    ![螢幕擷取畫面 2024-02-04 220647](https://hackmd.io/_uploads/ryQOsGT9T.jpg)
 
     
-    
-    
-    
-g)
-
-    
-    
-    
-
-    
-    
-
-    
-    
-    
-
-
-    
-    
-
-
-
-
 4. fill_gradient() & fill_gradient_RGB()
     
      **功能:** 在LED_A(顏色1)到LED_B(顏色2)之間的LED，做出顏色1~顏色2的漸層.(最多可以支援到3次漸層變換)
@@ -154,11 +132,6 @@ g)
     
     **test1**
     ![image](https://hackmd.io/_uploads/S162sGKc6.png)
-
-
-
-===========================================
-
 5.  HeatColor()
 
     **功能:** 透過熱量控制燈的顏色.
@@ -187,8 +160,7 @@ g)
 
 `
 # **Q.**
-Q1. 要釐清到底是長度還是LED陣列內的位置
-Q1.1 fill_circular
-Q2. 要釐清在漸層function裡面短的那個函示起點是哪個控制的.
-Q3. 要整理筆記
-Q4. 要合併筆記
+Q1. 釐清是長度還是點  v
+Q2. fill_rainbow_circular();
+Q3. 整理筆記               v
+Q4. 要合併筆記 v
