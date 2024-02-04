@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Cofacts multimedia support research](../notes/aJqHn8f5QGuBDLSMH_EinA.md) | 2024-02-04T23:45:53+08:00 | 2021-08-26T01:31:40+08:00 |
+| 1 | [Cofacts multimedia support research](../notes/aJqHn8f5QGuBDLSMH_EinA.md) | 2024-02-05T01:47:35+08:00 | 2021-08-26T01:31:40+08:00 |
 | 2 | [20231108 會議記錄](../notes/oz-49rOSSPW3J8AbG0yRSA.md) | 2024-02-04T23:08:46+08:00 | 2023-11-08T12:55:10+08:00 |
 | 3 | [API & Database enhancements](../notes/65JMCYDEQCeCYSAkBwJNTA.md) | 2024-02-03T01:51:07+08:00 | 2024-01-31T18:23:41+08:00 |
 | 4 | [20240125 會議記錄](../notes/4HVFW0ivS-e9QfArzzOFiA.md) | 2024-01-25T20:45:25+08:00 | 2024-01-23T13:10:34+08:00 |

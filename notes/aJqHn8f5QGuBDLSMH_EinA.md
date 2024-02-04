@@ -332,6 +332,7 @@ Following up above info, we can extend OCR to other metadata, and further discus
 - metadata like duration in https://g0v.hackmd.io/@cofacts/rd/%2FC8dW2cFiR1-N5Z0wcOefuA
 - OCR text for video and image
 - [multimodal embeddings / feature vectors](#Vector--embedding-based-similarity)
+- For video, we can extract screenshot with shot detection, which can be helpful to search for similar video and search engine optimization.
 
 #### When to extract
 - After ID is extracted by media manager?
