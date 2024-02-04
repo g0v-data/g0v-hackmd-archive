@@ -42,7 +42,7 @@ GA: UA-98468513-3
     - 訊息、類似訊息、類似訊息的回應
     - 初步分析結果
     - Fact check organization (custom search engine) search result
-    - 以圖找圖
+    - [以圖找圖](https://cloud.google.com/vision/docs/detecting-web)
 - LINE 使用者、查核協作者可用自然語言與 fact check assistant 互動
     - 提供線索
         - 爬取網址內容

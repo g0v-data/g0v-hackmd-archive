@@ -160,7 +160,8 @@
 
 `
 # **Q.**
+Q0. leds??? v
 Q1. 釐清是長度還是點  v
-Q2. fill_rainbow_circular();
+Q2. fill_rainbow_circular();  v
 Q3. 整理筆記               v
 Q4. 要合併筆記 v

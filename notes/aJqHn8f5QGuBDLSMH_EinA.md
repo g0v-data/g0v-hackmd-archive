@@ -315,7 +315,8 @@ Wikipedia rules
 
 [Google cloud vision API](https://cloud.google.com/vision/docs/ocr?hl=zh-tw)
 - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ba39a2e37de4637d36cec59ecbd1851d.png)
-- Support local image (local file name / base65 encoded string)
+- [Support](https://googleapis.dev/nodejs/vision/latest/v1.ImageAnnotatorClient.html#documentTextDetection) local image (local file name / base64 encoded string) and remote file (gcs or URL; currently in use)
+- Supports Google image search via [web entity & pages detection](https://cloud.google.com/vision/docs/detecting-web)
 
 #### When to apply OCR
 - when image search yields no hit?
@@ -356,7 +357,12 @@ Following up above info, we can extend OCR to other metadata, and further discus
 #### How to extract
 
 [Google Video Intelligence API](https://cloud.google.com/video-intelligence/docs/annotate-video-command-line?hl=en)
-- API: 
+- API
+  - [shot change detection](https://cloud.google.com/video-intelligence/docs/analyze-shots)
+  - [recognize text](https://cloud.google.com/video-intelligence/docs/text-detection)
+  - Also support [base64 content](https://cloud.google.com/video-intelligence/docs/base64)
+    - However, using it at query time may not be practical, because we need to ingest whole video to generate base64 string
+    - If we just take first 10 second, we can just take the screenshot of 5th second and [OCR](https://g0v.hackmd.io/wkx286lmTDaFUpgRhnUawQ?both#OCR) ($1.5 per 1000 pics) instead, no need for Video Intelligence API
 - [Visualizer](https://github.com/ZackAkil/video-intelligence-api-visualiser)
 - [Pricing](https://cloud.google.com/video-intelligence/pricing?hl=en) ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6a8efe71436885d9632f297491c64d1a.png)
 - [Test result analysis](https://docs.google.com/spreadsheets/d/1wU1kqIiNPsIjb9OeaMxCnbYv2hfGP-0rvXCYAaD9qh0/edit#gid=0)
