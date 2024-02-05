@@ -27,11 +27,14 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #taichung 台中討論群組！
 #nantou-南投 南投討論群組！
 #hualien 花蓮討論群組！
+#kinmen-金門 金門討論群組！
 #matsu 馬祖討論群組！
 #你不知道的小琉球 小琉球討論群組！Liuqiu
 #hk https://github.com/g0vhk-io
 #hkpwparagliding 飛行傘計畫
 #thai-ภาษาไทย 泰國頻道
+#nepali-नेपाली
+#australia
 #north-america 想在美國協作的可以來這邊聊天喔！
 #g0v-siliconvalley g0v 矽谷灣區小聚
 #london-hacknight 倫敦
@@ -80,7 +83,6 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 　
 #moedict 萌典、字典
 #amis 阿美語萌典
-#sowalnoformosa 族語復振
 #itaigi	愛台語 對漢字佮台羅誠熟手，做伙鬥校對巡喲
 #chhoetaigi ChhoeTaigi 台語辭典⁺
 #edu 零時小學校「開源協作與教育工作」主頻道
@@ -92,6 +94,8 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #edu-coteach CoTeach 教案資源共享平臺
 #edu-open CourseAPI 開放式課程資訊匯流學院
 #edu-lipoic Lipoic 是一個致力於整合與改善遠距授課與線上教室的教育平台，並讓學生能不受空間限制學習知識，老師能更便利地傳授知識，並且我們也熱衷於開放文化的精神，與我們一起翻轉教育吧！
+#open-student-org 
+#ez-shift 
 #edu-高中社團招商 社團招商與管理專案
 #edu-stressed 壓力排解平臺專案
 #edu-高中歷史筆記共筆 高中歷史筆記共筆
@@ -112,6 +116,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #edu-unicourse 大學課程資訊交流平臺
 #edu-ntu 臺大相關課程活動的頻道
 #edu-東吳大學車禍及租賃糾紛案件查找平台
+#ux
 #designer 設計師頻道
 #frontend-tech
 #vue
@@ -120,6 +125,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #ai-learning 
 #llm4myhometown
 #opentaiwan-chatgpt 
+#zen-gpt
 #coscup 開源人年會
 #obs 開源跨平台串流媒體和錄影程式 obs 技術交流頻道
 #band 零時樂團 🎼
@@ -167,6 +173,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #thaubing-esg 開放企業永續資料庫 - ESG 檢測器
 #thaubingapp 透明足跡 - 資訊公開透明，污染無所遁形
 #labor 討論跟勞工相關的公民議題
+#nonprofit-helper
 #ptt ptt 不能亡，新版本測試中
 #likecoin
 #web3-da0 零時道 :cat: Supercharge g0v & the future of civic innovation w/ DAO, web3, etc. https://da0.g0v.tw/
@@ -190,18 +197,18 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #vaccine 疫苗相關
 #vaxxtw 疫苗預約的導流網站
 #reopen 疫情解封後指引
-#rentea	租屋資料與議題
+#civil-defense 民防
+#adiz_alerts 台灣防空識別區專案
+#cd-t-time 民防下午茶
+#atak 探討 ATAK-CIV 手機軟體應用於防災、民防、戶外任務情境
+#disaster-go 任務化提升台灣防災準備
 #gis 地理資訊、地理資料 🌏 Geo-data
+#rentea	租屋資料與議題
 #openlab-mapping Geographic Referencing for Technology Transfer via  Bioregional similarity. Aggregating and associative mapping data.
 #road-safety 人行道行走狀況群眾標註平台
 #ohshown 台灣黑熊通報平台 :bear:
 #cat 協尋喵星人 :cat:
-#civil-defense 民防
-#cd-t-time 民防下午茶
-#atak 探討 ATAK-CIV 手機軟體應用於防災、民防、戶外任務情境
-#disaster-go 任務化提升台灣防災準備
 #aerialmapping	
-#adiz_alerts 台灣防空識別區專案
 #lostsar-openuavlab LostSAR 開源搜救應用
 #libot 市容通報工具 / Linebot
 #disfactory 違章工廠舉報 用 GeoDjango 做 geo spatial query
@@ -210,6 +217,8 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #urbancode 都市計畫 / 都委會會議記錄資料庫
 #poponfire-公有地大行動 公有土地資料與地圖 Public Land Data
 #joinplus-關注公民參與的數位工具
+#carbon
+#river
 #super-agri 超農域，農藥查詢系統，南庄桐花松，農業資料與專案 🌾 Agriculture related projects
 #tree 遙測算樹、圖資找地、倡議種樹 🌳
 #foodlessons 食食課課 從食物連結生活與文化
@@ -238,13 +247,15 @@ https://g0v-slack-archive.g0v.ronny.tw
 - UniCourse 大學課程資訊交流平臺 Discord: https://discord.gg/VtFzwAdrXF
 - Lipoic 遠距授課與線上教室平台 Discord: https://discord.gg/ArKk54ajfr
 - 翻轉歷史! 用Minecraft RPG 學歷史吧! Discord: https://discord.gg/e6vhTq43gs
+- 綠洲計畫 - 特殊選才資訊&經驗分享平台 Discord: https://linktr.ee/lzgh2023
 - 開源星手村 桌遊製作與推廣 Discord: https://discord.gg/SFY2JwdBr9
+- Grapycal 圖形化程式語言 Discord: https://discord.com/invite/adNQcS42CT
 - 中學資訊討論群 CISC Discord: https://discord.gg/cisc
 - 北臺灣學生資訊社群 Discord: https://discord.scint.org/
 - 中部高中電資社團聯合會議 Discord: https://discord.com/invite/neQ7QEUcqe
 - 南臺灣學生資訊社群 Discord: https://discord.gg/6QW6gqhHQe 
 - 伴伴學 Discord: https://discord.gg/azQUs8Y2fY
-- 島嶼 Sowal no Formosa https://discord.gg/wSECrwgqhV
+- 族語復振 Sowal no Formosa https://discord.gg/wSECrwgqhV
 
 ---
 

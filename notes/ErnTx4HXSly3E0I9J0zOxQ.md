@@ -140,6 +140,7 @@ https://www.facebook.com/share/9jkpUvRvNzEFkJbn/?mibextid=WC7FNe
 - 五營
     - 掌潭村 https://eyesonplace.net/2021/01/27/16247/
 - 《台灣傳統都市空間之研究》
+    - https://photos.app.goo.gl/TEhdJTaRMwwk1HCp9
 
 道路網格的起源
 - 日治時期臺灣總督府土木技師濱野彌四郎對臺灣城鄉發展近代化影響之研究 https://hdl.handle.net/11296/6arwby
@@ -178,6 +179,7 @@ https://www.facebook.com/share/9jkpUvRvNzEFkJbn/?mibextid=WC7FNe
 
 財政
 - 各個重劃區基金，名稱待查
+    - https://easymap.land.moi.gov.tw/W10Web/Index
 - 都更基金，街區地區
 
 無號誌路口

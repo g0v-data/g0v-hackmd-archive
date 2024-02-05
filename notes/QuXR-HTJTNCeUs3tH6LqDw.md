@@ -6,6 +6,7 @@ tags: 115B實驗室, 永續所得實驗室
 ![7th Co-Working Open Day & Idea Hack](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c1bff569cff396b1b99d22db1b047d30.png)
 
 ---
+規劃
 
 **1. 場地佈置、主要活動、場地復原等時段規劃**
 * 9:00-9:15 場地佈置
