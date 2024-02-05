@@ -47,23 +47,33 @@
 ## 社群軌
 負責人：yellowsoar
 進度：
-- 已確認：web3 & da0 軌、Cofacts、Rentea
+- 已發布：web3 & da0 軌、Cofacts、Rentea
     - [web3 & da0 命名相關資訊](https://docs.google.com/document/d/1AhY_N0Y2gixg6vzTRxzv4K6IKklUhQca0H5qes_ncwE/edit#heading=h.c6qv0kfgkim1)
 - 尚待確認的是公私協力與學生社群
-- 公私協力：
-    - 負責人：Disfactory [name=Peii]
-    - 原本規劃是經驗分享
-    - 現在正在討論要以 panel 形式進行，探討促成實際改變的因素為何
-- 學生社群：
-    - 負責人：Ted
-    - 目前還在由該軌負責人召集學生參與者中
-    - 上週進度是追蹤是否還有餘力擔下一個 track → 目前看起來可以
-- 第六個目前從缺
-    - 本來是打算找防衛松，但未果
-    - 又想找社群治理，一樣沒有
+    - 公私協力：
+        - 負責人：Disfactory [name=Peii]
+        - 原本規劃是經驗分享
+        - 現在正在討論要以 panel 形式進行，探討促成實際改變的因素為何
+    - 學生社群：
+        - 負責人：Ted
+        - 目前還在由該軌負責人召集學生參與者中
+        - 上週進度是追蹤是否還有餘力擔下一個 track → 目前看起來可以
+
+討論：
+- 從缺的內容可以如何補上
+    - 最終方案：釋出給 open call 
+    - 
 
 ## Unconf 
+負責人：
+進度：
+- 初步規劃已經完成
+- 縮減 unconf 軌的時間，改成社群聚會？
+- 
 
+## 議程助理
+負責人：rayen 
+進度：
 
 ## FNF 進度
 - 進度
