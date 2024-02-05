@@ -2,19 +2,19 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Cofacts multimedia support research](../notes/aJqHn8f5QGuBDLSMH_EinA.md) | 2024-02-05T01:47:35+08:00 | 2021-08-26T01:31:40+08:00 |
-| 2 | [20231108 會議記錄](../notes/oz-49rOSSPW3J8AbG0yRSA.md) | 2024-02-04T23:08:46+08:00 | 2023-11-08T12:55:10+08:00 |
-| 3 | [API & Database enhancements](../notes/65JMCYDEQCeCYSAkBwJNTA.md) | 2024-02-03T01:51:07+08:00 | 2024-01-31T18:23:41+08:00 |
-| 4 | [20240125 會議記錄](../notes/4HVFW0ivS-e9QfArzzOFiA.md) | 2024-01-25T20:45:25+08:00 | 2024-01-23T13:10:34+08:00 |
-| 5 | [20240117 會議記錄](../notes/wg2iF9fARBCREZ1gTauvUw.md) | 2024-01-17T20:33:45+08:00 | 2024-01-17T14:43:10+08:00 |
-| 6 | [Cofacts・台灣選務謠言筆記 hackath60n 協作頁面](../notes/TnZpbsAeT1GGPcTStcl8Kw.md) | 2024-01-06T16:17:09+08:00 | 2024-01-06T00:46:57+08:00 |
-| 7 | [台灣選制、選務謠言筆記](../notes/7gWyvTDYRFuzup1RECnr5A.md) | 2024-01-06T14:53:12+08:00 | 2023-12-08T15:25:01+08:00 |
-| 8 | [20240103 會議記錄](../notes/Oc68Wf3yRIm5UC7IeN6Pcg.md) | 2024-01-05T03:17:32+08:00 | 2024-01-03T02:26:29+08:00 |
-| 9 | [20231228 會議記錄](../notes/vKCvrqSQTlm7GEx9MAXGaw.md) | 2024-01-03T18:44:04+08:00 | 2023-12-27T02:19:54+08:00 |
-| 10 | [20231220 會議記錄](../notes/kxGE_l7XT4ePTO1ljmtNkQ.md) | 2023-12-20T21:11:53+08:00 | 2023-12-20T03:19:13+08:00 |
-| 11 | [20231213 會議記錄](../notes/0Ta4gitcTJCY2Lnwll0qrw.md) | 2023-12-20T19:59:19+08:00 | 2023-12-13T02:32:18+08:00 |
-| 12 | [Cofacts・台灣選務謠言筆記 hackath59n 協作頁面](../notes/I7J17SoFRvWyxRuAecoS1w.md) | 2023-12-09T16:34:51+08:00 | 2023-12-06T03:11:38+08:00 |
-| 13 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2023-12-06T19:45:25+08:00 | 2022-08-05T10:46:53+08:00 |
+| 1 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-02-05T17:05:56+08:00 | 2022-08-05T10:46:53+08:00 |
+| 2 | [Cofacts multimedia support research](../notes/aJqHn8f5QGuBDLSMH_EinA.md) | 2024-02-05T01:47:35+08:00 | 2021-08-26T01:31:40+08:00 |
+| 3 | [20231108 會議記錄](../notes/oz-49rOSSPW3J8AbG0yRSA.md) | 2024-02-04T23:08:46+08:00 | 2023-11-08T12:55:10+08:00 |
+| 4 | [API & Database enhancements](../notes/65JMCYDEQCeCYSAkBwJNTA.md) | 2024-02-03T01:51:07+08:00 | 2024-01-31T18:23:41+08:00 |
+| 5 | [20240125 會議記錄](../notes/4HVFW0ivS-e9QfArzzOFiA.md) | 2024-01-25T20:45:25+08:00 | 2024-01-23T13:10:34+08:00 |
+| 6 | [20240117 會議記錄](../notes/wg2iF9fARBCREZ1gTauvUw.md) | 2024-01-17T20:33:45+08:00 | 2024-01-17T14:43:10+08:00 |
+| 7 | [Cofacts・台灣選務謠言筆記 hackath60n 協作頁面](../notes/TnZpbsAeT1GGPcTStcl8Kw.md) | 2024-01-06T16:17:09+08:00 | 2024-01-06T00:46:57+08:00 |
+| 8 | [台灣選制、選務謠言筆記](../notes/7gWyvTDYRFuzup1RECnr5A.md) | 2024-01-06T14:53:12+08:00 | 2023-12-08T15:25:01+08:00 |
+| 9 | [20240103 會議記錄](../notes/Oc68Wf3yRIm5UC7IeN6Pcg.md) | 2024-01-05T03:17:32+08:00 | 2024-01-03T02:26:29+08:00 |
+| 10 | [20231228 會議記錄](../notes/vKCvrqSQTlm7GEx9MAXGaw.md) | 2024-01-03T18:44:04+08:00 | 2023-12-27T02:19:54+08:00 |
+| 11 | [20231220 會議記錄](../notes/kxGE_l7XT4ePTO1ljmtNkQ.md) | 2023-12-20T21:11:53+08:00 | 2023-12-20T03:19:13+08:00 |
+| 12 | [20231213 會議記錄](../notes/0Ta4gitcTJCY2Lnwll0qrw.md) | 2023-12-20T19:59:19+08:00 | 2023-12-13T02:32:18+08:00 |
+| 13 | [Cofacts・台灣選務謠言筆記 hackath59n 協作頁面](../notes/I7J17SoFRvWyxRuAecoS1w.md) | 2023-12-09T16:34:51+08:00 | 2023-12-06T03:11:38+08:00 |
 | 14 | [Cofacts article group design doc](../notes/f_Ze19PhQuqx_fzOAOkohQ.md) | 2023-12-03T01:13:23+08:00 | 2022-10-04T07:42:45+08:00 |
 | 15 | [20231122 會議記錄](../notes/RRRZSBSKRLCm3fBnHG1j9g.md) | 2023-11-22T20:49:06+08:00 | 2023-11-21T12:49:13+08:00 |
 | 16 | [20231115 會議記錄](../notes/vAUg0WtvTAi0rzJ7E1spnQ.md) | 2023-11-18T13:59:39+08:00 | 2023-11-15T02:28:00+08:00 |

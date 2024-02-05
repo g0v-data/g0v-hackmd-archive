@@ -114,6 +114,10 @@ Note: GCP 發票
 - 田中 https://tscloud.com.tw/product/gcp-billing
 - 宏庭 https://www.microfusion.cloud/news/google-cloud-billing/
 
+:::info
+Update: Cofacts 的 GCP 現在由 Cofacts 在 OCF 的捐款專戶支出，發票問題已經解決。
+:::
+
 ### DDoS defense with Cloudflare
 
 Website

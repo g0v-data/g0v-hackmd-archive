@@ -273,6 +273,7 @@ tags: 學術研究, cowork guideline, g0v, 開源協作手冊, 基礎建設,
 - 布里斯托大學 社會與文化理論碩士畢業論文
   Dissertation : MSc Social and Cultural Theory (University of Bristol)
 - Researcher 研究者 : Chi-Fu Wang 王紀芙 
+- File 論文檔案：[Dissertation_2240730](https://drive.google.com/drive/folders/1Rt_5kbrY0IKrkDGkqQXVEpjk995P2DLG?usp=sharing)
 - Dissertation Topic Outline: 
 
 The research is expected to investigate 'Cross-disciplinary to Cross-cultural Communication in G0V', exploring the culture of g0v as a civic technology community and cross-cultural communication with members of civic communities in other countries.
@@ -282,11 +283,7 @@ The research is expected to investigate 'Cross-disciplinary to Cross-cultural Co
 As the civic technology and open-source collaborative culture of the g0v community grows, exchanges between g0v and the international community are becoming more frequent, opening up many events and meetings with civic technology communities in other countries. This paper will focus on how citizens can integrate and participate in the open-source collaborative culture of g0v, and then how they can reach a consensus and collaborate on specific issues when interacting with members of other countries' civic tech communities beneath the cultural differences.
 
 - **Keywords** - Civic Engagement, Open-Source Collaboration, g0v, Hackathon, Intercultural Communication
-- **Research Methodology** (To be edited)
-(1)Research Design - Qualitative research
-(2)Subjects/Participants - 
-(3)Data Collection Procedure - 
-(4)Data Analysis - 
+
 
 ### Interview on GAFAM and g0v
 

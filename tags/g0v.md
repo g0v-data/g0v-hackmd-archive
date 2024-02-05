@@ -2,13 +2,13 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2024-01-23T12:40:08+08:00 | 2022-09-13T16:41:15+08:00 |
-| 2 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2023-12-28T14:44:04+08:00 | 2018-08-30T15:19:57+08:00 |
-| 3 | [手把手安裝 g0v Slack App](../notes/fKrjZ3BlRfWmQ471wcSdBg.md) | 2023-11-21T15:28:00+08:00 | 2023-11-19T20:29:25+08:00 |
-| 4 | [g0v 社群數位資產永續機制](../notes/4CMXhe1sQvGAcGyU0yMxVQ.md) | 2023-11-08T19:43:56+08:00 | 2023-11-08T19:32:51+08:00 |
-| 5 | [g0v X Won](../notes/_iKE3UIrSVGiURARS5yvVA.md) | 2023-10-31T21:28:28+08:00 | 2023-10-30T16:52:37+08:00 |
-| 6 | [Chihao  X Won](../notes/1XVqXuYJQnOHA1VLGg6IAA.md) | 2023-10-30T16:56:04+08:00 | 2023-10-30T16:19:15+08:00 |
-| 7 | [以 g0v 為主題的學術研究Academic research on g0v](../notes/tpWNQTFvSOS_ZrSt2MiPWg.md) | 2023-10-20T22:39:34+08:00 | 2016-01-09T02:45:16+08:00 |
+| 1 | [以 g0v 為主題的學術研究Academic research on g0v](../notes/tpWNQTFvSOS_ZrSt2MiPWg.md) | 2024-02-05T17:44:39+08:00 | 2016-01-09T02:45:16+08:00 |
+| 2 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2024-01-23T12:40:08+08:00 | 2022-09-13T16:41:15+08:00 |
+| 3 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2023-12-28T14:44:04+08:00 | 2018-08-30T15:19:57+08:00 |
+| 4 | [手把手安裝 g0v Slack App](../notes/fKrjZ3BlRfWmQ471wcSdBg.md) | 2023-11-21T15:28:00+08:00 | 2023-11-19T20:29:25+08:00 |
+| 5 | [g0v 社群數位資產永續機制](../notes/4CMXhe1sQvGAcGyU0yMxVQ.md) | 2023-11-08T19:43:56+08:00 | 2023-11-08T19:32:51+08:00 |
+| 6 | [g0v X Won](../notes/_iKE3UIrSVGiURARS5yvVA.md) | 2023-10-31T21:28:28+08:00 | 2023-10-30T16:52:37+08:00 |
+| 7 | [Chihao  X Won](../notes/1XVqXuYJQnOHA1VLGg6IAA.md) | 2023-10-30T16:56:04+08:00 | 2023-10-30T16:19:15+08:00 |
 | 8 | [⭐ g0v 黑話及語錄](../notes/hosZS2MqRR-JLwhomnDU3w.md) | 2023-10-05T16:16:50+08:00 | 2013-08-06T02:38:11+08:00 |
 | 9 | [線上活動 x 線下活動](../notes/KU07rRgFTHGCRxUB6XrVMQ.md) | 2023-08-12T18:25:17+08:00 | 2019-09-30T21:19:22+08:00 |
 | 10 | [什麼是共筆？如何共筆？](../notes/VH876EtGQhWW8ivUGp0IPA.md) | 2023-06-16T13:38:05+08:00 | 2019-09-30T21:19:34+08:00 |
