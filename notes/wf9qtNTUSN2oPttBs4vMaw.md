@@ -29,10 +29,11 @@
     
 
 
-1. FastLED.addLeds<模組名稱,訊號輸出PIN,GRB>(leds,NUM_LEDS);
+2. FastLED.addLeds<模組名稱,訊號輸出PIN,GRB>(leds,NUM_LEDS);
  
     設定模組名稱(WS2812)、訊號輸出PIN(自訂)、顏色配置(GRB)、NUM_LEDS = LED數量.
-
+    **tip:** 放在void setup(){}裡面.
+    
 # 基礎/前綴FastLED.的函式:
 
 
@@ -195,7 +196,7 @@ FastLED.addLeds<LED_TYPE,DATA_PIN,COLOR_ORDER>(leds, NUM_LEDS)
     ![image](https://hackmd.io/_uploads/BydHEzKca.png)
 
     **不同:** 
-    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d87b6495066c097e2da46f47f71fb1c5.png)
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-pimages/uploads/upload_d87b6495066c097e2da46f47f71fb1c5.png)
 
     **相同:** 
     1. 有2種函式寫法分別為ex1(2點)、ex2(起點+長度)，但ex1的方法只能用於一次漸層，更多次漸層就必修使用到ex2.
@@ -234,7 +235,7 @@ FastLED.addLeds<LED_TYPE,DATA_PIN,COLOR_ORDER>(leds, NUM_LEDS)
     LONGEST_HUES: 長色調過渡
     HORTEST_HUES: 短色調過渡
     
-    **test1**
+    **test**
     ![image](https://hackmd.io/_uploads/S162sGKc6.png)
 5.  HeatColor()
 
