@@ -209,6 +209,8 @@ https://www.facebook.com/story.php?story_fbid=pfbid02Jqb3jWLwz5RhkWUXrzdSRfpNwZn
 
 蠻多地點
 https://www.facebook.com/profile.php?id=100087872438973&mibextid=LQQJ4d
+https://www.facebook.com/share/Qsmip7mmVDMdKftD/?mibextid=WC7FNe
+
 
 新聞整理2022/11-2023/02行人事故整理包一覽
 https://tw.news.yahoo.com/%E8%A1%8C%E4%BA%BA%E5%9C%B0%E7%8D%84-%E6%B1%BD%E8%BB%8A-%E7%A6%AE%E8%AE%93-081034694.html
