@@ -106,8 +106,7 @@ https://www.facebook.com/groups/twroadclub/permalink/2459857794193981/
 https://www.facebook.com/100064848694500/posts/pfbid034o3uSvGYRLSBcVc9t9NgNtctrXNNY6DCaBnDJoJkwden3revpjYk9JVdDrEZaSwCl/
 和美
 https://www.facebook.com/100064848694500/posts/pfbid034vi93Rhx9tqwoKiMRiNb8CQpf4GPGnQ2e1Piby4TQX2d9T4v645GA5R3F9o7E1npl/
-和美六岔路口
-https://www.facebook.com/share/p/pWF928rbKwFJBmtJ/
+
 
 雲林斗六
 https://www.facebook.com/100063760886799/posts/pfbid02KgiKRT3mAruj36EeMgqmLwvH5Ehbf2gxaPxpY5N4ybeej9Ac6xnMfPn9Q9wLnbF3l/?mibextid=cr9u03
@@ -387,6 +386,10 @@ https://www.facebook.com/ReTWRoad/photos/a.144368764239959/294776699199164/?type
 
 彰化市彰南路0k(中山路口)~3k(中彰路口)辦理交通改善
 https://www.facebook.com/watch/?v=642928451144026
+
+彰化和美六岔路口
+https://www.facebook.com/share/nQV1MjrfnfGFFMDP/
+https://www.facebook.com/share/p/pWF928rbKwFJBmtJ/
 
 南投中興新村
 https://www.facebook.com/story.php?story_fbid=pfbid0korrQ5zYKfaga1gMJzHVGdvTn26Aj8ierjQ6H7Do8wVZLA4JM5zPZZFUQP3KeAy7l&id=100063883987874&mibextid=qC1gEa
