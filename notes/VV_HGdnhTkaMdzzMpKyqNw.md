@@ -1,7 +1,7 @@
 Chi phí làm cổng sắt là bao nhiêu? 
 Nếu như bạn có ý định, nhu cầu làm cổng sắt nhưng còn phân vân về chi phí thi công, lắp đặt trọn gói.
 Liên hệ ngay Nhà Việt sẽ chia sẻ cùng bạn báo giá làm cổng sắt tại TPHCM mới nhất nhé!
-
+![](https://xaydungsuachuanhaviet.vn/wp-content/uploads/2023/11/bom-foam-chong-tham-7.jpg)
 Lý do nên làm cổng sắt
 Thi công lắp đặt cổng sắt mang lại nhiều ưu điểm, lợi ích nổi bật như:
 Độ bền cao
@@ -27,4 +27,4 @@ Chi nhánh: 125/42/1 Bùi Đình Tuý , Phường 24 . Quận Bình Thạnh, Tp.
 Hotline: 0937.877.247 - 0937.969.788
 Website : xaydungsuachuanhaviet.vn
 Email: contact@nhaviet.vn
-Tags: công ty chống thấm
+Tags: [công ty chống thấm](https://xaydungsuachuanhaviet.vn/cong-ty-chong-tham.html)
