@@ -2,12 +2,12 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [如何在全新的 Macbook 裝 whisper](../notes/t1B_DdkHTOyqsWiYm0bzAw.md) | 2024-01-17T14:08:32+08:00 | 2023-05-30T17:42:37+08:00 |
-| 2 | [Environmental Design & Computer-Aided 空間規劃設計與 AI 工具](../notes/3dqTVh6SS9a4SIXMT3X1HQ.md) | 2024-01-06T05:28:27+08:00 | 2023-03-25T21:43:44+08:00 |
-| 3 | [RAG](../notes/PAMWvWCiQMykE8ONzvZzEw.md) | 2024-01-05T22:58:54+08:00 | 2023-12-25T12:20:36+08:00 |
-| 4 | [g0v AI 機器人 aka 找專案分類帽](../notes/yOmr3hf7RDypNnAWRnw2gQ.md) | 2023-12-27T19:51:43+08:00 | 2023-03-23T15:47:11+08:00 |
-| 5 | [各機關與大學因應 生成式 AI / ChatGPT 政策與指引](../notes/kayNDqm2RemwG2mfWDGxEQ.md) | 2023-12-18T13:22:40+08:00 | 2023-03-13T23:08:08+08:00 |
-| 6 | [TW-Bench](../notes/LBqPDIUJT5qedcDOm1UEgQ.md) | 2023-12-10T22:33:30+08:00 | 2023-12-09T16:00:00+08:00 |
+| 1 | [TW-Bench](../notes/LBqPDIUJT5qedcDOm1UEgQ.md) | 2024-02-07T10:43:11+08:00 | 2023-12-09T16:00:00+08:00 |
+| 2 | [如何在全新的 Macbook 裝 whisper](../notes/t1B_DdkHTOyqsWiYm0bzAw.md) | 2024-01-17T14:08:32+08:00 | 2023-05-30T17:42:37+08:00 |
+| 3 | [Environmental Design & Computer-Aided 空間規劃設計與 AI 工具](../notes/3dqTVh6SS9a4SIXMT3X1HQ.md) | 2024-01-06T05:28:27+08:00 | 2023-03-25T21:43:44+08:00 |
+| 4 | [RAG](../notes/PAMWvWCiQMykE8ONzvZzEw.md) | 2024-01-05T22:58:54+08:00 | 2023-12-25T12:20:36+08:00 |
+| 5 | [g0v AI 機器人 aka 找專案分類帽](../notes/yOmr3hf7RDypNnAWRnw2gQ.md) | 2023-12-27T19:51:43+08:00 | 2023-03-23T15:47:11+08:00 |
+| 6 | [各機關與大學因應 生成式 AI / ChatGPT 政策與指引](../notes/kayNDqm2RemwG2mfWDGxEQ.md) | 2023-12-18T13:22:40+08:00 | 2023-03-13T23:08:08+08:00 |
 | 7 | [AI Alignment 做伙讀冊](../notes/8uZCVjNnTfy2BLjzd0ekKA.md) | 2023-11-11T17:53:34+08:00 | 2023-05-12T14:29:57+08:00 |
 | 8 | [AI for Good 課程共筆](../notes/a4g4zrtMS3Cf1uspZ0UoHg.md) | 2023-10-31T07:19:41+08:00 | 2023-10-31T07:18:17+08:00 |
 | 9 | [Talk to the City](../notes/9zu4LmpqSSmFkAbFtGrn-Q.md) | 2023-10-27T15:03:34+08:00 | 2023-10-27T14:59:38+08:00 |
