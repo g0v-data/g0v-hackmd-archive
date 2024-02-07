@@ -1,7 +1,7 @@
 ---
 tags: 115B實驗室, 永續所得實驗室
 ---
-# 7th Co-Working Open Day & Idea Hack｜2024.02.23
+# 規劃書：7th Co-Working Open Day & Idea Hack｜2024.02.23
 
 ![7th Co-Working Open Day & Idea Hack](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c1bff569cff396b1b99d22db1b047d30.png)
 
