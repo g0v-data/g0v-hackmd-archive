@@ -24,7 +24,13 @@
 
 # 二、段落重點
 1. 社群經營的重要性
-2. 透過社群經營能獲得什麼？
+馬斯洛需求層次理論中的第三層「社會需求」
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_36e19f72392c11a295491987047d1442.png)
+
+
+
+3. 透過社群經營能獲得什麼？
 業外收入、主業、
 3. 如何快速成為KOL
 WPV原則
