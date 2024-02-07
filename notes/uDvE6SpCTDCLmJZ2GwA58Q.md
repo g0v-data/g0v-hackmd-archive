@@ -23,6 +23,7 @@ tags: 新生流域
     - 倫敦 公共藝術 forgetten stream https://www.facebook.com/share/r/jJLnBtdDXY8eQZ7w/ 
     - 高架橋下 水域活動 http://www.nlarchitects.nl/slideshow/82
     - 輕軌與水景 https://www.facebook.com/share/r/ZemLzcZVzVCff8yh/
+- 中山北路菲律賓族裔生活街區 https://www.facebook.com/share/p/k6ZsETWejBeos2iX/
 - 捷運中和光復線，可能與新生大排重疊 https://www.facebook.com/share/p/vXxeA6Vs8Rm2yqcj/
 - 大龍國小 考古遺址 https://www.facebook.com/share/p/ur8bQUwcWTGofBMi/
 - 標記 20xx 林務局國土綠網三個生態熱區（北端-水域、大安森林公園-水鳥、南端-植被）
