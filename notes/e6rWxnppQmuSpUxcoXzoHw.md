@@ -26,8 +26,14 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 - [x] 開設 KKTIX 售票頁面
 - [x] 把下次共筆的地點位置更新
 - [x] 製作社群圖片和貼文
-- [ ] 將上述社群貼文發佈到 g0v SNS、臉書社團、slack #general
-- [ ] 或許可以考慮開 g0v 後勤中心 facebook event
+- [ ] 將上述社群貼文發佈到 g0v SNS
+    - [x] g0v SNS review submission
+    - [x] g0v SNS review submission approved?
+    - [ ] g0v SNS posted like intended?
+- [ ] 將上述社群貼文發佈到 g0v Facebook Groups（後勤中心）
+- [ ] 將上述社群貼文發佈到 g0v slack #general channel
+- [ ] 將上述社群貼文發佈到 g0v jothon LINE group chat
+- [ ] 或許可以考慮開 g0v facebook groups（後勤中心）event
 - [ ] 透過 KKTIX 寄信給過往曾參與活動且同意發送通知者
 - [ ] 問過往曾提案者下次是否會來～或者是有沒有其他人會幫忙提案
 
@@ -38,4 +44,5 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 
 ## 活動開始
 - [ ] 花三分鐘簡介數位韌性和 g0v CoC
+- [ ] 花五分鐘全場三個關鍵字自我介紹
 - [ ] 拍大合照

@@ -1,6 +1,6 @@
 ---
 tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense,
-image: https://imagedelivery.net/WO_sK8AGsHZbPc2iUuxbgA/fd7890e0-b936-4fc9-020b-31e17ce41500/public
+image: https://imagedelivery.net/WO_sK8AGsHZbPc2iUuxbgA/7a343636-79d9-4544-c94e-6290193c3d00/public
 ---
 
 [👉 用每月一盒披薩的錢，陪伴龍年寶寶 g0v 邁向下一個龍年！👈](https://ocf.neticrm.tw/civicrm/contribute/transact?reset=1&id=30)
