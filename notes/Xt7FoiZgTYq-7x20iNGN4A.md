@@ -1,6 +1,6 @@
 ---
 tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense,
-image: https://imagedelivery.net/WO_sK8AGsHZbPc2iUuxbgA/10270e87-0277-4c35-1339-67941f0c5c00/public
+image: https://imagedelivery.net/WO_sK8AGsHZbPc2iUuxbgA/fd7890e0-b936-4fc9-020b-31e17ce41500/public
 ---
 
 [👉 用每月一盒披薩的錢，陪伴龍年寶寶 g0v 邁向下一個龍年！👈](https://ocf.neticrm.tw/civicrm/contribute/transact?reset=1&id=30)
@@ -18,7 +18,7 @@ image: https://imagedelivery.net/WO_sK8AGsHZbPc2iUuxbgA/10270e87-0277-4c35-1339-
 :::success
 報名流程及注意事項
 1. 當您參與本活動，即代表您已經同意 [g0v 宣言](https://g0v.tw/intl/zh-TW/manifesto/zh-TW/) 並願意遵守 [行為守則 Code of Conduct](https://g0v.hackmd.io/s/COC)。
-2. 請稍待活動日期時間確認後，就會公布報名連結 <!--- 若欲報名活動，請直接在 [KKTIX 報名連結](https://g0v-digiresi.kktix.cc/events/digiresith2n) 逕行報名 --->
+2. 若欲報名活動，請直接在 [KKTIX 報名連結](https://g0v-digiresi.kktix.cc/events/digiresith3n) 逕行報名
 :::
 
 :::warning
@@ -37,7 +37,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 ## 時間地點
 
-- Feb. 24 2024 Sat. 
+- Feb. 24 2024 Sat.
 - 1300 - 1700（UTC+8）
 - [NPO HUB Taipei 台北NPO聚落](https://maps.app.goo.gl/XPrvzSdqgszbfRBV8) 4F 廚房
     - [「如何入場」及場地使用規定](/9pwDPOXLTr6IJKiLofl3qg)
