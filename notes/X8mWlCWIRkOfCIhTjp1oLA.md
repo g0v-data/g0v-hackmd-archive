@@ -381,6 +381,10 @@ https://www.facebook.com/100083131440923/posts/pfbid026vZgX1NoSSJqPwhaTEj69r5dhH
 台中豐原車站
 https://www.facebook.com/100010540774873/posts/pfbid02pWaVhtp7a78DE54cUiXEk6tRHMBM12XJNDwBH2qnaKpJrCXuPSfSM6r5aZgaibEal/
 
+臺中市清水區中山路
+https://www.facebook.com/share/p/PzwiRdy5t61WRBH5/
+
+
 彰化市三角公園
 https://www.facebook.com/ReTWRoad/photos/a.144368764239959/294776699199164/?type=3&mibextid=0cALme
 
