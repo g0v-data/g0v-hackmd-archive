@@ -1,6 +1,6 @@
 ---
 title: 網路治理讀書會
-tags: internet governance, study groups, 讀冊, 讀書會, study group, ICANN, IGF, 網路治理,  共筆, 共同筆記
+tags: internet governance, study groups, 讀冊, 讀書會, study group, ICANN, IGF, 網路治理, 共筆, 共同筆記, intgov
 image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2e2f8e390e205f728e32c47b45df4e8e.jpg
 ---
 
@@ -61,3 +61,6 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 | 2024-01-21 Sun. | Kuo-wei Wu 贊助 |  | + NTD 1,000.0 | NTD 1,245.0 | Paul |  | 
 | 2023-11-19 Sun. | 2023 第一次讀書會餐飲 | - NTD 255.0  |  | NTD 245.0 | Paul | 11 人參與 | 
 | 2023-11-19 Sun. | Kuo-wei Wu 贊助 |  | + NTD 500.0 | NTD 500.0 | Paul |  | 
+
+## logistics
+[intgov study groups logistics](/WDJMfpCUQZqb0NfQT0o04w)
