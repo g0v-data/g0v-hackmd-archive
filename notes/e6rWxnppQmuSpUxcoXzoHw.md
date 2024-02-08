@@ -12,6 +12,10 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 
 # g0v DigiResiThon logistics
 
+:::info
+[↩️ 回到籌備文件](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home)
+:::
+
 ## 確認下次活動時間前
 - [ ] 到頻道上確認大家下個月可以參與的時間（坑主有空的時間優先）
 - [ ] 確認 NPO Hub 4F 廚房是否有空位可以借用

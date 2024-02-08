@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v DigiResiThon logistics](../notes/e6rWxnppQmuSpUxcoXzoHw.md) | 2024-02-08T15:15:27+08:00 | 2024-02-03T15:55:50+08:00 |
+| 1 | [g0v DigiResiThon logistics](../notes/e6rWxnppQmuSpUxcoXzoHw.md) | 2024-02-08T17:32:23+08:00 | 2024-02-03T15:55:50+08:00 |
 | 2 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-02-05T17:05:56+08:00 | 2022-08-05T10:46:53+08:00 |
 | 3 | [g0v DigiResiThon 數位韌性松大全](../notes/mGQcbKRDShmvyeGV74w_0w.md) | 2024-02-03T15:56:28+08:00 | 2023-10-21T11:52:33+08:00 |
 | 4 | [g0v DigiResiTh3n 第參次數位韌性松](../notes/Xt7FoiZgTYq-7x20iNGN4A.md) | 2024-02-03T15:36:18+08:00 | 2024-01-20T16:35:50+08:00 |
