@@ -26,7 +26,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 - [x] 開設 KKTIX 售票頁面
 - [x] 把下次共筆的地點位置更新
 - [x] 製作社群圖片和貼文
-- [ ] 將上述社群貼文發佈到 g0v SNS
+- [x] 將上述社群貼文發佈到 g0v SNS
     - [x] g0v SNS review submission
     - [x] g0v SNS review submission approved?
     - [ ] g0v SNS posted like intended?
