@@ -51,3 +51,29 @@ strings garden.jpg | grep CTF
 
 - ANS:picoCTF{more_than_m33ts_the_3y3657BaB2C}
 
+## Matryoshka doll
+Matryoshka dolls are a set of wooden dolls of decreasing size placed one inside another. What's the final one? Image: this
+```
+binwalk -Me dolls.jpg
+```
+- 找到存放flag.txt的路徑
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c7a31bc7eddf7843bd96653e9d862e62.png)
+```
+cat _dolls.jpg-0.extracted/base_images/_2_c.jpg.extracted/base_images/_3_c.jpg.extracted/base_images/_4_c.jpg.extracted/flag.txt
+```
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f1594ead64702721af3b9a9f1c605ec9.png)
+- ans:picoCTF{4cf7ac000c3fb0fa96fb92722ffb2a32}
+
+## crackme-py
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_20cd754015df300ffee7ee2156052d49.png)
+- 將A:4@r%uL`M-^M0c0AbcM-MFE0d_a3hgc3N進行ROT47
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bab94d213a96af95f44889b516c013e3.png)
+- ans:picoCTF{1|\/|_4_p34|\|ut_502b984b}
+
+## cookies
+- 將cookie name設為18
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cad512bfd736e327bea4cf6add089ced.png)
+- ans:picoCTF{3v3ry1_l0v3s_c00k135_96cdadfd}
+
+
+
