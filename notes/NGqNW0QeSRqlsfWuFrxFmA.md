@@ -8,8 +8,10 @@
     4. 顏色漸層
     5. 體溫改變顏色
 
-
-
+* 函式大致架構: 
+    1. LED陣列位移
+    2. 長度
+    3. 顏色
 
 
 
@@ -90,13 +92,15 @@
     fill_gradient_RGB()
     ![image](https://hackmd.io/_uploads/BydHEzKca.png)
 
+    **相同:** 
+    1. 有2種函式寫法分別為ex1(2點)、ex2(起點+長度)，但ex1的方法只能用於一次漸層，更多次漸層就必修使用到ex2.
+    2. 在做多次漸層變化時，會傾向於將所有的LED平均長度分配每一段漸層。若分配不均，則顏色節點會不均勻分布，而不是被平均分配、隱藏。
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8df7681f5a4112d1ef3129952dfe6a7c.png)
+
     **不同:** 
     ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d87b6495066c097e2da46f47f71fb1c5.png)
 
-    **相同:** 
-    1. 有2種函式寫法分別為ex1(2點)、ex2(起點+長度)，但ex1的方法只能用於一次漸層，更多次漸層就必修使用到ex2.
-    2. 在做多次漸層變化時，會傾向於將所有的LED平均長度分配每一段漸層。若分配不均，則顏色節點會不均勻分布，而不是被平均分配，並隱藏。
-    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8df7681f5a4112d1ef3129952dfe6a7c.png)
+    
 
     
     **ex1. (2點)** `fill_gradient_RGB ( leds+i , 0 , CRGB :: Blue , 7 , CRGB :: Purple );`
@@ -132,10 +136,13 @@
     
     **test1**
     ![image](https://hackmd.io/_uploads/S162sGKc6.png)
+    //Hue
+    
 5.  HeatColor()
 
     **功能:** 透過熱量控制燈的顏色.
 ![image](https://hackmd.io/_uploads/B14CIw5qp.png)
+    //未完成，需要紅外線感測器.
 
 
 
@@ -145,12 +152,10 @@
 
      
     
-# Other:
 
-1. leds[NUM_LEDS];  可能為初始化LED陣列的函式
 
 # tip:
-*  要記得在填完顏色後用FastLED.show();顯示.
+*  要記得在填完顏色後用`FastLED.show();`顯示.
 
 * leds+i = LED陣列位移i單位，i為+/-都可. = 從第i個LED開始.
     (與CRGB leds[NUM_LEDS]; 有關)
@@ -160,8 +165,7 @@
 
 `
 # **Q.**
-Q0. leds??? v
-Q1. 釐清是長度還是點  v
-Q2. fill_rainbow_circular();  v
-Q3. 整理筆記               v
-Q4. 要合併筆記 v
+
+
+
+Q4. 要合併筆記
