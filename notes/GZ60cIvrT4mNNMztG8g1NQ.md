@@ -167,3 +167,12 @@ https://commutag.agawork.tw/dataset?id=5f1f91818237617934d8d168
     - https://photo.swcb.gov.tw/CoordinateRevise/Mission?MissionID=cf5c35ba-1ba3-4fe8-870d-6e5622719fe9
     - https://photo.swcb.gov.tw/Repository/ViewEvent?eventid=637579920237797388
 - 提供者：柯金源
+
+
+## 各種可能出現災害影像的管道
+
+攝影同好社團，午後雷陣雨
+https://www.facebook.com/groups/833818867108726/posts/1626176434539628/
+
+三立新聞
+https://www.facebook.com/setnews/posts/pfbid022Gum2BggnwpGriG8CoTaY6kWJyRP9SHPxrtVPgDR4bDstGFTXrGhR3dbP7wc4M68l
