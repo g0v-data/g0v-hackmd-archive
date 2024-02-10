@@ -7,12 +7,13 @@ tags: 新生流域
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_81cfd7c535fbda05a02925d363985a47.JPG)
 
 相簿：https://photos.app.goo.gl/arU4BmZoiN7ETkxr6
-- 有一張石碑與基座尺寸的手寫筆記
+- 相簿中有一張石碑與基座尺寸的手寫筆記
 
 討論：
 - 奉憲示禁，目前內容有全文電子文字嗎？
 - 石碑保存可能有必要，刻字逐漸模糊
     - 於「修護師的世界 Conservator world in Taiwan」FB 社團詢問：https://www.facebook.com/groups/134623823225674/posts/7110017742352879/
+    - 諮詢拓碑單位的意見 https://airtable.com/appAilQ8XpcZkvBko/shrJwHQ3VYSb27i4o/tblOmJi6Uz72Rkqgo/viwZliDTFltIoOXni/recAlbTL0XSHidro2?blocks=hide
 - 保存方向
     - 室內保存
     - 室外現址環境改善

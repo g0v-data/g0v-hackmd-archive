@@ -19,10 +19,6 @@ tags: 新生流域
 <iframe src="https://www.google.com/maps/d/embed?mid=1CdhA6uzy2euMGbMBCII5lEK-296XokkR&ehbc=2E312F" width=100% height="480"></iframe>
 
 ### Todo
-- 參考案例
-    - 倫敦 公共藝術 forgetten stream https://www.facebook.com/share/r/jJLnBtdDXY8eQZ7w/ 
-    - 高架橋下 水域活動 http://www.nlarchitects.nl/slideshow/82
-    - 輕軌與水景 https://www.facebook.com/share/r/ZemLzcZVzVCff8yh/
 - 中山北路菲律賓族裔生活街區 https://www.facebook.com/share/p/k6ZsETWejBeos2iX/
 - 捷運中和光復線，可能與新生大排重疊 https://www.facebook.com/share/p/vXxeA6Vs8Rm2yqcj/
 - 大龍國小 考古遺址 https://www.facebook.com/share/p/ur8bQUwcWTGofBMi/
@@ -54,7 +50,7 @@ tags: 新生流域
 - 評估是否數化
     - 新生大排興建前的時期的水路概況
         - 可挑選 1904 日治二萬分之一台灣堡圖(明治版)	
-- 待查找老照片位置、標記
+- 待查找老照片位置、標記、歷史素材
     - 太古巢 河邊舊址 https://youtu.be/eRaDSA-qaxk
     - 東門護城河溝 https://www.facebook.com/105231068229012/photos/a.105265611558891/312616044157179/?type=3&mibextid=cr9u03
     - 大正町照片，似乎是有溝渠？
@@ -77,12 +73,12 @@ tags: 新生流域
     - 1957-1958 影片 2:40、3:02、 https://youtu.be/D1-d3Pr8Teo
     - 1957 中山北路與新生北路與圓山，照片 0:52 秒 https://youtu.be/vZ9pms6ND2M
     - 基隆河圓山老照片 https://www.facebook.com/photo.php?fbid=255167153547365&set=a.186238740440207&type=3&mibextid=cr9u03
-    - 照片https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577638452661/
-    - 照片https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577631785995/
-    - 照片https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577645119327/
-    - 照片https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577645119327/
-    - 1968 南京新生路口，照片https://www.facebook.com/104339821634619/posts/pfbid02WJy6KE9khYPRbEzAdVZEwVHKdJhd8gHnmUWsVebJHU922x3jSrVSZ1A3sWge1QPHl/?mibextid=cr9u03
-    - 中崙福順宮 似乎鄰接著 給水路 https://maps.app.goo.gl/VGUmitiHJJNGxdyh8
+    - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577638452661/
+    - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577631785995/
+    - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577645119327/
+    - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577645119327/
+    - 1968 南京新生路口，照片 https://www.facebook.com/104339821634619/posts/pfbid02WJy6KE9khYPRbEzAdVZEwVHKdJhd8gHnmUWsVebJHU922x3jSrVSZ1A3sWge1QPHl/?mibextid=cr9u03
+    - 中崙福順宮 鄰接著 給水路 https://maps.app.goo.gl/VGUmitiHJJNGxdyh8
     - 照片，建國高架興建中與大安森林公園位置
         - https://www.facebook.com/ZhangZheSheng/photos/a.10152144402114531/10152335556574531/
     - 照片，冰店與新生大排便橋，新生南路三段42號 
@@ -91,7 +87,9 @@ tags: 新生流域
     - 19 南京新生 https://www.facebook.com/groups/1464346490494897/permalink/3172352329694296/?comment_id=3172415869687942&mibextid=S66gvF
         - 留言串也有一張，建物與大排溝渠
     - 1978 照片 https://www.facebook.com/story.php?story_fbid=pfbid0Ypt5RJbMoKdVWJHzibUm4C7wZVujBfCAyAqtvDqGZgUEuSvzoMMUaAHfW5p5CUsl&id=747873617&mibextid=qC1gEa
-    - 1970 地圖 https://www.facebook.com/groups/582154450196478/permalink/919557983122788/?mibextid=K35XfP
+    - 1970 美軍設施地圖
+        - https://www.facebook.com/groups/582154450196478/permalink/919557983122788/
+        - https://www.facebook.com/groups/582154450196478/posts/919557979789455/
     - 農安街生福祠
         - http://www.rhythmsmonthly.com/?p=33301
     - 民國67年北台灌區利用圖(wra00700)
@@ -126,7 +124,8 @@ tags: 新生流域
     - https://www.facebook.com/groups/582154450196478/posts/745578033854118/
     - https://www.facebook.com/groups/582154450196478/posts/745578573854064/
     - http://www.artofwar-tw.org/bboard/viewtopic.php?t=16454&start=15
-    - 南大同，鍾肇政 文學作品 https://www.facebook.com/story.php?story_fbid=pfbid02yTiKeryup9QmD4gyH5GV7eyW4khLyrW4JyBXPwjtNyucRr1fx453e1i55BBPGUj8l&id=100063860644340&mibextid=qC1gEa
+    - 南大同，鍾肇政 文學作品 
+        - https://www.facebook.com/story.php?story_fbid=pfbid02yTiKeryup9QmD4gyH5GV7eyW4khLyrW4JyBXPwjtNyucRr1fx453e1i55BBPGUj8l&id=100063860644340&mibextid=qC1gEa
     - 中山橋 https://youtu.be/bTe7QXPkC8w
     - 議員質詢
         - https://youtu.be/DGn7IaPEb9M
@@ -145,7 +144,7 @@ tags: 新生流域
         - 賞螢火蟲，當時的水環境？
             - https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E6%AD%A3%E6%A9%8B
             - https://zh.wikipedia.org/zh-tw/%E8%9E%A2%E6%A9%8B
-    - 建國高架下方的 育成庇護園區https://ycipay.eoffering.org.tw/contents/project_ct?page=1&p_id=59&utm_source=cffb&utm_medium=a&utm_campaign=green&fbclid=IwAR2UiO-9aPDu9_Nujq-qCHbqqnGECsWzf8f98G-7bqNCv2EVep5va_4R8ms_aem_AUNh6_aGpS8EtJCWZk_l4vr9iKPaCLVCIvkiSdXW6HVt3krlCP0HRmJc7zpc3tZUpQc
+    - 建國高架下方的 育成庇護園區 https://ycipay.eoffering.org.tw/contents/project_ct?page=1&p_id=59&utm_source=cffb&utm_medium=a&utm_campaign=green&fbclid=IwAR2UiO-9aPDu9_Nujq-qCHbqqnGECsWzf8f98G-7bqNCv2EVep5va_4R8ms_aem_AUNh6_aGpS8EtJCWZk_l4vr9iKPaCLVCIvkiSdXW6HVt3krlCP0HRmJc7zpc3tZUpQc
     -  針對「新生北路一段」無高架橋段，查找加現況樹木
         - 是否屬於行道樹？
         - 農航所歷史航照推估樹齡
@@ -158,6 +157,11 @@ tags: 新生流域
         - 地圖：https://www.google.com/maps/d/viewer?mid=1bXRCRxkLjHqOs5gHOSMzxNRIQ31GYx8
     - 為什麼取名「新生」？
     - 尚未加蓋的新生北路的水路，好像是有機會看到水面倒影中的圓山？新生南路，可能在大安森林公園段，可以映射蟾蜍山？
+
+- 其他水域案例
+    - 倫敦 公共藝術 forgetten stream https://www.facebook.com/share/r/jJLnBtdDXY8eQZ7w/ 
+    - 高架橋下 水域活動 http://www.nlarchitects.nl/slideshow/82
+    - 輕軌與水景 https://www.facebook.com/share/r/ZemLzcZVzVCff8yh/
     - 雲林溪 https://www.facebook.com/story.php?story_fbid=pfbid02fL8Ww5ZL4WP2XEEeiXYEv4tFRzgcJtHcvM4ZSYNGyN7h1vKWTc1r5YAUZM5UdK6rl&id=100067220707427&mibextid=qC1gEa
     - 鴨川 https://www3.nhk.or.jp/nhkworld/zt/ondemand/video/2029183/
     - 大阪道頓堀川
