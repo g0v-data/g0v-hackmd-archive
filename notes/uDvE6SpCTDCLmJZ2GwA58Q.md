@@ -19,9 +19,10 @@ tags: 新生流域
 <iframe src="https://www.google.com/maps/d/embed?mid=1CdhA6uzy2euMGbMBCII5lEK-296XokkR&ehbc=2E312F" width=100% height="480"></iframe>
 
 ### Todo
+
+當前與未來
 - 中山北路菲律賓族裔生活街區 https://www.facebook.com/share/p/k6ZsETWejBeos2iX/
 - 捷運中和光復線，可能與新生大排重疊 https://www.facebook.com/share/p/vXxeA6Vs8Rm2yqcj/
-- 大龍國小 考古遺址 https://www.facebook.com/share/p/ur8bQUwcWTGofBMi/
 - 標記 20xx 林務局國土綠網三個生態熱區（北端-水域、大安森林公園-水鳥、南端-植被）
     - https://www.facebook.com/groups/582154450196478/posts/710832380662017/
 - 把新生流域範圍及週邊的雨量站標記到地圖上 (長安國小、五常國小、臺灣大學、大安森林公園、中正國中、氣象署、大安福州山、仁愛國小、三興國小、松山運中心、建國抽水站、太平國小、劍潭山、民生國中、市政府)
@@ -36,8 +37,10 @@ tags: 新生流域
     - https://eng.water.gov.taipei/News_Content.aspx?n=4A8046A3D1F886F6&sms=2D72BAE25D4739AF&s=E96F26262F5BA6E3
     - https://eng.water.gov.taipei/News_Content.aspx?n=4A8046A3D1F886F6&sms=2D72BAE25D4739AF&s=A4E62838557619CA
 - 台大管院附近的圍牆與舊水路 https://www.facebook.com/193313627448659/posts/pfbid0h84craT997K4CzBiimn8ZDoFN3kXNBNVtSjQP1aYMSkfAAkNvQ52XqyoS6TjZ5eTl/?mibextid=cr9u03
+
+歷史
+- 大龍國小 考古遺址 https://www.facebook.com/share/p/ur8bQUwcWTGofBMi/
 - 大龍峒發現新石器時代的「訊塘埔文化遺址」
-- https://www.facebook.com/GongguanSettlements/posts/pfbid02fimCihfaea2jSsuWW2GKoj3feFvmRSBntXY4c6Akh6dt1yD3FgjAj7xn8Gqf1nc5l
 - 重劃區
     - https://www.facebook.com/groups/582154450196478/posts/852093193202601/
     - 市區改正範圍、臺北城內市區計畫、城外南方市區計畫、東門
@@ -45,8 +48,8 @@ tags: 新生流域
     - 日治時期的重劃區：1937 御成町重劃區、1938 幸町重劃區、1939 敕使街道沿線重劃區、1942 第三高女附近重劃區、1943 水道町重劃區、1943 三張犁道路沿線重劃區，翻拍來源《臺北市近代都市之建構》
     - 國民政府時期的重劃區，可以查詢線上地圖　
         - https://easymap.land.moi.gov.tw/W10Web/Normal
-- 道路各段開闢的 polygon
-    - 例如忠孝東路
+- 道路各段開闢的 polygon 開闢年代
+    - 例如忠孝東路、基隆路
 - 評估是否數化
     - 新生大排興建前的時期的水路概況
         - 可挑選 1904 日治二萬分之一台灣堡圖(明治版)	
@@ -90,6 +93,8 @@ tags: 新生流域
     - 1970 美軍設施地圖
         - https://www.facebook.com/groups/582154450196478/permalink/919557983122788/
         - https://www.facebook.com/groups/582154450196478/posts/919557979789455/
+        - https://cpaper-blog.blogspot.com/2011/07/kent-mathieu.html
+        - https://www.facebook.com/GongguanSettlements/posts/pfbid02fimCihfaea2jSsuWW2GKoj3feFvmRSBntXY4c6Akh6dt1yD3FgjAj7xn8Gqf1nc5l
     - 農安街生福祠
         - http://www.rhythmsmonthly.com/?p=33301
     - 民國67年北台灌區利用圖(wra00700)
@@ -158,17 +163,17 @@ tags: 新生流域
     - 為什麼取名「新生」？
     - 尚未加蓋的新生北路的水路，好像是有機會看到水面倒影中的圓山？新生南路，可能在大安森林公園段，可以映射蟾蜍山？
 
-- 其他水域案例
-    - 倫敦 公共藝術 forgetten stream https://www.facebook.com/share/r/jJLnBtdDXY8eQZ7w/ 
-    - 高架橋下 水域活動 http://www.nlarchitects.nl/slideshow/82
-    - 輕軌與水景 https://www.facebook.com/share/r/ZemLzcZVzVCff8yh/
-    - 雲林溪 https://www.facebook.com/story.php?story_fbid=pfbid02fL8Ww5ZL4WP2XEEeiXYEv4tFRzgcJtHcvM4ZSYNGyN7h1vKWTc1r5YAUZM5UdK6rl&id=100067220707427&mibextid=qC1gEa
-    - 鴨川 https://www3.nhk.or.jp/nhkworld/zt/ondemand/video/2029183/
-    - 大阪道頓堀川
-    - 小樽運河 https://www.facebook.com/story.php?story_fbid=pfbid0fWqKvARQUNmFQBVEtVJF7CFKVJVCbCQ4wrbqnZqGAQwfWgEsoke6mr2PSLEHMzMsl&id=100064523206796&mibextid=qC1gEa
-        - 這本書主要是描述 １９７０年代日本北海道推動社區營造的過程，在建設開發的過程中，地方居民的參與產生了極大的力量，例如：函館禁止蓋高樓，才會有今日世界上最有名的夜景，小樽海港留下來的倉庫與保存這條小運河，才有今日觀光的人潮。當然這些是地方與政府努力協商討論的結果，有些地方人士還是不滿意，但是至少在互相討論、衝突之中不斷地找尋地方特色 http://trip.writers.idv.tw/2007/07/blog-post_4328.html?m=1
-    - 清邁 https://www.travelerluxe.com/article/desc/230009056
-    - 天母忠誠路 箱涵 https://www.facebook.com/story.php?story_fbid=pfbid0HELZ5eT18ZwvAEAzaZtdQ6p6qVvc72mKLSBGusqEpy2euCT5W3UUSzx9LBeTkwS7l&id=100064771413821&mibextid=qC1gEa
+其他水域案例
+- 倫敦 公共藝術 forgetten stream https://www.facebook.com/share/r/jJLnBtdDXY8eQZ7w/ 
+- 高架橋下 水域活動 http://www.nlarchitects.nl/slideshow/82
+- 輕軌與水景 https://www.facebook.com/share/r/ZemLzcZVzVCff8yh/
+- 雲林溪 https://www.facebook.com/story.php?story_fbid=pfbid02fL8Ww5ZL4WP2XEEeiXYEv4tFRzgcJtHcvM4ZSYNGyN7h1vKWTc1r5YAUZM5UdK6rl&id=100067220707427&mibextid=qC1gEa
+- 鴨川 https://www3.nhk.or.jp/nhkworld/zt/ondemand/video/2029183/
+- 大阪道頓堀川
+- 小樽運河 https://www.facebook.com/story.php?story_fbid=pfbid0fWqKvARQUNmFQBVEtVJF7CFKVJVCbCQ4wrbqnZqGAQwfWgEsoke6mr2PSLEHMzMsl&id=100064523206796&mibextid=qC1gEa
+    - 這本書主要是描述 １９７０年代日本北海道推動社區營造的過程，在建設開發的過程中，地方居民的參與產生了極大的力量，例如：函館禁止蓋高樓，才會有今日世界上最有名的夜景，小樽海港留下來的倉庫與保存這條小運河，才有今日觀光的人潮。當然這些是地方與政府努力協商討論的結果，有些地方人士還是不滿意，但是至少在互相討論、衝突之中不斷地找尋地方特色 http://trip.writers.idv.tw/2007/07/blog-post_4328.html?m=1
+- 清邁 https://www.travelerluxe.com/article/desc/230009056
+- 天母忠誠路 箱涵 https://www.facebook.com/story.php?story_fbid=pfbid0HELZ5eT18ZwvAEAzaZtdQ6p6qVvc72mKLSBGusqEpy2euCT5W3UUSzx9LBeTkwS7l&id=100064771413821&mibextid=qC1gEa
 
 漢人信仰
 - 2018 神明、祖先、恩人 - 臺北盆地的祖佛信仰
