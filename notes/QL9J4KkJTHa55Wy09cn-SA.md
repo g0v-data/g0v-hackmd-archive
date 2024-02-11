@@ -47,6 +47,7 @@ https://goo.gl/maps/igmsKHUWLpRnA52t7
     - 待登載 玉里 水稻田 https://www.facebook.com/share/p/JzwiuMN2uCU6M5N2/
     - 待登載 35.9986650, 10.4955462
     - 東京舉辦一場市區的步行活動，路線形成臺灣本島輪廓形狀 https://japhub.com/?c=17767
+    - 待查找 臺中草悟道座椅椅面形狀 https://www.facebook.com/share/p/sQXQddGeDKnekQau/
 - 有一些自然地理作用，蠻容易大量生成台灣輪廓，所以此圖層也蒐集這類的地區，例如：
     - 北歐海島
     - 北美阿拉斯加州北坡自治市鎮的北部地區，凍土與冰蝕湖?
