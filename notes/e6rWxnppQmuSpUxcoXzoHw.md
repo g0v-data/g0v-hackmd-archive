@@ -23,15 +23,16 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 
 ## 確認下次活動時間後
 - [x] 把時間放到自己的行事曆上
+- [ ] 把活動資訊放到 #g0v-landing-page channel
 - [x] 開設 KKTIX 售票頁面
 - [x] 把下次共筆的地點位置更新
 - [x] 製作社群圖片和貼文
 - [x] 將上述社群貼文發佈到 g0v SNS
     - [x] g0v SNS review submission
     - [x] g0v SNS review submission approved?
-    - [ ] g0v SNS posted like intended?
+    - [x] g0v SNS posted like intended?
 - [ ] 將上述社群貼文發佈到 g0v Facebook Groups（後勤中心）
-- [ ] 將上述社群貼文發佈到 g0v slack #general channel
+- [x] 將上述社群貼文發佈到 g0v slack #general channel
 - [ ] 將上述社群貼文發佈到 g0v jothon LINE group chat
 - [ ] 或許可以考慮開 g0v facebook groups（後勤中心）event
 - [ ] 透過 KKTIX 寄信給過往曾參與活動且同意發送通知者
@@ -46,3 +47,9 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 - [ ] 花三分鐘簡介數位韌性和 g0v CoC
 - [ ] 花五分鐘全場三個關鍵字自我介紹
 - [ ] 拍大合照
+
+## Feb 2024 todos
+- [ ] defense.tw 可以掛一個連結到韌性松嗎？
+- [ ] 要開一個 g0v hackmd organizations for digiresith0n purpose
+    - [ ] 改完後要 edit 所有 social media posts
+    - [ ] 改完後要 edit 所有 hackmd markdown files
