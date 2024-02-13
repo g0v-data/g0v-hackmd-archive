@@ -16,6 +16,12 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 [↩️ 回到籌備文件](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home)
 :::
 
+## Feb 2024 todos
+- [ ] defense.tw 可以掛一個連結到韌性松嗎？
+- [ ] 要開一個 g0v hackmd organizations for digiresith0n purpose
+    - [ ] 改完後要 edit 所有 social media posts
+    - [ ] 改完後要 edit 所有 hackmd markdown files
+
 ## 確認下次活動時間前
 - [x] 到頻道上確認大家下個月可以參與的時間（坑主有空的時間優先）
 - [x] 確認 NPO Hub 4F 廚房是否有空位可以借用
@@ -48,8 +54,4 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 - [ ] 花五分鐘全場三個關鍵字自我介紹
 - [ ] 拍大合照
 
-## Feb 2024 todos
-- [ ] defense.tw 可以掛一個連結到韌性松嗎？
-- [ ] 要開一個 g0v hackmd organizations for digiresith0n purpose
-    - [ ] 改完後要 edit 所有 social media posts
-    - [ ] 改完後要 edit 所有 hackmd markdown files
+## archives
