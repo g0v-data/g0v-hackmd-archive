@@ -470,6 +470,10 @@ https://www.facebook.com/100049204915573/posts/pfbid031wom8LvRAUoHMGQ3LTErC74U7h
 岡山 台1線
 https://www.facebook.com/share/p/bX4VXBBrpaNERtBE/
 
+高雄市中山凱旋路口
+https://www.facebook.com/share/Deg9dVaDYNMZcUCi/?mibextid=WC7FNe
+
+
 台1線 民生東路、和生路一段
 https://www.facebook.com/share/p/bX4VXBBrpaNERtBE/
 
