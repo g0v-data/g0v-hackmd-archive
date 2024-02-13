@@ -402,6 +402,9 @@ https://www.facebook.com/story.php?story_fbid=pfbid0korrQ5zYKfaga1gMJzHVGdvTn26A
 https://www.facebook.com/100049204915573/posts/pfbid0U538Q2mrd7CVBURitvLhASHM9oRQwLLpWQG1bVHM7YLagry7LXnQqYwo7NibsYmwl/?mibextid=cr9u03
 https://www.facebook.com/100064542675965/posts/pfbid0t1KNv3tDaLoprUUtFfAtBCyPpWRvT4R6K4uLctfEz27pLLKWF9om9jw8gfVwYkBml/?mibextid=cr9u03
 
+臺南市七股區
+https://www.facebook.com/share/wVXNw1v2UhdUK8Ev/
+
 臺南高鐵附近，行穿線沒有斜坡進入實體人行道
 https://www.facebook.com/story.php?story_fbid=10160372095968462&id=536028461
 
