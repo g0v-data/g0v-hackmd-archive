@@ -106,7 +106,12 @@ https://tw.my-best.com/115111
 - 寵物保母與雇主的互動
 https://fluv.com/tw
 - 自動生成3d建模圖
+將平面圖轉為3D立體建模圖
+透過3D圖 讓大家都能輕鬆理解並裝潢成自己理想的房子
+[平面視圖自動轉換立體模型之研究](https://hdl.handle.net/11296/8r7y6t)
+[以擴增實境為基礎的互動式3D建模系統](https://hdl.handle.net/11296/gau4yh)
 - 旅遊聊天機器人
+[智慧型聊天機器人之建置-以科技新聞檢索為例](https://hdl.handle.net/11296/v7d99k)
+[聊天機器人應用之探討—以南華大學資管系為例](http://nhuir.nhu.edu.tw/bitstream/987654321/26691/1/106NHU00396015-001.pdf)
 [應用聊天機器人於旅遊資訊查詢探索性研究－ 以澎湖為例](https://hdl.handle.net/11296/uajdb9)
-[線上旅行平台棄單率高達八成，旅程安排是最大痛點！AI 如何讓排行程更順暢？]
-https://help.pilotplans.com/en/articles/8442220-quick-start
+[線上旅行平台棄單率高達八成，旅程安排是最大痛點！AI 如何讓排行程更順暢？](https://help.pilotplans.com/en/articles/8442220-quick-start)
