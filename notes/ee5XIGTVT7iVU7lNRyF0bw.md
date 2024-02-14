@@ -101,5 +101,12 @@ https://www.lunwendata.com/thesis/2018/129688.html
 2023最新十大旅遊App推薦排行榜
 https://tw.my-best.com/115111
 
-## 第三次專題討埨
+## 第三次專題討論
 
+- 寵物保母與雇主的互動
+https://fluv.com/tw
+- 自動生成3d建模圖
+- 旅遊聊天機器人
+[應用聊天機器人於旅遊資訊查詢探索性研究－ 以澎湖為例](https://hdl.handle.net/11296/uajdb9)
+[線上旅行平台棄單率高達八成，旅程安排是最大痛點！AI 如何讓排行程更順暢？]
+https://help.pilotplans.com/en/articles/8442220-quick-start
