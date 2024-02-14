@@ -100,3 +100,6 @@ R-tree 的資料結構將既有景點的分數來做安排，再藉由 The spati
 https://www.lunwendata.com/thesis/2018/129688.html
 2023最新十大旅遊App推薦排行榜
 https://tw.my-best.com/115111
+
+## 第三次專題討埨
+
