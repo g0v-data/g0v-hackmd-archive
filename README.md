@@ -2,6 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [cofacts](tags/cofacts.md) | 427 | 2024-02-15T19:59:18+08:00 |
+| [meeting note](tags/meeting%20note.md) | 254 | 2024-02-15T19:59:18+08:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6695 | 2024-02-15T18:55:36+08:00 |
 | [China](tags/China.md) | 5 | 2024-02-15T18:55:27+08:00 |
 | [edu](tags/edu.md) | 143 | 2024-02-15T14:46:00+08:00 |
@@ -10,8 +12,6 @@
 | [ngo](tags/ngo.md) | 11 | 2024-02-15T14:46:00+08:00 |
 | [nonprofits](tags/nonprofits.md) | 4 | 2024-02-15T14:46:00+08:00 |
 | [moda](tags/moda.md) | 2 | 2024-02-15T11:56:29+08:00 |
-| [cofacts](tags/cofacts.md) | 427 | 2024-02-15T11:16:09+08:00 |
-| [meeting note](tags/meeting%20note.md) | 254 | 2024-02-15T11:16:09+08:00 |
 | [GIS](tags/GIS.md) | 143 | 2024-02-15T08:36:43+08:00 |
 | [summit2024](tags/summit2024.md) | 37 | 2024-02-13T22:02:47+08:00 |
 | [digital-resilience](tags/digital-resilience.md) | 14 | 2024-02-13T09:30:00+08:00 |

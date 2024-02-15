@@ -5,6 +5,14 @@ GA: UA-98468513-3
 
 # 20240215 會議記錄
 
+:::info
+- [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
+- 線上出席：
+- https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
+:::
+
+
+
 ## :potable_water: Release pipeline
 
 #### :robot_face: rumors-line-bot
@@ -122,6 +130,9 @@ https://lin.ee/1QUzEX4nI
 ### [Op] Transcript spam
 > nonumpa
 > https://g0v.hackmd.io/vKCvrqSQTlm7GEx9MAXGaw?view#op-Transcript-spam-處理
+> 
+
+目前可取得 contributor list，但每個貢獻者的最新貢獻時間還要再看看
 
 ### [Comm] article group 收尾
 
