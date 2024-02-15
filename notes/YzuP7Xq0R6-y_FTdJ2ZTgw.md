@@ -1,6 +1,6 @@
 Có phải bạn là một người yêu thích các tựa game trên nền tảng Roblox và cần tìm kiếm một đơn vị uy tin để có thể mua Robux hay các sản phẩm liên quan đến nền tảng game này. 
 Vậy thì shoprobloxgiagoc.com sẽ là một địa điểm vô cùng hoàn hảo dành cho bạn. 
-
+![](https://shoprobloxgiagoc.com/images/settings/202312281627shop-roblox-acc-roblox-blog-fruits-banner.webp)
 Tìm hiểu Roblox là gì?
 Roblox là một nền tảng trò chơi trực tuyến được nhiều người yêu thích và hỗ trợ trên nhiều nền tảng khác nhau. 
 Nó cho phép người chơi tạo và chia sẻ các trò chơi, cùng trải nghiệm tương tác xã hội, tham gia cùng bạn bè. 
