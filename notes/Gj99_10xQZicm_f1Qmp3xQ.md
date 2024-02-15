@@ -54,7 +54,7 @@ title: nonprofit-helper 0st meeting
     - [ ] guide to found a new orgnization (nice to have)
         - [ ] input fields for require informations
 - [ ] 去敲零時先輩時間
-- [ ] 講解 OpenAI Platform
+- [x] 講解 OpenAI Platform
 - [ ] 
 
 #### Doing
