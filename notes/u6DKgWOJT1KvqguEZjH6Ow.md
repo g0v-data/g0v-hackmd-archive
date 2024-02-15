@@ -7,7 +7,8 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- NPO Hub: Bil, mrorz
+- 線上出席：nonumpa
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -23,17 +24,19 @@ GA: UA-98468513-3
 
 https://lin.ee/1QUzEX4nI
 
-- [ ] 可送出多則訊息
-- [ ] 送出多則訊息之後，可以在 BigQuery 看到選項樣態
+- [x] 可送出多則訊息
+- [x] 送出多則訊息之後，可以在 BigQuery 看到選項樣態
 
 
 ##### ⛔️ Release Blockers
+N/A
 
 ##### 未竟項目
-
+N/A
 
 ### :eye: Under review
 
+- https://github.com/cofacts/rumors-line-bot/pull/387
 
 ## 小聚 Rundown
 
@@ -68,12 +71,13 @@ https://lin.ee/1QUzEX4nI
     - [ ] 幫 Netgear 充電
 - 當日準備 / 攜帶
     - [ ] 樓下用的標語 - orz
-    - [ ] 尾款？
-    - [ ] 貼紙 - orz
+    - [ ] 貼紙 - orz, bil
     - [ ] 黏土 - orz
-    - [ ] 延長線？
+    - [ ] 尾款 - bil
+    - [ ] 手板 - bil
+    - [ ] ~~延長線~~
     - [ ] 編輯小聚的牌子 - orz
-    - [ ] Wifi 機 - mrorz
+    - [ ] ~~Wifi 機 - mrorz~~
         - [ ] Netgear 本體
             - [ ] usb type-c 充電線與插座 （已充飽電，無需插座）
             - [ ] 電池
@@ -86,10 +90,10 @@ https://lin.ee/1QUzEX4nI
   - [ ] 簽到（問飲料）
   - [ ] 排桌子椅子
   - [ ] 麥克風
-  - [ ] 延長線佈置
+  - [ ] ~~延長線佈置~~
   - [ ] 門口黏引導牌
   - [ ] Slido - 白板寫 slido room number `#cofacts40`
-  - [ ] WIFI
+  - [ ] ~~WIFI~~
       - [ ] 佈機x2
       - [ ] 連結 netgear 與 asus WAN port
       - [ ] 白紙寫 SSID Cofacts meetup(_5G) + wifi password 貼牆上
@@ -119,6 +123,13 @@ https://lin.ee/1QUzEX4nI
     - 大家從網站挑選「一篇」覺得最有興趣的回
 - 16:40 - 17:00 介紹 RSS、社群、合照
 
+---
+
+- 1:30 以前到也會讓我們先進去
+- 推薦市政府轉運站客運 --> 宜蘭轉運站
+- 走 20min or 搭轉運站的公車，5~8min
+
+
 ## MyGoPen 謠言惑眾獎
 
 2023 有人（LINE/Web/LIFF）造訪的訊息裡面，有查核且查核 reference 有 MyGoPen / TFC 者：
@@ -133,6 +144,22 @@ https://lin.ee/1QUzEX4nI
 > 
 
 目前可取得 contributor list，但每個貢獻者的最新貢獻時間還要再看看
+
+遇到的問題
+- Something went wrong installing the "sharp" module 
+    https://stackoverflow.com/questions/65585424/something-went-wrong-installing-the-sharp-module-using-node-loader-in-webpack
+    > npm rebuild --platform=linux --arch=x64 sharp
+- rumors-api db
+    ```    
+    db:
+      image: webhippie/elasticsearch:6.4
+      environment:
+        - "ELASTICSEARCH_DATA_DIR=/usr/share/elasticsearch/data"
+    ```
+- mediaManager 拿不到圖片，需要 secret
+  - 想說有人來申請再開權限給他的 service account [name=mrorz]
+- migrate article.status
+  - 可以用 https://github.com/cofacts/opendata/blob/master/CONTRIBUTING.md 從 weekly production backup 抓資料下來 比較完整 [name=mrorz]
 
 ### [Comm] article group 收尾
 
@@ -156,18 +183,25 @@ TODO
 - [ ] stats
 - [ ] editor works
 
-### [Comm] AI assisted reply authoring
-- 搭配訓練新的 topic 分類器一起進行
-
-
 ### [Op] FB 申請與 Google 非營利
 > MrOrz
 
 - 本週無進度
 - 會址更新狀態：TBA [name=bil]
 
+
+### [Comm] AI assisted reply authoring
+- 搭配訓練新的 topic 分類器一起進行
+
 ### [Comm] 野生查核協作工作坊
 
 - Original Proposal: https://g0v.hackmd.io/RRRZSBSKRLCm3fBnHG1j9g#Comm-%E6%9F%A5%E6%A0%B8%E5%8D%94%E4%BD%9C%E8%80%85%E5%9F%B9%E8%A8%93%EF%BC%9A%E5%BE%B5%E8%A9%A2%E8%AC%9B%E8%80%85
 - Discussion https://g0v.hackmd.io/9eG8d4HgT6KSPHN58SJgFA#Comm-%E6%9F%A5%E6%A0%B8%E5%8D%94%E4%BD%9C%E8%80%85%E5%9F%B9%E8%A8%93%EF%BC%9A%E5%BE%B5%E8%A9%A2%E8%AC%9B%E8%80%85
+
+## 開會
+- 之後都可以在 NPO Hub 開會
+- 比鄰 5 點會在
+- 7 點之後傳訊息給 bil 開門
+- 下週會議 2/22 (四)
+- 2/28 放假 --> 2/29 (四) 開會
 
