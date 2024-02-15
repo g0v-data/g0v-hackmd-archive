@@ -5,6 +5,10 @@ title: nonprofit-helper 0st meeting
 
 # nonprofit-helper 0st meeting
 
+:::info
+[↩️ 回到籌備文件](https://g0v.hackmd.io/eivkYtpjQiSQHyP7M-H9zA)
+:::
+
 ## 架構
 - DB
     - [DataStax](https://www.datastax.com/)
