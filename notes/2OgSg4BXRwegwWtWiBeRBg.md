@@ -38,6 +38,9 @@ tags: China
 
 ### 明確的事件
 
+Disrupting malicious uses of AI by state-affiliated threat actors
+https://www.facebook.com/share/p/9ffb2edQuJrNyDvA/
+
 待確認：https://www.facebook.com/story.php?story_fbid=pfbid0HGckm9BwvNaSSVnNay1u8Em9aSJMmTJWgFJzq7VRoaQZBtvqwiwptJjRdTBNhcyBl&id=100075864113287&mibextid=qC1gEa
 
 待確認：維基百科?
