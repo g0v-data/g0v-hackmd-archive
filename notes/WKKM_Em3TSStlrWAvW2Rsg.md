@@ -175,3 +175,10 @@ Network MTB Support
 1.如果可以連 就是原本的網路線問題
 
 2.不能連就是 就是電腦問題
+
+
+MIT933I-0058B no need to install S1 (already check with Kenny Yap)
+ 
+MIT933I-0058 & MIT933I-0058A are subcon tool can't install S1
+ 
+Please trasfer to RUSHABH SAMIRBHAI SHAH and check, thanks
