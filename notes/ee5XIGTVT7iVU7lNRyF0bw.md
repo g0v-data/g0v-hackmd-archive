@@ -111,9 +111,8 @@ https://fluv.com/tw
 [Beacon技術應用於智慧寵物協尋系統之開](https://www.airitilibrary.com/Article/Detail/22259481-202203-202203040006-202203040006-275-284)
 
 
-
-
 ### 自動生成3d建模圖
+目的:屋子如何擺設，可以讓空間最大化
 將平面圖轉為3D立體建模圖
 透過3D圖 讓大家都能輕鬆理解並裝潢成自己理想的房子
 [平面視圖自動轉換立體模型之研究](https://hdl.handle.net/11296/8r7y6t)
@@ -141,3 +140,5 @@ https://fluv.com/tw
 [旅行聊天機器人：如何打造旅行者會喜歡的機器人？ | 人人都是產品經理](https://www.vasatech.com.tw/%E6%97%85%E8%A1%8C%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA%EF%BC%9A%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E6%97%85%E8%A1%8C%E8%80%85%E6%9C%83%E5%96%9C%E6%AD%A1%E7%9A%84%E6%A9%9F%E5%99%A8%E4%BA%BA/)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bd0c29879f050d5c631cb56178ab7a2e.png)
+
+## 第四次專題討論
