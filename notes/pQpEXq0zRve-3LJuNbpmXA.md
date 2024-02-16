@@ -21,7 +21,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 ### 2024 第二次讀書會：[BYLAWS FOR ICANN](https://www.icann.org/resources/pages/governance/bylaws-en) ARTICLE 1 to ARTICLE 4
 
 :::warning
-- 本次讀書會時間於 2024/2/18 Sun. 13:30 ~ 15:30 UTC+8，會在台北，地點目前正在確認中 <!-- 於 [摩茲工寮 Mozilla Community Space Taipei](https://maps.app.goo.gl/Lt1b49aBWxmjAyQR6) （100 台北市中正區八德路一段 94 號 3F，看到「中央助聽器」招牌走上3樓）。 -->
+- 本次讀書會時間於 2024/2/18 Sun. 13:30 ~ 15:30 UTC+8，會在台北，地點於台大社科院 631 會議室（近捷運科技大樓站，台大後門），**由於週日台大有門禁，請大家盡量準時於 13:00 - 13:30 入場。**
 - 請參與者在讀書會前完整閱讀 「[BYLAWS FOR ICANN](https://www.icann.org/resources/pages/governance/bylaws-en) ARTICLE 1 to ARTICLE 4」，以利於讀書會進行討論。
 - 報名請於 [此貼文下方](https://www.facebook.com/groups/twigf/posts/3753597471550227/) 留言。若不願意使用臉書，請直接私訊發文者 或寄信至 `internet.governance.studygroup [ＡＴ] cpeng.me`即可。
 :::
