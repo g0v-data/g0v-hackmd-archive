@@ -1,6 +1,7 @@
 Hiện nay mã QR đã rất quen thuộc vì đem đến rất nhiều sự tiện lợi cho người dùng. 
 Với công nghệ phát triển hiện nay, bạn còn có thể tạo QR Code cho riêng mình đấy. 
 Hãy tham khảo phần mềm qrcode-gen.com check in sự kiện bằng mã QR?
+![](https://qrcode-gen.com/images/guideVCard.png)
 Tư vấn check in sự kiện QR Code
 Với đội ngũ chuyên môn trong hoạt động check in sự kiện và thiết kế phần mềm, Ninetick hân hạnh cung cấp tới quý khách hàng dịch vụ check in sự kiện bằng mã QR code với các tính năng báo cáo, lưu trữ, sàng lọc dữ liệu theo yêu cầu.
 Ninetick là một ứng dụng quản lý sự kiện đột phá, cung cấp giải pháp toàn diện cho việc quản lý đăng ký và tham gia các sự kiện. 
@@ -19,6 +20,6 @@ Số điện thoại công ty:  +84 86 86 85 247
 Website : qrcode-gen.com
 Email:  info@ninecode.com
 Facebook:  Fanpage NINECODE
-Tags: danh thiếp online
+Tags: [danh thiếp online](https://qrcode-gen.com/huong-dan-tao-vcard)
 
 

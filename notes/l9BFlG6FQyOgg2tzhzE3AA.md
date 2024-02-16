@@ -29,7 +29,7 @@ http://mercury.picoctf.net:37669/index.html
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c80c95c1c10fb97c82f94af336f34ea6.png)
 - 按F12到NETWORK，重整後會發現G82XCw5CX3.js
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_afa07f07158db972490b65e21e395709.png)
-- 在G82XCw5CX3.js裡re ./JIFxzHyW8W應該是跟目錄的一些檔案，下載該文件
+- 在G82XCw5CX3.js裡的 ./JIFxzHyW8W應該是跟目錄的一些檔案，下載該文件
 ```
 wget http://mercury.picoctf.net:55336/JIFxzHyW8W
 ```

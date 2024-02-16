@@ -108,6 +108,8 @@ https://fluv.com/tw
 [寵物褓姆 APP](http://chihleeir.lib.chihlee.edu.tw/bitstream/310993300Q/2920/2/6-20180529.pdf)
 [聊天機器人之設計與實作：以提供寵物資訊為例](https://hdl.handle.net/11296/26864f)
 [PetLife: 毛小孩生活智慧屋 專題期末報告](https://www.csie.ncue.edu.tw/csie/3th_grade_project_form/img_pdf/group_03/report.pdf)
+[Beacon技術應用於智慧寵物協尋系統之開](file:///C:/Users/%E9%BB%83%E6%A2%93%E7%91%9C/Downloads/Beacon%E6%8A%80%E8%A1%93%E6%87%89%E7%94%A8%E6%96%BC%E6%99%BA%E6%85%A7%E5%AF%B5%E7%89%A9%E5%8D%94%E5%B0%8B%E7%B3%BB%E7%B5%B1%E4%B9%8B%E9%96%8B%E7%99%BC.pdf)
+
 
 
 - 自動生成3d建模圖
