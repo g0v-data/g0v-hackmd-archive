@@ -103,22 +103,41 @@ https://tw.my-best.com/115111
 
 ## 第三次專題討論
 
-- 寵物保母與雇主的互動
+### 寵物保母與雇主的互動
 https://fluv.com/tw
 [寵物褓姆 APP](http://chihleeir.lib.chihlee.edu.tw/bitstream/310993300Q/2920/2/6-20180529.pdf)
 [聊天機器人之設計與實作：以提供寵物資訊為例](https://hdl.handle.net/11296/26864f)
 [PetLife: 毛小孩生活智慧屋 專題期末報告](https://www.csie.ncue.edu.tw/csie/3th_grade_project_form/img_pdf/group_03/report.pdf)
-[Beacon技術應用於智慧寵物協尋系統之開](file:///C:/Users/%E9%BB%83%E6%A2%93%E7%91%9C/Downloads/Beacon%E6%8A%80%E8%A1%93%E6%87%89%E7%94%A8%E6%96%BC%E6%99%BA%E6%85%A7%E5%AF%B5%E7%89%A9%E5%8D%94%E5%B0%8B%E7%B3%BB%E7%B5%B1%E4%B9%8B%E9%96%8B%E7%99%BC.pdf)
+[Beacon技術應用於智慧寵物協尋系統之開](https://www.airitilibrary.com/Article/Detail/22259481-202203-202203040006-202203040006-275-284)
 
 
 
-- 自動生成3d建模圖
+
+### 自動生成3d建模圖
 將平面圖轉為3D立體建模圖
 透過3D圖 讓大家都能輕鬆理解並裝潢成自己理想的房子
 [平面視圖自動轉換立體模型之研究](https://hdl.handle.net/11296/8r7y6t)
 [以擴增實境為基礎的互動式3D建模系統](https://hdl.handle.net/11296/gau4yh)
-- 旅遊聊天機器人
+
+### 行程安排聊天機器人
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3e07e2dce7552fd4ac40056c4010aa97.png)
+
+- 登入時輸入年齡 性別 
+- 建立聊天機器人角色?
+- 根據使用者要求自動生成行程(景點、美食、住宿)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_21dbe7deaa446e973fc4ffc153162056.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_065360e7bb24ee4db69d86e7cc6577c3.png)
+
+- 需知道交通模式
+- 如若使用者覺得AI生成的行程OK，便加入APP行事曆(?
+- 依照手機上的時間，時間到時可跳通知提醒使用者該前往下一個地點，或是是否需要更改下個遊玩地點，由AI重新生成
+- 使用者給予AI地點評價?作為推薦評估
+- 提供疑問平台(解決資訊更新問題)
 [智慧型聊天機器人之建置-以科技新聞檢索為例](https://hdl.handle.net/11296/v7d99k)
 [聊天機器人應用之探討—以南華大學資管系為例](http://nhuir.nhu.edu.tw/bitstream/987654321/26691/1/106NHU00396015-001.pdf)
 [應用聊天機器人於旅遊資訊查詢探索性研究－ 以澎湖為例](https://hdl.handle.net/11296/uajdb9)
 [線上旅行平台棄單率高達八成，旅程安排是最大痛點！AI 如何讓排行程更順暢？](https://help.pilotplans.com/en/articles/8442220-quick-start)
+[旅行聊天機器人：如何打造旅行者會喜歡的機器人？ | 人人都是產品經理](https://www.vasatech.com.tw/%E6%97%85%E8%A1%8C%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA%EF%BC%9A%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E6%97%85%E8%A1%8C%E8%80%85%E6%9C%83%E5%96%9C%E6%AD%A1%E7%9A%84%E6%A9%9F%E5%99%A8%E4%BA%BA/)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bd0c29879f050d5c631cb56178ab7a2e.png)
