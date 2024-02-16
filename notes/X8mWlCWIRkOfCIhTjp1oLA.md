@@ -283,6 +283,10 @@ https://www.facebook.com/story.php?story_fbid=pfbid02r3T1mX9X42ZyYo5AUpPDGgjcZ4r
 
 新北市秀朗路一段與永和路路口，沒有行人穿越線
 
+新北市新店區北新路中華路口
+https://www.facebook.com/share/p/oZ6i3Ae1So1Vd9FK/
+
+
 鶯歌
 https://www.facebook.com/story.php?story_fbid=pfbid02zMBD4khZejvwrvR4FCrjCRamQG8xqid1nbFPVzhMKKn7EEJfsSJADKDRe2DrbaKxl&id=100049204915573
 

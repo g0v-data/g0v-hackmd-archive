@@ -3,6 +3,7 @@
 ## 發想
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2c72630fd08953a672caa437ceb02886.png)
 ### 旅遊聊天機器人(排行程)
+- 登入時輸入年齡 性別 
 - 建立聊天機器人角色?
 - 根據使用者要求自動生成行程(景點、美食、住宿)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_21dbe7deaa446e973fc4ffc153162056.png)
