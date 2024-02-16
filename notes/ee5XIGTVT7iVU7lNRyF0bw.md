@@ -107,6 +107,9 @@ https://tw.my-best.com/115111
 https://fluv.com/tw
 [寵物褓姆 APP](http://chihleeir.lib.chihlee.edu.tw/bitstream/310993300Q/2920/2/6-20180529.pdf)
 [聊天機器人之設計與實作：以提供寵物資訊為例](https://hdl.handle.net/11296/26864f)
+[PetLife: 毛小孩生活智慧屋 專題期末報告](https://www.csie.ncue.edu.tw/csie/3th_grade_project_form/img_pdf/group_03/report.pdf)
+
+
 - 自動生成3d建模圖
 將平面圖轉為3D立體建模圖
 透過3D圖 讓大家都能輕鬆理解並裝潢成自己理想的房子
