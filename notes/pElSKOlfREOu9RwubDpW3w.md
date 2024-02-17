@@ -14,4 +14,3 @@ https://carnegieendowment.org/2024/02/09/taiwan-s-voters-have-spoken.-now-what-i
 Event
 - https://swissdemocracy.foundation/index.php/home/events/tw-election-results-briefing
 - https://www.youtube.com/watch?v=cbjLqjgD1Z4  Decoding Democracy: Taiwan's 2024 Presidential Election & Implications for the Region & World / Klein Center for Culture and Globalization
-- 
