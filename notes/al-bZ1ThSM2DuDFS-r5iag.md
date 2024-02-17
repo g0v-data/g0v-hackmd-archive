@@ -36,4 +36,5 @@ https://photos.app.goo.gl/XSHtpaX6tPithYhA8
 - https://www.birdwindowcollision.info/post/%E4%BD%BF%E7%94%A8%E8%A4%87%E5%90%88%E6%9D%90%E8%B3%AA%E7%9A%84%E6%96%B9%E6%B3%95diy%E6%94%B9%E9%80%A0%E7%AA%97%E6%88%B6
 - https://www.birdwindowcollision.info/post/%E5%8F%8B%E5%96%84%E9%B3%A5%E9%A1%9E%E5%BB%BA%E6%9D%90
 - 壓花玻璃 https://www.facebook.com/GooddoFans/posts/pfbid0nePWEpe3PjghFRQcrgwKRaGvyMnTMmBRGqR9sFsPzWRqHtjEDJnVTSnvyYhza4Vbl
-- 待確認 https://www.facebook.com/share/p/1GF8gvhy5zXAiJ1i/?mibextid=WC7FNe
+- 待確認 https://www.facebook.com/share/p/1GF8gvhy5zXAiJ1i/
+- 待確認 https://photos.app.goo.gl/UyCQxvbYayC7ny4m8
