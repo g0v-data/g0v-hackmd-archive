@@ -1,5 +1,5 @@
 ---
-title: 2023 第一次網路治理讀書會
+title: 網路治理讀書會 2023 1st
 tags: internet governance, study groups, 讀冊, 讀書會, study group, ICANN, IGF, 網路治理, 共筆, 共同筆記
 image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2e2f8e390e205f728e32c47b45df4e8e.jpg
 ---
