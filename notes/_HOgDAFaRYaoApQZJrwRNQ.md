@@ -63,7 +63,9 @@ tags: 新生流域
         - https://mad.asia/programmes/mad-social-lab/1024
         - https://issuu.com/mad.asia/docs/issuu_street_lab_
     - 討論
-        - chewei> 選擇一個街區？
+        - chewei> 選擇一個街區、特定路徑？
+        - chewei> 民間專案「平安走路許願帳戶-行人庇護空間」https://commutag.agawork.tw/dataset?id=63528cc34f042e88cc951433
+        - chewei> 國土署預計今年推出「全民參與街道改善平台」讓民眾提案希望改善行人安全的路段
 - 新生高架
     - 開始累積相關的討論
     - 討論
