@@ -151,6 +151,9 @@ N/A
     > npm rebuild --platform=linux --arch=x64 sharp
 - rumors-api db
     ```    
+    # webhippie/elasticsearch:6.4 預設的路徑不太一樣，
+    # 需要重新設定環境：https://hub.docker.com/r/webhippie/elasticsearch/
+    # 
     db:
       image: webhippie/elasticsearch:6.4
       environment:
