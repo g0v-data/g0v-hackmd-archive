@@ -21,6 +21,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 ## 活動開始前
 - [ ] 前兩天發布 臉書貼文留言通知大家要來
 - [ ] 詢問大家是否有要喝飲料或吃零食
+- [ ] 帶手機小腳架以拍大合照
 
 ## 活動開始
 - [ ] 花三分鐘自我介紹，簡介網路治理和讀書會，並簡介該次導讀人
