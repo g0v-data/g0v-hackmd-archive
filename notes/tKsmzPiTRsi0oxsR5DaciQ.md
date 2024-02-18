@@ -206,7 +206,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 - 這也是為什麼中國不喜歡 ICANN 機制，因為政府在這邊只能是諮詢角色
 - 起初 IANA 還在美國商務部底下時，就有其他國家認為 IANA 不應該都掌握在美國手上，所以乾脆讓各國政府都不能在 policy dev. process 伸手
 - 也考慮威權國家其實佔全球國家比例多數，故有此規定（使政府的參與囿於 GAC 的範疇）
-- 原則上 ICANN board 沒有 gov officers
+- 原則上 ICANN board 沒有 gov officers 
 
 
 # ARTICLE 2
@@ -227,8 +227,47 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 - (iii) in those cases where the policy action affects public policy concerns, to request the opinion of the Governmental Advisory Committee ("GAC" or "Governmental Advisory Committee") and take duly into account any advice timely presented by the Governmental Advisory Committee on its own initiative or at the Board's request.
     - 必須取得 GAC 諮詢意見
 
-## GAC 
+## GAC carve-out
+- Section 3.6. NOTICE AND COMMENT ON POLICY ACTIONS (e)
+
+# ARTICLE 4
+## RECONSIDERATION
+- (a) ICANN shall have in place a process by which any person or entity materially affected by an action or inaction of the ICANN Board or Staff may request ("Requestor") the review or reconsideration of that action or inaction by the Board. For purposes of these Bylaws, "Staff" includes employees and individual long-term paid contractors serving in locations where ICANN does not have the mechanisms to employ such contractors directly.
+    - anyone could be the requestor
+
+- 會被排除的部分
+    - (i) Disputes relating to country code top-level domain ("ccTLD") delegations and re-delegations;
+    - (ii) Disputes relating to Internet numbering resources; and
+    - (iii) Disputes relating to protocol parameters.
+
+## Section 4.2. RECONSIDERATION (i)
+- (i) The Ombudsman shall be entitled to seek any outside expert assistance as the Ombudsman deems reasonably necessary to perform this task to the extent it is within the budget allocated to this task.
+    - 假如是 ICANN Staffs 違反規範，所以可以找 ombudsman 處理
+
+## board accountability
+- 再次強調，沒有公權力，只能透過積極行動來維繫公信力，某種程度上，受社群信任的公信力比公權力更強大
+- 第一版沒有這麼多東西，是一直 patch 的結果
+
+## what's "disputes"?
+- 有完整定義
+- how to resolve?
+    - 找公正第三方
+
+# questioning
+## relations between bylaws and article of corperation?
+- "...terms and conditions conflict with, or are in violation of, ICANN's Mission or otherwise exceed the scope of ICANN's authority or powers pursuant to these Bylaws ("Bylaws") or ICANN's Articles of Incorporation ("Articles of Incorporation")"
+- bylaws 比較像是憲法
+
+## 
 
 # trivia
 - > 我當初就建議電信總局翻譯 ICANN Bylaws，明明就沒多少錢，但他們就不願意[name=KW WU]
 - > ICANN 過了很久才終於設置了聯合國標準語言的即時口譯，但我個人不建議聽，翻的品質不佳[name=KW WU]
+- 每年花一千美給 ICANN，就能把自己的商標給保留不讓人申請 new gTLD
+- ombudsman 的辦公室都不一定跟 ICANN 待在一起
+- NomCom
+
+
+# 下次
+- 看到 ARTICLE 8
+- 建議大家先了解每個職位的職能和角色再讀

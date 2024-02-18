@@ -55,6 +55,11 @@ jingfong
 有時候我收到你們的訊息
 想說如果是正確的呢
 
-
-
 orz:要說服收到訊息的所有人
+
+---
+
+Note:
+- 需要新增「搭配」的說明 [name=mrorz]
+- https://docs.google.com/spreadsheets/d/1XjEQZ9esNKfkGd8XYd1p3E8DTgB0f5QPDl5ghf-JxE0/edit#gid=0 [name=mrorz]
+
