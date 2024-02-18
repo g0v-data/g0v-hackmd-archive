@@ -1,3 +1,6 @@
+---
+tags: 
+---
 # Meetup with Student from University of Applied Science of Kehl 
 
 ## Context 
@@ -82,3 +85,19 @@ Update 23/12/16:
 - they additionally want to invite a person from a Taiwanese Democracy Foundation, so they might join the event
 - they are happy to pay for lunch
 - they hope to visit moda in the morning 9-10am, so maybe a later start 10:30 or 11am is better
+
+## 0218 Final Checking 
+- setting up the table for pa and stickers 
+- Topic: Government agency and AI 
+    - General Principle 
+    - Dos and Don'ts 
+    - Special consideration 
+- setting the food and drink on that day 
+
+- Meeting time: 13:00-17:00 13:30-17:00 
+    - students coming to NPO HUB 13:00-13:30
+    - speakers coming to NPO HUB 13:00
+- Participants: 
+    - 12+6(Taiwanese) traveling with German Student 
+    - 10:00 am EU Center 2/22 Morning 
+- [Google Drive](https://drive.google.com/drive/folders/17GRtrQiPxW_0hKktwKnwft8_dtMI3Eyl?usp=share_link  ) 
