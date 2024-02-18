@@ -21,7 +21,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 ### 2024 第二次讀書會：[BYLAWS FOR ICANN](https://www.icann.org/resources/pages/governance/bylaws-en) ARTICLE 1 to ARTICLE 4
 
 :::warning
-- 本次讀書會時間於 2024/2/18 Sun. 13:30 ~ 15:30 UTC+8，地點於[台大社科院](https://maps.app.goo.gl/2P7waKeeyi7n2pv26) 631 會議室（近捷運科技大樓站，台大後門），**由於週日社科院有門禁，需要請大家到社科院圖書館一樓門口集合後統一帶入場，請夥伴們盡量於 13:00 - 13:30 時段左右抵達社科院圖書館門口，抵達後如果沒有看到帶隊夥伴，請以 [Facebook Messenger 私訊 Paul](https://fb.com/paulpengtw/) 或電話 0908961085 通知**
+- 本次讀書會時間於 2024/2/18 Sun. 13:30 ~ 15:30 UTC+8，地點於[台大社科院](https://maps.app.goo.gl/2P7waKeeyi7n2pv26) 631 會議室（近捷運科技大樓站，台大後門），**由於週日社科院有門禁，需要請大家到社科院圖書館一樓門口集合後統一帶入場，請夥伴們盡量於 13:00 - 13:30 時段左右抵達社科院圖書館門口，抵達後如果沒有看到帶隊夥伴，請以 [Facebook Messenger 私訊 Paul](https://fb.com/paulpengtw/) 通知**
 - 請參與者在讀書會前完整閱讀 「[BYLAWS FOR ICANN](https://www.icann.org/resources/pages/governance/bylaws-en) ARTICLE 1 to ARTICLE 4」，以利於讀書會進行討論。
 - 報名請於 [此貼文下方](https://www.facebook.com/groups/twigf/posts/3753597471550227/) 留言。若不願意使用臉書，請直接私訊發文者 或寄信至 `internet.governance.studygroup [ＡＴ] cpeng.me`即可。
 :::
