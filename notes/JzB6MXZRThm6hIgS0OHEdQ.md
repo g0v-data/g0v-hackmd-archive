@@ -18,6 +18,7 @@ Contributor:
     - ying
 - supaplextw 協助找到消防署釋出的全台資料集 & 分享 OpenStreetMap 過去有整合過一次防災避難收容點位資料
 - hwan 分享韓國的 Shelter 查詢網頁，以及用詞建議 "대피소" 也分享韓國政府資料開放平台上避難所的 API 釋出網頁，並且彙整靜態資料 csv (2024.01)
+- Kurumi Muto 分享 指定緊急避難場所の全国データ（公開している市区町村すべて）csv 檔案下載網址
 
 Doc
 - https://g0v.hackmd.io/@waytosafety/home/
@@ -404,6 +405,14 @@ APP
     - https://www.npa.gov.tw/ch/app/artwebsite/view?module=artwebsite&id=1061&serno=25d5dae3-2a7d-40ea-8016-e567912ac57c
 
 ### 【JP 日本】全国避難所ガイド
+
+#### Raw Data
+- Designated Evacuation Sites 指定緊急避難場所の全国データ（公開している市区町村すべて）
+    - Kurumi Muto 於 g0v Slack #facing-the-ocean 分享 指定緊急避難場所の全国データ（公開している市区町村すべて）csv 檔案下載網址
+        - https://www.gsi.go.jp/bousaichiri/hinanbasho.html
+        - "There's a CSV dataset that covers all the so-called "designated evacuation sites" across Japan. You should be able to find it if you page search "【ダウンロード】" there."
+
+#### APP 
 - 日本 APP「Safety tips」&「全國避難所」
     - https://www.jnto.go.jp/safety-tips/chc/app.html
     - https://apps.apple.com/tw/app/%E5%85%A8%E5%9B%BD%E9%81%BF%E9%9B%A3%E6%89%80%E3%82%AC%E3%82%A4%E3%83%89/id446063625
@@ -416,6 +425,8 @@ APP
                 - 例如身在臺灣，想了解東京都世田谷區任意地點前往避難處所的路線，使用者自行將起點設置在日本東京
             - 避難處所地圖上有顯示全部的地點
             - 沒有災害情境條件搭配篩選出對應的處所，點開處所之後，在介紹欄位中顯示適用哪些災害種類
+
+#### Others
 - 日本，列印紙本地圖 https://kamimap.com/tw/map/2024-noto-earthquake/
 - 日本，透過大貨車、大客車的 GPS 追蹤資料去帶出道路是否中斷的資訊
     - https://www.its-jp.org/news_info/107997/
@@ -425,7 +436,7 @@ APP
 
 ### 【KR 韓國】6 種避難場所種類，各個查詢網頁
 
-Webpage / API
+#### Webpage / API
 - 지진옥외대피장소 地震室外避難場所 
     - 查詢網頁：https://www.safekorea.go.kr/idsiSFK/neo/sfk/cs/sfc/res/victimList.jsp?acmdfclty_cd=2&emgPage=Y&menuSeq=855
     - API：https://www.data.go.kr/data/15039250/openapi.do#/API%20%EB%AA%A9%EB%A1%9D/getArea3List
@@ -444,7 +455,7 @@ Webpage / API
 - 민방위대피소 民防庇護所
     - 查詢網頁：https://www.safekorea.go.kr/idsiSFK/neo/sfk/cs/contents/civil_defense/SDIJKM1402.html?menuSeq=57
 
-資料彙整 demo，試作釜山地區的資料
+#### 資料彙整 demo，試作釜山地區的資料
 - csv-demo https://docs.google.com/spreadsheets/d/1gQG2k94RvmNcyXLnKT1xWTgafF0SRJIq2TrF96Y1ZJE/edit
 - map-demo https://app.awesome-table.com/-NnnM3t8IzB_LBA8hMWn/view
 

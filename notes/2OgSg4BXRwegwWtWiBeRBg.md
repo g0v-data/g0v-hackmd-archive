@@ -75,6 +75,8 @@ https://www.facebook.com/605050693/posts/pfbid038MfJ3uCWfqQSSrGfdSM8MZt6KJFZXgXy
 - 抽砂
     - 報導者的報導 https://www.facebook.com/story.php?story_fbid=pfbid05WhehT7N4yQC5cPQyPUUamsZiwp6pc8bmnf4eLgTp8gWqYpGQ1dtazqEa2CjXp3Xl&id=100000509688340&mibextid=tejx2t
     - 金門 https://www.facebook.com/story.php?story_fbid=pfbid0kTjhp3GGFRY79ktuH9NMWPXgxPhHPyVRnmWfRVfJopTiU1aG5jH2wb8DJTRofvpsl&id=100000336734694&mibextid=qC1gEa
+- 陸籍快艇越界進入金門海域違法捕撈不慎翻覆案
+    - https://www.facebook.com/share/p/vNq8mKR1ivuVCwHz/
 - 貿易與進出口
 - 郭華仁2010年便以論文〈臺灣與中國育種者權利保護與合作協議的解析〉指出，雙方品種權保護明顯不對等，最大關鍵，在於中國法規僅針對「繁殖材料」的生產和銷售，品種權保護並不及於「收穫物」（比如水梨果實）、「直接加工物」（比如果汁、果乾），乃至品種輸出入都未管制，而且中國「農民免責權」範圍極大，其《植物新品種保護條例》允許農民自行繁殖自用的授權品種，不須品種權人許可，也不須支付使用費。
     - https://www.agriharvest.tw/archives/104381
