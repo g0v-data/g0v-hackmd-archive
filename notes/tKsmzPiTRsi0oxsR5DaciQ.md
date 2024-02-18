@@ -132,9 +132,103 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
         - > ICANN 在本案裡面花了 1,500 多萬美金的律師費與力推`.xxx` 的公司打官司[name=KW WU]
 
 - ICANN 的 multistakeholder 跟 UN (WGIG) 的概念是不同的
-    - 請見 [2024 第一次網路治理讀書會共筆]
-(https://g0v.hackmd.io/q-atv509RSGRcQNczDnMzw?view)
+    - 請見 [2024 第一次網路治理讀書會共筆](https://g0v.hackmd.io/q-atv509RSGRcQNczDnMzw?view)
 
 ## DNS root name server system
 - resolution 是從右至左
-- 
+- root server issues 在 [前次讀書會共筆](https://g0v.hackmd.io/q-atv509RSGRcQNczDnMzw#Public-issue-%E7%9A%84%E5%AE%9A%E7%BE%A9%EF%BC%9A) 也有討論
+- root server 據 IETF 的說法是 hard coded 在程式裡面
+    - > 胡扯 [name=KW WU]
+    - 但總之目前弄出了 anycast 作為 root server 只有十三顆的解決方案，so far 已經有幾千顆的 anycast server，台灣也有三顆 anycast
+    - 這十三顆 root server 有 operator，其它的 mirror server 碰都不能碰
+- 如果是中國 operate 的 anycast server，可以動手動腳（阻擋外部 access/撈取資料等）
+- 用 anycast 時，要簽署合約
+    - > 我當 board 時，就有說假如流氓國家不遵守 agreement，講難聽話 ICANN 也沒有有效手段反制
+    - 頂多就是 routing table 盡量不要走中國的 anycast server
+
+## allcation and assignment
+- 兩者概念不同
+
+## Internet Protocal
+- IP address 是包含在 Internet Protocal 裡面的
+
+## 技術標準
+- 只有 IETF approved 的 RFC，ICANN 才會 follow
+
+## RIRs
+- > 曾經有發生過想把 IANA 的職權分給 RIRs ，但因為太貴和政治性因素，所以最後沒成
+
+<!-- 可能要待會再問一下，有可能我聽錯XD -->
+
+## ICANN 自主規範
+- (b) ICANN shall not act outside its Mission.
+- (c) ICANN shall not regulate (i.e., impose rules and restrictions on) services that use the Internet's unique identifiers or the content that such services carry or provide, outside the express scope of Section 1.1(a). 
+    - ICANN 連 content 內容都不能碰
+    - 這條是有了 IDN 後才加入的
+- For the avoidance of doubt, ICANN does not hold any governmentally authorized regulatory authority.
+    - 因為 ICANN 不是公權力機關，所以花了很多心力在 bylaws 建立了可以建立 accountability 的 sections 和機制
+- (i) the foregoing prohibitions are not intended to limit ICANN's authority or ability to adopt or implement policies or procedures that take into account the use of domain names as natural-language identifiers;
+    - > 是否有實際案例？[name=世軒]
+        - 有一筆錢
+        - 但 UDRP 跟 這邊要討論的可能有點不同
+<!-- notes to Paul: 要補一下此處紀錄 -->
+
+## agreement between ICANN and registry, registrar 
+- differences?
+    - registry agreement
+    - registrar accreditation agreement
+        - e.g. 網路中文就是 ICANN accreditation，好處是 gTLD 他都能賣；目前網家或 CHT 沒有 ICANN accreditation，所以只能賣 `.tw`
+- ccTLD 不受規範
+    - 因為 ARTICLE 1 就說 ICANN 不管，所以 ccTLD 販賣不用 ICANN 同意
+
+## (C)ICANN's Five-Year Strategic Plan and Five-Year Operating Plan existing on 10 March 2016.
+- 就是為了 accountability 才新增此條
+    - 因為 new gTLD，ICANN 變得更有權力後，才需要加上這些問責機制
+
+## (iv) ICANN shall have the ability to negotiate, enter into and enforce agreements, including _public interest_ commitments, with any party in service of its Mission.
+- what's "public interest"?
+    - 當時開放 new gTLD 前，就有人質疑對於該政策和 public interest 的關聯，所以 ICANN 找了兩間美國的大學，研究開放 new gTLD 會對世界新增哪些價值？
+
+## open, transparent and bottom-up, multistakeholder policy development process
+
+## functional, geographic, and cultural diversity
+- 性別平等很難做到
+- geographic 要落實很有意思，原則上不同年份是可以 claim 不同身份
+    - e.g. 住在英國的非洲人，但在 ICANN 還是算非洲
+    - 當然如果他人覺得有疑義，還是可以到 public forum challenge 這個問題
+
+## Domain name 的市場機制
+- new gTLD 的開放就是依據這條進行的
+    - (iii) Where feasible and appropriate, depending on market mechanisms to promote and sustain a competitive environment in the DNS market;
+
+## private sector 的權力
+- (vi) While remaining rooted in the private sector (including business stakeholders, civil society, the technical community, academia, and end users), recognizing that governments and public authorities are responsible for public policy and duly taking into account the public policy advice of governments and public authorities;
+- 這也是為什麼中國不喜歡 ICANN 機制，因為政府在這邊只能是諮詢角色
+- 起初 IANA 還在美國商務部底下時，就有其他國家認為 IANA 不應該都掌握在美國手上，所以乾脆讓各國政府都不能在 policy dev. process 伸手
+- 也考慮威權國家其實佔全球國家比例多數，故有此規定（使政府的參與囿於 GAC 的範疇）
+- 原則上 ICANN board 沒有 gov officers
+
+
+# ARTICLE 2
+## Section 2.2. RESTRICTIONS
+- register.com 在網際網路剛開始發展時，由美國政府資助成立，管理 `.gov` `.mil` 等等；同時是 registry and registrar，美國國會認為不能讓 register.com 一家獨大，決定拆分
+    - 因此才有這條 "ICANN shall not act as a Domain Name System Registry or Registrar or Internet Protocol Address Registry"
+    - 不過 ccTLD 一樣不受這個原則規範
+- 不能肩負 RIRs 任務，因為會有利益衝突問題
+
+# ARTICLE 3
+## 都在嚴格規定如何確保公開透明
+- 假如處理到機密敏感問題該怎麼處理？
+    - 所有其餘 secretrariants 出去，只留下一個 board secretary，他必須簽 NDA
+    - 公開會議紀錄會去除機敏資訊後發布，但完整會議紀錄還是會留存在內部
+    - e.g. 某次在巴黎的會議，就有機敏資訊被外洩，有找了 ombudsman 調查，甚至叫所有與會人的通聯記錄做 discovery
+
+## GAC 的角色
+- (iii) in those cases where the policy action affects public policy concerns, to request the opinion of the Governmental Advisory Committee ("GAC" or "Governmental Advisory Committee") and take duly into account any advice timely presented by the Governmental Advisory Committee on its own initiative or at the Board's request.
+    - 必須取得 GAC 諮詢意見
+
+## GAC 
+
+# trivia
+- > 我當初就建議電信總局翻譯 ICANN Bylaws，明明就沒多少錢，但他們就不願意[name=KW WU]
+- > ICANN 過了很久才終於設置了聯合國標準語言的即時口譯，但我個人不建議聽，翻的品質不佳[name=KW WU]
