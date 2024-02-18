@@ -68,6 +68,7 @@ tags: 新生流域
         - chewei> 選擇一個街區、特定路徑？
         - chewei> 民間專案「平安走路許願帳戶-行人庇護空間」https://commutag.agawork.tw/dataset?id=63528cc34f042e88cc951433
         - chewei> 國土署預計今年推出「全民參與街道改善平台」讓民眾提案希望改善行人安全的路段
+        - chewei> 參考巴塞隆納 "阻隔部分路口，避免車輛直通穿越，以創造行人連續路徑" 於台灣街區相關探討 https://g0v.hackmd.io/ErnTx4HXSly3E0I9J0zOxQ?view
 - 情境二：新生高架
     - 長期將面對橋梁是否修繕的議題，可從近期累積相關的探討
     - 討論

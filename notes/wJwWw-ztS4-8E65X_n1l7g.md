@@ -1,4 +1,8 @@
-Cofacts 　真的假的 第４０次小聚小松果
+---
+tags: cofacts
+---
+
+Cofacts 真的假的 第４０次小聚小松果
 ====
 #cofacts
 

@@ -99,5 +99,6 @@ Update 23/12/16:
     - speakers coming to NPO HUB 13:00
 - Participants: 
     - 12+6(Taiwanese) traveling with German Student 
-    - 10:00 am EU Center 2/22 Morning 
+        - The 6 additional students are not secured yet - the professors will also share the google form with them.
+    - 10:00 am EU Center 2/22 Morning - Meeting with Mashbean from Moda 
 - [Google Drive](https://drive.google.com/drive/folders/17GRtrQiPxW_0hKktwKnwft8_dtMI3Eyl?usp=share_link  ) 
