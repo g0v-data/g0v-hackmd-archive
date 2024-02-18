@@ -321,6 +321,9 @@ https://www.facebook.com/100064848694500/posts/pfbid02P1YrjWqM4RhQfVzs9NDHcLFM3M
 新竹
 https://www.facebook.com/story.php?story_fbid=pfbid0YHMSn8SxNPH1jTX1XWETbs6J151cBW8TYoZj6aiEudZ2cL1Px5gMLCoztb67PCeyl&id=100049204915573&mibextid=qC1gEa
 
+新竹光復路一段
+https://www.facebook.com/share/p/Tn33id7Yr3vB1uFv/
+
 新竹建功路，小型圓環案例參考
 https://fb.watch/kGC-s0SlCw/
 
