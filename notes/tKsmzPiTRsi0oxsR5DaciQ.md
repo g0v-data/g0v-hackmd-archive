@@ -28,3 +28,36 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 - [2024 第二次網路治理讀書會共同筆記](/tKsmzPiTRsi0oxsR5DaciQ)
     - 本次讀書會導讀人：[Kuo-Wei Wu（臺灣網路治理論壇 TWIGF 理事長）](https://www.facebook.com/kuoweiwu/)
 
+# 前言
+- 寫得非常細，從來沒看過 bylaws 寫的這麼長的，分了 27 個 chapter
+- 第一版是 lessig 帶著他的學生寫的，直到 2024 已經修訂了 6 或 7 次
+- mission 非常重要，但可能有比較多東方文化比較不熟悉的內涵
+    -  公共利益在不同的文化脈絡理解會有不同，就需要溝通
+    -  像是在西方就很重視利益迴避，但東方不一定是一個 core value
+    -  過往 ICANN 沒有委員會處理此一題，2012 或 13 成立了利益迴避的委員會
+        -  當時開放 newgTLD，但時任董事長卸任後就跑去了另一個 new gTLD 當董事長
+        -  在 public forum 所有人天天罵 board member，甚至有人提告
+        -  在此之後就有專門委員會，將利益迴避原則具體化
+        -  台灣或許有可以學習的地方
+- 比較特別的地方：寫了什麼事情不要做 
+        - Bylaws 的細緻程度目的在於避免擴權、避免高度政治化
+- 游宗易問：像是台灣會有人在 GAC 當中被要求不能稱呼自己是「台灣」，為什麼？
+    - > 當初是我把台灣弄進 GAC，當時我擔任國科會高速電腦中心副主任，以此身份進入；在修法過程中，加入了「economy」，besides country and intl-org [name=KW Wu]
+    - 只要把 ICANN 放在 UN 底下，就能把台灣趕走，所以這是中國一開始不加入 ICANN 的原因
+    - 馬政府時期同意台灣以 Chinese Taipei 身份加入 GAC
+        - 惟 ICANN GAC 適用此規則，其它皆得以臺灣參與
+        -  <!--  快樂～～～～～ -->
+    -  <!-- notes by Paul（要補充吳 sir 的外交困境小故事，13:50:00 左右） -->
+
+- accountability 在 ICANN 的重要性
+    - 要怎麼讓 ICANN policy 讓所有 stakeholder 都遵守？（如何以具體機制達成責信）
+        - 共識
+        - 公開透明
+    - ombudsman, ARTICLE 5
+        - ICANN 在組織外面設置辦公室，成員幾乎都是檢察官
+        - ombudsman 會要求 ICANN 去執行某些跟組織監察有關的決議
+        - > 所以我都叫 GAC 的台灣代表去找 ombudsman 爭執台灣稱呼的問題
+
+# ARTICLE 1
+
+
