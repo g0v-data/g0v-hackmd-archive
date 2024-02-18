@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [intgov study groups logistics](../notes/WDJMfpCUQZqb0NfQT0o04w.md) | 2024-02-18T17:53:12+08:00 | 2024-02-08T15:19:25+08:00 |
+| 1 | [intgov study groups logistics](../notes/WDJMfpCUQZqb0NfQT0o04w.md) | 2024-02-18T18:10:29+08:00 | 2024-02-08T15:19:25+08:00 |
 | 2 | [網路治理讀書會 2024 2nd](../notes/tKsmzPiTRsi0oxsR5DaciQ.md) | 2024-02-18T16:41:11+08:00 | 2024-02-08T16:31:50+08:00 |
 | 3 | [網路治理讀書會 2024 1st](../notes/q-atv509RSGRcQNczDnMzw.md) | 2024-02-18T14:58:47+08:00 | 2023-12-29T23:42:53+08:00 |
 | 4 | [網路治理讀書會 2023 1st](../notes/oQs810R4TS2JeHOcl-2P_A.md) | 2024-02-18T01:51:17+08:00 | 2023-11-19T20:07:59+08:00 |

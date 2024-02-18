@@ -17,6 +17,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 - [ ] 把下次共筆的地點位置更新
 - [ ] 製作社群圖片和貼文
 - [ ] 將上述社群貼文發佈到 TWIGF 臉書社團、g0v slack #ig
+- [ ] 提醒大家先讀文本
 
 ## 活動開始前
 - [ ] 前兩天發布 臉書貼文留言通知大家要來
