@@ -2,6 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [cofacts](tags/cofacts.md) | 427 | 2024-02-18T09:15:16+08:00 |
+| [meeting note](tags/meeting%20note.md) | 254 | 2024-02-18T09:15:16+08:00 |
 | [新生流域](tags/%E6%96%B0%E7%94%9F%E6%B5%81%E5%9F%9F.md) | 12 | 2024-02-18T08:07:38+08:00 |
 | [GIS](tags/GIS.md) | 143 | 2024-02-18T07:50:19+08:00 |
 | [internet governance](tags/internet%20governance.md) | 6 | 2024-02-18T01:51:17+08:00 |
@@ -17,8 +19,6 @@
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6705 | 2024-02-18T00:38:24+08:00 |
 | [web3](tags/web3.md) | 114 | 2024-02-17T15:43:41+08:00 |
 | [Shoutout](tags/Shoutout.md) | 32 | 2024-02-17T15:43:41+08:00 |
-| [cofacts](tags/cofacts.md) | 427 | 2024-02-17T15:23:58+08:00 |
-| [meeting note](tags/meeting%20note.md) | 254 | 2024-02-17T15:23:58+08:00 |
 | [AI](tags/AI.md) | 21 | 2024-02-17T10:14:43+08:00 |
 | [whisper](tags/whisper.md) | 1 | 2024-02-17T10:14:43+08:00 |
 | [summit2024](tags/summit2024.md) | 38 | 2024-02-16T22:26:47+08:00 |

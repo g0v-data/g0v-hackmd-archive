@@ -65,18 +65,18 @@ N/A
 	> 那麼明天見囉😊
 	>
 	> 比鄰敬上
-    - [ ] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
-	- [ ] 準備 Slido `#cofacts40`
-		- [ ] 放投影片網址
+    - [x] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
+	- [x] 準備 Slido `#cofacts40`
+		- [x] 放投影片網址
     - [ ] 幫 Netgear 充電
 - 當日準備 / 攜帶
-    - [ ] 樓下用的標語 - orz
+    - [x] 樓下用的標語 - orz
     - [ ] 貼紙 - orz, bil
-    - [ ] 黏土 - orz
+    - [x] 黏土 - orz
     - [ ] 尾款 - bil
     - [ ] 手板 - bil
     - [ ] ~~延長線~~
-    - [ ] 編輯小聚的牌子 - orz
+    - [x] 編輯小聚的牌子 - orz
     - [ ] ~~Wifi 機 - mrorz~~
         - [ ] Netgear 本體
             - [ ] usb type-c 充電線與插座 （已充飽電，無需插座）
@@ -104,8 +104,8 @@ N/A
     - [ ] Google Chrome tab: [投影片](https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit)
     - [ ] Google Chrome tab: [Bignum](https://cofacts.github.io/community-builder/#/bignum/setup)
     - [ ] Google Chrome tab: [KKTIX](https://cofacts.kktix.cc/events/cofactseditor40)
-    - [ ] Google Chrome tab: [Slido admin](https://admin.sli.do/event/jkZtEfky1jGbrhrV5xLVYV/questions)
-    - [ ] Google Chrome tab: [Slido](https://wall.sli.do/event/jkZtEfky1jGbrhrV5xLVYV?section=0de97ed8-b0d4-4922-aa6b-71a9619add69)
+    - [ ] Google Chrome tab: [Slido admin](https://admin.sli.do/event/nm76YwhjPaWEMvAgvELMLp/home)
+    - [ ] Google Chrome tab: [Slido](https://wall.sli.do/event/nm76YwhjPaWEMvAgvELMLp?section=1b43b8ac-95c8-4b6a-8b21-1f92464b0c21)
     - [ ] Google Chrome tab: [開場影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs)
     - [ ] BGM
     - [ ] Analytics
