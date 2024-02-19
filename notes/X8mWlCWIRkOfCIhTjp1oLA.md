@@ -370,6 +370,9 @@ https://www.facebook.com/share/p/Xv5krVmQcWnhHmMz/?mibextid=WC7FNe
 台中市西區
 https://www.facebook.com/story.php?story_fbid=pfbid02cGTTrgsjGjyisCKYYT8yp3uidGks1WHuLp7Lerxs592cMAcSAHiN19gk9YVbfK8Zl&id=100083131440923&mibextid=qC1gEa
 
+臺中女中
+https://www.facebook.com/share/p/tzbriGNaQ7dt7oQN/
+
 台中市進化北路人行道
 https://www.facebook.com/story.php?story_fbid=pfbid08UD9JSy1KWjoEesuobwQe41AmX83fzC8WkytjShL1CtGtoxCEVfYf3aprx4nzeBml&id=100063883987874&mibextid=qC1gEa
 
