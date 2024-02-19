@@ -53,6 +53,10 @@ tags: de0rg
     - 書
     - **線上課程**
 
+## 已有類似方案
+
+- [好事道](https://gooddeeddao.com/)
+- [POAP](https://poap.xyz/)
 ---
 ## 20230430 桐花松共筆
 
