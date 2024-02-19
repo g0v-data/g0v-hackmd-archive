@@ -27,3 +27,6 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 ## 活動開始
 - [ ] 花三分鐘自我介紹，簡介網路治理和讀書會，並簡介該次導讀人
 - [ ] 拍大合照
+
+## 活動結束
+- [ ] 感謝大家，請大家不吝批評指教

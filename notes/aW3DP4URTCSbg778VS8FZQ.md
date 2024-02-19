@@ -56,6 +56,7 @@ tags: de0rg
 ## 已有類似方案
 
 - [好事道](https://gooddeeddao.com/)
+- [da0 shoutout](https://g0v.hackmd.io/?nav=search&q=shoutout)
 - [POAP](https://poap.xyz/)
 ---
 ## 20230430 桐花松共筆
