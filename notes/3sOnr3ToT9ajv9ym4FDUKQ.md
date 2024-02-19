@@ -9,6 +9,10 @@ tags: GIS,
 > 討論串 [https://www.facebook.com/groups/odtwn/permalink/1635895016424910/](https://www.facebook.com/groups/odtwn/permalink/1635895016424910/)
 > [name=che l]
 
+:::warning
+目錄
+[TOC]
+:::
 
 ## 基本構想
 
@@ -373,6 +377,7 @@ http://www.caa.gov.tw/big5/content/index.asp?sno=960
             - 違建處理
             - 公寓大廈管理
         - 其他
+    - ArkiTeki 是針對建築及相關產業打造的法規資料庫平台，數位化的資料庫協助建築從業人員降低搜尋成本，並透過數種平台功能累積法規相關經驗及知識，建立個人或群體之法規管理機制。 https://arkiteki.com/
 
 
 ### 從特定區位來檢視涉及什麼法令
