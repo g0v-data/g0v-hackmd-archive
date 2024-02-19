@@ -67,6 +67,10 @@ tags: 新生流域
     - 討論
         - chewei> 選擇一個街區、特定路徑？
         - chewei> 民間專案「平安走路許願帳戶-行人庇護空間」https://commutag.agawork.tw/dataset?id=63528cc34f042e88cc951433
+        - chewei> 中山區參與式預算，其中一個主題是 出行放心，討論內容聚焦於如何提升本區交通與行人活動安全？
+            - https://www.facebook.com/pb.taipei/posts/pfbid02Ns8PDBPSb8vnixMmWp1mTYsvHQqSXoCi7zSxs8SdGvSYPwmHw8DybsjVa3Kb4MyZl
+            - 🏆懷生學童好行
+            - 🏆埤頭親子安全行
         - chewei> 國土署預計今年推出「全民參與街道改善平台」讓民眾提案希望改善行人安全的路段
         - chewei> 分享參考巴塞隆納 "阻隔部分路口，避免車輛直通穿越，以創造行人連續路徑" 街區路徑再設計手法，於台灣街區開展相關探討與方案研擬，工作文件與線上地圖如下 (台北市新生流域範圍有試作 中山捷運綠廊、伊通公園街廓、溫州街與泰順街沿線街區) https://g0v.hackmd.io/ErnTx4HXSly3E0I9J0zOxQ?view
 - 情境二：新生高架

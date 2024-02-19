@@ -6,7 +6,11 @@ lang: zh-tw
 ---
 不專業的短文：[表單分析與行人地獄研究報告](https://hackmd.io/@sky-wind-note/Pedestrian_Hall)
 # 什麼是行人地獄
+wip
+[行人地獄wiki](https://zh.wikipedia.org/zh-tw/%E8%A1%8C%E4%BA%BA%E5%9C%B0%E7%8D%84)
+
 # 相關爭議
+wip
 # 如何解決問題
 
 ## 資料

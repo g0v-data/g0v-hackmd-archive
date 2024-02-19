@@ -5,9 +5,11 @@ tags: Participatory Budgeting,預算
 # 參與式預算資料收集共筆
 
 ![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_a6775f877921c5b094467112bfd31ece)
-> [http://pacpr.wordpress.com/2013/09/17/get-involved-with-participatory-budgeting/](http://pacpr.wordpress.com/2013/09/17/get-involved-with-participatory-budgeting/)
-> [name=che l]
 
+:::warning
+目錄
+[TOC]
+:::
 
 ## 國外：定義、實例
 
@@ -97,12 +99,14 @@ tags: Participatory Budgeting,預算
 ## 國內
 
 
-### 台灣執行經驗蒐集
+### 臺灣執行經驗蒐集
 
-- [台灣 參與預算提案與追蹤 地圖](https://g0v.hackmd.io/WFWQniENSqKj-azSnt2nBg)
+- [臺灣 參與預算提案與追蹤 地圖](https://g0v.hackmd.io/WFWQniENSqKj-azSnt2nBg)
     - 文化部
-    - 台北市
-        - 各行政區
+    - 臺北市
+        - 入口網站 https://pb.taipei/
+        - 111年度地圖資料有誤 
+            - https://canet.civil.taipei/TP105-1/PartiBudget/index_111.html?town=zs
     - 新北市
         - 節電主題
         - 身心障礙者就業促進方案參與式預算
@@ -165,6 +169,7 @@ tags: Participatory Budgeting,預算
 
 ### g0v 相關專案
 
+- https://g0v.hackmd.io/@jothon/budget/
 - [台灣 參與預算提案與追蹤 地圖](https://g0v.hackpad.com/--8bv7Ygr5wKr)
 - 中央政府總預算 [http://buget.g0v.tw](http://buget.g0v.tw)
     - repo: [https://github.com/g0v/twbudget](https://github.com/g0v/twbudget)
