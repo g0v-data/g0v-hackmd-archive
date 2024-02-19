@@ -2,6 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [cofacts](tags/cofacts.md) | 430 | 2024-02-20T01:15:57+08:00 |
+| [meeting note](tags/meeting%20note.md) | 255 | 2024-02-20T01:15:57+08:00 |
 | [GIS](tags/GIS.md) | 143 | 2024-02-19T22:07:27+08:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6710 | 2024-02-19T21:48:41+08:00 |
 | [Participatory Budgeting](tags/Participatory%20Budgeting.md) | 2 | 2024-02-19T19:33:45+08:00 |
@@ -22,12 +24,10 @@
 | [intgov](tags/intgov.md) | 2 | 2024-02-19T10:44:38+08:00 |
 | [de0rg](tags/de0rg.md) | 1 | 2024-02-19T10:04:39+08:00 |
 | [China](tags/China.md) | 5 | 2024-02-18T23:57:40+08:00 |
-| [cofacts](tags/cofacts.md) | 429 | 2024-02-18T21:52:30+08:00 |
 | [web3](tags/web3.md) | 114 | 2024-02-18T15:42:16+08:00 |
 | [Shoutout](tags/Shoutout.md) | 32 | 2024-02-18T15:42:16+08:00 |
 | [AI](tags/AI.md) | 22 | 2024-02-18T13:53:44+08:00 |
 | [LLM](tags/LLM.md) | 1 | 2024-02-18T13:53:44+08:00 |
-| [meeting note](tags/meeting%20note.md) | 254 | 2024-02-18T09:15:16+08:00 |
 | [whisper](tags/whisper.md) | 1 | 2024-02-17T10:14:43+08:00 |
 | [summit2024](tags/summit2024.md) | 38 | 2024-02-16T22:26:47+08:00 |
 | [edu](tags/edu.md) | 143 | 2024-02-16T13:23:23+08:00 |
