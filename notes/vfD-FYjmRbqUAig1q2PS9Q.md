@@ -9,14 +9,15 @@
 
 
 **2.成果說明:**
-在過去的半年中，我們成功舉辦了七次討論會議，並集結了來自Alan、Albert、Andy、Bella、Dell、Gumi、Happy、Jason_Su、Jinzung、Jonny、Kai、Leon、Liver、Paul Mao、Smith、Wayne、Will、Willie等成員的寶貴意見。這些討論包含了三大主題和多個小組討論，所有相關內容都已整理在共用區（\\172.16.3.242\isbg-hd\isbu\Video\自主成長計畫(PM)）。
+在過去的半年中，我們成功舉辦了七次討論會議，並集結了來自Alan、Albert、Andy、Bella、Dell、Gumi、Happy、Jason_Su、Jinzung、Jonny、Kai、Leon、Liver、Paul Mao、Smith、Wayne、Will、Willie等成員的寶貴意見。這些討論包含了三大主題和多個小組討論，所有相關內容都已整理在共用區（\\\172.16.3.242\isbg-hd\isbu\Video\自主成長計畫(PM)）。
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e7fad18cd808b369490eb50e5dd1b5a6.png)
 
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_910da6ee5e488d13d55cf8bd4e7cdde7.png)
 
 2023/06/29 主題：Pre-Kick Off
-計畫的內容、如何執行、主題內容等
+計畫的內容、如何執行、主題內容等。
+
 2023/07/06 主題：專案管理經驗分享
 Happy透過實務經驗分享了專案管理的執行方法，引導新人深入了解專案管理的世界。
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c1e9a10601cd10de048d46bf5e2f5c49.png)
@@ -24,7 +25,7 @@ Happy透過實務經驗分享了專案管理的執行方法，引導新人深入
 
 
 2023/07/21 主題：顧客應對心得
-Johnny分享了多年處理顧客的經驗，深入解析問題處理流程與顧客屬性分類。
+Jonny分享了多年處理顧客的經驗，深入解析問題處理流程與顧客屬性分類。
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2d32c427fccbb02faf4071f189d866d6.png)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6da6d35850be9ce8630731a96596b130.png)
@@ -53,11 +54,11 @@ https://youtu.be/7IE9kYuHjWw?si=lSOzElfqnnCocJJ1&t=85
 
 **5.計畫未來方向討論:**
 經過反思與討論整理後，提出以下幾點作為未來計畫執行的方向。
-(1)將成員提出的工作流程修改建議，拿出來擴大討論 比如我們會想知道，PM對工作的認知，是否跟SE、Consultant的認知一樣? 
-(2)其實PM來自於不同產品團隊，同質性並不高，討論中常常會有因彼此不熟悉不敢發表看法的情況。溝通磨合要花許大的時間(即使各自團隊function的很好)。我們提出優化團隊的第一步建議，是先由提升對彼此認識開始，了解到其他團隊做事的方法跟習慣，而不是同化。
-(3)Alan曾經對團隊有師徒制的想法，但後來覺得現在的小組模式其實運行的也不錯，。
-*需要做PM工作的成員受到客戶影響，能夠參與討論的頻率其實非常低，提早約時間也沒辦法提升到場比例，代表團隊其實不適合較大規模的會議的討論模式。
-*目前我們的部門文化是"共享、互助、合作"，是不是需要增加能讓團隊成員普遍認同的組織文化和目標?
+1. 將成員提出的工作流程修改建議，拿出來擴大討論 比如我們會想知道，PM對工作的認知，是否跟SE、Consultant的認知一樣? 
+2. 其實PM來自於不同產品團隊，同質性並不高，討論中常常會有因彼此不熟悉不敢發表看法的情況。溝通磨合要花許大的時間(即使各自團隊function的很好)。我們提出優化團隊的第一步建議，是先由提升對彼此認識開始，了解到其他團隊做事的方法跟習慣，而不是同化。
+3. Alan曾經對團隊有師徒制的想法，但後來覺得現在的小組模式其實運行的也不錯，會維持原案繼續進行。
+4. 需要做PM工作的成員受到客戶影響，能夠參與討論的頻率其實非常低，提早約時間也沒辦法提升到場比例。假如該計畫執行受到認可，是否有機會像本次月會一樣，借其他會議的時間來進行共同討論?
+5. 目前我們的部門文化是"共享、互助、合作"，我們想增加能讓團隊成員普遍認同的組織文化和目標。
 比方說:
 ISSDBU是不是一個客戶至上的團隊? 那麼在甚麼樣的情況下，我們願意退讓? 比如客戶提出的需求，因為觸犯到另一樣我們重視的價值所以我們會嚴正地拒絕客戶的要求。
 這些問題的答案是唯一且大家都認同，還是每個人心裡有不同的答案?
