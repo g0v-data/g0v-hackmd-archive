@@ -4,7 +4,7 @@ tags: web3, Shoutout
 
 # da0 Shoutout 02/20 會議記錄
 * 時間：2024/02/20 20:30
-* 參與者：
+* 參與者：昶惟、Chubby、Danny、Kay
 * [會議連結](https://meet.google.com/tpx-cukc-mfn)
 * [上次會議紀錄](https://g0v.hackmd.io/7DttJh8PR3qVK2gLE5FIvA?both)
 * [SO Project Master Sheet](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=1051831713)
@@ -42,7 +42,7 @@ tags: web3, Shoutout
     * 昶惟
 
 ## Action Items
-
+* 進行 Labfront/FAB DAO/da0 用戶訪談（[Trello Task](https://trello.com/b/nF7sUC78/shoutout-2024))
 
 ## AI 整理總結
 
