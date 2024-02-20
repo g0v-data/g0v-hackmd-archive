@@ -378,6 +378,8 @@ https://rsjhs.ntct.edu.tw/p/404-1010-403933.php?Lang=zh-tw
 大規模震災情境下避難收容處所開設管理與防災士空間分布特徵之評析
 https://hdl.handle.net/11296/3m94b2
 
+是否有開設紀錄歷史資料？收容場域，成為地區生活經驗之一，歸納避難收容設施改善議題
+
 應變單位與救援單位 csv
 https://data.gov.tw/dataset/5969
 
