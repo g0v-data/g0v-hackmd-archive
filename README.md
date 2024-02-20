@@ -2,7 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6712 | 2024-02-20T13:52:31+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6712 | 2024-02-20T14:59:59+08:00 |
+| [Rentea](tags/Rentea.md) | 176 | 2024-02-20T14:54:08+08:00 |
 | [cofacts](tags/cofacts.md) | 430 | 2024-02-20T13:31:06+08:00 |
 | [meeting note](tags/meeting%20note.md) | 255 | 2024-02-20T13:31:06+08:00 |
 | [hackathon](tags/hackathon.md) | 27 | 2024-02-20T13:30:13+08:00 |
@@ -26,7 +27,6 @@
 | [logistics](tags/logistics.md) | 1 | 2024-02-20T13:20:27+08:00 |
 | [AI](tags/AI.md) | 22 | 2024-02-20T11:52:22+08:00 |
 | [LLM](tags/LLM.md) | 1 | 2024-02-20T11:52:22+08:00 |
-| [Rentea](tags/Rentea.md) | 176 | 2024-02-20T11:36:53+08:00 |
 | [GIS](tags/GIS.md) | 143 | 2024-02-20T11:04:09+08:00 |
 | [summit2024](tags/summit2024.md) | 40 | 2024-02-20T10:35:25+08:00 |
 | [Participatory Budgeting](tags/Participatory%20Budgeting.md) | 2 | 2024-02-19T19:33:45+08:00 |
