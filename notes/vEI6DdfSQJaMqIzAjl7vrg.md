@@ -44,7 +44,7 @@ tags: Rentea
 
 ### 01/16 已知文章
 
-1. g0v Summit所需要提前準備的資料可以生成文章
+1. [g0v Summit所需要提前準備的資料可以生成文章](https://g0v.hackmd.io/N324-pFbTLWH_o7Yxzu0jg)
 2. g0v Summit 活動側記
 3. 第一間房子 2.0 改造側記
 

@@ -18,16 +18,34 @@ tags: Rentea
 
 - ddio
 - paul
+- PN
+- YC
 
 今天想要聊聊...
 
 1. [租出育兒宅](https://g0v.hackmd.io/@ddio/rentea-tue/https%3A%2F%2Fg0v.hackmd.io%2FtQZeLfF7SueLMKLO6eMvrQ) @ddio
    1. [裝修坑需求訪談 90%](https://hackmd.io/s_TUJZ06RtGEvnQSe56VXg?view)
+   2. 跟房東談的順序：
+      1. 戶籍就會被查稅嗎？
+         > [name=PN] 如果戶政不知道的話，就不會被查稅。
+         > [name=ddio] 理論上遷入戶口的主要理由，是租屋 XD
+      2. 報稅 
+         > [name=ddio] 愛心房東，也會卡非自住房屋交易
+         > [name=ddio] 想找崔媽媽諮詢
+      3. 優先續租權
+         > [name=ddio] 目前想要拿到 **單次** ，保證可須租，給房東租金漲幅上限、保證裝修金額
+         > [name=PN] 時間頗趕 XD
+1. [日本 DIY 租約](https://g0v.hackmd.io/N324-pFbTLWH_o7Yxzu0jg) @PN
 1. 眼底城市客座編輯 @PN
-1. 大松要來....
-2. Summit 要來....
-3. 本屆零時小學校 demoday 結束後才能開始找房子的 Paul
+      - [專案共筆](https://g0v.hackmd.io/vEI6DdfSQJaMqIzAjl7vrg)
+3. 大松要來....
+4. [Summit 要來](https://g0v.hackmd.io/@ddio/rentea-tue/https%3A%2F%2Fg0v.hackmd.io%2FPcWuQ3vXREqLAqrd0EQugg)...
+   - 一篇文章 + 用這篇的內容開場
+   - ddio 寫邀請函
+6. 第一季小聚！
+7. 本屆零時小學校 demoday 結束後才能開始找房子的 Paul
     - > 金摳連 [name=paul]
+
 
 ## 85 小聚 / 2024-01-16, 19:30 - 21:00
 
