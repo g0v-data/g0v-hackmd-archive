@@ -1,6 +1,6 @@
 ---
 title: 大松小幫手指南
-tags: hackathon, 小幫手, 志工, volunteer, helper, 大松, 大黑客松
+tags: hackathon, 小幫手, 志工, volunteer, helper, 大松, 大黑客松, infras, 基建, 基礎建設
 ---
 
 # 大松小幫手指南
@@ -19,7 +19,8 @@ tags: hackathon, 小幫手, 志工, volunteer, helper, 大松, 大黑客松
 
 ## 報到
 - 前置作業
-    - 記得提早把註冊 KKTIX 的 Email 用 g0v Slakc 給揪松職工，請他們幫忙開 KKTIX 後台報到權限給小幫手
+    - 記得提早把註冊 KKTIX 的 Email 用 g0v Slack 私訊給揪松職工，請他們幫忙開 KKTIX 後台報到權限給小幫手
+        - Feb 2024 updates: KKTIX 在 2023 有改版，每個活動都需要個別開權限
     - 請先在自己的手機上下載 KKTIX Manager APP
 - 當天掃 QR CODE
    - 打開 KKTIX Manager APP 確認當天大松的活動是否有出現在畫面

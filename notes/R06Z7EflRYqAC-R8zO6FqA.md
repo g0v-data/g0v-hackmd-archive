@@ -16,9 +16,9 @@ GA: UA-98468513-3
 
 ### :star: Released to production
 
-#### :electric_plug: API
-#### :globe_with_meridians: Site
 #### :robot_face: rumors-line-bot
+
+https://github.com/cofacts/rumors-line-bot/releases/tag/release%2F20240216
 
 ### :rocket: Staging
 
@@ -116,4 +116,6 @@ http://dev.cofacts.tw/
 
 
 ### :eye: Under review
+
+
 

@@ -1,6 +1,6 @@
 ---
 title: g0v DigiResiThon logistics
-tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, logistics
+tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, logistics, 基建, 基礎建設
 ---
 [👉 用每月一盒披薩的錢，陪伴龍年寶寶 g0v 邁向下一個龍年！👈](https://ocf.neticrm.tw/civicrm/contribute/transact?reset=1&id=30)
 
@@ -10,7 +10,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 捐款挺大松，填滿更多坑！
 ::: 
 
-# g0v DigiResiThon logistics
+# g0v DigiResiThon logistics 基建
 
 :::info
 [↩️ 回到籌備文件](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home)

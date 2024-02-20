@@ -49,4 +49,4 @@ Other
 ---
 - [bootstrap and 參考資訊們](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/Qc8gsyY-Rn-4lXUA1gLH1g)
 - [民防相關證照](/B-ky08JbR4-HD3lFDwynLQ)
-- [logistics of DigiResiTh0n](/e6rWxnppQmuSpUxcoXzoHw)
+- [基建 logistics of DigiResiTh0n](/e6rWxnppQmuSpUxcoXzoHw)
