@@ -2,9 +2,12 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [Rentea](tags/Rentea.md) | 176 | 2024-02-20T20:57:55+08:00 |
-| [web3](tags/web3.md) | 114 | 2024-02-20T16:55:26+08:00 |
-| [Shoutout](tags/Shoutout.md) | 32 | 2024-02-20T16:55:26+08:00 |
+| [summit2024](tags/summit2024.md) | 40 | 2024-02-20T21:54:15+08:00 |
+| [AI](tags/AI.md) | 22 | 2024-02-20T21:49:28+08:00 |
+| [LLM](tags/LLM.md) | 1 | 2024-02-20T21:49:28+08:00 |
+| [Rentea](tags/Rentea.md) | 176 | 2024-02-20T21:31:49+08:00 |
+| [web3](tags/web3.md) | 114 | 2024-02-20T21:12:23+08:00 |
+| [Shoutout](tags/Shoutout.md) | 32 | 2024-02-20T21:12:23+08:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6714 | 2024-02-20T16:40:02+08:00 |
 | [internet governance](tags/internet%20governance.md) | 6 | 2024-02-20T15:30:21+08:00 |
 | [study groups](tags/study%20groups.md) | 7 | 2024-02-20T15:30:21+08:00 |
@@ -37,10 +40,7 @@
 | [數位韌性松](tags/%E6%95%B8%E4%BD%8D%E9%9F%8C%E6%80%A7%E6%9D%BE.md) | 14 | 2024-02-20T13:20:48+08:00 |
 | [DigiResiTh0n](tags/DigiResiTh0n.md) | 14 | 2024-02-20T13:20:48+08:00 |
 | [logistics](tags/logistics.md) | 1 | 2024-02-20T13:20:27+08:00 |
-| [AI](tags/AI.md) | 22 | 2024-02-20T11:52:22+08:00 |
-| [LLM](tags/LLM.md) | 1 | 2024-02-20T11:52:22+08:00 |
 | [GIS](tags/GIS.md) | 143 | 2024-02-20T11:04:09+08:00 |
-| [summit2024](tags/summit2024.md) | 40 | 2024-02-20T10:35:25+08:00 |
 | [Participatory Budgeting](tags/Participatory%20Budgeting.md) | 2 | 2024-02-19T19:33:45+08:00 |
 | [預算](tags/%E9%A0%90%E7%AE%97.md) | 13 | 2024-02-19T19:33:45+08:00 |
 | [防災](tags/%E9%98%B2%E7%81%BD.md) | 5 | 2024-02-19T19:16:09+08:00 |
