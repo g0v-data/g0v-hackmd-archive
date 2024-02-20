@@ -1,18 +1,35 @@
 ---
 tags: Rentea
 ---
-# Rentea Tuesday #85 單數線上小聚筆記
+# Rentea Tuesday #85, 87 單數線上小聚筆記
 
 - 文件授權： [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.zh_TW)
 - 地點：
   - 這次 **線上舉行** 喔～ 
     - 網址： https://meet.jit.si/rentea-tuesday
     - 建議使用 Chrome 或手機 App 開啟，較不容易斷線
-- 時間： **2024-01-16, 19:30 - 21:00**
-
+- 時間： **每月第三週週二, 19:30 - 21:00**
 
 ---
-## 85 小聚主題
+
+## 87 小聚 / 2024-02-20, 19:30 - 21:00
+
+簽到！
+
+- ddio
+- paul
+
+今天想要聊聊...
+
+1. [租出育兒宅](https://g0v.hackmd.io/@ddio/rentea-tue/https%3A%2F%2Fg0v.hackmd.io%2FtQZeLfF7SueLMKLO6eMvrQ) @ddio
+   1. [裝修坑需求訪談 90%](https://hackmd.io/s_TUJZ06RtGEvnQSe56VXg?view)
+1. 眼底城市客座編輯 @PN
+1. 大松要來....
+2. Summit 要來....
+3. 本屆零時小學校 demoday 結束後才能開始找房子的 Paul
+    - > 金摳連 [name=paul]
+
+## 85 小聚 / 2024-01-16, 19:30 - 21:00
 
 簽到！
 
