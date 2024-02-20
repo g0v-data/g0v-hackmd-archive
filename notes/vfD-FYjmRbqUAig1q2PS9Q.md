@@ -5,11 +5,16 @@
 
 
 **2.成果說明:**
-本次計畫總共實行了七次討論會議，會議成員如下:A、B、C、D、E...。總共有前期的三大主題與後期的多個小組主題分享，所有的討論跟分享內容已經放到共用區可以讓大家查看。
+本次計畫總共實行了七次討論會議，會議成員如下:Alan、Albert、Andy、Bella、Dell、Gumi、Happy、Jason_Su、Jinzung、Jonny、Kai、Leon、Liver、Paul、Smith、Wayne、Will、Willie。
+總共有前期的三大主題與後期的多個小組主題分享，所有的討論跟分享內容已經放到共用區可以讓大家查看。( \\172.16.3.242\isbg-hd\isbu\Video\自主成長計畫(PM) )
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_910da6ee5e488d13d55cf8bd4e7cdde7.png)
+
 2023/06/29 主題：Pre-Kick Off
 2023/07/06 主題：專案管理經驗分享
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c1e9a10601cd10de048d46bf5e2f5c49.png)
 Happy 大神帶你專案管理入門！
+
 
 2023/07/21 主題：顧客應對心得
 Johnny 多年顧客處理經驗，深入淺出的架構解析問題處理流程與顧客屬性分類
@@ -17,10 +22,18 @@ Johnny 多年顧客處理經驗，深入淺出的架構解析問題處理流程�
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6da6d35850be9ce8630731a96596b130.png)
 
+
+2023/08/17 主題：客戶溝通經驗分享
+Paul 分享利害關係人角度的客戶談判
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1e3c485eb4544478b4b12ca9db7611f9.png)
+
+
+
+2023/11/22、2023/12/26、2024/1/31改為小組討論學習分享
+更多主題討論分享 請至Monday會議紀錄回顧
+https://gssisbu.monday.com/docs/4718129661
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_db9bb9b14de868532c0dcf59bee74290.png)
 
-更多討論分享 請至Monday會議紀錄
-https://gssisbu.monday.com/docs/4718129661
 
 **3.討論成果分享：**
 討論成果分享，過程中有一個小組有對部門流程提出feedback，
@@ -29,23 +42,29 @@ https://gssisbu.monday.com/docs/4718129661
 非常有價值跟大家分享15分鐘。(展示Liver 12月的簡報)
 
 https://youtu.be/7IE9kYuHjWw?si=lSOzElfqnnCocJJ1&t=85
+
+
 **4.過程中的反思:**
-從前期的固定主題分享，到後面改成小組式探索，做各自想做的事情再找時間彼此分享經驗，從中對PM團隊的彼此有更多的了解。分享在自主學習過程中的困難、挑戰和收穫。
+一開始只把這個計畫當作建立一個專業知識的分享平台，前期進行了幾次固定主題分享，所有人都在忙碌的工作中擠出時間努力參加，後面為了增加效率改成了小組式探索，做各自想做的事情再找時間彼此分享經驗，每當會議與客戶時間衝突則以客戶為優先，在一次次會議中對PM團隊的彼此有更多的了解，比如有人有多年的組織管理經驗、有人工作之餘其實經營著自己的知識部落格、有人樂於分享對於組織管理流程的建議。那麼如果想要讓這個團隊變得更好，下一步我們還可以做甚麼?
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4e81404adeb7aef42b2c6ea6c6b459ab.png)
 
-**5.未來方向與建議:**
-*其實團隊的同質性並不高，造成討論溝通磨合要花較大的時間，可以先由提升對彼此認識開始
+
+
+**5.計畫未來方向討論:**
+*其實PM來自於不同產品團隊，同質性並不高，討論中常常會有因彼此不熟悉不敢發表看法的情況。溝通磨合要花許大的時間，可以先由提升對彼此認識開始
 *Alan曾經有師徒制的想法，但後來覺得現在的小組模式其實運行的也不錯。
 *需要做PM工作的成員受到客戶影響，能夠參與討論的頻率其實非常低，提早約時間也沒辦法提升到場比例，代表團隊其實不適合較大規模的會議的討論模式。
-*找到團隊成員認同的組織文化精神，可以更有目標的讓大家共同成長。
-
+*是不是需要找到一個團隊成員普遍認同的組織文化和目標
+比方說:ISSDBU是不是一個客戶至上的團隊? 那麼在甚麼樣的情況下，我們
 **6.資訊分享：**
-由於此計畫的目的在於自主學習，但基於能夠共同參與的時間不多，但仍可透過零碎的時間補充自己
-2024國際書展 https://www.tibe.org.tw/tw/info/
+由於此計畫的目的在於自主學習，但基於能夠共同參與的時間不多，但仍可透過零碎的時間充實自己的實力與增加自己的價值，以下就分享一些在會議中討論到的資訊
+2024國際書展 2024.2.20(二)-2.25(日)每日10:00-18:00
+https://www.tibe.org.tw/tw/info/
 2024資安大會 https://cybersec.ithome.com.tw/2024/
 
 文章：
-
+組織管理策略
+https://bizthinking.com.tw/2021/07/01/business-challenge-2/
 
 書籍：
 工作不累，累的是要應付瘋子 https://eslite.me/5kj4r4

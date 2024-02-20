@@ -25,7 +25,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 ## 確認下次活動時間前
 - [x] 到頻道上確認大家下個月可以參與的時間（坑主有空的時間優先）
 - [x] 確認 NPO Hub 4F 廚房是否有空位可以借用
-    - [ ] 確認後要填[表單](https://g0v.hackmd.io/@jothon/NPOHub-rules)借用
+    - [x] 確認後要填[表單](https://g0v.hackmd.io/@jothon/NPOHub-rules)借用
 - [x] 先把下次的共筆開好
 
 ## 確認下次活動時間後
@@ -42,13 +42,14 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 - [x] 將上述社群貼文發佈到 g0v slack #general channel
 - [ ] 將上述社群貼文發佈到 g0v jothon LINE group chat
 - [ ] 或許可以考慮開 g0v facebook groups（後勤中心）event
-- [ ] 透過 KKTIX 寄信給過往曾參與活動且同意發送通知者
+- [x] 透過 KKTIX 寄信給過往曾參與活動且同意發送通知者
 - [ ] 問過往曾提案者下次是否會來～或者是有沒有其他人會幫忙提案
 
 ## 活動開始前
 - [ ] 前兩天發布 KKTIX 行前通知信
-- [ ] 跟 chewei 借貓頭鷹視訊鏡頭
-- [ ] 跟 jothon 借 ROG 筆電
+- [x] 跟 chewei 借貓頭鷹視訊鏡頭
+- [x] 跟 jothon 借 ROG 筆電
+- [ ] 帶手機拍照小腳架
 
 ## 活動開始
 - [ ] 花三分鐘簡介數位韌性和 g0v CoC

@@ -418,6 +418,9 @@ https://www.facebook.com/share/wVXNw1v2UhdUK8Ev/
 臺南市佳里
 https://www.facebook.com/share/MaSgKZqayN8zzFor/?mibextid=WC7FNe
 
+佳里
+https://www.facebook.com/photo.php?fbid=992418499074971&set=a.601575628159262&type=3&mibextid=WC7FNe
+
 臺南高鐵附近，行穿線沒有斜坡進入實體人行道
 https://www.facebook.com/story.php?story_fbid=10160372095968462&id=536028461
 
