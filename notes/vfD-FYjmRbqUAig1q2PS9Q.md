@@ -8,14 +8,32 @@
 本次計畫總共實行了七次討論會議，會議成員如下:A、B、C、D、E...。總共有前期的三大主題與後期的多個小組主題分享，所有的討論跟分享內容已經放到共用區可以讓大家查看。
 2023/06/29 主題：Pre-Kick Off
 2023/07/06 主題：專案管理經驗分享
-2023/07/21
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c1e9a10601cd10de048d46bf5e2f5c49.png)
+Happy 大神帶你專案管理入門！
+
+2023/07/21 主題：顧客應對心得
+Johnny 多年顧客處理經驗，深入淺出的架構解析問題處理流程與顧客屬性分類
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2d32c427fccbb02faf4071f189d866d6.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6da6d35850be9ce8630731a96596b130.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_db9bb9b14de868532c0dcf59bee74290.png)
+
+更多討論分享 請至Monday會議紀錄
+https://gssisbu.monday.com/docs/4718129661
+
 **3.討論成果分享：**
-過程中有一個小組有對部門流程提出feedback，非常有價值跟大家分享15分鐘。(展示Liver 12月的簡報)
+討論成果分享，過程中有一個小組有對部門流程提出feedback，
+原本只是想說大家定期分享專業知識，
+後來意外發現Liver他們小組的產出發揮了這個計畫本來希望看見的東西
+非常有價值跟大家分享15分鐘。(展示Liver 12月的簡報)
 
-**4.反思:**
+https://youtu.be/7IE9kYuHjWw?si=lSOzElfqnnCocJJ1&t=85
+**4.過程中的反思:**
 從前期的固定主題分享，到後面改成小組式探索，做各自想做的事情再找時間彼此分享經驗，從中對PM團隊的彼此有更多的了解。分享在自主學習過程中的困難、挑戰和收穫。
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4e81404adeb7aef42b2c6ea6c6b459ab.png)
 
-**5.建議:**
+**5.未來方向與建議:**
 *其實團隊的同質性並不高，造成討論溝通磨合要花較大的時間，可以先由提升對彼此認識開始
 *Alan曾經有師徒制的想法，但後來覺得現在的小組模式其實運行的也不錯。
 *需要做PM工作的成員受到客戶影響，能夠參與討論的頻率其實非常低，提早約時間也沒辦法提升到場比例，代表團隊其實不適合較大規模的會議的討論模式。

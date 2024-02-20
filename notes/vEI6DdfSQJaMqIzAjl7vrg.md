@@ -29,6 +29,12 @@ tags: Rentea
    3. 在rentea tue 提供寫作方向 - 拉沒有靈感的寫手一把
       - ?
 
+## 文章列表
+
+1. [g0v Summit所需要提前準備的資料](https://g0v.hackmd.io/@XfBQ4ReySuOmt6stnxIDIA/B1t27cZ2a)
+2. g0v Summit 活動側記
+3. 第一間房子 2.0 改造側記： [租出育兒宅](https://g0v.hackmd.io/@ddio-io/Bk9GuKQ9a)
+
 ## 目前進度
 
 ### 01/18 確定月份->2024年7月
