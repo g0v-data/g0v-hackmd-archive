@@ -111,6 +111,9 @@ Hi
 謝謝
 
 
+你這台是server你試試win+R 執行輸入lusrmgr.msc 試試
+
+
 Hi Mark
  
 TBGN0083

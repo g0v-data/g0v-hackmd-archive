@@ -17,9 +17,9 @@ tags: 公民參與
 - [🔍 民眾參與 ! <br>➜ 藏在哪些制度範疇、標案？<br>➜ 盤點臺灣 28 種公民參與管道<br>➜ 應落實公民參與的決標案件](https://g0v.hackmd.io/@chewei/Hk7hOYwU3)
 - [📅 進一步盤點<br>➜ 有哪些國內外數位工具服務<br>➜ 國內的民眾參與之法規依據<br>➜ 各種具體執行的案件案例](https://g0v.hackmd.io/nYPxOEV-Tb6yRBThn9lWEw?view)
 - [📆 公民參與，哪來的時間？<br>➜ 申請認證時數<br>➜ 評估納入公假種類](https://g0v.hackmd.io/UJLz58nGT9Gc8EacxV8C3Q?view)
+- [🔥 20240308 截止<br>開放政府國家行動方案徵集提案](https://g0v.hackmd.io/xnnznrawR3qoIWjXrwU3fw?view)
 
 #### 💡 訪談與問卷規劃
-
 - [歡迎來填寫問卷！<br>公民參與的數位工具<br>適用度意見調查<br>➜ 問卷填寫頁面 🙋‍♀️](https://docs.google.com/forms/d/e/1FAIpQLSe-noavNs8g9HckRWhDocHjkEmURd5eCVG42_2tYKDmacFFPw/viewform?usp=sf_link)
 - [問卷填答成果圖表網址 📊<br>(若無內容請重新整理網頁 🙏)](https://app.awesome-table.com/-NalbfGBEafUCMyadgU1/view)
 - [問卷工作頁面](https://g0v.hackmd.io/9mtMiClHTqWTihT_cFwIhA?view)
