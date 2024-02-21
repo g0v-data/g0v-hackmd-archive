@@ -2,19 +2,12 @@
 title: g0v DigiResiThon logistics
 tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, logistics, 基建, 基礎建設
 ---
-[👉 用每月一盒披薩的錢，陪伴龍年寶寶 g0v 邁向下一個龍年！👈](https://ocf.neticrm.tw/civicrm/contribute/transact?reset=1&id=30)
 
-:::spoiler
-『零瓏湧現，攏聚大松』龍年誕生的 g0v 社群，即將於 2024 年邁入 12 歲，揪松團募集大家的支持，一起幫 g0v 點一盞太歲燈！
-👉 [為 g0v 點一盞太歲燈－每月定期定額助養大松](https://ocf.neticrm.tw/civicrm/contribute/transact?reset=1&id=30)
-捐款挺大松，填滿更多坑！
-::: 
+{%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
 # g0v DigiResiThon logistics 基建
 
-:::info
-[↩️ 回到籌備文件](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home)
-:::
+{%hackmd VkctH3USQ-yoB6hw2s2D0Q %}
 
 ## Feb 2024 todos
 - [ ] defense.tw 可以掛一個連結到韌性松嗎？
@@ -27,6 +20,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 - [x] 確認 NPO Hub 4F 廚房是否有空位可以借用
     - [x] 確認後要填[表單](https://g0v.hackmd.io/@jothon/NPOHub-rules)借用
 - [x] 先把下次的共筆開好
+    - [ ] 記得放回到首頁模板+募款模板
 
 ## 確認下次活動時間後
 - [x] 把時間放到自己的行事曆上

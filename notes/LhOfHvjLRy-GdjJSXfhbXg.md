@@ -24,7 +24,7 @@ p.57
 《說明：賦予承租人優先承租權，保障承租人續租之權益。》
 
 ### 關鍵字
-英文 Right of First Refusal to Lease
+英文 
 
 > 
 {%hackmd 1LO5rpavTiK4_cFrTouudg %}
