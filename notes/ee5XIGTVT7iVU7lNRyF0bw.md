@@ -142,3 +142,8 @@ https://fluv.com/tw
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bd0c29879f050d5c631cb56178ab7a2e.png)
 
 ## 第四次專題討論
+題目:AI影像辨識:寵物違規行為
+目的:利用AI機器人透過影像辨識，幫助主人監視自家寵物是否有影響到自家錢財之行為，如發生違規行為時，會由AI發出主人事先預錄好警告自家毛小孩的錄音，以此減少主人花在自家毛小孩的時間
+
+- 小提議:可先製作一個GOOGLE表單，
+
