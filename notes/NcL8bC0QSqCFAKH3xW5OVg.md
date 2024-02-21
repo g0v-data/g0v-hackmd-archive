@@ -23,8 +23,9 @@ wip
 
 ## 嘗試解決問題的人們
 ### 專案
-#### 內政部國土署
+#### 內政部國土署建立「全民參與街道改善平台」
 - 平台測試中？https://ds.thix180server.com/STREET_DOCTOR/
+- 讓民眾提案想改善的路段平台
 #### [平安走路許願帳戶](https://commusidewalk-app.vercel.app/pr)
 - [影片] 專案發起人韓中梅老師，分享平安走路許願帳戶團隊的專案推動歷程與成果
     - https://youtu.be/HrYaRRGdqKE

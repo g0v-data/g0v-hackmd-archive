@@ -155,3 +155,8 @@ https://fluv.com/tw
 
 [基於深度神經網路的寵物動作辨識及捕捉之研究與實作](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22108NCIT0442005%22.&searchmode=basic#XXX)
 
+[基於YOLO模型的寵物貓咪行為偵測系統](https://hdl.handle.net/11296/3rbcxn)
+
+[遠端語音監控製造系統](https://hdl.handle.net/11296/46xtt5)
+提到python套件jieba，用來做中文分詞，把一段句子拆分成有意義的詞語，進而方便解釋句子。
+這篇論文我們可以參考的是以永印
