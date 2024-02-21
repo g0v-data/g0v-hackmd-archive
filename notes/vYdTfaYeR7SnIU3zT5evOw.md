@@ -350,7 +350,7 @@ HackMD 的主機維護，感謝 Jacky 協助。
 
 ### 超級管理員
 
-目前的超級管理員：Jothon: ipa, Ronny, CL, isabel, kirby, analeigh, ying tiff
+目前的超級管理員：Jothon: ipa, Ronny, CL, isabel, kirby, ying tiff yi
 
 目前自訂網址功能、note 管理功能（更改擁有者、刪除 note）皆需要從 dashboard 操作，所以必需有超級管理者，另外 note 只要刪除後就無法復原。
 
