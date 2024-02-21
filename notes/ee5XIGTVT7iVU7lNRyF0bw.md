@@ -1,4 +1,4 @@
-> []# 專題
+# 專題
 [TOC]
 ## 第一次專題討論
 ### 智能化數位衣櫃APP：解決衣著選擇困難症與天氣變化下的衣物搭配挑戰」
@@ -142,8 +142,16 @@ https://fluv.com/tw
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bd0c29879f050d5c631cb56178ab7a2e.png)
 
 ## 第四次專題討論
-題目:AI影像辨識:寵物違規行為
-目的:利用AI機器人透過影像辨識，幫助主人監視自家寵物是否有影響到自家錢財之行為，如發生違規行為時，會由AI發出主人事先預錄好警告自家毛小孩的錄音，以此減少主人花在自家毛小孩的時間
+- 題目:智慧寵物攝影機:影像辨識寵物違規行為
+- 目的:利用AI機器人進行影像辨識，幫助主人監視自家寵物是否有影響到自家錢財之行為(?)，如發生違規行為時，會由AI發出主人事先預錄好警告自家毛小孩的錄音，以此減少主人花在自家毛小孩的時間
 
-- 小提議:可先製作一個GOOGLE表單，
+:::info
+- 小提議:可先製作一個GOOGLE表單，我們先選出幾個毛小孩違規行為為表單選項，再由受測者票選出前五個自家毛小孩最常做的違規行為，先進行那五個行為的影像訓練。
+:::
+
+[Tomofun怎麼辦到的？AI結合狗狗攝影機，打造最窩心的智能寵物保姆Furbo！](https://ai-blog.flow.tw/tomofun-subscription-economyhttps://)
+
+[基於機器學習之動物飢餓語音偵測方法](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi?o=dnthucdr&s=id=%22G021070645240%22.&searchmode=basic#)
+
+[基於深度神經網路的寵物動作辨識及捕捉之研究與實作](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22108NCIT0442005%22.&searchmode=basic#XXX)
 

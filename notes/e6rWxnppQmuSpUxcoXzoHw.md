@@ -20,7 +20,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 - [x] 確認 NPO Hub 4F 廚房是否有空位可以借用
     - [x] 確認後要填[表單](https://g0v.hackmd.io/@jothon/NPOHub-rules)借用
 - [x] 先把下次的共筆開好
-    - [ ] 記得放回到首頁模板+募款模板
+    - [ ] 記得放[回到首頁模板](https://g0v.hackmd.io/VkctH3USQ-yoB6hw2s2D0Q?view)+[募款模板](https://g0v.hackmd.io/L0dLpQ_zTzGoNxeURzO2kw?view)
 
 ## 確認下次活動時間後
 - [x] 把時間放到自己的行事曆上

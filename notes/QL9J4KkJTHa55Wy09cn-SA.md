@@ -90,3 +90,6 @@ https://hdl.handle.net/11296/2qw6r6
 雙北行政區輪廓線
 https://maps.app.goo.gl/sXYMBs7z7LtVpAzo8
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_80a43a328684d130120a5508a35b3705.png)
+
+日本關西 高雄台北公園、高雄台南公園
+https://www.facebook.com/healingkyoto/posts/pfbid0BPVdMcTTHZV6mYYEWSEA4JtHzHxDQB9xpVFNu8rdpEfZnVzg41cubr7brurG8DkRl
