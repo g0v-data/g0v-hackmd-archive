@@ -1,0 +1,2 @@
+W3ST MANIFESTO
+

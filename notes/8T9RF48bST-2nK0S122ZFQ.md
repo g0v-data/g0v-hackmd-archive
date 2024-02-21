@@ -17,6 +17,16 @@ They all study public management and will become administrative leaders in Germa
 - Their trip is organized with the Taiwanese embassy in Munich (Dr. Ian-Tsing Dieu) 
 	https://www.roc-taiwan.org/demuc/index.html
     
+## Schedule
+- 2/22 THR. 13:30-17:00
+- before the meeting: MODA (not secured)
+- two workshops: da0 / vTaiwan / cofacts 
+- Content: 
+    - 13:30-14:30 Introduction for g0v / vTaiwan / da0/other projects
+    - 14:30-16:00 Workshop or General Discussion
+    - 16:00-17:00 Free talk!
+
+    
 ## 0126 Updates 
 - Venue is secured: NPO Hub 4F 
 - Peter
@@ -33,8 +43,8 @@ They all study public management and will become administrative leaders in Germa
 - before the meeting: MODA (not secured)
 - two workshops: da0 / vTaiwan / cofacts 
 - Content: 
-    - 13:00-14:00 Introduction for g0v / vTaiwan / da0/other projects
-    - 14:00-16:00 
+    - 13:30-14:30 Introduction for g0v / vTaiwan / da0/other projects
+    - 14:30-16:00 
         - vTaiwan workshop: 1 hour - 1.5 hour  
             - role play discussion 
             - topic: the application of AI in public sector
