@@ -101,7 +101,7 @@ https://www.lunwendata.com/thesis/2018/129688.html
 2023最新十大旅遊App推薦排行榜
 https://tw.my-best.com/115111
 
-## 第三次專題討論
+## 02/14第三次專題討論
 
 ### 寵物保母與雇主的互動
 https://fluv.com/tw
@@ -141,7 +141,7 @@ https://fluv.com/tw
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bd0c29879f050d5c631cb56178ab7a2e.png)
 
-## 第四次專題討論
+## 02/21第四次專題討論
 - 題目:智慧寵物攝影機:影像辨識寵物違規行為
 - 目的:利用AI機器人進行影像辨識，幫助主人監視自家寵物是否有影響到自家錢財之行為(?)，如發生違規行為時，會由AI發出主人事先預錄好警告自家毛小孩的錄音，以此減少主人花在自家毛小孩的時間
 
@@ -152,11 +152,21 @@ https://fluv.com/tw
 [Tomofun怎麼辦到的？AI結合狗狗攝影機，打造最窩心的智能寵物保姆Furbo！](https://ai-blog.flow.tw/tomofun-subscription-economyhttps://)
 
 [基於機器學習之動物飢餓語音偵測方法](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi?o=dnthucdr&s=id=%22G021070645240%22.&searchmode=basic#)
+使用資料來源:https://www.pond5.com/?ref=matt157&gad_source=1
+做音訊切割p15
+論文缺點:音訊擷取細節不夠 正確率75%
 
 [基於深度神經網路的寵物動作辨識及捕捉之研究與實作](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22108NCIT0442005%22.&searchmode=basic#XXX)
+p46 將影像資料縮放成適合神經網路模型進行辨識或偵測的解析度大小
+論文缺點:包含動作類別不多 (準確度高
 
 [基於YOLO模型的寵物貓咪行為偵測系統](https://hdl.handle.net/11296/3rbcxn)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2e2b954a1cf64b84c7a02121574c8e25.png)
+
 
 [遠端語音監控製造系統](https://hdl.handle.net/11296/46xtt5)
 提到python套件jieba，用來做中文分詞，把一段句子拆分成有意義的詞語，進而方便解釋句子。
-這篇論文我們可以參考的是以永印
+這篇論文我們可以參考的是以語音指令控制機器
+
+[結合影像辨識之顧客招呼系統研析](https://hdl.handle.net/11296/5rv8nt)
+這篇論文我們可以參考的是根據什麼影像撥放出指定語音(但我還無法看到他的電子全文QQ)
