@@ -1,7 +1,7 @@
 ---
 tags: Rentea
 ---
-# g0v Summit所需要提前準備的資料
+# g0v Summit 資料蒐集
 
 ## 租客投入房屋修繕 
 
