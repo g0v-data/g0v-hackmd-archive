@@ -2,9 +2,9 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [vTaiwan 工作組 Working Group](../notes/e0G4OMPFQYuA2DaZyu74bA.md) | 2024-02-21T18:42:53+08:00 | 2019-02-20T21:09:17+08:00 |
-| 2 | [數發部討論 vTaiwan x OpenAI 專案](../notes/ZHv9qWjoQvaVJuDrYJbqdA.md) | 2024-02-05T17:41:06+08:00 | 2024-02-05T16:31:14+08:00 |
-| 3 | [0124小松](../notes/MMI92gFNSWi1NDVp8oOYnQ.md) | 2024-01-26T23:42:57+08:00 | 2024-01-18T18:58:22+08:00 |
+| 1 | [0124小松](../notes/MMI92gFNSWi1NDVp8oOYnQ.md) | 2024-02-21T19:05:13+08:00 | 2024-01-18T18:58:22+08:00 |
+| 2 | [vTaiwan 工作組 Working Group](../notes/e0G4OMPFQYuA2DaZyu74bA.md) | 2024-02-21T18:42:53+08:00 | 2019-02-20T21:09:17+08:00 |
+| 3 | [數發部討論 vTaiwan x OpenAI 專案](../notes/ZHv9qWjoQvaVJuDrYJbqdA.md) | 2024-02-05T17:41:06+08:00 | 2024-02-05T16:31:14+08:00 |
 | 4 | [實體小聚申請用企劃書與流程表](../notes/fWa0utTNR82ecV6CHBuiaA.md) | 2024-01-18T18:27:10+08:00 | 2023-08-10T19:46:55+08:00 |
 | 5 | [0117 vTaiwan for All](../notes/JhSc3nzTT72vNx6fjARfTg.md) | 2024-01-17T21:05:01+08:00 | 2023-12-28T17:04:42+08:00 |
 | 6 | [vTaiwan工作組 vTaiwan Working Group General Info](../notes/f9c4pS_TQjClh0g6wCJ8iw.md) | 2024-01-17T19:13:19+08:00 | 2023-12-18T18:52:53+08:00 |

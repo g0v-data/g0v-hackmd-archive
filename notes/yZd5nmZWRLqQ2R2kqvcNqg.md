@@ -82,6 +82,16 @@ source：[法令函示](https://civilinfo.taichung.gov.tw/1486242/1486254/148625
 ### [join-platform-proposal 連署提案](https://g0v.hackmd.io/DZ6Ja9GsSYGYvBRFFkjc5w)
 ### [cross-organization-alignment](https://g0v.hackmd.io/hRA2_MZnRuyTOFoVqaux8g)
 
+## 給想幫忙的夥伴們，這是需要支援的工作們～
+### 我今天稍微來幫忙一下！
+- [name=Paul] 歡迎你來！以下是今天你也可以協助的工作
+    - [ ] `insert tasks`
+### 我想一起幫這個專案的長期發展成長茁壯！
+- [name=Paul] 哇，太感動了！這些是長期專案參與者可以協助的工作
+    - [ ] 共同討論專案未來的發展方向
+    - [ ] 輪班協助專案基礎建設運營
+    - [ ] 預估自己每週/每月的參與專案時數
+    - [ ] 幫忙撰寫政策或專案相關文章
 
 
 ## 如何提高能見度

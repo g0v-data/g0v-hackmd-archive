@@ -11,6 +11,9 @@ tags: hackathon, 小幫手, 志工, volunteer, helper, 大松, 大黑客松, inf
 - **（你也可以是貢獻者！）**
 :::
 
+:::success
+～大松的事，就是大家的事～
+:::
 
 ### [spreadsheet 表格](https://docs.google.com/spreadsheets/d/1uEC0cSncJhAioIqCxBVBTpTXQorRslsdhPsq7mg2grA/edit#gid=0) `記得要轉到一個 longterm hosting account`
 

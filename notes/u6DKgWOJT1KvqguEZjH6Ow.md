@@ -190,7 +190,7 @@ TODO
 > MrOrz
 
 - 本週無進度
-- 會址更新狀態：TBA [name=bil]
+- 會址更新狀態：Not yet [name=bil]
 
 
 ### [Comm] AI assisted reply authoring
