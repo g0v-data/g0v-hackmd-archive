@@ -152,5 +152,8 @@ https://www.facebook.com/share/p/aN5tCow7XbjtyXaC/?
 2023 組織改作組升格
 https://www.tesri30.com/
 
+賴和基金會
+https://www.facebook.com/share/p/kdEyQ4hRZuXBuX12/
+
 日本街區
 https://fb.watch/mf6zX5IUqq/

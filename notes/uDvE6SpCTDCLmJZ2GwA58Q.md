@@ -171,6 +171,7 @@ tags: 新生流域
 - 高架橋下 水域活動 http://www.nlarchitects.nl/slideshow/82
 - 輕軌與水景 https://www.facebook.com/share/r/ZemLzcZVzVCff8yh/
 - 雲林溪 https://www.facebook.com/story.php?story_fbid=pfbid02fL8Ww5ZL4WP2XEEeiXYEv4tFRzgcJtHcvM4ZSYNGyN7h1vKWTc1r5YAUZM5UdK6rl&id=100067220707427&mibextid=qC1gEa
+- 柳川運河的故事：https://m.bilibili.com/video/BV1wx411t73Z
 - 鴨川 https://www3.nhk.or.jp/nhkworld/zt/ondemand/video/2029183/
 - 大阪道頓堀川
 - 小樽運河 https://www.facebook.com/story.php?story_fbid=pfbid0fWqKvARQUNmFQBVEtVJF7CFKVJVCbCQ4wrbqnZqGAQwfWgEsoke6mr2PSLEHMzMsl&id=100064523206796&mibextid=qC1gEa

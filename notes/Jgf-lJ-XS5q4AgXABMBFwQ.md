@@ -26,6 +26,29 @@ Answer:
 
 - vTaiwan 在 2023 年 6 月與英國智庫 Chatham House 共同投稿了 OpenAI 的 grant: democratic input to AI，我們將在這次簡報中分享來自 vTaiwan 社群的省思、分享專案成果、並提出 vTaiwan 的未來走向。
 
+可能的分享大綱：
+- What is Recursive Public
+- Why we proposed Recursive Public? AI is a complex topic that requires a more complex deliberative process beyond Polis and vTaiwan. (that’s why the idea of “recursive” and ongoing deliberation was proposed)
+- The Recursive Public framework 
+- Reflections around the consultation meeting: (shoutout::: 這邊希望大家多協力！) 
+    - The constitution of participants 
+        - 邀請多方利害關係人的反思
+    - More further discussion could be expanded 
+        - 諮詢會議討論當下的反思
+    - At the moment polling (emotion-gauging diameter)
+        - 線上線下同步的狀況
+    - Different Culture during the cooperation
+        - 合作中觀察到的文化差異 [name=peter]
+        - 
+    - 其他
+- Achievements 
+    - share OpenAI's blog
+        - It’s down to OpenAI in the end to decide how their AI would work. 
+- Overall reflectino: The UK-Taiwan collaboration 
+
+簡報：[Recursive Public - summary](https://docs.google.com/presentation/d/1xkEfAa-XiMNE6CaEtbXQbP-UrPIvzimKKlVSG4FbExw/edit#slide=id.g2aabd5d8f81_0_136)（應該會重新做一版，但是 Recursive Public 的介紹應該會從這裡抓）
+    - 沒問題！[name=peter]
+
 
 
 ### Please provide a short 'headline' for your presentation to summarise why you think it's important that TICTeC attendees hear it
@@ -43,7 +66,7 @@ Answer:
 Answer: 
 
 - Ｑ：我們想要做 workshop 還是 20min presentation 呢？
-
+    - 傾向於 presentation，workshop 的 capacity 比較大[name=peter]
 
 
 ### If more than yourself will be presenting your proposed session, please list the names of your fellow session leaders:
@@ -51,3 +74,4 @@ Answer:
 > Put 'n/a' in the box if you will lead the session on your own
 
 Answer: 
+Shu Yang Lin

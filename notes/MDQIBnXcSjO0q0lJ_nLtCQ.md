@@ -14,6 +14,8 @@
 - context: 我們有跟國科會的一個智庫討論合作 上次在12/31
 - 目前資源來自國科會，可能需要審慎評估，目前我們等待中～
 
+
+
 ## 合寫文章
 - 冠瑋：是否可以利用訪談的方式，協作完成訪談
 - 目標：完成一篇文章
@@ -21,7 +23,8 @@
     - 找回既有的成員？
     - 可能的題目：社群與民主的關係
     - 範例：賴又豪之前撰寫COFACTS 的[文章](https://taiwaninsight.org/2024/02/05/disinformation-and-civil-defence-how-did-taiwans-civil-society-counter-foreign-information-manipulation/?fbclid=IwAR17bvpy6f-lRMhhTOGOs3XEp0D8blzBPYWvIWXPreZFn7NRKxIO8OM5oe4
- ) [name=宛真]
+ )[name=宛真]
+    - vTaiwan目標共識凝聚：作為多方意見平台協作的共識凝聚是雙重共識凝聚喔 哈哈哈哈哈[name=LU]
     - 分工：
         - 冠瑋：民主與社群理論
         - 社群夥伴：提供社群經驗
@@ -55,6 +58,7 @@
     - 喔幹有點快
     - 我可以寫一版投稿～目標是 Recursive Public reflection?
         - 我覺得可以 [name=peter]
+        - Recursive Public Reflection on what case of timeline problem? On which reflection is it on the public relative inforamtive problematic in for is it? For me it is a case to reflect on a topic to relate to an opinion on public informative space, which inflict the reality and for so a public reality life informative nationalizative  sums. [name=LU]
         - [投稿網站](https://docs.google.com/forms/d/e/1FAIpQLScOv8L9Aa0tRIwVF_G4v7FB4pJ7IDV8vbzIPfjHGJVWfdRCWg/viewform?pli=1)
         - [共筆投稿](https://g0v.hackmd.io/Jgf-lJ-XS5q4AgXABMBFwQ) [name=shu] 請大家幫忙加入內容與在 3/22 前檢查投稿
  - RR 說下週可以拉一個討論，正在溝通看看下週三晚上可否一起討論
@@ -72,12 +76,18 @@
 - 洪申翰感覺也可以
 - 范雲委員
 - 也是在網路治理脈絡下的問題，puma的發文看起來也有興趣，可以接觸看看？
-- 所以下一步：是想要
-
+- 所以下一步：
+    - 接觸立委
+    - 接觸iwin？
+      - 接不接觸不是最重要的而是raise the opinion 我認為? 也就是說iwin不是一個特定議題，而是廣泛數位AI議題。沒有人做的意見徵集可以由vTaiwan進行，不只是意見徵集，而是數位議題發展提案。[name=LU]
+          - 我自己的想法會是跟AI比較無關。[name=peter]
+- 衛福部3月底會召集專家會議，由政府代表，業者、兒少專家團體代表約各二分之一，討論出認定標準，以利後續創作者可循。 
+    
 ## 中介法
 - Freedom House 的 Lulu Keng 與 Irvin 有討論到西敏寺基金會在做數位中介法的相關討論
 - 有FUNDING 
-- 
+- 如果立院或是行政院沒有推法案的意志，我覺得頂多就是以上面那個funding做個面向公眾的意見徵集 [name=Eli]
+- 中介法目前的草案的確沒有很完善。但是在議題討論上有東西可以做討論的話是最好啦。[name=LU]
 
 ## 近期活動
 - 下週：[台灣智庫](https://www.taiwanthinktank.org/)邀請分享
@@ -89,3 +99,4 @@
 - 印文宣、貼紙
 - 建立文章撰寫的共筆 [name=peter、宛真]
     - 下週繼續討論看看
+- [共筆投稿](https://g0v.hackmd.io/Jgf-lJ-XS5q4AgXABMBFwQ) [name=shu] 請大家幫忙加入內容與在 3/22 前檢查投稿 

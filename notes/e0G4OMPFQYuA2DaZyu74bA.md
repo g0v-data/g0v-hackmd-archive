@@ -23,6 +23,7 @@ vTaiwan 相關資料整理 vTaiwan related materials
 - [歷史專案盤點](https://g0v.hackpad.tw/vTaiwan--6OP3W3QOq2A)
 - [vTaiwan 相關報導＆論文](https://g0v.hackmd.io/rZHTCt2KS3mX2VYKn6vdZg) 
 - [0108高松奈奈團隊採訪](/tNMJx5TzQ7qS-aZ12Z_Wng?both)
+- [社群與民主文章](/DE4pKGExRvu7XE8p_DKoUA)
 
 討論都在這裡發生 Discussions
 ---
@@ -87,6 +88,7 @@ community governance
 
 2024 小松紀錄 2024 Weekly Meetup
 ---
+- [0228小松](/S61huizKSKah4HpMvoEV8w)
 - [0221小松](/MDQIBnXcSjO0q0lJ_nLtCQ)
 - [0124小松](/MMI92gFNSWi1NDVp8oOYnQ)
 - [0117小松](/JhSc3nzTT72vNx6fjARfTg)
