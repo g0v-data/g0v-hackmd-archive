@@ -48,24 +48,6 @@ tags: 115B實驗室, 永續所得實驗室
 > 想要與他人一同Hack的主題，或自己正在進行的主題分享都行，建議介紹時間不超過5分鐘
 
 ---
-### 提案N（參考模板）
-
-- 提案介紹
-    - 提案者
-    - 提案描述
-    - 相關資料
-- 今天預計進行的事
-- 今天需要的協助（人事時地物）
-
----
-## 關於115B實驗室
-- [社創組織資料庫登入頁](https://si.taiwan.gov.tw/home/org?fid=3278)
-- [Slack](https://join.slack.com/t/115bworkspace/shared_invite/zt-19ok0mu03-UaU9MWV7la~P~XBlUDdWJA)
-- [FB](https://www.facebook.com/sustainable.income.lab)
-- [LINE社群](https://line.me/ti/g2/g2VAPTEmkIMUZT8UMCIhh2J2Vo_zMmVq562rag)
-- [網站](https://115b.org/)
-
----
 ## 參加者
 
 - **JoyanceChe**
@@ -129,6 +111,13 @@ tags: 115B實驗室, 永續所得實驗室
         - 請主辦方討論交流之前，分享115B近年來，已經有討論過或發表過的議題，讓與會者可以認知，主辦方未來討論的方向！
 
 
+---
+## 關於115B實驗室
+- [社創組織資料庫登入頁](https://si.taiwan.gov.tw/home/org?fid=3278)
+- [Slack](https://join.slack.com/t/115bworkspace/shared_invite/zt-19ok0mu03-UaU9MWV7la~P~XBlUDdWJA)
+- [FB](https://www.facebook.com/sustainable.income.lab)
+- [LINE社群](https://line.me/ti/g2/g2VAPTEmkIMUZT8UMCIhh2J2Vo_zMmVq562rag)
+- [網站](https://115b.org/)
 
 
 ---
