@@ -10,7 +10,7 @@ This is a nominee of [4th sch001 project incubation competition](https://g0v.hac
 
 ## project meetings
 - [nonprofit-helper 0st meeting](/Gj99_10xQZicm_f1Qmp3xQ)
-- [nonprofit-helper：零時先輩專案諮詢紀錄](/_Fj1TZZNR2KNdNFue_QI-w)
+- [nonprofit-helper：零時先輩專案諮詢紀錄](https://g0v.hackmd.io/@jothon/rydvIDluT/https%3A%2F%2Fg0v.hackmd.io%2F%40jothon%2FHkpptveup)
 
 ## project proposal
 [nonprofit-helper proposal documents](/Sn_lVZE9QKWVqUGQVx_VTg)
