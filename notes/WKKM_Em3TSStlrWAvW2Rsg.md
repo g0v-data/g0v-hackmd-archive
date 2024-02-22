@@ -185,3 +185,9 @@ MIT933I-0058B no need to install S1 (already check with Kenny Yap)
 MIT933I-0058 & MIT933I-0058A are subcon tool can't install S1
  
 Please trasfer to RUSHABH SAMIRBHAI SHAH and check, thanks
+
+
+如果是要在辦公室OA用的標籤印表機  都是找網路team fix ip 
+開一般的單就可以  然後說要轉給MMT_network_L2
+Report a Non-Manufacturing Incident
+Report a Non-Manufacturing Incident - ITNow (service-now.com)
