@@ -31,7 +31,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 - 提前加入線上聊天室！
     - 加入 [Slack 線上討論區](https://g0v.hackmd.io/fKrjZ3BlRfWmQ471wcSdBg) (辦帳號超快超簡單）
     - 安裝好後再點[ #civil-defense 頻道](https://app.slack.com/client/T02G2SXKM/C056EHM42B1)
-- 線上遠端與會連結 [請點此](https://meet.jit.si/g0v-digiresi)
+- 線上遠端與會連結 [請點此](https://jitsi.ocf.tw/g0v-digiresi)
 - [大合照！（連結待補）]()
 :::
 

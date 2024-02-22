@@ -40,7 +40,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 - [ ] 問過往曾提案者下次是否會來～或者是有沒有其他人會幫忙提案
 
 ## 活動開始前
-- [ ] 前兩天發布 KKTIX 行前通知信
+- [x] 前兩天發布 KKTIX 行前通知信
 - [x] 跟 chewei 借貓頭鷹視訊鏡頭
 - [x] 跟 jothon 借 ROG 筆電
 - [ ] 帶手機拍照小腳架
