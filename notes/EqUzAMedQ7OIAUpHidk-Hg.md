@@ -30,6 +30,8 @@ tags: GIS
     - (企業裁罰) 透明足跡 https://thaubing.gcaa.org.tw/
     - 全台合法露營區地點 https://g0v.hackmd.io/h7CTLUQsQbeELmMJG3fzGg?view
     - 農地違章工廠資料 https://disfactory.tw/
+- 鄰河川線一定範圍內
+    - 歷年衛星影像暨變異點 https://g0v.hackmd.io/rvgNUt6cRO6Z8MXiY-j1_g?view
 
 河川線以內
 - 歷年衛星影像暨變異點展示平台 https://www.landchg.org.tw/Module/RWD/Web/pub_exhibit.aspx
@@ -47,6 +49,9 @@ tags: GIS
     - https://researchoutput.ncku.edu.tw/zh/projects/%E7%A0%94%E7%99%BC%E9%81%99%E6%B8%AC%E6%8A%80%E8%A1%93%E7%8D%B2%E5%8F%96%E7%A4%AB%E7%9F%B3%E6%B2%B3%E5%BA%8A%E7%B2%97%E7%B3%99%E5%BA%A6%E8%88%87%E6%B2%B3%E5%B7%9D%E8%A1%A8%E9%9D%A2%E6%B5%81%E6%85%8B%E5%88%86%E9%A1%9E-4
 - 多功能河川生態環境流量之區域性標準建立-子計畫四：區域性河川棲地與地表變化偵測技術研發(1/3)
     - https://researchoutput.ncku.edu.tw/zh/projects/%E5%A4%9A%E5%8A%9F%E8%83%BD%E6%B2%B3%E5%B7%9D%E7%94%9F%E6%85%8B%E7%92%B0%E5%A2%83%E6%B5%81%E9%87%8F%E4%B9%8B%E5%8D%80%E5%9F%9F%E6%80%A7%E6%A8%99%E6%BA%96%E5%BB%BA%E7%AB%8B-%E5%AD%90%E8%A8%88%E7%95%AB%E5%9B%9B%E5%8D%80%E5%9F%9F%E6%80%A7%E6%B2%B3%E5%B7%9D%E6%A3%B2%E5%9C%B0%E8%88%87%E5%9C%B0%E8%A1%A8%E8%AE%8A%E5%8C%96%E5%81%B5%E6%B8%AC%E6%8A%80%E8%A1%93%E7%A0%94%E7%99%BC13-3
+
+針對拆壩的個案河川，如何呈現「變健康了」
+- 生態調查資料 ?
 
 ## 圖台案例與公眾協力工具
 
