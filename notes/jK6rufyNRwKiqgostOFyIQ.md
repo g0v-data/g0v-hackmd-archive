@@ -38,3 +38,6 @@ https://www.facebook.com/100000509688340/posts/pfbid029NkctEZfJQnBpmPdYrQfgp6Gei
 
 氣候變遷在中國：威權環境主義、國族認同與大外宣
 https://www.facebook.com/NYCUSTS/posts/pfbid0NdHVAmpGVYEWmdBe7S2xXUirrDX8dDnFkKUa8ShRP8qtJwnseUzZWhtzn4xjrpNzl
+
+Continent in Dust: Experiments in a Chinese Weather System 塵埃中的大陸：中國天氣系統的實驗
+https://www.facebook.com/story.php?story_fbid=pfbid02BP4JfHTVfH8m6obzTJBqkoexFdJiK3ndmhBT2fvUr5rREWh7yaYpSFPBBbhcJx8ql&id=100063946129312
