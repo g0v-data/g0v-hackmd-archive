@@ -18,7 +18,7 @@ nonprofit-helper
 [nonprofit-helper Home](/eivkYtpjQiSQHyP7M-H9zA?view)
 
 ## 此專案於 g0v slack 的頻道名稱
-#edu-nonprofit-helper
+#nonprofit-helper
 
 ## 提案代表人
 Paul
