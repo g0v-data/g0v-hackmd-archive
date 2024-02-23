@@ -36,6 +36,18 @@ tags: summit2024
 
 結論：
 
+#### 社群媒體排程
+
+相關資料：
+- [學生社群軌](https://docs.google.com/document/u/0/d/1E_kE1Rn_YGRuUQ_dPEDnrLzQJ9Of6wCeu9aMwEe9IF8/edit)
+- [投稿倒數 10 天](https://docs.google.com/document/d/16575mntkeh2YRm77ZDiIH8OdtklW2UWWlDyxPqgW64U/edit#heading=h.c6qv0kfgkim1)
+
+進度：
+- 學生社群軌由 Ted、Sky 主持，文案暫定排在 3/1，可以再進行調整
+- 投稿倒數文待安排負責人，有鑑於原本說 228 氣氛上比較不適合，也許可以安排四年一次的 229 來發想？
+
+結論：
+
 ---
 
 ### [GitLab 開票追蹤](https://gitlab.com/g0v-summit/2024/board/-/boards/7090446)
