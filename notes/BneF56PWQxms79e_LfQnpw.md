@@ -16,7 +16,7 @@
 ## 登記請款
 
 1. 每月 1 日、 15 日前請款，則於對應的每月 10 日、25 日出款
-2. 請 Email 到 財務組 oabb1388@gmail.com + coordinatoor
+2. 請 Email 到 財務組 oabb1388@gmail.com + coordinatoor summit 小老鼠 g0v.tw
 3. Email 格式：
 
 > 申請款項編號：

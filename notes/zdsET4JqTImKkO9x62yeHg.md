@@ -4,6 +4,9 @@ tags: summit2024
 # 電子報專區
 
 - [時程規劃](https://docs.google.com/spreadsheets/d/1rXPi1S34lon2Wm5g0xeYpZOLvVGucC20YkzgMAJpoyk/edit#gid=1286127685)
+- [各期電子報](https://us21.campaign-archive.com/home/?u=5f2da7dc5b32fcf00c4e26170&id=cf109d5e52)
+
+
     - Nov 29：[📢Vol.1徵稿倒數⚡一起回顧上屆提案吧！](https://us21.campaign-archive.com/?u=5f2da7dc5b32fcf00c4e26170&id=e1f78290d6)
     - Dec 25: 
         - 中文版：📢Vol.2
@@ -55,3 +58,5 @@ tags: summit2024
 
 - **Mailchimp 相關教學**
     - 電子報預覽：campaign列表>選該則mail>按view email>進到電子報頁面>複製頁面網址
+    - 電子報archive連結獲取方式：Audience>Signup forms>Form builder>Forms and response emails下拉選單選擇Campaign archive page
+        - 因為
