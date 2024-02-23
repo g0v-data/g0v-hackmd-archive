@@ -10,6 +10,8 @@
 - 好用工具 & 技巧
     - go2hell
     - iterminal
+    - Sublime Text
+    - Visual Studio Code
     - git remote 搭配 - -h
         - help：會列出相關 git remote 指令
     - raycast
@@ -30,8 +32,9 @@
             // 3. call API (更新 tableview)
     4. snippets
     可以做自己的範本，例如 button
-    可搭配 <#提醒字> 使用
+    可搭配 <#提醒字#> 使用
 
 3. 什麼是 bundle id, deployment target？
     1. bundle id 是 iOS APP 的身分證字號
     2. deployment target 最低支援版本，業界通常會向下相容 2 個版本
+    3. 看 iOS 版本的市占率網站：https://gs.statcounter.com/ios-version-market-share/mobile-tablet/worldwide
