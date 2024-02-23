@@ -70,10 +70,16 @@ tags: Rentea
    2. IKEA GORM 淺：30x78x180
    3. IKEA IVAR 淺：30x83x124 + 30x42x124
    4. IKEA HYLLIS：60x27x140
-   5. IKEA 
-   6. 鍍鉻烤漆層架：
+   5. IKEA KALLAX 2x2 ：42x77x77
+   6. IKEA MACKAPÄR
+      - 32x78x40
+      - 32x78x200
+   7. 烤漆層架：
       - 60x45 x [180, 120, 90, 45? ]
       - 120x45
+   8. 保麗龍磚 x4
+   9. 四層櫃: 32x40x120
+   10. 三層櫃： 32x43x92
 
 
 {%hackmd 1LO5rpavTiK4_cFrTouudg %}
