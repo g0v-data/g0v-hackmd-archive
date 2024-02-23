@@ -57,6 +57,8 @@ tags: summit2024
 <hr>
 
 - **Mailchimp 相關教學**
-    - 電子報預覽：campaign列表>選該則mail>按view email>進到電子報頁面>複製頁面網址
-    - 電子報archive連結獲取方式：Audience>Signup forms>Form builder>Forms and response emails下拉選單選擇Campaign archive page
-        - 因為
+    - 取得電子報預覽連結的方式：campaign列表>選該則mail>按view email>進到電子報頁面>複製頁面網址
+    - 取得電子報archive連結的方式：Audience>Signup forms>Form builder>Forms and response emails下拉選單選擇Campaign archive page
+        - 因為不是每封從Mailchimp寄出的信都適合公開給不特定人(大眾)，例如有些信是寄給歷屆參與者或各組織請他們來投稿或協助宣傳，所以設定了只有被移到「Public」資料夾的電子報才會被公開在這個archive連結－－勾選only show campaigns in a specific folder，下拉選擇「Public」。
+        - 設定campaign資料夾的方式：Campaign>All campaigns>creat folder。
+        - 將campaign移至特定資料夾的方式：Campaign>All campaigns>View by Status＞All>勾選要移動的campain>右上角選擇Move to>下拉選擇目的地資料夾。
