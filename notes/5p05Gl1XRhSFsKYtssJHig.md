@@ -17,5 +17,21 @@
 ## Discussion Topics
 
 1. 什麼是好的 coding style?
-2. 什麼是 bundle id, deployment target？
-3. 怎麼用 Xcode 內建的工具 debug？
+    1. 1 個 swift 檔案裡面寫 1 個 class 功能就好
+    2. 把檔案分成 MVC
+    3. 註解的應用
+        1. 用 // mark 建立書籤
+        2. 用 //TODO: 作為小任務
+            可以自己創造 //DOING 紀錄當下進行的階段，避免中離回來忘記在做什麼
+
+            舉例：
+            // 1. 拉 table view UI
+            // 2. tableview 假資料
+            // 3. call API (更新 tableview)
+    4. snippets
+    可以做自己的範本，例如 button
+    可搭配 <#提醒字> 使用
+
+3. 什麼是 bundle id, deployment target？
+    1. bundle id 是 iOS APP 的身分證字號
+    2. deployment target 最低支援版本，業界通常會向下相容 2 個版本
