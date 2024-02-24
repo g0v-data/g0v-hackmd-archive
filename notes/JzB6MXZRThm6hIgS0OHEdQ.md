@@ -35,8 +35,14 @@ Doc
 
 ### TW 全國各村里簡易疏散避難地圖
 
-各村里簡易疏散避難地圖 PDF 檔案
+民間盤點「各村里簡易疏散避難地圖」下載位置，另開網址：https://docs.google.com/spreadsheets/d/10mkZhe8VB0CfkcC3wq4cDkXA5fGOlKOO5ncebU68VJ0/edit#gid=0
+
+<iframe height="1300px" width=100% src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQDKn3TO0jGy9H4tQX2r-p5szXinK41gGZmFyzNcn2gTG46rXi28poYNA02rBu6HW3Tuoo0envhEL3o/pubhtml?widget=true&amp;headers=false"></iframe>
+
+
+
 - 消防署建立的整合入口查詢網頁：https://www.nfa.gov.tw/cht/index.php?code=list&ids=82
+    - 但是有幾個縣市網址失效，例如南投縣
 
 避難地圖的下載來源補充：
 - 政府資料開放平臺上面有部分的縣市有釋出 [開放資料](https://data.gov.tw/datasets/search?p=1&size=10&s=_score_desc&rft=%E5%90%84%E5%8D%80%E9%87%8C%E7%96%8F%E6%95%A3%E9%81%BF%E9%9B%A3%E5%9C%96)
@@ -126,7 +132,14 @@ https://atlas.geo.ntnu.edu.tw/
     - 尚未花費大量力氣普查勘誤此地圖網頁，但可以簡單就隨機發現許多避難場所位置有誤
     - 錯誤地點截圖相簿：https://photos.app.goo.gl/BYcLneADj73YArEv7
 
-##### 消防署釋出全台「避難收容處所」點位資料
+##### 新北市政府防災地圖 - 避難收容處所 
+- 形式：地圖網頁
+- 網址：https://www.dsc.ntpc.gov.tw/DRPI/ntcdmap
+- 資料錯誤：
+    - 尚未花費大量力氣普查勘誤此地圖網頁，但可以簡單就隨機發現許多避難場所位置有誤
+    - 錯誤地點截圖相簿：https://photos.app.goo.gl/BYcLneADj73YArEv7
+
+##### 【聚焦檢視】消防署釋出全台「避難收容處所」點位資料 🔥🔥🔥
 - 資料欄位：序號、縣市及鄉鎮市區、村里、避難收容處所地址、經度、緯度、避難收容處所名稱、預計收容村里、預計收容人數、適用災害類別、管理人姓名、管理人電話、室內、室外、適合避難弱者安置
 - 資料格式：csv
 - 資料下載網址：https://data.gov.tw/dataset/73242

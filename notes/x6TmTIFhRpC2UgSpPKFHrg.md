@@ -84,8 +84,7 @@ tags: Rentea
       - 32x78x40
       - 32x78x200
    7. 烤漆層架：
-      - 60x45 x [180, 120, 90, 45? ]
-      - 120x45
+      - [60, 120]x45x[180, 120, 90, 45?]
    8. 保麗龍磚 x4
    9. 四層櫃: 32x40x120
    10. 三層櫃： 32x43x92
@@ -95,5 +94,7 @@ tags: Rentea
 - IVAR 歐洲地區有賣轉角配件！！
   - `937.636.09` [30 層板約 NTD 700](https://www.ikea.com/gb/en/p/ivar-corner-shelf-pine-93763609/)
   - `137.635.09` [179cm 角柱 NTD 360](https://www.ikea.com/gb/en/p/ivar-corner-post-pine-13763509/)
+- 衣櫃
+  - [IKEA MUSKEN](https://www.ikea.com.tw/zh/products/wardrobes/solitaire-wardrobes/musken-art-70378683)
 
 {%hackmd 1LO5rpavTiK4_cFrTouudg %}

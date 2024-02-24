@@ -17,6 +17,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
     - [ ] 改完後要 edit 所有 hackmd markdown files
 - [ ] 需討論是否要開 mailing list as digiresith0n organizers
 - [ ] 把基礎建設大家可以幫忙的短期或長期任務都切出來
+- [ ] implement [g0v DigiResiThon idea pool](/PMiMLc-JT3yFrAs3CL6rzw) if we can
 
 ## 確認下次活動時間前
 - [x] 到頻道上確認大家下個月可以參與的時間（坑主有空的時間優先）
@@ -35,11 +36,19 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
     - [x] g0v SNS review submission
     - [x] g0v SNS review submission approved?
     - [x] g0v SNS posted like intended?
-- [ ] 將上述社群貼文發佈到 g0v Facebook Groups（後勤中心）
-- [x] 將上述社群貼文發佈到 g0v slack #general channel
-- [ ] 將上述社群貼文發佈到 g0v jothon LINE group chat
-- [ ] 或許可以考慮開 g0v facebook groups（後勤中心）event
-- [x] 透過 KKTIX 寄信給過往曾參與活動且同意發送通知者
+- [ ] promotion
+    - [ ] 將上述社群貼文發佈到 Facebook Groups
+        - [ ] `g0v 後勤中心`
+        - [ ] `g0v bayarea`
+        - [ ] 或許可以考慮開 g0v facebook groups（後勤中心）event
+    - [ ] 將上述社群貼文發佈到 g0v slack 
+        - [x] `#general` channel
+        - [ ] `#civil-defense` channel
+        - [ ] `#g0v-siliconvalley` channel
+        - [ ] `#general-en` channel
+        - [ ] `#north-america` channel
+    - [ ] 將上述社群貼文發佈到 g0v jothon LINE group chat
+    - [x] 透過 KKTIX 寄信給過往曾參與活動且同意發送通知者
 - [ ] 問過往曾提案者下次是否會來～或者是有沒有其他人會幫忙提案
 
 ## 活動開始前
