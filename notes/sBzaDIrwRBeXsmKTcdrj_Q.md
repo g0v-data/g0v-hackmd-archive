@@ -18,12 +18,11 @@ tags: 公民科學
 
 ## 活動 Event
 
-- [20230505 中正社區大學<br>公民週交流講座活動 🔥](https://g0v.hackmd.io/@chewei/rk47XdX0i)
-- [2023 NASA 黑客松 - 參賽共筆](https://g0v.hackmd.io/PzL7_DMhSTCfioZRV62laA?view)
-
 ## 探討 Discuss
 - [『您認為什麼是「公民科學」？』線上意見蒐集頁面 pol.is 🔥](https://pol.is/7nai2k)
+- [以「社區大學」辦學學群<br>盤點對應的計畫 🔥](https://g0v.hackmd.io/@chewei/rk47XdX0i)
 - [我可以參與哪些計畫？<br>➜身處地區所關聯的計畫<br>➜特定遊程或嗜好休閒<br>➜公民科學關鍵設備與物流<br>🔥🔥🔥](https://g0v.hackmd.io/C5RqiqvzQ2ObOfOdriPb-Q?view)
+- [2023 NASA 黑客松 - 參賽共筆](https://g0v.hackmd.io/PzL7_DMhSTCfioZRV62laA?view)
 - [微任務 / 通勤時間解任務](https://g0v.hackmd.io/6cjJ1VBSTRWtv5Acv15I4Q)
 - [籌備發想-衛星影像標記工具 🔥](https://g0v.hackmd.io/_TMl3ub7SNi5FyJi_QjX8A)
 - [籌備發想-路上儀器觀察學院 🔥](https://g0v.hackmd.io/Sp830jzkQN-ewfCJUab8bw)
