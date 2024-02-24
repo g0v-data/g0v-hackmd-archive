@@ -85,6 +85,7 @@ https://atlas.geo.ntnu.edu.tw/
 
 有相關應用經驗嗎？
 
+:::spoiler 過往筆記
 其他：Vectorization 將內容數位化為資料
 - 民間專案曾嘗試建立線上地圖 https://github.com/lowiki-org
 - 討論：於 OpenStreetMap 如何標記防災避難收容處所 https://hackmd.io/@osm-tw/HyUvtrOmu
@@ -92,6 +93,7 @@ https://atlas.geo.ntnu.edu.tw/
     - 標記測試：
         - 先找到一幅簡易疏散避難地圖檔案，以「臺北市中山區朱園里」為例 https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzEzL3JlbGZpbGUvMTI4NDEvMjMwMi9iMzJkODg0MC05MzU0LTQ2ZGYtYTFiZi1iMDY0MWRhM2MwN2QucGRm&n=NjMwMDQwMF8wMzbkuK3lsbHljYDmnLHlnJLph4xf5Lit5paHLnBkZg%3d%3d&icon=..pdf
         - 標記「避難收容處所(備用)：臺北市中山區長安國中」，把地點標記在校門出入口的位置 https://commutag.agawork.tw/image?dataset=5e6b06a177e80cf258b9ba72&image=6596b33238c282d22899f2a2
+:::
 
 ## Open Data / Release Data
 

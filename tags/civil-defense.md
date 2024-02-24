@@ -2,27 +2,27 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v DigiResiThon logistics](../notes/e6rWxnppQmuSpUxcoXzoHw.md) | 2024-02-24T22:32:55+08:00 | 2024-02-03T15:55:50+08:00 |
-| 2 | [g0v DigiResiThon 數位韌性松大全](../notes/mGQcbKRDShmvyeGV74w_0w.md) | 2024-02-24T22:28:22+08:00 | 2023-10-21T11:52:33+08:00 |
-| 3 | [家庭常備物資清單](../notes/bpj79hk8TamOdG4PaYXh1A.md) | 2024-02-24T16:47:30+08:00 | 2024-02-24T15:56:50+08:00 |
-| 4 | [重要數位服務韌性檢測及其替代品](../notes/x4cR0BtxTf6eLw_6vaPY3A.md) | 2024-02-24T16:46:42+08:00 | 2023-11-04T13:09:51+08:00 |
-| 5 | [災難時的通訊](../notes/dxFHfKK-Rj2BXd_J1gx1aQ.md) | 2024-02-24T16:37:02+08:00 | 2024-02-24T16:01:32+08:00 |
-| 6 | [災害時的交通](../notes/jxLUGcNUTwm0qNHl6GZvLg.md) | 2024-02-24T16:36:56+08:00 | 2024-02-24T16:01:58+08:00 |
-| 7 | [災害時保健](../notes/VXWnM_jqQMqPdd_H2HmzVw.md) | 2024-02-24T16:36:45+08:00 | 2024-02-24T16:14:50+08:00 |
-| 8 | [學習急救資訊](../notes/vbliKPdyQ12V7QfoR8YJPg.md) | 2024-02-24T16:36:16+08:00 | 2024-02-24T15:57:29+08:00 |
-| 9 | [預防通訊中斷](../notes/kh_Qh0WEQQ6kAbaFhvuEjQ.md) | 2024-02-24T16:36:09+08:00 | 2024-02-24T15:55:25+08:00 |
-| 10 | [了解避難位置](../notes/nRcyyTFNQLqIk1dYwccLCg.md) | 2024-02-24T16:35:49+08:00 | 2024-02-24T15:53:01+08:00 |
-| 11 | [準備救難包](../notes/Ojw57urwQ1O8Bs9NJH_NfA.md) | 2024-02-24T16:35:43+08:00 | 2024-02-24T16:13:28+08:00 |
-| 12 | [了解台灣可能造成全國性、地區性無法正常使用網路的災害](../notes/xs79Cd6QTBefX8zoxhesOg.md) | 2024-02-24T16:35:12+08:00 | 2024-02-24T15:50:28+08:00 |
-| 13 | [g0v DigiResiTh3n 第參次數位韌性松](../notes/Xt7FoiZgTYq-7x20iNGN4A.md) | 2024-02-24T16:30:00+08:00 | 2024-01-20T16:35:50+08:00 |
-| 14 | [PWA 災前災時應變手冊APP中文目錄](../notes/BW0fcloFTSurQjK5p9W5pQ.md) | 2024-02-24T16:25:11+08:00 | 2024-02-24T14:24:06+08:00 |
-| 15 | [g0v DigiResiThon idea pool](../notes/PMiMLc-JT3yFrAs3CL6rzw.md) | 2024-02-24T16:06:18+08:00 | 2024-02-24T16:01:01+08:00 |
-| 16 | [數位韌性情境分級](../notes/SYTBWVohTyuCgPGUqfAl9g.md) | 2024-02-24T15:06:41+08:00 | 2023-12-09T10:29:54+08:00 |
-| 17 | [g0v DigiResiThon 數位韌性松 募款模板](../notes/L0dLpQ_zTzGoNxeURzO2kw.md) | 2024-02-21T10:14:22+08:00 | 2024-02-21T10:13:46+08:00 |
-| 18 | [g0v DigiResiThon 數位韌性松回 book mode 模板](../notes/VkctH3USQ-yoB6hw2s2D0Q.md) | 2024-02-21T10:12:29+08:00 | 2024-02-21T10:11:27+08:00 |
-| 19 | [DigiResiThon 數位韌性松 bootstrapping](../notes/Qc8gsyY-Rn-4lXUA1gLH1g.md) | 2024-01-31T21:24:29+08:00 | 2023-12-30T16:19:42+08:00 |
-| 20 | [Meshtastic / DigiResiThon](../notes/0bR8-LvHRMaNaR97YaXpnQ.md) | 2024-01-21T17:40:42+08:00 | 2023-12-30T15:20:27+08:00 |
-| 21 | [g0v DigiResiTh0n 第零次數位韌性松](../notes/oyNRfe4lTuaZ5RbcPSS7TQ.md) | 2024-01-20T18:30:31+08:00 | 2023-10-21T15:19:19+08:00 |
+| 1 | [重要數位服務韌性檢測及其替代品](../notes/x4cR0BtxTf6eLw_6vaPY3A.md) | 2024-02-24T23:43:36+08:00 | 2023-11-04T13:09:51+08:00 |
+| 2 | [g0v DigiResiTh0n 第零次數位韌性松](../notes/oyNRfe4lTuaZ5RbcPSS7TQ.md) | 2024-02-24T23:14:46+08:00 | 2023-10-21T15:19:19+08:00 |
+| 3 | [g0v DigiResiThon logistics](../notes/e6rWxnppQmuSpUxcoXzoHw.md) | 2024-02-24T22:32:55+08:00 | 2024-02-03T15:55:50+08:00 |
+| 4 | [g0v DigiResiThon 數位韌性松大全](../notes/mGQcbKRDShmvyeGV74w_0w.md) | 2024-02-24T22:28:22+08:00 | 2023-10-21T11:52:33+08:00 |
+| 5 | [家庭常備物資清單](../notes/bpj79hk8TamOdG4PaYXh1A.md) | 2024-02-24T16:47:30+08:00 | 2024-02-24T15:56:50+08:00 |
+| 6 | [災難時的通訊](../notes/dxFHfKK-Rj2BXd_J1gx1aQ.md) | 2024-02-24T16:37:02+08:00 | 2024-02-24T16:01:32+08:00 |
+| 7 | [災害時的交通](../notes/jxLUGcNUTwm0qNHl6GZvLg.md) | 2024-02-24T16:36:56+08:00 | 2024-02-24T16:01:58+08:00 |
+| 8 | [災害時保健](../notes/VXWnM_jqQMqPdd_H2HmzVw.md) | 2024-02-24T16:36:45+08:00 | 2024-02-24T16:14:50+08:00 |
+| 9 | [學習急救資訊](../notes/vbliKPdyQ12V7QfoR8YJPg.md) | 2024-02-24T16:36:16+08:00 | 2024-02-24T15:57:29+08:00 |
+| 10 | [預防通訊中斷](../notes/kh_Qh0WEQQ6kAbaFhvuEjQ.md) | 2024-02-24T16:36:09+08:00 | 2024-02-24T15:55:25+08:00 |
+| 11 | [了解避難位置](../notes/nRcyyTFNQLqIk1dYwccLCg.md) | 2024-02-24T16:35:49+08:00 | 2024-02-24T15:53:01+08:00 |
+| 12 | [準備救難包](../notes/Ojw57urwQ1O8Bs9NJH_NfA.md) | 2024-02-24T16:35:43+08:00 | 2024-02-24T16:13:28+08:00 |
+| 13 | [了解台灣可能造成全國性、地區性無法正常使用網路的災害](../notes/xs79Cd6QTBefX8zoxhesOg.md) | 2024-02-24T16:35:12+08:00 | 2024-02-24T15:50:28+08:00 |
+| 14 | [g0v DigiResiTh3n 第參次數位韌性松](../notes/Xt7FoiZgTYq-7x20iNGN4A.md) | 2024-02-24T16:30:00+08:00 | 2024-01-20T16:35:50+08:00 |
+| 15 | [PWA 災前災時應變手冊APP中文目錄](../notes/BW0fcloFTSurQjK5p9W5pQ.md) | 2024-02-24T16:25:11+08:00 | 2024-02-24T14:24:06+08:00 |
+| 16 | [g0v DigiResiThon idea pool](../notes/PMiMLc-JT3yFrAs3CL6rzw.md) | 2024-02-24T16:06:18+08:00 | 2024-02-24T16:01:01+08:00 |
+| 17 | [數位韌性情境分級](../notes/SYTBWVohTyuCgPGUqfAl9g.md) | 2024-02-24T15:06:41+08:00 | 2023-12-09T10:29:54+08:00 |
+| 18 | [g0v DigiResiThon 數位韌性松 募款模板](../notes/L0dLpQ_zTzGoNxeURzO2kw.md) | 2024-02-21T10:14:22+08:00 | 2024-02-21T10:13:46+08:00 |
+| 19 | [g0v DigiResiThon 數位韌性松回 book mode 模板](../notes/VkctH3USQ-yoB6hw2s2D0Q.md) | 2024-02-21T10:12:29+08:00 | 2024-02-21T10:11:27+08:00 |
+| 20 | [DigiResiThon 數位韌性松 bootstrapping](../notes/Qc8gsyY-Rn-4lXUA1gLH1g.md) | 2024-01-31T21:24:29+08:00 | 2023-12-30T16:19:42+08:00 |
+| 21 | [Meshtastic / DigiResiThon](../notes/0bR8-LvHRMaNaR97YaXpnQ.md) | 2024-01-21T17:40:42+08:00 | 2023-12-30T15:20:27+08:00 |
 | 22 | [g0v DigiResiTh1n 第壹次數位韌性松](../notes/mKkOC9PLSXi0GZg7uGm1xA.md) | 2024-01-20T18:30:24+08:00 | 2023-11-25T16:10:48+08:00 |
 | 23 | [g0v DigiResiTh2n 第貳次數位韌性松](../notes/iC-7ZtqJTqG75GxUY3aiAQ.md) | 2024-01-20T18:30:18+08:00 | 2024-01-09T18:38:34+08:00 |
 | 24 | [民防/防災相關證照](../notes/B-ky08JbR4-HD3lFDwynLQ.md) | 2023-12-31T16:35:36+08:00 | 2023-12-31T16:33:11+08:00 |

@@ -196,6 +196,8 @@ https://g0v.hackmd.io/_HFiW7HDT9S2lwf02hTJNA?view
 | 名稱 | 功能 | 替代品 |
 | -------- | -------- | -------- |
 | Notion | 關連式資料庫、資料庫可以切很多 view | [AppFlowy](https://www.appflowy.io/) is an open-source alternative to Notion. You are in charge of your data and customizations. |
+Google Calendar
+Amie Calendar App
 
 
 ### 被許多廣泛使用的 framework / service

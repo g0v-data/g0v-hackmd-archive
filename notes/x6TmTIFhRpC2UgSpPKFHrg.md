@@ -97,4 +97,35 @@ tags: Rentea
 - 衣櫃
   - [IKEA MUSKEN](https://www.ikea.com.tw/zh/products/wardrobes/solitaire-wardrobes/musken-art-70378683)
 
+
+## 收納暫記
+
+1. 房一
+   1. `新家具` 隊友衣物 [IKEA MUSKEN](https://www.ikea.com.tw/zh/products/wardrobes/solitaire-wardrobes/musken-art-70378683) 7,299
+   2. `新家具` 嬰兒玩具 [KALLAX](https://www.ikea.com.tw/zh/products/storage/open-storage/kallax-art-70351891) 2x4 2,799
+   3. 嬰兒衣物 [NITORI 堆疊抽屜](https://www.nitori-net.tw/product/8430852s)
+3. 房二
+   1. 照舊 + 不常用的日用品
+5. 房三
+   1. 生產人書 - IKEA GORM 淺
+      1. `新家具` 訂製兩根 IKEA GORM 柱子 XD 1,000 (?)
+   3. 防潮箱 on LACK
+   4. 乾貨、日用品 - 50% 烤漆層架
+   5. 尿布 - 行李箱 on 烤漆層架
+   6. 嬰兒日用品、電器 - 50% 烤漆層架
+   7. 裝修器材 - IKEA GORM 深
+7. 客廳
+   1. 暫放隊友書 - IKEA IVAR 淺
+   2. 嬰兒日用品 - IKEA [IVAR CORNER](https://www.ikea.com/gb/en/p/ivar-corner-shelf-pine-93763609/) x2 2,000 (?)
+
+[x] 房一 
+[x] 房三
+[x] 客廳
+
+Todo:
+
+1. 各階段轉換
+2. 現階段搬遷、試用順序
+3. 床下拉抽+1 ！
+
 {%hackmd 1LO5rpavTiK4_cFrTouudg %}

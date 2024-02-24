@@ -15,26 +15,36 @@ tags: GIS
 
 ## 資料
 
-思源地圖曾列舉的情境及情境相關資料集
-- https://docs.google.com/document/d/1vgIEMngmovdXS01sOAu-KVumA-VdZkN66QUKzvnrhd8/edit#heading=h.4vv7g5bazrox
+
+一些資料來源盤點
+- 流域環境情報地圖基礎地圖包 https://www.wrap.gov.tw/cp.aspx?n=33935
+- 思源地圖曾列舉的情境及情境相關資料集 https://docs.google.com/document/d/1vgIEMngmovdXS01sOAu-KVumA-VdZkN66QUKzvnrhd8/edit#heading=h.4vv7g5bazrox
+
 
 河川歸戶
-- 可能採用「集水範圍 polygon」來作為目前歸戶依據
-    - 其他相關筆記
-        - https://docs.google.com/spreadsheets/d/1iFUluCGQQtGc_oYRj7r_X4RkJ-BpVV1OKWyLiNWKqDE/edit
-    - 河道範圍 polygon：
-        - 不只一份資料集
-    - 集水範圍 polygon：110年度全臺839子集水區範圍圖_UTF8 https://data.gov.tw/dataset/140111
-        - KML 檔案 40 mb
-            - 無法放入 umap, Google my map
-            - QGIS 線上地圖
-                - https://airtable.com/appa7UHcRt9eju3hn/shr10se71AsXb7jnK/tblnNHAWlj13RusOc/viwOp1n0BA1BrTjbu/recyAUAjNacPBzUhP?blocks=hide
-            - Google Earth online
-            - carto 可放入，但免費使用期 14 天過後是否就不能顯示？(或是不能編輯？)
-                - https://thunbergii.app.carto.com/map/23a9e97b-63fc-49ca-a0c0-9f1164793c7b?lat=24.902371&lng=121.532835&zoom=8
+- 是否要用「治理線」
+    - 
+- 中央管河川區域
+    - 比較符合本次健康度分析用途，適度整合過
+    - 中央管河川區域 https://gic.wra.gov.tw/Gis/Gic/API/Google/Index.aspx
+- 縣市
+- 河道範圍 polygon：
+    - 主流
+    - 支流
+- 集水範圍 polygon：110年度全臺839子集水區範圍圖_UTF8 https://data.gov.tw/dataset/140111
+    - KML 檔案 40 mb
+        - 無法放入 umap, Google my map
+        - QGIS 線上地圖
+            - https://airtable.com/appa7UHcRt9eju3hn/shr10se71AsXb7jnK/tblnNHAWlj13RusOc/viwOp1n0BA1BrTjbu/recyAUAjNacPBzUhP?blocks=hide
+        - Google Earth online
+        - carto 可放入，但免費使用期 14 天過後是否就不能顯示？(或是不能編輯？)
+            - https://thunbergii.app.carto.com/map/23a9e97b-63fc-49ca-a0c0-9f1164793c7b?lat=24.902371&lng=121.532835&zoom=8
                 
 <iframe width=100% height="480px" src="https://thunbergii.app.carto.com/map/23a9e97b-63fc-49ca-a0c0-9f1164793c7b"></iframe>
     
+- 其他相關筆記
+    - https://docs.google.com/spreadsheets/d/1iFUluCGQQtGc_oYRj7r_X4RkJ-BpVV1OKWyLiNWKqDE/edit
+
 
 縱向水體不連續
 - 如何系統化盤點？
