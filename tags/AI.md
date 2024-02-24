@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [藥學．要學：AI驅動的個人化精準學習](../notes/8PYVkjW_RuSGFlIYJnGKoA.md) | 2024-02-23T22:59:12+08:00 | 2024-02-18T11:32:07+08:00 |
+| 1 | [藥學．要學：AI驅動的個人化精準學習](../notes/8PYVkjW_RuSGFlIYJnGKoA.md) | 2024-02-24T17:49:30+08:00 | 2024-02-18T11:32:07+08:00 |
 | 2 | [如何在全新的 Macbook 裝 whisper](../notes/t1B_DdkHTOyqsWiYm0bzAw.md) | 2024-02-17T10:14:43+08:00 | 2023-05-30T17:42:37+08:00 |
 | 3 | [TW-Bench](../notes/LBqPDIUJT5qedcDOm1UEgQ.md) | 2024-02-07T10:43:11+08:00 | 2023-12-09T16:00:00+08:00 |
 | 4 | [Environmental Design & Computer-Aided 空間規劃設計與 AI 工具](../notes/3dqTVh6SS9a4SIXMT3X1HQ.md) | 2024-01-06T05:28:27+08:00 | 2023-03-25T21:43:44+08:00 |
