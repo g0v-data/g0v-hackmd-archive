@@ -2,10 +2,19 @@
 tags: 標案資料
 ---
 
+
+
+
 標案開放資料討論
 =============
 
 標案開放資料在行政院開放資料諮詢委員會是一個已經討論多年的議題，社群立場當然是希望完整開放資料，但是主管標案的工程會立場是全面開放會對國際談判受影響衝擊我國產業，這邊來討論這個議題的各方說法以及相關資訊
+
+:::warning
+目錄
+[TOC]
+:::
+
 
 重要事件
 -------
@@ -226,3 +235,7 @@ https://gpa.taiwantrade.com.tw/home
 
 日本採購網 
 https://www.facebook.com/groups/goodbiaobook/permalink/371599810106717
+
+ClearSpending.ru：
+為了打擊貪腐、增加施政透明度，俄羅斯政府於2016年建立zakupki.gov.ru，公開政府採購標案；為了方便查詢，民間組織GosZatraty project則建立了clearspending.ru，以更友善的介面備份zakupki.gov.ru資料
+https://medium.com/twreporter/%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%B0%8E%E5%B9%95%E5%BE%8C-%E5%A0%B1%E5%B0%8E%E8%80%85-%E5%A6%82%E4%BD%95%E5%BE%9E%E6%B5%B7%E9%97%9C%E6%95%B8%E6%93%9A%E8%B3%87%E6%96%99-%E6%8C%96%E5%87%BAmit%E5%B7%A5%E5%85%B7%E6%A9%9F%E6%B5%81%E5%85%A5%E4%BF%84%E7%BE%85%E6%96%AF%E8%BB%8D%E5%B7%A5%E6%A5%AD%E8%AD%89%E6%93%9A-d43734897d9e?
