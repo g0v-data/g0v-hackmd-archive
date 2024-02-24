@@ -18,6 +18,8 @@ tags: GIS
 思源地圖曾列舉的情境及情境相關資料集
 - https://docs.google.com/document/d/1vgIEMngmovdXS01sOAu-KVumA-VdZkN66QUKzvnrhd8/edit#heading=h.4vv7g5bazrox
 
+ck6tj0 
+
 縱向水體不連續
 - 如何系統化盤點？
 - 先找個別案例河川
@@ -32,6 +34,7 @@ tags: GIS
     - 農地違章工廠資料 https://disfactory.tw/
 - 鄰河川線一定範圍內
     - 歷年衛星影像暨變異點 https://g0v.hackmd.io/rvgNUt6cRO6Z8MXiY-j1_g?view
+    - 歷年國土利用調查 https://g0v.hackmd.io/TKulH3eKQJ6fL0isUPDfdw?view
 
 河川線以內
 - 歷年衛星影像暨變異點展示平台 https://www.landchg.org.tw/Module/RWD/Web/pub_exhibit.aspx

@@ -16,6 +16,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
     - [ ] 改完後要 edit 所有 social media posts
     - [ ] 改完後要 edit 所有 hackmd markdown files
 - [ ] 需討論是否要開 mailing list as digiresith0n organizers
+- [ ] 把基礎建設大家可以幫忙的短期或長期任務都切出來
 
 ## 確認下次活動時間前
 - [x] 到頻道上確認大家下個月可以參與的時間（坑主有空的時間優先）
@@ -43,6 +44,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 
 ## 活動開始前
 - [x] 前兩天發布 KKTIX 行前通知信
+    - [ ] 記得提醒要帶筆電或平板～
 - [x] 跟 chewei 借貓頭鷹視訊鏡頭
 - [x] 跟 jothon 借 ROG 筆電
 - [x] 帶手機拍照小腳架
