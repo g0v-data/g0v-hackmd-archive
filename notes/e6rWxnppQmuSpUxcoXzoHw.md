@@ -47,9 +47,9 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 
 ## 活動開始
 - [x] 花三分鐘簡介數位韌性和 g0v CoC
-- [ ] 花五分鐘全場三個關鍵字自我介紹
-- [ ] 拍大合照（記得問有沒有人不想入鏡）
-- [ ] 問有沒有本月壽星
+- [x] 花五分鐘全場三個關鍵字自我介紹
+- [x] 拍大合照（記得問有沒有人不想入鏡）
+- [x] 問有沒有本月壽星
 - [ ] 開一個專門給線上參與者 cowork 的 meeting room
 
 ## archives

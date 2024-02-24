@@ -2,7 +2,7 @@
 tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon
 ---
 
-# 數位韌性情境分級 (wip)
+# 數位韌性情境分級
 
 https://g0v.hackmd.io/@irvin/disaster-level
 

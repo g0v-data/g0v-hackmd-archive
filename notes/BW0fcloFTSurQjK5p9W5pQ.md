@@ -7,29 +7,51 @@ PWA 中文
 ========
 
 ## 目的
-為使於戰時因連外網路中斷或本國基礎網路設施因故無法提供服務，導致民眾在避難的資訊獲取上難以簡便地取得基本的避難須知及避難目的地的明確指引，特建置此 PWA 專案；讓民眾能於<font color="darkorange">戰前</font>下載<font color="darkorange">居住地附近的避難情資</font>於相關<font color="darkorange">帶有瀏覽器的裝置</font>上。
+為使於災害、戰時因連外網路中斷或本國基礎網路設施因故無法正常提供服務，導致民眾在避難的資訊獲取上難以簡便地取得基本的避難須知及避難目的地的明確指引，特建置此 PWA 專案；讓民眾能於<font color="darkorange">平時、戰前</font>下載<font color="darkorange">居住地附近的避難情資</font>於相關<font color="darkorange">帶有瀏覽器的裝置</font>上。
 
 ## Call for gathering
-因目前 Hackmd 上有眾多零散的"<font color="darkorange">我流？</font>"民防資料，
+因目前 g0v Hackmd 上有眾多零散的"<font color="darkorange">我流大神</font>"整理的災防、民防資料，本專案會定期爬取 g0v Hackmd 上的資料，如果有意願被此專案收集的大神們請在貴文件的前面新增 tag 的訊息如以下：
+<code>
+tags: disaster-prevention-pwa
+</code>
+專案會收集含有以上 tag 的文件並整理進 PWA 的資料庫裡。
 
 
-## 分類
-- 自然災害避難
-- 戰爭避難
 
 
-## 目錄/隨便先抓
+## 目錄
 
+以下目錄將會連到不同的HackMD，每個章節一篇，資訊盡量不外連，讓文字、圖片等教學，可直接離線儲存於手機中。
+
+- [了解台灣可能造成全國性、地區性無法正常使用網路的災害](/xs79Cd6QTBefX8zoxhesOg)
+  - 地震
+  - 颱風
+  - 土石流/走山
+  - 火山爆發
+  - 防空
 - 平時準備
+  - 家庭常備物資
+    - 建議的常備物資清單
+    https://hackmd.io/EwOCr93RRmuqLPXfzsjW6A?view
+    - 物資何處購買
+    https://g0v.hackmd.io/lKUTSK3CS7Wrk9mP_-_mtA
+    - 建議的藥品清單（TBD）
+  - [了解避難位置](/nRcyyTFNQLqIk1dYwccLCg)
+  - [預防通訊中斷](/kh_Qh0WEQQ6kAbaFhvuEjQ)
+  - [學習急救資訊](/vbliKPdyQ12V7QfoR8YJPg)
 
-  - 非常時期家庭常備物品清單
-  https://hackmd.io/EwOCr93RRmuqLPXfzsjW6A?view
+- 災害發生時
+  - 如何前往防災避難收容所 https://www.nfa.gov.tw/cht/index.php?code=list&ids=82
+  - 災害
+  - 災害保健
+    - 緊急醫療網路位置
+      https://www.mohw.gov.tw/dl-54250-e524a753-2739-45e6-9cc7-0f9afbccebae.html
+  - 災害時的交通
+  - 災難時的通訊
+    - 廣播
 
-  - 何處購買 https://g0v.hackmd.io/lKUTSK3CS7Wrk9mP_-_mtA
 
-- 災害時期資訊
-  - 避難所
-  - https://docs.google.com/spreadsheets/d/1l_Au7txDgsknhHKvhLksfSAzeMmSoaih3m4pMdqwrBU/edit#gid=1725071717
-  - https://g0v.hackmd.io/@chewei/SJeTRFyFYp/https%3A%2F%2Fg0v.hackmd.io%2F%40chewei%2Fwaytosafety-home
+## 參考資料：
 
-- 離線防災資訊 https://g0v.hackmd.io/0E3O29reTPSItud6rcupag
+- 全民國防避難手冊
+  https://aodm.mnd.gov.tw/UFile/down/69_2023061309580101_%E5%85%A8%E6%B0%91%E5%9C%8B%E9%98%B2%E6%87%89%E8%AE%8A%E6%89%8B%E5%86%8A.pdf

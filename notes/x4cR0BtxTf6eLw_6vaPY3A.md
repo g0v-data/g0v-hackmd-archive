@@ -240,6 +240,37 @@ https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/
         - jsdelivr?
     - 是否與網站一起 serve
 
+### 人工檢測紀錄
 
+以 Pchome 產品頁為例 （ https://24h.pchome.com.tw/prod/DCAYAD-A900BIAMV ）
+
+1. 先打開 adblock / adguard，把不必要的元素都預先擋掉
+2. 打開瀏覽器開發工具，停用快取，載入頁面
+3. 切到 inspector，複製完整的 html 頁面（從這邊複製包含動態載入的所有內容）
+    - 完整原始碼 - https://gist.github.com/irvin/e599e61fe6498f0def5d7bce2b937f45
+4. 切到 network，用 HAR 檔存下完整的 request 紀錄 
+    - 完整 request 紀錄 - https://gist.github.com/irvin/8d7527636528fcb64ce2dc6b63679da3
+5. 檢視 HAR entries 下的每一個 request 項目（以[第一項](https://gist.github.com/irvin/8d7527636528fcb64ce2dc6b63679da3#file-24h-pchome-com-tw_archive-24-02-24-15-39-25-har-L29)為例 ）
+    - 該元件網址是否位於台灣： `https://24h.pchome.com.tw/prod/DCAYAD-A900BIAMV`
+        a. 確認資源 IP
+        
+            ➜  ~ ping 24h.pchome.com.tw
+            PING shopping.gs1.pchome.com.tw (34.149.253.14): 56 data bytes
+            64 bytes from 34.149.253.14: icmp_seq=0 ttl=61 time=20.640 ms
+            
+        b. 確認該 IP 來源位置 https://ipinfo.io/34.149.253.14
+        
+        Summary
+ASN 	AS396982 - Google LLC
+Hostname 	14.253.149.34.bc.googleusercontent.com
+Range 	34.148.0.0/14
+Company 	Google LLC
+Hosted domains 	31
+Privacy 	True
+Anycast 	True
+ASN type 	Hosting
+Abuse contact 	google-cloud-compliance@google.com
+        
+            
 
 
