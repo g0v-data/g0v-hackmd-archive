@@ -1,12 +1,6 @@
----
-tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense,
----
-
-
-# 重要民生網站韌性檢測
-
+---tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-
+defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense, ---# 重要民生網站韌性檢測
 ###### tags: digital-resilience
-
 
 ```
 在天災人禍導致「台灣對外斷網」時，希望能盡量維持正常運作的重要網路服務。

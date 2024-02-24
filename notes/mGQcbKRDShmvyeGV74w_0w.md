@@ -36,9 +36,16 @@ We want to discuss measures for both governmental and civil department, that can
 數位韌性專案們
 ---
 - [WaytoSafety 隨時隨地知道避難場所位置](https://g0v.hackmd.io/@chewei/SJeTRFyFYp/)
+- [重要民生網站韌性檢測](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A)
 - [Meshtastic as Citizen Network](https://g0v.hackmd.io/0bR8-LvHRMaNaR97YaXpnQ)
 - [數位韌性情境分級(wip)](https://g0v.hackmd.io/SYTBWVohTyuCgPGUqfAl9g)
 - [離線防災資訊資料庫](/0E3O29reTPSItud6rcupag)
+
+歷史上的野生災害資訊整合平台
+---
+- [2021-04-02 太魯閣號列車脫軌事故災情整合平台](https://g0v.hackmd.io/c/20210402TarokoCrash/https%3A%2F%2Fg0v.hackmd.io%2F%40jothon%2FBJI4GKESd)
+- [COVID-19 Info 疫情資訊野生整合平台](https://g0v.hackmd.io/@yitzu/covid-19/https%3A%2F%2Fg0v.hackmd.io%2F%40yitzu%2Fcovid-19)
+- [俄羅斯入侵烏克蘭資訊野生整合平台 2022.2-](https://g0v.hackmd.io/@chihao/ukraine/%2Fm8_-IXlsSNGxIKOxsEDhxw%3Fview)
 
 Other
 ---
