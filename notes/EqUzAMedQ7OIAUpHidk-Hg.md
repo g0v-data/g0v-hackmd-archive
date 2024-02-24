@@ -15,36 +15,40 @@ tags: GIS
 
 ## 資料
 
-
 一些資料來源盤點
 - 流域環境情報地圖基礎地圖包 https://www.wrap.gov.tw/cp.aspx?n=33935
 - 思源地圖曾列舉的情境及情境相關資料集 https://docs.google.com/document/d/1vgIEMngmovdXS01sOAu-KVumA-VdZkN66QUKzvnrhd8/edit#heading=h.4vv7g5bazrox
 
-
-河川歸戶
+### 河川歸戶
 - 是否要用「治理線」
-    - 
-- 中央管河川區域
-    - 比較符合本次健康度分析用途，適度整合過
-    - 中央管河川區域 https://gic.wra.gov.tw/Gis/Gic/API/Google/Index.aspx
-- 縣市
+    - 找資料
+    - 中央管河川區域
+        - 此資料比較符合本次健康度分析用途，適度整合過 
+            - https://gic.wra.gov.tw/Gis/Gic/API/Google/Index.aspx
+    - 找縣市管河川區域
+        - 找
+        - 縣市水藍圖資料看看有沒有可用資料 https://g0v.hackmd.io/HQ3u-wxdQRidmVycRdcTeA
 - 河道範圍 polygon：
-    - 主流
+    - 主流 
     - 支流
-- 集水範圍 polygon：110年度全臺839子集水區範圍圖_UTF8 https://data.gov.tw/dataset/140111
-    - KML 檔案 40 mb
-        - 無法放入 umap, Google my map
-        - QGIS 線上地圖
+- 集水範圍 polygon
+    - 各種資料來源
+    - (1) 比較大範圍，補網址
+        - 例如淡水河流域僅一個 polygon
+    - (2) 110年度全臺839子集水區範圍圖_UTF8 https://data.gov.tw/dataset/140111
+        - KML 檔案 40 mb
+        - 無法放入 umap
+        - 須用分批方式才能放入 Google my map
+        - QGIS 線上地圖方式
             - https://airtable.com/appa7UHcRt9eju3hn/shr10se71AsXb7jnK/tblnNHAWlj13RusOc/viwOp1n0BA1BrTjbu/recyAUAjNacPBzUhP?blocks=hide
         - Google Earth online
         - carto 可放入，但免費使用期 14 天過後是否就不能顯示？(或是不能編輯？)
             - https://thunbergii.app.carto.com/map/23a9e97b-63fc-49ca-a0c0-9f1164793c7b?lat=24.902371&lng=121.532835&zoom=8
-                
-<iframe width=100% height="480px" src="https://thunbergii.app.carto.com/map/23a9e97b-63fc-49ca-a0c0-9f1164793c7b"></iframe>
-    
-- 其他相關筆記
+     - (3) 臺北市的集水單元，補網址
+- 河川代碼
     - https://docs.google.com/spreadsheets/d/1iFUluCGQQtGc_oYRj7r_X4RkJ-BpVV1OKWyLiNWKqDE/edit
 
+### 用鄰近程度，作為篩選依據
 
 縱向水體不連續
 - 如何系統化盤點？
@@ -68,8 +72,10 @@ tags: GIS
 河川工程決標案件
 - 大河小溪 https://river-watcher.bambooculture.tw/
 
-縣市水藍圖計畫
+縣市水藍圖計畫，點位資料
 - https://g0v.hackmd.io/HQ3u-wxdQRidmVycRdcTeA
+
+### 其他相關研究
 
 濱水區植生
 - 濱水區植生演替與沖積河床演變之動態交互地貌調整機制：本研究以Google衛星影像與Google街景的資料，找出濱水區植生完整覆蓋且長期存在、不易被洪水移除的河段，並分析其溪流功率特性，研究結果發現，透過總溪流功率、單位溪流功率兩項因子的大小與其變化，可清楚的描述河川上游到下游的水流沖刷力特性，進而區分河川型態、描述河川型態因子的變化趨勢。 
@@ -100,11 +106,12 @@ https://photos.app.goo.gl/1CBYrPCswto64VUt8
 地形特徵圖 - 國家災害防救科技中心委託辦理計畫
 https://atlas.geo.ntnu.edu.tw/
 
-### 線上地圖
+### 地圖工具
 
 QGIS 
 umap
-Googlemymap
+Googlemymap 
+tabelu? 環社檢核 case
 
 ## 圖台案例與公眾協力工具
 
