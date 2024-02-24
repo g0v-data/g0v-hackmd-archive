@@ -86,7 +86,8 @@ tags: 新生流域
     - 中崙福順宮 鄰接著 給水路 https://maps.app.goo.gl/VGUmitiHJJNGxdyh8
     - 照片，建國高架興建中與大安森林公園位置
         - https://www.facebook.com/ZhangZheSheng/photos/a.10152144402114531/10152335556574531/
-    - 開闢的敦化北路 https://www.facebook.com/photo.php?fbid=10150903561658618
+    - 南門市場 https://www.facebook.com/story.php?story_fbid=pfbid06SiBHainaz16WCRPd8wksEm1cJjaxbHNwjfAg4cdKmmxZQLvdXP5MGHJMbisTJnVl&id=100066441370310
+    - 敦化北路照片https://www.facebook.com/photo.php?fbid=10150903561658618
     - 照片，冰店與新生大排便橋，新生南路三段42號 
         - https://www.facebook.com/193313627448659/posts/pfbid02ZRijs3x5TmB4iEM83kRuG8NBRtjkXCXMD21Q6ju2p9BKRUaAxpNZxJTRvHTeQL8pl/
         - https://www.facebook.com/193313627448659/posts/pfbid02ZRijs3x5TmB4iEM83kRuG8NBRtjkXCXMD21Q6ju2p9BKRUaAxpNZxJTRvHTeQL8pl/?mibextid=cr9u03

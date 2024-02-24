@@ -49,7 +49,13 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
-| 歡迎新增提案 |  |  |
+| SaaS 韌性產品檢測 + 可 selfhost 替代品 | Paul | 要整合一下先前的其他文件 [戰時網路](https://g0v.hackmd.io/UkmNKU9AQKC1uDgVddEu-g) 和 [民生網站韌性](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A) 也會順便把一些數位韌性松基礎建設處理一下～ |
 | 歡迎自己加入空行 |  |  |
 | 歡迎新增提案 |  |  |
-| 歡迎自己加入空行 |  |  |
+| [離線防災資訊資料庫](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/%2F0E3O29reTPSItud6rcupag) | 歡迎找 Paul 自由跳坑 | 詳情請點[離線防災資訊資料庫連結](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/%2F0E3O29reTPSItud6rcupag)！ |
+
+## SaaS 韌性產品檢測 + 可 selfhost 替代品
+- 如果網路掛了還是要上班，Notion 不能用怎麼辦QQ
+    - GPT API 也是QQ
+- 真的要找可以 selfhost 或 opensources 產品
+- 今天要來研究一下
