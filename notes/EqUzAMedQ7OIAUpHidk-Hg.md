@@ -18,7 +18,19 @@ tags: GIS
 思源地圖曾列舉的情境及情境相關資料集
 - https://docs.google.com/document/d/1vgIEMngmovdXS01sOAu-KVumA-VdZkN66QUKzvnrhd8/edit#heading=h.4vv7g5bazrox
 
-ck6tj0 
+河川歸戶
+- 可能採用「集水範圍 polygon」來作為目前歸戶依據
+    - 集水範圍 polygon：110年度全臺839子集水區範圍圖_UTF8 https://data.gov.tw/dataset/140111
+        - KML 檔案 40 mb
+            - 無法放入 umap, Google my map
+            - Google Earth online
+            - carto
+            - QGIS 線上地圖
+                - https://airtable.com/appa7UHcRt9eju3hn/shr10se71AsXb7jnK/tblnNHAWlj13RusOc/viwOp1n0BA1BrTjbu/recyAUAjNacPBzUhP?blocks=hide
+    - 河道範圍 polygon：
+        - 不只一份資料集
+- 其他相關筆記
+    - https://docs.google.com/spreadsheets/d/1iFUluCGQQtGc_oYRj7r_X4RkJ-BpVV1OKWyLiNWKqDE/edit
 
 縱向水體不連續
 - 如何系統化盤點？
