@@ -52,7 +52,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | --- | --- | --- |
 | SaaS 韌性產品檢測 + 可 selfhost 替代品 | Paul | 要整合一下先前的其他文件 [戰時網路](https://g0v.hackmd.io/UkmNKU9AQKC1uDgVddEu-g) 和 [民生網站韌性](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A) 也會順便把一些數位韌性松基礎建設處理一下～ |
 | PWA 離線防災 App 規劃 | Ronny | 想做一個基礎建設，可以讓大家平時下載一個可以離線存取的防災 App ，有網路時就更新資料，沒網路就用離線資料|
-| 簡化防災準備任務 |卓致遠  | 做一個GPTs，讓防災準備簡化與任務化，[提案連結](https://www.notion.so/c534c381f1d24cbf89a2879b399f441f)，[提案連結2](https://chat.openai.com/share/ebbb0c16-8a6f-407a-ad87-25cddef53cbf) |
+| 簡化防災準備任務 |卓致遠  | 做一個GPTs，讓防災準備簡化與任務化，[提案連結](https://www.notion.so/c534c381f1d24cbf89a2879b399f441f)，[成果分享]https://whimsical.com/prototype-4bZZB5XiwaZ2mQTCx8vB9G) |
 | 歡迎新增提案 |  |  |
 | [離線防災資訊資料庫](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/%2F0E3O29reTPSItud6rcupag) | 歡迎找 Paul 自由跳坑 | 詳情請點[離線防災資訊資料庫連結](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/%2F0E3O29reTPSItud6rcupag)！ |
 | [重要民生網站韌性檢測](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A?view#服務韌性檢測方式（wip）) | Irvin | 網路障礙時 PCHOME 還能買嗎？ | 
@@ -61,7 +61,11 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 - 如果網路掛了還是要上班，Notion 不能用怎麼辦QQ
     - GPT API 也是QQ
 - 真的要找可以 selfhost 或 opensources 產品
-- 今天要來研究一下
+    - 找到了！
+    - [重要數位服務韌性檢測及其替代品](/x4cR0BtxTf6eLw_6vaPY3A)
+- 順便把一些數位韌性松基礎建設處理一下～
+    - [g0v DigiResiThon logistics](/e6rWxnppQmuSpUxcoXzoHw)
+    - [g0v DigiResiThon idea pool](/PMiMLc-JT3yFrAs3CL6rzw)
 
 ## 防災GPTs
 
@@ -134,3 +138,14 @@ ChatGPT
     定期檢查：定期檢查儲備物資的有效期限和狀態，及時更換過期或損壞的物品。
     先進先出原則：使用最舊的物品，並在購物時補充所需，保持儲備的新鮮度。
     整理與標記：將物品按購買順序整齊放置，並標示以便快速識別最新和最舊的物品，簡化管理流程。
+## PWA 專案相關：
+- 中文 [PWA 災前災時應變手冊APP中文目錄](/BW0fcloFTSurQjK5p9W5pQ)
+- 法文 [法文台灣災害資訊](/6ODKIQXxR7GLXUcgo6nN1w)
+- 英文 TBD
+## 防災/空避難資訊彙整
+- [盤點列表](https://docs.google.com/spreadsheets/d/10mkZhe8VB0CfkcC3wq4cDkXA5fGOlKOO5ncebU68VJ0/edit#gid=0)
+    - 各縣市品質不一
+    - 有的中英文都有，有的只有中文
+    - 大部份都有提供村里圖片下載，並且有疏散方向
+    - 有的會把水災震災分出來
+        - Ex: https://dpcwh.chfd.gov.tw/assets/upload/info/%E5%9F%A4%E9%A0%AD%E9%84%89%E6%9D%91%E9%87%8C%E7%B0%A1%E6%98%93%E7%96%8F%E6%95%A3%E9%81%BF%E9%9B%A3%E5%9C%96.pdf

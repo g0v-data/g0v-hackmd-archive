@@ -1,5 +1,16 @@
+---
+tags: civil-defense, 民防, 數位韌性松, disaster-prevention-pwa, digital-resilience
+---
+
 # 了解避難位置
 
+不同類型的災害，需要前往不同場所避難
+
+## 水災
+
+## 地震
+
+## 防空
 
 ### 參考資料
 

@@ -6,6 +6,8 @@ tags: disaster-prevention-pwa
 
 Numéro d'urgence bureau français à taiwan : +886 (0)932 300 644.
 
+Information source (信息來源, 在台灣的法國大使館) :
+https://france-taipei.org/IMG/pdf/3-sac-urgence.pdf?11684/9fa64a92f35a95b753f5dff065f0838b42536693
 
 ## Avant l'incident 災害以前 
 
@@ -23,7 +25,7 @@ https://fildariane.diplomatie.gouv.fr/fildariane-internet/accueil
 
 Il est important de stocker suffisamment de matériels et nourritures dans votre maison pour répondre aux besoins de votre famille pendant au moins trois jours.
 
-## Pendant l'incident 災害其中
+## Pendant l'incident 在災害期間
 
 En cas d'urgence, les îlotiers peuvent vous contacter
 
@@ -35,7 +37,7 @@ En cas d'urgence, les îlotiers peuvent vous contacter
 îlot 6 : Hualien, Taitung
 îlot 7 : Kaohsiung, Pintung, Penghu
 
-**Sac d'urgence** : 
+**Sac d'urgence** (急救背包): 
 
 * **EAU** (水)
 :::info
@@ -99,5 +101,125 @@ Constituer une trousse de première urgence pour l’habitation et pour chaque 
 - Outils type pince multiple ou couteau suisse
 - Ouvre-boîte
 
-**MATÉRIELS ADDITIONNELS
-À PRENDRE EN CONSIDÉRATION** 
+**Matériels additionnels à prendre en considération** (需要考慮的其他設備) :
+
+- Sac de couchage ou couverture de survie pour chaque personne.
+- Vêtements de rechange (incluant des tee-shirts à manches longues, pantalons et des chaussures solides).
+- Poncho ou vêtement de pluie + chapeaux/casquettes 
+- Priquets et/ou allumettes et bougies (dans conteneur étanche)
+- Ruban adhésif
+- Masque papier (pour aider à  filtrer l’air contaminé)
+- Serviettes en papier, assiettes, gobelets et couverts en plastique.
+- Papier et crayon
+- Livres, jeux et autres activités pour les enfants
+
+
+**Suggestions et rappels** (推薦和提示) : 
+* **STOCKAGE** : 
+:::info
+Stockez votre sac d’urgence dans un endroit facile d’accès, connu de tous les membres de la famille. Conservez un modèle simplifié dans le coffre de votre voiture.
+Gardez les articles dans des sacs plastiques hermétiques.
+Demandez à votre docteur ou à votre pharmacien, des renseignements sur le stockage des médicaments.
+:::
+
+* **SOYEZ À JOUR** : 
+:::info
+Changez/faites tournez : votre stock d’eau et de nourriture tous les 6 mois.
+Remplacez les batterie, faites tourner les vêtements...
+Faites le point et/ou le complément de vos matériels au moins 1 fois/an.
+:::
+
+## English version (AI Translated, using Deepl)
+## During the incident 在災害期間
+
+
+**Emergency bag** (急救背包) : 
+
+* **WATER** (水)
+:::info
+Store water in plastic containers. Avoid using glass containers that can break easily.
+A normal person needs to drink 1.5/2 litres of water a day. Depending on the weather conditions or during periods of intense physical activity, this requirement can double. Children, pregnant women and people who are ill also need more.
+:::
+
+:::info
+Store 4 litres of water per person per day (2 litres for drinking and 2 litres for food preparation and hygiene).
+:::
+
+:::info
+Build up a minimum 3-day supply for each member of the family.
+:::
+
+* **FOOD** (食物)
+:::info 
+It is necessary to store a 3-day supply of non-perishable food.
+Choose foods that require no refrigeration, little preparation or cooking and little or no water. Select foodstuffs that are compact and light.
+:::
+- Canned "ready-to-eat" dishes; meat, fruit, vegetables.
+- Canned juices, milk, soup (note: powdered foods require you to store an extra supply of water).
+- Foods with a high energy content: cereal bars, jam, spreads.....
+- Vitamins
+- Foods for children, the elderly or special diets.
+- Comfort or anti-stress food: sweets, chocolate bars, instant coffee or tea bags.
+
+* **FIRST AID KIT** (急救包)
+
+:::info
+Put together a first aid kit for the home and for each vehicle, including :
+:::
+
+- Sterile gas compresses in various sizes
+- Hypoallergenic adhesive tape / bandages
+- Sterile bandage rolls
+- Scissors / tweezers / thermometer
+- Disinfectant (betadine.....).
+- Wet wipes
+- Batch of medicines (painkillers, headaches.....).
+- Tube of Vaseline or other lubricant
+- Assortment of safety pins
+- Cleaning products/soap
+- Latex gloves (x2)
+- Sun cream
+
+* ROAD MAPS** (路綫圖)
+
+* **OTHER** (其他)
+- Mobile phone (with battery or independent charger)
+- Medical prescriptions, spare glasses
+- Infant formula and nappies
+- Pet food
+- Copy of identity papers, driving licence, bank details, insurance policy... (in a waterproof bag)
+- List of emergency contacts
+- Cash
+- Battery-powered radio (or crank radio)
+- Flashlight (and spare batteries)
+- Whistle
+- Wet wipes, plastic bags with ties (for hygiene purposes)
+- Multi-purpose pliers or Swiss Army knife
+- Can opener
+
+**Additional equipment to consider** (需要考慮的其他設備) :
+
+- Sleeping bag or survival blanket for each person.
+- Change of clothes (including long-sleeved T-shirts, trousers and sturdy shoes).
+- Poncho or rain gear + hats/caps 
+- Lighters and/or matches and candles (in waterproof container)
+- Adhesive tape
+- Paper mask (to help filter contaminated air)
+- Paper napkins, plastic plates, cups and cutlery.
+- Paper and pencil
+- Books, games and other activities for children
+
+
+**Suggestions and reminders** (推薦和提示): 
+* **STORAGE** : 
+:::info
+Store your emergency bag in an easily accessible place, known to all members of the family. Keep a simplified model in the boot of your car.
+Keep items in airtight plastic bags.
+Ask your doctor or pharmacist for information on storing medicines.
+:::
+
+* **KEEP UP TO DATE** : 
+:::info
+Change/rotate: your water and food stock every 6 months.
+Change batteries, rotate clothes...
+Check and/or top up your equipment at least once a year.

@@ -90,5 +90,10 @@ tags: Rentea
    9. 四層櫃: 32x40x120
    10. 三層櫃： 32x43x92
 
+## 其他筆記
+
+- IVAR 歐洲地區有賣轉角配件！！
+  - `937.636.09` [30 層板約 NTD 700](https://www.ikea.com/gb/en/p/ivar-corner-shelf-pine-93763609/)
+  - `137.635.09` [179cm 角柱 NTD 360](https://www.ikea.com/gb/en/p/ivar-corner-post-pine-13763509/)
 
 {%hackmd 1LO5rpavTiK4_cFrTouudg %}

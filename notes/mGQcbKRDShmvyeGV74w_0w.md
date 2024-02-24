@@ -3,7 +3,7 @@ title: g0v DigiResiThon 數位韌性松大全
 tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon
 ---
 
-
+{%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
 g0v 數位韌性松 DigiResiTh0n 大全
 ===
@@ -36,7 +36,7 @@ We want to discuss measures for both governmental and civil department, that can
 數位韌性專案們
 ---
 - [WaytoSafety 隨時隨地知道避難場所位置](https://g0v.hackmd.io/@chewei/SJeTRFyFYp/)
-- [重要民生網站韌性檢測](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A)
+- [重要數位服務韌性檢測及其替代品](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A)
 - [Meshtastic as Citizen Network](https://g0v.hackmd.io/0bR8-LvHRMaNaR97YaXpnQ)
 - [數位韌性情境分級(wip)](https://g0v.hackmd.io/SYTBWVohTyuCgPGUqfAl9g)
 - [離線防災資訊資料庫](/0E3O29reTPSItud6rcupag)
@@ -49,6 +49,6 @@ We want to discuss measures for both governmental and civil department, that can
 
 Other
 ---
-- [bootstrap and 參考資訊們](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/Qc8gsyY-Rn-4lXUA1gLH1g)
+- [idea pool 提點子](/PMiMLc-JT3yFrAs3CL6rzw)
 - [民防相關證照](/B-ky08JbR4-HD3lFDwynLQ)
 - [基建 logistics of DigiResiTh0n](/e6rWxnppQmuSpUxcoXzoHw)

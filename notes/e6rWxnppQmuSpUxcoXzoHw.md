@@ -11,9 +11,11 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 
 ## Feb 2024 todos
 - [ ] defense.tw 可以掛一個連結到韌性松嗎？
+    - [ ] 處理 https://docs.google.com/document/d/1g4unx-__fvCc6tPLeniPd_jb5EoIDALXOYkROWyVaTo/edit#heading=h.pbnalu5gwmf2
 - [ ] 要開一個 g0v hackmd organizations for digiresith0n purpose
     - [ ] 改完後要 edit 所有 social media posts
     - [ ] 改完後要 edit 所有 hackmd markdown files
+- [ ] 需討論是否要開 mailing list as digiresith0n organizers
 
 ## 確認下次活動時間前
 - [x] 到頻道上確認大家下個月可以參與的時間（坑主有空的時間優先）

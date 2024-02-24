@@ -1,5 +1,7 @@
----tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-
-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense, ---# 重要民生網站韌性檢測
+---
+tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense, 
+---
+# 重要數位服務韌性檢測及其替代品
 ###### tags: digital-resilience
 
 ```
@@ -173,7 +175,7 @@ https://g0v.hackmd.io/_HFiW7HDT9S2lwf02hTJNA?view
 | Hinet DNS | 168.95.1.1 / 168.95.192.1 | Y |
 
 
-### 雲端平台 / IaaS / SaaS
+### 雲端平台 / IaaS
 
 | 供應商 | 台灣有節點 | 備註 |
 | --- | --- | --- |
@@ -182,9 +184,18 @@ https://g0v.hackmd.io/_HFiW7HDT9S2lwf02hTJNA?view
 | Azure CDN | [Y](https://learn.microsoft.com/zh-tw/azure/cdn/microsoft-pop-abbreviations) |
 | Google Cloud Edge | [Y](https://cloud.google.com/about/locations?hl=zh-tw#lightbox-edgepoint-map) |
 | Google Cloud CDN | [Y](https://cloud.google.com/about/locations?hl=zh-tw#lightbox-cdn-map) |
+| Google App Engine | [?](https://cloud.google.com/appengine/docs/standard/locations) | App Engine 有地區性，Google 的 redundancy 似乎只有在區域內，因此使用者似乎無法確定是否在本地可用 |
 | Cloudflare | [Y](https://www.cloudflare.com/zh-tw/network/) |
 | Akamai | [Y](https://www.akamai.com/legal/compliance/privacy-trust-center/list-of-countries-with-server-points-of-presence) | | |
 | GitHub | ? ([ref](https://github.com/orgs/community/discussions/42169#discussioncomment-4454218)) | 許多軟體資源都在上面，少了它可能有很多緊急建置需求無法達成 |
+
+### SaaS
+
+
+
+| 名稱 | 功能 | 替代品 |
+| -------- | -------- | -------- |
+| Notion | 關連式資料庫、資料庫可以切很多 view | [AppFlowy](https://www.appflowy.io/) is an open-source alternative to Notion. You are in charge of your data and customizations. |
 
 
 ### 被許多廣泛使用的 framework / service
@@ -246,31 +257,75 @@ https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/
 
 1. 先打開 adblock / adguard，把不必要的元素都預先擋掉
 2. 打開瀏覽器開發工具，停用快取，載入頁面
-3. 切到 inspector，複製完整的 html 頁面（從這邊複製包含動態載入的所有內容）
-    - 完整原始碼 - https://gist.github.com/irvin/e599e61fe6498f0def5d7bce2b937f45
-4. 切到 network，用 HAR 檔存下完整的 request 紀錄 
-    - 完整 request 紀錄 - https://gist.github.com/irvin/8d7527636528fcb64ce2dc6b63679da3
-5. 檢視 HAR entries 下的每一個 request 項目（以[第一項](https://gist.github.com/irvin/8d7527636528fcb64ce2dc6b63679da3#file-24h-pchome-com-tw_archive-24-02-24-15-39-25-har-L29)為例 ）
-    - 該元件網址是否位於台灣： `https://24h.pchome.com.tw/prod/DCAYAD-A900BIAMV`
-        a. 確認資源 IP
+3. 切到 network，用 HAR 檔存下完整的 request 紀錄 
+    - 完整 request 紀錄: https://gist.github.com/irvin/8d7527636528fcb64ce2dc6b63679da3
+
+4. 資料整理
+
+    > - vscode 搜索 HAR `"url": "(.*)"` 抓出所有的 requests
+    > - 按照 hostname 排序，同一個 sub-domain 只留一條 
+
+    - 可直接丟掉的 requests 們
+        - analytics:
+            - `analytics.google.com`
+            - `play.google.com/log`
+            - `www.google-analytics.com`
+        - fb: 
+            - `connect.facebook.net`
+            - `www.facebook.com`
+        - 字體:
+            - `fonts.gstatic.com`
+        - ad:
+            - `*.doubleclick.net`
+            - `www.google.com.tw/ads`
+
+5. 檢視 HAR entries 下的每一個 request 項目是否有境內可用性，以[第一項](https://gist.github.com/irvin/8d7527636528fcb64ce2dc6b63679da3#file-24h-pchome-com-tw_archive-24-02-24-15-39-25-har-L29) `https://24h.pchome.com.tw/prod/DCAYAD-A900BIAMV` 為例
+
+
+    a. 確認資源 IP
         
             ➜  ~ ping 24h.pchome.com.tw
             PING shopping.gs1.pchome.com.tw (34.149.253.14): 56 data bytes
             64 bytes from 34.149.253.14: icmp_seq=0 ttl=61 time=20.640 ms
             
-        b. 確認該 IP 來源位置 https://ipinfo.io/34.149.253.14
+    b. 確認該 IP 資訊 https://ipinfo.io/34.149.253.14
         
-        Summary
-ASN 	AS396982 - Google LLC
-Hostname 	14.253.149.34.bc.googleusercontent.com
-Range 	34.148.0.0/14
-Company 	Google LLC
-Hosted domains 	31
-Privacy 	True
-Anycast 	True
-ASN type 	Hosting
-Abuse contact 	google-cloud-compliance@google.com
-        
+            Summary
+            ASN 	AS396982 - Google LLC
+            Hostname 	14.253.149.34.bc.googleusercontent.com
+            Range 	34.148.0.0/14
+            Company 	Google LLC
+            Hosted domains 	31
+            Privacy 	True
+            Anycast 	True
+            ASN type 	Hosting
+            Abuse contact 	google-cloud-compliance@google.com
             
+    c. 檢視 ASN / Hostname 是 GCP，對照 [#雲端平台--IaaS--SaaS](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A?both#雲端平台--IaaS--SaaS) 確認其有台灣節點，在「是否可及」內紀錄（可及打 O / 不可及打 X / 不明打 ?）
+        
 
+6. 該頁所有 request 列表於下:
 
+    | # | 是否可及 | location | URI |
+    | - | ------ | -------- | -------- |
+    | 1 | O | GCP | `https://24h.pchome.com.tw/prod/DCAYAD-A900BIAMV` |
+    | 2 | ? | Google App Engine |  `https://web-market-349104.de.r.appspot.com/g/collect?v=2&tid=G-1234&gtm=45je42l0za220&_p=1708759832896&gcd=13l3l3l3l1&npa=0&dma=0&cid=1921541364.1708759817&ul=zh-tw&sr=1352x878&ur=TW-TPE&pscdl=noapi&sst.uc=TW&sst.etld=google.com.tw&sst.gcd=13l3l3l3l1&sst.tft=1708759832896&_s=1&sid=1708759820&sct=1&seg=1&dl=https%3A%2F%2F24h.pchome.com.tw%2Fprod%2FDCAYAD-A900BIAMV&dt=GRADO%20Prestige%20%E7%B3%BB%E5%88%97%20SR80x%20%E9%96%8B%E6%94%BE%E5%BC%8F%E8%80%B3%E7%BD%A9%E8%80%B3%E6%A9%9F%20-%20PChome%2024h%E8%B3%BC%E7%89%A9&en=user_engagement&ep.server_side_event=true&_et=2016&tfd=115832`|
+    | 3 | O | Akamai |  `https://cs-a.ecimg.tw/items/DCAYADA900BIAMV/000001_1705372221.jpg`|
+    | 4 | _ | _ |  `https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create`|
+    | 5 | _ | _ |  `https://play.google.com/log?format=json&hasfast=true&authuser=0`|
+    | 6 | _ | _ |  `https://www.google.com/js/th/QGccEJWqd_gIzr4UnyRjJu4DFpzUq3q8RcWI0eePlNs.js`|
+    | 7 | _ | _ |  `https://www.googletagmanager.com/a?v=3&t=l&pid=465103988&rv=42l0&u=AAAAAAAIAAAAAIAI&ut=Ag&h=Ag&gtm=45je42l0v872609635za220&ccid=72609635&cid=G-9CE1X6J1FG&l=L251.S13.B11.E6031.I251.EC9.TC20.HTC0~gtm.init.S1.V1.E64.TS5ogtcrossdomain.TI113.TE1.TS5ogtreferralexclusion.TI115.TE1.TS5ogtipmark.TI116.TE1.TS5ogtautoevents.TI117.TE1.TS5ogt1pdatav2.TI118.TE0.TS5ccdgalast.TI119.TE0.TS5ccdautoredact.TI120.TE1.TS5ccdconversionmarking.TI121.TE0.TS5ccdemvideo.TI122.TE0.TS5ccdemsitesearch.TI123.TE0.TS5ccdemscroll.TI124.TE1.TS5ccdempageview.TI125.TE0.TS5ccdemoutboundclick.TI126.TE0.TS5ccdemdownload.TI127.TE0.TS5ccdgaregscope.TI128.TE0.TS5ogtgooglesignals.TI129.TE1.TS5ccdgaadslink.TI130.TE0.TS5setproductsettings.TI131.TE0.TS5ccdgafirst.TI132.TE0~gtm.js.S0.V0.E56.TS5gct.TI110.TE0~gtm.dom.S1.V1.E8~gtm.elementVisibility.S0.V0.E7~gtm.elementVisibility.S0.V0.E7~*.S1.V0.E1~gtm.load.S1.V1.E4~gtm.scrollDepth.S0.V0~gtm.init_consent.S0.V0.E17~GA1873`|
+    | 8 | _ | _ |  `https://yt3.ggpht.com/ytc/AIf8zZSx8tbakn07GnSTMfSuhxvk02L73EOM0P4BcugdyQ=s68-c-k-c0x00ffffff-no-rj`|
+    | 9 | _ | _ |  `https://24h.pchome.com.tw/cdn/switch/v1/config`|
+    | 10 | _ | _ |  `https://apid.pcloud.tw/venapis/vengu`|
+    | 11 | _ | _ |  `https://assets.pchome.com.tw/production/ecweb/build/static/css/main.06faf475.css`|
+    | 12 | _ | _ |  `https://ecapi-cdn.pchome.com.tw/cdn/ecshop/cateapi/v1.5/store&id=DCAYAD&_callback=jsonp_storestyle?_callback=jsonp_storestyle`|
+    | 13 | _ | _ |  `https://ecssl-cart.pchome.com.tw/cart/index.php/prod/modify?data={%22TB%22:%2224H%22}&callback=jsonp_modshopcart&1708759949&_callback=jsonp_modshopcart`|
+    | 14 | _ | _ |  `https://engage.pchome.com.tw/?eventName=pageView&eventId=21974ba3-8ada-4019-b67c-7cd1ea6edebb&timestamp=1708759949535&deviceCategory=web.desktop&userAgent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A124.0)%20Gecko%2F20100101%20Firefox%2F124.0&deviceId=3402a870-92f6-4b07-aadf-a49156027375&userId=null&sessionId=9d825506-1781-4870-b682-efbce46898ca&pageType=prod&pageId=DCAYAD-A900BIAMV&pageName=GRADO%20Prestige%20%E7%B3%BB%E5%88%97%20SR80x%20%E9%96%8B%E6%94%BE%E5%BC%8F%E8%80%B3%E7%BD%A9%E8%80%B3%E6%A9%9F%20-%20PChome%2024h%E8%B3%BC%E7%89%A9&pageUrl=https%3A%2F%2F24h.pchome.com.tw%2Fprod%2FDCAYAD-A900BIAMV&pageReferrer=`|
+    | 15 | _ | _ |  `https://eventapi.pchome.com.tw/g/collect?v=2&tid=G-9876543210&gtm=45je42l0z879197709za200&_p=1708759948669&gcd=13l3l3l3l1&npa=0&dma=0&cid=1921541364.1708759817&ul=zh-tw&sr=1352x878&ur=TW-TPE&pscdl=noapi&sst.uc=TW&sst.etld=google.com.tw&sst.gcd=13l3l3l3l1&sst.tft=1708759948669&_s=1&sid=1708759817&sct=1&seg=1&dl=https%3A%2F%2F24h.pchome.com.tw%2Fprod%2FDCAYAD-A900BIAMV&dt=GRADO%20Prestige%20%E7%B3%BB%E5%88%97%20SR80x%20%E9%96%8B%E6%94%BE%E5%BC%8F%E8%80%B3%E7%BD%A9%E8%80%B3%E6%A9%9F%20-%20PChome%2024h%E8%B3%BC%E7%89%A9&en=page_view&ep.event_id=a95136d4-c15d-44ef-9f88-c04bdf2c2956_1708759948669.1&ep.event_name=PageView&ep.x-fb-ck-fbp=fb.2.1708759824862.460376396&tfd=3181&richsstsse`|
+    | 16 | _ | _ |  `https://img.pchome.com.tw/cs/items/DCAYADA900BIAMV/i010001_1624876051.jpg`|
+    | 17 | _ | _ |  `https://kdpic.pchome.com.tw/img/js/xasynpcadshow.js`|
+    | 18 | _ | _ |  `https://libs.pcloud.tw/js/current/venraaspt.min.js?_=19777`|
+    | 19 | _ | _ |  `https://pchome24h.api.useinsider.com/ins.js?id=10005204`|
+    | 20 | _ | _ |  `https://i.ytimg.com/vi/EB75v95vLV0/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgTyg_MA8=&rs=AOn4CLCMKP3lMRUOiObHI0RqSJtZmuwdug`|
+    | 21 | _ | _ |  `https://www.youtube.com/embed/EB75v95vLV0`|
