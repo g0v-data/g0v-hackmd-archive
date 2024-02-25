@@ -85,7 +85,7 @@ https://www.facebook.com/VisionZeroTW
 
 [行人優先交通安全行動綱領  (行政院全球資訊網-重要政策)](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/6bb0a2a4-51ee-4655-ad59-e7fad2dd095c)
 
-道路安全基本法
+[道路安全基本法-全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0040079)
 
 ### 新聞
 
