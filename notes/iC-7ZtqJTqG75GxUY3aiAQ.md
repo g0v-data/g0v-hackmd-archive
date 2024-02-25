@@ -159,7 +159,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
      - Ultrasound 無法使用 (15khz 以上)
      - 如果多一點人在講話的話會傳輸失敗
 - 由於無線電收發機通常有濾波會砍掉低頻和高頻，建議使用現有為無線電設計的傳訊軟體: 
-1.AndFLmsg (android app)，電腦端為FLdigi，部分地區實際作為防災傳訊系統使用
+1.AndFLmsg (android app)，電腦端為FLdigi，部分地區實際做為防災傳訊系統使用。
 2.Rattlegram
 
 
