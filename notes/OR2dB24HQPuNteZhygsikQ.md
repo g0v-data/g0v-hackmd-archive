@@ -46,6 +46,8 @@ TODO
     - https://www.facebook.com/ReTWRoad/posts/pfbid02pYBHHmZfwH2VDtzH1kNtaL1fLxo8ZmaoxwDA9ReYs9rkYkJA93qWuNKWtgMugg63l
 - 提案糾正文化部督同各縣市政府所有之逾50年公有建造物，未依法辦理定期普查，待普查高達99％，列冊追蹤僅2％；又各縣市政府2016年至2022年8月止，逾50年公有建造物未辦理文資價值評估，即毀拆之案共86件，核有重大違失，依法提案糾正。監察院教育及文化委員會於本月13日審查通過該案
     - https://news.ltn.com.tw/news/politics/breakingnews/4370496
+- 文資申請者試算房舍長期價值 vs 標售
+    - https://www.facebook.com/share/p/GjrbRnGPwJidtFwn/
 
 ## 處分環節
 - 處分決策
