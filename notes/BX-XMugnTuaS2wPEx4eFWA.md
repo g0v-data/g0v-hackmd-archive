@@ -60,6 +60,7 @@ https://docs.google.com/presentation/d/1Bxf6UIijPGIlCr5qj3HKzmRVuwgPvW8SPIvEeQmO
 - [ ] 建立一個入口網站 
     - [ ] 工具挑選：Google Site 或是 g0v.hackmd 書本模式
     - 可以考量中長期使用該工具，或已有？
+    - https://sites.google.com/view/guandu-data/
 
 #### 聯繫
 - [ ] 建立一個訊息群組

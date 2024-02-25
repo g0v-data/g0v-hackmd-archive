@@ -2,7 +2,7 @@
 tags: GIS
 ---
 
-# 河川健康度
+# 河川健康度 / 資料分析方法
 
 概念：
 - 診斷河川健康度
@@ -15,38 +15,55 @@ tags: GIS
 
 ## 資料分析筆記區
 
+輔助討論用簡報
+https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6vCsM/edit?usp=sharing
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQb5HZoAw4YzmDuBgHzfsb53sfW16C2-c2aKqPUy_C8dce5e_BfbjeDXbDYMDjzFIk51mqQzbktENO/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### 首先：河川歸戶
 
+:::warning
 討論
--　依據「探討河川健康度」的方法，需要什麼樣的「河川本體基本資料」
-    -　A.「治理線」作為河川範圍
-        -　這個範圍裡面有 堤防與護岸、水工構造物設施、河水水體範圍、河濱公園、各種國土利用調查結果的圖塊
-    -　B.「集水範圍」作為會影響河川的最大範圍
-        -　汙染來源
+- 依據「探討河川健康度」的方法，需要什麼樣的「河川本體基本資料」
+    - A.「治理線」作為河川範圍
+        - 這個範圍裡面有 堤防與護岸、水工構造物設施、河水水體範圍、河濱公園、各種國土利用調查結果的圖塊
+    - B.「集水範圍」作為會影響河川的最大範圍
+        - 汙染來源
+:::
 
-A.「治理線」資料
+#### A.「治理線」資料
 - 已經有「中央管河川區域」
-    - https://gic.wra.gov.tw/Gis/Gic/API/Google/Index.aspx
-    - 中央管河川區域 RIVREGLN，面狀資料
-    - 中央管排水設施範圍REGDAREA，面狀資料
+    - 中央管河川區域 RIVREGLN，面狀資料 + 中央管排水設施範圍REGDAREA，面狀資料
+        - 下載網址：https://gic.wra.gov.tw/Gis/Gic/API/Google/Index.aspx
+        - [線上瀏覽地圖](https://thunbergii.app.carto.com/map/23a9e97b-63fc-49ca-a0c0-9f1164793c7b)
 - 需要找「縣市管河川區域」
     - 找 !
-    - 例如：缺少基隆河在臺北市的河段
-    - [已找過] 縣市水藍圖資料沒有這種資料 https://g0v.hackmd.io/HQ3u-wxdQRidmVycRdcTeA
+    - 筆記
+        - 中央管河川還缺少基隆河在臺北市的河段
+        - [已找過] 縣市水藍圖資料沒有這種資料 https://g0v.hackmd.io/HQ3u-wxdQRidmVycRdcTeA
 
-B. 集水範圍 polygon
+
+#### B. 集水範圍 polygon
 - 各種資料來源
-    - (1) 比較大範圍，補網址
-        - 例如淡水河流域僅一個 polygon
-    - (2) 110年度全臺839子集水區範圍圖_UTF8 https://data.gov.tw/dataset/140111
+    - (1) 全國：河川流域範圍圖 https://gic.wra.gov.tw/Gis/Gic/API/Google/Index.aspx
+        - 淡水河流域僅一個 polygon
+    - (2) 全國：110年度全臺839子集水區範圍圖_UTF8 https://data.gov.tw/dataset/140111
         - KML 檔案 40 mb
         - 無法放入 umap
         - 須用分批方式才能放入 Google my map
-     - (3) 臺北市的集水單元，補網址
-     - 臺北市78集水分區(原百齡集水區因士林北投區段徵收工程在切分出文林集水區、洲美集水區)之分布範圍及屬性資料表(KML格式) https://data.taipei/dataset/detail?id=d8085d88-0a07-4fe6-86ec-8910954342ac
+    - (3) 臺北市的集水單元
+        - 臺北市78集水分區(原百齡集水區因士林北投區段徵收工程在切分出文林集水區、洲美集水區)之分布範圍及屬性資料表(KML格式) https://data.taipei/dataset/detail?id=d8085d88-0a07-4fe6-86ec-8910954342ac
+    - (4) 新北市
+        - 板橋土城 https://www.gtint.com.tw/service_1_detail/63.htm
+        - 瓦磘溝的範圍
+    - (5) ...蒐集各縣市是否有釋出更細的集水單元
+- 討論：
+    - 這個涉及要如何認定的問題
+    - 例如臺北市北投區磺港溪的集水範圍、新北市瓦磘溝的範圍，需要採用縣市釋出的集水單元範圍
+    - 這部分如何工作：
+        - 考慮放入 Google My Map 把流域範圍整理一遍
 
-C. 水體河道範圍
+#### C. 水體河道範圍 
 - 水利署有釋出：全台主流資料、全台支流資料
 - 縣市
     - 嘉義縣水藍圖資料，有多一些支流（但是是線條資料，不是面狀資料）
@@ -54,19 +71,21 @@ C. 水體河道範圍
 - 討論：
     - 這份資料實際上是比較破碎的，並不是連續的面體
     - 優先使用「治理線」與「中央管河川區域」資料
-        - 若無，才會評估使用這套資料
+        - 若無，才會評估使用這套資料再想辦法推論出類似「治理線」的範圍
 
-D. 河川代碼
+#### D. 河川代碼
 - 河川名稱唯一值
     - https://docs.google.com/spreadsheets/d/1iFUluCGQQtGc_oYRj7r_X4RkJ-BpVV1OKWyLiNWKqDE/edit
 
 ### 用鄰近程度，作為篩選依據
 
 橫向
-- 堤防資料：https://drive.google.com/drive/folders/1kitIqmRCD0zHW2Ch6AL1N9ZGEYvbSmm5?usp=sharing
+- 有堤防資料的河段：https://drive.google.com/drive/folders/1kitIqmRCD0zHW2Ch6AL1N9ZGEYvbSmm5?usp=sharing
     - 20240225 資料包含：(1) 中央管河川的堤防 (2) 縣市只有桃園市
-
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_25e2fa6f4341b7a9b7795eb9b4bb44ff.png)
+        - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_25e2fa6f4341b7a9b7795eb9b4bb44ff.png)
+- 沒有堤防資料的河段
+    - 推論方法討論：
+        - 國土利用調查
 
 縱向水體不連續
 - 已有資料
@@ -82,13 +101,15 @@ D. 河川代碼
 - 樣態描述：橋梁、加蓋停車場、箱涵..等
 - 討論：
     - 研判資料：以國土利用調查圖資，作為研判資料
-    - 研判範圍：河川線以內，符合加蓋實情的代碼列表，視為加蓋面積
+        - 國土利用調查線上瀏覽：https://nsp.tcd.gov.tw/ngis/
+        - 舊版檔案請洽 chewei
+    - 研判範圍：「河川線」以內，符合加蓋實情的代碼列表，視為加蓋面積
 
 河川線以內
 - 歷年衛星影像暨變異點展示平台 https://www.landchg.org.tw/Module/RWD/Web/pub_exhibit.aspx
 
 水質
-- 針對河川的汙染等級評定結果資料
+- 政府已有針對河川的汙染等級評定結果資料
 - 集水範圍內
     - (企業裁罰) 透明足跡 https://thaubing.gcaa.org.tw/
     - 全台合法露營區地點 https://g0v.hackmd.io/h7CTLUQsQbeELmMJG3fzGg?view
@@ -97,12 +118,15 @@ D. 河川代碼
     - 歷年衛星影像暨變異點 https://g0v.hackmd.io/rvgNUt6cRO6Z8MXiY-j1_g?view
     - 歷年國土利用調查 https://g0v.hackmd.io/TKulH3eKQJ6fL0isUPDfdw?view
 
-河川工程決標案件
-- 大河小溪 https://river-watcher.bambooculture.tw/
-- 2013-2020 水利工程案件地點 
+工程與計畫
+- 歷史資料
+    - 2013-2020 水利工程案件地點 KML https://drive.google.com/file/d/1HWp44KNrmasYWpNUpST0vG0pP84qa008/view?usp=sharing 
+- 縣市水藍圖計畫，點位資料
+    - https://g0v.hackmd.io/HQ3u-wxdQRidmVycRdcTeA
+- 持續中的 河川工程決標案件
+    - 大河小溪 https://river-watcher.bambooculture.tw/
+        - 來源是這個資料庫 Government Procurement 政府採購案件 https://openfunltd.github.io/pcc-viewer/
 
-縣市水藍圖計畫，點位資料
-- https://g0v.hackmd.io/HQ3u-wxdQRidmVycRdcTeA
 
 ### 其他相關研究與探討
 
@@ -122,6 +146,7 @@ D. 河川代碼
         - 待打開瀏覽
         - 2013-2020 水利工程點位資料
             - 這裡可以瀏覽資料 https://thunbergii.app.carto.com/map/23a9e97b-63fc-49ca-a0c0-9f1164793c7b?lat=24.902371&lng=121.532835&zoom=8
+            - KML https://drive.google.com/file/d/1HWp44KNrmasYWpNUpST0vG0pP84qa008/view?usp=sharing
 - 思源地圖曾列舉的情境及情境相關資料集 
     - https://docs.google.com/document/d/1vgIEMngmovdXS01sOAu-KVumA-VdZkN66QUKzvnrhd8/edit#heading=h.4vv7g5bazrox
 - 其他筆記頁面
