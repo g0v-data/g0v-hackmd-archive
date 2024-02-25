@@ -29,6 +29,8 @@ tags: GIS
     - 下載網址：https://gofile.me/4pShY/aiKB1ME4G
     - 與河川健康度相關的資料集：
         - 待打開瀏覽
+        - 2013-2020 水利工程點位資料
+            - 這裡可以瀏覽資料 https://thunbergii.app.carto.com/map/23a9e97b-63fc-49ca-a0c0-9f1164793c7b?lat=24.902371&lng=121.532835&zoom=8
 - 思源地圖曾列舉的情境及情境相關資料集 
     - https://docs.google.com/document/d/1vgIEMngmovdXS01sOAu-KVumA-VdZkN66QUKzvnrhd8/edit#heading=h.4vv7g5bazrox
 
@@ -69,9 +71,23 @@ tags: GIS
 這裡有河川往外推 30 公尺的圖資結果
 https://classicdesign053.carto.com/builder/48e2d385-3328-495e-8bd8-0a352653f523/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B21.839130732143317%2C117.09848793223502%5D%2C%22sw%22%3A%5B25.37188765563586%2C125.21738441661002%5D%2C%22center%22%3A%5B23.617413163623617%2C121.15793617442252%5D%2C%22zoom%22%3A8%7D%7D
 
+橫向
+- 堤防資料：https://drive.google.com/drive/folders/1kitIqmRCD0zHW2Ch6AL1N9ZGEYvbSmm5?usp=sharing
+    - 20240225 資料包含：(1) 中央管河川的堤防 (2) 縣市只有桃園市
+
 縱向水體不連續
-- 如何系統化盤點？
-- 先找個別案例河川
+- 河溪網已有找到 水保署
+- 其他單位列舉
+    - 林業署
+    - 臺電
+    - 台水
+    - 北水
+    - 縣市政府
+
+加蓋型態
+- 樣態描述：橋梁、加蓋停車場、箱涵..等
+- 討論：
+    - 以國土利用調查圖資，作為研判資料
 
 水質
 - 透過溪流水利模式，擴大沿線水質推論結果 
