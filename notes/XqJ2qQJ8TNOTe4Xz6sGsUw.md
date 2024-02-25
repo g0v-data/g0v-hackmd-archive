@@ -166,7 +166,7 @@ https://drive.google.com/drive/folders/195jTX7meHFwmkmB649g4FgzG3pUoOMNt
 - 專案孵化競賽後則可以開始小規模的尋找一些願意定期協助參與測試的公益社團法人，請職員協助測試，根據測試回饋結果進行系統調整和改善。
 - 聊天機器人的提示詞（prompt）若穩定後，預計會將服務範圍拓展到其他相關的職業團體或合作社。
 
-## Acknowledgements
-- 「政府補助案上架通知」、「政府補助案申請書、結案報告自動生成撰寫」為台灣社區協力農業協會 ==陳建泰理事長== 所貢獻的功能建議
-- 「簡單介紹您的提案」欄位為台灣社區協力農業協會 ==陳建泰理事長== 所貢獻的修改建議
-- 
+##### Acknowledgements
+- 「政府補助案上架通知」、「政府補助案申請書、結案報告自動生成撰寫」及「財會小幫手（部分功能）」為台灣社區協力農業協會 **陳建泰理事長** 所貢獻的功能建議
+- 「簡單介紹您的提案」欄位為台灣社區協力農業協會 **陳建泰理事長**  所貢獻的修改建議
+- other acknowledgements please refer to our [GitHub page](https://github.com/paulpengtw/nonprofit-helper-chat-deployment)
