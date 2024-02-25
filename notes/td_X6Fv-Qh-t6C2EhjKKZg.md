@@ -1,6 +1,9 @@
-# 非常時期家庭常備物品清單
+---
+tags: 防災, 民防
+---
 
-###### tags: 防災
+
+# 非常時期家庭常備物品清單
 
 > fork from: https://hackmd.io/@miaoski/HJlcNgax3H
 > english: https://g0v.hackmd.io/@irvin/emergency-shopping-list 

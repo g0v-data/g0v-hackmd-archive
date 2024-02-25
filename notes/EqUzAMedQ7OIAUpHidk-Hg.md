@@ -25,6 +25,8 @@ tags: GIS
     - 中央管河川區域
         - 此資料比較符合本次健康度分析用途，適度整合過 
             - https://gic.wra.gov.tw/Gis/Gic/API/Google/Index.aspx
+            - 中央管河川區域 RIVREGLN，面狀資料
+            - 中央管排水設施範圍REGDAREA，面狀資料
     - 找縣市管河川區域
         - 找
         - 縣市水藍圖資料看看有沒有可用資料 https://g0v.hackmd.io/HQ3u-wxdQRidmVycRdcTeA
@@ -45,6 +47,7 @@ tags: GIS
         - carto 可放入，但免費使用期 14 天過後是否就不能顯示？(或是不能編輯？)
             - https://thunbergii.app.carto.com/map/23a9e97b-63fc-49ca-a0c0-9f1164793c7b?lat=24.902371&lng=121.532835&zoom=8
      - (3) 臺北市的集水單元，補網址
+         - 臺北市78集水分區(原百齡集水區因士林北投區段徵收工程在切分出文林集水區、洲美集水區)之分布範圍及屬性資料表(KML格式) https://data.taipei/dataset/detail?id=d8085d88-0a07-4fe6-86ec-8910954342ac
 - 河川代碼
     - https://docs.google.com/spreadsheets/d/1iFUluCGQQtGc_oYRj7r_X4RkJ-BpVV1OKWyLiNWKqDE/edit
 

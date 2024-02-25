@@ -1,7 +1,10 @@
 ---
 tags: edu, nonprofit-helper
-title: nonprofit-helper project proposal 
+title: deprecated_nonprofit-helper project proposal 
 ---
+
+# deprecated
+# latest version please go to [nonprofit-helper project proposal - feb 25 version](/XqJ2qQJ8TNOTe4Xz6sGsUw)
 
 ## 專案名稱
 nonprofit-helper

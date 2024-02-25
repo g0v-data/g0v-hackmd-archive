@@ -1,8 +1,8 @@
 ---
 tags: edu, nonprofit-helper, nonprofit, ngo, nonprofits
-title: nonprofit-helper Home
+title: nonprofit-helper 會務 E 化小幫手首頁
 ---
-# nonprofit-helper Home
+# nonprofit-helper 會務 E 化小幫手首頁
 
 :::info
 This is a nominee of [4th sch001 project incubation competition](https://g0v.hackmd.io/@jothon/rydvIDluT/https%3A%2F%2Fg0v.hackmd.io%2F%40jothon%2FSJbjGMnvT)
@@ -13,7 +13,11 @@ This is a nominee of [4th sch001 project incubation competition](https://g0v.hac
 - [nonprofit-helper：零時先輩專案諮詢紀錄](https://g0v.hackmd.io/@jothon/rydvIDluT/https%3A%2F%2Fg0v.hackmd.io%2F%40jothon%2FHkpptveup)
 
 ## project proposal
-[nonprofit-helper proposal documents](/Sn_lVZE9QKWVqUGQVx_VTg)
+- [nonprofit-helper project proposal - feb 25 version](/XqJ2qQJ8TNOTe4Xz6sGsUw)
+    - [deprecated_nonprofit-helper 會務 E 化小幫手 proposal documents](/Sn_lVZE9QKWVqUGQVx_VTg)
+
+## project demo
+[nonprofit-helper 會務 E 化小幫手 demo link](/mlEUFz6tSe-Zp5UkxUdISA)
 
 ## the whole process of running a 公益社團法人
 - [內政部數位櫃檯](/WgsDA9GGRCydkD8RyXrM_g)
