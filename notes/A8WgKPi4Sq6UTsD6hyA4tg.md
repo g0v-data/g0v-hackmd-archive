@@ -5,8 +5,11 @@
 https://g0v.hackmd.io/@9MFwWADKQoOFxQv-EmZDug/rJFCOdShp/edit
 2024-02-26
 https://g0v.hackmd.io/@9MFwWADKQoOFxQv-EmZDug/S1QGwH83T/edit
+2024-02-27
+https://g0v.hackmd.io/@9MFwWADKQoOFxQv-EmZDug/HJ9-WuF2a/edit
+2024-02-29
 
-
+2024-02-30
 
 
 ## 不能只有我知道的參考資料

@@ -23,4 +23,20 @@
             - 判斷版號 vs 最低版號需求：通常在前幾版就會先預埋好。
             - 跳出 alert
 5. 怎麼用 Xcode 內建的工具 debug？
-6. HTTP request & response
+    1. break point: 看 code 執行
+    2. view hierarchy: debug UI
+7. HTTP request & response
+    1.  HTTP request
+        1.  Action
+            1.  GET: 
+            2.  POST: 新增東西 // 前期會跟後端討論
+            3.  PUT: 
+
+        2. Header：類似信封，會寫 Token（憑證）
+        3. Body：信的內容，夾帶資訊
+        4. Method
+        5. IP 位置：IPv4, IPv6
+    3.  HTTP response
+        1. status code
+        2. Header
+        3. Body
