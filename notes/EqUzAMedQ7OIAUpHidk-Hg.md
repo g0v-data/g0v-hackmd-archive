@@ -105,18 +105,35 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
         - 舊版檔案請洽 chewei
     - 研判範圍：「河川線」以內，符合加蓋實情的代碼列表，視為加蓋面積
 
-河川線以內
-- 歷年衛星影像暨變異點展示平台 https://www.landchg.org.tw/Module/RWD/Web/pub_exhibit.aspx
+河川線以內的土地使用
+- 明確變動事件
+    - 歷年衛星影像暨變異點展示平台 
+        - https://g0v.hackmd.io/rvgNUt6cRO6Z8MXiY-j1_g?view
+        - 民間已爬下點位資料
+        - 可以針對變異點資料類型，建立一個從河川健康度的觀點，哪些變異類型對於河川健康度有害
+- 普查資料
+    - 歷年國土利用調查 
+        - https://g0v.hackmd.io/TKulH3eKQJ6fL0isUPDfdw?view
+        - 民間已爬下歷年國土利用調查資料
+            - 例如把代碼歸納為一批「自然類」、「人工化」，「惡化／不適合在濱水帶與河川治理線之內」
+            - 探討歷年變化
+            - 筆記
+                - 國土利用調查似乎並不會把人工溼地調查出來，會標記為「公園綠地廣場」，不過人工溼地對於河川健康度實際會比「公園綠地廣場」來的有正向貢獻
+            - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_873f7f9a58b05f0067bc59bf13e65f92.png)
+
 
 水質
 - 政府已有針對河川的汙染等級評定結果資料
-- 集水範圍內
-    - (企業裁罰) 透明足跡 https://thaubing.gcaa.org.tw/
-    - 全台合法露營區地點 https://g0v.hackmd.io/h7CTLUQsQbeELmMJG3fzGg?view
-    - 農地違章工廠資料 https://disfactory.tw/
+- 集水範圍內：汙染事件、尚未納管汙染源
+    - 以下可以馬上納入研判
+        - (企業裁罰) 透明足跡 https://thaubing.gcaa.org.tw/
+        - 農地違章工廠資料 https://disfactory.tw/
+        - 全台非法與合法露營區地點 https://g0v.hackmd.io/h7CTLUQsQbeELmMJG3fzGg?view
 - 鄰河川線一定範圍內
-    - 歷年衛星影像暨變異點 https://g0v.hackmd.io/rvgNUt6cRO6Z8MXiY-j1_g?view
-    - 歷年國土利用調查 https://g0v.hackmd.io/TKulH3eKQJ6fL0isUPDfdw?view
+    - 以下可以馬上納入研判
+        - 歷年衛星影像暨變異點 https://g0v.hackmd.io/rvgNUt6cRO6Z8MXiY-j1_g?view
+    - 其他要想一下資料解釋方式
+        - 國土利用調查 https://g0v.hackmd.io/TKulH3eKQJ6fL0isUPDfdw?view
 
 工程與計畫
 - 歷史資料

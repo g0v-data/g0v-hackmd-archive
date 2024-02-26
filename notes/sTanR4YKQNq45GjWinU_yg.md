@@ -2,9 +2,14 @@
 tags: 公有地大行動, 可能的空間, edu
 ---
 
-# 台灣廢校盤點與再生 / 餘裕空間活化機制
+# 台灣廢校盤點與再生 / 餘裕空間活化機制 / 私校退場與大學設校議題
 
-## Why
+:::warning
+文件目錄
+[TOC]
+:::
+
+## 議題
 
 - 教育部所制定的《公立國民小學及國民中學合併或停辦準則》
 - 2016年，台灣由於少子化和國人不喜歡在虎年生子，新生入學人數創下史上新低，17.5 萬。新聞來源：[http://www.appledaily.com.tw/realtimenews/article/new/20160609/882678/](http://www.appledaily.com.tw/realtimenews/article/new/20160609/882678/)
@@ -20,6 +25,8 @@ tags: 公有地大行動, 可能的空間, edu
     - https://www.facebook.com/story.php?story_fbid=pfbid0Bbpr31p1X6L66AKiD7epsAQYPRX86Nrh7X2cupseriX4KfeKYYvqQaeLU7riSWVPl&id=100068687045245&mibextid=qC1gEa
 - 私校退場
     - https://www.facebook.com/100000394372480/posts/pfbid0gtwmsChAYoacFpJ5XwN3iYiwQZtp3SRMcRsXubFzpWNzGeAhtZx1rX3oZb551AiSl/?mibextid=cr9u03
+- 大學設校
+    - https://www.facebook.com/sabrina.kou.9/posts/pfbid0h3zbYKfjY8by6CndodmonEGuGYCpxs1mSvvRjQyKWRyBuhN44dXZbbJ4fcdiR3QCl
 
 ## Todo
 
