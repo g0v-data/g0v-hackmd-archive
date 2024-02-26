@@ -98,14 +98,16 @@ tags: Rentea
   - [IKEA MUSKEN](https://www.ikea.com.tw/zh/products/wardrobes/solitaire-wardrobes/musken-art-70378683)
 
 
-## 各時期收納盤點 
+## 各時期收納細項
+
+### 第三孕期
 
 1. 房一
    1. `新家具` 隊友衣物 [IKEA MUSKEN](https://www.ikea.com.tw/zh/products/wardrobes/solitaire-wardrobes/musken-art-70378683) 7,299
    2. `新家具` 嬰兒玩具 [KALLAX](https://www.ikea.com.tw/zh/products/storage/open-storage/kallax-art-70351891) 2x4 2,799
    3. 嬰兒衣物 [NITORI 堆疊抽屜](https://www.nitori-net.tw/product/8430852s)
 3. 房二
-   1. 照舊 + 不常用的日用品
+   1. 照舊 + 不常用的日用品 + 原本放在客廳的日用品
 5. 房三
    1. 生產人書 - IKEA GORM 淺
       1. `新家具` 訂製兩根 IKEA GORM 柱子 XD 1,000 (?)
@@ -116,9 +118,10 @@ tags: Rentea
    7. 裝修器材 - IKEA GORM 深
 7. 客廳
    1. 暫放隊友書 - IKEA IVAR 淺
-   2. `新家具` IKEA IVAR 轉角配件
    3. 嬰兒日用品 - IKEA [IVAR CORNER](https://www.ikea.com/gb/en/p/ivar-corner-shelf-pine-93763609/) x2 2,000 (?)
-   4. 
+   4. 照顧者外出用品 - IKEA MACKAPÄR 高 + KALLAX
+   5. 嬰兒外出小用品 - IKEA MACKAPÄR 矮
+      - `新購置` 宜得利[軟式收納盒](https://www.nitori-net.tw/product/8421401s) - 2寬低 + 1窄低 400
 
 [x] 房一 
 [x] 房三
