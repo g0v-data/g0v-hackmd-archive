@@ -154,6 +154,9 @@ tags: 新生流域
         - 賞螢火蟲，當時的水環境？
             - https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E6%AD%A3%E6%A9%8B
             - https://zh.wikipedia.org/zh-tw/%E8%9E%A2%E6%A9%8B
+    - 納莉颱風照片南京東路東興路口
+        - 推測位置：https://www.google.com/maps/@25.0514673,121.5648617,3a,90y,271.3h,87.19t/data=!3m6!1e1!3m4!1sDAbYVansNa9CyYzE-kpvoQ!2e0!7i16384!8i8192?authuser=0&entry=ttu
+        - 照片：
     - 建國高架下方的 育成庇護園區 https://ycipay.eoffering.org.tw/contents/project_ct?page=1&p_id=59&utm_source=cffb&utm_medium=a&utm_campaign=green&fbclid=IwAR2UiO-9aPDu9_Nujq-qCHbqqnGECsWzf8f98G-7bqNCv2EVep5va_4R8ms_aem_AUNh6_aGpS8EtJCWZk_l4vr9iKPaCLVCIvkiSdXW6HVt3krlCP0HRmJc7zpc3tZUpQc
     -  針對「新生北路一段」無高架橋段，查找加現況樹木
         - 是否屬於行道樹？

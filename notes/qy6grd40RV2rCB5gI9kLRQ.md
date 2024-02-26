@@ -5,7 +5,7 @@ tags: summit2024
 
 時間：2/20 22:00
 連結：[Jitsi Meet](https://jitsi.ocf.tw/g0vsummit2024program)
-出席：
+出席：peter, rayen,whitecat,paul, coldplay, bil, ddio, ichieh
 
 ## Keynote Speaker
 ### 國外
