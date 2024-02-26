@@ -1,5 +1,4 @@
 ---
-title: "最想改造的公務軟體"
 tags: digital_development, public money, 報稅, 
 ---
 
@@ -104,13 +103,17 @@ tags: digital_development, public money, 報稅,
 
 https://g0v.hackmd.io/5nKF8hD-TL-FREKU_DqIgA
 
-## 教育領域
+## 教育領域、文化事業
 
 國民中學開放教育推動與實踐計畫書
 https://www.notion.so/6a1c95eeb84d47f381e3feac99da6ee5
 
 希望有 OCW(OpenCourseWare) 開放式課程整合網站
 https://hackmd.io/@Presidential-Hackathon-Taiwan/BJgjobJ1L/%2Fc%2FbSocO4uIRtGl2NS633wZmg
+
+
+電子書 ISBN 申請流程
+
 
 ## 公務系統：核銷、公文、採購 ..等
 
