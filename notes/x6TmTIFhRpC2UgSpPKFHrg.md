@@ -98,7 +98,7 @@ tags: Rentea
   - [IKEA MUSKEN](https://www.ikea.com.tw/zh/products/wardrobes/solitaire-wardrobes/musken-art-70378683)
 
 
-## 收納暫記
+## 各時期收納盤點 
 
 1. 房一
    1. `新家具` 隊友衣物 [IKEA MUSKEN](https://www.ikea.com.tw/zh/products/wardrobes/solitaire-wardrobes/musken-art-70378683) 7,299
@@ -116,7 +116,9 @@ tags: Rentea
    7. 裝修器材 - IKEA GORM 深
 7. 客廳
    1. 暫放隊友書 - IKEA IVAR 淺
-   2. 嬰兒日用品 - IKEA [IVAR CORNER](https://www.ikea.com/gb/en/p/ivar-corner-shelf-pine-93763609/) x2 2,000 (?)
+   2. `新家具` IKEA IVAR 轉角配件
+   3. 嬰兒日用品 - IKEA [IVAR CORNER](https://www.ikea.com/gb/en/p/ivar-corner-shelf-pine-93763609/) x2 2,000 (?)
+   4. 
 
 [x] 房一 
 [x] 房三
