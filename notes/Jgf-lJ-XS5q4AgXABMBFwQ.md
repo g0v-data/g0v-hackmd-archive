@@ -2,6 +2,32 @@
 
 https://tictec.mysociety.org/event/tictec-2024-london/
 
+投稿[連結](https://docs.google.com/forms/d/e/1FAIpQLScOv8L9Aa0tRIwVF_G4v7FB4pJ7IDV8vbzIPfjHGJVWfdRCWg/viewform)
+投稿期限：3/22 
+
+
+## 20240227 Discussion 
+- Participant: Peter, RR, Gemma, Josh 
+- Travel Fund: not secure 
+    - vTaiwan has some fund, but need discussion 
+    - Currently bridging the resource in Taiwan 
+- TicTec Conference 
+    - Exploring the reasons behind the success and failure 
+    - g0v lab
+    - Interested in vTaiwan revival
+        - success and failure  
+        - some [articles](https://bethnoveck.medium.com/was-vtaiwan-such-a-big-flop-after-all-d6b365f916dc)
+        - retrospective 
+- 20 mins presentation is preferred in the current stage. 
+- Detailed information secured in March 
+- vTaiwan & MODA have a workshop together?
+    - Joint workshop garanteed
+- audience?
+    - participants data will be sent later
+- duration of the workshop 
+    - three different tracks 
+    - 
+
 ### TICTeC 2024 Call for Proposals
 
 We invite individuals to submit presentation abstracts or workshop proposals of no more than 300 words by 23.59 GMT 22nd March 2024.
@@ -39,7 +65,6 @@ Answer:
         - 線上線下同步的狀況
     - Different Culture during the cooperation
         - 合作中觀察到的文化差異 [name=peter]
-        - 
     - 其他
 - Achievements 
     - share OpenAI's blog
@@ -66,7 +91,7 @@ Answer:
 Answer: 
 
 - Ｑ：我們想要做 workshop 還是 20min presentation 呢？
-    - 傾向於 presentation，workshop 的 capacity 比較大[name=peter]
+    - 傾向於 presentation，workshop 的 capacity 比較大 [name=peter]
 
 
 ### If more than yourself will be presenting your proposed session, please list the names of your fellow session leaders:
@@ -75,3 +100,4 @@ Answer:
 
 Answer: 
 Shu Yang Lin
+
