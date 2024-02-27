@@ -160,6 +160,10 @@ https://drive.google.com/drive/folders/195jTX7meHFwmkmB649g4FgzG3pUoOMNt
     - Feb 25 Updated: 目前的開發進度比預想中的快，沒想到聊天問答介面已經建好了
 - 主要使用者群體以缺乏技術能力的非營利組織工作人員構成。需要建立一個直觀、容易操作的使用者介面。或許可以透過 UX 研究，讓系統的設計盡可能符合使用者的操作習慣和需求。
 - 生成式 AI 相關的 API 若需要精確功能，用久了還是挺花錢的
+- updates feb 27
+    - 若將所有函釋及法律規定 upload as retrieval file，token 會爆掉
+        - 工程解決方案：先有一隻前台 assistant 判斷問題類別，再把 user 轉接去handle 特定 retrieval 的 assistant
+        - 
 ## 專案目前需要哪些方面的幫助呢？
 - 需要與更多非營利組織專業工作者進行訪談和開發階段的測試，以了解其需求優先程度和操作習慣是否有被考量到開發過程中
     - Feb 25 Updated: 感謝零時小學校邀請多位零時先輩協助本團隊進行訪談
