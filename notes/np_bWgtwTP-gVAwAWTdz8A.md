@@ -43,6 +43,46 @@ tags: web3, Shoutout
 
 
 ## Meet開會文字頻道
+PT Chiu
+晚上8:40
+回來了
+你
+晚上8:48
+I started a year ago but didn’t use it too much.
 
+Right now, it’s hard to measure and keep track of everything. Since it’s hard to measure, it’s only used by me and a couple of others, not everyone.
+
+ I think it will be stronger and get more buy in if we could have stats and keep track easier
+這是來自 labfront 的人對使用類似 shoutout 工具的心得
+你
+晚上8:51
+資料庫匯出資料給大家應用
+你
+晚上8:56
+https://da0.tw/
+你
+晚上8:58
+和 Noah 確認前端網頁 merge
+K Lai
+晚上9:04
+https://docs.google.com/spreadsheets/d/1xcvJ-Hla8GC3AnR6f9YhBqcu9KjDpJeij-dvQZdVi-0/edit#gid=47282522
+你
+晚上9:09
+Kay GPT
+Lucky Chen
+晚上9:20
+https://badge.g0v.tw/yitzu
+你
+晚上9:25
+https://taiwanvotingguide.slack.com/apps/A575TQ1QT-limeade-listening?tab=more_info
+PT Chiu
+晚上9:28
+會情勒
+你
+晚上9:28
+情勒 Shoutout
+PT Chiu
+晚上9:35
+我先下囉
 
 ## AI 逐字稿
