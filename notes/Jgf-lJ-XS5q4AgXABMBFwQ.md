@@ -26,7 +26,13 @@ https://tictec.mysociety.org/event/tictec-2024-london/
     - participants data will be sent later
 - duration of the workshop 
     - three different tracks 
-    - 
+- workshop 方向：
+    - multi-stakeholders governance: from Gov and vTaiwan perspective?
+        - MODA projects
+        - vTaiwan solution and challenge 
+            - informal relationship 
+        - 3/13 next discussion
+        - 
 
 ### TICTeC 2024 Call for Proposals
 
