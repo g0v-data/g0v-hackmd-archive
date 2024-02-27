@@ -163,7 +163,8 @@ https://drive.google.com/drive/folders/195jTX7meHFwmkmB649g4FgzG3pUoOMNt
 - updates feb 27
     - 若將所有函釋及法律規定 upload as retrieval file，token 會爆掉
         - 工程解決方案：先有一隻前台 assistant 判斷問題類別，再把 user 轉接去handle 特定 retrieval 的 assistant
-        - 
+    - 對話紀錄可能會太零散
+        - 單純的紀錄，還是可以自動整合類似類別的對話紀錄？
 ## 專案目前需要哪些方面的幫助呢？
 - 需要與更多非營利組織專業工作者進行訪談和開發階段的測試，以了解其需求優先程度和操作習慣是否有被考量到開發過程中
     - Feb 25 Updated: 感謝零時小學校邀請多位零時先輩協助本團隊進行訪談
