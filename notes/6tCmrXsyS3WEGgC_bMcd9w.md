@@ -16,9 +16,8 @@ GA: UA-98468513-3
 
 ### :star: Released to production
 
-#### :electric_plug: API
 #### :globe_with_meridians: Site
-#### :robot_face: rumors-line-bot
+- 實科協會 footer
 
 ### :rocket: Staging
 
@@ -130,4 +129,7 @@ http://dev.cofacts.tw/
 - Google: 失敗
   - 網路討論：發 ticket 給 Percent https://support.google.com/nonprofits/thread/254596080/contacting-google-or-percent?hl=en&sjid=7865925514358855560-AP
   - 官方文件：發 ticket 給 Percent https://poweredbypercent.zendesk.com/hc/en-us/articles/13805863075857-My-nonprofit-has-been-rejected-by-Percent
-  - 
+
+## User organization / badge
+
+

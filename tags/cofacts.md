@@ -2,12 +2,12 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20240229 會議記錄](../notes/6tCmrXsyS3WEGgC_bMcd9w.md) | 2024-02-27T23:43:26+08:00 | 2024-02-27T23:19:00+08:00 |
-| 2 | [Cofacts Data Usage](../notes/CfWAEl5xTUG8jSlwBVdN-w.md) | 2024-02-24T11:10:55+08:00 | 2022-11-16T10:44:45+08:00 |
-| 3 | [20240221 會議記錄](../notes/R06Z7EflRYqAC-R8zO6FqA.md) | 2024-02-21T21:09:33+08:00 | 2024-02-20T01:15:50+08:00 |
-| 4 | [20240215 會議記錄](../notes/u6DKgWOJT1KvqguEZjH6Ow.md) | 2024-02-21T19:27:04+08:00 | 2024-02-12T00:30:51+08:00 |
-| 5 | [Cofacts 真的假的 第４０次小聚小松果](../notes/wJwWw-ztS4-8E65X_n1l7g.md) | 2024-02-18T21:52:30+08:00 | 2024-02-18T13:42:17+08:00 |
-| 6 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-02-05T17:05:56+08:00 | 2022-08-05T10:46:53+08:00 |
+| 1 | [20240229 會議記錄](../notes/6tCmrXsyS3WEGgC_bMcd9w.md) | 2024-02-28T00:46:13+08:00 | 2024-02-27T23:19:00+08:00 |
+| 2 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-02-28T00:44:48+08:00 | 2022-08-05T10:46:53+08:00 |
+| 3 | [Cofacts Data Usage](../notes/CfWAEl5xTUG8jSlwBVdN-w.md) | 2024-02-24T11:10:55+08:00 | 2022-11-16T10:44:45+08:00 |
+| 4 | [20240221 會議記錄](../notes/R06Z7EflRYqAC-R8zO6FqA.md) | 2024-02-21T21:09:33+08:00 | 2024-02-20T01:15:50+08:00 |
+| 5 | [20240215 會議記錄](../notes/u6DKgWOJT1KvqguEZjH6Ow.md) | 2024-02-21T19:27:04+08:00 | 2024-02-12T00:30:51+08:00 |
+| 6 | [Cofacts 真的假的 第４０次小聚小松果](../notes/wJwWw-ztS4-8E65X_n1l7g.md) | 2024-02-18T21:52:30+08:00 | 2024-02-18T13:42:17+08:00 |
 | 7 | [Cofacts multimedia support research](../notes/aJqHn8f5QGuBDLSMH_EinA.md) | 2024-02-05T01:47:35+08:00 | 2021-08-26T01:31:40+08:00 |
 | 8 | [20231108 會議記錄](../notes/oz-49rOSSPW3J8AbG0yRSA.md) | 2024-02-04T23:08:46+08:00 | 2023-11-08T12:55:10+08:00 |
 | 9 | [API & Database enhancements](../notes/65JMCYDEQCeCYSAkBwJNTA.md) | 2024-02-03T01:51:07+08:00 | 2024-01-31T18:23:41+08:00 |

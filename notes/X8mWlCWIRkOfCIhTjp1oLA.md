@@ -114,6 +114,9 @@ https://www.facebook.com/100063760886799/posts/pfbid02KgiKRT3mAruj36EeMgqmLwvH5E
 台南歸仁圓環
 https://www.facebook.com/100092995934211/posts/pfbid0SssWXfSJEk71SV8wjzx2ngeWoywQ27PJcYg5fb5Ca2uNZhMe6ieus8KdgFxUjTjNl/
 
+高雄「標線型圓環」，位在三多商圈的文橫三路與廣西路和南天街2條道路交會處的多叉路口
+https://news.pts.org.tw/article/682762
+
 高雄博愛路自行車道
 https://www.facebook.com/share/p/3bUvsmQ1x6XGt9qH/
 

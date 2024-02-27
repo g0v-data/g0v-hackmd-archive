@@ -204,6 +204,25 @@ API
       - Pricing
         - free for first 1000 unit / mo
         - 3.5 per 1000 unit afterwards
+- Project WTF - Widen The Funnel
+    1. 認知到假訊息問題
+        - DTL、IORG、假清、黑熊也在做
+    2. 使用 Cofacts LINE bot
+        - 目前沒人其他人幫忙
+        - 媒體露出
+        - 打廣告？
+        - 把 google 上查訊息的人變成 LINE 使用者
+    3. 參與培訓
+        - 推播
+        - 野生查核工作坊？
+          - 希望講者可以確保回應品質，不夠好的要幫忙回掉，否則會增加其他協作者工作量
+    4. 產生貢獻
+        - 每週感謝++
+        - 進 Slack / discord / FB group 後持續有東西討論
+        - Badge / Organization?
+        - 後續活動？
+          - 再發訊息給來過的人 [name=bil]
+          - 每半年到一年發訊息給曾經來過的人，請他們再來一次，可以不用聽，來喝飲料做志工
 - Content generation at wartime
     - Needs an editorial mechanism coordinating information collection & writing counter-narratives?
     - Open source intelligence investigation

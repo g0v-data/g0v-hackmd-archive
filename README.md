@@ -2,12 +2,17 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [cofacts](tags/cofacts.md) | 430 | 2024-02-27T23:43:26+08:00 |
-| [meeting note](tags/meeting%20note.md) | 256 | 2024-02-27T23:43:26+08:00 |
+| [cofacts](tags/cofacts.md) | 430 | 2024-02-28T00:46:13+08:00 |
+| [meeting note](tags/meeting%20note.md) | 256 | 2024-02-28T00:46:13+08:00 |
+| [security](tags/security.md) | 1 | 2024-02-28T00:44:48+08:00 |
+| [resilience](tags/resilience.md) | 18 | 2024-02-28T00:44:48+08:00 |
+| [資安](tags/%E8%B3%87%E5%AE%89.md) | 1 | 2024-02-28T00:44:48+08:00 |
+| [CCPRIP](tags/CCPRIP.md) | 1 | 2024-02-28T00:44:48+08:00 |
+| [GIS](tags/GIS.md) | 144 | 2024-02-28T00:30:19+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6785 | 2024-02-28T00:03:40+08:00 |
 | [民防](tags/%E6%B0%91%E9%98%B2.md) | 40 | 2024-02-27T23:42:20+08:00 |
 | [summit2024](tags/summit2024.md) | 42 | 2024-02-27T23:07:58+08:00 |
 | [summmit2024](tags/summmit2024.md) | 1 | 2024-02-27T22:53:53+08:00 |
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6784 | 2024-02-27T22:24:05+08:00 |
 | [web3](tags/web3.md) | 115 | 2024-02-27T22:16:11+08:00 |
 | [Shoutout](tags/Shoutout.md) | 33 | 2024-02-27T22:16:11+08:00 |
 | [AI](tags/AI.md) | 22 | 2024-02-27T22:14:07+08:00 |
@@ -21,7 +26,6 @@
 | [School](tags/School.md) | 5 | 2024-02-27T10:34:12+08:00 |
 | [recap](tags/recap.md) | 4 | 2024-02-27T10:34:12+08:00 |
 | [Rentea](tags/Rentea.md) | 180 | 2024-02-27T09:19:59+08:00 |
-| [GIS](tags/GIS.md) | 144 | 2024-02-27T01:50:58+08:00 |
 | [digital_development](tags/digital_development.md) | 4 | 2024-02-27T01:41:15+08:00 |
 | [public money](tags/public%20money.md) | 2 | 2024-02-27T01:41:15+08:00 |
 | [報稅](tags/%E5%A0%B1%E7%A8%85.md) | 1 | 2024-02-27T01:41:15+08:00 |
@@ -33,7 +37,6 @@
 | [公有地大行動](tags/%E5%85%AC%E6%9C%89%E5%9C%B0%E5%A4%A7%E8%A1%8C%E5%8B%95.md) | 118 | 2024-02-26T16:46:49+08:00 |
 | [可能的空間](tags/%E5%8F%AF%E8%83%BD%E7%9A%84%E7%A9%BA%E9%96%93.md) | 1 | 2024-02-26T16:46:49+08:00 |
 | [digital-resilience](tags/digital-resilience.md) | 27 | 2024-02-26T03:52:32+08:00 |
-| [resilience](tags/resilience.md) | 18 | 2024-02-26T03:52:32+08:00 |
 | [internet-shutdown](tags/internet-shutdown.md) | 17 | 2024-02-26T03:52:32+08:00 |
 | [digiresi](tags/digiresi.md) | 17 | 2024-02-26T03:52:32+08:00 |
 | [civil-defense](tags/civil-defense.md) | 27 | 2024-02-26T03:52:32+08:00 |
@@ -100,9 +103,6 @@
 | [學術研究](tags/%E5%AD%B8%E8%A1%93%E7%A0%94%E7%A9%B6.md) | 3 | 2024-02-05T17:44:39+08:00 |
 | [cowork guideline](tags/cowork%20guideline.md) | 24 | 2024-02-05T17:44:39+08:00 |
 | [開源協作手冊](tags/%E9%96%8B%E6%BA%90%E5%8D%94%E4%BD%9C%E6%89%8B%E5%86%8A.md) | 23 | 2024-02-05T17:44:39+08:00 |
-| [security](tags/security.md) | 1 | 2024-02-05T17:05:56+08:00 |
-| [資安](tags/%E8%B3%87%E5%AE%89.md) | 1 | 2024-02-05T17:05:56+08:00 |
-| [CCPRIP](tags/CCPRIP.md) | 1 | 2024-02-05T17:05:56+08:00 |
 | [disinfo](tags/disinfo.md) | 46 | 2024-02-05T16:53:05+08:00 |
 | [開放標案](tags/%E9%96%8B%E6%94%BE%E6%A8%99%E6%A1%88.md) | 1 | 2024-02-05T11:42:18+08:00 |
 | [IoT](tags/IoT.md) | 3 | 2024-02-03T23:30:36+08:00 |
