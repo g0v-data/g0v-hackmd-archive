@@ -39,7 +39,6 @@ https://kmweb.coa.gov.tw/theme_list.php?theme=city_farming
 
 ## 食物作為區域規劃核心 
 
-食物作為區域規劃核心 https://g0v.hackpad.com/lx28QH0z38S	
 半城半鄉的區域農學 https://g0v.hackpad.com/ldxg3bGJgmb	
 市集 https://g0v.hackpad.tw/VqZSwNhiDeO
 里山倡議與都市農耕 https://g0v.hackpad.com/GnieRGoD5Gb	

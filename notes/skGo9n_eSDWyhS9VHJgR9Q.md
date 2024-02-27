@@ -4,15 +4,17 @@ tags: 都市農業,planning,hackpad
 ---
 
 # 食物系統規劃與食物公共政策
-
-> [點此觀看原始內容](https://g0v.hackpad.tw/lx28QH0z38S)
-
 Food System Planning｜Food Policy｜Foodscape
 
 ## 說明
 
 - 本頁面主要蒐集食物系統、都市規劃整合等內容
-- ==若屬於== ==**耕種空間拓展**====、====**土地使用分區調整**====、====**都市農業**====、====**空地與建築基地尺度**== ==等，則蒐集至「都市農業－國際經驗蒐集（====[https://g0v.hackpad.](https://g0v.hackpad.tw/EgXumvuNy7Y)====[t](https://g0v.hackpad.tw/EgXumvuNy7Y)====[w/EgXumvuNy7Y](https://g0v.hackpad.tw/EgXumvuNy7Y)====）」。==
+- ==若屬於== ==**耕種空間拓展**====、====**土地使用分區調整**====、====**都市農業**====、====**空地與建築基地尺度**== ==等，則蒐集至「[都市農業－國際經驗蒐集](https://g0v.hackmd.io/2I-6lcLmQcaXoDNhdFzp0w?view)」。==
+
+:::warning
+目錄
+[TOC]
+:::
 
 ## Region/City 區域與城市規劃尺度案例
 
