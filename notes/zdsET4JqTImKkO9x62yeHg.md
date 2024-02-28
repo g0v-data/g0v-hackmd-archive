@@ -3,31 +3,7 @@ tags: summit2024
 ---
 # 電子報專區
 
-- [時程規劃](https://docs.google.com/spreadsheets/d/1rXPi1S34lon2Wm5g0xeYpZOLvVGucC20YkzgMAJpoyk/edit#gid=1286127685)
-- [各期電子報](https://us21.campaign-archive.com/home/?u=5f2da7dc5b32fcf00c4e26170&id=cf109d5e52)
-
-
-    - Nov 29：[📢Vol.1徵稿倒數⚡一起回顧上屆提案吧！](https://us21.campaign-archive.com/?u=5f2da7dc5b32fcf00c4e26170&id=e1f78290d6)
-    - Dec 25: 
-        - 中文版：📢Vol.2
-        - 英文版：
-    - Jan 22: 
-        - 中文版：📢Vol.3
-        - 英文版：
-    - Feb 26:
-        - 中文版：📢Vol.4
-        - 英文版：
-    - Mar 25: 📢Vol.5
-        - 中文版：📢Vol.5
-        - 英文版：
-    - Apr 29: 📢Vol.6
-        - 中文版：📢Vol.6
-        - 英文版：
-    - May 12: 📢Vol.7
-        - 中文版：📢Vol.7
-        - 英文版：
-
-
+- [各期電子報 archive](https://us21.campaign-archive.com/home/?u=5f2da7dc5b32fcf00c4e26170&id=cf109d5e52)
 ---
 
 ### 素材
