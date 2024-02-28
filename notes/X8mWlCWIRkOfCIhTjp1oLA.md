@@ -118,6 +118,10 @@ https://www.facebook.com/100092995934211/posts/pfbid0SssWXfSJEk71SV8wjzx2ngeWoyw
 https://www.facebook.com/share/r/buYYpFyFWVwSXd1h/
 https://news.pts.org.tw/article/682762
 
+
+高雄崗山中街
+https://www.facebook.com/photo.php?fbid=722690190049674&set=a.288952580090106&type=3
+
 高雄博愛路自行車道
 https://www.facebook.com/share/p/3bUvsmQ1x6XGt9qH/
 
