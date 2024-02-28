@@ -28,7 +28,7 @@ https://sch001.g0v.tw/dash/brd/2024TC-AI-OS-Grant/list
 | 立法 | 立委發言觀測儀表板                                     | #congress_ai                                  | chien             | Helene Chien（U01FW6KV4RL）        | user-299 |
 | 法律 | LLM²                                          | #llm-squared                                  | douenergy         | douenergy                        | user-291 |
 | 醫學 | 藥學．要學：AI驅動的個人化精準學習                            | #aipharmastudyboost                           | 進良Thomas          | 進良Thomas(U02ME55S2DB)            | user-286 |
-| 醫學 | CosCOP-藥妝廣告警察                                 | （建立中）                                         | ss96083           | FreezeT (D06FC049A86)            | user-284 |
+| 法律 | CosCOP-藥妝廣告警察                                 | （建立中）                                         | ss96083           | FreezeT (D06FC049A86)            | user-284 |
 
 ---
 :::success

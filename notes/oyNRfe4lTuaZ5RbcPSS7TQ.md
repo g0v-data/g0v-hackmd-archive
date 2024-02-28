@@ -75,6 +75,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
                     - 433 不確定是否合法 (433MHz為緊急救難頻率)
                         - 433.000MHz 緊急救難頻率只是 FM 通訊使用，433MHz ISM 其實中心頻率在 433.920MHz 那邊，不影響，但是臺灣屬於 ITU-R3，沒有 433MHz ISM Band 可以使用
                     - 目前假定是 按 NCC lora 規範使用,915mhz.但烏克蘭案例.戰時任意頻道都能用.且戰時軟體直接支援.
+                    - >NCC規範應是920MHz~925MHz，詳見中華民國無線電頻率分配表。
                 - 穿透能力不強，因為輸出功率不大（且法規有限制發射 Duty-Cycle，不能把傳輸速率降低太多）
             - 它的廣播演算法 https://meshtastic.org/docs/overview/mesh-algo
             - 通訊範圍 2~5 公里
