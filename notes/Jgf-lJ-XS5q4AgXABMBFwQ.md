@@ -10,6 +10,7 @@ https://tictec.mysociety.org/event/tictec-2024-london/
 - Participant: Peter, RR, Gemma, Josh 
 - Travel Fund: not secure 
     - vTaiwan has some fund, but need discussion 
+        - I suggest to not use vTaiwan's own fund this time as there is already representation for vTaiwan. As an alternative for those keen on speaking, I recommend signing up for an online speaker's session, as suggested by Gemma Moulder (Events and Engagement Manager).[name=shu] 
     - Currently bridging the resource in Taiwan 
 - TicTec Conference 
     - Exploring the reasons behind the success and failure 
