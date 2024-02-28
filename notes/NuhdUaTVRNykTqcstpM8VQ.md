@@ -39,6 +39,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #g0v-siliconvalley g0v 矽谷灣區小聚
 #london-hacknight 倫敦
 #london-proj-andover
+#deutschland-germany 德國與德語區
 #g0v-it https://github.com/g0v-it
 #london-dolphin-tank for anyone who was in that breakout group and wants to stay connected!
 #intl 國際交流工作小組 g0v international、國際交流資訊都在這
