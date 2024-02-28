@@ -40,4 +40,5 @@ https://www.facebook.com/100000509688340/posts/pfbid029NkctEZfJQnBpmPdYrQfgp6Gei
 https://www.facebook.com/NYCUSTS/posts/pfbid0NdHVAmpGVYEWmdBe7S2xXUirrDX8dDnFkKUa8ShRP8qtJwnseUzZWhtzn4xjrpNzl
 
 Continent in Dust: Experiments in a Chinese Weather System 塵埃中的大陸：中國天氣系統的實驗
+https://www.facebook.com/weiping.lin.5/posts/pfbid0NGQVc1baiSWGP5fQC8Sd6xX4q4eLRBtUzJgaFXeT71W1Kz3R99PCoM324tV2AmLRl
 https://www.facebook.com/story.php?story_fbid=pfbid02BP4JfHTVfH8m6obzTJBqkoexFdJiK3ndmhBT2fvUr5rREWh7yaYpSFPBBbhcJx8ql&id=100063946129312

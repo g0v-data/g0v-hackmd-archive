@@ -24,6 +24,7 @@ vTaiwan 相關資料整理 vTaiwan related materials
 - [vTaiwan 相關報導＆論文](https://g0v.hackmd.io/rZHTCt2KS3mX2VYKn6vdZg) 
 - [0108高松奈奈團隊採訪](/tNMJx5TzQ7qS-aZ12Z_Wng?both)
 - [社群與民主文章](/DE4pKGExRvu7XE8p_DKoUA)
+- [Plurality共筆](/RrdeylGESp-91kb1c62rIg)
 
 討論都在這裡發生 Discussions
 ---

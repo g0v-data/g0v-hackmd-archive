@@ -33,6 +33,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #hk https://github.com/g0vhk-io
 #hkpwparagliding 飛行傘計畫
 #thai-ภาษาไทย 泰國頻道
+#tiếngviệt-vietnam 越南
 #nepali-नेपाली
 #australia
 #north-america 想在美國協作的可以來這邊聊天喔！
@@ -133,6 +134,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #stayathome 宅在家的生活資訊
 #health 健康議題、健檢
 #psymap 心理健康資源
+#psychmatch_public
 #fitness 動一動
 #g0vhiking for hiking affair
 #camping :camping: 全台露營區合法共 205 筆資料與線上地圖
@@ -148,6 +150,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #pridewatch彩虹選民觀選指南 隨著每年的選舉將會逐步更新，歡迎提供使用者回饋、許願！
 #parliament 國會、立法院
 #law
+#tw-legal-datasets
 #hackact 修法協作器
 #call-liwei 立委咖電喂
 #tw-ly-and-council 新國會大代誌
@@ -167,6 +170,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #inkrosetta 多語系圖卡
 #wikidatataiwan	Wikidata Taiwan 討論頻道
 #data 資料
+#crowdtribute-公民科學與群眾參與計畫
 #disinfo 不實訊息來源蒐整
 #cofacts 真的假的 ! 謠言查證 Linebot 💬 Cofacts is a collaborative system connecting instant messages and fact-check reports together. It’s a grass-root effort fighting mis/disinformation in Taiwan.
 #115b 永續所得實驗室、永續捐贈議題

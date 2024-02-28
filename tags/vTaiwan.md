@@ -2,10 +2,10 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [0228小松](../notes/S61huizKSKah4HpMvoEV8w.md) | 2024-02-28T20:00:01+08:00 | 2024-02-21T20:24:44+08:00 |
-| 2 | [Plurality vTaiwan 共筆](../notes/RrdeylGESp-91kb1c62rIg.md) | 2024-02-28T19:22:47+08:00 | 2024-02-28T19:18:19+08:00 |
-| 3 | [電子時報訪問](../notes/xj2q4r4FToumJDXx-tJVVA.md) | 2024-02-28T19:22:19+08:00 | 2024-02-28T19:17:03+08:00 |
-| 4 | [vTaiwan 工作組 Working Group](../notes/e0G4OMPFQYuA2DaZyu74bA.md) | 2024-02-21T20:25:06+08:00 | 2019-02-20T21:09:17+08:00 |
+| 1 | [Plurality vTaiwan 共筆](../notes/RrdeylGESp-91kb1c62rIg.md) | 2024-02-28T20:27:22+08:00 | 2024-02-28T19:18:19+08:00 |
+| 2 | [vTaiwan 工作組 Working Group](../notes/e0G4OMPFQYuA2DaZyu74bA.md) | 2024-02-28T20:26:09+08:00 | 2019-02-20T21:09:17+08:00 |
+| 3 | [0228小松](../notes/S61huizKSKah4HpMvoEV8w.md) | 2024-02-28T20:23:18+08:00 | 2024-02-21T20:24:44+08:00 |
+| 4 | [電子時報訪問](../notes/xj2q4r4FToumJDXx-tJVVA.md) | 2024-02-28T19:22:19+08:00 | 2024-02-28T19:17:03+08:00 |
 | 5 | [0124小松](../notes/MMI92gFNSWi1NDVp8oOYnQ.md) | 2024-02-21T19:05:13+08:00 | 2024-01-18T18:58:22+08:00 |
 | 6 | [數發部討論 vTaiwan x OpenAI 專案](../notes/ZHv9qWjoQvaVJuDrYJbqdA.md) | 2024-02-05T17:41:06+08:00 | 2024-02-05T16:31:14+08:00 |
 | 7 | [實體小聚申請用企劃書與流程表](../notes/fWa0utTNR82ecV6CHBuiaA.md) | 2024-01-18T18:27:10+08:00 | 2023-08-10T19:46:55+08:00 |

@@ -9,14 +9,18 @@ tags: vTaiwan
 
 ## 0222 活動回覆
 - 活動圓滿結束！
-- 紀錄文 [name=peter]
+- 紀錄文要生出來 [name=peter]
 
 ## DSET 
 - 目前收到明確回信，暫停合作
-- 回信告知感謝，並且願意繼續合作。[name=peter]
+- 回信告知感謝，並且願意繼續合作。[name=peter,eli?]
 
 ## Glen Weyl 與玉山視野討論
 - 坑主 [name=josh]
+- [A Decade of Accomplishments](https://www.plurality.net/v/chapters/02-01/eng/) 
+- 可以提供的視角：
+    - 318 打破了228事件鎮壓帶來的公共事務冷漠的情況
+    - 前述的社會背景剛好搭配上科技的發展成熟
 - 
 ## Iwin 
 - 是否要主動啟動議題？
@@ -75,4 +79,9 @@ If you have any other questions, don't hesitate to ask!
 - 開發者
 - 新的開源工具[viewpoint xyz](https://viewpoints.xyz/)
     - 來測試看看
-- 開
+    - 開源工具
+    - 或許可以 fork 
+    - 三月大松的時候可以問問現場的工程師
+    - 五月大松提案預備？
+    - 有沒有機會把 Nathan Young 拉來聊聊！
+        - Josh 來寫信，loop Peter 跟 vTaiwan 

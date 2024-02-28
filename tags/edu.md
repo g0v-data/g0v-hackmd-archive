@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [nonprofit-helper project proposal - feb 25 version](../notes/XqJ2qQJ8TNOTe4Xz6sGsUw.md) | 2024-02-28T19:59:17+08:00 | 2024-02-25T17:18:21+08:00 |
+| 1 | [nonprofit-helper project proposal - feb 25 version](../notes/XqJ2qQJ8TNOTe4Xz6sGsUw.md) | 2024-02-28T20:02:41+08:00 | 2024-02-25T17:18:21+08:00 |
 | 2 | [智慧服務產品專題討論](../notes/ee5XIGTVT7iVU7lNRyF0bw.md) | 2024-02-28T14:57:49+08:00 | 2023-11-13T21:02:16+08:00 |
 | 3 | [nonprofit-helper 會務 E 化小幫手 demo link](../notes/mlEUFz6tSe-Zp5UkxUdISA.md) | 2024-02-26T20:01:11+08:00 | 2024-02-25T19:13:05+08:00 |
 | 4 | [台灣廢校盤點與再生 / 餘裕空間活化機制 / 私校退場與大學設校議題](../notes/sTanR4YKQNq45GjWinU_yg.md) | 2024-02-26T16:46:49+08:00 | 2016-09-06T16:44:46+08:00 |
