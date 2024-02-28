@@ -8,7 +8,8 @@ tags: AI
 台灣考卷 
 TW-Bench
 
-提案影片：https://youtu.be/hsWhcF7XSzM
+g0v tw hackath59n 2023年12月21日 — 提案 — 給大語言模型的台灣考卷 : Teemo
+提案影片：https://youtu.be/hsWhcF7XSzM   
 提案介紹：https://www.canva.com/design/DAF2YSlSkpg/cumqxJl2_OtfQa-rJDRL5Q/view
 
 ## 提案代表人：Teemo
