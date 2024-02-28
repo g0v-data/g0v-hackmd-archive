@@ -1,12 +1,14 @@
 # 0221小松
 時間：19:00-21:00
 地點：線上
-參與者：
+參與者：peter, shu, crystal, eli, 
 線上參與連結 / Link：https://meet.jit.si/vTaiwan
 
 ## 網站掛掉了啊啊啊啊
 - 已經在 slack 上回報
 - info 網站正常
+- 2/22 更新：救回來了。
+
 
 ## DSET 
 - 目前沒有後續連結

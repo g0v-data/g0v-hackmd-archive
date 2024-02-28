@@ -59,6 +59,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 - [x] 帶手機拍照小腳架
 
 ## 活動開始
+- [ ] 拿出揪松募款箱～
 - [x] 花三分鐘簡介數位韌性和 g0v CoC
 - [x] 花五分鐘全場三個關鍵字自我介紹
 - [x] 拍大合照（記得問有沒有人不想入鏡）

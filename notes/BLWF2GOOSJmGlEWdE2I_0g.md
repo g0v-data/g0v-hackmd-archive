@@ -22,7 +22,7 @@ title: 租出育兒宅 - 納入育兒考量的租屋空間、法律、稅務規�
 ## 裝修坑
 
 - [使用情境整理](https://hackmd.io/s_TUJZ06RtGEvnQSe56VXg)
-- [空間規劃與房東提案](https://g0v.hackmd.io/x6TmTIFhRpC2UgSpPKFHrg)
+- [空間規劃](https://g0v.hackmd.io/x6TmTIFhRpC2UgSpPKFHrg)
 
 ## 戶籍坑
 
