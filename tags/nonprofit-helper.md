@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [nonprofit-helper project proposal - feb 25 version](../notes/XqJ2qQJ8TNOTe4Xz6sGsUw.md) | 2024-02-28T15:23:19+08:00 | 2024-02-25T17:18:21+08:00 |
+| 1 | [nonprofit-helper project proposal - feb 25 version](../notes/XqJ2qQJ8TNOTe4Xz6sGsUw.md) | 2024-02-28T19:59:17+08:00 | 2024-02-25T17:18:21+08:00 |
 | 2 | [nonprofit-helper 會務 E 化小幫手 demo link](../notes/mlEUFz6tSe-Zp5UkxUdISA.md) | 2024-02-26T20:01:11+08:00 | 2024-02-25T19:13:05+08:00 |
 | 3 | [nonprofit-helper 會務 E 化小幫手首頁](../notes/eivkYtpjQiSQHyP7M-H9zA.md) | 2024-02-25T19:18:31+08:00 | 2023-12-10T18:40:11+08:00 |
 | 4 | [deprecated_nonprofit-helper project proposal](../notes/Sn_lVZE9QKWVqUGQVx_VTg.md) | 2024-02-25T19:18:10+08:00 | 2023-12-11T00:17:14+08:00 |

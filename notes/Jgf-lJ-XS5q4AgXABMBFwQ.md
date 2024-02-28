@@ -5,6 +5,24 @@ https://tictec.mysociety.org/event/tictec-2024-london/
 投稿[連結](https://docs.google.com/forms/d/e/1FAIpQLScOv8L9Aa0tRIwVF_G4v7FB4pJ7IDV8vbzIPfjHGJVWfdRCWg/viewform)
 投稿期限：3/22 
 
+## 20240228 小松 discussion
+- updates: [0228小松](/S61huizKSKah4HpMvoEV8w)
+- Josh make a proposal to get funding
+- How to do the Workshop (75mins)
+    - multi-stakeholders governance: from Gov and vTaiwan perspective?
+    - using vTaiwan's way to collect opinion
+        - understanding which issue has more consensus, and which issue has more divergence. 
+        - using polis or other tools?
+    - Goal: to get the experience from the participants and also make participants learn from others' experience.
+    - Polis customize? 
+        - 
+    - Preparation
+        - Several statements to spur discussion
+        - grouping (60?)
+            - first round: w/ same opinion 
+            - second round: w/ different opinion
+    - Agenda
+        - 
 
 ## 20240227 Discussion 
 - Participant: Peter, RR, Gemma, Josh 
