@@ -18,6 +18,8 @@ GA: UA-98468513-3
 
 #### :globe_with_meridians: Site
 - 實科協會 footer
+  - Cofacts was started in the year 2016 as an open source project. In 2023, Cofacts core members registered an NGO in Taiwan in order to keep operating the Cofacts community.
+  - 用 chatgpt 喬一下
 
 ### :rocket: Staging
 
@@ -43,20 +45,18 @@ http://dev.cofacts.tw/
 - [ ] Article list 可以看到新送的影片（2x 速度）
 - [ ] Article detail
   - [ ] 可以看到 reply feedback，有寫字的優先
-  - [ ] 如果超過 10 則，有「載入更多」可以按
-
+  - [ ] 如果超過 10 則，有「載入更多
+- [ ] FB 可以登入網站  
+  
 登入自有帳號後檢測：
 - [ ] Article detail
   - [ ] Can submit, remove own reply
   - [ ] Can upvote, downvote other's article reply
 
 ##### ⛔️ Release Blockers
-
-##### 未竟項目
-
-
-### :eye: Under review
-
+- 牛的影片送不進來
+- "Input stream error: Retry limit exceeded"
+- 7 秒的成功，19 秒的上不去
 
 ## CCPRIP
 > https://g0v.hackmd.io/@cofacts/rd/https%3A%2F%2Fg0v.hackmd.io%2FBRsJOevWSbyUMBSZEVVWrA
@@ -141,4 +141,22 @@ http://dev.cofacts.tw/
 ## 大松籌備
 
 - 這次沒辦法提案 QQ
+  - 候補：1min
 - good first issue?
+- 等導覽團
+  - 查核
+  - coding
+- 要帶英文傳單
+  - NPO hub 也放
+
+## 小聚四月換三月底
+- 四月沒有空
+- 新北青職基地
+  - 青年志工優先
+  - 1F 多功能空間：要沒展覽才能用
+  - 2F: 10 人
+  - https://ap9.ragic.com/ntys112/report/display?reportwv&id=5
+- 3/24(日) or 30 or 31
+  - nonumpa 30 & 31 沒空
+  - 24 日優先
+
