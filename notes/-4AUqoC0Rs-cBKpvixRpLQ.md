@@ -29,4 +29,10 @@
     3. extension
     4. 網路服務：Service/ API
     5. Resource (mp3, mp4, gif, json)
+    6. 第三方套件：Helper, third party
 7. Pagination
+
+
+補充：
+VC = ViewController
+ext = extentsion
