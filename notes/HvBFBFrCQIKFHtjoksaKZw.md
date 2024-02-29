@@ -23,7 +23,7 @@ Apply different styling to this paragraph:
 
 - [x] **Bold**
 - [ ] *Italic*
-- [ ] Super^script^
+- [x] Super^script^
 - [ ] Sub~script~
 - [ ] ~~Crossed~~
 - [x] ==Highlight==
