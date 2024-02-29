@@ -90,6 +90,10 @@ https://drive.google.com/file/d/1Pixs6laq3b1Rti226E4jWjoKv4lZpzdu/view
 
 https://drive.google.com/file/d/1Pixs6laq3b1Rti226E4jWjoKv4lZpzdu/view
 
+## 職場透明化運動 goodjob
+
+https://www.goodjob.life/about
+
 ## g0v 簡訊實聯
 
 g0v Podcast EP 1 - 在 g0v 社群孵化出來的「簡訊實聯制」ft. acechen, RS, ichieh

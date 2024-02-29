@@ -11,7 +11,9 @@ tags: hackpad
 ### 工作方法介紹
 
 - [Why geodesign? - Carl Steinitz](https://www.youtube.com/watch?v=rwZjeUCSqc0)
-- 簡報：https://www-ws.gov.taipei/001/Upload/public/Attachment/461011284673.pdf
+- 簡報：城市規劃的新方法:地理設計
+    - 健行科技大學 應用空間資訊系 黎驥文 
+    - https://www-ws.gov.taipei/001/Upload/public/Attachment/461011284673.pdf
 - [Geodesign with Little Time and Small Data](https://www.youtube.com/watch?v=FOlA6LKHqIA&list=PL1U1yOIVhnz9bq7Vqe4b9BAviTtdLH-tU)
 - 《A Framework for Geodesign》
     - [http://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=218](http://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=218)
@@ -33,18 +35,19 @@ tags: hackpad
 
 ### Case
 
+依據探討區域尺度大小排序
 - International Geodesign Collaboration 是一個多國推動，運用 Geodesign 分析與協商方法，探討環境政策與規劃設計
     - 2020 SDGs
     - 2021 年度的主題設定為 樹木與植樹，與 Trillion Tree Initiative 合作
         - https://www.igc-geodesign.org/trillion-trees
-    - 桃園市綠資源策略工作坊
-        - https://g0v.hackmd.io/efMZxed9TbypYs1GeanDIg
+        - 桃園市綠資源策略工作坊
+            - https://g0v.hackmd.io/efMZxed9TbypYs1GeanDIg
 - [空總再利用之可能性\- Carl Steinitz Geodesign規劃設計交流工作坊特展 開幕影片](https://www.youtube.com/watch?v=6FH5FKxFMZ0)
     - 合辦單位：中華民國景觀學會
-- 景美地區
+    - 活動相關文件保存於 經典工程顧問有限公司
+- 臺北市文山區景美地區
     - [https://www.facebook.com/permalink.php?story_fbid=205594763272917&id=100014671841138](https://www.facebook.com/permalink.php?story_fbid=205594763272917&id=100014671841138)
-- 桃園綠資源推動策略工作坊
-    - https://g0v.hackmd.io/efMZxed9TbypYs1GeanDIg
+
 
 
 ### TODO
