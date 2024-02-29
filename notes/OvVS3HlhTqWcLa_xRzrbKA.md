@@ -6,6 +6,12 @@ tags: GIS
 
 蒐集各種展現地理資料的方案
 
+:::warning
+目錄
+[TOC]
+:::
+
+
 案例蒐集
 
 ## 地形模型可變動+投影
@@ -87,12 +93,13 @@ https://youtu.be/JEH01UvjzD0
 https://youtu.be/EyGWG0CZwVo
  
 ## 地形模型固定，無投影
+
 常見「實體模型」
 https://www.facebook.com/PPGIS/posts/1077645882265999:0
+
 透過「鏡面+地圖放在上方」的展示方式
-https://www.facebook.com/quakeledge/videos/1495381253894729/
-特點：
-節省空間 ? 但需要有天花板設施
+- https://www.facebook.com/quakeledge/videos/1495381253894729/
+- 特點：節省空間 ? 但需要有天花板設施，不容易更新模型，也有安全風險
 
 
 ## 其他
@@ -115,3 +122,9 @@ MapMap - open source video mapping software
 https://mapmapteam.github.io/
 https://www.facebook.com/weikenny/posts/10216338177634179
 
+---
+
+:::warning
+目錄
+[TOC]
+:::
