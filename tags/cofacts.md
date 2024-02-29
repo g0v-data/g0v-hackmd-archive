@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20240229 會議記錄](../notes/6tCmrXsyS3WEGgC_bMcd9w.md) | 2024-02-28T00:46:13+08:00 | 2024-02-27T23:19:00+08:00 |
+| 1 | [20240229 會議記錄](../notes/6tCmrXsyS3WEGgC_bMcd9w.md) | 2024-02-29T17:55:58+08:00 | 2024-02-27T23:19:00+08:00 |
 | 2 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-02-28T00:44:48+08:00 | 2022-08-05T10:46:53+08:00 |
 | 3 | [Cofacts Data Usage](../notes/CfWAEl5xTUG8jSlwBVdN-w.md) | 2024-02-24T11:10:55+08:00 | 2022-11-16T10:44:45+08:00 |
 | 4 | [20240221 會議記錄](../notes/R06Z7EflRYqAC-R8zO6FqA.md) | 2024-02-21T21:09:33+08:00 | 2024-02-20T01:15:50+08:00 |
