@@ -46,7 +46,7 @@ http://dev.cofacts.tw/
 - [ ] Article detail
   - [ ] 可以看到 reply feedback，有寫字的優先
   - [ ] 如果超過 10 則，有「載入更多
-- [ ] FB 可以登入網站  
+- [x] FB 可以登入網站  
   
 登入自有帳號後檢測：
 - [ ] Article detail
@@ -103,7 +103,7 @@ http://dev.cofacts.tw/
 
 > [name=mrprz]
 > - TFC 希望可以把有上過課的人（的回應）與其他查核者做區分
-> - 十傑當時也有一組人，想要顯示為同一組人
+> - 十傑當時也有一組人，想要顯示為「假新聞特攻隊」
 
 ### Proposal #1: 做成 badge
 - 跟在 user 上
@@ -124,11 +124,15 @@ http://dev.cofacts.tw/
     - 可以避免任意 user 亂冠名自己是 TFC 或 MyGoPen 之類
 - organization profile page
     - 可以設定網址；如果他人 reply 裡面有人引用這個網址，也可以列為此 organization 的貢獻
-- 一個 user 可以有多個 group
+- 一個 user 可以有多個 organization
     - 撰寫 reply 時可以選擇要用個人，還是 group
     - 會另外在其他地方顯示是哪一個使用者用了這個 group 的身份
         - （可以像 FB 一樣，只有 group 內的人看得見是誰發的？）
 - 總覺得這個提案好像我幾年之前提過，但一直找不到⋯⋯[name=mrorz]
+  - 好像是 meedan check demo 前後 [name=nonumpa]
+  - https://g0v.hackmd.io/@cofacts/meetings/https%3A%2F%2Fhackmd.io%2Fs%2FB1bb-hXhz mind map
+  - https://g0v.hackmd.io/@cofacts/meetings/%2Fs%2FrJNFo1xWN
+  - 設計決策：https://hackmd.io/ktxqGDX4S4iuBd1MoZqDmQ#Cofacts-Editor-Organization-%E6%A9%9F%E5%88%B6
 
 #### Pros
 - 組織可能會很開心
