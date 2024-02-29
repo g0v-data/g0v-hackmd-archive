@@ -9,7 +9,9 @@ tags: vTaiwan
     - Sunflower Student Movement 
 - A Decade of Accomplishment
 
+Those who drove the Sunflower Flower movement were young people born after 1990, who were entering adulthood by 2014. This is no accident. Although this generation grew up with democratic freedoms that their predecessors wrested from the KMT regime, they are also the first generation of Taiwanese youth who didn’t grow up under a condition of economic boom. Like their peers all over the world, they see only periodic crises and declining prospects for the future under the capitalist system in Taiwan and the world at large.
 
+At the same time, the rise of Chinese capitalism and its impact on Taiwanese society has also had a big impact on the class struggle in Taiwan. The Taiwanese bourgeoisie played a vital role in bringing the necessary capital into China as capitalism was restored there. In 2000, 12% of manufacturing orders taken by Taiwanese firms took place overseas. By 2010, this number grew to 50%.
 
 
 # 目前vTaiwan英文版敘述（參考用）

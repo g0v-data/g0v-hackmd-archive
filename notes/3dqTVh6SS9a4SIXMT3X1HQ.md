@@ -53,6 +53,9 @@ https://www.bloomberg.com/news/features/2023-09-16/ai-invades-urban-planning-and
 北流風格演算
 https://www.facebook.com/jjhuang.tw/posts/pfbid02tRbxVn1E9wXbxv1CoxcoA6UFBHhnSYbhuZfZ24URvbhuJjtDWN86Z3rHubBf1TLfl
 
+mvrdv
+https://youtu.be/dvKAyTRptkw
+
 室內
 https://www.facebook.com/groups/755359239564572/
 
