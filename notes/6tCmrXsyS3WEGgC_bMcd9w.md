@@ -72,15 +72,16 @@ http://dev.cofacts.tw/
 
 ### [Comm] Thumbnails for video and audio
 > https://github.com/cofacts/rumors-api/issues/326
+> [name=mrorz]
 
 - 增加了影片 thumbnail
     - 10s thumbnail (2倍速播放) 用在各種列表
         - chatbot 列表要改 code
     - 30s preview 用在 article page 等處
-        - 壓縮 + 長寬 0.75x 節省ㄌㄧ
+        - 壓縮 + 長寬 0.75x 節省流量
         - 需要另外改網站、LINE bot code
-        - 要揭示「登入後」
-    - 因為只處理前 10s / 30s，process stream 會比下載檔案的 stream 提早，要一起改 https://github.com/cofacts/media-manager/pull/10 裡的實作
+        - 要揭示「此為 30 秒預覽，登入看影片原檔」
+    - 因為只處理前 10s / 30s，process stream 會比下載檔案的 stream 提早結束，要修改 media manager 裡的實作 -->  https://github.com/cofacts/media-manager/pull/10
 - CI 一直壞
     - alpine linux 可以運作，ubuntu 預設 ffmpeg 卻沒有這次用的新 codec 可用
 - ffmpeg 轉檔會導致 CPU 飆高
