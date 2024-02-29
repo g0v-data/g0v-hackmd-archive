@@ -51,7 +51,8 @@ tags: 公民參與
 - [苑裡鎮公民參與入口網站試作](https://sites.google.com/view/yuanlitown/%E9%A6%96%E9%A0%81)[target=_blank]
 
 ## Propose / PPT (新至舊)
-- [20230901 八分鐘介紹簡報](https://docs.google.com/presentation/d/1hpgPPSbAfsYKMCDbYDZa0iwJHZA0DWYe339ft42Xf48/edit)
+- [2024 分享用簡報](https://docs.google.com/presentation/d/1hpgPPSbAfsYKMCDbYDZa0iwJHZA0DWYe339ft42Xf48/edit)
 - [20230630 五分鐘介紹簡報](https://docs.google.com/presentation/d/1jPXsFFM2KS7WrmsI3oHYt9FLiuC-L-Q02kJMYngD43U/edit)
-- [20230530 總統盃黑客松參賽](https://g0v.hackmd.io/oanvC2wvSTW99g4YhWLuKQ?view)
+- [各種發想筆記的簡報](https://docs.google.com/presentation/d/1jPXsFFM2KS7WrmsI3oHYt9FLiuC-L-Q02kJMYngD43U/edit)
+- [20230530 總統盃黑客松參賽提案文件](https://g0v.hackmd.io/oanvC2wvSTW99g4YhWLuKQ?view)
 - [Landing page](https://sites.google.com/view/joinplustw)[target=_blank]
