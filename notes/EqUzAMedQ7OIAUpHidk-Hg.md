@@ -69,6 +69,8 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
 - 縣市
     - 嘉義縣水藍圖資料，有多一些支流（但是是線條資料，不是面狀資料）
     - 桃園市區排資料，比中央釋出的河川主流支流詳細
+    - 新北市
+        - 大窠溪少了一段
 - 討論：
     - 這份資料實際上是比較破碎的，並不是連續的面體
     - 優先使用「治理線」與「中央管河川區域」資料
@@ -81,9 +83,11 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
 ### 用鄰近程度，作為篩選依據
 
 橫向
-- 有堤防資料的河段：https://drive.google.com/drive/folders/1kitIqmRCD0zHW2Ch6AL1N9ZGEYvbSmm5?usp=sharing
-    - 20240225 資料包含：(1) 中央管河川的堤防 (2) 縣市只有桃園市
-        - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_25e2fa6f4341b7a9b7795eb9b4bb44ff.png)
+- 有堤防資料的河段：
+    - 整合資料夾：https://drive.google.com/drive/folders/1kitIqmRCD0zHW2Ch6AL1N9ZGEYvbSmm5?usp=sharing
+        - 20240225 資料包含：(1) 中央管河川的堤防 (2) 縣市只有桃園市
+            - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_25e2fa6f4341b7a9b7795eb9b4bb44ff.png)
+        - 中央管河川河堤，資料下載網址：https://data.gov.tw/dataset/32730
 - 沒有堤防資料的河段
     - 推論方法討論：
         - 國土利用調查
