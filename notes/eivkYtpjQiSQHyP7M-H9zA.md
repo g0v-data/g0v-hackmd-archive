@@ -17,7 +17,8 @@ This is a nominee of [4th sch001 project incubation competition](https://g0v.hac
     - [deprecated_nonprofit-helper 會務 E 化小幫手 proposal documents](/Sn_lVZE9QKWVqUGQVx_VTg)
 
 ## project demo
-[nonprofit-helper 會務 E 化小幫手 demo link](/mlEUFz6tSe-Zp5UkxUdISA)
+- [nonprofit-helper 會務 E 化小幫手 demo link](/mlEUFz6tSe-Zp5UkxUdISA)
+- [github repo page](https://github.com/paulpengtw/nonprofit-helper-chat-deployment)
 
 ## the whole process of running a 公益社團法人
 - [內政部數位櫃檯](/WgsDA9GGRCydkD8RyXrM_g)
