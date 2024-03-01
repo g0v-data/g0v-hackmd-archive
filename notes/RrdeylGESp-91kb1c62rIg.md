@@ -1,32 +1,35 @@
 ---
 tags: vTaiwan 
 ---
-# Plurality vTaiwan 共筆
+# vTaiwan去過哪裡？
 
+## Code for Japan
+vTaiwan’s open-legislation methodology in Japan (2019)
+https://medium.com/@felixtypingmonkey/vtaiwans-open-legislation-methodology-in-japan-5f0bf0511c11
 
-<!-- 
-- From Historical Resistance to Sunflower
+In Mar. 9 and 10 2019, Code for Japan hosted two open-legislation workshops with different issues. And vTaiwan’s participants was invited to talk about concepts about open-legislation and how it works in Taiwan.
 
+How to vTaiwan OpenAI? Code for Japan Summit (2023)
+https://youtu.be/xr3_FoU5oDY
 
-    - Sunflower Student Movement 
-- A Decade of Accomplishment
+## OpenAI
+### Democratic inputs to AI grant program
 
-Those who drove the Sunflower Flower movement were young people born after 1990, who were entering adulthood by 2014. This is no accident. Although this generation grew up with democratic freedoms that their predecessors wrested from the KMT regime, they are also the first generation of Taiwanese youth who didn’t grow up under a condition of economic boom. Like their peers all over the world, they see only periodic crises and declining prospects for the future under the capitalist system in Taiwan and the world at large.
+vTaiwan and Chatham House: Bridging the Recursive Public (2023)
+https://www.recursivepublic.com/
+https://vtaiwan-openai-2023.vercel.app/Report_%20Recursive%20Public.pdf
 
-At the same time, the rise of Chinese capitalism and its impact on Taiwanese society has also had a big impact on the class struggle in Taiwan. The Taiwanese bourgeoisie played a vital role in bringing the necessary capital into China as capitalism was restored there. In 2000, 12% of manufacturing orders taken by Taiwanese firms took place overseas. By 2010, this number grew to 50%.
+This project was run by Chatham House, vTaiwan and the AI Objectives Institute, together as one of ten teams funded under OpenAI’s Democratic Inputs to AI grant. It aimed to test recursion: a series of information cascades between decision-makers, communities and deliberations over time that we deem essential to good AI governance.
 
+## mySociety
 
-# 目前vTaiwan英文版敘述（參考用）
+vTaiwan will be hosting a workshop in mySociety's TICTeC conference in London (upcoming in June 2024)
+https://tictec.mysociety.org/event/tictec-2024-london/
 
-Where do we go as a society?
-Thinking and working together.
+# vTaiwan堅持什麼？
 
-Launched in 2014, vTaiwan is a decentralized open consultation process that combines online and offline interactions, bringing together Taiwan's citizens and government to deliberate on national issues. It serves as a model for People-Public-Private Partnerships (PPPP), involving government ministries, elected representatives, scholars, experts, business leaders, civil society organizations, and citizens in crafting digital legislation.
-
-One of the many tools vTaiwan utilizes is Pol.is, a digital platform for opinion collection, to facilitate large-scale conversations and consensus building. This tool has been pivotal in achieving "rough consensus" on various policy issues at the national level, addressing scalability challenges in deliberative democracy.
-
- In 2023, vTaiwan collaborated with Chatham House and the AI Objectives Institute on the OpenAI Democratic Inputs to AI project. This collaboration aimed to explore guiding principles for AI, particularly in contexts where human rights intersect with local cultural or legal differences. The main approach employed in this project included the use of Pol.is for public deliberation and some initial attempts at integrating Large Language Models (LLMs).
+Launched in 2014, vTaiwan is a decentralized open consultation process that combines online and offline interactions, bringing together Taiwan's citizens and government to deliberate on national issues. It serves as a model for People-Public-Private Partnerships (PPPP), involving government ministries, experts, civil society organizations, and citizens in crafting digital legislation.
 
 In its ongoing role as a “shadow government,” vTaiwan is set to host more digital deliberative topics, particularly as regulations try to keep pace with rapid technological advancements. vTaiwan will continue to invite contributions from all societal sectors, initiating formal discussions when needs are articulated. Looking ahead to 2024, vTaiwan anticipates engaging with AI-related regulations, including the refined “Guidelines for the Executive Yuan and its Agencies on the Use of Generative AI” and the “AI Basic Law” by the National Science and Technology Council (NSTC).
 
-The platform maintains various touchpoints for engagement, including its community page, slack channel g0v, Chinese-language website vtaiwan.tw, weekly online meetings and occasional hackathons. As a dynamic, participant-driven space, vTaiwan strives to be a pioneering model in democratic consultation, leveraging technology to foster in-depth discussions on important national issues. -->
+As a dynamic, participant-driven space, vTaiwan strives to be a pioneering model in democratic consultation, leveraging technology to foster in-depth discussions on important national issues.
