@@ -502,7 +502,31 @@ Opass 教學
 ## 20240301 第十七次會議紀錄
 > 時間：2024/02/16（日） 8:30 PM
 > 地點：線上
-> 出席：Dong、、、、、
+> 出席：Dong、Skyler、阿敏、、、
 
-### 
+### 紀念品
+- 第一輪詢價完成，要更精確的報價要提供更精確的 Logo 跟交期
+    - 初步logo![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_58ecdc96efe42a72d36cbd380156c2b9.png)
+    - Logo 想要表達公民不打烊 24h 的意見
+- 最晚什麼時候要送印？
+    - 鏡頭保護蓋：
+        - 打樣時間：圖稿確認後12個工作天
+        - 大貨時間：確定下單後20-22個工作天
+    - T恤：
+        - 確認訂單後6-14天
+- 預計時程
+    - 3/15(五)前投稿
+    - 3/22(五)前投票
+    - 3/22-3/29 看看有什麼狀況要警急調整用
+    - 3/29(五)前一定要送印
+    - 4/26(五)前我們一定要拿到貨
+- 預計明天大松時把紀念品徵稿相關事宜發出，預計發在 Slack 各種頻道。
 
+### 場勘資料
+
+相關資料：
+[場勘資料](https://drive.google.com/drive/folders/1ZUqwApFz1uLYWw47nupfsHKdyHMUHZA6?usp=drive_link)
+[場勘量測尺寸表](https://docs.google.com/spreadsheets/d/1YNv3hqqACur-nD9ktOQOtZMOcL2t6Ut-q-Eg0O0ecs8/edit?usp=drive_link)
+進度：
+- 2/27 早上去中研院人社館場勘，已將場勘的照片、影片、尺寸新增至上方資料夾中
+結論：
