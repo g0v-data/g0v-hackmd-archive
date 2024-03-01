@@ -3,6 +3,8 @@ tags: vTaiwan
 ---
 # Plurality vTaiwan 共筆
 
+
+<!-- 
 - From Historical Resistance to Sunflower
 
 
@@ -27,4 +29,4 @@ One of the many tools vTaiwan utilizes is Pol.is, a digital platform for opinion
 
 In its ongoing role as a “shadow government,” vTaiwan is set to host more digital deliberative topics, particularly as regulations try to keep pace with rapid technological advancements. vTaiwan will continue to invite contributions from all societal sectors, initiating formal discussions when needs are articulated. Looking ahead to 2024, vTaiwan anticipates engaging with AI-related regulations, including the refined “Guidelines for the Executive Yuan and its Agencies on the Use of Generative AI” and the “AI Basic Law” by the National Science and Technology Council (NSTC).
 
-The platform maintains various touchpoints for engagement, including its community page, slack channel g0v, Chinese-language website vtaiwan.tw, weekly online meetings and occasional hackathons. As a dynamic, participant-driven space, vTaiwan strives to be a pioneering model in democratic consultation, leveraging technology to foster in-depth discussions on important national issues.
+The platform maintains various touchpoints for engagement, including its community page, slack channel g0v, Chinese-language website vtaiwan.tw, weekly online meetings and occasional hackathons. As a dynamic, participant-driven space, vTaiwan strives to be a pioneering model in democratic consultation, leveraging technology to foster in-depth discussions on important national issues. -->
