@@ -4,7 +4,7 @@
 
 - 如果遇到轉換畫面需要時間，可善用 indicator
     - 讓畫面轉圈圈 表示 loading
-
+- Detail page 要讓 home 和 catlog 都能點進去
     
     
 
