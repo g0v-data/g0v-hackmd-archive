@@ -2,6 +2,7 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [cofacts](tags/cofacts.md) | 431 | 2024-03-01T23:11:19+08:00 |
 | [summit2024](tags/summit2024.md) | 42 | 2024-03-01T22:50:24+08:00 |
 | [g0v idea pool](tags/g0v%20idea%20pool.md) | 57 | 2024-03-01T21:20:18+08:00 |
 | [hackpad](tags/hackpad.md) | 3038 | 2024-03-01T21:20:18+08:00 |
@@ -19,7 +20,6 @@
 | [School](tags/School.md) | 7 | 2024-03-01T10:00:43+08:00 |
 | [recap](tags/recap.md) | 6 | 2024-03-01T10:00:43+08:00 |
 | [Environmental Design](tags/Environmental%20Design.md) | 1 | 2024-03-01T00:30:23+08:00 |
-| [cofacts](tags/cofacts.md) | 430 | 2024-02-29T21:17:51+08:00 |
 | [meeting note](tags/meeting%20note.md) | 256 | 2024-02-29T21:17:51+08:00 |
 | [vtaiwan](tags/vtaiwan.md) | 9 | 2024-02-29T19:57:44+08:00 |
 | [糖鐵](tags/%E7%B3%96%E9%90%B5.md) | 4 | 2024-02-29T19:53:33+08:00 |
