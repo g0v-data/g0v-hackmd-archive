@@ -1,5 +1,4 @@
 ---
-title: "責任消費相關機制蒐集"
 tags: g0v idea pool,hackpad
 ---
 
@@ -223,7 +222,10 @@ https://www.facebook.com/102148684925063/posts/124457699360828/
 - 無包裝產品商店
     - [https://www.facebook.com/groups/622061734624660/permalink/792173050946860/](https://www.facebook.com/groups/622061734624660/permalink/792173050946860/)
 
+### 外來種移除後做成產品
 
+海茄苳、大花咸豐草、小花蔓澤蘭
+https://www.facebook.com/share/p/j4RHu8GEzrJ34vYA/
 
 ### 空間短租
 

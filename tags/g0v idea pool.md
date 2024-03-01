@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [關鍵句 / Known Knowns / The Solution Buffet](../notes/W1Jlr8czSvC3Raxsp0LYcQ.md) | 2024-01-02T21:30:23+08:00 | 2014-08-04T13:14:07+08:00 |
-| 2 | [責任消費相關機制蒐集](../notes/IOBJ82JSRFuodkB-M2FXFg.md) | 2023-05-18T13:08:24+08:00 | 2016-02-20T04:31:44+08:00 |
+| 1 | [責任投資 / 責任消費相關機制蒐集](../notes/IOBJ82JSRFuodkB-M2FXFg.md) | 2024-03-01T21:20:18+08:00 | 2016-02-20T04:31:44+08:00 |
+| 2 | [關鍵句 / Known Knowns / The Solution Buffet](../notes/W1Jlr8czSvC3Raxsp0LYcQ.md) | 2024-01-02T21:30:23+08:00 | 2014-08-04T13:14:07+08:00 |
 | 3 | [《金權城市》](../notes/3V8hLfWMS7OW6R1xEgjckg.md) | 2023-01-27T01:23:38+08:00 | 2014-11-18T06:19:04+08:00 |
 | 4 | [政策偵測器](../notes/GNl2eBfDQ2KrFojYdpKKYg.md) | 2021-08-16T01:11:24+08:00 | 2014-09-13T00:54:20+08:00 |
 | 5 | ["網軍分身" vs "正常使用者" Classification](../notes/4P2Doe5BTDaEWeMxyDMcLw.md) | 2020-12-14T09:21:29+08:00 | 2015-04-02T04:58:00+08:00 |

@@ -504,10 +504,11 @@ Opass 教學
 > 地點：線上
 > 出席：Dong、Skyler、阿敏、、、
 
-### 紀念品
+### 紀念品進度
 - 第一輪詢價完成，要更精確的報價要提供更精確的 Logo 跟交期
     - 初步logo![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_58ecdc96efe42a72d36cbd380156c2b9.png)
     - Logo 想要表達公民不打烊 24h 的意見
+    - 
 - 最晚什麼時候要送印？
     - 鏡頭保護蓋：
         - 打樣時間：圖稿確認後12個工作天
