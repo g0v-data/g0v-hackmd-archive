@@ -14,6 +14,15 @@ tags: summit2024,
 - 技術與議題的交鋒：SDGs ／社會企業 / 數位轉型 / 創新創業 / 教育 / 非營利組織
 :::
 
+## 活動合作
+* 國立政治大學 創新國際學院 International College of Innovation
+    * [g0v徵稿](https://www.facebook.com/ICINCCU/posts/pfbid0uYPMRZPEmhs8f3E9PtuHwXWZnjxLZLZkzvEvmdsv4Cz9Su1Ty7vhSnijMW9rosbfl)
+    * Dr. Postill在政大演講
+
+* 國立政治大學 東亞科技與社會研究國際期刊 East Asian Science, Technology and Society: An International Journal (EASTS)
+    * [g0v徵稿](https://www.facebook.com/eastsjournal/posts/pfbid02yegWfnxQt5gHQqdSGmZbCy1CSRZRo8L8XSSqqPwz9U7SgTjdXmJ7CRgjHTB3zwa7l)
+
+
 ## 其他 conference、NGO
 ### 聯繫名單
 也可參考議程組開設的[文件](https://docs.google.com/spreadsheets/d/1yV5s_WIwminUNo7ljI-3A1jWWQDLVx64-V6D9WcWacI/edit#gid=0)
