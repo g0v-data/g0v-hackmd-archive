@@ -191,3 +191,7 @@ Summit Venue: Academia Sinica, Institute of Humanities and Social Sciences (Taip
 Submission Deadline: December 10 (Sunday), 2023
 Official Website and Submission Guidelines: https://summit2024.g0v.tw
 Submit Now: https://summit2024.g0v.tw/brd/2024
+
+## 媒體
+### 名單
+顧及記者個資，名單不直接公開，檔案置於工地雲端。
