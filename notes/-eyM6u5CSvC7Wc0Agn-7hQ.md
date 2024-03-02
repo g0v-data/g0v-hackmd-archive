@@ -15,3 +15,10 @@
   - 每一間設備(燈光、冷氣、音響&麥克風、音源+投影操作台)
   - 用相機/手機試拍活動花絮效果(看需不需要加燈光或遮光)
 
+## 結果
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7fdae31e057942a29b52fb15dc43416c.jpg)
+
+### R0 
+- keynote、社群軌、閃電講使用
+- 

@@ -16,6 +16,7 @@ https://youtube.com/shorts/529UbBaUQwQ?feature=share
 打字練習2    https://typing.tw
 國字筆順    https://stroke-order.learningweb.moe.edu.tw/home.do?lang=zh_TW
 麥塊經典板  https://www.crazygames.com/game/minecraft-classic
+https://poki.com/zh#
 遊戲網站    https://www.crazygames.com
 遊戲網站    https://cn.game-game.com
 遊戲天堂    https://www.i-gamer.net/
