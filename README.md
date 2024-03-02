@@ -2,7 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6805 | 2024-03-02T22:54:30+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6806 | 2024-03-02T23:59:31+08:00 |
+| [AI](tags/AI.md) | 23 | 2024-03-02T23:54:55+08:00 |
 | [privacy](tags/privacy.md) | 22 | 2024-03-02T17:41:47+08:00 |
 | [new-safeID](tags/new-safeID.md) | 20 | 2024-03-02T17:41:47+08:00 |
 | [administrative-appeal](tags/administrative-appeal.md) | 12 | 2024-03-02T17:41:47+08:00 |
@@ -34,7 +35,6 @@
 | [cofacts](tags/cofacts.md) | 431 | 2024-03-01T23:11:19+08:00 |
 | [g0v idea pool](tags/g0v%20idea%20pool.md) | 57 | 2024-03-01T21:20:18+08:00 |
 | [hackpad](tags/hackpad.md) | 3038 | 2024-03-01T21:20:18+08:00 |
-| [AI](tags/AI.md) | 22 | 2024-03-01T20:48:12+08:00 |
 | [LLM](tags/LLM.md) | 1 | 2024-03-01T20:48:12+08:00 |
 | [Templates](tags/Templates.md) | 231 | 2024-03-01T19:12:21+08:00 |
 | [Talk](tags/Talk.md) | 39 | 2024-03-01T19:12:21+08:00 |
