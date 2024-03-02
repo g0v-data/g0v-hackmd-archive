@@ -74,3 +74,6 @@ Channel： g0v Slack psychmatch_public
 > [name=Venbart帕奇]
 
 
+### 2024/03/02 大松!
+
+參與人員：
