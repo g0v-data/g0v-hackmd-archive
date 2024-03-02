@@ -286,24 +286,29 @@ https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/
 
     a. 確認資源 IP
         
-            ➜  ~ ping 24h.pchome.com.tw
+            ➜  ping 24h.pchome.com.tw
             PING shopping.gs1.pchome.com.tw (34.149.253.14): 56 data bytes
             64 bytes from 34.149.253.14: icmp_seq=0 ttl=61 time=20.640 ms
             
-    b. 確認該 IP 資訊 https://ipinfo.io/34.149.253.14
-        
-            Summary
-            ASN 	AS396982 - Google LLC
-            Hostname 	14.253.149.34.bc.googleusercontent.com
-            Range 	34.148.0.0/14
-            Company 	Google LLC
-            Hosted domains 	31
-            Privacy 	True
-            Anycast 	True
-            ASN type 	Hosting
-            Abuse contact 	google-cloud-compliance@google.com
+    b. 確認該 IP 資訊 https://ipinfo.io/34.149.253.14 
+
+        ➜  ~ ipinfo 34.149.253.14
+        Core
+        - IP           34.149.253.14
+        - Anycast      true
+        - Hostname     14.253.149.34.bc.googleusercontent.com
+        - City         Kansas City
+        - Region       Missouri
+        - Country      United States (US)
+        - Currency     USD ($)
+        - Location     39.0997,-94.5786
+        - Organization AS396982 Google LLC
+        - Postal       64106
+        - Timezone     America/Chicago
             
-    c. 檢視 ASN / Hostname 是 GCP，對照 [#雲端平台--IaaS--SaaS](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A?both#雲端平台--IaaS--SaaS) 確認其有台灣節點，在「是否可及」內紀錄（可及打 O / 不可及打 X / 不明打 ?）
+    c. 檢視 Anycast / 地理位置狀態
+        c-1. 假設無 Anycast，則參考該 ip 的地理位置，紀錄到表格上。如位置在島內，則在「是否可及」內打 O，在島外則打 X。
+        c-2. 假設有 Anycast，如果該地理位置不在島內，可檢查「該服務是否是已知有台灣節點者」，如上述範例 hostname 為GCP，對照 [#雲端平台--IaaS--SaaS](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A?both#雲端平台--IaaS--SaaS) 確認其有台灣節點，則在「是否可及」內紀錄 `O`
         
 
 6. 該頁所有 request 列表於下:
