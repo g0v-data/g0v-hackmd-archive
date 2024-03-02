@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [重要數位服務韌性檢測及其替代品](../notes/x4cR0BtxTf6eLw_6vaPY3A.md) | 2024-03-02T13:50:05+08:00 | 2023-11-04T13:09:51+08:00 |
+| 1 | [重要數位服務韌性檢測及其替代品](../notes/x4cR0BtxTf6eLw_6vaPY3A.md) | 2024-03-02T14:17:51+08:00 | 2023-11-04T13:09:51+08:00 |
 | 2 | [g0v DigiResiTh0n 第零次數位韌性松](../notes/oyNRfe4lTuaZ5RbcPSS7TQ.md) | 2024-02-28T21:44:24+08:00 | 2023-10-21T15:19:19+08:00 |
 | 3 | [g0v DigiResiThon logistics](../notes/e6rWxnppQmuSpUxcoXzoHw.md) | 2024-02-28T14:41:22+08:00 | 2024-02-03T15:55:50+08:00 |
 | 4 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-02-28T00:44:48+08:00 | 2022-08-05T10:46:53+08:00 |
