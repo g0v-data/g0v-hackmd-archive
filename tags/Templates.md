@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Collect your documents with a book](../notes/akVTyftcQlKFOZ_6ixMNzg.md) | 2024-03-03T22:58:25+08:00 | 2023-07-23T00:11:19+08:00 |
+| 1 | [Collect your documents with a book](../notes/akVTyftcQlKFOZ_6ixMNzg.md) | 2024-03-03T23:11:31+08:00 | 2023-07-23T00:11:19+08:00 |
 | 2 | [Talk slides template](../notes/0MW9jXQIQZywTmEJbmvheQ.md) | 2024-03-01T19:12:21+08:00 | 2024-03-01T19:10:55+08:00 |
 | 3 | [Collect your documents with a book](../notes/DNJ6qV5CR36lRUEV-h1qmQ.md) | 2024-02-23T09:45:34+08:00 | 2024-02-23T09:45:20+08:00 |
 | 4 | [Meeting Minute](../notes/ctprQHuRQk6A_429Q5I_lg.md) | 2024-02-23T09:44:35+08:00 | 2024-02-23T09:44:26+08:00 |

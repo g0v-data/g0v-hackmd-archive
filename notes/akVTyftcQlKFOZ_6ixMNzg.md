@@ -16,4 +16,3 @@ Themes
 
 ###### tags: `Templates` `Book`
 
-tblEmp共有三個欄位EmpId(員工編號), EmpName(員工姓名)及MgrId
