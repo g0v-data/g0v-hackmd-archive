@@ -8,6 +8,7 @@ tags: summit2024
 出席：chihao, paul, pm5, bil, peter, whitecat, 
 
 ## 合作伙伴議程
+- [summit2024合作夥伴議程](/sSBOXfEERPq8bQZ-xdeJHg)
 > 贊助組 + 議程組 + 議程委員資訊同步 [name=chihao]
 
 - [AccessNow](https://www.accessnow.org/) (AN) 為 g0v Summit 2024 合作伙伴
@@ -31,7 +32,7 @@ tags: summit2024
         - ⚠️ 注意：3 月底要敲定
     - 保送 1 位 AN 講者（讓 AN 講者不需要投稿就可以參加 open call）
         - 決策者是議程委員
-        - ✅ 結論：投稿
+        - ✅ 結論：採取投稿
     - AN 投稿 open call
         - 主題：網路治理
         - 對方表示希望邀請台灣立法部門 + 台灣 NGO + AN 對談
