@@ -80,7 +80,19 @@ https://github.com/cofacts/rumors-site/releases/tag/release%2F20240304
 ### [Op] Google 非營利
 - 回信後尚無回音
 
-## User organization
+## User organization and CoC
+
+> https://hackmd.io/ktxqGDX4S4iuBd1MoZqDmQ?view#Cofacts-Editor-Organization-%E6%A9%9F%E5%88%B6
+
+- Organization qualification: 不另外要求 qualification
+    - 但可以想一想，自己無法接受什麼樣的組織來申請 organization?
+- 更嚴格要求 CoC？
+    - For all contributors：反騷擾原則
+        - https://www.facebook.com/legacy/notes/2046634208901731/
+        - 參考 https://hackmd.io/1U4u6d81QCqgtYriyC5kOA?view#II-COSCUP-CoC-%E4%BF%AE%E8%A8%82%E5%88%86%E4%BA%AB---%E9%9D%A2%E5%B0%8D-MeToo-%E7%A4%BE%E7%BE%A4%E8%A9%B2%E5%A6%82%E4%BD%95%E5%9B%A0%E6%87%89
+    - 因為比較顯眼，所以要求要比一般協作者多：
+        - 要提供錯誤回報更正機制
+        - 違反 CoC 的話嚴重可能撤銷 organization，全部變回一般查核協作者的樣子
 
 
 ## 小聚籌備
@@ -106,6 +118,7 @@ https://github.com/cofacts/rumors-site/releases/tag/release%2F20240304
   - 目標：雙北、桃園？
       - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aff7fe2b732675b4b90f1e90a56fd071.png)
     - 14 萬人收到、2萬分之一報名率 --> 開 30~40 人、預期 20 人到場？
+    - Ref: [past click through rates](https://docs.google.com/spreadsheets/d/1XjEQZ9esNKfkGd8XYd1p3E8DTgB0f5QPDl5ghf-JxE0/edit#gid=0)
 - [ ] KKTIX:
 - [ ] 誰會來呢：
 - [ ] 記得帶：貼紙、環保杯

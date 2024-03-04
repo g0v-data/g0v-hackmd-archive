@@ -13,7 +13,7 @@ tags: 公有地大行動,
 簡報，[另開網頁](https://docs.google.com/presentation/d/1-LLv43VMfY-ZmGHCWLYqT3uEyRO5_4MAedeQq1e2jhw/edit)
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCgw0hcHemjMbKtLUZdZ0_4VrBjel-UPR_-jlcGlnQ2VJSTFpFhev_zU-nvJUgSOo2-rWj-8Z7HWe7/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="490" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-市府新聞稿
+20220515 市府新聞稿
 https://www.tainan.gov.tw/News_Content.aspx?n=13371&sms=9749&s=7893281#
 
 ## 試作：臺南市溫室氣體減量行動地圖

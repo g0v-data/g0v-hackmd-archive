@@ -56,7 +56,8 @@ tags: 公有地大行動,公有資產
 - [工作時程與待辦清單 📅](https://g0v.hackmd.io/IdTdREUYTbKp8p0A76XjDw?view)
 - [筆記：討論與發想](https://g0v.hackmd.io/biqC8dA4QESZK-Zg3c2A5Q)
 
-## 專案歷次簡報 Slide
+## 專案歷次簡報 Slide & Media
+- [2024.03.08 永續筆記本-廣播節目訪談錄音](https://g0v.hackmd.io/N4WlZ7tRQGaacp1zvlLKWA?view)
 - [2022.02.24 倡議家採訪說明簡報](https://docs.google.com/presentation/d/1Hy9MIztY2L84LsatSPpJKUzbRnqrFiyT3CeDjSZ4eKg/edit)
 - [2021.12.11 三分鐘簡報](https://docs.google.com/presentation/d/1bQ4p6GEmDwVT9M292gfdJrHf-amHVU8GZPIvyJiu9R4/edit)
 - [2021.11.13 六分鐘簡報](https://docs.google.com/presentation/d/1NWDioMuWILY-5WH9MGhyaHbD04IZcuLzRswLYZuHyN8/edit)
