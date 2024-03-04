@@ -121,6 +121,10 @@ LLM部分透過微調開源大語言模型（LLM）在此特定領域發揮效�
 [簡介影片](https://youtu.be/uhmLQI6gEF0)
 影片背景噪音忍耐一下...
 
+
+### 2024/3/2大松提案時簡報檔案
+[簡報](https://docs.google.com/presentation/d/1DbdkOsZXAbQevztzgF19RQxlMbn5wlP5JK0liTsfAlU/edit?usp=sharing)
+
 </br></br>
 ### 藥師國考包含以下六大範疇
 一、藥理學與藥物化學

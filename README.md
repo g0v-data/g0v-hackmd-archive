@@ -2,16 +2,17 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6813 | 2024-03-04T13:59:58+08:00 |
-| [cofacts](tags/cofacts.md) | 432 | 2024-03-04T13:53:26+08:00 |
-| [meeting note](tags/meeting%20note.md) | 257 | 2024-03-04T13:53:26+08:00 |
+| [cofacts](tags/cofacts.md) | 432 | 2024-03-04T14:49:11+08:00 |
+| [meeting note](tags/meeting%20note.md) | 257 | 2024-03-04T14:49:11+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6815 | 2024-03-04T14:45:55+08:00 |
+| [AI](tags/AI.md) | 23 | 2024-03-04T14:14:06+08:00 |
+| [LLM](tags/LLM.md) | 1 | 2024-03-04T14:14:06+08:00 |
 | [Rentea](tags/Rentea.md) | 182 | 2024-03-04T11:07:46+08:00 |
 | [School](tags/School.md) | 8 | 2024-03-04T09:58:09+08:00 |
 | [recap](tags/recap.md) | 7 | 2024-03-04T09:58:09+08:00 |
 | [g0vernance](tags/g0vernance.md) | 43 | 2024-03-04T08:39:45+08:00 |
 | [Templates](tags/Templates.md) | 231 | 2024-03-03T23:11:31+08:00 |
 | [Book](tags/Book.md) | 145 | 2024-03-03T23:11:31+08:00 |
-| [AI](tags/AI.md) | 23 | 2024-03-02T23:54:55+08:00 |
 | [privacy](tags/privacy.md) | 22 | 2024-03-02T17:41:47+08:00 |
 | [new-safeID](tags/new-safeID.md) | 20 | 2024-03-02T17:41:47+08:00 |
 | [administrative-appeal](tags/administrative-appeal.md) | 12 | 2024-03-02T17:41:47+08:00 |
@@ -42,7 +43,6 @@
 | [ESG](tags/ESG.md) | 19 | 2024-03-02T11:25:55+08:00 |
 | [g0v idea pool](tags/g0v%20idea%20pool.md) | 57 | 2024-03-01T21:20:18+08:00 |
 | [hackpad](tags/hackpad.md) | 3038 | 2024-03-01T21:20:18+08:00 |
-| [LLM](tags/LLM.md) | 1 | 2024-03-01T20:48:12+08:00 |
 | [Talk](tags/Talk.md) | 39 | 2024-03-01T19:12:21+08:00 |
 | [vTaiwan](tags/vTaiwan.md) | 96 | 2024-03-01T16:19:17+08:00 |
 | [China](tags/China.md) | 5 | 2024-03-01T13:48:41+08:00 |
