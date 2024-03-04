@@ -7,6 +7,7 @@
     - 有海報張貼的部分 
         - 這個是場勘的時候要跟場地方確認的事情。
 - 兒童照顧的空間
+    - 目前暫定R3
 - 口譯的需求（R0 中控室）
 - 活動現場確認與拍攝 [name=peter]
   - 現場路線照片(會議空間、報到處、茶水間、領便當、廁所)
@@ -16,9 +17,77 @@
   - 用相機/手機試拍活動花絮效果(看需不需要加燈光或遮光)
 
 ## 結果
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7c39557837e08ab6bb72763c72333c94.JPG)
+- 洗手間與茶水間在場地兩側
+    - 貼標記＋印製在手冊上
+    - 
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7fdae31e057942a29b52fb15dc43416c.jpg)
+### 講者報到處
+- 3F 南側穿堂
+- 人員：
+    - 議程助理x2 全天
+    - 
+- 要準備物品：
+    - 給講者的 package
+    - 簽到單
+
+### 參加者報到處
+- 3F 北側穿堂
+- 人員：
+    - 場務人員x2 全天
+- 要準備物品：
+    - 給參與者的 package
+    - 簽到單
 
 ### R0 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2d029d38de98aae20199ab3b9bd3d6bb.JPG)
+
 - keynote、社群軌、閃電講使用
-- 
+- 人員：
+    - 議程助理x3 全天
+    - 一人負責台上
+    - 一人負責後方出入口（機動）
+    - 一人負責四樓（中控室）
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fe53f05cb18c62b57cda7302b6290789.JPG)
+
+- 設備操控由中控室人員處理
+    - 中控室人員場地方會提供
+
+
+- 講者休息室
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fd6e1bbf27c17dc7fda5e16bd4f1c0fa.JPG)
+    - 場地後方有給講者的休息室
+    - 由台上的人負責
+    - 問題：其他軌的講者是否可以使用？
+- 講者化妝室
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_76074c97e17f942ebcf2491dd643d56e.JPG)
+    - 充當休息室使用？
+### R1
+
+- Opencall Unconf 使用
+- 人員：
+    - 議程助理x2 
+    - 一人負責台上
+    - 一人負責中控室
+- 問題：沒有講者休息室，要如何處理？
+    - 會議室第一排側邊保留席
+
+### R2
+- Opencall Unconf 使用
+- 人員：
+    - 議程助理x2 
+    - 一人負責台上
+    - 一人負責中控室
+- 問題：沒有講者休息室，要如何處理？
+    - 會議室第一排側邊保留席
+
+
+
+### 海報區
+- 總共有20面白版
+    - 2面負責 UNCONF
+    - 1面負責閃電講報名
+    - 留言板：5面？
+    - 其他可以貼 summit 海報跟社群活動資訊
+- 人員：
+    - 

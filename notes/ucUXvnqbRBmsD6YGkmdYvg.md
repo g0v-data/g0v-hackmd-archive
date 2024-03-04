@@ -41,6 +41,9 @@ https://github.com/cofacts/rumors-site/releases/tag/release%2F20240304
     - 可以考慮改在 cloud run 做，或
 - Alternatives
     1. [Cloudflare Stream](https://developers.cloudflare.com/stream/)
+        - 儲存費用每月付 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7f2a3f0cbc63b4d3c7200e0893262431.png)
+            - 假設每個影片 1min，Cofacts 已經有 9214 video / audio --> 9000 min，$50/mo 的範圍
+            - 播放費用另計，但如果只有查核協作者可以播放的話就會很省
         - 目前看起來，關於 thumbnail：
             - thumbnail 好像不算錢，只有靜止的跟 gif（限 15s 內、fps 限制 1~15）
             - thumbnail 是 request 來才會即時生成，如果是 gif 的話可能要生數秒鐘，產出十幾 MB 的 gif 送到瀏覽器
@@ -60,7 +63,7 @@ https://github.com/cofacts/rumors-site/releases/tag/release%2F20240304
             - 可以透過 cloudflare retrieve video detail API 拿到影片時長
             - 因為有 on-the-fly 的 thumbnail URL 可以用，因此未來如果接了 google video intelligence API 偵測 shot changes，甚至可以做到列出影片分段截圖的功能，對查核影片會超級方便——點擊截圖跳到那個分段、對截圖右鍵來用瀏覽器內建功能以圖找圖等等。
     2. Google Transcoding API
-        - 指定要轉的解析度、轉完放哪裡
+        - 指定要轉的解析度、轉完放哪裡。轉換[算便宜](https://cloud.google.com/transcoder/pricing) (0.015/min for SD thumbnail)，儲存就是 GCS
         - 直接有 sprite sheet! https://cloud.google.com/transcoder/docs/how-to/generate-spritesheet#generate_image_periodically
             - Google lens 可以只選一幀出來 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_05dc6db86196cb855046859d5e151d3d.png)
         - 跟 bucket、cloud function 串在一起： https://cloud.google.com/use-cases/video-on-demand?hl=en#features
@@ -71,8 +74,8 @@ https://github.com/cofacts/rumors-site/releases/tag/release%2F20240304
             - media manager 上傳原始檔案之後，GCS bucket file change 觸發 cloud function 
             - cloud function 呼叫 transcoding API (batch mode)
             - 檔案回存到同一個 GCS bucket file 資料夾底下，未來 rumors-api 與 media manager 可以讀得到該 variant
-
-
+        - 缺點
+            - 沒有辦法拿影片長度之類的 metadata，但這可以另外呼叫 ffprobe 搞定
 
 ### [Op] Google 非營利
 - 回信後尚無回音
