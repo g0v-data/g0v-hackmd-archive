@@ -26,6 +26,9 @@ https://github.com/cofacts/rumors-site/releases/tag/release%2F20240304
 > nonumpa
 > https://g0v.hackmd.io/vKCvrqSQTlm7GEx9MAXGaw?view#op-Transcript-spam-處理
 
+contributor 在 snapshot update 時更新
+- 可能會有兩個人的 contribution 會記成同一個時間 [name=nonumpa]
+  - 像 google doc 所以 ok [name=mrorz]
 
 ### [Comm] article group 收尾
 > nonumpa
@@ -76,6 +79,15 @@ https://github.com/cofacts/rumors-site/releases/tag/release%2F20240304
             - 檔案回存到同一個 GCS bucket file 資料夾底下，未來 rumors-api 與 media manager 可以讀得到該 variant
         - 缺點
             - 沒有辦法拿影片長度之類的 metadata，但這可以另外呼叫 ffprobe 搞定
+- 目前沒登入就無法看影片 [name=nonumpa]
+  - 上傳色情影片，沒登入就看不到，預覽圖下 google 抓到的機率更大 [name=nonumpa]
+  - 可能就是要上 video intelligence API [name=mrorz]
+    - 模糊化處理，登入才能檢視？
+
+:::success
+- 朝 2 進行
+- 寫 design doc
+:::
 
 ### [Op] Google 非營利
 - 回信後尚無回音
@@ -93,13 +105,24 @@ https://github.com/cofacts/rumors-site/releases/tag/release%2F20240304
     - 因為比較顯眼，所以要求要比一般協作者多：
         - 要提供錯誤回報更正機制
         - 違反 CoC 的話嚴重可能撤銷 organization，全部變回一般查核協作者的樣子
+- Progression: CoC draft --> 社群討論是否有意見 --> 公告 apply 到網站內容、小聚 etc
+  - 之後實作 organization、處理都有依歸 [name=mrorz]
+  - 4 月底 [name=bil]
+    - 產出內容避免國籍、性別、種族、年齡歧視
+    - 參考 OCF 
+    - 處置: 內容 --> 修改文字、移除部分段落 or 全篇移除
 
+:::success
+Bil draft CoC
+:::
 
 ## 小聚籌備
 
 - [ ] 日期：3/24 (日)
-- [ ] 食物：
+- [ ] 食物：要自己清，垃圾桶不能丟
 - [ ] 場地：新北青職基地 1F
+    - 一定要 20 人以上，最多坐 60
+    - 6 個桌子、20 張椅子、麥克風、投影幕、筆電
 - [ ] 時間：
 	- 活動時間：14:00 - 17:00
 	- 時間分配
@@ -114,13 +137,14 @@ https://github.com/cofacts/rumors-site/releases/tag/release%2F20240304
         - 4:10 - 4:40 實作撰寫新回應
         - 4:40 - 5:00 介紹分類、RSS、合照
 - [ ] 投放目標：
-  - 推播日：
+  - 推播日：3/18 (一)推播
+  - 推播日之前：新北志工優先報名
   - 目標：雙北、桃園？
       - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aff7fe2b732675b4b90f1e90a56fd071.png)
-    - 14 萬人收到、2萬分之一報名率 --> 開 30~40 人、預期 20 人到場？
+    - 14 萬人收到、萬分之2報名率 --> 開 30~40 人、預期 20 人到場？
     - Ref: [past click through rates](https://docs.google.com/spreadsheets/d/1XjEQZ9esNKfkGd8XYd1p3E8DTgB0f5QPDl5ghf-JxE0/edit#gid=0)
 - [ ] KKTIX:
-- [ ] 誰會來呢：
+- [ ] 誰會來呢：bil, mrorz, nonumpa
 - [ ] 記得帶：貼紙、環保杯
 - [ ] LINE 文案
 - [ ] VOOM 發文
