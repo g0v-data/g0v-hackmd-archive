@@ -17,11 +17,11 @@
   - 用相機/手機試拍活動花絮效果(看需不需要加燈光或遮光)
 
 ## 結果
+- 整體場地圖
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7c39557837e08ab6bb72763c72333c94.JPG)
 - 洗手間與茶水間在場地兩側
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7d5bb217b84b7defaf82c68d2f8a747e.JPG)
     - 貼標記＋印製在手冊上
-    - 
-
 ### 講者報到處
 - 3F 南側穿堂
 - 人員：
@@ -52,17 +52,22 @@
 
 - 設備操控由中控室人員處理
     - 中控室人員場地方會提供
-
-
 - 講者休息室
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fd6e1bbf27c17dc7fda5e16bd4f1c0fa.JPG)
     - 場地後方有給講者的休息室
-    - 由台上的人負責
+    - 由台上的人負責 / 專門安排？
     - 問題：其他軌的講者是否可以使用？
 - 講者化妝室
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_76074c97e17f942ebcf2491dd643d56e.JPG)
-    - 充當休息室使用？
+    - 充當工作人員休息室使用？
+    
+- 口譯室
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ac2b6e1555144298200ed03aa24a7974.JPG)
+    - 獨立空間，可以提供口譯老師使用
+    - 問題：需要電腦，一間口譯室要準備一台電腦（至少）讓口譯老師監看。
+    - 是否需要議程助理協助待確認。
 ### R1
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_08a100fa8788ea8d5ecc5847035b7920.JPG)
 
 - Opencall Unconf 使用
 - 人員：
@@ -71,8 +76,10 @@
     - 一人負責中控室
 - 問題：沒有講者休息室，要如何處理？
     - 會議室第一排側邊保留席
-
+    - 拉回 r0？
+    - 三樓外拉出講者休息空間？
 ### R2
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2d161ffe3f585ad50be7dc87f91b5424.JPG)
 - Opencall Unconf 使用
 - 人員：
     - 議程助理x2 
@@ -80,14 +87,21 @@
     - 一人負責中控室
 - 問題：沒有講者休息室，要如何處理？
     - 會議室第一排側邊保留席
-
-
-
+    - 拉回 r0？
+    - 三樓外拉出講者休息空間？
+### R3
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5d4473ee4da07c916c66ff0f15b6e76e.JPG)
+- 空間小
+- 目前規劃母嬰空間
+- 人員：場務人員x1?
+- 要準備的東西
+    - 玩具？
 ### 海報區
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8cb57b653f61c07ad163e4e02866b636.JPG)
 - 總共有20面白版
     - 2面負責 UNCONF
     - 1面負責閃電講報名
     - 留言板：5面？
     - 其他可以貼 summit 海報跟社群活動資訊
 - 人員：
-    - 
+    - 似乎可以跟講者或參與者報到處的人結合。
