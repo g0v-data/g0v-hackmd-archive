@@ -75,6 +75,7 @@ Slido
 - 麥克風可能只有兩隻，或許場佈時麻煩蓋蓋確認下
 - 鼓勵自備顯示轉接器
 - 離開電腦時，設定不鎖定畫面
+- 「資訊公告」OP-MSF & open congress
 
 ## 「你們是誰？」的部分
 
@@ -88,3 +89,10 @@ Slido
 - 「開放工具」講解時需要記得闡述目的性（傳承問題、成效追蹤）
     - 儀表版的部分截圖記得替換
 - 簡報筆 ><
+- 倒數工具，時間管控
+- [SITCON Timer](https://github.com/sitcon-tw/timer)
+
+### 參考
+COSCUP 討論會手法：
+- https://www.liberatingstructures.com/1-1-2-4-all/
+- https://agilecoffee.com/leancoffee/

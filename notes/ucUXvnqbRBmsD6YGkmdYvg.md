@@ -157,3 +157,7 @@ About 頁面英文修改
 
 ChatGPT 建議：https://chat.openai.com/c/50d6faed-c65a-4092-9741-0e4b621b2896
 > Cofacts originated as an open-source project in 2016. In 2023, the core members of Cofacts established an NGO named Cofacts Association in Taiwan to sustain the Cofacts community.
+
+:::success
+定稿！
+:::
