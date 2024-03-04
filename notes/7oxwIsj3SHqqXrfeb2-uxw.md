@@ -19,3 +19,12 @@ make
 ./vexctl version
 ```
 
+
+## 建立一個測試資料夾
+```
+mkdir demo
+./vexctl create "pkg:generic/product@1.0.0" CVE-1234-5678 under_investigation | tee demo/demo1.vex.json
+
+#進入到資料夾中查看
+vi demo/demo1.vex.json
+```
