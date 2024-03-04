@@ -11,6 +11,9 @@ tags: g0vernance
 
 
 ## 歷次誤用狀況：網站
+- 202403
+    - 刊載單位；自由時報
+    - https://news.ltn.com.tw/news/society/paper/1633651
 - 202310
     - 刊載單位：匯豐銀行的宣導 e-mail
     - 文宣截圖：https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH#ts-1698421014.989399

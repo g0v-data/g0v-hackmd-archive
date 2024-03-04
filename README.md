@@ -2,7 +2,10 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6811 | 2024-03-04T01:41:24+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6812 | 2024-03-04T09:00:01+08:00 |
+| [School](tags/School.md) | 8 | 2024-03-04T08:54:01+08:00 |
+| [recap](tags/recap.md) | 7 | 2024-03-04T08:50:33+08:00 |
+| [g0vernance](tags/g0vernance.md) | 43 | 2024-03-04T08:39:45+08:00 |
 | [Templates](tags/Templates.md) | 231 | 2024-03-03T23:11:31+08:00 |
 | [Book](tags/Book.md) | 145 | 2024-03-03T23:11:31+08:00 |
 | [AI](tags/AI.md) | 23 | 2024-03-02T23:54:55+08:00 |
@@ -45,8 +48,6 @@
 | [115B實驗室](tags/115B%E5%AF%A6%E9%A9%97%E5%AE%A4.md) | 11 | 2024-03-01T13:08:56+08:00 |
 | [永續所得實驗室](tags/%E6%B0%B8%E7%BA%8C%E6%89%80%E5%BE%97%E5%AF%A6%E9%A9%97%E5%AE%A4.md) | 11 | 2024-03-01T13:08:56+08:00 |
 | [GIS](tags/GIS.md) | 144 | 2024-03-01T10:05:29+08:00 |
-| [School](tags/School.md) | 7 | 2024-03-01T10:00:43+08:00 |
-| [recap](tags/recap.md) | 6 | 2024-03-01T10:00:43+08:00 |
 | [Environmental Design](tags/Environmental%20Design.md) | 1 | 2024-03-01T00:30:23+08:00 |
 | [meeting note](tags/meeting%20note.md) | 256 | 2024-02-29T21:17:51+08:00 |
 | [vtaiwan](tags/vtaiwan.md) | 9 | 2024-02-29T19:57:44+08:00 |
@@ -96,7 +97,6 @@
 | [大黑客松](tags/%E5%A4%A7%E9%BB%91%E5%AE%A2%E6%9D%BE.md) | 2 | 2024-02-21T21:45:22+08:00 |
 | [infras](tags/infras.md) | 19 | 2024-02-21T21:45:22+08:00 |
 | [tree](tags/tree.md) | 46 | 2024-02-21T15:19:45+08:00 |
-| [g0vernance](tags/g0vernance.md) | 43 | 2024-02-21T12:36:28+08:00 |
 | [g0v](tags/g0v.md) | 72 | 2024-02-21T12:36:28+08:00 |
 | [internet governance](tags/internet%20governance.md) | 6 | 2024-02-20T15:30:21+08:00 |
 | [study groups](tags/study%20groups.md) | 7 | 2024-02-20T15:30:21+08:00 |
