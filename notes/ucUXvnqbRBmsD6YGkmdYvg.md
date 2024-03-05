@@ -143,10 +143,14 @@ Bil draft CoC
       - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aff7fe2b732675b4b90f1e90a56fd071.png)
     - 14 萬人收到、萬分之2報名率 --> 開 30~40 人、預期 20 人到場？
     - Ref: [past click through rates](https://docs.google.com/spreadsheets/d/1XjEQZ9esNKfkGd8XYd1p3E8DTgB0f5QPDl5ghf-JxE0/edit#gid=0)
-- [ ] KKTIX:
+- [ ] KKTIX:https://cofacts.kktix.cc/events/cofactseditor41
 - [ ] 誰會來呢：bil, mrorz, nonumpa
 - [ ] 記得帶：貼紙、環保杯
 - [ ] LINE 文案
+Cofacts 要來到新北市舉辦志工培訓啦，三鐵共構板橋站，交通超級方便唷！
+地址：新北市青職基地 / 新北市板橋區民權路170號1樓
+時間：03月24日（日）14:00-17:00(會很準時開始)請記得攜帶筆記型電腦喔！
+活動報名：https://cofacts.kktix.cc/events/cofactseditor41
 - [ ] VOOM 發文
 
 

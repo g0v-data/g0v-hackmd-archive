@@ -191,3 +191,13 @@ Please trasfer to RUSHABH SAMIRBHAI SHAH and check, thanks
 開一般的單就可以  然後說要轉給MMT_network_L2
 Report a Non-Manufacturing Incident
 Report a Non-Manufacturing Incident - ITNow (service-now.com)
+
+
+Hi ⁠
+
+
+最近要測試一個擋USB的軟體 需要借GOUI來測試  
+
+你這邊可以借我幾台嗎? 
+
+其實就是要借我安裝個東西 然後插USB看看有沒有擋住這樣
