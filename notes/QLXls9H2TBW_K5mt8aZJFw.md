@@ -82,6 +82,7 @@ The g0v Summit 2024 Program Committee
     - 筆譯之前的經驗會很慘烈，口譯的話人力上會蠻多個的（日中、中日、日英、英日）。 [name=ichieh]
     - 聲音的發送會是問題，可能會干擾到活動。[name=ichieh]
 - [OPass app](https://opass.app) 上對參與者有幫助的資訊
-- 日文翻譯app 推薦：https://apps.apple.com/tw/app/voicetra/id581137577
-- Otter 即時英文會議紀錄：
+- [日文翻譯app(日媒推薦)：VoiceTra](https://apps.apple.com/tw/app/voicetra/id581137577)
+- [Otter](https://otter.ai/) 即時AI英文會議紀錄(英文比較準確，其他語言先PASS)
 
+- 我明天才會搬到新的共筆，在此之前都歡迎持續在這邊更新！[name=peter]
