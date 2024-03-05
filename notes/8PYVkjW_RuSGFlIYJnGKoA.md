@@ -117,10 +117,13 @@ LLM部分透過微調開源大語言模型（LLM）在此特定領域發揮效�
 
 我們希望社群協力一起做出讓使用者喜歡用並且會跟學弟妹分享的產品。
 
-### 產品架構(第一次試作)
+### 產品試作
+架構(第一次試作)
 [簡介影片](https://youtu.be/uhmLQI6gEF0)
 影片背景噪音忍耐一下...
 
+測試資料集(第一次試作,tag by gpt-3.5-turbo, chat completion by gpt-4)
+[測試資料集](https://docs.google.com/spreadsheets/d/1QMBBQWX-6hGFIh66sJs_hqaLDf2If7DMafxKGmagmIc/edit?usp=sharing)
 
 ### 2024/3/2大松提案時簡報檔案
 [簡報](https://docs.google.com/presentation/d/1DbdkOsZXAbQevztzgF19RQxlMbn5wlP5JK0liTsfAlU/edit?usp=sharing)
