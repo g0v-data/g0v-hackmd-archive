@@ -1,5 +1,5 @@
 ---
-tags:
+tags: intl,
 ---
 
 # How dbt Labs demonstrates its inclusive value by correcting Taiwan in country list

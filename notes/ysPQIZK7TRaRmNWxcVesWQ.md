@@ -1,3 +1,7 @@
+---
+tags: 
+---
+
 # uso-3166 - Website with ISO-3166 alternatives
 
 > 嘘-3166
@@ -115,6 +119,11 @@ Sort of like an extension to the site above.
 https://github.com/150/Elbb
 
 Leetspeak of ISO-3166
+
+#### GENC names
+
+ISO 3166-1 country list names considered harmful. use GENC names
+https://g0v.hackmd.io/MTJiGC49Qd6uQMKVM-2Zdw?view
 
 
 ### 授權方式
