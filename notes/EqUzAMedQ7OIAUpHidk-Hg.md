@@ -39,6 +39,7 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
         - [線上瀏覽地圖](https://thunbergii.app.carto.com/map/23a9e97b-63fc-49ca-a0c0-9f1164793c7b)
 - 需要找「縣市管河川區域」
     - 找 !
+    - 有縣市 https://gis.ardswc.gov.tw/
     - 筆記
         - 中央管河川還缺少基隆河在臺北市的河段
         - [已找過] 縣市水藍圖資料沒有這種資料 https://g0v.hackmd.io/HQ3u-wxdQRidmVycRdcTeA
@@ -135,6 +136,8 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
         - (企業裁罰) 透明足跡 https://thaubing.gcaa.org.tw/
         - 農地違章工廠資料 https://disfactory.tw/
         - 全台非法與合法露營區地點 https://g0v.hackmd.io/h7CTLUQsQbeELmMJG3fzGg?view
+        - 其他
+            - 臺北市新生大排仍然有異味，什麼樣的資料集可以推論呈現此狀況？洗車場數量、夜市規模 ..等
 - 鄰河川線一定範圍內
     - 以下資料集，可以馬上納入研判
         - 歷年衛星影像暨變異點 https://g0v.hackmd.io/rvgNUt6cRO6Z8MXiY-j1_g?view
