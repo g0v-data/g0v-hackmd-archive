@@ -44,4 +44,5 @@ https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenael
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 https://chrome.google.com/webstore/detail/wot-website-security-safe/bhmmomiinigofkjcapegjjndpbikblnp
 
-#### 常用帳號
+#### Ken暫存
+https://www.youtube.com/watch?v=A3Yx35KrSN0
