@@ -2,7 +2,10 @@
 
 ## 02/26
 1. **Lexical analysis** : 辨別單一character轉換成string or token
-2. **Semantic analysis** : (狹義)型態檢查
+
+    對token的分析會先知道是variable、function、type哪一個，在下一階段知道variable是哪個型態(eg:int)
+    
+3. **Semantic analysis** : (狹義)型態檢查
 
 e.g.
 ```clike=
