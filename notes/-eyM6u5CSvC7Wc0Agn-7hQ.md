@@ -6,6 +6,9 @@
 - 排好活動手冊後，希望能夠再到現場確認 [name=rayen]
     - 4月中可以的話，可以到現場再做一次確認
 
+## 活動場地安排
+- [summit bootstrapping](https://docs.google.com/spreadsheets/d/1H4-XxanyDrIOm9UBxqlLQg1rggWZ7QcKJX5crTy5hCk/edit?usp=sharing) 內的場地空間分頁。
+
 ## 要確認的事情：
 - 是否有議程以外的實體活動，如果有的話，我們會需要如何調整預算，要跟行政組進行討論。
     - 有海報張貼的部分 

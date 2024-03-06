@@ -1,5 +1,5 @@
 ---
-tags: jothon
+tags: 救松, jothon
 ---
 
 20200523 g0v 大松的抖內通知
