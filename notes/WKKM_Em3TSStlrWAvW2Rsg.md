@@ -212,3 +212,4 @@ Hi ⁠
 
 
 DG跟purview的差異， 專案背景，效益
+    專案背景，效益 -> cost reduction.

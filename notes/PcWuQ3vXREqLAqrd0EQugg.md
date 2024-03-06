@@ -3,6 +3,21 @@ tags: Rentea
 ---
 # g0v Summit 社群軌 x Rentea 意見收集
 
+文件授權： [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.zh_TW)
+
+## 議程資訊（講者邀請中）
+
+- 題目
+  - 可負擔的穩定租屋，我們離它有多遠？
+  - Closing the gap: achieving affordable rental housing for all
+    > 英語翻譯候選人，請見 [Gemini](https://g.co/gemini/share/a1df4cd92bd1)
+- 場次說明
+  - 想要更換冷氣，讓自己住得舒服又省電，卻得不到房東同意？
+- 講者介紹
+
+
+---
+
 ## 前情提要
 
 g0v Summit 將在 2024/05/4 中研院舉辦，g0v Summit 是 g0v 社群的雙年會，主題以公民科技 x 社群關注議題 x 當代議題為主，每次皆由不同人跳坑。
@@ -36,7 +51,7 @@ Nerd Politics v.s. 數位治理
    2. 活動執行 - 事前規劃、道具、講者邀約、活動細流、現場主持等
       - ==歡迎跳坑==
 
-## 目前方向、共識 - 可負擔的穩定租屋，我們離它有多遠？
+## 可能的題目：可負擔的穩定租屋，我們離它有多遠？
 
 ### 想要讓參與者、講者，在活動後得到的事
 
