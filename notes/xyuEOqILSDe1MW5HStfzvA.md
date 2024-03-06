@@ -62,7 +62,7 @@ tags: vtaiwan
         - 作法：這幾天 threads 在討論什麼，針對議題發文，徵集大家的意見。
         - 可否利用 llm summarize 相關的內容？
         - 承先啟後的概念
-
+- [Let's Talk on vTaiwan](https://g0v.hackmd.io/iZd1LpOETr24P5nxhbiLJA?both)
 - 衛福部看起來是有誘因的？
 - [二次元創作(虛擬產物、圖畫)受兒少性剝削條例規範限制的適切性](https://join.gov.tw/idea/detail/233df5b7-cbb8-4ffc-b8fb-5279ef84823a)
 - 機關回應
@@ -92,8 +92,16 @@ tags: vtaiwan
 
 ## TicTec 研討會
 - 目前還在找錢中，目標是不要動用到 OCF 這邊的社群基金。
-- [20240222 TiCTeC call for proposal](/Jgf-lJ-XS5q4AgXABMBFwQ?both)
-- 4月底以ㄑㄧㄢ
+    - [20240222 TiCTeC call for proposal](/Jgf-lJ-XS5q4AgXABMBFwQ?both)
+    - [vTaiwan 社群參與者參與 TicTec Conference 企劃書](/_UXdVBQwQ12NpKKDdOQYiA)
+- 4月底以前沒有額外經費的話，要決定是否要動用社群基金
+    - 動用社群基金的話，上限
+    - 先在 slack 提出這個問題，寫出規章
+    - 先訂在4/10 小聚來討論相關的內容
+    - 保護使用這個款項的人
+- 可以先把回應的文章寫好
+- 一個 talk 一個 workshop （可以討論）
+    - 
 
 ## ## 論文相關
 - 看看 Crystal 是否有更新
