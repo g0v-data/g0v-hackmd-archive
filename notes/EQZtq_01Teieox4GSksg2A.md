@@ -34,13 +34,14 @@ Chapter 4: Current Status of Civic Tech Projects and Communities in Other Asian 
 - 4-2 The Impact of East and South Asian Governments Toward Civic Tech Development and the Relationship Between Them
 - 4-3 Current Status of Youth Participation in Civic Tech Communities in Taiwan, Japan and Korea
 
-## 十年觀察：g0v 的嗨與鬆
+## Article: 十年觀察：g0v 的嗨與鬆
 
 - g0v 轉眼十年。 幾位老 g0ver 參與了尚未名之的發想階段，以及後續社群密集發展的過程，雖然近兩三年較少貢獻，十年週期觸發了一些對發起人的提問，我們都有一點感想和整理，ipa clkao Kirby 三人遂共寫這篇文。
 - https://clkaozh.substack.com/p/g0v-first-decade
 
-## chewei:  project 
+## chewei: Introduction of civic tech project combining spatial issues with crowdsourcing model
 
+slide
 https://docs.google.com/presentation/d/1EwCP6FM0WAABx0mmweKt68vDDJhF5nD4eEzxb9Pv_6M/edit?usp=sharing
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSB8B5xDeSh9GaEUxapIIYRkPQug35qQmSoGz941ryZbtPwHzYJlh1G71gLFF3NebNCRShMw-iWheRx/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="490" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
