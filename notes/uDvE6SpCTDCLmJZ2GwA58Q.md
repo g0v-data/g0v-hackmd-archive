@@ -171,6 +171,7 @@ tags: 新生流域
     - 為什麼取名「新生」？
     - 尚未加蓋的新生北路的水路，好像是有機會看到水面倒影中的圓山？新生南路，可能在大安森林公園段，可以映射蟾蜍山？
     - 龍瑛宗 是否有描繪臺北內水的作品？https://zh.m.wikipedia.org/zh-tw/%E9%BE%8D%E7%91%9B%E5%AE%97
+    - 基隆河舊河道表演藝術中心開挖相關探討 https://www.facebook.com/story.php?story_fbid=pfbid0aUxwbGiNNZ4z7jHotZYARv8uBZ1q3gfHEDzsYzXgdnuqGJwg3zyPJbpMQXZDBzRPl&id=100000270465918&mibextid=WC7FNe
 
 其他水域案例
 - 紐約高線公園 https://www.facebook.com/share/p/hyXmMpRmggQCA4nQ/
