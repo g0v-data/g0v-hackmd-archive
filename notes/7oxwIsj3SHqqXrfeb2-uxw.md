@@ -20,15 +20,26 @@ make
 ```
 
 
-## 建立一個測試資料夾
+## 進行驗證
 ```
-mkdir demo
-./vexctl create "pkg:generic/product@1.0.0" CVE-1234-5678 under_investigation | tee demo/demo1.vex.json
+./vexctl filter ./examples/sarif/nginx-trivy.sarif.json ./examples/sarif/sample-1statement.openvex.json > johnson0307.json
 
-#進入到資料夾中查看
-vi demo/demo1.vex.json
+#nginx-trivy.sarif.json >> trivy的報告
+#sample-1statement.openvex.json  >> 使用者的白名單
+#johnson0307.json >> filter後的json文字 
 ```
 
-Vex 可以記錄過去的歷程
+必對過後的成果截圖
+
+小結論
+VEX 是一個JSON-LD 文件，滿足VEX最低需求
+其目的是「關閉」已知不影響產品的漏洞警報。
+VEX 可以被視為「漏洞白名單」。使用 VEX，可以向使用者傳達易受攻擊的元件對其產品沒有安全影響的訊息。
+
+
+VEX 可以記錄過去的歷程
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5ae44d038a5ad44d849fa8f290f45e82.png)
+
+
+可透過vexctl 進行VEX文件的建立與過濾
 
