@@ -2,347 +2,347 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [責任投資 / 責任消費相關機制蒐集](../notes/IOBJ82JSRFuodkB-M2FXFg.md) | 2024-03-01T21:20:18+08:00 | 2016-02-20T04:31:44+08:00 |
-| 2 | [Geodesign Process](../notes/pobpQEODQOeVGfxi9hMErQ.md) | 2024-02-29T12:53:41+08:00 | 2015-08-24T14:07:09+08:00 |
-| 3 | [食物系統規劃與食物公共政策](../notes/skGo9n_eSDWyhS9VHJgR9Q.md) | 2024-02-27T10:40:17+08:00 | 2015-04-22T19:00:20+08:00 |
-| 4 | [地號轉地圖 Land No. Mapper](../notes/uFhBRHrnR-yvvFD4ZEn3XA.md) | 2024-02-23T13:52:13+08:00 | 2014-11-02T00:15:35+08:00 |
-| 5 | [UX](../notes/pK9TJVNZThKAdiMnm2D5dg.md) | 2024-01-19T21:39:10+08:00 | 2015-12-05T01:46:43+08:00 |
-| 6 | [2014著作權法修正案意見比較表](../notes/ypmhHcUWTNeBpPoD-lJL0A.md) | 2024-01-18T13:37:32+08:00 | 2014-08-02T16:45:24+08:00 |
-| 7 | [［草稿］版權  著作權小幫手](../notes/piTvH44dTo-K4LAySXbB0w.md) | 2024-01-18T13:37:24+08:00 | 2014-01-07T00:39:02+08:00 |
-| 8 | [2014-2015著作權法修正草案 billab 勘誤](../notes/lP17YRkTQ-WL8TnTy43Khw.md) | 2024-01-18T13:36:47+08:00 | 2015-06-13T11:35:44+08:00 |
-| 9 | [CC.tw x g0v文化部](../notes/5va34DTxRQmXZrBU5BKv-g.md) | 2024-01-18T13:35:19+08:00 | 2014-01-16T20:30:54+08:00 |
-| 10 | [關鍵句 / Known Knowns / The Solution Buffet](../notes/W1Jlr8czSvC3Raxsp0LYcQ.md) | 2024-01-02T21:30:23+08:00 | 2014-08-04T13:14:07+08:00 |
-| 11 | [0media / 職業災害分析](../notes/6U3Ip-5VQmyKXdfY8qUqtA.md) | 2024-01-01T22:18:28+08:00 | 2014-03-12T23:21:30+08:00 |
-| 12 | [災害預防資訊平台](../notes/4VV2YiDVSX2yue0yMREzOw.md) | 2024-01-01T22:18:05+08:00 | 2016-05-15T16:23:17+08:00 |
-| 13 | [⭐ g0v 黑話及語錄](../notes/hosZS2MqRR-JLwhomnDU3w.md) | 2023-10-05T16:16:50+08:00 | 2013-08-06T02:38:11+08:00 |
-| 14 | [人口推估與電信信令人口資料](../notes/54WWSj6eRdO8Zvot81Xwpg.md) | 2023-09-21T21:13:35+08:00 | 2016-07-30T17:24:48+08:00 |
-| 15 | [《Tokyo River Story》筆記](../notes/stzh1hcKTrazgvzh7gXrxQ.md) | 2023-09-13T18:19:16+08:00 | 2016-02-20T00:46:57+08:00 |
-| 16 | [g0v 行為守則 g0v Code of Conduct](../notes/XPzJRxsHT2CaOO5WZ5r-BA.md) | 2023-08-29T14:40:54+08:00 | 2017-08-21T11:57:16+08:00 |
-| 17 | [Crowd Planning System / Prototype](../notes/BZMhGoJbRcmSuG5-SS9rOg.md) | 2023-07-21T20:03:19+08:00 | 2014-08-21T06:51:01+08:00 |
-| 18 | [常用專業英文](../notes/VLwN_eOKSg6W4RZ32XZg5A.md) | 2023-07-20T05:58:13+08:00 | 2014-11-13T20:37:18+08:00 |
-| 19 | [心家園：「臨時住宅與永久屋」建築設計與社區規劃的開放資料庫](../notes/olnqQ0J_SFat0aaScjUDRw.md) | 2023-07-02T20:06:22+08:00 | 2015-05-17T02:51:24+08:00 |
-| 20 | [Open Space / Civic Space / Revitalization](../notes/n_oNnC62TrmCQrsYGcL5lw.md) | 2023-06-30T21:54:36+08:00 | 2014-07-13T14:33:51+08:00 |
-| 21 | [臺北市政府公有資產資源平臺構想與實作歷程](../notes/WN_QBpNpQtO1oxd_r4IIjQ.md) | 2023-05-11T01:35:40+08:00 | 2016-12-30T16:30:05+08:00 |
-| 22 | [hackpad 搬運紀錄](../notes/NYVcW7HXTcK0c7cwtHQTnQ.md) | 2023-04-12T22:22:31+08:00 | 2022-09-22T18:01:44+08:00 |
-| 23 | [[舊的] 什麼是「開放」？](../notes/PQWR1OMuTOeawXsRfB6XUQ.md) | 2023-04-12T22:19:45+08:00 | 2014-08-11T21:43:15+08:00 |
-| 24 | [vTaiwan社群FB社團說明文件](../notes/2b3sgUhTRCSSntpgLiRHOQ.md) | 2023-04-10T10:20:52+08:00 | 2018-01-16T12:22:28+08:00 |
-| 25 | [{公投法透明化平台}](../notes/J0ZB-7pwQ5SmWZUMZMtM0Q.md) | 2023-02-14T10:17:26+08:00 | 2014-04-29T10:28:52+08:00 |
-| 26 | [ERS(急診整合救護系統)](../notes/imMv7qtiRIqVCacq-Xml9A.md) | 2023-02-13T22:07:47+08:00 | 2015-06-30T10:18:00+08:00 |
-| 27 | [散步上月球](../notes/E4lM5KL0Q8WNmEDIx_Umlg.md) | 2023-02-02T22:43:03+08:00 | 2015-04-24T08:22:05+08:00 |
-| 28 | [阿美語萌典計畫 Mikasoy](../notes/vcsqRGSERKar4tQLiyRn4g.md) | 2023-01-30T20:54:50+08:00 | 2016-03-02T16:46:55+08:00 |
-| 29 | [《金權城市》](../notes/3V8hLfWMS7OW6R1xEgjckg.md) | 2023-01-27T01:23:38+08:00 | 2014-11-18T06:19:04+08:00 |
-| 30 | [從資料看台北](../notes/PUGcXl1TRrKy9TUdUORFCQ.md) | 2023-01-18T18:54:16+08:00 | 2015-09-01T00:39:02+08:00 |
-| 31 | [開放政治獻金](../notes/ZvOb3i_GR0ODjXurSgY4pQ.md) | 2022-12-23T17:04:08+08:00 | 2013-12-17T20:25:03+08:00 |
-| 32 | [[舊的]Area Information 地區尺度的演變歷程資訊](../notes/s5ClfpaSS_uQGXNus0WJ_Q.md) | 2022-12-14T20:16:40+08:00 | 2015-08-31T21:58:32+08:00 |
-| 33 | [[舊的]環境演變歷程：文本蒐集](../notes/EaQdSpIJQj6QBVtkqun-Hg.md) | 2022-12-14T20:08:20+08:00 | 2016-01-05T23:06:17+08:00 |
-| 34 | [[舊的]都市樹木與行道樹資料](../notes/LH-MIh5QSUK5KUYtWe-nww.md) | 2022-12-14T20:01:12+08:00 | 2015-04-09T17:01:40+08:00 |
-| 35 | [濕地與乾式滯洪空間-資料盤點](../notes/xcshzXt6Ro2NiD5BWDlr8w.md) | 2022-12-14T19:29:22+08:00 | 2017-08-08T19:20:47+08:00 |
-| 36 | [地圖告解室 Mapfessional](../notes/s7OCkk5pTJ6XUFgXZ6zJ-Q.md) | 2022-12-14T19:27:30+08:00 | 2015-08-24T22:25:41+08:00 |
-| 37 | [Issue-Mapping 蒐集案例](../notes/G25BdKZaRjCFXm_YmZtK2w.md) | 2022-12-14T19:24:52+08:00 | 2014-11-28T01:40:48+08:00 |
-| 38 | [城市建築地圖案例蒐集](../notes/71KY5QYqTZKxCkFgwFmpVg.md) | 2022-12-14T19:22:53+08:00 | 2016-02-18T17:00:51+08:00 |
-| 39 | [基隆市政府公有資產資源平臺構想與實作歷程](../notes/kXgIY_KzQN2uOhMYQW-JQw.md) | 2022-12-10T19:08:04+08:00 | 2020-12-18T23:52:26+08:00 |
-| 40 | [什麼是](../notes/dprd3pkUTjqJuRwD4clLiA.md) | 2022-11-27T23:13:08+08:00 | 2017-02-21T00:45:39+08:00 |
-| 41 | [水](../notes/LVHnV9ZkQL6WcCkPpbMcmw.md) | 2022-11-24T15:53:11+08:00 | 2014-08-01T23:54:19+08:00 |
-| 42 | [台灣 參與預算提案與追蹤 地圖](../notes/WFWQniENSqKj-azSnt2nBg.md) | 2022-10-10T16:58:56+08:00 | 2016-08-06T09:25:55+08:00 |
-| 43 | [地址轉經緯度](../notes/i6MO2ddVQ8iMy1jSp9vVog.md) | 2022-08-03T18:47:03+08:00 | 2016-08-24T23:18:23+08:00 |
-| 44 | [Questions for the g0v.tw community / 提問](../notes/WdAey3rVQhSxlkDVV_XT0w.md) | 2022-07-06T10:06:29+08:00 | 2014-03-01T00:13:25+08:00 |
-| 45 | [g0v大中小松地點收集區 + 咖啡館情報](../notes/sKIQhNRdQsmBZb_hMmTxcQ.md) | 2022-06-23T05:51:24+08:00 | 2013-12-24T00:32:20+08:00 |
-| 46 | [g0v jothon 清大學生採訪](../notes/HNaP-7Z5SL-CNMoQAhX1tg.md) | 2022-04-14T16:17:43+08:00 | 2022-03-10T19:05:15+08:00 |
-| 47 | [公開資料：食譜](../notes/RBZSJRMzTdigNa2ElurZfg.md) | 2022-02-25T20:58:32+08:00 | 2017-07-13T23:13:23+08:00 |
-| 48 | [獎勵容積在臺灣](../notes/sz1dOZrwR32kHjRPnr4bzg.md) | 2021-11-28T19:50:56+08:00 | 2014-11-18T05:09:02+08:00 |
-| 49 | [開放都市計畫-南港區都市計畫通盤檢討](../notes/FztgySy0QtGu3w9PNDJBug.md) | 2021-10-11T10:04:00+08:00 | 2021-10-11T10:04:00+08:00 |
-| 50 | [公示資料（統編）查詢系統](../notes/LCg2etJkQjGXxfPCfBrYpA.md) | 2021-10-06T10:16:03+08:00 | 2014-11-05T17:36:48+08:00 |
-| 51 | [Data-Centric Government 的二十大類資料](../notes/QljC5-WaT-egG1ZkwNBc1g.md) | 2021-10-03T19:27:56+08:00 | 2015-01-23T13:13:23+08:00 |
-| 52 | [防災開放資料應用典範](../notes/afbw37qGRnOtQ5YQn-M_dw.md) | 2021-10-01T19:46:20+08:00 | 2017-07-14T04:35:10+08:00 |
-| 53 | [g0v characters專案角色創作邀請](../notes/LDAvG_PzQ9CY3dxGd79xjg.md) | 2021-09-18T17:53:03+08:00 | 2014-09-30T11:33:09+08:00 |
-| 54 | [台北市總預算書討論](../notes/Wma00pdSSyq5nSbNJFQ0aQ.md) | 2021-08-28T19:43:34+08:00 | 2015-08-27T12:01:05+08:00 |
-| 55 | [20140614 前端教學松：ly zorro 教學 / ve 學習筆記](../notes/WClQY28cSSGvyls2cMdAaQ.md) | 2021-08-23T15:01:40+08:00 | 2014-06-14T15:20:46+08:00 |
-| 56 | [分析都市閒置公有空間](../notes/uVWrhoVRToqvBU7yIU3_8g.md) | 2021-08-20T13:43:39+08:00 | 2021-05-14T20:18:35+08:00 |
-| 57 | [政策偵測器](../notes/GNl2eBfDQ2KrFojYdpKKYg.md) | 2021-08-16T01:11:24+08:00 | 2014-09-13T00:54:20+08:00 |
-| 58 | [設計師圖鑑](../notes/wLfdeXWbS1SMxTAV0-hT-A.md) | 2021-08-13T11:27:48+08:00 | 2014-11-27T00:21:35+08:00 |
-| 59 | [吉祥物與代言角色、キャラクター、Mascot](../notes/LLBsIRKaQYmtEKgwoBJIag.md) | 2021-08-11T22:02:51+08:00 | 2015-08-15T16:32:23+08:00 |
-| 60 | [開源出版 / 開源取向的知識內容構成方法](../notes/ENYaqiJoTyCR3MVg-zL3Fw.md) | 2021-08-10T22:11:06+08:00 | 2015-11-03T15:58:41+08:00 |
-| 61 | [定期定鵝 - NGO/NPO 的穩定財源](../notes/O-VVEvJVSkCeHrrGfwBZcQ.md) | 2021-08-06T22:02:10+08:00 | 2016-05-22T23:24:41+08:00 |
-| 62 | [ng0v - 從 ngo 到 g0v](../notes/NRFG6JZTRmumf7tW3e_guw.md) | 2021-08-06T21:57:53+08:00 | 2014-05-01T21:46:19+08:00 |
-| 63 | [NG0](../notes/dB5wYqeiQ2qWqPtwYF3ZQA.md) | 2021-08-06T21:54:10+08:00 | 2014-11-09T18:03:52+08:00 |
-| 64 | [分析都市閒置公有空間](../notes/6mdj9EWxTLelvM16RFnaZQ.md) | 2021-07-25T18:26:52+08:00 | 2021-07-25T18:26:52+08:00 |
-| 65 | [公立動物收容所資訊統整系統](../notes/ABbLzAddS36MvwPtMonMbw.md) | 2021-07-25T02:41:47+08:00 | 2015-03-25T16:18:48+08:00 |
-| 66 | [Terms 術語製造](../notes/JyvWJoPoT0-ZY4qrASn_yQ.md) | 2021-07-17T00:25:28+08:00 | 2017-08-08T21:53:56+08:00 |
-| 67 | [實體場域與空間的線上標註](../notes/EOuYzZ-dQIWo7J-E8dPB7A.md) | 2021-07-16T22:33:09+08:00 | 2018-02-09T22:28:31+08:00 |
-| 68 | [公民科技課程短片](../notes/yPcsB-H-Q_q6pydCpuWodA.md) | 2021-07-11T18:08:47+08:00 | 2017-08-14T00:32:43+08:00 |
-| 69 | [別人可以我們不行？Open Source CMS 導入政府之濫觴與爛傷 ＠ COSCUP 2014 / Jimmy Huang](../notes/ea3gPGToSQCPf9wUNvhwWg.md) | 2021-07-10T00:18:49+08:00 | 2014-07-25T15:41:58+08:00 |
-| 70 | [政府 IT 委外制度，引入開源碼發展模式可能性研究既建議草稿](../notes/2rwO1fHBStS7pMbdeBKlGA.md) | 2021-07-09T17:40:46+08:00 | 2013-12-09T23:17:54+08:00 |
-| 71 | [新政府吳政忠政委與郭耀煌執秘邀請與會](../notes/zQCRxyJuTZ6_iu4HLMbWWw.md) | 2021-07-06T02:24:36+08:00 | 2016-05-24T00:27:56+08:00 |
-| 72 | [憲法心理測驗：你適合哪種制度？](../notes/-RTdaKliR1-nWvPWNsnG1g.md) | 2021-07-05T23:20:06+08:00 | 2015-01-31T14:14:51+08:00 |
-| 73 | [開放都市計畫- 都市計畫書資料庫化](../notes/-ANGwv0QRGu70B7dDMKIEg.md) | 2021-07-05T21:37:59+08:00 | 2015-04-08T09:46:45+08:00 |
-| 74 | [數位政委：g0v x gov 的新挑戰](../notes/sgcAKlY5S2GXQySNnOCoSw.md) | 2021-07-05T20:30:11+08:00 | 2016-08-25T11:04:59+08:00 |
-| 75 | [g0v Foreign Policy \| 零時政府外交政策](../notes/jwZx-YooQNKkKCQHFg-6qA.md) | 2021-07-05T20:16:21+08:00 | 2014-01-05T14:48:23+08:00 |
-| 76 | [g0v <-> gov 合作計畫](../notes/9cyDFai0SdelBCigUnzLqg.md) | 2021-07-05T20:12:52+08:00 | 2014-02-07T17:08:37+08:00 |
-| 77 | [臺灣的體育預算跟選手待遇／比較一覽／網站建置計劃](../notes/B_EErJgGQWiDjwXRI8MqSA.md) | 2021-06-26T01:24:12+08:00 | 2016-08-09T05:56:58+08:00 |
-| 78 | [可追蹤的預算視覺化](../notes/PG2_eu6oSd6cBd4Ow4FKwg.md) | 2021-06-26T01:23:07+08:00 | 2016-12-23T18:50:19+08:00 |
-| 79 | [budget.g0v.tw - 中央政府總預算](../notes/HmEg-SxTQyC62kweYaXwGA.md) | 2021-06-26T01:22:43+08:00 | 2013-09-07T12:19:04+08:00 |
-| 80 | [2018 政府總預算更新情況](../notes/tc_Y8-b_Qd-oyGCjQtWzwA.md) | 2021-06-26T01:21:59+08:00 | 2018-01-30T20:21:15+08:00 |
-| 81 | [韓國EBS Docuprim 以「青年」為題紀錄片訪問g0v社群](../notes/Q3dafRPSRYClF-fTx_qo6A.md) | 2021-06-21T00:42:45+08:00 | 2016-08-15T03:18:22+08:00 |
-| 82 | [2016-02-01 桃園市政府開放資料論壇紀錄](../notes/htKcnzsFSfS_QyL-t6MQOA.md) | 2021-06-20T10:41:17+08:00 | 2016-02-03T10:19:55+08:00 |
-| 83 | [揪地霸 (9d8.tw)](../notes/L_v7mAAyT8GT-c_ukR9IYQ.md) | 2021-06-18T01:27:37+08:00 | 2014-11-18T15:29:33+08:00 |
-| 84 | [自主學習-如何成為未來職場需要的自由人材(中) 逐字稿](../notes/0oygBIQuSBeV-81uARx-7A.md) | 2021-06-11T17:43:41+08:00 | 2014-01-16T11:00:15+08:00 |
-| 85 | [自主學習-如何成為未來職場需要的自由人材(下) 逐字稿](../notes/nMWSZO8DS-ewkAB_He78FQ.md) | 2021-06-11T17:43:31+08:00 | 2014-01-16T14:45:53+08:00 |
-| 86 | [自主學習-如何成為未來職場需要的自由人材(上) 逐字稿](../notes/YVQF9-WST7yBtTqrDO3R5Q.md) | 2021-06-11T17:43:14+08:00 | 2014-01-15T15:36:11+08:00 |
-| 87 | [projecthub redux](../notes/FS-v3Y9HTyqwspaJo0Kgxw.md) | 2021-06-03T03:27:46+08:00 | 2016-06-12T11:34:15+08:00 |
-| 88 | [地震資訊的視覺化](../notes/HrrKhOEeSqWoY4PQXQPZ-w.md) | 2021-02-16T12:02:28+08:00 | 2014-09-14T23:59:28+08:00 |
-| 89 | ["網軍分身" vs "正常使用者" Classification](../notes/4P2Doe5BTDaEWeMxyDMcLw.md) | 2020-12-14T09:21:29+08:00 | 2015-04-02T04:58:00+08:00 |
-| 90 | [友善地號資訊查詢界面](../notes/JqrcXx6iQxyK3iYEQGNnOQ.md) | 2020-10-07T18:26:15+08:00 | 2015-02-14T17:43:16+08:00 |
-| 91 | [g0v Summit 票務組 SOP](../notes/xLmrvvCoSc-L0sKbkWQPTQ.md) | 2020-09-21T20:35:20+08:00 | 2016-05-28T14:43:45+08:00 |
-| 92 | [自己的公園自己顧- 先來找資料](../notes/1BzXRDKyR9G-Q03se5_c9g.md) | 2020-08-06T01:25:27+08:00 | 2016-06-12T15:58:52+08:00 |
-| 93 | [City Science Andorra](../notes/efV5__MvTu2aH9Bpg08VTQ.md) | 2020-08-03T23:56:21+08:00 | 2018-04-16T23:36:38+08:00 |
-| 94 | [vTaiwan 外媒採訪常見 QA](../notes/OfMmFJ9-TAaDXo13AiifEg.md) | 2020-07-25T17:08:43+08:00 | 2018-02-27T21:30:25+08:00 |
-| 95 | [生命力新聞網採訪：你被服貿了嗎](../notes/zzMfWROhQMuHBgWrA_SuqQ.md) | 2020-05-19T19:05:07+08:00 | 2014-04-30T23:03:01+08:00 |
-| 96 | [責任消費相關機制蒐集](../notes/YIGV-v-OSAKZTNwAh_HG1A.md) | 2020-04-29T16:09:33+08:00 | 2020-04-29T16:09:33+08:00 |
-| 97 | [Bifrost 物資管理平台](../notes/ZmXAHmjRQtWVhG1F3yLUaw.md) | 2020-04-07T17:34:56+08:00 | 2015-03-09T18:05:31+08:00 |
-| 98 | [全國海岸淨灘認養：資料應用與網站功能](../notes/63Q8u3umR-Cx7_vE_JwGaA.md) | 2020-04-07T09:40:25+08:00 | 2017-06-21T22:14:16+08:00 |
-| 99 | [翻譯、字幕、逐字稿，多國語言素材處理相關工具收集區](../notes/xho919gLRC6LDp5-X-9yig.md) | 2020-03-24T22:37:30+08:00 | 2020-03-24T22:37:30+08:00 |
-| 100 | [逐字稿打字坊](../notes/hFeqjhtQR66LWe3pTBBhDg.md) | 2020-03-24T22:35:17+08:00 | 2020-03-24T22:35:17+08:00 |
-| 101 | [自主學習-如何成為未來職場需要的自由人材(中) 逐字稿](../notes/d43lyG-LRw-MuQobD7oI3A.md) | 2020-03-24T20:45:35+08:00 | 2020-03-24T20:45:35+08:00 |
-| 102 | [g0v 零時空汙觀測專案](../notes/QeNRXR7XQQK7JU0vRrnEYA.md) | 2020-03-24T00:23:02+08:00 | 2016-02-21T13:42:10+08:00 |
-| 103 | [g0v 零時空汙觀測專案-自造測站推廣共筆](../notes/Wba8eDUlSHiyWkgVqn9L-w.md) | 2020-03-23T23:48:39+08:00 | 2016-03-13T20:01:05+08:00 |
-| 104 | [g0v 零時空汙觀測專案-感測器開發共筆](../notes/4UkEbzLgTUu5Oh_Rypol5g.md) | 2020-03-23T23:35:41+08:00 | 2016-03-13T19:54:39+08:00 |
-| 105 | [g0v 零時空汙觀測專案-網站開發共筆](../notes/p7-8t6kCQvWy-49C6zMgBg.md) | 2020-03-23T23:35:04+08:00 | 2016-03-13T19:36:25+08:00 |
-| 106 | [開放政府資料法](../notes/MZC4p1QMQZ6WRAPuYUuxtA.md) | 2020-03-19T09:21:01+08:00 | 2014-12-10T19:29:10+08:00 |
-| 107 | [g0v Media Policy \| 零時政府媒體政策](../notes/kqQGe6yhQgWFIya5Ztvajg.md) | 2020-03-18T17:26:53+08:00 | 2014-04-01T03:45:40+08:00 |
-| 108 | [magic-mirror](../notes/udz_FWEyQam4ELryYIy5OA.md) | 2020-03-01T11:13:35+08:00 | 2013-08-13T03:43:25+08:00 |
-| 109 | [社會運動維基條目修改計畫](../notes/RFrH1BYyQAS59_RvX2o2Jg.md) | 2020-02-18T23:17:21+08:00 | 2014-04-21T12:08:49+08:00 |
-| 110 | [中文處理工具簡介](../notes/fR51fyEcQYOVIGSCanO3TA.md) | 2020-01-11T23:12:24+08:00 | 2014-11-14T16:13:46+08:00 |
-| 111 | [組黨平台計畫](../notes/JWsy52iTSi2EtW6Xo7WUyQ.md) | 2019-12-25T15:32:38+08:00 | 2014-03-23T15:34:15+08:00 |
-| 112 | [g0v International Exchange and Cooperation](../notes/MgQJF7G6QEq2iTcYXqaIPQ.md) | 2019-12-22T10:44:36+08:00 | 2016-09-26T14:00:07+08:00 |
-| 113 | [形形色色的 g0v 參與者](../notes/2w7fQ5AsTCi1-J4OSADsyQ.md) | 2019-12-05T16:46:45+08:00 | 2013-08-06T02:21:10+08:00 |
-| 114 | [自稱 g0ver 的幾種方式](../notes/jg7ewPO1Sbejnpr7cdj5Lg.md) | 2019-11-22T12:16:48+08:00 | 2014-04-07T04:42:41+08:00 |
-| 115 | [中文處理工具簡介](../notes/m-RINa4PQW6s8esyMbzb0w.md) | 2019-08-25T22:59:21+08:00 | 2019-08-25T22:58:28+08:00 |
-| 116 | [開源義肢研究與行動](../notes/3nBponS1QRew01_RTyd2uw.md) | 2019-07-22T01:38:23+08:00 | 2014-07-13T04:41:30+08:00 |
-| 117 | [localwiki export / import](../notes/ii9pkOA8QMu_gizAaKXQdA.md) | 2019-07-10T06:48:12+08:00 | 2016-03-05T11:38:31+08:00 |
-| 118 | [中文處理工具簡介](../notes/4XaU7bjPQ-OqJJPoTgzN5g.md) | 2019-07-08T09:49:02+08:00 | 2019-07-08T09:49:02+08:00 |
-| 119 | [初步盤點國內外資訊與資料現有法令](../notes/LhovFHaaTcuBRswURjmQkg.md) | 2019-06-12T12:17:53+08:00 | 2017-08-01T18:39:05+08:00 |
-| 120 | [［懶人包系列］如何舉辦一個小松](../notes/ONV4jcgpRTaKVr3q_CWMQw.md) | 2019-05-25T19:41:10+08:00 | 2016-06-21T17:50:48+08:00 |
-| 121 | [vTaiwan小松參加指南](../notes/iO-N0He4QVGJUhayTMZlfw.md) | 2019-05-21T23:38:20+08:00 | 2017-11-11T10:03:56+08:00 |
-| 122 | [拆解開放資料諮詢小組](../notes/SsNxcblRQFuu70G2Z4gOEw.md) | 2019-05-01T21:57:31+08:00 | 2017-09-16T10:01:36+08:00 |
-| 123 | [Womany x vTaiwan 問卷調查](../notes/AC1VZSbQTwmOwJLptPf8Ww.md) | 2019-04-09T00:31:13+08:00 | 2018-08-22T16:09:10+08:00 |
-| 124 | [vTaiwan.tw 運作流程](../notes/_ehkmIYDQLKlHp-tDHO8gg.md) | 2019-04-09T00:25:44+08:00 | 2015-01-26T01:22:39+08:00 |
-| 125 | [關於vTaiwan](../notes/cgZ0mJg2Q22dScGm2JrGGA.md) | 2019-04-08T01:28:03+08:00 | 2015-08-17T19:17:06+08:00 |
-| 126 | [vTaiwan 改版](../notes/cNszrWLxSFOJMbJQmD_1oA.md) | 2019-04-08T01:13:52+08:00 | 2016-10-11T14:11:21+08:00 |
-| 127 | [vTaiwan 介面 2.0](../notes/te-2qbYrSv-zER-J_ie1Lg.md) | 2019-04-08T01:11:39+08:00 | 2015-04-24T15:55:39+08:00 |
-| 128 | [9/21 vTaiwan 線上諮詢會議：遙控無人機應用與管理機制](../notes/FX_-KLU7Swq38A2c8XiDAQ.md) | 2019-04-07T23:53:32+08:00 | 2017-09-21T18:53:06+08:00 |
-| 129 | [vTaiwan 社會企業公司法](../notes/V1S_M_OeT6iRPCBLKD8I3w.md) | 2019-04-07T23:52:55+08:00 | 2017-08-09T22:22:28+08:00 |
-| 130 | [vTaiwan 2018.02.14 小松](../notes/DbA0Tj7LRYSezEVb_6fkDw.md) | 2019-04-07T23:50:05+08:00 | 2018-02-14T17:22:56+08:00 |
-| 131 | [20180418 vTaiwan小黑客松](../notes/GLFJbfOjQM-wrILTXmJCMQ.md) | 2019-04-07T23:49:56+08:00 | 2018-04-18T21:07:29+08:00 |
-| 132 | [20180516 vTaiwan小黑客松](../notes/bEeNaO4FQdG-0h50FuUa3w.md) | 2019-04-07T23:49:43+08:00 | 2018-05-21T10:10:05+08:00 |
-| 133 | [20180822 vTaiwan小黑客松](../notes/XiLbCsPCTkOvRiV0NWVJjQ.md) | 2019-04-07T23:49:29+08:00 | 2018-08-19T23:34:05+08:00 |
-| 134 | [vTaiwan小松2017/10/18](../notes/LEZK1NKIQ2mZeojVvtpDbQ.md) | 2019-04-07T23:48:31+08:00 | 2017-10-18T17:24:42+08:00 |
-| 135 | [vtaiwan 小松會議 2017.07.12](../notes/ByZqvHQAS5KfuZp66PxelQ.md) | 2019-04-07T23:47:41+08:00 | 2017-04-19T16:15:38+08:00 |
-| 136 | [20180718 vTaiwan小黑客松](../notes/VEPBYyjIRGCKRKUxBS30UA.md) | 2019-04-07T23:47:13+08:00 | 2018-07-11T21:27:06+08:00 |
-| 137 | [vTaiwan 小松 2017.04.19](../notes/XngiZL55Q3iQ3rWzKY0hYQ.md) | 2019-04-07T23:44:03+08:00 | 2017-04-19T15:12:55+08:00 |
-| 138 | [vTaiwan 小松 2017.05.24](../notes/YvRZPL_XQC2fu1DfMCvoug.md) | 2019-04-07T23:43:53+08:00 | 2017-05-24T15:21:00+08:00 |
-| 139 | [vtaiwan 小松 2017.06.07](../notes/vtSwqqNmTwuqO4pKLLkRzw.md) | 2019-04-07T23:43:43+08:00 | 2017-06-02T17:19:13+08:00 |
-| 140 | [2017.05.17 vTaiwan 小松](../notes/ajmg19VdRV-GHuO90Pr3MQ.md) | 2019-04-07T23:43:26+08:00 | 2017-06-02T17:16:36+08:00 |
-| 141 | [vTaiwan 小松 2017.03.22](../notes/beqiV9PVS_iPxMyj6jgoag.md) | 2019-04-07T23:43:10+08:00 | 2017-03-22T17:36:52+08:00 |
-| 142 | [vTaiwan小松2017.03.08](../notes/oWNSn3HGSXevekhIfS-c4w.md) | 2019-04-07T23:43:00+08:00 | 2017-03-08T15:58:37+08:00 |
-| 143 | [vtaiwan 小松 2017.02.22](../notes/BseKWiMUSTOkobdTcmOevA.md) | 2019-04-07T23:42:49+08:00 | 2017-02-22T18:49:39+08:00 |
-| 144 | [vtaiwan 小松 2017.02.15](../notes/A1_5cyNxQ5m3iGnPP5GIYQ.md) | 2019-04-07T23:42:35+08:00 | 2017-02-15T15:26:51+08:00 |
-| 145 | [vtaiwan 小松 2017.02.10](../notes/C17TCH8aT0SRLxEtuiGiCw.md) | 2019-04-07T23:42:16+08:00 | 2017-02-10T16:49:57+08:00 |
-| 146 | [vTaiwan 小松會議記錄 2017.02.03](../notes/dGrLVzodQAaGbttxYu0K0w.md) | 2019-04-07T23:42:07+08:00 | 2017-02-03T14:04:00+08:00 |
-| 147 | [vTaiwan 小松 2016.12.30](../notes/82lsLWTQQnao7UjxRSjj4Q.md) | 2019-04-07T23:41:58+08:00 | 2017-01-03T13:27:28+08:00 |
-| 148 | [2016-10-08 vTaiwan 小松紀錄](../notes/GbtMn86wQq61Q6A8zYDaKQ.md) | 2019-04-07T23:41:45+08:00 | 2016-10-08T16:13:59+08:00 |
-| 149 | [vTaiwan 2016-10-22 小松](../notes/CXeYG_lTT72vhbCdYoEcog.md) | 2019-04-07T23:41:35+08:00 | 2016-10-22T14:06:39+08:00 |
-| 150 | [2016-09-02 vTaiwan小松紀錄](../notes/WS_xSM54RrynSZsFVzblcg.md) | 2019-04-07T23:41:27+08:00 | 2016-09-05T18:11:55+08:00 |
-| 151 | [2016-08-26 vTaiwan 小松紀錄](../notes/0bQxMhmuSuWaEjNUVFhkJA.md) | 2019-04-07T23:41:20+08:00 | 2016-08-28T03:16:52+08:00 |
-| 152 | [2016-08-12 vTaiwan 小松紀錄](../notes/U5ALtOvaTwu5_KTTbupeSw.md) | 2019-04-07T23:41:11+08:00 | 2016-08-11T23:22:59+08:00 |
-| 153 | [2016-08-05 vTaiwan 小松紀錄](../notes/luP7PqUDRL2oS0je59hOCw.md) | 2019-04-07T23:41:02+08:00 | 2016-08-11T22:06:48+08:00 |
-| 154 | [2016-07-29 vTaiwan 小松紀錄](../notes/asB3_rkKSz-IgP5kSs1LcQ.md) | 2019-04-07T23:40:53+08:00 | 2016-08-02T06:31:50+08:00 |
-| 155 | [2016-07-22 vTaiwan 小松紀錄](../notes/GV6GnEA-TE2FzLASFHDwug.md) | 2019-04-07T23:40:44+08:00 | 2016-07-22T23:47:58+08:00 |
-| 156 | [2016-05-13 vTaiwan 小松紀錄](../notes/ZHeGq7ybRDOlAn2BjSmwOg.md) | 2019-04-07T23:40:32+08:00 | 2016-05-16T20:17:07+08:00 |
-| 157 | [vTaiwan 2015-11-27 小松速記](../notes/9hNM589GRJ2Gm19LWMuupg.md) | 2019-04-07T23:40:21+08:00 | 2015-11-27T15:40:24+08:00 |
-| 158 | [vTaiwan 2015-10-16 小松速記](../notes/QpBDsBdNQ9uShD8yQbh9kQ.md) | 2019-04-07T23:40:06+08:00 | 2015-10-17T16:01:21+08:00 |
-| 159 | [vTaiwan.tw @ hackath12n](../notes/k6uIvMYRRfSrqZXwsWGLLg.md) | 2019-04-07T23:39:33+08:00 | 2015-02-14T04:48:06+08:00 |
-| 160 | [20180523 vTaiwan小黑客松](../notes/elsVDPqETrmkGokJOXgOsw.md) | 2019-04-07T23:37:27+08:00 | 2018-05-21T10:29:35+08:00 |
-| 161 | [20180704 vTaiwan小黑客松](../notes/PhbhmlUFSk29DSRCrW_hgw.md) | 2019-04-07T23:37:16+08:00 | 2018-06-30T23:39:39+08:00 |
-| 162 | [20180711 vTaiwan小黑客松](../notes/mUjEKhouQT2FBk6VWPiEWA.md) | 2019-04-07T23:37:00+08:00 | 2018-07-07T14:16:30+08:00 |
-| 163 | [20180627 vTaiwan小黑客松](../notes/zg7yEbSMQjGlHnP9Xrc4qQ.md) | 2019-04-07T23:36:48+08:00 | 2018-06-26T13:43:57+08:00 |
-| 164 | [20180620 vTaiwan小黑客松](../notes/haWGd3dCSRWyJDARgAOR4w.md) | 2019-04-07T23:36:37+08:00 | 2018-06-20T19:18:51+08:00 |
-| 165 | [20180620 vTaiwan小黑客松](../notes/qYgnaU79SMGsQo_2jvpiQQ.md) | 2019-04-07T23:36:26+08:00 | 2018-06-13T21:24:28+08:00 |
-| 166 | [20180613 vTaiwan小黑客松](../notes/ioiZPnbcQDaaSO-q8votaw.md) | 2019-04-07T23:36:15+08:00 | 2018-06-13T21:17:33+08:00 |
-| 167 | [20180606 vTaiwan小黑客松](../notes/ge5MJgQbTSm_Tt-RsJB3LQ.md) | 2019-04-07T23:36:06+08:00 | 2018-06-06T15:05:18+08:00 |
-| 168 | [20180530 vTaiwan小黑客松](../notes/DnK1bNGTQ8qASkIGjgHiug.md) | 2019-04-07T23:35:56+08:00 | 2018-05-24T22:03:15+08:00 |
-| 169 | [20180516 vTaiwan小黑客松](../notes/84qJBiB6QCmmTEzeGuYsOw.md) | 2019-04-07T23:35:44+08:00 | 2018-05-14T14:06:02+08:00 |
-| 170 | [20180509 vTaiwan小黑客松](../notes/JRVs2LgkSEOJK_-ucYfU9g.md) | 2019-04-07T23:35:30+08:00 | 2018-05-03T10:42:44+08:00 |
-| 171 | [20180502 vTaiwan小黑客松](../notes/kNWYf_9ZTMOAR8e76lNVaA.md) | 2019-04-07T23:35:14+08:00 | 2018-04-29T11:48:25+08:00 |
-| 172 | [20180425 vTaiwan小黑客松](../notes/OsLTkPBJR22Kkv37EVTneA.md) | 2019-04-07T23:35:05+08:00 | 2018-04-16T13:07:33+08:00 |
-| 173 | [vTaiwan 2018.03.14 小松](../notes/Zm1lp8rPQLiLR2jEGTbvpg.md) | 2019-04-07T23:34:55+08:00 | 2018-08-23T09:32:32+08:00 |
-| 174 | [vTaiwan 2018.03.07 小松](../notes/A5fwNhHWRHm5rqlBHCF3lg.md) | 2019-04-07T23:34:27+08:00 | 2018-03-07T14:33:12+08:00 |
-| 175 | [20180808 vTaiwan小黑客松](../notes/-Qufw5KYR2aiZRtpXhHSKA.md) | 2019-04-07T23:34:17+08:00 | 2018-08-05T16:54:41+08:00 |
-| 176 | [20180815 vTaiwan小黑客松](../notes/VDkLMe4qTLOjsXsG2w24Bg.md) | 2019-04-07T23:34:05+08:00 | 2018-08-14T10:53:17+08:00 |
-| 177 | [20180725 vTaiwan小黑客松](../notes/l41B4gKDSSCGFhBIzOxtEw.md) | 2019-04-07T23:33:55+08:00 | 2018-07-20T14:08:51+08:00 |
-| 178 | [20180801 vTaiwan小黑客松](../notes/m84YBRYgQnCx_ln24kyktg.md) | 2019-04-07T23:33:44+08:00 | 2018-07-29T12:11:04+08:00 |
-| 179 | [vTaiwan 2018.02.21 小松](../notes/iBTukeoSRfy2QqqETjlBfA.md) | 2019-04-07T23:32:53+08:00 | 2018-02-21T13:26:45+08:00 |
-| 180 | [vTaiwan 2018.02.07 小松](../notes/zFlkdNHgSsOKp6scDp5oGA.md) | 2019-04-07T23:32:42+08:00 | 2018-02-07T16:26:22+08:00 |
-| 181 | [vTaiwan 2018.01.31 小松](../notes/Uq94ynG2SnSLNq0FsMKHPw.md) | 2019-04-07T23:32:33+08:00 | 2018-01-31T20:04:44+08:00 |
-| 182 | [vTaiwan 2018.01.24 小松](../notes/PZiC_0YTRfyVDyUB3LQnjA.md) | 2019-04-07T23:32:22+08:00 | 2018-01-24T18:53:40+08:00 |
-| 183 | [vTaiwan 2018.1.10 小松](../notes/B0n8Hc8tSrWndxCUhYAgYw.md) | 2019-04-07T23:32:11+08:00 | 2018-01-10T18:25:27+08:00 |
-| 184 | [vTaiwan 2017.12.31 @跨年松](../notes/P7weck0jSCyyOT2gRJa9Og.md) | 2019-04-07T23:32:02+08:00 | 2017-12-31T21:52:57+08:00 |
-| 185 | [vTaiwan 2018.1.3 小松](../notes/c7LleNAZRO2Bc-sbW_f-nw.md) | 2019-04-07T23:31:52+08:00 | 2018-01-03T18:50:18+08:00 |
-| 186 | [vTaiwan 106.12.13 小松](../notes/uKJhS9fZR1-NL3tS4Hv8zA.md) | 2019-04-07T23:31:43+08:00 | 2017-12-13T17:24:04+08:00 |
-| 187 | [vTaiwan 2017.12.20 小松](../notes/G360wsv7RNuKVYX7p_2wmg.md) | 2019-04-07T23:31:33+08:00 | 2017-12-20T13:59:11+08:00 |
-| 188 | [vTaiwan 小松 2017.12.06](../notes/iVVeltZdQzq6LJL26E2Edg.md) | 2019-04-07T23:31:19+08:00 | 2017-12-06T16:44:26+08:00 |
-| 189 | [vTaiwan 2018.02.28 小松](../notes/RWwGuDy0TBKslL0hDpMJ6A.md) | 2019-04-07T23:31:09+08:00 | 2018-02-28T11:01:13+08:00 |
-| 190 | [vTaiwan 2018.1.17 小松](../notes/RIHAb_OQSaCFeiBtMvXhbg.md) | 2019-04-07T23:30:55+08:00 | 2018-01-17T16:16:38+08:00 |
-| 191 | [vTaiwan 小松 2017.11.22](../notes/Rs6gxtplSh61DgCcsFJ_nw.md) | 2019-04-07T23:30:45+08:00 | 2017-11-22T15:44:15+08:00 |
-| 192 | [2017.11.15 vTaiwan小松](../notes/3rNomDQzTPCKC1mwUZ07lw.md) | 2019-04-07T23:30:35+08:00 | 2017-11-15T19:44:00+08:00 |
-| 193 | [2017.11.08 vTaiwan小松](../notes/Y6KFw8ieSgaVm3s_IYkI_Q.md) | 2019-04-07T23:30:26+08:00 | 2017-11-08T19:14:17+08:00 |
-| 194 | [2017.10.25 vTaiwan小松](../notes/JQtB1IirRYC_Qll3O_CtrQ.md) | 2019-04-07T23:30:17+08:00 | 2017-10-25T19:27:28+08:00 |
-| 195 | [vTaiwan 小松會議記錄 2017.10.11](../notes/8fZajQucRYGjgK_y_-5MsQ.md) | 2019-04-07T23:30:06+08:00 | 2017-08-14T14:20:09+08:00 |
-| 196 | [vTaiwan 小松 2017.07.26](../notes/1IuoGcbiRp-t8Fo3nPsz1w.md) | 2019-04-07T23:28:21+08:00 | 2017-07-13T08:24:25+08:00 |
-| 197 | [vTaiwan.tw 網站文案](../notes/jlBlnmHeQzymydwkNdIjIw.md) | 2019-04-07T23:21:25+08:00 | 2014-12-23T02:37:17+08:00 |
-| 198 | [vTaiwan 背景資料：閉鎖型公司](../notes/zCoSvHWHQrCQ6qtdW-1VQg.md) | 2019-04-07T23:09:55+08:00 | 2014-12-30T17:12:12+08:00 |
-| 199 | [vTaiwan.tw 前端架構](../notes/EAdMLfnKQxqGV7OXTSeXPw.md) | 2019-04-07T23:07:51+08:00 | 2014-12-26T15:29:24+08:00 |
-| 200 | [vTaiwan.tw 宣傳文案](../notes/6h0RcN4PRei9tfy1fC28Wg.md) | 2019-04-07T23:00:41+08:00 | 2015-02-06T03:59:35+08:00 |
-| 201 | [vTaiwan架站指南](../notes/mMw5tulwT4C-oTdVEepJHw.md) | 2019-04-07T22:59:21+08:00 | 2015-01-20T18:09:15+08:00 |
-| 202 | [vTaiwan.tw mockup (v1)](../notes/mN7rMAFhQtStJC0G7isQhw.md) | 2019-04-07T22:56:39+08:00 | 2015-01-05T12:47:03+08:00 |
-| 203 | [vTaiwan.tw 後端架構](../notes/D2zXzDIdS4qRi89eJE_qvQ.md) | 2019-04-07T22:55:33+08:00 | 2015-01-13T12:36:31+08:00 |
-| 204 | [[vTaiwan] UberX 自用車載客](../notes/dtPr08PRQhKNiX90Mwv0EQ.md) | 2019-04-07T22:38:30+08:00 | 2015-06-26T14:43:16+08:00 |
-| 205 | [vTaiwan Airbnb 意見徵集](../notes/lNY5NuzISQmxFzkSuoECHA.md) | 2019-04-07T22:37:10+08:00 | 2015-08-28T16:50:44+08:00 |
-| 206 | [vTaiwan 讀冊](../notes/OuhEdgNkRU2CySwrFJLWww.md) | 2019-04-07T22:29:56+08:00 | 2018-08-23T09:57:27+08:00 |
-| 207 | [20180414 vTaiwan@萌典松](../notes/wMuSJNVdQPyroqiP_BwY0A.md) | 2019-04-07T18:46:29+08:00 | 2018-04-17T16:12:52+08:00 |
-| 208 | [vTaiwan 106.09.16 大松](../notes/I2A410BTTLeH4anZ43Lt4w.md) | 2019-04-07T18:20:02+08:00 | 2017-09-16T16:31:47+08:00 |
-| 209 | [vTaiwan交接松](../notes/oQ8eG6NbRLugCrFa-4UfnQ.md) | 2019-04-07T17:59:53+08:00 | 2016-10-02T10:36:17+08:00 |
-| 210 | [vTaiwan.tw 參考文獻](../notes/vx0HtCzYQ--pQALr4PNTzw.md) | 2019-04-07T17:48:07+08:00 | 2014-12-25T02:28:53+08:00 |
-| 211 | [vTaiwan 議題盤點](../notes/VJ4igkzXS-mwtT7MU5oyLg.md) | 2019-04-07T17:35:11+08:00 | 2017-01-11T12:14:58+08:00 |
-| 212 | [Insecam 可能辨識場所列表](../notes/DXKwF8ZuQGCl24PkOClAwQ.md) | 2019-04-01T21:31:43+08:00 | 2016-10-21T15:49:19+08:00 |
-| 213 | [獨立媒體清單](../notes/bBN59y2vTeWOA96Ea-TCeg.md) | 2019-03-19T18:13:03+08:00 | 2014-12-11T13:43:49+08:00 |
-| 214 | [收集世界各地有影響力的公民科技專案](../notes/_qMxLFcYQ1WYCIgJq4ai2Q.md) | 2019-02-10T02:03:36+08:00 | 2018-08-23T09:16:38+08:00 |
-| 215 | [社區資料規格討論](../notes/wjd3IpcDRKa3g-jaqvL-VQ.md) | 2019-02-09T23:01:17+08:00 | 2017-07-14T04:33:12+08:00 |
-| 216 | [相關政策（rough consensus）形成與適用的討論](../notes/343OzMAMSdqjJOWQOGFSCw.md) | 2018-11-21T10:34:50+08:00 | 2014-06-24T01:28:23+08:00 |
-| 217 | [CfA codeacross/brigade hangout notes](../notes/ZHWwQpJMSjyob38rzgRgZQ.md) | 2018-11-21T10:34:21+08:00 | 2014-02-11T17:50:33+08:00 |
-| 218 | [2014 台北市長政見比較表](../notes/POXYOMfARRuBGGqKVDA3Fw.md) | 2018-11-10T23:41:48+08:00 | 2014-08-29T19:51:09+08:00 |
-| 219 | [g0v不是藝術不是展覽](../notes/uSLyA_S4QVy1_nkG-fk3tQ.md) | 2018-10-22T21:45:12+08:00 | 2016-05-17T18:43:56+08:00 |
-| 220 | [[黑客松活動手冊] 行為守則](../notes/xfnqMnLZQIuYJraU2H7qYQ.md) | 2018-10-18T21:06:19+08:00 | 2014-06-16T01:55:34+08:00 |
-| 221 | [進度表](../notes/V-K4dfWVS9Se-DCKEdHsAA.md) | 2018-10-13T10:04:12+08:00 | 2015-09-10T20:22:47+08:00 |
-| 222 | [作品論述](../notes/65QG0Xu4SHKm0EmmBzrveQ.md) | 2018-10-13T10:03:12+08:00 | 2015-09-05T20:24:05+08:00 |
-| 223 | [會議記錄](../notes/2jGTSDToRFSuApP-CuIoYw.md) | 2018-10-13T10:02:38+08:00 | 2015-09-08T21:41:16+08:00 |
-| 224 | [Playlists](../notes/OSih_m4jQDOIkAFfQOYHkQ.md) | 2018-10-13T10:01:45+08:00 | 2015-11-10T11:14:46+08:00 |
-| 225 | [貢獻者們](../notes/vmfbLQ3iRke2D0gD9XNU1A.md) | 2018-10-13T10:01:09+08:00 | 2015-11-09T22:43:32+08:00 |
-| 226 | [標語們](../notes/K7JXYyvxTvmTPTc8zxOQTQ.md) | 2018-10-13T10:00:19+08:00 | 2015-11-08T09:40:15+08:00 |
-| 227 | [IDs](../notes/Zdizvpj5TxGjMeb_JKrYAQ.md) | 2018-10-13T09:59:55+08:00 | 2015-11-07T13:40:53+08:00 |
-| 228 | [佈展、顧攤、撤展人力需求](../notes/peTe6LX3QdWg763dVt5I7Q.md) | 2018-10-13T09:59:19+08:00 | 2015-09-12T11:33:09+08:00 |
-| 229 | [零時藝術@hackath16n](../notes/Nl28xNvlR32bxiS8Crg75A.md) | 2018-10-13T09:58:30+08:00 | 2015-10-24T11:22:40+08:00 |
-| 230 | [訪談](../notes/bz1eZkuuQEG1XR0_fx0EOw.md) | 2018-10-13T09:57:49+08:00 | 2015-11-17T17:54:22+08:00 |
-| 231 | [坑](../notes/OduMLlxRR7eqC4SJDkGeuw.md) | 2018-10-13T09:57:09+08:00 | 2015-11-08T14:49:47+08:00 |
-| 232 | [第十屆台北數位藝術節參展專案](../notes/1H9yemN5SLOB1ZRPGtaUGg.md) | 2018-10-13T09:55:11+08:00 | 2015-06-04T11:43:05+08:00 |
-| 233 | [器材及空間需求](../notes/PrtSeNHsRJe98XJYhD8fvg.md) | 2018-10-13T09:54:33+08:00 | 2015-09-06T10:17:33+08:00 |
-| 234 | [眾志成城：基進、人本、科學的開放協同議論平台](../notes/IL6bmbpYSTqRw35-2qZ7nQ.md) | 2018-10-13T09:54:12+08:00 | 2015-08-17T18:36:48+08:00 |
-| 235 | [g0v（在松菸）臺北數位藝術節藝佈展時需要318網站的資料需求列表](../notes/dH79SEpnRhuak90vjx5iSg.md) | 2018-10-13T09:52:53+08:00 | 2015-11-12T23:44:12+08:00 |
-| 236 | [數位藝術節【眾志成城】檢討](../notes/TkpyZ1EbQ-aS_B4znjrCNg.md) | 2018-10-13T09:51:15+08:00 | 2016-02-03T00:46:19+08:00 |
-| 237 | [《眾志成城》之後給g0v的幾個問題](../notes/2Y8PompSSKmXrYqVBGbUJA.md) | 2018-10-13T09:51:06+08:00 | 2016-03-05T17:14:39+08:00 |
-| 238 | [第十屆台北數位藝術節參展專案介紹](../notes/Z3OsRXf9TZ28gUFrUFYXng.md) | 2018-10-13T09:50:43+08:00 | 2015-11-09T22:16:20+08:00 |
-| 239 | [開放都市-委員會會議記錄資料庫](../notes/uAPFD74CTTy8FOnW2btS2w.md) | 2018-10-12T17:25:53+08:00 | 2015-06-05T13:47:22+08:00 |
-| 240 | [台灣的垃圾藝術](../notes/AYA7EBKFR1SVeKoutkZiow.md) | 2018-10-11T09:55:04+08:00 | 2016-01-30T19:11:47+08:00 |
-| 241 | [開放都市計畫](../notes/kErK5aZcT2OaF1xnYP9RgQ.md) | 2018-10-11T04:00:22+08:00 | 2014-02-22T12:24:29+08:00 |
-| 242 | [開放都市-委員會會議記錄資料庫 API策劃](../notes/fLtZ9bE6QZ6tWnmGsqCddQ.md) | 2018-10-11T04:00:01+08:00 | 2017-03-19T22:49:59+08:00 |
-| 243 | [開放都市-委員會會議記錄資料庫 前端策劃](../notes/CJruYEwbRVW3tb5Ehujhew.md) | 2018-10-11T03:59:57+08:00 | 2017-02-09T20:57:28+08:00 |
-| 244 | [開放都市-委員會會議記錄資料庫 資料結構](../notes/gZZ2ZzUpR7i-2evJ_ypvIQ.md) | 2018-10-11T03:57:58+08:00 | 2017-02-09T20:39:11+08:00 |
-| 245 | [開放都市計畫- 都市計畫小百科](../notes/bNvTRmfMSlu5nL-2FqgHNg.md) | 2018-10-11T03:52:25+08:00 | 2015-02-13T18:10:02+08:00 |
-| 246 | [新民主制度的自我成長循環 vs g0v 產品線](../notes/qCOk72OCTry3xOf7fXvfyw.md) | 2018-08-23T01:18:50+08:00 | 2014-04-07T14:55:47+08:00 |
-| 247 | [遊行場邊記： 街頭．網路．群眾不斷線](../notes/Tn7ubYGlRVuIsxH4Izw0UQ.md) | 2018-08-23T01:18:50+08:00 | 2014-04-07T14:56:18+08:00 |
-| 248 | [http://youtu.be/-22JEU6myA8 青島東23早上](../notes/OZJUiD3aSbSFQMNVX83aXg.md) | 2018-08-23T01:18:44+08:00 | 2014-03-23T07:51:55+08:00 |
-| 249 | [開放資料與環境 環評 (30min，中 > 英)：張家豪認領](../notes/IQajvzFATOq3MsNMPuJvNw.md) | 2018-08-23T01:18:44+08:00 | 2014-10-20T00:02:36+08:00 |
-| 250 | [《憤慨與希望的網絡》節譯（下）](../notes/oaDTRSPmQgCW8cLRscZr5Q.md) | 2018-08-23T01:18:44+08:00 | 2014-04-07T14:55:12+08:00 |
-| 251 | [資訊透明度](../notes/L9d8DwjoQROFRZyGH6LCSA.md) | 2018-08-23T01:18:44+08:00 | 2015-08-31T11:34:59+08:00 |
-| 252 | [政府](../notes/kQWcK_5wR5exJb2xnZtkSQ.md) | 2018-08-23T01:18:44+08:00 | 2014-04-07T10:57:20+08:00 |
-| 253 | [《憤慨與希望的網絡》節譯（上）](../notes/rVjuqrCDRLiyCRX94o7Yjw.md) | 2018-08-23T01:18:44+08:00 | 2014-04-07T14:54:48+08:00 |
-| 254 | [開放資料與環境 環評 (30min，中 > 英)：](../notes/SY_T6oh3RYCs2b-WV5xFkg.md) | 2018-08-23T01:18:34+08:00 | 2014-10-19T23:56:09+08:00 |
-| 255 | [開放資料與環境 座談 (30min，中 > 英)：](../notes/NJqCnv82TkeFtX6YmX8NwQ.md) | 2018-08-23T01:18:34+08:00 | 2014-10-19T23:55:54+08:00 |
-| 256 | [開放資料與環境 座談 (30min，中 > 英)：張家豪認領](../notes/5N0uomrbTVSMW5HY-gZCbw.md) | 2018-08-23T01:18:34+08:00 | 2014-10-19T22:09:17+08:00 |
-| 257 | [開放資料與環境  Open Weatherdata (30min，中 > 英)：陳敬元認領](../notes/TxpKtf8ATEKMFJ3FTh1ISw.md) | 2018-08-23T01:18:34+08:00 | 2014-10-19T23:56:22+08:00 |
-| 258 | [http://www.rootlaw.com.tw/LawArticle.aspx?LawID=A040040060001400-0960119](../notes/w7kDRAqeQNSrXoqkMuShZQ.md) | 2018-08-23T01:18:26+08:00 | 2014-05-09T17:44:36+08:00 |
-| 259 | [http://youtu.be/tHCWsEwIFAo](../notes/YxaK3OPVR9OIeM86IDBFDw.md) | 2018-08-23T01:18:26+08:00 | 2014-03-22T22:16:14+08:00 |
-| 260 | [test](../notes/dqUaAcmtQGuNmFH4x_4krQ.md) | 2018-08-23T01:18:26+08:00 | 2015-03-11T17:06:10+08:00 |
-| 261 | [開放資料與環境  Open Weatherdata (30min，中 > 英)：陳敬元認領  張家豪認領](../notes/TqeekLivRNOs8FF4w70oLQ.md) | 2018-08-23T01:18:26+08:00 | 2014-10-19T22:08:52+08:00 |
-| 262 | [https://github.com/audreyt/ethercalc/issues/74](../notes/nun2oK3_RsabW7_DJRXO2Q.md) | 2018-08-23T01:18:26+08:00 | 2014-05-09T19:41:18+08:00 |
-| 263 | [開放資料與環境 環評 (30min，中 > 英)：張家豪認領](../notes/-Z1fKNeHSlWXS-jYD4vdrg.md) | 2018-08-23T01:18:26+08:00 | 2014-10-19T22:09:07+08:00 |
-| 264 | [http://2016.cec.gov.tw/opendata/cec2016/getJson?dataType=6](../notes/dLpOfZAYRReET_Z7YIkwrw.md) | 2018-08-23T01:18:17+08:00 | 2016-01-07T16:06:51+08:00 |
-| 265 | [今天3/22我有在現場聽林飛帆同學與江院長的對話，我發現了一件非常恐怖的事情，就是你們完全不擅長引導民眾支持你們，你們要想辦法通過問答，例如:為什麼不能退出服貿](../notes/M6cV_qLxRIa3eyM_wcMBfw.md) | 2018-08-23T01:18:17+08:00 | 2014-03-22T21:19:35+08:00 |
-| 266 | [http://www.books.com.tw/products/0010793756](../notes/czHMwQ4TS9ag8KiNz_ZBgQ.md) | 2018-08-23T01:18:17+08:00 | 2018-08-15T21:02:44+08:00 |
-| 267 | [http://appy.tw/](../notes/aOGF7aY0RMKHWJjjOUK9tQ.md) | 2018-08-23T01:18:17+08:00 | 2016-10-06T16:31:10+08:00 |
-| 268 | [https://github.com/g0v/g0v.tw/issues/18](../notes/RpqutgEMTy2UKIFq08yJOA.md) | 2018-08-23T01:18:09+08:00 | 2013-08-09T12:06:03+08:00 |
-| 269 | [https://www.facebook.com/profile.php?id=100000846949353](../notes/Gpa2PTHdRgW_0BSb9U5fuA.md) | 2018-08-23T01:18:09+08:00 | 2014-03-21T05:28:05+08:00 |
-| 270 | [http://www.books.com.tw/products/0010793756](../notes/_QXj-uu1SSiCa2atTntnMg.md) | 2018-08-23T01:18:09+08:00 | 2018-08-15T21:02:35+08:00 |
-| 271 | [http://globalstartup.co/companies/newology/](../notes/g6S16Ze_QJmJiUkfL4WMqg.md) | 2018-08-23T01:18:09+08:00 | 2013-10-12T00:08:53+08:00 |
-| 272 | [立法院資訊處演講逐字稿 2014 1/21 /clkao](../notes/Zda6QDJ9T92smMg4kI1QmA.md) | 2018-08-23T01:18:09+08:00 | 2014-01-21T20:27:07+08:00 |
-| 273 | [立法院資訊處演講逐字稿 2014 1/21 /clkao](../notes/jreicBBRThqfX6zi-6WZIg.md) | 2018-08-23T01:18:09+08:00 | 2014-01-21T20:26:22+08:00 |
-| 274 | [政府資料開放平台http://data.gov.tw](../notes/3pC5KHZWT0y4B27734et3A.md) | 2018-08-23T01:17:58+08:00 | 2015-08-21T13:10:02+08:00 |
-| 275 | [https://www.facebook.com/groups/odtwn/](../notes/Pc87ZtLUT324CIOzn1BHIw.md) | 2018-08-23T01:17:58+08:00 | 2015-10-06T14:02:08+08:00 |
-| 276 | [1](../notes/_aU6s2XMRGy7HltmKNHuSA.md) | 2018-08-23T01:17:58+08:00 | 2016-12-14T18:31:58+08:00 |
-| 277 | [http://blog.clkao.org/post/197394/uk-gds-the-veto-power](../notes/LMrhe581RbeTgQjKgys0wQ.md) | 2018-08-23T01:17:58+08:00 | 2014-12-12T02:23:13+08:00 |
-| 278 | [http://sbaack.com/2015/11/19/scraping-the-global-civic-tech-community-on-github-](../notes/24BP57jyTFODe6qXwDAb5A.md) | 2018-08-23T01:17:53+08:00 | 2015-12-18T17:28:14+08:00 |
-| 279 | [https://g0v.hackpad.com/--Fy5roPxroAg](../notes/1ICxlrKVQn670pIYdRCM1A.md) | 2018-08-23T01:17:53+08:00 | 2014-11-08T23:22:21+08:00 |
-| 280 | [https://www.ptt.cc/bbs/Gossiping/M.1418222806.A.59D.html](../notes/OfXMySbjR8WHLhSJ1hLspw.md) | 2018-08-23T01:17:53+08:00 | 2014-12-11T11:20:11+08:00 |
-| 281 | [This pad text is synchronized as you type, so that everyone viewing this page se](../notes/bSTAGtoPTFebD-uW9mmdfw.md) | 2018-08-23T01:17:53+08:00 | 2016-05-26T16:14:36+08:00 |
-| 282 | [https://g0v.hackpad.com/--Fy5roPxroAg](../notes/i0QKfmEAQJ-Q2nyThwb0sA.md) | 2018-08-23T01:17:53+08:00 | 2014-11-08T23:21:36+08:00 |
-| 283 | [https://docs.google.com/presentation/d/1Iv1bFUTCL3HEQXkObTBZ83dDZuXpR8IbMAT73RzZ](../notes/8tlp8YfkTdaLAgdaUFQuew.md) | 2018-08-23T01:17:53+08:00 | 2015-10-03T12:01:41+08:00 |
-| 284 | [http://honeypupu.pixnet.net/blog/post/5904774-%E9%8A%80%E5%BA%A7%E8%9C%9C%E8%9C%](../notes/b6PibusHSwazwgpAoOgwIQ.md) | 2018-08-23T01:17:39+08:00 | 2015-04-13T17:18:31+08:00 |
-| 285 | [2010 IEDM @ Pubpeer](../notes/wdu74TSrQCCKl8EycB2PjQ.md) | 2018-08-23T01:17:39+08:00 | 2017-05-07T20:31:47+08:00 |
-| 286 | [2012 Sensors @ Pbupeer](../notes/ywT5NnkNTaqKEipS8BdA_w.md) | 2018-08-23T01:17:39+08:00 | 2017-05-10T00:01:21+08:00 |
-| 287 | [2012 Sensors](../notes/jk4m62mrQzq3WUbmE6MGkw.md) | 2018-08-23T01:17:39+08:00 | 2018-08-23T10:02:26+08:00 |
-| 288 | [2014 IEDM @ Pubpeer](../notes/BT1I-9InRqOYw9yvYpj-Aw.md) | 2018-08-23T01:17:31+08:00 | 2017-05-04T22:50:32+08:00 |
-| 289 | [2012 Sensors](../notes/nef81vYwSxKeeq2tsCslmQ.md) | 2018-08-23T01:17:31+08:00 | 2017-05-09T23:58:58+08:00 |
-| 290 | [This pad text is synchronized as you type, so that everyone viewing this page se](../notes/UcSANU0YRdKC3Hgm_3ODBA.md) | 2018-08-23T01:17:31+08:00 | 2016-08-27T15:33:49+08:00 |
-| 291 | [例子http://www.secufirst.com.tw/products_detail.aspx?Pid=7](../notes/bktQ2h-_QnqzD4BPqYvRYg.md) | 2018-08-23T01:17:31+08:00 | 2014-03-11T02:22:43+08:00 |
-| 292 | [http://honeypupu.pixnet.net/blog/post/5904774-%E9%8A%80%E5%BA%A7%E8%9C%9C%E8](../notes/sWWnCRVMRhCgj_8YkQFyoQ.md) | 2018-08-23T01:17:31+08:00 | 2015-04-13T17:17:29+08:00 |
-| 293 | [Japanese Journal of Applied Physics (2011) @ Pubpeer](../notes/oepfWW1ERPitsaB7ZAtLgQ.md) | 2018-08-23T01:17:31+08:00 | 2017-05-10T00:02:37+08:00 |
-| 294 | [2014 IEDM @ Pubpeer](../notes/99sgfO0mTYORmI7VA6ksNw.md) | 2018-08-23T01:17:19+08:00 | 2017-05-03T22:54:45+08:00 |
-| 295 | [2016 TED @ Pubpeer](../notes/6Zb6ldGpR326PorWJ_aBcg.md) | 2018-08-23T01:17:19+08:00 | 2017-05-04T22:49:32+08:00 |
-| 296 | [2016 IEDS @ Pubpeer](../notes/h2Y2pcZXTNupXKLdbxUwbA.md) | 2018-08-23T01:17:19+08:00 | 2018-08-23T09:46:52+08:00 |
-| 297 | [2015 IEDM @ pubpeer](../notes/Ly4B8sVORzCTTW-Yh6--og.md) | 2018-08-23T01:17:19+08:00 | 2017-05-04T22:47:07+08:00 |
-| 298 | [祁家威](../notes/E9O1jv_tQwSPm-dkkSh2Ow.md) | 2018-08-23T01:17:13+08:00 | 2016-11-24T18:41:17+08:00 |
-| 299 | [2016 TED @pubpeer](../notes/ZMYjQFpiSmufsmPbyXcOXQ.md) | 2018-08-23T01:17:13+08:00 | 2017-05-03T22:54:08+08:00 |
-| 300 | [2015 IEDM @ pubpeer](../notes/dEaj6naDQGe6g1oWwBIVlQ.md) | 2018-08-23T01:17:13+08:00 | 2017-05-03T22:50:25+08:00 |
-| 301 | [http://www.water.gov.tw/06news/news_b_main2.asp?no_g=6215](../notes/BlmX_uhNRY-yZRbk_2dGXQ.md) | 2018-08-23T01:17:13+08:00 | 2016-02-06T22:22:35+08:00 |
-| 302 | [2016 IEEE JEDS Review @pubpeer](../notes/ihtNu-5jT1Kz_-AeWAw-CQ.md) | 2018-08-23T01:17:13+08:00 | 2017-05-03T22:52:42+08:00 |
-| 303 | [MASERATI](../notes/Dx7ueiJRSgOApb4zvYNMUg.md) | 2018-08-23T01:17:13+08:00 | 2016-11-24T18:44:28+08:00 |
-| 304 | [IEEE Transactions on Electron Devices (2016) @pubpeer](../notes/klnpems0RRKhT64dpZED4Q.md) | 2018-08-23T01:17:02+08:00 | 2018-08-23T09:30:53+08:00 |
-| 305 | [我相信很多同性戀者想要的婚姻不會是這樣，但是伴侶盟提出的草案就是長這樣，現在這次沒有，這次尤美女跟另外一位立委](../notes/vDAntr7aTCii8Of6Nqe6rg.md) | 2018-08-23T01:17:02+08:00 | 2016-11-24T11:21:33+08:00 |
-| 306 | [https://www.w3.org/International/multilingualweb/2015-riga/slides/liao.pdf](../notes/a2UGZIZIReajPDtTbC1aBw.md) | 2018-08-23T01:17:02+08:00 | 2016-06-18T14:21:35+08:00 |
-| 307 | [Pubpeer Q&A](../notes/gJ6ox0-OQC2WKWF_NbhPwA.md) | 2018-08-23T01:17:02+08:00 | 2017-05-02T23:05:01+08:00 |
-| 308 | [Peer2- authors response](../notes/zj49PN8yTfGrjmoB6VdhKA.md) | 2018-08-23T01:16:54+08:00 | 2017-05-02T22:58:18+08:00 |
-| 309 | [Ｐubpeer](../notes/PJ9F1DgWT6axv_rfaIHsEQ.md) | 2018-08-23T01:16:54+08:00 | 2017-05-02T22:55:12+08:00 |
-| 310 | [https://www.facebook.com/g0v.tw/](../notes/ipp4Dr-1QmyYroAk0S2_xA.md) | 2018-08-23T01:16:54+08:00 | 2016-03-22T21:03:21+08:00 |
-| 311 | [Ge and MoS2 @pubpeer](../notes/natU1VvWQ1W39GMG7llqrQ.md) | 2018-08-23T01:16:54+08:00 | 2017-05-02T23:10:46+08:00 |
-| 312 | [https://jackiejamescreedon.wordpress.com/tag/bucket-brigade/](../notes/xBBSpY6MQAW8nUGB4ADPkQ.md) | 2018-08-23T01:16:54+08:00 | 2016-05-15T14:35:24+08:00 |
-| 313 | [開幹開團到開源：前往 g0v 的奇幻旅程（個人 blog 文草稿）](../notes/TZosPNVVTOKHeXUMCypkOw.md) | 2018-08-23T01:16:54+08:00 | 2013-08-28T09:14:23+08:00 |
-| 314 | [1051102不能只有我知道的國土計畫法](../notes/PjoO6ZOnS4aTSiYtulqIEA.md) | 2018-08-23T01:16:43+08:00 | 2016-11-09T10:43:49+08:00 |
-| 315 | [【徵求】行車紀錄器(暫定)](../notes/b_6O6ts1SW-EOkDx4hhMCw.md) | 2018-08-23T01:16:43+08:00 | 2014-05-19T17:22:02+08:00 |
-| 316 | [kenting10410](../notes/O90IC5BZTeCRxAvFdTWltA.md) | 2018-08-23T01:16:43+08:00 | 2015-09-14T22:20:51+08:00 |
-| 317 | [http://query.yahooapis.com/v1/public/yql?q=select+%2A+from+geo.placefinder+where](../notes/OGzyfhNnSdyULTwfMzCVVQ.md) | 2018-08-23T01:16:42+08:00 | 2013-11-24T12:49:32+08:00 |
-| 318 | [議論方法與平台蒐集](../notes/pXRnsY6vSAeMgp4625V2KA.md) | 2018-08-23T01:16:37+08:00 | 2016-08-13T06:36:26+08:00 |
-| 319 | [202群集結構紀錄表](../notes/_EV5p2z_S0WtzLkpL7Sk7g.md) | 2018-08-23T01:16:37+08:00 | 2016-11-08T09:38:42+08:00 |
-| 320 | [202群集結構紀錄表](../notes/OOLJGCqjQHawaFM67lAEQw.md) | 2018-08-23T01:16:37+08:00 | 2016-11-08T09:36:21+08:00 |
-| 321 | [NewsMap](../notes/n6MJuFtLTUuRM2B41RZcBw.md) | 2018-08-23T01:16:37+08:00 | 2013-06-07T22:12:47+08:00 |
-| 322 | [http://query.yahooapis.com/v1/public/yql?q=select+%2A+from+geo.placefinder+where](../notes/_bv4VrVzSxqiFl_tdleP6Q.md) | 2018-08-23T01:16:37+08:00 | 2013-11-24T12:49:30+08:00 |
-| 323 | [201 群集結構觀察記錄](../notes/2amTrsHPR5Gu33peoUcBzg.md) | 2018-08-23T01:16:37+08:00 | 2016-11-08T09:26:47+08:00 |
-| 324 | [http://whogovernstw.org/2015/11/09/yenlunchang1/](../notes/zDwsRLfGTmO369D7iX22Sg.md) | 2018-08-23T01:16:23+08:00 | 2017-01-23T16:59:25+08:00 |
-| 325 | [testing](../notes/3X3T8k4RRK-cn60KQpR2KA.md) | 2018-08-23T01:16:23+08:00 | 2016-01-23T12:10:48+08:00 |
-| 326 | [https://www.change.org/p/iso-change-the-present-taiwan-province-of-china-to-taiw](../notes/_yq9Mu_xQAyLiAG4uFGzPg.md) | 2018-08-23T01:16:23+08:00 | 2017-01-23T17:07:57+08:00 |
-| 327 | [有關於發送活動](../notes/sv16pUjmSrmkPfNLEWoWMA.md) | 2018-08-23T01:16:15+08:00 | 2014-04-24T02:29:11+08:00 |
-| 328 | [議員投票指南-意見回饋](../notes/VYHBJBOjR8yN6UwXGHyCag.md) | 2018-08-22T18:38:33+08:00 | 2014-06-22T23:20:36+08:00 |
-| 329 | [2018-08-22 Data Integration 第二場](../notes/0o2CwDioRNKS7cHaRLN9fQ.md) | 2018-08-22T12:43:14+08:00 | 2018-08-22T10:43:31+08:00 |
-| 330 | [都市農耕與社區園圃的技術課題整理](../notes/oNtcdQ2kTKm6pyKltoLyWQ.md) | 2018-08-22T10:03:15+08:00 | 2014-12-01T11:06:31+08:00 |
-| 331 | [開放民間租屋資料](../notes/LJCL4c7HRBGVsz8DxvceIw.md) | 2018-08-21T16:06:10+08:00 | 2018-03-18T23:29:49+08:00 |
-| 332 | [台灣地方議會議員配合款](../notes/_eSBGe-VT16bdNzljbAGlA.md) | 2018-08-19T22:42:16+08:00 | 2018-01-30T20:06:37+08:00 |
-| 333 | [公有土地資料庫－政策與文獻](../notes/GjFOmbfwRk6tpriDYqe0QQ.md) | 2018-08-18T21:17:05+08:00 | 2014-06-28T01:43:36+08:00 |
-| 334 | [addressbook-api](../notes/4WneI8qpSw-Ls2pDplVgFw.md) | 2018-08-18T20:58:11+08:00 | 2014-04-05T22:53:59+08:00 |
-| 335 | [Gamification](../notes/SIuQ5Gq6SpSY7x3PoA83ww.md) | 2018-08-18T20:03:43+08:00 | 2015-05-13T18:43:21+08:00 |
-| 336 | [Roundtable on Informed Discussion @ g0v Summit 2018](../notes/SgzCV2UjR2aKvuq-0F3oIg.md) | 2018-08-18T06:42:45+08:00 | 2018-08-09T00:07:54+08:00 |
-| 337 | [臺灣選舉選區GIS綜合模版](../notes/KrN3Ihy_TTm9cU-HRrzuhA.md) | 2018-08-16T18:58:55+08:00 | 2014-09-08T14:18:27+08:00 |
-| 338 | [身份證風格分享平台](../notes/YzxUJ5MtSoWgvAOZIgnqxA.md) | 2018-08-16T18:16:43+08:00 | 2018-06-12T20:01:33+08:00 |
-| 339 | [g0v Summit 2018 請款流程](../notes/z_SU6C78S8-o1MfaOyhE9w.md) | 2018-08-16T13:53:15+08:00 | 2018-01-20T17:28:30+08:00 |
-| 340 | [地面下、地下都市計畫](../notes/GWgRL7APSua7LeHEZlr3KQ.md) | 2018-08-15T19:35:06+08:00 | 2015-05-16T21:40:37+08:00 |
-| 341 | [生醫學倫事件簿](../notes/xJ7b1_5RQv2t45osbKnejw.md) | 2018-08-14T17:28:24+08:00 | 2017-03-26T00:32:54+08:00 |
+| 1 | [生醫學倫事件簿](../notes/xJ7b1_5RQv2t45osbKnejw.md) | 2024-03-07T16:05:44+08:00 | 2017-03-26T00:32:54+08:00 |
+| 2 | [責任投資 / 責任消費相關機制蒐集](../notes/IOBJ82JSRFuodkB-M2FXFg.md) | 2024-03-01T21:20:18+08:00 | 2016-02-20T04:31:44+08:00 |
+| 3 | [Geodesign Process](../notes/pobpQEODQOeVGfxi9hMErQ.md) | 2024-02-29T12:53:41+08:00 | 2015-08-24T14:07:09+08:00 |
+| 4 | [食物系統規劃與食物公共政策](../notes/skGo9n_eSDWyhS9VHJgR9Q.md) | 2024-02-27T10:40:17+08:00 | 2015-04-22T19:00:20+08:00 |
+| 5 | [地號轉地圖 Land No. Mapper](../notes/uFhBRHrnR-yvvFD4ZEn3XA.md) | 2024-02-23T13:52:13+08:00 | 2014-11-02T00:15:35+08:00 |
+| 6 | [UX](../notes/pK9TJVNZThKAdiMnm2D5dg.md) | 2024-01-19T21:39:10+08:00 | 2015-12-05T01:46:43+08:00 |
+| 7 | [2014著作權法修正案意見比較表](../notes/ypmhHcUWTNeBpPoD-lJL0A.md) | 2024-01-18T13:37:32+08:00 | 2014-08-02T16:45:24+08:00 |
+| 8 | [［草稿］版權  著作權小幫手](../notes/piTvH44dTo-K4LAySXbB0w.md) | 2024-01-18T13:37:24+08:00 | 2014-01-07T00:39:02+08:00 |
+| 9 | [2014-2015著作權法修正草案 billab 勘誤](../notes/lP17YRkTQ-WL8TnTy43Khw.md) | 2024-01-18T13:36:47+08:00 | 2015-06-13T11:35:44+08:00 |
+| 10 | [CC.tw x g0v文化部](../notes/5va34DTxRQmXZrBU5BKv-g.md) | 2024-01-18T13:35:19+08:00 | 2014-01-16T20:30:54+08:00 |
+| 11 | [關鍵句 / Known Knowns / The Solution Buffet](../notes/W1Jlr8czSvC3Raxsp0LYcQ.md) | 2024-01-02T21:30:23+08:00 | 2014-08-04T13:14:07+08:00 |
+| 12 | [0media / 職業災害分析](../notes/6U3Ip-5VQmyKXdfY8qUqtA.md) | 2024-01-01T22:18:28+08:00 | 2014-03-12T23:21:30+08:00 |
+| 13 | [災害預防資訊平台](../notes/4VV2YiDVSX2yue0yMREzOw.md) | 2024-01-01T22:18:05+08:00 | 2016-05-15T16:23:17+08:00 |
+| 14 | [⭐ g0v 黑話及語錄](../notes/hosZS2MqRR-JLwhomnDU3w.md) | 2023-10-05T16:16:50+08:00 | 2013-08-06T02:38:11+08:00 |
+| 15 | [人口推估與電信信令人口資料](../notes/54WWSj6eRdO8Zvot81Xwpg.md) | 2023-09-21T21:13:35+08:00 | 2016-07-30T17:24:48+08:00 |
+| 16 | [《Tokyo River Story》筆記](../notes/stzh1hcKTrazgvzh7gXrxQ.md) | 2023-09-13T18:19:16+08:00 | 2016-02-20T00:46:57+08:00 |
+| 17 | [g0v 行為守則 g0v Code of Conduct](../notes/XPzJRxsHT2CaOO5WZ5r-BA.md) | 2023-08-29T14:40:54+08:00 | 2017-08-21T11:57:16+08:00 |
+| 18 | [Crowd Planning System / Prototype](../notes/BZMhGoJbRcmSuG5-SS9rOg.md) | 2023-07-21T20:03:19+08:00 | 2014-08-21T06:51:01+08:00 |
+| 19 | [常用專業英文](../notes/VLwN_eOKSg6W4RZ32XZg5A.md) | 2023-07-20T05:58:13+08:00 | 2014-11-13T20:37:18+08:00 |
+| 20 | [心家園：「臨時住宅與永久屋」建築設計與社區規劃的開放資料庫](../notes/olnqQ0J_SFat0aaScjUDRw.md) | 2023-07-02T20:06:22+08:00 | 2015-05-17T02:51:24+08:00 |
+| 21 | [Open Space / Civic Space / Revitalization](../notes/n_oNnC62TrmCQrsYGcL5lw.md) | 2023-06-30T21:54:36+08:00 | 2014-07-13T14:33:51+08:00 |
+| 22 | [臺北市政府公有資產資源平臺構想與實作歷程](../notes/WN_QBpNpQtO1oxd_r4IIjQ.md) | 2023-05-11T01:35:40+08:00 | 2016-12-30T16:30:05+08:00 |
+| 23 | [hackpad 搬運紀錄](../notes/NYVcW7HXTcK0c7cwtHQTnQ.md) | 2023-04-12T22:22:31+08:00 | 2022-09-22T18:01:44+08:00 |
+| 24 | [[舊的] 什麼是「開放」？](../notes/PQWR1OMuTOeawXsRfB6XUQ.md) | 2023-04-12T22:19:45+08:00 | 2014-08-11T21:43:15+08:00 |
+| 25 | [vTaiwan社群FB社團說明文件](../notes/2b3sgUhTRCSSntpgLiRHOQ.md) | 2023-04-10T10:20:52+08:00 | 2018-01-16T12:22:28+08:00 |
+| 26 | [{公投法透明化平台}](../notes/J0ZB-7pwQ5SmWZUMZMtM0Q.md) | 2023-02-14T10:17:26+08:00 | 2014-04-29T10:28:52+08:00 |
+| 27 | [ERS(急診整合救護系統)](../notes/imMv7qtiRIqVCacq-Xml9A.md) | 2023-02-13T22:07:47+08:00 | 2015-06-30T10:18:00+08:00 |
+| 28 | [散步上月球](../notes/E4lM5KL0Q8WNmEDIx_Umlg.md) | 2023-02-02T22:43:03+08:00 | 2015-04-24T08:22:05+08:00 |
+| 29 | [阿美語萌典計畫 Mikasoy](../notes/vcsqRGSERKar4tQLiyRn4g.md) | 2023-01-30T20:54:50+08:00 | 2016-03-02T16:46:55+08:00 |
+| 30 | [《金權城市》](../notes/3V8hLfWMS7OW6R1xEgjckg.md) | 2023-01-27T01:23:38+08:00 | 2014-11-18T06:19:04+08:00 |
+| 31 | [從資料看台北](../notes/PUGcXl1TRrKy9TUdUORFCQ.md) | 2023-01-18T18:54:16+08:00 | 2015-09-01T00:39:02+08:00 |
+| 32 | [開放政治獻金](../notes/ZvOb3i_GR0ODjXurSgY4pQ.md) | 2022-12-23T17:04:08+08:00 | 2013-12-17T20:25:03+08:00 |
+| 33 | [[舊的]Area Information 地區尺度的演變歷程資訊](../notes/s5ClfpaSS_uQGXNus0WJ_Q.md) | 2022-12-14T20:16:40+08:00 | 2015-08-31T21:58:32+08:00 |
+| 34 | [[舊的]環境演變歷程：文本蒐集](../notes/EaQdSpIJQj6QBVtkqun-Hg.md) | 2022-12-14T20:08:20+08:00 | 2016-01-05T23:06:17+08:00 |
+| 35 | [[舊的]都市樹木與行道樹資料](../notes/LH-MIh5QSUK5KUYtWe-nww.md) | 2022-12-14T20:01:12+08:00 | 2015-04-09T17:01:40+08:00 |
+| 36 | [濕地與乾式滯洪空間-資料盤點](../notes/xcshzXt6Ro2NiD5BWDlr8w.md) | 2022-12-14T19:29:22+08:00 | 2017-08-08T19:20:47+08:00 |
+| 37 | [地圖告解室 Mapfessional](../notes/s7OCkk5pTJ6XUFgXZ6zJ-Q.md) | 2022-12-14T19:27:30+08:00 | 2015-08-24T22:25:41+08:00 |
+| 38 | [Issue-Mapping 蒐集案例](../notes/G25BdKZaRjCFXm_YmZtK2w.md) | 2022-12-14T19:24:52+08:00 | 2014-11-28T01:40:48+08:00 |
+| 39 | [城市建築地圖案例蒐集](../notes/71KY5QYqTZKxCkFgwFmpVg.md) | 2022-12-14T19:22:53+08:00 | 2016-02-18T17:00:51+08:00 |
+| 40 | [基隆市政府公有資產資源平臺構想與實作歷程](../notes/kXgIY_KzQN2uOhMYQW-JQw.md) | 2022-12-10T19:08:04+08:00 | 2020-12-18T23:52:26+08:00 |
+| 41 | [什麼是](../notes/dprd3pkUTjqJuRwD4clLiA.md) | 2022-11-27T23:13:08+08:00 | 2017-02-21T00:45:39+08:00 |
+| 42 | [水](../notes/LVHnV9ZkQL6WcCkPpbMcmw.md) | 2022-11-24T15:53:11+08:00 | 2014-08-01T23:54:19+08:00 |
+| 43 | [台灣 參與預算提案與追蹤 地圖](../notes/WFWQniENSqKj-azSnt2nBg.md) | 2022-10-10T16:58:56+08:00 | 2016-08-06T09:25:55+08:00 |
+| 44 | [地址轉經緯度](../notes/i6MO2ddVQ8iMy1jSp9vVog.md) | 2022-08-03T18:47:03+08:00 | 2016-08-24T23:18:23+08:00 |
+| 45 | [Questions for the g0v.tw community / 提問](../notes/WdAey3rVQhSxlkDVV_XT0w.md) | 2022-07-06T10:06:29+08:00 | 2014-03-01T00:13:25+08:00 |
+| 46 | [g0v大中小松地點收集區 + 咖啡館情報](../notes/sKIQhNRdQsmBZb_hMmTxcQ.md) | 2022-06-23T05:51:24+08:00 | 2013-12-24T00:32:20+08:00 |
+| 47 | [g0v jothon 清大學生採訪](../notes/HNaP-7Z5SL-CNMoQAhX1tg.md) | 2022-04-14T16:17:43+08:00 | 2022-03-10T19:05:15+08:00 |
+| 48 | [公開資料：食譜](../notes/RBZSJRMzTdigNa2ElurZfg.md) | 2022-02-25T20:58:32+08:00 | 2017-07-13T23:13:23+08:00 |
+| 49 | [獎勵容積在臺灣](../notes/sz1dOZrwR32kHjRPnr4bzg.md) | 2021-11-28T19:50:56+08:00 | 2014-11-18T05:09:02+08:00 |
+| 50 | [開放都市計畫-南港區都市計畫通盤檢討](../notes/FztgySy0QtGu3w9PNDJBug.md) | 2021-10-11T10:04:00+08:00 | 2021-10-11T10:04:00+08:00 |
+| 51 | [公示資料（統編）查詢系統](../notes/LCg2etJkQjGXxfPCfBrYpA.md) | 2021-10-06T10:16:03+08:00 | 2014-11-05T17:36:48+08:00 |
+| 52 | [Data-Centric Government 的二十大類資料](../notes/QljC5-WaT-egG1ZkwNBc1g.md) | 2021-10-03T19:27:56+08:00 | 2015-01-23T13:13:23+08:00 |
+| 53 | [防災開放資料應用典範](../notes/afbw37qGRnOtQ5YQn-M_dw.md) | 2021-10-01T19:46:20+08:00 | 2017-07-14T04:35:10+08:00 |
+| 54 | [g0v characters專案角色創作邀請](../notes/LDAvG_PzQ9CY3dxGd79xjg.md) | 2021-09-18T17:53:03+08:00 | 2014-09-30T11:33:09+08:00 |
+| 55 | [台北市總預算書討論](../notes/Wma00pdSSyq5nSbNJFQ0aQ.md) | 2021-08-28T19:43:34+08:00 | 2015-08-27T12:01:05+08:00 |
+| 56 | [20140614 前端教學松：ly zorro 教學 / ve 學習筆記](../notes/WClQY28cSSGvyls2cMdAaQ.md) | 2021-08-23T15:01:40+08:00 | 2014-06-14T15:20:46+08:00 |
+| 57 | [分析都市閒置公有空間](../notes/uVWrhoVRToqvBU7yIU3_8g.md) | 2021-08-20T13:43:39+08:00 | 2021-05-14T20:18:35+08:00 |
+| 58 | [政策偵測器](../notes/GNl2eBfDQ2KrFojYdpKKYg.md) | 2021-08-16T01:11:24+08:00 | 2014-09-13T00:54:20+08:00 |
+| 59 | [設計師圖鑑](../notes/wLfdeXWbS1SMxTAV0-hT-A.md) | 2021-08-13T11:27:48+08:00 | 2014-11-27T00:21:35+08:00 |
+| 60 | [吉祥物與代言角色、キャラクター、Mascot](../notes/LLBsIRKaQYmtEKgwoBJIag.md) | 2021-08-11T22:02:51+08:00 | 2015-08-15T16:32:23+08:00 |
+| 61 | [開源出版 / 開源取向的知識內容構成方法](../notes/ENYaqiJoTyCR3MVg-zL3Fw.md) | 2021-08-10T22:11:06+08:00 | 2015-11-03T15:58:41+08:00 |
+| 62 | [定期定鵝 - NGO/NPO 的穩定財源](../notes/O-VVEvJVSkCeHrrGfwBZcQ.md) | 2021-08-06T22:02:10+08:00 | 2016-05-22T23:24:41+08:00 |
+| 63 | [ng0v - 從 ngo 到 g0v](../notes/NRFG6JZTRmumf7tW3e_guw.md) | 2021-08-06T21:57:53+08:00 | 2014-05-01T21:46:19+08:00 |
+| 64 | [NG0](../notes/dB5wYqeiQ2qWqPtwYF3ZQA.md) | 2021-08-06T21:54:10+08:00 | 2014-11-09T18:03:52+08:00 |
+| 65 | [分析都市閒置公有空間](../notes/6mdj9EWxTLelvM16RFnaZQ.md) | 2021-07-25T18:26:52+08:00 | 2021-07-25T18:26:52+08:00 |
+| 66 | [公立動物收容所資訊統整系統](../notes/ABbLzAddS36MvwPtMonMbw.md) | 2021-07-25T02:41:47+08:00 | 2015-03-25T16:18:48+08:00 |
+| 67 | [Terms 術語製造](../notes/JyvWJoPoT0-ZY4qrASn_yQ.md) | 2021-07-17T00:25:28+08:00 | 2017-08-08T21:53:56+08:00 |
+| 68 | [實體場域與空間的線上標註](../notes/EOuYzZ-dQIWo7J-E8dPB7A.md) | 2021-07-16T22:33:09+08:00 | 2018-02-09T22:28:31+08:00 |
+| 69 | [公民科技課程短片](../notes/yPcsB-H-Q_q6pydCpuWodA.md) | 2021-07-11T18:08:47+08:00 | 2017-08-14T00:32:43+08:00 |
+| 70 | [別人可以我們不行？Open Source CMS 導入政府之濫觴與爛傷 ＠ COSCUP 2014 / Jimmy Huang](../notes/ea3gPGToSQCPf9wUNvhwWg.md) | 2021-07-10T00:18:49+08:00 | 2014-07-25T15:41:58+08:00 |
+| 71 | [政府 IT 委外制度，引入開源碼發展模式可能性研究既建議草稿](../notes/2rwO1fHBStS7pMbdeBKlGA.md) | 2021-07-09T17:40:46+08:00 | 2013-12-09T23:17:54+08:00 |
+| 72 | [新政府吳政忠政委與郭耀煌執秘邀請與會](../notes/zQCRxyJuTZ6_iu4HLMbWWw.md) | 2021-07-06T02:24:36+08:00 | 2016-05-24T00:27:56+08:00 |
+| 73 | [憲法心理測驗：你適合哪種制度？](../notes/-RTdaKliR1-nWvPWNsnG1g.md) | 2021-07-05T23:20:06+08:00 | 2015-01-31T14:14:51+08:00 |
+| 74 | [開放都市計畫- 都市計畫書資料庫化](../notes/-ANGwv0QRGu70B7dDMKIEg.md) | 2021-07-05T21:37:59+08:00 | 2015-04-08T09:46:45+08:00 |
+| 75 | [數位政委：g0v x gov 的新挑戰](../notes/sgcAKlY5S2GXQySNnOCoSw.md) | 2021-07-05T20:30:11+08:00 | 2016-08-25T11:04:59+08:00 |
+| 76 | [g0v Foreign Policy \| 零時政府外交政策](../notes/jwZx-YooQNKkKCQHFg-6qA.md) | 2021-07-05T20:16:21+08:00 | 2014-01-05T14:48:23+08:00 |
+| 77 | [g0v <-> gov 合作計畫](../notes/9cyDFai0SdelBCigUnzLqg.md) | 2021-07-05T20:12:52+08:00 | 2014-02-07T17:08:37+08:00 |
+| 78 | [臺灣的體育預算跟選手待遇／比較一覽／網站建置計劃](../notes/B_EErJgGQWiDjwXRI8MqSA.md) | 2021-06-26T01:24:12+08:00 | 2016-08-09T05:56:58+08:00 |
+| 79 | [可追蹤的預算視覺化](../notes/PG2_eu6oSd6cBd4Ow4FKwg.md) | 2021-06-26T01:23:07+08:00 | 2016-12-23T18:50:19+08:00 |
+| 80 | [budget.g0v.tw - 中央政府總預算](../notes/HmEg-SxTQyC62kweYaXwGA.md) | 2021-06-26T01:22:43+08:00 | 2013-09-07T12:19:04+08:00 |
+| 81 | [2018 政府總預算更新情況](../notes/tc_Y8-b_Qd-oyGCjQtWzwA.md) | 2021-06-26T01:21:59+08:00 | 2018-01-30T20:21:15+08:00 |
+| 82 | [韓國EBS Docuprim 以「青年」為題紀錄片訪問g0v社群](../notes/Q3dafRPSRYClF-fTx_qo6A.md) | 2021-06-21T00:42:45+08:00 | 2016-08-15T03:18:22+08:00 |
+| 83 | [2016-02-01 桃園市政府開放資料論壇紀錄](../notes/htKcnzsFSfS_QyL-t6MQOA.md) | 2021-06-20T10:41:17+08:00 | 2016-02-03T10:19:55+08:00 |
+| 84 | [揪地霸 (9d8.tw)](../notes/L_v7mAAyT8GT-c_ukR9IYQ.md) | 2021-06-18T01:27:37+08:00 | 2014-11-18T15:29:33+08:00 |
+| 85 | [自主學習-如何成為未來職場需要的自由人材(中) 逐字稿](../notes/0oygBIQuSBeV-81uARx-7A.md) | 2021-06-11T17:43:41+08:00 | 2014-01-16T11:00:15+08:00 |
+| 86 | [自主學習-如何成為未來職場需要的自由人材(下) 逐字稿](../notes/nMWSZO8DS-ewkAB_He78FQ.md) | 2021-06-11T17:43:31+08:00 | 2014-01-16T14:45:53+08:00 |
+| 87 | [自主學習-如何成為未來職場需要的自由人材(上) 逐字稿](../notes/YVQF9-WST7yBtTqrDO3R5Q.md) | 2021-06-11T17:43:14+08:00 | 2014-01-15T15:36:11+08:00 |
+| 88 | [projecthub redux](../notes/FS-v3Y9HTyqwspaJo0Kgxw.md) | 2021-06-03T03:27:46+08:00 | 2016-06-12T11:34:15+08:00 |
+| 89 | [地震資訊的視覺化](../notes/HrrKhOEeSqWoY4PQXQPZ-w.md) | 2021-02-16T12:02:28+08:00 | 2014-09-14T23:59:28+08:00 |
+| 90 | ["網軍分身" vs "正常使用者" Classification](../notes/4P2Doe5BTDaEWeMxyDMcLw.md) | 2020-12-14T09:21:29+08:00 | 2015-04-02T04:58:00+08:00 |
+| 91 | [友善地號資訊查詢界面](../notes/JqrcXx6iQxyK3iYEQGNnOQ.md) | 2020-10-07T18:26:15+08:00 | 2015-02-14T17:43:16+08:00 |
+| 92 | [g0v Summit 票務組 SOP](../notes/xLmrvvCoSc-L0sKbkWQPTQ.md) | 2020-09-21T20:35:20+08:00 | 2016-05-28T14:43:45+08:00 |
+| 93 | [自己的公園自己顧- 先來找資料](../notes/1BzXRDKyR9G-Q03se5_c9g.md) | 2020-08-06T01:25:27+08:00 | 2016-06-12T15:58:52+08:00 |
+| 94 | [City Science Andorra](../notes/efV5__MvTu2aH9Bpg08VTQ.md) | 2020-08-03T23:56:21+08:00 | 2018-04-16T23:36:38+08:00 |
+| 95 | [vTaiwan 外媒採訪常見 QA](../notes/OfMmFJ9-TAaDXo13AiifEg.md) | 2020-07-25T17:08:43+08:00 | 2018-02-27T21:30:25+08:00 |
+| 96 | [生命力新聞網採訪：你被服貿了嗎](../notes/zzMfWROhQMuHBgWrA_SuqQ.md) | 2020-05-19T19:05:07+08:00 | 2014-04-30T23:03:01+08:00 |
+| 97 | [責任消費相關機制蒐集](../notes/YIGV-v-OSAKZTNwAh_HG1A.md) | 2020-04-29T16:09:33+08:00 | 2020-04-29T16:09:33+08:00 |
+| 98 | [Bifrost 物資管理平台](../notes/ZmXAHmjRQtWVhG1F3yLUaw.md) | 2020-04-07T17:34:56+08:00 | 2015-03-09T18:05:31+08:00 |
+| 99 | [全國海岸淨灘認養：資料應用與網站功能](../notes/63Q8u3umR-Cx7_vE_JwGaA.md) | 2020-04-07T09:40:25+08:00 | 2017-06-21T22:14:16+08:00 |
+| 100 | [翻譯、字幕、逐字稿，多國語言素材處理相關工具收集區](../notes/xho919gLRC6LDp5-X-9yig.md) | 2020-03-24T22:37:30+08:00 | 2020-03-24T22:37:30+08:00 |
+| 101 | [逐字稿打字坊](../notes/hFeqjhtQR66LWe3pTBBhDg.md) | 2020-03-24T22:35:17+08:00 | 2020-03-24T22:35:17+08:00 |
+| 102 | [自主學習-如何成為未來職場需要的自由人材(中) 逐字稿](../notes/d43lyG-LRw-MuQobD7oI3A.md) | 2020-03-24T20:45:35+08:00 | 2020-03-24T20:45:35+08:00 |
+| 103 | [g0v 零時空汙觀測專案](../notes/QeNRXR7XQQK7JU0vRrnEYA.md) | 2020-03-24T00:23:02+08:00 | 2016-02-21T13:42:10+08:00 |
+| 104 | [g0v 零時空汙觀測專案-自造測站推廣共筆](../notes/Wba8eDUlSHiyWkgVqn9L-w.md) | 2020-03-23T23:48:39+08:00 | 2016-03-13T20:01:05+08:00 |
+| 105 | [g0v 零時空汙觀測專案-感測器開發共筆](../notes/4UkEbzLgTUu5Oh_Rypol5g.md) | 2020-03-23T23:35:41+08:00 | 2016-03-13T19:54:39+08:00 |
+| 106 | [g0v 零時空汙觀測專案-網站開發共筆](../notes/p7-8t6kCQvWy-49C6zMgBg.md) | 2020-03-23T23:35:04+08:00 | 2016-03-13T19:36:25+08:00 |
+| 107 | [開放政府資料法](../notes/MZC4p1QMQZ6WRAPuYUuxtA.md) | 2020-03-19T09:21:01+08:00 | 2014-12-10T19:29:10+08:00 |
+| 108 | [g0v Media Policy \| 零時政府媒體政策](../notes/kqQGe6yhQgWFIya5Ztvajg.md) | 2020-03-18T17:26:53+08:00 | 2014-04-01T03:45:40+08:00 |
+| 109 | [magic-mirror](../notes/udz_FWEyQam4ELryYIy5OA.md) | 2020-03-01T11:13:35+08:00 | 2013-08-13T03:43:25+08:00 |
+| 110 | [社會運動維基條目修改計畫](../notes/RFrH1BYyQAS59_RvX2o2Jg.md) | 2020-02-18T23:17:21+08:00 | 2014-04-21T12:08:49+08:00 |
+| 111 | [中文處理工具簡介](../notes/fR51fyEcQYOVIGSCanO3TA.md) | 2020-01-11T23:12:24+08:00 | 2014-11-14T16:13:46+08:00 |
+| 112 | [組黨平台計畫](../notes/JWsy52iTSi2EtW6Xo7WUyQ.md) | 2019-12-25T15:32:38+08:00 | 2014-03-23T15:34:15+08:00 |
+| 113 | [g0v International Exchange and Cooperation](../notes/MgQJF7G6QEq2iTcYXqaIPQ.md) | 2019-12-22T10:44:36+08:00 | 2016-09-26T14:00:07+08:00 |
+| 114 | [形形色色的 g0v 參與者](../notes/2w7fQ5AsTCi1-J4OSADsyQ.md) | 2019-12-05T16:46:45+08:00 | 2013-08-06T02:21:10+08:00 |
+| 115 | [自稱 g0ver 的幾種方式](../notes/jg7ewPO1Sbejnpr7cdj5Lg.md) | 2019-11-22T12:16:48+08:00 | 2014-04-07T04:42:41+08:00 |
+| 116 | [中文處理工具簡介](../notes/m-RINa4PQW6s8esyMbzb0w.md) | 2019-08-25T22:59:21+08:00 | 2019-08-25T22:58:28+08:00 |
+| 117 | [開源義肢研究與行動](../notes/3nBponS1QRew01_RTyd2uw.md) | 2019-07-22T01:38:23+08:00 | 2014-07-13T04:41:30+08:00 |
+| 118 | [localwiki export / import](../notes/ii9pkOA8QMu_gizAaKXQdA.md) | 2019-07-10T06:48:12+08:00 | 2016-03-05T11:38:31+08:00 |
+| 119 | [中文處理工具簡介](../notes/4XaU7bjPQ-OqJJPoTgzN5g.md) | 2019-07-08T09:49:02+08:00 | 2019-07-08T09:49:02+08:00 |
+| 120 | [初步盤點國內外資訊與資料現有法令](../notes/LhovFHaaTcuBRswURjmQkg.md) | 2019-06-12T12:17:53+08:00 | 2017-08-01T18:39:05+08:00 |
+| 121 | [［懶人包系列］如何舉辦一個小松](../notes/ONV4jcgpRTaKVr3q_CWMQw.md) | 2019-05-25T19:41:10+08:00 | 2016-06-21T17:50:48+08:00 |
+| 122 | [vTaiwan小松參加指南](../notes/iO-N0He4QVGJUhayTMZlfw.md) | 2019-05-21T23:38:20+08:00 | 2017-11-11T10:03:56+08:00 |
+| 123 | [拆解開放資料諮詢小組](../notes/SsNxcblRQFuu70G2Z4gOEw.md) | 2019-05-01T21:57:31+08:00 | 2017-09-16T10:01:36+08:00 |
+| 124 | [Womany x vTaiwan 問卷調查](../notes/AC1VZSbQTwmOwJLptPf8Ww.md) | 2019-04-09T00:31:13+08:00 | 2018-08-22T16:09:10+08:00 |
+| 125 | [vTaiwan.tw 運作流程](../notes/_ehkmIYDQLKlHp-tDHO8gg.md) | 2019-04-09T00:25:44+08:00 | 2015-01-26T01:22:39+08:00 |
+| 126 | [關於vTaiwan](../notes/cgZ0mJg2Q22dScGm2JrGGA.md) | 2019-04-08T01:28:03+08:00 | 2015-08-17T19:17:06+08:00 |
+| 127 | [vTaiwan 改版](../notes/cNszrWLxSFOJMbJQmD_1oA.md) | 2019-04-08T01:13:52+08:00 | 2016-10-11T14:11:21+08:00 |
+| 128 | [vTaiwan 介面 2.0](../notes/te-2qbYrSv-zER-J_ie1Lg.md) | 2019-04-08T01:11:39+08:00 | 2015-04-24T15:55:39+08:00 |
+| 129 | [9/21 vTaiwan 線上諮詢會議：遙控無人機應用與管理機制](../notes/FX_-KLU7Swq38A2c8XiDAQ.md) | 2019-04-07T23:53:32+08:00 | 2017-09-21T18:53:06+08:00 |
+| 130 | [vTaiwan 社會企業公司法](../notes/V1S_M_OeT6iRPCBLKD8I3w.md) | 2019-04-07T23:52:55+08:00 | 2017-08-09T22:22:28+08:00 |
+| 131 | [vTaiwan 2018.02.14 小松](../notes/DbA0Tj7LRYSezEVb_6fkDw.md) | 2019-04-07T23:50:05+08:00 | 2018-02-14T17:22:56+08:00 |
+| 132 | [20180418 vTaiwan小黑客松](../notes/GLFJbfOjQM-wrILTXmJCMQ.md) | 2019-04-07T23:49:56+08:00 | 2018-04-18T21:07:29+08:00 |
+| 133 | [20180516 vTaiwan小黑客松](../notes/bEeNaO4FQdG-0h50FuUa3w.md) | 2019-04-07T23:49:43+08:00 | 2018-05-21T10:10:05+08:00 |
+| 134 | [20180822 vTaiwan小黑客松](../notes/XiLbCsPCTkOvRiV0NWVJjQ.md) | 2019-04-07T23:49:29+08:00 | 2018-08-19T23:34:05+08:00 |
+| 135 | [vTaiwan小松2017/10/18](../notes/LEZK1NKIQ2mZeojVvtpDbQ.md) | 2019-04-07T23:48:31+08:00 | 2017-10-18T17:24:42+08:00 |
+| 136 | [vtaiwan 小松會議 2017.07.12](../notes/ByZqvHQAS5KfuZp66PxelQ.md) | 2019-04-07T23:47:41+08:00 | 2017-04-19T16:15:38+08:00 |
+| 137 | [20180718 vTaiwan小黑客松](../notes/VEPBYyjIRGCKRKUxBS30UA.md) | 2019-04-07T23:47:13+08:00 | 2018-07-11T21:27:06+08:00 |
+| 138 | [vTaiwan 小松 2017.04.19](../notes/XngiZL55Q3iQ3rWzKY0hYQ.md) | 2019-04-07T23:44:03+08:00 | 2017-04-19T15:12:55+08:00 |
+| 139 | [vTaiwan 小松 2017.05.24](../notes/YvRZPL_XQC2fu1DfMCvoug.md) | 2019-04-07T23:43:53+08:00 | 2017-05-24T15:21:00+08:00 |
+| 140 | [vtaiwan 小松 2017.06.07](../notes/vtSwqqNmTwuqO4pKLLkRzw.md) | 2019-04-07T23:43:43+08:00 | 2017-06-02T17:19:13+08:00 |
+| 141 | [2017.05.17 vTaiwan 小松](../notes/ajmg19VdRV-GHuO90Pr3MQ.md) | 2019-04-07T23:43:26+08:00 | 2017-06-02T17:16:36+08:00 |
+| 142 | [vTaiwan 小松 2017.03.22](../notes/beqiV9PVS_iPxMyj6jgoag.md) | 2019-04-07T23:43:10+08:00 | 2017-03-22T17:36:52+08:00 |
+| 143 | [vTaiwan小松2017.03.08](../notes/oWNSn3HGSXevekhIfS-c4w.md) | 2019-04-07T23:43:00+08:00 | 2017-03-08T15:58:37+08:00 |
+| 144 | [vtaiwan 小松 2017.02.22](../notes/BseKWiMUSTOkobdTcmOevA.md) | 2019-04-07T23:42:49+08:00 | 2017-02-22T18:49:39+08:00 |
+| 145 | [vtaiwan 小松 2017.02.15](../notes/A1_5cyNxQ5m3iGnPP5GIYQ.md) | 2019-04-07T23:42:35+08:00 | 2017-02-15T15:26:51+08:00 |
+| 146 | [vtaiwan 小松 2017.02.10](../notes/C17TCH8aT0SRLxEtuiGiCw.md) | 2019-04-07T23:42:16+08:00 | 2017-02-10T16:49:57+08:00 |
+| 147 | [vTaiwan 小松會議記錄 2017.02.03](../notes/dGrLVzodQAaGbttxYu0K0w.md) | 2019-04-07T23:42:07+08:00 | 2017-02-03T14:04:00+08:00 |
+| 148 | [vTaiwan 小松 2016.12.30](../notes/82lsLWTQQnao7UjxRSjj4Q.md) | 2019-04-07T23:41:58+08:00 | 2017-01-03T13:27:28+08:00 |
+| 149 | [2016-10-08 vTaiwan 小松紀錄](../notes/GbtMn86wQq61Q6A8zYDaKQ.md) | 2019-04-07T23:41:45+08:00 | 2016-10-08T16:13:59+08:00 |
+| 150 | [vTaiwan 2016-10-22 小松](../notes/CXeYG_lTT72vhbCdYoEcog.md) | 2019-04-07T23:41:35+08:00 | 2016-10-22T14:06:39+08:00 |
+| 151 | [2016-09-02 vTaiwan小松紀錄](../notes/WS_xSM54RrynSZsFVzblcg.md) | 2019-04-07T23:41:27+08:00 | 2016-09-05T18:11:55+08:00 |
+| 152 | [2016-08-26 vTaiwan 小松紀錄](../notes/0bQxMhmuSuWaEjNUVFhkJA.md) | 2019-04-07T23:41:20+08:00 | 2016-08-28T03:16:52+08:00 |
+| 153 | [2016-08-12 vTaiwan 小松紀錄](../notes/U5ALtOvaTwu5_KTTbupeSw.md) | 2019-04-07T23:41:11+08:00 | 2016-08-11T23:22:59+08:00 |
+| 154 | [2016-08-05 vTaiwan 小松紀錄](../notes/luP7PqUDRL2oS0je59hOCw.md) | 2019-04-07T23:41:02+08:00 | 2016-08-11T22:06:48+08:00 |
+| 155 | [2016-07-29 vTaiwan 小松紀錄](../notes/asB3_rkKSz-IgP5kSs1LcQ.md) | 2019-04-07T23:40:53+08:00 | 2016-08-02T06:31:50+08:00 |
+| 156 | [2016-07-22 vTaiwan 小松紀錄](../notes/GV6GnEA-TE2FzLASFHDwug.md) | 2019-04-07T23:40:44+08:00 | 2016-07-22T23:47:58+08:00 |
+| 157 | [2016-05-13 vTaiwan 小松紀錄](../notes/ZHeGq7ybRDOlAn2BjSmwOg.md) | 2019-04-07T23:40:32+08:00 | 2016-05-16T20:17:07+08:00 |
+| 158 | [vTaiwan 2015-11-27 小松速記](../notes/9hNM589GRJ2Gm19LWMuupg.md) | 2019-04-07T23:40:21+08:00 | 2015-11-27T15:40:24+08:00 |
+| 159 | [vTaiwan 2015-10-16 小松速記](../notes/QpBDsBdNQ9uShD8yQbh9kQ.md) | 2019-04-07T23:40:06+08:00 | 2015-10-17T16:01:21+08:00 |
+| 160 | [vTaiwan.tw @ hackath12n](../notes/k6uIvMYRRfSrqZXwsWGLLg.md) | 2019-04-07T23:39:33+08:00 | 2015-02-14T04:48:06+08:00 |
+| 161 | [20180523 vTaiwan小黑客松](../notes/elsVDPqETrmkGokJOXgOsw.md) | 2019-04-07T23:37:27+08:00 | 2018-05-21T10:29:35+08:00 |
+| 162 | [20180704 vTaiwan小黑客松](../notes/PhbhmlUFSk29DSRCrW_hgw.md) | 2019-04-07T23:37:16+08:00 | 2018-06-30T23:39:39+08:00 |
+| 163 | [20180711 vTaiwan小黑客松](../notes/mUjEKhouQT2FBk6VWPiEWA.md) | 2019-04-07T23:37:00+08:00 | 2018-07-07T14:16:30+08:00 |
+| 164 | [20180627 vTaiwan小黑客松](../notes/zg7yEbSMQjGlHnP9Xrc4qQ.md) | 2019-04-07T23:36:48+08:00 | 2018-06-26T13:43:57+08:00 |
+| 165 | [20180620 vTaiwan小黑客松](../notes/haWGd3dCSRWyJDARgAOR4w.md) | 2019-04-07T23:36:37+08:00 | 2018-06-20T19:18:51+08:00 |
+| 166 | [20180620 vTaiwan小黑客松](../notes/qYgnaU79SMGsQo_2jvpiQQ.md) | 2019-04-07T23:36:26+08:00 | 2018-06-13T21:24:28+08:00 |
+| 167 | [20180613 vTaiwan小黑客松](../notes/ioiZPnbcQDaaSO-q8votaw.md) | 2019-04-07T23:36:15+08:00 | 2018-06-13T21:17:33+08:00 |
+| 168 | [20180606 vTaiwan小黑客松](../notes/ge5MJgQbTSm_Tt-RsJB3LQ.md) | 2019-04-07T23:36:06+08:00 | 2018-06-06T15:05:18+08:00 |
+| 169 | [20180530 vTaiwan小黑客松](../notes/DnK1bNGTQ8qASkIGjgHiug.md) | 2019-04-07T23:35:56+08:00 | 2018-05-24T22:03:15+08:00 |
+| 170 | [20180516 vTaiwan小黑客松](../notes/84qJBiB6QCmmTEzeGuYsOw.md) | 2019-04-07T23:35:44+08:00 | 2018-05-14T14:06:02+08:00 |
+| 171 | [20180509 vTaiwan小黑客松](../notes/JRVs2LgkSEOJK_-ucYfU9g.md) | 2019-04-07T23:35:30+08:00 | 2018-05-03T10:42:44+08:00 |
+| 172 | [20180502 vTaiwan小黑客松](../notes/kNWYf_9ZTMOAR8e76lNVaA.md) | 2019-04-07T23:35:14+08:00 | 2018-04-29T11:48:25+08:00 |
+| 173 | [20180425 vTaiwan小黑客松](../notes/OsLTkPBJR22Kkv37EVTneA.md) | 2019-04-07T23:35:05+08:00 | 2018-04-16T13:07:33+08:00 |
+| 174 | [vTaiwan 2018.03.14 小松](../notes/Zm1lp8rPQLiLR2jEGTbvpg.md) | 2019-04-07T23:34:55+08:00 | 2018-08-23T09:32:32+08:00 |
+| 175 | [vTaiwan 2018.03.07 小松](../notes/A5fwNhHWRHm5rqlBHCF3lg.md) | 2019-04-07T23:34:27+08:00 | 2018-03-07T14:33:12+08:00 |
+| 176 | [20180808 vTaiwan小黑客松](../notes/-Qufw5KYR2aiZRtpXhHSKA.md) | 2019-04-07T23:34:17+08:00 | 2018-08-05T16:54:41+08:00 |
+| 177 | [20180815 vTaiwan小黑客松](../notes/VDkLMe4qTLOjsXsG2w24Bg.md) | 2019-04-07T23:34:05+08:00 | 2018-08-14T10:53:17+08:00 |
+| 178 | [20180725 vTaiwan小黑客松](../notes/l41B4gKDSSCGFhBIzOxtEw.md) | 2019-04-07T23:33:55+08:00 | 2018-07-20T14:08:51+08:00 |
+| 179 | [20180801 vTaiwan小黑客松](../notes/m84YBRYgQnCx_ln24kyktg.md) | 2019-04-07T23:33:44+08:00 | 2018-07-29T12:11:04+08:00 |
+| 180 | [vTaiwan 2018.02.21 小松](../notes/iBTukeoSRfy2QqqETjlBfA.md) | 2019-04-07T23:32:53+08:00 | 2018-02-21T13:26:45+08:00 |
+| 181 | [vTaiwan 2018.02.07 小松](../notes/zFlkdNHgSsOKp6scDp5oGA.md) | 2019-04-07T23:32:42+08:00 | 2018-02-07T16:26:22+08:00 |
+| 182 | [vTaiwan 2018.01.31 小松](../notes/Uq94ynG2SnSLNq0FsMKHPw.md) | 2019-04-07T23:32:33+08:00 | 2018-01-31T20:04:44+08:00 |
+| 183 | [vTaiwan 2018.01.24 小松](../notes/PZiC_0YTRfyVDyUB3LQnjA.md) | 2019-04-07T23:32:22+08:00 | 2018-01-24T18:53:40+08:00 |
+| 184 | [vTaiwan 2018.1.10 小松](../notes/B0n8Hc8tSrWndxCUhYAgYw.md) | 2019-04-07T23:32:11+08:00 | 2018-01-10T18:25:27+08:00 |
+| 185 | [vTaiwan 2017.12.31 @跨年松](../notes/P7weck0jSCyyOT2gRJa9Og.md) | 2019-04-07T23:32:02+08:00 | 2017-12-31T21:52:57+08:00 |
+| 186 | [vTaiwan 2018.1.3 小松](../notes/c7LleNAZRO2Bc-sbW_f-nw.md) | 2019-04-07T23:31:52+08:00 | 2018-01-03T18:50:18+08:00 |
+| 187 | [vTaiwan 106.12.13 小松](../notes/uKJhS9fZR1-NL3tS4Hv8zA.md) | 2019-04-07T23:31:43+08:00 | 2017-12-13T17:24:04+08:00 |
+| 188 | [vTaiwan 2017.12.20 小松](../notes/G360wsv7RNuKVYX7p_2wmg.md) | 2019-04-07T23:31:33+08:00 | 2017-12-20T13:59:11+08:00 |
+| 189 | [vTaiwan 小松 2017.12.06](../notes/iVVeltZdQzq6LJL26E2Edg.md) | 2019-04-07T23:31:19+08:00 | 2017-12-06T16:44:26+08:00 |
+| 190 | [vTaiwan 2018.02.28 小松](../notes/RWwGuDy0TBKslL0hDpMJ6A.md) | 2019-04-07T23:31:09+08:00 | 2018-02-28T11:01:13+08:00 |
+| 191 | [vTaiwan 2018.1.17 小松](../notes/RIHAb_OQSaCFeiBtMvXhbg.md) | 2019-04-07T23:30:55+08:00 | 2018-01-17T16:16:38+08:00 |
+| 192 | [vTaiwan 小松 2017.11.22](../notes/Rs6gxtplSh61DgCcsFJ_nw.md) | 2019-04-07T23:30:45+08:00 | 2017-11-22T15:44:15+08:00 |
+| 193 | [2017.11.15 vTaiwan小松](../notes/3rNomDQzTPCKC1mwUZ07lw.md) | 2019-04-07T23:30:35+08:00 | 2017-11-15T19:44:00+08:00 |
+| 194 | [2017.11.08 vTaiwan小松](../notes/Y6KFw8ieSgaVm3s_IYkI_Q.md) | 2019-04-07T23:30:26+08:00 | 2017-11-08T19:14:17+08:00 |
+| 195 | [2017.10.25 vTaiwan小松](../notes/JQtB1IirRYC_Qll3O_CtrQ.md) | 2019-04-07T23:30:17+08:00 | 2017-10-25T19:27:28+08:00 |
+| 196 | [vTaiwan 小松會議記錄 2017.10.11](../notes/8fZajQucRYGjgK_y_-5MsQ.md) | 2019-04-07T23:30:06+08:00 | 2017-08-14T14:20:09+08:00 |
+| 197 | [vTaiwan 小松 2017.07.26](../notes/1IuoGcbiRp-t8Fo3nPsz1w.md) | 2019-04-07T23:28:21+08:00 | 2017-07-13T08:24:25+08:00 |
+| 198 | [vTaiwan.tw 網站文案](../notes/jlBlnmHeQzymydwkNdIjIw.md) | 2019-04-07T23:21:25+08:00 | 2014-12-23T02:37:17+08:00 |
+| 199 | [vTaiwan 背景資料：閉鎖型公司](../notes/zCoSvHWHQrCQ6qtdW-1VQg.md) | 2019-04-07T23:09:55+08:00 | 2014-12-30T17:12:12+08:00 |
+| 200 | [vTaiwan.tw 前端架構](../notes/EAdMLfnKQxqGV7OXTSeXPw.md) | 2019-04-07T23:07:51+08:00 | 2014-12-26T15:29:24+08:00 |
+| 201 | [vTaiwan.tw 宣傳文案](../notes/6h0RcN4PRei9tfy1fC28Wg.md) | 2019-04-07T23:00:41+08:00 | 2015-02-06T03:59:35+08:00 |
+| 202 | [vTaiwan架站指南](../notes/mMw5tulwT4C-oTdVEepJHw.md) | 2019-04-07T22:59:21+08:00 | 2015-01-20T18:09:15+08:00 |
+| 203 | [vTaiwan.tw mockup (v1)](../notes/mN7rMAFhQtStJC0G7isQhw.md) | 2019-04-07T22:56:39+08:00 | 2015-01-05T12:47:03+08:00 |
+| 204 | [vTaiwan.tw 後端架構](../notes/D2zXzDIdS4qRi89eJE_qvQ.md) | 2019-04-07T22:55:33+08:00 | 2015-01-13T12:36:31+08:00 |
+| 205 | [[vTaiwan] UberX 自用車載客](../notes/dtPr08PRQhKNiX90Mwv0EQ.md) | 2019-04-07T22:38:30+08:00 | 2015-06-26T14:43:16+08:00 |
+| 206 | [vTaiwan Airbnb 意見徵集](../notes/lNY5NuzISQmxFzkSuoECHA.md) | 2019-04-07T22:37:10+08:00 | 2015-08-28T16:50:44+08:00 |
+| 207 | [vTaiwan 讀冊](../notes/OuhEdgNkRU2CySwrFJLWww.md) | 2019-04-07T22:29:56+08:00 | 2018-08-23T09:57:27+08:00 |
+| 208 | [20180414 vTaiwan@萌典松](../notes/wMuSJNVdQPyroqiP_BwY0A.md) | 2019-04-07T18:46:29+08:00 | 2018-04-17T16:12:52+08:00 |
+| 209 | [vTaiwan 106.09.16 大松](../notes/I2A410BTTLeH4anZ43Lt4w.md) | 2019-04-07T18:20:02+08:00 | 2017-09-16T16:31:47+08:00 |
+| 210 | [vTaiwan交接松](../notes/oQ8eG6NbRLugCrFa-4UfnQ.md) | 2019-04-07T17:59:53+08:00 | 2016-10-02T10:36:17+08:00 |
+| 211 | [vTaiwan.tw 參考文獻](../notes/vx0HtCzYQ--pQALr4PNTzw.md) | 2019-04-07T17:48:07+08:00 | 2014-12-25T02:28:53+08:00 |
+| 212 | [vTaiwan 議題盤點](../notes/VJ4igkzXS-mwtT7MU5oyLg.md) | 2019-04-07T17:35:11+08:00 | 2017-01-11T12:14:58+08:00 |
+| 213 | [Insecam 可能辨識場所列表](../notes/DXKwF8ZuQGCl24PkOClAwQ.md) | 2019-04-01T21:31:43+08:00 | 2016-10-21T15:49:19+08:00 |
+| 214 | [獨立媒體清單](../notes/bBN59y2vTeWOA96Ea-TCeg.md) | 2019-03-19T18:13:03+08:00 | 2014-12-11T13:43:49+08:00 |
+| 215 | [收集世界各地有影響力的公民科技專案](../notes/_qMxLFcYQ1WYCIgJq4ai2Q.md) | 2019-02-10T02:03:36+08:00 | 2018-08-23T09:16:38+08:00 |
+| 216 | [社區資料規格討論](../notes/wjd3IpcDRKa3g-jaqvL-VQ.md) | 2019-02-09T23:01:17+08:00 | 2017-07-14T04:33:12+08:00 |
+| 217 | [相關政策（rough consensus）形成與適用的討論](../notes/343OzMAMSdqjJOWQOGFSCw.md) | 2018-11-21T10:34:50+08:00 | 2014-06-24T01:28:23+08:00 |
+| 218 | [CfA codeacross/brigade hangout notes](../notes/ZHWwQpJMSjyob38rzgRgZQ.md) | 2018-11-21T10:34:21+08:00 | 2014-02-11T17:50:33+08:00 |
+| 219 | [2014 台北市長政見比較表](../notes/POXYOMfARRuBGGqKVDA3Fw.md) | 2018-11-10T23:41:48+08:00 | 2014-08-29T19:51:09+08:00 |
+| 220 | [g0v不是藝術不是展覽](../notes/uSLyA_S4QVy1_nkG-fk3tQ.md) | 2018-10-22T21:45:12+08:00 | 2016-05-17T18:43:56+08:00 |
+| 221 | [[黑客松活動手冊] 行為守則](../notes/xfnqMnLZQIuYJraU2H7qYQ.md) | 2018-10-18T21:06:19+08:00 | 2014-06-16T01:55:34+08:00 |
+| 222 | [進度表](../notes/V-K4dfWVS9Se-DCKEdHsAA.md) | 2018-10-13T10:04:12+08:00 | 2015-09-10T20:22:47+08:00 |
+| 223 | [作品論述](../notes/65QG0Xu4SHKm0EmmBzrveQ.md) | 2018-10-13T10:03:12+08:00 | 2015-09-05T20:24:05+08:00 |
+| 224 | [會議記錄](../notes/2jGTSDToRFSuApP-CuIoYw.md) | 2018-10-13T10:02:38+08:00 | 2015-09-08T21:41:16+08:00 |
+| 225 | [Playlists](../notes/OSih_m4jQDOIkAFfQOYHkQ.md) | 2018-10-13T10:01:45+08:00 | 2015-11-10T11:14:46+08:00 |
+| 226 | [貢獻者們](../notes/vmfbLQ3iRke2D0gD9XNU1A.md) | 2018-10-13T10:01:09+08:00 | 2015-11-09T22:43:32+08:00 |
+| 227 | [標語們](../notes/K7JXYyvxTvmTPTc8zxOQTQ.md) | 2018-10-13T10:00:19+08:00 | 2015-11-08T09:40:15+08:00 |
+| 228 | [IDs](../notes/Zdizvpj5TxGjMeb_JKrYAQ.md) | 2018-10-13T09:59:55+08:00 | 2015-11-07T13:40:53+08:00 |
+| 229 | [佈展、顧攤、撤展人力需求](../notes/peTe6LX3QdWg763dVt5I7Q.md) | 2018-10-13T09:59:19+08:00 | 2015-09-12T11:33:09+08:00 |
+| 230 | [零時藝術@hackath16n](../notes/Nl28xNvlR32bxiS8Crg75A.md) | 2018-10-13T09:58:30+08:00 | 2015-10-24T11:22:40+08:00 |
+| 231 | [訪談](../notes/bz1eZkuuQEG1XR0_fx0EOw.md) | 2018-10-13T09:57:49+08:00 | 2015-11-17T17:54:22+08:00 |
+| 232 | [坑](../notes/OduMLlxRR7eqC4SJDkGeuw.md) | 2018-10-13T09:57:09+08:00 | 2015-11-08T14:49:47+08:00 |
+| 233 | [第十屆台北數位藝術節參展專案](../notes/1H9yemN5SLOB1ZRPGtaUGg.md) | 2018-10-13T09:55:11+08:00 | 2015-06-04T11:43:05+08:00 |
+| 234 | [器材及空間需求](../notes/PrtSeNHsRJe98XJYhD8fvg.md) | 2018-10-13T09:54:33+08:00 | 2015-09-06T10:17:33+08:00 |
+| 235 | [眾志成城：基進、人本、科學的開放協同議論平台](../notes/IL6bmbpYSTqRw35-2qZ7nQ.md) | 2018-10-13T09:54:12+08:00 | 2015-08-17T18:36:48+08:00 |
+| 236 | [g0v（在松菸）臺北數位藝術節藝佈展時需要318網站的資料需求列表](../notes/dH79SEpnRhuak90vjx5iSg.md) | 2018-10-13T09:52:53+08:00 | 2015-11-12T23:44:12+08:00 |
+| 237 | [數位藝術節【眾志成城】檢討](../notes/TkpyZ1EbQ-aS_B4znjrCNg.md) | 2018-10-13T09:51:15+08:00 | 2016-02-03T00:46:19+08:00 |
+| 238 | [《眾志成城》之後給g0v的幾個問題](../notes/2Y8PompSSKmXrYqVBGbUJA.md) | 2018-10-13T09:51:06+08:00 | 2016-03-05T17:14:39+08:00 |
+| 239 | [第十屆台北數位藝術節參展專案介紹](../notes/Z3OsRXf9TZ28gUFrUFYXng.md) | 2018-10-13T09:50:43+08:00 | 2015-11-09T22:16:20+08:00 |
+| 240 | [開放都市-委員會會議記錄資料庫](../notes/uAPFD74CTTy8FOnW2btS2w.md) | 2018-10-12T17:25:53+08:00 | 2015-06-05T13:47:22+08:00 |
+| 241 | [台灣的垃圾藝術](../notes/AYA7EBKFR1SVeKoutkZiow.md) | 2018-10-11T09:55:04+08:00 | 2016-01-30T19:11:47+08:00 |
+| 242 | [開放都市計畫](../notes/kErK5aZcT2OaF1xnYP9RgQ.md) | 2018-10-11T04:00:22+08:00 | 2014-02-22T12:24:29+08:00 |
+| 243 | [開放都市-委員會會議記錄資料庫 API策劃](../notes/fLtZ9bE6QZ6tWnmGsqCddQ.md) | 2018-10-11T04:00:01+08:00 | 2017-03-19T22:49:59+08:00 |
+| 244 | [開放都市-委員會會議記錄資料庫 前端策劃](../notes/CJruYEwbRVW3tb5Ehujhew.md) | 2018-10-11T03:59:57+08:00 | 2017-02-09T20:57:28+08:00 |
+| 245 | [開放都市-委員會會議記錄資料庫 資料結構](../notes/gZZ2ZzUpR7i-2evJ_ypvIQ.md) | 2018-10-11T03:57:58+08:00 | 2017-02-09T20:39:11+08:00 |
+| 246 | [開放都市計畫- 都市計畫小百科](../notes/bNvTRmfMSlu5nL-2FqgHNg.md) | 2018-10-11T03:52:25+08:00 | 2015-02-13T18:10:02+08:00 |
+| 247 | [新民主制度的自我成長循環 vs g0v 產品線](../notes/qCOk72OCTry3xOf7fXvfyw.md) | 2018-08-23T01:18:50+08:00 | 2014-04-07T14:55:47+08:00 |
+| 248 | [遊行場邊記： 街頭．網路．群眾不斷線](../notes/Tn7ubYGlRVuIsxH4Izw0UQ.md) | 2018-08-23T01:18:50+08:00 | 2014-04-07T14:56:18+08:00 |
+| 249 | [http://youtu.be/-22JEU6myA8 青島東23早上](../notes/OZJUiD3aSbSFQMNVX83aXg.md) | 2018-08-23T01:18:44+08:00 | 2014-03-23T07:51:55+08:00 |
+| 250 | [開放資料與環境 環評 (30min，中 > 英)：張家豪認領](../notes/IQajvzFATOq3MsNMPuJvNw.md) | 2018-08-23T01:18:44+08:00 | 2014-10-20T00:02:36+08:00 |
+| 251 | [《憤慨與希望的網絡》節譯（下）](../notes/oaDTRSPmQgCW8cLRscZr5Q.md) | 2018-08-23T01:18:44+08:00 | 2014-04-07T14:55:12+08:00 |
+| 252 | [資訊透明度](../notes/L9d8DwjoQROFRZyGH6LCSA.md) | 2018-08-23T01:18:44+08:00 | 2015-08-31T11:34:59+08:00 |
+| 253 | [政府](../notes/kQWcK_5wR5exJb2xnZtkSQ.md) | 2018-08-23T01:18:44+08:00 | 2014-04-07T10:57:20+08:00 |
+| 254 | [《憤慨與希望的網絡》節譯（上）](../notes/rVjuqrCDRLiyCRX94o7Yjw.md) | 2018-08-23T01:18:44+08:00 | 2014-04-07T14:54:48+08:00 |
+| 255 | [開放資料與環境 環評 (30min，中 > 英)：](../notes/SY_T6oh3RYCs2b-WV5xFkg.md) | 2018-08-23T01:18:34+08:00 | 2014-10-19T23:56:09+08:00 |
+| 256 | [開放資料與環境 座談 (30min，中 > 英)：](../notes/NJqCnv82TkeFtX6YmX8NwQ.md) | 2018-08-23T01:18:34+08:00 | 2014-10-19T23:55:54+08:00 |
+| 257 | [開放資料與環境 座談 (30min，中 > 英)：張家豪認領](../notes/5N0uomrbTVSMW5HY-gZCbw.md) | 2018-08-23T01:18:34+08:00 | 2014-10-19T22:09:17+08:00 |
+| 258 | [開放資料與環境  Open Weatherdata (30min，中 > 英)：陳敬元認領](../notes/TxpKtf8ATEKMFJ3FTh1ISw.md) | 2018-08-23T01:18:34+08:00 | 2014-10-19T23:56:22+08:00 |
+| 259 | [http://www.rootlaw.com.tw/LawArticle.aspx?LawID=A040040060001400-0960119](../notes/w7kDRAqeQNSrXoqkMuShZQ.md) | 2018-08-23T01:18:26+08:00 | 2014-05-09T17:44:36+08:00 |
+| 260 | [http://youtu.be/tHCWsEwIFAo](../notes/YxaK3OPVR9OIeM86IDBFDw.md) | 2018-08-23T01:18:26+08:00 | 2014-03-22T22:16:14+08:00 |
+| 261 | [test](../notes/dqUaAcmtQGuNmFH4x_4krQ.md) | 2018-08-23T01:18:26+08:00 | 2015-03-11T17:06:10+08:00 |
+| 262 | [開放資料與環境  Open Weatherdata (30min，中 > 英)：陳敬元認領  張家豪認領](../notes/TqeekLivRNOs8FF4w70oLQ.md) | 2018-08-23T01:18:26+08:00 | 2014-10-19T22:08:52+08:00 |
+| 263 | [https://github.com/audreyt/ethercalc/issues/74](../notes/nun2oK3_RsabW7_DJRXO2Q.md) | 2018-08-23T01:18:26+08:00 | 2014-05-09T19:41:18+08:00 |
+| 264 | [開放資料與環境 環評 (30min，中 > 英)：張家豪認領](../notes/-Z1fKNeHSlWXS-jYD4vdrg.md) | 2018-08-23T01:18:26+08:00 | 2014-10-19T22:09:07+08:00 |
+| 265 | [http://2016.cec.gov.tw/opendata/cec2016/getJson?dataType=6](../notes/dLpOfZAYRReET_Z7YIkwrw.md) | 2018-08-23T01:18:17+08:00 | 2016-01-07T16:06:51+08:00 |
+| 266 | [今天3/22我有在現場聽林飛帆同學與江院長的對話，我發現了一件非常恐怖的事情，就是你們完全不擅長引導民眾支持你們，你們要想辦法通過問答，例如:為什麼不能退出服貿](../notes/M6cV_qLxRIa3eyM_wcMBfw.md) | 2018-08-23T01:18:17+08:00 | 2014-03-22T21:19:35+08:00 |
+| 267 | [http://www.books.com.tw/products/0010793756](../notes/czHMwQ4TS9ag8KiNz_ZBgQ.md) | 2018-08-23T01:18:17+08:00 | 2018-08-15T21:02:44+08:00 |
+| 268 | [http://appy.tw/](../notes/aOGF7aY0RMKHWJjjOUK9tQ.md) | 2018-08-23T01:18:17+08:00 | 2016-10-06T16:31:10+08:00 |
+| 269 | [https://github.com/g0v/g0v.tw/issues/18](../notes/RpqutgEMTy2UKIFq08yJOA.md) | 2018-08-23T01:18:09+08:00 | 2013-08-09T12:06:03+08:00 |
+| 270 | [https://www.facebook.com/profile.php?id=100000846949353](../notes/Gpa2PTHdRgW_0BSb9U5fuA.md) | 2018-08-23T01:18:09+08:00 | 2014-03-21T05:28:05+08:00 |
+| 271 | [http://www.books.com.tw/products/0010793756](../notes/_QXj-uu1SSiCa2atTntnMg.md) | 2018-08-23T01:18:09+08:00 | 2018-08-15T21:02:35+08:00 |
+| 272 | [http://globalstartup.co/companies/newology/](../notes/g6S16Ze_QJmJiUkfL4WMqg.md) | 2018-08-23T01:18:09+08:00 | 2013-10-12T00:08:53+08:00 |
+| 273 | [立法院資訊處演講逐字稿 2014 1/21 /clkao](../notes/Zda6QDJ9T92smMg4kI1QmA.md) | 2018-08-23T01:18:09+08:00 | 2014-01-21T20:27:07+08:00 |
+| 274 | [立法院資訊處演講逐字稿 2014 1/21 /clkao](../notes/jreicBBRThqfX6zi-6WZIg.md) | 2018-08-23T01:18:09+08:00 | 2014-01-21T20:26:22+08:00 |
+| 275 | [政府資料開放平台http://data.gov.tw](../notes/3pC5KHZWT0y4B27734et3A.md) | 2018-08-23T01:17:58+08:00 | 2015-08-21T13:10:02+08:00 |
+| 276 | [https://www.facebook.com/groups/odtwn/](../notes/Pc87ZtLUT324CIOzn1BHIw.md) | 2018-08-23T01:17:58+08:00 | 2015-10-06T14:02:08+08:00 |
+| 277 | [1](../notes/_aU6s2XMRGy7HltmKNHuSA.md) | 2018-08-23T01:17:58+08:00 | 2016-12-14T18:31:58+08:00 |
+| 278 | [http://blog.clkao.org/post/197394/uk-gds-the-veto-power](../notes/LMrhe581RbeTgQjKgys0wQ.md) | 2018-08-23T01:17:58+08:00 | 2014-12-12T02:23:13+08:00 |
+| 279 | [http://sbaack.com/2015/11/19/scraping-the-global-civic-tech-community-on-github-](../notes/24BP57jyTFODe6qXwDAb5A.md) | 2018-08-23T01:17:53+08:00 | 2015-12-18T17:28:14+08:00 |
+| 280 | [https://g0v.hackpad.com/--Fy5roPxroAg](../notes/1ICxlrKVQn670pIYdRCM1A.md) | 2018-08-23T01:17:53+08:00 | 2014-11-08T23:22:21+08:00 |
+| 281 | [https://www.ptt.cc/bbs/Gossiping/M.1418222806.A.59D.html](../notes/OfXMySbjR8WHLhSJ1hLspw.md) | 2018-08-23T01:17:53+08:00 | 2014-12-11T11:20:11+08:00 |
+| 282 | [This pad text is synchronized as you type, so that everyone viewing this page se](../notes/bSTAGtoPTFebD-uW9mmdfw.md) | 2018-08-23T01:17:53+08:00 | 2016-05-26T16:14:36+08:00 |
+| 283 | [https://g0v.hackpad.com/--Fy5roPxroAg](../notes/i0QKfmEAQJ-Q2nyThwb0sA.md) | 2018-08-23T01:17:53+08:00 | 2014-11-08T23:21:36+08:00 |
+| 284 | [https://docs.google.com/presentation/d/1Iv1bFUTCL3HEQXkObTBZ83dDZuXpR8IbMAT73RzZ](../notes/8tlp8YfkTdaLAgdaUFQuew.md) | 2018-08-23T01:17:53+08:00 | 2015-10-03T12:01:41+08:00 |
+| 285 | [http://honeypupu.pixnet.net/blog/post/5904774-%E9%8A%80%E5%BA%A7%E8%9C%9C%E8%9C%](../notes/b6PibusHSwazwgpAoOgwIQ.md) | 2018-08-23T01:17:39+08:00 | 2015-04-13T17:18:31+08:00 |
+| 286 | [2010 IEDM @ Pubpeer](../notes/wdu74TSrQCCKl8EycB2PjQ.md) | 2018-08-23T01:17:39+08:00 | 2017-05-07T20:31:47+08:00 |
+| 287 | [2012 Sensors @ Pbupeer](../notes/ywT5NnkNTaqKEipS8BdA_w.md) | 2018-08-23T01:17:39+08:00 | 2017-05-10T00:01:21+08:00 |
+| 288 | [2012 Sensors](../notes/jk4m62mrQzq3WUbmE6MGkw.md) | 2018-08-23T01:17:39+08:00 | 2018-08-23T10:02:26+08:00 |
+| 289 | [2014 IEDM @ Pubpeer](../notes/BT1I-9InRqOYw9yvYpj-Aw.md) | 2018-08-23T01:17:31+08:00 | 2017-05-04T22:50:32+08:00 |
+| 290 | [2012 Sensors](../notes/nef81vYwSxKeeq2tsCslmQ.md) | 2018-08-23T01:17:31+08:00 | 2017-05-09T23:58:58+08:00 |
+| 291 | [This pad text is synchronized as you type, so that everyone viewing this page se](../notes/UcSANU0YRdKC3Hgm_3ODBA.md) | 2018-08-23T01:17:31+08:00 | 2016-08-27T15:33:49+08:00 |
+| 292 | [例子http://www.secufirst.com.tw/products_detail.aspx?Pid=7](../notes/bktQ2h-_QnqzD4BPqYvRYg.md) | 2018-08-23T01:17:31+08:00 | 2014-03-11T02:22:43+08:00 |
+| 293 | [http://honeypupu.pixnet.net/blog/post/5904774-%E9%8A%80%E5%BA%A7%E8%9C%9C%E8](../notes/sWWnCRVMRhCgj_8YkQFyoQ.md) | 2018-08-23T01:17:31+08:00 | 2015-04-13T17:17:29+08:00 |
+| 294 | [Japanese Journal of Applied Physics (2011) @ Pubpeer](../notes/oepfWW1ERPitsaB7ZAtLgQ.md) | 2018-08-23T01:17:31+08:00 | 2017-05-10T00:02:37+08:00 |
+| 295 | [2014 IEDM @ Pubpeer](../notes/99sgfO0mTYORmI7VA6ksNw.md) | 2018-08-23T01:17:19+08:00 | 2017-05-03T22:54:45+08:00 |
+| 296 | [2016 TED @ Pubpeer](../notes/6Zb6ldGpR326PorWJ_aBcg.md) | 2018-08-23T01:17:19+08:00 | 2017-05-04T22:49:32+08:00 |
+| 297 | [2016 IEDS @ Pubpeer](../notes/h2Y2pcZXTNupXKLdbxUwbA.md) | 2018-08-23T01:17:19+08:00 | 2018-08-23T09:46:52+08:00 |
+| 298 | [2015 IEDM @ pubpeer](../notes/Ly4B8sVORzCTTW-Yh6--og.md) | 2018-08-23T01:17:19+08:00 | 2017-05-04T22:47:07+08:00 |
+| 299 | [祁家威](../notes/E9O1jv_tQwSPm-dkkSh2Ow.md) | 2018-08-23T01:17:13+08:00 | 2016-11-24T18:41:17+08:00 |
+| 300 | [2016 TED @pubpeer](../notes/ZMYjQFpiSmufsmPbyXcOXQ.md) | 2018-08-23T01:17:13+08:00 | 2017-05-03T22:54:08+08:00 |
+| 301 | [2015 IEDM @ pubpeer](../notes/dEaj6naDQGe6g1oWwBIVlQ.md) | 2018-08-23T01:17:13+08:00 | 2017-05-03T22:50:25+08:00 |
+| 302 | [http://www.water.gov.tw/06news/news_b_main2.asp?no_g=6215](../notes/BlmX_uhNRY-yZRbk_2dGXQ.md) | 2018-08-23T01:17:13+08:00 | 2016-02-06T22:22:35+08:00 |
+| 303 | [2016 IEEE JEDS Review @pubpeer](../notes/ihtNu-5jT1Kz_-AeWAw-CQ.md) | 2018-08-23T01:17:13+08:00 | 2017-05-03T22:52:42+08:00 |
+| 304 | [MASERATI](../notes/Dx7ueiJRSgOApb4zvYNMUg.md) | 2018-08-23T01:17:13+08:00 | 2016-11-24T18:44:28+08:00 |
+| 305 | [IEEE Transactions on Electron Devices (2016) @pubpeer](../notes/klnpems0RRKhT64dpZED4Q.md) | 2018-08-23T01:17:02+08:00 | 2018-08-23T09:30:53+08:00 |
+| 306 | [我相信很多同性戀者想要的婚姻不會是這樣，但是伴侶盟提出的草案就是長這樣，現在這次沒有，這次尤美女跟另外一位立委](../notes/vDAntr7aTCii8Of6Nqe6rg.md) | 2018-08-23T01:17:02+08:00 | 2016-11-24T11:21:33+08:00 |
+| 307 | [https://www.w3.org/International/multilingualweb/2015-riga/slides/liao.pdf](../notes/a2UGZIZIReajPDtTbC1aBw.md) | 2018-08-23T01:17:02+08:00 | 2016-06-18T14:21:35+08:00 |
+| 308 | [Pubpeer Q&A](../notes/gJ6ox0-OQC2WKWF_NbhPwA.md) | 2018-08-23T01:17:02+08:00 | 2017-05-02T23:05:01+08:00 |
+| 309 | [Peer2- authors response](../notes/zj49PN8yTfGrjmoB6VdhKA.md) | 2018-08-23T01:16:54+08:00 | 2017-05-02T22:58:18+08:00 |
+| 310 | [Ｐubpeer](../notes/PJ9F1DgWT6axv_rfaIHsEQ.md) | 2018-08-23T01:16:54+08:00 | 2017-05-02T22:55:12+08:00 |
+| 311 | [https://www.facebook.com/g0v.tw/](../notes/ipp4Dr-1QmyYroAk0S2_xA.md) | 2018-08-23T01:16:54+08:00 | 2016-03-22T21:03:21+08:00 |
+| 312 | [Ge and MoS2 @pubpeer](../notes/natU1VvWQ1W39GMG7llqrQ.md) | 2018-08-23T01:16:54+08:00 | 2017-05-02T23:10:46+08:00 |
+| 313 | [https://jackiejamescreedon.wordpress.com/tag/bucket-brigade/](../notes/xBBSpY6MQAW8nUGB4ADPkQ.md) | 2018-08-23T01:16:54+08:00 | 2016-05-15T14:35:24+08:00 |
+| 314 | [開幹開團到開源：前往 g0v 的奇幻旅程（個人 blog 文草稿）](../notes/TZosPNVVTOKHeXUMCypkOw.md) | 2018-08-23T01:16:54+08:00 | 2013-08-28T09:14:23+08:00 |
+| 315 | [1051102不能只有我知道的國土計畫法](../notes/PjoO6ZOnS4aTSiYtulqIEA.md) | 2018-08-23T01:16:43+08:00 | 2016-11-09T10:43:49+08:00 |
+| 316 | [【徵求】行車紀錄器(暫定)](../notes/b_6O6ts1SW-EOkDx4hhMCw.md) | 2018-08-23T01:16:43+08:00 | 2014-05-19T17:22:02+08:00 |
+| 317 | [kenting10410](../notes/O90IC5BZTeCRxAvFdTWltA.md) | 2018-08-23T01:16:43+08:00 | 2015-09-14T22:20:51+08:00 |
+| 318 | [http://query.yahooapis.com/v1/public/yql?q=select+%2A+from+geo.placefinder+where](../notes/OGzyfhNnSdyULTwfMzCVVQ.md) | 2018-08-23T01:16:42+08:00 | 2013-11-24T12:49:32+08:00 |
+| 319 | [議論方法與平台蒐集](../notes/pXRnsY6vSAeMgp4625V2KA.md) | 2018-08-23T01:16:37+08:00 | 2016-08-13T06:36:26+08:00 |
+| 320 | [202群集結構紀錄表](../notes/_EV5p2z_S0WtzLkpL7Sk7g.md) | 2018-08-23T01:16:37+08:00 | 2016-11-08T09:38:42+08:00 |
+| 321 | [202群集結構紀錄表](../notes/OOLJGCqjQHawaFM67lAEQw.md) | 2018-08-23T01:16:37+08:00 | 2016-11-08T09:36:21+08:00 |
+| 322 | [NewsMap](../notes/n6MJuFtLTUuRM2B41RZcBw.md) | 2018-08-23T01:16:37+08:00 | 2013-06-07T22:12:47+08:00 |
+| 323 | [http://query.yahooapis.com/v1/public/yql?q=select+%2A+from+geo.placefinder+where](../notes/_bv4VrVzSxqiFl_tdleP6Q.md) | 2018-08-23T01:16:37+08:00 | 2013-11-24T12:49:30+08:00 |
+| 324 | [201 群集結構觀察記錄](../notes/2amTrsHPR5Gu33peoUcBzg.md) | 2018-08-23T01:16:37+08:00 | 2016-11-08T09:26:47+08:00 |
+| 325 | [http://whogovernstw.org/2015/11/09/yenlunchang1/](../notes/zDwsRLfGTmO369D7iX22Sg.md) | 2018-08-23T01:16:23+08:00 | 2017-01-23T16:59:25+08:00 |
+| 326 | [testing](../notes/3X3T8k4RRK-cn60KQpR2KA.md) | 2018-08-23T01:16:23+08:00 | 2016-01-23T12:10:48+08:00 |
+| 327 | [https://www.change.org/p/iso-change-the-present-taiwan-province-of-china-to-taiw](../notes/_yq9Mu_xQAyLiAG4uFGzPg.md) | 2018-08-23T01:16:23+08:00 | 2017-01-23T17:07:57+08:00 |
+| 328 | [有關於發送活動](../notes/sv16pUjmSrmkPfNLEWoWMA.md) | 2018-08-23T01:16:15+08:00 | 2014-04-24T02:29:11+08:00 |
+| 329 | [議員投票指南-意見回饋](../notes/VYHBJBOjR8yN6UwXGHyCag.md) | 2018-08-22T18:38:33+08:00 | 2014-06-22T23:20:36+08:00 |
+| 330 | [2018-08-22 Data Integration 第二場](../notes/0o2CwDioRNKS7cHaRLN9fQ.md) | 2018-08-22T12:43:14+08:00 | 2018-08-22T10:43:31+08:00 |
+| 331 | [都市農耕與社區園圃的技術課題整理](../notes/oNtcdQ2kTKm6pyKltoLyWQ.md) | 2018-08-22T10:03:15+08:00 | 2014-12-01T11:06:31+08:00 |
+| 332 | [開放民間租屋資料](../notes/LJCL4c7HRBGVsz8DxvceIw.md) | 2018-08-21T16:06:10+08:00 | 2018-03-18T23:29:49+08:00 |
+| 333 | [台灣地方議會議員配合款](../notes/_eSBGe-VT16bdNzljbAGlA.md) | 2018-08-19T22:42:16+08:00 | 2018-01-30T20:06:37+08:00 |
+| 334 | [公有土地資料庫－政策與文獻](../notes/GjFOmbfwRk6tpriDYqe0QQ.md) | 2018-08-18T21:17:05+08:00 | 2014-06-28T01:43:36+08:00 |
+| 335 | [addressbook-api](../notes/4WneI8qpSw-Ls2pDplVgFw.md) | 2018-08-18T20:58:11+08:00 | 2014-04-05T22:53:59+08:00 |
+| 336 | [Gamification](../notes/SIuQ5Gq6SpSY7x3PoA83ww.md) | 2018-08-18T20:03:43+08:00 | 2015-05-13T18:43:21+08:00 |
+| 337 | [Roundtable on Informed Discussion @ g0v Summit 2018](../notes/SgzCV2UjR2aKvuq-0F3oIg.md) | 2018-08-18T06:42:45+08:00 | 2018-08-09T00:07:54+08:00 |
+| 338 | [臺灣選舉選區GIS綜合模版](../notes/KrN3Ihy_TTm9cU-HRrzuhA.md) | 2018-08-16T18:58:55+08:00 | 2014-09-08T14:18:27+08:00 |
+| 339 | [身份證風格分享平台](../notes/YzxUJ5MtSoWgvAOZIgnqxA.md) | 2018-08-16T18:16:43+08:00 | 2018-06-12T20:01:33+08:00 |
+| 340 | [g0v Summit 2018 請款流程](../notes/z_SU6C78S8-o1MfaOyhE9w.md) | 2018-08-16T13:53:15+08:00 | 2018-01-20T17:28:30+08:00 |
+| 341 | [地面下、地下都市計畫](../notes/GWgRL7APSua7LeHEZlr3KQ.md) | 2018-08-15T19:35:06+08:00 | 2015-05-16T21:40:37+08:00 |
 | 342 | [建構都農社群交流網絡](../notes/UEPRtnCbRR-7Hm0cWK8gJA.md) | 2018-08-13T01:47:00+08:00 | 2014-07-13T11:20:42+08:00 |
 | 343 | [城市提案與募資平台](../notes/ayN2iS3vQDW_l_8gtA4-GQ.md) | 2018-08-12T22:48:34+08:00 | 2014-09-20T23:17:17+08:00 |
 | 344 | [建立「社區資訊」共同規範](../notes/c72SjKjKTouOGRaj75uGbA.md) | 2018-08-12T16:39:29+08:00 | 2017-03-14T20:59:42+08:00 |
