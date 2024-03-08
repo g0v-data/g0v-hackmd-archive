@@ -25,6 +25,10 @@ https://g0v.hackmd.io/@9MFwWADKQoOFxQv-EmZDug/SyirlHHTa
 2024-03-07
 https://g0v.hackmd.io/@9MFwWADKQoOFxQv-EmZDug/Sk8BS5L66
 2024-03-08
+https://g0v.hackmd.io/@9MFwWADKQoOFxQv-EmZDug/H1EPdJupa
+
+### week3
+2024-03-11
 
 
 ## 不能只有我知道的參考資料
