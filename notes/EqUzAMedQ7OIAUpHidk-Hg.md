@@ -147,6 +147,7 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
 工程與計畫
 - 歷史資料
     - 2013-2020 水利工程案件地點 KML https://drive.google.com/file/d/1HWp44KNrmasYWpNUpST0vG0pP84qa008/view?usp=sharing 
+    - 水保工程經緯度 https://eco.ardswc.gov.tw/mis_Extention/EcologicalChecklist/EngList.aspx
 - 縣市水藍圖計畫，點位資料
     - https://g0v.hackmd.io/HQ3u-wxdQRidmVycRdcTeA
 - 持續中的 河川工程決標案件

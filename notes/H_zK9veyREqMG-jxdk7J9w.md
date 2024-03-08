@@ -44,7 +44,6 @@ If the circumstance of a certain potential spot is appropriate, further evaluati
 - [⛳ Data](https://g0v.hackmd.io/i-35j792RgONpEhlREj7Zg)
 - [💻 地圖：NDVI & 公共綠地](https://classicdesign053.carto.com/builder/48e2d385-3328-495e-8bd8-0a352653f523/embed)
 - [🌱 Restoration Potential TW<br>臺灣潛在補植分布地圖](https://mapwarper.net/maps/71610#Preview_Rectified_Map_tab)[target=_blank]
-- [20240308 截止<br>開放政府行動方案徵集民間提案](https://g0v.hackmd.io/HdVurrl1QB-jdsWuKNCNuQ?view)
 
 ### Site-level
 - [Policy of Greenspace Sponsored Adoption 公部門提供認養措施](https://sheet2site.com/api/v3/index.php?key=1D2Iz2PfeyUUAtFT6oPS9uW1YEvcbQOIQKo1X1WHsa9U)
@@ -66,6 +65,7 @@ If the circumstance of a certain potential spot is appropriate, further evaluati
 
 ### Policy / Advocation
 - [Presidential Hackathon 2020](https://g0v.hackmd.io/U_xScWCcQU-WgMftKeJDrQ)
+- [20240308 截止<br>開放政府行動方案徵集民間提案](https://g0v.hackmd.io/HdVurrl1QB-jdsWuKNCNuQ?view)
 - [與各級公部門的互動](https://g0v.hackmd.io/NbyUJD9cQzGfjnUQDJW4Tg)
 - [桃園市政策平台成果](https://treeplanting.oram.gov.tw/)
 - [桃園市政策推動說明](https://g0v.hackmd.io/uYm-2aO4RzSryquZwoaM6w)
