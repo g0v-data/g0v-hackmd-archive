@@ -531,3 +531,53 @@ Opass 教學
 進度：
 - 2/27 早上去中研院人社館場勘，已將場勘的照片、影片、尺寸新增至上方資料夾中
 結論：
+
+## 20240308 第十七次會議紀錄
+> 時間：2024/03/08（五） 8:30 PM
+> 地點：線上
+> 出席：Dong、Hou、、
+
+### 紀念品進度
+
+* 經組內確認後即會向其他頻道蒐集想法及建議
+* 嗨嗨
+* 安安
+* ~~芙莉蓮好可愛~~
+
+
+### T恤
+
+- 把這隻手繪稿改成向量檔
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_83bb280fd65424e261397f1de6b4073b.png)
+
+
+
+- 把主視覺一小塊切出來當t恤設計 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1aeaba8e4caaffc44615cc9eb2524ffc.png)
+
+- 以台灣24小時營運的商店的顏色重新幫穿山甲上色 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b3f548f91cbcb767a88fdea0383713c6.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d1105d19947a7c92030a518368e00134.png)
+
+
+- 想法紀錄
+    - 把主視覺切成三條，會很像愛迪達
+    - 因為有很多顏色，或許可以模仿安迪沃荷的設計
+
+
+
+### 場佈指示系統
+- 場佈指示系統已單獨拉成一個 [Figma檔案](https://www.figma.com/file/TY3sK2tGqoePkf4aYNz6qT/Summit-2024-%E4%B8%AD%E7%A0%94%E9%99%A2%E5%A0%B4%E5%9C%B0%E6%8C%87%E6%A8%99%E8%A6%8F%E5%8A%83?type=design&node-id=0%3A1&mode=design&t=4s2B9KN6vv1xQVrD-1)，方便安排規劃![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d59bcc6c77ea57250058285d0d0efc67.png)
+
+### 手冊進度
+
+- 手冊要的資訊
+    - 要放哪一個單位當主辦？法律所
+    - 協辦單位/合作單位［預計??/??出來］
+        - 財團法人開放文化基金會 Open Culture Foundation
+        - 國立政治大學 創新國際學院 National Chengchi University International College of Innovation
+        - 東亞科技與社會研究國際期刊 East Asian Science, Technology and Society: An International Journal (EASTS)
+    - 贊助商資訊
+    - 議程［預計??/??出來］
+    - 工作人員名單［最晚4/20前定案］
+- 網站要的資料
+    - 交通資訊
+- 
