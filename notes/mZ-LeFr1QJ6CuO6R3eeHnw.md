@@ -9,6 +9,11 @@ tags: g0vernance
 - 2024.3.2 Jasmine、Yvonne、宸維，針對官網提出「勘誤需求」與「改動提議」
 :::
 
+:::success
+文件目錄
+[TOC]
+:::
+
 ## 動機
 
 為了讓 g0v 相關專案，都能透過 g0v 首頁，傳達自己的專案資訊，我們需要一套治理機制，來規範包含治理角色、專案資訊編修。
@@ -23,7 +28,31 @@ tags: g0vernance
 
 g0v slack #gov-landing-page 頻道
 
-## 審核者的加入與退出
+## 治理機制成員名單
+
+### 編輯者 (2023.3.4)
+
+#### 首頁：
+
+?
+
+#### 行事曆：
+
+- 有編輯權限者：
+    - 四個 GoogleGroup：g0v-talks、g0v-intl、g0v-jothon、cofacts
+- 「揪松團職工」可主動協助更新日曆內容，新增活動、修改活動內容 ..等
+
+### Reviewer (2023.3.4)
+
+- [Reviewer 清單](https://docs.google.com/spreadsheets/d/18oekxIDN84iPhP7fUYMleV7jmfWpr9UdZuujPFJmTBM/edit#gid=1776966921)
+  - ddio
+  - Teemo
+  - isabelhou
+  - tofu
+  - 揪松
+  - chihao
+
+### 審核者的加入與退出
 
 參考自 [SNS 社群治理](https://g0v.hackmd.io/THKRsDsNRXGsa_0zFUn3Gw)
 
@@ -53,20 +82,12 @@ g0v slack #gov-landing-page 頻道
 
 ## 首頁專案輪播
 
-[討論過程](https://g0v.hackmd.io/Q1kxZgObSBihH5ZrHKNiJg)
-
-### 發文流程
-
-1. 將欲發文章依照格式貼入[編輯台]()
-2. 於 g0v slack #sns 發文 ，貼上文章連結，並 tag reviewer 2 位
-   > Reviewer 請用[抽籤器](https://ronny.tw/g0v-sns/?type=calendar)抽出後，前 2 位即是該篇文章的 reviewer，請欲發文者 tag reviewer 
-3. 確認被抽中的 reviewer 看過無誤後，其中有 FB 權限的 reviewer 會幫忙貼上 FB 設定排程
-4. 到[編輯紀錄](https://docs.google.com/spreadsheets/d/1xyxYGKU7iia3xSu6rF9F6YCcXOcEqrFsI2RD493bAxE/edit#gid=1776966921)更新本次的 review 狀況
+主要討論文件：g0v 首頁 - 專案介紹的輪播機制
+https://g0v.hackmd.io/Q1kxZgObSBihH5ZrHKNiJg?view
 
 ## 活動行事曆
 
-[討論過程](https://g0v.hackmd.io/ym6CHeYQS7aVPB1gM-UCUg)
-
+### 張貼活動的流程
 
 1. 坑主在 #g0v-landing-page 登記想要辦的活動，提供下列資訊：
     1. 專案資訊：授權方式 + 專案連結（hackmd, website......。）
@@ -87,27 +108,28 @@ g0v slack #gov-landing-page 頻道
 - 內容欄位：專案共筆 Meeting note https://lihi1.cc/VDemi （聚會線上連結在共筆內）
 :::
 
-
-## 編輯者 (2023.3.4)
-
-### 首頁：
+### 其他討論
+- [技術討論文件 github -> google calendar ](https://g0v.hackmd.io/ym6CHeYQS7aVPB1gM-UCUg)
 
 
-### 行事曆：
+## 官網通報報修類 (流程草案撰寫中)
 
-- 有編輯權限者：
-    - 四個 GoogleGroup：g0v-talks、g0v-intl、g0v-jothon、cofacts
-- 「揪松團職工」可主動協助更新日曆內容，新增活動、修改活動內容 ..等
+- 例如 2024.03 已提出 [新手指南區域，「提案小訣竅」、「非資訊人參與指南」連結失效](https://hackmd.io/t97cH7tFQPyUCgwmfCsFiw?view#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E6%80%A5%E9%9C%80%E6%9B%B4%E6%96%B0%E7%9A%84%E8%B3%87%E6%BA%90)
+- 下一步如何推進工作？
 
-## Reviewer (2023.3.4)
 
-- [Reviewer 清單](https://docs.google.com/spreadsheets/d/18oekxIDN84iPhP7fUYMleV7jmfWpr9UdZuujPFJmTBM/edit#gid=1776966921)
-  - ddio
-  - Teemo
-  - isabelhou
-  - tofu
-  - 揪松
-  - chihao
+## 官網改動類提議 (流程草案撰寫中)
+
+- 例如 2024.03 已提出 [希望調整與新增的事項](https://hackmd.io/t97cH7tFQPyUCgwmfCsFiw?view#-%E6%96%B0%E5%A2%9E)
+    - 新增嵌入式網頁
+    - 在特定內文中，增加資源連結一：slack archive
+    - 在特定內文中，增加資源連結二：g0v 開源協作手冊
+- 下一步如何討論可行性、共識？
+
+
+
+
+
 
 ---
 
@@ -120,8 +142,9 @@ g0v slack #gov-landing-page 頻道
             - 提案小訣竅
             - 非資訊人參與指南
     - 改動提議類：
-        - 請見該 hackmd
+        - 提議內容請見該 hackmd
 - 如何推進相關工作？
+    - 首頁可編輯權限名單？
 
 
 

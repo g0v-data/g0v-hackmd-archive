@@ -152,6 +152,11 @@ App 相關記錄：
         - 雙邊的 emoji 會同步顯示與計數，且兩邊各自上傳的 emoji 素材庫，也會同步 😱
 
 #### Slack Bot 引導新參者的案例
+
+g0v slack 歡迎訊息，草稿共筆文件
+- https://g0v.hackmd.io/@jothon/S1pZe539_
+
+其他公民科技社群的 Slack 歡迎訊息
 - 案例共筆：https://g0v.hackmd.io/5oqT3zO8Rdq_pX46h7fEig
 - Code for All
     - 第一則訊息：
