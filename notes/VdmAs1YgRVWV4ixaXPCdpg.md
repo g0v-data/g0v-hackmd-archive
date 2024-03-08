@@ -12,6 +12,7 @@ tags: cowork guideline, 開源協作手冊, g0v
 - [[g0v挖坑術] 非資訊人黑客松提案小訣竅](http://ipa.logdown.com/posts/143277-g0v-proposal-tips) / ipa
     - 2024.03.08 連結失效
 - [[g0v跳坑術] 非資訊人參與指南](http://ipa.logdown.com/posts/166655-g0v-hackathon-nongeek) / ipa
+    - 2024.03.08 連結失效
 - [零時政府 | 子姓網友半年 summit](http://blog.yam.com/shulusama/article/81318638) / 子龍 
 - [Digital Hero – Fran Bennett](http://blog.delib.net/digital-hero-fran-bennett/) / delib 
 - [First Year of g0v: March 2014 [Transcript]](https://www.facebook.com/notes/%E5%94%90%E9%B3%B3/first-year-of-g0v-march-2014-transcript/808828052479750) / au 
