@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Reminder message for g0v Summit 2024 CFP](../notes/EPjMrHk6QdOID5hLfbauXQ.md) | 2024-03-02T16:38:26+08:00 | 2024-03-02T13:34:52+08:00 |
-| 2 | [2nd Code for Korea Conference - Happy Happy, Hack Gathering!](../notes/UKjeROzlTyWAf4tTehgU0Q.md) | 2023-10-25T16:44:41+08:00 | 2023-10-24T08:38:27+08:00 |
+| 1 | [2nd Code for Korea Conference - Happy Happy, Hack Gathering!](../notes/UKjeROzlTyWAf4tTehgU0Q.md) | 2024-03-09T03:20:36+08:00 | 2023-10-24T08:38:27+08:00 |
+| 2 | [Reminder message for g0v Summit 2024 CFP](../notes/EPjMrHk6QdOID5hLfbauXQ.md) | 2024-03-02T16:38:26+08:00 | 2024-03-02T13:34:52+08:00 |
 | 3 | [Questions for FtO Jeju 2023 participants](../notes/m_S2USBJTKSOzaqiaYETzA.md) | 2023-06-21T16:45:43+08:00 | 2023-06-13T17:08:07+08:00 |
 | 4 | [FtO Participant Interview](../notes/-q2lofUCQRizFeCBiI453g.md) | 2023-06-12T21:26:18+08:00 | 2023-06-09T22:30:25+08:00 |
 | 5 | [FtO Jeju 2023](../notes/8xxkO_0ZQqm-ZeA7909V5g.md) | 2023-06-11T10:36:32+08:00 | 2023-04-27T10:37:34+08:00 |

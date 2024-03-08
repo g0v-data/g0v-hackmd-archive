@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [2nd Code for Korea Conference - Happy Happy, Hack Gathering!](../notes/UKjeROzlTyWAf4tTehgU0Q.md) | 2023-10-25T16:44:41+08:00 | 2023-10-24T08:38:27+08:00 |
+| 1 | [2nd Code for Korea Conference - Happy Happy, Hack Gathering!](../notes/UKjeROzlTyWAf4tTehgU0Q.md) | 2024-03-09T03:20:36+08:00 | 2023-10-24T08:38:27+08:00 |
 | 2 | [g0ver @ 科技 × 民主治理 閉門國際工作坊](../notes/VuPySokuT5qNxZYjFJ8PCA.md) | 2023-09-15T13:15:41+08:00 | 2023-09-12T07:32:47+08:00 |
 | 3 | [g0v talk in TRANSFORMATION conference 2021](../notes/L36QWVuLSbaueT_xBCxMbw.md) | 2023-09-14T15:20:47+08:00 | 2021-03-31T19:59:30+08:00 |
 | 4 | [re:publica 20 session proposal](../notes/3_jW0KIJSSWa1PaKgdGSpg.md) | 2023-09-14T15:20:41+08:00 | 2019-10-22T21:58:35+08:00 |
