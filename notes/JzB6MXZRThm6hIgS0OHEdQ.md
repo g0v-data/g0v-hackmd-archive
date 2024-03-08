@@ -147,16 +147,15 @@ https://atlas.geo.ntnu.edu.tw/
 - 資料下載網址：https://data.gov.tw/dataset/73242
 
 民間下載 20240107 資料集建立的線上地圖
-- 線上地圖搭配篩選器：https://app.awesome-table.com/-NnYWzaRVwV_CasaZLAV/view
+- 線上地圖搭配篩選器：https://app.awesome-table.com/-NsTj-d3gKaoZCgi28Xq/view
     - 輔助用線上地圖 (無篩選器)：https://umap.openstreetmap.fr/zh-tw/map/2024010
-    - 20240221: "This app has exceeded its free usage quota. If you are the owner of the app, please activate a paid subscription, or the app will be deactivated on March 6th 2024." 免費版 Up to 500 views
-        - TODO
-            - chewei 預計再換一個網址
-            - 換好之後把各地本來的網址更新
+    - 地圖工作歷程筆記
+        - 20240221: "This app has exceeded its free usage quota. If you are the owner of the app, please activate a paid subscription, or the app will be deactivated on March 6th 2024." 免費版 Up to 500 views
+        - 20240308 chewei 已再換一個 [地圖網址](https://app.awesome-table.com/-NsTj-d3gKaoZCgi28Xq/view) 
 - 地圖所依據的資料集 Googlesheet：
     - https://docs.google.com/spreadsheets/d/1l_Au7txDgsknhHKvhLksfSAzeMmSoaih3m4pMdqwrBU/edit
 
-<iframe referrerpolicy="no-referrer-when-downgrade" height="600px" width="100%" style="border:none;" src="https://view-awesome-table.com/-NnYWzaRVwV_CasaZLAV/view"></iframe>
+<iframe referrerpolicy="no-referrer-when-downgrade" height="600px" width="100%" style="border:none;" src="https://app.awesome-table.com/-NsTj-d3gKaoZCgi28Xq/view"></iframe>
 
 ---
 
