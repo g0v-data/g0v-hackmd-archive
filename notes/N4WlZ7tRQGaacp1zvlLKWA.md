@@ -4,15 +4,24 @@ tags: 公有地大行動
 
 # 20240308 參加永續筆記本訪談錄音
 
+## 節目資訊與收聽網址
 廣播節目名稱：永續筆記本
 節目網址：https://www.rti.org.tw/radio/programView/id/1688
 主持人：嚴婉玲
 錄音時間：20240308 下午 1:30-16:30
-出席：chewei,
+出席：chewei, 嚴婉玲 (線上)
+
+## Ep67公私協力做永續
+
+https://www.rti.org.tw/radio/programMessagePlayer/programId/1688/id/149080
+
+
+## Ep68公私協力做永續
+
+
 
 ---
-
-主題列舉：
+## 活動前筆記區
 - chewei 可以分享碳匯城鄉專案、公有地活用專案
     - 2021 碳匯城鄉 發起專案
         - 建立公有資產的減碳類型架構 https://airtable.com/shrcpgvjxMsX7GIhw
