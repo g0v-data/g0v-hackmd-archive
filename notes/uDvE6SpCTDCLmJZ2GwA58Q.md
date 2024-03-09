@@ -186,6 +186,8 @@ tags: 新生流域
 - 小樽運河 https://www.facebook.com/story.php?story_fbid=pfbid0fWqKvARQUNmFQBVEtVJF7CFKVJVCbCQ4wrbqnZqGAQwfWgEsoke6mr2PSLEHMzMsl&id=100064523206796&mibextid=qC1gEa
     - 這本書主要是描述 １９７０年代日本北海道推動社區營造的過程，在建設開發的過程中，地方居民的參與產生了極大的力量，例如：函館禁止蓋高樓，才會有今日世界上最有名的夜景，小樽海港留下來的倉庫與保存這條小運河，才有今日觀光的人潮。當然這些是地方與政府努力協商討論的結果，有些地方人士還是不滿意，但是至少在互相討論、衝突之中不斷地找尋地方特色 http://trip.writers.idv.tw/2007/07/blog-post_4328.html?m=1
 - 清邁 https://www.travelerluxe.com/article/desc/230009056
+- 無車化方案的表現方法 Hamburgs famous Köhlbrand Bridge
+    - https://www.facebook.com/visualutopias/posts/pfbid02EP9WzGwN7T4X9r9xN7oPskyjYFM8647xh6GaQgSAPN1pKw4rbX2guPbRDDu7BfgGl
 - 天母忠誠路 箱涵 https://www.facebook.com/story.php?story_fbid=pfbid0HELZ5eT18ZwvAEAzaZtdQ6p6qVvc72mKLSBGusqEpy2euCT5W3UUSzx9LBeTkwS7l&id=100064771413821&mibextid=qC1gEa
 
 漢人信仰
