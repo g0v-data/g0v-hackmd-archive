@@ -20,6 +20,9 @@ GitHub：https://github.com/SeanGau/joinplus-collage
 
 ### 底圖地點測試：2023.08 總統府府前廣場
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_34570778d7e1ec7539989c5fc0dd8944.gif)
+
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_58b9b42cfbd297fe19b929cb7709366d.png)
 
 底圖種類：
