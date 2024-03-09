@@ -58,6 +58,8 @@ tags: bridge
     - [Slack] 島島阿學 建立中
         - 連結 g0v Slack #島島阿學
     - [Slack] Code for ALL #event channel [籌備文件](https://g0v.hackmd.io/mHhoDJlYRIClYZIOlMjgqg)
+    - [Telegram] clickhouse.tw
+        - 連結 g0v Slack #clickhouse
     - （其它可在這份文件上提議，在無 bridge 治理機制之前暫時於文件上討論決定）
 - 討論 bridge 治理機制
 
@@ -67,6 +69,8 @@ tags: bridge
     - [Zulip](https://github.com/zulip/zulip) (you can join the [Zulip community server](https://zulip.readthedocs.io/en/latest/contributing/chat-zulip-org.html) to see it working; also read [this](https://zulip.com/for/open-source/), [this](https://zulip.com/for/communities/), [this](https://zulip.com/help/moderating-open-organizations), and [this](https://news.ycombinator.com/item?id=27149123))
     - [Discord](https://discord.com/)
         - [Adding Discord to g0v bridge](https://g0v.hackmd.io/vdIjwcbiQcm3FCnKrcsaiA)
+    - Telegram
+        - [Adding Telegram group to bridge](https://g0v.hackmd.io/a3IelgLGT-GwisBu0RNNXQ?view)
     - [Mattermost](https://github.com/mattermost/mattermost-server)
     - [Rocket Chat](https://github.com/RocketChat/Rocket.Chat)
     - IRC

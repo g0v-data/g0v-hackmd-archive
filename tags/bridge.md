@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Adding Discord to g0v bridge](../notes/vdIjwcbiQcm3FCnKrcsaiA.md) | 2023-07-12T18:27:47+08:00 | 2023-01-21T01:38:42+08:00 |
-| 2 | [bridge](../notes/OmYCPV5aSFKCgJUar7dGDQ.md) | 2023-07-11T10:21:02+08:00 | 2021-06-12T15:37:01+08:00 |
+| 1 | [bridge](../notes/OmYCPV5aSFKCgJUar7dGDQ.md) | 2024-03-10T01:55:22+08:00 | 2021-06-12T15:37:01+08:00 |
+| 2 | [Adding Discord to g0v bridge](../notes/vdIjwcbiQcm3FCnKrcsaiA.md) | 2023-07-12T18:27:47+08:00 | 2023-01-21T01:38:42+08:00 |
 | 3 | [Matterbridge Slack bot setup](../notes/IsyNmVDnTySE-OfVhEcQMg.md) | 2023-07-01T14:55:55+08:00 | 2020-04-22T19:13:16+08:00 |
 | 4 | [LINE and Slack Integration](../notes/HSdBjpZcTdu5VHUsv4DRKA.md) | 2023-06-14T05:44:18+08:00 | 2023-04-10T16:35:00+08:00 |
 | 5 | [slack 之間的訊息編修動作，測試結果](../notes/H9SFX_HcQ4mSDiuHeIhecQ.md) | 2023-06-14T05:40:59+08:00 | 2023-03-06T13:11:30+08:00 |
