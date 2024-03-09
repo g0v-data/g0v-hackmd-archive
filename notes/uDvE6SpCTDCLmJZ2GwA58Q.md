@@ -63,6 +63,7 @@ tags: 新生流域
         - 鑽井位置？
     - 建成圓環 消防用水池 https://www.facebook.com/share/p/uqGJRaPAVASBqwx2/
     - 台博館南門園區 消防用水池
+    - 建國啤酒廠 影片中有說明深水井 https://youtu.be/_zFV6AQF0jc
     - 1933 臺北市大觀
         - https://www.facebook.com/photo?fbid=885845619797769&set=a.113042847078054
     - 陳永成公廳 https://www.facebook.com/photo.php?fbid=10150261926963618&id=747873617&set=a.10151834790708618&mibextid=qC1gEa

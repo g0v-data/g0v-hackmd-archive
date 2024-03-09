@@ -1,5 +1,5 @@
 ---
-tags: rentea
+tags: Rentea
 ---
 # 公共住宅旅遊地圖
 - 目標：希望收集國內外跟公共住宅的設計與政策相關的地景，紀錄在 google map 的清單上，撰寫簡單的介紹，讓公共住宅的議題關注可以跟旅遊結合。
@@ -36,6 +36,8 @@ tags: rentea
 ## 匈牙利
 - 布達佩斯[Wekerle estate](https://maps.app.goo.gl/7fgHDSWe5o4Lagpw8)
     - 花園都市。
+## 荷蘭
+- 鹿特丹 https://www.facebook.com/share/p/31C9vcpdr9STPrVY/
 ## 新加坡
 - [杜生莊](https://maps.app.goo.gl/DdJi3Qrqfu7BAKdR7)
     - 馬賽公寓的垂直村落概念延伸。
