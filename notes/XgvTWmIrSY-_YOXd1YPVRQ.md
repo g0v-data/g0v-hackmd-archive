@@ -3,6 +3,7 @@ tags: rentea
 ---
 # 公共住宅旅遊地圖
 - 目標：希望收集國內外跟公共住宅的設計與政策相關的地景，紀錄在 google map 的清單上，撰寫簡單的介紹，讓公共住宅的議題關注可以跟旅遊結合。
+    - Btw公共住宅跟都市計畫一樣，都是一個不探求興建時的社會背景，又或是都市持續面臨再開發壓力的挑戰，會無法看出堂奧的概念，也得和他們與住房管制相關的制度演進、土地取得制度的規定合併觀察。單純做住宅巡禮，怎麼講，總感覺會變成某種只是新創美感圖鑑意義上的整理。[name=友人]
 - 徵求：
     - 協助撰寫地標資訊與旅遊體驗的人
     - 協助整理與核對資料的人
@@ -11,20 +12,36 @@ tags: rentea
 - 下一步：
     - 架設網站？
 - [Google Map可編輯清單](https://maps.app.goo.gl/P5ddm51CeciXqCWMA)
-
 ## 台灣
-- [華江整宅](https://maps.app.goo.gl/sVc1BL7rEHPMarES9)
-- [萬芳國宅](https://maps.app.goo.gl/jP9WQ3SdWwvBMiCp6)
-
+- 台北[華江整宅](https://maps.app.goo.gl/sVc1BL7rEHPMarES9)
+- 台北[萬芳國宅](https://maps.app.goo.gl/jP9WQ3SdWwvBMiCp6)
+- 高雄[果貿社區](https://maps.app.goo.gl/Cx8STxminqmww52V7)
 ## 日本
 - 東京都北區[赤羽台團地](https://maps.app.goo.gl/sSrkRioimDv2MYMD9)
 - 東京都澀谷區[表參道之丘](https://maps.app.goo.gl/ohJcG48Yor2n9zBr8)
+    - 安藤忠雄改建前為同潤會青山公寓，改建後保留部分建築。
+    - 台北市老公寓的原型。
+- 東京都大田區[昭和生活博物館](https://maps.app.goo.gl/DygKu6tsBnXadjrEA)
+- 東京都北區[UR團地博物館](https://maps.app.goo.gl/FdDqdsdd3qSpyuFKA?g_st=ic)
+## 加拿大
+- 蒙特利爾 [住宅67](https://maps.app.goo.gl/QCA9SsFgNQEiF7ir8)
+    - 世博會上大放異彩。
+    - 預鑄式工法的極致，透過積木組合。
 ## 奧地利
 - 維也納 [卡爾·馬克思大院](https://maps.app.goo.gl/ZVXofKE7F79vmfaH8)
-- 維也納
+    - 「紅色維也納」時期遺跡
+    - 公共設施，如洗衣機
+- 維也納[Wohnpark Alterlaa](https://maps.app.goo.gl/VTi39E8hmo752kT18)
 
-## 布達佩斯
-
+## 匈牙利
+- 布達佩斯[Wekerle estate](https://maps.app.goo.gl/7fgHDSWe5o4Lagpw8)
+    - 花園都市。
 ## 新加坡
-
+- [杜生莊](https://maps.app.goo.gl/DdJi3Qrqfu7BAKdR7)
+    - 馬賽公寓的垂直村落概念延伸。
+## 法國
+- 馬賽[馬賽公寓](https://maps.app.goo.gl/VdB4iDJ7iu7DsmzB8)
+    - 柯比意的垂直村落。
 ## 英國
+- 倫敦[Alexandra Road Park](https://maps.app.goo.gl/63JhcAz1Qenqn6uQ6)
+    - 金牌特務電影拍攝地點。
