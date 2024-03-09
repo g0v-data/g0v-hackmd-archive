@@ -1,5 +1,5 @@
 ---
-tags: ogp
+tags: OGP, ogp
 ---
 # 12/8: g0v Hackathon / 推動台灣實質參與 OGP、提出開放政府行動方案（討論）
 

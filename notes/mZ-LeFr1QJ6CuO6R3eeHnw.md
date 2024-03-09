@@ -6,8 +6,8 @@ tags: g0vernance
 :::warning
 機制建構歷程
 - 2023.3.4 基礎松提案討論，並隨後建立三項治理流程 (1) 審核者的加入與退出 (2) 首頁專案輪播 (3) 活動行事曆
-- [討論中] 2024.3.2 Jasmine、Yvonne、宸維，針對官網提出「勘誤需求」與「改動提議」
-    - 2024.3.8 chewei 提議依照改動程度，分流處理
+- [2024.03 開始討論] 2024.3.2 Jasmine、Yvonne、宸維，針對官網提出「勘誤需求」與「改動提議」
+    - [2024.03 開始討論] 2024.3.8 chewei 提議依照改動程度，分流處理
         - (A) 維護類的修改，可以依循流程：頻道提議 -> Reviewer -> Editer 
         - (B) 透過基礎松來討論較大幅度改動的可行性與共識
 :::
@@ -26,6 +26,8 @@ tags: g0vernance
 1. 社群治理的審核者、編輯者的加入與退出
 2. 首頁（ https://g0v.tw ）的專案輪播調整
 3. 活動行事曆 （ https://g0v.tw/intl/zh-TW/event/ ） 的調整
+4. [2024.03 提議，可藉由後續基礎松擴大討論與確認方案] 網站通報報修、小規模內容更新工作
+5. [2024.03 提議，可藉由後續基礎松擴大討論與確認方案] 涉及網站版面的改動提議
 
 ## 聯絡方式
 
@@ -43,7 +45,16 @@ g0v slack #gov-landing-page 頻道
 
 - 有編輯權限者：
     - 四個 GoogleGroup：g0v-talks、g0v-intl、g0v-jothon、cofacts
-- 「揪松團職工」可主動協助更新日曆內容，新增活動、修改活動內容 ..等
+
+群體相關介紹
+- g0v-talks
+    - g0v-talks@googlegroups.com
+- g0v-jothon 名單說明
+    - 「揪松團決策委員與職工」可主動協助更新日曆內容，新增活動、修改活動內容，名單：https://jothon.g0v.tw/about/
+- g0v-intl
+    - https://g0v.hackmd.io/@chihao/rypH_tpoE
+- cofacts
+    - https://cofacts.tw/about
 
 ### Reviewer (2023.3.4)
 
@@ -52,7 +63,7 @@ g0v slack #gov-landing-page 頻道
   - Teemo
   - isabelhou
   - tofu
-  - 揪松
+  - 揪松 (「揪松團決策委員與職工」名單：https://jothon.g0v.tw/about/)
   - chihao
 
 ### 審核者的加入與退出

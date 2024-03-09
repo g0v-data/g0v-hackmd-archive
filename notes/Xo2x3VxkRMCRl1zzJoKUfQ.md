@@ -1,30 +1,31 @@
 ---
-tags: ogp
+tags: OGP, ogp
 ---
 民間參與台灣開放政府國家行動方案
 ===
 - [開放政府夥伴是什麼？](https://www.opengovpartnership.org/about/)	
-- [國發會入口網頁](https://www.ndc.gov.tw/Content_List.aspx?n=0C5AB1D0FA5B64B8)
-- [slack討論區＃ogp](https://g0v-tw.slack.com/archives/CUM4P4895)
+- [國發會入口網頁](https://www.ndc.gov.tw/Content_List.aspx?n=0C5AB1D0FA5B64B8)[target=_blank]
+- [g0v Slack 討論頻道 #ogp](https://g0v-tw.slack.com/archives/CUM4P4895)
 - 台灣實質參與 OGP 信件群組
 
-
-民間協作
+民間協作與行動
 ---
+- [2024/3/8 民間提案清單與追蹤](https://g0v.hackmd.io/@jothon/rJMX7aKTp/)
+- [2023/12/9 開放政府行動方案總體檢](https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/HJITWUbLa/%2FrV4_fGbJRM-agjnjcu7v5g)
 - [2020/3/14 g0v tw hackath38n — 中場短講 — OGP 開放政府行動方案 ／ ky — 在家黑客松](https://www.youtube.com/watch?v=9GivElvDxtw)
 - [大家一起來寫「臺灣開放政府國家行動方案」！提案統計](https://g0v.hackmd.io/J8cC2MSjTHCEN0VcNr-alA?view)
 - [2020/2/21-3/6 大家一起來寫「臺灣開放政府國家行動方案」！](https://join.gov.tw/policies/detail/031e9918-59d5-4a1a-b105-96af228f3147#middle)
 - [2020/3/1 vTaiwan 國發會「開放政府國家行動方案」意見徵集工作坊](https://g0v.hackmd.io/UjnL4GU3RfKoO4wHuO-RFw?view)
 - [2020/2/26 vTaiwan 小黑客松](https://g0v.hackmd.io/@tmonk/rJHYWR9S4/%2FQyJsHpbCQCCV1dN9HbrY7w?type=book)
+- [實踐「開放政府」理念的民間社群專案案例](https://g0v.hackmd.io/FKgd_eUASfGTe2pOebV0BQ?view)
 - [OGP國家行動方案之相關民間團體彙整](https://hackmd.io/@billy3321/SywH_2O48)
 - 2019/10/13 民間會前會
-
 
 官方會議
 ---
 - [2020/2/12 109年2月12日我國開放政府國家行動方案承諾事項規劃會議紀錄](https://www.ndc.gov.tw/Content_List.aspx?n=0C5AB1D0FA5B64B8) 
 - [2019/12/13 推動我國開放政府行動方案規劃研商會議紀錄](https://www.ndc.gov.tw/Content_List.aspx?n=0C5AB1D0FA5B64B8)
--  [2019-10-28 108年第3次開放政府政策協調聯繫會（我國參與OGP的歷程說明）](https://sayit.pdis.nat.gov.tw/2019-10-28-108%E5%B9%B4%E7%AC%AC3%E6%AC%A1%E9%96%8B%E6%94%BE%E6%94%BF%E5%BA%9C%E6%94%BF%E7%AD%96%E5%8D%94%E8%AA%BF%E8%81%AF%E7%B9%AB%E6%9C%83)
+- [2019/10/28 108年第3次開放政府政策協調聯繫會（我國參與OGP的歷程說明）](https://sayit.pdis.nat.gov.tw/2019-10-28-108%E5%B9%B4%E7%AC%AC3%E6%AC%A1%E9%96%8B%E6%94%BE%E6%94%BF%E5%BA%9C%E6%94%BF%E7%AD%96%E5%8D%94%E8%AA%BF%E8%81%AF%E7%B9%AB%E6%9C%83)
 - [2019/10/14 研商我國參與開放政府夥伴關係聯盟相關事宜會議](https://www.ndc.gov.tw/Content_List.aspx?n=0C5AB1D0FA5B64B8)
 - [2018/12/5 唐鳳與OCF、g0v 社群夥伴談 OGP](https://sayit.pdis.nat.gov.tw/2018-12-05-ocfg0v-社群夥伴談-ogp) 
 

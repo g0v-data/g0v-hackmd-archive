@@ -1,6 +1,5 @@
 ---
-title: "2018 OGP Summit 系列分享會文案"
-tags: hackpad
+tags: OGP, hackpad
 ---
 
 # 2018 OGP Summit 系列分享會文案

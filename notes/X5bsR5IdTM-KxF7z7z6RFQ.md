@@ -1,6 +1,5 @@
 ---
-title: "2016/12/8-9 OGP note"
-tags: hackpad
+tags: OGP, hackpad
 ---
 
 # 2016/12/8-9 OGP note
