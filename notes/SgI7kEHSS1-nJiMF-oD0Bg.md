@@ -17,7 +17,12 @@ tags: Rentea
 
 ### 生育補助
 
-1. 台北市
+1. `台北市` ，4 萬
+   1. 雙親之一須設籍台北市，申請前 10 個月，設籍北北基
+   2. 出生後 60 日內，到戶政辦理戶籍登記時，一併申請 ^[[北市生育獎勵金資訊](https://born.taipei/cp.aspx?n=4BB21D19B8E70CE0)]
+2. `新北市` ，2 萬
+   1. 規定同台北市，可線上申辦 ^[[新北市生育獎勵金資訊](https://welfare.ntpc.gov.tw/viewService/show/1008103)]
+3. 都可以[拿完生育補助就遷走](https://verywed.com/forum/wedlife/674544.html) XD
 
 
 ### 養育補助、公立托嬰、托育、幼稚園
