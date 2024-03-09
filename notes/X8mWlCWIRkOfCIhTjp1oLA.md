@@ -307,6 +307,9 @@ https://www.facebook.com/100064994161787/posts/pfbid0d3PRURrdjfZCP9QFpA4hd2HMQ58
 中壢
 https://www.facebook.com/100049204915573/posts/pfbid05UarMKSgK9kEQCAzzqosoJ5HkmDgc56GDCfdLePBdxPBjbDbk34MoBVHJiQ9nx5Kl/
 
+中壢，行穿線被高架橋墩阻隔
+https://www.facebook.com/share/cgEL3MF287HV6wzy/
+
 銘佑69街7414弄和龍川二街的十字路口車流量大但並沒有設置紅綠燈和斑馬線
 https://sch001.g0v.tw/dash/prj/PYT0Zh11Dx0fE99.57SCnBr.FZPRb8
 > [name=Ying：嗯？有這街嗎？（銘佑69街7414）本來想看一下長怎樣但 google 搜不到]
