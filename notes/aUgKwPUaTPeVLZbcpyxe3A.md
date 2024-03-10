@@ -130,5 +130,5 @@ http://dev.cofacts.tw/
     - 包含事後 QC
 持續貢獻
 - achievement badge?
-
+- 維繫現有查核者的關係 (寄信)
 

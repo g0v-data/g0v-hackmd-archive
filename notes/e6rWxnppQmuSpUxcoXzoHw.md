@@ -9,6 +9,9 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 
 {%hackmd VkctH3USQ-yoB6hw2s2D0Q %}
 
+## mar 2024 todos
+- [ ] 回覆 OCF email
+
 ## Feb 2024 todos
 - [ ] defense.tw 可以掛一個連結到韌性松嗎？
     - [ ] 處理 https://docs.google.com/document/d/1g4unx-__fvCc6tPLeniPd_jb5EoIDALXOYkROWyVaTo/edit#heading=h.pbnalu5gwmf2
