@@ -4,5 +4,5 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 ---
 
 :::info
-[↩️ 回到籌備文件](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home)
+[↩️ 回到 DigiResiTh0n 首頁](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/https%3A%2F%2Fg0v.hackmd.io%2F%40paulpengtw%2FDigiResiTh0n-home)
 :::

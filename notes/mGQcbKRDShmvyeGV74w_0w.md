@@ -1,6 +1,6 @@
 ---
 title: g0v DigiResiThon 數位韌性松大全
-tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon
+tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense
 ---
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
@@ -28,6 +28,7 @@ We want to discuss measures for both governmental and civil department, that can
 各次小松
 ---
 `Latest` 
+- [20240323 DigiResiTh4n 第肆次](/qcDX1C5mTE24UcCUkfTthQ)
 - [20240224 DigiResiTh3n 第參次](/Xt7FoiZgTYq-7x20iNGN4A)
 - [20240120 DigiResiTh2n 第貳次](/iC-7ZtqJTqG75GxUY3aiAQ)
 - [20231230 DigiResiTh1n 第壹次](/mKkOC9PLSXi0GZg7uGm1xA)

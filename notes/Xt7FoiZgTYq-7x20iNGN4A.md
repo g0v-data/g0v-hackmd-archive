@@ -3,13 +3,8 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 image: https://imagedelivery.net/WO_sK8AGsHZbPc2iUuxbgA/7a343636-79d9-4544-c94e-6290193c3d00/public
 ---
 
-[👉 用每月一盒披薩的錢，陪伴龍年寶寶 g0v 邁向下一個龍年！👈](https://ocf.neticrm.tw/civicrm/contribute/transact?reset=1&id=30)
+{%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
-:::spoiler
-『零瓏湧現，攏聚大松』龍年誕生的 g0v 社群，即將於 2024 年邁入 12 歲，揪松團募集大家的支持，一起幫 g0v 點一盞太歲燈！
-👉 [為 g0v 點一盞太歲燈－每月定期定額助養大松](https://ocf.neticrm.tw/civicrm/contribute/transact?reset=1&id=30)
-捐款挺大松，填滿更多坑！
-::: 
 # g0v DigiResiTh3n 第參次數位韌性松
 :::info
 [↩️ 回到籌備文件](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home)
