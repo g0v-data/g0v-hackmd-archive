@@ -44,6 +44,7 @@ We want to discuss measures for both governmental and civil department, that can
 
 歷史上的野生災害資訊整合平台
 ---
+- [2014-08-01 高雄氣爆資訊彙整](https://beta.hackfoldr.org/Kaohsiung-explode-20140801/)
 - [2021-04-02 太魯閣號列車脫軌事故災情整合平台](https://g0v.hackmd.io/c/20210402TarokoCrash/https%3A%2F%2Fg0v.hackmd.io%2F%40jothon%2FBJI4GKESd)
 - [COVID-19 Info 疫情資訊野生整合平台](https://g0v.hackmd.io/@yitzu/covid-19/https%3A%2F%2Fg0v.hackmd.io%2F%40yitzu%2Fcovid-19)
 - [俄羅斯入侵烏克蘭資訊野生整合平台 2022.2-](https://g0v.hackmd.io/@chihao/ukraine/%2Fm8_-IXlsSNGxIKOxsEDhxw%3Fview)

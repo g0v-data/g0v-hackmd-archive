@@ -5,14 +5,16 @@ tags: 採訪共筆, cowork guideline, g0v, 開源協作手冊, 基礎建設
 image: https://i.imgur.com/vwP94aZ.jpg
 ---
 
-# 與 g0v 社群參與者相關的影片拍攝
+# 與 g0v 社群參與者相關的影片拍攝、紀錄片拍攝
 
+共筆內容說明
 1. 蒐集與 g0v 參與者相關的「紀錄片訪談」、「活動拍攝」等動態影像製作。
-2. 當次的共筆文件、製作成果、拍攝單位簡要名稱...等
+2. 當次的共筆文件、製作成果、拍攝單位簡要名稱...等。
 3. 依照拍攝年份排序。
-4. [給記者朋友、研究者的採訪建議事項](/hgXdOpyZRPCK1HVBVGmIhA) [target=_blank] 
-5. [以 g0v 為主題的學術研究](https://g0v.hackmd.io/tpWNQTFvSOS_ZrSt2MiPWg) [target=_blank] 
-6. [與 g0v 社群參與者相關的影片拍攝](https://g0v.hackmd.io/oImzjz2XTciqP3lnbwkgKw) [target=_blank] 
+
+其他參考資料
+- [給記者朋友、研究者的採訪建議事項](/hgXdOpyZRPCK1HVBVGmIhA) [target=_blank] 
+- [以 g0v 為主題的學術研究](https://g0v.hackmd.io/tpWNQTFvSOS_ZrSt2MiPWg) [target=_blank] 
 
 ![Filming of The Life-Sized City in the office of g0v jothon. Photo by g0v.tw, CC BY 2.0](https://i.imgur.com/vwP94aZ.jpg)
 > Filming of The Life-Sized City in the office of g0v jothon. [CC BY 2.0 by g0v.tw](https://www.flickr.com/photos/g0v/48989674468/in/album-72157711577604536/)
@@ -83,6 +85,7 @@ https://www.youtube.com/watch?v=7238q4LM1nA&feature=youtu.b
 剪輯成果：
 - 拍攝訪談 Howard 的成果，有使用於 NHK world 2021/5/17 Taiwan's Civic Hacktivism Codes New Democracy	
     - https://www3.nhk.or.jp/nhkworld/en/news/videos/20210517194551780/
+    - 影片逐字稿：https://g0v.hackmd.io/WJtjRtqQSEmGkV1jQWOcwg?view
 
 ## 2021
 
@@ -120,7 +123,6 @@ https://www.youtube.com/watch?v=7238q4LM1nA&feature=youtu.b
 剪輯成果：
 - 123
 
-
-
-
 ## 2023
+
+## 2024

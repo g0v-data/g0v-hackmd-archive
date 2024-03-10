@@ -36,7 +36,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 
 ## 確認下次活動時間後
 - [x] 把時間放到自己的行事曆上
-- [ ] 製作社群圖片和貼文
+- [x] 製作社群圖片和貼文
     - [DigiResiTh0n Social Media Post's Image Generation Prompts](/PaNChj9XQ7ar_jVceu5ciQ)
 - [ ] 開設 KKTIX 售票頁面
 - [ ] 把活動資訊放到 #g0v-landing-page channel
