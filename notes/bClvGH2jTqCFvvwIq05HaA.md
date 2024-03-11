@@ -31,14 +31,24 @@ tags: summit2024
 
 ## Keynote
 - 致昕尚未回信，在截止前要寄信提醒提供資訊 [keynote speaker-致昕](/wfhhTpFzQqS8uU_A-pyH_A)
-- 
 
 ## 社群軌
 - AN [g0v Summit 2024 社群軌 - AccessNow（名稱未定）](/oTzW4X4kTO25IWqiE_ylNw)
 - Disfactory [disfactory](/I2b7QqBsRTKOYCW0aAVLWg)
 - 數位民防 / 韌性 [g0v Summit 2024 社群軌 - 數位民防](/@chihao/BJXN1lPah)
 
+## Unconf
+- [Unconf](/kFBljhsrSTW-mT_A-sBPVw)
+- 持續詢問跳坑者中
+
 ## 議程助理與工作人員
+### 議程助理與場務人員
+- [議程助理](/@summit2024/HyxFggJX-p)
 - 目前有17位
 - SITCON 本週五會分享
+
+### 主持人
+- [主持人](/uY0OBQe8QSOIRnYLzixDeg)
+- 如何招募與徵集？表單
+- 主持人算是會眾還是工作人員？
 
