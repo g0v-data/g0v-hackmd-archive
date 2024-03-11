@@ -110,6 +110,9 @@ When storing the AI transcript, [API server](https://github.com/cofacts/rumors-a
 - Retrieves Y doc from `ydocs` index
 - Can be used to load history
 
+### `ListArticles`
+
+- Can filter by contributors
 
 :::spoiler Outdated design
 

@@ -8,7 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- 線上出席：bil, mrorz, hsin-tzu, nonumpa
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -25,13 +25,21 @@ https://github.com/cofacts/rumors-site/releases/tag/release%2F20240311
 > https://g0v.hackmd.io/vKCvrqSQTlm7GEx9MAXGaw?view#op-Transcript-spam-處理
 
  - 發現有很多 history 都只有名字（舊版）沒有 userid，要把這些 case 撈出來再用名字 mapping 回 userId，怕使用者在這期間改了名字 mapping 不回來
- - update contributor 時要先 get
+ - update contributors
+     - 要先 get 再 update
+     - 或每次都從 ydoc 拿一次 contributors
+     - 可以理解從 ydoc 拿可以確保 single source of truth，不過這樣要等 plugin 做完 [name=mrorz]
+     - 也可以做在 plugin 裡 [name=nonumpa]
+     - 但 plugin 應該只處理 ydoc。如果要紀錄 `articles.contributors` 或許在 collab-server index 裡做比較恰當 [name=mrorz]
+- 要在 GraphQL 做一個可以讀的 filter? [name=nonumpa]
+    - `ListArticles` 要可以 filter by contributor，這樣 user page 能列出使用者貢獻過逐字稿的 articles 讓使用者點回去，也能計算總數
+
 
 ### [Comm] article group 收尾
 > nonumpa
 
 
-### [Comm] Thumbnails for video and audio
+### [Comm] Whisper hallucination
 
 > https://github.com/cofacts/rumors-api/issues/326
 > [name=mrorz]
@@ -55,7 +63,9 @@ Design doc:
 
 ## User organization and CoC
 > https://g0v.hackmd.io/ucUXvnqbRBmsD6YGkmdYvg?both#User-organization-and-CoC
-> 
+> bil
+
+N/A
 
 ## 小聚籌備
 
@@ -64,7 +74,7 @@ Design doc:
 - [ ] 場地：新北青職基地 1F
     - 一定要 20 人以上，最多坐 60
     - 6 個桌子、20 張椅子、麥克風、投影幕、筆電
-- [ ] 時間：
+- [x] 時間：
 	- 活動時間：14:00 - 17:00
 	- 時間分配
         - 2:00 - 2:20 開場
@@ -77,22 +87,22 @@ Design doc:
         - 3:40 - 4:10 介紹撰寫新回應
         - 4:10 - 4:40 實作撰寫新回應
         - 4:40 - 5:00 介紹分類、RSS、合照
-- [ ] 投放目標：
+- [x] 投放目標：
   - 推播日：3/18 (一)推播
   - 推播日之前：新北志工優先報名
   - 目標：雙北、桃園？
       - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aff7fe2b732675b4b90f1e90a56fd071.png)
     - 14 萬人收到、萬分之2報名率 --> 開 30~40 人、預期 20 人到場？
     - Ref: [past click through rates](https://docs.google.com/spreadsheets/d/1XjEQZ9esNKfkGd8XYd1p3E8DTgB0f5QPDl5ghf-JxE0/edit#gid=0)
-- [ ] KKTIX:https://cofacts.kktix.cc/events/cofactseditor41
-- [ ] 誰會來呢：bil, mrorz, nonumpa
+- [x] KKTIX:https://cofacts.kktix.cc/events/cofactseditor41
+- [x] 誰會來呢：bil, mrorz, nonumpa
 - [ ] 記得帶：貼紙、環保杯
-- [ ] LINE 文案
+- [x] LINE 文案
 Cofacts 要來到新北市舉辦志工培訓啦，三鐵共構板橋站，交通超級方便唷！
 地址：新北市青職基地 / 新北市板橋區民權路170號1樓
 時間：03月24日（日）14:00-17:00(會很準時開始)請記得攜帶筆記型電腦喔！
 活動報名：https://cofacts.kktix.cc/events/cofactseditor41
-- [ ] VOOM 發文
+- [x] VOOM 發文
 
 
 ## 2024 TODO
@@ -102,6 +112,8 @@ Cofacts 要來到新北市舉辦志工培訓啦，三鐵共構板橋站，交通
 讓更多在意假訊息的人加 Cofacts LINE bot
 - 下 google / FB 關鍵字廣告，投放廣告使更多注意到假訊息問題的人使用 cofacts
 - 用熱門的謠言、美玉姨、趨勢科技防詐達人、LINE 訊息查證等名字，或 debunk, 查核 等作為關鍵字
+    - 有考慮找 KOL 嗎 [name=hsin-tzu]
+    - 怕 KOL 炎上 (或 Cofacts 炎上燒到他 (?)) [name=mrorz]
 
 更多人知道如何使用 cofacts 協作
 - 網站改版：https://www.figma.com/file/nFFi6c8ennXV8CxeF58Asl/Confact?type=design&node-id=0-1&mode=design&t=r3aPm6FzJfFgsQMT-0
