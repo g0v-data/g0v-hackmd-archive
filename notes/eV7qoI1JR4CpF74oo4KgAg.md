@@ -1,5 +1,5 @@
 ---
-tags: 命名
+tags: 命名, name
 ---
 
 # 命名 Name
@@ -14,24 +14,35 @@ https://docs.google.com/document/d/1Rk78cjbeeEyp9dZVWdXG5dpDQhveeVS5ankYD3KwXbQ/
     - domain name, email, 
 - 中文名稱
     - 口語宣傳
+- 其他筆記
+    - 可能也需要設想，閱聽者是在什麼樣的場景或介面，首次接觸到專案名稱，當時除了名稱字詞之外，是否還有其他可被體驗感知的內容作為搭配
+        - 發音情境
+        - 平面視覺情境
 
-命名名稱，對於閱聽者來說，可以提供以下 2 種內容
+命名名稱，對於閱聽者來說，可以提供以下內容
 - (1) 喚起已有的認知理解內容
-- (2) “認識更多” (這部分可以歸納出一些類型)
-- (3) 特定方式，例如諧音、動物形象
+- (2) 認識更多
+- (3) 運用特定方式
+    - 兩個元素並置
+    - 英文字首字根
+    - 諧音
+    - 縮頭字流派
+    - 名稱可產出角色形象，紫爆哪裡
+
+---
 
 Disfactory 
 - 喚起已有的認知理解內容：factory 工廠
-- “認識更多”：dis 有拆除意味、disfactory - 英文字首 dis
+- 認識更多：dis 有拆除意味、disfactory - 英文字首 dis
 - 與知名頻道 Discovery 有諧音
 
 無家者小幫手
 - 喚起已有的認知理解內容：無家者、小幫手
-- “認識更多”：無家者的小幫手、”好奇如何作到? “ 的疑問
+- 認識更多：無家者的小幫手、好奇如何作到? 的疑問
 
 Meeting Owl
 - 喚起已有的認知理解內容：Meeting、Owl
-- “認識更多”：”好奇 Meeting 與 Owl 之間的關係? “ 的疑問
+- 認識更多：好奇 Meeting 與 Owl 之間的關係? 的疑問
 - Owl 成為產品品牌形象
 
 CourseAPI
@@ -64,11 +75,13 @@ Goodjob
 - 日文 前輩 擬音選字 先輩
 - 中文諧音 零食仙貝
 
-吉祥物的命名方式
-補探討網址
+開放學生自治社群
+- Student Open Governance Associated Community（SOGA Community）
+- 日文梗進行命名發想
+
+吉祥物角色的創設及命名方式
+- [相關探討](https://g0v.hackmd.io/@chewei/actor/https%3A%2F%2Fg0v.hackmd.io%2F%40chewei%2FrkhkXJFzY)
 
 
-————
 
-其他筆記
-- 可能也需要設想，閱聽者是在什麼樣的場景或介面，首次接觸到專案名稱，當時除了名稱字詞之外，是否還有其他可被體驗感知的內容作為搭配
+

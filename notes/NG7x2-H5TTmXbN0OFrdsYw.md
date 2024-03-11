@@ -1,3 +1,7 @@
+---
+tags: edu
+---
+
 # COSCUP 2024 Open Education & Student Track
 
 :::info
