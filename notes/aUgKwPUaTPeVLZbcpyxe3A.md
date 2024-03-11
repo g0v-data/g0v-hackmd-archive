@@ -16,119 +16,98 @@ GA: UA-98468513-3
 
 ### :star: Released to production
 
-#### :electric_plug: API
 #### :globe_with_meridians: Site
-#### :robot_face: rumors-line-bot
+https://github.com/cofacts/rumors-site/releases/tag/release%2F20240311
 
-### :rocket: Staging
+## CCPRIP
+### [Op] Transcript spam
+> nonumpa
+> https://g0v.hackmd.io/vKCvrqSQTlm7GEx9MAXGaw?view#op-Transcript-spam-處理
 
-#### :robot_face: rumors-line-bot
-
-##### Testing checklist
-
-https://lin.ee/1QUzEX4nI
-
-- [ ] 應可送出「全新訊息」
-    - [ ] 問訊息來源時選擇「我自己打的」會被擋下。
-    - [ ] 選擇「整篇轉傳」後會詢問是否要送出訊息。
-    - [ ] 不同意送出訊息後可以收到感謝。
-    - [ ] 同意送出訊息後就會送出訊息，並得到：
-        - [ ] Cofacts article page 按鈕
-        - [ ] 寫理由的按鈕
-        - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
-        - [ ] 「分享到 Facebook」、「分享到 LINE」且可以正常運作
-    - [ ] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
-    - [ ] 可以再打開理由視窗，此時會載入上次填寫的理由。修改理由送出後，查看 article page 看理由是否有被送出。
-
-- [ ] 送出「沒回應」的舊訊息，應可送出新理由
-    - [ ] 文章的「N 人回報」應該仍然要 + 1（除非測試者已經針對該篇送過 reply request）。
-    - [ ] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
-    - [ ] 可以修改理由送出。查看 article page 看理由是否有被送出。
-    - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
-
-- [ ] 送出「有回應」的舊訊息，應自動回傳回應
-    - [ ] 應列出訊息所有的回應
-    - [ ] 選擇回應之後可以幫回應 upvote
-    - [ ] 可以再次選擇 downvote
-    - [ ] 選完回應之後，還可以捲回去選其他回應
-    - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
-
-- [ ] Rich menu 測試
-    - [ ] 「設定」更改後再次打開，應該會保留原本設定
-    - [ ] 「教學」可以觸發教學流程
-
-##### ⛔️ Release Blockers
-##### 未竟項目
-
-#### :globe_with_meridians: Site
-##### Testing checklist
-http://dev.cofacts.tw/
-
-**未登入**下檢測：
-
-- [ ] Article list
-  - [ ] Filter works
-  - [ ] Sorting works
-  - [ ] Can go to article page
-- [ ] Replies list
-  - [ ] Filter works
-    - [ ] 不允許選擇 Replied by me
-  - [ ] Sorting works
-  - [ ] Can go to article page
-  - [ ] 不允許 upvote / downvote replies
-  - [ ] Can see vote reasons
-- [ ] Hoax for you
-  - [ ] Filter works
-  - [ ] Can go to article page
-- [ ] Article detail
-  - [ ] Can see similar messages
-  - [ ] Cannot submit, upvote, downvote reply request
-  - [ ] Cannot submit, upvote, downvote reply
-  - [ ] Cannot add, remove, upvote, downvote category
-- [ ] Search
-  - [ ] Can use global search to perform search
-  - [ ] Can use textarea in header to perform searchs
-     - Known issue: firefox 無法
-  - [ ] Can list searched articles
-    - [ ] Filter works
-    - [ ] Can go to article page
-  - [ ] Can list searched replies
-
-登入自有帳號後檢測：
-- [ ] Replies search page
-  - [ ] can upvote / downvote replies
-- [ ] Replies list
-  - [ ] 可選擇 Replied by me
-  - [ ] can upvote / downvote replies
-- [ ] Article detail
-  - [ ] Can submit, upvote, downvote reply request
-  - [ ] Can submit, remove own reply
-  - [ ] Can upvote, downvote other's article reply
-  - [ ] Can add, remove, upvote, downvote category
-- [ ] Can go to profile page on menu
-    - [ ] Can edit own name, bio, URL
-    - [ ] Can see own replies
-- [ ] Can logout
-
-##### ⛔️ Release Blockers
-
-##### 未竟項目
+### [Comm] article group 收尾
+> nonumpa
 
 
-### :eye: Under review
+### [Comm] Thumbnails for video and audio
 
-## TODO
-更新 Cofacts 協作系統
-- 讓包含 PRC 之影片在內的網傳影片，能更有效率地被查核協作者處理。包含：用 LLM + 首幀截圖來改善 indexed 逐字稿、Thumbnails 等讓查核者可以一目了然的輔助功能那
+> https://github.com/cofacts/rumors-api/issues/326
+> [name=mrorz]
+
+Design doc: TBA
+
+新點子
+- 除了用 VAD 之外，也可以用
+    - 先 OCR 首幀影像，然後把裡面的文字放進 whisper prompt
+    - Whisper 跟 Google 的 transcript 同時做，然後交給 LLM 改寫
+        - 要跟 LLM 說，請參考 Google transcript 來移除 Whisper 裡面的 hallucination
+        - 可以把第一幀影像傳給 multimodal LLM 同時進行判斷
+        - 這個應該會很慢，不適合即時檢索，但適合用來加工要送到資料庫的影片逐字稿
+        
+
+### [Op] Google 非營利
+- 回信後尚無回音
+
+
+## User organization and CoC
+> https://g0v.hackmd.io/ucUXvnqbRBmsD6YGkmdYvg?both#User-organization-and-CoC
+> 
+
+## 小聚籌備
+
+- [ ] 日期：3/24 (日)
+- [ ] 食物：要自己清，垃圾桶不能丟
+- [ ] 場地：新北青職基地 1F
+    - 一定要 20 人以上，最多坐 60
+    - 6 個桌子、20 張椅子、麥克風、投影幕、筆電
+- [ ] 時間：
+	- 活動時間：14:00 - 17:00
+	- 時間分配
+        - 2:00 - 2:20 開場
+            - 影片
+            - Slido 暖身
+        - 2:20 - 2:40 引導註冊網站、介紹評價現有回應
+        - 2:40 - 2:50 實作評價
+        - 2:50 - 3:10 介紹補充資訊
+        - 3:10 - 3:40 實作補充資訊、自我介紹、休息
+        - 3:40 - 4:10 介紹撰寫新回應
+        - 4:10 - 4:40 實作撰寫新回應
+        - 4:40 - 5:00 介紹分類、RSS、合照
+- [ ] 投放目標：
+  - 推播日：3/18 (一)推播
+  - 推播日之前：新北志工優先報名
+  - 目標：雙北、桃園？
+      - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aff7fe2b732675b4b90f1e90a56fd071.png)
+    - 14 萬人收到、萬分之2報名率 --> 開 30~40 人、預期 20 人到場？
+    - Ref: [past click through rates](https://docs.google.com/spreadsheets/d/1XjEQZ9esNKfkGd8XYd1p3E8DTgB0f5QPDl5ghf-JxE0/edit#gid=0)
+- [ ] KKTIX:https://cofacts.kktix.cc/events/cofactseditor41
+- [ ] 誰會來呢：bil, mrorz, nonumpa
+- [ ] 記得帶：貼紙、環保杯
+- [ ] LINE 文案
+Cofacts 要來到新北市舉辦志工培訓啦，三鐵共構板橋站，交通超級方便唷！
+地址：新北市青職基地 / 新北市板橋區民權路170號1樓
+時間：03月24日（日）14:00-17:00(會很準時開始)請記得攜帶筆記型電腦喔！
+活動報名：https://cofacts.kktix.cc/events/cofactseditor41
+- [ ] VOOM 發文
+
+
+## 2024 TODO
+
+> API & DB enhancements: https://g0v.hackmd.io/@cofacts/rd/%2F65JMCYDEQCeCYSAkBwJNTA
+
 讓更多在意假訊息的人加 Cofacts LINE bot
 - 下 google / FB 關鍵字廣告，投放廣告使更多注意到假訊息問題的人使用 cofacts
 - 用熱門的謠言、美玉姨、趨勢科技防詐達人、LINE 訊息查證等名字，或 debunk, 查核 等作為關鍵字
+
 更多人知道如何使用 cofacts 協作
-- 網站教學改版：對新手協作者的導引
+- 網站改版：https://www.figma.com/file/nFFi6c8ennXV8CxeF58Asl/Confact?type=design&node-id=0-1&mode=design&t=r3aPm6FzJfFgsQMT-0
+    - Optional: 增加教學與說明？
+    - 問題：server rendering 與目前 API 的 web authentication 不合，需要在 Cofacts site 上重新進行 authentication (nextauth)
 - 編輯逐字稿的 contribution 與 visualization (斌綸正在做的那個)
 - 野生查核協作小聚：培養查核協作者培訓講師 train the trainer
     - 包含事後 QC
+- 讓網傳影片，能更有效率地被查核協作者處理。包含：用 LLM + 首幀截圖來改善 indexed 逐字稿、Thumbnails 等讓查核者可以一目了然的輔助功能那
+
 持續貢獻
-- achievement badge?
+- Optional: achievement badge?
 - 維繫現有查核者的關係 (寄信)
 
