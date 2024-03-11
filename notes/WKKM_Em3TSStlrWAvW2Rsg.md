@@ -213,3 +213,25 @@ Hi ⁠
 
 DG跟purview的差異， 專案背景，效益
     專案背景，效益 -> cost reduction.
+
+
+
+Hi Joe
+
+看起來國外有部下去了 
+
+可以幫我重開然後借我用一下嗎? 
+
+其中1台就好
+
+可以直接開單 
+
+Report a Non-Manufacturing Incident
+
+Report a Non-Manufacturing Incident - ITNow (service-now.com)
+
+
+
+說是哪一台" " 
+
+哪個帳號" "要開遠端權限
