@@ -87,6 +87,8 @@ contributor 在 snapshot update 時更新
 :::success
 - 朝 2 進行
 - 寫 design doc
+    - 選項紀錄至 https://g0v.hackmd.io/aJqHn8f5QGuBDLSMH_EinA?both#Video-summarization-for-thumbnails
+    - Updated issue  https://github.com/cofacts/rumors-api/issues/326
 :::
 
 ### [Op] Google 非營利

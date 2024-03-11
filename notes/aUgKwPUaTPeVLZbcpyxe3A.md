@@ -24,6 +24,9 @@ https://github.com/cofacts/rumors-site/releases/tag/release%2F20240311
 > nonumpa
 > https://g0v.hackmd.io/vKCvrqSQTlm7GEx9MAXGaw?view#op-Transcript-spam-處理
 
+ - 發現有很多 history 都只有名字（舊版）沒有 userid，要把這些 case 撈出來再用名字 mapping 回 userId，怕使用者在這期間改了名字 mapping 不回來
+ - update contributor 時要先 get
+
 ### [Comm] article group 收尾
 > nonumpa
 
@@ -33,15 +36,17 @@ https://github.com/cofacts/rumors-site/releases/tag/release%2F20240311
 > https://github.com/cofacts/rumors-api/issues/326
 > [name=mrorz]
 
-Design doc: TBA
+Design doc: 
+- https://g0v.hackmd.io/wkx286lmTDaFUpgRhnUawQ#Whisper
+- https://g0v.hackmd.io/65JMCYDEQCeCYSAkBwJNTA#Better-multimedia-support
 
-新點子
-- 除了用 VAD 之外，也可以用
-    - 先 OCR 首幀影像，然後把裡面的文字放進 whisper prompt
-    - Whisper 跟 Google 的 transcript 同時做，然後交給 LLM 改寫
-        - 要跟 LLM 說，請參考 Google transcript 來移除 Whisper 裡面的 hallucination
-        - 可以把第一幀影像傳給 multimodal LLM 同時進行判斷
-        - 這個應該會很慢，不適合即時檢索，但適合用來加工要送到資料庫的影片逐字稿
+
+新點子：除了用 VAD 之外，也可以⋯⋯
+- 先 OCR 首幀影像，然後把裡面的文字放進 whisper prompt
+- Whisper 跟 Google 的 transcript 同時做，然後交給 LLM 改寫
+    - 要跟 LLM 說，請參考 Google transcript 來移除 Whisper 裡面的 hallucination
+    - 可以把第一幀影像傳給 multimodal LLM 同時進行判斷
+    - 這個應該會很慢，不適合即時檢索，但適合用來加工要送到資料庫的影片逐字稿
         
 
 ### [Op] Google 非營利
@@ -101,7 +106,8 @@ Cofacts 要來到新北市舉辦志工培訓啦，三鐵共構板橋站，交通
 更多人知道如何使用 cofacts 協作
 - 網站改版：https://www.figma.com/file/nFFi6c8ennXV8CxeF58Asl/Confact?type=design&node-id=0-1&mode=design&t=r3aPm6FzJfFgsQMT-0
     - Optional: 增加教學與說明？
-    - 問題：server rendering 與目前 API 的 web authentication 不合，需要在 Cofacts site 上重新進行 authentication (nextauth)
+    - 問題：server rendering 與目前 API 的 web authentication 不合，需要在 Cofacts site 上重新進行 authentication (NextAuth.js) -- https://g0v.hackmd.io/51wwLHgvSUqtBDaP-yAVnA#Alternative-Treating-all-apps-equal
+        - 或是用 proxy 做 https://g0v.hackmd.io/51wwLHgvSUqtBDaP-yAVnA#Proxy-issue-passing-login-cookie-around
 - 編輯逐字稿的 contribution 與 visualization (斌綸正在做的那個)
 - 野生查核協作小聚：培養查核協作者培訓講師 train the trainer
     - 包含事後 QC
