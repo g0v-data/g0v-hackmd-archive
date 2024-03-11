@@ -24,7 +24,9 @@ tags: GIS
 - [台北市都市計畫民眾參與專區](https://www.udd.gov.taipei/ProjectPage/PublicParticipation)[target=_blank]
 - [屬於臺北的稻浪：從關渡平原的農業發展，思考城市與環境的關係 by 簡均安](https://eyesonplace.net/2021/11/23/19110/)
 - [關渡碳制郎團隊建立的減碳潛力地點盤點成果](https://g0v.hackmd.io/Fj6G9W6LSh2GTbzVnshR5A?view)
-- 論文：都市綠基盤對調適極端氣候之共效益 — 以關渡平原為例 https://photos.app.goo.gl/mYLHXJGbEczrB6c77
+- 論文：都市綠基盤對調適極端氣候之共效益 — 以關渡平原為例 
+    - https://hdl.handle.net/11296/hjqvd7
+    - https://photos.app.goo.gl/mYLHXJGbEczrB6c77
 - [20230801 碳存量指標在農村再生社區營造效益評估之應用 (林昭遠)](https://youtu.be/FHw1m6BX6Z8)
 
 

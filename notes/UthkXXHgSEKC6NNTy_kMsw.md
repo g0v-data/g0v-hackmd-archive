@@ -18,6 +18,9 @@ tags: GIS
 - [關渡碳制郎團隊建立的減碳潛力地點盤點成果](https://g0v.hackmd.io/Fj6G9W6LSh2GTbzVnshR5A?view)
 - [關渡歷史災害影像蒐集](https://g0v.hackmd.io/0aO1WD01RoqYtPYtzoMzqg?view)
 - [關渡素材筆記](https://g0v.hackmd.io/BjoBVUIOR-quYESeJ18H9Q?view)
+- [電子全文 20240721 公開] 都市綠基盤對調適極端氣候之共效益 — 以關渡平原為例
+https://hdl.handle.net/11296/hjqvd7
+內文拍照：https://photos.app.goo.gl/mYLHXJGbEczrB6c77
 - [20230801 碳存量指標在農村再生社區營造效益評估之應用 (林昭遠)](https://youtu.be/FHw1m6BX6Z8)[target=_blank]
 
 
