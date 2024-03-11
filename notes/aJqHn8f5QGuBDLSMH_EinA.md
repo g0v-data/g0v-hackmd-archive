@@ -382,6 +382,8 @@ Video summarization / abstraction / skimming
     - Paper 裡有整理 related work
 - Related work 整理 https://github.com/seriousran/awesome-video-sum
 - ffprobe to get duration https://www.npmjs.com/package/ffprobe
+- Google video intelligence API
+- Google transcoding API (contains spritr)
 
 ### Videos on Youtube / links
 
