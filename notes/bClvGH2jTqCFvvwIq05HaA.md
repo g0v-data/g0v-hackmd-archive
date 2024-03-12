@@ -50,7 +50,12 @@ tags: summit2024
 - [議程助理](/@summit2024/HyxFggJX-p)
 - 目前有17位
 - SITCON 本週五會分享
-
+- 追蹤
+    - 訓練包含的內容
+        - 議程助理：
+            - 協助宣布 unconf 活動
+        - 場務人員：
+            - 
 ### 主持人
 - [主持人](/uY0OBQe8QSOIRnYLzixDeg)
 - 如何招募與徵集？表單

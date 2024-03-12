@@ -16,7 +16,7 @@ g0v github 社群規範討論　
     * https://github.com/orgs/g0v/people
 * admin 都有權限可以砍光光所有 repositories (也可以順便把其他人都踢出 admin)
 * members 都有權限可以在 g0v.tw 首頁塞入任何東西，跟在上面專案塞入任何有害程式碼
-* 但也因為自由度很高，g0v 是在 github 上世界前三大的 civic tech 社群
+* 但也因為自由度很高，**g0v 是在 github 上世界前三大的 civic tech 社群**
     * https://www.ithome.com.tw/news/106629
 
 可能作法
@@ -45,7 +45,7 @@ g0v github 社群規範討論　
 ------
 - 2024/03/10 [討論 g0v 官網治理機制共筆](https://hackmd.io/t97cH7tFQPyUCgwmfCsFiw?view)
     - 討論緣由：
-        - 發現 g0v 官網內文連結失效，以及版面改動提議
+        - 發現 g0v 官網內文連結失效，以及提出版面改動建議
         - g0v 官網的維護管理，涉及 GitHub 
         - 故於該次討論中，有進一步界定從官網維護管理的角度，需要哪些 GitHub 協作角色
     - 本次討論對於 GitHub 治理機制的助益

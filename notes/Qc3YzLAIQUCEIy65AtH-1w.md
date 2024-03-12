@@ -193,11 +193,30 @@ void juggle() {
   }
 }
 ```
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0d2c6c1871e2f430c1122c92926d8a03.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_68e661197074d78bac50a4c21bc56741.png)
+宣告SimplePatternList(資料型態 = void)為 一個陣列gPatterns 的儲存空間
+gPatterns陣列中的元素為動畫(副函式)的名稱。
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0d2c6c1871e2f430c1122c92926d8a03.png)
 陣列A中所佔的bits數/陣列中一個元素佔的bits數 = 陣列A中有幾個元素
 (前提:所有元素的資料型態相同)
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d363c2f5caedf57ef9c6c03da80e28e0.png)
+選擇副函式
+讓LED燈串表現
+delay
+一定時間後(短) 改變燈串上顏色
+一定時間後(長) 切換到下個副函式
 
+以下是副函示內的內容
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_604ee4e96eaf162d6621f57be5bf1648.png)
+random8 : 隨機數0~255
+如果隨機數 < chanceOfGlitter，則不做閃光
+以更大範圍的隨機數決定燈串上哪個LED要閃光
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5d3623ee5b3af31bc76808fd0d4b4196.png)
+random16(NUM_LEDS) : 在0~NUM_LEDS之間求一隨機數
+//之所以用random16是因為作者不確定使用者燈串上LED的數量，所以使用16bits(上限高)，而不是random8.
+
+* 我懷疑`leds[位置]+=顏色`，是可以讓位置上的燈變成此顏色
 
