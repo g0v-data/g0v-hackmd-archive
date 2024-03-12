@@ -38,9 +38,16 @@ g0v slack #gov-landing-page 頻道
 
 ### 編輯者 (2023.3.4)
 
-#### Landing page 首頁：
+#### Landing page 首頁：（TBD）
 
 * TBD
+ *現況
+    * 64 admins, 276 members
+        * https://github.com/orgs/g0v/people
+    * admin 有權限可以砍光光所有 repositories (也可以順便把其他人都踢出 admin)
+    * members 都有權限可以在 g0v.tw 首頁塞入任何東西，跟在上面專案塞入任何有害程式碼
+    * 但也因為自由度很高，**g0v 是在 github 上世界前三大的 civic tech 社群**
+        * https://www.ithome.com.tw/news/106629
 
 #### 行事曆：
 
@@ -72,6 +79,7 @@ g0v slack #gov-landing-page 頻道
 參考自 [SNS 社群治理](https://g0v.hackmd.io/THKRsDsNRXGsa_0zFUn3Gw)
 
 - 輪播、活動行事曆的修改，都需要經過 review
+- *＃＃是否加入官網的更新？（TBD）*
     - 有一個 reviewer group [[名單]](https://docs.google.com/spreadsheets/d/18oekxIDN84iPhP7fUYMleV7jmfWpr9UdZuujPFJmTBM/edit#gid=1776966921)
         - 目前 9 人 (as of 2023/03/04)
         - 名單公開
@@ -127,34 +135,35 @@ https://g0v.hackmd.io/Q1kxZgObSBihH5ZrHKNiJg?view
 - [技術討論文件 github -> google calendar ](https://g0v.hackmd.io/ym6CHeYQS7aVPB1gM-UCUg)
 
 
-## 官網通報報修類 (流程草案撰寫中)
+## 官網通報報修類 (流程草案撰寫中、TBD)
 
 - 什麼是「通報報修類」？
+    - 移除、更新失效連結
     - 不改變用詞用字
         - 內文網址連結更新，例如 2024.03 已提出 [新手指南區域，「提案小訣竅」、「非資訊人參與指南」連結失效](https://hackmd.io/t97cH7tFQPyUCgwmfCsFiw?view#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E6%80%A5%E9%9C%80%E6%9B%B4%E6%96%B0%E7%9A%84%E8%B3%87%E6%BA%90)
 - 流程：
     - 頻道提議
-        - 期待能附上說明文件
+        - 建議附上說明文件
     - Reviewer 
     - Editer 
         - 目前尚未建立 Editer 名單
 
-## 官網小規模更新類提議 (流程草案撰寫中)
+## 官網小規模更新類提議 (流程草案撰寫中、TBD)
 
 - 什麼是「小規模更新類」？
     - 不改變網站架構的前提下
     - 增加條列內容
         - 例如：在特定內文中，增加資源連結一：slack archive
         - 例如：在特定內文中，增加資源連結二：g0v 開源協作手冊
-    - 原本的文字抽換
+    - 不影響原意的文字抽換
 - 流程：
-    - 頻道提議
-        - 期待能附上說明文件
+    - 於 g0v slack #gov-landing-page 頻道提議
+        - 建議附上說明文件
     - Reviewer 
     - Editer
         - 目前尚未建立 Editer 名單
 
-## 官網改動類提議 (流程草案撰寫中)
+## 官網改動類提議 (流程草案撰寫中、TBD)
 
 - 什麼是「改動類」？
     - 涉及版型調整
@@ -163,7 +172,7 @@ https://g0v.hackmd.io/Q1kxZgObSBihH5ZrHKNiJg?view
     - ...等 
 - 流程：
     - 如何討論可行性、共識？
-
+    - 辦理線上討論、或基礎松等
 
 
 ---

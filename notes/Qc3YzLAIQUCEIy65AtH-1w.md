@@ -215,6 +215,7 @@ random8 : 隨機數0~255
 以更大範圍的隨機數決定燈串上哪個LED要閃光
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5d3623ee5b3af31bc76808fd0d4b4196.png)
+fadeToBlackBy淡化顏色(0~255)
 random16(NUM_LEDS) : 在0~NUM_LEDS之間求一隨機數
 //之所以用random16是因為作者不確定使用者燈串上LED的數量，所以使用16bits(上限高)，而不是random8.
 
