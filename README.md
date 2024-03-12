@@ -2,7 +2,9 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6907 | 2024-03-12T08:33:25+08:00 |
+| [School](tags/School.md) | 14 | 2024-03-12T09:39:18+08:00 |
+| [recap](tags/recap.md) | 13 | 2024-03-12T09:38:45+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6906 | 2024-03-12T09:36:48+08:00 |
 | [summit2024](tags/summit2024.md) | 51 | 2024-03-11T23:14:03+08:00 |
 | [edu](tags/edu.md) | 148 | 2024-03-11T22:24:11+08:00 |
 | [cofacts](tags/cofacts.md) | 433 | 2024-03-11T20:40:59+08:00 |
@@ -12,8 +14,6 @@
 | [命名](tags/%E5%91%BD%E5%90%8D.md) | 1 | 2024-03-11T14:02:43+08:00 |
 | [name](tags/name.md) | 1 | 2024-03-11T14:02:43+08:00 |
 | [g0vernance](tags/g0vernance.md) | 44 | 2024-03-11T12:17:51+08:00 |
-| [School](tags/School.md) | 13 | 2024-03-11T10:05:14+08:00 |
-| [recap](tags/recap.md) | 12 | 2024-03-11T10:04:45+08:00 |
 | [digital-resilience](tags/digital-resilience.md) | 29 | 2024-03-10T22:21:13+08:00 |
 | [resilience](tags/resilience.md) | 20 | 2024-03-10T22:21:13+08:00 |
 | [internet-shutdown](tags/internet-shutdown.md) | 19 | 2024-03-10T22:21:13+08:00 |

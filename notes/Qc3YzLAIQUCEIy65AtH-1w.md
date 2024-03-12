@@ -65,7 +65,9 @@ nscale8 : 將現在的亮度數值*N/256, 範例中N = 250
 
 `fadeall();`會讓所有LED慢慢變暗，但`leds[i] = CHSV(hue++, 255, 255);`程式中亮度=255，所以前進方向的LED最亮，且其亮度數值被重設回255。
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a2043f2204549b5b85375d40aac7d92d.png)
-此圖表示，此範例在燈條上運行的情況，前進的方向最亮，後面會比較暗
+圖示，範例在燈條上運行的情況，前進的方向最亮，後面越來越暗
+
+
 
 
 

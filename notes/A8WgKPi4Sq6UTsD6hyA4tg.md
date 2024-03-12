@@ -32,6 +32,8 @@ https://g0v.hackmd.io/@9MFwWADKQoOFxQv-EmZDug/H1EPdJupa
 https://g0v.hackmd.io/@9MFwWADKQoOFxQv-EmZDug/rkguUJnpT
 
 2024-03-12
+https://g0v.hackmd.io/@9MFwWADKQoOFxQv-EmZDug/rydcyVaTp
+
 2024-03-13
 2024-03-14
 2024-03-15
