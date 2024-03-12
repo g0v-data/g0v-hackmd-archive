@@ -28,7 +28,7 @@ tags: Rentea
    1. 五年內申請，可[線上、由投保單位代辦，或是辦理書生登記時一併申請](https://www.parenting.com.tw/article/5092645)
 
 
-### 養育補助、公立托嬰、托育、幼稚園
+### 養育補助
 
 > ![出處：親子天下](https://image-resizer.parenting.com.tw/resize/uri/https%3A%2F%2Fwww.parenting.com.tw%2Ffiles%2Fmd5%2F12%2F89%2F128998ae7963540ff374c799cbf56752-103474.jpg/?w=800&format=webp)
 > 圖片出處：[親子天下](https://www.parenting.com.tw/article/5091069)
@@ -58,6 +58,14 @@ tags: Rentea
 6. 育嬰留職停薪補助
    - `0-3y` `勞保局` 80% 投保薪資，最長六個月
    - 先辦理留職停薪，再向[勞保局網站](https://edesk.bli.gov.tw/me/)申請，或由投保單位申辦
+
+### 托育、保母、幼兒園相關考量
+
+1. 公共托育的目的，是協助「無法自行照顧嬰兒」的家庭，因此照顧者均需有工作
+   1. 實務上是[申請到公托後，補交在職證明](https://www.ptt.cc/bbs/BabyMother/M.1667541827.A.430.html)
+   2. 同理，排到後，育嬰留停須取消，新北緩衝期 3 個月^[[新北市公共托育申請表](https://www.sw.ntpc.gov.tw/userfiles/1102300/files/%E6%96%B0%E5%8C%97%E5%B8%82%E5%85%AC%E5%85%B1%E6%89%98%E8%82%B2%E4%B8%AD%E5%BF%83%E5%B9%BC%E5%85%92%E5%B0%B1%E6%89%98%E7%94%B3%E8%AB%8B%E8%A1%A8(106%E5%B9%B47%E6%9C%88%E4%BF%AE%E6%AD%A3%E7%89%88).pdf)]，台北緩衝期 2 個月^[[北市公托說明](https://dosw.gov.taipei/cp.aspx?n=8FC706AE75A8D802)]
+   3. 各縣市抽籤排序、時間點不同，北市弱勢、多兒家庭優先，新北市同，但同行政區的為第二順位 60% 名額^[[2023 新北公托招生簡章](https://lovebaby.sw.ntpc.gov.tw/files/043bfe8b-64c5-44b0-8251-6015fe739be1.pdf)]
+2. 準公托，和育嬰留停可並行
 
 ### 公立國小
 
