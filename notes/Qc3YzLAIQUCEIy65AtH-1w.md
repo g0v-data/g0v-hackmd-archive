@@ -232,9 +232,22 @@ ColorFromPalette(調色盤, 色調, 亮度)   色調 = 調色盤內座標
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c6e6dcc1573dcc3c4591aeee54f88f6c.png)
 
-模式簡介:
+### 模式簡介:
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b67f43c9c4a25a6e343e7d88b2866f5e.png)
 
-* rainbow : 以gHue的數值為初始色調數值，每個LED的色調差為7。
-* rianbow
+rainbow, rainbowWithGlitter, confetti, sinelon, juggle, bpm 
+
+* **rainbow** : 以gHue的數值為初始色調數值，**每個LED的色調差為7**，因為模式刷新會增加gHue的值，所有**LED的顏色會一起變化**。
+* **rianbowWithGlitter** : 保留rainbow模式的同時，增加隨機的**白色**覆蓋在燈串上，因為模式**快速刷新**，所以白色的部分看起來像是**閃光**。
+* **confetti** : 
+    1. 有函式可以讓所有燈都**變暗**些許，在模組刷新速度很快的情況下，如果沒有顏色重新填充，很快燈條上的燈都會暗掉。
+    2. 顏色補充**位置隨機**(但被限制在燈條上)。
+    3. **色調**被限制在一定範圍內**隨機**(gHue+random8(64))。
+
+(confetti 內使用`fadeToBlackBy( leds, NUM_LEDS, 20);`如果在刷新速度很快的情況下，可以拿數值來控制顏色殘留在燈串上的速度，20是淡化數值，數值越大，LED越暗)
+* **sinelon** : 與**confetti**的1.相同，顏色會**淡化**。因為beatsin16會從最小值到最大值，再從最大值到最小值，所以最後一個LED、第一個LED會亮2次，看起來像是**顏色停留**。
+* **bpm** : 
+`leds[i] = ColorFromPalette(palette, gHue+(i*2), beat-gHue+(i*10));`ColorFromPalette(調色盤, 顏色座標, 亮度)
+* **juggle** : 
+
 
