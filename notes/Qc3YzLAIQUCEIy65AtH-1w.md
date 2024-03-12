@@ -221,3 +221,13 @@ random16(NUM_LEDS) : 在0~NUM_LEDS之間求一隨機數
 
 * 我懷疑`leds[位置]+=顏色`，是可以讓位置上的燈變成此顏色
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c193137fe2ec193e9eb127a7a4253c5a.png)
+
+beatsin16(每分鐘頻率, 波值下限, 波值上限);
+讓燈條上的LED來回亮起
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_869276f8ac4c55488751f2b12f4c0a67.png)
+`leds[i] = ColorFromPalette(palette, gHue+(i*2), beat-gHue+(i*10));`
+ColorFromPalette(調色盤, 色調, 亮度)   色調 = 調色盤內座標
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c6e6dcc1573dcc3c4591aeee54f88f6c.png)
