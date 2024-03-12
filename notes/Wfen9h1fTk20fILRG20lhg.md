@@ -1,6 +1,6 @@
-<a href="https://play.google.com/store/apps/details?id=hitclub.age&hl=vi">Tải HitClub</a> Calc là game bài đổi thưởng, uy tín nhất hiện nay. <a href="https://play.google.com/store/apps/details?id=hitclub.age&hl=vi">HitClub</a> sử dụng công nghệ hiện đại, dịch vụ chuyên nghiệp, giao dịch nhanh chóng, luôn hướng tới sự hài lòng của khách hàng.<br>
+<a href="https://play.google.com/store/apps/details?id=zo789.symbol">Tải HitClub</a> Calc là game bài đổi thưởng, uy tín nhất hiện nay. <a href="https://play.google.com/store/apps/details?id=zo789.symbol">HitClub</a> sử dụng công nghệ hiện đại, dịch vụ chuyên nghiệp, giao dịch nhanh chóng, luôn hướng tới sự hài lòng của khách hàng.<br>
 Thông tin chi tiết:<br>
-Website: <a href="https://play.google.com/store/apps/details?id=hitclub.age&hl=vi">https://play.google.com/store/apps/details?id=hitclub.age&hl=vi</a><br>
+Website: <a href="https://play.google.com/store/apps/details?id=zo789.symbol">https://play.google.com/store/apps/details?id=zo789.symbol</a><br>
 Địa chỉ: 42 Đ. Trần Não, P. Bình An, Quận 2, Thành phố Hồ Chí Minh, Việt Nam<br>
 Email: frazierbrooke90@gmail.com<br>
 #hitclub, #hitclub_calc, #hitclub_casino, #nha_cai_hitclub<br>
