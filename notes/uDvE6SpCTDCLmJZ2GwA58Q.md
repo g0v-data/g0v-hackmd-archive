@@ -94,6 +94,7 @@ tags: 新生流域
         - https://www.facebook.com/193313627448659/posts/pfbid02ZRijs3x5TmB4iEM83kRuG8NBRtjkXCXMD21Q6ju2p9BKRUaAxpNZxJTRvHTeQL8pl/?mibextid=cr9u03
     - 19 南京新生 https://www.facebook.com/groups/1464346490494897/permalink/3172352329694296/?comment_id=3172415869687942&mibextid=S66gvF
         - 留言串也有一張，建物與大排溝渠
+    - 中山女中 歷史 https://www.facebook.com/photo.php?fbid=914165563834754&set=a.530768725507775&type=3
     - 1978 照片 https://www.facebook.com/story.php?story_fbid=pfbid0Ypt5RJbMoKdVWJHzibUm4C7wZVujBfCAyAqtvDqGZgUEuSvzoMMUaAHfW5p5CUsl&id=747873617&mibextid=qC1gEa
     - 1970 美軍設施地圖
         - https://www.facebook.com/groups/582154450196478/permalink/919557983122788/

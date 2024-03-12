@@ -231,3 +231,10 @@ beatsin16(每分鐘頻率, 波值下限, 波值上限);
 ColorFromPalette(調色盤, 色調, 亮度)   色調 = 調色盤內座標
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c6e6dcc1573dcc3c4591aeee54f88f6c.png)
+
+模式簡介:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b67f43c9c4a25a6e343e7d88b2866f5e.png)
+
+* rainbow : 以gHue的數值為初始色調數值，每個LED的色調差為7。
+* rianbow
+
