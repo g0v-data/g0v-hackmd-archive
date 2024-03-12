@@ -35,13 +35,17 @@ Lucky: 跟Gim聊得很開心<3
     * 狗狗 gif 可能會和使用的意圖有點差異，可能會影響使用
     * #reporter 頻道可以直接去對談關於 SO 的使用
     [第零次專案紀錄](https://g0v.hackmd.io/_G9Qi6G6T5uGkF3lBW-DoQ)
+    
+    
+* Reflection
+    * Lucky：有沒有可能每週一次的routine，改為在每月一次大家都有空的時候一起玩並讓該次月會有一個主題cowork（ex. 一起來製作梗圖prompt生成器！），以及或許另一次是比較固定的（每月各個小坑進度的update）。另外，希望可以有更多沒負擔的共學，參與者都盡量能夠分享自己已經會的事情，並透過分享給其他人的過程中，帶領其他人在每月主題cowork的時候一起實作～
+   *  Stanley：
+   *  昶維：
 
 ## Action Items
 
 ## AI 整理總結
 
-
 ## Reference
-
 
 ## Meet開會文字頻道
