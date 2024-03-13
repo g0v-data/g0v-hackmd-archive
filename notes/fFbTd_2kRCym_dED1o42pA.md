@@ -8,8 +8,12 @@ tags: vtaiwan
 線上參與連結 / Link：https://meet.jit.si/vTaiwan
 
 ## 自我介紹
-- 欣慈：community for democracy，v有列在報告中！ 
-- 
+- 欣慈：community for democracy，vTaiwan有列在報告中！ 
+    - 協助發放英文版
+- Peter：台大法研所學生，vTaiwan 坑主
+- Josh：瑞士的PHD
+- Crystal：法律背景的光電所學生，女性STEM議題
+- Eli：社會所學生
 
 ## 主持人輪班
 - 下週開始 Peter 出國比賽，小聚要有人主持，歡迎跳坑！
@@ -32,13 +36,14 @@ tags: vtaiwan
 - vTaiwan 與 Join 平台同為政府收集公眾意見與形塑討論的管道，兩者發展的目的皆是為了補足代議式民主的不足，讓民眾的意見更直接地反映在政策的過程與結果，不過join平台因為有法規的制定，確保政府回應的強制性，因此至今 Join 平台仍然保有其活躍。然而 vTaiwan 本身因為相關討論，正在探索轉型的可能性[name=peter]
 - vTaiwan/pol.is找共識的概念
 - 用 vTaiwan 的github來pull request 
-## 串串已經完工
+## threads已經完工
 - 是否要開始發布議題或投票？
 - 目前比較火熱的議題應該就是
     - 中配入籍六改四與相關配套措施
     - 社工與保母虐童案
 - 未來會有：死刑釋憲案 4月23日會開言詞辯論
-
+- josh 協助threads
+    - [李康宇](https://www.threads.net/@li_kang_yu.2021)
 ## 社群與民主文章
 - [社群與民主文章](/DE4pKGExRvu7XE8p_DKoUA?view)
 - 感覺四月可以先進行一個共識工作坊？
@@ -52,6 +57,7 @@ tags: vtaiwan
 - vtaiwan 的部分會在場次3，與談的部分，至於報告人我想邀請侯秘書長～主題及講者都是初步規劃還沒簽准
 - 活動相關簡報會利用共筆
     - 可以藉機倡議
+    - 更新：[歐盟AI Act通過ㄌ](https://www.euronews.com/my-europe/2024/03/13/lawmakers-approve-ai-act-with-overwhelming-majority?fbclid=IwAR3jpD8IDcwHg6Y5H6LiOs-krXYuYHG1H88sGpMTGfXBmXijrDXJwuZM0wc)
 ## 近期行動與討論
 ### Summit 投稿
 - 3/9 完成了 g0v Summit 2024 的投稿
@@ -67,6 +73,8 @@ tags: vtaiwan
 ### TicTec 研討會
 - [20240222 TiCTeC call for proposal](/Jgf-lJ-XS5q4AgXABMBFwQ?both)
 - [vTaiwan 到 TicTec分享](/@Pno233SAS8G5UfL5OvSRmA/H194pPUKT)
+- 西敏寺基金會週五會開會
+- todo: 討論 Gema 
 
 ### 臨時動議
 - 舉辦實體活動時，如果有借用到揪松團的場地（NPO HUB）捐款給揪松
