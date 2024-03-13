@@ -1,6 +1,7 @@
 ---
 title: g0v DigiResiThon 數位韌性松大全
 tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense
+image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_85ba0700fa1a5c79c701ccd58e18bcb1.png
 ---
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
