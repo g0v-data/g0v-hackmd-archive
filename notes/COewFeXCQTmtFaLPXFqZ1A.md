@@ -1,6 +1,13 @@
 ---
-tags: Thai, GIS
+tags: asia, Thai, GIS
 ---
+
+# Asia 亞洲各國的資料 / 專案 / 探討
+
+:::success
+[TOC]
+:::
+
 
 # Thai ภาษาไทย
 
@@ -9,12 +16,6 @@ tags: Thai, GIS
 - g0v Slack Channel #thai-ภาษาไทย
 - 泰文的編碼: TIS-620
 :::
-
-:::success
-[TOC]
-:::
-
-# Project
 
 ## 中南半島 / คาบสมุทรอินโดจีน / Indo-China Peninsula
 
@@ -78,3 +79,20 @@ Dust Boy
 
 2024.01 臺大工學院訪問清邁大學工程學院
 https://www.facebook.com/permalink.php?story_fbid=pfbid0WSnWvQfiTm2gPi95FD8xnAHWK6zud1TFJcQxNGDofVK2TLLh4zNmEcfkQ6EkYyRYl&id=100005289243088
+
+# China
+
+https://g0v.hackmd.io/@china/book
+
+
+# Taiwan
+
+https://g0v.hackmd.io/@jothon/intro/
+
+
+# 菲律賓
+
+
+## Data
+
+https://www.facebook.com/share/p/5YmTcLYKjjenRy8t/
