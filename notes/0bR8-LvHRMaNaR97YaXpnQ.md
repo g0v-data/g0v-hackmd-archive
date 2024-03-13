@@ -51,6 +51,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
                     - 433 不確定是否合法 (433MHz為緊急救難頻率)
                     - 433千萬別用,台灣Lora免照請用915,Fw刷完設定TW就能使用915了."145 MHz及433 MHz為呼叫及緊急救難頻率，任何電臺不得停留佔用及干擾。來源ncc" [name=Gavin]
                     - 目前假定是 按 NCC lora 規範使用,915mhz.但烏克蘭案例.戰時任意頻道都能用.且戰時軟體直接支援.
+                     - >NCC規範應是920MHz~925MHz，詳見中華民國無線電頻率分配表。
                 - 穿透能力不強，因為頻率不強
             - 它的廣播演算法 https://meshtastic.org/docs/overview/mesh-algo
             - 通訊範圍 2~5 公里
