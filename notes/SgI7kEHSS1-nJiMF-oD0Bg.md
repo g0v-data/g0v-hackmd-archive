@@ -84,15 +84,25 @@ tags: Rentea
 
 ### 戶籍與潛在房東影響
 
+1. 遷戶籍會導致房屋成為非自用住宅，而改變稅務成本嗎？
+
 ### 其他筆記
 
 1. 報戶口時，雙親其中一人去即可，要帶[生母存摺，一併辦生育補助](https://mamilove.com.tw/qa/69892)
 2. 幼兒須至少與雙親之一同戶籍，因為許多社會福利、公共資源取得資格，均有此前提
 
+
+
+
 ## 參考資料
 
 1. [2024生育補助總整理 - 親天下](https://www.parenting.com.tw/article/5091069)
 2. [台灣生育改革行動聯盟（簡稱生動盟）](https://www.birth1020.org)
+   > [name=ddio] 
+   > 生動盟主要專注在人（產家、助產相關專業者、嬰兒）的培力，根據我目前的了解，尚未觸及租屋、報稅、戶籍等議題，如果沒有其他相關資訊，我 3/21 就會把這條拿掉囉～
+   > 
+   > 這個專案也有用到不少生動盟的資料，但集中在[裝修坑](https://g0v.hackmd.io/@ddio-io/rebirth/https%3A%2F%2Fhackmd.io%2Fs_TUJZ06RtGEvnQSe56VXg)上。
+3. [屋主各項稅務介紹 - 租租通 2023](https://www.dd-room.com/article/lyahbiimzatdslsi)
 
 {%hackmd 1LO5rpavTiK4_cFrTouudg %}
 
