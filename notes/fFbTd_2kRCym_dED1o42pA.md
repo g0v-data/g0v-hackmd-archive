@@ -74,7 +74,7 @@ tags: vtaiwan
 - [20240222 TiCTeC call for proposal](/Jgf-lJ-XS5q4AgXABMBFwQ?both)
 - [vTaiwan 到 TicTec分享](/@Pno233SAS8G5UfL5OvSRmA/H194pPUKT)
 - 西敏寺基金會週五會開會
-- todo: 討論 Gema 
+- [vTaiwan 社群參與者參與 TicTec Conference 企劃書](/_UXdVBQwQ12NpKKDdOQYiA)
 
 ### 臨時動議
 - 舉辦實體活動時，如果有借用到揪松團的場地（NPO HUB）捐款給揪松
