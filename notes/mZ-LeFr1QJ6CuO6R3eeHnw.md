@@ -207,3 +207,120 @@ https://g0v.hackmd.io/Q1kxZgObSBihH5ZrHKNiJg?view
 
 
     
+----
+----
+----
+(以下為Yvonne, Jas, Vivian 討論共筆，待基礎松確認)
+
+
+## 治理機制成員名單
+
+### 編輯者 (2023.3.4)
+
+#### Landing page 首頁：（TBD）
+
+* TBD
+ *現況
+    * 64 admins, 276 members
+        * https://github.com/orgs/g0v/people
+    * admin 有權限可以砍光光所有 repositories (也可以順便把其他人都踢出 admin)
+    * members 都有權限可以在 g0v.tw 首頁塞入任何東西，跟在上面專案塞入任何有害程式碼
+    * 但也因為自由度很高，**g0v 是在 github 上世界前三大的 civic tech 社群**
+        * https://www.ithome.com.tw/news/106629
+
+### Reviewer (2023.3.4)
+
+- [Reviewer 清單](https://docs.google.com/spreadsheets/d/18oekxIDN84iPhP7fUYMleV7jmfWpr9UdZuujPFJmTBM/edit#gid=1776966921)
+  - ddio
+  - Teemo
+  - isabelhou
+  - tofu
+  - 揪松 (「揪松團決策委員與職工」名單：https://jothon.g0v.tw/about/)
+  - chihao
+
+### 審核者的加入與退出
+
+參考自 [SNS 社群治理](https://g0v.hackmd.io/THKRsDsNRXGsa_0zFUn3Gw)
+
+## 官網通報報修類 (流程草案撰寫中、TBD)
+
+- 什麼是「通報報修類」？
+    - 移除、更新失效連結
+    - 不改變用詞用字
+        - 內文網址連結更新，例如 2024.03 已提出 [新手指南區域，「提案小訣竅」、「非資訊人參與指南」連結失效](https://hackmd.io/t97cH7tFQPyUCgwmfCsFiw?view#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E6%80%A5%E9%9C%80%E6%9B%B4%E6%96%B0%E7%9A%84%E8%B3%87%E6%BA%90)
+- 流程：
+    - 於 g0v slack #gov-landing-page 頻道提議
+        - 建議附上說明文件
+    - Developer 進行開發
+    - Reviewer 確認 ／ Editer 更新
+        - CTA: 建立 Editer 名單
+
+## 官網小規模更新類提議 (流程草案撰寫中、TBD)
+
+- 什麼是「小規模更新類」？
+    - 不改變網站架構的前提下
+    - 增加條列內容
+        - 例如：在特定內文中，增加資源連結一：slack archive
+        - 例如：在特定內文中，增加資源連結二：g0v 開源協作手冊
+    - 不影響原意的文字抽換
+- 流程：
+    - 於 g0v slack #gov-landing-page 頻道提議
+        - 建議附上說明文件
+    - Developer 進行開發
+    - Reviewer 確認 ／ Editer 更新
+        - CTA: 建立 Editer 名單
+
+## 官網改動類提議 (流程草案撰寫中、TBD)
+
+- 什麼是「改動類」？
+    - 涉及版型調整
+    - 新增嵌入式網頁
+    - 移除特定內容
+    - 難歸納為報修類與小規模更新類的改動提議等 
+- 流程：
+    - 於 g0v slack #gov-landing-page 頻道提議
+        - 建議附上說明文件
+        - 建議提議者畫 Mockup、試做範本，方便工程師對齊
+    - 社群討論：
+        - 如何衡量共識、可行性
+        - 透過大松活動環節、基礎松等實體線下社群活動確認
+        - 投票
+        - 完成之後進入review與更新環節
+    - Developer 進行開發
+    - Reviewer 確認 ／ Editer 更新
+        - CTA: 建立 Editer 名單
+
+待討論：
+* 如果網站更新上去有bug，要由誰來協助主責處理？
+* Reviewer 名單
+    * Suggestion by Teemo 
+    * 快速過審的模式：有一個測試的網址，直接截圖標記，告訴reviewer 差異，點進去看確認，就會放行。
+    * 慢速過審：由reviewer run 起來，檢查差異，確認後過審。
+* Editer 名單
+    * 也可以提案自己找人進去當editor
+    * 看現有成為editor的機制（例如：2人推薦）
+
+* 角色定位：提議者相關
+    提議方式：
+        於 slack 提議與描述 （general channel、g0v-landing-page）
+        開 github Issue
+        建立共筆文件
+        或其他方式 表單
+        希望能將內容明確化
+        草稿
+        Mockup
+        手繪
+        也可以用簡報方便協作
+    主要檢核：工程師看得懂或看不懂
+* 角色定位：開發者相關
+    把前端的問題寫成程式
+    可以先製作一個展示網址
+    送出 pull
+    不需要有 github g0v 組織權限
+* 角色定位：審核者／上傳者（要建立名單？）
+    優先找曾經參與開發 g0v.tw 的 contributor
+    優先找也在 g0v Slack 的人
+    或通知 GitHub 上面的 contributor 加入 Slack 頻道
+    Review Code, push, merge
+    技能建議：網站跑起來，修改網頁程式碼，瀏覽程式
+
