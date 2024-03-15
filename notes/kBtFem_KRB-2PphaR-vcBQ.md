@@ -4,6 +4,60 @@ tags: vtaiwan
 # vTaiwan 到 TicTec分享
 - TicTec Conference 今年終於復辦，邀請數發部與 vTaiwan 參加
 - 日期：2024. 6. 12-13 @英國
+
+## 0315 與WFD討論
+- [提案簡報](https://docs.google.com/presentation/d/15d5lff9TBBy216TRD0W0nVLqXSQxMNzV-AVp29o8ids/edit?usp=sharing)
+- WFD 介紹
+    - WFD Taiwan 是 WFD 第一個專案辦公室
+    - 與其他專案相比，台灣的專案在公民科技與數位民主上確實走的比較前面
+        - 過去兩年的討論集中在資訊環境的部分
+        - 與一些社群夥伴 cofacts, IORG 有一定程度的了解。
+        - 但沒有這麼 focus 在公民科技上。
+- 問題
+    - vTaiwan 現在不是獨立法人？
+        - 由 OCF 合作處理 funding 
+    - vTaiwan 中間沈寂，後來有活躍的活動，需要一個例子
+        - 之後再補
+    - 跟 chatham house 合作是哪一個部門
+    - TicTec的部分，可以貼一個連結給我們
+    - Mysoicety 
+    - 數發部合作
+- 經費狀況
+    - 起迄日期：
+        - 4/1-3/30 
+        - 很好的時間，也在等待新專案的批准
+        - 4月底才能確認執行上的細節
+    - 想要思考下一個年度的專案，可以介紹其他國家，例如英國等更多元的 policy making 討論
+        - 與 vTaiwan 主題相關！
+    - 經費的初步回饋
+        - 有可能變成一大包，一部分是 vTaiwan，或者是單獨簽約，WFD 直接付掉。
+        - 6月會帶人去英國
+            - 參訪的部分，可以想像 demos / logically 
+    - Promised Action
+        - 不需要照片與影片XD
+        - 這一趟結束後，實質的合作與發展下文
+        - 希望有一個固定的 follow-up，接下來要一起討論的專案
+        - 後續參訪
+    - 後續活動的經費
+        - 需要可以補編～
+    - 可以問到的話，可以補上已經 promised 的英國單位
+    - 數位科技增進民主的參與
+        - 可以跟案例報告
+- 下一步可以進行的方向
+    - 目前評價：有達到新年度的目標
+    - 需要的行動
+        - 更新版的 proposal 與 concept note
+        - 過往的case study
+        - 這一次分享的內容
+        - 兩位夥伴的簡歷 / 背景
+        - workshop的內容
+        - 想要參訪的組織，給予一小段的說明
+        - 經費部分
+            - 機票、住宿寫一下是5天，行政雜支這邊建議修正成 Consultancy Fee，可以朝這個方向處理。拆開來處理
+            - 註記英鎊
+    - 3月底前給（爭取3/20)
+    - 
+
 ## 0118 第一次討論
 - 數發部與 vTaiwan 兩個session 
 - 1月底提供參加意願與可能方向

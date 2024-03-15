@@ -20,7 +20,7 @@ sudo mysql -u root mysql
 ```
 5. **輸入sql指令**
 ```
-UPDATE user SET plugin='mysql_native_password' WHERE User='root';
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456';
 FLUSH PRIVILEGES;
 exit;
 ```
