@@ -26,3 +26,5 @@ Co-organizing community: SITCON、GDSC、開放教育社群
 ### Organizer 不超過十位
 
 ### 議程軌名稱討論
+
+- 沿用 學生社群大亂鬥(今年更大亂鬥了)
