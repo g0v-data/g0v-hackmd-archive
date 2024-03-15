@@ -37,6 +37,13 @@ Chapter 4: Current Status of Civic Tech Projects and Communities in Other Asian 
 - g0v 轉眼十年。 幾位老 g0ver 參與了尚未名之的發想階段，以及後續社群密集發展的過程，雖然近兩三年較少貢獻，十年週期觸發了一些對發起人的提問，我們都有一點感想和整理，ipa clkao Kirby 三人遂共寫這篇文。
 - https://clkaozh.substack.com/p/g0v-first-decade
 
+:::info
+加入 g0v Slack 頻道
+🚀 https://g0v.hackmd.io/@daisuke/ryjkbFyuS
+:::
+
+---
+
 ## chewei: Introduction of civic tech project combining spatial issues with crowdsourcing model
 
 | 分享者（g0v Slack ID） | 簡介 | 

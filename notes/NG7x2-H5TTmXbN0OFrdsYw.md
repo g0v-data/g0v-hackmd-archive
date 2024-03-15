@@ -77,7 +77,7 @@ Co-organizing community: SITCON、GDSC、開放教育社群
 - FLOSS 概念及開源精神在教育現場的應用情境
 ```
 
-```
+```!
 SITCON 學生計算機年會與 Google Developer Student Clubs Taiwan & Hong Kong (GDSC) 。關注從學生角度出發的經驗分享、技術分享，專題研究成果、獨立研究甘苦談，或探討學生相關議題等等。任何與資訊科技、電腦技術相關的講題，或是與 Google 技術、Google Developers 社群相關，我們都非常歡迎！
 ```
 
@@ -99,22 +99,42 @@ SITCON 學生計算機年會與 Google Developer Student Clubs Taiwan & Hong Kon
 ### 議程軌名稱討論
 - 沿用 學生社群大亂鬥(今年更大亂鬥了) [name=FKT]
 - 學生社群大大大亂鬥 [name=Ted]
+- 學生 x 教育大亂鬥 [name=FKT]
+- 學生社群大亂鬥 Edu Ver [name=FKT]
+- 丹丹考古 [開放教育 BoF](https://coscup.org/2019/programs/866582b4-a412-4de0-8ab7-85f2fd63b9bd/)
+    - > 需要有更多開源教育、教育場域或老師等等ㄉ關鍵字
+- 開源教育，教育開源 [name=Denny]
+- 開源教育與學生ㄉ大亂鬥>< [name=不要理我我壞掉ㄌ]
+- ㄩㄢˊ宇宙大亂鬥 [name=Kazan]
+  - 開源
+  - 學員
+  - 支援
+  - 資源
+- 學生教育種田軌
+- SED（**S**tudent **Ed**ucation）
+- 教源但白[name=RS]
 
 ### 接下來的籌備安排
 
 ## 申請填寫（今天就完成！）
 ### 一般
-- Proposol title（社群名稱）：
+- Proposol title（社群名稱）：學生 × 教育大亂鬥
 - 議程軌（種類）：社群議程
 - 摘要：
     - 
 
 ### 問題
-- 議程軌主題名稱：
-- 議程軌主題英文：
+- 議程軌主題名稱：學生 × 教育大亂鬥
+- 議程軌主題英文：Student Education Track (SED)
 - 簡介：
+    - 去年
+    - 學生社群大亂鬥是由 SITCON 學生計算機年會與 Google Developer Student Clubs Taiwan & Hong Kong (GDSC) 組成的學生社群議程軌。
+    - 
+- 摘要
+    - SITCON 學生計算機年會與 Google Developer Student Clubs Taiwan & Hong Kong (GDSC) 及開發教育。關注以學生為主體或為學生服務的開放教育、開源教育，開源技術、社群 / 社團經營，或是與 Google 相關技術，我們都非常歡迎！
+    - **學生 × 教育大亂鬥議程軌由 SITCON 學生計算機年會、Google Developer Student Clubs Taiwan & Hong Kong (GDSC) 及開放教育社群共同籌辦，關注以學生為主體或為學生服務等議題，討論內容包含但不限於開放教育、開源教育，開源技術、社群 / 社團經營，或是與 Google 相關技術。**
 - 申請全日議程：兩日軌
-- 為什麼會來：
+- 為什麼會來：希望在 COSCUP 以開源為主之社群活動，進行對相關議題之倡議與討論，也希望透過 COSCUP 的人流與相關活動協助，讓本議程軌所期望之討論聚會籌辦可更加順利。
 - 目標：
 - 是否接受中文以外議程：
 - 協調人資訊

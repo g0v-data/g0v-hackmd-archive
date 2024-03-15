@@ -1,8 +1,12 @@
-# 翻譯志工與服務
+# 翻譯志工 / 服務 / UD Talk
+
 
 
 
 ## 0315 Discussion with UD Talk 
+- 中文結論：
+    - 簡單來說，我們要準備三台電腦並連接收音，以及10位以上的人輪流協助 editing ，UDTalk 會有工程師在活動時協助處理技術問題。
+    - UD Talk 需要在事前知道議程資訊，並生成QR code 讓使用者連結，一個軌會有一個QR CODE。觀眾使用時掃描QR CODE就會進入一個zoom 或 webex 聊天室，看到UD Talk 翻譯過的資訊
 - UD Talk & g0v Summit 2024
     - three tracks 
         - three capture device
