@@ -8,6 +8,12 @@ tags: edu
 Co-organizing community: SITCON、GDSC、開放教育社群
 :::
 
+:::success
+給我簽到！
+- Kazan
+- 
+:::
+
 ## Some discussion notes...
 
 ### 確認 COSCUP 窗口（也就是社群負責人）
