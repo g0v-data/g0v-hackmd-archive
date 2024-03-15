@@ -2,11 +2,11 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [edu](tags/edu.md) | 148 | 2024-03-15T14:54:16+08:00 |
+| [open-student-org](tags/open-student-org.md) | 5 | 2024-03-15T15:49:34+08:00 |
+| [SOGA](tags/SOGA.md) | 4 | 2024-03-15T15:49:34+08:00 |
+| [edu](tags/edu.md) | 148 | 2024-03-15T15:24:43+08:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6977 | 2024-03-15T14:53:33+08:00 |
 | [vtaiwan](tags/vtaiwan.md) | 11 | 2024-03-15T11:53:44+08:00 |
-| [open-student-org](tags/open-student-org.md) | 5 | 2024-03-15T10:06:45+08:00 |
-| [SOGA](tags/SOGA.md) | 4 | 2024-03-15T10:06:45+08:00 |
 | [School](tags/School.md) | 16 | 2024-03-15T10:04:00+08:00 |
 | [recap](tags/recap.md) | 15 | 2024-03-15T10:04:00+08:00 |
 | [g0vernance](tags/g0vernance.md) | 44 | 2024-03-14T23:21:44+08:00 |
