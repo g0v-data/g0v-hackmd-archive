@@ -585,9 +585,35 @@ Opass 教學
 ## 20240315 第十八次會議紀錄
 > 時間：2024/03/15（五） 8:30 PM
 > 地點：線上
-> 出席：Dong、、、、、
+> 出席：Dong、RSChiang、、、、
 
 ### T恤進度
 
-* 畫了一個視力檢查的版本，覺得放在背面好像不錯 [name=Dong]
+* 畫了一個視力檢查的版本，覺得放在背面好像不錯  [name=Dong]
     ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_577150ef916e661ce8a7840cd94a28c8.png)
+* 畫了一個延伸主視覺做成單色的感覺，想把 Dong 主視覺的科技感做出來 [name=RS]
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bfba2e156a9a2aa5c71adbd41b4607b2.jpeg)
+
+### 場佈影片更新
+- 上禮拜六SITCON時，又去拍了些人社中心環境的影片當作場佈參考，[Summit 2024 場勘相關影片 播放清單](https://www.youtube.com/playlist?list=PLHAaJ__5SAS9HV-xxhDygHISH52DuAe3U)
+- 徵求人類一起把場佈圖畫一畫
+
+### SITCON 大型輸出 a.k.a 繁嵐給的魚
+年會意象背板 650Ｘ230cm *1
+入口落地窗背板 122Ｘ295cm *2
+拍照背板 210Ｘ420cm *1
+講者背板 220Ｘ240cm *1
+講者背板 180Ｘ200cm *3
+議程表 60Ｘ180cm *5
+議程表 81Ｘ180cm *1
+>感謝繁嵐，你救了我們，我們永遠感謝你 [name=Dong][name=Dong2][name=Dong3]
+
+### 提議使用字型
+
+[Onest](https://fonts.google.com/specimen/Onest)
+
+> 找到覺得是可愛又帶點科技感風格的字體！覺得適合今年 Summit 的輕鬆風格，想請 Dong 試試看[name=RS]
+
+### 週日設計小組 co-work
+- 時間：週日 13:00-17:00
+- 地點：暫定後山埤二號出口[路易莎](https://maps.app.goo.gl/uCEfL53wKVmgzeM57)
