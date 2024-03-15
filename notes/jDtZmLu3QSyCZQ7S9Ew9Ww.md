@@ -1,5 +1,5 @@
 ---
-tags: open-student-org
+tags: open-student-org, SOGA
 ---
 
 # 學生開放自治社群 SITCON 2024 開放式議程草稿

@@ -2,9 +2,11 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6974 | 2024-03-15T10:00:01+08:00 |
-| [School](tags/School.md) | 16 | 2024-03-15T09:59:58+08:00 |
-| [recap](tags/recap.md) | 15 | 2024-03-15T09:59:58+08:00 |
+| [open-student-org](tags/open-student-org.md) | 5 | 2024-03-15T10:06:45+08:00 |
+| [SOGA](tags/SOGA.md) | 4 | 2024-03-15T10:06:45+08:00 |
+| [School](tags/School.md) | 16 | 2024-03-15T10:04:00+08:00 |
+| [recap](tags/recap.md) | 15 | 2024-03-15T10:04:00+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 6973 | 2024-03-15T10:02:53+08:00 |
 | [edu](tags/edu.md) | 148 | 2024-03-15T09:02:35+08:00 |
 | [g0vernance](tags/g0vernance.md) | 44 | 2024-03-14T23:21:44+08:00 |
 | [vtaiwan](tags/vtaiwan.md) | 11 | 2024-03-14T22:58:06+08:00 |
@@ -72,7 +74,6 @@
 | [救松](tags/%E6%95%91%E6%9D%BE.md) | 1 | 2024-03-06T18:11:46+08:00 |
 | [jothon](tags/jothon.md) | 30 | 2024-03-06T18:11:46+08:00 |
 | [intl](tags/intl.md) | 3 | 2024-03-05T16:18:21+08:00 |
-| [open-student-org](tags/open-student-org.md) | 4 | 2024-03-04T21:20:42+08:00 |
 | [公有資產](tags/%E5%85%AC%E6%9C%89%E8%B3%87%E7%94%A2.md) | 13 | 2024-03-04T19:43:50+08:00 |
 | [Tag(change me!)](tags/Tag%28change%20me%21%29.md) | 165 | 2024-03-04T18:25:21+08:00 |
 | [privacy](tags/privacy.md) | 22 | 2024-03-02T17:41:47+08:00 |

@@ -1,7 +1,7 @@
 ---
 type: slide
 title: Open Student Organizing
-tags: open-student-org
+tags: open-student-org, SOGA
 ---
 
 <h1 style="font-size: 90px; margin-bottom: 30px; ">開放學生自治社群</h1>
