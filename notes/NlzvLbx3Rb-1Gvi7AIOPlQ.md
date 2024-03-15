@@ -4,7 +4,7 @@ The evolution of web protocols has been instrumental in shaping the digital land
 In this exploration, we embark on a journey through the "Battle of the Protocols," comparing HTTP 1.1, HTTP/2, and HTTP/3 to uncover their respective strengths and weaknesses. From the foundational principles of HTTP 1.1 to the groundbreaking innovations of HTTP/2 and HTTP/3, we analyze the evolution of web protocols and their impact on the modern internet experience.
 
 ## Frequently Asked Questions around HTTP Protocol
-Before we go further to dissect the different HTTP protocols, let's provide answers to some of the fundamental and frequently asked questions around HTTP protocol
+Before we go further to dissect the different HTTP protocols, let's provide answers to some of the fundamental and frequently asked questions around HTTP protocol.
 
 Here are some frequently asked questions about the HTTP protocol:
 
@@ -32,25 +32,18 @@ HTTP status codes indicate the success or failure of an HTTP request. Common sta
 ### How does HTTP caching work?
 HTTP caching allows clients to store copies of web resources locally to reduce latency and server load. Caching directives in HTTP headers specify how long a resource can be cached and under what conditions it should be revalidated with the server.
 
-## HTTP 1 
-Before HTTP/1.1, there was HTTP 1. HTTP 1, released in 1996, marked a significant milestone in the development of web protocols. It operates over the TCP (Transmission Control Protocol), which provides reliable, ordered, and error-checked delivery of data packets between devices on a network. However, one of the notable limitations of HTTP 1 is its reliance on separate TCP connections for each request to the same server.
+## Overview of Different Versions of HTTP
 
-This approach, known as "one connection, one request," means that every time a client needs to retrieve a resource from a server, it must establish a new TCP connection. While this model was sufficient for early web applications, it has inherent inefficiencies, especially as web pages became more complex with multiple resources (such as images, scripts, and stylesheets) to fetch.
+To understand the evolution of web communication protocols, it's essential to explore the different versions of HTTP (Hypertext Transfer Protocol). Each iteration of HTTP has brought advancements aimed at improving performance, efficiency, and security in web interactions. In this section, we'll provide an overview of the key features and advancements introduced in various versions of HTTP, including HTTP/1.1, HTTP/2, and HTTP/3. By examining these protocols, we can gain insights into the continuous evolution of web technologies and their impact on the modern digital landscape.
+### HTTP 1 : The foundation
+HTTP 1, released in 1996, was a significant milestone in web protocol development, operating over TCP. However, it suffered from inefficiencies due to its reliance on separate TCP connections for each request, leading to increased latency and reduced performance, especially as web pages became more complex. Scalability issues arose from the limited number of concurrent connections per server. To overcome these limitations, subsequent versions of HTTP, such as HTTP/1.1, were introduced.
 
-As a result, the overhead of establishing and tearing down TCP connections for each request led to increased latency and reduced performance, particularly on high-latency networks. 
+**Note:** HTTP 1 was excluded from the comparison as it represented an earlier version with inherent limitations, particularly in terms of performance, scalability, and resource utilization, which were significantly addressed and improved upon in subsequent versions like HTTP/1.1, HTTP/2, and HTTP/3.
 
-Additionally, the limited number of concurrent connections per server further exacerbated scalability issues, as servers could quickly become overwhelmed by a large number of simultaneous requests.
+### HTTP/1.1: The Evolution
+HTTP 1.1 soon followed in 1997. It introduced the "keep alive" mechanism, allowing connections to be reused for multiple requests, thereby reducing latency by avoiding the need to establish new TCP connections for each request. However, HTTP pipelining, another feature introduced in HTTP 1.1, led to head-of-line blocking issues. 
 
-To address these limitations, subsequent versions of HTTP, such as HTTP/1.1 was introduced.
-
-## HTTP/1.1
-HTTP 1.1 soon followed in 1997. It introduced a “keep alive” mechanism so a connection could be reused for more than a single request. The preexisting connections reduced latency because the client does not need to initiate the expensive TCP 3  connection for every request.
-
-Head-of-line blocking is a challenge inherent in HTTP pipelining, a feature introduced in HTTP 1.1. In pipelining, the client can send multiple HTTP requests to the server without waiting for each response, theoretically speeding up the communication process. However, if any one of these requests is delayed or blocked for any reason, such as packet loss or server processing delays, all subsequent requests queued behind it on the same connection must wait for it to be processed and the corresponding response to be received. This means that even if other requests could be processed quickly, they are held up by the delayed or blocked request, leading to a decrease in overall performance.
-
-To mitigate head-of-line blocking, modern web browsers typically use multiple parallel TCP connections to the same server. 
-
-By opening several connections, browsers can send requests in parallel, reducing the impact of delays on individual requests. This approach helps maintain a higher level of loading performance by allowing other requests to proceed independently if one request is blocked or delayed. However, managing multiple connections can also introduce overhead and complexity, so browsers aim to strike a balance between maximizing parallelism and minimizing resource consumption.
+While pipelining theoretically speeds up communication by allowing multiple requests to be sent without waiting for each response, any delay or blockage in one request affects subsequent requests on the same connection, reducing overall performance. To mitigate this, modern web browsers use multiple parallel TCP connections to the same server, enabling requests to be sent in parallel and reducing the impact of delays on individual requests. This approach balances the need for parallelism with the complexity and overhead of managing multiple connections, resulting in improved loading performance for web pages.
 
 Here are the key features, strengths, and limitations of HTTP/1.1:
 
@@ -78,16 +71,11 @@ Here are the key features, strengths, and limitations of HTTP/1.1:
 
 * Security Vulnerabilities: HTTP 1.1 does not provide built-in encryption or authentication mechanisms, leaving communications vulnerable to interception and tampering. While HTTPS can mitigate these risks, it was not mandatory in HTTP 1.1.
 
-## HTTP/2
-HTTP/2, published in 2015, brought significant improvements over its predecessor, addressing some of the limitations and inefficiencies of HTTP/1.1.
+### HTTP/2: The Transition
+HTTP/2, introduced in 2015, marked a significant advancement over HTTP/1.1 by addressing its limitations and introducing innovative features. It introduced HTTP streams, enabling multiplexing of multiple requests and responses over a single TCP connection, thereby improving network resource utilization. Unlike HTTP/1.1 pipelining, HTTP/2 streams are independent, resolving the head-of-line blocking issue and leading to enhanced performance and reduced latency. 
 
-HTTP/2 introduces the concept of HTTP streams, which enables multiple streams of requests and responses to be multiplexed over a single TCP connection. Unlike HTTP/1.1 pipelining, where requests need to be sent and received in a specific order, HTTP/2 streams are independent of each other, allowing for more efficient utilization of network resources.
+Additionally, HTTP/2 introduced server push capability, allowing servers to proactively send resources to clients, further optimizing performance and reducing page load times. Overall, HTTP/2 offers a more efficient and robust protocol for modern web applications, prioritizing performance, latency reduction, and enhanced user experience.
 
-One of the key advantages of HTTP/2 is its ability to solve the head-of-line blocking issue at the application layer. With HTTP/2, if one stream encounters a delay or blockage, it doesn't hold up the progress of other streams on the same connection. This leads to improved performance and reduced latency, especially in scenarios where multiple resources need to be fetched to render a web page.
-
-Additionally, HTTP/2 introduced a server push capability. With server push, the server can proactively send resources to the client before they are requested. This is particularly useful for scenarios where the server knows in advance which resources the client will need based on the initial request. By pushing resources preemptively, HTTP/2 reduces the need for additional round trips between the client and server, further improving performance and reducing page load times.
-
-Overall, HTTP/2 offers a more efficient and robust protocol for modern web applications, with features designed to optimize performance, reduce latency, and improve the user experience.
 
 HTTP/2, brought significant improvements over HTTP/1.1 by addressing its limitations and introducing new features. Here are the key features, strengths, and limitations of HTTP/2:
 
@@ -117,18 +105,14 @@ HTTP/2, brought significant improvements over HTTP/1.1 by addressing its limitat
 
 * Potential for Head-of-Line Blocking: While HTTP/2 aims to address head-of-line blocking issues present in HTTP/1.1, it can still occur in certain scenarios, particularly when multiple streams share the same connection and one stream experiences latency or congestion.
 
-## HTTP/3
-HTTP/3, which began as a draft in 2020, represents a significant evolution in web protocols by introducing QUIC (Quick UDP Internet Connections) as the underlying transport protocol instead of TCP. QUIC is based on UDP and prioritizes streams as first-class citizens at the transport layer.
+### HTTP/3: The Revolution
+HTTP/3, emerging from a draft in 2020, marks a substantial leap forward in web protocols by adopting QUIC (Quick UDP Internet Connections) as its underlying transport protocol, departing from the traditional TCP. 
 
-QUIC's stream multiplexing feature allows multiple streams to share the same connection without the need for additional handshakes to create new connections. This eliminates the overhead associated with TCP's connection establishment process and enables more efficient resource utilization.
+QUIC prioritizes stream multiplexing, facilitating multiple streams to share a connection without the need for additional handshakes, thereby optimizing resource usage. Crucially, it eliminates head-of-line blocking at the transport layer, enhancing performance and reducing latency by ensuring independent delivery of streams despite packet loss or congestion. 
 
-One of the key benefits of QUIC is its ability to eliminate head-of-line blocking at the transport layer. Unlike TCP, where packet loss affecting one stream can impact others due to its reliance on a single connection, QUIC's streams are delivered independently. This means that packet loss or congestion affecting one stream does not hinder the progress of other streams, resulting in improved performance and reduced latency.
+Furthermore, QUIC's implementation of Connection ID enables seamless transition between IP addresses and network interfaces, particularly beneficial for mobile users. Despite its recent inception, HTTP/3, powered by QUIC, is already gaining traction due to its emphasis on performance, reliability, and adaptability to modern internet requirements.
 
-QUIC also implements a concept called Connection ID, which allows connections to seamlessly transition between IP addresses and network interfaces. This feature is particularly advantageous for mobile users who frequently switch between different networks, such as Wi-Fi and cellular data. With Connection ID, the transition between networks is quick and reliable, ensuring uninterrupted connectivity and a seamless user experience.
-
-Despite being a relatively new protocol, HTTP/3, powered by QUIC, is already gaining traction, with approximately 25% of websites adopting it and support from many popular web browsers. Its emphasis on performance, reliability, and adaptability to mobile environments makes it well-suited for the modern internet landscape.
-
-HTTP/3, which began as a draft in 2020, represents a significant evolution in web protocols by introducing QUIC (Quick UDP Internet Connections) as the underlying transport protocol instead of TCP. Here are the key features, strengths, and limitations of HTTP/3:
+Here are the key features, strengths, and limitations of HTTP/3:
 
 **Features:**
 
@@ -211,7 +195,7 @@ Though identifying specific websites that exclusively use HTTP/1, HTTP/2, or HTT
 * Google (Certain services like Google Search and YouTube have experimented with HTTP/3)
 * Fastly (Some websites served through Fastly CDN may support HTTP/3)
 
- ## Recommendations on which protocol to adopt when developing a website 
+ ## Recommendations on the protocol to adopt when developing a website 
  When developing a website or web application, the choice of which HTTP protocol to use depends on various factors such as performance requirements, compatibility considerations, and security needs. Here are some recommendations based on different scenarios:
 
 * Performance-Critical Applications: For performance-critical applications where reducing latency and improving page load times are paramount, consider using HTTP/2 or HTTP/3. These protocols offer features like multiplexing, header compression, and server push, which can significantly enhance performance compared to HTTP 1.1.
