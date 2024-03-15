@@ -39,10 +39,10 @@ Examining the various Hypertext Transfer Protocol (HTTP)  versions is crucial to
 
 We can learn more about the ongoing development of web technologies and their influence on the contemporary digital environment by looking at these protocols.
 
-### HTTP 1 : The Foundation
-Operating over [Transmission Control Protocol](https://www.techtarget.com/searchnetworking/definition/TCP-IP) (TCP), HTTP/1 was a major milestone in the development of web protocols, published in 1996. But because it relied on distinct TCP connections for every request, it was inefficient and resulted in higher latency and worse performance, particularly as web pages become more complicated. 
+### HTTP/1 : The Foundation
+Operating over [Transmission Control Protocol](https://www.techtarget.com/searchnetworking/definition/TCP-IP) (TCP), HTTP/1 was a major milestone in the development of web protocols, published in 1996. Because it relied on distinct TCP connections for every request, it was inefficient and resulted in higher latency and worse performance, particularly as web pages became more complicated. 
 
-The restricted amount of concurrent connections per server led to scalability problems. Afterwards, HTTP was redesigned with the introduction of HTTP/1.1 to get around these restrictions.
+The restricted amount of concurrent connections per server led to scalability problems. Afterward, HTTP was redesigned with the introduction of HTTP/1.1 to get around these restrictions.
 
 **Remark:** The comparison does not include HTTP/1 because it was an older version with built-in constraints, mostly related to resource consumption, scalability, and performance, all of which were greatly improved upon and addressed in HTTP/1.1, HTTP/2, and HTTP/3.
 
@@ -107,7 +107,7 @@ HTTP/2, brought significant improvements over HTTP/1.1 by addressing its limitat
 
 * Complexity: Compared to HTTP/1.1, HTTP/2 implementation can be more complicated, particularly when it comes to handling multiplexed streams, stream prioritization, and server push. Administrators and developers may encounter difficulties because of its intricacy.
 
-* Dependency on TLS: Although it is not a restriction unique to HTTP/2, TLS (HTTPS) is frequently needed for the protocol's wide adoption. Performance may be impacted by TLS's overhead in terms of encryption and decryption, despite the security advantages it offers.
+* Dependency on [Transport Layer Security (TLS)](https://docs.oracle.com/javase/8/docs/technotes/guides/security/jsse/tls.html): Although it is not a restriction unique to HTTP/2, TLS (HTTPS) is frequently needed for the protocol's wide adoption. Performance may be impacted by TLS's overhead in terms of encryption and decryption, despite the security advantages it offers.
 
 * Potential for Head-of-Line Blocking: Even though HTTP/2 attempts to fix the head-of-line blocking problems that existed in HTTP/1.1, it can still happen in some situations, especially when there are several streams sharing a single connection and one of them is experiencing lag or congestion.
 
@@ -189,7 +189,7 @@ Though it can be difficult to pinpoint particular websites that only use HTTP/1,
 
 1. **HTTP/1:** It's possible that a large number of older or less updated websites still primarily utilize HTTP/1, particularly if they haven't been updated for newer protocols. Smaller blogs, individual webpages, or older services that still use HTTP/1 are not uncommon.
 
-2. **HTTP/2:** To take use of HTTP/2's multiplexing, header compression, and server push features, large-scale websites and platforms that place a high priority on performance and user experience frequently implement it. A few websites that use HTTP/2 are:  [Google](https://www.google.com.ng/) (including YouTube, Gmail, and Google Search), [Facebook](https://www.facebook.com/), [X (Twitter)](https://twitter.com/?lang=en), [Amazon](https://) and Netflix.
+2. **HTTP/2:** To take use of HTTP/2's multiplexing, header compression, and server push features, large-scale websites and platforms that place a high priority on performance and user experience frequently implement it. A few websites that use HTTP/2 are:  [Google](https://www.google.com.ng/) (including YouTube, Gmail, and Google Search), [Facebook](https://www.facebook.com/), [X (Twitter)](https://twitter.com/?lang=en), [Amazon](https://www.amazon.com/) and [Netflix](https://www.netflix.com/).
 
 3. **HTTP/3:** Based on the QUIC protocol, HTTP/3 is a relatively modern technology that may still be being adopted by large websites. Nonetheless, a few businesses and services have started testing HTTP/3 in live settings. As an illustration, consider the following: 
 * [Cloudflare](https://www.cloudflare.com/): (certain websites hosted by Cloudflare support HTTP/3)
