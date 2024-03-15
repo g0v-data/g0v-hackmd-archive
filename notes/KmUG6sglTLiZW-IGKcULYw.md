@@ -9,3 +9,11 @@
 具體作法可參考開放資料平臺上的「我要更多資料」的功能，此機制可運用於針對高價值資料及其評選機制的相關討論，並充作意見回饋管道。
 ## 與核心價值的關係
 ■透明 ■參與 ■涵容
+
+## OCF 2024 其他提案
+
+- [OCF - 盤點現有量能，凝聚跨部會開放資料發展共識](https://g0v.hackmd.io/@Yanyiyi/OCF-OGP-2024001)
+- [OCF - 開放資料平台增能，強化回饋蒐集能力，進而提升運用便利性](https://g0v.hackmd.io/@Yanyiyi/OCF-OGP-2024002)
+- [OCF - 開放資料標準升級，提升資料可用性及再利用性](https://g0v.hackmd.io/@Yanyiyi/OCF-OGP-2024003)
+- [OCF - 公開高價值資料評估與決策既有程序，據此建立民間建議徵集並納入相關程序之機制](https://g0v.hackmd.io/@Yanyiyi/OCF-OGP-2024004)
+- [OCF - 就既有開放資料諮詢小組發展成可納入公民參與監督的管道](https://g0v.hackmd.io/@Yanyiyi/OCF-OGP-2024005)
