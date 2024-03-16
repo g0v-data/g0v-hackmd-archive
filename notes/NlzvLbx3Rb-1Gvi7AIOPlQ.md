@@ -3,21 +3,21 @@ The digital environment we live in today has been greatly influenced by the deve
 
 We travel through the "Battle of the Protocols" in this article, contrasting HTTP/1.1, HTTP/2, and HTTP/3 to learn about their strengths and limitations. We examine the development of web protocols and their influence on the contemporary internet user experience, starting with the fundamental ideas of HTTP/1.1 and moving on to the ground-breaking inventions of HTTP/2 and HTTP/3.
 
-## Frequently Asked Questions around HTTP Protocol
-Before we go further to dissect the different HTTP protocols, let's provide answers to some of the fundamental and frequently asked questions around HTTP protocol.
+## Frequently Asked Questions about HTTP Protocol
+Before we go further to dissect the different HTTP protocols, let's provide answers to some of the fundamental and frequently asked questions about HTTP protocol.
 
 Here are some frequently asked questions about the HTTP protocol:
 
 ### What is a Protocol?
-A protocol is a collection of guidelines that controls the flow of data back and forth between systems or devices. It makes it possible for efficient communication across networks by defining the format, organization, and flow of messages that are exchanged.
+A protocol is a collection of guidelines that control the flow of data back and forth between systems or devices. It makes it possible for efficient communication across networks by defining the format, organization, and flow of messages that are exchanged.
 
 The purpose and intricacy of protocols differ, ranging from basic email protocols to intricate web browsing protocols. In the end, protocols serve as the cornerstone of contemporary digital communication, enabling smooth online engagement.
 
 ### What is HTTP?
-Hypertext Transfer Protocol is referred to as [HTTP](https://httpwg.org/specs/). It is an application layer protocol that is used to send hypermedia documents across the Internet, such HTML files.
+Hypertext Transfer Protocol is referred to as [HTTP](https://httpwg.org/specs/). It is an application layer protocol that is used to send hypermedia documents across the Internet, such as HTML files.
 
 ### How does HTTP work?
-HTTP works on a client-server architecture, in which web browsers and other clients send requests for resources to servers, who then provide the desired data. Stateless exchange of requests and answers makes each transaction independent of earlier exchanges.
+HTTP works on a client-server architecture, in which web browsers and other clients send requests for resources to servers, who then provide the desired data. The stateless exchange of requests and answers makes each transaction independent of earlier exchanges.
 
 ### What are the different methods in HTTP?
 The action to be taken on a resource is specified by one of the several verbs, or methods, defined by HTTP. GET (retrieve data), POST (submit data), PUT (update data), DELETE (delete data), and other methods are frequently used.
@@ -157,11 +157,11 @@ Here's a side-by-side comparison of HTTP/1.1, HTTP/2, and HTTP/3 based on their 
 | Host Header           | Introduced                              | N/A (maintains compatibility)            | N/A (maintains compatibility)               |
 | Multiplexing          | Not supported                           | Yes, allows multiple requests to be sent in parallel over the same connection | Yes, using QUIC, with independent streams   |
 | Server Push           | Not supported                           | Yes, allows servers to push resources proactively | Yes, allows servers to push resources proactively |
-| Header Compression    | Not supported                           | Yes, reduces overhead with HPACK         | N/A (built-in mechanisms for reliability)  |
+| Header Compression    | Not supported                           | Yes reduces overhead with HPACK         | N/A (built-in mechanisms for reliability)  |
 | **Strengths**         |                                          |                                            |                                             |
 | Backward Compatibility| Compatible with existing infrastructure | Maintains backward compatibility with HTTP/1.1 | Maintains compatibility with HTTP/1.1       |
 | Improved Performance  | Limited due to lack of multiplexing      | Yes, multiplexing and header compression improves performance | Yes, reduced latency with QUIC, independent streams |
-| Efficient Resource Utilization | Limited due to lack of multiplexing | Yes reduces overhead of establishing multiple connections | Yes, improves resource utilization with independent streams |
+| Efficient Resource Utilization | Limited due to lack of multiplexing | Yes reduces the overhead of establishing multiple connections | Yes, improves resource utilization with independent streams |
 | Reduced Latency       | Limited due to lack of multiplexing      | Yes, reduces latency with multiplexing and header compression | Yes, further reduces latency with QUIC      |
 | **Limitations**       |                                          |                                            |                                             |
 | Head-of-Line Blocking | Present, subsequent requests may be blocked | Present, though mitigated with multiplexing | Reduced with QUIC's independent streams     |
@@ -169,9 +169,9 @@ Here's a side-by-side comparison of HTTP/1.1, HTTP/2, and HTTP/3 based on their 
 | Complexity            | Low                                      | Increased complexity with multiplexing and header compression | Increased complexity with QUIC and UDP     |
 | Compatibility Issues  | Compatibility with older infrastructure may be limited | Compatibility with older infrastructure may be limited | Compatibility with older infrastructure may be limited |
 
-All things considered, HTTP/2 and HTTP/3 provide considerable gains over HTTP/1.1 in terms of speed, efficiency, and lower latency; the addition of QUIC to HTTP/3 brings even more advantages. Each version, however, has advantages and disadvantages of its own, and the choice of protocol is influenced by a number of variables, including performance objectives, compatibility requirements, and the particular requirements of the website or application.
+All things considered, HTTP/2 and HTTP/3 provide considerable gains over HTTP/1.1 in terms of speed, efficiency, and lower latency; the addition of QUIC to HTTP/3 brings even more advantages. Each version, however, has advantages and disadvantages of its own, and the choice of protocol is influenced by several variables, including performance objectives, compatibility requirements, and the particular requirements of the website or application.
 
-##  Real world examples illustrating performance differences between Protocols
+##  Real-world examples illustrating performance differences between Protocols
 Numerous websites and web apps provide real-world examples of how HTTP/1.1, HTTP/2, and HTTP/3 function differently. Here are a few typical situations:
 
 * Website Loading Speed: Several resources (including [HTML](https://html.com/tags/main/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://www.javascript.com/), pictures, and fonts) are retrieved sequentially via distinct TCP connections when loading a website built using HTTP 1.1. Increased latency may arise from this, particularly if the server is located far away or if the network isn't operating well. HTTP/2 websites, on the other hand, benefit from multiplexing, which enables the simultaneous retrieval of several resources over a single TCP connection. This can greatly shorten the page's total load time, particularly for intricate websites with plenty of resources. QUIC significantly minimizes latency with HTTP/3 by removing head-of-line blocking and enhancing congestion management. This may result in significantly quicker loading times, especially over cellular networks or in scenarios where packet loss is considerable.
@@ -185,11 +185,11 @@ Numerous websites and web apps provide real-world examples of how HTTP/1.1, HTTP
 Overall, users will likely have a better overall web browsing experience with HTTP/1.1, HTTP/2, and HTTP/3 because of the newer protocols' substantial increases in speed, efficiency, and dependability, even though the performance differences between them may vary based on particular use cases and network conditions.
 
 ## Examples of websites that use HTTP/1.1, 2 and 3
-Though it can be difficult to pinpoint particular websites that only use HTTP/1, HTTP/2, or HTTP/3 because many websites support multiple protocols at once or switch between protocols depending on many factors like server capabilities, network conditions, and browser support. Nonetheless, the following websites are instances of those who have tried or implemented these protocols:
+However, it can be difficult to pinpoint particular websites that only use HTTP/1, HTTP/2, or HTTP/3 because many websites support multiple protocols at once or switch between protocols depending on many factors like server capabilities, network conditions, and browser support. Nonetheless, the following websites are instances of those who have tried or implemented these protocols:
 
 1. **HTTP/1:** It's possible that a large number of older or less updated websites still primarily utilize HTTP/1, particularly if they haven't been updated for newer protocols. Smaller blogs, individual webpages, or older services that still use HTTP/1 are not uncommon.
 
-2. **HTTP/2:** To take use of HTTP/2's multiplexing, header compression, and server push features, large-scale websites and platforms that place a high priority on performance and user experience frequently implement it. A few websites that use HTTP/2 are:  [Google](https://www.google.com.ng/) (including YouTube, Gmail, and Google Search), [Facebook](https://www.facebook.com/), [X (Twitter)](https://twitter.com/?lang=en), [Amazon](https://www.amazon.com/) and [Netflix](https://www.netflix.com/).
+2. **HTTP/2:** To make use of HTTP/2's multiplexing, header compression, and server push features, large-scale websites and platforms that place a high priority on performance and user experience frequently implement it. A few websites that use HTTP/2 are  [Google](https://www.google.com.ng/) (including YouTube, Gmail, and Google Search), [Facebook](https://www.facebook.com/), [X (Twitter)](https://twitter.com/?lang=en), [Amazon](https://www.amazon.com/) and [Netflix](https://www.netflix.com/).
 
 3. **HTTP/3:** Based on the QUIC protocol, HTTP/3 is a relatively modern technology that may still be being adopted by large websites. Nonetheless, a few businesses and services have started testing HTTP/3 in live settings. As an illustration, consider the following: 
 * [Cloudflare](https://www.cloudflare.com/): (certain websites hosted by Cloudflare support HTTP/3)
@@ -198,7 +198,7 @@ Though it can be difficult to pinpoint particular websites that only use HTTP/1,
 
 
  ## Protocol Recommendations for Website Development 
- The HTTP protocol to choose while creating a website or online application is determined by a number of criteria, including security concerns, compatibility issues, and performance requirements. Based on various scenarios, the following recommendations have been made:
+ The HTTP protocol to choose while creating a website or online application is determined by several criteria, including security concerns, compatibility issues, and performance requirements. Based on various scenarios, the following recommendations have been made:
 
 * Performance-Critical Applications: Use HTTP/2 or HTTP/3 for performance-critical applications where decreasing latency and speeding up page loads are crucial. When compared to HTTP 1.1, these protocols' features—like multiplexing, header compression, and server push—can greatly improve performance.
 
@@ -206,14 +206,14 @@ Though it can be difficult to pinpoint particular websites that only use HTTP/1,
 
 * Security Requirements: If your website or application prioritizes security, you should think about utilizing HTTP/2 or HTTP/3 with TLS (HTTPS). HTTP/2 and HTTP/3 offer more security features and performance enhancements that can improve your site's overall security posture, even though HTTP/1.1 can also be secured with HTTPS.
 
-* Mobile-Friendly Applications: QUIC-powered HTTP/3 is a competitive option for mobile-friendly applications where users may frequently transfer between different networks or have restricted bandwidth. It is well-suited for mobile environments due to its rapid connection setup, independent streams, and integrated dependability measures, which improves both performance and user experience.
+* Mobile-Friendly Applications: QUIC-powered HTTP/3 is a competitive option for mobile-friendly applications where users may frequently transfer between different networks or have restricted bandwidth. It is well-suited for mobile environments due to its rapid connection setup, independent streams, and integrated dependability measures, which improve both performance and user experience.
 
 * Complexity and Resource Constraints: Think about how difficult it will be to manage and implement various protocols, particularly if you don't have a lot of resources or experience. Even though HTTP/2 and HTTP/3 are significantly faster than HTTP/1.1, they also come with more complexity. Determine whether your team has the knowledge and tools needed to carry out and uphold these protocols.
 
-* Future-Proofing: Considering how online protocols and technologies are always changing, you might want to think about using HTTP/2 or HTTP/3 to future-proof your application or website. These protocols provide cutting-edge functionality and speed boosts that can help you future-proof your website and make sure it stays competitive in the web's always shifting landscape.
+* Future-Proofing: Considering how online protocols and technologies are always changing, you might want to think about using HTTP/2 or HTTP/3 to future-proof your application or website. These protocols provide cutting-edge functionality and speed boosts that can help you future-proof your website and make sure it stays competitive in the web's always-shifting landscape.
 
 ## Conclusion
-In conclusion, the selection of the HTTP protocol ought to be predicated on a meticulous assessment of the demands for performance, compatibility, security, and available resources. HTTP/1.1 is still a good option for older systems, however HTTP/2 and HTTP/3 provide much faster speeds, lower latency, and better security features.
+In conclusion, the selection of the HTTP protocol ought to be predicated on a meticulous assessment of the demands for performance, compatibility, security, and available resources. HTTP/1.1 is still a good option for older systems, however, HTTP/2 and HTTP/3 provide much faster speeds, lower latency, and better security features.
 
 Every protocol—HTTP/1.1, HTTP/2, and HTTP/3—has advantages and disadvantages of its own. Multiplexing, header compression, and server push are included in HTTP/2 to increase efficiency and performance. With QUIC powering HTTP/3, latency is further decreased, head-of-line blocking is lessened, and dependability is improved—particularly for real-time communication and mobile environments.
 
