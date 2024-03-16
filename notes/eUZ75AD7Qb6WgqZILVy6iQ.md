@@ -1,5 +1,5 @@
 ---
-tags:
+tags: GIS
 ---
 
 # 各國國會議場
@@ -8,3 +8,6 @@ https://facebook.com/events/s/%E7%9C%89%E8%A7%92%E5%BE%B5%E4%BB%B6%E8%87%AA%E5%B
 
 http://www.parliamentbook.com/
 http://www.x-m-l.org/p/theaters-of-democracy-2/s/2
+
+丹麥國會 戶外空間
+https://www.facebook.com/share/p/xEGfZ9z5mmFx7hjy/
