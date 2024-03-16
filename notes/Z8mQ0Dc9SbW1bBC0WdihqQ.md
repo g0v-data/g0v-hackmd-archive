@@ -9,7 +9,9 @@ tags: edu
 [TOC]
 :::
 
-## g0v Civic Tech Project & Community Handbook<br>公民科技專案與社群手冊
+## g0v 社群介紹
+
+### g0v Civic Tech Project & Community Handbook<br>公民科技專案與社群手冊
 Online 中文版：https://g0v.hackmd.io/@jothon/ctpbook
 Online：https://g0v.hackmd.io/@jothon/ctpbook_en/
 PDF：https://drive.google.com/drive/folders/1BRAWFZr9wvAiPH0Uu7TUElunsWGHvnWu?usp=sharing
@@ -32,7 +34,7 @@ Chapter 4: Current Status of Civic Tech Projects and Communities in Other Asian 
 - 4-2 The Impact of East and South Asian Governments Toward Civic Tech Development and the Relationship Between Them
 - 4-3 Current Status of Youth Participation in Civic Tech Communities in Taiwan, Japan and Korea
 
-## Article: 十年觀察：g0v 的嗨與鬆
+### Article: 十年觀察：g0v 的嗨與鬆
 
 - g0v 轉眼十年。 幾位老 g0ver 參與了尚未名之的發想階段，以及後續社群密集發展的過程，雖然近兩三年較少貢獻，十年週期觸發了一些對發起人的提問，我們都有一點感想和整理，ipa clkao Kirby 三人遂共寫這篇文。
 - https://clkaozh.substack.com/p/g0v-first-decade
@@ -44,7 +46,9 @@ Chapter 4: Current Status of Civic Tech Projects and Communities in Other Asian 
 
 ---
 
-## chewei: Introduction of civic tech project combining spatial issues with crowdsourcing model
+## 講座分享：「數位解方＋公私協力」政策措施案例分享
+
+### chewei: Introduction of civic tech project combining spatial issues with crowdsourcing model
 
 | 分享者（g0v Slack ID） | 簡介 | 
 | -------- | -------- | 
@@ -60,7 +64,9 @@ slide
 https://docs.google.com/presentation/d/1EwCP6FM0WAABx0mmweKt68vDDJhF5nD4eEzxb9Pv_6M/edit?usp=sharing
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSB8B5xDeSh9GaEUxapIIYRkPQug35qQmSoGz941ryZbtPwHzYJlh1G71gLFF3NebNCRShMw-iWheRx/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="490" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Crowdsourcing-oriented Project Template<br>群眾外包導向的提案模板
+## 「如何建構專案？」參考素材
+
+### Crowdsourcing-oriented Project Template<br>群眾外包導向的提案模板
 https://g0v.hackmd.io/7ipCcQRWSuifqjH2SfXy2w?view
 
 A. Project Core Description 📢
@@ -85,14 +91,20 @@ C. Please assess the implementation challenges and proposed solutions. 💪
 - C-3. What are the milestone goals?
 - C-4. Are there any similar projects internationally? 🔍
 
-
-## 其他參考：數位解方策略及工具推薦 / 揉合公民權的公民科技專案策略
+### 其他參考：數位解方策略及工具推薦 / 揉合公民權的公民科技專案策略
 
 https://docs.google.com/spreadsheets/d/1P1sCLPAQP9hUwMFVGzneg9lAIFLoYe_arsmgdUy23FA/edit
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTO3sgC85MWIm3L1sSH3SG8WKzD7_Cp2hQRyfMOCW0SYQUSt_6MgGWWx2Nn4LkH4XASk56QXVhxS3TM/pubhtml?widget=true&amp;headers=false" width=100% height="600"></iframe>
 
+### 其他參考：Joinplus 公民參與結合數位工具 - 議題架構初探與工具試作
 
-## 其他參考：零時小學校 - 專案實作與歷年推動專案
+簡報：https://g0v.hackmd.io/@chewei/joinplus/https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1hpgPPSbAfsYKMCDbYDZa0iwJHZA0DWYe339ft42Xf48%2Fedit
+
+講座影片：https://youtu.be/2UiYUpjGjks
+
+<iframe width=100% height="490" src="https://www.youtube.com/embed/2UiYUpjGjks?si=oY-fWzkfLTwx_1N6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### 其他參考：零時小學校 - 專案實作與歷年推動專案
 
 https://sch001.g0v.tw/dash/brd/sch001-2023-prjs/list
