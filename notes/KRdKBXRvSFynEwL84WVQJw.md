@@ -1,6 +1,5 @@
 ---
-title: "臺南市政府 2014台南黑客松-HackTainan 成果蒐集"
-tags: hackpad
+tags: tainan, hackpad
 ---
 
 # 臺南市政府 2014台南黑客松-HackTainan 成果蒐集
