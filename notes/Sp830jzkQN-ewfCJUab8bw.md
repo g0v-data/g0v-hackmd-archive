@@ -28,6 +28,7 @@ https://www.geotech.org.tw/upload/e_book_file/20230328164922345.pdf
 
 土石流行動觀測車
 https://www.facebook.com/story.php?story_fbid=pfbid02DckqvDFvQWDg9c8frWucdC4h35LoEV9kN8n1tfyknktB3bNhjJcB9zNPYNvxuQ4Yl&id=100064753841028&mibextid=qC1gEa
+https://www.facebook.com/share/p/PpUQoFYgud55gJVB/
 
 【FB 社團】坡地，可以先轉到 水土保持及防災資訊交流 FB 社團
 https://www.facebook.com/groups/718089658359103
