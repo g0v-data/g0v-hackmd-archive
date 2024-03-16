@@ -277,3 +277,7 @@ rainbow, rainbowWithGlitter, confetti, sinelon, juggle, bpm
 * **sinelon** : 
     1. 與**confetti**的1.相同，顏色會**淡化**。
     2. beatsin16會從最小值到最大值，再從最大值到最小值，所以最後一個、第一個LED會亮2次，看起來像**顏色停留**。
+
+## 不同腳位用同一陣列控制
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_add2b8a5ca2343c757476e8af3d49375.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f972cb3d6e695d0b3a022b9321e8f047.png)
