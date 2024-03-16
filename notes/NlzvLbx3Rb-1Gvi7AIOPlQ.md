@@ -49,7 +49,7 @@ The restricted amount of concurrent connections per server led to scalability pr
 ### HTTP/1.1: The Evolution
 In 1997, HTTP/1.1 quickly followed. By eliminating the need to create new TCP connections for every request, it introduced the "keep alive" feature, which reduces latency by enabling connections to be reused for many requests. But another aspect of HTTP/1.1, HTTP pipelining, caused problems with head-of-line blocking. 
 
-Although pipelining potentially speeds up communication by enabling many requests to be sent without waiting for each response, performance is decreased overall when there is a delay or obstruction in one request because it impacts subsequent requests on the same connection. In order to lessen the impact of delays on individual requests, modern web browsers use numerous simultaneous TCP connections to the same server. Requests can now be sent concurrently thanks to this. This method improves web page loading speed by striking a compromise between the necessity for parallelism and the complexity and overhead of handling multiple connections.
+Although pipelining potentially speeds up communication by enabling many requests to be sent without waiting for each response, performance is decreased overall when there is a delay or obstruction in one request because it impacts subsequent requests on the same connection. To lessen the impact of delays on individual requests, modern web browsers use numerous simultaneous TCP connections to the same server. Requests can now be sent concurrently thanks to this. This method improves web page loading speed by striking a compromise between the necessity for parallelism and the complexity and overhead of handling multiple connections.
 
 Here are the key features, strengths, and limitations of HTTP/1.1:
 
@@ -59,7 +59,7 @@ Here are the key features, strengths, and limitations of HTTP/1.1:
 
 * Host Header: The Host header was added to HTTP/1.1, enabling the hosting of numerous websites on a single server. This makes virtual hosting possible, in which several websites can be served by a single physical server depending on the value of the Host header.
 
-* Chunked Transfer Encoding: Data can now be transferred in numerous pieces rather than all at once thanks to HTTP/1.1's support for chunked transfer encoding. When streaming data or transferring big files and the duration of the content is unknown ahead of time, this is helpful.
+* Chunked Transfer-Encoding: Data can now be transferred in numerous pieces rather than all at once thanks to HTTP/1.1's support for chunked transfer encoding. When streaming data or transferring big files and the duration of the content is unknown ahead of time, this is helpful.
 
 **Strengths:**
 
@@ -83,7 +83,7 @@ When HTTP/2 was released in 2015, it addressed the shortcomings of HTTP/1.1 and 
 Furthermore, HTTP/2 added server push functionality, which enables servers to forward resources to clients in advance, improving performance and cutting down on page load times. In general, HTTP/2 prioritizes performance, reduced latency, and improved user experience, making it a more reliable and efficient protocol for contemporary web applications.
 
 
-HTTP/2, brought significant improvements over HTTP/1.1 by addressing its limitations and introducing new features. Here are the key features, strengths, and limitations of HTTP/2:
+HTTP/2 brought significant improvements over HTTP/1.1 by addressing its limitations and introducing new features. Here are the key features, strengths, and limitations of HTTP/2:
 
 **Features:**
 
@@ -99,7 +99,7 @@ HTTP/2, brought significant improvements over HTTP/1.1 by addressing its limitat
 
 * Improved Performance: In particular for complicated and resource-intensive online applications, HTTP/2's multiplexing, header compression, and server push features can greatly enhance performance by lowering latency and accelerating page load times.
 
-* Backward Compatibility: Because HTTP/2 preserves backward compatibility with HTTP/1.1, upgrading to the new protocol won't cause significant problems for already-built infrastructure. This guarantees a seamless transition for apps and webpages.
+* Backward Compatibility: Because HTTP/2 preserves backward compatibility with HTTP/1.1, upgrading to the new protocol won't cause significant problems for already-built infrastructure. This guarantees a seamless transition for apps and web pages.
 
 * Efficient Resource Utilization: HTTP/2 lowers the overhead of creating and maintaining multiple connections by multiplexing requests and responses over a single connection, improving scalability and resource consumption.
 
@@ -109,12 +109,12 @@ HTTP/2, brought significant improvements over HTTP/1.1 by addressing its limitat
 
 * Dependency on [Transport Layer Security (TLS)](https://docs.oracle.com/javase/8/docs/technotes/guides/security/jsse/tls.html): Although it is not a restriction unique to HTTP/2, TLS (HTTPS) is frequently needed for the protocol's wide adoption. Performance may be impacted by TLS's overhead in terms of encryption and decryption, despite the security advantages it offers.
 
-* Potential for Head-of-Line Blocking: Even though HTTP/2 attempts to fix the head-of-line blocking problems that existed in HTTP/1.1, it can still happen in some situations, especially when there are several streams sharing a single connection and one of them is experiencing lag or congestion.
+* Potential for Head-of-Line Blocking: Even though HTTP/2 attempts to fix the head-of-line blocking problems that existed in HTTP/1.1, it can still happen in some situations, especially when  several streams are sharing a single connection and one of them is experiencing lag or congestion.
 
 ### HTTP/3: The Revolution
 After debuting as a draft in 2020, HTTP/3 is a significant advancement in web protocols since it replaces the conventional TCP transport protocol with [QUIC](https://datatracker.ietf.org/doc/html/rfc9114) (Quick UDP Internet Connections). 
 
-By allowing many streams to share a connection without requiring extra handshakes, QUIC emphasizes stream multiplexing and maximizes resource use. Most importantly, it ensures independent stream delivery even in the event of packet loss or congestion, hence eliminating head-of-line blocking at the transport layer and improving performance and lowering latency. 
+By allowing many streams to share a connection without requiring extra handshakes, QUIC emphasizes stream multiplexing and maximizes resource use. Most importantly, it ensures independent stream delivery even in the event of packet loss or congestion, hence eliminating head-of-line blocking at the transport layer improving performance and lowering latency. 
 
 Moreover, QUIC's usage of Connection ID facilitates smooth switching between IP addresses and network interfaces, which is very helpful for users who are on the go. HTTP/3, driven by QUIC, is gaining momentum despite its recent inception because it prioritizes performance, dependability, and adaptability to meet the demands of the current internet.
 
@@ -124,7 +124,7 @@ Here are the key features, strengths, and limitations of HTTP/3:
 
 * QUIC Protocol: The QUIC protocol, which is based on UDP (User Datagram Protocol), is the foundation for HTTP/3. Compared to TCP-based protocols, QUIC treats streams as first-class citizens at the transport layer, enabling more effective multiplexing and lower latency.
 
-* Multiplexing and Independent Streams: Multiplexing, which enables several streams of requests and responses to be sent over a single connection, is supported by HTTP/3 similarly to HTTP/2. QUIC streams, in contrast to HTTP/2, are not dependant on one another, which lessens the effect of head-of-line blocking.
+* Multiplexing and Independent Streams: Multiplexing, which enables several streams of requests and responses to be sent over a single connection, is supported by HTTP/3 similar to HTTP/2. QUIC streams, in contrast to HTTP/2, are not dependent on one another, which lessens the effect of head-of-line blocking.
 
 * Improved Reliability: The integrated error correction, congestion control, and retransmission methods in QUIC can help to increase connection dependability, particularly in difficult network environments or while switching between multiple network interfaces.
 
@@ -136,13 +136,13 @@ Here are the key features, strengths, and limitations of HTTP/3:
 
 * Improved Performance on Mobile Networks: Because users may regularly switch between multiple network connections in mobile situations, QUIC is built to function well in these conditions. It is ideally suited for mobile usage due to its rapid connection establishment and integrated dependability mechanisms, which lower latency and enhance user experience.
 
-* Flexibility and Adaptability: The flexibility and adaptability of HTTP/3 is intended to accommodate a broad variety of network environments and situations. It is appropriate for a range of use cases, including streaming and real-time communication as well as ordinary web browsing, thanks to its multiplexing, separate stream, and fast connection creation capabilities.
+* Flexibility and Adaptability: The flexibility and adaptability of HTTP/3 are intended to accommodate a broad variety of network environments and situations. It is appropriate for a range of use cases, including streaming and real-time communication as well as ordinary web browsing, thanks to its multiplexing, separate stream, and fast connection creation capabilities.
 
 **Limitations:**
 
 * Early Stage of Adoption: Since HTTP/3 is still relatively new, it might take some time for it to catch on. Although web servers, clients, and proxies are beginning to offer HTTP/3, not all platforms or devices have it yet.
 
-* Potential Compatibility Issues: Significant modifications to the underlying transport protocol introduced by HTTP/3 may cause incompatibilities with older network equipment, proxies, or firewalls that are not designed with QUIC in mind. This may have an effect on certain users' ability to visit websites that use HTTP/3.
+* Potential Compatibility Issues: Significant modifications to the underlying transport protocol introduced by HTTP/3 may cause incompatibilities with older network equipment, proxies, or firewalls that are not designed with QUIC in mind. This may  affect certain users' ability to visit websites that use HTTP/3.
 
 * Increased Complexity: Compared to conventional TCP-based protocols, implementing HTTP/3 and QUIC can be more difficult, particularly for developers and administrators who are unfamiliar with the subtleties of UDP and stream-based communication. It could be necessary to provide more time and resources for connection management, congestion control, and error handling.
 
@@ -160,8 +160,8 @@ Here's a side-by-side comparison of HTTP/1.1, HTTP/2, and HTTP/3 based on their 
 | Header Compression    | Not supported                           | Yes, reduces overhead with HPACK         | N/A (built-in mechanisms for reliability)  |
 | **Strengths**         |                                          |                                            |                                             |
 | Backward Compatibility| Compatible with existing infrastructure | Maintains backward compatibility with HTTP/1.1 | Maintains compatibility with HTTP/1.1       |
-| Improved Performance  | Limited due to lack of multiplexing      | Yes, multiplexing and header compression improve performance | Yes, reduced latency with QUIC, independent streams |
-| Efficient Resource Utilization | Limited due to lack of multiplexing | Yes, reduces overhead of establishing multiple connections | Yes, improves resource utilization with independent streams |
+| Improved Performance  | Limited due to lack of multiplexing      | Yes, multiplexing and header compression improves performance | Yes, reduced latency with QUIC, independent streams |
+| Efficient Resource Utilization | Limited due to lack of multiplexing | Yes reduces overhead of establishing multiple connections | Yes, improves resource utilization with independent streams |
 | Reduced Latency       | Limited due to lack of multiplexing      | Yes, reduces latency with multiplexing and header compression | Yes, further reduces latency with QUIC      |
 | **Limitations**       |                                          |                                            |                                             |
 | Head-of-Line Blocking | Present, subsequent requests may be blocked | Present, though mitigated with multiplexing | Reduced with QUIC's independent streams     |
