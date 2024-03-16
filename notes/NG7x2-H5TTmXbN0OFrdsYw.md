@@ -22,6 +22,7 @@ Co-organizing community: SITCON、GDSC、開放教育社群
 - ChAoS
 - Leo
 - 遲到ㄉ Sky (蓋蓋)
+- Misawai(後來看完共筆ㄉ)
 :::
 
 ## Some discussion notes...
