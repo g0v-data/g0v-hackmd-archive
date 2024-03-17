@@ -55,27 +55,15 @@ Here are the key features, strengths, and limitations of HTTP/1.1:
 
 **Features:**
 
-* Persistent Connections: Multiple requests and responses can be sent over the same connection thanks to HTT/1.1's introduction of the ability to maintain an open connection between the client and server. Performance is increased as a result of the decreased overhead associated with creating and severing connections for every request.
-
-* Host Header: The Host header was added to HTTP/1.1, enabling the hosting of numerous websites on a single server. This makes virtual hosting possible, in which several websites can be served by a single physical server depending on the value of the Host header.
-
-* Chunked Transfer-Encoding: Data can now be transferred in numerous pieces rather than all at once thanks to HTTP/1.1's support for chunked transfer encoding. When streaming data or transferring big files and the duration of the content is unknown ahead of time, this is helpful.
+* HTTP/1.1 introduced persistent connections, allowing multiple requests and responses to be sent over the same connection, reducing overhead. Additionally, the Host header enables virtual hosting, serving multiple websites on a single server. Chunked Transfer-Encoding supports transferring data in pieces, beneficial for streaming or transferring large files with unknown durations.
 
 **Strengths:**
 
-* Backward Compatibility: Because HTTP/1.1 preserves backward compatibility with HTTP/1.0, upgrading to the new protocol doesn't cause significant problems for websites and infrastructure that are already in place.
-
-* Persistent Connections: Because there's no need to create a new connection for every request, HTTP/1.1's reuse feature lowers latency and boosts performance.
-
-* Widely Supported: Since almost all web servers, clients, and proxies implement HTTP/1.1, the protocol is widely used and interoperable.
+* HTTP/1.1 brought significant advancements, including persistent connections for reduced overhead, the Host header enabling virtual hosting, and Chunked Transfer-Encoding for flexible data transfer. Its strengths lie in backward compatibility, persistent connections reducing latency, and widespread support among web servers, clients, and proxies.
 
 **Limitations:**
 
-* Head-of-Line Blocking: Head-of-line blocking affects HTTP/1.1, meaning that completing one request may prevent subsequent requests on the same connection from being processed. This may result in decreased performance and inefficiencies, particularly when loading several resources at once on a webpage.
-
-* Limited Multiplexing: Even though HTTP/1.1 allows for persistent connections, every client-server communication still uses a single connection. This restricts the amount of concurrency and parallelism, especially when retrieving several resources from the same server.
-
-* Security Vulnerabilities: Because HTTP/1.1 lacks internal authentication and encryption, communications are susceptible to manipulation and interception. Although HTTPS can help reduce these threats, HTTP 1.1 does not require it.
+* HTTP/1.1 suffers from head-of-line blocking, limited multiplexing capabilities, and security vulnerabilities due to the lack of internal authentication and encryption, making communications susceptible to manipulation and interception.
 
 ### HTTP/2: The Transition
 When HTTP/2 was released in 2015, it addressed the shortcomings of HTTP/1.1 and added new functionality, which made it a major improvement over HTTP/1.1. It improved network resource use by introducing HTTP streams, which allowed numerous requests and responses to be multiplexed over a single TCP connection. Because HTTP/2 streams are independent, as opposed to HTTP/1.1 pipelining, head-of-line blocking is eliminated, improving performance and lowering latency. 
@@ -87,29 +75,15 @@ HTTP/2 brought significant improvements over HTTP/1.1 by addressing its limitati
 
 **Features:**
 
-* Multiplexing: Multiple requests and responses can be multiplexed over a single TCP connection thanks to HTTP/2. This lowers the overhead of creating several connections and enables more effective resource utilization.
-
-* Header Compression: Performance can be greatly increased by using HTTP/2's [HPACK compression](https://datatracker.ietf.org/doc/html/rfc7541) to lower header data overhead, especially for websites with a lot of tiny resources.
-
-* Server Push: With HTTP/2, servers can proactively push resources to clients, saving them from having to ask for each resource separately. This can transfer necessary resources ahead of time, which can lower latency and speed up page loads.
-
-* Stream Prioritization: Stream prioritization is introduced in HTTP/2, enabling clients to indicate the relative significance of various resources. By prioritizing essential resources, this facilitates more effective resource allocation and can enhance the user experience.
+* HTTP/2 introduces multiplexing for efficient resource utilization, header compression to reduce overhead, server push to proactively deliver resources, and stream prioritization for better resource allocation and improved user experience.
 
 **Strengths:**
 
-* Improved Performance: In particular for complicated and resource-intensive online applications, HTTP/2's multiplexing, header compression, and server push features can greatly enhance performance by lowering latency and accelerating page load times.
-
-* Backward Compatibility: Because HTTP/2 preserves backward compatibility with HTTP/1.1, upgrading to the new protocol won't cause significant problems for already-built infrastructure. This guarantees a seamless transition for apps and web pages.
-
-* Efficient Resource Utilization: HTTP/2 lowers the overhead of creating and maintaining multiple connections by multiplexing requests and responses over a single connection, improving scalability and resource consumption.
+* HTTP/2 offers improved performance through multiplexing, header compression, and server push, while maintaining backward compatibility with HTTP/1.1 for seamless transitions and efficient resource utilization by reducing connection overhead.
 
 **Limitations:**
 
-* Complexity: Compared to HTTP/1.1, HTTP/2 implementation can be more complicated, particularly when it comes to handling multiplexed streams, stream prioritization, and server push. Administrators and developers may encounter difficulties because of its intricacy.
-
-* Dependency on [Transport Layer Security (TLS)](https://docs.oracle.com/javase/8/docs/technotes/guides/security/jsse/tls.html): Although it is not a restriction unique to HTTP/2, TLS (HTTPS) is frequently needed for the protocol's wide adoption. Performance may be impacted by TLS's overhead in terms of encryption and decryption, despite the security advantages it offers.
-
-* Potential for Head-of-Line Blocking: Even though HTTP/2 attempts to fix the head-of-line blocking problems that existed in HTTP/1.1, it can still happen in some situations, especially when  several streams are sharing a single connection and one of them is experiencing lag or congestion.
+* HTTP/2 introduces complexities in implementation, particularly with multiplexed streams, stream prioritization, and server push, potentially leading to challenges for administrators and developers. Additionally, its dependency on Transport Layer Security (TLS) for widespread adoption can impact performance, and despite attempts to address head-of-line blocking, it can still occur in certain scenarios, especially with shared connections and lagging streams.
 
 ### HTTP/3: The Revolution
 After debuting as a draft in 2020, HTTP/3 is a significant advancement in web protocols since it replaces the conventional TCP transport protocol with [QUIC](https://datatracker.ietf.org/doc/html/rfc9114) (Quick UDP Internet Connections). 

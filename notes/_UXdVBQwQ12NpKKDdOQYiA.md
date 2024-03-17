@@ -8,7 +8,7 @@ tags: vtaiwan
 ## 一、計畫目標：
 - 藉由參與 2024 年 6 月 12 日至 13 日於英國倫敦舉辦的第七屆 TicTec 研討會，向國際上關注公民科技與數位民主的議題參與者、政治家與倡議者展現台灣青年在數位治理與公民科技的貢獻。
 - 透過參與 TicTec 研討會，與來自數發部、學術界的台灣青年舉辦工作坊，討論「Multistakeholder Governance」（多元利害關係人治理），分享台灣在政策溝通與議題討論上面對的困境，討論如何利用多元利害關係人治理強化透明度與社會韌性，以對抗來自中國的資訊環境操弄，以提升社會信任。
-- 透過參與國際活動的機會，利用非正式的活動場合向參與者表達台灣在兩岸關係、面對極權壓迫、民主運動上的立場。
+- 透過參與國際活動的機會，串連英國與台灣的公民科技社群。
 - 拜訪英國的台灣青年參與者與當地智庫與組織，串連國際參與的台灣青年社群。
 
 ## 二、相關介紹
@@ -16,21 +16,9 @@ tags: vtaiwan
 - TicTec Conference 是英國最大的公民科技組織 MySociety 所舉辦，是英國最大，也是歐洲相當重要的年度公民科技與數位民主盛會。與會者會在研討會中討論如何利用科技與數位工具強化民主、增加政府透明性、提升社會大眾的公共參與等議題。
 - 今年 TicTec Conference 的主辦團隊對於 vTaiwan 社群於去年爭取到 OpenAI 獎助，完成 [Bridging the Recursive Public](https://vtaiwan-openai-2023.vercel.app/Report_%20Recursive%20Public.pdf) 報告相當感興趣，也強力邀請 vTaiwan 社群參與，並且會幫社群保留相關議程空間。
 
-### 2. vTaiwan 介紹
+### 2. vTaiwan 介紹與相關案例
 - vTaiwan 起源於太陽花學運後，由 g0v 社群與政府共同成立的數位政策討論平台，在國際上具有相當高的知名度。透過參與 vTaiwan，有許多台灣青年進入公民科技，也有相當多的參與者透過 vTaiwan 獲得機會向國際媒體、智庫等單位介紹台灣利用數位工具深化台灣的民主與社會的公共參與。
 - vTaiwan 於 2023 年從全球800個團隊中脫穎而出，取得了 OpenAI 的相關獎助，也是參與團隊中唯一一組有台灣參與者的團隊。與夥伴一同完成 [Bridging the Recursive Public](https://vtaiwan-openai-2023.vercel.app/Report_%20Recursive%20Public.pdf) 報告，討論如何利用多方利害關係人模式討論人工智慧相關政策，相關成果除了登上 OpenAI 官方網站，更獲得紐約時報採訪。
-
-## 計畫所需經費與運用
-- 所需經費：￡5000
-- 預算運用：如下表：
-
-
-| 項目   | 金額（英鎊） | 備註                       |
-| ------ | ---- | -------------------------- |
-| 機票*2 | ￡1600  | 兩名台灣青年前往倫敦之機票 |
-| 住宿*2 | ￡800 | 兩名台灣青年活動期間在倫敦之住宿       |
-| 5日顧問費*2   | ￡2000 | 涵蓋保險、網路、現場活動準備等支出   |
-| 前後期人事費   | ￡600 |處理行政事務與事後活動辦理支出 |
 
 ## TicTec Conference 相關資訊
 - 由英國非盈利組織mySociety主辦的TICTeC，全稱為公民科技影響力年會（The Impacts of Civic Technology Conference）。自2015年以來，年會已在世界各地舉辦了7次，包含倫敦、巴賽隆納、巴黎、曼徹斯特與里斯本等歐洲主要城市。其中在 2017 年，TICTeC年會更是移師台北舉辦。
@@ -38,19 +26,38 @@ tags: vtaiwan
 - TICTeC 2024將於6月12日和13日在倫敦舉行，並可全球參與。在倫敦科技週期間舉行的TICTeC 2024將聚焦於公民科技在以下方面的作用：
     - 在受到威脅的地方保障和推進民主與透明度
     - 應對氣候變化的挑戰
-- TICTeC的一個關鍵要素是我們直接為來自資金不足的組織的代表提供旅行和住宿補助，這些組織在較不開放的國家營運，重點關注全球南方。我們的慷慨贊助者使這成為可能，因此會議可以從他們的貢獻和共享學習中受益。
+- 其餘年度的TICTeC Conference 議程可以參考以下連結
+    - [TICTeC 2020 programme](https://docs.google.com/document/d/1ZsGQlfr0ZJ1jmmuZwgOAUJFONJr4W9UGDU4fktxiXnQ/edit)
+    - [TICTeC Paris 2019 programme](https://tictec.mysociety.org/tictec-archive/2019/schedule)
+    - [TICTeC Lisbon 2018 programme](https://tictec.mysociety.org/tictec-archive/2018/schedule)
+    - [TICTeC Florence 2017 programme](https://tictec.mysociety.org/tictec-archive/2017/schedule)
+    - [TICTeC@Taipei 2017 programme](http://civictechfest.org/agenda)
+    - [TICTeC Barcelona 2016 programme](https://www.mysociety.org/files/2015/09/Agenda-2016.pdf)
+    - [TICTeC London 2015 programme](https://www.mysociety.org/files/2015/01/TICTeC_Agenda_2015_vF.pdf)
 
 ## 受補助者介紹 Fund Recepient Introduction
 ### 崔家瑋 Cui Jia Wei 
-![Uploading file..._h2jlbs9l3]()
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_07b2a68f6141f3167f1619223deba225.jpg)
 
 - 台灣大學法律研究所經濟法組研究生，研究興趣為競爭法、科技法、資訊法與個人資料保護。
 - 112年台灣律師與司法官考試合格。
 - g0v 零時政府社群參與者，曾參與零時小學校夏日增能營[課程錄製](https://www.youtube.com/watch?v=wQ_DVuZ30nM)、
 - vTaiwan 社群參與者暨坑主，在 Recursive Public 報告中負責台灣的審議活動辦理、協調計畫與前往 OpenAI 總部發表。
 
-### Jo
+### Joshua Yang 
 
+## 數發部夥伴介紹 MODA Member Introduction
+
+## 計畫所需經費與運用
+- 所需經費：￡5000
+- 預算運用：如下表：
+
+| 項目   | 金額（英鎊） | 備註                       |
+| ------ | ---- | -------------------------- |
+| 機票*2 | ￡1600  | 兩名台灣青年前往倫敦之機票 |
+| 住宿*2 | ￡800 | 兩名台灣青年活動期間在倫敦之住宿       |
+| 5日顧問費*2   | ￡2000 | 涵蓋保險、網路、現場活動準備等支出   |
+| 前後期人事費   | ￡600 |處理行政事務與事後活動辦理支出 |
 
 ## 檢視實行成果
 - 回國後將撰寫文章一篇，可以供計畫贊助單位轉載刊登。
