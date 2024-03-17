@@ -621,14 +621,25 @@ Opass 教學
 ## 20240317 第十八次會議紀錄
 > 時間：2024/03/15（五） 01:00 PM
 > 地點：[聞山咖啡 永春有貓店](https://maps.app.goo.gl/kKAiBksRWWu2efRg7)
-> 出席：Dong、、、、
+> 出席：Dong、RS、阿敏、Skyler、
 
-### 摺頁問題
+### 進行中
+
+#### 
+
+### 待處理
+
+#### 摺頁問題
 - 要怎麼摺？
 - Layout 會有什麼？
 
-### T恤報價
+#### T恤報價
 
-### 畫場地配置圖
+#### 畫場地配置圖
 
-### 開各種送印的票
+#### 新的社群軌宣傳圖
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7c58e9a2f085aafedcec12861c4b163a.png)
+
+#### 開各種送印的票
+
+### 已完成
