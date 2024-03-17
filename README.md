@@ -2,12 +2,13 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [summit2024](tags/summit2024.md) | 50 | 2024-03-17T19:00:01+08:00 |
+| [cofacts](tags/cofacts.md) | 434 | 2024-03-17T18:40:15+08:00 |
+| [meeting note](tags/meeting%20note.md) | 259 | 2024-03-17T18:40:15+08:00 |
+| [opass](tags/opass.md) | 1 | 2024-03-17T18:38:06+08:00 |
+| [infras](tags/infras.md) | 20 | 2024-03-17T18:38:06+08:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 7005 | 2024-03-17T17:40:32+08:00 |
-| [cofacts](tags/cofacts.md) | 434 | 2024-03-17T17:32:48+08:00 |
-| [meeting note](tags/meeting%20note.md) | 259 | 2024-03-17T17:32:48+08:00 |
-| [summit2024](tags/summit2024.md) | 50 | 2024-03-17T17:06:06+08:00 |
 | [GIS](tags/GIS.md) | 145 | 2024-03-17T16:45:20+08:00 |
-| [opass](tags/opass.md) | 1 | 2024-03-17T14:16:28+08:00 |
 | [Rentea](tags/Rentea.md) | 186 | 2024-03-17T10:46:20+08:00 |
 | [CoRent](tags/CoRent.md) | 81 | 2024-03-17T10:46:20+08:00 |
 | [資源回收](tags/%E8%B3%87%E6%BA%90%E5%9B%9E%E6%94%B6.md) | 2 | 2024-03-17T10:43:12+08:00 |
@@ -60,7 +61,6 @@
 | [cowork guideline](tags/cowork%20guideline.md) | 24 | 2024-03-10T18:21:06+08:00 |
 | [g0v](tags/g0v.md) | 72 | 2024-03-10T18:21:06+08:00 |
 | [開源協作手冊](tags/%E9%96%8B%E6%BA%90%E5%8D%94%E4%BD%9C%E6%89%8B%E5%86%8A.md) | 23 | 2024-03-10T18:21:06+08:00 |
-| [infras](tags/infras.md) | 19 | 2024-03-10T14:57:57+08:00 |
 | [bridge](tags/bridge.md) | 7 | 2024-03-10T01:55:22+08:00 |
 | [planning](tags/planning.md) | 44 | 2024-03-10T01:04:51+08:00 |
 | [獎勵容積](tags/%E7%8D%8E%E5%8B%B5%E5%AE%B9%E7%A9%8D.md) | 1 | 2024-03-10T01:04:51+08:00 |

@@ -625,13 +625,18 @@ Opass 教學
 
 ### 進行中
 - [[設計] 公民不打烊發文附圖 (#247)](https://gitlab.com/g0v-summit/2024/board/-/issues/247)
-- 畫場地配置圖
-- 新的社群軌宣傳圖排程
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7c58e9a2f085aafedcec12861c4b163a.png)
-#### 
+
 
 ### 待處理
 
+- 畫場地配置圖
+- T恤報價
+- 開各種送印的票
+    - 待開
+        - 大型輸出物
+### 已完成
+- 新的社群軌宣傳圖排程
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7c58e9a2f085aafedcec12861c4b163a.png)
 - 摺頁問題
     - [Canva 亂排](https://www.canva.com/design/DAF_was8NS0/-1essA6PlImRqPG_G9orGQ/edit?utm_content=DAF_was8NS0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
     - 要怎麼摺？
@@ -640,8 +645,9 @@ Opass 教學
     - Layout 會有什麼？
     - 可以做成兩張酷卡，一張是地圖，一張是議程，讓有需要的人自己拿[name=Dong]
     - 壓凹線對折
-- T恤報價
-- 開各種送印的票
-    - 待開
-        - 大型輸出物
-### 已完成
+
+### 結論
+
+- T-shirt 報價
+    - 彩色大圖  + 彩色背圖 （g0v summit) + 彩色臂章
+- 
