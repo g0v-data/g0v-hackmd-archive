@@ -24,12 +24,12 @@ tags: GIS
 - 大漢溪，右岸十．六公里處土城河岸 https://news.ltn.com.tw/news/local/paper/963556
 
 
-
 提案構想
 - 總統盃黑客松，編號 266 台灣人與垃圾距離 (掩埋場資訊) by 環資
     - https://www.facebook.com/groups/573697330058183/permalink/685219672239281/
 
-
+相關倡議
+- https://cloud.greentw.greenpeace.org/petition-plastics-reuse/
 
 # 東亞臨海垃圾場資料 / 掩埋場資料
 
