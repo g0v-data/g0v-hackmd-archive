@@ -105,6 +105,14 @@ https://www.facebook.com/share/9jkpUvRvNzEFkJbn/?mibextid=WC7FNe
 - 雙向道
 - 搭配土地使用分區：現況巷弄並非都市計畫道路、檢視未開闢道路 https://nsp.tcd.gov.tw/ngis/
 
+
+公用事業車輛路線
+- 公車
+- 垃圾車 
+    - 補路線資料
+    - 景象舉例https://youtube.com/shorts/MGVS-mgWB4Y
+- 基礎設施維修站點與車輛路線
+
 ### 四、繪製「街區內連續型行人路徑」
 
 - 可以先嘗試參考「跨街廓路徑」的位置，來當作「街區連續型行人路徑」

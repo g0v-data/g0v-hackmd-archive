@@ -24,6 +24,7 @@ tags: 資源回收,
 ### 修理 repair
 
 - [城市修理站](https://www.facebook.com/nothingisgarbage)，[修理地圖](http://goo.gl/1h4SMQ)，[踏查活動](http://nothingisgarbage.wordpress.com/2013/09/16/2013-09-14-%E9%9B%B2%E5%92%8C%E5%B7%B7%E5%BC%84%E4%BF%AE%E7%90%86%E5%B0%8F%E6%97%85%E8%A1%8C%EF%BD%9E/)，小白屋與[綠點點點點](https://www.facebook.com/nothingisgarbage/photos/a.644712855545517.1073741833.644384925578310/876840015666132/?type=1&relevant_count=1)
+- 遺愛計畫 https://www.facebook.com/share/p/irKfDjnvtNFAPeDf/
 - [紙類修復](https://www.facebook.com/nothingisgarbage/photos/pcb.950376061645860/950374888312644/?type=1&theater)
 - 玩具醫院，法國，[澳洲](https://tw.news.yahoo.com/%E7%99%BE%E5%B9%B4%E5%A8%83%E5%A8%83%E9%86%AB%E9%99%A2-300%E8%90%AC%E4%BB%B6%E7%8E%A9%E5%85%B7%E5%B7%A7%E6%89%8B%E9%87%8D%E7%94%9F-024504812.html)
 
