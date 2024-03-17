@@ -616,11 +616,11 @@ Opass 教學
 
 ### 週日設計小組 co-work
 - 時間：週日 13:00-17:00
-- 地點：暫定後山埤二號出口[路易莎](https://maps.app.goo.gl/uCEfL53wKVmgzeM57)
+- 地點：[聞山咖啡 永春有貓店](https://maps.app.goo.gl/kKAiBksRWWu2efRg7)
 
 ## 20240317 第十八次會議紀錄
-> 時間：2024/03/15（五） 8:30 PM
-> 地點：後山埤二號出口[路易莎](https://maps.app.goo.gl/uCEfL53wKVmgzeM57)
+> 時間：2024/03/15（五） 01:00 PM
+> 地點：[聞山咖啡 永春有貓店](https://maps.app.goo.gl/kKAiBksRWWu2efRg7)
 > 出席：Dong、、、、
 
 ### 摺頁問題

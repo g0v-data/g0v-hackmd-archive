@@ -1,11 +1,8 @@
 ---
-title: "人生剩利組"
-tags: 資源回收,hackpad
+tags: 資源回收, 
 ---
 
 # 人生剩利組
-
-> [點此觀看原始內容](https://g0v.hackpad.tw/kOaEUZgLwzS)
 
 - 說明：2014 [台北雙年展](http://www.taipeibiennial2014.org/index.php/tw/tb2014)，有許多物質、剩物、廢品、材料；生活中也是，是故開了一個 hackpad 先做些資源回收的資訊整理、物質交換平台的資訊，歡迎共筆
 - 討論區：[https://g0v.hackpad.com/9ndsLnG4AFs](https://g0v.hackpad.com/9ndsLnG4AFs)
@@ -14,7 +11,7 @@ tags: 資源回收,hackpad
 
 ## 案例與資訊列舉
 
-### 理念/觀點/倡議
+### 理念 / 觀點 / 倡議
 
 - [The Buyerarchy of Needs](https://www.facebook.com/Earth911/photos/a.106185232860.92514.6608442860/10151555538192861/?type=1&relevant_count=1)
 - [Not-Shopping List](https://lh6.googleusercontent.com/-0VH9VtmJXK0/Urig-2PO0wI/AAAAAAAACyQ/Peq6dGYJj-Y/w960-h960/1477380_638318499558211_2140390282_n.jpg)
@@ -108,6 +105,7 @@ tags: 資源回收,hackpad
 - [玩具公仔回收議題](https://www.facebook.com/justlovingplay/photos/a.474691029229431.93857068.310403425658193/729347050430493/?type=1&relevant_count=1)
 - [http://m.ltn.com.tw/news/life/paper/279814](http://m.ltn.com.tw/news/life/paper/279814)
 - 藥物 [http://pansci.tw/archives/55158](http://pansci.tw/archives/55158)
+- 回收項目 https://www.facebook.com/share/p/7dBSLDwFJZ2eQEja/
 
 ### 關於下水排放系統
 

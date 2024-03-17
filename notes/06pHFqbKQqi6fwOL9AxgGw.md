@@ -3,6 +3,8 @@ tags: Rentea, CoRent
 ---
 # 撿到的各種資源
 
+[TOC]
+
 ## 裝修方案發展階段
 
 1. [Courcasa 小院設計](https://www.courcasa.com/)，提供各種裝修範例和基礎知識
@@ -25,7 +27,7 @@ tags: Rentea, CoRent
 2. 水電實際動工情況，可看[水電爸爸](https://www.youtube.com/channel/UCVizi411ybhS3LKxX6DocDA)
 
 
-## 各地資源
+## 各地區的資源
 
 1. 台南市
    1. [古都保存再生文教基金會](https://fhccr.wordpress.com/)，每年會開實體課，以及[延伸的線上錄影](https://www.surveycake.com/s/kMdRY)、總結版的出版品《老屋學校》
@@ -72,6 +74,10 @@ tags: Rentea, CoRent
 
 辦公空間
 - 市有空間修繕經驗：攝影圖書館、猛禽協會、文化法學會、河神的丸子、咘咕居 [政策網站](https://propertyspace.gov.taipei/Content_List.aspx?n=9880764B4870CF1D)
+
+## 資源回收品項
+
+https://g0v.hackmd.io/R_BhZDNNQ-C8CAoTJ58ZSg
 
 ## 租屋居住經驗調查與租金資料
 
