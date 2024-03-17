@@ -32,20 +32,24 @@ tags: vtaiwan
 | 5日顧問費*2   | ￡2000 | 涵蓋保險、網路、現場活動準備等支出   |
 | 前後期人事費   | ￡600 |處理行政事務與事後活動辦理支出 |
 
-## TicTec 研討會相關資訊
+## TicTec Conference 相關資訊
+- 由英國非盈利組織mySociety主辦的TICTeC，全稱為公民科技影響力年會（The Impacts of Civic Technology Conference）。自2015年以來，年會已在世界各地舉辦了7次，包含倫敦、巴賽隆納、巴黎、曼徹斯特與里斯本等歐洲主要城市。其中在 2017 年，TICTeC年會更是移師台北舉辦。
+- TICTeC是全球唯一一個專門探討公民科技如何影響全球社會的會議。TICTeC召集研究和技術的先驅者，展示和審視針對複雜社會挑戰的創新數位解決方案。TICTeC吸引了政策制定者、研究人員和科技巨頭的參與，匯集公民科技的實際影響。現在進入第10個年頭。
+- TICTeC 2024將於6月12日和13日在倫敦舉行，並可全球參與。在倫敦科技週期間舉行的TICTeC 2024將聚焦於公民科技在以下方面的作用：
+    - 在受到威脅的地方保障和推進民主與透明度
+    - 應對氣候變化的挑戰
+- TICTeC的一個關鍵要素是我們直接為來自資金不足的組織的代表提供旅行和住宿補助，這些組織在較不開放的國家營運，重點關注全球南方。我們的慷慨贊助者使這成為可能，因此會議可以從他們的貢獻和共享學習中受益。
 
-
-## vTaiwan 案例學習 vTaiwan Case Study 
-
-## 受補助人介紹 Funding Recipient Introduction 
+## 受補助者介紹 Fund Recepient Introduction
 ### 崔家瑋 Cui Jia Wei 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_57e60df7daf1a22f0f265c9295b98373.jpg)
+![Uploading file..._h2jlbs9l3]()
 
 - 台灣大學法律研究所經濟法組研究生，研究興趣為競爭法、科技法、資訊法與個人資料保護。
 - 112年台灣律師與司法官考試合格。
 - g0v 零時政府社群參與者，曾參與零時小學校夏日增能營[課程錄製](https://www.youtube.com/watch?v=wQ_DVuZ30nM)、
 - vTaiwan 社群參與者暨坑主，在 Recursive Public 報告中負責台灣的審議活動辦理、協調計畫與前往 OpenAI 總部發表。
 
+### Jo
 
 
 ## 檢視實行成果
