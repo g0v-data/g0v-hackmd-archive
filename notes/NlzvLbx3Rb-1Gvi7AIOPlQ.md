@@ -96,29 +96,15 @@ Here are the key features, strengths, and limitations of HTTP/3:
 
 **Features:**
 
-* QUIC Protocol: The QUIC protocol, which is based on UDP (User Datagram Protocol), is the foundation for HTTP/3. Compared to TCP-based protocols, QUIC treats streams as first-class citizens at the transport layer, enabling more effective multiplexing and lower latency.
-
-* Multiplexing and Independent Streams: Multiplexing, which enables several streams of requests and responses to be sent over a single connection, is supported by HTTP/3 similar to HTTP/2. QUIC streams, in contrast to HTTP/2, are not dependent on one another, which lessens the effect of head-of-line blocking.
-
-* Improved Reliability: The integrated error correction, congestion control, and retransmission methods in QUIC can help to increase connection dependability, particularly in difficult network environments or while switching between multiple network interfaces.
-
-* Quick Connection Establishment: Since QUIC connections don't require the standard TCP handshake procedure, they can be formed faster than TCP connections. In situations when there is a lot of network churn or for mobile customers in particular, this can result in quicker connection times and lower latency.
+* The QUIC protocol, underlying HTTP/3, offers more efficient multiplexing and lower latency by treating streams as first-class citizens, enhancing reliability with integrated error correction and congestion control, and enabling quicker connection establishment without the standard TCP handshake procedure.
 
 **Strengths:**
 
-* Reduced Latency: QUIC-powered HTTP/3 has the potential to drastically lower latency when compared to TCP-based protocols such as HTTP/1.1 and HTTP/2. Improved performance and quicker response times are achieved by reducing head-of-line blocking through the usage of independent streams using UDP.
-
-* Improved Performance on Mobile Networks: Because users may regularly switch between multiple network connections in mobile situations, QUIC is built to function well in these conditions. It is ideally suited for mobile usage due to its rapid connection establishment and integrated dependability mechanisms, which lower latency and enhance user experience.
-
-* Flexibility and Adaptability: The flexibility and adaptability of HTTP/3 are intended to accommodate a broad variety of network environments and situations. It is appropriate for a range of use cases, including streaming and real-time communication as well as ordinary web browsing, thanks to its multiplexing, separate stream, and fast connection creation capabilities.
+* HTTP/3, powered by QUIC, offers reduced latency and improved performance on mobile networks through independent streams and rapid connection establishment, enhancing user experience. Its flexibility and adaptability make it suitable for various network environments and use cases, including streaming, real-time communication, and web browsing.
 
 **Limitations:**
 
-* Early Stage of Adoption: Since HTTP/3 is still relatively new, it might take some time for it to catch on. Although web servers, clients, and proxies are beginning to offer HTTP/3, not all platforms or devices have it yet.
-
-* Potential Compatibility Issues: Significant modifications to the underlying transport protocol introduced by HTTP/3 may cause incompatibilities with older network equipment, proxies, or firewalls that are not designed with QUIC in mind. This may  affect certain users' ability to visit websites that use HTTP/3.
-
-* Increased Complexity: Compared to conventional TCP-based protocols, implementing HTTP/3 and QUIC can be more difficult, particularly for developers and administrators who are unfamiliar with the subtleties of UDP and stream-based communication. It could be necessary to provide more time and resources for connection management, congestion control, and error handling.
+* HTTP/3's limitations stem from its dependency on UDP, which may face restrictions or blocking by some networks, potentially limiting its accessibility and adoption.
 
 ## Side-by-side comparison of the Protocols
 Here's a side-by-side comparison of HTTP/1.1, HTTP/2, and HTTP/3 based on their features, strengths, and limitations:
@@ -148,7 +134,7 @@ All things considered, HTTP/2 and HTTP/3 provide considerable gains over HTTP/1.
 ##  Real-world examples illustrating performance differences between Protocols
 Numerous websites and web apps provide real-world examples of how HTTP/1.1, HTTP/2, and HTTP/3 function differently. Here are a few typical situations:
 
-* Website Loading Speed: Several resources (including [HTML](https://html.com/tags/main/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://www.javascript.com/), pictures, and fonts) are retrieved sequentially via distinct TCP connections when loading a website built using HTTP 1.1. Increased latency may arise from this, particularly if the server is located far away or if the network isn't operating well. HTTP/2 websites, on the other hand, benefit from multiplexing, which enables the simultaneous retrieval of several resources over a single TCP connection. This can greatly shorten the page's total load time, particularly for intricate websites with plenty of resources. QUIC significantly minimizes latency with HTTP/3 by removing head-of-line blocking and enhancing congestion management. This may result in significantly quicker loading times, especially over cellular networks or in scenarios where packet loss is considerable.
+* Website Loading Speed: HTTP/1.1 websites load resources sequentially over distinct TCP connections, leading to increased latency, especially over distant servers or unreliable networks. In contrast, HTTP/2 utilizes multiplexing to retrieve multiple resources simultaneously over a single TCP connection, significantly reducing load times for complex websites. HTTP/3, powered by QUIC, further minimizes latency by eliminating head-of-line blocking and improving congestion management, resulting in faster loading times, particularly on cellular networks or in high packet loss scenarios.
 
 * Streaming and Real-Time Communication: Because HTTP/2 and HTTP/3 offer server push and multiplexing, streaming services—like video and music platforms—can benefit from improved performance. This makes it possible to distribute media content more effectively, which leads to buffering reduction and smoother playback. Based on QUIC, HTTP/3 offers reduced latency, which is advantageous for real-time communication applications like chat rooms and multiplayer games. This improves the user experience by enabling faster response times and data delivery.
 
@@ -165,10 +151,7 @@ However, it can be difficult to pinpoint particular websites that only use HTTP/
 
 2. **HTTP/2:** To make use of HTTP/2's multiplexing, header compression, and server push features, large-scale websites and platforms that place a high priority on performance and user experience frequently implement it. A few websites that use HTTP/2 are  [Google](https://www.google.com.ng/) (including YouTube, Gmail, and Google Search), [Facebook](https://www.facebook.com/), [X (Twitter)](https://twitter.com/?lang=en), [Amazon](https://www.amazon.com/) and [Netflix](https://www.netflix.com/).
 
-3. **HTTP/3:** Based on the QUIC protocol, HTTP/3 is a relatively modern technology that may still be being adopted by large websites. Nonetheless, a few businesses and services have started testing HTTP/3 in live settings. As an illustration, consider the following: 
-* [Cloudflare](https://www.cloudflare.com/): (certain websites hosted by Cloudflare support HTTP/3)
-*  [Google](https://www.google.com.ng/): (HTTP/3) has been tested by certain services including Google Search and YouTube 
-*  [Fastly](https://www.fastly.com/): (HTTP/3) is supported by some websites hosted by Fastly CDN
+3. **HTTP/3:** Based on the QUIC protocol, HTTP/3 is a relatively modern technology that may still be being adopted by large websites. Nonetheless, a few businesses and services have started testing HTTP/3 in live settings. [Cloudflare](https://www.cloudflare.com/),  [Google](https://www.google.com.ng/) and [Fastly](https://www.fastly.com/) are a few examples.
 
 
  ## Protocol Recommendations for Website Development 
