@@ -626,6 +626,8 @@ Opass 教學
 ### 進行中
 - [[設計] 公民不打烊發文附圖 (#247)](https://gitlab.com/g0v-summit/2024/board/-/issues/247)
 - 畫場地配置圖
+- 新的社群軌宣傳圖排程
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7c58e9a2f085aafedcec12861c4b163a.png)
 #### 
 
 ### 待處理
@@ -633,11 +635,7 @@ Opass 教學
 - 摺頁問題
     - 要怎麼摺？
     - Layout 會有什麼？
-
 - T恤報價
-- 新的社群軌宣傳圖排程
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7c58e9a2f085aafedcec12861c4b163a.png)
-
 - 開各種送印的票
     - 待開
         - 大型輸出物
