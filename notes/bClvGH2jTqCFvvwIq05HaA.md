@@ -28,6 +28,7 @@ tags: summit2024
 ### 投稿結束
 - 第一次講者聯繫：定在3/25?
     - 通知入選 [name=yellowsoar]
+        [議程入選通知](https://docs.google.com/document/d/1IvnTJ9iB_-XcU__i4TucUXyCrikAbq-etLR0kaLg37Q/)
         - 要放的資訊：
             - 研討會資訊
             - Invitation Letter
@@ -47,6 +48,7 @@ tags: summit2024
             - 資訊可以放在內文
             - todo: 開票，請宣傳組幫忙
     - 通知落選  [name=yellowsoar]
+        [議程落選通知](https://docs.google.com/document/d/187wjjrLdMsu55o9nYzsvAEy3Iws800GDERGSMl7WfV4/)
         - 4/7 寄出，剛好索票時間開始
         - 研討會資訊
         - 附上索票連結
