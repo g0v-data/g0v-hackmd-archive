@@ -8,6 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
+- NPO hub: bil, nonumpa, mrorz
 - 線上出席：
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
@@ -20,7 +21,19 @@ GA: UA-98468513-3
 
 https://github.com/cofacts/rumors-api/pull/335
 - ai reply test snapshot 不知道要怎麼更新
+  - 真的有去打 openai 的話，可能要 mock 掉他 [name=mrorz]
 - appId 要設定成 'WEBSITE' 才能拿得到 `user`
+  - 直接寫入 elasticsearch 的話 ok [name=mrorz]
+- migration 還要修一下，反向 query userid
+  - 要即時生成查詢還是存下來？這樣比較不會又變 [name=orz]
+  - 即時生成比較簡單
+- 有 ydoc 沒逐字稿的狀況，逐字稿是空的
+  - 應該是沒有講話的 [name=nonumpa]
+- contributor fields 沒有要寫 createdAt, 只有 lastUpdatedAt --> 改成 updatedAt
+  - 加上 createdAt 比較麻煩 [name=nonumpa]
+  - 使用者應該會對 updatedAt（最後改過的時間）比較有印象 [name=orz]
+  - 只放 updatedAt [name=nonumpa]
+  - 要 reindex articles table
 
 ### [Comm] article group 收尾
 > nonumpa
@@ -78,16 +91,16 @@ Cofacts 要來到新北市舉辦免費的志工培訓啦，三鐵共構板橋站
 - 週一會議
     - [x] 週一 19:00 pm schedule
     - [x] 換 rich menu
-- 週六早上
+- 週五早上
     - [ ] KKTIX 行前通知：提醒時間、使用電腦而非手機
     > Hello 你好，
 	>
-	> 明天就是 3 月 24 日的志工培訓囉！
+	> 本週日就是 3 月 24 日的志工培訓囉！
 	>
 	> 志工培訓需要大量查詢資料，請自備筆電 💻 與充電器 🔌 並帶著愉快的心情來參加。帶順手的平板也可以的！如果願意協助編修影片逐字稿，請自備耳機唷🎧！
 	>
 	> 🕒 時間：3/24（日）14:00
-	> 📍 地點：新北市青年局青職基地 / 新北市板橋區中山路一段 166 號 3 樓
+	> 📍 地點：新北市青年局青職基地 / 新北市板橋區中山路一段 166 號 1 樓
 	> 
 	> 費用全免，會很準時開始。若不克前往，記得取消報名 :)
 	> 
@@ -97,19 +110,19 @@ Cofacts 要來到新北市舉辦免費的志工培訓啦，三鐵共構板橋站
 	> 
 	> 感謝你的閱讀。
 	>
-	> 那麼明天見囉😊
+	> 那麼後天見囉😊
 	>
 	> 比鄰敬上
     - [ ] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
-	- [ ] 準備 Slido `#cofacts40`
+	- [ ] 準備 Slido `#cofacts41`
 		- [ ] 放投影片網址
     - [ ] 幫 Netgear 充電
 - 當日準備 / 攜帶
     - [ ] 樓下用的標語 - orz
     - [ ] 貼紙 - orz, bil
     - [ ] 黏土 - orz
-    - [ ] 尾款 - bil
     - [ ] 手板 - bil
+    - [ ] 一次性杯子 - bil
     - [ ] 延長線
     - [ ] 編輯小聚的牌子 - orz
     - [ ] Wifi 機 - mrorz
@@ -127,7 +140,7 @@ Cofacts 要來到新北市舉辦免費的志工培訓啦，三鐵共構板橋站
   - [ ] 麥克風
   - [ ] 延長線佈置
   - [ ] 門口黏引導牌
-  - [ ] Slido - 白板寫 slido room number `#cofacts40`
+  - [ ] Slido - 白板寫 slido room number `#cofacts41`
   - [ ] WIFI
       - [ ] 佈機x2
       - [ ] 連結 netgear 與 asus WAN port
@@ -158,7 +171,31 @@ Cofacts 要來到新北市舉辦免費的志工培訓啦，三鐵共構板橋站
     - 大家從網站挑選「一篇」覺得最有興趣的回
 - 16:40 - 17:00 介紹 RSS、社群、合照
 
+:::success
+- 比鄰問場地是否有延長線
+  - 可能有飲料或小點心
+:::
 
 ## 健保
 
+bil 研究一下
+
 ## 下架
+
+- 移置，文字會跑進 takedown，原文會修改為「應要求後修改」並附上 takedowns 連結
+- 窗口有來信跟來電
+- 詢問句，並非網傳訊息本身
+- 不會修改回應 - 跟來信人無關
+- 不會修改 reply request - 沒 upvote 不會顯示、他們也確實有查
+  - reply request 內容無法查
+
+本日金句：
+- 辣椒醬與本次的例子：大家想要自己的言論自由，然後 sensor 別人 [name=bil]
+
+## 四月開會
+- 4/1 實體開會
+- 4/8 比鄰在美國東岸 --> 線上
+- 4/15 --> 不確定，要的話也是線上
+- 4/22 可以，實體開會可
+- 4/29 --> 換到 5/2 (四)
+

@@ -4,7 +4,7 @@ tags: GIS
 
 # 行人路徑狀況調查
 
-## 拍照並標註
+## 定點拍照並標註
 
 https://commutag.agawork.tw/dataset?id=63528cc34f042e88cc951433#
 
@@ -19,4 +19,26 @@ https://www.relive.cc/view/veqz1Y8wWB6
 
 ## 拍攝影片
 
-待測試
+影片蒐集清單
+https://youtube.com/playlist?list=PLjBlyKwAdyCUSUXM9Q0qBPzoo8qtUlh_R&si=EoaJBy_aAkjEt7D0
+
+嘗試搭公車並坐在靠右側窗邊位置，用手機錄影沿途人行環境
+- 20240318 以臺北市 282 公車路線行駛文山區木柵地區為例 
+    - https://youtu.be/oTZ2L4-6f30?si=ori8_C54DlrIxM0D
+    - https://youtu.be/UqaZ7J30h8I?si=wkVA__mDJ51zUkVS
+    - https://youtu.be/YdHCMX1s05E?si=kJ3lFqTwCjr7pJlO
+
+討論：
+- 會拍到車牌、個人肖像
+- 影片中若有需要標記的位置，接續的工作流程？
+    - 影片拍攝
+    - 影片截圖
+    - 手動給予經緯度
+        - 截圖的地理位置，能想得起來？
+        - 可能要對照線上地圖找
+        - 可能要對照 Google 街景找
+        - 討論：
+            - 是否乾脆標記 Google 街景？
+                - 依照 Google 街景的拍攝日期
+    - 依照截圖畫面，標註情況
+

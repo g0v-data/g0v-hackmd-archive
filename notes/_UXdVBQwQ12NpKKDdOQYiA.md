@@ -46,8 +46,11 @@ tags: vtaiwan
 
 ### 楊楚約 Joshua Yang 
 <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a009ca6868b80b5adfc34a19d98553a8.jpg" alt="" style="width: 60%">
-* 蘇黎世聯邦理工大學ETH Zurich博士生，研究方向為數位民主、投票行為經濟、
 
+- 蘇黎世聯邦理工大學ETH Zurich博士生，資工背景，研究大方向為數位民主以及科技的社會運用，主要興趣有參與式預算、投票行為經濟、社會選擇理論與輔助民主的科技。
+- g0v零時政府社群參與者，曾協助開發OhShown!野生黑熊通報平台。
+- 在瑞士曾主導Aarau城市2023年的[參與式預算計畫](https://www.stadtidee.aarau.ch/abstimmung.html/2114)
+- vTaiwan 社群參與者
 
 ## 數發部夥伴介紹 MODA Member Introduction
 
