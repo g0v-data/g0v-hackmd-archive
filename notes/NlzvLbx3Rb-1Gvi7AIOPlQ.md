@@ -39,7 +39,7 @@ Examining the various Hypertext Transfer Protocol (HTTP)  versions is crucial to
 
 We can learn more about the ongoing development of web technologies and their influence on the contemporary digital environment by looking at these protocols.
 
-### HTTP/1 : The Foundation
+### HTTP/1: The Foundation
 Operating over [Transmission Control Protocol](https://www.techtarget.com/searchnetworking/definition/TCP-IP) (TCP), HTTP/1 was a major milestone in the development of web protocols, published in 1996. Because it relied on distinct TCP connections for every request, it was inefficient and resulted in higher latency and worse performance, particularly as web pages became more complicated. 
 
 The restricted amount of concurrent connections per server led to scalability problems. Afterward, HTTP was redesigned with the introduction of HTTP/1.1 to get around these restrictions.
@@ -55,11 +55,11 @@ Here are the key features, strengths, and limitations of HTTP/1.1:
 
 **Features:**
 
-* With the introduction of permanent connections in HTTP/1.1, overhead was reduced by enabling the transmission of numerous requests and responses over a single connection. The [Host header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Host) also permits virtual hosting, which allows several websites to be served on a single server. [Chunked Transfer-Encoding](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Transfer-Encoding) facilitates data transfer in segments, which is advantageous for streaming or transmitting big files with erratic durations.
+* With the introduction of permanent connections in HTTP/1.1, overhead was reduced by enabling the transmission of numerous requests and responses over a single connection. The [Host header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Host) also permits virtual hosting, which allows several websites to be served on a single server. [Chunked transfer encoding](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Transfer-Encoding) facilitates data transfer in segments, which is advantageous for streaming or transmitting big files with erratic durations.
 
 **Strengths:**
 
-* Significant improvements were introduced with HTTP/1.1, such as Chunked transfer-Encoding for flexible data transport, the Host header for virtual hosting, and persistent connections for lower overhead. Backward compatibility, permanent connections that lower latency, and broad support from web servers, clients, and proxies are its main strengths.
+* Significant improvements were introduced with HTTP/1.1, such as Chunked transfer encoding for flexible data transport, the Host header for virtual hosting, and persistent connections for lower overhead. Backward compatibility, permanent connections that lower latency, and broad support from web servers, clients, and proxies are its main strengths.
 
 **Limitations:**
 
@@ -76,7 +76,7 @@ HTTP/2 brought significant improvements over HTTP/1.1 by addressing its limitati
 
 **Features:**
 
-* [Multiplexing](https://help.fortinet.com/fadc/4-1-1/html-e/Content/ServerCx/HTTP_Multiplexing.htm#:~:text=HTTP%20multiplexing%20is%20the%20re,multiplexing%20behavior%20to%20multiplexing%20behavior.) for effective resource use, header compression for overhead reduction, server push for proactive resource delivery, and stream prioritization for better resource allocation and enhanced user experience are all introduced by HTTP/2.
+* [Multiplexing](https://help.fortinet.com/fadc/4-1-1/html-e/Content/ServerCx/HTTP_Multiplexing.htm#:~:text=HTTP%20multiplexing%20is%20the%20re,multiplexing%20behavior%20to%20multiplexing%20behavior.) for effective resource use, [header compression](https://en.wikipedia.org/wiki/HTTP_compression) for overhead reduction using [HPACK](https://httpwg.org/specs/rfc7541.html), [server push](https://en.wikipedia.org/wiki/HTTP/2_Server_Push) for proactive resource delivery, and [stream prioritization](https://learn.microsoft.com/en-us/windows/win32/wmformat/using-stream-prioritization#:~:text=Stream%20prioritization%20enables%20you%20to,dropped%20to%20provide%20uninterrupted%20playback.) for better resource allocation and enhanced user experience are all introduced by HTTP/2.
 
 **Strengths:**
 
@@ -85,7 +85,7 @@ HTTP/2 brought significant improvements over HTTP/1.1 by addressing its limitati
 
 **Limitations:**
 
-* HTTP/2 poses implementation issues, especially for developers and administrators, because of its multiplexed streams, stream prioritization, and server push features. Furthermore, performance may be affected by its reliance on Transport Layer Security (TLS) for wider adoption. Moreover, head-of-line blocking may still happen in some situations, particularly when there are shared connections and lagging streams, even with efforts to prevent it.
+* HTTP/2 poses implementation issues, especially for developers and administrators, because of its multiplexed streams, stream prioritization, and server push features. Furthermore, performance may be affected by its reliance on [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security) (TLS) for wider adoption. Moreover, head-of-line blocking may still happen in some situations, particularly when there are shared connections and lagging streams, even with efforts to prevent it.
 
 ### HTTP/3: The Revolution
 After debuting as a draft in 2020, HTTP/3 is a significant advancement in web protocols since it replaces the conventional TCP transport protocol with [QUIC](https://datatracker.ietf.org/doc/html/rfc9114) (Quick UDP Internet Connections). 
@@ -106,7 +106,7 @@ Here are the key features, strengths, and limitations of HTTP/3:
 
 **Limitations:**
 
-* The constraints of HTTP/3 originate from its reliance on UDP, which is subject to limitations or blockage by some networks, which could hinder its uptake and accessibility.
+* The constraints of HTTP/3 originate from its reliance on [User Datagram Protocol](https://www.fortinet.com/resources/cyberglossary/user-datagram-protocol-udp#:~:text=User%20Datagram%20Protocol%20(UDP)%20is,destination%20before%20transferring%20the%20data.), UDP, which is subject to limitations or blockage by some networks, which could hinder its uptake and accessibility.
 
 ## Side-by-side comparison of the Protocols
 Here's a side-by-side comparison of HTTP/1.1, HTTP/2, and HTTP/3 based on their features, strengths, and limitations:
@@ -122,7 +122,7 @@ Here's a side-by-side comparison of HTTP/1.1, HTTP/2, and HTTP/3 based on their 
 | Header Compression    | Not supported                           | Yes reduces overhead with HPACK         | N/A (built-in mechanisms for reliability)  |
 | **Strengths**         |                                          |                                            |                                             |
 | Backward Compatibility| Compatible with existing infrastructure | Maintains backward compatibility with HTTP/1.1 | Maintains compatibility with HTTP/1.1       |
-| Improved Performance  | Limited due to lack of multiplexing      | Yes, multiplexing and header compression improves performance | Yes, reduced latency with QUIC, independent streams |
+| Improved Performance  | Limited due to lack of multiplexing      | Yes, multiplexing and header compression improve performance | Yes, reduced latency with QUIC, independent streams |
 | Efficient Resource Utilization | Limited due to lack of multiplexing | Yes reduces the overhead of establishing multiple connections | Yes, improves resource utilization with independent streams |
 | Reduced Latency       | Limited due to lack of multiplexing      | Yes, reduces latency with multiplexing and header compression | Yes, further reduces latency with QUIC      |
 | **Limitations**       |                                          |                                            |                                             |
@@ -136,7 +136,7 @@ All things considered, HTTP/2 and HTTP/3 provide considerable gains over HTTP/1.
 ##  Real-world examples illustrating performance differences between Protocols
 Numerous websites and web apps provide real-world examples of how HTTP/1.1, HTTP/2, and HTTP/3 function differently. Here are a few typical situations:
 
-* Website Loading Speed: Websites using HTTP/1.1 load resources in a sequential manner via separate TCP connections, which increases delay, especially when transferring data over distant servers or unstable networks. In contrast, HTTP/2 dramatically lowers load times for complicated websites by using multiplexing to fetch numerous resources at once over a single TCP connection. With QUIC powering HTTP/3, latency is further reduced by doing away with head-of-line blocking and enhancing congestion control, which leads to quicker loading times, especially on cellular networks or in situations with heavy packet loss.
+* Website Loading Speed: Websites using HTTP/1.1 load resources sequentially via separate TCP connections, which increases delay, especially when transferring data over distant servers or unstable networks. In contrast, HTTP/2 dramatically lowers load times for complicated websites by using multiplexing to fetch numerous resources at once over a single TCP connection. With QUIC powering HTTP/3, latency is further reduced by doing away with head-of-line blocking and enhancing congestion control, which leads to quicker loading times, especially on cellular networks or in situations with heavy packet loss.
 
 * Streaming and Real-Time Communication: Because HTTP/2 and HTTP/3 offer server push and multiplexing, streaming services—like video and music platforms—can benefit from improved performance. This makes it possible to distribute media content more effectively, which leads to buffering reduction and smoother playback. Based on QUIC, HTTP/3 offers reduced latency, which is advantageous for real-time communication applications like chat rooms and multiplayer games. This improves the user experience by enabling faster response times and data delivery.
 
