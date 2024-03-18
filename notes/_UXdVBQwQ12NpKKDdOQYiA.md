@@ -44,7 +44,10 @@ tags: vtaiwan
 - g0v 零時政府社群參與者，曾參與零時小學校夏日增能營[課程錄製](https://www.youtube.com/watch?v=wQ_DVuZ30nM)、
 - vTaiwan 社群參與者暨坑主，在 Recursive Public 報告中負責台灣的審議活動辦理、協調計畫與前往 OpenAI 總部發表。
 
-### Joshua Yang 
+### 楊楚約 Joshua Yang 
+<img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a009ca6868b80b5adfc34a19d98553a8.jpg" alt="" style="width: 60%">
+* 蘇黎世聯邦理工大學ETH Zurich博士生，研究方向為數位民主、投票行為經濟、
+
 
 ## 數發部夥伴介紹 MODA Member Introduction
 
