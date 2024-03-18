@@ -10,3 +10,4 @@ http://mapwarper.net
 
 ## Case
 
+https://mapwarper.net/maps/76578#Preview_Rectified_Map_tab
