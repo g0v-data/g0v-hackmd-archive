@@ -65,7 +65,7 @@ https://github.com/cofacts/rumors-api/pull/335
 - [x] 誰會來呢：bil, mrorz, nonumpa
 - [ ] 記得帶：貼紙、環保杯
 - [x] LINE 文案
-Cofacts 要來到新北市舉辦志工培訓啦，三鐵共構板橋站，交通超級方便唷！
+Cofacts 要來到新北市舉辦免費的志工培訓啦，三鐵共構板橋站，交通超級方便唷！
 地址：新北市青職基地 / 新北市板橋區民權路170號1樓
 時間：03月24日（日）14:00-17:00(會很準時開始)請記得攜帶筆記型電腦喔！
 活動報名：https://cofacts.kktix.cc/events/cofactseditor41
@@ -161,3 +161,4 @@ Cofacts 要來到新北市舉辦志工培訓啦，三鐵共構板橋站，交通
 
 ## 健保
 
+## 下架
