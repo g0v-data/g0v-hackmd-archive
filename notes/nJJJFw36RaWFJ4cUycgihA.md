@@ -18,6 +18,10 @@ GA: UA-98468513-3
 > https://g0v.hackmd.io/vKCvrqSQTlm7GEx9MAXGaw?view#op-Transcript-spam-處理
 > 
 
+https://github.com/cofacts/rumors-api/pull/335
+- ai reply test snapshot 不知道要怎麼更新
+- appId 要設定成 'WEBSITE' 才能拿得到 `user`
+
 ### [Comm] article group 收尾
 > nonumpa
 
