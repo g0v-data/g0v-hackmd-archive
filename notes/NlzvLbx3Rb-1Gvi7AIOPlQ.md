@@ -14,13 +14,13 @@ A protocol is a collection of guidelines that control the flow of data back and 
 The purpose and intricacy of protocols differ, ranging from basic email protocols to intricate web browsing protocols. In the end, protocols serve as the cornerstone of contemporary digital communication, enabling smooth online engagement.
 
 ### What is HTTP?
-Hypertext Transfer Protocol is referred to as [HTTP](https://httpwg.org/specs/). It is an application layer protocol that is used to send hypermedia documents across the Internet, such as HTML files.
+Hypertext Transfer Protocol is referred to as [HTTP](https://httpwg.org/specs/). It is an application layer protocol that is used to send hypermedia documents across the Internet, such as [HTML](https://html.com/tags/main/) files.
 
 ### How does HTTP work?
 HTTP works on a client-server architecture, in which web browsers and other clients send requests for resources to servers, who then provide the desired data. The stateless exchange of requests and answers makes each transaction independent of earlier exchanges.
 
 ### What are the different methods in HTTP?
-The action to be taken on a resource is specified by one of the several verbs, or methods, defined by HTTP. GET (retrieve data), POST (submit data), PUT (update data), DELETE (delete data), and other methods are frequently used.
+The action to be taken on a resource is specified by one of the several verbs, or methods, defined by HTTP. GET (retrieve data), POST (submit data), PUT (update data), DELETE (delete data), and other [methods](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/HTTP-methods) are frequently used.
 
 ### What is the difference between HTTP and HTTPS?
 A secure variant of HTTP, known as [HTTPS](https://en.wikipedia.org/wiki/HTTPS) (Hypertext Transfer Protocol Secure), encrypts data while it is transferred between clients and servers. For secure communication, including online banking and e-commerce, HTTPS is frequently utilized.
