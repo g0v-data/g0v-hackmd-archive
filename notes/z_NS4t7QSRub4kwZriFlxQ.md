@@ -1,7 +1,7 @@
 ---
 tags: Rentea
 ---
-# Rentea Tuesday #85, 87 單數線上小聚筆記
+# Rentea Tuesday #85, #87, #89 單數線上小聚筆記
 
 - 文件授權： [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.zh_TW)
 - 地點：
@@ -11,6 +11,21 @@ tags: Rentea
 - 時間： **每月第三週週二, 19:30 - 21:00**
 
 ---
+## 88 小聚 / 2024-03-19, 19:30 - 21:00
+
+簽到！
+
+- YC
+- ddio
+- Stella
+
+### 小聚紀錄
+
+1. 小聚感想
+   > [name=Stella] 交流 + 學習很棒
+   > [name=YC] 可以碰到導覽很棒，更深入
+   > [name=ddio] 要來想想第二季小聚
+
 
 ## 87 小聚 / 2024-02-20, 19:30 - 21:00
 
