@@ -64,6 +64,8 @@ g0v slack #health
     - 保固10年
 - 升降桌+跑步機
     - [我是有生產力的人-我整天都站在跑步機上工作](https://www.facebook.com/productiveguy/posts/pfbid0dyfw89qLQooe5zMvorS4EBaqoESKjiwcPNVsj2DsS9ns1V7tJupnkqh6EMf7FDnil)
+- 升降桌詢問貼文
+    - https://www.facebook.com/mashbean/posts/pfbid0258Vd7Br4BKMUnj99848xn1Uv4o1L1j1RRDMfJ2LEJ39cwnyrVRzrtgvU5eAvkqkJl
 
 ## 人體工學
 
