@@ -18,4 +18,7 @@ tags: opass, infras
 # References
 
 - [OPass 運作原理及流程導讀](https://hackmd.io/@OPass/rJitRr3VS)
+- Summit 2024
+	- [Issue ticket](https://gitlab.com/g0v-summit/2024/board/-/issues/216)
+	- [HackMD 共筆](https://g0v.hackmd.io/@summit2024/BkSK5D1hh/%2FNfqgorEmQte2Pj_y_hcS1Q)
 - 
