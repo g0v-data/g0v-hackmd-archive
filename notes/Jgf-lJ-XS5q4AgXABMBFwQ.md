@@ -72,6 +72,14 @@ The data collected on this Google form will be used only by mySociety for event 
 
 > Please ensure your summary details what real-world impacts your presentation will discuss. We will prioritise proposals that can demonstrate data or evidence of how civic tech has been impactful in some way. An abstract should include a brief overview of the research/work, the methods used, and the results you plan to share. Narratives or descriptions of tools or services will not be accepted. Please put N/A in the box below if you are proposing a workshop.
 
+Answer: 
+
+We are excited to propose a presentation showcasing vTaiwan's collaboration with Chatham House from UK, in June 2023 for OpenAI's grant: "Democratic Input to AI." Our presentation aims to delve into the insights garnered from the vTaiwan community, share project achievements, share what worked and what didn't, and outline the future trajectory of vTaiwan.
+
+The proposal is named "Recursive public" piloting an experiment that aims to capture “...a recursive discussion, one that is always going to evolve, change, receive new inputs, and therefore produce new outputs.” with multiple AI-supported deliberative tools. 
+
+In this preseantation I will be sharing What is Recursive Public, how did it come about? why we proposed Recursive Public? why are worked with Chatham house? The ideal state for Recursive Public framework, reflections around the live -consultation meeting we had in Taiwan on the sciety's preferences in dealing with an AI furture of generating discriminative contents, disverse culture .
+
 
 Answer: 
 
