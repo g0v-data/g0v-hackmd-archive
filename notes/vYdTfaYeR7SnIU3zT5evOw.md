@@ -364,6 +364,8 @@ HackMD 的主機維護，感謝 Jacky 協助。
 標準：內容違規標準
 - 頁面內容違反 CoC
     - case: 已發現有網站教學共筆，但題材內容使用 18+ 圖片、成人網站等
+- 廣告
+    - 如何判斷? 
 
 處理流程：
 - 每個人都可以檢舉
@@ -388,16 +390,23 @@ HackMD 的主機維護，感謝 Jacky 協助。
         - case: 
             - 20210824 將兩個違規頁面（使用 18+ 圖片），改為僅擁有者才能瀏覽。並附上 comment「您好，我是 g0v 揪松團的職工，g0v HackMD 文章須遵守 g0v CoC，因有人反映文章內含有 18+ 內容，因此我先將文章轉成不公開，若欲分享相關內容，請尋找其他適合的平台，感謝。」
             - 20230510 有發現一篇廣告 https://g0v.hackmd.io/vwZXRthkQcOfRNxz8RxAuQ
+            - 持續發現有許多廣告
 
 
 ### 營運方案
 
-感謝 HackMD 團隊提供企業版（HackMD Enterprise Edition）服務（g0v.hackmd.io)，架設在揪松團的 AWS 上，並協助開發社群需求版本。有相關問題或許願可至 #hackmd 頻道。
+感謝 HackMD 團隊提供企業版（HackMD Enterprise Edition）服務（g0v.hackmd.io)，協助開發社群需求版本。有相關問題或許願可至 #hackmd 頻道。
 
 ### 營運經費
 
+依時間記錄
 - 揪松團在 2020 年 04 月有得到 AWS 一年的 3000USD 的 credit 贊助（[記錄](https://trello.com/c/eCpoDplo/1950-aws-credit-%E8%A8%98%E9%8C%84)），目前主要花費於 HackMD 主機上。
 - （待補充）招募社群參與者貢獻餘裕點數，找 slack 發文記錄
+- 採用社群方案
+
+## 備份
+
+補網址
 
 ## g0v Flickr
 
