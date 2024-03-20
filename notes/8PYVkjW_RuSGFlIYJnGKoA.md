@@ -160,7 +160,9 @@ LLM部分透過微調開源大語言模型（LLM）在此特定領域發揮效�
 ### 2024/3/19 每週會議結論：
 好的藥事服務資料集, 必須包含藥事服務**相關的領域**才能是高品質的資料集
 大家分頭蒐集優質的資料來源, 含括以下各相關領域, 暫定資料集目標：藥事服務7成資料, 以下相關領域約3成資料(各相關領域資料集需均勻)
+會議ppt重點：
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_43eb098f4ba7630eb8276a63e17e4b7a.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_68e50af8bcd4ad3e6f82222a6c52b936.png)
 
 ### 請大家把找到的資料來源貼這裡, 檔案可以上傳的專案的gdrive. 
 
