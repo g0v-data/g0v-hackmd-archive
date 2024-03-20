@@ -59,9 +59,9 @@ tags: AI, LLM
 [中藥管理法規解釋彙編.pdf](https://www.mohw.gov.tw/dl-37981-47f9e0ed-d0f5-4dfb-9fc5-1fa54c3156d4.html)
 
 #### 普通資料來源
-
 例：這種影片字幕也可以, 只是字幕要搭配ppt才是完整內容.單獨字幕內容上比較沒那麼優
-[110年度教育訓練課程 藥品調製 vs 藥品製造 - 03](https://www.youtube.com/watch?v=3aCESG1XYt0)
+[販賣業藥商執照申請作業流程](https://www.fds.taichung.gov.tw/media/945434/%E8%B2%A9%E8%B3%A3%E6%A5%AD%E8%97%A5%E5%95%86%E5%9F%B7%E7%85%A7-%E5%85%AC%E5%8F%B8.pdf)
+[110年度教育訓練課程藥品調製vs藥品製造03](https://www.youtube.com/watch?v=3aCESG1XYt0)
 
 ---
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_550300e1ee99f0d1ba6d1de0d7a62169.jpg)
