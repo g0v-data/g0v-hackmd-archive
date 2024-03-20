@@ -42,3 +42,6 @@ https://youtube.com/playlist?list=PLjBlyKwAdyCUSUXM9Q0qBPzoo8qtUlh_R&si=EoaJBy_a
                 - 依照 Google 街景的拍攝日期
     - 依照截圖畫面，標註情況
 
+
+其他產品方案
+- 針對車道路面受損 https://www.facebook.com/share/v/w4YxEuYb5zc8osoM/
