@@ -101,6 +101,7 @@ tags: summit2024
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5d4473ee4da07c916c66ff0f15b6e76e.JPG)
 - 空間小
 - 目前規劃母嬰空間
+    - 用「親子空間」這個 term 會比較好...
 - 人員：場務人員x1?
 - 5/5 下午 unconf 的空間
 - 要準備的東西

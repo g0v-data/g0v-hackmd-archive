@@ -56,7 +56,7 @@ tags: AI, LLM
 #### 優質資料來源(可以支援推理過程或有引據)
 例：這種資料可以支援推理/引據列在優質
 [不以製劑調製問答集Q&A.pdf](https://https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f638403033877281686&type=2&cid=45956)
-
+[中藥管理法規解釋彙編.pdf](https://www.mohw.gov.tw/dl-37981-47f9e0ed-d0f5-4dfb-9fc5-1fa54c3156d4.html)
 
 #### 普通資料來源
 
