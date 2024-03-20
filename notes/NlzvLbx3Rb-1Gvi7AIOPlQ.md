@@ -26,7 +26,7 @@ The action to be taken on a resource is specified by one of the several verbs, o
 A secure variant of HTTP, known as [HTTPS](https://en.wikipedia.org/wiki/HTTPS) (Hypertext Transfer Protocol Secure), encrypts data while it is transferred between clients and servers. For secure communication, including online banking and e-commerce, HTTPS is frequently utilized.
 
 ### What is the role of headers in HTTP?
-Additional data transmitted with HTTP requests and responses are known as HTTP headers. Headers include information about the request or response's metadata, including the type of content, encoding, cookies, and caching instructions.
+Additional data transmitted with HTTP requests and responses are known as HTTP [headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers). Headers include information about the request or response's metadata, including the type of content, encoding, cookies, and caching instructions.
 
 ### What is the significance of HTTP status codes?
 The success or failure of an HTTP request is indicated by HTTP [status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status). Typical status codes that indicate the result of the request are 200 (OK), 404 (Not Found), 500 (Internal Server Error), and [others](https://en.m.wikipedia.org/wiki/List_of_HTTP_status_codes).
@@ -98,7 +98,7 @@ Here are the key features, strengths, and limitations of HTTP/3:
 
 **Features:**
 
-* By treating streams as first-class citizens, improving reliability with integrated error correction and congestion control, and facilitating faster connection establishment without the need for the traditional TCP handshake, the QUIC protocol—which underpins HTTP/3—offers more effective multiplexing and reduced latency.
+* By treating streams as first-class citizens, improving reliability with integrated error correction and congestion control, and facilitating faster connection establishment without the need for the traditional TCP [handshake](https://en.m.wikipedia.org/wiki/Handshake_(computing)), the QUIC protocol—which underpins HTTP/3—offers more effective multiplexing and reduced latency.
 
 **Strengths:**
 
@@ -136,7 +136,7 @@ All things considered, HTTP/2 and HTTP/3 provide considerable gains over HTTP/1.
 ##  Real-world examples illustrating performance differences between Protocols
 Numerous websites and web apps provide real-world examples of how HTTP/1.1, HTTP/2, and HTTP/3 function differently. Here are a few typical situations:
 
-* Website Loading Speed: Websites using HTTP/1.1 load resources sequentially via separate TCP connections, which increases delay, especially when transferring data over distant servers or unstable networks. In contrast, HTTP/2 dramatically lowers load times for complicated websites by using multiplexing to fetch numerous resources at once over a single TCP connection. With QUIC powering HTTP/3, latency is further reduced by doing away with head-of-line blocking and enhancing congestion control, which leads to quicker loading times, especially on cellular networks or in situations with heavy packet loss.
+* Website Loading Speed: Websites using HTTP/1.1 load resources sequentially via separate TCP connections, which increases delay, especially when transferring data over distant servers or unstable networks. In contrast, HTTP/2 dramatically lowers load times for complicated websites by using multiplexing to fetch numerous resources at once over a single TCP connection. With QUIC powering HTTP/3, latency is further reduced by doing away with head-of-line blocking and enhancing congestion control, which leads to quicker loading times, especially on cellular networks or in situations with heavy [packet loss](https://en.m.wikipedia.org/wiki/Packet_loss).
 
 * Streaming and Real-Time Communication: Because HTTP/2 and HTTP/3 offer server push and multiplexing, streaming services—like video and music platforms—can benefit from improved performance. This makes it possible to distribute media content more effectively, which leads to buffering reduction and smoother playback. Based on QUIC, HTTP/3 offers reduced latency, which is advantageous for real-time communication applications like chat rooms and multiplayer games. This improves the user experience by enabling faster response times and data delivery.
 
