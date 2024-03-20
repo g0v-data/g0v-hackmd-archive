@@ -47,7 +47,7 @@ The restricted amount of concurrent connections per server led to scalability pr
 **Remark:** The comparison does not include HTTP/1 because it was an older version with built-in constraints, mostly related to resource consumption, scalability, and performance, all of which were greatly improved upon and addressed in HTTP/1.1, HTTP/2, and HTTP/3.
 
 ### HTTP/1.1: The Evolution
-In 1997, HTTP/1.1 quickly followed. By eliminating the need to create new TCP connections for every request, it introduced the "keep alive" feature, which reduces latency by enabling connections to be reused for many requests. But another aspect of HTTP/1.1, HTTP pipelining, caused problems with head-of-line blocking. 
+In 1997, HTTP/1.1 quickly followed. By eliminating the need to create new TCP connections for every request, it introduced the "keep alive" feature, which reduces latency by enabling connections to be reused for many requests. But another aspect of HTTP/1.1, HTTP pipelining, caused problems with [head-of-line blocking](https://en.m.wikipedia.org/wiki/Head-of-line_blocking). 
 
 Although pipelining potentially speeds up communication by enabling many requests to be sent without waiting for each response, performance is decreased overall when there is a delay or obstruction in one request because it impacts subsequent requests on the same connection. To lessen the impact of delays on individual requests, modern web browsers use numerous simultaneous TCP connections to the same server. Requests can now be sent concurrently thanks to this. This method improves web page loading speed by striking a compromise between the necessity for parallelism and the complexity and overhead of handling multiple connections.
 
