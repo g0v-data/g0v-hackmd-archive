@@ -73,21 +73,24 @@ C. Please assess the implementation challenges and proposed solutions. 💪
 
 ### 其他參考：數位解方策略及工具推薦 / 揉合公民權的公民科技專案策略 
 
-https://docs.google.com/spreadsheets/d/1P1sCLPAQP9hUwMFVGzneg9lAIFLoYe_arsmgdUy23FA/edit
+- 另開文件瀏覽：https://docs.google.com/spreadsheets/d/1P1sCLPAQP9hUwMFVGzneg9lAIFLoYe_arsmgdUy23FA/edit
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTO3sgC85MWIm3L1sSH3SG8WKzD7_Cp2hQRyfMOCW0SYQUSt_6MgGWWx2Nn4LkH4XASk56QXVhxS3TM/pubhtml?widget=true&amp;headers=false" width=100% height="600"></iframe>
 
 ### 其他參考：Joinplus 公民參與結合數位工具 - 議題架構初探與工具試作
 
-簡報：https://g0v.hackmd.io/@chewei/joinplus/https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1hpgPPSbAfsYKMCDbYDZa0iwJHZA0DWYe339ft42Xf48%2Fedit
-
-講座影片：https://youtu.be/2UiYUpjGjks
+- 簡報：https://g0v.hackmd.io/@chewei/joinplus/https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1hpgPPSbAfsYKMCDbYDZa0iwJHZA0DWYe339ft42Xf48%2Fedit
+- 講座影片：https://youtu.be/2UiYUpjGjks
 
 <iframe width=100% height="490" src="https://www.youtube.com/embed/2UiYUpjGjks?si=oY-fWzkfLTwx_1N6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 其他參考：零時小學校 - 專案實作與歷年推動專案
 
-https://sch001.g0v.tw/dash/brd/sch001-2023-prjs/list
+- 逛逛專案 https://sch001.g0v.tw/dash/brd/sch001-2023-prjs/list
+
+### 其他參考：用 SDGs 標籤架構來找 g0v 專案
+
+- 逛逛專案 https://sheet2site.com/api/v3/index.php?key=1Qm1u2kRpqEtWAHyQJWMFf0NKPx0HMOhb8uBDbLfUKoM
 
 ---
 :::warning

@@ -41,13 +41,13 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 - [x] 把時間放到自己的行事曆上
 - [x] 製作社群圖片和貼文
     - [DigiResiTh0n Social Media Post's Image Generation Prompts](/PaNChj9XQ7ar_jVceu5ciQ)
-- [ ] 開設 KKTIX 售票頁面
+- [x] 開設 KKTIX 售票頁面
 - [ ] 把活動資訊放到 #g0v-landing-page channel
-- [ ] 把下次共筆的地點位置更新
-- [ ] 將上述社群貼文發佈到 g0v SNS
-    - [ ] g0v SNS review submission
-    - [ ] g0v SNS review submission approved?
-    - [ ] g0v SNS posted like intended?
+- [x] 把下次共筆的地點位置更新
+- [x] 將上述社群貼文發佈到 g0v SNS
+    - [x] g0v SNS review submission
+    - [x] g0v SNS review submission approved?
+    - [x] g0v SNS posted like intended?
 - [ ] promotion
     - [ ] 將上述社群貼文發佈到 Facebook Groups
         - [ ] `g0v 後勤中心`
@@ -59,7 +59,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
         - [ ] `#g0v-siliconvalley` channel
         - [ ] `#general-en` channel
         - [ ] `#north-america` channel
-    - [ ] 將上述社群貼文發佈到 g0v jothon LINE group chat
+    - [x] 將上述社群貼文發佈到 g0v jothon LINE group chat
     - [ ] 透過 KKTIX 寄信給過往曾參與活動且同意發送通知者
 - [ ] 問過往曾提案者下次是否會來～或者是有沒有其他人會幫忙提案
 

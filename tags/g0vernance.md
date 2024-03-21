@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-03-20T21:21:50+08:00 | 2018-08-30T15:19:57+08:00 |
+| 1 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-03-21T21:35:23+08:00 | 2018-08-30T15:19:57+08:00 |
 | 2 | [g0v 首頁社群治理機制](../notes/mZ-LeFr1QJ6CuO6R3eeHnw.md) | 2024-03-14T23:21:44+08:00 | 2023-03-04T15:16:37+08:00 |
 | 3 | [g0v github 社群規範討論](../notes/1wFAJoQeTrmw9pnjcqPkXg.md) | 2024-03-12T11:47:22+08:00 | 2020-01-18T14:02:29+08:00 |
 | 4 | [g0v slack 治理機制討論](../notes/rHe3Lfh_S3yhtRawnliSIg.md) | 2024-03-11T00:08:53+08:00 | 2021-03-16T14:12:06+08:00 |
