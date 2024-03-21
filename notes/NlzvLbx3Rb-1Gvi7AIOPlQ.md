@@ -47,7 +47,7 @@ The restricted amount of concurrent connections per server led to scalability pr
 **Remark:** The comparison does not include HTTP/1 because it was an older version with built-in constraints, mostly related to resource consumption, scalability, and performance, all of which were greatly improved upon and addressed in HTTP/1.1, HTTP/2, and HTTP/3.
 
 ### HTTP/1.1: The Evolution
-In 1997, HTTP/1.1 quickly followed. By eliminating the need to create new TCP connections for every request, it introduced the "keep alive" feature, which reduces latency by enabling connections to be reused for many requests. But another aspect of HTTP/1.1, HTTP pipelining, caused problems with [head-of-line blocking](https://en.m.wikipedia.org/wiki/Head-of-line_blocking). 
+In 1997, HTTP/1.1 quickly followed. By eliminating the need to create new TCP connections for every request, it introduced the "keep alive" feature, which reduces latency by enabling connections to be reused for many requests. But another aspect of HTTP/1.1, HTTP [pipelining](https://www.ibm.com/docs/en/cics-ts/5.6?topic=concepts-pipelining), caused problems with [head-of-line blocking](https://en.m.wikipedia.org/wiki/Head-of-line_blocking). 
 
 Although pipelining potentially speeds up communication by enabling many requests to be sent without waiting for each response, performance is decreased overall when there is a delay or obstruction in one request because it impacts subsequent requests on the same connection. To lessen the impact of delays on individual requests, modern web browsers use numerous simultaneous TCP connections to the same server. Requests can now be sent concurrently thanks to this. This method improves web page loading speed by striking a compromise between the necessity for parallelism and the complexity and overhead of handling multiple connections.
 
@@ -60,19 +60,19 @@ The [Host header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Host
 
 [Chunked transfer encoding](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Transfer-Encoding) facilitates data transfer in segments, which is advantageous for streaming or transmitting big files with erratic durations.
 
-Furthermore, HTTP/1.1 improved cache management and content negotiation techniques, providing more precise control over content selection and caching strategies, enhancing performance and dependability for contemporary web applications.
+Furthermore, HTTP/1.1 improved cache management and content negotiation techniques, providing more precise control over content selection and caching strategies and enhancing performance and dependability for contemporary web applications.
 
 **Strengths:**
  Significant improvements were introduced with HTTP/1.1, such as Chunked transfer encoding for flexible data transport, the Host header for virtual hosting, and persistent connections for lower overhead. Backward compatibility, permanent connections that lower latency, and broad support from web servers, clients, and proxies are its main strengths.
 
-Additionally, improved content negotiation features let servers to provide customized content according to client preferences, maximizing resource delivery and enhancing network performance and user experience.
+Additionally, improved content negotiation features let servers  provide customized content according to client preferences, maximizing resource delivery and enhancing network performance and user experience.
 
 **Limitations:**
 Because HTTP/1.1 lacks internal authentication and encryption, it is vulnerable to head-of-line blocking and security weaknesses that allow for modification and eavesdropping of messages.
 
 Also, because HTTP/1.1 is sequential, it still has considerable latency even with persistent connections, which makes resource retrieval inefficient.
 
-Finally, HTTP/1.1's limited multiplexing capabilities result in less efficient use of resources, particularly when there are several requests being sent at once.
+Finally, HTTP/1.1's limited multiplexing capabilities result in less efficient use of resources, particularly when several requests are being sent at once.
 
 
 ### HTTP/2: The Transition
@@ -127,7 +127,7 @@ By leveraging QUIC's multiplexing features, HTTP/3 addresses the head-of-line bl
 
 By facilitating the smooth transition of connections between various network interfaces or IP addresses, QUIC's connection migration function improves dependability and resistance to network changes.
 
-In order to improve user experience and page loading speed, the protocol gives priority to stream multiplexing and prioritization, guaranteeing the timely delivery of essential resources.
+To improve user experience and page loading speed, the protocol gives priority to stream multiplexing and prioritization, guaranteeing the timely delivery of essential resources.
 
 Because HTTP/3 uses [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol) (UDP) rather than TCP, data transfer is faster and more dependable because it lessens the effects of congestion and [packet loss](https://en.wikipedia.org/wiki/Packet_loss) and speeds up connection setup times.
 
@@ -135,9 +135,9 @@ Because HTTP/3 uses [User Datagram Protocol](https://en.wikipedia.org/wiki/User_
 **Limitations:**
 Adoption and compatibility may be limited by dependence on UDP in networks or contexts where UDP traffic is banned or given lower priority than TCP.
 
-Although QUIC's encryption improves security, it can also result in increased computational burden for encryption and decryption, which could have an adverse effect on performance, particularly for devices with limited resources.
+Although QUIC's encryption improves security, it can also result in an increased computational burden for encryption and decryption, which could hurt performance, particularly for devices with limited resources.
 
-Some servers and clients may find it difficult to install and maintain HTTP/3 and QUIC due to its complexity, which could cause compatibility problems and necessitate the use of more resources for deployment and upkeep.
+Some servers and clients may find it difficult to install and maintain HTTP/3 and QUIC due to their complexity, which could cause compatibility problems and necessitate the use of more resources for deployment and upkeep.
 
 Furthermore, because HTTP/3 is still relatively new, there could not be as much support or compatibility with current tools, protocols, and infrastructure, which could prevent widespread adoption until HTTP/3 matures and becomes more standardized. 
 
@@ -155,7 +155,7 @@ Here's a side-by-side comparison of HTTP/1.1, HTTP/2, and HTTP/3 based on their 
 | Header Compression    | Not supported                           | Yes reduces overhead with HPACK         | N/A (built-in mechanisms for reliability)  |
 | **Strengths**         |                                          |                                            |                                             |
 | Backward Compatibility| Compatible with existing infrastructure | Maintains backward compatibility with HTTP/1.1 | Maintains compatibility with HTTP/1.1       |
-| Improved Performance  | Limited due to lack of multiplexing      | Yes, multiplexing and header compression improve performance | Yes, reduced latency with QUIC, independent streams |
+| Improved Performance  | Limited due to lack of multiplexing      | Yes, multiplexing and header compression boost performance | Yes, reduced latency with QUIC, independent streams |
 | Efficient Resource Utilization | Limited due to lack of multiplexing | Yes reduces the overhead of establishing multiple connections | Yes, improves resource utilization with independent streams |
 | Reduced Latency       | Limited due to lack of multiplexing      | Yes, reduces latency with multiplexing and header compression | Yes, further reduces latency with QUIC      |
 | **Limitations**       |                                          |                                            |                                             |
