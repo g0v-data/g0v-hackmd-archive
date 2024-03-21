@@ -4,6 +4,8 @@ tags: edu
 
 # COSCUP 2024 Open Education & Student Track
 
+Meet: https://meet.google.com/dtb-xzij-mhk
+
 :::info
 Co-organizing community: SITCON、GDSC、開放教育社群
 :::
