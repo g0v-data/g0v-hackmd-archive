@@ -54,7 +54,7 @@ Although pipelining potentially speeds up communication by enabling many request
 Here are the key features, strengths, and limitations of HTTP/1.1:
 
 **Features:** 
-With the introduction of permanent connections in HTTP/1.1, overhead was reduced by enabling the transmission of numerous requests and responses over a single connection. 
+With the introduction of permanent connections in HTTP/1.1, [overhead](https://docs.sentry.io/product/issues/issue-details/performance-issues/http-overhead/) was reduced by enabling the transmission of numerous requests and responses over a single connection. 
 
 The [Host header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Host) also permits virtual hosting, which allows several websites to be served on a single server. 
 
@@ -76,7 +76,7 @@ Finally, HTTP/1.1's limited multiplexing capabilities result in less efficient u
 
 
 ### HTTP/2: The Transition
-When HTTP/2 was released in 2015, it addressed the shortcomings of HTTP/1.1 and added new functionality, which made it a major improvement over HTTP/1.1. It improved network resource use by introducing HTTP streams, which allowed numerous requests and responses to be multiplexed over a single TCP connection. Because HTTP/2 streams are independent, as opposed to HTTP/1.1 pipelining, head-of-line blocking is eliminated, improving performance and lowering latency. 
+When HTTP/2 was released in 2015, it addressed the shortcomings of HTTP/1.1 and added new functionality, which made it a major improvement over HTTP/1.1. It improved network resource use by introducing HTTP [streams](https://en.wikipedia.org/wiki/STREAMS), which allowed numerous requests and responses to be multiplexed over a single TCP connection. Because HTTP/2 streams are independent, as opposed to HTTP/1.1 pipelining, head-of-line blocking is eliminated, improving performance and lowering latency. 
 
 Furthermore, HTTP/2 added server push functionality, which enables servers to forward resources to clients in advance, improving performance and cutting down on page load times. In general, HTTP/2 prioritizes performance, reduced latency, and improved user experience, making it a more reliable and efficient protocol for contemporary web applications.
 
@@ -111,14 +111,14 @@ Even with these enhancements, HTTP/2 might not be able to completely solve all p
 ### HTTP/3: The Revolution
 After debuting as a draft in 2020, HTTP/3 is a significant advancement in web protocols since it replaces the conventional TCP transport protocol with [QUIC](https://datatracker.ietf.org/doc/html/rfc9114) (Quick UDP Internet Connections). 
 
-By allowing many streams to share a connection without requiring extra handshakes, QUIC emphasizes stream multiplexing and maximizes resource use. Most importantly, it ensures independent stream delivery even in the event of packet loss or congestion, hence eliminating head-of-line blocking at the transport layer improving performance and lowering latency. 
+By allowing many streams to share a connection without requiring extra [handshakes](https://en.m.wikipedia.org/wiki/Handshake_(computing)), QUIC emphasizes stream multiplexing and maximizes resource use. Most importantly, it ensures independent stream delivery even in the event of packet loss or congestion, hence eliminating head-of-line blocking at the transport layer improving performance and lowering latency. 
 
 Moreover, QUIC's usage of Connection ID facilitates smooth switching between IP addresses and network interfaces, which is very helpful for users who are on the go. HTTP/3, driven by QUIC, is gaining momentum despite its recent inception because it prioritizes performance, dependability, and adaptability to meet the demands of the current internet.
 
 Here are the key features, strengths, and limitations of HTTP/3:
 
 **Features:**
-By treating streams as first-class citizens, improving reliability with integrated error correction and congestion control, and facilitating faster connection establishment without the need for the traditional TCP [handshake](https://en.m.wikipedia.org/wiki/Handshake_(computing)), the QUIC protocol—which underpins HTTP/3—offers more effective multiplexing and reduced latency.
+By treating streams as first-class citizens, improving reliability with integrated error correction and congestion control, and facilitating faster connection establishment without the need for the traditional TCP handshake, the QUIC protocol—which underpins HTTP/3—offers more effective multiplexing and reduced latency.
 
 **Strengths:**
 It makes use of the QUIC transport protocol, which improves security and performance by providing features like multiplexing and connection migration, as well as built-in encryption and decreased latency.
@@ -129,7 +129,7 @@ By facilitating the smooth transition of connections between various network int
 
 In order to improve user experience and page loading speed, the protocol gives priority to stream multiplexing and prioritization, guaranteeing the timely delivery of essential resources.
 
-Because HTTP/3 uses UDP rather than TCP, data transfer is faster and more dependable because it lessens the effects of congestion and packet loss and speeds up connection setup times.
+Because HTTP/3 uses [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol) (UDP) rather than TCP, data transfer is faster and more dependable because it lessens the effects of congestion and [packet loss](https://en.wikipedia.org/wiki/Packet_loss) and speeds up connection setup times.
 
 
 **Limitations:**
@@ -139,7 +139,7 @@ Although QUIC's encryption improves security, it can also result in increased co
 
 Some servers and clients may find it difficult to install and maintain HTTP/3 and QUIC due to its complexity, which could cause compatibility problems and necessitate the use of more resources for deployment and upkeep.
 
-Because HTTP/3 is still relatively new, there could not be as much support or compatibility with current tools, protocols, and infrastructure, which could prevent widespread adoption until HTTP/3 matures and becomes more standardized. 
+Furthermore, because HTTP/3 is still relatively new, there could not be as much support or compatibility with current tools, protocols, and infrastructure, which could prevent widespread adoption until HTTP/3 matures and becomes more standardized. 
 
 ## Side-by-side comparison of the Protocols
 Here's a side-by-side comparison of HTTP/1.1, HTTP/2, and HTTP/3 based on their features, strengths, and limitations:
@@ -169,7 +169,7 @@ All things considered, HTTP/2 and HTTP/3 provide considerable gains over HTTP/1.
 ##  Real-world examples illustrating performance differences between Protocols
 Numerous websites and web apps provide real-world examples of how HTTP/1.1, HTTP/2, and HTTP/3 function differently. Here are a few typical situations:
 
-* Website Loading Speed: Websites using HTTP/1.1 load resources sequentially via separate TCP connections, which increases delay, especially when transferring data over distant servers or unstable networks. In contrast, HTTP/2 dramatically lowers load times for complicated websites by using multiplexing to fetch numerous resources at once over a single TCP connection. With QUIC powering HTTP/3, latency is further reduced by doing away with head-of-line blocking and enhancing congestion control, which leads to quicker loading times, especially on cellular networks or in situations with heavy [packet loss](https://en.m.wikipedia.org/wiki/Packet_loss).
+* Website Loading Speed: Websites using HTTP/1.1 load resources sequentially via separate TCP connections, which increases delay, especially when transferring data over distant servers or unstable networks. In contrast, HTTP/2 dramatically lowers load times for complicated websites by using multiplexing to fetch numerous resources at once over a single TCP connection. With QUIC powering HTTP/3, latency is further reduced by doing away with head-of-line blocking and enhancing congestion control, which leads to quicker loading times, especially on cellular networks or in situations with heavy packet loss.
 
 * Streaming and Real-Time Communication: Because HTTP/2 and HTTP/3 offer server push and multiplexing, streaming services—like video and music platforms—can benefit from improved performance. This makes it possible to distribute media content more effectively, which leads to buffering reduction and smoother playback. Based on QUIC, HTTP/3 offers reduced latency, which is advantageous for real-time communication applications like chat rooms and multiplayer games. This improves the user experience by enabling faster response times and data delivery.
 
