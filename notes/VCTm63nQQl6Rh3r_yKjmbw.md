@@ -7,7 +7,11 @@ tags: FtO, g0v-intl
 - August 17-18
 - Venue: [Pasifico Yokohama](https://www.pacifico.co.jp/english/access)
 
-Book your plane tickets and hotels now :)
+:::warning
+[Reminder] Book your plane tickets and hotels now :)
+:::
 
-Registration starts from April 15 and closes by June 30th
+:::info
+Registration will start from April 15 and close by June 30th
+:::
 

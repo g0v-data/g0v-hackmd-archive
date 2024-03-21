@@ -2,12 +2,12 @@
 tags: disinfo
 ---
 
-# ⚠️ 不斷更新 ⚠️ 2024 選舉假影音計數器
+# 2024 選舉假影音
 
 ## 授權條款
-CC BY g0v contributors
+CC BY 4.0 g0v contributors
 
-## 台灣政治相關案例蒐集
+## 台灣政治相關案例
 ### 賴清德 5
 - https://tfc-taiwan.org.tw/articles/9949 說藍白合是對的組合
 - https://www.mygopen.com/2023/12/deepfake.html 有三名情婦
@@ -46,8 +46,6 @@ CC BY g0v contributors
 
 ### 中國 1
 - 【錯誤】網傳影片「中國近日舉行實戰火力打擊演習」？，https://tfc-taiwan.org.tw/articles/10014
-
-
 
 ## 討論
 ### 相關文章

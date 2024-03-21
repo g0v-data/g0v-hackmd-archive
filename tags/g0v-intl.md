@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [FtO Yokohama 2024](../notes/VCTm63nQQl6Rh3r_yKjmbw.md) | 2024-03-20T11:22:30+08:00 | 2024-03-20T11:12:07+08:00 |
+| 1 | [FtO Yokohama 2024](../notes/VCTm63nQQl6Rh3r_yKjmbw.md) | 2024-03-21T14:12:07+08:00 | 2024-03-20T11:12:07+08:00 |
 | 2 | [2nd Code for Korea Conference - Happy Happy, Hack Gathering!](../notes/UKjeROzlTyWAf4tTehgU0Q.md) | 2024-03-09T03:20:36+08:00 | 2023-10-24T08:38:27+08:00 |
 | 3 | [g0ver @ 科技 × 民主治理 閉門國際工作坊](../notes/VuPySokuT5qNxZYjFJ8PCA.md) | 2023-09-15T13:15:41+08:00 | 2023-09-12T07:32:47+08:00 |
 | 4 | [g0v talk in TRANSFORMATION conference 2021](../notes/L36QWVuLSbaueT_xBCxMbw.md) | 2023-09-14T15:20:47+08:00 | 2021-03-31T19:59:30+08:00 |
