@@ -25,8 +25,9 @@ tags: edu
 - 碳匯城鄉 https://g0v.hackmd.io/@chewei/carbon-uptake
 - 資料申請小幫手 https://g0v.hackmd.io/@chewei/dataopener
 
-slide
-https://docs.google.com/presentation/d/1EwCP6FM0WAABx0mmweKt68vDDJhF5nD4eEzxb9Pv_6M/edit?usp=sharing
+簡報：挖坑與填坑之間的數位公民生態系 
+- The digital civic ecosystem formed through civic tech project implementation
+- https://docs.google.com/presentation/d/1EwCP6FM0WAABx0mmweKt68vDDJhF5nD4eEzxb9Pv_6M/edit?usp=sharing
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSB8B5xDeSh9GaEUxapIIYRkPQug35qQmSoGz941ryZbtPwHzYJlh1G71gLFF3NebNCRShMw-iWheRx/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="490" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## 💡 網頁工具操作體驗區 

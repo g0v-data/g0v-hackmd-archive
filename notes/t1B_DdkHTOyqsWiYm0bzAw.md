@@ -2,7 +2,7 @@
 tags: AI, whisper 
 ---
 
-# 如何在全新的 Macbook 裝 whisper 
+# 如何在 Macbook 裝 whisper 
 # How to Install whisper in Macbook
 
 ## 第一次安裝 First time
