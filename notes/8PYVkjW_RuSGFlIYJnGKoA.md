@@ -51,15 +51,15 @@ tags: AI, LLM
 好的資料集內容要包含問題-概要結論-推理過程或引用根據-再次結論
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_68e50af8bcd4ad3e6f82222a6c52b936.png)
 
-### 請大家把找到的資料來源貼這裡, 檔案可以上傳到專案的gdrive. 
-
+### 請大家把找到的資料來源用google表單回報, 檔案可以上傳到專案的gdrive. 
+# Google表單：https://forms.gle/un7k8jxE4uTjhzv46
 #### 優質資料來源(可以支援推理過程或有引據)
-例：這種資料可以支援推理/引據列在優質
+例：這種資料源可以支援推理/引據列在優質
 [不以製劑調製問答集Q&A.pdf](https://https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f638403033877281686&type=2&cid=45956)
 [中藥管理法規解釋彙編.pdf](https://www.mohw.gov.tw/dl-37981-47f9e0ed-d0f5-4dfb-9fc5-1fa54c3156d4.html)
 
 #### 普通資料來源
-例：這種影片字幕也可以, 只是字幕要搭配ppt才是完整內容.單獨字幕內容上比較沒那麼優
+例：影片字幕也可以, 只是字幕要搭配ppt才是完整內容.單獨字幕內容上比較沒那麼優
 [販賣業藥商執照申請作業流程](https://www.fds.taichung.gov.tw/media/945434/%E8%B2%A9%E8%B3%A3%E6%A5%AD%E8%97%A5%E5%95%86%E5%9F%B7%E7%85%A7-%E5%85%AC%E5%8F%B8.pdf)
 [110年度教育訓練課程藥品調製vs藥品製造03](https://www.youtube.com/watch?v=3aCESG1XYt0)
 
