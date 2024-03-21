@@ -118,11 +118,9 @@ Moreover, QUIC's usage of Connection ID facilitates smooth switching between IP 
 Here are the key features, strengths, and limitations of HTTP/3:
 
 **Features:**
-
-* By treating streams as first-class citizens, improving reliability with integrated error correction and congestion control, and facilitating faster connection establishment without the need for the traditional TCP [handshake](https://en.m.wikipedia.org/wiki/Handshake_(computing)), the QUIC protocol—which underpins HTTP/3—offers more effective multiplexing and reduced latency.
+By treating streams as first-class citizens, improving reliability with integrated error correction and congestion control, and facilitating faster connection establishment without the need for the traditional TCP [handshake](https://en.m.wikipedia.org/wiki/Handshake_(computing)), the QUIC protocol—which underpins HTTP/3—offers more effective multiplexing and reduced latency.
 
 **Strengths:**
-
 It makes use of the QUIC transport protocol, which improves security and performance by providing features like multiplexing and connection migration, as well as built-in encryption and decreased latency.
 
 By leveraging QUIC's multiplexing features, HTTP/3 addresses the head-of-line blocking problem of HTTP/2 by enabling the processing of many requests and responses independently, which lowers latency and boosts efficiency.
@@ -134,10 +132,14 @@ In order to improve user experience and page loading speed, the protocol gives p
 Because HTTP/3 uses UDP rather than TCP, data transfer is faster and more dependable because it lessens the effects of congestion and packet loss and speeds up connection setup times.
 
 
-
 **Limitations:**
+Adoption and compatibility may be limited by dependence on UDP in networks or contexts where UDP traffic is banned or given lower priority than TCP.
 
-* The constraints of HTTP/3 originate from its reliance on [User Datagram Protocol](https://www.fortinet.com/resources/cyberglossary/user-datagram-protocol-udp#:~:text=User%20Datagram%20Protocol%20(UDP)%20is,destination%20before%20transferring%20the%20data.), UDP, which is subject to limitations or blockage by some networks, which could hinder its uptake and accessibility.
+Although QUIC's encryption improves security, it can also result in increased computational burden for encryption and decryption, which could have an adverse effect on performance, particularly for devices with limited resources.
+
+Some servers and clients may find it difficult to install and maintain HTTP/3 and QUIC due to its complexity, which could cause compatibility problems and necessitate the use of more resources for deployment and upkeep.
+
+Because HTTP/3 is still relatively new, there could not be as much support or compatibility with current tools, protocols, and infrastructure, which could prevent widespread adoption until HTTP/3 matures and becomes more standardized. 
 
 ## Side-by-side comparison of the Protocols
 Here's a side-by-side comparison of HTTP/1.1, HTTP/2, and HTTP/3 based on their features, strengths, and limitations:
