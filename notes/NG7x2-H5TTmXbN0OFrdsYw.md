@@ -145,3 +145,23 @@ SITCON 學生計算機年會與 Google Developer Student Clubs Taiwan & Hong Kon
 ### Profile
 - Avatar
 - 名稱
+
+### 英文資訊
+
+- 英文徵稿主題
+    - 
+    - In the Student Education Track (SED) this year, we are interested in both student-related and education-related presentations, including open education, open source education, open source communities or Google techniques. These presentations will be shared by speakers who will share their experiences and skills, allowing the discussion of students and education to boost and progress. 
+    - (2023)Students will bring a series of interesting adventure-themed presentations, including challenging their own skills, creative thinking and problem-solving abilities, as well as experiencing true teamwork spirit. These presentations will be shared by speakers who will share their experiences and skills, allowing students to enjoy the fun of adventure while learning.
+- 社群英文介紹
+    - 學生 × 教育大亂鬥議程軌由 SITCON 學生計算機年會、Google Developer Student Clubs Taiwan & Hong Kong (GDSC) 及開放教育社群共同籌辦，關注以學生為主體或為學生服務等議題，討論內容包含但不限於開放教育、開源教育，開源技術、社群 / 社團經營，或是與 Google 相關技術。
+    - Student Education Track (SED) is hosted by SITCON, GDSC TW/HK Leads and Open Education Community, creating a forum for student and education-related topics to be discussed and boosted, including open education, open source education, open source communities or Google techniques
+- 徵稿欄位(新增)
+    - 服務單位/就讀學校 單行文字
+
+
+### 宣傳相關
+
+SMS 管道
+- GDSC 找群內 Organizer 申請
+- COSCUP 協助
+- SITCON 走 GitLabs 申請
