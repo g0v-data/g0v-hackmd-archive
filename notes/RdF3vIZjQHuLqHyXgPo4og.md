@@ -15,9 +15,11 @@ tags: web3, Shoutout
 [2024 例會安排](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=2098430858)
 
 ## 例會議程
-[功能設計/開發] 通訊版 SO & 前端展示頁面
+功能設計/開發
 * 更新用戶訪談進度
-* 
+* 分享功能開發近況
+功能設計/開發
+* SO 小組目前合作/開會方式回饋與討論
 
 ## To-Dos Checklist
 
