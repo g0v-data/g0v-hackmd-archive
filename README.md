@@ -2,6 +2,7 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [localzine](tags/localzine.md) | 7 | 2024-03-22T21:47:24+08:00 |
 | [edu](tags/edu.md) | 149 | 2024-03-22T20:58:48+08:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 7119 | 2024-03-22T20:51:07+08:00 |
 | [web3](tags/web3.md) | 119 | 2024-03-22T14:01:47+08:00 |
@@ -292,7 +293,6 @@
 | [COSCUP](tags/COSCUP.md) | 6 | 2023-08-26T10:04:06+08:00 |
 | [CFJSummit2023](tags/CFJSummit2023.md) | 1 | 2023-08-25T14:49:10+08:00 |
 | [material](tags/material.md) | 1 | 2023-08-11T17:46:10+08:00 |
-| [localzine](tags/localzine.md) | 7 | 2023-08-10T20:15:10+08:00 |
 | [Ukraine](tags/Ukraine.md) | 3 | 2023-08-04T07:21:13+08:00 |
 | [i18n](tags/i18n.md) | 18 | 2023-08-03T00:04:11+08:00 |
 | [Translate4you](tags/Translate4you.md) | 1 | 2023-08-03T00:04:11+08:00 |
