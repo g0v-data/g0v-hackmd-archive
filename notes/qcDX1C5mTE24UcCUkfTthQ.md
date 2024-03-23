@@ -47,12 +47,21 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | 防災避難所全台統整 | Ronny | [全台防災/防空避難所大統整](/UNg_8F3FTuynAwbV7flp-w) |
 | Meshtastic推廣 | Dryden | [共筆](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/https%3A%2F%2Fg0v.hackmd.io%2F0bR8-LvHRMaNaR97YaXpnQ) |
 | SaaS 韌性產品檢測 + 可 selfhost 替代品 | Paul | [SaaS 韌性產品 self-host guide](/9Z2EhRAFQq-jfsoixrwD5A)要整合一下先前的其他文件 [戰時網路](https://g0v.hackmd.io/UkmNKU9AQKC1uDgVddEu-g) 和 [民生網站韌性](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A) |
-| 自由填寫 | 自由填寫 | 自由向下新增行列 |
+| 韌性檢測 | Irvin | [開了 github repo](https://github.com/irvin/digital-service-resilience) 並把前幾次的進度拆成數份 hacknd 文件上傳，補上 license  |
 | 自由填寫 | 自由填寫 | 自由向下新增行列 |
 
 ## 備用社群網站
 
 - 政府機關應該要經營 Fediverse 社群網站的帳號
+- Meta Threads 在 3/23 正式接上 Fediverse
+    - 但問題是 Meta 伺服器還是在國外
+    - https://blog.gslin.org/archives/2024/03/23/11712/threads-開放更多使用者進入-fediverse/
+    - https://engineering.fb.com/2024/03/21/networking-traffic/threads-has-entered-the-fediverse/
+- 應該叫 moda 開一個 `social.gov.tw` instance
+    - 所有有開社群網站的部會都規定一定要在上面開
+    - 公務員的社群網站帳號
+    - e.g. `bbs.gov.tw`
+    - action item: 寫信給 moda 或發信給多元宇宙科的公務員開始研究這件事情 [name=paul]
 
 
 ## PWA 災前災時應變手冊APP中文目錄

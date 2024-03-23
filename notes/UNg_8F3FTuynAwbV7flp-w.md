@@ -14,3 +14,9 @@
 Shelter Map (Taiwan, Japan, Korea)](/SdlX05_hS4e_eeierjkxyQ)
     - 以避難點位整理為目標（有經緯度）
     - 透過經緯度可直接做出全台灣的版本
+    
+    
+20240323 成果
+- 追加彰化縣
+- https://ronnytest.ronny-s3.click/simple-evacuation-map/page/
+- 

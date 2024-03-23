@@ -31,3 +31,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
     - 👾 Use models through the in-app Chat UI or an OpenAI compatible local server
     - 📂 Download any compatible model files from HuggingFace 🤗 repositories
     - 🔭 Discover new & noteworthy LLMs in the app's home page
+
+- [LlamaGPT](https://github.com/getumbrel/llama-gpt)
+    -  A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support! 
+    -  Install LlamaGPT on M1/M2 Mac.
