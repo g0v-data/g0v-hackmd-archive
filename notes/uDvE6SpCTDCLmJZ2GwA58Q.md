@@ -103,6 +103,12 @@ tags: 新生流域
         - https://www.facebook.com/groups/582154450196478/posts/919557979789455/
         - https://cpaper-blog.blogspot.com/2011/07/kent-mathieu.html
         - https://www.facebook.com/GongguanSettlements/posts/pfbid02fimCihfaea2jSsuWW2GKoj3feFvmRSBntXY4c6Akh6dt1yD3FgjAj7xn8Gqf1nc5l
+    - 1970年代的安和路與仁愛路
+        - https://www.facebook.com/photo/?fbid=10151978257598618&set=a.10151834790708618
+    - 1971《臺北攝影年鑑》從臺北敦化南路安和路口往西北向拍攝
+        - https://www.facebook.com/photo?fbid=10154998873103618&set=a.10150573232658618
+    - 榮泰厝拆除前夕
+        - https://www.facebook.com/photo/?fbid=10151051155648618&set=a.10151834790708618
     - 農安街生福祠
         - http://www.rhythmsmonthly.com/?p=33301
     - 民國67年北台灌區利用圖(wra00700)
