@@ -20,6 +20,7 @@ tags: GIS
 - 臺北市中山區南京東路二段108號，捷運出入口的大面積玻璃 https://www.facebook.com/groups/birdwindowcollision/posts/1272829130099208/
 - 愛明眼科 https://www.facebook.com/groups/birdwindowcollision/posts/1273161673399287/
 - 臺北市南港區中研院生技園區 https://www.facebook.com/groups/birdwindowcollision/posts/1236196760429112/
+- 臺北市文山區政治大學圖書館 https://photos.app.goo.gl/1GLyi9YiZNQf99x78
 - 臺北市士林區建業路 7 號 https://photos.app.goo.gl/kCvv61Jbby4xhs7E9
 - 香港 https://www.facebook.com/HKWBCCG/posts/pfbid0FqxJ7z9RyjLkfQDq5tLSjVCcgdaWM1ZNQDqcraMo98hn4p9hRQn9z8Bb2udMM9kol
 
@@ -38,3 +39,4 @@ https://photos.app.goo.gl/XSHtpaX6tPithYhA8
 - 壓花玻璃 https://www.facebook.com/GooddoFans/posts/pfbid0nePWEpe3PjghFRQcrgwKRaGvyMnTMmBRGqR9sFsPzWRqHtjEDJnVTSnvyYhza4Vbl
 - 待確認 https://www.facebook.com/share/p/1GF8gvhy5zXAiJ1i/
 - 待確認 https://photos.app.goo.gl/UyCQxvbYayC7ny4m8
+- 待確認 https://m.facebook.com/story.php?story_fbid=pfbid02KMUBzKK6HFHXWLJkzaCZ88nj9j8Gguaf4kVo7VE8A9rfoDEKV6uj4JWDzjECbRDdl&id=680154561&mibextid=WC7FNe
