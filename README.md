@@ -2,6 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [cofacts](tags/cofacts.md) | 434 | 2024-03-23T23:16:32+08:00 |
+| [meeting note](tags/meeting%20note.md) | 259 | 2024-03-23T23:16:32+08:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 7145 | 2024-03-23T22:05:38+08:00 |
 | [AI](tags/AI.md) | 23 | 2024-03-23T20:30:52+08:00 |
 | [whisper](tags/whisper.md) | 1 | 2024-03-23T20:30:52+08:00 |
@@ -25,8 +27,6 @@
 | [web3](tags/web3.md) | 119 | 2024-03-22T14:01:47+08:00 |
 | [Shoutout](tags/Shoutout.md) | 37 | 2024-03-22T14:01:47+08:00 |
 | [joinplus](tags/joinplus.md) | 1 | 2024-03-22T11:28:32+08:00 |
-| [cofacts](tags/cofacts.md) | 434 | 2024-03-22T09:37:08+08:00 |
-| [meeting note](tags/meeting%20note.md) | 259 | 2024-03-22T09:37:08+08:00 |
 | [logistics](tags/logistics.md) | 3 | 2024-03-21T21:43:06+08:00 |
 | [基建](tags/%E5%9F%BA%E5%BB%BA.md) | 6 | 2024-03-21T21:43:06+08:00 |
 | [基礎建設](tags/%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD.md) | 15 | 2024-03-21T21:43:06+08:00 |

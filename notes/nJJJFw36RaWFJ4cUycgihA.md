@@ -114,26 +114,26 @@ Cofacts 要來到新北市舉辦免費的志工培訓啦，三鐵共構板橋站
 	>
 	> 比鄰敬上
     - [x] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
-	- [ ] 準備 Slido `#cofacts41`
-		- [ ] 放投影片網址
+	- [x] 準備 Slido `#cofacts41`
+		- [x] 放投影片網址
     - [ ] 幫 Netgear 充電
 - 當日準備 / 攜帶
-    - [ ] 樓下用的標語 - orz
+    - [x] 樓下用的標語 - orz
     - [ ] 貼紙 - orz, bil
-    - [ ] 黏土 - orz
-    - [ ] 手板 - bil
+    - [x] 黏土 - orz
+    - [x] 手板 - bil
     - [ ] 一次性杯子 - bil
     - [ ] 延長線
-    - [ ] 編輯小聚的牌子 - orz
+    - [x] 編輯小聚的牌子 - orz
     - [ ] Wifi 機 - mrorz
         - [ ] Netgear 本體
             - [ ] usb type-c 充電線與插座 （已充飽電，無需插座）
             - [ ] 電池
-            - [ ] 4G 天線
+            - [x] 4G 天線
         - [ ] Asus RT-N12
-            - [ ] 電源線
+            - [x] 電源線
             - [ ] 5dBi 天線
-            - [ ] RJ45 線
+            - [x] RJ45 線
 - 13:30 - 場佈
   - [ ] 簽到（問飲料）
   - [ ] 排桌子椅子
@@ -152,7 +152,7 @@ Cofacts 要來到新北市舉辦免費的志工培訓啦，三鐵共構板橋站
     - [ ] Google Chrome tab: [投影片](https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit)
     - [ ] Google Chrome tab: [Bignum](https://cofacts.github.io/community-builder/#/bignum/setup)
     - [ ] Google Chrome tab: [KKTIX](https://cofacts.kktix.cc/events/cofactseditor40)
-    - [ ] Google Chrome tab: [Slido admin](https://admin.sli.do/event/nm76YwhjPaWEMvAgvELMLp/home)
+    - [ ] Google Chrome tab: [Slido admin](https://wall.sli.do/event/8SsE7k5tiiGy1FWA4hYMhi?section=ab7f5336-effb-42cb-9d6a-f4da9324a066)
     - [ ] Google Chrome tab: [Slido](https://wall.sli.do/event/nm76YwhjPaWEMvAgvELMLp?section=1b43b8ac-95c8-4b6a-8b21-1f92464b0c21)
     - [ ] Google Chrome tab: [開場影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs)
     - [ ] BGM
