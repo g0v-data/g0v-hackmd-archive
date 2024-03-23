@@ -46,7 +46,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | --- | --- | --- |
 | 防災避難所全台統整 | Ronny | [全台防災/防空避難所大統整](/UNg_8F3FTuynAwbV7flp-w) |
 | Meshtastic推廣 | Dryden | [共筆](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/https%3A%2F%2Fg0v.hackmd.io%2F0bR8-LvHRMaNaR97YaXpnQ) |
-| 自由填寫 | 自由填寫 | 自由向下新增行列 |
+| SaaS 韌性產品檢測 + 可 selfhost 替代品 | Paul | [SaaS 韌性產品 self-host guide](/9Z2EhRAFQq-jfsoixrwD5A)要整合一下先前的其他文件 [戰時網路](https://g0v.hackmd.io/UkmNKU9AQKC1uDgVddEu-g) 和 [民生網站韌性](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A) |
 | 自由填寫 | 自由填寫 | 自由向下新增行列 |
 | 自由填寫 | 自由填寫 | 自由向下新增行列 |
 
@@ -57,3 +57,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 ## PWA 災前災時應變手冊APP中文目錄
 於[家庭常備物資清單](https://g0v.hackmd.io/@-WxTnhLaRquX4TTPBUh1vw/S1iSbmwha)增列最低營養成份需求
+
+
+## 3D列印的外殼
+T-Beam v1.x case for Meshtastic [免費下載](https://www.printables.com/model/127253-t-beam-case-for-meshtastic-v5/files)

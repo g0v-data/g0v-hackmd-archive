@@ -1,12 +1,18 @@
----
-tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense, 
----
-
 # 重要數位服務韌性檢測
+
+###### tags: digital-resilience, 數位韌性松, DigiResiTh0n
+
+> [License under CC0, No Rights Reserved](https://creativecommons.org/public-domain/cc0/)
+> 
+> [![Colloborate on HackMD](badge.svg)](https://g0v.hackmd.io/@irvin/digital-services-resilience)
+> 
+> [github archive](https://github.com/irvin/digital-service-resilience)
 
 ```
 在天災人禍導致「台灣對外斷網」時，希望能盡量維持正常運作的重要網路服務。
 ```
+
+---
 
 **情境：** 2023年初，馬祖的對外海纜被中國的拖網漁船/挖沙船「意外」挖斷，因而斷網長達數個月。假設此一情境發生在台灣，台灣對外網路骨幹海纜斷了八九成（甚至完全中斷），有哪些服務，是維持*基本生活品質*必要的服務，應在「只有島內網路」的狀態下維持正常運作？
 
@@ -95,8 +101,10 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
         - Timezone     America/Chicago
             
     c. 檢視 Anycast / 地理位置狀態
-        c-1. 假設無 Anycast，則參考該 ip 的地理位置，紀錄到表格上。如位置在島內，則在「是否可及」內打 O，在島外則打 X。
-        c-2. 假設有 Anycast，如果該地理位置不在島內，可檢查「該服務是否是已知有台灣節點者」，如上述範例 hostname 為GCP，對照 [#雲端平台--IaaS--SaaS](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A?both#雲端平台--IaaS--SaaS) 確認其有台灣節點，則在「是否可及」內紀錄 `O`
+
+    c-1. 假設無 Anycast，則參考該 ip 的地理位置，紀錄到表格上。如位置在島內，則在「是否可及」內打 O，在島外則打 X。
+    
+    c-2. 假設有 Anycast，如果該地理位置不在島內，可檢查「該服務是否是已知有台灣節點者」，如上述範例 hostname 為GCP，對照 [#雲端平台--IaaS--SaaS](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A?both#雲端平台--IaaS--SaaS) 確認其有台灣節點，則在「是否可及」內紀錄 `O`
         
     d. 最終以 `X` 與 `?` 的數字評估該網頁的耐受度。以上頁 pchome 產品頁為例，共 2 個 `X` 可評估改善。
 
