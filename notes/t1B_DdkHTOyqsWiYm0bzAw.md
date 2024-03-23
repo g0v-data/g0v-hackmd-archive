@@ -67,8 +67,11 @@ $ (echo; echo 'eval "$(/usr/local/bin/brew shellenv)"') >> /Users/APPLE/.profile
 :::
 
 
-筆記區
-https://goodsnooze.gumroad.com/l/macwhisper
+## 筆記區
+
+20240323 irvin>
+- whisper 裝這個跑就好了，不用 diy 整個 stack https://goodsnooze.gumroad.com/l/macwhisper
+- 上上週末的讀書會紀錄，就是錄音直接跑 whisper，然後叫 gpt 整理文本 https://hackmd.io/t4Q2_0KgSeK55FlL70H2Ew
 
 用於視聽輔具應用情境
 - https://www.facebook.com/share/p/T5MZzioixSQcfwZ2/
