@@ -53,3 +53,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 ## 備用社群網站
 
 - 政府機關應該要經營 Fediverse 社群網站的帳號
+
+
+## PWA 災前災時應變手冊APP中文目錄
+於[家庭常備物資清單](https://g0v.hackmd.io/@-WxTnhLaRquX4TTPBUh1vw/S1iSbmwha)增列最低營養成份需求
