@@ -136,11 +136,11 @@ Cofacts 要來到新北市舉辦免費的志工培訓啦，三鐵共構板橋站
             - [x] RJ45 線
 - 13:30 - 場佈
   - [ ] 簽到（問飲料）
-  - [ ] 排桌子椅子
-  - [ ] 麥克風
+  - [x] 排桌子椅子
+  - [x] 麥克風
   - [ ] 延長線佈置
   - [ ] 門口黏引導牌
-  - [ ] Slido - 白板寫 slido room number `#cofacts41`
+  - [x] Slido - 白板寫 slido room number `#cofacts41`
   - [ ] WIFI
       - [ ] 佈機x2
       - [ ] 連結 netgear 與 asus WAN port
