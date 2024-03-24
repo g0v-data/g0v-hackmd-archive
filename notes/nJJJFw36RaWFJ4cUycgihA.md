@@ -125,14 +125,14 @@ Cofacts 要來到新北市舉辦免費的志工培訓啦，三鐵共構板橋站
     - [ ] 一次性杯子 - bil
     - [ ] 延長線
     - [x] 編輯小聚的牌子 - orz
-    - [ ] Wifi 機 - mrorz
-        - [ ] Netgear 本體
-            - [ ] usb type-c 充電線與插座 （已充飽電，無需插座）
-            - [ ] 電池
+    - [x] Wifi 機 - mrorz
+        - [x] Netgear 本體
+            - [x] usb type-c 充電線與插座 （已充飽電，無需插座）
+            - [x] 電池
             - [x] 4G 天線
-        - [ ] Asus RT-N12
+        - [x] Asus RT-N12
             - [x] 電源線
-            - [ ] 5dBi 天線
+            - [x] 5dBi 天線
             - [x] RJ45 線
 - 13:30 - 場佈
   - [ ] 簽到（問飲料）
