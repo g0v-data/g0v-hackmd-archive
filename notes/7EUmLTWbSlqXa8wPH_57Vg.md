@@ -66,13 +66,51 @@ Catch請假沒上
 #  分頁篩選、排序、篩選
 
 
+* 這是套件
 為查詢資料庫的結果加入分頁
- ASP.NET MVC = PagedList.Mvc
- ASP.NET Core MVC = x.PagedList.Mvc.Core
+ -ASP.NET MVC = PagedList.Mvc
+ -ASP.NET Core MVC = x.PagedList.Mvc.Core
 
 
-
-# 編輯新table
 
 async非同步
 要限制xx在Task裡面
+
+
+---
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_af6961ce9e32ad6cdfc2631103ff1fd2.png)
+
+* 要讀取JSON檔
+可先使用async Task<JsonResult>
+return  Json 來轉換目標內容
+
+
+在index裡面讀取json檔內容顯示
+寫在script裡面
+
+
+---
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b978d03a629d6311646380e0b72f1567.png)
+
+* ajax
+type使用GET讀取
+URL 找到Products裡面的IndexJson
+使用function處理資料取得
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_10fe25a32f3d542e97a678a57ffead83.png)
+
+
+
+* columns
+讀取欄位,名稱要一樣
+因為是讀取內容,所以是陣列
+
+
+
+
+---
+
+
+# 

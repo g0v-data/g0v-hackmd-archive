@@ -11,6 +11,9 @@ tags: edu
 
 ---
 
+課程大綱
+https://newdoc.nccu.edu.tw/teaschm/1122/schmPrv.jsp-yy=112&smt=2&num=206057&gop=00&s=1.html
+
 ## ⭐ 講座分享：「數位解方＋公私協力」政策措施案例分享 
 
 ### chewei: Introduction of civic tech project combining spatial issues with crowdsourcing model
@@ -101,6 +104,12 @@ https://g0v.hackmd.io/7ipCcQRWSuifqjH2SfXy2w?view
 ### 其他參考：用 SDGs 標籤架構來找 g0v 專案
 
 - 逛逛專案 https://sheet2site.com/api/v3/index.php?key=1Qm1u2kRpqEtWAHyQJWMFf0NKPx0HMOhb8uBDbLfUKoM
+
+### 其他參考：「公私協力」是理想也是挑戰，跨部門協作辛酸史大公開 講座活動紀錄
+
+- 講座日期：20220322 
+- 簡報與影片：https://nettuesday.tw/events/2022/03/1142
+- 文字側記：https://hackmd.io/@2022apsis/pre-summit/https%3A%2F%2Fhackmd.io%2F%402022apsis%2Fpre-summit-15
 
 ---
 :::warning
