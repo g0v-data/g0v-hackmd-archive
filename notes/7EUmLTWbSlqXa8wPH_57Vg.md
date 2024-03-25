@@ -1,11 +1,20 @@
-## 3/25 MVC
+# MVC
 
 
-Catch請假沒上
+---
+
+# 3/25
+
+早上講Catch請假沒上
 
 
+
+
+---
+
+# 開始講Partial
 # 引用northwind資料庫建立引用流程
-
+自己做
 
 *_Layout
 
@@ -25,13 +34,14 @@ Catch請假沒上
  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_96a8aebeb5b48cf87c975e69f66207eb.png)
 
  不要在這邊作業
- 
+ *productName要刪掉,這邊要空的
  
  
  要建立一個新的
  使用
    [ModelMetadataType(typeof(ProductMatadata))]
  後找他的燈泡新增一個新的ProductMatadata檔
+ 新的ProductMatadata檔會在同一個資料夾
  
  在ProductMatadata中進行操作
  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ec5435cd8a4f87b3153fe53386d4b08d.png)
@@ -49,7 +59,9 @@ Catch請假沒上
 
 
  [DisplayFormat(DataFormatString ="{0:C0}")] - 
- {0:C0} 0 = 取第一位數值 , C0 為取小數點後第0位 , 可以打C就給系統自己判斷 
+ {0:C0} - 0 = 取第一位數值 , C0 為取小數點後第0位 , 可以打C就給系統自己判斷 
+ 
+ *CN 為取小數點後第N位
  
  [Display(Name ="商品價格")]
  public decimal? UnitPrice { get; set; }
@@ -66,15 +78,28 @@ Catch請假沒上
 #  分頁篩選、排序、篩選
 
 
-* 這是套件
+* 這是 x.PagedList 套件
 為查詢資料庫的結果加入分頁
  -ASP.NET MVC = PagedList.Mvc
  -ASP.NET Core MVC = x.PagedList.Mvc.Core
 
 
 
-async非同步
-要限制xx在Task裡面
+
+---
+
+async非同步 and Task
+
+講解網址
+1. https://www.develop-note.com/blog/2022/02/14/asp-net-core-asynchronous/
+1. https://learn.microsoft.com/zh-tw/dotnet/csharp/asynchronous-programming/
+
+這邊有一些async非同步的GPT回應
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b37ee3ac522d2b4d0d2e942caf33bac9.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9e8b6faee63821f0590a3f85d3760e0b.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_83e899b783ef8ee4cf2d756bb6101339.png)
 
 
 ---
