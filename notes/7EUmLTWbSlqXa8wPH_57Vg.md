@@ -1,7 +1,7 @@
 # ---MVC---
 
 
-3/25
+3/25 MVC -上
 Catch請假沒上
 
 
@@ -17,3 +17,8 @@ Catch請假沒上
 這放在頁尾 調整Scripts
 
         @await RenderSectionAsync("Scripts", required: false)
+        
+        
+3/25 MVC -下
+    
+    p
