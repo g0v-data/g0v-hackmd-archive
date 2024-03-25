@@ -29,7 +29,7 @@ A secure variant of HTTP, known as [HTTPS](https://en.wikipedia.org/wiki/HTTPS) 
 Additional data transmitted with HTTP requests and responses are known as HTTP [headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers). Headers include information about the request or response's metadata, including the type of content, encoding, cookies, and caching instructions.
 
 ### What is the significance of HTTP status codes?
-The success or failure of an HTTP request is indicated by HTTP [status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status). Typical status codes that indicate the result of the request are 200 (OK), 404 (Not Found), 500 (Internal Server Error), and [others](https://en.m.wikipedia.org/wiki/List_of_HTTP_status_codes).
+The success or failure of an HTTP request is indicated by HTTP [status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status). Typical status codes that indicate the result of the request are [200](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200) (OK), [404](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404) (Not Found), [500](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500) (Internal Server Error), and [others](https://en.m.wikipedia.org/wiki/List_of_HTTP_status_codes).
 
 ### How does HTTP caching work?
 Clients can locally store copies of web resources to lower server load and latency thanks to HTTP caching. The length of time a resource can be cached and the circumstances under which it needs to be revalidated with the server are indicated by caching directives in HTTP headers.

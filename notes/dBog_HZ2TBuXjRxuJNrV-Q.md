@@ -8,7 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- 線上出席：orz,bil, 4000, nonumpa
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -36,6 +36,16 @@ GA: UA-98468513-3
 
 ### :eye: Under review
 - https://github.com/cofacts/collab-server
+
+## CCPRIP
+### [Op] Transcript spam
+> nonumpa
+> https://g0v.hackmd.io/vKCvrqSQTlm7GEx9MAXGaw?view#op-Transcript-spam-處理
+> 
+
+https://github.com/cofacts/rumors-api/pull/335
+- Question: why implement as plugin; why not just implement in `onStoreDocument`?
+
 
 ## 謠言惑眾獎
 
@@ -79,3 +89,5 @@ GA: UA-98468513-3
     - 但這次 `echo 1 > /proc/sys/vm/drop_caches` 沒用
 - 21:42 使用 `docker-compose restart db`
     - 指令要過數十秒才生效，但的確有執行
+- TODO:
+    - 想不到還能做啥。

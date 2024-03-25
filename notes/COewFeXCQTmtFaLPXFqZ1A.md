@@ -8,6 +8,9 @@ tags: asia, Thai, GIS
 [TOC]
 :::
 
+# 越南
+
+https://www.facebook.com/rtivietnam
 
 # Thai ภาษาไทย
 
@@ -79,6 +82,16 @@ Dust Boy
 
 2024.01 臺大工學院訪問清邁大學工程學院
 https://www.facebook.com/permalink.php?story_fbid=pfbid0WSnWvQfiTm2gPi95FD8xnAHWK6zud1TFJcQxNGDofVK2TLLh4zNmEcfkQ6EkYyRYl&id=100005289243088
+
+
+# Nepali नेपाली
+
+Birendra Open Source Club
+https://www.facebook.com/share/xdrW5MdW4dtrxtMK/
+Discord https://discord.com/invite/3FfT5kXFkY
+
+TMUSO 北醫大海外醫療服務團
+https://www.facebook.com/story.php?story_fbid=pfbid02VCGahrGJS3zdmosjxhXSXJmZ8vRyFTx7NLuHqqZFohcyapTxF6qwo8ATCCrLUg6Ul&id=100064690928605
 
 # China
 
