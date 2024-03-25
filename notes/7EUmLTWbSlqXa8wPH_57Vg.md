@@ -20,5 +20,5 @@ Catch請假沒上
         
         
 3/25 MVC -下
+    partial 資料引用調整
     
-    p
