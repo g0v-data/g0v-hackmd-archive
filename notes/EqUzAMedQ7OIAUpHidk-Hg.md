@@ -37,6 +37,7 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
     - 中央管河川區域 RIVREGLN，面狀資料 + 中央管排水設施範圍REGDAREA，面狀資料
         - 下載網址：https://gic.wra.gov.tw/Gis/Gic/API/Google/Index.aspx
         - [線上瀏覽地圖](https://thunbergii.app.carto.com/map/23a9e97b-63fc-49ca-a0c0-9f1164793c7b)
+        - 可能要改用 umap 來顯示資料? 
 - 需要找「縣市管河川區域」
     - 找 !
     - 有縣市 https://gis.ardswc.gov.tw/

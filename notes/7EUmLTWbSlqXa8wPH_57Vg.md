@@ -98,7 +98,7 @@ return  Json 來轉換目標內容
 type使用GET讀取
 URL 找到Products裡面的IndexJson
 使用function處理資料取得
-
+*function裡面用的是jQuery
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_10fe25a32f3d542e97a678a57ffead83.png)
 
 
@@ -113,4 +113,22 @@ URL 找到Products裡面的IndexJson
 ---
 
 
-# 
+# 顯示圖形資料庫
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_edd279e64c85a9d74148b1a5e85a69be.png)
+* 導入一個資料庫
+先加入控制器
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aa18b10c6cfbf3a185758dc1e5efada7.png)
+有資料庫就第二個
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_083ad33594e9d11d57d6ff8dc955e22a.png)
+選擇自己要建立的資料庫
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3d0c15121823a33ad4927bc4cf4b5f2e.png)
+
+到CategoriesController
+做一個
+把Categories物件轉成圖片的
+物件
