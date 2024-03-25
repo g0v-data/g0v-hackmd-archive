@@ -1,5 +1,5 @@
 # Battle of the Protocols: HTTP/1.1 vs HTTP/2 vs HTTP/3
-The digital environment we live in today has been greatly influenced by the development of web protocols. The most notable developments are [HTTP/1.1](https://www.rfc-editor.org/rfc/rfc2616), HTTP/2, and HTTP/3, which each mark a turning point in the effort to achieve faster, more effective, and more secure web communication.
+The digital environment we live in today has been greatly influenced by the development of web protocols. The most notable developments are [HTTP/1.1](https://www.rfc-editor.org/rfc/rfc2616),[ HTTP/2](https://datatracker.ietf.org/doc/html/rfc9113), and [HTTP/3](https://datatracker.ietf.org/doc/html/rfc9114), which each mark a turning point in the effort to achieve faster, more effective, and more secure web communication.
 
 We travel through the "Battle of the Protocols" in this article, contrasting HTTP/1.1, HTTP/2, and HTTP/3 to learn about their strengths and limitations. We examine the development of web protocols and their influence on the contemporary internet user experience, starting with the fundamental ideas of HTTP/1.1 and moving on to the ground-breaking inventions of HTTP/2 and HTTP/3.
 
@@ -9,7 +9,7 @@ Before we go further to dissect the different HTTP protocols, let's provide answ
 Here are some frequently asked questions about the HTTP protocol:
 
 ### What is a Protocol?
-A protocol is a collection of guidelines that control the flow of data back and forth between systems or devices. It makes it possible for efficient communication across networks by defining the format, organization, and flow of messages that are exchanged.
+A [protocol](https://en.wikipedia.org/wiki/Communication_protocol) is a collection of guidelines that control the flow of data back and forth between systems or devices. It makes it possible for efficient communication across networks by defining the format, organization, and flow of messages that are exchanged.
 
 The purpose and intricacy of protocols differ, ranging from basic email protocols to intricate web browsing protocols. In the end, protocols serve as the cornerstone of contemporary digital communication, enabling smooth online engagement.
 
@@ -20,7 +20,7 @@ Hypertext Transfer Protocol is referred to as [HTTP](https://httpwg.org/specs/).
 HTTP works on a client-server architecture, in which web browsers and other clients send requests for resources to servers, who then provide the desired data. The stateless exchange of requests and answers makes each transaction independent of earlier exchanges.
 
 ### What are the different methods in HTTP?
-The action to be taken on a resource is specified by one of the several verbs, or methods, defined by HTTP. GET (retrieve data), POST (submit data), PUT (update data), DELETE (delete data), and other [methods](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/HTTP-methods) are frequently used.
+The action to be taken on a resource is specified by one of the several verbs, or methods, defined by HTTP.[GET](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET) (retrieve data), [POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST) (submit data), [PUT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT) (update data), [DELETE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE) (delete data), and other [methods](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/HTTP-methods) are frequently used.
 
 ### What is the difference between HTTP and HTTPS?
 A secure variant of HTTP, known as [HTTPS](https://en.wikipedia.org/wiki/HTTPS) (Hypertext Transfer Protocol Secure), encrypts data while it is transferred between clients and servers. For secure communication, including online banking and e-commerce, HTTPS is frequently utilized.
@@ -34,10 +34,8 @@ The success or failure of an HTTP request is indicated by HTTP [status codes](ht
 ### How does HTTP caching work?
 Clients can locally store copies of web resources to lower server load and latency thanks to HTTP caching. The length of time a resource can be cached and the circumstances under which it needs to be revalidated with the server are indicated by caching directives in HTTP headers.
 
- more about the ongoing development of web technologies and their influence on the contemporary digital environment by looking at these protocols.
-
 ## HTTP/1: The Foundation
-Operating over [Transmission Control Protocol](https://www.techtarget.com/searchnetworking/definition/TCP-IP) (TCP), HTTP/1 was a major milestone in the development of web protocols, published in 1996. Because it relied on distinct TCP connections for every request, it was inefficient and resulted in higher latency and worse performance, particularly as web pages became more complicated. 
+Operating over [Transmission Control Protocol (TCP)](https://www.techtarget.com/searchnetworking/definition/TCP-IP), [HTTP/1](https://www.w3.org/Protocols/HTTP/1.0/spec) was a major milestone in the development of web protocols, published in 1996. Because it relied on distinct TCP connections for every request, it was inefficient and resulted in higher [latency](https://developer.mozilla.org/en-US/docs/Web/Performance/Understanding_latency) and worse performance, particularly as web pages became more complicated. 
 
 The restricted amount of concurrent connections per server led to scalability problems. Afterward, HTTP was redesigned with the introduction of HTTP/1.1 to get around these restrictions.
 
@@ -67,7 +65,7 @@ Because HTTP/1.1 lacks internal authentication and encryption, it is vulnerable 
 
 Also, because HTTP/1.1 is sequential, it still has considerable latency even with persistent connections, which makes resource retrieval inefficient.
 
-Finally, HTTP/1.1's limited multiplexing capabilities result in less efficient use of resources, particularly when several requests are being sent at once.
+Finally, HTTP/1.1's limited [multiplexing](https://en.m.wikipedia.org/wiki/Multiplexing) capabilities result in less efficient use of resources, particularly when several requests are being sent at once.
 
 
 ## HTTP/2: The Transition
