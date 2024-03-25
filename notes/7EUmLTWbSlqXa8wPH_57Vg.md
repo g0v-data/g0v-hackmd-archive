@@ -69,3 +69,10 @@ Catch請假沒上
 為查詢資料庫的結果加入分頁
  ASP.NET MVC = PagedList.Mvc
  ASP.NET Core MVC = x.PagedList.Mvc.Core
+
+
+
+# 編輯新table
+
+async非同步
+要限制xx在Task裡面

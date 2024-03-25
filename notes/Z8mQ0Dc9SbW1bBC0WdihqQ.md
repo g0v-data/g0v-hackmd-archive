@@ -43,20 +43,27 @@ tags: edu
     - https://wenshanoasis.wixsite.com/mysite/professional
     - https://issuu.com/wenshanoasis/docs/unlimited_cities_wenshan____
 
+---
 
 ## ⚙️「如何建構專案？」參考素材 
 
 ### Crowdsourcing-oriented Project Template<br>群眾外包導向的提案模板
 https://g0v.hackmd.io/7ipCcQRWSuifqjH2SfXy2w?view
 
-A. Project Core Description 📢
+:::info
+#### A. Project Core Description 📢
+:::
+
 - A-1. Project Name
 - A-2. Reason (WHY)
 - A-3. Problem-solving Approach (HOW)
 - A-4. Target Users (WHO)
 - A-5. Project Goal 😃
 
-B. Please explain the data-driven approach 📈
+:::info
+#### B. Please explain the data-driven approach 📈
+:::
+
 - B-1. How do you implement a data-driven approach?
     - What existing data sources are you using?
     - If adopting a crowdsourcing model, what kind of crowdsourced data / opinion do contributors provide?
@@ -65,7 +72,10 @@ B. Please explain the data-driven approach 📈
 - B-2. Based on the above content, please create an information flow diagram for the project 🌈
 - B-3. Please describe the technical tools / solutions used in the project
 
-C. Please assess the implementation challenges and proposed solutions. 💪
+:::info
+#### C. Please assess the implementation challenges and proposed solutions. 💪
+:::
+
 - C-1. What roles of collaborators are currently expected to be recruited?
 - C-2. What difficulties am I currently facing?
 - C-3. What are the milestone goals?
