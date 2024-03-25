@@ -47,6 +47,10 @@ This is a nominee of [4th sch001 project incubation competition](https://g0v.hac
       - 可以看一下上述兩間公司的產品，避免重工
 
 ## references
+- [NGO 推進器](https://medium.twngo.xyz/about)
+    Responsible/secure digital info and resource for NGOs, from Nov 2016 to Oct 2019. See you again soon 協助找尋非政府組織全方位的數位科技與社運策略。
+- [Privacytool.twnog.xyz](https://privacytools.twngo.xyz/about/)
+    - 提供一些知識與工具以保護個人隱私抵抗全球大規模監控，並推動持相近隱私關切的個人，一同參與社群交流討論，學習如何保護個人網路資料安全。隱路隱私工具為本組織的核心組成，透過它的研究向社群推薦各式軟體與服務方案。
 - [「第一次當理監事就上手」by 李利嘎](https://www.facebook.com/story.php?story_fbid=7616656088348562&id=100000127407290)
 - [從零開始申請協會](https://g0v.hackmd.io/zf94oEUiSwmMqOPOPuEDpQ?view)
 - [社團法人（協會）成立流程(2020)](https://docs.google.com/presentation/d/1gSHYZqnPGgYa7CL7x84un8OyoS1YDNHcWjEGE_zydBs/edit?fbclid=IwAR3xjh9lVXAXitYosrVIEokGMp3A8OKiN0qbAcv-Kys1xoycVz8kEgb21LI#slide=id.ga8ad423527_0_247)
