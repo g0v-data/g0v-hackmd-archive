@@ -53,7 +53,7 @@ MIT
 
 ### 專案目前狀態
 
-？
+個人維護專案，緩慢重構升級並簡化架構，無新功能開發
 
 ## 徵求協作者
 
@@ -92,21 +92,15 @@ MIT
 
 ### 實作細節
 
-- backend：node.js(koa、express、LiveScript)
-- frontend：bootstrap、angularjs、c3js
-- database：mongodb
+~~- backend：node.js(koa、express、LiveScript)~~
+~~- frontend：bootstrap、angularjs、c3js~~
+- web：nextjs 改寫中
+- database：mongodb/clickhouse
 - cache：redis
 
 ### issue
 
-- mongodb 的全文檢索沒有支援中文，目前搜尋時好時壞
-- web 用 koa 寫 node 要加 --harmony 才能跑，api 用 LiveScript 配 express 寫
-- 目前 server.ls 跟 web/index.js 分兩個 port 要自己用 proxy 串起來才會動（囧）
-    - 建一個 domain
-    - web 介面要接到 domain/
-    - api 要 proxy 到 domain/api
-- 專案待整理成適合協作…
-
+- 資料來源轉移，改為直接爬新版網站，新舊資料不完整
 ## 成果展示
 
 [https://pcc.mlwmlw.org](https://pcc.mlwmlw.org)
@@ -114,7 +108,7 @@ MIT
 - 各月廠商得標金額與數量排行榜 [http://pcc.mlwmlw.org/rank/merchant](http://pcc.mlwmlw.org/rank/merchant)
 - 當月專案招標金額排行 [http://pcc.mlwmlw.org/rank/tender](http://pcc.mlwmlw.org/rank/tender)
 - 廠商列表 [http://pcc.mlwmlw.org/merchants](http://pcc.mlwmlw.org/merchants)
-- 機構列表 [http://pcc.mlwmlw.org/unit](http://pcc.mlwmlw.org/unit)
+- 機構列表 [http://pcc.mlwmlw.org/unit](http://pcc.mlwmlw.org/units)
 - 招標 [http://pcc.mlwmlw.org/date/tender](http://pcc.mlwmlw.org/date/tender)
 - 決標 [http://pcc.mlwmlw.org/date/award](http://pcc.mlwmlw.org/date/award)
 - 搜尋 [http://pcc.mlwmlw.org/search/懷孕](http://pcc.mlwmlw.org/search/懷孕)
