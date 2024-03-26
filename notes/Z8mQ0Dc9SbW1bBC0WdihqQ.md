@@ -111,6 +111,10 @@ https://g0v.hackmd.io/7ipCcQRWSuifqjH2SfXy2w?view
 - 簡報與影片：https://nettuesday.tw/events/2022/03/1142
 - 文字側記：https://hackmd.io/@2022apsis/pre-summit/https%3A%2F%2Fhackmd.io%2F%402022apsis%2Fpre-summit-15
 
+### 其他參考：歷年政府黑客松活動清單 / 各項議題與主題 (持續整理中)
+
+- 文件工作網址 https://g0v.hackmd.io/gJfzexShS7OHAOBBy5rTJw
+
 ---
 :::warning
 目錄
