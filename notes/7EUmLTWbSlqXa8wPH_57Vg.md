@@ -157,3 +157,89 @@ URL 找到Products裡面的IndexJson
 做一個
 把Categories物件轉成圖片的
 物件
+
+
+# 3/26
+
+
+---
+# 做局部顯示
+
+示範先從detail引用圖片
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_54dbfd3ca259d2799bde139dd7327fdd.png)
+
+修改照片欄位
+ 改一個img格子
+  <img src="@Url.Action("GetPicture","Categories",new {id=Model.CategoryId})" title="@Model.CategoryName" style="height:240px;width:320px"/>
+  
+  @是 伺服器端 - c#語法??(待解釋)
+  "@Url.Action("GetPicture","Categories",new {id=Model.CategoryId})"
+  用Url.Action,到Categories裡面拿GetPicture函式
+  new一個新物件{id=Model.CategoryId}
+  id可以自己取
+  找Model.CategoryId的東西
+  
+  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_60b033e78eb0772712c8b9729d360a76.png)
+
+
+---
+
+  
+  
+  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e99a09c38e88a003f9e57d029246c37f.png)
+
+
+要使用局部檢視
+選這個
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1c624da017c8ca87b6ebafdb0a03fc54.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_97d52889fc99250c326044ab2acafc87.png)
+
+要做局部顯示
+這不是完整的檢視
+名稱前面加"_"做標記
+局部檢視要打勾
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_94143676e6977312e40e8d8c06262bbc.png)
+
+
+
+* 自己加入模型
+@model Category
+
+* 貼上剛剛測試的img格子
+    <img src="@Url.Action("GetPicture","Categories",new {id=Model.CategoryId})" title="@Model.CategoryName" style="height:240px;width:320px" />
+    
+    
+
+* 再做一個沒有圖片的顯示
+    先在wwwroot裡面做一個資料夾叫做images
+    找一張 noimage 圖片顯示
+    在這個檢視做引用
+    <img src="@Url.Content("~/images/NoImage.jpg")" title="NoImage" style="height:240px;width:320px" />
+    
+* 路徑要注意修改
+    ~/images/NoImage.jpg
+    
+    ~是根目錄
+    再從根目錄(就是wwwroot)往下找
+
+    大小顯示基本上要調整跟原本顯示一樣
+---
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6c6541468ffd95aa518b361f85912178.png)    
+
+    
+再回detail做引用這個_ShowPicturePartial
+
+
+---
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aa0b7dafee83c2e5933962812b287881.png)
+這樣是引用成功
+
+
+
+
