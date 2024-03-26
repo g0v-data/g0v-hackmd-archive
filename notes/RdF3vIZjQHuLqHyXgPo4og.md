@@ -42,3 +42,26 @@ https://discord.gg/4C777u7Pgh
 ## Reference
 
 ## Meet開會文字頻道
+你
+晚上8:45
+那看來真的要做 AI 的產圖了！
+個人化的梗圖
+Stanley Leo
+晚上8:48
+https://discord.gg/4C777u7Pgh
+厭學者引路協會的Discord
+你
+晚上8:57
+訪綱可以依照情況調整
+你
+晚上9:18
+我先上個廁所
+你
+晚上9:25
+我要進辦公室
+Lucky Chen
+晚上9:43
+https://g0v-jothon.kktix.cc/events/infrath24n
+Kevin Wu
+晚上9:44
+好～
