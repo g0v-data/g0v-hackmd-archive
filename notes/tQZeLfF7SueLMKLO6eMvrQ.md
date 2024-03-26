@@ -68,7 +68,7 @@ tags: Rentea
      2. 台灣落地的範本、房東溝通
    - 想徵求的人：
      - 看得完內政部公版合約、[第一間房子承租過程與合約](https://g0v.hackmd.io/@ddio/corent/https%3A%2F%2Fg0v.hackmd.io%2FMGNf0tbHQNSdM6w0CclJrA)，並對設計合約有興趣的人
-   - [優先承租條款](https://g0v.hackmd.io/LhOfHvjLRy-GdjJSXfhbXg)
+   - [國內外相關法規調查](https://g0v.hackmd.io/LhOfHvjLRy-GdjJSXfhbXg)
 
 
 

@@ -31,4 +31,6 @@ title: 租出育兒宅 - 納入育兒考量的租屋空間、法律、稅務規�
 
 ## 合約坑
 
+- [國內外相關法規調查](https://g0v.hackmd.io/LhOfHvjLRy-GdjJSXfhbXg)
+
 {%hackmd 1LO5rpavTiK4_cFrTouudg %}
