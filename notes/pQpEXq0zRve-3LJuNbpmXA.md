@@ -33,20 +33,6 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 - [2024 第三次網路治理讀書會共同筆記](/sTKLPn-ISb6cj4UccNIWIA)
     - 本次讀書會導讀人：[Kuo-Wei Wu（臺灣網路治理論壇 TWIGF 理事長）](https://www.facebook.com/kuoweiwu/)
 
-### 2024 第二次讀書會：[BYLAWS FOR ICANN](https://www.icann.org/resources/pages/governance/bylaws-en) ARTICLE 1 to ARTICLE 4
-
-:::warning
-- 本次讀書會時間於 2024/2/18 Sun. 13:30 ~ 15:30 UTC+8，地點於[台大社科院](https://maps.app.goo.gl/2P7waKeeyi7n2pv26) 631 會議室（近捷運科技大樓站，台大後門），**由於週日社科院有門禁，需要請大家到社科院圖書館一樓門口集合後統一帶入場，請夥伴們盡量於 13:00 - 13:30 時段左右抵達社科院圖書館門口，抵達後如果沒有看到帶隊夥伴，請以 [Facebook Messenger 私訊 Paul](https://fb.com/paulpengtw/) 通知**
-- 請參與者在讀書會前完整閱讀 「[BYLAWS FOR ICANN](https://www.icann.org/resources/pages/governance/bylaws-en) ARTICLE 1 to ARTICLE 4」，以利於讀書會進行討論。
-- 報名請於 [此貼文下方](https://www.facebook.com/groups/twigf/posts/3753597471550227/) 留言。若不願意使用臉書，請直接私訊發文者 或寄信至 `internet.governance.studygroup [ＡＴ] cpeng.me`即可。
-:::
-
-#### Why does it matter?
-- 本次讀書會將圍繞 ICANN 的章程（Bylaws）進行深入閱讀和討論。ICANN 作為全球網路域名（Domain Name）和 IP 地址分配的管理機構，其政策和運作方式直接影響到全球網路的穩定性和安全性。
-- 了解 ICANN 的運作方式，我們將更熟悉全球網路治理的框架，以及台灣在其中可以扮演的角色和面臨的挑戰。
-- [2024 第二次網路治理讀書會共同筆記](/tKsmzPiTRsi0oxsR5DaciQ)
-    - 本次讀書會導讀人：[Kuo-Wei Wu（臺灣網路治理論壇 TWIGF 理事長）](https://www.facebook.com/kuoweiwu/)
-
 ### 尚未安排：[TUNIS AGENDA FOR THE INFORMATION SOCIETY](https://www.itu.int/net/wsis/docs2/tunis/off/6rev1.html)
 #### Why does it matter?
 > 本文件是第二次 WSIS 在突尼西亞開會後的結論，並且正式啟動聯合國 IGF 一系列的論壇活動（2023 年十月在日本京都舉辦）。[name=Kuo Wei Wu]
@@ -56,6 +42,13 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 ### 尚未安排：RIRs Bylaws
 
 ## 已閱讀書單
+### 2024 第二次讀書會：[BYLAWS FOR ICANN](https://www.icann.org/resources/pages/governance/bylaws-en) ARTICLE 1 to ARTICLE 4
+#### Why does it matter?
+- 本次讀書會將圍繞 ICANN 的章程（Bylaws）進行深入閱讀和討論。ICANN 作為全球網路域名（Domain Name）和 IP 地址分配的管理機構，其政策和運作方式直接影響到全球網路的穩定性和安全性。
+- 了解 ICANN 的運作方式，我們將更熟悉全球網路治理的框架，以及台灣在其中可以扮演的角色和面臨的挑戰。
+- [2024 第二次網路治理讀書會共同筆記](/tKsmzPiTRsi0oxsR5DaciQ)
+    - 本次讀書會導讀人：[Kuo-Wei Wu（臺灣網路治理論壇 TWIGF 理事長）](https://www.facebook.com/kuoweiwu/)
+
 ### 2024 第一次讀書會：[Report of the Working Group on Internet Governance](https://www.wgig.org/docs/WGIGREPORT.pdf)
 #### Why does it matter?
 - 由聯合國 WGIG 撰寫的報告。
@@ -70,6 +63,13 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 > 透過這份文件能夠理解當年白宮為何作這樣的決定。為何因此引起全球的關注，聯合國因此開了二次的WSIS（World Summit of Internet Society，一次在2003，一次在2005），接著從2006年開始每年開IGF。而且白宮這個決定引發全球性的「電信自由化」，而且制定了一系列的CDA，尤其是法案 Section 230。[name=Kuo Wei Wu]
 - [2023 第一次網路治理讀書會共同筆記](/oQs810R4TS2JeHOcl-2P_A)
     - 本次讀書會導讀人：[Kuo-Wei Wu（臺灣網路治理論壇 TWIGF 理事長）](https://www.facebook.com/kuoweiwu/)
+
+## 讀書會贊助者
+
+| 日期 | 項目 | 贊助者 | 備註 |
+| -------- | -------- | -------- | -------- |
+| 2024-02-18 Sun. | 2024 第二次讀書會餐飲 | 台大政治學系郭銘傑副教授 | 咖啡、茶飲、點心 | 
+| 2024-02-18 Sun. | 2024 第二次讀書會場地 | 台大政治學系郭銘傑副教授 | 讀書會空間、投影、音控設備 | 
 
 ## 讀書會基金
 

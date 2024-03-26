@@ -297,10 +297,67 @@ URL 找到Products裡面的IndexJson
 
 # 先做更改
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_743ae35df75fead06c591f3f78c0c529.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6f170fc23a7b8be4c29b3c6aebd2106d.png)
 
 
-兩個追蹤中的物件不能有相同的Frign Key
+判斷上傳有沒有上傳檔案
+Request.Form.Files["Picture"] != null
+
+有上傳就跑
+*  using (BinaryReader br = new 
+     BinaryReader(Request.Form.Files["Picture"].OpenReadStream())) //BinaryReader一次性
+ {
+     category.Picture = br.ReadBytes((int)Request.Form.Files["Picture"].Length);
+ }
+ 
+ 解釋在這
+ ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_59ad7224b8942761c014d10a7cc57c0f.png)
+
+ 
+
+
+* 兩個追蹤中的物件不能有相同的Frign Key
 確認可以更改
 
 
+
+
+現在要限制大小
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_14b3dced6de5c46c02ccdd231f67a259.png)
+
+    [RequestFormLimits(MultipartBodyLengthLimit =2048000)]
+    [RequestSizeLimit(2048000)]
+限制大小為4MB
+*單位要用位元組
+
+ -ASP.NET MVC = .NET平台
+ 預設上傳檔案大小限制 4MB
+ 
+ -ASP.NET Core MVC =  .NET Core平台 與 Kestral平台
+ 預設上傳檔案大小限制 約30MB
+ 
+ 
+
+---
+
+去做Creat
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_abf2f3a8c9f3ef94691fbf15f1015750.png)
+enctype跟input加上
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9a35b563daf37fed7ea2e67049e13cad.png)
+上面是edit的
+下面是Creat的
+
+也要修改
+複製過去再刪減
+變數c有關的值
+因為沒有原本的圖片
+
+3/26-早上11:35分左右有除錯講解
+
+
+
+---
+
+檔案上傳的即時顯示

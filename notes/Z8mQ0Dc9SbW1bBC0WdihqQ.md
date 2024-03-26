@@ -4,6 +4,68 @@ tags: edu
 
 # 20240326 政大公共行政系<br>【科技與政府】課程分享
 
+
+活力水專案
+https://docs.google.com/document/d/17zi_rcKL18W9_u3HWWPTmZ-8KVyBn-HJulGtypVCmW0/edit
+
+8r+
+期中報告內容
+題目：8r+
+背景：舊急救難一站通 & 8r+
+嘗試解決什麼問題：讓民眾意識到車禍事故是否即時處理的嚴重性，使提供data的各單位配合度提高
+蒐集什麼資料：民眾對車禍事故的應變方法
+對象：所有用路人
+方法：透過搜集來的資料分析，回饋給團隊
+
+
+街道醫生組
+https://docs.google.com/document/d/1-A6kD_YOlw5nHnomH45vyntG92-Cq36P3YSq-ENHmOY/edit
+
+第五組 低碳建築
+https://docs.google.com/document/d/1kA9Tpr8AYeBtJMiUSLFLHjRhEFsUMXdP6zRinOcF_qs/edit?usp=sharing
+
+守護者聯盟-住警器該如何走入市場
+https://docs.google.com/document/d/1ajuuDKxLdSFTgVa3E72knHajYIlc_CzICVBhc_cpsJo/edit
+
+hybrid：E起共享電動機車
+
+A-1 E起共享電動機車
+
+A-2 2050政府要求0碳排放，燃油汽機車因此停止生產，為配合此必定趨勢，我們期望建立一套電動共享電動機車系統。
+
+A-3
+（1）
+
+A-4
+（1）當社會大眾臨時需要代步工具時，可透過租借形式獲取服務
+（2）使用者付費、實名制使用以確保無人蓄意破壞
+
+A-5
+建立一套完整的共享電動系統、涵蓋全台，並配合智慧微電網確保各站點供電均衡，達到永續發展的目標。
+
+B-1
+
+C-1
+Data、software development
+
+C-2
+成本問題、各地供電發展有異、設置前後可能觸及之法律問題
+
+C-3
+無論是都市或鄉村皆可享受該服務
+
+C-4
+1.日本公共腳踏車
+2.
+
+
+
+
+
+
+
+
+
 :::warning
 目錄
 [TOC]
@@ -45,6 +107,23 @@ https://newdoc.nccu.edu.tw/teaschm/1122/schmPrv.jsp-yy=112&smt=2&num=206057&gop=
 - 分析報告：
     - https://wenshanoasis.wixsite.com/mysite/professional
     - https://issuu.com/wenshanoasis/docs/unlimited_cities_wenshan____
+
+## 資料分析工具介紹　
+
+由 Ronny 分享的資料處理課程：
+- 第一堂：開放資料基本知識（資料資訊差別、好的資料是什麼、為什麼要有好的資料）
+- 第二堂：基本試算表教學（函式、試算表小技巧）
+- 第三堂：常見不合格資料樣態清理法 + Google 表單收集資料
+- 第四堂：將乾淨資料顯示在 Google 我的地圖上
+- 第五堂：用乾淨資料做樞鈕分析可以看到什麼
+- 第六堂：用乾淨資料做 VLOOKUP 可以看到什麼
+- https://ronnywang.substack.com/p/20240313
+
+地理資料工具
+https://g0v.hackmd.io/@chewei/gis/
+
+特定專案補充
+- 文山區公正轉型工作坊輔助資料 https://g0v.hackmd.io/@chewei/carbon-uptake
 
 ---
 
@@ -202,3 +281,5 @@ Chapter 4: 亞洲其他國家公民科技專案與社群現況 Current Status of
 目錄
 [TOC]
 :::
+
+活力水https://docs.google.com/document/d/17zi_rcKL18W9_u3HWWPTmZ-8KVyBn-HJulGtypVCmW0/edit
