@@ -30,3 +30,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 
 ## 活動結束
 - [ ] 感謝大家，請大家不吝批評指教
+
+
+
+網路治理強調資訊的自由流通、共享知識與集體參與。開放文化倡導資訊的透明度和可近用性（accessibility），這正是網路治理討論的核心之一。透過網路治理讀書會，參與者能夠了解並影響那些決定網際網路結構和政策的重要機構，如 ICANN 和 IGF。這種參與和知識共享的精神，與開放文化的理念非常契合，都希望促進一個更加開放、可互通（interoperable）的世界。

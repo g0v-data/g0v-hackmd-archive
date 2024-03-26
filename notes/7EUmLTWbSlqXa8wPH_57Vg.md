@@ -243,3 +243,64 @@ URL 找到Products裡面的IndexJson
 
 
 
+---
+
+
+# 修改Index的Picture欄位
+
+修改前
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d96e1623194d5def9ca361b1051587fa.png)
+
+修改後
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c0e5019a4c07fd938a63c1b1fcca686c.png)
+
+* 要顯示多個圖片要跑foreach
+所以要在<partial name="_ShowPicturePartial" />
+多加一個 model="@item"
+變這樣
+ <partial name="_ShowPicturePartial" model="@item" />
+ 不然他不知道要foreach
+ 
+ 
+ ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2fa6e1ca0a9100fb3aa677cc235b3358.png)
+* 有多張圖片顯示
+測試NoImage有沒有執行
+
+*圖片大小要注意
+
+# 檔案上傳-圖片顯示
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e6234effeb7b13d7a1ab1fbefc276f0a.png)
+要改這兩個
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_18187587420720d39cd9145e9b5ceec4.png)
+要給人家上傳
+*一定要有 enctype="multipart/form-data"  !!!
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0ee3825d01cfaf3a3f3b24ab09bb4e4f.png)
+要有input給人放 
+給人上傳要設定name屬性
+不然上傳不會成功
+東西找不到地方放
+
+
+檔案上傳有兩種
+一種轉byte陣列,儲存
+一種在form裡面上傳,直接存放在wwwroot裡面的資料夾
+
+要預防有人沒上傳圖片
+沒上傳就保留原本的圖片
+
+
+
+# 先做更改
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_743ae35df75fead06c591f3f78c0c529.png)
+
+
+兩個追蹤中的物件不能有相同的Frign Key
+確認可以更改
+
+
