@@ -360,4 +360,52 @@ enctype跟input加上
 
 ---
 
-檔案上傳的即時顯示
+creat檔案上傳
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_930c7ebd9a864b6042ba40faf7ef2abf.png)
+
+對檔案做判斷
+檔案不對就不給按按鈕
+
+
+再做即時顯示
+on就是觸發事件
+
+reader.onload = function (e)登記觸發事件
+有讀取才會跑
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_12f9540486f504577d91a5f08b6d612e.png)
+根據使用者\使用選擇不同讀取出來的值
+
+*readAsArrayBuffer讀檔案取得byte陣列
+*readAsDataURL讀檔案取得url
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4504185ec96e04e745ee4bec71621f50.png)
+
+
+
+$("#imgPreview").attr("src", e.target.result);
+更改id = imgPreview的地方
+把src改成目標的url
+
+$("#imgPreview").attr("title", inputFile.files[0].name);
+更改id = imgPreview的地方
+把title改成目標的name
+
+
+# 改edit的圖片顯示
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_24e01e89fb9b1c2a6c2c5b9d8528ccf3.png)
+先從creat貼過來
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fa09b6b417ca0f308d28685da9b74748.png)
+
+                        $("#imgPreview").attr("src", e.target.result);
+                        $("#imgPreview").attr("title", inputFile.files[0].name);
+                        
+
+改成
+
+                        $("#Picture").prev().attr("src", e.target.result);
+                        $("#Picture").prev().attr("title", inputFile.files[0].name);
+                        
+就差不多了
