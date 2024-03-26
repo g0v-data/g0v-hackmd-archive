@@ -409,3 +409,101 @@ $("#imgPreview").attr("title", inputFile.files[0].name);
                         $("#Picture").prev().attr("title", inputFile.files[0].name);
                         
 就差不多了
+
+
+
+---
+
+    <label asp-for="Picture" class="control-label"></label>
+    =這兩個一樣,因為TagHelper=
+    <label for="Picture" class="control-label"></label>
+
+
+    <input type="file" asp-for="Picture"/>
+    =這兩個一樣,因為TagHelper=
+    <input type="file" id="Picture" name="Picture"/>
+    
+    
+
+---
+
+
+對照兩個地方
+重構function
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4a49bc41b898622efe280e670fc40ed2.png)
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e2f3f55e1974890d4acc9f1db8348058.png)
+
+
+調整與精簡一下
+轉放到js檔裡面
+再引用到 Creat 與 Edit 裡面
+*基礎精簡程式
+
+
+
+
+
+---
+
+重構這段
+          using (BinaryReader br = new
+              BinaryReader(Request.Form.Files["Picture"].OpenReadStream())) //BinaryReader一次性
+          {
+              category.Picture = br.ReadBytes((int)Request.Form.Files["Picture"].Length);
+          }
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_31c7b9b2818be8b748aae908f531e057.png)
+
+
+重構出來
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ff145420b1ad25c1026d7f59cf035960.png)
+
+設定名稱SetPicture
+會新增一個方法
+讓原本的地方引用
+
+再到
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8a414b901e81829ebdcec697cde558c8.png)
+
+替換成SetPicture
+
+
+
+
+---
+
+#  ASP .NET Core MVC身分認證
+
+
+*  Entity Framework (ORM)
+1. Database First
+資料庫-->Scaffold-DbContxt-->模型
+
+1. Model First 
+Entity Framework Core不支援
+
+1. Code First 
+(版本管理)
+類別-->Add Migration-->資料庫
+-----( ↑ Update Database)---
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_074ee22f7ca22ea0a2c9b768b66d8b88.png)
+這是身分認證用的連接
+
+
+
+
+---
+
+Microsoft支援的身分驗證
+-------------
+第一代)ASP .NET Membership(2002~2015)之間
+第二代)ASP .NET Identity(2013~now)
+第三代)ASP .NET Core Identity(.NET Core適用)
+
+
