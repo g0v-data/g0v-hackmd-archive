@@ -12,9 +12,10 @@
 
 ---
 
-# 開始講Partial
-# 引用northwind資料庫建立引用流程
-自己做
+開始講Partial
+----
+ 引用northwind資料庫建立引用流程
+----
 
 
 ---
@@ -30,8 +31,8 @@
         @await RenderSectionAsync("Scripts", required: false)
         
         
-#  partial 資料引用調整
-    
+ partial 資料引用調整
+---- 
  Model與partial相同名稱的檔案
  不能使用同一種class
  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_96a8aebeb5b48cf87c975e69f66207eb.png)
@@ -73,13 +74,14 @@
  
 
  
-#  多語系網站
+多語系網站
+ ----
  影片講解
  自己摸講解檔
 
 
-#  分頁篩選、排序、篩選
-
+分頁篩選、排序、篩選
+----
 
 * 這是 x.PagedList 套件
 為查詢資料庫的結果加入分頁
@@ -92,6 +94,7 @@
 ---
 
 async非同步 and Task
+----
 
 講解網址
 1. https://www.develop-note.com/blog/2022/02/14/asp-net-core-asynchronous/
@@ -141,7 +144,8 @@ URL 找到Products裡面的IndexJson
 ---
 
 
-# 顯示圖形資料庫
+ 顯示圖形資料庫
+----
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_edd279e64c85a9d74148b1a5e85a69be.png)
 * 導入一個資料庫
@@ -166,7 +170,8 @@ URL 找到Products裡面的IndexJson
 
 
 ---
-# 做局部顯示
+做局部顯示
+----
 
 示範先從detail引用圖片
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_54dbfd3ca259d2799bde139dd7327fdd.png)
@@ -175,12 +180,7 @@ URL 找到Products裡面的IndexJson
  改一個img格子
   <img src="@Url.Action("GetPicture","Categories",new {id=Model.CategoryId})" title="@Model.CategoryName" style="height:240px;width:320px"/>
   
-  @是 伺服器端 - c#語法??(待解釋)
-  "@Url.Action("GetPicture","Categories",new {id=Model.CategoryId})"
-  用Url.Action,到Categories裡面拿GetPicture函式
-  new一個新物件{id=Model.CategoryId}
-  id可以自己取
-  找Model.CategoryId的東西
+
   
   ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_60b033e78eb0772712c8b9729d360a76.png)
 
@@ -249,7 +249,8 @@ URL 找到Products裡面的IndexJson
 ---
 
 
-# 修改Index的Picture欄位
+修改Index的Picture欄位
+----
 
 修改前
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d96e1623194d5def9ca361b1051587fa.png)
@@ -271,7 +272,8 @@ URL 找到Products裡面的IndexJson
 
 *圖片大小要注意
 
-# 檔案上傳-圖片顯示
+檔案上傳-圖片顯示
+----
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e6234effeb7b13d7a1ab1fbefc276f0a.png)
 要改這兩個
@@ -298,7 +300,8 @@ URL 找到Products裡面的IndexJson
 
 
 
-# 先做更改
+ 先做更改
+----
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6f170fc23a7b8be4c29b3c6aebd2106d.png)
 
@@ -396,7 +399,10 @@ $("#imgPreview").attr("title", inputFile.files[0].name);
 把title改成目標的name
 
 
-# 改edit的圖片顯示
+
+改edit的圖片顯示
+----
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_24e01e89fb9b1c2a6c2c5b9d8528ccf3.png)
 先從creat貼過來
 
@@ -480,8 +486,9 @@ $("#imgPreview").attr("title", inputFile.files[0].name);
 
 ---
 
-#  ASP .NET Core MVC身分認證
 
+ASP .NET Core MVC身分認證
+----
 
 *  Entity Framework (ORM)
 1. Database First
@@ -504,7 +511,7 @@ Entity Framework Core不支援
 ---
 
 Microsoft支援的身分驗證
--------------
+----------------
 第一代)ASP .NET Membership(2002~2015)之間
 第二代)ASP .NET Identity(2013~now)
 第三代)ASP .NET Core Identity(.NET Core適用)
