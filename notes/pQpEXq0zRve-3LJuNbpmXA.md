@@ -21,10 +21,9 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 ### 2024 第三次讀書會：[BYLAWS FOR ICANN](https://www.icann.org/resources/pages/governance/bylaws-en) ARTICLE 5 to ARTICLE 8
 
 :::warning
-- 本次讀書會時間於 2024/3/31 Sun. 13:30 ~ 15:30 UTC+8，地點確認中，預計會在台北市中心。
+- 本次讀書會時間於 2024/3/31 Sun. 13:30 ~ 15:30 UTC+8，地點在 [台北NPO 聚落（NPO HUB）4F 會議室（100台北市中正區重慶南路三段2號）](https://maps.app.goo.gl/EaHrw8VNmYwAaqXH7)，由於場地有門禁，請夥伴們盡量於 13:00 - 13:30 時段左右抵達，需要請大家到一樓以 [Facebook Messenger 私訊 Paul](https://fb.com/paulpengtw/) 通知或打電話，會盡快幫忙開門。
 - 請參與者在讀書會前完整閱讀 「[BYLAWS FOR ICANN](https://www.icann.org/resources/pages/governance/bylaws-en) ARTICLE 5 to ARTICLE 8」，以利於讀書會進行討論。
-- 報名連結將於 3/26（二）18:00 UTC+8 公布。
-<!-- - 報名請於 [此貼文下方](https://www.facebook.com/groups/twigf/posts/3753597471550227/) 留言。若不願意使用臉書，請直接私訊發文者 或寄信至 `internet.governance.studygroup [ＡＴ] cpeng.me`即可。 -->
+- 報名請於 [此貼文下方](https://www.facebook.com/groups/twigf/posts/3783889125187728) 留言。若不願意使用臉書，請直接私訊發文者 或寄信至 `internet.governance.studygroup [ＡＴ] cpeng.me`即可。
 :::
 
 #### Why does it matter?

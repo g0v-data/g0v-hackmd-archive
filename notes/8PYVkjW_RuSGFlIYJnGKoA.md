@@ -41,6 +41,9 @@ tags: AI, LLM
 產品：Web app- 台灣藥學國考的學習助手調整方向
 以phase1訓練後的LLM模型為基礎，完成web app產品
 
+---
+### 2024/3/26 每週會議結論：
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_08b5ed07c7de5febc4c5fd282bc6ec4f.png)
 
 ---
 ### 2024/3/19 每週會議結論：
