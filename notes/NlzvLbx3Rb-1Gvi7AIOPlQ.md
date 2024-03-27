@@ -186,7 +186,7 @@ However, it can be difficult to pinpoint particular websites that only use HTTP/
 
 * Compatibility and Support: Since HTTP/1.1 is extensively supported and works with almost all web servers, clients, and proxies, it is still a good choice if compatibility with outdated infrastructure or browsers is an issue. But remember that HTTP/2 and HTTP/3 are still compatible with HTTP/1.1, so switching to these more recent protocols should be very easy.
 
-* Security Requirements: If your website or application prioritizes security, you should think about utilizing HTTP/2 or HTTP/3 with TLS (HTTPS). HTTP/2 and HTTP/3 offer more security features and performance enhancements that can improve your site's overall security posture, even though HTTP/1.1 can also be secured with HTTPS.
+* Security Requirements: If your website or application prioritizes security, you should think about utilizing HTTP/2 or HTTP/3 with [TLS](https://docs.openstack.org/security-guide/secure-communication/introduction-to-ssl-and-tls.html)  (HTTPS). HTTP/2 and HTTP/3 offer more security features and performance enhancements that can improve your site's overall security posture, even though HTTP/1.1 can also be secured with HTTPS.
 
 * Mobile-Friendly Applications: QUIC-powered HTTP/3 is a competitive option for mobile-friendly applications where users may frequently transfer between different networks or have restricted bandwidth. It is well-suited for mobile environments due to its rapid connection setup, independent streams, and integrated dependability measures, which improve both performance and user experience.
 
