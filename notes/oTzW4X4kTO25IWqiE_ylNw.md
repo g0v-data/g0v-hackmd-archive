@@ -3,6 +3,10 @@ tags: summmit2024
 ---
 # g0v Summit 2024 社群軌 - 數位人權 – AccessNow
 
+## 簡介
+
+## 形式
+
 ## 講者
 - AccessNow 同仁
 - AccessNow 同仁
