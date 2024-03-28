@@ -13,6 +13,16 @@ Paul (@paulpengtw), Bobby (@bobbyho)
 
 ---
 
+# 補充資料
+- [new safeID／g0v 隱私之夜 2023-03-10](/fCcig9VsSYODPPhdZiWoXg)
+- [new safeID／g0v 個資安全不放假：隱私之夜](/9DeynfGDQ8Wd_sgK35gocQ)
+- [new safeID slide 08-26@g0v hackath57n](https://docs.google.com/presentation/d/1B4py_-fxZrsOeOUX6knMUkc1JGr7I7sh0pOX9JoS0l4/edit)
+- [g0v Summit 2024 雙年會 05/04（六）~ 05/05（日）；4/1 起免費搶票](https://www.facebook.com/g0v.tw/posts/pfbid0q2JCMwuX7Rf87hVcuDtkXPqFiVJUefpGku67ZtkzehPJiETkL2QAWJ2B96nezFfcl)
+- [本專案完整資訊（含 Paul 聯繫方式）](https://g0v.hackmd.io/yZd5nmZWRLqQ2R2kqvcNqg)
+- [申請換號附件](https://drive.google.com/drive/folders/1xemiJr3nAZxBZukjJG4rCfFyI3jvBHrR?usp=sharing)
+
+---
+
 #### Previously on DATA BREACHED
 ##### 今天是內政部戶政資料外洩第 524 天
 

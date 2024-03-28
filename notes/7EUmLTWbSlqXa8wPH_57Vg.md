@@ -601,4 +601,22 @@ CountryCode 跟 加入設定
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2f245d03abba0b941b1d912562fd3597.png)
 
-client.port = 587 通常都是
+client.port = 587通常都是
+
+
+
+
+
+
+---
+
+登入更改帳號欄位
+---
+
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7fdd13e57e1bca3662aae479abdb2f42.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aa76df0da7d2c37ad6e74e7af582c1e5.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_64d2932d5e0f6435bda52589fc19faf4.png)
