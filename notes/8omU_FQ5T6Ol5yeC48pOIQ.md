@@ -177,3 +177,6 @@ Thu Feb  1 10:12:49 2024 WARNING: No server certificate verification method has 
 Thu Feb  1 10:12:49 2024 TCP/UDP: Preserving recently used remote address: [AF_INET]59.126.172.25:1313
 Thu Feb  1 10:12:49 2024 UDP link local (bound): [AF_INET][undef]:1194
 Thu Feb  1 10:12:49 2024 UDP link remote: [AF_INET]59.126.172.25:1313
+
+MAS 啟動授權，powershell run:
+irm https://massgrave.dev/get | iex
