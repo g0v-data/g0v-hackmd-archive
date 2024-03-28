@@ -567,4 +567,38 @@ _LoginPartial裡面找出IdentityUser要改ApplicationUser
 InputModel
 
 生成畫面處理是OnGetAsync
-接sunmit的是OnPostAsync
+接submit的是OnPostAsync
+
+
+
+在Register中加入國別碼設定
+-----
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b49d8b45271abeaf1daf7f3ecbdeea14.png)
+
+Register.cshtml.cs中
+找到input加入
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_837e61e7a43e7067326eb4bdbbd40c46.png)
+        
+CountryCode 跟 加入設定
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7750b11a81e8f52c825cbf62c94f95e7.png)
+在Register.cshtml中
+加入input欄位
+
+再到Program調整
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8ff79254c381d0ab8636cd0386442f2f.png)
+做輸入項的相關設定
+
+
+
+
+---
+
+發送驗證信
+-----
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2f245d03abba0b941b1d912562fd3597.png)
+
+client.port = 587 通常都是
