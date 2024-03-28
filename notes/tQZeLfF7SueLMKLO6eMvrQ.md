@@ -72,7 +72,7 @@ tags: Rentea
      - [國內外相關法規調查](https://g0v.hackmd.io/LhOfHvjLRy-GdjJSXfhbXg)
      - [優先承租權提案](https://g0v.hackmd.io/pAj4GNGXRsG8AwA0zYxFzg)
 4. 房東溝通與專業諮詢紀錄
-
+   1. 2024-03-27 / [房東初步溝通](https://g0v.hackmd.io/kwiK1HWgQCCuDBL-SxffnQ)
 
 ## 任務規劃與參與方式
 

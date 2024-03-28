@@ -34,4 +34,8 @@ title: 租出育兒宅 - 納入育兒考量的租屋空間、法律、稅務規�
 - [國內外相關法規調查](https://g0v.hackmd.io/LhOfHvjLRy-GdjJSXfhbXg)
 - [優先承租權提案](https://g0v.hackmd.io/pAj4GNGXRsG8AwA0zYxFzg)
 
+## 諮詢與溝通紀錄
+
+- [房東初步溝通](https://g0v.hackmd.io/kwiK1HWgQCCuDBL-SxffnQ)
+
 {%hackmd 1LO5rpavTiK4_cFrTouudg %}

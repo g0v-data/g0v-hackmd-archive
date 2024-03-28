@@ -70,7 +70,7 @@ g0v slack #gov-landing-page 頻道
   - ddio
   - Teemo
   - isabelhou
-  - tofu
+  - tofus
   - 揪松 (「揪松團決策委員與職工」名單：https://jothon.g0v.tw/about/)
   - chihao
 
