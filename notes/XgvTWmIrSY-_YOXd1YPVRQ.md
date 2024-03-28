@@ -36,6 +36,11 @@ tags: Rentea
 ## 匈牙利
 - 布達佩斯[Wekerle estate](https://maps.app.goo.gl/7fgHDSWe5o4Lagpw8)
     - 花園都市。
+
+## 波蘭
+- https://www.facebook.com/share/p/5AbEmAToCkDU9FS1/
+
+
 ## 荷蘭
 - 鹿特丹 https://www.facebook.com/share/p/31C9vcpdr9STPrVY/
 ## 新加坡
