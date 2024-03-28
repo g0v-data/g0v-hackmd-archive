@@ -5,17 +5,7 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 目錄
 [TOC]
 :::
-https://it-help.tips/install-openvpn-server-in-windows-server-and-authentication-by-ad-ldap/
-https://p180907:4343/SMB/console/html/cgi/cgiChkMasterPwd.exe
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_45455a164fcda14a227a0df129d0db3e.png)
-
-@reg add ”HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced” /v ”NoNetCrawling” /d ”1” /t REG_DWORD /f
-@net use O: \\dfs-tc.chainlon.net\CY01\22會計部\《會計師查帳》 /u:chainlon\ac99
-
-del f:\2040DB_Backup\pubs.bak /q
-"C:\Proqram Files\Microsoft SQL Server\80\Tools\Binn\sqlcmd.exe" -U sa -P password -Q "BACKUP DATABASE pubs TO DISK='f:\2040DB_Backup\pubs.bak'"
-sqlcmd -U sa -P password -Q "BACKUP DATABASE DB_Name TO DISK = '\Folder\dbBackupname.bak' WITH INIT, SKIP" -o C:\01Backup\Log\dbBackuplog.txt
 #### 常用連結
 7-Zip https://www.7-zip.org/a/7z2301-x64.exe
 Chainlon 01Backup https://www.chainlon.net/1/01Backup.zip
@@ -161,22 +151,7 @@ Services for NFS
 mount -o anon \\NFS_IP\NFS_share
 
 ### 暫存
-Thu Feb  1 10:11:41 2024 WARNING: Compression for receiving enabled. Compression has been used in the past to break encryption. Sent packets are not compressed unless "allow-compression yes" is also set.
-Thu Feb  1 10:11:41 2024 DEPRECATED OPTION: --cipher set to 'AES-256-CBC' but missing in --data-ciphers (AES-256-GCM:AES-128-GCM). Future OpenVPN version will ignore --cipher for cipher negotiations. Add 'AES-256-CBC' to --data-ciphers or change --cipher 'AES-256-CBC' to --data-ciphers-fallback 'AES-256-CBC' to silence this warning.
-Thu Feb  1 10:11:41 2024 OpenVPN 2.5.9 [git:v2.5.9/ea4ce681d9008f27] Windows-MSVC [SSL (OpenSSL)] [LZO] [LZ4] [PKCS11] [AEAD] built on Feb 15 2023
-Thu Feb  1 10:11:41 2024 Windows version 10.0 (Windows 10 or greater) 64bit
-Thu Feb  1 10:11:41 2024 library versions: OpenSSL 1.1.1t  7 Feb 2023, LZO 2.10
-Thu Feb  1 10:11:43 2024 WARNING: No server certificate verification method has been enabled.  See http://openvpn.net/howto.html#mitm for more info.
-Thu Feb  1 10:11:43 2024 TCP/UDP: Preserving recently used remote address: [AF_INET]59.126.172.25:1313
-Thu Feb  1 10:11:43 2024 UDP link local (bound): [AF_INET][undef]:1194
-Thu Feb  1 10:11:43 2024 UDP link remote: [AF_INET]59.126.172.25:1313
-Thu Feb  1 10:12:44 2024 TLS Error: TLS key negotiation failed to occur within 60 seconds (check your network connectivity)
-Thu Feb  1 10:12:44 2024 TLS Error: TLS handshake failed
-Thu Feb  1 10:12:44 2024 SIGUSR1[soft,tls-error] received, process restarting
-Thu Feb  1 10:12:49 2024 WARNING: No server certificate verification method has been enabled.  See http://openvpn.net/howto.html#mitm for more info.
-Thu Feb  1 10:12:49 2024 TCP/UDP: Preserving recently used remote address: [AF_INET]59.126.172.25:1313
-Thu Feb  1 10:12:49 2024 UDP link local (bound): [AF_INET][undef]:1194
-Thu Feb  1 10:12:49 2024 UDP link remote: [AF_INET]59.126.172.25:1313
+
 
 MAS 啟動授權，powershell run:
 irm https://massgrave.dev/get | iex
