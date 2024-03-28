@@ -517,3 +517,54 @@ Microsoft支援的身分驗證
 第三代)ASP .NET Core Identity(.NET Core適用)
 
 
+
+
+---
+
+# 3/28
+CodeFirst
+-----
+Core MVC實作
+-----
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5b2aeda9cd132eecfd93a6640209924f.png)
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d705e5baa22b9290716df49b4f51483e.png)
+在Program這邊改掉
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f803154819e0e0a30f2e57f6eb918d8b.png)
+換成ApplicationUser
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_27d8604e08484af0297c99bb4ea77332.png)
+_LoginPartial裡面找出IdentityUser要改ApplicationUser
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ab6da8fc96c67c020508fd6bc21232a3.png)
+處理紅字部分
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ddf50f14dd4dcab9dd37cfc1f1a0bdf4.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f023a4b440f2af4296ecd2db6d25d831.png)
+找燈泡處理辨識
+生成@using CategoryProducts.Data
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bfa62696ee084acfe6289749f19e8a29.png)
+再放到_ViewImports出處理所有辨識
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a407afb9053129314eeab5706865b777.png)
+方案建置scaddold項目
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ed47bf0673479ab2ca26ba1863b9074a.png)
+上面是VIEW
+裡面是Controllers
+
+InputModel
+
+生成畫面處理是OnGetAsync
+接sunmit的是OnPostAsync
