@@ -4,7 +4,7 @@ tags: summit2024
 # 基調演講講者介紹
 
 ## Hal Seki
-
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_de83e3d175e3dfe94491fd34d1604229.jpg =300x)
 
 Georepublic Japan CEO / HackCamp CEO/ Code for Japan Founder
 
@@ -17,6 +17,8 @@ Also, He has been serving to Kobe city for building an open innovation ecosystem
 - https://www.linkedin.com/in/halsk/
 
 ## Ohyeon KWEON
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_84bcd32cec68eacb598d2a3345a57c16.png =300x)
 
 As the organiser of Code for Korea, Ohyeon has been striving to create a civic hacker network in Korea. He founded Parti, a social cooperative of digital democracy activists, and UFOfactory, a social enterprise that generates creative solutions for change. He has been working in media and community platforms, and in open and civic technology for social innovation, citizen sovereignty, social economy, and open government.
 
