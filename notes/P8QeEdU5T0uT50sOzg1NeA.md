@@ -664,3 +664,21 @@ Opass 教學
 - 已進行第二次報價，若下週一下訂，交期預估會在5/2，下週一再去電詢問能否使用空運或有無急件選項
 
 ### 場佈相關大型輸出
+[場佈送印 - Google 雲端硬碟](https://drive.google.com/drive/folders/1jTVjVxYHJPUQWZ00-RFv7DK_F1byu3U5)
+- 贊助商確定了嗎？LOGO？
+
+
+#### 議程表
+- 參考 2018 設計，目前長這樣：
+    ::: spoiler
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c3b00e9cfaebdf48b6decfed7027e548.png)
+
+    :::
+- 希望可以做成單一版本，讓當天發生的所有議程都能看到，不同場地只要調整凸顯的文字就好
+- 還沒有看到確定版的議程，有點難排
+- 若一時間段有多場活動，可能會採取標注細相時間的方式
+    ::: spoiler
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_91441ed14386f3b665c77098038897d1.png)
+    :::
+
+### 簡報檔主視覺相關輸出
