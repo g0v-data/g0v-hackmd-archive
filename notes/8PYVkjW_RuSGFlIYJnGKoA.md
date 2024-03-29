@@ -42,6 +42,57 @@ tags: AI, LLM
 以phase1訓練後的LLM模型為基礎，完成web app產品
 
 ---
+## 藥品資訊來源
+>[name=建名]2024-03-29
+
+- 藥品法規條文資料集
+    - https://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=66
+    - 主要欄位說明	類別、法規性質、法規名稱、條文內容、發佈日期、附件檔案
+- 藥品安全資訊風險溝通資料
+    - 針對藥品安全警訊，必要時會發布藥品安全資訊風險溝通表，以提醒醫療人員及民眾注意。 本資料集為提供藥品安全資訊風險溝通資料，將可停供醫療人員及民眾注意安全訊息。
+    - https://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=53
+    - 主要欄位說明	發布日期、藥品成分、藥品名稱及許可證字號、適應症、藥理作用機轉、訊息緣由、藥品安全有關資訊分析及描述、TFDA風險溝通說明
+- 全部藥品許可證資料集
+    - 主要欄位說明	**許可證字號**、註銷狀態、註銷日期、註銷理由、有效日期、發證日期、許可證種類、舊證字號、通關簽審文件編號、中文品名、英文品名、適應症、劑型、包裝、藥品類別、管制藥品分類級別、主成分略述、申請商名稱、申請商地址、申請商統一編號、製造商名稱、製造廠廠址、製造廠公司地址、製造廠國別、製程、異動日期、用法用量、包裝與國際條碼
+    - https://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=36
+- 藥品電子化仿單
+    - https://mcp.fda.gov.tw/
+- 罕見疾病藥物處方集
+    - [113年版罕見疾病藥物處方集-20240101.pdf](https://www.pharmaceutic.idv.tw/download/prescription/113%E5%B9%B4%E7%89%88%E7%BD%95%E8%A6%8B%E7%96%BE%E7%97%85%E8%97%A5%E7%89%A9%E8%99%95%E6%96%B9%E9%9B%86-20240101.pdf)
+    - 罕病藥品相關法規
+        - https://www.pharmaceutic.idv.tw/law_download.aspx
+- 中藥相關
+    - [臺灣中藥典第四版-電子書(0929).pdf](https://www.mohw.gov.tw/dl-71936-0a89f40d-7558-4ab2-8f4b-55e58de6552b.html)
+    - 中西藥交互作用資料庫
+        - https://www.cmdhi.mohw.gov.tw/Interactions/MatchListC?p=1&s=0
+    - 中藥基準方 200 方
+        - https://www.cmthp.mohw.gov.tw/Home/Prescription
+    - 中藥資料庫
+        - https://www.cmthp.mohw.gov.tw/Search/CSearch?v=4&p=1&m=0
+    - 中醫典籍下載
+        - https://dep.mohw.gov.tw/DOCMAP/lp-830-108.html
+- 食品藥物管理署
+    - 常見問答
+        - https://www.fda.gov.tw/TC/site.aspx?sid=2158&r=926510211
+    - 法規資訊
+        - 藥品、醫療器材及化粧品類
+            - https://www.fda.gov.tw/TC/law.aspx?cid=55
+            - 管制藥品類
+                - https://www.fda.gov.tw/TC/law.aspx?cid=183
+            - 藥廠
+                - https://www.fda.gov.tw/TC/law.aspx?cid=68
+    - 出版品
+        - https://www.fda.gov.tw/TC/publications.aspx
+    - [藥物食品安全週報](https://www.fda.gov.tw/tc/PublishOtherEpaper.aspx)
+        - https://www.fda.gov.tw/TC/PublishOtherEpaper.aspx
+    - 管制藥品
+        - 管制藥品簡訊
+            - https://www.fda.gov.tw/TC/PublishOtherMessage.aspx
+        - 管制藥品使用手冊
+            - https://www.fda.gov.tw/TC/siteContent.aspx?sid=2382
+        - 反毒專區
+            - https://www.fda.gov.tw/TC/site.aspx?sid=10070&r=1171608985
+---
 ### 2024/3/26 每週會議結論：
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_08b5ed07c7de5febc4c5fd282bc6ec4f.png)
 
