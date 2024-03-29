@@ -657,11 +657,51 @@ Opass 教學
 ## 20240329 第十九次會議紀錄
 > 時間：2024/03/29（五） 8:30 PM
 > 地點：線上
-> 出席：Dong、、、、、
+> 出席：Dong、Skyler 是最棒的、、、、
 >
 
 ### 鏡頭保護蓋
 - 已進行第二次報價，若下週一下訂，交期預估會在5/2，下週一再去電詢問能否使用空運或有無急件選項
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f7d46200549e3e8410b4f8abc997d4cb.png)
+* 會同時找其他廠商詢價，希望交貨日期控制在活動開始的前一個禮拜
+
+### 短袖t恤
+
+#### A版(工作人員+講者)
+
+衣服顏色：靛青色
+正面logo大小：24 x 17.8 cm
+* 在AI暫時沒有找到Onest的字體，但考慮報價的急迫性，先暫時用另一種字體代替。**後續將調整為Onest字體。**
+    - [Onest](https://fonts.google.com/specimen/Onest?query=onest&noto.query=onest) 是 Google 提供的開源字體，要自己下載 [name=Dong]
+
+右袖logo大小： 7.3 x 3 cm
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_999bf3998049ae09f02a78b3d9a6bafb.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_dc150a5751e3d58e07033571766107d5.png)
+
+
+
+
+* Partee：
+    * 150件，單件金額 290元
+    * 工作天數為10個工作天
+* 玩美獨衣：目前已和廠商確認需求，下星期一能取得報價及工作天數。
+
+#### B版(工作人員+講者+販售款)
+
+衣服顏色：天使白
+正面logo大小：29.4 x 20.25 cm
+反面logo大小：27.2 x 5.3 cm
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e1d04eb11d4c39b9cd3fceb198d46173.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8f1f5266e583c6b9ef4186d53705827f.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f1b160fb8345d543c10148e070c699a4.png)
+
+
+
+* Partee:
+    * 正確的數量為「150+200件」。但廠商回覆的報價僅為錯誤件數(150+100)的金額，平均單件金額為230。
+        * 將於下星期一打電話再次詢問
+    * 工作天數為10個工作天
+* 玩美獨衣：目前已和廠商確認需求，下星期一能取得報價及工作天數。
 
 ### 場佈相關大型輸出
 [場佈送印 - Google 雲端硬碟](https://drive.google.com/drive/folders/1jTVjVxYHJPUQWZ00-RFv7DK_F1byu3U5)
@@ -682,3 +722,8 @@ Opass 教學
     :::
 
 ### 簡報檔主視覺相關輸出
+[主視覺元素輸出檔 - Google 雲端硬碟](https://drive.google.com/drive/folders/1syh7HEwUy9hQGyz0sSXn8en0J5Z29vhV)
+- 輸出一些可能會用到的檔案、尺寸
+    - .svg:適合網頁用
+    - 1X,2X:適合網頁用
+    - 5X:適合輸出用
