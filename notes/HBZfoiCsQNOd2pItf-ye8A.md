@@ -21,6 +21,10 @@ tags: 公有地大行動
 
 ## 線上地圖
 
+- 城市儀錶板：https://citydashboard.taipei/mapview?index=map-layers
+    - 有居住與上班人口推估
+- 臺北市街廓界定
+    - https://g0v.hackmd.io/ErnTx4HXSly3E0I9J0zOxQ?view
 - 網址：https://www.google.com/maps/d/u/0/viewer?mid=1PtrMifUEOzZi1-ShuVktL7jetCPdKeY&ll=25.022562174602527%2C121.53695809986445&z=16
 - 路線
     - 國立臺灣大學新月台集合 (新生南路三段台北真理堂對面)
@@ -45,8 +49,7 @@ tags: 公有地大行動
         - 設定分享主題
             - 演替
             - 道路路網
-- 街廓界定
-    - https://g0v.hackmd.io/ErnTx4HXSly3E0I9J0zOxQ?view
+
 
 
 ## 素材工作區
