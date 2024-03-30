@@ -234,3 +234,12 @@ TODO
 2. 日後需要碳收支圖資（地圖）的機關/民間單位
     - chewei> 鄉鎮市區 我覺得是一個適合的對象
         - 基於「地方創生政策」、「自治體投票」、「代議者的選區」、「縣市社區大學的設立與辦學地理範圍也會參考鄉鎮區架構」等
+
+
+
+## 2024 淨零工作坊活動內容延伸相關資料與議題探討
+
+加油站提供電動汽車快速充電服務之最佳選址分布 研究–以臺北市為例 A Study on Optimal Siting of Electric Vehicle Fast Charging at Existing Gas Stations – A Case Study of Taipei City
+https://www.facebook.com/DENDoENergy/posts/pfbid0ucZ1wksMzmbCJSbPG4dtHX1CG4x1TLyqRFKcZdXiLFKAXLsDZCoiyxTTHK6Bq9sXl
+
+
