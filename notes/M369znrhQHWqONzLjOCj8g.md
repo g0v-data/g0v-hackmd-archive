@@ -2,16 +2,8 @@
 tags: GIS
 ---
 
-# 臺北市文山區碳收支地圖
+# 臺北市文山區碳收支地圖 / 淨零議題資料蒐集
 
-參考 [舊臺南市－地區碳收支分析](https://docs.google.com/document/d/1rk_lQvK5rN0BDIFF7mLOVJKUA8NrZvnAAfm5iwidSxk/edit) 研究方法 ([文獻](https://drive.google.com/file/d/1RE1Kr8xsh1-FgWeM8oPkeP1oas22QQ1u/view))，並針對臺北市文山區嘗試製作年度碳收支地圖。
-
-跳坑：
-- chewei 找資料、讀論文中的推估方法
-- Vik 協助製作地圖
-
-感謝 🙏
-- 感謝 [林子平老師](https://www.arch.ncku.edu.tw/cht/module/pageinfo/242-i5.html) 分享研究方法建議
 
 :::warning
 目錄
@@ -20,11 +12,16 @@ tags: GIS
 工作用相簿：https://photos.app.goo.gl/gu6im4edscy2Xrjb7
 :::
 
----
+## 文山區碳收支地圖試作
 
-依照論文中「第五節、碳收支計算方法」架構
+跳坑：
+- chewei 找資料、讀論文中的推估方法
+- Vik 協助製作地圖
 
-特點筆記
+感謝 🙏
+- 感謝 [林子平老師](https://www.arch.ncku.edu.tw/cht/module/pageinfo/242-i5.html) 分享研究方法建議
+
+參考 [舊臺南市－地區碳收支分析](https://docs.google.com/document/d/1rk_lQvK5rN0BDIFF7mLOVJKUA8NrZvnAAfm5iwidSxk/edit) 研究方法 ([文獻](https://drive.google.com/file/d/1RE1Kr8xsh1-FgWeM8oPkeP1oas22QQ1u/view))，並針對臺北市文山區嘗試製作年度碳收支地圖。依照論文中「第五節、碳收支計算方法」架構，特點筆記：
 - 文獻蒐集的目的
     - 整合不同建築用途的能源耗用密度(Energy Use　Intensity, EUI)
     - 各土地使用類型的碳吸存係數
@@ -167,23 +164,12 @@ tags: GIS
             - 已知周邊各種寬度道路的長度
 
 
-受理機關：交通局
-回覆機關：交通局
-回覆日期：113/01/22
-處理情形：處理完成
-親愛的民眾：您好！
-有關您反映是否有臺北市文山區交通運輸二氧化碳排放估算成果及文山區車流種類推薦之圖資或統計成果一事，本局說明如下：
-本市溫室氣體排放量分析報告（無單獨調查各行政區），已由本府環境保護局統計分析後公開於資訊網站，相關參考資料可至本府環境保護局/業務資料/氣候變遷管理科網站下載。
-另本市交通管制工程處每年針對本市重要路口及路段橋梁進行交通流量調查，有關文山區車流量之相關參考資料可至本市交通管制工程處/業務資訊/業務服務/交通資料網站下載。
-謝謝您對市政的關心與指教，若您對本次回復內容有任何疑問，歡迎聯絡承辦人。並祝您
-健康愉快
-臺北市政府交通局　敬復
-承辦人：陳先生
-聯絡電話：02-27208889或1999轉6847
-
-
-
-
+詢問臺北市交通局
+- 受理機關：臺北市政府交通局，承辦人：陳先生，聯絡電話：02-27208889或1999轉6847
+- 回覆日期：113/01/22
+- 有關您反映是否有臺北市文山區交通運輸二氧化碳排放估算成果及文山區車流種類推薦之圖資或統計成果一事，本局說明如下：
+    - 本市溫室氣體排放量分析報告（無單獨調查各行政區），已由本府環境保護局統計分析後公開於資訊網站，相關參考資料可至本府環境保護局/業務資料/氣候變遷管理科網站下載。
+    - 另本市交通管制工程處每年針對本市重要路口及路段橋梁進行交通流量調查，有關文山區車流量之相關參考資料可至本市交通管制工程處/業務資訊/業務服務/交通資料網站下載。
 
 
 彰化縣平均每日交通量計算表
@@ -199,7 +185,7 @@ tags: GIS
 
 TODO
 - 寫信給交通局，詢問對於上述車道車流碳排，有沒有什麼估算方式建議
-    - 20240118 chewei 已寄信詢問臺北市交通局，對於「臺北市文山區碳收支地圖」所需之交通碳排放量資料，有什麼建議；20240122 收到回覆
+    - 20240118 chewei 已寄信詢問臺北市交通局，對於「臺北市文山區碳收支地圖」所需之交通碳排放量資料，有什麼建議；20240122 已收到回覆
 
 
 # 綜合討論
@@ -235,11 +221,112 @@ TODO
     - chewei> 鄉鎮市區 我覺得是一個適合的對象
         - 基於「地方創生政策」、「自治體投票」、「代議者的選區」、「縣市社區大學的設立與辦學地理範圍也會參考鄉鎮區架構」等
 
+---
+
+## 2024 文山區淨零工作坊活動內容延伸相關資料與議題探討
+
+### 其他地區機制參考
+
+日本地域ストックマネジメント／脱炭素地域戦略研究（opossum）
+https://www.facebook.com/opossum.chiba
+
+宜蘭 J-Path 宜路有你
+https://www.facebook.com/Yilan.J.Path
+
+### 文山區地景變遷與環境特點
+
+臺北文山地區百餘年來的發展與變遷
+https://photos.app.goo.gl/19Ux5KgFfdQXJ2t19
+
+民間團體保育文山區 378 坪山林土地
+https://www.facebook.com/share/p/y6cnmXXnSUdPzhFi/?mibextid=WC7FNe
+
+大文山地區 保儀大夫
+https://www.facebook.com/share/p/Km7DWQrAmJZuW53L/
+
+安康社區與越南族裔
+https://www.facebook.com/share/p/2fTWeVPwRaQ3R1vU/
+https://www.facebook.com/share/p/xRr41hghriP5Mnmp/
+
+文山區參與式預算提案點
+https://pb.taipei/cp.aspx?n=2E567C53BBB9D0AE
+https://canet.civil.taipei/TP105-1/PartiBudget/index_111.html?town=zs
 
 
-## 2024 淨零工作坊活動內容延伸相關資料與議題探討
+### 綠運具
 
 加油站提供電動汽車快速充電服務之最佳選址分布 研究–以臺北市為例 A Study on Optimal Siting of Electric Vehicle Fast Charging at Existing Gas Stations – A Case Study of Taipei City
 https://www.facebook.com/DENDoENergy/posts/pfbid0ucZ1wksMzmbCJSbPG4dtHX1CG4x1TLyqRFKcZdXiLFKAXLsDZCoiyxTTHK6Bq9sXl
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2fa9d1bad3c0739d1dead151a351e6aa.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9341ec877a16ea7690b677674bfe7515.png)
 
+針對電動車停車場、儲能設備 火災風險
+https://youtu.be/b5fB1SNQ-pQ
+防災，深坑火災
+https://www.facebook.com/share/p/KrHqjhZh1bF2mtM1/
 
+大台北公車路線
+https://www.facebook.com/share/p/ERatswAqs7XNpfJE/
+
+行政院「行人交通安全設施條例」草案，說明簡報，以景興路興隆路一帶作為示範說明地區
+https://www.ey.gov.tw/Page/9277F759E41CCD91/da325d4d-bafa-40fb-8e9e-eb00c8ff268d
+
+### 綠消費與生活
+
+氣候變遷與永續生活調查暨網路輿情分析報告
+https://www.facebook.com/share/p/EQFQNoqnKqqthGkK/
+
+產品碳足跡標籤
+https://www.facebook.com/share/p/8rud26c3DuthGJBo/
+
+書本 的碳足跡
+https://www.facebook.com/story.php?story_fbid=pfbid09DbRZqtbrnCSXQv11T2Zuhd9XBCAao8JKyrVsnAhv9nsLcE2WGWNt8dA4oT4EvZkl&id=100080067891410
+
+龍山寺 不燒香
+https://www.facebook.com/share/p/4qx4na8FtbKxqxg9/
+
+### 低碳飲食
+
+關於低碳飲食，分享美國規劃界近年建構的 Food System Planning 研究方法，以下有各國案例與參考架構
+https://g0v.hackmd.io/@chewei/Urban-Agri/https%3A%2F%2Fg0v.hackmd.io%2FskGo9n_eSDWyhS9VHJgR9Q
+
+------------------------------
+案例：美國大費城地區採用相關方法的政策文件
+- 大費城地區食物系統【研究成果】2010
+- 大費城地區食物系統【全市行動計畫】2011 Eating Here: The Greater Philadelphia Food System Plan
+- 地區層級的食物系統【地區行動計畫】2015 Cultivating Camden: The City's Food Economy Strategy 
+https://docs.google.com/presentation/d/1rJBbNrMqwZ4zNmLKl5d7wymVaTraKaBV5juR6PMLFks/edit
+
+-----------------------
+國內：永續都市的代謝分析、評估與管理-都市食物系統與空間變遷分析：物質流與生態系統服務功能評估之整合應用
+
+本計畫以大台北地區為探討範圍
+第一年：https://www.grb.gov.tw/search/planDetail?id=3116530
+第二年：https://www.grb.gov.tw/search/planDetail?id=8359173
+第三年：https://www.grb.gov.tw/search/planDetail?id=11585282
+結論與建議
+- 大台北地區目前廚餘處理情形並不理想，除了養豬廚餘收集後餵豬外，台北 市於廚餘收集後以暫放於內湖、北投、木柵等三座焚化廠進行堆肥化處理為 主；而新北市則有暫放焚化廠、自有堆肥廠、委外堆肥、跨行政區處理等不 同處理方式，均未能有效資源化處理。
+- 為尋求將廚餘資源化處理，2011 年起新北市環保局配合環保署政策，曾規劃 「北部地區廚餘厭氧消化試辦計畫」，期能對廚餘厭氧消化處理技術做可行性 及效益評估，但執行後卻被環保署中斷試辦計畫。
+- 台北市目前年廚餘收集量約為 66,288 公噸（2014 年），自 2011 年後有下降之 趨勢；新北市目前年廚餘收集量約為 134,929 公噸（2014 年），也是自 2011 年後有下降之趨勢。
+- 在估算廚餘產生量上，成分推估法優於人均值推估法。
+- 若以成分推估法計算台北市廚餘產生量約為 156,406 公噸（2014 年），而目前 實際收集量為 66,287.6 公噸，因此廚餘收集處理率為 42.38 ％，即約有 57.62 ％的廚餘未進行分類收集處理。
+- 若以成分推估法計算新北市廚餘產生量約為 258,248.1 公噸（2014 年），而目 前實際收集量為 134,928.6 公噸，因此廚餘收集處理率為 52.24 ％，即約有 47.76 ％的廚餘未進行分類收集處理。
+- 透過本研究分析，不論是廚餘產生量或是廚餘收集量和社經指標之關連性並不顯著。
+- 本研究透過分析層級程序法（Analytic Hierarchy Process，AHP）收集各界對 於不同廚餘處理方式之意見，完成 18 份有效問卷之調查，彙整各方意見。
+- 評估構面以環境為主（0.545）、經濟次之（0.235），社會（0.220）其次。環 境評估指標部份包含能資源消耗、二次污染、減碳效益、資源回收率、處理 效率，其中以二次污染選項（0.350）最重要。
+- 經濟評估指標部份包含土地使用成本、工程建設成本、操作處理成本、維護 與其他成本、資源化產品之經濟效益，不若其他構面和評估指標有較一致的 意見，重要性排序由大到小分別為工程建設成本（0.249）、操作處理成本 （0.240）、資源化產品之經濟效益（0.230）、維護與其他成本（0.185）、土地 使用成本（0.096）。
+- 社會評估指標部份包含鄰避效應、民眾分類回收行為、科技穩定性、法規限 制、跨世代正義，可知以鄰避效應（0.349）選項為主，廚餘處理設施常受鄰 近居民所排斥進而影響其作業，如何使處理方案不影響周圍居民就成為了最 重要的社會考量因素；其次為科技穩定性（0.212）。
+- 而在不同廚餘處理方案評分上，結果顯示最佳方案依序為厭氧消化（6.12）、 區內堆肥化（5.71）、區內乾燥飼料化（5.47）、區外堆肥化（4.94）、區外乾 燥料化（4.85）。
+- 本研究完成大台北地區食物系統氮與磷消費量分析，可發現，大台北地區肉 類人均值消費量呈現上升趨勢，民國 70-87 年間上升趨勢較大，87 年以後上 升趨勢趨緩；而大台北地區人均氮消費總量則在 86 年和 87 年間出現反折， 開始出現下降趨勢。進一步分析，可發現可能和奶類、豆類和蛋類之人均值 消費量下降有關。本研究研究也同時發現人均值之牛肉消耗量有逐漸增加之 趨勢。
+- 另可發現，大台北地區人均磷之消費量也是從民國 86 年附近開始呈現下降趨 勢，和人均值之總體肉類消費量不同。而此種消費趨勢似乎跟大台北地區豆 類、蛋類、和奶類人均值消費量之變化趨勢有關。豆類人均值消費量從 86 年之後開始下降趨緩，而蛋類更是從民國 86 年後出現明顯之轉折下降趨勢； 而奶類之人均值消費量大抵在 86-90 年呈現水平狀態，而 90 年以後就呈現下 降趨勢。
+- 本研究亦進行人均氮消費量以及人均磷消費量與社會經濟指標進行分析，可 以發現相關性並不顯著。
+- 本研究進行廚餘處理技術之生命週期評估，發現廚餘與下水道污泥厭氧共消 化系統除了可以產生淨能源收益，以及磷資源回收，同時比其將廚餘直接焚 化處理可以產生更佳之溫室氣體減排效益。
+- 而在廚餘與下水道污泥厭氧共消化系統之發酵後污泥後續操作處理方案中， 若同時考量淨能源收益、溫室氣體減排效益、以及磷資源回收，則以堆肥化 處理最佳。
+- 日本目前已有許多實際運轉之廚餘與下水道污泥厭氧共消化系統，廚餘資源 化處理效率佳。
+- 分析比較不同國家平均每人每日食品廢棄物之產生量，約為 0.296-0.964 公 斤，其中瑞典人產出最少，而法國人產出最多。而其中家庭廚餘之每人每日 產出量為 0.029-0.663 公斤，其中瑞典人產出最少，而法國人產出最多。
+- 本研究發現台北市每人每日家庭廚餘產生量為 0.157 公斤，略少於日本（0.230 公斤）與德國（0.224 公斤）。
+
+### 文山區萬和里情境
+
+萬和里 參考
+https://www.facebook.com/story.php?story_fbid=pfbid02EeEFhSwYRQjgFVyxqP33J7cxyCiXVaSM5tbeCAyjDm765XnnGCEqBhZMBcVM9f5rl&id=100000432932151&mibextid=WC7FNe

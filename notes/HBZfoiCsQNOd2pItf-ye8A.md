@@ -51,28 +51,28 @@ https://commutag.agawork.tw/dataset?id=6542020c38c282460799aa4d
     - ParkUp 空地
     - 羅斯福路二段 77 巷空地營造
     - 於羅斯福路二段 77 巷空地進行整體街區走訪經驗交流 
+
+## 實習內容發想，筆記區
+
+- 社會網絡面向
+    - 目前現況、延續過往發展脈絡至今、曾經存在但消失
+    - 操作題目
+        - 街區年曆
+        - 街區生活型態人物誌
+        - 街區內各個空間的封閉與開放程度
+- 踏查過程
+    - 任務一：踏查任務，完成「踏查表格」
+        - 各景點，並留設空白表格
+        - 筆記沿線有興趣後續探討的空間、沿線感興趣的變化歷程故事
+        - 表格項目，待建立
+    - 任務二：踏查任務，拍照並上傳至「生活巷弄」影像地圖
+        - https://commutag.agawork.tw/dataset?id=6542020c38c282460799aa4d
+    - 當天 11:30-12:00 於羅斯福路二段 77 巷空地進行整體街區走訪經驗交流 
         - 報紙當坐墊
         - 拉繩子，勾勒街區
         - 設定分享主題
             - 演替
             - 道路路網
-
-## 筆記區
-
-- 社會網絡面向
-    - 當代
-    - 脈絡
-    - 年曆
-    - 封閉與開放程度的檢視
-    - 碳收支
-        - https://g0v.hackmd.io/@chewei/carbon-uptake/https%3A%2F%2Fg0v.hackmd.io%2FM369znrhQHWqONzLjOCj8g%3Fview
-- 踏查過程
-    - 踏查任務，完成「踏查表格」
-        - 各景點，並留設空白表格
-        - 筆記沿線有興趣後續探討的空間、沿線感興趣的變化歷程故事
-        - 表格項目，待建立
-    - 踏查任務，拍照並上傳至「生活巷弄」影像地圖
-        - https://commutag.agawork.tw/dataset?id=6542020c38c282460799aa4d
     - 踏查過程中，進行說明：選組之後的開展方式
         - 寫出自己的三個關鍵字。
             - 包括最喜歡或最擅長的事
@@ -87,8 +87,16 @@ https://commutag.agawork.tw/dataset?id=6542020c38c282460799aa4d
             - 可能的分組方式
                 - 視為三組行動小組
     - 題目方向
-        - 從 SDGs 檢視架構探討該領域的受衝擊群體
-        - 「臺北 - 臺師大」
+        - 方法：從 SDGs 檢視架構探討該領域的受衝擊群體
+            - https://sdg.gov.taipei/
+            - https://sdg.gov.taipei/page/cn_area3/12
+        - 方法：碳收支
+            - https://g0v.hackmd.io/@chewei/carbon-uptake/https%3A%2F%2Fg0v.hackmd.io%2FM369znrhQHWqONzLjOCj8g%3Fview
+        - 方法：以「臺北 - 臺師大街區」的角度來探討
+        - 工具：拼貼願景工具提案
+            - https://g0v.hackmd.io/@chewei/joinplus/https%3A%2F%2Fg0v.hackmd.io%2F8uZcrlPGQmOJAzweskG9Og%3Fview
+        - 工具：提案公民科技專案
+            - 參考：https://g0v.hackmd.io/@jothon/keng/https%3A%2F%2Fg0v.hackmd.io%2Fa_sXd-DRSLmJhhd61sc_ag
 
 ## 素材工作區
 
