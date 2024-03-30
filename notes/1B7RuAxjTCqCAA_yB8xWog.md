@@ -342,6 +342,8 @@ https://www.facebook.com/623939544444778/posts/1481508442021213/
 臺南市 溪尾滯洪池
 https://www.facebook.com/jacana.home/posts/2625498334129034
 23.133665, 120.252481
+臺南市國立臺灣歷史博物館
+https://www.facebook.com/share/p/2vuPUcvUE1yhQgVD/
 台南 安順 滯洪池
 https://www.facebook.com/100000066795897/posts/4012036525475201/
 北港滯洪池

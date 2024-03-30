@@ -4,6 +4,11 @@ tags: 公有地大行動
 
 # 2024 都市再生學苑 - 開放空間與公有空地議題組別
 
+:::warning
+文件目錄
+[TOC]
+:::
+
 活動資訊：https://www.facebook.com/story.php?story_fbid=413837584307820&id=100070447444824&mibextid=WC7FNe
 
 參加者簽到：chewei, 
@@ -16,22 +21,19 @@ tags: 公有地大行動
 
 此空地座落區位屬於古莊里西側三角型生活圈範圍，範圍大致由和平東路、羅斯福路、師大校本部西側圍牆邊界所形成一個明確的街廓邊界，街廓中包含古亭捷運站、古亭市場、住宅與商業建築、Parkup-GT 空地營造 (相關資料：https://www.parkup.tw/)、特色藝文店家等。關注空地活化議題社群屬性，包含生態綠化、都市農耕、社區混齡休憩空間、巷弄生活紋理等。
 
-預計將引導學員透過籌辦「空地營造系列工作坊」等活動，應用前述「空地議題檢視工作方法」，提出古莊里羅斯福路二段77巷空地，改建前的空間活用方案，以及與土地管理單位交流其土地開發方案，藉由短期空地活化作為行動策略，凝聚生活街廓的都市再生願景。
-
-## 工具
-
-街道拍照記錄工具，手機拍照，協助定位於線上地圖
-https://commutag.agawork.tw/dataset?id=6542020c38c282460799aa4d
-
-## 線上地圖
+## 資料與線上地圖
 
 ### 參考地圖與資料
 - 臺北市街廓界定
     - https://g0v.hackmd.io/ErnTx4HXSly3E0I9J0zOxQ?view
 - 城市儀錶板：https://citydashboard.taipei/mapview?index=map-layers
     - 有居住與上班人口推估
-- 交通事故與道安資料：https://g0v.hackmd.io/4IZcm3KAS1WCetvUhX825Q
 - 建築施工地圖：https://g0v.hackmd.io/GMYOZV6jRN20YN037yRqvQ
+- 交通事故與道安資料：https://g0v.hackmd.io/4IZcm3KAS1WCetvUhX825Q
+- 臺北市婦幼安全警示地點
+    - https://data.taipei/dataset/detail?id=985743f7-a33e-4ac1-ad2e-7ef5ffea02e2
+- 臺北市竊盜案件 (汽車、機車、自行車、住宅)
+    - https://data.taipei/dataset?qs=%E7%AB%8A%E7%9B%9C&type=dataset
 - 學區範圍：https://schooldistrict.tp.edu.tw/html/search.jsp
     - 有繪製出範圍
 
@@ -85,21 +87,33 @@ https://commutag.agawork.tw/dataset?id=6542020c38c282460799aa4d
         - 搭配再生學苑系列課程、相互認識等過程
         - 可能的分組方式
             - 視為三組行動小組
-- 題目方向
-    - 方法：從 SDGs 檢視架構探討該領域的受衝擊群體
-        - https://sdg.gov.taipei/
-        - https://sdg.gov.taipei/page/cn_area3/12
-    - 方法：碳收支
-        - https://g0v.hackmd.io/@chewei/carbon-uptake/https%3A%2F%2Fg0v.hackmd.io%2FM369znrhQHWqONzLjOCj8g%3Fview
-    - 方法：以「臺北 - 臺師大街區」的角度來探討
-    - 工具：拼貼願景工具提案
-        - https://g0v.hackmd.io/@chewei/joinplus/https%3A%2F%2Fg0v.hackmd.io%2F8uZcrlPGQmOJAzweskG9Og%3Fview
-    - 工具：提案公民科技專案
-        - 參考：https://g0v.hackmd.io/@jothon/keng/https%3A%2F%2Fg0v.hackmd.io%2Fa_sXd-DRSLmJhhd61sc_ag
+
+題目方向列舉，提供學員參考
+- 方法：都市再生要參考什麼資料？
+    - 期中以前，以臺師大街區
+    - 期中，以四組街區經驗
+    - 期末，基於前述內容，提出課題對策
+- 方法：從 SDGs 檢視架構探討該領域的受衝擊群體
+    - https://sdg.gov.taipei/
+    - https://sdg.gov.taipei/page/cn_area3/12
+- 方法：碳收支
+    - https://g0v.hackmd.io/@chewei/carbon-uptake/https%3A%2F%2Fg0v.hackmd.io%2FM369znrhQHWqONzLjOCj8g%3Fview
+- 方法：以「臺北 - 臺師大街區」的角度來探討
+- 方法：透過 通學路徑 (包含梁實秋、殷海光、俞大維等年代文化路徑、當代各級學校通學路徑，台大師大師生互通路徑、各國小學區通學路徑) 來形成主要的地區生活主軸，未來會針對各路徑主軸，檢視道路環境及沿線建築改建的地面層
+- 方法：透過籌辦「空地營造系列工作坊」等活動，應用「空地議題檢視工作方法」，提出空改建前的空間活用方案，以及與土地管理單位交流其土地開發方案，藉由短期空地活化作為行動策略，凝聚生活街廓的都市再生願景。
+- 工具導向：拼貼願景工具提案
+    - https://g0v.hackmd.io/@chewei/joinplus/https%3A%2F%2Fg0v.hackmd.io%2F8uZcrlPGQmOJAzweskG9Og%3Fview
+- 工具導向：若有明確資訊類專案企劃，可提案公民科技專案徵求跳坑
+    - 參考：https://g0v.hackmd.io/@jothon/keng/https%3A%2F%2Fg0v.hackmd.io%2Fa_sXd-DRSLmJhhd61sc_ag
 
 參考資料
 - 好城市的空間法則： 給所有人的第一堂空間課，看穿日常慣性，找出友善城市的101關鍵要素
     - https://www.books.com.tw/products/E050090176
+- 安全城市：規劃、設計與經營的設計準則
+    - https://drive.google.com/file/d/0B9KyxXC_y1sLNlN4RllfcXJjeGs/view?usp=sharing&resourcekey=0-RnFQ9rUHTfyeiHLPO5JlIg
+- 96 年都市空間改造計畫-友善社區示範計畫先期規劃案
+    - 詢問 chewei
+
 
 ## 素材工作區
 
