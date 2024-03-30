@@ -25,78 +25,81 @@ https://commutag.agawork.tw/dataset?id=6542020c38c282460799aa4d
 
 ## 線上地圖
 
-- 城市儀錶板：https://citydashboard.taipei/mapview?index=map-layers
-    - 有居住與上班人口推估
+### 參考地圖與資料
 - 臺北市街廓界定
     - https://g0v.hackmd.io/ErnTx4HXSly3E0I9J0zOxQ?view
-- 施工地圖：https://g0v.hackmd.io/GMYOZV6jRN20YN037yRqvQ
+- 城市儀錶板：https://citydashboard.taipei/mapview?index=map-layers
+    - 有居住與上班人口推估
+- 交通事故與道安資料：https://g0v.hackmd.io/4IZcm3KAS1WCetvUhX825Q
+- 建築施工地圖：https://g0v.hackmd.io/GMYOZV6jRN20YN037yRqvQ
+- 學區範圍：https://schooldistrict.tp.edu.tw/html/search.jsp
+    - 有繪製出範圍
+
+### 工作用線上地圖
 - 工作網址：https://www.google.com/maps/d/u/0/viewer?mid=1PtrMifUEOzZi1-ShuVktL7jetCPdKeY&ll=25.022562174602527%2C121.53695809986445&z=16
-- 學區範圍
-    - 繪製出範圍
-- 路線
-    - 國立臺灣大學新月台集合 (新生南路三段台北真理堂對面)
-    - 新生水圳 (校園邊界空間轉型)
-    - 溫州街 52 巷巷弄交通標線改造體驗與觀察
-    - 第二霧裡薛圳支流遺址與大學田園及房舍活化構想
-    - 公務人力發展中心行人路徑與公共藝術
-    - 臺靜農教授故居與週邊都市樣貌觀察
-    - 殷海光故居與週邊文化空間
-    - 古風小白屋建物活用
-    - 芒果香草園建物活用
-    - (備案)梁實秋故居
-    - 古莊公園
-    - 揚生六O館師大館與機關用地停車場
-    - 浦城街 26 巷空地
-    - 羅斯福路二段81巷大樓開放空間
-    - ParkUp 空地
-    - 羅斯福路二段 77 巷空地營造
-    - 於羅斯福路二段 77 巷空地進行整體街區走訪經驗交流 
 
-## 實習內容發想，筆記區
+## [筆記區] 學員投入內容發想
 
-- 社會網絡面向
-    - 目前現況、延續過往發展脈絡至今、曾經存在但消失
-    - 操作題目
-        - 街區年曆
-        - 街區生活型態人物誌
-        - 街區內各個空間的封閉與開放程度
-- 踏查過程
-    - 任務一：踏查任務，完成「踏查表格」
-        - 各景點，並留設空白表格
-        - 筆記沿線有興趣後續探討的空間、沿線感興趣的變化歷程故事
-        - 表格項目，待建立
-    - 任務二：踏查任務，拍照並上傳至「生活巷弄」影像地圖
-        - https://commutag.agawork.tw/dataset?id=6542020c38c282460799aa4d
-    - 當天 11:30-12:00 於羅斯福路二段 77 巷空地進行整體街區走訪經驗交流 
-        - 報紙當坐墊
-        - 拉繩子，勾勒街區
-        - 設定分享主題
-            - 演替
-            - 道路路網
-    - 踏查過程中，進行說明：選組之後的開展方式
-        - 寫出自己的三個關鍵字。
-            - 包括最喜歡或最擅長的事
-            - 現在最重要的事
-            - 一生的志業（指工作）
-        - 寫下想要實踐的願望。
-        - 從「臺師大街區」中，尋找 10 個寶物。
-            - 原文為：從自己家的半徑3公里內，尋找 33 個寶物（人、物、風景都可以）。比方說種田的老先生、豆腐店、庭院的柚子樹等等。
-            - https://www.newsmarket.com.tw/blog/2575/
-        - 視 10 位成員所撰寫內容，再進行工作方向討論
-            - 搭配再生學苑系列課程、相互認識等過程
-            - 可能的分組方式
-                - 視為三組行動小組
-    - 題目方向
-        - 方法：從 SDGs 檢視架構探討該領域的受衝擊群體
-            - https://sdg.gov.taipei/
-            - https://sdg.gov.taipei/page/cn_area3/12
-        - 方法：碳收支
-            - https://g0v.hackmd.io/@chewei/carbon-uptake/https%3A%2F%2Fg0v.hackmd.io%2FM369znrhQHWqONzLjOCj8g%3Fview
-        - 方法：以「臺北 - 臺師大街區」的角度來探討
-        - 工具：拼貼願景工具提案
-            - https://g0v.hackmd.io/@chewei/joinplus/https%3A%2F%2Fg0v.hackmd.io%2F8uZcrlPGQmOJAzweskG9Og%3Fview
-        - 工具：提案公民科技專案
-            - 參考：https://g0v.hackmd.io/@jothon/keng/https%3A%2F%2Fg0v.hackmd.io%2Fa_sXd-DRSLmJhhd61sc_ag
+社會網絡面向
+- 目前現況、延續過往發展脈絡至今、曾經存在但消失
+- 操作題目
+    - 街區年曆
+    - 街區生活型態人物誌
+    - 街區內各個空間的封閉與開放程度
+    - 路徑：
+        - 通學路徑
+        - 文化路徑
+
+踏查過程
+- 任務一：踏查任務，完成「踏查表格」
+    - 各景點，並留設空白表格
+    - 筆記沿線有興趣後續探討的空間、沿線感興趣的變化歷程故事
+    - 表格項目，待建立
+- 任務二：踏查任務
+    - 今天：
+        - 拍一張照並上傳至「生活巷弄」影像地圖
+            - https://commutag.agawork.tw/dataset?id=6542020c38c282460799aa4d
+    - 小組：
+        - 街區整體，拍照並上傳至「生活巷弄」影像地圖
+            - https://commutag.agawork.tw/dataset?id=6542020c38c282460799aa4d
+        - 街區巷弄，行人風險普查
+            - https://commutag.agawork.tw/statistic?id=63528cc34f042e88cc951433#tab=map
+- 任務發想
+    - 好城市的空間法則書本內容挑選
+- 當天 11:30-12:00 於羅斯福路二段 77 巷空地進行整體街區走訪經驗交流 
+    - 報紙當坐墊
+    - 拉繩子，勾勒街區
+    - 設定分享主題
+        - 演替
+        - 道路路網
+- 踏查過程中，進行說明：選組之後的開展方式
+    - 寫出自己的三個關鍵字。
+        - 包括最喜歡或最擅長的事
+        - 現在最重要的事
+        - 一生的志業（指工作）
+    - 寫下想要實踐的願望。
+    - 從「臺師大街區」中，尋找 10 個寶物。
+        - 原文為：從自己家的半徑3公里內，尋找 33 個寶物（人、物、風景都可以）。比方說種田的老先生、豆腐店、庭院的柚子樹等等。
+        - https://www.newsmarket.com.tw/blog/2575/
+    - 視 10 位成員所撰寫內容，再進行工作方向討論
+        - 搭配再生學苑系列課程、相互認識等過程
+        - 可能的分組方式
+            - 視為三組行動小組
+- 題目方向
+    - 方法：從 SDGs 檢視架構探討該領域的受衝擊群體
+        - https://sdg.gov.taipei/
+        - https://sdg.gov.taipei/page/cn_area3/12
+    - 方法：碳收支
+        - https://g0v.hackmd.io/@chewei/carbon-uptake/https%3A%2F%2Fg0v.hackmd.io%2FM369znrhQHWqONzLjOCj8g%3Fview
+    - 方法：以「臺北 - 臺師大街區」的角度來探討
+    - 工具：拼貼願景工具提案
+        - https://g0v.hackmd.io/@chewei/joinplus/https%3A%2F%2Fg0v.hackmd.io%2F8uZcrlPGQmOJAzweskG9Og%3Fview
+    - 工具：提案公民科技專案
+        - 參考：https://g0v.hackmd.io/@jothon/keng/https%3A%2F%2Fg0v.hackmd.io%2Fa_sXd-DRSLmJhhd61sc_ag
+
+參考資料
+- 好城市的空間法則： 給所有人的第一堂空間課，看穿日常慣性，找出友善城市的101關鍵要素
+    - https://www.books.com.tw/products/E050090176
 
 ## 素材工作區
 
