@@ -2,7 +2,7 @@
 tags: 公有地大行動
 ---
 
-# 2024 都市再生學苑 - 公有空地議題組別
+# 2024 都市再生學苑 - 開放空間與公有空地議題組別
 
 活動資訊：https://www.facebook.com/story.php?story_fbid=413837584307820&id=100070447444824&mibextid=WC7FNe
 
@@ -32,6 +32,7 @@ https://commutag.agawork.tw/dataset?id=6542020c38c282460799aa4d
 - 施工地圖：https://g0v.hackmd.io/GMYOZV6jRN20YN037yRqvQ
 - 工作網址：https://www.google.com/maps/d/u/0/viewer?mid=1PtrMifUEOzZi1-ShuVktL7jetCPdKeY&ll=25.022562174602527%2C121.53695809986445&z=16
 - 學區範圍
+    - 繪製出範圍
 - 路線
     - 國立臺灣大學新月台集合 (新生南路三段台北真理堂對面)
     - 新生水圳 (校園邊界空間轉型)
@@ -59,9 +60,15 @@ https://commutag.agawork.tw/dataset?id=6542020c38c282460799aa4d
 ## 筆記區
 
 - 社會網絡面向
+    - 當代
+    - 脈絡
+    - 年曆
+    - 封閉與開放程度的檢視
 - 踏查任務
-
-
+    - 表格
+        - 筆記沿線有興趣後續探討的空間
+        - 沿線感興趣的變化歷程故事
+    - 10 人，3 組
 
 ## 素材工作區
 
