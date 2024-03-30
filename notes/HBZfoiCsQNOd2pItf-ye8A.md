@@ -30,7 +30,8 @@ https://commutag.agawork.tw/dataset?id=6542020c38c282460799aa4d
 - 臺北市街廓界定
     - https://g0v.hackmd.io/ErnTx4HXSly3E0I9J0zOxQ?view
 - 施工地圖：https://g0v.hackmd.io/GMYOZV6jRN20YN037yRqvQ
-- 網址：https://www.google.com/maps/d/u/0/viewer?mid=1PtrMifUEOzZi1-ShuVktL7jetCPdKeY&ll=25.022562174602527%2C121.53695809986445&z=16
+- 工作網址：https://www.google.com/maps/d/u/0/viewer?mid=1PtrMifUEOzZi1-ShuVktL7jetCPdKeY&ll=25.022562174602527%2C121.53695809986445&z=16
+- 學區範圍
 - 路線
     - 國立臺灣大學新月台集合 (新生南路三段台北真理堂對面)
     - 新生水圳 (校園邊界空間轉型)
