@@ -29,7 +29,9 @@ GA: UA-98468513-3
 - Facebook group 貼文
 - LINE Voom 貼文
 - [x] LINE rich menu ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c3a03f1b0c67140b9b462e488fe725a5.png)
-- LINE Welcome message
+- [x] LINE Welcome message
+  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1789198b8515512c79917a007e0c56c2.png)
+
 
 ## 逐字稿 Error 429 問題
 

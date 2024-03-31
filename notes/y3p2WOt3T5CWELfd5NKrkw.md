@@ -81,4 +81,18 @@ Rentea 社群認領的是居住議題，我們希望延續 g0v 與 Rentea 的核
 以上，感謝您的耐心閱讀，希望接下來，能和您一起辦出精彩的對談。
 
 
+---
+
+# 主辦單位講者資訊收集
+
+講者你好，由於 g0v Summit 主辦方，需要收集講者的資訊與意向，例如飲食、紀念品、大頭貼，以便準備議程，因此想請你填寫這份 Google 表單。
+
+1. 網址： xxxx
+2. 第一頁：
+   - 請在社群軌填上 `rentea` ，角色填 `講者`
+   > ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7a450394060de049838614e985ba95fa.png)
+3. 第二頁：
+   1. 交通費的部份，請如實填寫，Rentea 會依照邀請時的承諾，補上差額。
+   2. 大頭貼的部份，可先上傳到 Google 雲端硬碟後，再設為公開分享。如果不想使用大頭貼，或是碰到技術困難，請聯絡我們。
+
 {%hackmd 1LO5rpavTiK4_cFrTouudg %}
