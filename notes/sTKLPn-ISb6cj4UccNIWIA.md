@@ -25,3 +25,20 @@ image:
 - 了解 ICANN 的運作方式，我們將更熟悉全球網路治理的框架，以及台灣在其中可以扮演的角色和面臨的挑戰，讓曾經第一線擔任 ICANN 董事的 Kuo Wei Wu 一起來深入剖析 ICANN。
 - [2024 第三次網路治理讀書會共同筆記](/sTKLPn-ISb6cj4UccNIWIA)
     - 本次讀書會導讀人：[Kuo-Wei Wu（臺灣網路治理論壇 TWIGF 理事長）](https://www.facebook.com/kuoweiwu/)
+
+## ARTICLE 5
+
+- full time job
+- 能錄取的幾乎都是檢察官
+- 薪水不錯
+- 每次任命就是兩年
+
+- > if 台灣在 GAC 代表受到不公平待遇，可以去跟 Ombudsman 提告 [name=KW Wu]
+- 也會處理 ICANN Code of Conduct
+
+- 為什麼 ICANN 這種機制會把 Ombudsman 放進 bylaws，蠻難得的
+- 如果在 ICANN 碰到不公平的待遇，建議可以善用這個機制
+- 有個小辦公室，可以跟他們一對一對談
+- 類似監察人，但 Ombudsman 比監察人能做的事情多很多
+
+## ARTICLE 6
