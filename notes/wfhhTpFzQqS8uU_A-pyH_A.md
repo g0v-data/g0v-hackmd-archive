@@ -7,6 +7,7 @@
 ## 講者簡介
 
 > [參考文件](https://docs.google.com/document/d/1Myqe6KCXPpLJesznFaaeA-E9DkQMLsBHbNfj2WzsrWI/edit)
+> [講者照片](https://drive.google.com/drive/folders/1kyx_og_hqWsNMhsbvEXQX2rgndsvU65a)
 
 劉致昕，記者/作者/podcaster，著有《真相製造》、《烏克蘭的不可能戰爭》，聲音節目《不好意思請問一下》。
 

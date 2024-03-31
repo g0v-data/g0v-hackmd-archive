@@ -273,6 +273,11 @@ https://www.ey.gov.tw/Page/9277F759E41CCD91/da325d4d-bafa-40fb-8e9e-eb00c8ff268d
 
 ### 綠消費與生活
 
+計算工具：
+環境部-事業溫室氣體排放量資訊平台、產品碳足跡資訊網
+經濟部-碳排金好算、碳排乎你知(服務業)
+https://moda.gov.tw/digital-affairs/democracy-network/operations/6625
+
 氣候變遷與永續生活調查暨網路輿情分析報告
 https://www.facebook.com/share/p/EQFQNoqnKqqthGkK/
 
