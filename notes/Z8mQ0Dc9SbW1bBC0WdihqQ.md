@@ -282,4 +282,3 @@ Chapter 4: 亞洲其他國家公民科技專案與社群現況 Current Status of
 [TOC]
 :::
 
-活力水https://docs.google.com/document/d/17zi_rcKL18W9_u3HWWPTmZ-8KVyBn-HJulGtypVCmW0/edit
