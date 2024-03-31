@@ -9,7 +9,7 @@ Interview Request
 
 My name is Sam, I am a student at the Univeristy of Cambridge in the UK, studying Chinese Studies. I am currently living in Taipei, learning Mandarin here. 
 
-I am in the process of writing a thesis about **misinformation in Taiwan**, specifically the **TAIWAN ELECTION 2024**. 
+I am in the process of writing a thesis about **misinformation in Taiwan**, specifically the **TAIWAN ELECTION 2024**...
 
 If it is possible, I would like to interview anyone who could talk to me about their experience encountering misinformation in Taiwan during this period. 
 
