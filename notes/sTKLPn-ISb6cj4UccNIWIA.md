@@ -85,6 +85,8 @@ image:
 
 ## ARTICLE 7 BOARD OF DIRECTORS
 
+- 三年一任
+
 ### Section 7.1.
 
 - Directors
@@ -149,4 +151,78 @@ at-large 比較鬆散
 - board 任職時必須要有 COI 揭露
     - conflict of interest 產生的時候，都要擺到桌面上討論
     - new gTLD 開始時，ccNSO 和 GNSO 很多人顯然會有利益衝突的問題，不是說大家不能參與，但這些可能性通通都要揭露出來
-    - ㄎ
+
+
+###  Section 7.4. ADDITIONAL QUALIFICATIONS
+
+- `(a) Notwithstanding anything herein to the contrary, no official of a national government or a multinational entity established by treaty or other agreement between national governments may serve as a Director. As used herein, the term "official" means a person (i) who holds an elective governmental office or (ii) who is employed by such government or multinational entity and whose primary function with such government or entity is to develop or influence governmental or public policies.`
+    - 中國政府的難關，因為他們幾乎都有官方職
+
+- Akinori 被 KW Wu 說服去選 board 時，JPNIC 很不開心，因為他只是中階主管
+    - 但實際上一方面是很多國家的 senior 一方面英文不一定好，另一方面是這些各國的大官在國際社群裡面就是 nobody
+
+- 台灣去申請`. 政府`，被各國抗議，GNSO 有問題時，時任政府有找 KW Wu 處理，但實際上 ICANN board 成員是獨立在這下面的，不能有什麼其他動作
+- 當時 KW Wu 在擔任 board member 前，也是必須辭去 PIR 董事、APNIC EC
+
+- APTLD 
+    - 很多蘇聯前國家在蘇聯解體後就跑進了 APTLD，而不在 RIPENCC
+
+<!-- 要補錄音內容 --->
+
+###  Section 7.8. TERMS OF DIRECTORS
+- 曾經 ITU 有派人，但 Steve Kugar 不喜歡，所以就把 ITU 這席給拔掉
+
+### Section 7.20. ELECTRONIC MAIL
+- 一條都不要刪，為了 discovery 用途
+
+### Section 7.22. COMPENSATION
+- 曾經有人選上後在 complaint 犧牲太大，因為花了很多時間
+- community 也覺得 ICANN board 很辛苦，不過加州 nonprofits 不能給 board 薪水，所以可以給 compensation
+
+- 當初在修這一條的時候
+    - 當然前提是 community 也要有共識，不然一定會在 public forum 被罵爆
+    - 一開始先是提案讓 chair 有 compensation，然後因為 COI 所以 chair 要離場，讓 board member 決議
+    - 隔一次會議，就是讓提案讓 board member 有 compensation，然後讓所有 board member 離場，讓 chair 決議
+    - > 這也是台灣董事會的實務，當然有揭露所以不會有共謀的問題 [name=RF Yu]
+
+- > 我在當 board 時每天有三四百封 email 要收 [name=KW Wu]
+
+### Section 7.23. PRESUMPTION OF ASSENT
+- 所有的 intension 完全都要以 ICANN 為主體，以 ICANN 的利益為出發點
+- 一定都要獨立、根本來的 interest group 
+- `.xxx` 當初是 16 同意 /9 反對的決議是很勉強的，因為絕大多數都是 consensus based
+- 大家都有很大的時間在溝通
+    - 同意的人不用解釋理由，但缺席或反對都需要提供理由
+
+
+## ARTICLE 8 NOMINATING COMMITTEE
+
+- 不只董事
+- 幾乎每個 SO 都會在裡面
+
+### Section 8.2. COMPOSITION
+- 如果沒有掌握 at-large 的五票，就會很難透過 NC 來選上
+- 本來有個夢想，是 lawrence lessig 所想的，希望可以全球電子投票
+    - 有幾個國家做票，很明顯
+        - 德國
+        - 中國
+        - 日本
+        - 台灣
+    - 很難證明大家是基於自主意志投票的
+    - 吳 sir 跟日本人是那次票數最高的
+- 有個瑞典人召集了 at-large，希望這個 constituency 可以代表 netizen
+    - 當初會給 atlarge 這麼多票，就是認為 atlarge 希望是代表 netizen，比例很高
+    - 所以在代表性問題發生後，吳 sir 提過可以從每個國家的 consumer protection group 來出代表，某種程度上比 atlarge 更具代表性
+    - 一碰到選舉，這幾個人就是不能忽略的部分
+
+- 16 席會有 8 席從 nomcom 出來，這是很有權力的委員會
+    - 但 ICANN 還是有其他 8 席，而且每次只換兩個，所以也沒有到非常嚴重的結構性問題
+
+- application form 非常完整
+    - 每次大概可能會有 80 ~ 100 多封 application
+    - 最後篩到 16 個左右，再去 face to face interview
+    - 
+
+- 很重要的工作，要做 diversity
+
+- 

@@ -148,6 +148,15 @@ tags: Rentea
    1. 漏水屋的折價，介於修繕成本[（10~30 萬起跳）](https://news.housefun.com.tw/news/article/183686240204.html)～[房價 19% 之間](https://www.0920340500.com/case_info.php?id=4)，若房客留意，及早發現與處理問題，便可減少折價的損失
    2. 裝潢不會增加房價，但若能找到盡心養護房子的房客，交易時瑕疵擔保的風險，就會低些，或至少可以清楚有哪些風險
 
+### 住宅交易成本範例
+
+1. 老屋，適用土地增值稅
+   1. 以新北永和竹林路，四樓雙拼公寓，假設上次交易日期為 35 年前（1989）為例
+      > ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9a845fa506f97f011e249c608e9313a3.png)
+   3. 2024 每戶土地公告現值為 (178,000 + 198,000) / 8 戶 = 47,000
+   4. 1991 每戶土地公告現值為 ( + 19,000)
+   
+
 ### 房客視角
 
 1. 若達租屋補貼標準，則[每月補助 5,600+](https://www.hbhousing.com.tw/News/Detail.aspx?Num=4999)
