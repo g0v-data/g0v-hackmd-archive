@@ -76,7 +76,7 @@ Furthermore, HTTP/2 added [server push](https://en.wikipedia.org/wiki/HTTP/2_Ser
 HTTP/2 brought significant improvements over HTTP/1.1 by addressing its limitations and introducing new features. 
 
 ### Features of HTTP/2
-Multiplexing for effective resource use, [header compression](https://en.wikipedia.org/wiki/HTTP_compression) for overhead reduction using [HPACK](https://httpwg.org/specs/rfc7541.html), server push for proactive resource delivery, and [stream prioritization](https://learn.microsoft.com/en-us/windows/win32/wmformat/using-stream-prioritization#:~:text=Stream%20prioritization%20enables%20you%20to,dropped%20to%20provide%20uninterrupted%20playback.) for better resource allocation and enhanced user experience are all introduced by HTTP/2.
+Multiplexing for effective resource use, [header compression](https://en.wikipedia.org/wiki/HTTP_compression) for overhead reduction using [HPACK](https://httpwg.org/specs/rfc7541.html), server push for proactive resource delivery, and [stream prioritization](https://learn.microsoft.com/en-us/windows/win32/wmformat/using-stream-prioritization#:~:) for better resource allocation and enhanced user experience are all introduced by HTTP/2.
 
 ### Strengths of HTTP/2
 It adds multiplexing, which lowers latency and boosts efficiency by enabling several requests and responses to be transmitted concurrently over a single connection.
