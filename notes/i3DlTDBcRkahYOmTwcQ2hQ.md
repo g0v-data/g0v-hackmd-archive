@@ -28,6 +28,8 @@ GA: UA-98468513-3
 - Facebook 粉專貼文
 - Facebook group 貼文
 - LINE Voom 貼文
+- [x] LINE rich menu ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c3a03f1b0c67140b9b462e488fe725a5.png)
+- LINE Welcome message
 
 ## 逐字稿 Error 429 問題
 
