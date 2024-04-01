@@ -32,6 +32,8 @@ tags: Rentea
     - 「紅色維也納」時期遺跡
     - 公共設施，如洗衣機
 - 維也納[Wohnpark Alterlaa](https://maps.app.goo.gl/VTi39E8hmo752kT18)
+- 維也納 [gasometer](https://www.travelerluxe.com/article/desc/180001158)
+    - 十九世紀末天然氣處理廠就建築群 Gasometers
 
 ## 匈牙利
 - 布達佩斯[Wekerle estate](https://maps.app.goo.gl/7fgHDSWe5o4Lagpw8)
@@ -52,3 +54,7 @@ tags: Rentea
 ## 英國
 - 倫敦[Alexandra Road Park](https://maps.app.goo.gl/63JhcAz1Qenqn6uQ6)
     - 金牌特務電影拍攝地點。
+
+## 韓國
+- 首爾 文化儲備基地 Oil Tank Culture Park
+
