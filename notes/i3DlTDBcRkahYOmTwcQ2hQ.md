@@ -25,9 +25,10 @@ GA: UA-98468513-3
 
 > Previous plan https://g0v.hackmd.io/dBog_HZ2TBuXjRxuJNrV-Q#%E8%AC%A0%E8%A8%80%E6%83%91%E7%9C%BE%E7%8D%8E
 
-- Facebook 粉專貼文
-- Facebook group 貼文
-- LINE Voom 貼文
+
+- MGP 主視覺（方形圖）![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8d483ba6a5dfa1b2d83e47bc137529d3.jpg)
+- [x] Facebook 粉專 + Group + IG 貼文 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f86bdc8cb79e49a5dc9652a7947922fa.png)
+- [x] LINE Voom 貼文 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4a6309ab902f0c6c8959f6093ffc2323.png)
 - [x] LINE rich menu ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c3a03f1b0c67140b9b462e488fe725a5.png)
 - [x] LINE Welcome message
   ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1789198b8515512c79917a007e0c56c2.png)
@@ -41,6 +42,7 @@ GA: UA-98468513-3
 - 3/25 OpenAI 回報 "The most recent attempt to charge your payment method failed, so auto-recharge has been disabled."
 - 後來 Credit 好像變負的
 - 3/30 手動付款 $30 並重新設定 auto recharge
+- 遭遇問題的 article
 
 
 ## 四月開會時程

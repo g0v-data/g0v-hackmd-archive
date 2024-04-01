@@ -2,10 +2,10 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Purchase your flight tickets to Taipei](../notes/5uZjvsOQTPSRONP6MvqzOQ.md) | 2024-04-01T18:00:01+08:00 | 2024-04-01T17:53:52+08:00 |
-| 2 | [g0v Summit 2024 社群軌 - 在數位威權時代保護數位人權](../notes/oTzW4X4kTO25IWqiE_ylNw.md) | 2024-04-01T17:53:06+08:00 | 2024-02-27T22:14:15+08:00 |
-| 3 | [g0v Summit 2024 社群軌 - 數位韌性：斷網怎麼辦？](../notes/z6rTXmFLSxyDpBRo0E1mtw.md) | 2024-04-01T17:52:24+08:00 | 2023-08-26T11:19:06+08:00 |
-| 4 | [基調演講講者介紹](../notes/1s4iT1NQTluytpHMPa2cNQ.md) | 2024-03-30T13:18:02+08:00 | 2024-03-26T08:18:26+08:00 |
+| 1 | [基調座談講者介紹](../notes/1s4iT1NQTluytpHMPa2cNQ.md) | 2024-04-01T18:57:31+08:00 | 2024-03-26T08:18:26+08:00 |
+| 2 | [g0v Summit 2024 社群軌 - 數位韌性：斷網怎麼辦？](../notes/z6rTXmFLSxyDpBRo0E1mtw.md) | 2024-04-01T18:29:06+08:00 | 2023-08-26T11:19:06+08:00 |
+| 3 | [g0v Summit 2024 社群軌 - 在數位威權時代保護數位人權](../notes/oTzW4X4kTO25IWqiE_ylNw.md) | 2024-04-01T18:28:44+08:00 | 2024-02-27T22:14:15+08:00 |
+| 4 | [Your flight tickets to Taipei - g0v Summit 2024](../notes/5uZjvsOQTPSRONP6MvqzOQ.md) | 2024-04-01T18:18:34+08:00 | 2024-04-01T17:53:52+08:00 |
 | 5 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-03-29T20:29:00+08:00 | 2023-11-03T20:10:41+08:00 |
 | 6 | [g0v Summit 2024 組別 + 跳坑](../notes/dttYgGq1SmqCCp4ZntffZw.md) | 2024-03-26T11:17:46+08:00 | 2023-05-13T14:36:25+08:00 |
 | 7 | [2024 議程組的場勘筆記](../notes/-eyM6u5CSvC7Wc0Agn-7hQ.md) | 2024-03-20T23:16:16+08:00 | 2024-01-09T22:39:42+08:00 |

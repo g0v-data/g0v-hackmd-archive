@@ -2,7 +2,9 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [summit2024](tags/summit2024.md) | 53 | 2024-04-01T18:00:01+08:00 |
+| [summit2024](tags/summit2024.md) | 53 | 2024-04-01T18:57:31+08:00 |
+| [cofacts](tags/cofacts.md) | 436 | 2024-04-01T18:35:31+08:00 |
+| [meeting note](tags/meeting%20note.md) | 261 | 2024-04-01T18:35:31+08:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 7337 | 2024-04-01T17:44:03+08:00 |
 | [Templates](tags/Templates.md) | 234 | 2024-04-01T16:10:51+08:00 |
 | [Book](tags/Book.md) | 147 | 2024-04-01T16:10:51+08:00 |
@@ -15,8 +17,6 @@
 | [hackpad](tags/hackpad.md) | 3037 | 2024-04-01T04:46:58+08:00 |
 | [GIS](tags/GIS.md) | 146 | 2024-03-31T22:30:53+08:00 |
 | [Rentea](tags/Rentea.md) | 187 | 2024-03-31T17:44:10+08:00 |
-| [cofacts](tags/cofacts.md) | 436 | 2024-03-31T17:01:13+08:00 |
-| [meeting note](tags/meeting%20note.md) | 261 | 2024-03-31T17:01:13+08:00 |
 | [internet governance](tags/internet%20governance.md) | 7 | 2024-03-31T16:36:12+08:00 |
 | [study groups](tags/study%20groups.md) | 8 | 2024-03-31T16:36:12+08:00 |
 | [讀冊](tags/%E8%AE%80%E5%86%8A.md) | 9 | 2024-03-31T16:36:12+08:00 |
