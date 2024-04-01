@@ -144,6 +144,7 @@ tags: 新生流域
     - https://www.facebook.com/groups/582154450196478/posts/745578033854118/
     - https://www.facebook.com/groups/582154450196478/posts/745578573854064/
     - http://www.artofwar-tw.org/bboard/viewtopic.php?t=16454&start=15
+    - 螢橋火車站，照片https://www.facebook.com/share/p/aS6dRMY34fTDcjLF/
     - 南大同，鍾肇政 文學作品 
         - https://www.facebook.com/story.php?story_fbid=pfbid02yTiKeryup9QmD4gyH5GV7eyW4khLyrW4JyBXPwjtNyucRr1fx453e1i55BBPGUj8l&id=100063860644340&mibextid=qC1gEa
     - 中山橋 https://youtu.be/bTe7QXPkC8w
