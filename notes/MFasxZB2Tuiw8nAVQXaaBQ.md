@@ -1,5 +1,7 @@
+---
+tags: summit2024
+---
 # 基調演講 – Nerd politics and the global culture wars
-
 
 ## 講者
 

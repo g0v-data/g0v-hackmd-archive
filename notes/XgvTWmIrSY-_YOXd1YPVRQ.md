@@ -32,8 +32,10 @@ tags: Rentea
     - 「紅色維也納」時期遺跡
     - 公共設施，如洗衣機
 - 維也納[Wohnpark Alterlaa](https://maps.app.goo.gl/VTi39E8hmo752kT18)
-- 維也納 [gasometer](https://www.travelerluxe.com/article/desc/180001158)
+- 維也納 [gasometer](https://maps.app.goo.gl/CJHid2CpNbTs5LPC6)
     - 十九世紀末天然氣處理廠就建築群 Gasometers
+    - Gasometers : www.wiener-gasometer.at
+    - https://www.travelerluxe.com/article/desc/180001158
 
 ## 匈牙利
 - 布達佩斯[Wekerle estate](https://maps.app.goo.gl/7fgHDSWe5o4Lagpw8)
@@ -56,5 +58,13 @@ tags: Rentea
     - 金牌特務電影拍攝地點。
 
 ## 韓國
-- 首爾 文化儲備基地 Oil Tank Culture Park
+- 首爾 文化儲備基地 [Oil Tank Culture Park](https://maps.app.goo.gl/xFX1sgbtyiiNRDQ68)
+    - https://jazko.com/travel/attraction/oil-tank-culture-park/
+    - 文化儲備基地園區（Oil tank culture park）
+        營業時間
+        公園：全年24小時開放
+        儲油槽：週二～周日10:00~18:00
+        地址：首爾特別市麻浦區繒山路87 (城山洞)
+        韓文地址：서울특별시 마포구 증산로 87 (성산동)
+        官方網站：http://parks.seoul.go.kr/template/sub/culturetank.do
 
