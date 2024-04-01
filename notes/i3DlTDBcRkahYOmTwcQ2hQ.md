@@ -21,6 +21,15 @@ GA: UA-98468513-3
 宣傳用 URL: https://cofacts.tw/mgp
 - 背後導向目標 LIFF URL： https://liff.line.me/1563196602-R1zEXaDB?p=mgp （若無登入則自動登入）
 
+### :eye: Under review
+- https://github.com/cofacts/collab-server
+
+## CCPRIP
+### [Op] Transcript spam
+> nonumpa
+> https://g0v.hackmd.io/vKCvrqSQTlm7GEx9MAXGaw?view#op-Transcript-spam-處理
+> 
+
 ## 謠言惑眾獎
 
 > Previous plan https://g0v.hackmd.io/dBog_HZ2TBuXjRxuJNrV-Q#%E8%AC%A0%E8%A8%80%E6%83%91%E7%9C%BE%E7%8D%8E
@@ -42,8 +51,13 @@ GA: UA-98468513-3
 - 3/25 OpenAI 回報 "The most recent attempt to charge your payment method failed, so auto-recharge has been disabled."
 - 後來 Credit 好像變負的
 - 3/30 手動付款 $30 並重新設定 auto recharge
-- 遭遇問題的 article
+- 遭遇問題的 article: TBA，用 API 框範圍來查
 
+## Google workspace for non-profit
+
+- 開 gmail、關 cloudflare 轉送 cofacts.tw 信件
+- *@cofacts.org 已經會送進 gmail
+- 開了 hi 的 Google group，啟動後 hi 跟 cofacts google group 會分家
 
 ## 四月開會時程
 > Previous plan: https://g0v.hackmd.io/nJJJFw36RaWFJ4cUycgihA#%E5%9B%9B%E6%9C%88%E9%96%8B%E6%9C%83
