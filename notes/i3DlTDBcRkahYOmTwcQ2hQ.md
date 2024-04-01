@@ -187,8 +187,6 @@ errorArticles:  [
 - 3/25 OpenAI 回報 "The most recent attempt to charge your payment method failed, so auto-recharge has been disabled."
 - 後來 Credit 好像變負的
 - 3/27-30 的逐字稿狀況： ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2a36963b71758cdfd29beef4af174a61.png) ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_30698e45a7f2c8eec065d42c5f08f1b4.png)
-
-
 - 3/30 手動付款 $30 並重新設定 auto recharge
 - 遭遇問題的 article: TBA，用 API 框範圍來查
 
@@ -201,6 +199,7 @@ errorArticles:  [
 ## 四月開會時程
 > Previous plan: https://g0v.hackmd.io/nJJJFw36RaWFJ4cUycgihA#%E5%9B%9B%E6%9C%88%E9%96%8B%E6%9C%83
 
+- 4/15 --> 4/14 (日) 8pm
 - 4/29 --> 希望換到 5/3 (五) [name=bil]
 
 

@@ -7,8 +7,7 @@ tags: summit2024
 
 接續基調演講，這場對話邀請 Code for Japan、Code for Korea 的創辦人，共同展開一場屬於東亞、對照全球的台、日、韓對話。三國的公民科技社群多年來長期緊密聯繫、合作，這次的對話試圖以三國經驗、發展路徑、當前挑戰，映照出台、日、韓民主的現況，也或許照亮一些社群往前可能的道路。
 
-## 講者
-### Hal SEKI
+## 講者：Hal SEKI
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_de83e3d175e3dfe94491fd34d1604229.jpg =300x)
 
 Hal Seki is the founder of Code for Japan, a non-profit organization which aims to promote civic tech culture and implementing civic tech projects in Japan. Having been working at mobile-web companies as a geo developer since 2002, he is currently CEO of Georepublic Japan, and founder and CEO of HackCamp Inc., a company helping corporate open innovation by organizing hackathons, ideathons, and other workshops.
@@ -19,7 +18,7 @@ Hal is also Chief Innovation Officer of Kobe City, building an open innovation e
 Text adapted from https://www.linkedin.com/in/halsk/.
 :::
 
-### Ohyeon KWEON
+## 講者：Ohyeon KWEON
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_84bcd32cec68eacb598d2a3345a57c16.png =300x)
 
@@ -29,7 +28,7 @@ Ohyeon is an organiser of Code for Korea, striving to create a civic hacker netw
 Text adapted from https://codeforall.org/2022/09/06/civic-hacking-for-covid-19-recovery-the-story-of-code-for-korea/
 :::
 
-### 劉致昕 Jason Liu
+## 講者：劉致昕 Jason Liu
 
 劉致昕，記者、作者、podcaster，著有《真相製造》、《烏克蘭的不可能戰爭》，聲音節目《不好意思請問一下》。
 
