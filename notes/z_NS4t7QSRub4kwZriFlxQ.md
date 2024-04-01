@@ -35,7 +35,7 @@ tags: Rentea
       - 承諾房客會至少裝修　ｘｘ　萬
       - 原則上 CPI （須說明為何是 CPI），若超過，雙方同意
    2. 會邀崔媽媽，有興趣的人？
-      - PN & 室友（？！）
+      - PN & Stella
 5. 週三訪談
    - [共筆](https://g0v.hackmd.io/vAScvvH5Sq-Z44R-ZlM1Iw)
    - 明天也會有公部門 XD

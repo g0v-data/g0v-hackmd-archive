@@ -20,8 +20,12 @@ tags: GIS
 - 臺北市中山區南京東路二段108號，捷運出入口的大面積玻璃 https://www.facebook.com/groups/birdwindowcollision/posts/1272829130099208/
 - 愛明眼科 https://www.facebook.com/groups/birdwindowcollision/posts/1273161673399287/
 - 臺北市南港區中研院生技園區 https://www.facebook.com/groups/birdwindowcollision/posts/1236196760429112/
-- 臺北市文山區政治大學圖書館 https://photos.app.goo.gl/1GLyi9YiZNQf99x78
+- 臺北市文山區政治大學圖書館 
+    - https://photos.app.goo.gl/1GLyi9YiZNQf99x78
+    - https://www.nccu.edu.tw/p/406-1000-14524,r17.php?Lang=zh-tw
 - 臺北市士林區建業路 7 號 https://photos.app.goo.gl/kCvv61Jbby4xhs7E9
+- 大雪山森林遊樂區遊客中心 https://www.facebook.com/groups/birdwindowcollision/posts/1367090184006435/
+- 雄女 https://www.facebook.com/groups/birdwindowcollision/posts/1363931294322324/
 - 香港 https://www.facebook.com/HKWBCCG/posts/pfbid0FqxJ7z9RyjLkfQDq5tLSjVCcgdaWM1ZNQDqcraMo98hn4p9hRQn9z8Bb2udMM9kol
 
 ## 有類似但並非針對防鳥撞擊，有改善機會
