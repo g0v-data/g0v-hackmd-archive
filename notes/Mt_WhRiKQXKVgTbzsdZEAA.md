@@ -8,7 +8,7 @@
  
 基本設定有四項固定流程
 
-1. 建立資料庫連線
+##### 1.建立資料庫連線
 * 用指令
 * 用EF Core Tool套件
 自己翻書,懶得打
@@ -18,13 +18,14 @@
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fe02f2209889440c35bcc864fc3d603f.png)
 
-2. 定義連線
-    找到appsettings.json檔案修改
+##### 2.定義連線
+
+找到appsettings.json檔案修改
     
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8b72d4c1f019ca62749336d0093fc733.png)
 
 紅色是要新增的連線字串
-* "Northwind": "Data Source=(localdb)\\ProjectModels;Initial Catalog=Northwind;TrustServerCertificate=True;Integrated Security=true"
+"Northwind": "Data Source=(localdb)\\ProjectModels;Initial Catalog=Northwind;TrustServerCertificate=True;Integrated Security=true"
 
 前面"Northwind"這邊可以自己命名
 後面"Data Source=(localdb)\\ProjectModels;Initial Catalog=Northwind;TrustServerCertificate=True;Integrated Security=true"
@@ -47,28 +48,7 @@
 
     
 
-3. 修改連線資訊
-    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_63cf3b1a08d5d87c2cf8543a44f43995.png)
-
-找到Program文件新增一些東西
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_12565f1bca29a876d69e31c327d38d47.png)
-為自己的資料庫新增這些
-builder.Services.AddDbContext<NorthwindContext>(options =>
-{
-options.UseSqlServer(builder.Configuration.GetConnectionString("Northwind"));
-});
-
-
-GPT的備註
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d09772b0fbc4f22d93e39160a4871c2f.png)
-
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9c716ee09a2129c1f1cb1a45fafe04a5.png)
-
-
----
-
-
-4. 註冊資料到DI容器
+##### 3.修改連線資訊
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8edeccc1d0fd2ccf8e6b5119a4ed58ba.png)
 自己新增一個Partial資料夾
@@ -90,22 +70,52 @@ Model裡面原本的檔案裡面會有OnConfiguring這個東西
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0490cf9a4c8095f27bfe1bb93afa16d4.png)
 Model裡面原本的檔案裡面複製這些
+放到新的空白類別中
 *小心括號要接上
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_30ef22553b68649c256a617c7b50478c.png)
 做一個新的OnConfiguring
 
+##### 4.註冊資料到DI容器
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_63cf3b1a08d5d87c2cf8543a44f43995.png)
+
+找到Program文件新增一些東西
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_12565f1bca29a876d69e31c327d38d47.png)
+為自己的資料庫新增這些
+builder.Services.AddDbContext<NorthwindContext>(options =>
+{
+options.UseSqlServer(builder.Configuration.GetConnectionString("Northwind"));
+});
+
+
+GPT的備註
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d09772b0fbc4f22d93e39160a4871c2f.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9c716ee09a2129c1f1cb1a45fafe04a5.png)
+
+
+
 ---
 
+### 建立控制器
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1d9617bae1ac09eb1923ef92fe2f31f7.png)
 
-##### 建Controller
+都好就針對自己要處理的資料建立控制器
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_75c89d43edc675ddd9d89b3a6083ef63.png)
+基本上會三選一
+1. 空白
+1. 都做好
+1. 讀取/寫入
 
----
+懶就選 2 自己改
 
-##### 處理Controller跟View抓取
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7950afdbfd6369e0fe8607e3a6bcb2d2.png)
 
+紅色是資料表
+橘色是資料庫
 
------
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4042ca20dc312a60438c020538b6f213.png)
+好了就會有屬於資料表的Controllers跟View
 
-##### View端的取用資料設定與呈現
+後面就自己再個別操作
