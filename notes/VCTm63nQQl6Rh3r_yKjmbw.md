@@ -5,7 +5,7 @@ tags: FtO, g0v-intl
 
 ## Basic Info
 - August 17-18
-- Venue: [Pasifico Yokohama](https://www.pacifico.co.jp/english/access)
+- Venue: [Pacific Convention Plaza Yokohama](https://www.pacifico.co.jp/english/access)
 
 :::warning
 [Reminder] Book your plane tickets and hotels now :)
