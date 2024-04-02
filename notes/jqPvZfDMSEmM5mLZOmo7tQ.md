@@ -38,3 +38,10 @@
 6.這樣就有新的分支了
 
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3a30a114ca2c3df7ab0c4c326944d85e.png)
+有更改就找GIT變更
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b8d9b80bdc668db719ca4c92d4c5d3bc.png)
+這樣留下備註
+按提交就會存檔了
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_40f1b1ab2bad1924b36d00f532de1d8d.png)

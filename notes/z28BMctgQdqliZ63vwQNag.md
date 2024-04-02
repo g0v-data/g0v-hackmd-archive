@@ -16,6 +16,7 @@ skyhong2002> 好ㄌ
 :::info
 參與討論 -> g0v Slack #rep0rter
 溝通用 Mailing List -> rep0rter@googlegroups.com
+零時小學校提案 -> https://sch001.g0v.tw/dash/prj/PoJzaMK4LjzJHAip5BgCVL7fYuYzz7
 :::
 
 ## 專案動機
@@ -56,13 +57,7 @@ rep0rter@googlegroups.com
 
 ## 成員治理機制
 
-零時小學校比賽結束前會以以下方式為準：
-
-- 參加零時小學校專案孵化競賽
-- 維持 U18 資格
-- 須由所有目前成員同意始得加入
-
-零時小學校比賽結束後的治理方式尚未建立，將於 3/2 左右建立
+想加就加，不如拜託直接把專案成果拿走也沒關係，不如說我們都掛 CC0 ㄌ
 
 ## 初選評審回饋
 
