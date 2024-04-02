@@ -238,6 +238,9 @@ https://www.facebook.com/Yilan.J.Path
 臺北文山地區百餘年來的發展與變遷
 https://photos.app.goo.gl/19Ux5KgFfdQXJ2t19
 
+萬芳地區環境特質
+https://www.facebook.com/share/p/fMjDjQdpdP2Rh9XR/?mibextid=WC7FNe
+
 民間團體保育文山區 378 坪山林土地
 https://www.facebook.com/share/p/y6cnmXXnSUdPzhFi/?mibextid=WC7FNe
 
@@ -278,6 +281,10 @@ https://www.facebook.com/share/p/ERatswAqs7XNpfJE/
 
 行政院「行人交通安全設施條例」草案，說明簡報，以景興路興隆路一帶作為示範說明地區
 https://www.ey.gov.tw/Page/9277F759E41CCD91/da325d4d-bafa-40fb-8e9e-eb00c8ff268d
+
+youbike
+https://www.facebook.com/share/p/CV1ohsHKg4F15XJQ/
+補論文 各站夏日使用量
 
 ### 綠消費與生活
 
