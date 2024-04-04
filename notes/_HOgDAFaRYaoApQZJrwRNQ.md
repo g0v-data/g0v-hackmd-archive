@@ -154,30 +154,48 @@ tags: 新生流域
 - 5/2 晚上，室內工作坊
 
 ### 20240404 討論筆記
-- 堤內水環境樣態
-    - https://heo.gov.taipei/cp.aspx?n=BFFA093635CE9249
-    - 公共設施與舊水路紋理
-        - 已營造：榮星花園
-        - 大同高中與長春國小
-        - 大同大學
-        - 林森公園
-            - 2023 中原建築系畢業設計 有一位 張寧 同學針對 林森公園與新生大排新生高架，作為設計基地 https://www.facebook.com/groups/582154450196478/posts/776881520723769/
-    - 街區巷弄
-        - 舊水路與民權東路二段71巷23弄巷弄路型
-            - 中山-3 捷運行天宮站周邊更新地區
-                - https://gis.uro.taipei/ua_frmEasyCase.aspx?case_id=109407
-            - 擬訂臺北市中山區吉林段二小段309地號等15筆土地事業概要案
-                - https://gis.uro.taipei/r_progress_detail.aspx?case_id=11203211
+
+:::info
+堤內水環境樣態
+:::
+- 水利處，市區排水系統環境營造規劃設計工作
+    - 政策說明網頁：https://heo.gov.taipei/cp.aspx?n=BFFA093635CE9249
+- 公共設施與舊水路紋理
+    - 已營造案例：
+        - 中山區榮星花園內
+        - 大安區大安森林公園內
+        - 文山區萬和一號公園
+        - 大安區臺大校園內的水路營造、新生水圳意象
+        - [並非舊水路] 大安區公務人力發展中心基地北側行人通廊結合水域營造
+        - 信義區東大排
+        - 大安區溫州街 45 巷霧裡薛圳明渠 (但已被劃入都市更新單元內)
+        - 大安區錦安里霧裡薛圳雨水花園
+        - 大安區殷海光故居內，庭院呼應霧裡薛圳營造為保水草溝
+    - 大同高中與長春國小
+    - 大同大學
+    - 林森公園
+        - 2023 中原建築系畢業設計 有一位 張寧 同學針對 林森公園與新生大排新生高架，作為設計基地 https://www.facebook.com/groups/582154450196478/posts/776881520723769/
+- 街區巷弄
+    - 舊水路與民權東路二段71巷23弄巷弄路型
+        - 中山-3 捷運行天宮站周邊更新地區
+            - https://gis.uro.taipei/ua_frmEasyCase.aspx?case_id=109407
+        - 擬訂臺北市中山區吉林段二小段309地號等15筆土地事業概要案
+            - https://gis.uro.taipei/r_progress_detail.aspx?case_id=11203211
+    - 臺北市施工地圖 https://bmenew.gov.taipei/e/indexBud.aspx
 - 新生大排主幹線
     - 林森抽水站北側，可作為討論基地，發展相關方案，提至副秘書長層級評估\
         - 社群討論文件：林森抽水站北側停車場改造為 💧 水公園 https://g0v.hackmd.io/TQz2qeO8RRmNDjgvcRAhqw?view
 - 街區探討
     - 建議街區：晴光商圈-中山國小-新福里-中山區公所-榮星花園
-- 污水
-    - 歷年議員質詢影片
-        - https://youtu.be/DGn7IaPEb9M
-        - https://youtu.be/Yykqj2OPLtc
-        - https://youtu.be/puERb5ubfP8
+
+:::info
+污水議題
+:::
+- 歷年議員質詢影片
+    - https://youtu.be/DGn7IaPEb9M
+    - https://youtu.be/Yykqj2OPLtc
+    - https://youtu.be/puERb5ubfP8
+- 餐飲業
     - 113年臺北市環境保護局-餐飲業防制宣導手冊
         - https://epib.dep.gov.taipei/cp.aspx?n=A7964EA8A4F9A236
     - 油脂截流器，裝設在家戶與攤販
@@ -186,16 +204,24 @@ tags: 新生流域
             - https://www.facebook.com/permalink.php?story_fbid=486903586184242&id=107723064102298
             - https://www.newtaipeimarket.ntpc.gov.tw/TC/NewsContent.aspx?id=1224&chk=677c0dc5-4ca9-4dd1-a135-507e941d9892&fbclid=IwAR1y2Y2cxfgKr1SzYmXOeneJOQLZXcnLSOlSn-3RX9z7pod-N3OtGPrPWV8
             - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3c1832d0dafce9d4e01939050381807d.png)
+- 汙染裁罰資料
     - 市府是否有歷年裁罰資料，以便了解污染樣態
-    - 水質檢測：
-        - 新生大排主幹線，沿線水質
-        - 各排水分區注水口的水質
-        - 舉例：以下圖片是南京東路東側雨水下水道匯入口
-            - 圖片中 1 位置，可檢測匯入前的水質
-            - 圖片中 2 位置，主幹線內的水質
-            - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8f52873268cf78e2e5f6798207977edd.png)
-- 單位盤點
-    - 清單網址：https://airtable.com/appMn8RbwnnayUwP6/shrHGu54orhbv8th8
+    - 民間團體建立「透明足跡」環境地圖
+        - https://thaubing.gcaa.org.tw/envmap
+        - 不過此地區比較少 水汙染類型的裁罰
+- 水質檢測方案建議
+    - 主要探討文件：https://g0v.hackmd.io/y9nSsx9jSmiQR1ylDF0ujg?view
+    - 新生大排主幹線，沿線水質
+    - 各排水分區注水口的水質
+    - 舉例：以下圖片是南京東路東側雨水下水道匯入口
+        - 圖片中 1 位置，可檢測匯入前的水質
+        - 圖片中 2 位置，主幹線內的水質
+        - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8f52873268cf78e2e5f6798207977edd.png)
+
+:::info
+流域內的關係團體與單位盤點
+:::
+- 清單網址：https://airtable.com/appMn8RbwnnayUwP6/shrHGu54orhbv8th8
 
 ## 實際活動籌畫區：大安社區大學公民週
 - chewei 聯繫社大同仁，提供初步方案提議

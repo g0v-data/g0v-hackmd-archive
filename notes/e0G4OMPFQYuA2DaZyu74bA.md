@@ -89,7 +89,7 @@ community governance
 
 2024 小松紀錄 2024 Weekly Meetup
 ---
-- 
+- [0404小松](/sTJVNXHhRiCxQH5Xo7oZzg)
 - [0327小松](/XBOnXGEOSeS_UnooDsvLWA)
 - [0320小松](/o-gld0UNTm2lgQgtqgbvaA)
 - [0313小松](/fFbTd_2kRCym_dED1o42pA)

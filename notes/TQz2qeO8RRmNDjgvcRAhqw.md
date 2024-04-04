@@ -4,6 +4,12 @@ tags:
 
 # 基地規劃設計｜林森抽水站北側停車場
 
+<iframe src="https://www.google.com/maps/embed?pb=!4v1712229432928!6m8!1m7!1syfm1nosSbHdQdOfNXMBK_w!2m2!1d25.04599276774008!2d121.5325318237798!3f297.20524743821636!4f0.8503021073513537!5f1.1924812503605782" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+1978 年照片
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_27b33ad84873c4b70971512c38cd1cac.png)
+
 ## 願景蒐集
 
 公民週蒐集到的相關內容：https://g0v.hackmd.io/MrRWqJgpTHeeGgMyfOxF3w?view
@@ -12,7 +18,7 @@ tags:
 
 2023 北科大學生畢業設計，曾針對此基地的畢業設計方案
 https://www.facebook.com/TPTEDA/posts/pfbid02GzoT74CQ1pi7nznJiP7rhMKQyf2SJEnS324YjBuAa6oU1XubP6AuRo21JDFWV5BJl
-https://www.youtube.com/live/9kEhkdOG8Ko?feature=share&t=19442"
+https://www.youtube.com/live/9kEhkdOG8Ko?feature=share&t=19442
 
 ## 相關資料
 

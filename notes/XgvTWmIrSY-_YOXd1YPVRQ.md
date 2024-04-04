@@ -57,8 +57,11 @@ tags: Rentea
 - 馬賽[馬賽公寓](https://maps.app.goo.gl/VdB4iDJ7iu7DsmzB8)
     - 柯比意的垂直村落。
 ## 英國
-- 倫敦[Alexandra Road Park](https://maps.app.goo.gl/63JhcAz1Qenqn6uQ6)
+- 倫敦[Alexandra Road Park(Alexandra and Ainsworth Estate)](https://maps.app.goo.gl/63JhcAz1Qenqn6uQ6)
     - 金牌特務電影拍攝地點。
+    - 1978年完工。
+    - 粗獷主義（Brutalism）代表建築。
+    - 為了減少鐵路噪音對社區的影響，建築師設計了隔音措施，將建築入口和社區街道設置在遠離鐵路的那一面。同時，建築是階梯形式向上堆疊,這些建築還採用未上漆的白色鋼筋
 
 ## 韓國
 - 首爾 文化儲備基地 [Oil Tank Culture Park](https://maps.app.goo.gl/xFX1sgbtyiiNRDQ68)
