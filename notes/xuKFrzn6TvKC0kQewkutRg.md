@@ -29,7 +29,7 @@ tags: 公有地大行動,公有資產
 - [🔸 應用情境：綠能村](https://g0v.hackmd.io/wO-hnJoaQ4ignjWuTf5VFA?view)
 - [桃園市<br>減碳行動盤點與探討](https://g0v.hackmd.io/jLvuoKxwRfKBZL772pTBxQ)
 - [臺南市<br>減碳資料盤點與儀表板建置](https://g0v.hackmd.io/wSvlrDnQRWCVEOOE7N5ZaA?view)
-- [臺北市-文山區<br>碳收支地圖試作<br>議題資料蒐集](https://g0v.hackmd.io/M369znrhQHWqONzLjOCj8g?view)
+- [臺北市-文山區<br>碳收支地圖試作<br>民眾尺度議題資料蒐集](https://g0v.hackmd.io/M369znrhQHWqONzLjOCj8g?view)
 - [臺北市-關渡平原](https://g0v.hackmd.io/UthkXXHgSEKC6NNTy_kMsw)
 - [臺北市-大安區](https://g0v.hackmd.io/SUldHt31QB65IQ6M387dHA?view)
 - [工作地圖：關渡平原、<br>大安區、吉安壽豐鄉](https://goo.gl/maps/bCV17eY5tbyspvcS6)[target=_blank]

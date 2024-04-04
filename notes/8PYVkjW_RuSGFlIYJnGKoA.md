@@ -76,7 +76,7 @@ tags: AI, LLM
     - https://law.moj.gov.tw/Law/LawSearchLaw.aspx?TY=04012011
 - 藥品電子化仿單
     - https://mcp.fda.gov.tw/
-- 中藥相關
+- 中藥相關(子敬)
     - [臺灣中藥典第四版-電子書(0929).pdf](https://www.mohw.gov.tw/dl-71936-0a89f40d-7558-4ab2-8f4b-55e58de6552b.html)
     - 中西藥交互作用資料庫
         - https://www.cmdhi.mohw.gov.tw/Interactions/MatchListC?p=1&s=0
