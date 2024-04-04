@@ -42,7 +42,12 @@ tags: AI, LLM
 以phase1訓練後的LLM模型為基礎，完成web app產品
 ---
 ### 2024/4/3 會議結論
-- JM幫忙擴展以下優質嚴選資料源, 大家各自認領爬蟲(為避免重複做工, 請先認領再開工)
+- JM幫忙擴展下方所列優質嚴選資料源, 大家各自認領爬蟲(為避免重複做工, 請先認領再開工)
+- 爬蟲資料的meta data需要
+    - 文件名(或是檔案名)
+    - 來源url
+    - 可以的話加上來源資料更新日期
+
 - 下週固定會議因JM北上暫停一次, 大家也需要爬蟲時間各自努力爬蟲
 - 補充：SFT資料人工審核優化的支援人手從召集到溝通作業要求需要前置時間約2週時間, 需要在第一批SFT資料集產出並初步驗証後開始投入支援人手, 進良這邊會開始準備號召藥學研究所學生參與的EDM海報(先以之前來上AI藥學應用的學生做TA)
 ---
@@ -81,7 +86,7 @@ tags: AI, LLM
         - https://www.cmthp.mohw.gov.tw/Search/CSearch?v=4&p=1&m=0
     - 中醫典籍下載
         - https://dep.mohw.gov.tw/DOCMAP/lp-830-108.html
-- 食品藥物管理署
+- 食品藥物管理署(進良)
     - 常見問答
         - https://www.fda.gov.tw/TC/site.aspx?sid=2158&r=926510211
     - 法規資訊
@@ -103,6 +108,11 @@ tags: AI, LLM
         - 反毒專區
             - https://www.fda.gov.tw/TC/site.aspx?sid=10070&r=1171608985
 
+    - 醫院衛教單張
+        - https://www.cmuh.cmu.edu.tw/HealthEdus?type=%E8%A1%9B%E6%95%99%E5%96%AE%E5%BC%B5
+
+    
+        
 
 ---
 ### 2024/3/26 每週會議結論：
