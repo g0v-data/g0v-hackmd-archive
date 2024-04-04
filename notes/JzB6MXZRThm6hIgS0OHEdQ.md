@@ -422,6 +422,8 @@ https://data.gov.tw/dataset/5969
 - 20240402 花蓮地震
     - 花蓮縣避難收容處所開設狀況
         - 花蓮市中華國小126人
+            - https://www.tcnews.com.tw/news/item/21970.html
+            - https://www.facebook.com/groups/1034515427046437/posts/1873458259818812/
         - 吉安鄉化仁國中20人
         - 吉安鄉月光寺21人
         - 秀林鄉崇德國小2人

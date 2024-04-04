@@ -108,7 +108,7 @@ tags: AI, LLM
         - 反毒專區
             - https://www.fda.gov.tw/TC/site.aspx?sid=10070&r=1171608985
 
-    - 醫院衛教單張
+- 醫院衛教單張(進良)
         - https://www.cmuh.cmu.edu.tw/HealthEdus?type=%E8%A1%9B%E6%95%99%E5%96%AE%E5%BC%B5
 
     

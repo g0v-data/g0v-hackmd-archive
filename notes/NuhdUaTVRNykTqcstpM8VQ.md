@@ -30,6 +30,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #kinmen-金門 金門討論群組！
 #matsu 馬祖討論群組！
 #你不知道的小琉球 小琉球討論群組！Liuqiu
+#re-place 關於如何移住、回到故鄉，以及城市人如何與地方一起打造新故鄉的實踐
 #hk https://github.com/g0vhk-io
 #hkpwparagliding 飛行傘計畫
 #thai-ภาษาไทย 泰國頻道
@@ -176,6 +177,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #115b 永續所得實驗室、永續捐贈議題
 #open-welfare 社會福利議題與資料
 #thaubing-esg 開放企業永續資料庫 - ESG 檢測器
+#企業捐款與合作分析 我們的目標是為倡議型NGO開拓財源，藉由蒐集企業捐款資訊和潛在合作方向，建立資料庫，為組織提供更多與企業合作的可能性。
 #thaubingapp 透明足跡 - 資訊公開透明，污染無所遁形
 #labor 討論跟勞工相關的公民議題
 #nonprofit-helper
