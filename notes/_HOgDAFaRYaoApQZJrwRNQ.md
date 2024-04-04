@@ -153,19 +153,35 @@ tags: 新生流域
 - 5/1 白天，戶外走讀
 - 5/2 晚上，室內工作坊
 - 20240404 討論筆記
-    - 一、新生大排
+    - 堤內水環境樣態
+        - https://heo.gov.taipei/cp.aspx?n=BFFA093635CE9249
+    - 新生大排主幹線
         - 林森抽水站北側，可作為討論基地，發展相關方案，提至副秘書長層級評估
-    - 二、街區探討
+    - 街區探討
         - 新福里至榮星花園
-    - 三、污水
+    - 污水
         - 歷年議員質詢影片
+            - https://youtu.be/DGn7IaPEb9M
+            - https://youtu.be/Yykqj2OPLtc
+            - https://youtu.be/puERb5ubfP8
+        - 113年臺北市環境保護局-餐飲業防制宣導手冊
+            - https://epib.dep.gov.taipei/cp.aspx?n=A7964EA8A4F9A236
         - 油脂截流器，裝設在家戶與攤販
+            - https://www.gov.taipei/News_Content.aspx?n=EEC70A4186D4C828&sms=87415A8B9CE81B16&s=E0A44A2B0425935E
+            - 案例：針對尚未接管攤商汙水輔導瓦窯溝沿線攤商裝設油脂截留器
+                - https://www.facebook.com/permalink.php?story_fbid=486903586184242&id=107723064102298
+                - https://www.newtaipeimarket.ntpc.gov.tw/TC/NewsContent.aspx?id=1224&chk=677c0dc5-4ca9-4dd1-a135-507e941d9892&fbclid=IwAR1y2Y2cxfgKr1SzYmXOeneJOQLZXcnLSOlSn-3RX9z7pod-N3OtGPrPWV8
+                - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3c1832d0dafce9d4e01939050381807d.png)
         - 市府是否有歷年裁罰資料，以便了解污染樣態
         - 水質檢測：
-            - 各排水分區注水口的水質
             - 新生大排主幹線，沿線水質
-    - 四、單位盤點
-        - 補公開網址
+            - 各排水分區注水口的水質
+            - 舉例：以下圖片是南京東路東側雨水下水道匯入口
+                - 圖片中 1 位置，可檢測匯入前的水質
+                - 圖片中 2 位置，主幹線內的水質
+                - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8f52873268cf78e2e5f6798207977edd.png)
+    - 單位盤點
+        - 清單網址：https://airtable.com/appMn8RbwnnayUwP6/shrHGu54orhbv8th8
 
 ## 實際活動籌畫區：大安社區大學公民週
 - chewei 聯繫社大同仁，提供初步方案提議
