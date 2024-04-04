@@ -42,6 +42,7 @@ Rentea 小聚源自於 [g0v 社群](https://g0v.tw/)，是以城市的居住議�
 - [房東稅務x房客權益懶人包 <span class="label label-info">放置中</span>](https://g0v.hackmd.io/uMk1PvSyTISeEweWhQA6vg)
 - [營運企劃簡報 <span class="label label-info">放置中</span>](https://g0v.hackmd.io/Yxv5lUBQS76w8JbcLzxAeg)
 - [大共筆計畫 - 社群參與手冊＆共居提案手冊 <span class="label label-info">放置中</span>](https://g0v.hackmd.io/nytY6vSnSOqv8NPB9Jm5HA)
+- [韌性住宅](/8FyFgx45TfSWYBHF-wUdEg)
 
 ## 已完成的點子們
 
