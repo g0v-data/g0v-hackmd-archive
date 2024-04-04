@@ -14,6 +14,8 @@ tags: Rentea
 - [Google Map可編輯清單](https://maps.app.goo.gl/P5ddm51CeciXqCWMA)
 ## 台灣
 - 台北[華江整宅](https://maps.app.goo.gl/sVc1BL7rEHPMarES9)
+    - 台北市政府第一次徵收華江地區所規劃，1970年代初期落成。
+    - 環形天橋為建築的一大特色。
 - 台北[萬芳國宅](https://maps.app.goo.gl/jP9WQ3SdWwvBMiCp6)
     - 台北市首宗利用山坡地大批興建國宅的案例。
 - 高雄[果貿社區](https://maps.app.goo.gl/Cx8STxminqmww52V7)
@@ -27,9 +29,10 @@ tags: Rentea
 - 東京都大田區[昭和生活博物館](https://maps.app.goo.gl/DygKu6tsBnXadjrEA)
 - 東京都北區[UR團地博物館](https://maps.app.goo.gl/FdDqdsdd3qSpyuFKA?g_st=ic)
 ## 加拿大
-- 蒙特利爾 [住宅67](https://maps.app.goo.gl/QCA9SsFgNQEiF7ir8)
-    - 世博會上大放異彩。
-    - 預鑄式工法的極致，透過積木組合。
+- 蒙特利爾(Montréal) [Habitat 67(住宅67)](https://maps.app.goo.gl/QCA9SsFgNQEiF7ir8)
+    - 1967年世博會上大放異彩。
+    - 預鑄式工法的極致，透過積木組合。將 354 個方形混凝土單元以積木堆疊的概念串連在一起，打造了 158 戶（現今為 146 戶）。
+    - [官網介紹](https://www.habitat67.com/en/about/)
 ## 奧地利
 - 維也納 [卡爾·馬克思大院](https://maps.app.goo.gl/ZVXofKE7F79vmfaH8)
     - 「紅色維也納」時期遺跡
@@ -61,7 +64,7 @@ tags: Rentea
     - 金牌特務電影拍攝地點。
     - 1978年完工。
     - 粗獷主義（Brutalism）代表建築。
-    - 為了減少鐵路噪音對社區的影響，建築師設計了隔音措施，將建築入口和社區街道設置在遠離鐵路的那一面。同時，建築是階梯形式向上堆疊,這些建築還採用未上漆的白色鋼筋
+    - 為了減少鐵路噪音對社區的影響，建築師設計了隔音措施，將建築入口和社區街道設置在遠離鐵路的那一面(Rowley Way)。同時，建築是階梯形式向上堆疊。遠離鐵路的區域設置大片的帶狀公園，附設遊樂場，讓兒童可以安全的玩耍，且 Rowley Way 本身也是一個擡高的中庭平台,將停車場和主要車道規劃在下方，減少車輛交通對社區的影響。
 
 ## 韓國
 - 首爾 文化儲備基地 [Oil Tank Culture Park](https://maps.app.goo.gl/xFX1sgbtyiiNRDQ68)

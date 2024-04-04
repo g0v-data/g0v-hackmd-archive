@@ -4,39 +4,44 @@ tags: 2018
 
 # g0v 美國推坑之行分享會
 
+:::warning
+[TOC]
+:::
 
-活動資訊：
-https://ocftw.kktix.cc/events/usavisits
+## 活動資訊與活動影片
+
 美國行共筆：
 https://beta.hackfoldr.org/2018ocf-intl-visits/
 
-講者投影片：
-ipa
-https://www.slideshare.net/ipachiu/2018-g0v-x-ocf
-chihao
-https://drive.google.com/file/d/1J0wluR1m0hAIHMZfg93MYrTtmhgBBJkL/view?usp=drive_web
+活動資訊：
+https://ocftw.kktix.cc/events/usavisits
 
-【分享者簡介】
+講者投影片：
+- ipa 
+    - https://www.slideshare.net/ipachiu/2018-g0v-x-ocf
+- chihao 
+    - https://drive.google.com/file/d/1J0wluR1m0hAIHMZfg93MYrTtmhgBBJkL/view?usp=drive_web
+
+影片
+https://www.youtube.com/live/Aa-YETYM7ak
+
+## 分享者簡介
 
 Ttcat 吳銘軒／OCF 副執行長 + g0v contributor 
-
-資深社運工作者，參與多年廢核、環境、性別與人權運動。專長為創意企劃、溝通設計與程式設計。過去在 g0v 社群提供社運觀點與橫向聯繫，目前是 g0v 黑客松籌備成員，並負責開放文化基金會拓展國際網絡計畫。
+- 資深社運工作者，參與多年廢核、環境、性別與人權運動。專長為創意企劃、溝通設計與程式設計。過去在 g0v 社群提供社運觀點與橫向聯繫，目前是 g0v 黑客松籌備成員，並負責開放文化基金會拓展國際網絡計畫。
 
  
 ipa 瞿筱葳／g0v co-founder
-
-紀錄片工作者/作家，g0v 零時政府社群共同發起人，近年關注開源黑客文化與數位公民參與，推廣跨界開源協作模式。
+- 紀錄片工作者/作家，g0v 零時政府社群共同發起人，近年關注開源黑客文化與數位公民參與，推廣跨界開源協作模式。
 
 Yutin 劉宇廷／g0v contributor 
-
-Tmot Innovation CTO and FED.tw co-founder
-Web developer #OpenSource #OpenGov。在社會運動上長期協助錄影與直播，是 g0v 長期參與者。曾經參與 g0v.news、g0ver、北市災民證、血液即時存量、八仙塵爆協尋、割闌尾、投票指南 等等專案。
+- Tmot Innovation CTO and FED.tw co-founder
+- Web developer #OpenSource #OpenGov。在社會運動上長期協助錄影與直播，是 g0v 長期參與者。曾經參與 g0v.news、g0ver、北市災民證、血液即時存量、八仙塵爆協尋、割闌尾、投票指南 等等專案。
 
 游知澔／沃草 + g0v contributor
+- 協作傳道人、做網站、幹政府。
 
-協作傳道人、做網站、幹政府。
-
-
+## 參訪的活動與單位
 * Code for America 介紹
 * 找業界的人進政府協助開發政府的服務流程。
 * Electronic Frontier Foundation
