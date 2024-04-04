@@ -40,7 +40,11 @@ tags: AI, LLM
 #### Phase2  藥學．要學：AI驅動的個人化精準學習
 產品：Web app- 台灣藥學國考的學習助手調整方向
 以phase1訓練後的LLM模型為基礎，完成web app產品
-
+---
+### 2024/4/3 會議結論
+- JM幫忙擴展以下優質嚴選資料源, 大家各自認領爬蟲(為避免重複做工, 請先認領再開工)
+- 下週固定會議因JM北上暫停一次, 大家也需要爬蟲時間各自努力爬蟲
+- 補充：SFT資料人工審核優化的支援人手從召集到溝通作業要求需要前置時間約2週時間, 需要在第一批SFT資料集產出並初步驗証後開始投入支援人手, 進良這邊會開始準備號召藥學研究所學生參與的EDM海報(先以之前來上AI藥學應用的學生做TA)
 ---
 ## 藥品資訊來源
 >[name=建名]2024-03-29
@@ -98,6 +102,8 @@ tags: AI, LLM
             - https://www.fda.gov.tw/TC/siteContent.aspx?sid=2382
         - 反毒專區
             - https://www.fda.gov.tw/TC/site.aspx?sid=10070&r=1171608985
+
+
 ---
 ### 2024/3/26 每週會議結論：
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_08b5ed07c7de5febc4c5fd282bc6ec4f.png)
