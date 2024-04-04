@@ -15,7 +15,10 @@ tags: Rentea
 ## 台灣
 - 台北[華江整宅](https://maps.app.goo.gl/sVc1BL7rEHPMarES9)
 - 台北[萬芳國宅](https://maps.app.goo.gl/jP9WQ3SdWwvBMiCp6)
+    - 台北市首宗利用山坡地大批興建國宅的案例。
 - 高雄[果貿社區](https://maps.app.goo.gl/Cx8STxminqmww52V7)
+    - 前身為海軍眷村果貿三村，位於左營軍港附近。
+    - 1985年完工，主體建築共13棟，圓弧形建築為最大的特色。 
 ## 日本
 - 東京都北區[赤羽台團地](https://maps.app.goo.gl/sSrkRioimDv2MYMD9)
 - 東京都澀谷區[表參道之丘](https://maps.app.goo.gl/ohJcG48Yor2n9zBr8)

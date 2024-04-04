@@ -5,8 +5,10 @@ tags: cowork guideline, 開源協作手冊, g0v
 :::success
 [< 回到開源協作手冊](https://g0v.hackmd.io/@jothon/g0v-cowork-guideline)
 :::
+
 什麼是開源（Open Source）呢？我們先來看個影片吧！
-> 什麼是 Open Source - 樂高版本
+
+什麼是 Open Source - 樂高版本
 {%youtube 6NhyCXJU-IQ %}
 
 

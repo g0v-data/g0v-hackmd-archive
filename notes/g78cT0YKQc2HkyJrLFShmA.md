@@ -1371,8 +1371,16 @@ https://www.dsf.gov.mo/asset/asset_houseallocate.aspx?lang=zh, 公務員房屋�
 * [統一管理制度 - 行政公職局]( https://concurso-uni.safp.gov.mo/)
 * [公務人員職程制度]( http://carreira.safp.gov.mo/index.html)
 * [公務人員管理及服務平台（G2E）](https://g2e.gov.mo/zh-hant/)
-* [中文公文寫作手冊，試行版](http://www.informac.gov.mo/safp/writingskill/)。 另外公務員網站上有份2007年版的行政公文寫作手冊，只供公務員查閱 ；)
-
+* [柯P模式 : 柯文哲的SOP跟你想的不一樣](https://webpac.library.gov.mo/client/zh_TW/webpac/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:502068/one?qu=%E6%9F%AFP%E6%A8%A1%E5%BC%8F+%3A+%E6%9F%AF%E6%96%87%E5%93%B2%E7%9A%84SOP%E8%B7%9F%E4%BD%A0%E6%83%B3%E7%9A%84%E4%B8%8D%E4%B8%80%E6%A8%A3&te=ILS)
+* [改變成真 : 柯文哲的城市進化論](https://webpac.library.gov.mo/client/zh_TW/webpac/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:481884/one?qu=%E6%94%B9%E8%AE%8A%E6%88%90%E7%9C%9F+%3A+%E6%9F%AF%E6%96%87%E5%93%B2%E7%9A%84%E5%9F%8E%E5%B8%82%E9%80%B2%E5%8C%96%E8%AB%96&te=ILS)
+* [白色的力量 - 柯文哲 : 我改變不了四季的變化,只能讓其盡善盡美](https://webpac.library.gov.mo/client/zh_TW/webpac/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:481099/one?qu=%E7%99%BD%E8%89%B2%E7%9A%84%E5%8A%9B%E9%87%8F&qu=-&qu=%E6%9F%AF%E6%96%87%E5%93%B2+%3A+%E6%88%91%E6%94%B9%E8%AE%8A%E4%B8%8D%E4%BA%86%E5%9B%9B%E5%AD%A3%E7%9A%84%E8%AE%8A%E5%8C%96%2C%E5%8F%AA%E8%83%BD%E8%AE%93%E5%85%B6%E7%9B%A1%E5%96%84%E7%9B%A1%E7%BE%8E&te=ILS)
+* [白色力量. 4 : 光榮城市 : 柯文哲的進步價值](https://webpac.library.gov.mo/client/en_US/webpac/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:585869/one?qu=9789576580086&te=ILS)
+* [生死之間：柯文哲從醫療現場到政治戰場的修練](https://webpac.library.gov.mo/client/en_US/webpac/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:587120/one?qu=9789864777075&te=ILS&fbclid=IwAR3h7_7ClDPyelRICdiXsCZH11Jz-3ChaSoX522wUOVfCoTvXSWQkfl7fbc)
+* [生死之間2︰葉克膜的故事](https://readmoo.com/book/210165962000101)
+* [人生十堂課(音頻課) (有聲書)](https://www.books.com.tw/products/E070000536?sloc=main)
+* [柯P管理學：價值，領導，創新](https://readmoo.com/book/210242541000101)
+* [柯文哲的台灣筆記](https://readmoo.com/book/210301411000101)
+* [漫畫柯文哲](https://readmoo.com/book/210300834000101)
 
 ## 相關法例
 * [第87/89/M號法令核准的《澳門公共行政工作人員通則》](https://bo.io.gov.mo/bo/i/89/51/estatuto_cn.asp)
