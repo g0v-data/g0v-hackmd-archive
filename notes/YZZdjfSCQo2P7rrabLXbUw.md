@@ -4,12 +4,14 @@
 :::warning
 目錄
 [TOC]
-:::https://www.youtube.com/watch?v=m1bMKBC-3Ic
+:::
+《１００次逃脫》
 https://www.i-gamer.net/play/21299.html
 Google 遊戲
 https://web.jsps.kh.edu.tw/googlegame/
-跳舞
-https://youtube.com/shorts/529UbBaUQwQ?feature=share
+自然故事花園4
+https://drive.google.com/drive/folders/1p4xh2eRc8tLJGkaa-EMv8uSFRRAal_ob?usp=drive_link
+
 
 #### 常用連結
 打字練習1    https://worldofkeyboards.com/bopomofo
