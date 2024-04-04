@@ -24,6 +24,23 @@ title: 道路標線改造案例地圖、熱點關注地圖
     - 可以想一下有沒有什麼種類的資料圖層，適合放到地圖上 (例如行人事故地點，待確認資料量筆數)
     - 每個圖層檔案上限 5mb 或是 資料筆數 2000 筆
 - 地圖編輯網址：https://www.google.com/maps/d/edit?mid=1bDD92bgy5n_N12Mm9X1PVC_mvSh3tmY&usp=sharing
+- 想評估改用 群眾標註地圖 來作為登載成地理資料的工具
+    - 工具網址：https://commutag.agawork.tw/dataset?id=63528cc34f042e88cc951433
+    - 優點：手機介面即可登載資料
+        - chewei 找到待登載素材的時候通常都是滑手機的時候，但是 Google My Map 手機無法編輯，所以 chewei 只能列舉在 hackmd，導致無法連貫完成登載，素材塞車 !
+    - 優點：可自行設定欄位表單
+        - 類型：已有民間單位關注或已有改造方案、已改造
+        - 其他欄位種類，待設想
+        - 道路類型
+            - T 字路口
+            - 公路
+            - 巷弄
+            - 同向分隔島
+            - 輕軌
+        - 對策類型
+            - 圓環
+            - ..等
+    - 課題：不過，顯示資料的地圖，沒有圖層，所有像是找「已改善」要用篩選器進行勾選
 
 ✍ 歡迎貢獻者自行簽到：
 - chewei, joyceluo,
@@ -269,6 +286,8 @@ https://photos.app.goo.gl/45SYWZXbJgmQ2pFR9
 師大路
 https://www.facebook.com/story.php?story_fbid=pfbid06bsJufp2fbYweDeBtHUavU4jNR1eB3DEzvFPkpdrcBVRmX79LaoRDfMy2kNcKaEBl&id=100076181288036
 
+羅斯福路與師大路路口
+https://www.facebook.com/share/p/byWsysvhhGmD5eUi/
 
 台大校區無車化方案
 https://www.facebook.com/share/p/jSBZSRd54UnvwDhR/?mibextid=WC7FNe
