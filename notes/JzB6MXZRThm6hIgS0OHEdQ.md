@@ -146,6 +146,8 @@ https://atlas.geo.ntnu.edu.tw/
 - 資料格式：csv
 - 資料下載網址：https://data.gov.tw/dataset/73242
 
+#### 勘誤
+
 民間下載 20240107 資料集建立的線上地圖
 - 線上地圖搭配篩選器：https://app.awesome-table.com/-NsTj-d3gKaoZCgi28Xq/view
     - 輔助用線上地圖 (無篩選器)：https://umap.openstreetmap.fr/zh-tw/map/2024010
@@ -230,40 +232,6 @@ https://atlas.geo.ntnu.edu.tw/
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b1539de06e7a1dbd885682d5b0776861.png)
 
 
-資料欄位內容討論
-- 一個避難收容處所，標記不是室內，也不是室外，那這是什麼意思？
-- 關於「適合避難弱者安置」的收容處所
-    - 如果沒有被標記為「適合避難弱者安置」該如何理解？
-        - 是不建議避難弱者前往嗎？
-    - 有部分場所有註記，例如「序號 747 高雄市燕巢區瓊林里岡山榮譽國民之家，可收容特殊需照料之弱勢災民，如洗腎患者及其家屬」
-        - 這些涉及特定醫療器材的資訊，是否也需要提列成欄位？
-- 中英文對照，初步採用：
-    - 縣市及鄉鎮市區 County and Area
-    - 村里 Village
-    - 預計收容村里 Service Area
-    - 避難收容處所地址 Address
-    - 避難收容處所名稱 Shelter Name
-    - 適用災害類別 Disaster Categories
-        - 水災-Flooding
-        - 地震-Earthquake
-        - 土石流-Landslide
-        - 坡地災害-HillslopeDisaster
-        - 海嘯-Tsunami
-        - 核子事故-NuclearEmergency
-    - 適合避難弱者安置 Shelter for Vulnerable People
-        - 是 Shelter for Vulnerable People
-        - 否 No
-    - 室內 Indoor
-        - 室內 Indoor
-        - 否
-    - 室外 Outdoor
-        - 室外 Outdoor
-        - 否
-    - 預計收容人數 Capacity
-- 設想使用路徑：
-    - 使用者在線上地圖查詢，選擇災害種類，篩選出適合的避難收容處所，點開避難收容處所欄位資料，也可以進一步提供該場所的避難地圖圖檔
-    - Case: 彰化縣彰化市 https://docs.google.com/presentation/d/1zsKhzBNxHTcPPk9Wh3OE5fn8ooSONA3M/edit?usp=sharing&ouid=105730214933763595410&rtpof=true&sd=true
-    
 ---
 
 #### Todo：資料勘誤與回報
@@ -323,6 +291,42 @@ https://atlas.geo.ntnu.edu.tw/
 
 ---
 
+
+#### 資料欄位內容討論
+- 一個避難收容處所，標記不是室內，也不是室外，那這是什麼意思？
+- 關於「適合避難弱者安置」的收容處所
+    - 如果沒有被標記為「適合避難弱者安置」該如何理解？
+        - 是不建議避難弱者前往嗎？
+    - 有部分場所有註記，例如「序號 747 高雄市燕巢區瓊林里岡山榮譽國民之家，可收容特殊需照料之弱勢災民，如洗腎患者及其家屬」
+        - 這些涉及特定醫療器材的資訊，是否也需要提列成欄位？
+- 中英文對照，初步採用：
+    - 縣市及鄉鎮市區 County and Area
+    - 村里 Village
+    - 預計收容村里 Service Area
+    - 避難收容處所地址 Address
+    - 避難收容處所名稱 Shelter Name
+    - 適用災害類別 Disaster Categories
+        - 水災-Flooding
+        - 地震-Earthquake
+        - 土石流-Landslide
+        - 坡地災害-HillslopeDisaster
+        - 海嘯-Tsunami
+        - 核子事故-NuclearEmergency
+    - 適合避難弱者安置 Shelter for Vulnerable People
+        - 是 Shelter for Vulnerable People
+        - 否 No
+    - 室內 Indoor
+        - 室內 Indoor
+        - 否
+    - 室外 Outdoor
+        - 室外 Outdoor
+        - 否
+    - 預計收容人數 Capacity
+- 設想使用路徑：
+    - 使用者在線上地圖查詢，選擇災害種類，篩選出適合的避難收容處所，點開避難收容處所欄位資料，也可以進一步提供該場所的避難地圖圖檔
+    - Case: 彰化縣彰化市 https://docs.google.com/presentation/d/1zsKhzBNxHTcPPk9Wh3OE5fn8ooSONA3M/edit?usp=sharing&ouid=105730214933763595410&rtpof=true&sd=true
+
+
 #### 更多資料 / 資料議題討論
 
 個別單位釋出的資料，優先盤點比消防署全國資料的欄位種類更多的資料集
@@ -372,6 +376,16 @@ https://atlas.geo.ntnu.edu.tw/
 
 #### 資料應用
 
+#### 從資料應用情境與具體災害事件收容開設狀況經驗，探討資料集本身的整備注意事項
+
+資料應用情境
+- 若民眾只看單一鄰里內的避難收容處所位置，反而少了區域應變調整的視野
+    - 情境舉例
+        - 美國針對龍捲風災害，居民避難方向，採用「看龍捲風怎麼走，才決定你要往哪裡避難」
+        - 日本福島輻射影響範圍，並不是同心圓，而是基於外洩當天的風向，所以有些區域的避難方向，不一定是遠離外洩地點，因為如果在主要風廊軸線上，再怎麼跑都在輻射影響的範圍內，這也是目前台灣核災避難地圖需要改進的部分，應該歸納日夜與季節的盛行風向表，一旦發生外洩事件，依照當下季節及時段，往對應方向避難
+        - 臺灣有少數縣市，會把淹水潛勢區塊，也繪製在避難地圖上，因為實際上面臨降雨積水災害，但前往水災避難據點的路上卻是積水嚴重區域，需要繞道而行、躲開易積水地區，這部分也還可以整合實際歷年淹水位置 (NCDR 網站圖台上有釋出，待確認有沒有釋出 opendata)
+    - 上述的演練應用，都需要 收容處所 gis 資料，才能有區域尺度的視野，也才有機會導入情境路徑演算的功能
+
 提供一個查找路徑：
 - 使用者瀏覽全台避難收容處所查詢線上地圖
 - 選擇災害情境作為篩選條件
@@ -397,6 +411,20 @@ https://rsjhs.ntct.edu.tw/p/404-1010-403933.php?Lang=zh-tw
 https://hdl.handle.net/11296/3m94b2
 
 是否有開設紀錄歷史資料？收容場域，成為地區生活經驗之一，歸納避難收容設施改善議題
+
+具體災害事件收容開設狀況經驗
+- 20240402 花蓮地震
+    - 花蓮縣避難收容處所開設狀況
+        - 花蓮市中華國小126人
+        - 吉安鄉化仁國中20人
+        - 吉安鄉月光寺21人
+        - 秀林鄉崇德國小2人
+        - 秀林鄉和中收容所28人
+        - 秀林鄉富世國小16人
+    - 討論：
+        - 類型一：地震後擔心餘震或既有建物無法返回，所前往的地點
+        - 類型二：暫居過夜收容
+            - 其中並非收容所既有資料的地點：月光寺、和中收容所
 
 應變單位與救援單位 csv
 https://data.gov.tw/dataset/5969
