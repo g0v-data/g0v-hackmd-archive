@@ -59,8 +59,19 @@ tags: vtaiwan
 - 在瑞士曾主導Aarau城市2023年的[參與式預算計畫](https://www.stadtidee.aarau.ch/abstimmung.html/2114)
 - vTaiwan 社群參與者
 
-## 數發部夥伴介紹 MODA Member Introduction
+## 計畫欲參訪機構
+- Policy Lab
+https://openpolicy.blog.gov.uk/
+希望學習數位政策如何容納多元利害關係人共同制定。
+- Government Digital Serviece
+https://www.gov.uk/government/organisations/government-digital-service
+希望了解英國政府推行開放原始碼情形和相關法制規範等，以利台灣學習。
 
+## 數發部夥伴名單 MODA Member List
+民主網路司
+- 張兆琦副司長
+- 劉澄真系統分析師
+- 廖家翎分析師
 ## 計畫所需經費與運用
 - 所需經費：￡5000
 - 預算運用：如下表：
