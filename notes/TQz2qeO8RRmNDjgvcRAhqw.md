@@ -60,6 +60,12 @@ https://www.youtube.com/live/9kEhkdOG8Ko?feature=share&t=19442
 - 曾打開一個小孔，讓市民認識地下箱涵，也創造一個休憩角落
     - https://www.facebook.com/taipeiopengreen/posts/1611961975494769/
 
+雨水廣場
+- https://www.facebook.com/share/p/haVAdsHVqUr3iNAE/
+
+大安區東區上埤遺線線型公園廣場
+- 123
+
 曼谷 Chong Nonsi Canal
 - 相關資料：
     - 施工過程影片

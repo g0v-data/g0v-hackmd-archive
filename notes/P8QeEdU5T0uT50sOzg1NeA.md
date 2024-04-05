@@ -767,3 +767,13 @@ Opass 教學
     - 核銷一定要發票嗎？淘寶及轉運商開的證明可以嗎？
         - > 從基金會出的話可能一定要⋯⋯再請跟廠商說明情況 [name=RS]
         - > 好 [name=Dong]
+
+### 合作夥伴 logo
+
+- 蒐集在[合作夥伴資料](https://docs.google.com/spreadsheets/d/122vS2pBTewWNs11xb_WSbHvrfdQS8iqZgBU8wKMlZ8I/edit)
+- 問題：
+    - 資訊法中心有[多種顏色的 logo](https://drive.google.com/file/d/1l1csgC5xA9Qh49kdkh1XmIGnq8sHlixt/view) 可以挑選：
+      ![範例](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_db748cc4bf84174509918b329c1a43cd.png)
+        - > 是不是要選一種跟我們主視覺比較搭配的？(´Д` ) [name=RS]
+    - 部分廠商同時提供直式跟橫式，要怎麼選？
+
