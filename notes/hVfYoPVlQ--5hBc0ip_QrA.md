@@ -577,6 +577,7 @@ https://photos.app.goo.gl/1CBYrPCswto64VUt8
 線上圖台
 http://fault.moeacgs.gov.tw/MgFault/Home/pageMap?LFun=3#
 斷層所造成的高層差距、陷落等特性，直接或間接成為了聚落聚集地區邊界，例如山腳斷層與台北盆地都會區、新竹斷層與新竹市、彰化斷層與彰化縣
+https://www.facebook.com/share/p/haKUKZDEqRt2YwSi/
 影像中判釋斷層
 https://www.facebook.com/permalink.php?story_fbid=358951544632255&id=339919013202175
 巨視可感的顯著現象

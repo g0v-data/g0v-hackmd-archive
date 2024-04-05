@@ -731,7 +731,7 @@ Opass 教學
 ## 20240405 第二十次會議紀錄
 > 時間：2024/04/05（五） 8:30 PM
 > 地點：線上
-> 出席：Dong、、、、、
+> 出席：Dong、阿敏、Hou、YC、、
 >
 
 ### 鏡頭保護蓋
@@ -762,7 +762,14 @@ Opass 教學
             ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_40d1a2b55fd5f9a4d7b406ce3adc077c.png)
             :::
 - 問題：
-    - 要做單個（單色裝）還是兩個（黑白各一）的版本？兩個裝的總成本約比單個裝貴1500TWD左右
+    - 要做單個（單色裝）還是兩個（黑白各一）的版本？兩個裝的總成本約比單個裝貴1500TWD左右 
+        - 做黑＋白500份
+            - [name=Dong]
+            - [name=Hou]
+            - [name=阿敏]
+            - [name=YC]
+        - 只做黑250份＋白250份 
+        - 只做黑500份
     - 卡紙設計有無需要調整的地方？
     - 核銷一定要發票嗎？淘寶及轉運商開的證明可以嗎？
         - > 從基金會出的話可能一定要⋯⋯再請跟廠商說明情況 [name=RS]
@@ -773,7 +780,17 @@ Opass 教學
 - 蒐集在[合作夥伴資料](https://docs.google.com/spreadsheets/d/122vS2pBTewWNs11xb_WSbHvrfdQS8iqZgBU8wKMlZ8I/edit)
 - 問題：
     - 資訊法中心有[多種顏色的 logo](https://drive.google.com/file/d/1l1csgC5xA9Qh49kdkh1XmIGnq8sHlixt/view) 可以挑選：
-      ![範例](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_db748cc4bf84174509918b329c1a43cd.png)
+        - 其中一部分的範例：![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_db748cc4bf84174509918b329c1a43cd.png)
         - > 是不是要選一種跟我們主視覺比較搭配的？(´Д` ) [name=RS]
-    - 部分廠商同時提供直式跟橫式，要怎麼選？
+        - > 我現在選這個![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f23b5563297ee4ddf1f7bd50bc82186d.png) [name=Dong]
 
+    - 部分廠商同時提供直式跟橫式，要怎麼選？
+        - ![](https://presskit.hackmd.io/Logo/PNG/HackMD_LOGO_horizontal_white.png =200x200)![](https://presskit.hackmd.io/Logo/PNG/HackMD_LOGO_vertical_white.png =200x200)
+        - > 我優先選橫式 [name=Dong]
+    - 什麼場合使用的到這些直式的？
+        - 好像沒有特別會用到直式的 
+        - > 我也是偏好橫式的 [name=Hou]
+
+## 摺頁
+- 目前以A2尺寸做設計
+- 已請小侯試折看看

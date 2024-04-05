@@ -221,6 +221,124 @@ Example HTML structure:
 Explanation:
 This HTML code sets up the structure and content of a web page for a basic chat application, including elements for displaying messages, sending messages via a form input field, and importing necessary JavaScript libraries and scripts for real-time communication with a Socket.io server.
 
+### Styling the Chat Application
+It's time to style our application, this can be achieved by copying and pasting the following lines of codes into the `style.css` file you created
+
+```css
+/* Global Reset */
+*, *::before, *::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Heading Styles */
+h2 { font-weight: 100; }
+
+/* Navigation Styles */
+nav {
+  text-align: center;
+  background-color: blueviolet;
+  padding: 10px;
+  color: white;
+}
+
+/* Container Styles */
+.container {
+  max-width: 1000px;
+  margin: 100px auto 50px;
+  padding: 20px;
+}
+
+/* Chatbox Styles */
+.chatbox {
+  height: 500px;
+  list-style: none;
+  display: flex;
+  flex-flow: column;
+  background: #eee;
+  border-radius: 6px;
+  box-shadow: 1px 0px 10px #eee;
+}
+
+/* Message List Styles */
+#messagelist {
+  flex: 1;
+  overflow-y: scroll;
+}
+
+#messagelist li {
+  background: white;
+  max-width: 400px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#messagelist p:first-child {
+  color: #53bdea;
+}
+
+/* Private Message Styles */
+#messagelist .private {
+  background: #015e4b;
+  color: #fff;
+  margin-left: auto;
+}
+
+#messagelist .private p:first-child {
+  color: #03c493;
+}
+
+/* Form Input Styles */
+form.Input { display: flex; }
+
+form.Input input {
+  flex: 10;
+  padding: 14px 10px;
+  border: none;
+}
+
+form.Input button {
+  padding: 4px;
+  background: teal;
+  border: none;
+  flex: 1;
+  color: white;
+  cursor: pointer;
+}
+
+/* User List Styles */
+#users {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  height: 100px;
+  overflow-y: scroll;
+  flex-flow: row;
+  padding-top: 20px;
+}
+
+#users li {
+  min-width: 100px;
+  max-height: 20px;
+  border-radius: 10px;
+  background: white;
+  text-align: center;
+  box-shadow: 0px 2px 10px #eee;
+}
+```
+Explanation:
+* Global Reset: Resets all padding, margins, and sets the box-sizing to border-box for all elements. It also sets the default font-family to Arial, Helvetica, sans-serif.
+* Heading Styles: Sets a lighter font weight for `<h2>` elements.
+* Navigation Styles: Styles the navigation bar with centered text, blueviolet background, and white text color.
+* Container Styles: Sets a maximum width for the container, centers it on the page with a margin, and adds padding.
+* Chatbox Styles: Styles for the chatbox, including height, background color, border-radius, and box-shadow.
+* Message List Styles: Styles for the list of messages, including background color, max-width, padding, and margin.
+* Private Message Styles: Styles for private messages, overriding the default message styles with different background and text colors.
+* Form Input Styles: Styles for the form input section, including flex layout, input field styles, and button styles.
+* User List Styles: Styles for the list of users, including flex layout, wrapping, height, and individual user item styles.
+
 ### Setting Up Socket.io Client-Side Library
  In the HTML file, include the Socket.io client-side library by adding the following `script` tag just before the closing `</body>` tag:
 ```htmlembedded
@@ -364,7 +482,6 @@ Then, open a web browser and navigate to `http://localhost:3000`  to access the 
 Here's our app:
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7ba1cfc36f8735127df3f9b486cb4145.png)
-
 
 Feel free to test various features of the app, including sending messages, receiving messages, and handling different events.
 

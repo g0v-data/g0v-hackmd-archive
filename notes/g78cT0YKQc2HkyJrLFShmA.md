@@ -81,6 +81,7 @@ http://www.ca.gov.mo/files/PA4119cn.pdf
 有咩問題，係呢度寫，時間到了，自然會有人回答你。或者去[澳門公務員Secrets](https://www.facebook.com/CivilServantSectets.macau)提問，都可以使用放大鏡搜尋過往相關的話題。又或者到呢度睇下收集的問題：[正苦工問題集](https://docs.google.com/document/d/1CMnw_J-lqW1LoAESxu-IrGieoqcqd14K9kXrRzfVHUY/edit?usp=sharing)。
 
 ### 問題
+
 答案
 
 ### 想問下，35歲以後考公職還有沒有機會？
@@ -93,7 +94,7 @@ http://www.ca.gov.mo/files/PA4119cn.pdf
 
 ### 想問下430合同位轉實位，點數重頭開始計，起薪430，但我見有些人佢地已經升左做一等高級技術員，變左485點，但點解佢地願意每個月少近5000，都想要實位，佢地有咩動機，定有咩玩法，唔該。
 
-可能換多一些保障？換多一些機會？[name=john]
+可能換多一些保障？換多一些機會？ [name=john]
 
 ### 我最近考左個局的430收3個實位，而我知道今次頭3名就係19年同一專業範疇的考到合同位的果3個人，咁佢地3個轉左實位後，佢地依家的合同位仲會唔會請番人補番佢，機率高唔高，因為我排左係佢地後3個位入邊，有冇有經驗的師兄姐有遇過的解答下，唔該。
 
@@ -101,6 +102,8 @@ http://www.ca.gov.mo/files/PA4119cn.pdf
 
 
 ### 我想問下邊到可以買到政府公文寫作嘅相關書籍？因為網上搵到嘅例子都唔多。
+
+ccc
 
 ### 我記錄咗2023年6月11日懲教管理局(公共財政)技術員筆試部分問題，如果有人知道答案可唔可以講解一下？因為驚冇人睇到所以發喺呢度，請諒解。
 https://docs.google.com/document/d/1IhyVG3KncyizQ3sD2mPFytnpwN86X5JSOV9PjjyuU18/
