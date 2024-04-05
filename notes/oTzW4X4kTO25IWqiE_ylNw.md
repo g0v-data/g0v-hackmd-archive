@@ -5,7 +5,7 @@ tags: summit2024
 
 ## 簡介
 
-數位人權是保護個人隱私、自由表達、自由取得資訊權利的基礎。在科技發展的同時，對數位人權的威脅也正在升高。g0v 社群邀請到來自國際人權組織 Access Now 的 3 位講者，把他們的實際工作經驗帶到這次的 g0v Summit，分享網路中斷、監控科技這兩項重要議題的威脅概況及國外個案，期待和 Summit 會眾一起探索公民社會如何協力保護數位人權。
+數位人權是保護個人隱私、自由表達、自由取得資訊權利的基礎。在科技發展的同時，對數位人權的威脅也正在升高。g0v 社群邀請到來自國際人權組織 Access Now 的三位講者，把他們的實際工作經驗帶到這次的 g0v Summit，分享三項重要議題：網路中斷、監控科技，以及對個人資料權利的威脅概況及亞太區域個案，期待和 Summit 會眾一起探索公民社會如何協力保護數位人權。
 
 ## 形式
 - 3 位講者各自分享後，由講者負責主持綜合討論
@@ -20,6 +20,13 @@ tags: summit2024
     - Access Now 資深政策顧問及加密政策主任 / Senior Policy Counsel and Encryption Policy Lead
 - 主持人：游知澔 Chihhao Yu
     - 台灣資訊環境研究中心 IORG 共同主持人 / Co-director
+
+## Session Title
+Defending Digital Rights in the Age of Digital Authoritarianism
+
+## Description
+In today’s interconnected world, digital rights are fundamental to the protection of personal privacy, free expression, and access to information. As technology continues to evolve, so too do the threats that jeopardize these rights. g0v community has invited 3 speakers from the international human rights organization Access Now to bring their working experience to g0v Summit 2024. In this session, they will share an overview and cases on (1) internet shutdown (2) surveillance tech and (3) threats against people’s data rights, hoping to exchange ideas and explore ways that civil societies can contribute in the safeguarding of digital human rights. 
+
 
 :::info
 以下用新的模板整理一遍。

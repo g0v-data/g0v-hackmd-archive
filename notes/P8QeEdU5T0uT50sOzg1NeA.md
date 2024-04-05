@@ -735,11 +735,35 @@ Opass 教學
 >
 
 ### 鏡頭保護蓋
-- 改向淘寶廠商報價，交期含製作約兩週
-    - 廠商A
-        - 單個裝 1.3RMB(約6.5TWD)/
-        - 兩個裝 1.9RMB(約9.5TWD)
-    - 廠商B
 - 設計稿
     - 鏡頭保護蓋![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8cfeca7a7158acec7855525c37bf9971.png)
     - 卡紙![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_69880192d5ba788f3ad54f297191b13e.png)
+        - > 好可愛哦天吶！ [name=RS]
+- 改向淘寶廠商報價，交期含製作約兩週
+    - 詢價規格：
+        - 客製化「黑色」鏡頭遮擋貼印刷
+        - 客製化「白色」鏡頭遮擋貼印刷
+        - 客製化卡紙印刷＋圓角
+        - 吸塑包裝
+            :::spoiler 吸塑包裝示意圖
+            ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0984636aaadf4ac5c635e336f2051498.png)
+            :::
+        - 單個裝為單色，兩個裝為黑白色各一
+    - 廠商A
+        - 單個裝 1.3RMB(約6.5TWD)/份
+        - 兩個裝 1.9RMB(約9.5TWD)/份
+            :::spoiler 詳細報價
+            ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_87e5b8aee01f8c30f5aaa82793348c9a.png)
+            :::
+    - 廠商B
+        - 單個裝 3.5RMB(約17.5TWD)/份
+        - 兩個裝 2.5RMB(約12.5TWD)/份
+            :::spoiler 詳細報價
+            ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_40d1a2b55fd5f9a4d7b406ce3adc077c.png)
+            :::
+- 問題：
+    - 要做單個（單色裝）還是兩個（黑白各一）的版本？兩個裝的總成本約比單個裝貴1500TWD左右
+    - 卡紙設計有無需要調整的地方？
+    - 核銷一定要發票嗎？淘寶及轉運商開的證明可以嗎？
+        - > 從基金會出的話可能一定要⋯⋯再請跟廠商說明情況 [name=RS]
+        - > 好 [name=Dong]

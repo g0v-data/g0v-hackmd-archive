@@ -166,7 +166,7 @@ When a client connects to the server, the `'connection'` event is triggered. You
 Socket.io allows you to send messages to all connected clients or specific clients using the `io.emit()` and `socket.emit()` methods, respectively. For example, to broadcast a message to all connected clients, you can use:
 
 ```javascript
-     io.on("connection", (socket) => {
+io.on("connection", (socket) => {
   socket.on("chat message", (msg) => {
     io.emit("chat message", msg); // Broadcast message to all clients
   });
@@ -187,8 +187,36 @@ Begin by creating the HTML structure for the chat interface in the `index.html` 
 This structure typically includes elements for displaying messages, input field for typing messages, and a submit button.
 
 Example HTML structure:
+
 ```htmlembedded
-    
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Socket Chat App</title>
+  </head>
+
+  <body>
+    <h1>Socket Chat App</h1>
+    <div class="container">
+      <div class="chatbox">
+        <ul id="messagelist"></ul>
+        <form class="Input">
+          <input type="text" placeholder="Type your message ..." />
+          <button>Send</button>
+        </form>
+      </div>
+      <br />
+      <div class="activeusers">
+        <h2>Active Users</h2>
+        <ul id="users"></ul>
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.4.1/socket.io.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>;
 ```
 Explanation:
 This HTML code sets up the structure and content of a web page for a basic chat application, including elements for displaying messages, sending messages via a form input field, and importing necessary JavaScript libraries and scripts for real-time communication with a Socket.io server.
