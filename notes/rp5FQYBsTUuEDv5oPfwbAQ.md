@@ -82,7 +82,7 @@ When you run `npm install socket.io`, npm will do the following:
 Once the installation process is complete, you can start using the  library in your Node.js project by requiring it in your code:
 
 ```javascript
-const io = require('socket.io');
+const io = require("socket.io");
 ```
 This line of code imports the library module into your Node.js application, allowing you to use its functionality to create real-time communication features.
 
@@ -117,16 +117,16 @@ npm install express
 
 ```javascript
 // Import required modules
-const express = require('express');
+const express = require("express");
 const app = express();
-const http = require('http').Server(app);
+const http = require("http").Server(app);
 
 // Define port number
 const PORT = process.env.PORT || 3000;
 
 // Start the server
 http.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
+  console.log(`Server is running on port ${PORT}`);
 });
 ```
 Explanation:
@@ -138,20 +138,20 @@ Explanation:
 * `http.listen(PORT, () => { ... });`: This line starts the HTTP server, causing it to listen for incoming connections on the specified port (`PORT`). The callback function passed to `listen()` is executed once the server is successfully started. Inside the callback function, we log a message to the console indicating that the server is running and listening on the specified port.
 
 ### Initializing Socket.io on the Server
-   - After setting up the Express server, initialize Socket.io and attach it to the HTTP server instance:
+After setting up the Express server, initialize the library and attach it to the HTTP server.  For instance:
  ```javascript
      // Import Socket.IO
-     const io = require('socket.io')(http);
-     
-     // Socket.IO event handling
-     io.on('connection', (socket) => {
-         console.log('A user connected');
-         
-         // Handle disconnection
-         socket.on('disconnect', () => {
-             console.log('User disconnected');
-         });
-     });
+const io = require("socket.io")(http);
+
+// Socket.IO event handling
+io.on("connection", (socket) => {
+  console.log("A user connected");
+
+  // Handle disconnection
+  socket.on("disconnect", () => {
+    console.log("User disconnected");
+  });
+});
 ```
 Explanation:
 * `const io = require('socket.io')(http);`: This line imports the Socket.io library and immediately invokes it with the HTTP server instance (`http`) as an argument. This initializes the library to work with the existing HTTP server created using Express.js.
@@ -166,18 +166,17 @@ When a client connects to the server, the `'connection'` event is triggered. You
 Socket.io allows you to send messages to all connected clients or specific clients using the `io.emit()` and `socket.emit()` methods, respectively. For example, to broadcast a message to all connected clients, you can use:
 
 ```javascript
-     io.on('connection', (socket) => {
-         socket.on('chat message', (msg) => {
-             io.emit('chat message', msg); // Broadcast message to all clients
-         });
-     });
+     io.on("connection", (socket) => {
+  socket.on("chat message", (msg) => {
+    io.emit("chat message", msg); // Broadcast message to all clients
+  });
+});
 ```
-
 Explanation:
 
 From the code above, when a client sends a `'chat message'`, the server broadcasts the message to all connected clients.
 
-With these steps, the server-side setup for handling Socket.io connections and messages is complete. Next, you can proceed to set up the client-side code to interact with the server.
+With these steps, the server-side setup for handling the library's connections and messages is complete. Next, you can proceed to set up the client-side code to interact with the server.
 
 ## Setting Up the Client
 This section will show you how you can setup the client side of the chat application.
@@ -189,22 +188,7 @@ This structure typically includes elements for displaying messages, input field 
 
 Example HTML structure:
 ```htmlembedded
-     <!DOCTYPE html>
-     <html lang="en">
-     <head>
-         <meta charset="UTF-8">
-         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-         <title>Socket-Chat-App</title>
-     </head>
-     <body>
-         <ul id="messages"></ul>
-         <form id="form" action="">
-             <input id="input" autocomplete="off" /><button>Send</button>
-         </form>
-         <script src="/socket.io/socket.io.js"></script>
-         <script src="client.js"></script>
-     </body>
-     </html>
+    
 ```
 Explanation:
 This HTML code sets up the structure and content of a web page for a basic chat application, including elements for displaying messages, sending messages via a form input field, and importing necessary JavaScript libraries and scripts for real-time communication with a Socket.io server.
@@ -212,7 +196,7 @@ This HTML code sets up the structure and content of a web page for a basic chat 
 ### Setting Up Socket.io Client-Side Library
  In the HTML file, include the Socket.io client-side library by adding the following `script` tag just before the closing `</body>` tag:
 ```htmlembedded
-     <script src="/socket.io/socket.io.js"></script>
+    <script src="/socket.io/socket.io.js"></script>;
 ```
 This script tag loads the client library from the server.
 
@@ -225,16 +209,16 @@ Example client-side JavaScript code:
 
 ```javascript
      const socket = io();
-     const form = document.getElementById('form');
-     const input = document.getElementById('input');
-     
-     form.addEventListener('submit', (e) => {
-         e.preventDefault();
-         if (input.value) {
-             socket.emit('chat message', input.value);
-             input.value = '';
-         }
-     });
+const form = document.getElementById("form");
+const input = document.getElementById("input");
+
+form.addEventListener("submit", (e) => {
+  e.preventDefault();
+  if (input.value) {
+    socket.emit("chat message", input.value);
+    input.value = "";
+  }
+});
 ```
 Explanation:
 
@@ -247,11 +231,11 @@ Update `client.js` to handle incoming messages from the server and display them 
 Example code to receive and display messages:
 
 ```javascript
-     socket.on('chat message', (msg) => {
-         const item = document.createElement('li');
-         item.textContent = msg;
-         document.getElementById('messages').appendChild(item);
-     });
+     socket.on("chat message", (msg) => {
+  const item = document.createElement("li");
+  item.textContent = msg;
+  document.getElementById("messages").appendChild(item);
+});
 ```
 Explanation:
 This code listens for incoming messages from the server, creates a new list item to represent each message, sets the message content, and appends it to the list of messages displayed in the chat interface. It enables users to see new messages in real-time as they are received from the server.
@@ -267,24 +251,24 @@ Example code for sending and receiving messages:
 
 ```javascript
      // Client-side code (client.js)
-     form.addEventListener('submit', (e) => {
-         e.preventDefault();
-         if (input.value) {
-             socket.emit('chat message', input.value); // Send message to server
-             input.value = '';
-         }
-     });
+form.addEventListener("submit", (e) => {
+  e.preventDefault();
+  if (input.value) {
+    socket.emit("chat message", input.value); // Send message to server
+    input.value = "";
+  }
+});
 
-     socket.on('chat message', (msg) => {
-         // Receive and display message from server
-         const item = document.createElement('li');
-         item.textContent = msg;
-         document.getElementById('messages').appendChild(item);
-     });
+socket.on("chat message", (msg) => {
+  // Receive and display message from server
+  const item = document.createElement("li");
+  item.textContent = msg;
+  document.getElementById("messages").appendChild(item);
+});
 ```
 Explanation:
 
-This code above allows users to send messages by submitting a form, sends those messages to the server via Socket.io, receives messages from the server, and dynamically displays them in the chat interface without reloading the page.
+This code above allows users to send messages by submitting a form, sends those messages to the server via the library, receives messages from the server, and dynamically displays them in the chat interface without reloading the page.
 
 ### Handling Different Types of Events
 Apart from sending and receiving messages, Socket.io allows handling various events to perform different actions. For instance, you can handle events like `'user joined'`, `'user left'`, or custom events based on application requirements.
@@ -292,22 +276,22 @@ Apart from sending and receiving messages, Socket.io allows handling various eve
 Example of handling a custom event:
 
 ```javascript
-     // Server-side code (server.js)
-     io.on('connection', (socket) => {
-         socket.on('typing', () => {
-             socket.broadcast.emit('user typing', socket.id); // Broadcast to all clients except the sender
-         });
-     });
+   // Server-side code (server.js)
+io.on("connection", (socket) => {
+  socket.on("typing", () => {
+    socket.broadcast.emit("user typing", socket.id); // Broadcast to all clients except the sender
+  });
+});
 
-     // Client-side code (client.js)
-     input.addEventListener('keypress', () => {
-         socket.emit('typing'); // Notify server that the user is typing
-     });
+// Client-side code (client.js)
+input.addEventListener("keypress", () => {
+  socket.emit("typing"); // Notify server that the user is typing
+});
 
-     socket.on('user typing', (userId) => {
-         // Display typing indicator for the user with userId
-         // ...
-     });
+socket.on("user typing", (userId) => {
+  // Display typing indicator for the user with userId
+  // ...
+});
 ```
 Explanation:
 
@@ -323,11 +307,11 @@ Socket.io enables updating the user interface dynamically based on real-time dat
 Example code for updating the UI dynamically:
      
 ```javascript
-     // Client-side code (client.js)
-     socket.on('user typing', (userId) => {
-         // Display typing indicator for the user with userId
-         // ...
-     });
+// Client-side code (client.js)
+socket.on("user typing", (userId) => {
+  // Display typing indicator for the user with userId
+  // ...
+});
 ```
 
 Explanation:
