@@ -57,6 +57,7 @@ tags: 新生流域
     - 2023.03 已建立一份非公開 Airtable
         - 瀏覽權限：chewei,
         - 成員新增機制：採邀請制，既有成員有否決權
+        - https://airtable.com/appMn8RbwnnayUwP6/shrHGu54orhbv8th8
 - 用 FB 社團投票功能，當作活動參加統計
     - https://www.facebook.com/groups/582154450196478/posts/750514080027180/
 

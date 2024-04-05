@@ -791,6 +791,12 @@ Opass 教學
         - 好像沒有特別會用到直式的 
         - > 我也是偏好橫式的 [name=Hou]
 
-## 摺頁
+### 摺頁
 - 目前以A2尺寸做設計
-- 已請小侯試折看看
+- 已請小侯試折看看並[規劃A2版面](https://www.canva.com/design/DAGBjIYT3ro/mfiWcUZroB_2TB8iCn_eKw/edit?utm_content=DAGBjIYT3ro&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+### 社群 Keynote 圖
+- 已經交給[name=阿敏]了
+
+### Canva 試用
+- 預計這兩天會來開啟 Canva 試用一個月的功能，讓大家在年會前/時能使用

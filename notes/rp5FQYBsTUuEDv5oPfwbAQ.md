@@ -1,5 +1,5 @@
 ## Instant Interaction: Building a Real-Time Chat App with Node.js & Socket.io
-In this article, we explore the development of a real-time chat application using Node.js and Socket.io. The latter is introduced as a JavaScript library facilitating bidirectional communication between web clients and servers, employing WebSocket connections when available and alternative transports for compatibility. Node.js serves as the runtime environment, enabling server-side JavaScript execution.
+In this article, we explore the development of a real-time chat application using [Node.js](https://nodejs.org/en) and [Socket.io](https://socket.io/). The latter is introduced as a [JavaScript](https://www.javascript.com/) library facilitating bidirectional communication between web clients and servers, employing WebSocket connections when available and alternative transports for compatibility. Node.js serves as the runtime environment, enabling server-side JavaScript execution.
   
 ## Importance of Real-Time Communication in Web Development:
  Traditional web applications operate on a request-response model, where the client sends a request to the server, and the server responds with the requested data. However, this approach is not suitable for applications requiring instant updates or notifications.
@@ -62,7 +62,7 @@ Now, let's explain the commands:
 * `npm init -y`: This command initializes a new Node.js project in the current directory. The `-y` flag is used to automatically accept default values for all prompts during the initialization process, effectively creating a default `package.json` file without requiring user input.
 
 ### Installing Library Package
-Socket.io can be installed via npm, which is included with Node.js by default.
+Socket.io can be installed via [npm](https://www.npmjs.com/), which is included with Node.js by default.
 ```bash
 npm install socket.io
 ```
@@ -106,7 +106,7 @@ This setup provides a solid foundation for building a real-time chat application
 This section will show you how you can set up the server component of the chat application
 
 ### Creating the Node.js Server using Express Framework
-Express is a popular web application framework for Node.js. It simplifies the process of creating web servers and handling HTTP requests.
+[Express](https://expressjs.com/) is a popular web application framework for Node.js. It simplifies the process of creating web servers and handling HTTP requests.
 
 First, install Express as a dependency for your project:
 
@@ -337,7 +337,6 @@ Explanation:
 * Message List Styles: Styles for the list of messages, including background color, max-width, padding, and margin.
 * Private Message Styles: Styles for private messages, overriding the default message styles with different background and text colors.
 * Form Input Styles: Styles for the form input section, including flex layout, input field styles, and button styles.
-* User List Styles: Styles for the list of users, including flex layout, wrapping, height, and individual user item styles.
 
 ### Setting Up Socket.io Client-Side Library
  In the HTML file, include the Socket.io client-side library by adding the following `script` tag just before the closing `</body>` tag:
@@ -368,8 +367,7 @@ form.addEventListener("submit", (e) => {
 ```
 Explanation:
 
-This JavaScript code above sets up client-side functionality for sending messages in a chat application. It initializes a Socket.io connection, retrieves references to the HTML form and input elements, and adds a submit event listener to the form. When the form is submitted, the code prevents the default form submission behavior, checks if the input field contains a value, emits a 'chat message' event to the server with the input value as the message content if it does, and clears the input field. This enables users to send messages from the client interface to the server for further processing and distribution.
-
+This JavaScript code above sets up client-side functionality for sending messages in a chat application. It initializes a Socket.io connection, retrieves references to the [HTML](https://html.com/) form and input elements, and adds a submit event listener to the form. When the form is submitted, the code prevents the default form submission behavior, checks if the input field contains a value, emits a 'chat message' event to the server with the input value as the message content if it does, and clears the input field. This enables users to send messages from the client interface to the server for further processing and distribution.
 
 ### Displaying Received Messages from the Server
 Update `client.js` to handle incoming messages from the server and display them in the chat interface.
@@ -503,7 +501,7 @@ Monitor server metrics, such as CPU usage, memory usage, and network traffic, to
 This section will show you how you can deploy your chat app to deployment platforms.
 
 ### Choosing a Deployment Platform
-Selecting the right deployment platform is crucial for deploying the chat app to a live server. Consider options such as Heroku, AWS (Amazon Web Services), DigitalOcean, or other cloud hosting providers. Evaluate factors such as ease of deployment, scalability, pricing, and support for Node.js applications.
+Selecting the right deployment platform is crucial for deploying the chat app to a live server. Consider options such as [Heroku](https://www.heroku.com/), [AWS](https://aws.amazon.com/) (Amazon Web Services), [DigitalOcean](https://www.digitalocean.com/), or [other cloud hosting providers](https://en.wikipedia.org/wiki/Category:Cloud_computing_providers). Evaluate factors such as ease of deployment, scalability, pricing, and support for Node.js applications.
 
 ### Configuring the Server for Deployment
 Before deploying the chat app, ensure that the server configuration is suitable for production use. Update environment variables, security settings, and other configurations as needed. Set up a domain name and SSL/TLS certificate for secure communication if required.
