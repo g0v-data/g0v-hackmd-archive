@@ -727,3 +727,19 @@ Opass 教學
     - .svg:適合網頁用
     - 1X,2X:適合網頁用
     - 5X:適合輸出用
+
+## 20240405 第二十次會議紀錄
+> 時間：2024/04/05（五） 8:30 PM
+> 地點：線上
+> 出席：Dong、、、、、
+>
+
+### 鏡頭保護蓋
+- 改向淘寶廠商報價，交期含製作約兩週
+    - 廠商A
+        - 單個裝 1.3RMB(約6.5TWD)/
+        - 兩個裝 1.9RMB(約9.5TWD)
+    - 廠商B
+- 設計稿
+    - 鏡頭保護蓋![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8cfeca7a7158acec7855525c37bf9971.png)
+    - 卡紙![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_69880192d5ba788f3ad54f297191b13e.png)

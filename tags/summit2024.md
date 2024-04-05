@@ -2,12 +2,12 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [在數位威權時代保護數位人權 – g0v Summit 2024 社群軌](../notes/oTzW4X4kTO25IWqiE_ylNw.md) | 2024-04-03T13:58:37+08:00 | 2024-02-27T22:14:15+08:00 |
-| 2 | [基調座談 – 全球民主倒退中的東亞公民科技社群：台、日、韓三國對話](../notes/1s4iT1NQTluytpHMPa2cNQ.md) | 2024-04-03T13:25:49+08:00 | 2024-03-26T08:18:26+08:00 |
-| 3 | [數位韌性：斷網怎麼辦？ – g0v Summit 2024 社群軌](../notes/z6rTXmFLSxyDpBRo0E1mtw.md) | 2024-04-01T23:25:51+08:00 | 2023-08-26T11:19:06+08:00 |
-| 4 | [基調演講 – Nerd politics and the global culture wars](../notes/MFasxZB2Tuiw8nAVQXaaBQ.md) | 2024-04-01T23:15:43+08:00 | 2024-02-20T22:06:31+08:00 |
-| 5 | [Your flight tickets to Taipei - g0v Summit 2024](../notes/5uZjvsOQTPSRONP6MvqzOQ.md) | 2024-04-01T18:18:34+08:00 | 2024-04-01T17:53:52+08:00 |
-| 6 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-03-29T20:29:00+08:00 | 2023-11-03T20:10:41+08:00 |
+| 1 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-04-05T17:00:02+08:00 | 2023-11-03T20:10:41+08:00 |
+| 2 | [在數位威權時代保護數位人權 – g0v Summit 2024 社群軌](../notes/oTzW4X4kTO25IWqiE_ylNw.md) | 2024-04-03T13:58:37+08:00 | 2024-02-27T22:14:15+08:00 |
+| 3 | [基調座談 – 全球民主倒退中的東亞公民科技社群：台、日、韓三國對話](../notes/1s4iT1NQTluytpHMPa2cNQ.md) | 2024-04-03T13:25:49+08:00 | 2024-03-26T08:18:26+08:00 |
+| 4 | [數位韌性：斷網怎麼辦？ – g0v Summit 2024 社群軌](../notes/z6rTXmFLSxyDpBRo0E1mtw.md) | 2024-04-01T23:25:51+08:00 | 2023-08-26T11:19:06+08:00 |
+| 5 | [基調演講 – Nerd politics and the global culture wars](../notes/MFasxZB2Tuiw8nAVQXaaBQ.md) | 2024-04-01T23:15:43+08:00 | 2024-02-20T22:06:31+08:00 |
+| 6 | [Your flight tickets to Taipei - g0v Summit 2024](../notes/5uZjvsOQTPSRONP6MvqzOQ.md) | 2024-04-01T18:18:34+08:00 | 2024-04-01T17:53:52+08:00 |
 | 7 | [g0v Summit 2024 組別 + 跳坑](../notes/dttYgGq1SmqCCp4ZntffZw.md) | 2024-03-26T11:17:46+08:00 | 2023-05-13T14:36:25+08:00 |
 | 8 | [2024 議程組的場勘筆記](../notes/-eyM6u5CSvC7Wc0Agn-7hQ.md) | 2024-03-20T23:16:16+08:00 | 2024-01-09T22:39:42+08:00 |
 | 9 | [20240319會議](../notes/EDJM-27hS2yfjEc4wMqKmw.md) | 2024-03-19T22:51:23+08:00 | 2024-03-15T21:32:22+08:00 |

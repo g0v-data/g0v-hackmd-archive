@@ -63,15 +63,15 @@ tags: AI, LLM
     - https://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=36
 - 罕見疾病藥物處方集
     - [113年版罕見疾病藥物處方集-20240101.pdf](https://www.pharmaceutic.idv.tw/download/prescription/113%E5%B9%B4%E7%89%88%E7%BD%95%E8%A6%8B%E7%96%BE%E7%97%85%E8%97%A5%E7%89%A9%E8%99%95%E6%96%B9%E9%9B%86-20240101.pdf)
-    - 罕病藥品相關法規
+    - 罕病藥品相關法規(與法規資料庫合併)
         - https://www.pharmaceutic.idv.tw/law_download.aspx
 
 ---
 
-- 藥品法規條文資料集
+- 藥品法規條文資料集(與法規資料庫合併)
     - https://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=66
     - 主要欄位說明	類別、法規性質、法規名稱、條文內容、發佈日期、附件檔案
-- 法規資料庫
+- 法規資料庫-食品藥物管理目(建名)
     - **行政 ＞ 衛生福利部 ＞ 食品藥物管理目**
     - https://law.moj.gov.tw/Law/LawSearchLaw.aspx?TY=04012011
 - 藥品電子化仿單
