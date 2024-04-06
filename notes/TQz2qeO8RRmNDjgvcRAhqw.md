@@ -10,6 +10,12 @@ tags: 新生流域
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_27b33ad84873c4b70971512c38cd1cac.png)
 
+## 推動方式
+
+- 多場次的現地實體活動，現況調查，快速設計與發想
+- 運用 AI 生成圖像工具，產出一些不同營造主軸的方案透視圖
+
+
 ## 願景蒐集
 
 公民週蒐集到的相關內容：https://g0v.hackmd.io/MrRWqJgpTHeeGgMyfOxF3w?view
@@ -53,6 +59,8 @@ https://www.youtube.com/live/9kEhkdOG8Ko?feature=share&t=19442
 - 成為光華商場與三創大樓、本案用地、建國啤酒廠
 - 週邊有未開闢且未徵收公園分區，應評估先運用本案基地提供公園需求
 
+文案發想
+- 在地面看見天空、低頭望明月、天晴映波瀾、水光粼粼
 
 ## 參考案例
 
