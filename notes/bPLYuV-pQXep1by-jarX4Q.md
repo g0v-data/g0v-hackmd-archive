@@ -10,6 +10,9 @@ tags: 災害
 
 ## 房屋傾斜與倒塌
 
+2024.04.04 國家地震工程研究中心簡報 
+https://www.ncree.narl.org.tw/assets/file/20240403_Hualien_TW_EQ_V1.0.pdf
+
 ### 花蓮
 
 - 花蓮軒轅路 2 號（市區中山路重慶路口）
