@@ -228,6 +228,10 @@ Seoul
     - [https://issuu.com/linamusing/docs/masters\_thesis\_food\_kampong\_2050](https://issuu.com/linamusing/docs/masters_thesis_food_kampong_2050)
     - [http://cargocollective.com/linafong/The-Food-Kampong-2050](http://cargocollective.com/linafong/The-Food-Kampong-2050)
 
+### 臺灣縣市尺度都市糧食系統之評估研究
+- https://hdl.handle.net/11296/av5978
+- 本研究於第一階段使用模糊德爾菲法篩選出30個評估指標，於第二階段使用層級分析法、熵值法以及組合權重決定評估指標之間的主、客觀權重，加強過去研究僅使用客觀方式或是主觀方式來決定權重的缺失。此外，為解決基礎資料量綱不同問題，本研究選擇量化分級的自然斷點法以及標準化數據兩種方式。將三種不同決定權重的方式以及兩種無量綱化的方式交叉比對評估結果，讓評估結果更為客觀、完善，更符合實際。最後以臺灣本島19縣市作為實證研究單元進行分析，以檢視本研究之都市糧食系統評估架構的可行性與適用性，並以本研究之分析結果提出建議。本研究將各縣市評估結果分為三個等級，屬於第一等級的縣市糧食生產資源較多，且根據國內情況，這些生產糧食的縣市多屬都市化程度較低的縣市，且為中南部地區，而第三等級的縣市多為高度都市化的縣市，包含臺北市、臺中市、高雄市等，代表都市化越高的地區，不管在環境構面或是社會構面都需要整體檢視糧食系統。
+
 ### 新竹跨域系列論壇：如何提升新竹地區的食物供應體系
 
 - [https://www.facebook.com/events/364172624054918](https://www.facebook.com/events/364172624054918)

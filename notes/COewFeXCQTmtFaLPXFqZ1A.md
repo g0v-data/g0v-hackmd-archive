@@ -61,13 +61,19 @@ Open Bangkok Data Project
 (Blog) Open Bangkok: Turning the capital of Thailand into an ‘open city’
 - https://theodi.org/news-and-events/blog/open-bangkok-turning-the-capital-of-thailand-into-an-open-city/
 
-個別地標
-- https://maps.app.goo.gl/b72xfQVUhFbPwQB46
-- 班嘉奇蒂公園 https://www.facebook.com/100002942372884/posts/pfbid032xB8teHiBcxTEEK1cVw5nDeMn8DrrYtw6Gqa895QzRBC2asri5EVxw75eJQPS7Cwl/
-
 空間活化計畫
 - we!park https://wepark.co/
 - Green Bangkok 2030 https://www.facebook.com/GREENBANGKOK2030
+
+個別地標
+- https://maps.app.goo.gl/b72xfQVUhFbPwQB46
+- 班嘉奇蒂公園 https://www.facebook.com/100002942372884/posts/pfbid032xB8teHiBcxTEEK1cVw5nDeMn8DrrYtw6Gqa895QzRBC2asri5EVxw75eJQPS7Cwl/
+- 素坤逸路
+    - 街區游擊戰： 曼谷縉紳化下素坤逸路小販的抵抗策略
+        - https://hdl.handle.net/11296/tk5nkp
+- 石龍軍創意街區
+    - 文化導向都市再生策略對創意工作者的影響：以泰國曼谷石龍軍創意街區為例
+        - https://hdl.handle.net/11296/gbg86q
 
 ## 清邁 / จังหวัดเชียงใหม่ / Chiang Mai
 
