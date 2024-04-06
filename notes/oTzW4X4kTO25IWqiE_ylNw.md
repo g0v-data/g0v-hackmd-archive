@@ -1,13 +1,13 @@
 ---
 tags: summit2024
 ---
-# 在數位威權時代保護數位人權 – g0v Summit 2024 議程協力
+# 在數位威權時代保護數位人權 – Access Now – g0v Summit 2024 議程協力
 
 ## 簡介
 
-數位人權是什麼？個人隱私、自由表達、自由取得資訊的權利，都是數位人權。而在科技快速發展的今天，政治和科技的威權正在威脅這些權利，讓公民失去獨立自主、參與公眾事務的權利與空間。
+數位人權是什麼？個人隱私、自由表達、自由取得資訊的權利，都是數位人權。而在科技快速發展的今天，政治和科技的威權正在威脅這些權利，讓公民失去獨立自主、參與公眾事務的空間。
 
-這次 g0v Summit 2024 特別邀請到三位來自國際人權組織 Access Now 的講者，把他們多年來的實際工作經驗帶來台北，分享網路中斷、監控科技，保護個人資料權利這三項重要的數位人權議題在亞太地區的受到威脅的概況及個案，也和 Summit 的會眾一起討論、探索公民社會該如何協力保護數位人權。
+這次 g0v Summit 2024 特別邀請到三位來自國際人權組織 Access Now 的講者，把他們多年來的實際工作經驗帶來台北。三位講者將會分享網路中斷、監控科技、不當取得個人資料這三項威脅的現況及個案，也和 Summit 的會眾一起討論、探索公民社會該如何保護數位人權。
 
 ## 形式
 - 3 位講者各自分享後，由主持人引導進行綜合討論
@@ -29,7 +29,7 @@ Defending Digital Rights in the Age of Digital Authoritarianism
 ## Description
 In today’s interconnected world, digital rights are fundamental to the protection of personal privacy, free expression, and access to information. As technology continues to evolve, so too do the threats that jeopardize these rights. g0v community has invited 3 speakers from the international human rights organization Access Now to bring their working experience to g0v Summit 2024. In this session, they will share an overview and cases on (1) internet shutdown (2) surveillance tech and (3) threats against people’s data rights, hoping to exchange ideas and explore ways that civil societies can contribute in the safeguarding of digital human rights. 
 
-## Long Description
+## Full Description
 
 In today's interconnected world, digital rights are fundamental to the protection of personal privacy, free expression, and access to information. As technology continues to evolve, so too do the threats that jeopardize these rights. This session, hosted by Access Now at the g0v summit, aims to discuss critical issues surrounding digital rights, highlight emerging trends characteristic of digital authoritarianism, and present recommendations for governments, the private sector, and civil society to ensure that we can defend inclusive democracies, preserve spaces for civil society to flourish, and empower individuals to control their own information and identities in data-driven economies. The session will commence with an introduction to Access Now, a global non-profit organization dedicated to digital rights of people and communities at risk.. Based on its work for fifteen (15) years, the panel will focus on three alarming issues  in the age of digital authoritarianism: 1) weaponization of internet shutdowns; 2) spyware and the abuse of surveillance technologies; and 3) threats against people’s data rights.
 
