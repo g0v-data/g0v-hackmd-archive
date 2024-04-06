@@ -2,7 +2,7 @@ Jili Slot PH is your top choice for online slots in the Philippines! We offer a 
 Website: https://jilislotph.net/
 Address: 2055 Nuestra Sra De Guadalupe Street, Guadalupe Nuevo, Makati City
 Email: contact.jilislotphil@gmail.com
-Phone: https://jilislotph.net/
+Phone: (+63)9631070518
 #Jilislot #jilislotph #jiligaming
 https://www.facebook.com/jilislotphnet/
 https://twitter.com/jilislotphnet
