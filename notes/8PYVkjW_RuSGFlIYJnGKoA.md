@@ -68,13 +68,13 @@ tags: AI, LLM
 
 ---
 
-- 藥品法規條文資料集(與法規資料庫合併)
+- 藥品法規條文資料集(與法規資料庫合併)(宇廷)
     - https://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=66
     - 主要欄位說明	類別、法規性質、法規名稱、條文內容、發佈日期、附件檔案
 - 法規資料庫-食品藥物管理目(建名)
     - **行政 ＞ 衛生福利部 ＞ 食品藥物管理目**
     - https://law.moj.gov.tw/Law/LawSearchLaw.aspx?TY=04012011
-- 藥品電子化仿單
+- 藥品電子化仿單(宇廷)
     - https://mcp.fda.gov.tw/
 - 中藥相關(子敬)
     - [臺灣中藥典第四版-電子書(0929).pdf](https://www.mohw.gov.tw/dl-71936-0a89f40d-7558-4ab2-8f4b-55e58de6552b.html)
