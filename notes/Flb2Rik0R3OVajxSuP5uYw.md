@@ -20,6 +20,7 @@ tags: GIS
 - 掩埋場復育場址-線上地圖
     - https://www.google.com/maps/d/viewer?mid=1UBCpseY-2VFUoyZlX_R05VBE773fk6Aa&ll=24.03324775863965%2C120.99110025&z=8
 - 部分場址影像：https://youtu.be/eNfVYjHkLXE
+- 新店溪 秀朗橋北側https://www.facebook.com/share/p/MFDsrh5zNtyk74dR/
 - 202302 臺東縣建農掩埋場火災 https://www.facebook.com/story.php?story_fbid=pfbid0Arw4zreAN1yPDwG83UJrJg3x8VzaDuW7PHa5nvidqcUSpHGywCnL6fKdP6pWGXzNl&id=100000161416462&mibextid=tejx2t
 - 大漢溪，右岸十．六公里處土城河岸 https://news.ltn.com.tw/news/local/paper/963556
 
