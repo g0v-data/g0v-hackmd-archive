@@ -1,7 +1,7 @@
 ---
 tags: summit2024
 ---
-# 在數位威權時代保護數位人權 – Access Now – g0v Summit 2024 議程協力
+# 在數位威權時代保護數位人權 – Access Now – g0v Summit 2024 焦點議程
 
 ## 簡介
 
