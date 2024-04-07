@@ -46,3 +46,8 @@ https://www.ncree.narl.org.tw/assets/file/20240403_Hualien_TW_EQ_V1.0.pdf
     - 類型一：地震後擔心餘震或既有建物無法返回，所前往的地點
     - 類型二：暫居過夜收容
         - 並非收容所既有資料的地點：月光寺、和中收容所
+
+
+災情與災損推估
+- https://www.facebook.com/richyli/posts/pfbid0Xp1ioRBxoMdbGFvXhP3kasc4t8m9YFQkrmtwm2v4npo59QERArkAuwWWpFq152mWl
+- TELES早期損失評估災損資訊 https://teles.ncree.org.tw/
