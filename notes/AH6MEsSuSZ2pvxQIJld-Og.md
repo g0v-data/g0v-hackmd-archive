@@ -34,6 +34,7 @@ tags: GIS
     - https://youtube.com/playlist?list=PLDjljgf3Uwimzli8l_qAYWt3WHc3V7vgs
 - [開放式課程-歷史人文結合 QGIS](https://www.openedu.tw/course.jsp?id=1151)[target=_blank]
 - https://youtube.com/playlist?list=PLPzJYMa3sanfdiD3drzIhm2iELHiSWigV
+- https://teles.ncree.org.tw/TecDoc.aspx?id=9
 - 教學操作素材查找庫
     - 瀏覽：https://airtable.com/shr10se71AsXb7jnK
     - 編輯：https://airtable.com/invite/l?inviteId=invhQNlh5dG0oaCWm&inviteToken=ce3501ea8cbe2b9c49b53454792cc30fe0d02b75569e9defa74915a145d2d891&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts

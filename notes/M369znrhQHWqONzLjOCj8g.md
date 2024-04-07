@@ -223,9 +223,9 @@ TODO
 
 ---
 
-## 2024 文山區淨零工作坊活動內容延伸相關資料與議題探討
+# 2024 文山區淨零工作坊活動內容延伸相關資料與議題探討
 
-### 其他地區機制參考
+## 其他地區機制參考
 
 日本地域ストックマネジメント／脱炭素地域戦略研究（opossum）
 https://www.facebook.com/opossum.chiba
@@ -233,7 +233,7 @@ https://www.facebook.com/opossum.chiba
 宜蘭 J-Path 宜路有你
 https://www.facebook.com/Yilan.J.Path
 
-### 文山區地景變遷與環境特點
+## 文山區地景變遷與環境特點
 
 臺北文山地區百餘年來的發展與變遷
 https://photos.app.goo.gl/19Ux5KgFfdQXJ2t19
@@ -255,7 +255,7 @@ https://www.facebook.com/share/p/xRr41hghriP5Mnmp/
 https://pb.taipei/cp.aspx?n=2E567C53BBB9D0AE
 https://canet.civil.taipei/TP105-1/PartiBudget/index_111.html?town=zs
 
-### 機構
+## 機構
 
 政大?
 
@@ -264,7 +264,7 @@ https://canopi.tw/esgcase/
 
 中國科大
 
-### 綠運具
+## 綠運具
 
 加油站提供電動汽車快速充電服務之最佳選址分布 研究–以臺北市為例 A Study on Optimal Siting of Electric Vehicle Fast Charging at Existing Gas Stations – A Case Study of Taipei City
 https://www.facebook.com/DENDoENergy/posts/pfbid0ucZ1wksMzmbCJSbPG4dtHX1CG4x1TLyqRFKcZdXiLFKAXLsDZCoiyxTTHK6Bq9sXl
@@ -284,13 +284,19 @@ https://www.ey.gov.tw/Page/9277F759E41CCD91/da325d4d-bafa-40fb-8e9e-eb00c8ff268d
 
 youbike
 https://www.facebook.com/share/p/CV1ohsHKg4F15XJQ/
-補論文 各站夏日使用量
+天氣、都市綠地特徵與公共自行車使用之關聯性
+- https://photos.app.goo.gl/g2tt3hYvDZw37ouk7
+- 研究結果發現，站點周邊綠地面積與假日較平日增加之租借量呈現顯著正相關，代表站點周邊的綠地面積越多，假日增加的公共自行車租借量會越高。
+- 此說明了若妥善規劃站點周邊的綠地分布，可以增加假日的自行車使用者數量。
+- 此外，站點周邊與行經路段周邊的綠蔭條件皆與受熱天影響而租借量的減少呈顯著負相關，亦即當路段的綠蔭條件越佳，其租借量較不會受天氣炎熱影響而降低。
+- 同時也說明若能增進行道樹之分布密度，建立舒適涼爽的騎乘環境，將可提升熱天時的公共自行車租借量。
+- 因此，未來規劃自行車相關政策時，也可著重於都市綠地的規劃設計，以改善使用者的騎乘環境條件，並推廣綠色運具之使用。
 
 路面充電線路
 https://www.facebook.com/share/v/j96xGjabVkNKUfhf/
 
 
-### 綠消費與生活
+## 綠消費與生活
 
 計算工具：
 環境部-事業溫室氣體排放量資訊平台、產品碳足跡資訊網
@@ -312,7 +318,7 @@ https://www.facebook.com/share/p/4qx4na8FtbKxqxg9/
 都市蚓農
 https://recycledoit.com/doitbox.html
 
-### 低碳飲食
+## 低碳飲食
 
 關於低碳飲食，分享美國規劃界近年建構的 Food System Planning 研究方法，以下有各國案例與參考架構
 https://g0v.hackmd.io/@chewei/Urban-Agri/https%3A%2F%2Fg0v.hackmd.io%2FskGo9n_eSDWyhS9VHJgR9Q
@@ -353,7 +359,7 @@ https://docs.google.com/presentation/d/1rJBbNrMqwZ4zNmLKl5d7wymVaTraKaBV5juR6PML
 - 分析比較不同國家平均每人每日食品廢棄物之產生量，約為 0.296-0.964 公 斤，其中瑞典人產出最少，而法國人產出最多。而其中家庭廚餘之每人每日 產出量為 0.029-0.663 公斤，其中瑞典人產出最少，而法國人產出最多。
 - 本研究發現台北市每人每日家庭廚餘產生量為 0.157 公斤，略少於日本（0.230 公斤）與德國（0.224 公斤）。
 
-### 文山區萬和里情境
+## 文山區萬和里情境
 
 萬和里 參考
 https://www.facebook.com/story.php?story_fbid=pfbid02EeEFhSwYRQjgFVyxqP33J7cxyCiXVaSM5tbeCAyjDm765XnnGCEqBhZMBcVM9f5rl&id=100000432932151&mibextid=WC7FNe
