@@ -8,7 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- 線上出席：orz, bil, 4000, nonumpa
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -31,7 +31,7 @@ http://dev.cofacts.tw/
 
 **未登入**下檢測：
 
-- [ ] Links to MyGoPen and votes work
+- [x] Links to MyGoPen and votes work
 
 ### :eye: Under review
 
@@ -68,15 +68,20 @@ Spam 案例
     - 170K 人
         - 雙北 + 台南 + 高雄, or
         - 全部去掉雙北、台南
+:::success
+全部去掉雙北台南
+設定 4/9 9:30 推播
+:::
 
 
 ### 已實施
 - iframe LIFF https://cofacts.tw/mgp
+- LINE bot rich menu link to 投票頁面
 - LINE bot 最後顯示 quick reply 連到活動頁面 (週六開始)
 - VOOM 貼文
 - FB 貼文
 - FB 活動 ＋ 邀請好友
-- FB 上 tag 追蹤者
+- FB 上 tag `@追蹤者`
 
 ## 2024/4/3 Downtime
 
@@ -125,11 +130,36 @@ query {
 - 這次想使用 WhisperX
 https://g0v.hackmd.io/wkx286lmTDaFUpgRhnUawQ#WhisperX-on-replicate
     - Or 直接寫在 rumors-api 做成 script，之後還能重複使用？ 
-
+    - 如果 API 可以回傳是否 service 為 warm，或許就能在 warm 的時候完全取代 Whisper API [name=mrorz]
 
 ## 國際交流
 
 - https://nestmongolia.org/ on use of AI
+
+
+Experience the ultimate NGO professional exchange program in Taiwan!
+ 
+Three-week placement in a Taiwanese NGO
+One-week Workshop and site visits
+Collaboration on new projects with Taiwanese NGOs
+ 
+All expenses are covered by Taiwan AID!
+ 
+Eligibility:
+-Age: 25-40 years old
+-Nationality: Southeast Asia / South Asia / Northeast Asia
+
+-Experience: 3 years+ in the NGO sector
+-Program Dates: Sept. 29 - Oct. 27, 2024
+
+-Application deadline: June 1st, 2024, 11.59 PM
+
+-Organized by: Taiwan AID (Taiwan Alliance in International Development)
+-Sponsored by: MingYi Foundation
+
+More information：http://www.taiwanaid.org/en/news/567
+Registration：https://forms.gle/iLpLRn94UykwFyuM6
+
 
 ## Issue discussion 
 

@@ -12,7 +12,12 @@
 
 ### 主持人
 - 目前主持人需求待討論。
+    - 有兩場可能會需要議程委員擔任主持人，原因：講者不願意擔任 / 不適合
+    - "開放國會四年回顧-Ronny"/"服務NPO的開源社會企業，可行嗎？- Jimmy"/"Leverage technology to amplify grassroots voices and address civic challenges.- Idris Bilyaminu Ndasadu’Lau"
+        - 只有Idris願意，但不適合（中文＋英文）
+    - 
 - 工作坊 / 主題論壇＋演講，是否需要當主持人？
+    - 
 - [正式議程表](https://docs.google.com/spreadsheets/d/1T-0BlFpydEZtSFBjvOMyTmI0wPp-t0i1sLojpMIvBvM/edit?usp=sharing)
 - 主持人需要的內容
     - 該場次其餘講者與講題資訊
@@ -31,6 +36,9 @@
 - 有兩位講者需要交通補助，有一位可能有潛在需求
     - 印度*2
     - 衣索比亞*1(尚未主動提起，但可能有潛在需求)
+
+## 合作議程
+- 目前 NDI 相關的合作議程還沒有相關資訊。
 
 ## 社群軌
 - [社群軌現況與進度](https://docs.google.com/spreadsheets/d/1ozGsNC5mAQDwnmW_Egyiihcp2RuAwZt2opTDbfWwZ7g/edit?usp=sharing)
