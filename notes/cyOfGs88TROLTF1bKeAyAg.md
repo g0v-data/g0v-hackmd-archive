@@ -20,6 +20,8 @@ GA: UA-98468513-3
 #### :globe_with_meridians: Site
 #### :robot_face: rumors-line-bot
 
+- https://github.com/cofacts/rumors-line-bot/releases/tag/release%2F20240406
+
 ### :rocket: Staging
 
 #### :robot_face: rumors-line-bot
@@ -116,4 +118,30 @@ http://dev.cofacts.tw/
 
 
 ### :eye: Under review
+
+
+
+## CCPRIP
+### [Op] Transcript spam
+> nonumpa
+> https://g0v.hackmd.io/vKCvrqSQTlm7GEx9MAXGaw?view#op-Transcript-spam-處理
+> 
+
+Deploy process
+> Scripts: https://github.com/cofacts/collab-server/pull/7
+- [x] rumors-db schema update
+- [ ] rumors-api populate new contributors
+- [ ] migration script
+
+## 謠言惑眾獎
+
+> Previous plan https://g0v.hackmd.io/dBog_HZ2TBuXjRxuJNrV-Q#%E8%AC%A0%E8%A8%80%E6%83%91%E7%9C%BE%E7%8D%8E
+
+- 前次：
+- 本次：
+
+### 已實施
+
+
+
 
