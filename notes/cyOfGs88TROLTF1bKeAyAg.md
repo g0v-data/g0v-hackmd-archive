@@ -47,13 +47,20 @@ Deploy process
 - [ ] rumors-api populate new contributors
 - [ ] migration script
 
+Spam 案例
+- User ID `96TY4n0BnX5-aOa4OpAo`
+    - https://cofacts.tw/article/opw6J44BBMtPEaE0GCyM
+    - https://cofacts.tw/article/mpw2J44BBMtPEaE09ixl
+- User ID ???
+    - https://cofacts.tw/article/5JzRIY4BBMtPEaE0BBcn
+
 ## 謠言惑眾獎
 
 > Previous plan https://g0v.hackmd.io/dBog_HZ2TBuXjRxuJNrV-Q#%E8%AC%A0%E8%A8%80%E6%83%91%E7%9C%BE%E7%8D%8E
 
 - 前次收錄票數：2.7K
 - 本次收錄票數：截至 4/8 14:35 為 1.4k (Cofacts 0.4k, MGP 1k)
-    - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1a2e93fbaeb4b9d1891aa85652a4ed53.png)
+    - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7d85aab5dae73ac11c4dc2e241d66df5.png)
 - 週二推一波？
     - 回覆率 60% 計，希望多 1K 票 = 點擊數須為 1.7K
     - Cofacts 推播 CTR [計算](https://docs.google.com/spreadsheets/d/1XjEQZ9esNKfkGd8XYd1p3E8DTgB0f5QPDl5ghf-JxE0/edit#gid=0)： Click / Delivered ~= 1%
@@ -61,6 +68,7 @@ Deploy process
     - 170K 人
         - 雙北 + 台南 + 高雄
         - 全部去掉雙北、台南
+
 
 ### 已實施
 - iframe LIFF https://cofacts.tw/mgp
@@ -70,6 +78,51 @@ Deploy process
 - FB 活動 ＋ 邀請好友
 - FB 上 tag 追蹤者
 
+## 2024/4/3 Downtime
+
+09:31 網站無法存取
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fc776464c26fae1f4a2aa4f23402df0b.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d92b79f881ff1668d5ef703dd540144e.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b4a297f588bdef9adba76d75bec75bd0.png)
+
+09:41 重開 rumors-site 後解除
+- crontab 網站從每小時重開，調整為每 30min 重開
+
+## 逐字稿 429 error
+
+> Logs: https://g0v.hackmd.io/i3DlTDBcRkahYOmTwcQ2hQ#%E9%80%90%E5%AD%97%E7%A8%BF-Error-429-%E5%95%8F%E9%A1%8C
+
+待修 article: 約 120 則
+
+```
+query {
+  ListArticles(
+  	filter: {
+      articleTypes: [VIDEO, AUDIO]
+      createdAt: {
+        GTE: "2024-03-26T22:00:00.000Z",
+        LTE: "2024-03-30T16:00:00.000Z"
+      }
+    }
+    orderBy: [
+      {createdAt: ASC}
+    ]
+    first: 120
+  ) {
+    edges {
+      cursor
+      node {
+        createdAt
+        text
+      }
+    }
+    totalCount
+  }
+}
+```
+
 ## Issue discussion 
 
 https://github.com/cofacts/rumors-site/issues/548
+
