@@ -143,5 +143,6 @@ Deploy process
 ### 已實施
 
 
+## Issue discussion 
 
-
+https://github.com/cofacts/rumors-site/issues/548
