@@ -119,12 +119,10 @@ DiscountStayName 為計算策略方法名稱，由系統設定，不可修改
 若連續入住天數為6天，則以5天的10%為主
 若連續入住天數為2天，則以1天的0%為主
 
-### 連續購買實體規劃
----
+![連續購買實體規劃](https://files.furthersoftware.com.tw/assets/Tourmap/consecutiveStayRule.png)
 
-目前只考慮做全域設定，所以綁在productGroup上
-如後續須做細緻設定，則考慮將productGroupId 刪除
-改為preferrerId(優惠者)，並加上Priority作優先及排序
+### 連續購買規劃
+---
 
 實體規則 :  
 預設一定會有一筆連續購買數量為1的資料，並且優惠百分比為0，代表不打折
@@ -145,7 +143,7 @@ DiscountStayName 為計算策略方法名稱，由系統設定，不可修改
 
 備註: 目前規劃為同個營區算連續購買，即使是不同專案也算連續購買
 
-![連續購買實體規劃](https://files.furthersoftware.com.tw/assets/Tourmap/consecutiveBuys.png)
+![連續購買實體規劃](https://files.furthersoftware.com.tw/assets/Tourmap/consecutiveBuyRule.png)
 
 ## 計算provider 介面規劃
 

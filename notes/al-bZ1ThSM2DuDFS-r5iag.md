@@ -18,6 +18,7 @@ tags: GIS
 - 臺北市大安區國立臺灣大學思亮館國際會議廳玻璃、共同教學館的側邊走廊 https://www.facebook.com/groups/birdwindowcollision/posts/981724549209669/
 - 臺大生技中心 https://www.facebook.com/share/p/5ZY1ZsrWa5qg1fTF/
 - 臺北市中山區南京東路二段108號，捷運出入口的大面積玻璃 https://www.facebook.com/groups/birdwindowcollision/posts/1272829130099208/
+- 捷運站 https://www.facebook.com/share/p/edJrJrgeJt8i2nJK/
 - 愛明眼科 https://www.facebook.com/groups/birdwindowcollision/posts/1273161673399287/
 - 臺北市南港區中研院生技園區 https://www.facebook.com/groups/birdwindowcollision/posts/1236196760429112/
 - 臺北市文山區政治大學圖書館 
