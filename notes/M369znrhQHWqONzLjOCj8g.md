@@ -266,6 +266,9 @@ https://canopi.tw/esgcase/
 
 ## 綠運具
 
+深坑輕軌
+https://www.dorts.ntpc.gov.tw/news/conventionInfo/MVamXM4l28rj?page=1
+
 加油站提供電動汽車快速充電服務之最佳選址分布 研究–以臺北市為例 A Study on Optimal Siting of Electric Vehicle Fast Charging at Existing Gas Stations – A Case Study of Taipei City
 https://www.facebook.com/DENDoENergy/posts/pfbid0ucZ1wksMzmbCJSbPG4dtHX1CG4x1TLyqRFKcZdXiLFKAXLsDZCoiyxTTHK6Bq9sXl
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2fa9d1bad3c0739d1dead151a351e6aa.png)
