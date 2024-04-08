@@ -42,10 +42,9 @@
 
 ## 社群軌
 - [社群軌現況與進度](https://docs.google.com/spreadsheets/d/1ozGsNC5mAQDwnmW_Egyiihcp2RuAwZt2opTDbfWwZ7g/edit?usp=sharing)
-- 最需要催促
-    - 學生社群參與者與他們的產地 [name=ted]
+- 最需要催促（講者資訊不明）
     - 開源文化 x 公共議題 x 政府協作 [name=peii]
-追蹤：看看是否 peter 與 yellowsoar 一人追一個？
+追蹤：已經有傳訊息給 peii，希望4/10前可以完成
 - 缺主辦社群介紹與議程內容
     - AI 時代的資訊挑戰 [name=bil]
     - 公民科技與居住正義 [name=ddio]
