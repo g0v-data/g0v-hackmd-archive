@@ -29,6 +29,7 @@ We want to discuss measures for both governmental and civil department, that can
 各次小松
 ---
 `Latest` 
+- [20240427 DigiResiTh5n 第伍次](/ugNkTFLARwK4rmH7jCdO-g)
 - [20240323 DigiResiTh4n 第肆次](/qcDX1C5mTE24UcCUkfTthQ)
 - [20240224 DigiResiTh3n 第參次](/Xt7FoiZgTYq-7x20iNGN4A)
 - [20240120 DigiResiTh2n 第貳次](/iC-7ZtqJTqG75GxUY3aiAQ)

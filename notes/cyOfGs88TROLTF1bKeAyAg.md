@@ -63,9 +63,12 @@ Deploy process
         - 全部去掉雙北、台南
 
 ### 已實施
-- 剪ㄇㄚ
+- iframe LIFF https://cofacts.tw/mgp
 - LINE bot 最後顯示 quick reply 連到活動頁面 (週六開始)
-- 
+- VOOM 貼文
+- FB 貼文
+- FB 活動 ＋ 邀請好友
+- FB 上 tag 追蹤者
 
 ## Issue discussion 
 
