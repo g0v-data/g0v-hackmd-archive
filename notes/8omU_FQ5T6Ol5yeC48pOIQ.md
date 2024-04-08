@@ -155,3 +155,5 @@ mount -o anon \\NFS_IP\NFS_share
 
 MAS 啟動授權，powershell run:
 irm https://massgrave.dev/get | iex
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_21760c94aa006b7dcd594944edab5210.png)
