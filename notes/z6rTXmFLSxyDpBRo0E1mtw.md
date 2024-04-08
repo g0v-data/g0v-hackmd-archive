@@ -11,7 +11,7 @@ tags: summit2024
 
 ## 形式
 - 3 位講者各自分享後，由主持人引導進行綜合討論
-- 使用 summit 提供的 slido
+- 使用大會提供的 slido（已向議程組確定會有 slido，連結待確認）
 
 ## 講者
 - Golda Benjamin

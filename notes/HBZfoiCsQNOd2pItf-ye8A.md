@@ -29,6 +29,7 @@ tags: 公有地大行動
 - 城市儀錶板：https://citydashboard.taipei/mapview?index=map-layers
     - 有居住與上班人口推估
 - 建築施工地圖：https://g0v.hackmd.io/GMYOZV6jRN20YN037yRqvQ
+- 2000 年日式宿舍調查報告：https://www.facebook.com/groups/582154450196478/posts/904024958009424/
 - 交通事故與道安資料：https://g0v.hackmd.io/4IZcm3KAS1WCetvUhX825Q
 - 臺北市婦幼安全警示地點
     - https://data.taipei/dataset/detail?id=985743f7-a33e-4ac1-ad2e-7ef5ffea02e2
