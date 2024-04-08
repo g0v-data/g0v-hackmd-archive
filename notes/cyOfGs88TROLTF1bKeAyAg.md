@@ -122,6 +122,10 @@ query {
 }
 ```
 
+## 國際交流
+
+- https://nestmongolia.org/ on use of AI
+
 ## Issue discussion 
 
 https://github.com/cofacts/rumors-site/issues/548
