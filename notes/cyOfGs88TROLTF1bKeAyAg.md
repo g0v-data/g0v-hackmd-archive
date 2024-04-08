@@ -66,7 +66,7 @@ Spam 案例
     - Cofacts 推播 CTR [計算](https://docs.google.com/spreadsheets/d/1XjEQZ9esNKfkGd8XYd1p3E8DTgB0f5QPDl5ghf-JxE0/edit#gid=0)： Click / Delivered ~= 1%
     - 故推播到 170K 人，可得 1.7K Click、1K 完成問卷
     - 170K 人
-        - 雙北 + 台南 + 高雄
+        - 雙北 + 台南 + 高雄, or
         - 全部去掉雙北、台南
 
 
@@ -121,6 +121,11 @@ query {
   }
 }
 ```
+
+- 這次想使用 WhisperX
+https://g0v.hackmd.io/wkx286lmTDaFUpgRhnUawQ#WhisperX-on-replicate
+    - Or 直接寫在 rumors-api 做成 script，之後還能重複使用？ 
+
 
 ## 國際交流
 
