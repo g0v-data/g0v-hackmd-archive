@@ -225,6 +225,8 @@ TODO
 
 # 2024 文山區淨零工作坊活動內容延伸相關資料與議題探討
 
+
+
 ## 其他地區機制參考
 
 日本地域ストックマネジメント／脱炭素地域戦略研究（opossum）
@@ -254,6 +256,14 @@ https://www.facebook.com/share/p/xRr41hghriP5Mnmp/
 文山區參與式預算提案點
 https://pb.taipei/cp.aspx?n=2E567C53BBB9D0AE
 https://canet.civil.taipei/TP105-1/PartiBudget/index_111.html?town=zs
+
+文山社大辦淨零工作坊 12歲～60多歲居民共商在地氣候解方
+https://e-info.org.tw/node/238846
+
+氣候治理因地制宜 文山區25年公民參與經驗值得借鏡
+https://e-info.org.tw/node/238845
+
+
 
 ## 機構
 
