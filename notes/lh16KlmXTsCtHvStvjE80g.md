@@ -22,6 +22,7 @@ tags: web3, Shoutout
 
 
 ## 會議紀錄
+1. 邀大家進來測試頻道，未來整合功能進 Shoutout bot
 
 
 ## Action Items

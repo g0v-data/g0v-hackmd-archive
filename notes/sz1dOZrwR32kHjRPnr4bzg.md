@@ -79,9 +79,8 @@ tags: planning,獎勵容積,hackpad
 
 ## 議題探討
 
-- https://www.facebook.com/share/p/QFgm7eyesnjivWMY/
-
-
+- 都市更新獎勵的公共賬 https://www.facebook.com/share/p/QFgm7eyesnjivWMY/
+- 重探都市金融化：大台北都市空權經濟化過程作為取徑 https://www.ios.sinica.edu.tw/events/seminar/agenda20240508.pdf
 - 獎勵容積與停車位
     - 蒐集
         - [https://photos.app.goo.gl/6FPlyhpc3RXGUExq1](https://photos.app.goo.gl/6FPlyhpc3RXGUExq1)

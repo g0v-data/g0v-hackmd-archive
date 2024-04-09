@@ -800,3 +800,26 @@ Opass 教學
 
 ### Canva 試用
 - 預計這兩天會來開啟 Canva 試用一個月的功能，讓大家在年會前/時能使用
+
+## 20240409 紀念品小松
+> 時間：2024/04/09（二） 10:00 PM
+> 地點：線上
+> 出席：Dong、Skyler、
+>
+
+* 工人特製版(A版)
+    * 正面![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0bea4b104a8240e7a8781298d89f4c65.png)
+
+    * 右袖![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c1db4e324f340dfa1aee065662cb899e.png)
+
+* B版
+    * 正面![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1d3930e111211f104be97118676d7e70.png)
+
+    * 背面![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d3c1a2ba8349b146568dceda14be90d2.png)
+
+* C版
+    * 正面![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cee9943224e066ca99e955e16c81828e.png)
+
+    * 背面![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e65f81c348c8e1792cc00f11b38960ec.png)
+
+
