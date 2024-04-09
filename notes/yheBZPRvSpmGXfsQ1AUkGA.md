@@ -29,6 +29,8 @@ tags: summit2024
 ### 時間？
 - link: https://www.figma.com/file/qoGdSUeaRaYGuhKgRhKj9s/g0v-%E5%A0%B1%E5%88%B0%E5%8B%95%E7%B7%9A-%2B-%E4%BA%BA%E5%93%A1%E5%AE%89%E6%8E%92?type=design&node-id=0-1&mode=design&t=l6rfxhYr1lCITzzV-0
 
-### 尖峰時間後報到台安排
+### Q
+- 尖峰時間後報到台安排
+- 第二天報導方式
 
 ## 餐飲
