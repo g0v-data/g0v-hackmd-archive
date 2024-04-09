@@ -122,38 +122,39 @@ tags: 救松
 - 需要搬 6 個很重的長桌
     - 現場志工
 
-# 二、捐款推廣（捐款頁面、企業捐款 PDF）
+# 二、捐款頁面文案 Review 與撰寫推廣文宣文件
 
-文宣
+## Review 2024.04 捐款頁面改版-圖片與文案
+https://docs.google.com/document/d/10EOFQpQSOnSoC6W39QoRDj1YQCGKaxOD1jcUTnj22Iw/edit
+
+寫文宣
 - 寫 sns 草稿
-- 電子報
+- 寫 電子報
 
 小額捐款
 - 輕量版頁面
-    - 先給文案頁面：揪松補網址
 
-中額捐款
-- 給潛在中額捐款者的說明文件
+## 寫給潛在「中額捐款者」的說明文件
+- 中額捐款單筆 30000、50000 元
+- 寫給潛在中額捐款者的說明文件
     - 文件網址：https://docs.google.com/document/d/11yTLvyJX2a-JW6zXX8smtBUPnZf60hN3DG3W-0qB1YY/edit
         - 一頁 A4 
-        - 必要元素：
-        - 捐款網址，QRcode 
-            - 需要評估
-                - 對於公司
-            - 參考影響力報告內容
-        - note：
-            - 文件中也說明除了信用卡扣款方式之外，也可以轉帳匯款，揪松團 有建立一份 google 表單
+            - 必要元素：捐款網址，QRcode 
+            - 文件中也說明除了信用卡扣款方式之外，也可以轉帳匯款，揪松團 有建立一份 Google 表單
 
-捐款累積到一定程度的表彰方式
-- 不論定期定額或單筆中額
-- 30000
+## 單次大松之友的說帖文件
 
-企業贊助大松的機制
-- https://g0v.hackmd.io/S-F_JERUT9KIYh69N5BF8A?view
-- 寫一個「單次大松之友的說帖文件」，定案的回饋內容，以說帖文件為主
+Review 企業贊助大松的機制，並撰寫接近定案的的回饋內容文件「單次大松之友的說帖文件」
+- 已有列舉各項回饋項目
+    - https://g0v.hackmd.io/S-F_JERUT9KIYh69N5BF8A?view
+- 寫一份「單次大松之友的說帖文件」，定案的回饋內容，以說帖文件為主
+    - 2024.04 單次大松之友的說帖文件網址 
+        - https://docs.google.com/document/d/1hSr6mTH6oh7LiGVvQwz4eP1qdzn04N1mSJWd7y7Im10/edit
+    - 說帖內容採用 日期版本 來控管
     - 寫出支持大松對於該企業法人的好處
-        - 例如企業
-- 想一下台灣社會有什麼 TA
+        - 例如企業 ESG、CSR 具體行動
+- 想一下台灣社會有什麼 TA 
+
 
 # 三、募款短片
 - 腳本
