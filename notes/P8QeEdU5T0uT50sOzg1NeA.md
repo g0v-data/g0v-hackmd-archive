@@ -848,3 +848,15 @@ Opass 教學
     * ::: spoiler 背面
         ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e65f81c348c8e1792cc00f11b38960ec.png)
       :::
+
+#### 材質補充：
+* Partee：
+    * 材質：使用UA5001 5.6oz 純棉圓領短T
+    * [United Athle 頂級柔棉T恤](https://www.partee.com.tw/Custom-UA-T-shirt-3500101.php)
+    * [頂級柔棉！日本United Athle 5001 5.6oz重磅 素面短T 【 FUZY 】 - UA5001](https://www.fuzytw.com/products/%E6%97%A5%E6%9C%ACunited-athle-5001-56oz%E9%87%8D%E7%A3%85-%E7%B4%A0%E9%9D%A2%E7%9F%ADt-42%E8%89%B2-ua5001)
+* 玩美獨衣：
+    * :::spoiler 報價單
+      ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6cbe0f64633ff8d0fda45984f46747ec.png)
+      :::
+  - [美國棉 Soft 棉質舒適T](https://www.152.com.tw/index.php?node=2-1-t-shirt&produce=%E7%BE%8E%E5%9C%8B%E6%A3%8963000%E8%96%84%E6%AC%BE%E7%9F%ADT-1998)
+  - [輕羽棉圓領短T(現貨款)](https://www.152.com.tw/index.php?node=2-1-t-shirt&produce=%E8%BC%95%E7%BE%BD%E6%A3%89%E5%9C%93%E9%A0%98%E7%9F%ADT(%E7%8F%BE%E8%B2%A8%E6%AC%BE)-1770)
