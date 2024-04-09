@@ -79,3 +79,5 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 - [ ] 開一個專門給線上參與者 cowork 的 meeting room
 
 ## archives
+
+<span style="background-image: linear-gradient(90deg,#337ab7,#fd8a8a 30%,#fd8c04,#a8d1d1,#9ea1d4 70%,#337ab7); background-clip: text; color: transparent;"><a style="color: inherit;" href="https://g0v.hackmd.io">test - <strong>讚</strong></a></span>
