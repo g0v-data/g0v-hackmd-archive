@@ -804,22 +804,47 @@ Opass 教學
 ## 20240409 紀念品小松
 > 時間：2024/04/09（二） 10:00 PM
 > 地點：線上
-> 出席：Dong、Skyler、
+> 出席：Dong、Skyler、RS
 >
 
+### 討論事項
+
+1. 確認t恤尺寸的數量
+2. t恤設計稿
+    - 補充一下 [name=RS] 提到的意見
+        - B,C 版本背面的 Logo 可以小一點
+        - 等等我們討論完我馬上修改 [name=Skyler]
+        - 目前背面logo尺寸是27.2 x 5.3 cm，RS有希望大概要多小嗎(明確的數字)
+            - 暫無，或許等等可以直接開設計稿改 [name=Dong]
+    - 列一下我目前看到的，想到的問題 [name=Dong]
+        - A版 g0v Summit 2024 要大寫嗎？（例如 G0V SUMMIT 2024?），這要問一下 RS，上次跟他討論，是決定說大型輸出會用全大寫，
+        - 可以，我再改一下
+        - B,C 版本正面左側的數字應該要左右對齊（最左上角的1，跟左下角的2應該要對齊），要調一下
+            - 我有用水平居中，但是1.0跟1.2看起來還是特別不合群。是不是字的間距要調整?
+            - 可以試試[這個方法](https://www.facebook.com/lovefonts/posts/%E6%98%A8%E5%A4%A9%E6%88%91%E4%B8%8D%E6%87%82%E7%9A%84%E5%95%8F%E9%A1%8C%E6%80%9D%E6%BA%90%E7%B3%BB%E5%88%97%E9%9B%96%E7%84%B6%E5%BB%A3%E5%8F%97%E5%A4%A7%E7%9C%BE%E5%96%9C%E6%84%9B%E5%8D%BB%E6%9C%89%E4%BA%9B%E7%96%91%E9%9B%A3%E9%9B%9C%E7%97%87%E5%9C%A8%E5%89%8D%E9%99%A3%E5%AD%90%E7%9A%84%E6%9B%B4%E6%96%B0%E4%B8%AD%E9%9B%96%E7%84%B6%E8%A7%A3%E6%B1%BA%E4%BA%86%E5%BE%80%E4%B8%8A%E9%A3%84%E7%9A%84%E6%A8%99%E9%BB%9E%E7%AC%A6%E8%99%9F%E4%BD%86%E6%98%AF%E9%97%9C%E6%96%BC%E9%96%93%E8%B7%9D%E9%81%8E%E7%AA%84%E7%9A%84%E5%95%8F%E9%A1%8C%E5%9C%A8-ai-%E7%9A%84%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95%E5%B0%B1%E7%9C%8B%E9%80%99%E8%A3%A1%E6%93%9A%E4%BA%86%E8%A7%A3%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0/1572495746163277/)
+            - 或用左右對齊，符號應該會長這樣![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_082a1ef42b9306aa83a50cfba3cc1123.png)
+3. 決定送印廠商
+4. 決定哪一個是販買款
+
 * 工人特製版(A版)
-    * 正面![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0bea4b104a8240e7a8781298d89f4c65.png)
-
-    * 右袖![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c1db4e324f340dfa1aee065662cb899e.png)
-
+    * ::: spoiler 正面
+        ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0bea4b104a8240e7a8781298d89f4c65.png)
+      :::
+    * ::: spoiler 右袖
+        ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c1db4e324f340dfa1aee065662cb899e.png)
+      :::
 * B版
-    * 正面![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1d3930e111211f104be97118676d7e70.png)
-
-    * 背面![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d3c1a2ba8349b146568dceda14be90d2.png)
+    * ::: spoiler 正面
+        ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1d3930e111211f104be97118676d7e70.png)
+      :::
+    * ::: spoiler 背面
+        ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d3c1a2ba8349b146568dceda14be90d2.png)
+      :::
 
 * C版
-    * 正面![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cee9943224e066ca99e955e16c81828e.png)
-
-    * 背面![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e65f81c348c8e1792cc00f11b38960ec.png)
-
-
+    * ::: spoiler 正面
+        ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cee9943224e066ca99e955e16c81828e.png)
+      :::
+    * ::: spoiler 背面
+        ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e65f81c348c8e1792cc00f11b38960ec.png)
+      :::

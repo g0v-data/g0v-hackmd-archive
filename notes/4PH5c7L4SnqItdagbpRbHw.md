@@ -1,30 +1,48 @@
 # 20240409會議
 時間：4/2 22:00
 連結：[Jitsi Meet](https://jitsi.ocf.tw/g0vsummit2024program)
-出席：
+出席：Peter,yellowsoar,rayen,白貓
+
 
 ## Open Call 
 - [講者all in one](https://docs.google.com/spreadsheets/d/17Ovu5Dvm86z4BmFk24096ns5X-OLvDIt7AlkALI2BiY/edit?usp=sharing)
 - [正式議程表](https://docs.google.com/spreadsheets/d/1T-0BlFpydEZtSFBjvOMyTmI0wPp-t0i1sLojpMIvBvM/edit?usp=sharing)
 
+- 議程調整
+    - Datasketch 
+    - ael 
+    - Idris (要確認是否接受線上預錄，因為簽證問題)
+    - Ethiopia 可能會需要預錄。
+- 議程漏選的解決方案
+    - Teemo 的提案沒有被審查
+    - 先讓議程委員會審查，如果認為可以，給30分Unconf，認為不行就不用動。
+
+
 目前尚有兩個議程表的時間未定，包含一位日本講者的議程，以及 chihao 退出之後的議程。
+- 目前議程表時間已經解決。
 - 小班的議程要線上發表，這件事要看設備組如何協調。
+    - 調整到 R4 以符合議程的語言。
+    - 跟小班說明要用預錄的方式。
 
 ### 主持人
-- 目前主持人需求待討論。
-    - 有兩場可能會需要議程委員擔任主持人，原因：講者不願意擔任 / 不適合
-    - "開放國會四年回顧-Ronny"/"服務NPO的開源社會企業，可行嗎？- Jimmy"/"Leverage technology to amplify grassroots voices and address civic challenges.- Idris Bilyaminu Ndasadu’Lau"
-        - 只有Idris願意，但不適合（中文＋英文）
-    - 
-- 工作坊 / 主題論壇＋演講，是否需要當主持人？
-    - 
+- 所有主持人需求：
+| 時間 | 地點 |     |
+| ---- | ---- | --- |
+|      |      |     |
+|      |      |     |
+|      |      |     |
+|      |      |     |
+|      |      |     |
+|      |      |     |
+|      |      |     |
+
 - [正式議程表](https://docs.google.com/spreadsheets/d/1T-0BlFpydEZtSFBjvOMyTmI0wPp-t0i1sLojpMIvBvM/edit?usp=sharing)
 - 主持人需要的內容
     - 該場次其餘講者與講題資訊
     - 提醒大家投unconf 
     - 提醒大家遵守coc與場地規範
     -請大家補充
-
+- 下週完成
 ### evisa / 邀請函 / 交通補助
 - 目前有四位講者需要邀請函
     - 印度*2
@@ -115,6 +133,37 @@ https://www.facebook.com/SITCONtw/posts/1237201229711987
 - 追蹤：
     - 協助安排人員
     - 完成各軌細流
+        - 議程組組員：yellowsoar, Rayen,
+        - 議程助理：
+        - 議程委員：coldplay, bil, paul, 
+### 手冊與教學
+- 缺的東西
+    - 共筆 hackMD 建立
+    - slido 建立
+    - 中場輪播影片 
+    - wifi
+        - 直接跟設備組確認
+        - 在bootstrap跟 yutin / daisuke 確認
+        - slack 現場工作群
+    - 現場的東西
+        - 當場換電腦，轉接頭、簡報筆等是否還是需要議程助理顧？>會用現場電腦，不用講者電腦 
+        - 要跟講者要檔案
+## todo 
+### CFP 
+- 確認印度講者是否符合免簽要件 [name=peter]
+- 確認奈及利亞線上分享意願 [name=peter]
+- 確認衣索比亞是否申請 / 線上分享意願  [name=peter]
+- 邀請函這邊
+- 
+- teemo 處理  [name=yellowsoar]
+- 主持人需求 [name=peter]
 
-
+### 議程助理
+- 還有誰沒有加進slack [name=whitecat]
+- 共筆 [name=rayen] 4/13 放輕松任務
+    - 請 yellowsoar 告知 rayen資料格式
+- slido 確認用哪一個帳戶開 4/13 放輕松任務
+- 4/20 放輕松任務：處理細流
+    - 出席：peter rayen yellowsoar 
+    - 
 
