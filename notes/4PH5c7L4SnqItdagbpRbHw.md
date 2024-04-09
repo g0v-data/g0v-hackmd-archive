@@ -26,15 +26,15 @@
 
 ### 主持人
 - 所有主持人需求：
-| 時間 | 地點 |     |
+
+| 時間 | 地點 |  內容  |
 | ---- | ---- | --- |
-|      |      |     |
-|      |      |     |
-|      |      |     |
-|      |      |     |
-|      |      |     |
-|      |      |     |
-|      |      |     |
+|   5/4 10:10-11:40   |  R2    |   The value of open source in furthering accessibility goals- Mike Gifford / Anti-misinformation factchecking chatbot: A prototype for Malaysia - Khairil Zhafri  |
+|  5/4 14:10-15:40     |  R1    |   Digital Technology and Civil-Government Partnerships to Solve National Social Issues of South Korea- Junhee Jang /今天開始測試個資查閱、刪除、停止利用權- 冠汝 |
+|  5/4 14:10-15:40   |  R2    | "開放國會四年回顧- Ronny" / "服務NPO的開源社會企業，可行嗎？- Jimmy"/ "Leverage technology to amplify grassroots voices and address civic challenges.- Idris Bilyaminu Ndasadu’Lau" |
+|   5/5 10:10-11:40   |  R1    |"Between Nerds & Governments: Why The Sovereign Tech Fund Invests Public Money in Open Source Infrastructure- Powen Shiah & Paul Sharratt"/"Talk to the City : How LLM can Help Discriminate Consensus Illusion- Deger"/"The civic space situation in Ethiopia - Mesud" （可能是線上） |
+|  5/5 12:30-14:00     |  R1    |  "Community driven data interoperability: the case of a local government- Datasketch"（線上）"Misuse of Citizen Data by South Korea Government through AI and other Technologies: What Can Civil Society Do?- Interlab"（線上）/ A cross between Citizen Science and Civic Tech-Mami Takesada  |
+|   5/5 12:30-14:00      |   R4   |  "公民科技貢獻者為何而來？而留？而走？- Tiff, 小許, 袋鼠" / 如何用解殖視角看台灣自身的公民科技參與？- Ael (線上) |
 
 - [正式議程表](https://docs.google.com/spreadsheets/d/1T-0BlFpydEZtSFBjvOMyTmI0wPp-t0i1sLojpMIvBvM/edit?usp=sharing)
 - 主持人需要的內容
@@ -148,15 +148,22 @@ https://www.facebook.com/SITCONtw/posts/1237201229711987
     - 現場的東西
         - 當場換電腦，轉接頭、簡報筆等是否還是需要議程助理顧？>會用現場電腦，不用講者電腦 
         - 要跟講者要檔案
+## 臨時動議
+- 給講者的證明 / 證書？
+    - 在 coordinator 群問一下
+- reject list 
 ## todo 
 ### CFP 
 - 確認印度講者是否符合免簽要件 [name=peter]
 - 確認奈及利亞線上分享意願 [name=peter]
 - 確認衣索比亞是否申請 / 線上分享意願  [name=peter]
-- 邀請函這邊
-- 
+- 邀請函（印度、泰國、衣索比亞） [name=peter]
 - teemo 處理  [name=yellowsoar]
-- 主持人需求 [name=peter]
+- 主持人需求 [name=peter] done 
+- 確認主題論壇與工作坊的其餘講者名單[name=peter] 
+### 社群軌
+- 確認 cofacts / rentea / disfactory 內容
+- 4/11前完成
 
 ### 議程助理
 - 還有誰沒有加進slack [name=whitecat]

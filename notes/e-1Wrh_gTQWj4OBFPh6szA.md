@@ -134,13 +134,17 @@ https://docs.google.com/document/d/10EOFQpQSOnSoC6W39QoRDj1YQCGKaxOD1jcUTnj22Iw/
 小額捐款
 - 輕量版頁面
 
-## 寫給潛在「中額捐款者」的說明文件
+## 寫給「中額捐款者」的說明文件
 - 中額捐款單筆 30000、50000 元
-- 寫給潛在中額捐款者的說明文件
+    - 捐款頁面：https://ocf.neticrm.tw/civicrm/contribute/transact?reset=1&id=18
+- 寫給中額捐款者的說明文件
     - 文件網址：https://docs.google.com/document/d/11yTLvyJX2a-JW6zXX8smtBUPnZf60hN3DG3W-0qB1YY/edit
-        - 一頁 A4 
-            - 必要元素：捐款網址，QRcode 
+    - 規格：一頁 A4 PDF，方便轉傳、點擊網址後開啟捐款頁面 
+        - A4 內的必要元素：
+            - 捐款網址
+            - QRcode 
             - 文件中也說明除了信用卡扣款方式之外，也可以轉帳匯款，揪松團 有建立一份 Google 表單
+                - 因為轉帳匯款不用扣信用卡手續費 0.025
 
 ## 單次大松之友的說帖文件
 
