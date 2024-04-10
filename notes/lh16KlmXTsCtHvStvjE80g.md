@@ -4,7 +4,7 @@ tags: web3, Shoutout
 
 # da0 Shoutout 04/09 會議記錄
 * 時間：2024/04/09 20:30
-* 參與者：
+* 參與者：Lucky, Kevin, 昶惟, Gim, Stanley, Kay
 * [會議連結](https://meet.google.com/tvt-sgku-gdz)
 * [上次會議紀錄](https://g0v.hackmd.io/RdF3vIZjQHuLqHyXgPo4og?both)
 * [SO Project Master Sheet](https://docs.google.com/spreadsheets/d/1TiLe2t5XUeXS1vE7gJmyeC8GRLaTwU0t_UstoFFrmaQ/edit#gid=1051831713)
