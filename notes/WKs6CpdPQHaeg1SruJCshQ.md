@@ -62,7 +62,9 @@ tags: 新生流域
     - https://www.facebook.com/groups/582154450196478/posts/750514080027180/
 
 ## 中長期
+- 持續籌劃公民週
 - 要不要使用 Trello？
+    - 免費版 10 人協作限制
 - 設置 電子報/活動電子信件 填寫表單
     - 於雲端資料夾內，開 Google 表單
 - 可以錄製 2-3 分鐘的影片介紹 hackmd 各文件概況，作為簡單的導覽，影片可嵌入 hackmd
@@ -71,7 +73,6 @@ tags: 新生流域
     - 包含走讀行程，相關資料整理
 - 針對 水質檢測 如何推展
     - https://g0v.hackmd.io/y9nSsx9jSmiQR1ylDF0ujg?view
-- 持續籌劃公民週
 - 申請加入流域學校
     - https://www.napcu.org.tw/river35.html
 
