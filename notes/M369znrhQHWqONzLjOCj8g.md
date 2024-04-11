@@ -225,15 +225,14 @@ TODO
 
 # 2024 文山區淨零工作坊活動內容延伸相關資料與議題探討
 
+## 2024 活動回顧
 
+文山社大辦淨零工作坊 12歲～60多歲居民共商在地氣候解方
+https://e-info.org.tw/node/238846
 
-## 其他地區機制參考
+氣候治理因地制宜 文山區25年公民參與經驗值得借鏡
+https://e-info.org.tw/node/238845
 
-日本地域ストックマネジメント／脱炭素地域戦略研究（opossum）
-https://www.facebook.com/opossum.chiba
-
-宜蘭 J-Path 宜路有你
-https://www.facebook.com/Yilan.J.Path
 
 ## 文山區地景變遷與環境特點
 
@@ -376,3 +375,11 @@ https://docs.google.com/presentation/d/1rJBbNrMqwZ4zNmLKl5d7wymVaTraKaBV5juR6PML
 
 萬和里 參考
 https://www.facebook.com/story.php?story_fbid=pfbid02EeEFhSwYRQjgFVyxqP33J7cxyCiXVaSM5tbeCAyjDm765XnnGCEqBhZMBcVM9f5rl&id=100000432932151&mibextid=WC7FNe
+
+## 其他地區機制參考
+
+日本地域ストックマネジメント／脱炭素地域戦略研究（opossum）
+https://www.facebook.com/opossum.chiba
+
+宜蘭 J-Path 宜路有你
+https://www.facebook.com/Yilan.J.Path

@@ -6,9 +6,15 @@ tags: GIS
 臺灣濕地地圖：http://u.osmfr.org/m/224438/
 社團討論串：https://bit.ly/2Gw9L24
 
-資料怎麼呈現、展示、記錄？
+:::warning
+文件目錄
+[TOC]
+:::
 
-地圖試作
+
+## 資料怎麼呈現、展示、記錄？
+
+### 地圖試作
 地圖網址，可共同編輯
 http://u.osmfr.org/m/224438/
 分類
@@ -22,7 +28,7 @@ http://u.osmfr.org/m/224438/
 【漁塭地區】例：七股區篤加地區
 【河口與海濱濕地】例：高美濕地
 
-資料課題
+### 資料課題
 考慮使用「時間地圖」來管理資料
 TimeMapper 
 http://timemapper.okfnlabs.org/
@@ -38,12 +44,11 @@ Spreadsheet 必備的欄位是Title還有Start。
 位在大學或學校內的水體
 ...等
 
-濕地資料在哪裡？
+## 濕地資料在哪裡？
 同步盤點官方是否有提供相應的開放資料 open data
 20140801 曾有網友詢問，但官方仍沒有開放 https://data.gov.tw/node/8394
 也筆記民間所盤點的資料
 
-官方資料
 圖資
 國際級重要濕地.json
 https://github.com/kiang/eland.cpami.gov.tw/blob/master/json/%E5%9C%8B%E9%9A%9B%E7%B4%9A%E9%87%8D%E8%A6%81%E6%BF%95%E5%9C%B0.json
@@ -65,15 +70,21 @@ http://data.moi.gov.tw/moiod/Data/DataDetail.aspx?oid=155E015A-B3A9-4075-9E5D-3C
 水庫
 官方資料？
 
+農塘 gis 資料
+https://www.facebook.com/share/p/AzZ8qDi8Qo7svEJ2/
 
-學術研究資料
+大學校園內的水體
+https://www.facebook.com/share/p/zb4XpJ1vTDJ4BhfY/
+
+
+## 學術研究資料
 全球水體變遷地圖與資料 
 https://global-surface-water.appspot.com/
 遙測方式使用 Sentinel-1 可以篩出大多數水體範圍與區域  
 https://appliedsciences.nasa.gov/sites/default/files/SAR%20Disasters%20Part%201.pdf
 
 
-待登載資料
+## 待登載資料
 溫泉與地熱水體
 全國溫泉區分布及公告地圖 
 https://www.facebook.com/GeoHarvester/posts/1910251078993271
