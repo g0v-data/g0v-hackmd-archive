@@ -1,7 +1,7 @@
 ---
 tags: summit2024
 ---
-# 新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】
+# 新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】(草稿)
 
 > 最後更新 2024/04/11 21:00 [name=YC]
 
@@ -9,15 +9,15 @@ tags: summit2024
 原則：g0v Summit 2024 歡迎新聞媒體自由採訪
 原則：請遵守大會[社群守則](https://summit.g0v.tw/2024/coc/)、尊重每一位與會者
 
-**General principle**: g0v summit 2020 welcomes jouralists to report and interview freely throughout the conference.
+**General principle**: g0v summit 2024 welcomes jouralists to report and interview freely throughout the conference.
 
 Please follow the conference [Code of Conduct](https://summit.g0v.tw/2024/coc/), and respect each and every participants.
+
 
 ## 大會新聞稿 / Press Release
 
 ### Press Release
-[新聞稿連結](https://docs.google.com/document/d/1chL2IQXja4rPZ7K1Qu9JkFi4P9htKjqYWR8mtbB0YL0/edit)
-[第三天新聞稿連結](https://docs.google.com/document/d/11jSnMTPguWv4dOCRzPYtvN-PPOkxyLl-3hFturWC1lI/edit)
+[新聞稿連結]
 
 ### Photo
 [官方照片連結 Photo](https://drive.google.com/drive/folders/159RLIGB9ETSRyi9ndaGIiP9sMvp1eMMb)
@@ -25,16 +25,13 @@ Please follow the conference [Code of Conduct](https://summit.g0v.tw/2024/coc/),
 ### 大會活動的：統計數字、關鍵數字、常見提問
 
 （歡迎提出項目）
-On-site: 
-Remote:
-籌辦志工人數:
-
-
+與會者人數： 
+籌辦志工人數：
 
 
 ## 大會官網 / Official Website
 
-https://summit.g0v.tw/2020
+https://summit.g0v.tw/2024
 
 ## 會前約訪 / Preliminary Interviews
 
@@ -44,31 +41,30 @@ https://summit.g0v.tw/2020
 - We are unable to release contact information of speakers or panel discussion hosts without their direct consent.
 - Please reach us at <host@summit.g0v.tw> for such demands and we would do our best to assist you. As our volunteers are preoccupied with conference duties, we apologize for any potential delays between replies. 
 
-## 遠端參與 / Remote Participation
-
-* 「遠端參與票」已於 12/2 18:00 截止。本次大會線上直播、口譯，僅提供給持有「遠端參與票」者。為保持會議品質、維護會眾權益，恕無法提供新聞媒體遠端票，敬請見諒。如有特殊需求，請來信 host@summit.g0v.tw ，大會志工會盡力協助。
-* 大會議程，除講者要求外，皆會以原始影像及音訊，於會後公開在 [g0v 零時政府 YouTube 帳號](https://www.youtube.com/user/g0vTW/playlists)，如有需要，歡迎與會後參考，並按照授權條款使用影音內容。
-
-
-- “Remote participation tickets” are already closed to registration 6:00pm, Dec 2nd. Live streaming and simutaneous interpretation of the conference are reserved for “remote participation” ticket holders only. To maintain the quality of the conference and on behalf of ticket holders, we’re unable to provide additional tickets to news media. For special inquiries, please contact <host@summit.g0v.tw>.
-- Except explicitly requested by the speakers, all sessions would be available on the [g0v YouTube channel](https://www.youtube.com/user/g0vTW/playlists) after the conference in their original form. Feel free to refer to them as you need and make use of the video content in regard to their licensing terms.
 
 ## 現場採訪 / On-site Interviews
 
-* 12/4 週五全天、12/5 週六全天、12/6 週日上午，在大會各場地報到處，會有媒體接待人員，與一般會眾報到分開進行，方便記者朋友進出會場。
-* 記者請以媒體機構名片交換識別證，填寫健康聲明後，免費入場。
+* 5/4 週六 09:00－17:30、5/5 週日 09:00－17:00，在大會報到處，將有媒體接待人員，與一般會眾報到分開進行，方便記者朋友進出會場。
+* 記者請以媒體機構名片交換識別證入場。
 * 大會識別證限本人使用，請妥善保管，配戴即可自由進出大會。
-* 會場內，歡迎自由採訪，但需取得受訪者明確同意，並且注意尊重配戴「紅色頸繩」的會眾，不要拍照、錄影。
-* 會場內，請遵守防疫規範，全程配戴口罩。
-* 大會及相關活動期間，請詳閱並確實遵守大會行為準則 https://summit.g0v.tw/2020/code-of-conduct
+* 會場內，歡迎自由採訪，但需取得受訪者明確同意，並且注意尊重配戴「**紅色頸繩**」的會眾，不要拍照、錄影。
+* 大會及相關活動期間，請詳閱並確實遵守大會社群準則 https://summit.g0v.tw/2024/coc/
 * 受場地空間限制，本次大會並無規劃訪問專用場地，敬請見諒。
 
-- Media reception will be available at the registration of all venues on 4th (Fri.) and 5th (Sat.) all day, and in the morning of 6th (Sun.); the line is separated from the general registration for your convenience.
-- Journalists may exchange their media organization business card for a free badge after filling out the public health declaration form.
+- Media reception will be available at the registration of the venue on 4th (Sat.) 09:00－17:30 and 5th (Sun.)09:00－17:00; the line is separated from the general registration for your convenience.
+- Journalists may exchange their media organization business card for a free badge.
 - The exchanged badge automatically admits you to the conference venue and is solely intended to be worn by you. Please make sure it’s in your possession at all times.
 - You’re free to interview in the venue as long as the interviewee explicitly agreed to. Participants with **red lanyards** are NOT to be photographed or video recorded.
-- Please follow all public health measures in the venue and wear a mask at all times.
-- Please carefully read and follow the conference [Code of Conduct](https://summit.g0v.tw/2020/code-of-conduct) throughout the event. 
+- Please carefully read and follow the conference [Code of Conduct](https://summit.g0v.tw/2024/coc/) throughout the event. 
 - Due to venue limitations, we apologize for the unavailability of dedicated space for media interviews.
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8d9dc095517b0a7c7bba549bc8997728.png)
+
+## 遠端參與 / Remote Participation
+
+* 大會議程，除講者要求外，皆會以原始影像及音訊，於會後公開在 [g0v 零時政府 YouTube 帳號](https://www.youtube.com/user/g0vTW/playlists)。如有需要，歡迎與會後參考，並按照授權條款使用影音內容。
+
+- Except explicitly requested by the speakers, all sessions would be available on the [g0v YouTube channel](https://www.youtube.com/user/g0vTW/playlists) after the conference in their original form. Feel free to refer to them as you need and make use of the video content in regard to their licensing terms.
+
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b7e7ab49d79fde242b761bfab6f9a3e1.png)

@@ -98,6 +98,7 @@ tags: 公有地大行動
 ### 20240413 上午走訪
 
 - 路線：https://www.google.com/maps/d/u/0/viewer?hl=zh-TW&mid=1PtrMifUEOzZi1-ShuVktL7jetCPdKeY&ll=0%2C0&z=16
+- 地圖文件：https://docs.google.com/presentation/d/1Zp1uOl2PGQm_FrE2kCXtyXMAjfRg-6fMiIt5CFBuKS8/edit?usp=sharing
 
 主要目的：建立參加者今年度想探討的主題，與街區的關聯性
 - 踏查過程中，進行說明：選組之後的開展方式
