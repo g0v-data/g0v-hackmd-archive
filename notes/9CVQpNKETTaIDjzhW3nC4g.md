@@ -174,44 +174,48 @@ DiscountStayName 為計算策略方法名稱，由系統設定，不可修改
 public class CalculateProduct{
     //目前為productId
     public Guid ProductId { get; set; }
+    //該產品的單價
     public decimal Amount { get; set; }
+    //預約日期
     public DateTime Date { get; set; }
 }
 
-public class CalculateProductInput{
-    public OwnerId { get; set; }
+public class CalculateDiscountInput{
+    //目前為productDefinitionId
+    public GroupId { get; set; }
+    //該筆訂單所有產品
     public List<CalculateProduct> Products { get; set; }
 }
 
 public class CalculateProductInfo{
+    //該筆訂單產品總價
     public decimal TotalAmount { get; set; }
+    //該筆訂單折扣總價
     public decimal DiscountAmount { get; set; }
 }
 ```
 
-### provider介面
+### provider方法
 ---  
 
 ``` c#
 //為連續入住及連續購買提供計算服務
-public interface IDiscountStrategy{
+public class ConsecutiveStrategy{
 
-    //折扣優先權，數字越大越優先
-    int Priority { get; }
-
-    Task<decimal> CalculateAsync(CalculateProductInput input);
+    //計算該策略折扣後價格
+    Task<decimal> CalculateDiscountAmountAsync(CalculateDiscountInput input)
 }
 
-//用provider把註冊的折扣策略都執行一遍
-public interface IDiscountProvider
+/// <summary>
+/// 計算折扣金額
+/// </summary>
+/// <param name="input">要計算的商品</param>
+/// <param name="strategy">預設為null，代表執行所有折扣計算，有值則只計算選擇的策略</param>
+/// <param name="IsMerge">是否將所有折扣合併，如果不合併取最優惠的</param>
+/// <returns>返回商品總價和折扣總金額</returns>
+public class CalculateDiscountAmountProvider
 {
-    DiscountProductInfo DiscountCalculateAsync(CalculateProductInput input);
-}
-
-public class DiscountProviderConfiguration{
-
-    //是否合併折扣，不是則用優先權最高的折扣
-    public bool IsMergeDiscount { get; set; }
+    Task<CalculateDiscountAmountInfo> CalculateDiscountAmountAsync(CalculateDiscountInput input,DiscountRuleStrategy? strategy = null,bool IsMerge = true)
 }
 ```
 
