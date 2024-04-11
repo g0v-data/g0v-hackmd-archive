@@ -163,7 +163,7 @@ https://docs.google.com/document/d/10EOFQpQSOnSoC6W39QoRDj1YQCGKaxOD1jcUTnj22Iw/
 
 **廣告 banner**
 [![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c3a41b558f1e26349bdd04f500af558c.png)](http://bit.ly/moneyg0v)
-> 也許可以問問看有沒有專案頁面願意掛廣告橫幅？
+> 也許可以問問看有沒有專案共筆頁面願意掛廣告橫幅？
 > [name=YI HUANG]
 
 ## 寫給「中額捐款者」的說明文件
