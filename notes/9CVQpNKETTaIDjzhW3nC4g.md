@@ -165,14 +165,15 @@ DiscountStayName 為計算策略方法名稱，由系統設定，不可修改
 
 ![連續購買實體規劃](https://files.furthersoftware.com.tw/assets/Tourmap/consecutiveBuyRule.png)
 
-## 計算provider 介面規劃
+## 計算provider 規劃
 
 ### provider所需的input及output
 ---
 
 ``` c#
 public class CalculateProduct{
-    public Guid CategoryId { get; set; }
+    //目前為productId
+    public Guid ProductId { get; set; }
     public decimal Amount { get; set; }
     public DateTime Date { get; set; }
 }
