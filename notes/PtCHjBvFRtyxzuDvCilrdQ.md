@@ -22,6 +22,8 @@ tags: summit2024
 - White Cat (議程組為主)（議程組這邊的工作結束了，接下來可以以紀錄組為主） (會修圖)
 - RAYEN (議程組為主)
 - Janice (再跟Peter確認是否為議程組?)
+- YC(提供設備，但無法支援拍攝)
+    - 設備： [Canon EOS M50 Mark II (EF-M15-45mm f/3.5-6.3 IS STM & EF-M55-200mm f/4.5-6.3 IS STM)](https://tw.canon/zh_TW/consumer/eos-m50-mark-ii-ef-m15-45mm-f-3-5-6-3-is-stm-amp-ef-m55-200mm-f-4-5-6-3-is-stm/product?category=photography&subCategory=compact-slr)
 
 #### 若尚未加入任何一組，願意加入紀錄組的話，請填寫以下表單，組別選擇**[紀錄組]**，感謝~
 1. [工作人員登記表單](https://forms.gle/XSAorogZ6ZXjiPqk8) : 登記為工作人員

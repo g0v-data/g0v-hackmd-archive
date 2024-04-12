@@ -870,6 +870,10 @@ Opass 教學
 ### 官網
 
 - 合作夥伴、工作人員頁面的呈現
+- 國科會logo 好小
+    - 他們本來給的 logo 有白邊[name=RS]
+    - 他們官網的圖
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d8c9ef0249d193433b9f0d0b801e7fcf.png)
 
 ### 電子報
 - 覺得中文版內容已經太多，想要把英文議程放到英文版的電子報上 [name=阿敏]
