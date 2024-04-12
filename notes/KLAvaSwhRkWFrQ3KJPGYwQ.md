@@ -20,7 +20,7 @@ Please follow the conference [Code of Conduct](https://summit.g0v.tw/2024/coc/),
 [新聞稿連結]
 
 ### Photo
-[官方照片連結 Photo](https://drive.google.com/drive/folders/159RLIGB9ETSRyi9ndaGIiP9sMvp1eMMb)
+[官方照片連結 Photo]
 
 ### 大會活動的：統計數字、關鍵數字、常見提問
 
@@ -36,10 +36,10 @@ https://summit.g0v.tw/2024
 ## 會前約訪 / Preliminary Interviews
 
 * 大會講者、主持人等聯絡方式，未經當事人許可，恕大會無法提供，敬請見諒。
-* 如有需求，請來信 host@summit.g0v.tw ，大會志工會盡力協助。回覆若有延遲，實因志工因大會事務繁忙，造成不便，敬請見諒。
+* 如有需求，請來信 media@summit.g0v.tw ，大會志工會盡力協助。回覆若有延遲，實因志工因大會事務繁忙，造成不便，敬請見諒。
 
 - We are unable to release contact information of speakers or panel discussion hosts without their direct consent.
-- Please reach us at <host@summit.g0v.tw> for such demands and we would do our best to assist you. As our volunteers are preoccupied with conference duties, we apologize for any potential delays between replies. 
+- Please reach us at <media@summit.g0v.tw> for such demands and we would do our best to assist you. As our volunteers are preoccupied with conference duties, we apologize for any potential delays between replies. 
 
 
 ## 現場採訪 / On-site Interviews
