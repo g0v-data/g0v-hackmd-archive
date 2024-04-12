@@ -69,6 +69,7 @@ tags: 新生流域
     - 延平基督教會，直轄市定古蹟 1937年創建
         - https://www.facebook.com/SimhoYang/posts/pfbid0X3Z3FFtD5nKNDsRKDCGCNoam2Vmjh3qz1j3PfWpiNf94bTGvchaGSb5KveCn7niSl
     - 陳永成公廳 https://www.facebook.com/photo.php?fbid=10150261926963618&id=747873617&set=a.10151834790708618&mibextid=qC1gEa
+    - 1930 古亭市場 http://linchunsheng.blogspot.com/2011/02/blog-post_05.html
     - 住宅 https://www.facebook.com/share/p/Nn41VWhUuaLkPzra/?mibextid=WC7FNe
     - 師大校區附近 舊照片 https://www.facebook.com/share/amDFgDNNDrzzKVZk/
     - 照片 https://www.facebook.com/share/p/6MDNVrM36K6KhbuM/

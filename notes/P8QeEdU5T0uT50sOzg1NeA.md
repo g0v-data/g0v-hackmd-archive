@@ -860,3 +860,57 @@ Opass 教學
       :::
   - [美國棉 Soft 棉質舒適T](https://www.152.com.tw/index.php?node=2-1-t-shirt&produce=%E7%BE%8E%E5%9C%8B%E6%A3%8963000%E8%96%84%E6%AC%BE%E7%9F%ADT-1998)
   - [輕羽棉圓領短T(現貨款)](https://www.152.com.tw/index.php?node=2-1-t-shirt&produce=%E8%BC%95%E7%BE%BD%E6%A3%89%E5%9C%93%E9%A0%98%E7%9F%ADT(%E7%8F%BE%E8%B2%A8%E6%AC%BE)-1770)
+
+
+## 20240412 第二十一次會議紀錄
+> 時間：2024/04/12（五） 10:00 PM
+> 地點：線上
+> 出席：Dong、Hou、阿敏、YC
+
+### 官網
+
+- 合作夥伴、工作人員頁面的呈現
+
+### 電子報
+- 覺得中文版內容已經太多，想要把英文議程放到英文版的電子報上 [name=阿敏]
+    - 覺得可以兩邊都放，但可以根據語言調整閱讀順序 [name=Dong]
+- 現場會配有翻譯，但有每一場都有嗎？[name=YC]
+    - 建議問問RS[name=Dong]
+- 穿山甲圖要換，檔案在[這裡](https://drive.google.com/drive/folders/1ra7u52O4u8Eg5DWZSN4cOrFa6GuJ_7Zi)
+
+### 鏡頭蓋
+
+相關資料：
+[鏡頭保護蓋規劃 - HackMD](https://g0v.hackmd.io/@summit2024/media-book/%2FY8k3mFVDQbycoAeVsB9uZg)
+進度：
+- 上週日（4/7）已送印，客製化卡紙需時15個工作天，4/8回覆已開始進行卡紙製作，最快在4/26（五）前會送到。
+- ::: spoiler 目前廠商回覆的印刷樣品
+    近看畫質沒有很好，實體很小一個，應該看不到這麼糊的細節
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9be99a1aacbfc6c9a732c4a2d6eeafa0.png)
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_31f5ff2af8e649aea00650d4fccff7fe.png)
+  :::
+
+### T-shirt
+
+相關資料：
+
+* [T恤規劃 - HackMD](https://g0v.hackmd.io/@summit2024/media-book/%2F1cAd5TXHSaaCaWiFDTlY6g)
+* [T-shirt - Google 雲端硬碟](https://drive.google.com/drive/folders/1Xtg3xgfX99WBPaMWJPBU83lNFu2ZyCsI)
+* [衣服尺寸統計 - Google 試算表](https://docs.google.com/spreadsheets/d/1VK_UU-bfmRPyrXH_xNSVDhFV7IrQNsblT5cTqD66kK4/edit#gid=0)
+
+進度：
+
+- 完成設計稿修改
+    - 因為實際看過衣服樣品後，發現工人限定款如果採取轉印的話會太厚、試著調整符合網版印刷的風格也不太順利，所以 [name=RS] 跟 [name=Dong] 根據原來的設計調了一個版本。
+    - ::: spoiler 大概長這樣
+      ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_74ab6e75c073961386379d78b962636e.png)
+      :::
+- 確認送印廠商：玩美獨衣
+    - 4/10(三)至台北站前門市實際上手材質，將工人特製A款改為較厚的美國棉（多15元/件），而販賣款維持輕羽棉。
+- 確認送印設計稿，已交付廠商製版，預計下週五前能去看樣衣。
+    - 詳見 [廠商模擬稿](https://drive.google.com/drive/folders/141uhmSz4pimcK2J0uez67pNLC7INr3OV)
+- 其他印務上遇到的問題，已整理到 [T恤規劃 - HackMD](https://g0v.hackmd.io/@summit2024/media-book/%2F1cAd5TXHSaaCaWiFDTlY6g)，有興趣再去翻翻即可
+    - ::: spoiler
+      ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a9ed97fc16c295b602bb5c16ac2a66d7.png)
+      :::
+- 待統計衣服尺寸
