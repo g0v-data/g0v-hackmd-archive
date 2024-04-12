@@ -2,22 +2,22 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-11T22:17:30+08:00 | 2024-04-09T15:38:54+08:00 |
-| 2 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】(草稿)](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-04-11T21:27:06+08:00 | 2024-04-11T20:55:35+08:00 |
-| 3 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-11T20:57:39+08:00 | 2023-12-09T12:53:41+08:00 |
-| 4 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-04-10T00:25:42+08:00 | 2023-11-03T20:10:41+08:00 |
-| 5 | [場務助理](../notes/yheBZPRvSpmGXfsQ1AUkGA.md) | 2024-04-09T22:37:31+08:00 | 2024-04-09T13:31:01+08:00 |
-| 6 | [在數位威權時代保護數位人權 – Access Now – g0v Summit 2024 焦點議程](../notes/oTzW4X4kTO25IWqiE_ylNw.md) | 2024-04-08T18:17:24+08:00 | 2024-02-27T22:14:15+08:00 |
-| 7 | [數位韌性：斷網怎麼辦？ – g0v Summit 2024 社群軌](../notes/z6rTXmFLSxyDpBRo0E1mtw.md) | 2024-04-08T18:17:20+08:00 | 2023-08-26T11:19:06+08:00 |
-| 8 | [基調座談 – 全球民主倒退中的東亞公民科技社群：台、日、韓三國對話](../notes/1s4iT1NQTluytpHMPa2cNQ.md) | 2024-04-03T13:25:49+08:00 | 2024-03-26T08:18:26+08:00 |
-| 9 | [基調演講 – Nerd politics and the global culture wars](../notes/MFasxZB2Tuiw8nAVQXaaBQ.md) | 2024-04-01T23:15:43+08:00 | 2024-02-20T22:06:31+08:00 |
-| 10 | [g0v Summit 2024 組別 + 跳坑](../notes/dttYgGq1SmqCCp4ZntffZw.md) | 2024-03-26T11:17:46+08:00 | 2023-05-13T14:36:25+08:00 |
-| 11 | [2024 議程組的場勘筆記](../notes/-eyM6u5CSvC7Wc0Agn-7hQ.md) | 2024-03-20T23:16:16+08:00 | 2024-01-09T22:39:42+08:00 |
-| 12 | [20240319會議](../notes/EDJM-27hS2yfjEc4wMqKmw.md) | 2024-03-19T22:51:23+08:00 | 2024-03-15T21:32:22+08:00 |
-| 13 | [keynote speaker 相關資訊](../notes/tN9T-Z7BSyanVM2ziV0dkA.md) | 2024-03-17T16:00:32+08:00 | 2023-12-22T23:27:53+08:00 |
-| 14 | [20240312會議](../notes/bClvGH2jTqCFvvwIq05HaA.md) | 2024-03-17T07:52:13+08:00 | 2024-03-11T11:51:29+08:00 |
-| 15 | [行前通知](../notes/jMz-ekZlT_q-QEBZxqFB9g.md) | 2024-03-17T07:25:30+08:00 | 2024-03-04T16:23:31+08:00 |
-| 16 | [翻譯志工 / 服務 / UD Talk](../notes/CKbb2nAtTBijqOM5jcEqZg.md) | 2024-03-16T18:25:14+08:00 | 2024-03-05T23:15:39+08:00 |
+| 1 | [翻譯志工 / 服務 / UD Talk](../notes/CKbb2nAtTBijqOM5jcEqZg.md) | 2024-04-12T08:48:37+08:00 | 2024-03-05T23:15:39+08:00 |
+| 2 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-11T22:17:30+08:00 | 2024-04-09T15:38:54+08:00 |
+| 3 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】(草稿)](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-04-11T21:27:06+08:00 | 2024-04-11T20:55:35+08:00 |
+| 4 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-11T20:57:39+08:00 | 2023-12-09T12:53:41+08:00 |
+| 5 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-04-10T00:25:42+08:00 | 2023-11-03T20:10:41+08:00 |
+| 6 | [場務助理](../notes/yheBZPRvSpmGXfsQ1AUkGA.md) | 2024-04-09T22:37:31+08:00 | 2024-04-09T13:31:01+08:00 |
+| 7 | [在數位威權時代保護數位人權 – Access Now – g0v Summit 2024 焦點議程](../notes/oTzW4X4kTO25IWqiE_ylNw.md) | 2024-04-08T18:17:24+08:00 | 2024-02-27T22:14:15+08:00 |
+| 8 | [數位韌性：斷網怎麼辦？ – g0v Summit 2024 社群軌](../notes/z6rTXmFLSxyDpBRo0E1mtw.md) | 2024-04-08T18:17:20+08:00 | 2023-08-26T11:19:06+08:00 |
+| 9 | [基調座談 – 全球民主倒退中的東亞公民科技社群：台、日、韓三國對話](../notes/1s4iT1NQTluytpHMPa2cNQ.md) | 2024-04-03T13:25:49+08:00 | 2024-03-26T08:18:26+08:00 |
+| 10 | [基調演講 – Nerd politics and the global culture wars](../notes/MFasxZB2Tuiw8nAVQXaaBQ.md) | 2024-04-01T23:15:43+08:00 | 2024-02-20T22:06:31+08:00 |
+| 11 | [g0v Summit 2024 組別 + 跳坑](../notes/dttYgGq1SmqCCp4ZntffZw.md) | 2024-03-26T11:17:46+08:00 | 2023-05-13T14:36:25+08:00 |
+| 12 | [2024 議程組的場勘筆記](../notes/-eyM6u5CSvC7Wc0Agn-7hQ.md) | 2024-03-20T23:16:16+08:00 | 2024-01-09T22:39:42+08:00 |
+| 13 | [20240319會議](../notes/EDJM-27hS2yfjEc4wMqKmw.md) | 2024-03-19T22:51:23+08:00 | 2024-03-15T21:32:22+08:00 |
+| 14 | [keynote speaker 相關資訊](../notes/tN9T-Z7BSyanVM2ziV0dkA.md) | 2024-03-17T16:00:32+08:00 | 2023-12-22T23:27:53+08:00 |
+| 15 | [20240312會議](../notes/bClvGH2jTqCFvvwIq05HaA.md) | 2024-03-17T07:52:13+08:00 | 2024-03-11T11:51:29+08:00 |
+| 16 | [行前通知](../notes/jMz-ekZlT_q-QEBZxqFB9g.md) | 2024-03-17T07:25:30+08:00 | 2024-03-04T16:23:31+08:00 |
 | 17 | [電子報專區](../notes/zdsET4JqTImKkO9x62yeHg.md) | 2024-03-15T21:57:12+08:00 | 2023-11-11T14:38:14+08:00 |
 | 18 | [NDI TW 提案：「亞太資訊健全及數位人權」共識工作坊](../notes/YUPZVQQtTI6Y-FN5urw9aw.md) | 2024-03-12T22:55:32+08:00 | 2024-03-12T17:46:46+08:00 |
 | 19 | [20240305會議](../notes/QLXls9H2TBW_K5mt8aZJFw.md) | 2024-03-05T23:03:57+08:00 | 2024-03-04T16:05:48+08:00 |

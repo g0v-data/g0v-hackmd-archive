@@ -4,8 +4,31 @@ tags: summit2024
 
 # 翻譯志工 / 服務 / UD Talk
 
+## 0404 Discussion
+
+For Case 1:
 
 
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f3cfe7ebdac1b0255303e7c704541441.png)
+
+For Case 2 (上次討論給的那張圖):
+
+> You need iOS or M1 Mac in this case (Android cannot).
+> About devices, “iRig2” is simplest device for inputing audio to PC.
+> https://www.amazon.co.jp/dp/B00UV71Y4I
+> You can use UD Talk with iRig2 on M1 Mac.
+> But, recent devices has no analog input.
+> You have to use USB sound device directly or USB sound device with iRig2.
+> They can connect recent iOS device directly.
+> (Old iOS devices has analog input, if you have them, you can use them)
+> I use YAMAHA AG03, but it is for semi professional use.
+> https://www.amazon.co.jp/dp/B09VFDKDDM/
+> If summit staff members include member who know about audio devices very well, the setting is no so difficult.
+
+- UD Talk can be our "supporting organizer"
+- Aoki san cannot be in Taiwan during that time
+- 
 
 ## 0315 Discussion with UD Talk 
 - 中文結論：
