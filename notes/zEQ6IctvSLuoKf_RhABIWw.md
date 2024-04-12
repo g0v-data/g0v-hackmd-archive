@@ -13,6 +13,7 @@ tags: GIS
     - https://www.facebook.com/story.php?story_fbid=pfbid0azQ483353W8LNDhwRqVwYJ4Kjm3RTcVMjUv39h1T8SGKPbktAqxuHUc7pojAcdw7l&id=100063966192930&mibextid=0cALme
 - 楊德昌
     - https://www.facebook.com/photo.php?fbid=720208353481820&set=a.645114764324513&type=3&mibextid=cr9u03
+    - https://www.facebook.com/edwardyang1947/photos_albums
 - 台南，繪畫
     - https://www.facebook.com/story.php?story_fbid=pfbid02gbSQwpqrFEeuVWpdpXZfhb86iaDpqF8fx6a5ibGg9teeBWiUNExEYf7GyHetAPgUl&id=100077643991742&mibextid=qC1gEa
 - 1973 電影〈窗外〉取景於新生南路，拍攝到清真寺與新生大排
