@@ -12,14 +12,11 @@ Discussion 04/13
 2. Gerative AI ( lyrics, fake news)
     Generate fake news using existing reference of real news. Lyrics generator using a writter's lyrics as reference.
     
-    
-- [S](/s/slide-example)
-- [YAML metadata](/s/yaml-metadata)
-- [Features](/s/features)
+- [Challenges](/s/slide-example)
+1. What are the enhancements we could do to make the system better, compared to the baseline methods?
 
-Themes
----
-- [Dark theme](/theme-dark?both)
-- [Vertical alignment](/theme-vertical-writing?both)
+- [Ideas](/s/yaml-metadata)
+1. Have the system ask user questions to seek out more preference to make better recommendations.
 
-###### tags: `Templates` `Book`
+
+###### tags: `Hello` `Book`

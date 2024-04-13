@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Notes Intro. to AI Group I](../notes/DXaFMwKJSHy9aNTbxoX9kg.md) | 2024-04-13T11:22:02+08:00 | 2024-04-13T11:01:10+08:00 |
+| 1 | [Notes Intro. to AI Group I](../notes/DXaFMwKJSHy9aNTbxoX9kg.md) | 2024-04-13T12:55:03+08:00 | 2024-04-13T11:01:10+08:00 |
 | 2 | [Collect your documents with a book](../notes/w9hNduvGQpW5sTwfRuVtKQ.md) | 2024-04-13T10:58:13+08:00 | 2024-04-13T09:47:57+08:00 |
 | 3 | [Collect your documents with a book](../notes/ZNqL2ZRiSNmpwU5uaQ25xw.md) | 2024-04-13T09:47:10+08:00 | 2024-04-13T09:46:53+08:00 |
 | 4 | [Collect your documents with a book](../notes/F4W9i5GKS364WCRbSEH7sg.md) | 2024-04-08T15:05:50+08:00 | 2024-04-08T15:05:46+08:00 |
