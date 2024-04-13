@@ -1,0 +1,1 @@
+# 在技術宅與政府之間：為何主權科技基金投資公共資金於開源基礎設施？ Between Nerds & Governments: Why The Sovereign Tech Fund Invests Public Money in Open Source Infrastructure

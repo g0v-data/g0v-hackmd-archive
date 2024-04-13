@@ -133,9 +133,14 @@ tags: summit2024
 
 ## 建議要租/借的器材
 - 腳架（拍大合照用），一定要有！
-- 若有預算的話，建議租一組真的能打的器材...（我推Sony α7 IV+FE 24-70mm F2.8 GM+FE 70-200mm F2.8 GM）因為現在租器材其實也沒有想像中貴（這組器材兩天4000元上下）
- [name=白貓]
-
+- 若有預算的話，建議租一組真的能打的器材...（我推Sony α7 IV+FE 24-70mm F2.8 GM+FE 70-200mm F2.8 GM）因為現在租器材其實也沒有想像中貴（這組器材兩天4000元上下） 
+[name=白貓]
+    - 我目前只知道 楓驛器材 [name=Oliver]
+        - [a74](https://www.lens.tw/product/sony-a7iv-a74%e5%96%ae%e6%a9%9f%e8%ba%ab/) = 1,000/天
+        - [Sony FE 24-70MM F2.8 E接環 GM](https://www.lens.tw/product/sonyfe-24-70mm-f2-8-e%e6%8e%a5%e7%92%b0-gm/) = 800/天
+        - [Sony FE 70-200MM F2.8 GM](https://www.lens.tw/product/sony-fe-70-200mm-f2-8-gm/) = 900/天
+    - 請問有更推薦的租借商嗎?
+    
 ## 其他疑問和待確認事項
 - 是否允許用閃燈？
 - 注意不能拍到對講機！（我們沒有對講機執照）

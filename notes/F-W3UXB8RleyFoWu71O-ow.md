@@ -1,0 +1,1 @@
+# 韓國政府用AI等技術濫用公民資料：公民如何因應？ Misuse of Citizen Data by South Korea Government through AI and other Technologies: What Can Civil Society Do?

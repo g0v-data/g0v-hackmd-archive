@@ -1,0 +1,1 @@
+# 工作坊：今天開始測試個資查閱、刪除、停止利用權 Workshop: Starting today, testing the rights to access, delete, and cease the use of personal data.
