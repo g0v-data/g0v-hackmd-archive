@@ -2,7 +2,7 @@
 
 ## Info
 - Date & Time: Sunday May 5th
-- Language: English
+- Language: English, no interpretation
 - Open participation, 30 people max
 
 ## Invited participants
@@ -12,3 +12,5 @@
     - Organiser, Code for Korea
 - Patipat Susumpao
     - Managing Director, Opendream
+- More to be confirmed...
+
