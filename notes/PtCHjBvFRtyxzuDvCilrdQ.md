@@ -15,7 +15,7 @@ tags: summit2024
 
 ## 目前人員(以及若願意提供器材資訊):
 - Oliver (組長，Slack ID: OliverL.，可以在Slack上跟我聯絡~)
-    - 設備: Canon EOS R10, RF-S18-150mm f/3.5-6.3 IS STM 
+    - 設備: Canon EOS R10 (RF-S18-150mm f/3.5-6.3 IS STM) 
 - Sherry (5/4一天)
 - Kailan
 - YellowSoar (議程組為主)
@@ -24,6 +24,29 @@ tags: summit2024
 - Janice (再跟Peter確認是否為議程組?)
 - YC(提供設備，但無法支援拍攝)
     - 設備： [Canon EOS M50 Mark II (EF-M15-45mm f/3.5-6.3 IS STM & EF-M55-200mm f/4.5-6.3 IS STM)](https://tw.canon/zh_TW/consumer/eos-m50-mark-ii-ef-m15-45mm-f-3-5-6-3-is-stm-amp-ef-m55-200mm-f-4-5-6-3-is-stm/product?category=photography&subCategory=compact-slr)
+
+#### 整理一下
+
+| name | SlackID | 設備 | 修圖 | 備註 |
+| ---- | ---- | ---- | ---- | ---- |
+| Oliver | OliverL. | Canon EOS R10 (RF-S18-150mm f/3.5-6.3 IS STM) | X | 組長 |
+| 小0 | 筱翎 Sherry | ---- | ---- | 5/4 一天 |
+| Kailan | Kailan | ---- | ---- | ---- |
+| 白貓 | White Cat | ---- | O | ---- |
+| RAYEN | RAYEN | ---- | ---- | 議程組為主 |
+| Janice Hu | Janice Hu | ---- | ---- | ---- |
+| YC | YC (Yichun) | [Canon EOS M50 Mark II (EF-M15-45mm f/3.5-6.3 IS STM & EF-M55-200mm f/4.5-6.3 IS STM)](https://tw.canon/zh_TW/consumer/eos-m50-mark-ii-ef-m15-45mm-f-3-5-6-3-is-stm-amp-ef-m55-200mm-f-4-5-6-3-is-stm/product?category=photography&subCategory=compact-slr) | ---- | 宣傳組，可提供設備 |
+| 圍棋 | ---- | ---- | ---- | ---- |
+| 77 | ---- | ---- | ---- | ---- |
+| 黃楷越 | ---- | ---- | ---- | ---- |
+| 海豹 | 海豹 | ---- | ---- | ---- |
+| 柴犬 | shibasalmon(?) | ---- | ---- | ---- |
+| Gavin | ---- | ---- | ---- | ---- |
+| LGH | ---- | Nikon Z6II (24-120 F4 S) | ---- | ---- |
+
+
+
+
 
 #### 若尚未加入任何一組，願意加入紀錄組的話，請填寫以下表單，組別選擇**[紀錄組]**，感謝~
 1. [工作人員登記表單](https://forms.gle/XSAorogZ6ZXjiPqk8) : 登記為工作人員

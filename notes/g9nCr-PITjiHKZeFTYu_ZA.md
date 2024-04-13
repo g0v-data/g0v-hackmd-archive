@@ -23,9 +23,9 @@ tags: summit2024
 - 確認T恤尺寸數量
     - 我覺得送一件就好[name=pm5]
     - 結論：
-        - 第一天工人穿B款（綠色）、第二天穿A款（工人限定款）
+        - 第一天工人穿A款（工人限定款）、第二天穿B款（綠色）
         - 講者拿到B款（綠色）
-        - 會眾買得到B款跟
+        - 會眾買得到B款剩下的（綠色）跟C款（紫色）
 - 設計貼紙
     - 
 - 問廠商
@@ -33,7 +33,7 @@ tags: summit2024
 ## 進行中
 - 設計議程表
 - 網站議程表
-
+- [議程表宣傳文草稿](https://docs.google.com/document/d/17QTmqQT-Rghqg0uRu1R48UQ0TEXIg0rqsyEjOz1t5G8/edit)
 
 ## 已完成
 
