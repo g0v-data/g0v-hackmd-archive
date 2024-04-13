@@ -2,8 +2,9 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 7688 | 2024-04-13T23:49:53+08:00 |
-| [summit2024](tags/summit2024.md) | 62 | 2024-04-13T23:32:59+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 7690 | 2024-04-14T00:46:03+08:00 |
+| [open-student-org sogac-tw](tags/open-student-org%20sogac-tw.md) | 1 | 2024-04-14T00:45:43+08:00 |
+| [summit2024](tags/summit2024.md) | 62 | 2024-04-14T00:26:54+08:00 |
 | [澳門](tags/%E6%BE%B3%E9%96%80.md) | 6 | 2024-04-13T22:55:13+08:00 |
 | [救松](tags/%E6%95%91%E6%9D%BE.md) | 3 | 2024-04-13T19:05:54+08:00 |
 | [Hello](tags/Hello.md) | 1 | 2024-04-13T12:55:03+08:00 |
@@ -108,7 +109,7 @@
 | [jothon](tags/jothon.md) | 31 | 2024-03-16T18:37:47+08:00 |
 | [tainan](tags/tainan.md) | 2 | 2024-03-16T18:26:03+08:00 |
 | [台南大夢](tags/%E5%8F%B0%E5%8D%97%E5%A4%A7%E5%A4%A2.md) | 10 | 2024-03-16T18:14:09+08:00 |
-| [open-student-org](tags/open-student-org.md) | 5 | 2024-03-15T15:49:34+08:00 |
+| [open-student-org](tags/open-student-org.md) | 4 | 2024-03-15T15:49:34+08:00 |
 | [SOGA](tags/SOGA.md) | 4 | 2024-03-15T15:49:34+08:00 |
 | [School](tags/School.md) | 16 | 2024-03-15T10:04:00+08:00 |
 | [recap](tags/recap.md) | 15 | 2024-03-15T10:04:00+08:00 |

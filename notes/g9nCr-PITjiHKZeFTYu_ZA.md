@@ -31,7 +31,6 @@ tags: summit2024
     - g0v Summit 2016 有印過耶 ![](https://live.staticflickr.com/7498/27094498225_6a52cdf57e_z.jpg)
     - 參考[貼紙規劃](https://g0v.hackmd.io/luziuyfuTpKVCrrVG20tcw)
     - 持續徵集梗，預計 4/19 開會討論
-    - 
 - 問廠商
     - 晚上 Muka 會給
 - 紀念品販售
