@@ -22,7 +22,9 @@ BKK 曼谷 - TPE 桃機
 
 住宿
 ---
-選擇排名
+**選擇排名**
+主要價格會落在1千出頭, 然後看一下近一個月的評價, 會有泳池.
+1. [Amora NeoLuxe Hotel](https://maps.app.goo.gl/t5vzMwoFhvLNCju76)
 1. [Hotel Solo Sukhumvit Soi 2](https://maps.app.goo.gl/eYWJDDCFj9dKjg8Y7?g_st=il)
 1. [Admiral Premier Bangkok](https://maps.app.goo.gl/keHxvAbuJJjjRr1G9)
 1. [Hotel Mermaid Bangkok](https://maps.app.goo.gl/FKWyATNJEQYxEV4b7)
@@ -33,7 +35,7 @@ BKK 曼谷 - TPE 桃機
 活動
 ---
 1. [素坤逸酒吧和夜店清單](https://www.tripadvisor.com.tw/Attractions-g293916-Activities-c20-t99-zfn8308067-Bangkok.html)
-3. [TRIBE Sky Beach Club](https://maps.app.goo.gl/6ZEnyMvcAb8HTQGB6)
+3. [空中酒吧 TRIBE Sky Beach Club](https://maps.app.goo.gl/6ZEnyMvcAb8HTQGB6)
 4. 大皇宮與玉佛寺（Wat Phra Kaew）：大皇宮是曼谷最著名的地標之一，內有閃耀著金光的玉佛寺，是泰國最神聖的佛教寺廟。
 5. 河畔夜市（Asiatique The Riverfront）：結合購物和餐飲於一身的大型夜市，位於湄南河岸，提供各種本地手工藝品和美食，晚上還有露天表演。
 1. 考山路（Khao San Road）：這裡是背包客的天堂，充滿了便宜的住宿、酒吧、餐廳和市集，非常適合體驗曼谷的夜生活。

@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-13T16:45:43+08:00 | 2024-04-09T15:38:54+08:00 |
-| 2 | [20240413 宣傳放輕松討論](../notes/g9nCr-PITjiHKZeFTYu_ZA.md) | 2024-04-13T16:15:42+08:00 | 2024-04-13T13:40:19+08:00 |
+| 1 | [20240413 宣傳放輕松討論](../notes/g9nCr-PITjiHKZeFTYu_ZA.md) | 2024-04-13T17:59:49+08:00 | 2024-04-13T13:40:19+08:00 |
+| 2 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-13T16:45:43+08:00 | 2024-04-09T15:38:54+08:00 |
 | 3 | [講者報告](../notes/2ZBOWbW6SyGIy3DwGlomhg.md) | 2024-04-13T14:53:15+08:00 | 2024-04-13T14:41:01+08:00 |
 | 4 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-13T10:39:03+08:00 | 2023-12-09T12:53:41+08:00 |
 | 5 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】(草稿)](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-04-12T23:28:14+08:00 | 2024-04-11T20:55:35+08:00 |
