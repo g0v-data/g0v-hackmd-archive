@@ -59,6 +59,9 @@ tags: 救松
 - 項目2
 - 項目3
 
+### 參考
+- [coscup2023](https://coscup.org/2023/zh-TW/sponsorship)
+
 ## 贊助大松效益
 - 推廣開放文化
 - 讓現場參與者認識你的企業和產品
