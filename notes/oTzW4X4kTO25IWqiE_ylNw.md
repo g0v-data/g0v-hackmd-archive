@@ -16,8 +16,8 @@ tags: summit2024
 ## 講者
 - Raman Jit Singh Chima
     - Access Now 亞太區政策倡議總監 / Asia Policy Director
-- Golda Benjamin
-    - Access Now 亞太區倡議專員 / Asia-Pacific Campaigner
+- Michael De Dora
+    - Access Now 美國政策及倡議總監 / U.S. Policy and Advocacy Manager
 - Namrata Maheshwari
     - Access Now 資深政策顧問及加密政策主任 / Senior Policy Counsel and Encryption Policy Lead
 - 主持人：游知澔 Chihhao Yu
