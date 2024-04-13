@@ -35,9 +35,9 @@ https://us21.campaign-archive.com/home/?u=5f2da7dc5b32fcf00c4e26170&id=cf109d5e5
 
 
 ## 歷屆 g0v Summit 報導
-* [summit 2020 媒體曝光紀錄](https://g0v.hackmd.io/@summit2020/book/https%3A%2F%2Fg0v.hackmd.io%2FR2ihvYvUTA6HbYQKELSTvw)
+* [Summit 2020 媒體曝光紀錄](https://g0v.hackmd.io/R2ihvYvUTA6HbYQKELSTvw)
 
-* [summit 2018 媒體曝光紀錄](https://docs.google.com/document/d/1uRfn7z6j9YzmxuMTrhTUu0m9TjnP1TYAblSqVm-M44g/edit)
+* [Summit 2018 媒體曝光紀錄](https://docs.google.com/document/d/1uRfn7z6j9YzmxuMTrhTUu0m9TjnP1TYAblSqVm-M44g/edit)
 
 ## 歷屆 g0v Summit 網站
 * g0v Summit 2020

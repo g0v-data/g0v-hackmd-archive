@@ -2,11 +2,11 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】(草稿)](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-04-12T23:28:14+08:00 | 2024-04-11T20:55:35+08:00 |
-| 2 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-12T21:35:05+08:00 | 2024-04-09T15:38:54+08:00 |
-| 3 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-04-12T21:07:36+08:00 | 2023-11-03T20:10:41+08:00 |
-| 4 | [翻譯志工 / 服務 / UD Talk](../notes/CKbb2nAtTBijqOM5jcEqZg.md) | 2024-04-12T08:48:37+08:00 | 2024-03-05T23:15:39+08:00 |
-| 5 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-11T20:57:39+08:00 | 2023-12-09T12:53:41+08:00 |
+| 1 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-13T10:39:03+08:00 | 2023-12-09T12:53:41+08:00 |
+| 2 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】(草稿)](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-04-12T23:28:14+08:00 | 2024-04-11T20:55:35+08:00 |
+| 3 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-12T21:35:05+08:00 | 2024-04-09T15:38:54+08:00 |
+| 4 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-04-12T21:07:36+08:00 | 2023-11-03T20:10:41+08:00 |
+| 5 | [翻譯志工 / 服務 / UD Talk](../notes/CKbb2nAtTBijqOM5jcEqZg.md) | 2024-04-12T08:48:37+08:00 | 2024-03-05T23:15:39+08:00 |
 | 6 | [場務助理](../notes/yheBZPRvSpmGXfsQ1AUkGA.md) | 2024-04-09T22:37:31+08:00 | 2024-04-09T13:31:01+08:00 |
 | 7 | [在數位威權時代保護數位人權 – Access Now – g0v Summit 2024 焦點議程](../notes/oTzW4X4kTO25IWqiE_ylNw.md) | 2024-04-08T18:17:24+08:00 | 2024-02-27T22:14:15+08:00 |
 | 8 | [數位韌性：斷網怎麼辦？ – g0v Summit 2024 社群軌](../notes/z6rTXmFLSxyDpBRo0E1mtw.md) | 2024-04-08T18:17:20+08:00 | 2023-08-26T11:19:06+08:00 |
