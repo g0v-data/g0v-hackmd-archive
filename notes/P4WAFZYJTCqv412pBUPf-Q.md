@@ -1,39 +1,70 @@
 曼谷行 四月24~28
 ===
+:::info
+[文件簡易教學](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book)
+> [name=Hugo Chiu]
+:::
 
-人員
+:raised_hand:宣誓
+---
+:::info
+1. 絕不表現不耐煩的態度.
+2. 絕不對自已沒有安排的行程指手畫腳或抱怨.
+3. 該花錢就花錢
+4. 累了就說不硬撐,該休息就休息
+5. 開開心心出門,平平安j（十）
+
+:::
+
+:adult:人員
 ---
 1. Hugo
 1. Carol
 1. Flora
 2. kimi
 
-機票
+:ticket:機票
 ---
+:::danger
+這部份的交通車還沒訂好.
+:::
+
 ### 出發 
-週三 2024-04-24 
-==**21:00 ~ 23:55**== (3小時 45分鐘)
-TPE 桃機 - BKK 曼谷
+> 週三 2024-04-24 
+> ==**21:00 ~ 23:55**== (3小時 45分鐘) :airplane:
+> TPE 桃機 - BKK 曼谷
 
 ### 回程
-周日 2024-04-28
-==**15:20 ~ 20:10**== (3小時 50分鐘)
-BKK 曼谷 - TPE 桃機
+> 周日 2024-04-28
+> ==**15:20 ~ 20:10**== (3小時 50分鐘) :airplane:
+> BKK 曼谷 - TPE 桃機
 
-住宿
+:hotel:住宿
 ---
+:::info
 **選擇排名**
 主要價格會落在1千出頭, 然後看一下近一個月的評價, 會有泳池.
-1. [Amora NeoLuxe Hotel](https://maps.app.goo.gl/t5vzMwoFhvLNCju76)
-1. [Hotel Solo Sukhumvit Soi 2](https://maps.app.goo.gl/eYWJDDCFj9dKjg8Y7?g_st=il)
-1. [Admiral Premier Bangkok](https://maps.app.goo.gl/keHxvAbuJJjjRr1G9)
-1. [Hotel Mermaid Bangkok](https://maps.app.goo.gl/FKWyATNJEQYxEV4b7)
-1. [The Four Wings Hotel Bangkok](https://maps.app.goo.gl/DFHB6amhpcuDmocc7)
-1. [The Quartier Hotel Phrom Phong / Thonglor Bangkok by Compass Hospitality](https://maps.app.goo.gl/wzz9howT2M9pmoR38)
-1. [Rompo Mansion](https://maps.app.goo.gl/YuXmLWrHjBANx53A8)
+:::
+1. [Hotel Icon Bangkok](https://maps.app.goo.gl/UTmC1n8oLa1J8mKk9 "bab")
+    : 4.2星 (1,001)·4 星级酒店, 頂樓有泳池跟bar.
+3. [La Petite Salil Sukhumvit Thonglor 1](https://maps.app.goo.gl/AN1pRL5m4w3TYNor8)
+    : 4.6星 (1,509)·4 星级酒店, 很有渡假的感覺, 雖然 泳池不在頂樓.
+5. [The Fig Lobby Bangkok](https://maps.app.goo.gl/GgZ3cS7iqvYYDeyr9)
+    : 4.7星 (324)·4 星级酒店, 很摩登的飯店, 有按摩只是沒有泳池.
+7. [Amora NeoLuxe Hotel](https://maps.app.goo.gl/t5vzMwoFhvLNCju76)
+    : 4.1星 (679)·4 星级酒店, 還行 還是有泳池
+9. [Hotel Solo Sukhumvit Soi 2](https://maps.app.goo.gl/eYWJDDCFj9dKjg8Y7?g_st=il)
+10. [Admiral Premier Bangkok](https://maps.app.goo.gl/keHxvAbuJJjjRr1G9)
+11. [Hotel Mermaid Bangkok](https://maps.app.goo.gl/FKWyATNJEQYxEV4b7)
+12. [The Four Wings Hotel Bangkok](https://maps.app.goo.gl/DFHB6amhpcuDmocc7)
+13. [The Quartier Hotel Phrom Phong / Thonglor Bangkok by Compass Hospitality](https://maps.app.goo.gl/wzz9howT2M9pmoR38)
+14. [Rompo Mansion](https://maps.app.goo.gl/YuXmLWrHjBANx53A8)
 
-活動
+:tada:活動
 ---
+:::info
+活動的部份大家都可以貼上來, 如果有想去的就揪團一起去.
+:::
 1. [素坤逸酒吧和夜店清單](https://www.tripadvisor.com.tw/Attractions-g293916-Activities-c20-t99-zfn8308067-Bangkok.html)
 3. [空中酒吧 TRIBE Sky Beach Club](https://maps.app.goo.gl/6ZEnyMvcAb8HTQGB6)
 4. 大皇宮與玉佛寺（Wat Phra Kaew）：大皇宮是曼谷最著名的地標之一，內有閃耀著金光的玉佛寺，是泰國最神聖的佛教寺廟。
@@ -47,8 +78,11 @@ BKK 曼谷 - TPE 桃機
 1. 水上市場：例如達姆諾恩薩杜瓦克水上市場，體驗傳統泰國水上市場的獨特魅力，品嘗當地美食，購買手工藝品。
 1. 金山寺（Wat Saket）：位於小山頂的佛寺，可以欣賞到曼谷市區的全景。
 
-備物 也就是要帶的東西
+:handbag:行李
 ---
+:::info
+ 也就是要帶的東西, 各別看有要帶的才帶.
+:::
 ### 基本文件和財務
 * 護照/身份證
 * 簽證（如需要）
