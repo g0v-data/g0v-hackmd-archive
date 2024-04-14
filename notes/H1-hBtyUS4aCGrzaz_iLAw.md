@@ -27,6 +27,7 @@ First mentioned in g0v Hackath60n
 - Co-host: GDSC NDHU, GDSC NTNU
 - 2024/4/26 @ NPO Hub Taipei + Hybird
 - Organizer: [@yc97463](https://t.me/yc97463)
+- https://gdsc.community.dev/e/m4239z/
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a802c6cc15895bc2aeaf30e10cb61621.jpg)
 
