@@ -82,13 +82,15 @@
 :heavy_check_mark:TODO
 ---
 :::warning
-加油~
+需要做的事~
 :::
 - [ ] 訂機票
-- [ ] 訂飯店
-- [ ] 訂到機場的交通車
+- [x] 訂飯店
+- [x] SIM
 - [ ] 保險
-- [ ] SIM
+- [ ] 訂到機場的交通車
+
+
 
 ### 出發前一天
 - [ ] 整理行李
@@ -126,8 +128,12 @@
 **選擇排名**
 主要價格會落在1千出頭, 然後看一下近一個月的評價, 會有泳池.
 :::
+決定好了,就這家.
 1. [Hotel Icon Bangkok](https://maps.app.goo.gl/UTmC1n8oLa1J8mKk9 "bab")
     : 4.2星 (1,001)·4 星级酒店, 頂樓有泳池跟bar.
+    
+
+:::spoiler
 3. [La Petite Salil Sukhumvit Thonglor 1](https://maps.app.goo.gl/AN1pRL5m4w3TYNor8)
     : 4.6星 (1,509)·4 星级酒店, 很有渡假的感覺, 雖然 泳池不在頂樓.
 5. [The Fig Lobby Bangkok](https://maps.app.goo.gl/GgZ3cS7iqvYYDeyr9)
@@ -142,6 +148,8 @@
 12. [The Four Wings Hotel Bangkok](https://maps.app.goo.gl/DFHB6amhpcuDmocc7)
 13. [The Quartier Hotel Phrom Phong / Thonglor Bangkok by Compass Hospitality](https://maps.app.goo.gl/wzz9howT2M9pmoR38)
 14. [Rompo Mansion](https://maps.app.goo.gl/YuXmLWrHjBANx53A8)
+:::
+
 
 :tada:活動
 ---

@@ -9,6 +9,10 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 
 {%hackmd VkctH3USQ-yoB6hw2s2D0Q %}
 
+## apr 2024 todos 
+- [ ] updates call for sponsor banner sections
+    - refer to this [page](https://g0v.hackmd.io/e-1Wrh_gTQWj4OBFPh6szA?view#Review-202404-%E6%8D%90%E6%AC%BE%E9%A0%81%E9%9D%A2%E6%94%B9%E7%89%88-%E5%9C%96%E7%89%87%E8%88%87%E6%96%87%E6%A1%88)
+
 ## mar 2024 todos
 - [ ] 回覆 OCF email
 
