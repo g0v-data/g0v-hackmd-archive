@@ -180,7 +180,8 @@
  **未預約** 17:00 晚餐 [空中酒吧 TRIBE Sky Beach Club](https://maps.app.goo.gl/6ZEnyMvcAb8HTQGB6)
 #### 4/26
 
-> 18:00 [喬德夜市](https://maps.app.goo.gl/JVMhKq8SGMV92Ut5A)
+> 午餐 12:00 [map](https://maps.app.goo.gl/oSJoNEGJjfMr2MR38) [吞武里海鮮市場介紹](https://udn.com/news/story/120673/7044705) 
+18:00 [喬德夜市](https://maps.app.goo.gl/JVMhKq8SGMV92Ut5A)
 
 #### 4/27
 >  **未預約** 17:00 [SIROCCO SKY BAR 最後大丈夫景點](https://maps.app.goo.gl/T87HdfNK5yFC7RuCA)
