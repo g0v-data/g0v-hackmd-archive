@@ -169,10 +169,12 @@
 #### 4/28
 #### 4/29
 ### 想去想吃清單
-:::spoiler
+
 ### 吃吃喝喝
 1. [素坤逸酒吧和夜店清單](https://www.tripadvisor.com.tw/Attractions-g293916-Activities-c20-t99-zfn8308067-Bangkok.html)
 3. [空中酒吧 TRIBE Sky Beach Club](https://maps.app.goo.gl/6ZEnyMvcAb8HTQGB6)
+4. [泰國｜曼谷水上市場一日遊｜丹能莎朵・美功市場・安帕瓦螢火蟲巡遊](https://m.kkday.com/zh-tw/product/152911-floating-market-day-tour-from-bangkok-thailand?cid=7725&ud1=SEM&ud2=brand)
+5. [咖哩蟹肉](https://www.instagram.com/reel/C4-bVJCvnBb/?utm_source=ig_web_button_share_sheet)
 ### 景
 1. 大皇宮與玉佛寺（Wat Phra Kaew）：大皇宮是曼谷最著名的地標之一，內有閃耀著金光的玉佛寺，是泰國最神聖的佛教寺廟。
 6. 河畔夜市（Asiatique The Riverfront）：結合購物和餐飲於一身的大型夜市，位於湄南河岸，提供各種本地手工藝品和美食，晚上還有露天表演。
@@ -184,7 +186,7 @@
 12. Terminal 21 購物中心：每一層都以世界不同城市為主題的購物中心，提供獨特的購物和用餐體驗。
 13. 水上市場：例如達姆諾恩薩杜瓦克水上市場，體驗傳統泰國水上市場的獨特魅力，品嘗當地美食，購買手工藝品。
 14. 金山寺（Wat Saket）：位於小山頂的佛寺，可以欣賞到曼谷市區的全景。
-:::
+
 
 :handbag:行李
 ---
