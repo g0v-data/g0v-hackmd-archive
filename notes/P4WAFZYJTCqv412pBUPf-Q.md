@@ -49,8 +49,7 @@
 * 時差 : 比台灣慢一小時,也就是說曼谷早上10點, 臺灣時間則是早上11點.
 :::
 
-#### 前往泰國旅遊時，有一些重要事項需要遊客特別注意以確保旅行的安全與愉快：
-:::spoiler
+:::spoiler 前往泰國旅遊時，有一些重要事項需要遊客特別注意以確保旅行的安全與愉快：
 :::warning
 1. 尊重當地文化：
     * 泰國是一個以佛教為主的國家，對佛教文化和象徵物有深厚的尊敬。在寺廟等宗教場所，穿著應適當保守，不應穿著暴露的衣物, 不可穿著無袖上衣或著短褲、短裙。
@@ -147,7 +146,7 @@
     : 4.2星 (1,001)·4 星级酒店, 頂樓有泳池跟bar.
     
 
-:::spoiler
+:::spoiler 其它選項
 3. [La Petite Salil Sukhumvit Thonglor 1](https://maps.app.goo.gl/AN1pRL5m4w3TYNor8)
     : 4.6星 (1,509)·4 星级酒店, 很有渡假的感覺, 雖然 泳池不在頂樓.
 5. [The Fig Lobby Bangkok](https://maps.app.goo.gl/GgZ3cS7iqvYYDeyr9)
@@ -178,13 +177,13 @@
 #### 4/25
 > 飯店 check in
 12:00 午餐 [咖哩蟹肉](https://www.instagram.com/reel/C4-bVJCvnBb/?utm_source=ig_web_button_share_sheet)
-17:00 晚餐 [空中酒吧 TRIBE Sky Beach Club](https://maps.app.goo.gl/6ZEnyMvcAb8HTQGB6)
+ **未預約** 17:00 晚餐 [空中酒吧 TRIBE Sky Beach Club](https://maps.app.goo.gl/6ZEnyMvcAb8HTQGB6)
 #### 4/26
 
 > 18:00 [喬德夜市](https://maps.app.goo.gl/JVMhKq8SGMV92Ut5A)
 
 #### 4/27
->
+>  **未預約** 17:00 [SIROCCO SKY BAR 最後大丈夫景點](https://maps.app.goo.gl/T87HdfNK5yFC7RuCA)
 #### 4/28
 > 12:00 A組準備回家~
 > 21:00 B組準備回家~
@@ -197,6 +196,13 @@
 3. [空中酒吧 TRIBE Sky Beach Club](https://maps.app.goo.gl/6ZEnyMvcAb8HTQGB6)
 4. [泰國｜曼谷水上市場一日遊｜丹能莎朵・美功市場・安帕瓦螢火蟲巡遊](https://m.kkday.com/zh-tw/product/152911-floating-market-day-tour-from-bangkok-thailand?cid=7725&ud1=SEM&ud2=brand)
 5. [咖哩蟹肉](https://www.instagram.com/reel/C4-bVJCvnBb/?utm_source=ig_web_button_share_sheet)
+6. [LV The Place](https://www.gq.com.tw/article/louis-vuittonlv-the-place-bangkok)
+7. [Mangkorn Seafood 曼谷海鮮](https://maps.app.goo.gl/5sYeJ9YnLsMp2KZd7)
+8. [Tidkohtalaypao Seafood Buffet](https://maps.app.goo.gl/RLfgY5pets3FiX9E6)
+9. [Ga-La-Sea Seafood buffet](https://maps.app.goo.gl/o4quNmU7DeLZMSvw9)
+10. [Kingkaew seafood](https://maps.app.goo.gl/tvsMx87TD1TMysMA7)
+11. [BestBeefsukhumvit](https://maps.app.goo.gl/oqVKZWhJ2hgQD8Ln9)
+12. [Waterfront Mukata first branch](https://maps.app.goo.gl/UAN5QLxTjcdGzyap6)
 ### 景
 1. 大皇宮與玉佛寺（Wat Phra Kaew）：大皇宮是曼谷最著名的地標之一，內有閃耀著金光的玉佛寺，是泰國最神聖的佛教寺廟。
 6. 河畔夜市（Asiatique The Riverfront）：結合購物和餐飲於一身的大型夜市，位於湄南河岸，提供各種本地手工藝品和美食，晚上還有露天表演。
@@ -216,7 +222,7 @@
  也就是要帶的東西, 各別看有要帶的才帶.
 :::
 
-:::spoiler
+:::spoiler 展開~
 ### 基本文件和財務
 * 護照/身份證
 * 簽證（如需要）
