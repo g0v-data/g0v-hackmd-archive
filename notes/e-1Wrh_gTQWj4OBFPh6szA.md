@@ -165,6 +165,7 @@ https://docs.google.com/document/d/10EOFQpQSOnSoC6W39QoRDj1YQCGKaxOD1jcUTnj22Iw/
 [![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c3a41b558f1e26349bdd04f500af558c.png)](http://bit.ly/moneyg0v)
 > 也許可以問問看有沒有專案共筆頁面願意掛廣告橫幅？
 > [name=YI HUANG]
+> 感謝，數位韌性松直接把精美版 banner 來給偷走囉，去年底（還是今年一月份？）放到共筆上的[舊版 banner](https://g0v.hackmd.io/L0dLpQ_zTzGoNxeURzO2kw) 實在太陽春了XD [name=paul]
 
 ## 寫給「中額捐款者」的說明文件
 - 中額捐款單筆 30000、50000 元

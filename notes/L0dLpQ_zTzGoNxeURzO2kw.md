@@ -1,5 +1,5 @@
 ---
-title: g0v DigiResiThon 數位韌性松 募款模板
+title: g0v DigiResiThon 數位韌性松 募款模板（舊版）
 tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, infras, 基建, 基礎建設
 ---
 
