@@ -95,32 +95,45 @@
 ### 出發前一天
 - [ ] 整理行李
 
-:ticket:機票
+:ticket:交通
 ---
 :::info
-機票會有2個群
+飛機票會有2個群
 :::
 
 
 ## 群組A Hugo, Carol, Flora
->### :airplane:==出發==
+>### ==出發==
+>> :airplane:飛機
 >> 週三 2024-04-24 
 >> ==**21:00 ~ 23:55**== (3小時 45分鐘) 
 >> TPE 桃機 - BKK 曼谷 Thai VietJet Air VZ565
->### :airplane:==回程==
+>> :car:交通車
+>> 到桃園機場
+>> 在 ==松山區民生東路三段111號== 集合
+>> :::spoiler 曼谷機場到飯店資訊
+>> 曼谷機場到飯店 $723
+>> The staff is hanging your name sign at “gate 3~4” (inside and next to the information counter). If you can’t find your driver, please contact the emergency number provided 24/7 Hotline: +86-18153312853 ；WhatsApp:+852 61588017 / +66-647961202 immediately.
+>> ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c26b277bf6b8ee4cab782fc3f24b920b.png)
+>> :::
+>### ==回程==
+>>:airplane:飛機
 >> 周日 2024-04-28
 >> ==**15:20 ~ 20:10**== (3小時 50分鐘)
 >> BKK 曼谷 - TPE 桃機 Thai VietJet Air VZ564
 
 ## 群組B Kimi, Dolly, Lulu
-> ### :airplane:==出發==
+> ### ==出發==
+>> :airplane:飛機
 >> 週三 2024-04-24 
 >> ==**22:40 ~ 01:25**== (3小時 45分鐘)
 >> TPE 桃機 - BKK 曼谷 中華航空 CI837
-> ### :airplane:==回程==
+> ### ==回程==
+>> :airplane:飛機
 >> 周日 2024-04-29
 >> ==**02:40 ~ 07:25**== (3小時 50分鐘)
 >> BKK 曼谷 - TPE 桃機 中華航空 CI838
+
 
 :hotel:住宿
 ---

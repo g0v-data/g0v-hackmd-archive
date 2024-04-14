@@ -95,6 +95,11 @@ tags: 公有地大行動
         - 通學路徑
         - 文化路徑
 
+臺北市淨零排放管理自治條例
+- 有明確描述各局處相關業務，從業務來檢視新生流域內相關的場域、可以整合落實措施、或是一些願景方案可以整合淨零業務種類。
+    - 操作案例：新生流域 https://www.facebook.com/groups/582154450196478/posts/961070155638237/
+
+
 ### 20240413 上午走訪
 
 - 路線：https://www.google.com/maps/d/u/0/viewer?hl=zh-TW&mid=1PtrMifUEOzZi1-ShuVktL7jetCPdKeY&ll=0%2C0&z=16
