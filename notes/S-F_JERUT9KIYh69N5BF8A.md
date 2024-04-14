@@ -68,5 +68,5 @@ tags: 救松
 - 企業贊助資訊會永久留在這次大松相關文件上（直播、提案錄影、Facebook 粉專松後推坑貼文...）
 - 會提供現場參與照片可供企業放在自己的年度 ESG 報告內。
 
-## 2024.04 單次大松之友的說帖文件
-https://docs.google.com/document/d/1hSr6mTH6oh7LiGVvQwz4eP1qdzn04N1mSJWd7y7Im10/edit
+## 2024.04 開始撰寫相關說帖文件
+共用資料夾：https://drive.google.com/drive/folders/1opC8sfcKqUMX_wDnweS4t-xqIvxZrOxg?usp=sharing

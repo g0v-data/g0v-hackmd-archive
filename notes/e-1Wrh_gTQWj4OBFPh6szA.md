@@ -185,8 +185,7 @@ Review 企業贊助大松的機制，並撰寫接近定案的的回饋內容文�
 - 已有列舉各項回饋項目
     - https://g0v.hackmd.io/S-F_JERUT9KIYh69N5BF8A?view
 - 寫一份「單次大松之友的說帖文件」，定案的回饋內容，以說帖文件為主
-    - 2024.04 單次大松之友的說帖文件網址 
-        - https://docs.google.com/document/d/1hSr6mTH6oh7LiGVvQwz4eP1qdzn04N1mSJWd7y7Im10/edit
+    - 共用資料夾 https://drive.google.com/drive/folders/1opC8sfcKqUMX_wDnweS4t-xqIvxZrOxg?usp=sharing
     - 說帖內容採用 日期版本 來控管
     - 寫出支持大松對於該企業法人的好處
         - 例如企業 ESG、CSR 具體行動
