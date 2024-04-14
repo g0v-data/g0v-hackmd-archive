@@ -185,6 +185,7 @@
 #### 4/27
 >  **未預約** 17:00 [SIROCCO SKY BAR 最後大丈夫景點](https://maps.app.goo.gl/T87HdfNK5yFC7RuCA)
 #### 4/28
+> A組可以在[Kingkaew seafood](https://maps.app.goo.gl/tvsMx87TD1TMysMA7) 吃
 > 12:00 A組準備回家~
 > 21:00 B組準備回家~
 #### 4/29
@@ -197,12 +198,21 @@
 4. [泰國｜曼谷水上市場一日遊｜丹能莎朵・美功市場・安帕瓦螢火蟲巡遊](https://m.kkday.com/zh-tw/product/152911-floating-market-day-tour-from-bangkok-thailand?cid=7725&ud1=SEM&ud2=brand)
 5. [咖哩蟹肉](https://www.instagram.com/reel/C4-bVJCvnBb/?utm_source=ig_web_button_share_sheet)
 6. [LV The Place](https://www.gq.com.tw/article/louis-vuittonlv-the-place-bangkok)
-7. [Mangkorn Seafood 曼谷海鮮](https://maps.app.goo.gl/5sYeJ9YnLsMp2KZd7)
-8. [Tidkohtalaypao Seafood Buffet](https://maps.app.goo.gl/RLfgY5pets3FiX9E6)
-9. [Ga-La-Sea Seafood buffet](https://maps.app.goo.gl/o4quNmU7DeLZMSvw9)
-10. [Kingkaew seafood](https://maps.app.goo.gl/tvsMx87TD1TMysMA7)
-11. [BestBeefsukhumvit](https://maps.app.goo.gl/oqVKZWhJ2hgQD8Ln9)
-12. [Waterfront Mukata first branch](https://maps.app.goo.gl/UAN5QLxTjcdGzyap6)
+7. [吞武里海鮮市場](https://udn.com/news/story/120673/7044705)
+> 海產現買現烤超過癮！曼谷價格親民的超人氣「吞武里海鮮市場」 狂吃猛嗑才不虛此行
+> https://maps.app.goo.gl/oSJoNEGJjfMr2MR38
+9. [Mangkorn Seafood 曼谷海鮮](https://maps.app.goo.gl/5sYeJ9YnLsMp2KZd7)
+> 這間一直都是很有名的海鮮燒烤名店，每人僅499泰銖，不限時包你吃到飽。有貝類、生蠔、大頭蝦、魷魚、螃蟹等海鮮，亦有少量熟食。叫上三兩個好友，吃燒烤配啤酒，坐在露天的座位，超有feel！
+10. [Tidkohtalaypao Seafood Buffet](https://maps.app.goo.gl/RLfgY5pets3FiX9E6)
+> 這間餐廳同樣也是主打露天烤海鮮，推薦評價還蠻高的，海鮮種類繁多，喜歡吃蝦黃蟹膏的可以選擇這家，更重要的是有紅蟳，是不能錯過的必點招牌。
+11. [Ga-La-Sea Seafood buffet](https://maps.app.goo.gl/o4quNmU7DeLZMSvw9)
+> 主打現撈活蝦，加上啤酒喝到飽！碳網烤海鮮，大頭蝦、螃蟹、貝類種類一樣都不少！位置方便氣氛也不錯，一定要過來試一試。
+13. [Kingkaew seafood](https://maps.app.goo.gl/tvsMx87TD1TMysMA7)
+> 距離Suvarnabhumi機場很近，有供應超有名的流水活蝦，還有螃蟹、花枝、血蛤、扇貝、紅蟳，真的超豐盛！海鮮品質超棒的，味道也很ok，啤酒任喝。
+15. [BestBeefsukhumvit](https://maps.app.goo.gl/oqVKZWhJ2hgQD8Ln9)
+> 除了大頭蝦之外，這裡的生蠔、鳳螺、淡菜、螃蟹、扇貝都是常點招牌菜，還有其他肉類選擇，有煎、烤和火鍋三種烹調方法。連韓國節目都來採訪過的餐廳，你一定要試試！
+17. [Waterfront Mukata first branch](https://maps.app.goo.gl/UAN5QLxTjcdGzyap6)
+> 這家店在湄南河畔，海鮮新鮮、肉質也不錯，更重要的是價格便宜，晚上更會有樂團來演唱。更可以自己撈大頭蝦，過一過手癮。
 ### 景
 1. 大皇宮與玉佛寺（Wat Phra Kaew）：大皇宮是曼谷最著名的地標之一，內有閃耀著金光的玉佛寺，是泰國最神聖的佛教寺廟。
 6. 河畔夜市（Asiatique The Riverfront）：結合購物和餐飲於一身的大型夜市，位於湄南河岸，提供各種本地手工藝品和美食，晚上還有露天表演。

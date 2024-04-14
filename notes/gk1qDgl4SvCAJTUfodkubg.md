@@ -7,32 +7,51 @@ tags: hackpad
 
 > [點此觀看原始內容](https://g0v.hackpad.tw/ixEzvkuYgzA)
 
-
+g0v > g0v文化部 > design設計區 > stickers形象貼紙
 
 ## ver 1.0 design by MOON C
 
+農業英文有誤
 ![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_7ec024fc57cd19fe7773cf9a9ef52574)
 
 ## ver 3.0 design by MOON C
 
+### Ver 3.0 技能圖示產生器 - 六角形
+
+website: 
+- http://poga.github.io/mooontag/
+- repo: [https://github.com/poga/moontag](https://github.com/poga/moontag)
+
+### 圖檔
+
 ![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_b685acfe181e94e2be53f8d1fc77cd34)
+
+ver3
+https://drive.google.com/open?id=0Bz8AzyqOsxuuZlY3Q2lFYkhkVTQopen?id=0Bz8AzyqOsxuuZlY3Q2lFYkhkVTQ
 
 
 ## Ver5
 
+農業英文有誤
 ![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_d9823680be8bd9f2771f583ad9dcb57e)
 
-## 檔案位置
-
-g0v > g0v文化部 > design設計區 > stickers形象貼紙
-
 ver5
-[https://drive.google.com/file/d/0B](https://drive.google.com/file/d/0B4e2GnpJzb7gaDJBcktyQ3pMRDg/view?usp=sharing)[4e2GnpJzb7gaDJBcktyQ3pMRD](https://drive.google.com/file/d/0B4e2GnpJzb7gaDJBcktyQ3pMRDg/view?usp=sharing)[g/view?usp=sharing](https://drive.google.com/file/d/0B4e2GnpJzb7gaDJBcktyQ3pMRDg/view?usp=sharing)
-ver3
-[https://drive.google.com/](https://drive.google.com/open?id=0Bz8AzyqOsxuuZlY3Q2lFYkhkVTQopen?id=0Bz8AzyqOsxuuZlY3Q2lFYkhkVTQ)[open?id=0Bz8AzyqOsxuuZlY3Q2lFYkhkVTQopen?id=0Bz8AzyqOsxuuZlY3Q2lFYkhkVTQ](https://drive.google.com/open?id=0Bz8AzyqOsxuuZlY3Q2lFYkhkVTQopen?id=0Bz8AzyqOsxuuZlY3Q2lFYkhkVTQ)
+https://drive.google.com/file/d/0B4e2GnpJzb7gaDJBcktyQ3pMRDg/view?usp=sharing
 
 
-### 內含技能(3.0)
+## 2022 揪松團更新版 - 圓形版技能貼紙
+
+包含貼紙種類：
+- 勘誤：農業英文用詞
+- 沿用既有的貼紙種類
+- 新增：Art, Curation, Education, Food, Project Management, Marketing, Vue.js, Cat Person, Dog Person
+
+檔案網址：
+https://g0v.hackmd.io/FiMmi2-bRsavQff8LZNvUQ?view
+
+---
+
+## 內含技能(3.0)
 
 - g0v特產類
     - 挖坑
@@ -42,14 +61,12 @@ ver3
     - 大使(1.0)
     - 推坑
     - 踹坑
-    -
 - 學科類
     - 經濟
     - 法律
     - 文字
     - 語言
     - 科學
-
 - 大眾傳播類
     - 直播
     - 新聞 / 媒體
@@ -82,14 +99,15 @@ ver3
 - 專案(1.0)
     - 超農域
     - 開放政治獻金
-    -
-## Ver 3.0 技能圖示產生器
 
-website: [http://poga.github.io/mo](http://poga.github.io/mo如立院網站的警語可提醒使用者資料分oontag/)[如立院網站的警語可提醒使用者資料分](http://poga.github.io/mo如立院網站的警語可提醒使用者資料分oontag/)[oontag/](http://poga.github.io/mo如立院網站的警語可提醒使用者資料分oontag/)
-repo: [https://github.com/poga/moontag](https://github.com/poga/moontag)
-UI: ![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_8d7dcae3bb28a1d7c2efd4b665682bce)
+## Ver 3.0 技能圖示產生器 - 六角形
 
+website: 
+- http://poga.github.io/mooontag/
+- repo: [https://github.com/poga/moontag](https://github.com/poga/moontag)
+- UI: 
 
+![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_8d7dcae3bb28a1d7c2efd4b665682bce)
 
 
 > 就說多拿之後可能就改版了 吧XDDD
@@ -99,11 +117,12 @@ UI: ![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_8d7dca
 > [name=lanfon]
 
 
-### 過往相關專案
+### 相關專案
 
 [技能貼紙系統](https://g0v.hackpad.tw/V7mVAWYkCuA)
 [黑客松用實體 tag - 技能貼紙](https://g0v.hackpad.tw/-tag--6rlOq2DO1cD)
 [形象文件](https://g0v.hackpad.tw/g0v--l15VqSBBocg)
+[Sticker 新貼紙許願池與設計圖檔、庫存註記](https://g0v.hackmd.io/FiMmi2-bRsavQff8LZNvUQ?view)
 
 ### 需要增刪減的技能/議題
 
