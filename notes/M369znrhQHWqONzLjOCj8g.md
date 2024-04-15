@@ -376,6 +376,24 @@ https://docs.google.com/presentation/d/1rJBbNrMqwZ4zNmLKl5d7wymVaTraKaBV5juR6PML
 萬和里 參考
 https://www.facebook.com/story.php?story_fbid=pfbid02EeEFhSwYRQjgFVyxqP33J7cxyCiXVaSM5tbeCAyjDm765XnnGCEqBhZMBcVM9f5rl&id=100000432932151&mibextid=WC7FNe
 
+## 20240502 公民週活動籌備討論
+
+公眾的角度
+- 市府已有臺北市淨零自治條例
+    - 有明確列出局處業務
+    - https://g0v.hackmd.io/EwoH0T7qR6a42dOyl_9EXg
+- 從「排放量」找大戶
+- 論壇中指認的「受衝擊對象」
+- 公有建築與場域
+- 市政府已推動熱島降溫政策措施
+    - 2011-2020年夏季(6-9月)盛行風風向 (參考文獻：台北盆地的夏季風紋與溫度分佈初探，作者：石婉瑜、陳品瑜)，可以瞭解大致風向
+- 公害改善、減災 = 減碳
+
+類似：
+- 文山好行
+- 文山淨零
+
+
 ## 其他地區機制參考
 
 日本地域ストックマネジメント／脱炭素地域戦略研究（opossum）
