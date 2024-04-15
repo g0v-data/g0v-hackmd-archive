@@ -11,13 +11,13 @@ Co-organizing community: SITCON、GDSC、開放教育社群
 :::
 
 
-## 3rd 會議
+## 3rd CfP 宣傳會議
 
 時間：4/16（二）20:00
 地點：https://meet.google.com/hai-voym-cbq
 出席：
 
-
+### 
 
 
 
@@ -25,7 +25,7 @@ Co-organizing community: SITCON、GDSC、開放教育社群
 
 
 一些參考資料
-- [去年開放教育議程軌的文件](https://g0v.hackmd.io/nJTi_LkvRg-YvhBpuIwgkA)
+- [去年開放教育議程軌的文件 + 文案](https://g0v.hackmd.io/nJTi_LkvRg-YvhBpuIwgkA)
 
 ## 2nd 投稿申請 Cowork
 
