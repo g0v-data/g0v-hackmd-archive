@@ -1,5 +1,7 @@
 ## 原始資料(心智圖)
-![image](https://files.furthersoftware.com.tw/assets/Tourmap/xmind.png)
+![image](https://files.furthersoftware.com.tw/assets/Tourmap/折扣/xmind.png)
+
+共筆筆記網址 : https://g0v.hackmd.io/9CVQpNKETTaIDjzhW3nC4g?view
 
 ## 需求
 - 前台要顯示優惠相關文案在日曆下方
@@ -51,7 +53,7 @@ C房型：連續入住折扣5% + 房間數折扣3% = 總折扣8%
 請注意，這些折扣是可以累加的，但只有符合折扣條件的部分才會獲得相應的折扣。
 ```
 
-![peter折扣範例](https://files.furthersoftware.com.tw/assets/Tourmap/peter折扣範例.jpg)
+![peter折扣範例](https://files.furthersoftware.com.tw/assets/Tourmap/折扣/peter折扣範例.jpg)
 
 ```
 折扣規則：
@@ -76,19 +78,28 @@ C1=5/2-5/4 3天,5/6-5/7 2天
 ### 折扣策略實體規劃
 ---
 
-![折扣策略實體規劃](https://files.furthersoftware.com.tw/assets/Tourmap/productDescountRule.png)
+![折扣策略實體規劃](https://files.furthersoftware.com.tw/assets/Tourmap/折扣/discount-rule.png)
 
 ```c#
+
+public enum DiscountRuleStrategy
+{
+    ConsecutiveStayRule = 0,
+    ConsecutiveBuyRule = 1
+}
 
 public class ProductDiscountRule
 {
     public Guid Id { get; set; }
 
     //目前為productDefinitionId
-    public Guid OwnerId { get; set; }
+    public Guid GroupId { get; set; }
 
     //數量
     public int Count { get; set; }
+
+    //連續入住天數或連續購買數量
+    public DiscountRuleStrategy Strategy { get; set; }
 
     //規則名稱
     public string Title { get; set; }
@@ -139,8 +150,6 @@ DiscountStayName 為計算策略方法名稱，由系統設定，不可修改
 若連續入住天數為6天，則以5天的10%為主
 若連續入住天數為2天，則以1天的0%為主
 
-![連續購買實體規劃](https://files.furthersoftware.com.tw/assets/Tourmap/consecutiveStayRule.png)
-
 ### 連續購買規劃
 ---
 
@@ -162,8 +171,6 @@ DiscountStayName 為計算策略方法名稱，由系統設定，不可修改
 若連續購買數量為2，則以1天的0%為主
 
 備註: 目前規劃為同個營區算連續購買，即使是不同專案也算連續購買
-
-![連續購買實體規劃](https://files.furthersoftware.com.tw/assets/Tourmap/consecutiveBuyRule.png)
 
 ## 計算provider 規劃
 
@@ -255,3 +262,23 @@ public class CalculateDiscountAmountProvider
 產品單價 + 加人加價 * 加人數量
 
 這不包含附加服務的部分，目前規劃是把所有營位加總後再計算折扣，目前不考慮附加服務也加入計算(回覆:不包含附加服務)
+
+
+## UI規劃
+
+### 後台設定頁面
+
+進入方式:銷售管理 -> 產品定義管理 -> 操作下的(前往產品管理) -> 左邊最下面的折扣加碼設定  
+用戶可以在後台設定折扣規則，並且可做新增、修改、刪除的動作
+
+![折扣更新基本表](https://files.furthersoftware.com.tw/assets/Tourmap/折扣/table.png)
+
+![編輯對話框](https://files.furthersoftware.com.tw/assets/Tourmap/折扣/editModal.png)
+
+### 前台顯示頁面
+
+在產品頁面顯示折扣規則，並且在購物車頁面顯示折扣後的價格
+
+![前台顯示](https://files.furthersoftware.com.tw/assets/Tourmap/折扣/publicDisplayModal.png)
+
+![購物車顯示折扣](https://files.furthersoftware.com.tw/assets/Tourmap/折扣/shoppingCartDiscountAmount.png)
