@@ -2,11 +2,9 @@
 tags: edu
 ---
 
-# COSCUP 2024 Open Education & Student Track
-
+# COSCUP 2024 學生 × 教育大亂門議程軌 Open Education & Student Track
 
 :::info
-學生 × 教育大亂門議程軌
 Co-organizing community: SITCON、GDSC、開放教育社群
 :::
 
@@ -14,18 +12,52 @@ Co-organizing community: SITCON、GDSC、開放教育社群
 ## 3rd CfP 宣傳會議
 
 時間：4/16（二）20:00
+日曆：https://calendar.app.google/AyHnzYFCDnaf3pTC7
 地點：https://meet.google.com/hai-voym-cbq
-出席：
-
-### 
+出席：、、、、、、、、、、、
 
 
+### 徵稿貼文文案
+
+> 可能要先開個共筆 大家集思廣義 再找天或是非同步的方式 確認後分別在不同的社群管道發送 [name=FKT]
+
+> CfP 宣傳應該是現在最重要的，應該分別需要在 SITCON、GDSC 和開放教育的管道發布 CfP 消息
+另外應該還有審稿流程和人員參與的數量
+如果能在公告之前確定的話，對於投稿的意願應該會提升
+（之前說的最多 10 人其實我覺得可以拿掉）
+> [name=Sky]
+
+> GDSC 的媒體管道 
+目前是由 Leo 管理
+發布的管道可以找他
+[name=FKT]
+
+- 一些參考資料：[去年開放教育議程軌的文件 + 文案](https://g0v.hackmd.io/nJTi_LkvRg-YvhBpuIwgkA) [name=Sky]
+
+
+### 議程軌參與人數 / 審稿
+
+> 啟動會議有提到 [人數不要多於十個](#Organizer-%E4%B8%8D%E8%B6%85%E9%81%8E%E5%8D%81%E4%BD%8D)，但感覺這樣限制仍然怪怪的
+> 審稿流程想要抄之前大亂鬥的審稿 Google Sheet [name=Sky]
 
 
 
+### 社群 logo
 
-一些參考資料
-- [去年開放教育議程軌的文件 + 文案](https://g0v.hackmd.io/nJTi_LkvRg-YvhBpuIwgkA)
+
+### 是否要開 Mailing List？
+
+
+### Call for Action
+
+- 製作 CfP 宣傳圖文 [name=]
+- 幫忙在各社群的平台幫忙發 CfP 宣傳文
+    - COSCUP [name=]
+    - SITCON [name=]
+    - GDSC [name=]
+    - 開放教育 [name=]
+- 製作社群/議程軌 logo [name=]
+- 建立審稿文件 [name=]
 
 ## 2nd 投稿申請 Cowork
 

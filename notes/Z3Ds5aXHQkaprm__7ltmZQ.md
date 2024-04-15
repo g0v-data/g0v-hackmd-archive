@@ -106,15 +106,15 @@
 
 ## 七、投資人專區
 
-## 八、儲存變更／預覽／發佈(Publish)
+## 八、儲存／預覽／發佈(Publish)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_33ee096f0f5e0708110c01a834b7ee7d.png)
 
 1. Framer會自動儲存變更內容，不需額外存檔
 2. 點擊三角形按鈕預覽網頁內容
-3. 點擊‘Publish’展開細節
-4. 顯示這次更新中有異動的內容
-5. 確認無誤後，按下’Update’，等待數秒後即完成更新
+3. 點擊‘Publish’準備發布
+4. 核對這次更新中異動的內容
+5. 確認無誤後，按下’Update’，等待數秒後即可看到畫面顯示成功狀態
 <br/>
 ## 九、語系翻譯
 
