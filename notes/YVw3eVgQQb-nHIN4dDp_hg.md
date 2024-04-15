@@ -63,7 +63,9 @@ Rentea 小聚源自於 [g0v 社群](https://g0v.tw/)，是以城市的居住議�
 
 ### 2024
 
-- [#85, 87, 89](https://g0v.hackmd.io/z_NS4t7QSRub4kwZriFlxQ)
+- [第二季線上 #91](https://g0v.hackmd.io/1Oos_SVPQ5egWwzORWaCtA)
+- [第二季實體 #90](https://g0v.hackmd.io/zU6PFECNRc-ACZNsOU_UdQ)
+- [第一季線上 #85, 87, 89](https://g0v.hackmd.io/z_NS4t7QSRub4kwZriFlxQ)
 
 ### 2023
 

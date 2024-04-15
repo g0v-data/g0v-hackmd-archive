@@ -21,3 +21,7 @@ DynamicForm github網址 : https://github.com/EasyAbp/DynamicForm
 順序為 productSku -> project -> product -> productCategory
 
 這樣的設計是為了讓cms的功能規劃能夠有一個fallback的機制，當productSku沒有資料時，會去找project，project沒有資料時，會去找product，product沒有資料時，會去找productCategory。
+
+## 實體規劃
+
+![dataModal](https://files.furthersoftware.com.tw/assets/Tourmap/產品Cms/formsDataModal.png)
