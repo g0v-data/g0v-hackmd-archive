@@ -378,6 +378,9 @@ https://www.facebook.com/story.php?story_fbid=pfbid02EeEFhSwYRQjgFVyxqP33J7cxyCi
 
 ## 20240502 公民週活動籌備討論
 
+籌辦討論文件
+https://docs.google.com/presentation/d/1So9YIE00FmW6H1eENEVUIX4N2uyTMfGnDkdvzJSrNvs/edit
+
 公眾的角度
 - 市府已有臺北市淨零自治條例
     - 有明確列出局處業務
