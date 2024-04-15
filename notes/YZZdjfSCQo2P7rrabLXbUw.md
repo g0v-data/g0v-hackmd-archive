@@ -49,3 +49,5 @@ https://chrome.google.com/webstore/detail/wot-website-security-safe/bhmmomiinigo
 #### Ken暫存
 https://www.youtube.com/watch?v=A3Yx35KrSN0
 D:\Ken\OneDrive\13Learning\AI.xlsx
+
+https://www.youtube.com/watch?v=IVKYl99OtW4
