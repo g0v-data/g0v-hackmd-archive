@@ -48,16 +48,15 @@ tags: g0vernance
 - 20150420 國家資通安全會報技術服務中心，製作一份「資安分享包 電子郵件社交工程-手法」簡報，其中針對 email 舉例 xxx@g0v.tw
     - 簡報網址：https://www.slideshare.net/masacoicst/ss-47223497
 
-## 可能的因應方式
+## 因應方式
 
-發想因應方式
-- 撰寫澄清說明內容，提供給歷次相關單位
-- 撰寫 sns 
-- 建立中繼網頁，確保該網址不會遭到惡意使用
-    - 案例：財政部電子申報繳稅服務網 https://tax.nat.gov.tw/ 與 https://tax.nat.g0v.tw/ 
-    - 相關發想規劃：g0v shadowcat 影子政府網站 https://g0v.hackmd.io/GD2adjxpQ3-v-5N_WIj22g
+### 建立中繼網頁，確保該網址不會遭到惡意使用
+- 案例：財政部電子申報繳稅服務網 https://tax.nat.gov.tw/ 與 https://tax.nat.g0v.tw/ 
+- 相關發想規劃：g0v shadowcat 影子政府網站 https://g0v.hackmd.io/GD2adjxpQ3-v-5N_WIj22g
 
-### 寫信：向對方單位的信件說明內容
+### 撰寫 sns 
+
+### 撰寫澄清說明內容，提供給歷次相關單位
 
 - 介紹 g0v 社群
 - 取名 g0v 的緣由
