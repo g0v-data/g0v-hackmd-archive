@@ -1,4 +1,7 @@
-## 一、Web 現況
+## 一、重點整理
+預計星期二下午 15:00 以前難以順利整合網頁應用至 AWS 平臺，說明如下。
+
+## 二、Web 現況
 
 目前 [GPTs 網頁版](https://github.com/SamurAIGPT/Open-Custom-GPT) 的進度如下：
 
@@ -15,7 +18,7 @@
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1e4ce09e73f5bac86d53dfd5b2f09b5a.png)
 
-## 二、AWS 現況
+## 三、AWS 現況
 
 - <b>第一步：</b>將網頁應用部署在 EC2
 - <b>第二步：</b>開放外部網址，不太確定具體步驟，但會依照下列順序逐一嘗試：
@@ -28,7 +31,7 @@
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8f4c32d7d1dcd0c778bb2be235cc0d4e.png)
 
-所有的設置都是對的，但是伺服器拒絕連線，已多次詢問 Chatbot、網路爬文及詢問班上同學，目前仍然無解，可能需要援助。
+所有的設置都是對的，但是伺服器拒絕連線，已多次詢問 Chatbot、網路爬文及詢問班上同學，目前仍然無解<span style="color:red">可能需要援助</span>。
 
 1. IPv4 地址正確
 
