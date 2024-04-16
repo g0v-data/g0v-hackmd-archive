@@ -26,10 +26,11 @@ Co-organizing community: SITCON、GDSC、開放教育社群
 如果能在公告之前確定的話，對於投稿的意願應該會提升
 （之前說的最多 10 人其實我覺得可以拿掉）
 > [name=Sky]
+> Re: Sky 最多 10 個應該是 Organizer(籌備議程軌主要人員) 對於外部審稿人並沒有限制 [name=FKT]
 
 > GDSC 的媒體管道 
 目前是由 Leo 管理
-發布的管道可以找他
+發布的管道可以找他 CC: Leo 
 [name=FKT]
 
 - 一些參考資料：[去年開放教育議程軌的文件 + 文案](https://g0v.hackmd.io/nJTi_LkvRg-YvhBpuIwgkA) [name=Sky]
@@ -43,6 +44,10 @@ Co-organizing community: SITCON、GDSC、開放教育社群
 
 
 ### 社群 logo
+
+- ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4550d1cb5d809fc1787ac46cdf7bfb0a.png) 
+    - 提議:社群 logo 以上面的方式排列就好了 [name=FKT]
+
 
 
 ### 是否要開 Mailing List？
