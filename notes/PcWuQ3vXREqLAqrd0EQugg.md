@@ -7,8 +7,9 @@ tags: Rentea
 
 ## 議程資訊（講者邀請中）
 
-[邀請函](https://g0v.hackmd.io/y3p2WOt3T5CWELfd5NKrkw)
-[對外議程資訊完整版](https://g0v.hackmd.io/XfsGmhIZSJu8f6kR2ixDNg)
+- [邀請函](https://g0v.hackmd.io/y3p2WOt3T5CWELfd5NKrkw)
+- [對外議程資訊完整版](https://g0v.hackmd.io/XfsGmhIZSJu8f6kR2ixDNg)
+- [行前通知](https://g0v.hackmd.io/OTBAI4J3QKalJHQWZS36uA)
 
 ### 題目
 

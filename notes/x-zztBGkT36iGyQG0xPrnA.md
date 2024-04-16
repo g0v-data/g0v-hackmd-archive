@@ -2,7 +2,7 @@
 tags: chatgpt
 ---
 
-# @ChatGPT 
+# LLM & g0v : ChatGPT / MediaTek_DaVinci
 
 :::warning
 文件目錄
@@ -44,10 +44,13 @@ https://photos.app.goo.gl/TBQqZbAWEGmi9mKm6
 應用
 - 新聞工作流程 https://www.facebook.com/story.php?story_fbid=pfbid0gSsjZqnibSuVXTEkjjGHCj42husoiip7M5Fbhkk2TkvSWKcR5zVSt61hfcM5suYWl&id=100000133181724&mibextid=tejx2t
 
-## 使用 ChatGPT 發想專案
+## 使用 GPT 發想專案
 
 平行世界的 g0v 專案們
 https://g0v.hackmd.io/wbdf7XhATf6b_z2YNlZ1Nw?view
+
+MediaTek_DaVinci 達哥，提案小幫手
+https://www.facebook.com/share/p/oGyPHznZtJR1S7Yn/
 
 ## 使用 ChatGPT 聊聊 g0v
 
