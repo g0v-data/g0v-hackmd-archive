@@ -34,7 +34,7 @@ tags: summit2024
 | Kailan | Kailan | ---- | ---- | ---- |
 | 白貓 | White Cat |[Nikon D5600] | O | ---- |
 | RAYEN | RAYEN | ---- | ---- | 議程組為主 |
-| Janice Hu | Janice Hu | ---- | ---- | ---- |
+| Janice Hu | Janice Hu |Fujifilm XT4(XF18-55) | ---- | ---- |
 | YC | YC (Yichun) | [Canon EOS M50 Mark II (EF-M15-45mm f/3.5-6.3 IS STM & EF-M55-200mm f/4.5-6.3 IS STM)](https://tw.canon/zh_TW/consumer/eos-m50-mark-ii-ef-m15-45mm-f-3-5-6-3-is-stm-amp-ef-m55-200mm-f-4-5-6-3-is-stm/product?category=photography&subCategory=compact-slr) | ---- | 宣傳組，可提供設備 |
 | 圍棋 | ---- | ---- | O(但只有基本的) | ---- |
 | 77 | qiqi77 | ---- | ---- | ---- |

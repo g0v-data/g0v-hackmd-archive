@@ -14,7 +14,7 @@ Co-organizing community: SITCON、GDSC、開放教育社群
 時間：4/16（二）20:00
 日曆：https://calendar.app.google/AyHnzYFCDnaf3pTC7
 地點：https://meet.google.com/hai-voym-cbq
-出席：、、、、、、、、、、、
+出席：蓋蓋、、、、、、、、、、、
 
 
 ### 徵稿貼文文案
@@ -34,7 +34,7 @@ Co-organizing community: SITCON、GDSC、開放教育社群
 [name=FKT]
 
 - 一些參考資料：[去年開放教育議程軌的文件 + 文案](https://g0v.hackmd.io/nJTi_LkvRg-YvhBpuIwgkA) [name=Sky]
-
+- [去年學生社群大亂鬥徵稿文案](https://www.instagram.com/p/CrStGx2LZBD/) [name=FKT]
 
 ### 議程軌參與人數 / 審稿
 

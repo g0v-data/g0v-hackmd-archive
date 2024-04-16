@@ -20,6 +20,8 @@ tags: Rentea
 ### 小聚紀錄
 
 1. [租出育兒宅 - 戶籍遷不了啦 XD](https://g0v.hackmd.io/@ddio-io/rebirth/) - ddio
+2. 第二季小聚確定在「摩登生活：台灣建築展」@
+   - 時間調查：https://doodle.com/meeting/participate/id/e3K2nJQe ，統計截止時間 4/28
 
 
 
