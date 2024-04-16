@@ -23,6 +23,7 @@ tags: Rentea
 2. 第二季小聚確定在「摩登生活：台灣建築展」
    - 時間調查：https://doodle.com/meeting/participate/id/e3K2nJQe ，統計截止時間 4/28
 3. Summit 社群軌
-
+4. 租屋實價登錄網還滿好玩的，可以找到疑似洗錢（？？？）的物件 XD
+   - https://lvr.land.moi.gov.tw/
 
 {%hackmd 1LO5rpavTiK4_cFrTouudg %}

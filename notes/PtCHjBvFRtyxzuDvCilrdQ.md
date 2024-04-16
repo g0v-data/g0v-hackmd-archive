@@ -32,17 +32,22 @@ tags: summit2024
 | Oliver | OliverL. | Canon EOS R10 (RF-S18-150mm f/3.5-6.3 IS STM) | X | 組長 |
 | 小0 | 筱翎 Sherry | ---- | ---- | 5/4 一天 |
 | Kailan | Kailan | ---- | ---- | ---- |
-| 白貓 | White Cat |[Nikon D5600] | O | ---- |
-| RAYEN | RAYEN | ---- | ---- | 議程組為主 |
-| Janice Hu | Janice Hu |Fujifilm XT4(XF18-55) | ---- | ---- |
-| YC | YC (Yichun) | [Canon EOS M50 Mark II (EF-M15-45mm f/3.5-6.3 IS STM & EF-M55-200mm f/4.5-6.3 IS STM)](https://tw.canon/zh_TW/consumer/eos-m50-mark-ii-ef-m15-45mm-f-3-5-6-3-is-stm-amp-ef-m55-200mm-f-4-5-6-3-is-stm/product?category=photography&subCategory=compact-slr) | ---- | 宣傳組，可提供設備 |
+| 白貓 | White Cat |[Nikon D5600] | O | 感謝! |
+| Janice Hu | Janice Hu | Fujifilm XT4(XF18-55) | ---- | ---- |
 | 圍棋 | ---- | ---- | O(但只有基本的) | ---- |
 | 77 | qiqi77 | ---- | ---- | ---- |
 | 黃楷越 | ---- | ---- | ---- | ---- |
 | 海豹 | 海豹 | ---- | ---- | ---- |
 | 柴犬 | shibasalmon | [Nikon D750 ] | ---- | ---- |
-| Gavin | ---- | ---- | ---- | ---- |
-| LGH | ---- | Nikon Z6II (24-120 F4 S) | ---- | ---- |
+| Gavin | ---- |  Nikon Z6II (24-120 F4 S) | ---- | ---- |
+| 月太 | moontai0724 | ---- | ---- | ---- |
+| Michael_LI | Michael_LI | ---- | ---- | ---- |
+||
+|  |  | 以下組外協助 |  |  |
+||
+| YC | YC (Yichun) | [Canon EOS M50 Mark II (EF-M15-45mm f/3.5-6.3 IS STM & EF-M55-200mm f/4.5-6.3 IS STM)](https://tw.canon/zh_TW/consumer/eos-m50-mark-ii-ef-m15-45mm-f-3-5-6-3-is-stm-amp-ef-m55-200mm-f-4-5-6-3-is-stm/product?category=photography&subCategory=compact-slr) | ---- | 宣傳組，可提供設備 |
+| yellowsoar | yellowsoar | ---- | ---- | 議程組為主 | 
+| RAYEN | RAYEN | ---- | ---- | 議程組為主 |
 
 
 
@@ -135,9 +140,9 @@ tags: summit2024
 - 若有預算的話，建議租一組真的能打的器材...（我推Sony α7 IV+FE 24-70mm F2.8 GM+FE 70-200mm F2.8 GM）因為現在租器材其實也沒有想像中貴（這組器材兩天4000元上下） （因人手足夠先暫時撤回此項意見）」
 [name=白貓]
     - 我目前只知道 楓驛器材 [name=Oliver]
-        - [a74](https://www.lens.tw/product/sony-a7iv-a74%e5%96%ae%e6%a9%9f%e8%ba%ab/) = 1,000/天
-        - [Sony FE 24-70MM F2.8 E接環 GM](https://www.lens.tw/product/sonyfe-24-70mm-f2-8-e%e6%8e%a5%e7%92%b0-gm/) = 800/天
-        - [Sony FE 70-200MM F2.8 GM](https://www.lens.tw/product/sony-fe-70-200mm-f2-8-gm/) = 900/天
+        - 機器：[Sony A7IV](https://www.lens.tw/product/sony-a7iv-a74%e5%96%ae%e6%a9%9f%e8%ba%ab/) = 1,000/天
+        - 鏡頭：[Sony FE 24-70MM F2.8 E接環 GM](https://www.lens.tw/product/sonyfe-24-70mm-f2-8-e%e6%8e%a5%e7%92%b0-gm/) = 800/天
+        - 鏡頭：[Sony FE 70-200MM F2.8 GM](https://www.lens.tw/product/sony-fe-70-200mm-f2-8-gm/) = 900/天
     - 請問有更推薦的租借商嗎?
     
 ## 其他建議（可在4/16跨組會議討論）

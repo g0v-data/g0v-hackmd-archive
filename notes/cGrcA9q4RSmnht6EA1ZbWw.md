@@ -20,14 +20,13 @@ tags: summit2024
     - 公布現有議程，可以 copy 正式議程表的 visualization
     - 告知補助範圍
     - 活動日期、時間與地點
-    - 線上預錄的講者會需要
+    - 線上預錄的講者
 ## 社群軌
 - [社群軌現況與進度](https://docs.google.com/spreadsheets/d/1ozGsNC5mAQDwnmW_Egyiihcp2RuAwZt2opTDbfWwZ7g/edit?usp=sharing)
 - 要特別注意 peii 與 disfactory 社群軌的狀況 
 
 ## 焦點議程
-- AN 會在 5/3 晚上有 side event 
-- 其餘比照一般講者
+- 目前有一位印度講者需要邀請信，再來處理。
 
 ## 合作議程
 - NDI 資訊更新
