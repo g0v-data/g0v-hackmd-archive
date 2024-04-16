@@ -40,3 +40,8 @@ http://www.classic1990.com/en
 介紹文章
 - 桃園誌 第81期 作者：桃園市政府新聞處 ╱ 日期：2022-02-23
     - https://ebook.tycg.gov.tw/book/content.php?id=866
+
+
+## 2024 用地資料有同步到 桃園市碳中和資訊平台
+
+https://carbonneutral.tydep.gov.tw/CarbonSinkMapView?Type=WaterResourcesCenter

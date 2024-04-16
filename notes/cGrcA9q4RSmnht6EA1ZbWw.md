@@ -10,11 +10,11 @@ tags: summit2024
 - [正式議程表](https://docs.google.com/spreadsheets/d/1T-0BlFpydEZtSFBjvOMyTmI0wPp-t0i1sLojpMIvBvM/edit?usp=sharing)
 - [講者all in one](https://docs.google.com/spreadsheets/d/17Ovu5Dvm86z4BmFk24096ns5X-OLvDIt7AlkALI2BiY/edit?usp=sharing)
 - 確認是否有資料尚未核對齊全
-- 講者桌牌
+~~- 講者桌牌
     - 要做
     - 壓克力板的尺寸
     - 所有講者都整理成一個 spreadsheet
-        - 收檔格式：CSV 檔案，包含講者名字、頭銜（含中英文）與場次編號（會印小小的幫助整理）
+        - 收檔格式：CSV 檔案，包含講者名字、頭銜（含中英文）與場次編號（會印小小的幫助整理）~~
 - 線上錄影的講者
     - 衣索比亞 Mesud
     - 奈及利亞 Idris 
