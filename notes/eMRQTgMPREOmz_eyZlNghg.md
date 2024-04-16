@@ -1,13 +1,13 @@
-# 後端平台-功能介紹 v1.1
+# 後端平台-功能介紹 v1.2
 
 | 環境 | 網址 | DNS | IP | 備註 |
 | - | - | - | -| -|
+| dev | https://cms.wonwongames.com/#/cms/login?tag=cms_wonwon | API-DEV | 192.168.4.150 | 管理者登入口 cms_wonwon/pm/qa/gm/platform|
 | dev | https://cms.wonwongames.com/ | API-DEV | 192.168.4.150 | 平台登入口 |
-| dev | https://cms.wonwongames.com/cms/login?tag=cms_wonwon | API-DEV | 192.168.4.150 | 管理者登入口 |
-| stg | https://cms.wonwongames.com/login?tag=cms_wonwon | API-QA | 192.168.4.160 | |
-| stg | https://cms.wonwongames.com/ | API-QA | 192.168.4.160 |平台登入口|
-| uat | https://uatcms.wonwongames.com/#/cms/login?tag=cms_wonwon | 自動DNS |  | |
-| uat | https://uatcms.wonwongames.com/#/login | 自動DNS |  |平台商登ㄖㄨ|
+| stg | https://cms.wonwongames.com/#/cms/login?tag=cms_wonwon | API-QA | 192.168.4.160 |管理者登入口|
+| stg | https://cms.wonwongames.com/#/ | API-QA | 192.168.4.160 |平台登入口|
+| uat | https://uatcms.wonwongames.com/#/cms/login?tag=cms_wonwon | 自動DNS |  |管理者登入口|
+| uat | https://uatcms.wonwongames.com/#/login | 自動DNS |  |平台商登入口|
 
 # 功能列表
 ## 首頁

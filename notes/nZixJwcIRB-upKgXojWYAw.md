@@ -1,0 +1,2 @@
+From large multinational groups to small start-ups, COATINGSDIRECTORY have been committed to establishing equal and accurate customer group linkages for many years. 
+Collection of reliable Coatings supplier information from around the world. Help buyers and sellers establish initial digital contact and promote subsequent good cooperative sales relationships.https://coatingsdirectory.com/listing-category/coatings/solvent-based-coating/
