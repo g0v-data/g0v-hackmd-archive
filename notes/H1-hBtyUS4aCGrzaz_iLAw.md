@@ -4,7 +4,7 @@ description: Student Open Governance Associated Community. 關心臺灣各級學
 image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ca5e55fc5d57ad8786d568da3970bc9c.jpg
 ---
 
-# 學生開放自治社群 SOGAC
+# 學生開放自治社群 SOGAC 共筆
 
 Student Open Governance Associated Community
 關心臺灣各級學校學生自治之開放治理發展現況

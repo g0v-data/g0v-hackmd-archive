@@ -2,7 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 7763 | 2024-04-16T09:56:00+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 7767 | 2024-04-16T10:59:09+08:00 |
+| [open-student-org sogac-tw](tags/open-student-org%20sogac-tw.md) | 1 | 2024-04-16T10:07:28+08:00 |
 | [edu](tags/edu.md) | 149 | 2024-04-16T08:52:43+08:00 |
 | [Templates](tags/Templates.md) | 241 | 2024-04-15T23:24:16+08:00 |
 | [Book](tags/Book.md) | 155 | 2024-04-15T23:24:16+08:00 |
@@ -16,7 +17,6 @@
 | [hackpad](tags/hackpad.md) | 3037 | 2024-04-14T22:55:12+08:00 |
 | [cofacts](tags/cofacts.md) | 438 | 2024-04-14T20:50:28+08:00 |
 | [meeting note](tags/meeting%20note.md) | 263 | 2024-04-14T20:50:28+08:00 |
-| [open-student-org sogac-tw](tags/open-student-org%20sogac-tw.md) | 1 | 2024-04-14T20:43:04+08:00 |
 | [公有地大行動](tags/%E5%85%AC%E6%9C%89%E5%9C%B0%E5%A4%A7%E8%A1%8C%E5%8B%95.md) | 119 | 2024-04-14T18:30:45+08:00 |
 | [新生流域](tags/%E6%96%B0%E7%94%9F%E6%B5%81%E5%9F%9F.md) | 15 | 2024-04-14T18:28:03+08:00 |
 | [digital-resilience](tags/digital-resilience.md) | 30 | 2024-04-14T16:45:19+08:00 |
