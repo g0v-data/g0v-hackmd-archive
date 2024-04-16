@@ -32,15 +32,15 @@ tags: summit2024
 | Oliver | OliverL. | Canon EOS R10 (RF-S18-150mm f/3.5-6.3 IS STM) | X | 組長 |
 | 小0 | 筱翎 Sherry | ---- | ---- | 5/4 一天 |
 | Kailan | Kailan | ---- | ---- | ---- |
-| 白貓 | White Cat | ---- | O | ---- |
+| 白貓 | White Cat |[Nikon D5600] | O | ---- |
 | RAYEN | RAYEN | ---- | ---- | 議程組為主 |
 | Janice Hu | Janice Hu | ---- | ---- | ---- |
 | YC | YC (Yichun) | [Canon EOS M50 Mark II (EF-M15-45mm f/3.5-6.3 IS STM & EF-M55-200mm f/4.5-6.3 IS STM)](https://tw.canon/zh_TW/consumer/eos-m50-mark-ii-ef-m15-45mm-f-3-5-6-3-is-stm-amp-ef-m55-200mm-f-4-5-6-3-is-stm/product?category=photography&subCategory=compact-slr) | ---- | 宣傳組，可提供設備 |
 | 圍棋 | ---- | ---- | ---- | ---- |
-| 77 | ---- | ---- | ---- | ---- |
+| 77 | qiqi77 | ---- | ---- | ---- |
 | 黃楷越 | ---- | ---- | ---- | ---- |
 | 海豹 | 海豹 | ---- | ---- | ---- |
-| 柴犬 | shibasalmon(?) | ---- | ---- | ---- |
+| 柴犬 | shibasalmon | [Nikon D750 ] | ---- | ---- |
 | Gavin | ---- | ---- | ---- | ---- |
 | LGH | ---- | Nikon Z6II (24-120 F4 S) | ---- | ---- |
 
