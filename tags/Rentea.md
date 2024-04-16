@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Rentea Tuesday #91 單數線上小聚筆記](../notes/1Oos_SVPQ5egWwzORWaCtA.md) | 2024-04-16T19:32:51+08:00 | 2024-04-15T18:56:38+08:00 |
+| 1 | [Rentea Tuesday #91 單數線上小聚筆記](../notes/1Oos_SVPQ5egWwzORWaCtA.md) | 2024-04-16T20:18:29+08:00 | 2024-04-15T18:56:38+08:00 |
 | 2 | [Rentea 小聚 - 週一週二來聊居住經驗吧！](../notes/YVw3eVgQQb-nHIN4dDp_hg.md) | 2024-04-15T18:58:33+08:00 | 2020-01-18T20:44:14+08:00 |
 | 3 | [可負擔的穩定租屋，我們離它有多遠？ \| g0v Summit x Rentea 社群軌](../notes/XfsGmhIZSJu8f6kR2ixDNg.md) | 2024-04-11T00:13:45+08:00 | 2024-04-10T22:45:15+08:00 |
 | 4 | [g0v Summit 社群軌 x Rentea 意見收集](../notes/PcWuQ3vXREqLAqrd0EQugg.md) | 2024-04-11T00:12:06+08:00 | 2023-08-15T21:12:56+08:00 |

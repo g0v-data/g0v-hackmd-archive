@@ -2,10 +2,27 @@
 tags: edu
 ---
 
+# COSCUP SED 審稿標準
+
+## 徵收標準
+
+- 議題必須相關 (內容包含但不限於開放教育、開源教育，開源技術、社群 / 社團經營，或是與 Google 相關技術)
+- 有涉及到開源
+
+## 評分標準
+
+- 稿件內容：知識分享、經驗案例、想法觀點是否獨特等。另外也包括稿件的結構及資料完整性是否充足。
+- 表達能力：提供的資料是否有條理、文句暢通，以及提供資料之完整度。完整的資料能讓審稿委員更清楚了解演講細節。
+- 主題相關性：和學生、社群、資訊、教育相關的議題，且與 FLOSS（自由/開放原始碼軟體）相關。
+
+
+---
+
 # COSCUP 2024 學生 × 教育大亂門議程軌 Open Education & Student Track
 
 :::info
 Co-organizing community: SITCON、GDSC、開放教育社群
+
 :::
 
 
@@ -14,7 +31,7 @@ Co-organizing community: SITCON、GDSC、開放教育社群
 時間：4/16（二）20:00
 日曆：https://calendar.app.google/AyHnzYFCDnaf3pTC7
 地點：https://meet.google.com/hai-voym-cbq
-出席：蓋蓋、、、、、、、、、、、
+出席：Sky、FKT、Ted、ali、Charlie、Amanda、ChAoS、Denny、Chloe、Leo
 
 
 ### 徵稿貼文文案
@@ -26,6 +43,7 @@ Co-organizing community: SITCON、GDSC、開放教育社群
 如果能在公告之前確定的話，對於投稿的意願應該會提升
 （之前說的最多 10 人其實我覺得可以拿掉）
 > [name=Sky]
+
 > Re: Sky 最多 10 個應該是 Organizer(籌備議程軌主要人員) 對於外部審稿人並沒有限制 [name=FKT]
 
 > GDSC 的媒體管道 
@@ -34,41 +52,53 @@ Co-organizing community: SITCON、GDSC、開放教育社群
 [name=FKT]
 
 - 一些參考資料：[去年開放教育議程軌的文件 + 文案](https://g0v.hackmd.io/nJTi_LkvRg-YvhBpuIwgkA) [name=Sky]
-- [去年學生社群大亂鬥徵稿文案](https://www.instagram.com/p/CrStGx2LZBD/) [name=FKT]
+- [去年學生社群大亂鬥徵稿文案 含有審稿模板](https://www.instagram.com/p/CrStGx2LZBD/) [name=FKT]
 
 ### 議程軌參與人數 / 審稿
 
 > 啟動會議有提到 [人數不要多於十個](#Organizer-%E4%B8%8D%E8%B6%85%E9%81%8E%E5%8D%81%E4%BD%8D)，但感覺這樣限制仍然怪怪的
 > 審稿流程想要抄之前大亂鬥的審稿 Google Sheet [name=Sky]
 
-
+- Denny：要根據審稿品質決定是否要
 
 ### 社群 logo
 
 - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4550d1cb5d809fc1787ac46cdf7bfb0a.png) 
     - 提議:社群 logo 以上面的方式排列就好了 [name=FKT]
-
-
+- Charlie: 要照著三個圈的方向設計嗎？
+- FKT: 不用
+- [開放教育社群 logo](https://drive.google.com/drive/folders/13pdbhtJjlC2pDkr5QHbXbmSP26ZNk7x-?usp=sharing) [name=Ted]
 
 ### 是否要開 Mailing List？
 
+- 一個是所有成員都看得到
+    - coscup-stu@googlegroups.com
+- 一個是審稿專用
+    - coscup-stu-review@googlegroups.com
+- Pretalx 錄取 / 未錄取通知需要回信 email 設定
 
 ### Call for Action
 
-- 製作 CfP 宣傳圖文 [name=]
+- 製作 CfP 宣傳圖文
+    - 文案 [name=Sky]
+    - 圖片 [name=Charlie]
 - 幫忙在各社群的平台幫忙發 CfP 宣傳文
-    - COSCUP [name=]
-    - SITCON [name=]
-    - GDSC [name=]
-    - 開放教育 [name=]
-- 製作社群/議程軌 logo [name=]
-- 建立審稿文件 [name=]
+    - COSCUP [name=Ted 去確認]
+    - SITCON [name=Amanda]
+    - GDSC [name=Leo]
+    - 開放教育 [name=Ted, Sky]
+- 製作社群/議程軌 logo [name=Charlie]
+- 建立審稿文件 [name=FKT]
+- [審稿模板](https://docs.google.com/spreadsheets/d/1_f4TCGPpkITD61iyAKknAYFcoWh_Xh7fWIVVvzu058s/edit#gid=126158572)
+- [審稿與評分標準 - COSCUP 2023 Students' Track](https://docs.google.com/document/d/1RHWPWuS2PnSM-JBFgsHoAIwFEgZ0bzv_sly0-cabOxk/edit?usp=sharing) [name=FKT] Hi SKY I am Here
 
 ## 2nd 投稿申請 Cowork
 
 
 補上一些連結：
 - https://docs.google.com/spreadsheets/d/1KhhqfBps3riQTByxe84VX8nV52yGmHacIvcMLk6e5ug/edit#gid=0
+
+
 
 ### 一般
 - Proposol title（社群名稱）：學生 × 教育大亂鬥
