@@ -52,13 +52,15 @@ vTaiwan 相關資料整理 vTaiwan related materials
 
 進行中專案 Ongoing Projects
 ---
+- [vTaiwan in TicTEC 2024](/_fWuILaRSv-h3FQsXSLxaQ)
+- [vTaiwan人工智慧基本法](/xwfZ2MrqTPGHQJVz9Y5sUQ)
+
+專案紀錄 Past Projects 
+---
 - [vTaiwan—AI—人權](https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/DIforAIvTaiwanxChatham)
 - [vTaiwan-國科會DSET討論](https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/B1XxOARS6)
 - [vTaiwan MSR 合作](https://g0v.hackmd.io/3Z5t74JXS1-HOVIxQ4PKSA)
 - [vTaiwan 與司法院合作](/xSjSnOfHScGFUNjxalIGfg)
-
-專案紀錄 Past Projects 
----
 - [共享運具法規調適](https://g0v.hackmd.io/RgJokK8TRgORR6MCennBaQ?view)
 - [政治獻金會計書查閱辦法](https://g0v.hackmd.io/wT06VvAGRbeW3UpOqwKdow?fbclid=IwAR2fIJ5aJ1egwWOryb0kULCVsg_v1p8toYX-UWCFrA4jJ6QbCVynay1eOjY)
 - [標案開放資料討論](https://g0v.hackmd.io/3SfsTv4dT06CNF7O-TWclg)
