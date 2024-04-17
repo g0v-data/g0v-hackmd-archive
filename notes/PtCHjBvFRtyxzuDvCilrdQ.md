@@ -35,7 +35,7 @@ tags: summit2024
 | 白貓 | White Cat |[Nikon D5600] | O | 感謝! |
 | Janice Hu | Janice Hu | Fujifilm XT4(XF18-55) | ---- | ---- |
 | 圍棋 | ---- | ---- | O(但只有基本的) | ---- |
-| 77 | qiqi77 | ---- | ---- | ---- |
+| 77 | qiqi77 | ---- |O (基本修圖可) | ---- |
 | 黃楷越 | ---- | ---- | ---- | ---- |
 | 海豹 | 海豹 | Sony A7M4*2 Tamron20-40 F2.8 Di III VXD Tamron35-150 F2-2.8 Di III VXD| ---- | ---- |
 | 柴犬 | shibasalmon | [Nikon D750 ] | ---- | ---- |
