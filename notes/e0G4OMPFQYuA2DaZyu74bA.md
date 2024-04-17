@@ -88,7 +88,8 @@ community governance
 - [vTaiwan年末討論](https://g0v.hackpad.tw/20181212-vTaiwan--ICWJfkrm2EN)
 
 2024 小松紀錄 2024 Weekly Meetup
----
+----
+- [0417小松](/uDbpFfsNREGpzpx5aItvLg)
 - [0410小松](/iGIl9xN5Tz2feVlTk9DZFQ)
 - [0404小松](/sTJVNXHhRiCxQH5Xo7oZzg)
 - [0327小松](/XBOnXGEOSeS_UnooDsvLWA)
