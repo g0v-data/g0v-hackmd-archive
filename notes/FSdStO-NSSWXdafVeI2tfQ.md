@@ -25,7 +25,6 @@ public class AdditionCategoryManager{
 }
 ```
 
-
 #### Repository
 
 ```c#
@@ -164,6 +163,8 @@ public class AdditionTree
 
 ![image](https://files.furthersoftware.com.tw/assets/Tourmap/重構/additionSales.png)
 
+目前考慮把繼承關係拆除
+
 #### Manager
 
 ```c#
@@ -266,3 +267,103 @@ public interface IAdditionSaleParameterCalculateProvider
 ![image](https://files.furthersoftware.com.tw/assets/Tourmap/重構/entityAdditionParameter.png)
 
 該整個實體刪除，如有用到的地方都該拿掉
+
+
+## Camping
+
+### CampingArea
+
+![image](https://files.furthersoftware.com.tw/assets/Tourmap/重構/campingArea.png)
+
+#### Manager
+
+```c#
+//基本方法補上check和set
+public class CampingAreaManager{
+    //改用原本方法
+    Task<CampingArea> CreateAsync(string displayName, int deafultAddPeopleLimit, int defaultAddPeoplePrice, int index);
+    
+    /// <summary>
+    /// 上傳圖片
+    /// </summary>
+    /// <param name="campingArea"></param>
+    /// <param name="inputStream">如果為null代表刪除</param>
+    /// <returns></returns>
+    //調整名字
+    Task<CampingArea> UploadImgAsync(CampingArea campingArea, Volo.Abp.Content.IRemoteStreamContent? inputStream = null);
+    
+    /// <summary>
+    /// 移動CampingArea並做排序，將prevIndex移動到nextIndex
+    /// </summary>
+    /// <param name="input">要做排序的CampingArea</param>
+    /// <param name="prevIndex">原先位置</param>
+    /// <param name="nextIndex">新位置</param>
+    /// <returns></returns>
+    //調整名字
+    List<CampingArea> SortCampingAreasIndex(List<CampingArea> input, int prevIndex, int nextIndex);
+    
+    //將campingArea做重新排序，目前是刪除為了保持整齊重新排序用，可能有更好的做法
+    List<CampingArea> ResetCampingAreaIndex(List<CampingArea> input);
+    
+    /// <summary>
+    /// 獲取家人加價總價
+    /// </summary>
+    /// <param name="campingAreaId">營區Id</param>
+    /// <param name="campingId">營位Id</param>
+    /// <param name="quantity">加人加價人數</param>
+    /// <returns></returns>
+    //簡易計算家人加價參數的方法，應該另開provider，並且改善回傳
+    //目前只回傳錢也沒回傳人數
+    public async Task<decimal> GetAddPeoplePriceAsync(Guid campingAreaId, Guid campingId, int quantity)
+}
+```
+
+#### Repository
+
+```c#
+public interface ICampingAreaRepository{
+    //為了檢查名稱是否存在建立的方法，待破棄
+    Task<bool> ExistAsync(string displayName);
+    
+    //待破棄
+    Task<Aggregates.CampingAreaFullCamping> GetFullCampingAsync(Guid id, CancellationToken cancellationToken = default);
+
+    //待破棄
+    Task<List<Aggregates.CampingAreaFullCamping>> GetListFullCampingAsync(
+ISpecification<Aggregates.CampingAreaFullCamping>? specification = null,
+string? sorting = null,
+int maxResultCount = int.MaxValue,
+int skipCount = 0,
+CancellationToken cancellationToken = default);
+
+    //待破棄
+    Task<long> GetCountFullCampingAsync(
+    ISpecification<Aggregates.CampingAreaFullCamping> specification,
+    CancellationToken cancellationToken = default);
+}
+```
+
+#### Aggregates
+
+```c#
+//目前沒用到待破棄
+public class CampingAreaFullCamping
+{
+    /// <summary>
+    /// 營區
+    /// </summary>
+    public CampingArea CampingArea { get; set; } = null!;
+
+    /// <summary>
+    /// 營區封面圖
+    /// </summary>
+    public MediaDescriptor? CampingAreaCoverImageUrl { get; set; }
+
+    /// <summary>
+    /// 各個Camping的Sku資料
+    /// </summary>
+    public List<CampingDetail> CampingSkuDetails { get; set; } = new();
+
+}
+```
+
