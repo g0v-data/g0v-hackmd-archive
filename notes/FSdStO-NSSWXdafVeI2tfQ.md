@@ -2,6 +2,43 @@
 
 ## Addition
 
+### AdditionCategory
+
+#### Manager
+
+```c#
+//基本方法補上check和set
+public class AdditionCategoryManager{
+    /// <summary>
+    /// 上傳圖片
+    /// </summary>
+    /// <param name="additionCategory"></param>
+    /// <param name="inputStream">如果為null代表刪除</param>
+    /// <returns></returns>
+    Task UploadCoverImageAsync(AdditionCategory additionCategory, IRemoteStreamContent? inputStream = null);
+    
+    //待破棄
+    List<Aggregates.AdditionCategoryTree> BuildTreeAdditionCategory(List<Aggregates.AdditionCategoryWithTree> nodes);
+    
+    //待破棄
+    List<AdditionCategory> FindAdditionUseCategoryRecursive(List<AdditionCategory> allCategory, List<Guid> additionByCategoryIds);
+}
+```
+
+
+#### Repository
+
+```c#
+public interface IAdditionCategoryRepository{
+    //待破棄
+    Task<long> GetCountWithTreeAsync(ISpecification<Aggregates.AdditionCategoryWithTree> specification, CancellationToken cancellationToken = default);
+    //待破棄
+    Task<List<Aggregates.AdditionCategoryWithTree>> GetListWithtWithTreeAsync(ISpecification<Aggregates.AdditionCategoryWithTree> specification = null, string sorting = null, int maxResultCount = int.MaxValue, int skipCount = 0, CancellationToken cancellationToken = default);
+    //待破棄
+    Task<Aggregates.AdditionCategoryWithTree> GetWithTreeAsync(Guid categoryId, CancellationToken cancellationToken = default);
+}
+```
+
 ### AdditionIntervalPrice
 
 ![image](https://files.furthersoftware.com.tw/assets/Tourmap/重構/additionIntervalPrice.png)
@@ -125,7 +162,40 @@ public class AdditionTree
 
 ### AdditionSales
 
-#### R
+![image](https://files.furthersoftware.com.tw/assets/Tourmap/重構/additionSales.png)
+
+#### Manager
+
+```c#
+//TODO待破棄泛型方法
+public class AdditionSaleDefinitionManager<T, U>{
+    //改用原本Create
+    Task<T> CreateAsync(Guid ownerId, int pripority, Guid? tenantId = null);
+    
+    //改用原本Update
+    Task<T> UpdatePriporityAsync(Guid ownerId, int pripority, bool autoSave = false);
+    
+    //應該不用此方法，待刪除
+    Task DeleteAsync(Guid ownerId, bool autoSave = false);
+    
+    //需搬到產生方法內
+    Task<T> AddAdditionSaleParameterAsync(Guid ownerId, Guid additionId, bool? isRequired = null, int? freeAmount = null, WeekDayUsable? weekDayUsable = null, bool? disabled = null, Guid? tenantId = null, bool autoSave = false);
+    
+    //需搬到產生方法內
+    Task<T> UpdateAdditionSaleParameterAsync(Guid ownerId, Guid additionSaleParameterId, Guid additionId, bool? isRequired = null, int? freeAmount = null, WeekDayUsable? weekDayUsable = null, bool? disabled = null, Guid? tenantId = null, bool autoSave = false);
+    
+    //需搬到產生方法內
+    Task<T> RemoveAdditionSaleParameterAsync(Guid ownerId, Guid additionSaleParameterId, bool autoSave = false);
+    
+    //需搬到產生方法內
+    Task<T> RemoveManyAdditionSaleParameterAsync(Guid ownerId, List<Guid> additionSaleParameterIds, bool autoSave = false);
+    
+    //需搬到產生方法內
+    Task<T> RemoveAllAdditionSaleParameterAsync(Guid ownerId, bool autoSave = false);
+}
+```
+
+#### Repository
 ```c#
 //破棄泛行版本
 public partial interface IAdditionSaleDefinitionRepository<T,U>:IAdditionRepository<T,Guid>
@@ -163,4 +233,36 @@ public partial interface IAdditionSaleDefinitionRepository<T,U>:IAdditionReposit
 }
 ```
 
+#### Provider
 
+```c#
+public class AvailableSaleParameterModel
+{
+    public List<ParameterCalculateResult> ParameterCalculateResults { get; set; } = new();
+}
+
+public interface IAdditionSaleParameterCalculateProvider
+{
+    /// <summary>
+    /// 根據帶入的ownerId做Parameter組合
+    /// </summary>
+    /// <param name="ownerIds">要組合的ownerId</param>
+    /// <param name="additionIds">想組合的附加服務</param>
+    /// <returns>回傳附加服務組合結果的陣列</returns>
+    Task<AvailableSaleParameterModel> ParameterCalculateAsync(List<Guid> ownerIds, List<Guid>? additionIds = null);
+
+    /// <summary>
+    /// 帶入組合好的Parameter做過濾，會根據時間過濾出可用的Parameter
+    /// </summary>
+    /// <param name="parameters"></param>
+    /// <param name="dateTime"></param>
+    /// <returns></returns>
+    AvailableSaleParameterModel FilterAvailableParameter(List<ParameterCalculateResult> parameters, DateTime? dateTime = null);
+}
+```
+
+### EntityAdditionParameter(破棄)
+
+![image](https://files.furthersoftware.com.tw/assets/Tourmap/重構/entityAdditionParameter.png)
+
+該整個實體刪除，如有用到的地方都該拿掉
