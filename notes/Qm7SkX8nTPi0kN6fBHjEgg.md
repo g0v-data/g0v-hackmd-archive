@@ -77,7 +77,7 @@ x = {-b \pm \sqrt{b^2-4ac} \over 2a}
 $$
 
 - Code block with color and line numbers：
-```javascript=16
+```cpp=
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
