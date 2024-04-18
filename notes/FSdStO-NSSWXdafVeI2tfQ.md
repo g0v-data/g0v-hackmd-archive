@@ -535,3 +535,125 @@ public class CampingIsAvalible
 ### Schedule
 
 ![image](https://files.furthersoftware.com.tw/assets/Tourmap/重構/schedule.png)
+
+#### Manager
+
+```c#
+//TODO拔掉泛型
+ScheduleDefinitionManager<T, U>{
+    //TODO 改用原本方法
+    Task<T> CreateAsync(Guid ownerId, int pripority, PeriodUsable defaultPeriodUsable, Guid? tenantId = null);
+    
+    //TODO 改用原本方法
+    Task<T> UpdateAsync(Guid ownerId, int? pripority = null, PeriodUsable? defaultPeriodUsable = null);
+    
+    //TODO 用原先update即可
+public virtual async Task<T> UpdatePriporityAsync(Guid ownerId, int pripority, bool autoSave = false);
+
+    //TODO 用原先update即可，待破棄
+    Task<T> UpdatePriporityAsync(Guid ownerId, int pripority, bool autoSave = false);
+    
+    //TODO 用原先update即可，待破棄
+    Task<T> UpdateDefaultPeriodUsableAsync(Guid ownerId, PeriodUsable defaultPeriodUsable,bool autoSave = false);
+    
+    //TODO 為了方便開出的ByOwnerDelete，搬到Repository去
+    Task DeleteAsync(Guid ownerId, bool autoSave = false);
+    
+    //不變
+    Task<T> AddScheduleAsync(Guid ownerId, DateTime date, PeriodUsable periodUsable, Guid? tenantId = null, bool autoSave = false);
+    
+    //不變
+    Task<T> UpdateScheduleAsync(Guid ownerId,Guid scheduleId, DateTime date, PeriodUsable periodUsable, bool autoSave = false);
+    
+    //不變
+    Task<T> AddSchedulesAsync(Guid ownerId, List<(DateTime date, PeriodUsable periodUsable)> schedules, Guid? tenantId = null, bool autoSave = false);
+    
+    //不變
+    Task<T> RemoveScheduleAsync(Guid ownerId, Guid scheduleId, bool autoSave = false);
+    
+    //不變
+    Task<T> RemoveAllSchedulesAsync(Guid ownerId, bool autoSave = false);
+}
+```
+
+#### Provider
+
+```c#
+public class ScheduleCalculateResult
+{
+    public Guid? Id { get; set; }
+    public Guid OwnerId { get; set; }
+    public DateTime Date { get; set; }
+    public int Pripority { get; set; }
+    public PeriodUsable PeriodUsable { get; set; }
+}
+
+/// <summary>
+/// 計算是否啟用，根據Pripority計算，越小優先度越高
+/// 當優先度高的禁用，優先度低的啟用時，優先度低的會被覆蓋
+/// </summary>
+public interface IScheduleCalculateProvider
+{
+    /// <summary>
+    /// 計算該天是否啟用
+    /// </summary>
+    /// <param name="ownerIds"></param>
+    /// <param name="date"></param>
+    /// <returns></returns>
+    Task<ScheduleCalculateResult> ScheduleCalculateAsync(List<Guid> ownerIds, DateTime date);
+
+    /// <summary>
+    /// 計算是否啟用，根據開始和結束回傳區間每天結果
+    /// </summary>
+    /// <param name="ownerIds"></param>
+    /// <param name="startTime"></param>
+    /// <param name="endTime"></param>
+    /// <returns></returns>
+    Task<List<ScheduleCalculateResult>> ScheduleCalculateAsync(List<Guid> ownerIds, DateTime startTime, DateTime endTime);
+}
+}
+```
+
+#### Repository
+
+```c#
+public interface IScheduleDefinitionRepository<T, U>{
+    //TODO 搬到非泛型方法
+    Task<T> FindByOwnerIdAsync(Guid ownerId, CancellationToken cancellationToken = default);
+    //TODO 搬到非泛型方法
+    Task<T> GetByOwnerIdAsync(Guid ownerId, CancellationToken cancellationToken = default);
+
+    //TODO 待破棄
+    Task<Aggregates.ScheduleDefinitionForBrowse<T, U>> GetForViewAsync(Guid id, CancellationToken cancellationToken = default);
+    //TODO 待破棄
+    Task<Aggregates.ScheduleDefinitionForBrowse<T, U>> FindByOwnerIdForViewAsync(Guid ownerId, CancellationToken cancellationToken = default);
+    //TODO 待破棄
+    Task<Aggregates.ScheduleDefinitionForBrowse<T, U>> GetByOwnerIdForViewAsync(Guid ownerId, CancellationToken cancellationToken = default);
+    //TODO 待破棄
+    Task<List<Aggregates.ScheduleDefinitionForBrowse<T, U>>> GetListForViewAsync(
+    ISpecification<Aggregates.ScheduleDefinitionForBrowse<T, U>>? specification = null,
+    string? sorting = null,
+    int maxResultCount = int.MaxValue,
+    int skipCount = 0,
+    CancellationToken cancellationToken = default);
+    //TODO 待破棄
+    Task<long> GetCountForViewAsync(
+    ISpecification<Aggregates.ScheduleDefinitionForBrowse<T, U>> specification,
+    CancellationToken cancellationToken = default);
+}
+```
+
+#### Aggregates
+
+```c#
+//TODO 待破棄
+public class ScheduleDefinitionForBrowse<T, U>
+        where T : ScheduleDefinitionBase
+        where U : Entity<Guid>
+{
+    public T ScheduleDefinition { get; set; } = null!;
+    public U? Entity { get; set; }
+}
+```
+
+## Discount
