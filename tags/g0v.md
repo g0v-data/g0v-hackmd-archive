@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [什麼是開源（Open Source）與開源精神？](../notes/vzpxgXrlQrCWHa_TiqiRuA.md) | 2024-04-04T18:18:42+08:00 | 2019-09-30T21:19:04+08:00 |
-| 2 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-03-21T21:35:23+08:00 | 2018-08-30T15:19:57+08:00 |
+| 1 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-04-18T12:28:04+08:00 | 2018-08-30T15:19:57+08:00 |
+| 2 | [什麼是開源（Open Source）與開源精神？](../notes/vzpxgXrlQrCWHa_TiqiRuA.md) | 2024-04-04T18:18:42+08:00 | 2019-09-30T21:19:04+08:00 |
 | 3 | [與 g0v 社群參與者相關的影片、紀錄片拍攝](../notes/oImzjz2XTciqP3lnbwkgKw.md) | 2024-03-10T18:21:06+08:00 | 2019-12-07T02:56:51+08:00 |
 | 4 | [g0v 社群參與心得分享](../notes/VdmAs1YgRVWV4ixaXPCdpg.md) | 2024-03-09T01:27:37+08:00 | 2019-11-29T15:12:10+08:00 |
 | 5 | [以 g0v 為主題的學術研究Academic research on g0v](../notes/tpWNQTFvSOS_ZrSt2MiPWg.md) | 2024-02-05T17:44:39+08:00 | 2016-01-09T02:45:16+08:00 |

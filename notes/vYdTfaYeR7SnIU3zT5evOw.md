@@ -420,7 +420,7 @@ HackMD 的主機維護，感謝 Jacky 協助。
 - 2021 年感謝 Kirby 贊助 Flickr Pro 付費計畫。
 - 2022 揪松付費 Flickr Pro 計畫。
 - 2023 揪松付費 Flickr Pro 計畫。
-- 2024
+- 2024 年感謝 Ying 贊助 Flickr Pro 付費計畫。
 - 2025
 - 2026
 
