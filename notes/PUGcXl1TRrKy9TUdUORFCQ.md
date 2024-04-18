@@ -1,11 +1,8 @@
 ---
-title: "從資料看台北"
-tags: hackpad
+tags: GIS
 ---
 
-# 從資料看台北
-
-> [點此觀看原始內容](https://g0v.hackpad.tw/iAQIXPGNp4u)
+# 《台北原來如此》書籍內容開源化 / 資料集
 
 《台北原來如此》書籍內容開源化
 
@@ -31,7 +28,8 @@ tags: hackpad
 - 統計區
 08 氣候．夏熱，冬溼涼 044
 - 都市氣候圖？
-- 城市風場模擬 [https://g0v.hackpad.com/PwzLda7C3bV](https://g0v.hackpad.com/PwzLda7C3bV)
+- 城市風場模擬 
+    - https://g0v.hackmd.io/VwSu0iYRT9-wbVe53qj-dA
 09 都市發展．先西後東 050
 10 臺北「式」的商業空間 054
 11 文化軸道 064
@@ -115,7 +113,7 @@ tags: hackpad
 - 各類設施
 - 部會
 41 租屋議題
-- [https://g0v.hackpad.tw/x1M9qr6Syqw](https://g0v.hackpad.tw/x1M9qr6Syqw)
+- https://rentalhouse.g0v.ddio.io/
 42
 43
 
@@ -126,7 +124,6 @@ tags: hackpad
     - https://www.facebook.com/227519997334681/posts/1408189915934344/
 - 台北車站大迷宮
     - https://www.facebook.com/100000066795897/posts/2376926948986175/
-
 - 大巨蛋反光
     - https://www.facebook.com/119767/posts/10105229514847122/
 - 垃圾車到底為什麼要用《給愛麗絲》這首歌？
@@ -147,5 +144,6 @@ http://faculty.pccu.edu.tw/~zkx/rnbfmd.html
     - https://www.facebook.com/pts.viewpoint/posts/10158559942889276
 - 摘：捷運台北車站地下有個鳥頭人，被日人列入台北七大不可思議之一，其他六大到底是什麼呢？如果七大不可思議是由台灣人自己撰寫的當代怪談，又會是如何呢？於是我們開始蒐集有如台北犬之島、義莊葬儀社等等相關故事。
     - https://www.zeczec.com/projects/taitokchi
-
+- 超過 100 年的 綠屋頂 ! 自來水園區內的淨水池
+        - https://docs.google.com/presentation/d/1mhrHS0iFxxK8r5UL91G0PhS1pMWMEcftz3Q70N296oU/edit?fbclid=IwZXh0bgNhZW0CMTAAAR1TgQJxh-kJjS6nfEKup2Z62Gdy2kkDEnGj0cUy_Et79Nd0bqyDYgqcv7c_aem_ATKUilhTZ7dX5BCYO1OqRDWmswpYx7chOdyoMHT5jhiPP1BZBL2ADGQmag0ti3jAScbpcVr1UfSgT0vIt_7CZsRk#slide=id.g25ce6831a57_0_0
 

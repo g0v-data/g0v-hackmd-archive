@@ -2,7 +2,7 @@
 tags: GIS
 ---
 
-# 電影取景位置、繪畫取景位置、文本描述位置
+# 電影取景位置、繪畫取景位置、文本描述位置 / 再現
 
 蒐集
 - 島國拾影 Island Tapestry的相簿
@@ -30,6 +30,8 @@ tags: GIS
     - https://www.accupass.com/go/v823
 - 台北城南
     - https://www.facebook.com/agua.chou/posts/pfbid0UwLKPreX1UUHssg99wYJMv917Gw346MkqCSKwfb9hxcbx286BfhkZdUnnk1F72Afl
+- 台北市士林區中正路606號
+    - https://www.mirrormedia.mg/story/20200108insight001
 - 2022 洲美
     - https://www.shineseeker.tw/pages/zhoumei
 - 2023 基隆，八尺門的辯護人

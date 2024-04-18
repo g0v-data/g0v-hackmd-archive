@@ -42,19 +42,23 @@ Need
 ### 參考文獻
 
 風環境模擬研究論文
+- [2011-2020年夏季(6-9月)盛行風風向 (參考文獻：台北盆地的夏季風紋與溫度分佈初探，作者：石婉瑜、陳品瑜)](https://www.google.com/search?q=%E5%8F%B0%E5%8C%97%E7%9B%86%E5%9C%B0%E7%9A%84%E5%A4%8F%E5%AD%A3%E9%A2%A8%E7%B4%8B%E8%88%87%E6%BA%AB%E5%BA%A6%E5%88%86%E4%BD%88%E5%88%9D%E6%8E%A2&oq=%E5%8F%B0%E5%8C%97%E7%9B%86%E5%9C%B0%E7%9A%84%E5%A4%8F%E5%AD%A3%E9%A2%A8%E7%B4%8B%E8%88%87%E6%BA%AB%E5%BA%A6%E5%88%86%E4%BD%88%E5%88%9D%E6%8E%A2&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYPdIBBzQ3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
 - [大樓建築群開放空間風場環境之評估與檢討 以成長中地區為例](http://ir.lib.stu.edu.tw/ir/retrieve/11075/stu-101-s99735101-1.pdf)
 - [行人環境風場舒適度標準性評估與數值模擬可行性研究](http://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22097TKU05015019%22.&searchmode=basic)
 - [以數值方法模擬流經孔隙樹體風場之研究](http://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22102NCHU5015064%22.&searchmode=basic)
 - [行道樹綠化對都市風廊道之影響─以台南市東豐路、林森路為例](http://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22098NCKU5347032%22.&searchmode=basic)
 - [都市熱島退燒策略效益分析─以台北市民族西路周邊為例](http://www.airitilibrary.com/Publication/alDetailPrint?DocID=U0002-0102201210002800)
+
 模擬
 - 日照 [http://suncalc.net/](http://suncalc.net/)
 - [Guide for the TIMCOM Ocean Model](http://efdl.as.ntu.edu.tw/research/timcom/index.html)
 - Community Earth System Model (CESM)
 - Climate - Weather Research and Forecasting Model [http://cwrf.umd.edu/](http://cwrf.umd.edu/)
+
 城市氣候政策
 - 香港都市氣候規劃建議圖與設計策略 [http://goo.gl/g2Giuw](http://goo.gl/g2Giuw)
 - [新北市針對「風環境」進行都市設計](http://www.ettoday.net/news/20130829/263327.htm)
+
 都市樹木倒塌研究
 - 日本街路樹協會，近期在大安森林公園基金會，有技術交流
 專案
