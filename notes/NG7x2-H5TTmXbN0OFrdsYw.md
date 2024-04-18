@@ -2,7 +2,7 @@
 tags: edu
 ---
 
-# COSCUP 2024 學生 × 教育大亂門議程軌 Open Education & Student Track
+# COSCUP 2024 學生 × 教育大亂鬥議程軌 Open Education & Student Track
 
 :::info
 Co-organizing community: SITCON、GDSC、開放教育社群

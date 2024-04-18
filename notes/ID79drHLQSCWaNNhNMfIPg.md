@@ -11,4 +11,6 @@
 - 簡報筆
 - HDMI MediaPort 轉接頭
 - HDMI Type-C 轉接頭
-- Switch (應該可以解決以上問題)
+- HDMI/VGA signal Switch (應該可以解決以上問題)
+- 
+
