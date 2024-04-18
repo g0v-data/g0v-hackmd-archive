@@ -38,6 +38,15 @@ tags: 學術研究, cowork guideline, g0v, 開源協作手冊, 基礎建設,
 
 ## 2015
 
+
+### Scraping the global civic tech community on GitHub, part 2
+- by Stefan Baack
+- https://sbaack.com/posts/2015-11-19-scraping-the-global-civic-tech-community-on-github-part-2/
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b34579e004611ad6118a47116d9dfd3f.png)
+
+
+
 ### 阿宅的鍵盤革命 The Revolution of Hackers
 - 作者：陳貞樺
 - 關鍵詞：黑客；開放資料；開源精神；零時政府；群體協作

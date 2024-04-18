@@ -92,7 +92,6 @@ tags: summit2024
     - 剪刀（複數個）
     - 瓶裝水*2箱（預估）
     - 簽字筆（黑色粗體）
-    - 壓克力桌牌(for 講者)
 - [揪松團物資統計](/PpFHUj1bRuiluTQpLAuIeA)
     - COC 立牌（中英文都有）
 
