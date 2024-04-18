@@ -155,7 +155,8 @@ http://cpc.people.com.cn/BIG5/n1/2022/0811/c64387-32499836.html
         - 似乎關起來了？
 - FB 社團：影像情報分析IMINT https://www.facebook.com/groups/1039896299354539/
 - 中國地理圖資(行政區、DTM) https://www.facebook.com/groups/600385406707053/permalink/6028507193894820/
-- 平潭島、東山島、海流https://www.facebook.com/story.php?story_fbid=pfbid0XChNwVeU6TwjwtoPjdzjcrF2ivgK5kCxJQkQJHmn6Jma8B2XSSAHTkic2HHVnBXSl&id=100008337401408&mibextid=qC1gEa
+- 平潭島、東山島、海流 https://www.facebook.com/story.php?story_fbid=pfbid0XChNwVeU6TwjwtoPjdzjcrF2ivgK5kCxJQkQJHmn6Jma8B2XSSAHTkic2HHVnBXSl&id=100008337401408&mibextid=qC1gEa
+- https://pc.thread0.com/
 
 ### 中國民間輿論
 

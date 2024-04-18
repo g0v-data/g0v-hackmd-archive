@@ -30,6 +30,6 @@ https://www.wilsoncenter.org/event/economic-impact-engagement-taiwan-and-china
 https://gov.tw/EB8
 
 
-# 123
+## 皮猶民調背後的中台較勁
 摘自內文：簡言之，世界各國對於是否在中國攻打台灣時使用經濟制裁中國，基本上還是跟世界各國對於中國的態度有非常大的關係，而對台灣的態度的影響比較小。從統計來說（包括回歸模型分析），各國民眾對台灣無論是喜歡與否，在對於是否制裁中國的解釋力並不大。相較之下，各國民眾對於中國的看法，在解釋他們是否願意制裁中國上就有高達60%以上的解釋力。
 https://voicettank.org/%E7%9A%AE%E7%8C%B6%E6%B0%91%E8%AA%BF%E8%83%8C%E5%BE%8C%E7%9A%84%E4%B8%AD%E5%8F%B0%E8%BC%83%E5%8B%81/
