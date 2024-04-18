@@ -252,6 +252,9 @@ https://www.facebook.com/share/p/Km7DWQrAmJZuW53L/
 https://www.facebook.com/share/p/2fTWeVPwRaQ3R1vU/
 https://www.facebook.com/share/p/xRr41hghriP5Mnmp/
 
+政治大學周邊商圈現況，影片
+https://youtu.be/Qwmw0jWqtA0?si=A7F02VTm0x6uHJlO
+
 文山區參與式預算提案點
 https://pb.taipei/cp.aspx?n=2E567C53BBB9D0AE
 https://canet.civil.taipei/TP105-1/PartiBudget/index_111.html?town=zs

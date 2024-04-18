@@ -81,6 +81,7 @@ tags: 新生流域
     - 影片 01:55 台大鳥瞰https://youtu.be/fyXjkOdDHUQ
     - 1957-1958 影片 2:40、3:02、 https://youtu.be/D1-d3Pr8Teo
     - 1957 中山北路與新生北路與圓山，照片 0:52 秒 https://youtu.be/vZ9pms6ND2M
+    - 1959 空拍影片，有明顯的鐵道鐵軌 https://youtu.be/9i9Nr1WFmh4?si=6FC3bMSxs0eeAAp0&t=796
     - 基隆河圓山老照片 https://www.facebook.com/photo.php?fbid=255167153547365&set=a.186238740440207&type=3&mibextid=cr9u03
     - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577638452661/
     - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577631785995/

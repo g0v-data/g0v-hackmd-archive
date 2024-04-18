@@ -12,5 +12,5 @@
 - HDMI MediaPort 轉接頭
 - HDMI Type-C 轉接頭
 - HDMI/VGA signal Switch (應該可以解決以上問題)
-- 
+- 講台上的公用電腦(R0 R1 R2 RH 至少四台)
 
