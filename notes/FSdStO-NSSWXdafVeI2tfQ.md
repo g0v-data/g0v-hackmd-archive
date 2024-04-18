@@ -662,4 +662,13 @@ public class ScheduleDefinitionForBrowse<T, U>
 
 ![image](https://files.furthersoftware.com.tw/assets/Tourmap/重構/ticketDiscountRule.png)
 
-拆成兩個feature，
+合併兩張表，剩下ticketDiscountDefinition，欄位合併
+ticketBounsInfo轉換成ticketBounsRule
+
+#### Manager
+
+```c#
+public class TicketBonusGenericsManager<T, U>{
+
+}
+```
