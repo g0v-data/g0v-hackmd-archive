@@ -663,6 +663,8 @@ public class ScheduleDefinitionForBrowse<T, U>
 ![image](https://files.furthersoftware.com.tw/assets/Tourmap/重構/ticketDiscountRule.png)
 
 合併兩張表，剩下ticketDiscountDefinition，欄位合併
+ownerId改成CorrelationId
+要不要註冊CorrelationName在討論
 ticketBounsInfo轉換成ticketBounsRule
 
 #### Manager
