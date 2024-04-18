@@ -20,3 +20,6 @@ https://repaircafe.org/en/visit
 
 都蘭工具圖書館
 https://www.facebook.com/story.php?story_fbid=pfbid0gr2626zvcbXHocZdPPVwET8Aw1Kb6t1mR2gk1AW4wesJPp7MVMouCjPkgnGqNnvFl&id=100064202823220&mibextid=tejx2t
+
+北高雄社大
+https://www.facebook.com/nkcu2019/posts/pfbid04s7aSoQtLTfKgYQMAFWwi8vy7mnNPBSiidgRdNCi9iQHV3YrURvMjUG7wAtajkkhl

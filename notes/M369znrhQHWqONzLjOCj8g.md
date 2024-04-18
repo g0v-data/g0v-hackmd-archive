@@ -377,6 +377,15 @@ https://docs.google.com/presentation/d/1rJBbNrMqwZ4zNmLKl5d7wymVaTraKaBV5juR6PML
 - 分析比較不同國家平均每人每日食品廢棄物之產生量，約為 0.296-0.964 公 斤，其中瑞典人產出最少，而法國人產出最多。而其中家庭廚餘之每人每日 產出量為 0.029-0.663 公斤，其中瑞典人產出最少，而法國人產出最多。
 - 本研究發現台北市每人每日家庭廚餘產生量為 0.157 公斤，略少於日本（0.230 公斤）與德國（0.224 公斤）。
 
+## 水綠環境
+
+指南溪護岸改造
+https://heo.gov.taipei/cp.aspx?n=165C129DDE416166
+
+水利處目前針對 新店溪與景美溪匯流口推動方案
+https://heo.gov.taipei/News_Content.aspx?n=1C35353E4DE6D317&sms=59AD6E6606F6002F&s=4E07DFE2483A75C1
+https://www.geo.gov.taipei/News_Content.aspx?n=1C2986DF71D12359&sms=59AD6E6606F6002F&s=ABE1067A729466B3
+
 ## 文山區萬和里情境
 
 萬和里 參考

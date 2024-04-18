@@ -123,6 +123,10 @@ H --> I
 
 針對人工流程 3.2 ，想要使用關鍵字搜尋 + LLM ，讀出可能的數值，以作為群眾外包、事後驗證的基礎資料。
 
+參考計畫
+- [國際清算銀行(Bank of International Settlement)的蓋婭(GAIA)計畫 Project Gaia: Enabling climate risk analysis using generative AI](https://www.bis.org/about/bisih/topics/suptech_regtech/gaia.htm)，[討論串](https://www.facebook.com/veritaswan/posts/pfbid02CrGn1rhpHFGHS8pR8KGKSdvS2c8VG2QvFQ9ymuWvva5Ly23zy9uCERCY37t6DVRcl?locale=zh_TW)
+
+
 ## 🧑‍🏭 想要找的人
 
 1. UX / 服務設計 - 流程改善專家，協助調整人工判讀流程
