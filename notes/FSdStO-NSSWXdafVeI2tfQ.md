@@ -367,3 +367,171 @@ public class CampingAreaFullCamping
 }
 ```
 
+### CampingOrder
+
+![image](https://files.furthersoftware.com.tw/assets/Tourmap/重構/campingOrder.png)
+
+#### Manager
+
+```c#
+CampingOrderManager //基本方法補上check和set
+
+CampingOrderLineManager //基本方法補上check和set
+```
+
+#### Repository
+
+```c#
+ICampingOrderRepository //目前沒有新增任何額外方法，不用調整
+
+ICampingOrderLineRepository //目前沒有新增任何額外方法，不用調整
+```
+
+### Camping
+
+![image](https://files.furthersoftware.com.tw/assets/Tourmap/重構/camping.png)
+
+
+#### Manager
+
+```c#
+//基本方法補上check和set
+public class CampingManager{
+    //TODO 內部改用原本方法，但Assert不變
+    Task<Camping> CreateCampingAndAssetAsync(
+            Guid campingAreaId,
+            string assetName,
+            EasyAbp.BookingService.AssetSchedules.PeriodUsable defaultUsable,
+            string description,
+            int? addPeopleLimit = null,
+            int? addPeoplePrice = null,
+            int? index = null
+            );
+            
+    //TODO 改用原本方法，Asset用event同步名稱
+    Task<Camping> UpdateCampingAndAssetAsync(Guid id,
+                                             Guid campingAreaId,
+                                             string displayName,
+                                             int? addPeopleLimit,
+                                             int? addPeoplePrice,
+                                             EasyAbp.BookingService.AssetSchedules.PeriodUsable defaultUsable,
+                                             string description,
+                                             int index);
+    //不變                                             
+    Task DeleteCampingAndAssetAsync(Guid id);
+    
+    //目前沒用到，待破棄
+    Task<List<EasyAbp.BookingService.Assets.Asset>> ListAssetCategoryChildrenAssetsAsync(
+            string productGroupName);
+            
+    //目前沒用到，待破棄
+    Task<bool> SearchCampingIsAvailableBookingPeriodAsync(
+            Guid assetId, Guid? periodSchemeId, DateTime currentDateTime, DateTime targetDate)
+            
+    /// <summary>
+    /// 對camping做排序
+    /// </summary>
+    /// <param name="input">要做排序的Camping</param>
+    /// <param name="prevIndex">原先位置</param>
+    /// <param name="nextIndex">新位置</param>
+    /// <returns></returns>
+    List<Camping> SortCampingsIndex(List<Camping> input, int prevIndex, int nextIndex);
+    
+    //將camping做重新排序，目前是刪除為了保持整齊重新排序用，可能有更好的做法
+    List<Camping> ResetCampingIndex(List<Camping> input);
+    
+    //TODO 調整名字成AttachmentImage
+    Task<Camping> UploadImgAsync(Camping camping, Volo.Abp.Content.IRemoteStreamContent inputStream);
+    
+    //TODO 調整名字成AttachmentImage
+    Task<Camping> DeleteImgAsync(Camping camping, Guid mediaId);
+    
+    //TODO 調整名字成AttachmentImage
+    Task<Camping> DeleteAllImgAsync(Camping camping);
+    
+    //目前沒用到，待破棄
+    Task<bool> CampingCanOccupyAsync(EasyAbp.BookingService.AssetCategories.AssetCategory assetCategory, Guid? periodSchemeId,
+            DateTime targetTime, int volumn)
+}
+```
+
+#### Repository
+
+```c#
+public interface ICampingRepository{
+    //TODO待破棄，改用原先方法
+    Task<Aggregates.CampingAggregate> GetFixWithNavigationPropertiesAsync(Guid id, CancellationToken cancellationToken = default);
+    
+    //TODO待破棄，改用原先方法
+    Task<List<Aggregates.CampingAggregate>> GetFixListWithNavigationPropertiesAsync(
+    ISpecification<Aggregates.CampingAggregate>? specification = null,
+    string? sorting = null,
+    int maxResultCount = int.MaxValue,
+    int skipCount = 0,
+    CancellationToken cancellationToken = default);
+    
+    //TODO待破棄，改用原先方法
+    Task<long> GetFixCountWithNavigationPropertiesAsync(
+    ISpecification<Aggregates.CampingAggregate> specification,
+    CancellationToken cancellationToken = default);
+    
+    //Query之後會變擴充方法，待破棄
+    Task<System.Linq.IQueryable<Aggregates.CampingAggregate>> GetQueryFixForNavigationPropertiesAsync();
+    
+    //TODO 目前沒有用到，待破棄
+    Task<Aggregates.CampingDetail> GetSkuDetailAsync(Guid id, CancellationToken cancellationToken = default);
+    
+    //TODO 目前沒有用到，待破棄
+    Task<List<Aggregates.CampingDetail>> GetListSkuDetailAsync(
+    ISpecification<Aggregates.CampingDetail>? specification = null,
+    string? sorting = null,
+    int maxResultCount = int.MaxValue,
+    int skipCount = 0,
+    CancellationToken cancellationToken = default);
+
+    //TODO 目前沒有用到，待破棄
+    Task<long> GetCountSkuDetailAsync(
+    ISpecification<Aggregates.CampingDetail> specification,
+    CancellationToken cancellationToken = default);
+}
+```
+
+#### Event
+
+```c#
+//目前會當CampingArea刪除時Camping會跟著刪除
+ILocalEventHandler<EntityDeletedEventData<CampingArea>>
+```
+
+#### Aggregates
+
+```c#
+//TODO目前沒用到，待破棄
+public class CampingDetail
+{
+    /// <summary>
+    /// 營位
+    /// </summary>
+    public Campings.Camping Camping { get; set; } = null!;
+
+    /// <summary>
+    /// 圖片
+    /// </summary>
+    public List<MediaDescriptor> CampingImages { get; set; } = new();
+}
+
+//TODO目前沒用到，待破棄
+public class CampingIsAvalible
+{
+    public bool IsAvalible { get; set; }
+    public Camping Camping { get; set; } = null!;
+}
+```
+
+### IntervalPeriodSchemes(破棄)
+
+刪除遺留的綠色類別
+
+### Schedule
+
+![image](https://files.furthersoftware.com.tw/assets/Tourmap/重構/schedule.png)
