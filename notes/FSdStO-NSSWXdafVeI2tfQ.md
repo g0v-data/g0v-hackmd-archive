@@ -658,6 +658,8 @@ public class ScheduleDefinitionForBrowse<T, U>
 
 ## Discount
 
-### TicketDsicountRule
+### Ticket
 
 ![image](https://files.furthersoftware.com.tw/assets/Tourmap/重構/ticketDiscountRule.png)
+
+拆成兩個feature，
