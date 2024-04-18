@@ -17,7 +17,7 @@ g0v github 社群規範討論　
 * admin 都有權限可以砍光光所有 repositories (也可以順便把其他人都踢出 admin)
 * members 都有權限可以在 g0v.tw 首頁塞入任何東西，跟在上面專案塞入任何有害程式碼
 * 但也因為自由度很高，**g0v 是在 github 上世界前三大的 civic tech 社群**
-    * https://www.ithome.com.tw/news/106629
+    * 來源：https://g0v.hackmd.io/LthuyoH4RkW4Wj5mhY2W2g?view
 
 可能作法
 -------
@@ -37,9 +37,18 @@ g0v github 社群規範討論　
 規範草案 (討論中)
 -------
 
-- Owner
-
+GitHub 權限角色 
+- Admin
 - Member
+
+g0v GitHub 治理機制角色
+- 提議者 Suggester
+    - 不需有系統權限
+- 開發者 Developer
+    - 不需有系統權限
+- 審核者 Reviewer
+    - 此角色需有系統權限 (Admin, Member)，並主動表示有意願擔任
+
 
 歷次討論進度
 ------
