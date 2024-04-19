@@ -702,6 +702,115 @@ public class TicketBonusGenericsManager<T, U>{
 
 ```c#
 public class TicketDiscountGenericsManager<T, U>{
+    //TODO改用原本的create
+    Task<T> CreateAsync(Guid ownerId, Tourmap.Discount.Tickets.GuaranteeFeeParams guaranteeFeeParams, int pripority, bool? enable = true, Guid? tenantId = null);
+    
+    //TODO改用原本的update
+    Task<T> UpdateAsync(Guid ownerId, int? pripority = null, Tourmap.Discount.Tickets.GuaranteeFeeParams? guaranteeFeeParams = null, bool? enable = null, Guid? tenantId = null);
+}
+```
 
+#### Provider
+
+```c#
+//外部使用的票卷計算參數
+public class TicketCalculateInput
+{
+    public string TicketNo { get; set; } = null!;
+    public decimal TicketAmount { get; set; }
+    public bool IsUntcTicket { get; set; }
+    public string UTicketProd { get; set; } = null!;
+}
+
+//回傳計算結果
+public class DiscountCalculateInfo
+{
+    public bool Enable { get; set; } //移除無用屬性
+    public decimal GuaranteeFee { get; set; } //保證金
+    public decimal Bouns { get; set; } //加碼金額
+    public decimal TicketAmount { get; set; } //票卷金額
+    public decimal DiscountAmount => this.TicketAmount + this.Bouns; //折扣金額
+    public decimal ActuallyPayAmount { get; set; } //實際支付金額
+}
+
+public interface ITicketDiscountCalculateProvider
+{
+    /// <summary>
+    /// 計算該筆票卷折價後為多少
+    /// </summary>
+    /// <param name="ownerId">可代多比取優先度最高做計算</param>
+    /// <param name="productPrice">商品價格</param>
+    /// <param name="input">票卷參數</param>
+    Task<DiscountCalculateInfo> DiscountCalculateAsync(List<Guid> ownerIds, decimal productPrice, TicketCalculateInput input);
+
+    //TODO移除該方法
+    DiscountCalculateInfo DiscountCalculateAsync(decimal productPrice, decimal ticketAmount, bool enable, GuaranteeFeeParams guaranteeFeeParams, decimal bonus);
+
+    /// <summary>
+    /// 計算加碼金額
+    /// </summary>
+    /// <param name="ownerIds">可代多比取優先度最高做計算</param>
+    /// <param name="input">票卷參數</param>
+    Task<decimal> BonusCalculateAsync(List<Guid> ownerIds, TicketCalculateInput input);
+
+    //TODO移除該方法
+    decimal? BonusInfoCalculateAsync(IEnumerable<TicketBonusInfo> ticketBonusInfos, TicketCalculateInput input);
+}
+```
+
+#### Repository
+
+```c#
+//TODO拔掉泛型
+public interface ITicketDiscountBaseGenericsRepository<T,U>{
+    //TODO搬到原本方法
+    Task<T?> FindByOwnerIdAsync(Guid ownerId, CancellationToken cancellationToken = default);
+//TODO搬到原本方法
+Task<T> GetByOwnerIdAsync(Guid ownerId, CancellationToken cancellationToken = default);
+
+    //TODO待破棄
+    Task<Aggregates.TicketDiscountForBrowse<T, U>> GetForViewAsync(Guid id, CancellationToken cancellationToken = default);
+    //TODO待破棄
+    Task<Aggregates.TicketDiscountForBrowse<T, U>?> FindByOwnerIdForViewAsync(Guid ownerId, CancellationToken cancellationToken = default);
+    //TODO待破棄
+    Task<Aggregates.TicketDiscountForBrowse<T, U>> GetByOwnerIdForViewAsync(Guid ownerId, CancellationToken cancellationToken = default);
+    //TODO待破棄
+    Task<List<Aggregates.TicketDiscountForBrowse<T, U>>> GetListForViewAsync(
+    ISpecification<Aggregates.TicketDiscountForBrowse<T, U>>? specification = null,
+    string? sorting = null,
+    int maxResultCount = int.MaxValue,
+    int skipCount = 0,
+    CancellationToken cancellationToken = default);
+    //TODO待破棄
+    Task<long> GetCountForViewAsync(
+    ISpecification<Aggregates.TicketDiscountForBrowse<T, U>> specification,
+    CancellationToken cancellationToken = default);
+}
+```
+
+```c#
+//TODO拔掉泛型
+public interface ITicketBonusBaseGenericsRepository<T,U>{
+    //TODO搬到原本方法
+    Task<T?> FindByOwnerIdAsync(Guid ownerId, CancellationToken cancellationToken = default);
+    //TODO搬到原本方法
+    Task<T> GetByOwnerIdAsync(Guid ownerId, CancellationToken cancellationToken = default);
+    //TODO待破棄
+    Task<Aggregates.TicketBonusForBrowse<T, U>> GetForViewAsync(Guid id, CancellationToken cancellationToken = default);
+    //TODO待破棄
+    Task<Aggregates.TicketBonusForBrowse<T, U>?> FindByOwnerIdForViewAsync(Guid ownerId, CancellationToken cancellationToken = default);
+    //TODO待破棄
+    Task<Aggregates.TicketBonusForBrowse<T, U>> GetByOwnerIdForViewAsync(Guid ownerId, CancellationToken cancellationToken = default);
+    //TODO待破棄
+    Task<List<Aggregates.TicketBonusForBrowse<T, U>>> GetListForViewAsync(
+    ISpecification<Aggregates.TicketBonusForBrowse<T, U>>? specification = null,
+    string? sorting = null,
+    int maxResultCount = int.MaxValue,
+    int skipCount = 0,
+    CancellationToken cancellationToken = default);
+    //TODO待破棄
+    Task<long> GetCountForViewAsync(
+    ISpecification<Aggregates.TicketBonusForBrowse<T, U>> specification,
+    CancellationToken cancellationToken = default);
 }
 ```
