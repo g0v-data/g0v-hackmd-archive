@@ -14,41 +14,31 @@ tags: summit2024
 
 
 ## 目前人員(以及若願意提供器材資訊):
-- Oliver (組長，Slack ID: OliverL.，可以在Slack上跟我聯絡~)
-    - 設備: Canon EOS R10 (RF-S18-150mm f/3.5-6.3 IS STM) 
-- Sherry (5/4一天)
-- Kailan
-- YellowSoar (議程組為主)
-- White Cat (議程組為主)（議程組這邊的工作結束了，接下來可以以紀錄組為主） (會修圖)
-- RAYEN (議程組為主)
-- Janice (再跟Peter確認是否為議程組?)
-- YC(提供設備，但無法支援拍攝)
-    - 設備： [Canon EOS M50 Mark II (EF-M15-45mm f/3.5-6.3 IS STM & EF-M55-200mm f/4.5-6.3 IS STM)](https://tw.canon/zh_TW/consumer/eos-m50-mark-ii-ef-m15-45mm-f-3-5-6-3-is-stm-amp-ef-m55-200mm-f-4-5-6-3-is-stm/product?category=photography&subCategory=compact-slr)
 
-#### 整理一下
-
-| name       | SlackID     | 設備                                                                                                                                                                                                                                                        | 修圖            | 備註               |
-| ---------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------ |
-| Oliver | OliverL. | Canon EOS R10 (RF-S18-150mm f/3.5-6.3 IS STM) | X | 組長 |
-| 小0 | 筱翎 Sherry | ---- | ---- | 5/4 一天 |
-| Kailan | Kailan | ---- | ---- | ---- |
-| 白貓 | White Cat |[Nikon D5600] | O | 感謝! |
-| Janice Hu | Janice Hu | Fujifilm XT4(XF18-55) | ---- | ---- |
-| 圍棋 | ---- | ---- | O(但只有基本的) | ---- |
+| name | SlackID | 設備 | 拍攝修圖閃燈 | 備註 | 已確認 |
+| ---- | ---- | ---- | ---- | ---- | ----| ---- |
+| Oliver | OliverL. | Canon EOS R10 (RF-S18-150mm f/3.5-6.3 IS STM) | 拍攝大松、無修圖、無閃燈 | 組長 | O |
+| 小0 | 筱翎 Sherry | ---- | ---- | 5/4 一天 | ---- |
+| Kailan | Kailan | ---- | ----  | ---- | ---- |
+| 白貓 | White Cat | Nikon D5600  | 拍攝年會、高階修圖、基本閃燈 | 3,4,5。感謝! | O |
+| Janice Hu | Janice Hu | Fujifilm XT4 (XF18-55) | 拍攝年會、無修圖、無閃燈 | 4,5 | O |
+| 圍棋 | ---- | 無 | O(但只有基本的) | ---- |
 | 77 | qiqi77 | ---- |O (基本修圖可) | ---- |
-| 黃楷越 | ---- | ---- | ---- | ---- |
-| 海豹 | 海豹 | Sony A7M4*2 Tamron20-40 F2.8 Di III VXD Tamron35-150 F2-2.8 Di III VXD| ---- | ---- |
+| 黃楷越 | ---- | ---- | O (基本修圖可) | ---- |
+| 海豹 | 海豹 | Sony A7M4 * 2 Tamron20-40 F2.8 Di III VXD Tamron35-150 F2-2.8 Di III VXD| ---- | ---- |
 | 柴犬 | shibasalmon | [Nikon D750 ] | ---- | ---- |
 | Gavin | ---- |  Nikon Z6II (24-120 F4 S) | ---- | ---- |
 | 月太 | moontai0724 | ---- | ---- | ---- |
-| Michael_LI | Michael_LI | ---- | ---- | ---- |
+| MichaelLI | MichaelLI | ---- | ---- | ---- |
 | 小群 | littlechin | Nikon Z6, Z 24-70 f4, F 28-300 F3.5-5.6 | O | ---- |
 ||
 |  |  | 以下組外協助 |  |  |
 ||
-| YC | YC (Yichun) | [Canon EOS M50 Mark II (EF-M15-45mm f/3.5-6.3 IS STM & EF-M55-200mm f/4.5-6.3 IS STM)](https://tw.canon/zh_TW/consumer/eos-m50-mark-ii-ef-m15-45mm-f-3-5-6-3-is-stm-amp-ef-m55-200mm-f-4-5-6-3-is-stm/product?category=photography&subCategory=compact-slr) | ---- | 宣傳組，可提供設備 |
+| YC | YC (Yichun) | [Canon EOS M50 Mark II (EF-M15-45mm f/3.5-6.3 IS STM & EF-M55-200mm f/4.5-6.3 IS STM)](https://tw.canon/zhTW/consumer/eos-m50-mark-ii-ef-m15-45mm-f-3-5-6-3-is-stm-amp-ef-m55-200mm-f-4-5-6-3-is-stm/product?category=photography&subCategory=compact-slr) | ---- | 宣傳組，可提供設備 |
 | yellowsoar | yellowsoar | ---- | ---- | 議程組為主 | 
 | RAYEN | RAYEN | ---- | ---- | 議程組為主 |
+| 大助 | 
+
 
 
 
