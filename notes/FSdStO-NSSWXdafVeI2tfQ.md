@@ -672,5 +672,36 @@ ticketBounsInfo轉換成ticketBounsRule
 ```c#
 public class TicketBonusGenericsManager<T, U>{
 
+    //TODO改用原本的create
+    Task<T> CreateAsync(Guid ownerId, int pripority, int bonusRadio, Guid? tenantId = null);
+    
+    //TODO改用原本的update
+    Task<T> UpdateAsync(Guid ownerId, int? pripority = null, int? bonusRadio = null, decimal? bonusAmount = null, Guid? tenantId = null);
+    
+    //搬到原本的manager
+    AddBonusInfoAsync(Guid ownerId, int pripority, string? startWithTicketNo = null,
+    decimal? amount = null, bool isUntcTicket = false, string uTicketProd = "",
+    string remark = "", decimal? bonusAmount = null, int? bonusRadio = null, Guid? tenantId = null, bool autoSave = false);
+    
+    //搬到原本的manager
+    Task<T> UpdateBonusInfoAsync(Guid ownerId, Guid bonusInfoId, int? pripority = null, string? startWithTicketNo = null,
+    decimal? amount = null, bool? isUntcTicket = null, string? uTicketProd = null,
+    string? remark = null, decimal? bonusAmount = null, int? bonusRadio = null, Guid? tenantId = null, bool autoSave = false);
+    
+    //搬到原本的manager
+    Task<T> DeleteBonusInfoAsync(Guid ownerId, Guid bonusInfoId, bool autoSave = false);
+    
+    //搬到原本的manager
+    Task<T> RemoveAllBonusInfoAsync(Guid ownerId, bool autoSave = false);
+    
+    //搬到原本的manager
+    Task<T> MoveTicketBonusInfoPriporityAsync(Guid ownerId,int prePripority,int nextPripority,bool autoSave = false);
+}
+```
+
+
+```c#
+public class TicketDiscountGenericsManager<T, U>{
+
 }
 ```
