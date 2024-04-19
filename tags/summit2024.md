@@ -2,25 +2,25 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [行前通知](../notes/-h8Xh-j8SWuhRWVmc8Muew.md) | 2024-04-19T21:55:37+08:00 | 2024-04-19T21:37:29+08:00 |
-| 2 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-04-19T20:45:47+08:00 | 2023-11-03T20:10:41+08:00 |
-| 3 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-19T14:24:54+08:00 | 2024-04-09T15:38:54+08:00 |
-| 4 | [g0v Summit 2024 小組合照時間登記](../notes/fxgCRwFMQAu9v93rf1GbGg.md) | 2024-04-19T14:13:05+08:00 | 2024-04-19T13:35:30+08:00 |
-| 5 | [g0v Summit 2024 攝影需求統計](../notes/MMKYZhSzQ2iIyhH7MPY-xQ.md) | 2024-04-19T14:05:24+08:00 | 2024-04-19T08:30:43+08:00 |
-| 6 | [場務助理](../notes/yheBZPRvSpmGXfsQ1AUkGA.md) | 2024-04-19T12:18:48+08:00 | 2024-04-09T13:31:01+08:00 |
-| 7 | [g0v Summit 2024 直播錄影技術細節提醒](../notes/nCHWJ35ORM6cz5mf3QZF-w.md) | 2024-04-19T11:55:23+08:00 | 2024-04-19T09:03:25+08:00 |
-| 8 | [20240416會議](../notes/cGrcA9q4RSmnht6EA1ZbWw.md) | 2024-04-18T19:39:59+08:00 | 2024-04-15T21:57:56+08:00 |
-| 9 | [Summit 2024 登記預算與請款辦法](../notes/BneF56PWQxms79e_LfQnpw.md) | 2024-04-18T18:19:02+08:00 | 2023-12-26T21:17:53+08:00 |
-| 10 | [主持人](../notes/uY0OBQe8QSOIRnYLzixDeg.md) | 2024-04-16T22:33:21+08:00 | 2024-01-06T15:36:08+08:00 |
-| 11 | [20240409會議](../notes/4PH5c7L4SnqItdagbpRbHw.md) | 2024-04-15T21:58:43+08:00 | 2024-04-08T18:22:04+08:00 |
-| 12 | [20240413 宣傳放輕松討論](../notes/g9nCr-PITjiHKZeFTYu_ZA.md) | 2024-04-14T00:26:54+08:00 | 2024-04-13T13:40:19+08:00 |
-| 13 | [在數位威權時代保護數位人權 – Access Now – g0v Summit 2024 焦點議程](../notes/oTzW4X4kTO25IWqiE_ylNw.md) | 2024-04-13T23:32:59+08:00 | 2024-02-27T22:14:15+08:00 |
-| 14 | [公告區 Annoncement](../notes/tuKaU2PnRM-n8gS2slf6sg.md) | 2024-04-13T19:14:14+08:00 | 2024-04-13T15:55:16+08:00 |
-| 15 | [基調演講「沒有人」在「前線」- 劉致昕 Keynote Speech: Nobody in the Frontline](../notes/nm5pRpl1Qk-Caf-AZTY81w.md) | 2024-04-13T19:11:49+08:00 | 2024-04-13T16:01:08+08:00 |
-| 16 | [Untitled](../notes/8TnjknoxQX6cJTu5da0GNg.md) | 2024-04-13T19:09:26+08:00 | 2024-04-13T19:08:45+08:00 |
-| 17 | [講者報告](../notes/2ZBOWbW6SyGIy3DwGlomhg.md) | 2024-04-13T14:53:15+08:00 | 2024-04-13T14:41:01+08:00 |
-| 18 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-13T10:39:03+08:00 | 2023-12-09T12:53:41+08:00 |
-| 19 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】(草稿)](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-04-12T23:28:14+08:00 | 2024-04-11T20:55:35+08:00 |
+| 1 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】(草稿)](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-04-19T22:47:43+08:00 | 2024-04-11T20:55:35+08:00 |
+| 2 | [行前通知](../notes/-h8Xh-j8SWuhRWVmc8Muew.md) | 2024-04-19T22:03:52+08:00 | 2024-04-19T21:37:29+08:00 |
+| 3 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-04-19T20:45:47+08:00 | 2023-11-03T20:10:41+08:00 |
+| 4 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-19T14:24:54+08:00 | 2024-04-09T15:38:54+08:00 |
+| 5 | [g0v Summit 2024 小組合照時間登記](../notes/fxgCRwFMQAu9v93rf1GbGg.md) | 2024-04-19T14:13:05+08:00 | 2024-04-19T13:35:30+08:00 |
+| 6 | [g0v Summit 2024 攝影需求統計](../notes/MMKYZhSzQ2iIyhH7MPY-xQ.md) | 2024-04-19T14:05:24+08:00 | 2024-04-19T08:30:43+08:00 |
+| 7 | [場務助理](../notes/yheBZPRvSpmGXfsQ1AUkGA.md) | 2024-04-19T12:18:48+08:00 | 2024-04-09T13:31:01+08:00 |
+| 8 | [g0v Summit 2024 直播錄影技術細節提醒](../notes/nCHWJ35ORM6cz5mf3QZF-w.md) | 2024-04-19T11:55:23+08:00 | 2024-04-19T09:03:25+08:00 |
+| 9 | [20240416會議](../notes/cGrcA9q4RSmnht6EA1ZbWw.md) | 2024-04-18T19:39:59+08:00 | 2024-04-15T21:57:56+08:00 |
+| 10 | [Summit 2024 登記預算與請款辦法](../notes/BneF56PWQxms79e_LfQnpw.md) | 2024-04-18T18:19:02+08:00 | 2023-12-26T21:17:53+08:00 |
+| 11 | [主持人](../notes/uY0OBQe8QSOIRnYLzixDeg.md) | 2024-04-16T22:33:21+08:00 | 2024-01-06T15:36:08+08:00 |
+| 12 | [20240409會議](../notes/4PH5c7L4SnqItdagbpRbHw.md) | 2024-04-15T21:58:43+08:00 | 2024-04-08T18:22:04+08:00 |
+| 13 | [20240413 宣傳放輕松討論](../notes/g9nCr-PITjiHKZeFTYu_ZA.md) | 2024-04-14T00:26:54+08:00 | 2024-04-13T13:40:19+08:00 |
+| 14 | [在數位威權時代保護數位人權 – Access Now – g0v Summit 2024 焦點議程](../notes/oTzW4X4kTO25IWqiE_ylNw.md) | 2024-04-13T23:32:59+08:00 | 2024-02-27T22:14:15+08:00 |
+| 15 | [公告區 Annoncement](../notes/tuKaU2PnRM-n8gS2slf6sg.md) | 2024-04-13T19:14:14+08:00 | 2024-04-13T15:55:16+08:00 |
+| 16 | [基調演講「沒有人」在「前線」- 劉致昕 Keynote Speech: Nobody in the Frontline](../notes/nm5pRpl1Qk-Caf-AZTY81w.md) | 2024-04-13T19:11:49+08:00 | 2024-04-13T16:01:08+08:00 |
+| 17 | [Untitled](../notes/8TnjknoxQX6cJTu5da0GNg.md) | 2024-04-13T19:09:26+08:00 | 2024-04-13T19:08:45+08:00 |
+| 18 | [講者報告](../notes/2ZBOWbW6SyGIy3DwGlomhg.md) | 2024-04-13T14:53:15+08:00 | 2024-04-13T14:41:01+08:00 |
+| 19 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-13T10:39:03+08:00 | 2023-12-09T12:53:41+08:00 |
 | 20 | [翻譯志工 / 服務 / UD Talk](../notes/CKbb2nAtTBijqOM5jcEqZg.md) | 2024-04-12T08:48:37+08:00 | 2024-03-05T23:15:39+08:00 |
 | 21 | [數位韌性：斷網怎麼辦？ – g0v Summit 2024 社群軌](../notes/z6rTXmFLSxyDpBRo0E1mtw.md) | 2024-04-08T18:17:20+08:00 | 2023-08-26T11:19:06+08:00 |
 | 22 | [基調座談 – 全球民主倒退中的東亞公民科技社群：台、日、韓三國對話](../notes/1s4iT1NQTluytpHMPa2cNQ.md) | 2024-04-03T13:25:49+08:00 | 2024-03-26T08:18:26+08:00 |

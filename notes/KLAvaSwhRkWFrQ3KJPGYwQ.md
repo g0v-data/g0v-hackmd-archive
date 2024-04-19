@@ -3,7 +3,7 @@ tags: summit2024
 ---
 # 新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】(草稿)
 
-> 最後更新 2024/04/11 21:00 [name=YC]
+> 最後更新 2024/04/19 22:00 [name=YC]
 
 
 原則：g0v Summit 2024 歡迎新聞媒體自由採訪
@@ -49,15 +49,14 @@ https://summit.g0v.tw/2024
 * 大會識別證限本人使用，請妥善保管，配戴即可自由進出大會。
 * 會場內，歡迎自由採訪，但需取得受訪者明確同意，並且注意尊重配戴「**紅色頸繩**」的會眾，不要拍照、錄影。
 * 大會及相關活動期間，請詳閱並確實遵守大會社群準則 https://summit.g0v.tw/2024/coc/
-* 受場地空間限制，本次大會並無規劃訪問專用場地，敬請見諒。
+* 本次大會規劃 2 樓沙發區供媒體訪問使用。然因其為開放空間且當天場館外可能有工程進行，若有不便，敬請見諒。
 
 - Media reception will be available at the registration of the venue on 4th (Sat.) 09:00－17:30 and 5th (Sun.)09:00－17:00; the line is separated from the general registration for your convenience.
 - Journalists may exchange their media organization business card for a free badge.
 - The exchanged badge automatically admits you to the conference venue and is solely intended to be worn by you. Please make sure it’s in your possession at all times.
 - You’re free to interview in the venue as long as the interviewee explicitly agreed to. Participants with **red lanyards** are NOT to be photographed or video recorded.
 - Please carefully read and follow the conference [Code of Conduct](https://summit.g0v.tw/2024/coc/) throughout the event. 
-- Due to venue limitations, we apologize for the unavailability of dedicated space for media interviews.
-
+- A designated sofa area on the 2nd floor is arranged for media interviews. However, please note that as it is an open space and there may be construction outside the venue during Summit, we apologize for any inconvenience this may cause.
 
 ## 遠端參與 / Remote Participation
 
