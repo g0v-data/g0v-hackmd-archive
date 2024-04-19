@@ -21,7 +21,7 @@ Let's try it out!
 Apply different styling to this paragraph:
 **HackMD gets everyone on the same page with Markdown.** ==Real-time collaborate on any documentation in markdown.== Capture fleeting ideas and formalize tribal knowledge.
 
-- [x] **Bold**
+- [ ] **Bold**
 - [ ] *Italic*
 - [ ] Super^script^
 - [ ] Sub~script~
