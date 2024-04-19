@@ -277,6 +277,9 @@ https://canopi.tw/esgcase/
 
 ## 綠運具
 
+郭佩棻 副教授 （國立成功大學測量及空間資訊學系）講題：多時空角度的交通需求預測（multi-scale spatio-temporal prediction of transportation demand）
+https://www.facebook.com/asgis/posts/pfbid0vMozr8NjTgLcQixJSiDg4FLFFn1hTpNAwzZpUL1sEDMDTjVJg6yS6z9i6kBTJMkUl
+
 深坑輕軌
 https://www.dorts.ntpc.gov.tw/news/conventionInfo/MVamXM4l28rj?page=1
 
