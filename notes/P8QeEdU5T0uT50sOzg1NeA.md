@@ -918,3 +918,23 @@ Opass 教學
       ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a9ed97fc16c295b602bb5c16ac2a66d7.png)
       :::
 - 待統計衣服尺寸
+
+## 20240419 第二十二次會議紀錄
+> 時間：2024/04/19（五） 10:00 PM
+> 地點：線上
+> 出席：Dong、小侯、YC、阿敏、、、、、、、
+
+### 場佈設計
+相關資料：[場佈送印 - Google 雲端硬碟](https://drive.google.com/drive/folders/1jTVjVxYHJPUQWZ00-RFv7DK_F1byu3U5)、[場佈送印統計資料 - Google 試算表](https://docs.google.com/spreadsheets/d/1DHaiLlxSK9zitbzaQMDUhK7gTdYJ8Nl-SR5NdQiJ0nc/edit#gid=0)
+
+目前已完成：
+- 議程表
+- 
+
+### 識別證（Badge）
+
+
+
+### 地圖
+
+### 貼紙
