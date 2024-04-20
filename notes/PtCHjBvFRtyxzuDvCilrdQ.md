@@ -110,7 +110,14 @@ tags: summit2024
     - 攤商
 
 ## 需要拍到的東西
-> 感謝RS提醒!
+
+### v1 結合v0及大助的建議
+
+
+
+### v0 
+:::spoiler 需要拍到的東西v0 
+> 感謝RS及白貓提醒!
 
 - 活動重要時刻（報到、開場、午餐、點心、閉幕）
     - 若有要拍入場，班表依照COSCUP紀錄組當時的經驗要拍入場需要8:00開始排班 [name=白貓]
@@ -126,6 +133,7 @@ tags: summit2024
     - 原則上講者個人照以對談、大場為主。
     - 希望5/4 15:30可以先拿到一批照片，以利發稿給媒體記者(?)。
     - 前幾屆的攝影需求參考([2020](https://docs.google.com/spreadsheets/d/1hDqzjHjAM928BOnkIr79OITfbcq3vaRsebiq-cMuu9k/edit#gid=0)、[2018](https://g0v.hackmd.io/O-Al9mzHRsiCmDJZqD4wqw#g0v-Summit-2018-%E6%94%9D%E5%BD%B1%E7%B5%84%E5%87%BA%E5%9C%96%E8%B7%A8%E7%B5%84%E9%9C%80%E6%B1%82))、[媒體接待照片資料夾參考](https://drive.google.com/drive/folders/159RLIGB9ETSRyi9ndaGIiP9sMvp1eMMb)
+:::
 
 ## 交照片的方式
 - 由 Oliver 開設 Google Drive 請大家交照片
