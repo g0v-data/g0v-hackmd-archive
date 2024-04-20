@@ -43,3 +43,12 @@
 * 舞台雙邊布條
 * 講桌布條
 * 講桌佈置
+
+
+### 會眾相關：
+* Badge
+    * 關於Badge設計有一個提案，或許能用便宜的方法解決要顯示各組別的問題：[name=Dong]
+        - 首先是在背面印上各組的名字
+        - 找到相對應的組別後，把badge的角角折到另一面，再使用膠 or 膠帶 or 釘書機固定住
+        - 這樣就能使用一種版型做出最少四種組別的名牌了～
+        - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_88833c56fb8a866e91e9c1d5043d51ce.png)

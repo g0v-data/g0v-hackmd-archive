@@ -1,9 +1,8 @@
 ---
-tags: AI, whisper 
+tags: AI, whisper, 逐字稿
 ---
 
-# 如何在 Macbook 裝 whisper 
-# How to Install whisper in Macbook
+# 影音轉逐字稿 / 如何在 Macbook 裝 whisper / How to Install whisper in Macbook
 
 ## 第一次安裝 First time
 - 先開啟終端機（在 spotlight 輸入 terminal，或是到 啟動台 內尋找 終端機）
@@ -72,6 +71,9 @@ $ (echo; echo 'eval "$(/usr/local/bin/brew shellenv)"') >> /Users/APPLE/.profile
 20240323 irvin>
 - whisper 裝這個跑就好了，不用 diy 整個 stack https://goodsnooze.gumroad.com/l/macwhisper
 - 上上週末的讀書會紀錄，就是錄音直接跑 whisper，然後叫 gpt 整理文本 https://hackmd.io/t4Q2_0KgSeK55FlL70H2Ew
+
+WhisperDesktop
+- https://www.soft4fun.net/tech/ai/whisperdesktop.htm
 
 用於視聽輔具應用情境
 - https://www.facebook.com/share/p/T5MZzioixSQcfwZ2/

@@ -4,8 +4,12 @@ tags: summit2024, photos, photography
 # g0v Summit 2024 攝影需求統計
 
 :::success
-需求列上方，有參考圖片放最下面，有缺的請直接補上，大助會協助整理
+需求列上方，參考圖片放最下面，有缺的請直接補上，大助會協助整理
 :::
+:::warning
+底下有[範例照片](##照片參考)
+:::
+
 
 [年會新聞稿](https://docs.google.com/document/d/1ZBxTk34ZJomOjctqjgPQnjsunTIv0EgTsWbTqvY713I/edit)
 [照片 reference：g0v flickr](https://www.flickr.com/photos/g0v)
