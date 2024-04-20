@@ -205,9 +205,11 @@ g0v slack #gov-landing-page 頻道
  兩種方式：
  1. 擅長撰寫程式的人群：**連結 github issue or slack channel**
     > To-do: hackmd教學如何發issue
+    > done: notify for issue
 
 2. 較少程式知識的人群：**google form 連動到 slack channel 確保較多人看到訊息**
     > To-do: 建立google form 並開通連動slack
+    > TBD
 
 ---
 ### 定期回顧機制
