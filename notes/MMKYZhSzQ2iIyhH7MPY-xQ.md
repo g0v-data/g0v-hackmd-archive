@@ -38,6 +38,7 @@ tags: summit2024, photos, photography
 
 ### 場務組
 - 報到畫面 [name=annie]
+- 大合照 [name=CPY]
 
 ## 新聞稿快出需求
 :::info
