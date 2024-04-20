@@ -2,10 +2,10 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】(草稿)](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-04-19T22:47:43+08:00 | 2024-04-11T20:55:35+08:00 |
-| 2 | [行前通知](../notes/-h8Xh-j8SWuhRWVmc8Muew.md) | 2024-04-19T22:03:52+08:00 | 2024-04-19T21:37:29+08:00 |
-| 3 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-04-19T20:45:47+08:00 | 2023-11-03T20:10:41+08:00 |
-| 4 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-19T14:24:54+08:00 | 2024-04-09T15:38:54+08:00 |
+| 1 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-20T10:44:43+08:00 | 2024-04-09T15:38:54+08:00 |
+| 2 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】(草稿)](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-04-19T22:47:43+08:00 | 2024-04-11T20:55:35+08:00 |
+| 3 | [行前通知](../notes/-h8Xh-j8SWuhRWVmc8Muew.md) | 2024-04-19T22:03:52+08:00 | 2024-04-19T21:37:29+08:00 |
+| 4 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-04-19T20:45:47+08:00 | 2023-11-03T20:10:41+08:00 |
 | 5 | [g0v Summit 2024 小組合照時間登記](../notes/fxgCRwFMQAu9v93rf1GbGg.md) | 2024-04-19T14:13:05+08:00 | 2024-04-19T13:35:30+08:00 |
 | 6 | [g0v Summit 2024 攝影需求統計](../notes/MMKYZhSzQ2iIyhH7MPY-xQ.md) | 2024-04-19T14:05:24+08:00 | 2024-04-19T08:30:43+08:00 |
 | 7 | [場務助理](../notes/yheBZPRvSpmGXfsQ1AUkGA.md) | 2024-04-19T12:18:48+08:00 | 2024-04-09T13:31:01+08:00 |

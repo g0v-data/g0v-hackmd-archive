@@ -4,7 +4,10 @@ tags: summit2024
 # g0v Summit 2024 紀錄組
 
 :::warning
+- 距離Summit 剩下兩個禮拜囉！
+- **!! 登記為工作人員後，本次活動並不需要另外購票 !!** 
 - 由於小弟不才，目前還沒有修圖的技術，若有人會修圖請告知我一聲，**5/4 當天早上** 會特別需要您的協助。謝謝！
+    - 大助建議 5/4 出圖交給**蝦捲**，5/5 交給**白貓**
 - 若有人對大合照有經驗也請告訴我
     - 大合照有幾點建議，因為有即時出圖的要求建議拍攝地點要很亮、然後需要借腳架，可參考[COSCUP大合照](https://www.flickr.com/photos/coscup/53190487532/in/album-72177720311241733/) [name=白貓]
 - **每場議程每個講者至少要有2張照片，先求有再求好。(也提醒我自己)**
@@ -12,8 +15,27 @@ tags: summit2024
     - 建議請工人一率「橫著拍」以求畫面一致性 [name=白貓]
 :::
 
+## 優先執行項目
+### 跨組協調
+- 調查各組[攝影需求統計](/MMKYZhSzQ2iIyhH7MPY-xQ) [name=大助]
+- 調查[小組合照時間](/fxgCRwFMQAu9v93rf1GbGg) [name=大助]
+
+## 活動時間與地點
+::: success
+
+- 地點: 中央研究院 人文社會科學館  [:round_pushpin:google map](https://maps.app.goo.gl/Hsvoako4TjxSWCNi6)
+- 時間: 
+    - 場佈日: 5/3 |
+    - Day1: 5/4 | 09:00 ~ 17:30
+    - Day2: 5/5 | 09:20 ~ 17:00
+
+::: 
+
+
 
 ## 目前人員(以及若願意提供器材資訊):
+
+- 紀錄組庶務表單[問卷](https://docs.google.com/forms/d/e/1FAIpQLSfzXySKezREZlGTquReAtj0ioHb8dq0GskhPmSsX3bzILQGmA/viewform)及[結果] [name=白貓]
 
 | name | SlackID | 設備 | 拍攝修圖閃燈 | 備註 | 已確認 |
 | ---- | ---- | ---- | ---- | ---- | ----| ---- |
@@ -41,27 +63,6 @@ tags: summit2024
 | RAYEN | RAYEN | ---- | ---- | 議程組為主 |
 | 大助 | 
 
-
-
-
-
-
-#### 若尚未加入任何一組，願意加入紀錄組的話，請填寫以下表單，組別選擇**[紀錄組]**，感謝~
-1. [工作人員登記表單](https://forms.gle/XSAorogZ6ZXjiPqk8) : 登記為工作人員
-2. [工作人員行政表單](https://forms.gle/73BJwc1nyusogJr86) : 登記食、衣、住、險等資訊
-
-:::danger 
-**!! 登記為工作人員後，本次活動並不需要另外購票 !!** 
-:::
-
-
-
-## 活動時間與地點
-
-- 地點: 中央研究院 人文社會科學館  [:round_pushpin:google map](https://maps.app.goo.gl/Hsvoako4TjxSWCNi6)
-- 時間: 
-    - Day1: 5/4 | 09:00 ~ 17:30
-    - Day2: 5/5 | 09:20 ~ 17:00
 
 ## 參考資料
 - [g0v 2024 Summit 活動官網](https://summit.g0v.tw/2024/) - 時間安排的部分可以看議程表
@@ -168,3 +169,10 @@ tags: summit2024
     - 確認人員有加入Line群及填好行政表單
     - 提早租器材
     - 等議程組結論出來，開表單給大家填寫
+
+## 以下封存
+:::spoiler 點這裡打開
+### 若尚未加入任何一組，願意加入紀錄組的話，請填寫以下表單，組別選擇 [紀錄組]，感謝~
+1. [工作人員登記表單](https://forms.gle/XSAorogZ6ZXjiPqk8) : 登記為工作人員
+2. [工作人員行政表單](https://forms.gle/73BJwc1nyusogJr86) : 登記食、衣、住、險等資訊
+:::
