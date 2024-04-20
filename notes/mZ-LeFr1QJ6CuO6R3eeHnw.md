@@ -207,9 +207,7 @@ g0v slack #gov-landing-page 頻道
     > To-do: hackmd教學如何發issue
     > done: notify for issue
 
-2. 較少程式知識的人群：**google form 連動到 slack channel 確保較多人看到訊息**
-    > To-do: 建立google form 並開通連動slack
-    > TBD
+2. 較少程式知識的人群：**到 slack channel 說明狀況（製作針對問題想要如何調整的mockup）確保較多人看到訊息**
 
 ---
 ### 定期回顧機制

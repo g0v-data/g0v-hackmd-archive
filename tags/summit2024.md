@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v Summit 2024 攝影需求統計](../notes/MMKYZhSzQ2iIyhH7MPY-xQ.md) | 2024-04-20T15:57:35+08:00 | 2024-04-19T08:30:43+08:00 |
+| 1 | [g0v Summit 2024 攝影需求統計](../notes/MMKYZhSzQ2iIyhH7MPY-xQ.md) | 2024-04-20T16:30:25+08:00 | 2024-04-19T08:30:43+08:00 |
 | 2 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-20T15:39:14+08:00 | 2024-04-09T15:38:54+08:00 |
 | 3 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】(草稿)](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-04-20T15:25:28+08:00 | 2024-04-11T20:55:35+08:00 |
 | 4 | [g0v Summit 2024 小組合照時間登記](../notes/fxgCRwFMQAu9v93rf1GbGg.md) | 2024-04-20T15:24:22+08:00 | 2024-04-19T13:35:30+08:00 |
