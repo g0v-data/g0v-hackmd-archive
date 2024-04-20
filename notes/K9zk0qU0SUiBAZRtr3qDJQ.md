@@ -1,7 +1,7 @@
 ---
 tags: summit2024
 ---
-# 20240416會議
+# 20240423 會議
 時間：4/2 22:00
 連結：[Jitsi Meet](https://jitsi.ocf.tw/g0vsummit2024program)
 出席：Peter,yellowsoar,rayen,ddio
@@ -41,7 +41,7 @@ tags: summit2024
 ## Unconference 
 - [Unconf](/kFBljhsrSTW-mT_A-sBPVw)
 - 要將說明整理到 [大會共筆](https://g0v.hackmd.io/@summit2024/notes)
-
+- 一個人可以投幾票？
 ## 議程助理
 - [議程組細流](https://docs.google.com/spreadsheets/d/1P4XNhq2Eb2ACg7EL0lMLOTdvTxtseGStF2Nl_umge2o/edit?usp=sharing)，涵蓋議程組組員與所有議程助理。
 - 工作手冊內容修正
