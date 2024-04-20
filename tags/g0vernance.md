@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v github 社群規範討論](../notes/1wFAJoQeTrmw9pnjcqPkXg.md) | 2024-04-18T20:34:39+08:00 | 2020-01-18T14:02:29+08:00 |
+| 1 | [g0v github 社群規範討論](../notes/1wFAJoQeTrmw9pnjcqPkXg.md) | 2024-04-20T12:33:49+08:00 | 2020-01-18T14:02:29+08:00 |
 | 2 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-04-18T12:28:04+08:00 | 2018-08-30T15:19:57+08:00 |
 | 3 | [g0v.tw 被當作詐騙網站舉例，用於事實查核與政府宣導](../notes/p-jr_r5tRLyQ1A7OUL1r9w.md) | 2024-04-15T21:23:17+08:00 | 2023-04-04T21:05:30+08:00 |
 | 4 | [g0v 行為守則 g0v Code of Conduct](../notes/XPzJRxsHT2CaOO5WZ5r-BA.md) | 2024-04-01T04:46:58+08:00 | 2017-08-21T11:57:16+08:00 |
