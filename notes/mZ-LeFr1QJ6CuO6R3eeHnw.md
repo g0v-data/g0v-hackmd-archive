@@ -18,7 +18,7 @@ tags: g0vernance
 [TOC]
 :::
 
-## 動機
+# 動機
 
 為了讓 g0v 相關專案，都能透過 g0v 首頁，傳達自己的專案資訊，並且適時修改、更新、維護相關網頁，我們需要一套治理機制，來規範包含治理角色、專案資訊編修等事宜。
 
@@ -30,41 +30,27 @@ tags: g0vernance
 4. [2024.03 提議，可藉由後續基礎松擴大討論與確認方案] 網站通報報修、小規模內容更新工作
 5. [2024.03 提議，可藉由後續基礎松擴大討論與確認方案] 涉及網站版面的改動提議
 
-## 聯絡方式
+# SNS社群治理機制
 
-g0v slack #gov-landing-page 頻道
+請參照 [SNS 社群治理](https://g0v.hackmd.io/THKRsDsNRXGsa_0zFUn3Gw)
 
+
+# 行事曆
 ## 治理機制成員名單
-
-### 編輯者 (2023.3.4)
-
-#### Landing page 首頁：（TBD）
-
-* TBD
- *現況
-    * 64 admins, 276 members
-        * https://github.com/orgs/g0v/people
-    * admin 有權限可以砍光光所有 repositories (也可以順便把其他人都踢出 admin)
-    * members 都有權限可以在 g0v.tw 首頁塞入任何東西，跟在上面專案塞入任何有害程式碼
-    * 但也因為自由度很高，**g0v 是在 github 上世界前三大的 civic tech 社群**
-        * https://www.ithome.com.tw/news/106629
-
-#### 行事曆：
+- 輪播、活動行事曆的修改，都需要經過 review
 
 - 有編輯權限者：
     - 四個 GoogleGroup：g0v-talks、g0v-intl、g0v-jothon、cofacts
 
-群體相關介紹
-- g0v-talks
-    - g0v-talks@googlegroups.com
-- g0v-jothon 名單說明
-    - 「揪松團決策委員與職工」可主動協助更新日曆內容，新增活動、修改活動內容，名單：https://jothon.g0v.tw/about/
-- g0v-intl
-    - https://g0v.hackmd.io/@chihao/rypH_tpoE
-- cofacts
-    - https://cofacts.tw/about
-
-### Reviewer (2023.3.4)
+- 群體相關介紹
+    - g0v-talks
+        - g0v-talks@googlegroups.com
+    - g0v-jothon 名單說明
+        - 「揪松團決策委員與職工」可主動協助更新日曆內容，新增活動、修改活動內容，名單：https://jothon.g0v.tw/about/
+    - g0v-intl
+        - https://g0v.hackmd.io/@chihao/rypH_tpoE
+    - cofacts
+        - https://cofacts.tw/about
 
 - [Reviewer 清單](https://docs.google.com/spreadsheets/d/18oekxIDN84iPhP7fUYMleV7jmfWpr9UdZuujPFJmTBM/edit#gid=1776966921)
   - ddio
@@ -74,11 +60,49 @@ g0v slack #gov-landing-page 頻道
   - 揪松 (「揪松團決策委員與職工」名單：https://jothon.g0v.tw/about/)
   - chihao
 
-### 審核者的加入與退出
 
-參考自 [SNS 社群治理](https://g0v.hackmd.io/THKRsDsNRXGsa_0zFUn3Gw)
+## 首頁專案輪播
 
-- 輪播、活動行事曆的修改，都需要經過 review
+請參照：g0v 首頁 - 專案介紹的輪播機制
+https://g0v.hackmd.io/Q1kxZgObSBihH5ZrHKNiJg?view
+
+## 張貼活動的流程
+
+1. 坑主在 #g0v-landing-page 登記想要辦的活動，提供下列資訊：
+    1. 專案資訊：授權方式 + 專案連結（hackmd, website......。）
+    2. 活動頻率（每週、每月第幾週等等）
+    3. [抽籤出 2 位 reviewer](https://ronny.tw/g0v-sns/?type=calendar)
+2. 審查規則：
+    1.  在大小松提案
+    2.  成果開放授權
+3. reviewers 審核通過
+   - 2 位 reviewer ++
+4. editor 更新 google 行事曆
+
+:::warning
+活動內容格式舉例：
+- 「OH!SHOWN - 黑熊通報系統定期小聚」舉例
+- 活動時段：聚會想要改成從 Feb 8 開始，每個月（每個月的第二個週三）一次
+- 活動標題：OH!SHOWN - 黑熊通報系統定期小聚
+- 內容欄位：專案共筆 Meeting note https://lihi1.cc/VDemi （聚會線上連結在共筆內）
+:::
+
+### 其他討論
+- [技術討論文件 github -> google calendar ](https://g0v.hackmd.io/ym6CHeYQS7aVPB1gM-UCUg)
+
+# 官網報修機制
+根據2024.04.20基礎松的討論
+
+## 聯絡方式
+
+g0v slack #gov-landing-page 頻道
+
+>** To do: 在slack上面開一個關於網頁報修的channel **
+
+## 相關角色
+
+
+
 - *＃＃是否加入官網的更新？（TBD）*
     - 有一個 reviewer group [[名單]](https://docs.google.com/spreadsheets/d/18oekxIDN84iPhP7fUYMleV7jmfWpr9UdZuujPFJmTBM/edit#gid=1776966921)
         - 目前 9 人 (as of 2023/03/04)
@@ -103,37 +127,20 @@ g0v slack #gov-landing-page 頻道
     - 如果發起人是 reviewer，則自行貼文
     - 如果發起人不是 reviewer，則被指定的 reviewer 協調幫忙貼文
 
-## 首頁專案輪播
 
-主要討論文件：g0v 首頁 - 專案介紹的輪播機制
-https://g0v.hackmd.io/Q1kxZgObSBihH5ZrHKNiJg?view
+#### Landing page 首頁：（TBD）
 
-## 活動行事曆
-
-### 張貼活動的流程
-
-1. 坑主在 #g0v-landing-page 登記想要辦的活動，提供下列資訊：
-    1. 專案資訊：授權方式 + 專案連結（hackmd, website......。）
-    2. 活動頻率（每週、每月第幾週等等）
-    3. [抽籤出 2 位 reviewer](https://ronny.tw/g0v-sns/?type=calendar)
-2. 審查規則：
-    1.  在大小松提案
-    2.  成果開放授權
-3. reviewers 審核通過
-   - 2 位 reviewer ++
-4. editor 更新 google 行事曆
-
-:::warning
-活動內容格式舉例：
-- 「OH!SHOWN - 黑熊通報系統定期小聚」舉例
-- 活動時段：聚會想要改成從 Feb 8 開始，每個月（每個月的第二個週三）一次
-- 活動標題：OH!SHOWN - 黑熊通報系統定期小聚
-- 內容欄位：專案共筆 Meeting note https://lihi1.cc/VDemi （聚會線上連結在共筆內）
-:::
-
-### 其他討論
-- [技術討論文件 github -> google calendar ](https://g0v.hackmd.io/ym6CHeYQS7aVPB1gM-UCUg)
-
+ *現況
+    * 64 admins, 276 members
+        * https://github.com/orgs/g0v/people
+    * admin 有權限可以砍光光所有 repositories (也可以順便把其他人都踢出 admin)
+    * members 都有權限可以在 g0v.tw 首頁塞入任何東西，跟在上面專案塞入任何有害程式碼
+    * 但也因為自由度很高，**g0v 是在 github 上世界前三大的 civic tech 社群**
+        * https://www.ithome.com.tw/news/106629
+        
+* To do:
+    - 召集新的reviewer (members)
+        條件：需要可以發issue
 
 ## 官網通報報修類 (流程草案撰寫中、TBD)
 
