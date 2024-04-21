@@ -2,7 +2,7 @@
 tags: 公有地大行動
 ---
 
-# 2024 都市再生學苑 - 開放空間與公有空地議題組別
+# 都市再生學苑 - 開放空間與公有空地議題組別
 
 :::warning
 文件目錄
@@ -13,7 +13,7 @@ tags: 公有地大行動
 
 參加者簽到：chewei, 
 
-## 主題：大安區臺師大街區「以社區空地凝聚街區願景」主題工作方向
+## 大安區臺師大街區「以社區空地凝聚街區願景」主題工作方向
 
 本主題聚焦於臺北市社區內的非公用土地，並以時序觀點，建立「社區空地的前世、今生與未來」議題工作方法。預計引導學員了解臺北市公共空地營造案例，整理出類型學，並結合民間社群「公有地大行動」公有空地資料線上地圖成果，整體探討約 35.4 公頃非公用現況空地之政策方向，例如撥用非公用空地作都市綠地或公設用地使用，建立檢視流程，並接續定期都市計畫通盤檢討。（相關資料：https://bit.ly/4aD1zfN）
 
@@ -21,25 +21,40 @@ tags: 公有地大行動
 
 此空地座落區位屬於古莊里西側三角型生活圈範圍，範圍大致由和平東路、羅斯福路、師大校本部西側圍牆邊界所形成一個明確的街廓邊界，街廓中包含古亭捷運站、古亭市場、住宅與商業建築、Parkup-GT 空地營造 (相關資料：https://www.parkup.tw/)、特色藝文店家等。關注空地活化議題社群屬性，包含生態綠化、都市農耕、社區混齡休憩空間、巷弄生活紋理等。
 
-## 資料與線上地圖
+## 照片、資料、線上地圖
+
+### 照片
+
+https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
+
+### 工作用線上地圖
+- 工作網址：https://www.google.com/maps/d/u/0/viewer?mid=1PtrMifUEOzZi1-ShuVktL7jetCPdKeY&ll=25.022562174602527%2C121.53695809986445&z=16
 
 ### 參考地圖與資料
-- 臺北市街廓界定
-    - https://g0v.hackmd.io/ErnTx4HXSly3E0I9J0zOxQ?view
+
+人口
 - 城市儀錶板：https://citydashboard.taipei/mapview?index=map-layers
     - 有居住與上班人口推估
+
+地貌與建築建設
 - 建築施工地圖：https://g0v.hackmd.io/GMYOZV6jRN20YN037yRqvQ
 - 2000 年日式宿舍調查報告：https://www.facebook.com/groups/582154450196478/posts/904024958009424/
-- 交通事故與道安資料：https://g0v.hackmd.io/4IZcm3KAS1WCetvUhX825Q
+
+社區安全
 - 臺北市婦幼安全警示地點
     - https://data.taipei/dataset/detail?id=985743f7-a33e-4ac1-ad2e-7ef5ffea02e2
 - 臺北市竊盜案件 (汽車、機車、自行車、住宅)
     - https://data.taipei/dataset?qs=%E7%AB%8A%E7%9B%9C&type=dataset
+
+交通
+- 街道無車化提案路段與動線系統方案
+    - https://g0v.hackmd.io/ErnTx4HXSly3E0I9J0zOxQ?view
+- 交通事故與道安資料：https://g0v.hackmd.io/4IZcm3KAS1WCetvUhX825Q
 - 學區範圍：https://schooldistrict.tp.edu.tw/html/search.jsp
     - 有繪製出範圍
+    - TODO: 把學區範圍與路徑，畫到 工作用線上地圖
 
-### 工作用線上地圖
-- 工作網址：https://www.google.com/maps/d/u/0/viewer?mid=1PtrMifUEOzZi1-ShuVktL7jetCPdKeY&ll=25.022562174602527%2C121.53695809986445&z=16
+---
 
 ## [筆記區] 再生學苑主題內容發想
 
@@ -103,11 +118,25 @@ tags: 公有地大行動
     - 遊玩
     - 旅運
 
+### 市府政策 - 街區
 
 臺北市淨零排放管理自治條例
 - 有明確描述各局處相關業務，從業務來檢視新生流域內相關的場域、可以整合落實措施、或是一些願景方案可以整合淨零業務種類。
     - 操作案例：新生流域 https://www.facebook.com/groups/582154450196478/posts/961070155638237/
 
+降溫城市政策
+- https://www.udd.gov.taipei/events/fhqekzq-19801
+
+都市更新地區計畫
+- https://uro.gov.taipei/News_Content.aspx?n=1D7148318EBB84A2&s=596E958D238B0315
+
+交通局 鄰里交通 2.0
+- https://www.dot.gov.taipei/Content_List.aspx?n=4867DAB8C36F7003
+
+
+## 素材備份區 / 已結束活動籌備內容
+
+:::spoiler 素材備份區 / 已結束活動籌備內容
 
 ### 20240413 上午走訪
 
@@ -230,9 +259,12 @@ tags: 公有地大行動
 - 下一週的週間，民間社群預計籌辦工作坊
     - 原則上，空地完工後，日後鄰里與社群活用，可採用 高架式、疊加式、可移動式的手法，應該都可以透過實作活動來推動
 
----
+:::
+
 
 ## 各類對於街區的研究觀點
+
+### 街區研究 / 微氣候 / 活動行為 / 文化地景形塑
 
 不同文化地景類型之行塑歷程－以台北溫州街一帶與台北文學森林為例
 https://hdl.handle.net/11296/yqr75v
@@ -252,6 +284,13 @@ https://hdl.handle.net/11296/4hkve8
 
 創意街區的演化與認同的危機—以臺北東區為例
 https://hdl.handle.net/11296/tk545v
+
+### 人口推估
+
+人口推估
+https://g0v.hackmd.io/54WWSj6eRdO8Zvot81Xwpg
+
+### 國際生 / 外籍學生
 
 外籍學生之社會支持、多元文化人格及歸屬感相關研究
 https://hdl.handle.net/11296/q4v25t
