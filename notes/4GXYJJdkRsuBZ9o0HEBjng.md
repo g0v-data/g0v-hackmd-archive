@@ -357,17 +357,17 @@ FTX 也有負責
 以 security 為重
 
 - brazil
-ㄊㄧ
+ICANN 提出一個框架、白皮書等
+業者要自律
+UNESCO 也有提出類似 AI 相關的框架 
 
 
 - kering groups
+不是針對 handshake，假如以後 handshake 做大後，也可能碰到域名冒用問題，歡迎大家加入
 
-我說一下發言 30 sec
-待會幫我去拿個 mic
-got it
 
 - Handshake
-這個看有沒有時間 看來沒有
+如果企業覺得 ICANN 一定要我們加入的話，
 
 - NCSG
 
@@ -377,7 +377,7 @@ got it
 我沒整理出來 QQ
 
 可以的話給你總結
-或是我只會學曼如說「這跟 ICANN 一樣、討論不完、沒有共識」
+或是我只會學曼如說「這跟 ICANN 一樣、討論不完、沒有共識」 > 可以啊XDDDD [name=paul]
 
 
 chatgpt
@@ -405,3 +405,4 @@ Handshake的問題需要通過ICANN處理，聲稱ICANN無法律權力。希望�
 
 總結：圍繞規範替代DNS/Handshake的討論充滿爭議，政府和一些團體通過ICANN推動監督，而Handshake及其支持者則抵制集中控制。討論持續尋找協作方法。
 ```
+

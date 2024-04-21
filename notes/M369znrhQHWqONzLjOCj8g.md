@@ -277,6 +277,9 @@ https://canopi.tw/esgcase/
 
 ## 綠運具
 
+空污、道路噪音，健康衝擊
+https://www.facebook.com/share/p/WhStSMaMz5FFDYiF/
+
 郭佩棻 副教授 （國立成功大學測量及空間資訊學系）講題：多時空角度的交通需求預測（multi-scale spatio-temporal prediction of transportation demand）
 https://www.facebook.com/asgis/posts/pfbid0vMozr8NjTgLcQixJSiDg4FLFFn1hTpNAwzZpUL1sEDMDTjVJg6yS6z9i6kBTJMkUl
 
@@ -388,6 +391,10 @@ https://heo.gov.taipei/cp.aspx?n=165C129DDE416166
 水利處目前針對 新店溪與景美溪匯流口推動方案
 https://heo.gov.taipei/News_Content.aspx?n=1C35353E4DE6D317&sms=59AD6E6606F6002F&s=4E07DFE2483A75C1
 https://www.geo.gov.taipei/News_Content.aspx?n=1C2986DF71D12359&sms=59AD6E6606F6002F&s=ABE1067A729466B3
+
+都市綠地與健康
+公衛研究，補網址
+
 
 ## 文山區萬和里情境
 
