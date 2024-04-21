@@ -76,4 +76,168 @@ Orange Labs Networks
 13:10 - 13:50 分組討論
 
 
-要介紹怎麼舉手
+
+
+# panel discussion
+## GAC
+-  Germany
+覺得 ICANN 有義務管理
+目前已經有成立 W3DA 組織
+考慮從 ICANN 的 registrar 擔任溝通橋樑
+希望跟 GNSO 可以共同商討 alter-DNS 政策制定
+也有一些過往 DNS 碰過的問題，可以在這次的問題
+
+## ALAC
+- CLUE
+alter-DNS 就是要被監管
+Handshake 若不接受監管，就要讓 registry 不再賣 hankshake
+
+## GNSO
+- NPOC
+覺得監管重要
+web3 企業本來就 anti-ICANN，他們自己內部也會有不同意見
+但 GNSO 內部還沒有共識
+
+## 補充
+- handshake（indidual）
+利害關係人（有 conflict of interest）
+極度反對這個提議（什麼提議？）
+handshake 覺得自己被威脅
+希望知道有沒有好處
+
+- eseniors（ALAC）
+不是監管 想合作、討論
+雙方是平等狀態
+如果無法合作，Handshake 若不接受監管，就要讓 registry 在合約裡不能賣 hankshake
+可能
+
+- USA
+不可能全部放任 alter-DNS 任意發展
+希望保障 registry 廠商的發展
+區塊鏈也很多美國廠商 會維護他們利益
+希望不要硬性規定，希望以合作為前提
+
+- verisign（GNSO）
+作為最大的傳統 registry
+代表 GNSO 邀請 Handshake 加入
+是 alter-DNS 的領頭羊
+希望可以一起規範 alter-DNS 的發展
+
+- handshake
+希望知道 godaddy 是否合作
+譴責其他團體打壓中小企業，你們怎麼可以阻斷創新！！！！！
+GNSO 的具體合作是什麼
+
+- gogaddy
+連 blockchain 的生意都做的話利益最大
+監管方式建立的話
+意見偏 neutral
+
+- NCSG
+雖然監管可能造成市場風險
+但新技術的欺詐 影響消費者信心，所以需要監管保護消費者，法律風險的控管
+把監管給一起來討論
+透過透明的規則進行保護公共利益
+
+- BSN（ALAC）
+必須監管
+不是針對 handshake 進行打壓
+是針對相關服務所進行的決策
+決定支持監管是因為
+如果不被監管，很零散的 protocal 會影響制度/產業發展（？）
+
+- kering group
+需要有監管體系
+如果要把他們納入，需要給他們有一定程度的自主性
+如果把 alter-DNS 納入 ICANN，應該要給他們一定程度上的組織的地位
+
+- handshake
+godaddy 決定維持現狀，我也同意（兩邊都賣）
+有被監管的話 資訊安全可被掌握
+如果加入 ICANN 組織更大，更多 protocal 和 policy 要 follow，我們自己管就好了啦
+為什麼要聽你們的（我自己想當規則制定者？） > 很棒耶，他非常入戲耶 [name=paul]
+
+- Verisign
+所以我們才會誠摯的邀請 handshake 進入 GNSO
+這些新技術的開發者一定會有新想法，也希望這些新想法來衝擊 ICANN 的想法
+
+- handshake
+為什麼我們不能自己跟其他區塊鏈來合作組成組織
+目前感覺又因還不足
+
+- CIIAG
+屬於發展中國家
+目前這些 alter-DNS 對於我們來說的成本很高，因為需要更多資源和成本來去維護
+目前的 DNS 的維護就很麻煩了
+想知NCSG 
+
+- verisign
+我們很熟悉政府監管和政策運作
+我們可以提供這些經驗和知識，可以幫忙降低法遵成本
+
+- NCSG
+回 CIIAG
+不知道在說什麼
+
+- Handshake
+有人說避免政府責難 是做錯什麼會被責難嗎
+我不知道有哪些法遵成本啦
+我們的服務更安全！！對開發中國家更好用成本更低啦
+
+- Kering Group
+marketplace 的擴張很仰賴 one internet 來去擴及更多人
+alter-DNS 要有更獨立自主的 
+開發中國家的商標爭議和仲裁，對於開發中國家的中小企業也是成本
+
+- BSN
+回應 handshake 的優點不夠
+我們會有跟 registry 的 DNS 合約，ICANN 會對於消費者有保護，所以如果你們不加入，我們就會讓 registry 很痛
+
+- USA
+秉持 one world one internet 精神
+我們不想網路分裂/割裂，因為這樣的成本很高，對網路使用者不利
+市場機制，希望監管的討論繼續
+
+- UK
+我們很重視系統和制度穩定性
+ICANN 不一定最好，但共識最多
+立場不是要管控，但希望找到最好的方向
+
+- int trademark
+我們有在幫企業做商標管理和 web3 產業發展
+我們希望可以降低 end user 的使用成本和商標濫用，所以 handshake 加入 ICANN 體系合作可以避免這種狀況
+
+- CLUE
+可以相互派 liaison
+
+- end user
+
+- NPOC
+one world one internet 很重要，不要 splinternet
+alter DNS 是新科技，MSM 是一個可以讓討論更活絡，業者自律，避免政府規管的手直接伸進來的作法
+
+問 BSN：你們也希望可以支持監管，但你們股東支持這個意見嗎，因為 internet user 大部分都支持
+
+- orange
+handshake 有好的管理方案嗎，因為 web3 的網域重複問題很嚴重，目前這樣的風險要怎麼避免
+
+- brazil
+我們可以從合作著手，
+採取{工作小組 | wg}形式
+
+- handshake
+同意 GAC 的意見，如果可以有討論監管的空間
+godaddy 簽約，我們也有跟對方簽約，所以你們的威脅我不怕
+我們希望可以跟使用者共好
+域名重複的問題，如果要限制我們的域名，對於其他廠商的權益可能也會受損，因為可能會影響網路使用者和不同利害關係人
+
+
+
+- each team wrap up
+
+## speaker queue
+
+
+
+
+
