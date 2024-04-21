@@ -11,7 +11,7 @@ tags: summit2024
 
 
 ## g0v Summit 2024 新聞稿
-
+* [會前新聞稿](https://docs.google.com/document/d/1ZBxTk34ZJomOjctqjgPQnjsunTIv0EgTsWbTqvY713I/edit)－零時政府雙年會 g0v Summit 2024 即將展開　公民不打烊持續關注社會脈動
 
 ## g0v Summit 2024 相關圖檔
 

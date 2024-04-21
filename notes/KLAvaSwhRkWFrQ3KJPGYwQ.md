@@ -1,9 +1,9 @@
 ---
 tags: summit2024
 ---
-# 新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】(草稿)
+# 新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】
 
-> 最後更新 2024/04/19 22:00 [name=YC]
+> 最後更新 2024/04/21 11:00 [name=YC]
 
 
 原則：g0v Summit 2024 歡迎新聞媒體自由採訪
@@ -17,7 +17,7 @@ Please follow the conference [Code of Conduct](https://summit.g0v.tw/2024/coc/),
 ## 大會新聞稿 / Press Release
 
 ### Press Release
-[新聞稿連結]
+[會前新聞稿](https://docs.google.com/document/d/1ZBxTk34ZJomOjctqjgPQnjsunTIv0EgTsWbTqvY713I/edit)－零時政府雙年會 g0v Summit 2024 即將展開　公民不打烊持續關注社會脈動
 
 ### Photo
 [官方照片連結 Photo]
