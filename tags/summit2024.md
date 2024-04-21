@@ -2,17 +2,17 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [媒體小組筆記](../notes/jvTv4tEIRvG402qbanP6KA.md) | 2024-04-21T22:40:39+08:00 | 2023-09-15T22:08:59+08:00 |
-| 2 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-21T10:16:29+08:00 | 2023-12-09T12:53:41+08:00 |
-| 3 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-04-21T10:12:22+08:00 | 2024-04-11T20:55:35+08:00 |
-| 4 | [g0v Summit 2024 攝影需求統計](../notes/MMKYZhSzQ2iIyhH7MPY-xQ.md) | 2024-04-21T09:08:48+08:00 | 2024-04-19T08:30:43+08:00 |
-| 5 | [20240423 會議](../notes/K9zk0qU0SUiBAZRtr3qDJQ.md) | 2024-04-20T22:36:56+08:00 | 2024-04-20T21:28:55+08:00 |
-| 6 | [開放工作坊](../notes/IGm0HDk1QDKRAoqpf6d7qA.md) | 2024-04-20T22:16:26+08:00 | 2024-04-13T15:56:23+08:00 |
-| 7 | [閃電講](../notes/JCl7O8QXTeWlcYukM6ld3w.md) | 2024-04-20T22:08:15+08:00 | 2024-04-13T15:56:50+08:00 |
-| 8 | [主持人](../notes/uY0OBQe8QSOIRnYLzixDeg.md) | 2024-04-20T21:51:32+08:00 | 2024-01-06T15:36:08+08:00 |
-| 9 | [物資清點](../notes/ID79drHLQSCWaNNhNMfIPg.md) | 2024-04-20T20:17:36+08:00 | 2024-04-15T21:59:25+08:00 |
-| 10 | [場佈設計筆記](../notes/-YB5siwcQy2DyIgSlAZs-w.md) | 2024-04-20T20:17:09+08:00 | 2024-03-07T12:47:57+08:00 |
-| 11 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-20T15:39:14+08:00 | 2024-04-09T15:38:54+08:00 |
+| 1 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-22T02:57:03+08:00 | 2024-04-09T15:38:54+08:00 |
+| 2 | [媒體小組筆記](../notes/jvTv4tEIRvG402qbanP6KA.md) | 2024-04-21T22:40:39+08:00 | 2023-09-15T22:08:59+08:00 |
+| 3 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-21T10:16:29+08:00 | 2023-12-09T12:53:41+08:00 |
+| 4 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-04-21T10:12:22+08:00 | 2024-04-11T20:55:35+08:00 |
+| 5 | [g0v Summit 2024 攝影需求統計](../notes/MMKYZhSzQ2iIyhH7MPY-xQ.md) | 2024-04-21T09:08:48+08:00 | 2024-04-19T08:30:43+08:00 |
+| 6 | [20240423 會議](../notes/K9zk0qU0SUiBAZRtr3qDJQ.md) | 2024-04-20T22:36:56+08:00 | 2024-04-20T21:28:55+08:00 |
+| 7 | [開放工作坊](../notes/IGm0HDk1QDKRAoqpf6d7qA.md) | 2024-04-20T22:16:26+08:00 | 2024-04-13T15:56:23+08:00 |
+| 8 | [閃電講](../notes/JCl7O8QXTeWlcYukM6ld3w.md) | 2024-04-20T22:08:15+08:00 | 2024-04-13T15:56:50+08:00 |
+| 9 | [主持人](../notes/uY0OBQe8QSOIRnYLzixDeg.md) | 2024-04-20T21:51:32+08:00 | 2024-01-06T15:36:08+08:00 |
+| 10 | [物資清點](../notes/ID79drHLQSCWaNNhNMfIPg.md) | 2024-04-20T20:17:36+08:00 | 2024-04-15T21:59:25+08:00 |
+| 11 | [場佈設計筆記](../notes/-YB5siwcQy2DyIgSlAZs-w.md) | 2024-04-20T20:17:09+08:00 | 2024-03-07T12:47:57+08:00 |
 | 12 | [g0v Summit 2024 小組合照時間登記](../notes/fxgCRwFMQAu9v93rf1GbGg.md) | 2024-04-20T15:24:22+08:00 | 2024-04-19T13:35:30+08:00 |
 | 13 | [行前通知](../notes/-h8Xh-j8SWuhRWVmc8Muew.md) | 2024-04-19T22:03:52+08:00 | 2024-04-19T21:37:29+08:00 |
 | 14 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-04-19T20:45:47+08:00 | 2023-11-03T20:10:41+08:00 |

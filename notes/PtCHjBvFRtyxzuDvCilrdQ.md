@@ -51,7 +51,7 @@ tags: summit2024
 | 柴犬 | shibasalmon | Nikon D750 | ---- | ---- | ---- |
 | Gavin | ---- |  Nikon Z6II (24-120 F4 S) | 新手、無修圖、無閃燈 | 4,5 | O |
 | 月太 | moontai0724 | CANON R6M2 (RF 24-105 f/2.8) | 年會老手、高階修圖、基本閃燈 | 3,4,5 | O |
-| MichaelLI | MichaelLI | ---- | ---- | ---- | ---- |
+| MichaelLI | MichaelLI | 手機 | 以前參加過summit剪過影片，（只能優先幫助剪影片） | 已經在Slack 跟 YuTin 對話了。 | ---- |
 | 小群 | littlechin | Nikon Z6 (Z 24-70 f4, F 28-300 F3.5-5.6) | 年會老手、進階修圖、基本閃燈 | 4,5 | O |
 | Yangi | ---- | Canon R6 (RF35 1.8、RF16 2.8、EF70-200 2.8) | 攝影老手、年會新手、進階修圖、基本閃燈 | 4,5 | O |
 | 蝦捲 | ---- | Nikon z72, D810 (14-30, 24-70, 70-200) | 攝影老手、年會新手、進階修圖、基本閃燈 | 4,5。可以快出。 | O |
