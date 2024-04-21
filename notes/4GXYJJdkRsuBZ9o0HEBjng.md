@@ -2,7 +2,7 @@
 tags: intgov
 ---
 
-# local APIGA Taiwan 2024 model conference notes for chairs
+# Local APIGA Taiwan 2024 model conference notes for chairs
 
 # 10:50 summary
 ## GAC
@@ -55,4 +55,4 @@ tags: intgov
     - FCFS 支持
     - 限額保障權
         - 小國沒有現成 registrar
-        - 為了扶植產業，該ㄍㄟ
+        - 為了扶植產業，該給保障限額
