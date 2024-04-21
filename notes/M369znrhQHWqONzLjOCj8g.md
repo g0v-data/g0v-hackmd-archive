@@ -233,6 +233,14 @@ https://e-info.org.tw/node/238846
 氣候治理因地制宜 文山區25年公民參與經驗值得借鏡
 https://e-info.org.tw/node/238845
 
+## 20240502 公民週活動籌辦
+
+地區地圖
+https://drive.google.com/drive/folders/1UnJSUcmdGkrlH29twWVSWN5Z8NV6F9gF?usp=sharing
+
+構想簡報
+https://docs.google.com/presentation/d/1So9YIE00FmW6H1eENEVUIX4N2uyTMfGnDkdvzJSrNvs/edit
+
 
 ## 文山區地景變遷與環境特點
 
@@ -274,6 +282,9 @@ https://e-info.org.tw/node/238845
 https://canopi.tw/esgcase/
 
 中國科大
+
+景興國中 110 年度教育部永續循環校園推動計畫-永續校園整體規劃構想書
+https://ws-proj.moe.edu.tw/001/Upload/568/relfile/13271/1221/19ed93f0-157d-48fe-966d-32b55e73de22.pdf
 
 ## 綠運具
 

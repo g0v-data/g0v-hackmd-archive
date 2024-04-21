@@ -15,7 +15,7 @@ Even those who are not familiar with the field of technology can use generative 
 10:40-11:10 Cofact intro/ iorg intro 
 11:10-11:40 panel with Cofacts/Cofact/ Chihhao
 
-**10:40-11:10 5-7 mins 簡介**
+**10:40-11:10 7-9 mins 簡介**
 Cofact
 IORG
 Cofacts
@@ -24,7 +24,7 @@ Cofacts
 主持人提問
 現場開放提問
 
-## 主持人
+## 主持人:劉致昕
 Jason Liu
 劉致昕，記者、作者、podcaster，著有《真相製造》、《烏克蘭的不可能戰爭》，聲音節目《不好意思請問一下》。
 
@@ -35,18 +35,20 @@ Code for Korea///Ohyeon KWEON(L)
 Code for Japan ///Hal SEKI(L)
 
 
-Chihhao Yu:Co-director of IORG
-Billion Lee:Cofacts cofounder(M)
+## 講者：Chihhao Yu:Co-director of IORG
+## 講者：Billion Lee:
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a448bf6204ad488d3c052ad93926fd50.JPG =50%x)
+Cofacts cofounder(M)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4cf6889d359cab2c2deed5fb43080e16.jpeg =50%x)
+
 Billion is Cofacts cofounder. She has been advocating for marriage equality and civic empowerment, dedicating herself to connecting different communities and providing media literacy courses to combat disinformation. She has previously visited PolitiFact in the United States for exchanges and connected contributors from different countries, to collaborate on clarifying information. She manages a community working on OSINT fact-checking skills and media literacy. 
-
 
 Supinya Klangnarong: Cofact cofounder (M)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7bcf4ee265f680fb9a41b70189605fec.jpg  =50%x)
 
 
-Supinya Klangnarong, Thailand
+## 講者：Supinya Klangnarong, Thailand
 Co-founder of COFACT Thailand, Fact-checking platform &amp; communities.
 
 She is a long-time advocate for media rights and quality journalism, digital rights and citizenship, Supinya started off her media advocacy work as Co-Ordinator, then Secretary-General of now-defunct Campaign for Popular Media Reform, when Thailand’s major
@@ -57,9 +59,19 @@ military coup in 2006.
 
 ## 訪綱
 
-
-
-
-
+1.在現在的資訊環境當中，什麼樣的資訊或是困擾是最希望提醒大家的呢？
+2.
+3.
+4.
 
 ## QA
+
+開放現場slido 提問
+
+1.Cofact似乎有一個遍佈泰國各地的社群，彼此是怎麼進行管理與聯繫的呢？
+>Supinya 
+
+2.IORG 有這些年來長時間的資料累積與分析經驗，有什麼挑戰與收穫可以跟大家分享嗎？
+>Chihhao
+
+3.

@@ -33,6 +33,11 @@ tags: summit2024,
  - 準備「惠賜名片」的牌子和名片盤
  - 準備、發送 媒體袋，包含：活動介紹與流程(直接給手冊?)、新聞稿
 
+## 媒體組自行刊登新聞稿
+* 會前新聞稿 
+[新聞稿自助吧](https://nbf.bar/lDaCV)
+
+
 ## Summit與其他單位合作
  - 政大東亞研究所&國際創新學院(NCCU EASTS and the International College of Innovation)有和Summit合作，請Keynote Speaker至政大演講。如果政大有相關的活動宣傳(政大宣傳自己活動的時候，也幫忙宣傳Summit。或Summit可以協助宣傳政大的這個活動)，媒體小組可去了解、接洽。
 
