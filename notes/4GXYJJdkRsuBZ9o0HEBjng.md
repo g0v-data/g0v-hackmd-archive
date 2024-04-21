@@ -377,7 +377,7 @@ UNESCO 也有提出類似 AI 相關的框架
 我沒整理出來 QQ
 
 可以的話給你總結
-或是我只會學曼如說「這跟 ICANN 一樣、討論不完、沒有共識」 > 可以啊XDDDD [name=paul]
+或是我只會學曼茹說「這跟 ICANN 一樣、討論不完、沒有共識」 > 可以啊XDDDD [name=paul]
 
 
 chatgpt
