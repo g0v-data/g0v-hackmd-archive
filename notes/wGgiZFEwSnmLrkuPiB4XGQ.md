@@ -7,6 +7,9 @@
 - Language: ==English==, no interpretation
 - Open participation, 30 people max
 
+## Intro
+This workshop, organized by National Democratic Institute (NDI), is aimed at building dynamic strategies for civic tech and civil society professionals to communicate and collaborate with tech platforms. Bringing together professionals and activists in the Asia-Pacific region, this workshop will identify shared concerns and challenges in safeguarding/advacing platform-related digital human rights, share experience and know-how in platform engagement, and strengthen the network among workshop participants.
+
 ## Agenda
 ### Introduction (5 mins)
 - Chihhao Yu

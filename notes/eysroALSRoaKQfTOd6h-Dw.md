@@ -1,6 +1,12 @@
+# 2024-04-22 口譯十 UD Talk
+
+- Skyer 幫忙找人
+
+
 # 口譯相關
 
 - 目前 wilt 確定跳坑！
+
 ## 口譯方案討論
 - 參考資料
     - [2020預算](https://docs.google.com/spreadsheets/d/19cVquMoVev0rFCuVYaHU28OLiJ0l3ReCsCdmY-miKvM/edit?usp=sharing)

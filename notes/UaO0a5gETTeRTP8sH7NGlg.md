@@ -9,7 +9,7 @@ GA: UA-98468513-3
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
 - NPO Hub 出席：mrorz, bil
-- 線上出席：
+- 線上出席：Jonathan, nonumpa, T
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -30,11 +30,18 @@ LIFF page "mgpAwardee", cofacts.tw/mgpAwardee
 ### [Op] Transcript spam
 > https://github.com/cofacts/rumors-api/pull/335
 
+- 改完了，修 test [name=nonumpa]
+- 修 OCR 的版本更新的字，只要 match 部分的文字 [name=nonumpa]
+- 繼續 review [name=mrorz]
 
 ### [Op] 垃圾訊息反制
 > https://g0v.hackmd.io/uefTz4yURImgtem--itaMw?both#Op-%E5%9E%83%E5%9C%BE%E8%A8%8A%E6%81%AF%E5%8F%8D%E5%88%B6
 
 Design doc: https://g0v.hackmd.io/um7DyY_ESbu2LL78kLw3pg?both
+
+:::success
+mrorz 進行第一階段
+:::
 
 ## 送出訊息 wording
 
@@ -71,6 +78,11 @@ Design doc: https://g0v.hackmd.io/um7DyY_ESbu2LL78kLw3pg?both
 > 我個人是認為原本的「我願意公開此訊息」是個比較明確的 consent，比較不會有送出了之後還來後悔的狀況
 > 我也有點忘記當時的考量點是什麼，記錄到的討論結果有點模糊
 > [name=mrorz]
+
+
+- 不應該讓刪文輕鬆成立，怕大家來問完之後就刪除，不符合公益 [name=bil]
+- 會不會有可能送進來的人
+  - 只要都是 Cofacts 
 
 ### Proposal（單一訊息）
 
