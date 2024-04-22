@@ -174,24 +174,29 @@
 #### 4/24
 > 下班直接出發去 桃機,詳情看[上面](https://g0v.hackmd.io/P4WAFZYJTCqv412pBUPf-Q?both#%E5%87%BA%E7%99%BC)
 準備登機
+
 #### 4/25
 > 飯店 check in
-12:00 午餐 [咖哩蟹肉](https://www.instagram.com/reel/C4-bVJCvnBb/?utm_source=ig_web_button_share_sheet)
-
+> [北碧府 IG 網美景點一日遊＆死亡鐵路](https://s.klook.com/c/v3qlN0pE3x)
  **未預約** 17:00 晚餐 [空中酒吧 TRIBE Sky Beach Club](https://maps.app.goo.gl/6ZEnyMvcAb8HTQGB6)
+ 
 #### 4/26
-
-> 午餐 12:00 [map](https://maps.app.goo.gl/oSJoNEGJjfMr2MR38) [吞武里海鮮市場介紹](https://udn.com/news/story/120673/7044705) 
+> 包車水上市場
 18:00 [喬德夜市](https://maps.app.goo.gl/JVMhKq8SGMV92Ut5A)
 
 #### 4/27
 >  **未預約** 17:00 [SIROCCO SKY BAR 最後大丈夫景點](https://maps.app.goo.gl/T87HdfNK5yFC7RuCA)
+>  12:00 午餐 [咖哩蟹肉](https://www.instagram.com/reel/C4-bVJCvnBb/?utm_source=ig_web_button_share_sheet)
+>  晚餐 17:00 [map](https://maps.app.goo.gl/oSJoNEGJjfMr2MR38) [吞武里海鮮市場介紹](https://udn.com/news/story/120673/7044705) 
+
 #### 4/28
 > A組可以在[Kingkaew seafood](https://maps.app.goo.gl/tvsMx87TD1TMysMA7) 吃
 > 12:00 A組準備回家~
 > 21:00 B組準備回家~
+
 #### 4/29
 >
+
 ### 想去想吃清單
 
 ### 吃吃喝喝
