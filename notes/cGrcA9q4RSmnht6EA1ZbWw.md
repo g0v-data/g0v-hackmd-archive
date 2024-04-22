@@ -1,10 +1,12 @@
 ---
 tags: summit2024
 ---
-# 20240416會議
-時間：4/2 22:00
+# 20240423 會議
+時間：4/23 22:00
 連結：[Jitsi Meet](https://jitsi.ocf.tw/g0vsummit2024program)
-出席：Peter,yellowsoar,rayen,ddio
+出席：
+
+gitlab 連結：
 
 ## Open Call 
 - [正式議程表](https://docs.google.com/spreadsheets/d/1T-0BlFpydEZtSFBjvOMyTmI0wPp-t0i1sLojpMIvBvM/edit?usp=sharing)

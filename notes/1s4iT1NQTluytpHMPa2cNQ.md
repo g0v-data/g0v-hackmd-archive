@@ -10,7 +10,7 @@ tags: summit2024
 ## 講者：Hal SEKI
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_de83e3d175e3dfe94491fd34d1604229.jpg =300x)
 
-Hal Seki 於 2013 年創辦非營利組織 Code for Japan，在日本推動公民科技文化、實作公民科技專案。2002 年起，Hal 在行動網路科技公司擔任地理軟體開發者，現任 Georepublic Japan 首席執行官，也是 HackCamp Inc. 首席執行官，協助企業舉辦黑客松、電子松及其他型態的工作坊，促進開放創新。Hal 也是神戶市的首席創新官，在神戶市建構開放創新生態系。
+Hal Seki 於 2013 年創辦非營利組織 Code for Japan，在日本推動公民科技文化、實作公民科技專案。2002 年起，Hal 在行動網路科技公司擔任地理軟體開發者，現任 Georepublic Japan 首席執行官，也是 HackCamp Inc. 首席執行官，協助企業舉辦黑客松、電子松及其他型態的工作坊，促進開放創新。Hal 也是神戶市的首席創新官，在城市裡建構開放創新生態系。
 
 Hal Seki is the founder of Code for Japan, a non-profit organization which aims to promote civic tech culture and implementing civic tech projects in Japan. Having been working at mobile-web companies as a geo developer since 2002, he is currently CEO of Georepublic Japan, and founder and CEO of HackCamp Inc., a company helping corporate open innovation by organizing hackathons, ideathons, and other workshops.
 
