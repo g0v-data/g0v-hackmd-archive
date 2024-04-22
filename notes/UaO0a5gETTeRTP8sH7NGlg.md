@@ -8,6 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
+- NPO Hub 出席：mrorz, bil
 - 線上出席：
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::

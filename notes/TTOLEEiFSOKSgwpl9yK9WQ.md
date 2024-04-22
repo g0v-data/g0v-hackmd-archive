@@ -49,10 +49,11 @@ Co-director of IORG
 Supinya Klangnarong: Cofact cofounder (M)
 Co-founder of COFACT Thailand, Fact-checking platform &amp; communities.
 
-She is a long-time advocate for media rights and quality journalism, digital rights and citizenship, Supinya started off her media advocacy work as Co-Ordinator, then Secretary-General of now-defunct Campaign for Popular Media Reform, when Thailand’s major
-reform kicked start after the May 1993 popular democracy uprising, then a Co-
-founder of Thai Netizen Network, Internet freedom advocacy group emerged after
-military coup in 2006.
+Supinya Klangnarong serves as co-founder of COFACT Thailand, a fact-checking platform, and Digital Thinkers Forum, a Bangkok-based think tank focusing on digital rights and literacy. With a rich background in media advocacy, she has been an Ashoka Fellow since 2004 and an Eisenhower Fellow in 2007.
+
+Supinya has held key positions such as Commissioner of the National Broadcast and Telecommunication Commission (NBTC) in Thailand from 2011 to 2017. She's also an honorary member of the Ethics Committee of The National Press Council of Thailand and a policy board member of the Thailand Consumers Council (TCC). 
+
+---
 
 ## 講者：Billion Lee:
 
