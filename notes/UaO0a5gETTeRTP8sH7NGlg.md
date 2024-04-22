@@ -81,8 +81,21 @@ mrorz 進行第一階段
 
 
 - 不應該讓刪文輕鬆成立，怕大家來問完之後就刪除，不符合公益 [name=bil]
-- 會不會有可能送進來的人
-  - 只要都是 Cofacts 
+- 會不會有可能送進來的人不是個資透露的本人 [name=T]
+  - 目前沒發生過，但有可能。所以就算實作了本人下架功能，其實還是沒辦法 cover 這個，需要靠現有的申訴機制處理 [name=orz]
+- 送出流程：想要拿掉 --> 不在資料庫 --> 是自己打的 --> 求助真人查證 [name=mrorz]
+  - 在最後這裡，MyGoPen 旁邊新增聯絡 Cofacts 的選項，使用者就不會選 MyGoPen [name=T]
+  - 「提出申訴」並非「真人查證」，導向到 Cofacts 處理 [name=T]
+  - 「申訴」不錯，避免使用者寄信來查假訊息
+- 可以用另一個信箱嗎 [name=bil]
+  - 表單也是可以 [name=mrorz]
+  - 要提供 URL、真實姓名、聯絡 email、電話
+  - 申訴請求：個資遮蔽 / 其他 etc
+
+:::success
+想一下 wording
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3c6af7c882548e8f2529f3181076e410.png)
+:::
 
 ### Proposal（單一訊息）
 
@@ -258,6 +271,11 @@ Press “🆕 Report to database” to make this message public on Cofacts websi
 ```
 :::
 
+:::success
+送出 wording：開票＋good first issue
+:::
+
+
 ### Proposal（多則訊息）
 > In `askingCooccurrence`
 
@@ -281,14 +299,21 @@ Anti-Misinformation Factchecking Chatbot: A Prototype for Malaysia
 > https://summit.g0v.tw/2024/agenda/#2024-038
 Khairil Zhafri
 > An interactive workshop to introduce, gather feedback, and solicit ideas on a prototype for a cross-platform an anti-misinformation chatbot targeted at Malaysian internet users. In this session, we will go through the implementation of multimedia integrations with WhatsApp and other instant messaging systems as well as an overview of available open standards for factchecking. 
+> 
+:::success
+不行的話 MrOrz 去聽 R2 的
+:::
 
 ## 小聚籌備
 
-5/25 or 26, bil 27 飛馬來西亞
+5/25 (六) or 26(日）, bil 27 飛馬來西亞
+
 
 - [ ] 日期：
 - [ ] 食物：
-- [ ] 場地：
+- [ ] 場地：新北青職基地
+    - 有一個 G-force 把 1F 整週都借掉了；6/1, 2 的一樓也已經被借走
+    - NPO Hub 的 5 月 quota 已經沒有了
 - [x] 時間：
 	- 活動時間：14:00 - 17:00
 	- 時間分配
@@ -307,12 +332,12 @@ Khairil Zhafri
   - 推播日之前：新北志工優先報名
   - 目標：雙北、桃園？
 - [ ] KKTIX:https://cofacts.kktix.cc/events/cofactseditor41
-- [ ] 誰會來呢：
+- [ ] 誰會來呢：bil, mrorz, nonumpa
 - [ ] 記得帶：貼紙、環保杯
 - [ ] LINE 文案
 - [ ] VOOM 發文
 
 ## 下次開會
 
-5/2 (四)，實體，要跟 NPO hub 講
+5/2 (四)，有實體，要跟 NPO hub 講 --> done
 
