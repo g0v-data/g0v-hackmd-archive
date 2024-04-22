@@ -57,7 +57,7 @@ Design doc: https://g0v.hackmd.io/um7DyY_ESbu2LL78kLw3pg?both
 > 送出前的這段真的要改
 > 1. 「在 Cofacts 真的假的資料庫公開這則訊息」 使用者不一定知道是網站
 > 2. 試著最後加一句注意個人資訊的警語？
-> ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_283b20329c0b8d1b12bb21f26cc78015.png)
+> ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_283b20329c0b8d1b12bb21f26cc78015.png =x200)
 > [name=cai]
 > 
 > 目前的 wording 來源似乎是在 2020 年討論的結果
@@ -74,7 +74,23 @@ Design doc: https://g0v.hackmd.io/um7DyY_ESbu2LL78kLw3pg?both
 > 我也有點忘記當時的考量點是什麼，記錄到的討論結果有點模糊
 > [name=mrorz]
 
+### Proposal（單一訊息）
 
+目前資料庫裡沒有您傳的訊息。如果您覺得：
+1. 它很可能是謠言
+2. 您願意公開此訊息
+
+請按「🆕 送進資料庫查核」在 Cofacts 網站公開它，讓好心人能查證與回覆。您可以幫助到未來同樣收到這份訊息的人。
+
+
+### Proposal（多則訊息）
+
+您傳的 N 則訊息，目前都不在 Cofacts 資料庫裡。
+若您覺得：
+1. 它們很可能是謠言
+2. 您願意公開這些訊息
+
+請按「🆕 送進資料庫查核」在 Cofacts 網站公開它，讓好心人能查證與回覆。您可以幫助到未來同樣收到這些訊息的人。
 
 ## g0v summit
 

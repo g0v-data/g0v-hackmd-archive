@@ -11,8 +11,8 @@ Even those who are not familiar with the field of technology can use generative 
 
 ## Agenda
 9:30-10:00Jason Keynote
-10:00-10:40Panel Code for Korea/Japan/Jason/Billion
-10:40-11:10 Cofact intro/ iorg intro 
+10:00-10:40Panel Ohyeon KWEON/Hal SEKI/Jason/Billion
+10:40-11:10 Cofact intro/Cofacts intro/ iorg intro
 11:10-11:40 panel with Cofacts/Cofact/ Chihhao
 
 **10:40-11:10 7-9 mins 簡介**
@@ -35,13 +35,17 @@ Code for Korea///Ohyeon KWEON(L)
 Code for Japan ///Hal SEKI(L)
 
 
-## 講者：Chihhao Yu:Co-director of IORG
-Supinya Klangnarong: Cofact cofounder (M)
+## 講者：Chihhao Yu:
+Co-director of IORG
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7bcf4ee265f680fb9a41b70189605fec.jpg  =50%x)
 
 
 ## 講者：Supinya Klangnarong, Thailand
+
+Supinya Klangnarong: Cofact cofounder (M)
 Co-founder of COFACT Thailand, Fact-checking platform &amp; communities.
+
 
 She is a long-time advocate for media rights and quality journalism, digital rights and citizenship, Supinya started off her media advocacy work as Co-Ordinator, then Secretary-General of now-defunct Campaign for Popular Media Reform, when Thailand’s major
 reform kicked start after the May 1993 popular democracy uprising, then a Co-
@@ -75,4 +79,5 @@ Billion is Cofacts cofounder. She has been advocating for marriage equality and 
 2.IORG 有這些年來長時間的資料累積與分析經驗，有什麼挑戰與收穫可以跟大家分享嗎？
 >Chihhao
 
-3.Cofact 如何跟泰國當地的科技公司合作呢？
+3.比起單純的分享會，Cofact 有許多有趣的活動，例如環保袋宣傳、與民眾交流，你們如何跟泰國當地的科技公司合作呢？
+>Supinya 
