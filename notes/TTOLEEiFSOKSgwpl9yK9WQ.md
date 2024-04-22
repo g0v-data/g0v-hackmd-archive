@@ -40,28 +40,27 @@ Code for Japan ///Hal SEKI(L)
 ## 講者：Chihhao Yu:
 Co-director of IORG
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7bcf4ee265f680fb9a41b70189605fec.jpg  =50%x)
 
 
 ## 講者：Supinya Klangnarong, Thailand
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7bcf4ee265f680fb9a41b70189605fec.jpg  =50%x)
+
 Supinya Klangnarong: Cofact cofounder (M)
 Co-founder of COFACT Thailand, Fact-checking platform &amp; communities.
-
 
 She is a long-time advocate for media rights and quality journalism, digital rights and citizenship, Supinya started off her media advocacy work as Co-Ordinator, then Secretary-General of now-defunct Campaign for Popular Media Reform, when Thailand’s major
 reform kicked start after the May 1993 popular democracy uprising, then a Co-
 founder of Thai Netizen Network, Internet freedom advocacy group emerged after
 military coup in 2006.
+
 ## 講者：Billion Lee:
 
-Cofacts cofounder(M)
+Cofacts cofounder (M)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4cf6889d359cab2c2deed5fb43080e16.jpeg =50%x)
 
 Billion is Cofacts cofounder. She has been advocating for marriage equality and civic empowerment, dedicating herself to connecting different communities and providing media literacy courses to combat disinformation. She has previously visited PolitiFact in the United States for exchanges and connected contributors from different countries, to collaborate on clarifying information. She manages a community working on OSINT fact-checking skills and media literacy. 
-
-
 
 
 ## 訪綱

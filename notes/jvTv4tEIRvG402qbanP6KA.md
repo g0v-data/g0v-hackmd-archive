@@ -36,6 +36,7 @@ tags: summit2024,
 ## 媒體組自行刊登新聞稿
 * 會前新聞稿 
 [新聞稿自助吧](https://nbf.bar/lDaCV)
+[台灣新聞聯播網](https://twnewshub.com/archives/66919)
 
 
 ## Summit與其他單位合作

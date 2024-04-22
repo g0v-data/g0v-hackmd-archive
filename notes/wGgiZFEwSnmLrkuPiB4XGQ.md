@@ -8,7 +8,7 @@
 - Open participation, 30 people max
 
 ## Agenda
-### Introduction (5 mins
+### Introduction (5 mins)
 - Chihhao Yu
 
 ### Experience-sharing (20 mins)
@@ -22,13 +22,13 @@
 
 ## Invited participants
 - Hal Seki
-    - Founder, Code for Japan
+    - Founder, Code for Japan (Japan)
 - Ohyeon Kweon
-    - Organiser, Code for Korea
+    - Organiser, Code for Korea (Korea)
 - Patipat Susumpao
-    - Managing Director, Opendream
+    - Managing Director, Opendream (Thailand)
 - More to be confirmed...
 
 ## Moderator
 - Chihhao Yu
-    - Co-director, IORG
+    - Co-director, IORG (Taiwan)
