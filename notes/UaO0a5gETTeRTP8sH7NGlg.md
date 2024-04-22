@@ -16,9 +16,6 @@ GA: UA-98468513-3
 
 ### :star: Released to production
 
-#### :electric_plug: API
-#### :globe_with_meridians: Site
-
 #### :robot_face: rumors-line-bot
 
 LIFF page "mgpAwardee", cofacts.tw/mgpAwardee
@@ -76,16 +73,183 @@ Design doc: https://g0v.hackmd.io/um7DyY_ESbu2LL78kLw3pg?both
 
 ### Proposal（單一訊息）
 
-目前資料庫裡沒有您傳的訊息。如果您覺得：
+> `util.ts`
+
+目前資料庫裡沒有您傳的訊息。
+Currently we don’t have this message in our database.
+
+如果您覺得：
+If you think:
+
 1. 它很可能是謠言
+   It is most likely a rumor
 2. 您願意公開此訊息
+   You are willing to make the message public
 
 請按「🆕 送進資料庫查核」在 Cofacts 網站公開它，讓好心人能查證與回覆。您可以幫助到未來同樣收到這份訊息的人。
+Press “🆕 Report to database” to make this message public on Cofacts website and have volunteers fact-check it. This way you can help the people who receive the same message in the future.
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_554a45b05b976a2c102031d003a4f1c2.png)
+
+:::spoiler JSON
+
+```javascript=
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "目前資料庫裡沒有您傳的訊息。",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "若您覺得：",
+        "margin": "md",
+        "wrap": true
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🤔",
+            "flex": 0,
+            "margin": "none"
+          },
+          {
+            "type": "text",
+            "text": "它很可能是謠言",
+            "wrap": true,
+            "flex": 1,
+            "margin": "md",
+            "contents": [
+              {
+                "type": "span",
+                "text": "它很可能是"
+              },
+              {
+                "type": "span",
+                "text": "謠言",
+                "decoration": "none",
+                "color": "#ffb600",
+                "weight": "bold"
+              }
+            ]
+          }
+        ],
+        "margin": "md"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🌐",
+            "flex": 0,
+            "margin": "none"
+          },
+          {
+            "type": "text",
+            "text": "它很可能是謠言",
+            "wrap": true,
+            "flex": 1,
+            "margin": "md",
+            "contents": [
+              {
+                "type": "span",
+                "text": "您願意"
+              },
+              {
+                "type": "span",
+                "text": "公開",
+                "decoration": "none",
+                "color": "#ffb600",
+                "weight": "bold"
+              },
+              {
+                "type": "span",
+                "text": "這則訊息"
+              }
+            ]
+          }
+        ],
+        "margin": "md"
+      },
+      {
+        "type": "text",
+        "text": "請按「🆕 送進資料庫查核」在 Cofacts 網站公開它，讓好心人能查證與回覆。您可以幫助到未來同樣收到這份訊息的人。",
+        "wrap": true,
+        "contents": [
+          {
+            "type": "span",
+            "text": "請按「"
+          },
+          {
+            "type": "span",
+            "text": "🆕 送進資料庫查核",
+            "color": "#ffb600",
+            "weight": "bold"
+          },
+          {
+            "type": "span",
+            "text": "」在 Cofacts 網站公開它，讓好心人能查證與回覆。您可以幫助到未來同樣收到這份訊息的人。"
+          }
+        ],
+        "margin": "md"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "🆕 送進資料庫查核",
+          "uri": "https://linecorp.com"
+        },
+        "color": "#ffb600"
+      },
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "我不想回報訊息",
+          "uri": "https://linecorp.com"
+        },
+        "color": "#333333"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+```
+:::
 
 ### Proposal（多則訊息）
+> In `askingCooccurrence`
 
 您傳的 N 則訊息，目前都不在 Cofacts 資料庫裡。
+
 若您覺得：
 1. 它們很可能是謠言
 2. 您願意公開這些訊息
@@ -97,6 +261,13 @@ Design doc: https://g0v.hackmd.io/um7DyY_ESbu2LL78kLw3pg?both
 社群軌 - AI 時代的資訊挑戰
 5/4 10:40 @ R0
 > 再不熟悉科技領域的人都可以使用生成式ＡＩ體驗各種資料累積下的預測與衝擊，更有許多人預測生成式ＡＩ將帶來更多的假資訊，而群眾的認知面臨更多的挑戰。在資訊環境中，公民科技社群Cofacts要與來自泰國的Cofact公民科技查核組織還有台灣資訊環境研究中心一起來討論假訊息的各種挑戰與如何透過協作與連結守護我們的資訊環境。
+
+同時間在 R2：
+Anti-Misinformation Factchecking Chatbot: A Prototype for Malaysia
+5/4 10:40 @ R2
+> https://summit.g0v.tw/2024/agenda/#2024-038
+Khairil Zhafri
+> An interactive workshop to introduce, gather feedback, and solicit ideas on a prototype for a cross-platform an anti-misinformation chatbot targeted at Malaysian internet users. In this session, we will go through the implementation of multimedia integrations with WhatsApp and other instant messaging systems as well as an overview of available open standards for factchecking. 
 
 ## 小聚籌備
 
@@ -128,5 +299,5 @@ Design doc: https://g0v.hackmd.io/um7DyY_ESbu2LL78kLw3pg?both
 
 ## 下次開會
 
-5/2，實體，要跟 NPO hub 講
+5/2 (四)，實體，要跟 NPO hub 講
 
