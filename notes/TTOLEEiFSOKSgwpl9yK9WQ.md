@@ -36,14 +36,6 @@ Code for Japan ///Hal SEKI(L)
 
 
 ## 講者：Chihhao Yu:Co-director of IORG
-## 講者：Billion Lee:
-
-Cofacts cofounder(M)
-
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4cf6889d359cab2c2deed5fb43080e16.jpeg =50%x)
-
-Billion is Cofacts cofounder. She has been advocating for marriage equality and civic empowerment, dedicating herself to connecting different communities and providing media literacy courses to combat disinformation. She has previously visited PolitiFact in the United States for exchanges and connected contributors from different countries, to collaborate on clarifying information. She manages a community working on OSINT fact-checking skills and media literacy. 
-
 Supinya Klangnarong: Cofact cofounder (M)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7bcf4ee265f680fb9a41b70189605fec.jpg  =50%x)
 
@@ -55,14 +47,23 @@ She is a long-time advocate for media rights and quality journalism, digital rig
 reform kicked start after the May 1993 popular democracy uprising, then a Co-
 founder of Thai Netizen Network, Internet freedom advocacy group emerged after
 military coup in 2006.
+## 講者：Billion Lee:
+
+Cofacts cofounder(M)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4cf6889d359cab2c2deed5fb43080e16.jpeg =50%x)
+
+Billion is Cofacts cofounder. She has been advocating for marriage equality and civic empowerment, dedicating herself to connecting different communities and providing media literacy courses to combat disinformation. She has previously visited PolitiFact in the United States for exchanges and connected contributors from different countries, to collaborate on clarifying information. She manages a community working on OSINT fact-checking skills and media literacy. 
+
+
 
 
 ## 訪綱
 
 1.在現在的資訊環境當中，什麼樣的資訊或是困擾是最希望提醒大家的呢？
-2.
-3.
-4.
+2.公民科技可以做出的貢獻有哪些？如何分辨資訊操弄、不實資訊與假新聞？
+3.對你來說，什麼叫做ＡＩ世代，我們如何面對這些ＡＩ產生的假資訊？
+4.就你的觀察，所謂生成式ＡＩ產生的假訊息，會以哪些方式影響我們的資訊環境？
 
 ## QA
 
@@ -74,4 +75,4 @@ military coup in 2006.
 2.IORG 有這些年來長時間的資料累積與分析經驗，有什麼挑戰與收穫可以跟大家分享嗎？
 >Chihhao
 
-3.
+3.Cofact 如何跟泰國當地的科技公司合作呢？
