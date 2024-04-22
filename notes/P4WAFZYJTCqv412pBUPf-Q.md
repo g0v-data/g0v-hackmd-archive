@@ -177,6 +177,7 @@
 #### 4/25
 > 飯店 check in
 12:00 午餐 [咖哩蟹肉](https://www.instagram.com/reel/C4-bVJCvnBb/?utm_source=ig_web_button_share_sheet)
+
  **未預約** 17:00 晚餐 [空中酒吧 TRIBE Sky Beach Club](https://maps.app.goo.gl/6ZEnyMvcAb8HTQGB6)
 #### 4/26
 
