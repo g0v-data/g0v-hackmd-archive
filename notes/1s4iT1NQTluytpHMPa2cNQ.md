@@ -10,6 +10,8 @@ tags: summit2024
 ## 講者：Hal SEKI
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_de83e3d175e3dfe94491fd34d1604229.jpg =300x)
 
+Hal Seki 於 2013 年創辦非營利組織 Code for Japan，在日本推動公民科技文化、實作公民科技專案。2002 年起，Hal 在行動網路科技公司擔任地理軟體開發者，現任 Georepublic Japan 執行長，也是 HackCamp Inc. 執行長，協助企業舉辦黑客松、電子松及其他型態的工作坊，促進開放創新。Hal 也是神戶市的首席創新官，在神戶市建構開放創新生態系。
+
 Hal Seki is the founder of Code for Japan, a non-profit organization which aims to promote civic tech culture and implementing civic tech projects in Japan. Having been working at mobile-web companies as a geo developer since 2002, he is currently CEO of Georepublic Japan, and founder and CEO of HackCamp Inc., a company helping corporate open innovation by organizing hackathons, ideathons, and other workshops.
 
 Hal is also Chief Innovation Officer of Kobe City, building an open innovation ecosystem in the city.
@@ -21,6 +23,8 @@ Text adapted from https://www.linkedin.com/in/halsk/.
 ## 講者：Ohyeon KWEON
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_84bcd32cec68eacb598d2a3345a57c16.png =300x)
+
+Ohyeon 是 Code for Korea 的組織者，維護韓國的公民黑客網絡。Ohyeon 於 2015 年創辦由數位民主行動者組成的合作社 Parti，以及生產創新解決方案推動變革的社會企業 UFOfactory。Ohyeon 曾在媒體、
 
 Ohyeon is an organiser of Code for Korea, striving to create a civic hacker network in Korea. He founded Parti, a social cooperative of digital democracy activists, and UFOfactory, a social enterprise that generates creative solutions for change. He has been working in media and community platforms, and in open and civic technology for social innovation, citizen sovereignty, social economy, and open government.
 

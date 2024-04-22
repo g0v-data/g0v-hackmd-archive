@@ -12,14 +12,14 @@ Even those who are not familiar with the field of technology can use generative 
 
 ## Agenda
 9:30-10:00Jason Keynote
-10:00-10:40Panel Code for Korea/Japan/Jason/Billion
-10:40-11:10 Cofact intro/ iorg intro 
+10:00-10:40Panel Ohyeon KWEON/Hal SEKI/Jason/Billion
+10:40-11:10 Cofact intro/Cofacts intro/ IORG intro
 11:10-11:40 panel with Cofacts/Cofact/ Chihhao
 
 **10:40-11:10 7-9 mins 簡介**
 Cofact
-IORG
 Cofacts
+IORG
 **11:10-11:40: Discussion**
 
 

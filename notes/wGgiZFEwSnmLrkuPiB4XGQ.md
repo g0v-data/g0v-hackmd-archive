@@ -2,7 +2,7 @@
 
 ## Info
 - Date & Time: Sunday May 5th
-- Language: English, no interpretation
+- Language: ==English==, no interpretation
 - Open participation, 30 people max
 
 ## Invited participants
