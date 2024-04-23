@@ -10,6 +10,8 @@ tags: summit2024
 ## keynote Speaker 
 
 ## Open Call 
+- 待辦：消除註解
+    - 要開票
 - [正式議程表](https://docs.google.com/spreadsheets/d/1T-0BlFpydEZtSFBjvOMyTmI0wPp-t0i1sLojpMIvBvM/edit?usp=sharing)
 - [講者all in one](https://docs.google.com/spreadsheets/d/17Ovu5Dvm86z4BmFk24096ns5X-OLvDIt7AlkALI2BiY/edit?usp=sharing)
 - 線上錄影的講者
@@ -105,4 +107,4 @@ Dear Speakers
     - 
 - Welcome note 
 - 更新共筆連結（無側邊欄到有側邊欄）
-- 
+- 確認5/3清單
