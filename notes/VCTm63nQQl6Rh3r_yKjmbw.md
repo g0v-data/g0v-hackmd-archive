@@ -20,7 +20,8 @@ Registration will start from April 15 and close by June 30th
 :::
 
 ## Event Schedule
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_874b4035d2b0f0238621218bb2863c3a.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_668320828eb83c9bac2fd3ca27013a67.png)
+
 
 
 ## Venue - Pacific Convention Plaza Yokohama（PACIFICO Yokohama）/ Annex Hall
