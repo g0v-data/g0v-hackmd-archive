@@ -177,3 +177,6 @@ https://www.facebook.com/groups/833818867108726/posts/1626176434539628/
 
 三立新聞
 https://www.facebook.com/setnews/posts/pfbid022Gum2BggnwpGriG8CoTaY6kWJyRP9SHPxrtVPgDR4bDstGFTXrGhR3dbP7wc4M68l
+
+監測相機，也拍下地震景象
+https://www.facebook.com/share/v/VAHdK19e69uFixqC/
