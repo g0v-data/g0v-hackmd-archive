@@ -24,6 +24,10 @@ Cofacts
 主持人提問
 現場開放提問
 
+
+### 語言 
+華語 English 混用，本場議程可能出現泰文。
+
 ## 主持人:劉致昕
 Jason Liu
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b2c56a436f3e45854d2b2db596b7faa6.BMP =80%x)
@@ -39,7 +43,7 @@ Code for Japan ///Hal SEKI(L)
 
 ## 講者：Chihhao Yu
 Co-director of IORG
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a39b0a4e18cbafeece8c4f7bbd1a60f9.jpg =70%x)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a39b0a4e18cbafeece8c4f7bbd1a60f9.jpg =60%x)
 
 
 

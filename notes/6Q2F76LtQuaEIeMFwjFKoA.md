@@ -23,6 +23,10 @@ IORG
 **11:10-11:40: Discussion**
 
 
+### 語言 
+華語 English 混用，本場議程可能出現泰文。
+
+
 ## 主持人:劉致昕
 Jason Liu
 劉致昕，記者、作者、podcaster，著有《真相製造》、《烏克蘭的不可能戰爭》，聲音節目《不好意思請問一下》。
@@ -31,7 +35,7 @@ Jason Liu
 
 ## 講者：Chihhao Yu
 Co-director of IORG
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a39b0a4e18cbafeece8c4f7bbd1a60f9.jpg =70%x)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a39b0a4e18cbafeece8c4f7bbd1a60f9.jpg =60%x)
 
 
 
@@ -48,7 +52,7 @@ Co-director of IORG
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7bcf4ee265f680fb9a41b70189605fec.jpg  =50%x)
 
-Supinya Klangnarong: Cofact cofounder (M)
+Supinya Klangnarong: Cofact cofounder
 Co-founder of COFACT Thailand, Fact-checking platform &amp; communities.
 
 Supinya Klangnarong serves as co-founder of COFACT Thailand, a fact-checking platform, and Digital Thinkers Forum, a Bangkok-based think tank focusing on digital rights and literacy. With a rich background in media advocacy, she has been an Ashoka Fellow since 2004 and an Eisenhower Fellow in 2007.
@@ -59,7 +63,7 @@ Supinya has held key positions such as Commissioner of the National Broadcast an
 
 ## 講者：Billion Lee
 
-Cofacts cofounder (M)
+Cofacts cofounder 
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4cf6889d359cab2c2deed5fb43080e16.jpeg =50%x)
 

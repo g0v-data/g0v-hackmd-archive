@@ -45,7 +45,7 @@ tags: summit2024
 | 白貓 | White Cat | Nikon D5600  | 拍攝年會、高階修圖、基本閃燈 | 3,4,5。感謝! | O |
 | Janice Hu | Janice Hu | Fujifilm XT4 (XF18-55) | 拍攝年會、無修圖、無閃燈 | 4,5 | O |
 | 圍棋 | ---- | 無 | 新手、表單寫無修圖經驗、無閃燈 | 4,5 | O |
-| 77 | qiqi77 | ---- |O (基本修圖可) | ---- | ----|
+| 77 | qiqi77 | 手機 |新手、無修圖、無閃燈 | 4,5 | O|
 | 黃楷越 | ---- | Pixel6 (手機) | 新手、無修圖、無閃燈 | 4,5 | O |
 | 海豹 | 海豹 | Sony A7M4 * 2 Tamron20-40 F2.8 Di III VXD Tamron35-150 F2-2.8 Di III VXD| 年會老手、進階修圖、進階閃燈 | 4,5 | O |
 | 柴犬 | shibasalmon | Nikon D750 | ---- | ---- | ---- |
