@@ -3,13 +3,12 @@
 
 
 ## 登記預算
-1. 各組至[預算表](https://docs.google.com/spreadsheets/d/1Ogc-vW5A7WXm7DC0Q0LTEeehS0MTOAVYp7d5DIsOnnQ/edit#gid=0)先行填寫預算，回到 #coordinatoor 通知大家連署
-2. 達二個協調人連署，則該預算通過
-3. 每週協調人跨組會議時，亦可拉票說明討論相關預算
-4. 已經達二個同意之預算即通過，請款才會進行出款
+1. 各組至 [預算表](https://docs.google.com/spreadsheets/d/1Ogc-vW5A7WXm7DC0Q0LTEeehS0MTOAVYp7d5DIsOnnQ/edit#gid=0)先行填寫預算，回到 #coordinatoor 通知大家連署
+2. 每週協調人跨組會議時，亦可拉票說明討論相關預算
+3. 已經達二個同意之預算即通過，請款才會進行出款
 
 ## 追加預算
-1. 如特殊狀態本來預算不夠，亦請於 Slack 群組中找到至少 3 個協調人附議，通過即可通過追加。
+1. 如特殊狀態本來預算不夠，亦請於 Slack 群組中找到至少 2 個協調人附議，通過即可通過追加。
 2. 請將追加通過該則 Slack 網址貼到「追加附議」
 3. 可附議區為 #coordinatoor 群
 
@@ -22,7 +21,9 @@
     - 5/7 前申請｜5/16 出款、
     - 5/28 前申請｜6/6 出款、
     - 6/11 前申請｜6/20 出款
-2. 請 Email 到 財務組雁子: oabb1388 小老鼠 gmail.com + coordinatoor: summit 小老鼠 g0v.tw
+2. 請同時 Email 到 
+**財務組雁子:** `oabb1388 小老鼠 gmail.com` 
+及 **coordinatoor 組長協調人們:** `summit 小老鼠 g0v.tw`
 3. Email 格式：
 
 > 申請款項編號：
@@ -40,5 +41,5 @@
 
 ## 特殊狀況記錄
 
-1. 如是只有報價單、要付訂金或要臨時出款，請將報價單、等文件依照前述方法先寄送前述 2 個 Email。
+1. 如是只有報價單、要付訂金狀態下，在非出款期間要臨時出款，請將報價單、等文件依照前述方法先寄送前述 2 個 Email 申請「緊急出款」
 2. 緊急出款時，出款時時會以「零用金」帳戶出款，出款時會同步 email 到「 summit 小老鼠 g0v.tw」供組長們備存，並財務記錄尚須提供多少發票來核銷。

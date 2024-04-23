@@ -25,6 +25,9 @@ https://drive.google.com/file/d/1Q4PPs1PBVGaKdgBm13KxznWRKC7IjTSd/view
 宣傳 Banner （940 x 410）
 https://drive.google.com/drive/folders/1aZFLEKZHC62F2XfPAEjPHXCyrykPf4vt?usp=sharing
 
+活動內容相關資訊圖檔
+https://drive.google.com/drive/folders/15kQmlgdwP4xd6VLS8dTrefuSug8gsV76?usp=drive_link
+
 ## g0v Summit 2024 歷期電子報
 ::: info
 👉[訂閱 g0v Summit 2024 電子報](http://eepurl.com/iDb61o)
