@@ -14,8 +14,17 @@ tags: vtaiwan
 - 要達成共識的 seed statement
 
 ### seed statement 
-> 盡量採取正面敘述 [name=peter]
-- 
+> 盡量採取正面敘述 [name=josh]
+
+- Multistakeholder governance effectively increases accountability in decision-making processes.
+- The complexity of multistakeholder governance often outweighs its benefits.
+- Inclusion of diverse stakeholders slows down the decision-making process but leads to more sustainable solutions.
+- Multistakeholder governance models can be too influenced by the most powerful parties involved.
+- Public engagement in the design of multistakeholder governance structures enhances their legitimacy.
+- Technological tools are essential for effective multistakeholder governance.
+- A lack of clear leadership in multistakeholder settings leads to inefficiency.
+- Government involvement is crucial for the success of multistakeholder initiatives.
+
 #### 基本題
 - 分組題：0-5 / 0-1悲觀 2-3 中立 4-5樂觀
     - 你覺得理想的多元利害關係人治理機制有可能達成嗎？
