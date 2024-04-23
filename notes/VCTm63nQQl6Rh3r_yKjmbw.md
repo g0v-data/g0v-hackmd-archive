@@ -15,27 +15,30 @@ Hotel Recomendation List
 https://docs.google.com/spreadsheets/d/1tliXkzCzvmeblsRBwzoJp3dLwWn-von2f6nkV6Zcx1g/edit#gid=0
 :::
 
+## Registration
 :::info
-Registration will start from April 15 and close by June 30th
+Registration will close by June 30th
 :::
+
+- 台灣參與者這裡報名 >>> https://forms.gle/mnUqTxvCNF8vmNUY6 <<< Taiwan participants here
+- 日本參與者 >>> [link] <<< Japan participants here
+- 韓國參與者 >>> [link] <<< Korea participants here
 
 ## Event Schedule
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_668320828eb83c9bac2fd3ca27013a67.png)
 
-
-
-## Venue - Pacific Convention Plaza Yokohama（PACIFICO Yokohama）/ Annex Hall
+## Venue - Pacific Convention Plaza Yokohama (PACIFICO Yokohama) / Annex Hall
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_47fad0c2b892b0ef7b231f189b7eb573.png)
+
 ### Location
 Pacific Convention Plaza Yokohama（PACIFICO Yokohama）
 1-1-1, Minato Mirai, Nishi-ku, Yokohama 220-0012, JAPAN
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4e7cb15baaff87d84dec6ae1cbe4a0d6.png)
+
 ### Accsess
 https://www.pacifico.co.jp/english/access
-
-
 
 ## Organizers
 

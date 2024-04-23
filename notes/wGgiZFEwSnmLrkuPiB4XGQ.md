@@ -1,3 +1,6 @@
+---
+tags: summit2024
+---
 # 公民社會、科技平台，如何協作？ How do civil society organizations and tech platforms collaborate?
 
 **Workshop on Information Integrity and Digital Human Rights in Asia Pacific 亞太資訊健全及數位人權工作坊**

@@ -272,7 +272,7 @@ Press “🆕 Report to database” to make this message public on Cofacts websi
 :::
 
 :::success
-送出 wording：開票＋good first issue
+送出 wording：開票＋good first issue --> https://github.com/cofacts/rumors-line-bot/issues/394
 :::
 
 

@@ -37,9 +37,19 @@ Code for Korea///Ohyeon KWEON(L)
 Code for Japan ///Hal SEKI(L)
 
 
-## 講者：Chihhao Yu:
+## 講者：Chihhao Yu
 Co-director of IORG
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a39b0a4e18cbafeece8c4f7bbd1a60f9.jpg =70%x)
 
+
+
+台灣資訊環境研究中心 IORG 共同主持人
+台灣零時政府 g0v 國際交流社群工作小組共同創辦人
+港台日韓公民黑客社群網絡「面海松」共同主辦人
+
+- IORG co-director
+- g0v international community taskforce co-founder
+- Facing the Ocean co-organizer
 
 
 ## 講者：Supinya Klangnarong, Thailand
@@ -55,7 +65,7 @@ Supinya has held key positions such as Commissioner of the National Broadcast an
 
 ---
 
-## 講者：Billion Lee:
+## 講者：Billion Lee
 
 Cofacts cofounder (M)
 
