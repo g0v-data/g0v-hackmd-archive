@@ -25,6 +25,7 @@ tags: summit2024, photos, photography
     出圖名義： g0v summit 2024 籌備團隊
 
 ### 議程組
+- 講者在 VIP 室
 
 ### 財務組
 沒需求

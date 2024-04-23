@@ -18,6 +18,13 @@ tags: summit2024
 
 * 報到
     * OPass
+    		* 對應到 KKTIX 每一張票的 token 還沒產 [name=yellowsoar]
+    		* iOS 連結
+					https://itunes.apple.com/app/id1436417025
+    		* android 連結
+					https://play.google.com/store/apps/details?id=app.opass.ccip
+		* 要提供 Ted 錄的動線嗎？
+			https://odysee.com/@ted.lu.tw:c/sinica-north-to-hslib:5?r=J6xDG6SYcdHNtVyz31PhhYgmeaFVDjAj
 
 * 餐飲
 場地內除了用餐區以外，皆禁止飲食，只能帶有蓋水瓶進出?

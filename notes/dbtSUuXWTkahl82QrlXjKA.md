@@ -22,7 +22,16 @@ tags: web3, Shoutout
 ## To-Dos Checklist
 
 ## 會議紀錄
-
+- To-do
+    - Shoutout by 名稱有問題、生成的GIF在general跟Demo App不同 -> 改物件試試看
+- 未來可做的功能
+    - 可以多一個欄位來做分類
+    - 提供save as draft功能
+    - 多一個按鈕設定shout0ut顯示的地方
+    - 主動在channel發出提醒 or 積分榜資訊
+    - 之後可以把shout0ut內容上鏈
+    - 報到功能
+    - 心得紀錄
 ## Action Items
 
 ## AI 整理總結

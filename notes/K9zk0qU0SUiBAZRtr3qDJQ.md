@@ -2,7 +2,7 @@
 tags: summit2024
 ---
 # 20240423 會議
-時間：4/2 22:00
+時間：4/23 22:00
 連結：[Jitsi Meet](https://jitsi.ocf.tw/g0vsummit2024program)
 出席：Peter,yellowsoar,rayen,ddio
 
@@ -24,9 +24,9 @@ tags: summit2024
 ::: info
 主旨：【g0v Summit 2024】講者行前通知 Event Notice for Speakers 
 內文：
-
-
 :::
+
+
 ### 交通補助資料
 - 
 ## 焦點議程
@@ -41,7 +41,8 @@ tags: summit2024
 ## Unconference 
 - [Unconf](/kFBljhsrSTW-mT_A-sBPVw)
 - 要將說明整理到 [大會共筆](https://g0v.hackmd.io/@summit2024/notes)
-- 一個人可以投幾票？
+- ~~一個人可以投幾票？~~
+		- ✅已更新[name=yellowsoar]
 ## 議程助理
 - [議程組細流](https://docs.google.com/spreadsheets/d/1P4XNhq2Eb2ACg7EL0lMLOTdvTxtseGStF2Nl_umge2o/edit?usp=sharing)，涵蓋議程組組員與所有議程助理。
 - 工作手冊內容修正
@@ -56,4 +57,6 @@ tags: summit2024
 - [主持人工作表](https://docs.google.com/spreadsheets/d/1bT2r8Kb5roTEzXhp5zTbiMLT658EBDNC8bCzZZgrTSQ/edit?usp=sharing)
 - [主持人所需資料](https://docs.google.com/document/d/1rCrl6jIHYExEyocYspTA4yrEArAbRDstI4qOztfCuN4/edit?usp=sharing)
 
-## 
+## 要跟揪松商借的器材、物資
+
+- RH 投影解決方案？[name=yellowsoar]
