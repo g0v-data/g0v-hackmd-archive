@@ -1,6 +1,6 @@
 # Seamless Switchover: Blue-Green Front-End Deployment
 
-A key idea in contemporary software development and deployment methods, especially in the context of the DevOps paradigm, is blue-green deployment. The difficulties of introducing updates and new features to web-based apps without upsetting users or causing downtime are addressed by this deployment model. 
+A key idea in contemporary software development and deployment methods, especially in the context of the [DevOps](https://about.gitlab.com/topics/devops/#:~:) paradigm, is [blue-green deployment](https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/bluegreen-deployments.html#:~:). The difficulties of introducing updates and new features to web-based apps without upsetting users or causing downtime are addressed by this deployment model. 
 
 ## Definition and Concept
 Maintaining two distinct but similar environments—referred to as "blue" and "green"—is the task of blue-green deployment. These environments are functionally identical since their hardware, software, and configurations are mirror images of one another. The green environment is where updates and new features are staged, whereas the blue environment is the application as it is currently available for use.
@@ -69,11 +69,12 @@ Blue-green deployment operates on the principle of maintaining two identical yet
 We'll use the image below to illustrate the working principles of blue-green deployment.
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5c758010dd41d74cd31c06572275bf46.png)
+Source: aws.amazon.com
 
 In the Blue-Green deployment model, two environments are utilized: Blue and Green. Let's illustrate this with an example. Assume that version 1 is the current version of the application, while version 1.1 represents the new update. Version 1 is designated as the blue environment, while version 1.1 is the green environment.
 
 ### The Process of Switching Traffic Between Environments
-As seen in the above image, load balancers and routers are used to move users from the Blue instance to the Green one. Load balancers provide instantaneous switching in contrast to DNS record changes, which may take some time to propagate. The load balancer directs fresh traffic to the Green environment by using the same DNS record, enabling smooth user control. In the event that there are problems with the green instance, this is essential for rapidly rolling users back to version 1 (the blue instance).
+As seen in the above image, [load balancers](https://en.wikipedia.org/wiki/Load_balancing_(computing)) and routers are used to move users from the Blue instance to the Green one. Load balancers provide instantaneous switching in contrast to [DNS](https://www.cloudflare.com/learning/dns/what-is-dns/) record changes, which may take some time to propagate. The load balancer directs fresh traffic to the Green environment by using the same DNS record, enabling smooth user control. In the event that there are problems with the green instance, this is essential for rapidly rolling users back to version 1 (the blue instance).
 
 ### Deployment and Parallel Running
 The Green instance (version 1.1) runs concurrently with the older version in production after it is judged ready. Traffic is seamlessly diverted from the Blue instance to the Green instance via the load balancer. As they effortlessly access the updated version of the service or program, the majority of users won't even notice the move.
@@ -164,20 +165,19 @@ For example:
 A social media platform adopts canary deployment to test a new feature. Initially, the feature is made available to a small group of users, such as beta testers or internal employees. If the feature receives positive feedback and shows no issues, it is gradually rolled out to a larger audience. This approach helps mitigate risks by identifying and addressing issues early in the deployment process.
 
 ### Rolling Deployment
-  
 Rolling deployment involves gradually updating servers or components of an application, typically one at a time or in small batches. This allows for updates to be rolled out without disrupting the entire system at once.
   
 For example:
 A cloud-based email service implements rolling deployment to update its servers. Instead of updating all servers simultaneously, updates are rolled out to a few servers at a time. This ensures that users continue to have access to the service while updates are being applied. If any issues arise, only a subset of users are affected, minimizing the impact.
 
 ### Recreate Deployment or Basic Deployment
-Recreate deployment, also known as basic deployment, involves taking the entire application offline, updating it, and then bringing it back online. This approach can result in downtime and is less flexible compared to other deployment strategies.
+Recreate deployment, sometimes referred to as basic deployment, entails bringing the application back online after it has been updated and completely offline. When compared to alternative deployment tactics, this method is less flexible and may cause downtime.
   
 For example: 
-A small business website undergoes a recreate deployment to update its content management system (CMS). The website is taken offline, the CMS is updated, and then the website is brought back online. During this process, users are unable to access the website, resulting in downtime. While this approach may be suitable for smaller organizations with minimal traffic, it is not ideal for high-traffic or critical applications.
+A small business website undergoes a recreate deployment to update its [content management system](https://en.wikipedia.org/wiki/Content_management_system) (CMS). The website is taken offline, the CMS is updated, and then the website is brought back online. During this process, users are unable to access the website, resulting in downtime. While this approach may be suitable for smaller organizations with minimal traffic, it is not ideal for high-traffic or critical applications.
 
 ### Multi-Service Deployment
-Multi-service deployment involves updating different components or services of an application simultaneously but independently. This allows for updates to be rolled out without affecting the entire application.
+Updating various parts or services of an application concurrently but separately is known as multi-service deployment. This makes it possible to roll out upgrades without having an impact on the overall program.
   
 For example:
 An online banking application adopts multi-service deployment to update its various services, such as account management, payments, and transactions. Each service can be updated independently, allowing the application to remain operational while updates are applied. This approach helps minimize disruptions and ensures that users can continue to access the application without interruption.
@@ -193,22 +193,22 @@ The following are the benefits of blue-green deployment:
 For example:
 A banking application employs blue-green deployment to ensure continuous availability of its services. The blue environment serves as the standby system, ready to take over if the green environment experiences any technical issues. This ensures that customers can access their accounts and conduct transactions without interruption.
 
-* 
+* Return to Former Iterations Right away: If there are problems with the new deployment, a swift rollback to an earlier version is possible using blue-green deployment. This feature guarantees that problems may be resolved quickly, reducing the effect on users.
    
 For example:
 A video streaming platform rolls out a new feature using blue-green deployment. However, users encounter playback issues with the new feature. The development team quickly rolls back to the previous version (blue), restoring normal playback functionality for users.
 
-* Enable Downtime-Free Deployment:Blue-green deployment eliminates downtime during updates or deployments by gradually switching traffic from the old version to the new version. This ensures that users can continue to access the application without experiencing interruptions.
+* Enable Deployment Without Downtime: Blue-green deployment gradually transitions traffic from the old version to the new version, hence eliminating downtime during upgrades or deployments. This guarantees that users won't see any interruptions when using the application.
    
 For example:
 An e-commerce website updates its product catalog using blue-green deployment. Traffic is gradually redirected from the old catalog (blue) to the updated catalog (green) without any downtime. Customers can continue browsing and purchasing products seamlessly during the update process.
 
-* Achieve Automatic and Seamless Upgrades: Blue-green deployment allows for automated and seamless upgrades by gradually transitioning traffic from the old environment to the new environment. This ensures that users experience minimal disruption during the deployment process.
+* Ensure Smooth and Autonomous Upgrades: Blue-green deployment transfers traffic from the old environment to the new environment gradually, enabling automated and seamless updates. This makes sure that during the deployment process, users are not too disturbed.
    
 For example:
 A software-as-a-service (SaaS) platform updates its user interface using blue-green deployment. The new interface is deployed to the green environment and gradually rolled out to users. Users seamlessly transition to the new interface without experiencing any downtime or disruptions.
 
-* Conduct Testing in Production: Blue-green deployment enables testing of new features or updates in a production-like environment (green) without impacting users. This ensures that any issues are identified and resolved before deploying to the live environment.
+* Test in Production: Blue-green deployment allows you to test updates or new features in a production-like setting (green) without affecting end users. By doing this, it is ensured that any problems are found and fixed before being deployed to the live environment.
    
 For example:
 A social media platform introduces a new messaging feature using blue-green deployment. The feature is tested in the green environment, allowing the development team to identify and fix any bugs or usability issues before making it available to all users.
@@ -216,28 +216,28 @@ A social media platform introduces a new messaging feature using blue-green depl
 ### Challenges of Blue Green Deployment:
 Let's take a look at the challenges of blue-green deployment
 
-* Costs: Setting up and maintaining two identical environments can be costly in terms of infrastructure, resources, and operational overhead. This can be a significant barrier for organizations with limited budgets.
+* Costs: It can be expensive to set up and maintain two similar environments in terms of resources, infrastructure, and overhead. This can be a major obstacle for businesses with tight expenditures.
    
 For example:
 A startup company may find it challenging to afford the infrastructure required for blue-green deployment. They may opt for simpler deployment strategies initially to minimize costs.
 
-* Difficulty in Scaling: As the application and user base grow, maintaining two identical environments and ensuring scalability can become increasingly complex and resource-intensive.
+* Difficulty in Scaling: Maintaining two similar environments and guaranteeing scalability can become more difficult and resource-intensive as the program and user base expand.
    
 For example:
 A rapidly growing online marketplace struggles to scale its blue-green deployment infrastructure to handle the increasing number of users and transactions. They may need to invest in additional resources and technologies to support scalability.
 
-* Difficulty in Database Management: Managing databases in a blue-green deployment setup, especially when updates involve changes to database schemas, can be challenging and may require careful planning and coordination.
+* Difficulty in Database Management: Managing databases in a blue-green deployment configuration can be difficult and may call for careful planning and collaboration, particularly when upgrades entail schema modifications.
    
 For example:
 An enterprise resource planning (ERP) system updates its database structure using blue-green deployment. The development team must ensure that both environments remain synchronized and that data integrity is maintained during the update process.
 
-* Distorted User Transactions: During the transition from the old environment to the new environment, user transactions may be interrupted or lost, leading to a potentially poor user experience.
+* Distorted User Transactions: User transactions might be lost or halted during the switch from the old to the new environment, which could result in a bad user experience.
    
 For example:
 An online banking application switches from the old environment (blue) to the new environment (green) using blue-green deployment. Some users may experience transaction failures or delays during the transition, requiring them to retry transactions.
 
 ## Conclusion
-In today's fast-paced software development landscape, blue-green deployment offers a valuable approach to managing updates and releases while maintaining service availability and minimizing disruptions. By carefully weighing the benefits and challenges and strategically implementing deployment strategies, organizations can achieve reliable, efficient, and resilient software delivery processes.
+Blue-green deployment is a useful method for handling upgrades and releases in today's hectic software development environment, all while preserving service availability and reducing interruptions. Organizations can create dependable, effective, and resilient software delivery processes by tactically applying deployment techniques and carefully assessing the advantages and disadvantages.
 
 
 
