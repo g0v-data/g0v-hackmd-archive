@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [vTaiwan 到 TicTec分享](../notes/kBtFem_KRB-2PphaR-vcBQ.md) | 2024-04-24T16:24:18+08:00 | 2024-01-18T17:19:46+08:00 |
-| 2 | [vTaiwan in TicTEC 2024](../notes/_fWuILaRSv-h3FQsXSLxaQ.md) | 2024-04-23T20:26:43+08:00 | 2024-04-17T20:38:51+08:00 |
+| 1 | [vTaiwan in TicTEC 2024](../notes/_fWuILaRSv-h3FQsXSLxaQ.md) | 2024-04-24T19:52:36+08:00 | 2024-04-17T20:38:51+08:00 |
+| 2 | [vTaiwan 到 TicTec分享](../notes/kBtFem_KRB-2PphaR-vcBQ.md) | 2024-04-24T16:24:18+08:00 | 2024-01-18T17:19:46+08:00 |
 | 3 | [0417小松](../notes/uDbpFfsNREGpzpx5aItvLg.md) | 2024-04-17T20:39:30+08:00 | 2024-04-17T19:32:48+08:00 |
 | 4 | [vTaiwan人工智慧基本法](../notes/xwfZ2MrqTPGHQJVz9Y5sUQ.md) | 2024-04-17T20:36:26+08:00 | 2024-04-17T20:23:37+08:00 |
 | 5 | [vTaiwan 社群參與者參與 TicTec Conference 企劃書](../notes/_UXdVBQwQ12NpKKDdOQYiA.md) | 2024-04-05T18:54:10+08:00 | 2024-02-29T19:41:51+08:00 |
