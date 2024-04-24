@@ -55,14 +55,13 @@ Consider a social media platform introducing a new messaging feature. With blue-
 
 Blue-green deployment is commonly used in various scenarios, including:
   
-* Web Applications: For rolling out updates, new features, or bug fixes to web-based applications without downtime. Examples of web applications that utilizes this deployment strategy includes LinkedIn and Github.
+* Web Applications: For rolling out updates, new features, or bug fixes to web-based applications without downtime. Examples of web applications that utilizes this deployment strategy includes [LinkedIn](https://ng.linkdin.com) and [Github](https://github.com).
   
-* E-commerce Platforms: For ensuring continuous availability of online stores and minimizing disruptions during updates or maintenance. Examples of e-commerce platforms that utilizes this deployment strategy includes Amazon and Et
+* E-commerce Platforms: For ensuring continuous availability of online stores and minimizing disruptions during updates or maintenance. Examples of e-commerce platforms that utilizes this deployment strategy includes [Amazon](https://www.amazon.com) and [Etsy](https://www.e).
   
-* SaaS (Software as a Service) Platforms: For deploying updates to cloud-based applications while maintaining service availability for users.
+* SaaS (Software as a Service) Platforms: For deploying updates to cloud-based applications while maintaining service availability for users. Platforms such as [SalesForce](https://www.salesforce.com) and [Google Workspace](https://workspace.google.com) utilize this strategy. 
 
-## How does this Blue Green Deployment Works
-
+## How does Blue Green Deployment Work?
 Blue-green deployment operates on the principle of maintaining two identical yet separate environments, allowing for seamless updates and minimal downtime during the deployment process. Below is a detailed explanation of how blue-green deployment works, along with examples where necessary:
 
 ### Working Principles
