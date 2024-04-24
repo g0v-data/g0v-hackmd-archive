@@ -175,6 +175,8 @@ https://www.facebook.com/share/9jkpUvRvNzEFkJbn/?mibextid=WC7FNe
         - https://hdl.handle.net/11296/8xxrzj
     - 都市街區開放空間之空間設計效率-活動行為導向
         - https://hdl.handle.net/11296/4sbjk4
+- 蒐集巷弄無車化
+    - 麗水公園、古莊公園、進安公園南側、基河路科教館段等 https://photos.app.goo.gl/PothcgShgdY5ThrB8
 
 發想
 - 界定出街廓後

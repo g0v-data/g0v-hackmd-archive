@@ -408,6 +408,9 @@ https://www.facebook.com/share/p/Xv5krVmQcWnhHmMz/?mibextid=WC7FNe
 台中市西區
 https://www.facebook.com/story.php?story_fbid=pfbid02cGTTrgsjGjyisCKYYT8yp3uidGks1WHuLp7Lerxs592cMAcSAHiN19gk9YVbfK8Zl&id=100083131440923&mibextid=qC1gEa
 
+台中 博物館路
+https://www.facebook.com/share/p/6qaS7dwJBcHvdCGk/?
+
 臺中女中
 https://www.facebook.com/share/p/tzbriGNaQ7dt7oQN/
 
