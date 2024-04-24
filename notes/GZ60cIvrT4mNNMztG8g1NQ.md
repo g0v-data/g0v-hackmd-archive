@@ -180,3 +180,6 @@ https://www.facebook.com/setnews/posts/pfbid022Gum2BggnwpGriG8CoTaY6kWJyRP9SHPxr
 
 監測相機，也拍下地震景象
 https://www.facebook.com/share/v/VAHdK19e69uFixqC/
+
+搭火車路過坡地災害處並拍照
+https://www.facebook.com/permalink.php?story_fbid=pfbid02RE1FHfwUF2kdwayuBKyREXMvdhTuuG4c2NTgWXKA88Vs8DB1UX8NNFxijdJeHiZCl&id=100000293947161
