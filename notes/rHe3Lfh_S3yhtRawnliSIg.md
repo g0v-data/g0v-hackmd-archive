@@ -140,6 +140,12 @@ App 相關記錄：
 
 ### 各類筆記區
 
+#### [注意] slack 一個註冊連結每註冊滿 400 人就會失效
+
+- 需定期更新
+- 更新紀錄：
+    - 20240424 Ronny
+
 #### Slack Pro - Connections 功能 - 特點筆記
 - g0v Slack Pro - Connection 建立紀錄：
     - 2023.03.22，由 chewei 操作
