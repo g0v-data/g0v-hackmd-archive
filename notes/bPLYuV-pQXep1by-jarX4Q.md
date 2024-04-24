@@ -42,6 +42,8 @@ https://www.ncree.narl.org.tw/assets/file/20240403_Hualien_TW_EQ_V1.0.pdf
     - 秀林鄉崇德國小2人
     - 秀林鄉和中收容所28人
     - 秀林鄉富世國小16人
+- 2024423
+    - https://www.facebook.com/share/p/cmzac24UJKSb2L7e/
 - 討論：
     - 類型一：地震後擔心餘震或既有建物無法返回，所前往的地點
     - 類型二：暫居過夜收容
