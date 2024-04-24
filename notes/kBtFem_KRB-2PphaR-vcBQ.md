@@ -5,6 +5,18 @@ tags: vtaiwan
 - TicTec Conference 今年終於復辦，邀請數發部與 vTaiwan 參加
 - 日期：2024. 6. 12-13 @英國
 
+## 0424 與WFD討論
+- 要確認的事情：
+    - Moda 合作參訪
+        - Policy Lab和GDS是否能安排在6/14
+        - 希望新增參訪地點：[Nesta](https://www.nesta.org.uk/)
+        - 如果不行的話，希望能夠提供聯繫窗口，因為參訪要送簽文，最慢五月要送出。
+    - 行程安排
+        - Josh 機票：從蘇黎世到倫敦
+- 後續合作討論
+    - 分享會？
+    - 專案合作
+
 ## 0315 與WFD討論
 - [提案簡報](https://docs.google.com/presentation/d/15d5lff9TBBy216TRD0W0nVLqXSQxMNzV-AVp29o8ids/edit?usp=sharing)
 - WFD 介紹
