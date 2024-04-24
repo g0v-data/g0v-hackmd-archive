@@ -6,7 +6,7 @@ A key idea in contemporary software development and deployment methods, especial
 Maintaining two distinct but similar environments—referred to as "blue" and "green"—is the task of blue-green deployment. These environments are functionally identical since their hardware, software, and configurations are mirror images of one another. The green environment is where updates and new features are staged, whereas the blue environment is the application as it is currently available for use.
 
 ## Purpose and Significance
-Enabling the smooth and continuous distribution of updates, features, and bug fixes to online applications is the main goal of blue-green deployment. Blue-green deployment enables developers to push changes to the green environment without impacting the live production environment (blue), as it maintains two parallel environments. This guarantees that during the deployment process, users encounter little to no downtime.
+Enabling the smooth and continuous distribution of updates, features, and bug fixes to online applications is the main goal of blue-green deployment. Blue-green deployment enables developers to push changes to the green environment without impacting the live production environment (blue), as it maintains two parallel environments. This guarantees that during the deployment process, users encounter little to no [downtime](https://en.m.wikipedia.org/wiki/Downtime).
 
 ### Advantages of Blue Green Deployment
 The following are the advantages of blue-green deployment:
@@ -55,9 +55,9 @@ Consider a social media platform introducing a new messaging feature. With blue-
 
 Blue-green deployment is commonly used in various scenarios, including:
   
-* Web Applications: For rolling out updates, new features, or bug fixes to web-based applications without downtime.
+* Web Applications: For rolling out updates, new features, or bug fixes to web-based applications without downtime. Examples of web applications that utilizes this deployment strategy includes LinkedIn and Github.
   
-* E-commerce Platforms: For ensuring continuous availability of online stores and minimizing disruptions during updates or maintenance.
+* E-commerce Platforms: For ensuring continuous availability of online stores and minimizing disruptions during updates or maintenance. Examples of e-commerce platforms that utilizes this deployment strategy includes Amazon and Et
   
 * SaaS (Software as a Service) Platforms: For deploying updates to cloud-based applications while maintaining service availability for users.
 
