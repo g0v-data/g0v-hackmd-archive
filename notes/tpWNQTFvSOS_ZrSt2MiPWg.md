@@ -304,6 +304,12 @@ As the civic technology and open-source collaborative culture of the g0v communi
 
 ## 2023
 
+### 利用民間租屋資料與行政資料估計臺灣租屋市場逃漏稅程度
+
+- 民間租屋資料, Rentea
+- https://www.facebook.com/share/p/ECoWKaLp6aMRw6D9/
+
+
 ### 〈臺灣公民科學計畫資料徵集與品質維護：策略與實踐〉
 - 論文研究資料，有回顧專案所整理的計畫清冊
 -  https://hdl.handle.net/11296/s2mgwq
