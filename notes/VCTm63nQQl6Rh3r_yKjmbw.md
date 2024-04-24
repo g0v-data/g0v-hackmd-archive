@@ -5,24 +5,22 @@ tags: FtO, g0v-intl
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c40ca42642d014a4dc20bfc166f43512.jpg)
 
 ## Basic Info
-- 🗓Date August 17-18
-- 📍Location Yokohama Japan
-- 🏯Venue: [Pacific Convention Plaza Yokohama](https://www.pacifico.co.jp/english/access)
+- 🗓 Date August 17-18
+- 📍 Location Yokohama Japan
+- 🏯 Venue: [Pacific Convention Plaza Yokohama](https://www.pacifico.co.jp/english/access)
 
 :::warning
-[Reminder] Book your plane tickets and hotels now :)
-Hotel Recomendation List
-https://docs.google.com/spreadsheets/d/1tliXkzCzvmeblsRBwzoJp3dLwWn-von2f6nkV6Zcx1g/edit#gid=0
+[Reminder] Accommodation will **NOT** be provided. Book your plane tickets and hotels now :) Friends from Japan has provided a [list of recommended hotels](https://docs.google.com/spreadsheets/d/1tliXkzCzvmeblsRBwzoJp3dLwWn-von2f6nkV6Zcx1g/edit#gid=0).
 :::
 
 ## Registration
 :::info
-Registration will close by June 30th
+Registration will close by June 30th. Please use form of your resident country.
 :::
 
-- 台灣參與者這裡報名 >>> https://forms.gle/mnUqTxvCNF8vmNUY6 <<< Taiwan participants here
-- 日本參與者 >>> [link] <<< Japan participants here
-- 韓國參與者 >>> [link] <<< Korea participants here
+- Taiwan >>> https://forms.gle/mnUqTxvCNF8vmNUY6 <<< 台灣參與者這裡報名
+- Japan >>> https://s.c4j.jp/Q6Aq <<< 日本
+- Korea >>> https://forms.gle/mExUxZnS3V2U2kYV9 <<< 韓國
 
 ## Event Schedule
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_668320828eb83c9bac2fd3ca27013a67.png)

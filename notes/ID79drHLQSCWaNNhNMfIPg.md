@@ -23,23 +23,28 @@ tags: summit2024
 - 簡報筆(至少4支，一間會議室一支) 
 	- [name=rayen]*1
 	- [name=peter]*1
+	- [name=之綾]*1
 - HDMI MediaPort 轉接頭(至少4) 
 - HDMI Type-C 轉接頭(至少4) 
 	- [name=Annie Tseng(安妮)]*1
+	- [name=CAREY CHANG]*1
+	- [name=楊尚ㄒㄧ]*1
 - HDMI/VGA signal Switch (應該可以解決以上問題)
 - 多孔 USB插座(至少4)
 	- [name=rayen]*1
 - 講台上的公用電腦(R0 R1 R2 RH 至少四台)
+  - [name=CAREY CHANG]*1
 - 確認是否有缺>替代方案：小蜜蜂、手提式音箱
   - 麥克風
   - 音響
 
 ## 工作坊
 - 白報紙(A0，5份)
+  - [name=rayen]*10 
 - 細彩色筆(多色，1組)
 	- [name=Annie Tseng(安妮)]*1
 - 便條貼(三色各2本，共6本)
-	- [name=Annie Tseng(安妮)]*1
+	- [name=Annie Tseng(安妮)]*1 [name=rayen]*1
 - 磁鐵(多個備用)
 
 ## 議程助理建議自備(請自行標註姓名&保管）
