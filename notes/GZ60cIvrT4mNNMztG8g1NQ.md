@@ -176,7 +176,11 @@ https://commutag.agawork.tw/dataset?id=5f1f91818237617934d8d168
 https://www.facebook.com/groups/833818867108726/posts/1626176434539628/
 
 三立新聞
-https://www.facebook.com/setnews/posts/pfbid022Gum2BggnwpGriG8CoTaY6kWJyRP9SHPxrtVPgDR4bDstGFTXrGhR3dbP7wc4M68l
+https://www.facebook.com/setnews/posts/pfbid022Gu
+https://www.facebook.com/share/p/uGRNQ8RjfiK63pbL/?mibextid=K35XfPm2BggnwpGriG8CoTaY6kWJyRP9SHPxrtVPgDR4bDstGFTXrGhR3dbP7wc4M68l
+
+內湖淹水老照片
+https://www.facebook.com/share/p/uGRNQ8RjfiK63pbL/?mibextid=K35XfP
 
 監測相機，也拍下地震景象
 https://www.facebook.com/share/v/VAHdK19e69uFixqC/
