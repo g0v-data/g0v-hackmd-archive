@@ -28,8 +28,6 @@ g0v 放輕鬆 Rand0mth0n 大全
 
 歡迎來在 NPO hub 廚房舉辦的，沒有人會來的公民小聚！
 
-https://summit.g0v.tw/2024/
-
 English intro
 
 各次小松
