@@ -79,6 +79,8 @@ tags: 新生流域
     - 影片 01：05:29 有北科大校門水路照片 https://youtu.be/fyXjkOdDHUQ
     - 影片 06:05 有北科大北側水路，特一號大排尚未興建 https://youtu.be/0tK0gkDIi54
     - 影片 01:55 台大鳥瞰https://youtu.be/fyXjkOdDHUQ
+    - 照片 1957 基隆河與松山機場 https://www.facebook.com/photo?fbid=10156351515638618
+    - 畫作 1985 顏水龍 基隆河畔 https://www.facebook.com/story.php?story_fbid=pfbid035synKUXtaaWfMzzndPsaVf75jUfdsbQDHzfwnEvd9hN66SBy6HUzrrhH4H8SNV2Yl&id=747873617
     - 1957-1958 影片 2:40、3:02、 https://youtu.be/D1-d3Pr8Teo
     - 1957 中山北路與新生北路與圓山，照片 0:52 秒 https://youtu.be/vZ9pms6ND2M
     - 1959 空拍影片，有明顯的鐵道鐵軌 https://youtu.be/9i9Nr1WFmh4?si=6FC3bMSxs0eeAAp0&t=796
