@@ -22,9 +22,9 @@ tags: summit2024
 - [ ] 提醒「一天要登錄一次，才會算當天的時數哦！」這件事 [name=場務組]
 - [ ] 「公務人員學習時數登錄」立牌或手板 [name=場務組]
     - 已寫入指標系統 [name=CPY]
-- [x] 表單 QR code 電子檔 [name=知澔]
 - [ ] QR code 列印紙本數張 [name=場務組]
     - 已寫入指標系統 [name=CPY]
+- [x] 表單 QR code 電子檔 [name=知澔]
 - [x] Google 表單本人 [name=知澔]
     - 表單連結已確定 https://forms.gle/AF44TCABHNN3zhr57
     - 為保護個人資料，表單開在 g0v Summit 2024 工地 > 合作伙伴 > 僅限合作伙伴組
