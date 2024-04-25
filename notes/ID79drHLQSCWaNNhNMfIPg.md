@@ -6,6 +6,8 @@ tags: summit2024
 :::info
 如果方便提供物資，請後面加上[name=名字]*數量
 :::
+5/3 場佈出席人員：Annie Tseng(安妮)、CAREY CHANG
+
 ## 場佈用
 - 3M 無痕膠（複數個）
 - 圓點貼紙

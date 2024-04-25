@@ -27,12 +27,15 @@ tags: summit2024
 #### 摺頁、Badge
 
 相關資料：
-[大會摺頁筆記 - HackMD](https://g0v.hackmd.io/@summit2024/media-book/%2Fq1JA_SWwQEehIOL4_y3eOg)
-[摺頁 - Google 雲端硬碟](https://drive.google.com/drive/folders/1DfhRDoRbAeG3zEypRJ4NEAAw2wTWU6QA)
-[Badge 名牌 - Google 雲端硬碟](https://drive.google.com/drive/folders/13eh7tTLlzfJJJqmW82MhZ82Q1bWl5Yzx)
-進度：
+* [大會摺頁筆記 - HackMD](https://g0v.hackmd.io/@summit2024/media-book/%2Fq1JA_SWwQEehIOL4_y3eOg)
+* [摺頁 - Google 雲端硬碟](https://drive.google.com/drive/folders/1DfhRDoRbAeG3zEypRJ4NEAAw2wTWU6QA)
+* [Badge 名牌 - Google 雲端硬碟](https://drive.google.com/drive/folders/13eh7tTLlzfJJJqmW82MhZ82Q1bWl5Yzx)
 
-結論：
+
+> 精神狀況：
+> ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f5da06522bdaab25505daf04656e1d37.png =250x) [name=RS]
+
+進度：已經送印！場佈日取件。
 
 #### 報告事項一
 
@@ -69,7 +72,7 @@ tags: summit2024
 
 #### 紀念品攤位輪值表
 
-相關資料：
+相關資料：[紀念品攤位輪值表](https://docs.google.com/spreadsheets/d/1_XlYaOh81tatCRUlBlw40sHE4C5aJPi1GO4IYBeVEgI/edit)
 
 討論：
 
