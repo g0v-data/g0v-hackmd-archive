@@ -6,22 +6,48 @@ tags: vtaiwan
 - 日期：2024. 6. 12-13 @英國
 
 ## 0424 與WFD討論
+- 行程行政
+    - 參加TicTEC不用門票
+    - 目前 6/10-6/15
+    - 待確認：
+        - 跟 Josh 確認 10 號到，
+        - 住宿130英鎊，要確認數發部的差旅限制 
+        - 6/11-14 排參訪
 - 要確認的事情：
     - Moda 合作參訪
         - Policy Lab和GDS是否能安排在6/14
         - 希望新增參訪地點：[Nesta](https://www.nesta.org.uk/)
         - 如果不行的話，希望能夠提供聯繫窗口，因為參訪要送簽文，最慢五月要送出。
+        - 從WFD出發的話，會需要得到英國外交部的綠燈，建議數發部自行聯繫。
+    - vTaiwan 
+        - Chatham House 
+        - Alan Turing Institute
+        - 禮拜五早上一個，下午兩個
+        - Policy Lab與 GDS 抓在一起，Chatham House 
     - 行程安排
         - Josh 機票：從蘇黎世到倫敦
+        - 機場接送也可以 cover(從機場到飯店在倫敦也可以)
 - 後續合作討論
-    - 分享會？
+    - 結案報告的需求
+        - 想要看到 TicTEC 的經驗可以產生怎麼樣的影響。
+        - 7月-8月分享會：可以脫鉤，
+            - 分享會企劃
+            - 英國數位治理與數位民主的組織 / bridging
+            - 多元利害關係人模式：multi-stakeholder model 工作坊的經驗
+        - 結案報告的期限：7月底
+        - 不要超過2頁的結案 report（英文）
+            - 包含精彩討論的 summary 
+            - 工作上可以調整與啟發的地方
+            - ＃＃＃ Multi-stakeholder approach 接下來社群可以做什麼。
+        - 不太需要照片，不用特別精美的設計
     - 專案合作
+        - 在醞釀中
 
 ## 0315 與WFD討論
 - [提案簡報](https://docs.google.com/presentation/d/15d5lff9TBBy216TRD0W0nVLqXSQxMNzV-AVp29o8ids/edit?usp=sharing)
 - WFD 介紹
     - WFD Taiwan 是 WFD 第一個專案辦公室
-    - 與其他專案相比，台灣的專案在公民科技與數位民主上確實走的比較前面
+    - 與其他專案相比，台灣的專案在公民科技與數位民主上確實走的比較前面。
         - 過去兩年的討論集中在資訊環境的部分
         - 與一些社群夥伴 cofacts, IORG 有一定程度的了解。
         - 但沒有這麼 focus 在公民科技上。
