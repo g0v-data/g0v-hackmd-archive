@@ -73,7 +73,7 @@ Source: aws.amazon.com
 In this deployment model, two environments are utilized: blue and green. Let's illustrate this with an example. Assume that version 1 is the current version of the application, while version 1.1 represents the new update. Version 1 is designated as the blue environment, while Version 1.1 is the green environment.
 
 ### The Process of Switching Traffic Between Environments
-As seen in the above image, [load balancers](https://en.wikipedia.org/wiki/Load_balancing_(computing)) and routers are used to move users from the blue instance to the green one. Load balancers provide instantaneous switching in contrast to [DNS](https://www.cloudflare.com/learning/dns/what-is-dns/) record changes, which may take some time to propagate. The load balancer directs fresh traffic to the green environment by using the same DNS record, enabling smooth user control. In the event that there are problems with the green instance, this is essential for rapidly rolling users back to version 1 (the blue instance).
+As seen in the above image, [load balancers](https://en.wikipedia.org/wiki/Load_balancing_(computing)) and [routers](https://www.cloudflare.com/learning/network-layer/what-is-a-router/#:~:) are used to move users from the blue instance to the green one. Load balancers provide instantaneous switching in contrast to [DNS](https://www.cloudflare.com/learning/dns/what-is-dns/) record changes, which may take some time to propagate. The load balancer directs fresh traffic to the green environment by using the same DNS record, enabling smooth user control. In the event that there are problems with the green instance, this is essential for rapidly rolling users back to version 1 (the blue instance).
 
 ### Deployment and parallel running
 The green instance (version 1.1) runs concurrently with the older version in production after it is judged ready. Traffic is seamlessly diverted from the blue instance to the green instance via the load balancer. As they effortlessly access the updated version of the service or program, the majority of users won't even notice the move.
@@ -97,7 +97,7 @@ For example:
 The development team deploys a new version of the website with updated features, such as a redesigned checkout process, in a green environment. They then conduct extensive testing to verify that the new features function correctly and do not introduce any issues.
 
 ### Step 3: Switching Traffic to the New Server
-After the updates have been deployed and tested in the green environment, traffic is gradually switched from the blue environment to the green environment . This is typically done using a routing device, such as a load balancer, that redirects incoming traffic to the green environment.
+After the updates have been deployed and tested in the green environment, traffic is gradually switched from the blue environment to the green environment. This is typically done using a routing device, such as a load balancer, that redirects incoming traffic to the green environment.
    
 For example: 
 The organization configures the load balancer to start directing a small percentage of traffic to the green environment while monitoring performance. If everything goes smoothly, more traffic will gradually shift to the green environment until all traffic is routed there.
