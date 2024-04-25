@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [社群攤位排程](../notes/PT5Dm1i8TvGhdC0ZRwNLmA.md) | 2024-04-25T00:36:54+08:00 | 2024-04-25T00:00:47+08:00 |
+| 1 | [社群攤位排程](../notes/PT5Dm1i8TvGhdC0ZRwNLmA.md) | 2024-04-25T08:55:40+08:00 | 2024-04-25T00:00:47+08:00 |
 | 2 | [g0v Summit 2024 公務人員學習時數登錄](../notes/XvXXZstbQ8aqcbO8wYXYtg.md) | 2024-04-24T20:32:03+08:00 | 2024-04-24T19:54:36+08:00 |
 | 3 | [工作坊：公民社會、科技平台，如何協作？ How do civil society organizations and tech platforms collaborate?](../notes/6H7rb6sFQOmrKzW2JLulXA.md) | 2024-04-24T18:26:07+08:00 | 2024-04-13T17:02:50+08:00 |
 | 4 | [社群軌：可負擔的穩定租屋，我們離它有多遠？ Community Track3: Closing the gap: achieving affordable rental housing for all](../notes/k0f6_bI4Rl2MJUklcw1Myg.md) | 2024-04-24T18:25:53+08:00 | 2024-04-13T16:25:16+08:00 |
