@@ -32,6 +32,9 @@ tags: rand0mth0n, hackathon
 
 ## 報名連結
 - Luma
+- 揪松團有開一個表單：https://forms.gle/c8gsx8zrRnbmZyqN6
+    - 預計週五會寄出宣傳信件，信件中會放共筆網址，進入網址後再找到報名連結
+
 ## 自由提案報名區
 可以先在這裡告訴大家當天想做什麼事（如果有的話）
 
