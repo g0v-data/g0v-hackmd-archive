@@ -1,28 +1,24 @@
 ---
-title: g0v Rand0mth0n 大全
+title: g0v 放輕松 Rand0mth0n 大全
+tags: hackathon, Rand0mTh0n
+image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f9d4777f5942224f06ed19c0884bb038.png
 ---
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
-g0v 放輕鬆 Rand0mTh0n 大全
+g0v 放輕松 Rand0mTh0n 大全
 ===
+## 社會行動的產地｜是學校，是平台，是相遇的機會
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f9d4777f5942224f06ed19c0884bb038.png)
 
-## [Introduction / Home Page](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/tofus-rand0mth0n)
->g0v 的雙月大黑客松 12 年來，是一個數位公民廣場，在專業型社運團體之外，維持了一個公民協作空間，支撐著每一位「沒有人」，陪我們走過家鄉許多角落。
->
->在 g0v 大松，大家能夠彈性結社，也能運用科技提出解方，彼此學習，形成網絡，在危機不斷的台灣，集結「沒有人們」也成為公民的核心肌群。
->
->g0v's Bi-monthly Hackath0n has been a digital citizen square for 12 years. It maintains a citizen collaboration space in addition to professional social movement groups, supports every "n0body", and accompanies us through many corners of our hometown. .
->
->In g0v Hackath0n, everyone can flexibly form groups, and can also use technology to propose solutions, learn from each other, and form a network. In Taiwan, which is constantly in crisis, gathering "n0buddies" has also become the core muscle group of citizens.
->
->[name=ipa, Daisuke, Yi, g0v jothon]
-
-**什麼是 g0v 放輕鬆 What is g0v Rand0mTh0n**
-g0v 放輕鬆是繼 g0v Summit 2024 之後由揪松團發起的定期線下聚會，目前暫定是每雙週二舉行一次。參與者可以在活動期間
+## [Introduction / Home Page](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
 
 
-**前來放輕鬆的你可能會需要的東西 Things you might need when attending g0v Rand0mTh0n**
+### [什麼是 g0v 放輕松 What is g0v Rand0mTh0n](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
+g0v 放輕松是繼 g0v Summit 2024 之後由揪松團發起的定期線下聚會，目前暫定是每雙週二舉行一次。參與者可以在活動期間帶著自己的晚餐還有筆電，在這個地方做自己的事情，同時也提供公民們一個線下聚會與討論的空間。
+
+
+### [前來放輕鬆的你可能會需要的東西 Things you might need when attending g0v Rand0mTh0n](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
 
 📍 參與者人類本體 participant itself
 📍 食物 food
@@ -34,13 +30,24 @@ g0v 放輕鬆是繼 g0v Summit 2024 之後由揪松團發起的定期線下聚�
 `Latest` 
 - [20240507 Rand0mTh0n 第零次](/qzELuqNARKKBjWr2mIiY8A)
 
-**tl;dr**
+**幕後故事 Behind the Scene**
+
 (English below)
+>g0v 的雙月大黑客松 12 年來，是一個數位公民廣場，在專業型社運團體之外，維持了一個公民協作空間，支撐著每一位「沒有人」，陪我們走過家鄉許多角落。
+>
+>在 g0v 大松，大家能夠彈性結社，也能運用科技提出解方，彼此學習，形成網絡，在危機不斷的台灣，集結「沒有人們」也成為公民的核心肌群。
+>
+>g0v's Bi-monthly Hackath0n has been a digital citizen square for 12 years. It maintains a citizen collaboration space in addition to professional social movement groups, supports every "n0body", and accompanies us through many corners of our hometown. .
+>
+>In g0v Hackath0n, everyone can flexibly form groups, and can also use technology to propose solutions, learn from each other, and form a network. In Taiwan, which is constantly in crisis, gathering "n0buddies" has also become the core muscle group of citizens.
+>
+>[name=ipa, Daisuke, Yi, g0v jothon]
+
 12 年來，g0v 已經舉辦了 60 餘次的 g0v 雙月黑客松，作為數位公民聚集的廣場。Tofus 跟揪松團的社群朋友們想要在 g0v summit 過後作出一點不一樣的嘗試
 
-受到「 g0v summit 放輕鬆」以及「da0 c0w0rk (by Yian)」的啟發，Tofus 發現，提升聚集的頻率有助於提升對 g0v 感興趣的朋友參與進來的機會
+受到「 g0v summit 放輕松」以及「da0 c0w0rk (by Yian)」的啟發，Tofus 發現，提升聚集的頻率有助於提升對 g0v 感興趣的朋友參與進來的機會
 
-例如 Solana 基金會的朋友曾在 2023 年的此時造訪台灣，當月並沒有舉辦大松的，但他們還是透過參與 da0 c0w0rk，接觸 g0v 的朋友，並因此對於 g0v 社群有初步的認識
+例如 Solana 基金會的朋友曾在 2023 年的此時造訪台灣，當月並沒有舉辦大松，但他們還是透過參與 da0 c0w0rk，接觸 g0v 的朋友，並因此對於 g0v 社群有了初步的認識
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2caf1bd9e318d946d7ebce25e365c8b6.png)
 

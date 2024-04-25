@@ -1,5 +1,4 @@
-# Seamless Switchover: Blue-Green Front-End Deployment
-
+# Seamless Switchover: Utilizing Blue-Green deployment strategy 
 A key idea in contemporary software development and deployment methods, especially in the context of the [DevOps](https://about.gitlab.com/topics/devops/#:~:) paradigm, is [blue-green deployment](https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/bluegreen-deployments.html#:~:). The difficulties of introducing updates and new features to web-based apps without upsetting users or causing downtime are addressed by this deployment model. 
 
 ## Definition and Concept
@@ -146,16 +145,9 @@ This approach allows organizations to:
 For example:  
 After the green environment becomes the new live version, the development team starts preparing the next update in the now-inactive blue environment. This cycle continues, with updates being deployed to the green environment, tested, and then switched over to become the new live version.
 
-## Types of deployment 
+## Other types of deployment strategies
 
-In software development and deployment, various strategies are used to manage updates, releases, and maintenance of applications. Each deployment strategy has its advantages and challenges. Let's explore the different types of deployment, including blue-green deployment, and provide examples where necessary:
-
-### Blue-Green Deployment
-  
-Blue-green deployment involves maintaining two identical environments, with one serving as the active production environment (blue) and the other as the staging environment for updates (green). Updates are deployed to the green environment and then gradually switched over to the new production environment.
-  
-For example:
-Consider a large e-commerce platform that uses blue-green deployment. The blue environment hosts the current live version of the website, while the green environment is used for deploying updates. When the development team wants to roll out a new feature, they deploy it to the green environment, thoroughly test it, and then gradually switch traffic from blue to green. If any issues arise, traffic can be quickly redirected back to the blue environment.
+In software development and deployment, various strategies are used to manage updates, releases, and maintenance of applications. Let's explore the different types of deployment, and provide examples where necessary:
 
 ### Canary Deployment
 Canary deployment involves rolling out updates to a small subset of users before making them available to the entire user base. This allows for early feedback and the detection of issues before widespread deployment.
@@ -180,6 +172,23 @@ Updating various parts or services of an application concurrently but separately
   
 For example:
 An online banking application adopts multi-service deployment to update its various services, such as account management, payments, and transactions. Each service can be updated independently, allowing the application to remain operational while updates are applied. This approach helps minimize disruptions and ensures that users can continue to access the application without interruption.
+
+## Advantages of blue-green deployment over other deployment strategies  
+Blue-green deployment offers several advantages over other deployment strategies:
+
+* Zero Downtime: With this deployment, you maintain two identical environments (blue and green). While one environment is active (e.g., serving live traffic), the other is inactive but ready to switch over instantly. This ensures zero downtime during deployment, as traffic is seamlessly routed from one environment to the other.
+
+* Rollback Capability: If issues arise during deployment, rolling back to the previous version is simple and immediate by switching the router back to the inactive environment (blue to green or vice versa).
+
+* Quick Rollout and Rollback: Blue-green deployments allow for quick and controlled rollout of new features or updates. If the new version proves to be problematic, you can quickly revert to the previous version without impacting users.
+
+* Testing in Production: Blue-green deployment facilitates testing in a production-like environment. The inactive environment (green, for example) can be used for testing the new version with real user traffic without affecting the live environment (blue).
+
+* Scalability: Blue-green deployment supports scalability by allowing you to easily spin up new instances of the inactive environment to handle increased load, without impacting the live environment.
+
+* Risk Reduction: Since blue-green deployment involves running two identical environments, any issues with the new version can be identified and resolved before switching live traffic to the new environment, reducing the risk of downtime or disruption.
+
+Overall, blue-green deployment provides a robust and reliable method for deploying changes to production with minimal risk and downtime, making it a preferred choice for many organizations.
 
 ## Benefits and Challenges of Blue-Green Deployment
 Blue-green deployment has a number of benefits but also presents some difficulties. It is imperative that enterprises contemplating the use of this deployment approach comprehend these facets. Let's examine the advantages and difficulties of blue-green deployment, providing examples where needed:

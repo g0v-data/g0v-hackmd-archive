@@ -1,7 +1,7 @@
 ---
 tags: rand0mth0n, hackathon
 ---
-
+{%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 # g0v Rand0mTh0n 第零次放輕松
 :::info
 [↩️ 回到籌備文件](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/BkKFt38ZR/https%3A%2F%2Fg0v.hackmd.io%2F%40B9Iwh2UoQuuqL3vJQFC5lw%2Ftofus-rand0mth0n)
@@ -31,7 +31,6 @@ tags: rand0mth0n, hackathon
 | 2045 - 2100 | 尾聲 |大合照人太少可以在這裡補拍|
 
 ## 報名連結
-- Luma
 - 揪松團有開一個表單：https://forms.gle/c8gsx8zrRnbmZyqN6
     - 預計週五會寄出宣傳信件，信件中會放報名連結
 
@@ -40,7 +39,7 @@ tags: rand0mth0n, hackathon
 
 | 想做的事情           | 提案人稱呼 | 網址或附加內容                                                                                                  |
 | ------------------ | ---------- | --------------------------------------------------------------------------------------------------------------- |
-| 測試專案     | Tofus       | 說明文字|
+| 測試專案     | Nobody       | 說明文字|
 | | |
 | | |
 
