@@ -2,13 +2,13 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20240426 宣傳組第四十次會議](../notes/_CeuN6IvT-m9H29ruuMyAQ.md) | 2024-04-25T15:36:21+08:00 | 2024-04-23T21:13:56+08:00 |
-| 2 | [g0v Summit 2024 公務人員學習時數登錄](../notes/XvXXZstbQ8aqcbO8wYXYtg.md) | 2024-04-25T15:03:52+08:00 | 2024-04-24T19:54:36+08:00 |
-| 3 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-25T13:33:26+08:00 | 2023-12-09T12:53:41+08:00 |
-| 4 | [社群攤位排程](../notes/PT5Dm1i8TvGhdC0ZRwNLmA.md) | 2024-04-25T08:55:40+08:00 | 2024-04-25T00:00:47+08:00 |
-| 5 | [工作坊：公民社會、科技平台，如何協作？ How do civil society organizations and tech platforms collaborate?](../notes/6H7rb6sFQOmrKzW2JLulXA.md) | 2024-04-24T18:26:07+08:00 | 2024-04-13T17:02:50+08:00 |
-| 6 | [社群軌：可負擔的穩定租屋，我們離它有多遠？ Community Track3: Closing the gap: achieving affordable rental housing for all](../notes/k0f6_bI4Rl2MJUklcw1Myg.md) | 2024-04-24T18:25:53+08:00 | 2024-04-13T16:25:16+08:00 |
-| 7 | [行前通知](../notes/-h8Xh-j8SWuhRWVmc8Muew.md) | 2024-04-24T12:59:14+08:00 | 2024-04-19T21:37:29+08:00 |
+| 1 | [20240426 宣傳組第四十次會議](../notes/_CeuN6IvT-m9H29ruuMyAQ.md) | 2024-04-25T16:30:43+08:00 | 2024-04-23T21:13:56+08:00 |
+| 2 | [行前通知](../notes/-h8Xh-j8SWuhRWVmc8Muew.md) | 2024-04-25T16:13:52+08:00 | 2024-04-19T21:37:29+08:00 |
+| 3 | [g0v Summit 2024 公務人員學習時數登錄](../notes/XvXXZstbQ8aqcbO8wYXYtg.md) | 2024-04-25T15:03:52+08:00 | 2024-04-24T19:54:36+08:00 |
+| 4 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-25T13:33:26+08:00 | 2023-12-09T12:53:41+08:00 |
+| 5 | [社群攤位排程](../notes/PT5Dm1i8TvGhdC0ZRwNLmA.md) | 2024-04-25T08:55:40+08:00 | 2024-04-25T00:00:47+08:00 |
+| 6 | [工作坊：公民社會、科技平台，如何協作？ How do civil society organizations and tech platforms collaborate?](../notes/6H7rb6sFQOmrKzW2JLulXA.md) | 2024-04-24T18:26:07+08:00 | 2024-04-13T17:02:50+08:00 |
+| 7 | [社群軌：可負擔的穩定租屋，我們離它有多遠？ Community Track3: Closing the gap: achieving affordable rental housing for all](../notes/k0f6_bI4Rl2MJUklcw1Myg.md) | 2024-04-24T18:25:53+08:00 | 2024-04-13T16:25:16+08:00 |
 | 8 | [物資清點](../notes/ID79drHLQSCWaNNhNMfIPg.md) | 2024-04-24T10:01:44+08:00 | 2024-04-15T21:59:25+08:00 |
 | 9 | [台灣維基媒體協會「公民科技促進數位民主之資訊發展研析與推動」研究計畫於 g0v Summit 2024 資料蒐集說明](../notes/7rsNc50ySy2EBW6cEL403w.md) | 2024-04-24T00:15:43+08:00 | 2024-04-23T13:52:36+08:00 |
 | 10 | [基調演講：「沒有人」在「前線」- 劉致昕 \| Keynote Speech: Nobody in the Frontline](../notes/nm5pRpl1Qk-Caf-AZTY81w.md) | 2024-04-23T23:32:35+08:00 | 2024-04-13T16:01:08+08:00 |
