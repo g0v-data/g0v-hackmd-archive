@@ -1,13 +1,15 @@
-# 後端平台-功能介紹 v1.2
+# 後端平台-功能介紹 v1.3
 
 | 環境 | 網址 | DNS | IP | 備註 |
 | - | - | - | -| -|
-| dev | https://cms.wonwongames.com/#/cms/login?tag=cms_wonwon | API-DEV | 192.168.4.150 | 管理者登入口 cms_wonwon/pm/qa/gm/platform|
-| dev | https://cms.wonwongames.com/ | API-DEV | 192.168.4.150 | 平台登入口 |
-| stg | https://cms.wonwongames.com/#/cms/login?tag=cms_wonwon | API-QA | 192.168.4.160 |管理者登入口|
-| stg | https://cms.wonwongames.com/#/ | API-QA | 192.168.4.160 |平台登入口|
-| uat | https://uatcms.wonwongames.com/#/cms/login?tag=cms_wonwon | 自動DNS |  |管理者登入口|
-| uat | https://uatcms.wonwongames.com/#/login | 自動DNS |  |平台商登入口|
+| dev | https://devcms.wonwongames.com/#/cms/login?tag=cms_wonwon | API-DEV | 192.168.4.150 | 管理者登入口 cms_wonwon/pm/qa/gm/platform|
+| dev | https://devcms.wonwongames.com/ | API-DEV | 192.168.4.150 | 平台登入口 |
+| stg | https://stgcms.wonwongames.com/#/cms/login?tag=cms_wonwon | API-DEV | 192.168.4.160 |管理者登入口|
+| stg | https://stgcms.wonwongames.com/#/ | API-QA | 192.168.4.160 |平台登入口|
+| uat | https://uatcms.wonwongames.com/#/cms/login?tag=cms_wonwon | API-DEV |  |管理者登入口|
+| uat | https://uatcms.wonwongames.com/#/login | API-DEV |  |平台商登入口|
+| prod | https://cms.wonwongames.com/#/cms/login?tag=cms_wonwon | API-DEV |  |管理者登入口|
+| prod | https://cms.wonwongames.com/#/login | API-DEV |  |平台商登入口|
 
 # 功能列表
 ## 首頁
@@ -24,7 +26,10 @@
   - 日淨分 - 查詢選擇當日的報表資訊
   - 遊戲設定
     - 警示設定 - 遊戲RTP 警告/提醒(待開發)
-    - 玩家控制 - 設定玩家水位(待開發)
+    - RTP控制 - RTP相關設定
+      - 遊戲設定
+      - 廠商設定
+      - 玩家設定
     - 遊戲設定 - 遊戲 開放/維護/關閉/ 黑白名單(待開發)
     - 遊戲維護設定 - 維護相關總設定(待開發)
   - 廠商設定
@@ -124,8 +129,11 @@
 ---
 
 ## 遊戲設定
-### 警示設定 - 遊戲RTP 警告/提醒(待開發)
-### 玩家控制 - 設定玩家水位(待開發)
+### RTP控制
+#### 遊戲設定
+#### 廠商設定
+#### 玩家設定
+
 ### 遊戲設定 - 遊戲 開放/維護/關閉/ 黑白名單(待開發)
 ### 遊戲維護設定 - 維護相關總設定(待開發)
 

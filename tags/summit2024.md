@@ -2,22 +2,22 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [社群攤位排程](../notes/PT5Dm1i8TvGhdC0ZRwNLmA.md) | 2024-04-25T08:55:40+08:00 | 2024-04-25T00:00:47+08:00 |
-| 2 | [g0v Summit 2024 公務人員學習時數登錄](../notes/XvXXZstbQ8aqcbO8wYXYtg.md) | 2024-04-24T20:32:03+08:00 | 2024-04-24T19:54:36+08:00 |
-| 3 | [工作坊：公民社會、科技平台，如何協作？ How do civil society organizations and tech platforms collaborate?](../notes/6H7rb6sFQOmrKzW2JLulXA.md) | 2024-04-24T18:26:07+08:00 | 2024-04-13T17:02:50+08:00 |
-| 4 | [社群軌：可負擔的穩定租屋，我們離它有多遠？ Community Track3: Closing the gap: achieving affordable rental housing for all](../notes/k0f6_bI4Rl2MJUklcw1Myg.md) | 2024-04-24T18:25:53+08:00 | 2024-04-13T16:25:16+08:00 |
-| 5 | [行前通知](../notes/-h8Xh-j8SWuhRWVmc8Muew.md) | 2024-04-24T12:59:14+08:00 | 2024-04-19T21:37:29+08:00 |
-| 6 | [物資清點](../notes/ID79drHLQSCWaNNhNMfIPg.md) | 2024-04-24T10:01:44+08:00 | 2024-04-15T21:59:25+08:00 |
-| 7 | [台灣維基媒體協會「公民科技促進數位民主之資訊發展研析與推動」研究計畫於 g0v Summit 2024 資料蒐集說明](../notes/7rsNc50ySy2EBW6cEL403w.md) | 2024-04-24T00:15:43+08:00 | 2024-04-23T13:52:36+08:00 |
-| 8 | [基調演講：「沒有人」在「前線」- 劉致昕 \| Keynote Speech: Nobody in the Frontline](../notes/nm5pRpl1Qk-Caf-AZTY81w.md) | 2024-04-23T23:32:35+08:00 | 2024-04-13T16:01:08+08:00 |
-| 9 | [20240423 會議](../notes/K9zk0qU0SUiBAZRtr3qDJQ.md) | 2024-04-23T23:09:07+08:00 | 2024-04-20T21:28:55+08:00 |
-| 10 | [5/3 工作清單](../notes/oybGWciESJGS_6SBYGCxJg.md) | 2024-04-23T22:47:15+08:00 | 2024-04-23T22:40:44+08:00 |
-| 11 | [行前通知](../notes/jMz-ekZlT_q-QEBZxqFB9g.md) | 2024-04-23T22:30:02+08:00 | 2024-03-04T16:23:31+08:00 |
-| 12 | [20240423 會議](../notes/cGrcA9q4RSmnht6EA1ZbWw.md) | 2024-04-23T22:24:45+08:00 | 2024-04-15T21:57:56+08:00 |
-| 13 | [g0v Summit 2024 攝影需求統計](../notes/MMKYZhSzQ2iIyhH7MPY-xQ.md) | 2024-04-23T22:08:20+08:00 | 2024-04-19T08:30:43+08:00 |
-| 14 | [g0v Summit 2024 小組合照時間登記](../notes/fxgCRwFMQAu9v93rf1GbGg.md) | 2024-04-23T21:45:23+08:00 | 2024-04-19T13:35:30+08:00 |
-| 15 | [20240426 宣傳組第四十次會議](../notes/_CeuN6IvT-m9H29ruuMyAQ.md) | 2024-04-23T21:15:01+08:00 | 2024-04-23T21:13:56+08:00 |
-| 16 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-23T18:33:02+08:00 | 2023-12-09T12:53:41+08:00 |
+| 1 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-25T13:33:26+08:00 | 2023-12-09T12:53:41+08:00 |
+| 2 | [g0v Summit 2024 公務人員學習時數登錄](../notes/XvXXZstbQ8aqcbO8wYXYtg.md) | 2024-04-25T13:19:19+08:00 | 2024-04-24T19:54:36+08:00 |
+| 3 | [社群攤位排程](../notes/PT5Dm1i8TvGhdC0ZRwNLmA.md) | 2024-04-25T08:55:40+08:00 | 2024-04-25T00:00:47+08:00 |
+| 4 | [工作坊：公民社會、科技平台，如何協作？ How do civil society organizations and tech platforms collaborate?](../notes/6H7rb6sFQOmrKzW2JLulXA.md) | 2024-04-24T18:26:07+08:00 | 2024-04-13T17:02:50+08:00 |
+| 5 | [社群軌：可負擔的穩定租屋，我們離它有多遠？ Community Track3: Closing the gap: achieving affordable rental housing for all](../notes/k0f6_bI4Rl2MJUklcw1Myg.md) | 2024-04-24T18:25:53+08:00 | 2024-04-13T16:25:16+08:00 |
+| 6 | [行前通知](../notes/-h8Xh-j8SWuhRWVmc8Muew.md) | 2024-04-24T12:59:14+08:00 | 2024-04-19T21:37:29+08:00 |
+| 7 | [物資清點](../notes/ID79drHLQSCWaNNhNMfIPg.md) | 2024-04-24T10:01:44+08:00 | 2024-04-15T21:59:25+08:00 |
+| 8 | [台灣維基媒體協會「公民科技促進數位民主之資訊發展研析與推動」研究計畫於 g0v Summit 2024 資料蒐集說明](../notes/7rsNc50ySy2EBW6cEL403w.md) | 2024-04-24T00:15:43+08:00 | 2024-04-23T13:52:36+08:00 |
+| 9 | [基調演講：「沒有人」在「前線」- 劉致昕 \| Keynote Speech: Nobody in the Frontline](../notes/nm5pRpl1Qk-Caf-AZTY81w.md) | 2024-04-23T23:32:35+08:00 | 2024-04-13T16:01:08+08:00 |
+| 10 | [20240423 會議](../notes/K9zk0qU0SUiBAZRtr3qDJQ.md) | 2024-04-23T23:09:07+08:00 | 2024-04-20T21:28:55+08:00 |
+| 11 | [5/3 工作清單](../notes/oybGWciESJGS_6SBYGCxJg.md) | 2024-04-23T22:47:15+08:00 | 2024-04-23T22:40:44+08:00 |
+| 12 | [行前通知](../notes/jMz-ekZlT_q-QEBZxqFB9g.md) | 2024-04-23T22:30:02+08:00 | 2024-03-04T16:23:31+08:00 |
+| 13 | [20240423 會議](../notes/cGrcA9q4RSmnht6EA1ZbWw.md) | 2024-04-23T22:24:45+08:00 | 2024-04-15T21:57:56+08:00 |
+| 14 | [g0v Summit 2024 攝影需求統計](../notes/MMKYZhSzQ2iIyhH7MPY-xQ.md) | 2024-04-23T22:08:20+08:00 | 2024-04-19T08:30:43+08:00 |
+| 15 | [g0v Summit 2024 小組合照時間登記](../notes/fxgCRwFMQAu9v93rf1GbGg.md) | 2024-04-23T21:45:23+08:00 | 2024-04-19T13:35:30+08:00 |
+| 16 | [20240426 宣傳組第四十次會議](../notes/_CeuN6IvT-m9H29ruuMyAQ.md) | 2024-04-23T21:15:01+08:00 | 2024-04-23T21:13:56+08:00 |
 | 17 | [Summit 2024 登記預算與請款辦法](../notes/BneF56PWQxms79e_LfQnpw.md) | 2024-04-23T17:38:49+08:00 | 2023-12-26T21:17:53+08:00 |
 | 18 | [公告區 Annoncement](../notes/tuKaU2PnRM-n8gS2slf6sg.md) | 2024-04-23T16:05:35+08:00 | 2024-04-13T15:55:16+08:00 |
 | 19 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-23T14:04:14+08:00 | 2024-04-09T15:38:54+08:00 |

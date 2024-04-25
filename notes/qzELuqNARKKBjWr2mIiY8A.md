@@ -2,7 +2,7 @@
 tags: rand0mth0n, hackathon
 ---
 
-# g0v DigiResiTh0n 第零次數位韌性松
+# g0v Rand0mTh0n 第零次放輕松
 :::info
 [↩️ 回到籌備文件](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/BkKFt38ZR/https%3A%2F%2Fg0v.hackmd.io%2F%40B9Iwh2UoQuuqL3vJQFC5lw%2Ftofus-rand0mth0n)
 :::
@@ -17,7 +17,7 @@ tags: rand0mth0n, hackathon
 
 ## 時間地點
 
-- 2024-05-07 Tue. 1800 - 2200
+- 2024-05-07 Tue. 1900 - 2100
 - [NPO HUB Taipei 台北NPO聚落](https://maps.app.goo.gl/XPrvzSdqgszbfRBV8) 4F 廚房
     - [「如何入場」及場地使用規定](/9pwDPOXLTr6IJKiLofl3qg)
 
@@ -33,7 +33,7 @@ tags: rand0mth0n, hackathon
 ## 報名連結
 - Luma
 - 揪松團有開一個表單：https://forms.gle/c8gsx8zrRnbmZyqN6
-    - 預計週五會寄出宣傳信件，信件中會放共筆網址，進入網址後再找到報名連結
+    - 預計週五會寄出宣傳信件，信件中會放報名連結
 
 ## 自由提案報名區
 可以先在這裡告訴大家當天想做什麼事（如果有的話）
