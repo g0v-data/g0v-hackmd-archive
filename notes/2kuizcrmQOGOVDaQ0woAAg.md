@@ -8,7 +8,7 @@ g0v 放輕鬆 Rand0mth0n 大全
 ===
 
 ## [Introduction / Home Page](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/tofus-rand0mth0n)
-繼
+聚集一直以來都是
 
 English intro
 

@@ -35,7 +35,7 @@ tags: summit2024
 > 精神狀況：
 > ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f5da06522bdaab25505daf04656e1d37.png =250x) [name=RS]
 > 也是 RS: 「先講求不傷身體，再講求效果」 [name=Dong]
-> 小丑竟是我自己  [name=RS]
+> 小丑竟是我自己 🥲 [name=RS]
 
 進度：已經送印！場佈日取件。
 
@@ -43,6 +43,7 @@ tags: summit2024
 
 相關資料：
 [拍照手拿板 - Google 雲端硬碟](https://drive.google.com/drive/folders/11P2pg_8nDUVE2KavwUHS95MRq9697U6-)
+
 進度：
 
 結論：
@@ -60,16 +61,16 @@ tags: summit2024
 相關資料：
 
 進度：
-* 未熟悉mailchimp規則，即刪除匯入的記者資料，導致無法用mailchimp發信給媒體記者QQ 後來以個人信箱cc media信箱處理 [name=YC]
+* 未熟悉mailchimp規則，即刪除匯入的記者資料，導致無法用mailchimp發信給媒體記者QQ 後來以個人信箱cc media信箱處理。 [name=YC]
 * 已於2個免費新聞稿平台，發布會前新聞稿。
 * 已寄出給64則中文的採訪邀約，0則回信，協助刊登新聞稿1則。
 * 28則要給外國記者的採訪邀約待翻譯完稿，預計4/28或4/29寄出。
 
 結論：
 
-#### 報告事項一
+#### 行前通知
 
-相關資料：
+相關資料：[行前通知](https://g0v.hackmd.io/@summit2024/media-book/%2F-h8Xh-j8SWuhRWVmc8Muew)
 
 進度：
 
@@ -147,6 +148,8 @@ tags: summit2024
 > 我覺得可以特定時間在現場值班就好，其他時間就由場務組通知我們接待？[name=RS]
 
 ### 臨時動議
+
+> 私心想知道SNS廣告成效數據。[name=YC]
 
 ### 下次會議時間、討論事項
 

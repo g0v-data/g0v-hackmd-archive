@@ -9,9 +9,9 @@ tags: summit2024
 原則：g0v Summit 2024 歡迎新聞媒體自由採訪
 原則：請遵守大會[社群守則](https://summit.g0v.tw/2024/coc/)、尊重每一位與會者
 
-**General principle**: g0v summit 2024 welcomes jouralists to report and interview freely throughout the conference.
+**General principle**: g0v Summit 2024 welcomes jouralists to report and interview freely throughout the conference.
 
-Please follow the conference [Code of Conduct](https://summit.g0v.tw/2024/coc/), and respect each and every participants.
+Please follow the conference [Code of Conduct](https://summit.g0v.tw/2024/coc/), and respect each and every participant.
 
 
 ## 大會新聞稿 / Press Release
@@ -48,10 +48,10 @@ https://summit.g0v.tw/2024
 * 記者請以媒體機構名片交換識別證入場。
 * 大會識別證限本人使用，請妥善保管，配戴即可自由進出大會。
 * 會場內，歡迎自由採訪，但需取得受訪者明確同意，並且注意尊重配戴「**紅色頸繩**」的會眾，不要拍照、錄影。
-* 大會及相關活動期間，請詳閱並確實遵守大會社群準則 https://summit.g0v.tw/2024/coc/
+* 大會及相關活動期間，請詳閱並確實遵守大會[社群準則](https://summit.g0v.tw/2024/coc/)。
 * 本次大會規劃 2 樓沙發區供媒體訪問使用。然因其為開放空間且當天場館外可能有工程進行，若有不便，敬請見諒。
 
-- Media reception will be available at the registration of the venue on 4th (Sat.) 09:00－17:30 and 5th (Sun.)09:00－17:00; the line is separated from the general registration for your convenience.
+- Media reception will be available at the registration of the venue on 4th (Sat.) 09:00－17:30 and 5th (Sun.) 09:00－17:00; the line is separated from the general registration for your convenience.
 - Journalists may exchange their media organization business card for a free badge.
 - The exchanged badge automatically admits you to the conference venue and is solely intended to be worn by you. Please make sure it’s in your possession at all times.
 - You’re free to interview in the venue as long as the interviewee explicitly agreed to. Participants with **red lanyards** are NOT to be photographed or video recorded.
