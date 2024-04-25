@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20240426 宣傳組第四十次會議](../notes/_CeuN6IvT-m9H29ruuMyAQ.md) | 2024-04-25T17:59:18+08:00 | 2024-04-23T21:13:56+08:00 |
+| 1 | [20240426 宣傳組第四十次會議](../notes/_CeuN6IvT-m9H29ruuMyAQ.md) | 2024-04-25T18:59:52+08:00 | 2024-04-23T21:13:56+08:00 |
 | 2 | [物資清點](../notes/ID79drHLQSCWaNNhNMfIPg.md) | 2024-04-25T17:30:40+08:00 | 2024-04-15T21:59:25+08:00 |
 | 3 | [基調座談：全球民主倒退中的東亞公民科技社群：台、日、韓三國對話 Keynote Panel：East Asian Civic Tech Communities Amid Global Democratic Backslide: Dialogues among Taiwan, Japan, and Korea](../notes/qPklpkBsQDiBVOba61ehAA.md) | 2024-04-25T17:18:46+08:00 | 2024-04-13T16:03:56+08:00 |
 | 4 | [社群軌：AI 時代的資訊挑戰 Community Track1: Challenges of Disinformation in the Era of AI](../notes/6Q2F76LtQuaEIeMFwjFKoA.md) | 2024-04-25T17:18:37+08:00 | 2024-04-13T16:19:37+08:00 |
