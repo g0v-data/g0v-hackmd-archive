@@ -3,6 +3,7 @@
 - 牆上不能用透明膠帶！！！
 
 ## 排桌椅/紅龍/立牌
+- 分佈傳送門：https://docs.google.com/spreadsheets/d/1P7qUCibZXyh2eIgozhiCVqbZ3ucVgqOKN9BDsZdwqJU/edit#gid=0
 ### 桌椅
 - 中研院內
     - 3F 倉庫出倉
