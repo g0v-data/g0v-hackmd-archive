@@ -1,19 +1,30 @@
 ## Basic
-1. Package: backtrader
-- !pip install backtrader backtrader_plotting: 主要安裝包
-```python
-    import backtrader as bt
-    from datetime import datetime
-    import matplotlib
-    # 互動圖表
-    from backtrader_plotting import Bokeh
-    # Tradimo 或 Blackly
-    from backtrader_plotting.schemes import Blackly 
-```
+1. TradeAnalyzer
+這個分析器提供了詳細的交易統計數據，包括但不限於：
 
-```python
-    %matplotlib inline 
-    cerebro = bt.Cerebro() # 這是運行環境
-    cerebro.broker.setcash(1e5)# 平台手續費
-```
+總交易數：完成的交易次數。
+勝率：獲利交易的比例。
+虧損率：虧損交易的比例。
+最大盈利交易：單筆交易獲利最高的金額。
+最大虧損交易：單筆交易虧損最大的金額。
+平均盈利：所有獲利交易的平均盈利。
+平均虧損：所有虧損交易的平均虧損。
+盈虧比：平均盈利和平均虧損的比例。
+2. PeriodStats
+這個分析器能提供每個指定周期（如日、週、月）的表現統計，包括：
 
+每期盈利：每個周期的總盈利。
+每期虧損：每個周期的總虧損。
+周期盈利百分比：每個周期盈利的百分比。
+最佳與最差周期表現：顯示周期中最好與最差的表現。
+3. DrawDown
+這個分析器追踪和計算策略的最大回落，這對於評估策略在不利條件下的風險承受能力非常重要。它可以提供：
+
+最大回落：最大資金下降的百分比。
+最長回落期間：回落持續的最長時間。
+回落開始和結束時間：策略開始和結束回落的具體時間點。
+4. SQN (System Quality Number)
+這是一個度量策略總體性能和穩定性的指標，通常用於比較不同的交易策略。SQN的計算基於交易結果的標準差和交易數量。它提供：
+
+SQN分數：這個分數越高，表示策略的績效和穩定性越好。
+SQN分類：根據分數將策略分類（如優秀、好、一般、差、糟糕）。
