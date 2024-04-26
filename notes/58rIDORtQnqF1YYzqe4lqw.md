@@ -9,3 +9,4 @@ tags: 生態綠領就業
 - [問卷填答成果 - 圖表 📊](https://app.awesome-table.com/-NwPj1cVqBl5brPQo6Kp/view)
 - [問卷填答成果 - 資料集 📜](https://docs.google.com/spreadsheets/d/1yGd6OkKJRva_ncF1LAbD6rdUx_ZgfTOOtRDa6rtAV94/edit)
 - [倡議訴求主文 🚩](https://drive.google.com/file/d/1rCrewvCUo0_ooF9Q6ThXy02jdms3Hpib/view)[target=_blank]
+- [20240501 記者會直播網址](https://www.facebook.com/tmitrail)[target=_blank]
