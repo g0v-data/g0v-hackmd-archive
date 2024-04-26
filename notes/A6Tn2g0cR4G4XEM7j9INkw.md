@@ -2,7 +2,7 @@
 Details:
 Website: https://8k8win.casino/
 Address: 8 Lands, Diliman, Quezon City, 1128 Metro Manila, Philippines
-Email:
+Email:lutemca88750@gmail.com
 #8K8Casino, #8k8bet, #8k8, #game_8k8
 Socical:
 https://offcourse.co/users/profile/8k8wincasino/ 
