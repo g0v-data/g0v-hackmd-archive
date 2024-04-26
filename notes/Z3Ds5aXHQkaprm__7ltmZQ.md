@@ -120,8 +120,10 @@
 
 
 ## 十、全站設定
+可調整顯示於搜尋引擎的名稱、描述，以及縮圖。
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5c1d3910188f4dff04c0f755466dc087.png)
 
 1. 點擊設定按鈕
-2. 選擇要調整的對象，'General'是針對全站，'Page Settings'下則有針對各頁面的
+2. 選擇要調整的對象，'General'是針對全站，'Page Settings'下則是網站中的個別頁面。
+3. 調整希望顯示於搜尋引擎的名稱、描述，以及縮圖。

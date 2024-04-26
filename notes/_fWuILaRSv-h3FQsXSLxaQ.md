@@ -61,25 +61,30 @@ tags: vtaiwan
 -  用共筆＋polis
     - 思考開發方向，擴充 polis的功能
 
-- 工作坊 rundown
+（筆記中...）
+### 工作坊 rundown (共計 1h20m)
 
-1. **Part1: Overview (10 minutes) - Public-Private-Partnership Hybrid deliberation (公私協力的 hybrid 討論)**
+1. **Part1: Overview (15 minutes) - Public-Private-Partnership Hybrid deliberation (公私協力的 hybrid 討論)**
 
 
 - What is vTaiwan? What is moda? How do they collaborate? 
 -  vTaiwan process (機制介紹): How does vTaiwan work?
     moda 介紹 talk to the city, ++ 經驗分享 (RR)
 
-2. **Part2: Demo (25 min)**
+2. **Part2: Simulation (45 min)**
 
-- Part2-1: Online simultation
+- Part2-1: Online simulation (20/45 min)
 
-    - 現場用 Polis or TttC 收集意見 （題目暫定 vTaiwan 相關：「grassroot community 如何吸引政府的參與」, 其他淨零相關的題目：「如何倡導碳排淨零政策」「如何做社區的淨零碳排」「網頁的永續開發指引」）
+    - 現場用 Polis or TttC 收集意見 
+    （題目
+        1. vTaiwan 相關：「grassroot community 如何吸引政府的參與」
+        2. 其他淨零相關的題目：「如何倡導碳排淨零政策」「如何做社區的淨零碳排」「網頁的永續開發指引」）
+        3. 之前討論過的題目：像是 AI..
 
-- Part2-2: In-Person Simulation 
+- Part2-2: In-Person Simulation (25/45 min) 
 
     -  現場用 TttC 的報告分組
 
 
-3. **Part3: Discussion**
-15分 consensus
+3. **Part3: Reflection & Discussion (20 min)**
+    - 現場 Q&A
