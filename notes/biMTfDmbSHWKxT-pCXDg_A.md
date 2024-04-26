@@ -13,7 +13,7 @@ Tap 「<i class="fa fa-angle-double-right"></i>」button on the top left to show
 
 :::success
 Slido 線上提問連結 Online QA link：
-
+https://app.sli.do/event/cH9qjt1P4sZei6zTCmN5XJ
 議程投影片 presentation slides：待更新
 :::
 

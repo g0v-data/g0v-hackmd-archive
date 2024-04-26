@@ -6,25 +6,27 @@ tags: summit2024,
 
 
 ## 參考資料
-[summit 2020](https://g0v.hackmd.io/@ODrkl-1rScWpK6S1uQCQDw/g0v-summit-2020-marketing/%2FkwdhxMcrRGW9o2rSGqh_OA)
+[Summit 2020](https://g0v.hackmd.io/@ODrkl-1rScWpK6S1uQCQDw/g0v-summit-2020-marketing/%2FkwdhxMcrRGW9o2rSGqh_OA)
 
-[summit 2020 大會媒體聯繫及接待整體規劃](https://g0v.hackmd.io/@summit2020/book/%2FzG9SbIhDQCiIlXif9eQutQ)
+[Summit 2020 大會媒體聯繫及接待整體規劃](https://g0v.hackmd.io/@summit2020/book/%2FzG9SbIhDQCiIlXif9eQutQ)
 
-[summit 2020 線上記者會](https://fb.watch/n49gliFFBY/)
+[Summit 2020 線上記者會](https://fb.watch/n49gliFFBY/)
 
-[summit 2020 記者會新聞稿](https://docs.google.com/document/d/1wdSKM0YrWnCb8lLZvcRr-c6Jc-cKINyA/edit#heading=h.gjdgxs)
+[Summit 2020 記者會新聞稿](https://docs.google.com/document/d/1wdSKM0YrWnCb8lLZvcRr-c6Jc-cKINyA/edit#heading=h.gjdgxs)
 
-[summit 2020 活動新聞稿](https://docs.google.com/document/d/1chL2IQXja4rPZ7K1Qu9JkFi4P9htKjqYWR8mtbB0YL0/edit)
+[Summit 2020 活動新聞稿](https://docs.google.com/document/d/1chL2IQXja4rPZ7K1Qu9JkFi4P9htKjqYWR8mtbB0YL0/edit)
 
-[summit 2020 媒體曝光紀錄](https://g0v.hackmd.io/@summit2020/book/https%3A%2F%2Fg0v.hackmd.io%2FR2ihvYvUTA6HbYQKELSTvw)
+[Summit 2020 媒體曝光紀錄](https://g0v.hackmd.io/@summit2020/book/https%3A%2F%2Fg0v.hackmd.io%2FR2ihvYvUTA6HbYQKELSTvw)
 
-[summit 2020 會後檢討](https://docs.google.com/document/d/1eOxWBlJ_uBaKQWoMGDJdSiEMCWL-Ts0fiCwX2vih-zk/edit)
+[Summit 2020 會後檢討](https://docs.google.com/document/d/1eOxWBlJ_uBaKQWoMGDJdSiEMCWL-Ts0fiCwX2vih-zk/edit)
 
-[summit 2018 當天公關媒體攝影需求](https://g0v.hackmd.io/O-Al9mzHRsiCmDJZqD4wqw#%E5%85%AC%E9%97%9C%E5%AA%92%E9%AB%94)
+[Summit 2018 會前新聞稿](https://docs.google.com/document/d/1w6BYIzIsKISiHa7wskLlaCc-J_WKojlK_Wqq3xu_ypw/edit?usp=drive_link)
 
-[summit 2018 媒體曝光紀錄](https://docs.google.com/document/d/1uRfn7z6j9YzmxuMTrhTUu0m9TjnP1TYAblSqVm-M44g/edit)
+[Summit 2018 當天公關媒體攝影需求](https://g0v.hackmd.io/O-Al9mzHRsiCmDJZqD4wqw#%E5%85%AC%E9%97%9C%E5%AA%92%E9%AB%94)
 
-[summit SOP](https://beta.hackfoldr.org/g0v-summit-sop/g0v-Summit-SOP-ARIQxSSKzzj)
+[Summit 2018 媒體曝光紀錄](https://docs.google.com/document/d/1uRfn7z6j9YzmxuMTrhTUu0m9TjnP1TYAblSqVm-M44g/edit)
+
+[Summit SOP](https://beta.hackfoldr.org/g0v-summit-sop/g0v-Summit-SOP-ARIQxSSKzzj)
 
 [g0v 媒體報導](https://docs.google.com/spreadsheets/d/1YaD9e3HQ19ft2lSz_B9nnxjw8A-4Tbfain9OvnS38aw/edit#gid=0)
 
