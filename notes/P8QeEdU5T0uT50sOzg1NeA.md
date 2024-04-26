@@ -933,8 +933,29 @@ Opass 教學
 
 ### 識別證（Badge）
 
-
-
 ### 地圖
 
 ### 貼紙
+
+## 20240426 第二十三次會議紀錄
+> 時間：2024/04/19（五） 10:00 PM
+> 地點：線上
+> 出席：Dong、小侯、YC、pm5、Skyler、、、、、
+
+### 指標系統
+相關資料：[Summit 2024 指標系統 - Google 試算表](https://docs.google.com/spreadsheets/d/1L043vtcdJEEOfABS3-OuC6NFV4J6peRHrG74d0GALVY/edit#gid=0)
+Canva 合併列印說明：
+- Canva 大量列印功能，是一個能快速生成大量設計稿的好幫手
+- 先準備好自己的設計稿
+- 下載需要的表格檔案
+- 到 Canva 裡的應用程式中，找到「大量建立」
+    - 位置
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4927ac44717df5b02bb8696cc73a61dc.png =x250)
+- 連結 Canva 裡文字匡跟表格標頭
+- 建立大量設計
+結論：
+- [name=Dong] 會去跟 [name=CPY] 確定要印多少指標
+- [name=Hou] 會去玩玩 Canva 的大量列印
+
+### 社群媒體發文圖
+- 剩「年會後閉幕感謝文、年會開幕文」，目前由 [name=Dong] 接下來，歡迎大家來搶工作
