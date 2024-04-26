@@ -117,7 +117,11 @@
 5. 確認無誤後，按下’Update’，等待數秒後即可看到畫面顯示成功狀態
 <br/>
 ## 九、語系翻譯
-
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bffef5734a827cfd6a3d5113dabdd56b.png)
+1. 按一下切換語系的國旗按鈕（在Framer下方工具列中）
+2. 選擇中文
+3. 選擇要翻譯的文字
+4. 在右邊欄位進行編輯
 
 ## 十、全站設定
 可調整顯示於搜尋引擎的名稱、描述，以及縮圖。
