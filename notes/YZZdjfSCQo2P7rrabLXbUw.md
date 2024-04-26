@@ -11,7 +11,7 @@ Google 遊戲
 https://web.jsps.kh.edu.tw/googlegame/
 自然故事花園4
 https://drive.google.com/drive/folders/1p4xh2eRc8tLJGkaa-EMv8uSFRRAal_ob?usp=drive_link
-
+https://www.i-gamer.net/play/21254.html
 
 #### 常用連結
 打字練習1    https://worldofkeyboards.com/bopomofo

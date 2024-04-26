@@ -16,3 +16,7 @@ See https://github.com/42wim/matterbridge/wiki/Section-Telegram-(basic)#tutorial
 * 2023.06
     * Telegram clickhouse.tw 
     * g0v Slack #clickhouse
+* 2024.03
+    * Telegram @SOGACtw
+    * g0v Slack #open-student-org
+    * https://g0v.hackmd.io/@Ted-Lu/r1WKJ58ua
