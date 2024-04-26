@@ -31,6 +31,9 @@ tags: GIS
 
 ## 有類似但並非針對防鳥撞擊，有改善機會
 
+玻璃帷幕旁種植喬木
+https://www.facebook.com/share/p/MtLm81r3D9SoQ5jP/
+
 待確認，捷運善導寺站地面出口
 https://photos.app.goo.gl/7thhtqW9mzkBupp77
 
