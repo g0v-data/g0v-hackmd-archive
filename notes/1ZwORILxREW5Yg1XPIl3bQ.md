@@ -1,11 +1,11 @@
 # Seamless Switchover: Utilizing Blue-Green deployment strategy 
-A key idea in contemporary software development and deployment methods, especially in the context of the [DevOps](https://about.gitlab.com/topics/devops/#:~:) paradigm, is [blue-green deployment](https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/bluegreen-deployments.html#:~:). The difficulties of introducing updates and new features to web-based apps without upsetting users or causing downtime are addressed by this deployment model. 
+A key idea in contemporary software development and deployment methods, especially in the context of the [DevOps](https://about.gitlab.com/topics/devops/#:~:) paradigm, is [blue-green deployment](https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/bluegreen-deployments.html#:~:). The difficulties of introducing updates and new features to web-based apps without upsetting users or causing downtime are addressed by this deployment model. Another name for this deployment process is "red-black" deployment. 
 
 ## Definition and Concept
 Maintaining two distinct but similar environments—referred to as "blue" and "green"—is the task of blue-green deployment. These environments are functionally identical since their hardware, software, and configurations are mirror images of one another. The green environment is where updates and new features are staged, whereas the blue environment is the application as it is currently available for use.
 
 ## Purpose and Significance
-Enabling the smooth and continuous distribution of updates, features, and bug fixes to online applications is the main goal of blue-green deployment. Blue-green deployment enables developers to push changes to the green environment without impacting the live production environment (blue), as it maintains two parallel environments. This guarantees that during the deployment process, users encounter little to no [downtime](https://en.m.wikipedia.org/wiki/Downtime).
+Enabling the smooth and continuous distribution of updates, features, and bug fixes to online applications is the main goal of blue-green deployment. This deployment enables developers to push changes to the green environment without impacting the live production environment (blue), as it maintains two parallel environments. This guarantees that during the deployment process, users encounter little to no [downtime](https://en.m.wikipedia.org/wiki/Downtime).
 
 ### Advantages of Blue-Green Deployment
 The following are the advantages of blue-green deployment:
