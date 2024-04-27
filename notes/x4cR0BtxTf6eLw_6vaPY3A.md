@@ -38,7 +38,7 @@
 
 ## a) 重要數位服務
 
-社群共同列舉民生上重要的數位服務，及基礎假ㄍ
+社群共同列舉民生上重要的數位服務，及基礎架構相關服務。
 
 -> [重要民生網站與數位服務（與其替代品）](/lmNxS58KQOm5Rf-H4SbvSw)
 
@@ -51,8 +51,7 @@
         - 是否是 anycast，且提供國內節點
 - 網站頁面 & API 是否通過 CDN
     - CDN 是否是已知有落地的單位
-        - cloudflare (TPE)
-        - Akamai
+        - 例如：cloudflare (TPE)、Akamai
 - 網站使用的 library (jquery, anguler, vue... etc)
     - 是否使用公共的 CDN
         - 是否已知有落地
@@ -67,14 +66,14 @@
 
 1. 先打開 adblock / adguard，把不必要的元素都預先擋掉
 2. 打開瀏覽器開發工具，停用快取，載入頁面
-3. 切到 network，用 HAR 檔存下完整的 request 紀錄 
-    - 完整 request 紀錄: https://gist.github.com/irvin/8d7527636528fcb64ce2dc6b63679da3
-4. 資料整理
+3. 切到 network，用 HAR 檔存下[完整的 request 紀錄](https://gist.github.com/irvin/8d7527636528fcb64ce2dc6b63679da3)
+4. 資料清理
     > - vscode 搜索 HAR `"url": "(.*)"` 抓出所有的 requests
     > - 按照 hostname 排序，同一個 sub-domain 只留一條 
     - 可直接丟掉的 requests 們
-    
-        > 可參考擋廣告軟體的效果（例：假設有被 ublock 阻擋）就可以直接丟棄
+
+        > 可參考擋廣告軟體的效果（例：假設被 ublock 阻擋）就可以直接丟棄
+        
         - analytics:
             - `analytics.google.com`
             - `play.google.com/log`
@@ -91,7 +90,8 @@
             - `jscdn.appier.net`
         - 其他:
             - `www.youtube.com/embed/*`
-5. 檢視 HAR entries 下的每一個 request 項目是否有境內可用性，以[第一項](https://gist.github.com/irvin/8d7527636528fcb64ce2dc6b63679da3#file-24h-pchome-com-tw_archive-24-02-24-15-39-25-har-L29) `https://24h.pchome.com.tw/prod/DCAYAD-A900BIAMV` 為例
+5. 檢視 HAR entries 下的每一個 request 項目是否有境內可用性
+    > 以[第一項](https://gist.github.com/irvin/8d7527636528fcb64ce2dc6b63679da3#file-24h-pchome-com-tw_archive-24-02-24-15-39-25-har-L29) `https://24h.pchome.com.tw/prod/DCAYAD-A900BIAMV` 為例
 
     a. 確認該資源資訊
         
@@ -113,6 +113,7 @@
 
     b-1. 假設無 Anycast，則參考該 ip 的地理位置，紀錄到表格上。如位置在島內，則在「是否可及」內打 O，在島外則打 X。
     
-    b-2. 假設有 Anycast，如果該地理位置不在島內，可檢查「該服務是否是已知有台灣節點者」，如上述範例 hostname 為GCP，對照 [雲端平台--IaaS](https://g0v.hackmd.io/lmNxS58KQOm5Rf-H4SbvSw#雲端平台--IaaS)，確認其有台灣節點，則在「是否可及」內紀錄 `O`
+    b-2. 假設有 Anycast，如果該地理位置不在島內，可檢查「該服務是否是已知有台灣節點者」，如上述範例 hostname 為GCP，對照 [雲端平台--IaaS](https://g0v.hackmd.io/lmNxS58KQOm5Rf-H4SbvSw#雲端平台--IaaS)，確認其有台灣節點，則在「是否可及」內紀錄 `-`
         
-    c. 最終以 `X` 與 `?` 的數字評估該網頁的耐受度。以 [pchome 產品頁](/5siiuEN1RAuFAI2H7l-phQ) 為例，共 7 個 `O` 位於境內、10 個 `-` 使用雲端服務可能有耐受性，沒有任何 `X` 非雲端的境外節點。
+    c. 最終以 `X` 與 `-` 的數字評估該網頁的耐受度。以 [pchome 產品頁](/
+    ) 為例，共 7 個 `O` 位於境內、10 個 `-` 使用雲端服務可能有耐受性，沒有任何 `X` 非雲端的境外節點。

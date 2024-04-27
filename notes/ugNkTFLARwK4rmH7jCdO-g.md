@@ -51,3 +51,15 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | 重要民生網站韌性檢測—<br>網路障礙時還能買沒屋頂嗎？ | Irvin | [github](https://github.com/irvin/digital-service-resilience)、[hackmd](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A?view)|
 | Meshtastic相關討論 | Sean |  |
 
+## 成果區
+### 避難所資訊統整
+
+
+
+
+### 彙整 meshtastic 知識庫
+
+- 感謝 [台灣鏈網 Meshtastic]() 社團版主 @dryden 幫忙寫了很多很棒的入門文章，但都在臉書上，如果臉書掛了或被祖克柏刪掉就 啪，沒了
+    - 在 g0v hackmd 的文章會定期備份，讓文章都可以
+- [台灣鏈網 Meshtastic / DigiResiTh0n](/ZGuA7fUZQi-fbD06EenmGQ) 文章彙整
+- 開 #mesh 頻道，之後方便測試

@@ -26,7 +26,9 @@ Checklist:
 
 
 ### 改場地標示
-
+改完了
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_abab31935bb25df998c99c013ec6f7f0.png =x250)![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_206c95d365633a610ec6088856be858b.png =x250)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_13965bc55ee360384a8e0a006af63c44.png =x250)![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d989c328ebae2f46890d1565b7268678.png =x250)
 
 ### 地震指引印刷、上網頁
 
@@ -34,7 +36,36 @@ Checklist:
 ### 跟[name=雁子]請零用金(紀念品攤位用)
 
 
-### 紀念品
+### 紀念品定價
+
+- 鏡頭防窺貼
+	* 成本：13 元/份(一黑一白) (6216/500，已無條件進位)
+	* 定價：100元/份
+	* **無工人價**
+
+- 技能貼紙
+    * 印兩種各 400 or 500 張
+    * 成本： 45 or 55 元/張（43462/1000，已無條件進位）
+    * 定價：150元/張
+        * 兩種都買 250元/組
+    * 工人價(現場憑badge)：
+        * 不論種類 100元/張
+
+- 白色T恤（視力檢查表）
+    * 成本：231 元/件（220*1.05），贈送成本 +240 ~ 260 元
+    * 定價：500 元
+    * 工人價(預購或現場憑badge)：
+
+- （非賣品）工人限定藏青款T恤
+    * 成本：279 元/件（220*1.05，已無條件進位）
+        * T恤 2L 加價 30 元/件， 3L 加價 50 元/件
+    * 定價：非賣品
+    * 工人價（現場憑 ）：
+- 大全套
+* 鏡頭防窺貼 + T恤*2 ＋ 貼紙
+* 成本： 13 + 45 or 55 元/張 + 231
+* 定價： 
+
 ### 「集章換紀念品打折50元」詳細運作機制
 
 
@@ -59,6 +90,8 @@ Checklist:
 - 現場可以開放工人價嗎？沒辦法辨識工人、講者怎麼辦？[name=YC]
     - 那我們拉高一點工人價（減少道德風險），然後依然開放現場購買？[name=RS]
 
+成果：[工人資訊調查與紀念品預購表單](https://forms.gle/YT1WxPQaX6KBugKb8)
+
 ### 辦桌票要再宣傳嗎？
 - 問 [name=Allen] 要不要再宣傳辦桌票
 
@@ -69,3 +102,16 @@ Checklist:
 ### 網站一些細節呈現方式要跟 [name=chihao]、議程組對
 
 ### 有空改[推播訊息表](https://docs.google.com/spreadsheets/d/1CDrPOvJKggdiuHFuc4TJ3ejb2aArBUrcHplFDPHCZBA/edit#gid=0)
+
+### Allen Express 路線
+
+1. [NPO Hub](https://maps.app.goo.gl/zJGPbgpmb1hBdpVa7)
+    - 人：Dong
+    - 物：頸繩、手版、關東旗竿
+2. [千業](https://maps.app.goo.gl/3Ga4X9vLn2MG7Dvo9)
+    - 人：RS
+    - 物：摺頁、Badge、有的沒的
+3. [玩美獨衣](https://maps.app.goo.gl/gDff4rHWMeto3caT9)
+    - 物：衣服(五大袋)
+4. [松山倉庫-收多易](https://maps.app.goo.gl/CfLumBj2ubUf7hTz5)
+9. [中研院](https://maps.app.goo.gl/AtMDG4YWuM1BuSqG8)
