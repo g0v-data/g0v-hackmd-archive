@@ -23,3 +23,9 @@ https://app.awesome-table.com/-NwPj1cVqBl5brPQo6Kp/view
 ## 倡議訴求主文 🚩
 
 https://drive.google.com/file/d/1rCrewvCUo0_ooF9Q6ThXy02jdms3Hpib/view
+
+## 20240501 記者會
+- 20240501 記者會直播網址 https://www.facebook.com/tmitrail
+- 記者會媒體資料夾 https://drive.google.com/drive/folders/1mtgoAkoacNpH_KsybBIOPGJoPWH-Pyl9?usp=sharing
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_98848694419361fa6c3e902dea99a104.png)
