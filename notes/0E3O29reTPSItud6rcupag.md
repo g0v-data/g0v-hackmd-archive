@@ -128,7 +128,7 @@
 
 火山相關潛勢區：
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6ae07a758f59e2399bed188b1826eb94.png)
+![火山相關潛勢區](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6ae07a758f59e2399bed188b1826eb94.png)
 
 暫存：https://www.facebook.com/TaipeiNeedYou/posts/2279770472069198/?paipv=0&eav=AfaSw_i-s2G9NZ7hdLIwotA9tp4bqASW7aReZDKVHMGzPDz6a-9Nsh9DqCNoeiqnvR4&_rdr
 

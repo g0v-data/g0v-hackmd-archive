@@ -7,20 +7,14 @@ tags: summit2024
 
 ## 主持人所需資料
 - [主持人所需資料](https://docs.google.com/document/d/1rCrl6jIHYExEyocYspTA4yrEArAbRDstI4qOztfCuN4/edit?usp=sharing)
-- 日期：
-- 時間：
-- 地點：
-- 主持人：
-- 議程內容：
-- 講者資訊：
-- 其他備註：
 
-## 議程助理確認
-如果主持人未出現，需要聯繫議程組成員
 
 ## 主持人注意事項
-- 要找 Peter 領資料
-- 活動開始前10分到達場地，議程助理負責聯繫
+- 無論是講者還是要找 Peter 領資料
+- 活動開始前30分完成報到，前10分鐘到達場地。
+- 場地資料可以參考[官網連結](https://summit.g0v.tw/2024/)。
+- 需要協助告知的事項：[主持人告知事項](https://docs.google.com/document/d/1CvFhb2ZlWlRx9-x7nrIhQNTprKavVGsFa2BlrEETbQ4/edit?usp=sharing)
 
-## 主持人說明事項
-- [主持人說明事項](https://docs.google.com/document/d/1CvFhb2ZlWlRx9-x7nrIhQNTprKavVGsFa2BlrEETbQ4/edit?usp=sharing)
+## 其他資訊
+- 大會共筆：[g0v Summit 2024 collaboration notes overview](/@summit2024/notes/%2Fnm5pRpl1Qk-Caf-AZTY81w)
+- welcome note: 

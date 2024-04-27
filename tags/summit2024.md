@@ -2,24 +2,24 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-27T14:58:33+08:00 | 2024-04-09T15:38:54+08:00 |
-| 2 | [媒體小組筆記](../notes/jvTv4tEIRvG402qbanP6KA.md) | 2024-04-26T22:37:53+08:00 | 2023-09-15T22:08:59+08:00 |
-| 3 | [開放工作坊2 Unconference2](../notes/biMTfDmbSHWKxT-pCXDg_A.md) | 2024-04-26T22:29:18+08:00 | 2024-04-13T17:01:38+08:00 |
-| 4 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-04-26T21:04:25+08:00 | 2023-11-03T20:10:41+08:00 |
-| 5 | [g0v Summit 2024 公務人員學習時數登錄](../notes/XvXXZstbQ8aqcbO8wYXYtg.md) | 2024-04-25T20:11:37+08:00 | 2024-04-24T19:54:36+08:00 |
-| 6 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-04-25T19:48:48+08:00 | 2024-04-11T20:55:35+08:00 |
-| 7 | [用科技協助基層發聲，解決公民問題 Leverage technology to amplify grassroots voices and address civic challenges.](../notes/tn3wbGzNTYmYef2YMXdcZw.md) | 2024-04-25T17:15:39+08:00 | 2024-04-13T16:41:32+08:00 |
-| 8 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-25T13:33:26+08:00 | 2023-12-09T12:53:41+08:00 |
-| 9 | [社群攤位排程](../notes/PT5Dm1i8TvGhdC0ZRwNLmA.md) | 2024-04-25T08:55:40+08:00 | 2024-04-25T00:00:47+08:00 |
-| 10 | [台灣維基媒體協會「公民科技促進數位民主之資訊發展研析與推動」研究計畫於 g0v Summit 2024 資料蒐集說明](../notes/7rsNc50ySy2EBW6cEL403w.md) | 2024-04-24T00:15:43+08:00 | 2024-04-23T13:52:36+08:00 |
-| 11 | [20240423 會議](../notes/K9zk0qU0SUiBAZRtr3qDJQ.md) | 2024-04-23T23:09:07+08:00 | 2024-04-20T21:28:55+08:00 |
-| 12 | [行前通知](../notes/jMz-ekZlT_q-QEBZxqFB9g.md) | 2024-04-23T22:30:02+08:00 | 2024-03-04T16:23:31+08:00 |
-| 13 | [20240423 會議](../notes/cGrcA9q4RSmnht6EA1ZbWw.md) | 2024-04-23T22:24:45+08:00 | 2024-04-15T21:57:56+08:00 |
-| 14 | [Summit 2024 登記預算與請款辦法](../notes/BneF56PWQxms79e_LfQnpw.md) | 2024-04-23T17:38:49+08:00 | 2023-12-26T21:17:53+08:00 |
-| 15 | [公民社會、科技平台，如何協作？ How do civil society organizations and tech platforms collaborate?](../notes/wGgiZFEwSnmLrkuPiB4XGQ.md) | 2024-04-23T13:52:28+08:00 | 2024-04-13T23:36:35+08:00 |
-| 16 | [基調座談 – 全球民主倒退中的東亞公民科技社群：台、日、韓三國對話](../notes/1s4iT1NQTluytpHMPa2cNQ.md) | 2024-04-22T22:11:33+08:00 | 2024-03-26T08:18:26+08:00 |
-| 17 | [電子報專區](../notes/zdsET4JqTImKkO9x62yeHg.md) | 2024-04-22T10:13:21+08:00 | 2023-11-11T14:38:14+08:00 |
-| 18 | [主持人](../notes/uY0OBQe8QSOIRnYLzixDeg.md) | 2024-04-20T21:51:32+08:00 | 2024-01-06T15:36:08+08:00 |
+| 1 | [主持人](../notes/uY0OBQe8QSOIRnYLzixDeg.md) | 2024-04-27T15:24:21+08:00 | 2024-01-06T15:36:08+08:00 |
+| 2 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-27T14:58:33+08:00 | 2024-04-09T15:38:54+08:00 |
+| 3 | [媒體小組筆記](../notes/jvTv4tEIRvG402qbanP6KA.md) | 2024-04-26T22:37:53+08:00 | 2023-09-15T22:08:59+08:00 |
+| 4 | [開放工作坊2 Unconference2](../notes/biMTfDmbSHWKxT-pCXDg_A.md) | 2024-04-26T22:29:18+08:00 | 2024-04-13T17:01:38+08:00 |
+| 5 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-04-26T21:04:25+08:00 | 2023-11-03T20:10:41+08:00 |
+| 6 | [g0v Summit 2024 公務人員學習時數登錄](../notes/XvXXZstbQ8aqcbO8wYXYtg.md) | 2024-04-25T20:11:37+08:00 | 2024-04-24T19:54:36+08:00 |
+| 7 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-04-25T19:48:48+08:00 | 2024-04-11T20:55:35+08:00 |
+| 8 | [用科技協助基層發聲，解決公民問題 Leverage technology to amplify grassroots voices and address civic challenges.](../notes/tn3wbGzNTYmYef2YMXdcZw.md) | 2024-04-25T17:15:39+08:00 | 2024-04-13T16:41:32+08:00 |
+| 9 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-25T13:33:26+08:00 | 2023-12-09T12:53:41+08:00 |
+| 10 | [社群攤位排程](../notes/PT5Dm1i8TvGhdC0ZRwNLmA.md) | 2024-04-25T08:55:40+08:00 | 2024-04-25T00:00:47+08:00 |
+| 11 | [台灣維基媒體協會「公民科技促進數位民主之資訊發展研析與推動」研究計畫於 g0v Summit 2024 資料蒐集說明](../notes/7rsNc50ySy2EBW6cEL403w.md) | 2024-04-24T00:15:43+08:00 | 2024-04-23T13:52:36+08:00 |
+| 12 | [20240423 會議](../notes/K9zk0qU0SUiBAZRtr3qDJQ.md) | 2024-04-23T23:09:07+08:00 | 2024-04-20T21:28:55+08:00 |
+| 13 | [行前通知](../notes/jMz-ekZlT_q-QEBZxqFB9g.md) | 2024-04-23T22:30:02+08:00 | 2024-03-04T16:23:31+08:00 |
+| 14 | [20240423 會議](../notes/cGrcA9q4RSmnht6EA1ZbWw.md) | 2024-04-23T22:24:45+08:00 | 2024-04-15T21:57:56+08:00 |
+| 15 | [Summit 2024 登記預算與請款辦法](../notes/BneF56PWQxms79e_LfQnpw.md) | 2024-04-23T17:38:49+08:00 | 2023-12-26T21:17:53+08:00 |
+| 16 | [公民社會、科技平台，如何協作？ How do civil society organizations and tech platforms collaborate?](../notes/wGgiZFEwSnmLrkuPiB4XGQ.md) | 2024-04-23T13:52:28+08:00 | 2024-04-13T23:36:35+08:00 |
+| 17 | [基調座談 – 全球民主倒退中的東亞公民科技社群：台、日、韓三國對話](../notes/1s4iT1NQTluytpHMPa2cNQ.md) | 2024-04-22T22:11:33+08:00 | 2024-03-26T08:18:26+08:00 |
+| 18 | [電子報專區](../notes/zdsET4JqTImKkO9x62yeHg.md) | 2024-04-22T10:13:21+08:00 | 2023-11-11T14:38:14+08:00 |
 | 19 | [場佈設計筆記](../notes/-YB5siwcQy2DyIgSlAZs-w.md) | 2024-04-20T20:17:09+08:00 | 2024-03-07T12:47:57+08:00 |
 | 20 | [場務助理](../notes/yheBZPRvSpmGXfsQ1AUkGA.md) | 2024-04-19T12:18:48+08:00 | 2024-04-09T13:31:01+08:00 |
 | 21 | [g0v Summit 2024 直播錄影技術細節提醒](../notes/nCHWJ35ORM6cz5mf3QZF-w.md) | 2024-04-19T11:55:23+08:00 | 2024-04-19T09:03:25+08:00 |
