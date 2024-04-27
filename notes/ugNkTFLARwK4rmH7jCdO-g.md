@@ -53,13 +53,18 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 ## 成果區
 ### 避難所資訊統整
+- [全台防災/防空避難所大統整](/UNg_8F3FTuynAwbV7flp-w)
 
-
+### 韌性檢測
+- [MoMo 檢測](/9JfXRBRbSV2wE3ULGIL-XA)
+- [COSCUP 提案](https://pretalx.coscup.org/coscup-2024/talk/review/7QVJWSDVSRH8FBVBDUQRKTZNVN3CFZJD)
+- 小幅更新[檢測步驟文件](/x4cR0BtxTf6eLw_6vaPY3A)
+- github repo 加入 CC0 license
 
 
 ### 彙整 meshtastic 知識庫
 
 - 感謝 [台灣鏈網 Meshtastic]() 社團版主 @dryden 幫忙寫了很多很棒的入門文章，但都在臉書上，如果臉書掛了或被祖克柏刪掉就 啪，沒了
-    - 在 g0v hackmd 的文章會定期備份，讓文章都可以
+    - 在 g0v hackmd 的文章會定期備份，SEO 也做得很好，讓文章方便流傳（？）
 - [台灣鏈網 Meshtastic / DigiResiTh0n](/ZGuA7fUZQi-fbD06EenmGQ) 文章彙整
-- 開 #mesh 頻道，之後方便測試
+- 在 g0v slack 開 [#mesh 頻道]()，之後方便測試

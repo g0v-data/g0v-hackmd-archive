@@ -8,6 +8,10 @@
     - 已有資料
         - [台灣村里列表](https://gist.github.com/ronnywang/aa8011b9bd09d18faae398ef55991ee3)
         - [已有避難圖村里](https://github.com/ronnywang/simple-evacuation-map/blob/main/village-log.csv)
+- 本日成果：
+    - E 處理苗栗資料: https://docs.google.com/spreadsheets/d/10mkZhe8VB0CfkcC3wq4cDkXA5fGOlKOO5ncebU68VJ0/edit#gid=2060256247
+    - Super 在研究利用 Geolocation 抓出對應村里 https://github.com/Super1115/getTownCodeTW
+    - Ronny 處理台北市更多村里資料
 ## 目前進度：
 - [簡易避難地圖整理](https://github.com/ronnywang/simple-evacuation-map)
     - 各縣市品質不一
