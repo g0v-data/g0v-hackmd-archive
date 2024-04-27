@@ -10,6 +10,9 @@
 
 ---
 
+- har: https://gist.github.com/irvin/8d7527636528fcb64ce2dc6b63679da3
+- 測試頁面: https://24h.pchome.com.tw/prod/DCAYAD-A900BIAMV
+
  | #  | accessable  | IP  | Canonical  | Anycast | Geo location  | Cloud services  | URI  | 
  | ---  | ---  | ---  | ---  | ---  | ---  | ---  |  ---  | 
  | 1  | O  | 34.149.253.14  | shopping.gs1.pchome.com.tw  | true  | Kansas City, Missouri, US  | GCP  | https://24h.pchome.com.tw/prod/DCAYAD-A900BIAMV  | 

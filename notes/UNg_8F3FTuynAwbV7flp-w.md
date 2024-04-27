@@ -2,7 +2,13 @@
 
 防空/防水/防震 避難所都是不一樣的，希望能有一個統一整理的資料庫，讓之後離線防災資料庫可以納入
 
-目前進度：
+## 0427 討論
+- 本日目標
+    - 製作一個網頁功能，可以根據裝置的經緯度（[Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)) ，然後查到這個經緯度附近的村里，並且回傳該村里的相關防災地圖
+    - 已有資料
+        - [台灣村里列表](https://gist.github.com/ronnywang/aa8011b9bd09d18faae398ef55991ee3)
+        - [已有避難圖村里](https://github.com/ronnywang/simple-evacuation-map/blob/main/village-log.csv)
+## 目前進度：
 - [簡易避難地圖整理](https://github.com/ronnywang/simple-evacuation-map)
     - 各縣市品質不一
     - 有的中英文都有，有的只有中文

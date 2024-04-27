@@ -15,6 +15,7 @@
 #### 🔸 [家具固定](https://www.tfdp.com.tw/cht/index.php?code=list&flag=detail&ids=37&article_id=881)
 [![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a5866683b89c4ffcacef760f2b79d4bf.jpg)](https://www.tfdp.com.tw/cht/index.php?code=list&flag=detail&ids=34&article_id=1234)
 <br/>
+#### 🔸 逃生路線的檢查與演練：注意天花板、地板、牆面、燈（備案：手機、手電筒）、阻礙物們：門：鐵捲門（需要等待）、逃生門（因生疏使用需要研究））能否快速開啟。注意落石（建築牆面的磁磚脫落
 #### 🔸 [隨時備好每人有 3 日份以上的防災食物](https://www.tfdp.com.tw/cht/index.php?code=list&flag=detail&ids=37&article_id=878)
 * 防災食物：
     * 適合常溫＆長時間保存

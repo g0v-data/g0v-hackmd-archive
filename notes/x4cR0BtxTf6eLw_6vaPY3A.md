@@ -74,19 +74,14 @@
         - ad:
             - `*.doubleclick.net`
             - `www.google.com.tw/ads`
+            - `*.scupio.com`
         - 其他:
             - `www.youtube.com/embed/*`
 5. 檢視 HAR entries 下的每一個 request 項目是否有境內可用性，以[第一項](https://gist.github.com/irvin/8d7527636528fcb64ce2dc6b63679da3#file-24h-pchome-com-tw_archive-24-02-24-15-39-25-har-L29) `https://24h.pchome.com.tw/prod/DCAYAD-A900BIAMV` 為例
 
-    a. 確認資源 IP
+    a. 確認該資源資訊
         
-            ➜  ping 24h.pchome.com.tw
-            PING shopping.gs1.pchome.com.tw (34.149.253.14): 56 data bytes
-            64 bytes from 34.149.253.14: icmp_seq=0 ttl=61 time=20.640 ms
-            
-    b. 確認該 IP 資訊 https://ipinfo.io/34.149.253.14 
-
-        ➜  ~ ipinfo 34.149.253.14
+        ➜  ~ ipinfo 24h.pchome.com.tw
         Core
         - IP           34.149.253.14
         - Anycast      true
@@ -100,13 +95,13 @@
         - Postal       64106
         - Timezone     America/Chicago
             
-    c. 檢視 Anycast / 地理位置狀態
+    b. 檢視 Anycast / 地理位置狀態
 
-    c-1. 假設無 Anycast，則參考該 ip 的地理位置，紀錄到表格上。如位置在島內，則在「是否可及」內打 O，在島外則打 X。
+    b-1. 假設無 Anycast，則參考該 ip 的地理位置，紀錄到表格上。如位置在島內，則在「是否可及」內打 O，在島外則打 X。
     
-    c-2. 假設有 Anycast，如果該地理位置不在島內，可檢查「該服務是否是已知有台灣節點者」，如上述範例 hostname 為GCP，對照 [#雲端平台--IaaS--SaaS](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A?both#雲端平台--IaaS--SaaS) 確認其有台灣節點，則在「是否可及」內紀錄 `O`
+    b-2. 假設有 Anycast，如果該地理位置不在島內，可檢查「該服務是否是已知有台灣節點者」，如上述範例 hostname 為GCP，對照 [雲端平台--IaaS](https://g0v.hackmd.io/lmNxS58KQOm5Rf-H4SbvSw#雲端平台--IaaS)，確認其有台灣節點，則在「是否可及」內紀錄 `O`
         
-    d. 最終以 `X` 與 `?` 的數字評估該網頁的耐受度。以上頁 pchome 產品頁為例，共 2 個 `X` 可評估改善。
+    c. 最終以 `X` 與 `?` 的數字評估該網頁的耐受度。以上頁 pchome 產品頁為例，共 2 個 `X` 可評估改善。
 
 
 
@@ -116,4 +111,4 @@
 | 服務 | 斷網耐受性 | 檢測紀錄 |
 | -------- | -------- | -------- |
 | Pchome 24 產品頁     | failure     | [檢測紀錄](/5siiuEN1RAuFAI2H7l-phQ)
-| | |
+| MoMo 產品頁 | | [檢測紀錄](/9JfXRBRbSV2wE3ULGIL-XA)
