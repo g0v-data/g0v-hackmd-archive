@@ -77,6 +77,7 @@ tags: summit2024
 ### 跨組協調
 - 調查各組[攝影需求統計](/MMKYZhSzQ2iIyhH7MPY-xQ) [name=大助]
 - 調查[小組合照時間](/fxgCRwFMQAu9v93rf1GbGg) [name=大助]
+- 
 
 ## 活動時間與地點
 ::: success
