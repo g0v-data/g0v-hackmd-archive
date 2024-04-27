@@ -5,7 +5,7 @@ image: https://imagedelivery.net/WO_sK8AGsHZbPc2iUuxbgA/7a343636-79d9-4544-c94e-
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
-# g0v DigiResiTh5n 第伍次數位韌性松
+# 20240427 DigiResiTh5n 第伍次數位韌性松
 
 {%hackmd VkctH3USQ-yoB6hw2s2D0Q %}
 
@@ -46,3 +46,8 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
 | 自由填寫 | 自由填寫 | 自由向下新增行列 |
+| 避難所資訊統整 | ronny | [全台防災/防空避難所大統整](/UNg_8F3FTuynAwbV7flp-w) |
+| 台灣網路架構科普文 | ronny |  |
+| 重要民生網站韌性檢測—<br>網路障礙時還能買沒屋頂嗎？ | Irvin | [github](https://github.com/irvin/digital-service-resilience)、[hackmd](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A?view)|
+| Meshtastic相關討論 | Sean |  |
+

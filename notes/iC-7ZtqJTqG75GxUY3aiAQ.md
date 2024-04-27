@@ -10,7 +10,7 @@ image: https://imagedelivery.net/WO_sK8AGsHZbPc2iUuxbgA/10270e87-0277-4c35-1339-
 👉 [為 g0v 點一盞太歲燈－每月定期定額助養大松](https://ocf.neticrm.tw/civicrm/contribute/transact?reset=1&id=30)
 捐款挺大松，填滿更多坑！
 ::: 
-# g0v DigiResiTh2n 第貳次數位韌性松
+# 20240120 DigiResiTh2n 第貳次數位韌性松
 :::info
 [↩️ 回到籌備文件](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home)
 :::

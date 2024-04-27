@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [以 g0v 為主題的學術研究Academic research on g0v](../notes/tpWNQTFvSOS_ZrSt2MiPWg.md) | 2024-04-24T21:59:33+08:00 | 2016-01-09T02:45:16+08:00 |
+| 1 | [以 g0v 為主題的學術研究Academic research on g0v](../notes/tpWNQTFvSOS_ZrSt2MiPWg.md) | 2024-04-27T13:42:46+08:00 | 2016-01-09T02:45:16+08:00 |
 | 2 | [什麼是共筆？如何共筆？](../notes/VH876EtGQhWW8ivUGp0IPA.md) | 2024-04-20T16:17:30+08:00 | 2019-09-30T21:19:34+08:00 |
 | 3 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-04-18T12:28:04+08:00 | 2018-08-30T15:19:57+08:00 |
 | 4 | [什麼是開源（Open Source）與開源精神？](../notes/vzpxgXrlQrCWHa_TiqiRuA.md) | 2024-04-04T18:18:42+08:00 | 2019-09-30T21:19:04+08:00 |

@@ -163,7 +163,7 @@ A cloud-based email service implements rolling deployments to update its servers
 Recreate deployment, sometimes referred to as basic deployment, entails bringing the application back online after it has been updated and completely offline. When compared to alternative deployment tactics, this method is less flexible and may cause downtime.
   
 For example: 
-A small business website undergoes a re-deployment to update its [content management system](https://en.wikipedia.org/wiki/Content_management_system) (CMS). The website is taken offline, the CMS is updated, and then the website is brought back online. During this process, users are unable to access the website, resulting in downtime. While this approach may be suitable for smaller organizations with minimal traffic, it is not ideal for high-traffic or critical applications.
+A small business website undergoes a re-deployment to update its content management system [(CMS)](https://en.wikipedia.org/wiki/Content_management_system) [(CMS)](https://). The website is taken offline, the CMS is updated, and then the website is brought back online. During this process, users are unable to access the website, resulting in downtime. While this approach may be suitable for smaller organizations with minimal traffic, it is not ideal for high-traffic or critical applications.
 
 ### Multi-Service Deployment
 Updating various parts or services of an application concurrently but separately is known as multi-service deployment. This makes it possible to roll out upgrades without having an impact on the overall program.
@@ -235,7 +235,7 @@ A rapidly growing online marketplace struggles to scale its blue-green deploymen
 * Difficulty in Database Management: Managing databases in a blue-green deployment configuration can be difficult and may call for careful planning and collaboration, particularly when upgrades entail schema modifications.
    
 For example:
-An enterprise resource planning (ERP) system updates its database structure using blue-green deployment. The development team must ensure that both environments remain synchronized and that data integrity is maintained during the update process.
+An enterprise resource planning [(ERP)](https://en.wikipedia.org/wiki/Enterprise_resource_planning) system updates its database structure using blue-green deployment. The development team must ensure that both environments remain synchronized and that data integrity is maintained during the update process.
 
 * Distorted User Transactions: User transactions might be lost or halted during the switch from the old to the new environment, which could result in a bad user experience.
    

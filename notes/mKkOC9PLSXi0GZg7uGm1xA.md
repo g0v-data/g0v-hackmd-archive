@@ -4,7 +4,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 
 ---
 
-# g0v DigiResiTh1n 第壹次數位韌性松
+# 20231230 DigiResiTh1n 第壹次數位韌性松
 :::info
 [↩️ 回到籌備文件](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home)
 :::

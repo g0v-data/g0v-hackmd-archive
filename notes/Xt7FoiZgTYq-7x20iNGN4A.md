@@ -5,7 +5,7 @@ image: https://imagedelivery.net/WO_sK8AGsHZbPc2iUuxbgA/7a343636-79d9-4544-c94e-
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
-# g0v DigiResiTh3n 第參次數位韌性松
+# 20240224 DigiResiTh3n 第參次數位韌性松
 :::info
 [↩️ 回到籌備文件](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home)
 :::

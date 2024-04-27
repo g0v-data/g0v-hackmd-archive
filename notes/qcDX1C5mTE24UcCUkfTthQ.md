@@ -5,7 +5,7 @@ image: https://imagedelivery.net/WO_sK8AGsHZbPc2iUuxbgA/7a343636-79d9-4544-c94e-
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
-# g0v DigiResiTh4n 第肆次數位韌性松
+# 20240323 DigiResiTh4n 第肆次數位韌性松
 
 {%hackmd VkctH3USQ-yoB6hw2s2D0Q %}
 

@@ -3,7 +3,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_85ba0700fa1a5c79c701ccd58e18bcb1.png
 ---
 
-# g0v DigiResiTh0n 第零次數位韌性松
+# 20231104 DigiResiTh0n 第零次數位韌性松
 :::info
 [↩️ 回到籌備文件](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home)
 :::

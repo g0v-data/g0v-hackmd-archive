@@ -1,4 +1,4 @@
-# peer-to-peer 服務測試
+# p2p 通訊服務測試
 > g0v slack 對外網路斷線時會掛掉QQ [name=irvin]
 
 - 去了葡萄牙 Internet Freedom Festiva 現場看到的 demo，大家在假設烏克蘭的狀況發生，要如何維持通訊
