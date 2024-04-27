@@ -43,15 +43,23 @@ Checklist:
 
 負責人：RS
 
-> 做完了！
-> * 
+* Day 1：**ㄎ**（咖）
+* Day 2：**ㄈ**（啡）
+    * 會眾可購買的餐券，設計成 badge 風格
+    * 連起來就是咖啡
+* 兩天通用：**ㄉ**（點心）
+    * 工作人員、講者使用
+* 周圍有一圈多國語言方便辨識
+    * 華語、台語、日語、海陸客語、韓語、西班牙語、烏克蘭語(?)
+
+> 做完了！預計會用透明貼紙印，示意圖：
 > ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_35e91268b94ff7e952e0608dd61b30fa.jpeg =x300)
 > [name=RS]
 
 
+### 改完行前通知
 
-### 改完[行前通知](https://g0v.hackmd.io/@summit2024/media-book/%2F-h8Xh-j8SWuhRWVmc8Muew)
-
+[行前通知](https://g0v.hackmd.io/@summit2024/media-book/%2F-h8Xh-j8SWuhRWVmc8Muew)（待審稿）
 
 ### 改場地標示
 > 改完了 [name=Dong]
@@ -61,7 +69,8 @@ Checklist:
 
 ### 地震指引印刷、上網頁
 
-排[代印品大表](https://docs.google.com/spreadsheets/d/1ftZI2lD7AGKP-G6KZ5ToOgrYDoc2H_IA9gAC3zTf3FI/edit)、上傳至[其他代印品](https://drive.google.com/drive/folders/1dJRj6efgKUtVNKJPBJ_2yicsoYxwB3kU)讓 RS 跟 Dong 順便印。
+- 印刷：排[代印品大表](https://docs.google.com/spreadsheets/d/1ftZI2lD7AGKP-G6KZ5ToOgrYDoc2H_IA9gAC3zTf3FI/edit)、上傳至[其他代印品](https://drive.google.com/drive/folders/1dJRj6efgKUtVNKJPBJ_2yicsoYxwB3kU)讓 RS 跟 Dong 順便印
+- 網頁：整理成文字讓 RS 跟 SeanGau 幫忙上稿
 
 ### 紀念品找零零錢
 
@@ -182,5 +191,7 @@ Checklist:
 ### 延長賽
 
 地點：摩茲工寮
+時間：18:00 ~ 23:00
+出席：RS、Dong、繁嵐 (~20:00)、Hou (~18:00)
 
 散會（23:00）
