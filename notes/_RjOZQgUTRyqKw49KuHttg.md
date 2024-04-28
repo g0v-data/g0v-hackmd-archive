@@ -6,7 +6,54 @@ Channel： g0v Slack psychmatch_public
 提案簡報：[Google 雲端](https://docs.google.com/presentation/d/1qq_CTCULDj9LUvoP-J7YPSr_3zinICK3GoIyl6kDtMY/edit?usp=sharing)
 
 :::
-## <font color="#FFE843">~我們會去03.02的大松提案喔～</font>
+### 2024/04/28 會議
+
+參與人員
+* [name=Riley]
+* [name=Pheobe]
+* [name=Venbart帕奇]
+* [name=Sam]
+
+----
+
+
+#### 會議中討論到的問題
+> 1. 如何推廣？衛教文章的重要性
+
+goal：可以讓大家從網頁搜尋到，增加平台的曝光度
+form：衛教文章
+
+> 2. 為何不是媒合，而是單純搜尋功能？
+
+因為媒合會增加平台的費用、責任等等
+另一方面也是想要增進民眾**自行挑選**索取心理資源的能力
+
+> 3. 如果資料被人家撈走，對方又是有資源做媒合的公司怎麼辦？
+
+其實心理師所提供的資料都是公開的，如果有心的人要去撈取還是撈的到。
+Psychmatch 主要還是以提供一個已職登者之諮商/臨床心理師的資源搜尋平台
+
+
+> 4. 心理師自己去後台填寫，如何確定心理師資料沒問題？如果資訊不準，民眾使用意願可能下降。可再思考如何驗證。
+
+以登入頻率作為平台規範，促進心理師定期更新其資訊
+
+**[Todo]** 需要討論驗證的機制
+
+#### 會議紀錄
+* 建議先把wireframe做出來。- [name=Sam]
+* 後端用Drupal做的話，大家學習意願可能會比較低？- [name=Sam]
+    * 下次開會先定調wireframe，定在05/12（日） 19:00進行討論。
+
+會後工作分配：
+
+* Wireframe工作分配：
+    - 首頁（Pheobe）、
+    - 心理師列表頁（Riley）
+    - [心理師詳細資料頁](https://www.canva.com/design/DAGDsIH8_bc/f7EnQdxou4EMkl-iGLW-mQ/edit?utm_content=DAGDsIH8_bc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) done by Vanbart
+    - 心理師輸入資料頁（Vanbart）。
+* 建立Figma帳號，並提供email 給Riley
+
 
 ### 2024/02/18 會議
 
@@ -74,6 +121,3 @@ Channel： g0v Slack psychmatch_public
 > [name=Venbart帕奇]
 
 
-### 2024/03/02 大松!
-
-參與人員：
