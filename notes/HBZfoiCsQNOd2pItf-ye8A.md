@@ -133,6 +133,15 @@ https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
 交通局 鄰里交通 2.0
 - https://www.dot.gov.taipei/Content_List.aspx?n=4867DAB8C36F7003
 
+發想：青年局
+
+### 策略類比：公有房舍、田園城市
+
+特點
+- 具有通用情境
+- 植基於街區
+- 市政府本身的業務創新
+- 對於「公共設施」的實踐型內涵擴充
 
 ## 素材備份區 / 已結束活動籌備內容
 
