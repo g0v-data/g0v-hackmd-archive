@@ -34,9 +34,12 @@ tags: Rentea
 
 ## 文章列表
 
-1. [g0v Summit所需要提前準備的資料](https://g0v.hackmd.io/@XfBQ4ReySuOmt6stnxIDIA/B1t27cZ2a)
-2. g0v Summit 活動側記
-3. 第一間房子 2.0 改造側記： [租出育兒宅](https://g0v.hackmd.io/@ddio-io/Bk9GuKQ9a)
+1. 當月導讀：Rentea的租屋市場觀察及第一間房
+2. g0v Summit 社群軌論述+背景資料整理
+3. g0v Summit 活動側記
+> [name=pn] 這部分可以視內容看要不要拆成多篇
+5. 第一間房子 2.0 改造側記： [租出育兒宅](https://g0v.hackmd.io/@ddio-io/Bk9GuKQ9a)
+6. [Rentea 第一間房子夏日遮陽計畫x無損立柱實驗側記](https://medium.com/rentea-tuesday/rentea-%E7%AC%AC%E4%B8%80%E9%96%93%E6%88%BF%E5%AD%90%E5%A4%8F%E6%97%A5%E9%81%AE%E9%99%BD%E8%A8%88%E7%95%AB-x-%E7%84%A1%E6%90%8D%E7%AB%8B%E6%9F%B1%E5%AF%A6%E9%A9%97%E5%81%B4%E8%A8%98-ccc825ce11f0)
 
 ## 目前進度
 
