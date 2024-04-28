@@ -121,6 +121,8 @@ Checklist:
 > 工人也可以使用此優惠方案嗎？（等於工人價和滿200折50同時使用？）[name=YC]
 > 應該是可以，感覺要整理個簡化版紀念品販售指南 [name=RS]
 
+成果：[紀念品販售規劃](https://g0v.hackmd.io/IHqfjDG1QW-13huYCuA5wQ)
+
 ### 宣傳組工作人員調查表單
 
 負責人：YC
