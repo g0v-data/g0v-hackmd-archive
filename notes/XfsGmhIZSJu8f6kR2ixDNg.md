@@ -24,7 +24,14 @@ Subject: Closing the gap: achieving affordable rental housing for all
 詳細議程資訊，歡迎參見 [Rentea 社群軌說明](https://g0v.hackmd.io/@ddio-io/rentea-summit-2024)
 
 :::info
-徵求英語版！
+In Taiwan, renting is not a wise choice for long-term stable living. However, with skyrocketing property prices, renting has become an increasingly popular alternative for many who can't afford to buy a house.
+
+How can we address the various issues with renting? In this forum, we will invite professionals in the field of renting and living in Taiwan to share their insights and explore various solutions aimed at continuously expanding affordable living spaces and providing a more stable living environment for renters.
+
+1. Renter community: how open culture community among renters help to explore more diverse renting methods.
+2. Empowerment through renting: housing services and how they can serve as interfaces to improve the situation of the homeless.
+3. Co-living apartments: exploring the vision and reality of mutual support communities.
+4. Resilient housing: self-repairing strategies for residents to face future challenges of aging homes and climate.
 :::
 
 ## Rentea 是什麼？
