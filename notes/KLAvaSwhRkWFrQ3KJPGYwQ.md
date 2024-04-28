@@ -22,6 +22,9 @@ Please follow the conference [Code of Conduct](https://summit.g0v.tw/2024/coc/),
 ### Photo
 [官方照片連結 Photo]
 
+
+### [媒體素材區 Press Kit]( https://g0v.hackmd.io/@SQLfOC1bRwKstcPS84Gu_w/H1aRf_W8a)
+
 ### 大會活動的：統計數字、關鍵數字、常見提問
 
 （歡迎提出項目）

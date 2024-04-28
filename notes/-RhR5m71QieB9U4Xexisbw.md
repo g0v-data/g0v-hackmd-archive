@@ -10,22 +10,20 @@ tags: summit2024
 :::
 
 
-## g0v Summit 2024 新聞稿
-* [會前新聞稿](https://docs.google.com/document/d/1ZBxTk34ZJomOjctqjgPQnjsunTIv0EgTsWbTqvY713I/edit)－零時政府雙年會 g0v Summit 2024 即將展開　公民不打烊持續關注社會脈動
-
-## g0v Summit 2024 相關圖檔
-
+## g0v Summit 2024 新聞稿 與 相關圖檔
 ::: info
 授權方式：By g0v Summit 2024 workgroup (CC BY 4.0) 
 :::
 
-宣傳海報
+* [新聞稿與照片資料夾](https://drive.google.com/drive/folders/1IrvrE8WPMCwSS9l-wOo8HwCiGzNGkklY?usp=drive_link)
+
+* 宣傳海報
 https://drive.google.com/file/d/1Q4PPs1PBVGaKdgBm13KxznWRKC7IjTSd/view
 
-宣傳 Banner （940 x 410）
+* 宣傳 Banner （940 x 410）
 https://drive.google.com/drive/folders/1aZFLEKZHC62F2XfPAEjPHXCyrykPf4vt?usp=sharing
 
-活動內容相關資訊圖檔
+* 活動內容相關資訊圖檔
 https://drive.google.com/drive/folders/15kQmlgdwP4xd6VLS8dTrefuSug8gsV76?usp=drive_link
 
 ## g0v Summit 2024 歷期電子報
