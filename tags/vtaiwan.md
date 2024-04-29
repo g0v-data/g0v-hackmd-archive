@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [vTaiwan in TicTEC 2024](../notes/_fWuILaRSv-h3FQsXSLxaQ.md) | 2024-04-29T15:49:55+08:00 | 2024-04-17T20:38:51+08:00 |
+| 1 | [vTaiwan in TicTEC 2024](../notes/_fWuILaRSv-h3FQsXSLxaQ.md) | 2024-04-29T18:28:06+08:00 | 2024-04-17T20:38:51+08:00 |
 | 2 | [vTaiwan 到 TicTec分享](../notes/kBtFem_KRB-2PphaR-vcBQ.md) | 2024-04-25T10:48:32+08:00 | 2024-01-18T17:19:46+08:00 |
 | 3 | [vTaiwan 社群參與者參與 TicTec Conference 企劃書](../notes/_UXdVBQwQ12NpKKDdOQYiA.md) | 2024-04-25T10:39:12+08:00 | 2024-02-29T19:41:51+08:00 |
 | 4 | [0417小松](../notes/uDbpFfsNREGpzpx5aItvLg.md) | 2024-04-17T20:39:30+08:00 | 2024-04-17T19:32:48+08:00 |
