@@ -1,4 +1,4 @@
 # My url record
 
-- nothing.
+- Powershell.exe -executionpolicy remotesigned -File Wait\影片改名.ps1
 - 
