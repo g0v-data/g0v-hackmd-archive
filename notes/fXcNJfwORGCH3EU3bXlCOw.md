@@ -7,6 +7,7 @@ tags: summit2024
 出席：
 
 - [5/3 工作清單](/oybGWciESJGS_6SBYGCxJg)
+- [大會共筆](https://g0v.hackmd.io/@summit2024/notes)
 ## 講者聯繫
 - [行前通知](https://docs.google.com/document/d/1v1zsxu2OWBBCb_9DKlQVh35oJq0m-_GYhoR66o1jnSg/edit?usp=sharing)
 - 主持人注意事項提醒：[主持人](/uY0OBQe8QSOIRnYLzixDeg?both)
@@ -15,10 +16,14 @@ tags: summit2024
     - 詢問方式？
 
 ## 議程助理
+- [工作手冊](https://docs.google.com/presentation/d/1G_2Cd3j6uMzliQtTzpzn0oHQ7OhAAXbeiGbig4R7m0k/edit?usp=sharing)
 -  工作人員告知 
     -  住宿
     -  交通補助
-
+- 簡報檔案現場繳交的處理方式
+    - 目前是按照工作手冊所述
+- 時間到了講者還沒到齊
+    - 由主持人去聯繫？
 
 ## Sunjoon Moon 議程
 - 目前已經由pm5寄信給sunjoon moon 確認
