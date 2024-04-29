@@ -2,6 +2,15 @@
 tags: summit2024
 ---
 # 主持人
+
+## 行前通知
+- 主旨：【g0v Summit 2024】主持人行前通知
+- 內文：
+:::info
+各位主持人好：
+
+感謝各位願意抽空
+:::
 ## 時間表
 - [主持人工作表](https://docs.google.com/spreadsheets/d/1bT2r8Kb5roTEzXhp5zTbiMLT658EBDNC8bCzZZgrTSQ/edit?usp=sharing)
 
