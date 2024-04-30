@@ -10,12 +10,14 @@ https://www.beclass.com/rid=284d8196614bdaf2f10d
 素材蒐集簡報
 https://docs.google.com/presentation/d/13060-iBbfZeQKZ77T-PQQLwCeJR-73ihHUnC4dRkzc4/edit?usp=sharing
 
-
 假設為類似週邊的土地使用分區的建蔽率，來做為假設
 - 商三特
 - 物件素材
     - 平面：正方形的紙板
     - 高度：黏土
+
+地圖
+- 4/29 之後已放在中山社大
 
 配置觀點
 - 從街區環境調適角度來討論，風廊，綠意，水環境與減災角色
