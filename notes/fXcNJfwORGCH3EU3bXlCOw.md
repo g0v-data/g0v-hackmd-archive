@@ -31,22 +31,22 @@ tags: summit2024
         - 會由行政組提供
 - 簡報檔案現場繳交的處理方式
     - 目前是按照工作手冊所述
-    - 
 - 時間到了講者還沒到齊
-    - 由主持人去聯繫？
+    - 由主持人去聯繫
 
 ## Sunjoon Moon 議程
 - 目前已經由pm5寄信給sunjoon moon 確認
+- 取消議程處理方式：播ael 的預錄
 
 ## 物資與代印
-- 目前公用電腦還差一台
+- 目前公用電腦還
     - carey chang 兩台
     - peter 可以支援一台
     - jothon 一台
 - [代印品大表](https://docs.google.com/spreadsheets/d/1ftZI2lD7AGKP-G6KZ5ToOgrYDoc2H_IA9gAC3zTf3FI/edit?usp=sharing)
     - 目前代印的有細流、閃電講、主持人所需資訊、告知事項與unconf說明
 - [物資清點](/ID79drHLQSCWaNNhNMfIPg)
-    - rayen 採購時，要記得開放文化基金會統編：38552170
+    - peter 採購時，要記得開放文化基金會統編：38552170
 
 ## 5/3 工作確認事項
 - [5/3 工作清單](/oybGWciESJGS_6SBYGCxJg)
@@ -56,5 +56,5 @@ tags: summit2024
 
 
 ## UD Talk
-
+- 要更新到工作手冊上。
 [議程語言對照](https://docs.google.com/spreadsheets/d/17Ovu5Dvm86z4BmFk24096ns5X-OLvDIt7AlkALI2BiY/edit#gid=311781982)

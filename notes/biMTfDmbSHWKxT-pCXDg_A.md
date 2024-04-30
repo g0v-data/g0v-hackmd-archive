@@ -18,5 +18,5 @@ https://app.sli.do/event/cH9qjt1P4sZei6zTCmN5XJ
 :::
 
 :::success
-**Please be awared that this session only provide translated English subtitle on the front screeen & [streaming on YouTube]!**
-:::
+**Please be awared that this session only provide translated English subtitle on the front screeen & streaming on YouTube [中文](https://youtube.com/live/sZkWChZp-qI)/[English](https://youtube.com/live/IOk1oGbGP68) !**
+::: 
