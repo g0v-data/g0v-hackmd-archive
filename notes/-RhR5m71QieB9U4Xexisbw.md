@@ -12,7 +12,7 @@ tags: summit2024
 
 ## g0v Summit 2024 新聞稿 與 相關圖檔
 ::: info
-授權方式：By g0v Summit 2024 workgroup (CC BY 4.0) 
+授權方式 License ：By g0v Summit 2024 workgroup (CC BY 4.0) 
 :::
 
 * [新聞稿與照片資料夾](https://drive.google.com/drive/folders/1IrvrE8WPMCwSS9l-wOo8HwCiGzNGkklY?usp=drive_link)

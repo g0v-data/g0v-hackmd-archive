@@ -5,6 +5,12 @@ tags: summit2024
 時間：4/23 22:00
 連結：[Jitsi Meet](https://jitsi.ocf.tw/g0vsummit2024program)
 出席：
+## 優先
+- CT 6-5如何與海外共同打造審議科技工具開發？
+曾郁珊
+(更正為)--->
+加拿大卑詩省如何hack採購法，以公私協力模式打造數位身分皮夾
+黃豆泥、胡中瀚、劉維人
 
 - [5/3 工作清單](/oybGWciESJGS_6SBYGCxJg)
 - [大會共筆](https://g0v.hackmd.io/@summit2024/notes)

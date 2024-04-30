@@ -135,7 +135,10 @@ https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
 
 發想：青年局
 
-### 策略類比：公有房舍、田園城市
+### 策略類比：公有房舍活用、田園城市
+
+公有房舍活用：https://g0v.hackmd.io/WN_QBpNpQtO1oxd_r4IIjQ
+田園城市 (都市農耕)：https://g0v.hackmd.io/@chewei/Urban-Agri/
 
 特點
 - 具有通用情境
