@@ -277,7 +277,8 @@ https://e-info.org.tw/node/238845
 ## 機構
 
 政大
-https://usr.nccu.edu.tw/zh-tw/projects
+碳排放量 https://environ.nccu.edu.tw/PageDoc?fid=8746
+USR https://usr.nccu.edu.tw/zh-tw/projects
 
 世新大學永續報告書
 https://canopi.tw/esgcase/

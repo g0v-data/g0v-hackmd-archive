@@ -17,6 +17,10 @@ tags: rand0mth0n, hackathon
 - 加入 [g0v Slack 聊天室 #rand0m 頻道](https://app.slack.com/client/T02G2SXKM/CGU1SLHNH)（辦帳號超快超簡單）
 :::
 
+:::danger
+小提醒：此次線下小聚沒有供應晚餐 ><，請記得準備自己的晚餐喔！
+:::
+
 ## 時間地點
 
 - 2024-05-07 Tue. 1900 - 2100
@@ -30,7 +34,7 @@ tags: rand0mth0n, hackathon
 | 1830 - 1900 | 活動入場 |  |
 | 1900 - 1915 | 介紹與大合照 | 三個關鍵字、告訴大家今天要幹嘛|
 | 1945 - 2030 | cowork | a.k.a. 開始做專案或自己的事情 |
-| 2045 - 2100 | 尾聲 |大合照人太少可以在這裡補拍|
+| 2045 - 2100 | 尾聲 |大合照需要的話可以在這裡補拍|
 
 ## 報名連結
 - 揪松團有開一個表單：https://forms.gle/c8gsx8zrRnbmZyqN6

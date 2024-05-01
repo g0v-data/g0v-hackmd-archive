@@ -60,4 +60,22 @@ g0v Summit 即將在兩週後登場！大家開始準備 20 分鐘的分享了�
    > ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d6b6cc3d799731917511ec44ac00bebb.jpg)
    > [照片出處](https://www.flickr.com/photos/g0v/44718380425/in/album-72157672887453297/)
 
+## 05/02 講者同步
+
+### 行政事項
+
+1. 主辦單位要求上傳投影片？
+   > ddio 已一併處理，一樣放到[本文件開頭的資料夾](https://drive.google.com/drive/u/1/folders/1pKce62ijXstccZcBiJaowwaskcvuTCUQ)即可
+3. 如何報到？
+4. 講者晚宴
+
+### 議程討論
+
+1. 3 分鐘輪流簡介
+   1. PN → 羚妤 → 詠卿 → 阿德
+3. 疑難排解
+   1. 為什麼我會被要來 g0v Summit ？公民科技、開源運動和我有什麼關聯？
+   3. 分享順序、內容調整
+
+
 {%hackmd 1LO5rpavTiK4_cFrTouudg %}
