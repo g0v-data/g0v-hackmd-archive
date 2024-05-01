@@ -19,6 +19,11 @@ tags: rand0mth0n, hackathon
 
 :::danger
 小提醒：此次線下小聚沒有供應晚餐 ><，請記得準備自己的晚餐喔！
+
+Just a reminder: There won't be dinner provided at this offline gathering, so please remember to prepare your own dinner!
+
+[尋找 NPO Hub 附近的食物 Find your food near NPO Hub](https://g0v.hackmd.io/@tofus/rand0mth0n/%2FKS7BHZy8Q42ztO709hVsTA)
+
 :::
 
 ## 時間地點
@@ -50,5 +55,6 @@ tags: rand0mth0n, hackathon
 | | |
 
 ---
+## 活動照片
 
 ## 提案紀錄

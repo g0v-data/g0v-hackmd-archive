@@ -8,7 +8,8 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 
 g0v 放輕松 Rand0mTh0n 大全
 ===
-## 社會行動的產地｜是學校，是平台，是相遇的機會
+## 社會行動的產地｜是學校，是平台，是相遇的機會 
+## The birthplace of social action | It is school, platform, opportunities for encounters
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f9d4777f5942224f06ed19c0884bb038.png)
 
 ## [Introduction / Home Page](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
@@ -25,7 +26,11 @@ g0v 放輕松是繼 g0v Summit 2024 之後由揪松團發起的定期線下聚�
 📍 一顆願意交流，且願意遵守 [g0v 宣言](https://g0v.tw/intl/zh-TW/manifesto/zh-TW/) 並願意遵守 [行為守則 Code of Conduct](https://g0v.hackmd.io/s/COC) 的心 A heart that is willing to communicate, and is willing to abide by the g0v Manifesto and the Code of Conduct.
 📍 用於做事的各種傢私 (學校作業也可以) Micellaneous for your work (schoolwork is acceptable)
 
-各次小松
+一些資訊 Information
+---
+- [NPO Hub 附近的食物攻略！ Foods Near NPO Hub](/KS7BHZy8Q42ztO709hVsTA)
+
+各次小松 Rand0mTh0ns
 ---
 `Latest` 
 - [20240507 Rand0mTh0n 第零次](/qzELuqNARKKBjWr2mIiY8A)
