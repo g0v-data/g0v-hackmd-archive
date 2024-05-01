@@ -21,7 +21,9 @@ Online: RR
 
 ### TICTIEC Workshop
 - [vTaiwan in TicTEC 2024](/_fWuILaRSv-h3FQsXSLxaQ?both)
+   - 麻煩書漾放到 polis 上了！
 - [vTaiwan 到 TicTec分享](/kBtFem_KRB-2PphaR-vcBQ?both)
+
 
 
 
