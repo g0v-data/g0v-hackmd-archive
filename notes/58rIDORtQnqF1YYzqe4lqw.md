@@ -14,7 +14,7 @@ tags: 生態綠領就業
 - [問卷填答成果 - 資料集下載網址](https://docs.google.com/spreadsheets/d/1yGd6OkKJRva_ncF1LAbD6rdUx_ZgfTOOtRDa6rtAV94/edit)[target=_blank]
 
 ## 20240501 記者會
-- [20240501 記者會直播網址 🎥](https://www.facebook.com/tmitrail)[target=_blank]
+- [20240501 記者會直播網址 🎥](https://g0v.hackmd.io/lIZAT5H4RQWb4xFaqn4mzQ?view)
 - [記者會媒體資料夾 ✍️](https://drive.google.com/drive/folders/1mtgoAkoacNpH_KsybBIOPGJoPWH-Pyl9?usp=sharing)[target=_blank]
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1bceb5ed8aa673d8979ef383211f0608.png)
