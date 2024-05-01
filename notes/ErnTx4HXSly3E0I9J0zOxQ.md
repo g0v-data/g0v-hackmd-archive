@@ -85,11 +85,12 @@ https://www.facebook.com/share/9jkpUvRvNzEFkJbn/?mibextid=WC7FNe
 
 2023.11 臺北市、新北市三蘆地區、高雄市高雄火車站地區
 2023.12 臺南市新化區、臺南市後壁區 (地區環境分區比都市計畫範圍小)
-
 - 均質街區漸變
     - 臺北市、新北市三蘆地區、高雄市高雄火車站地區
 - 小街廓到廣域街廓，很快
     - 例如臺南市新化區 (地區環境分區比都市計畫範圍小)
+2024.05 針對臺北市捷運中山站至雙連站街區
+- 有實際拍照方案中的待確認建物之停車場出入口位置 https://photos.app.goo.gl/BAumLMXn12wD9qmp9
 
 
 ### 二、跨街廓路徑
@@ -110,7 +111,7 @@ https://www.facebook.com/share/9jkpUvRvNzEFkJbn/?mibextid=WC7FNe
 - 公車
 - 垃圾車 
     - 補路線資料
-    - 景象舉例https://youtube.com/shorts/MGVS-mgWB4Y
+    - 景象舉例 https://youtube.com/shorts/MGVS-mgWB4Y
 - 基礎設施維修站點與車輛路線
 
 ### 四、繪製「街區內連續型行人路徑」
