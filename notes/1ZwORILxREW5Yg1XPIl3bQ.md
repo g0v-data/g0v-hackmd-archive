@@ -195,24 +195,24 @@ Many organizations use this strategy because it offers a dependable and strong w
 This deployment strategy has many benefits, making it a unique type of deployment option. The following are the benefits of blue-green deployment:
 
 ### Maintains a standby system
-A fully functional system (blue) is always available to act as a backup thanks to this deployment strategy. In the event that the active system experiences unanticipated problems or malfunctions, this backup system offers a safety net (green).
+A fully functional system (blue) is always available to act as a backup, thanks to this deployment strategy. In the event that the active system experiences unanticipated problems or malfunctions, this backup system offers a safety net (green).
    
 For example:
 A banking application employs blue-green deployment to ensure the continuous availability of its services. The blue environment serves as the standby system, ready to take over if the green environment experiences any technical issues. This ensures that customers can access their accounts and conduct transactions without interruption.
 
-### Return to Former Iterations Right away
+### Returns to Former Iterations Right Away
 If there are problems with the new deployment, a swift rollback to an earlier version is possible using a blue-green deployment. This feature guarantees that problems may be resolved quickly, reducing the effect on users.
    
 For example:
 A video streaming platform rolls out a new feature using this deployment strategy. However, users encounter playback issues with the new feature. The development team quickly rolls back to the previous version (blue), restoring normal playback functionality for users.
 
-### Enable Deployment Without Downtime
-This deployment gradually transitions traffic from the old version to the new version, hence eliminating downtime during upgrades or deployments. This guarantees that users won't see any interruptions when using the application.
+### Enables Deployment Without Downtime
+This deployment gradually transitions traffic from the old version to the new version, thereby eliminating downtime during upgrades or deployments. This guarantees that users won't see any interruptions when using the application.
    
 For example:
 An e-commerce website updates its product catalog using blue-green deployment. Traffic is gradually redirected from the old catalog (blue) to the updated catalog (green) without any downtime. Customers can continue browsing and purchasing products seamlessly during the update process.
 
-### Ensure smooth and autonomous upgrades
+### Ensures smooth and autonomous upgrades
 Blue-green deployment transfers traffic from the old environment to the new environment gradually, enabling automated and seamless updates. This makes sure that during the deployment process, users are not disturbed.
    
 For example:
@@ -245,7 +245,7 @@ Managing databases in a blue-green deployment configuration can be difficult and
 For example:
 An enterprise resource planning [(ERP)](https://en.wikipedia.org/wiki/Enterprise_resource_planning) system updates its database structure using blue-green deployment. The development team must ensure that both environments remain synchronized and that data integrity is maintained during the update process.
 
-### Distorted User Transactions
+### Distorted user transactions
 User transactions might be lost or halted during the switch from the old to the new environment, which could result in a bad user experience.
    
 For example:
