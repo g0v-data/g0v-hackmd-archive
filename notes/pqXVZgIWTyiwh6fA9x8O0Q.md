@@ -178,15 +178,34 @@ Checklist:
 
 場佈日當天早上發車！
 
-1. [NPO Hub](https://maps.app.goo.gl/zJGPbgpmb1hBdpVa7)
-    - 人：Dong
-    - 物：頸繩、手版、關東旗竿
-2. [千業](https://maps.app.goo.gl/3Ga4X9vLn2MG7Dvo9)
+0. 已麻煩揪松協助運送
+    ~~[NPO Hub](https://maps.app.goo.gl/zJGPbgpmb1hBdpVa7)~~
+    ~~- 人：Dong~~
+    ~~- 物：頸繩、手版、關東旗竿~~
+    ~~- 共筆：[揪松團物資統計 - HackMD](https://g0v.hackmd.io/PpFHUj1bRuiluTQpLAuIeA)~~
+1. [千業](https://maps.app.goo.gl/3Ga4X9vLn2MG7Dvo9)
     - 人：RS
+    - 時間：10:00 開門
     - 物：摺頁、Badge、有的沒的
-3. [玩美獨衣](https://maps.app.goo.gl/gDff4rHWMeto3caT9)
-    - 物：衣服(五大袋)
+2. [玩美獨衣](https://maps.app.goo.gl/gDff4rHWMeto3caT9)
+    - 時間：給廠商約 10:00 要去點衣服
+    - 物：衣服(五大袋)、發票(很重要！)
+    - 停車資訊：![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c59fee90a436cb9e58c37434a35e8c78.jpg)
+        - 跟警衛說613取件 暫停超過20分鐘會收每小時50元臨停費用
+        - 直接找[林小姐](https://drive.google.com/file/d/1HYoibzOOUHzFKKEIrEyvBKPhqJyaAHd8/view?usp=sharing)
+3. [摩茲工寮](https://maps.app.goo.gl/8JyVatX4cg7f2F6d6)
+    - 物：2020 年玻璃杯
 4. [松山倉庫-收多易](https://maps.app.goo.gl/CfLumBj2ubUf7hTz5)
+    - 物：舊紀念品（衣服）
+        - 現在配置
+            - 左下：文宣
+            - 左上：FNF 鑰匙圈、手冊
+            - 中：手冊（有夾貼紙的）
+            - 右上：2020 衣服
+            - 右下：其他屆衣服![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1ec54dbaff388077d048c35dbe3506f9.png)
+    - 相關資料：
+        - [物資倉庫 - Google 雲端硬碟](https://drive.google.com/drive/folders/1KjEx76x_reYAI1ls9ZaqdJm1Zet3yjCD)
+        - [倉庫位置 - Google 文件](https://docs.google.com/document/d/1fUqvEMQ9xza9FAAtBw1VUDq1W2H_4kx92RRM5vHg5Ls/edit#heading=h.ohkpt0tomqpz)
 9. [中研院](https://maps.app.goo.gl/AtMDG4YWuM1BuSqG8)
 
 
