@@ -2,12 +2,12 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [開放工作坊2 Unconference2](../notes/biMTfDmbSHWKxT-pCXDg_A.md) | 2024-05-01T23:23:11+08:00 | 2024-04-13T17:01:38+08:00 |
-| 2 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-30T21:29:01+08:00 | 2023-12-09T12:53:41+08:00 |
-| 3 | [交誼廳](../notes/1EBumToYQSGBmY_JgwwyqA.md) | 2024-04-30T15:09:42+08:00 | 2024-04-30T15:05:11+08:00 |
-| 4 | [g0v Summit 2024 紀錄組資料彙整](../notes/zw5vd5TTRQO64itD5CeJmw.md) | 2024-04-28T17:45:16+08:00 | 2024-04-27T20:58:29+08:00 |
-| 5 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-04-28T16:30:36+08:00 | 2024-04-11T20:55:35+08:00 |
-| 6 | [台灣維基媒體協會研究案請紀錄組協助拍照事項](../notes/vOx8PGuqQFCqrlsT71Bzgg.md) | 2024-04-28T15:35:31+08:00 | 2024-04-28T15:34:58+08:00 |
+| 1 | [台灣維基媒體協會研究案請紀錄組協助拍照事項](../notes/vOx8PGuqQFCqrlsT71Bzgg.md) | 2024-05-02T11:59:58+08:00 | 2024-04-28T15:34:58+08:00 |
+| 2 | [開放工作坊2 Unconference2](../notes/biMTfDmbSHWKxT-pCXDg_A.md) | 2024-05-01T23:23:11+08:00 | 2024-04-13T17:01:38+08:00 |
+| 3 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-30T21:29:01+08:00 | 2023-12-09T12:53:41+08:00 |
+| 4 | [交誼廳](../notes/1EBumToYQSGBmY_JgwwyqA.md) | 2024-04-30T15:09:42+08:00 | 2024-04-30T15:05:11+08:00 |
+| 5 | [g0v Summit 2024 紀錄組資料彙整](../notes/zw5vd5TTRQO64itD5CeJmw.md) | 2024-04-28T17:45:16+08:00 | 2024-04-27T20:58:29+08:00 |
+| 6 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-04-28T16:30:36+08:00 | 2024-04-11T20:55:35+08:00 |
 | 7 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-04-27T20:55:54+08:00 | 2024-04-09T15:38:54+08:00 |
 | 8 | [媒體小組筆記](../notes/jvTv4tEIRvG402qbanP6KA.md) | 2024-04-26T22:37:53+08:00 | 2023-09-15T22:08:59+08:00 |
 | 9 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-04-26T21:04:25+08:00 | 2023-11-03T20:10:41+08:00 |

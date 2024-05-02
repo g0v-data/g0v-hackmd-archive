@@ -3,6 +3,15 @@ tags:
 ---
 
 # 臺北市淨零排放管理自治條例
+
+## 加工版
+
+表格、簡單描述
+https://docs.google.com/spreadsheets/d/1XC1UUo-DT0OPsrtRrp3nUpuRaCPJHgjizu7Tm_VmoJ8/edit
+
+
+## 自治條例
+
 https://ws.tcc.gov.tw/001/Upload/435/relfile/12304/643/b5d72ba3-86a3-4cea-ad22-0b831a800bbb.pdf
 
 第一章 總則

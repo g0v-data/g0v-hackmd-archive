@@ -14,3 +14,7 @@ tags: 生態綠領就業
 - [記者會媒體資料夾：新聞稿、照片、參考文件 ✍️](https://drive.google.com/drive/folders/1mtgoAkoacNpH_KsybBIOPGJoPWH-Pyl9?usp=sharing)[target=_blank]
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a4fc9442880072d1ccae2d33745480ee.JPG)
+
+## 媒體報導
+
+https://news.pts.org.tw/article/692969
