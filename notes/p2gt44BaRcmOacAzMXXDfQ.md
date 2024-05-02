@@ -1,4 +1,4 @@
-Shbet là nhà cái cá cược trực tuyến uy tín Châu Á, cung cấp đa dạng sản phẩm như game bài, xổ số, thể thao, nổ hũ, game giải trí hấp dẫn với tỷ lệ kèo cao và bảo mật an toàn với SSL 128Bit.
+Shbet là nhà cái cá cược trực tuyến uy tín Châu Á, cung cấp đa dạng sản phẩm như game bài, xổ số, thể thao, nổ hũ, game giải trí hấp dẫn với tỷ lệ kèo cao và bảo mậan toàn với SSL 128Bit.
 Thông tin chi tiết:
 Website: https://shbet88.one/
 Địa chỉ: 25 Đ. Trần Thị Trọng, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam
