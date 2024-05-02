@@ -188,7 +188,7 @@ Checklist:
     - 時間：10:00 開門
     - 物：摺頁、Badge、有的沒的
 2. [玩美獨衣](https://maps.app.goo.gl/gDff4rHWMeto3caT9)
-    - 時間：給廠商約 10:00 要去點衣服
+    - 時間：跟廠商約 10:00 要去點衣服
     - 物：衣服(五大袋)、發票(很重要！)
     - 停車資訊：![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c59fee90a436cb9e58c37434a35e8c78.jpg)
         - 跟警衛說613取件 暫停超過20分鐘會收每小時50元臨停費用

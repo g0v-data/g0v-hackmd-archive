@@ -12,6 +12,9 @@ https://docs.google.com/spreadsheets/d/1XC1UUo-DT0OPsrtRrp3nUpuRaCPJHgjizu7Tm_Vm
 
 ## 自治條例
 
+中央核定
+https://www.ctee.com.tw/news/20240216700889-431401
+
 https://ws.tcc.gov.tw/001/Upload/435/relfile/12304/643/b5d72ba3-86a3-4cea-ad22-0b831a800bbb.pdf
 
 第一章 總則
