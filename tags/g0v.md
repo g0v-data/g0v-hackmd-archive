@@ -2,26 +2,26 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [以 g0v 為主題的學術研究Academic research on g0v](../notes/tpWNQTFvSOS_ZrSt2MiPWg.md) | 2024-04-27T13:42:46+08:00 | 2016-01-09T02:45:16+08:00 |
-| 2 | [什麼是共筆？如何共筆？](../notes/VH876EtGQhWW8ivUGp0IPA.md) | 2024-04-20T16:17:30+08:00 | 2019-09-30T21:19:34+08:00 |
-| 3 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-04-18T12:28:04+08:00 | 2018-08-30T15:19:57+08:00 |
-| 4 | [什麼是開源（Open Source）與開源精神？](../notes/vzpxgXrlQrCWHa_TiqiRuA.md) | 2024-04-04T18:18:42+08:00 | 2019-09-30T21:19:04+08:00 |
-| 5 | [與 g0v 社群參與者相關的影片、紀錄片拍攝](../notes/oImzjz2XTciqP3lnbwkgKw.md) | 2024-03-10T18:21:06+08:00 | 2019-12-07T02:56:51+08:00 |
-| 6 | [g0v 社群參與心得分享](../notes/VdmAs1YgRVWV4ixaXPCdpg.md) | 2024-03-09T01:27:37+08:00 | 2019-11-29T15:12:10+08:00 |
-| 7 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2024-01-23T12:40:08+08:00 | 2022-09-13T16:41:15+08:00 |
-| 8 | [手把手安裝 g0v Slack App](../notes/fKrjZ3BlRfWmQ471wcSdBg.md) | 2023-11-21T15:28:00+08:00 | 2023-11-19T20:29:25+08:00 |
-| 9 | [g0v 社群數位資產永續機制](../notes/4CMXhe1sQvGAcGyU0yMxVQ.md) | 2023-11-08T19:43:56+08:00 | 2023-11-08T19:32:51+08:00 |
-| 10 | [g0v X Won](../notes/_iKE3UIrSVGiURARS5yvVA.md) | 2023-10-31T21:28:28+08:00 | 2023-10-30T16:52:37+08:00 |
-| 11 | [Chihao  X Won](../notes/1XVqXuYJQnOHA1VLGg6IAA.md) | 2023-10-30T16:56:04+08:00 | 2023-10-30T16:19:15+08:00 |
-| 12 | [⭐ g0v 黑話及語錄](../notes/hosZS2MqRR-JLwhomnDU3w.md) | 2023-10-05T16:16:50+08:00 | 2013-08-06T02:38:11+08:00 |
-| 13 | [線上活動 x 線下活動](../notes/KU07rRgFTHGCRxUB6XrVMQ.md) | 2023-08-12T18:25:17+08:00 | 2019-09-30T21:19:22+08:00 |
-| 14 | [給記者、研究者、參訪團的採訪、拍攝建議事項／Recommendations for journalists, researchers & visitors contacting g0v](../notes/hgXdOpyZRPCK1HVBVGmIhA.md) | 2023-06-14T04:46:36+08:00 | 2018-10-09T08:54:01+08:00 |
-| 15 | [1922 簡訊實聯制](../notes/FxudGiM8RSKnpCo4TrMhNg.md) | 2023-06-13T14:28:19+08:00 | 2021-05-18T22:10:34+08:00 |
-| 16 | [g0v 簡訊實聯](../notes/pdlHsfCKTpuf0KL4Cr5W6A.md) | 2022-12-03T10:42:56+08:00 | 2021-05-15T09:01:32+08:00 |
-| 17 | [g0v 黑話票選!](../notes/aerRF4nGTaqsWbwIZIUPJQ.md) | 2022-11-24T15:51:34+08:00 | 2018-08-23T22:19:05+08:00 |
-| 18 | [g0v「沒有人」的線上簽書會《真相製造》](../notes/1iSj6ZAdT8e-zc6cSiTSPg.md) | 2022-08-12T03:58:25+08:00 | 2022-08-12T03:58:25+08:00 |
-| 19 | [g0v「沒有人」的線上簽書會《真相製造》](../notes/YICzfnQzQkOyn-ZJvmipzQ.md) | 2022-07-24T15:40:45+08:00 | 2022-07-24T15:40:45+08:00 |
-| 20 | [聊天頻道：Slack](../notes/PwJcrD23SBag6sg15epZMA.md) | 2022-06-24T22:46:01+08:00 | 2019-09-30T21:19:30+08:00 |
+| 1 | [聊天頻道：Slack](../notes/PwJcrD23SBag6sg15epZMA.md) | 2024-05-02T09:57:14+08:00 | 2019-09-30T21:19:30+08:00 |
+| 2 | [以 g0v 為主題的學術研究Academic research on g0v](../notes/tpWNQTFvSOS_ZrSt2MiPWg.md) | 2024-04-27T13:42:46+08:00 | 2016-01-09T02:45:16+08:00 |
+| 3 | [什麼是共筆？如何共筆？](../notes/VH876EtGQhWW8ivUGp0IPA.md) | 2024-04-20T16:17:30+08:00 | 2019-09-30T21:19:34+08:00 |
+| 4 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-04-18T12:28:04+08:00 | 2018-08-30T15:19:57+08:00 |
+| 5 | [什麼是開源（Open Source）與開源精神？](../notes/vzpxgXrlQrCWHa_TiqiRuA.md) | 2024-04-04T18:18:42+08:00 | 2019-09-30T21:19:04+08:00 |
+| 6 | [與 g0v 社群參與者相關的影片、紀錄片拍攝](../notes/oImzjz2XTciqP3lnbwkgKw.md) | 2024-03-10T18:21:06+08:00 | 2019-12-07T02:56:51+08:00 |
+| 7 | [g0v 社群參與心得分享](../notes/VdmAs1YgRVWV4ixaXPCdpg.md) | 2024-03-09T01:27:37+08:00 | 2019-11-29T15:12:10+08:00 |
+| 8 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2024-01-23T12:40:08+08:00 | 2022-09-13T16:41:15+08:00 |
+| 9 | [手把手安裝 g0v Slack App](../notes/fKrjZ3BlRfWmQ471wcSdBg.md) | 2023-11-21T15:28:00+08:00 | 2023-11-19T20:29:25+08:00 |
+| 10 | [g0v 社群數位資產永續機制](../notes/4CMXhe1sQvGAcGyU0yMxVQ.md) | 2023-11-08T19:43:56+08:00 | 2023-11-08T19:32:51+08:00 |
+| 11 | [g0v X Won](../notes/_iKE3UIrSVGiURARS5yvVA.md) | 2023-10-31T21:28:28+08:00 | 2023-10-30T16:52:37+08:00 |
+| 12 | [Chihao  X Won](../notes/1XVqXuYJQnOHA1VLGg6IAA.md) | 2023-10-30T16:56:04+08:00 | 2023-10-30T16:19:15+08:00 |
+| 13 | [⭐ g0v 黑話及語錄](../notes/hosZS2MqRR-JLwhomnDU3w.md) | 2023-10-05T16:16:50+08:00 | 2013-08-06T02:38:11+08:00 |
+| 14 | [線上活動 x 線下活動](../notes/KU07rRgFTHGCRxUB6XrVMQ.md) | 2023-08-12T18:25:17+08:00 | 2019-09-30T21:19:22+08:00 |
+| 15 | [給記者、研究者、參訪團的採訪、拍攝建議事項／Recommendations for journalists, researchers & visitors contacting g0v](../notes/hgXdOpyZRPCK1HVBVGmIhA.md) | 2023-06-14T04:46:36+08:00 | 2018-10-09T08:54:01+08:00 |
+| 16 | [1922 簡訊實聯制](../notes/FxudGiM8RSKnpCo4TrMhNg.md) | 2023-06-13T14:28:19+08:00 | 2021-05-18T22:10:34+08:00 |
+| 17 | [g0v 簡訊實聯](../notes/pdlHsfCKTpuf0KL4Cr5W6A.md) | 2022-12-03T10:42:56+08:00 | 2021-05-15T09:01:32+08:00 |
+| 18 | [g0v 黑話票選!](../notes/aerRF4nGTaqsWbwIZIUPJQ.md) | 2022-11-24T15:51:34+08:00 | 2018-08-23T22:19:05+08:00 |
+| 19 | [g0v「沒有人」的線上簽書會《真相製造》](../notes/1iSj6ZAdT8e-zc6cSiTSPg.md) | 2022-08-12T03:58:25+08:00 | 2022-08-12T03:58:25+08:00 |
+| 20 | [g0v「沒有人」的線上簽書會《真相製造》](../notes/YICzfnQzQkOyn-ZJvmipzQ.md) | 2022-07-24T15:40:45+08:00 | 2022-07-24T15:40:45+08:00 |
 | 21 | [研究主旨：新冠疫情(COVID-19)下，G0V 在科技防疫上的貢獻](../notes/K_9CZbODQL2xcFp-SoAhqg.md) | 2021-12-20T22:34:01+08:00 | 2021-11-02T02:02:56+08:00 |
 | 22 | [g0v 宣言與「沒有人」文化考古](../notes/h9fErzOsS1eBTLIbB48Yng.md) | 2021-11-27T20:05:39+08:00 | 2018-06-27T12:08:42+08:00 |
 | 23 | [沒有人主義 Nobodyisme](../notes/7Qveu1J4TOG1v7WzYwjp1Q.md) | 2021-11-16T14:27:30+08:00 | 2021-11-14T10:47:19+08:00 |
