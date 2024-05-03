@@ -1,0 +1,30 @@
+Với hơn 10 năm thành lập và hoạt động, trung tâm can thiệp sớm Đăng Minh đã và đang là 1 trong những cơ sở giáo dục sớm uy tín nhất tại Hà Nội, TPHCM. Cùng với đội ngũ giáo viên giỏi nhiều năm kinh nghiệm và đầy tinh thần trách nhiệm, nhiệt huyết và yêu trẻ sẽ là điểm tựa vững trắc giúp các em nhanh chóng hòa nhập với cuộc sống. Đồng thời, với hệ thống cơ sở vật chất hiện đại khang trang trung tâm sẽ là nơi an toàn cho các con học tập. Hiện trung tâm có 2 hình thức là học tại trung tâm và tại nhà. Thông tin liên hệ: Địa chỉ: Tòa CT12B phòng 2216 tầng 22 chung cư Kim Văn Kim Lũ - Đại Kim - Hoàng Mai. Phone: 0979481988. Email: giasuhanoigioi.edu.vn@gmail.com Website: https://canthiepdangminh.com/ 
+#canthiepdangminh #canthiepsom #tredacbiet #tretuky #trechamnoi #tretangdong #truongmamnonVIP
+board/members/canthiepdangminh88.1202148/
+https://www.fitundgesund.at/profil/canthiepdangminh88
+https://scioly.org/forums/memberlist.php?mode=viewprofile&u=147286
+https://trove.nla.gov.au/userProfile/user/user:public:canthiepdangminh88/about
+https://www.goodreads.com/review/show/6473926694
+https://fileforums.cowww.facebook.comm/member.php?u=273258
+https://original.misterpoll.com/users/5427165
+https://meetup.furryfederation.com/events/fb3b7db3-0e61-4101-aff0-03408b23fb33
+https://nmpeoplesrepublick.com/community/profile/canthiepdangminh88/
+https://findaspring.org/members/canthiepdangminh88/
+https://git.industra.space/canthiepdangminh88
+https://www.imagekind.com/MemberProfile.aspx?MID=93a3fb76-937c-41ec-996e-df55e18057f7
+https://storyweaver.org.in/en/users/922951
+https://www.outlived.co.uk/author/canthiepdangminh88/
+https://linkmix.co/22916715
+https://potofu.me/canthiepdangminh88
+https://www.pling.com/u/canthiepdangminh88/
+https://www.mycast.io/profiles/264021/username/canthiepdangminh88
+https://social.find.com/canthiepdangminh88
+https://vnseosem.com/members/canthiepdangminh88.29796/
+https://www.penmai.com/community/members/canthiepdangminh88.397091/#about
+https://www.freewebspace.net/forums/index.php?members/canthiepdangminh88.17019508/#about
+https://hiqy.in/1714642877145135_45712
+https://kemono.im/canthiepdangminh88/
+https://netcallvoip.com/wiki/index.php/User:Canthiepdangminh88
+https://infodin.com.br/index.php/User:Canthiepdangminh88
+https://etextpad.com/3jbaqw9jm6
+https://dutrai.com/members/canthiepdangminh88.21493/#about
