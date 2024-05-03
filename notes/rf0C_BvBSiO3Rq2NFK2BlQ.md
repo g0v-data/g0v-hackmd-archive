@@ -40,12 +40,12 @@
     - 優先選擇符合要求的，依照Metric來選擇(cost或speed)
     ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_de8d9d05abc12c819bb1fea3204079b2.png)
 
-    - 選擇Mask最長的
+    - ==選擇Mask最長的==
     - 如果Mask一樣，則cost選擇較便宜(低)的，speed選擇較快(高)的
     ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7d4b94298fc6d0b7330db09faa699460.png)
-    ans:row345
+    ==ans:row345==
     ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a26985040d2c0a599dc566187405239d.png)
-    ans:row 682
+    ==ans:row 682==
 3. 根據最佳匹配行中的指示將資料包發送回 
 - 將封包從最佳匹配行中指定的路由器介面（連接埠）發送出去。
 - 將封包傳送到next-hop路由器列中的路由器。
@@ -60,6 +60,15 @@
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b553f700ae74c0d6421e2cc7d1489ca5.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_966466d78bfcffa1b7bdf6945c7de385.png)
 ## Address Resolution Protocol (ARP)
+The problem:
+- 路由器想要將封包傳送到下一跳路由器或目標主機。
+- 路由器知道 next-hop-router 或目標主機的 IP 位址。
+- 路由器不知道目標設備的資料鏈結層位址(MAC address)
+==這時候就需要ARP!!==
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_92d1f2f4180988bf0d76f695eda03750.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2c5b0114ff461add4bd44234c722e41e.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4acf5a66be9a321fafd43d0b7093330f.png)
+
 
 
 
