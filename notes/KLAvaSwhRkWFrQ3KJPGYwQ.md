@@ -3,7 +3,7 @@ tags: summit2024
 ---
 # 新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】
 
-> 最後更新 2024/04/28 16:30 [name=YC]
+> 最後更新 2024/05/04 23:00 [name=YC]
 
 
 原則：g0v Summit 2024 歡迎新聞媒體自由採訪
@@ -17,11 +17,16 @@ Please follow the conference [Code of Conduct](https://summit.g0v.tw/2024/coc/),
 ## 大會新聞稿 / Press Release
 
 ### Press Release
+[Day1新聞稿](https://docs.google.com/document/d/1ml2FAWRwV2JwyZW1QmHFmxWora2XntnycbkepUJqnlc/edit?usp=sharing)－g0v Summit 2024 開幕　聚焦當代科技如何影響公民社會發展
+
 [會前新聞稿](https://docs.google.com/document/d/1ZBxTk34ZJomOjctqjgPQnjsunTIv0EgTsWbTqvY713I/edit?usp=sharing)－零時政府雙年會 g0v Summit 2024 即將展開　公民不打烊持續關注社會脈動
+
 [Press Release](https://docs.google.com/document/d/19ipSAP3PeUIWgyEIZly45bjV9m5rQubZMKl-0YwKSLk/edit?usp=sharing)－Citizens Never Rest–g0v Summit 2024 is upcoming
 
+
+
 ### Photo
-[官方照片連結 Photo]
+[Day1 Photo](https://drive.google.com/drive/folders/19pS7ITA18o8j2jBU-hJE3KLs8b3WmmbI?usp=drive_link)
 
 
 ### [媒體素材區 Press Kit]( https://g0v.hackmd.io/@SQLfOC1bRwKstcPS84Gu_w/H1aRf_W8a)
@@ -29,8 +34,8 @@ Please follow the conference [Code of Conduct](https://summit.g0v.tw/2024/coc/),
 ### 大會活動的：統計數字、關鍵數字、常見提問
 
 （歡迎提出項目）
-與會者人數： 
-籌辦志工人數：
+與會者人數 Attendees：600+
+籌辦志工人數 Staff Members (Volunteers)：80+
 
 
 ## 大會官網 / Official Website
