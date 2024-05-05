@@ -1,7 +1,8 @@
 ---
 tags: summit2024
 ---
-# 開放工作坊2 Unconference2
+# 開放工作坊2 Unconference2 性暴力&未成年應該"完全"在網路被消失嗎？ Sexual violence & Underage Should be disappear on the internet
+
 
 :::info
 Welcome to g0v summit 2024 collaboration notes!
@@ -17,6 +18,4 @@ https://app.sli.do/event/cH9qjt1P4sZei6zTCmN5XJ
 議程投影片 presentation slides：待更新
 :::
 
-:::success
-**Please be awared that this session only provide translated English subtitle on the front screeen & [streaming on YouTube](https://youtube.com/live/sZkWChZp-qI) !**
-::: 
+講者：YuTin
