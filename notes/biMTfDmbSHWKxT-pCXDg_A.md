@@ -18,8 +18,15 @@ https://app.sli.do/event/cH9qjt1P4sZei6zTCmN5XJ
 :::success
 如果需要即時口譯，請參考行前通知中的 YouTube 連結
 If you need live interpretation, please refer to YouTube link in your pre-event notice.
-這份共筆裡也有更多的資料可以參考：[多語翻譯須知 Notice on Multi-lingual Interpretation ](https://g0v.hackmd.io/@summit2024/SkhfThZfR )
+這份共筆裡也有更多的資料可以參考：[多語翻譯須知 Notice on Multi-lingual Interpretation](https://g0v.hackmd.io/@summit2024/SkhfThZfR )
 :::
 
 講者：YuTin
 語言：華語
+
+
+
+共筆：
+
+
+
