@@ -4,6 +4,11 @@ tags: China
 
 # 中國近代社會運動或事件
 
+## 專案
+
+https://g0v.hackmd.io/mSnyMhZKQM2Zj1rb_rs_ng
+
+## 個別事件
 
 - 孫志剛事件
     - https://zh.m.wikipedia.org/zh-tw/孙志刚事件
@@ -30,6 +35,7 @@ tags: China
 - 異言網
     - https://chinadissent.net/
     - https://summit2024.g0v.tw/prj/PvZ09RV1tuMymFxI5hzAELjLx0nQl4
+    - https://g0v.hackmd.io/mSnyMhZKQM2Zj1rb_rs_ng
 
 呈現方式
 - 時間地圖?
