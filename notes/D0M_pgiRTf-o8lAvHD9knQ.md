@@ -2,14 +2,14 @@
 ## 協助的困難：
 * 物資送不進加薩
     * 埃及跟以色列封鎖
-* 不想贊助 Hama？
+* 不想贊助 Hamas？
 * tips:
     * 可以找美國 501 registered organization
     * 監督監督 NGO 的 NGO？
-        * 例：NGO Monitor 是支持以色列的耶路撒冷組織（https://en.wikipedia.org/wiki/NGO_Monitor）
+        * 例：NGO Monitor 是以色列支持的耶路撒冷組織（https://en.wikipedia.org/wiki/NGO_Monitor）
 
 
-## 國內登記 NGO 可抵稅
+## 國內登記 NGO（可抵稅）
 * [無國界醫生 - 以巴戰爭區域救援基金](https://donation.msf.org.tw/fundraising-page-a/a1U5g000006MHE5/fpa0000000120)
 ## 其他 NGO
 * [PCRF (Palestine Children's Relief Fund)](https://www.pcrf.net/)
