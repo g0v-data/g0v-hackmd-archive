@@ -42,8 +42,7 @@ Just a reminder: There won't be dinner provided at this offline gathering, so pl
 | 2045 - 2100 | 尾聲 |大合照需要的話可以在這裡補拍|
 
 ## 報名連結
-- 揪松團有開一個表單：https://forms.gle/c8gsx8zrRnbmZyqN6
-    - 預計週五會寄出宣傳信件，信件中會放報名連結
+https://forms.gle/c8gsx8zrRnbmZyqN6
 
 ## 自由提案報名區
 可以先在這裡告訴大家當天想做什麼事（如果有的話）
