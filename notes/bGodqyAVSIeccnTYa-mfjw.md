@@ -7,7 +7,7 @@ tags: vtaiwan
 地點：實體＋線上
 參與者：
 In-person: shu, peter, deger, colleen, 
-Online: RR
+Online: RR, Irvin
 線上參與連結 / Link：https://meet.jit.si/vTaiwan
 
 ## Self-Intro
