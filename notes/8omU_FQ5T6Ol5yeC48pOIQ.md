@@ -9,11 +9,6 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 #### 常用連結
 7-Zip https://www.7-zip.org/a/7z2301-x64.exe
 Chainlon 01Backup https://www.chainlon.net/1/01Backup.zip
-展頌小工具(包含AnyDesk,VPN)壓縮檔：http://www.chainlon.net/1/CYTools.zip
-展頌小工具(包含AnyDesk,VPN)安裝檔：http://www.chainlon.net/1/CYTools.exe
-VNC遠端遙控：http://www.chainlon.net/1/ChainlonVNC.exe
-rdm參數檔1：http://web1.emax.net.tw/ken542014/Temp/newtstop.dat
-rdm參數檔2：http://web1.emax.net.tw/ken542014/Temp/newtstop.dll
 https://drive.google.com/uc?id=1e0quXt20XF8QZkpFgR4Wj-z1LYKLGrkM&export=download
 curl hhttp://192.168.5.49:8080/Temp/ShowKeyPlus.zip -o C:\02Temp\ShowKeyPlus.zip
 
