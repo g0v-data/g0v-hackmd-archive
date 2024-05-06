@@ -53,7 +53,7 @@ Just a reminder: There won't be dinner provided at this offline gathering, so pl
 | 測試專案     | Nobody       | 說明文字|
 |籌備整理揪松物資基礎松 |Yi |揪松辦公室快被物資淹沒ㄌ，之後想要籌備基礎松邀請大家來盤點＆整理，歡迎整理大師一起聊聊。
 |vTaiwan 社群經費治理 |Peter |目前vTaiwan 還有一些社群經費放在 OCF，目前幾位參與者都同意可以 donate 揪松或認養大松，在此之前要有社群經費治理的規劃，因此來聽聽看大家意見。
-| | |
+|盤點放輕松還需要什麼東西 |tofus|感覺放輕松的共筆還有現場還是少了一點東西，想要邀請大家一起來想想看如何讓放輕松變得更鬆！
 | | |
 
 ---
