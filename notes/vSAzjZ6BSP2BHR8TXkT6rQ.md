@@ -16,6 +16,7 @@ tags: vtaiwan
 
 ## vTaiwan 社群經費運用方式
 - [vTaiwan 社群經費管理方案](/JqAlPp_6QF-3F1RKuDj4JQ)
+- [vTaiwan 認養大松](/czcSjtVYQLSu4rgonZgAPA)
 
 ## 網路治理&網路法規的共識徵集
 - Summit 收集進度

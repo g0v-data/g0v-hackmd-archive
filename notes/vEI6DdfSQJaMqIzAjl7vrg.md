@@ -1,7 +1,7 @@
 ---
 tags: Rentea
 ---
-# 擔任眼底城事2024年某個月的客座編輯坑
+# 眼底城事2024年7月客座編輯坑
 
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.zh_TW)
 
