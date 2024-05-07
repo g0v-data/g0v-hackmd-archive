@@ -34,6 +34,7 @@ g0v 放輕松是繼 g0v Summit 2024 之後由揪松團發起的定期線下聚�
 ---
 `Latest` 
 - [20240507 Rand0mTh0n 第零次](/qzELuqNARKKBjWr2mIiY8A)
+- [20240521 Rand0mTh1n 第壹次](/d9UgT5LTRRKywSPEo6jA5w)
 
 **幕後故事 Behind the Scene**
 

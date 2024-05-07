@@ -112,5 +112,18 @@ https://forms.gle/c8gsx8zrRnbmZyqN6
   政治攻擊的使用者問題
   網狀圖的脈絡化呈現
   
-  ### 關於注音與拼音的討論
-  - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d1ca0a05b17757240a72779181d2a56e.png)
+### 關於注音與拼音的討論
+  - 跟 deges 討論了拼音與注音的不同
+      - 注音：源自日本假名系統
+      - 拼音：來自拉丁拼音系統
+  - 發現蒙古以前有一個文字叫[八斯巴字母](https://zh.wikipedia.org/zh-tw/%E5%85%AB%E6%80%9D%E5%B7%B4%E5%AD%97%E6%AF%8D)
+      - 是蒙古人為了將蒙古語與漢語融合發明出來的文字
+
+### Ronny 帶了兩條魚！
+- 是現釣的
+- 原本想說拿來切生魚片，但是基於食安問題決定改用煎的，非常地香
+
+### Peter 帶了去年釀的玉荷苞酒！
+- 雖然說是釀的但其實是伏特加泡酒
+- 好好喝！
+- Peter 說今年也會釀，明年（或許）還可以喝得到
