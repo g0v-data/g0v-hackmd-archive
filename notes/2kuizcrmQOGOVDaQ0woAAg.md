@@ -23,7 +23,7 @@ g0v 放輕松是繼 g0v Summit 2024 之後由揪松團發起的定期線下聚�
 
 📍 參與者人類本體 participant itself
 📍 食物 food
-📍 一顆願意交流，且願意遵守 [g0v 宣言](https://g0v.tw/intl/zh-TW/manifesto/zh-TW/) 並願意遵守 [行為守則 Code of Conduct](https://g0v.hackmd.io/s/COC) 的心 A heart that is willing to communicate, and is willing to abide by the g0v Manifesto and the Code of Conduct.
+📍 一顆願意交流，且願意遵守 [g0v 宣言](https://g0v.tw/intl/zh-TW/manifesto/zh-TW/) 並願意遵守 [行為守則 Code of Conduct](https://g0v.hackmd.io/s/COC) 的心 A heart that is onwilling to communicate, and is willing to abide by the g0v Manifesto and the Code of Conduct.
 📍 用於做事的各種傢私 (學校作業也可以) Micellaneous for your work (schoolwork is acceptable)
 
 一些資訊 Information

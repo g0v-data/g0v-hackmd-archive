@@ -44,6 +44,10 @@ Just a reminder: There won't be dinner provided at this offline gathering, so pl
 ## 報名連結
 https://forms.gle/c8gsx8zrRnbmZyqN6
 
+## 輪播用投影片
+[黑話與 RS 語錄們](https://www.figma.com/proto/KrLf8HnypqWKGQUHaQxH67/Tofus-and-his-g0v-graphics!?page-id=53%3A42&type=design&node-id=53-42&viewport=574%2C469%2C0.41&t=uxwwVD1zN7RJwK00-1&scaling=contain&starting-point-node-id=54%3A44&mode=design)
+
+
 ## 自由提案報名區
 可以先在這裡告訴大家當天想做什麼事（如果有的話）
 
@@ -51,7 +55,7 @@ https://forms.gle/c8gsx8zrRnbmZyqN6
 | ------------------ | ---------- | --------------------------------------------------------------------------------------------------------------- |
 | 測試專案     | Nobody       | 說明文字|
 |籌備整理揪松物資基礎松 |Yi |揪松辦公室快被物資淹沒ㄌ，之後想要籌備基礎松邀請大家來盤點＆整理，歡迎整理大師一起聊聊。
-|g0v首頁專案更新！| Ronny | 目前 g0v 首頁的專案已經很久沒更新了，今天來投票
+|g0v首頁專案更新！| Ronny | 目前 g0v 首頁的專案已經很久沒更新了，今天來投票 https://app.sli.do/event/8ye8XFp3hXDPNTYu3VyHZW
 |vTaiwan 社群經費治理 |Peter |目前vTaiwan 還有一些社群經費放在 OCF，目前幾位參與者都同意可以 donate 揪松或認養大松，在此之前要有社群經費治理的規劃，因此來聽聽看大家意見。https://g0v.hackmd.io/JqAlPp_6QF-3F1RKuDj4JQ
 |盤點放輕松還需要什麼東西 |tofus|感覺放輕松的共筆還有現場還是少了一點東西，想要邀請大家一起來想想看如何讓放輕松變得更鬆！
 | 5/25 數位韌性松準備報名 | ronny | 借場地、開活動 |
@@ -61,8 +65,44 @@ https://forms.gle/c8gsx8zrRnbmZyqN6
 ---
 ## 活動照片
 
-## 提案紀錄
+## 一些紀錄
 
-https://www.figma.com/proto/KrLf8HnypqWKGQUHaQxH67/Tofus-and-his-g0v-graphics!?page-id=53%3A42&type=design&node-id=53-42&viewport=574%2C469%2C0.41&t=uxwwVD1zN7RJwK00-1&scaling=contain&starting-point-node-id=54%3A44&mode=design
+### 有關台電的討論
+- 參與者
+    - vtu lin
+    - 傅承墘
+    - 人
+- 摘要
+  福利國家 vs. 營利事業的路線之爭
+  營利事業所得稅之稅制改革
+  社會企業責任和課責
+  國家財政預算的排擠效應
+  收入重分配下財富不均再複製
+  社會福祉的計算
+  政治現實的考量
+  外部成本內部化
+  參與式預算
+  經濟學理性人的預設之不合理性
+  意圖和意向性存在的必要性
+  溝通的定義和重要性
+  自然語言的侷限性
+  我族中心主義和主體中心主義問題
+  言論自由的管制和箝制
+  標籤在認知的功用及標籤化
+  認知主體的認知能力問題
+  媒介侷限性
+  正義和價值判斷
+  主流和非主流的演算法差異
+  AI實用主義立場的實踐
+  知識論核心問題的跨領域存在
+  文字學和詮釋學問題
+  視域融合和詮釋學循環
 
-https://app.sli.do/event/8ye8XFp3hXDPNTYu3VyHZW
+
+### 針對臺大校務系統的評論
+- 參與者
+    - 人
+- 摘要
+    - 
+
+
