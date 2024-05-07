@@ -2,6 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [AI](tags/AI.md) | 23 | 2024-05-08T06:59:02+08:00 |
+| [Environmental Design](tags/Environmental%20Design.md) | 1 | 2024-05-08T06:59:02+08:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 8392 | 2024-05-08T04:40:27+08:00 |
 | [rand0mth0n](tags/rand0mth0n.md) | 2 | 2024-05-08T01:43:39+08:00 |
 | [hackathon](tags/hackathon.md) | 40 | 2024-05-08T01:43:39+08:00 |
@@ -51,7 +53,6 @@
 | [cofacts](tags/cofacts.md) | 439 | 2024-04-23T13:27:42+08:00 |
 | [meeting note](tags/meeting%20note.md) | 264 | 2024-04-23T13:27:42+08:00 |
 | [intgov](tags/intgov.md) | 3 | 2024-04-21T17:14:17+08:00 |
-| [AI](tags/AI.md) | 23 | 2024-04-20T19:09:05+08:00 |
 | [whisper](tags/whisper.md) | 1 | 2024-04-20T19:09:05+08:00 |
 | [逐字稿](tags/%E9%80%90%E5%AD%97%E7%A8%BF.md) | 7 | 2024-04-20T19:09:05+08:00 |
 | [NTU](tags/NTU.md) | 1 | 2024-04-19T23:56:11+08:00 |
@@ -147,7 +148,6 @@
 | [intl](tags/intl.md) | 3 | 2024-03-05T16:18:21+08:00 |
 | [g0v idea pool](tags/g0v%20idea%20pool.md) | 57 | 2024-03-01T21:20:18+08:00 |
 | [Talk](tags/Talk.md) | 39 | 2024-03-01T19:12:21+08:00 |
-| [Environmental Design](tags/Environmental%20Design.md) | 1 | 2024-03-01T00:30:23+08:00 |
 | [糖鐵](tags/%E7%B3%96%E9%90%B5.md) | 4 | 2024-02-29T19:53:33+08:00 |
 | [坑](tags/%E5%9D%91.md) | 8 | 2024-02-29T12:07:31+08:00 |
 | [story](tags/story.md) | 1 | 2024-02-29T12:07:31+08:00 |

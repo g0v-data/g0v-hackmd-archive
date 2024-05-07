@@ -2,10 +2,10 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [影音轉逐字稿 / 如何在 Macbook 裝 whisper / How to Install whisper in Macbook](../notes/t1B_DdkHTOyqsWiYm0bzAw.md) | 2024-04-20T19:09:05+08:00 | 2023-05-30T17:42:37+08:00 |
-| 2 | [藥學．要學：AI驅動的個人化精準學習](../notes/8PYVkjW_RuSGFlIYJnGKoA.md) | 2024-04-06T11:50:58+08:00 | 2024-02-18T11:32:07+08:00 |
-| 3 | [快速認識【g0v 零時小學校】繁體中文 AI 開源實踐計畫](../notes/DGv5v_iFRoasaETVPb874A.md) | 2024-03-02T23:54:55+08:00 | 2024-02-28T11:03:03+08:00 |
-| 4 | [Environmental Design & Computer-Aided 空間規劃設計與 AI 工具](../notes/3dqTVh6SS9a4SIXMT3X1HQ.md) | 2024-03-01T00:30:23+08:00 | 2023-03-25T21:43:44+08:00 |
+| 1 | [Environmental Design & Computer-Aided 空間規劃設計與 AI 工具](../notes/3dqTVh6SS9a4SIXMT3X1HQ.md) | 2024-05-08T06:59:02+08:00 | 2023-03-25T21:43:44+08:00 |
+| 2 | [影音轉逐字稿 / 如何在 Macbook 裝 whisper / How to Install whisper in Macbook](../notes/t1B_DdkHTOyqsWiYm0bzAw.md) | 2024-04-20T19:09:05+08:00 | 2023-05-30T17:42:37+08:00 |
+| 3 | [藥學．要學：AI驅動的個人化精準學習](../notes/8PYVkjW_RuSGFlIYJnGKoA.md) | 2024-04-06T11:50:58+08:00 | 2024-02-18T11:32:07+08:00 |
+| 4 | [快速認識【g0v 零時小學校】繁體中文 AI 開源實踐計畫](../notes/DGv5v_iFRoasaETVPb874A.md) | 2024-03-02T23:54:55+08:00 | 2024-02-28T11:03:03+08:00 |
 | 5 | [TW-Bench](../notes/LBqPDIUJT5qedcDOm1UEgQ.md) | 2024-02-28T11:01:50+08:00 | 2023-12-09T16:00:00+08:00 |
 | 6 | [RAG](../notes/PAMWvWCiQMykE8ONzvZzEw.md) | 2024-01-05T22:58:54+08:00 | 2023-12-25T12:20:36+08:00 |
 | 7 | [g0v AI 機器人 aka 找專案分類帽](../notes/yOmr3hf7RDypNnAWRnw2gQ.md) | 2023-12-27T19:51:43+08:00 | 2023-03-23T15:47:11+08:00 |
