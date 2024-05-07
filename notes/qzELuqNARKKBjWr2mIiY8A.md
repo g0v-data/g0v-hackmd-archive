@@ -52,7 +52,7 @@ https://forms.gle/c8gsx8zrRnbmZyqN6
 | 測試專案     | Nobody       | 說明文字|
 |籌備整理揪松物資基礎松 |Yi |揪松辦公室快被物資淹沒ㄌ，之後想要籌備基礎松邀請大家來盤點＆整理，歡迎整理大師一起聊聊。
 |g0v首頁專案更新！| Ronny | 目前 g0v 首頁的專案已經很久沒更新了，今天來投票
-|vTaiwan 社群經費治理 |Peter |目前vTaiwan 還有一些社群經費放在 OCF，目前幾位參與者都同意可以 donate 揪松或認養大松，在此之前要有社群經費治理的規劃，因此來聽聽看大家意見。
+|vTaiwan 社群經費治理 |Peter |目前vTaiwan 還有一些社群經費放在 OCF，目前幾位參與者都同意可以 donate 揪松或認養大松，在此之前要有社群經費治理的規劃，因此來聽聽看大家意見。https://g0v.hackmd.io/JqAlPp_6QF-3F1RKuDj4JQ
 |盤點放輕松還需要什麼東西 |tofus|感覺放輕松的共筆還有現場還是少了一點東西，想要邀請大家一起來想想看如何讓放輕松變得更鬆！
 | 5/25 數位韌性松準備報名 | ronny | 借場地、開活動 |
 | g0v api | ronny | g0v 行事曆、社群九分鐘、kktix 活動... 讓首頁可以接上資料更即時豐富 |
@@ -62,3 +62,7 @@ https://forms.gle/c8gsx8zrRnbmZyqN6
 ## 活動照片
 
 ## 提案紀錄
+
+https://www.figma.com/proto/KrLf8HnypqWKGQUHaQxH67/Tofus-and-his-g0v-graphics!?page-id=53%3A42&type=design&node-id=53-42&viewport=574%2C469%2C0.41&t=uxwwVD1zN7RJwK00-1&scaling=contain&starting-point-node-id=54%3A44&mode=design
+
+https://app.sli.do/event/8ye8XFp3hXDPNTYu3VyHZW
