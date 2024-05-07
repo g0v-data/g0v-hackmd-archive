@@ -64,6 +64,7 @@ https://forms.gle/c8gsx8zrRnbmZyqN6
 
 ---
 ## 活動照片
+- [雲端資料夾](https://drive.google.com/drive/folders/1J4b8CiXs5krUPVxu-1Roqcatl2Bbb2YM?usp=sharing)
 
 ## 一些紀錄
 
