@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v Rand0mTh0n 第零次放輕松](../notes/qzELuqNARKKBjWr2mIiY8A.md) | 2024-05-06T21:45:56+08:00 | 2024-04-25T01:07:33+08:00 |
+| 1 | [g0v Rand0mTh0n 第零次放輕松](../notes/qzELuqNARKKBjWr2mIiY8A.md) | 2024-05-07T12:52:44+08:00 | 2024-04-25T01:07:33+08:00 |
 | 2 | [g0v 放輕松 Rand0mth0n 大全](../notes/2kuizcrmQOGOVDaQ0woAAg.md) | 2024-05-02T00:57:00+08:00 | 2024-04-25T00:55:29+08:00 |
 | 3 | [20240427 DigiResiTh5n 第伍次數位韌性松](../notes/ugNkTFLARwK4rmH7jCdO-g.md) | 2024-04-27T17:26:15+08:00 | 2024-04-08T15:58:50+08:00 |
 | 4 | [寫給對於還不熟悉 Meshtastic 的朋友 / DigiResiTh0n](../notes/V8ozO9RQS4ieWC1th3fleg.md) | 2024-04-27T16:52:55+08:00 | 2024-04-27T16:44:12+08:00 |
