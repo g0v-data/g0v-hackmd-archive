@@ -5,20 +5,33 @@ tags: summit2024
 
 ## 本次媒體小組工作項目
 * [電子報 5 期](https://us21.campaign-archive.com/home/?u=5f2da7dc5b32fcf00c4e26170&id=cf109d5e52)+行前通知，皆各有中英文版。
+電子報經驗傳承請見[阿敏的回饋](https://docs.google.com/document/d/1G0nyUHgFe9DXuqK1ObfMYc3YfLM3patVKv8NXIg9U90/edit?usp=sharing)。
+
 * 整理[媒體素材 Press Kit](https://g0v.hackmd.io/@summit2024/media-book/%2F-RhR5m71QieB9U4Xexisbw)。
+
 * 在各相關的臉書社團發文宣傳 Summit 徵稿消息。
+
+
 * 以 OCF 名義，發徵稿與年會報名的公文給各級學校、各政府機關。
+
+
 * 連繫合作宣傳單位（政大國際學院、東亞科技與社會研究國際期刊）。
+
 * 收集潛在媒體記者名單。
-* 寄送採訪邀約與會前 & Day 1 新聞稿。
+
+* 寄送採訪邀約與會前&會後新聞稿。
+
 * 用免費的新聞稿平台發活動新聞稿。
+
 * 接待媒體現場採訪：
 1（本身是會眾，沒有拿媒體證，但有給媒體名片、拿會前新聞稿）
 +2（用媒體名片換媒體證）
 +1（現場沒有接待到，但有看到自媒體發文）
+
 * 收集[本次參與者心得](https://g0v.hackmd.io/@summit2024/media-book/%2FSmZoi3DDTuazvcvaqhpfDA)。
 
 ## 檢討
+
 ### 持續做 Continue to do
 * 平日觀察台灣媒體記者生態，對於有什麼媒體可以找、有哪位記者適合來採訪有大概的認知。（另也希望可以有擁有媒體人脈的成員加入～）[name=YC]
 

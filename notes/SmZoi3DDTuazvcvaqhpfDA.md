@@ -18,7 +18,7 @@
 | 2024.05.06 | 呂顥天 | [在這](https://www.facebook.com/ted.lu.tw/posts/pfbid02gsSPyQGTVkBjCW3VybMsw4Zs6rCaLiBy7FBnYGjb8woM5sqN5bv4MZ2stQy7rjLkl) |
 | 2024.05.06 | 曹良賓 | [在這](https://www.facebook.com/permalink.php?story_fbid=pfbid0Wd7pDhu6k3fnNhnVbJCPoHYqctUHQvPPFdQZVwQVG82iQhu3MnZGZ9fypR2Cf2oQl&id=100089978852143) |
 | 2024.05.06 | 瞿筱葳 | [在這](https://www.facebook.com/ipa.chiu/posts/pfbid0SeMhnhnQwNsDEjpWpfDdUrff5jVZzats7LnqnzZrt1vjZm3E8z8JzpdHeB439aFUl) |
-|            |        |                                                                                                                                                      |
+| 2024.05.06 |近藤彌生子(Yaeko Kondo) | [在這](https://www.facebook.com/yaeko.kondo/posts/pfbid02XbFYwtaCL7NKMum75X5BhM1roCzwtWRa4zakbj7cbUoNanPnTDEyCxj4ZdSP1wYbl) |
 |            |        |                                                                                                                                                      |
 |            |        |                                                                                                                                                      |
 |            |        |                                                                                                                                                      |
