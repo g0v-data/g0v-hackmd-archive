@@ -67,7 +67,7 @@ https://forms.gle/c8gsx8zrRnbmZyqN6
 
 ## 一些紀錄
 
-### 有關漫天飛的討論
+### 其中一組有關漫天飛的討論（因為太精彩所以被記錄在共筆上）
 - 參與者
     - vtu lin
     - 傅承墘
@@ -111,3 +111,5 @@ https://forms.gle/c8gsx8zrRnbmZyqN6
   政治攻擊的使用者問題
   網狀圖的脈絡化呈現
   
+  ### 關於注音與拼音的討論
+  - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d1ca0a05b17757240a72779181d2a56e.png)
