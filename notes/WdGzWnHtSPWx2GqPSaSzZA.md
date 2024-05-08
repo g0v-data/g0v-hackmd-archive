@@ -9,13 +9,13 @@ tags: summit2024
 
 * 整理[媒體素材 Press Kit](https://g0v.hackmd.io/@summit2024/media-book/%2F-RhR5m71QieB9U4Xexisbw)。
 
-* 在各相關的臉書社團發文宣傳 Summit 徵稿消息。
-
+* 在各相關的臉書社團發文宣傳 Summit 徵稿消息、請相關的臉書粉專協助宣傳 Summit 徵稿消息。
+本次聯繫名單可參考[徵稿宣傳管道列表](https://docs.google.com/spreadsheets/d/1nqAuYEtVeb-hlibCWR3x00TdL4V66eBlpP6cCEr_8Ic/edit#gid=0)和[外部宣傳聯繫文件](https://g0v.hackmd.io/@summit2024/media-book/%2Fg2xaf3rqSX-A4oXeujtR5Q)（此文件包含邀請協助宣傳的文案模板）。
 
 * 以 OCF 名義，發徵稿與年會報名的公文給各級學校、各政府機關。
+公文稿可參考[這裡](https://drive.google.com/file/d/1kEB0lFX9ln9O4kAYuw8ml0HJySvN-v6P/view?usp=drive_link)。
 
-
-* 連繫合作宣傳單位（政大國際學院、東亞科技與社會研究國際期刊）。
+* 連繫互惠合作宣傳單位（本次為：政大國際學院、東亞科技與社會研究國際期刊）。
 
 * 收集潛在媒體記者名單。
 
