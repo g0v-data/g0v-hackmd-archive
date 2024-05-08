@@ -1,20 +1,29 @@
 ---
 tags: g0v-intl
 ---
-# Meetup with g0vers hosted by Kou-shi-kai (浩志会): Nurturing public mind in the age of individuals.
+# Meetup with g0vers hosted by Kou-shi-kai (浩志会): Growing public mind in the age of individuals.
 
 ## License
 CC-BY g0v contributors
 
-## Meeting Notes
-It is a brainstorming session with 浩志會 research group from Japan (.  
+## What's this event?
+It is a brainstorming session with 浩志會 research group from Japan.  Any members from g0v are welcome! 
 
 ## Event info
 - Proposed time and date: Evening (16:30), June 7th
-- Place: 茹曦酒店 | OOPS創潮玩團
+＊
+- Place: 茹曦酒店 | OOPS創潮玩團 (Room and floor are TBD)
+- Numbers of 浩志會 visitors: 5~10.  
+- Language: English and/or Mandarin (A Japanese interpreter will attend)
 
 ## Intro
+### Our motivation of hosting the event:
+- We believe that we can learn a lot from g0v activities to answer our research topic, which is “Growing public mind in the age of individuals.” 
+### What we can provide:
+- Our observations on how ordinary Japanese individuals are engaged in public activities, and often seen process to solve social issues.
+- What’s hot and trending in Tokyo.
 
+## Topics of brainstorming
 
 
 ## About 浩志會

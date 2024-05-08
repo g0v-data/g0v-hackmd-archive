@@ -7,6 +7,9 @@ tags: vtaiwan
 參與者 Participants：
 線上參與連結 / Link：https://meet.jit.si/vTaiwan
 
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4b10cdc71f6633bf70d0a6c0afb2d0b1.png)
+
 ## 自我介紹 self-intro
 - peter: law student in NTU, G0V NOBODY 
 - eli lin: Hsinchu, sociology student 
@@ -18,18 +21,27 @@ tags: vtaiwan
 - Chrystal: dual backgrounds in law and optoelectronics, passionate about AI governance
 - Zoey: TttC (Talk to the City) PM, using AI 
 
-
 ## 德國紀錄片訪問確認 German Documentary Discussion 
 - [問題搜集 Question](https://docs.google.com/document/d/1-CwbRaWTfNdJ-QxZa75CZ2pl08zJ5GoXdE7myeaD0M8/edit?usp=sharing)
 - 專案共筆 [德國紀錄片 German Documentary](/LLbOFId_RUS4w20og4dmRA)
 
+## Eli & Jacob sharing 
+- https://negotiator-ai.replit.app/
+    - goals for negotiation 
+ 
+
 ## 國家人權委員會活動 NHRC Conference 
 - [國家人權委員會 AI x人權趨勢論壇](/iKIzn1I-S7uNqcsM2RIgIA)
 
-## vTaiwan 社群經費運用方式
+## 工作坊
+- [vTaiwan in TicTEC 2024](/_fWuILaRSv-h3FQsXSLxaQ?both)
+- [目前 Polis 共識](https://pol.is/report/r7cyakn8a8knfyahm3bkh)
+
+## vTaiwan 社群經費運用方式 Community Budget 
 - [vTaiwan 社群經費管理方案](/JqAlPp_6QF-3F1RKuDj4JQ)
 - [vTaiwan 認養大松](/czcSjtVYQLSu4rgonZgAPA)
 
-## 網路治理&網路法規的共識徵集
+## 網路治理&網路法規的共識徵集 Internet Governance 
 - Summit 收集進度
 - [draft Seed Statements](https://hackmd.io/@moztw/the-web-we-want-seed-statements) (會在本週六 summit 攤位上收集)
+
