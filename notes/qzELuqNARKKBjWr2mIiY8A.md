@@ -68,7 +68,10 @@ https://forms.gle/c8gsx8zrRnbmZyqN6
 
 ## 一些紀錄
 
-### 其中一組有關漫天飛的討論（因為太精彩所以被記錄在共筆上）
+### 有關 vTaiwan 社群經費治理
+- 更新了一部分內容，請看[這裡](https://g0v.hackmd.io/JqAlPp_6QF-3F1RKuDj4JQ?both)
+
+### 其中一桌有關漫天飛的討論（因為太精彩所以被記錄在共筆上）
 - 參與者
     - vtu lin
     - 傅承墘
