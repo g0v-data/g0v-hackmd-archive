@@ -7,7 +7,7 @@
 ## 防災知識庫
 - 可以參考沃草的防災手冊
 > [物資哪裡買](https://g0v.hackmd.io/@billy3321/ryMJ68XQ6)
-- [全民國防手冊](https://aodm.mnd.gov.tw/front/down.aspx?menu=069&mCate=069)
+- [全民國防手冊](https://aodm.mnd.gov.tw/front/down.aspx?menu=069&mCate=069) ([2023年版 PDF](https://aodm.mnd.gov.tw/files/web/191/file_up/100004/60/%E5%85%A8%E6%B0%91%E5%9C%8B%E9%98%B2%E6%87%89%E8%AE%8A%E6%89%8B%E5%86%8A.pdf))
 
 
 ## 地震
