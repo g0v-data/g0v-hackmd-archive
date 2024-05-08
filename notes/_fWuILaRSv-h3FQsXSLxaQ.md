@@ -129,3 +129,14 @@ https://pol.is/3yfp4m7wsm
 
 3. **Part3: Reflection & Discussion (20 min)**
     - 現場 Q&A
+
+- 加強宣傳(到5/31以前加強宣傳)
+    - g0v slack: 
+        - general 
+        - rentea 
+        - cofacts 
+        - sch001
+    - OCF 
+        - 網路自由小聚群組 @telegram 
+    - TWIGF 
+        - 要問一下管理員

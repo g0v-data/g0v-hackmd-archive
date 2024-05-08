@@ -1,20 +1,21 @@
 ---
 tags: g0v-intl
 ---
-# Meetup with g0vers hosted by Kou-shi-kai (浩志会): Growing public mind in the age of individuals.
+# Meetup with g0vers hosted by 浩志會: Growing public mind in the age of individuals.
 
 ## License
 CC-BY g0v contributors
 
 ## What's this event?
-It is a brainstorming session with 浩志會 research group from Japan.  Any members from g0v are welcome! 
+It is an exchange session with 浩志會 research group from Japan.  Any members from g0v are welcome! 
+We are non-engineers, so please do not expect tech-takeaways:laughing:
 
 ## Event info
-- Proposed time and date: Evening (16:30), June 7th
-＊
+- Time and date: 16:30~, June 7th
 - Place: 茹曦酒店 | OOPS創潮玩團 (Room and floor are TBD)
 - Numbers of 浩志會 visitors: 5~10.  
 - Language: English and/or Mandarin (A Japanese interpreter will attend)
+- Fees: None
 
 ## Intro
 ### Our motivation of hosting the event:
@@ -23,9 +24,15 @@ It is a brainstorming session with 浩志會 research group from Japan.  Any mem
 - Our observations on how ordinary Japanese individuals are engaged in public activities, and often seen process to solve social issues.
 - What’s hot and trending in Tokyo.
 
-## Topics of brainstorming
+## Topics
+Before discussing topics below, it will be very helpful if someone can briefly explain what g0v is and what g0v does, including achievements such as Government Budget Visualization.
+- Is it common in Taiwan that citizens willingly engage themselves to help others?
+- How g0v motivate volunteers to join its activities? Any rewards?
+- How engineers and non-engineers collaborate?
+- Any collaboration between government, enterprise and g0v?
 
+## About us
+浩志會成立於1982年，擁有來自日本政府各部門和上市公司的會員。我們的目標是促進企業和政府之間的互相聯繫。浩志會要求會員候選人參加兩年的研究生課程。這次訪問團是由研究生主辦。
 
-## About 浩志會
-浩志會成立於 1982 年，擁有來自日本政府各部門和上市公司的 1800 名會員。我們的目標是促進私營企業和政府機構之間的互相合作。
-浩志會邀請40歲左右的政府和企業管理人員在獲得正式會員資格之前參加為期兩年的研修課程，這150名候選人（研究會員）組成五個稱為“論壇 ”的研究小組。這次邀請是與"論壇W"的交流會。
+## Inquiry
+masakazuk12@gmail.com

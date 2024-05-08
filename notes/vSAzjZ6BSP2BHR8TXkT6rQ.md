@@ -36,6 +36,16 @@ tags: vtaiwan
 ## 工作坊
 - [vTaiwan in TicTEC 2024](/_fWuILaRSv-h3FQsXSLxaQ?both)
 - [目前 Polis 共識](https://pol.is/report/r7cyakn8a8knfyahm3bkh)
+- 加強宣傳(到5/31以前加強宣傳)
+    - g0v slack: 
+        - general 
+        - rentea 
+        - cofacts 
+        - sch001
+    - OCF 
+        - 網路自由小聚群組 @telegram 
+    - TWIGF 
+        - 要問一下管理員
 
 ## vTaiwan 社群經費運用方式 Community Budget 
 - [vTaiwan 社群經費管理方案](/JqAlPp_6QF-3F1RKuDj4JQ)
