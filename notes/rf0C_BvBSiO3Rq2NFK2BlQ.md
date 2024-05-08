@@ -12,6 +12,9 @@
 - 轉送封包由router負責
     - Border router : 連接對外的網路(Network)
     - Internal router : 對內各個子網路(Subnet)
+- 私人網路:
+- 10.0.0.0~10.255.255.255
+- 192.168.0.0~192.168.255.255
 ## mask
 - problem:僅透過查看IPv4位址本身，是無法直接分辨出網路、子網路和主機部分的大小的。
 - ans:要理解一個IPv4位址的組成，你需要知道使用的子網掩碼。子網掩碼指定了網路部分和主機部分的分隔。子網掩碼中的“1”表示網路部分，而“0”表示主機部分。
@@ -29,6 +32,7 @@
 - 選擇最佳替代路線
 ## The Routing Process
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3c60e7dad76ddc6815fc12c96692633c.png)
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_145b63bb80802a31e24c3ebf8e9966cb.png)
 1. Finding All Row Matches
     - Step1 檢查/找出所有能到目的地的IP位置(目的地包含在範圍中)
@@ -44,6 +48,7 @@
     - 如果Mask一樣，則cost選擇較便宜(低)的，speed選擇較快(高)的
     ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7d4b94298fc6d0b7330db09faa699460.png)
     ==ans:row345==
+    
     ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a26985040d2c0a599dc566187405239d.png)
     ==ans:row 682==
 3. 根據最佳匹配行中的指示將資料包發送回 
@@ -58,6 +63,7 @@
 - cache條目過期後立即刪除有助於確保使用者再次存取資料時收到最新資訊。
 ## Masks that Don’t End at 8-Bit Boundaries
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b553f700ae74c0d6421e2cc7d1489ca5.png)
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_966466d78bfcffa1b7bdf6945c7de385.png)
 ## Address Resolution Protocol (ARP)
 The problem:
@@ -66,7 +72,9 @@ The problem:
 - 路由器不知道目標設備的資料鏈結層位址(MAC address)
 ==這時候就需要ARP!!==
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_92d1f2f4180988bf0d76f695eda03750.png)
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2c5b0114ff461add4bd44234c722e41e.png)
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4acf5a66be9a321fafd43d0b7093330f.png)
 
 

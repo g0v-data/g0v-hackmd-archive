@@ -7,6 +7,18 @@ tags: vtaiwan
 參與者 Participants：
 線上參與連結 / Link：https://meet.jit.si/vTaiwan
 
+## 自我介紹 self-intro
+- peter: law student in NTU, G0V NOBODY 
+- eli lin: Hsinchu, sociology student 
+- eli tyre: interested in AI governance, based in California
+- josh (ETH zurich phd)
+- jacob: working on [Chord](https://tinyurl.com/chord-v09), experimental app for AI for coordination
+- ting: NTU, human-computer interaction
+- Simon: How AI can strengthen our democracy
+- Chrystal: dual backgrounds in law and optoelectronics, passionate about AI governance
+- Zoey: TttC (Talk to the City) PM, using AI 
+
+
 ## 德國紀錄片訪問確認 German Documentary Discussion 
 - [問題搜集 Question](https://docs.google.com/document/d/1-CwbRaWTfNdJ-QxZa75CZ2pl08zJ5GoXdE7myeaD0M8/edit?usp=sharing)
 - 專案共筆 [德國紀錄片 German Documentary](/LLbOFId_RUS4w20og4dmRA)
