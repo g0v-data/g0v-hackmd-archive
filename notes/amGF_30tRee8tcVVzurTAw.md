@@ -7,7 +7,7 @@ tags: g0v-intl
 CC-BY g0v contributors
 
 ## What's this event?
-It is an exchange session with 浩志會 research group from Japan.  Any members from g0v are welcome! 
+It is an exchange session with 浩志會 research group from Japan.
 We are non-engineers, so please do not expect tech-takeaways:laughing:
 
 ## Event info
@@ -26,13 +26,14 @@ We are non-engineers, so please do not expect tech-takeaways:laughing:
 
 ## Topics
 Before discussing topics below, it will be very helpful if someone can briefly explain what g0v is and what g0v does, including achievements such as Government Budget Visualization.
-- Is it common in Taiwan that citizens willingly engage themselves to help others?
+- What's the idea behind "「不要問為何沒有人做這個，先承認你就是『沒有人』」。因為，「沒有人」是萬能的"?
 - How g0v motivate volunteers to join its activities? Any rewards?
 - How engineers and non-engineers collaborate?
 - Any collaboration between government, enterprise and g0v?
+- In an open-source environment, who coordinates interests of different groups?
 
 ## About us
-浩志會成立於1982年，擁有來自日本政府各部門和上市公司的會員。我們的目標是促進企業和政府之間的互相聯繫。浩志會要求會員候選人參加兩年的研究生課程。這次訪問團是由研究生主辦。
+浩志會成立於1982年，擁有來自日本政府各部門和企業的會員。我們的目標是促進企業和政府之間的互相聯繫。浩志會要求會員候選人參加兩年的研究生課程。這次訪問團是由研究生主辦。
 
 ## Inquiry
 masakazuk12@gmail.com
