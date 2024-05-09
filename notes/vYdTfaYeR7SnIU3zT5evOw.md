@@ -399,30 +399,41 @@ HackMD 的主機維護，感謝 Jacky 協助。
 
 ### 營運經費
 
-依時間記錄
-- 揪松團在 2020 年 04 月有得到 AWS 一年的 3000USD 的 credit 贊助（[記錄](https://trello.com/c/eCpoDplo/1950-aws-credit-%E8%A8%98%E9%8C%84)），目前主要花費於 HackMD 主機上。
-- （待補充）招募社群參與者貢獻餘裕點數，找 slack 發文記錄
-- 採用社群方案
+HackMD 開源社群方案
+- 採用 HackMD 開源社群方案，由揪松團接洽 HackMD
 
-## 備份
+AWS
+- 2024.04 之前，由社群捐款或揪松團計畫執行所留用的餘款支付
+    - 年費預估：104100 元
+        - 依照近年用量，每月 8500 元
+        - 年度境外稅 2100 元，現況是 AWS 美金價格 + 25% 境外加值稅
+    - 社群貢獻點數
+        - 揪松團在 2020 年 04 月有得到 AWS 一年的 3000USD 的 credit 贊助（[記錄](https://trello.com/c/eCpoDplo/1950-aws-credit-%E8%A8%98%E9%8C%84)），目前主要花費於 HackMD 主機上。
+            - 例如 [Joinplus 專案社群](https://g0v.hackmd.io/@chewei/joinplus/) 貢獻 260.17USD credit 
+- 於 2024.04 獲得 HackMD 支持 🙏。
 
-補網址
+### g0v HackMD 備份
+
+https://github.com/g0v-data/g0v-hackmd-archive
 
 ## g0v Flickr
 
 網址：https://www.flickr.com/photos/g0v/
-成立背景：為了放 g0v 大松照片而成立的 Flickr 帳號，後來也分享給 g0v Summit 存放歷屆照片。
+成立背景：為了放 g0v 大松照片而成立的 Flickr 帳號，後來也分享給 g0v Summit 存放歷屆照片，專案社群也可以申請建立相簿。
 管理：g0v 揪松團（Flickr 是單一帳號，帳號跟密碼由揪松團管理）
 
 ### 營運經費
 
-- 2020 年感謝 Isabel 贊助 Flickr Pro 付費計畫。
-- 2021 年感謝 Kirby 贊助 Flickr Pro 付費計畫。
-- 2022 揪松付費 Flickr Pro 計畫。
-- 2023 揪松付費 Flickr Pro 計畫。
-- 2024 年感謝 Ying 贊助 Flickr Pro 付費計畫。
-- 2025
-- 2026
+年費約台幣 2500 元
+
+- 2020 年感謝 Isabel 個人贊助 Flickr Pro 年度費用。
+- 2021 年感謝 Kirby 個人贊助 Flickr Pro 年度費用。
+- 2022 揪松付費 Flickr Pro 年度費用。
+- 2023 揪松付費 Flickr Pro 年度費用。
+- 2024.03 感謝 Ying 個人贊助 Flickr Pro 年度費用。
+- 2025.03 ______
+- 2026.03 ______
+- 2027.03 ______
 
 ### 社群活動、專案，申請建立　Flickr 相簿並上傳照片（內容發展中）
 
