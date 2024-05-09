@@ -36,4 +36,5 @@ Before discussing topics below, it will be very helpful if someone can briefly e
 浩志會成立於1982年，擁有來自日本政府各部門和企業的會員。我們的目標是促進企業和政府之間的互相聯繫。浩志會要求會員候選人參加兩年的研究生課程。這次訪問團是由研究生主辦。
 
 ## Inquiry
+小林
 masakazuk12@gmail.com
