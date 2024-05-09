@@ -1,25 +1,14 @@
-EV88 nhà cái nổi tiếng hàng đầu trong ngành giải trí, và cá cược online hiện nay. EV 88 trở thành điểm đến lý tưởng cho mọi games thủ yêu thích cá cược, với việc cung cấp đến cho người chơi nhiều loại hình trò chơi như: Casino trực tuyến, Xổ số online, Cá cược Thể thao, Trò chơi Bắn cá, Nổ hũ,…
-Name: EV88
+Fun88 Plus tự hào là nhà cung cấp các sản phẩm giải trí trực tuyến uy tín tại thị trường Việt Nam, với sứ mệnh mang đến một không gian giải trí công bằng và văn minh cho mọi người chơi.Địa chỉ: 92/2B Tổ 9 KP2, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh, Việt Nam
 Website:
-https://ev88.co/
-Địa chỉ: Cổ Nhuế 1, Từ Liêm, Hà Nội, Việt Nam
-Email: ev88co@gmail.com
-Phone: 0978787988
-https://ev88.co/dang-ky-ev88/
-https://ev88.co/tai-app-ev88/
-https://ev88.co/nap-tien-ev88/
-https://ev88.co/rut-tien-ev88/
-https://ev88.co/the-thao-ev88/
-https://ev88.co/xo-so-ev88/
-https://ev88.co/ban-ca-ev88/
-https://ev88.co/casino-ev88/
+https://fun88.plus/
+Phone: 00917305001Email: fun88plus@gmail.com#fun88plus #fun88 #fun88pluscasino
 Website:
-https://ev88.co/
-https://twitter.com/ev88co
-https://vimeo.com/ev88co
-https://www.reddit.com/user/ev88co/
-https://www.pinterest.com/ev88co/
-https://500px.com/p/ev88co?view=photos
-https://www.tumblr.com/ev88co
-https://www.twitch.tv/ev88co/about
-https://www.youtube.com/@ev88cohttps://www.youtube.com/@ev88cohttps://www.youtube.com/@ev88cohttps://www.youtube.com/@ev88co
+https://fun88.plus/
+https://twitter.com/fun88pluscasino
+https://vimeo.com/fun88pluscasino
+https://www.reddit.com/user/fun88pluscasino/
+https://www.pinterest.com/fun88pluscasino/
+https://500px.com/p/fun88pluscasino?view=photos
+https://www.tumblr.com/fun88pluscasino
+https://www.twitch.tv/fun88pluscasino/about
+https://www.youtube.com/@fun88pluscasino
