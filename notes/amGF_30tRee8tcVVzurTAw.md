@@ -17,6 +17,9 @@ We are non-engineers, so please do not expect tech-takeaways:laughing:
 - Language: English and/or Mandarin (A Japanese interpreter will attend)
 - Fees: None
 
+## Sign-up form
+https://forms.gle/vgqZNvvpFCJr958GA
+
 ## Intro
 ### Our motivation of hosting the event:
 - We believe that we can learn a lot from g0v activities to answer our research topic, which is “Growing public mind in the age of individuals.” 
