@@ -100,6 +100,15 @@ https://www.trademag.org.tw/page/newsid1/?id=7842740&iz=6
         - 試點的激勵機制（見上面政府具體誘因與投入）
         - 試點的效果（評估可能參見上面兩個系統）
 
+- 「脫炭先行區」中文介紹
+    - 日本城市邁向淨零與脫碳目標：從政策到實踐
+        - 活動影片：https://www.youtube.com/live/J_DEjXBErE8?si=6UYwOfeHhGMm4V8I
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c4720bd22f5ca1c70ef5509366494f81.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5c87519db24c6f51d8a21abe571f6319.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c7ea1bcb1c2ac928d68ceabf3c636bf4.png)
+
+
+
 ## 政策架構與內容轉貼：
 
 ### 別添１ 脱炭素先行地域の類型ごとのイメージ
