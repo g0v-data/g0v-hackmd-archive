@@ -1,0 +1,3 @@
+- [name=tofus]
+    - g0v HackMD 文章須遵守 g0v CoC，因內容違反 CoC 之相關內容，暫時將內容撤除，原內容請參見本文檔的版本紀錄，如有任何問題請洽 #hackmd 頻道
+    - g0v HackMD articles must abide by the g0v CoC. Because the content violates the relevant content of the CoC, the content has been temporarily removed. For the original content, please refer to the version history of this document. If you have any questions, please contact the #hackmd channel

@@ -22,8 +22,8 @@
 | 2024.05.06 | 瞿筱葳 | [在這](https://www.facebook.com/ipa.chiu/posts/pfbid0SeMhnhnQwNsDEjpWpfDdUrff5jVZzats7LnqnzZrt1vjZm3E8z8JzpdHeB439aFUl) |
 | 2024.05.06 |近藤彌生子(Yaeko Kondo) | [在這](https://www.facebook.com/yaeko.kondo/posts/pfbid02XbFYwtaCL7NKMum75X5BhM1roCzwtWRa4zakbj7cbUoNanPnTDEyCxj4ZdSP1wYbl) |
 | 2024.05.06 |DDIO|[在這](https://g0v.social/@ddio/112391850379248143)      |
-| 2024.05.08 |RONNY WANG        |[在這](https://ronnywang.substack.com/p/20240508-g0v-summit-2024)                                                                                                                                                      |
-|            |        |                                                                                                                                                      |
+| 2024.05.08 |RONNY WANG        |[在這](https://ronnywang.substack.com/p/20240508-g0v-summit-2024)|
+| 2024.05.08 | Nao Myoshu        |[在這](https://note.com/decchii/n/n64b3f4af91dc)|
 |            |        |                                                                                                                                                      |
 
 
