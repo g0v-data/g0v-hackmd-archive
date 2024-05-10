@@ -4,7 +4,7 @@ tags: summit2024
 # 媒體小組傳承筆記
 
 ## 本次媒體小組工作項目
-* [電子報 5 期](https://us21.campaign-archive.com/home/?u=5f2da7dc5b32fcf00c4e26170&id=cf109d5e52)+行前通知，皆各有中英文版。
+* [電子報 5 期](https://us21.campaign-archive.com/home/?u=5f2da7dc5b32fcf00c4e26170&id=cf109d5e52)+ 行前通知信、活動回顧信，皆各有中英文版（活動回顧信為中英合併版）。
 電子報經驗傳承請見[阿敏的回饋](https://docs.google.com/document/d/1G0nyUHgFe9DXuqK1ObfMYc3YfLM3patVKv8NXIg9U90/edit?usp=sharing)。
 
 * 整理[媒體素材 Press Kit](https://g0v.hackmd.io/@summit2024/media-book/%2F-RhR5m71QieB9U4Xexisbw)。
