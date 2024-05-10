@@ -19,7 +19,7 @@ tags: 救松, jothon
 - 進良 
     - PDF：https://drive.google.com/drive/folders/1opC8sfcKqUMX_wDnweS4t-xqIvxZrOxg?usp=sharing
 - 揪松團 YI 
-    - Canvas 網址：待補充
+    - https://www.canva.com/design/DAGC70-z9Jk/IkVZjEkG-1kpP9jkFUC37Q/edit?utm_content=DAGC70-z9Jk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### g0v 黑客松活動贊助合作備忘錄 - 文件
 
