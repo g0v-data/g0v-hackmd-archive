@@ -294,6 +294,9 @@ https://ws-proj.moe.edu.tw/001/Upload/568/relfile/13271/1221/19ed93f0-157d-48fe-
 《臺北市校園降溫與節能規劃指南》及《臺北市政府校園工程標準作業指引》
 https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=AB52D88F9447DC9F
 
+文山特教
+https://www.facebook.com/share/p/gxTCZuw23bUQvtBv/?mibextid=WC7FNe
+
 ## 綠運具
 
 空污、道路噪音，健康衝擊
