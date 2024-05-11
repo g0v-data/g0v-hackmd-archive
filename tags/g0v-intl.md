@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Meetup with g0vers hosted by 浩志會: Growing public mind in the age of individuals.](../notes/amGF_30tRee8tcVVzurTAw.md) | 2024-05-09T16:14:32+08:00 | 2024-04-30T14:54:38+08:00 |
-| 2 | [FtO 2024 Yokohama](../notes/VCTm63nQQl6Rh3r_yKjmbw.md) | 2024-04-24T09:58:52+08:00 | 2024-03-20T11:12:07+08:00 |
+| 1 | [FtO 2024 Yokohama](../notes/VCTm63nQQl6Rh3r_yKjmbw.md) | 2024-05-11T10:07:14+08:00 | 2024-03-20T11:12:07+08:00 |
+| 2 | [Meetup with g0vers hosted by 浩志會: Growing public mind in the age of individuals.](../notes/amGF_30tRee8tcVVzurTAw.md) | 2024-05-09T16:14:32+08:00 | 2024-04-30T14:54:38+08:00 |
 | 3 | [2nd Code for Korea Conference - Happy Happy, Hack Gathering!](../notes/UKjeROzlTyWAf4tTehgU0Q.md) | 2024-03-09T03:20:36+08:00 | 2023-10-24T08:38:27+08:00 |
 | 4 | [g0ver @ 科技 × 民主治理 閉門國際工作坊](../notes/VuPySokuT5qNxZYjFJ8PCA.md) | 2023-09-15T13:15:41+08:00 | 2023-09-12T07:32:47+08:00 |
 | 5 | [g0v talk in TRANSFORMATION conference 2021](../notes/L36QWVuLSbaueT_xBCxMbw.md) | 2023-09-14T15:20:47+08:00 | 2021-03-31T19:59:30+08:00 |

@@ -18,9 +18,9 @@ tags: FtO, g0v-intl
 Registration will close by June 30th. Please use form of your resident country.
 :::
 
-- Taiwan >>> https://forms.gle/mnUqTxvCNF8vmNUY6 <<< 台灣參與者這裡報名
-- Japan >>> https://s.c4j.jp/Q6Aq <<< 日本
-- Korea >>> https://forms.gle/mExUxZnS3V2U2kYV9 <<< 韓國
+- Applicants in Taiwan > https://forms.gle/mnUqTxvCNF8vmNUY6 < 台灣參與者這裡報名
+- All international applicants and applicants in Japan > https://s.c4j.jp/Q6Aq < 日本&國際
+- Applicants in Korea > https://forms.gle/mExUxZnS3V2U2kYV9 < 韓國
 
 ## Event Schedule
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_668320828eb83c9bac2fd3ca27013a67.png)
