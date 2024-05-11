@@ -457,6 +457,9 @@ https://www.facebook.com/100064542675965/posts/pfbid0t1KNv3tDaLoprUUtFfAtBCyPpWR
 臺南市七股區
 https://www.facebook.com/share/wVXNw1v2UhdUK8Ev/
 
+新營圓環
+https://www.facebook.com/share/p/6RQwiRH21rutXmMZ/
+
 臺南市佳里
 https://www.facebook.com/share/MaSgKZqayN8zzFor/?mibextid=WC7FNe
 
