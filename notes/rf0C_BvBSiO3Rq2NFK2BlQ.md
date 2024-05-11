@@ -79,7 +79,7 @@ The problem:
 
 ## IPv4 Packet
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a48404b3cffae3bacf16785bf99e72ca.png)
-
+-  
 
 
 
