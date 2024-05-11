@@ -14,6 +14,7 @@
     - Internal router : 對內各個子網路(Subnet)
 - 私人網路:
 - 10.0.0.0~10.255.255.255
+- 172.16.0.0~172.31.255.255
 - 192.168.0.0~192.168.255.255
 ## mask
 - problem:僅透過查看IPv4位址本身，是無法直接分辨出網路、子網路和主機部分的大小的。
@@ -79,7 +80,52 @@ The problem:
 
 ## IPv4 Packet
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a48404b3cffae3bacf16785bf99e72ca.png)
--  
+-  第二行用於重新組裝分片的 IP 封包
+-  TTL:初始的TTL 值，一般為64 或128，每經過一台路由器，TTL 的數值就會減一。當TTL 的值減至零時，封包會被丟棄，並向發送者發送ICMP "Time Exceeded"訊息。
+-  Protocol:指IP 封包中的資料部分是使用的哪種協議，以便接收方能夠正確地解析和處理資料。
+- Header checksum:一個16位元的字段，用於驗證IPv4 資料封包頭部的完整性。
+- ipv4 IP Address有32bit
+- ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_95e6f83fd6d54356519b7264a2ad225a.png)
+
+## IPv6 Packet Header
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d95493f7cca0710fbef3b61dfa7bfad4.png)
+- Flow label:標示該封包為特定類別
+- Payload length:IPv6 標頭始終為 40 個八位元組長。 有效負載長度是封包剩餘部分(除了header以外)的長度（以八位元位元組為單位）。
+- next header(Protocol):IPv6 有許多下一個標頭，每個標頭透過下一個標頭欄位連結到下一個標頭
+- hop limit:最多可以經過幾個router(對應ipv4的TTL)
+- Source and Destination Addresses are 128 bits long.
+- 跟IPv4相比缺少packet fragmentation，過大的packet不做分割，直接丟掉
+- ipv6沒有checksum
+## Writing IPv6 Addresses
+- IPv4 address:
+    - 將 32 位元位址分為四個 8 位元段。
+    - 將每個段轉換為十進制數。
+    - 在各段之間放置點。
+- IPv6 address:
+    - 將每 4 位元轉換為十六進位符號(二進位轉十六進位)
+    - 以小寫形式書寫字母符號 (a … f)
+    - 將 4 個符號組合成一個段
+    - 用冒號分隔 4 個符號段
+    - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_20a5bc3649ff543053658a3085aa1dab.png)
+## rule to written IPv6 Addresses
+- 每段中的前導0可以刪除
+==如有整段都是0的可以直接省略，需留下 :==
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d53af5cff861f8c46e4c6b47ba92c985.png)
+
+- 如果存在一組全為零的連續段，則僅保留外部冒號
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4073feed126cc5115e5cc20f4d09589e.png)
+
+- 如果有多於一組連續的全為零的段落怎麼辦？刪除最長冒號中的內部冒號。
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_794308ed86e82346ed781bbbfd541641.png)
+
+- 如果最長的全零段組存在平手怎麼辦？刪除第一個冒號的內部冒號
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_42ede5822ca448821ce144210e25db8c.png)
+
+
+
+
+
+
 
 
 
