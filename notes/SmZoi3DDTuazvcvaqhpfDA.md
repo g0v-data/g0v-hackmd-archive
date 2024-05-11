@@ -35,3 +35,16 @@
 
 > 這是範例。[name=YC]
 > It's an example。[name=YC]
+
+> a digital-conceptualize commencement of actual time to open source community. on a diverse consequence of digital informing of general basement on critical conceptual realization. whereas the oscillation of genial cohesive fundamental course. thee forming of realistic ideative motional fact is that the exchangement on several unified ideology. thorough the forming fact and movement of realisation for changement on contemporary world of learning the new technology skillful learning which to be anticipated on the future digital realistic world. linking through the right-now movement and the formal governance of digitize conversation to come to the end of a modern schema of ecological web forming research and relative idea realization.
+to referencing the summit on a modified-ceptual conference meaning to a congruence diverse community into the form of a web fact, summing the concept of each conferential talk, the thorough idea changements are the de facto debate toward the ideology core.
+in developing a conceivable tool used from public to geo-politic to governmental utility, profess a sourcing juncture is to be actualized by the mass decisive motion.
+to come to a summit of public base coercive talk through the projectile on each project and ideas, some of the curative comment was being formed. to see a representative collision of fundamental grass-root yet democratized speech.
+deforming the infrastructure of each conferencing conjunction on materialize the concept of gesture on futuristic ecologic generative technology.
+the linking web and act on technology publicity, what is the publicity of web formation to an ecological technological public, toward a society enhancing the future, to have been seeing the modernization of deconceptualize the information, disinformative problematic choice is the generative forming based on the real world going through the information explosion, yet knowledging itself does not create the basic way of thinking through all these informative chaos.
+opening the Pandora box, indulging to a informative infinitive parallel digital world of quota, self confrontation to the information world of a sinking titanic and voice outing to all and about, sum of the world information congregate the chance and seeing of informing the formative brain to receiving a fact juncture.
+whether the centralization or the de-centralizative organization, g0v toward the society to Taiwan is thee formative identity of public act and artificial movement on capturing the actual problematic facing each of the attendees and individual.
+to summarize the key opinion above seen,
+> 1. individual in the social network to speech,
+> 2. governmental digitize monitoring for democratic act,
+> 3. sensational congruence of web usage. [name=LU]
