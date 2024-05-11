@@ -1,4 +1,4 @@
-企資網課輔(5/8)
+# 5/8
 [toc]
 # ch08
 ## Hierarchical IP addresses
@@ -77,7 +77,7 @@ The problem:
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2c5b0114ff461add4bd44234c722e41e.png)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4acf5a66be9a321fafd43d0b7093330f.png)
-
+# 5/15
 ## IPv4 Packet
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a48404b3cffae3bacf16785bf99e72ca.png)
 -  第二行用於重新組裝分片的 IP 封包
@@ -120,6 +120,36 @@ The problem:
 
 - 如果最長的全零段組存在平手怎麼辦？刪除第一個冒號的內部冒號
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_42ede5822ca448821ce144210e25db8c.png)
+
+## TCP
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c9ac7be10366150253e8840baea35ea6.png)
+
+- 五層架構中第四層的protocol
+- 對訊息做Fragment (message 🡪 segments)，並將segments分開在不同封包傳送
+- 每個封包在傳送時都做獨立處理，並給序號(sequence number)註明是第幾個byte
+- 支援可靠性(reliable)
+- TCP Header : 20 bytes
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7990be22a00d20a1592d556079b82d4d.png)
+### Flag fields
+- SYN/ACK, FIN :同步與回應、結束
+- RST :Reset(緊急情況直接reset)
+- PSH :Push(提醒應用層已經把所有訊息傳給TCP、TCP要將完整訊息傳出去)
+- URG :(urgent緊急的，設成1時優先給應用層)
+
+## TCP Session Openings and Closings
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_166cbd5679419c9ae1047fb3ff8d1953.png)
+
+- 三向交握:
+    - step 1:客戶端向伺服器傳送一個SYN，表達想進行連結
+    - step 2:伺服器收到訊息後，如果願意建立連接，會回傳SYN+ACK，ACK表確認收到客戶端發送的SYN，SYN表自己也想要建立連接
+    - step 3:客戶端接收到訊息後會回傳ACK作為最後的確認，表示連線已建立完成。
+
+
+
+
+
 
 
 
