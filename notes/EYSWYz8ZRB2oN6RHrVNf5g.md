@@ -9,7 +9,7 @@ tags: herstory, FtO, FacingtheOcean,
 ![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_062950437fae88b87a73517cb9ca8dc2)
 
 :::success
-Website (not completed): https://herstory-of-east-asia.netlify.com/
+Website (not completed): https://herstory-of-east-asia.netlify.app/ 
 :::
 :::info
 - meeting note: https://hackmd.io/Z4LGI2yFSq6dmeq8gzkWpA
@@ -73,7 +73,7 @@ Herstory(이하 '허스토리')는 동아시아(대만-일본-한국-홍콩) 여
 
 
 ## How to collaborate?
-* Website: https://herstory-of-east-asia.netlify.com/
+* Website:  https://herstory-of-east-asia.netlify.app/ 
 * Content collaboration: We need people to share and translate #herstory on thie [spreadsheet](https://docs.google.com/spreadsheets/d/1-L6aI3TWipm4Rj995KLVg29bf7hCieuRdQ7jZkYkrAU/edit#gid=1683764614)
 * Open Source Licenses:
     * Data (spreadsheet):	[CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.ast) © Facing the Ocean contribiutors	
@@ -90,7 +90,7 @@ Herstory(이하 '허스토리')는 동아시아(대만-일본-한국-홍콩) 여
 
 ### How to collaborate?/ "허스토리" 기여하기  [Korean/한국어]
 함께 허스토리를 남기는 작업(리서치, 번역, 디자인, 개발 등)에 "허스토리"프로젝트에 기여하실 분들을 찾습니다.
-* 웹사이트: https://herstory-of-east-asia.netlify.com/
+* 웹사이트:  https://herstory-of-east-asia.netlify.app/ 
 * 콘텐츠 협업: 우리는 여기 시트 [spreadsheet](https://docs.google.com/spreadsheets/d/1-L6aI3TWipm4Rj995KLVg29bf7hCieuRdQ7jZkYkrAU/edit#gid=1683764614) 에 #herstory 허스토리를 번역하고 공유하는데 함께할 사람이 필요해요.
 * 오픈소스 라이센스:
     * 날짜 (스프레드시트):	[CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.ast) © Facing the Ocean contribiutors	
@@ -109,7 +109,7 @@ Herstory(이하 '허스토리')는 동아시아(대만-일본-한국-홍콩) 여
 
 ### How to collaborate?/ 協力の仕方 [Japanese/日本語] 
 * やり方が分からなくて知りたい場合は、2/29のイベントにオンライン参加してみていただくだけでもOKです。https://www.facebook.com/events/224675695334341/
-* 公開前・編集中のウェブサイト: https://herstory-of-east-asia.netlify.com/
+* 公開前・編集中のウェブサイト:  https://herstory-of-east-asia.netlify.app/ 
 * 共同作業・コラボレーション：[Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1-L6aI3TWipm4Rj995KLVg29bf7hCieuRdQ7jZkYkrAU/edit#gid=1683764614)上で#herstory(ジェンダーに関する出来事)を記載・翻訳する人が必要です。 
 * オープンソースライセンス:
     * データ: [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.ast) © Facing the Ocean contribiutors	
