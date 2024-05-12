@@ -550,6 +550,7 @@ https://www.facebook.com/story.php?story_fbid=pfbid0KWd4RF8Rg898VsNU9Ank4m54pPM3
 
 高雄市前鎮瑞隆路
 https://www.facebook.com/story.php?story_fbid=pfbid0c3DJgTPuvQMDywiL9aZDM59RLC2BC2mdVDQKfYAqEpha1Xpaqz3oxcBqoWxEiW4bl&id=100049204915573&mibextid=tejx2t
+https://www.facebook.com/share/p/Lttd1rtdL6cxXAXv/
 
 高雄市三民路
 https://www.facebook.com/100063689095329/posts/pfbid0eUBgBK7PYiy8Znz7CKnXwjZgQMdxhGy3vU3FZaik1UkqE6UrA7qyf1wrnXjNjxfgl/?mibextid=cr9u03
