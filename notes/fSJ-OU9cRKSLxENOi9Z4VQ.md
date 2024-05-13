@@ -117,8 +117,23 @@ http://dev.cofacts.tw/
 
 ### :eye: Under review
 
+## CCPRIP
 
-## Spam
+### [Op] Transcript spam
+
+Spam 案例
+- User ID `96TY4n0BnX5-aOa4OpAo`
+    - https://cofacts.tw/article/opw6J44BBMtPEaE0GCyM
+    - https://cofacts.tw/article/mpw2J44BBMtPEaE09ixl
+    - 以上兩個不知為啥，有人把我的逐字稿給清掉⋯⋯ [name=mrorz]
+- User ID ???
+    - https://cofacts.tw/article/5JzRIY4BBMtPEaE0BBcn
+- User ID ???
+    - https://cofacts.tw/article/rBDAgo4B0DEb0v6c9erm [name=cai]++
+
+
+### [Op] 垃圾訊息反制
+> https://g0v.hackmd.io/um7DyY_ESbu2LL78kLw3pg?view
 
 - rumors-db https://github.com/cofacts/rumors-db/pull/68/files
   - zod --> type + zod schema
@@ -127,5 +142,44 @@ http://dev.cofacts.tw/
 - rumors-api https://github.com/cofacts/rumors-api/pull/337
   - 更多 typescript support
   - 讀資料庫也是 typescript
+
+## 小聚籌備
+
+bil 27 飛馬來西亞
+g0v 7/20 大松 ＠ 台北
+- 要不要改 6 月初 [name=bil]
+- 6/1 or 2
+- 6/22 (GlobalFact 24~26)
+- 端午 6/10 (一)
+
+----
+
+- [ ] 日期：
+- [ ] 食物：
+- [ ] 場地：NPO Hub foundry or forum
+    - 新北青職基地有一個 G-force 把 1F 整週都借掉了；6/1, 2 的一樓也已經被借走
+    - NPO Hub 6 月 quota 還有
+- [x] 時間：
+	- 活動時間：14:00 - 17:00
+	- 時間分配
+        - 2:00 - 2:20 開場
+            - 影片
+            - Slido 暖身
+        - 2:20 - 2:40 引導註冊網站、介紹評價現有回應
+        - 2:40 - 2:50 實作評價
+        - 2:50 - 3:10 介紹補充資訊
+        - 3:10 - 3:40 實作補充資訊、自我介紹、休息
+        - 3:40 - 4:10 介紹撰寫新回應
+        - 4:10 - 4:40 實作撰寫新回應
+        - 4:40 - 5:00 介紹分類、RSS、合照
+- [ ] 投放目標：
+  - 推播日：
+  - 推播日之前：新北志工優先報名
+  - 目標：雙北、桃園？
+- [ ] KKTIX:https://cofacts.kktix.cc/events/cofactseditor42
+- [ ] 誰會來呢：bil, mrorz, nonumpa
+- [ ] 記得帶：貼紙、環保杯
+- [ ] LINE 文案
+- [ ] VOOM 發文
 
 
