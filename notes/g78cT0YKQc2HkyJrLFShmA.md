@@ -81,8 +81,12 @@ http://www.ca.gov.mo/files/PA4119cn.pdf
 有咩問題，係呢度寫，時間到了，自然會有人回答你。或者去[澳門公務員Secrets](https://www.facebook.com/CivilServantSectets.macau)提問，都可以使用放大鏡搜尋過往相關的話題。又或者到呢度睇下收集的問題：[正苦工問題集](https://docs.google.com/document/d/1CMnw_J-lqW1LoAESxu-IrGieoqcqd14K9kXrRzfVHUY/edit?usp=sharing)。
 
 ### 問題
-
 答案
+
+
+### 想請問一下大家260面試，被問及到點解想考政府/該部門，有冇一啲答題思路可以分享？謝謝
+
+老實講（衰左唔好怪我）
 
 ### 各位，其實資料審查會唔會唔通過架?因為我收到一個局的offer，都交左資料去審查，等緊佢電話約入職時間，但最近我又收到另一個局的offer，叫我唔做就去簽紙，咁我第一個局的資料審查又未出黎，我應唔應該去簽第二局的拒絕紙?一直拖又唔好意思，但又怕第一個局有問題，想問下大家經驗，資料審查會唔會唔通過架，定係交晒資料，其實就係走個程序。
 

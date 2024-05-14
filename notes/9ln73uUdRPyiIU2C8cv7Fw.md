@@ -1,3 +1,35 @@
-# Diffusion Model整理
+# Diffusion Model相關技術
+### template
+* Category:
+* Introduction:
+* Advantages:
+* Disadvantages:
+* Link:(paper, github, introduction articles or videos...)
 
-## Stable Diffusion model
+## Stable Diffusion Model
+* Category: Base model
+* Introduction:使用latent diffusion作為基本架構，訓練在internet-scale dataset上，有強大的
+* Advantages:結果多樣性強，並且質量高
+* Disadvantages:要達到其他特殊目的需要通過其他技術處理
+* Link:
+
+## Zero 1-to-3
+* Category: Finetune
+* Introduction:使用大量多視角data做finetune，並在輸入引入camera pose，使模型能生成有一致性的novel views
+* Advantages:有感知方向的能力，用在3D reconstruction任務中時可以保持目標的consistency
+* Disadvantages:由於經過大量data finetune，可能失去原本的能力，比如多樣性及高質量的結果
+* Link:
+
+## Text Inversion
+* Category: embedding optimization
+* Introduction:
+* Advantages:
+* Disadvantages:
+* Link:
+
+## Dreambooth
+* Category: Finetune
+* Introduction:
+* Advantages:
+* Disadvantages:
+* Link:
