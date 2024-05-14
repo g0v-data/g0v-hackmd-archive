@@ -11,5 +11,5 @@ Tiến lên miền Nam: Một trong những trò chơi phổ biến nhất, đò
 Mậu binh xập xám: Trò chơi phổ biến ở Việt Nam, đòi hỏi tính toán và chiến thuật để giành chiến thắng.
 Catte: Trò chơi truyền thống đầy thách thức, yêu cầu sự nhạy bén và chiến lược từ người chơi.
 Với thông tin chi tiết và sự đa dạng của 68 Game bài tại [Aev99 Đăng nhập](https://aev99.help/68-game-bai/), cược thủ có thể tự tin lựa chọn trò chơi phù hợp với mình. Chúc các bạn gặp nhiều may mắn và thành công trên hành trình chinh phục bàn bài trong thế giới đổi thưởng trực tuyến này.
-Xem thêm: https://aev99.help/68-game-bai/
+Xem thêm: https://aev99.help/
 #aevb99 #nhacaiaev99 #trangchuaev99 #linkaev99 #aev99help
