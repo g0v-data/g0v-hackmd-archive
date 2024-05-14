@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20240523 FtO organizers meeting notes](../notes/r1UffrFgTwWhsTUFybi6ig.md) | 2024-05-14T12:29:14+08:00 | 2024-05-14T12:25:30+08:00 |
+| 1 | [20240523 FtO organizers meeting notes](../notes/r1UffrFgTwWhsTUFybi6ig.md) | 2024-05-14T21:22:08+08:00 | 2024-05-14T12:25:30+08:00 |
 | 2 | [20240505 FtO organizers meeting notes](../notes/sNsttr8kTC2PLl9Ahr09vQ.md) | 2024-05-14T12:29:11+08:00 | 2024-05-05T17:45:31+08:00 |
 | 3 | [FtO 2024 Yokohama](../notes/VCTm63nQQl6Rh3r_yKjmbw.md) | 2024-05-11T10:07:14+08:00 | 2024-03-20T11:12:07+08:00 |
 | 4 | [Meetup with g0vers hosted by 浩志會: Growing public mind in the age of individuals.](../notes/amGF_30tRee8tcVVzurTAw.md) | 2024-05-09T16:14:32+08:00 | 2024-04-30T14:54:38+08:00 |
