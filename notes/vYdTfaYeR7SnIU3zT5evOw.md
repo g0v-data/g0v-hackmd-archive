@@ -488,7 +488,8 @@ https://g0v.hackmd.io/I39BvrYBT3GIU399sZHeqg
 
 ### 工作小組介紹
 - 成立背景：2012-2016 年間，大松由 clkao ipa 手工化主辦，2016 年後擴大參與成立揪松團
-    - 以專注社群基礎建設為主要任務
+- 工作重點：
+    - 以專注社群基礎建設與黑客松籌辦
         - 實體活動：
             - 舉辦大松：兩個月舉辦一次百人黑客松
             - 基礎松：不定期舉辦針對社群基礎建設的小型黑客松
@@ -498,18 +499,21 @@ https://g0v.hackmd.io/I39BvrYBT3GIU399sZHeqg
         - 線上協作相關：
             - g0v.hackmd（感謝 HackMD 支援）
             - AWS 費用支出
-            - flikr 費用支出
+            - flickr 費用支出
             - 揪松職工製作每月社群月報，並邀請社群共編
             - 製作年度成果報告，並於報告中說明財務資訊
     - 募款
-        - 主動向社會個人募款
+        - 主動向推廣募款，向社會各界與個人宣傳
         - 與 OCF 合作金流與帳務
+            - OCF 提供給揪松團的 共用硬碟空間是 1T
+                - 2024.05.14 目前已使用約 330 G
         - 不定期開發義賣品
 - 揪松團網站：https://jothon.g0v.tw/
-- 邀請制：https://g0v.hackmd.io/qvr3X9bcSUSReVjsWZOYJA
-- 目前成員：(2023/09)
-    - 志工：Ipa Clkao Kirby Isabel Ronny chewei ky
-    - 職工：Ying Tiff Yi
+- 揪松團成員
+    - 邀請制：https://g0v.hackmd.io/qvr3X9bcSUSReVjsWZOYJA
+    - 目前成員：(2023/09)
+        - 志工：Ipa Clkao Kirby Isabel Ronny chewei ky
+        - 職工：Ying Tiff Yi
 
 ### 決策機制
 - 揪松團工作清單，公開可瀏覽網址如下：
