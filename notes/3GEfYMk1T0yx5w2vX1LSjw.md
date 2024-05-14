@@ -250,8 +250,9 @@ For more information on using the Cirrent Agent, please visit
 https://support.cirrent.com
 
 
-Supports - BTS Version
+Supports
 ======================================================
+### BT shared SDIO information
 BTS_VERSION: 1.1.1
 
 

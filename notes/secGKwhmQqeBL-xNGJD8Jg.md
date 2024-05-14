@@ -38,4 +38,33 @@ C
 
 VPN 只支援1.25Gb 頻寬
 
-ＶＯ
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d428df1fd05d47c5ad59fe6128778dbb.png)
+VPC endpoint 成本、效能、安全 (走專線，避免繞到外面）
+DTO: data transfer out
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_84e8bd1dfde441b378fe0bd617a218b9.png)
+Ｃ
+
+VPC PEERING : 網段全開
+VPC ENDPOINT：只開單一點
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_383e6c3dfc0e8f57ca9d25b2e05925d4.png)
+下面那個可以看錢跟用量
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c4997537e3dfcb084d37f9e30a04dfce.png)
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_12d63a22cd82f5d3a07840131f6f4b87.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ad45215a380aa696b40069b86497527f.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b7a5edafefbf4445b6c0d8203fcbd7c2.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_254a97fd3e94528464dcee257052136e.png)
+Ａ
+Seystem manager session Manager 透過轉port方式處理
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_77a071c6674578bfcd4fd547380f2f12.png)
