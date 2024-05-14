@@ -1,7 +1,7 @@
 ---
-tag: FtO
+tags: FtO, g0v-intl
 ---
-# 20240505 FtO organizers meeting note
+# 20240505 FtO organizers meeting notes
 
 ## Sign-in
 - chihao
