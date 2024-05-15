@@ -80,6 +80,7 @@ tags: 新生流域
     - 重要 1948 大安橋 https://www.facebook.com/share/p/UX1KRHgiGQinhk3x/
     - 重要 照片 1950 新生大排 仁愛路口附近 https://www.facebook.com/photo.php?fbid=2375408632496687&vanity=FormosaMuseum&slug=a.129976463706593
     - 重要 照片 新生大排 https://memory.culture.tw/Home/Detail?Id=701215&IndexCode=online_metadata
+    - 重要 照片 1960 新生大排 https://www.facebook.com/FormosaMuseum/photos/a.129976463706593/4722026494501544/?type=3&locale=hi_IN
     - 重要 照片 1963 新生大排 https://memory.culture.tw/Home/Detail?Id=572348&IndexCode=online_metadata
     - 重要 照片 新生南路加蓋 https://memory.culture.tw/Home/Detail?Id=548886&IndexCode=online_metadata
     - 聖家堂 歷史 http://cl-design.com.tw/CL/image/web/catholic_web/about/brief_if.html
@@ -90,8 +91,11 @@ tags: 新生流域
     - 影片 01:55 台大鳥瞰https://youtu.be/fyXjkOdDHUQ
     - 重要 照片 1956 新生南路三段,海源冰店 便橋 https://m.mobile01.com/topicdetail.php?f=37&t=5053330
     - 預計在 FB 社團開一個考究相簿 
-        - https://m.mobile01.com/topicdetail.php?f=37&t=5053330
+        - https://shulinkou.tripod.com/rlbenjo1.jpg
+        - https://www.mobile01.com/topicdetail.php?f=37&t=5053330
         - https://matters.town/@tony100187/370090-%E5%B3%B6%E5%9C%96%E6%8B%BE%E5%BD%B1-01-%E5%8F%B0%E5%8C%97-%E5%A0%80%E5%B7%9D-1940-bafybeigmdjpg7no3sezpg2z45f3ytvfztqlar4ndqhlw7nx75jhzje6ski
+        - https://blog.udn.com/mobile/webman/22693317
+        - https://zh.m.wikipedia.org/zh-tw/File:Taipei_river_3.jpg
     - 照片 1957 基隆河與松山機場 https://www.facebook.com/photo?fbid=10156351515638618
     - 畫作 1985 顏水龍 基隆河畔 https://www.facebook.com/story.php?story_fbid=pfbid035synKUXtaaWfMzzndPsaVf75jUfdsbQDHzfwnEvd9hN66SBy6HUzrrhH4H8SNV2Yl&id=747873617
     - 1957-1958 影片 2:40、3:02、 https://youtu.be/D1-d3Pr8Teo
@@ -214,10 +218,14 @@ tags: 新生流域
 - 輕軌與水景 https://www.facebook.com/share/r/oBtDv6wBgdAXerEf/
 - 雲林溪 https://www.facebook.com/story.php?story_fbid=pfbid02fL8Ww5ZL4WP2XEEeiXYEv4tFRzgcJtHcvM4ZSYNGyN7h1vKWTc1r5YAUZM5UdK6rl&id=100067220707427&mibextid=qC1gEa
 - 柳川運河的故事：https://m.bilibili.com/video/BV1wx411t73Z
+- 東京 深川地區 https://www3.nhk.or.jp/nhkworld/zt/shows/2102008/
 - 鴨川 https://www3.nhk.or.jp/nhkworld/zt/ondemand/video/2029183/
 - 大阪道頓堀川
 - 小樽運河 https://www.facebook.com/story.php?story_fbid=pfbid0fWqKvARQUNmFQBVEtVJF7CFKVJVCbCQ4wrbqnZqGAQwfWgEsoke6mr2PSLEHMzMsl&id=100064523206796&mibextid=qC1gEa
-    - 這本書主要是描述 １９７０年代日本北海道推動社區營造的過程，在建設開發的過程中，地方居民的參與產生了極大的力量，例如：函館禁止蓋高樓，才會有今日世界上最有名的夜景，小樽海港留下來的倉庫與保存這條小運河，才有今日觀光的人潮。當然這些是地方與政府努力協商討論的結果，有些地方人士還是不滿意，但是至少在互相討論、衝突之中不斷地找尋地方特色 http://trip.writers.idv.tw/2007/07/blog-post_4328.html?m=1
+    - 這本書主要是描述 １９７０年代日本北海道推動社區營造的過程，在建設開發的過程中，地方居民的參與產生了極大的力量，例如：函館禁止蓋高樓，才會有今日世界上最有名的夜景，小樽海港留下來的倉庫與保存這條小運河，才有今日觀光的人潮。當然這些是地方與政府努力協商討論的結果，有些地方人士還是不滿意，但是至少在互相討論、衝突之中不斷地找尋地方特色 http://trip.writers.idv.tw/2007/07/blog-post_4328.html
+- 日本街區排水溝養魚
+    - https://www.reddit.com/r/BeAmazed/comments/5xgvjb/drainage_canal_in_japan_is_so_clean_they_even/
+    - https://www.nairaland.com/4534180/photos-prove-japan-not-like/2
 - 清邁 https://www.travelerluxe.com/article/desc/230009056
 - 無車化方案的表現方法 Hamburgs famous Köhlbrand Bridge
     - https://www.facebook.com/visualutopias/posts/pfbid02EP9WzGwN7T4X9r9xN7oPskyjYFM8647xh6GaQgSAPN1pKw4rbX2guPbRDDu7BfgGl

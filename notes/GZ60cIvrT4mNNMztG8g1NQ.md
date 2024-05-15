@@ -182,6 +182,8 @@ https://www.facebook.com/share/p/uGRNQ8RjfiK63pbL/?mibextid=K35XfPm2BggnwpGriG8C
 內湖淹水老照片
 https://www.facebook.com/share/p/uGRNQ8RjfiK63pbL/?mibextid=K35XfP
 
+葛樂禮颱風 http://ustdc.blogspot.com/2008/06/typhoon-gloria-1963.html
+
 監測相機，也拍下地震景象
 https://www.facebook.com/share/v/VAHdK19e69uFixqC/
 
