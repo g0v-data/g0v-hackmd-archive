@@ -1,6 +1,6 @@
 # VTC6232紀錄
 ###### tags: VTC6232
 
-Based on MV23-014(VTC6231(ASL_001))
+Based on MV23-014(VTC6231/ASL_001)
 
-1.Add 
+1.Modify SMBIOS
