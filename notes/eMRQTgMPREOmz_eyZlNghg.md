@@ -1,15 +1,45 @@
-# 後端平台-功能介紹 v1.3
+# 後端平台-功能介紹 v2.3
 
+## DEV
 | 環境 | 網址 | DNS | IP | 備註 |
 | - | - | - | -| -|
-| dev | https://devcms.wonwongames.com/#/cms/login?tag=cms_wonwon | API-DEV | 192.168.4.150 | 管理者登入口 cms_wonwon/pm/qa/gm/platform|
-| dev | https://devcms.wonwongames.com/ | API-DEV | 192.168.4.150 | 平台登入口 |
-| stg | https://stgcms.wonwongames.com/#/cms/login?tag=cms_wonwon | API-DEV | 192.168.4.160 |管理者登入口|
-| stg | https://stgcms.wonwongames.com/#/ | API-QA | 192.168.4.160 |平台登入口|
-| uat | https://uatcms.wonwongames.com/#/cms/login?tag=cms_wonwon | API-DEV |  |管理者登入口|
-| uat | https://uatcms.wonwongames.com/#/login | API-DEV |  |平台商登入口|
-| prod | https://cms.wonwongames.com/#/cms/login?tag=cms_wonwon | API-DEV |  |管理者登入口|
-| prod | https://cms.wonwongames.com/#/login | API-DEV |  |平台商登入口|
+| dev | https://devcms.wonwongames.com/#/cms/login?tag=cms_wonwon | API-DEV | 192.168.4.150 | 管理者登入口 |
+| dev | https://devcms.wonwongames.com/#/cms/login?tag=qa | API-DEV | 192.168.4.150 | QA登入口 |
+| dev | https://devcms.wonwongames.com/#/cms/login?tag=gm | API-DEV | 192.168.4.150 | 客服登入口 |
+| dev | https://devcms.wonwongames.com/#/cms/login?tag=pm | API-DEV | 192.168.4.150 | 企劃登入口 |
+| dev | https://devcms.wonwongames.com/#/cms/login?tag=ops | API-DEV | 192.168.4.150 | 維運入口 |
+| dev | https://devcms.wonwongames.com/ | API-DEV | 192.168.4.150 | 平台登入口/登出一律切到這 |
+
+## STG
+| 環境 | 網址 | DNS | IP | 備註 |
+| - | - | - | -| -|
+| stg | https://stgcms.wonwongames.com/#/cms/login?tag=cms_wonwon | API-QA | 192.168.4.160 | 管理者登入口 |
+| stg | https://stgcms.wonwongames.com/#/cms/login?tag=qa | API-QA | 192.168.4.160 | QA登入口 |
+| stg | https://stgcms.wonwongames.com/#/cms/login?tag=gm | API-QA | 192.168.4.160 | 客服登入口 |
+| stg | https://stgcms.wonwongames.com/#/cms/login?tag=pm | API-QA | 192.168.4.160 | 企劃登入口 |
+| stg | https://stgcms.wonwongames.com/#/cms/login?tag=ops | API-QA | 192.168.4.160 | 維運入口 |
+| stg | https://stgcms.wonwongames.com/ | API-QA | 192.168.4.160 | 平台登入口/登出一律切到這 |
+
+## UAT
+| 環境 | 網址 | DNS | IP | 備註 |
+| - | - | - | -| -|
+| uat | https://uatcms.wonwongames.com/#/cms/login?tag=cms_wonwon | 自動-DNS/API-DEV |  | 管理者登入口 |
+| uat | https://uatcms.wonwongames.com/#/cms/login?tag=qa | 自動-DNS/API-DEV |  || QA登入口 |
+| uat | https://uatcms.wonwongames.com/#/cms/login?tag=gm | 自動-DNS/API-DEV |  | 客服登入口 |
+| uat | https://uatcms.wonwongames.com/#/cms/login?tag=pm | 自動-DNS/API-DEV |  | 企劃登入口 |
+| uat | https://uatcms.wonwongames.com/#/cms/login?tag=ops | 自動-DNS/API-DEV |  | 維運入口 |
+| uat | https://uatcms.wonwongames.com/ | 自動-DNS/API-DEV |  | 平台登入口/登出一律切到這 |
+
+## PROD
+| 環境 | 網址 | DNS | IP | 備註 |
+| - | - | - | -| -|
+| prod | https://cms.wonwongames.com/#/cms/login?tag=cms_wonwon | 自動-DNS/API-DEV |  | 管理者登入口 |
+| prod | https://cms.wonwongames.com/#/cms/login?tag=qa | 自動-DNS/API-DEV |  | QA登入口 |
+| prod | https://cms.wonwongames.com/#/cms/login?tag=gm | 自動-DNS/API-DEV |  | 客服登入口 |
+| prod | https://cms.wonwongames.com/#/cms/login?tag=pm | 自動-DNS/API-DEV |  | 企劃登入口 |
+| prod | https://cms.wonwongames.com/#/cms/login?tag=ops | 自動-DNS/API-DEV |  | 維運入口 |
+| prod | https://cms.wonwongames.com/ | 自動-DNS/API-DEV |  | 平台登入口/登出一律切到這 |
+
 
 # 功能列表
 ## 首頁
@@ -30,15 +60,14 @@
       - 遊戲設定
       - 廠商設定
       - 玩家設定
-    - 遊戲設定 - 遊戲 開放/維護/關閉/ 黑白名單(待開發)
-    - 遊戲維護設定 - 維護相關總設定(待開發)
+    - 遊戲相關設定 - 遊戲 開放/維護/關閉/ 各遊戲相關設定
   - 廠商設定
     - 廠商管理(待開發)
     - 站點管理(待開發)
   - 代理功能 - 開放給代理使用的查詢功能
-    -  帳號列表(開發中)
-    -  轉帳訂單列表(開發中)
-    -  週期總報表(開發中)
+    -  帳號列表
+    -  轉帳訂單列表
+    -  週期總報表
 ## 2 - 右側頭像選單
   - 修改密碼 - 修改登入者密碼
   - 錯誤代碼列表 - 管理者才顯示功能,方便快速查詢
