@@ -10,7 +10,7 @@ This dataset include two kinds of data:
 
 For more comprehensive list of political entities see this [Google Spreadsheet(zh-tw)](https://docs.google.com/spreadsheets/d/1PMhykVROyduS-yZS8Xdt0zB2_GGBTxowsej0PRnWwM0/edit?usp=sharing). Ｗe uplopaded the dataset to [HuggingFace-private]() to save researchers the steps of applying for data.
 
-### Accounts
+### Author
 | Field | Description |
 | ----- | ----------- |
 | author_id      | Id of Facebook fan page or personal Facebook account            |
