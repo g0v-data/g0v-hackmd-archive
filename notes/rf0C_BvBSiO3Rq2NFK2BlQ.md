@@ -128,14 +128,13 @@ The problem:
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c9ac7be10366150253e8840baea35ea6.png)
 
 - 五層架構中第四層(傳輸層)的protocol
-- 對訊息做Fragment (message 🡪 segments)，並將segments分開在不同封包傳送
 - 每個封包在傳送時都做獨立處理，並給序號(sequence number)註明是第幾個byte
-- 支援可靠性(reliable)
+- 傳輸可靠性(reliable)
 - TCP Header : 20 bytes
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7990be22a00d20a1592d556079b82d4d.png)
 ### Flag fields
-- SYN/ACK, FIN :確認是否能連線
+- SYN:確認是否能連線
 - ACK:回應
 - FIN:結束
 - RST :Reset(緊急情況直接reset)
