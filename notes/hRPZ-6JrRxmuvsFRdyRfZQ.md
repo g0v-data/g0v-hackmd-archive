@@ -3,4 +3,4 @@
 
 Based on MV23-014(VTC6231/ASL_001)
 
-1.Modify SMBIOS
+Add SMBIOS info

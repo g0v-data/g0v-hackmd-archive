@@ -83,9 +83,11 @@ The problem:
 -  第二行用於重新組裝分片的 IP 封包
 -  TTL:初始的TTL 值，一般為64 或128，每經過一台路由器，TTL 的數值就會減一。當TTL 的值減至零時，封包會被丟棄，並向發送者發送ICMP "Time Exceeded"訊息。
 -  Protocol:指IP 封包中的資料部分是使用的哪種協議，以便接收方能夠正確地解析和處理資料。
-- Header checksum:一個16位元的字段，用於驗證IPv4 資料封包頭部的完整性。
+- Header checksum:一個16位元的字段，用於驗證IPv4 資料封包頭部的完整性，當一個IP封包從一個地方發送到另一個地方時，每個路由器或主機都可以檢查封包的檢查總和，以確保封包的完整性。
 - ipv4 IP Address有32bit
 - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_95e6f83fd6d54356519b7264a2ad225a.png)
+
+- BUT 2^32=4294967296，ipv4不夠現代人使用，所以出現了ipv6
 
 ## IPv6 Packet Header
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d95493f7cca0710fbef3b61dfa7bfad4.png)
@@ -94,13 +96,14 @@ The problem:
 - next header(Protocol):IPv6 有許多下一個標頭，每個標頭透過下一個標頭欄位連結到下一個標頭
 - hop limit:最多可以經過幾個router(對應ipv4的TTL)
 - Source and Destination Addresses are 128 bits long.
-- 跟IPv4相比缺少packet fragmentation，過大的packet不做分割，直接丟掉
+- 跟IPv4相比缺少packet fragmentation(因為ipv6的最大傳輸單位設的比降大)，過大的packet不做分割，直接丟掉
 - ipv6沒有checksum
 ## Writing IPv6 Addresses
 - IPv4 address:
     - 將 32 位元位址分為四個 8 位元段。
     - 將每個段轉換為十進制數。
     - 在各段之間放置點。
+    - 163.22.10.2
 - IPv6 address:
     - 將每 4 位元轉換為十六進位符號(二進位轉十六進位)
     - 以小寫形式書寫字母符號 (a … f)
@@ -124,7 +127,7 @@ The problem:
 ## TCP
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c9ac7be10366150253e8840baea35ea6.png)
 
-- 五層架構中第四層的protocol
+- 五層架構中第四層(傳輸層)的protocol
 - 對訊息做Fragment (message 🡪 segments)，並將segments分開在不同封包傳送
 - 每個封包在傳送時都做獨立處理，並給序號(sequence number)註明是第幾個byte
 - 支援可靠性(reliable)
@@ -132,7 +135,9 @@ The problem:
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7990be22a00d20a1592d556079b82d4d.png)
 ### Flag fields
-- SYN/ACK, FIN :同步與回應、結束
+- SYN/ACK, FIN :確認是否能連線
+- ACK:回應
+- FIN:結束
 - RST :Reset(緊急情況直接reset)
 - PSH :Push(提醒應用層已經把所有訊息傳給TCP、TCP要將完整訊息傳出去)
 - URG :(urgent緊急的，設成1時優先給應用層)

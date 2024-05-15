@@ -13,13 +13,6 @@
 * Disadvantages: 要達到其他特殊目的需要通過其他技術處理
 * Link:
 
-## Zero 1-to-3
-* Category: Finetune
-* Introduction: 使用大量多視角data做finetune，並在輸入引入camera pose，使模型能生成有一致性的novel views
-* Advantages: 有感知方向的能力，用在3D reconstruction任務中時可以保持目標的consistency
-* Disadvantages: 由於經過大量data finetune，可能失去原本的能力，比如多樣性及高質量的結果
-* Link:
-
 ## Text Inversion
 
 * Category: embedding optimization
