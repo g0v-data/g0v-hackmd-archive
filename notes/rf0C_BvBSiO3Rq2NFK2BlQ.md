@@ -96,7 +96,7 @@ The problem:
 - next header(Protocol):IPv6 有許多下一個標頭，每個標頭透過下一個標頭欄位連結到下一個標頭
 - hop limit:最多可以經過幾個router(對應ipv4的TTL)
 - Source and Destination Addresses are 128 bits long.
-- 跟IPv4相比缺少packet fragmentation(因為ipv6的最大傳輸單位設的比降大)，過大的packet不做分割，直接丟掉
+- 跟IPv4相比缺少packet fragmentation(因為ipv6的最大傳輸單位設的比較大)，過大的packet不做分割，直接丟掉
 - ipv6沒有checksum
 ## Writing IPv6 Addresses
 - IPv4 address:
