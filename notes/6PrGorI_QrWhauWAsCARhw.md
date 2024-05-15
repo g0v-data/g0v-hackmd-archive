@@ -11,54 +11,37 @@ This dataset include two kinds of data:
 For more comprehensive list of political entities see this [Google Spreadsheet(zh-tw)](https://docs.google.com/spreadsheets/d/1PMhykVROyduS-yZS8Xdt0zB2_GGBTxowsej0PRnWwM0/edit?usp=sharing). Ｗe uplopaded the dataset to [HuggingFace-private]() to save researchers the steps of applying for data.
 
 ### Author
-| Field | Description |
-| ----- | ----------- |
-| author_id      | Id of Facebook fan page or personal Facebook account            |
-| party      | The party name for this political entity belong to            |
-| name      | Name of political entity, not the name of Facebook fanpage          |
-| title      | Name of role, position title, occupation           |
-| electoral_district      | Electoral district of 2024 election           |
-| url      | Link to Facebook fan page or personal Facebook account for the political entity  |
-| doc_count      | Count of post in this dataset           |
+| Field               | Description                                                           |
+|---------------------|-----------------------------------------------------------------------|
+| author_id           | Id of Facebook fan page or personal Facebook account                  |
+| party               | The party name for this political entity belong to                    |
+| name                | Name of political entity, not the name of Facebook fanpage            |
+| title               | Name of role, position title, occupation                              |
+| electoral_district  | Electoral district of 2024 election                                   |
+| url                 | Link to Facebook fan page or personal Facebook account                |
+
+
+
+
 
 ### Docs
-| Field | Description |
-| -------- | -------- |
-| doc_id       | Facebook post id         |
-| doc_published_at | Publish time of the Facebook post         |
-| doc_url         | Link to the Facebook post         |
-| doc_text         | Content of the Facebook post         |
-| doc_type         | Type of the doc       |
-| doc_reaction_count         | Count of all kinds of reaction(like, angry, haha... etc)         |
-| doc_comment_count         | Count of comment         |
-| doc_share_count         | Count of share         |
-| doc_like_count         | Count of reaction: 👍 like        |
-| doc_angry_count         | Count of reaction: 😡 angry         |
-| doc_haha_count         | Count of reaction: 😆 haha         |
-| doc_love_count         | Count of reaction: 🥰 love         |
-| doc_sad_count         | Count of reaction: 😢 sad         |
-| doc_support_count         | Count of reaction: 🤗 support         |
-| quote_url         | Shared link in the post         |
-| quote_title         | Title of shared link         |
-| quote_text         | Text of shared link         |
-| quote_type         | Shared type         |
-
-#### doc_type
-| Type | Description |
-| -------- | -------- |
-| post       | Only text be included         |
-| link       | Text which includes URL         |
-| photo       | Text which includes photo         |
-| video       | Text which includes video         |
-| share       | Sharing text from other doc or platform         |
-| album       | ...         |
-
-
-
-
-
-
-
-
-
-
+| Field                 | Description                          |
+|-----------------------|--------------------------------------|
+| doc_id                | Facebook post id                     |
+| doc_published_at      | Publish time of the Facebook post    |
+| doc_url               | Link to the Facebook post            |
+| doc_text              | Content of the Facebook post         |
+| doc_type              | Type of the doc                      |
+| doc_reaction_count    | Count of all kinds of reaction(like, angry, haha... etc) |
+| doc_comment_count     | Count of comment                     |
+| doc_share_count       | Count of share                       |
+| doc_like_count        | Count of reaction: 👍 like           |
+| doc_angry_count       | Count of reaction: 😡 angry          |
+| doc_haha_count        | Count of reaction: 😆 haha           |
+| doc_love_count        | Count of reaction: 🥰 love           |
+| doc_sad_count         | Count of reaction: 😢 sad            |
+| doc_support_count     | Count of reaction: 🤗 support        |
+| quote_url             | Shared link in the post              |
+| quote_title           | Title of shared link                 |
+| quote_text            | Text of shared link                  |
+| quote_type            | Shared type                          |
