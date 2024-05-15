@@ -58,6 +58,8 @@ A Comprehensive Survey on 3D Content Generation 2024-01
 ## Fantasia3D
 * Introduction: disentangled geometry and appearance modeling
 
+## DreamControl（CVPR2024）
+* Introduction: 2D diffusion model的訓練資料有viewpoint bias（大多數都是front View）,這導致2D prior-based 3D generation在例如back view缺乏fidelity。這篇文章提出adaptive viewpoint sampling and boundary integrity metric來減輕inconsistent generation。同時control-based score distillation to maintain geometries in self-prior。
 DreamComposer: Controllable 3D Object Generation via Multi-View Conditions
 
 Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting
