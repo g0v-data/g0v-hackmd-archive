@@ -73,9 +73,15 @@ tags: 新生流域
     - 1930 古亭市場 http://linchunsheng.blogspot.com/2011/02/blog-post_05.html
     - 住宅 https://www.facebook.com/share/p/Nn41VWhUuaLkPzra/?mibextid=WC7FNe
     - 師大校區附近 舊照片 https://www.facebook.com/share/amDFgDNNDrzzKVZk/
+    - 古莊里 農業時期照片 https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
     - 照片 https://www.facebook.com/share/p/6MDNVrM36K6KhbuM/
     - 照片 https://www.facebook.com/share/p/ivdDxFZRiP231DZL/
     - 照片 建國啤酒廠 https://www.facebook.com/share/rooSpYXJMWnnLBf8/
+    - 重要 照片 新生大排 https://memory.culture.tw/Home/Detail?Id=701215&IndexCode=online_metadata
+    - 重要 照片 1963 新生大排 https://memory.culture.tw/Home/Detail?Id=572348&IndexCode=online_metadata
+    - 重要 照片 新生南路加蓋 https://memory.culture.tw/Home/Detail?Id=548886&IndexCode=online_metadata
+    - 聖家堂 歷史 http://cl-design.com.tw/CL/image/web/catholic_web/about/brief_if.html
+    - 照片 懷恩堂 https://memory.culture.tw/Home/Detail?Id=631088&IndexCode=online_metadata
     - 影片 56:46 段落，提到 北科大校門歷年移動，與大排有關 https://youtu.be/fyXjkOdDHUQ
     - 影片 01：05:29 有北科大校門水路照片 https://youtu.be/fyXjkOdDHUQ
     - 影片 06:05 有北科大北側水路，特一號大排尚未興建 https://youtu.be/0tK0gkDIi54
@@ -90,6 +96,7 @@ tags: 新生流域
     - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577631785995/
     - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577645119327/
     - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577645119327/
+    - 照片 光華橋 https://memory.culture.tw/Home/Detail?Id=2270370&IndexCode=online_metadata
     - 1968 南京新生路口，照片 https://www.facebook.com/104339821634619/posts/pfbid02WJy6KE9khYPRbEzAdVZEwVHKdJhd8gHnmUWsVebJHU922x3jSrVSZ1A3sWge1QPHl/?mibextid=cr9u03
     - 中崙福順宮 鄰接著 給水路 https://maps.app.goo.gl/VGUmitiHJJNGxdyh8
     - 照片，建國高架興建中與大安森林公園位置
@@ -101,6 +108,7 @@ tags: 新生流域
         - https://www.facebook.com/193313627448659/posts/pfbid02ZRijs3x5TmB4iEM83kRuG8NBRtjkXCXMD21Q6ju2p9BKRUaAxpNZxJTRvHTeQL8pl/?mibextid=cr9u03
     - 19 南京新生 https://www.facebook.com/groups/1464346490494897/permalink/3172352329694296/?comment_id=3172415869687942&mibextid=S66gvF
         - 留言串也有一張，建物與大排溝渠
+    - 新生南路 廢棄電玩設備 https://memory.culture.tw/Home/Detail?Id=2272045&IndexCode=online_metadata
     - 中山女中 歷史 https://www.facebook.com/photo.php?fbid=914165563834754&set=a.530768725507775&type=3
     - 1978 照片 https://www.facebook.com/story.php?story_fbid=pfbid0Ypt5RJbMoKdVWJHzibUm4C7wZVujBfCAyAqtvDqGZgUEuSvzoMMUaAHfW5p5CUsl&id=747873617&mibextid=qC1gEa
     - 1970 美軍設施地圖
