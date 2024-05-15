@@ -1,9 +1,4 @@
 # AIGC 3D相關技術
-## Overview
-1. 3D native generative methods：完全使用3D dataset訓練
-2. 2D prior-based 3D generation：使用2D diffusion prior幫助生成未知的View
-3. hybrid 3D generative methods：比如zero 1to3，將2D diffusion model finetune在3D dataset上
-
 ### template
 * Category:
 * Introduction:
@@ -11,6 +6,12 @@
 * Disadvantages:
 * Link:(paper, github, introduction articles or videos...)
 
+## Overview
+1. 3D native generative methods：完全使用3D dataset訓練
+2. 2D prior-based 3D generation：使用2D diffusion prior幫助生成未知的View
+3. hybrid 3D generative methods：比如zero 1to3，將2D diffusion model finetune在3D dataset上
+## Survey
+A Comprehensive Survey on 3D Content Generation 2024-01
 
 ## Dreamfusion
 * Category: Text to 3D
@@ -50,6 +51,12 @@
 * Introduction: 使用GPT-4V幫助評量Tto3D model
 
 ## HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D
+
+## ProlificDreamer
+* Introduction: 使用variational score distillation來解決oversaturation and low diversity issues。可以把VSD想象成引入一個關於diffusion model參數的distribution，每次從這個distribution中sample出一個
+
+## Fantasia3D
+* Introduction: disentangled geometry and appearance modeling
 
 DreamComposer: Controllable 3D Object Generation via Multi-View Conditions
 

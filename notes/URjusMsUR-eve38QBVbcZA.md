@@ -1,0 +1,17 @@
+# 宣傳組傳承文件
+
+### 整組事項
+
+
+### 社群
+
+
+
+### 設計
+* 合作廠商清單
+
+### 媒體
+* [MailChimp 電子報傳承筆記](https://docs.google.com/document/d/1G0nyUHgFe9DXuqK1ObfMYc3YfLM3patVKv8NXIg9U90/edit#heading=h.2zo1m1l2felf)
+* 大專院校清單
+
+### 網站
