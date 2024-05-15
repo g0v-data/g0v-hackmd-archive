@@ -9,6 +9,9 @@ tags: GIS
 1950 年代地圖
 https://www.facebook.com/share/p/wZ7du6VDn61YnadK/
 
+1976 加蓋照片
+https://time.udn.com/udntime/story/122835/7647810
+
 20170603-04 客家公園地區舊水路踏查與後續行動方向
 踏查相簿網址：https://goo.gl/photos/duT3G1YVZBANoZNFA
 歷史地圖：https://goo.gl/YkcMqg
