@@ -410,8 +410,6 @@ This code uses the `flutter_appauth` package for OAuth 2.0 or Firebase Authentic
 Similar to the previous example, `MyApp` is a stateless widget with a `MaterialApp` containing a `Scaffold`. Inside the `Scaffold`, there's an `AppBar` and a `Center` widget with an `ElevatedButton`. When the button is pressed, it calls the `authenticateWithAppAuth()` function.
 `authenticateWithAppAuth()` is a placeholder function where you can implement OAuth 2.0 or Firebase Authentication.  Inside this function, you can use methods like `appAuth.authorizeAndExchangeCode` to initiate the OAuth flow or Firebase Authentication methods. In case of authentication failure, it prints the error.
 
-These examples demonstrate how to implement authentication using `flutter_auth0` for OAuth 2.0 authentication and `flutter_appauth` for OAuth 2.0 or Firebase Authentication. They provide a structured way to handle authentication in your Flutter app, allowing users to securely sign in and access your app's features.
-
 ## Compliance with Data Protection Regulations
 Adhering to data protection regulations is crucial in the context of Flutter security and updates. In the case of Flutter:
 
