@@ -357,6 +357,7 @@
 - 陳雪生	CHENHSUEN-SHENG	男	中國國民黨
 - 陳菁徽	Ching-Hui Chen	女	中國國民黨
 - 陳超明	CHEN CHAO MING	男	無黨籍
+  - [(請鍵入查詢「陳超明」)持有華邦電21股(華邦電為IC設計產業)、錸德124股(光電產業)、所羅門2,842股(電子零件代理業)、南茂4股(半導體封裝產業)](https://priq-out.cy.gov.tw/GipExtendWeb/wSite/SpecialPublication/baseList.jsp)
 - 陳瑩	Chen Ying	女	民主進步黨
 - 麥玉珍	MAIYU-CHEN	女	台灣民眾黨
 - 傅崐萁	FU KUN-CHI	男	中國國民黨
