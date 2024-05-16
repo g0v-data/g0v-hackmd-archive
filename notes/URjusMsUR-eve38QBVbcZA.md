@@ -3,13 +3,14 @@
 ### 整組事項
 
 
-### 社群
+### ▍社群
 * [社群媒體發文排程表](https://docs.google.com/spreadsheets/d/1Re9ODKJSaC5u0kUyZmpNim9m_ycxLvA9drCAn7wXBJA/edit?usp=sharing)
 * [OPass 推播訊息表](https://docs.google.com/spreadsheets/d/1CDrPOvJKggdiuHFuc4TJ3ejb2aArBUrcHplFDPHCZBA/edit?usp=sharing)
 
 
-### 設計
-#### 
+### ▍設計
+#### 數位產出相關
+[設計稿開源](https://drive.google.com/drive/folders/1ecXIIsHB1kaJdlkKHvdT7Otp5KDl3Run?usp=sharing)
 #### 紀念品相關
 * 歷屆資源：[物資盤點](https://docs.google.com/spreadsheets/d/1aMGt2QxSfaLWdgwHOxL81_72XjkLGwlgb0VYmpr-ipU/edit?usp=sharing)（詳見0505_盤點）
 * 本屆成品：[販售規劃](https://g0v.hackmd.io/IHqfjDG1QW-13huYCuA5wQ) 
@@ -18,29 +19,30 @@
 
 |  | 鏡頭防窺蓋 | 紀念T-shirt | 防水技能貼紙  |
 | -------- | -------- | -------- |-------- |
-| 開源     | [設計稿](https://drive.google.com/drive/folders/1BOCjUDOxM4PnPaou5dvDsD4jMCsAfE03?usp=sharing)     | [設計稿](https://drive.google.com/drive/folders/1M3Keo8gCx3SnJ-JnFSAOQ64A5mK_rC_8)    |Text     |
-| 合作廠商     | 拍拍手     | [玩美獨衣](https://www.152.com.tw/)    |Text     |
+| 開源     | [設計稿](https://drive.google.com/drive/folders/1BOCjUDOxM4PnPaou5dvDsD4jMCsAfE03?usp=sharing)     | [設計稿](https://drive.google.com/drive/folders/1M3Keo8gCx3SnJ-JnFSAOQ64A5mK_rC_8)    |[設計稿](https://drive.google.com/drive/folders/1plwTPGnTEVLWnpL6BY3jSq7DpydUHEOK?usp=sharing)     |
+| 合作廠商     | (窩找不到)    | [玩美獨衣](https://www.152.com.tw/)    |[千業](https://a083149.wixsite.com/cyprint)     |
 
-#### 大型輸出相關
+#### 大圖輸出相關
 * 歷屆資源：[2014](https://www.flickr.com/photos/g0v/albums/72157648811346290/with/15568996868) / [2016](https://www.flickr.com/photos/g0v/albums/72157667807482250/) / [2018](https://www.flickr.com/photos/g0v/albums/72157702985408685/) / [2020](https://www.flickr.com/photos/g0v/albums/72157717551224772/with/50762037233)
 * 本屆成品
-    * 設計稿開源：
+    * 設計稿開源：[背板、議程表、手拿板、手舉牌等](https://drive.google.com/drive/folders/1jTVjVxYHJPUQWZ00-RFv7DK_F1byu3U5?usp=sharing)
     * 其他文件： [場佈送印統計](https://docs.google.com/spreadsheets/d/1DHaiLlxSK9zitbzaQMDUhK7gTdYJ8Nl-SR5NdQiJ0nc/edit?usp=sharing)
-* 合作廠商：
+* 合作廠商：[云芸](https://www.facebook.com/loveyundesign/)
 
 #### 印刷品相關
 
 * 本屆成品
-    * 設計稿開源：摺頁 / Badge / 
+    * 設計稿開源：[摺頁](https://drive.google.com/drive/folders/1DfhRDoRbAeG3zEypRJ4NEAAw2wTWU6QA?usp=sharing) / [Badge](https://drive.google.com/drive/folders/13eh7tTLlzfJJJqmW82MhZ82Q1bWl5Yzx?usp=sharing) / [語言貼紙](https://drive.google.com/drive/folders/1C0icDq0xY5CSZLLr3h9R6eJrdwqOb9q5?usp=sharing) / [餐券貼紙](https://drive.google.com/drive/folders/1KT9B7PDvVUA6EUnFwwARoy7lppTd2G-F?usp=sharing) / [Unconf 提案便箋](https://drive.google.com/drive/folders/1u7iJx9gz-_Y6x-J70vgy6bkpRbI9_KKe?usp=sharing)
     * 其他文件：[指標系統統計](https://docs.google.com/spreadsheets/d/1L043vtcdJEEOfABS3-OuC6NFV4J6peRHrG74d0GALVY/edit?usp=sharing)／[代印品大表](https://docs.google.com/spreadsheets/d/1ftZI2lD7AGKP-G6KZ5ToOgrYDoc2H_IA9gAC3zTf3FI/edit?usp=sharing)
 * 合作廠商：[千業](https://a083149.wixsite.com/cyprint)
 
 #### 其他小物
 * 合作廠商
-    *  頸繩：[昶綺](https://www.changchis.com/tw/main/)
+    *  Badge 頸繩：[昶綺](https://www.changchis.com/tw/main/)
     *  攤位印章、12色印泥：[橙印良品](https://www.ostamp.com.tw/)
+    *  名片（UD Talk 操作說明）：[藍格](https://ec.blueco.com.tw/?gad_source=1&gclid=Cj0KCQjw3ZayBhDRARIsAPWzx8p83-nWrZrNSFSOGdvYPu4d1249VWKxyNDRBNnJ-_T2AMeSO5o5E4MaAjJMEALw_wcB)
 
-### 媒體
+### ▍媒體
 #### 對外聯繫相關
 * 傳承筆記：[媒體小組筆記](https://g0v.hackmd.io/@summit2024/media-book/%2FWdGzWnHtSPWx2GqPSaSzZA)
 * 可使用資源：
@@ -66,4 +68,4 @@
     * [活動回顧](https://mailchi.mp/c77cdb4faa34/vol1-12694531)        
 
 
-### 網站
+### ▍網站
