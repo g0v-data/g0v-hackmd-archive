@@ -9,8 +9,31 @@ The at-rule introduced by cascade layers, belonging to `@layer`, is particularly
 
 Cascade layers are especially beneficial when you are considering using the `!important` property in your CSS styles. They are highly relevant in such situations. Another scenario where cascade layers should be used is when there are conflicting CSS selectors and specificity.
 
+We will discuss additional use cases for cascade layers later. In the meantime, let’s examine an example. In the following code, we have two cascade layers accompanied by HTML markup:
+```html
+<body>
+    <ul>
+        <li class="item feature">Item one</li>
+        <li class="item">Item two</li>
+        <li class="item">Item three</li>
+    </ul>
+</body>
+```
+The code above defines an unordered list `<ul>` with three list items `<li>`, each having the class `item`. The first list item also has the class `feature`, displaying three items in a list format.
+```css
+@layer base {
+    .item {
+        color: blue;
+    }
+}
 
-
+@layer special {
+    .feature {
+        font-weight: bold;
+    }
+}
+```
+This code organizes CSS styles into two layers, with the base" layer setting the text color of elements with the class ".item" to blue, and the "special" layer setting the font weight of elements with the class ".feature" to bold
 ## Understanding CSS revert-layer
 
 ## Practical Applications

@@ -52,7 +52,7 @@
     * [CFP宣傳管道清單](https://docs.google.com/spreadsheets/d/1nqAuYEtVeb-hlibCWR3x00TdL4V66eBlpP6cCEr_8Ic/edit?usp=sharing)
     * [大專院校清單](https://docs.google.com/spreadsheets/d/1vf_S3ofVm3jFIwcUnv8K-hpPqQDa2XLyCQSmiJoijmI/edit?usp=sharing)
     * [各縣市相關局處清單](https://docs.google.com/spreadsheets/d/1-v0zTOj1tkD-omw4xV8to_40HRX2HDVYavH1upJY_oA/edit?usp=sharing)
-    * [媒體清單](https://docs.google.com/spreadsheets/d/1u9Gb2Aq0m5tAt21_G-YYasGRftsMYLf9sgVNJGSChcM/edit#gid=804455876)
+    * [媒體清單](https://docs.google.com/spreadsheets/d/150XMmAmF8Nxg-9IUTunWhngzMtZo09LzfNJNYIDiRMg/edit#gid=1249925743)
 * 本屆成品
     * 活動前：
         * [OCF公文稿](https://drive.google.com/file/d/1kEB0lFX9ln9O4kAYuw8ml0HJySvN-v6P/view)

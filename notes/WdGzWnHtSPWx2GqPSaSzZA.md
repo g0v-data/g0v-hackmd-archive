@@ -28,22 +28,24 @@ tags: summit2024
 +2（用媒體名片換媒體證）
 +1（現場沒有接待到，但有看到自媒體發文）
 
-* 收集[本次參與者心得](https://g0v.hackmd.io/@summit2024/media-book/%2FSmZoi3DDTuazvcvaqhpfDA)。
+* 整理傳承的媒體記者名單。
+
+* 收集[媒體曝光紀錄](https://docs.google.com/spreadsheets/d/1l7OCK7lAzNEkQeZZikgXy6XzSqroGWgAM3O32IfpzWg/edit?usp=sharing)、[本次參與者心得](https://g0v.hackmd.io/@summit2024/media-book/%2FSmZoi3DDTuazvcvaqhpfDA)。
 
 ## 檢討
 
 ### 持續做 Continue to do
-* 平日觀察台灣媒體記者生態，對於有什麼媒體可以找、有哪位記者適合來採訪有大概的認知。（另也希望可以有擁有媒體人脈的成員加入～）[name=YC]
+* 平日觀察台灣媒體記者生態，對於有什麼媒體可以找、有哪位記者適合來採訪，有大概的認知。（另也希望可以有擁有媒體人脈的成員加入～）[name=YC]
 
 * 運用搜尋引擎或Linkedin等方式收集媒體或記者的聯繫方式。
-本次使用搜尋引擎找記者的方式：先用「駐台外媒」關鍵字＋搜尋結果時間訂在一年內。看看有沒有文章直接提到駐台記者的名字，再用記者的名字去搜尋聯繫方式。[name=YC]
+    * 本次使用搜尋引擎找記者的方式：先用「駐台外媒」關鍵字＋搜尋結果時間訂在一年內。看看有沒有文章直接提到駐台記者的名字，再用記者的名字去搜尋聯繫方式。[name=YC]
 
 ### 下次可以做／應該做 Need to do
 * 依不同線的媒體記者適合採訪方向，量身訂做發採訪邀約。
 例如：邀請教育線媒體採訪學生社群的議程；邀請環境線媒體採訪環境、開發相關的議程；邀請駐台外媒採訪台灣公私協力或以數位方法實行公共參與的議程；邀請科技線媒體採訪較新穎的數位工具運用方式；強調多國講者來台交流吸引(?)台灣媒體。[name=YC]
 
 * 【如果人力充沛】可以安排組員挑選有興趣或有特色的議程，不只去現場聽議程做紀錄，也去採訪講者（最好活動前先跟講者講好），媒體組自己出活動側記、採訪文章放官網或接洽媒體刊載。
-可參考台灣國際紀錄片影展：[活動側記](https://www.tidf.org.tw/zh-hant/record/report)、[志工採訪成果刊登在關鍵評論網](https://www.thenewslens.com/author/tidf)。[name=YC]
+    * 可參考台灣國際紀錄片影展：[活動側記](https://www.tidf.org.tw/zh-hant/record/report)、[志工採訪成果刊登在關鍵評論網](https://www.thenewslens.com/author/tidf)。[name=YC]
 
 * 如果確定要活動完後出新聞稿，可以先寫出新聞稿模板，再依據當天內容調整，加快出文速度。
 如果要用電子報系統發採訪邀約、新聞稿的信，可以先做好電子報模板，加快後續排版速度。[name=YC]
