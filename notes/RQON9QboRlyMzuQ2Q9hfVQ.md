@@ -123,6 +123,7 @@
   - 台北市電腦公會理事
   - fb 29萬追蹤 [氣象達人彭啟明 
 ](https://www.facebook.com/weatherrisk/?locale=zh_TW)
+  - 行政院開放政府行動小組
 
 - 文化部長：李遠（作家，筆名小野）
     - 臺北市影視音實驗教育機構校長
@@ -137,35 +138,35 @@
 
 ### 機關首長
 - 國家發展委員會主委：劉鏡清（資誠創新諮詢公司前董事長）
-    - 曾是IBM全球企業諮詢服務事業群總經理及大中華地區供應鏈顧問服務負責人
-    - 專長於策略管理、數位轉型、全球化與整合、流程改善、研發管理等議題
-    - [曾任IBM總座 新國發會主委劉鏡清兼具實務與顧問經驗「業界少有」](https://tw.news.yahoo.com/曾任ibm總座-新國發會主委劉鏡清兼具實務與顧問經驗-業界少有-033416222.html) 
+  - 曾是IBM全球企業諮詢服務事業群總經理及大中華地區供應鏈顧問服務負責人
+  - 專長於策略管理、數位轉型、全球化與整合、流程改善、研發管理等議題
+  - [曾任IBM總座 新國發會主委劉鏡清兼具實務與顧問經驗「業界少有」](https://tw.news.yahoo.com/曾任ibm總座-新國發會主委劉鏡清兼具實務與顧問經驗-業界少有-033416222.html) 
 - 大陸委員會主委：邱垂正（海基會副董事長兼祕書長）
-    - 查無。
+  - 查無。
 - 金融監督管理委員會主委：彭金隆（國立政治大學商學院副院長）
-    - [國立政治大學金融科技研究中心保險科技創新實驗室執行長](https://www.ftrc.nccu.edu.tw/wordpresseng/?page_id=11621)
-    - [彭金隆接任，幣圈業者表示，最期待新內閣給予虛擬貨幣及區塊鏈產業創新與彈性的空間](https://tw.stock.yahoo.com/news/金管會新主委彭金隆接棒-幣圈期待創新空間-110030642.html)    
+  - [國立政治大學金融科技研究中心保險科技創新實驗室執行長](https://www.ftrc.nccu.edu.tw/wordpresseng/?page_id=11621)
+  - [彭金隆接任，幣圈業者表示，最期待新內閣給予虛擬貨幣及區塊鏈產業創新與彈性的空間](https://tw.stock.yahoo.com/news/金管會新主委彭金隆接棒-幣圈期待創新空間-110030642.html)    
 - 海洋委員會主委：管碧玲
-    - 曾經提案民眾購買智慧型手機，電信業者須提供教學課程。
-    - [海委會發展海洋生物AI自動辨識管碧玲：科技輔勤](https://www.oac.gov.tw/ch/home.jsp?id=63&parentpath=0,6&mcustomize=news_view.jsp&dataserno=202401310002)
+  - 曾經提案民眾購買智慧型手機，電信業者須提供教學課程。
+  - [海委會發展海洋生物AI自動辨識管碧玲：科技輔勤](https://www.oac.gov.tw/ch/home.jsp?id=63&parentpath=0,6&mcustomize=news_view.jsp&dataserno=202401310002)
    
 - 僑務委員會委員長：徐佳青
-   - 農藝、社福背景，黨職出身（民進黨副秘書長）。
-   - 查無。
+  - 農藝、社福背景，黨職出身（民進黨副秘書長）。
+  - 查無。
     
 - 國軍退除役官兵輔導委員會主委：嚴德發（國安會諮詢委員）
-   - 軍人出身。
-   - 查無。
+  - 軍人出身。
+  - 查無。
     
 - 原住民族委員會主委：曾智勇（原住民族發展中心主任）
-   - 法律背景。
-   - 查無。
+  - 法律背景。
+  - 查無。
     
 - 客家委員會主委：古秀妃（台南市客委會主委）
-   - 在台南市客委會期間，推動[族群主流化數位課程](https://web.tainan.gov.tw/hakka/cl.aspx?n=37561)。
+  - 在台南市客委會期間，推動[族群主流化數位課程](https://web.tainan.gov.tw/hakka/cl.aspx?n=37561)。
 
 - 公共工程委員會主委：陳金德（前中油董事長）
-   - 化工系畢
+  - 化工系畢
 
 - 國家科學及技術委員會主委：吳誠文（南台科技大學校長）
   - 電機系畢
@@ -178,7 +179,7 @@
   - 查無
 
 - 主計總處主計長：陳淑姿（台南市研考會主委）
-    - 主計背景公務員 -> 研考會 -> 回歸主計總處
+  - 主計背景公務員 -> 研考會 -> 回歸主計總處
 
 
 - 人事行政總處人事長：蘇俊榮
@@ -186,16 +187,16 @@
   - 美國波士頓大學電子計算機應用學系碩士
 
 - 故宮院長：蕭宗煌
-    - 查無
+  - 查無
 
 - NCC主委：翁柏宗（行政院提名，但立院尚未審查）
-    * 年齡：60歲
-    * 學歷：成功大學電機工程學系碩士
-    * 專長：頻譜管理、通訊傳播監理
-    * 經歷：國家通訊傳播委員會主任秘書、參事、委員並為副主委
+  - 年齡：60歲
+  - 學歷：成功大學電機工程學系碩士
+  - 專長：頻譜管理、通訊傳播監理
+  - 經歷：國家通訊傳播委員會主任秘書、參事、委員並為副主委
 
 - 國安局長：蔡明彥
-    - [四科技公司助華為建廠 國安局：未涉我國科技管制項目](https://udn.com/news/story/10930/7482983)
+  - [四科技公司助華為建廠 國安局：未涉我國科技管制項目](https://udn.com/news/story/10930/7482983)
 
 
 - 國史館館長：陳儀深
@@ -217,14 +218,23 @@
 2. 數位治理委員會推薦范雲委員成為會長，副會長由立委林楚茵、賴品妤、吳思瑤、蘇巧慧、陳柏惟委員擔任
 
 - 丁學忠	TINGHsueh-Chung	男	中國國民黨  無
+  - 查無
 - 牛煦庭	NIU，Hsu-Ting	男	中國國民黨 無
+  - 查無
 - 王世堅	WANGSHIH-CHIEN	男	民主進步黨
+  - 查無
 - 王正旭	WANGCHENG-HSU	男	民主進步黨
+  - [數位幫忙助醫病共享決策](https://health.udn.com/health/story/7421/4185135)
 - 王定宇	WANGTING-YU	男	民主進步黨
+  -[科技保護法] (https://news.ltn.com.tw/news/focus/paper/1210022)
 - 王育敏	YU MIN WANG	女	中國國民黨
+  - 查無
 - 王美惠	WangMei-Hui	女	民主進步黨
+  - 查無
 - 王鴻薇	wang hung wei	女	中國國民黨
+  - 查無
 - 伍麗華   Saidhai‧Tahovecahe	WuLi-Hua	女	民主進步黨
+  - 查無
 - 江啟臣	CHIANG CHI-CHEN	男	中國國民黨
     - [全民防衛動員大修 江啟臣質疑數位中介借殼上市](https://tw.news.yahoo.com/全民防衛動員大修-江啟臣質疑數位中介借殼上市-094304351.html)
     - [成立數位黨部 江啟臣：國民黨絕非老化政黨](https://tw.sports.yahoo.com/news/成立數位黨部-江啟臣-國民黨絕非老化政黨-070724492.html)
@@ -235,27 +245,28 @@
   - 上任時表態會參與[開放國會](https://tw.news.yahoo.com/%E6%96%B0%E5%9C%8B%E6%9C%83-%E9%BB%83%E6%8D%B7%E5%88%A5%E5%BD%A9%E8%99%B9%E8%83%B8%E9%87%9D-%E7%A9%BF-%E5%8D%B1%E5%B4%96%E6%9C%89%E8%8A%B1-%E8%B5%B0%E7%B4%85%E6%AF%AF%E5%B0%B1%E8%81%B7-050415608.html)
 - 吳宗憲	WuTsung-Hsien	男	中國國民黨 
     - 人工智慧法律國際研究基金會副執行長
+    - [領銜提案「人工智慧基本法草案」(新)](https://lis.ly.gov.tw/lygazettec/mtcdoc?PD110109:LCEWA01_110109_00007)
 - 吳秉叡	WuPing-Jui	男	民主進步黨
-    - [同蔡其昌等人 提案資通安全管理法部分條文修正草案](https://https://lis.ly.gov.tw/lygazettec/mtcdoc?PD110114:LCE01_110114_00071)
+    - [同蔡其昌等人提案「資通安全管理法部分條文修正草案」](https://https://lis.ly.gov.tw/lygazettec/mtcdoc?PD110114:LCE01_110114_00071)
     - 查無
-- 吳思瑤	WuSzu-Yao	女	民主進步黨
+- 吳思瑤	Wu Szu-Yao	女	民主進步黨
     - N/A
-- 吳春城	WUCHUN-CHENG	男	台灣民眾黨 
+- 吳春城	WU CHUN-CHENG	男	台灣民眾黨 
     - 戰國策傳播集團創辦人
-- 吳琪銘	wuchi-ming	男	民主進步黨
-- 呂玉玲	LUYU-LING	女	中國國民黨
+- 吳琪銘	wu chi-ming	男	民主進步黨
+- 呂玉玲	LU YU-LING	女	中國國民黨
 - 李坤城	LEE KUEN-CHENG	男	民主進步黨
-- 李昆澤	LeeKun-Tse	男	民主進步黨 
+- 李昆澤	Lee Kun-Tse	男	民主進步黨 
     - 電器維修工
     - [今天先在交通委員會質詢NCC網路自律機制](https://m.facebook.com/story.php/?story_fbid=1388379544596443&id=100043874841986)
 - 李彥秀	LEE YEN HSIU	女	中國國民黨
 - 李柏毅	Lee Po Yi	男	民主進步黨
 - 沈伯洋	Puma Shen	男	民主進步黨
-    - 黑熊學院創辦人
-    - Double Think Lab 理事長
-    - 上任時表態會參與[開放國會](https://tw.news.yahoo.com/%E6%96%B0%E5%9C%8B%E6%9C%83-%E9%BB%83%E6%8D%B7%E5%88%A5%E5%BD%A9%E8%99%B9%E8%83%B8%E9%87%9D-%E7%A9%BF-%E5%8D%B1%E5%B4%96%E6%9C%89%E8%8A%B1-%E8%B5%B0%E7%B4%85%E6%AF%AF%E5%B0%B1%E8%81%B7-050415608.html)
-    - [快新聞／iWin管制「二次元」爭議　三黨各有立委表態「密切關注」](https://www.ftvnews.com.tw/news/detail/2024217W0249?utm_source=yahoo&utm_medium=InArticl)
-    - 
+  - 黑熊學院創辦人
+  - Double Think Lab 理事長
+  - 上任時表態會參與[開放國會](https://tw.news.yahoo.com/%E6%96%B0%E5%9C%8B%E6%9C%83-%E9%BB%83%E6%8D%B7%E5%88%A5%E5%BD%A9%E8%99%B9%E8%83%B8%E9%87%9D-%E7%A9%BF-%E5%8D%B1%E5%B4%96%E6%9C%89%E8%8A%B1-%E8%B5%B0%E7%B4%85%E6%AF%AF%E5%B0%B1%E8%81%B7-050415608.html)
+  - [快新聞／iWin管制「二次元」爭議　三黨各有立委表態「密切關注」](https://www.ftvnews.com.tw/news/detail/2024217W0249?utm_source=yahoo&utm_medium=InArticl)
+
 - 沈發惠	SHENFA-HUI	男	民主進步黨
 - 林月琴	LIN YUEH CHIN	女	民主進步黨
 - 林沛祥	LIN PEI-HSIANG	男	中國國民黨
@@ -264,7 +275,7 @@
     - 台南市電子競技委員會創會主任委員
 - 林岱樺	Daihua Lin	女	民主進步黨
 - 林俊憲	Lin Chun-Hsien	男	民主進步黨
-  - 查無
+  - [帶頭提案「電子簽章法修正草案」](https://lis.ly.gov.tw/lygazettec/mtcdoc?PD110110:LCEWA01_110110_00011)
 - 林思銘	LINSZU-MING	男	中國國民黨
 - 林倩綺	Lin Chien-Chi	女	中國國民黨
   - 查無
@@ -296,22 +307,26 @@
   - 關切馬祖斷網 [民進黨立委洪申翰：馬祖海纜遭中國船勾斷難咎責](https://watchout.tw/reports/1KULNiq1L6wUrUwIHIus)
 - 洪孟楷	HungMong-Kai	男	中國國民黨
 - 范雲	Yun FAN	女	民主進步黨
-    - 立法院 數位治理委員會 前會長
-    - eID
-    - [快新聞／iWin管制「二次元」爭議　三黨各有立委表態「密切關注」](https://www.ftvnews.com.tw/news/detail/2024217W0249?utm_source=yahoo&utm_medium=InArticl)
+  - 立法院 數位治理委員會 前會長
+  - eID
+  - [快新聞／iWin管制「二次元」爭議　三黨各有立委表態「密切關注」](https://www.ftvnews.com.tw/news/detail/2024217W0249?utm_source=yahoo&utm_medium=InArticl)
 
 - 徐巧芯	HSUCHIAO-HSIN	女	中國國民黨
-    - [快新聞／iWin管制「二次元」爭議　三黨各有立委表態「密切關注」](https://www.ftvnews.com.tw/news/detail/2024217W0249?utm_source=yahoo&utm_medium=InArticl)
+  - [快新聞／iWin管制「二次元」爭議　三黨各有立委表態「密切關注」](https://www.ftvnews.com.tw/news/detail/2024217W0249?utm_source=yahoo&utm_medium=InArticl)
     
 - 徐欣瑩	Hsu Hsin-Ying	女	中國國民黨
   - 交大土木博士
+  - 台灣衛星測量領域首位女性博士
+  - [利用多衛星測高資料改善全球重力異常模型以及淺海區重力異常](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22095NCTU5015058%22.&searchmode=basic)
 - 徐富癸	HSUFU-KUEI	男	民主進步黨
+  - 
 - 涂權吉	Tu Chuan-Chi	男	中國國民黨
   - 明新工專電機系畢
+  - [應用服務創新改善台灣通訊業服務績效 -以 L通訊公司為例](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22103KNU01318036%22.&searchmode=basic)
 - 翁曉玲	Weng Hsiao-Ling	女	中國國民黨
-    - 清大通識中心暨科法所合聘副教授，2005年8月~迄今。
-    - 國家通訊傳播委員會委員，2008年8月~2012年7月。
-    - 國家通訊傳播委員會委員，2008年8月~2012年7月。
+  - 清大通識中心暨科法所合聘副教授，2005年8月~迄今。
+  - 國家通訊傳播委員會委員，2008年8月~2012年7月。
+  - 國家通訊傳播委員會委員，2008年8月~2012年7月。
 - 馬文君	MaWen-Chun	女	中國國民黨
 - 高金素梅	KAO CHIN SU-MEI	女	無黨籍
   - [立院設數位身分證調閱小組推舉高金素梅任召集人](https://www.cna.com.tw/news/aipl/202404170235.aspx)
@@ -321,8 +336,10 @@
 - 張智倫	ChangChih-Lun	男	中國國民黨
   - 國北商會計資訊系助理教授
 - 張雅琳	Ngalim Tiunn	女	民主進步黨
+  - 無
 - 張嘉郡	CHANG CHIA-CHUN	女	中國國民黨
 - 莊瑞雄	CHUANG JUI-HSIUNG	男	民主進步黨
+  - 台大生傳系博士，論文「智慧科技應用於農業產銷實務之量化分析」
 - 許宇甄	HsuYuChen	女	中國國民黨
 - 許智傑	HSUCHIH-CHIEH	男	民主進步黨
 - 郭昱晴	Kuo Yu Ching	女	民主進步黨
@@ -332,11 +349,11 @@
 - 陳秀寳	CHEN HSIU-PAO	女	民主進步黨
 - 陳亭妃	CHEN TING-FEI	女	民主進步黨
 - 陳俊宇	CHUN YU CHEN	男	民主進步黨
-    - 宜蘭高商資料處理科
+  - 宜蘭高商資料處理科
 - 陳冠廷	Chen Kuan-Ting	男	民主進步黨
 - 陳昭姿	Chen Gau-Tzu	女	台灣民眾黨
 - 陳素月	ChenSu-Yueh	女	民主進步黨
-    - [立法院委員陳素月等 22 人擬具「網際網路平臺受委託播送境外廣告或商業電子訊息管理法」草案](https://www.lawbank.com.tw/News/NewsContent_print.aspx?NID=181222.00)
+  - [立法院委員陳素月等 22 人擬具「網際網路平臺受委託播送境外廣告或商業電子訊息管理法」草案](https://www.lawbank.com.tw/News/NewsContent_print.aspx?NID=181222.00)
 - 陳培瑜	CHENPEI-YU	女	民主進步黨
 - 陳雪生	CHENHSUEN-SHENG	男	中國國民黨
 - 陳菁徽	Ching-Hui Chen	女	中國國民黨
@@ -346,20 +363,20 @@
 - 傅崐萁	FU KUN-CHI	男	中國國民黨
 
 - 游顥	YU HAO	男	中國國民黨
-    - 南投體育會電競與街舞委員會主委
+  - 南投體育會電競與街舞委員會主委
 
 - 黃仁	Huang Jen	男	中國國民黨
 - 黃秀芳	HUANG SHIOU-FANG	女	民主進步黨
 - 黃建賓	Huang Chien-Pin	男	中國國民黨
 - 黃珊珊	HuangShan Shan	女	台灣民眾黨
-    - [黃珊珊黃國昌等人提案 洗錢防制法部分條文修正
+  - [黃珊珊黃國昌等人提案 洗錢防制法部分條文修正
 草案(涉及虛擬資產)](https://lis.ly.gov.tw/lygazettec/mtcdoc?PD110113:LCEWA01_110113_00107)
 - 黃健豪	HUANG CHIEN HAO	男	中國國民黨
 - 黃國昌	HUANGKUO-CHANG	男	台灣民眾黨
     - [快新聞／iWin管制「二次元」爭議　三黨各有立委表態「密切關注」](https://www.ftvnews.com.tw/news/detail/2024217W0249?utm_source=yahoo&utm_medium=InArticl)
-    - 
+   
 - 黃捷	Huang Jie	女	民主進步黨
-    - [開放國會](https://tw.news.yahoo.com/%E6%96%B0%E5%9C%8B%E6%9C%83-%E9%BB%83%E6%8D%B7%E5%88%A5%E5%BD%A9%E8%99%B9%E8%83%B8%E9%87%9D-%E7%A9%BF-%E5%8D%B1%E5%B4%96%E6%9C%89%E8%8A%B1-%E8%B5%B0%E7%B4%85%E6%AF%AF%E5%B0%B1%E8%81%B7-050415608.html)
+  - [開放國會](https://tw.news.yahoo.com/%E6%96%B0%E5%9C%8B%E6%9C%83-%E9%BB%83%E6%8D%B7%E5%88%A5%E5%BD%A9%E8%99%B9%E8%83%B8%E9%87%9D-%E7%A9%BF-%E5%8D%B1%E5%B4%96%E6%9C%89%E8%8A%B1-%E8%B5%B0%E7%B4%85%E6%AF%AF%E5%B0%B1%E8%81%B7-050415608.html)
   - [iWin 事件順利落幕！達「三點共識」確保二次元創作自由](https://www.inside.com.tw/article/34727-iwin-creators-win)
 
 - 楊曜	Yang Yao	男	民主進步黨
@@ -386,18 +403,21 @@
     - [iWIN下架二次元兒少性影像 蔡易餘批衛福部大玩文字遊戲「當我塑膠？」](https://udn.com/news/story/6656/7850858)
 
 - 鄭天財Sra Kacaw	Jeng Tian-Tsair	男	中國國民黨
- 
+  - 無
 - 鄭正鈐	ChengCheng-Chien	男	中國國民黨
   - 中華大學科技管理研究所博士
 - 魯明哲	Lu Ming-Che	男	中國國民黨
 - 盧縣一	LU Hsien-Yi	男	中國國民黨
 - 賴士葆	Lai Shyh-Bao	男	中國國民黨
   - 美國南加州大學工業與系統工程碩士、博士
+  - [帶頭提案「人工智慧基本法」](https://lis.ly.gov.tw/lygazettec/mtcdoc?PD110111:LCEWA01_110111_00119)
 - 賴惠員	LAI HUI-YUAN	女	民主進步黨
 - 賴瑞隆	LaiJui-Lung	男	民主進步黨
 - 謝衣鳯	HSIEH YI-FONG	女	中國國民黨
 - 謝龍介	HSIEH LUNG-CHIEH	男	中國國民黨
+  - 無
 - 鍾佳濱	CHIA-PIN CHUNG	男	民主進步黨
+  - 無
 - 韓國瑜	Kuo-Yu Han	男	中國國民黨
 - 顏寬恒	Yen Kuan Heng	男	中國國民黨
 - 羅廷瑋	Ting-Wei Lo	男	中國國民黨
@@ -406,9 +426,12 @@
   - [讓孩子贏在起跑點！羅廷瑋推廣「科丁」暑期營獲好評：很有成就感](https://www.chinatimes.com/realtimenews/20230710002899-260407?chdtv)
     
 - 羅明才	Loming-tsai	男	中國國民黨
+  - 推動亞洲區塊鏈中心
 - 羅美玲	LohMeei-Ling	女	民主進步黨
+  - 無
 - 羅智強	LO CHIH CHIANG	男	中國國民黨
   - [2016至2017年間曾經購買臉書案讚數](https://zh.wikipedia.org/zh-tw/%E7%BE%85%E6%99%BA%E5%BC%B7)
 - 蘇巧慧	SuChiao-Hui	女	民主進步黨
   - 立法院 數位治理委員會 前副會長
 - 蘇清泉	SU CHING CHUAN	男	中國國民黨
+  - 無

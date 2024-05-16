@@ -21,10 +21,8 @@ tags: g0v衛福部,G0V科技部,hackpad
 ### [國際間學術倫理相關資訊](https://g0v.hackpad.com/GGi8L2uSX0B#國際學術倫理相關資訊)
 
 
-
-#### ==Archives ==
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## Archives
 ### ==經費分配相關==
 
 #### –導向型計畫應佔多少經費分配之爭議
@@ -71,13 +69,14 @@ tags: g0v衛福部,G0V科技部,hackpad
 (參考政府資料開放平台網站 [左手邊menu](http://data.gov.tw/wise_search))
 中央機關
 ```
-|  總統府 -\> 中央研究院
-|  行政院 -> 教育部 -\> 公私立大學 | 國家圖書館
-|  行政院 -> 科技部 -\> 學術倫理辦公室 | 研究誠信辦公室
-|  行政院 -> 衛生福利部 -\> 財團法人國家衛生研究院
-|  行政院 -\> 經濟部
-|  行政院 -\> 行政院農業委員會
-            表長恕略
+|  總統府 -> 中央研究院
+|  行政院 -> 教育部 -> 公私立大學 | 國家圖書館
+|  行政院 -> 科技部 -> 學術倫理辦公室 | 研究誠信辦公室
+|  行政院 -> 衛生福利部 -> 財團法人國家衛生研究院
+|  行政院 -> 經濟部
+|  行政院 -> 行政院農業委員會
+|    
+|     表長恕略
 
 ```
 ### ==News Feed==
@@ -300,7 +299,7 @@ tags: g0v衛福部,G0V科技部,hackpad
 05/08 「Darsee造假案的教訓-2) 造假被抓及自我調查」[朱真一教授@民報](https://goo.gl/oUPOQa)
 05/11  「醫學界升等革命　讓醫生走對的路」 [天下雜誌(622)教育](http://www.cw.com.tw/article/article.action?id=5082439)
 - 曾志朗院士於訪問中透露，已經得到教育部的支持。他五月底將率領台灣團，到阿姆斯特丹參加第五屆世界研究倫理大會，將爭取兩年後的全球大會，移師到台灣主辦。
-05/14  科技部研究誠信電子報第二期 [連結](https://goo.gl/790mk9)
+05/14  科技部研究誠信電子報第二期 [連結](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
 05/17 「生醫方案設立執行中心 蘇芳慶任執行長」[中央社](https://goo.gl/uiBf5u) [科技部官網](https://goo.gl/rJstL3)
 05/18 「台大論文造假醜聞事件落幕，接下來呢？」 [社群氣象台](https://www.womstation.com/p/5234)
 05/19 「蝦味先能，生醫研究能不能？」 [蔡孟利教授@民報](https://goo.gl/00H6wb)
@@ -319,48 +318,8 @@ tags: g0v衛福部,G0V科技部,hackpad
 05/08 「假裝處理了的論文造假案」 [蔡孟利教授@蘋果即時論壇](https://goo.gl/9GZYEh)
 05/25 「國家衛生研究院公布學術倫理案懲處審議結果」[官網連結](https://goo.gl/uQeOcz)
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-#### ==2017/06==
 
-06/01「涉假17篇只查2篇 請問國衛院:調查只訴諸權威就能交代了嗎？」 [蔡孟利教授@民報](https://goo.gl/zfuQ3x)
-    - 註一：[《國家衛生研究院公布學術倫理案懲處審議結果》](http://www.nhri.org.tw/NHRI_WEB/nhriw001Action.do?status=Show_Dtl&nid=20170525614036770000&uid=20081203749159640000)
-    - 註二： [附表、蘇振良於PubPeer上之問題論文](https://drive.google.com/open?id=0B9CeFI16iuD0RUhxajhCQTM2LVU)
-06/02 「教育部「學術倫理處理原則」出爐  論文掛名就要負責」[民報](https://goo.gl/P6Ka1T)
-06/02 「2019 第六屆世界研究倫理大會」由香港、墨爾本共同舉辦，地點在香港  [這個blog的倒數第二段](https://goo.gl/jSgm56)
-06/03 「台灣造假論文，世界排名第二的誤解與真實」[新公民議會](http://newcongress.tw/?p=10759)
-06/04  「楊泮池平靜主持畢典 幫助學校責無旁貸」 [中央社](https://goo.gl/cfiOHv)
-    - 論文造假風波嚴重衝擊台大，楊泮池表示，學校會成立學術倫理辦公室，也在規劃相關課程，希望建立制度和規範，在師生進到實驗室前先瞭解課程，避免在論文上發生錯誤，也希望建立措施，幫助師生檢測，避免有問題的圖片、數據等。
-    - 【設倫理辦公室查造假】楊泮池：我會留在台大協助新團隊 [上報 ](https://goo.gl/P9Uzgy)
-06/05 「連論文造假都只靠教育部訂法規、大學自主能力在哪裡？」[蔡孟利教授@民報](https://goo.gl/t6PSp1)
-06/05 「最後一次畢典 楊泮池留給台大的傷害有多大？」 [風傳媒](http://www.storm.mg/article/277693)
-06/07 「教部頒準則　禁假掛名」[天下雜誌624期](https://goo.gl/nsIho3)
-06/06 「高教學術圈還有什麼問題，趕快提出來解決吧！」[蘋果即時](https://goo.gl/GKuM28)
-06/06 「犀利！醫生論文造假問題，寧光院士發表看法了」[(中國)「醫學界」微信號](https://goo.gl/PVdrND)
-    - 有一種有趣的比喻——茶壺裡的沸騰，即一個茶壺裡的水燒得沸騰了，但對這個房間的溫度完全沒有影響。「中國的醫療創新現在就是個茶壺，我們在茶壺裡面，外面根本感受不到我們的沸騰。我們覺得自己已經非常創新了，非常偉大了，但現實並非如此，我們和整個世界的差距太大了，尤其在醫療服務方面。」來自上海交通大學醫學院附屬瑞金醫院的寧光院士在接受「醫學界」採訪時如是說。
-06/08 「論文引用評比下降　台大QS世界大學排名降到76」 [民報](https://goo.gl/t78lw0)
-06/09 「A conversation on the ethics of publishing」[F1000blog](https://goo.gl/y0rE3C)
-    - (@LoganCorina says "the goals of academia and publishers are in direct competition with each other")
-06/10 「郭明良案遭台大質疑干涉自主 教部澄清」[中央社](https://goo.gl/7D4pHn)
-06/12 「撤銷涉抄襲博士學位案終審判決 北大再敗訴」[大紀元](https://goo.gl/ni5ttp)
-06/14 「Darsee造假案的教訓-5) 哈佛Blue Ribbon建言不如台灣教育部原則」[朱真一教授@民報](https://goo.gl/61OIZq)
-    - Darsee案最多問題，連這名人滿堂的Blue Ribbon調查及報告，都被嚴厲批評，不過哈佛多檢討而以後有更多進步。
-    - 「前事為後事之師」，所以要多探討歷史，才不會重蹈錯誤。
-    - 下章討論NIH的從新調查以及Emory的調查。
-    - 台大的調查，沒從世界各地的案件學習而風波不斷。
-    - 教育部提出學術倫理案件處理原則，就注意到台大處置不理想的教訓，寫出更好的原則。
-06/14 「陸科技部徹查論文造假案 打擊產業鏈」 [中央社](https://goo.gl/o5Rjwe)
-    - 人民日報報導，中國大陸科技部今天針對本案發布通報表示，科技部長萬鋼6月5日已召開「科研誠信建設」第6次聯席會議，部署處理論文作假工作。
-    - 科枝部將會同中國科協、教育部、衛生計生委、自然科學基金等部門成立聯合工作組，制定徹查處理工作方案，在現行法律法規等的架構內，提出統一的處理規則。
-    - 中國大陸科技部強調，各部門對涉嫌論文作者承擔或正在申請科研計劃（基金）、基地建設，以及人才計劃和科技獎勵等情況進行了全面調查，且相關科研計劃、基金都被暫停。
-06/15  PubPeer 2.0 [Grand Opening](https://goo.gl/6LEJS9)
-06/15 「科技部 研究誠信電子報 第 3 期」 [pdf 連結](https://goo.gl/NJnsWw)
-06/16 「大學訂學術倫理規範 107年初完成」 [中央社](https://goo.gl/rp4aVW)
-06/17 「Darsee造假案的教訓-6) NIH的調查及哈佛的反省」[朱真一教授@民報](https://goo.gl/ZvaDaS)
-- 到底哈佛是頂尖的第一號學府，以前諸章都好像講哈佛的負面錯誤，這裡寫哈佛的反省精神，台灣最應該學習之處。
-- 此章先討論美國健康研究院（National Health Institute；NIH）的調查，這調查很有意義，促進哈佛反省，更是台灣應學習的樣版。
-- 從這NIH的調查後，以後Emory大學也調查Dr. Darsee在Emory的不誠實案件，就很認真謹慎，顯然是受NIH調查的影響。
-06/19  "The research counts, not the journal!"   Nobel Laureates speak out against the role of impact factors in research. [NobelPrize.org@YouTube ](https://youtu.be/6MQ8R0OyvyQ)
-06/20 論文造假案台大設「研究誠信辦公室」 [PTS YouTube](https://youtu.be/8yY8WnMzMS8) [中央社 ](https://goo.gl/b3iid5)
-06/28 Leading Retractions in the Cancer Research Literature [CollabRx ](https://goo.gl/QDrTbz)
+## ==News Feed== ##
 
 #### ==2017/06==
 
@@ -395,7 +354,7 @@ tags: g0v衛福部,G0V科技部,hackpad
     - 科枝部將會同中國科協、教育部、衛生計生委、自然科學基金等部門成立聯合工作組，制定徹查處理工作方案，在現行法律法規等的架構內，提出統一的處理規則。
     - 中國大陸科技部強調，各部門對涉嫌論文作者承擔或正在申請科研計劃（基金）、基地建設，以及人才計劃和科技獎勵等情況進行了全面調查，且相關科研計劃、基金都被暫停。
 06/15  PubPeer 2.0 [Grand Opening](https://goo.gl/6LEJS9)
-06/15 「科技部 研究誠信電子報 第 3 期」 [pdf 連結](https://goo.gl/NJnsWw)
+06/15 「科技部 研究誠信電子報 第 3 期」 [連結](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
 06/16 「大學訂學術倫理規範 107年初完成」 [中央社](https://goo.gl/rp4aVW)
 06/17 「Darsee造假案的教訓-6) NIH的調查及哈佛的反省」[朱真一教授@民報](https://goo.gl/ZvaDaS)
 - 到底哈佛是頂尖的第一號學府，以前諸章都好像講哈佛的負面錯誤，這裡寫哈佛的反省精神，台灣最應該學習之處。
@@ -416,8 +375,7 @@ tags: g0v衛福部,G0V科技部,hackpad
     回覆內容 老師，您好  謝謝來函關心與指導。關於學術論理案，請逕由連結參考。
     敬祝 教安  秘書室 謹覆  回覆時間 2017/7/5
 07/13 「外媒披露中共重金獎勵科研論文的真相」 [大紀元](https://goo.gl/FGdv5C)
-07/14 「科技部研究誠信電子報第4期」 [2017年7月份 ](https://goo.gl/fqpwG9)
-    - – MOST ORI 縮網 : [https://goo.gl/1VjRtQ](https://goo.gl/1VjRtQ)
+07/14 「科技部研究誠信電子報第4期」 [2017年七月份 ](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
 07/18 「Darsee造假案的教訓-8)吊銷醫師執照的懲罰,台灣呢？」[朱真一教授@民報](https://goo.gl/Kdg8iH)
 07/27 「107篇論文集中被撤事件調查處理結果公佈：堅持眼睛向內　堅決打擊學術不端」 [北京新浪網](https://goo.gl/8EtUKu)
 ==07/====31====  Hackpad====在2017/07/19 正式被併為== ==Dropbox== ==P====aper== ==!== ==[g0v.hackpad 搬家方案 ](https://goo.gl/BbXEt1)==
@@ -449,7 +407,7 @@ tags: g0v衛福部,G0V科技部,hackpad
 08/10「全教總：推玉山計畫前應先釐清高教方向 」[中央社](https://goo.gl/ezMCJJ)
     - 「教育部：玉山計畫不會只給特定人士」[中央社](https://goo.gl/iUQki1)
     - 「玉山計畫惹議 教育部8/10辦第一場討論會」[中央社](https://goo.gl/XYZdwm)
-08/15「科技部研究誠信電子報第5期」 [2017年8月份](https://goo.gl/MXb1Zd)
+08/15「科技部研究誠信電子報第5期」 [2017年8月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
     - 第 5 屆世界研究倫理大會實錄（一）
     - 照片出來了 [寫真館連結](http://www.thillege.com/5th-wcri-2017/)
     - Keynote Lectures are on [YouTube! ](https://goo.gl/ANbxv3)
@@ -474,7 +432,7 @@ tags: g0v衛福部,G0V科技部,hackpad
 09/14「郭明良涉論文造假案 教育部科技部遭糾正」[中央社](https://goo.gl/SBxATD)
     - 「郭明良論文造假仍領薪 教部 : 作業還要一兩個月」[新頭殼](https://goo.gl/xCyb1A)
     - 「台大論文造假案　監察院糾正教育部、科技部」[民報](https://goo.gl/Fg8pBe)
-09/15  「科技部研究誠信電子報第6期」 [2017年九月份](https://www.most.gov.tw/most/attachments/b53b4677-faf9-452f-9172-368a52c2744c?)
+09/15  「科技部研究誠信電子報第6期」 [2017年九月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
 09/15「「從高醫到台大」連二月被監院糾正的教育部 反思「執政價值」?！」 [民報](https://goo.gl/8TCSmd)
 09/20「愛因斯坦培植計畫」暨「哥倫布計畫」補助案 [科技部官網](https://goo.gl/pqLwbX)
 09/20「培植愛因斯坦哥倫布 科技部4年補助50億」[中央社](https://goo.gl/JBUzLG)
@@ -485,7 +443,7 @@ tags: g0v衛福部,G0V科技部,hackpad
 #### ==2017/10==
 
 10/06 博硯「說」法》誰該去上研究倫理課程 [自由評論網](https://goo.gl/32vuvS)
-10/14  「科技部研究誠信電子報第7期」 [2017年十月份](https://www.most.gov.tw/most/attachments/eef7e4f1-e727-4a9f-8be0-478726991f5d)
+10/14  「科技部研究誠信電子報第7期」 [2017年十月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
 10/14「高醫人齊奮起！陳永興怒批高教司裝傻包庇「啟川三代偽董事會」 [民報](https://goo.gl/VJDWd1)
 10/14「學術造假真離譜！朱真一翻出國外亂象盼台灣記取教訓」[民報](https://goo.gl/43vDaL)
 10/16「論文造假案背面：蔡孟利以小說「勘誤」未現的真相」[報導者](https://goo.gl/1SEy4V)
@@ -500,32 +458,59 @@ tags: g0v衛福部,G0V科技部,hackpad
 ●中部場：106年11月13日(一)15:00-17:00，逢甲大學校本部紀念館3樓第二國際會議廳 [Part I](https://www.facebook.com/www.most.gov.tw/videos/1983683841874803/) [Part II](https://www.facebook.com/www.most.gov.tw/videos/1983699568539897/)
 ●南部場：106年11月14日(二)09:00-11:00，蓮潭國際會館R102教室(高雄市左營區崇德路801號) [直播連結](https://www.facebook.com/www.most.gov.tw/videos/1984112391831948/)
 ●東部場：106年11月17日(五)10:00-12:00，國立宜蘭大學格致大樓3樓電資學院多媒體視聽室(宜蘭縣宜蘭市神農路一段1號)  直播連結
-11/15 「科技部研究誠信電子報第8期」 [2017年十ㄧ月份](http://www.most.gov.tw/most/attachments/a2fca376-706f-4e9e-86e4-29a9d39867c7)
+11/15 「科技部研究誠信電子報第8期」 [2017年十ㄧ月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
 
 #### ==2017/12==
 
-12/15 「科技部研究誠信電子報第9期」[2017年十二月份](https://www.most.gov.tw/most/attachments/9f595ba9-e1f7-492a-a2d1-bb391b74ea31)
+12/15 「科技部研究誠信電子報第9期」[2017年十二月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
 
 #### ==2018==
 
-01/12 「科技部研究誠信電子報第10期」[2018年ㄧ月份](https://www.most.gov.tw/most/attachments/3f12f293-b2cd-4c68-b489-1eb9e6a8fab6?)
-02/13 「科技部研究誠信電子報第11期」 [2018年二月份](https://www.most.gov.tw/most/attachments/7409e9ef-1c8e-48f5-9b9f-d13881f18b48)
-03/15 「科技部研究誠信電子報第12期」 [2018年三月份](https://goo.gl/mt2YpY)
-04/13 「科技部研究誠信電子報第13期」 [2018年四月份](https://goo.gl/rmJFHY)
-05/14 「科技部研究誠信電子報第14期」 [2018年五月份](https://goo.gl/Ma5gcJ)
-06/14 「科技部研究誠信電子報第15期」 [2018年六月份](https://goo.gl/RArYp3)
-07/13 「科技部研究誠信電子報第16期」 [2018年七月份](https://goo.gl/6p44dv)
-08/14 「科技部研究誠信電子報第17期」 [2018年八月份](https://goo.gl/acKZTE)
+01/12 「科技部研究誠信電子報第10期」[2018年ㄧ月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+02/13 「科技部研究誠信電子報第11期」 [2018年二月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+03/15 「科技部研究誠信電子報第12期」 [2018年三月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+04/13 「科技部研究誠信電子報第13期」 [2018年四月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+05/14 「科技部研究誠信電子報第14期」 [2018年五月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+06/14 「科技部研究誠信電子報第15期」 [2018年六月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+07/13 「科技部研究誠信電子報第16期」 [2018年七月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+08/14 「科技部研究誠信電子報第17期」 [2018年八月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
 08/23   不滿獨厚AI刪基礎科研經費　13學會連署嗆科技部  [蘋果日報](https://tw.news.appledaily.com/life/realtime/20180823/1416460/)
 08/31 博後6年條款引爭議 科技部決定暫緩實施  [中央社](http://www.cna.com.tw/news/ahel/201808310287-1.aspx)
-09/14 「科技部研究誠信電子報第18期」 [2018年九月份](https://goo.gl/fhKG3D)
-10/15 「科技部研究誠信電子報第19期」 [2018年十月份](http://news.ltn.com.tw/news/life/paper/1239899)
+09/14 「科技部研究誠信電子報第18期」 [2018年九月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+10/15 「科技部研究誠信電子報第19期」 [2018年十月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
 10/16 「哈佛心臟病專家 驚爆31篇論文全造假」[自由電子報](http://news.ltn.com.tw/news/life/paper/1239899)
 		  & 哈佛心臟病專家31篇論文全造假 名醫嘆：我曾經視為聖經 [自由電子報](http://news.ltn.com.tw/news/world/breakingnews/2582896)
-11/15「科技部研究誠信電子報第20期」 [2018年十ㄧ月份](https://goo.gl/8Ndiia)
-12/14「科技部研究誠信電子報第21期」 [2018年十二月份](http://www.most.gov.tw/most/attachments/9ca92bfe-4fe6-4e04-992c-7cafc96f9957)
+11/15「科技部研究誠信電子報第20期」 [2018年十ㄧ月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+12/14「科技部研究誠信電子報第21期」 [2018年十二月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
 
 #### ==2019==
+01/10「台大名醫10論文造假 專精肝癌新藥 停權10年重懲 追回研究費」 [蘋果日報]
+01/15「科技部研究誠信電子報第22期」 [2019年ㄧ月份](https://oai.web2.ncku.edu.tw/var/file/72/1072/img/353/506213323.pdf)
+02/15「科技部研究誠信電子報第23期」 [2019年二月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+03/15「科技部研究誠信電子報第24期」 [2019年三月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+03/25 「全解析｜台灣為何成為掠奪性期刊的大肥羊？」[天下雜誌](https://www.cw.com.tw/article/5094471)
+03/26 「學術黑市採訪幕後：看見停止追求卓越的危險性」[天下雜誌](https://goo.gl/fHcJC8)
+04/15「科技部研究誠信電子報第25期」 [2019年四月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+04/24 「科技部對「掠奪性期刊及研討會」議題之聲明」 [MOST官網](https://oai.web2.ncku.edu.tw/p/406-1072-7738,r154.php?Lang=zh-tw)
+05/15「科技部研究誠信電子報第26期」 [2019年五月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+06/14「科技部研究誠信電子報第27期」 [2019年六月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+09/09「科技部大小眼！中研院前所長陳慶士論文造假案「輕放」還不公告真名」[蘋果日報](https://tw.appledaily.com/new/realtime/20190909/1628640/)
+07/15「科技部研究誠信電子報第28期」 [2019年七月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+08/14「科技部研究誠信電子報第29期」 [2019年八月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+09/12「科技部研究誠信電子報第30期」 [2019年九月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+10/15「科技部研究誠信電子報第31期」 [2019年十月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+11/15「科技部研究誠信電子報第32期」 [2019年十ㄧ月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+12/15「科技部研究誠信電子報第33期」 [2019年十二月份](https://oai.web2.ncku.edu.tw/p/405-1072-7243,c2095.php?Lang=zh-tw)
+又一年了...  時光飛逝 歲月如梭...  何處是我牛?! 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6b507eae3d62c573789cfd647376a8e3.gif)
+
+####==2020==
+
+####==2021==
+
+####==2022==
+
+####==2024==
 
 
 
@@ -533,8 +518,7 @@ tags: g0v衛福部,G0V科技部,hackpad
 
 
 
-
-###[台灣學術倫理教育資源中心](https://g0v.hackpad.com/moPI5myaJcB#台灣學術倫理教育資源中心)
+### [台灣學術倫理教育資源中心](https://g0v.hackpad.com/moPI5myaJcB#台灣學術倫理教育資源中心)
 <End of Note>
 
 

@@ -67,11 +67,11 @@
 #### 電子報相關
 * 本屆筆記： [MailChimp 電子報筆記](https://docs.google.com/document/d/1OwRFGpw4reZb_IiEuJgaswniorjdqnI7N1LxpQeA--g/edit?usp=sharing)
 * 可用資源：
-    * 2014~2018：[歷屆講者統計](https://docs.google.com/spreadsheets/d/1dSY-DkL9eCa_NWGpuN7i5nZE1zw5WV8Q/edit?usp=sharing&ouid=107367202782110393672&rtpof=true&sd=true)
+    * 2014~2018：[歷屆講者一覽](https://docs.google.com/spreadsheets/d/1dSY-DkL9eCa_NWGpuN7i5nZE1zw5WV8Q/edit?usp=sharing&ouid=107367202782110393672&rtpof=true&sd=true)
     * 2024：
         * [講者國家統計](https://docs.google.com/spreadsheets/d/1wbWfXOPkppV2uuSGL99vkgjBAjD5rrnuCpfsmIrIMGY/edit?usp=sharing)
-        * 議程關鍵字
-        * [會眾組成](https://docs.google.com/spreadsheets/d/1fhHberEHzofZI_HaV6MzIWS5UAuGK60p0mlqKxR0guU/edit?usp=sharing)
+        * [議程分布統計](https://docs.google.com/spreadsheets/d/1ZhfDITN6VDG69fTUH58_2bpypk-v7nddY3TgCm2clsI/edit?usp=sharing)
+        * [會眾組成統計](https://docs.google.com/spreadsheets/d/1fhHberEHzofZI_HaV6MzIWS5UAuGK60p0mlqKxR0guU/edit?usp=sharing)
 * 本屆成品：
     * [五期電子報](https://us21.campaign-archive.com/home/?u=5f2da7dc5b32fcf00c4e26170&id=cf109d5e52)
     * [行前通知](https://mailchi.mp/bc40aa3f9c7d/vol1-12693882)／[Pre-Conference Notice](https://mailchi.mp/ea4afd884d78/vol1-12693886)

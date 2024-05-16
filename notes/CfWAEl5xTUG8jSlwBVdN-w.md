@@ -28,6 +28,11 @@ tags: cofacts
     - License ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b90652bdcd074064d788fa11ec98a450.png)
 - 使用開放授權釋出：https://iorg.tw/open
 
+#### Doublethink Lab
+https://medium.com/doublethinklab/the-chinese-infodemic-in-taiwan-25e9ac3d941e
+
+
+
 ### Data journalism
 
 Readr
