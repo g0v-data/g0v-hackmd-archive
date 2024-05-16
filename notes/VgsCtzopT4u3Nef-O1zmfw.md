@@ -176,18 +176,18 @@ In this example,
 - We import the `http` package for making HTTP requests and the `flutter_secure_socket` package for SSL pinning.
 - The `performSecureRequest` function performs a secure HTTP GET request to a specified URL.
 - Before making the request, we load the expected SSL certificate from an asset file (`certificate.pem`) using `rootBundle.loadString`.
-- We then use `FlutterSecureSocket` to set the trusted certificates bytes to perform SSL pinning with the specified certificate.
+- We then use `FlutterSecureSocket` to set the trusted certificate bytes to perform SSL pinning with the specified certificate.
 - Finally, we make the secure HTTP GET request using `secureSocket.get`, passing the URL and port (443 for HTTPS).
 
 By utilizing HTTPS for network communication and implementing SSL pinning with packages like `flutter_secure_socket`, Flutter apps can ensure that data transmitted over the network is encrypted and secure, protecting against unauthorized access and tampering.
 
-## Mitigating Risks of Malware and Hacking
-Protecting against malware and hacking requires proactive measures to secure the app's codebase and network interactions. Here are techniques and tools developers can use to mitigate risk of hacking and hardware:
+## Mitigating the Risks of Malware and Hacking
+Protecting against malware and hacking requires proactive measures to secure the app's codebase and network interactions. Here are techniques and tools developers can use to mitigate the risk of hacking and hardware:
 
  ### Code Obfuscation
 Obfuscation is a technique used to make code harder to understand or reverse engineer by renaming variables, functions, and classes to meaningless or cryptic names. In Flutter, the [flutter_obfuscate](https://docs.flutter.dev/deployment/obfuscate) package provides a simple way to obfuscate Dart code, enhancing the security of your app's logic.
 
-By obfuscating your Dart code, you make it more difficult for attackers to understand the inner workings of your application. This is particularly important for protecting sensitive algorithms, proprietary algorithms, or intellectual property from being easily reverse engineered.
+By obfuscating your Dart code, you make it more difficult for attackers to understand the inner workings of your application. This is particularly important for protecting sensitive algorithms, proprietary algorithms, or intellectual property from being easily reverse-engineered.
 
 The `flutter_obfuscate` package works by renaming identifiers in your Dart code to random strings. This process makes the code less readable and thus more challenging for attackers to decipher.
 
@@ -229,7 +229,7 @@ As you can see, after obfuscation, the code becomes significantly more difficult
 By utilizing tools like `flutter_obfuscate` to obfuscate your Dart code, you add an additional layer of protection to your Flutter app, making it more challenging for attackers to reverse engineer and understand your app's logic. This enhances the security of your app and helps protect your intellectual property.
 
 ### Secure Networking Practices
-In Flutter, ensuring secure communication between your app and servers is critical to prevent man-in-the-middle (MITM) attacks, where an attacker intercepts and modifies data exchanged between the app and the server. Two primary methods for achieving secure communication are using HTTPS and implementing certificate pinning.
+In Flutter, ensuring secure communication between your app and servers is critical to preventing man-in-the-middle (MITM) attacks, where an attacker intercepts and modifies data exchanged between the app and the server. Two primary methods for achieving secure communication are using HTTPS and implementing certificate pinning.
 
 HTTPS (Hypertext Transfer Protocol Secure) encrypts data exchanged between the client (your app) and the server using Transport Layer Security (TLS) or its predecessor, Secure Sockets Layer (SSL). This encryption ensures that even if intercepted, the data remains confidential and cannot be deciphered by attackers.
 
@@ -300,7 +300,7 @@ In this example:
 
 By using secure protocols like HTTPS and implementing certificate pinning with the `http` package in Flutter, you ensure that data transmitted over the network is encrypted and secure, protecting your app and users from potential attacks.
 
-### Secure Authentication Methods
+### Secure authentication methods
 Implementing robust authentication mechanisms is essential for ensuring secure access to your Flutter app. Two widely-used authentication protocols are [OAuth 2.0](https://oauth.net/2/) and [Firebase Authentication](https://firebase.google.com/docs/auth/flutter/start), both of which provide secure ways for users to authenticate and authorize access to your app's resources.
 
 OAuth 2.0 is an industry-standard protocol for authorization, allowing users to grant access to their data without sharing their credentials. It's commonly used for third-party authentication and authorization, enabling users to sign in using existing accounts from providers like [Google](https://www.google.com.ng/), [Facebook](https://www.facebook.com/), or [GitHub](https://github.com/).
@@ -309,7 +309,7 @@ Firebase Authentication, on the other hand, is a service provided by [Firebase](
 
 To integrate OAuth 2.0 or Firebase Authentication into your Flutter app, you can use packages like [flutter_auth0](https://pub.dev/packages/auth0_flutter) for OAuth 2.0 or [flutter_appauth](https://pub.dev/packages/flutter_appauth) for both OAuth 2.0 and Firebase Authentication. These packages provide convenient APIs and widgets for implementing secure authentication flows in your app.
 
-Using `flutter_auth0` for OAuth 2.0 Authentication:
+Using `flutter_auth0` for OAuth 2.0 authentication:
 
 ```dart
 import 'package:flutter/material.dart';
@@ -361,9 +361,9 @@ class MyApp extends StatelessWidget {
 ```
 
 Explanation:
-This code implements OAuth 2.0 authentication using the `flutter_auth0` package. When the app starts, it creates an instance of the `Auth0` class with your Auth0 client ID and domain. The `MyApp` class is a stateless widget with a `MaterialApp` containing a `Scaffold` with an `AppBar` and a `Center` widget. Inside the `Center` widget, there's an `ElevatedButton` with the label "Authenticate with Auth0". When the button is pressed, it calls the `authenticateWithAuth0()` function. Inside `authenticateWithAuth0()`, the app performs OAuth 2.0 authentication by calling `auth0.login()`. Upon successful authentication, it prints the authenticated user's email. In case of authentication failure, it prints the error.
+This code implements OAuth 2.0 authentication using the `flutter_auth0` package. When the app starts, it creates an instance of the `Auth0` class with your Auth0 client ID and domain. The `MyApp` class is a stateless widget with a `MaterialApp` containing a `Scaffold` with an `AppBar` and a `Center` widget. Inside the `Center` widget, there's an `ElevatedButton` with the label "Authenticate with Auth0." When the button is pressed, it calls the `authenticateWithAuth0()` function. Inside `authenticateWithAuth0()`, the app performs OAuth 2.0 authentication by calling `auth0.login()`. Upon successful authentication, it prints the authenticated user's email. In the event of an authentication failure, it prints the error.
 
-Using `flutter_appauth` for OAuth 2.0 or Firebase Authentication:
+Using `flutter_appauth` for OAuth 2.0 or Firebase authentication:
 
 ```dart
 import 'package:flutter/material.dart';
