@@ -172,7 +172,8 @@ Randy播放的片段是Center for Open Science(COS)執行總監Brian Nosek的談
     - 因此，上述這種審查流程對學術不端之行為及風氣，是完全沒有約束力的，我們亟需想其它方法來規範這類不良行為。
 
 #### [未來可能有效扭轉歪風的方法](https://youtu.be/orKak1sXB2k?t=1h4m11s)
-- **第四**，Bio-Archives的設立。我發現最近有一個相當令人振奮的趨勢，那就是一些雜誌社開始收錄每一篇論文投稿時的第一版文稿，而且將它們存放在一個供人免費取得之開放獲取平台。此乃仿照已有25年歷史的Physics Archives (arXiv.org)。這種作法對日後驗證實驗結果是否涉及學術不端相當有效。目前多家雜誌社已開始這麼做，希望有更多的雜誌社能夠加入(***J Biomed Sci*請加油**)。
+- **第四**，Bio-Archives的設立。我發現最近有一個相當令人振奮的趨勢，那就是一些雜誌社開始收錄每一篇論文投稿時的第一版文稿，而且將它們存放在一個供人免費取得之開放獲取平台。此乃仿照已有25年歷史的Physics Archives (arXiv.org)。這種作法對日後驗證實驗結果是否涉及學術不端相當有效。目前多家雜誌社已開始這麼做，希望有更多的雜誌社能夠加入。
+- 
     - 參考資料一 Open Science Frame [OSF preprints](https://osf.io/preprints/)
     - 參考資料二 What are preprints? [YouTube Link](https://youtu.be/2zMgY8Dx9co)
     - 參考資料三 NIH’s new embrace of preprints will be a boon to science [Link](https://goo.gl/a2pxCS)

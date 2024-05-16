@@ -9,10 +9,6 @@ tags: g0v衛福部,G0V科技部,hackpad
 
 ## 這是一份依時間軸記錄重要事件的協作筆記
 
-
-
-
-
 ### [Final Decisions of MOST and MOE](https://g0v.hackpad.com/KBxKaRtKQvq#Final-Decision-of-MOST-and-MOE)
 
 
@@ -429,7 +425,7 @@ tags: g0v衛福部,G0V科技部,hackpad
 - ==好不容易可以====進====來加東西了，補一下06/0====6====到現在的資料! --\> PNT/save p.1-3 ==
 - ==往下是沒有變動的、和0606版本相同。==
 
-#### ==2017/0====8==
+#### ==2017/08==
 
 08/01「陸重賞打造學術強國 論文獎金給五百萬」[中央社](https://goo.gl/DpLRdX)
 08/02 “The data have spoken:” Controversial NgAgo gene editing study retracted [RW](https://goo.gl/B2RyLc)
@@ -467,7 +463,7 @@ tags: g0v衛福部,G0V科技部,hackpad
 08/31「Wakefield造假論文引起疫苗恐慌」[朱真一教授@民報](https://goo.gl/VZM5nV)
     - John Oliver @HBO [YouTube](https://youtu.be/7VG_s2PCH_c)
 
-#### ==2017/0====9==
+#### ==2017/09==
 
 09/05「論文造假又現身，學術糾錯何時了？」 [微文庫](https://weiwenku.net/d/102405524)
 09/06「【專文】瀆職的科技部」[蔡孟利教授@民報](https://goo.gl/DtwRbq)
@@ -486,7 +482,7 @@ tags: g0v衛福部,G0V科技部,hackpad
     - SU2M [貼文一](https://goo.gl/JhPBxh) [YouTube](https://www.youtube.com/watch?v=mh5pXyFkJr4)
     - SU2M [貼文二](https://goo.gl/FZnwuw)
 
-#### ==2017/====10==
+#### ==2017/10==
 
 10/06 博硯「說」法》誰該去上研究倫理課程 [自由評論網](https://goo.gl/32vuvS)
 10/14  「科技部研究誠信電子報第7期」 [2017年十月份](https://www.most.gov.tw/most/attachments/eef7e4f1-e727-4a9f-8be0-478726991f5d)
@@ -497,7 +493,7 @@ tags: g0v衛福部,G0V科技部,hackpad
 10/23「科研計畫首次申請者 須上6小時學術倫理」[中央社](http://www.cna.com.tw/news/ahel/201710230261-1.aspx)
 - 「防論文造假 學術倫理有人考3次才過」[新聞連結](https://udn.com/news/plus/9395/2773197)
 
-#### ==2017/====11==
+#### ==2017/11==
 
 11/03「計畫審查機制改革諮詢座談會」 [科技部官網 ](https://goo.gl/vm9yFY)
 ●北部場：106年11月 8日(三)12:00-14:00，科技部2樓會議室13(台北市大安區和平東路2段106號2樓) [直播連結](https://www.facebook.com/www.most.gov.tw/videos/1980643498845504/)
@@ -506,11 +502,11 @@ tags: g0v衛福部,G0V科技部,hackpad
 ●東部場：106年11月17日(五)10:00-12:00，國立宜蘭大學格致大樓3樓電資學院多媒體視聽室(宜蘭縣宜蘭市神農路一段1號)  直播連結
 11/15 「科技部研究誠信電子報第8期」 [2017年十ㄧ月份](http://www.most.gov.tw/most/attachments/a2fca376-706f-4e9e-86e4-29a9d39867c7)
 
-#### ==2017/====12==
+#### ==2017/12==
 
 12/15 「科技部研究誠信電子報第9期」[2017年十二月份](https://www.most.gov.tw/most/attachments/9f595ba9-e1f7-492a-a2d1-bb391b74ea31)
 
-#### ==201====8==
+#### ==2018==
 
 01/12 「科技部研究誠信電子報第10期」[2018年ㄧ月份](https://www.most.gov.tw/most/attachments/3f12f293-b2cd-4c68-b489-1eb9e6a8fab6?)
 02/13 「科技部研究誠信電子報第11期」 [2018年二月份](https://www.most.gov.tw/most/attachments/7409e9ef-1c8e-48f5-9b9f-d13881f18b48)
@@ -520,10 +516,26 @@ tags: g0v衛福部,G0V科技部,hackpad
 06/14 「科技部研究誠信電子報第15期」 [2018年六月份](https://goo.gl/RArYp3)
 07/13 「科技部研究誠信電子報第16期」 [2018年七月份](https://goo.gl/6p44dv)
 08/14 「科技部研究誠信電子報第17期」 [2018年八月份](https://goo.gl/acKZTE)
+08/23   不滿獨厚AI刪基礎科研經費　13學會連署嗆科技部  [蘋果日報](https://tw.news.appledaily.com/life/realtime/20180823/1416460/)
+08/31 博後6年條款引爭議 科技部決定暫緩實施  [中央社](http://www.cna.com.tw/news/ahel/201808310287-1.aspx)
+09/14 「科技部研究誠信電子報第18期」 [2018年九月份](https://goo.gl/fhKG3D)
+10/15 「科技部研究誠信電子報第19期」 [2018年十月份](http://news.ltn.com.tw/news/life/paper/1239899)
+10/16 「哈佛心臟病專家 驚爆31篇論文全造假」[自由電子報](http://news.ltn.com.tw/news/life/paper/1239899)
+		  & 哈佛心臟病專家31篇論文全造假 名醫嘆：我曾經視為聖經 [自由電子報](http://news.ltn.com.tw/news/world/breakingnews/2582896)
+11/15「科技部研究誠信電子報第20期」 [2018年十ㄧ月份](https://goo.gl/8Ndiia)
+12/14「科技部研究誠信電子報第21期」 [2018年十二月份](http://www.most.gov.tw/most/attachments/9ca92bfe-4fe6-4e04-992c-7cafc96f9957)
+
+#### ==2019==
 
 
 
+
+
+
+
+
+###[台灣學術倫理教育資源中心](https://g0v.hackpad.com/moPI5myaJcB#台灣學術倫理教育資源中心)
 <End of Note>
-### [台灣學術倫理教育資源中心](https://g0v.hackpad.com/moPI5myaJcB#台灣學術倫理教育資源中心)
+
 
 
