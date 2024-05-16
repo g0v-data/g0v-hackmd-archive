@@ -19,7 +19,7 @@ A Comprehensive Survey on 3D Content Generation 2024-01
 ### SDS的問題
 1. 多頭問題：由於stable diffusion的training data是從internet中獲取的，所以存在view bias的問題。
     * 引入view sampling機制mitigate這個問題
-    * 引入structured noise
+    * 引入structured noise--GaussianDiffusion
 3. low diversity：
 4. over saturate：
 
