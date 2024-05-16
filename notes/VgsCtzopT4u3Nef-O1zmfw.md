@@ -1,9 +1,10 @@
-# Flutter Fortified: Mastering Updates & Security
+# Flutter Fortified: Mastering Updates and Security
 
 In today's digital age, the security of user data and the seamless functioning of applications are paramount. As the demand for mobile apps continues to rise, developers face the challenge of not only creating feature-rich applications but also ensuring they are robust, secure, and up-to-date. This is where [Flutter](https://flutter.dev/), Google's open-source UI toolkit, shines, offering a comprehensive solution for building cross-platform apps with a single codebase.
 
 This guide focuses on securing and updating Flutter applications. It covers security practices for protecting user data, mitigating malware and hacking risks, and ensuring compliance with data protection regulations. Additionally, it emphasizes the importance of regular updates for improving app performance, fixing bugs, and staying compatible with the latest OS versions. Following these best practices helps developers strengthen their Flutter apps against security threats and ensures they remain reliable and up-to-date.
-## Protecting User Data
+
+## Protecting user data
 User data protection is a critical aspect of app security. Flutter provides various tools and techniques to ensure sensitive data remains secure throughout its lifecycle. Below are examples of tools and techniques used for protecting user data:
 
 ### Encryption Techniques
@@ -48,7 +49,7 @@ When a user attempts to log in, their entered password is encrypted using the sa
 
 By implementing encryption for sensitive data like passwords, Flutter developers can significantly enhance the security of their applications and protect user information from unauthorized access.
 
-### Secure Storage Mechanisms
+### Secure storage mechanisms
 In Flutter, the [shared_preferences_secure](https://pub.dev/packages/flutter_secure_storage) package provides a secure solution for storing sensitive data in shared preferences. Shared preferences are commonly used in Flutter applications to store small amounts of data persistently across app launches.
 
 However, traditional shared preferences store data in plaintext, which poses a security risk, especially if the device is compromised. If an attacker gains access to the device, they can easily extract and view the stored data, potentially exposing sensitive information.
@@ -102,7 +103,7 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-In this example:
+In this example,
 - We use the `shared_preferences_secure` package to store sensitive data securely.
 - The `storeDataSecurely` function stores the sensitive data ("sensitiveData123") with the key "key" securely in shared preferences.
 - The `retrieveDataSecurely` function retrieves the stored data securely from shared preferences.
@@ -171,7 +172,7 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-In this example:
+In this example,
 - We import the `http` package for making HTTP requests and the `flutter_secure_socket` package for SSL pinning.
 - The `performSecureRequest` function performs a secure HTTP GET request to a specified URL.
 - Before making the request, we load the expected SSL certificate from an asset file (`certificate.pem`) using `rootBundle.loadString`.
