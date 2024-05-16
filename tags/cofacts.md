@@ -2,22 +2,22 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20240513 會議記錄](../notes/fSJ-OU9cRKSLxENOi9Z4VQ.md) | 2024-05-13T20:34:37+08:00 | 2024-05-13T02:29:48+08:00 |
-| 2 | [20240422 會議記錄](../notes/UaO0a5gETTeRTP8sH7NGlg.md) | 2024-04-23T13:27:42+08:00 | 2024-04-21T23:16:37+08:00 |
-| 3 | [20240414 會議記錄](../notes/uefTz4yURImgtem--itaMw.md) | 2024-04-14T20:50:28+08:00 | 2024-04-14T16:41:12+08:00 |
-| 4 | [20240408 會議記錄](../notes/cyOfGs88TROLTF1bKeAyAg.md) | 2024-04-08T20:42:35+08:00 | 2024-04-08T03:08:48+08:00 |
-| 5 | [20240401 會議記錄](../notes/i3DlTDBcRkahYOmTwcQ2hQ.md) | 2024-04-01T21:06:31+08:00 | 2024-03-31T13:49:21+08:00 |
-| 6 | [20240325 會議記錄](../notes/dBog_HZ2TBuXjRxuJNrV-Q.md) | 2024-03-25T20:52:02+08:00 | 2024-03-24T22:25:31+08:00 |
-| 7 | [20240318 會議記錄](../notes/nJJJFw36RaWFJ4cUycgihA.md) | 2024-03-24T15:10:04+08:00 | 2024-03-17T17:32:41+08:00 |
-| 8 | [20240311 會議記錄](../notes/aUgKwPUaTPeVLZbcpyxe3A.md) | 2024-03-11T20:40:59+08:00 | 2024-03-10T17:33:28+08:00 |
-| 9 | [Cofacts crowd-sourced transcript design doc](../notes/OhGIQzoxR5eF6audQuS_FQ.md) | 2024-03-11T20:31:24+08:00 | 2022-08-28T16:38:50+08:00 |
-| 10 | [20240304 會議記錄](../notes/ucUXvnqbRBmsD6YGkmdYvg.md) | 2024-03-11T19:17:17+08:00 | 2024-03-04T09:50:19+08:00 |
-| 11 | [Cofacts multimedia support research](../notes/aJqHn8f5QGuBDLSMH_EinA.md) | 2024-03-11T19:12:33+08:00 | 2021-08-26T01:31:40+08:00 |
-| 12 | [Cofacts hackath61n 協作頁面](../notes/XnkOOSJjTvawTUabmoostw.md) | 2024-03-01T23:11:19+08:00 | 2024-03-01T23:10:18+08:00 |
-| 13 | [20240229 會議記錄](../notes/6tCmrXsyS3WEGgC_bMcd9w.md) | 2024-02-29T21:17:51+08:00 | 2024-02-27T23:19:00+08:00 |
-| 14 | [20190515 會議記錄](../notes/xL8fP_CeQoe6-2JGdLjnBg.md) | 2024-02-29T18:37:25+08:00 | 2019-05-15T01:20:08+08:00 |
-| 15 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-02-28T00:44:48+08:00 | 2022-08-05T10:46:53+08:00 |
-| 16 | [Cofacts Data Usage](../notes/CfWAEl5xTUG8jSlwBVdN-w.md) | 2024-02-24T11:10:55+08:00 | 2022-11-16T10:44:45+08:00 |
+| 1 | [Cofacts Data Usage](../notes/CfWAEl5xTUG8jSlwBVdN-w.md) | 2024-05-16T10:51:48+08:00 | 2022-11-16T10:44:45+08:00 |
+| 2 | [20240513 會議記錄](../notes/fSJ-OU9cRKSLxENOi9Z4VQ.md) | 2024-05-13T20:34:37+08:00 | 2024-05-13T02:29:48+08:00 |
+| 3 | [20240422 會議記錄](../notes/UaO0a5gETTeRTP8sH7NGlg.md) | 2024-04-23T13:27:42+08:00 | 2024-04-21T23:16:37+08:00 |
+| 4 | [20240414 會議記錄](../notes/uefTz4yURImgtem--itaMw.md) | 2024-04-14T20:50:28+08:00 | 2024-04-14T16:41:12+08:00 |
+| 5 | [20240408 會議記錄](../notes/cyOfGs88TROLTF1bKeAyAg.md) | 2024-04-08T20:42:35+08:00 | 2024-04-08T03:08:48+08:00 |
+| 6 | [20240401 會議記錄](../notes/i3DlTDBcRkahYOmTwcQ2hQ.md) | 2024-04-01T21:06:31+08:00 | 2024-03-31T13:49:21+08:00 |
+| 7 | [20240325 會議記錄](../notes/dBog_HZ2TBuXjRxuJNrV-Q.md) | 2024-03-25T20:52:02+08:00 | 2024-03-24T22:25:31+08:00 |
+| 8 | [20240318 會議記錄](../notes/nJJJFw36RaWFJ4cUycgihA.md) | 2024-03-24T15:10:04+08:00 | 2024-03-17T17:32:41+08:00 |
+| 9 | [20240311 會議記錄](../notes/aUgKwPUaTPeVLZbcpyxe3A.md) | 2024-03-11T20:40:59+08:00 | 2024-03-10T17:33:28+08:00 |
+| 10 | [Cofacts crowd-sourced transcript design doc](../notes/OhGIQzoxR5eF6audQuS_FQ.md) | 2024-03-11T20:31:24+08:00 | 2022-08-28T16:38:50+08:00 |
+| 11 | [20240304 會議記錄](../notes/ucUXvnqbRBmsD6YGkmdYvg.md) | 2024-03-11T19:17:17+08:00 | 2024-03-04T09:50:19+08:00 |
+| 12 | [Cofacts multimedia support research](../notes/aJqHn8f5QGuBDLSMH_EinA.md) | 2024-03-11T19:12:33+08:00 | 2021-08-26T01:31:40+08:00 |
+| 13 | [Cofacts hackath61n 協作頁面](../notes/XnkOOSJjTvawTUabmoostw.md) | 2024-03-01T23:11:19+08:00 | 2024-03-01T23:10:18+08:00 |
+| 14 | [20240229 會議記錄](../notes/6tCmrXsyS3WEGgC_bMcd9w.md) | 2024-02-29T21:17:51+08:00 | 2024-02-27T23:19:00+08:00 |
+| 15 | [20190515 會議記錄](../notes/xL8fP_CeQoe6-2JGdLjnBg.md) | 2024-02-29T18:37:25+08:00 | 2019-05-15T01:20:08+08:00 |
+| 16 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-02-28T00:44:48+08:00 | 2022-08-05T10:46:53+08:00 |
 | 17 | [20240221 會議記錄](../notes/R06Z7EflRYqAC-R8zO6FqA.md) | 2024-02-21T21:09:33+08:00 | 2024-02-20T01:15:50+08:00 |
 | 18 | [20240215 會議記錄](../notes/u6DKgWOJT1KvqguEZjH6Ow.md) | 2024-02-21T19:27:04+08:00 | 2024-02-12T00:30:51+08:00 |
 | 19 | [Cofacts 真的假的 第４０次小聚小松果](../notes/wJwWw-ztS4-8E65X_n1l7g.md) | 2024-02-18T21:52:30+08:00 | 2024-02-18T13:42:17+08:00 |

@@ -19,13 +19,23 @@ tags: cofacts
 
 ## Usage tracking 
 
-### IORG
+### Think tanks
+#### IORG
 
 - https://iorg.tw/da/25 ： 使用 Cofacts 的回應與評價等編輯性資料
 - 引用時包含完整顯名
     - URL ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_045702c0bd8b5449cf58d00d763d4663.png)
     - License ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b90652bdcd074064d788fa11ec98a450.png)
 - 使用開放授權釋出：https://iorg.tw/open
+
+### Data journalism
+
+Readr
+https://www.readr.tw/post/1963
+
+報導者
+https://www.twreporter.org/a/information-warfare-business-content-farm-mission
+https://www.twreporter.org/a/information-warfare-business-weapons
 
 ### 學術領域
 - Zhao, A., & Naaman, M. (2023). Insights from a Comparative Study on the Variety, Velocity, Veracity, and Viability of Crowdsourced and Professional Fact-Checking Services. Journal of Online Trust and Safety, 2(1). https://doi.org/10.54501/jots.v2i1.118
