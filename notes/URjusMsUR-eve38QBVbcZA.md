@@ -12,26 +12,28 @@
 #### 紀念品相關
 * 歷屆資源：庫存清單
 * 本屆成品：販售表單 
-| 鏡頭防窺蓋 | 紀念T-shirt | 防水技能貼紙 |
-| -------- | -------- | -------- | -------- |
-| 開源    | 設計稿   | Text     | Text     |
-| 合作廠商    | 設計稿   | Text     | Text     |
- 
 
 
-| Column 1 | 鏡頭防窺蓋 | 紀念T-shirt | Column  |
+
+|  | 鏡頭防窺蓋 | 紀念T-shirt | 防水技能貼紙  |
 | -------- | -------- | -------- |-------- |
 | 開源稿     | Text     | Text     |Text     |
-| 合作廠商     | Text     | Text     |Text     |
+| 合作廠商     | 拍拍手     | [玩美獨衣](https://www.152.com.tw/)    |Text     |
 
- 
-* 其他：
-#### 輸出品相關
+#### 大型輸出相關
 * 歷屆資源：[2014](https://www.flickr.com/photos/g0v/albums/72157648811346290/with/15568996868) / [2016](https://www.flickr.com/photos/g0v/albums/72157667807482250/) / [2018](https://www.flickr.com/photos/g0v/albums/72157702985408685/) / [2020](https://www.flickr.com/photos/g0v/albums/72157717551224772/with/50762037233)
 * 本屆成品：
     * 設計稿開源
-    * [場佈送印統計資料](https://docs.google.com/spreadsheets/d/1DHaiLlxSK9zitbzaQMDUhK7gTdYJ8Nl-SR5NdQiJ0nc/edit?usp=sharing)
+    * [場佈送印統計](https://docs.google.com/spreadsheets/d/1DHaiLlxSK9zitbzaQMDUhK7gTdYJ8Nl-SR5NdQiJ0nc/edit?usp=sharing)
 * 合作廠商：
+
+#### 印刷品相關
+
+* 開源設計稿：摺頁 / Badge / 
+* 其他：[指標系統統計](https://docs.google.com/spreadsheets/d/1L043vtcdJEEOfABS3-OuC6NFV4J6peRHrG74d0GALVY/edit?usp=sharing)
+* 合作廠商：千業
+
+#### 其他
 
 ### 媒體
 #### 對外聯繫相關

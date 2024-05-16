@@ -44,7 +44,7 @@ Just a reminder: There won't be dinner provided at this offline gathering, so pl
 | 2045 - 2100 | 尾聲 |大合照需要的話可以在這裡補拍|
 
 ## 報名連結
-(待補)
+https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2EakXTqR69A/viewform
 
 ## 輪播用投影片
 [黑話與 RS 語錄們](https://www.figma.com/proto/KrLf8HnypqWKGQUHaQxH67/Tofus-and-his-g0v-graphics!?page-id=53%3A42&type=design&node-id=53-42&viewport=574%2C469%2C0.41&t=uxwwVD1zN7RJwK00-1&scaling=contain&starting-point-node-id=54%3A44&mode=design)

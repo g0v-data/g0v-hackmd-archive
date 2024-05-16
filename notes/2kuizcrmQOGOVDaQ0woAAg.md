@@ -21,6 +21,8 @@ g0v 放輕松是繼 g0v Summit 2024 之後由揪松團發起的定期線下聚�
 
 ### [前來放輕鬆的你可能會需要的東西 Things you might need when attending g0v Rand0mTh0n](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
 
+### [下次放輕松的共筆 ](/d9UgT5LTRRKywSPEo6jA5w)
+
 📍 參與者人類本體 participant itself
 📍 食物 food
 📍 一顆願意交流，且願意遵守 [g0v 宣言](https://g0v.tw/intl/zh-TW/manifesto/zh-TW/) 並願意遵守 [行為守則 Code of Conduct](https://g0v.hackmd.io/s/COC) 的心 A heart that is onwilling to communicate, and is willing to abide by the g0v Manifesto and the Code of Conduct.
@@ -35,6 +37,7 @@ g0v 放輕松是繼 g0v Summit 2024 之後由揪松團發起的定期線下聚�
 `Latest` 
 - [20240507 Rand0mTh0n 第零次](/qzELuqNARKKBjWr2mIiY8A)
 - [20240521 Rand0mTh1n 第壹次](/d9UgT5LTRRKywSPEo6jA5w)
+- [20240604 Rand0mTh2n 第貳次](/YsGvF1BpSNGr0owRylG3Vg)
 
 **幕後故事 Behind the Scene**
 
