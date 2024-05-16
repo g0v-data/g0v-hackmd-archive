@@ -153,16 +153,4 @@ irm https://massgrave.dev/get | iex
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_21760c94aa006b7dcd594944edab5210.png)
 
-28吋
-AOC M2870V	D-Sub / DVI 窄邊框	$5488貨少
-AOC M2870VQ	D-Sub / DVI / HDMI / DisplayPort 多接頭介面 停產 $4688
-BENQ GC2870H	德國萊茵認證 沒貨
-*Acer 宏碁 CBL282K $7999 3840*2160無邊框美型螢幕
-Acer XV280K	3840*2160	IPS 內接電源 4MS HDMI*2+DP $7488
-
-1920*1200
-ACER VW237Q
-ACER BW237Q
-BENQ GW2381	德國萊茵認證
-EIZO EV2360
-DELL 戴爾 P2423
+https://massgrave.dev/genuine-installation-media.html
