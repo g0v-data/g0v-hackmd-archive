@@ -24,7 +24,10 @@
 | 2024.05.06 |DDIO|[在這](https://g0v.social/@ddio/112391850379248143)      |
 | 2024.05.08 |RONNY WANG        |[在這](https://ronnywang.substack.com/p/20240508-g0v-summit-2024)|
 | 2024.05.08 | Nao Myoshu        |[在這](https://note.com/decchii/n/n64b3f4af91dc)|
-|            |        |                                                                                                                                                      |
+|            |  DIGI Gold Card Community   | [在這](https://www.linkedin.com/posts/digigoldcard_resilience-g0v-g0vsummit-activity-7193068704933318657-QU48)               |
+|  2024.05.11 |  FNF Thailand  |  [在這](https://www.facebook.com/story.php?story_fbid=823653686457396&id=100064383171388&mibextid=xfxF2i&rdid=1YnSPpTv3PyToN68)       |
+| 2024.05.11 | CivicActions  | [在這](https://twitter.com/civicactions/status/1789006326355366191)               |
+|  2024.05.16 |  公督盟活動  |  [在這](https://ccw.org.tw/news/20240505)       |
 
 
 
