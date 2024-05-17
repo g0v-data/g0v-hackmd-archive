@@ -1,6 +1,6 @@
 ---
 title: "生醫學倫事件簿"
-tags: g0v衛福部,G0V科技部,hackpad
+tags: g0v衛福部,g0v科技部,hackpad,生醫學倫
 ---
 
 # 生醫學倫事件簿

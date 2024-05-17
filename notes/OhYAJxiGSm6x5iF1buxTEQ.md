@@ -1,6 +1,6 @@
 ---
 title: "其它學術倫理事件檔案夾"
-tags: g0v衛福部,G0V科技部,hackpad
+tags: g0v衛福部,g0v科技部,hackpad,生醫學倫
 ---
 
 # 其它學術倫理事件檔案夾

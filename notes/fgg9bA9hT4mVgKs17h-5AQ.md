@@ -1,6 +1,6 @@
 ---
 title: "Final Decisions of MOST and MOE"
-tags: g0v衛福部,G0V科技部,hackpad
+tags: g0v衛福部,g0v科技部,hackpad,生醫學倫
 ---
 
 # Final Decisions of MOST and MOE
@@ -76,13 +76,13 @@ tags: g0v衛福部,G0V科技部,hackpad
 
 ==[回事件簿首頁](https://g0v.hackpad.com/psYiCfSI3Yy)==**⏎** :tent:
 
-#### [各機構受質疑論文進度追蹤 (澄清篇)](https://g0v.hackpad.com/LsT8UhPLmoC#我是測試頁大學)
+#### [各機構受質疑論文進度追蹤 (澄清篇)](https://g0v.hackmd.io/2UZg2yQqRgytdqjf5yNFPg)
 
 
-#### [其它學術倫理事件檔案夾 (未完待結篇)](https://g0v.hackpad.com/P5rHWIc7UoW#其它領域學術倫理相關議題案件參考)
+#### [其它學術倫理事件檔案夾 (未完待結篇)](https://g0v.hackmd.io/OhYAJxiGSm6x5iF1buxTEQ)
 
 
-#### [國際間學術倫理相關資訊](https://g0v.hackpad.com/GGi8L2uSX0B#國際學術倫理相關資訊)
+#### [國際間學術倫理相關資訊](https://g0v.hackmd.io/QKMY5ix6T92y1OdNal0K8Q)
 
 
 

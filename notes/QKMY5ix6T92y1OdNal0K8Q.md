@@ -1,6 +1,6 @@
 ---
 title: "國際學術倫理相關資訊"
-tags: g0v衛福部,G0V科技部,hackpad
+tags: g0v衛福部,g0v科技部,hackpad,生醫學倫
 ---
 
 # 國際學術倫理相關資訊
