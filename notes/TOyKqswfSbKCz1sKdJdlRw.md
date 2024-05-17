@@ -101,7 +101,41 @@ If we reorder our layers to `@layer special, base;` just as written below:
     }
 }
 ```
-As a result of the change made in the code all items will become blue, excluding the first item, which will be green.
+As a result of the change made in the code all items will become blue, excluding the first item, which will be green, just like shown in the image below:
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ea6ba091200c32fce7d15e68a7d045fa.png)
+
+To implement the `revert-layer` keyword, add the styles below:
+```css
+@layer base, special;
+
+@layer special {
+    .item {
+        color: orange;
+    }
+    .feature {
+        color: revert-layer;
+    }
+}
+
+@layer base {
+    .item {
+        color: blue;
+    }
+    .feature {
+        color: green;
+    }
+}
+```
+In our `special` layer, we set the color to the value of `revert-layer` in the selector for the `.feature` item.
+
+This means that every other color in the list of items turns orange, while the `.feature` item becomes green. This is because it reverts to the matching property of the previous cascade layer, which we assigned as green. 
+
+Below is an image of the result:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3f62ba19dd519abd491b5aa8cbf0beb0.png)
+
+
+
 ## Practical Applications
 ### Implementing modular styling
 ### Executing a full global style reset
