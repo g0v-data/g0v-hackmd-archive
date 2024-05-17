@@ -42,10 +42,10 @@ Similarly, we have arranged the layers in such a way that priority is given to t
 
 We can utilize multiple CSS sources or layers, allowing us to prioritize and override specific styles without relying on selector specificity or the `!important` property. 
 
-In this article, our focus is on understanding the cascade layer keyword known as `revert-layer` and exploring its various use cases.
-
-
+In this article, our focus is on understanding the cascade layer keyword known as `revert-layer` and exploring its various use cases. Without further ado, let’s delve into the `revert-layer` CSS keyword
 ## Understanding CSS revert-layer
+The `revert-layer` keyword in CSS allows a property to revert to the value of the same property in a previous layer of the cascade. If there is no previous value set, it reverts to the default browser styles. This keyword can be applied to any CSS property, including the shorthand property `all`. Here's an example:
+
 
 ## Practical Applications
 ### Implementing modular styling
