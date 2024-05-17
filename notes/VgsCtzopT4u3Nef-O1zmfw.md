@@ -16,7 +16,7 @@ By using encryption algorithms such as AES or RSA, developers can encrypt passwo
 
 Now, even if the database is compromised, the attacker would only see the encrypted version of the password, making it extremely difficult to decipher without the encryption key.
 
-Here's a basic example of how you might use AES encryption in a Flutter application:
+Here's a basic example of how you can use AES encryption in a Flutter application:
 
 ```dart
 import 'dart:convert';
@@ -56,7 +56,7 @@ However, traditional shared preferences store data in plaintext, which poses a s
 
 To address this security concern, the `shared_preferences_secure` package encrypts the data stored in shared preferences using strong encryption algorithms. This means that even if an attacker gains access to the device, they cannot decrypt and read the stored data without the encryption key.
 
-Here's an example of how you might use the `shared_preferences_secure` package to store and retrieve sensitive data securely:
+Here's an example of how you can use the `shared_preferences_secure` package to store and retrieve sensitive data securely:
 
 ```dart
 import 'package:flutter/material.dart';
@@ -182,7 +182,7 @@ In this example,
 By utilizing HTTPS for network communication and implementing SSL pinning with packages like `flutter_secure_socket`, Flutter apps can ensure that data transmitted over the network is encrypted and secure, protecting against unauthorized access and tampering.
 
 ## Mitigating the Risks of Malware and Hacking
-Protecting against malware and hacking requires proactive measures to secure the app's codebase and network interactions. Here are techniques and tools developers can use to mitigate the risk of hacking and hardware:
+Protecting against malware and hacking requires proactive measures to secure the app's codebase and network interactions. Here are techniques and tools developers can use to mitigate the risk of hacking and malware:
 
  ### Code Obfuscation
 Obfuscation is a technique used to make code harder to understand or reverse engineer by renaming variables, functions, and classes to meaningless or cryptic names. In Flutter, the [flutter_obfuscate](https://docs.flutter.dev/deployment/obfuscate) package provides a simple way to obfuscate Dart code, enhancing the security of your app's logic.

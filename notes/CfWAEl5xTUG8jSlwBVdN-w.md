@@ -32,17 +32,16 @@ tags: cofacts
 https://medium.com/doublethinklab/the-chinese-infodemic-in-taiwan-25e9ac3d941e
 
 
-
 ### Data journalism
 
 Readr
 https://www.readr.tw/post/1963
 
-報導者
+報導者 Reporter
 https://www.twreporter.org/a/information-warfare-business-content-farm-mission
 https://www.twreporter.org/a/information-warfare-business-weapons
 
-### 學術領域
+### Academic Papers 學術領域
 - Zhao, A., & Naaman, M. (2023). Insights from a Comparative Study on the Variety, Velocity, Veracity, and Viability of Crowdsourced and Professional Fact-Checking Services. Journal of Online Trust and Safety, 2(1). https://doi.org/10.54501/jots.v2i1.118
 - 邱靖雅, 2022 - [運用深度學習方法於中文謠言辨識之比較](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NCCU5337007%22.&searchmode=basic)
 - 李俊儀, 2021 - [基於深度學習技術之假新聞偵測研究-以臺灣社群Cofacts為例](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22109NDU00654027%22.&searchmode=basic)
