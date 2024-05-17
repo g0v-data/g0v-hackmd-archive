@@ -132,11 +132,48 @@ In our `special` layer, we set the color to the value of `revert-layer` in the s
 This means that every other color in the list of items turns orange, while the `.feature` item becomes green. This is because it reverts to the matching property of the previous cascade layer, which we assigned as green. 
 
 Below is an image of the result:
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3f62ba19dd519abd491b5aa8cbf0beb0.png)
 
+Our layer order prioritizes `@layer special` over `@layer base`. This means that the styles in `@layer special` are processed before those in `@layer base`. In `@layer special`, the `color` property for the `.feature` selector is set to `revert-layer`. As a result, the `color` property for `.feature` reverts to the value from the previous layer, which in this case is `@layer base`. In `@layer base`, there is a matching selector `.feature` with the `color` property set to green, so this is the value that is applied.
 
+Additionally, if we remove the `.feature` selector from `@layer base`, the item with the `.feature` class reverts to the default color of the browser, which is typically black. However, since the item also has the class `.item`, it takes the `color: blue` property from the `.item` class in the `@layer base.` This is reflected in the image below:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6ba6d21cfd0af7ede3dffca590b4be1f.png)
 
+On the other hand, if there’s no matching selector property, the style reverts or rolls back to the browser default origin styles. Please refer to the following HTML:
+```html
+<ul>
+    <li class="feature">Subject one</li>
+    <li class="item">Subject two</li>
+    <li class="item">Subject three</li>
+  </ul>
+```
+This code creates an unordered list with three list items, where the first item has the class `feature` and the second and third items have the class `item`.
+
+Below we have the CSS:
+```css
+@layer base, special;
+@layer special {
+    .item {
+        color: orange;
+    }
+    .feature {
+        color: revert-layer;
+    }
+}
+@layer base {
+    .item {
+        color: blue;
+    }
+}
+```
+The CSS code above defines two layers, `base` and `special`, where `special` sets `.item` color to orange and `.feature` color to `revert-layer`, causing it to revert to the `.feature` color in `base`, which sets `.item` color to blue.
+
+Below is the result of our code:
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1caacba2b6a7f328e8399368451b00a7.png)
 ## Practical Applications
+We have learned about the revert-layer and how to use it. Now, let’s explore some scenarios where it can be useful. Although the revert-layer is not widely used yet, it offers unique advantages in specific situations.
 ### Implementing modular styling
 ### Executing a full global style reset
 ### Modifying styles across layers
