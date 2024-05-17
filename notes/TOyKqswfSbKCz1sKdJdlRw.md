@@ -21,19 +21,30 @@ We will discuss additional use cases for cascade layers later. In the meantime, 
 ```
 The code above defines an unordered list `<ul>` with three list items `<li>`, each having the class `item`. The first list item also has the class `feature`, displaying three items in a list format.
 ```css
-@layer base {
-    .item {
-        color: blue;
-    }
-}
 
 @layer special {
     .feature {
         font-weight: bold;
     }
 }
+
+@layer base {
+    .item {
+        color: blue;
+    }
+}
 ```
-This code organizes CSS styles into two layers, with the base" layer setting the text color of elements with the class ".item" to blue, and the "special" layer setting the font weight of elements with the class ".feature" to bold
+This code organizes CSS styles into two layers, with the "base" layer setting the text color of elements with the class `.item` to blue, and the "special" layer setting the font weight of elements with the class `.feature` to bold.
+
+Similarly, we have arranged the layers in such a way that priority is given to the special layer over the base layer, resulting in the image shown below:
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_482cf382d3acac8789ee059cb6ab0382.png)
+
+We can utilize multiple CSS sources or layers, allowing us to prioritize and override specific styles without relying on selector specificity or the `!important` property. 
+
+In this article, our focus is on understanding the cascade layer keyword known as `revert-layer` and exploring its various use cases.
+
+
 ## Understanding CSS revert-layer
 
 ## Practical Applications
