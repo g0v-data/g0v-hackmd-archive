@@ -21,7 +21,7 @@ We will discuss additional use cases for cascade layers later. In the meantime, 
 ```
 The code above defines an unordered list `<ul>` with three list items `<li>`, each having the class `item`. The first list item also has the class `feature`, displaying three items in a list format.
 ```css
-
+@layer base, special;
 @layer special {
     .feature {
         font-weight: bold;
@@ -45,8 +45,63 @@ We can utilize multiple CSS sources or layers, allowing us to prioritize and ove
 In this article, our focus is on understanding the cascade layer keyword known as `revert-layer` and exploring its various use cases. Without further ado, let’s delve into the `revert-layer` CSS keyword
 ## Understanding CSS revert-layer
 The `revert-layer` keyword in CSS allows a property to revert to the value of the same property in a previous layer of the cascade. If there is no previous value set, it reverts to the default browser styles. This keyword can be applied to any CSS property, including the shorthand property `all`. Here's an example:
+```html
+<body>
+    <h1>Test Subject</h1>
+    <ul>
+        <li class="item feature">Subject one</li>
+        <li class="item">Subject two</li>
+        <li class="item">Subject three</li>
+    </ul>
+</body>
+```
+In the code above, we have a heading element and a list of items. Now, let’s write our CSS:
+```css
+@layer base, special;
+@layer special {
+    .item {
+        color: red;
+    }
+}
+
+@layer base {
+    .item {
+        color: blue;
+        font-weight: normal;
+        font-size: 16px;
+    }
+    .feature {
+        color: green;
+    }
+}
+```
+The code above defines two layers (`base` and `special`), where `special` sets `.item` color to red, and `base` sets `.item` color to blue, font weight to normal, font size to 16px, and `.feature` color to green, with `base` taking precedence over `special`.
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_563228b2460d10cc80db682bdecbfb73.png)
 
 
+In our previous example, we have two layers. As we explained earlier, all items will appear in red because the `color` property inside the `special` layer scheme takes the highest priority.
+
+If we reorder our layers to `@layer special, base;` just as written below:
+```css
+@layer special, base;
+@layer base {
+    .item {
+        color: blue;
+        font-weight: normal;
+        font-size: 16px;
+    }
+    .feature {
+        color: green;
+    }
+}
+@layer special {
+    .item {
+        color: red;
+    }
+}
+```
+As a result of the change made in the code all items will become blue, excluding the first item, which will be green.
 ## Practical Applications
 ### Implementing modular styling
 ### Executing a full global style reset
