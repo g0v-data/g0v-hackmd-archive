@@ -173,8 +173,9 @@ Below is the result of our code:
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1caacba2b6a7f328e8399368451b00a7.png)
 ## Practical Applications
-We have learned about the revert-layer and how to use it. Now, let’s explore some scenarios where it can be useful. Although the revert-layer is not widely used yet, it offers unique advantages in specific situations.
+We have learned about the `revert-layer` and how to use it. Now, let’s explore some scenarios where it can be useful. Although the `revert-layer` is not widely used yet, it offers unique advantages in specific situations.
 ### Implementing modular styling
+
 ### Executing a full global style reset
 ### Modifying styles across layers
 
