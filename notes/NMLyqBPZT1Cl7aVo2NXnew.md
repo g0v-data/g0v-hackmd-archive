@@ -42,11 +42,6 @@ public class MainActivity extends AppCompatActivity {
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <!--    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:padding="16dp"> -->
-
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
