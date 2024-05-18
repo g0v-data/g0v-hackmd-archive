@@ -1,4 +1,5 @@
-## **MainActivity**
+### KeyBoardDetect
+#### **MainActivity**
 
 ```
 package com.example.keyboard;
@@ -30,8 +31,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
-## **layout**
+#### **layout**
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -52,13 +52,17 @@ public class MainActivity extends AppCompatActivity {
 </LinearLayout>
 ```
 
-## 除錯:
+### 除錯
 
-若無法執行請將Grandle Scripts -> build.grandle(Module:Name.app)裡的
+若遇到
+`Can't determine type for tag '<macro name="m3_comp_assist_chip_container_shape">?attr/shapeAppearanceCornerSmall</macro>'`
+
+可嘗試將Grandle Scripts -> build.grandle(Module:ProjectName.app)裡的
 ```
-    implementation 'androidx.appcompat:appcompat:1.2.0'
-    implementation 'com.google.android.material:material:1.3.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.12.0'
 ```
+(注:上面版本可能不同)
 
 改為
 ```
