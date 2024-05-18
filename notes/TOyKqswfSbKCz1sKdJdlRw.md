@@ -181,11 +181,48 @@ By using modular styling, styles are scoped to specific components or modules, w
 
 Modular styling can be effectively implemented using the `revert-layer` keyword. Here's how:
 
-First we write out our HTML code.
+First we write out our HTML code
 ```html
-
+<body>
+  <p class="text">Modular Button</p>
+    <button class="button">Submit</button>
+</body>
 ```
+This code creates a paragraph with the text "Modular Button" styled with the `text` class, followed by a "Submit" button styled with the `button` class.
+
+Now we write out our CSS code
+```css
+@layer base, special;
+
+@layer base {
+    .button {
+        background-color: purple;
+        color: white;
+        padding: 10px 30px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+}
+
+@layer special {
+    .button {
+        background-color: revert-layer;
+        color: revert-layer;
+        border: revert-layer;
+        border-radius: revert-layer;
+        cursor: revert-layer;
+        padding: 8px 20px;
+    }
+}
+```
+This CSS code defines two layers, `base` and `special`, where the `base` layer sets the default styles for the `.button` class, and the `special` layer partially overrides these styles while using `revert-layer` to revert certain properties back to their values from the `base` layer.
+
+Overall, we kept every other property and only changed the padding. The result was:
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e52738072f4b4b9d72f03d10dae68620.png)
 ### Executing a full global style reset
+
 ### Modifying styles across layers
 
 ## Assessing Browser Compatibility
