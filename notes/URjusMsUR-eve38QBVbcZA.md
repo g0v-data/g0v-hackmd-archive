@@ -2,10 +2,11 @@
 
 ### 整組事項
 
+宣傳組的 [HackMD 筆記本](https://g0v.hackmd.io/@summit2024/media-book)（大部分連結都有，找不到筆記看這裡！）
 
 ### ▍社群
 * [社群媒體發文排程表](https://docs.google.com/spreadsheets/d/1Re9ODKJSaC5u0kUyZmpNim9m_ycxLvA9drCAn7wXBJA/edit?usp=sharing)
-* 廣告檔案庫存檔：[IG推廣 ](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TW&id=934606561735910&view_all_page_id=454607821247176&search_type=page&media_type=all)/ [FB推廣](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TW&id=3726020471052358&view_all_page_id=454607821247176&search_type=page&media_type=all)
+* 廣告檔案庫存檔：[IG推廣](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TW&id=934606561735910&view_all_page_id=454607821247176&search_type=page&media_type=all) / [FB推廣](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=TW&id=3726020471052358&view_all_page_id=454607821247176&search_type=page&media_type=all)
 * [OPass 推播訊息表](https://docs.google.com/spreadsheets/d/1CDrPOvJKggdiuHFuc4TJ3ejb2aArBUrcHplFDPHCZBA/edit?usp=sharing)
 
 
@@ -21,7 +22,7 @@
 |  | 鏡頭防窺蓋 | 紀念T-shirt | 防水技能貼紙  |
 | -------- | -------- | -------- |-------- |
 | 開源     | [設計稿](https://drive.google.com/drive/folders/1BOCjUDOxM4PnPaou5dvDsD4jMCsAfE03?usp=sharing)     | [設計稿](https://drive.google.com/drive/folders/1M3Keo8gCx3SnJ-JnFSAOQ64A5mK_rC_8)    |[設計稿](https://drive.google.com/drive/folders/1plwTPGnTEVLWnpL6BY3jSq7DpydUHEOK?usp=sharing)     |
-| 合作廠商     | (窩找不到)    | [玩美獨衣](https://www.152.com.tw/)    |[千業](https://a083149.wixsite.com/cyprint)     |
+| 合作廠商     | 直接向工廠下單    | [玩美獨衣](https://www.152.com.tw/)    |[百變怪貼紙 StickerHD](https://stickerhd.com)     |
 
 #### 大圖輸出相關
 * 歷屆資源：[2014](https://www.flickr.com/photos/g0v/albums/72157648811346290/with/15568996868) / [2016](https://www.flickr.com/photos/g0v/albums/72157667807482250/) / [2018](https://www.flickr.com/photos/g0v/albums/72157702985408685/) / [2020](https://www.flickr.com/photos/g0v/albums/72157717551224772/with/50762037233)
