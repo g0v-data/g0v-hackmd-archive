@@ -254,6 +254,17 @@ The HTML code above creates an unordered list with three items. The first item h
 ```
 This CSS code defines two layers, `base` and `special`, where `special` sets `.item` color to red and `.feature` color to revert to its default, while `base` sets `.item` color to blue.
 
+In this scenario, all the items will be red because the `.item` selector has a `color: red` property. However, the `.feature` selector, which takes priority due to specificity, will revert to its default color using the `revert` keyword. This keyword rolls the style back to the browser style, which is black by default in browsers. 
+
+The `revert` keyword does not consider if there’s another layer with the same styling; it simply reverts the styles back to the browser origin. 
+
+See the result of the code above in the image below:
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f441211770e03a071d872314045eeb9e.png)
+
+Now, let's consider an example of using the `revert-layer` keyword:
+
+We will just make use of the previous HTML code written earlier for this exmple
 
 ### Modifying styles across layers
 
