@@ -38,6 +38,9 @@ https://www.facebook.com/share/p/MtLm81r3D9SoQ5jP/
 待確認，捷運善導寺站地面出口
 https://photos.app.goo.gl/7thhtqW9mzkBupp77
 
+待確認，信義路 捷運電梯出口
+https://maps.app.goo.gl/WS2BQQumRhYcQU5t5?g_st=ic
+
 臺北市內湖區捷運劍南路站高架月台南下月台等候區玻璃，有貼但可能未達到防撞效果？
 https://photos.app.goo.gl/JLsjbgnTNt1g5jbE9
 
