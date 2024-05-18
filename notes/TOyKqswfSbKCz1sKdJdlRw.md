@@ -226,10 +226,35 @@ If you have used the `revert` keyword, you are aware that it removes the styles 
 
 To gain a better understanding of this use case, let's examine the difference between `revert` and `revert-layer` using the following examples.
 
-First, here's how the `revert` keyword is used:
+First, here's how the `revert` keyword is used, :
+```html
+<ul>
+    <li class="feature">Subject one</li>
+    <li class="item">Subject two</li>
+    <li class="item">Subject three</li>
+  </ul>
 ```
+The HTML code above creates an unordered list with three items. The first item has the class `feature` and the second and third items have the class `item`.
+```css
+@layer base, special;
 
+@layer special {
+    .item {
+        color: red;
+    }
+    .feature {
+        color: revert;
+    }
+}
+@layer base {
+    .item {
+        color: blue;
+    }
+}
 ```
+This CSS code defines two layers, `base` and `special`, where `special` sets `.item` color to red and `.feature` color to revert to its default, while `base` sets `.item` color to blue.
+
+
 ### Modifying styles across layers
 
 ## Assessing Browser Compatibility
