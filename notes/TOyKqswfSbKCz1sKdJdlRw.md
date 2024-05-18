@@ -34,9 +34,9 @@ The code above defines an unordered list `<ul>` with three list items `<li>`, ea
     }
 }
 ```
-This code organizes CSS styles into two layers, with the "base" layer setting the text color of elements with the class `.item` to blue, and the "special" layer setting the font weight of elements with the class `.feature` to bold.
+This code organizes CSS styles into two layers, with the `base` layer setting the text color of elements with the class `.item` to blue, and the `special` layer setting the font weight of elements with the class `.feature` to bold.
 
-Similarly, we have arranged the layers in such a way that priority is given to the special layer over the base layer, resulting in the image shown below:
+Similarly, we have arranged the layers in such a way that priority is given to the `special` layer over the `base` layer, resulting in the image shown below:
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_482cf382d3acac8789ee059cb6ab0382.png)
 
@@ -175,7 +175,16 @@ Below is the result of our code:
 ## Practical Applications
 We have learned about the `revert-layer` and how to use it. Now, let’s explore some scenarios where it can be useful. Although the `revert-layer` is not widely used yet, it offers unique advantages in specific situations.
 ### Implementing modular styling
+Modular styling, in the context of the `revert-layer` keyword in CSS, offers a powerful way to manage and maintain styles across different layers of a web application. The `revert-layer` keyword allows developers to selectively roll back styles to the values set in previous layers, enhancing the flexibility and control of modular styling.
 
+By using modular styling, styles are scoped to specific components or modules, which prevents conflicts and makes it easier to manage styles. With the use of layers, each module can have its own layer, and the `revert-layer` feature can help manage overrides in a controlled manner. 
+
+Modular styling can be effectively implemented using the `revert-layer` keyword. Here's how:
+
+First we write out our HTML code.
+```html
+
+```
 ### Executing a full global style reset
 ### Modifying styles across layers
 

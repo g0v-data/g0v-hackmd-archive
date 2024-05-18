@@ -4,10 +4,13 @@
 
 ### 各種直播
 -  第11屆第1會期第14次會議 [IVOD 影片](https://ivod.ly.gov.tw/Play/Full/1M/15925)（會議時間：2024-05-17）
+-  苗博雅【阿苗的臺北百科全書】[特刊：立法院為什麼打架？](https://www.youtube.com/watch?v=7lRYgYmQkTc&t=1182s)（直播時間：事發當晚）
 
 ### 各種動態
 - 約 12:00 立委鍾佳濱一度衝上主席台，撲倒國民黨立委陳菁徽 https://www.cna.com.tw/news/aipl/202405170112.aspx
 - 約 14:00 徐巧芯拿布條勒王美惠脖子 https://www.cna.com.tw/news/aipl/202405170146.aspx
+- 約 15:00 鍾佳濱搶秘書長周萬來提案文件
+ https://udn.com/news/story/123475/7970877
 - 約 19:00 立委沈伯洋遭國民黨立委推下主席台、頭部著地、被送往台大醫院 https://www.cna.com.tw/news/aipl/202405170312.aspx
 
 ## 議場外
