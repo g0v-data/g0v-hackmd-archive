@@ -222,7 +222,14 @@ Overall, we kept every other property and only changed the padding. The result w
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e52738072f4b4b9d72f03d10dae68620.png)
 ### Executing a full global style reset
+If you have used the `revert` keyword, you are aware that it removes the styles applied in the specified style origin and returns the style to the default browser style.
 
+To gain a better understanding of this use case, let's examine the difference between `revert` and `revert-layer` using the following examples.
+
+First, here's how the `revert` keyword is used:
+```
+
+```
 ### Modifying styles across layers
 
 ## Assessing Browser Compatibility
