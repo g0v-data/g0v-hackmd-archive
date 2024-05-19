@@ -26,6 +26,28 @@
 - 使用NAT的好處
     - 外部監聽者無法得知內部IP
     - 擴大可用IP地址的數量:一個ip可用的port大約有4000個，假設有248個ip address，表有248*4000個 external connection
-        
-## VPN
+
+## DNS
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b41cf56e07cb4af8a3b00f9934de5b89.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_33c165a7a03f583bc118c7286e891a21.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1b4912daacbc28829fe7d08dab35b2ac.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ea9d4f0f1f3bfaa42c9fad58e1ed2e42.png)
+
+- DNS有層次結構
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0ac6d5e14e55b783e6e06e3212b8a876.png)
+
+## VPNS(虛擬專用網路)
+- 一種在公共網路上建立私人網路連接的技術
+    1. 建立隧道：在用戶設備和 VPN 服務器之間建立一個加密的通信隧道。
+    2. 數據加密：在數據進入隧道之前，使用加密技術對數據進行加密，確保數據在傳輸過程中保密。
+    3. 數據傳輸：加密的數據通過公共網路（如互聯網）傳輸到 VPN 服務器。
+    4. 數據解密：VPN 服務器接收到加密數據後，對數據進行解密，然後將其發送到目標資源。
+### two types of VPNS
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_38588593bb6cdaa34f3c0ef251a9b99c.png)
+1. remote access VPN:用戶連接到網站上的VPN Gateway
+2. Site-to-site VPN:每個站點都會有VPN保護兩個站點之間的所有流量
 

@@ -300,11 +300,89 @@ The CSS code above defines two layers, `base` and `special`. In the `base` layer
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f98c075687cecadaf256f3294a753737.png)
 
+Moving forward, let’s consider the following example to demonstrate how we can utilize `revert-layer` as a global reset:
 
+First lets write out our HTML code:
+```html
+<ul>
+    <li class="feature">Subject one</li>
+    <li class="item">Subject two</li>
+    <li class="item">Subject three</li>
+  </ul>
+```
+The code ab shows an unordered list with three items, where the first item has the class `feature` and the second and third items have the class `item`.
+```css
+&,
+* {
+    all: revert;
+}
 
+@layer base, special;
 
+@layer special {
+    .item {
+        color: red;
+    }
+    .feature {
+        color: revert-layer;
+    }
+}
 
+@layer base {
+    .item {
+        color: blue;
+    }
+}
+```
+This CSS code resets all elements to their default styles using `all: revert`, then defines two layers (`base` and `special`) where the `.item` class is styled blue in the `base` layer and red in the `special` layer, and the `.feature` class reverts to the `base` layer's blue color. The image below shows the result of the code above:
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4da65d8dc6d73f6983ccf534411be7d1.png)
+
+`Revert-layer`, however, is more useful as it restores the styles to their original state, making it a more relevant choice.
 ### Modifying styles across layers
+We have observed that the `revert-layer` keyword can be utilized to revert to the previous default styles of the browser. Let's consider a situation where we need to introduce a new styling layer.
+
+This scenario might arise in the context of a large and intricate code base where we aim to prevent styling conflicts and preserve the designs. In such a scenario, a practical and effective approach would involve relocating the current designs into a layer and then creating a new layer.
+
+See the code below:
+
+First we write out our HTML code just like the previous
+```html
+<ul>
+    <li class="feature">Subject one</li>
+    <li class="item">Subject two</li>
+    <li class="item">Subject three</li>
+</ul>
+```
+The HTML code above creates an unordered list with three items, assigning the class `feature` to the first item and the class `item` to the second and third items.
+
+Now lets look into the css code:
+```css
+@layer oldStyles, newStyles;
+
+@layer oldStyles {
+    .item {
+        color: green;
+    }
+    .feature {
+        color: #464646;
+    }
+}
+
+@layer newStyles {
+    &,
+    * {
+        all: revert-layer;
+    }
+  
+  /* ... new styles here */
+    .feature {
+        color: blue;
+    }
+}
+```
+This CSS code defines two layers, `oldStyles` and `newStyles`, where the `.item` and `.feature` classes are styled in `oldStyles` with green and dark gray colors, respectively. In the `newStyles` layer, all styles revert to the previous layer (`oldStyles`), but the `.feature` class is then specifically styled with a blue color.
+
 
 ## Assessing Browser Compatibility
 ## Conclusion
