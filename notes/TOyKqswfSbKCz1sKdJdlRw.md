@@ -264,7 +264,45 @@ See the result of the code above in the image below:
 
 Now, let's consider an example of using the `revert-layer` keyword:
 
-We will just make use of the previous HTML code written earlier for this exmple
+We will just make use of the previous HTML code written earlier for this example
+```html
+<ul>
+    <li class="feature">Subject one</li>
+    <li class="item">Subject two</li>
+    <li class="item">Subject three</li>
+  </ul>
+```
+Just as explaineda earlier the code above creates an unordered list with three items, where the first item has the class `feature` and the second and third items have the class `item`.
+
+Now we take a look at the css code below carrying the function of the `revert-layer`
+```css
+@layer base, special;
+
+@layer base {
+    .item {
+        color: blue;
+    }
+    .feature {
+        color: blue; /* Base layer sets feature to blue */
+    }
+}
+
+@layer special {
+    .item {
+        color: red;
+    }
+    .feature {
+        color: revert-layer; /* Reverts to the base layer's color */
+    }
+}
+```
+The CSS code above defines two layers, `base` and `special`. In the `base` layer, the `.item` and `.feature` classes are styled blue. In the `special` layer, the `.item` class is styled red. When using the `revert-layer` keyword, the `.feature` item will be styled blue because it reverts the styles back to the previous layer, which in our case is the `base` layer where the item is styled blue. Here’s the result:
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f98c075687cecadaf256f3294a753737.png)
+
+
+
+
 
 ### Modifying styles across layers
 

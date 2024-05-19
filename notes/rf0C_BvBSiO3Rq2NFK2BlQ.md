@@ -155,7 +155,21 @@ The problem:
 - Normal TCP Close
     - step 1:客戶端傳送終止(FIN)訊號，表想結束連線
     - step 2:伺服器端傳送ACK，表有收到訊息，但還有東西要送
-    - step 3:客戶端收到後回傳ACK，表收到
+    - step 3:客戶端收到後回傳ACK，表有收到訊息
+    - step 4:伺服器端沒有東西要送後，傳送FIN
+    - step 5:客戶端收到後回傳ACK，表有收到訊息
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1882cfdbf1336cbd0e8527f6e2402678.png)
+
+- Abrupt TCP Close
+    - 立即關閉連線
+
+## UDP
+- 大部分訊息都很短(不用connection)
+- 不會切割、回復
+- Datagram獨立存在
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3f22f1ddb2c6fb5565ca5ff05873e810.png)
+
 
 
 
