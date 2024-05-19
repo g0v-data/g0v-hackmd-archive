@@ -381,8 +381,16 @@ Now lets look into the css code:
     }
 }
 ```
-This CSS code defines two layers, `oldStyles` and `newStyles`, where the `.item` and `.feature` classes are styled in `oldStyles` with green and dark gray colors, respectively. In the `newStyles` layer, all styles revert to the previous layer (`oldStyles`), but the `.feature` class is then specifically styled with a blue color.
+This CSS code defines two layers, `oldStyles` and `newStyles`, where the `.item` and `.feature` classes are styled in `oldStyles` with green and dark gray colors, respectively. In the `newStyles` layer, all styles revert to the previous layer (`oldStyles`), but the `.feature` class is then specifically styled with a blue color. The result is shown below:
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cb52a94e2f01d462d61d97ae87d46190.png)
 
+This strategy allows elements to retain their old styles if desired, as we revert to the previous style origin set by the developer. This could also be relevant for style management or version control.
 ## Assessing Browser Compatibility
+CSS cascade layers, such as the revert-layer keyword, offer promising capabilities for CSS architecture. However, it’s crucial to consider browser compatibility. Additionally, revert-layer is not easily polyfillable, which complicates its adoption in projects targeting a wide range of browsers.
+
+MDN's documentation officially states that browser support for the revert-layer is limited.
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_699001a9392ddc136f3d5b982d598f96.png)
+
+
 ## Conclusion
