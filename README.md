@@ -2,7 +2,9 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 7896 | 2024-05-19T19:03:34+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 7898 | 2024-05-19T21:00:00+08:00 |
+| [cofacts](tags/cofacts.md) | 441 | 2024-05-19T20:20:53+08:00 |
+| [meeting note](tags/meeting%20note.md) | 266 | 2024-05-19T20:20:53+08:00 |
 | [GIS](tags/GIS.md) | 149 | 2024-05-18T12:39:41+08:00 |
 | [digital-resilience](tags/digital-resilience.md) | 35 | 2024-05-18T10:22:29+08:00 |
 | [resilience](tags/resilience.md) | 26 | 2024-05-18T10:22:29+08:00 |
@@ -14,7 +16,6 @@
 | [DigiResiTh0n](tags/DigiResiTh0n.md) | 25 | 2024-05-18T10:22:29+08:00 |
 | [hackathon](tags/hackathon.md) | 42 | 2024-05-18T10:22:29+08:00 |
 | [civil defense](tags/civil%20defense.md) | 9 | 2024-05-18T10:22:29+08:00 |
-| [cofacts](tags/cofacts.md) | 440 | 2024-05-17T23:23:56+08:00 |
 | [Templates](tags/Templates.md) | 243 | 2024-05-17T22:45:41+08:00 |
 | [Book](tags/Book.md) | 157 | 2024-05-17T22:45:41+08:00 |
 | [Tag(change me!)](tags/Tag%28change%20me%21%29.md) | 180 | 2024-05-17T22:44:18+08:00 |
@@ -43,7 +44,6 @@
 | [g0vernance](tags/g0vernance.md) | 44 | 2024-05-14T18:23:37+08:00 |
 | [g0v](tags/g0v.md) | 72 | 2024-05-14T18:23:37+08:00 |
 | [澳門](tags/%E6%BE%B3%E9%96%80.md) | 6 | 2024-05-14T14:20:22+08:00 |
-| [meeting note](tags/meeting%20note.md) | 265 | 2024-05-13T20:34:37+08:00 |
 | [herstory](tags/herstory.md) | 4 | 2024-05-12T17:24:30+08:00 |
 | [FacingtheOcean](tags/FacingtheOcean.md) | 2 | 2024-05-12T17:24:30+08:00 |
 | [防災](tags/%E9%98%B2%E7%81%BD.md) | 7 | 2024-05-11T13:05:39+08:00 |

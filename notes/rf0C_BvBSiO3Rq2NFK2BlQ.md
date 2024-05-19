@@ -150,6 +150,13 @@ The problem:
     - step 2:伺服器收到訊息後，如果願意建立連接，會回傳SYN+ACK，ACK表確認收到客戶端發送的SYN，SYN表自己也想要建立連接
     - step 3:客戶端接收到訊息後會回傳ACK作為最後的確認，表示連線已建立完成。
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0e2ca8d234c888ace96a344324e4dbbe.png)
+
+- Normal TCP Close
+    - step 1:客戶端傳送終止(FIN)訊號，表想結束連線
+    - step 2:伺服器端傳送ACK，表有收到訊息，但還有東西要送
+    - step 3:客戶端收到後回傳ACK，表收到
+
 
 
 
