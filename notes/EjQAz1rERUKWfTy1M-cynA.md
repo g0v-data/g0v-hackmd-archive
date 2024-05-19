@@ -125,3 +125,7 @@ http://dev.cofacts.tw/
 > Cloudflare Report
 > https://drive.google.com/file/d/10bx6J1HD_IHi3rC_x0ckNDUOK_KFYI53/view?usp=sharing
  
+ 
+## 5 月開會時間
+
+- 5/27 線上 only, 時間相同
