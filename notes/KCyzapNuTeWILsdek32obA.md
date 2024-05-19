@@ -29,5 +29,5 @@ https://www.facebook.com/TaipeiBar/posts/pfbid02nENDnAERzwZeWJz1vbaXyfWayNKztzJ6
 - 22:43 中央社報導發布 https://www.cna.com.tw/news/aipl/202405170377.aspx
 - 約 23:30 青島東路群眾唱島嶼天光 https://www.threads.net/@a_break_cafe/post/C7Eyt72vybF/
 - 約 24:00 數位民進黨立委聚集青島東路側門內，稱現場群眾為「立法院的隱形席次」
-- 約 24:00 青島東路群眾呼喊黃國昌，黃國昌現身二樓窗戶 https://www.threads.net/@okinafa/post/C7FCKivPOZr/
+- 約 24:00 青島東路群眾呼喊黃國昌，疑似黃國昌人物現身二樓窗戶 https://www.threads.net/@okinafa/post/C7FCKivPOZr/
 
