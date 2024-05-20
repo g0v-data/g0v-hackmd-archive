@@ -59,5 +59,27 @@
 
     - Tunnel mode:只在Internet有保護，較便宜
     ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ae9b70dc49fdff8e802d0540d4948d4f.png)
+    
+## IPv6 Subnetting
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5c0315d2a8f42d586b24809e666fa5c7.png)
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b3c6718cff3187c583ba6578d852e08b.png)
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_91c4dcca2a9e0eba8aef80a80ca4bf99.png)
+
+## Dynamic Routing Protocols
+- 通訊必須透過動態路由協定標準化，動態路由協定有多種
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_077796d8ec87e23beec139ec7b977020.png)
+
+## ICMP
+- ICMP 提供錯誤建議訊息
+- 幫助診斷錯誤
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_dee6d65c3e3fe96f3a20eb4355ccec3b.png)
+
+- request:發送方主機請求測試連通性
+- reply:接收方主機響應連通性測試請求
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_307378d8377433f2d557bab00da11a51.png)
+
+- Ping：檢測目標主機的可達性和響應時間。
+- Traceroute：追蹤數據包到目標主機的路由路徑，定位網路中的瓶頸或故障點。

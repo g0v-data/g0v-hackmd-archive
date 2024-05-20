@@ -82,6 +82,7 @@ https://www.facebook.com/11.11LAPeaceGo/photos/a.291644340944594/307234052718956
 
 食物外型近似臺灣，例如雞排、牛肉片、芒果斷面、韭菜盒子
 https://www.facebook.com/story.php?story_fbid=pfbid02d4Xwq3JQaCbJin9m57z8Kaxsj8mX15NXQ9vbaAnzQc1PWii1Ez7CD47f2Nt7Pedvl&id=100070186572262&mibextid=qC1gEa
+https://www.facebook.com/share/9mQvLC9ty996R6gr/
 
 logo
 https://photos.app.goo.gl/tN3Az3zyKYJex43a9
