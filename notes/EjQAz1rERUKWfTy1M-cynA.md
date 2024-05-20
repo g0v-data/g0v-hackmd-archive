@@ -12,120 +12,68 @@ GA: UA-98468513-3
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
-## :potable_water: Release pipeline
+## CCPRIP
+### [Op] Transcript spam
 
-### :star: Released to production
+Removed cases [last week](https://g0v.hackmd.io/fSJ-OU9cRKSLxENOi9Z4VQ#Op-Transcript-spam) - https://github.com/cofacts/takedowns/blob/master/2024/0520-transcript-spam.md
 
-#### :electric_plug: API
-#### :globe_with_meridians: Site
-#### :robot_face: rumors-line-bot
-
-### :rocket: Staging
-
-#### :robot_face: rumors-line-bot
-
-##### Testing checklist
-
-https://lin.ee/1QUzEX4nI
-
-- [ ] 應可送出「全新訊息」
-    - [ ] 問訊息來源時選擇「我自己打的」會被擋下。
-    - [ ] 選擇「整篇轉傳」後會詢問是否要送出訊息。
-    - [ ] 不同意送出訊息後可以收到感謝。
-    - [ ] 同意送出訊息後就會送出訊息，並得到：
-        - [ ] Cofacts article page 按鈕
-        - [ ] 寫理由的按鈕
-        - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
-        - [ ] 「分享到 Facebook」、「分享到 LINE」且可以正常運作
-    - [ ] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
-    - [ ] 可以再打開理由視窗，此時會載入上次填寫的理由。修改理由送出後，查看 article page 看理由是否有被送出。
-
-- [ ] 送出「沒回應」的舊訊息，應可送出新理由
-    - [ ] 文章的「N 人回報」應該仍然要 + 1（除非測試者已經針對該篇送過 reply request）。
-    - [ ] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
-    - [ ] 可以修改理由送出。查看 article page 看理由是否有被送出。
-    - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
-
-- [ ] 送出「有回應」的舊訊息，應自動回傳回應
-    - [ ] 應列出訊息所有的回應
-    - [ ] 選擇回應之後可以幫回應 upvote
-    - [ ] 可以再次選擇 downvote
-    - [ ] 選完回應之後，還可以捲回去選其他回應
-    - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
-
-- [ ] Rich menu 測試
-    - [ ] 「設定」更改後再次打開，應該會保留原本設定
-    - [ ] 「教學」可以觸發教學流程
-
-##### ⛔️ Release Blockers
-##### 未竟項目
-
-#### :globe_with_meridians: Site
-##### Testing checklist
-http://dev.cofacts.tw/
-
-**未登入**下檢測：
-
-- [ ] Article list
-  - [ ] Filter works
-  - [ ] Sorting works
-  - [ ] Can go to article page
-- [ ] Replies list
-  - [ ] Filter works
-    - [ ] 不允許選擇 Replied by me
-  - [ ] Sorting works
-  - [ ] Can go to article page
-  - [ ] 不允許 upvote / downvote replies
-  - [ ] Can see vote reasons
-- [ ] Hoax for you
-  - [ ] Filter works
-  - [ ] Can go to article page
-- [ ] Article detail
-  - [ ] Can see similar messages
-  - [ ] Cannot submit, upvote, downvote reply request
-  - [ ] Cannot submit, upvote, downvote reply
-  - [ ] Cannot add, remove, upvote, downvote category
-- [ ] Search
-  - [ ] Can use global search to perform search
-  - [ ] Can use textarea in header to perform searchs
-     - Known issue: firefox 無法
-  - [ ] Can list searched articles
-    - [ ] Filter works
-    - [ ] Can go to article page
-  - [ ] Can list searched replies
-
-登入自有帳號後檢測：
-- [ ] Replies search page
-  - [ ] can upvote / downvote replies
-- [ ] Replies list
-  - [ ] 可選擇 Replied by me
-  - [ ] can upvote / downvote replies
-- [ ] Article detail
-  - [ ] Can submit, upvote, downvote reply request
-  - [ ] Can submit, remove own reply
-  - [ ] Can upvote, downvote other's article reply
-  - [ ] Can add, remove, upvote, downvote category
-- [ ] Can go to profile page on menu
-    - [ ] Can edit own name, bio, URL
-    - [ ] Can see own replies
-- [ ] Can logout
-
-##### ⛔️ Release Blockers
-
-##### 未竟項目
-
-
-### :eye: Under review
-
-
-## 20240519 DDoS 攻擊
+## 20240514, 20240519 DDoS 攻擊
 
 > Recorded to: https://hackmd.io/i0GcWSSVQNeDQ_OBebyk6Q?both#20240519-DDoS-attack
 >
-> Cloudflare Report
-> https://drive.google.com/file/d/10bx6J1HD_IHi3rC_x0ckNDUOK_KFYI53/view?usp=sharing
- 
- 
+
+### Before 5/14
+
+5/9、5/12 Received same emails twice from the same address
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a7bbf9af3b10238ea0f91b4e77c7c3a7.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_208ad6d8f70106d00be1c00f11d82985.png)
+
+> 這次被攻擊的網頁，前幾天我們有收到來信檢舉二次詐騙
+剛才一查 email 發現，根本就是詐騙集團寄來的信。
+> [name=mrorz]
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_48d5d01aa2a215d3b71f6a27b7a17ad1.png)
+
+> 結果我幾天前有回那個 zhenghe18168 Cofacts 這裡的處理方式
+> 等於是把 honeypot 跟他們說了 ._.
+> [name=mrorz]
+
+### 5/14 DDoS
+
+Time
+- 17:08 health check report: all services offline (API, line bot, website)
+- 17:20 attack stopped
+- 17:26 recveived another email from different address but using the same terms, thus should from the same person
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d62a6d62495b97f6603c54a11075669f.png)
+
+Cloudflare report
+https://drive.google.com/file/d/1XkD4o4l95iqUKf8AVHzeODlK8MhAMJBa/view?usp=drivesdk
+- DDoS requests: 12.82M
+    - 1M req / min, QPS = 16K
+- Attack method: rapidly accessing the same page using different IPs: cofacts.tw/article/2v60p2lt2jmdx
+-  攻擊可以判斷為寄信者，希望將此網頁下架
+
+### 5/15 Cofacts FB fan page received messages
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_12d037c419030954f1a922d04ff62b99.png)
+
+[Sender profile](https://www.facebook.com/profile.php?id=61554300789951) ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d98f9885692387bfc19bd583efe87c22.png)
+
+### 5/18 DDoS
+
+Time
+- 17:10 Attack start, Cloudflare starts blocking requests
+    - 
+- 17:30 health check report: all service timeout (API, website, line bot)
+- 17:32 MrOrz  acknowledge downtime, investigating Cloudflare, found that it's an attack
+- 
+
+Cloudflare report
+https://drive.google.com/file/d/10bx6J1HD_IHi3rC_x0ckNDUOK_KFYI53/view?usp=sharing
+
+
+### Mitigation
+
 ## 5 月開會時間
 
 - 5/27 線上 only, 時間相同
