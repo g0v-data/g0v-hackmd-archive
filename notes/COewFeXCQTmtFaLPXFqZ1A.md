@@ -51,7 +51,8 @@ https://airtable.com/appEy0jH7wgeFfcMY/shrjmzerb0sobb2oY/tbloPq4roEvv5xzFL/viwJC
 ## 曼谷 / บางกอก / Bangkok
 
 GIS data
-- 泰文的編碼: TIS-620
+- 泰文的編碼: TIS-620 
+- http://3d-cpd.bangkok.go.th/bmaall/
 - http://www.bangkokgis.com/modules.php?m=download_shapefile&fbclid=IwAR2PoWL2dJU9K4vRaELd-7tzaSovzItA_c0qHXDsuJcabf_pvPa81w5UURA
 - https://www.facebook.com/groups/600385406707053/permalink/2247263875352523?sfns=xmo
 
