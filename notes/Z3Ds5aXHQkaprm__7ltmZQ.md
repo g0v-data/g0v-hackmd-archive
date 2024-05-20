@@ -30,7 +30,7 @@
 | 直式海報| 將會顯示在索引頁上| 檔案大小5mb內|
 | 橫式劇照| 將會顯示在作品詳細頁的首圖| 檔案大小5mb內|
 | 作品類型| 將決定作品會出現在哪個分類索引中
-| Featured| 適用於戲劇及電影作品，勾選為Yes的作品，將出現在索引頁上方的精選區塊。|每作品類型最多勾選四項|
+| Featured| 勾選為'Yes'的作品可顯示於索引頁上方精選區塊。（綜藝作品類無此區塊，故不適用）|每作品類型最多勾選四項|
 |副標|行銷文案|建議兩句以內
 |簡介|內容較完整的介紹，如劇情簡介|
 |得獎|得獎品牌|
@@ -55,12 +55,16 @@
 
 ## 三、首頁
 
-### 切換至首頁
+### 編輯首頁
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1d24bd8c15f5c401c6dc02e3cc07dc8f.png)
+
+1. 切換至'Layers'層級
+2. 切換至首頁（Home）
 <br/>
 ### 變更Slogan
 ==:desktop_computer: Desktop/Tablet==
  
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f71bbfe8d15442f86c2210bd26a99b73.png)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_70447416935aaf816972e4a40c7b3014.png)
 

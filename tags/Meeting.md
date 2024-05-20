@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [240520 Meeting](../notes/9V6drP_wRsyG32YaGm3Y3w.md) | 2024-05-20T14:41:49+08:00 | 2024-05-20T14:39:07+08:00 |
+| 1 | [Beyond Plaza IT Meeting](../notes/9V6drP_wRsyG32YaGm3Y3w.md) | 2024-05-20T15:43:06+08:00 | 2024-05-20T14:39:07+08:00 |
 | 2 | [Meeting Minute](../notes/EUD5UBr0TfOV6pp0LCM0hA.md) | 2024-03-28T18:09:08+08:00 | 2024-03-28T18:08:53+08:00 |
 | 3 | [Meeting Minute](../notes/ctprQHuRQk6A_429Q5I_lg.md) | 2024-02-23T09:44:35+08:00 | 2024-02-23T09:44:26+08:00 |
 | 4 | [Meeting Minute](../notes/2_kOiuXZQY2DfwC0zQbsVw.md) | 2023-08-31T10:55:11+08:00 | 2023-08-31T10:54:59+08:00 |

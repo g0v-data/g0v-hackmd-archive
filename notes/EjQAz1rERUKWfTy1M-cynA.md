@@ -18,6 +18,11 @@ GA: UA-98468513-3
 
 Removed cases [last week](https://g0v.hackmd.io/fSJ-OU9cRKSLxENOi9Z4VQ#Op-Transcript-spam) - https://github.com/cofacts/takedowns/blob/master/2024/0520-transcript-spam.md
 
+### [Op] 垃圾訊息反制
+> https://g0v.hackmd.io/um7DyY_ESbu2LL78kLw3pg?view
+
+本週沒有進度
+
 ## 20240514, 20240519 DDoS 攻擊
 
 > Recorded to: https://hackmd.io/i0GcWSSVQNeDQ_OBebyk6Q?both#20240519-DDoS-attack
@@ -102,3 +107,36 @@ Cloudflare report
 ## 5 月開會時間
 
 - 5/27 線上 only, 時間相同
+
+## 小聚籌備
+
+- 確定是 6/1
+
+----
+
+- [x] 日期：6/1（六）
+- [ ] 食物：馬來西亞土產
+- [x] 場地：NPO Hub Foundry（大的那間）
+- [x] 時間：
+	- 活動時間：14:00 - 17:00
+	- 時間分配
+        - 2:00 - 2:20 開場
+            - 影片
+            - Slido 暖身
+        - 2:20 - 2:40 引導註冊網站、介紹評價現有回應
+        - 2:40 - 2:50 實作評價
+        - 2:50 - 3:10 介紹補充資訊
+        - 3:10 - 3:40 實作補充資訊、自我介紹、休息
+        - 3:40 - 4:10 介紹撰寫新回應
+        - 4:10 - 4:40 實作撰寫新回應
+        - 4:40 - 5:00 介紹分類、RSS、合照
+- [ ] 投放目標：
+  - 推播日：5/21 推播
+  - 推播日之前：新北志工優先報名
+  - 目標：雙北
+- [x] KKTIX: https://cofacts.kktix.cc/events/cofactseditor42
+- [ ] 誰會來呢：bil, mrorz, nonumpa
+- [ ] 記得帶：貼紙、環保杯
+- [ ] LINE 文案
+- [ ] VOOM 發文
+

@@ -1,30 +1,41 @@
-240520 Meeting
+Beyond Plaza IT Meeting
 ===
 
-###### tags: `表單電子化` `Meeting`
 
 :::info
-- **Location:** 每周部門會議
-- **Date:** 05 20, 2024 11:00 AM
-- **Agenda**
-1. Walk through signup flow `45min`
-	> [name=Yukai]
-2. Sprint planning `45min`
-3. Revisit onboarding v1 `20min`
-- **Participants:**
-    - Max (MX)
-    - Yukai (YK)
-    - Yuhsuan (YH)
-    - Arwen (YC)
-- **Contact:** Max <max@example.com>
-- **Host:** YK
-- **Reference:** - [Last week meeting minute](/s/template-meeting-note)
-
+- **主題:** 每週部門會議
+- **日期:** 05 06, 2024 `11:00 AM`
 :::
 
-## Walk through signup flow 
+###### tags: `Meeting` `Meeting`
 
-- [Slide to explain the flow](/p/slide-example)
+
+:spiral_note_pad:回報內容(包含lun回報)
+---
+    - APP 規格為提供 -這週會追
+    - 
+-
+- 本月目標：熟悉產品 因下月要盤點
+
+## 會議內容 
+
+---
+:::info
+- **主題:** 每週部門會議
+- **日期:** 05 20, 2024 `11:00 AM`
+:::
+###### tags: `Meeting` `Meeting`
+
+:::info
+- **主題:** 每週部門會議
+- **日期:** 05 20, 2024 `11:00 AM`
+:::
+###### tags: `Meeting` `Meeting`
+
+
+## 回報學習進度
+
+- 熟悉語法跟常用，醬之前練習的練習的
 
 :dart: Sprint Goal
 ---
@@ -44,7 +55,7 @@
 --
 ==Importance== (1 - 5) / Name / **Estimate** (1, 2, 3, 5, 8, 13)
 ### Development Team:
-- [ ] ==5== Email invite
+- [ ](/_fCtdms9Tb6p0DPDu7GO3A) ==5== Email invite
   - [x] ==4== Email registration page **5**
   - [ ] ==5== Email invitees **3**
 - [ ] ==4== Setup e2e test in production **2**
