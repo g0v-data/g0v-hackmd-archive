@@ -1,7 +1,7 @@
 Vsport
 
 Website VSPORT.VIP cung cấp dịch vụ cá cược giải trí trực tuyến toàn diện nhất cho mọi bet thủ với phương châm uy tín, chuyên nghiệp và minh bạch nhất. Giao diện dễ sử dụng và bảo mật an toàn người chơi
-Website: https://bongdalu.bot/
+Website: https://vsport.vip/
 Email: vsportvip@gmail.com
 Địa chỉ: 77 D. Thị Mười, Tân Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh, Việt Nam
 Hotline: 0815720224
