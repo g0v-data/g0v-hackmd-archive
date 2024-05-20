@@ -16,7 +16,7 @@ The following are the advantages of blue-green deployment:
   
 * Risk Management: Having two identical environments allows for effective risk management. If unexpected issues occur in the green environment, the blue environment remains operational, serving as a backup. This ensures that the organization can continue providing services even in the event of failure.
 
-* Seamless Updates: Blue-green deployment enables seamless updates by gradually routing traffic from the blue environment to the green environment. This gradual transition minimizes the impact on users and allows developers to monitor the deployment process in real-time.
+* Seamless Updates: Blue-green deployment enables seamless updates by gradually routing traffic from the blue environment to the green environment. This gradual transition minimizes the impact on users and allows developers to monitor the deployment process in real time.
 
 ## Testing in Production
 Testing can be done in a green, production-like environment with blue-green deployment. This lessens the possibility that end users may be impacted by defects or performance problems by enabling developers to find and fix problems early in the deployment process.
@@ -35,13 +35,13 @@ Because developers can track and evaluate changes' performance in a green enviro
 ### Best Practices for Testing in Production with Blue-Green Deployment
 Following these steps is essential to a seamless blue-green deployment transition:
 
-To avoid interfering with the live production environment, first carry out isolated testing (blue). To prevent unforeseen effects on end users, keep testing in a green environment apart from production.
+To avoid interfering with the live production environment, first, carry out isolated testing (blue). To prevent unforeseen effects on end users, keep testing in a green environment apart from production.
 
 Secondly, implement a phased-in strategy. Before making larger adjustments, implement improvements in the green environment gradually and observe their impact. This regulated process reduces the possibility of widespread problems.
 
 Thirdly, put strong observability and monitoring mechanisms into practice. These solutions enable early anomaly identification and prompt action by offering real-time insights into the behavior and performance of the application in a green environment.
 
-Furthermore, prepare a backup plan. Make sure that a smooth process exists for rolling back modifications and returning to a reliable production environment in the event that problems occur during testing.
+Furthermore, prepare a backup plan. Make sure that a smooth process exists for rolling back modifications and returning to a reliable production environment if problems occur during testing.
 
 Finally, use automated testing to make the testing procedure more efficient. Automated tests save manual labor and offer comprehensive coverage of test scenarios because they can be run fast and reliably.
 
@@ -53,7 +53,7 @@ Blue-green deployment is commonly used in various scenarios, including:
   
 * Web Applications: For rolling out updates, new features, or bug fixes to web-based applications without downtime. Examples of web applications that utilize this deployment strategy include [LinkedIn](https://ng.linkedin.com/) and [Github](https://github.com).
   
-* E-commerce Platforms: For ensuring continuous availability of online stores and minimizing disruptions during updates or maintenance. Examples of e-commerce platforms that utilize this deployment strategy include [Amazon](https://www.amazon.com) and [Etsy](https://www.etsy.com).
+* E-commerce Platforms: To ensure continuous availability of online stores and minimize disruptions during updates or maintenance. Examples of e-commerce platforms that utilize this deployment strategy include [Amazon](https://www.amazon.com) and [Etsy](https://www.etsy.com).
   
 * SaaS (Software as a Service) Platforms: For deploying updates to cloud-based applications while maintaining service availability for users. Platforms such as [SalesForce](https://en.m.wikipedia.org/wiki/Salesforce) and [Google Workspace](https://workspace.google.com) utilize this strategy. 
 
@@ -69,7 +69,7 @@ Source: aws.amazon.com
 In this deployment model, two environments are utilized: blue and green. Let's illustrate this with an example. Assume that version 1 is the current version of the application, while version 1.1 represents the new update. Version 1 is designated as the blue environment, while Version 1.1 is the green environment.
 
 ### The Process of Switching Traffic Between Environments
-As seen in the above image, [load balancers](https://en.wikipedia.org/wiki/Load_balancing_(computing)) and [routers](https://www.cloudflare.com/learning/network-layer/what-is-a-router/#:~:) are used to move users from the blue instance to the green one. Load balancers provide instantaneous switching in contrast to [DNS](https://www.cloudflare.com/learning/dns/what-is-dns/) record changes, which may take some time to propagate. The load balancer directs fresh traffic to the green environment by using the same DNS record, enabling smooth user control. In the event that there are problems with the green instance, this is essential for rapidly rolling users back to version 1 (the blue instance).
+As seen in the above image, [load balancers](https://en.wikipedia.org/wiki/Load_balancing_(computing)) are used to move users from the blue instance to the green one. Load balancers provide instantaneous switching in contrast to [DNS](https://www.cloudflare.com/learning/dns/what-is-dns/) record changes, which may take some time to propagate. The load balancer directs fresh traffic to the green environment by using the same DNS record, enabling smooth user control. If there are problems with the green instance, this is essential for rapidly rolling users back to version 1 (the blue instance).
 
 ### Deployment and parallel running
 The green instance (version 1.1) runs concurrently with the older version in production after it is judged ready. Traffic is seamlessly diverted from the blue instance to the green instance via the load balancer. As they effortlessly access the updated version of the service or program, the majority of users won't even notice the move.
@@ -87,7 +87,7 @@ For example:
 The organization ensures that both the blue and green environments have identical copies of the database, ensuring that data consistency is maintained across both environments.
 
 ### Step 2: Updating the Server
-Once the resources are duplicated, the next step is to update the green environment with the new features, updates, or bug fixes. This involves deploying the changes to the green environment and testing them thoroughly to ensure they work as expected.
+Once the resources are duplicated, the next step is to update the green environment with new features, updates, or bug fixes. This involves deploying the changes to the green environment and testing them thoroughly to ensure they work as expected.
    
 For example:  
 The development team deploys a new version of the website with updated features, such as a redesigned checkout process, in a green environment. They then conduct extensive testing to verify that the new features function correctly and do not introduce any issues.
@@ -105,7 +105,7 @@ For example:
 With all users now accessing the green environment, the blue environment is no longer serving traffic. It is maintained as a backup, allowing the organization to quickly switch back to it if any issues arise with the green environment.
 
 ## Continuous Cycle
-Blue-green deployment is a never-ending cycle that alternates between the two environments—blue and green—in active and dormant roles on a regular basis. This cycle makes sure that updating procedures are smooth and effective while causing the least amount of inconvenience to users. Here's the procedure for the contineous cycle:
+Blue-green deployment is a never-ending cycle that alternates between the two environments—blue and green—in active and dormant roles regularly. This cycle makes sure that updating procedures are smooth and effective while causing the least amount of inconvenience to users. Here's the procedure for the continuous cycle:
 
 ### Regular Updates 
 Blue-green deployment encourages frequent updates to the application or service. This could include bug fixes, feature enhancements, security patches, or performance optimizations. The development team continuously works on improving the application, iterating on feedback, and implementing new features to meet evolving user needs.
@@ -134,7 +134,7 @@ Using this strategy, organizations can:
 
 Reduce downtime by alternating traffic across environments gradually, making sure that consumers have little to no disruptions when updating.
 
-To minimize the risk of service disruptions, reduce risk by permitting a quick rollback to the prior version (blue environment) in the event that there are problems with the new version (green environment).
+To minimize the risk of service disruptions, reduce risk by permitting a quick rollback to the prior version (blue environment) if there are problems with the new version (green environment).
 
 Test thoroughly in a green environment before transferring traffic to ensure that upgrades fulfill quality requirements and function as intended.
 
@@ -195,7 +195,7 @@ Many organizations use this strategy because it offers a dependable and strong w
 This deployment strategy has many benefits, making it a unique type of deployment option. The following are the benefits of blue-green deployment:
 
 ### Maintains a standby system
-A fully functional system (blue) is always available to act as a backup, thanks to this deployment strategy. In the event that the active system experiences unanticipated problems or malfunctions, this backup system offers a safety net (green).
+A fully functional system (blue) is always available to act as a backup, thanks to this deployment strategy. If the active system experiences unanticipated problems or malfunctions, this backup system offers a safety net (green).
    
 For example:
 A banking application employs blue-green deployment to ensure the continuous availability of its services. The blue environment serves as the standby system, ready to take over if the green environment experiences any technical issues. This ensures that customers can access their accounts and conduct transactions without interruption.

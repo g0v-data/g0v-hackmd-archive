@@ -77,202 +77,184 @@ Propagation Types(傳播類型)一共有八種，說明如下:
 在傳播類型案例的情境上，被調用者函式一定會使用@Transactional(propagation=Propagation.xxx)，而 xxx 意指傳播類型。
  
 
-<h4>1. PROPAGATION_MANDATORY (支持當前 Transaction；如果當前 Transaction 不存在，則引發異常)</h4>
+## 1. PROPAGATION_MANDATORY (支持當前 Transaction；如果當前 Transaction 不存在，則引發異常)
 
-※在此傳播屬性下，調用者有 Transaction，則被調用者使用該 Transaction，否則引發異常。
-<br>
-當被調用者函式使用 PROPAGATION_MANDATORY 此傳播類型時，用以下的情境進行說明 Transaction 是否會回滾(Rollback)：
+當調用者有事務傳入時，調用者會使用同個 Transaction，否則調用時會引發異常。
+當被調用者宣告使用 `PROPAGATION_MANDATORY` 傳播特性時，用以下的情境來說明該 Transaction 是否會回滾 (Rollback)：
 
-| 調用者有事務 | 調用者拋出異常 | 被調用者有事務    | 被調用者拋出異常 |
-| ------------ | -------------- | --------------- | -------------- |
-|        | 有           | 無             | **有，開啟事務** | 有             |
+### 情境一
 
+| 調用者有事務 | 調用者拋出異常 | 被調用者有事務      | 被調用者拋出異常 |
+| ------------ | -------------- | ----------------- | -------------- |
+| 有           | 無             | **有，開啟事務**    | 有             |
 
-調用者有事務，被調用者開啟事務。
-被調用者拋出異常，被調用者回滾。
-調用者沒有捕獲異常，則調用者回滾。
-調用者捕獲異常並正常提交事務，則會發生 Transaction silently rolled back because it has been marked as rollback-only 的異常。
-Case2-a:
+### 當上述情境中：
 
+1. 調用者拋出異常，故調用者事務回滾。
+2. 被調用者拋出異常，故被調用者事務回滾。
+3. 調用者有事務，故被調用者事務也會被回滾。
+
+例外情況為事務例外 (Case 2-b)：
+
+1. 調用者拋出異常但被攔截，所以調用者事務並不回滾。
+2. 被調用者拋出異常，故被調用者事務回滾，並顯示 `Transaction silently rolled back because it has been marked as rollback-only` 的警告訊息。
+
+### Case 2-a:
 <調用者>
-
-@Transactional()
+```java
+@Transactional
 public void hasTransactional() {
     insertData();
     callee.hasTransactional();
 }
- 
+```
 
-<被調用者(callee)>
-
+<被調用者 (callee)>
+```java
 @Transactional(propagation = Propagation.MANDATORY)
 public void hasTransactional() {
     insertData();
     throw new RuntimeException();
 }
- 
+```
 
-Case2-b:
-
+### Case 2-b:
 <調用者>
-
-@Transactional()
+```java
+@Transactional
 public void hasTransactional() {
-    try{
+    try {
         insertData();
         callee.hasTransactional();
     } catch(Exception e) {
+        // Handle exception
     }
 }
-<被調用者(callee)>
+```
 
+<被調用者 (callee)>
+```java
 @Transactional(propagation = Propagation.MANDATORY)
 public void hasTransactional() {
     insertData();
     throw new RuntimeException();
 }
-情境二
+```
 
-調用者有事務
 
-調用者拋出異常
 
-被調用者有事務
+### 情境二
 
-被調用者拋出異常
 
-有
+| 調用者有事務 | 調用者拋出異常 | 被調用者有事務      | 被調用者拋出異常 |
+| ------------ | -------------- | ----------------- | -------------- |
+| 有           | 有             | **有，開啟事務**    | 無             |
 
-有
 
-有，開啟事務
+1. 調用者有事務，被調用者開啟事務。
+2. 調用者拋出異常，因被調用者的事務與調用者是同一個，所以調用者與被調用者皆會回滾。
 
-無
-
-調用者有事務，被調用者開啟事務。
-調用者拋出異常，因被調用者的事務與調用者是同一個，所以調用者與被調用者皆會回滾。
 
 <調用者>
-
+```java
 @Transactional()
 public void hasTransactional() {
     insertData();
     callee.hasTransactional();
     throw new RuntimeException();
 }
-
+```
 <被調用者(callee)>
-
+```java
 @Transactional(propagation = Propagation.MANDATORY)
 public void hasTransactional() {
     insertData();
 }
-情境三
+```
 
-調用者有事務
+### 情境三
 
-調用者拋出異常
+| 調用者有事務 | 調用者拋出異常 | 被調用者有事務      | 被調用者拋出異常 |
+| ------------ | -------------- | ----------------- | -------------- |
+| 無           | 無             | **無**    | 有             |
 
-被調用者有事務
+1. 調用者無事務，因被調用者的傳播類型為 MANDATORY；調用者呼叫被調用者函式時，發生Exception:No existing transaction found for transaction marked with propagation 'mandatory'。
 
-被調用者拋出異常
 
-無
-
-無
-
-無
-
-有
-
-調用者無事務，因被調用者的傳播類型為 MANDATORY；調用者呼叫被調用者函式時，發生Exception:No existing transaction found for transaction marked with propagation 'mandatory'。
 
 <調用者>
-
+```java
 public void noTransactional() {
     insertData();
     callee.hasTransactional();
 }
- 
+```
 
 <被調用者(callee)>
-
+```java
 @Transactional(propagation = Propagation.MANDATORY)
 public void hasTransactional() {
     insertData();
     throw new RuntimeException();
 }
- 
-2. PROPAGATION_NESTED (如果當前 Transaction 存在，則在嵌套事務中執行)
-※在此傳播屬性下，被調用者 Transaction 與調用者 Transaction 有嵌套關係。嵌套事務的本質就是外層會影響內層，內層不影響外層。
+```
+
+### 2. PROPAGATION_NESTED (如果當前 Transaction 存在，則在嵌套事務中執行)
+`※在此傳播屬性下，被調用者 Transaction 與調用者 Transaction 有嵌套關係。嵌套事務的本質就是外層會影響內層，內層不影響外層。`
 我們重點說一下 NESTED 傳播類型的特性：
 
-調用者是否有事務
 
-說明
-
-有
-
-被調用者會新起一個 Transaction ，此 Transaction 和調用者 Transaction 是一個嵌套的關係
-
-無
-
-被調用者會自己新起一個 Transaction 
+ | 調用者是否有事務 | 說明 |
+ | ---------------- | ---- |
+ | 有               | 被調用者會新起一個 Transaction ，此 Transaction 和調用者 Transaction 是一個嵌套的關係   |
+ | 無                 | 被調用者會自己新起一個 Transaction      |
 
  
 
-當被調用者函式使用 PROPAGATION_NESTED 此傳播類型時，用以下的情境進行說明 Transaction 是否會回滾(Rollback)：
+當被調用者函式使用 **PROPAGATION_NESTED** 此傳播類型時，用以下的情境進行說明 Transaction 是否會回滾(Rollback)：
 
-情境一
 
-調用者有事務
+### 情境一
 
-調用者拋出異常
+| 調用者有事務 | 調用者拋出異常 | 被調用者有事務      | 被調用者拋出異常 |
+| ------------ | -------------- | ----------------- | -------------- |
+| 有           | 無             | **有，新建事務**    | 有             |
 
-被調用者有事務
 
-被調用者拋出異常
-
-有
-
-無
-
-有，新建事務
-
-有
-
-調用者有事務，被調用者新建事務。
-被調用者拋出異常，被調用者回滾。
-調用者沒有捕獲異常，則調用者和被調用者回滾。
-調用者捕獲異常，則調用者不回滾；被調用者回滾。
-觀察程式執行結果，被調用者拋出異常，調用者不回滾；被調用者回滾。
-調用者有事務，被調用者新建事務，二者事務成為嵌套關係，調用者事務不受被調用者事務影響。
-結論:Propagation.NESTED傳播類型，外層事務不受內層事務影響。
+1. 調用者有事務，被調用者新建事務。
+2. 被調用者拋出異常，被調用者回滾。
+    1. 調用者沒有捕獲異常，則調用者和被調用者回滾。
+    2. 調用者捕獲異常，則調用者不回滾；被調用者回滾。
+    
+    
+* 觀察程式執行結果，被調用者拋出異常，調用者不回滾；被調用者回滾。
+* 調用者有事務，被調用者新建事務，二者事務成為嵌套關係，調用者事務不受被調用者事務影響。
+* 結論:Propagation.NESTED傳播類型，外層事務不受內層事務影響。
 
 Case2-a:
 
 <調用者>
-
+```java
 @Transactional()
 public void hasTransactional() {
     insertData();
     callee.hasTransactional();
 }
- 
+``` 
 
 <被調用者(callee)>
-
+```java
 @Transactional(propagation = Propagation.NESTED)
 public void hasTransactional() {
     insertData();
     throw new RuntimeException();
 }
- 
+``` 
 
 Case2-b:
 
 <調用者>
-
+```java
 @Transactional()
 public void hasTransactional() {
     try{
@@ -281,13 +263,17 @@ public void hasTransactional() {
     } catch(Exception e) {
     }
 }
-<被調用者(callee)>
+```
 
+<被調用者(callee)>
+```java
 @Transactional(propagation = Propagation.NESTED)
 public void hasTransactional() {
     insertData();
     throw new RuntimeException();
 }
+```
+
 情境二
 
 調用者有事務

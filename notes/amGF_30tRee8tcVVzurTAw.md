@@ -1,7 +1,7 @@
 ---
 tags: g0v-intl
 ---
-# Meetup with g0vers hosted by 浩志會: Growing public mind in the age of individuals.
+# (Canceled) Meetup with g0vers hosted by 浩志會: Growing public mind in the age of individuals.
 
 ## License
 CC-BY g0v contributors
@@ -11,14 +11,10 @@ It is an exchange session with 浩志會 research group from Japan.
 We are non-engineers, so please do not expect tech-takeaways:laughing:
 
 ## Event info
-- Time and date: 16:30~, June 7th
-- Place: 茹曦酒店 | OOPS創潮玩團 (Room and floor are TBD)
-- Numbers of 浩志會 visitors: 5~10.  
-- Language: English and/or Mandarin (A Japanese interpreter will attend)
-- Fees: None
+
 
 ## Sign-up form
-https://forms.gle/vgqZNvvpFCJr958GA
+
 
 ## Intro
 ### Our motivation of hosting the event:
