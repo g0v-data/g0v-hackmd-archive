@@ -115,6 +115,8 @@
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_035616392fda1b972866ea5da72b2772.png)
 
 ### 5-2 編輯團隊成員內容
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5d9073dd618c633136e3c3f00ed50425.png)
+
 
 ## 六、聯絡
 

@@ -2,24 +2,24 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20240525 DigiResiTh6n 第陸次數位韌性松](../notes/CLbAeY3wTZCaLr-YCYqafw.md) | 2024-05-20T22:46:10+08:00 | 2024-05-18T10:21:20+08:00 |
-| 2 | [g0v DigiResiThon 數位韌性松大全](../notes/mGQcbKRDShmvyeGV74w_0w.md) | 2024-05-18T10:21:49+08:00 | 2023-10-21T11:52:33+08:00 |
-| 3 | [g0v 放輕松 Rand0mth0n 大全](../notes/2kuizcrmQOGOVDaQ0woAAg.md) | 2024-05-16T16:58:14+08:00 | 2024-04-25T00:55:29+08:00 |
-| 4 | [g0v Rand0mTh2n 第貳次放輕松](../notes/YsGvF1BpSNGr0owRylG3Vg.md) | 2024-05-16T16:53:43+08:00 | 2024-05-16T16:50:42+08:00 |
-| 5 | [g0v Rand0mTh1n 第壹次放輕松](../notes/d9UgT5LTRRKywSPEo6jA5w.md) | 2024-05-16T16:50:03+08:00 | 2024-05-08T01:35:51+08:00 |
-| 6 | [民防/防災相關證照](../notes/B-ky08JbR4-HD3lFDwynLQ.md) | 2024-05-16T10:53:14+08:00 | 2023-12-31T16:33:11+08:00 |
-| 7 | [Meshtastic / DigiResiThon](../notes/0bR8-LvHRMaNaR97YaXpnQ.md) | 2024-05-16T10:41:55+08:00 | 2023-12-30T15:20:27+08:00 |
-| 8 | [g0v Rand0mTh0n 第零次放輕松](../notes/qzELuqNARKKBjWr2mIiY8A.md) | 2024-05-08T09:37:42+08:00 | 2024-04-25T01:07:33+08:00 |
-| 9 | [20240427 DigiResiTh5n 第伍次數位韌性松](../notes/ugNkTFLARwK4rmH7jCdO-g.md) | 2024-04-27T17:26:15+08:00 | 2024-04-08T15:58:50+08:00 |
-| 10 | [寫給對於還不熟悉 Meshtastic 的朋友 / DigiResiTh0n](../notes/V8ozO9RQS4ieWC1th3fleg.md) | 2024-04-27T16:52:55+08:00 | 2024-04-27T16:44:12+08:00 |
-| 11 | [台灣鏈網 Meshtastic / DigiResiTh0n](../notes/ZGuA7fUZQi-fbD06EenmGQ.md) | 2024-04-27T16:46:13+08:00 | 2024-04-27T16:13:59+08:00 |
-| 12 | [懶人包：購買後要如何設定 - 刷韌體 / DigiResiTh0n](../notes/BCNqWGEeRJms5A77oGewaw.md) | 2024-04-27T16:36:26+08:00 | 2024-04-27T16:30:11+08:00 |
-| 13 | [懶人包：我要如何購買 Meshtastic 裝置 / DigiResiTh0n](../notes/rW7Kbi7AR1uTMtuy8YAahA.md) | 2024-04-27T16:28:53+08:00 | 2024-04-27T16:23:11+08:00 |
-| 14 | [20240323 DigiResiTh4n 第肆次數位韌性松](../notes/qcDX1C5mTE24UcCUkfTthQ.md) | 2024-04-27T13:34:44+08:00 | 2024-03-10T14:34:37+08:00 |
-| 15 | [20240224 DigiResiTh3n 第參次數位韌性松](../notes/Xt7FoiZgTYq-7x20iNGN4A.md) | 2024-04-27T13:31:28+08:00 | 2024-01-20T16:35:50+08:00 |
-| 16 | [20240120 DigiResiTh2n 第貳次數位韌性松](../notes/iC-7ZtqJTqG75GxUY3aiAQ.md) | 2024-04-27T13:31:04+08:00 | 2024-01-09T18:38:34+08:00 |
-| 17 | [20231230 DigiResiTh1n 第壹次數位韌性松](../notes/mKkOC9PLSXi0GZg7uGm1xA.md) | 2024-04-27T13:30:37+08:00 | 2023-11-25T16:10:48+08:00 |
-| 18 | [20231104 DigiResiTh0n 第零次數位韌性松](../notes/oyNRfe4lTuaZ5RbcPSS7TQ.md) | 2024-04-27T13:30:04+08:00 | 2023-10-21T15:19:19+08:00 |
+| 1 | [20231104 DigiResiTh0n 第零次數位韌性松](../notes/oyNRfe4lTuaZ5RbcPSS7TQ.md) | 2024-05-20T23:07:17+08:00 | 2023-10-21T15:19:19+08:00 |
+| 2 | [20240525 DigiResiTh6n 第陸次數位韌性松](../notes/CLbAeY3wTZCaLr-YCYqafw.md) | 2024-05-20T22:46:10+08:00 | 2024-05-18T10:21:20+08:00 |
+| 3 | [g0v DigiResiThon 數位韌性松大全](../notes/mGQcbKRDShmvyeGV74w_0w.md) | 2024-05-18T10:21:49+08:00 | 2023-10-21T11:52:33+08:00 |
+| 4 | [g0v 放輕松 Rand0mth0n 大全](../notes/2kuizcrmQOGOVDaQ0woAAg.md) | 2024-05-16T16:58:14+08:00 | 2024-04-25T00:55:29+08:00 |
+| 5 | [g0v Rand0mTh2n 第貳次放輕松](../notes/YsGvF1BpSNGr0owRylG3Vg.md) | 2024-05-16T16:53:43+08:00 | 2024-05-16T16:50:42+08:00 |
+| 6 | [g0v Rand0mTh1n 第壹次放輕松](../notes/d9UgT5LTRRKywSPEo6jA5w.md) | 2024-05-16T16:50:03+08:00 | 2024-05-08T01:35:51+08:00 |
+| 7 | [民防/防災相關證照](../notes/B-ky08JbR4-HD3lFDwynLQ.md) | 2024-05-16T10:53:14+08:00 | 2023-12-31T16:33:11+08:00 |
+| 8 | [Meshtastic / DigiResiThon](../notes/0bR8-LvHRMaNaR97YaXpnQ.md) | 2024-05-16T10:41:55+08:00 | 2023-12-30T15:20:27+08:00 |
+| 9 | [g0v Rand0mTh0n 第零次放輕松](../notes/qzELuqNARKKBjWr2mIiY8A.md) | 2024-05-08T09:37:42+08:00 | 2024-04-25T01:07:33+08:00 |
+| 10 | [20240427 DigiResiTh5n 第伍次數位韌性松](../notes/ugNkTFLARwK4rmH7jCdO-g.md) | 2024-04-27T17:26:15+08:00 | 2024-04-08T15:58:50+08:00 |
+| 11 | [寫給對於還不熟悉 Meshtastic 的朋友 / DigiResiTh0n](../notes/V8ozO9RQS4ieWC1th3fleg.md) | 2024-04-27T16:52:55+08:00 | 2024-04-27T16:44:12+08:00 |
+| 12 | [台灣鏈網 Meshtastic / DigiResiTh0n](../notes/ZGuA7fUZQi-fbD06EenmGQ.md) | 2024-04-27T16:46:13+08:00 | 2024-04-27T16:13:59+08:00 |
+| 13 | [懶人包：購買後要如何設定 - 刷韌體 / DigiResiTh0n](../notes/BCNqWGEeRJms5A77oGewaw.md) | 2024-04-27T16:36:26+08:00 | 2024-04-27T16:30:11+08:00 |
+| 14 | [懶人包：我要如何購買 Meshtastic 裝置 / DigiResiTh0n](../notes/rW7Kbi7AR1uTMtuy8YAahA.md) | 2024-04-27T16:28:53+08:00 | 2024-04-27T16:23:11+08:00 |
+| 15 | [20240323 DigiResiTh4n 第肆次數位韌性松](../notes/qcDX1C5mTE24UcCUkfTthQ.md) | 2024-04-27T13:34:44+08:00 | 2024-03-10T14:34:37+08:00 |
+| 16 | [20240224 DigiResiTh3n 第參次數位韌性松](../notes/Xt7FoiZgTYq-7x20iNGN4A.md) | 2024-04-27T13:31:28+08:00 | 2024-01-20T16:35:50+08:00 |
+| 17 | [20240120 DigiResiTh2n 第貳次數位韌性松](../notes/iC-7ZtqJTqG75GxUY3aiAQ.md) | 2024-04-27T13:31:04+08:00 | 2024-01-09T18:38:34+08:00 |
+| 18 | [20231230 DigiResiTh1n 第壹次數位韌性松](../notes/mKkOC9PLSXi0GZg7uGm1xA.md) | 2024-04-27T13:30:37+08:00 | 2023-11-25T16:10:48+08:00 |
 | 19 | [g0v DigiResiThon 數位韌性松 募款模板](../notes/L0dLpQ_zTzGoNxeURzO2kw.md) | 2024-04-25T13:27:08+08:00 | 2024-02-21T10:13:46+08:00 |
 | 20 | [g0v DigiResiThon logistics](../notes/e6rWxnppQmuSpUxcoXzoHw.md) | 2024-04-14T16:45:19+08:00 | 2024-02-03T15:55:50+08:00 |
 | 21 | [SaaS 韌性產品 self-host guide](../notes/9Z2EhRAFQq-jfsoixrwD5A.md) | 2024-03-23T17:02:05+08:00 | 2024-03-23T16:41:07+08:00 |
