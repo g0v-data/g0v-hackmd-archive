@@ -33,7 +33,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 ## 時間地點
 
-- Apr. 27 2024 Sat.
+- May. 25 2024 Sat.
 - 1300 - 1700（UTC+8）
 - [NPO HUB Taipei 台北NPO聚落](https://maps.app.goo.gl/XPrvzSdqgszbfRBV8) 4F 廚房
     - [「如何入場」及場地使用規定](/9pwDPOXLTr6IJKiLofl3qg)
@@ -46,25 +46,3 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
 | 自由填寫 | 自由填寫 | 自由向下新增行列 |
-| 避難所資訊統整 | ronny | [全台防災/防空避難所大統整](/UNg_8F3FTuynAwbV7flp-w) |
-| 台灣網路架構科普文 | ronny |  |
-| 重要民生網站韌性檢測—<br>網路障礙時還能買沒屋頂嗎？ | Irvin | [github](https://github.com/irvin/digital-service-resilience)、[hackmd](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A?view)|
-| Meshtastic相關討論 | Sean |  |
-
-## 成果區
-### 避難所資訊統整
-- [全台防災/防空避難所大統整](/UNg_8F3FTuynAwbV7flp-w)
-
-### 韌性檢測
-- [MoMo 檢測](/9JfXRBRbSV2wE3ULGIL-XA)
-- [COSCUP 提案](https://pretalx.coscup.org/coscup-2024/talk/review/7QVJWSDVSRH8FBVBDUQRKTZNVN3CFZJD)
-- 小幅更新[檢測步驟文件](/x4cR0BtxTf6eLw_6vaPY3A)
-- github repo 加入 CC0 license
-
-
-### 彙整 meshtastic 知識庫
-
-- 感謝 [台灣鏈網 Meshtastic]() 社團版主 @dryden 幫忙寫了很多很棒的入門文章，但都在臉書上，如果臉書掛了或被祖克柏刪掉就 啪，沒了
-    - 在 g0v hackmd 的文章會定期備份，SEO 也做得很好，讓文章方便流傳（？）
-- [台灣鏈網 Meshtastic / DigiResiTh0n](/ZGuA7fUZQi-fbD06EenmGQ) 文章彙整
-- 在 g0v slack 開 [#mesh 頻道]()，之後方便測試

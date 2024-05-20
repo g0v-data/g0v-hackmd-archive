@@ -96,12 +96,25 @@
 7. 重複步驟3-5
 
 
-### 新增合作夥伴Logo
+### 3-5 新增合作夥伴Logo
+1. 將logo檔案（建議檔案格式為svg）直接拖曳到畫面中，並調整大小![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8f44d98745e55a53671ee25321ee2ca3.gif)
+（若logo顏色非白色，則可連續點擊logo直到顏色欄位出現，再行調整。如logo檔案已調色成白色則可省略此步）
+2. 按空白鍵＋滑鼠左鍵將畫面移回頁面編輯區塊，選擇要加入新logo的那行，在右側工具欄的Children中按'Add'並選擇剛剛加入的logo![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1a9f22ed130a2272c3f703960fd041c1.gif)
+
+3. 滑鼠按住按點點後可往上下拖曳，改變排列順序。對著點點按左鍵會出現'Remove'選項![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3d7923229fd8c323d0766d39c5630339.png)
 
 
 ## 四、索引頁
-
+### 4-1 編輯索引頁文字
+切換到Drama頁面，展開左側元件，找到Description後於右側編輯欄位變更文字![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_412b90f0cdd8133a5e4e1c537dd7366d.png)
+### 4-2 索引頁內容
+索引頁內容會自動從作品頁資料庫中抓取，無需另行編輯。
 ## 五、關於
+### 5-1 編輯文章內容
+切換到About頁面，點選要編輯的區塊，並於右側找到編輯欄位以進行編輯
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_035616392fda1b972866ea5da72b2772.png)
+
+### 5-2 編輯團隊成員內容
 
 ## 六、聯絡
 

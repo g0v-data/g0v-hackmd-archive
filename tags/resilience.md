@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20240525 DigiResiTh6n 第陸次數位韌性松](../notes/CLbAeY3wTZCaLr-YCYqafw.md) | 2024-05-18T10:22:29+08:00 | 2024-05-18T10:21:20+08:00 |
+| 1 | [20240525 DigiResiTh6n 第陸次數位韌性松](../notes/CLbAeY3wTZCaLr-YCYqafw.md) | 2024-05-20T22:46:10+08:00 | 2024-05-18T10:21:20+08:00 |
 | 2 | [g0v DigiResiThon 數位韌性松大全](../notes/mGQcbKRDShmvyeGV74w_0w.md) | 2024-05-18T10:21:49+08:00 | 2023-10-21T11:52:33+08:00 |
 | 3 | [民防/防災相關證照](../notes/B-ky08JbR4-HD3lFDwynLQ.md) | 2024-05-16T10:53:14+08:00 | 2023-12-31T16:33:11+08:00 |
 | 4 | [Meshtastic / DigiResiThon](../notes/0bR8-LvHRMaNaR97YaXpnQ.md) | 2024-05-16T10:41:55+08:00 | 2023-12-30T15:20:27+08:00 |

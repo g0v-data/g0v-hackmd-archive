@@ -369,6 +369,7 @@ https://atlas.geo.ntnu.edu.tw/
     - 情況較穩定後，可選擇前往 收容處所
 - 例如土石流災害預警，通常是預先開始撤離
 - 例如核子事故，應該是尋找遮蔽空間
+    - 集結地點，會再透過巴士車輛載離 https://www.facebook.com/share/p/UkV6xaLM9CEBTR1T/
 - Figuregrounder：http://hanshack.com/figuregrounder/
     - 用白底單色色塊的簡化方式，呈現建物及戶外空間
     - 或許可以用於輔助評估 戶外疏散空間的評估，例如：主震及餘震期間的戶外避難場所擇點
