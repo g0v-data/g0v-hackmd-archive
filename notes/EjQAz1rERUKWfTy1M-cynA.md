@@ -8,6 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
+- Workis 出席：
 - 線上出席：
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
@@ -62,17 +63,41 @@ https://drive.google.com/file/d/1XkD4o4l95iqUKf8AVHzeODlK8MhAMJBa/view?usp=drive
 ### 5/18 DDoS
 
 Time
-- 17:10 Attack start, Cloudflare starts blocking requests
-    - 
-- 17:30 health check report: all service timeout (API, website, line bot)
-- 17:32 MrOrz  acknowledge downtime, investigating Cloudflare, found that it's an attack
-- 
+- 17:16 Attack start, Cloudflare starts blocking requests
+- 17:30 health check: all service timeout (API, website, line bot)
+- 17:32 MrOrz acknowledge downtime, investigating Cloudflare, found that it's an attack
+- 17:47 Setup Cloudflare WAF rule:
+    - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f72e2baccf1f1772dc61f81b2e240761.png)
+    - If incoming requests match…
+ `http.request.uri.path contains "/article/2v60p2lt2jmdx"`, take action: [Managed challenge](https://developers.cloudflare.com/waf/reference/cloudflare-challenges/#managed-challenge-recommended)
+- 17:54 Website starts working
+- 18:24 health check: all services response 520
+- 19:09 MrOrz acknowledge downtime; found that the attack target switched to cofacts.tw/article/1rfvth8iy4fnc
+- 19:16 MrOrz turns on I'm under attack mode
+- 20:06 MrOrz finds out that service gets back by itself
+    - Probably because site-zh restarts itself every 30 minutes at 0 & 30 min of every hour?
 
 Cloudflare report
-https://drive.google.com/file/d/10bx6J1HD_IHi3rC_x0ckNDUOK_KFYI53/view?usp=sharing
+- Full https://drive.google.com/file/d/10bx6J1HD_IHi3rC_x0ckNDUOK_KFYI53/view?usp=sharing ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_674745a445d9d5ac4a932d2a636e4069.png)
+- 17:00 ~ 17:40 https://drive.google.com/file/d/11ZqlfDKftAWi96szEW1UhNJdaeoIdDbQ/view?usp=sharing ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_80782806ec401a849a10ff6263627e37.png)
 
+    - Managed by Cloudflare DDoS detection 
+    - DDoS requests: 15.32M, 24min; QPS=10.6K
+    - Attack target: `/article/2v60p2lt2jmdx`
+- 17:45 ~ 18:15 https://drive.google.com/file/d/1vozVBEwMhJlEz2kVf_h2ICx_om8yDCf_/view?usp=drive_link ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_34a60dc5da94847681a05bb6e480be9d.png)
+
+    - Contained by Managed challenges + DDoS block 
+- 18:15 ~ 19:15 https://drive.google.com/file/d/1RVGjViKQiu45BCzWoRaHbaiTrGzXNtmo/view?usp=drive_link ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3fd99dfcc18aefb8a7369fa2ae5bad64.png)
+    - Attack switched gear to attack `/article/1rfvth8iy4fnc`, Service down 
+- 20:13 ~ 20:20 https://drive.google.com/file/d/1QMTrK9gM4nLGQKCVHCXCcFkeBx3aGrOT/view?usp=drive_link ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_50cd5d2589a0f4302932716c2d4d27db.png)
+    - Peak 1.5M / min; QPS: 25K (highest today)
+    - No downtime triggered
 
 ### Mitigation
+
+- Go to Security > Event to see what page is under attack
+- If a single page is under attack, go to WAF > "Visiting certian page" action > add link
+- Let's add all articles in scammer's email
 
 ## 5 月開會時間
 
