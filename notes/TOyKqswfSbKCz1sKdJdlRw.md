@@ -387,9 +387,9 @@ This CSS code defines two layers, `oldStyles` and `newStyles`, where the `.item`
 
 This strategy allows elements to retain their old styles if desired, as we revert to the previous style origin set by the developer. This could also be relevant for style management or version control.
 ## Assessing Browser Compatibility
-CSS cascade layers, such as the revert-layer keyword, offer promising capabilities for CSS architecture. However, it’s crucial to consider browser compatibility. Additionally, revert-layer is not easily polyfillable, which complicates its adoption in projects targeting a wide range of browsers.
+CSS cascade layers, such as the `revert-layer` keyword, offer promising capabilities for CSS architecture. However, it’s crucial to consider browser compatibility. Additionally, `revert-layer` is not easily polyfillable, which complicates its adoption in projects targeting a wide range of browsers.
 
-MDN's documentation officially states that browser support for the revert-layer is limited.
+[MDN's](https://developer.mozilla.org/en-US/docs/Web/CSS/revert-layer#browser_compatibility) documentation officially states that browser support for the `revert-layer` is limited.
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_699001a9392ddc136f3d5b982d598f96.png)
 
 

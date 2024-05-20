@@ -50,4 +50,14 @@
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_38588593bb6cdaa34f3c0ef251a9b99c.png)
 1. remote access VPN:用戶連接到網站上的VPN Gateway
 2. Site-to-site VPN:每個站點都會有VPN保護兩個站點之間的所有流量
+## IPsec
+- IPsec：IETF 的 IP 安全標準，運行在internet層，保護傳輸標頭、應用程式內容和一些 IP 標頭內容。
+- IPsec has two modes (ways) of operating:
+    - Transport mode:來源端到目的地端都保護，可以避免Insider(較安全，連防火牆都看不到、cost較高)
+
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_144ef94b3610c0515aa3c68450d58d55.png)
+
+    - Tunnel mode:只在Internet有保護，較便宜
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ae9b70dc49fdff8e802d0540d4948d4f.png)
+
 
