@@ -199,7 +199,7 @@ public void hasTransactional() {
 }
 ```
 
-### 2. PROPAGATION_NESTED (如果當前 Transaction 存在，則在嵌套事務中執行)
+## 2. PROPAGATION_NESTED (如果當前 Transaction 存在，則在嵌套事務中執行)
 `※在此傳播屬性下，被調用者 Transaction 與調用者 Transaction 有嵌套關係。嵌套事務的本質就是外層會影響內層，內層不影響外層。`
 我們重點說一下 NESTED 傳播類型的特性：
 
@@ -274,215 +274,175 @@ public void hasTransactional() {
 }
 ```
 
-情境二
+### 情境二
 
-調用者有事務
+| 調用者有事務 | 調用者拋出異常 | 被調用者有事務      | 被調用者拋出異常 |
+| ------------ | -------------- | ----------------- | -------------- |
+| 有           | 有             | **有，新建事務**    | 無             |
 
-調用者拋出異常
 
-被調用者有事務
 
-被調用者拋出異常
+1. 調用者有事務，被調用者新建事務。
+2. 調用者拋出異常，調用者與被調用者皆會回滾。
 
-有
-
-有
-
-有，新建事務
-
-無
-
-調用者有事務，被調用者新建事務。
-調用者拋出異常，調用者與被調用者皆會回滾。
-
-調用者有事務，被調用者新建事務，二者事務成為嵌套關係。
-調用者拋出異常，因調用者與被調用者的事務不是同一個，理論上被調用者事務不會回滾才對，但是最終結果被調用者事務回滾了。
-結論:Propagation.NESTED傳播類型，外層事務會影響內層事務。
+* 調用者有事務，被調用者新建事務，二者事務成為嵌套關係。
+* 調用者拋出異常，因調用者與被調用者的事務不是同一個，理論上被調用者事務不會回滾才對，但是最終結果被調用者事務回滾了。
+* 結論:Propagation.NESTED傳播類型，外層事務會影響內層事務。
 
 <調用者>
-
+```java
 @Transactional()
 public void hasTransactional() {
     insertData();
     callee.hasTransactional();
     throw new RuntimeException();
 }
- 
+ ```
 
 <被調用者(callee)>
-
+```java
 @Transactional(propagation = Propagation.NESTED)
 public void hasTransactional() {
     insertData();
 }
-情境三
+```
 
-調用者有事務
+### 情境三
 
-調用者拋出異常
+| 調用者有事務 | 調用者拋出異常 | 被調用者有事務      | 被調用者拋出異常 |
+| ------------ | -------------- | ----------------- | -------------- |
+| 無           | 無             | **有，新建事務**    | 有             |
 
-被調用者有事務
 
-被調用者拋出異常
-
-無
-
-無
-
-有，新建事務
-
-有
-
-調用者無事務，被調用者新建事務。
-被調用者拋出異常，調用者不回滾；被調用者回滾。
+1. 調用者無事務，被調用者新建事務。
+2. 被調用者拋出異常，調用者不回滾；被調用者回滾。
 
 <調用者>
-
+```java
 public void hasTransactional() {
     insertData();
     callee.hasTransactional();
 }
+```
 
 <被調用者(callee)>
-
+```java
 @Transactional(propagation = Propagation.NESTED)
 public void hasTransactional() {
     insertData();
     throw new RuntimeException();
 }
- 
-3. PROPAGATION_NEVER(不支持當前 Transaction；如果當前 Transaction 存在，則引發異常)
-※在此傳播屬性下，調用者有 Transaction，被調用者就會拋出異常。
+```
+
+## 3. PROPAGATION_NEVER(不支持當前 Transaction；如果當前 Transaction 存在，則引發異常)
+
+`※在此傳播屬性下，調用者有 Transaction，被調用者就會拋出異常。`
 
  
+當被調用者函式使用 **PROPAGATION_NEVER** 此傳播類型時，用以下的情境進行說明 Transaction 是否會回滾(Rollback)：
 
-當被調用者函式使用 PROPAGATION_NEVER 此傳播類型時，用以下的情境進行說明 Transaction 是否會回滾(Rollback)：
 
-情境一/情境二
+### 情境一/情境二
 
-調用者有事務
+| 調用者有事務 | 調用者拋出異常 | 被調用者有事務      | 被調用者拋出異常 |
+| ------------ | -------------- | ----------------- | -------------- |
+| 有           | 無/有             | **無，Never**    | 無/引發異常             |
 
-調用者拋出異常
 
-被調用者有事務
 
-被調用者拋出異常
-
-有
-
-無/有
-
-無，Never
-
-無/引發異常
-調用者有事務，被調用者則會出現 Existingtransaction found for transaction marked with propagation 'never' 異常。
+1. 調用者**有**事務，被調用者則會出現 Existingtransaction found for transaction marked with propagation 'never' 異常。
 
 <調用者>
-
+```java
 @Transactional()
 public void hasTransactional() {
     insertData();
     callee.hasTransactional();
 }
- 
+```
 
 <被調用者(callee)>
 
+```java
 @Transactional(propagation = Propagation.NEVER)
 public void hasTransactional() {
     insertData();
 }
-情境三
+```
 
-調用者有事務
+### 情境三
 
-調用者拋出異常
+| 調用者有事務 | 調用者拋出異常 | 被調用者有事務      | 被調用者拋出異常 |
+| ------------ | -------------- | ----------------- | -------------- |
+| 有           | 無             | **無**    | 有           |
 
-被調用者有事務
 
-被調用者拋出異常
-
-無
-
-無
-
-無
-
-有
-
-調用者無事務，被調用者無事務。
-被調用者拋出異常，因調用者與被調用者皆無事務，所以調用者與被調用者皆不會回滾。
+1. 調用者無事務，被調用者無事務。
+2. 被調用者拋出異常，因調用者與被調用者皆無事務，所以調用者與被調用者皆不會回滾。
  
 
 <調用者>
 
+```java
 public void hasTransactional() {
     insertData();
     callee.hasTransactional();
 }
- 
+```
 
 <被調用者(callee)>
 
+```java
 @Transactional(propagation = Propagation.NEVER)
 public void hasTransactional() {
     insertData();
     throw new RuntimeException();
 }
- 
-4. PROPAGATION_NOT_SUPPORTED (不支持當前 Transaction；而是始終以非 Transaction 方式執行)
-※在此傳播屬性下，無論調用者是否有 Transaction，被調用者都不以 Transaction 的方式運行。
+```
+
+## 4. PROPAGATION_NOT_SUPPORTED (不支持當前 Transaction；而是始終以非 Transaction 方式執行)
+`※在此傳播屬性下，無論調用者是否有 Transaction，被調用者都不以 Transaction 的方式運行。`
 
  
 
-當被調用者函式使用 PROPAGATION_NOT_SUPPORTED 此傳播類型時，用以下的情境進行說明 Transaction 是否會回滾(Rollback)：
+當被調用者函式使用 **PROPAGATION_NOT_SUPPORTED** 此傳播類型時，用以下的情境進行說明 Transaction 是否會回滾(Rollback)：
 
-情境一
+### 情境一
 
-調用者有事務
+| 調用者有事務 | 調用者拋出異常 | 被調用者有事務      | 被調用者拋出異常 |
+| ------------ | -------------- | ----------------- | -------------- |
+| 有           | 無             | **無，Not Support**    | 有           |
 
-調用者拋出異常
 
-被調用者有事務
+1. 調用者有事務，被調用者無(Not Support)事務。
+2. 被調用者拋出異常，被調用者丟擲異常前的資料操作不受影響。
+    a. 調用者沒有捕獲異常，則調用者回滾。
+    b. 調用者捕獲異常，則調用者不受影響，不回滾。
 
-被調用者拋出異常
-
-有
-
-無
-
-無，Not Support
-
-有
-
-調用者有事務，被調用者無(Not Support)事務。
-被調用者拋出異常，被調用者丟擲異常前的資料操作不受影響。
-調用者沒有捕獲異常，則調用者回滾。
-調用者捕獲異常，則調用者不受影響，不回滾。
-
-Case2-a:
+#### Case2-a:
 
 <調用者>
-
+```java
 @Transactional()
 public void hasTransactional() {
     insertData();
     callee.hasTransactional();
 }
-
+```
 <被調用者(callee)>
 
+```java
 @Transactional(propagation = Propagation.NOT_SUPPORTED)
 public void hasTransactional() {
     insertData();
     throw new RuntimeException();
 }
- 
+```
 
-Case2-b:
+#### Case2-b:
 
 <調用者>
-
+```java
 @Transactional()
 public void hasTransactional() {
     try{
@@ -491,84 +451,69 @@ public void hasTransactional() {
     } catch(Exception e) {
     }
 }
- 
+``` 
 
 <被調用者(callee)>
-
+```java
 @Transactional(propagation = Propagation.NOT_SUPPORTED)
 public void hasTransactional() {
     insertData();
     throw new RuntimeException();
 }
-情境二
+``` 
 
-調用者有事務
+### 情境二
 
-調用者拋出異常
+| 調用者有事務 | 調用者拋出異常 | 被調用者有事務      | 被調用者拋出異常 |
+| ------------ | -------------- | ----------------- | -------------- |
+| 有           | 有             | **無，Not Support**    | 無           |
 
-被調用者有事務
 
-被調用者拋出異常
 
-有
-
-有
-
-無，Not Support
-
-無
-
-調用者有事務，被調用者無(Not Support)事務。
-調用者拋出異常，調用者回滾；被調用者無事務，不受影響，不回滾。
+1. 調用者有事務，被調用者無(Not Support)事務。
+2. 調用者拋出異常，調用者回滾；被調用者無事務，不受影響，不回滾。
 
 <調用者>
-
+```java
 @Transactional()
 public void hasTransactional() {
     insertData();
     callee.hasTransactional();
     throw new RuntimeException();
 }
- 
+``` 
 
-<被調用者(callee)>
-
+<被調用者(caller)>
+```java
 @Transactional(propagation = Propagation.NOT_SUPPORTED)
 public void hasTransactional()
 {
     insertData();
 }
-情境三
+```
 
-調用者有事務
+### 情境三
 
-調用者拋出異常
+| 調用者有事務 | 調用者拋出異常 | 被調用者有事務      | 被調用者拋出異常 |
+| ------------ | -------------- | ----------------- | -------------- |
+| 無           | 無             | **無，Not Support**    | 有           |
 
-被調用者有事務
 
-被調用者拋出異常
 
-無
-
-無
-
-無，Not Support
-
-有
-
-調用者無事務，被調用者無(Not Support)事務。
-被調用者拋出異常，因調用者與被調用者皆無事務，所以調用者與被調用者皆不會回滾。
+1. 調用者無事務，被調用者無(Not Support)事務。
+2. 被調用者拋出異常，因調用者與被調用者皆無事務，所以調用者與被調用者皆不會回滾。
 
 <調用者>
 
+```java
 public void hasTransactional() {
     insertData();
     callee.hasTransactional();
 }
- 
+``` 
 
 <被調用者(callee)>
-
+```jav
 @Transactional(propagation = Propagation.NOT_SUPPORTED)
 public void hasTransactional() {
     insertData();

@@ -13,7 +13,7 @@
 <br/>
 
 ## 二、作品頁
-### 新增作品
+### 2-1 新增作品
 1. 點擊CMS按鈕以切換到作品面板
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7c5abfc826c9491c7d9fe39abafe7c11.png)
 3. 按一下’New Item’
@@ -24,7 +24,7 @@
 <br/>
  
 
-### 內容欄位說明
+### 2-2 內容欄位說明
 | 欄位 | 功能 |格式限制 |
 | -------- | -------- | -------- |
 | 直式海報| 將會顯示在索引頁上| 檔案大小5mb內|
@@ -40,13 +40,13 @@
 
 <br/>
 
-### 編輯作品
+### 2-3 編輯作品
 1. 切換到作品面板（參考`新增作品`第一步驟）
 2. 選擇要編輯的作品
 3. 於展開的右側面板進行編輯
 <br/>
 
-### 刪除作品
+### 2-4 刪除作品
 1. 切換到作品面板（參考`新增作品`第一步驟）
 2. 選擇要刪除的作品
 3. 按一下右鍵並選擇’Delete’
@@ -55,43 +55,47 @@
 
 ## 三、首頁
 
-### 編輯首頁
+### 3-1 編輯首頁
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1d24bd8c15f5c401c6dc02e3cc07dc8f.png)
 
 1. 切換至'Layers'層級
 2. 切換至首頁（Home）
 <br/>
-### 變更Slogan
+### 3-2 變更Slogan
 ==:desktop_computer: Desktop/Tablet==
  
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f71bbfe8d15442f86c2210bd26a99b73.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c95547f04926591d862366d7b44602ff.png)
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_70447416935aaf816972e4a40c7b3014.png)
-
-1. 於Desktop下選擇’BG’
-2. 在Visible中切換到’No’ 以隱藏影片及遮罩
-3. 雙擊文字以編輯文字內容
-4. 再選到’BG’，於Visibl中切回原本的’Yes’，恢復影片及遮罩
+1. 於左側工具欄，展開Desktop > Hero > Slogan，選取'Title'
+3. 於右側工具欄，往下滾動直到找到Text區塊的'Content'，於此欄位更新文字內容
 
 <br/>
 
 ==:iphone:Phone==
- 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e14557681e729cb446d3dad0db08e72f.png)
 
-1. 在Phone下找到BG
-2. 重複桌機版的步驟2-4
+1. 於左側工具欄，展開Phone > Hero > Slogan，選取'Title'
+3. 於右側工具欄，往下滾動直到找到Text區塊的'Content'，於此欄位更新文字內容
 <br/>
 
-### 變更影片
+### 3-3 變更影片
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ba7f944d7de5e3b329949bf629e86332.png)
-1. 展開Dektop直到出現Video，點選Video
+1. 展開Desktop直到出現Video，點選Video
 2. 點擊File，上傳欲更換的影片（檔案須小於5mb
 <br/>
 
-### 變更精選作品
-==Desktop/Tablet==
+### 3-4 變更精選作品
+1. 按住空白鍵＋滑鼠左鍵，將畫布左移直到出現精選品：
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bfc43bb1ebe4d87c55e5242eb42df104.gif)
 
+2. 點選欲替換作品左上方的文字標籤(如：Ｗork-1)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4915f3e707999f56ca606247e08756c7.png)
+3. 於右側工具欄點選'Filters'旁的欄位
+4. 點選Filters條件欄位
+5. 於Value欄位填上slug ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_201c0b2e964e947b89e828dbcf03bd3e.png)
+
+> 註：Slug是指網址後面最後一串斜線後的文字，基本上等同於以'-'符號取代空格的片名（不含標點符號）。有些重複片名則會再另外加年份，如'Someday-or-one-day-2019'。
+> 
+<br/>
 
 
 ==Phone==
