@@ -62,18 +62,12 @@
 2. 切換至首頁（Home）
 <br/>
 ### 3-2 變更Slogan
-==:desktop_computer: Desktop/Tablet==
  
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c95547f04926591d862366d7b44602ff.png)
 
 1. 於左側工具欄，展開Desktop > Hero > Slogan，選取'Title'
 3. 於右側工具欄，往下滾動直到找到Text區塊的'Content'，於此欄位更新文字內容
-
-<br/>
-
-==:iphone:Phone==
-
-1. 於左側工具欄，展開Phone > Hero > Slogan，選取'Title'
+1. 回到左側工具欄，展開Phone > Hero > Slogan，選取'Title'
 3. 於右側工具欄，往下滾動直到找到Text區塊的'Content'，於此欄位更新文字內容
 <br/>
 
@@ -88,7 +82,8 @@
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bfc43bb1ebe4d87c55e5242eb42df104.gif)
 
 2. 點選欲替換作品左上方的文字標籤(如：Ｗork-1)
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4915f3e707999f56ca606247e08756c7.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8a3bb24d1d509e80f3fa6e774dcba816.png)
+
 3. 於右側工具欄點選'Filters'旁的欄位
 4. 點選Filters條件欄位
 5. 於Value欄位填上slug ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_201c0b2e964e947b89e828dbcf03bd3e.png)
@@ -97,14 +92,12 @@
 > 
 <br/>
 
+6. 選取下方小卡（手機版本）的文字標籤![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e1e36026e97cde1d1448625adf4beb13.png)
+7. 重複步驟3-5
 
-==Phone==
 
 ### 新增合作夥伴Logo
-==Desktop/Tablet==
 
-
-==Phone==
 
 ## 四、索引頁
 
