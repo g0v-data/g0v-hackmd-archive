@@ -17,7 +17,7 @@
 1. 點擊CMS按鈕以切換到作品面板
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7c5abfc826c9491c7d9fe39abafe7c11.png)
 3. 按一下’New Item’
-4. 於內容欄位填寫作品資訊，有星號的為必填
+4. 於內容欄位填寫作品資訊，有星號的為必填(請以英文為主，再按照“九、語系翻譯”的教學翻譯成中文)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fd5da2a09b12ddc151d198eaea9c6110.png)
 4. 點擊Save儲存內容(若無法點擊則代表系統已自動儲存完畢)
 5. 離開
@@ -129,8 +129,25 @@
 
 
 ## 六、聯絡
+1. 切換到聯絡頁面
+2. 展開Desktop>Hero>Stack>Text，選擇到想要編輯的文字（前面符號為“T”的元件）![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_86f838d24821db0676027ff87d5d50b9.png)
+4. 在右側欄位編輯文字內容
 
 ## 七、投資人專區
+### 7-1 編輯文字
+1. 切換到投資人頁面
+2. 雙擊內容區塊![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_77f30cdda2ae6da1a12b55cd463b609e.png)
+3. 進入內容區塊後將出現所有子頁面，直接於畫面中點選要編輯的文字，再於右邊工具欄的Text>content中編輯文字內容![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_25db59bd3e6d13cb7526a68a2b5cba3f.gif)
+
+### 7-2 新增表格
+1. 執行7-1的前兩個步驟
+2. 將以複製欄位的方式來新增表格，故對著要新增的表格按左鍵
+3. 按Duplicate複製欄位![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_33d8ebba63439a354ec474df906fb402.png)
+4. 於右側編輯中更新資訊
+
+> 註：由於欄位共用了母元件，因此編輯區會出現其他表格才有的資訊（如股東會日期等等），無需理會，只編輯所需資訊即可
+
+
 
 ## 八、儲存／預覽／發佈(Publish)
 
@@ -143,11 +160,22 @@
 5. 確認無誤後，按下’Update’，等待數秒後即可看到畫面顯示成功狀態
 <br/>
 ## 九、語系翻譯
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bffef5734a827cfd6a3d5113dabdd56b.png)
-1. 按一下切換語系的國旗按鈕（在Framer下方工具列中）
-2. 選擇中文
-3. 選擇要翻譯的文字
-4. 在右邊欄位進行編輯
+### 9-1 一般頁面
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6f2b2937cd85c85edb96e2a8d5ad57e1.gif)
+
+1. 切換到想翻譯的頁面
+2. 按一下切換語系的國旗按鈕（在Framer下方工具列中）
+3. 選擇中文
+4. 選擇要翻譯的文字
+5. 在右邊欄位進行編輯
+6. 完成翻譯後，按'Done'，即可結束翻譯介面，變回原本的編輯版本
+
+### 9-2 作品頁面
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6d291d70298c291df36dbe84fd7fb25e.png)
+1. 切換到'Production Pages'
+2. 開啟下拉式選單，選擇作品頁面
+3. 重複‘9-1 一般頁面’的翻譯步驟
+
 
 ## 十、全站設定
 可調整顯示於搜尋引擎的名稱、描述，以及縮圖。
