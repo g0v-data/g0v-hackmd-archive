@@ -179,6 +179,8 @@ Network MTB Support
 
 2.不能連就是 就是電腦問題
 
+如果確認是網路線的問題就是找這位喔"Michael Chiang 江 俊良"
+
 
 MIT933I-0058B no need to install S1 (already check with Kenny Yap)
  
