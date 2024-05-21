@@ -1,5 +1,5 @@
 ---
-tags: g0vernance,
+tags: g0vernance, g0v-domain
 ---
 
 

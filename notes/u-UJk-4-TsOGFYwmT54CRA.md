@@ -1,3 +1,7 @@
+---
+tags: g0vernance, g0v-domain
+---
+
 # g0v 短網址治理機制
 (草案擬定中)
 

@@ -145,7 +145,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #vote 選舉相關的專案或想法
 #electionsign2022 蒐集選舉看板
 #election-policy-tracker 候選人政見彙整平台
--選前大補帖，專案另有設置 Slack https://join.slack.com/t/taiwanvotingguide/shared_invite/zt-20t7r7oo3-KmgRaARq_1qHo1VECY8ssQ
+選前大補帖，專案另有設置 Slack https://join.slack.com/t/taiwanvotingguide/shared_invite/zt-20t7r7oo3-KmgRaARq_1qHo1VECY8ssQ
 #election-timeline 選戰攻防大事記
 #pridewatch彩虹選民觀選指南 隨著每年的選舉將會逐步更新，歡迎提供使用者回饋、許願！
 #parliament 國會、立法院
@@ -307,3 +307,5 @@ https://g0v-slack-archive.g0v.ronny.tw
 頻道目錄
 [TOC]
 :::
+
+{%hackmd L0dLpQ_zTzGoNxeURzO2kw %}

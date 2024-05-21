@@ -9,45 +9,45 @@ tags: 國會松
 歡迎加入 g0v Slack 頻道 #tw-ly-and-council
 :::
 
-## 立院影城
+## 立院影城 🎞️
 https://g0v.hackmd.io/ws2BYq_wTZOZw0lRx3TZ9g
 https://g0v.hackmd.io/5Vmz0E-8TQaZjsMyVThXaQ
 https://g0v.hackmd.io/PW9eZ_WFSi6Q0EDVdZVrLw
 https://ccw.org.tw/news/-1326
 
-## 國會大代誌
+## 國會大代誌 📢
 http://ly.g0v.tw/
 https://github.com/g0v/ly.g0v.tw	
 
-## hackact 法案協作器構想試做
+## hackact 法案協作器構想試做 ⚙️
 https://g0v.hackmd.io/ESy79iuXSm2vVbaorbitng
 
-## 立委咖電喂
+## 立委咖電喂 📞
 http://call.ly.g0v.tw/
 http://beta.hackfoldr.org/callliwei	
 https://g0v.hackmd.io/0gQSLmg6SqSf9CIn2xuo_Q
 
-## 國會調查兵團
+## 國會調查兵團 👁️‍🗨️
 https://cic.tw/
 
-## lysayit 立委說了什麼
+## lysayit 立委說了什麼 💬
 https://ronnywang.github.io/lysayit	
 https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/HyGhI8flc/
 
-## 國會投票紀錄
+## 國會投票紀錄 🗳️
 
 https://lysayit.openfun.app/?doc_id=1132501_00002
 
-## 立委投票指南
+## 立委投票指南 🧭
 https://councils.g0v.tw/
 https://github.com/g0v/twly-voter-guide	
 https://beta.hackfoldr.org/voter_guide_tw	
 https://www.facebook.com/TW.Voter.Guide/	
 
-## 開放政治獻金 - 立委政治獻金
+## 開放政治獻金 - 立委政治獻金 💰
 https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/ryrT2aQdn/
 
-## 東亞國會美食地圖
+## 東亞國會美食地圖 😋
 https://g0v.hackmd.io/y_O_IpKrRxm6pG5rlO4enw?view
 
 ## 專案發想
@@ -73,11 +73,11 @@ https://g0v.hackmd.io/zXlxDrBuQZivh3ngvnoj4w
 
 ## 倡議與溝通
 
-2014-1-21 立法院資訊處演講：clkao - 逐字稿
-https://g0v.hackmd.io/mZM35u5yRSO3h6DommEwVw
-
 2014-1-21 立法院資訊處演講：johnny - 逐字稿
 https://g0v.hackmd.io/9JnriZNdQpeciBE7S_It2Q
+
+2014-1-21 立法院資訊處演講：clkao - 逐字稿
+https://g0v.hackmd.io/mZM35u5yRSO3h6DommEwVw
 
 立法院議事開放新媒體介接測試轉播意見交流會
 https://g0v.hackmd.io/MLptSHziTzykwZR7TnEFWA
