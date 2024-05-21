@@ -113,9 +113,19 @@
 ### 5-1 編輯文章內容
 切換到About頁面，點選要編輯的區塊，並於右側找到編輯欄位以進行編輯
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_035616392fda1b972866ea5da72b2772.png)
+### 5-2 編輯團隊成員照片、職位、名稱
+1. 點選要編輯的成員![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5fefcca542079319e31330413909ba84.png)
+2. 於右方編輯欄，往下滑動，找到編輯區
 
-### 5-2 編輯團隊成員內容
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5d9073dd618c633136e3c3f00ed50425.png)
+### 5-3 編輯團隊成員內容
+
+1. 點選要編輯的成員![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1022d366ce16b0fc34a93f88198cad5e.png)
+2. 在左邊欄位選擇該成員下的'Overlay'
+3. 在Overlay下方選到文字(最前方有T符號的)
+4. 編輯文字內容![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3ce094f92a11e1ebb31f88b0939bb993.png)
+5. 將畫布往上滾動可看到預覽畫面
+6. 按'Done'完成編輯![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ead73d99edff833e8b3c6dbf8e961ad1.png)
+
 
 
 ## 六、聯絡
