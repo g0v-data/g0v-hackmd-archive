@@ -1,12 +1,10 @@
 ---
-title: "開放政治獻金"
 tags: CY 零時監察院,hackpad
 ---
 
 # 開放政治獻金
 
 > [點此觀看原始內容](https://g0v.hackpad.tw/8ow2GnliH48)
-
 
 ## 專案重要網址
 
@@ -23,8 +21,15 @@ tags: CY 零時監察院,hackpad
     - 下載 [https://github.com/ronnywang/GovCash](https://github.com/ronnywang/GovCash)
     - 資料正規化、分析、JSON API 應用 [https://github.com/ihower/dcf](https://github.com/ihower/dcf)
 - 短講影片-台灣的政治獻金發展 by Ronny ：https://youtu.be/EPJQ8Vbz0RU
+- 開放政治獻金2023 https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/ryrT2aQdn/
+- 2024.05.05 回顧閃電講 https://www.youtube.com/live/zXM6KcyIe9k?si=De9qxsiljr3799pz&t=27339
 
-###     調查兵團號召前小討論
+<iframe width=100% height="480" src="https://www.youtube.com/embed/zXM6KcyIe9k?si=De9qxsiljr3799pz&amp;start=27339" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+### 調查兵團號召前小討論
 
 > 了解一下，一般立委申報的方式不知道是以數位還是書面？如果各立委手上有數位檔，應該看怎麼讓他們願意自己拿出來
 > [name=Hsin-chan C]
