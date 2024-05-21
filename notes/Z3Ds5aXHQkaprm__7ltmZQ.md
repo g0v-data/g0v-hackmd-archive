@@ -94,7 +94,7 @@
 
 6. 選取下方小卡（手機版本）的文字標籤![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e1e36026e97cde1d1448625adf4beb13.png)
 7. 重複步驟3-5
-
+<br/>
 
 ### 3-5 新增合作夥伴Logo
 1. 將logo檔案（建議檔案格式為svg）直接拖曳到畫面中，並調整大小![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8f44d98745e55a53671ee25321ee2ca3.gif)
@@ -109,6 +109,8 @@
 切換到Drama頁面，展開左側元件，找到Description後於右側編輯欄位變更文字![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_412b90f0cdd8133a5e4e1c537dd7366d.png)
 ### 4-2 索引頁內容
 索引頁內容會自動從作品頁資料庫中抓取，無需另行編輯。
+<br/>
+
 ## 五、關於
 ### 5-1 編輯文章內容
 切換到About頁面，點選要編輯的區塊，並於右側找到編輯欄位以進行編輯
@@ -126,12 +128,14 @@
 5. 將畫布往上滾動可看到預覽畫面
 6. 按'Done'完成編輯![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ead73d99edff833e8b3c6dbf8e961ad1.png)
 
-
+<br/>
 
 ## 六、聯絡
 1. 切換到聯絡頁面
 2. 展開Desktop>Hero>Stack>Text，選擇到想要編輯的文字（前面符號為“T”的元件）![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_86f838d24821db0676027ff87d5d50b9.png)
 4. 在右側欄位編輯文字內容
+
+<br/>
 
 ## 七、投資人專區
 ### 7-1 編輯文字
@@ -147,7 +151,7 @@
 
 > 註：由於欄位共用了母元件，因此編輯區會出現其他表格才有的資訊（如股東會日期等等），無需理會，只編輯所需資訊即可
 
-
+<br/>
 
 ## 八、儲存／預覽／發佈(Publish)
 
@@ -176,6 +180,7 @@
 2. 開啟下拉式選單，選擇作品頁面
 3. 重複‘9-1 一般頁面’的翻譯步驟
 
+<br/>
 
 ## 十、全站設定
 可調整顯示於搜尋引擎的名稱、描述，以及縮圖。
