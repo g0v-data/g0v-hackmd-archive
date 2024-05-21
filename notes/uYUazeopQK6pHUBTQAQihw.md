@@ -4,6 +4,9 @@ tags:
 
 # g0v 監察院相關專案
 
+歡迎加入 g0v Slack 頻道 #open-moneyflow
+
+## 開放政治獻金 
 - g0v 社群曾在 2014 年發起[開放政治獻金](https://g0v.hackpad.tw/ep/group/ulrp1T9grWr)，透過[群眾外包](https://campaign-finance.g0v.ctiml.tw/)將監察院的政治獻金紙本資料數位化
     - https://g0v.hackmd.io/ZvOb3i_GR0ODjXurSgY4pQ?view
 - 社會各界共同推動 2017 年修法成功讓政治獻金資料成為可在[網路上查閱的資料](https://ardata.cy.gov.tw/)

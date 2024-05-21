@@ -4,6 +4,8 @@ tags: 司法院
 
 # g0v 司法院相關專案
 
+歡迎加入 g0v Slack 頻道 #law
+
 司法院判決系統排版網站
 https://g0v.hackmd.io/j9S3QqTbS5Su8eVLgy_DPg
 

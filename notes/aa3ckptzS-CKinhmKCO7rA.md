@@ -6,6 +6,7 @@ tags: 國會松
 
 :::info
 參考來源 [g0v database - Project List](https://docs.google.com/spreadsheets/d/1C9-g1pvkfqBJbfkjPB0gvfBbBxVlWYJj6tTVwaI5_x8/edit#gid=0)
+歡迎加入 g0v Slack 頻道 #tw-ly-and-council
 :::
 
 ## 立院影城
