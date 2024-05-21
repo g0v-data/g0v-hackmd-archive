@@ -13,6 +13,7 @@ tags: Law
     * [爬出來的版本](https://github.com/ronnywang/tw-law-corpus)
     * [上面資料的爬蟲](https://github.com/ronnywang/twlaw)
 * [法規資料庫](https://law.moj.gov.tw/)
+    * [全國法規資料庫Open API](https://law.moj.gov.tw/api/)
     * [開放資料](https://law.moj.gov.tw/api/swagger/ui/index#/)
 
 

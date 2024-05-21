@@ -15,13 +15,17 @@ tags: 公有地大行動,公有資產,hackpad
 <iframe width=100% height=490 src="https://www.youtube.com/embed/FpI1dDW95oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+:::info
+目錄
+[TOC]
+:::
 
 ## 協作歷程開始
 
 ### 20161229 晚餐聚會
 
 - 緣起：臺北市政府代表表示，曾將「[天龍特公地](http://taipei-pop.herokuapp.com/)」網站於青年事務委員會公開展示給市長查看，會議上遂開始討論市府這邊也應該建置類似的平台，故約了一個聚會邀請天龍特公地專案參與者與市府代表交流（見[社團中的邀請貼文](https://www.facebook.com/groups/1417173811903954/permalink/1818320148455983/?pnref=story)）。
-- 利益 (食物) 揭漏：
+- 利益 (食物) 揭露：
     - 出席者 chewei 省了一筆晚餐費，食物含串燒數串、梅酒約 350ml。
 - 討論內容簡記：
     - chewei 分享「[天龍特公地](http://taipei-pop.herokuapp.com/)」網站建置大致經驗，包含 g0v 各個參與者所協力的不同環節，至少包含資料整理過程、地圖化呈現、都更資料比對、上傳照片功能、下載單筆 GeoJson 功能、融入 NGO 與社區的觀點提供面積與局處篩選條件、撰寫出倡議文字...等等。
@@ -95,7 +99,7 @@ http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0060114
 - 民間端如何活用公有資產資料，有什麼以資料啟動的空間使用方法。
 
 ==4. 公民科技進政府==
-- 討論到公民科技與政府採用、採購等機制的可能方式。相關探討可參考 [g0v.taipei fellowship](https://g0v.hackpad.tw/LJZw6OzdO9g)。
+- 討論到公民科技與政府採用、採購等機制的可能方式。相關探討可參考 [g0v.taipei fellowship](https://g0v.hackmd.io/9tq3yPW2TtO8dK2sZVVd1w)。
 
 ### 20170122 蒐集社群意見
 

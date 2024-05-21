@@ -2,7 +2,7 @@
 tags: cowork guideline
 ---
 
-# 頻道列表與簡介短句<br>整理成容易貼入 Slack 內的格式
+# g0v Slack 頻道列表與簡介短句<br>整理成容易貼入 Slack 內的格式
 
 加入 g0v slack 聊天頻道的步驟
 https://g0v.hackmd.io/@daisuke/ryjkbFyuS
@@ -92,8 +92,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #edu-aray 公民科技貢獻者的專案與任務視覺化平台
 #edu-accomdemy 伴伴學社群頻道
 #edu-幸福存摺 小草書屋的「幸福存摺」專案
-#edu-daodao 島島阿學
-島島阿學的 slack 網址：https://bit.ly/3yg5cFi
+#edu-daodao 島島阿學 slack 網址：https://bit.ly/3yg5cFi
 #edu-coteach CoTeach 教案資源共享平臺
 #edu-open CourseAPI 開放式課程資訊匯流學院
 #edu-lipoic Lipoic 是一個致力於整合與改善遠距授課與線上教室的教育平台，並讓學生能不受空間限制學習知識，老師能更便利地傳授知識，並且我們也熱衷於開放文化的精神，與我們一起翻轉教育吧！

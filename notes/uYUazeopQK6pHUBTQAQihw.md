@@ -1,8 +1,10 @@
 ---
-tags:
+tags: CY 零時監察院
 ---
 
-# g0v 監察院相關專案
+{%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
+
+# g0v 監察院相關專案 / CY 零時監察院
 
 歡迎加入 g0v Slack 頻道 #open-moneyflow
 
@@ -18,3 +20,12 @@ tags:
 - 2024.05.05 開放政治獻金 - 回顧閃電講 https://www.youtube.com/live/zXM6KcyIe9k?si=De9qxsiljr3799pz&t=27339
 
 <iframe width=100% height="480" src="https://www.youtube.com/embed/zXM6KcyIe9k?si=De9qxsiljr3799pz&amp;start=27339" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 其他
+
+
+---
+:::info
+g0v 專案與社群行動 - 依憲政五院部會架構
+https://g0v.hackmd.io/@jothon/forms-of-government/
+:::
