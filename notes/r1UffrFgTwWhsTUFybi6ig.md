@@ -23,6 +23,7 @@ Suggestions:
 - Participents number sahring
     - JP
     - TW
+        - (kiang and Billion are applied? they applied JP one so I asked to resubmit.)
     - KR
 - Venue
     - https://drive.google.com/drive/u/0/folders/1yQ_OZoWJsa2JsQH-OBpMkwVTm_6Sd2kw
@@ -50,7 +51,7 @@ Suggestions:
         - Can you share g0v summit one?
 - Info sheet and Project/Sharing  
     - Info sheet
-        - 
+        - https://docs.google.com/spreadsheets/d/150ExZnTFoTASFZoayazUTDsBHK4fInvJ0kcN1a428pk/edit#gid=0
     - Project and Sharing talks can we use form to manage?After decided the participents we will share the link
         - https://docs.google.com/forms/d/1_R7t2ZNVoSjQ1oifdP-GIX2j8wMFVuvno-gF2MdGwdk/edit
 
