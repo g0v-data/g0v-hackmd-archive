@@ -4,13 +4,15 @@
 ## IPv4 Subnetting
 - If a part has N bits, it can represent 2N - 2 subnets or hosts per subnet.
 - 全部都是0或1不算，所以要-2
+- 全是1表廣播
+- 全是0表未指定地址
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_29c1dbc36ee14be081e3765a59b74bf5.png)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1093de98d4feea55f8f84b43bfa3550d.png)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_622401521d7abed0e66f3bf969f942d7.png)
 
-==ans:6,62,62==
+
 
 ## Private IP Addresses
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_50ffcbd3e8942cd050cde6476f8744b7.png)

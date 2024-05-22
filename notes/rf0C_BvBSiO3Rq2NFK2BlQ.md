@@ -167,7 +167,6 @@ The problem:
 ## UDP
 - 大部分訊息都很短(不用connection)
 - 不會切割、回復
-- Datagram獨立存在
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3f22f1ddb2c6fb5565ca5ff05873e810.png)
 
 
