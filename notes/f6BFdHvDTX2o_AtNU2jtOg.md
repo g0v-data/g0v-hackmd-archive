@@ -568,6 +568,7 @@ Asian Soundscape
 http://soundscape.twgrid.org/
 沖繩
 https://link.springer.com/article/10.1007%2Fs11284-017-1509-5
+
 台灣生態聲景長期監測 Long-term monitoring of soundscape in Taiwan，開放的陸海聲景聆聽平台
 https://sway.com/pnEXDtfrumMf6nh4?ref=Link&loc=mysways
 https://paper.dropbox.com/doc/4d4u4VrnLa7TQu2Gcw2aL
@@ -577,13 +578,18 @@ http://www.soundandtaiwan.com/soundmap/twmap.html
 https://sites.google.com/site/taiwansoundscape/who-we-are
 台灣現代聲響文化資料庫 
 http://soundtraces.tw/
+
 台南
+臺南400: 臺南聲景百選活動
+https://hzsoundscape.com.tw
 台南聲音地景 
 http://designwork2013.wixsite.com/vivoss
 臺南府城聲景地圖 
 https://www.tgos.tw/MapSites/Web/Map/MS_Map.aspx?themeid=230&type=view&visual=point
+
 高雄左營
 https://udn.com/news/story/7327/3845159
+
 台北
 書籍：《耳朵的棲息與散步：記憶台北聲音風景》http://www.books.com.tw/products/0010737489
 聽！蓬萊町音景走讀
