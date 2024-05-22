@@ -28,8 +28,8 @@ Suggestions:
 - Venue
     - https://drive.google.com/drive/u/0/folders/1yQ_OZoWJsa2JsQH-OBpMkwVTm_6Sd2kw
 - 17th Lunch
-    - We can get Obentoooo!!yay but they dont have vegan lunch so we will figure it out..
-    - The obento is really populer one so I need to order it right after we closed the form
+    - We can get Obentoooo!!yay 
+    - The obento is really populer one so I need to order right after we closed the form
         - Please fill out the infosheet by 7th of July:)
 - Students workshop
     - Can we do 60-90 min workshop for students?→It might be good for sponsors too?

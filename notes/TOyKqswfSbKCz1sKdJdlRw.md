@@ -12,16 +12,23 @@ Cascade layers are especially beneficial when you are considering using the `!im
 We will discuss additional use cases for cascade layers later. In the meantime, let’s examine an example. In the following code, we have two cascade layers accompanied by HTML markup:
 ```html
 <body>
-    <ul>
-        <li class="item feature">Item one</li>
-        <li class="item">Item two</li>
-        <li class="item">Item three</li>
-    </ul>
+  <ul>
+    <li class="item feature">
+      Item one
+    </li>
+    <li class="item">
+      Item two
+    </li>
+    <li class="item">
+      Item three
+    </li>
+  </ul>
 </body>
 ```
 The code above defines an unordered list `<ul>` with three list items `<li>,` each having the class `item.` The first list item also has the class `feature,` displaying three items in a list format.
 ```css
 @layer base, special;
+
 @layer special {
     .feature {
         font-weight: bold;
@@ -38,7 +45,7 @@ This code organizes CSS styles into two layers, with the `base` layer setting th
 
 Similarly, we have arranged the layers in such a way that priority is given to the `special` layer over the `base` layer, resulting in the image shown below:
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_482cf382d3acac8789ee059cb6ab0382.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b9bf353154c4a459d61d8b9288e40a75.png)
 
 We can utilize multiple CSS sources or layers, allowing us to prioritize and override specific styles without relying on selector specificity or the `!important` property. 
 
@@ -47,55 +54,66 @@ In this article, our focus is on understanding the cascade layer keyword known a
 The `revert-layer` keyword in CSS allows a property to revert to the value of the same property in a previous layer of the cascade. If there is no previous value set, it reverts to the default browser styles. This keyword can be applied to any CSS property, including the shorthand property `all`. Here's an example:
 ```html
 <body>
-    <h1>Test Subject</h1>
-    <ul>
-        <li class="item feature">Subject one</li>
-        <li class="item">Subject two</li>
-        <li class="item">Subject three</li>
-    </ul>
+  <h1>Test Subject</h1>
+  <ul>
+    <li class="item feature">
+      Subject one
+    </li>
+    <li class="item">
+      Subject two
+    </li>
+    <li class="item">
+      Subject three
+    </li>
+  </ul>
 </body>
 ```
 In the code above, we have a heading element and a list of items. Now, let’s write our CSS:
 ```css
 @layer base, special;
+
 @layer special {
-    .item {
-        color: red;
-    }
+  .item {
+    color: red;
+  }
 }
 
 @layer base {
-    .item {
-        color: blue;
-        font-weight: normal;
-        font-size: 16px;
-    }
-    .feature {
-        color: green;
-    }
+  .item {
+    color: blue;
+    font-weight: normal;
+    font-size: 16px;
+  }
+  .feature {
+    color: green;
+  }
 }
 ```
 The code above defines two layers (`base` and `special`), where `special` sets the `.item` color to red, and `base` sets the `.item` color to blue, font weight to normal, font size to 16px, and `.feature` color to green, with `base` taking precedence over `special.`
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_563228b2460d10cc80db682bdecbfb73.png)
+
 In our previous example, we have two layers. As we explained earlier, all items will appear in red because the `color` property inside the `special` layer scheme takes the highest priority.
 
 If we reorder our layers to `@layer special, base,` just as written below:
 ```css
 @layer special, base;
+
 @layer base {
-    .item {
-        color: blue;
-        font-weight: normal;
-        font-size: 16px;
-    }
-    .feature {
-        color: green;
-    }
+  .item {
+    color: blue;
+    font-weight: normal;
+    font-size: 16px;
+  }
+  .feature {
+    color: green;
+  }
 }
+
 @layer special {
-    .item {
-        color: red;
-    }
+  .item {
+    color: red;
+  }
 }
 ```
 As a result of the change made in the code, all items will become blue, excluding the first item, which will be green, just like shown in the image below:
@@ -141,16 +159,23 @@ Additionally, if we remove the `.feature` selector from `@layer base`, the item 
 On the other hand, if there’s no matching selector property, the style reverts or rolls back to the browser's default origin styles. Please refer to the following HTML:
 ```html
 <ul>
-    <li class="feature">Subject one</li>
-    <li class="item">Subject two</li>
-    <li class="item">Subject three</li>
-  </ul>
+  <li class="feature">
+    Subject one
+  </li>
+  <li class="item">
+    Subject two
+  </li>
+  <li class="item">
+    Subject three
+  </li>
+</ul>
 ```
 This code creates an unordered list with three list items, where the first item has the class `feature` and the second and third items have the class `item`.
 
 Below we have the CSS:
 ```css
 @layer base, special;
+
 @layer special {
     .item {
         color: orange;
@@ -159,6 +184,7 @@ Below we have the CSS:
         color: revert-layer;
     }
 }
+
 @layer base {
     .item {
         color: blue;

@@ -54,8 +54,11 @@ We want to discuss measures for both governmental and civil department, that can
 - [俄羅斯入侵烏克蘭資訊野生整合平台 2022.2-](https://g0v.hackmd.io/@chihao/ukraine/%2Fm8_-IXlsSNGxIKOxsEDhxw%3Fview)
 - [全台防災/防空避難所大統整](/UNg_8F3FTuynAwbV7flp-w)
 
+{%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
+
 Other
 ---
 - [idea pool 提點子](/PMiMLc-JT3yFrAs3CL6rzw)
 - [民防相關證照](/B-ky08JbR4-HD3lFDwynLQ)
 - [基建 logistics of DigiResiTh0n](/e6rWxnppQmuSpUxcoXzoHw)
+
