@@ -17,7 +17,7 @@
 ## Private IP Addresses
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_50ffcbd3e8942cd050cde6476f8744b7.png)
 
-- 這些只能在公司內使用 ，永遠不會在互聯網上使用
+- 這些只能在公司內使用 ，永遠不會在公共網路(互聯網)上使用
 
 ## Network Address Translation (NAT)
 - 在私人網路和公共網路之間轉換ip address
