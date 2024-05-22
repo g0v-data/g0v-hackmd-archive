@@ -252,11 +252,19 @@ To gain a better understanding of this use case, let's examine the difference be
 
 First, here's how the `revert` keyword is used:
 ```html
-<ul>
-    <li class="feature">Subject one</li>
-    <li class="item">Subject two</li>
-    <li class="item">Subject three</li>
+<body>
+  <ul>
+    <li class="item feature">
+      Item one
+    </li>
+    <li class="item">
+      Item two
+    </li>
+    <li class="item">
+      Item three
+    </li>
   </ul>
+</body>
 ```
 The HTML code above creates an unordered list with three items. The first item has the class `feature` and the second and third items have the class `item`.
 ```css
@@ -290,11 +298,19 @@ Now, let's consider an example of using the `revert-layer` keyword.
 
 We will just make use of the previous HTML code written earlier for this example:
 ```html
-<ul>
-    <li class="feature">Subject one</li>
-    <li class="item">Subject two</li>
-    <li class="item">Subject three</li>
+<body>
+  <ul>
+    <li class="item feature">
+      Item one
+    </li>
+    <li class="item">
+      Item two
+    </li>
+    <li class="item">
+      Item three
+    </li>
   </ul>
+</body>
 ```
 Just as explaineda earlier the code above creates an unordered list with three items, where the first item has the class `feature` and the second and third items have the class `item`.
 
@@ -328,11 +344,19 @@ Moving forward, let’s consider the following example to demonstrate how we can
 
 First lets write out our HTML code:
 ```html
-<ul>
-    <li class="feature">Subject one</li>
-    <li class="item">Subject two</li>
-    <li class="item">Subject three</li>
+<body>
+  <ul>
+    <li class="item feature">
+      Item one
+    </li>
+    <li class="item">
+      Item two
+    </li>
+    <li class="item">
+      Item three
+    </li>
   </ul>
+</body>
 ```
 The code above shows an unordered list with three items, where the first item has the class `feature` and the second and third items have the class `item`.
 ```css
@@ -372,11 +396,19 @@ See the code below:
 
 First we write out our HTML code just like the previous
 ```html
-<ul>
-    <li class="feature">Subject one</li>
-    <li class="item">Subject two</li>
-    <li class="item">Subject three</li>
-</ul>
+<body>
+  <ul>
+    <li class="item feature">
+      Item one
+    </li>
+    <li class="item">
+      Item two
+    </li>
+    <li class="item">
+      Item three
+    </li>
+  </ul>
+</body>
 ```
 The HTML code above creates an unordered list with three items, assigning the class `feature` to the first item and the class `item` to the second and third items.
 
