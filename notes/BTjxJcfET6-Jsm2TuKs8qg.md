@@ -46,12 +46,12 @@
 - 一種在公共網路上建立私人網路連接的技術
     1. 建立隧道：在用戶設備和 VPN 服務器之間建立一個加密的通信隧道。
     2. 數據加密：在數據進入隧道之前，使用加密技術對數據進行加密，確保數據在傳輸過程中保密。
-    3. 數據傳輸：加密的數據通過公共網路（如互聯網）傳輸到 VPN 服務器。
+    3. 數據傳輸：加密的數據通過公共網路傳輸到 VPN 服務器。
     4. 數據解密：VPN 服務器接收到加密數據後，對數據進行解密，然後將其發送到目標資源。
 ### two types of VPNS
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_38588593bb6cdaa34f3c0ef251a9b99c.png)
 1. remote access VPN:用戶連接到網站上的VPN Gateway
-2. Site-to-site VPN:每個站點都會有VPN保護兩個站點之間的所有流量
+2. Site-to-site VPN:每個站點都會有VPN Gateway保護兩個站點之間的所有流量
 ## IPsec
 - IPsec：IETF 的 IP 安全標準，運行在internet層，保護傳輸標頭、應用程式內容和一些 IP 標頭內容。
 - IPsec has two modes (ways) of operating:
@@ -65,7 +65,6 @@
 ## IPv6 Subnetting
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5c0315d2a8f42d586b24809e666fa5c7.png)
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b3c6718cff3187c583ba6578d852e08b.png)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_91c4dcca2a9e0eba8aef80a80ca4bf99.png)
 
