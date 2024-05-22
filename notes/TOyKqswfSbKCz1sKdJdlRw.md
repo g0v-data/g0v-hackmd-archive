@@ -1,11 +1,11 @@
-# CSS revert-layer keyword Explained
+# CSS revert-layer keyword Explained [Edits]
 Maintaining a consistent design across various browsers and devices is an ongoing challenge in web development. This challenge includes adapting styles for different device screens and dealing with overridden styles due to conflicting specificity or inheritance hierarchies.
 
-When encountering overridden styles, a common approach is to use the `!important` property, which gives a style priority over others. However, as CSS continues to evolve, more advanced solutions are being introduced to tackle these challenges. CSS cascade layers are emerging as a promising solution, providing a more refined approach to manage and resolve styles.
+When encountering overridden styles, a common approach is to use the `!important` property, which gives a style priority over others. However, as CSS continues to evolve, more advanced solutions are being introduced to tackle these challenges. CSS cascade layers are emerging as a promising solution, providing a more refined approach to managing and resolving styles.
 
-In this article, we will discuss CSS cascade layers, focusing on the `revert-layer` keyword. We will explain how cascade layers function, when to utilize them, the purpose of the `revert-layer` keyword, and its various use cases.
+In this article, we will discuss CSS cascade layers, focusing on the `revert-layer` keyword. We will explain how the cascade layers function, when to utilize them, the purpose of the `revert-layer` keyword, and its various use cases.
 ## Exploring CSS Cascade Layers
-The at-rule introduced by cascade layers, belonging to `@layer`, is particularly useful when dealing with multiple CSS sources. It allows authors to define and order their CSS rules or layering schemes, thereby avoiding specificity conflicts.
+The at-rule introduced by cascade layers belonging to `@layer` is particularly useful when dealing with multiple CSS sources. It allows authors to define and order their CSS rules or layering schemes, thereby avoiding specificity conflicts.
 
 Cascade layers are especially beneficial when you are considering using the `!important` property in your CSS styles. They are highly relevant in such situations. Another scenario where cascade layers should be used is when there are conflicting CSS selectors and specificity.
 
@@ -19,7 +19,7 @@ We will discuss additional use cases for cascade layers later. In the meantime, 
     </ul>
 </body>
 ```
-The code above defines an unordered list `<ul>` with three list items `<li>`, each having the class `item`. The first list item also has the class `feature`, displaying three items in a list format.
+The code above defines an unordered list `<ul>` with three list items `<li>,` each having the class `item.` The first list item also has the class `feature,` displaying three items in a list format.
 ```css
 @layer base, special;
 @layer special {
@@ -75,14 +75,11 @@ In the code above, we have a heading element and a list of items. Now, let’s w
     }
 }
 ```
-The code above defines two layers (`base` and `special`), where `special` sets `.item` color to red, and `base` sets `.item` color to blue, font weight to normal, font size to 16px, and `.feature` color to green, with `base` taking precedence over `special`.
-
+The code above defines two layers (`base` and `special`), where `special` sets the `.item` color to red, and `base` sets the `.item` color to blue, font weight to normal, font size to 16px, and `.feature` color to green, with `base` taking precedence over `special.`
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_563228b2460d10cc80db682bdecbfb73.png)
-
-
 In our previous example, we have two layers. As we explained earlier, all items will appear in red because the `color` property inside the `special` layer scheme takes the highest priority.
 
-If we reorder our layers to `@layer special, base;` just as written below:
+If we reorder our layers to `@layer special, base,` just as written below:
 ```css
 @layer special, base;
 @layer base {
@@ -101,7 +98,7 @@ If we reorder our layers to `@layer special, base;` just as written below:
     }
 }
 ```
-As a result of the change made in the code all items will become blue, excluding the first item, which will be green, just like shown in the image below:
+As a result of the change made in the code, all items will become blue, excluding the first item, which will be green, just like shown in the image below:
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ea6ba091200c32fce7d15e68a7d045fa.png)
 
@@ -129,7 +126,7 @@ To implement the `revert-layer` keyword, add the styles below:
 ```
 In our `special` layer, we set the color to the value of `revert-layer` in the selector for the `.feature` item.
 
-This means that every other color in the list of items turns orange, while the `.feature` item becomes green. This is because it reverts to the matching property of the previous cascade layer, which we assigned as green. 
+This means that every other color in the list of items turns orange, while the `.feature` item becomes green. 
 
 Below is an image of the result:
 
@@ -137,10 +134,11 @@ Below is an image of the result:
 
 Our layer order prioritizes `@layer special` over `@layer base`. This means that the styles in `@layer special` are processed before those in `@layer base`. In `@layer special`, the `color` property for the `.feature` selector is set to `revert-layer`. As a result, the `color` property for `.feature` reverts to the value from the previous layer, which in this case is `@layer base`. In `@layer base`, there is a matching selector `.feature` with the `color` property set to green, so this is the value that is applied.
 
-Additionally, if we remove the `.feature` selector from `@layer base`, the item with the `.feature` class reverts to the default color of the browser, which is typically black. However, since the item also has the class `.item`, it takes the `color: blue` property from the `.item` class in the `@layer base.` This is reflected in the image below:
+Additionally, if we remove the `.feature` selector from `@layer base`, the item with the `.feature` class reverts to the default color of the browser, which is typically black. However, since the item also has the class `.item`, it takes the `color: blue` property from the `.item` class in the `@layer base.` This is shown in the image below:
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6ba6d21cfd0af7ede3dffca590b4be1f.png)
 
-On the other hand, if there’s no matching selector property, the style reverts or rolls back to the browser default origin styles. Please refer to the following HTML:
+On the other hand, if there’s no matching selector property, the style reverts or rolls back to the browser's default origin styles. Please refer to the following HTML:
 ```html
 <ul>
     <li class="feature">Subject one</li>
@@ -181,7 +179,7 @@ By using modular styling, styles are scoped to specific components or modules, w
 
 Modular styling can be effectively implemented using the `revert-layer` keyword. Here's how:
 
-First we write out our HTML code
+First we write out our HTML code:
 ```html
 <body>
   <p class="text">Modular Button</p>
@@ -226,7 +224,7 @@ If you have used the `revert` keyword, you are aware that it removes the styles 
 
 To gain a better understanding of this use case, let's examine the difference between `revert` and `revert-layer` using the following examples.
 
-First, here's how the `revert` keyword is used, :
+First, here's how the `revert` keyword is used:
 ```html
 <ul>
     <li class="feature">Subject one</li>
@@ -262,9 +260,9 @@ See the result of the code above in the image below:
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f441211770e03a071d872314045eeb9e.png)
 
-Now, let's consider an example of using the `revert-layer` keyword:
+Now, let's consider an example of using the `revert-layer` keyword.
 
-We will just make use of the previous HTML code written earlier for this example
+We will just make use of the previous HTML code written earlier for this example:
 ```html
 <ul>
     <li class="feature">Subject one</li>
@@ -274,7 +272,7 @@ We will just make use of the previous HTML code written earlier for this example
 ```
 Just as explaineda earlier the code above creates an unordered list with three items, where the first item has the class `feature` and the second and third items have the class `item`.
 
-Now we take a look at the css code below carrying the function of the `revert-layer`
+Now we take a look at the css code below carrying the function of the `revert-layer`:
 ```css
 @layer base, special;
 
@@ -296,7 +294,7 @@ Now we take a look at the css code below carrying the function of the `revert-la
     }
 }
 ```
-The CSS code above defines two layers, `base` and `special`. In the `base` layer, the `.item` and `.feature` classes are styled blue. In the `special` layer, the `.item` class is styled red. When using the `revert-layer` keyword, the `.feature` item will be styled blue because it reverts the styles back to the previous layer, which in our case is the `base` layer where the item is styled blue. Here’s the result:
+The CSS code above defines two layers, `base` and `special`. In the `base` layer, the `.item` and `.feature` classes are styled blue. In the `special` layer, the `.item` class is styled red. When using the `revert-layer` keyword, the `.feature` item will be styled blue because it reverts the styles back to the previous layer, which, in our case, is the `base` layer where the item is styled blue. Here’s the result:
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f98c075687cecadaf256f3294a753737.png)
 
@@ -310,7 +308,7 @@ First lets write out our HTML code:
     <li class="item">Subject three</li>
   </ul>
 ```
-The code ab shows an unordered list with three items, where the first item has the class `feature` and the second and third items have the class `item`.
+The code above shows an unordered list with three items, where the first item has the class `feature` and the second and third items have the class `item`.
 ```css
 &,
 * {
@@ -389,8 +387,9 @@ This strategy allows elements to retain their old styles if desired, as we rever
 ## Assessing Browser Compatibility
 CSS cascade layers, such as the `revert-layer` keyword, offer promising capabilities for CSS architecture. However, it’s crucial to consider browser compatibility. Additionally, `revert-layer` is not easily polyfillable, which complicates its adoption in projects targeting a wide range of browsers.
 
-[MDN's](https://developer.mozilla.org/en-US/docs/Web/CSS/revert-layer#browser_compatibility) documentation officially states that browser support for the `revert-layer` is limited.
+[MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/revert-layer#browser_compatibility)'s documentation officially states that browser support for the `revert-layer` is limited.
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_699001a9392ddc136f3d5b982d598f96.png)
 
-
+But after testing it myself, I can confirm that the `revert-layer` keyword is compatible and supported across multiple browsers such as Chrome, Firefox, Opera, and Brave. It should also be supported in Safari.
 ## Conclusion
+We have explored how the `revert-layer` functions and how to utilize it. Understanding the `revert-layer` and its potential use cases or applications can enable developers to effectively leverage their capabilities in projects where browser compatibility allows.
