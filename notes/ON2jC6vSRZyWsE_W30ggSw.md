@@ -8,6 +8,8 @@
 ## 協作連結
 https://www.figma.com/design/hzzS9EvT7qs8WLamwviOPG/0517-vTaiwan-%E6%96%87%E5%AE%A3?node-id=0%3A1&t=aT8Spa6wCOmeC8by-1
 
+https://www.canva.com/design/DAGF3hTofe4/lxY1FSsHvIIDryuSkcPuUQ/edit
+
 ## 對於文宣的建議
 - 或許強調目的、聲明不收集個人資料會有幫助 [name=peter]
 - 集會的注意力分散得很快，建議用非常簡短的方式去敘述，用大標題去快速讓大家了解vTaiwan的目的，像是『線上投票讓社會跟國會看到我們的聲音！』之類的 (josh)
