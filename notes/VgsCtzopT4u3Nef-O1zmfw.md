@@ -7,7 +7,7 @@ This guide focuses on securing and updating Flutter applications. It covers secu
 ## Password Hashing vs. Encryption
 Hashing is a one-way function that converts input data (like a password) into a fixed-size string of characters, which appears random. The original data cannot be retrieved from the hash. Hashing is ideal for securely storing passwords because even if the hash is exposed, it cannot be reversed to reveal the original password.
 
-Encryption is a reversible process where data is converted into a different format to prevent unauthorized access. The encrypted data can be decrypted back to its original form using a specific key. Encryption is suitable for data that needs to be accessed later, such as messages or files, but is not recommended for storing passwords.
+Encryption is a reversible process where data is converted into a different format to prevent unauthorized access. The encrypted data can be decrypted back to its original form using a specific key. Encryption is suitable for data that needs to be accessed later, such as messages or files but is not recommended for storing passwords.
 
 ## Implementing Password Hashing in Flutter
 
@@ -160,7 +160,7 @@ In this example:
 - `MyApp` is renamed to `A`
 - `Scaffold` is renamed to `B`
 - `AppBar` is renamed to `C`
-- `Center` is renamed to `D`
+- `Center` is renamed `D`
 
 This obfuscation makes it harder for someone to understand the code, thereby protecting your intellectual property.
 
@@ -298,50 +298,6 @@ By utilizing HTTPS for network communication and implementing SSL pinning with p
 
 ## Mitigating the Risks of Malware and Hacking
 Protecting against malware and hacking requires proactive measures to secure the app's codebase and network interactions. Here are techniques and tools developers can use to mitigate the risk of hacking and malware:
-
- ### Code Obfuscation
-Obfuscation is a technique used to make code harder to understand or reverse engineer by renaming variables, functions, and classes to meaningless or cryptic names. In Flutter, the [flutter_obfuscate](https://docs.flutter.dev/deployment/obfuscate) package provides a simple way to obfuscate Dart code, enhancing the security of your app's logic.
-
-By obfuscating your Dart code, you make it more difficult for attackers to understand the inner workings of your application. This is particularly important for protecting sensitive algorithms, proprietary algorithms, or intellectual property from being easily reverse-engineered.
-
-The `flutter_obfuscate` package works by renaming identifiers in your Dart code to random strings. This process makes the code less readable and thus more challenging for attackers to decipher.
-
-Here's an example of how you can use `flutter_obfuscate` to obfuscate your Flutter app's code.
-
-Before obfuscation:
-
-```dart
-import 'package:flutter/material.dart';
-
-void main() {
-  runApp(MyApp());
-}
-
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Scaffold(
-        appBar: AppBar(title: Text('Obfuscated App')),
-        body: Center(
-          child: Text('This is an obfuscated Flutter app.'),
-        ),
-      ),
-    );
-  }
-}
-```
-After obfuscation:
-```dart
-import 'package:flutter/material.dart';
-
-void main() {
-  runApp(Y2luZygpLk15QXBwKCk7CgogICAgcmV0dXJuIE1hcEltYWdlcigpOwoKICAgIGNsYXNzIE15QXBwIGV4dGVybiBJbnRlcmZhY2UgewogICAgICAgIHJvdXRlck1hcCgpOwoKICAgICAgICB3aWRnZXQoQnVuZGxlQ29sbGVjdGlvbih0aGlzLCAiT2Jmc2ljYXRlZCBBcHAiKSk7CiAgICAgfQp9Cg==
-```
-
-As you can see, after obfuscation, the code becomes significantly more difficult to understand, with all identifiers replaced by random strings.
-
-By utilizing tools like `flutter_obfuscate` to obfuscate your Dart code, you add layer of protection to your Flutter app, making it more challenging for attackers to reverse engineer and understand your app's logic. This enhances the security of your app and helps protect your intellectual property.
 
 ### Secure Networking Practices
 In Flutter, ensuring secure communication between your app and servers is critical to preventing man-in-the-middle (MITM) attacks, where an attacker intercepts and modifies data exchanged between the app and the server. Two primary methods for achieving secure communication are using HTTPS and implementing certificate pinning.
