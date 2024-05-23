@@ -47,3 +47,5 @@ g0v 是台灣的民主科技 R&D 場域，今年要來倉庫大整理。2024 g0v
 🔥 [敬請支持 g0v 持續舉辦大黑客松：捐款連結](https://ocf.neticrm.tw/civicrm/contribute/transact?reset=1&id=30)🔥
 g0v雙月大松恐將斷炊．亟需大家的捐款支撐！
 每一筆定期定額，都是台灣民主實踐的糧草！
+
+{%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
