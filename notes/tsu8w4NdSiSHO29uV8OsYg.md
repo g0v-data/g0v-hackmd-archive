@@ -2,7 +2,7 @@
 tags: 公民參與
 ---
 
-# LLM + Join
+# LLM + 公眾討論
 
 跳坑: paul, Ronny, chewei
 
@@ -10,6 +10,10 @@ tags: 公民參與
 功能目錄
 [TOC]
 :::
+
+## 2024 倡議：擴大 JOIN 公共政策網路參與平臺可支援的數位參與功能模組
+
+https://docs.google.com/document/d/1ztUixYlI2ivOpwSXcshIKDhrEjfuqcJbvD02ZgKaoKg/edit
 
 ## 您好，我是 AI 桌長，幫您 ORID 一下
 
@@ -35,6 +39,20 @@ https://poe.com/moderator-bot-gpt4
 
 :::
 
+## Talk to the City
+
+文章：眾議式民主新可能？除了區隔衝突，「Pol.is 2.0」透過 AI 收斂論述，找出群眾共識
+https://www.readr.tw/post/2957
+
+使用 Talk to the City by Ronny
+- 說明：Join 平台上面婚姻平權主題，有一萬多則留言，抓了其中 500 則用 Talk to the city 來產生報告
+- 成果網址：https://ronnywang.github.io/tttc-join-test/report3/
+- 相關討論與共筆：https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/SykwHbGQT
+
+Amplifying Voices: Talk to the City in Taiwan
+- https://ai-assembly.tw/
+- https://www.facebook.com/permalink.php?story_fbid=pfbid02t683jJh12pGAapyDyT2fa2jgTFZH8pq28KEdNogdaWdvMcGXTisfLviMzAaVAnJJl&id=100005959082408
+
 ## 民眾意見分群分類
 
 ### 留言 Sample 
@@ -55,12 +73,6 @@ https://poe.com/moderator-bot-gpt4
         - 是否為純反對
         - 是否有額外意見
         - 這則留言已知與哪一個編號的意見屬於相似意見
-
-### 使用 Talk to the City by Ronny
-- 說明：Join 平台上面婚姻平權主題，有一萬多則留言，抓了其中 500 則用 Talk to the city 來產生報告
-- 成果網址：https://ronnywang.github.io/tttc-join-test/report3/
-- 相關討論與共筆：https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/SykwHbGQT
-
 
 ### GPT3.5 指令文字設計 (2023.08 測試 by chewei)
 - 先把留言給予流水編號

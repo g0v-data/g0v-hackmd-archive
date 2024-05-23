@@ -27,7 +27,7 @@ tags: 公民參與
 #### ⚙️ 工具探討：意見蒐集階段
 - [意見分群｜Polis](https://g0v.hackmd.io/FXuaLiL2QZiFIv05FI7sag)
 - [爭點結構視覺化工具](https://g0v.hackmd.io/UHY2JpBRSVyVh-7OQSpGyg?view)
-- [探討中：LLM + Join](https://g0v.hackmd.io/tsu8w4NdSiSHO29uV8OsYg?view)
+- [LLM + 公眾討論](https://g0v.hackmd.io/tsu8w4NdSiSHO29uV8OsYg?view)
 - [法令草案預告 - 功能發想](https://g0v.hackmd.io/S7BG_ouAQlqpt4VJ9Biliw?view)
 
 #### ⚙️ 工具探討：應用於空間改造
