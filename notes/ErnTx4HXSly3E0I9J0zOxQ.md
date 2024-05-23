@@ -18,8 +18,7 @@ Continuous Pedestrian Pathway
 
 ### 介紹
 
-在街區內創造一條連續的行人路徑，且盡可能避免受到車道阻斷
-阻隔部分路口，避免車輛直通穿越
+在街區內創造一條連續的行人路徑，且盡可能避免受到車道阻斷，避免車輛直通穿越。
 
 #### 名稱發想
 
@@ -39,6 +38,11 @@ https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X
 
 待整理內容
 https://www.facebook.com/share/9jkpUvRvNzEFkJbn/?mibextid=WC7FNe
+
+西雅圖
+https://www.facebook.com/share/uM9kYKZd2hh3CkPd/
+
+
 
 #### 臺灣情境試作地圖
 另開地圖：https://maps.app.goo.gl/X4C3X5fb5rMY1q5C6
