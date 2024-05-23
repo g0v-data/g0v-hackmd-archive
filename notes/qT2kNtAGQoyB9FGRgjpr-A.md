@@ -45,9 +45,8 @@ https://hackathon.sitcon.org/2024/
 
 2006 交大機車道學運（照片分享）
 
-民主基金會
 
-## 開放政府 / 開放立院
+## 開放政府 (還有) / 開放立院 (沒了)
 
 5/29 開放科技小聚
 
@@ -64,3 +63,13 @@ https://g0v.hackmd.io/KCyzapNuTeWILsdek32obA
 
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ac80447dd289c6a5fe4f70c705d18a12.jpeg)
+
+
+---
+
+一個跟以上都無關（？）的廣告
+
+15分鐘業力掰，2014 發源自交大的「妙法無邊雷射蓮花宗」
+- https://www.ettoday.net/news/20160506/693243.htm
+- https://lazerlotus.weebly.com/26412259452344726088.html
+感恩師父
