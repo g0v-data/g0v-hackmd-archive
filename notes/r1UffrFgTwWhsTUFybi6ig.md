@@ -19,39 +19,69 @@ Suggestions:
 
 ## Meeting agenda
 - Sponsorship promotion
-- “Digital Democracy Through Civic Tech” Research Project meetup [name=chihao]
-- Participents number sharing
-    - JP：19(14 adults + 5 students)
-    - TW：
-        - (kiang and Billion are applied? they applied JP one so I asked to resubmit.)
-    - KR：
-- Venue
-    - https://drive.google.com/drive/u/0/folders/1yQ_OZoWJsa2JsQH-OBpMkwVTm_6Sd2kw
-- 17th Lunch
-    - We can get Obentoooo!!yay 
-    - The obento is really populer one so I need to order right after we closed the form
-        - Please fill out the infosheet by 7th of July:)
-- Students workshop
-    - Can we do 60-90 min workshop for students?→It might be good for sponsors too?
-        - It is important to prepare the oppotunity to communicate among students
-        - 17th afternoon? or 18th morning? 
+    - slideshow of sponsor logos during breaks
+    - 5 min PR time during opening
+        - cfj: only for special sponsors >500,000yen
+        - cjk: NIA if they join the event
+- 2 workshops during lunch 12:30-14:00
+    - Research workshop “Digital Democracy Through Civic Tech”
+        - It’s a research project hosted by Wikimedia Taiwan
+        - Researchers will attend FtO
+    - Student workshop
+        - Only students
+        - Can we do 60-90 min workshop for students?→It might be good for sponsors too? >>> Yes!
+        - It is important to prepare the opportunity to communicate among students
+        - 17th afternoon during lunch 12:30-14:00
         - World cafe style 
             - Saya will be the moderator so we need some table hosts
             - Isabel?, Tiff, Eunsoo, Mami-san
-        - Theme would be like "How to promote civictech for youth"..etc
+        - Theme would be like "How to promote civic tech for youth"..etc
+- Participents number sharing
+    - JP - 19 (14 adults + 5 students)
+    - TW - 16 (including kiang and billion) (no students so far)
+        - (kiang and Billion are applied? they applied JP one so I asked to resubmit.) (Thanks! -CH)
+    - KR - 10 (plans to recruit 5 additional students)
+    - Other countries?
+        - promoted at g0v summit
+        - natural ways of promotion
+- Venue
+    - https://drive.google.com/drive/u/0/folders/1yQ_OZoWJsa2JsQH-OBpMkwVTm_6Sd2kw
+        - photos are showing half of the venue
+        - floor plan is showing the entire venue
+- 17th Lunch
+    - We can get Obentoooo!!yay
+    - The obento is really popular one so I need to order right after we closed the form
+        - Please fill out the infosheet by 7th of July:)
+    - No halal option unfortunately
+    - Food restrictions / pref
+        - TW - 1 veg + 1 no beef
+        - KR - none
+        - JP - none
 - UD talk
     - Aoki-san will help remotly 
-    - Only Japanese words can register so other laungage dont need to prepare 
+    - Only Japanese words can register so other language dont need to prepare 
     - Organizers will help editing? or ask some volunteers 
+    - When are we using UD talk? (roughly)
+        - Day 1 Opening 10:00-11:30
+        - Day 1 Short talks 15:00-15:30
+        - Day 1 Presentations 17:00-17:30
+        - Day 2 Presentations + Closing 12:00-13:30
+    - Need a google sheet for volunteer sign-up (30-min slots)
 - CoC 
     - CfJ has offical English CoC and Privacy Policy
-    - 4 types of name tags(Staff, Photograhed OK,Photographed NO, Under20)
-    - Dinner should wear name tags, won't be all you can drink(limited alcohole), after party is not offical 
+    - 4 types of name tags(Staff, Photo OK, NO Photo, No Alcohol)
+    - Dinner should wear name tags, won't be all you can drink(limited alcohol), after party is not offical 
     - report form
         - Can you share g0v summit one?
+            - @pomin
 - Info sheet and Project/Sharing  
     - Info sheet
         - https://docs.google.com/spreadsheets/d/150ExZnTFoTASFZoayazUTDsBHK4fInvJ0kcN1a428pk/edit#gid=0
     - Project and Sharing talks can we use form to manage?After decided the participents we will share the link
         - https://docs.google.com/forms/d/1_R7t2ZNVoSjQ1oifdP-GIX2j8wMFVuvno-gF2MdGwdk/edit
+- Food
+    - Day 0 Dinner
+    - Day 1 Dinner (everyone!) (no alcohol)
+    - Day 1 afterparty (organizers & optional)
+    - Day 2 Lunch
 

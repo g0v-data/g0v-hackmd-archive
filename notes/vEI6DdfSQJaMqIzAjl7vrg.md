@@ -37,8 +37,10 @@ tags: Rentea
 
 ## 文章列表
 
+0523更新: [文章資料夾](https://drive.google.com/drive/folders/1IkPca4emOj1xUEWyjshHew12NYz9QObN?usp=drive_link)
+
 1. 當月導讀：Rentea的租屋市場觀察及第一間房
-2. g0v Summit 社群軌論述+背景資料整理
+~~2. g0v Summit 社群軌論述+背景資料整理~~
 3. g0v Summit 活動側記
 > [name=pn] 這部分可以視內容看要不要拆成多篇
 5. 第一間房子 2.0 改造側記： [租出育兒宅](https://g0v.hackmd.io/@ddio-io/Bk9GuKQ9a)
