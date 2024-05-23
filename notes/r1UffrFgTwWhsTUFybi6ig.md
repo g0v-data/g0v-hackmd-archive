@@ -79,9 +79,22 @@ Suggestions:
         - https://docs.google.com/spreadsheets/d/150ExZnTFoTASFZoayazUTDsBHK4fInvJ0kcN1a428pk/edit#gid=0
     - Project and Sharing talks can we use form to manage?After decided the participents we will share the link
         - https://docs.google.com/forms/d/1_R7t2ZNVoSjQ1oifdP-GIX2j8wMFVuvno-gF2MdGwdk/edit
+- July 1st ask everyone to confirm attendance
+    - book your own ticket
+    - book your own hotel
+    - check the box in col A >>> https://docs.google.com/spreadsheets/d/150ExZnTFoTASFZoayazUTDsBHK4fInvJ0kcN1a428pk/edit#gid=0
 - Food
-    - Day 0 Dinner
-    - Day 1 Dinner (everyone!) (no alcohol)
-    - Day 1 afterparty (organizers & optional)
-    - Day 2 Lunch
-
+    - Day 0 Dinner (organizers only) (organized & paid by cfj)
+        - C4K: 6
+        - g0v: 5 (for now)
+    - Day 1 Breakfast (arrange your own)
+    - Day 1 Lunch (obento at venue for everyone) (paid by cfj)
+    - Day 1 Dinner (restaurant for everyone) (paid by cfj) (no alcohol)
+    - Day 1 afterparty (arrange your own) (pay for yourself)
+        - code for sake may have a plan
+    - Day 2 Breakfast (arrange your own)
+    - Day 2 Lunch (arrange your own)
+        - orgnizers can help to clean up and have lunch afterwards
+- Next meeting
+    - 5pm (JP/KR time) 20th of June
+        - 9am London Time
