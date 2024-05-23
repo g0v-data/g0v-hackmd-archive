@@ -9,11 +9,11 @@ Hashing is a one-way function that converts input data (like a password) into a 
 
 Encryption is a reversible process where data is converted into a different format to prevent unauthorized access. The encrypted data can be decrypted back to its original form using a specific key. Encryption is suitable for data that needs to be accessed later, such as messages or files, but is not recommended for storing passwords.
 
-### Implementing Password Hashing in Flutter
+## Implementing Password Hashing in Flutter
 
 To implement password hashing in a Flutter application, we can use the `crypto` package. This example demonstrates how to hash a password using the SHA-256 algorithm.
 
-* Installation:
+### The Process
 First, add the `crypto` package to your `pubspec.yaml` file:
 
 ```yaml
