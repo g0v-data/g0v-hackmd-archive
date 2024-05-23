@@ -11,7 +11,7 @@ Encryption is a reversible process where data is converted into a different form
 
 ## Implementing Password Hashing in Flutter
 
-To implement password hashing in a Flutter application, we can use the `crypto` package. This example demonstrates how to hash a password using the SHA-256 algorithm.
+To implement password hashing in a Flutter application, we can use the [crypto](https://pub.dev/packages/crypto) package. This example demonstrates how to hash a password using the SHA-256 algorithm.
 
 ### The Process
 First, add the `crypto` package to your `pubspec.yaml` file:
@@ -34,7 +34,7 @@ String hashPassword(String password) {
   var digest = sha256.convert(bytes);
   return digest.toString();
 }
-
+ 
 void saveToDatabase(String hashedPassword) {
   print("Hashed Password saved to database: $hashedPassword");
 }
@@ -66,33 +66,42 @@ void main() {
    - Defines a sample password `userPassword`.
    - Calls the `hashPassword` function with `userPassword` as input to generate the hashed password.
    - Calls the `saveToDatabase` function with the hashed password as input to simulate saving it to a database.
-   
-The above code demonstrates a simple process of hashing a password using the SHA-256 algorithm in Dart. The hashed password is then printed as if it were being saved to a database. It's a basic example of password hashing, a crucial step in securing user credentials in applications.
+
+Output:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_499ed04e686604fba87f5866108cd4ff.gif)
+
+The above gif demonstrates a simple process of hashing a password using the SHA-256 algorithm in Dart. The hashed password is then printed as if it were being saved to a database. It's a basic example of password hashing, a crucial step in securing user credentials in applications.
 
 ## Obfuscation in Flutter
 Obfuscation is the process of transforming code to make it more difficult to read and understand, which helps protect intellectual property and prevent reverse engineering. In Flutter, obfuscation can be performed during the build process.
 
  Before Obfuscation:
 ```dart
+import 'package:flutter/material.dart';
 
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Scaffold(
+        appBar: AppBar(title: Text('Obfuscated App')),
+        body: Center(
+          child: Text('This is an obfuscated Flutter app.'),
+        ),
+      ),
+    );
+  }
+}
 ```
+The provided code defines a simple Flutter application. It starts with importing the Flutter material package, which provides the necessary widgets for building the app's UI. The `main` function is the entry point of the app and calls `runApp`, which takes `MyApp` as an argument. `MyApp` is a stateless widget that returns a `MaterialApp` widget. Inside `MaterialApp`, a `Scaffold` widget is used to define the basic visual structure of the app. The `Scaffold` contains an `AppBar` with the title "Obfuscated App" and a `Center` widget that centers its child, a `Text` widget displaying "This is an obfuscated Flutter app." This basic structure sets up a simple screen with a title bar and centered text.
 Here's a summarized explanation of the provided Flutter code:
 
-- **Import Statement**: Imports the Flutter Material package.
 
-- **`main` Function**: Entry point of the app, runs `MyApp`.
-
-- **`MyApp` Class**: A stateless widget that serves as the main app component.
-
-- **`build` Method**: Constructs the UI.
-  - **`MaterialApp`**: The root of the app.
-  - **`Scaffold`**: Provides the basic material design layout.
-    - **`appBar`**: Displays an app bar with the title "Obfuscated App".
-    - **`body`**: Centers and displays the text "This is an obfuscated Flutter app.".
-
-
-Setting Up Obfuscation
-
+### Setting Up Obfuscation
 To obfuscate your Flutter app, follow these steps:
 
 1. Enable Obfuscation: Update your `pubspec.yaml` file to include the `--obfuscate` and `--split-debug-info` flags. Add the following to your `pubspec.yaml`:
@@ -108,7 +117,6 @@ To obfuscate your Flutter app, follow these steps:
             - "--obfuscate"
             - "--split-debug-info=/<path-to-project>/debug-info"
 ```
-
 2. Build the App: Run the build command with obfuscation enabled:
 
 For android:
@@ -155,8 +163,6 @@ In this example:
 - `Center` is renamed to `D`
 
 This obfuscation makes it harder for someone to understand the code, thereby protecting your intellectual property.
-
-In this guide, we explored the essential practices for securing Flutter applications through password hashing and obfuscation. Hashing passwords with a one-way function like SHA-256 is crucial for securely storing user credentials. Obfuscation protects your code by making it difficult to reverse-engineer. By following these practices, developers can enhance the security and integrity of their Flutter applications.
 
 ## Secure storage mechanisms
 In Flutter, the [shared_preferences_secure](https://pub.dev/packages/flutter_secure_storage) package provides a secure solution for storing sensitive data in shared preferences. Shared preferences are commonly used in Flutter applications to store small amounts of data persistently across app launches.
