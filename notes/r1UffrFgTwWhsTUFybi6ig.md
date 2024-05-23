@@ -20,11 +20,11 @@ Suggestions:
 ## Meeting agenda
 - Sponsorship promotion
 - “Digital Democracy Through Civic Tech” Research Project meetup [name=chihao]
-- Participents number sahring
-    - JP
-    - TW
+- Participents number sharing
+    - JP：19(14 adults + 5 students)
+    - TW：
         - (kiang and Billion are applied? they applied JP one so I asked to resubmit.)
-    - KR
+    - KR：
 - Venue
     - https://drive.google.com/drive/u/0/folders/1yQ_OZoWJsa2JsQH-OBpMkwVTm_6Sd2kw
 - 17th Lunch
