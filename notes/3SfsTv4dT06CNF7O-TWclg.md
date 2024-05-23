@@ -151,6 +151,7 @@ Ronny 覺得 keypoint 在於
 - 更容易查詢、檢索
     - [標案資料瀏覽](https://ronnywang.github.io/pcc-viewer/)
     - [開放標案](http://pcc.mlwmlw.org/)
+    - [特定地理範圍內的標案資料篩選方式](https://g0v.hackmd.io/og7zjnsIQJaEXFMo3q2PAg?view)
 - 標案被較好的公司標下，而不會產生收回扣的現象
 - 該標案的實際執行成果是否會被公開檢視？如何被檢視？
 

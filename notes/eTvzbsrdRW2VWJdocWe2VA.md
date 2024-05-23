@@ -19,7 +19,7 @@ tags: 公民參與
 #### 階段成果
 - 專案共筆文件
     - https://g0v.hackmd.io/@chewei/joinplus/
-- 25 種各自成型的公民參與機制、以及各種數位工具清單
+- 28 種各自成型的公民參與機制、以及各種數位工具清單
     - https://airtable.com/shr2h6A39iNjN1AZE
 - 2023 年六月份應落實公民參與的決標案件清單，共計 330 億元
     - https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tbl20Btjdj9O8K0Cy/viwX4hfvRTg3BADrH?blocks=hide
