@@ -4,10 +4,7 @@ In today's digital age, the security of user data and the seamless functioning o
 
 This guide focuses on securing and updating Flutter applications. It covers security practices for protecting user data, mitigating malware and hacking risks, and ensuring compliance with data protection regulations. Additionally, it emphasizes the importance of regular updates for improving app performance, fixing bugs, and staying compatible with the latest OS versions. Following these best practices helps developers strengthen their Flutter apps against security threats and ensures they remain reliable and up-to-date.
 
-## Securing and Obfuscating Flutter Applications
-In this guide, we will explore critical practices for securing Flutter applications, including password hashing and obfuscation techniques. We will explain the concepts in-depth, provide code examples, and clarify the differences between hashing and encryption. Additionally, we'll demonstrate how to obfuscate a Flutter app and discuss its importance.
-
-### Password Hashing vs. Encryption
+## Password Hashing vs. Encryption
 Hashing is a one-way function that converts input data (like a password) into a fixed-size string of characters, which appears random. The original data cannot be retrieved from the hash. Hashing is ideal for securely storing passwords because even if the hash is exposed, it cannot be reversed to reveal the original password.
 
 Encryption is a reversible process where data is converted into a different format to prevent unauthorized access. The encrypted data can be decrypted back to its original form using a specific key. Encryption is suitable for data that needs to be accessed later, such as messages or files, but is not recommended for storing passwords.
@@ -29,34 +26,70 @@ dependencies:
 Code example:
 
 ```dart
+import 'dart:convert';
+import 'package:crypto/crypto.dart';
 
+String hashPassword(String password) {
+  var bytes = utf8.encode(password);
+  var digest = sha256.convert(bytes);
+  return digest.toString();
+}
+
+void saveToDatabase(String hashedPassword) {
+  print("Hashed Password saved to database: $hashedPassword");
+}
+
+void main() {
+  final userPassword = "mySecurePassword";
+  final hashedPassword = hashPassword(userPassword);
+  saveToDatabase(hashedPassword);
+}
 ```
+ Explanation:
 
-### Obfuscation in Flutter
+1. Import Statements:
+   - `dart:convert`: Library for encoding and decoding various data formats, including UTF-8 encoding used in this code.
+   - `package:crypto/crypto.dart`: Library for cryptographic operations, including hashing algorithms like SHA-256.
+
+2. `hashPassword` Function:
+   - Accepts a `password` parameter of type `String`.
+   - Converts the password string to bytes using UTF-8 encoding.
+   - Uses the SHA-256 hashing algorithm to hash the bytes.
+   - Returns the hashed password as a hexadecimal string.
+
+3. `saveToDatabase` Function:
+   - Accepts a `hashedPassword` parameter of type `String`.
+   - Prints a message indicating that the hashed password has been saved to the database, along with the hashed password itself.
+
+4. `main` Function:
+   - Starts the execution of the program.
+   - Defines a sample password `userPassword`.
+   - Calls the `hashPassword` function with `userPassword` as input to generate the hashed password.
+   - Calls the `saveToDatabase` function with the hashed password as input to simulate saving it to a database.
+   
+The above code demonstrates a simple process of hashing a password using the SHA-256 algorithm in Dart. The hashed password is then printed as if it were being saved to a database. It's a basic example of password hashing, a crucial step in securing user credentials in applications.
+
+## Obfuscation in Flutter
 Obfuscation is the process of transforming code to make it more difficult to read and understand, which helps protect intellectual property and prevent reverse engineering. In Flutter, obfuscation can be performed during the build process.
 
  Before Obfuscation:
 ```dart
-import 'package:flutter/material.dart';
 
-void main() {
-  runApp(MyApp());
-}
-
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Scaffold(
-        appBar: AppBar(title: Text('Obfuscated App')),
-        body: Center(
-          child: Text('This is an obfuscated Flutter app.'),
-        ),
-      ),
-    );
-  }
-}
 ```
+Here's a summarized explanation of the provided Flutter code:
+
+- **Import Statement**: Imports the Flutter Material package.
+
+- **`main` Function**: Entry point of the app, runs `MyApp`.
+
+- **`MyApp` Class**: A stateless widget that serves as the main app component.
+
+- **`build` Method**: Constructs the UI.
+  - **`MaterialApp`**: The root of the app.
+  - **`Scaffold`**: Provides the basic material design layout.
+    - **`appBar`**: Displays an app bar with the title "Obfuscated App".
+    - **`body`**: Centers and displays the text "This is an obfuscated Flutter app.".
+
 
 Setting Up Obfuscation
 
