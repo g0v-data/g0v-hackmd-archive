@@ -452,8 +452,8 @@ tags: ly
 
 
 
-
-
+二讀法案本文可參考公督盟文件
+https://docs.google.com/spreadsheets/u/0/d/1z45k5TeuWS6dmYAR8q14Aaa6aBgPhG54KQBYdlGOwFo/htmlview
 
 
 
