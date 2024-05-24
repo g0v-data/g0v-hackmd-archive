@@ -17,60 +17,86 @@ To implement password hashing in a Flutter application, we can use the [crypto](
 First, add the `crypto` package to your `pubspec.yaml` file:
 
 ```yaml
+name: your_project_name
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
 dependencies:
   flutter:
     sdk: flutter
   crypto: ^3.0.1
-```
 
-Code example:
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+```
+Make sure to replace your`_project_name` with the actual name of your project. This file includes the necessary `crypto` package version `^3.0.1` and standard dependencies for a Flutter project.
+
+Here is the code that incorporates the hashing and verification functions using the `dart:convert` and `crypto` packages in Dart, along with an example usage:
 
 ```dart
 import 'dart:convert';
 import 'package:crypto/crypto.dart';
 
+// Function to hash the password
 String hashPassword(String password) {
-  var bytes = utf8.encode(password);
-  var digest = sha256.convert(bytes);
-  return digest.toString();
+  var bytes = utf8.encode(password); // Convert password to bytes
+  var digest = sha256.convert(bytes); // Hash using SHA-256
+  return digest.toString(); // Convert the digest to a string
 }
- 
-void saveToDatabase(String hashedPassword) {
-  print("Hashed Password saved to database: $hashedPassword");
+
+// Function to verify the password
+bool verifyPassword(String enteredPassword, String storedHash) {
+  var enteredHash = hashPassword(enteredPassword); // Hash the entered password
+  return enteredHash == storedHash; // Compare the hashes
 }
 
 void main() {
-  final userPassword = "mySecurePassword";
-  final hashedPassword = hashPassword(userPassword);
-  saveToDatabase(hashedPassword);
+  // User registration: hashing and storing the password
+  String password = "password";
+  String hashedPassword = hashPassword(password);
+  print("Password successfully hashed and stored: $hashedPassword");
+
+  // User authentication: verifying the password
+  String enteredPassword = "password";
+  bool isPasswordCorrect = verifyPassword(enteredPassword, hashedPassword);
+  print("Password is correct: $isPasswordCorrect");
 }
 ```
- Explanation:
 
-1. Import Statements:
-   - `dart:convert`: Library for encoding and decoding various data formats, including UTF-8 encoding used in this code.
-   - `package:crypto/crypto.dart`: Library for cryptographic operations, including hashing algorithms like SHA-256.
+Explanation:
 
-2. `hashPassword` Function:
-   - Accepts a `password` parameter of type `String`.
-   - Converts the password string to bytes using UTF-8 encoding.
-   - Uses the SHA-256 hashing algorithm to hash the bytes.
-   - Returns the hashed password as a hexadecimal string.
+1. Import Packages:
+   - `dart:convert` is used for encoding the password to bytes.
+   - `crypto` is used for hashing the password using SHA-256.
 
-3. `saveToDatabase` Function:
-   - Accepts a `hashedPassword` parameter of type `String`.
-   - Prints a message indicating that the hashed password has been saved to the database, along with the hashed password itself.
+2. Hash Password Function (`hashPassword`):
+   - Converts the password to bytes using UTF-8 encoding.
+   - Hashes the bytes using SHA-256.
+   - Converts the hash digest to a string and returns it.
 
-4. `main` Function:
-   - Starts the execution of the program.
-   - Defines a sample password `userPassword`.
-   - Calls the `hashPassword` function with `userPassword` as input to generate the hashed password.
-   - Calls the `saveToDatabase` function with the hashed password as input to simulate saving it to a database.
+3. Verify Password Function (`verifyPassword`):
+   - Hashes the entered password using the same method as the stored password.
+   - Compares the hash of the entered password with the stored hash.
+   - Returns `true` if they match, indicating the password is correct, otherwise `false`.
+
+4. Example Usage:
+   - Hashes the password "password" and prints the hashed password.
+   - Verifies the entered password "password" against the stored hash and prints whether the password is correct.
 
 Output:
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_499ed04e686604fba87f5866108cd4ff.gif)
 
-The above gif demonstrates a simple process of hashing a password using the SHA-256 algorithm in Dart. The hashed password is then printed as if it were being saved to a database. It's a basic example of password hashing, a crucial step in securing user credentials in applications.
+GIF: A user enters a password, clicks 'Hash Password' to generate a hash, and then verifies the password to change the verification status from false to true.
 
 ## Obfuscation in Flutter
 Obfuscation is the process of transforming code to make it more difficult to read and understand, which helps protect intellectual property and prevent reverse engineering. In Flutter, obfuscation can be performed during the build process.
@@ -97,7 +123,7 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
-The provided code defines a simple Flutter application. It starts with importing the Flutter material package, which provides the necessary widgets for building the app's UI. The `main` function is the entry point of the app and calls `runApp`, which takes `MyApp` as an argument. `MyApp` is a stateless widget that returns a `MaterialApp` widget. Inside `MaterialApp`, a `Scaffold` widget is used to define the basic visual structure of the app. The `Scaffold` contains an `AppBar` with the title "Obfuscated App" and a `Center` widget that centers its child, a `Text` widget displaying "This is an obfuscated Flutter app." This basic structure sets up a simple screen with a title bar and centered text.
+The provided code defines a simple Flutter application. It starts with importing the Flutter [material](https://api.flutter.dev/flutter/material/material-library.html) package, which provides the necessary widgets for building the app's UI. The `main` function is the entry point of the app and calls `runApp`, which takes `MyApp` as an argument. `MyApp` is a stateless widget that returns a `MaterialApp` widget. Inside `MaterialApp`, a `Scaffold` widget is used to define the basic visual structure of the app. The `Scaffold` contains an `AppBar` with the title "Obfuscated App" and a `Center` widget that centers its child, a `Text` widget displaying "This is an obfuscated Flutter app." This basic structure sets up a simple screen with a title bar and centered text.
 Here's a summarized explanation of the provided Flutter code:
 
 
