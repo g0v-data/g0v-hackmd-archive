@@ -573,6 +573,23 @@ https://www.facebook.com/101NAPCU/videos/458284418240039/
 https://www.facebook.com/339919013202175/posts/345145029346240/
 河相分群
 https://photos.app.goo.gl/1CBYrPCswto64VUt8
+
+海岸線變化研究名稱：氣候變遷下海岸防禦的非工程治理: 海岸後退帶的試驗規劃與社會回應研究 
+臺灣師範大學林宗儀教授
+
+本研究兼顧防災及自然環境生態的維護，從國外經驗的學習與累積，進行台灣的百年海岸濱線變遷調查，盼能藉以評估百年平均海岸變動速率，並推估未來30~60年間海岸自然變動的可能範圍。但從所獲得的資訊可以發現在上個世紀的前半，海岸地區地形發育的控制主要是自然環境作用及海岸輸沙間的平衡，濱線的變動不大。
+
+大部分的變動是在近三十年間，甚或更近的二十年間，因人為工程結構物的介入之後及全球暖化所致全球海水面上升的綜合結果，
+
+故不宜直接引用百年後退速率推估未來變動。由於未來海岸後退帶的規劃目標在於防災減災及維持生態系統，因此建議全島海岸必須因地制宜，依目前各地海岸開發狀況來制定後退帶規則，較能符合民眾期待。
+
+https://www.grb.gov.tw/search/planDetail?id=12279797
+
+https://api.lib.ntnu.edu.tw:8443/server/api/core/bitstreams/cceabc63-2b02-43aa-966a-7b48f29d402e/content
+
+泥灘地
+https://www.facebook.com/share/p/nZ6zN29PNx3Fuum5/
+
 斷層
 線上圖台
 http://fault.moeacgs.gov.tw/MgFault/Home/pageMap?LFun=3#
