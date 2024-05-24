@@ -48,3 +48,8 @@ https://www.give-circle.com/
 
 食物銀行
 https://www.facebook.com/share/p/jVurg4tCJKgDUY17/
+
+## 協助載運
+
+共運預約平台正式版本上線，也歡迎從西部，協助從台北運送到屏東萬巒以及萬巒到瑞穗、吉安。 接力送花東。
+https://www.facebook.com/bill.lin.52056/posts/pfbid0qhkhBkLiDjreivT5r5NKqQx3hN5ZaCwhoaWDZdgVqGRV9BX515bHa4TPeVS4grsal
