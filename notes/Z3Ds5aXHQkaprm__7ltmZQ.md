@@ -27,8 +27,8 @@
 ### 2-2 內容欄位說明
 | 欄位 | 功能 |格式限制 |
 | -------- | -------- | -------- |
-| 直式海報| 將會顯示在索引頁上| 檔案大小5mb內/寬1080x長1590；寬版為|
-| 橫式劇照| 將會顯示在作品詳細頁的首圖| 檔案大小5mb內；寬2385X長1080|
+| 直式海報| 將會顯示在索引頁上| 檔案大小5mb內；寬1080x長1590|
+| 橫式劇照| 將會顯示在作品詳細頁的首圖| 檔案大小5mb內；寬2385X長1620|
 | 作品類型| 將決定作品會出現在哪個分類索引中
 | Featured| 勾選為'Yes'的作品可顯示於索引頁上方精選區塊。（綜藝作品類無此區塊，故不適用）|每作品類型最多勾選四項|
 |副標|行銷文案|建議兩句以內
@@ -36,7 +36,7 @@
 |得獎|得獎品牌|
 |獎項|獲獎名稱|
 |Trailer|預告片|需為YouTube影片連結|
-|Image|劇照|檔案大小5mb內
+|Image|劇照|檔案大小5mb內；寬2385X長1620
 
 <br/>
 
@@ -72,9 +72,16 @@
 <br/>
 
 ### 3-3 變更影片
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ba7f944d7de5e3b329949bf629e86332.png)
-1. 展開Desktop直到出現Video，點選Video
-2. 點擊File，上傳欲更換的影片（檔案須小於5mb
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_333438b7ab9e542d543bc37ee0d4332f.png)
+
+1. 切換到Layers 
+2. 選擇首頁(Home)
+3. 展開Desktop > Hero > BG，點選Video
+4. 點擊File，上傳欲更換的影片（檔案須小於5mb
+
+> 註：影片規格建議為：1980X1056。影片比例在不同螢幕尺寸中會有如下圖所示之變化，故挑選影片時可選擇畫面重點不要太靠近邊緣的片段
+> ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_68c3b374d60a5f2af5905535d423d842.png)
+
 <br/>
 
 ### 3-4 變更精選作品
@@ -101,15 +108,20 @@
 （若logo顏色非白色，則可連續點擊logo直到顏色欄位出現，再行調整。如logo檔案已調色成白色則可省略此步）
 2. 按空白鍵＋滑鼠左鍵將畫面移回頁面編輯區塊，選擇要加入新logo的那行，在右側工具欄的Children中按'Add'並選擇剛剛加入的logo![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1a9f22ed130a2272c3f703960fd041c1.gif)
 
-3. 滑鼠按住按點點後可往上下拖曳，改變排列順序。對著點點按左鍵會出現'Remove'選項![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3d7923229fd8c323d0766d39c5630339.png)
+3. 滑鼠按住按點點後可往上下拖曳，改變排列順序。對著點點按右鍵會出現'Remove'選項![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3d7923229fd8c323d0766d39c5630339.png)
 
 
 ## 四、索引頁
 ### 4-1 編輯索引頁文字
-切換到Drama頁面，展開左側元件，找到Description後於右側編輯欄位變更文字![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_412b90f0cdd8133a5e4e1c537dd7366d.png)
-### 4-2 索引頁內容
+切換到索引頁面，展開左側元件，找到Description後於右側編輯欄位變更文字![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_412b90f0cdd8133a5e4e1c537dd7366d.png)
+### 4-2 索引頁底圖
+切換到索引頁，展開左側元件，找到BG後於右側找到File欄位，點選以變更圖片
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d43842507aa558754b0066edbbca4a47.png)
+### 4-3 索引頁內容
 索引頁內容會自動從作品頁資料庫中抓取，無需另行編輯。
 <br/>
+
+
 
 ## 五、關於
 ### 5-1 編輯文章內容
@@ -118,6 +130,8 @@
 ### 5-2 編輯團隊成員照片、職位、名稱
 1. 點選要編輯的成員![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5fefcca542079319e31330413909ba84.png)
 2. 於右方編輯欄，往下滑動，找到編輯區
+
+> 註：建議照片尺寸為長620x寬568
 
 ### 5-3 編輯團隊成員內容
 
@@ -142,6 +156,8 @@
 1. 切換到投資人頁面
 2. 雙擊內容區塊![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_77f30cdda2ae6da1a12b55cd463b609e.png)
 3. 進入內容區塊後將出現所有子頁面，直接於畫面中點選要編輯的文字，再於右邊工具欄的Text>content中編輯文字內容![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_25db59bd3e6d13cb7526a68a2b5cba3f.gif)
+
+> 註：組資架構圖的更新圖檔建議為svg檔案(向量檔，無解析度問題)，無大小限制，圖片會自動符合寬度，高度會自動按比例縮放
 
 ### 7-2 新增表格
 1. 執行7-1的前兩個步驟
