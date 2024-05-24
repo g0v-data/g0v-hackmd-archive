@@ -115,7 +115,7 @@
 ### 4-1 編輯索引頁文字
 切換到索引頁面，展開左側元件，找到Description後於右側編輯欄位變更文字![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_412b90f0cdd8133a5e4e1c537dd7366d.png)
 ### 4-2 索引頁底圖
-切換到索引頁，展開左側元件，找到BG後於右側找到File欄位，點選以變更圖片
+切換到索引頁，展開左側元件，找到BG後於右側File欄位變更圖片
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d43842507aa558754b0066edbbca4a47.png)
 ### 4-3 索引頁內容
 索引頁內容會自動從作品頁資料庫中抓取，無需另行編輯。

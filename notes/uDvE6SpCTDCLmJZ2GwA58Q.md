@@ -212,7 +212,9 @@ tags: 新生流域
 
 ### 案例
 - 韓國 光電板結合自行車專用道 https://www.facebook.com/share/tdvsKEtCv4RUgYmW/?mibextid=WC7FNe
-- 東京 天空廊道 https://www.facebook.com/share/v/3DSFSCaMoBALMJVb/
+- 東京 天空廊道
+    - https://www.facebook.com/share/v/3DSFSCaMoBALMJVb/
+    - https://www.facebook.com/TaiwanTrafficSafeAssociation/posts/pfbid02MBmP97ypdi8fzG1Xvgn4McqJZZmFDZtucLYQNyLvq4n87oE6fhvcgCLfcLTPZSLul
 - 紐約高線公園 https://www.facebook.com/share/p/hyXmMpRmggQCA4nQ/
 - 倫敦 公共藝術 forgetten stream https://www.facebook.com/share/r/jJLnBtdDXY8eQZ7w/ 
 - 高架橋下 水域活動 http://www.nlarchitects.nl/slideshow/82
@@ -329,6 +331,7 @@ tags: 新生流域
     - 推估較乾淨：工地水、空調水
     - 洗車水
     - 洗碗水
+    - 洗地水
 
 各種管線布設位置
 - https://dig.taipei/Tpdig/Public/pipe3.html
