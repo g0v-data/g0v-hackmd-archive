@@ -124,8 +124,6 @@ class MyApp extends StatelessWidget {
 }
 ```
 The provided code defines a simple Flutter application. It starts with importing the Flutter [material](https://api.flutter.dev/flutter/material/material-library.html) package, which provides the necessary widgets for building the app's UI. The `main` function is the entry point of the app and calls `runApp`, which takes `MyApp` as an argument. `MyApp` is a stateless widget that returns a `MaterialApp` widget. Inside `MaterialApp`, a `Scaffold` widget is used to define the basic visual structure of the app. The `Scaffold` contains an `AppBar` with the title "Obfuscated App" and a `Center` widget that centers its child, a `Text` widget displaying "This is an obfuscated Flutter app." This basic structure sets up a simple screen with a title bar and centered text.
-Here's a summarized explanation of the provided Flutter code:
-
 
 ### Setting Up Obfuscation
 To obfuscate your Flutter app, follow these steps:
