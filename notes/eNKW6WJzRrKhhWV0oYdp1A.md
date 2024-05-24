@@ -21,5 +21,5 @@
 <p>Thus, never allow yourself to stop travelling to new areas!</p>
 <p>Savour the day to the best. Take on all of your objectives, even if you have to modify them to suit your situation.</p>
 <p>Act right away. Make your own memories and develop a distinct perspective on the world.😍</p>
-<p>&nbsp;</p>
+
 
