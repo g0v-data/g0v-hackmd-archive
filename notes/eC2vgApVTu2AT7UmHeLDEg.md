@@ -1,11 +1,31 @@
 ---
-title: g0v Database 專案資料庫
 tags: jothon
 ---
 
-# g0v Database 專案資料庫
+# g0v Database
 
-# [資料庫連結](https://docs.google.com/spreadsheets/d/1C9-g1pvkfqBJbfkjPB0gvfBbBxVlWYJj6tTVwaI5_x8/edit#gid=1563040282)
+:::info
+收錄內容種類
+(1) 歷年大松提案列表
+(2) 專案清單
+(3) 基礎建設清單
+(4) 社群活動場地清單
+(5) 專案圖鑑簡報
+(6) g0v Slack 頻道列表與簡介短句
+:::
+
+# 專案圖鑑簡報
+
+用 簡報方式，製作各個專案的介紹頁面
+https://docs.google.com/presentation/d/1S4rWtCGAe99Vy_bLd6CjuHtAdrCYzN1k7TqhIrG-u5g/edit#slide=id.p
+
+# g0v Slack 頻道列表與簡介短句
+
+https://g0v.hackmd.io/NuhdUaTVRNykTqcstpM8VQ
+
+# 以 csv 格式整理歷年大松提案列表、專案清單、基礎建設清單
+
+[資料庫連結](https://docs.google.com/spreadsheets/d/1C9-g1pvkfqBJbfkjPB0gvfBbBxVlWYJj6tTVwaI5_x8/edit#gid=1563040282)
 
 ## 起因
 想要整理過去出現的專案，先前有 sense.tw 整理的社群關心議題，但前者偏向視覺化呈現， g0v database 則是想要透過表格將相關文件跟聯絡資訊整理出來。
@@ -68,16 +88,16 @@ tags: jothon
     * 格式：文字
 
 
-# 我能做什麼？
+## 我能做什麼？
 如果你曾經提案過，你可以找自己的 ID，填寫缺少的資料，順便更新一下專案的近況，像是持續開發中的專案在 continue contribute 中選擇 yes，也可以把已經告一段落，不再開發的專案寫 no，other 則代表說這個專案還在收集資料，或者你不知道怎麼寫。
 
 另外一件可以做的事情，則是把其他場提案的內容填上去，現階段的資料庫仍舊以大松為主，如果你曾經舉辦過其他活動，自己的坑自己填，幫忙補上資料！
 可以加入小松、基礎松的列表
 
-# 後續應用
+## 後續應用
 1. 資料視覺化，有名稱、屆數、影片等資訊可以拼湊起來。
 
-# 可以增加的欄位或功能
+## 可以增加的欄位或功能
 1. 提案在哪場活動出現過
 2. project hub
 3. 加入大松小松整理
@@ -87,7 +107,7 @@ tags: jothon
 7. 新增一欄最後活動日期(如最後一次出現在g0v或gihub最後一次submit)
 8. 不同場次的提案，實際上是同樣的專案，這樣專案之間的關係有需要標注嗎？
 
-# 2019/09/07 討論
+## 2019/09/07 討論
 > 問題: 從各專案名稱，無法基本瞭解該專案內容，且點進該專案仍不知道該專案的內容
 
 解法
@@ -106,15 +126,11 @@ tags: jothon
     *  另一個分類當作相關分類?
 > 問題:　初次參加 g0v 的人，不確定哪些專案適合自己
 
-
-
-
-
 定義各分類代表意涵
 
 地理位置
 
-# 專案主題分類架構
+## 專案主題分類架構
 分類的目的是在於讓想參與的人找可以想加入的專案。
 尋找專案的可能方向：
 1. 議題取向
@@ -133,7 +149,7 @@ tags: jothon
 ### 提案分類整理
 https://docs.google.com/spreadsheets/d/1GND-IKNIPJfQ4Ry2hfHQpEm8_CuBZa7ZchTedlWiO08/edit#gid=0
 
-## 架構發想
+### 架構發想
 > 專案的大類
 > 較為固/穩定的架構
 
@@ -147,14 +163,10 @@ https://docs.google.com/spreadsheets/d/1GND-IKNIPJfQ4Ry2hfHQpEm8_CuBZa7ZchTedlWi
 * 英國政府開放資料 https://data.gov.uk
 * 美國政府開放資料 https://www.data.gov
 
-
-
-
 ### 「解決分案/應用技術/參與者技能」
 > 輔助應用資料類型，作為層面分類篩選。
 > 呼應資料庫的manpower
 > 但manpower要當作層面分類要權威化名稱
-
 
 ## 層面分類
 * 專長 (可以選擇多項聯集)針對坑主、參加者對自己專長查詢自己能夠做的事情
@@ -194,6 +206,7 @@ OCR
 > 彈性的架構
 > 
 
+---
 
 ##  網頁版瀏覽頁面 
 
@@ -237,9 +250,7 @@ https://chunyenhuang.github.io/awesome-g0v-projects/
 | -------- | -------- |
 | ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6b72cb05e8cda5dcecbb6031168a41af.png)     | ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d527bb39b2ed4ae96f3f9571fb35dd54.png)     |
 
-
-
-# 過去也做過歷年專案整理的專案
+## 過去也做過歷年專案整理的專案
 
 awesome-g0v
 https://github.com/g0v/awesome-g0v
@@ -254,8 +265,7 @@ https://docs.google.com/spreadsheets/d/12ZIlJU0Pnhi_uLTlnE2utyZka6QvUjz7SW7sfmJv
 YA0H: Yet Another g0v Hub
 https://grants.g0v.tw/projects/5969ed35d60a0d001ed1f7f6
 
-
-## 實作
+### 實作
 * Download csv file via link
     * http://drive.google.com/uc?id=[file_id]&export=download
 * Download csv file via Google API
