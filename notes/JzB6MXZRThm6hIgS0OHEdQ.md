@@ -35,10 +35,11 @@ Doc
 
 ### TW 全國各村里簡易疏散避難地圖
 
+#### 「避難圖」檔案在哪裡？
+
 民間盤點「各村里簡易疏散避難地圖」下載位置，另開網址：https://docs.google.com/spreadsheets/d/10mkZhe8VB0CfkcC3wq4cDkXA5fGOlKOO5ncebU68VJ0/edit#gid=0
 
 <iframe height="1300px" width=100% src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQDKn3TO0jGy9H4tQX2r-p5szXinK41gGZmFyzNcn2gTG46rXi28poYNA02rBu6HW3Tuoo0envhEL3o/pubhtml?widget=true&amp;headers=false"></iframe>
-
 
 
 - 消防署建立的整合入口查詢網頁：https://www.nfa.gov.tw/cht/index.php?code=list&ids=82
@@ -54,6 +55,12 @@ Doc
 
 民間撰寫的介紹文章：如何找到自己所在的村里避難地圖？
 - https://www.safetaiwan.com/blogs/disaster-prevention-column/evacuation-map
+
+#### 針對「避難圖」的數位化專案
+
+全台防災/防空避難所大統整
+https://g0v.hackmd.io/UNg_8F3FTuynAwbV7flp-w?view
+https://g0v.github.io/evacuation-map-viewer/
 
 ### TW 特定地區或園區的避難地圖
 
@@ -95,7 +102,7 @@ https://atlas.geo.ntnu.edu.tw/
         - 標記「避難收容處所(備用)：臺北市中山區長安國中」，把地點標記在校門出入口的位置 https://commutag.agawork.tw/image?dataset=5e6b06a177e80cf258b9ba72&image=6596b33238c282d22899f2a2
 :::
 
-## Open Data / Release Data
+## Geo Data
 
 ### 【TW 臺灣】Shelter / ひなんじょ(避難所) / 대피소 / 防災避難收容處所
 
@@ -517,7 +524,7 @@ APP
 - csv-demo https://docs.google.com/spreadsheets/d/1gQG2k94RvmNcyXLnKT1xWTgafF0SRJIq2TrF96Y1ZJE/edit
 - map-demo https://app.awesome-table.com/-NnnM3t8IzB_LBA8hMWn/view
 
-### 多種語言翻譯課題
+### Issue 多種語言翻譯課題
 
 日本釋出的「避難指示等に関する多言語辞書（14か国語）」文件
 - 下載網址：https://www.soumu.go.jp/menu_seisaku/kokumin/jyohonanminzero/index.html

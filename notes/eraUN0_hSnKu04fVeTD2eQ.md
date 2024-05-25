@@ -254,6 +254,7 @@ Global Wildfire Information System, GWIS
 https://gwis.jrc.ec.europa.eu/static/gwis_current_situation/public/index.html
 
 能源設施 / 基礎設施
+Open Infrastructure Map https://openinframap.org
 全球煤電互動查詢地圖
 https://www.carbonbrief.org/mapped-worlds-coal-power-plants
 Global Coal Plant Tracker
@@ -262,6 +263,7 @@ Geo4Nonpro gathers users from all around the world to interpret, annotate, and i
 https://geo4nonpro.org/
 GSM 基地台
 http://opencellid.org/
+https://www.facebook.com/share/p/sJbdm7ouCH8zPLM5/
 Radio Garden在地圖上聽遍全球各地的電臺
 http://radio.garden/live/taipei/icrt/
 SenseNets 公司監視器位置
