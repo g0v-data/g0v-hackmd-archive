@@ -53,7 +53,10 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | 自由填寫 | 自由填寫 | 自由向下新增行列 |
 
 
+# Butter Box
 
+在地化：https://hosted.weblate.org/projects/guardianproject/butterbox-rpi/
+https://gitlab.com/likebutter
 
 ---
 [Back to the top](#)
