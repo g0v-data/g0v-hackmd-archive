@@ -6,7 +6,9 @@
 - 完成基本功能：
     - 根據現在 GPS location 找到所在經緯度村里
     - 顯示該村里資訊
-    - 
+    - repo:  https://github.com/g0v/evacuation-map-viewer
+    - 網址規則：https://ronnytest.ronny-s3.click/simple-evacuation-map/html/{village_id}-{type}/page-html.html
+    
 ## 0427 討論
 - 本日目標
     - 製作一個網頁功能，可以根據裝置的經緯度（[Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)) ，然後查到這個經緯度附近的村里，並且回傳該村里的相關防災地圖
