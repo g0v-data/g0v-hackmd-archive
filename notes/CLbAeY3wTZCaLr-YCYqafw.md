@@ -9,6 +9,10 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 
 {%hackmd VkctH3USQ-yoB6hw2s2D0Q %}
 
+:::danger
+# 快速連到本頁面網址：`s.g0v.tw/digiresi`
+:::
+
 :::success
 報名流程及注意事項
 1. 當您參與本活動，即代表您已經同意 [g0v 宣言](https://g0v.tw/intl/zh-TW/manifesto/zh-TW/) 並願意遵守 [行為守則 Code of Conduct](https://g0v.hackmd.io/s/COC)。
@@ -46,6 +50,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
 | [live demo] 麻瓜也能輕鬆上手的離線 app 大補帖 - [Butter Box](https://likebutter.app/) | Paul | to be added |
+| 避難所資訊統整 | ronny | [全台防災/防空避難所大統整](/UNg_8F3FTuynAwbV7flp-w) |
 | 自由填寫 | 自由填寫 | 自由向下新增行列 |
 
 
