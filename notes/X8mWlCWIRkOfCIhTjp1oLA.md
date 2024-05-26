@@ -459,6 +459,9 @@ https://www.facebook.com/ReTWRoad/photos/a.144368764239959/294776699199164/?type
 彰化市彰南路0k(中山路口)~3k(中彰路口)辦理交通改善
 https://www.facebook.com/watch/?v=642928451144026
 
+彰化縣永靖鄉瑚璉路多福路口
+https://www.facebook.com/share/xjrxPQUt8hkEiRvv/
+
 彰化和美六岔路口
 https://www.facebook.com/share/nQV1MjrfnfGFFMDP/
 https://www.facebook.com/share/p/pWF928rbKwFJBmtJ/
