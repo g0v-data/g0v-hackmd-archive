@@ -13,19 +13,33 @@ tags: 吉祥物
 - http://www.eqpf.org/envinews/epContent.aspx?dsn=314&cId=1
 - Rights of River 研討會 https://www.facebook.com/InternationalRivers/photos/a.126549960591/10157587335560592/
 
+整理工作
+- 建立以下具體案例的線上地圖
+
 案例
 - 厄瓜多憲法承認 Pacha Mama 的權利，就是將原住民的地球女神納入憲法的明證
-- 厄瓜多旺阿努伊河（Whanganui River）擁有法定人權 https://theinitium.com/article/20170316-dailynews-New-Zealand-River/
+- 厄瓜多旺阿努伊河（Whanganui River）擁有法定人權 
+    - https://theinitium.com/article/20170316-dailynews-New-Zealand-River/
+    - https://youtu.be/Oqo6iEugF2U
 - 厄瓜多談人格化的一些情境 https://youtu.be/p-HkZ6PMJlo?t=5857
-- 2014年，紐西蘭國會通過尤瑞瓦拉法案，令該國第4大國家公園——尤瑞瓦拉法國家公園（Te Urewera National Park）也在法律上被確認為生命體  https://theinitium.com/article/20170316-dailynews-New-Zealand-River/
-- Uttarakhand HC declares Ganga, Yamuna living entities, gives them legal rights http://www.hindustantimes.com/india-news/uttarakhand-hc-says-ganga-is-india-s-first-living-entity-grants-it-rights-equal-to-humans/story-VoI6DOG71fyMDihg5BuGCL.html
-- Bangladeshi commuters use boats to cross the Buriganga River in the capital Dhaka in 2018. In July, Bangladesh's top court granted all the country's rivers the same legal rights as humans. https://www.npr.org/2019/08/03/740604142/should-rivers-have-same-legal-rights-as-humans-a-growing-number-of-voices-say-ye
+- 紐西蘭尤瑞瓦拉法國家公園（Te Urewera National Park）
+    - 2014年，紐西蘭國會通過尤瑞瓦拉法案，令該國第4大國家公園——尤瑞瓦拉法國家公園（Te Urewera National Park）也在法律上被確認為生命體  
+        - https://theinitium.com/article/20170316-dailynews-New-Zealand-River/
+- Uttarakhand HC declares Ganga, Yamuna living entities, gives them legal rights 
+    - http://www.hindustantimes.com/india-news/uttarakhand-hc-says-ganga-is-india-s-first-living-entity-grants-it-rights-equal-to-humans/story-VoI6DOG71fyMDihg5BuGCL.html
+- Bangladeshi commuters use boats to cross the Buriganga River in the capital Dhaka in 2018. In July, Bangladesh's top court granted all the country's rivers the same legal rights as humans. 
+    - https://www.npr.org/2019/08/03/740604142/should-rivers-have-same-legal-rights-as-humans-a-growing-number-of-voices-say-ye
 - 孟加拉境內所有河川都跟人一樣，賦予生存權 “In early July, Bangladesh became the first country to grant all of its rivers the same legal status as humans. From now on, its rivers will be treated as living entities in a court of law. The landmark ruling by the Bangladeshi Supreme Court is meant to protect the world's largest delta from further degradation from pollution, illegal dredging and human intrusion.” “Following the ruling, anyone accused of harming the rivers can be taken to court by the new, government-appointed National River Conservation Commission. They may be tried and delivered a verdict as if they had harmed their own mother, Matin says.”
-- Lake Erie just won the same legal rights as people https://www.facebook.com/393445254065527/posts/2021600094583360/
-- Ohio voters passed groundbreaking legislation that allows citizens to sue on behalf of the lake when it’s being polluted.
-- Imagine if bees, trees and natives plants were citizens too?  Mad, I know.  But in Curridabat, a suburb of the Costa Rican Capital San José, they are. Now known as “Ciudad Dulce” – Sweet City – Curridabat’s urban planning has been reimagined around its non-human inhabitants. Green spaces are treated as infrastructure with accompanying ecosystem services that can be harnessed by local government and offered to residents. https://www.theguardian.com/environment/2020/apr/29/sweet-city-the-costa-rica-suburb-that-gave-citizenship-to-bees-plants-and-trees-aoe
-- The Muteshekau-shipu Alliance today announced the granting of legal personhood to the Magpie River, through the adoption of two parallel resolutions by the Innu Council of Ekuanitshit and the Minganie Regional County Municipality (RCM). The river is thus assigned nine rights, as well as potential legal guardians responsible primarily for ensuring that these rights are respected. This is the first such case in Canada. https://www.newswire.ca/news-releases/for-the-first-time-a-river-is-granted-official-rights-and-legal-personhood-in-canada-848414747.html
-- Streams and lakes have rights, a US county decided. Now they’re suing Florida. A novel lawsuit is taking advantage of a local ‘rights of nature’ measure passed in November in effort to protect wetlands https://www.theguardian.com/environment/2021/may/01/florida-rights-of-nature-lawsuit-waterways-housing-development
+- Lake Erie
+    - Lake Erie just won the same legal rights as people https://www.facebook.com/393445254065527/posts/2021600094583360/
+- Ohio
+    - Ohio voters passed groundbreaking legislation that allows citizens to sue on behalf of the lake when it’s being polluted.
+- Curridabat
+    - Imagine if bees, trees and natives plants were citizens too?  Mad, I know.  But in Curridabat, a suburb of the Costa Rican Capital San José, they are. Now known as “Ciudad Dulce” – Sweet City – Curridabat’s urban planning has been reimagined around its non-human inhabitants. Green spaces are treated as infrastructure with accompanying ecosystem services that can be harnessed by local government and offered to residents. https://www.theguardian.com/environment/2020/apr/29/sweet-city-the-costa-rica-suburb-that-gave-citizenship-to-bees-plants-and-trees-aoe
+- Magpie River
+    - The Muteshekau-shipu Alliance today announced the granting of legal personhood to the Magpie River, through the adoption of two parallel resolutions by the Innu Council of Ekuanitshit and the Minganie Regional County Municipality (RCM). The river is thus assigned nine rights, as well as potential legal guardians responsible primarily for ensuring that these rights are respected. This is the first such case in Canada. https://www.newswire.ca/news-releases/for-the-first-time-a-river-is-granted-official-rights-and-legal-personhood-in-canada-848414747.html
+- Florida
+    - Streams and lakes have rights, a US county decided. Now they’re suing Florida. A novel lawsuit is taking advantage of a local ‘rights of nature’ measure passed in November in effort to protect wetlands https://www.theguardian.com/environment/2021/may/01/florida-rights-of-nature-lawsuit-waterways-housing-development
 
 ## 無法定權利
 
