@@ -24,7 +24,7 @@ v4l2-capture:
 查詢指定格式下支援分辨率 -> v4l2-ctl --list-framesizes=NV12 -d /dev/video0
 查詢鏡頭可用的分辨率 -> v4l2-ctl --list-formats-ext --device /dev/video0
 顯示鏡頭參數 -> v4l2-ctl -d /dev/video11 --list-ctrls
-
+取得/dev/video* name -> cat /sys/class/video4linux/video*
 
 
 
@@ -45,3 +45,4 @@ https://developer.aliyun.com/article/1489668
 v4l2 底層流程
 ```
 https://blog.csdn.net/oqqYuJi12345678/article/details/93755475
+https://www.cnblogs.com/jliuxin/p/14129308.html
