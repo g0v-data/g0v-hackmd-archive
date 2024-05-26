@@ -538,6 +538,9 @@ https://www.facebook.com/story.php?story_fbid=pfbid04v1S5XCPXu7vZdJZeMbVesjYHuqD
 
 台南市善化區大成陸橋標線問題，快車道+機慢車專用道配置但一樣寬，導致下橋右轉汽車容易在快車道右轉，是否應評估改為快慢車道
 
+台南市
+https://www.facebook.com/share/q47C8UqHDB5yJZJm/
+
 台南市 公車站設在快車道，但無行穿線可以到達
 ? 找地點或網路素材
 
