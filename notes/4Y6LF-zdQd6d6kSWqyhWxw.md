@@ -40,3 +40,8 @@ v4l2 指令相關
 https://blog.csdn.net/TyearLin/article/details/131726154
 https://zhaoxuhui.top/blog/2021/09/23/v4l2-introduction-and-usb-camera-bayer-raw-data.html
 https://developer.aliyun.com/article/1489668
+
+```
+v4l2 底層流程
+```
+https://blog.csdn.net/oqqYuJi12345678/article/details/93755475

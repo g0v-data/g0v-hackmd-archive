@@ -1028,19 +1028,11 @@ Nanking,1934)。
 
 本章主要在介紹日治時期三個最主要的台灣醫學研究機構（1909-1945）「台灣總督府研究所衞生學部，台灣總督府中央研究所衞生部及台北帝國大學熱帶醫學研究所」的什麼人在主持與做什麼事。表十九摘要簡述二十二位主要研究主管及研究人員的出身及履歷。從表中可以看到大部分的研究人員分别與日本傳染病研究所（後來改為東京大學傳染病研究所）及東京帝國大學醫學部有相當密切的關係，以此推論台灣日治時期醫學研究機構是傳染病研究所與東京帝國大學醫學部的延伸，尚稱允當。這二十一位日籍學者（杜聰明為台灣籍學者，台灣人對他的功績已深植人心），在日治時期來台灣這個「花不香、鳥不語、男無情、女無義的瘴癘之地」，奉獻他們的精力於熱帶地區的台灣醫學研究，造福台灣的住民，做為後人的我們，實在不宜忘記。
 
+## 原始資料[連結](https://drive.google.com/file/d/1hD5isN29KsdyWjiuyqOuif3FTopoZKA_/view?usp=sharing)
+原始資料一、 1916 年前後台灣總督府公告販賣製劑品目
+原始資料二、1922~1936 年中央研究所衛生部各種血清疫苗製販量(人份)
+原始資料三、1941 年熱帶醫學研究所士林支所公告販賣製品品項
 <span id="_Toc162526329" class="anchor"></span>
-## 圖、一至十一 [圖檔連結](https://drive.google.com/file/d/1Ing8YoxP-aJD1B2iShABKnVsy8AUISsq/view?usp=sharing)
-圖一：高木友枝
-圖二：堀內次雄
-圖三：三田定則
-圖四：永井&emsp;潛
-圖五：下條久馬一
-圖六：細谷省吾
-圖七：山口謹爾
-圖八：丸山芳登
-圖九：小泉丹
-圖十：森下薰
-圖十一：野富鐵男
 
 <span id="_Toc162526330" class="anchor"></span>
 ## 表、一至十九
@@ -1063,8 +1055,16 @@ Nanking,1934)。
 [表十八、台灣總督府研究所衞生學部、台灣總督府中央研究所衞生部及台北帝國大學熱帶醫學研究所三個研究機構研究人員的重疊](https://drive.google.com/file/d/12JYoaYc5subvN8dCUSpMD9UBPka_8TLK/view?usp=sharing)
 [表十九、日治時期台灣醫學研究機構主要研究人員的履歷摘要](https://drive.google.com/file/d/1bBTkeoOQg9fyqOjv-OB1hB1V4P5k0DnP/view?usp=sharing)
 
-## 原始資料[連結](https://drive.google.com/file/d/1hD5isN29KsdyWjiuyqOuif3FTopoZKA_/view?usp=sharing)
-原始資料一、 1916 年前後台灣總督府公告販賣製劑品目
-原始資料二、1922~1936 年中央研究所衛生部各種血清疫苗製販量(人份)
-原始資料三、1941 年熱帶醫學研究所士林支所公告販賣製品品項
+## 圖、一至十一 [圖檔連結](https://drive.google.com/file/d/1Ing8YoxP-aJD1B2iShABKnVsy8AUISsq/view?usp=sharing)
+圖一：高木友枝
+圖二：堀內次雄
+圖三：三田定則
+圖四：永井&emsp;潛
+圖五：下條久馬一
+圖六：細谷省吾
+圖七：山口謹爾
+圖八：丸山芳登
+圖九：小泉丹
+圖十：森下薰
+圖十一：野富鐵男
 
