@@ -37,10 +37,10 @@ v4l2-capture:
 ```
 v4l2 指令相關
 ```
+https://blog.csdn.net/wangyijieonline/article/details/104966501
 https://blog.csdn.net/TyearLin/article/details/131726154
 https://zhaoxuhui.top/blog/2021/09/23/v4l2-introduction-and-usb-camera-bayer-raw-data.html
 https://developer.aliyun.com/article/1489668
-
 ```
 v4l2 底層流程
 ```
