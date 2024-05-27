@@ -11,6 +11,8 @@
 1. 論文考試申請表及推薦書(校園學生資訊系統/學籍申請 > 論文口試申請)
 1. 碩、博士畢業生畢業學分審查表：https://ppt.cc/ffY4Vx
 2. 其他的表單下載：https://oaars.ntcu.edu.tw/front/downs/archive.php?ID=bnRjdV9ycyZkb3ducw==
+3. 論文比對系統：https://www.turnitin.com
+4. 論文比對系統操作教學：https://ppt.cc/fkQNdx
 
 
 ### 申請論文口試至畢業離校注意事項
