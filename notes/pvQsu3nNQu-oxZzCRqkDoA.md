@@ -1,4 +1,4 @@
-# ais3 pre exam
+# AIS3 pre-exam write up
 [toc]
 ## Three Dimensional Secret
 - 打開wireshark ，右鍵tcp
@@ -117,8 +117,50 @@ AIS3{NeverUseTheCryptographyLibraryImplementedYourSelf}
 ```
 ## The Long Print
 
-- 在IDA打開 ，發現MAIN函數裡有SLEEP()，將裡面的數字改成1
-
+- 用IDA打開 ，發現MAIN函數裡有SLEEP()，然後sleep值超大，將裡面的數字改成1
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_12b3390077fd2c4e4bffb913c4f32187.png)
 
+- 丟到LINUX執行，把結果存到output.txt
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_af83c3f8cfb593628e35b50049d9c440.png)
+- 打開output.txt就可以看到輸出的內容
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_59997c07f410492d49e61b0b9829394b.png)
+
+## Evil Calculator
+
+- 打開網站後發現一台計算機
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c7c624879d8981d590645b07c650e186.png)
+
+- 利用BURPSUITE看一下訊息
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bddc2c98ebbba0672309d7be090d06e7.png)
+
+- 在app.py這個程式碼發現他使用了eval這個函數，由於這個函數可以將字串str當成有效的表達式來求值並傳回計算結果，可能導致程式碼注入攻擊
+```
+from flask import Flask, request, jsonify, render_template
+
+app = Flask(__name__)
+
+@app.route('/calculate', methods=['POST'])
+def calculate():
+    data = request.json
+    expression = data['expression'].replace(" ","").replace("_","")
+    try:
+        result = eval(expression)
+    except Exception as e:
+        result = str(e)
+    return jsonify(result=str(result))
+
+@app.route('/')
+def index():
+    return render_template('index.html')
+
+if __name__ == '__main__':
+    app.run("0.0.0.0",5001)
+
+```
+- 由於flag放在上一層資料夾裡，要將expression的部分改成open('../flag', 'r').read()，就能取得flag了
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c838561febf88a781d62279961ce3205.png)
+```
+AIS3{7RiANG13_5NAK3_I5_50_3Vi1}
+```
+## Welcome
 
