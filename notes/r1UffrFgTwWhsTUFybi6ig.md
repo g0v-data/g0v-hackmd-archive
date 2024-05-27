@@ -70,7 +70,9 @@ Suggestions:
 - CoC 
     - CfJ has offical English CoC and Privacy Policy
     - 4 types of name tags(Staff, Photo OK, NO Photo, No Alcohol)
+        - We wont serve alcohol so no need "No Alcohol" tag
     - Dinner should wear name tags, won't be all you can drink(limited alcohol), after party is not offical 
+        - No alcohol for the offinal dinner 
     - report form
         - Can you share g0v summit one?
             - @pomin
@@ -78,6 +80,7 @@ Suggestions:
     - Info sheet
         - https://docs.google.com/spreadsheets/d/150ExZnTFoTASFZoayazUTDsBHK4fInvJ0kcN1a428pk/edit#gid=0
     - Project and Sharing talks can we use form to manage?After decided the participents we will share the link
+        - We wont use it. 
         - https://docs.google.com/forms/d/1_R7t2ZNVoSjQ1oifdP-GIX2j8wMFVuvno-gF2MdGwdk/edit
 - July 1st ask everyone to confirm attendance
     - book your own ticket
