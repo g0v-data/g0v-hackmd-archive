@@ -28,6 +28,9 @@ AIS3{🫵🪡🉐🤙🤙🤙👉👉🚩👈👈}
 
 ```
 ## Quantum Nim Heist
+```
+nc chals1.ais3.org 40004
+```
 - 直接開始遊戲!
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8be4b7eb88c188173ba05774a370c95a.png)
 
