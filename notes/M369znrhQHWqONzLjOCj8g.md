@@ -450,6 +450,18 @@ https://docs.google.com/presentation/d/1So9YIE00FmW6H1eENEVUIX4N2uyTMfGnDkdvzJSr
 - 文山淨零
 
 
+### 主要籌辦方式：將 臺北市凈零自治條例條文內容，結合 民眾生活有感的環境地貌，指認地區行政區尺度哪些區位可以落實哪些條文
+
+例如關於 公園綠地 實際營造方向上，涉及 第 27 條、第 34 條、第 38 條、第 43 條；或是例如第 35 條條文明確提到，應盤點積淹水風險及潛勢熱區範圍，提出調適執行方案
+
+文山區都市地貌對應凈零自治條例條文，對照表格
+https://docs.google.com/document/d/1Pts0uvaDNftUuTslqCr-k9TYluYnaOjB3dbHK27muag/edit
+凈零自治條例，條文摘要 (白話文描述)
+https://docs.google.com/spreadsheets/d/1XC1UUo-DT0OPsrtRrp3nUpuRaCPJHgjizu7Tm_VmoJ8/edit#gid=0
+20240502 文山社大工作坊的引導說明簡報與活動照片
+https://docs.google.com/presentation/d/1So9YIE00FmW6H1eENEVUIX4N2uyTMfGnDkdvzJSrNvs/edit
+
+
 ## 其他地區機制參考
 
 日本地域ストックマネジメント／脱炭素地域戦略研究（opossum）

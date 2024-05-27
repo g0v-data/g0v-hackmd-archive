@@ -1,7 +1,7 @@
 # 計算機概論 
 
-* 我們選擇yolo的原因
-* 我們怎麼做的
+* ## 我們選擇yolo的原因
+* ##  我們怎麼做的
 1. 收集照片
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d98de5e208c2ab3b1f39c677a499dd0a.png)
 .
@@ -29,5 +29,26 @@
 
 開始運行
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5d6540af7488c16f1f8a001a58494345.png)
+
+數值正常
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3fb6d827dd85d17d076c1cba810088eb.png)
+開始學習
+
+
+* ##  DEMO
+
+
+
+* ## 過程中遇到的問題
+1. 照片讀不到
+原因:因為圖片中含有中文字
+解決方法: 將所有的圖片名稱改成單純數字
+
+
+
+
+
+
+
 
 
