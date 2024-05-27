@@ -1,17 +1,23 @@
 # SFML Installation
 
-View the book with "<i class="fa fa-book fa-fw"></i> Book Mode".
+請依據你的電腦版選擇安裝SFML library。
+請 win10 以下的同學去下載Visual Studio。
 
-OS
----
-- [macOS](https://g0v.hackmd.io/VVQgKvkFQW66xqB4w-tVYw)
-- [wsl2](/s/slide-example)
-- [windows](/s/yaml-metadata)
-- [Features](/s/features)
 
-Themes
+macOS
 ---
-- [Dark theme](/theme-dark?both)
-- [Vertical alignment](/theme-vertical-writing?both)
+- [installation](https://g0v.hackmd.io/@Enxu8FP0TsCgbGXSIidrng/SkHrHjWV0)
+- [VScode c_cpp_properties.json 配置設定](/f6gjUFAJSuW7ff1Uir0SwA)
+
+WSL2 (win11)
+---
+- [installation](https://g0v.hackmd.io/@Enxu8FP0TsCgbGXSIidrng/H14aQpWNC/edit)
+
+
+Visual Studio (win10)
+---
+- [installation]()
+
+
 
 ###### tags: `Templates` `Book`

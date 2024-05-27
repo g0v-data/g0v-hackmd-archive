@@ -52,6 +52,9 @@ int main()
     return 0;
 }
 ```
+:::info
+:bulb: **Hint:** **按 esc -> : -> wq 退出**
+:::
 
 測試編譯與執行
 ---
@@ -71,32 +74,16 @@ brew info sfml
 ```
 g++ sfml.cpp -I<你的include路徑> -o prog -L/<你的lib路徑> -lsfml-graphics -lsfml-window -lsfml-system 
 ```
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6b66202c8251e54f8ae322ede6619bef.png)
+
 
 ##### 執行
 ```
 ./prog
 ```
 
+###### 跑出視窗即為成功
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b958d67392a6fda8f2b89ddadb80d036.png)
 
 
 
-Documentation
----
-- [Features](/s/features)
-- [YAML Metadata](/yaml-metadata)
-- ### Publish mode
-  - [Slide example](/p/slide-example)
-  - [Book example](/book-example)
-  - [Release notes](/s/release-notes)
-
-Information
----
-- [Terms](/s/terms)
-- [Privacy](/s/privacy)
-
-External Link
----
-You could also add `[target=_blank]` to force the link open in new tab, like this:
-- [Release Notes](/s/release-notes) [target=_blank]
-
-**If you add a link starts with http (non-SSL), we'll also make it open in new tab.**

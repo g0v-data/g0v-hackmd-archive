@@ -25,10 +25,10 @@
  
 
 ### 2-2 內容欄位說明
-| 欄位 | 功能 |格式限制 |
+| 欄位 | 功能 |格式建議 |
 | -------- | -------- | -------- |
-| 直式海報| 將會顯示在索引頁上| 檔案大小5mb內；寬1080x長1590|
-| 橫式劇照| 將會顯示在作品詳細頁的首圖| 檔案大小5mb內；寬2385X長1620|
+| 直式海報| 將會顯示在索引頁上| JPG檔案; 大小5mb內；寬1080x長1590|
+| 橫式劇照| 將會顯示在作品詳細頁的首圖| JPG檔案; 大小5mb內；寬2385X長1620|
 | 作品類型| 將決定作品會出現在哪個分類索引中
 | Featured| 勾選為'Yes'的作品可顯示於索引頁上方精選區塊。（綜藝作品類無此區塊，故不適用）|每作品類型最多勾選四項|
 |副標|行銷文案|建議兩句以內
@@ -36,7 +36,7 @@
 |得獎|得獎品牌|
 |獎項|獲獎名稱|
 |Trailer|預告片|需為YouTube影片連結|
-|Image|劇照|檔案大小5mb內；寬2385X長1620
+|Image|劇照|JPG檔案; 大小5mb內；寬2385X長1620
 
 <br/>
 
@@ -77,9 +77,9 @@
 1. 切換到Layers 
 2. 選擇首頁(Home)
 3. 展開Desktop > Hero > BG，點選Video
-4. 點擊File，上傳欲更換的影片（檔案須小於5mb
+4. 點擊File，上傳欲更換的影片（MP4檔案；寬1980X高1056；大小5mb內）
 
-> 註：影片規格建議為：1980X1056。影片比例在不同螢幕尺寸中會有如下圖所示之變化，故挑選影片時可選擇畫面重點不要太靠近邊緣的片段
+> 註：影片比例在不同螢幕尺寸中會有如下圖所示之變化，故挑選影片時可選擇畫面重點不要太靠近邊緣的片段
 > ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_68c3b374d60a5f2af5905535d423d842.png)
 
 <br/>
@@ -116,6 +116,8 @@
 切換到索引頁面，展開左側元件，找到Description後於右側編輯欄位變更文字![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_412b90f0cdd8133a5e4e1c537dd7366d.png)
 ### 4-2 索引頁底圖
 切換到索引頁，展開左側元件，找到BG後於右側File欄位變更圖片
+> 註：建議照片格式為JPG；尺寸為寬1980 X 高1056。照片比例在不同螢幕尺寸中會有變化（參考3-3之備註）
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d43842507aa558754b0066edbbca4a47.png)
 ### 4-3 索引頁內容
 索引頁內容會自動從作品頁資料庫中抓取，無需另行編輯。
@@ -131,7 +133,7 @@
 1. 點選要編輯的成員![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5fefcca542079319e31330413909ba84.png)
 2. 於右方編輯欄，往下滑動，找到編輯區
 
-> 註：建議照片尺寸為長620x寬568
+> 註：建議照片尺寸為長620x寬568，格式為JPG
 
 ### 5-3 編輯團隊成員內容
 
@@ -199,10 +201,13 @@
 <br/>
 
 ## 十、全站設定
-可調整顯示於搜尋引擎的名稱、描述，以及縮圖。
+### 10-1 可調整顯示於搜尋引擎的名稱、描述，以及縮圖。
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5c1d3910188f4dff04c0f755466dc087.png)
 
 1. 點擊設定按鈕
 2. 選擇要調整的對象，'General'是針對全站，'Page Settings'下則是網站中的個別頁面。
 3. 調整希望顯示於搜尋引擎的名稱、描述，以及縮圖。
+
+### 10-2 Social Media Icon
+若需替換或新增，格式須為SVG。由於向量檔本身無大小描述，實際尺寸需在工具欄中定義（32x32）![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d5e0be8831e563b838357c9807deaa29.png)
