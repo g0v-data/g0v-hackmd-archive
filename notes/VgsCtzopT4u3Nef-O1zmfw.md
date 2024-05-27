@@ -7,6 +7,9 @@ This guide focuses on securing and updating Flutter applications. It covers secu
 ## Hashing vs. Encryption
 Hashing and encryption are both essential security measures, but they serve different purposes and have distinct characteristics. Here’s a detailed comparison between the two in the context of protecting Flutter applications:
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3ea5e5f58306bf2b3b2c545c378c07aa.jpg)
+
+
 ### Hashing
 Hashing is used to ensure data integrity and authenticate data. It converts data into a fixed-size string of characters, which is typically a digest that represents the data.
 
