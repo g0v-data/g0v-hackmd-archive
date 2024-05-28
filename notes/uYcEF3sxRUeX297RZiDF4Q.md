@@ -45,7 +45,7 @@ This code organizes CSS styles into two layers, with the `base` layer setting th
 
 Similarly, we have arranged the layers in such a way that priority is given to the `special` layer over the `base` layer, resulting in the image shown below:
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_dc699239d05eba7004019f6f9f08a46f.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6032cdcc29f7beb140ba0ceb39363a44.png)
 We can utilize multiple CSS sources or layers, allowing us to prioritize and override specific styles without relying on selector specificity or the `!important` property. 
 
 In this article, our focus is on understanding the cascade layer keyword known as `revert-layer` and exploring its various use cases. Without further ado, let’s delve into the `revert-layer` CSS keyword
@@ -90,7 +90,7 @@ In the code above, we have a heading element and a list of items. Now, let’s w
 ```
 The code above defines two layers (`base` and `special`), where `special` sets the `.item` color to red, and `base` sets the `.item` color to blue, font weight to normal, font size to 16px, and `.feature` color to green, with `base` taking precedence over `special.`
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_58fe43abb9badbe15085c72ae9a4f11d.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7f19beff9354de1e7e5955c879601cdd.png)
 In our previous example, we have two layers. As we explained earlier, all items will appear in red because the `color` property inside the `special` layer scheme takes the highest priority.
 
 If we reorder our layers to `@layer special, base,` just as written below:
@@ -116,7 +116,7 @@ If we reorder our layers to `@layer special, base,` just as written below:
 ```
 As a result of the change made in the code, all items will become blue, excluding the first item, which will be green, just like shown in the image below:
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_448c6db0b5e103cc8c5a5b5e06a6209b.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bf91cc8cee97abd4b69bf4801869c2fa.png)
 To implement the `revert-layer` keyword, add the styles below:
 ```css
 @layer base, special;
@@ -145,12 +145,12 @@ This means that every other color in the list of items turns orange, while the `
 
 Below is an image of the result:
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_19f0ee9c2bf8fdeb33f9c7f69553c3c0.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_73ca42752df53b1522068386b6194900.png)
 Our layer order prioritizes `@layer special` over `@layer base`. This means that the styles in `@layer special` are processed before those in `@layer base`. In `@layer special`, the `color` property for the `.feature` selector is set to `revert-layer`. As a result, the `color` property for `.feature` reverts to the value from the previous layer, which in this case is `@layer base`. In `@layer base`, there is a matching selector `.feature` with the `color` property set to green, so this is the value that is applied.
 
 Additionally, if we remove the `.feature` selector from `@layer base`, the item with the `.feature` class reverts to the default color of the browser, which is typically black. However, since the item also has the class `.item`, it takes the `color: blue` property from the `.item` class in the `@layer base.` This is shown in the image below:
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_12775c4b98bd9bc9f86f033cb5db1b51.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_746c528d7aa6c035e497838e69a1617a.png)
 On the other hand, if there’s no matching selector property, the style reverts or rolls back to the browser's default origin styles. Please refer to the following HTML:
 ```html
 <ul>
@@ -190,7 +190,7 @@ The CSS code above defines two layers, `base` and `special`, where `special` set
 
 Below is the result of our code:
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_df9de3af85ed3209846bdbab642c24ff.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_baecf9c8cd61d5fd48754a21540c5fbb.png)
 ## Practical Applications
 We have learned about the `revert-layer` and how to use it. Now, let’s explore some scenarios where it can be useful. Although the `revert-layer` is not widely used yet, it offers unique advantages in specific situations.
 ### Implementing modular styling
@@ -239,7 +239,7 @@ This CSS code defines two layers, `base` and `special`, where the `base` layer s
 
 Overall, we kept every other property and only changed the padding. The result was:
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9b04d1676a56f9823c5a3498e82b44e5.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9d29ec421a64230c95e52088994ead47.png)
 ### Executing a full global style reset
 If you have used the `revert` keyword, you are aware that it removes the styles applied in the specified style origin and returns the style to the default browser style.
 
