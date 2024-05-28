@@ -63,7 +63,12 @@ SELECT * FROM Users WHERE (UserName='' OR '1'='1'--) AND  (Password);
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0c53b9cc0505ae2ee870159d39031e32.png)
 
 ## Encryption for Confidentiality
-
+- SSL/TLS只有保護客戶端到MAIL HOST，那其他地方要由誰保護?
+- MAIL HOST之間也可以使用SSL/TLS
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6d9a605f104f85806a7ab0cdc75bbc82.png)
+
+- 端到端加密是可能的，傳送前用PGP加密，它是由兩個主機完成的，但是很少這樣做
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2b702c819583fab67a5cbfbbaf7581be.png)
+
 
 
