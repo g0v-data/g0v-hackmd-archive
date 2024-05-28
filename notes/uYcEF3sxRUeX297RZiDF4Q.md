@@ -287,7 +287,7 @@ The `revert` keyword does not consider if there’s another layer with the same 
 
 See the result of the code above in the image below:
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3cf728b18cd3aef233b3f100f50c2e48.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_062bcb5131182ff101822122d1eddcaa.png)
 Now, let's consider an example of using the `revert-layer` keyword.
 
 We will just make use of the previous HTML code written earlier for this example:
@@ -331,8 +331,7 @@ Now we take a look at the css code below carrying the function of the `revert-la
 }
 ```
 The CSS code above defines two layers, `base` and `special`. In the `base` layer, the `.item` and `.feature` classes are styled blue. In the `special` layer, the `.item` class is styled red. When using the `revert-layer` keyword, the `.feature` item will be styled blue because it reverts the styles back to the previous layer, which, in our case, is the `base` layer where the item is styled blue. Here’s the result:
-
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_deae8b95e0070d6d0d6103a48fb0c427.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5699075fc38caf265e84fdd8e244a684.png)
 Moving forward, let’s consider the following example to demonstrate how we can utilize `revert-layer` as a global reset:
 
 First lets write out our HTML code:
@@ -377,7 +376,7 @@ The code above shows an unordered list with three items, where the first item ha
 ```
 This CSS code resets all elements to their default styles using `all: revert`, then defines two layers (`base` and `special`) where the `.item` class is styled blue in the `base` layer and red in the `special` layer, and the `.feature` class reverts to the `base` layer's blue color. The image below shows the result of the code above:
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bf32be3787c1a7ffddf8dfd06049043a.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_29e1088451c520db55bc518361572672.png)
 `Revert-layer`, however, is more useful as it restores the styles to their original state, making it a more relevant choice.
 ### Modifying styles across layers
 We have observed that the `revert-layer` keyword can be utilized to revert to the previous default styles of the browser. Let's consider a situation where we need to introduce a new styling layer.
@@ -431,7 +430,7 @@ Now lets look into the css code:
 ```
 This CSS code defines two layers, `oldStyles` and `newStyles`, where the `.item` and `.feature` classes are styled in `oldStyles` with green and dark gray colors, respectively. In the `newStyles` layer, all styles revert to the previous layer (`oldStyles`), but the `.feature` class is then specifically styled with a blue color. The result is shown below:
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_12db91accf96e1336f3c9b39c8866d00.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aa12174d71bbf547f30ff2ecff91515c.png)
 This strategy allows elements to retain their old styles if desired, as we revert to the previous style origin set by the developer. This could also be relevant for style management or version control.
 ## Assessing Browser Compatibility
 CSS cascade layers, such as the `revert-layer` keyword, offer promising capabilities for CSS architecture. However, it’s crucial to consider browser compatibility. Additionally, `revert-layer` is not easily polyfillable, which complicates its adoption in projects targeting a wide range of browsers.
