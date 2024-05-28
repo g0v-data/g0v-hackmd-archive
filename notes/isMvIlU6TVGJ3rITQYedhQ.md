@@ -24,4 +24,46 @@
         - e.g. 將攻擊的 script 透過留言板功能，儲存於 database 中，當下一位 User 瀏覽網頁時，網頁會載入留言板的 Javascript 進而使 User 受到攻擊
     - DOM 型 XSS
         - 前二型通常發生在網頁的後端程式，然而DOM XSS是基於客戶端的，並且其惡意腳本不會通過服務器端輸入輸出過程
-       -  e.g. 在 input 處輸入 DOM 語法，只能在前端發生，所以除非駭客在你電腦前幫受害者輸入，否則無法讓受害者輸入惡意程式，所以通常 DOM 型 XSS 要搭配反射型與儲存型製造出內容，讓 Javascript 動態產生 DOM 才能達成
+       -  DOM XSS與反射型XSS的主要區別在於，DOM XSS是在客戶端透過JavaScript程式碼直接處理不受信任的數據，而反射型XSS涉及伺服器將惡意輸入反射回客戶端。
+
+## SQL Injection
+```
+SELECT * FROM Users WHERE (UserName='” + strUN + “') AND (Password='” + strPW + “');”
+```
+攻擊手法:
+```
+SELECT * FROM Users WHERE (UserName='' OR '1'='1') AND  (Password='' OR '1'='1');
+
+```
+- 加 - -把後面註解調，根本不用CARE Password要輸入什麼
+```
+SELECT * FROM Users WHERE (UserName='' OR '1'='1'--) AND  (Password);
+
+```
+
+## email
+- 是internet早期被發明出來的應用，到目前為止該標準都沒有被修改，但存在某些限制互聯網普遍服務
+- 可以附加、傳送檔案，並算是最為妥當的傳送方式
+- 但很多攻擊都經由email(釣魚、傳播病毒或蠕蟲)
+- 寄信(SMTP)與收信(POP,IMAP)是不同標準
+- 文件標準：RFC 822/2822 用於純文字訊息，用於格式化的 HTML 正文，UNICODE 可以表示任何語言的文本
+
+## Simple Mail Transfer Protocol (SMTP)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_20e6d4596a211c85e8c9ec42e85a7684.png)
+- 200多 正常
+- 300多 正在處理中
+- 400、500、600…錯誤
+- Mail from:實際的寄信者
+- RCPT to:實際上的收件人
+- CRLF:換行符號
+
+## Scanning Locations for E-Mail
+
+- 在兩個或多個位置進行過濾可以提供深度防禦。
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0c53b9cc0505ae2ee870159d39031e32.png)
+
+## Encryption for Confidentiality
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6d9a605f104f85806a7ab0cdc75bbc82.png)
+
+
