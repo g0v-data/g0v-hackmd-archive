@@ -12,17 +12,14 @@ sf::Clock  Class 實作
 sf::Clock clock;
 ```
 
-#### 向量運算
+#### 暫停500毫秒
 ```clike
-sf::Vector2<int> v4 = v1 + v2;//加法
-sf::Vector2<int> v5 = v2 - v2;//減法
-sf::Vector2<float> v6 = 3 * v3
+ sf::sleep(sf::milliseconds(500)); 
 ```
 
-#### 輸出
+#### 重置時鐘並獲取重置前的時間
 ```clike
-std::cout << "v1: (" << v1.x << ", " << v2.y << ")" << std::endl;
-std::cout << "v3: (" << v3.x << ", " << v3.y << ")" << std::endl;
+sf::Time elapsed = clock.restart();
 ```
 
     
