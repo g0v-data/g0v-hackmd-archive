@@ -1,8 +1,8 @@
 ---
 tags: vtaiwan 
 ---
-# 0524小松
-時間 Time ：20:00-22:00
+# 0529小松
+時間 Time ：19:00-21:00
 地點 Location ：線上 Online
 參與者 Participants：
 線上參與連結 / Link：https://meet.jit.si/vTaiwan
