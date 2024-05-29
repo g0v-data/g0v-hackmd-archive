@@ -12,8 +12,8 @@ Facilitator:
 - Meichun Lee (facilitator/Assistant Research Fellow, Institute of Ethnology, Academia Sinica)
 
 Potential Panelists: 
-- Ronny Wang (Title?)
-- Kuochun Hung (to be invited)
+- Ronny Wang (g0v contributor & CEO, OpenFun Inc.)
+- Kuochun Hung (Chief Operating Officer of Watchout)
 - Taiwan Obasang Political Equality Party (to be invited)
 
 ## Prorposal 
