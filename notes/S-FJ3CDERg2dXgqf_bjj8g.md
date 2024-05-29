@@ -4,7 +4,7 @@ tags: ly
 
 ## **[審查報告原條文](https://ppg.ly.gov.tw/ppg/download/agenda1/02/pdf/11/01/14/LCEWA01_110114_00275.pdf)** 
 ## **[國眾兩黨團再修正動議](https://www.slideshare.net/slideshow/ss-96cf/268943321)**
-## **[國眾民三黨團再修正動議](https://www.youtube.com/live/JDlcQ_n-S_M?feature=shared&t=1297)**
+## **[國眾民三黨團再修正動議](https://www.youtube.com/live/JDlcQ_n-S_M?feature=shared&t=1297s)**
 ## **[二讀通過條文](https://docs.google.com/spreadsheets/u/0/d/1z45k5TeuWS6dmYAR8q14Aaa6aBgPhG54KQBYdlGOwFo/)**
 
 # 立法院職權行使法修法內容
@@ -1262,3 +1262,18 @@ tags: ly
 調閱專案小組置召集委員二人，由該委員會召集委員擔任之。
 調閱專案小組所需之工作人員，由立法院各委員會或主辦委員會指派之。
 調閱專案小組於必要時，得請求院長指派專業人員協助之。
+
+## 第五十九條之四
+
+### 原條文
+
+（無）
+
+### [通過]國民黨黨團及台灣民眾黨黨團共提再修正動議
+
+受邀出席之政府人員或與調查事件相關之社會上有關係人員於必要時，經主席同意，得由律師、相關專業人員或其他輔佐人在場協助。
+
+### 民進黨黨團再修正動議
+
+機關（構）於
+

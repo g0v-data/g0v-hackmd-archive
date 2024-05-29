@@ -26,7 +26,7 @@
         - 前二型通常發生在網頁的後端程式，然而DOM XSS是基於客戶端的，並且其惡意腳本不會通過服務器端輸入輸出過程
        -  DOM XSS與反射型XSS的主要區別在於，DOM XSS是在客戶端透過JavaScript程式碼直接處理不受信任的數據，而反射型XSS涉及伺服器將惡意輸入反射回客戶端。
 
-## SQL Injection
+### SQL Injection
 ```
 SELECT * FROM Users WHERE (UserName='” + strUN + “') AND (Password='” + strPW + “');”
 ```
@@ -81,3 +81,11 @@ SELECT * FROM Users WHERE (UserName='' OR '1'='1'--) AND  (Password);
 
 ## HTTP and HTML
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_093a1ec9a5d924d0b7a7e14bc4b5f034.png)
+
+- 該網頁有文字和兩個圖形。 HTML 檔案包含圖形的文字和標籤。
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c8649135dd42f06586687a30575ed193.png)
+
+
+- 根據HTML檔案中的標籤，下載圖形檔案並渲染在頁面上
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0d120dc8ad1e37ecd92ce24063eda76a.png)
