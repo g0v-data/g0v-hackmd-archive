@@ -2,16 +2,16 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [0529小松](../notes/EUgsPgNDSbKfibUxsBSwZA.md) | 2024-05-28T19:32:29+08:00 | 2024-05-23T13:16:12+08:00 |
-| 2 | [vTaiwan 到 TicTec分享](../notes/kBtFem_KRB-2PphaR-vcBQ.md) | 2024-05-17T16:49:19+08:00 | 2024-01-18T17:19:46+08:00 |
-| 3 | [0515小松 Meetup](../notes/cXkhJEabTAa9yKm5QGwbFg.md) | 2024-05-15T18:29:02+08:00 | 2024-05-15T18:19:24+08:00 |
-| 4 | [0508小松 Meetup](../notes/vSAzjZ6BSP2BHR8TXkT6rQ.md) | 2024-05-15T18:24:30+08:00 | 2024-05-06T10:36:42+08:00 |
-| 5 | [0511 聊聊 chating](../notes/TIYoIml0ReiM1w2VWBG2ag.md) | 2024-05-11T19:28:57+08:00 | 2024-05-11T19:21:46+08:00 |
-| 6 | [vTaiwan 社群經費管理守則](../notes/JqAlPp_6QF-3F1RKuDj4JQ.md) | 2024-05-11T13:55:02+08:00 | 2024-05-06T11:00:15+08:00 |
-| 7 | [vTaiwan in TicTEC 2024](../notes/_fWuILaRSv-h3FQsXSLxaQ.md) | 2024-05-08T21:09:01+08:00 | 2024-04-17T20:38:51+08:00 |
-| 8 | [國家人權委員會 AI x人權趨勢論壇](../notes/iKIzn1I-S7uNqcsM2RIgIA.md) | 2024-05-08T20:50:19+08:00 | 2024-05-06T10:33:01+08:00 |
-| 9 | [德國紀錄片 German Documentary](../notes/LLbOFId_RUS4w20og4dmRA.md) | 2024-05-08T19:07:04+08:00 | 2024-05-06T10:45:21+08:00 |
-| 10 | [vTaiwan經費使用提案](../notes/E9Fzy6UyRh-0fMCdE0oPJw.md) | 2024-05-07T20:14:57+08:00 | 2024-05-07T20:12:55+08:00 |
+| 1 | [vTaiwan in TicTEC 2024](../notes/_fWuILaRSv-h3FQsXSLxaQ.md) | 2024-05-29T19:32:52+08:00 | 2024-04-17T20:38:51+08:00 |
+| 2 | [0529小松](../notes/EUgsPgNDSbKfibUxsBSwZA.md) | 2024-05-29T19:26:26+08:00 | 2024-05-23T13:16:12+08:00 |
+| 3 | [vTaiwan經費使用提案模板](../notes/E9Fzy6UyRh-0fMCdE0oPJw.md) | 2024-05-29T19:04:20+08:00 | 2024-05-07T20:12:55+08:00 |
+| 4 | [vTaiwan 到 TicTec分享](../notes/kBtFem_KRB-2PphaR-vcBQ.md) | 2024-05-17T16:49:19+08:00 | 2024-01-18T17:19:46+08:00 |
+| 5 | [0515小松 Meetup](../notes/cXkhJEabTAa9yKm5QGwbFg.md) | 2024-05-15T18:29:02+08:00 | 2024-05-15T18:19:24+08:00 |
+| 6 | [0508小松 Meetup](../notes/vSAzjZ6BSP2BHR8TXkT6rQ.md) | 2024-05-15T18:24:30+08:00 | 2024-05-06T10:36:42+08:00 |
+| 7 | [0511 聊聊 chating](../notes/TIYoIml0ReiM1w2VWBG2ag.md) | 2024-05-11T19:28:57+08:00 | 2024-05-11T19:21:46+08:00 |
+| 8 | [vTaiwan 社群經費管理守則](../notes/JqAlPp_6QF-3F1RKuDj4JQ.md) | 2024-05-11T13:55:02+08:00 | 2024-05-06T11:00:15+08:00 |
+| 9 | [國家人權委員會 AI x人權趨勢論壇](../notes/iKIzn1I-S7uNqcsM2RIgIA.md) | 2024-05-08T20:50:19+08:00 | 2024-05-06T10:33:01+08:00 |
+| 10 | [德國紀錄片 German Documentary](../notes/LLbOFId_RUS4w20og4dmRA.md) | 2024-05-08T19:07:04+08:00 | 2024-05-06T10:45:21+08:00 |
 | 11 | [0501 vTaiwan 小松](../notes/bGodqyAVSIeccnTYa-mfjw.md) | 2024-05-06T10:39:24+08:00 | 2024-04-29T12:31:06+08:00 |
 | 12 | [vTaiwan 社群參與者參與 TicTec Conference 企劃書](../notes/_UXdVBQwQ12NpKKDdOQYiA.md) | 2024-04-25T10:39:12+08:00 | 2024-02-29T19:41:51+08:00 |
 | 13 | [0417小松](../notes/uDbpFfsNREGpzpx5aItvLg.md) | 2024-04-17T20:39:30+08:00 | 2024-04-17T19:32:48+08:00 |

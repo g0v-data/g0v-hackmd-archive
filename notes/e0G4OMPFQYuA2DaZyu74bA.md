@@ -44,6 +44,7 @@ vTaiwan 相關資料整理 vTaiwan related materials
 - [vTaiwan教召](https://g0v.hackmd.io/bs1GUoX4TcSgid7NR-fljA)
 - [vTaiwan待辦事項（歡迎認領工作）](https://g0v.hackpad.tw/vTaiwan--AuHFzoOJk7o)
 - [vTaiwan研發區 - 討論工具&平台survey區](https://g0v.hackmd.io/kPX-bPyUSPS1SLKMVreMXw)
+- [vTaiwan 社群經費管理守則](/JqAlPp_6QF-3F1RKuDj4JQ)
 
 社群媒體 Social Media 
 ---

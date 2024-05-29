@@ -108,8 +108,8 @@ https://pol.is/3yfp4m7wsm
 1. **Part1: Overview (15 minutes) - Public-Private-Partnership Hybrid deliberation (公私協力的 hybrid 討論)**
 
 
-- What is vTaiwan? What is moda? How do they collaborate? 
--  vTaiwan process (機制介紹): How does vTaiwan work?
+- What is vTaiwan? （2分）What is moda?（2分） How do they collaborate? （5分）
+-  vTaiwan process (機制介紹): How does vTaiwan work?（10分）
     moda 介紹 talk to the city, ++ 經驗分享 (RR)
 
 2. **Part2: Simulation (45 min)**
@@ -117,11 +117,7 @@ https://pol.is/3yfp4m7wsm
 - Part2-1: Online simulation (20/45 min)
 
     - 現場用 Polis or TttC 收集意見 
-    （題目
-        1. vTaiwan 相關：「grassroot community 如何吸引政府的參與」
-        2. 其他淨零相關的題目：「如何倡導碳排淨零政策」「如何做社區的淨零碳排」「網頁的永續開發指引」）
-        3. 之前討論過的題目：像是 AI..
-
+    （題目：vTaiwan 相關：「grassroot community 如何吸引政府的參與」）
 - Part2-2: In-Person Simulation (25/45 min) 
 
     -  現場用 TttC 的報告分組
@@ -140,3 +136,7 @@ https://pol.is/3yfp4m7wsm
         - 網路自由小聚群組 @telegram 
     - TWIGF 
         - 要問一下管理員
+
+## 0529 討論
+- 影印 QR code 帶到現場去
+    - 用 summit 用的改成英文帶過去

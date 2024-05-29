@@ -4,7 +4,7 @@ tags: vtaiwan
 # 0529小松
 時間 Time ：19:00-21:00
 地點 Location ：線上 Online
-參與者 Participants：
+參與者 Participants：josh, peter, 
 線上參與連結 / Link：https://meet.jit.si/vTaiwan
 
 ## 立法院 polis 
@@ -14,4 +14,46 @@ tags: vtaiwan
 
 ## 工作坊
 - 目前[意見徵集結果](https://pol.is/report/r7cyakn8a8knfyahm3bkh)
-- 工作坊要用的 ppt 
+- 工作坊要用的[ppt](https://docs.google.com/presentation/d/19rbhfHLOXnx4Wk2ZHIzlBuVW1ZINoIr1eY7sLlXO3yU/edit?usp=sharing) 
+- [vTaiwan in TicTEC 2024](/_fWuILaRSv-h3FQsXSLxaQ)
+- [vTaiwan 到 TicTec分享](/kBtFem_KRB-2PphaR-vcBQ)
+### 工作坊 rundown (共計 1h20m)
+
+1. **Part1: Overview (15 minutes) - Public-Private-Partnership Hybrid deliberation (公私協力的 hybrid 討論)**
+
+
+- What is vTaiwan? What is moda? How do they collaborate? 
+-  vTaiwan process (機制介紹): How does vTaiwan work?
+    moda 介紹 talk to the city, ++ 經驗分享 (RR)
+
+2. **Part2: Simulation (45 min)**
+
+- Part2-1: Online simulation (20/45 min)
+
+    - 現場用 Polis or TttC 收集意見 
+    （題目
+        1. vTaiwan 相關：「grassroot community 如何吸引政府的參與」
+        2. 其他淨零相關的題目：「如何倡導碳排淨零政策」「如何做社區的淨零碳排」「網頁的永續開發指引」）
+        3. 之前討論過的題目：像是 AI..
+
+- Part2-2: In-Person Simulation (25/45 min) 
+
+    -  現場用 TttC 的報告分組
+
+3. **Part3: Reflection & Discussion (20 min)**
+    - 現場 Q&A
+
+- 加強宣傳(到5/31以前加強宣傳)
+    - g0v slack: 
+        - general 
+        - rentea 
+        - cofacts 
+        - sch001
+    - OCF 
+        - 網路自由小聚群組 @telegram 
+    - TWIGF 
+        - 要問一下管理員
+
+
+## 經費運用
+- 贊助大松
