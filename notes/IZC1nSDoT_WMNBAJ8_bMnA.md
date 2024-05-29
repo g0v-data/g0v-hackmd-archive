@@ -37,6 +37,6 @@ We will use multilingual collaborative documents to continue gathering opinions 
 我們將會運用多語言的公開共筆繼續收集意見與想法，並在合適的機會，邀請貢獻者和我們進行實體或線上的交流。所收集到的資料會透過台灣零時政府的平台發布，並分享給台灣在地的社會運動團體。
 
 
-My session will primarily be conducted in 中文
+My session will primarily be conducted in Eng and 中文
 
 

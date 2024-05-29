@@ -7,9 +7,9 @@ Trần Thiên Ân
 <p dir="ltr"><strong>Th&ocirc;ng Tin Li&ecirc;n Hệ:</strong></p>
 <p dir="ltr"><strong>- Địa Chỉ:</strong>&nbsp;Ba Đ&igrave;nh, H&agrave; Nội, Việt Nam</p>
 <p dir="ltr"><strong>- Số Điện Thoại:</strong>&nbsp;0363554557</p>
-<p dir="ltr"><strong>- Email:</strong>&nbsp;tacgiathienan@gmail.com</p>
-<p dir="ltr"><strong>- Website:</strong>&nbsp;<a href="https://www.facebook.com/tacgiathienan">https://www.facebook.com/tacgiathienan</a></p>
-<p dir="ltr"><strong>Social:</strong></p>
+<p dir="ltr"><strong>- Mail:</strong>&nbsp;tacgiathienan@gmail.com</p>
+<p dir="ltr"><strong>- Fanpage:</strong>&nbsp;<a href="https://www.facebook.com/tacgiathienan">https://www.facebook.com/tacgiathienan</a></p>
+<p dir="ltr"><strong>Mạng x&atilde; hội kh&aacute;c:</strong></p>
 <p dir="ltr">-Twitter:&nbsp;<a href="https://x.com/tacgiathienan">https://x.com/tacgiathienan</a></p>
 <p dir="ltr">-Instagram:&nbsp;<a href="https://www.instagram.com/tacgiathienan/">https://www.instagram.com/tacgiathienan/</a></p>
 <p dir="ltr">-Youtube:&nbsp;<a href="https://www.youtube.com/@tacgiathienan">https://www.youtube.com/@tacgiathienan</a></p>
@@ -19,4 +19,4 @@ Trần Thiên Ân
 <p dir="ltr">-Tumblr:&nbsp;<a href="https://tacgiathienan.tumblr.com/">https://tacgiathienan.tumblr.com/</a></p>
 <p dir="ltr">-Linkedin:&nbsp;<a href="https://www.linkedin.com/in/tacgiathienan/">https://www.linkedin.com/in/tacgiathienan/</a></p>
 <p dir="ltr">-Google Site:&nbsp;<a href="https://sites.google.com/view/tacgiathienan/">https://sites.google.com/view/tacgiathienan/</a></p>
-<p>-500px:&nbsp;<a href="https://500px.com/p/tacgiathienan">https://500px.com/p/tacgiathienan</a></p>
+<p dir="ltr">-500px:&nbsp;<a href="https://500px.com/p/tacgiathienan">https://500px.com/p/tacgiathienan</a></p>

@@ -8,7 +8,7 @@
     3. Peer-to-peer (P2P) operation(點對點操作)
 ## Application Security
 - 如果應用程式有漏洞，很可能被入侵並濫用權限(xss,SQL Injection)
-### xss
+### XSS
 - 什麼是xss?
     - 跨網站指令碼(Cross-Site Scripting，通常簡稱為XSS)
     - 駭客在瀏覽器插入惡意 Javascript，一旦受害者的瀏覽器解析並執行，可能導致受害者cookie 被盜取、網頁導向惡意網站等
@@ -45,7 +45,7 @@ SELECT * FROM Users WHERE (UserName='' OR '1'='1'--) AND  (Password);
 - 是internet早期被發明出來的應用，到目前為止該標準都沒有被修改，但存在某些限制互聯網普遍服務
 - 可以附加、傳送檔案，並算是最為妥當的傳送方式
 - 但很多攻擊都經由email(釣魚、傳播病毒或蠕蟲)
-- 寄信(SMTP)與收信(POP,IMAP)是不同標準
+- ==寄信(SMTP)與收信(POP,IMAP)是不同標準==
 - 文件標準：RFC 822/2822 用於純文字訊息，用於格式化的 HTML 正文，UNICODE 可以表示任何語言的文本
 
 ## Simple Mail Transfer Protocol (SMTP)
@@ -76,8 +76,10 @@ SELECT * FROM Users WHERE (UserName='' OR '1'='1'--) AND  (Password);
 - 節省資金，因為公司無需維護單獨的內部語音和數據網絡，且語音訊號在數位化時會被壓縮
 
 ### VoIP Signaling and Transport
-- SIP is a signaling protocol.
+- ==SIP== is a signaling protocol of VoIP.
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_27ea4f71836b90f215d5c822f71d454f.png)
+
+- ==RTP== is a transport protocol of VoIP
 
 ## HTTP and HTML
 
