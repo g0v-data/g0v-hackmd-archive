@@ -70,5 +70,14 @@ SELECT * FROM Users WHERE (UserName='' OR '1'='1'--) AND  (Password);
 - 端到端加密是可能的，傳送前用PGP加密，它是由兩個主機完成的，但是很少這樣做
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2b702c819583fab67a5cbfbbaf7581be.png)
 
+## Voice over IP
+- 可以讓所有人網路通話的標準
+- 透過 IP 網路傳輸語音電話呼叫
+- 節省資金，因為公司無需維護單獨的內部語音和數據網絡，且語音訊號在數位化時會被壓縮
 
+### VoIP Signaling and Transport
+- SIP is a signaling protocol.
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_27ea4f71836b90f215d5c822f71d454f.png)
+
+## HTTP and HTML
 
