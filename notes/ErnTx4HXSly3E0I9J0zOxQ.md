@@ -20,6 +20,8 @@ Continuous Pedestrian Pathway
 
 在街區內創造一條連續的行人路徑，且盡可能避免受到車道阻斷，避免車輛直通穿越。
 
+透過調整車輛行駛方向與轉向系統，藉此創造行人連續路徑，減少人車交錯路口數量。
+
 #### 名稱發想
 
 - 主軸是形塑出街區內，可以感到安心、放心、人走的路
@@ -41,6 +43,7 @@ https://www.facebook.com/share/9jkpUvRvNzEFkJbn/?mibextid=WC7FNe
 
 西雅圖
 https://www.facebook.com/share/uM9kYKZd2hh3CkPd/
+https://maps.app.goo.gl/tgspqJiRToreAMX27
 
 
 
