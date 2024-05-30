@@ -371,6 +371,9 @@ https://www.facebook.com/share/hteyC1xFimiJurss/?
 新竹
 https://www.facebook.com/100064848694500/posts/pfbid02P1YrjWqM4RhQfVzs9NDHcLFM3MAAEv9FHpGd3qTgXJiwNEfge1s2gsguxqegrTzFl/
 
+新竹 龍山東路 圓環
+https://www.facebook.com/share/x7UeUm4rVQJRz4K1/
+
 新竹
 https://www.facebook.com/story.php?story_fbid=pfbid0YHMSn8SxNPH1jTX1XWETbs6J151cBW8TYoZj6aiEudZ2cL1Px5gMLCoztb67PCeyl&id=100049204915573&mibextid=qC1gEa
 
