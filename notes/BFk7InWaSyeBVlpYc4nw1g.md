@@ -21,7 +21,8 @@ tags: web3, Shoutout
 
 
 ## 會議紀錄
-
+- Stanley 分享 FAB DAO 綠沙發接下來 retroPGF 跟 SO 運用可能
+    投票功能要考慮一些細節如匿名、一人一票、時間限制等
 
 ## Action Items
 
