@@ -2,7 +2,7 @@
 [toc]
 ## Three Dimensional Secret
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a35a03cc14d617ddb5c66eef85890863.png)
-
+- 看到提示寫send printable secrets，應該是藏了
 - 打開wireshark ，右鍵tcp
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_47805aa8832f9ddafc0f9c99c2561232.png)
 - 打開tcp stream
