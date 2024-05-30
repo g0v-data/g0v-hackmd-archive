@@ -210,4 +210,6 @@
 3. 調整希望顯示於搜尋引擎的名稱、描述，以及縮圖。
 
 ### 10-2 Social Media Icon
-若需替換或新增，格式須為SVG。由於向量檔本身無大小描述，實際尺寸需在工具欄中定義（32x32）![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d5e0be8831e563b838357c9807deaa29.png)
+1. 在任一頁面的Footer區塊點擊兩下以進入母元件編輯區![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4a9713534b7bb84eba2d7113133f6586.png)
+2. 將**svg格式**(無大小規範)的logo圖檔拖到畫布空白處![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d17871d3661e54bd13fa94cc4ab0fb7d.png)
+3. 將logo拖曳進實際版面，並從右側找到Size區塊，將尺寸調整為32x32 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_68a4d78c60c02757e1d81a258a6dce78.png)
