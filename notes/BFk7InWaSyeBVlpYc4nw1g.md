@@ -34,3 +34,29 @@ tags: web3, Shoutout
 
 
 ## Meet開會文字頻道
+K Lai
+晚上9:19
+https://round3.optimism.io/projects?after=undefined&display=grid&sort=mostAwarded&search=&seed=1717075083547&categories=
+你
+晚上9:47
+https://app.galxe.com/quest
+你
+晚上9:49
+https://www.tfam.museum/Event/Event_page.aspx?id=3619&ddlLang=zh-tw
+Lucky Chen
+晚上10:13
+https://podcasts.apple.com/tw/podcast/%E5%AF%B6%E5%8D%9A%E6%9C%8B%E5%8F%8B%E8%AA%AA/id1484923390?i=1000654113193
+Gim Chuang
+晚上10:16
+https://neru.link/
+https://www.gq.com.tw/article/prototyp-elysiumshell-%E8%81%AF%E5%90%8D
+"每件單品都嵌入了 NFC 晶片技術「NeruLink」，將衣物轉化為一個互動的載體，展現了穿著與科技結合的無限可能。"
+Gim Chuang
+晚上10:18
+"NeruLink"
+https://neru.link/ 這個公司
+K Lai
+晚上10:29
+這次 refactor 主要要做的是各個 discord server 要能使用自己獨立的一個後端 server 對嗎?
+同時還有要加新功能或改善現有功能嗎?
+是說後端 server 是不是會有花費成本，不知道是會由厭學者負擔嗎?
