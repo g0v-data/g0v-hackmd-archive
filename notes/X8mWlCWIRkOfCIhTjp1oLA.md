@@ -453,6 +453,9 @@ https://www.facebook.com/share/p/PzwiRdy5t61WRBH5/
 彰師大附近 進德路標線改造工作坊
 https://www.facebook.com/share/p/kmQB4qVtSRErc1Mw/
 
+彰化 中華西路 曉陽路
+https://www.facebook.com/share/HjdDxYmUP6fw9Xut/?mibextid=WC7FNe
+
 彰化市三角公園
 https://www.facebook.com/ReTWRoad/photos/a.144368764239959/294776699199164/?type=3&mibextid=0cALme
 
