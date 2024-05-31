@@ -50,7 +50,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | --- | --- | --- |
 | [live demo] 麻瓜也能輕鬆上手的離線 app 大補帖 - [Butter Box](https://likebutter.app/) | Paul | to be added |
 | 避難所資訊統整 | ronny | [全台防災/防空避難所大統整](/UNg_8F3FTuynAwbV7flp-w) |
-| 自由填寫 | 自由填寫 | 自由向下新增行列 |
+| Meshtastic 傳教 | Sean | live demo 歡迎大家來玩 |
 
 
 # Butter Box

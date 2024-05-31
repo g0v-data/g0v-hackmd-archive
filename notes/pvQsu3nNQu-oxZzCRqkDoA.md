@@ -23,6 +23,7 @@ AIS3{b4d1y_tun3d_PriN73r}
 http://chals1.ais3.org:5000
 ```
 - 提示寫說cmd injection, 要善用截斷字元
+- 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bcff412e5788038052011223f19b06c6.png)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_00f90f0cf4aa9dd71e0853f3314bbf12.png)
