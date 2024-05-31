@@ -59,10 +59,10 @@ https://whisperx-api/queue?url={mp4_or_wav_url}&callback={done_url}&key={key_for
 	> 那麼後天見囉😊
 	>
 	> 比鄰敬上
-    - [ ] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
-	- [ ] 準備 Slido `#cofacts42`
-		- [ ] 放投影片網址
-    - [ ] 幫 Netgear 充電
+    - [x] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
+	- [x] 準備 Slido `#cofacts`
+		- [x] 放投影片網址
+    - [x] 幫 Netgear 充電
 - 當日準備 / 攜帶
     - [ ] 樓下用的標語 - orz
     - [ ] 貼紙 - orz, bil
@@ -92,7 +92,7 @@ https://whisperx-api/queue?url={mp4_or_wav_url}&callback={done_url}&key={key_for
   - [ ] 麥克風
   - [ ] 延長線佈置
   - [ ] 門口黏引導牌
-  - [ ] Slido - 白板寫 slido room number `#cofacts42`
+  - [ ] Slido - 白板寫 slido room number `#cofacts`
   - [ ] WIFI
       - [ ] 佈機x2
       - [ ] 連結 netgear 與 asus WAN port
@@ -103,9 +103,9 @@ https://whisperx-api/queue?url={mp4_or_wav_url}&callback={done_url}&key={key_for
   - [ ] 投影的電腦用 google chrome 開好
     - [ ] Google Chrome tab: [投影片](https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit)
     - [ ] Google Chrome tab: [Bignum](https://cofacts.github.io/community-builder/#/bignum/setup)
-    - [ ] Google Chrome tab: [KKTIX](https://cofacts.kktix.cc/events/cofactseditor40)
-    - [ ] Google Chrome tab: [Slido admin](https://wall.sli.do/event/8SsE7k5tiiGy1FWA4hYMhi?section=ab7f5336-effb-42cb-9d6a-f4da9324a066)
-    - [ ] Google Chrome tab: [Slido](https://wall.sli.do/event/nm76YwhjPaWEMvAgvELMLp?section=1b43b8ac-95c8-4b6a-8b21-1f92464b0c21)
+    - [ ] Google Chrome tab: [KKTIX](https://cofacts.kktix.cc/events/cofactseditor42)
+    - [ ] Google Chrome tab: [Slido admin](https://admin.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/questions)
+    - [ ] Google Chrome tab: [Slido](https://wall.sli.do/event/rFQZd27cVvgEMyJAgv4BqT?section=215e56d0-a002-4b7e-9bf0-c58acbacc9bf)
     - [ ] Google Chrome tab: [開場影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs)
     - [ ] BGM
     - [ ] Analytics
