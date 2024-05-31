@@ -38,7 +38,7 @@ https://whisperx-api/queue?url={mp4_or_wav_url}&callback={done_url}&key={key_for
 ## 小聚 Rundown
 
 - 週五早上
-    - [ ] KKTIX 行前通知：提醒時間、使用電腦而非手機
+    - [x] KKTIX 行前通知：提醒時間、使用電腦而非手機
     > Hello 你好，
 	>
 	> 本週六就是 6 月 1 日的志工培訓囉！
