@@ -1,7 +1,7 @@
 ---
 tags: vtaiwan 
 ---
-# 0603 小松
+# 0605 小松
 時間 Time ：19:00-21:00
 地點 Location ：線上 Online
 參與者 Participants：josh, peter, 家翎, RR, YuTin 
@@ -21,4 +21,6 @@ tags: vtaiwan
 - 工作坊要用的[ppt](https://docs.google.com/presentation/d/19rbhfHLOXnx4Wk2ZHIzlBuVW1ZINoIr1eY7sLlXO3yU/edit?usp=sharing) 
 - [vTaiwan in TicTEC 2024](/_fWuILaRSv-h3FQsXSLxaQ)
 - [vTaiwan 到 TicTec分享](/kBtFem_KRB-2PphaR-vcBQ)
-### 工作坊 rundown (共計 1h20m)
+
+## 翊婷研究
+- 
