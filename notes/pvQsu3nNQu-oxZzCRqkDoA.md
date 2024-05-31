@@ -2,12 +2,12 @@
 [toc]
 ## Three Dimensional Secret
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a35a03cc14d617ddb5c66eef85890863.png)
-- 看到提示寫send printable secrets，應該是藏了
-- 打開wireshark ，右鍵tcp
+- 看到提示寫send printable secrets，應該是藏了什麼可下載的東東?
+- 打開wireshark
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_47805aa8832f9ddafc0f9c99c2561232.png)
-- 打開tcp stream
+- 按照以往打wireshark的題目，先檢查stream裡面有沒有藏東西(右鍵tcp -->打開tcp stream)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_eb1b35cd386118283901f26f6d489dde.png)
-- 發現一堆GCode
+- 還真發現了GCode，還好之前打piccoCTF的題目時有碰過
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_81cd9ed2505fc6fcc1df79fc396ca3f3.png)
 - 把它儲存成文字檔
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_39c57f178bdfaf6418aa45769aa1cf60.png)
@@ -38,7 +38,7 @@ AIS3{🫵🪡🉐🤙🤙🤙👉👉🚩👈👈}
 ```
 nc chals1.ais3.org 40004
 ```
-- 直接開始遊戲!
+- 根據提示(不用按照既定的遊戲規則走！多玩遊戲也許在無意間能找出解法)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8be4b7eb88c188173ba05774a370c95a.png)
 
 - 第一輪先規規矩矩的照著遊戲規則走
