@@ -13,15 +13,9 @@ We will discuss additional use cases for cascade layers later. In the meantime, 
 ```html
 <body>
   <ul>
-    <li class="item feature">
-      Item one
-    </li>
-    <li class="item">
-      Item two
-    </li>
-    <li class="item">
-      Item three
-    </li>
+    <li class="item feature">Item one</li>
+    <li class="item">Item two</li>
+    <li class="item">Item three</li>
   </ul>
 </body>
 ```
@@ -30,15 +24,15 @@ The code above defines an unordered list `<ul>` with three list items `<li>,` ea
 @layer base, special;
 
 @layer special {
-    .feature {
-        font-weight: bold;
-    }
+  .feature {
+    font-weight: bold;
+  }
 }
 
 @layer base {
-    .item {
-        color: blue;
-    }
+  .item {
+    color: blue;
+  }
 }
 ```
 This code organizes CSS styles into two layers, with the `base` layer setting the text color of elements with the class `.item` to blue, and the `special` layer setting the font weight of elements with the class `.feature` to bold.
@@ -55,15 +49,9 @@ The `revert-layer` keyword in CSS allows a property to revert to the value of th
 <body>
   <h1>Test Subject</h1>
   <ul>
-    <li class="item feature">
-      Subject one
-    </li>
-    <li class="item">
-      Subject two
-    </li>
-    <li class="item">
-      Subject three
-    </li>
+    <li class="item feature">Subject one</li>
+    <li class="item">Subject two</li>
+    <li class="item">Subject three</li>
   </ul>
 </body>
 ```
@@ -122,21 +110,21 @@ To implement the `revert-layer` keyword, add the styles below:
 @layer base, special;
 
 @layer special {
-    .item {
-        color: orange;
-    }
-    .feature {
-        color: revert-layer;
-    }
+  .item {
+    color: orange;
+  }
+  .feature {
+    color: revert-layer;
+  }
 }
 
 @layer base {
-    .item {
-        color: blue;
-    }
-    .feature {
-        color: green;
-    }
+  .item {
+    color: blue;
+  }
+  .feature {
+    color: green;
+  }
 }
 ```
 In our `special` layer, we set the color to the value of `revert-layer` in the selector for the `.feature` item.
@@ -154,15 +142,9 @@ Additionally, if we remove the `.feature` selector from `@layer base`, the item 
 On the other hand, if there’s no matching selector property, the style reverts or rolls back to the browser's default origin styles. Please refer to the following HTML:
 ```html
 <ul>
-  <li class="feature">
-    Subject one
-  </li>
-  <li class="item">
-    Subject two
-  </li>
-  <li class="item">
-    Subject three
-  </li>
+  <li class="feature">Subject one</li>
+  <li class="item">Subject two</li>
+  <li class="item">Subject three</li>
 </ul>
 ```
 This code creates an unordered list with three list items, where the first item has the class `feature` and the second and third items have the class `item`.
@@ -172,18 +154,18 @@ Below we have the CSS:
 @layer base, special;
 
 @layer special {
-    .item {
-        color: orange;
-    }
-    .feature {
-        color: revert-layer;
-    }
+  .item {
+    color: orange;
+  }
+  .feature {
+    color: revert-layer;
+  }
 }
 
 @layer base {
-    .item {
-        color: blue;
-    }
+  .item {
+    color: blue;
+  }
 }
 ```
 The CSS code above defines two layers, `base` and `special`, where `special` sets `.item` color to orange and `.feature` color to `revert-layer`, causing it to revert to the `.feature` color in `base`, which sets `.item` color to blue.
@@ -204,7 +186,7 @@ First we write out our HTML code:
 ```html
 <body>
   <p class="text">Modular Button</p>
-    <button class="button">Submit</button>
+  <button class="button">Submit</button>
 </body>
 ```
 This code creates a paragraph with the text "Modular Button" styled with the `text` class, followed by a "Submit" button styled with the `button` class.
@@ -214,25 +196,25 @@ Now we write out our CSS code
 @layer base, special;
 
 @layer base {
-    .button {
-        background-color: purple;
-        color: white;
-        padding: 10px 30px;
-        border: none;
-        border-radius: 5px;
-        cursor: pointer;
-    }
+  .button {
+    background-color: purple;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
 }
 
 @layer special {
-    .button {
-        background-color: revert-layer;
-        color: revert-layer;
-        border: revert-layer;
-        border-radius: revert-layer;
-        cursor: revert-layer;
-        padding: 8px 20px;
-    }
+  .button {
+    background-color: revert-layer;
+    color: revert-layer;
+    border: revert-layer;
+    border-radius: revert-layer;
+    cursor: revert-layer;
+    padding: 8px 20px;
+  }
 }
 ```
 This CSS code defines two layers, `base` and `special`, where the `base` layer sets the default styles for the `.button` class, and the `special` layer partially overrides these styles while using `revert-layer` to revert certain properties back to their values from the `base` layer.
@@ -249,15 +231,9 @@ First, here's how the `revert` keyword is used:
 ```html
 <body>
   <ul>
-    <li class="item feature">
-      Item one
-    </li>
-    <li class="item">
-      Item two
-    </li>
-    <li class="item">
-      Item three
-    </li>
+    <li class="item feature">Item one</li>
+    <li class="item">Item two</li>
+    <li class="item">Item three</li>
   </ul>
 </body>
 ```
@@ -266,17 +242,17 @@ The HTML code above creates an unordered list with three items. The first item h
 @layer base, special;
 
 @layer special {
-    .item {
-        color: red;
-    }
-    .feature {
-        color: revert;
-    }
+  .item {
+    color: red;
+  }
+  .feature {
+    color: revert;
+  }
 }
 @layer base {
-    .item {
-        color: blue;
-    }
+  .item {
+    color: blue;
+  }
 }
 ```
 This CSS code defines two layers, `base` and `special`, where `special` sets `.item` color to red and `.feature` color to revert to its default, while `base` sets `.item` color to blue.
@@ -294,15 +270,9 @@ We will just make use of the previous HTML code written earlier for this example
 ```html
 <body>
   <ul>
-    <li class="item feature">
-      Item one
-    </li>
-    <li class="item">
-      Item two
-    </li>
-    <li class="item">
-      Item three
-    </li>
+    <li class="item feature">Item one</li>
+    <li class="item">Item two</li>
+    <li class="item">Item three</li>
   </ul>
 </body>
 ```
@@ -313,21 +283,21 @@ Now we take a look at the css code below carrying the function of the `revert-la
 @layer base, special;
 
 @layer base {
-    .item {
-        color: blue;
-    }
-    .feature {
-        color: blue; /* Base layer sets feature to blue */
-    }
+  .item {
+    color: blue;
+  }
+  .feature {
+    color: blue; /* Base layer sets feature to blue */
+  }
 }
 
 @layer special {
-    .item {
-        color: red;
-    }
-    .feature {
-        color: revert-layer; /* Reverts to the base layer's color */
-    }
+  .item {
+    color: red;
+  }
+  .feature {
+    color: revert-layer; /* Reverts to the base layer's color */
+  }
 }
 ```
 The CSS code above defines two layers, `base` and `special`. In the `base` layer, the `.item` and `.feature` classes are styled blue. In the `special` layer, the `.item` class is styled red. When using the `revert-layer` keyword, the `.feature` item will be styled blue because it reverts the styles back to the previous layer, which, in our case, is the `base` layer where the item is styled blue. Here’s the result:
@@ -338,15 +308,9 @@ First lets write out our HTML code:
 ```html
 <body>
   <ul>
-    <li class="item feature">
-      Item one
-    </li>
-    <li class="item">
-      Item two
-    </li>
-    <li class="item">
-      Item three
-    </li>
+    <li class="item feature">Item one</li>
+    <li class="item">Item two</li>
+    <li class="item">Item three</li>
   </ul>
 </body>
 ```
@@ -354,24 +318,24 @@ The code above shows an unordered list with three items, where the first item ha
 ```css
 &,
 * {
-    all: revert;
+  all: revert;
 }
 
 @layer base, special;
 
 @layer special {
-    .item {
-        color: red;
-    }
-    .feature {
-        color: revert-layer;
-    }
+  .item {
+    color: red;
+  }
+  .feature {
+    color: revert-layer;
+  }
 }
 
 @layer base {
-    .item {
-        color: blue;
-    }
+  .item {
+    color: blue;
+  }
 }
 ```
 This CSS code resets all elements to their default styles using `all: revert`, then defines two layers (`base` and `special`) where the `.item` class is styled blue in the `base` layer and red in the `special` layer, and the `.feature` class reverts to the `base` layer's blue color. The image below shows the result of the code above:
@@ -389,15 +353,9 @@ First we write out our HTML code just like the previous
 ```html
 <body>
   <ul>
-    <li class="item feature">
-      Item one
-    </li>
-    <li class="item">
-      Item two
-    </li>
-    <li class="item">
-      Item three
-    </li>
+    <li class="item feature">Item one</li>
+    <li class="item">Item two</li>
+    <li class="item">Item three</li>
   </ul>
 </body>
 ```
@@ -408,24 +366,24 @@ Now lets look into the css code:
 @layer oldStyles, newStyles;
 
 @layer oldStyles {
-    .item {
-        color: green;
-    }
-    .feature {
-        color: #464646;
-    }
+  .item {
+    color: green;
+  }
+  .feature {
+    color: #464646;
+  }
 }
 
 @layer newStyles {
-    &,
-    * {
-        all: revert-layer;
-    }
-  
+  &,
+  * {
+    all: revert-layer;
+  }
+
   /* ... new styles here */
-    .feature {
-        color: blue;
-    }
+  .feature {
+    color: blue;
+  }
 }
 ```
 This CSS code defines two layers, `oldStyles` and `newStyles`, where the `.item` and `.feature` classes are styled in `oldStyles` with green and dark gray colors, respectively. In the `newStyles` layer, all styles revert to the previous layer (`oldStyles`), but the `.feature` class is then specifically styled with a blue color. The result is shown below:
