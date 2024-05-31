@@ -53,6 +53,9 @@ Amplifying Voices: Talk to the City in Taiwan
 - https://ai-assembly.tw/
 - https://www.facebook.com/permalink.php?story_fbid=pfbid02t683jJh12pGAapyDyT2fa2jgTFZH8pq28KEdNogdaWdvMcGXTisfLviMzAaVAnJJl&id=100005959082408
 
+日文
+- https://www.facebook.com/share/p/ddHnJ7Bm14vctWoT/
+
 ## 民眾意見分群分類
 
 ### 留言 Sample 

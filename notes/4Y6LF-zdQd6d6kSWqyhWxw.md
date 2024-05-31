@@ -38,6 +38,10 @@ https://github.com/kuscsik/v4l-utils/blob/master/utils/v4l2-ctl/v4l2-ctl-subdev.
 https://wiki.st.com/stm32mpu/index.php?title=STM32MP13_V4L2_camera_overview&oldid=89014
 https://elixir.bootlin.com/linux/v3.2/source/drivers/media/video/v4l2-subdev.c#L275
 https://wiki.luckfox.com/zh/Luckfox-Pico/Luckfox-Pico-V4L2/
+https://www.kernel.org/doc/html/v4.9/media/uapi/v4l/vidioc-subdev-g-frame-interval.html#c.v4l2_subdev_frame_interval
+https://linuxtv.org/downloads/v4l-dvb-apis/
+https://emb.hqyj.com/Column/Column409.htm
+https://dri.freedesktop.org/docs/drm/userspace-api/media/v4l/func-mmap.html
 -----dpkg-----
 https://doc.embedfire.com/linux/rk356x/build_and_deploy/zh/latest/building_image/make_pakage_of_deb/make_pakage_of_deb.html
 https://blog.csdn.net/weixin_43824344/article/details/120694693
