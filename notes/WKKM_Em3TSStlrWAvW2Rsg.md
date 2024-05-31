@@ -243,3 +243,45 @@ Report a Non-Manufacturing Incident - ITNow (service-now.com)
 說是哪一台" " 
 
 哪個帳號" "要開遠端權限
+
+
+
+有調整MAc了 請在試看看
+ 
+若還有問題就帶到IT2GO喔
+ 
+我們目前只確認muwifi能用喔  
+ 
+其他的需要反應給project team
+
+
+
+提醒同仁請儘快轉換IPAD, 
+
+轉換問題可以和我或Bryant Dong [ CONT-Type2-WELL TAKE COMPUTER CO LTD ],麻煩了
+
+4月底SERVER即將下線,屆時若未完成轉換,無法使用IPAD
+
+
+謝謝
+
+Date: 2024/5/28;
+Ticket Type: Taiwan_Network_Port;
+Item: Complete IP allocation (MTB)
+
+
+Date: 2024/5/30;
+Ticket Type: MTB_PC_Relocation;
+Item: Complete, user has no other needs
+
+Date: 2024/5/30;
+Ticket Type: MTB_PC_Rename;
+Item: Complete, user has no other needs
+
+Date: 2024/5/31;
+Ticket Type: MTB_Vendor_Tool_PC_Setup;
+Item: Linux syetem
+
+Date: 2024/5/31;
+Ticket Type: MTB_Vendor_Tool_PC_Setup;
+Item: Printer Relocation
