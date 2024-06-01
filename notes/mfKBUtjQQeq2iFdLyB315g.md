@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/g0v/style-guide/gh-pages/logo/png/g0v-l
 - [關於國會松](/Y6A2Ox-YRDS6ixtYw1BuoA)
 - [g0v 國會相關專案](/aa3ckptzS-CKinhmKCO7rA)
 - [開放國會行動方案](/S7ayQ2mcSs2nRpDjx451og)
+- [國會松注意事項](/QGEtEn83Toy8n_aui13EXA)
 
 ## 歷次活動
 - [20171125 全球開放立法松](https://g0v.hackmd.io/s7qHh_0oRWegAAGzVNtJXQ)

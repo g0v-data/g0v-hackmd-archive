@@ -3,7 +3,10 @@ tags: 國會松
 ---
 # 關於2024國會松
 
-
+### 本共筆 QRCode
+https://s.g0v.tw/congressth0n
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_855eda1d43b9514aa000812ffa921e3e.png)
+        
 ### 回到初心
 
 g0v 社群 2012 年的第零場黑客松，以大量國會相關專案群起家。在研究立法流程、對應資料治理、開放資料定義、與公部門溝通、和研發 prototype，前仆後繼開源貢獻，一直至今。
