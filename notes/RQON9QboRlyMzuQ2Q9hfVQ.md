@@ -201,7 +201,7 @@
 - 國安局長：蔡明彥
   - [四科技公司助華為建廠 國安局：未涉我國科技管制項目](https://udn.com/news/story/10930/7482983)
   - 國安基礎建設：國安局報告以「全災害」風險角度指出，關鍵基礎設施潛存威脅主要在天然災害、人為危安、資安攻擊等三方面。國安局明確指出中共網軍持續透過進階持續性滲透，而人為的危安，國安局舉出2017年8/15大停電、2023年桃園機場電纜遭剪斷等實例，為了「內防突變、外防突襲」，必須強化人員查核與杜絕滲透。[國安會報告報導](https://tw.news.yahoo.com/國家關鍵基礎設施遇新型態風險威脅-國安局報告-強化人員安全查核-074740625.html)
-  - [台馬電纜列入關鍵基礎設施](https://www.mirrormedia.mg/story/20240529soc004)
+      - [台馬電纜列入關鍵基礎設施](https://www.mirrormedia.mg/story/20240529soc004)
 
 
 - 國史館館長：陳儀深
@@ -223,37 +223,53 @@
 2. 數位治理委員會推薦范雲委員成為會長，副會長由立委林楚茵、賴品妤、吳思瑤、蘇巧慧、陳柏惟委員擔任
 
 - 丁學忠	TINGHsueh-Chung	男	中國國民黨  無
+  - 虎尾科大碩士、基層民代出身。雲林縣第1選舉區選區立委
   - 查無
 - 牛煦庭	NIU，Hsu-Ting	男	中國國民黨 無
+  - LSE 政治學碩士、市議員出身。桃園市第1選舉區選區立委
   - 查無
 - 王世堅	WANGSHIH-CHIEN	男	民主進步黨
+  - 文化大學應用化學所碩士，市議員出身。臺北市第2選舉區選區立委
   - 查無
 - 王正旭	WANGCHENG-HSU	男	民主進步黨
+    - 陽明公衛博士，曾任癌症希望基金會董事長，民進黨不分區
   - [數位幫忙助醫病共享決策](https://health.udn.com/health/story/7421/4185135)
 - 王定宇	WANGTING-YU	男	民主進步黨
-  -[科技保護法] (https://news.ltn.com.tw/news/focus/paper/1210022)
+  - 北大國企系博士，民進黨黨職出身。臺南市第6選舉區。
+  -  [科技保護法] (https://news.ltn.com.tw/news/focus/paper/1210022)
+  - 資通安全管理法修法，贊成應該[明列中國](https://news.ltn.com.tw/news/politics/breakingnews/4404566)
+  - [認為國家安全重點在資安與網路攻擊](https://today.line.me/tw/v2/article/l2M7oLW)
 - 王育敏	YU MIN WANG	女	中國國民黨
-  - 查無
+  - 東海社會系碩士，國民黨不分區。
+  - 查無。
 - 王美惠	WangMei-Hui	女	民主進步黨
-  - 查無
+    - 嘉義大學管理碩士，嘉義市選舉區。
+  - 查無。
 - 王鴻薇	wang hung wei	女	中國國民黨
-  - 查無
+  - 政治大學新聞系，臺北市第3選舉區。
+  - 查無。
 - 伍麗華   Saidhai‧Tahovecahe	WuLi-Hua	女	民主進步黨
-  - 查無
+  - 查無。
 - 江啟臣	CHIANG CHI-CHEN	男	中國國民黨
-    - [全民防衛動員大修 江啟臣質疑數位中介借殼上市](https://tw.news.yahoo.com/全民防衛動員大修-江啟臣質疑數位中介借殼上市-094304351.html)
+    - 美國南卡羅萊納大學國際關係博士，臺中市第8選舉區。
+    - [全民防衛動員大修 江啟臣質疑數位中介法借殼上市](https://tw.news.yahoo.com/全民防衛動員大修-江啟臣質疑數位中介借殼上市-094304351.html)
     - [成立數位黨部 江啟臣：國民黨絕非老化政黨](https://tw.sports.yahoo.com/news/成立數位黨部-江啟臣-國民黨絕非老化政黨-070724492.html)
+    - [外交部機敏文件外洩，要求加強資安](https://udn.com/news/story/6656/7341002)
 - 何欣純	HO HSIN-CHUN	女	民主進步黨
-  - 查無
+  - 英國約克大學婦女研究碩士，臺中市第7選舉區
   - eID [憂數位身分證被中國滲透 綠委呼籲暫緩換發](https://www.cna.com.tw/news/aipl/202011170102.aspx)
 - 吳沛憶	WUPEI-YI	女	民主進步黨
+    - 清華大學社研所碩士，臺北市第5選舉區。民代出身。
   - 上任時表態會參與[開放國會](https://tw.news.yahoo.com/%E6%96%B0%E5%9C%8B%E6%9C%83-%E9%BB%83%E6%8D%B7%E5%88%A5%E5%BD%A9%E8%99%B9%E8%83%B8%E9%87%9D-%E7%A9%BF-%E5%8D%B1%E5%B4%96%E6%9C%89%E8%8A%B1-%E8%B5%B0%E7%B4%85%E6%AF%AF%E5%B0%B1%E8%81%B7-050415608.html)
+  - 立委吳沛憶盼國科會支持透過科技阻斷非法性影像散布的相關研究，國科會副主委林敏聰今（11）日回應，已經在規劃，將召集數位、兒少等跨領域專家，組成團隊，加速進行相關研究。[新聞來源](https://tw.news.yahoo.com/國科會研議用科技阻斷兒少性影像散布-062534022.html)
 - 吳宗憲	WuTsung-Hsien	男	中國國民黨 
+    - 東海大學法律研究所碩士、國立台灣大學工業工程碩士，國民黨不分區
     - 人工智慧法律國際研究基金會副執行長
     - [領銜提案「人工智慧基本法草案」(新)](https://lis.ly.gov.tw/lygazettec/mtcdoc?PD110109:LCEWA01_110109_00007)
+    - [成立全球AI應用發展促進協會](https://ec.ltn.com.tw/article/breakingnews/4639108)
 - 吳秉叡	WuPing-Jui	男	民主進步黨
     - [同蔡其昌等人提案「資通安全管理法部分條文修正草案」](https://https://lis.ly.gov.tw/lygazettec/mtcdoc?PD110114:LCE01_110114_00071)
-    - 查無
+    - [強調科技偵查法制的重要](https://tw.news.yahoo.com/打詐研討會納虛擬貨幣-郭國文認同劍青檢改-分級管理-主張-111144910.html)
 - 吳思瑤	Wu Szu-Yao	女	民主進步黨
     - N/A
 - 吳春城	WU CHUN-CHENG	男	台灣民眾黨 
@@ -311,6 +327,7 @@
   - 有參與過 [vTaiwan AI 與人權相關審議活動](https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/DIforAIvTaiwanxChatham)
   - 關切馬祖斷網 [民進黨立委洪申翰：馬祖海纜遭中國船勾斷難咎責](https://watchout.tw/reports/1KULNiq1L6wUrUwIHIus)
 - 洪孟楷	HungMong-Kai	男	中國國民黨
+  - [推動「人工智慧基本法」](https://lis.ly.gov.tw/lygazettec/mtcdoc?PD110111:LCEWA01_110111_00119)
 - 范雲	Yun FAN	女	民主進步黨
   - 立法院 數位治理委員會 前會長
   - eID
@@ -349,6 +366,7 @@
 - 許智傑	HSUCHIH-CHIEH	男	民主進步黨
 - 郭昱晴	Kuo Yu Ching	女	民主進步黨
 - 郭國文	Kuo Kuo-Wen	男	民主進步黨
+    - [在虛擬貨幣管制上主張「廣度管理」比「深度管理」更重要](https://tw.news.yahoo.com/打詐研討會納虛擬貨幣-郭國文認同劍青檢改-分級管理-主張-111144910.html)
 - 陳永康	CHEN YEONG-KANG	男	中國國民黨
 - 陳玉珍	ChenYu-Jen	女	中國國民黨
 - 陳秀寳	CHEN HSIU-PAO	女	民主進步黨
@@ -393,6 +411,7 @@
 - 葛如鈞	KO JU-CHUN	男	中國國民黨
   - 寶博士 / 電通行銷傳播集團 Web3 成長顧問 
   - 國立臺灣大學資訊網路與多媒體研究所資訊工程學博士
+  -  [推動「人工智慧基本法」](https://lis.ly.gov.tw/lygazettec/mtcdoc?PD110111:LCEWA01_110111_00119)
 
 - 廖先翔	LIAO Hsien Hsiang	男	中國國民黨
   - 元智大學電機工程學系
