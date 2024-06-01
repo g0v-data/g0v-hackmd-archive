@@ -271,17 +271,27 @@
     - [同蔡其昌等人提案「資通安全管理法部分條文修正草案」](https://https://lis.ly.gov.tw/lygazettec/mtcdoc?PD110114:LCE01_110114_00071)
     - [強調科技偵查法制的重要](https://tw.news.yahoo.com/打詐研討會納虛擬貨幣-郭國文認同劍青檢改-分級管理-主張-111144910.html)
 - 吳思瑤	Wu Szu-Yao	女	民主進步黨
-    - N/A
+    - 台大政研所碩士，臺北市第1選舉區，民代出身。
+    - 查無。
 - 吳春城	WU CHUN-CHENG	男	台灣民眾黨 
+    - 復旦大學管理學博士，民眾黨不分區
     - 戰國策傳播集團創辦人
 - 吳琪銘	wu chi-ming	男	民主進步黨
+    - 世新大學企業管理學系碩士，新北市第10選舉區
+    - [政見包含爭取推動AI科技廊道](https://news.ltn.com.tw/news/politics/breakingnews/4508345)
 - 呂玉玲	LU YU-LING	女	中國國民黨
+    - 桃園市第5選舉區
 - 李坤城	LEE KUEN-CHENG	男	民主進步黨
+    - 政大社研所，新北市第3選舉區
+    - [提案「電信法修正草案」](https://lis.ly.gov.tw/lylegisc/lylegiskmout?.75d021F00010000000140010000002^000000000050000005101600041ce)
+    - [提案「電信法管理法修正草案」](https://lis.ly.gov.tw/lylegisc/lylegiskmout?.75d021F00010000000140010000002^000000000040000005101600041ca)
 - 李昆澤	Lee Kun-Tse	男	民主進步黨 
-    - 電器維修工
+    - 電器維修工，高雄市第5選舉區
     - [今天先在交通委員會質詢NCC網路自律機制](https://m.facebook.com/story.php/?story_fbid=1388379544596443&id=100043874841986)
+    - 質詢數位部經費：數位部113年委辦費預算共編列2億8千多萬，相較112年，增加1億2千多萬元，增加比例高達8成。另113年派員出國計畫經費，共編列3,733萬元，比112年度編列1,408萬元，增加2,325萬元，增幅高達165%，項目從23項變成34項。數位部必須研議這些出國計畫的必要性，以及是否可改採視訊或通訊會議的可能性。[新聞連結](https://today.line.me/tw/v2/article/JP9Qv17)
 - 李彥秀	LEE YEN HSIU	女	中國國民黨
 - 李柏毅	Lee Po Yi	男	民主進步黨
+  - [提案「資通安全管理法」](https://lis.ly.gov.tw/lylegisc/lylegiskmout?.335d005E00001000000001000000000020^0000100043000050008A040b3)
 - 沈伯洋	Puma Shen	男	民主進步黨
   - 黑熊學院創辦人
   - Double Think Lab 理事長
@@ -303,6 +313,7 @@
 - 林國成	LinKuo-Chen	男	台灣民眾黨
   - 查無
 - 林淑芬	Lin Shu-Fen	女	民主進步黨
+  - [提案「科學技術基本法部分條文修正草案」](https://lis.ly.gov.tw/lylegisc/lylegiskmout?.ca210C0605000540000000002^00001000001010000000400075D90042ad)
 - 林楚茵	LIN CHU YIN	女	民主進步黨
   - 查無
 - 林德福	LIN TE FU	男	中國國民黨
@@ -458,5 +469,12 @@
   - [2016至2017年間曾經購買臉書案讚數](https://zh.wikipedia.org/zh-tw/%E7%BE%85%E6%99%BA%E5%BC%B7)
 - 蘇巧慧	SuChiao-Hui	女	民主進步黨
   - 立法院 數位治理委員會 前副會長
+  - [提案「資通安全管理法部分條文修正草案」](https://lis.ly.gov.tw/lylegisc/lylegiskmout?.f05c02AE0205000001400000000020^00000100020000000200061004246)
+  - [提案「太空發展法部分條文修正草案」](https://lis.ly.gov.tw/lylegisc/lylegiskmout?.27bf0002A16000400000000021000000100000^200000004060500AE4227)
+  - [提案「國家太空發展院設置條例草案」](https://lis.ly.gov.tw/lylegisc/lylegiskmout?.27bf0002A16000400000000051000000100000^200000004040500AE4235)
+  - [提案「量子科技研究及發展條例草案」](https://lis.ly.gov.tw/lylegisc/lylegiskmout?.926b0021E00500010000000000000^02000001004117000004D006A0430d)
+  - [提案「太空發展法草案」](https://lis.ly.gov.tw/lylegisc/lylegiskmout?.926b0021E00500010000000000000^020000010041A7000004D006A04358)
+  - [提案「政府資訊公開法」](https://lis.ly.gov.tw/lylegisc/lylegiskmout?.926b0021E00500010000000000000^020000010041F9000004D006A04379)
+  - [提案「金融科技創新發展條例草案」](https://lis.ly.gov.tw/lylegisc/lylegiskmout?.cc4500E0D05000B7400000000020^000010000100001000400061A20433f)
 - 蘇清泉	SU CHING CHUAN	男	中國國民黨
   - 無
