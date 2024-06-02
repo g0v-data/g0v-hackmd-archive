@@ -497,7 +497,8 @@ https://www.facebook.com/photo.php?fbid=992418499074971&set=a.601575628159262&ty
 臺南高鐵附近，行穿線沒有斜坡進入實體人行道
 https://www.facebook.com/story.php?story_fbid=10160372095968462&id=536028461
 
-臺南圓環
+臺南圓環 湯德章
+https://www.facebook.com/share/WmQcSEXdK1PpbKuH/
 https://www.facebook.com/story.php?story_fbid=pfbid02VzU6EfVoy2wUnQAKVFazizuWEncBqwvmV9pcAWaPTtBhrD3mETN7WMsSWhpPAH6Gl&id=100064848694500&mibextid=qC1gEa
 
 臺南 成功路忠義路口
