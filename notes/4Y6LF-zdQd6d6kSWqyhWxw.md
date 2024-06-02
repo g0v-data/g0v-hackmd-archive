@@ -29,17 +29,9 @@ v4l2-capture:
 印出訊息 -> echo 0xffff > /sys/module/uvcvideo/parameters/trace
 v4l2-ctl -d /dev/v4l-subdev2 <command line>
 待整理：
-https://doc.rvspace.org/VisionFive2/Developing_and_Porting_Guide/JH7110_SDK_DG_Camera/JH7110_DevKit_QSG/DG/media_ctl_fmt_size.html
-https://neucrack.com/p/466
-https://blog.csdn.net/itcolossus/article/details/121662609
-https://blog.csdn.net/ldl617/article/details/115063305
-https://www.cnblogs.com/arnoldlu/p/18111445
-https://github.com/kuscsik/v4l-utils/blob/master/utils/v4l2-ctl/v4l2-ctl-subdev.cpp
-https://wiki.st.com/stm32mpu/index.php?title=STM32MP13_V4L2_camera_overview&oldid=89014
-https://elixir.bootlin.com/linux/v3.2/source/drivers/media/video/v4l2-subdev.c#L275
-https://wiki.luckfox.com/zh/Luckfox-Pico/Luckfox-Pico-V4L2/
-https://www.kernel.org/doc/html/v4.9/media/uapi/v4l/vidioc-subdev-g-frame-interval.html#c.v4l2_subdev_frame_interval
-https://linuxtv.org/downloads/v4l-dvb-apis/
+
+
+
 https://emb.hqyj.com/Column/Column409.htm
 https://dri.freedesktop.org/docs/drm/userspace-api/media/v4l/func-mmap.html
 -----dpkg-----
@@ -55,9 +47,21 @@ https://blog.csdn.net/TyearLin/article/details/131726154
 https://zhaoxuhui.top/blog/2021/09/23/v4l2-introduction-and-usb-camera-bayer-raw-data.html
 https://developer.aliyun.com/article/1489668
 https://hackmd.io/@YungHuiHsu/ryhRTZpt3
+https://wiki.luckfox.com/zh/Luckfox-Pico/Luckfox-Pico-V4L2/
+v4l2-ctl-subdev源碼:
+https://github.com/kuscsik/v4l-utils/blob/master/utils/v4l2-ctl/v4l2-ctl-subdev.cpp
+https://elixir.bootlin.com/linux/v3.2/source/drivers/media/video/v4l2-subdev.c#L275
+kernel API:
+https://www.kernel.org/doc/html/v4.9/media/uapi/v4l/vidioc-subdev-g-frame-interval.html#c.v4l2_subdev_frame_interval
+https://linuxtv.org/downloads/v4l-dvb-apis/
+
+
 ```
 v4l2 底層流程
 ```
 https://blog.csdn.net/oqqYuJi12345678/article/details/93755475
 https://www.cnblogs.com/jliuxin/p/14129308.html
+https://www.cnblogs.com/arnoldlu/p/18111445
 https://blog.csdn.net/huang_165/article/details/86217004
+架構大全-> https://blog.csdn.net/ldl617/article/details/115063305
+https://wiki.st.com/stm32mpu/index.php?title=STM32MP13_V4L2_camera_overview&oldid=89014
