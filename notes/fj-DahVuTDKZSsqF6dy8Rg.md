@@ -55,3 +55,15 @@ https://drive.google.com/file/d/1JTSzIpO_f79fd1wUJhyfaJiS-x94wN8J/view
 - 19:04：API, chatbot, website 下線
 - 19:30 補上 Cloudflare rule [name=nonumpa]++
 - 20:04 發現網站已好，但 LINE bot 需要手動開啟
+
+## Mitigation
+
+把 site-zh 也改用 CloudRun?
+- 之前做一半後：https://g0v.hackmd.io/ulv1SGtBRWmhxnE9Lpv9TQ#Infra-Migrate-to-Cloudrun
+  - 目前 en + ja: 80 USD/mo
+- 不會因為 site 吃滿 linode 記憶體而倒站
+- 用 Cloudrun 內建 domain mapping
+  - 據說有 [latency issue](https://cloud.google.com/run/docs/issues#latency-domains)
+  - 但 site-ja 好像還好？
+- 切換 DNS 需要數小時
+- 放一週看 $$ 花多少
