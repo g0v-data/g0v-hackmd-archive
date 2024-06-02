@@ -28,12 +28,23 @@ https://docs.google.com/document/d/1ed8_p90gjxEp12Ce6PqjWh2FCVT0Pd-rkzPY5eBCVHk/
 
 ### 6/1
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9c33c75e95cccf15066192fdf647e5c7.png)
+https://drive.google.com/file/d/184sPI3OpZWuQf3KSfOetp0eL10W9WAJG/view?usp=drive_link
 
+- 16:17 ~ 16:40 攻擊 /article/2t9fyk7wka3e4 觸發 HTTP requests from known botnet (signature #1)
+  - 小聚期間，無人回報問題 XD
+- 
 
 ### 6/2
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_933c2fc3b4f6ab6c8755430c15400a30.png)
+
 https://drive.google.com/file/d/1JTSzIpO_f79fd1wUJhyfaJiS-x94wN8J/view
 
-- 18:32 ~ 18:38 : `/article/2cawqaqh128pl`；觸發 HTTP DDoS
-- 
+都是攻擊 `/article/2cawqaqh128pl`
 
+- 18:32 ~ 18:38：觸發 Cloudflare HTTP DDoS - known bot net (signature #1).
+- 18:59 ~ 19:03：觸發 Cloudflare HTTP DDoS - HTTP requests with unusual HTTP headers or URI path (signature #55)
+- 19:03 ~ 19:18：觸發 HTTP requests from known botnet (signature #1).
+- 19:04：API, chatbot, website 下線
+- 19:30 補上 Cloudflare rule [name=nonumpa]++
