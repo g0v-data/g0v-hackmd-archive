@@ -1,7 +1,7 @@
 ---
 tags: vtaiwan 
 ---
-# RightsCon 2025 Proposal 
+# RightsCon 2025 vTaiwan Proposal 
 
 ## Session title (in English)
 
@@ -12,9 +12,6 @@ Using vTaiwan to bridge stakeholders and AI.
 ### Facilitator:
 
 Peter (facilitator/ vTaiwan contributor)
-
-
-
 
 ## Session description (in English)
 
