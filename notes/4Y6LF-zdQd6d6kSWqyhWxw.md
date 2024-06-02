@@ -32,8 +32,7 @@ v4l2-ctl -d /dev/v4l-subdev2 <command line>
 
 
 
-https://emb.hqyj.com/Column/Column409.htm
-https://dri.freedesktop.org/docs/drm/userspace-api/media/v4l/func-mmap.html
+
 -----dpkg-----
 https://doc.embedfire.com/linux/rk356x/build_and_deploy/zh/latest/building_image/make_pakage_of_deb/make_pakage_of_deb.html
 https://blog.csdn.net/weixin_43824344/article/details/120694693
@@ -54,7 +53,7 @@ https://elixir.bootlin.com/linux/v3.2/source/drivers/media/video/v4l2-subdev.c#L
 kernel API:
 https://www.kernel.org/doc/html/v4.9/media/uapi/v4l/vidioc-subdev-g-frame-interval.html#c.v4l2_subdev_frame_interval
 https://linuxtv.org/downloads/v4l-dvb-apis/
-
+https://dri.freedesktop.org/docs/drm/userspace-api/media/v4l/func-mmap.html
 
 ```
 v4l2 底層流程
@@ -63,5 +62,8 @@ https://blog.csdn.net/oqqYuJi12345678/article/details/93755475
 https://www.cnblogs.com/jliuxin/p/14129308.html
 https://www.cnblogs.com/arnoldlu/p/18111445
 https://blog.csdn.net/huang_165/article/details/86217004
-架構大全-> https://blog.csdn.net/ldl617/article/details/115063305
+架構大全: 
+https://blog.csdn.net/ldl617/article/details/115063305
 https://wiki.st.com/stm32mpu/index.php?title=STM32MP13_V4L2_camera_overview&oldid=89014
+camera註冊詳解:
+https://emb.hqyj.com/Column/Column409.htm
