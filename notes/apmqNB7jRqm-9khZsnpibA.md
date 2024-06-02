@@ -2,7 +2,8 @@
 
 1. download cscope-15.1.tar.gz -> https://sourceforge.net/projects/cscope/
 2. tar xvzf cscope-15.1.tar.gz
-3. 
+3. tree 
+4. 
 
 
 
