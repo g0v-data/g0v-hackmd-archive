@@ -81,6 +81,9 @@ Open Bangkok Data Project
 飛地書店 นาวเฮีย บุ๊ค สโตร์ 
 https://www.facebook.com/100083617650405/posts/327151780082075/
 
+夜市
+https://www.facebook.com/share/p/WXzjZpztyWnQPvR8/
+
 [有電子全文] Underground Public Facility: Air pollution adaptation design approach due to the haze season, an opportunity for the development of a new public transportation plan in Chiang Mai, Thailand 地下公共設施：霧霾季節空氣污染適應設計方法，泰國清邁制定新公共交通規劃的契機
 https://photos.app.goo.gl/aeTGeVkeznmJJmhA9
 

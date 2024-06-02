@@ -21,8 +21,8 @@ Peter (facilitator/ vTaiwan contributor)
 
 
 
+
 ## How will participants continue to contribute and collaborate after the session ends?
 
 
 
-My session will primarily be conducted in Eng and 中文
