@@ -23,10 +23,10 @@ v4l2-capture:
 顯示詳細訊息 -> v4l2-ctl -d /dev/video0 --all
 查詢指定格式下支援分辨率 -> v4l2-ctl --list-framesizes=NV12 -d /dev/video0
 查詢鏡頭可用的分辨率 -> v4l2-ctl --list-formats-ext --device /dev/video0
-顯示鏡頭參數 -> v4l2-ctl -d /dev/video0 --list-ctrls
+列出鏡頭可控制參數 -> v4l2-ctl -d /dev/video0 --list-ctrls
 取得/dev/video* name -> cat /sys/class/video4linux/video*
 取得 v4l2 debug message -> echo 1 >/sys/class/video4linux/video0/debug
-
+印出訊息 -> echo 0xffff > /sys/module/uvcvideo/parameters/trace
 v4l2-ctl -d /dev/v4l-subdev2 <command line>
 待整理：
 https://doc.rvspace.org/VisionFive2/Developing_and_Porting_Guide/JH7110_SDK_DG_Camera/JH7110_DevKit_QSG/DG/media_ctl_fmt_size.html
