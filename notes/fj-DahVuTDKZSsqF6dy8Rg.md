@@ -33,7 +33,13 @@ https://drive.google.com/file/d/184sPI3OpZWuQf3KSfOetp0eL10W9WAJG/view?usp=drive
 
 - 16:17 ~ 16:40 攻擊 /article/2t9fyk7wka3e4 觸發 HTTP requests from known botnet (signature #1)
   - 小聚期間，無人回報問題 XD
-- 
+  - 14:18 monitor 有回報 site 短暫 520
+- 17:54 ~ 17:57 針對 /article/2cawqaqh128pl 攻擊
+  - 17:55 monitor 回報 site 短暫 520
+- 18:01 ~ 18:12 針對 /article/2cawqaqh128pl 攻擊兩波
+- 18:20 好像有一波隱形攻擊，僅部分被 Cloudflare 辨識，彈導致倒站 https://drive.google.com/file/d/1ZziuFMJQ_xah2kJL_MygF5qBG-Kuo-0P/view?usp=drive_link
+- 18:27 API, LINE bot, site down
+- 19:10 Recover by manually restart web server
 
 ### 6/2
 
@@ -48,3 +54,4 @@ https://drive.google.com/file/d/1JTSzIpO_f79fd1wUJhyfaJiS-x94wN8J/view
 - 19:03 ~ 19:18：觸發 HTTP requests from known botnet (signature #1).
 - 19:04：API, chatbot, website 下線
 - 19:30 補上 Cloudflare rule [name=nonumpa]++
+- 20:04 發現網站已好，但 LINE bot 需要手動開啟
