@@ -30,7 +30,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
     - 加入 [Slack 線上討論區](https://g0v.hackmd.io/fKrjZ3BlRfWmQ471wcSdBg) (辦帳號超快超簡單）
     - 安裝好後再點[ #civil-defense 頻道](https://app.slack.com/client/T02G2SXKM/C056EHM42B1)
 - 線上遠端與會連結 [請點此](https://meet.jit.si/g0v-digiresi)
-- [大合照！（連結待補）]()
+- [大合照！](https://chengpengtw-images-public.s3.ap-northeast-1.amazonaws.com/img/g0v-digiresith6n-group-photo-byPaul-CCBYSA.png)
 - [簡介數位韌性松資訊](https://gamma.app/public/-k2mshk2q40b53ck)
 :::
 
