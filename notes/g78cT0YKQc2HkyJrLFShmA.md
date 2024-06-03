@@ -78,7 +78,7 @@ http://www.ca.gov.mo/files/PA4119cn.pdf
 
 
 ## 佛系Q&A
-有咩問題，係呢度寫，時間到了，自然會有人回答你。或者去[澳門公務員Secrets](https://www.facebook.com/CivilServantSectets.macau)提問，都可以使用放大鏡搜尋過往相關的話題。又或者到呢度睇下收集的問題：[正苦工問題集](https://docs.google.com/document/d/1CMnw_J-lqW1LoAESxu-IrGieoqcqd14K9kXrRzfVHUY/edit?usp=sharing)。
+有咩問題，係呢度寫，時間到了，自然會有人回答你。或者去[澳門公務員Secrets](https://www.facebook.com/CivilServantSectets.macau) (已停止更新) 提問，都可以使用放大鏡搜尋過往相關的話題。又或者到呢度睇下收集的問題：[正苦工問題集](https://docs.google.com/document/d/1CMnw_J-lqW1LoAESxu-IrGieoqcqd14K9kXrRzfVHUY/edit?usp=sharing)。
 
 ### 問題
 答案
@@ -696,11 +696,11 @@ Google Sheet 範本：https://docs.google.com/spreadsheets/d/1i4Kq8Cl1fxQP1vJ4IP
 
 每月薪俸 = 職位級數相對應的點數 * 每點金額
 
-| 2023年<br />每點91元 | 入職點數 | 入職人工 | 最高點數 | 最高人工 |
+| 2024年<br />每點94元 | 入職點數 | 入職人工 | 最高點數 | 最高人工 |
 |:--------------:| --------:| -------- | --------:| -------- |
-|   技術輔導員   |      260 | 23,660   |      495 | 45,045   |
-|     技術員    |      350 | 31,850   |      620 | 56,420   |
-|   高級技術員   |      430 | 39,130   |      735 | 66,885   |
+|   技術輔導員   |      260 | 24,440   |      495 | 46,530   |
+|     技術員    |      350 | 32,900   |      620 | 58,280   |
+|   高級技術員   |      430 | 40,420   |      735 | 69,090   |
 
 過往加薪記錄：
 | 年份 | 每點價值 | 增加量 | 增加比率 | 通脹率[^DSEC_DATA] | 本地生產總值(億) | 本地生產總值<br />變動率 |
