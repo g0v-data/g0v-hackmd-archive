@@ -8,16 +8,27 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
+- NPO hub 出席： bil, mrorz, nonumpa
 - 線上出席：
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
 ## 小聚檢討
-https://g0v.hackmd.io/9yeDnDJqQTe7CklA7pwuEA
+小松果：https://g0v.hackmd.io/9yeDnDJqQTe7CklA7pwuEA
 
-- 照片內擺放方式：
+- 椅子架不能放超過數量的椅子
+  - 一邊 8 張，架子只能放 16 張
+  - **剩下的靠牆**
+- 杯子洗好可以放外面
+- 桌椅擺放方式：
+  - 見小松果照片
   - 桌子 3x3、平行於長邊
   - 一個桌子放 4 人，9x4=36 椅子
+- 直接用 Airplay 很順
+  - 一開始請大家連到 Cofacts，所以場地 wifi 很順
+  - 不知道為啥變慢，以前應該可以撐比較多人
+  - 額度也沒爆
+- 上限 36 人，報名 35 人，事前有寄信不能來的 3~4 人
 - 實際出席：最多 17 人 + 工作人員
 - 只有三條延長線，但要電的人會自己找邊邊坐，中間的人不插電但仍可參與
 
@@ -33,11 +44,18 @@ https://drive.google.com/file/d/184sPI3OpZWuQf3KSfOetp0eL10W9WAJG/view?usp=drive
 
 - 16:17 ~ 16:40 攻擊 /article/2t9fyk7wka3e4 觸發 HTTP requests from known botnet (signature #1)
   - 小聚期間，無人回報問題 XD
-  - 14:18 monitor 有回報 site 短暫 520
+  - 16:18 monitor 有回報 site 短暫 520
 - 17:54 ~ 17:57 針對 /article/2cawqaqh128pl 攻擊
   - 17:55 monitor 回報 site 短暫 520
 - 18:01 ~ 18:12 針對 /article/2cawqaqh128pl 攻擊兩波
-- 18:20 好像有一波隱形攻擊，僅部分被 Cloudflare 辨識，彈導致倒站 https://drive.google.com/file/d/1ZziuFMJQ_xah2kJL_MygF5qBG-Kuo-0P/view?usp=drive_link
+- 18:20 好像有一波隱形攻擊，僅部分被 Cloudflare 辨識，彈導致倒站
+  - https://drive.google.com/file/d/1ZziuFMJQ_xah2kJL_MygF5qBG-Kuo-0P/view?usp=drive_link
+  - Traffic https://drive.google.com/file/d/1BOKc_1BeozePrPQpUtmm0VOiYpGDCpNy/view?usp=drive_link
+  - 都不是在台灣 [name=nonumpa]
+  - 一台電腦同時打好幾次 [name=nonumpa]
+    - https://drive.google.com/file/d/1O9gLbOYY3Pov8LGQ13-wtP1gqXs1fbJL/view?usp=drive_link
+  - 一次 web request 會觸發好多 API [name=nonumpa]
+    - 可能是用真的瀏覽器打的 [name=mrorz]
 - 18:27 API, LINE bot, site down
 - 19:10 Recover by manually restart web server
 
@@ -68,6 +86,12 @@ https://drive.google.com/file/d/1JTSzIpO_f79fd1wUJhyfaJiS-x94wN8J/view
 
 新增 country rule? rate limit?
 - 通過 waf 的 case https://drive.google.com/file/d/1ruhBxCAdz_jF30p3FFdp1cTLXsrmdxLJ/view?usp=sharing [name=nonumpa]
+- 攻擊者 1 秒打 10 次
+- 我們開 10 秒打 10 次，1/10 速率 [name=mrorz]
+  - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8a8fcc8d0b96a5f21f58f8dbe4dbf057.png)
+  - 手動測試，沒有觸發
+  - 小聚的時候可能觸發，但也就是 managed challenge 而已
+
 
 ## CCPRIP
 
