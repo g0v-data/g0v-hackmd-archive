@@ -28,7 +28,6 @@ v4l2-capture:
 取得 v4l2 debug message -> echo 1 >/sys/class/video4linux/video0/debug
 印出訊息 -> echo 0xffff > /sys/module/uvcvideo/parameters/trace
 v4l2-ctl -d /dev/v4l-subdev2 <command line>
-待整理：
 
 
 

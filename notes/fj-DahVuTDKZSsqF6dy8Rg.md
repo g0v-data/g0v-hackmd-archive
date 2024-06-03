@@ -67,8 +67,7 @@ https://drive.google.com/file/d/1JTSzIpO_f79fd1wUJhyfaJiS-x94wN8J/view
 - 放一週看 $$ 花多少
 
 新增 country rule? rate limit?
-- 
-- 通過的 case [name=nonumpa]
+- 通過 waf 的 case https://drive.google.com/file/d/1ruhBxCAdz_jF30p3FFdp1cTLXsrmdxLJ/view?usp=sharing [name=nonumpa]
 
 ## CCPRIP
 
@@ -105,5 +104,9 @@ https://drive.google.com/file/d/1JTSzIpO_f79fd1wUJhyfaJiS-x94wN8J/view
 
 #### Prediction
 
+
+Traffic: https://drive.google.com/file/d/1jC0GwXzZj5HTfVNwVQa1rIA16v_Ci6Ap/view
+
 - EN: $30 USD / mo
-- 
+- PV to cofacts.tw is roughly 2.6x of en.cofacts.tw
+- Assume TW cost: 30*2.6 = 78 USD / mo

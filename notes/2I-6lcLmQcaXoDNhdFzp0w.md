@@ -22,6 +22,7 @@ tags: 都市農耕
     - https://www.facebook.com/story.php?story_fbid=pfbid0215Ktm2chS93LKv5dHn6XujEqUBNVfbb56iMrrLWo4hZrBYMJ3sKCRbqXg5QfUi1Gl&id=100064755913060&mibextid=qC1gEa
 - 香港 柏傲莊會所
     - https://www.facebook.com/story.php?story_fbid=pfbid034unwbAhxgh8AvMsFKJ5T7g2x47bMJJbKXKZPnEkdoAtutqCckc7su8Pwrk9WhZb1l&id=100064145675201&mibextid=qC1gEa
+- 中國天津 https://www.facebook.com/share/v/iwuXZRqgco2Vx85n/
 - 吉隆坡，輸電線路沿線下方的坡地社區農園 Kebun Kebun Bangsar (Veggie Farm)
     - Google 街景：https://maps.app.goo.gl/6WezQvWGkizVzawg9
     - https://www.facebook.com/ngseksan/posts/pfbid0sfy3GZjWkYQ9JCHzAhbZ1k8dHkuRcGeqQA6Df1YahrsL5of7kciifBrFrSg86ZTLl
