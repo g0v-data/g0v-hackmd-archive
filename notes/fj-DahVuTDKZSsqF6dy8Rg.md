@@ -110,3 +110,16 @@ Traffic: https://drive.google.com/file/d/1jC0GwXzZj5HTfVNwVQa1rIA16v_Ci6Ap/view
 - EN: $30 USD / mo
 - PV to cofacts.tw is roughly 2.6x of en.cofacts.tw
 - Assume TW cost: 30*2.6 = 78 USD / mo
+
+### [Comm layer] 逐字稿 API
+
+Ronny API results https://docs.google.com/spreadsheets/d/10xfkOZpGJ-9vIvoYziEkD1lZETWMbBLDT-NABdQ8H_g/edit#gid=69740903
+- May need tuning language
+- 排隊可以到 4 分鐘
+- https://g0v.hackmd.io/wkx286lmTDaFUpgRhnUawQ#WhisperX-by-Ronny-Wang
+- Maybe can use to reduce hallucination https://g0v.hackmd.io/aUgKwPUaTPeVLZbcpyxe3A#Comm-Whisper-hallucination
+- Dify workflow for fixing Whisper hallucination
+  - Index 文章時，應已有 whisper 結果
+  - Input: whisper 結果、URL
+  - Ronny's WhisperX --> 把兩者丟去 chatgpt 合併 --> 打 API 更新逐字稿
+

@@ -2,6 +2,8 @@
 tags: vtaiwan 
 ---
 # RightsCon 2025 vTaiwan Proposal 
+- 6/7 截稿，10月公布
+-  RightsCon 2025: 2025 Feb. 24-27
 
 ## Session title (in English)
 
@@ -12,6 +14,7 @@ Using vTaiwan to bridge stakeholders and AI.
 ### Facilitator:
 
 Peter (facilitator/ vTaiwan contributor)
+歡迎一起加入！
 
 ## Session description (in English)
 
