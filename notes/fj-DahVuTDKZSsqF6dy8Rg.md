@@ -9,7 +9,7 @@ GA: UA-98468513-3
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
 - NPO hub 出席： bil, mrorz, nonumpa
-- 線上出席：
+- 線上出席：4000
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -91,7 +91,11 @@ https://drive.google.com/file/d/1JTSzIpO_f79fd1wUJhyfaJiS-x94wN8J/view
   - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8a8fcc8d0b96a5f21f58f8dbe4dbf057.png)
   - 手動測試，沒有觸發
   - 小聚的時候可能觸發，但也就是 managed challenge 而已
-
+- 國家的部分 [name=nonumpa]
+  - cofacts.tw/(article|reply)/
+  - Managed challenge
+  - 排除 known bot 不然 SEO 會掉、Social media preview 會壞
+  - 排除 ASN38631 LINE corporation （LINE 的 preview）
 
 ## CCPRIP
 
@@ -134,6 +138,8 @@ Traffic: https://drive.google.com/file/d/1jC0GwXzZj5HTfVNwVQa1rIA16v_Ci6Ap/view
 - EN: $30 USD / mo
 - PV to cofacts.tw is roughly 2.6x of en.cofacts.tw
 - Assume TW cost: 30*2.6 = 78 USD / mo
+  - 要花就花 [name=bil]
+  - 先放放看 (?)
 
 ### [Comm layer] 逐字稿 API
 
