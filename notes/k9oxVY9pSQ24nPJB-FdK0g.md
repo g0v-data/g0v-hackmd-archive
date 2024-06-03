@@ -12,6 +12,10 @@ tags: vtaiwan
 - [vTaiwan 社群經費管理守則](/JqAlPp_6QF-3F1RKuDj4JQ)
 - [vTaiwan經費使用提案：贊助g0v大松](/-n3Lfh3XQ7Wa81-th-dqpA)
 
+## 投稿 Rights Con 
+- 希望在 Rights Con 上，用工作坊的形式帶 vTaiwan 討論
+- [RightsCon 2025 vTaiwan Proposal](/8h1k4YkGQVu9NzaNxMP1mQ)
+
 ## 監察院 0712 AI 人權論壇
 - 目標：訂出分享大綱與傳遞訊息
 - [使用的ppt](https://docs.google.com/presentation/d/1KDZ5vDDYCi345mIxs0IDwT76C901vOoNh2AtOqqRxvI/edit?usp=sharing)

@@ -66,6 +66,10 @@ https://drive.google.com/file/d/1JTSzIpO_f79fd1wUJhyfaJiS-x94wN8J/view
 - 切換 DNS 需要數小時
 - 放一週看 $$ 花多少
 
+新增 country rule? rate limit?
+- 
+- 通過的 case [name=nonumpa]
+
 ## CCPRIP
 
 ### [Infra] Migrate to Cloudrun
