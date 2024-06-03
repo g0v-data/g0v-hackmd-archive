@@ -56,14 +56,50 @@ https://drive.google.com/file/d/1JTSzIpO_f79fd1wUJhyfaJiS-x94wN8J/view
 - 19:30 補上 Cloudflare rule [name=nonumpa]++
 - 20:04 發現網站已好，但 LINE bot 需要手動開啟
 
-## Mitigation
+### Mitigation
 
 把 site-zh 也改用 CloudRun?
-- 之前做一半後：https://g0v.hackmd.io/ulv1SGtBRWmhxnE9Lpv9TQ#Infra-Migrate-to-Cloudrun
-  - 目前 en + ja: 80 USD/mo
 - 不會因為 site 吃滿 linode 記憶體而倒站
 - 用 Cloudrun 內建 domain mapping
   - 據說有 [latency issue](https://cloud.google.com/run/docs/issues#latency-domains)
   - 但 site-ja 好像還好？
 - 切換 DNS 需要數小時
 - 放一週看 $$ 花多少
+
+## CCPRIP
+
+### [Infra] Migrate to Cloudrun
+> https://g0v.hackmd.io/BRsJOevWSbyUMBSZEVVWrA#Phase-1-rumors-site-amp-rumors-line-bot-%E4%B8%8A-Google-cloud-run
+
+- 202309: Staging & Production EN, JA sites migrated to Cloudrun https://g0v.hackmd.io/ulv1SGtBRWmhxnE9Lpv9TQ#Infra-Migrate-to-Cloudrun
+
+#### Cost analysis
+
+##### By SKU
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8907f9649db946c337c1905e4138057f.png)
+
+- 80% of cost from CPU allocation time
+- 10% of cost from outbounding traffic
+
+##### By component
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9bfaaa4103da7e63937f5629f401e52a.png)
+
+- Mostly by site
+- In 2024 Jan I put the min instnace of line bot to 1
+
+##### By env
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_dab790c16aaa1c57159dfa05901bdccc.png)
+- 80% production
+- 20% staging
+
+##### By language
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e5a0ec2f47263ac0367afc6f7da6fcdd.png)
+- 50% EN
+- 25% JA
+- Not sure where the tw traffic comes from, zh.cofacts.tw is not used anywhere......
+
+#### Prediction
+
+- EN: $30 USD / mo
+- 
