@@ -1,4 +1,10 @@
-# 立法流程可視化
+---
+title : 20240601 立法流程可視化-討論共筆
+tags: ly-visualization
+---
+
+
+# 20240601 立法流程可視化-討論共筆
 
 ## source
 - [立法院API](https://ly.govapi.tw/)
