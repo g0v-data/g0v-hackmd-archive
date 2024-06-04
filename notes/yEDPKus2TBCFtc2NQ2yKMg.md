@@ -11,7 +11,7 @@
 ## 可能的解決方案
 
 1. 推出有益並鼓勵實體碰面的開源新平台
-2. 所謂的"殺手級"App
+2. 所謂的"殺手級"App?
 
 
 ## 可能的限制
@@ -26,7 +26,7 @@
     > [簡報檔](https://docs.google.com/presentation/d/1mok1-N8zmTUKukIdtetemBejXgJdBcCL_U6iXBFWJyQ/edit#slide=id.g19637ce7b_0205)
     > [專案Github Repo](https://www.github.com/3dw/auto20-next)
 
-> 可以抓裡面的部件來用，就不必重頭造車輪[name=Bestian]
+> 可以抓裡面的部件來用，就不必重頭造車輪[name=Bestian Tang 小巴]
 
 
 # 坑
