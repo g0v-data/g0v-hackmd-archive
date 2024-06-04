@@ -1,12 +1,12 @@
 ---
 tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense,
-image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_81f546bb36119f992bb82604514e79ab.png
-title: DigiResiTh6n 第陸次數位韌性松
+image: https://chengpengtw-images-public.s3.ap-northeast-1.amazonaws.com/img/digiresith7n_splash.png
+title: DigiResiTh7n 第柒次數位韌性松
 ---
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
-# 202406XX DigiResiTh7n 第柒次數位韌性松
+# 20240615 DigiResiTh7n 第柒次數位韌性松
 
 {%hackmd VkctH3USQ-yoB6hw2s2D0Q %}
 <!-- 
@@ -17,7 +17,7 @@ title: DigiResiTh6n 第陸次數位韌性松
 :::success
 報名流程及注意事項
 1. 當您參與本活動，即代表您已經同意 [g0v 宣言](https://g0v.tw/intl/zh-TW/manifesto/zh-TW/) 並願意遵守 [行為守則 Code of Conduct](https://g0v.hackmd.io/s/COC)。
-<!-- 2. 若欲報名活動，請直接在 [KKTIX 報名連結](https://g0v-digiresi.kktix.cc/events/digiresith6n) 逕行報名 -->
+2. 若欲報名活動，請直接在 [KKTIX 報名連結](https://g0v-digiresi.kktix.cc/events/digiresith7n) 逕行報名
 :::
 
 :::warning
@@ -37,7 +37,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 ## 時間地點
 
-- June. XX 2024 Sat.
+- June. 15 2024 Sat.
 - 1300 - 1700（UTC+8）
 - [NPO HUB Taipei 台北NPO聚落](https://maps.app.goo.gl/XPrvzSdqgszbfRBV8) 4F 廚房
     - [「如何入場」及場地使用規定](/9pwDPOXLTr6IJKiLofl3qg)
