@@ -7,7 +7,7 @@
 Benjamin Peng
 TomoBenjaminPeng@icloud.com
 
-零、緣起:
+### 零、緣起:
 
 讓我們承認：人類社會要達成美好與和諧的願景需要倚靠的是最高級的真理以及最基本的共同原則，這種既最高級又最基本的真理與原則，正如牛頓從星體的運動中提煉出的數學原理一樣，並不以個人或是集體的力量或意志所變，儘管後世的科學家能將其修正的更接近終極的知識，也並不妨礙自17世紀以來，人類依託其原理所鑄成的科學、工業、科技等文明成就。
 
@@ -61,7 +61,7 @@ TomoBenjaminPeng@icloud.com
 
 *BAT(Basic Attention Token)是一套曾經發起的類似的區塊鏈專案，但與我們的模式將有差異。
 
-一、	歷史的證據與現實的需要
+### 一、	歷史的證據與現實的需要
 
 大多人以為，人類文明的開始，最初是以以物易物作為價值交換的基礎，構成了協作，形成了部落，鑄成了文明。
 
@@ -131,7 +131,7 @@ TomoBenjaminPeng@icloud.com
 3. 大企業的社群媒體許多是靠廣告維生，演算法鼓勵人們在線上社交取代實體碰面，這對信任感有礙。
 
 
-## 解決方案
+## 可能的解決方案?
 
 1. 熔爐計畫《Cauldron》
     > 必須取信於公共社會的必要杜絕後門的相關軟硬體功能與系統皆自由開源
@@ -140,6 +140,11 @@ TomoBenjaminPeng@icloud.com
     > 建成方舟前的過渡
 3. 方舟計畫《Ark》
     > 一套封閉且營利的軟體、硬體、作業系統、應用程序的組合範例
+    > 
+
+
+> 請問樓主想實做的項目，是否能用Feature by Feature的方式列點, 比較好懂?[name=Bestian]
+
 
 
 ## 可能的限制
@@ -156,23 +161,33 @@ TomoBenjaminPeng@icloud.com
 
 > 可以抓裡面的部件來用，就不必重頭造車輪[name=Bestian Tang 小巴]
 
-2. BAT(Basic Attention Token) and Brave(Browser)
-3. KaiOS
-4. OpenID
+2. [BAT(Basic Attention Token)](https://basicattentiontoken.org/zh/) and [Brave(Browser)](https://brave.com/)
+3. [KaiOS](https://www.kaiostech.com/)
+4. [OpenID](https://openid.net/)
 5. PassKey
-6. Meta Group
+> 請問PassKey的url?[name=Bestian]
+7. [Meta Group](https://www.meta-group.com/)
+8. [Fediverse](https://fediverse.party/)
+9. [Mastodon](https://joinmastodon.org/)
+10. [GentooGroup(https://www.gentoogroup.com/)
+11. Pop! 
 
 # 坑
+
+> 請問樓主想實做的項目，是否能用Feature by Feature的方式列點, 比較好懂?[name=Bestian]
+
+
+# 技術層面
 
 
 前端：
 * Framwork
-> 推 Vue3 但不排斥其他 [name=Bestian Tang 小巴]
+> 推 Vue3 但不排斥其他 [name=Bestian]
 
 後端：
 * Framwork  or Service
-> 推 Firebase 但不排斥其他 [name=Bestian Tang 小巴]
+> 推 Firebase 但不排斥其他 [name=Bestian]
 
 UI/UX設計：
 * Framwork  or Service
-> 推 Figma + chatGPT4 但不排斥其他 [name=Bestian Tang 小巴]
+> 推 Figma + chatGPT4 但不排斥其他 [name=Bestian]
