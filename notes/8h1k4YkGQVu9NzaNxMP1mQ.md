@@ -14,6 +14,7 @@ Using vTaiwan to bridge stakeholders and AI.
 ### Facilitator:
 
 Peter (facilitator/ vTaiwan contributor)
+Eli
 歡迎一起加入！
 
 ## Session description (in English)

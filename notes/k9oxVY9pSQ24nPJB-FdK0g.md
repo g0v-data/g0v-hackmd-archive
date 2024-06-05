@@ -8,6 +8,9 @@ tags: vtaiwan
 線上參與連結 / Link：https://meet.jit.si/vTaiwan
 歡迎大家提案想做的事情！！！
 
+## 0612 小松
+- 暫停乙次，6/19 再回來！
+
 ## 自介：
 - Peter: vTaiwan, 台大法研所, 崩潰中
 - RR: MODA, g0v 參與者, 服務設計
@@ -34,6 +37,9 @@ tags: vtaiwan
 
 ### 討論
 - 6/11 所有確認 @SOMERSET HOUSE, London 
+- TttC 目前狀態
+    - 新版是結合使用者的 chatgpt api 
+    - 目前限定用 OpenAI 
 - TttC 實作
     - 6/11 最後確認
         - 把之前中文版的結果匯出
@@ -67,6 +73,31 @@ tags: vtaiwan
 - 目標：訂出分享大綱與傳遞訊息
 - [使用的ppt](https://docs.google.com/presentation/d/1KDZ5vDDYCi345mIxs0IDwT76C901vOoNh2AtOqqRxvI/edit?usp=sharing)
 
-
 ## 翊婷研究
-- 
+- [online consultation 對於政府與公民的關係會如何影響研究](/BtQug56yRhK3vy1nzFkZkQ)
+- 博士論文：online consultation 對於政府與公民的關係會如何影響
+- 其中一章（ch.2）會是政治實驗
+    - 基本假設：收到 information 與參與 deliberation 的人會比單純收到 information 的人而言，更了解相關議題。
+    - 既有學說：為何公民不參與政治？
+        - 政治冷感說：就是不想參與
+        - 缺乏管道說：不是不想，而是大家沒有合適的管道。
+    - 實驗分組
+        - true control：什麼資訊都不會收到
+        - information only：會收到資料
+        - deliberation：不只會收到資料，還會參與一個 vTaiwan 的過程。
+- 合作提案：希望可以與 vTaiwan 合作來做這個
+    - contribution: 協助連結跟政府的關係
+- 如何跟 vTaiwan 現有的程序結合？[name=josh]
+    - 既有的程序是讓大家自由參與，似乎跟實驗要控制的目的不符
+    - 回應：有其他的參與者參與會更好
+- 如何招募參與者 [name=josh]
+    - 目前會利用問卷招募的公司來做
+- 目前的參與者會以實驗控制的部分來進行 [name=eli]
+    - 對，為了避免 self-selective 的問題
+    - 但 multi-stakeholder 的機制可能會有潛在衝突
+- 不自己跑的原因是什麼？[name=josh]
+    - online consultation v.s. recursive process
+- 政府願意參與
+    - 等六月
+    - 既定：數發部
+    - 八月初
