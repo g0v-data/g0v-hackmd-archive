@@ -142,8 +142,8 @@ TomoBenjaminPeng@icloud.com
     > 一套封閉且營利的軟體、硬體、作業系統、應用程序的組合範例
     > 
 
-
 > 請問樓主想實做的項目，是否能用Feature by Feature的方式列點, 比較好懂?[name=Bestian]
+
 
 
 
@@ -154,23 +154,30 @@ TomoBenjaminPeng@icloud.com
 3. 使用者習慣不容易一夕改變
 
 
-# 目前攸關的開源專案或私有團體：(共筆收集中)
-1. [自學2.0](https://we.alearn.org.tw)
+# 目前攸關的開源專案、網路媒體或NPO專案：
+
+## 英文與國際(共筆收集中)
+
+1. [BAT(Basic Attention Token)](https://basicattentiontoken.org/zh/) and [Brave(Browser)](https://brave.com/)
+2. [KaiOS](https://www.kaiostech.com/)
+3. [OpenID](https://openid.net/)
+4. PassKey
+> 請問PassKey的url?[name=Bestian]
+5. [Meta Group](https://www.meta-group.com/)
+6. [Fediverse](https://fediverse.party/)
+7. [Mastodon](https://joinmastodon.org/)
+8. [GentooGroup](https://www.gentoogroup.com/)
+9. Pop! 
+> 請問Pop!的url?[name=Bestian]
+
+## 中文與在地(共筆收集中)
+
+1. [自學2.0](https://we.alearn.org.tw)- NPO專案, 公開部份個資的互認平台, 地圖介面.
     > [簡報檔](https://docs.google.com/presentation/d/1mok1-N8zmTUKukIdtetemBejXgJdBcCL_U6iXBFWJyQ/edit#slide=id.g19637ce7b_0205)
     > [專案Github Repo](https://www.github.com/3dw/auto20-next)
 
 > 可以抓裡面的部件來用，就不必重頭造車輪[name=Bestian Tang 小巴]
 
-2. [BAT(Basic Attention Token)](https://basicattentiontoken.org/zh/) and [Brave(Browser)](https://brave.com/)
-3. [KaiOS](https://www.kaiostech.com/)
-4. [OpenID](https://openid.net/)
-5. PassKey
-> 請問PassKey的url?[name=Bestian]
-7. [Meta Group](https://www.meta-group.com/)
-8. [Fediverse](https://fediverse.party/)
-9. [Mastodon](https://joinmastodon.org/)
-10. [GentooGroup(https://www.gentoogroup.com/)
-11. Pop! 
 
 # 坑
 
