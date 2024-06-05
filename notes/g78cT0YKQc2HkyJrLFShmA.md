@@ -74,7 +74,7 @@ https://docs.google.com/document/d/1utkRdk6NmCpTdSAU29naQa3GqGPVP7oBkseo6pAzen8/
 * 7天澳門統考APP
 
 《公務人員的招聘及甄選制度》審計報告
-http://www.ca.gov.mo/files/PA4119cn.pdf
+https://www.ca.gov.mo/files/PA4119cn.pdf
 
 
 ## 佛系Q&A
@@ -669,7 +669,7 @@ Google Sheet 範本：https://docs.google.com/spreadsheets/d/1i4Kq8Cl1fxQP1vJ4IP
 先講收入，可只睇圖，但建議了解整個計算過程。可以先睇一次計算方法，唔明都繼續睇落去，睇曬再返轉頭睇多次個計算方法。
 
 一開頭入職最少可以收的錢，呢個只係入職點，之後會隨著時間晉級晉階。
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0f0b73b761093434cf3b908890feb26a.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_982c955482ab6ca9ddd47ba788886f0a.png)
 
 >[Google Sheet](https://docs.google.com/spreadsheets/d/1-FuD9XEyZDp5vMApYDKrvkY__08j6Sj_Ncuy-xf5bvE/edit#gid=631323989)
 

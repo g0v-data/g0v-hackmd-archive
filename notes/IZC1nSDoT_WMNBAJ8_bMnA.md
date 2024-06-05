@@ -13,7 +13,7 @@ Facilitator:
 - Meichun Lee (facilitator/Assistant Research Fellow, Institute of Ethnology, Academia Sinica)
 
 Potential Panelists: 
-- Ronny Wang (g0v contributor & CEO, OpenFun Inc.)
+- Ronny Wang (g0v.tw contributor.)
 - Kuochun Hung (Chief Operating Officer of Watchout)
 - Pei Ling Shen (Deputy Secretary-general, Taiwan Obasang Political Equality Party)
 

@@ -2,7 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 8640 | 2024-06-05T10:59:57+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 8641 | 2024-06-05T11:39:58+08:00 |
+| [澳門](tags/%E6%BE%B3%E9%96%80.md) | 6 | 2024-06-05T11:31:11+08:00 |
 | [digital-resilience](tags/digital-resilience.md) | 36 | 2024-06-05T09:04:53+08:00 |
 | [resilience](tags/resilience.md) | 27 | 2024-06-05T09:04:53+08:00 |
 | [internet-shutdown](tags/internet-shutdown.md) | 26 | 2024-06-05T09:04:53+08:00 |
@@ -24,7 +25,6 @@
 | [cofacts](tags/cofacts.md) | 443 | 2024-06-03T21:32:06+08:00 |
 | [meeting note](tags/meeting%20note.md) | 268 | 2024-06-03T21:32:06+08:00 |
 | [vtaiwan](tags/vtaiwan.md) | 29 | 2024-06-03T19:30:09+08:00 |
-| [澳門](tags/%E6%BE%B3%E9%96%80.md) | 6 | 2024-06-03T17:46:51+08:00 |
 | [都市農耕](tags/%E9%83%BD%E5%B8%82%E8%BE%B2%E8%80%95.md) | 56 | 2024-06-03T15:08:13+08:00 |
 | [vTaiwan](tags/vTaiwan.md) | 97 | 2024-06-03T14:13:48+08:00 |
 | [asia](tags/asia.md) | 1 | 2024-06-02T21:13:27+08:00 |
