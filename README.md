@@ -2,7 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 8641 | 2024-06-05T11:39:58+08:00 |
+| [summit2024](tags/summit2024.md) | 62 | 2024-06-05T13:45:29+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 8643 | 2024-06-05T13:45:02+08:00 |
 | [澳門](tags/%E6%BE%B3%E9%96%80.md) | 6 | 2024-06-05T11:31:11+08:00 |
 | [digital-resilience](tags/digital-resilience.md) | 36 | 2024-06-05T09:04:53+08:00 |
 | [resilience](tags/resilience.md) | 27 | 2024-06-05T09:04:53+08:00 |
@@ -68,7 +69,6 @@
 | [線路松](tags/%E7%B7%9A%E8%B7%AF%E6%9D%BE.md) | 21 | 2024-05-21T21:28:07+08:00 |
 | [CongressOccupied](tags/CongressOccupied.md) | 49 | 2024-05-21T21:28:07+08:00 |
 | [Meeting](tags/Meeting.md) | 51 | 2024-05-20T15:43:06+08:00 |
-| [summit2024](tags/summit2024.md) | 62 | 2024-05-17T14:23:40+08:00 |
 | [meshtastic](tags/meshtastic.md) | 5 | 2024-05-16T10:41:55+08:00 |
 | [mesh](tags/mesh.md) | 5 | 2024-05-16T10:41:55+08:00 |
 | [lora](tags/lora.md) | 5 | 2024-05-16T10:41:55+08:00 |
