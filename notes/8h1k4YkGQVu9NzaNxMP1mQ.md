@@ -20,7 +20,7 @@ Peter (facilitator/ vTaiwan contributor)
 
 Since the release of ChatGPT and other generative AI models, AI has become one of the most influential technologies worldwide. Despite AI's vast potential to benefit various aspects of life, its development, deployment, and application often lack stakeholder perspectives, focusing primarily on creating more robust and profitable models. In AI Risk Management Framework released by NIST, the inclusion of stakeholders is the core part of governance. 
 
-In 2023, the vTaiwan community, in collaboration with members from Chatham House, published a report titled “Recursive Public: Piloting Connected Democratic Engagement with AI Governance” exploring the application of the vTaiwan model to AI governance. This workshop session aims to expand opinion gathering and facilitate face-to-face deliberation on AI local governance and gender diversity.
+vTaiwan community is proved model to use digital tools to bridge different stakeholders, helping them reach consensus on divergent opinion. In 2023, the vTaiwan community, in collaboration with members from Chatham House, published a report titled “Recursive Public: Piloting Connected Democratic Engagement with AI Governance” exploring the application of the vTaiwan model to AI governance. This workshop session aims to expand opinion gathering and facilitate face-to-face deliberation on AI local governance and gender diversity.
 
 The workshop will consist of three parts:
 1. Introduction: Overview of the vTaiwan process and online opinion gathering using Polis.
