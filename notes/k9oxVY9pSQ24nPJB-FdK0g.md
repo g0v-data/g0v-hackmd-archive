@@ -23,6 +23,10 @@ tags: vtaiwan
 ## TicTEC 工作坊
 - 目前[意見徵集結果](https://pol.is/report/r7cyakn8a8knfyahm3bkh)
 - 工作坊要用的[ppt](https://docs.google.com/presentation/d/19rbhfHLOXnx4Wk2ZHIzlBuVW1ZINoIr1eY7sLlXO3yU/edit?usp=sharing) 
+    - ppt想改的方向：
+        - 介紹vTaiwan的程序上，除了數位科技，更強調人本的概念，可以，流程圖可以更清楚凸顯Online跟Face-to-Face的交織
+        - 把Generative AI放進去當成是一個Summarisation的工具
+        - 
 - [vTaiwan in TicTEC 2024](/_fWuILaRSv-h3FQsXSLxaQ)
 - [vTaiwan 到 TicTec分享](/kBtFem_KRB-2PphaR-vcBQ)
 
