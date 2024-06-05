@@ -22,3 +22,5 @@ tags: GIS
         - https://docs.google.com/document/d/1KfYAnoHsPRKVFvKMDDILcSUxeqCA9bsQE7FxiaXf9-8/edit
     - 鄉民建資料，地理資料類
         - https://docs.google.com/spreadsheets/d/1IlK6XpIbnL6nW-UjGw363KcmzGNGmEAsAk0rs0qQuYc/edit#gid=0
+    - 環境變遷文本
+        - https://g0v.hackmd.io/hVfYoPVlQ--5hBc0ip_QrA
