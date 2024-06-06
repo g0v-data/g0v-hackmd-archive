@@ -25,6 +25,10 @@ Co-organizing community: SITCON、GDSC、開放教育社群
 
 ---
 
+## 4th CfP 審稿會議
+
+時間：6/8（六）22:00
+日曆： https://calendar.app.google/73zacv2UJZkdjF3o7
 
 ## 3rd CfP 宣傳會議
 
