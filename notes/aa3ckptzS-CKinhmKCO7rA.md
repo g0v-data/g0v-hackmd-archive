@@ -16,20 +16,20 @@ tags: 國會松
 [TOC]
 :::
 
-## 立院影城 🎞️
+## 立院影城 🎞️ Legislative Yuan Theater 🏛️
 https://g0v.hackmd.io/ws2BYq_wTZOZw0lRx3TZ9g
 https://g0v.hackmd.io/5Vmz0E-8TQaZjsMyVThXaQ
 https://g0v.hackmd.io/PW9eZ_WFSi6Q0EDVdZVrLw
 https://ccw.org.tw/news/-1326
 
-## 國會大代誌 📢
+## 國會大代誌 📢 Legislative Yuan Headlines 🐽
 http://ly.g0v.tw/
 https://github.com/g0v/ly.g0v.tw	
 
-## hackact 法案協作器構想試做 ⚙️
+## hackact 法案協作器構想試做 ⚙️ Draft our Bills Tool Prototype 💥
 https://g0v.hackmd.io/ESy79iuXSm2vVbaorbitng
 
-## 立委咖電喂 📞
+## 立委咖電喂 📞 Call Your Legislator📞
 http://call.ly.g0v.tw/
 http://beta.hackfoldr.org/callliwei	
 https://g0v.hackmd.io/0gQSLmg6SqSf9CIn2xuo_Q
@@ -39,41 +39,40 @@ https://g0v.hackmd.io/0gQSLmg6SqSf9CIn2xuo_Q
 https://g0v.hackmd.io/4KWwOn3wQ5uXum7AgwINhA
 https://www.facebook.com/photo/?fbid=916563831718237&set=a.456791061028852
 
-## 向立委陳情工具
+## 向立委陳情工具 Call Your Legislator -2 📞 
 
 陳情工具
 https://ly.answerfamily.org/ 
 source code
 https://github.com/answerfamily/ly
 
-## 立委地圖 + 立委資料
+## 立委地圖 + 立委資料 Know your Legislator🛠️
 
 立委選區的地圖
 https://tainan.olc.tw/p/2024/
 https://g0v.github.io/mapView/ly.html
 https://github.com/g0v/ly-tel
 
-## 國會調查兵團 👁️‍🗨️
+## 國會調查兵團 👁️‍🗨️ Legislative Yuan Investigator 🕵️
 https://cic.tw/
 
-## lysayit 立委說了什麼 💬
+## lysayit 立委說了什麼 💬 What did the Legislator say 💬
 https://ronnywang.github.io/lysayit	
 https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/HyGhI8flc/
 
-## 國會投票紀錄 🗳️
-
+## 國會投票紀錄 🗳️ Legislative Yuan Voting Records 📦
 https://lysayit.openfun.app/?doc_id=1132501_00002
 
-## 立委投票指南 🧭
+## 立委投票指南 🧭 Voting Guide 🚀
 https://councils.g0v.tw/
 https://github.com/g0v/twly-voter-guide	
 https://beta.hackfoldr.org/voter_guide_tw	
 https://www.facebook.com/TW.Voter.Guide/	
 
-## 開放政治獻金 - 立委政治獻金 💰
+## 開放政治獻金 - 立委政治獻金 💰 Open Political Money Records: Legislative Yuan Political Donations 💰
 https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/ryrT2aQdn/
 
-## 東亞國會美食地圖 😋
+## 東亞國會美食地圖 😋 East Asian Legislators’ Food Map 😋
 https://g0v.hackmd.io/y_O_IpKrRxm6pG5rlO4enw?view
 
 ## 專案發想
@@ -141,6 +140,11 @@ https://g0v.hackmd.io/MLptSHziTzykwZR7TnEFWA
 - 佔領立法院A4傳單 https://g0v.hackmd.io/SdKJjJzBQdu5fojXvBF-qA
 - 佔領立法院 / 太陽花學運：CC 授權圖文影音 https://g0v.hackmd.io/vOQPj2qMTiSkE41SGepmDw
 - 反黑箱服貿立法院抗爭 - 國際新聞統整 https://g0v.hackmd.io/v9KWCUllTL-lFBclLhsRGg
+
+# 國外社群相關計畫
+## 德國開放國會電視
+[Open Parliament TV in German](https://openparliament.tv/?lang=en)
+[Open Parliament TV in German Code](https://github.com/openparliamenttv)
 
 ---
 

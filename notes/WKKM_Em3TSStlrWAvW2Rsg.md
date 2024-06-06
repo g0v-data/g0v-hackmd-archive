@@ -265,23 +265,33 @@ Report a Non-Manufacturing Incident - ITNow (service-now.com)
 
 謝謝
 
-Date: 2024/5/28;
+Date: 2024/6/6;
 Ticket Type: Taiwan_Network_Port;
-Item: Complete IP allocation (MTB)
+Item: Complete IP allocation (MTB);
+Detail:
 
 
-Date: 2024/5/30;
+Date: 2024/6/6;
 Ticket Type: MTB_PC_Relocation;
 Item: Complete, user has no other needs
+Detail:
 
 Date: 2024/5/30;
 Ticket Type: MTB_PC_Rename;
 Item: Complete, user has no other needs
 
-Date: 2024/5/31;
+Date: 2024/6/5;
 Ticket Type: MTB_Vendor_Tool_PC_Setup;
 Item: Linux syetem
+Detail:
 
 Date: 2024/5/31;
 Ticket Type: MTB_Vendor_Tool_PC_Setup;
 Item: Printer Relocation
+
+
+Date: 2024/6/5;
+Ticket Type: Printer Setup Request;
+Item: Printer Setup Request
+Detail:
+
