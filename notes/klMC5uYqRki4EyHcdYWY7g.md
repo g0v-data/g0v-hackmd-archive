@@ -6,9 +6,10 @@ tags: 開放式課程, edu
 
 - [公開意見蒐集區](https://g0v.hackmd.io/0W14Hiz9Smibey08-u_zZw?view)
 
-## 教育及文化委員會-第10屆第5會期
+## 教育及文化委員會
 
-- [名單](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=43645&pid=217657)[target=_blank]
+- [第11屆第1會期名單](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=55089&pid=236878)[target=_blank]
+- [第10屆第5會期名單](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=43645&pid=217657)[target=_blank]
 
 ## 籌備工作區
 
