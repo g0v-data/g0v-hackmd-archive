@@ -369,6 +369,8 @@ https://www.tasteatlas.com/search
 文化活動 / 訊息
 世界歷史地圖套疊
 https://docusky.org.tw/DocuSky/DocuTools/DocuGIS/
+Native Land Digital 原住民族生活地圖
+https://native-land.ca/
 二戰沉船地圖
 https://www.facebook.com/story.php?story_fbid=pfbid0Kf5goN5rPdr1eGaeRVg1QsxnNHWshGo4kaPkSntQzkiVzt3FbC2XsMGeUf5eybGNl&id=130017733712220&mibextid=tejx2t
 Co-working Space
