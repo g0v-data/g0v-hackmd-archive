@@ -1,4 +1,4 @@
-# 熔爐計畫《Code:Cauldron》、解離計畫《Code:dissociate》與方舟《Code:Ark》
+[](https://)# 熔爐計畫《Code:Cauldron》、解離計畫《Code:dissociate》與方舟《Code:Ark》
 
 
 ## 理論基礎
