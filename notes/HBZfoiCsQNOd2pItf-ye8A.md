@@ -152,14 +152,69 @@ https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
 - 市政府本身的業務創新
 - 對於「公共設施」的實踐型內涵擴充
 
-## 素材備份區 / 已結束活動籌備內容
 
-:::spoiler 素材備份區 / 已結束活動籌備內容
+
+## 街區題目方向列舉，提供學員參考
+
+
+- 方法：都市再生要參考什麼資料？
+    - 期中以前，以臺師大街區
+    - 期中，以四組街區經驗
+    - 期末，基於前述內容，提出課題對策
+- 方法：從 SDGs 檢視架構探討該領域的受衝擊群體
+    - https://sdg.gov.taipei/
+    - https://sdg.gov.taipei/page/cn_area3/12
+- 方法：碳收支
+    - https://g0v.hackmd.io/@chewei/carbon-uptake/https%3A%2F%2Fg0v.hackmd.io%2FM369znrhQHWqONzLjOCj8g%3Fview
+- 方法：以「臺北 - 臺師大街區」的角度來探討
+- 方法：透過 通學路徑 (包含梁實秋、殷海光、俞大維等年代文化路徑、當代各級學校通學路徑，台大師大師生互通路徑、各國小學區通學路徑) 來形成主要的地區生活主軸，未來會針對各路徑主軸，檢視道路環境及沿線建築改建的地面層
+- 方法：透過籌辦「空地營造系列工作坊」等活動，應用「空地議題檢視工作方法」，提出空改建前的空間活用方案，以及與土地管理單位交流其土地開發方案，藉由短期空地活化作為行動策略，凝聚生活街廓的都市再生願景。
+- 工具導向：拼貼願景工具提案
+    - https://g0v.hackmd.io/@chewei/joinplus/https%3A%2F%2Fg0v.hackmd.io%2F8uZcrlPGQmOJAzweskG9Og%3Fview
+- 工具導向：若有明確資訊類專案企劃，可提案公民科技專案徵求跳坑
+    - 參考：https://g0v.hackmd.io/@jothon/keng/https%3A%2F%2Fg0v.hackmd.io%2Fa_sXd-DRSLmJhhd61sc_ag
+
+參考資料
+- 好城市的空間法則： 給所有人的第一堂空間課，看穿日常慣性，找出友善城市的101關鍵要素
+    - https://www.books.com.tw/products/E050090176
+- 安全城市：規劃、設計與經營的設計準則
+    - https://drive.google.com/file/d/0B9KyxXC_y1sLNlN4RllfcXJjeGs/view?usp=sharing&resourcekey=0-RnFQ9rUHTfyeiHLPO5JlIg
+- 96 年都市空間改造計畫-友善社區示範計畫先期規劃案
+    - 詢問 chewei
+
+20240421 有搜集到的提問
+- 空地認養營造，要如何協調、溝通
+    - 了解空地留存至今的原因，用地主管機關
+    - 從街區思考此公有資產的願景，設定議程
+    - 公有空地整體政策倡議：https://g0v.hackmd.io/@chewei/poponfire/https%3A%2F%2Fg0v.hackmd.io%2Fqn1zVwvtQViiKDanjJ47LA%3Fview
+- 街區路徑
+    - 通學路徑
+    - 不同角色的路徑 
+- 鄰里交通計畫
+    - 可再進一步暸解政策近況
+- 公共空間改變，如何提出
+    - 從街區與生活視角來形成方案，因為都市計畫過於通則，需要地區細緻化
+- 了解該街區當年首次進行都市化的方案邏輯
+    - 都市計畫書圖
+    - 歷史地圖
+
+20240607 chewei 發想
+- 形成一個方案
+    - 案例
+        - 管委會情境，智生活 APP
+        - 錦安 Line 生活圈經營
+        - 農產品共同購買
+
+:::
+
+## 素材備份區 / 已結束活動籌備內容
 
 ### 20240413 上午走訪
 
 - 路線：https://www.google.com/maps/d/u/0/viewer?hl=zh-TW&mid=1PtrMifUEOzZi1-ShuVktL7jetCPdKeY&ll=0%2C0&z=16
 - 地圖文件：https://docs.google.com/presentation/d/1Zp1uOl2PGQm_FrE2kCXtyXMAjfRg-6fMiIt5CFBuKS8/edit?usp=sharing
+
+:::spoiler 20240413 上午走訪籌備內容
 
 主要目的：建立參加者今年度想探討的主題，與街區的關聯性
 - 踏查過程中，進行說明：選組之後的開展方式
@@ -204,51 +259,11 @@ https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
     - 設定分享主題
         - 演替
         - 道路路網
+:::
 
-街區題目方向列舉，提供學員參考
-- 方法：都市再生要參考什麼資料？
-    - 期中以前，以臺師大街區
-    - 期中，以四組街區經驗
-    - 期末，基於前述內容，提出課題對策
-- 方法：從 SDGs 檢視架構探討該領域的受衝擊群體
-    - https://sdg.gov.taipei/
-    - https://sdg.gov.taipei/page/cn_area3/12
-- 方法：碳收支
-    - https://g0v.hackmd.io/@chewei/carbon-uptake/https%3A%2F%2Fg0v.hackmd.io%2FM369znrhQHWqONzLjOCj8g%3Fview
-- 方法：以「臺北 - 臺師大街區」的角度來探討
-- 方法：透過 通學路徑 (包含梁實秋、殷海光、俞大維等年代文化路徑、當代各級學校通學路徑，台大師大師生互通路徑、各國小學區通學路徑) 來形成主要的地區生活主軸，未來會針對各路徑主軸，檢視道路環境及沿線建築改建的地面層
-- 方法：透過籌辦「空地營造系列工作坊」等活動，應用「空地議題檢視工作方法」，提出空改建前的空間活用方案，以及與土地管理單位交流其土地開發方案，藉由短期空地活化作為行動策略，凝聚生活街廓的都市再生願景。
-- 工具導向：拼貼願景工具提案
-    - https://g0v.hackmd.io/@chewei/joinplus/https%3A%2F%2Fg0v.hackmd.io%2F8uZcrlPGQmOJAzweskG9Og%3Fview
-- 工具導向：若有明確資訊類專案企劃，可提案公民科技專案徵求跳坑
-    - 參考：https://g0v.hackmd.io/@jothon/keng/https%3A%2F%2Fg0v.hackmd.io%2Fa_sXd-DRSLmJhhd61sc_ag
+## 圖面製作類 - 素材工作區
 
-參考資料
-- 好城市的空間法則： 給所有人的第一堂空間課，看穿日常慣性，找出友善城市的101關鍵要素
-    - https://www.books.com.tw/products/E050090176
-- 安全城市：規劃、設計與經營的設計準則
-    - https://drive.google.com/file/d/0B9KyxXC_y1sLNlN4RllfcXJjeGs/view?usp=sharing&resourcekey=0-RnFQ9rUHTfyeiHLPO5JlIg
-- 96 年都市空間改造計畫-友善社區示範計畫先期規劃案
-    - 詢問 chewei
-
-20240421 有搜集到的提問
-- 空地認養營造，要如何協調、溝通
-    - 了解空地留存至今的原因，用地主管機關
-    - 從街區思考此公有資產的願景，設定議程
-    - 公有空地整體政策倡議：https://g0v.hackmd.io/@chewei/poponfire/https%3A%2F%2Fg0v.hackmd.io%2Fqn1zVwvtQViiKDanjJ47LA%3Fview
-- 街區路徑
-    - 通學路徑
-    - 不同角色的路徑 
-- 鄰里交通計畫
-    - 可再進一步暸解政策近況
-- 公共空間改變，如何提出
-    - 從街區與生活視角來形成方案，因為都市計畫過於通則，需要地區細緻化
-- 了解該街區當年首次進行都市化的方案邏輯
-    - 都市計畫書圖
-    - 歷史地圖
-
-
-## 素材工作區
+:::spoiler
 
 討論用的圖面
 - 大安區古莊里台大空地 1:100 數值地形圖 https://drive.google.com/drive/folders/1tnIXoAifiveSdULDVPCs9B-O-sYd9oSO?usp=sharing
