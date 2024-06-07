@@ -119,8 +119,10 @@ https://maps.app.goo.gl/tgspqJiRToreAMX27
 公用事業車輛路線
 - 公車
 - 垃圾車 
-    - 路線資料 https://hwms.moenv.gov.tw/dispPageBox/route/routeCP.aspx?ddsPageID=ROUTE
     - 景象舉例 https://youtube.com/shorts/MGVS-mgWB4Y
+    - 路線資料
+        - https://hwms.moenv.gov.tw/dispPageBox/route/routeCP.aspx?ddsPageID=ROUTE
+        - https://github.com/funtuan/taiwan-garbage-opendata?tab=readme-ov-file
 - 基礎設施維修站點與車輛路線
 
 ### 四、繪製「街區內連續型行人路徑」

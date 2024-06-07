@@ -2,7 +2,9 @@
 tags: edu
 ---
 
-# 2023 山城黑客松
+# 南投縣山城黑客松
+
+## 2023 南投縣山城黑客松
 
 活動官網：https://hackathon.4impact.cc/
 活動花絮影片：https://www.facebook.com/share/v/YXKURAFxWQtM3qEN/
@@ -23,11 +25,15 @@ https://docs.google.com/spreadsheets/d/1zIvL43oNPoNuVzodD8mGWOJsH_Nj3jCkusKajEGA
 👇 以下也可以直接瀏覽回饋意見
 <iframe width=100% height="550" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzUhPZgpqnGoSnQ6zkvbCqtRwgUAqSiPRqTLpTVp2bGU_iU8tVt-pOT49gZ56s9KMDxcuGafXDOBcF/pubhtml?widget=true&amp;headers=false"></iframe>
 
+---
+
 觀察：
 - 整理長期議題
     - 茭白筍產業
         - 需要試驗田區
         - 參考國內小水力大專競賽，會運用花蓮縣吉安鄉水圳資源來提供團隊進行實作測試
+        - 筊白筍 加工做為 素柴魚片
+            - https://youtu.be/FgPHbXIN5HU
     - 長者生活
 - 「生活圈範圍」可以作為一個地方架構依據，「智在家鄉」會要求提案，提出專案所依據或導入的鄉鎮區
 - 擺攤與 QA 歷程，可以視為「協助全體參加活動的專案，都可以藉此提升經驗」的角度，例如提供每個專案一張海報紙，請其中一位同學把評審提問寫起來；逛展者，可以留下便利貼，貼在海報中，蒐集意見與互動
@@ -37,3 +43,9 @@ https://docs.google.com/spreadsheets/d/1zIvL43oNPoNuVzodD8mGWOJsH_Nj3jCkusKajEGA
 其他活動資訊分享：
 - 1/24-1/26 知資為資知 - 2024中電會聯合寒訓，地點在東海大學，相關資訊：https://wc.scaict.org/
 - g0v 零時小學校 https://sch001.g0v.tw
+
+
+## 2024
+
+說明會資料
+https://docs.google.com/document/d/1mQgOpLxFpphHPLAmFp4Kr3W36VC6mHngSObfcmXq7EQ/edit

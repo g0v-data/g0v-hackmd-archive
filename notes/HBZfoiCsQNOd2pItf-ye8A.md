@@ -35,6 +35,8 @@ https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
 人口
 - 城市儀錶板：https://citydashboard.taipei/mapview?index=map-layers
     - 有居住與上班人口推估
+- 戶籍人口
+    - 最小統計分區 https://segis.moi.gov.tw/STATCloud/Index
 
 地貌與建築建設
 - 建築施工地圖：https://g0v.hackmd.io/GMYOZV6jRN20YN037yRqvQ
