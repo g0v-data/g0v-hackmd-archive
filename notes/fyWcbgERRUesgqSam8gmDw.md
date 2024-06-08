@@ -4,7 +4,7 @@ tags: tree
 
 # 知識素材架構 Airtable
 
-瀏覽網址：https://bit.ly/tree-taiwan-km
+另開網頁瀏覽網址：https://bit.ly/tree-taiwan-km
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr4f3DnuXOslFyss?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
 

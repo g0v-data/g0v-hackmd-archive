@@ -10,36 +10,59 @@ tags: 吉祥物
 ## 具有法定權利
 
 觀點文章
+- https://www.seinsights.asia/article/9506
 - http://www.eqpf.org/envinews/epContent.aspx?dsn=314&cId=1
 - Rights of River 研討會 https://www.facebook.com/InternationalRivers/photos/a.126549960591/10157587335560592/
 
 整理工作
 - 建立以下具體案例的線上地圖
 
-案例
+### 案例蒐集
+
+#### 厄瓜多
 - 厄瓜多憲法承認 Pacha Mama 的權利，就是將原住民的地球女神納入憲法的明證
 - 厄瓜多旺阿努伊河（Whanganui River）擁有法定人權 
     - https://theinitium.com/article/20170316-dailynews-New-Zealand-River/
     - https://youtu.be/Oqo6iEugF2U
+- 摘：2021 年厄瓜多最高法院裁定厄瓜多國家礦業公司 Enami EP，在受到保護的雲霧森林地區開採銅礦和金礦是違憲、侵犯了自然的權利。
+    - https://www.seinsights.asia/article/9506
 - 厄瓜多談人格化的一些情境 https://youtu.be/p-HkZ6PMJlo?t=5857
+
+#### 加勒比地區
+- 加勒比地區，阿魯巴 Land Aruba
+    - 摘：該國立法者在 2023 年提出憲法修正，承認大自然擁有與人權相同的固有合法權利，如生存權、再生權等，以及人類享有「乾淨、健康和永續環境」權利，將這兩項相互關聯的基本權利一並納入憲法之中。https://www.seinsights.asia/article/9506
+
+#### 紐西蘭
 - 紐西蘭尤瑞瓦拉法國家公園（Te Urewera National Park）
     - 2014年，紐西蘭國會通過尤瑞瓦拉法案，令該國第4大國家公園——尤瑞瓦拉法國家公園（Te Urewera National Park）也在法律上被確認為生命體  
         - https://theinitium.com/article/20170316-dailynews-New-Zealand-River/
+
+#### India
 - Uttarakhand HC declares Ganga, Yamuna living entities, gives them legal rights 
     - http://www.hindustantimes.com/india-news/uttarakhand-hc-says-ganga-is-india-s-first-living-entity-grants-it-rights-equal-to-humans/story-VoI6DOG71fyMDihg5BuGCL.html
+    - 神聖恆河（Ganges River）、亞穆納河（Yamuna River）與其支流 https://www.seinsights.asia/article/9506
+
+#### 孟加拉
 - Bangladeshi commuters use boats to cross the Buriganga River in the capital Dhaka in 2018. In July, Bangladesh's top court granted all the country's rivers the same legal rights as humans. 
     - https://www.npr.org/2019/08/03/740604142/should-rivers-have-same-legal-rights-as-humans-a-growing-number-of-voices-say-ye
 - 孟加拉境內所有河川都跟人一樣，賦予生存權 “In early July, Bangladesh became the first country to grant all of its rivers the same legal status as humans. From now on, its rivers will be treated as living entities in a court of law. The landmark ruling by the Bangladeshi Supreme Court is meant to protect the world's largest delta from further degradation from pollution, illegal dredging and human intrusion.” “Following the ruling, anyone accused of harming the rivers can be taken to court by the new, government-appointed National River Conservation Commission. They may be tried and delivered a verdict as if they had harmed their own mother, Matin says.”
+
+#### 北美洲
 - Lake Erie
     - Lake Erie just won the same legal rights as people https://www.facebook.com/393445254065527/posts/2021600094583360/
 - Ohio
     - Ohio voters passed groundbreaking legislation that allows citizens to sue on behalf of the lake when it’s being polluted.
-- Curridabat
-    - Imagine if bees, trees and natives plants were citizens too?  Mad, I know.  But in Curridabat, a suburb of the Costa Rican Capital San José, they are. Now known as “Ciudad Dulce” – Sweet City – Curridabat’s urban planning has been reimagined around its non-human inhabitants. Green spaces are treated as infrastructure with accompanying ecosystem services that can be harnessed by local government and offered to residents. https://www.theguardian.com/environment/2020/apr/29/sweet-city-the-costa-rica-suburb-that-gave-citizenship-to-bees-plants-and-trees-aoe
 - Magpie River
     - The Muteshekau-shipu Alliance today announced the granting of legal personhood to the Magpie River, through the adoption of two parallel resolutions by the Innu Council of Ekuanitshit and the Minganie Regional County Municipality (RCM). The river is thus assigned nine rights, as well as potential legal guardians responsible primarily for ensuring that these rights are respected. This is the first such case in Canada. https://www.newswire.ca/news-releases/for-the-first-time-a-river-is-granted-official-rights-and-legal-personhood-in-canada-848414747.html
 - Florida
     - Streams and lakes have rights, a US county decided. Now they’re suing Florida. A novel lawsuit is taking advantage of a local ‘rights of nature’ measure passed in November in effort to protect wetlands https://www.theguardian.com/environment/2021/may/01/florida-rights-of-nature-lawsuit-waterways-housing-development
+
+
+#### 中美洲
+- Curridabat
+    - Imagine if bees, trees and natives plants were citizens too?  Mad, I know.  But in Curridabat, a suburb of the Costa Rican Capital San José, they are. Now known as “Ciudad Dulce” – Sweet City – Curridabat’s urban planning has been reimagined around its non-human inhabitants. Green spaces are treated as infrastructure with accompanying ecosystem services that can be harnessed by local government and offered to residents. https://www.theguardian.com/environment/2020/apr/29/sweet-city-the-costa-rica-suburb-that-gave-citizenship-to-bees-plants-and-trees-aoe
+- 巴拿馬
+    - 摘：2023 年 3 月巴拿馬總統簽署項新法律，「將允許任何巴拿馬公民為海龜發聲，並合法地保護牠們的生存。」身為發起人的海洋保育生物學家 Callie Veelenturf 提到，「若做出侵犯海龜權利的行為能透過這項法律，我們能讓政府、企業或公眾承擔起法律責任。」https://www.seinsights.asia/article/9506
 
 ## 無法定權利
 
