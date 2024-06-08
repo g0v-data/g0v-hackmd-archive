@@ -37,4 +37,9 @@ Slido will be used to collect questions and feedback during sharing. An facilita
 
 - Join online workspace (via Slack) of g0v.tw, Code for Japan, Code for Korea
 - Participate in projects, hackathons, meetups of Facing the Ocean, g0v.tw, Code for Japan, Code for Korea
-- Contribute to the dataset of information accessbility and integrity projects in East Asia and Southeast Asia
+- Contribute to the dataset of information accessibility and integrity projects in East Asia and Southeast Asia
+
+### Speakers
+- Chihhao Yu, g0v.tw
+- Eunsoo Lee, Code for Korea
+- Mami Takesada, Code for Japan
