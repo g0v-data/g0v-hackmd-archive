@@ -9,15 +9,16 @@ tags: 吉祥物
 
 ## 具有法定權利
 
-觀點文章
+### 觀點文章
 - https://www.seinsights.asia/article/9506
 - http://www.eqpf.org/envinews/epContent.aspx?dsn=314&cId=1
 - Rights of River 研討會 https://www.facebook.com/InternationalRivers/photos/a.126549960591/10157587335560592/
 
-整理工作
-- 建立以下具體案例的線上地圖
+### 整理工作
+- 持續蒐集案例
+- 建立以下具體案例的線上地圖，方便了解各個案例的環境地貌情境
 
-### 案例蒐集
+### 案例蒐集區
 
 #### 厄瓜多
 - 厄瓜多憲法承認 Pacha Mama 的權利，就是將原住民的地球女神納入憲法的明證
@@ -98,6 +99,8 @@ tags: 吉祥物
         - Melbourne Urban Forest 官網 http://melbourneurbanforestvisual.com.au/
 
 其他筆記
+- 中央山脈
+    - https://www.facebook.com/TaiwanATG/posts/pfbid02R9fLeSVReFFZMUmxuhiY73DpvMpTiqRxw8Csru4iaVMYoRug6bccBDaBWajs6tWnl
 - User research without the recruitment - Test your idea or product with AI participants and take decisions with confidence.
     - https://www.syntheticusers.com
 - 地震描述為動物動作：地牛翻身
