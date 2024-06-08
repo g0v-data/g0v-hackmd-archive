@@ -106,6 +106,11 @@ https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
     - 一月一天
     - 一天旅遊
 
+觀察到什麼樣「共同的需求」？
+- 每天困擾、已經在花錢的事項
+https://www.facebook.com/story.php?story_fbid=pfbid05SqD1aYqb16PetikMBm8tgyFCvgfUSfoDXAzQTjhPAtm2X7ZGR4xk87hAd5n7NWrl&id=100080067891410
+
+
 社會網絡面向
 - 目前現況、延續過往發展脈絡至今、曾經存在但消失
 - 操作題目
@@ -127,6 +132,8 @@ https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
 
 
 ### 市府政策 - 街區
+
+市政社造化、街區化
 
 臺北市淨零排放管理自治條例
 - 有明確描述各局處相關業務，從業務來檢視新生流域內相關的場域、可以整合落實措施、或是一些願景方案可以整合淨零業務種類。

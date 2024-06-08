@@ -214,6 +214,7 @@ tags: 新生流域
 
 ### 案例
 - 韓國 光電板結合自行車專用道 https://www.facebook.com/share/tdvsKEtCv4RUgYmW/?mibextid=WC7FNe
+- 中國 光電結合車用鋪面與高架橋 https://www.facebook.com/share/p/2FThbaUX28Vp85Ay/
 - 東京 天空廊道
     - https://www.facebook.com/share/v/3DSFSCaMoBALMJVb/
     - https://www.facebook.com/TaiwanTrafficSafeAssociation/posts/pfbid02MBmP97ypdi8fzG1Xvgn4McqJZZmFDZtucLYQNyLvq4n87oE6fhvcgCLfcLTPZSLul
