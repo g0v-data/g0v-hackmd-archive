@@ -5,7 +5,7 @@ tags: FtO, RightsCon
 
 ## 5 Years Facing the Ocean: Connecting Information Accessibility and Integrity Efforts in East Asia
 
-> proposal by chihao
+> proposal 24543 [name=chihao]
 
 > notes
 > - anti-extradition law info
