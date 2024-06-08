@@ -2,9 +2,9 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v 短網址治理機制](../notes/u-UJk-4-TsOGFYwmT54CRA.md) | 2024-05-22T01:17:58+08:00 | 2024-05-21T23:31:08+08:00 |
-| 2 | [g0v domain 治理更新 20220312](../notes/6YxV7bP-QmixKkvPev7pmg.md) | 2024-05-22T01:17:50+08:00 | 2022-03-12T14:01:56+08:00 |
-| 3 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-05-14T18:23:37+08:00 | 2018-08-30T15:19:57+08:00 |
+| 1 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-06-08T22:59:59+08:00 | 2018-08-30T15:19:57+08:00 |
+| 2 | [g0v 短網址治理機制](../notes/u-UJk-4-TsOGFYwmT54CRA.md) | 2024-05-22T01:17:58+08:00 | 2024-05-21T23:31:08+08:00 |
+| 3 | [g0v domain 治理更新 20220312](../notes/6YxV7bP-QmixKkvPev7pmg.md) | 2024-05-22T01:17:50+08:00 | 2022-03-12T14:01:56+08:00 |
 | 4 | [g0v 行為守則 g0v Code of Conduct](../notes/XPzJRxsHT2CaOO5WZ5r-BA.md) | 2024-05-02T19:14:59+08:00 | 2017-08-21T11:57:16+08:00 |
 | 5 | [g0v slack 治理機制討論](../notes/rHe3Lfh_S3yhtRawnliSIg.md) | 2024-04-24T14:17:55+08:00 | 2021-03-16T14:12:06+08:00 |
 | 6 | [g0v 首頁社群治理機制](../notes/mZ-LeFr1QJ6CuO6R3eeHnw.md) | 2024-04-20T16:20:58+08:00 | 2023-03-04T15:16:37+08:00 |

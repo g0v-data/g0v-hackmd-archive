@@ -366,6 +366,10 @@ HackMD 的主機維護，感謝 Jacky 協助。
     - case: 已發現有網站教學共筆，但題材內容使用 18+ 圖片、成人網站等
 - 廣告
     - 如何判斷? 
+    - case 
+        - 20230510 有發現一篇廣告 https://g0v.hackmd.io/vwZXRthkQcOfRNxz8RxAuQ
+        - 修車廠的廣告文 https://g0v.hackmd.io/?nav=search&q=car
+        - https://g0v.hackmd.io/@vTaiwan/ryeQrCZHR
 
 處理流程：
 - 每個人都可以檢舉
@@ -389,8 +393,6 @@ HackMD 的主機維護，感謝 Jacky 協助。
         - 寫在哪裡？
         - case: 
             - 20210824 將兩個違規頁面（使用 18+ 圖片），改為僅擁有者才能瀏覽。並附上 comment「您好，我是 g0v 揪松團的職工，g0v HackMD 文章須遵守 g0v CoC，因有人反映文章內含有 18+ 內容，因此我先將文章轉成不公開，若欲分享相關內容，請尋找其他適合的平台，感謝。」
-            - 20230510 有發現一篇廣告 https://g0v.hackmd.io/vwZXRthkQcOfRNxz8RxAuQ
-            - 許多修車廠的廣告文 https://g0v.hackmd.io/?nav=search&q=car
 
 
 ### 營運方案
