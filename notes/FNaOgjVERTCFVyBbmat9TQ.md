@@ -5,7 +5,7 @@ Website: https://hi88.build/
 Địa chỉ: 22 Ng. Cổng Giếng, Bưởi, Tây Hồ, Hà Nội, Việt Nam
 Email: hi88build@gmail.com
 Hotline: 0972315423
-Hastag: #789bet #789betcasino #789betwcasino
+Hastag: #hi88 #hi88build #nhacaihi88 #nhacaicacuochi88
 
 https://fileforum.com/profile/hi88build
 
