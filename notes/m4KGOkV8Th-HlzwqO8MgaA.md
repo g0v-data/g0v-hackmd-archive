@@ -11,7 +11,7 @@
 button
 ### TOP(紫色)
 2D，影像置入，output相關關的
-level,composite...
+level,composite,text...
 ### CHOP(綠色)
 數據傳輸，數值，轉譯
 count,math,ttrigger....
@@ -19,6 +19,7 @@ count,math,ttrigger....
 3D模型相關指令
 ### MAT(黃色)
 材質處理
+GLSL
 ### DAT(紫紅)
 DATA整理，程式碼執行
 
