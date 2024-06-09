@@ -85,6 +85,8 @@ https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
 - 帝大與臺大
 - 文化空間
 - 書店產業
+- 活動展演空間
+    - 《老窮奇幻記事》-- 有天你消失了，誰會發現？｜2024/6/15(六) https://www.accupass.com/event/2405291246041342316796
 - 文學領域
     - 溫州街的故事
     - 溫州街上有什麼？
@@ -149,6 +151,9 @@ https://www.facebook.com/story.php?story_fbid=pfbid05SqD1aYqb16PetikMBm8tgyFCvgf
 - https://www.dot.gov.taipei/Content_List.aspx?n=4867DAB8C36F7003
 
 發想：青年局
+
+總人口推估
+- https://w2.dbas.gov.taipei/tp123/tb13.html
 
 ### 策略類比：公有房舍活用、田園城市
 

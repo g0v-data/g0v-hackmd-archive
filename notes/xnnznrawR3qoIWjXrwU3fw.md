@@ -2,10 +2,7 @@
 tags: 公民參與
 ---
 
-# 開放政府行動方案 - 民間提案
-
-20240308 截止提案，提案區：
-https://join.gov.tw/policies/detail/cbba96d5-537e-4e3e-a18a-5ddc61fa8bfc
+# 開放政府行動方案民間提案 / 總統盃黑客松許願提議
 
 :::warning
 目錄
@@ -14,6 +11,8 @@ https://join.gov.tw/policies/detail/cbba96d5-537e-4e3e-a18a-5ddc61fa8bfc
 
 ## 議題：JOIN 平台導入多元數位工具，輔助相對應的公共政策案型
 
+開放政府行動方案 - 民間提案
+- 20240308 截止提案，提案區：https://join.gov.tw/policies/detail/cbba96d5-537e-4e3e-a18a-5ddc61fa8bfc
 - 20240308 已寄出至 icyang@ndc.gov.tw
 - 發想
     - 舉例那些 Join 平台上的哪些案型
@@ -90,7 +89,9 @@ email: joinplus@googlegroups.com
 
 ## 議題：標案資料欄位擴大與釋出
 
+開放政府行動方案 - 民間提案
 工作進度：
+- 20240308 截止提案，提案區：https://join.gov.tw/policies/detail/cbba96d5-537e-4e3e-a18a-5ddc61fa8bfc
 - 20240308 已提交
 
 筆記區 

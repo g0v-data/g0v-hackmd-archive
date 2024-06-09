@@ -320,6 +320,7 @@ tags: 新生流域
 - 似乎大排設施巡檢，也是委託三腳渡船家出船
 - 偶有民間主辦大排行舟參訪
     - 2005 社區規劃師活動
+        - 除了遊程之外，也有挑選一個地點讓多艘船隻停靠一起，並且進行論壇，位置在民族東路北側河段
     - 20190217 北美館雙年展相關活動「都市氣候工作坊」https://goo.gl/maps/BM1KwtabJYzQRaU9A
 - 活動發想討論串
     - https://www.facebook.com/groups/582154450196478/posts/668218051590117/
@@ -468,7 +469,6 @@ tags: 新生流域
 - 蒐集歷年馬拉松與單車活動案例：https://docs.google.com/presentation/d/1al9a3yW2BWimwr7vKzvQ4W3n4zd6YjKG_v1OhHo5DEA/edit#slide=id.g21ef9e0fb03_0_28
 - 如何申請？
 
-
 ## 活動類型：檢視沿線的單車交通環境
 
 - 例如針對北段，把自行車斷點標記出來
@@ -476,6 +476,12 @@ tags: 新生流域
 ## 活動類型：水質檢測
 
 - 請至 [水質檢測 💧 公民如何自己來？](https://g0v.hackmd.io/y9nSsx9jSmiQR1ylDF0ujg?view)
+
+## 活動類型：渠道內的小型遙控船
+
+發想參考：
+- 渠道內的無動力漂流小船，結合鏡頭並自帶光源，水利工程構造物巡檢輔助 https://www.facebook.com/yorisou.tohoku.epco/videos/1117897255953072/
+
 
 ## 活動類型：針對特定場域的環境營造願景發想
 

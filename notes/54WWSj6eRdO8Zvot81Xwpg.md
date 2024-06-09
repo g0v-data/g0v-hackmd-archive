@@ -10,6 +10,8 @@ tags: 人口推估,hackpad
 
 ### 人口推計
 
+- 國發會
+    - https://pop-proj.ndc.gov.tw/Default.aspx
 - 經建會，中華民國 2012 年至 2060 年人口推計
     - [http://iknow.stpi.narl.org.tw/Post/Files/policy/2012/policy\_12\_037_2.pdf](http://iknow.stpi.narl.org.tw/Post/Files/policy/2012/policy_12_037_2.pdf)
 - 人口儀表板 by Hsieh M.F.
@@ -24,6 +26,7 @@ tags: 人口推估,hackpad
     - [http://w2.dbas.taipei.gov.tw/NEWS_WEEKLY/analysis/9807001.doc](http://w2.dbas.taipei.gov.tw/NEWS_WEEKLY/analysis/9807001.doc)
     - 臺北市人口消長研究，臺北市政府主計處 98年7月
     - 臺北市105-140年人口推估 委託研究案 [http://rdnet.taipei.gov.tw/xDCM/DOFiles/pdf/00/00/01/78/62/1060202-pdf-testproj-134921.pdf](http://rdnet.taipei.gov.tw/xDCM/DOFiles/pdf/00/00/01/78/62/1060202-pdf-testproj-134921.pdf)
+    - https://dbas.gov.taipei/News.aspx?n=648477833838D63E&sms=D7F2E648C500EA9E
 - 新竹縣
     - [http://w3.hsinchu.gov.tw/puyu/puyu_planbook/04/4-1.htm](http://w3.hsinchu.gov.tw/puyu/puyu_planbook/04/4-1.htm)
     - 預估新竹縣市於民國110年之總人口數約為95-100萬人，較目前人口數增加約15-20萬人。有關新竹縣市未來人口預測，主要採用線性迴歸預測法及根據自然與社會增加率預測未來人口總量。
