@@ -293,6 +293,16 @@ slack channel: #hackmd
 
 成立背景：因為 Hackpad 年久失修（也無法修），g0v jothon 與 HackMD 團隊合作，開設 g0v.hackmd.io，並把 g0v Hackpad 資料備份過來
 
+### 備份、API
+
+🙏 感謝 Ronny 協助備份、建立 API
+
+備份
+https://github.com/g0v-data/g0v-hackmd-archive
+
+HackMD-API	https://g0v.hackmd.io/api/overview
+
+
 ### team 功能
 
 g0v hackmd 是擁有獨立的 instance，所以 g0v hackmd 可以自行建立多個 team；建立 team 現在需要 instance 的超級管理員權限。
@@ -423,6 +433,7 @@ HackMD 的主機維護，感謝 Jacky 協助。
         - 若採用 Google 表單蒐集檢舉，可得到 Google Sheet A，可考慮用另外開一份 Google Sheet B 的方式，將 Google Sheet A 其中可以公開的欄位同步至 Google Sheet B，以 Google Sheet B 作為歷年處理紀錄與進度控管頁面
         - case: 
             - 20210824 將兩個違規頁面（使用 18+ 圖片），改為僅擁有者才能瀏覽。並附上 comment「您好，我是 g0v 揪松團的職工，g0v HackMD 文章須遵守 g0v CoC，因有人反映文章內含有 18+ 內容，因此我先將文章轉成不公開，若欲分享相關內容，請尋找其他適合的平台，感謝。」
+            - 20240512 Ronny 有清理 4/28-5/12 的廣告內容
 
 
 ### 營運方案
@@ -442,11 +453,9 @@ AWS
     - 社群貢獻點數
         - 揪松團在 2020 年 04 月有得到 AWS 一年的 3000USD 的 credit 贊助（[記錄](https://trello.com/c/eCpoDplo/1950-aws-credit-%E8%A8%98%E9%8C%84)），目前主要花費於 HackMD 主機上。
             - 例如 [Joinplus 專案社群](https://g0v.hackmd.io/@chewei/joinplus/) 貢獻 260.17USD credit 
-- 於 2024.04 獲得 HackMD 支持 🙏。
+- 於 2024.04 獲得 HackMD 支持 🙏
 
-### g0v HackMD 備份
 
-https://github.com/g0v-data/g0v-hackmd-archive
 
 ## g0v Flickr
 
@@ -620,6 +629,24 @@ chihao: 當不熟悉 g0v 的人想要來了解 g0v 的時候，他們可以去�
 - [2019/3/29](https://g0v-slack-archive.g0v.ronny.tw/index/channel/CF3JH3H1C#ts-1553851565.001000) 開始討論是否併入 g0v domain 管理
 mailgun
 - [投票後](https://g0v-slack-archive.g0v.ronny.tw/index/channel/CF3JH3H1C/2019-04)納入 g0v domain 管理
+
+## Database
+
+使用 Google Sheet 整理：
+- Project List 
+- 歷屆大松提案 csv
+- “Infra + working group” Alphabet 清單
+- 歷年社群活動地點 csv
+
+文件網址
+https://docs.google.com/spreadsheets/d/1C9-g1pvkfqBJbfkjPB0gvfBbBxVlWYJj6tTVwaI5_x8/edit
+
+編輯權限
+- 一開始有嘗試有連結即可編輯
+- 近期有出現誤刪，所以改為揪松團編輯，公開瀏覽
+- 可洽 揪松團
+- 目前也在想有什麼適合的共筆權限設定方案，可以讓社群共筆，且能避免誤刪
+
 
 ## OCF 國際交流專案
 

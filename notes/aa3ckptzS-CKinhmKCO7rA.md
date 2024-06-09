@@ -75,6 +75,13 @@ https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/ryrT2aQdn/
 ## 東亞國會美食地圖 😋 East Asian Legislators’ Food Map 😋
 https://g0v.hackmd.io/y_O_IpKrRxm6pG5rlO4enw?view
 
+## 《立法院大小聲》app
+https://100.adi.gov.tw/ahvs1
+- iPhone: https://apps.apple.com/tw/app/id1604118355
+- Android: https://play.google.com/store/apps/details?id=com.ccwatch
+- GitHub: https://github.com/denkeni/CCWatch
+- 黑客松首次提案（舊名為一生監督）：https://youtube.com/watch?v=WifUTX7pkMs
+
 ## 專案發想
 
 立法流程可視化
