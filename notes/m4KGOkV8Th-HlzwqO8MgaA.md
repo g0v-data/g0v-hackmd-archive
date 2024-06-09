@@ -14,7 +14,7 @@ button
 level,composite,text...
 ### CHOP(綠色)
 數據傳輸，數值，轉譯
-count,math,ttrigger....
+count,math,trigger....
 ### SOP(藍色)
 3D模型相關指令
 ### MAT(黃色)
@@ -22,6 +22,10 @@ count,math,ttrigger....
 GLSL
 ### DAT(紫紅)
 DATA整理，程式碼執行
+
+
+
+
 
 
 
