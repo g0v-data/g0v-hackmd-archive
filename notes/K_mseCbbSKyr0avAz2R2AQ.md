@@ -1,7 +1,7 @@
 Jun88 mang đến trải nghiệm cá cược thể thao, casino trực tuyến và nhiều trò chơi khác. Uy tín và chuyên nghiệp, hỗ trợ 24/7 và ưu đãi hấp dẫn.
 Website: https://jun88.cab/
 Phone: 0522297495
-Địa chỉ: 9 Ngõ 6 Đường Liên cơ, Cầu Diễn, Nam Từ Liêm, Hà Nội, Việt Nam
+Địa chỉ: 29/8/10 Đ. Số 10, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Vietnam
 Email: ngocbaomediavn@gmail.com
 #jun88, #jun88_casino, #nha_cai_jun88
 Tham gia MXH:
