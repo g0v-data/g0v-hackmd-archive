@@ -63,6 +63,12 @@ https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
 - https://www.udd.gov.taipei/assets/6f1nQvfyp8zkXB5veijPpb/attachs/1100528-%E5%A4%A7%E5%AE%89%E5%8D%80%E9%83%BD%E5%B8%82%E8%A8%88%E7%95%AB%E9%80%9A%E7%9B%A4%E6%AA%A2%E8%A8%8E(%E4%B8%BB%E8%A6%81%E8%A8%88%E7%95%AB)%E6%A1%88(%E7%AC%AC%E4%B8%80%E9%9A%8E%E6%AE%B5)%E8%A8%88%E7%95%AB%E6%9B%B8.pdf
 - https://www.udd.gov.taipei/overall-review/documents/district_5/1100709-%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E9%83%BD%E5%B8%82%E8%A8%88%E7%95%AB%E9%80%9A%E7%9B%A4%E6%AA%A2%E8%A8%8E(%E7%B4%B0%E9%83%A8%E8%A8%88%E7%95%AB)%E6%A1%88-%E8%A8%88%E7%95%AB%E6%9B%B8.pdf
 
+微氣候環境與街區
+- 都市街谷環境分析，有一篇論文有針對大學里範圍進行研究 https://airtable.com/appgQS9kWDYmv6B1m/shrkgRXUuLjpzHgqJ/tbljJLtGQle9mVqmF/viww8ofUGe3EQfiAd/recY34irtUDDKlSau?blocks=hide
+- 臺北市探討社區中的綠地、植栽與都市熱島效應的關係 https://airtable.com/appgQS9kWDYmv6B1m/shrkgRXUuLjpzHgqJ/tblxqZCyM7ycnxurS/viwez4u1tusri5pOB/recxQjKVm1MV3aUre?blocks=hide
+- 環保署於古亭國小屋頂設置空氣品質監測站 https://www.facebook.com/share/p/xVueSnU5wdEup8z1/
+
+
 ---
 
 ## [筆記區] 再生學苑主題內容發想
