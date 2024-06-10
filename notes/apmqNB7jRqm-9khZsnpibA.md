@@ -1,6 +1,12 @@
 # Denian Package 打包教程筆記
 
-1. download cscope-15.1.tar.gz -> https://sourceforge.net/projects/cscope/
+source code打包內容
+dpkg 指令打包流程
+install 方式
+實際例子
+
+
+1. download source code -> https://sourceforge.net/projects/cscope/
 2. tar xvzf cscope-15.1.tar.gz
 3. dh_make --createorig -s -> cscope_15.1.orig.tar.xz
 4. tree
