@@ -14,7 +14,7 @@ GA: UA-98468513-3
 
 ## CCPRIP
 
-### [Infra] 防火牆檢視
+### [Infra] 檢視防火牆規則
 
 #### 目前規則
 
@@ -23,6 +23,9 @@ GA: UA-98468513-3
 
 
 #### Security events
+
+僅有一次 DDoS
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_be075d7b30ff19b71dfbafcf0252afce.png)
 
 - Baseline: 2024/6/10 早上的 sample, 每小時 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a0c654fcc2b5f36367f9cc66356cabce.png)
   - 400K/5hr, 80K requests per hour
@@ -34,9 +37,11 @@ GA: UA-98468513-3
     - Visiting certain page: 0.1M
     - Challenge foreeign non-bot access: 0.029M
 
-
-
 #### SEO 影響
+
+尚無
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d90b68beb757ea5ebe32d538f8feef87.png)
+
 
 ## Hackmd 會議紀錄查找
 
@@ -49,6 +54,10 @@ GA: UA-98468513-3
   - https://udify.app/chat/jx7VIMgk9Q7QdzJU
 
 ## 傳播學會
+http://www.tcataiwan.org/newdetail.asp?WN_ID=1764
+
+> 一個攤位將提供「1張長桌、2-3張椅子、1面海報架」供貴單位使用，同時現場可以有募款或銷售商品之行為。
+> 建議貴單位可以在8:00-8:30分左右到場準備，在17:00左右結束。主要的人潮會在休息時間、中午、當日結束離場時
 
 - 印製傳單
 - 週六、週日
