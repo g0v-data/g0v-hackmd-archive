@@ -18,8 +18,22 @@ GA: UA-98468513-3
 
 #### 目前規則
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e7dfdb10577001b860d88b8f062ccb7b.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_51c64f6b85e3c37c23d04c80a3bd0f37.png)
+
 
 #### Security events
+
+- Baseline: 2024/6/10 早上的 sample, 每小時 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a0c654fcc2b5f36367f9cc66356cabce.png)
+  - 400K/5hr, 80K requests per hour
+- 6/10 13:40-13:55 DDoS https://drive.google.com/file/d/1zj1MrNvPqfxo-YNwFZINftXa7v2-q6n9/view?usp=drive_link
+  - Security events: DDoS 4.03M ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7accd5cb97cd229de87af3f19ebe9004.png)
+  - 目標：cofacts.tw/article/J4KgxI8B3RbBUEe2bmFt 等三個投資詐騙
+  - 被什麼擋下
+    - HTTP requests from known botnet (signature #1): 4M
+    - Visiting certain page: 0.1M
+    - Challenge foreeign non-bot access: 0.029M
+
 
 
 #### SEO 影響
@@ -34,4 +48,8 @@ GA: UA-98468513-3
     - 限 20 個檔案
   - https://udify.app/chat/jx7VIMgk9Q7QdzJU
 
+## 傳播學會
 
+- 印製傳單
+- 週六、週日
+- 活動到週一但不會去
