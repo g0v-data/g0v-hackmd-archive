@@ -32,4 +32,6 @@ GA: UA-98468513-3
   - 有些 hackmd 載不下來，error handling
   - dify 內建 knowledge 需要其他調校
     - 限 20 個檔案
+  - https://udify.app/chat/jx7VIMgk9Q7QdzJU
+
 

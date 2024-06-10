@@ -8,14 +8,37 @@ install 方式
 
 1. download source code -> https://sourceforge.net/projects/cscope/
 2. tar xvzf cscope-15.1.tar.gz
-3. dh_make --createorig -s -> cscope_15.1.orig.tar.xz
-4. tree
+3. dh_make --createorig -s -> 建立 cscope_15.1.orig.tar.xz 和 debian/
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bc6b83afa245f6406daab48d3c21a605.png)
+4.  tree
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7233c51bb37521087cbbb12b6f3439b0.png)
+5.
 
 6. 
 
+source code
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_61f79ef7beb28486488c2b607d399a7d.png)
+
+tar -zcvf
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fd6f339ad1b095a1d7298fdd13647587.png)
+
+dh_make
+$DEBEMAIL、 $DEBFULLNAME： 識別用於維package的姓名和電子郵件地址。
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5b8a0db69873f1875620973f11825ed0.png)
+
+tree debian
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8c715ee69eebef6784218213a946f408.png)
 
 
+
+
+
+# control: package的資訊檔
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2edaf524010773706b7b0d77d34fca13.png)
+
+# copyright: 版權申明
+# changlog: 紀錄跟上一版的差別
+# rules: 是個install script，就像Makefile，會呼叫很多dh_xxx command
 https://www.debian.org/doc/manuals/packaging-tutorial/packaging-tutorial.en.pdf
 https://www.debian.org/doc/manuals/packaging-tutorial/packaging-tutorial.zh_TW.pdf
 https://www.debian.org/doc/manuals/maint-guide/dreq.zh-tw.html#rules
