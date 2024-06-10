@@ -24,5 +24,12 @@ GA: UA-98468513-3
 
 #### SEO 影響
 
+## Hackmd 會議紀錄查找
 
+- 目前：google custom search, 只有發佈到網路的內容
+- https://github.com/cofacts/hackmd-sync
+  - bun: 方便寫 typescript script
+  - 有些 hackmd 載不下來，error handling
+  - dify 內建 knowledge 需要其他調校
+    - 限 20 個檔案
 
