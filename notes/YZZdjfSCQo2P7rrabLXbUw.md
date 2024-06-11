@@ -50,3 +50,5 @@ https://chrome.google.com/webstore/detail/wot-website-security-safe/bhmmomiinigo
 #### Ken暫存
 https://www.youtube.com/watch?v=A3Yx35KrSN0
 D:\Ken\OneDrive\13Learning\AI.xlsx
+https://learn.microsoft.com/zh-tw/power-bi/visuals/desktop-ribbon-charts?tabs=powerbi-desktop
+https://learn.microsoft.com/zh-tw/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a
