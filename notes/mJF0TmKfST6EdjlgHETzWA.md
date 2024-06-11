@@ -1,5 +1,5 @@
 ---
-tags: g0v-anniversary
+tags: g0v-anniversary, g0v-siliconvalley
 ---
 # 10.23 g0v 十週年 @舊金山灣區（妄想）
 
