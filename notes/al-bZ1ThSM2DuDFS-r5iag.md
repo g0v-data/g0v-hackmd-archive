@@ -34,6 +34,10 @@ tags: GIS
 
 ## 有類似但並非針對防鳥撞擊，有改善機會
 
+
+台大小福三樓玻璃
+https://photos.app.goo.gl/scmJhfHfdSCASH3C6
+
 玻璃帷幕旁種植喬木
 https://www.facebook.com/share/p/MtLm81r3D9SoQ5jP/
 
