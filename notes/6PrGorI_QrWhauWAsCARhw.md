@@ -43,6 +43,7 @@ The filenames of the CSV files in the docs folder are all named after the author
 | doc_haha_count       | Count of reaction: 😆 haha                    |
 | doc_love_count       | Count of reaction: 🥰 love                    |
 | doc_sad_count        | Count of reaction: 😢 sad                     |
+| doc_wow_count        | Count of reaction: 😮 wow                     |
 | doc_support_count    | Count of reaction: 🤗 support                 |
 | quote_url            | Shared link in the doc                        |
 | quote_title          | Title of shared link                          |
