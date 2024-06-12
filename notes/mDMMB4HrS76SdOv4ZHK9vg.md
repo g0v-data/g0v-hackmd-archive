@@ -64,5 +64,8 @@
 
 
 ## 帳務管理 `accounting`
++ 對帳單 `/accounting/bill`
+    + G101每日對帳單 `/accounting/bill/daily`
+    + G102每月對帳單 `/accounting/bill/monthly`
 
 ## 聯絡窗口/反應 `contact`
