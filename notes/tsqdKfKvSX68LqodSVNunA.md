@@ -37,4 +37,24 @@ tags: vtaiwan
 - [合作備忘錄](https://docs.google.com/document/d/1_Y2nWBi6rKnt8Z5l4HoK0BKYg9EqyiAa-ED9zB_pLMo/edit?usp=sharing)
 
 ## CNA 紀錄片邀約
-- 
+- 台灣時間6/12 18:55 收到來自新加坡CNA公司的邀約，他們想要採訪 vTaiwan 作為其民主紀錄片（兩集）之一部份。
+- 目前初步是請他們看看能否 6/19 6/26 上線一起討論
+:::info
+Dear Sir/Madam,
+ 
+This is Zen writing from the documentary team at Channel News Asia (CNA). It's a pleasure to connect with you.
+ 
+CNA was established by Mediacorp (Singapore’s national media network) and is an English-language Asian news channel.
+ 
+We are producing a two-episode documentary series exploring the evolving nature of leadership and governance in today’s dynamic world, scheduled to premiere in the fourth quarter of 2024. Filming will be in August and September.
+ 
+We've built a considerable portion of our documentary around figures from the 2023 civil society participation index. It is well known that Taiwan has extremely high rates of civil society participation, which shows up in this index.
+ 
+The index aggregates a multitude of factors, including the extent to which the people of Taiwan are consulted by the state to address the needs of the country. One of the ways Taiwan is doing so, is through vTaiwan.
+ 
+Hence, my team and I are quite keen to explore the possibility of featuring the vTaiwan in our documentary. May we schedule a virtual meeting with a representative next week to discuss the opportunity? I’m happy to send across a Microsoft Teams meeting link to facilitate the conversation.
+ 
+Thank you so much for your time and consideration. I look forward to hearing from you. 
+ 
+Warm regards
+:::
