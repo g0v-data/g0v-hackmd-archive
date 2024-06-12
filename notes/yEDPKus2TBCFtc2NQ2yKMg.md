@@ -1,5 +1,6 @@
 [](https://)# 熔爐計畫《Code:Cauldron》、解離計畫《Code:dissociate》與方舟《Code:Ark》
 
+所有內容皆以GPLv3授權，且作者保有修改授權的權利。
 
 ## 理論基礎
 
@@ -172,6 +173,8 @@ TomoBenjaminPeng@icloud.com
 記憶於獨立的記憶體空間，因需基於整體記憶資料統一輸出一個動態的身分識別，作為與他人連結的基礎，彼此只有在發生造訪、鑄幣、交易、契約、銷毀、聯合……等一切關聯時，依一套新的網路協定，進入公眾的公開運作體系。
 
 這一套協定，我簡稱為：臺灣協定TAIWAN Protocol，展開為：分時人工智慧廣域網路協定Time-Sharing Artificial Intelligence Wide Area Networks Protocol。
+
+#### 參、從國家為管理發給的身分到個人為連結而總結的身分
 
 
 ## 現況與問題
