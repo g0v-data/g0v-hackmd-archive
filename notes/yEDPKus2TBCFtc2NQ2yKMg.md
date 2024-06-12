@@ -1,4 +1,4 @@
-[](https://)# 熔爐計畫《Code:Cauldron》、解離計畫《Code:dissociate》與方舟《Code:Ark》
+# 熔爐計畫《Code:Cauldron》與臺灣協定《Code:Ark》
 
 所有內容皆以GPLv3授權，且作者保有修改授權的權利。
 
