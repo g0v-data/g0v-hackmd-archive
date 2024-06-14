@@ -1,4 +1,3 @@
-{%hackmd aPqG0f7uS3CSdeXvHSYQKQ %}
 
 # 編劇
 
