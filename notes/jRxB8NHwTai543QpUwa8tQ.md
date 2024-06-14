@@ -5,7 +5,6 @@ tags: GIS
 
 # 有地點的通報功能專案：<br>路平、違章工廠、拍照上傳
 
-[KIANG](https://g0v.hackpad.com/ep/profile/G4yGGowBe3x)
 > 就熊熊想要找資料發現都找不到，所以怒開一個 hackpad 做雜記
 > [name=kiang]
 
@@ -93,6 +92,8 @@ tags: GIS
 - iNaturalist：https://www.inaturalist.org/observations
     - 全球公民科學家進行生物調查拍照上傳的成果地圖
     - 可以設置一個生物觀察的樣區，例如「臺北市內湖區舊宗路匝道綠地生態觀察」：https://www.inaturalist.org/projects/aeae4fa7-0c32-4238-806a-52db3bebae24
+- 待查找
+    - https://islah.city/
 - Bristol Bugbears
     - [https://bristolbugbears.commonplace.is/](https://bristolbugbears.commonplace.is/)
     - Bristol City Council has been awarded funding to make small improvements to cycling and walking facilities around the city.
