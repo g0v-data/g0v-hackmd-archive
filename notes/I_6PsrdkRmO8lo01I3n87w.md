@@ -1,0 +1,4 @@
+# nginx cross 
+`export PATH=/root/Marvell_98DX3510_switch/trunk/mrvl_22.02.0_kernel/toolchain/aarch64v8-marvell-linux-gnu-5.2.1_x86_64_20160301/bin:$PATH`
+
+`./configure --with-cc-opt=-I$TOOLCHAIN/include --crossbuild=aarch64-marvell-linux-gnu --prefix=/root/Marvell_98DX3510_switch/trunk/apps/nginx-1.22.1-target/target             --with-zlib=/root/Marvell_98DX3510_switch/trunk/apps/zlib-1.3.1-target/ --with-pcre=/root/Marvell_98DX3510_switch/trunk/apps/pcre2-10.43-target/ --with-openssl=/root/Marvell_98DX3510_switch/trunk/apps/openssl-1.1.1v-target/             --with-http_stub_status_module --with-http_ssl_module`
