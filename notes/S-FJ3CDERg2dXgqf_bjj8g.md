@@ -16,7 +16,7 @@ tags: ly
 
 第11屆第1會期第14次會議
 會議時間：2024-05-17
-[IVOD 影片](https://ivod.ly.gov.tw/Play/Full/1M/15925)
+[IVOD影片](https://ivod.ly.gov.tw/Play/Full/1M/15925)
 [立法院議事處公報紀錄](https://ppg.ly.gov.tw/ppg/sittings/2024051509/details?meetingDate=113%2F05%2F17)
 
 ## 第二條
