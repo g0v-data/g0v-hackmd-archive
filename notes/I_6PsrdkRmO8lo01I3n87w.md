@@ -9,10 +9,10 @@
 * `CC=aarch64-marvell-linux-gnu-gcc` 
 * `CXX=aarch64-marvell-linux-gnu-g++ `
 * `./configure --disable-shared --build=x86_64-marvell-linux-gnu --target=aarch64-marvell-linux-gnu --host=aarch64-marvell-linux-gnu --prefix=/root/Marvell_98DX3510_switch/trunk/apps/pcre2-10.43/target`
+* `make` 
+6. 編譯openssl
+* `./Configure linux-aarch64 --prefix=/root/Marvell_98DX3510_switch/trunk/apps/openssl-1.1.1v/target no-shared no-threads --cross-compile-prefix=aarch64-marvell-linux-gnu-`
 * `make`
-6. 
-7. 
-8. 
-
-8. 編譯openssl
-9.  ` ./configure --with-cc-opt=-I$TOOLCHAIN/include --crossbuild=aarch64-marvell-linux-gnu --prefix=/root/Marvell_98DX3510_switch/trunk/apps/nginx-1.22.1-target/target             --with-zlib=/root/Marvell_98DX3510_switch/trunk/apps/zlib-1.3.1-target/ --with-pcre=/root/Marvell_98DX3510_switch/trunk/apps/pcre2-10.43-target/ --with-openssl=/root/Marvell_98DX3510_switch/trunk/apps/openssl-1.1.1v-target/             --with-http_stub_status_module --with-http_ssl_module`
+7.編譯nginx
+ `./configure --with-ld-opt=-L/root/Marvell_98DX3510_switch/trunk/mrvl_22.02.0_kernel/toolchain/aarch64v8-marvell-linux-gnu-5.2.1_x86_64_20160301/lib --with-cc-opt=-I/root/Marvell_98DX3510_switch/trunk/mrvl_22.02.0_kernel/toolchain/aarch64v8-marvell-linux-gnu-5.2.1_x86_64_20160301/include --prefix=/root/Marvell_98DX3510_switch/trunk/apps/nginx-1.22.1/target --with-zlib=/root/Marvell_98DX3510_switch/trunk/apps/zlib-1.3.1-target --with-pcre=/root/Marvell_98DX3510_switch/trunk/apps/pcre2-10.43 --with-openssl=/root/Marvell_98DX3510_switch/trunk/apps/openssl-1.1.1v --with-http_ssl_module`
+11.  ` ./configure --with-cc-opt=-I$TOOLCHAIN/include --crossbuild=aarch64-marvell-linux-gnu --prefix=/root/Marvell_98DX3510_switch/trunk/apps/nginx-1.22.1-target/target             --with-zlib=/root/Marvell_98DX3510_switch/trunk/apps/zlib-1.3.1-target/ --with-pcre=/root/Marvell_98DX3510_switch/trunk/apps/pcre2-10.43-target/ --with-openssl=/root/Marvell_98DX3510_switch/trunk/apps/openssl-1.1.1v-target/             --with-http_stub_status_module --with-http_ssl_module`
