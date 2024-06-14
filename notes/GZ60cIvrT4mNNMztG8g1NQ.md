@@ -179,6 +179,9 @@ https://www.facebook.com/groups/833818867108726/posts/1626176434539628/
 https://www.facebook.com/setnews/posts/pfbid022Gu
 https://www.facebook.com/share/p/uGRNQ8RjfiK63pbL/?mibextid=K35XfPm2BggnwpGriG8CoTaY6kWJyRP9SHPxrtVPgDR4bDstGFTXrGhR3dbP7wc4M68l
 
+202406 台南積水
+https://www.facebook.com/share/R1WMrWm8EEhePdLs/?mibextid=WC7FNe
+
 內湖淹水老照片
 https://www.facebook.com/share/p/uGRNQ8RjfiK63pbL/?mibextid=K35XfP
 
