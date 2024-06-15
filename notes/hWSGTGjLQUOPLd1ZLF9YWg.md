@@ -1,10 +1,4 @@
----
-title: Talk slides template
-tags: Templates, Talk
-description: View the slide with "Slide Mode".
----
-
-# Arduino 入門
+# Arduino 入門及Infineon radar應用
 編輯 :　吳冠穎
 
 <!-- Put the link to this slide here so people can follow -->
@@ -13,14 +7,17 @@ description: View the slide with "Slide Mode".
 ---
 
 ## 前言
-本課程是介紹Arduino基礎操作及Infineon雷達進階應用，課程合計3小時。
+本課程是介紹Arduino基礎操作及Infineon雷達進階應用，課程約2小時。
 Arduino 將控制晶片和燒錄功能整合到一塊小巧的板子上。它的Pin腳設計讓接線更加簡便，能夠輕鬆地配合麵包板使用，這樣可以快速連接各種感測器和週邊設備。對於初學者來說，只要會插杜邦線，就能開始開發工作。
 
 ## 材料
 - [ ] Arduino UNO板
-- [ ] USB 信號傳輸線
+- [ ] USB-B 信號傳輸線
 - [ ] 杜邦線
 - [ ] 伺服馬達
+- [ ] 麵包板
+- [ ] LED燈
+
 
 ---
 
@@ -43,7 +40,7 @@ https://www.arduino.cc/en/software
 
 第一步需要先檢測Arduino UNO板及其他材料是否完好
 
-- 接上線路
+- 接上線路 (注意LED燈長腳為正極，短腳為負極) 
 ![](https://i.imgur.com/Fk9neZE.png)
 - 用USB 信號傳輸線連接Arduino UNO到電腦主機
 - 設定Arduino IDE上方面板 
@@ -73,8 +70,10 @@ void loop() {
 
 Arduino的伺服馬達是一種常用的機電裝置，用於控制角度、速度和位置，適合用於各種自動化和機器人項目。這種馬達通常具有高精度和高效率，能夠根據輸入的控制信號進行精確定位。
 
-- 接上線路
+- 接上線路 
 ![](https://i.imgur.com/ni9F1IA.png)
+
+
 
 - 將code寫入到Arduino IDE
 ```typescript
@@ -125,98 +124,202 @@ Hold time是指感測後保持訊號的時間，在所偵測目標快速移動�
 
 ---
 
-## TOPIC 4 : 用雷達控制LED燈發光 (選做)
+## TOPIC 5 : 用雷達控制LED燈發光 (選做)
 
 - 新增材料
-- [ ] 
+- [ ] Arduino MKR WIFI 1010
+- [ ] USB-C 信號傳輸線
+- [ ] BGT60LTR11AIP radar shield board
 
----
+- Arduino IDE 配置
+-- 左側欄位 BOARDS MANAGER/MKR 安裝
+-- 左側欄位 LIBRARY MANAGER/radar-bgt60 安裝
+- 將BGT60LTR11AIP radar shield board組合上Arduino MKR WIFI 1010
+![](https://i.imgur.com/o9SYj9o.png)
 
-![](https://i.imgur.com/ij69tPh.png)
+- 接上線路
+![](https://i.imgur.com/1usazre.png)
 
----
+- 將code寫入到Arduino IDE
+```typescript
+#include <Arduino.h>
 
-## Content script
+#include <bgt60-ino.hpp>
 
-- Bind with each page
-- Manipulate DOM
-- Add event listeners
-- Isolated JavaScript environment
-  - It doesn't break things
+#include <bgt60-platf-ino.hpp>
 
----
 
-# :fork_and_knife: 
+#ifndef TD
+#define TD  15
+#endif
 
----
+#ifndef PD
+#define PD  16
+#endif
 
-<style>
-code.blue {
-  color: #337AB7 !important;
+Bgt60Ino radarShield(TD, PD);
+
+void setup()
+{
+    
+    Serial.begin(9600);
+  
+    Error_t init_status = radarShield.init();
+
+    if (OK != init_status) {
+        Serial.println("Init failed.");
+    }
+    else {
+        Serial.println("Init successful.");
+    }
+
+    pinMode(1, OUTPUT);  
 }
-code.orange {
-  color: #F7A004 !important;
+
+
+void loop()
+{
+   
+    Bgt60::Direction_t direction = Bgt60::NO_DIR;
+
+    Error_t err = radarShield.getDirection(direction);
+
+    
+    if (err == OK)
+    {     
+        switch (direction)
+        {            
+            case Bgt60::APPROACHING:
+                Serial.println("Target is approaching!");
+                digitalWrite(1, true); 
+                break;
+            
+            case Bgt60::DEPARTING:
+                Serial.println("Target is departing!");
+                digitalWrite(1, false); 
+                break;
+            
+            case Bgt60::NO_DIR:
+                Serial.println("Direction cannot be determined since no motion was detected!"); 
+                break;
+        }
+    }
+    /* API execution returned error */
+    else{
+        Serial.println("Error occurred!");
+    }
+
+    delay(500);
 }
-</style>
 
-- <code class="orange">onMessage('event')</code>: Register event listener
-- <code class="blue">sendMessage('event')</code>: Trigger event
-
----
-
-# :bulb: 
-
----
-
-- Dead simple API
-- Only cares about application logic
-
----
-
-```typescript
-import * as Channeru from 'channeru'
-
-// setup channel in different page environment, once
-const channel = Channeru.create()
 ```
+- Arduino IDE點選向右箭頭的圖示，將code燒錄至MKR板中
+
+
+
 
 ---
 
+## TOPIC 6 : 用雷達控制伺服馬達 (選做)
+
+- 新增材料
+- [ ] Arduino MKR WIFI 1010
+- [ ] USB-C 信號傳輸線
+- [ ] BGT60LTR11AIP radar shield board
+
+- Arduino IDE 配置
+-- 左側欄位 BOARDS MANAGER/MKR 安裝
+-- 左側欄位 LIBRARY MANAGER/radar-bgt60 安裝
+- 將BGT60LTR11AIP radar shield board組合上Arduino MKR WIFI 1010
+![](https://i.imgur.com/o9SYj9o.png)
+
+- 接上線路
+![](https://i.imgur.com/bs38yme.png)
+
+- 將code寫入到Arduino IDE
 ```typescript
-// in background script
-const fakeLogin = async () => true
+#include <Arduino.h>
 
-channel.answer('isLogin', async () => {
-  return await fakeLogin()
-})
+#include <bgt60-ino.hpp>
+
+#include <bgt60-platf-ino.hpp>
+
+#include <Servo.h>
+Servo myservo;
+
+#ifndef TD
+#define TD  15
+#endif
+
+#ifndef PD
+#define PD  16
+#endif
+
+Bgt60Ino radarShield(TD, PD);
+
+void setup()
+{
+    
+    Serial.begin(9600);
+  
+    Error_t init_status = radarShield.init();
+
+    if (OK != init_status) {
+        Serial.println("Init failed.");
+    }
+    else {
+        Serial.println("Init successful.");
+    }
+
+    myservo.attach(1);  // 腳位1設定為伺服馬達訊號腳位
+}
+
+
+void loop()
+{
+   
+    Bgt60::Direction_t direction = Bgt60::NO_DIR;
+
+    Error_t err = radarShield.getDirection(direction);
+
+    
+    if (err == OK)
+    {     
+        switch (direction)
+        {            
+            case Bgt60::APPROACHING:
+                Serial.println("Target is approaching!");
+                myservo.write(0); // 伺服馬達轉軸轉動至0度
+                break;
+            
+            case Bgt60::DEPARTING:
+                Serial.println("Target is departing!");
+                myservo.write(90); // 伺服馬達轉軸轉動至90度
+                break;
+            
+            case Bgt60::NO_DIR:
+                Serial.println("Direction cannot be determined since no motion was detected!"); 
+                myservo.write(180);  // 伺服馬達轉軸轉動至180度
+                break;
+        }
+    }
+    /* API execution returned error */
+    else{
+        Serial.println("Error occurred!");
+    }
+
+    delay(500);
+}
+
 ```
-
-<br>
-
-```typescript
-// in inject script
-const isLogin = await channel.callBackground('isLogin')
-console.log(isLogin) //-> true
-```
+- Arduino IDE點選向右箭頭的圖示，將code燒錄至MKR板中
 
 ---
 
-# :100: :muscle: :tada:
+## Reference
+- Infineon BGT60LTR11AIP board user guide : https://www.infineon.com/dgdl/Infineon-AN133733_BGT60LTR11AIP_EBG_Shield.pdf-ApplicationNotes-v01_10-EN.pdf?fileId=8ac78c8c872bd8d6018751c0ea39605c
+- bgt60 radar github : https://github.com/Infineon/arduino-radar-bgt60/blob/master/examples/directionDetection/directionDetection.ino
 
----
 
-### Wrap up
 
-- Cross envornment commnication
-- A small library to solve messaging pain
-- TypeScript Rocks :tada: 
 
----
-
-### Thank you! :sheep: 
-
-You can find me on
-
-- GitHub
-- Twitter
-- or email me
