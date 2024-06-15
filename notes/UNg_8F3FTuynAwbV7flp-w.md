@@ -23,7 +23,7 @@ tags: 民防
     - 再說明如果有統整的資料可以做到什麼事（目前數位韌性松的成果）
     - 目標希望由內政部統整所有資料，並且以開放資料型式定期更新釋出，讓大家可以用這資料來做各種離線 App
     - 其他
-        - 防災避難收容所開放資料集有誤，由民間社群勘誤經緯度至少 200 筆資料，其地點經緯度位置標示錯誤 https://g0v.hackmd.io/@waytosafety/home/
+        - 防災避難收容所開放資料集有誤，由民間社群勘誤至少 200 筆資料經緯度位置標示錯誤 https://g0v.hackmd.io/@waytosafety/home/
 - 遊說流程
 - 找到的東西
     - [消防署消防防災e點通 app](https://play.google.com/store/apps/details?id=com.nfa.report&hl=zh_TW)
