@@ -221,3 +221,6 @@ https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/
 | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Survival Manual (Offline App)                      | [F-Droid](https://f-droid.org/packages/org.ligi.survivalmanual/), <br />[Google Play Store](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual), <br />[Amazon appstore](https://www.amazon.com/ligi-Survival-Manual/dp/B06WW43R3T). |
 -->
+
+## selfhost 替代品 
+[連結](/vMiVU4G2RqqbY0tVJ9YaRg)

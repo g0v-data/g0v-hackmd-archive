@@ -49,12 +49,24 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
-| Pagoda 西印太地區公民科技韌性網路 | Tofus | https://pagoda.wtf/#work https://pagoda.gitbook.io/pagoda-handbook/pagoda-network/values-and-purpose|
+| Pagoda 西印太地區公民科技韌性網路 | Tofus | https://pagoda.wtf/#work https://pagoda.gitbook.io/pagoda-handbook/pagoda-network/values-and-purpose https://g0v.hackmd.io/@tofus/pagoda-intro|
 | 遊說內政委員會立委推動避難所資料彙整 | Ronny | [全台防災/防空避難所大統整](/UNg_8F3FTuynAwbV7flp-w) 
 | 讓避難所資訊在飛航模式也可以使用 | Ronny | [全台防災/防空避難所大統整](/UNg_8F3FTuynAwbV7flp-w)
+| 數位服務/軟體離線替代品 | Paul | [數位服務/軟體斷網解決方案 selfhost alternatives](/vMiVU4G2RqqbY0tVJ9YaRg) |
+| 全民防災e指通使用心得 | Ronny | [全民防災e指通使用心得](/7EeXGLKVTxSbuji6SX7_Ow)
+
+
+
+### 數位服務/軟體離線替代品
+* 今天 NPO HUB 的網路實在太爛了，連 g0v hackmd 都連不上，讓我再次感受到離線運作的必要性
 
 ## 簽名區
 來者何人，留下名稱！（請自由留下自己的暱稱或稱呼）
+Paul
+Ronny
+Tofus
+Superbil
+yellowsoar
 
 ---
 [Back to the top](#)
