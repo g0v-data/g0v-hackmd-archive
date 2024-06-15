@@ -50,7 +50,8 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
 | Pagoda 西印太地區公民科技韌性網路 | Tofus | https://pagoda.wtf/#work https://pagoda.gitbook.io/pagoda-handbook/pagoda-network/values-and-purpose|
-| 遊說內政委員會立委
+| 遊說內政委員會立委推動避難所資料彙整 | Ronny | [全台防災/防空避難所大統整](/UNg_8F3FTuynAwbV7flp-w) 
+| 讓避難所資訊在飛航模式也可以使用 | Ronny | [全台防災/防空避難所大統整](/UNg_8F3FTuynAwbV7flp-w)
 
 ## 簽名區
 來者何人，留下名稱！（請自由留下自己的暱稱或稱呼）
