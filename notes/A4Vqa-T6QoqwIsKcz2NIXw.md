@@ -37,27 +37,5 @@ tags:
 
 ## 提案相關常見問題
 
-> 這裡要附上答案嗎？
-> [name=Shelling F]
-
-> 對啊，需要有人幫忙寫答案 ^^  請有參與經驗的g0ver幫忙寫。先寫了之後再彙整編輯 :)
-> [name=ipa c]
-
-> 以下問題暫時以討論串方式開始作答
-> [name=Shelling F]
-
-g0v tw hackg0v tw hackath28ng0v tw hackath28nath28n
-- 如果有類似專案，要如何進行？
-> 這題的命題可以再精確一點
-> [name=Shelling F]
-
-- 為什麼 g0v 希望盡量公開討論？公開討論的好處？
-> g0v 的社群既是 Open Source 社群，也是 Open Data 社群，還是 Open Government 社群。Open Source （公開討論程式碼設計）的好處是「只要有夠多的眼睛盯著，就可以找出錯誤」。Open Data （公開討論資料詮釋）的好處是「只要有夠廣泛的散佈，就可以有效利用資料成果」。Open Government （公開討論決策）的好處是「只要有夠多的人參與決策，就可以貼近眾人需求」。
-> [name=Shelling F]
-
-- 可以提出專案但是不開源嗎？
-> 以文化面來說，就 g0v 最初的 opendata 的目標，以及 g0v 組織文化多半承襲 open source 的情形來說，沒有閉源的需求。就實務面來說，g0v 目前的專案都放置在 github，也沒有付費購買閉源 repositories。所以目前的答案就是不可行。目前也沒有任何專案是閉源型態，未來是否會有需要閉源的狀況，也許需就該專案討論。
-> [name=Shelling F]
-
 
 
