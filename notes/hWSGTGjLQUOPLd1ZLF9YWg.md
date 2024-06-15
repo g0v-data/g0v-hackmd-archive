@@ -20,6 +20,7 @@ Arduino 將控制晶片和燒錄功能整合到一塊小巧的板子上。它的
 - [ ] Arduino UNO板
 - [ ] USB 信號傳輸線
 - [ ] 杜邦線
+- [ ] 伺服馬達
 
 ---
 
@@ -98,41 +99,36 @@ void loop() {
 }
 ```
 - Arduino IDE點選向右箭頭的圖示，將code燒錄至UNO板中
-- 
----
-
-
-```graphviz
-digraph {
-  compound=true
-  rankdir=RL
-
-  graph [ fontname="Source Sans Pro", fontsize=20 ];
-  node [ fontname="Source Sans Pro", fontsize=18];
-  edge [ fontname="Source Sans Pro", fontsize=12 ];
-
-
-  subgraph core {
-    c [label="Hackmd-it \ncore"] [shape=box]
-  }
-  
-  c -> sync [ltail=session lhead=session]
-
-  subgraph cluster1 {
-     concentrate=true
-    a [label="Text source\nGithub, Gitlab, ..."] [shape=box]
-    b [label="HackMD Editor"] [shape=box]
-    sync [label="sync" shape=plaintext ]
-    b -> sync  [dir="both"]
-    sync -> a [dir="both"]
-    label="An edit session"
-  }
-}
-```
 
 ---
 
-### Architecture of extension
+## TOPIC 4 : Infineon BGT60LTR11AIP board (選做)
+
+- 描述
+Infineon BGT60LTR11AIP radar board 是一顆都普勒雷達，其中BGT60LTR11AIP MMIC 是一款完全集成的微波運動傳感器，運行於60GHz ISM頻段，並具有4個四態 (QS1-4) 輸入引腳，可工作於SPI模式和自主模式。shield board在SPI模式下可接上MCU7底板且可由radar GUI觀測運動狀態。
+
+![](https://i.imgur.com/dID992i.png)
+
+- QS1 (R3)
+BGT60LTR11AIP配置為在SPI模式下，可透過移除R3電阻進入自主模式。Shield board 具有4個(PD、TD、GND、VIN)腳位可對外連接。
+
+- QS2 (R9, R10)
+通過改變R9、R10電阻值調整感測範圍(Sensitivity)。
+將shield board置於顯微鏡下並以膠帶固定，調整目鏡至適當距離後移除R10電阻，提高感測精度。
+
+- QS3 (R19, R20)
+通過改變R19、R20電阻值調整感測持續時間(Hold time)。
+Hold time是指感測後保持訊號的時間，在所偵測目標快速移動相對需要即時回復的設計需降低Hold time，反之若是作為感測物體的有無，如陌生人靠近發出警報聲音的時間也由Hold time控制。
+然而，對於特殊需求，雷達偵測時間可以由外部控制，預設QS3設定detector hold time較低，作為一般雷達應用，偵測已足夠靈敏，因此跳過這部分的焊接。
+
+
+
+---
+
+## TOPIC 4 : 用雷達控制LED燈發光 (選做)
+
+- 新增材料
+- [ ] 
 
 ---
 
