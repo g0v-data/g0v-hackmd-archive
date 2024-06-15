@@ -229,7 +229,9 @@ Ronny 覺得 keypoint 在於
 [國際上有政府支出開放資料的列表](https://index.okfn.org/dataset/spending/)
 
 
-## 其他國家的政府標案採購資料
+## 國際案例
+
+### 其他國家的政府標案採購資料
 
 全球的政府採購商機網
 https://gpa.taiwantrade.com.tw/home
@@ -239,4 +241,7 @@ https://www.facebook.com/groups/goodbiaobook/permalink/371599810106717
 
 ClearSpending.ru：
 為了打擊貪腐、增加施政透明度，俄羅斯政府於2016年建立zakupki.gov.ru，公開政府採購標案；為了方便查詢，民間組織GosZatraty project則建立了clearspending.ru，以更友善的介面備份zakupki.gov.ru資料
-https://medium.com/twreporter/%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%B0%8E%E5%B9%95%E5%BE%8C-%E5%A0%B1%E5%B0%8E%E8%80%85-%E5%A6%82%E4%BD%95%E5%BE%9E%E6%B5%B7%E9%97%9C%E6%95%B8%E6%93%9A%E8%B3%87%E6%96%99-%E6%8C%96%E5%87%BAmit%E5%B7%A5%E5%85%B7%E6%A9%9F%E6%B5%81%E5%85%A5%E4%BF%84%E7%BE%85%E6%96%AF%E8%BB%8D%E5%B7%A5%E6%A5%AD%E8%AD%89%E6%93%9A-d43734897d9e?
+https://medium.com/twreporter/%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%B0%8E%E5%B9%95%E5%BE%8C-%E5%A0%B1%E5%B0%8E%E8%80%85-%E5%A6%82%E4%BD%95%E5%BE%9E%E6%B5%B7%E9%97%9C%E6%95%B8%E6%93%9A%E8%B3%87%E6%96%99-%E6%8C%96%E5%87%BAmit%E5%B7%A5%E5%85%B7%E6%A9%9F%E6%B5%81%E5%85%A5%E4%BF%84%E7%BE%85%E6%96%AF%E8%BB%8D%E5%B7%A5%E6%A5%AD%E8%AD%89%E6%93%9A-d43734897d9e
+
+奈及利亞政府部門標案
+https://www.budeshi.ng/
