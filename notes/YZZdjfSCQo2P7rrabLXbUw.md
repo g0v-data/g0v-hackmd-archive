@@ -5,14 +5,12 @@
 目錄
 [TOC]
 :::
+
+https://www.geoguessr.com/free
+https://www.gq.com.tw/video/watch/every-trick-a-pro-geoguessr-player-uses-to-win-ke-pu-chang-zhi-shi-gq-taiwan
 Easy Note Origami 便條摺學
 https://www.youtube.com/@EasyNoteOrigami/videos
-數感實驗室Numeracy Lab
-https://www.youtube.com/@NumeracyLab
-LIS 情境科學教材
-https://www.youtube.com/@LISscience
-NyoNyoTV妞妞TV
-https://www.youtube.com/@NyoNyoTV/videos
+
 《１００次逃脫》
 https://www.i-gamer.net/play/21299.html
 Google 遊戲

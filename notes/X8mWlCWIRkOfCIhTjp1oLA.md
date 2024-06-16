@@ -481,6 +481,9 @@ https://www.facebook.com/share/p/pWF928rbKwFJBmtJ/
 南投中興新村
 https://www.facebook.com/story.php?story_fbid=pfbid0korrQ5zYKfaga1gMJzHVGdvTn26Aj8ierjQ6H7Do8wVZLA4JM5zPZZFUQP3KeAy7l&id=100063883987874&mibextid=qC1gEa
 
+嘉義市 林森東路 嘉義大學林森校區～興華中學
+https://www.facebook.com/groups/twroadclub/posts/1972893492890416/
+
 待查詢具體位置
 https://www.facebook.com/100049204915573/posts/pfbid0U538Q2mrd7CVBURitvLhASHM9oRQwLLpWQG1bVHM7YLagry7LXnQqYwo7NibsYmwl/?mibextid=cr9u03
 https://www.facebook.com/100064542675965/posts/pfbid0t1KNv3tDaLoprUUtFfAtBCyPpWRvT4R6K4uLctfEz27pLLKWF9om9jw8gfVwYkBml/?mibextid=cr9u03
