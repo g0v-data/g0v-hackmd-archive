@@ -1,7 +1,11 @@
 # Denian Package 打包教程筆記
 
+下載現成deb
+解包取得source code
+解釋內容
 source code打包內容
 dpkg 指令打包流程
+產生deb檔
 install 方式
 實際例子
 
