@@ -37,6 +37,8 @@ tags: 都市農耕
     - https://uac-darbouazza.blog4ever.com/
     - https://knowledge-hub.circle-lab.com/article/10410?n=Urban-Agriculture-and-Healthy-Food-Production-in-Casablanca
     - https://www.internationaldesign.nl/Casablanca-Urban-Agriculture
+- 馬拉威
+    - https://www.facebook.com/share/vvxbggW9SraSLeYT/?
 
 ---
 
