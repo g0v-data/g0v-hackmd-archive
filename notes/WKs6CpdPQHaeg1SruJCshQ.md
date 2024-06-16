@@ -55,7 +55,7 @@ tags: 新生流域
         - https://drive.google.com/drive/folders/1t6xizblGJAZTTZrLGRIHgN3ta6s_WCzB?usp=share_link
 - 各單位的聯絡資訊
     - 2023.03 已建立一份非公開 Airtable
-        - 瀏覽權限：chewei,
+        - 編輯與完整瀏覽權限：chewei,
         - 成員新增機制：採邀請制，既有成員有否決權
         - https://airtable.com/appMn8RbwnnayUwP6/shrHGu54orhbv8th8
 - 用 FB 社團投票功能，當作活動參加統計
