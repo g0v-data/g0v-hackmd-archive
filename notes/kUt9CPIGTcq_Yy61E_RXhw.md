@@ -1,14 +1,12 @@
-
-Công ty cổ phần dược mỹ phẩm Lis là đơn vị hoạt động trong lĩnh vực: Sản xuất và gia công thực phẩm chức năng, Sản xuất và gia công mỹ phẩm, Sản xuất và gia công thuốc cổ truyền, 
-cung cấp nguyên liệu công nghệ sinh học và các hoạt chất từ thiên nhiên; thành phẩm thực phẩm chức năng, dược phẩm, thực phẩm và mỹ phẩm...
-Address: Liền kề 16-19, KĐT mới, An Hưng, Phường La Khê, Quận Hà Đông, Thành Phố Hà Nội 
-Website: https://lispharma.vn/
-Nhà máy1: https://naturepharma.net.vn/
+Công ty Cổ Phần Dược Liên Phong 
+Chuyên cung cấp các dòng sản phẩm: Thuốc, Thực phẩm chức năng, Thực phẩm bảo vệ sức khỏe và thực phẩm bổ sung. 
+Address: Số 21, V5A, Khu đô thị mới Văn Phú, P.Phú La, Q. Hà Đông, TP Hà Nội.
+Website:  https://duoclienphong.com/
 MST/DKKD/QDTL: 0105716834
 Mail: nhamaysxtpcn@gmail.com 
-Hotline: 0329016668 / 0989386863 
-#Lis  #giacongthucphamchucnang
-Nhà máy2: http://tadaphaco.vn/
+Hotline: 0329016668 / 024 62 67 16 16 
+#Lienphong, #Thucphamchucnang, #thuoc, #Vientieudem
+Nhà máy: Dược phẩm takeda
 
 
 Xem thêm:
