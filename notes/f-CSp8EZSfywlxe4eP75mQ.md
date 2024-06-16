@@ -48,6 +48,10 @@ GA: UA-98468513-3
 - ListReplies 的 reply 上沒有 status，只有 articleReply 上有 status [name=mrorz]
 - 但可以讓 blocked user 或 reply 的外觀跟其他不一樣 [name=mrorz]
 
+:::success
+Done in https://github.com/cofacts/community-builder/pull/20
+:::
+
 ## Hackmd 會議紀錄查找 / dify 研究
 
 - 目前：google custom search, 只有發佈到網路的內容
