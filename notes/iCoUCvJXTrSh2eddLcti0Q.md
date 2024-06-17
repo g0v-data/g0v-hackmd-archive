@@ -22,8 +22,11 @@ GA: UA-98468513-3
 
 ### [Comm] AI assisted reply
 
+Dify
 
 ### [Comm] Rewrite transcript
+
+Dify
 
 ## 聯絡事項
 
@@ -35,6 +38,8 @@ GA: UA-98468513-3
 過往 CIB 調查：https://g0v.hackmd.io/ndNDmEkiSHyTRMOEIy2q2Q （workspace only)
 
 ### 下架
+https://cofacts.tw/article/JPe4WI0BAjOeMOkl4Lpz
+https://cofacts.tw/article/mvZ_fYwBAjOeMOklVKvx
 
 
 ### 詭異
@@ -42,3 +47,5 @@ https://cofacts.tw/article/19xo84c6ndn1k
 
 ### 165?
 
+- 有很多二次詐騙會來打廣告
+- 165 窗口？
