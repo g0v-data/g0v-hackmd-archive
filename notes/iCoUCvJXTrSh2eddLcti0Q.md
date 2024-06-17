@@ -47,5 +47,9 @@ https://cofacts.tw/article/19xo84c6ndn1k
 
 ### 165?
 
+> Last discussion https://g0v.hackmd.io/DSuREu46QbWI38ITq9IlrQ#Honeypot-to-165
+> 忘記結論⋯⋯
+
 - 有很多二次詐騙會來打廣告
 - 165 窗口？
+- 有 dify 可能可以比較簡單
