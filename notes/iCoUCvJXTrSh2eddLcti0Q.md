@@ -25,6 +25,20 @@ GA: UA-98468513-3
 
 ### [Comm] Rewrite transcript
 
+## 聯絡事項
+
+### 訛稱是同樣帳號
+
+> https://docs.google.com/spreadsheets/d/1q-iMJ9tZtoyHNfwInAb3z-eIg2x4-w1yp7XGTiaLB-w/edit?resourcekey=&gid=1583640334#gid=1583640334&range=K1235:K1237
+> （workspace only) 
+
+過往 CIB 調查：https://g0v.hackmd.io/ndNDmEkiSHyTRMOEIy2q2Q （workspace only)
+
+### 下架
 
 
+### 詭異
+https://cofacts.tw/article/19xo84c6ndn1k
+
+### 165?
 
