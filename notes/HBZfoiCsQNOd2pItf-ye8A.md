@@ -84,6 +84,7 @@ https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
         - 機構與宿舍
     - 都市計畫用地種類
         - 道路，建物，公園，學校
+- 
 
 ### 觸媒、框
 - 臺北高校與師大 http://archives.lib.ntnu.edu.tw/
@@ -116,6 +117,10 @@ https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
     - 居住二年
     - 一月一天
     - 一天旅遊
+- 學習型城市
+    - 打工
+
+
 
 觀察到什麼樣「共同的需求」？
 - 每天困擾、已經在花錢的事項
