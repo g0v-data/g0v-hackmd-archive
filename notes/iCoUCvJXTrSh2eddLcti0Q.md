@@ -8,7 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- 線上出席：bil, mrorz, nonumpa, 4000
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -47,28 +47,50 @@ GA: UA-98468513-3
 #### Current rule CSR
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ea45533d8269e3d1ba681870ea903941.png)
 
+:::success
+Can disable "visiting certain page"
+:::
 
 ### [Comm] AI assisted reply
 
 Dify
 
+--> https://udify.app/chat/GPP7KgwM8cn778yO
+
+Next steps
+- get related article & reply
+- 放進 prompt 當成 few-shot examples
+    - Example: https://cofacts.tw/article/tII3zY8B3RbBUEe2gG-J 這篇有人回過，說不定 LLM 會採用
+
 ### [Comm] Rewrite transcript
 
 Dify
+Blocked by accessing media
 
-## 聯絡事項
-
-### 訛稱是同樣帳號
+### [Op] 訛稱是同樣帳號
 
 > https://docs.google.com/spreadsheets/d/1q-iMJ9tZtoyHNfwInAb3z-eIg2x4-w1yp7XGTiaLB-w/edit?resourcekey=&gid=1583640334#gid=1583640334&range=K1235:K1237
 > （workspace only) 
 
 過往 CIB 調查：https://g0v.hackmd.io/ndNDmEkiSHyTRMOEIy2q2Q （workspace only)
 
+
+:::success
+修改過往信件重寄
+:::
+
 ### 下架
 https://cofacts.tw/article/JPe4WI0BAjOeMOkl4Lpz
 https://cofacts.tw/article/mvZ_fYwBAjOeMOklVKvx
 
+
+:::success
+1. 先聯繫[對方](https://esubank.com.tw/e%e9%80%9f%e8%b2%b8%e5%8f%8d%e8%a9%90%e9%a8%99%e8%81%b2%e6%98%8e/) 詢問是否是假冒的
+2. 撰寫回應
+碼掉名字、聯絡方式
+回應：新型債務風暴 https://www.youtube.com/watch?v=Reiq4UmXtHg
+https://www.mirrormedia.mg/story/20230515pol002 需謹慎理財
+:::
 
 ### 詭異
 https://cofacts.tw/article/19xo84c6ndn1k
@@ -77,6 +99,23 @@ https://cofacts.tw/article/1hzn0t7mn2eq4 （被 DDoS）
 
 Related replies: https://cofacts.tw/reply/uXFAG5ABd3gcY0LpuUCp
 
+- 0 人回報，已經被刪過 [name=bil]
+- 網站：把 blocked message 的 title 也拿掉
+- 網站針對 blocked 訊息，相似可疑訊息也只給登入的人看
+- 0 人回報的訊息 --> 不應該回應 [name=bil]
+    - 會導致其他人無法蓋掉怪怪的訊息嗎 [name=mrorz]
+    - 先放著不改好了
+- 被 block 的訊息有 AI 回應會被搜尋到 [name=nonumpa]
+    - 詐團用關鍵字搜尋到，就進來亂 [name=nonumpa]
+    - 但 AI 回應會讓人更小心
+    - 也是可以藏起來，只有登入的人看 [name=mrorz]
+
+:::success
+1. CIB，用回應內文撈肉粽，通通 block
+2. 改網站 title
+3. 改網站，blocked article 的 related article 只有登入者看得到
+:::
+
 ### 165?
 
 > Last discussion https://g0v.hackmd.io/DSuREu46QbWI38ITq9IlrQ#Honeypot-to-165
@@ -84,4 +123,13 @@ Related replies: https://cofacts.tw/reply/uXFAG5ABd3gcY0LpuUCp
 
 - 有很多二次詐騙會來打廣告
 - 165 窗口？
+    - 需要有能力決策的單位 [name=bil]
+    - 165 好像沒有與 LINE 合作，他們 ID 都搜尋得到 [name=nonumpa]
+        - 詐騙 LINE ID open data 是警政署放的 https://data.gov.tw/dataset/78432
+    - 數發部好像有要做整合 [name=nonumpa]
 - 有 dify 可能可以比較簡單？
+
+:::success
+MrOrz 問數發部＆警政署
+:::
+

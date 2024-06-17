@@ -84,7 +84,11 @@ https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
         - 機構與宿舍
     - 都市計畫用地種類
         - 道路，建物，公園，學校
-- 
+- 淘刷
+    - 街區內部比較靜止
+    - 大車流道路 改建 較快
+    - 師大 南北校區
+    - 台大 林蔭大道
 
 ### 觸媒、框
 - 臺北高校與師大 http://archives.lib.ntnu.edu.tw/
