@@ -8,6 +8,12 @@
 BenjaminPeng
 TomoBenjaminPeng@icloud.com
 
+主題定義：
+「社會」的根基在協作，沒有協作，就沒有社會可言。
+「哲學」是抽取社會「本質」與「原理」的工作。
+「計算機」提供「原理」實踐的工具。
+「原理」提供「計算機」運行的程序。
+
 #### 零、緣起:
 
 讓我們承認：人類社會要達成美好與和諧的願景需要倚靠的是最高級的真理以及最基本的共同原則，這種既最高級又最基本的真理與原則，正如牛頓從星體的運動中提煉出的數學原理一樣，並不以個人或是集體的力量或意志所變，儘管後世的科學家能將其修正的更接近終極的知識，也並不妨礙自17世紀以來，人類依託其原理所鑄成的科學、科技、工業等文明成就。
@@ -184,26 +190,65 @@ TomoBenjaminPeng@icloud.com
 
 ## 現況與問題
 
-1. 大企業的社群媒體承載了數十億人的"信任"
-2. 大企業的社群媒體是商業、閉源的
-3. 大企業的社群媒體是分眾的，容易創造同溫層
-3. 大企業的社群媒體許多是靠廣告維生，演算法鼓勵人們在線上社交取代實體碰面，這對信任感有礙。
+1. 互聯網資訊的碎片化：互聯網實現全球資訊互通，但上傳的文件、圖片、影音......等一切資訊都來源於「人」的碎片，也就是說，所有的資訊，都來自於某創始來源的割裂，而呈零碎、混亂的狀態。
+    > 也就是說，要整理整個互聯網，使其不再零碎，而有秩序，需要一套全新的模式，根植於每個創始來源，也即每個人，因為人本身就是資訊的創始者。
+2. 攸關經濟的一切問題：要成就大事，需要解決資源的困難，也即面對當前的金錢系統，解決攸關每個人的資源問題。
+    > 基於全球標準時間作為資源衡量與價值鑄造的基礎，最終完全取代現有的金融體系。
+3. 攸關政治的一切問題：當價值衡量的標準從金錢過渡到標準時間並重塑整個社會，現代的政治系統就會全部重塑。 
+[name=Benjaminpeng]
+4. 世界的政府統治下的人類與大企業承載了數十億人的"授權與信任"
+5. 世界的政府是區域性的、部分性的，封閉的，大企業的本質是商業、閉源的
+6. 政府本質是割裂的、區分的、鬥爭的，大企業的社群媒體是分眾的，容易創造同溫層
+7. 世界政府靠人類的汗水與勞作生存，媒體曲解現況，大企業的社群媒體靠廣告與商業維生，演算法鼓勵人們不去關注真正的問題。
+[name=Bestian]
 
+## 目標
 
-## 可能的解決方案?
+1. 重塑全球互聯網：以一套基於個人身分互聯的協定，取代當前基於地址連結(IP address)與內容連結(HTTP協定)等資訊碎片化的協定，先在區域實現，最後擴展到整個人類社會。
+2. 重塑全球經濟系統：以全球標準時間作為資源標準衡量系統，以此標準資源衡量系統建立價值衡量系統，最終完全取代現有的金融體系。
+3. 重塑全球人類社會管理系統
+[name=Benjaminpeng]
 
-1. 熔爐計畫《Cauldron》
-    > 必須取信於公共社會的必要杜絕後門的相關軟硬體功能與系統皆自由開源
+## 解決方案
 
-2. 臺灣協定《Taiwan Protocol》
+(-1).建立如RescueTime, ManicTime等自動追蹤時間記錄程序作為當前應用，依未來依然可用的UX設計，形成初始UI。
+
+0. 熔爐計畫《Cauldron》
+    > 將個人所有歷史資訊、當前資訊、未來計畫整合至個人裝置，並形成單一身分，並以此唯一的身分證作為新的IP。
+
+1. 在區域實現：臺灣協定《Taiwan Protocol》
     > 分時人工智慧廣域網路協定 Time-Sharing Artificial Intelligence Wide Area Networks Protocol。
-
-3. 
 
 > 請問樓主想實做的項目，是否能用Feature by Feature的方式列點, 比較好懂?[name=Bestian]
 
-可以[name=BenjaminPeng]
+## (-1). functions set
+1. Automatic Time Tracking : Tracks time spent on applications, websites, and documents without manual entry.
+2. FocusTime Sessions and Real-time Alerts: Allows users to block distracting websites and set focus goals to stay on task and notifies users when they are off track or exceed set focus limits.
+3. Goals and Alerts: Users can set goals for productivity, receive real-time alerts, and monitor progress towards these goals.
+4. Detailed Reports: Provides daily, weekly, and monthly reports with detailed insights into how time is spent, helping identify productivity trends.
+5. Weekly Email Summaries: Summarizes weekly activities and productivity scores, offering insights to plan the upcoming week more effectively.
+6. Distraction Management: Identifies and blocks distracting websites, aiding in maintaining focus during work hours.
+7. Customizable Work Hours: Allows setting specific work hours and tracking offline time to ensure work-life balance.
+8. Offline Tracking: offline time tracking capabilities, tracks breaks and non-work activities, giving a complete picture of time allocation 
+9. Integrations and Plugins: Supports integration with calendars and other productivity tools to provide a holistic view of time usage and offers plugins for web browsers
+10. Activity Dashboard: A comprehensive dashboard that visualizes time usage data with graphs and charts.
+11. Tagging and Automatic Categorization: Automatically categorizes activities based on the user’s work type for more relevant insights and  Users can add custom tags to activities
+12. Smart Coaching: Provides personalized advice and tips to improve focus and productivity based on usage patterns.
+13. Timesheet Management: Features for tracking billable hours, generating invoices, and managing client billing 
+14. Reporting and Exporting: Generates detailed reports in various formats (PDF, Excel) and allows data export for further analysis or sharing 
+15. [non-fucntonal requirements]Data Security and Privacy: Offers encryption, password protection, and control over data access 
+16. [non-fucntonal requirements]Cross-Platform Compatibility: Available on Windows, macOS, and Linux, allowing seamless time tracking across different devices
+17. [non-fucntonal requirements]Mobile App: Allows time tracking on the go, with synchronization to the desktop version for comprehensive tracking and reporting
+18. Advanced Features for Pro Version:
+    - Time Server
+    - Auto tagging
+    - Advanced search
+    - Tag shortcuts
+    - Scheduled backup
+    - [non-fucntonal requirements]Password protection
+    - Shift day start 
 
+[name=BenjaminPeng]
 
 ## 可能的限制
 
@@ -212,20 +257,22 @@ TomoBenjaminPeng@icloud.com
 3. 使用者習慣不容易一夕改變
 
 
-# 目前攸關的開源專案、網路媒體或NPO專案：
+# 目前攸關的APP、開源專案、網路媒體或NPO專案：
 
 ## 英文與國際(共筆收集中)
 
-1. [BAT(Basic Attention Token)](https://basicattentiontoken.org/zh/) and [Brave(Browser)](https://brave.com/)
-2. [KaiOS](https://www.kaiostech.com/)
-3. [OpenID](https://openid.net/)
-4. PassKey
+1. [RESCUETIME](https://www.rescuetime.com/)
+2. [MANICTIME](https://www.manictime.com/)
+3. [BAT(Basic Attention Token)](https://basicattentiontoken.org/zh/) and [Brave(Browser)](https://brave.com/)
+4. [KaiOS](https://www.kaiostech.com/)
+5. [OpenID](https://openid.net/)
+6. PassKey
 > 請問PassKey的url?[name=Bestian]
-5. [Meta Group](https://www.meta-group.com/)
-6. [Fediverse](https://fediverse.party/)
-7. [Mastodon](https://joinmastodon.org/)
-8. [GentooGroup](https://www.gentoogroup.com/)
-9. Pop! 
+7. [Meta Group](https://www.meta-group.com/)
+8. [Fediverse](https://fediverse.party/)
+9. [Mastodon](https://joinmastodon.org/)
+10. [GentooGroup](https://www.gentoogroup.com/)
+11. Pop! 
 > 請問Pop!的url?[name=Bestian]
 
 ## 中文與在地(共筆收集中)
@@ -241,7 +288,34 @@ TomoBenjaminPeng@icloud.com
 
 > 請問樓主想實做的項目，是否能用Feature by Feature的方式列點, 比較好懂?[name=Bestian]
 
-可以[name=BenjaminPeng]
+## (-1). functions set
+1. Automatic Time Tracking : Tracks time spent on applications, websites, and documents without manual entry.
+2. FocusTime Sessions and Real-time Alerts: Allows users to block distracting websites and set focus goals to stay on task and notifies users when they are off track or exceed set focus limits.
+3. Goals and Alerts: Users can set goals for productivity, receive real-time alerts, and monitor progress towards these goals.
+4. Detailed Reports: Provides daily, weekly, and monthly reports with detailed insights into how time is spent, helping identify productivity trends.
+5. Weekly Email Summaries: Summarizes weekly activities and productivity scores, offering insights to plan the upcoming week more effectively.
+6. Distraction Management: Identifies and blocks distracting websites, aiding in maintaining focus during work hours.
+7. Customizable Work Hours: Allows setting specific work hours and tracking offline time to ensure work-life balance.
+8. Offline Tracking: offline time tracking capabilities, tracks breaks and non-work activities, giving a complete picture of time allocation 
+9. Integrations and Plugins: Supports integration with calendars and other productivity tools to provide a holistic view of time usage and offers plugins for web browsers
+10. Activity Dashboard: A comprehensive dashboard that visualizes time usage data with graphs and charts.
+11. Tagging and Automatic Categorization: Automatically categorizes activities based on the user’s work type for more relevant insights and  Users can add custom tags to activities
+12. Smart Coaching: Provides personalized advice and tips to improve focus and productivity based on usage patterns.
+13. Timesheet Management: Features for tracking billable hours, generating invoices, and managing client billing 
+14. Reporting and Exporting: Generates detailed reports in various formats (PDF, Excel) and allows data export for further analysis or sharing 
+15. [non-fucntonal requirements]Data Security and Privacy: Offers encryption, password protection, and control over data access 
+16. [non-fucntonal requirements]Cross-Platform Compatibility: Available on Windows, macOS, and Linux, allowing seamless time tracking across different devices
+17. [non-fucntonal requirements]Mobile App: Allows time tracking on the go, with synchronization to the desktop version for comprehensive tracking and reporting
+18. Advanced Features for Pro Version:
+    - Time Server
+    - Auto tagging
+    - Advanced search
+    - Tag shortcuts
+    - Scheduled backup
+    - [non-fucntonal requirements]Password protection
+    - Shift day start 
+
+[name=BenjaminPeng]
 
 
 # 技術層面
