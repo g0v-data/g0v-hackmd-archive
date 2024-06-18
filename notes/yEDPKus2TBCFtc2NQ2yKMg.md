@@ -199,7 +199,7 @@ TomoBenjaminPeng@icloud.com
 4. 世界的政府統治下的人類與大企業承載了數十億人的"授權與信任"
 5. 世界的政府是區域性的、部分性的，封閉的，大企業的本質是商業、閉源的
 6. 政府本質是割裂的、區分的、鬥爭的，大企業的社群媒體是分眾的，容易創造同溫層
-7. 世界政府靠人類的汗水與勞作生存，媒體曲解現況，大企業的社群媒體靠廣告與商業維生，演算法鼓勵人們不去關注真正的問題。
+7. 世界政府靠人類的汗水與勞作生存，媒體曲解現況，大企業的社群媒體靠廣告與商業維生，資訊的破碎使演算法不會使人們關注真正重要的問題。
 [name=Bestian]
 
 ## 目標
@@ -214,14 +214,14 @@ TomoBenjaminPeng@icloud.com
 (-1).建立如RescueTime, ManicTime等自動追蹤時間記錄程序作為當前應用，依未來依然可用的UX設計，形成初始UI。
 
 0. 熔爐計畫《Cauldron》
-    > 將個人所有歷史資訊、當前資訊、未來計畫整合至個人裝置，並形成單一身分，並以此唯一的身分證作為新的IP。
+    > 將個人並形成單一身分，並以此唯一的身分證作為新的IP。
 
 1. 在區域實現：臺灣協定《Taiwan Protocol》
     > 分時人工智慧廣域網路協定 Time-Sharing Artificial Intelligence Wide Area Networks Protocol。
 
 > 請問樓主想實做的項目，是否能用Feature by Feature的方式列點, 比較好懂?[name=Bestian]
 
-## (-1). functions set
+## (-1). functions set[name=Benjaminpeng]
 1. Automatic Time Tracking : Tracks time spent on applications, websites, and documents without manual entry.
 2. FocusTime Sessions and Real-time Alerts: Allows users to block distracting websites and set focus goals to stay on task and notifies users when they are off track or exceed set focus limits.
 3. Goals and Alerts: Users can set goals for productivity, receive real-time alerts, and monitor progress towards these goals.
@@ -240,15 +240,15 @@ TomoBenjaminPeng@icloud.com
 16. [non-fucntonal requirements]Cross-Platform Compatibility: Available on Windows, macOS, and Linux, allowing seamless time tracking across different devices
 17. [non-fucntonal requirements]Mobile App: Allows time tracking on the go, with synchronization to the desktop version for comprehensive tracking and reporting
 18. Advanced Features for Pro Version:
-    - Time Server
+    - [non-fucntonal requirements]Time Server topology
     - Auto tagging
-    - Advanced search
+    - [non-fucntonal requirements]Advanced search topology
     - Tag shortcuts
     - Scheduled backup
-    - [non-fucntonal requirements]Password protection
+    - [non-fucntonal requirements]Privacy protection
     - Shift day start 
 
-[name=BenjaminPeng]
+[name=Benjaminpeng]
 
 ## 可能的限制
 
@@ -288,7 +288,7 @@ TomoBenjaminPeng@icloud.com
 
 > 請問樓主想實做的項目，是否能用Feature by Feature的方式列點, 比較好懂?[name=Bestian]
 
-## (-1). functions set
+## (-1). functions set[name=Benjaminpeng]
 1. Automatic Time Tracking : Tracks time spent on applications, websites, and documents without manual entry.
 2. FocusTime Sessions and Real-time Alerts: Allows users to block distracting websites and set focus goals to stay on task and notifies users when they are off track or exceed set focus limits.
 3. Goals and Alerts: Users can set goals for productivity, receive real-time alerts, and monitor progress towards these goals.
@@ -307,15 +307,15 @@ TomoBenjaminPeng@icloud.com
 16. [non-fucntonal requirements]Cross-Platform Compatibility: Available on Windows, macOS, and Linux, allowing seamless time tracking across different devices
 17. [non-fucntonal requirements]Mobile App: Allows time tracking on the go, with synchronization to the desktop version for comprehensive tracking and reporting
 18. Advanced Features for Pro Version:
-    - Time Server
+    - [non-fucntonal requirements]Time Server topology
     - Auto tagging
-    - Advanced search
+    - [non-fucntonal requirements]Advanced search topology
     - Tag shortcuts
     - Scheduled backup
-    - [non-fucntonal requirements]Password protection
+    - [non-fucntonal requirements]Privacy protection
     - Shift day start 
 
-[name=BenjaminPeng]
+[name=Benjaminpeng]
 
 
 # 技術層面
