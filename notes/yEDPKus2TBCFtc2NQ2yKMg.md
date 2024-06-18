@@ -214,7 +214,7 @@ TomoBenjaminPeng@icloud.com
 (-1).建立如RescueTime, ManicTime等自動追蹤時間記錄程序作為當前應用，依未來依然可用的UX設計，形成初始UI。
 
 0. 熔爐計畫《Cauldron》
-    > 將個人並形成單一身分，並以此唯一的身分證作為新的IP。
+    > 將個人資訊形成單一身分，並以此唯一的身分證作為新的IP。
 
 1. 在區域實現：臺灣協定《Taiwan Protocol》
     > 分時人工智慧廣域網路協定 Time-Sharing Artificial Intelligence Wide Area Networks Protocol。
