@@ -38,6 +38,9 @@ tags: China
 
 ### 明確的事件
 
+以媽祖之名──中國介選的量化影響
+https://www.facebook.com/share/p/DuwkCVdRWn9yBcNK/
+
 Disrupting malicious uses of AI by state-affiliated threat actors
 https://www.facebook.com/share/p/9ffb2edQuJrNyDvA/
 
