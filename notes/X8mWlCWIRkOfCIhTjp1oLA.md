@@ -477,6 +477,7 @@ https://www.facebook.com/share/xjrxPQUt8hkEiRvv/
 彰化和美六岔路口
 https://www.facebook.com/share/nQV1MjrfnfGFFMDP/
 https://www.facebook.com/share/p/pWF928rbKwFJBmtJ/
+https://www.facebook.com/share/p/Af5hpPrvk6dAZR2i/
 
 南投中興新村
 https://www.facebook.com/story.php?story_fbid=pfbid0korrQ5zYKfaga1gMJzHVGdvTn26Aj8ierjQ6H7Do8wVZLA4JM5zPZZFUQP3KeAy7l&id=100063883987874&mibextid=qC1gEa
