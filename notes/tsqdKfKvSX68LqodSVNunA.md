@@ -10,11 +10,29 @@ tags: vtaiwan
 
 ## 近況更新
 ### Rights Con 投稿
-
+- 已經完成投稿，預計 8月可以獲得結果
 ### TICTeC 分享
+- 一場工作坊與一場短講
+    - 工作坊：peter / josh / other partners 
+    - 短講：shuyang
+    - 皆順利結束！
+- 新的連結：9/25 在柏林
 
 ### FNF 邀稿
+- 目前已經與 FNF 完成簽約，會寫一篇文章刊登在 FNF 的網站上。
+- 架構
+    - 前言：AI 風險管理的問題
+    - 如何解決問題？vTaiwan 
+    - 實作：OpenAI 計畫
+    - 將 AI 導入：TttC 介紹與實踐
+    - 結論
+### STS 年會分享
+- 將會在 6/23 週日下午參與 SMC 的論壇：AI與司法:創新政策溝通的可能性
+- 預計在 panel 中分享 vTaiwan 機制。
 
+### 完成 medium 架設
+- 說嘴很久的[部落格(https://medium.com/me/settings/account)]終於完成架設拉！！！
+- 下一步：如何與 vTaiwan 網站結合。
 ## 0620 拜會施克和執行長
 - 感謝翊婷牽線，6/20 下午將拜會蔡總統卸任辦公室施克和執行長
 - 執行長資料
