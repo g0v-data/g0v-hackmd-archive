@@ -295,3 +295,12 @@ Ticket Type: Printer Setup Request;
 Item: Printer Setup Request
 Detail:
 
+你們要自己跟廠商買還是要我們幫您們買?
+
+
+
+你們自己跟廠商->比較快但是比較貴
+
+
+
+我們幫您們買->慢很多但是比較便宜
