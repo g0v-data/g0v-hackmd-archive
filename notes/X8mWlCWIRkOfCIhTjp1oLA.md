@@ -68,6 +68,9 @@ title: 道路標線改造案例地圖、熱點關注地圖
 基隆
 https://www.facebook.com/share/p/AkukN5WcZXfFXRJ4/
 
+臺北 忠誠路士東路路口
+https://www.facebook.com/share/p/8QFfGDPyTnuj3ywu/
+
 臺北，有設置左轉道
 林森北路
 https://maps.app.goo.gl/MMNFNXFZ97Q2hQpK8
