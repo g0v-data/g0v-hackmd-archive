@@ -81,7 +81,11 @@ tags: vtaiwan
         - 提案：想幾個開發的項目
         - 請大家幫忙收集幫忙玩
         - 提議：fork 一個 Polis 出來玩
-        - 
+        - [polis 許願清單](/tjs4swm5ScqufIrjjsS14w)
+            - profile 的收集
+            - 社運現場徵集的 UIUX 的改善
+        - 可以來問過去使用過這個機制的人，這個改善的方向是什麼
+            - 同意
     - 宣傳部分：開場時主持人會協助處理宣傳，我們可以提供 logo 與圖像。
 
 ## CNA 紀錄片邀約
@@ -142,3 +146,12 @@ After which, my producer (Shahul) and I will attempt to propose a more specific 
 Excited to meet you all soon.
 
 Zen
+
+## vTaiwan 會議改革
+- 每週主題：小小的分享
+- 19:00-19:30 留給大家討論
+- 行政事項盡量在 slack 上完成
+- 目標：降低 routine 工作感，讓更多潛水的人可以加入和留下來
+- 工作小組不用每個人參與
+- 要區分一下什麼事情適合同步，什麼事情適合非同步
+- [vTaiwan for all 活動共筆](/PBaky5o0SFCl8Ztr-SXZBg)

@@ -6,7 +6,8 @@ tags: GIS
 Continuous Pedestrian Pathway
 
 :::success
-歡迎加入交流討論社團：https://www.facebook.com/groups/295496753001414/permalink/355916826959406/
+歡迎加入交流討論社團：
+https://www.facebook.com/groups/474536628587982
 :::
 
 :::warning
@@ -20,7 +21,7 @@ Continuous Pedestrian Pathway
 
 在街區內創造一條連續的行人路徑，且盡可能避免受到車道阻斷，避免車輛直通穿越。
 
-透過調整車輛行駛方向與轉向系統，藉此創造行人連續路徑，減少人車交錯路口數量。
+透過調整車輛行駛方向與轉向系統，藉此創造行人連續路徑，減少人車交錯路口數量，也可以用「洄游型行車路線」來描述車輛轉向特點。
 
 #### 名稱發想
 
@@ -49,10 +50,14 @@ https://maps.app.goo.gl/tgspqJiRToreAMX27
 
 
 ### 臺灣情境試作地圖
+
 另開地圖：https://maps.app.goo.gl/X4C3X5fb5rMY1q5C6
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1lG4BxKyoiLXTIReVRpw8PPLpI81NU0E&ehbc=2E312F" width=100% height="480"></iframe>
 
+2023.11 臺北市大安區大學里交通改善問卷中，有提到「阻隔部分路口，避免車輛直通穿越」這項改善措施
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aa273de9870855c8384ba143e8ae0583.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8b6f54c98ce840e1576753cd92443230.png)
 
 ## 繪製步驟
 
@@ -92,18 +97,19 @@ https://maps.app.goo.gl/tgspqJiRToreAMX27
 #### 工作進度與筆記
 
 2023.11 臺北市、新北市三蘆地區、高雄市高雄火車站地區
-2023.12 臺南市新化區、臺南市後壁區 (地區環境分區比都市計畫範圍小)
+2023.12 臺南市新化區、臺南市後壁區
 - 均質街區漸變
     - 臺北市、新北市三蘆地區、高雄市高雄火車站地區
 - 小街廓到廣域街廓，很快
-    - 例如臺南市新化區 (地區環境分區比都市計畫範圍小)
+    - 例如臺南市新化區，市鎮地區、廣域街廓
+
 2024.05 針對臺北市捷運中山站至雙連站街區
 - 有實際拍照方案中的待確認建物之停車場出入口位置 https://photos.app.goo.gl/BAumLMXn12wD9qmp9
 
 
 ### 二、跨街廓路徑
 
-跨街廓路徑，通常是也是紅綠燈位置
+跨街廓路徑，通常路線上也是跨越大型道路的紅綠燈位置
 
 ### 三、街區資訊
 
@@ -116,9 +122,11 @@ https://maps.app.goo.gl/tgspqJiRToreAMX27
 - 汽機車停車供需調查
     - https://g0v.hackmd.io/Xn023IaASqOAY85zLA9BYA?view
 
-
 公用事業車輛路線
-- 公車
+- 公車路線與公車站
+    - 大台北地區路線圖 
+        - 2024 https://www.facebook.com/BusMapTPE/
+        - 2008 https://ericyu.github.io/BusMapTPE/
 - 垃圾車 
     - 景象舉例 https://youtube.com/shorts/MGVS-mgWB4Y
     - 路線資料
@@ -136,23 +144,28 @@ https://maps.app.goo.gl/tgspqJiRToreAMX27
 
 ## 效益與課題
 
-回家的汽車與機車駕駛人
-
-送貨的司機
+街區生活 (居住與辦公) 的汽車使用者、送貨的司機
+- 街區的過境車流會減少
+- 比較不會堵塞在街區內
+- 對於貨車可能需要搭配卸貨區
 
 使用巷弄內停車位的駕駛
+- 依照路網，仍可以停車
 
-行人，行走連續度提高
+行人
+- 行走連續度提高
+- 人車衝突路口數量下降
 
-單車使用者，騎乘連續度提高
+單車使用者
+- 騎乘連續度提高
+- 單車與汽機車衝突路口數量下降
 
-車用道路養護面積可以下降
-
-人車衝突路口數量下降
-
-2023.11 臺北市大安區大學里交通改善問卷中，有提到「阻隔部分路口，避免車輛直通穿越」這項改善措施
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aa273de9870855c8384ba143e8ae0583.png)
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8b6f54c98ce840e1576753cd92443230.png)
+道路養護
+- 車用道路養護面積可以下降
+- 會有行人空間維護費用
+ 
+公園與開放空間增加
+- 路口斜向的連續行人用地
 
 ## 發想筆記
 
@@ -166,6 +179,9 @@ https://maps.app.goo.gl/tgspqJiRToreAMX27
 
 道路網格的起源
 - 日治時期臺灣總督府土木技師濱野彌四郎對臺灣城鄉發展近代化影響之研究 https://hdl.handle.net/11296/6arwby
+    - 1896 年，明治29年12月台灣總督府衛生工事技師巴爾頓及濱野彌四郎到台中，並隨後向總督府提出對於未來之城市規劃意見書，其中影響至今的建言：
+        - 巴爾頓認為採用方格市區為比較合適的規劃。
+        - 認為其中街道不宜過於狹窄，要將官方機構「市役所」置於中央地區，其他醫院、博物館、圖書館等公共建築則要分散各處，尤其是要有公園（後來台中公園）之設置，這些公共建築的興建不光是為了統治需要，也兼顧及人們身體與心理的健康，其中花費最鉅為排水道工程要以逐步完成的方式，將不合適水道隨著市區而作部分變更。
 - 一些針對路網結構發展歷程的地區研究 https://g0v.hackmd.io/NvOW-IGPR3aXjD4g1NHMoQ?view
 
 路的轉型

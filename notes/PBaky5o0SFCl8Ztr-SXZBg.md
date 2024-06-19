@@ -44,3 +44,22 @@ tags: vtaiwan
     - Yu Shan 介紹他的研究，以及提出可能的解方與問題。
 - 目前暫定日期在2/21
     - 目前先確認 2/21 是否方便～
+
+## 0619 討論：
+- 修正成小小的分享機會，10-15分的分享，讓大家有交流與討論的時間
+- 下一步：向社群 promote 
+- 宣傳：週間晚上，一個小時，小小的線上分享，有什麼最近在做的好玩事情，一起拿出來吧！
+
+## 0626 (五）分享
+- 公共住宅旅遊地圖 [name=peter]
+- 豆腐的設計小學校？[name=tofus]
+
+## 7月
+- 瑞士參與式預算Kultur Komittee Winterthur Citizen Assembly [name=josh]
+- 德國的vTaiwan: Forum Gegen Fakes [name=Stafan Roch]
+
+## 8月
+
+## 9月
+
+## 10月
