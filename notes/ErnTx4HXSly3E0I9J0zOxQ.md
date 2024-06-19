@@ -31,7 +31,7 @@ Continuous Pedestrian Pathway
 
 ### 參考案例
 
-#### 國際巴塞隆納
+#### 巴塞隆納
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSJ1EDIzKek2QdNWGR76oeA311ud1oTESIvSGj0-T7xdeuLPXKIgI2LTbemtFws8zYO_Bobdd9Gy2fO/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="470" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -41,13 +41,14 @@ https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X
 待整理內容
 https://www.facebook.com/share/9jkpUvRvNzEFkJbn/?mibextid=WC7FNe
 
-西雅圖
+#### 西雅圖
+
+汽車不直通
 https://www.facebook.com/share/uM9kYKZd2hh3CkPd/
 https://maps.app.goo.gl/tgspqJiRToreAMX27
 
 
-
-#### 臺灣情境試作地圖
+### 臺灣情境試作地圖
 另開地圖：https://maps.app.goo.gl/X4C3X5fb5rMY1q5C6
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1lG4BxKyoiLXTIReVRpw8PPLpI81NU0E&ehbc=2E312F" width=100% height="480"></iframe>
@@ -155,8 +156,7 @@ https://maps.app.goo.gl/tgspqJiRToreAMX27
 
 ## 發想筆記
 
-「汽車淘刷」vs 街廓沃土
-
+「汽車淘刷」vs 街廓沃土、培植
 
 一些留存至今的聚落範型
 - 五營

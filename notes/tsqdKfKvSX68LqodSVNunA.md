@@ -63,7 +63,7 @@ tags: vtaiwan
 - [拜會用 ppt](https://docs.google.com/presentation/d/10uwIB31-CTxKP2IiLinwc3zcbzh-5t2ePab-LQbCMMM/edit?usp=sharing)
 - 如果是為了要讓政府願意承接 vTaiwan 專案得出的共識與意見，是否在主題選擇上，可以有更多的意見？如何讓機制更能 include 大家的意見？[name=yutin]
     - 在路線選擇上，可以不用特別著重在特定的議題上，或許可以討論開放國會之類的議題，如果要用數位來深化民主的話，或許要擴及到數位或科技之外的討論 [name=yutin]
-    - 目前的
+    - 目前的挑戰在於，政府要不要承接，以及讓大家
 ## 監察院 0712 AI 人權論壇
 - [活動網站](https://events.businesstoday.com.tw/2024/human_rights/index.html)
 - 目標：訂出分享大綱與傳遞訊息
@@ -75,13 +75,42 @@ tags: vtaiwan
 
 ## 贊助大松合作備忘錄
 - [合作備忘錄](https://docs.google.com/document/d/1_Y2nWBi6rKnt8Z5l4HoK0BKYg9EqyiAa-ED9zB_pLMo/edit?usp=sharing)
+- 11 月
 - 需要討論的事項：
     - 回饋部分，要提案*1 還是 短講*1
+        - 提案：想幾個開發的項目
+        - 請大家幫忙收集幫忙玩
+        - 提議：fork 一個 Polis 出來玩
+        - 
     - 宣傳部分：開場時主持人會協助處理宣傳，我們可以提供 logo 與圖像。
 
 ## CNA 紀錄片邀約
 - 台灣時間6/12 18:55 收到來自新加坡CNA公司的邀約，他們想要採訪 vTaiwan 作為其民主紀錄片（兩集）之一部份。
 - 6/19 20:00 進行討論
+- 參與者：shahul, zen, yuting, josh, peter
+- two episode, each 1 hour
+    - self intro
+- 2024 is a good year to reflect the leadership, and in Singapore, the civil participation has new developement 
+- Civil participation Index 
+- Doing filming in Taiwan?
+    - Before November 
+- Focus on g0v hackathon
+- New PM, want people to have civil participation 
+- Presidental Hackathon v.s g0v Hackathon 
+- What kind of civil participation people get in?
+    - different stakeholders 
+- Challenges 
+    - relationship 
+    - resource 
+    - popularity
+- Gov changed 
+
+- Coming back with a proposal 
+    - 7/20 g0v hackathon
+    - Interview 
+    - generic view
+    - 
+
 :::info
 Dear Sir/Madam,
  
