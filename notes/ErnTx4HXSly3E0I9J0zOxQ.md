@@ -149,12 +149,14 @@ https://maps.app.goo.gl/tgspqJiRToreAMX27
 
 人車衝突路口數量下降
 
-
 2023.11 臺北市大安區大學里交通改善問卷中，有提到「阻隔部分路口，避免車輛直通穿越」這項改善措施
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aa273de9870855c8384ba143e8ae0583.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8b6f54c98ce840e1576753cd92443230.png)
 
 ## 發想筆記
+
+「汽車淘刷」vs 街廓沃土
+
 
 一些留存至今的聚落範型
 - 五營
@@ -196,6 +198,7 @@ https://maps.app.goo.gl/tgspqJiRToreAMX27
     - 假設這個大街廓單一產權，單一土地使用機能
     - 可能會變成重複
     - 以實際街廓狀態來看，產權分佈與決策傾向、對於機能的設定，視為能創造街廓特色的來源
+
 
 
 溝通文宣
