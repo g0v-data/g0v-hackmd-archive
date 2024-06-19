@@ -35,10 +35,13 @@ tags: vtaiwan
 
 ## 贊助大松合作備忘錄
 - [合作備忘錄](https://docs.google.com/document/d/1_Y2nWBi6rKnt8Z5l4HoK0BKYg9EqyiAa-ED9zB_pLMo/edit?usp=sharing)
+- 需要討論的事項：
+    - 回饋部分，要提案*1 還是 短講*1
+    - 宣傳部分：開場時主持人會協助處理宣傳，我們可以提供 logo 與圖像。
 
 ## CNA 紀錄片邀約
 - 台灣時間6/12 18:55 收到來自新加坡CNA公司的邀約，他們想要採訪 vTaiwan 作為其民主紀錄片（兩集）之一部份。
-- 目前初步是請他們看看能否 6/19 6/26 上線一起討論
+- 6/19 20:00 進行討論
 :::info
 Dear Sir/Madam,
  

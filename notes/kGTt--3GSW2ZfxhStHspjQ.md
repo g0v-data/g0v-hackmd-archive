@@ -177,6 +177,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * [1922 簡訊實聯制多國語言圖卡 1922 SMS multilingual instructions](https://g0v.hackmd.io/bhLJ032GTAGl5UQF54omtw) `共筆`
 * [1922 簡訊實聯制懶人包](https://g0v.hackmd.io/Dk_Tb9H1QgSPEw6sxbmnpQ) `共筆`
 * [實聯制法律疑義討論整理](https://hackmd.io/N-PPHmFVR2mSmb5BZtT6nA) `共筆`
+* [簡訊實聯制原始研究資料](https://github.com/IIAS-infolaw/sms-registration-data)
 * [各種實聯制服務比較表](https://github.com/PichuChen/contact-information-registration/blob/main/README.md)[target=_blank] `Github`
 
 ### 開源 Open Source `⚠️ 注意個資保護`
@@ -202,6 +203,8 @@ Contributing content **means that you agree to waive your copyright and release 
 ### 紙本實聯制表格
 * [紙本實聯制表格免費下載使用](https://www.facebook.com/utekidesign/posts/3626015320841631)[target=_blank] `by 時雨設計 Uteki Design`
 
+## 各國疫情解封指引
+- [共筆](https://hackmd.io/team/World-Can-Help-Us)
 
 ## 架設助力 🔌<br>Powered by...
 * [貢獻者簽到 Contributor Sign-in](/o4IBWx5eSgil9emYTIEPwg)
