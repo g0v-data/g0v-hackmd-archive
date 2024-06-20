@@ -1,6 +1,12 @@
 # 爬蟲 Crawler
 ## 參考影片
 
+## 所需套件
+```
+from selenium import webdriver
+from selenium.webdriver.common.by import BY 
+```
+
 ## 初始化
 ```
 #初始化使用者名稱、email、密碼、頁面超時設定
@@ -40,7 +46,22 @@ def login(self, driver):
 
 ## 尋找標籤
 ```
+driver.find_element(s)(By.ID, “ ”) #使用id屬性值定位
+driver.find_element(s)(By.NAME, “ ”) #使用name屬性值定位
+driver.find_element(s)(By.LINK_TEXT, “ ”) #使用超連結文字定位
+driver.find_element(s)(By.PARTIAL_LINK_TEXT, “ ”) #使用部分超連結文字定位
+driver.find_element(s)(By.TAG_NAME, “ ”) #使用標籤名稱定位
+driver.find_element(s)(By.CLASS_NAME, “ ”) #使用class屬性值定位
+driver.find_element(s)(By.XPATH, “ ”) #使用XPath屬性定位
+driver.find_element(s)(By.CSS_SELECTOR, “ ”) #使用CSS選擇器定位
+```
 
+## 對標籤的動作
+```
+.send_keys() #輸入值
+.click() #點擊
+.text #取得文字
+.get_attribute('屬性名稱') #取得特定屬性
 ```
 
 ## 初始化驅動(* )
@@ -76,7 +97,7 @@ if __name__ == '__main__':
     webdriver = Chrome(options=initialize_driver_options())
 
     # 
-    e_toro_bot = class_name(
+    crawler = class_name(
         account_name='Roy353',
         account_email='a9517532468000@gmail.com',
         account_password='dhf3771646',
@@ -84,10 +105,7 @@ if __name__ == '__main__':
         trading_timeout=2
     )
 
-    webdriver = e_toro_bot.login(webdriver)
-    webdriver = e_toro_bot.switch_to_virtual(webdriver)
-    # webdriver = e_toro_bot.switch_to_real(webdriver)
-
-    webdriver = e_toro_bot.search_stock(webdriver, stocks_to_buy)
-
+    webdriver = crawler.login(webdriver)
+    
+    webdriver.close()
 ```
