@@ -5,8 +5,8 @@ tags: FtO, g0v-intl
 ## Meeting agenda
 * Participents number sharing
 JP: 42(include 6 students)
-TW:
-KR:
+TW: 23(1 student)
+KR: 23(8 students)
 International: 2(England, Thailand)
 * Schedule
     * https://docs.google.com/spreadsheets/d/150ExZnTFoTASFZoayazUTDsBHK4fInvJ0kcN1a428pk/edit#gid=1400037853
