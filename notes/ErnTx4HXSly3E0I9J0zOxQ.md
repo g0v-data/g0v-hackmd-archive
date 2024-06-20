@@ -49,8 +49,9 @@ https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X
 - 巴塞隆納大學 Universitat de Barcelona
 - Sofia Barat Public Library
 
-待整理內容
-https://www.facebook.com/share/9jkpUvRvNzEFkJbn/?mibextid=WC7FNe
+個別街廓
+- Parc infantil：https://maps.app.goo.gl/X5vCNzCWo821CvtGA
+- 待查找線上地圖地點：https://www.facebook.com/share/9jkpUvRvNzEFkJbn/?mibextid=WC7FNe
 
 #### 西雅圖
 
