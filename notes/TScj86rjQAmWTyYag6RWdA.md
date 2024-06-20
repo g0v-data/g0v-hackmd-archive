@@ -75,14 +75,8 @@ def initialize_driver_options():
 if __name__ == '__main__':
     webdriver = Chrome(options=initialize_driver_options())
 
-    yahoo_bot = YahooFinance()
-    webdriver = yahoo_bot.bypass_authentication(webdriver)
-    df, webdriver = yahoo_bot.get_most_active(webdriver)
-
-    stocks_to_buy = calculate_stocks(df, account_balance=100000, max_stocks=17)
-
     # 
-    e_toro_bot = EToroBot(
+    e_toro_bot = class_name(
         account_name='Roy353',
         account_email='a9517532468000@gmail.com',
         account_password='dhf3771646',
