@@ -5,6 +5,9 @@ tags: GIS
 # 好連街 - 連續型行人路徑繪製步驟
 Continuous Pedestrian Pathway
 
+🌟 在街區內創造一條連續的行人路徑，且盡可能避免受到車道阻斷，避免車輛直通穿越。
+🌟 透過調整車輛行駛方向與轉向系統，藉此創造行人連續路徑，減少人車交錯路口數量，也可以用「洄游型行車路線」來描述車輛轉向特點。
+
 :::success
 歡迎加入交流討論社團：
 https://www.facebook.com/groups/474536628587982
@@ -19,9 +22,8 @@ https://www.facebook.com/groups/474536628587982
 
 ### 介紹
 
-在街區內創造一條連續的行人路徑，且盡可能避免受到車道阻斷，避免車輛直通穿越。
-
-透過調整車輛行駛方向與轉向系統，藉此創造行人連續路徑，減少人車交錯路口數量，也可以用「洄游型行車路線」來描述車輛轉向特點。
+🌟 在街區內創造一條連續的行人路徑，且盡可能避免受到車道阻斷，避免車輛直通穿越。
+🌟 透過調整車輛行駛方向與轉向系統，藉此創造行人連續路徑，減少人車交錯路口數量，也可以用「洄游型行車路線」來描述車輛轉向特點。
 
 #### 名稱發想
 
@@ -38,6 +40,14 @@ https://www.facebook.com/groups/474536628587982
 
 另開簡報
 https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X5cE/edit
+
+軸帶 C/ del Consell de Cent
+地圖：https://maps.app.goo.gl/366mXD3HotUejfXS9
+串聯：
+- Biblioteca Joan Miró / Parc Joan Miró
+- 學校 Institut Viladomat
+- 巴塞隆納大學 Universitat de Barcelona
+- Sofia Barat Public Library
 
 待整理內容
 https://www.facebook.com/share/9jkpUvRvNzEFkJbn/?mibextid=WC7FNe
@@ -175,6 +185,45 @@ https://g0v.hackmd.io/X8mWlCWIRkOfCIhTjp1oLA?view
  
 公園與開放空間增加
 - 路口斜向的連續行人用地
+
+
+## 特定街區
+
+### 臺北市捷運淡水線兩側街區【基隆河-市民大道-承德路-中山北路】
+- 優先讓淡水線捷運站主要出入口與相鄰街區不被車道所切斷，例如R3R4出入口與長安路口、中山站的南京路口、雙連站的民生西路口、錦西街路口、民權西路站與撫順街
+- 創造兩條不受車道切斷連續行人路徑：A. 承德路-建成公園-赤峰街41巷-心中山廊道-中山北路二段46巷-蔡瑞月舞蹈社-中山北路、B. 承德路-萬全街-心中山廊道-雙連捷運站-馬偕醫院-中山北路」
+- 各個子街廓內部檢討逐段車用道路必要性，並針對非必要路段，改採用禁行汽車、無車巷等定位
+
+:::spoiler 方案圖片
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c4d910dc9f4c2d1bcfc8eb6ecbcec03b.jpg)
+:::
+
+### 臺北市臺師大街區【和平東路-羅斯福路-新生南路】
+- 優先處理溫州街全段人車衝突路口數量降低
+- 針對大學里，兩處公園及水綠空間，結合斜向連續型行人路徑，將路口對街的徒步空間相連，溫州街45巷水圳與大學公園，台電魚木與溫州公園
+- 古莊里優先處理過境車流衝擊
+- 針對古莊里，機關用地與古莊公園透過無車巷弄將地面層徒步空間整合
+- 針對古風里，創造連續行人路徑，將社區公共空間串聯，包含芒果香草園、龍泉市場、古風小白屋、雲泰小雅綠地
+- 針對泰順公園周邊，公園與泰順街36號之間道路改為不得汽車穿越，減少汽車過境車流
+
+### 臺中市大甲區華龍國小與週邊社區
+- 通學路徑
+
+### 南投縣埔里鎮
+
+### 臺南市新化區
+
+### 高雄市三民區【同盟一路-博愛一路-自由一路-九如二路】
+- 連續型行人路徑採用「南北向」方案：A. 大連路+三民公園 B.合江街+吉林路+瀋陽街
+:::spoiler 方案圖片
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7825a454d64ee3a24d802f98fd1aa5c0.jpg)
+:::
+<br>
+
+- 連續型行人路徑採用「東西向」方案：A. 綏遠一街
+:::spoiler 方案圖片
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3a4338a80088f8175367c8b6edde607c.jpg)
+:::
 
 ## 發想筆記
 
