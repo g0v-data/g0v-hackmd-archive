@@ -44,6 +44,7 @@ def login(self, driver):
 ```
 
 ## 初始化驅動(* )
+可參考:[https://www.cnblogs.com/gurenyumao/p/14721035.html](https://)
 ```
 #初始化驅動選項(針對額外開啟的頁面)
 def initialize_driver_options():
@@ -63,7 +64,36 @@ def initialize_driver_options():
     options.add_argument('--log-level=3')
     
     options.add_argument('--silent')
+    #禁止自動化擴充
     options.add_argument('--useAutomationExtension=false')
 
     return options
+```
+
+## 主程式
+```
+if __name__ == '__main__':
+    webdriver = Chrome(options=initialize_driver_options())
+
+    yahoo_bot = YahooFinance()
+    webdriver = yahoo_bot.bypass_authentication(webdriver)
+    df, webdriver = yahoo_bot.get_most_active(webdriver)
+
+    stocks_to_buy = calculate_stocks(df, account_balance=100000, max_stocks=17)
+
+    # 
+    e_toro_bot = EToroBot(
+        account_name='Roy353',
+        account_email='a9517532468000@gmail.com',
+        account_password='dhf3771646',
+        page_load_timeout=5,
+        trading_timeout=2
+    )
+
+    webdriver = e_toro_bot.login(webdriver)
+    webdriver = e_toro_bot.switch_to_virtual(webdriver)
+    # webdriver = e_toro_bot.switch_to_real(webdriver)
+
+    webdriver = e_toro_bot.search_stock(webdriver, stocks_to_buy)
+
 ```
