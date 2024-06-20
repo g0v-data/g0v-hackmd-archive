@@ -142,6 +142,15 @@ https://maps.app.goo.gl/tgspqJiRToreAMX27
 - 雙向道
 - 找出有潛力改造為「禁行汽車或機車的巷弄」
 
+
+道路巷弄轉變為無車化
+- 全日無車化：麗水公園、永康公園東側、古莊公園東側、基河路科教館段 https://photos.app.goo.gl/PothcgShgdY5ThrB8
+- 時段型禁行車輛：西門町徒步街、寧夏夜市、萬華區東園國小對面的巷弄 
+
+道路改造案例與關注熱點
+https://g0v.hackmd.io/X8mWlCWIRkOfCIhTjp1oLA?view
+
+
 ## 效益與課題
 
 街區生活 (居住與辦公) 的汽車使用者、送貨的司機
