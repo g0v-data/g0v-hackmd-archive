@@ -9,5 +9,3 @@ https://www.pinterest.com/nhacai33winvn/
 https://www.pearltrees.com/nhacai33winvn
 https://www.reddit.com/user/nhacai33winvn/
 https://gravatar.com/nhacai33wiinvn
-Hastag :#33win
-#nhacai33win
