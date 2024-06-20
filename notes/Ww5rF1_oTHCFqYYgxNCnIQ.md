@@ -2,6 +2,7 @@
 
 調閱期間到 7/16 ，調閱結果出來前有保密義務
 
+* 20240417 [討論立法院內政委員會「數位身分證換發政策及預算執行調閱小組運作要點」草案](https://ppg.ly.gov.tw/ppg/sittings/2024040980/details?meetingDate=113/04/17)
 * 20240502 [第1次會議](https://ppg.ly.gov.tw/ppg/sittings/2024042662/details?meetingDate=113/05/02&meetingTime=09:00-09:30&departmentCode=null)
     * 調閱小組同意，內容若涉及廠商技術及商業機密，可以將文字反黑呈現。
     * [要求行政機關提供六文件](https://udn.com/news/story/6656/7936960)
