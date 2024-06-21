@@ -1,10 +1,20 @@
 # 爬蟲 Crawler
 ## 參考影片
 
-## 所需套件
+## 基本框架
 ```
 from selenium import webdriver
-from selenium.webdriver.common.by import BY 
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+
+options = Options()
+options.chrome_executable_path = "chromedriver路徑"
+
+driver = webdriver.Chrome(options = options)
+driver.get("要連接的網址")
+
+driver.clos()
+
 ```
 
 ## 初始化
@@ -108,4 +118,11 @@ if __name__ == '__main__':
     webdriver = crawler.login(webdriver)
     
     webdriver.close()
+```
+
+## 捲動視窗
+```
+# 若是要爬取像是社群網站類的，就需要不斷滑動以加載內容更多
+
+
 ```
