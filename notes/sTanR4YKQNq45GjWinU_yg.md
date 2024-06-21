@@ -86,6 +86,7 @@ tags: 公有地大行動, 可能的空間, edu
     - 教育部國民中小學 整併後校園空間 活化再生案例
         - http://ssdelt.nhps.tp.edu.tw/
     - 新北市 https://www.facebook.com/share/v/TqRJYHufhj6Heeii/
+    - 新北市貢寮區吉林國小 https://wabay.tw/projects/kongaliao
     - 台北市潭美國小舊址，東區社福園區
         - https://www.facebook.com/NVCSeniorServicesCenter
     - 基隆太平國小 
