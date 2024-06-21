@@ -123,6 +123,10 @@ if __name__ == '__main__':
 ## 捲動視窗
 ```
 # 若是要爬取像是社群網站類的，就需要不斷滑動以加載內容更多
+import time
 
+# 將視窗滾動到
+driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+time.sleep(5)
 
 ```
