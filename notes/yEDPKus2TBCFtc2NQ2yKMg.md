@@ -316,17 +316,28 @@ TomoBenjaminPeng@icloud.com
 [name=Benjaminpeng]
 
 
-# 技術層面
+# MVP(Minimum Viable Product)
+
+> 試想：如果只有三個核心功能，你們想要什麼？[name=Bestian]
+
+
+
+
+
+
+## 技術層面
 
 
 前端：
 * Framwork
-> 推 Vue3 但不排斥其他 [name=Bestian]
+> 推 Quasar + Vue3 但不排斥其他
+> 
 
 後端：
 * Framwork  or Service
-> 推 Firebase 但不排斥其他 [name=Bestian]
-
+> 推 Firebase 但不排斥其他
+> 
 UI/UX設計：
 * Framwork  or Service
-> 推 Figma + chatGPT4 但不排斥其他 [name=Bestian]
+> 推 Figma + chatGPT4 但不排斥其他 
+> 
