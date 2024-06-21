@@ -63,12 +63,13 @@ driver.find_element(s)(By.PARTIAL_LINK_TEXT, “ ”) #使用部分超連結文�
 driver.find_element(s)(By.TAG_NAME, “ ”) #使用標籤名稱定位
 driver.find_element(s)(By.CLASS_NAME, “ ”) #使用class屬性值定位
 driver.find_element(s)(By.XPATH, “ ”) #使用XPath屬性定位
-driver.find_element(s)(By.CSS_SELECTOR, “ ”) #使用CSS選擇器定位
+driver.find_element(s)(By.CSS_SELECTOR, “[屬性 = 屬性名稱]”) #使用CSS選擇器定位
 ```
 
 ## 對標籤的動作
 ```
 .send_keys() #輸入值
+.send_keys(Keys.ENTER) #按下ENTER
 .click() #點擊
 .text #取得文字
 .get_attribute('屬性名稱') #取得特定屬性
@@ -125,8 +126,17 @@ if __name__ == '__main__':
 # 若是要爬取像是社群網站類的，就需要不斷滑動以加載內容更多
 import time
 
-# 將視窗滾動到
+# 將視窗滾動到最下方
 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
+#等待5秒來載入內容
 time.sleep(5)
+
+# 若要持續往下滾動
+n = 0
+while n < 3:
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    time.sleep(5)
+    n += 1
 
 ```
