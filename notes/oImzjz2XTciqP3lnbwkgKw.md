@@ -126,3 +126,9 @@ https://www.youtube.com/watch?v=7238q4LM1nA&feature=youtu.b
 ## 2023
 
 ## 2024
+
+### 新加坡 CNA 紀錄片拍攝
+
+- https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/ByJkh1N8C
+
+## 2025
