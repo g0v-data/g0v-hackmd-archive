@@ -2,6 +2,34 @@
 
 所有內容皆以GPLv3授權，且作者保有修改授權的權利。
 
+## 楔子(有關動機與人工智慧)
+
+當前開啟專案的原因很多，但簡單的說，是我30年經歷的總和。
+
+為何要創造並開源這個系統？詳盡的解釋說明於下方的論文中，這裡則簡易的引出主旨。
+
+熔爐是一個作業系統的核心，這個核心的功能是輸出個人的身分作為社會連結的基礎，以取代當前全球互聯網中的IP協議。
+
+當前的人工智慧建立在主從架構上，也就是client與server的結構，這樣的結構與人類社會目前政府、企業與組織的結構有著相同的拓樸。
+
+3200年來，人類社會運行的主流模式一直是統治者與被統治者、征服者與被征服者的關係，這種模式在過去一直是人類社會的主流，科技如同金錢，並不改變人性，而是來自人性，並放大了人性。
+
+設想一個人若擁有了3200年來所有人類的經驗，世上的一切都將為他所改變，他將成為超人，而人工智慧將有能力做到。
+
+也因為人工智慧能夠成就的巨大能力，使得人類社會應該將主要變革的方向導向主從架構的社會變革方向，而不是人工智慧的技術變革方向。
+
+在人工智慧伺服器成為私人的全球核武器以前，這種變革是必須的。
+
+沒有了這種變革，人類會在舊有的主從結構中嚐到巨大貧富差距的苦果，偏狹的權力與財富，將使人類社會面臨災難、環境惡化、戰爭或滅絕的風險。
+
+價值衡量、建設社會的貢獻、人類自尊與地位的認可應全面擯棄金錢、資本與銀行的特權模式，轉換成人人平權皆得以計算機網路協議實現的全新模式。
+
+只有在沒有任何人被拋下，建立在對等架構，以計算機語言統一實現全體人類高度的協議，武裝每個個人的權益，才能有效的對抗這些風險。
+
+下面的論文詳述了計畫如何一步步形成以及實施改變的根據。
+
+Benjamin Peng 2024/06/22
+
 ## 理論基礎
 
 ### 社會哲學的計算機原理
@@ -179,14 +207,29 @@ TomoBenjaminPeng@icloud.com
 
 這一套協定，我簡稱為：臺灣協定TAIWAN Protocol，展開為：分時人工智慧廣域網路協定Time-Sharing Artificial Intelligence Wide Area Networks Protocol。
 
-歡迎您加入這個自由開源的熔爐計畫，為新世界建設，我們提出的方法，必將以實在解決實際的問題為依歸，讓您從現有的資本世界中解放、調焦，使您與社會有更好的關係，亦讓您更好的享受本自擁有的自由。
-
-*一套自動化的時間紀錄程序，可輸出多樣的時間報表，完全保存於私人的裝置，同時解決現存社會中的隱私權問題，不會由中央的伺服器保存，不會有後門，以自由、開源的方法，供人人檢視。
+*一套自動化的時間紀錄程序，可輸出多樣的時間報表，完全保存於私人的裝置，同時解決現存社會中的隱私權問題，不會由中央的伺服器保存，不會有後門，系統以自由、開源的方法，供人人檢視。
 記憶於獨立的記憶體空間，因需基於整體記憶資料統一輸出一個動態的身分識別，作為與他人連結的基礎，彼此只有在發生造訪、鑄幣、交易、契約、銷毀、聯合……等一切關聯時，依一套新的網路協定，進入公眾的公開運作體系。
 
 #### 參、從國家為管理發給的靜態身分到個人為連結而總結的動態身分
 
-連載中......
+名字、身份證字號、生日、護照號碼……這些基本的靜態資訊構成了人在當前社會中的身分，這些簡化的識別訊息存在的原因是為了滿足第三方權力對於社會管理的需要而並非代表人真正的「身分」。
+
+如果一個人的墓誌銘要回答「你是誰？」這個問題，同一個人可能有千百種敘述方式，然而若我們總結來看，人就是他這一輩子經歷的所有時間紀錄。人的身分可以非常複雜，來自多重經驗的總和，他可以同時是經理、飛機駕駛員、運動員、企業主、地主、租戶、歌唱明星、父母親、孩子、兄弟姊妹、祖父母、發明家……等所有字符的疊加，而人若尚未蓋棺論定，身分甚至是隨著時間動態變化的，我們知道僅僅只是簡易的靜態資訊不能夠代表他。
+
+雖然為了社會連結的需要，這些簡化的識別訊息，大幅增進了效率，然而付出的代價是有著足夠權力得以忽略個體權益的強大第三方。
+
+所以需要重塑身分系統對於社會變革來說至關重要，若我們不將自古上下的主從關係，改變成由協議主導的對等關係，人類將不能再解決既有的如貧富差距、戰爭、不平等的世界等種種重要問題。
+
+我們完全可以建立一個為人人打造，完全保護個人隱私，基於服務每個個人的時間紀錄應用，並可輸出唯獨身分的個人身分系統，並以此作為連結的新基礎，形成新的社會運作模式。
+
+我們主張建立的新社會，並不是無政府、缺乏管理的混亂狀態，而是改變主從架構的管理模式，使之轉向為人人皆被協議賦權、人人皆得成為第三方、人人皆得隨時退出不為第三方、人人關係由計算機執行協議、社會地位因貢獻而有差別的新模式。
+
+#### 肆、價值鑄造、流通、銷毀的協議
+
+連載中……
+
+歡迎您加入這個計畫共同建設，我們目標讓人人從現有的資本世界中解放、重新調焦，使人人能與社會有平等的關係，亦讓人人更好的享受本自擁有的自由。
+
 
 ## 現況與問題
 
@@ -224,7 +267,7 @@ TomoBenjaminPeng@icloud.com
 2. FocusTime Sessions and Real-time Alerts: Allows users to block distracting websites and set focus goals to stay on task and notifies users when they are off track or exceed set focus limits.
 3. Goals and Alerts: Users can set goals for productivity, receive real-time alerts, and monitor progress towards these goals.
 4. Detailed Reports: Provides daily, weekly, and monthly reports with detailed insights into how time is spent, helping identify productivity trends.
-5. Weekly Email Summaries: Summarizes weekly activities and productivity scores, offering insights to plan the upcoming week more effectively.
+5. Weekly Summaries: Summarizes weekly activities and productivity scores, offering insights to plan the upcoming week more effectively.
 6. Distraction Management: Identifies and blocks distracting websites, aiding in maintaining focus during work hours.
 7. Customizable Work Hours: Allows setting specific work hours and tracking offline time to ensure work-life balance.
 8. Offline Tracking: offline time tracking capabilities, tracks breaks and non-work activities, giving a complete picture of time allocation 
@@ -291,7 +334,7 @@ TomoBenjaminPeng@icloud.com
 2. FocusTime Sessions and Real-time Alerts: Allows users to block distracting websites and set focus goals to stay on task and notifies users when they are off track or exceed set focus limits.
 3. Goals and Alerts: Users can set goals for productivity, receive real-time alerts, and monitor progress towards these goals.
 4. Detailed Reports: Provides daily, weekly, and monthly reports with detailed insights into how time is spent, helping identify productivity trends.
-5. Weekly Email Summaries: Summarizes weekly activities and productivity scores, offering insights to plan the upcoming week more effectively.
+5. Weekly Summaries: Summarizes weekly activities and productivity scores, offering insights to plan the upcoming week more effectively.
 6. Distraction Management: Identifies and blocks distracting websites, aiding in maintaining focus during work hours.
 7. Customizable Work Hours: Allows setting specific work hours and tracking offline time to ensure work-life balance.
 8. Offline Tracking: offline time tracking capabilities, tracks breaks and non-work activities, giving a complete picture of time allocation 
