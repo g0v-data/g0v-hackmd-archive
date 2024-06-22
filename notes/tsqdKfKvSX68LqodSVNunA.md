@@ -79,7 +79,7 @@ tags: vtaiwan
 - 需要討論的事項：
     - 回饋部分，要提案*1 還是 短講*1
         - 提案：想幾個開發的項目
-        - 請大家幫忙收集幫忙玩
+       - 請大家幫忙收集幫忙玩
         - 提議：fork 一個 Polis 出來玩
         - [polis 許願清單](/tjs4swm5ScqufIrjjsS14w)
             - profile 的收集
@@ -134,6 +134,7 @@ Thank you so much for your time and consideration. I look forward to hearing fro
  
 Warm regards
 :::
+- [CNA 訪問](/3ofdp-zERBqojl7bz-UYvA)
 
 Hello, this is Zen sharing a quick meeting agenda ahead of our chat.
 
