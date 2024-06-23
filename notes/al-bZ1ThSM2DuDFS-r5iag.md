@@ -62,3 +62,4 @@ https://photos.app.goo.gl/XSHtpaX6tPithYhA8
 - 待確認 https://www.facebook.com/share/p/1GF8gvhy5zXAiJ1i/
 - 待確認 https://photos.app.goo.gl/UyCQxvbYayC7ny4m8
 - 待確認 https://m.facebook.com/story.php?story_fbid=pfbid02KMUBzKK6HFHXWLJkzaCZ88nj9j8Gguaf4kVo7VE8A9rfoDEKV6uj4JWDzjECbRDdl&id=680154561&mibextid=WC7FNe
+- 太陽能設施 https://www.facebook.com/share/r/sNafmWQrWQrJbJCJ/
