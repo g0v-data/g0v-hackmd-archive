@@ -2,10 +2,5 @@
 
 * HJ vs UTG
   HJ open 3bb 
-  
-  `color gray`
  
-dddddddd ddddddd
-
-``` color red ```
-dd
+  
