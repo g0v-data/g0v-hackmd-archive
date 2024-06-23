@@ -32,7 +32,7 @@
 
 [name=Benjaminpeng]
 
-## Github
+## GitHub
     
 https://github.com/PBenjaminP/Cauldron
 
