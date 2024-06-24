@@ -76,7 +76,7 @@ Blocked by accessing media
 
 
 :::success
-修改過往信件重寄
+修改過往信件重寄 --> Done
 :::
 
 ### 下架
@@ -90,6 +90,8 @@ https://cofacts.tw/article/mvZ_fYwBAjOeMOklVKvx
 碼掉名字、聯絡方式
 回應：新型債務風暴 https://www.youtube.com/watch?v=Reiq4UmXtHg
 https://www.mirrormedia.mg/story/20230515pol002 需謹慎理財
+
+--> https://github.com/cofacts/takedowns/blob/master/2024/0618-privacy.md
 :::
 
 ### 詭異
@@ -111,7 +113,7 @@ Related replies: https://cofacts.tw/reply/uXFAG5ABd3gcY0LpuUCp
     - 也是可以藏起來，只有登入的人看 [name=mrorz]
 
 :::success
-1. CIB，用回應內文撈肉粽，通通 block
+1. CIB，用回應內文撈肉粽，通通 block --> https://github.com/cofacts/takedowns/blob/master/2024/0621-cib.md
 2. 改網站 title
 3. 改網站，blocked article 的 related article 只有登入者看得到
 :::
