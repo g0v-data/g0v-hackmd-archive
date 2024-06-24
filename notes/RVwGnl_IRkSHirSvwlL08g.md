@@ -16,6 +16,9 @@ image:
 ## 這個專案會如何運作？
 - [什麼是 prot0type](/_WLOXBVmTw2QLON0iTYcNA)
 
+## 討論紀錄
+- [240624 豆腐與子龍 討論](/d_okWhpuTQSsBCGAYXM1bQ)
+
 ## 專案 Redesign 許願池
 - [#g0v-landing-page](/tnwC2EDhTBypbDdWklWw2Q)
 - [#vTaiwan](/RPKaxGxYQZeGOCOTI-Abzg)
