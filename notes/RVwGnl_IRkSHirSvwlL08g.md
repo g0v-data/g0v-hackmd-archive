@@ -10,8 +10,8 @@ image:
 
 # 零宇宙原型織造所 Prot0type Studio 專案大全
 
+- [專案介紹網站](https://prot0type.framer.website/zh/)
 - [首頁](https://g0v.hackmd.io/@tofus/prot0type)
-- [專案介紹網站](https://prot0type.framer.website/)
 
 ## 這個專案會如何運作？
 - [什麼是 prot0type](/_WLOXBVmTw2QLON0iTYcNA)
