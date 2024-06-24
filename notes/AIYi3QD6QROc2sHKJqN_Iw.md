@@ -1,12 +1,12 @@
 KING88
 King88 là nhà cái uy tín chuyên cung cấp các dịch vụ cá cược trực tuyến đa dạng, bao gồm bóng đá, casino, game bài và nhiều môn thể thao khác. Trang web đảm bảo tính minh bạch, an toàn và hỗ trợ người chơi 24/7, mang đến trải nghiệm cá cược tuyệt vời và đáng tin cậy.
 Thông tin chi tiết:
-Website: https://quinpirole.com/
+Website: https://149.56.195.201/
 Địa chỉ: 54 Chùa Đông, Lê Lợi, Hưng Yên, Việt Nam
 Email: admin@quinpirole.com
 Phone: 0983 882 100
 #king88 #king88_mba #nha_cai_king88
-https://quinpirole.com/
+https://149.56.195.201/
 https://x.com/quinpirolecom
 https://www.youtube.com/@quinpirolecom
 https://gravatar.com/quinpirolecom
