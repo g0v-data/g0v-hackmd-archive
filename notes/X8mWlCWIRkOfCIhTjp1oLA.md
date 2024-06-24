@@ -485,6 +485,11 @@ https://www.facebook.com/share/p/Af5hpPrvk6dAZR2i/
 南投中興新村
 https://www.facebook.com/story.php?story_fbid=pfbid0korrQ5zYKfaga1gMJzHVGdvTn26Aj8ierjQ6H7Do8wVZLA4JM5zPZZFUQP3KeAy7l&id=100063883987874&mibextid=qC1gEa
 
+雲林 斗南建國路大同路口
+https://www.facebook.com/share/Zc2AnL5piZDFKzrt/
+
+
+
 嘉義市 林森東路 嘉義大學林森校區～興華中學
 https://www.facebook.com/groups/twroadclub/posts/1972893492890416/
 

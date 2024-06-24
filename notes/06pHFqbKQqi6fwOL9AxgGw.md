@@ -56,6 +56,9 @@ tags: Rentea, CoRent
 
 ## 室內裝修：延伸社團與觀點
 
+探討室內裝修與熱環境調適
+https://www.facebook.com/share/p/4Ai5THEVLzsu2Nds/
+
 室內裝修
 - 演講影片：[剛好比最好更好的空間生產](https://facebook.com/events/s/%E5%89%9B%E5%A5%BD%E6%AF%94%E6%9C%80%E5%A5%BD%E6%9B%B4%E5%A5%BD%E7%9A%84%E7%A9%BA%E9%96%93%E7%94%9F%E7%94%A2%E7%A4%BE%E7%99%BC%E6%89%80%E9%81%A9%E7%95%B6%E7%A7%91%E6%8A%80%E7%B3%BB%E5%88%97%E6%BC%94%E8%AC%9B/542277960473574/)；[講者其他資訊](https://www.facebook.com/story.php?story_fbid=pfbid02szRHSwuZLW8q6yD47exGXCX5Q5dHx5M2TDLEQafSD1abmedW7cj4srj6E93CuFLGl&id=100002467742923&mibextid=tejx2t)
 - 綠裝修 https://www.facebook.com/greendesignGD/
