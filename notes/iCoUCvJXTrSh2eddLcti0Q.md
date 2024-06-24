@@ -115,7 +115,7 @@ Related replies: https://cofacts.tw/reply/uXFAG5ABd3gcY0LpuUCp
 :::success
 1. CIB，用回應內文撈肉粽，通通 block --> https://github.com/cofacts/takedowns/blob/master/2024/0621-cib.md
 2. 改網站 title
-3. 改網站，blocked article 的 related article 只有登入者看得到
+3. 改網站，blocked article 的 related article 只有登入者看得到 --> 
 :::
 
 ### 165?

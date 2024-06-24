@@ -18,8 +18,8 @@ tags: edu
 
 ## 20230508 詢問關於公眾申訴如何追蹤？
 - 發問內容
-    - slack 歷史對話紀錄網址：https://g0v.hackmd.io/wS-VLM0FQPqX_9uscbyOMw?view
     - slack 頻道 #rand0m
+    - slack 歷史對話紀錄網址：https://g0v.hackmd.io/wS-VLM0FQPqX_9uscbyOMw?view
     - 發問背景：發文者當時曾使用某個公共場館，但發現很多缺失，所以想討論除了寫申訴信給相關政府單位之外，社群過往有沒有開過公共場館設計不良、後續追蹤的共筆？
 - Next
     - 有開一個共筆，蒐集大家回饋內容：https://g0v.hackmd.io/5nKF8hD-TL-FREKU_DqIgA?view
@@ -56,6 +56,14 @@ tags: edu
     - 發問背景：發問者想詢問如何建立測噪設備、紀錄一整週每個時間點的分貝數折線圖、討論分貝計要買哪一款等
 - Next
     - 有開一個共筆，蒐集大家的回饋內容：https://g0v.hackmd.io/OTkb7X61QBCmHB0gAaQEkg?view
+
+## 20240509 詢問「推甄」與大學入學考試的相關「面試」經驗
+- 發問內容
+    - slack 頻道 #edu
+    - slack 歷史對話紀錄網址：https://g0v-slack-archive.g0v.ronny.tw/index/channel/CN64A1FHA/2024-05#ts-1715248047.808159
+    - 發問背景：發問者想構思一個影音節目主題，想蒐集關於升學者參加面試的經驗
+- Next
+    - 或許可以開一個共筆
 
 
 ## 職業災害
