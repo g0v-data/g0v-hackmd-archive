@@ -18,15 +18,10 @@ This project is built to measure the user's heart rate using a **KY-039 Heart Ra
 
 The estimated time to build this prototype is 2-5 hours. This time can vary based on your familiarity with the software and hardware.
 
-This project is built to muser the user's heart rate, through a **KY-039 Heart Rate sensor** which is conectted to Raspberry pi pico W. Then send the calcoulated data from the sensor to Adafruit IO to visulaise on line table that showes the users heart rate on the x-axis and the time in which a certain heart rate value was massured on the y-axis. Adafruit in its turn sendes a webHook to a specified Discorde server if the user's heart rate exceeds a certain value
-
-*the asstimated time to build this prototype is 2-5 houers. That time can varai based on how familier you are with the software and hardware*
-
-
-
-User story
+Objective
 ---
 
+The Objective of this project is to help the user to be more aware of how thier heart rate changes while doing office work. Personally I find this use full because I consume big amounts of coffien while working on my computer or studying besindes that as a student a usually stress a lot during exam sessons which causes my heart rate to raise drastically. Senci it can be kind of costly to afford buying a watch to musser my heart rate, it can be more efficent to build a quite similar device at home
 ```gherkin=
 Feature: Guess the word
 
