@@ -76,6 +76,9 @@ tags: 新生流域
     - 住宅 https://www.facebook.com/share/p/Nn41VWhUuaLkPzra/?mibextid=WC7FNe
     - 師大校區附近 舊照片 https://www.facebook.com/share/amDFgDNNDrzzKVZk/
     - 古莊里 農業時期照片 https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
+    - 1940 台北市公車路線圖 https://www.facebook.com/share/aUeANjUcrTVifzGx/
+        - 公車照片 https://www.facebook.com/share/p/ubpFZ5weChXnGQ2t/
+    - 1932 照片鳥瞰 臺灣神社 https://www.facebook.com/share/p/B8tYT1UVD3u4z5sn/
     - 照片 https://www.facebook.com/share/p/6MDNVrM36K6KhbuM/
     - 照片 https://www.facebook.com/share/p/ivdDxFZRiP231DZL/
     - 照片 建國啤酒廠 https://www.facebook.com/share/rooSpYXJMWnnLBf8/

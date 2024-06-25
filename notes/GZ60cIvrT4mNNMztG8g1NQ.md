@@ -187,6 +187,22 @@ https://www.facebook.com/share/p/uGRNQ8RjfiK63pbL/?mibextid=K35XfP
 
 葛樂禮颱風 http://ustdc.blogspot.com/2008/06/typhoon-gloria-1963.html
 
+
+1905 梅山地震，收容
+https://www.facebook.com/share/p/t6ZMvLSHKKx1L59B/
+
+1906 梅仔坑街建物損壞
+https://www.facebook.com/share/p/euKP9yxuasFRDN9s/
+
+1941 中埔地震賑災
+https://www.facebook.com/share/p/8EB4EtTNNQV419Ra/
+
+1951 花蓮地震，鐵軌變形
+https://www.facebook.com/share/p/G2k5cYgGTyRetwJp/
+
+1990 銅門
+https://www.facebook.com/share/p/LoiwMXtS6ySBnJhC/
+
 監測相機，也拍下地震景象
 https://www.facebook.com/share/v/VAHdK19e69uFixqC/
 

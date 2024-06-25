@@ -252,6 +252,8 @@ https://www.gislounge.com/global-landslide-potential-map-updates-every-30-minute
 Global Wildfire Information System, GWIS
 應用MODIS/VIIRS影像進行偵測
 https://gwis.jrc.ec.europa.eu/static/gwis_current_situation/public/index.html
+監測全球近即時的火災資訊資源管理系統 (FIRMS) 
+https://www.facebook.com/RiChiTech/posts/pfbid033n8ov7RTgeTgrJ3sSUYb31XygA8ELMjB2ke6o6Sr72K3A6VFdffgntETv1j22TcDl
 
 能源設施 / 基礎設施
 Open Infrastructure Map https://openinframap.org
