@@ -62,7 +62,7 @@ Feature: Shopping Cart
 
 List of material
 ---
-The lsit of the electronic material: 
+First of all, you need to have a computer and the following list of electronic materials:
 | Item | Link | Price |
 | -------- | -------- | -------- |
 | Raspberry Pi Pico W | [Link](https://www.electrokit.com/en/product/raspberry-pi-pico-w/)| 89 SEK|
@@ -73,12 +73,16 @@ The lsit of the electronic material:
 | USB-cable A-male – mini B male 1.8m 5-pin     | [Link](https://www.electrokit.com/en/product/usb-cable-a-male-mini-b-male-1-8m-5-pin/)     | 35 SEK     |
 -| -| **Total 307 SEK**|
 
+You need the Raspberry Pi Pico W to secure a power source for your sensor and to process the data from the sensor (KY-039, which will measure your heart rate) and send it to your computer. The breadboard is necessary to connect the sensor with the microcontroller (Raspberry Pi Pico W) using the jumpers. Lastly, you will use the USB cable to connect the Raspberry Pi Pico W to your computer.
 
 
-Other material that could be found in any house hold (note if you have three  female/female jumper wires, then you don't need these items):
-1. A pair of sisors 
+Other materials that can be found in any household (note: if you have three female/female jumper wires, then you only need a hair band):
+
+1. A pair of scissors
 2. Tape
 3. Any hair band you can find
+
+
 ```sequence
 Alice->Bob: Hello Bob, how are you?
 Note right of Bob: Bob thinks
