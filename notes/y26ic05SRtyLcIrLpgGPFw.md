@@ -73,7 +73,9 @@ The lsit of the electronic material:
 | USB-cable A-male – mini B male 1.8m 5-pin     | [Link](https://www.electrokit.com/en/product/usb-cable-a-male-mini-b-male-1-8m-5-pin/)     | 35 SEK     |
 -| -| **Total 307 SEK**|
 
-Other material that could be found in any house hold:
+
+
+Other material that could be found in any house hold (note if you have three  female/female jumper wires, then you don't need these items):
 1. A pair of sisors 
 2. Tape
 3. Any hair band you can find
