@@ -20,8 +20,12 @@ The estimated time to build this prototype is 2-5 hours. This time can vary base
 
 Objective
 ---
+The objective of this project is to build a device that helps users become more aware of how their heart rate changes while doing office work. Personally, I find this useful because I consume large amounts of caffeine while working on my computer or studying. Additionally, as a student, I often experience a lot of stress during exam seasons, which causes my heart rate to increase drastically. By using this simple prototype, I can monitor my heart rate and receive a webhook on Discord to take a break or do something else to reduce stress and regulate my heartbeat. Since it can be costly to buy a watch to measure my heart rate, it can be more efficient to build a similar device at home. The device can inform you of your heart rate in two ways:
 
-The Objective of this project is to help the user to be more aware of how thier heart rate changes while doing office work. Personally I find this use full because I consume big amounts of coffien while working on my computer or studying besindes that as a student a usually stress a lot during exam sessons which causes my heart rate to raise drastically. Senci it can be kind of costly to afford buying a watch to musser my heart rate, it can be more efficent to build a quite similar device at home
+1. By holding the sensor periodically to see your heart rate on the Adafruit table.
+2. By improvising and making this simple device into a wearable device (such as a bracelet).
+
+In this tutorial, I will provide you with the information you need to build the device in either way.
 ```gherkin=
 Feature: Guess the word
 
