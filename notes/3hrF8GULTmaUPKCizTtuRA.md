@@ -30,6 +30,8 @@ Yanis 訪談 web3
 
 * **活動推廣**
 
+* 時間gap
+- 
 
 * **閱讀紀錄**
 - 歷史：
@@ -48,11 +50,36 @@ Yanis 訪談 web3
     - DieM25, Mera25
 - 總體經濟學現況
 
+
+回到訪談文章
+- 前提：
+- NFT：I see little radical potential from NFT
+    - 區塊鏈前後的metaverse想像不無不同
+    - 去中介是否真的實現
+    - 但是，伴隨如果出現更大的社群的前提下
+- 鏈遊：讓後進國家獲得高於自己生活的收入
+    - 以前就發現 
+    - 非「個人」問題
+- Crypto: 反對Bitcoin ; Alt-coin
+    - 凱恩斯：The Fallacy of Composition
+    - Money supply cannot be de-politicized
+
+- 高通膨 vs Crypto 看法
+    - 
+
+
+
+
 * 問題
 - 
 
 * 相關文本
 - 遊戲經濟討論推薦
+    - https://www.youtube.com/watch?v=J2YDmUSpPPM
+    - https://www.youtube.com/watch?v=aX8f1lE09uY
+    - https://www.youtube.com/watch?v=tSyt0alpoyg
+    - https://www.youtube.com/watch?v=LnCOkQ-f8AQ
+    - https://www.youtube.com/watch?v=WycVOCbeKqQ
     - 
 
 
