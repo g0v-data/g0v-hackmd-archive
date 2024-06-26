@@ -50,16 +50,16 @@ Example Scenario:
 Let's consider a social media platform introducing a new messaging feature. With blue-green deployment, the improvement crew can test the new function in a green environment, simulating actual consumer interactions and message exchanges. They reveal the performance of the characteristics, including message shipping times, consumer interface responsiveness, and server aid utilization. If any concerns are recognized, they could quickly repeat the modifications in a set and retest until the function meets great requirements. Once it is in place, the feature is smoothly rolled out to the live manufacturing surroundings, presenting users with a smooth and dependable messaging experience. 
 
 ## Use Cases
-Blue-green deployment is commonly used in various scenarios, including:
-  
-* Web Applications: For rolling out updates, new features, or bug fixes to web-based applications without downtime. Examples of web applications that utilize this deployment strategy include [LinkedIn](https://ng.linkedin.com/) and [Github](https://github.com).
-  
-* E-commerce Platforms: To ensure continuous availability of online stores and minimize disruptions during updates or maintenance. Examples of e-commerce platforms that utilize this deployment strategy include [Amazon](https://www.amazon.com) and [Etsy](https://www.etsy.com).
-  
-* SaaS (Software as a Service) Platforms: For deploying updates to cloud-based applications while maintaining service availability for users. Platforms such as [SalesForce](https://en.m.wikipedia.org/wiki/Salesforce) and [Google Workspace](https://workspace.google.com) utilize this strategy. 
+Blue-green deployment is normally used in diverse eventualities, which include:
+
+* Web Applications: For rolling out updates, new functions, or worm fixes to internet-primarily based applications without downtime. Examples of internet packages that make use of this deployment method encompass LinkedIn and Github.
+
+* E-commerce Platforms:  The blue-green deployment method is used to deploy updates to applications that are cloud-based and limit disruptions all through updates or upkeep. Examples of e-trade platforms that make use of  this deployment approach encompass Amazon and Etsy.
+
+* SaaS (Software as a Service) Platforms: For deploying updates to cloud-based totally applications at the same time as preserving provider availability for users. Platforms which include SalesForce and Google Workspace utilize this approach.
 
 ## How does deployment work?
-Blue-green deployment operates on the principle of maintaining two identical yet separate environments, allowing for seamless updates and minimal downtime during the deployment process. Below is a detailed explanation of how blue-green deployment works, along with examples where necessary:
+Blue-green deployment operates on the principle of preserving identical yet separate environments, taking into account seamless updates and minimal downtime for the duration of the deployment technique. Below is a detailed clarification of how blue-green deployment works, in conjunction with examples.
 
 ### Working Principles
 We'll use the image below to illustrate the working principles of blue-green deployment.
@@ -67,10 +67,10 @@ We'll use the image below to illustrate the working principles of blue-green dep
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5c758010dd41d74cd31c06572275bf46.png)
 Source: aws.amazon.com
 
-In this deployment model, two environments are utilized: blue and green. Let's illustrate this with an example. Assume that version 1 is the current version of the application, while version 1.1 represents the new update. Version 1 is designated as the blue environment, while Version 1.1 is the green environment.
+We use two deployment models in this method: blue and green. Let’s illustrate this with an example. Assume that version 1 is the current version of the application, while version 1.1 represents the new update. Version 1 is used as the blue environment, while Version 1.1 is the green environment.
 
 ### The Process of Switching Traffic Between Environments
-As seen in the above image, [load balancers](https://en.wikipedia.org/wiki/Load_balancing_(computing)) are used to move users from the blue instance to the green one. Load balancers provide instantaneous switching in contrast to [DNS](https://www.cloudflare.com/learning/dns/what-is-dns/) record changes, which may take some time to propagate. The load balancer directs fresh traffic to the green environment by using the same DNS record, enabling smooth user control. If there are problems with the green instance, this is essential for rapidly rolling users back to version 1 (the blue instance).
+As seen in the above image, load balancers are used to move users from the blue instance to the green one. Load balancers provide instantaneous switching in contrast to DNS record changes, which may take some time to propagate. The load balancer is used to direct fresh traffic to the green environment by using the same DNS record which will definitely enable smooth user control. In a situation where there are problems with the green instance, this is essential for rapidly rolling users back to version 1 (the blue instance).
 
 ### Deployment and parallel running
 The green instance (version 1.1) runs concurrently with the older version in production after it is judged ready. Traffic is seamlessly diverted from the blue instance to the green instance via the load balancer. As they effortlessly access the updated version of the service or program, the majority of users won't even notice the move.
