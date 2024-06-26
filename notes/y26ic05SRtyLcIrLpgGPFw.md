@@ -81,13 +81,35 @@ Before we move to the naxt section you will need to update the MicroPython firmw
 
 
 
-Putting everything together
+Uploading code
 ---
 
 Start with opening VSCode and installing PyMakr from the extentions
 by following the stepes illustreted bellow
 
-![]
+![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_f0d7af46a0d30fcd84ad5de3d8eab997.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1719425011&Signature=eXqqCya3R2rCU2LUaISjx9ZItJs%3D)
+> Credits: Applied IOT LNU
+> 
+
+Then you can connect your microcontroller via the PyMakr. Click the PyMakr icone, your microcontroller should be viwed in the DEVICES section you can click the electricity symbol asocited with you microcontroller then you device will strat. Then you can click the terminal symple to open a new terminal, that terminal also is asocieted with your microcontroller and will previde you some information about the Raspberry Pi Pico W such as the virsion you can also print a string as illustrated in the picture bellow.
+
+![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_5cd6f572d0e701bec989086bcd08decc.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1719426383&Signature=Zf2hgGch%2F%2FC69geIp7etWvnS0xU%3D)
+> Credits: Applied IOT LNU
+> 
+
+Now you should be able to create your first project 
+
+![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_2ddf837a072e008be3c17010c7b3dae0.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1719426383&Signature=XmX2RRnb6k9VuPBO6SarmeNk0N4%3D)
+
+![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_e0a1ffc1ca631037ade2a818426e9891.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1719426383&Signature=LIaEBmoFi3Ou7kJDXEXVuRZjjAs%3D)
+
+![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_07270381e4a011cb6811483ae9184076.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1719426383&Signature=vibFFZYvbOhrF%2FPdJTOemVGJgnM%3D)
+
+![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_0253b59a3537cb47f1779aba21c20e19.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1719426383&Signature=Tsdiigr5FJz9efc4wWcw8sFa1Y8%3D)
+
+> Credits: Applied IOT LNU
+> 
+
 
 
 
