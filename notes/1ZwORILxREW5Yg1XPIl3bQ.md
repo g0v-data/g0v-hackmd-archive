@@ -156,7 +156,8 @@ An e-commerce website updates its product catalog with the use of blue-green dep
 Blue-green deployment transfers traffic from the vintage surroundings to the brand-new environment gradually, permitting automated and seamless updates. This makes certain that in the deployment method, users are not disturbed.
 
 For example:
-A software-as-a-provider (SaaS) platform updates its consumer interface the use of blue-green deployment. The new interface is deployed in green surroundings and steadily rolled out to customers. Users seamlessly transition to the brand-new interface without experiencing any downtime or disruptions.
+A software-as-a-pr
+ovider (SaaS) platform updates its consumer interface the use of blue-green deployment. The new interface is deployed in green surroundings and steadily rolled out to customers. Users seamlessly transition to the brand-new interface without experiencing any downtime or disruptions.
 
 ### Test in Production
 The deployment lets in you to check updates or new capabilities in a production-like setting (green) without affecting end users. By doing this, it is ensured that any issues are discovered and stuck earlier than being deployed to the live environment.
@@ -165,7 +166,9 @@ For instance:
 A social media platform introduces a brand new messaging function the use of blue-green deployment. The feature is examined in green surroundings, allowing the improvement group to become aware of and connect any insects or usability troubles before making it available to all customers.
 
 ## Challenges of Blue-Green Deployment
-Maintains a standby system
+Let us take look at some of the challenges that come with blue-green deployment strategy.
+
+### Maintains a standby system
 A fully useful device (blue) is usually available to behave as a backup, way to this deployment strategy. If the lively system studies unanticipated problems or malfunctions, this backup system gives a safe internet (green). Utilizing this deployment approach also comes with problems and demanding situations. Let’s take a look at the demanding situations of blue-green deployment.
 
 ### Costs
@@ -180,7 +183,7 @@ Maintaining comparable environments and making sure scalability can turn out to 
 For instance:
 A rapidly growing online marketplace struggles to scale its blue-green deployment infrastructure to deal with the growing wide variety of customers and transactions. They may need to put money into additional resources and technologies to aid scalability.
 
-Difficulty in Database Management
+### Difficulty in Database Management
 Managing databases in a blue-green deployment configuration may be hard and may call for careful making of plans and collaboration, especially whilst improvements entail schema adjustments.
 
 For instance:
@@ -191,8 +194,6 @@ User transactions might be misplaced or halted at some stage in the transfer fro
 
 For instance:
 An online banking application switches from the old environment (blue) to the new environment (green) the usage of blue-green deployment. Some customers may revel in transaction failures or delays for the duration of the transition, requiring them to retry transactions.
-For example:
-A banking software employs blue-green deployment to make sure the non-stop availability of its services. The blue surroundings serves because the standby gadget, equipped to take over if the green environment stories any technical troubles. This ensures that customers can access their bills and behavior transactions without interruption.
 
 ### Returns to Former Iterations Right Away
 If there are problems with the brand-new deployment, a swift rollback to an earlier model is possible the use of a blue-green deployment. This feature guarantees that troubles can be resolved quickly, lowering the impact on customers.
