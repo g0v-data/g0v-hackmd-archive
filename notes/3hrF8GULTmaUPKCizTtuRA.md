@@ -65,7 +65,6 @@ Yanis 訪談 web3
     - Money supply cannot be de-politicized
 
 - 高通膨 vs Crypto 看法
-    - 
 
 
 
@@ -76,10 +75,6 @@ Yanis 訪談 web3
 * 相關文本
 - 遊戲經濟討論推薦
     - https://www.youtube.com/watch?v=J2YDmUSpPPM
-    - https://www.youtube.com/watch?v=aX8f1lE09uY
-    - https://www.youtube.com/watch?v=tSyt0alpoyg
-    - https://www.youtube.com/watch?v=LnCOkQ-f8AQ
-    - https://www.youtube.com/watch?v=WycVOCbeKqQ
     - 
 
 
