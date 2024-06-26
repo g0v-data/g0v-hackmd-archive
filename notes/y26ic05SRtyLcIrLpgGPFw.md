@@ -12,7 +12,8 @@ IoT tutorial
 
 [TOC]
 
-## Project description
+Project description
+---
 
 This project is built to measure the user's heart rate using a **KY-039 Heart Rate** Sensor connected to a Raspberry Pi Pico W. We will use microPython to calculate the heart rate data from the sensor and send it to Adafruit IO for visualization. The online table on Adafruit IO shows the user's heart rate on the y-axis and the time of measurement on the x-axis. Adafruit IO also sends a webhook to a specified Discord server if the user's heart rate exceeds a certain value.
 
@@ -26,39 +27,7 @@ The objective of this project is to build a device that helps users become more 
 2. By improvising and making this simple device into a wearable device (such as a bracelet).
 
 In this tutorial, I will provide you with the information you need to build the device in either way.
-```gherkin=
-Feature: Guess the word
 
-  # The first example has two steps
-  Scenario: Maker starts a game
-    When the Maker starts a game
-    Then the Maker waits for a Breaker to join
-
-  # The second example has three steps
-  Scenario: Breaker joins a game
-    Given the Maker has started a game with the word "silky"
-    When the Breaker joins the Maker's game
-    Then the Breaker must guess a word with 5 characters
-```
-> I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it. [name=Bill Gates]
-
-
-```gherkin=
-Feature: Shopping Cart
-  As a Shopper
-  I want to put items in my shopping cart
-  Because I want to manage items before I check out
-
-  Scenario: User adds item to cart
-    Given I'm a logged-in User
-    When I go to the Item page
-    And I click "Add item to cart"
-    Then the quantity of items in my cart should go up
-    And my subtotal should increment
-    And the warehouse inventory should decrement
-```
-
-> Read more about Gherkin here: https://docs.cucumber.io/gherkin/reference/
 
 List of material
 ---
@@ -83,36 +52,43 @@ Other materials that can be found in any household (note: if you have three fema
 3. Any hair band you can find
 
 
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-Note left of Alice: Alice responds
-Alice->Bob: Where have you been?
-```
 
-> Read more about sequence-diagrams here: http://bramp.github.io/js-sequence-diagrams/
 
-Project Timeline
+Software
 ---
-```mermaid
-gantt
-    title A Gantt Diagram
 
-    section Section
-    A task           :a1, 2014-01-01, 30d
-    Another task     :after a1  , 20d
-    section Another
-    Task in sec      :2014-01-12  , 12d
-    anther task      : 24d
-```
+The followoing section mentions the software that you will need and what they are used for and their respektive links to download them for free.
 
-> Read more about mermaid here: http://mermaid-js.github.io/mermaid/
+* [Visual Studio code](https://code.visualstudio.com/)
 
-## Appendix and FAQ
+First of all you need to have an idetor to write your code. In this totoriel we will use Visual Studio code (VSCode), you can use any editor of choice as long as it has the plugin we will use.
 
-:::info
-**Find this document incomplete?** Leave a comment!
-:::
+* [PyMakr](https://hackmd.io/@lnu-iot/rkiTJj8O9#Windows-OS)
+
+The PayMakr plugin you can install it as an extention on VSCode, it is used to develop using MicroPython (Which is a virsion of python deticated for programming microcontroller). 
+
+* [Node.js ](https://nodejs.org/en)
+
+Node.js is a framwork that you can use to run JavaScript on your machine envirunment. But we are not goin to use it for that perpose, we only need it so that the PayMakr will work.
+
+Before we move to the naxt section you will need to update the MicroPython firmware by following the steps below.
+
+1. Download the latest MicroPython firmware [here](https://micropython.org/download/rp2-pico-w/) version.
+2. Use the smaller end of the USB cable to plug it in the microcontroller (Raspberry Pi Pico W).
+3. Hold the BOOTSEL botton (a small white button) on the microcontroller and connect the other end of the USB cable with your computer while holdin the button, the you can realse the button.
+4. Now if you open your file system ther should be a spesific storage called RPI-RP2 which is meant to be for the Raspberry Pi Pico W. You will move the uf2 file to that storage.
+5. Your board will automaticly disconnect and reconnect. If it does that then you are good to move to the next section.
+
+
+
+Putting everything together
+---
+
+Start with opening VSCode and installing PyMakr from the extentions
+by following the stepes illustreted bellow
+
+![]
+
+
 
 ###### tags: `Templates` `Documentation`

@@ -75,6 +75,9 @@ Yanis 訪談 web3
 * 相關文本
 - 遊戲經濟討論推薦
     - https://www.youtube.com/watch?v=J2YDmUSpPPM
+    - [《狼與辛香料》裡赫蘿跟羅倫斯賺了多少錢？來試試經濟學幣值換算吧](https://u-acg.com/archives/19992)
+    - [紐西蘭政府花錢製作遊戲教人民如何賺錢](https://u-acg.com/archives/18331)
+    - [數位囤積：玩遊戲或囤積遊戲哪種比較有趣？](https://u-acg.com/archives/15351)
     - 
 
 
