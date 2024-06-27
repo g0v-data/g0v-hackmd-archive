@@ -116,8 +116,18 @@ Now we need to have our environment running and in order to do that we need to b
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_172189784e7e6bdd8b0f62352481a7bc.png)
 
 1. As illustrated in the image above you will connect the sensor to the breadboard by placing its three pins in the breadbord between the points 42-44.
-2. Once done you will use a female/male jummper to connect the pin noted with S to the pin number 32 on you microcontroller, which an ADC pin that stands for analoge to digital convertion. Because our sensor registers analog signals we need to convert these signals to digital signals so that the computer can understand it and make use of it, and thats posible thanks to the ADC pins on the microcontriller.
-3. Use two male/male jumpers to connect the the midel pin ans
+2. Once done you will use a female/male jummper to connect the pin noted with S to the pin number 32 on you microcontroller, which an ADC pin that stands for analoge to digital conversion. Because our sensor registers analog signals we need to convert these signals to digital signals so that the computer can understand it and make use of it, and thats posible thanks to the ADC pins on the microcontriller.
+3. Use one male/male jumper to connect the the midel pin (the VCC pin of the sensor) to the positve row on the breadbord. Use a female/male jumper, of the same color if available, to connect that point on the positve row to the pin number 36 (3V3 OUT) on the microcontroller, this pin is responsiple for supplling the conectted componenets with 3.3V output power, which will provide your sensor with the amount of power it needs to work. 
+4. Repete the same prosece for the pin noted with - (GND) on the sensor to connect it to the negative row on the breadboard then connect it to the pin nummber 38(Ground) on the microcontroller, this is nessery to complete our electrical circuit.
+
+
+If you want to bulid this circuit sepratly with out the breadboard you can follwo the step bellow.
+
+1. You will have to have three female/female wires. If you don't have the we can improvise and make our own. For that you need six famle/male wires.
+2. Use a pair of sisors to cut the wires in the midle so that the ends are equaly long, we will only need the female ends.
+3. Try to carefully remove the plastic part of the ends to reveal the copar part.
+4. Connect the copar part of two famle ends to create a female/female wire then tape it. repeate the prosece three time to create three female/female wires. The image below ilustrates how it is done.
+5. Use the wires that you improvised to connect the sensprs pins to the respective pins on the microcontroller. Just like that you will have your prototype working and runnig exaclty in the same way as with the breadboard.
 
 
 ###### tags: `Templates` `Documentation`
