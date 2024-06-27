@@ -110,7 +110,14 @@ Now you should be able to create your first project
 > Credits: Applied IOT LNU
 > 
 
+Putting everything together
+---
+Now we need to have our environment running and in order to do that we need to build an   electronic circuit. To build that we will use the matirials in the material list, mainly the raspbery pi pico, the ky-039 sensor, two male/male jumpers, three female/male jummpers and the breadbord. It worth noting that the illustration below only shows how to connect the electronic compnents to the breadboard without connecting the microcontrollers body to the bredboard and that is because we are going to use the microcontroller and the sensor on their on later. 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_172189784e7e6bdd8b0f62352481a7bc.png)
 
+1. As illustrated in the image above you will connect the sensor to the breadboard by placing its three pins in the breadbord between the points 42-44.
+2. Once done you will use a female/male jummper to connect the pin noted with S to the pin number 32 on you microcontroller, which an ADC pin that stands for analoge to digital convertion. Because our sensor registers analog signals we need to convert these signals to digital signals so that the computer can understand it and make use of it, and thats posible thanks to the ADC pins on the microcontriller.
+3. Use two male/male jumpers to connect the the midel pin ans
 
 
 ###### tags: `Templates` `Documentation`

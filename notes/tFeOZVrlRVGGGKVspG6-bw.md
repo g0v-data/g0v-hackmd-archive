@@ -2,10 +2,10 @@
 使用Html 搭配 JavaScript
 
 1. **HTML5 原生檢查**
-2. **jQuery Validation**
+2. [**jQuery Validation**](https://github.com/jquery-validation/jquery-validation)
 3. **Parsley.js**
 4. **正則表達式**
-5. **Bootstrap Validation**
+5. **[Bootstrap Validation](https://getbootstrap.com/docs/5.0/forms/validation/)**
 ###### 1. HTML5 原生檢查
 優點
 
@@ -29,92 +29,94 @@
 - 依賴 jQuery，需要加載 jQuery 庫，增加頁面加載時間。
 - 對於現代項目，可能過於臃腫。
 
-	###### 範例
-   
-        `$('#prepare-submit').on('click', function() {
-            // 如果表單驗證通過，進行進一步處理
-            if ($('#payamtForm').valid()) {
+    ###### 範例
+    ```
+    $('#prepare-submit').on('click', function() {
+        // 如果表單驗證通過，進行進一步處理
+        if ($('#payamtForm').valid()) {
             // 這裡可以添加提交表單的實際代碼
             alert('表單驗證通過，現在可以提交表單。');
-            }
-            // 搭配 jQuery Validate 設定自定義驗證方法
-            $.validator.addMethod("numericFormat", function(value, element) {
-            return this.optional(element) || /^[0-9]$/.test(value);
-            }, "請填寫有效的數字。");
-            $.validator.addMethod("creditCardFormat", function(value, element) {
-            const regex = /^(?:\d{4} ){3}\d{4}$/; // Pattern for 'xxxx xxxx xxxx xxxx'
-            return this.optional(element) || regex.test(value);
-            }, "信用卡號格式錯誤");
-            // 使用 jQuery Validate 插件來設置表單驗證規則和錯誤訊息
-            $('#payamtForm').validate({
-            rules: {
-            select_area_code: {
-            required: true,
+        }
+    });
+    // 搭配 jQuery Validate 設定自定義驗證方法
+    $.validator.addMethod("numericFormat", function(value, element) {
+        return this.optional(element) || /^[0-9]$/.test(value);
+        }, "請填寫有效的數字。");
+    $.validator.addMethod("creditCardFormat", function(value, element) {
+       const regex = /^(?:\d{4} ){3}\d{4}$/; // Pattern for 'xxxx xxxx xxxx xxxx'
+        return this.optional(element) || regex.test(value);
+    }, "信用卡號格式錯誤");
+    // 使用 jQuery Validate 插件來設置表單驗證規則和錯誤訊息
+    $('#payamtForm').validate({
+        rules: {
+             select_area_code: {
+                 required: true,
             },
             area_code: {
-            required: {
-            depends: function(element) {
-            return $('select[name="select_area_code"]').val() !== '+886';
-            }
-            },
-            numericFormat: true
-            },
-            con_phone: {
-            required: true,
-            numericFormat: true
-            },
-            con_email: {
-            required: true,
-            email: true
-            },
-            },
-            messages: {
-            select_area_code: {
-            required: "請填寫手機號碼",
-            },
-            area_code: {
-            required: "請填寫區碼"
-            },
-            con_phone: {
-            required: "請填寫手機號碼",
-            email: "請填寫有效的手機號碼"
-            },
-            con_email: {
-            required: "請填寫電子郵件",
-            },
-            },
-            // 錯誤處理：顯示錯誤訊息並彈出模態窗口
-            errorPlacement: function(error, element) {
-            // 將錯誤訊息顯示在input欄位後面
-            //error.appendTo(element.parent()); // 將錯誤訊息添加到輸入欄位的父元素中
-            // 檢查元素名稱並附加錯誤訊息
-                if ( (element.attr("name") === "last_name" || element.attr("name") === "first_name") && error.text() && element.val() !== '') {
-                        setTimeout(function() {
-                            //error.appendTo($('#checkModal').find('.error-column'));
-                            $('#checkModal .error-column').html(error);
-                            $('#checkModal').modal('show');
-                            $('input[name="'+element.attr("name")+'"]').val('');
-                        }, 100); // 延遲100毫秒，避免輸入過快
-                        
-                    // 清空並隱藏模態視窗
-                    $('#checkModal .error-column').empty();
-
-                    $('input[name="'+element.attr("name")+'"]').focus();
-                }
+                required: {
+                    depends: function(element) {
+                        return $('select[name="select_area_code"]').val() !== '+886';
+                    }
                 },
-                // 自定義錯誤訊息處理
-                invalidHandler: function(form, validator) {
-                // 清空之前的錯誤消息
-                $('#checkModal .error-column').html('');
-                // 顯示每個欄位的錯誤訊息
-                $.each(validator.errorList, function(index, error) {
+                mericFormat: true
+            },
+            con_phone: {
+                required: true,
+                numericFormat: true
+            },
+            con_email: {
+                required: true,
+                email: true
+            },
+        },
+        messages: {
+            select_area_code: {
+                required: "請填寫手機號碼",
+                },
+            area_code: {
+                required: "請填寫區碼"
+            },
+            con_phone: {
+                required: "請填寫手機號碼",
+                email: "請填寫有效的手機號碼"
+            },
+            con_email: {
+                required: "請填寫電子郵件",
+            },
+        },
+        // 錯誤處理：顯示錯誤訊息並彈出模態窗口
+        errorPlacement: function(error, element) {
+        // 將錯誤訊息顯示在input欄位後面
+        //error.appendTo(element.parent()); // 將錯誤訊息添加到輸入欄位的父元素中
+        // 檢查元素名稱並附加錯誤訊息
+            if ( (element.attr("name") === "last_name" || element.attr("name") === "first_name") && error.text() && element.val() !== '') {
+                    setTimeout(function() {
+                        //error.appendTo($('#checkModal').find('.error-column'));
+                        $('#checkModal .error-column').html(error);
+                        $('#checkModal').modal('show');
+                        $('input[name="'+element.attr("name")+'"]').val('');
+                    }, 100); // 延遲100毫秒，避免輸入過快
+
+                // 清空並隱藏模態視窗
+                $('#checkModal .error-column').empty();
+
+                $('input[name="'+element.attr("name")+'"]').focus();
+            }
+        },
+        // 自定義錯誤訊息處理
+        invalidHandler: function(form, validator) {
+            // 清空之前的錯誤消息
+            $('#checkModal .error-column').html('');
+            // 顯示每個欄位的錯誤訊息
+            $.each(validator.errorList, function(index, error) {
                 // 彈出模態窗口來顯示錯誤訊息
                 $('#checkModal .error-column').html(error.message);
                 $('#checkModal').modal('show');
-                    exit;
-                    });
-                }
-            });`
+                exit;
+            });
+        }
+    });
+    ```
 ###### 3. Parsley.js
 
 優點
@@ -162,107 +164,114 @@
 
 ##### 範例
 ###### 基礎表單驗證寫法
-```
-// 預設的表單驗證html
-<label for="validationMCOwner">會員卡持有人</label>
-<input type="text" class="form-control" name="validationMCOwner" id="validationMCOwner" placeholder="姓名" required value="">
-<div class="invalid-feedback">請輸入會員卡持有人</div>
+    ```
+    // 預設的表單驗證html
+    <label for="validationMCOwner">會員卡持有人</label>
+    <input type="text" class="form-control" name="validationMCOwner" id="validationMCOwner" placeholder="姓名" required value="">
+    <div class="invalid-feedback">請輸入會員卡持有人</div>
 
-//jacascript
-<script type="text/javascript">
-     (function () {
-    'use strict'
-    // Fetch all the forms we want to apply custom Bootstrap validation styles to
-    var forms = document.querySelectorAll('.needs-validation')
-    // Loop over them and prevent submission
-    Array.prototype.slice.call(forms)
-        .forEach(function (form) {
-            form.addEventListener('submit', function (event) {
-
-                // 預設的表單驗證，訊息抓取class=invalid-feedback的innerHtml
-                if (!form.checkValidity()) {
-                    event.preventDefault()
-                    event.stopPropagation()
-                }
-                form.classList.add('was-validated')
-
-                if (!isValid) {
-                    event.preventDefault();
-                    event.stopPropagation();
-                }
-                form.classList.add('was-validated');
-            }, false)
-        })
-    })()
-</script>
-```
-
-
-```
-<script>
-// 預設的表單驗證，訊息是抓取class=invalid-feedback的innerHtml
-// 表單驗證初始化，Example starter JavaScript for disabling form submissions 
-// 這邊訊息客製化，抓取 element 的 data getAttribute
-if there are invalid fields
-        (function () {
+    //jacascript
+    <script type="text/javascript">
+        // 表單驗證初始化，Example starter JavaScript for disabling form submissions if there are invalid fields
+        // 預設的表單驗證，訊息是抓取class=invalid-feedback的innerHtml
+         (function () {
         'use strict'
-
         // Fetch all the forms we want to apply custom Bootstrap validation styles to
         var forms = document.querySelectorAll('.needs-validation')
-
         // Loop over them and prevent submission
         Array.prototype.slice.call(forms)
             .forEach(function (form) {
                 form.addEventListener('submit', function (event) {
-                    var inputs = form.querySelectorAll('input, select, textarea');
-                    var isValid = true;
 
-                    inputs.forEach(function(input) {
-                        input.classList.remove('is-invalid');
-                        var feedback = input.nextElementSibling;
-
-                        // Clear previous feedback message
-                        if (feedback && feedback.classList.contains('invalid-feedback')) {
-                            feedback.textContent = '';
-                        }
-
-                        if (!input.checkValidity()) {
-                            isValid = false;
-                            input.classList.add('is-invalid');
-                            
-                            if (feedback && feedback.classList.contains('invalid-feedback')) {
-                                if (input.validity.valueMissing) {
-                                    feedback.textContent = feedback.getAttribute("data-required");
-                                } else if (input.validity.patternMismatch) {
-                                    feedback.textContent = (feedback.getAttribute("data-pattern")) ? feedback.getAttribute("data-pattern") : '請輸入有效的資料格式';
-                                } else if (input.validity.typeMismatch) {
-                                    feedback.textContent = '請輸入有效的資料類型 ' + input.type + '.';
-                                } else {
-                                    if ( input.getAttribute("type") == "datetime-local" ){
-                                        const currentDate = new Date();
-                                        const selectedDate = new Date(input.value);
-                                        if (selectedDate < currentDate) {
-                                            feedback.textContent = (feedback.getAttribute("data-required")) ? feedback.getAttribute("data-required") : '時間錯誤';
-                                        }
-                                    }else{
-                                        feedback.textContent = 'Invalid input.';
-                                    }
-                                }
-                            }
-                        }
-                    });
+                    // 預設的表單驗證，訊息抓取class=invalid-feedback的innerHtml
+                    if (!form.checkValidity()) {
+                        event.preventDefault()
+                        event.stopPropagation()
+                    }
+                    form.classList.add('was-validated')
 
                     if (!isValid) {
                         event.preventDefault();
                         event.stopPropagation();
                     }
-
                     form.classList.add('was-validated');
                 }, false)
             })
         })()
-</sript>
-```
+    </script>
+    ```
+
+###### 客製化表單驗證寫法，除了為輸入之外，增加input資料格式的判斷
+
+    ```
+    // 經過客製化的表單驗證html
+    <label for="validationToken">Token ID</label>
+    <input type="text" class="form-control" name="validationToken" id="validationToken" placeholder="123" required  pattern="^[0-9]*$" value="">
+    <div class="invalid-feedback" data-required="請輸入Token ID" data-pattern="僅可輸入數字">請輸入Token ID</div>
+
+    <script>
+    // 表單驗證初始化，Example starter JavaScript for disabling form submissions if there are invalid fields
+    // 這邊訊息客製化，抓取 element 的 data getAttribute
+            (function () {
+            'use strict'
+
+            // Fetch all the forms we want to apply custom Bootstrap validation styles to
+            var forms = document.querySelectorAll('.needs-validation')
+
+            // Loop over them and prevent submission
+            Array.prototype.slice.call(forms)
+                .forEach(function (form) {
+                    form.addEventListener('submit', function (event) {
+                        var inputs = form.querySelectorAll('input, select, textarea');
+                        var isValid = true;
+
+                        inputs.forEach(function(input) {
+                            input.classList.remove('is-invalid');
+                            var feedback = input.nextElementSibling;
+
+                            // Clear previous feedback message
+                            if (feedback && feedback.classList.contains('invalid-feedback')) {
+                                feedback.textContent = '';
+                            }
+
+                            if (!input.checkValidity()) {
+                                isValid = false;
+                                input.classList.add('is-invalid');
+
+                                if (feedback && feedback.classList.contains('invalid-feedback')) {
+                                    if (input.validity.valueMissing) {
+                                        feedback.textContent = feedback.getAttribute("data-required");
+                                    } else if (input.validity.patternMismatch) {
+                                        feedback.textContent = (feedback.getAttribute("data-pattern")) ? feedback.getAttribute("data-pattern") : '請輸入有效的資料格式';
+                                    } else if (input.validity.typeMismatch) {
+                                        feedback.textContent = '請輸入有效的資料類型 ' + input.type + '.';
+                                    } else {
+                                        if ( input.getAttribute("type") == "datetime-local" ){
+                                            const currentDate = new Date();
+                                            const selectedDate = new Date(input.value);
+                                            if (selectedDate < currentDate) {
+                                                feedback.textContent = (feedback.getAttribute("data-required")) ? feedback.getAttribute("data-required") : '時間錯誤';
+                                            }
+                                        }else{
+                                            feedback.textContent = 'Invalid input.';
+                                        }
+                                    }
+                                }
+                            }
+                        });
+
+                        if (!isValid) {
+                            event.preventDefault();
+                            event.stopPropagation();
+                        }
+
+                        form.classList.add('was-validated');
+                    }, false)
+                })
+            })()
+    </sript>
+    ```
+
 
 
 ### 使用 Next.js
@@ -310,14 +319,4 @@ Formik 是一個強大的表單管理庫，Yup 是一個驗證庫。兩者結合
 - 相對較重，可能對性能有一定影響。
 
 
-
-
-// 表單驗證初始化，Example starter JavaScript for disabling form submissions if there are invalid fields
-
-
-###### 客製化表單驗證寫法，除了為輸入之外，增加input資料格式的判斷
-       <label for="validationToken">Token ID</label>
-       <input type="text" class="form-control" name="validationToken" id="validationToken" placeholder="123" required  pattern="^[0-9]*$" value="">
-      <div class="invalid-feedback" data-required="請輸入Token ID" data-pattern="僅可輸入數字">請輸入Token ID</div>
-      
      
