@@ -224,5 +224,9 @@ Before we move on, to the next part you will have to create an other file in the
 
 Transmitting the data
 ---
-The heart rate data is transmited to Adafruit IO pare 10 seconds. The wireless protocol used to cary out the transmetion is a **wifi** network by using the provided SSID and password
+The heart rate data is transmited to Adafruit IO pare 10 seconds. The wireless protocol used to cary out the transmetion is a **wifi** network by using the provided SSID and password. The transport protocol to publish the calculated heart rate data to a specified feed on Adafruit  is **MQTT (Message Queuing Telemetry Transport)**, that allows real-time data to be visualised.
+
+Presenting the data
+---
+
 ###### tags: `Templates` `Documentation`

@@ -56,21 +56,41 @@ https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X
 
 #### 維也納
 
-方案
+探討地區
 https://www.energy-innovation-austria.at/article/superblock-2/?lang=en
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_749f063dfb5ef14297cb4644d024b765.jpg)
 
-A. Kandlgasse & Schottenfeldgasse
+地區位置
+Kandlgasse & Schottenfeldgasse
 https://maps.app.goo.gl/WB7xvc7WxhZ5ZSq8A
-B. Suchenwirtpark
+Suchenwirtpark
 https://maps.app.goo.gl/f6k6Fcmtyu7tbMSx9
-C. Clemens-hofbauer-park
+Clemens-hofbauer-park
 https://maps.app.goo.gl/YCiXta85CxgF2UqL8
+位於第 10 區的法沃萊特 (Favoriten)
+地點 48.177531216611854, 16.369375369056698 https://maps.app.goo.gl/8uBq44UBFdMbRPxo8
+整體規劃方案：https://original-magazin.at/supergraetzl
 
-活動
+
+實體活動策劃
 https://www.linkedin.com/posts/flolo_supergr%C3%A4tzl-activity-6978991837566918656-b4uf/
+https://www.linkedin.com/feed/update/urn:li:activity:6943166207898374144/
 
-施工
+施工地點
+地點 A：48.177531216611854, 16.369375369056698 https://maps.app.goo.gl/8uBq44UBFdMbRPxo8
+位於第 10 區的法沃萊特 (Favoriten) 
+- 整體規劃方案：https://original-magazin.at/supergraetzl
+- 測試階段照片：https://www.motion-mag.com/exhibit/vienna-the-worlds-most-liveable-city
+- 照片：https://www.facebook.com/photo?fbid=1010296247767873&set=pcb.1010296744434490
+- https://www.instagram.com/supergraetzl.lichtental/
+
+地點 B：？
+https://www.facebook.com/photo?fbid=1010296261101205&set=pcb.1010296744434490
+
+其他待確認
+https://original-magazin.at/supergraetzl
+https://wien.orf.at/stories/3216126/
 https://x.com/infraexplained/status/1805702495810867665
 https://www.facebook.com/immdesignlab.polimi/posts/pfbid0MANDDHrSmx9oPPpQj65tsTbByi6pTGm9RiSLHpQD6a9wEog8NtoW9CjEhTPZhrv9l
 
