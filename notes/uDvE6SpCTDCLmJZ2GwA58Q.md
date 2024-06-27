@@ -84,7 +84,6 @@ tags: 新生流域
     - 照片 建國啤酒廠 https://www.facebook.com/share/rooSpYXJMWnnLBf8/
     - 重要 1948 大安橋 https://www.facebook.com/share/p/UX1KRHgiGQinhk3x/
     - 重要 照片 1950 新生大排 仁愛路口附近 https://www.facebook.com/photo.php?fbid=2375408632496687&vanity=FormosaMuseum&slug=a.129976463706593
-    - 重要 照片 新生大排 https://memory.culture.tw/Home/Detail?Id=701215&IndexCode=online_metadata
     - 重要 照片 1960 新生大排 https://www.facebook.com/FormosaMuseum/photos/a.129976463706593/4722026494501544/?type=3&locale=hi_IN
     - 重要 照片 1963 新生大排 https://memory.culture.tw/Home/Detail?Id=572348&IndexCode=online_metadata
     - 重要 照片 新生南路加蓋 https://memory.culture.tw/Home/Detail?Id=548886&IndexCode=online_metadata
@@ -107,13 +106,12 @@ tags: 新生流域
     - 1957 中山北路與新生北路與圓山，照片 0:52 秒 https://youtu.be/vZ9pms6ND2M
     - 1959 空拍影片，有明顯的鐵道鐵軌 https://youtu.be/9i9Nr1WFmh4?si=6FC3bMSxs0eeAAp0&t=796
     - 基隆河圓山老照片 https://www.facebook.com/photo.php?fbid=255167153547365&set=a.186238740440207&type=3&mibextid=cr9u03
-    - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577638452661/
+    - 重要，照片，戰後1975年的台北市新生北路-公務員掃除髒亂活動 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577638452661/
     - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577631785995/
     - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577645119327/
     - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577645119327/
     - 照片 光華橋 https://memory.culture.tw/Home/Detail?Id=2270370&IndexCode=online_metadata
-    - 重要 1968-1969 聖家堂 彩色照片 新生大排 https://taipeiairstation.blogspot.com/2018/11/armed-forces-network-taiwan-afnt.html
-    - 1968 南京新生路口，照片 https://www.facebook.com/104339821634619/posts/pfbid02WJy6KE9khYPRbEzAdVZEwVHKdJhd8gHnmUWsVebJHU922x3jSrVSZ1A3sWge1QPHl/?mibextid=cr9u03
+    - 重要，1968 南京新生路口，照片 https://www.facebook.com/104339821634619/posts/pfbid02WJy6KE9khYPRbEzAdVZEwVHKdJhd8gHnmUWsVebJHU922x3jSrVSZ1A3sWge1QPHl/?mibextid=cr9u03
     - 中崙福順宮 鄰接著 給水路 https://maps.app.goo.gl/VGUmitiHJJNGxdyh8
     - 照片，建國高架興建中與大安森林公園位置
         - https://www.facebook.com/ZhangZheSheng/photos/a.10152144402114531/10152335556574531/

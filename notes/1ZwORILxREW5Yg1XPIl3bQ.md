@@ -128,7 +128,7 @@ Throughout the deployment cycle, non-stop monitoring of both environments is imp
 
 Any issues or anomalies detected in either environments are addressed right away to keep the provider excellent. Feedback from customers and stakeholders is accumulated and used to tell future updates and improvements, for that reason perpetuating the cycle of non-stop enhancement.
 
-Overall, the non-stop cycle of blue-green deployment enables businesses to acquire fast, reliable, and efficient updates to their applications or offerings while ensuring minimal disruption to customers. By maintaining equal environments and alternating among them, blue-green deployment gives a robust framework for deploying updates effectively and effectively.
+With all being said, the non-stop cycle of blue-green deployment enables businesses to acquire fast, reliable, and efficient updates to their applications or offerings while ensuring minimal disruption to customers. By maintaining equal environments and alternating among them, blue-green deployment gives a robust framework for deploying updates effectively and effectively.
 
 
 ## Benefits of Blue-Green Deployment

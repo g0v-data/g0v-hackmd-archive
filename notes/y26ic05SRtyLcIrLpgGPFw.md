@@ -149,7 +149,7 @@ import machine
 import micropython 
 import utime
 ```
-Then you have to conect to your wifi and Adafruit MQTT server but to be able to do that first we need to create variabls to serv that porpuse 
+Then you have to conect to your wifi and Adafruit MQTT server but to be able to do that first we need to create variabls to serv that porpuse, the we can connect to wife and set up the MQTT clinte. 
 ```Python=
 # WiFi and Adafruit IO credentials
 wifi_ssid = 'Your wifi name'
@@ -160,13 +160,69 @@ AIO_USER = "Your username in Adafruite"
 AIO_KEY = "Aktive key"
 AIO_FEED = "The name of your feed"
 ```
-Now we will need to set up our MQTT client to pass the heart rate data to the feed we will create on Adafruit IO. And we will also difne 
+The wifi connection
+```Python=
+# Function to connect to WiFi
+def connect_wifi():
+    wlan = network.WLAN(network.STA_IF)
+    wlan.active(True)
+    wlan.connect(wifi_ssid, wifi_password)
+    while not wlan.isconnected():
+        pass
+    print("Connected to WiFi")
+    return wlan.ifconfig()
+```
+
+Now we will need to set up our MQTT client to pass the heart rate data to the feed we will create on Adafruit IO. And we will also define the ADC pin of the raspberry py pico connected to the heart rate sensor (ky-039).
 ```Python=
 # Function to set up MQTT client
 def setup_mqtt():
     client = MQTTClient(ubinascii.hexlify(machine.unique_id()), AIO_SERVER, port=AIO_PORT, user=AIO_USER, password=AIO_KEY)
     client.connect()
     return client
+    adc = machine.ADC(27)
 ```
+Now that we have a our MQTT clinte set up and we have a reference to the ACD pin we can begin with the logik to convert the analoge value and calculate the heart rate in the (BPM: beats per minute) unite.
+```Python=
+def calculate_heart_rate():
+    threshold = 4500  # Threshold to detect a heartbeat
+    heartbeats = 0
+    measurement_time = 12 # Measure for 12 seconds
+    start_time = utime.time()
 
+    while utime.time() - start_time < measurement_time:
+        analog_value = adc.read_u16()  # Reads the analog value (0-65535)
+        if analog_value > threshold:
+            heartbeats += 1
+            utime.sleep_ms(800)  # Increased debounce delay
+    print("Analog Value:", analog_value)
+    heart_rate = (heartbeats * 60) / measurement_time
+    return heart_rate
+```
+We will now use our MQTT clinte and the valye returned from the calculate_heart_rate() function to publish reale time data to Adafruite. To do so we will need to define the following function.
+```Python=
+def send_data(client, value):
+    client.publish(topic=AIO_USER + "/feeds/" + AIO_FEED, msg=str(value))
+```
+Last but not least we need to have a start poin to run this code and that is done throught the main() function, Which connectes to wifi, initiats setup_mqtt and calls both calculate_heart_rate() and send_data().
+```Python=
+def main():
+    connect_wifi()
+    client = setup_mqtt()
+    
+while True:
+        heart_rate = calculate_heart_rate()
+        print("Heart Rate: {:.2f} BPM".format(heart_rate))
+        send_data(client, heart_rate)
+        utime.sleep(10)  # Wait 10 seconds before next measurement
+
+# Run the main function
+main()
+
+```
+Before we move on, to the next part you will have to create an other file in the same folder where you have your main.py. You name the new file mqtt.py (that will be representting the mqtt librari). In that file you will patse the content of you find in this [link](https://github.com/iot-lnu/pico-w/blob/main/network-examples/N2_WiFi_MQTT_Webhook_Adafruit/lib/mqtt.py).
+
+Transmitting the data
+---
+The heart rate data is transmited to Adafruit IO pare 10 seconds. The wireless protocol used to cary out the transmetion is a **wifi** network by using the provided SSID and password
 ###### tags: `Templates` `Documentation`

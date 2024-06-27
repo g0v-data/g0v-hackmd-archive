@@ -34,12 +34,12 @@ https://www.facebook.com/groups/474536628587982
 
 ### 參考案例
 
-#### 巴塞隆納
-
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSJ1EDIzKek2QdNWGR76oeA311ud1oTESIvSGj0-T7xdeuLPXKIgI2LTbemtFws8zYO_Bobdd9Gy2fO/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="470" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 另開簡報
 https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X5cE/edit
+
+#### 巴塞隆納
 
 軸帶 C/ del Consell de Cent
 地圖：https://maps.app.goo.gl/366mXD3HotUejfXS9
@@ -54,12 +54,31 @@ https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X
     - Parc infantil：https://maps.app.goo.gl/X5vCNzCWo821CvtGA
 - 待查找線上地圖地點：https://www.facebook.com/share/9jkpUvRvNzEFkJbn/?mibextid=WC7FNe
 
+#### 維也納
+
+方案
+https://www.energy-innovation-austria.at/article/superblock-2/?lang=en
+
+
+A. Kandlgasse & Schottenfeldgasse
+https://maps.app.goo.gl/WB7xvc7WxhZ5ZSq8A
+B. Suchenwirtpark
+https://maps.app.goo.gl/f6k6Fcmtyu7tbMSx9
+C. Clemens-hofbauer-park
+https://maps.app.goo.gl/YCiXta85CxgF2UqL8
+
+活動
+https://www.linkedin.com/posts/flolo_supergr%C3%A4tzl-activity-6978991837566918656-b4uf/
+
+施工
+https://x.com/infraexplained/status/1805702495810867665
+https://www.facebook.com/immdesignlab.polimi/posts/pfbid0MANDDHrSmx9oPPpQj65tsTbByi6pTGm9RiSLHpQD6a9wEog8NtoW9CjEhTPZhrv9l
+
 #### 西雅圖
 
 汽車不直通
 https://www.facebook.com/share/uM9kYKZd2hh3CkPd/
 https://maps.app.goo.gl/tgspqJiRToreAMX27
-
 
 ### 臺灣情境試作地圖
 
@@ -70,6 +89,18 @@ https://maps.app.goo.gl/tgspqJiRToreAMX27
 2023.11 臺北市大安區大學里交通改善問卷中，有提到「阻隔部分路口，避免車輛直通穿越」這項改善措施
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aa273de9870855c8384ba143e8ae0583.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8b6f54c98ce840e1576753cd92443230.png)
+
+## 工作進度與筆記
+
+2023.11 臺北市、新北市三蘆地區、高雄市高雄火車站地區
+2023.12 臺南市新化區、臺南市後壁區
+- 均質街區漸變
+    - 臺北市、新北市三蘆地區、高雄市高雄火車站地區
+- 小街廓到廣域街廓，很快
+    - 例如臺南市新化區，市鎮地區、廣域街廓
+
+2024.05 針對臺北市捷運中山站至雙連站街區
+- 有實際拍照方案中的待確認建物之停車場出入口位置 https://photos.app.goo.gl/BAumLMXn12wD9qmp9
 
 ## 繪製步驟
 
@@ -105,27 +136,17 @@ https://maps.app.goo.gl/tgspqJiRToreAMX27
     - 建築群落
     - 建築+農地，也可以視為農機具動線延伸的產業腹地
 
-
-#### 工作進度與筆記
-
-2023.11 臺北市、新北市三蘆地區、高雄市高雄火車站地區
-2023.12 臺南市新化區、臺南市後壁區
-- 均質街區漸變
-    - 臺北市、新北市三蘆地區、高雄市高雄火車站地區
-- 小街廓到廣域街廓，很快
-    - 例如臺南市新化區，市鎮地區、廣域街廓
-
-2024.05 針對臺北市捷運中山站至雙連站街區
-- 有實際拍照方案中的待確認建物之停車場出入口位置 https://photos.app.goo.gl/BAumLMXn12wD9qmp9
-
-
 ### 二、跨街廓路徑
 
-跨街廓路徑，通常路線上也是跨越大型道路的紅綠燈位置
+跨街廓路徑
+- 多數也是跨越大型道路的紅綠燈位置
 
 ### 三、街區資訊
 
 - 學校大門位置，師生匯聚動線節點
+    - 學區與通學路徑推測，個案地區
+        - 臺北市的和平東路羅斯福路新生南路所圍塑的街廓，套疊國小與國中學區範圍，推測各門牌前往學校正門的路徑，路線線上地圖如下 https://www.google.com/maps/d/u/0/viewer?mid=1PtrMifUEOzZi1-ShuVktL7jetCPdKeY&ll=25.023495773105875%2C121.5341678&z=15
+        - 臺北市河堤國小學區內的通學路徑探討 https://www.facebook.com/groups/350835641937447/posts/2048163405537987/
 - 公園與公共機構位置
 - 街廓內的停車場出入口
 - 單行道
@@ -292,8 +313,10 @@ Through Traffic 過境車流
 無號誌路口
 - https://www.facebook.com/share/p/Uxv3rD4GaR9cGfpE/?mibextid=WC7FNe
 
+關注人本交通的團體名單
+- https://docs.google.com/spreadsheets/d/1bfB2un9rHoNmiAG88TQagRwbWIcet9SWoOos_W8pJwg/edit
 
-### 名稱發想
+### 名稱發想、文案發想
 
 英文
 - Continuous Pedestrian Pathway
@@ -323,3 +346,10 @@ Through Traffic 過境車流
 - 好街創造學院
 - 好街研造 好街營造
 - 街大歡喜
+
+文案發想
+- 在街區內創造一條連續的行人路徑，且盡可能避免受到車道阻斷，避免車輛直通穿越。
+- 透過調整車輛行駛方向與轉向系統，藉此創造行人連續路徑，減少人車交錯路口數量，也可以用「洄游型行車路線」來描述車輛轉向特點。
+- 🚘 汽車動線從原本的「田」字路網，漸漸調整成到「串」字，讓「串」與「串」之間形成帶狀生活場域 🚶‍♀️🚶‍♂️「串｜串」
+- 徒步經濟學
+- https://www.facebook.com/groups/474536628587982/posts/476476798393965/

@@ -29,6 +29,7 @@ tags: 黃牛, 售票系統, 文化部, 非營利組織
 
 ## 目前資源
 - Web：https://www.chancetix.com/
+- PPT：https://docs.google.com/presentation/d/18wddOPBj_I-S17uo0DpoSuVStynUGLpaSg7ZcmCEZ44/edit?usp=sharing
 - GitHub：目前是設成私人,之後會修改成公開
 - Notion：[ChanceTix - Notion](https://okhand.notion.site/Chance-Tix-76224a4f1d43493bab0809efbf49850e?pvs=4)
 - 聯絡與溝通管道：
