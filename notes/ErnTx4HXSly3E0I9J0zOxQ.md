@@ -374,6 +374,11 @@ Through Traffic 過境車流
 - Crossing 
     - Crossing Intersections Safely
 - Intersection
+- Cherish 
+    - 保護、愛護、珍惜
+    - 維也納的主軸是學校週邊
+- GDP
+    - Good District Path
 
 中文
 - 主軸是形塑出街區內，可以感到安心、放心、人走的路

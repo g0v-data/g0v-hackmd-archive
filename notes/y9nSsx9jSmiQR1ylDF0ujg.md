@@ -25,7 +25,8 @@ tags: 新生流域, GIS
 
 發想筆記
 - 人造物碎屑
-- 菸蒂
+- 鞭炮 https://g0v.hackmd.io/YbqYYu48Sgupjbw4EWAd8Q?view
+- 菸蒂 https://g0v.hackmd.io/7snMaEoZSQqkxOaIYJPpTg
 - 一定尺寸以上的垃圾
 - 汽油
 - 機油

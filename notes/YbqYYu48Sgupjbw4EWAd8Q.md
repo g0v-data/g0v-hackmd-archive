@@ -22,3 +22,5 @@ https://photos.app.goo.gl/AtkNoAMs5e2jGrmt5
 - 污痕灰燼的物質流向：自然水體
     - 污痕灰燼以及街道清洗的污水，會從雨水下水道流入自然水體
 
+其他
+- 用木片相互交叉來組成帶狀 https://www.facebook.com/share/r/wcy1LoSKXvAv5Azz/
