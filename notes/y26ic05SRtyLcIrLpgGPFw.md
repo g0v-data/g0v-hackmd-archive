@@ -138,5 +138,35 @@ For this IoT project the platform used is Adafruit IO. Adafruit IO is cloud-base
 
 Adafruit offers severl options to be notifid. In this project a Webhook is triggerd to send the heart rate when the heart rate exceedes (80 bpm).
 
+The code
+---
+The code used to run this project is writen with micropython. In you project folder you should have a main.py file if don't you can create one yourself. In this file you will first write the code to import the following libberys and components 
+```Python=
+import network
+from mqtt import MQTTClient
+import ubinascii
+import machine
+import micropython 
+import utime
+```
+Then you have to conect to your wifi and Adafruit MQTT server but to be able to do that first we need to create variabls to serv that porpuse 
+```Python=
+# WiFi and Adafruit IO credentials
+wifi_ssid = 'Your wifi name'
+wifi_password = 'you wifi password'
+AIO_SERVER = "io.adafruit.com"
+AIO_PORT = 1883
+AIO_USER = "Your username in Adafruite"
+AIO_KEY = "Aktive key"
+AIO_FEED = "The name of your feed"
+```
+Now we will need to set up our MQTT client to pass the heart rate data to the feed we will create on Adafruit IO. And we will also difne 
+```Python=
+# Function to set up MQTT client
+def setup_mqtt():
+    client = MQTTClient(ubinascii.hexlify(machine.unique_id()), AIO_SERVER, port=AIO_PORT, user=AIO_USER, password=AIO_KEY)
+    client.connect()
+    return client
+```
 
 ###### tags: `Templates` `Documentation`

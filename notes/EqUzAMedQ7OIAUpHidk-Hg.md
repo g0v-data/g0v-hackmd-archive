@@ -130,7 +130,6 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
                 - 國土利用調查似乎並不會把人工溼地調查出來，會標記為「公園綠地廣場」，不過人工溼地對於河川健康度實際會比「公園綠地廣場」來的有正向貢獻
             - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_873f7f9a58b05f0067bc59bf13e65f92.png)
 
-
 水質
 - 政府已有針對河川的汙染等級評定結果資料
 - 集水範圍內：汙染事件、尚未納管汙染源
@@ -207,12 +206,16 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
 河相分群
 - https://photos.app.goo.gl/1CBYrPCswto64VUt8
 
-其他
-- 這裡有河川往外推 30 公尺的圖資結果 https://classicdesign053.carto.com/builder/48e2d385-3328-495e-8bd8-0a352653f523/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B21.839130732143317%2C117.09848793223502%5D%2C%22sw%22%3A%5B25.37188765563586%2C125.21738441661002%5D%2C%22center%22%3A%5B23.617413163623617%2C121.15793617442252%5D%2C%22zoom%22%3A8%7D%7D
 
 水質，透過溪流水利模式，擴大沿線水質推論結果 
 - https://opendata.wra.gov.tw/files/%E7%B8%BD%E7%B5%B1%E7%9B%83%E9%BB%91%E5%AE%A2%E6%9D%BE_%E5%A4%9A%E9%87%87%E6%B0%B4%E6%B7%A80.pdf
 - https://photos.app.goo.gl/MjkFbLt5EKGZSHAW6
+
+其他
+- 這裡有河川往外推 30 公尺的圖資結果 https://classicdesign053.carto.com/builder/48e2d385-3328-495e-8bd8-0a352653f523/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B21.839130732143317%2C117.09848793223502%5D%2C%22sw%22%3A%5B25.37188765563586%2C125.21738441661002%5D%2C%22center%22%3A%5B23.617413163623617%2C121.15793617442252%5D%2C%22zoom%22%3A8%7D%7D
+
+探討：當代地表水文類型：自然河川流域、堤防內的排水分區單元、飲用水與污水的系統、水庫集水區、埤塘系統、臨海魚塭、海岸
+- https://docs.google.com/spreadsheets/d/1jAc2GZfUrHS74IuPGa-2IMnagA-rarJ6Hz775Vf5pjU/edit
 
 ### 地圖工具筆記區
 
