@@ -129,5 +129,12 @@ If you want to bulid this circuit sepratly with out the breadboard you can follw
 4. Connect the copar part of two famle ends to create a female/female wire then tape it. repeate the prosece three time to create three female/female wires. The image below ilustrates how it is done.
 5. Use the wires that you improvised to connect the sensprs pins to the respective pins on the microcontroller. Just like that you will have your prototype working and runnig exaclty in the same way as with the breadboard.
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9dd0437eadaa396af0bf43aba53fda0f.png)
+
+Platform Choice
+---
+
+For this IoT project the platform used is Adafruit IO. Adafruit IO is cloud-based platform that is why you do not need to setup a local server. It simplifys the process of managing the data from IoT devices and has an eyse-to-use and -understand set of features that is  available in the free tier including the interface for visualising data and creatting dashboards and that makes it a great choice for beginers 
+
 
 ###### tags: `Templates` `Documentation`
