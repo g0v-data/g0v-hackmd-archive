@@ -372,18 +372,39 @@ Through Traffic 過境車流
 
 ### 名稱發想、文案發想
 
-英文
+#### 英文
+
+連續行人路徑
 - Continuous Pedestrian Pathway
+
+路口
 - Crossing 
     - Crossing Intersections Safely
 - Intersection
-- Cherish 
+    - 路口
+    - 巴塞隆納的對策也可以理解為針對路口進行調整
+- IT : Intersection Transformation
+
+
+保護、珍惜
+- Cherish : to love, protect, and care for someone or something that is important to you
     - 保護、愛護、珍惜
     - 維也納的主軸是學校週邊
+- Treasure
+
+街區路徑作為城市單元
 - GDP
     - Good District Path
+- CPU
+    - Cherishing Path Unit
+- GPU Graphic Processing Unit
+    - 圖形處理器
+    - Good Path Unit
+    - 每一個街區街廓營造良好的行人系統，各個街區共組成城市與區域整體
+- DPU
+    - District Path Unit 
 
-中文
+#### 中文
 - 主軸是形塑出街區內，可以感到安心、放心、人走的路
 - 人行道 不間斷 連續
 - 拼出一條安心路
@@ -406,7 +427,7 @@ Through Traffic 過境車流
 - 好街研造 好街營造
 - 街大歡喜
 
-文案發想
+#### 文案發想 / 描述方式
 - 在街區內創造一條連續的行人路徑，且盡可能避免受到車道阻斷，避免車輛直通穿越。
 - 透過調整車輛行駛方向與轉向系統，藉此創造行人連續路徑，減少人車交錯路口數量，也可以用「洄游型行車路線」來描述車輛轉向特點。
 - 🚘 汽車動線從原本的「田」字路網，漸漸調整成到「串」字，讓「串」與「串」之間形成帶狀生活場域 🚶‍♀️🚶‍♂️「串｜串」
