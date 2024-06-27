@@ -5,7 +5,7 @@ A key idea in contemporary software development and deployment methods, especial
 Blue-green deployment, which means blue and green, is a concept that maintains two different but similar environments. They have the same hardware, software, and configurations; they differ only in being opposite to each other. The application will be available for use in the blue environment while it will host updates and new features in the green one.
 
 ## Significance
-The primary objective of blue-green deployment is to ensure continuous and smooth delivery of online apps’ bug fixes, functional improvements, and updates. By having two parallel environments – a live production environment (blue) and a staging area for changes (green), developers can modify the latter without interrupting activities on the former. This guarantees almost zero downtime when deploying new releases to users.
+The primary objective of blue-green deployment is to ensure continuous and smooth delivery of online apps’ bug fixes, functional improvements, and updates. By having two parallel environments – a live production environment (blue) and a staging area for changes (green), developers can modify the latter without interrupting activities on the former. This guarantees almost zero [downtime](https://en.wikipedia.org/wiki/Downtime#:~:) when deploying new releases to users.
 
 ## Advantages of Blue-Green Deployment
 Below are the advantages of blue-green deployment:
@@ -52,11 +52,11 @@ Let's consider a social media platform introducing a new messaging feature. With
 ## Use Cases
 Blue-green deployment is normally used in diverse eventualities, which include:
 
-* Web Applications: For rolling out updates, new functions, or worm fixes to internet-primarily based applications without downtime. Examples of internet packages that make use of this deployment method encompass LinkedIn and Github.
+* Web Applications: For rolling out updates, new functions, or worm fixes to internet-primarily based applications without downtime. Examples of internet packages that make use of this deployment method encompass [LinkedIn](https://www.linkedin.com/login) and [Github](https://github.com/).
 
-* E-commerce Platforms:  The blue-green deployment method is used to deploy updates to applications that are cloud-based and limit disruptions all through updates or upkeep. Examples of e-trade platforms that make use of  this deployment approach encompass Amazon and Etsy.
+* E-commerce Platforms:  The blue-green deployment method is used to deploy updates to applications that are cloud-based and limit disruptions all through updates or upkeep. Examples of e-trade platforms that make use of  this deployment approach encompass [Amazon](https://www.amazon.com/) and [Etsy](https://www.etsy.com/).
 
-* SaaS (Software as a Service) Platforms: For deploying updates to cloud-based totally applications at the same time as preserving provider availability for users. Platforms which include SalesForce and Google Workspace utilize this approach.
+* SaaS (Software as a Service) Platforms: For deploying updates to cloud-based totally applications at the same time as preserving provider availability for users. Platforms which include [SalesForce](https://www.salesforce.com/) and [Google Workspace](https://workspace.google.com/) utilize this approach.
 
 ## How does deployment work?
 Blue-green deployment operates on the principle of preserving identical yet separate environments, taking into account seamless updates and minimal downtime for the duration of the deployment technique. Below is a detailed clarification of how blue-green deployment works, in conjunction with examples.
@@ -70,7 +70,7 @@ Source: aws.amazon.com
 We use two deployment models in this method: blue and green. Let’s illustrate this with an example. Assume that version 1 is the current version of the application, while version 1.1 represents the new update. Version 1 is used as the blue environment, while Version 1.1 is the green environment.
 
 ### The Process of Switching Traffic Between Environments
-As seen in the above image, load balancers are used to move users from the blue instance to the green one. Load balancers provide instantaneous switching in contrast to DNS record changes, which may take some time to propagate. The load balancer is used to direct fresh traffic to the green environment by using the same DNS record which will enable smooth user control. In a situation where there are problems with the green instance, this is essential for rapidly rolling users back to version 1 (the blue instance).
+As seen in the above image, load balancers are used to move users from the blue instance to the green one. [Load balancers](https://aws.amazon.com/what-is/load-balancing/#:~:) provide instantaneous switching in contrast to [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) record changes, which may take some time to propagate. The load balancer is used to direct fresh traffic to the green environment by using the same DNS record which will enable smooth user control. In a situation where there are problems with the green instance, this is essential for rapidly rolling users back to version 1 (the blue instance).
 
 ### Deployment and parallel running
 The green environment (version 1.1) runs simultaneously with the older version in production after it's miles judged ready. Traffic is seamlessly diverted from the blue instance to the green instance through the load balancer. As they get admission to the updated version of the carrier or program, the bulk of users won’t even notice the move.
@@ -115,7 +115,7 @@ Blue-green deployment encourages common updates to the software or carrier. This
 At any given time, one environment is energetic (serving manufacturing visitors) whilst the opposite is inactive (ready for updates or rollback). Initially, blue environments are energetic, serving the present-day version of the application to customers. Meanwhile, the green environment stays inactive, making an allowance for updates, trying out, and training for the next launch.
 
 ### Rolling Out Updates
-When a brand new replacement is ready for deployment, it's miles implemented inside the inactive green environment. The green environment undergoes thorough checking out, inclusive of practical trying out, integration checking out, performance testing, and person attractiveness checking out, to ensure the replacement meets excellent standards. Once testing is a hit and the green environment is validated as stable, site visitors are progressively shifted from the blue to the green environment.
+When a brand new replacement is ready for deployment, it's miles implemented inside the inactive green environment. The green environment undergoes thorough checking out, inclusive of practical trying out, integration checking out, performance testing and person attractiveness checking out, to ensure the replacement meets excellent standards. Once testing is a hit and the green environment is validated as stable, site visitors are progressively shifted from the blue to the green environment.
 
 ### Transitioning Traffic
 Traffic redirection is normally controlled through load balancers or routing rules. Initially, a small portion of traffic is routed to the green environment to minimize hazards and permit tracking of performance and user revel. As confidence in the new edition grows, more site visitors are directed to the green environment till it turns into the primary production environment.
@@ -124,7 +124,7 @@ Traffic redirection is normally controlled through load balancers or routing rul
 After site visitors are effectively transitioned to the green environment, it turns into a new energetic environment. Meanwhile, the blue surroundings, which previously served as the active environment, are now inactive. The inactive environment serves as a backup or rollback option in case problems arise with the new edition. The roles of the environments are then swapped, with the inactive turning into energetic and vice versa, equipped for the next replacement cycle.
 
 ### Continuous tracking and improvement
-Throughout the deployment cycle, non-stop monitoring of both environments is important to make sure overall performance, stability, and consumer experience.
+Throughout the deployment cycle, non-stop monitoring of both environments is important to  ensure overall performance, stability, and consumer experience.
 
 Any issues or anomalies detected in either environment are addressed right away to keep the provider excellent. Feedback from customers and stakeholders is accumulated and used to tell future updates and improvements, for that reason perpetuating the cycle of non-stop enhancement.
 
@@ -158,7 +158,7 @@ For example:
 A software-as-a-provider (SaaS) platform updates its consumer interface with the use of blue-green deployment. The new interface is deployed in green surroundings and steadily rolled out to customers. Users seamlessly transition to the brand-new interface without experiencing any downtime or disruptions.
 
 ### Test in Production
-The deployment lets you to check updates or new capabilities in a production-like setting (green) without affecting end users. By doing this, it is ensured that any issues are discovered and stuck earlier than being deployed to the live environment.
+The deployment lets you check updates or new capabilities in a production-like setting (green) without affecting end users. By doing this, it is ensured that any issues are discovered and stuck earlier than being deployed to the live environment.
 
 For instance:
 A social media platform introduces a brand new messaging function the use of blue-green deployment. The feature is examined in green surroundings, allowing the improvement group to become aware of and connect any bugs or usability troubles before making it available to all customers.
@@ -185,13 +185,13 @@ A rapidly growing online marketplace struggles to scale its blue-green deploymen
 Managing databases in a blue-green deployment configuration may be hard and may call for careful making of plans and collaboration, especially whilst improvements entail schema adjustments.
 
 For instance:
-An employer's useful resource-making plans (ERP) system updates its database structure using blue-green deployment. The improvement team should make sure that both environments remain synchronized and that record integrity is maintained for the duration of the replacement.
+An employer's useful resource-making plans [(ERP)](https://en.wikipedia.org/wiki/Enterprise_resource_planning) system updates its database structure using blue-green deployment. The improvement team should make sure that both environments remain synchronized and that record integrity is maintained for the duration of the replacement.
 
 ### Distorted user transactions
 User transactions might be misplaced or halted at some stage in the transfer from the antique to the new surroundings, which could bring about a horrific personal experience.
 
 For instance:
-An online banking application switches from the old environment (blue) to the new environment (green) the usage of blue-green deployment. Some customers may revel in transaction failures or delays for the duration of the transition, requiring them to retry transactions.
+An online banking application switches from the old environment (blue) to the new environment (green) with the usage of blue-green deployment. Some customers may revel in transaction failures or delays for the duration of the transition, requiring them to retry transactions.
 
 ## Conclusion
 Blue-green deployment is a useful approach for coping with improvements and releases in these days’ nerve-racking software program improvement environment, all whilst keeping service availability and lowering interruptions. Organizations can create reliable, powerful, and resilient software program transport approaches by way of tactically applying deployment techniques and punctiliously assessing the benefits and disadvantages.

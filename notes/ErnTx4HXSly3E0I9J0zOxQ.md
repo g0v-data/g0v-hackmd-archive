@@ -72,36 +72,44 @@ https://maps.app.goo.gl/f6k6Fcmtyu7tbMSx9
 Clemens-hofbauer-park
 https://maps.app.goo.gl/YCiXta85CxgF2UqL8
 
+:::info
+維也納第 10 區法沃萊特 (Favoriten)，挑選學校Mittelschule Herzgasse 與 Erlachpark 公園所在的街區
+- 學校四週道路改為無車巷，學校北側過往已設置無車巷
+- 學校四個路口設置汽車轉向
+- 上述四個路口，各自往東往西的前一個路口，設置汽車汽車轉向不得直通
+:::
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6a95e4971905f6b68b0ce592755d17f4.jpeg)
 
-另外一個，有實際施工，位於第 10 區的法沃萊特 (Favoriten)
-- 地點 48.177531216611854, 16.369375369056698 https://maps.app.goo.gl/8uBq44UBFdMbRPxo8
+- 位於第 10 區的法沃萊特 (Favoriten)，地點 48.177531216611854, 16.369375369056698 https://maps.app.goo.gl/8uBq44UBFdMbRPxo8
 - 整體規劃方案：https://original-magazin.at/supergraetzl
 - https://www.wienzufuss.at/news/start-fuer-wiens-erstes-supergraetzl-in-favoriten/
 
 已施工地點
 
-:::info
-Erlachgasse 街道
-- 兩個路口設置汽車不得直通
-- 設置一段無車巷
-:::
-
-
 Erlachpark 公園東南側路口
 - 48.177531216611854, 16.369375369056698 https://maps.app.goo.gl/8uBq44UBFdMbRPxo8
-- 位於第 10 區的法沃萊特 (Favoriten) 
-- 整體規劃方案：https://original-magazin.at/supergraetzl
-- 測試階段照片：https://www.motion-mag.com/exhibit/vienna-the-worlds-most-liveable-city
 - 完工照片：https://www.facebook.com/photo?fbid=1010296247767873&set=pcb.1010296744434490
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f850e7a2f2cd74173d283e72c3ac0b7f.jpeg)
+
 無車巷
-- 位置：https://maps.app.goo.gl/exTdGNsXREHQAHw7A
+- 位置 https://maps.app.goo.gl/exTdGNsXREHQAHw7A
 
 Erlachgasse & Eckertgasse 路口
 - location 
 https://maps.app.goo.gl/vJazJZew6CGvNNie6
 - 完工照片 https://www.facebook.com/photo?fbid=1010296261101205&set=pcb.1010296744434490
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c6a46394da5c050f03da98bf54a467d7.jpeg)
+
+Mittelschule Herzgasse 中學學校西南側路口
+- 地點 https://maps.app.goo.gl/oGtWzMRzjnkhrbf47
+- 測試階段照片：https://www.motion-mag.com/exhibit/vienna-the-worlds-most-liveable-city
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d177094489708b23704c7f60d95eefb7.jpeg)
+
+
 
 ##### 其他待確認
 實體活動策劃待確認地點

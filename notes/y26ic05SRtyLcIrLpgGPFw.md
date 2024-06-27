@@ -245,7 +245,34 @@ To be able to present the data on Adafruit IO you should have an acount there th
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_277f9526c38fd08e24edd7e1d04f0c2f.png)
 
-5. Once done navigate to the feed that you created and 
+5. And lastly the code provided will aoutomtilcly formate an address to your feed based on your username and the feed name, that is why you will not need to copy and paste the MQTT by key and past it to  your code.
+
+Webhook
+---
+In this part you will connect your feed to an action to send webhooks to an discord serveere.
+
+1. First you will start by  reatting a server on discord. In the left pane click on the + sign to create a new server then >> choose Create My Own then >> For me and my friends. Give the server a name of your choice.
+2. click on the setting sign. 
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9e867864a98d4265c5227c83505ed295.png)
+
+3. then chose intigration from the setting list, then create a webhook.
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_febd2efb0b7bf0594a1ecd5e3c21749a.png)
+
+4. copy the URL asocieted with the webhook
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_66532e1fed73dbff059ef9e9c09a27be.png)
+
+Now you need to create an Action and connect the webhook with it. 
+
+1. In Adafruit navigate to Actions the cleck on the New Action button to create an action.
+2.  Then click "No, use the form". In the next window you choose  "Reactive"
+3.  Last but not least you will fill the input filds with the information needed to connect the action with the feed and the webhook as shone bellow. The Webhook URL that you copyed from discord should be pasted in field marked with orange.
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b3688e40172e71a8974f00ce26b584a1.png)
+
+
 
 
 ###### tags: `Templates` `Documentation`
