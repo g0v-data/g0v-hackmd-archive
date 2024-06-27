@@ -228,5 +228,24 @@ The heart rate data is transmited to Adafruit IO pare 10 seconds. The wireless p
 
 Presenting the data
 ---
+To be able to present the data on Adafruit IO you should have an acount there then you can follow the steps provided bellow to create your feed and dashboard. One more important thing that you shouldn't miss is that there are some variables in the code above that should have their values copied from diffrint steps, so be careful not to leave any of the variables empty.
+
+1. Navigate your way to Feeds, then click on "New Feed" button to create a new feed then you can give it a name and a discrioption of your choice. In my case i named my feed Heart Rate
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_145fc984e81d9a433813eeaf0dba57b6.png)
+
+2. Navigate to Dashboards and create a new Dashboard i in the same way as you created the feed i already have one named HR 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0e536878058a3189d31aac5692fdc69a.png)
+
+3. Once you created the dashboard click on it and when it opens it will be empty. click on the setting symbole the on create new block as illustrated bellow and choose the Line charte as a block. Then you check the feed that you want to connect the block too, which is the feed you created in the privuse step. 
+
+4. Then click the key icon on top right to copy your username and the Active Key and paste in your code in the varaibales for username and the Active Key
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2e77964636051e5bb9c8fc3799a417ba.png)
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_277f9526c38fd08e24edd7e1d04f0c2f.png)
+
+5. Once done navigate to the feed that you created and 
+
 
 ###### tags: `Templates` `Documentation`

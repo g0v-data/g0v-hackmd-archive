@@ -41,7 +41,7 @@ https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X
 
 #### 巴塞隆納
 
-軸帶 C/ del Consell de Cent
+##### 軸帶 C/ del Consell de Cent
 地圖：https://maps.app.goo.gl/366mXD3HotUejfXS9
 串聯：
 - Biblioteca Joan Miró / Parc Joan Miró
@@ -49,49 +49,72 @@ https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X
 - 巴塞隆納大學 Universitat de Barcelona
 - Sofia Barat Public Library
 
-個別街廓
+##### 個別街廓
 - C/ de Sancho de Ávila
     - Parc infantil：https://maps.app.goo.gl/X5vCNzCWo821CvtGA
 - 待查找線上地圖地點：https://www.facebook.com/share/9jkpUvRvNzEFkJbn/?mibextid=WC7FNe
 
 #### 維也納
 
-探討地區
+##### 探討地區
 https://www.energy-innovation-austria.at/article/superblock-2/?lang=en
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_749f063dfb5ef14297cb4644d024b765.jpg)
 
-地區位置
+上圖三個地區的位置
+
 Kandlgasse & Schottenfeldgasse
 https://maps.app.goo.gl/WB7xvc7WxhZ5ZSq8A
+
 Suchenwirtpark
 https://maps.app.goo.gl/f6k6Fcmtyu7tbMSx9
+
 Clemens-hofbauer-park
 https://maps.app.goo.gl/YCiXta85CxgF2UqL8
-位於第 10 區的法沃萊特 (Favoriten)
-地點 48.177531216611854, 16.369375369056698 https://maps.app.goo.gl/8uBq44UBFdMbRPxo8
-整體規劃方案：https://original-magazin.at/supergraetzl
 
 
-實體活動策劃
-https://www.linkedin.com/posts/flolo_supergr%C3%A4tzl-activity-6978991837566918656-b4uf/
-https://www.linkedin.com/feed/update/urn:li:activity:6943166207898374144/
 
-施工地點
-地點 A：48.177531216611854, 16.369375369056698 https://maps.app.goo.gl/8uBq44UBFdMbRPxo8
-位於第 10 區的法沃萊特 (Favoriten) 
+另外一個，有實際施工，位於第 10 區的法沃萊特 (Favoriten)
+- 地點 48.177531216611854, 16.369375369056698 https://maps.app.goo.gl/8uBq44UBFdMbRPxo8
+- 整體規劃方案：https://original-magazin.at/supergraetzl
+- https://www.wienzufuss.at/news/start-fuer-wiens-erstes-supergraetzl-in-favoriten/
+
+已施工地點
+
+:::info
+Erlachgasse 街道
+- 兩個路口設置汽車不得直通
+- 設置一段無車巷
+:::
+
+
+Erlachpark 公園東南側路口
+- 48.177531216611854, 16.369375369056698 https://maps.app.goo.gl/8uBq44UBFdMbRPxo8
+- 位於第 10 區的法沃萊特 (Favoriten) 
 - 整體規劃方案：https://original-magazin.at/supergraetzl
 - 測試階段照片：https://www.motion-mag.com/exhibit/vienna-the-worlds-most-liveable-city
-- 照片：https://www.facebook.com/photo?fbid=1010296247767873&set=pcb.1010296744434490
-- https://www.instagram.com/supergraetzl.lichtental/
+- 完工照片：https://www.facebook.com/photo?fbid=1010296247767873&set=pcb.1010296744434490
 
-地點 B：？
-https://www.facebook.com/photo?fbid=1010296261101205&set=pcb.1010296744434490
+無車巷
+- 位置：https://maps.app.goo.gl/exTdGNsXREHQAHw7A
 
-其他待確認
+Erlachgasse & Eckertgasse 路口
+- location 
+https://maps.app.goo.gl/vJazJZew6CGvNNie6
+- 完工照片 https://www.facebook.com/photo?fbid=1010296261101205&set=pcb.1010296744434490
+
+##### 其他待確認
+實體活動策劃待確認地點
+https://www.linkedin.com/posts/flolo_supergrätzl-activity-6978991837566918656-b4uf/
+活動，待確認地點
+https://www.linkedin.com/feed/update/urn:li:activity:6943166207898374144/
+https://www.instagram.com/supergraetzl.lichtental/
+
 https://original-magazin.at/supergraetzl
 https://wien.orf.at/stories/3216126/
+
 https://x.com/infraexplained/status/1805702495810867665
+
 https://www.facebook.com/immdesignlab.polimi/posts/pfbid0MANDDHrSmx9oPPpQj65tsTbByi6pTGm9RiSLHpQD6a9wEog8NtoW9CjEhTPZhrv9l
 
 #### 西雅圖
