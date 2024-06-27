@@ -134,7 +134,9 @@ If you want to bulid this circuit sepratly with out the breadboard you can follw
 Platform Choice
 ---
 
-For this IoT project the platform used is Adafruit IO. Adafruit IO is cloud-based platform that is why you do not need to setup a local server. It simplifys the process of managing the data from IoT devices and has an eyse-to-use and -understand set of features that is  available in the free tier including the interface for visualising data and creatting dashboards and that makes it a great choice for beginers 
+For this IoT project the platform used is Adafruit IO. Adafruit IO is cloud-based platform that is why you do not need to setup a local server. It simplifys the process of managing the data from IoT devices and has an eyse-to-use and -understand set of features that is  available in the free tier including the interface for visualising data and creatting dashboards and that makes it a great choice for beginers. 
+
+Adafruit offers severl options to be notifid. In this project a Webhook is triggerd to send the heart rate when the heart rate exceedes (80 bpm).
 
 
 ###### tags: `Templates` `Documentation`

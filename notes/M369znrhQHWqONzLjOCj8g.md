@@ -383,6 +383,10 @@ https://www.facebook.com/DENDoENergy/posts/pfbid0rWH78Z8uPHkedWdSBMTEMewCyiVXw8X
 (二)本都市設計準則中列明為「原則」之部分，如申請案因基地條件限制，經臺北市都市設計及土地使用開發許可審議委員會審議通過，得不受此「原則」性規定之限制。
 :::
 
+
+參考案例
+- 桃園市中路站 https://www.facebook.com/urbanplat/posts/pfbid0AEcvoD8HSmSxQmXVYhbmmzT2zKXr5NPztjnXpDYbFRGnEJa3f1gJ8Pc4mHZgAgRkl
+
 ## 綠運具
 
 空污、道路噪音，健康衝擊
