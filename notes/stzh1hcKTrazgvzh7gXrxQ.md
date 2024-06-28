@@ -1,6 +1,5 @@
 ---
-title: "《Tokyo River Story》筆記"
-tags: hackpad
+tags: river
 ---
 
 # 《Tokyo River Story》筆記
