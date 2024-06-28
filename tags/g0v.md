@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [與 g0v 社群參與者相關的影片、紀錄片拍攝](../notes/oImzjz2XTciqP3lnbwkgKw.md) | 2024-06-22T19:25:00+08:00 | 2019-12-07T02:56:51+08:00 |
-| 2 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-06-09T14:59:47+08:00 | 2018-08-30T15:19:57+08:00 |
+| 1 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-06-28T09:16:32+08:00 | 2018-08-30T15:19:57+08:00 |
+| 2 | [與 g0v 社群參與者相關的影片、紀錄片拍攝](../notes/oImzjz2XTciqP3lnbwkgKw.md) | 2024-06-22T19:25:00+08:00 | 2019-12-07T02:56:51+08:00 |
 | 3 | [聊天頻道：Slack](../notes/PwJcrD23SBag6sg15epZMA.md) | 2024-05-02T09:57:14+08:00 | 2019-09-30T21:19:30+08:00 |
 | 4 | [以 g0v 為主題的學術研究Academic research on g0v](../notes/tpWNQTFvSOS_ZrSt2MiPWg.md) | 2024-04-27T13:42:46+08:00 | 2016-01-09T02:45:16+08:00 |
 | 5 | [什麼是共筆？如何共筆？](../notes/VH876EtGQhWW8ivUGp0IPA.md) | 2024-04-20T16:17:30+08:00 | 2019-09-30T21:19:34+08:00 |

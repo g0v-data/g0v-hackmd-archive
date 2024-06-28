@@ -647,6 +647,12 @@ https://docs.google.com/spreadsheets/d/1C9-g1pvkfqBJbfkjPB0gvfBbBxVlWYJj6tTVwaI5
 - 可洽 揪松團
 - 目前也在想有什麼適合的共筆權限設定方案，可以讓社群共筆，且能避免誤刪
 
+## 設計素材
+
+依照創作者所訂定的授權，以及自行認定是否提供可編輯檔案
+
+先開一個蒐集頁面
+https://g0v.hackmd.io/sO4KSRYiRzmqZwBiSw3NLg
 
 ## OCF 國際交流專案
 
