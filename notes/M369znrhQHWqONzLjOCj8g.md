@@ -410,6 +410,9 @@ https://www.facebook.com/share/p/KrHqjhZh1bF2mtM1/
 
 大台北公車路線
 https://www.facebook.com/share/p/ERatswAqs7XNpfJE/
+20240701 開始推動 南環幹線、東環幹線，培養搭乘習慣
+https://www.facebook.com/tpedot/posts/pfbid02zBYcVxSKrj1H1MqJVpyd2XSBZUocnfgwm4QbJiQa9TDpzbDu94AGQTzGdQNyW9jbl
+
 
 行政院「行人交通安全設施條例」草案，說明簡報，以景興路興隆路一帶作為示範說明地區
 https://www.ey.gov.tw/Page/9277F759E41CCD91/da325d4d-bafa-40fb-8e9e-eb00c8ff268d

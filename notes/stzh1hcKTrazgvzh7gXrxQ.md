@@ -1,5 +1,5 @@
 ---
-tags: river
+tags: GIS, river,
 ---
 
 # 《Tokyo River Story》筆記
