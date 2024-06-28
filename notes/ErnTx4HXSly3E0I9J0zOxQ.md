@@ -283,6 +283,10 @@ https://g0v.hackmd.io/X8mWlCWIRkOfCIhTjp1oLA?view
 - 針對古風里，創造連續行人路徑，將社區公共空間串聯，包含芒果香草園、龍泉市場、古風小白屋、雲泰小雅綠地
 - 針對泰順公園周邊，公園與泰順街36號之間道路改為不得汽車穿越，減少汽車過境車流
 
+### 臺北市臺北城範圍
+
+https://www.facebook.com/share/p/NeQvryiM3v9u7EUG/
+
 ### 臺中市大甲區華龍國小與週邊社區
 - 通學路徑
 
