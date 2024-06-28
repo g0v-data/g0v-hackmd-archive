@@ -1,7 +1,8 @@
 OK9.fund là một trang web thể thao trực tuyến hàng đầu, cung cấp dịch vụ đặt cược và thông tin chi tiết về các sự kiện thể thao trên toàn thế giới. Với giao diện thân thiện và dễ sử dụng, OK9.fund thu hút một lượng lớn người chơi đam mê thể thao, từ các môn bóng đá, bóng rổ, quần vợt, đến các môn thể thao điện tử và nhiều loại hình thể thao khác.
 Website: https://ok9.fund
 Phone: 0979358485
-Email: MatKhaumanh@5454
+Email: okfund9@gmail.com
+
 Hashtag: #ok9#ok9.fund#nhacaiok9#linkok9
 
 
