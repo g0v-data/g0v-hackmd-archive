@@ -57,47 +57,46 @@ Other materials that can be found in any household (note: if you have three fema
 Software
 ---
 
-The followoing section mentions the software that you will need and what they are used for and their respektive links to download them for free.
+The following section mentions the software that you will need, what they are used for, and their respective links to download them for free.
 
 * [Visual Studio code](https://code.visualstudio.com/)
 
-First of all you need to have an idetor to write your code. In this totoriel we will use Visual Studio code (VSCode), you can use any editor of choice as long as it has the plugin we will use.
+First of all, you need to have an editor to write your code. In this tutorial, we will use Visual Studio Code (VSCode). You can use any editor of your choice as long as it supports the plugin we will use.
 
 * [PyMakr](https://hackmd.io/@lnu-iot/rkiTJj8O9#Windows-OS)
 
-The PayMakr plugin you can install it as an extention on VSCode, it is used to develop using MicroPython (Which is a virsion of python deticated for programming microcontroller). 
+The PyMakr plugin can be installed as an extension in VSCode. It is used to develop using MicroPython (which is a version of Python dedicated to programming microcontrollers).
 
 * [Node.js ](https://nodejs.org/en)
 
-Node.js is a framwork that you can use to run JavaScript on your machine envirunment. But we are not goin to use it for that perpose, we only need it so that the PayMakr will work.
+Node.js is a framework that allows you to run JavaScript in your machine environment. However, we are not going to use it for that purpose; we only need it so that PyMakr will work.
 
-Before we move to the naxt section you will need to update the MicroPython firmware by following the steps below.
+Before we move to the next section, you will need to update the MicroPython firmware by following the steps below:
 
-1. Download the latest MicroPython firmware [here](https://micropython.org/download/rp2-pico-w/) version.
-2. Use the smaller end of the USB cable to plug it in the microcontroller (Raspberry Pi Pico W).
-3. Hold the BOOTSEL botton (a small white button) on the microcontroller and connect the other end of the USB cable with your computer while holdin the button, the you can realse the button.
-4. Now if you open your file system ther should be a spesific storage called RPI-RP2 which is meant to be for the Raspberry Pi Pico W. You will move the uf2 file to that storage.
-5. Your board will automaticly disconnect and reconnect. If it does that then you are good to move to the next section.
+1. Download the latest MicroPython firmware version [here](https://micropython.org/download/rp2-pico-w/) version.
+2. Use the smaller end of the USB cable to plug it into the microcontroller (Raspberry Pi Pico W).
+3. Hold the BOOTSEL button (a small white button) on the microcontroller and connect the other end of the USB cable to your computer while holding the button. Then you can release the button.
+4. Now, if you open your file system, there should be a specific storage called RPI-RP2, which is meant for the Raspberry Pi Pico W. Move the UF2 file to that storage.
+5. Your board will automatically disconnect and reconnect. If it does that, then you are ready to move to the next section.
 
 
 
 Uploading code
 ---
 
-Start with opening VSCode and installing PyMakr from the extentions
-by following the stepes illustreted bellow
+SStart by opening VSCode and installing PyMakr from the extensions by following the steps illustrated below.
 
 ![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_f0d7af46a0d30fcd84ad5de3d8eab997.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1719425011&Signature=eXqqCya3R2rCU2LUaISjx9ZItJs%3D)
 > Credits: Applied IOT LNU
 > 
 
-Then you can connect your microcontroller via the PyMakr. Click the PyMakr icone, your microcontroller should be viwed in the DEVICES section you can click the electricity symbol asocited with you microcontroller then you device will strat. Then you can click the terminal symple to open a new terminal, that terminal also is asocieted with your microcontroller and will previde you some information about the Raspberry Pi Pico W such as the virsion you can also print a string as illustrated in the picture bellow.
+Then, you can connect your microcontroller via PyMakr. Click the PyMakr icon; your microcontroller should be viewed in the DEVICES section. Click the electricity symbol associated with your microcontroller to start the device. Then, click the terminal symbol to open a new terminal. This terminal is associated with your microcontroller and will provide you with some information about the Raspberry Pi Pico W, such as the version. You can also print a string, as illustrated in the picture below.
 
 ![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_5cd6f572d0e701bec989086bcd08decc.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1719426383&Signature=Zf2hgGch%2F%2FC69geIp7etWvnS0xU%3D)
 > Credits: Applied IOT LNU
 > 
 
-Now you should be able to create your first project 
+Now you should be able to create your first project.
 
 ![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_2ddf837a072e008be3c17010c7b3dae0.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1719426383&Signature=XmX2RRnb6k9VuPBO6SarmeNk0N4%3D)
 
@@ -112,31 +111,31 @@ Now you should be able to create your first project
 
 Putting everything together
 ---
-Now we need to have our environment running and in order to do that we need to build an   electronic circuit. To build that we will use the matirials in the material list, mainly the raspbery pi pico, the ky-039 sensor, two male/male jumpers, three female/male jummpers and the breadbord. It worth noting that the illustration below only shows how to connect the electronic compnents to the breadboard without connecting the microcontrollers body to the bredboard and that is because we are going to use the microcontroller and the sensor on their on later. 
+Now we need to have our environment running, and in order to do that, we need to build an electronic circuit. To build that, we will use the materials in the materials list: mainly the Raspberry Pi Pico, the KY-039 sensor, two male/male jumpers, three female/male jumpers, and the breadboard. It is worth noting that the illustration below only shows how to connect the electronic components to the breadboard without connecting the microcontroller's body to the breadboard because we will use the microcontroller and the sensor on their own later. 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_172189784e7e6bdd8b0f62352481a7bc.png)
 
-1. As illustrated in the image above you will connect the sensor to the breadboard by placing its three pins in the breadbord between the points 42-44.
-2. Once done you will use a female/male jummper to connect the pin noted with S to the pin number 32 on you microcontroller, which an ADC pin that stands for analoge to digital conversion. Because our sensor registers analog signals we need to convert these signals to digital signals so that the computer can understand it and make use of it, and thats posible thanks to the ADC pins on the microcontriller.
-3. Use one male/male jumper to connect the the midel pin (the VCC pin of the sensor) to the positve row on the breadbord. Use a female/male jumper, of the same color if available, to connect that point on the positve row to the pin number 36 (3V3 OUT) on the microcontroller, this pin is responsiple for supplling the conectted componenets with 3.3V output power, which will provide your sensor with the amount of power it needs to work. 
-4. Repete the same prosece for the pin noted with - (GND) on the sensor to connect it to the negative row on the breadboard then connect it to the pin nummber 38(Ground) on the microcontroller, this is nessery to complete our electrical circuit.
+1. As illustrated in the image above, connect the sensor to the breadboard by placing its three pins in the breadboard between points 42-44.
+2. Use a female/male jumper to connect the pin labeled "S" on the sensor to pin number 32 on your microcontroller, which is an ADC pin (Analog to Digital Conversion). Our sensor registers analog signals, so we need to convert these signals to digital signals for the computer to understand and use. This is made possible by the ADC pins on the microcontroller.
+3. Use one male/male jumper to connect the middle pin (the VCC pin of the sensor) to the positive row on the breadboard. Then, use a female/male jumper (of the same color if available) to connect that point on the positive row to pin number 36 (3V3 OUT) on the microcontroller. This pin supplies the connected components with a 3.3V output power, providing the sensor with the power it needs to function. 
+4. Repeat the same process for the pin labeled "-" (GND) on the sensor to connect it to the negative row on the breadboard, and then connect it to pin number 38 (Ground) on the microcontroller. This is necessary to complete our electrical circuit.
 
 
-If you want to bulid this circuit sepratly with out the breadboard you can follwo the step bellow.
+If you want to build this circuit separately without the breadboard, you can follow the steps below:
 
-1. You will have to have three female/female wires. If you don't have the we can improvise and make our own. For that you need six famle/male wires.
-2. Use a pair of sisors to cut the wires in the midle so that the ends are equaly long, we will only need the female ends.
-3. Try to carefully remove the plastic part of the ends to reveal the copar part.
-4. Connect the copar part of two famle ends to create a female/female wire then tape it. repeate the prosece three time to create three female/female wires. The image below ilustrates how it is done.
-5. Use the wires that you improvised to connect the sensprs pins to the respective pins on the microcontroller. Just like that you will have your prototype working and runnig exaclty in the same way as with the breadboard.
+1. You will need three female/female wires. If you don’t have them, we can improvise and make our own. For that, you need six female/male wires.
+2. Use a pair of scissors to cut the wires in the middle so that the ends are equally long; we will only need the female ends.
+3. Carefully remove the plastic part of the ends to reveal the copper part.
+4. Connect the copper parts of two female ends to create a female/female wire, then tape it. Repeat this process three times to create three female/female wires. The image below illustrates how it is done.
+5. Use the wires you improvised to connect the sensor's pins to the respective pins on the microcontroller. This way, you will have your prototype working and running exactly the same way as with the breadboard.
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9dd0437eadaa396af0bf43aba53fda0f.png)
 
 Platform Choice
 ---
 
-For this IoT project the platform used is Adafruit IO. Adafruit IO is cloud-based platform that is why you do not need to setup a local server. It simplifys the process of managing the data from IoT devices and has an eyse-to-use and -understand set of features that is  available in the free tier including the interface for visualising data and creatting dashboards and that makes it a great choice for beginers. 
+For this IoT project, the platform used is Adafruit IO. Adafruit IO is a cloud-based platform, so you do not need to set up a local server. It simplifies the process of managing data from IoT devices and has an easy-to-use interface for visualizing data and creating dashboards, which makes it a great choice for beginners. These features are available in the free tier.
 
-Adafruit offers severl options to be notifid. In this project a Webhook is triggerd to send the heart rate when the heart rate exceedes (80 bpm).
+Adafruit offers several options for notifications. In this project, a webhook is triggered to send the heart rate when it exceeds 30BPM(that is quite low you can cange ).
 
 The code
 ---
@@ -272,7 +271,20 @@ Now you need to create an Action and connect the webhook with it.
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b3688e40172e71a8974f00ce26b584a1.png)
 
+Finalizing the design
+---
+
+The final hardware design should look something like the last two peactures bellow and the dashboard block should look the first picture, you may wonder why is the heart rate ilustrated in above 190BPM, that is because i modified the code at the begening to calulate the heart rate higher than what it actually is. But that was just an expremental thing which means you wouldn't have to di that. 
+
+As mentioned ealier you can build this project in tow ways the first way will give results simular to the second picture and the second way will give you resukte simular to the thierd pictur. In the both aproches make sure that the correct sid of the sensor is in contact with you skin(the side that has a small dot).
+
+I could say I like how the over all result turned out. On the other side something i could have done better was probebly having female/female wires to skip making them myself and spend that time on improving something else in the project, but at the begning I didn't expect that i will be needing them so i didn't order any with the starter kit.
 
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d32b25253a4b4bc4012c574cf897848a.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_27f556e2774b3a8019060ce35f2ed2a5.jpg)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ed47af2627e9564dcff4e1270308f2f9.jpg)
 
 ###### tags: `Templates` `Documentation`

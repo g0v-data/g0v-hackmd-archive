@@ -55,6 +55,7 @@ tags: vtaiwan
 - 豆腐的設計小學校？[name=tofus]
 
 ## 7月
+- Learning from Decidim and Consul
 - 瑞士參與式預算Kultur Komittee Winterthur Citizen Assembly [name=josh]
 - 德國的vTaiwan: Forum Gegen Fakes [name=Stafan Roch]
 
