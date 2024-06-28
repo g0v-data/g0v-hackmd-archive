@@ -30,7 +30,7 @@
 - 對於現代項目，可能過於臃腫。
 
     ###### 範例
-    ```
+    ```javascript
     $('#prepare-submit').on('click', function() {
         // 如果表單驗證通過，進行進一步處理
         if ($('#payamtForm').valid()) {
@@ -164,12 +164,13 @@
 
 ##### 範例
 ###### 基礎表單驗證寫法
-    ```
+```html
     // 預設的表單驗證html
     <label for="validationMCOwner">會員卡持有人</label>
     <input type="text" class="form-control" name="validationMCOwner" id="validationMCOwner" placeholder="姓名" required value="">
     <div class="invalid-feedback">請輸入會員卡持有人</div>
-
+  ```
+  ```javascript
     //jacascript
     <script type="text/javascript">
         // 表單驗證初始化，Example starter JavaScript for disabling form submissions if there are invalid fields
@@ -199,16 +200,18 @@
             })
         })()
     </script>
-    ```
+```
+    
 
 ###### 客製化表單驗證寫法，除了為輸入之外，增加input資料格式的判斷
 
-    ```
+```html
     // 經過客製化的表單驗證html
     <label for="validationToken">Token ID</label>
     <input type="text" class="form-control" name="validationToken" id="validationToken" placeholder="123" required  pattern="^[0-9]*$" value="">
     <div class="invalid-feedback" data-required="請輸入Token ID" data-pattern="僅可輸入數字">請輸入Token ID</div>
-
+```
+```javascript=
     <script>
     // 表單驗證初始化，Example starter JavaScript for disabling form submissions if there are invalid fields
     // 這邊訊息客製化，抓取 element 的 data getAttribute
@@ -270,7 +273,7 @@
                 })
             })()
     </sript>
-    ```
+  ```
 
 
 

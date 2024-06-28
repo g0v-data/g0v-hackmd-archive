@@ -16,7 +16,12 @@ graph TD;
    A[početak]===G{uvjet 1}
    G-->Da-B[korak1]
    G-->Ne-C[korak2]
-   B[korak1]-->
+   B[korak1]---F{uvjet2}
+   C[korak2]---H{uvjet3}
+   F{uvjet2}---I[korak3]
+   F{uvjet2}---W[korak5]
+   H{uvjet3}---U[korak4]
+   H{uvjet3}---Z[korak6]
 ```
 
 
