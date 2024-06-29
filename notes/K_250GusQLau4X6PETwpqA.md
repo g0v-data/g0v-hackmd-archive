@@ -115,4 +115,8 @@ tags: 吉祥物
     - https://hackmd.io/@osm-tw/ry8YKx9sd?print-pdf#/
 - "大河小溪齊督工"專案，針對河川公共工程資料進行彙整，比較簡易方式勾勒出流域財務、經費面向的概況，有盡量將每個案件登載到地圖上 https://river-watcher.bambooculture.tw/map?limit=3000
 
+## 智能化 / AI 
+
+找案例
+
 

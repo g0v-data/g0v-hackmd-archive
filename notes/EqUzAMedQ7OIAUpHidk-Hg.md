@@ -22,7 +22,7 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQb5HZoAw4YzmDuBgHzfsb53sfW16C2-c2aKqPUy_C8dce5e_BfbjeDXbDYMDjzFIk51mqQzbktENO/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-### 首先：河川歸戶
+### 一、首先：河川歸戶
 
 :::warning
 討論
@@ -83,7 +83,7 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
 - 河川名稱唯一值
     - https://docs.google.com/spreadsheets/d/1iFUluCGQQtGc_oYRj7r_X4RkJ-BpVV1OKWyLiNWKqDE/edit
 
-### 用鄰近程度，作為篩選依據
+### 二、用鄰近程度，作為篩選依據
 
 橫向
 - 有堤防資料的河段：
@@ -156,7 +156,12 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
         - 來源是這個資料庫 Government Procurement 政府採購案件 https://openfunltd.github.io/pcc-viewer/
 
 
-### 其他相關研究與探討
+### 三、其他相關研究與探討
+
+:::info
+將研究方式轉化成資料普查推論方法
+:::
+
 
 下游主河道天然河岸長度
 - 分析說明網頁 https://taibon.tw/zh-hant/indicator/aizhi/148
@@ -181,7 +186,7 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
     - https://g0v.hackmd.io/LVHnV9ZkQL6WcCkPpbMcmw
 
 針對拆壩的個案河川，如何呈現「變健康了」
-- 生態調查資料 ?
+- 前後的生態調查資料 ?
 
 濱水區植生
 - 濱水區植生演替與沖積河床演變之動態交互地貌調整機制：本研究以Google衛星影像與Google街景的資料，找出濱水區植生完整覆蓋且長期存在、不易被洪水移除的河段，並分析其溪流功率特性，研究結果發現，透過總溪流功率、單位溪流功率兩項因子的大小與其變化，可清楚的描述河川上游到下游的水流沖刷力特性，進而區分河川型態、描述河川型態因子的變化趨勢。 
@@ -192,6 +197,7 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
     - https://researchoutput.ncku.edu.tw/zh/projects/%E5%A4%9A%E5%8A%9F%E8%83%BD%E6%B2%B3%E5%B7%9D%E7%94%9F%E6%85%8B%E7%92%B0%E5%A2%83%E6%B5%81%E9%87%8F%E4%B9%8B%E5%8D%80%E5%9F%9F%E6%80%A7%E6%A8%99%E6%BA%96%E5%BB%BA%E7%AB%8B-%E5%AD%90%E8%A8%88%E7%95%AB%E5%9B%9B%E5%8D%80%E5%9F%9F%E6%80%A7%E6%B2%B3%E5%B7%9D%E6%A3%B2%E5%9C%B0%E8%88%87%E5%9C%B0%E8%A1%A8%E8%AE%8A%E5%8C%96%E5%81%B5%E6%B8%AC%E6%8A%80%E8%A1%93%E7%A0%94%E7%99%BC13-3
 
 歷史圖資
+- 從歷史圖資來描繪人工化程度與區位區段
 - 臺灣近百年來主要河流的地形變遷與其減災意涵：一個「人為地形學」的嘗試 
     - https://www.grb.gov.tw/search/planDetail?id=12287108
     - 臺灣氾濫平原地形變遷資料庫之建置，已完成臺灣堡圖、臺灣地形圖（東部陸測部地形圖、高屏昭和修測版臺灣地形圖）與政府公開資料之水利署河道圖層、內政部地政司公開LiDAR DEM 進行整合。歷史圖資數化成果包括主要流路（面符號）、次要流路（面符號）、地形崖（線符號）與堤防（線符號）。已建置完成的河流包括全數26 條中央管河川之主、支流；91 條縣市管河川中北部、西部之25 條；以及歷史圖資上西南海岸之水體（如魚塭）範圍。
@@ -217,7 +223,9 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
 探討：當代地表水文類型：自然河川流域、堤防內的排水分區單元、飲用水與污水的系統、水庫集水區、埤塘系統、臨海魚塭、海岸
 - https://docs.google.com/spreadsheets/d/1jAc2GZfUrHS74IuPGa-2IMnagA-rarJ6Hz775Vf5pjU/edit
 
-### 地圖工具筆記區
+---
+
+## 地圖工具筆記區
 
 QGIS 
 - QGIS 線上地圖方式 https://airtable.com/appa7UHcRt9eju3hn/shr10se71AsXb7jnK/tblnNHAWlj13RusOc/viwOp1n0BA1BrTjbu/recyAUAjNacPBzUhP?blocks=hide
@@ -227,6 +235,8 @@ Googlemymap
 - 方便編修個別資料
 
 umap
+- 可放的資料量比 Googlemymap 多
+- 但底圖沒有衛星圖
 
 carto 
 - 可放入，但免費使用期 14 天過後是否就不能顯示？(或是不能編輯？
@@ -241,24 +251,31 @@ tableau
 - https://sourcingwater.lass-net.org/
 
 公眾協力
-- 群眾標註 https://commutag.agawork.tw/
+- 拍照上傳的群眾標註工具 https://commutag.agawork.tw/
 - 資料寄存所 https://data.depositar.io/about
 - Line 官方帳號，提供互動
-- 河流資料標註活動　Flowing Together Mapathon https://www.facebook.com/share/p/ggMRNhHj177TmvF4/
+- 河流資料標註活動　Flowing Together Mapathon 針對 Sherni River Basin in India https://www.facebook.com/share/p/ggMRNhHj177TmvF4/
 
-
-## 其他
+### 其他參考
 
 美國壩體用途地圖
-https://www.facebook.com/share/p/n17HUvy7tbHSAKrh/
+- Where the Water Flows - A multivariate map showing the flow direction and annual mean streamflow rate for all major rivers in the contiguous United States during 2022, overlaid with all federally regulated dams that hold an average water volume over 1,000,000 acre feet. 
+    - http://esri.social/j85r50QGuSG
+    - https://www.facebook.com/share/p/n17HUvy7tbHSAKrh/
+
 
 此方法可以用於海岸，以下有海岸法陸域範圍線上地圖
-https://classicdesign053.carto.com/builder/48e2d385-3328-495e-8bd8-0a352653f523/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B21.839130732143317%2C117.09848793223502%5D%2C%22sw%22%3A%5B25.37188765563586%2C125.21738441661002%5D%2C%22center%22%3A%5B23.617413163623617%2C121.15793617442252%5D%2C%22zoom%22%3A8%7D%7D
+- https://classicdesign053.carto.com/builder/48e2d385-3328-495e-8bd8-0a352653f523/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B21.839130732143317%2C117.09848793223502%5D%2C%22sw%22%3A%5B25.37188765563586%2C125.21738441661002%5D%2C%22center%22%3A%5B23.617413163623617%2C121.15793617442252%5D%2C%22zoom%22%3A8%7D%7D
 
 參考
 - 英國泰晤士河流域洪水管理之案例 (Natural Flood Management)，其以透過性阻水壩 (Leaky Dam)、滯洪池 (Retention Ponds)、農業再生 (Regenerative Agriculture)等三方法來說明NFM措施之改善與效益評估
     - https://tech.ardswc.gov.tw/EPaper/Home/EPaper?PaperID=99903052-8706-4529-86ba-86b23b2434e0
 - https://www.melbournewater.com.au/services/projects/reimagining-your-creek-project
+
+## 公眾企劃
+
+- [環境擬人化法制案例 / AI 🌄](https://g0v.hackmd.io/@chewei/H1UTdIOZc)
+
 
 ---
 

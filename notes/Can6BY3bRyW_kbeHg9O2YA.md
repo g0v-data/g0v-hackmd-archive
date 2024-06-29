@@ -28,7 +28,7 @@ tags: 吉祥物
 
 ## 探討 Discuss
 - [角色創建方法與應用 📐](https://g0v.hackmd.io/@chewei/rkhkXJFzY)
-- [環境擬人化法制案例 🌄](https://g0v.hackmd.io/@chewei/H1UTdIOZc)
+- [環境擬人化法制案例 / AI 🌄](https://g0v.hackmd.io/@chewei/H1UTdIOZc)
 - [聲量分析 + 吉祥物角色 📈](https://g0v.hackmd.io/@chewei/S1y0DnVgq)
 - [公共政策評估 📝](https://g0v.hackmd.io/@chewei/By-lE1FzK)
 - [立法院「吉祥物」發言紀錄 💬](https://g0v.github.io/lysayit/search.html?q=%22%E5%90%89%E7%A5%A5%E7%89%A9%22)
