@@ -200,29 +200,39 @@ https://maps.app.goo.gl/tgspqJiRToreAMX27
 
 ### 三、街區資訊
 
+#### 生活節點
+
 - 學校大門位置，師生匯聚動線節點
     - 學區與通學路徑推測，個案地區
         - 臺北市的和平東路羅斯福路新生南路所圍塑的街廓，套疊國小與國中學區範圍，推測各門牌前往學校正門的路徑，路線線上地圖如下 https://www.google.com/maps/d/u/0/viewer?mid=1PtrMifUEOzZi1-ShuVktL7jetCPdKeY&ll=25.023495773105875%2C121.5341678&z=15
         - 臺北市河堤國小學區內的通學路徑探討 https://www.facebook.com/groups/350835641937447/posts/2048163405537987/
-- 公園與公共機構位置
+- 公園與公共機構位置，文化資產、圖書館、活動中心等
+- 搭配土地使用分區：現況巷弄並非都市計畫道路、檢視未開闢道路 https://nsp.tcd.gov.tw/ngis/
+
+### 汽車使用需求
 - 街廓內的停車場出入口
 - 單行道
 - 雙向道
-- 搭配土地使用分區：現況巷弄並非都市計畫道路、檢視未開闢道路 https://nsp.tcd.gov.tw/ngis/
 - 汽機車停車供需調查
     - https://g0v.hackmd.io/Xn023IaASqOAY85zLA9BYA?view
 
-公用事業車輛路線
+#### 公用事業車輛路線
+
+公車
 - 公車路線與公車站
     - 大台北地區路線圖 
         - 2024 https://www.facebook.com/BusMapTPE/
         - 2008 https://ericyu.github.io/BusMapTPE/
-- 垃圾車 
-    - 景象舉例 https://youtube.com/shorts/MGVS-mgWB4Y
-    - 路線資料
-        - https://hwms.moenv.gov.tw/dispPageBox/route/routeCP.aspx?ddsPageID=ROUTE
-        - https://github.com/funtuan/taiwan-garbage-opendata?tab=readme-ov-file
-- 基礎設施維修站點與車輛路線
+- 探討舉例：臺北市「建國中學-南門市場-古亭捷運站」三角形街區，車流轉向方案已繪製，但街區內的道路也是公車路線，若採用車流轉向，會實際影響公車路線
+    - 社團討論串 https://www.facebook.com/groups/474536628587982/posts/480887367952908
+垃圾車 
+- 景象舉例 https://youtube.com/shorts/MGVS-mgWB4Y
+- 路線資料
+    - https://hwms.moenv.gov.tw/dispPageBox/route/routeCP.aspx?ddsPageID=ROUTE
+    - https://github.com/funtuan/taiwan-garbage-opendata?tab=readme-ov-file
+
+基礎設施維修站點與車輛路線
+- 例如?
 
 ### 四、繪製「街區內連續型行人路徑」
 
