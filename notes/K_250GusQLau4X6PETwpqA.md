@@ -1,7 +1,12 @@
 ---
-tags: 吉祥物
+tags: 吉祥物, AI
 ---
-# Legal Rights and Character 法定權利與角色
+# Legal Rights and Character 法定權利與角色 / AI 試作
+
+整理工作
+- 持續蒐集案例
+- 建立以下具體案例的線上地圖，方便了解各個案例的環境地貌情境
+- 提案 2024 點子松
 
 :::warning
 [TOC]
@@ -13,10 +18,6 @@ tags: 吉祥物
 - https://www.seinsights.asia/article/9506
 - http://www.eqpf.org/envinews/epContent.aspx?dsn=314&cId=1
 - Rights of River 研討會 https://www.facebook.com/InternationalRivers/photos/a.126549960591/10157587335560592/
-
-### 整理工作
-- 持續蒐集案例
-- 建立以下具體案例的線上地圖，方便了解各個案例的環境地貌情境
 
 ### 案例蒐集區
 
@@ -105,6 +106,7 @@ tags: 吉祥物
     - https://www.syntheticusers.com
 - 地震描述為動物動作：地牛翻身
     - https://www.facebook.com/groups/1826853360867892/permalink/2699052733647946/
+- 神隱少女，白龍，溪流
 - 把植物搬進會議廳跟議員一起開會
     - https://www.facebook.com/innovationnpractice/posts/1498373743663951
 - 2022Mattauw大地藝術季的系列活動「水國大埔・萬物議會」
@@ -118,5 +120,15 @@ tags: 吉祥物
 ## 智能化 / AI 
 
 找案例
+
+LLM https://g0v.hackmd.io/x-zztBGkT36iGyQG0xPrnA?view
+
+### 2024 點子松 提案
+
+6000 條河流
+
+由資料構建
+價值立場明確
+可以溝通討論
 
 

@@ -144,6 +144,10 @@ https://maps.app.goo.gl/tgspqJiRToreAMX27
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aa273de9870855c8384ba143e8ae0583.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8b6f54c98ce840e1576753cd92443230.png)
 
+檔案備份
+2024.06.29
+https://drive.google.com/drive/folders/1pw-JHthK5d7pyJ4MhRUBrkCFQoVAbBTv?usp=sharing
+
 ## 工作進度與筆記
 
 2023.11 臺北市、新北市三蘆地區、高雄市高雄火車站地區
@@ -155,6 +159,9 @@ https://maps.app.goo.gl/tgspqJiRToreAMX27
 
 2024.05 針對臺北市捷運中山站至雙連站街區
 - 有實際拍照方案中的待確認建物之停車場出入口位置 https://photos.app.goo.gl/BAumLMXn12wD9qmp9
+
+2024.06.29 針對臺北市建國中學-古亭站-南門市場，探討方案與公車路線的衝度
+- https://www.facebook.com/groups/474536628587982/posts/480887367952908/
 
 ## 繪製步驟
 
