@@ -91,5 +91,11 @@ tags: Rentea
    3. 若有適合非專業者參加的活動，例如見習水電裝修監工，會另外在 Slack & [kktix](https://kktix.com/dashboard/organizations/rentea) 上公告。
    4. 所有專案與活動，皆會做成紀錄與文章發表，也歡迎跳坑紀錄
 
+## 專案公開文章
+
+1. [聊聊入戶籍、報稅、續租修繕條款的過程與阻力 | 租出育兒宅](https://medium.com/rentea-tuesday/rent-negotiation-the-pushback-d6b288dc46e6)
+1. [協商入戶籍的可能路徑 | 租出育兒宅](https://medium.com/rentea-tuesday/rent-negoation-one-step-forward-47b8d8b1037c)
+2. 裝修坑
+   1. [文章共筆](https://g0v.hackmd.io/SMqUtfB2SN-s7SkcOgveNg)
 
 {%hackmd 1LO5rpavTiK4_cFrTouudg %}

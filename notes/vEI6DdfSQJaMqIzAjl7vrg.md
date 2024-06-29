@@ -45,8 +45,8 @@ tags: Rentea
 3. g0v Summit 活動側記
    > [name=pn] 這部分可以視內容看要不要拆成多篇
 5. 第一間房子 2.0 改造側記： [租出育兒宅](https://g0v.hackmd.io/@ddio-io/Bk9GuKQ9a)
-   > [name=ddio] 我先把既有的兩篇貼上去了！看看下週有沒有機會寫完裝修的部份 (2024-06-29)
-   > 
+   > [name=ddio] 我先把既有的兩篇貼上去了！看看下週有沒有機會寫完[裝修的部份](https://g0v.hackmd.io/@ddio-io/Bk9GuKQ9a) (2024-06-29)
+   >> 
 7. [Rentea 第一間房子夏日遮陽計畫x無損立柱實驗側記](https://medium.com/rentea-tuesday/rentea-%E7%AC%AC%E4%B8%80%E9%96%93%E6%88%BF%E5%AD%90%E5%A4%8F%E6%97%A5%E9%81%AE%E9%99%BD%E8%A8%88%E7%95%AB-x-%E7%84%A1%E6%90%8D%E7%AB%8B%E6%9F%B1%E5%AF%A6%E9%A9%97%E5%81%B4%E8%A8%98-ccc825ce11f0)
 > [name=PN] 由PN擴寫這篇，加入由租客發起的租屋改造和老屋韌性的論述
 8. 日本案例-DIY租賃住宅
