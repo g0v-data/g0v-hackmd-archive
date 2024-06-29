@@ -9,8 +9,10 @@ EF07D011D428
 taoyuanshihmen60th.dreamcity.studio
 水庫園區景點
 https://web.wra.gov.tw/shihmen/cp.aspx?n=7640
-https://www.geoguessr.com/free
-https://www.gq.com.tw/video/watch/every-trick-a-pro-geoguessr-player-uses-to-win-ke-pu-chang-zhi-shi-gq-taiwan
+台灣小百岳
+https://catyc.pixnet.net/blog/post/63581416-%E5%8F%B0%E7%81%A3%E5%B0%8F%E7%99%BE%E5%B2%B3
+
+
 Easy Note Origami 便條摺學
 https://www.youtube.com/@EasyNoteOrigami/videos
 
@@ -36,12 +38,6 @@ https://poki.com/zh#
 冰火人3        https://cn.game-game.com/51792/
 檔案上傳 https://www.dropbox.com/request/NkESuX6UMS3o5wpw2JFW
 
-人物 簡筆
-https://www.google.com.tw/search?q=%E4%BA%BA%E7%89%A9+%E7%B0%A1%E7%AD%86&tbm=isch&ved=2ahUKEwiqvt694rjsAhUB5ZQKHbFWCN4Q2-cCegQIABAA&oq=%E4%BA%BA%E7%89%A9+%E7%B0%A1%E7%AD%86&gs_lcp=CgNpbWcQAzICCAAyBggAEAgQHjIGCAAQCBAeOgQIIxAnUKK9FliO3xZgtvUWaAFwAHgBgAGiBIgB1waSAQU4LjUtMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=12OJX-r2IIHK0wSxraHwDQ&bih=917&biw=1263&tbs=itp%3Alineart&hl=zh-TW&hl=zh-TW
-
-動物簡筆
-https://www.google.com.tw/search?q=%E5%8B%95%E7%89%A9+%E7%B0%A1%E7%AD%86&tbm=isch&ved=2ahUKEwj-q-HrzuvxAhXM32EKHYJrCQsQ2-cCegQIABAA&oq=%E5%8B%95%E7%89%A9+%E7%B0%A1%E7%AD%86&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeOgYIABAHEB5Q55kHWPqoB2CksgdoAHAAeACAAT-IAYkCkgEBNpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=spfzYP6KIsy_hwOC16VY&bih=917&biw=1263&hl=zh-TW&hl=zh-TW
-
 |女兒| 腳 | 手	| 身|加成值|目前高度|比值|暫定倍數|觸碰高度|
 | -- | -- | -- | -- | -- | -- |-- | -- | -- |
 |晨心|88|	65|	70|	464|201|2.31 |2.3|202 |
@@ -58,6 +54,6 @@ https://chrome.google.com/webstore/detail/wot-website-security-safe/bhmmomiinigo
 
 #### Ken暫存
 https://www.youtube.com/watch?v=A3Yx35KrSN0
-D:\Ken\OneDrive\13Learning\AI.xlsx
+
 https://learn.microsoft.com/zh-tw/power-bi/visuals/desktop-ribbon-charts?tabs=powerbi-desktop
 https://learn.microsoft.com/zh-tw/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a

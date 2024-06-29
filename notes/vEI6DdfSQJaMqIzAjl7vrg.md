@@ -40,11 +40,14 @@ tags: Rentea
 0523更新: [文章資料夾](https://drive.google.com/drive/folders/1IkPca4emOj1xUEWyjshHew12NYz9QObN?usp=drive_link)
 
 1. 當月導讀：Rentea的租屋市場觀察及第一間房
-~~2. g0v Summit 社群軌論述+背景資料整理~~
+   > [name=ddio] 我看這篇 google doc ，還沒有介紹到第一間房子？或許可以拿[當初的總結文](https://medium.com/rentea-tuesday/corentea-release-4d7eda6fd1fa)的部份去用？反正式 CC-BY ，註明出處即可編輯重製。
+2. ~~g0v Summit 社群軌論述+背景資料整理~~
 3. g0v Summit 活動側記
-> [name=pn] 這部分可以視內容看要不要拆成多篇
+   > [name=pn] 這部分可以視內容看要不要拆成多篇
 5. 第一間房子 2.0 改造側記： [租出育兒宅](https://g0v.hackmd.io/@ddio-io/Bk9GuKQ9a)
-6. [Rentea 第一間房子夏日遮陽計畫x無損立柱實驗側記](https://medium.com/rentea-tuesday/rentea-%E7%AC%AC%E4%B8%80%E9%96%93%E6%88%BF%E5%AD%90%E5%A4%8F%E6%97%A5%E9%81%AE%E9%99%BD%E8%A8%88%E7%95%AB-x-%E7%84%A1%E6%90%8D%E7%AB%8B%E6%9F%B1%E5%AF%A6%E9%A9%97%E5%81%B4%E8%A8%98-ccc825ce11f0)
+   > [name=ddio] 我先把既有的兩篇貼上去了！看看下週有沒有機會寫完裝修的部份 (2024-06-29)
+   > 
+7. [Rentea 第一間房子夏日遮陽計畫x無損立柱實驗側記](https://medium.com/rentea-tuesday/rentea-%E7%AC%AC%E4%B8%80%E9%96%93%E6%88%BF%E5%AD%90%E5%A4%8F%E6%97%A5%E9%81%AE%E9%99%BD%E8%A8%88%E7%95%AB-x-%E7%84%A1%E6%90%8D%E7%AB%8B%E6%9F%B1%E5%AF%A6%E9%A9%97%E5%81%B4%E8%A8%98-ccc825ce11f0)
 > [name=PN] 由PN擴寫這篇，加入由租客發起的租屋改造和老屋韌性的論述
 8. 日本案例-DIY租賃住宅
 > [name=PN] 邀請rin加入寫稿行列
