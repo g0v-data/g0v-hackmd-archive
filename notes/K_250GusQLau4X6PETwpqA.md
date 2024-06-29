@@ -123,12 +123,21 @@ tags: 吉祥物, AI
 
 LLM https://g0v.hackmd.io/x-zztBGkT36iGyQG0xPrnA?view
 
+土石流細胞廣播
+https://www.facebook.com/share/p/Bzzb8N4FxvJfrhfX/
+
 ### 2024 點子松 提案
 
-6000 條河流
+臺灣 6000 條河流
 
-由資料構建
+由資料構建，自身歷年變遷
 價值立場明確
 可以溝通討論
+
+河流之間有層級
+
+共同制定 流域型國土計畫
+
+河流，與山脈 xxxx 座
 
 
