@@ -35,12 +35,20 @@ tags: GIS,
 「20220802 水保局雲端地理資訊結合google地圖運用於勘查作業 (吳聲傑)」
 https://youtu.be/vkpRTL8YU8Q
 
-採用 CSV 格式上傳資料到 Google My Map
+採用 CSV 格式上傳「點線面」資料到 Google My Map
 - 緯度一個欄位、經度一個欄位，這是上傳「點資料」
-- 若想要上傳線與面資料，請新增一個欄位，欄位名稱可以用 WKT
+- 若想要用 CSV 格式，上傳線與面資料，請新增一個欄位，欄位名稱必須使用 WKT
     - 點的表達方式：
         - POINT (121.5488456 25.0378513)
     - 線的表達方式：
         - LINESTRING (121.5450209 25.0454118, 121.5456298 25.0454142, 121.5456351 25.0455284, 121.5459731 25.0455284)
     - 面的表達方式：
         - POLYGON ((121.518558 25.0951536, 121.5190583 25.0946229, 121.5192326 25.0956843, 121.518558 25.0951536))
+
+:::spoiler 點我看圖片說明
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_43467b8bc2a369bc8a1cdb37e9c421ef.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2b16839989acd5d69b826647c936f69d.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d08a63838c64a463c3cfa522f3c03de3.png)
+
+:::
