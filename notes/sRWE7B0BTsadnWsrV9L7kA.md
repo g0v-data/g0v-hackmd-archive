@@ -1,5 +1,4 @@
 ---
-title: "城市與數學"
 tags: math, GIS
 ---
 
@@ -15,7 +14,7 @@ tags: math, GIS
     - [https://medium.com/@caasih/on-matthew-fullers-data-structures-as-spatial-structures-f4e63f3e7350](https://medium.com/@caasih/on-matthew-fullers-data-structures-as-spatial-structures-f4e63f3e7350)
 - https://www.facebook.com/442567842438962/posts/4785812634781106/
 - 桃園市活動 https://m.facebook.com/story.php?story_fbid=pfbid02PLUEN4qwMhNHDfZsjDfjDTf4XnYuaSmiX7TjsAf2sFw2jgEnst6yLoWPftMbHYeYl&id=1110895358931489
-
+- https://www.facebook.com/share/p/keApGJiFw4YDpoNL/
 
 ## 描述城市發展與社會經濟的數學
 

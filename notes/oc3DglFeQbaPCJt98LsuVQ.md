@@ -117,6 +117,9 @@ tags:
 - 這篇 2023 年的文章，描述日本東京都，推動 Park-PFI「私人資金融資倡議」 （Private Finance Initiative）模式，給予私部門集團開發與經營權，換取公共空間的改善或公共建設的投入。這個模式似乎具有社會排除的效果，無家者較無法停留在更新後的公園內
     - https://daodi.com.tw/zh-TW/special_columns/49
 ## 文獻探討
+
+危殆生活：無家者的社會世界與幫助網絡
+https://www.facebook.com/share/p/UEUPVQECPU7FPHwR/
 ### 碩博網
 #### 無家者
 臺灣女性無家者生活困境之探討
@@ -238,6 +241,11 @@ Poverty and Homelessness Essay 貧困和無家可歸論文
 https://edubirdie.com/examples/poverty-and-homelessness-essay/
 
 ## 法規
+### 關注單位
+法扶基金會
+https://www.facebook.com/share/p/UEUPVQECPU7FPHwR/
+
+### 法規
 - 社會救助法
     - 法源
     - 懶人包
