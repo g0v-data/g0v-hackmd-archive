@@ -117,6 +117,7 @@ tags: 新生流域
         - https://www.facebook.com/ZhangZheSheng/photos/a.10152144402114531/10152335556574531/
     - 南門市場 https://www.facebook.com/story.php?story_fbid=pfbid06SiBHainaz16WCRPd8wksEm1cJjaxbHNwjfAg4cdKmmxZQLvdXP5MGHJMbisTJnVl&id=100066441370310
     - 敦化北路照片https://www.facebook.com/photo.php?fbid=10150903561658618
+    - 1975-1976 敦化南路與林安泰古厝 https://www.facebook.com/share/p/YSscboMCyni5K3SU/
     - 重要 照片，冰店與新生大排便橋，新生南路三段42號 
         - https://www.facebook.com/193313627448659/posts/pfbid02ZRijs3x5TmB4iEM83kRuG8NBRtjkXCXMD21Q6ju2p9BKRUaAxpNZxJTRvHTeQL8pl/
         - https://www.facebook.com/193313627448659/posts/pfbid02ZRijs3x5TmB4iEM83kRuG8NBRtjkXCXMD21Q6ju2p9BKRUaAxpNZxJTRvHTeQL8pl/?mibextid=cr9u03
