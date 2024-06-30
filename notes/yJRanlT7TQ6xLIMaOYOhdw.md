@@ -117,11 +117,28 @@ http://dev.cofacts.tw/
 
 ### :eye: Under review
 
+## CCPRIP
+
+### AI transcript improvement
+> Design doc: https://g0v.hackmd.io/@cofacts/rd/%2Fwkx286lmTDaFUpgRhnUawQ
+
+Gemini multimodal LLM
+- 同時可處理影像與聲音
+- 一個 prompt 可以用在無人聲有字幕影片，也能用在有人聲無字幕影片
+- 沒有貴很多
+
+問題
+- 要先傳到 GCS or File API (不穩定)
+- 即使是 flash，速度也沒很快
+- RECITATION error 問題
+- 莫名 safety filter
 
 
 ## LINE bot long response handling
 
 https://github.com/cofacts/rumors-line-bot/blob/master/src/webhook/handlers/singleUserHandler.ts#L78
+
+figma: 
 
 - chat window
 - singleUserHandler
