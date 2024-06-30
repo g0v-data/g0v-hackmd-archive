@@ -68,12 +68,17 @@ tags: 吉祥物, AI
 
 ## 無法定權利
 
-環境：海洋與溪流
+海洋
 - 荷蘭實驗組織物的議會在2018年6月時，展開一個新的十年計畫「北海大使館」（Embassy of the North Sea）。此計畫的的其中一個目標也是跟紐西蘭一樣，企圖把被英國、挪威、瑞典、丹麥、德國、荷蘭、比利時和法國環繞「北海」變成一個法人，讓「北海」有權利為自己發聲。
     - https://www.oranjeexpress.com/2019/11/27/%E5%A6%82%E6%9E%9C%E6%88%91%E5%80%91%E8%AE%93%E6%89%80%E6%9C%89%E5%8B%95%E7%89%A9%E8%88%87%E6%A4%8D%E7%89%A9%E9%80%B2%E5%85%A5%E8%AD%B0%E6%9C%83%EF%BC%8C%E6%9C%83%E7%99%BC%E7%94%9F%E4%BB%80%E9%BA%BC/
-- 「獨立溪流像個貪玩的孩子，溪中色彩斑斕的迴游鰕虎們，如同祂愛不釋手的玩具與配件」
-    - https://river-is-life.blogspot.com/2018/01/blog-post.html
+
+河流
+- 韓國漫畫 拜託讓我成龍吧 https://www.webtoons.com/zh-hant/drama/baituo/list
+- 神隱少女 白龍
+- 「獨立溪流像個貪玩的孩子，溪中色彩斑斕的迴游鰕虎們，如同祂愛不釋手的玩具與配件」https://river-is-life.blogspot.com/2018/01/blog-post.html
 - 冬山河，龍形 https://photos.app.goo.gl/7j5K2uNYFYAUo8xd7
+
+溫泉
 - 「麒麟尿」原來是指白河關子嶺的泥漿溫泉 https://news.ltn.com.tw/news/life/breakingnews/2266374
 
 農田
@@ -106,7 +111,6 @@ tags: 吉祥物, AI
     - https://www.syntheticusers.com
 - 地震描述為動物動作：地牛翻身
     - https://www.facebook.com/groups/1826853360867892/permalink/2699052733647946/
-- 神隱少女，白龍，溪流
 - 把植物搬進會議廳跟議員一起開會
     - https://www.facebook.com/innovationnpractice/posts/1498373743663951
 - 2022Mattauw大地藝術季的系列活動「水國大埔・萬物議會」

@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Legal Rights and Character 法定權利與角色 / AI 試作](../notes/K_250GusQLau4X6PETwpqA.md) | 2024-06-30T00:55:21+08:00 | 2022-03-11T13:06:06+08:00 |
+| 1 | [Legal Rights and Character 法定權利與角色 / AI 試作](../notes/K_250GusQLau4X6PETwpqA.md) | 2024-06-30T16:24:24+08:00 | 2022-03-11T13:06:06+08:00 |
 | 2 | [Environmental Design & Computer-Aided 空間規劃設計與 AI 工具](../notes/3dqTVh6SS9a4SIXMT3X1HQ.md) | 2024-05-08T06:59:02+08:00 | 2023-03-25T21:43:44+08:00 |
 | 3 | [影音轉逐字稿 / 如何在 Macbook 裝 whisper / How to Install whisper in Macbook](../notes/t1B_DdkHTOyqsWiYm0bzAw.md) | 2024-04-20T19:09:05+08:00 | 2023-05-30T17:42:37+08:00 |
 | 4 | [藥學．要學：AI驅動的個人化精準學習](../notes/8PYVkjW_RuSGFlIYJnGKoA.md) | 2024-04-06T11:50:58+08:00 | 2024-02-18T11:32:07+08:00 |
