@@ -1,61 +1,86 @@
-# Denian Package 打包教程筆記
+# Debian 打包筆記
 
-下載現成deb
-解包取得source code
-解釋內容
-source code打包內容
-dpkg 指令打包流程
-產生deb檔
-install 方式
-實際例子
+分享將source code打包成deb file的流程與指令
+打包deb package必備套件
+apt-get install debhelper devscripts automake dh-make
+
+* 打包流程圖
+![image](https://hackmd.io/_uploads/r1L345CIR.png)
 
 
-1. download現有package 
-download source code -> https://sourceforge.net/projects/cscope/
-
-2. tar xvzf cscope-15.1.tar.gz
-
-3. dh_make --createorig -s -> 
-若沒有.tar.xz，dh_make --createorig -s會建立 cscope_15.1.orig.tar.xz 和 debian/
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bc6b83afa245f6406daab48d3c21a605.png)
-
-4. tree -> dh_make產生的debian files
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7233c51bb37521087cbbb12b6f3439b0.png)
+* 產生一個source code package
+![image](https://hackmd.io/_uploads/rkOhFUCIR.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b9367d8230ceecfcef81439d0036ebce.png)
 
 
-5. 自建一個package
-source code
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_61f79ef7beb28486488c2b607d399a7d.png)
+* 將source code package打包成.tar.gz
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c16fc9494f5a767fc3ae40c66be5b8b3.png)
+DEBMAIL:作者的信箱
+DEBFULLNAME:作者姓名
+檔名格式:<Package>-<versoin>，不然會回報下面錯誤
+![image](https://hackmd.io/_uploads/B19-C8CLA.png)
+* dh_make指令：
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ff21d7d39b5036f45916a5a39677f161.png)
+成功後會產生 debian
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2aca26cdf43a4716787bb04a5d56f547.png)
 
-tar -zcvf
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fd6f339ad1b095a1d7298fdd13647587.png)
+介紹debian內容:
 
-dh_make
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8c715ee69eebef6784218213a946f408.png)
+* control:
+![image](https://hackmd.io/_uploads/r1-5lPRIA.png)
 
-tree debian
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5b64f24a72cf3bf010e21a0f01396ccd.png)
+    Section: package發行版本的分類。
+    分為main(自由軟體)、non-free()、contrib()、admin()、devel()、doc()、libs、x11(不屬於其他分類的x11)。
+
+    Priority:安裝優先級。
+
+    Architecture:標示package適用於何種cpu架構。all:不需要根據cpu做區分，編譯成一個package即可。any:表示四種cpu架構須分別編譯會產生四個package。
+四種cpu架構:amd64、i386、armhf、arm64。
+    
+* copyright:包含上游軟體的版權及LICENSE認證等資訊。
+執行dh_make後，自行產生的內容。
+![image](https://hackmd.io/_uploads/ryrqXPR8C.png)
+debian官方教學中的copyright。
+![image](https://hackmd.io/_uploads/r1j0jwCL0.png)
+
+    
+* changelog:包含軟體名稱、版本、發行版本和修改內容等資訊。
+![image](https://hackmd.io/_uploads/SkiAEDALA.png)
+
+* rules:rules就像Makefile一樣，包含許多ruiles，以target名稱作為參數調用dh_*指令。
+
+![image](https://hackmd.io/_uploads/S1tjRSC80.png)
+% -> "任何targets"。
+dh$@ -> 執行dh_*指令。
+    
+覆寫rules的dh_*指令
+![image](https://hackmd.io/_uploads/r1hGvDA80.png)
+
+* 其他檔案
+preinst(preinstallation):安裝.deb前的腳本。
+postinst(postinstallation):執行安裝後的configg
+prerm(preremove):刪除.deb前的腳本，一般用於停止service之類的操作。
+postrm(postremove):刪除.deb後的腳本，可執行刪除捷徑等工作。
 
 
 
+* 打包deb檔
+![image](https://hackmd.io/_uploads/S1a7ASC8A.png)
+![image](https://hackmd.io/_uploads/SJxSRB08R.png)
 
-kernel
-make KERNELRELEASE="$(make kernelversion)" KDEB_PKGVERSION="$(make kernelversion)" -j"$(nproc)" bindeb-pkg
+* 安裝.deb
+![image](https://hackmd.io/_uploads/Sk5vk8A8C.png)
 
-u-boot
-dpkg-buildpackage -a "$(cat debian/arch)" -T build -d -uc -nc
-dpkg-buildpackage -a "$(cat debian/arch)" -T binary -d -uc -nc
+* 顯示control內容
+![image](https://hackmd.io/_uploads/SJHeZL08A.png)
 
+* 確認安裝後檔案位置
+![image](https://hackmd.io/_uploads/H1LMG80LA.png)
 
-# control: package的資訊檔
-$DEBEMAIL、 $DEBFULLNAME： 識別用於維護package的姓名和電子郵件地址。
+待解問題：
+如何將檔案安裝到指定路徑
+ > **參考來源**
+https://www.debian.org/doc/manuals/maint-guide/dreq.zh-cn.html.
+https://github.com/Rickylss/Notes/blob/write/Debain%E7%BB%B4%E6%8A%A4%E8%80%85%E6%8C%87%E5%8D%97/deb%E6%89%93%E5%8C%85%E5%B7%A5%E4%BD%9C%E6%B5%81.md
+---
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2edaf524010773706b7b0d77d34fca13.png)
-
-# copyright: 版權申明
-# changlog: 紀錄跟上一版的差別
-# rules: 類似於Makefile，會呼叫很多dh_xxx command
-https://www.debian.org/doc/manuals/packaging-tutorial/packaging-tutorial.en.pdf
-https://www.debian.org/doc/manuals/packaging-tutorial/packaging-tutorial.zh_TW.pdf
-https://www.debian.org/doc/manuals/maint-guide/dreq.zh-tw.html#rules
-http://www.study-area.org/cyril/opentools/opentools/x1447.html
