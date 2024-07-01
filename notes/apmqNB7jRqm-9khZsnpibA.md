@@ -36,7 +36,9 @@ DEBFULLNAME:作者姓名
 
     Architecture:標示package適用於何種cpu架構。all:不需要根據cpu做區分，編譯成一個package即可。any:表示四種cpu架構須分別編譯會產生四個package。
 四種cpu架構:amd64、i386、armhf、arm64。
-    
+
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a85bc14a9f48e2dc1573b259c8dd3469.png)
+
 * copyright:包含上游軟體的版權及LICENSE認證等資訊。
 執行dh_make後，自行產生的內容。
 ![image](https://hackmd.io/_uploads/ryrqXPR8C.png)

@@ -29,8 +29,14 @@ https://github.com/cofacts/rumors-api/releases/tag/release%2F20240630
 - TXT 的 source map 無法指定 last mod time，不會觸發重抓
 - 針對沒有重抓的 514 網頁重做 XML 的 source map --> 還是沒有重新爬取⋯⋯ ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2ea03b23602b8e9792fffb6fd9ca32a6.png)
 
+### [Op] 來信下架
+
+
 ### [Comm] AI transcript improvement
 > Design doc: https://g0v.hackmd.io/@cofacts/rd/%2Fwkx286lmTDaFUpgRhnUawQ
+
+Gemini Prompt engineering
+https://docs.google.com/spreadsheets/d/1ygU7fRZd-OGhj22uIqheMVKJob-ldM2KDG0PfpHTyJA/edit?gid=0#gid=0
 
 Gemini multimodal LLM
 - 同時可處理影像與聲音
@@ -38,17 +44,16 @@ Gemini multimodal LLM
 - 沒有貴很多
 
 問題
-- 要先傳到 GCS or File API (不穩定)
-- 即使是 flash，速度也沒很快
+- 要先傳到 GCS or File API (Beta)
+- 即使是 flash，速度也沒到很快
 - RECITATION error 問題
 - 莫名 safety filter
-
 
 ## LINE bot long response handling
 
 https://github.com/cofacts/rumors-line-bot/blob/master/src/webhook/handlers/singleUserHandler.ts#L78
 
-figma: 
+figma: https://www.figma.com/design/1tiXCGut4kNCEkDG9FTza7/LINE-Chat-UI-Template-(Community)?node-id=208-844&t=jZag3uDtcForLjRO-0
 
 - chat window
 - singleUserHandler
