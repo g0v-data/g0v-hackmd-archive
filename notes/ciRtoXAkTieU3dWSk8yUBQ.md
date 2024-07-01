@@ -1,24 +1,35 @@
 # CSS & Html tag
+
+
+
+CSS
+---
+
 ##### 屬性設定 : 避免屬性重複，先瀏覽過所有figma，找出常用的顏色、字體大小...等，將之設置為變數
-`eg.`
-`:root {`  
-  `--color-text: #878787;`  
-`}`  
-`.text-color {`  
-  `color: #878787;`  
-`}`
+eg.
+```css
+:root {
+  --color-text: #878787;
+}
+.text-color {
+  color: #878787;
+}
+```
 
 ##### 避免命名太通用，也許是用組合的方式
-`<img class="photo buyer__photo" />`
-`.photo {`
-`}`
-`.buyer__photo {`
-`}`
-`.seller__photo {`
-
-`}` 
-`.admin__photo {`
-`}`
+```html
+<img class="photo buyer__photo" />
+```
+```css
+.photo {
+}
+.buyer__photo {
+}
+.seller__photo {
+}
+.admin__photo {
+}
+```
 ##### 避免樣式之間的關係不明確，可嘗試以下命名規則
 ```html
 <div class="sheets">  
@@ -31,6 +42,7 @@
 ```
 
 其他可使用的技巧
+```css
 div p {
   margin: 0;
   padding: 1em;
@@ -42,6 +54,7 @@ div p + p {
 div p, #id:first-line {background-color: red; border-radius: 3px;}
 div p {margin: 0; padding: 1em;}
 div p + p {padding-top: 0;}
+```
 
 #### 選擇器
 ```html
@@ -53,16 +66,20 @@ div p + p {padding-top: 0;}
 ```
 **加號 +**  
 選擇「位在同一層跟在後面的第一個元素」(選擇一個跟在後方的兄弟姊妹)
+```css
 div + p {}
+```
 
 **連接號 ~**  
 選擇「位在同一層的所有符合指定名字的元素」(選擇所有符合指定名字的兄弟姊妹)
+```css
 span ~ p{}
-
+```
 **大於符號 >**
 選擇「位在下一層”**內**”所有符合指定名字的元素」(所有所有符合指定名字的兒子，不會選到孫子輩)
+```css
 div > p {}
-
+```
 
 
 #### 「前綴（Prefix）」
@@ -225,6 +242,28 @@ root.style.setProperty('--size', `${this.value}px`)
 
 
 
+
+#### 瀏覽器自動填入樣式 browser autofill html input css
+[:autofill | CSS-Tricks](https://css-tricks.com/almanac/selectors/a/autofill/)
+```css
+/** 客製化瀏覽器自動填入 input style */
+input:autofill,
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus {
+   -webkit-text-fill-color: #d4d4d4;
+   -webkit-box-shadow: 0 0 0px 40rem #000 inset;
+}
+```
+
+
+
+
+---
+HTML
+---
+
+
 #### HTML Tag
 ```html
 
@@ -243,3 +282,4 @@ root.style.setProperty('--size', `${this.value}px`)
   <p>This document provides a guide to help with the important task of choosing the correct Apple.</p>
 </section>
 ```
+
