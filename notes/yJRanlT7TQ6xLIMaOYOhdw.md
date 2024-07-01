@@ -81,7 +81,7 @@ https://github.com/cofacts/rumors-line-bot/blob/master/src/webhook/handlers/sing
 figma: https://www.figma.com/design/1tiXCGut4kNCEkDG9FTza7/LINE-Chat-UI-Template-(Community)?node-id=852-2034&t=jZag3uDtcForLjRO-4
 
 `singleUserHandler`
-- The function taht calls handlePostback/processOOO 等回傳 `Result` 的東西 
+- The function that calls handlePostback/processOOO 等回傳 `Result` 的東西 
 - stores latest webhook event's reply token in context
     - or collect a list of reply token and it's received time; remove old tokens whenever consuming the token
 - `send()` reads token from context instead of the webhook event that triggers this query
@@ -100,4 +100,8 @@ figma: https://www.figma.com/design/1tiXCGut4kNCEkDG9FTza7/LINE-Chat-UI-Template
   - 選擇 1：把 replies 存起來等使用者按「繼續」時立即回應
   - 選擇 2：動用 push message API
       - 建議選這個，UX 比較順而且可以不用時做那個儲存機制 [name=mrorz]
+
+:::success
+開票放著
+:::
 

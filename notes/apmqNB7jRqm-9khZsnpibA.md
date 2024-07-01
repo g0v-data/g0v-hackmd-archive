@@ -9,7 +9,6 @@ apt-get install debhelper devscripts automake dh-make
 
 
 * 產生一個source code package
-![image](https://hackmd.io/_uploads/rkOhFUCIR.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b9367d8230ceecfcef81439d0036ebce.png)
 
 
@@ -17,8 +16,7 @@ apt-get install debhelper devscripts automake dh-make
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c16fc9494f5a767fc3ae40c66be5b8b3.png)
 DEBMAIL:作者的信箱
 DEBFULLNAME:作者姓名
-檔名格式:<Package>-<versoin>，不然會回報下面錯誤
-![image](https://hackmd.io/_uploads/B19-C8CLA.png)
+檔名格式:<Package>-<versoin>
 * dh_make指令：
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ff21d7d39b5036f45916a5a39677f161.png)
 成功後會產生 debian

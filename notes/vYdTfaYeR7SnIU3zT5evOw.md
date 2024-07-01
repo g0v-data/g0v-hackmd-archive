@@ -209,20 +209,26 @@ Yahoo hack day team
      * 三個人回 "approve" 即通過, 發信通知申請人 / 代貼者
  * 收發文機器人
      * 將文章發草稿到 facebook
-     * 城市偵測到草稿, 發給 sns-editors
+     * 程式偵測到草稿, 發給 sns-editors
      * 並指定三個人 review
      * 三個人回信 "approve" 即通過
      * 通過後機器人自動發文
 
-### 發文規則
+## g0v SNS 發文規則
 #### 小編發文
 
 發文：
 在 #sns 頻道邀請共筆 review，有三名管理員 review 確認後，即可請有權限者，安排貼文。
+
+
 詳細機制請參考 #sns 頻道
+
+g0v SNS 雲端資料夾
+https://drive.google.com/drive/folders/1E6ZwNAwbWLBFg6Yi1bJ_vD0Skfx6fZDC?usp=sharing
 
 #### 發文錯誤修正機制：
 （待討論）
+該 slack 貼文串，提出修改內容
 
 ## g0v logdown
 http://blog.g0v.tw => http://g0vtw.logdown.com/
