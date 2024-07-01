@@ -40,6 +40,7 @@ https://docs.google.com/spreadsheets/d/1ygU7fRZd-OGhj22uIqheMVKJob-ldM2KDG0PfpHT
 
 Gemini multimodal LLM
 - 同時可處理影像與聲音
+- 可以同時用來做逐字稿與 AI reply，AI reply 不用等逐字稿
 - 一個 prompt 可以用在無人聲有字幕影片，也能用在有人聲無字幕影片
 - 沒有貴很多
 
@@ -47,7 +48,13 @@ Gemini multimodal LLM
 - 要先傳到 GCS or File API (Beta)
 - 即使是 flash，速度也沒到很快
 - RECITATION error 問題
+    - [Citation filter](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/configure-safety-attributes#citation-filter)
 - 莫名 safety filter
+    - [關不掉](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/configure-safety-attributes#safety_attributes)
+
+其他
+- 還沒實作 AI 回應的 feedback ._. https://www.figma.com/design/1tiXCGut4kNCEkDG9FTza7/LINE-Chat-UI-Template-(Community)?node-id=306-1619&t=jZag3uDtcForLjRO-4
+    - New index - ai response feedback?
 
 ## LINE bot long response handling
 
