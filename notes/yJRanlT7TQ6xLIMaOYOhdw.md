@@ -60,23 +60,26 @@ Gemini multimodal LLM
 
 https://github.com/cofacts/rumors-line-bot/blob/master/src/webhook/handlers/singleUserHandler.ts#L78
 
-figma: https://www.figma.com/design/1tiXCGut4kNCEkDG9FTza7/LINE-Chat-UI-Template-(Community)?node-id=208-844&t=jZag3uDtcForLjRO-0
+figma: https://www.figma.com/design/1tiXCGut4kNCEkDG9FTza7/LINE-Chat-UI-Template-(Community)?node-id=852-2034&t=jZag3uDtcForLjRO-4
 
-- chat window
-- singleUserHandler
-  - stores latest webhook event's reply token in context
-  - send() reads token from context instead of the webhook event that triggers this query
-  - when timeout, send a message to ask user to "continue" ad snack message
-    - when the user press continue, it replies nothing, just update reply token
-- handlePostback/processOOO 等回傳 Result 的東西
+`singleUserHandler`
+- The function taht calls handlePostback/processOOO 等回傳 `Result` 的東西 
+- stores latest webhook event's reply token in context
+    - or collect a list of reply token and it's received time; remove old tokens whenever consuming the token
+- `send()` reads token from context instead of the webhook event that triggers this query
+- when timeout, send a message to ask user to "continue" ad snack message
+- when the user press continue, it replies nothing, just update reply token
 
 ---
 
 特殊狀況：
 - send 被呼叫時，已經是下一個 search session 了
-  - 不要做任何事情
-  - 或者把 reply token 花掉，真的好了的時候用 [send push message](https://developers.line.biz/en/reference/messaging-api/#send-push-message)
+  - 選擇 1：不要做任何事情
+      - 建議選這個，使用者認知上應該也會覺得，送了新訊息的時候其實已經放棄了舊的查詢
+  - 選擇 2：或者把 reply token 花掉，真的好了的時候用 [send push message](https://developers.line.biz/en/reference/messaging-api/#send-push-message)
+      - 現況比較接近這個，只是 reply token 來源為觸發查詢的 webhook event
 - Result 回來、send() 呼叫時已無 reply token（使用者沒按「繼續」）
-  - 把 replies 存起來等使用者按「繼續」時立即回應
-  - 動用 push message API
+  - 選擇 1：把 replies 存起來等使用者按「繼續」時立即回應
+  - 選擇 2：動用 push message API
+      - 建議選這個，UX 比較順而且可以不用時做那個儲存機制 [name=mrorz]
 

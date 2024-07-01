@@ -98,6 +98,9 @@ tags: 吉祥物, AI
 - 《街擬街擬》透過田野調查，將像是永康街、林森北路、台北地下街的文化特色濃縮於各自的代表人物，讓我們用不同的方式瞭解歷史文化。
     - https://everylittled.com/article/122992
 
+古蹟與文化空間
+- https://wabay.tw/projects/hyakkaten_403earthquake
+
 一棵樹
 - Track your tree - Send fully customized emails linked to trees https://www.ecomatcher.com/track
 - 寫信給樹 
