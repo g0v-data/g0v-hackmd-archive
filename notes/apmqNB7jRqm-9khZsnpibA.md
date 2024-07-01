@@ -82,7 +82,8 @@ postrm(postremove):刪除.deb後的腳本，可執行刪除捷徑等工作。
 待解問題：
 如何將檔案安裝到指定路徑
 1.在Makefile指定安裝路徑
-2.在debian
+2.在debian 新增xxxx.install
+https://www.debian.org/doc/manuals/maint-guide/dother.zh-cn.html
  > **參考來源**
 https://www.debian.org/doc/manuals/maint-guide/dreq.zh-cn.html.
 https://github.com/Rickylss/Notes/blob/write/Debain%E7%BB%B4%E6%8A%A4%E8%80%85%E6%8C%87%E5%8D%97/deb%E6%89%93%E5%8C%85%E5%B7%A5%E4%BD%9C%E6%B5%81.md
