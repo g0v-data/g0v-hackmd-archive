@@ -8,7 +8,8 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- NPO hub: mrorz, bil
+- 線上出席：nonumpa
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -28,9 +29,23 @@ https://github.com/cofacts/rumors-api/releases/tag/release%2F20240630
 
 - TXT 的 source map 無法指定 last mod time，不會觸發重抓
 - 針對沒有重抓的 514 網頁重做 XML 的 source map --> 還是沒有重新爬取⋯⋯ ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2ea03b23602b8e9792fffb6fd9ca32a6.png)
+- --> 2024/6/30 23:00 重抓了，現在都有成功 takedown ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ff2aec92118d9d386c72b44d4d12868d.png)
+
+:::success
+- It works (after 1 week)
+- 新舉報的也要拿下來，以後加進工具裡 --> rumors-api 開票，修改 block user script
+:::
 
 ### [Op] 來信下架
 
+- https://cofacts.tw/article/_fgYpo0BAjOeMOklWy-8
+  - wording 跟  https://cofacts.tw/article/u9of6dn8p0kb 一樣
+- https://cofacts.tw/article/_PgYpo0BAjOeMOklWS_H
+- 還有 https://cofacts.tw/article/wfcL6YwBAjOeMOklki_D
+- 用這個回： https://tfc-taiwan.org.tw/articles/10447
+- ~~放幾天之後 unblock https://cofacts.tw/article/MXEnIJABd3gcY0Lp40gE + 回應~~
+  - 不要驚動受害者
+  - 繼續把訊息藏起來，用其他篇示警為詐騙
 
 ### [Comm] AI transcript improvement
 > Design doc: https://g0v.hackmd.io/@cofacts/rd/%2Fwkx286lmTDaFUpgRhnUawQ
@@ -51,10 +66,13 @@ Gemini multimodal LLM
     - [Citation filter](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/configure-safety-attributes#citation-filter)
 - 莫名 safety filter
     - [關不掉](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/configure-safety-attributes#safety_attributes)
-
+  
 其他
 - 還沒實作 AI 回應的 feedback ._. https://www.figma.com/design/1tiXCGut4kNCEkDG9FTza7/LINE-Chat-UI-Template-(Community)?node-id=306-1619&t=jZag3uDtcForLjRO-4
     - New index - ai response feedback?
+
+
+
 
 ## LINE bot long response handling
 
