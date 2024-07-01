@@ -1,7 +1,7 @@
 # Debian 打包筆記
 
 分享將source code打包成deb file的流程與指令
-打包deb package必備套件
+* 打包deb package必備套件
 apt-get install debhelper devscripts automake dh-make
 
 * 打包流程圖
@@ -29,8 +29,8 @@ DEBFULLNAME:作者姓名
 * control:
 ![image](https://hackmd.io/_uploads/r1-5lPRIA.png)
 
-    Section: package發行版本的分類。
-    分為main(自由軟體)、non-free()、contrib()、admin()、devel()、doc()、libs、x11(不屬於其他分類的x11)。
+    Section: package進入發行版本的分類。
+    分為main(自由軟體)、non-free(非自由軟體)、contrib(依賴於非自由軟件的自由軟件)、admin(供系統管理員使用)、devel(開發工具)、doc(文檔)、libs（庫）、x11(不屬於其他分類的x11).....。
 
     Priority:安裝優先級。
 
@@ -47,7 +47,7 @@ debian官方教學中的copyright。
 * changelog:包含軟體名稱、版本、發行版本和修改內容等資訊。
 ![image](https://hackmd.io/_uploads/SkiAEDALA.png)
 
-* rules:rules就像Makefile一樣，包含許多ruiles，以target名稱作為參數調用dh_*指令。
+* rules:rules就像Makefile一樣，包含許多rules，以target名稱作為參數調用dh_*指令。
 
 ![image](https://hackmd.io/_uploads/S1tjRSC80.png)
 % -> "任何targets"。
@@ -79,6 +79,8 @@ postrm(postremove):刪除.deb後的腳本，可執行刪除捷徑等工作。
 
 待解問題：
 如何將檔案安裝到指定路徑
+1.在Makefile指定安裝路徑
+2.在debian
  > **參考來源**
 https://www.debian.org/doc/manuals/maint-guide/dreq.zh-cn.html.
 https://github.com/Rickylss/Notes/blob/write/Debain%E7%BB%B4%E6%8A%A4%E8%80%85%E6%8C%87%E5%8D%97/deb%E6%89%93%E5%8C%85%E5%B7%A5%E4%BD%9C%E6%B5%81.md
