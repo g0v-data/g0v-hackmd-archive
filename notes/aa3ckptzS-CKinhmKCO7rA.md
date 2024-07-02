@@ -76,7 +76,7 @@ https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/ryrT2aQdn/
 https://g0v.hackmd.io/y_O_IpKrRxm6pG5rlO4enw?view
 
 ## 《立法院大小聲》app
-https://100.adi.gov.tw/ahvs1
+https://100.adi.gov.tw/ahvs1?id=94
 - iPhone: https://apps.apple.com/tw/app/id1604118355
 - Android: https://play.google.com/store/apps/details?id=com.ccwatch
 - GitHub: https://github.com/denkeni/CCWatch
