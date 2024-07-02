@@ -16,7 +16,8 @@ apt-get install debhelper devscripts automake dh-make
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c16fc9494f5a767fc3ae40c66be5b8b3.png)
 DEBMAIL:作者的信箱
 DEBFULLNAME:作者姓名
-檔名格式:<Package>-<versoin>
+檔名格式必須是<PackageName>-<versoin>
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2b93b02f50352d9ef8cd26ae9199a5ce.png)
 * dh_make指令：
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ff21d7d39b5036f45916a5a39677f161.png)
 成功後會產生 debian
@@ -25,7 +26,8 @@ DEBFULLNAME:作者姓名
 介紹debian內容:
 
 * control:
-![image](https://hackmd.io/_uploads/r1-5lPRIA.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9e98bf325181a1bb17c2db01dbaafa55.png)
+
 
     Section: package進入發行版本的分類。
     分為main(自由軟體)、non-free(非自由軟體)、contrib(依賴於非自由軟件的自由軟件)、admin(供系統管理員使用)、devel(開發工具)、doc(文檔)、libs（庫）、x11(不屬於其他分類的x11).....。
@@ -39,17 +41,19 @@ DEBFULLNAME:作者姓名
 
 * copyright:包含上游軟體的版權及LICENSE認證等資訊。
 執行dh_make後，自行產生的內容。
-![image](https://hackmd.io/_uploads/ryrqXPR8C.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c00803d3ac5c9a09b718eaac24dc80d5.png)
+
 debian官方教學中的copyright。
 ![image](https://hackmd.io/_uploads/r1j0jwCL0.png)
 
     
 * changelog:包含軟體名稱、版本、發行版本和修改內容等資訊。
-![image](https://hackmd.io/_uploads/SkiAEDALA.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_afaa80162178c92ffe7da79fd39b7b38.png)
+
 
 * rules:rules就像Makefile一樣，包含許多rules，以target名稱作為參數調用dh_*指令。
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5287358efd18cd2e194a3ea99ef72feb.png)
 
-![image](https://hackmd.io/_uploads/S1tjRSC80.png)
 % -> "任何targets"。
 dh$@ -> 執行dh_*指令。
     
@@ -65,17 +69,20 @@ postrm(postremove):刪除.deb後的腳本，可執行刪除捷徑等工作。
 
 
 * 打包deb檔
-![image](https://hackmd.io/_uploads/S1a7ASC8A.png)
-![image](https://hackmd.io/_uploads/SJxSRB08R.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f0d91427fcc741530e4c7ce9112a0a34.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_852fb489a830ac37c3fd62c403a88d15.png)
+
 
 * 安裝.deb
-![image](https://hackmd.io/_uploads/Sk5vk8A8C.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4d9f3810735d095ee59c842049bf4270.png)
+
 
 * 顯示control內容
-![image](https://hackmd.io/_uploads/SJHeZL08A.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cab64c6da73e2f4330d5a4330c827f9a.png)
 
 * 確認安裝後檔案位置
-![image](https://hackmd.io/_uploads/H1LMG80LA.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b7ed13b3555d38bef083f6f59b340623.png)
+
 
 待解問題：
 如何將檔案安裝到指定路徑

@@ -1,5 +1,23 @@
 # 爬蟲 Crawler
-## 參考影片
+## 目前程式
+```
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.options import Options
+
+
+options = Options()
+options.chrome_executable_path = "chromedriver路徑"
+
+driver = webdriver.Chrome(options = options)
+driver.get("https://oa.mega-insight.com/wui/index.html#/?logintype=1&time=1719884214301&_key=28cio7")
+
+username = driver.find_element(By.ID, "loginid")
+password = driver.find_element(By.ID, "loginid")
+
+driver.clos()
+```
 
 ## 基本框架
 ```
