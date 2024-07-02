@@ -58,7 +58,7 @@ debian官方教學中的copyright。
 dh$@ -> 執行dh_*指令。
     
 覆寫rules的dh_*指令
-![image](https://hackmd.io/_uploads/r1hGvDA80.png)
+https://github.com/oerdnj/cmake/blob/master/debian/rules
 
 * 其他檔案
 preinst(preinstallation):安裝.deb前的腳本。
@@ -86,7 +86,10 @@ postrm(postremove):刪除.deb後的腳本，可執行刪除捷徑等工作。
 
 待解問題：
 如何將檔案安裝到指定路徑
+https://github.com/exoscale/pkg-qemu/blob/precise/debian/control
+https://github.com/oerdnj/cmake/blob/master/debian/control
 1.在Makefile指定安裝路徑
+https://docs.deepin.org/info/%E5%BC%80%E5%8F%91%E8%BF%9B%E9%98%B6/%E9%80%82%E9%85%8D%E8%AE%A4%E8%AF%81/%E8%AE%A4%E8%AF%81%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98/%E8%AE%A4%E8%AF%81%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98/%E6%BA%90%E7%A0%81%E6%89%93%E5%8C%85%E4%B8%BAdeb
 2.在debian 新增xxxx.install
 https://www.debian.org/doc/manuals/maint-guide/dother.zh-cn.html
 https://www.debian.org/doc/manuals/debmake-doc/ch05.zh-tw.html#simplerules

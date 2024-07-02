@@ -14,9 +14,15 @@ driver = webdriver.Chrome(options = options)
 driver.get("https://oa.mega-insight.com/wui/index.html#/?logintype=1&time=1719884214301&_key=28cio7")
 
 username = driver.find_element(By.ID, "loginid")
-password = driver.find_element(By.ID, "loginid")
+password = driver.find_element(By.ID, "userpassword")
+submit = driver.find_element(By.ID, "submit")
+username.send_keys("DT24007")
+password.send_keys("DHf3771646")
+submit.click()
 
-driver.clos()
+
+
+driver.close()
 ```
 
 ## 基本框架
