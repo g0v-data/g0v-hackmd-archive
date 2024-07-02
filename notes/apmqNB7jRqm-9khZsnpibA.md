@@ -9,7 +9,7 @@ apt-get install debhelper devscripts automake dh-make
      ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a26f787e2f9787482585df1b9e63c95d.png)
 
 * 產生一個source code package
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b9367d8230ceecfcef81439d0036ebce.png)
+
 
 
 * 將source code package打包成.tar.gz
@@ -75,8 +75,10 @@ apt-get install debhelper devscripts automake dh-make
 
     ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5287358efd18cd2e194a3ea99ef72feb.png)
 
-    % -> "任何targets"。
+    % -> 所有target。
     dh$@ -> 執行dh_*指令。
+    詳細內容可參考官網文件：
+https://www.debian.org/doc/manuals/maint-guide/dreq.zh-tw.html#control
     覆寫rules的dh_*指令
     https://github.com/oerdnj/cmake/blob/master/debian/rules
 
@@ -87,7 +89,8 @@ apt-get install debhelper devscripts automake dh-make
     postrm(postremove): 刪除.deb後的腳本，可執行刪除捷徑等工作。
     package.cron.*： 在希望的時間下運行package。
     
-    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3d12bf8a1ec7ee026d2ea9cce5aa460f.png)
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3c2a0f88f9f7e0d505886ae053d2f4c0.png)
+
 
 * 打包deb檔
 
@@ -122,5 +125,6 @@ https://www.debian.org/doc/manuals/debmake-doc/ch05.zh-tw.html#simplerules
  > **參考來源**
 https://www.debian.org/doc/manuals/maint-guide/dreq.zh-cn.html.
 https://github.com/Rickylss/Notes/blob/write/Debain%E7%BB%B4%E6%8A%A4%E8%80%85%E6%8C%87%E5%8D%97/deb%E6%89%93%E5%8C%85%E5%B7%A5%E4%BD%9C%E6%B5%81.md
+https://wen00072.github.io/blog/2014/06/10/package-debian-packages-study-on-the-debian-directory/
 ---
 

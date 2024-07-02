@@ -42,11 +42,15 @@ typedef struct _EFI_COMPONENT_NAME_PROTOCOL{
 >EFI Boot Service drivers
 >EFI Runtime drivers
 
+Image can be loaded from storage locations like ROM, flash, hard disk, floppy, CD-ROM, DVD, or LAN boot server...
 
-
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6fa73d962c2c98e254aef21d24b92cc4.png)
 
 
 #### Events
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ac390ea3a8636682c2c4e681f7f286f3.png)
+
 
 #### Device paths
 
