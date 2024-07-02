@@ -37,8 +37,14 @@ typedef struct _EFI_COMPONENT_NAME_PROTOCOL{
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b8592d7516ef6a1d832f9cadfb3877c4.png)
 
-
 #### EFI images
+>EFI applications
+>EFI Boot Service drivers
+>EFI Runtime drivers
+
+
+
+
 
 #### Events
 
