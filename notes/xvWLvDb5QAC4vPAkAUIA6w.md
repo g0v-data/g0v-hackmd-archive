@@ -60,8 +60,15 @@ Simptomi predoziranja:
 
 ---
 
+```mermaid
+graph TD
+  A[smanjenje rizika predoziranja] --> B[koristiti pod strogim medicinskim nadzorom]
+  A -->  C[pravilno skladištiti i zbrinuti sve istekle i neiskorištene lijekove]
+  A --> D[obrazovanje ljudi o rizicima i pravilnoj uporabi]
+```
 
+više o fentanilu možete pronaći na ovoj poveznici [pubChem](https://pubchem.ncbi.nlm.nih.gov/compound/Fentanyl)
 
 ---
 
-više o fentanilu možete pronaći na ovoj poveznici [pubChem](https://pubchem.ncbi.nlm.nih.gov/compound/Fentanyl)
+## Kraj
