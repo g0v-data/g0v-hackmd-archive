@@ -13,6 +13,25 @@ Fakultet biotehnologije i razvoja lijekova, Informatika
 
 ---
 
+* iako nisu slični strukturno slično djelovanje kao fentanil ima morfin 
+* struktura fentanila(rdkit)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7fca16f26306c5149d477bbbbc03d7a6.png)
+
+---
+
+* struktura morfina(rdkit)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f8d5556b2b9e7ba030af5daa26a56efa.png)
+
+---
+
+* struktura fentanila u avogadru
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d8a5b3d0799c5f68eb2847b6aaf9a7b1.png)
+
+---
+
+* struktura fentanila u pymolu
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bc78cb59891b8f54e4e1d24631b70696.png)
+
 
 ---
 
@@ -41,3 +60,8 @@ Simptomi predoziranja:
 
 ---
 
+
+
+---
+
+više o fentanilu možete pronaći na ovoj poveznici [pubChem](https://pubchem.ncbi.nlm.nih.gov/compound/Fentanyl)

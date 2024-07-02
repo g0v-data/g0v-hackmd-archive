@@ -17,11 +17,3 @@ https://cwisweb.sfaa.gov.tw/
 
 臺中市第二區居家托育服務中心
 https://www.facebook.com/%E8%87%BA%E4%B8%AD%E5%B8%82%E7%AC%AC%E4%BA%8C%E5%8D%80%E5%B1%85%E5%AE%B6%E6%89%98%E8%82%B2%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83-130585843698175/
-
-
-http://192.168.1.1/video
-https://www.youtube.com/watch?v=778oM7Vs5_o
-人物 簡筆
-https://www.google.com.tw/search?q=%E4%BA%BA%E7%89%A9+%E7%B0%A1%E7%AD%86&tbm=isch&ved=2ahUKEwiqvt694rjsAhUB5ZQKHbFWCN4Q2-cCegQIABAA&oq=%E4%BA%BA%E7%89%A9+%E7%B0%A1%E7%AD%86&gs_lcp=CgNpbWcQAzICCAAyBggAEAgQHjIGCAAQCBAeOgQIIxAnUKK9FliO3xZgtvUWaAFwAHgBgAGiBIgB1waSAQU4LjUtMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=12OJX-r2IIHK0wSxraHwDQ&bih=917&biw=1263&tbs=itp%3Alineart&hl=zh-TW&hl=zh-TW
-免費試用 MINECRAFT
-https://www.minecraft.net/zh-hant/free-trial

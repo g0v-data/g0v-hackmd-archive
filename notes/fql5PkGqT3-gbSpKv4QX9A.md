@@ -1,6 +1,5 @@
 ---
-title: "哺乳地圖"
-tags: Issue-Mapping,Open Street Map,hackpad
+tags: GIS, Issue-Mapping, Open Street Map
 ---
 
 # 哺乳地圖
@@ -11,7 +10,7 @@ tags: Issue-Mapping,Open Street Map,hackpad
 ## 想做什麼
 
 - 有個地圖給帶 baby 出門的人知道哪裡有方便哺餵小朋友的設施
--
+- 2024.07 討論串 https://www.facebook.com/share/p/g79RP5UEa6LUS4kM/
 
 ## 專案策略
 
@@ -81,6 +80,7 @@ tags: Issue-Mapping,Open Street Map,hackpad
     - [Android版](https://play.google.com/store/apps/details?id=bhp.mohw.gov.tw)
     - App 的資料看起來有經緯度（不是只是所在建物或地址）、有樓層（可以從地址取得）、有開放時間（但是是文字描述）
     - 2016/1/8 update: 國健署釋出xls[有經緯度的資料](https://www.facebook.com/groups/odtwn/1406605286020552/)囉~ (感謝國健署認真同事)
+- 官方集哺乳室地圖，衛福部孕產婦關懷網站 https://mammy.hpa.gov.tw/Map/BreastfeedingRoom
 - 「友善新竹哺乳室」App
     - [iPhone版 ](https://itunes.apple.com/tw/app/you-shan-xin-zhu-bu-ru-shi/id976039615?l=zh&mt=8)
 - 可以用類似投開票所 geocode 的方式 (現在爛掉中) # [http://comap.clkao.org/about](http://comap.clkao.org/about)
