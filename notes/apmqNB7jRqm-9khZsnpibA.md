@@ -5,8 +5,7 @@
 apt-get install debhelper devscripts automake dh-make
 
 * 打包流程圖
-![image](https://hackmd.io/_uploads/r1L345CIR.png)
-
+ ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a26f787e2f9787482585df1b9e63c95d.png)
 
 * 產生一個source code package
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b9367d8230ceecfcef81439d0036ebce.png)
@@ -42,10 +41,10 @@ DEBFULLNAME:作者姓名
 * copyright:包含上游軟體的版權及LICENSE認證等資訊。
 執行dh_make後，自行產生的內容。
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c00803d3ac5c9a09b718eaac24dc80d5.png)
-
-debian官方教學中的copyright。
-![image](https://hackmd.io/_uploads/r1j0jwCL0.png)
-
+pkg-qemu的copyright
+https://github.com/exoscale/pkg-qemu/blob/precise/debian/copyright
+cmake的copyright
+https://github.com/oerdnj/cmake/blob/master/debian/copyright
     
 * changelog:包含軟體名稱、版本、發行版本和修改內容等資訊。
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_afaa80162178c92ffe7da79fd39b7b38.png)
@@ -91,6 +90,7 @@ https://github.com/oerdnj/cmake/blob/master/debian/control
 1.在Makefile指定安裝路徑
 https://docs.deepin.org/info/%E5%BC%80%E5%8F%91%E8%BF%9B%E9%98%B6/%E9%80%82%E9%85%8D%E8%AE%A4%E8%AF%81/%E8%AE%A4%E8%AF%81%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98/%E8%AE%A4%E8%AF%81%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98/%E6%BA%90%E7%A0%81%E6%89%93%E5%8C%85%E4%B8%BAdeb
 2.在debian 新增xxxx.install
+https://pi3g.com/zh/creating-configuration-files-in-etc-in-debian-packages/
 https://www.debian.org/doc/manuals/maint-guide/dother.zh-cn.html
 https://www.debian.org/doc/manuals/debmake-doc/ch05.zh-tw.html#simplerules
  > **參考來源**
