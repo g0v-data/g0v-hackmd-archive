@@ -9,6 +9,8 @@ apt-get install debhelper devscripts automake dh-make
      ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a26f787e2f9787482585df1b9e63c95d.png)
 
 * 產生一個source code package
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5d0308a5177c196a87e0d3a42632e15a.png)
+
 
 
 
@@ -114,17 +116,12 @@ https://www.debian.org/doc/manuals/maint-guide/dreq.zh-tw.html#control
 
 待解問題：
 如何將檔案安裝到指定路徑
-https://github.com/exoscale/pkg-qemu/blob/precise/debian/control
-https://github.com/oerdnj/cmake/blob/master/debian/control
 1.在Makefile指定安裝路徑
-https://docs.deepin.org/info/%E5%BC%80%E5%8F%91%E8%BF%9B%E9%98%B6/%E9%80%82%E9%85%8D%E8%AE%A4%E8%AF%81/%E8%AE%A4%E8%AF%81%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98/%E8%AE%A4%E8%AF%81%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98/%E6%BA%90%E7%A0%81%E6%89%93%E5%8C%85%E4%B8%BAdeb
+https://www.debian.org/doc/manuals/maint-guide/modify.zh-tw.html#destdir
 2.在debian 新增xxxx.install
-https://pi3g.com/zh/creating-configuration-files-in-etc-in-debian-packages/
-https://www.debian.org/doc/manuals/maint-guide/dother.zh-cn.html
-https://www.debian.org/doc/manuals/debmake-doc/ch05.zh-tw.html#simplerules
+https://www.debian.org/doc/manuals/maint-guide/dother.zh-tw.html
  > **參考來源**
-https://www.debian.org/doc/manuals/maint-guide/dreq.zh-cn.html.
-https://github.com/Rickylss/Notes/blob/write/Debain%E7%BB%B4%E6%8A%A4%E8%80%85%E6%8C%87%E5%8D%97/deb%E6%89%93%E5%8C%85%E5%B7%A5%E4%BD%9C%E6%B5%81.md
-https://wen00072.github.io/blog/2014/06/10/package-debian-packages-study-on-the-debian-directory/
----
+https://www.debian.org/doc/manuals/maint-guide/index.zh-tw.html
+https://www.debian.org/doc/manuals/packaging-tutorial/packaging-tutorial.en.pdf
+
 

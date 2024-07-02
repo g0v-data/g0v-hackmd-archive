@@ -38,7 +38,7 @@ tags: 國會松
 | 提案名稱 | 提案人稱呼 | 提案網址或內容   |
 | -------- | ---------- | ---------------- |
 | 自由填寫 | 自由填寫   | 自由向下新增行列 |
-| 台灣人的開放國會行動方案 | Ronny | |
+| 台灣人的開放國會行動方案 | Ronny | [投影片](https://docs.google.com/presentation/d/1S8bZWYAvyweEFHVt6frD7NXpCAV8xC1OQTZdVIRZUn4/edit?usp=sharing) |
 
 ## 簽名區
 來者何人，留下名稱！（請自由留下自己的暱稱或稱呼）
