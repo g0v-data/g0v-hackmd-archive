@@ -13,16 +13,16 @@ apt-get install debhelper devscripts automake dh-make
 
 * 將source code package打包成.tar.gz
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c16fc9494f5a767fc3ae40c66be5b8b3.png)
-DEBMAIL:作者的信箱
-DEBFULLNAME:作者姓名
-檔名格式必須是<PackageName>-<versoin>
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2b93b02f50352d9ef8cd26ae9199a5ce.png)
+    DEBMAIL:作者的信箱
+    DEBFULLNAME:作者姓名
+    檔名格式必須是<PackageName>-<versoin>
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-            images/uploads/upload_2b93b02f50352d9ef8cd26ae9199a5ce.png)
 * dh_make指令：
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ff21d7d39b5036f45916a5a39677f161.png)
-成功後會產生 debian
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2aca26cdf43a4716787bb04a5d56f547.png)
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ff21d7d39b5036f45916a5a39677f161.png)
+    成功後會產生 debian
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2aca26cdf43a4716787bb04a5d56f547.png)
 
-介紹debian內容:
+> 介紹debian內容
 
 * control:
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9e98bf325181a1bb17c2db01dbaafa55.png)
@@ -32,19 +32,21 @@ DEBFULLNAME:作者姓名
     分為main(自由軟體)、non-free(非自由軟體)、contrib(依賴於非自由軟件的自由軟件)、admin(供系統管理員使用)、devel(開發工具)、doc(文檔)、libs（庫）、x11(不屬於其他分類的x11).....。
 
     Priority:安裝優先級。
-
-    Architecture:標示package適用於何種cpu架構。all:不需要根據cpu做區分，編譯成一個package即可。any:表示四種cpu架構須分別編譯會產生四個package。
-四種cpu架構:amd64、i386、armhf、arm64。
-
+    Build-Depends:編譯此軟體包需要的軟體包。
+    Build-Depends-Indep:作為Build-Depends的附加。
     ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a85bc14a9f48e2dc1573b259c8dd3469.png)
+    Architecture:標示package適用於何種cpu架構。
+    all:套件和平台無關，可能是文件、圖片會是直譯式的語言套件。
+    any：任何平台皆可，通常是需要編譯的套件。
+    對於 Architecture: any 的軟件包，自動編譯系統重構建它們。
 
 * copyright:包含上游軟體的版權及LICENSE認證等資訊。
-執行dh_make後，自行產生的內容。
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c00803d3ac5c9a09b718eaac24dc80d5.png)
-pkg-qemu的copyright
-https://github.com/exoscale/pkg-qemu/blob/precise/debian/copyright
-cmake的copyright
-https://github.com/oerdnj/cmake/blob/master/debian/copyright
+    執行dh_make後，自行產生的內容。
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c00803d3ac5c9a09b718eaac24dc80d5.png)
+    pkg-qemu的copyright
+    https://github.com/exoscale/pkg-qemu/blob/precise/debian/copyright
+    cmake的copyright
+    https://github.com/oerdnj/cmake/blob/master/debian/copyright
     
 * changelog:包含軟體名稱、版本、發行版本和修改內容等資訊。
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_afaa80162178c92ffe7da79fd39b7b38.png)
@@ -53,17 +55,16 @@ https://github.com/oerdnj/cmake/blob/master/debian/copyright
 * rules:rules就像Makefile一樣，包含許多rules，以target名稱作為參數調用dh_*指令。
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5287358efd18cd2e194a3ea99ef72feb.png)
 
-% -> "任何targets"。
-dh$@ -> 執行dh_*指令。
-    
-覆寫rules的dh_*指令
-https://github.com/oerdnj/cmake/blob/master/debian/rules
+    % -> "任何targets"。
+    dh$@ -> 執行dh_*指令。
+    覆寫rules的dh_*指令
+    https://github.com/oerdnj/cmake/blob/master/debian/rules
 
 * 其他檔案
-preinst(preinstallation):安裝.deb前的腳本。
-postinst(postinstallation):執行安裝後的configg
-prerm(preremove):刪除.deb前的腳本，一般用於停止service之類的操作。
-postrm(postremove):刪除.deb後的腳本，可執行刪除捷徑等工作。
+    preinst(preinstallation):安裝.deb前的腳本。
+    postinst(postinstallation):執行安裝後的configg
+    prerm(preremove):刪除.deb前的腳本，一般用於停止service之類的操作。
+    postrm(postremove):刪除.deb後的腳本，可執行刪除捷徑等工作。
 
 
 

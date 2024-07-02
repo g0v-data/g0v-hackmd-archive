@@ -19,7 +19,7 @@ The data structure which can access configuration and service like boot, runtime
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_330c08975b88e28a6e4bcc605a17e33e.png)
 
 #### Protocols 
-* Protocol = a group of functions + Identifier(GUID) + private data
+* Protocol = a group of functions + private data, which are named by Globally Unique Identifier(GUID)
 * Protocol provides software abstraction for device like console, disk, network...
 
 ```C=
