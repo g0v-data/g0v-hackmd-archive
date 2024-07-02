@@ -10,17 +10,30 @@ EFI 1.10 version
 #### EFI System Table
 The data structure which can access configuration and service like boot, runtime, protocol...
 
-#### Handle database and protocols :pushpin: 
+#### Handle database :pushpin: 
 * Handle database = a group of handles
 * Handle = a group of protocols
-* Protocol = a group of functions and datas that are named by Globally Unique Identifier(GUID)
-* Protocol provides software abstraction for device like console, disk, network...
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_51ebca8d2e88f22ba6dfaf1d5b70e12d.png)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_330c08975b88e28a6e4bcc605a17e33e.png)
 
+#### Protocols 
+* Protocol = a group of functions + Identifier(GUID) + private data
+* Protocol provides software abstraction for device like console, disk, network...
 
+```C=
+#define EFI_COMPONENT_NAME_PROTOCOL_GUID {0x.....}
+
+typedef struct _EFI_COMPONENT_NAME_PROTOCOL{
+    EFI_COMPONENT_NAME_GET_DRIVER_NAME GetDriverName;
+    EFI_COMPONENT_NAME_GET_CONTROLLER_NAME GetControllerName;
+    CHAR8 *SupportedLanguages;
+} EFI_COMPONENT_NAME_PROTOCOL;
+
+```
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b8592d7516ef6a1d832f9cadfb3877c4.png)
 
 
 #### EFI images
