@@ -91,6 +91,33 @@ In that way we’re serfs, but we are more than serfs, we’re cloud serfs produ
 
 
 
+- 書：
+- 封建
+    - 階級：土地＋地租
+        - 地主
+        - 附庸
+        - 農奴
+- 資本
+    - 第二性質：資本擁有者能夠榨取其他人的一種社會關係
+    - 維持資本的關鍵：
+        - 利潤, 債務作為資本體制的主要燃料
+        - 市場作為價值去中心化的分配機制
+    - 危機
+        - 利潤下降
+        - 債務下降
+    - 階級
+        - 資本家
+        - 中產階級 <-> 易受擠壓
+        - 無產階級：僱傭勞動者
+    - 榨取力來源x4 [資本主義創造了第四種]
+        - 武力
+        - 政治力
+        - 軟實力
+        - 資本家權利
+- +技術官僚
+- 雲端資本
+    - 
+
 ## 提問/思考
 * 問題
     - 為什麼TF 比當今 C 更糟
@@ -151,8 +178,12 @@ Yanis 提供幾個解決方法：
         - 坑裡的人還需要努力寫文件/申請
     - 華文/台灣的重要性
 
+民間數位韌性（Digital Surveillance）
 
-
+## 隨意聊聊/分享
+豆泥新文章：https://artouch.com/artouch-column/mintmint-column/content-146860.html
+- DAF 數位藝術基金會：子彈芭樂學
+- 考古
 
 
 ## Frank 分享閱讀小旅程
@@ -175,6 +206,9 @@ Yanis 提供幾個解決方法：
     - Here is how platforms die: First, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves. Then, they die.
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f7092e4e0ace79a70d9ad9d3e11ad3c1.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f6686811e87d8b3f86e76a9f9cfa3762.png)
+
 
 
 ## Frank: 關於零激盪廣場/廣場說書/論書
