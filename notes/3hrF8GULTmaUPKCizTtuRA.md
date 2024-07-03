@@ -6,7 +6,7 @@ tags: web3, 廣場論說書
 * **Time 時間**：2024/07/03 （三）21:00
 * **Link 連結**：https://meet.google.com/gft-ytiy-wjj
 * **Attendees 簽到**：
-    * Frank、Amos、Yii、Noah、arttseng
+    * Frank、Amos、Yii、Noah、arttseng、Stanley
 * **活動記錄貢獻者**
     * Frank
 * **HomeWorks 功課**
