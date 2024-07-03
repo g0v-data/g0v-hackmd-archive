@@ -84,7 +84,7 @@ Before we move to the next section, you will need to update the MicroPython firm
 Uploading code
 ---
 
-SStart by opening VSCode and installing PyMakr from the extensions by following the steps illustrated below.
+Start by opening VSCode and installing PyMakr from the extensions by following the steps illustrated below.
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2342ec9ccbaea84579483e28fb03c69d.png)
 
