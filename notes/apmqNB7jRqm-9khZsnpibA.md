@@ -80,7 +80,7 @@ apt-get install debhelper devscripts automake dh-make
     % -> 所有target。
     dh$@ -> 執行dh_*指令。
     詳細內容可參考官網文件：
-https://www.debian.org/doc/manuals/maint-guide/dreq.zh-tw.html#control
+https://www.debian.org/doc/manuals/maint-guide/dreq.zh-tw.html#rules
     覆寫rules的dh_*指令
     https://github.com/oerdnj/cmake/blob/master/debian/rules
 

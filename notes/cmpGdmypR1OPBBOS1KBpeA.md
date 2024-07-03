@@ -67,11 +67,14 @@ Task Priority Level(TPL)
 |TPL_NOTIFY|The priority level at which most I/O operations are performed.|
 |TPL_HIGH_LEVEL|The priority level for the one timer interrupt supported in EFI.|
 
-
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ac390ea3a8636682c2c4e681f7f286f3.png)
 
 
 #### Device paths
+A device path is a data structure that is composed of one or more device path nodes
+
+
+
 
 #### EFI Driver Model
 
