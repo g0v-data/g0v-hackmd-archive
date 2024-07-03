@@ -74,7 +74,16 @@ apt-get install debhelper devscripts automake dh-make
 
 
 * rules: rules就像Makefile一樣，包含許多rules，以target名稱作為參數調用dh_*指令。
-
+    
+    必備target:
+    clean
+    build
+    build-arch
+    build-indep
+    binary
+    binary-arch
+    binary-indep
+    
     ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5287358efd18cd2e194a3ea99ef72feb.png)
 
     % -> 所有target。
@@ -86,7 +95,7 @@ https://www.debian.org/doc/manuals/maint-guide/dreq.zh-tw.html#rules
 
 * 其他檔案
     preinst(preinstallation): 安裝.deb前的腳本。
-    postinst(postinstallation): 執行安裝後的configg
+    postinst(postinstallation): 安裝.deb後執行的腳本。
     prerm(preremove): 刪除.deb前的腳本，一般用於停止service之類的操作。
     postrm(postremove): 刪除.deb後的腳本，可執行刪除捷徑等工作。
     package.cron.*： 在希望的時間下運行package。

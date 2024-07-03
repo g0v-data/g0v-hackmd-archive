@@ -73,7 +73,25 @@ Task Priority Level(TPL)
 #### Device paths
 A device path is a data structure that is composed of one or more device path nodes
 
-
+Device path for PCI:
+```c=
+//
+// Generic device path node header
+//
+typedef struct {
+    UINT8 Type;
+    UINT8 SubType;
+    UINT8 Length[2];
+} EFI_DEVICE_PATH_PROTOCOL;
+//
+// PCI Device Path Node that includes a header and PCI-specific fields
+//
+typedef struct _PCI_DEVICE_PATH {
+    EFI_DEVICE_PATH_PROTOCOL Header;
+    UINT8 Function;
+    UINT8 Device;
+} PCI_DEVICE_PATH;
+```
 
 
 #### EFI Driver Model
