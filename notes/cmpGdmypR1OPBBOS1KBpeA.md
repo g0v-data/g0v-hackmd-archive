@@ -44,10 +44,29 @@ typedef struct _EFI_COMPONENT_NAME_PROTOCOL{
 
 Image can be loaded from storage locations like ROM, flash, hard disk, floppy, CD-ROM, DVD, or LAN boot server...
 
+協議: EFI_LOADED_IMAGE_PROTOCOL
+加載: gBS->LoadImage()
+開啟: gBS->StartImage()
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6fa73d962c2c98e254aef21d24b92cc4.png)
 
 
 #### Events
+>Set Event
+>Exit Event
+>Check Event
+>Wait for Event
+
+EFI support polling, instead of interrupt
+
+Task Priority Level(TPL)
+|Task Priority Level|Description|
+|---|---|
+|TPL_APPLICATION|The priority level at which EFI images are executed.|
+|TPL_CALLBACK|The priority level for most notification functions.|
+|TPL_NOTIFY|The priority level at which most I/O operations are performed.|
+|TPL_HIGH_LEVEL|The priority level for the one timer interrupt supported in EFI.|
+
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ac390ea3a8636682c2c4e681f7f286f3.png)
 
