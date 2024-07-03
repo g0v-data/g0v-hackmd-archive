@@ -4,7 +4,7 @@ tags: vTaiwan
 # 0703小松
 時間 Time ：19:00-21:00
 地點 Location ：線上 Online
-參與者 Participants：
+參與者 Participants：peter, eli, josh, ronny, tofus
 線上參與連結 / Link：https://meet.jit.si/vTaiwan
 歡迎大家提案想做的事情！！！
 
@@ -47,13 +47,19 @@ vTaiwan 的英國大冒險：NESTA 分享
 - 目前在「向多數黨遊說上」決議暫緩
 - 轉向去蒐集人民想要什麼國會改革
     - 先從國外的改革來看看人家改了什麼
-    - 法案審議前要上區塊鏈XD [name=Eli]
+    - ~~法案審議前要上區塊鏈XD~~ [name=Eli]
 
 - 調查方法上的specification：
     - 目標上想要多少人
     - 如何抽樣公民
-    - 隨機給選項，請user排序
+    - 隨機給選項，請user排序 [name=Ronny]
+    - 怎麼moderate
+        - 防灌票
+        - 防謾罵
+    - [allourideas](https://all-our-ideas.citizens.is/domain/1/) 
 
+- 實體程序
+    - 如果要讓意見徵集成果走下去變成更實體的倡議，需要找相關專家來refine，或是跟相關團體來合作 [name=Eli]
 
 ## 近期動態
 ### 監察院 0712 活動
@@ -81,3 +87,4 @@ vTaiwan 的英國大冒險：NESTA 分享
 
 ## 下週的小小的分享
 - Ronny 分享 FNF 的會議投影片 [name=ronny]
+- Peter 分享拜會
