@@ -44,6 +44,7 @@ tags: Rentea
     - 台北市老公寓的原型。
 - 東京都大田區[昭和生活博物館](https://maps.app.goo.gl/DygKu6tsBnXadjrEA)
 - 東京都北區[UR團地博物館](https://maps.app.goo.gl/FdDqdsdd3qSpyuFKA?g_st=ic)
+- 合作住宅 https://www.facebook.com/share/p/bqgHK7zqx4i5SkyG/
 ## 加拿大
 - 蒙特利爾(Montréal) [Habitat 67(住宅67)](https://maps.app.goo.gl/QCA9SsFgNQEiF7ir8)
     - 1967年世博會上大放異彩。

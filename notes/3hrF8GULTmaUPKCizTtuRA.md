@@ -5,8 +5,8 @@ tags: web3, 廣場論說書
 * **Goal 主題**：廣場論書 #Fin. 雲端封建時代
 * **Time 時間**：2024/07/03 （三）21:00
 * **Link 連結**：https://meet.google.com/gft-ytiy-wjj
-* **Attendees 簽到**：Yii
-    * Frank
+* **Attendees 簽到**：
+    * Frank、Amos、Yii、Noah、arttseng
 * **活動記錄貢獻者**
     * Frank
 * **HomeWorks 功課**
@@ -137,7 +137,7 @@ https://www.facebook.com/photo/?fbid=879108550925132&set=a.645114764324513
             - 指揮僱傭勞動者(無產階級+不穩定無產階級)更努力工作
             - 雲端領地取代市場, 可索取雲端租金
                 - 雲端資本家權利 = 除了前四種，多了第五種榨取力
-                    - 所有資本主義角色都被雲端資本家榨取+資本主義榨取出來的剩餘價值在被雲端地租壓榨走
+                    - 所有資本主義角色都被雲端資本家榨取+資本主義榨取出來的剩餘價值再被雲端地租壓榨走
 - 現況 = 普遍剝削 + 價值基礎萎縮
     - 資本主義從屬於技術封建 資本主義榨取出來的剩餘價值在被雲端地租壓榨走 + 雲端佃農的無償勞動
     - 角色
@@ -157,7 +157,9 @@ Slavoj Zizek:既然我們所有人都身陷困境，那這本書顯然適合適�
         - When you have such a large sum of money extracted in the form of cloud rent, that money disappears from a circular flow of income.
         - this cloud capital is designed to reproduce itself through our attention and through our free labor. 
         - Hate
-- Yanis Varoufakis的Technofeudalism 提出了許多目前科技公司扭曲了我們的經濟制度的觀點，如．．．
+
+Yii
+-  Yanis Varoufakis的Technofeudalism 提出了許多目前科技公司扭曲了我們的經濟制度的觀點，如．．．
 但未提解決方式，很高興看到今天提供的延伸閱讀資料：
 “歡迎來到Technofeudalism時代——接受《WIRED》雜誌採訪，2024/04/22”
     https://www.yanisvaroufakis.eu/2024/04/22/welcome-to-the-age-of-technofeudalism-interviewed-by-wired-magazine/
@@ -170,6 +172,12 @@ Yanis 提供幾個解決方法：
 我也想問，政府真的沒在做嗎？如果真如此，我們該如何向前邁進？
 （Yanis 説從政）
 
+Amos
+- 如果雲端資本 → 建立機房的錢 & 網路使用成本，那其實建立在雲瑞上的封建主義，只是一種更易租用的資本財，只是使用者租用器材產生的報酬不是透過薪水支付，而是把自已的 content 放到這個通路上賺錢？
+- 另外覺得有趣的是，實體經濟的演進和虛擬經濟的演進路徑好像不太一樣：
+    - 實體：以物易物→封建主義→資本主義→？
+    - 虛擬：資本主義→封建主義
+- 如果不單單計算金錢收入，把名聲/成就感等等考量進去（或是出讓自已的個資/瀏覽記綠以換取資本推播），是否可解釋為何大家都自願成為農奴？這些非貨幣的價值足以打平金錢收入不足的負面情感？
 
 * 相關文本
     - 遊戲經濟討論推薦
@@ -188,14 +196,23 @@ Yanis 提供幾個解決方法：
 法西斯主義 極右翼
  Hate is the fuel of facism. So if you blend discontent, the fact that most people can’t make ends meet, and you throw in there the hatred that is reinforced by the algorithms, that’s fascism.
 
-Stanley:
+
+
+Stanley 交作業 :
 作者認為社會結構(底層建築)改變才是正途，貨幣系統(意識形態)改變是附屬。
 
-在此把貨幣是為意識形態
+在此把貨幣視為意識型態的原因，是因為當代貨幣靠的是信任機制。
 
+意識形態不是沒有改變底層建築的案例(韋伯)
+
+CBDC－明恩的介紹－最好是央行在分散式鏈上發行CBDC
 
 台灣的例子
-文化幣／國民旅遊-應該補助商家還是發錢到人民手裡
+1.文化幣／國民旅遊-應該補助商家?還是直接發錢到人民手裡?
+2.台灣實驗教育三法通過之後的發展情況。
+
+
+
 
 
 
@@ -299,5 +316,5 @@ https://matters.town/a/s4f9kplbqior
 
 - 新資訊：DAOstar*邀請撰寫 The state of DAOs in Taiwan drafted 後annouced
 
-## 感謝大家 參與其中自己其實收穫一定最多的人之一
+## 感謝大家 參與其中 自己收穫一定是最多的人之一
 > 但錢包要守好

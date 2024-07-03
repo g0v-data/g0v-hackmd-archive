@@ -36,6 +36,9 @@ https://www.facebook.com/groups/718089658359103
 【FB 社團】地震，Taiwan Earthquake Research Center (TEC) 台灣地震科學中心 FB 社團
 https://www.facebook.com/groups/655046344513665
 
+雲林
+https://www.facebook.com/share/yrPhEd5iHNMHnYXm/
+
 綠島，聲音錄音設備
 https://www.facebook.com/story.php?story_fbid=pfbid0q65zFHMMZ5pqGSH9Y2DhR2rfsbUygVxWXzeDNiLQ1FyJyQnS67vqmbydaBXbKQTKl&id=100085888727555&mibextid=qC1gEa
 
