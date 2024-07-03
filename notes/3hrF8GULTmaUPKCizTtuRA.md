@@ -5,7 +5,7 @@ tags: web3, 廣場論說書
 * **Goal 主題**：廣場論書 #Fin. 雲端封建時代
 * **Time 時間**：2024/07/03 （三）21:00
 * **Link 連結**：https://meet.google.com/gft-ytiy-wjj
-* **Attendees 簽到**：
+* **Attendees 簽到**：Yii
     * Frank
 * **活動記錄貢獻者**
     * Frank
@@ -70,7 +70,19 @@ Yanis 訪談 web3
 
 
 * 問題
-- 
+- Yanis Varoufakis的Technofeudalism 提出了許多目前科技公司扭曲了我們的經濟制度的觀點，如．．．
+但未提解決方式，很高興看到今天提供的延伸閱讀資料：
+“歡迎來到Technofeudalism時代——接受《WIRED》雜誌採訪，2024/04/22”
+    https://www.yanisvaroufakis.eu/2024/04/22/welcome-to-the-age-of-technofeudalism-interviewed-by-wired-magazine/
+
+Yanis 提供幾個解決方法：
+1.在經濟方面，我們需要立即引入雲稅。 亞馬遜對其平臺上發生的每筆交易徵收5%的稅。 
+2.介紹一個你和我擁有數字身份的能力，這樣我們就不需要谷歌或臉書來擔保我們在網際網路上是誰。
+3.引入互操作性。 目前我在X上的粉絲不能在另一平台互通。為可互操作性，這樣我不會被任一平台隨意遮蔽。 
+4.Yanis 提到政府中沒有人在解決上述。
+我也想問，政府真的沒在做嗎？如果真如此，我們該如何向前邁進？
+（Yanis 説從政）
+
 
 * 相關文本
 - 遊戲經濟討論推薦
@@ -85,4 +97,5 @@ Yanis 訪談 web3
 - 歐洲左翼傳統 削弱當中
     - 支持烏克蘭 但絕對的反戰
     - 以哈對抗 支持巴勒斯坦
+
 
