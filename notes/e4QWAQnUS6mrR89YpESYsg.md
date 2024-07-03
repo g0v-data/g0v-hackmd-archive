@@ -16,7 +16,7 @@ WSL2 (win11)
 
 Visual Studio (win10)
 ---
-- [installation]()
+- [installation](https://hackmd.io/@HhXdDjl1QRy7AmCAHvaVJg/BJTC0lXvA)
 
 
 
