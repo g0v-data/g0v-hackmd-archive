@@ -27,6 +27,7 @@ tags: bayarea
 - chihao
 - ipa 
 - clkao
+- ...
 
 ## 歷次 g0v 灣區社群活動共筆參考
 
