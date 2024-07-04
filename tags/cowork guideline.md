@@ -2,10 +2,10 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [與 g0v 社群參與者相關的影片、紀錄片拍攝](../notes/oImzjz2XTciqP3lnbwkgKw.md) | 2024-06-22T19:25:00+08:00 | 2019-12-07T02:56:51+08:00 |
-| 2 | [g0v Slack 頻道列表與簡介短句整理成容易貼入 Slack 內的格式](../notes/NuhdUaTVRNykTqcstpM8VQ.md) | 2024-05-22T01:01:32+08:00 | 2022-06-24T21:58:02+08:00 |
-| 3 | [聊天頻道：Slack](../notes/PwJcrD23SBag6sg15epZMA.md) | 2024-05-02T09:57:14+08:00 | 2019-09-30T21:19:30+08:00 |
-| 4 | [以 g0v 為主題的學術研究Academic research on g0v](../notes/tpWNQTFvSOS_ZrSt2MiPWg.md) | 2024-04-27T13:42:46+08:00 | 2016-01-09T02:45:16+08:00 |
+| 1 | [以 g0v 為主題的學術研究Academic research on g0v](../notes/tpWNQTFvSOS_ZrSt2MiPWg.md) | 2024-07-04T19:03:09+08:00 | 2016-01-09T02:45:16+08:00 |
+| 2 | [與 g0v 社群參與者相關的影片、紀錄片拍攝](../notes/oImzjz2XTciqP3lnbwkgKw.md) | 2024-06-22T19:25:00+08:00 | 2019-12-07T02:56:51+08:00 |
+| 3 | [g0v Slack 頻道列表與簡介短句整理成容易貼入 Slack 內的格式](../notes/NuhdUaTVRNykTqcstpM8VQ.md) | 2024-05-22T01:01:32+08:00 | 2022-06-24T21:58:02+08:00 |
+| 4 | [聊天頻道：Slack](../notes/PwJcrD23SBag6sg15epZMA.md) | 2024-05-02T09:57:14+08:00 | 2019-09-30T21:19:30+08:00 |
 | 5 | [什麼是共筆？如何共筆？](../notes/VH876EtGQhWW8ivUGp0IPA.md) | 2024-04-20T16:17:30+08:00 | 2019-09-30T21:19:34+08:00 |
 | 6 | [什麼是開源（Open Source）與開源精神？](../notes/vzpxgXrlQrCWHa_TiqiRuA.md) | 2024-04-04T18:18:42+08:00 | 2019-09-30T21:19:04+08:00 |
 | 7 | [g0v 社群參與心得分享](../notes/VdmAs1YgRVWV4ixaXPCdpg.md) | 2024-03-09T01:27:37+08:00 | 2019-11-29T15:12:10+08:00 |
