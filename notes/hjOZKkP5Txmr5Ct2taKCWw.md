@@ -118,7 +118,7 @@ Before you can start using WebGPT, start by accessing the relevant platforms and
 ### Sign Up and Obtain an API Key
 Create an OpenAI account on the [website](https://platform.openai.com/signup). Proceed to the part of API and choose a subscription plan you desire. Your requests will be verified using the key that you have created during the process.
 
-Make sure you have a recent development environment that is connected to the internet before making an HTTP request. You can also prepare the necessary libraries for HTTP requests which are either [`axios`](https://axios-http.com/docs/intro) or [`fetch`](https://www.npmjs.com/package/node-fetch) in Java Script. The code shown below will teach you how you can install axios in Java script:
+Make sure you have a recent development environment that is connected to the internet before making an HTTP request. You can also prepare the necessary libraries for HTTP requests which are either [`axios`](https://axios-http.com/docs/intro) or [`fetch`](https://www.npmjs.com/package/node-fetch) in Java Script. The code shown below will teach you how you can install axios in Javascript:
 
 ```bash
 npm install axios
@@ -217,7 +217,7 @@ WebGPT is what you should opt for whenever you need information in real-time, re
 
 You can use the chatbot (ChatGPT) for general conversation or sharing information. It provides answers aligned with data up to 2023. Alternatively, access its older versions to get detailed historical information. Additionally, if you lack web connectivity or internet browsing capabilities.
 
-### A Cautionary Note
+### A Cautionary Note!
 For safe use of AI tools like WebGPT and ChatGPT, caution must be exercised to prevent misuse or abuse. Misinformation must be kept from spreading using these tools since there might be variance in response accuracy considering the information sourced during their training. Some risks exist in relying on AI solely when making important decisions because it may need to interpret every detail correctly due to inadequate knowledge.
 
 Moreover, it is necessary to make sure that all ethical issues are settled; this involves taking into account people’s privacy interests and avoiding hurting them deliberately by any information provided because it may result in its misuse causing physical or psychological damage. Such actions are detrimental since they make it hard for people to rely on these technologies anymore due to their reliability being questioned as a result of this. The responsible use consists of checking the facts from dependable resources and knowing how restrictedly these instruments function.

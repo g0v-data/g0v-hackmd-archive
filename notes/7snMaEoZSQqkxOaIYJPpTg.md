@@ -38,3 +38,5 @@ tags: GIS　
     - 可吸菸地點，Smoking Map 煙岸地帶 - 提供可吸菸地圖與回報協作程式：https://sch001.g0v.tw/dash/prj/PYkGZt71yQUqICKg5w09Gk1ta7x9kJ
     - 台灣菸蒂APP https://geniusforhome.mediatek.com/shortlisted
 - 東吳大學吸菸區選址研究 https://hackmd.io/@bruhthisisbad/BJCQo3Elq
+- 自製警語 
+    - https://www.facebook.com/share/p/3cmMTucqJ57GzybB/
