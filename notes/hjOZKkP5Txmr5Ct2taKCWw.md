@@ -15,6 +15,8 @@ For those front-end developers who must stay up-to-date with the evolving techno
 ## Core Features
 In this section, we'll examine the core features and capabilities of WebGPT.
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7d742e824a20e5bf886e9b2702563a4f.png)
+
 ### Web Browsing Abilities
 The ability of WebGPT to access the internet directly and retrieve data makes it a valuable tool for gathering detailed information on specific topics. In this case, a web developer working on a finance-related news site could utilize this technology to get the recent stock market updates ensuring all contents are up-to-date without fail. Also, a travel portal would employ it for getting live flight details including schedules while using HTML elements. By incorporating real-time variables, GPT makes sure that it keeps its information current and so enhances the pertinence and precision of its responses. To illustrate, an online shop could deploy WebGPT for displaying live product availability and prices coming from different online shops. This is not only useful in assisting the buyers to make buying decisions that are informed but also improves the entire user experience since it provides information that is dynamic and timely.
 
@@ -112,9 +114,9 @@ In practical terms, it has to be noted that scalability is a key issue, particul
 Before you can start using WebGPT, start by accessing the relevant platforms and tools for its incorporation. Begin with the OpenAI API to interact with it easily—the simplest way. This interface has all the necessary functions that help developers connect with WebGPT through queries and answers hence programming intelligent web-based programs leading to data utilization. The following steps should be observed:
 
 ### Sign Up and Obtain an API Key
-Create OpenAI account on the website. Proceed to the part of API and choose a subscription plan that you desire. Your requests will be verified using the key that you have created during the process.
+Create OpenAI account on the [website](https://platform.openai.com/signup). Proceed to the part of API and choose a subscription plan that you desire. Your requests will be verified using the key that you have created during the process.
 
-Make sure you have a recent development environment that is connected to the internet before making an HTTP request. You can also prepare the necessary libraries for HTTP requests which are either `axios` or `fetch` in Java Script or `requests` library in Python. The code shown below will teach you how you can install axios in Java script:
+Make sure you have a recent development environment that is connected to the internet before making an HTTP request. You can also prepare the necessary libraries for HTTP requests which are either [`axios`](https://axios-http.com/docs/intro) or [`fetch`](https://www.npmjs.com/package/node-fetch) in Java Script. The code shown below will teach you how you can install axios in Java script:
 
 ```bash
 npm install axios
@@ -154,7 +156,7 @@ This example shows how an initial call can be made to OpenAI's platform through 
 ### Basic Queries and Advanced Use Cases
 Play around with basic inquiries to observe how WebGPT responds to different query types. Example: "Tell me a joke." or "What is the capital of France?"
 
-You can also combine WebGPT and a database to come up with custom answers. For instance, a conversational agent that can utilize client records to offer accurate solutions. Such as embedding WebGPT and MySQL when creating a live chatbot.
+You can also combine WebGPT and a database to come up with custom answers. For instance, a conversational agent that can utilize client records to offer accurate solutions. Such as embedding WebGPT and [MySQL](https://www.mysql.com/) when creating a live chatbot.
 
 For example:
 
@@ -190,7 +192,7 @@ fetchPersonalizedResponse();
 In Node.js this script calls OpenAI’s API using `Axios`. Consequently, it creates John’s preference who loves blue color. There is a function `fetchPersonalizedResponse` that will ask about the kind of gifts he should get based on his favorite shade. It sends a request to OpenAI API with the prompt above specifying the limit for response tokens at 50.  When an API key is being passed through the authorization header a personal message about a Christmas present for John must be constructed by the same method. Further more, incase there is any error, please put it down in the console log. Therefore the immediate execution of the API request function is vital
 
 ### Follow Tutorials
-Check out the OpenAI documentation to learn about more advanced features and best practices, or consult community tutorials. You can also participate in various forums such as Stack Overflow or Reddit for help and sharing experiences.
+Check out the OpenAI [documentation](https://platform.openai.com/docs/introduction) to learn about more advanced features and best practices, or consult community tutorials. You can also participate in various forums such as [Stack Overflow](https://stackoverflow.com/) or [Reddit](https://www.reddit.com/) for help and sharing experiences.
 
 ## Conclusion
 WebGPT is an amazing tool for new front-end developers, which gives them a chance to grasp data, context, and content on-the-fly faster than ever before. When developers use this invention in the right way, they can build interactive websites with artificial intelligence features that are friendlier to users when compared with others hence promoting creativity to stay ahead of the game considering how technology advances quickly. 
