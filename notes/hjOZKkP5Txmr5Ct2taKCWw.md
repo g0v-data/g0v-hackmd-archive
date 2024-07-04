@@ -45,6 +45,25 @@ WebGPT produces replies that inform as well as they are clear. For example, a us
 
 To ensure meaningful responses, it is important to strike a balance between being accurate and being vague. It’s objective is to always provide relevant and valuable information that appeals directly to the intended recipient.  For example, consider a user who asks, “What are some good programming languages for web design.” In this case, there need to be several other determinants factored in before arriving at an answer, like popularity among programmers, simplicity level, and flexibility among others. For example, [JavaScript](https://www.javascript.com/) and [Python](https://www.python.org/) are usually recommended because they are the most preferred depending with ones taste.
 
+## Difference between WebGPT and ChatGPT
+I know you must have been asking what is the difference between WebGPT and ChatGPT 
+
+| Feature                        | WebGPT                                      | ChatGPT                                  |
+|--------------------------------|---------------------------------------------|------------------------------------------|
+| Purpose                        | Enhance response accuracy with web search   | General conversational AI                |
+| Web Access                     | Yes                                         | No                                       |
+| Training Data                  | Includes web scraping, curated data         | Pre-2023 data, no web scraping           |
+| Real-Time Information          | Yes                                         | No                                       |
+| Knowledge Cutoff               | Real-time (with browsing)                   | Fixed at September 2021                  |
+| Use Cases                      | Fact-checking, latest information queries   | General conversation, knowledge sharing  |
+| Customization                  | Can use real-time web data                  | Limited to pre-trained data              |
+| Reliability                    | Depends on web sources, real-time accuracy  | High, within the scope of its training data |
+| Examples of Usage              | News updates, latest tech, live events      | Historical facts, general knowledge      |
+| Interaction Style              | Directs user to web sources, cites links    | Conversational, provides comprehensive answers |
+
+This comparison highlights the key differences between WebGPT and ChatGPT, focusing on their functionalities, purposes, and use cases.
+
+
 ## As a Front-End Developer, Why is WebGPT Relevant to Me?
 Front-end developers advantage from WebGPT in various ways, essentially boosting several aspects of their work. Here are ways it is relevant to front-end developers:
 

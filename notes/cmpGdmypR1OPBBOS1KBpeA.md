@@ -126,6 +126,19 @@ Code with C language, instead of assembly language
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5e58309a73becca83c90f039aa076c57.png)
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ac1a7821a5780ef8c43292cd8ed9a964.png)
+
+定義Marco必須加入括弧，以確保結果正確
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fbd9376034fb59e457411237884b4fdf.png)
+
+留意Macro(X++)與Function(X++)結果可能不同(程式的順序性)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_274f51af1690b811a9ce8481904da149.png)
+
+EFI Data Type:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_786fb2cf1d926b69f8667a7ba665d6f5.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f17417a1638856c61cf9911317a71b70.png)
+註:int,char,unsigned,void,static不被EFI環境使用
 
 
 
