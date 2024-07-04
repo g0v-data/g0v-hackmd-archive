@@ -122,6 +122,12 @@ Boot drivers with BootOrder
 ====2024.7.4====暫停
 
 ## EFI Coding Convention :bulb: 
+Code with C language, instead of assembly language
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5e58309a73becca83c90f039aa076c57.png)
+
+
+
 
 ## EFI Serveice :bulb: 
 
