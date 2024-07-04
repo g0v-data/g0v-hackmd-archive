@@ -173,7 +173,9 @@ Include GUID, use EFI_GUID_DEFINITION (g)
 ```
 
 ==EFI Driver Template==
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d670629e99632a70640e4c2201d6107d.png)
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e46284c710aba6e5c4b09a597465f4c3.png)
 
 
 ## EFI Serveice :bulb: 
