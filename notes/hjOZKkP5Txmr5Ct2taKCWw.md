@@ -46,7 +46,7 @@ WebGPT produces replies that inform as well as they are clear. For example, a us
 To ensure meaningful responses, it is important to strike a balance between being accurate and being vague. It’s objective is to always provide relevant and valuable information that appeals directly to the intended recipient.  For example, consider a user who asks, “What are some good programming languages for web design.” In this case, there need to be several other determinants factored in before arriving at an answer, like popularity among programmers, simplicity level, and flexibility among others. For example, [JavaScript](https://www.javascript.com/) and [Python](https://www.python.org/) are usually recommended because they are the most preferred depending with ones taste.
 
 ## Difference between WebGPT and ChatGPT
-I know you must have been asking what is the difference between WebGPT and ChatGPT 
+You must have been wondering what distinguishes WebGPT from ChatGPT. This is a valid question since it is important to differentiate among them and know when one should be used for what purpose. The accompanying table illustrates differences in operation of these two AI tools.
 
 | Feature                        | WebGPT                                      | ChatGPT                                  |
 |--------------------------------|---------------------------------------------|------------------------------------------|
@@ -61,7 +61,13 @@ I know you must have been asking what is the difference between WebGPT and ChatG
 | Examples of Usage              | News updates, latest tech, live events      | Historical facts, general knowledge      |
 | Interaction Style              | Directs user to web sources, cites links    | Conversational, provides comprehensive answers |
 
-This comparison highlights the key differences between WebGPT and ChatGPT, focusing on their functionalities, purposes, and use cases.
+### When do I use these AI Tools?
+WebGPT is what you should opt for whenever you need information in real-time, require validation for facts and updated information, search for any current news, happenings, or fashions, or require the content updated dynamically and online.
+
+You can use the chatbot (ChatGPT) for general conversation or sharing information. It provides answers aligned with data up to 2023. Alternatively, access its older versions to get detailed historical information. Additionally, if you lack web connectivity or internet browsing capabilities.
+
+### A Caution!!!
+
 
 
 ## As a Front-End Developer, Why is WebGPT Relevant to Me?

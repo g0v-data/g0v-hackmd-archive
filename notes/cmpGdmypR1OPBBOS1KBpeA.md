@@ -140,6 +140,21 @@ EFI Data Type:
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f17417a1638856c61cf9911317a71b70.png)
 註:int,char,unsigned,void,static不被EFI環境使用
 
+Modifier修飾詞
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4478d68eb79870da42cc5720f85a6f07.png)
+
+Constant
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d561e0195bcca757753de364a1b2841e.png)
+
+#ifndef & #define變數前後加底線_
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_59f804e78d4b15a8dc0417d5cc44f427.png)
+
+IN & OUT補充
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_df2b190dff2eb0de83a46460e0aa5041.png)
+
+呼叫Function帶參數時用逗號換行
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d00799bb25a4bde18b67c644667f8826.png)
+
 
 
 ## EFI Serveice :bulb: 
