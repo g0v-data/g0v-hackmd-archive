@@ -236,6 +236,7 @@ tags: 新生流域
 - 首爾 https://www.facebook.com/share/r/hKwdpAxP7r9UdQAZ/
 - 首爾 https://www.facebook.com/share/p/xeWmUtvbXrAoRbtj/
 - 雲林溪 https://www.facebook.com/story.php?story_fbid=pfbid02fL8Ww5ZL4WP2XEEeiXYEv4tFRzgcJtHcvM4ZSYNGyN7h1vKWTc1r5YAUZM5UdK6rl&id=100067220707427&mibextid=qC1gEa
+    - https://www.facebook.com/share/p/Z5aGQnf2XbQ6CHUh/
 - 柳川運河的故事：https://m.bilibili.com/video/BV1wx411t73Z
 - 東京 深川地區 https://www3.nhk.or.jp/nhkworld/zt/shows/2102008/
 - 鴨川 https://www3.nhk.or.jp/nhkworld/zt/ondemand/video/2029183/
