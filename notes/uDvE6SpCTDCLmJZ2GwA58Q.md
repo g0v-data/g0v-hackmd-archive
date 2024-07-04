@@ -226,6 +226,7 @@ tags: 新生流域
 - Victoria 高架橋加掛自行車道 https://www.facebook.com/share/v/mmx3dpbGH4YF5fRA/ https://www.facebook.com/share/v/33Ja8u164HrnmEro/
 - 紐約高線公園 https://www.facebook.com/share/p/hyXmMpRmggQCA4nQ/
 - 柏林 U1 鐵軌高架下方的自行車道https://www.facebook.com/share/p/8ghwMUYxZn86qFcA/
+- Rio de janeiro 拆除高架橋 https://www.facebook.com/share/y3WAVJKR5VnS3TTQ/
 - 倫敦 公共藝術 forgetten stream https://www.facebook.com/share/r/jJLnBtdDXY8eQZ7w/ 
 - 荷蘭 Dommel 河流上的 藝術展演 https://www.facebook.com/share/v/Hx5yepyjbJ38eEdv/
 - 高架橋下 水域活動 http://www.nlarchitects.nl/slideshow/82

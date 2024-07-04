@@ -155,6 +155,25 @@ IN & OUT補充
 呼叫Function帶參數時用逗號換行
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d00799bb25a4bde18b67c644667f8826.png)
 
+File Template
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_23cbbb57547e688c3ed1677e07e1ea0e.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_84cc51e56412327472a30a8b36112d51.png)
+
+==Protocaol File Templates==
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c33b65e7a93d72851edef326b9f796cc.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7e72477f0f7516945ad2dce918ec3922.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0c1fac837a63368483f16783aaeb400c.png)
+
+Include GUID, use EFI_GUID_DEFINITION (g)
+```c=
+#include EFI_GUID_DEFINITION (GlobalVariable)
+```
+
+==EFI Driver Template==
+
 
 
 ## EFI Serveice :bulb: 
