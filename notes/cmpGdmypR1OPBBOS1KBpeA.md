@@ -95,17 +95,33 @@ typedef struct _PCI_DEVICE_PATH {
 
 
 #### EFI Driver Model
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_25a55a1ffb15e772954760d4215ac632.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b952b04ab125ad4a7b927fa802edc8ea.png)
 
+呼叫函式順序
+>Supported() check if supported, if yes, return EFI_SUCCESS
+>Start()
+>Stop()
 
-
+ConnectController()
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_08e556a8606f0cf63db1859ff74fbf55.png)
+DisconnectController()...
 
 #### Platform initialization
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2326a4f0e23a5f2a6e6e7ae220829013.png)
+
+### Handle Database
+Console Variables
+>ErrOut
+>ConOut
+>ConIn
 
 #### Boot manager and console management
+Boot drivers with BootOrder
 
+====2024.7.4====暫停
 
-
-## EFI Coding :bulb: 
+## EFI Coding Convention :bulb: 
 
 ## EFI Serveice :bulb: 
 
