@@ -1,7 +1,12 @@
 ## 2024/07/05(和James討論)
 
 1. 用SERP搭配HIX.AP([ArticleGPT](https://articlegpt.hix.ai/tw))可以快速生成新的Blog，並且搭配自己的GPT-API來節省不必要的開支
-2. 
+2. TikTok的「搜尋引擎最佳推播化」
+    * Keyword推流
+    * NavBooster拼短期/高曝光來觸發
+    * 地理區間分類
+    * 內容優化(行銷公司專長)、慣用內容推播
+    * 利用時間段來提供直播或影片的發放
 
 ## 2024/07/05工作計畫
 1. 與蕾姊同步工作上與Simon的規劃和內容
