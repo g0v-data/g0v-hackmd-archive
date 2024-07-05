@@ -247,6 +247,7 @@ tags: 新生流域
     - https://www.reddit.com/r/BeAmazed/comments/5xgvjb/drainage_canal_in_japan_is_so_clean_they_even/
     - https://www.nairaland.com/4534180/photos-prove-japan-not-like/2
 - 清邁 https://www.travelerluxe.com/article/desc/230009056
+- peru rimac river https://www.facebook.com/share/p/q68PjgtFNiSBAc8p/
 - 無車化方案的表現方法 Hamburgs famous Köhlbrand Bridge
     - https://www.facebook.com/visualutopias/posts/pfbid02EP9WzGwN7T4X9r9xN7oPskyjYFM8647xh6GaQgSAPN1pKw4rbX2guPbRDDu7BfgGl
 - 天母忠誠路 箱涵 https://www.facebook.com/story.php?story_fbid=pfbid0HELZ5eT18ZwvAEAzaZtdQ6p6qVvc72mKLSBGusqEpy2euCT5W3UUSzx9LBeTkwS7l&id=100064771413821&mibextid=qC1gEa
