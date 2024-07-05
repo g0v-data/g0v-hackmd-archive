@@ -19,6 +19,9 @@ tags: 都市農耕
 ## 地圖網址
 :::warning
 另開網頁：臺灣公共園圃地圖 Community Garden Map, TW https://maps.app.goo.gl/wBkZyPFzxa8G5cq19
+
+編輯網址：https://www.google.com/maps/d/u/0/edit?hl=zh-TW&mid=1U8yp4SZZn81OqXad1ztdObHf2is&ll=23.579885039086577%2C120.75102154239892&z=8
+
 :::
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1U8yp4SZZn81OqXad1ztdObHf2is&hl=en_US&ehbc=2E312F" width=100% height="500"></iframe>

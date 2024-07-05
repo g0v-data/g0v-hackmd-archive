@@ -1,18 +1,10 @@
 ---
-title: "臺北市政府公有資產資源平臺構想與實作歷程"
-tags: 公有地大行動,公有資產,hackpad
+tags: 公有地大行動,公有資產
 ---
 
 # 臺北市政府公有資產資源平臺構想與實作歷程
 
-說明：本頁面紀錄「公有地大行動」專案關注者，參與臺北市政府所主揪的會議，分享「天龍特公地」網站建置經驗，以及臺北市政府建置「臺北市市有閒置空間整合查詢平台」空間資料處理課題等過程
-- 政策最新網址：https://propertyspace.gov.taipei/
-- 庫存頁面：https://web.archive.org/web/20200517084338/https://www.reformspace.taipei/
-- 20211206 市政府釋出計畫宣傳影片：
-    - 短版：https://www.facebook.com/watch/?v=495404888361466
-    - 長版：https://youtu.be/FpI1dDW95oo
-
-<iframe width=100% height=490 src="https://www.youtube.com/embed/FpI1dDW95oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+說明：本頁面紀錄「公有地大行動」專案關注者，參與臺北市政府所主揪的會議，分享「天龍特公地」網站建置經驗，以及臺北市政府建置「臺北市市有閒置空間整合查詢平台」空間資料處理課題等過程，以及空間活化後政策續行階段。
 
 ---
 :::info
@@ -610,7 +602,15 @@ https://www.facebook.com/670946250032592/posts/1405657859894757/
 
 相關頁面：https://propertyspace.gov.taipei/
 
+### 財政局建立政策網頁
+- 政策網址：https://propertyspace.gov.taipei/
+- 庫存頁面：https://web.archive.org/web/20200517084338/https://www.reformspace.taipei/
+
 ### 20211206 市政府釋出計畫宣傳影片
+- 短版：https://www.facebook.com/watch/?v=495404888361466
+- 長版：https://youtu.be/FpI1dDW95oo
+
+<iframe width=100% height=490 src="https://www.youtube.com/embed/FpI1dDW95oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width=100% height=490 src="https://www.youtube.com/embed/FpI1dDW95oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -630,6 +630,70 @@ https://youtu.be/L5_InAFLSHg?t=1329
 
 <iframe width=100% height="490" src="https://www.youtube.com/embed/L5_InAFLSHg?start=1329" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 202405
+## 20240201 財政局公布新法，但並沒有廣為與社會各單位討論
+
+財政局新聞稿：臺北市公用不動產提供使用新法上路，使用年限延長為5年，租金計收兼具財政收益及公益性質
+- https://dof.gov.taipei/News_Content.aspx?n=133E08708C6AB0EA&sms=72544237BBE4C5F6&s=8B94A34DFD062CE7
+- 修正發布實施「臺北市市有公用不動產提供使用辦法」
+    - https://www.laws.taipei.gov.tw/Law/LawSearch/LawArticleContent/FL035285
+
+### 第 5 條
+
+公用不動產提供使用，應由管理機關檢附契約草案及其他相關資料，詳述提供使用緣由、期間、租金及適用法規，經專案簽報核准後辦理。
+
+前項專案簽報，如屬依第六條第三項第三款規定減收租金之案件，除前項文件外，並應檢附財務試算表等佐證文件。
+
+第一項專案簽報，應簽會本府財政局及法務局，陳報本府核准後辦理。但有下列情形之一，並以不低於附表計收租金且無政策特殊考量者，由本府各一級主管機關首長（各區公所陳報民政局）核准後逕予辦理，無須加會本府財政局及法務局：
+
+一、使用期限未逾一年，且無續約約定。
+二、提供自來水、電力、天然氣、電信、郵政或其他公用事業使用。
+三、提供本市機關學校員工（生）消費合作社使用。
+四、設置自動櫃員機、自動販賣機、快照站或其他簡易便民服務設施。
+五、申請續約條件未變更，且使用期間累計未超過九年。
+六、經公開招租無人投標，續辦招租且底價經減價後，未低於附表所列一般使用租金百分之六十計收。
+
+公用不動產提供移設道路上既有電力設施使用案件，經專案簽報核准者，不受第三條第二項及前三項規定之限制。
+
+圖表附件：附表 臺北市有公用不動產租金收費基準表.pdf
+
+### 第 6 條
+
+公用不動產有償提供使用，應計收租金，其租金不得低於附表之基準，除提供使用用途具公益性、公共性者，或屬附表特殊使用者外，並應參考市場行情、物價指數、使用目的等因素訂之。
+
+公用不動產有償提供使用用途經管理機關評估屬高商業價值者，得按承租人營業收入之一定比例加計租金。但供設置多媒體應用服務設施者，應按承租人營業收入加計百分之二以上之租金。
+
+公用不動產有償提供使用，管理機關得依下列規定減收租金：
+
+一、其他政府機關使用者，土地租金依土地申報地價年息百分之三計收。
+二、管理機關為推動業務，或使用用途經目的事業主管機關評估，基於政
+    策或法令規定，應予保障或輔導者，土地租金不得低於土地申報地價
+    年息百分之三計收。
+三、管理機關基於特殊考量，土地租金以低於土地申報地價年息百分之三
+    計收者，其所計收之租金總額，不得低於依法應繳納之地價稅及房屋
+    稅。
+
+圖表附件：附表 臺北市有公用不動產租金收費基準表.pdf
+
+### 第 7 條
+
+有下列情形之一者，公用不動產得無償提供非營利使用：
+
+一、其他政府機關或公立學校，設置戶外運動場所及相關設備、相關監測、測試設施或公車候車亭使用。
+
+二、其他政府機關或公立學校為交通安全、水土保持或防洪排水需要，設置護欄、護坡、箱涵或管線等相關設施使用。
+
+三、其他政府機關因應業務之急需使用、舉辦公益、節慶活動、政令宣導、軍事或防災等演習活動。
+
+四、管理機關所屬員工依工會法組成工會之辦公空間使用，且其全體會員均為本府所屬員工。
+
+五、法人或非法人團體配合管理機關或目的事業主管機關執行業務之使用。
+
+六、其他報經本府審議通過，不超過三年之閒置空間再利用計畫。
+
+## 202405 投入活化懷生國中職務宿舍的單位收到收回通知
 
 https://www.facebook.com/share/p/h676P6nQXPtRVJmn/
+
+## 202407 投入空間活化的單位收到收回通知
+
+
