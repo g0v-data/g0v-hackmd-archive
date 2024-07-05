@@ -206,8 +206,20 @@ init global variables: gST, gBS, gRT
 gBS->SetMem() & gBS->CopyMem()
 gBS->OpenProtocol() & gBS->CloseProtocol()
 
+#### Task Priority Level Services
+gBS->RaiseTPL() & gBS->RestoreTPL()
+
+#### Event Services
+gBS->CreateEvent(), gBS->SetTimer(), gBS->SignalEvent(), and
+gBS->CloseEvent()
 
 
+
+Wait for Event
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c4e9d1d222e5ebc223ccb7891f71bd2e.png)
+
+gBS->CheckEvent()
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a2211109a8e24198cddc9403b2279153.png)
 
 
 ## Driver Design :bulb: 
