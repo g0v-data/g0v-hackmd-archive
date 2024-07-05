@@ -192,10 +192,14 @@ init global variables: gST, gBS, gRT
 
 
 ## EFI Serveice :bulb: 
+#### Memory Services
+4GB:
+>gBS->AllocatePool()
+>gBS->FreePool()
 
-
-
-
+4KB: 
+>gBS->AllocatePages()
+>gBS->FreePages()
 
 
 
