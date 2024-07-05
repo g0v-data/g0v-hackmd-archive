@@ -1,28 +1,40 @@
 # 爬蟲 Crawler
 ## 目前程式
 ```
+import time
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 
 
 options = Options()
-options.chrome_executable_path = "chromedriver路徑"
+options.add_argument('--log-level=1')
+
+options.chrome_executable_path = "C:/Users/DT24007/Desktop/crawler/chromedriver.exe"
 
 driver = webdriver.Chrome(options = options)
-driver.get("https://oa.mega-insight.com/wui/index.html#/?logintype=1&time=1719884214301&_key=28cio7")
+driver.get("https://6765234.app.netsuite.com/app/login/secure/enterpriselogin.nl?c=6765234&redirect=%2Fapp%2Fcenter%2Fcard.nl%3Fsc%3D-29%26whence%3D&whence=")
 
-username = driver.find_element(By.ID, "loginid")
-password = driver.find_element(By.ID, "userpassword")
-submit = driver.find_element(By.ID, "submit")
-username.send_keys("DT24007")
-password.send_keys("DHf3771646")
+username = driver.find_element(By.ID, "email")
+password = driver.find_element(By.ID, "password")
+submit = driver.find_element(By.ID, "login-submit")
+username.send_keys("Amy.Hsieh@auodigitech.com")
+password.send_keys("Mala800402")
 submit.click()
 
+time.sleep(5)
 
+check = driver.find_element(By.ID, "null")
+check.send_keys("Amy")
+submit_button = driver.find_element(By.CLASS_NAME, "bgbutton")
+submit_button.click()
 
-driver.close()
+time.sleep(5)
+driver.quit()
 ```
 
 ## 基本框架

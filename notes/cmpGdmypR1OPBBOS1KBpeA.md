@@ -191,7 +191,9 @@ init global variables: gST, gBS, gRT
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5a274fb1cdfefd506ed0a201bfaee5e1.png)
 
 
-## EFI Serveice :bulb: 
+## EFI Serveice :bulb:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5085b4f6ca3b9ae69f45ed3ee3f0317d.png)
+
 #### Memory Services
 4GB:
 >gBS->AllocatePool()
@@ -200,6 +202,11 @@ init global variables: gST, gBS, gRT
 4KB: 
 >gBS->AllocatePages()
 >gBS->FreePages()
+
+gBS->SetMem() & gBS->CopyMem()
+gBS->OpenProtocol() & gBS->CloseProtocol()
+
+
 
 
 
