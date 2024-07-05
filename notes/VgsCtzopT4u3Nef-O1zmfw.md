@@ -28,10 +28,8 @@ Encryption protects data confidentiality by transforming data into an alternativ
 Encryption algorithms are functions that can work in both directions; therefore encrypted data can be decrypted if the right key is available. Usually, the size of encrypted data differs from the source one. A decoder uses characters to decrypt this formatted information.
 
 When it comes to hashing, computing is less intensive compared to the processes in encryption and decryption. Encryption is used to keep things a secret hence when the data is intercepted it cannot be understood by anyone without a certain key.
-Common use cases include:
-- Data Transmission: Encrypting data before sending it over the network to prevent eavesdropping.
-- Data Storage: Protecting sensitive data stored on disk to prevent unauthorized access.
-- Secure Communication: Enabling secure messaging and transactions.
+
+Make sure you encrypt your data anytime you send it through a network so that it can't be picked up by other people. As a preventive measure, it is essential to protect sensitive information on disks or any other storage devices from unauthorized access. For secure communication, there must be secure messaging services and tamper-proof messaging mechanisms.
 
 Popular Algorithms include:
 - [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) (Advanced Encryption Standard)
@@ -39,22 +37,22 @@ Popular Algorithms include:
 - [ECC](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) (Elliptic Curve Cryptography)
 
 ### When do I use Hashing?
-Use hashing (along with salting) to securely store passwords. Hash functions like [bcrypt](https://en.wikipedia.org/wiki/Bcrypt) or [Argon2](https://argon2-cffi.readthedocs.io/en/stable/argon2.html#:~:) are specifically designed for password hashing and provide additional security features such as key stretching. Also, use hashing to verify the integrity of data stored locally or fetched from a server.
+Passwords should be kept securely using employing hashing (salt included). Hash functions such as bcrypt or Argon2 were crafted particularly to hash passwords, hence providing extra security mechanisms such as key stretching. Also, apply hashing to confirm the data integrity of what was locally stored or fetched from the server.
 
 ### When do I use Encryption?
-Use encryption to protect sensitive data being transmitted over the network. For example, using [HTTPS](https://en.wikipedia.org/wiki/HTTPS) (which relies on [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) encryption) ensures data is encrypted during transit. Also, encrypt sensitive data stored on the device to prevent unauthorized access. Flutter plugins like [flutter_secure_storage](https://pub.dev/packages/flutter_secure_storage) can help manage encrypted data securely.
+Encrypting sensitive data being sent over a network is fundamental. As an illustration, HTTPS (which is reliant on TLS encryption) guarantees data encryption while it’s being transmitted. Moreover, sensitive data saved in the gadget should be encrypted to keep it away from unauthorized individuals. Encrypting sensitive data with flutter_secure_storage helps users control it.
 
 ### Verdict
-Both hashing and encryption are crucial for different aspects of security in Flutter applications. Hashing is best suited for ensuring data integrity and securely storing passwords. Encryption is essential for protecting the confidentiality of data during transmission and storage.
+Flutter applications' security heavily relies on how different roles perform hashing and encryption. Hashing is used to guarantee the integrity of data and securely store passwords. Data need to be encrypted to ensure that it is confidential when in transit or while stored.
 
-For a robust security strategy, it’s often necessary to use both techniques in conjunction. For instance, encrypt data before transmission and hash passwords for secure storage. Adopting a comprehensive approach to security will help safeguard the application against a wide range of threats.
+The adoption of a comprehensive measure toward security would aid in safeguarding an application from a vast array of threats. For example, one can encrypt transmitted information at first then store secure passwords through hashing. It's usually important to combine both methods.
 
 ## Implementing Password Hashing in Flutter
 
-To implement password hashing in a Flutter application, we can use the [crypto](https://pub.dev/packages/crypto) package. This example demonstrates how to hash a password using the SHA-256 algorithm.
+To perform password hashing in the context of a Flutter app, a software developer can utilize a crypto package. The following code snippet shows us how we can encrypt our regular plain text passwords which is a critical aspect when working with user authentication systems in modern web applications.
 
 ### The Process
-First, add the `crypto` package to your `pubspec.yaml` file:
+The first thing you need to do is to add the `crypto` package to your `pubspec.yaml` file:
 
 ```yaml
 name: your_project_name
@@ -79,9 +77,9 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 ```
-Make sure to replace your`_project_name` with the actual name of your project. This file includes the necessary `crypto` package version `^3.0.1` and standard dependencies for a Flutter project.
+It is important that you replace your_project_name with what you have named your project. This file contains the required crypto packager version ^3.0.1 as well as normal Flutter dependencies.
 
-Here is the code that incorporates the hashing and verification functions using the `dart:convert` and `crypto` packages in Dart, along with an example usage:
+The following is what includes the hash and verification functions that use dart:convert and crypto packages in Dart:
 
 ```dart
 import 'dart:convert';
@@ -114,44 +112,24 @@ void main() {
 ```
 
 Explanation:
-
-1. Import Packages:
-   - `dart:convert` is used for encoding the password to bytes.
-   - `crypto` is used for hashing the password using SHA-256.
-
-2. Hash Password Function (`hashPassword`):
-   - Converts the password to bytes using UTF-8 encoding.
-   - Hashes the bytes using SHA-256.
-   - Converts the hash digest to a string and returns it.
-
-3. Verify Password Function (`verifyPassword`):
-   - Hashes the entered password using the same method as the stored password.
-   - Compares the hash of the entered password with the stored hash.
-   - Returns `true` if they match, indicating the password is correct, otherwise `false`.
-
-4. Example Usage:
-   - Hashes the password "password" and prints the hashed password.
-   - Verifies the entered password "password" against the stored hash and prints whether the password is correct.
+* Import Packages: dart:convert is employed for encoding passwords into bytes. crypto is used to hash passwords using SHA-256.
+* Hash Password Function (hashPassword): Encodes password into bytes using UTF-8 encoding. Hash the bytes using SHA-256. Turn hash digest into a string and give it back.
+*  Verify Password Function (verifyPassword): The same method as that of the stored password is employed while hashing password which has been entered. Match the hash of the entered password with the hash of the stored password.
 
 Output:
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_499ed04e686604fba87f5866108cd4ff.gif)
 
-GIF: A user enters a password, clicks 'Hash Password' to generate a hash, and then verifies the password to change the verification status from false to true.
+GIF: A user carries on to enter a significant secret code in the specified box clicks “Hash Password” to hash the code and finally confirms to change the status from false to true.
 
 ## Enhancing Performance and Features
-Regular updates allow you to optimize your app's performance and introduce new features to meet evolving user expectations. In this section, we'll take a look at the various techniques for enhancing performance and features in our Flutter applications.
+By regularly updating it, it helps you improve how well your application runs as well as introduce upgrades that are meant to match what users look forward to. In this section, we will talk about varying ways of improving the performance and features of our Flutter applications.
 
 ### Utilizing new Flutter features
-When Flutter introduces new widgets or features, such as the introduction of [SliverAppBar](https://api.flutter.dev/flutter/material/SliverAppBar-class.html) for flexible app bars, incorporating these features can enhance the user experience and keep the app competitive.
+Incorporating these features might enrich the user experience and keep the app competitive when Flutter adds new widgets or capabilities, like the introduction of SliverAppBar for flexible app bars.
 
-For example, `SliverAppBar` allows developers to create app bars that smoothly expand and collapse as the user scrolls, providing a more dynamic and visually appealing experience. By utilizing this widget, apps can offer more intuitive navigation, better utilize screen space, and provide a more modern and polished look.
+An example of this is SliverAppBar which helps to make application bars that grow and shrink smoothly as the user scrolls — giving them a more fascinating experience. Employing this widget helps to make applications have a more modern and stylish design, offer an improved navigation system as well as maximize screen space utilization.
 
-Integrating new features like `SliverAppBar` demonstrates to users that the app is up-to-date and actively maintained. It also showcases the developer's commitment to improving the user experience and staying competitive in the market.
-
-Moreover, leveraging new Flutter widgets and features can enable developers to implement innovative UI designs and functionalities that set their apps apart from others. This differentiation can attract new users and retain existing ones by offering unique and compelling experiences.
-
-Additionally, staying updated with the latest Flutter features ensures compatibility with newer versions of the framework and takes advantage of performance optimizations and bug fixes. This contributes to a smoother and more stable app performance, enhancing user satisfaction.
-
+What does it mean by "integrating fresh capabilities such as SliverAppBar makes customers understand that the app is recent and maintained? Additionally, the feature shows the developer’s dedication to making the user experience better while at the same time being able to compete with others in the field.
 ### Optimizing app performance
 Continuous performance monitoring and optimization in Flutter are crucial for maintaining a high-quality user experience. Tools like Flutter's [PerformanceOverlay](https://api.flutter.dev/flutter/widgets/PerformanceOverlay-class.html) and [Dart DevTools](https://dart.dev/tools/dart-devtools) offer valuable insights into app performance metrics such as frame rate, GPU rendering time, and CPU usage. The `PerformanceOverlay` widget provides real-time feedback by overlaying these metrics directly onto the app's UI, helping developers quickly identify performance issues. 
 
