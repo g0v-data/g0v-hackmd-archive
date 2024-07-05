@@ -1,26 +1,21 @@
 # Flutter Fortified: Mastering Updates and Security
 
-In today's digital age, the security of user data and the seamless functioning of applications are paramount. As the demand for mobile apps continues to rise, developers face the challenge of not only creating feature-rich applications but also ensuring they are robust, secure, and up-to-date. This is where [Flutter](https://flutter.dev/), Google's open-source UI toolkit, shines, offering a comprehensive solution for building cross-platform apps with a single codebase.
+In this modern digital era, keeping users’ data safe and making sure that apps are working as expected is highly essential. While the need for mobile applications is increasing, it is upon developers today to create applications that are not only rich in features but also strong and updated. That is where Flutter which is Google’s open-source UI toolkit comes into play as it gives full answers for you when developing cross-platform apps using the same codebase.
 
-This guide focuses on securing and updating Flutter applications. It covers security practices for protecting user data. Additionally, it emphasizes the importance of regular updates for improving app performance, fixing bugs, and staying compatible with the latest OS versions. Following these best practices helps developers strengthen their Flutter apps against security threats and ensures they remain reliable and up-to-date.
+This article is geared towards securing and keeping Flutter applications current. Adherence to these procedures will ensure that one’s personal information is secure. Furthermore, it underscores the need for frequent software modifications to enhance effectiveness and eliminate any errors that might arise as well as testing on various versions so as not to lose relevance with time. Developers can be sure of the reliability of their products if they follow these rules while also protecting them from being hacked because developers could hack into someone else’s creation thereby causing their career harm if their application falls into unscrupulous hands.
 
 ## Hashing vs. Encryption
-Hashing and encryption are both essential security measures, but they serve different purposes and have distinct characteristics. Here’s a detailed comparison between the two in the context of protecting Flutter applications:
+Hashing is an important way to protect information and covers different aspects compared to encryption which is used to conceal plaintext. A Flutter application needs safeguarding – this article contains detailed information on how these compare.
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3ea5e5f58306bf2b3b2c545c378c07aa.jpg)
 
 
 ### Hashing
-Hashing is used to ensure data integrity and authenticate data. It converts data into a fixed-size string of characters, which is typically a digest that represents the data.
+We use hashing to know that data has not been tampered with as well as to verify data. Simply put, hashing turns the data into a unique size fixed that is normally represented by a digest string of characters. Hash functions have no reverse functions. Once the data is hashed, one cannot convert it back to the initial form. They return a uniform length result irrespective of how long the input size may be to ensure that the hash output is consistent. It’s deterministic such that any given input will always generate similar hashes.
 
-Hash functions are one-way, meaning once data is hashed, it cannot be reversed to its original form. They produce a fixed-length output regardless of the input size, ensuring consistency in the hash output. The process is deterministic, so the same input will always result in the same hash.
+Hashing algorithms are meant to be speedy and effective, thus facilitating rapid calculations. Additionally, a good hash function reduces the chances of two different inputs producing similar hash outputs.
 
-Hashing algorithms are designed to be fast and efficient, providing quick computations. A good hash function also minimizes the likelihood of collisions, where two different inputs produce the same hash output.
-
-Common use cases include:
-- Password Storage: Storing passwords securely by hashing them before saving them to the database.
-- Data Integrity Verification: Checking if data has been altered by comparing the hash of the data at different times.
-- Digital Signatures: Ensuring that the data has not been tampered with.
+To securely preserve email passwords, save them to the database as hashes first. Make sure data has not been altered based off how different instances of this data compare with themselves in terms of their hashes on those instances. This is done by making use digital signatures in order to confirm whether a given set of information has been interfered with or not.
 
 Popular Algorithms include:
 - [MD5](https://en.wikipedia.org/wiki/MD5) (though it is now considered weak and not recommended)
@@ -28,12 +23,11 @@ Popular Algorithms include:
 - [SHA-3](https://en.wikipedia.org/wiki/SHA-3)
 
 ### Encryption
-Encryption is used to protect the confidentiality of data. It transforms data into a different format such that only authorized parties can decrypt it back to the original form.
+Encryption protects data confidentiality by transforming data into an alternative format that only authorized persons can decipher back to the original form.
 
-Encryption algorithms are two-way functions, allowing encrypted data to be decrypted back to its original form using the appropriate key. The length of the encrypted output can vary and is often longer than the original data. The security of encryption relies on the use of keys, making decryption practically impossible without the correct key. 
+Encryption algorithms are functions that can work in both directions; therefore encrypted data can be decrypted if the right key is available. Usually, the size of encrypted data differs from the source one. A decoder uses characters to decrypt this formatted information.
 
-Encryption and decryption processes are generally more computationally intensive compared to hashing. Encryption ensures confidentiality, so even if data is intercepted, it cannot be read without the key.
-
+When it comes to hashing, computing is less intensive compared to the processes in encryption and decryption. Encryption is used to keep things a secret hence when the data is intercepted it cannot be understood by anyone without a certain key.
 Common use cases include:
 - Data Transmission: Encrypting data before sending it over the network to prevent eavesdropping.
 - Data Storage: Protecting sensitive data stored on disk to prevent unauthorized access.
