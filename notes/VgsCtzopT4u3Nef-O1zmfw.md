@@ -23,13 +23,9 @@ Popular Algorithms include:
 - [SHA-3](https://en.wikipedia.org/wiki/SHA-3)
 
 ### Encryption
-Encryption protects data confidentiality by transforming data into an alternative format that only authorized persons can decipher back to the original form.
+Encryption protects data confidentiality by transforming data into an alternative format that only authorized persons can decipher back to the original form. Encryption algorithms are functions that can work in both directions; therefore encrypted data can be decrypted if the right key is available. Usually, the size of encrypted data differs from the source one. A decoder uses characters to decrypt this formatted information.
 
-Encryption algorithms are functions that can work in both directions; therefore encrypted data can be decrypted if the right key is available. Usually, the size of encrypted data differs from the source one. A decoder uses characters to decrypt this formatted information.
-
-When it comes to hashing, computing is less intensive compared to the processes in encryption and decryption. Encryption is used to keep things a secret hence when the data is intercepted it cannot be understood by anyone without a certain key.
-
-Make sure you encrypt your data anytime you send it through a network so that it can't be picked up by other people. As a preventive measure, it is essential to protect sensitive information on disks or any other storage devices from unauthorized access. For secure communication, there must be secure messaging services and tamper-proof messaging mechanisms.
+Encryption is used to keep things a secret hence when the data is intercepted it cannot be understood by anyone without a certain key. Make sure you encrypt your data anytime you send it through a network so that it can't be picked up by other people. As a preventive measure, it is essential to protect sensitive information on disks or any other storage devices from unauthorized access. For secure communication, there must be secure messaging services and tamper-proof messaging mechanisms.
 
 Popular Algorithms include:
 - [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) (Advanced Encryption Standard)
@@ -40,7 +36,7 @@ Popular Algorithms include:
 Passwords should be kept securely using employing hashing (salt included). Hash functions such as [bcrypt](https://www.npmjs.com/package/bcrypt) or [Argon2](https://www.npmjs.com/package/argon2) were crafted particularly to hash passwords, hence providing extra security mechanisms such as key stretching. Also, apply hashing to confirm the data integrity of what was locally stored or fetched from the server.
 
 ### When do I use Encryption?
-Encrypting sensitive data being sent over a network is fundamental. As an illustration, [HTTPS](https://en.wikipedia.org/wiki/HTTPS) (which is reliant on [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) encryption) guarantees data encryption while it’s being transmitted. Moreover, sensitive data saved in the gadget should be encrypted to keep it away from unauthorized individuals. Encrypting sensitive data with flutter_secure_storage helps users control it.
+Encrypting sensitive data being sent over a network is fundamental. As an illustration, [HTTPS](https://en.wikipedia.org/wiki/HTTPS) (which is reliant on [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) encryption) guarantees data encryption while it’s being transmitted. Moreover, sensitive data saved in the gadget should be encrypted to keep it away from unauthorized individuals. Encrypting sensitive data with [flutter_secure_storage](https://pub.dev/packages/flutter_secure_storage) helps users control it.
 
 ### Verdict
 Flutter applications' security heavily relies on how different roles perform hashing and encryption. Hashing is used to guarantee the integrity of data and securely store passwords. Data need to be encrypted to ensure that it is confidential when in transit or while stored.
@@ -48,7 +44,6 @@ Flutter applications' security heavily relies on how different roles perform has
 The adoption of a comprehensive measure toward security would aid in safeguarding an application from a vast array of threats. For example, one can encrypt transmitted information at first then store secure passwords through hashing. It's usually important to combine both methods.
 
 ## Implementing Password Hashing in Flutter
-
 To perform password hashing in the context of a Flutter app, a software developer can utilize a crypto package. The following code snippet shows us how we can encrypt our regular plain text passwords which is a critical aspect when working with user authentication systems in modern web applications.
 
 ### The Process
@@ -79,7 +74,7 @@ flutter:
 ```
 It is important that you replace `your_project_name` with what you have named your project. This file contains the required `crypto` packager version `^3.0.1` as well as normal Flutter dependencies.
 
-The following is what includes the hash and verification functions that use dart:convert and crypto packages in Dart:
+The following is what includes the hash and verification functions that use [dart:convert](https://api.dart.dev/dart-convert/dart-convert-library.html) and [crypto](https://pub.dev/packages/crypto) packages in Dart:
 
 ```dart
 import 'dart:convert';
@@ -128,12 +123,12 @@ By regularly updating it, it helps you improve how well your application runs as
 ### Utilizing new Flutter features
 Incorporating these features might enrich the user experience and keep the app competitive when Flutter adds new widgets or capabilities, like the introduction of [SliverAppBar](https://api.flutter.dev/flutter/material/SliverAppBar-class.html) for flexible app bars.
 
-An example of this is SliverAppBar which helps to make application bars that grow and shrink smoothly as the user scrolls — giving them a more fascinating experience. Employing this widget helps to make applications have a more modern and stylish design, offer an improved navigation system as well as maximize screen space utilization.
+An example of this is `SliverAppBar` which helps to make application bars that grow and shrink smoothly as the user scrolls — giving them a more fascinating experience. Employing this widget helps to make applications have a more modern and stylish design, offer an improved navigation system as well as maximize screen space utilization.
 
-What does it mean by "integrating fresh capabilities such as SliverAppBar makes customers understand that the app is recent and maintained? Additionally, the feature shows the developer’s dedication to making the user experience better while at the same time being able to compete with others in the field.
+What does it mean by "integrating fresh capabilities such as `SliverAppBar` makes customers understand that the app is recent and maintained? Additionally, the feature shows the developer’s dedication to making the user experience better while at the same time being able to compete with others in the field.
 
 ### Optimizing app performance
-For Flutter to remain a carefully planned user expertise one should be in the operation of the app frequently checking and making it better accordingly whereby he can use [PerformanceOverlay](https://docs.flutter.dev/perf/ui-performance) or [Dart DevTools](https://dart.dev/tools/dart-devtools) among other tools that provides information about frame rate and GPU render time. Developers can use the live feedback feature in PerformanceOverlay where the metrics are displayed on top of the application thereby enabling them to spot any screen lagging within seconds.
+For Flutter to remain a carefully planned user expertise one should be in the operation of the app frequently checking and making it better accordingly whereby he can use [PerformanceOverlay](https://docs.flutter.dev/perf/ui-performance) or [Dart DevTools](https://dart.dev/tools/dart-devtools) among other tools that provides information about frame rate and GPU render time. Developers can use the live feedback feature in `PerformanceOverlay` where the metrics are displayed on top of the application thereby enabling them to spot any screen lagging within seconds.
 
 Dart DevTools include many useful performance analysis tools that help developers in analyzing and optimizing the performance of their applications in details. An example of this is to avoid unnecessary rebuilds by using the const constructor for widgets that do not change hence making the app faster. It is important for developers to continually observe their applications for performance bottlenecks especially when they become more sophisticated, so that they can still be fast and reliable.
 
@@ -143,7 +138,7 @@ Bug fixes are important for ensuring that your app made using Flutter remains st
 It’s crucial to identify bugs efficiently by monitoring and testing them continuously and then prioritizing the fixes based on severity and user impact. When members of a team collaborate and take advantage of user feedback, it is easier to resolve bugs. A proactive approach towards fixing bugs guarantees an app with no disruptions, which earns trust from the clients leading to loyalty.
 
 ### Identifying and fixing common bugs
-It is very important to keep a close eye on the crash reports as well as user feedback all the time so that any common issues can be identified and solved in your Flutter app. If developers keep an eye on crashes as well as user complaints, they will be able to find out how often some types of problems like memory leakages, which cause apps to crash after running for long periods repeatedly occur these problems can then be corrected. Fialing (Filyng) quickly mends such errors and substantially boosts app steadiness together with enhancing the generality of consumer performance.
+It is very important to keep a close eye on the crash reports as well as user feedback all the time so that any common issues can be identified and solved in your Flutter app. If developers keep an eye on crashes as well as user complaints, they will be able to find out how often some types of problems like memory leakages, which cause apps to crash after running for long periods repeatedly occur these problems can then be corrected.
 
 Showing the resolution of these issues by developers helps reassure users that the app will function properly all the time. Also, dealing with them will keep bad reviews at bay while minimizing user dissatisfaction. Additionally, developers need to implement solutions based on crash reports and feedback so that the app works well on different devices as well as conditions. This way, the app will succeed in the long run since it never disappoints its customers.
 
@@ -178,7 +173,7 @@ To keep app stability and compatibility up-to-date it is important to keep track
 It is very important for app security if often people check Flutter release notes for security patches and updates. Security tokens help in addressing vulnerabilities like [XSS ](https://en.wikipedia.org/wiki/Cross-site_scripting)vulnerabilities in plugins for example [webview_flutter](https://pub.dev/packages/webview_flutter) among many other things. When developers are more informed they can be able to set up resource for testing new features better than before which is good because then they can know what they should do first most especially when it comes time to test these fresh capabilities. That also helps us show our commitment to data safety concerning the customers’ information and the clients themselves do trust us. To get detailed information about security patches and recommended actions subscribe to official Flutter channels like the [blog](https://docs.flutter.dev/release/whats-new) or [GitHub](https://github.com/) repository. This will help to ensure safety and protect apps from potential threats by using this active strategy.
 
 ### Understanding security patches
-Regarding the safety loopholes that Flutter and its plugins are facing to protect user data, maintaining the safety of any app requires that one is frequently updated on it. Thus, if we were to consider an instance whereby the [shared_preferences](https://pub.dev/packages/shared_preferences) plugin had undergone a flaw that made it possible for confidential information to be leaked; then there was no alternative but for programmers using this service to be forced to quickly switch to fixed versions. In addition, any potential risk may be managed through regular monitoring of insecurities notifications as well as being a member of such things as Flutter’s forums among others which will make it easier so long those who participate avoid any kind or form of threats. By incorporating some security protocols like encrypting data and secure authentication, we boost security levels in our apps Development, debugging, or deployment of Flutters should ensure that security flaws are exposed early and tackled in time for seamless operations and secure data privacy.
+Regarding the safety loopholes that Flutter and its plugins are facing to protect user data, maintaining the safety of any app requires that one is frequently updated on it. Thus, if we were to consider an instance whereby the [shared_preferences](https://pub.dev/packages/shared_preferences) plugin had undergone a flaw that made it possible for confidential information to be leaked; then there was no alternative but for programmers using this service to be forced to quickly switch to fixed versions. In addition, any potential risk may be managed through regular monitoring of insecurities notifications as well as being a member of such things as Flutter’s forums among others which will make it easier so long those who participate avoid any kind or form of threats. By incorporating some security protocols like encrypting data and secure authentication, we boost security levels in our apps development, debugging, or deployment of Flutters should ensure that security flaws are exposed early and tackled in time for seamless operations and secure data privacy.
 
 ### Automated Testing
 It’s very important to do automated testing using the [flutter_test](https://api.flutter.dev/flutter/flutter_test/flutter_test-library.html) mechanisms within Flutter in order to validate app’s behavior and secure it. For instance, if we take unit tests; they test if user data is cleaned up well before any [SQL](https://www.mysql.com/) code execution that could lead to an injection attack on servers when there are no proper security measures in place. 
