@@ -5,7 +5,7 @@ In this modern digital era, keeping users’ data safe and making sure that apps
 This article is geared towards securing and keeping Flutter applications current. Adherence to these procedures will ensure that one’s personal information is secure. Furthermore, it underscores the need for frequent software modifications to enhance effectiveness and eliminate any errors that might arise as well as testing on various versions so as not to lose relevance with time. Developers can be sure of the reliability of their products if they follow these rules while also protecting them from being hacked because developers could hack into someone else’s creation thereby causing their career harm if their application falls into unscrupulous hands.
 
 ## Hashing vs. Encryption
-Hashing is an important way to protect information and covers different aspects compared to encryption which is used to conceal plaintext. A Flutter application needs safeguarding – this article contains detailed information on how these compare.
+Hashing is an important way to protect information and covers different aspects compared to encryption which is used to conceal plaintext. A Flutter application needs safeguarding – this section contains detailed information on how these compare.
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3ea5e5f58306bf2b3b2c545c378c07aa.jpg)
 
@@ -44,7 +44,7 @@ Flutter applications' security heavily relies on how different roles perform has
 The adoption of a comprehensive measure toward security would aid in safeguarding an application from a vast array of threats. For example, one can encrypt transmitted information at first and then store secure passwords through hashing. It's usually important to combine both methods.
 
 ## Implementing Password Hashing in Flutter
-To perform password hashing in the context of a Flutter app, a software developer can utilize a crypto package. The following code snippet shows us how we can encrypt our regular plain text passwords which is a critical aspect when working with user authentication systems in modern web applications.
+To perform password hashing in the context of a Flutter app, a software developer can utilize a [crypto](https://pub.dev/packages/crypto) package. The following code snippet shows us how we can encrypt our regular plain text passwords which is a critical aspect when working with user authentication systems in modern web applications.
 
 ### The Process
 The first thing you need to do is to add the `crypto` package to your `pubspec.yaml` file:
