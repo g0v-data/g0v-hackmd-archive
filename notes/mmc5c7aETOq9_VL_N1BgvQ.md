@@ -1,4 +1,5 @@
----
+> []---
+> []
 tags: 國會松
 ---
 
@@ -38,12 +39,25 @@ tags: 國會松
 | 提案名稱 | 提案人稱呼 | 提案網址或內容   |
 | -------- | ---------- | ---------------- |
 | 自由填寫 | 自由填寫   | 自由向下新增行列 |
-| 台灣人的開放國會行動方案 | Ronny | [投影片](https://docs.google.com/presentation/d/1S8bZWYAvyweEFHVt6frD7NXpCAV8xC1OQTZdVIRZUn4/edit?usp=sharing) |
-| 來看看法是誰改的，誰說了什麼（以道路交通安全條例為例） | Ronny | |
+| 台灣人的開放國會行動方案 | Ronny | [投影片](https://docs.google.com/presentation/d/1S8bZWYAvyweEFHVt6frD7NXpCAV8xC1OQTZdVIRZUn4/edit?usp=sharing) [2024開放國會行動方案](/8uTwZDmoR_yHT_Z-ahUYWw) |
+| 來看看法是誰改的，誰說了什麼（以道路交通安全條例為例） | Ronny | [找國會資料經驗分享](/wpu8nBoKQM-KuHIPa13DoQ) |
+| dataly 和 ivod 資訊分享 | tmonk | [dataly](https://dataly.openfun.app) |
+|chewing-cow 文字資料結構話 package|tmonk|[ivod 事由摘要](https://docs.google.com/spreadsheets/d/1hqK41x8hlpgAxTHyssdwlOn_HD2rrOX-RD8KeBBa220/edit?gid=0#gid=0)|
+|國會識讀如何在日常落實？《立法院大小聲》[推廣經驗](https://www.instagram.com/reel/CzknJksBZhx)分享| Denken ||
 
 ## 簽名區
 來者何人，留下名稱！（請自由留下自己的暱稱或稱呼）
-
+Ronny: 國會松坑主，爬資料，開放國會
+SeanGau: 工程師、影像工作者、劇場人
+tmonk: 後端工程師、直播工作者
+Eli: 研究生、底層學術工、社會運動研究
+simon:研究生、歷史研究
+Denken: 立法院大小聲、App 開發者、web3 / DID
+Cynthia:研究助理、圖資、資料整理、英文翻譯
+Ray:研究助理、歷史研究、有NPO工作經驗
+Senji:前端工程師、最近想考資管所ㄌ><
+Roger: 資料分析師
+PL: 遊民now、媒體識讀、父親
 ## 成果區
 
 ---
