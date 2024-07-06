@@ -92,3 +92,9 @@ g0v 網站：
 
 ＯＯＯＯ 小組 敬上(?)
 
+---
+
+# 涉及 g0v 字樣的詐騙訊息，具體案例
+
+MyG0v
+https://www.facebook.com/groups/g0v.general/posts/7507268572682817/

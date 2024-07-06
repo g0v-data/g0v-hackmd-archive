@@ -33,13 +33,13 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #re-place 關於如何移住、回到故鄉，以及城市人如何與地方一起打造新故鄉的實踐
 #hk https://github.com/g0vhk-io
 #hkpwparagliding 飛行傘計畫
-#thai-ภาษาไทย 泰國頻道
-#tiếngviệt-vietnam 越南
+#thai-ภาษาไทย 泰國與泰語
+#tiếngviệt-vietnam 越南與越語
 #nepali-नेपाली
-#australia
+#australia 澳洲
 #north-america 想在美國協作的可以來這邊聊天喔！
 #g0v-siliconvalley g0v 矽谷灣區小聚
-#london-hacknight 倫敦
+#london-hacknight
 #london-proj-andover
 #deutschland-germany 德國與德語區
 #g0v-it https://github.com/g0v-it
@@ -50,10 +50,12 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 
 #rand0m 歡迎自由灌水閒聊 :smile: Feel free to chat here.
 #self-intro 歡迎來到 g0v-slack，這是自我介紹的頻道，可以讓大家認識你唷！Welcome to g0v slack! Please introduce yourself to g0v community :heart:
-#joinchannel 提供各式各樣的頻道簡介，以及傳送門 G0v slack channels discussions.
+#joinchannel-slack-頻道名稱彙整 提供各式各樣的頻道簡介，以及傳送門 G0v slack channels discussions.
 #awesome-g0v-projects 令人驚奇的零時政府。找專案，找提案，找共筆，找幫手 一站搞定
-#jothon	揪松團相關活動討論（黑客松、基礎松）
-#fundraising-募款執行
+#jothon 揪松團相關活動討論（黑客松、基礎松）
+#fundraising-救松團-募款執行 
+#community99-社群九分鐘-撰寫工作頻道 
+#g0v-database-專案清單-基礎建設清單
 #translation 翻譯頻道 i18n + l10n—translate everything.
 #localization 社群翻譯語彙庫 (glossary)，從軟體在地化需求出發，收集個別社群成員、在各自筆譯／口譯／翻譯專案使用的詞彙前進，並希望收錄不只一個語言。
 #name 專案取名稱的互助頻道
@@ -88,6 +90,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #amis 阿美語萌典
 #itaigi	愛台語 對漢字佮台羅誠熟手，做伙鬥校對巡喲
 #chhoetaigi ChhoeTaigi 台語辭典⁺
+#taiwanbooks 矽谷圖書館台灣書籍植入計畫
 #edu 零時小學校「開源協作與教育工作」主頻道
 #edu-aray 公民科技貢獻者的專案與任務視覺化平台
 #edu-accomdemy 伴伴學社群頻道
@@ -207,6 +210,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #adiz_alerts 台灣防空識別區專案
 #cd-t-time 民防下午茶
 #atak 探討 ATAK-CIV 手機軟體應用於防災、民防、戶外任務情境
+#mesh Meshtastic Taiwan Community 臺灣鏈網
 #disaster-go 任務化提升台灣防災準備
 #gis 地理資訊、地理資料 🌏 Geo-data
 #rentea	租屋資料與議題
@@ -224,7 +228,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #poponfire-公有地大行動 公有土地資料與地圖 Public Land Data
 #joinplus-關注公民參與的數位工具
 #carbon
-#river
+#river 河流與流域
 #super-agri 超農域，農藥查詢系統，南庄桐花松，農業資料與專案 🌾 Agriculture related projects
 #tree 遙測算樹、圖資找地、倡議種樹 🌳
 #foodlessons 食食課課 從食物連結生活與文化
@@ -239,29 +243,29 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 https://g0v-slack-archive.g0v.ronny.tw
 
 ## 非 slack 的討論區：Facebook Group
-- 零時小學校 Facebook Group: https://www.facebook.com/groups/240879797438433
-- 資料申請小幫手 Facebook Group: https://www.facebook.com/groups/2819127468115692/
-- 【Cofacts 真的假的】編輯交流天地 Facebook Group: https://www.facebook.com/groups/1847232902175197
-- 開放政治獻金討論: https://www.facebook.com/groups/271528425531357
-- g0v 灣區社群: https://www.facebook.com/groups/824770435679041/
+．零時小學校 Facebook Group: https://www.facebook.com/groups/240879797438433
+．資料申請小幫手 Facebook Group: https://www.facebook.com/groups/2819127468115692/
+．【Cofacts 真的假的】編輯交流天地 Facebook Group: https://www.facebook.com/groups/1847232902175197
+．開放政治獻金討論: https://www.facebook.com/groups/271528425531357
+．g0v 灣區社群: https://www.facebook.com/groups/824770435679041/
 
 ## 非 slack 的討論區：Discord
-- g0v-MARS 移民計劃 Discord: https://discord.gg/3XJVmscpfq
-- 【Cofacts 真的假的】Discord: https://discord.gg/mmZS9sZuau
-- 確診者足跡地圖 Discord: https://discord.gg/ePKuRGE9sF
-- 零時小學校 Discord: https://discord.gg/csDjWBbhvf
-- UniCourse 大學課程資訊交流平臺 Discord: https://discord.gg/VtFzwAdrXF
-- Lipoic 遠距授課與線上教室平台 Discord: https://discord.gg/ArKk54ajfr
-- 翻轉歷史! 用Minecraft RPG 學歷史吧! Discord: https://discord.gg/e6vhTq43gs
-- 綠洲計畫 - 特殊選才資訊&經驗分享平台 Discord: https://linktr.ee/lzgh2023
-- 開源星手村 桌遊製作與推廣 Discord: https://discord.gg/SFY2JwdBr9
-- Grapycal 圖形化程式語言 Discord: https://discord.com/invite/adNQcS42CT
-- 中學資訊討論群 CISC Discord: https://discord.gg/cisc
-- 北臺灣學生資訊社群 Discord: https://discord.scint.org/
-- 中部高中電資社團聯合會議 Discord: https://discord.com/invite/neQ7QEUcqe
-- 南臺灣學生資訊社群 Discord: https://discord.gg/6QW6gqhHQe 
-- 伴伴學 Discord: https://discord.gg/azQUs8Y2fY
-- 族語復振 Sowal no Formosa https://discord.gg/wSECrwgqhV
+．g0v-MARS 移民計劃 Discord: https://discord.gg/3XJVmscpfq
+．【Cofacts 真的假的】Discord: https://discord.gg/mmZS9sZuau
+．確診者足跡地圖 Discord: https://discord.gg/ePKuRGE9sF
+．零時小學校 Discord: https://discord.gg/csDjWBbhvf
+．UniCourse 大學課程資訊交流平臺 Discord: https://discord.gg/VtFzwAdrXF
+．Lipoic 遠距授課與線上教室平台 Discord: https://discord.gg/ArKk54ajfr
+．翻轉歷史! 用Minecraft RPG 學歷史吧! Discord: https://discord.gg/e6vhTq43gs
+．綠洲計畫 - 特殊選才資訊&經驗分享平台 Discord: https://linktr.ee/lzgh2023
+．開源星手村 桌遊製作與推廣 Discord: https://discord.gg/SFY2JwdBr9
+．Grapycal 圖形化程式語言 Discord: https://discord.com/invite/adNQcS42CT
+．中學資訊討論群 CISC Discord: https://discord.gg/cisc
+．北臺灣學生資訊社群 Discord: https://discord.scint.org/
+．中部高中電資社團聯合會議 Discord: https://discord.com/invite/neQ7QEUcqe
+．南臺灣學生資訊社群 Discord: https://discord.gg/6QW6gqhHQe 
+．伴伴學 Discord: https://discord.gg/azQUs8Y2fY
+．族語復振 Sowal no Formosa https://discord.gg/wSECrwgqhV
 
 ---
 
