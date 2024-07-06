@@ -21,6 +21,10 @@ image: https://raw.githubusercontent.com/g0v/style-guide/gh-pages/logo/png/g0v-l
 - [公報冊、公報章](https://g0v.hackmd.io/00oYoI4YRCqrtf7pEXy6Nw)
 - [法條與法律沿革](https://g0v.hackmd.io/q5HjbeiQQYCKLZZYklV0Ag)
 - [國會如何運作？](https://g0v.hackmd.io/MrJwX3PzSRGql0d5egpuyw?view)
+- [找國會資料經驗分享](/wpu8nBoKQM-KuHIPa13DoQ)
+
+## 專案共筆區
+- [2024開放國會行動方案](/8uTwZDmoR_yHT_Z-ahUYWw)
 
 ## 捐款支持 g0v 社群
 
