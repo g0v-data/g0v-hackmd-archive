@@ -53,13 +53,24 @@ tmonk: 後端工程師、直播工作者
 Eli: 研究生、底層學術工、社會運動研究
 simon:研究生、歷史研究
 Denken: 立法院大小聲、App 開發者、web3 / DID
-Cynthia:研究助理、圖資、資料整理、英文翻譯
+Cyn:研究助理、圖資、資料整理、英文翻譯
 Ray:研究助理、歷史研究、有NPO工作經驗
 Senji:前端工程師、最近想考資管所ㄌ><
 Roger: 資料分析師
 PL: 遊民now、媒體識讀、父親
-## 成果區
 
+## 成果區
+### 開放國會行動方案 2024
+- [2024開放國會行動方案](/8uTwZDmoR_yHT_Z-ahUYWw)
+- chewing-cow by tmonk
+    - [chewing-cow 成果截圖](https://i.imgur.com/W1lseEo.png)
+    - [composer page](https://packagist.org/packages/openfun/chewing-cow)
+    - [github repo](https://github.com/openfunltd/chewing-cow)
+- 《立法院大小聲》介面功能發展方向
+- 公督盟利益分享
+    - 公督盟想要整理過去有哪些國會改革相關法案
+    - 想要比較過去逕付二讀
+    - 
 ---
 [Back to the top](#)
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
