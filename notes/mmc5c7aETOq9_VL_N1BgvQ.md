@@ -42,7 +42,7 @@ tags: 國會松
 | 台灣人的開放國會行動方案 | Ronny | [投影片](https://docs.google.com/presentation/d/1S8bZWYAvyweEFHVt6frD7NXpCAV8xC1OQTZdVIRZUn4/edit?usp=sharing) [2024開放國會行動方案](/8uTwZDmoR_yHT_Z-ahUYWw) |
 | 來看看法是誰改的，誰說了什麼（以道路交通安全條例為例） | Ronny | [找國會資料經驗分享](/wpu8nBoKQM-KuHIPa13DoQ) |
 | dataly 和 ivod 資訊分享 | tmonk | [dataly](https://dataly.openfun.app) |
-|chewing-cow 文字資料結構話 package|tmonk|[ivod 事由摘要](https://docs.google.com/spreadsheets/d/1hqK41x8hlpgAxTHyssdwlOn_HD2rrOX-RD8KeBBa220/edit?gid=0#gid=0)|
+|chewing-cow 文字資料結構化 package|tmonk|[ivod 事由摘要](https://docs.google.com/spreadsheets/d/1hqK41x8hlpgAxTHyssdwlOn_HD2rrOX-RD8KeBBa220/edit?gid=0#gid=0)|
 |國會識讀如何在日常落實？《立法院大小聲》[推廣經驗](https://www.instagram.com/reel/CzknJksBZhx)分享| Denken ||
 
 ## 簽名區
