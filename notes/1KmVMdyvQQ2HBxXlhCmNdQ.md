@@ -27,4 +27,23 @@ std::cout << "v1: (" << v1.x << ", " << v2.y << ")" << std::endl;
 std::cout << "v3: (" << v3.x << ", " << v3.y << ")" << std::endl;
 ```
 
+##### 完整範例code
+```cpp=
+#include<iostream>
+#include <SFML/System/Vector2.hpp>
+
+int main(){
+    sf::Vector2<int> v1(1, 2);
+    sf::Vector2i v2(3, 4);
+    sf::Vector2<float> (3.3, 4.4);
+
+    sf::Vector2i v4 = v1 + v2;
+    sf::Vector2i v5 = v2 - v1;
+
+    std::cout << '(' << v4.x << ',' << v4.y<< ')' << std::endl;
+    std::cout << '(' << v5.x << ',' << v5.y << ')' << std::endl;
+    return 0;
+}
+```
+
     
