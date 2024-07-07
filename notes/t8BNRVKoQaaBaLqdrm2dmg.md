@@ -70,7 +70,7 @@ g++ sfml.cpp -o prog  -lsfml-graphics -lsfml-window -lsfml-system
 ###### 跑出視窗即為成功
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a52d7d3b16b8a96ae3cc39c7fe3bc43c.png)
 
-錯誤：跑不出執行畫面
+錯誤：跑不出執行畫面，切回cmd執行
 ---
 ```
 wsl --update
