@@ -2,7 +2,7 @@
 
 This React app guide will teach you how to integrate fireworks effects into it. We will start by explaining how to set up a new React project. And then we will learn how to incorporate a firework effect library and customize it to make user engagement more captivating and interactive.
 
-Add fireworks to your web applications to celebrate special events, and interactive games and enhance your user interface with excitement. After reading this guide, you have sufficient knowledge and skills that can make you able to implement and customize them on your React projects.
+Add fireworks to your web applications to celebrate special events, and interactive games and enhance your user interface with excitement. After reading this guide, you have sufficient knowledge and skills that can make you able to implement them on your React projects.
 
 ## Prerequisites
 Before you learn to use Firework Effects in a React app, you must understand React and JS basics. To go through this lesson about building and customizing components, one should be aware of React components, state management, and props. Moreover, it would be helpful if you knew how to code in new JavaScript standards (ES6+) so that it would be easy for you to understand examples and changes made throughout the text.
@@ -18,7 +18,7 @@ In the section, your reading will guide you through the initial phases of settin
 
 We will begin with Create React App, a commonly used tool, it helps to establish new React projects in a standardized manner by providing structure and configuration that are standard, thereby easing setup at the start. Go ahead, and follow these steps.
 
-### Running `npx create-react-app firework-app`
+### Running npx create-react-app firework-app
 Open your terminal and run the following command:
 
 ```bash
@@ -40,3 +40,97 @@ You should install `fireworks-js` by entering the following text within your com
 ```bash
 npm install fireworks-js
 ```
+In case yarn is your favorite, you may want to utilize this command:
+
+```bash
+yarn add fireworks-js
+```
+You can make `fireworks-js` available for your React components by adding this command to your project’s dependencies.
+
+## Integrating Firework Effects
+We have set up the React project for you and installed all the dependencies so the next thing will be creating fireworks within your app for you to do this you must first import the Firework library, create a Firework component specific to its use with your application then finally render it within the main application.
+
+### Importing the Firework Library into the React App
+Initial stage is when we must bring the `fireworks-js` library to our React application. When you are planning on using firework effects, like in `App.js` or a new component file, open up the file then write down this import statement at the beginning:
+
+```javascript
+import Fireworks from 'fireworks-js';
+```
+By stating the above, `fireworks-js` is available to be used in your component.
+
+### Creating a Firework Component
+After that, we might create a Firework Component, the main job of which would be to decide on the way fireworks will be displayed. This one should take care of launching and painting the fireworks animation.
+
+Create a new file called Firework.js in your project's src folder. In this file, create a functional React component using the following format:
+
+```javascript
+import React, { useEffect, useRef } from 'react';
+import Fireworks from 'fireworks-js';
+
+const Firework = () => {
+  const containerRef = useRef(null);
+
+  useEffect(() => {
+    const container = containerRef.current;
+    const options = {
+      rocketsPoint: 50,
+      hue: { min: 0, max: 360 },
+      delay: { min: 15, max: 30 },
+      speed: 2,
+      acceleration: 1.05,
+      friction: 0.98,
+      gravity: 1.5,
+      particles: 50,
+      trace: 3,
+      explosion: 5,
+      autoresize: true,
+      brightness: { min: 50, max: 80 },
+      decay: { min: 0.015, max: 0.03 },
+      mouse: { click: false, move: false, max: 1 },
+      boundaries: { x: 50, y: 50, width: container.clientWidth, height: container.clientHeight },
+      sound: { enable: false },
+    };
+    const fireworks = new Fireworks(container, options);
+    fireworks.start();
+
+    return () => {
+      fireworks.stop();
+    };
+  }, []);
+
+  return <div ref={containerRef} style={{ width: '100vw', height: '100vh' }} />;
+};
+
+export default Firework;
+```
+We use the `useRef` hook in this component to get a reference to the containing `div`, that will be showing the firework effects. When this component is unmounted, the `useEffect` hook is employed to clear out the firework animation upon mounting and dismounting it.
+
+### Adding the Firework Effect Logic Using the Imported Library
+Inside the `useEffect` hook, the Fireworks instance is initialized using both the reference to the container and defined options for firework effects. We ensure that an animation demonstrating fireworks will halt if the component gets removed by use of the `useEffect` hook by returning a cleanup function.
+
+### Rendering the Firework Component in the Main Application
+To make the fireworks go off, you must include the fireworks component in our primary app. Locate `App.js` file and import the Firework component as the first thing in it:
+
+```javascript
+import Firework from './Firework';
+```
+Then add Firework component to the JSX that is returned by `App` component:
+
+```javascript
+function App() {
+  return (
+    <div className="App">
+      <Firework />
+    </div>
+  );
+}
+
+export default App;
+```
+Kindly, execute your React application utilizing the command that follows:
+```bash
+npm start
+```
+You can know that the integration was successful by observing that the firework effects have been displayed on the screen after you open your browser and reach `http://localhost:3000`. 
+
+You can now find the fireworks effect in your React application by following these steps. 
