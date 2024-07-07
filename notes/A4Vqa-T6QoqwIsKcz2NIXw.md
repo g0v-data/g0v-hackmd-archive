@@ -4,32 +4,6 @@ tags: 黃牛, 售票系統, 文化部, 非營利組織
 ---
 # ChaceTix 售票系統(暫)
 
-
-## 解決方法
-- 建立＂會員實名制的售票系統＂與＂匿名原價票卷交換系統＂
-- 會員實名制採用預計採用 [TWCA - MID 門號認證](https://www.twca.com.tw/product/c0cf07bd-25ab-42d8-a1bd-3e6e71950113) 方式
-- 抽選機制採用 [Random.org](https://api.random.org/) 的 API 功能提供隨機值
-
-
-## 目前資源
-- Web：https://www.chancetix.com/
-- PPT：https://docs.google.com/presentation/d/18wddOPBj_I-S17uo0DpoSuVStynUGLpaSg7ZcmCEZ44/edit?usp=sharing
-- GitHub：目前是設成私人,之後會修改成公開
-- Notion：[ChanceTix - Notion](https://okhand.notion.site/Chance-Tix-76224a4f1d43493bab0809efbf49850e?pvs=4)
-- 聯絡與溝通管道：
-    - Discord：okhand
-    - Telegram：@OKHandTw
-
-## 希望找到的人
-因本人不是專業的網頁工程師透過網路自學,所以想找專業人員來幫忙修改更好的架構
-- 前後端工程師
-- 架構工程師
-- 資安工程師
-
-## 提案相關問題討論區
-
-
-
 # 緣由
 - 現在售票系統都只有先搶先贏的部分,不過今年開始有嘗試抽選機制(不確定是否之後都有)。
 - 票卷黃牛太多導致真正想看演唱會或是藝文活動的人沒有機會買到票。
@@ -39,47 +13,54 @@ tags: 黃牛, 售票系統, 文化部, 非營利組織
 - 預防黃牛
     - 建立實名制售票平台
     - 建立匿名交換票卷平台,希望可以跟現在各售票平台合作
-- 成立反票卷黃牛非營利組織
+- 成立反票卷黃牛宣導與推廣組織
     - 研究並跟進日韓售票方式,成立反高價販售黃牛票與抵制黃牛的組織 
       參考：[チケット適正流通協議会](https://ftaj.jp/) 
-    - 推動票卷實名制會員系統與抽選系統
-    - 建立一個非營利的 售票平台 與 交換票卷平台
+    - 推動票卷平台支援 實名制會員系統 與 抽選票卷機制
+
+註解：
+如果最後目前主流售票平台都支援＂實名制會員系統＂與＂抽選票卷機制＂時會結束此售票平台服務。
 
 # 預定使用者
-- 給社會大眾購票與換票使用
-- 給想舉辦活動的社ㄏㄨㄚ
+- 給社會大眾＂購買票卷＂與＂交換票卷＂使用
+- 給想舉辦活動並售票的社會大眾
 
 # 預定功能
-（成品要有哪些功能來滿足上述使用情境）
+- 實名制會員系統
+- 記名售票系統 (先搶先贏制 與 抽選制)
+- 匿名交換票卷系統
 
 # 現有類似專案
-（現成的是否可以直接使用？或者有什麼不足之處？國外專案可參考？）
+- 實名制且記名抽選制 （[eplus](https://ib.eplus.jp/), [tixplus](https://tixplus.jp/)）
+
 
 # 相關專案
-（衍生自某專案/衍生出某專案/API串接自某專案.）
+
 
 # 授權方式
-（程式碼部分如 MIT/BSD /文件部分，如 CC-BY）
+- 程式碼部分：AGPL-3.0
+- 文件部分： CC-BY-SA
 
 # 使用資料
-（會使用到哪些資料來源、各是什麼授權）
+
 
 # 專案目前狀態
-（構想 / 規劃 / 雛形 / 實作）
+目前已有基礎的售票網頁架構並且以部屬網頁,但因本人不是專業的網頁工程師透過網路自學,所以想找專業人員來幫忙修改更好的架構。
+目前規劃：
+1. 先把售票網頁基礎重新檢視架構與網頁案全確定是否合乎業界標準再陸續開放功能給大眾使用
+2. 美化售票網頁
 
 # 利益揭露
-（牽涉到哪些組織團體、有哪些已知的或潛在的金錢或物質或無形利益報酬）
-
-    徵求協作者
-
+- 目前售票公司（[KKTix](https://kktix.com/), [拓元售票](https://tixcraft.com/), [遠大售票](https://ticketplus.com.tw/)）
 
 # 發起人/拋磚人：
+發起人：OKHand.ziyu
 
 NeedsDesigner: 
     需要介面設計
 
 NeedsTech: 
-    需要技術支援（程式、架站 etc)
+    需要技術支援（程式、架站 etc ...)
 
 NeedsProcess: 
     需要幫忙設計作業流程
@@ -88,6 +69,26 @@ NeedsTalkingToRealPerson:
     需要有人幫忙和其他機關聯絡
 
 # 實作細節
-
+- 語言：Typescript
+- 網頁框架：React 18
+- 全端框架：Next.js 14 (App Router)
+- CSS：TailwindCSS
+- UI：shadcn
+- Auth：Next-auth@^5.0.0-beta.15
+- ORM：Prisma
+- State Maneger：zustand
+- Deployment：Vercel
+- DNS：Cloudflare
+- 會員實名制採用預計採用 [TWCA - MID 門號認證](https://www.twca.com.tw/product/c0cf07bd-25ab-42d8-a1bd-3e6e71950113) 方式
+- 抽選機制採用 [Random.org](https://api.random.org/) 的 API 功能提供隨機值
 
 # 成果展示（規劃文件、雛形/草稿、原型/初稿、正式發佈/完稿）
+- Web：https://www.chancetix.com/
+- PPT：https://docs.google.com/presentation/d/18wddOPBj_I-S17uo0DpoSuVStynUGLpaSg7ZcmCEZ44/edit?usp=sharing
+- GitHub：https://github.com/OKHand-Zy/chancetix
+- Notion：[ChanceTix - Notion](https://okhand.notion.site/Chance-Tix-76224a4f1d43493bab0809efbf49850e?pvs=4)
+- 聯絡與溝通管道：
+    - Discord：okhand
+    - Telegram：@OKHandTw
+
+## 提案相關問題討論區
