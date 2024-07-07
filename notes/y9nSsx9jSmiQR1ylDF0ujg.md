@@ -53,6 +53,8 @@ tags: 新生流域, GIS
 針對特定場域的雨水逕流，必須接管至污水下水道
 - 加油站
 
+- 水溝蓋設置攔汙裝置 https://www.facebook.com/share/iTUDkQnbQPtFh1kr/
+
 ---
 
 ## 民間簡易檢測
