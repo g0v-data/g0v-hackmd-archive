@@ -2,7 +2,7 @@
 
 This React app guide will teach you how to integrate fireworks effects into it. We will start by explaining how to set up a new React project. And then we will learn how to incorporate a firework effect library and customize it to make user engagement more captivating and interactive.
 
-Add fireworks to your web applications to celebrate special events, and interactive games and enhance your user interface with excitement. After reading this guide, you have sufficient knowledge and skills that can make you able to implement them on your React projects.
+Add fireworks to your web applications to celebrate special events, and interactive games and enhance your user interface with excitement. After reading this short guide, you have sufficient knowledge and skills that can make you able to implement them on your React projects.
 
 ## Prerequisites
 Before you learn to use Firework Effects in a React app, you must understand React and JS basics. To go through this lesson about building and customizing components, one should be aware of React components, state management, and props. Moreover, it would be helpful if you knew how to code in new JavaScript standards (ES6+) so that it would be easy for you to understand examples and changes made throughout the text.
@@ -134,3 +134,8 @@ npm start
 You can know that the integration was successful by observing that the firework effects have been displayed on the screen after you open your browser and reach `http://localhost:3000`. 
 
 You can now find the fireworks effect in your React application by following these steps. 
+
+## Conclusion
+We have thoroughly explained how to include and personalize fireworks effects within a React app. First of all, we set up a new project that will use Create-`React-App` and loaded a `fireworks-js` library. So, we installed our fireworks, and added those cool animations or whatever else you like best – look at them now!
+
+With this short guide, you are capable of developing firework effects on your React applications to form interesting user experiences. Whenever you are commemorating special occasions, incorporating engaging parts, or just increasing the attractiveness of your undertaking for eyes these fireworks make your interface look much better. Thank you and happy coding!
