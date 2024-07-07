@@ -131,11 +131,15 @@ Kindly, execute your React application utilizing the command that follows:
 ```bash
 npm start
 ```
-You can know that the integration was successful by observing that the firework effects have been displayed on the screen after you open your browser and reach `http://localhost:3000`. 
+You can know that the integration was successful by observing that the firework effects have been displayed on the screen after you open your browser and reach `http://localhost:3000`. Here is the output:
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9f81e256cce80aa6ce4c50f6e6a883f8.gif)
+
+
 
 You can now find the fireworks effect in your React application by following these steps. 
 
 ## Conclusion
-We have thoroughly explained how to include and personalize fireworks effects within a React app. First of all, we set up a new project that will use Create-`React-App` and loaded a `fireworks-js` library. So, we installed our fireworks, and added those cool animations or whatever else you like best – look at them now!
+We have  explained how to include and personalize fireworks effects within a React app. First of all, we set up a new project that will use Create-`React-App` and loaded a `fireworks-js` library. So, we installed our fireworks, and added those cool animations or whatever else you like best – look at them now!
 
 With this short guide, you are capable of developing firework effects on your React applications to form interesting user experiences. Whenever you are commemorating special occasions, incorporating engaging parts, or just increasing the attractiveness of your undertaking for eyes these fireworks make your interface look much better. Thank you and happy coding!
