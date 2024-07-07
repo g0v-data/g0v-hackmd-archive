@@ -65,6 +65,9 @@ title: 道路標線改造案例地圖、熱點關注地圖
 
 ### 素材筆記區，歡迎新增，待登載至線上地圖上
 
+[主題] 巷弄道路變更為公園或綠道化，多個案例
+https://photos.app.goo.gl/PothcgShgdY5ThrB8
+
 基隆
 https://www.facebook.com/share/p/AkukN5WcZXfFXRJ4/
 
@@ -75,6 +78,9 @@ https://www.facebook.com/share/p/8QFfGDPyTnuj3ywu/
 林森北路
 https://maps.app.goo.gl/MMNFNXFZ97Q2hQpK8
 https://maps.app.goo.gl/eSPnX2CRzHaiWBBU7?g_st=ic
+
+迪化街巷弄
+https://www.facebook.com/share/p/3urMddvQehBJJJ2B/
 
 土城海山路，捷運站與公園之間道路無車化
  
