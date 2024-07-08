@@ -43,7 +43,7 @@ tags: FtO, g0v-intl
                 * JP7, KR8, TW2(+5?)
                     * Divide into 3 groups
                     * Table-Host
-                        * Mami, Eunsoo, Tiff/Yi or Nao
+                        * Mami, Eunsoo, Nao or Tiff/Yi 
                 * 12:30-13:00 Lunch with the group
                 * 13:00-14:00 WS
                     * 3 topics on each table
@@ -51,11 +51,11 @@ tags: FtO, g0v-intl
                         * What is the positive impact of collaborate with international students
                         * What is the negative impact of collaborate with internationalo students and how to solve them
                     * 15min for each table and final share from table host
-                * Use 
+                    * Use Miro for the discussion
 
 
             * Adult participents WS by Chihao
-    * 
+        * 18th Lunch same number of 16th dinner?
 * CoC
     * Each country has at least one staff incharge of CoC
         * CfJ: Mami-san
