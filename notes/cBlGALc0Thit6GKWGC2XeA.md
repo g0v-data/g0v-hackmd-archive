@@ -22,6 +22,10 @@ tags: FtO, g0v-intl
     * We cannot prepare vegan foods..They use eggs for tempura or brouth(fish)
     * Here's the vegitarian foods. Please ask them 
         * https://docs.google.com/spreadsheets/d/1na5EqahDocdBqWOW06RUT47Wrw19y7zj/edit?gid=1178146860#gid=1178146860
+
+1. T-shirt
+    * We wont prepare FtO T-shirts this time
+    * Organizers wear Hawaian Shirts
     
 
 1. Details of the Event
