@@ -230,6 +230,7 @@ tags: 新生流域
 - 倫敦 公共藝術 forgetten stream https://www.facebook.com/share/r/jJLnBtdDXY8eQZ7w/ 
 - 荷蘭 Dommel 河流上的 藝術展演 https://www.facebook.com/share/v/Hx5yepyjbJ38eEdv/
 - 高架橋下 水域活動 http://www.nlarchitects.nl/slideshow/82
+- 鹿特丹，運用運河製造衝浪環境 https://www.facebook.com/watch?v=506748275142601&locale=zh_TW
 - 綠岸多階 https://www.facebook.com/share/4P8qXXwz5GgztqV6/
 - 輕軌與水景 https://www.facebook.com/share/r/ZemLzcZVzVCff8yh/
 - 輕軌與水景 https://www.facebook.com/share/r/oBtDv6wBgdAXerEf/
