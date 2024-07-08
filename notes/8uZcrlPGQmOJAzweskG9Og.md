@@ -13,16 +13,18 @@ tags: tree
 
 ### intro
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_34570778d7e1ec7539989c5fc0dd8944.gif)
+
 :::warning
-任翔建置的網頁工具：http://bitcreative.cc:5000/
-GitHub：https://github.com/SeanGau/joinplus-collage
+任翔建置的網頁工具：https://collage.collective.tw/#
+GitHub：
+- https://github.com/SeanGau/city-collage
+- https://github.com/SeanGau/joinplus-collage
 :::
 
 ### 底圖地點測試：2023.08 總統府府前廣場
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_34570778d7e1ec7539989c5fc0dd8944.gif)
-
-
+:::spoiler
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_58b9b42cfbd297fe19b929cb7709366d.png)
 
 底圖種類：
@@ -53,7 +55,6 @@ GitHub：https://github.com/SeanGau/joinplus-collage
     - 挑日期
     - 宣傳
 
-### 底圖地點測試：
 
 2023.08 國史館 建築物屋頂
 - 相關評估：https://g0v.hackmd.io/METgKuIjTTKuKGjiozWBLg?view
@@ -61,15 +62,17 @@ GitHub：https://github.com/SeanGau/joinplus-collage
 中山足球場看臺
 - 相關評估：https://g0v.hackmd.io/9KmM9n2ZQk2CifD4DDy6Ew
 
-
 學校教室或區民活動中心室內裝修
 - 開文件找地點案例
+
+:::
 
 
 ### 蒐集對於 Collage 的介面使用意見
 
 素材
-- png 素材希望可以可以鏡向
+- 2024.07 GIF 可以放入，並於使用者在網頁操作過程中播放 GIF 動畫
+- png 素材希望可以鏡向
 - 點線面的「結束」，目前是要按 icon，不容易自行摸索
 
 成果
