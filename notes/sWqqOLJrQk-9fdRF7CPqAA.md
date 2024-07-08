@@ -1,5 +1,12 @@
 # Sprite and Texture 實作
 
+> ###### 先下載圖片:
+>  * [download](https://drive.google.com/file/d/1J_kQ2iGQOq4kDr2FpHDvZJnTfZK8T0si/view?usp=drive_link)
+> 
+> ###### ⭐️ 把圖片放到當前資料夾
+> 
+---
+
 ### 1.匯入圖片/材質
 
 ##### Sprite就是Texture經過裁減所獲得的物件，所以在建立Sprite之前，首先我們要匯入Texture
@@ -10,7 +17,7 @@ if (!texture.loadFromFile("pic.png")) {
 // Error handle
 }
 ```
-
+---
  ### 2.建立Sprite
 
 ##### 有了Texture之後我們就能很快的建立Sprite了
@@ -18,12 +25,12 @@ if (!texture.loadFromFile("pic.png")) {
 sf::Sprite sprite;
 sprite.setSprite(texture);
 ```
-
+---
 ### 3.畫在螢幕上的方法
 ```clike
 window.draw(sprite);
 ```
-
+---
 ### 4.更改Sprite的屬性或是操控它
 ##### 更改sprite的顏色
 ```clike
@@ -40,7 +47,7 @@ sprite.move(sf::Vector2f(5.f, 10.f)); // offset relative to the current position
 sprite.setRotation(90.f); // absolute angle
 sprite.rotate(15.f); // offset relative to the current angle
 ```
-
+---
 ##### sprite&texture.cpp
 ###### 手動操作一次看看吧！會對Sprite and Texture的概念更熟悉。
 ```cpp=
