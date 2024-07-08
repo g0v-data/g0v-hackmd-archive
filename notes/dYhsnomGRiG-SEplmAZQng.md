@@ -13,9 +13,6 @@ GA: UA-98468513-3
 :::
 
 
-## Talk
-
-
 ## LINE bot long response handling
 
 票：https://github.com/cofacts/rumors-line-bot/blob/master/src/webhook/handlers/singleUserHandler.ts#L78
@@ -23,4 +20,12 @@ GA: UA-98468513-3
 Details changed
 - No need to transfer progress; build helper function and pass in each handler
 - Just record last reply token is sufficient
+
+## Community
+
+
+
+## Talks
+- MTK
+- 反詐
 
