@@ -178,6 +178,10 @@ while n < 3:
     n += 1
 
 ```
+# 資料表處理
+https://steam.oxxostudio.tw/category/python/example/excel-write.html
+
+
 
 ## power bi
 https://app.powerbi.com/groups/c773d0d3-6c2d-47ac-85d3-f578226e0781/reports/7f07b3c7-df3c-44fd-9802-370263cac200/896b4d73bffe5968bbf9?experience=power-bi
