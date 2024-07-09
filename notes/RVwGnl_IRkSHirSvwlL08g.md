@@ -6,7 +6,9 @@ image:
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
-
+:::danger
+此專案正在 bluesky 階段，所有內容皆尚未與他人討論過，主要以發想為主，歡迎私訊 g0v slack @tofus 與豆腐進行討論
+:::
 
 # 零宇宙原型織造所 Prot0type Studio 專案大全
 
@@ -28,7 +30,6 @@ image:
 - [說明網站的 landing page](/tRW-P2K-TwmlSFEKX-Wipg)
 - [新一輪的 g0v 衣服義賣！](/cqTYfsP_TaGdtt5i2MiVrw)
 - [暑假想做的設計讀書會](/cTN3i-ohTlCUhgFx0YZVyA)
-- [真・零時小學校：讓小學生來幫黑客松專案做設計健檢](/uyyrtOxsQhugHY1flklA-w)
 - [2012 年以來的 g0v 設計檔案大整理！](/sO4KSRYiRzmqZwBiSw3NLg)
 - [豆腐的開源設計圖鑑](/Zr8cz1hOReyGaoofV40NZA)
 
