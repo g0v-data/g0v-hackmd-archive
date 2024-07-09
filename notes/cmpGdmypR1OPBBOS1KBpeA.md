@@ -119,8 +119,6 @@ Console Variables
 #### Boot manager and console management
 Boot drivers with BootOrder
 
-====2024.7.4====暫停
-
 ## EFI Coding Convention :bulb: 
 Code with C language, instead of assembly language
 
@@ -213,14 +211,17 @@ gBS->RaiseTPL() & gBS->RestoreTPL()
 gBS->CreateEvent(), gBS->SetTimer(), gBS->SignalEvent(), and
 gBS->CloseEvent()
 
-
-
 Wait for Event
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c4e9d1d222e5ebc223ccb7891f71bd2e.png)
 
 gBS->CheckEvent()
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a2211109a8e24198cddc9403b2279153.png)
 
+Rarely used services
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_86f860358973919a11037253ccae5565.png)
+
+
+====2024.7.9====暫停
 
 ## Driver Design :bulb: 
 
