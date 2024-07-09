@@ -217,13 +217,18 @@ Wait for Event
 gBS->CheckEvent()
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a2211109a8e24198cddc9403b2279153.png)
 
-Rarely used services
+Services Rarely used by dirver
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_86f860358973919a11037253ccae5565.png)
 
-
-====2024.7.9====暫停
+Services should not used by driver
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_35935ec561b49159c4ebeacbecb9ec3f.png)
 
 ## Driver Design :bulb: 
+====2024.7.9====暫停
+
+
+
+
 
 ## Driver Entry Point :bulb: 
 
