@@ -16,6 +16,13 @@ tags: FtO, g0v-intl
         * TH	2
         * NL	1
         * ID	1
+    * Taiwanese Students
+        * Jasmine, CW, Yvone are students and do internship for CfJ
+        * They will help reception and join the WS.
+        
+1. Project Registration
+    * Can you ask participents to register by 31st of July?
+    * I need to tell the venue how to arrenge the table
 
 1. Lunch
     * How about kids from TW?
@@ -26,7 +33,7 @@ tags: FtO, g0v-intl
 1. T-shirt
     * We wont prepare FtO T-shirts this time
     * Organizers wear Hawaian Shirts
-    
+
 
 1. Details of the Event
     * 16th dinner
