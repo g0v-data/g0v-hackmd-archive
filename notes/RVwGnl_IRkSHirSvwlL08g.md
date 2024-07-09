@@ -7,7 +7,7 @@ image:
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
 :::danger
-此專案正在 bluesky 階段，所有內容皆尚未與他人討論過，主要以發想為主，歡迎私訊 g0v slack @tofus 與豆腐進行討論
+此專案正在 bluesky 階段，所有內容目前皆尚未潤飾過，主要以發想為主，歡迎私訊 g0v slack @tofus 與豆腐進行討論
 :::
 
 # 零宇宙原型織造所 Prot0type Studio 專案大全
