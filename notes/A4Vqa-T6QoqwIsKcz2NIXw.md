@@ -86,7 +86,7 @@ NeedsTalkingToRealPerson:
 - Web：https://www.chancetix.com/
 - PPT：https://docs.google.com/presentation/d/18wddOPBj_I-S17uo0DpoSuVStynUGLpaSg7ZcmCEZ44/edit?usp=sharing
 - GitHub：https://github.com/OKHand-Zy/chancetix
-- Notion：[ChanceTix - Notion](https://okhand.notion.site/Chance-Tix-76224a4f1d43493bab0809efbf49850e?pvs=4)
+- Notion：[ChanceTix - Notion](https://okhand.notion.site/0fa4c780acd9451d8f02d090604fa67e?v=3034498d2e1143ef8a0cceb607adf9a4&pvs=4)
 - 聯絡與溝通管道：
     - Discord：okhand
     - Telegram：@OKHandTw
