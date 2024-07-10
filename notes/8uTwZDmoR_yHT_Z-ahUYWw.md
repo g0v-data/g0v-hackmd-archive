@@ -1,6 +1,8 @@
 # 2024開放國會行動方案
 
 
+## 計劃投影片
+- [投影片](https://docs.google.com/presentation/d/1S8bZWYAvyweEFHVt6frD7NXpCAV8xC1OQTZdVIRZUn4/edit#slide=id.p)
 
 ## 資料
 - [承諾事項+Google翻譯](https://docs.google.com/spreadsheets/d/1ZoiJY9zL52dEOFJnHWSFcAmJx_KxK0xAWzHQbX2iGPo/edit?gid=1286987850#gid=1286987850)
