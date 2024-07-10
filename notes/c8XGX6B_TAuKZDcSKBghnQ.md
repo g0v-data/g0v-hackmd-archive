@@ -91,6 +91,7 @@ The CSP header, also known as the `Content-Security-Policy` header offers securi
 
 Consider having a website `https://example.com` and using Google Analytics at `https://trustedanalytics.com`. You wish to make sure that only your own domain scripts and Google Analytics scripts are allowed to run. Scripts that originate from within the website: You have several javascript files that are hosted on your server e.g., `main.js` and `utils.js` Scripts that originate from other websites: You are making use of the Google Analytics hosted at `https://trustedanalytics.com`.
 
+The prescribed CSP header lets you command your browser to run scripts exclusively from our domain (`self`) and a certain trusted analytics provider `https://trustedanalytics.com`  hence, preventing any untrusted domains running scripts on your webpage and minimizing the possibility of cross-site scripting or any other kind of attack that might use scripts.
 
 
 ### Subresource Integrity (SRI)
@@ -100,6 +101,18 @@ For Example:
 ```htmlembedded
 <script src="https://example.com/library.js" integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/uxC4c/8OxEX/XA5n/VvnMhvN++/L1" crossorigin="anonymous"></script>
 ```
+As one of the HTML elements, the `<script>` tag is used to link to an external JavaScript file in this given code section. Added security measures on this distant document are inclusive of attributes such as integrity attribute and `crossorgin` attribute.  The `<script>` is an HTML which embeds or makes reference to an external JavaScript file. The URL or address of the external JavaScript file that is to be incorporated is indicated by the src attribute. It’s where the script is saved that is, `https://example.com/library.js`.`The integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/uxC4c/8OxEX/XA5n/VvnMhvN++/L1` attribute helps you ensure that the integrity of script file is not compromised. Mathematically, the browser checks fetched script’s hash against the one you provide to see if they match for verification of the script’s integrity.
+
+Imagine a web developer who wished to put a third-party JavaScript library from `https://example.com` on a website. To ensure that the script was not tinkered with or altered, we have to use an integrity attribute with hash value which corresponds to the content that was expected for the script.
+
+Imagine you're loading a well-known JavaScript library through a CDN service. In this way you should create the script tag:
+
+
+
+
+
+
+
 ### Cross-Origin Resource Sharing (CORS)
 CORS policies are responsible for establishing how resources from varying origins can be shared, making sure that unauthorized data access does not happen. For instance, to access sensitive APIs, a financial services site uses CORS allowing only some domains.
 
