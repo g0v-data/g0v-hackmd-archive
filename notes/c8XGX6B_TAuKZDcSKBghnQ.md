@@ -89,6 +89,10 @@ Content-Security-Policy: script-src 'self' https://trustedanalytics.com
 ```
 The CSP header, also known as the `Content-Security-Policy` header offers security against different attacks: for instance, it prevents cross-site scripting (XSS) and data injection among others by defining the trusted sources of content that can be loaded onto a web page. The `script-src` directive is responsible for determining specifically where scripts can come from. It is through this way that we support extensibility within our platform while enforcing security.
 
+Consider having a website `https://example.com` and using Google Analytics at `https://trustedanalytics.com`. You wish to make sure that only your own domain scripts and Google Analytics scripts are allowed to run. Scripts that originate from within the website: You have several javascript files that are hosted on your server e.g., `main.js` and `utils.js` Scripts that originate from other websites: You are making use of the Google Analytics hosted at `https://trustedanalytics.com`.
+
+
+
 ### Subresource Integrity (SRI)
 A script cannot be tampered with by SRI and it does this through you specifying an expected script content hash. For Instance: SRI is a mechanism applied by an educational platform to guarantee that a certain external library that is utilized for interactive quizzes has not been corrupted.
 
