@@ -3,7 +3,7 @@ tags: vtaiwan
 ---
 # CNA 訪問
 
-## 0726 Rundown 
+## 0720 大松拍攝 Rundown 
 - Calltime 7:30am
     - 中央研究院附近的黃線區集合
     - https://maps.app.goo.gl/XJmWLjDo6fakjgHX9
@@ -30,19 +30,19 @@ tags: vtaiwan
  - 11:00 - 14:30
     - 拍攝Peter籌組自己的小組到他們的分組小桌
     - 開始一起工作
-
     - 並在期間進行<<Show and Tell訪談>>
-
+::: info
 A. 他們使用正在討論的議題 和使用的工具「Pol.is」
 B. 介紹g0v、vTaiwan 
 他們之前成功影響立法的範例
 Peter 深入探討 g0v 和 vTaiwan 對政策制定的具體影響，提供如 Uber 法規這樣的例子。 討論數位民主的重要性以及 vTaiwan 如何促進公眾信任和政府透明。
+::: 
 
-14:30 - 16:00
-在此期間徵集三位參與者進行站訪
-談 g0v/vTaiwan 如何影響他們對公民參與的看法的故事
+- 14:30 - 16:00
+    - 在此期間徵集三位參與者進行站訪
+    - 談 g0v/vTaiwan 如何影響他們對公民參與的看法的故事
 
-16:00 - 17:00
+- 16:00 - 17:00
 B-roll
 
 ## 後續更新：
