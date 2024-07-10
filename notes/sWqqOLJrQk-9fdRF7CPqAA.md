@@ -48,8 +48,11 @@ sprite.setRotation(90.f); // absolute angle
 sprite.rotate(15.f); // offset relative to the current angle
 ```
 ---
-##### sprite&texture.cpp
+## 開始實作
 ###### 手動操作一次看看吧！會對Sprite and Texture的概念更熟悉。
+
+#### 請完成下列空格。
+
 ```cpp=
 #include <SFML/Graphics.hpp>
 #include <iostream>
@@ -59,15 +62,15 @@ int main() {
     sf::RenderWindow window(sf::VideoMode(800, 600), "SFML Sprite and Texture Example");
     
     // 加載紋理
-    sf::Texture texture;
-    if (!texture.loadFromFile("ball.png")) {
+    [ 空 格 一 ] 
+    if ([ 空 格 二 ]) {
         std::cerr << "Error loading texture" << std::endl;
         return -1;
     }
 
     // 創建精靈並設置紋理
-    sf::Sprite sprite;
-    sprite.setTexture(texture);
+    [ 空 格 三 ]
+    [ 空 格 四 ]
 
     // 設置精靈的位置
     sprite.setPosition(100.f, 100.f);
@@ -89,16 +92,22 @@ int main() {
         //sf::sleep( sf::milliseconds(500));
 
         // 繪製精靈
-        window.draw(sprite);
+        [ 空 格 五 ]
 
         // 顯示內容
-        window.display();
+        [ 空 格 六 ]
     }
 
     return 0;
 }
 ```
 
+###### 解答
 
-
+`[ 空 格 一 ] sf::Texture texture;`
+`[ 空 格 二 ] !texture.loadFromFile("ball.png")`
+`[ 空 格 三 ] sf::Sprite sprite;`
+`[ 空 格 四 ] sprite.setTexture(texture);`
+`[ 空 格 五 ] window.draw(sprite);`
+`[ 空 格 六 ] window.display();`
     

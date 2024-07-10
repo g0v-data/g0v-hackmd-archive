@@ -61,7 +61,6 @@ npx create-react-app firework-app
 ```
 If you run this command line, you can start your React project in the `firework-app` folder straight away. It is possible because `npx` is bundled with `npm` starting from version 5.2 and so it enables you to execute commands without having them installed globally on your machine.
 
-### Navigating to the Project Directory
 After you have finished setting up the system, you need to navigate to the new project directory by typing:
 ```bash
 cd firework-app
@@ -83,7 +82,7 @@ yarn add fireworks-js
 You can make `fireworks-js` available for your React components by adding this command to your project’s dependencies.
 
 ## Integrating Firework Effects
-We have set up the React project for you and installed all the dependencies so the next thing will be creating fireworks within your app for you to do this you must first import the Firework library, create a Firework component specific to its use with your application then finally render it within the main application.
+We have set up the React project and installed all the dependencies so the next thing will be creating fireworks within your app for you to do this you must first import the Firework library, create a Firework component specific to its use with your application then finally render it within the main application. This section will show you how to go about it.
 
 ### Importing the Firework Library into the React App
 The initial stage is when we must bring the `fireworks-js` library to our React application. When you are planning on using firework effects, like in `App.js` or a new component file, open up the file then write down this import statement at the beginning:
@@ -93,7 +92,6 @@ import Fireworks from 'fireworks-js';
 ```
 By stating the above, `fireworks-js` is available to be used in your component.
 
-### Creating a Firework Component
 After that, we have to create a Firework Component, the main job of which would be to decide on the way fireworks will be displayed. This one should take care of launching and painting the fireworks animation.
 
 Create a new file called Firework.js in your project's `src` folder. In this file, create a functional React component using the following format:
@@ -148,7 +146,6 @@ We use the `useRef` hook in this component to get a reference to the containing 
 ### Adding the Firework Effect Logic Using the Imported Library
 Inside the `useEffect` hook, the Fireworks instance is initialized using both the reference to the container and defined options for firework effects. We ensure that an animation demonstrating fireworks will halt if the component gets removed by use of the `useEffect` hook by returning a cleanup function.
 
-### Rendering the Firework Component in the Main Application
 To make the fireworks go off, you must include the fireworks component in our primary app. Locate the `App.js` file and import the Firework component as the first thing in it:
 
 ```javascript
@@ -180,30 +177,26 @@ Output:
 With this, we have successfully added the fireworks effect to our React application. 
 
 ## Examples of Popular Websites That Utilize Firework Effects
-In this section, we will take a look at examples of some popular websites that utilize fireworks effects. 
+Let us take a look at examples of some popular websites that utilize fireworks effects. 
 
-### Duolingo
+### Doulingo and Canva
 [Duolingo](https://www.duolingo.com/), a famous language-studying website, makes use of the fireworks effect when it comes to commemorating important moments and reaching the target. The application usually represents these animations like fireworks when a user finishes a lesson or makes it to a sequence-based milestone motivating such a person to continue learning.
 
-### Canva
 During special promotions or events, [Canva](https://www.canva.com/) occasionally applies a firework effect on its graphic design tool online. For example, Canva can opt to use fireworks during design challenges involving users or when it launches new products to spice up the occasion and increase user involvement.
 
-### Shopify
+### Shopify and Twitch
 At times during major events, [Shopify](https://www.shopify.com/ng) implements special effects including Black Friday or Cyber Monday sales using pyrotechnics. Occasionally, pyrotechnics can be set off to recognize successful transactions among other limited-time offers as a way of spurring the excitement in buying things on their websites.
 
-### Twitch
 [Twitch](https://www.twitch.tv/), a live streaming platform primarily for gamers, has different visual effects it uses including fireworks during live streams and special events. At important milestones such as reaching a certain number of subscribers or receiving donations (for instance), streamers usually opt for firework animations so that their viewers can be more engaged while watching the broadcast videos.
 
-### Google Doodles
+###  Google Doodles and Github
 Sometimes, Google incorporates the sparkle effect in its Google logo [Doodles](https://doodles.google/) that involve temporary modifications in the logo on Google’s front page to acknowledge festive seasons as well as remarkable days such as the anniversaries of independence or other celebrated days. An example is when it is New Year’s Eve or Independence Day whereby the Google logo is animated with fireworks to reflect the mood for celebrating those days.
 
-### Github
 When events such as [Hacktoberfest](https://github.com/topics/hacktoberfest) or major product launches occur, [Github](https://github.com/) often incorporates fireworks into its routine. Fireworks honor coding technicians, pull requests, or any notable performance in the community for coding software.
 
-### LinkedIn
+### LinkedIn and CodePen
 [LinkedIn](https://www.linkedin.com/login) periodically makes use of fireworks-like effects on its notifications in celebrating user milestones like work anniversaries or new job positions, thereby giving professional achievements a celebratory touch which brings improvements to user satisfaction.
 
-### CodePen
 [CodePen ](https://codepen.io/)frequently presents Pens that illustrate how animations can be done. It’s a community for trying out drafts that can increase the attractiveness and interactivity of web pages through firework effects done using [CSS](https://en.wikipedia.org/wiki/CSS) and Javascript. Each user is at liberty to create and distribute explosive animations as a fragment of his/her programming task thus displaying individual abilities as well as inventiveness.
 
 ## Conclusion
