@@ -218,9 +218,6 @@ tags: 新生流域
 ### 案例
 - 韓國 光電板結合自行車專用道 https://www.facebook.com/share/tdvsKEtCv4RUgYmW/?mibextid=WC7FNe
 - 中國 光電結合車用鋪面與高架橋 https://www.facebook.com/share/p/2FThbaUX28Vp85Ay/
-- 東京 天空廊道
-    - https://www.facebook.com/share/v/3DSFSCaMoBALMJVb/
-    - https://www.facebook.com/TaiwanTrafficSafeAssociation/posts/pfbid02MBmP97ypdi8fzG1Xvgn4McqJZZmFDZtucLYQNyLvq4n87oE6fhvcgCLfcLTPZSLul
 - THE END OF THE CENTRAL FREEWAY IN HAYES VALLEY
     - https://hoodline.com/2015/08/the-end-of-the-central-freeway-in-hayes-valley/
 - Victoria 高架橋加掛自行車道 https://www.facebook.com/share/v/mmx3dpbGH4YF5fRA/ https://www.facebook.com/share/v/33Ja8u164HrnmEro/
