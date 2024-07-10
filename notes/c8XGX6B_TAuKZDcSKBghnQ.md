@@ -65,16 +65,20 @@ For Example:
 A site that is essentially a blog uses different plugins via social media sharing, each of which loads its script. Their switching to one plug-in which supports many social media platforms reduces outsider requests while speeding up the page.
 
 ### Asynchronous Loading and Non-Blocking Execution
-If scripts are loaded asynchronously, they don’t halt page rendering. Hence, using `async` or `defer` attributes enhances your website performance, because it allows scripts to be loaded simultaneously with other page elements as well.
+If scripts are loaded asynchronously, they don’t halt page rendering. Hence, using `async` or `defer` attributes enhances your website performance, because it allows scripts to be loaded simultaneously with other page elements as well. For instance, an advertising and analytics scripts load asynchronously on a news website. This ensures the quick display of the main content while allowing for more time during which the ads and tracking scripts may still be loading.
 
 For Example:
-An advertising and analytics scripts load asynchronously on a news website. This ensures the quick display of the main content while allowing for more time during which the ads and tracking scripts may still be loading.
-
-This can be done by:
 ```htmlembedded
 <script src="analytics.js" async></script>
 <script src="ads.js" defer></script>
 ```
+The excerpt of codes highlights the process involved in enhancing website performance by having these scripts interrupt the main content rendering through the `async` and `defer` attributes.
+
+The `async` attribute is good for scripts that do not need the site Document Object Model (DOM) loaded completely or other scripts, such as analytics scripts that might not be related to other page parts and thus if made `async` would not block rendering.
+
+The `defer` attribute implies that the script will not run until the whole HTML document is parsed so it can be very helpful when there are some scripts that must work with DOM elements because it allows them access and assures that all elements exist prior to their running.
+
+`defer` scripts, unlike the `async`, preserve their execution order when there is more than one deferred script on the page. This can be necessary for scripts that rely on the order of the executor.
 
 ### Content Security Policy (CSP)
 The CSP prevents cross-site scripting (XSS) attacks by determining the right sources able to load scripts in any given website. For instance: A medical site that deploys CSP allows scripts from its domain and reliable third-party providers.
@@ -83,6 +87,7 @@ For Example:
 ```htmlembedded
 Content-Security-Policy: script-src 'self' https://trustedanalytics.com
 ```
+The CSP header, also known as the `Content-Security-Policy` header offers security against different attacks: for instance, it prevents cross-site scripting (XSS) and data injection among others by defining the trusted sources of content that can be loaded onto a web page. The `script-src` directive is responsible for determining specifically where scripts can come from. It is through this way that we support extensibility within our platform while enforcing security.
 
 ### Subresource Integrity (SRI)
 A script cannot be tampered with by SRI and it does this through you specifying an expected script content hash. For Instance: SRI is a mechanism applied by an educational platform to guarantee that a certain external library that is utilized for interactive quizzes has not been corrupted.
@@ -111,7 +116,6 @@ To uphold user confidence and observe data protection regulations privacy concer
 
 Implement methods of getting user endorsements before downloading outside scripts that collect data. An example of this can be shown by Travel Website, which has a message banner seeking endorsement from internet users to allow for cookies as well as external codes aimed at providing personalized suggestions and analytics.
 
-Lastly,
 The privacy of users can be protected by anonymizing data collected from third-party scripts. For instace, to protect the identity of users, a forum anonomizes analytics data by removing IP addresses.
 
-
+Lastly, make sure that you are compliant with GDPR and CCPA when using third-party scripts. For instance,  to ensure that third-party scripts comply with GDPR, an online retailer reviewed and tweaked its privacy policy and added features such as data access and deletion requests for users.
