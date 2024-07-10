@@ -48,6 +48,7 @@ tags: vtaiwan
     - 可以盤點一下想做的事情，評估每個工作需要的時間，討論優先順序、需要招募的人手內建技能  
     - 另外開 [vTaiwan 工作盤點共筆](/S3jz5eGBQSuKdUd8PqaUGQ)來討論！[name=peter]
     - 動能不足或許可以號召目前既有在頻道裡的人來做事情 [name=josh]
+    - 我可以幫忙寫號召人力的文案 [name=yuting]
     
 
 ## 開放國會相關討論
@@ -58,6 +59,7 @@ tags: vtaiwan
     - 準備兩張海報紙，一張負責討論，另一張負責紀錄結果。
 - 來自參與式預算的經驗 [name=josh]
     - 把項目分下去，每個人負責一部分，接著再利用報告整合。
+- 找ㄉ
 
 ## 大松活動
 - CNA 的拍攝 [CNA 訪問](/3ofdp-zERBqojl7bz-UYvA)
