@@ -107,19 +107,11 @@ Imagine a web developer who wished to put a third-party JavaScript library from 
 
 Imagine you're loading a well-known JavaScript library through a CDN service. In this way you should create the script tag:
 
-
-
-
-
-
-
-### Cross-Origin Resource Sharing (CORS)
-CORS policies are responsible for establishing how resources from varying origins can be shared, making sure that unauthorized data access does not happen. For instance, to access sensitive APIs, a financial services site uses CORS allowing only some domains.
-
-For Example:
 ```htmlembedded
-Access-Control-Allow-Origin: https://trustedpartner.com
+<script src="https://cdn.example.com/library.js" integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/uxC4c/8OxEX/XA5n/VvnMhvN++/L1" crossorigin="anonymous"></script>
 ```
+By doing so, the library is safely loaded only if it matches the anticipated integrity hash, adding further security against tampering.
+
 
 ### Sandboxing and Isolation Techniques
 Applying the sandbox attribute to `iframes` on a gaming site can guarantee that ads are served without any risk of malicious scripts affecting pages containing them. By using sandboxing technique, third-party scripts are prevented from reaching sensitive data or influencing other website sections.
@@ -128,7 +120,13 @@ For Example:
 ```htmlembedded
 <iframe src="https://ads.com/ad" sandbox="allow-scripts allow-same-origin"></iframe>
 ```
-## Privacy Considerations
+The snippet uses the `<iframe>` tag to embed an external resource (in this case an advertisement). The sandbox attribute is applied to enforce certain limitations on the contents of `iframes` for security reasons. 
+
+For example, a website is willing to advertise ads (URL: `ads.com`) from an external advertising server. For security reasons on the main page, the content of these adverts should not be trustworthy; therefore, the developers have set up the iframe sandbox attribute.
+
+
+
+### Privacy Considerations Strategy
 To uphold user confidence and observe data protection regulations privacy concerns must be in good grace.
 
 Implement methods of getting user endorsements before downloading outside scripts that collect data. An example of this can be shown by Travel Website, which has a message banner seeking endorsement from internet users to allow for cookies as well as external codes aimed at providing personalized suggestions and analytics.
@@ -136,3 +134,6 @@ Implement methods of getting user endorsements before downloading outside script
 The privacy of users can be protected by anonymizing data collected from third-party scripts. For instace, to protect the identity of users, a forum anonomizes analytics data by removing IP addresses.
 
 Lastly, make sure that you are compliant with GDPR and CCPA when using third-party scripts. For instance,  to ensure that third-party scripts comply with GDPR, an online retailer reviewed and tweaked its privacy policy and added features such as data access and deletion requests for users.
+
+## Conclusion
+All in all, the strategies provided in this content offer a well-rounded way of managing third-party scripts. This approach would help developers and enterprises to make their websites perform better and be more secure when used in observing privacy, thus improving the safety, privacy of the user experience. Staying alert and being ahead of other users when it comes to managing such third-party scripts will aid one in developing an error-free web environment that is not vulnerable.
