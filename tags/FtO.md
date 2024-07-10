@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20240711 FtO organizers meeting notes](../notes/cBlGALc0Thit6GKWGC2XeA.md) | 2024-07-09T12:24:06+08:00 | 2024-07-08T15:07:01+08:00 |
+| 1 | [20240711 FtO organizers meeting notes](../notes/cBlGALc0Thit6GKWGC2XeA.md) | 2024-07-10T14:19:29+08:00 | 2024-07-08T15:07:01+08:00 |
 | 2 | [20240620 FtO organizers meeting notes](../notes/-m5VjKW0Sm6_SDAgWjwf2Q.md) | 2024-06-20T16:06:50+08:00 | 2024-06-20T15:51:05+08:00 |
 | 3 | [FtO at RightsCon 2025](../notes/9Jgy0WAZRIeBYSebxOTB2w.md) | 2024-06-08T11:24:38+08:00 | 2024-06-07T09:45:30+08:00 |
 | 4 | [FtO Yokohama 2024](../notes/VCTm63nQQl6Rh3r_yKjmbw.md) | 2024-06-07T08:13:04+08:00 | 2024-03-20T11:12:07+08:00 |
