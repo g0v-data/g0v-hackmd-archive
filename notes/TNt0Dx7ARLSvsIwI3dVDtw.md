@@ -179,7 +179,7 @@ With this, we have successfully added the fireworks effect to our React applicat
 ## Examples of Popular Websites That Utilize Firework Effects
 Let us take a look at examples of some popular websites that utilize fireworks effects. 
 
-### Doulingo and Canva
+### Duolingo and Canva
 [Duolingo](https://www.duolingo.com/), a famous language-studying website, makes use of the fireworks effect when it comes to commemorating important moments and reaching the target. The application usually represents these animations like fireworks when a user finishes a lesson or makes it to a sequence-based milestone motivating such a person to continue learning.
 
 During special promotions or events, [Canva](https://www.canva.com/) occasionally applies a firework effect on its graphic design tool online. For example, Canva can opt to use fireworks during design challenges involving users or when it launches new products to spice up the occasion and increase user involvement.
