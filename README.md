@@ -2,7 +2,9 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 10872 | 2024-07-11T08:59:33+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 10876 | 2024-07-11T09:49:23+08:00 |
+| [bayarea](tags/bayarea.md) | 1 | 2024-07-11T09:34:24+08:00 |
+| [g0v-siliconvalley](tags/g0v-siliconvalley.md) | 2 | 2024-07-11T09:34:24+08:00 |
 | [edu](tags/edu.md) | 150 | 2024-07-11T08:50:17+08:00 |
 | [黃牛](tags/%E9%BB%83%E7%89%9B.md) | 1 | 2024-07-11T00:20:16+08:00 |
 | [售票系統](tags/%E5%94%AE%E7%A5%A8%E7%B3%BB%E7%B5%B1.md) | 1 | 2024-07-11T00:20:16+08:00 |
@@ -45,7 +47,6 @@
 | [Rentea](tags/Rentea.md) | 196 | 2024-07-03T21:51:43+08:00 |
 | [公民科學](tags/%E5%85%AC%E6%B0%91%E7%A7%91%E5%AD%B8.md) | 11 | 2024-07-03T21:30:53+08:00 |
 | [GAI](tags/GAI.md) | 2 | 2024-07-03T14:55:20+08:00 |
-| [bayarea](tags/bayarea.md) | 1 | 2024-07-03T11:42:51+08:00 |
 | [Notes_for_Prgms](tags/Notes_for_Prgms.md) | 1 | 2024-07-03T04:28:31+08:00 |
 | [Issue-Mapping](tags/Issue-Mapping.md) | 7 | 2024-07-03T00:41:53+08:00 |
 | [Open Street Map](tags/Open%20Street%20Map.md) | 3 | 2024-07-03T00:41:53+08:00 |
@@ -76,7 +77,6 @@
 | [標案資料](tags/%E6%A8%99%E6%A1%88%E8%B3%87%E6%96%99.md) | 5 | 2024-06-15T09:09:38+08:00 |
 | [ly](tags/ly.md) | 3 | 2024-06-15T00:07:06+08:00 |
 | [g0v-anniversary](tags/g0v-anniversary.md) | 61 | 2024-06-11T16:26:04+08:00 |
-| [g0v-siliconvalley](tags/g0v-siliconvalley.md) | 1 | 2024-06-11T16:26:04+08:00 |
 | [logistics](tags/logistics.md) | 3 | 2024-06-10T18:15:54+08:00 |
 | [基建](tags/%E5%9F%BA%E5%BB%BA.md) | 6 | 2024-06-10T18:15:54+08:00 |
 | [RightsCon](tags/RightsCon.md) | 1 | 2024-06-08T11:24:38+08:00 |

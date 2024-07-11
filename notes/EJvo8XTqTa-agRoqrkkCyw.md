@@ -1,5 +1,5 @@
 ---
-tags: bayarea
+tags: bayarea, g0v-siliconvalley
 ---
 # 2024.7.20 g0v 灣區茶會共筆
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
@@ -38,5 +38,5 @@ tags: bayarea
 ## Todo
 
 - [ ] 先揪小圈
-- [ ] 開 FB 活動頁
+- [ ] 開 [FB 活動頁](https://facebook.com/events/s/720-g0v-%E7%81%A3%E5%8D%80%E5%B0%8F%E8%8C%B6%E6%9C%83/1148940942822775/)
 - [ ] 在 g0v-siliconvalley 宣傳
