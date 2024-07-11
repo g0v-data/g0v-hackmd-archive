@@ -18,7 +18,8 @@ tags: FtO, g0v-intl
         * NL	1
         * ID	1
     * Taiwanese Students
-        * Jasmine, CW, Yvone are students and do internship for CfJ
+        * Jasmine, Chen wei(CW), Yvone(She applied to JP one) are students and do internship for CfJ
+        * Yvone cannot get the school sponsorship so if you can get student sponsors for 3 more students include Yvone that would be really nice...CfJ is also trying to find more sponsors..
         * They will help reception and join the WS.
         
 1. Project Registration
