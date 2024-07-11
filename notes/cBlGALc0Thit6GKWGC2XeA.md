@@ -111,7 +111,7 @@ tags: FtO, g0v-intl
 * Improving readability of CoC
     * including hosting mini workshop at FtO
 * Can you in charge of the explanation about CoC? and add slides?
-    * need to make an offical piching slide 
+    * need to make an offical piching slide. 
     * https://form-interface-9dacb5.zapier.app/intro
     * https://consent-card-game.vercel.app/ (-> need from Korean to translate other languages.)
 

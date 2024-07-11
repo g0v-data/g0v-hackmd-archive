@@ -15,11 +15,6 @@ apt info libsfml-dev
 創建一個測試用的sfml.cpp檔案
 ---
 
-##### 創建一個sfml.cpp檔案
-```
-vim sfml.cpp
-```
-
 :::info
 :bulb: **Hint:** **按 i --> insert mode**
 :::
@@ -51,9 +46,7 @@ int main()
     return 0;
 }
 ```
-:::info
-:bulb: **Hint:** **按 esc -> : -> wq 退出**
-:::
+
 
 測試編譯與執行
 ---
