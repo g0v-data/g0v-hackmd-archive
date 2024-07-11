@@ -84,9 +84,11 @@ tags: FtO, g0v-intl
             * Adult participents WS by Chihao
             * Note：We cannot use microphone and screeen
         * 18th Lunch same number of 16th dinner?
-* CoC
+
+1. CoC
     * Each country has at least one staff incharge of CoC
         * CfJ: Mami-san
         * g0v
         * CfK: Fluito
+    * Can you in charge of the explanation about CoC? and add slides?
 * Next meeting
