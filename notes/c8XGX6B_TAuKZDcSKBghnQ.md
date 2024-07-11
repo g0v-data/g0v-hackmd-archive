@@ -105,7 +105,7 @@ For Example:
 ```
 As one of the HTML elements, the `<script>` tag is used to link to an external [JavaScript](https://www.javascript.com/) file in this given code section. Added security measures on this distant document are inclusive of attributes such as integrity attribute and `crossorgin` attribute.  The `<script>` is an HTML that embeds or makes reference to an external JavaScript file. The URL or address of the external JavaScript file that is to be incorporated is indicated by the src attribute. It’s where the script is saved that is, `https://example.com/library.js`.The `integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/uxC4c/8OxEX/XA5n/VvnMhvN++/L1` attribute helps you ensure that the integrity of script file is not compromised. Mathematically, the browser checks the fetched script’s hash against the one you provide to see if they match for verification of the script’s integrity.
 
-Imagine a web developer who wished to put a third-party JavaScript library from `https://example.com` on a website. To ensure that the script was not tinkered with or altered, we have to use an integrity attribute with  hash value which corresponds to the content that was expected for the script.
+Imagine a web developer who wished to put a third-party JavaScript library from `https://example.com` on a website. To ensure that the script was not tinkered with or altered, we have to use an integrity attribute with a hash value that corresponds to the content that was expected for the script.
 
 Let's say you're loading a well-known JavaScript library through a [CDN](https://www.fastly.com/learning/what-is-a-cdn) service. In this way you should create the script tag:
 
@@ -115,7 +115,7 @@ Let's say you're loading a well-known JavaScript library through a [CDN](https:/
 By doing so, the library is safely loaded only if it matches the anticipated integrity hash, adding further security against tampering.
 
 ### Sandboxing and Isolation Strategy
-Applying the sandbox attribute to `iframes` on a gaming site can guarantee that ads are served without any risk of malicious scripts affecting pages containing them. By using [sandboxing](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) technique, third-party scripts are prevented from reaching sensitive data or influencing other website sections.
+Applying the sandbox attribute to `iframes` on a gaming site can guarantee that ads are served without any risk of malicious scripts affecting pages containing them. By using the [sandboxing](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) technique, third-party scripts are prevented from reaching sensitive data or influencing other website sections.
 
 For Example:
 ```htmlembedded
@@ -134,7 +134,7 @@ Implement methods of getting user endorsements before downloading outside script
 
 The privacy of users can be protected by anonymizing data collected from third-party scripts. For instace, to protect the identity of users, a forum anonomizes analytics data by removing IP addresses.
 
-Lastly, make sure that you are compliant with GDPR and CCPA when using third-party scripts. For instance,  to ensure that third-party scripts comply with GDPR, an online retailer reviewed and tweaked its privacy policy and added features such as data access and deletion requests for users.
+Lastly, make sure that you are compliant with [GDPR](https://gdpr-info.eu/) and [CCPA](https://oag.ca.gov/privacy/ccpa) when using third-party scripts. For instance,  to ensure that third-party scripts comply with GDPR, an online retailer reviewed and tweaked its privacy policy and added features such as data access and deletion requests for users.
 
 ## Conclusion
 All in all, the strategies provided in this content offer a well-rounded way of managing third-party scripts. This approach would help developers and enterprises to make their websites perform better and be more secure when used in observing privacy, thus improving the safety, privacy of the user experience. Staying alert and being ahead of other users when it comes to managing such third-party scripts will aid one in developing an error-free web environment that is not vulnerable.
