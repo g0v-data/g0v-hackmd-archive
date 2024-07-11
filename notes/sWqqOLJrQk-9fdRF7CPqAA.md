@@ -102,12 +102,3 @@ int main() {
 }
 ```
 
-###### 解答
-
-`[ 空 格 一 ] sf::Texture texture;`
-`[ 空 格 二 ] !texture.loadFromFile("ball.png")`
-`[ 空 格 三 ] sf::Sprite sprite;`
-`[ 空 格 四 ] sprite.setTexture(texture);`
-`[ 空 格 五 ] window.draw(sprite);`
-`[ 空 格 六 ] window.display();`
-    
