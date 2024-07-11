@@ -23,7 +23,7 @@ Moreover, Build tools guarantee a uniform linkage of CSS code across all browser
 
 
 ## Setting Up Lightning CSS
-It is important to grasp the means of installation and fundamental application of this framework to effectively make use of Lightning CSS in one’s web development projects. Lightning CSS can be included in your project in two ways; through a Content Distribution Network (CDN) or npm (Node Package Manager) installation:
+It is important to grasp the means of installation and fundamental application of this framework to effectively make use of Lightning CSS in one’s web development projects. Lightning CSS can be included in your project in two ways; through a Content Distribution Network (CDN) or npm (Node Package Manager) installation.
 
 ### Installation Through CDN
  This technique entails accessing the Lightning CSS files straight from one’s CSS or HTML files without necessarily downloading them. This technique is straightforward and ideal for small projects or rapid prototyping where simplicity is critical. In most cases if you want to use Lightning CSS via a CDN, you simply link the CSS file either in your HTML or CSS file(s):
@@ -192,7 +192,6 @@ cd Desktop/my-project
 ```
 Replace Desktop/my-project with the actual path to your project directory.
 
-### Install Lightning CSS
 If you don't have yet installed Lightning CSS, you can do so through npm:
 ```bash
 npm install lightning-css --save-dev
