@@ -23,7 +23,7 @@ if (!texture.loadFromFile("pic.png")) {
 ##### 有了Texture之後我們就能很快的建立Sprite了
 ```clike
 sf::Sprite sprite;
-sprite.setSprite(texture);
+sprite.setTexture(texture);
 ```
 ---
 ### 3.畫在螢幕上的方法
