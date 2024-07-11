@@ -124,6 +124,9 @@ GitHub：
     - 使用者輸入的指令文字
     - 使用者認同的生成結果圖片
 
+### 【免費】UltraEdit for Fine-Grained Image Editing
+https://huggingface.co/spaces/jeasinema/UltraEdit-SD3
+
 ### 【免費】Stable Diffusion XL Inpainting
 使用網站：https://stablediffusion.fr/inpainting
 試作貼文與討論串：https://www.facebook.com/groups/295496753001414/posts/331868106030945
