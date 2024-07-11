@@ -2,7 +2,7 @@
 tags: rand0mth0n, hackathon
 ---
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
-# g0v Rand0mTh4n 第肆次放輕松
+# g0v Rand0mTh5n 第伍次放輕松
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_dd9743b36c4d0bd618175a4426cca868.png)
 
@@ -30,7 +30,7 @@ Just a reminder: There won't be dinner provided at this offline gathering, so pl
 
 ## 時間地點
 
-- 2024-07-02 Tue. 1900 - 2100
+- 2024-07-16 Tue. 1900 - 2100
 - [NPO HUB Taipei 台北NPO聚落](https://maps.app.goo.gl/XPrvzSdqgszbfRBV8) 4F 廚房
     - [「如何入場」及場地使用規定](/9pwDPOXLTr6IJKiLofl3qg)
 
@@ -56,6 +56,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 | 想做的事情           | 提案人稱呼 | 網址或附加內容                                                                                                  |
 | ------------------ | ---------- | --------------------------------------------------------------------------------------------------------------- |
 | Example | Nobody      |範例|
-|  |   |
+| g0v 夏日源力增能營 課程心得共筆 | Yi  | 分享零時小學校線上課程的心得＆製作成共筆
 
 ## 一些紀錄
