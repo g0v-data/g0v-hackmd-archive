@@ -2,15 +2,17 @@
 tags: 學術研究, cowork guideline, g0v, 開源協作手冊, 基礎建設,
 ---
 
-# 以 g0v 為主題的學術研究<br>Academic research on g0v 
+# 與 g0v 社群或專案相關聯的學術研究<br>Academic research on g0v and community projects
 
 - 😊 Researchers Working in g0v Community
     - https://hackmd.io/@patcon/HJqL4jC6m
 - 歸納研究收錄原則 | criteria for listing research 
     - 1.明確涉及 g0v 社群，反映在其「研究摘要」中的敘述 | The research clearly deals with the g0v community and mentions the community in the abstract
     - 2.發放問卷給 g0v 社群參與者，具體案例：[社群組織之重要構成因素探討: 成員分享行為及輔助分享資訊工具研究] | a questionaire or survey/interview outline was given to g0v participants, for an example please see [here]((https://g0v.hackpad.com/qlnlC8oRFCw)) (https://g0v.hackpad.com/qlnlC8oRFCw)
-    - 3.社群專案，正面表列：vTaiwan | research about community projects, such as vTaiwan
+    - 3.社群專案 | research about community projects
         - 例如用 vTaiwan 作為關鍵字，找碩博士論文網、[政府研究成果網](https://www.grb.gov.tw)；〈我國公共政策網路參與機制之研究- vTaiwan及Join平臺之比較分析〉| For example: vTaiwan is a keyword for the paper and can be used to locate the paper through Taiwan's [research output database](https://www.grb.gov.tw)
+        - Cofacts 
+        - 中央政府總預算視覺化
     - 4.主動蒐集，可用 g0v 作為關鍵字 | Search for papers with g0v as a keyword 
         - [政府研究成果網](https://www.grb.gov.tw)
         - [keyword as "g0v"+"taiwan" in Google Scholar](https://scholar.google.com/scholar?hl=zh-TW&as_sdt=0%2C5&q=g0v+taiwan&btnG=)
