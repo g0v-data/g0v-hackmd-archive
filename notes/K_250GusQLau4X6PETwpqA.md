@@ -109,7 +109,9 @@ tags: 吉祥物, AI
 
 其他筆記
 - 中央山脈
-    - https://www.facebook.com/TaiwanATG/posts/pfbid02R9fLeSVReFFZMUmxuhiY73DpvMpTiqRxw8Csru4iaVMYoRug6bccBDaBWajs6tWnl
+    - https://www.facebook.com/TaiwanATG/posts/
+- 臺東縣成功鎮頭目山
+    - https://www.facebook.com/share/p/23ydfibWXzEgKE7Y/?mibextid=WC7FNe
 - User research without the recruitment - Test your idea or product with AI participants and take decisions with confidence.
     - https://www.syntheticusers.com
 - 地震描述為動物動作：地牛翻身
