@@ -54,3 +54,89 @@ npm start
 By doing this, the development server will be started and the default React app opened on your browser. Your page should show the default React welcome page confirming that project setup was successful as well as integration of Tailwind CSS.
 
 When our React app and Tailwind CSS are both ready to run, it’s time to move forward in our work and development. We should focus on making a component for pull-to-refresh which will be used within the whole app design.
+
+## Creating the Pull-to-Refresh Component
+To make a pull-to-refresh component, you have to design the user interface and write codes that will detect when someone pulls down the screen. Styling our component will be done through the latest version of Tailwind CSS while the management of state and handling of events will be through React hooks.
+
+### Designing the UI with Tailwind CSS
+First off let's create the fundamental structure of the pull-to-refresh element. To achieve this purpose, go to your `src` directory in a text editor or integrated development environment and open a new file named `PullToRefresh.js` in it. It will consist of a section that will serve as a wrapper for the content and another one right below it serving as a place for determining the dragging gesture from the top.
+
+```javascript
+import React from 'react';
+
+const PullToRefresh = ({ children }) => {
+  return (
+    <div className="relative overflow-hidden">
+      <div className="absolute inset-x-0 top-0 flex justify-center items-center h-16">
+        <span>Pull down to refresh</span>
+      </div>
+      <div className="pt-16">
+        {children}
+      </div>
+    </div>
+  );
+};
+
+export default PullToRefresh;
+
+```
+The pull-down effect is managed by the `container` with  `overflow hidden` and `relative position` in this design. A message or animation will be displayed by the absolute positioned `div` in the upper section during the pull-to-refresh activity. In order not to overlap with the pull-to-refresh message, the content area has padding on top.
+
+Tailwind CSS classes allow us to improve the visual presentation, for instance, by changing the colours, text and adding other styling elements.
+
+For example:
+
+```javascript
+import React from 'react';
+
+const PullToRefresh = ({ children }) => {
+  return (
+    <div className="relative overflow-hidden bg-gray-100">
+      <div className="absolute inset-x-0 top-0 flex justify-center items-center h-16 bg-blue-500 text-white">
+        <span className="text-sm">Pull down to refresh</span>
+      </div>
+      <div className="pt-16">
+        {children}
+      </div>
+    </div>
+  );
+};
+
+export default PullToRefresh;
+```
+
+The container now has a dark gray background while the pull-to-refresh message appears on a blue background with white text, hence making it more attractive aesthetically.
+
+### Implementing the Pull-to-Refresh Logic
+In order to deal with the action of pull to refresh and data that is displayed, we need to maintain both their states. We are going to leverage upon `useState` to monitor pull status while accessing data update logic via `useEffect`.
+
+```javascript
+import React, { useState, useEffect } from 'react';
+
+const PullToRefresh = ({ children, onRefresh }) => {
+  const [isPulling, setIsPulling] = useState(false);
+  const [isRefreshing, setIsRefreshing] = useState(false);
+
+  useEffect(() => {
+    if (isRefreshing) {
+      onRefresh().then(() => setIsRefreshing(false));
+    }
+  }, [isRefreshing, onRefresh]);
+
+  return (
+    <div className="relative overflow-hidden bg-gray-100">
+      <div className="absolute inset-x-0 top-0 flex justify-center items-center h-16 bg-blue-500 text-white">
+        <span className="text-sm">{isPulling ? 'Release to refresh' : 'Pull down to refresh'}</span>
+      </div>
+      <div className="pt-16">
+        {children}
+      </div>
+    </div>
+  );
+};
+
+export default PullToRefresh;
+```
+
+We used `useState` in this code to carry out the handling of both the refreshing and pulling states. The `useEffect` hook will call the `onRefresh` function that was passed as `prop` immediately the `isRefreshing` state is `True`.
+

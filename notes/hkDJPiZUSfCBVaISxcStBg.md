@@ -65,3 +65,17 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 ### 數位公民線上課 共筆
 https://docs.google.com/spreadsheets/d/1Pyf6B2JmPPyqkQiSh7wce1yaQAEMsUqiYQWp0Y1qXvU/edit?usp=sharing
 先開了一份 spreadsheets，歡迎大家一起來共編
+
+### 開源設計討論
+- 一起討論設計師如何在 GitHub 上與工程師對話
+    - 可以先切豆腐
+    - ::: spoiler
+        - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fd828a55c28d982d34c98e602ea1cd71.png)
+        - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b0fec05717ca16a85824b95313036c1f.png)
+      ::: 
+### Summit 紀念品消化計畫
+- Summit 紀念品孤單地躺在倉庫，要如何讓他們發揮最大的價值呢？
+- [共筆](https://g0v.hackmd.io/JXeFGfs3QTixAj0qBqRt7Q)
+
+###  食材消化計畫
+ -用不完的食材要如何
