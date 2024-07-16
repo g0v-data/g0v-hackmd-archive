@@ -15,6 +15,7 @@ tags: vtaiwan
     - 結合其他的社群專案或者是民間的團體與議題研究會是好的方向，但是要培養第一點提到的技能。
     - 目前最需要的是生產出一個屬於目前 vTaiwan 社群的成果。
 - 我有邀請我高中同學參加週六的大松，他之前有在熱炒民主（主要做審議民主/參與式預算）工作過，有需要的話應該可以牽一下線。[name=yuting]
+- 之前在瀏覽資料時發現 [Civic Tech Field Guide](https://docs.google.com/spreadsheets/d/1FzmvVAKOOFdixCs7oz88cz9g1fFPHDlg0AHgHCwhf4A/htmlview#)，或許可以從這裡著手 [name=yuting]
 
 ## 開放國會
 

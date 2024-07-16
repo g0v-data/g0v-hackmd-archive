@@ -23,7 +23,8 @@
 . Greater accuracy
 . Early detection of bugs among others.
 
-**Please note**: Automation testing is not a replacement for manual testing so it doesn't eliminate the need for human testers, rather it creates an avenue for human testers to carry out tests with automated testing tools. 
+> **Please note**: Automation testing is not a replacement for manual testing so it doesn't eliminate the need for human testers, rather it creates an avenue for human testers to carry out tests with testing tools. 
+
 <br><br> Automated testing isn’t another testing paradigm similar to unit and functional testing. It is more or less a way to automate unit, integration, and end-to-end tests. There are diverse automated testing tools available for different types of testing needs, but this article focuses on end-to-end testing using Selenium, Cypress, and Playwright.</p>
 
 
@@ -99,7 +100,7 @@ An automated testing tool is controlled using a form of scripting. This scriptin
 
 Cypress: Cypress only supports scripting in Javascript. This has its pros and cons. For the pros, only supporting Javascript means that Cypress will have a singular way of achieving a task. This makes it easy for someone new to the tool to get productive because many other users would have encountered the same issue. The major con in a singular support for Javascript means that a developer or tester that isn’t familiar with JavaScript syntax will have to learn the language before getting productive writing tests with Cypress. As for the scripting API, Cypress makes it easy to easily write queries, assertions, and actions using methods such as `cy.get`, `cy.<element>.should`, and `cy.<element>.click`. `<element>` here refers to an element obtained from a [cypress query](https://docs.cypress.io/api/table-of-contents#Queries). The script below is a simple automated testing script written for Cypress in JavaScript. It opens Google.com and searches for “cat memes”. It then verifies that the search was successful. Cypress’ simplicity enables this script to be written in 11 lines or less if you remove the describe block.
 
-```js
+```javascript
 describe("Search for cat memes on Google", () => {
   it("visits google and searches for cat memes", () => {
     cy.visit("https://google.com");
@@ -110,7 +111,8 @@ describe("Search for cat memes on Google", () => {
 });
 ```
 Selenium: Selenium allows you to write scripts in multiple languages, from common scripting languages like Python and Javascript to more business oriented languages like Java and C#. Selenium supports multiple languages because it has a wide community of adopters and has been in existence the longest. Writing scripts in certain languages is easier than others partly due to the structure of the language, and partly due to the availability of well-maintained libraries and frameworks for Selenium in those languages. Find below the same script as the Cypress case that searches for cat memes on Google search implemented in JavaScript for Selenium.
-```js
+
+```javascript
 const { Builder, Browser, By, Key, until } = require("selenium-webdriver");
 (async function testGoogleSearch() {
   let driver = await new Builder().forBrowser(Browser.CHROME).build();
@@ -124,7 +126,7 @@ const { Builder, Browser, By, Key, until } = require("selenium-webdriver");
 })();
 ```
 Playwright: Playwright similar to Selenium supports more than one language. It has official support for [Javascript/Typescript, Python, Java, and .NET](https://playwright.dev/docs/languages). Its API is more page-oriented. This mean selectors (locators in this case) start from the `page` object, which is passed as an argument. Playwright’s JavaScript API focuses on human readability, making tests easier to write. It’s explicit use of the await syntax might seem verbose, but it makes it obvious that a task may take some time to complete. This flows with Selenium’s approach and differs from Cypress automatic await. The snippet below is code for searching for cat memes on Google Search, written for Playwright using JavaScript.
-```js
+```javascript
 import { test, expect } from "@playwright/test";
 test.describe('Search for cat memes on Google"', () => {
   test("visit google and searche for cat memes", async ({ page }) => {
@@ -148,6 +150,10 @@ Similar to how a user will leave a website if it takes too long to load, a poten
 Cypress: Cypress comes as an npm package and a [standalone downloadable application](https://docs.cypress.io/guides/getting-started/installing-cypress#Direct-download) that you can immediately install and write tests with. After installation, you only add a new project, choose a browser of choice, and start writing test cases in JavaScript.
 ![Cypress project view](https://imgur.com/pJbvM4o.png)
 Setting up Cypress as an npm package is equally straightforward. You add it to your project using `npm install cypress --save-dev` and start up the application using `npx cypress open`. From there, you can skip the project initialization and go straight to picking a browser and running example tests or writing new ones.
+
+Step by step guide to setting up Cypress:
+
+Step 1: Download Nodejs: Go to your s
 
 Playwright: Playwright is set up from the command line, using an npm command: `npm init playwright`. This initialization step is an interactive workflow that asks you to choose your desired scripting language (Javascript or Typescript), the location of your test scripts, and whether to include a Github Actions Workflow for CI.
 
