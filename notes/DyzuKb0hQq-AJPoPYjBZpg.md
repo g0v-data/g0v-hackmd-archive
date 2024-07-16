@@ -8,8 +8,9 @@
 * 20220416 [國教署應承諾加入幼兒園面積等欄位資訊](https://www.facebook.com/k.olc.tw/posts/pfbid0SJC9zr1NRrCmAMeAdJL6ervzVbrSQSa84ZgnApcFZ8Ryg66dFTusELSne2yKTpdFl)
 * 20220802 [開始取得 111 學年度收費資料，並列呈現舊有學年資料](https://www.facebook.com/k.olc.tw/posts/pfbid0tXpNccjFQEficfcWoBPgHriJQ7ZoUnSAGjqQV1MaEa9NrhnKqiFka1EbEp9Kgnjnl)
 * 20230607 [全國教保資訊網再次完成破解](https://www.facebook.com/k.olc.tw/posts/pfbid02GuLs9kNhCZhQgr45zjcaTyyWhKJR96aLx4kGVzbcVw6xNurBPfz8LehVi5bdy7owl)
-* 20230703 開始取得 112 學年度收費資料，並列呈現舊有學年資料
-* 20230629 [修正裁罰資料程式，不再跟隨全國教保資訊網移除舊資料](749059357223481)
-* 20230706 全國教保資訊網提高 captcha 複雜度，從 4 碼增加到 5 碼
+* 20230629 [修正裁罰資料程式，不再跟隨全國教保資訊網移除舊資料](https://www.facebook.com/k.olc.tw/posts/pfbid0PaAb5auV5YCstMpEe9VLnoupugquRRCyLHZKUsYaZqP8qmV9cRBNQWP7oA9w8RWwl)
+* 20230706 [開始取得 112 學年度收費資料，並列呈現舊有學年資料](https://www.facebook.com/k.olc.tw/posts/pfbid0EZbXo48zff5uVu9vPc7rzLw1sNLS7wBKr2sqpLwBD586dwu6AdtxkhykUrn7YowLl)
+* 20230809 [全國教保資訊網提高 captcha 複雜度，從 4 碼增加到 5 碼](https://www.facebook.com/k.olc.tw/posts/pfbid0fjQaJt3LM38PY199JM3tPnHJZJP3GaAHAzDVkAFkSLmy3cMubKjmpBDhAxEXKULXl)
 * 20230816 引入新的方式處理 captcha ，減少人工操作需求
-* 20240220 加入幼兒園專車資訊
+* 20240220 [加入幼兒園專車資訊](https://www.facebook.com/k.olc.tw/posts/pfbid0jDLV7cYcu7Uv6XFBfDfGYf6tEqdzxUwLupitTqDBYhpRuhJTSQxQLAKEW893Logvl)
+* 20240714 [把停業的資料也挖出來](https://www.facebook.com/k.olc.tw/posts/pfbid02kzKZdWMvvHidAazYgdauQ93ptfpJFYKbvB8MeytZVw1n8GfmYbkCFNGDxLn2EVs2l)
