@@ -18,10 +18,12 @@
   <p>Automated testing is a testing technique that involves the use of software tools in executing test cases. It often involves test cases written in a scripting language such as Python, JavaScript, or Lua. The scripts are written to test the different functionalities of a piece of software.
     Automated testing can be seen as a process of automating manual test cases, that is, using software tools to execute test cases that would have been executed manually. The goal of automated testing is to reduce the amount of manual work involved in test execution, leading to higher test coverage. Some benefits of automated testing are: 
     
-**.* Elimination of human error
-. Improved test coverage, 
+. Elimination of human error
+. Wider test coverage
 . Greater accuracy
-. Reusability
+. Early detection of bugs among others.
+
+**Please note**: Automation testing is not a replacement for manual testing so it doesn't eliminate the need for human testers, rather it creates an avenue for human testers to carry out tests with automated testing tools. 
 <br><br> Automated testing isn’t another testing paradigm similar to unit and functional testing. It is more or less a way to automate unit, integration, and end-to-end tests. There are diverse automated testing tools available for different types of testing needs, but this article focuses on end-to-end testing using Selenium, Cypress, and Playwright.</p>
 
 
