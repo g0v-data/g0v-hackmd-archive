@@ -39,7 +39,8 @@ Just a reminder: There won't be dinner provided at this offline gathering, so pl
 | 時間 | 活動名稱 | 備註 |
 | -------- | -------- | -------- |
 | 1830 - 1900 | 活動入場 |  |
-| 1900 - 1915 | 介紹與大合照 | 三個關鍵字、告訴大家今天要幹嘛|
+| 1900 - 1905 | Key Holder 介紹揪松
+| 1905 - 1915 | 介紹與大合照 | 三個關鍵字、告訴大家今天要幹嘛|
 | 1945 - 2030 | cowork | a.k.a. 開始做專案或自己的事情 |
 | 2045 - 2100 | 尾聲 |大合照需要的話可以在這裡補拍|
 
@@ -57,5 +58,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 | ------------------ | ---------- | --------------------------------------------------------------------------------------------------------------- |
 | Example | Nobody      |範例|
 | g0v 夏日源力增能營 課程心得共筆 | Yi  | 分享零時小學校線上課程的心得＆製作成共筆
+|[能源轉型模擬器](https://www.climateinteractive.org/en-roads/)  |周叔叔 |分享台灣專有的能源模型 |
 
 ## 一些紀錄
+
+### 數位公民線上課 共筆
+https://docs.google.com/spreadsheets/d/1Pyf6B2JmPPyqkQiSh7wce1yaQAEMsUqiYQWp0Y1qXvU/edit?usp=sharing
+先開了一份 spreadsheets，歡迎大家一起來共編

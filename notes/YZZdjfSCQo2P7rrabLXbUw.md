@@ -13,6 +13,8 @@ https://web.wra.gov.tw/shihmen/cp.aspx?n=7640
 https://catyc.pixnet.net/blog/post/63581416-%E5%8F%B0%E7%81%A3%E5%B0%8F%E7%99%BE%E5%B2%B3
 
 
+https://www.crazygames.com/game/solar-smash
+
 Easy Note Origami 便條摺學
 https://www.youtube.com/@EasyNoteOrigami/videos
 

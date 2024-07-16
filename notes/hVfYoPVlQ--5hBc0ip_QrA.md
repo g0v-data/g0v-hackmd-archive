@@ -733,6 +733,10 @@ https://goo.gl/24o221
 《關鍵戰疫：台灣傳染病的故事》
 https://www.facebook.com/events/2207625296227477/
 
+媒介、媒體
+一部綜覽台灣百年報紙、電視、網路生態的傳播史 ── 馮建三《台灣媒介一百年》新書座談
+https://www.facebook.com/share/p/MpNgXyKcDWqnU51C/
+
 文化活動
 戲劇史
 https://www.facebook.com/events/178751112764187/

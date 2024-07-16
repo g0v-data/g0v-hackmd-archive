@@ -17,7 +17,7 @@ Below are the advantages of blue-green deployment:
 
 * Risk Mitigation: Effective risk management is possible through having two similar environments. In case there are unexpected problems with green, blue remains operational as a backup thus enabling continuity of services by the organization even during failure.
 
-* Seamless Updates: With blue-green deployment, updates are seamless whereby traffic is gradually moved from the blue environment to the green one. This step-by-step transition makes it less painful for users and allows developers to monitor deployment in real time.
+* Seamless Updates: With blue-green deployment, updates are seamless whereby traffic is gradually moved from the blue environment to the green one. This step-by-step transition makes it less painful for users and allows developers to monitor deployment in real-time.
 
 ## Testing in Production
 Testing can be carried out in an environment that takes the form of a green environment. With this technique, the opportunity that users can be impacted by way of defects or overall performance issues is decreased by enabling developers to find and fasten issues early in the deployment process.
@@ -115,7 +115,7 @@ Blue-green deployment encourages common updates to the software or carrier. This
 At any given time, one environment is energetic (serving manufacturing visitors) whilst the opposite is inactive (ready for updates or rollback). Initially, blue environments are energetic, serving the present-day version of the application to customers. Meanwhile, the green environment stays inactive, making an allowance for updates, trying out, and training for the next launch.
 
 ### Rolling Out Updates
-When a brand new replacement is ready for deployment, it's miles implemented inside the inactive green environment. The green environment undergoes thorough checking out, inclusive of practical trying out, integration checking out, performance testing and person attractiveness checking out, to ensure the replacement meets excellent standards. Once testing is a hit and the green environment is validated as stable, site visitors are progressively shifted from the blue to the green environment.
+When a brand new replacement is ready for deployment, it's miles implemented inside the inactive green environment. The green environment undergoes thorough checking out, inclusive of practical trying out, integration checking out, performance testing, and person attractiveness checking out, to ensure the replacement meets excellent standards. Once testing is a hit and the green environment is validated as stable, site visitors are progressively shifted from the blue to the green environment.
 
 ### Transitioning Traffic
 Traffic redirection is normally controlled through load balancers or routing rules. Initially, a small portion of traffic is routed to the green environment to minimize hazards and permit tracking of performance and user revel. As confidence in the new edition grows, more site visitors are directed to the green environment till it turns into the primary production environment.

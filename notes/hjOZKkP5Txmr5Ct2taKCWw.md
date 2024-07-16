@@ -91,7 +91,7 @@ To keep up the good performance of web applications, it is mandatory to apply to
 Tools for maintaining legal compliance and safeguarding user data are crucially essential concerning web design. [OneTrust](https://www.onetrust.com/index/) and [TrustArc](https://trustarc.com/), are a couple of other helpful tools for improving cookie consent management and complying with privacy regulations. Also, WebGPT can offer some tips on how one can provide better privacy features based on recent data on those requirements. To illustrate, it can be applied by an IT specialist developing medical software to make certain that it adheres to [HIPAA standards](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html) through advising on the methods of encrypting information and verifying the identity of the users safely.
 
 ### Version Control Systems
-Version control systems like [GIT](https://git-scm.com/) and [GitHub](https://github.com/) are vital to ease collaborative development and version management. Blend your workflows under one system in WebGPT, which allows one seamless blend for all your projects’ different stages. When writing code we may use it as it enables us to generate commit messages; alternatively, if reviewed using this platform also makes additional information revolve around several code lines among other things. This enables developers to make changes that would improve the quality of their work in a coordinated manner across multiple codebases or files with WebGPT suggestions for improvements being made for example during group projects undertaken by big organizations. Consequently it can ensure normal development of products since all changes are in time and code compliance is checked due to timely corrections.
+Version control systems like [GIT](https://git-scm.com/) and [GitHub](https://github.com/) are vital to ease collaborative development and version management. Blend your workflows under one system in WebGPT, which allows one seamless blend for all your projects’ different stages. When writing code we may use it as it enables us to generate commit messages; alternatively, if reviewed using this platform also makes additional information revolve around several code lines among other things. This enables developers to make changes that would improve the quality of their work in a coordinated manner across multiple codebases or files with WebGPT suggestions for improvements being made for example during group projects undertaken by big organizations. Consequently, it can ensure the normal development of products since all changes are on time and code compliance is checked due to timely corrections.
 
 ## Challenges and Limitations of Using WebGPT
 Despite having numerous advantages, it’s not all peachy when it comes to using WebGPT; hence the need to be aware of its limitations and challenges. In this section, we will take a look at the challenges and limitations of using WebGPT.
@@ -203,11 +203,11 @@ You must have been wondering what distinguishes WebGPT from [ChatGPT](https://ch
 
 | Feature                        | WebGPT                                      | ChatGPT                                  |
 |--------------------------------|---------------------------------------------|------------------------------------------|
-| Purpose                        | Enhance response accuracy with web search   | General conversational AI                |
+| Purpose                        | Enhance response accuracy with web search   | General conversational AI.                |
 | Web Access                     | Yes                                         | No                                       |
 | Training Data                  | Includes web scraping, curated data         | Pre-2023 data, no web scraping.           |
 | Real-Time Information          | Yes                                         | No                                       |
-| Knowledge Cutoff               | Real-time (with browsing)                   | Fixed at September 2021                  |
+| Knowledge Cutoff               | Real-time (with browsing)                   | Fixed in September 2021                  |
 | Use Cases                      | Fact-checking, latest information queries   | General conversation, knowledge sharing  |
 | Customization                  | Can use real-time web data                  | Limited to pre-trained data              |
 | Reliability                    | Depends on web sources, real-time accuracy  | High, within the scope of its training data |

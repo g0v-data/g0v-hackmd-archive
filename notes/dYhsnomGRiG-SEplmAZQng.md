@@ -58,8 +58,8 @@ Details changed
 
 :::success
 開票追蹤
-- reply request
-- bigquery visit event
+- reply request --> https://github.com/cofacts/rumors-line-bot/issues/396
+- bigquery visit event --> 較為次要。現在 create article 的第一人也不會紀錄 LINE bot view event
 :::
 
 

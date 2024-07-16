@@ -1,6 +1,5 @@
 ---
-title: "電業法修正資料整理"
-tags: hackpad
+tags: energy
 ---
 
 # 電業法修正資料整理

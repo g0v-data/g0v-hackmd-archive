@@ -23,7 +23,17 @@ Registration will close by June 30th. Please use form of your resident country.
 - Applicants in Korea > https://forms.gle/mExUxZnS3V2U2kYV9 < 韓國
 
 ## Event Schedule
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_668320828eb83c9bac2fd3ca27013a67.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8dee6abe02460eccddfad894ff3ccbc3.png)
+
+## Info Sheet
+https://docs.google.com/spreadsheets/d/150ExZnTFoTASFZoayazUTDsBHK4fInvJ0kcN1a428pk/edit?gid=0#gid=0
+
+## Project Registration
+https://docs.google.com/spreadsheets/d/150ExZnTFoTASFZoayazUTDsBHK4fInvJ0kcN1a428pk/edit?gid=1988771977#gid=1988771977
+
+* Please register by **31st of July**.
+* The maximum number of projects is **20**.
+
 
 ## Venue - Pacific Convention Plaza Yokohama (PACIFICO Yokohama) / Annex Hall
 

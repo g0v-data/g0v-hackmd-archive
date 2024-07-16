@@ -283,6 +283,14 @@ Review 企業贊助大松的機制，並撰寫接近定案的的回饋內容文�
         - 例如企業 ESG、CSR 具體行動
 - 想一下台灣社會有什麼 TA 
 
+## 綜合介紹文件
+
+三種捐款方案 QRCode
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1e4e55433959755e0c3801a57bcd2c51.png)
+
+
+
 ---
 
 # 三、募款短片

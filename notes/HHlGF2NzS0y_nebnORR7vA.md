@@ -1,6 +1,5 @@
 ---
-title: "台灣主要用電架構"
-tags: 省電,hackpad
+tags: energy, 省電
 ---
 
 # 台灣主要用電架構

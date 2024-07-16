@@ -2,24 +2,47 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 10951 | 2024-07-12T01:59:47+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 11185 | 2024-07-16T19:59:32+08:00 |
+| [digital-resilience](tags/digital-resilience.md) | 37 | 2024-07-16T19:55:00+08:00 |
+| [resilience](tags/resilience.md) | 28 | 2024-07-16T19:55:00+08:00 |
+| [internet-shutdown](tags/internet-shutdown.md) | 27 | 2024-07-16T19:55:00+08:00 |
+| [digiresi](tags/digiresi.md) | 27 | 2024-07-16T19:55:00+08:00 |
+| [civil-defense](tags/civil-defense.md) | 37 | 2024-07-16T19:55:00+08:00 |
+| [民防](tags/%E6%B0%91%E9%98%B2.md) | 50 | 2024-07-16T19:55:00+08:00 |
+| [數位韌性松](tags/%E6%95%B8%E4%BD%8D%E9%9F%8C%E6%80%A7%E6%9D%BE.md) | 37 | 2024-07-16T19:55:00+08:00 |
+| [DigiResiTh0n](tags/DigiResiTh0n.md) | 27 | 2024-07-16T19:55:00+08:00 |
+| [hackathon](tags/hackathon.md) | 47 | 2024-07-16T19:55:00+08:00 |
+| [logistics](tags/logistics.md) | 3 | 2024-07-16T19:55:00+08:00 |
+| [基建](tags/%E5%9F%BA%E5%BB%BA.md) | 6 | 2024-07-16T19:55:00+08:00 |
+| [基礎建設](tags/%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD.md) | 15 | 2024-07-16T19:55:00+08:00 |
+| [civil defense](tags/civil%20defense.md) | 11 | 2024-07-16T19:55:00+08:00 |
+| [rand0mth0n](tags/rand0mth0n.md) | 6 | 2024-07-16T19:40:16+08:00 |
+| [Tag(change me!)](tags/Tag%28change%20me%21%29.md) | 199 | 2024-07-16T16:41:38+08:00 |
+| [Rentea](tags/Rentea.md) | 196 | 2024-07-16T16:03:28+08:00 |
+| [cofacts](tags/cofacts.md) | 448 | 2024-07-15T20:46:10+08:00 |
+| [meeting note](tags/meeting%20note.md) | 273 | 2024-07-15T20:46:10+08:00 |
+| [GIS](tags/GIS.md) | 157 | 2024-07-15T08:35:53+08:00 |
+| [救松](tags/%E6%95%91%E6%9D%BE.md) | 3 | 2024-07-15T07:10:17+08:00 |
+| [AI](tags/AI.md) | 25 | 2024-07-14T20:23:09+08:00 |
+| [energy](tags/energy.md) | 6 | 2024-07-13T21:08:51+08:00 |
+| [光電](tags/%E5%85%89%E9%9B%BB.md) | 2 | 2024-07-13T21:03:10+08:00 |
+| [省電](tags/%E7%9C%81%E9%9B%BB.md) | 2 | 2024-07-13T20:48:48+08:00 |
+| [大電奉還](tags/%E5%A4%A7%E9%9B%BB%E5%A5%89%E9%82%84.md) | 1 | 2024-07-13T20:27:40+08:00 |
+| [anaconda](tags/anaconda.md) | 1 | 2024-07-13T10:47:14+08:00 |
+| [FtO](tags/FtO.md) | 62 | 2024-07-12T16:55:27+08:00 |
+| [g0v-intl](tags/g0v-intl.md) | 118 | 2024-07-12T16:55:27+08:00 |
+| [web3](tags/web3.md) | 128 | 2024-07-12T11:57:49+08:00 |
+| [Shoutout](tags/Shoutout.md) | 45 | 2024-07-12T11:57:49+08:00 |
 | [學術研究](tags/%E5%AD%B8%E8%A1%93%E7%A0%94%E7%A9%B6.md) | 4 | 2024-07-12T00:31:32+08:00 |
 | [cowork guideline](tags/cowork%20guideline.md) | 24 | 2024-07-12T00:31:32+08:00 |
 | [g0v](tags/g0v.md) | 72 | 2024-07-12T00:31:32+08:00 |
 | [開源協作手冊](tags/%E9%96%8B%E6%BA%90%E5%8D%94%E4%BD%9C%E6%89%8B%E5%86%8A.md) | 23 | 2024-07-12T00:31:32+08:00 |
-| [基礎建設](tags/%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD.md) | 15 | 2024-07-12T00:31:32+08:00 |
 | [吉祥物](tags/%E5%90%89%E7%A5%A5%E7%89%A9.md) | 15 | 2024-07-11T23:56:51+08:00 |
-| [AI](tags/AI.md) | 24 | 2024-07-11T23:56:51+08:00 |
 | [tree](tags/tree.md) | 47 | 2024-07-11T22:23:03+08:00 |
-| [Tag(change me!)](tags/Tag%28change%20me%21%29.md) | 198 | 2024-07-11T18:29:21+08:00 |
-| [FtO](tags/FtO.md) | 62 | 2024-07-11T17:01:44+08:00 |
-| [g0v-intl](tags/g0v-intl.md) | 118 | 2024-07-11T17:01:44+08:00 |
 | [Legal](tags/Legal.md) | 5 | 2024-07-11T14:24:19+08:00 |
-| [hackpad](tags/hackpad.md) | 3032 | 2024-07-11T14:24:19+08:00 |
+| [hackpad](tags/hackpad.md) | 3025 | 2024-07-11T14:24:19+08:00 |
 | [Templates](tags/Templates.md) | 249 | 2024-07-11T14:22:52+08:00 |
 | [Documentation](tags/Documentation.md) | 24 | 2024-07-11T14:22:52+08:00 |
-| [rand0mth0n](tags/rand0mth0n.md) | 6 | 2024-07-11T12:24:27+08:00 |
-| [hackathon](tags/hackathon.md) | 47 | 2024-07-11T12:24:27+08:00 |
 | [bayarea](tags/bayarea.md) | 1 | 2024-07-11T09:34:24+08:00 |
 | [g0v-siliconvalley](tags/g0v-siliconvalley.md) | 2 | 2024-07-11T09:34:24+08:00 |
 | [edu](tags/edu.md) | 150 | 2024-07-11T08:50:17+08:00 |
@@ -35,9 +58,6 @@
 | [ux](tags/ux.md) | 1 | 2024-07-09T20:09:26+08:00 |
 | [open source design](tags/open%20source%20design.md) | 1 | 2024-07-09T20:09:26+08:00 |
 | [Rand0mTh0n](tags/Rand0mTh0n.md) | 1 | 2024-07-09T18:24:07+08:00 |
-| [cofacts](tags/cofacts.md) | 447 | 2024-07-08T20:54:48+08:00 |
-| [meeting note](tags/meeting%20note.md) | 272 | 2024-07-08T20:54:48+08:00 |
-| [GIS](tags/GIS.md) | 152 | 2024-07-07T23:27:58+08:00 |
 | [人口推估](tags/%E4%BA%BA%E5%8F%A3%E6%8E%A8%E4%BC%B0.md) | 1 | 2024-07-06T21:20:28+08:00 |
 | [g0vernance](tags/g0vernance.md) | 45 | 2024-07-06T21:13:46+08:00 |
 | [國會松](tags/%E5%9C%8B%E6%9C%83%E6%9D%BE.md) | 6 | 2024-07-06T12:40:10+08:00 |
@@ -46,10 +66,8 @@
 | [公有資產](tags/%E5%85%AC%E6%9C%89%E8%B3%87%E7%94%A2.md) | 13 | 2024-07-05T21:20:48+08:00 |
 | [心理測驗](tags/%E5%BF%83%E7%90%86%E6%B8%AC%E9%A9%97.md) | 2 | 2024-07-05T08:27:49+08:00 |
 | [Book](tags/Book.md) | 160 | 2024-07-04T14:39:31+08:00 |
-| [web3](tags/web3.md) | 127 | 2024-07-04T03:57:22+08:00 |
 | [廣場論說書](tags/%E5%BB%A3%E5%A0%B4%E8%AB%96%E8%AA%AA%E6%9B%B8.md) | 1 | 2024-07-04T03:57:22+08:00 |
 | [Meeting](tags/Meeting.md) | 53 | 2024-07-04T02:51:26+08:00 |
-| [Rentea](tags/Rentea.md) | 196 | 2024-07-03T21:51:43+08:00 |
 | [公民科學](tags/%E5%85%AC%E6%B0%91%E7%A7%91%E5%AD%B8.md) | 11 | 2024-07-03T21:30:53+08:00 |
 | [GAI](tags/GAI.md) | 2 | 2024-07-03T14:55:20+08:00 |
 | [Notes_for_Prgms](tags/Notes_for_Prgms.md) | 1 | 2024-07-03T04:28:31+08:00 |
@@ -59,7 +77,6 @@
 | [river](tags/river.md) | 3 | 2024-06-29T20:38:52+08:00 |
 | [chatgpt](tags/chatgpt.md) | 5 | 2024-06-29T20:12:20+08:00 |
 | [公民參與](tags/%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87.md) | 17 | 2024-06-29T18:36:40+08:00 |
-| [Shoutout](tags/Shoutout.md) | 44 | 2024-06-26T14:31:49+08:00 |
 | [China](tags/China.md) | 5 | 2024-06-25T03:59:25+08:00 |
 | [CoRent](tags/CoRent.md) | 81 | 2024-06-25T00:18:52+08:00 |
 | [澳門](tags/%E6%BE%B3%E9%96%80.md) | 6 | 2024-06-23T16:32:11+08:00 |
@@ -68,25 +85,13 @@
 | [可能的空間](tags/%E5%8F%AF%E8%83%BD%E7%9A%84%E7%A9%BA%E9%96%93.md) | 1 | 2024-06-21T21:50:34+08:00 |
 | [VR](tags/VR.md) | 3 | 2024-06-21T21:02:18+08:00 |
 | [災情整合平台](tags/%E7%81%BD%E6%83%85%E6%95%B4%E5%90%88%E5%B9%B3%E5%8F%B0.md) | 10 | 2024-06-19T13:46:07+08:00 |
-| [民防](tags/%E6%B0%91%E9%98%B2.md) | 50 | 2024-06-15T20:01:11+08:00 |
-| [digital-resilience](tags/digital-resilience.md) | 37 | 2024-06-15T16:30:54+08:00 |
-| [resilience](tags/resilience.md) | 28 | 2024-06-15T16:30:54+08:00 |
-| [internet-shutdown](tags/internet-shutdown.md) | 27 | 2024-06-15T16:30:54+08:00 |
-| [digiresi](tags/digiresi.md) | 27 | 2024-06-15T16:30:54+08:00 |
-| [civil-defense](tags/civil-defense.md) | 37 | 2024-06-15T16:30:54+08:00 |
-| [數位韌性松](tags/%E6%95%B8%E4%BD%8D%E9%9F%8C%E6%80%A7%E6%9D%BE.md) | 37 | 2024-06-15T16:30:54+08:00 |
-| [DigiResiTh0n](tags/DigiResiTh0n.md) | 27 | 2024-06-15T16:30:54+08:00 |
-| [civil defense](tags/civil%20defense.md) | 11 | 2024-06-15T16:30:54+08:00 |
 | [標案資料](tags/%E6%A8%99%E6%A1%88%E8%B3%87%E6%96%99.md) | 5 | 2024-06-15T09:09:38+08:00 |
 | [ly](tags/ly.md) | 3 | 2024-06-15T00:07:06+08:00 |
 | [g0v-anniversary](tags/g0v-anniversary.md) | 61 | 2024-06-11T16:26:04+08:00 |
-| [logistics](tags/logistics.md) | 3 | 2024-06-10T18:15:54+08:00 |
-| [基建](tags/%E5%9F%BA%E5%BB%BA.md) | 6 | 2024-06-10T18:15:54+08:00 |
 | [RightsCon](tags/RightsCon.md) | 1 | 2024-06-08T11:24:38+08:00 |
 | [CY 零時監察院](tags/CY%20%E9%9B%B6%E6%99%82%E7%9B%A3%E5%AF%9F%E9%99%A2.md) | 25 | 2024-06-07T22:34:17+08:00 |
 | [開放式課程](tags/%E9%96%8B%E6%94%BE%E5%BC%8F%E8%AA%B2%E7%A8%8B.md) | 9 | 2024-06-07T16:13:29+08:00 |
 | [summit2024](tags/summit2024.md) | 62 | 2024-06-06T13:43:46+08:00 |
-| [救松](tags/%E6%95%91%E6%9D%BE.md) | 3 | 2024-06-05T23:24:11+08:00 |
 | [ly-visualization](tags/ly-visualization.md) | 4 | 2024-06-04T20:56:05+08:00 |
 | [qweqweqweqwe](tags/qweqweqweqwe.md) | 1 | 2024-06-04T13:42:01+08:00 |
 | [asia](tags/asia.md) | 1 | 2024-06-02T21:13:27+08:00 |
@@ -415,7 +420,6 @@
 | [tutorials](tags/tutorials.md) | 1 | 2023-03-14T09:25:34+08:00 |
 | [訪綱](tags/%E8%A8%AA%E7%B6%B1.md) | 3 | 2023-03-06T20:05:18+08:00 |
 | [公益信託](tags/%E5%85%AC%E7%9B%8A%E4%BF%A1%E8%A8%97.md) | 1 | 2023-03-01T15:28:53+08:00 |
-| [光電](tags/%E5%85%89%E9%9B%BB.md) | 2 | 2023-02-25T13:56:08+08:00 |
 | [公投](tags/%E5%85%AC%E6%8A%95.md) | 1 | 2023-02-14T10:17:26+08:00 |
 | [Twitter](tags/Twitter.md) | 1 | 2023-02-08T18:34:10+08:00 |
 | [Community Notes](tags/Community%20Notes.md) | 1 | 2023-02-08T18:34:10+08:00 |
@@ -853,8 +857,6 @@
 | [unicode](tags/unicode.md) | 1 | 2018-06-25T03:37:00+08:00 |
 | [國土巡守隊](tags/%E5%9C%8B%E5%9C%9F%E5%B7%A1%E5%AE%88%E9%9A%8A.md) | 1 | 2018-06-04T11:26:08+08:00 |
 | [Equipments](tags/Equipments.md) | 2 | 2018-06-03T05:49:22+08:00 |
-| [專案介紹](tags/%E5%B0%88%E6%A1%88%E4%BB%8B%E7%B4%B9.md) | 1 | 2018-05-05T17:30:15+08:00 |
-| [大電奉還](tags/%E5%A4%A7%E9%9B%BB%E5%A5%89%E9%82%84.md) | 1 | 2018-05-05T17:30:15+08:00 |
 | [nan](tags/nan.md) | 2 | 2018-04-14T16:13:54+08:00 |
 | [Ｋ傳媒](tags/%EF%BC%AB%E5%82%B3%E5%AA%92.md) | 1 | 2018-04-06T20:17:35+08:00 |
 | [選舉松](tags/%E9%81%B8%E8%88%89%E6%9D%BE.md) | 4 | 2018-04-03T16:01:59+08:00 |
@@ -957,7 +959,6 @@
 | [follow](tags/follow.md) | 1 | 2015-03-31T15:59:29+08:00 |
 | [太陽花盒子](tags/%E5%A4%AA%E9%99%BD%E8%8A%B1%E7%9B%92%E5%AD%90.md) | 3 | 2015-03-23T03:27:29+08:00 |
 | [做個統計網站](tags/%E5%81%9A%E5%80%8B%E7%B5%B1%E8%A8%88%E7%B6%B2%E7%AB%99.md) | 2 | 2015-03-22T18:39:03+08:00 |
-| [省電](tags/%E7%9C%81%E9%9B%BB.md) | 2 | 2015-03-18T23:17:47+08:00 |
 | [HowsFood](tags/HowsFood.md) | 1 | 2015-02-23T10:59:38+08:00 |
 | [疫情](tags/%E7%96%AB%E6%83%85.md) | 1 | 2015-02-13T03:18:38+08:00 |
 | [開發環境](tags/%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83.md) | 3 | 2015-02-01T12:11:09+08:00 |

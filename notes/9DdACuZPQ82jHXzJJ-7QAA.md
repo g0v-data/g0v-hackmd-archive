@@ -81,9 +81,7 @@ https://public.tableau.com/app/profile/energypark/viz/AMI_16051587806830/1
 等待整理
 https://docs.google.com/document/d/1_BwIn8BN3mK0A1w2EGt7nC8UtgAkMnU8WIRXS_ZuJVQ/edit
 
-
-
-探討綠能規劃區位，結合生物多樣性資料
+以綠能（renewable energy）為對象的生物多樣性空間規劃工具（spatial planning tool），探討綠能規劃區位，結合生物多樣性資料
 https://www.facebook.com/groups/128515057963531/permalink/1221770678637958/
 
 日本

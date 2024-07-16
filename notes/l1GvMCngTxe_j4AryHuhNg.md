@@ -1,6 +1,5 @@
 ---
-title: "省電取代蓋電廠，數據收集"
-tags: 省電,hackpad
+tags: energy, 省電
 ---
 
 # 省電取代蓋電廠，數據收集

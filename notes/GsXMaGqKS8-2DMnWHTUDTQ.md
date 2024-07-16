@@ -1,9 +1,8 @@
 ---
-title: "能源真實成本"
-tags: hackpad
+tags: 
 ---
 
-# 能源真實成本
+# 歷史影像平台
 
 > [點此觀看原始內容](https://g0v.hackpad.tw/Py6DuRvScwN)
 

@@ -1,6 +1,5 @@
 ---
-title: "核電翻譯機  (Nuclear Data)"
-tags: hackpad
+tags: energy
 ---
 
 # 核電翻譯機  (Nuclear Data)
