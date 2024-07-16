@@ -78,4 +78,4 @@ https://docs.google.com/spreadsheets/d/1Pyf6B2JmPPyqkQiSh7wce1yaQAEMsUqiYQWp0Y1q
 - [共筆](https://g0v.hackmd.io/JXeFGfs3QTixAj0qBqRt7Q)
 
 ###  食材消化計畫
- -用不完的食材要如何
+ -用不完的食材要如何處理

@@ -144,6 +144,9 @@ https://www.facebook.com/share/p/2ivg8vaxYD9c6GwS/
 台南佳里
 https://www.facebook.com/share/p/JtiniXMdqyYaMDSx/
 
+臺南甲頂路
+https://www.facebook.com/share/p/h5gocvfmDXVpetHy/
+
 台南歸仁圓環
 https://www.facebook.com/100092995934211/posts/pfbid0SssWXfSJEk71SV8wjzx2ngeWoywQ27PJcYg5fb5Ca2uNZhMe6ieus8KdgFxUjTjNl/
 

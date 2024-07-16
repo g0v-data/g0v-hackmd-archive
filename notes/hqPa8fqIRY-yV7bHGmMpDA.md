@@ -140,3 +140,62 @@ export default PullToRefresh;
 
 We used `useState` in this code to carry out the handling of both the refreshing and pulling states. The `useEffect` hook will call the `onRefresh` function that was passed as `prop` immediately the `isRefreshing` state is `True`.
 
+To detect pull-down gesture, one need to add a listener for touch events as well as mice events. It then becomes an issue of tracking either touch or mouse movements and changing the current status as appropriate.
+
+```javascript
+import React, { useState, useEffect } from 'react';
+
+const PullToRefresh = ({ children, onRefresh }) => {
+  const [isPulling, setIsPulling] = useState(false);
+  const [isRefreshing, setIsRefreshing] = useState(false);
+  const [startY, setStartY] = useState(0);
+  const [currentY, setCurrentY] = useState(0);
+
+  const handleTouchStart = (e) => {
+    setStartY(e.touches[0].clientY);
+    setIsPulling(true);
+  };
+
+  const handleTouchMove = (e) => {
+    setCurrentY(e.touches[0].clientY);
+  };
+
+  const handleTouchEnd = () => {
+    if (isPulling && currentY - startY > 50) {
+      setIsRefreshing(true);
+    }
+    setIsPulling(false);
+    setStartY(0);
+    setCurrentY(0);
+  };
+
+  useEffect(() => {
+    if (isRefreshing) {
+      onRefresh().then(() => setIsRefreshing(false));
+    }
+  }, [isRefreshing, onRefresh]);
+
+  return (
+    <div
+      className="relative overflow-hidden bg-gray-100"
+      onTouchStart={handleTouchStart}
+      onTouchMove={handleTouchMove}
+      onTouchEnd={handleTouchEnd}
+    >
+      <div className="absolute inset-x-0 top-0 flex justify-center items-center h-16 bg-blue-500 text-white">
+        <span className="text-sm">{isPulling ? 'Release to refresh' : 'Pull down to refresh'}</span>
+      </div>
+      <div className="pt-16">
+        {children}
+      </div>
+    </div>
+  );
+};
+
+export default PullToRefresh;
+```
+Manage `handleTouchStart`, `handleTouchMove`, and `handleTouchEnd` functions touch events in this code. Checking whether the pull-down distance is enough to trigger a refresh is done in the `handleTouchEnd` function. If it is so, it turns the `isRefreshing` state into true causing the onRefresh function to be triggered.
+
+### Triggering Data Refresh
+The `onRefresh` functionality ought to become handed down to a prop in PointTowardsusterRefresh element. To itself take care of getting fresh information and subsequent updating the major view container’s status.
+
