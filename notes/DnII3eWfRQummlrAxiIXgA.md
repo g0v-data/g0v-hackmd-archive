@@ -153,7 +153,23 @@ Setting up Cypress as an npm package is equally straightforward. You add it to y
 
 Step by step guide to setting up Cypress:
 
-Step 1: Download Nodejs: Go to your s
+Step 1: Download Nodejs: Go to your search engine and search for nodejs download. Click on the result and you will be directed to a page where you can select the version of nodejs you want and the operating system of your laptop. Then click on the download button. 
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4fb3ed1c562a6ca56130d64f4d350d67.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_65719b155ebe62198cd2396066990a5e.png)
+
+Step 2: After you have successfully downloaded nodejs, a welcome page will be displayed, follow all due instructions and click on next till you are directed to click on the install button, it only takes a few seconds at most. 
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_72ef8b620798b38253f63b26541b9643.png)
+
+Step 3: Download Visual studio code: After visual studio code has been downloaded, you will be prompted to follow certain instructions to successfully install it. 
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5a18094ab32fb4b13b0efd18de258bf7.png)
+
+Step 4: Create a folder named 'Cypress Automation' and 
+
+
 
 Playwright: Playwright is set up from the command line, using an npm command: `npm init playwright`. This initialization step is an interactive workflow that asks you to choose your desired scripting language (Javascript or Typescript), the location of your test scripts, and whether to include a Github Actions Workflow for CI.
 

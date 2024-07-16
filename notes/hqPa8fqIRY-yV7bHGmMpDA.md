@@ -485,11 +485,6 @@ export default PullToRefresh;
 ```
 The spinner is a spinner SVG with an `animate-spin` class from Tailwind CSS. It is displayed when `isRefreshing` is true, indicating that the data is currently being refreshed.
 
-### Providing Feedback to the User
-To notify the users about their requests’ status whilst reloading, a loading spinner has to show up. The aforementioned is how a loading spinner can be inserted into the pull-to-refresh notification. Users should be informed after a successful refresh is completed so that they are aware. To do this, one can either use an instant message or an imagery cue. For example, once the record has been refreshed, show a successful message for a few seconds.
-
-For example:
-
 
 
 

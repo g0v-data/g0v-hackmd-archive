@@ -67,7 +67,7 @@ https://docs.google.com/spreadsheets/d/1Pyf6B2JmPPyqkQiSh7wce1yaQAEMsUqiYQWp0Y1q
 先開了一份 spreadsheets，歡迎大家一起來共編
 
 ### 開源設計討論
-- 一起討論設計師如何在 GitHub 上與工程師對話
+- 討論設計師如何在 GitHub 上與工程師對話
     - 可以先切豆腐
     - ::: spoiler
         - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fd828a55c28d982d34c98e602ea1cd71.png)
