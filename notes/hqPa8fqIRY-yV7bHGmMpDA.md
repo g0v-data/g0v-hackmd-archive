@@ -133,7 +133,7 @@ export default PullToRefresh;
 
 We used `useState` in this code to carry out the handling of both the refreshing and pulling states. The `useEffect` hook will call the `onRefresh` function that was passed as `prop` immediately after the `isRefreshing` state is `True`.
 
-To detect pull-down gestures, one needs to add a listener for touch events as well as mice events. It then becomes an issue of tracking either touch or mouse movements and changing the current status as appropriate.
+To detect pull-down gestures, one needs to add a listener for touch events as well as mouse events. It then becomes an issue of tracking either touch or mouse movements and changing the current status as appropriate.
 
 ```javascript
 import React, { useState, useEffect } from "react";
@@ -187,10 +187,10 @@ const PullToRefresh = ({ children, onRefresh }) => {
 
 export default PullToRefresh;
 ```
-Manage `handleTouchStart`, `handleTouchMove`, and `handleTouchEnd` functions touch events in this code. Checking whether the pull-down distance is enough to trigger a refresh is done in the `handleTouchEnd` function. If it is so, it turns the `isRefreshing` state into true causing the `onRefresh` function to be triggered.
+Manage `handleTouchStart`, `handleTouchMove`, and `handleTouchEnd` functions touch events in this code. Checking whether the pull-down distance is enough to trigger a refresh is done in the `handleTouchEnd` function. If it is so, it turns the `isRefreshing` state into `true` causing the `onRefresh` function to be triggered.
 
 ### Triggering Data Refresh
-The `onRefresh` functionality ought to be handed down to a prop in `PullToRefresh` element. To itself takes care of getting fresh information and subsequently updating the major view container’s status.
+The `onRefresh` functionality ought to be handed down to a `prop` in `PullToRefresh` element. To itself takes care of getting fresh information and subsequently updating the major view container’s status.
 
 ```javascript
 import React, { useState } from "react";
@@ -354,7 +354,7 @@ const App = () => {
 
 export default App;
 ```
-In this instance, a loading `state` variable is created. It is set to `true` in case of calling `fetchData` and to `false` when the data is received. The variable value decides upon how the display should proceed; if loading then show a spinner else show the list (of data).
+In this instance, a `loading` state variable is created. It is set to `true` in case of calling `fetchData` and to `false` when the data is received. The variable value decides upon how the display should proceed; if loading then show a spinner else show the list (of data).
 
 Incorporating these adjustments allows for a flawless; integrated pull-to-refresh element within the larger app, capable of handling data fetches and loading states, thereby giving users an intuitive experience when they want to update themselves.
 
@@ -427,7 +427,7 @@ const PullToRefresh = ({ children, onRefresh }) => {
 
 export default PullToRefresh;
 ```
-Tailwind CSS `transition-transform` and `duration-300 classes` provide a nice transition to the pull-to-refresh message in the code above, where `translate-y-12` and `translate-y-0` classes dictate the vertical placing of the message according to the state of pulling.
+Tailwind CSS `transition-transform` and `duration-300` classes provide a nice transition to the pull-to-refresh message in the code above, where `translate-y-12` and `translate-y-0` classes dictate the vertical placing of the message according to the state of pulling.
 
 The pull-to-refresh action helps users understand that their request is being processed. Loading states can be shown with Tailwind CSS using a loading spinner or any other indicator.
 
