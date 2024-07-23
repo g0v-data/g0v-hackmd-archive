@@ -29,6 +29,7 @@ We want to discuss measures for both governmental and civil department, that can
 各次小松
 ---
 `Latest` 
+- [20240726 DigiResiTh8n 第捌次](https://g0v-digiresi.kktix.cc/events/digiresith8n)
 - [20240615 DigiResiTh7n 第柒次](/_WHs9N0eS3mzFHn5QzjvRg)
 - [20240525 DigiResiTh6n 第陸次](/CLbAeY3wTZCaLr-YCYqafw)
 - [20240427 DigiResiTh5n 第伍次](/ugNkTFLARwK4rmH7jCdO-g)
@@ -40,7 +41,8 @@ We want to discuss measures for both governmental and civil department, that can
 
 數位韌性專案們
 ---
-- [WaytoSafety 隨時隨地知道避難場所位置](https://g0v.hackmd.io/@waytosafety/home/)
+- [全台防災/防空避難所大統整](https://g0v.hackmd.io/UNg_8F3FTuynAwbV7flp-w)
+- [WaytoSafety 隨時隨地知道避難場所位置 / 臺灣資料勘誤 / 日本與韓國資料彙整](https://g0v.hackmd.io/@waytosafety/home/)
 - [重要數位服務韌性檢測及其替代品](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A)
 - [台灣鏈網 Meshtastic](/ZGuA7fUZQi-fbD06EenmGQ)
 - [Meshtastic as Citizen Network](https://g0v.hackmd.io/0bR8-LvHRMaNaR97YaXpnQ)
@@ -53,7 +55,6 @@ We want to discuss measures for both governmental and civil department, that can
 - [2021-04-02 太魯閣號列車脫軌事故災情整合平台](https://g0v.hackmd.io/c/20210402TarokoCrash/https%3A%2F%2Fg0v.hackmd.io%2F%40jothon%2FBJI4GKESd)
 - [COVID-19 Info 疫情資訊野生整合平台](https://g0v.hackmd.io/@yitzu/covid-19/https%3A%2F%2Fg0v.hackmd.io%2F%40yitzu%2Fcovid-19)
 - [俄羅斯入侵烏克蘭資訊野生整合平台 2022.2-](https://g0v.hackmd.io/@chihao/ukraine/%2Fm8_-IXlsSNGxIKOxsEDhxw%3Fview)
-- [全台防災/防空避難所大統整](/UNg_8F3FTuynAwbV7flp-w)
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
