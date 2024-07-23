@@ -19,8 +19,6 @@ tags: 民防
 https://goo.gl/maps/QXXWAE7PjJoqRmmN6
 社團討論串
 https://www.facebook.com/groups/1039896299354539/permalink/4624338414243625/
-<iframe src="https://www.google.com/maps/d/embed?mid=19Q8BraU1Nmnk23TzMb5rhXFuIAnOpTTq&ehbc=2E312F" width=100% height="480"></iframe>
-
 
 臺灣防空識別區快訊
 g0v slack #adiz_alerts
@@ -105,8 +103,9 @@ https://g0v.github.io/adr.npa.gov.tw/
 
 ### 防災避難收容處所
 
-似乎尚未有批次地理資料釋出：
-https://g0v.hackmd.io/JzB6MXZRThm6hIgS0OHEdQ?view
+防災避難收容處所地理資料勘誤
+https://g0v.hackmd.io/@waytosafety/home/
+
 如何找到自己所在的村里避難地圖，推廣網頁
 https://www.safetaiwan.com/blogs/disaster-prevention-column/evacuation-map
 
