@@ -138,9 +138,15 @@ ____
 
 * clang:compile specific file(link source file into libary)
 ex: clang example.c -o example
+* **start counting at 0**
+
 > * debugging: 
 debug50 ./example
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_338365c9fe51cb38f064969be88fbb0f.png)
 set a breakpoint(click on the red dot besides the lines)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_66d7d6c00c140a5e1440a72e2694db4e.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2704db1ceb05fa1272a8318d687f229d.png)
+* when setting variables, give size
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8f337578a2b89e4f13902bf0b473b07d.png)
+> **global variables:** Accessible from any part of the program, at the top.
+**local variables:** Accessible only within the block or function, inside a function .
