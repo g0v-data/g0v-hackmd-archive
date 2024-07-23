@@ -42,7 +42,8 @@ it's more efficient, because the computer only has to check conditions until it 
 **<use else if>**
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c1e38490442f8ed89c04755da80e6bd3.png)
 
-> **include <cs50.h>**
+___
+> ## **include <cs50.h>**
 get_char - short for character,(letter, number, etc.)
 get_double - 雙精度浮點數（即帶有小數點且精度較高的數字）
 get_float - 浮點數
@@ -51,7 +52,7 @@ get_long - int但記憶體更大(4byte)
 get_short -int但記憶體更小(2byte)
 get_string - 一串字符的序列
 
-Certainly! Here's a simple explanation of each format specifier commonly used in programming languages like C:
+
 
 | 格式符号 | 描述                                   |
 |----------|----------------------------------------|
@@ -62,6 +63,11 @@ Certainly! Here's a simple explanation of each format specifier commonly used in
 | %s       | 用于读取或打印字符串（char数组或指针） |
 
 这些格式符号在编程中常用来指示输入输出函数如何处理不同类型的数据。例如，在使用 `scanf` 函数读取输入时，你可以使用这些格式符号来告诉编程语言如何解析输入的内容。
+
+how to use them?
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_07e3cf4f190e7d0c9f8f85f082fbc832.png)
+use:  **("example:%f\n", details from example)**
+
 ---
 
 > ### *checking lower or upper case*
