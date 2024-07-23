@@ -76,6 +76,8 @@ tags: 新生流域
     - 住宅 https://www.facebook.com/share/p/Nn41VWhUuaLkPzra/?mibextid=WC7FNe
     - 師大校區附近 舊照片 https://www.facebook.com/share/amDFgDNNDrzzKVZk/
     - 古莊里 農業時期照片 https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
+    - 1933 水源地與新店溪照片 https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=483057&keyword=%E6%96%B0%E5%BA%97%E6%BA%AA&limit=24&offset=144&sort=relevance&order=desc&isFuzzyMode=false&query=%7B%22format%22:%22%E5%9C%96%E5%83%8F%22%7D&recOffset=156&fbclid=IwZXh0bgNhZW0CMTEAAR0DzJAa0ad6QHxw_u3IBiNJRhs6t9ghTNWgqfc0aTXSN5nL1lhadeneKSk_aem_kyVG8A54Mcm4Ow7gULXF3g
+        - 2024 對照拍攝 https://www.facebook.com/share/gAPPsZdwJrEHVUR4/
     - 1940 台北市公車路線圖 https://www.facebook.com/share/aUeANjUcrTVifzGx/
         - 公車照片 https://www.facebook.com/share/p/ubpFZ5weChXnGQ2t/
     - 1932 照片鳥瞰 臺灣神社 https://www.facebook.com/share/p/B8tYT1UVD3u4z5sn/
@@ -232,6 +234,7 @@ tags: 新生流域
 - 輕軌與水景 https://www.facebook.com/share/r/ZemLzcZVzVCff8yh/
 - 輕軌與水景 https://www.facebook.com/share/r/oBtDv6wBgdAXerEf/
 - 新北市土城區捷運海山站，路線與溝渠共用https://maps.app.goo.gl/ovjV8CqnsbEceQou6?g_st=com.google.maps.preview.copy
+- 法國波爾多 橋面提供都市活動 https://www.facebook.com/share/p/SbsQ4S9eARoPAVED/
 - 首爾 https://www.facebook.com/share/r/hKwdpAxP7r9UdQAZ/
 - 首爾 https://www.facebook.com/share/p/xeWmUtvbXrAoRbtj/
 - 雲林溪 https://www.facebook.com/story.php?story_fbid=pfbid02fL8Ww5ZL4WP2XEEeiXYEv4tFRzgcJtHcvM4ZSYNGyN7h1vKWTc1r5YAUZM5UdK6rl&id=100067220707427&mibextid=qC1gEa
@@ -335,7 +338,7 @@ tags: 新生流域
 
 ## Data 流域資料
 
-### 水環境、生態、垃圾分佈、溫度
+### 人口、水環境、生態、垃圾分佈、溫度
 
 流域人口
 - 計算方式討論：https://www.facebook.com/groups/582154450196478/posts/669611404784115/
@@ -345,6 +348,9 @@ tags: 新生流域
     - 數值來自2021年遠傳電信信令人口網格資料推估
 - 信令工作人口
     - 數值來自2021年遠傳電信信令人口網格資料推估
+
+親水公共生活、需求量估算、人流、公共設施面積、佈局模式
+
 
 
 集水範圍內，高淹水潛勢地區、歷史淹水事件地點地理資料、舊水路、當代雨水下水道

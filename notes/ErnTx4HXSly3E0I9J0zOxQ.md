@@ -39,6 +39,29 @@ https://www.facebook.com/groups/474536628587982
 另開簡報
 https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X5cE/edit
 
+## 20240720 歡迎來查路口寬度 !
+
+歡迎來幫忙用 Google 地圖，計算全世界已施作巷弄車流轉向的路口寬度，已知案例：巴塞隆納、維也納、柏林、Leipzig、Münster、Potsdam、西雅圖
+
+未看先猜，從小到大：
+
+•	Münster, Sternstraße & Heisstraße
+•	Potsdam, Gutenbergstraße Jägerstraße 
+•	Leipzig 萊比錫 Ludwigstraße & Hildegardstraße
+•	維也納 Erlachgasse & Eckertgasse 路口
+•	維也納 Mittelschule Herzgasse 中學學校西南側路口
+
+•	維也納 Erlachpark 公園東南側路口
+
+•	柏林 Wrangelstraße Falckensteinstraße
+•	巴塞隆納 C/ de Biscaia
+•	巴塞隆納 C/ de Sancho de Ávila
+•	巴塞隆納 軸帶 C/ del Consell de Cent
+•	西雅圖 Thomas St & Dexter Ave N
+
+案例線上地圖：https://maps.app.goo.gl/X4C3X5fb5rMY1q5C6
+
+
 #### 巴塞隆納
 
 ##### 軸帶 C/ del Consell de Cent
@@ -52,6 +75,9 @@ https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X
 ##### 個別街廓
 - C/ de Sancho de Ávila
     - Parc infantil：https://maps.app.goo.gl/X5vCNzCWo821CvtGA
+- C/ de Biscaia
+    - 2024.07 照片 https://www.facebook.com/photo/?fbid=468517009119732&set=pcb.468520879119345&locale=zh_TW
+    - https://www.facebook.com/photo/?fbid=468516949119738&set=pcb.468520879119345&locale=zh_TW
 - 待查找線上地圖地點：https://www.facebook.com/share/9jkpUvRvNzEFkJbn/?mibextid=WC7FNe
 
 #### 維也納
@@ -116,7 +142,6 @@ Mittelschule Herzgasse 中學學校西南側路口
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d177094489708b23704c7f60d95eefb7.jpeg)
 
 
-
 ##### 其他待確認
 實體活動策劃待確認地點
 https://www.linkedin.com/posts/flolo_supergrätzl-activity-6978991837566918656-b4uf/
@@ -131,13 +156,34 @@ https://x.com/infraexplained/status/1805702495810867665
 
 https://www.facebook.com/immdesignlab.polimi/posts/pfbid0MANDDHrSmx9oPPpQj65tsTbByi6pTGm9RiSLHpQD6a9wEog8NtoW9CjEhTPZhrv9l
 
+#### 德國
+
+[已施作] 柏林 Wrangelstraße Falckensteinstraße 
+- 2019 影片 https://x.com/ayranundspeck/status/1163876931781169155
+- 街景 https://maps.app.goo.gl/KqU8Yey3Fa9mUtHz7
+
+[已施作] Potsdam, Gutenbergstraße Jägerstraße 路口街景
+https://maps.app.goo.gl/D7hkyk4QfTinyqFu8
+
+[已施作] Leipzig 萊比錫 Ludwigstraße & Hildegardstraße
+完工照片 https://upload.wikimedia.org/wikipedia/commons/2/25/Modalfilter_%28Diagonalsperre%29_des_ersten_Leipziger_Superblocks_2.jpg
+街景 https://maps.app.goo.gl/SPhjT6TUnVKUnpdg8
+
+[已施作] Münster, Sternstraße & Heisstraße
+設置汽車通行桿，仍可以讓特定車輛通過，街景 https://maps.app.goo.gl/j5SjPmW3jAtGud379
+更早期似乎是車阻，而不是電動通行桿，照片 https://de.wikipedia.org/wiki/Modale_Filter#/media/Datei:2021-12-08_Modaler_Filter_Heisstra%C3%9Fe_Sternstra%C3%9Fe_M%C3%BCnster.jpg
+
+[街區探討方案] 柏林 Brüsseler Kiez 
+https://prof.bht-berlin.de/fileadmin/prof/jschlaich/Abschlussarbeiten/Abschlussarbeit_Nr20_Bachelor_Follert_BruesselerKiez.pdf
+
+
 #### 西雅圖
 
-汽車不直通
+Thomas St & Dexter Ave N 汽車不直通
 https://www.facebook.com/share/uM9kYKZd2hh3CkPd/
 https://maps.app.goo.gl/tgspqJiRToreAMX27
 
-### 臺灣情境試作地圖
+### 國際案例地點 & 臺灣情境試作地圖
 
 另開地圖：https://maps.app.goo.gl/X4C3X5fb5rMY1q5C6
 

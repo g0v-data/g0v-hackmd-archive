@@ -134,6 +134,8 @@ https://www.facebook.com/100064848694500/posts/pfbid034o3uSvGYRLSBcVc9t9NgNtctrX
 和美
 https://www.facebook.com/100064848694500/posts/pfbid034vi93Rhx9tqwoKiMRiNb8CQpf4GPGnQ2e1Piby4TQX2d9T4v645GA5R3F9o7E1npl/
 
+彰化縣 台1線 189-190.5
+https://www.facebook.com/share/psQ6akS1i5M4rDVn/
 
 雲林斗六
 https://www.facebook.com/100063760886799/posts/pfbid02KgiKRT3mAruj36EeMgqmLwvH5Ehbf2gxaPxpY5N4ybeej9Ac6xnMfPn9Q9wLnbF3l/?mibextid=cr9u03

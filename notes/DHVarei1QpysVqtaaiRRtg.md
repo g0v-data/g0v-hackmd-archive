@@ -1,0 +1,9 @@
+=====
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4a24f07cf65bb08d668bba91430af2ce.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1ace6cb841b4e380ff1e5352f86ec192.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d4b2e08501acccc579faf4dcbe1fa8ae.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c3970a75b30d9be02bf73e4c5c8217cb.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_916d230bc33e0daa43594f526561916f.png)
+不同網路協定轉換才需要Gateway
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b17766a2b42ef3760f68d71a7bbf3157.png)
+ping對外router窗口(10.10.52.254),TTL指每經過一個Router丟掉一個HOP，TTL減1

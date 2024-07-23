@@ -1,0 +1,23 @@
+---
+tags: vtaiwan,dpsurvey
+---
+# 個別工具資訊整理
+- [臺灣-數位民主實驗平台](https://talk.twfuture.care/c/energy/vision/9)
+- [JOIN 公共政策網路參與平臺](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/recciIDOtl34bNvJ4?blocks=hide)
+- [Decidim](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/recf20cleSw96Q18o?blocks=hide)
+- [CONSUL DEMOCRACY](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/recoA4IRBa3VH1vFu?blocks=hide)
+- [vTaiwan 審議方式](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/recXWKuMAg24QePTD?blocks=hide)
+- [Polis](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/recdny7K9gxQspona?blocks=hide)
+- [Consider.it](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/recArPwsI5cWiCq1i?blocks=hide)
+- [Talk to the City (TttC)](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/recPabLeGoPtoiI7T?blocks=hide)
+- [[廣泛蒐集] 爭點結構視覺化工具](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/recJdn1bW8oPDvgRS?blocks=hide)
+- [[廣泛蒐集] Line 各類應用](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/recLCrDabIrBaGDkp?blocks=hide)
+- [群眾標註](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/recvdsmAmRVMzdNtB?blocks=hide)
+- [Scaniverse App](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/recJ7EqlR1YjuNGhY?blocks=hide)
+- [Felt](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/rec3ZlfFDPhDmlv2l?blocks=hide)
+- [Unlimited Cities DIY](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/recRyV4kNxjSJ7aId?blocks=hide)
+- [Collage](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/recVuDxJ4md5n5Php?blocks=hide)
+- [Streetmix](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/recsZYfLu4woAsgu4?blocks=hide)
+- [A/B Street](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/reciL1lUYoOuuPjc8?blocks=hide)
+- [Konveio](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/rec3cQH22sSLWuDnX?blocks=hide)
+- [Geodesign / Geodesignhub](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd/recYfTQ4ys87K9w6f?blocks=hide) 

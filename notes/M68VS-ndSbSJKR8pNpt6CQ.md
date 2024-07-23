@@ -10,7 +10,7 @@
 ## 途中不小心掉入的坑
 - [Tofus 與 Web3forAll 讀書會](https://g0v.hackmd.io/@tofus/web3forall)
 - [Tofus and Pagoda](/QI4BEJ6PSr2AEEnIxE8O1A)
-- [Open-Source Design 之豆腐出張所](/ZEwXv_tAQY-stxU0IUrdSg)
+- [一起來切豆腐！](/DlyCaahFR9-yA41PlAoBzQ)
 - [COSCUP 2024 Designers in Tech Workshop with Superbloom](/ARIpcOQAR9yH8x5vofCYiA)
 ### 豆腐出張所系列
 - [便利貼跟 A4 紙的本質是豆腐切片，所以在紙上畫設計稿是在切豆腐！](/MGLA34CYTnqFtZMKjDiYBA)

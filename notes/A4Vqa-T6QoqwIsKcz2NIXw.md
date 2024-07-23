@@ -84,11 +84,21 @@ NeedsTalkingToRealPerson:
 
 # 成果展示（規劃文件、雛形/草稿、原型/初稿、正式發佈/完稿）
 - Web：https://www.chancetix.com/
-- PPT：https://docs.google.com/presentation/d/18wddOPBj_I-S17uo0DpoSuVStynUGLpaSg7ZcmCEZ44/edit?usp=sharing
-- GitHub：https://github.com/OKHand-Zy/chancetix
+- PPT：[ChanceTix 售票系統 - Google docs](https://docs.google.com/presentation/d/18wddOPBj_I-S17uo0DpoSuVStynUGLpaSg7ZcmCEZ44/edit?usp=sharing)
+- GitHub：[chancetix-web-app - Github](https://github.com/OKHand-Zy/chancetix-web-app)
 - Notion：[ChanceTix - Notion](https://okhand.notion.site/0fa4c780acd9451d8f02d090604fa67e?v=3034498d2e1143ef8a0cceb607adf9a4&pvs=4)
 - 聯絡與溝通管道：
     - Discord：okhand
     - Telegram：@OKHandTw
+    - Slack：OKHand ZiYu
+
+## 參與專案 協助者/貢獻者：
+- Cloud
+- Tofus
 
 ## 提案相關問題討論區
+Q. 
+> [name=ichieh] 嗨，今天在大松的成果報告聽到你們在做這個，感覺超酷！我自己有在辦活動，因此會想到的是不確定售票平台在管理者端目前會有哪些功能，例如 kktix 可以有寄信給報名者、優惠碼設定、票種設定這些。
+
+A. 
+> [name=OKand] 目前現階段最小可行性是想先往＇匿名二手票卷流通平台＇前進，後面等我們認證方式等...考量問題解決時再繼續開發。不過依我現在開發完成的功能是有，1.查看活動參與者與持有的票卷的規格 2.舉辦活動時票種的設定(價格、種類)，不過如果有希望的功能或是覺得其他售票平台有那些不方便的點歡迎提出來！！

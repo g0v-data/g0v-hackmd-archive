@@ -10,7 +10,7 @@
 ### Step 1: Change the title and add a tag
 
 - [x] Create my first HackMD note (this one!)
-- [ ] Change its title
+- [x] Change its title
 - [ ] Add a tag
 
 :rocket: 

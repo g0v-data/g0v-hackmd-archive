@@ -41,3 +41,9 @@
     - 可以把這500項交給使用者，判斷這在台灣重要嗎?如果重要，需要做哪些修改？
 - 使用者回饋過後的，符合台灣情境與需求的項目，可以再交給專家refine，變成更具體的倡議
 - 最終目標：利用群眾意見收集中屬於台灣的具體行動方案
+
+## 0720 大松討論紀錄
+    
+- [開放國會資料整理](https://docs.google.com/spreadsheets/d/1P98LGBTK1fu2KxC775sXIDwr5QlB6harsqBwMKoicM4/edit?usp=sharing)
+- 已經 554 項意見分類完，並將其整合到 200 項。
+- [成果報告ppt](https://docs.google.com/presentation/d/1S8bZWYAvyweEFHVt6frD7NXpCAV8xC1OQTZdVIRZUn4/edit#slide=id.g2ed3cfb9d0f_0_0)

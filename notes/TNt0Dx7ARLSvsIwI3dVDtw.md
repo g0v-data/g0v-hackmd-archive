@@ -193,6 +193,7 @@ Fireworks doodles make the events more fun and relatable and recognize how Googl
 For Example:
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e0f734317db539badba2d3379abffbd9.gif)
+Source: Google.com
 
 The GIF above explains the usefulness of the fireworks effect in an application. Here Google uses this special effect to celebrate a team's victory in a football match. These effects promote a sense of comfort and interest whenever a user enters the site.
 

@@ -12,6 +12,8 @@
 
 有興趣者歡迎至 g0v Slack 與 @tofus 聯繫 
 
+7/20 第 62 次大松中場分享影片：https://youtu.be/cDOScH8EXE0?si=QKE2vyDJzgeDbZm-
+
 tofus
 2024 年 7 月 13 日
 :::

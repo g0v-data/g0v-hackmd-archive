@@ -94,6 +94,11 @@ tags:
 - 人生百味底下的人生萬事屋
     - https://doyouaflavor.tw/work_team/
 
+## 居住
+- 百味租屋 
+    - https://www.facebook.com/share/p/ENEfEqv8bxMoTkAn/
+    - https://g0v.hackmd.io/GZemV9kjQkSWXuXQYcnQJw
+
 其他
 - https://www.facebook.com/share/p/BmxGudM42X2RkEXb/?mibextid=WC7FNe
 
