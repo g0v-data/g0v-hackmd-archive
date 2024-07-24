@@ -168,9 +168,21 @@ set a breakpoint(click on the red dot besides the lines)
 | %=     | `%=`     | Modulus Assignment             | `a %= b;`                          | `a = a % b;`                    |
 | ++     | `++`     | Increment                      | `a++;`                             | `a = a + 1;`                    |
 | --     | `--`     | Decrement                      | `a--;`                             | `a = a - 1;`                    |
-
->## prototype
+____
+# prototype
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9472af72a25ee33eb49f3e9aa4cef886.png)
 * ### 函數原型 (prototype 部分)
-<pre>float average(int length, int array[]);
-這是函數原型（函數聲明），告訴編譯器在代碼中有一個名為average的函數，這個函數返回一個float類型的值，並接受兩個參數：一個int類型的長度和一個整數數組。
+<pre>float average(int length, int array[]);</pre>
+名為average的函數，float類型。兩個參數：int類型的長度和一個**整數數組(array)**。
+* ### main部分
+<pre>printf("Average:%f\n", average(N, scores));</pre>
+
+打印平均值。將N和scores數組作為參數傳遞給它
+
+* ### average部分
+<pre>    {
+        sum += array[i];
+    }
+    return sum / (float) length;</pre>
+將前一項與這一項加起來，
+>return 跟 printf 的差別是，return將值返回給 main 函數。這樣，main 函數可以做進一步處理，例如打印輸出或進行其他計算。
