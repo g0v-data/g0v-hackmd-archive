@@ -150,3 +150,27 @@ set a breakpoint(click on the red dot besides the lines)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8f337578a2b89e4f13902bf0b473b07d.png)
 > **global variables:** Accessible from any part of the program, at the top.
 **local variables:** Accessible only within the block or function, inside a function .
+
+## Mathematic symbols:
+
+
+| Symbol | Operator | Description                    | Example Code                       | Equivalent Code                 |
+|--------|----------|--------------------------------|------------------------------------|---------------------------------|
+| +      | `+`      | Addition                       | `int sum = a + b;`                 |                                 |
+| -      | `-`      | Subtraction                    | `int difference = a - b;`          |                                 |
+| *      | `*`      | Multiplication                 | `int product = a * b;`             |                                 |
+| /      | `/`      | Division                       | `int quotient = a / b;`            |                                 |
+| %      | `%`      | Modulus (remainder)            | `int remainder = a % b;`           |                                 |
+| +=     | `+=`     | Addition Assignment            | `a += b;`                          | `a = a + b;`                    |
+| -=     | `-=`     | Subtraction Assignment         | `a -= b;`                          | `a = a - b;`                    |
+| *=     | `*=`     | Multiplication Assignment      | `a *= b;`                          | `a = a * b;`                    |
+| /=     | `/=`     | Division Assignment            | `a /= b;`                          | `a = a / b;`                    |
+| %=     | `%=`     | Modulus Assignment             | `a %= b;`                          | `a = a % b;`                    |
+| ++     | `++`     | Increment                      | `a++;`                             | `a = a + 1;`                    |
+| --     | `--`     | Decrement                      | `a--;`                             | `a = a - 1;`                    |
+
+>## prototype
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9472af72a25ee33eb49f3e9aa4cef886.png)
+* ### 函數原型 (prototype 部分)
+<pre>float average(int length, int array[]);
+這是函數原型（函數聲明），告訴編譯器在代碼中有一個名為average的函數，這個函數返回一個float類型的值，並接受兩個參數：一個int類型的長度和一個整數數組。
