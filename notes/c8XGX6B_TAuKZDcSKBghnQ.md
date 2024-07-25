@@ -201,7 +201,30 @@ Use this command for a file kept in a local place to use OpenSSL:
 ```bash
 openssl dgst -sha384 -binary quiz-library.js | openssl base64 -A
 ```
-* Step 3: 
+* Step 3: In your HTML script or link tag, include the `integrity` and `crossorigin` attributes. Substitute in the code below `sha384-BASE64_HASH` with the proper hash which was created during step 2.
+
+```htmlembedded
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Educational Platform</title>
+</head>
+<body>
+  <h1>Welcome to the Educational Platform</h1>
+  <script src="https://cdn.example.com/quiz-library.js"
+          integrity="sha384-BASE64_HASH"
+          crossorigin="anonymous"></script>
+</body>
+</html>
+```
+A webpage called "Learning Platform" is created using this HTML. By using `meta` tags for defining character coding and for `viewport` settings, it assures the right display on different devices. The title bar is labeled as "Online Educational Platform". This page has a `h1` header that reads "Welcome to the Online Educational Platform". It incorporates a script tag which loads an external script from `https://cdn.example.com/quiz-library.js` . The `integrity` attribute serves to denote a hash of the script contents which thereby assures no one has touched them. Also, the `crossorigin` parameter is set at `anonymous`; hence integrity checking operates normally when cross-origin requests take place.
+
+* Step 4: Verify the right loading of resources and the lack of errors on integrity checks after SRI has been implemented. It is possible to confirm the accuracy of integrity attribute by using developer tools available in browsers.
+
+* Step 5: Make it a habit to watch out for updates on your outside resources. An updated resource’s hash will be different, hence you have to adjust the integrity attribute as necessary. If this is neglected, loading such a resource will fail.
+
 ### Sandboxing and Isolation Strategy
 Applying the sandbox attribute to `iframes` on a gaming site can guarantee that ads are served without any risk of malicious scripts affecting pages containing them. By using the [sandboxing](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) technique, third-party scripts are prevented from reaching sensitive data or influencing other website sections.
 
@@ -211,11 +234,19 @@ For Example:
 ```
 The snippet uses the `<iframe>` tag to embed an external resource (in this case an advertisement). The sandbox attribute is applied to enforce certain limitations on the contents of `iframes` for security reasons. 
 
-For example, a website is willing to advertise ads (URL: `ads.com`) from an external advertising server. For security reasons on the main page, the content of these adverts should not be trustworthy; therefore, the developers have set up the iframe sandbox attribute.
+For example, a website is willing to advertise ads (URL: `ads.com`) from an external advertising server. For security reasons on the main page, the content of these adverts should not be trustworthy; therefore, the developers have set up the `iframe` sandbox attribute.
+
+### Implementing a Sandboxing and Isolation Strategy
+Sandboxing `iframes` represents an efficient method to segregate some third-party content like advertisements on your site. This ensures that any harmful codes embedded in `iframe` cannot alter any part of your website. The following instructions will show you how to carry out a sandboxing and isolation process:
+
+* Step 1: The Sandbox Attribute Should be Understood Restricting what content inside the `Iframe` can do is the job of the sandbox attribute. In any case where there are no values mentioned, then all are restricted by the use of sandbox for iframes. Some exceptions can also be provided.
+
+* Iframes that have third-party content such ads should have the sandbox attribute added on them. 
 
 
 
-### Privacy Consideration Strategy
+
+## Privacy Consideration Strategy
 To uphold user confidence and observe data protection regulations privacy concerns must be in good grace.
 
 Implement methods of getting user endorsements before downloading outside scripts that collect data. An example of this can be shown by Travel Website, which has a message banner seeking endorsement from internet users to allow for cookies as well as external codes aimed at providing personalized suggestions and analytics.
