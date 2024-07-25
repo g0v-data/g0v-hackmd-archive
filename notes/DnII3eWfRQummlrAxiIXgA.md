@@ -167,7 +167,29 @@ Step 3: Download Visual studio code: After visual studio code has been downloade
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5a18094ab32fb4b13b0efd18de258bf7.png)
 
-Step 4: Create a folder named 'Cypress Automation' and 
+Step 4: Create a new folder to set up your cypress tests. You can name it 'Cypress Automation'. 
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2c4605dc94cb869cbfe939a9347c3ebe.png)
+
+
+Step 5: After you have successfully created a folder. Go to VS Code and click on 'File', after you click on file, click on 'Open folder'. you should be directed to the location where the folder was created, then click on 'select folder' 
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2546f015b8d9fc7ddf6fdae73d496769.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6869d65725dc141534645809253c926f.png)
+
+After you have clicked on 'Select folder', this window should come up:
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_72e5d00eab155d9e00a59b77c78d423b.png)
+
+Step 6: 
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_afc6034d622a530d4b7a97e17b9df8d4.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9f748a59240c461cfe0753a88fc6def2.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_82775b86fedb6fe4a4007257433edd89.png)
+
 
 
 
