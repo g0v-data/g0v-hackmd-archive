@@ -85,7 +85,7 @@ By adopting asynchronous loading and non-blocking execution methods for scripts,
 </body>
 </html>
 ```
-
+This basic web page structure in HTML Code is defined with the language as English. There are `meta` tags for character encoding and `viewport` settings in its head section to ensure that it displays properly on different devices. The title of the page is "Async Example". The body consists of an `h1` heading which has the phrase "Async Loading Example". At the end of the body, there are two script tags. `analytics.js` and `advertising.js` have their `async` attributes included in them. This means that these scripts will be fetched and executed asynchronously without blocking the HTML parsing.
 
 If you use `defer`, find the script tag in the HTML document and attach the `defer` attribute to the script tag:
 ```htmlembedded
@@ -102,13 +102,34 @@ If you use `defer`, find the script tag in the HTML document and attach the `def
 </body>
 </html>
 ```
-
+A webpage is defined by the HTML code as being in English. The head section has `meta` tags for character encoding and `viewport` settings, which will allow it to be displayed correctly across different devices. The title of this page is set to "Defer Example". Within the body, there is an `h1` header that says "Defer Loading Example". Lastly, a `script` tag is added at the end of the body with the main.js file loaded using defer. This means that the script would be downloaded in the background and only executed after HTML parsing has been completed so that it does not block initial page rendering.
 
 * **Step 3:** Deciding When to Use async and defer: Use `async` for scripts that are stand-alone and unrelated to any `DOM` elements. The above is usually the case when it comes to third party scripts like analytics and advertising. On the other hand, `Defer` should be used for scripts that require the complete parsing of HTML, e.g., those which manipulate `DOM` or depend upon other scripts.
 
-* **Step 4:** Combining async and defer for Optimal Performance: 
+* **Step 4:** Combining async and defer for Optimal Performance: Meanwhile scripts which rely on the total DOM or need to be run in a specific order should be deferred. Async must be used for third-party scripts not relying on other scripts or DOM elements. For example:
+```htmlembedded
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Combined Example</title>
+</head>
+<body>
+  <h1>Combined Loading Example</h1>
+  <script src="analytics.js" async></script>
+  <script src="advertising.js" async></script>
+  <script src="library.js" defer></script>
+  <script src="main.js" defer></script>
+</body>
+</html>
+```
+This particular page is designed in a manner that it preserves English Language and its textual content is encoded in HTML format. The head section consists of `meta` tags which provide character encoding and viewport settings that enable its correct display across several devices. The title is "Combined Example", while the body has an `h1` heading that reads "Combined Loading Example".  At the bottom of the body, four `script` tags are found; `analytics.js` and `advertising.js` load asynchronously using the `async` attribute so that they do not block HTML parsing. `Library.js` and `main.js` load with the `defer` attribute, implying that they will come into play when HTML parsing comes to an end and hence will not interfere with how fast the page appears.
 
-### Content Security Policy (CSP) Strategy
+* **Step 5:** Testing and Debugging:Employ browser developer tools to determine whether scripts are loaded asynchronously or deferred. Examine page loading durations both prior to and following the incorporation of async and defer attributes. Confirm that scripts reliant on DOM elements or other scripts are being executed correctly without making any kind of error.
+
+
+## Content Security Policy (CSP) Strategy
 The [CSP](https://en.wikipedia.org/wiki/Content_Security_Policy) prevents cross-site scripting (XSS) attacks by determining the right sources able to load scripts in any given website. For instance: A medical site that deploys CSP allows scripts from its domain and reliable third-party providers.
  
 For Example:
@@ -120,6 +141,23 @@ The CSP header, also known as the `Content-Security-Policy` header offers securi
 Consider having a website `https://example.com` and using [Google Analytics](https://marketingplatform.google.com/about/analytics/) at `https://trustedanalytics.com`. You wish to make sure that only your domain scripts and Google Analytics scripts are allowed to run. Scripts that originate from within the website: You have several javascript files that are hosted on your server e.g., `main.js` and `utils.js` Scripts that originate from other websites: You are making use of the Google Analytics hosted at `https://trustedanalytics.com`.
 
 The prescribed CSP header lets you command your browser to run scripts exclusively from our domain (`self`) and a certain trusted analytics provider `https://trustedanalytics.com`  hence, preventing any untrusted domains from running scripts on your webpage and minimizing the possibility of cross-site scripting or any other kind of attack that might use scripts.
+
+### Implementing a Content Security Policy (CSP)
+A Content Security Policy (CSP) helps you avoid cross-site scripting (XSS) or other code injection attacks by specifying which sources can load content on your site. Here is a guide on how to set up a CSP:
+* Step 1: Define Your CSP Policy: Detect and enumerate every trusted resource for the substances in your domain. As an illustration, concerning scripts, you might just have faith in your domain and a handful of third-party suppliers.
+
+* Step 2: Add the CSP Header to Your Server Configuration: CSP directive needs to be added in the server configuration. Below are the methods for configuring CSP in various web servers:
+Add the following line to your `.htaccess` file or your site’s main configuration file.
+
+For Apache: 
+```apache
+Header set Content-Security-Policy "script-src 'self' https://trusted-third-party.com;"
+```
+For Nginx, add the following line to your server block:
+```nginx
+add_header Content-Security-Policy "script-src 'self' https://trusted-third-party.com;";
+```
+
 
 
 ### Subresource Integrity (SRI) Strategy
