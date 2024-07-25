@@ -34,7 +34,7 @@ Besides, to ensure they function effectively at all times, these scripts have to
 ## Strategy 3: Minimization and Consolidation
 Opting for the minimization and consolidation of scripts is a strategic way to considerably elevate the performance of a website. Websites can be loaded quicker and have better performance overall if they cut down on the number of external scripts and include features into a smaller number of more effective scripts. A necessary step in the process is to identify scripts that are redundant or unnecessary. A typical situation during audits is identifying various scripts with similar purposes. For instance, different tracking scripts from distinct analytics providers can be used on one website. Combining them into one solution simplifies maintenance because there will be less number of external requests leading to faster load times on the site.
 
-The following stage is to consolidate them where conceivable in the wake of recognizing the essential scripts. What is done here is combining various scripts that are responsible for related functionality into a single script file. For instance, rather than having individual JavaScripts for various UI parts developers should combine them all into a single script. Such activities may be automated using instruments such as Webpack or Rollup ensuring better performance by avoiding double code within bundled JS files.
+The following stage is to consolidate them where conceivable in the wake of recognizing the essential scripts. What is done here is combining various scripts that are responsible for related functionality into a single script file. For instance, rather than having individual [JavaScripts](https://www.javascript.com/) for various UI parts developers should combine them all into a single script. Such activities may be automated using instruments such as [Webpack](https://webpack.js.org/) or [Rollup](https://rollupjs.org/) ensuring better performance by avoiding double code within bundled JS files.
 
 Merging and consolidating work together. You can apply minimization tools like [UglifyJS](https://www.npmjs.com/package/uglify-js) or [Terser](https://terser.org/) to make JavaScript files more compact by stripping unnecessary elements like whitespaces, and comments without losing any code features. As a result, content is downloaded faster, with potential enhancement in website speed due to reduced file sizes.
 
@@ -65,66 +65,66 @@ The `defer` scripts, unlike the `async`, preserve their execution order when the
 ### Implementation of Asynchronous Loading and Non-Blocking Execution
 By adopting asynchronous loading and non-blocking execution methods for scripts, your site’s efficiency will be greatly improved. The following is a systematic instruction on how one may apply them with the help of `async` and `defer` attributes:
 
-* **Step 1:** Understanding `async` and `defer`: `async` enables the browser to download the script simultaneously while it is being parsed in the background, without stalling or delaying the parsing of HTML. The script will immediately execute once downloaded which may disrupt HTML parsing. `defer` attribute also tells a browser to download scripts in a non-blocking manner however it makes sure that they are only executed only after the HTML rendering is done. Thus, this approach script will not interfere with rendering any HTML content.
+* **Step 1:** Understanding `async` and `defer` attributes. `async` enables the browser to download the script simultaneously while it is being parsed in the background, without stalling or delaying the parsing of [HTML](https://html.com/). The script will immediately execute once downloaded which may disrupt HTML parsing. `defer` attribute also tells a browser to download scripts in a non-blocking manner however it makes sure that they are only executed only after the HTML rendering is done. Thus, this approach script will not interfere with rendering any HTML content.
 
-* **Step 2:** Adding Scripts with `async` and `defer`: If you use async, find the script tag in the HTML document and attach the async attribute to the script tag:
+* **Step 2:** Adding Scripts with `async` and `defer`. If you use async, find the `script` tag in the HTML document and attach the async attribute to the `script` tag:
 ```htmlembedded
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Async Example</title>
-</head>
-<body>
-  <h1>Async Loading Example</h1>
-  <script src="analytics.js" async></script>
-  <script src="advertising.js" async></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Async Example</title>
+  </head>
+  <body>
+    <h1>Async Loading Example</h1>
+    <script src="analytics.js" async></script>
+    <script src="advertising.js" async></script>
+  </body>
 </html>
 ```
 This basic web page structure in HTML Code is defined with the language as English. There are `meta` tags for character encoding and `viewport` settings in its head section to ensure that it displays properly on different devices. The title of the page is "Async Example". The body consists of an `h1` heading which has the phrase "Async Loading Example". At the end of the body, there are two script tags. `analytics.js` and `advertising.js` have their `async` attributes included in them. This means that these scripts will be fetched and executed asynchronously without blocking the HTML parsing.
 
-If you use `defer`, find the script tag in the HTML document and attach the `defer` attribute to the script tag:
+If you use `defer`, find the `script` tag in the HTML document and attach the `defer` attribute to the `script` tag:
 ```htmlembedded
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Defer Example</title>
-</head>
-<body>
-  <h1>Defer Loading Example</h1>
-  <script src="main.js" defer></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Defer Example</title>
+  </head>
+  <body>
+    <h1>Defer Loading Example</h1>
+    <script src="main.js" defer></script>
+  </body>
 </html>
 ```
-A webpage is defined by the HTML code as being in English. The head section has `meta` tags for character encoding and `viewport` settings, allowing it to be displayed correctly across different devices. The title of this page is set to "Defer Example". Within the body, there is an `h1` header that says "Defer Loading Example". Lastly, a `script` tag is added at the end of the body with the main.js file loaded using defer. This means that the script would be downloaded in the background and only executed after HTML parsing has been completed so that it does not block initial page rendering.
+A webpage is defined by the HTML code as being in English. The head section has `meta` tags for character encoding and `viewport` settings, allowing it to be displayed correctly across different devices. The title of this page is set to "Defer Example". Within the body, there is an `h1` header that says "Defer Loading Example". Lastly, a `script` tag is added at the end of the body with the `main.js` file loaded using defer. This means that the script would be downloaded in the background and only executed after HTML parsing has been completed so that it does not block initial page rendering.
 
-* **Step 3:** Deciding When to Use async and defer: Use `async` for scripts that are stand-alone and unrelated to any `DOM` elements. The above is usually the case when it comes to third-party scripts like analytics and advertising. On the other hand, `Defer` should be used for scripts that require the complete parsing of HTML, e.g., those that manipulate `DOM` or depend upon other scripts.
+* **Step 3:** Deciding When to Use async and defer. Use `async` for scripts that are stand-alone and unrelated to any `DOM` elements. The above is usually the case when it comes to third-party scripts like analytics and advertising. On the other hand, `Defer` should be used for scripts that require the complete parsing of HTML, e.g., those that manipulate `DOM` or depend upon other scripts.
 
-* **Step 4:** Combining async and defer for Optimal Performance: Meanwhile scripts that rely on the total DOM or need to be run in a specific order should be deferred. Async must be used for third-party scripts not relying on other scripts or DOM elements. For example:
+* **Step 4:** Combining async and defer for Optimal Performance: Meanwhile scripts that rely on the total `DOM` or need to be run in a specific order should be deferred. Async must be used for third-party scripts not relying on other scripts or `DOM` elements. For example:
 ```htmlembedded
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Combined Example</title>
-</head>
-<body>
-  <h1>Combined Loading Example</h1>
-  <script src="analytics.js" async></script>
-  <script src="advertising.js" async></script>
-  <script src="library.js" defer></script>
-  <script src="main.js" defer></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Combined Example</title>
+  </head>
+  <body>
+    <h1>Combined Loading Example</h1>
+    <script src="analytics.js" async></script>
+    <script src="advertising.js" async></script>
+    <script src="library.js" defer></script>
+    <script src="main.js" defer></script>
+  </body>
 </html>
 ```
 This particular page is designed in a manner that it preserves English Language and its textual content is encoded in HTML format. The head section consists of `meta` tags that provide character encoding and viewport settings that enable its correct display across several devices. The title is "Combined Example", while the body has an `h1` heading that reads "Combined Loading Example".  At the bottom of the body, four `script` tags are found; `analytics.js` and `advertising.js` load asynchronously using the `async` attribute so that they do not block HTML parsing. `Library.js` and `main.js` load with the `defer` attribute, implying that they will come into play when HTML parsing comes to an end and hence will not interfere with how fast the page appears.
 
-* **Step 5:** Testing and Debugging: Employ browser developer tools to determine whether scripts are loaded asynchronously or deferred. Examine page loading durations both before and following the incorporation of async and defer attributes. Confirm that scripts reliant on DOM elements or other scripts are being executed correctly without making any kind of error.
+* **Step 5:** Testing and Debugging: Employ browser developer tools to determine whether scripts are loaded asynchronously or deferred. Examine page loading durations both before and following the incorporation of `async` and `defer` attributes. Confirm that scripts reliant on `DOM` elements or other scripts are being executed correctly without making any kind of error.
 
 
 ## Strategy 5: Content Security Policy (CSP)
@@ -136,7 +136,7 @@ Content-Security-Policy: script-src 'self' https://trustedanalytics.com
 ```
 The CSP header, also known as the `Content-Security-Policy` header offers security against different attacks: for instance, it prevents cross-site scripting (XSS) and data injection among others by defining the trusted sources of content that can be loaded onto a web page. The `script-src` directive is responsible for determining specifically where scripts can come from. It is through this way that we support extensibility within our platform while enforcing security.
 
-Consider having a website `https://example.com` and using [Google Analytics](https://marketingplatform.google.com/about/analytics/) at `https://trustedanalytics.com`. You wish to make sure that only your domain scripts and Google Analytics scripts are allowed to run. Scripts that originate from within the website: You have several javascript files that are hosted on your server e.g., `main.js` and `utils.js` Scripts that originate from other websites: You are making use of the Google Analytics hosted at `https://trustedanalytics.com`.
+Consider having a website `https://example.com` and using [Google Analytics](https://marketingplatform.google.com/about/analytics/) at `https://trustedanalytics.com`. You wish to make sure that only your domain scripts and Google Analytics scripts are allowed to run. Scripts that originate from within the website. You have several javascript files that are hosted on your server e.g., `main.js` and `utils.js` Scripts that originate from other websites: You are making use of the Google Analytics hosted at `https://trustedanalytics.com`.
 
 The prescribed CSP header lets you command your browser to run scripts exclusively from our domain (`self`) and a certain trusted analytics provider `https://trustedanalytics.com`  hence, preventing any untrusted domains from running scripts on your webpage and minimizing the possibility of cross-site scripting or any other kind of attack that might use scripts.
 
@@ -155,22 +155,25 @@ For Nginx, add the following line to your server block:
 ```nginx
 add_header Content-Security-Policy "script-src 'self' https://trusted-third-party.com;";
 ```
-* **Step 3:** Add CSP Meta Tag (Alternative Method). Should you lack accessibility to server settings, it is possible to place a CSP specification inside a meta tag in your HTML file:
+* **Step 3:** Add CSP `Meta` Tag (Alternative Method). Should you lack accessibility to server settings, it is possible to place a CSP specification inside a meta tag in your HTML file:
 
 ```htmlembedded
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Medical Site</title>
-  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://trusted-third-party.com;">
-</head>
-<body>
-  <h1>Welcome to the Medical Site</h1>
-  <script src="main.js"></script>
-  <script src="https://trusted-third-party.com/trusted.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Medical Site</title>
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="script-src 'self' https://trusted-third-party.com;"
+    />
+  </head>
+  <body>
+    <h1>Welcome to the Medical Site</h1>
+    <script src="main.js"></script>
+    <script src="https://trusted-third-party.com/trusted.js"></script>
+  </body>
 </html>
 ```
 
@@ -184,7 +187,11 @@ A script cannot be tampered with by SRI and it does this through you specifying 
 
 For Example:
 ```htmlembedded
-<script src="https://example.com/library.js" integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/uxC4c/8OxEX/XA5n/VvnMhvN++/L1" crossorigin="anonymous"></script>
+<script
+  src="https://example.com/library.js"
+  integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/uxC4c/8OxEX/XA5n/VvnMhvN++/L1"
+  crossorigin="anonymous"
+></script>
 ```
 As one of the HTML elements, the `<script>` tag is used to link to an external [JavaScript](https://www.javascript.com/) file in this given code section. Added security measures on this distant document are inclusive of attributes such as integrity attribute and `crossorgin` attribute.  The `<script>` is an HTML that embeds or makes reference to an external JavaScript file. The URL or address of the external JavaScript file that is to be incorporated is indicated by the src attribute. It’s where the script is saved that is, `https://example.com/library.js`.The `integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/uxC4c/8OxEX/XA5n/VvnMhvN++/L1` attribute helps you ensure that the integrity of script file is not compromised. Mathematically, the browser checks the fetched script’s hash against the one you provide to see if they match for verification of the script’s integrity.
 
@@ -193,7 +200,7 @@ Subresource integrity (SRI) is a special characteristic of security that allows 
 
 * **Step 1:** List the outside tools your site makes use of (how about stylesheets, scripts, and so on). To illustrate, a learning portal could rely on third-party API for features such as interactive test modules.
 
-* **Step 2:** For the resource, make use of a tool for generating its hash. For this task, you can make use of various web-based services like [SRI Hash Generator](https://www.srihash.org/) as well as command-line applications such as OpenSSL. 
+* **Step 2:** For the resource, make use of a tool for generating its hash. For this task, you can make use of various web-based services like [SRI Hash Generator](https://www.srihash.org/) as well as command-line applications such as [OpenSSL](https://www.openssl.org/). 
 When using an online tool, copy the URL of the external resource, the next step is to paste the URL into the SRI Hash Generator tool the copy the generated `integrity` attribute value. 
 
 Use this command for a file kept in a local place to use OpenSSL:
@@ -202,20 +209,24 @@ openssl dgst -sha384 -binary quiz-library.js | openssl base64 -A
 ```
 * **Step 3:** In your HTML script or link tag, include the `integrity` and `crossorigin` attributes. Substitute in the code below `sha384-BASE64_HASH` with the proper hash which was created during step 2.
 
+For example:
+
 ```htmlembedded
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Educational Platform</title>
-</head>
-<body>
-  <h1>Welcome to the Educational Platform</h1>
-  <script src="https://cdn.example.com/quiz-library.js"
-          integrity="sha384-BASE64_HASH"
-          crossorigin="anonymous"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Educational Platform</title>
+  </head>
+  <body>
+    <h1>Welcome to the Educational Platform</h1>
+    <script
+      src="https://cdn.example.com/quiz-library.js"
+      integrity="sha384-BASE64_HASH"
+      crossorigin="anonymous"
+    ></script>
+  </body>
 </html>
 ```
 A webpage called "Learning Platform" is created using this HTML. By using `meta` tags for defining character coding and for `viewport` settings, it assures the right display on different devices. The title bar is labeled as "Online Educational Platform". This page has an `h1` header that reads "Welcome to the Online Educational Platform". It incorporates a script tag that loads an external script from `https://cdn.example.com/quiz-library.js` . The `integrity` attribute serves to denote a hash of the script contents which thereby assures no one has touched them. Also, the `crossorigin` parameter is set at `anonymous`; hence integrity checking operates normally when cross-origin requests take place.
@@ -229,7 +240,10 @@ Applying the sandbox attribute to `iframes` on a gaming site can guarantee that 
 
 For Example:
 ```htmlembedded
-<iframe src="https://ads.com/ad" sandbox="allow-scripts allow-same-origin"></iframe>
+<iframe
+  src="https://ads.com/ad"
+  sandbox="allow-scripts allow-same-origin"
+></iframe>
 ```
 The snippet uses the `<iframe>` tag to embed an external resource (in this case an advertisement). The sandbox attribute is applied to enforce certain limitations on the contents of `iframes` for security reasons. 
 
@@ -238,26 +252,29 @@ For example, a website is willing to advertise ads (URL: `ads.com`) from an exte
 ### Implementing a Sandboxing and Isolation Strategy
 Sandboxing `iframes` represent an efficient method to segregate some third-party content like advertisements on your site. This ensures that any harmful codes embedded in `iframe` cannot alter any part of your website. The following instructions will show you how to carry out a sandboxing and isolation process:
 
-* **Step 1:** The Sandbox Attribute Should be Understood Restricting what content inside the `Iframe` can do is the job of the sandbox attribute. In any case where there are no values mentioned, then all are restricted by the use of sandbox for iframes. Some exceptions can also be provided.
+* **Step 1:** The Sandbox Attribute Should be Understood Restricting what content inside the `Iframe` can do is the job of the sandbox attribute. In any case where there are no values mentioned, then all are restricted by the use of sandbox for `iframes`. Some exceptions can also be provided.
 
 * **Step 2:** `Iframes` that have third-party content such as ads should have the sandbox attribute added to them.
 
 * **Step 3:** Delineate the constraints of the sandbox. Several values can be added to modify the restrictions. On the Mozilla Developer Network (MDN) web documentation, you can locate thorough documentation surrounding limitations regarding the sandbox attribute using this [link](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe#attr-sandbox).
 
-When it comes to implementing sandboxing techniques for iframes on a gaming site, here is an example:
+When it comes to implementing sandboxing techniques for `iframes` on a gaming site, here is an example:
 ```htmlembedded
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Gaming Site</title>
-</head>
-<body>
-  <h1>Welcome to the Gaming Site</h1>
-  <p>Play games and enjoy ad-supported content.</p>
-  <iframe src="https://adserver.example.com/ad.html" sandbox="allow-scripts allow-same-origin"></iframe>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gaming Site</title>
+  </head>
+  <body>
+    <h1>Welcome to the Gaming Site</h1>
+    <p>Play games and enjoy ad-supported content.</p>
+    <iframe
+      src="https://adserver.example.com/ad.html"
+      sandbox="allow-scripts allow-same-origin"
+    ></iframe>
+  </body>
 </html>
 ```
 By this one, the `iframe` can execute scripts while still being considered as a member of the same domain, which may be needed for some advertising features. Still, it cannot engage in any other actions that could be harmful.
