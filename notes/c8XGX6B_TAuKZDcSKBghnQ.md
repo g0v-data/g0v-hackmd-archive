@@ -48,7 +48,7 @@ It is also very important to frequently check and revise scripts as is the pract
 
 In addition to this technical optimization, it can also be of great aid if you have a well-structured and modular approach towards scripting. When scripts are organized within modules then there will be no loading except for those that have been called upon thus saving on time consumed during loading long scripts.
 
-### Asynchronous Loading and Non-Blocking Execution Strategy
+## Asynchronous Loading and Non-Blocking Execution Strategy
 If scripts are loaded asynchronously, they don’t halt page rendering. Hence, using `async` or `defer` attributes enhances your website performance, because it allows scripts to be loaded simultaneously with other page elements as well. For instance, advertising and analytics scripts load asynchronously on a news website. This ensures the quick display of the main content while allowing for more time during which the ads and tracking scripts may still be loading.
 
 For Example:
@@ -63,6 +63,50 @@ The `async` attribute is good for scripts that do not need the site [Document Ob
 The `defer` attribute implies that the script will not run until the whole [HTML](https://html.com/) document is parsed so it can be very helpful when  some scripts must work with DOM elements because it allows them access and assures that all elements exist before their running.
 
 The `defer` scripts, unlike the `async`, preserve their execution order when there is more than one deferred script on the page. This can be necessary for scripts that rely on the order of the executor.
+
+### Implementation
+By adopting asynchronous loading and non-blocking execution methods for scripts, your site’s efficiency will be greatly improved. The following is a systematic instruction on how one may apply them with the help of `async` and `defer` attributes:
+
+* **Step 1:** Understanding `async` and `defer`: `async` enables the browser to download the script simultaneously while it is being parsed in the background, without stalling or delaying the parsing of HTML. The script will immediately execute once downloaded which may disrupt HTML parsing. `defer` attribute also tells a browser to download scripts in a non-blocking manner however it makes sure that they are only executed only after the HTML rendering is done. Thus, this approach script will not interfere with rendering any HTML content.
+
+* **Step 2:** Adding Scripts with `async` and `defer`: If you use async, find the script tag in the HTML document and attach the async attribute to the script tag:
+```htmlembedded
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Async Example</title>
+</head>
+<body>
+  <h1>Async Loading Example</h1>
+  <script src="analytics.js" async></script>
+  <script src="advertising.js" async></script>
+</body>
+</html>
+```
+
+
+If you use `defer`, find the script tag in the HTML document and attach the `defer` attribute to the script tag:
+```htmlembedded
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Defer Example</title>
+</head>
+<body>
+  <h1>Defer Loading Example</h1>
+  <script src="main.js" defer></script>
+</body>
+</html>
+```
+
+
+* **Step 3:** Deciding When to Use async and defer: Use `async` for scripts that are stand-alone and unrelated to any `DOM` elements. The above is usually the case when it comes to third party scripts like analytics and advertising. On the other hand, `Defer` should be used for scripts that require the complete parsing of HTML, e.g., those which manipulate `DOM` or depend upon other scripts.
+
+* **Step 4:** Combining async and defer for Optimal Performance: 
 
 ### Content Security Policy (CSP) Strategy
 The [CSP](https://en.wikipedia.org/wiki/Content_Security_Policy) prevents cross-site scripting (XSS) attacks by determining the right sources able to load scripts in any given website. For instance: A medical site that deploys CSP allows scripts from its domain and reliable third-party providers.
