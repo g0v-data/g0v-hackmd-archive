@@ -360,7 +360,7 @@ Incorporating these adjustments allows for a flawless; integrated pull-to-refres
 
 Output:
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8bbd845f18a267a918b19a0f3c8a5a89.gif)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b0b1ca18f849c604f36d2fba06c9c9d2.gif)
 
 Here is our pull-to-refresh app. Of course, our application is still not how we want it to be due to the large spinner icon which we will improve upon using Tailwind in the next section.
 
@@ -509,7 +509,8 @@ The spinner is a spinner `SVG` with an `animate-spin` class from Tailwind CSS. I
 
 Output:
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2d46f50c01cf1022fed5bcdeecfd6513.gif)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_da22ed63a91ba2defa4ce5e04badb4e6.gif)
+
 
 We can now see the difference between the output above and the one before styling with Tailwind CSS with the spinner much better and there is a 'waiting' message assuring the user that the page is being refreshed.
 
