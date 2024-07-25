@@ -210,6 +210,14 @@ Step 11: After the image below is displayed, click on create spec
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5985dd82868a3f42d5dec890d552a968.png)
 
+Step 12: Click on 'ok, run the spec'
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0600f808c7578546aaadd0123672242f.png)
+
+Step 13: There you have it, your first success cypress test. 
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a053a5f4a77c32722cfa1c18e32f4640.png)
+
 
 
 Playwright: Playwright is set up from the command line, using an npm command: `npm init playwright`. This initialization step is an interactive workflow that asks you to choose your desired scripting language (Javascript or Typescript), the location of your test scripts, and whether to include a Github Actions Workflow for CI.
@@ -221,12 +229,28 @@ Aside from Playwright’s dependency on Node.js, it simplifies browser setup/con
 
 Selenium: Selenium has the most involved setup among the three tools. For starters, you need to have the drivers for the browsers you want to test with. So if you wish to test your applications with Chrome and Firefox, you will need to have both browsers installed alongside their selenium webdrivers. This tedious setup process can be abstracted by the client library, giving you a straightforward way of running your tests. However, this convenience is not present in all Selenium client libraries. 
 
+Step by step guide to installing Selenium:
+
+There are four main steps to installing Selenium. They are: 
+
+Step 1: Download and Install Java. Go to the official java website.
+https://www.oracle.com/java/technologies/downloads/
+
+Step 2: Set up the environment variable:
+
+ Step 1: Go to your pc setting and click on advanced system setting.
+ 
+ ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5a39f6243d2ce7c465b3e13aa135e30c.png)
+
+
+
 Here’s the summary of how the three testing tools rank up to each other:
 |                       | Cypress | Selenium | Playwright | Winner                 |
 | --------------------- | ------- | -------- | ---------- | ---------------------- |
 | Browser support       | 4/5     | 5/5      | 5/5        | Selenium or Playwright |
 | Ease of scripting     | 2/5     | 5/5      | 4/5        | Selenium               |
-| Ease of set up        | 5/5     | 2/5      | 4/5        | Cypress                |
+| Ease of set up        | 5/5     | 2/5      | 4/5        | Cypress         
+|
 
 ### Choosing the best automated testing tool based on Performance and Speed
 
