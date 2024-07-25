@@ -218,7 +218,9 @@ tags: 新生流域
     - 基隆河舊河道表演藝術中心開挖相關探討 https://www.facebook.com/story.php?story_fbid=pfbid0aUxwbGiNNZ4z7jHotZYARv8uBZ1q3gfHEDzsYzXgdnuqGJwg3zyPJbpMQXZDBzRPl&id=100000270465918&mibextid=WC7FNe
 
 ### 案例
-- 韓國 光電板結合自行車專用道 https://www.facebook.com/share/tdvsKEtCv4RUgYmW/?mibextid=WC7FNe
+- 韓國 光電板結合自行車專用道 
+    - https://www.facebook.com/share/tdvsKEtCv4RUgYmW/
+    - https://www.facebook.com/share/v/TmTuDZWYArTFgLpZ/
 - 中國 光電結合車用鋪面與高架橋 https://www.facebook.com/share/p/2FThbaUX28Vp85Ay/
 - THE END OF THE CENTRAL FREEWAY IN HAYES VALLEY
     - https://hoodline.com/2015/08/the-end-of-the-central-freeway-in-hayes-valley/
