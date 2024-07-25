@@ -608,6 +608,8 @@ https://www.facebook.com/seeddesign/posts/4103589936373899
 台灣的道路部分是沿著山與等高線往南北佈設，必定會與溪流切割，在山區的許多鄉鎮的主要聯外道路，是與土石流發生方向相互垂直。
 例如台中市和平區松鶴部落的土石流災害成因 
 http://www.geotech.org.tw/uploads/Forum/69/333/2005-%E6%9D%BE%E9%B6%B4%E5%9C%B0%E5%8D%80%E5%9C%9F%E7%9F%B3%E6%B5%81%E7%81%BD%E5%AE%B3%E6%AD%B7%E5%8F%B2%E4%B9%8B%E6%8E%A2%E8%A8%8ES.pdf
+西南氣流與河谷走向方位類似，加強地形降雨
+https://www.facebook.com/share/p/Gs33YK1LtXoywUXm/
 推論
 地形地勢+氣候→植被與自然資源
 地形地勢+氣候→庄頭聚落(居住地屯墾農耕)
@@ -621,6 +623,7 @@ http://www.geotech.org.tw/uploads/Forum/69/333/2005-%E6%9D%BE%E9%B6%B4%E5%9C%B0%
 上區：道路為之字型(101甲與巴卡拉公路)，水路依循凹谷流下，地區坡度(?)
 中區：道路與圳路大約平行
 下區：地勢平坦，水路較蜿蜒，新市鎮路網則棋盤式鋪張
+
 關於【台三線】
 台三線上的土牛紅藍線與隘勇線，是如何影響平埔四次大遷徙的？
 https://www.matataiwan.com/2016/05/25/the-3rd-taiwan-provincial-road/
