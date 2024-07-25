@@ -64,7 +64,7 @@ The `defer` attribute implies that the script will not run until the whole [HTML
 
 The `defer` scripts, unlike the `async`, preserve their execution order when there is more than one deferred script on the page. This can be necessary for scripts that rely on the order of the executor.
 
-### Implementation
+### Implementation Asynchronous Loading and Non-Blocking Execution
 By adopting asynchronous loading and non-blocking execution methods for scripts, your site’s efficiency will be greatly improved. The following is a systematic instruction on how one may apply them with the help of `async` and `defer` attributes:
 
 * **Step 1:** Understanding `async` and `defer`: `async` enables the browser to download the script simultaneously while it is being parsed in the background, without stalling or delaying the parsing of HTML. The script will immediately execute once downloaded which may disrupt HTML parsing. `defer` attribute also tells a browser to download scripts in a non-blocking manner however it makes sure that they are only executed only after the HTML rendering is done. Thus, this approach script will not interfere with rendering any HTML content.
@@ -144,9 +144,9 @@ The prescribed CSP header lets you command your browser to run scripts exclusive
 
 ### Implementing a Content Security Policy (CSP)
 A Content Security Policy (CSP) helps you avoid cross-site scripting (XSS) or other code injection attacks by specifying which sources can load content on your site. Here is a guide on how to set up a CSP:
-* Step 1: Define Your CSP Policy: Detect and enumerate every trusted resource for the substances in your domain. As an illustration, concerning scripts, you might just have faith in your domain and a handful of third-party suppliers.
+* **Step 1:** Define Your CSP Policy: Detect and enumerate every trusted resource for the substances in your domain. As an illustration, concerning scripts, you might just have faith in your domain and a handful of third-party suppliers.
 
-* Step 2: Add the CSP Header to Your Server Configuration: CSP directive needs to be added in the server configuration. Below are the methods for configuring CSP in various web servers:
+* **Step 2:** Add the CSP Header to Your Server Configuration: CSP directive needs to be added in the server configuration. Below are the methods for configuring CSP in various web servers:
 Add the following line to your `.htaccess` file or your site’s main configuration file.
 
 For Apache: 
@@ -157,7 +157,27 @@ For Nginx, add the following line to your server block:
 ```nginx
 add_header Content-Security-Policy "script-src 'self' https://trusted-third-party.com;";
 ```
+* **Step 3:** Add CSP Meta Tag (Alternative Method): Should you lack accessibility to server settings, it is possible to place a CSP specification inside a meta tag in your HTML file:
+```htmlembedded
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Medical Site</title>
+  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://trusted-third-party.com;">
+</head>
+<body>
+  <h1>Welcome to the Medical Site</h1>
+  <script src="main.js"></script>
+  <script src="https://trusted-third-party.com/trusted.js"></script>
+</body>
+</html>
+```
 
+* **Step 4:** Test Your CSP: When you have finished installing the CSP tool, carefully evaluate your webpage so as to guarantee that every resource loads correctly as well as no authentic information is denied. Utilize the developer browser options to look for any breach of CSP.
+
+* **Step 5:** Monitor and Adjust: Your website should be regularly monitored for any CSP violations so that adjustments to policies can be made when necessary; you may consider utilizing some tools like Content Security Policy (CSP) monitoring services or browser reporting features in order to keep track of violations.
 
 
 ### Subresource Integrity (SRI) Strategy
@@ -169,15 +189,19 @@ For Example:
 ```
 As one of the HTML elements, the `<script>` tag is used to link to an external [JavaScript](https://www.javascript.com/) file in this given code section. Added security measures on this distant document are inclusive of attributes such as integrity attribute and `crossorgin` attribute.  The `<script>` is an HTML that embeds or makes reference to an external JavaScript file. The URL or address of the external JavaScript file that is to be incorporated is indicated by the src attribute. It’s where the script is saved that is, `https://example.com/library.js`.The `integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/uxC4c/8OxEX/XA5n/VvnMhvN++/L1` attribute helps you ensure that the integrity of script file is not compromised. Mathematically, the browser checks the fetched script’s hash against the one you provide to see if they match for verification of the script’s integrity.
 
-Imagine a web developer who wished to put a third-party JavaScript library from `https://example.com` on a website. To ensure that the script was not tinkered with or altered, we have to use an integrity attribute with a hash value that corresponds to the content that was expected for the script.
+### Implementing a Subresource Integrity (SRI) Strategy
+Subresource integrity (SRI) is a special characteristic of security that allows web browser to check if the files they pull (for example: CDNs) are delivered without an odd modification. Here’s how to implement SRI:
 
-Let's say you're loading a well-known JavaScript library through a [CDN](https://www.fastly.com/learning/what-is-a-cdn) service. In this way you should create the script tag:
+* Step 1: List the outside tools your site makes use of (how about stylesheets, scripts and so on). To illustrate, a learning portal could rely on third party API for features such as interactive test modules.
 
-```htmlembedded
-<script src="https://cdn.example.com/library.js" integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/uxC4c/8OxEX/XA5n/VvnMhvN++/L1" crossorigin="anonymous"></script>
+* Step 2: For the resource, make use of a tool for generating its hash. For this task, you can make use of various web-based services like [SRI Hash Generator](https://www.srihash.org/) as well as command-line applications such as OpenSSL. 
+When using an online tool, copy the URL of the external resource, the next step is to paste the URL into the SRI Hash Generator tool the copy the generated `integrity` attribute value. 
+
+Use this command for a file kept in a local place to use OpenSSL:
+```bash
+openssl dgst -sha384 -binary quiz-library.js | openssl base64 -A
 ```
-By doing so, the library is safely loaded only if it matches the anticipated integrity hash, adding further security against tampering.
-
+* Step 3: 
 ### Sandboxing and Isolation Strategy
 Applying the sandbox attribute to `iframes` on a gaming site can guarantee that ads are served without any risk of malicious scripts affecting pages containing them. By using the [sandboxing](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) technique, third-party scripts are prevented from reaching sensitive data or influencing other website sections.
 
