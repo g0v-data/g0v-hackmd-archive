@@ -38,6 +38,8 @@ tags: China
 
 ### 明確的事件
 
+https://www.state.gov/wp-content/uploads/2023/10/HOW-THE-PEOPLES-REPUBLIC-OF-CHINA-SEEKS-TO-RESHAPE-THE-GLOBAL-INFORMATION-ENVIRONMENT_508.pdf
+
 以媽祖之名──中國介選的量化影響
 https://www.facebook.com/share/p/DuwkCVdRWn9yBcNK/
 

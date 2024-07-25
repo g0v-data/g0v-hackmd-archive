@@ -182,14 +182,33 @@ After you have clicked on 'Select folder', this window should come up:
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_72e5d00eab155d9e00a59b77c78d423b.png)
 
-Step 6: 
+Step 6: Run the command 'npm init' on your vs code terminal.
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_afc6034d622a530d4b7a97e17b9df8d4.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b3b9c2e6e57be72e65d26e99801d013d.png)
+
+
+Step 7: After that, run the 'npm install' command to install cypress
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1f2beb5a1ec8a75e62b49065ba2f41b3.jpg)
+
+
+Step 8: To open cypress, run the command below
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2c2b8ef6e67302a2b68f698f6ba9d457.png)
+
+
+Step 9: If you have followed all the steps correctly, you should be directed to the page shown in the image below
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9f748a59240c461cfe0753a88fc6def2.png)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_82775b86fedb6fe4a4007257433edd89.png)
 
+Step 10:After you have clicked on the browser of your choice, Click on the 'Create new spec' option
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3663db20e553230df994cc046782b3a0.png)
+
+Step 11: After the image below is displayed, click on create spec
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5985dd82868a3f42d5dec890d552a968.png)
 
 
 
