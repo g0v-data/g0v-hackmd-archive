@@ -513,7 +513,8 @@ https://www.facebook.com/share/p/AUgEqhdGwCEYJ74V/
 嘉義市 林森東路 嘉義大學林森校區～興華中學
 https://www.facebook.com/groups/twroadclub/posts/1972893492890416/
 
-
+中山一路，八德一路
+https://www.facebook.com/share/wBiL3HgPM9eN9XpZ/
 
 待查詢具體位置
 https://www.facebook.com/100049204915573/posts/pfbid0U538Q2mrd7CVBURitvLhASHM9oRQwLLpWQG1bVHM7YLagry7LXnQqYwo7NibsYmwl/?mibextid=cr9u03
