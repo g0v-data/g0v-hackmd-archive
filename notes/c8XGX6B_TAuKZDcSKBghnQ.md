@@ -49,7 +49,7 @@ In addition to this technical optimization, it can also be of great aid if you h
 ## Strategy 4: Asynchronous Loading and Non-Blocking Execution
 If scripts are loaded asynchronously, they don’t halt page rendering. Hence, using `async` or `defer` attributes enhances your website performance, because it allows scripts to be loaded simultaneously with other page elements as well. For instance, advertising and analytics scripts load asynchronously on a news website. This ensures the quick display of the main content while allowing for more time during which the ads and tracking scripts may still be loading.
 
-For Example:
+For xample:
 ```htmlembedded
 <script src="analytics.js" async></script>
 <script src="ads.js" defer></script>
@@ -65,7 +65,7 @@ The `defer` scripts, unlike the `async`, preserve their execution order when the
 ### Implementation of Asynchronous Loading and Non-Blocking Execution
 By adopting asynchronous loading and non-blocking execution methods for scripts, your site’s efficiency will be greatly improved. The following is a systematic instruction on how one may apply them with the help of `async` and `defer` attributes:
 
-* **Step 1:** Understanding `async` and `defer` attributes. `async` enables the browser to download the script simultaneously while it is being parsed in the background, without stalling or delaying the parsing of [HTML](https://html.com/). The script will immediately execute once downloaded which may disrupt HTML parsing. `defer` attribute also tells a browser to download scripts in a non-blocking manner however it makes sure that they are only executed only after the HTML rendering is done. Thus, this approach script will not interfere with rendering any HTML content.
+* **Step 1:** Understanding `async` and `defer` attributes. `Async` enables the browser to download the script simultaneously while it is being parsed in the background, without stalling or delaying the parsing of [HTML](https://html.com/). The script will immediately execute once downloaded which may disrupt HTML parsing. `Defer` attribute also tells a browser to download scripts in a non-blocking manner however it makes sure that they are only executed only after the HTML rendering is done. Thus, this approach script will not interfere with rendering any HTML content.
 
 * **Step 2:** Adding Scripts with `async` and `defer`. If you use `async`, find the `script` tag in the HTML document and attach the `async` attribute to the `script` tag:
 ```htmlembedded
@@ -100,11 +100,11 @@ If you use `defer`, find the `script` tag in the HTML document and attach the `d
   </body>
 </html>
 ```
-A webpage is defined by the HTML code as being in English. The head section has `meta` tags for character encoding and `viewport` settings, allowing it to be displayed correctly across different devices. The title of this page is set to "Defer Example". Within the body, there is an `h1` header that says "Defer Loading Example". Lastly, a `script` tag is added at the end of the body with the `main.js` file loaded using defer. This means that the script would be downloaded in the background and only executed after HTML parsing has been completed so that it does not block initial page rendering.
+A webpage is defined by the HTML code as being in English. The head section has `meta` tags for character encoding and `viewport` settings, allowing it to be displayed correctly across different devices. The title of this page is set to "Defer Example". Within the body, there is an `h1` header that says "Defer Loading Example". Lastly, a `script` tag is added at the end of the body with the `main.js` file loaded using `defer`. This means that the script would be downloaded in the background and only executed after HTML parsing has been completed so that it does not block initial page rendering.
 
 * **Step 3:** Deciding When to Use async and defer. Use `async` for scripts that are stand-alone and unrelated to any `DOM` elements. The above is usually the case when it comes to third-party scripts like analytics and advertising. On the other hand, `Defer` should be used for scripts that require the complete parsing of HTML, e.g., those that manipulate `DOM` or depend upon other scripts.
 
-* **Step 4:** Combining async and defer for Optimal Performance: Meanwhile scripts that rely on the total `DOM` or need to be run in a specific order should be deferred. Async must be used for third-party scripts not relying on other scripts or `DOM` elements. For example:
+* **Step 4:** Combining `async` and `defer` for Optimal Performance: Meanwhile scripts that rely on the total `DOM` or need to be run in a specific order should be deferred. `Async` must be used for third-party scripts not relying on other scripts or `DOM` elements. For example:
 ```htmlembedded
 <!DOCTYPE html>
 <html lang="en">
@@ -124,7 +124,7 @@ A webpage is defined by the HTML code as being in English. The head section has 
 ```
 This particular page is designed in a manner that it preserves English Language and its textual content is encoded in HTML format. The head section consists of `meta` tags that provide character encoding and viewport settings that enable its correct display across several devices. The title is "Combined Example", while the body has an `h1` heading that reads "Combined Loading Example".  At the bottom of the body, four `script` tags are found; `analytics.js` and `advertising.js` load asynchronously using the `async` attribute so that they do not block HTML parsing. `Library.js` and `main.js` load with the `defer` attribute, implying that they will come into play when HTML parsing comes to an end and hence will not interfere with how fast the page appears.
 
-* **Step 5:** Testing and Debugging: Employ browser developer tools to determine whether scripts are loaded asynchronously or deferred. Examine page loading durations both before and following the incorporation of `async` and `defer` attributes. Confirm that scripts reliant on `DOM` elements or other scripts are being executed correctly without making any kind of error.
+* **Step 5:** Testing and Debugging: Employ browser developer [tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools) to determine whether scripts are loaded asynchronously or deferred. Examine page loading durations both before and following the incorporation of `async` and `defer` attributes. Confirm that scripts reliant on `DOM` elements or other scripts are being executed correctly without making any kind of error.
 
 
 ## Strategy 5: Content Security Policy (CSP)
@@ -134,7 +134,7 @@ For Example:
 ```htmlembedded
 Content-Security-Policy: script-src 'self' https://trustedanalytics.com
 ```
-The CSP header, also known as the `Content-Security-Policy` header offers security against different attacks: for instance, it prevents cross-site scripting (XSS) and data injection among others by defining the trusted sources of content that can be loaded onto a web page. The `script-src` directive is responsible for determining specifically where scripts can come from. It is through this way that we support extensibility within our platform while enforcing security.
+The CSP header, also known as the `Content-Security-Policy` header offers security against different attacks, for instance, it prevents cross-site scripting (XSS) and data injection among others by defining the trusted sources of content that can be loaded onto a web page. The `script-src` directive is responsible for determining specifically where scripts can come from. It is through this way that we support extensibility within our platform while enforcing security.
 
 Consider having a website `https://example.com` and using [Google Analytics](https://marketingplatform.google.com/about/analytics/) at `https://trustedanalytics.com`. You wish to make sure that only your domain scripts and Google Analytics scripts are allowed to run. Scripts that originate from within the website. You have several javascript files that are hosted on your server e.g., `main.js` and `utils.js` Scripts that originate from other websites: You are making use of the Google Analytics hosted at `https://trustedanalytics.com`.
 
@@ -142,7 +142,7 @@ The prescribed CSP header lets you command your browser to run scripts exclusive
 
 ### Implementing a Content Security Policy (CSP)
 A Content Security Policy (CSP) helps you avoid cross-site scripting (XSS) or other code injection attacks by specifying which sources can load content on your site. Here is a guide on how to set up a CSP:
-* **Step 1:** Define Your CSP Policy. Detect and enumerate every trusted resource for the substances in your domain. As an illustration, concerning scripts, you might just have faith in your domain and a handful of third-party suppliers.
+* **Step 1:** Define Your CSP Policy. Detect and enumerate every trusted resource for the substances in your domain. As an illustration, concerning scripts, you should have faith in your domain and a handful of third-party suppliers.
 
 * **Step 2:** Add the CSP Header to Your Server Configuration. CSP directive needs to be added in the server configuration. Below are the methods for configuring CSP in various web servers:
 Add the following line to your `.htaccess` file or your site’s main configuration file.
@@ -155,7 +155,7 @@ For Nginx, add the following line to your server block:
 ```nginx
 add_header Content-Security-Policy "script-src 'self' https://trusted-third-party.com;";
 ```
-* **Step 3:** Add CSP `Meta` Tag (Alternative Method). Should you lack accessibility to server settings, it is possible to place a CSP specification inside a meta tag in your HTML file:
+* **Step 3:** Add CSP `Meta` Tag (Alternative Method). Should you lack accessibility to server settings, it is possible to place a CSP specification inside a `meta` tag in your HTML file:
 
 ```htmlembedded
 <!DOCTYPE html>
@@ -176,6 +176,7 @@ add_header Content-Security-Policy "script-src 'self' https://trusted-third-part
   </body>
 </html>
 ```
+Here is a sample of a simple HTML document for a medical website. Moreover, it sets the right character encoding and makes the site responsive by setting the `viewport` properties. Likewise, it has a Content Security Policy that allows the site’s scripts only for execution while denying all others like those of third-party. In addition, a message to welcome visitors is displayed on this page header and two external JavaScript files respectively; one points to local `main.js` while the second is on a third-party domain.
 
 * **Step 4:** Test Your CSP. When you have finished installing the CSP tool, carefully evaluate your webpage to guarantee that every resource loads correctly as well as no authentic information is denied. Utilize the developer browser options to look for any breach of CSP.
 
@@ -185,7 +186,7 @@ add_header Content-Security-Policy "script-src 'self' https://trusted-third-part
 ## Strategy 6: Subresource Integrity (SRI) 
 A script cannot be tampered with by SRI and it does this through you specifying an expected script content hash. For instance, SRI is a mechanism applied by an educational platform to guarantee that a certain external library that is utilized for interactive quizzes has not been corrupted.
 
-For Example:
+For example:
 ```htmlembedded
 <script
   src="https://example.com/library.js"
@@ -193,21 +194,22 @@ For Example:
   crossorigin="anonymous"
 ></script>
 ```
-As one of the HTML elements, the `<script>` tag is used to link to an external [JavaScript](https://www.javascript.com/) file in this given code section. Added security measures on this distant document are inclusive of attributes such as integrity attribute and `crossorgin` attribute.  The `<script>` is an HTML that embeds or makes reference to an external JavaScript file. The URL or address of the external JavaScript file that is to be incorporated is indicated by the src attribute. It’s where the script is saved that is, `https://example.com/library.js`.The `integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/uxC4c/8OxEX/XA5n/VvnMhvN++/L1` attribute helps you ensure that the integrity of script file is not compromised. Mathematically, the browser checks the fetched script’s hash against the one you provide to see if they match for verification of the script’s integrity.
+As one of the HTML elements, the `<script>` tag is used to link to an external [JavaScript](https://www.javascript.com/) file in this given code section. Added security measures on this distant document are inclusive of attributes such as integrity attribute and `crossorgin` attribute.  The `<script>` is an HTML that embeds or makes reference to an external JavaScript file. The URL or address of the external JavaScript file that is to be incorporated is indicated by the `src` attribute. It’s where the script is saved that is, `https://example.com/library.js`.The `integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/uxC4c/8OxEX/XA5n/VvnMhvN++/L1` attribute helps you ensure that the integrity of script file is not compromised. Mathematically, the browser checks the fetched script’s hash against the one you provide to see if they match for verification of the script’s integrity.
 
 ### Implementing a Subresource Integrity (SRI) Strategy
 Subresource integrity (SRI) is a special characteristic of security that allows web browsers to check if the files they pull (for example: CDNs) are delivered without an odd modification. Here’s how to implement SRI:
 
 * **Step 1:** List the outside tools your site makes use of (how about stylesheets, scripts, and so on). To illustrate, a learning portal could rely on third-party API for features such as interactive test modules.
 
-* **Step 2:** For the resource, make use of a tool for generating its hash. For this task, you can make use of various web-based services like [SRI Hash Generator](https://www.srihash.org/) as well as command-line applications such as [OpenSSL](https://www.openssl.org/). 
-When using an online tool, copy the URL of the external resource, the next step is to paste the URL into the SRI Hash Generator tool the copy the generated `integrity` attribute value. 
+* **Step 2:** For the resource, make use of a tool for generating its hash. For this task, you can make use of various web-based services like [SRI Hash Generator](https://www.srihash.org/) as well as command-line applications such as [OpenSSL](https://www.openssl.org/). When using an online tool, copy the URL of the external resource, the next step is to paste the URL into the SRI Hash Generator tool the copy the generated `integrity` attribute value. 
 
 Use this command for a file kept in a local place to use OpenSSL:
 ```bash
 openssl dgst -sha384 -binary quiz-library.js | openssl base64 -A
 ```
-* **Step 3:** In your HTML script or link tag, include the `integrity` and `crossorigin` attributes. Substitute in the code below `sha384-BASE64_HASH` with the proper hash which was created during step 2.
+The `SHA-384` hash is calculated for the file quiz-library.js, then binary format is used to output it and subsequently, `Base64` encoding of that binary hash follows. To summarize, it generates a `Base64` encoded hash that may serve for integrity checking purposes e.g., confirming that such file remains unchanged.
+
+* **Step 3:** In your HTML script or `link` tag, include the `integrity` and `crossorigin` attributes. Substitute in the code below `sha384-BASE64_HASH` with the proper hash which was created during step 2.
 
 For example:
 
@@ -236,9 +238,9 @@ A webpage called "Learning Platform" is created using this HTML. By using `meta`
 * **Step 5:** Make it a habit to watch out for updates on your outside resources. An updated resource’s hash will be different, hence you have to adjust the integrity attribute as necessary. If this is neglected, loading such a resource will fail.
 
 ## Strategy 7: Sandboxing and Isolation
-Applying the sandbox attribute to `iframes` on a gaming site can guarantee that ads are served without any risk of malicious scripts affecting pages containing them. By using the [sandboxing](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) technique, third-party scripts are prevented from reaching sensitive data or influencing other website sections.
+Applying the sandbox attribute to [iframes](https://www.w3schools.com/tags/tag_iframe.ASP#:) on  gaming site can guarantee that ads are served without any risk of malicious scripts affecting pages containing them. By using the [sandboxing](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) technique, third-party scripts are prevented from reaching sensitive data or influencing other website sections.
 
-For Example:
+For example:
 ```htmlembedded
 <iframe
   src="https://ads.com/ad"
@@ -252,7 +254,7 @@ For example, a website is willing to advertise ads (URL: `ads.com`) from an exte
 ### Implementing a Sandboxing and Isolation Strategy
 Sandboxing `iframes` represent an efficient method to segregate some third-party content like advertisements on your site. This ensures that any harmful codes embedded in `iframe` cannot alter any part of your website. The following instructions will show you how to carry out a sandboxing and isolation process:
 
-* **Step 1:** The Sandbox Attribute Should be Understood Restricting what content inside the `Iframe` can do is the job of the sandbox attribute. In any case where there are no values mentioned, then all are restricted by the use of sandbox for `iframes`. Some exceptions can also be provided.
+* **Step 1:** The Sandbox attribute should be understood. Restricting what content inside the `Iframe` can do is the job of the sandbox attribute. In any case where there are no values mentioned, then all are restricted by the use of sandbox for `iframes`. Some exceptions can also be provided.
 
 * **Step 2:** `Iframes` that have third-party content such as ads should have the sandbox attribute added to them.
 
