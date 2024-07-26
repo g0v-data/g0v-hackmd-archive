@@ -102,8 +102,9 @@ tags: GCAA, 透明足跡, ESG
 ## 系統架構
 
 1. API hosting
-2. UI hosting
-   - Github page: https://gcaa-org-tw.github.io/company-report-toolkit/
+   - Feathers.js / Node / [Render](https://render.com/)
+3. UI hosting
+   - Nuxt 3 / Vue 3 / Github page: https://gcaa-org-tw.github.io/company-report-toolkit/
 
 ---
 
