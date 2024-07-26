@@ -1,21 +1,21 @@
 # Strategies for Handling Third-Party Scripts 
 
-[Scripts](https://web.dev/articles/optimizing-content-efficiency-loading-third-party-javascript) from third-party websites are crucial to web development because they offer diverse functionalities that improve user experience on websites, simplify single operation techniques, and bring together services of different kinds in today’s digital environment. Therefore, [analytics tools](https://en.wikipedia.org/wiki/Web_analytics) plus clusters for adverts, widgets for social sites, and payment systems enhance the provision of complex options to site owners without having them programmed individually.
+[Scripts](https://web.dev/articles/optimizing-content-efficiency-loading-third-party-javascript) from third-party websites are crucial to web development because they offer diverse functionalities that improve the user experience on websites, simplify single operation techniques, and bring together services of different kinds in today’s digital environment. Therefore, [analytics tools](https://en.wikipedia.org/wiki/Web_analytics) plus clusters for adverts, widgets for social sites, and payment systems enhance the provision of complex options to site owners without having them programmed individually.
 
 
 The essence of this guide is to offer all-inclusive tactics on how to supervise third-party scripts so that software developers and businesses can take full advantage of them and at the same time manage risks related to their use. In looking at their importance, threats, and rules of engagement in using third-party scripts, you will be armed with information enabling you to fine-tune your performance levels, beef up defenses, and safeguard individual confidentiality, and privacy matters.
 
 ## Overview of Third-party Scripts and Importance
-Third-party scripts are code pieces that are written in webpages from the sources outside instead of writing them inside the website. These scripts can perform different tasks including linking the various  social media feeds amongst others like; tracking users' actions on the site and placing ads on it.  Third-party scripts provide developers with a means by which they can add more advanced features to their sites that would either be too difficult to write from scratch or to continue from another point. It is necessary to manage these third-party scripts due to many reasons that include impacting the performance of websites and speed thus affecting user experience positively or negatively. 
+Third-party scripts are code pieces that are written on the webpages from sources outside instead of writing them inside the website. These scripts can perform different tasks including linking the various  social media feeds amongst others like; tracking users' actions on the site and placing ads on it.  Third-party scripts provide developers with a means by which they can add more advanced features to their sites that would either be too difficult to write from scratch or to continue from another point. It is necessary to manage these third-party scripts due to many reasons that include impacting the performance of websites and speed thus affecting user experience positively or negatively. 
 
 Failure to correctly monitor these scripts, on the other hand, gives room for security loopholes via data breaches, and malware that can inflict other cyber threats. Last but not least, these scripts frequently require the gathering and handling of user information thereby raising security worries and resulting in the need for consent with data protection laws.
 
 
 ## Strategy 1: Audit and Assessment 
 
-The first thing to do when it comes to managing third-party scripts properly is to carry out a very thorough [audit](https://en.wikipedia.org/wiki/Website_audit) and assessment, by which I mean, find all scripts currently operating on your website and check whether you need them or not.
+The first thing to do when it comes to managing third-party scripts properly is to carry out a thorough [audit](https://en.wikipedia.org/wiki/Website_audit) and assessment, by which I mean, find all scripts currently operating on your website and check whether you need them or not.
 
-For myriads example plus an examination might illustrate how an organization can have several analytics scripts at different suppliers that are all doing similar things, which makes its performance degrade miserably. According to the same research ongoing up to now, this could help in simplifying data collection methods through which companies gather information about their customers with a single analytical tool. Reducing load time per page and making the whole site maintenance easier are some other reasons why such transformations are embraced.
+For myriads of examples an examination might illustrate how an organization can have several analytics scripts at different suppliers that are all doing similar things, which makes its performance degrade miserably. According to the same research, this could help simplify data collection methods through which companies gather information about their customers with a single analytical tool. Reducing load time per page and making the whole site maintenance easier are some other reasons why such transformations are embraced.
 
 Moreover, the audit may unearth additional inefficacies within the program design rather than just its components like those scripts that have outlived their utility Removing them will aid in improving both safety for users visiting your web space as well as increased speed of operations on various devices The security implications for each one should also be examined so that there are no vulnerability issues This in-depth scrutiny makes sure only necessary, effective and safe scripts are used to come up with a stronger and friendlier-interface web page.
 
@@ -49,7 +49,7 @@ In addition to this technical optimization, it can also be of great aid if you h
 ## Strategy 4: Asynchronous Loading and Non-Blocking Execution
 If scripts are loaded asynchronously, they don’t halt page rendering. Hence, using `async` or `defer` attributes enhances your website performance, because it allows scripts to be loaded simultaneously with other page elements as well. For instance, advertising and analytics scripts load asynchronously on a news website. This ensures the quick display of the main content while allowing for more time during which the ads and tracking scripts may still be loading.
 
-For xample:
+For example:
 ```htmlembedded
 <script src="analytics.js" async></script>
 <script src="ads.js" defer></script>
@@ -65,7 +65,7 @@ The `defer` scripts, unlike the `async`, preserve their execution order when the
 ### Implementation of Asynchronous Loading and Non-Blocking Execution
 By adopting asynchronous loading and non-blocking execution methods for scripts, your site’s efficiency will be greatly improved. The following is a systematic instruction on how one may apply them with the help of `async` and `defer` attributes:
 
-* **Step 1:** Understanding `async` and `defer` attributes. `Async` enables the browser to download the script simultaneously while it is being parsed in the background, without stalling or delaying the parsing of [HTML](https://html.com/). The script will immediately execute once downloaded which may disrupt HTML parsing. `Defer` attribute also tells a browser to download scripts in a non-blocking manner however it makes sure that they are only executed only after the HTML rendering is done. Thus, this approach script will not interfere with rendering any HTML content.
+* **Step 1:** Understanding `async` and `defer` attributes. `Async` enables the browser to download the script simultaneously while it is being parsed in the background, without stalling or delaying the parsing of [HTML](https://html.com/). The script will immediately execute once downloaded which may disrupt HTML parsing. The `Defer` attribute also tells a browser to download scripts in a non-blocking manner however it makes sure that they are executed only after the HTML rendering is done. Thus, this approach script will not interfere with rendering any HTML content.
 
 * **Step 2:** Adding Scripts with `async` and `defer`. If you use `async`, find the `script` tag in the HTML document and attach the `async` attribute to the `script` tag:
 ```htmlembedded
@@ -83,7 +83,7 @@ By adopting asynchronous loading and non-blocking execution methods for scripts,
   </body>
 </html>
 ```
-This basic web page structure in HTML Code is defined with the language as English. There are `meta` tags for character encoding and `viewport` settings in its head section to ensure that it displays properly on different devices. The title of the page is "Async Example". The body consists of an `h1` heading which has the phrase "Async Loading Example". At the end of the body, there are two script tags. `analytics.js` and `advertising.js` have their `async` attributes included in them. This means that these scripts will be fetched and executed asynchronously without blocking the HTML parsing.
+This basic web page structure in HTML Code is defined with the language as English. There are `meta` tags for character encoding and `viewport` settings in its head section to ensure that it displays properly on different devices. The title of the page is "Async Example". The body consists of an `h1` heading which has the phrase "Async Loading Example". At the end of the body, there are two script tags. `analytics.js` and `advertising.js` have their `async` attributes included. This means that these scripts will be fetched and executed asynchronously without blocking the HTML parsing.
 
 If you use `defer`, find the `script` tag in the HTML document and attach the `defer` attribute to the `script` tag:
 ```htmlembedded
@@ -238,7 +238,7 @@ A webpage called "Learning Platform" is created using this HTML. By using `meta`
 * **Step 5:** Make it a habit to watch out for updates on your outside resources. An updated resource’s hash will be different, hence you have to adjust the integrity attribute as necessary. If this is neglected, loading such a resource will fail.
 
 ## Strategy 7: Sandboxing and Isolation
-Applying the sandbox attribute to [iframes](https://www.w3schools.com/tags/tag_iframe.ASP#:) on  gaming site can guarantee that ads are served without any risk of malicious scripts affecting pages containing them. By using the [sandboxing](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) technique, third-party scripts are prevented from reaching sensitive data or influencing other website sections.
+Applying the sandbox attribute to [iframes](https://www.w3schools.com/tags/tag_iframe.ASP#:) on  gaming sites can guarantee that ads are served without any risk of malicious scripts affecting pages containing them. By using the [sandboxing](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) technique, third-party scripts are prevented from reaching sensitive data or influencing other website sections.
 
 For example:
 ```htmlembedded
@@ -252,11 +252,11 @@ The snippet uses the `<iframe>` tag to embed an external resource (in this case 
 For example, a website is willing to advertise ads (URL: `ads.com`) from an external advertising server. For security reasons on the main page, the content of these adverts should not be trustworthy; therefore, the developers have set up the `iframe` sandbox attribute.
 
 ### Implementing a Sandboxing and Isolation Strategy
-Sandboxing `iframes` represent an efficient method to segregate some third-party content like advertisements on your site. This ensures that any harmful codes embedded in `iframe` cannot alter any part of your website. The following instructions will show you how to carry out a sandboxing and isolation process:
+Sandboxing `iframes` represents an efficient method to segregate some third-party content like advertisements on your site. This ensures that any harmful codes embedded in `iframe` cannot alter any part of your website. The following instructions will show you how to carry out a sandboxing and isolation process:
 
-* **Step 1:** The Sandbox attribute should be understood. Restricting what content inside the `Iframe` can do is the job of the sandbox attribute. In any case where there are no values mentioned, then all are restricted by the use of sandbox for `iframes`. Some exceptions can also be provided.
+* **Step 1:** The Sandbox attribute should be understood. Restricting what content inside the `Iframe` can do is the job of the sandbox attribute. In any case where there are no values mentioned, then all are limited by the use of sandbox for `iframes`. Some exceptions can also be provided.
 
-* **Step 2:** `Iframes` that have third-party content such as ads should have the sandbox attribute added to them.
+* **Step 2:** `Iframes` that have third-party content such as ads should have the sandbox attribute added to them. Adding sandbox property is vital to protect `iframes` that contain external material such as ads since it restricts their functions. Thus, usage of an `iframe` is not permitted to run scripts, send forms, or obtain information from the preceding page. Such separation minimizes possible security threats like harmful code running or unlawful data, although still enables this kind of frame to retain its intended displays.
 
 * **Step 3:** Delineate the constraints of the sandbox. Several values can be added to modify the restrictions. On the Mozilla Developer Network (MDN) web documentation, you can locate thorough documentation surrounding limitations regarding the sandbox attribute using this [link](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe#attr-sandbox).
 
@@ -279,20 +279,18 @@ When it comes to implementing sandboxing techniques for `iframes` on a gaming si
   </body>
 </html>
 ```
-By this one, the `iframe` can execute scripts while still being considered as a member of the same domain, which may be needed for some advertising features. Still, it cannot engage in any other actions that could be harmful.
+By this one, the `iframe` can execute scripts while still being considered a member of the same domain, which may be needed for some advertising features. Still, it cannot engage in any other actions that could be harmful.
 
-* **Step 4:** Test Your Implementation. Once sandboxing has been set up, make sure you test your site to verify that the `iframes` are being loaded properly and that the limitations are being put into place. It is recommended to utilize the available browser developer tools in to check for any possible errors or violations.
+* **Step 4:** Test Your Implementation. Once sandboxing has been set up, make sure you test your site to verify that the `iframes` are being loaded properly and that the limitations are being put into place. It is recommended to utilize the available browser developer tools to check for any possible errors or violations.
 
 * **Step 5:** Keep watch and fix when necessary. Your website should be examined frequently for any potential concerns regarding the content that appears in `iframes`. Change the restrictions placed in the sandbox whenever required to maintain a balance between security and the ability to utilize it.
-
-
 
 ## Strategy 8: Privacy Consideration
 To uphold user confidence and observe data protection regulations privacy concerns must be in good grace.
 
 Implement methods of getting user endorsements before downloading outside scripts that collect data. An example of this can be shown by Travel Website, which has a message banner seeking endorsement from internet users to allow for cookies as well as external codes aimed at providing personalized suggestions and analytics.
 
-The privacy of users can be protected by anonymizing data collected from third-party scripts. For instance, to protect the identity of users, a forum anonymizes analytics data by removing IP addresses.
+Users' privacy can be protected by anonymizing data collected from third-party scripts. For instance, to protect the identity of users, a forum anonymizes analytics data by removing IP addresses.
 
 Lastly, make sure that you are compliant with [GDPR](https://gdpr-info.eu/) and [CCPA](https://oag.ca.gov/privacy/ccpa) when using third-party scripts. For instance,  to ensure that third-party scripts comply with GDPR, an online retailer reviewed and tweaked its privacy policy and added features such as data access and deletion requests for users.
 
