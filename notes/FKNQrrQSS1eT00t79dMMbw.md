@@ -186,3 +186,5 @@ ____
     return sum / (float) length;</pre>
 將前一項與這一項加起來，
 >return 跟 printf 的差別是，return將值返回給 main 函數。這樣，main 函數可以做進一步處理，例如打印輸出或進行其他計算。
+___
+
