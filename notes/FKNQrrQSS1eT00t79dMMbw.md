@@ -44,13 +44,13 @@ it's more efficient, because the computer only has to check conditions until it 
 
 ___
 > ## **include <cs50.h>**
-get_char - short for character,(letter, number, etc.)
+get_char - short for character,(letter, number, etc.) **(use '  ')**
 get_double - 雙精度浮點數（即帶有小數點且精度較高的數字）
 get_float - 浮點數
 get_int - 整數
 get_long - int但記憶體更大(4byte)
 get_short -int但記憶體更小(2byte)
-get_string - 一串字符的序列
+get_string - 一串字符的序列 **(use "")**
 
 
 
@@ -63,6 +63,8 @@ get_string - 一串字符的序列
 | %s       | 用于读取或打印字符串（char数组或指针） |
 
 这些格式符号在编程中常用来指示输入输出函数如何处理不同类型的数据。例如，在使用 `scanf` 函数读取输入时，你可以使用这些格式符号来告诉编程语言如何解析输入的内容。
+
+* when <string> stops, it give a 8byte signal (00000000) called **NUL(\0)**
 
 how to use them?
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_07e3cf4f190e7d0c9f8f85f082fbc832.png)
@@ -187,4 +189,3 @@ ____
 將前一項與這一項加起來，
 >return 跟 printf 的差別是，return將值返回給 main 函數。這樣，main 函數可以做進一步處理，例如打印輸出或進行其他計算。
 ___
-
