@@ -2,51 +2,52 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v Rand0mTh6n 第陸次放輕松](../notes/H5HUCwuLRuiJGFEVwgVbYA.md) | 2024-07-26T14:08:26+08:00 | 2024-07-26T14:06:02+08:00 |
-| 2 | [g0v 放輕松 Rand0mth0n 大全](../notes/2kuizcrmQOGOVDaQ0woAAg.md) | 2024-07-26T14:07:55+08:00 | 2024-04-25T00:55:29+08:00 |
-| 3 | [g0v DigiResiThon 數位韌性松大全](../notes/mGQcbKRDShmvyeGV74w_0w.md) | 2024-07-23T19:22:25+08:00 | 2023-10-21T11:52:33+08:00 |
-| 4 | [g0v Rand0mTh5n 第伍次放輕松](../notes/hkDJPiZUSfCBVaISxcStBg.md) | 2024-07-17T00:58:41+08:00 | 2024-07-09T18:24:06+08:00 |
-| 5 | [g0v DigiResiThon logistics](../notes/e6rWxnppQmuSpUxcoXzoHw.md) | 2024-07-16T19:55:00+08:00 | 2024-02-03T15:55:50+08:00 |
-| 6 | [g0v Rand0mTh4n 第肆次放輕松](../notes/0_zLPNmtQvO8udkjmC5MBw.md) | 2024-07-03T00:19:10+08:00 | 2024-06-24T19:34:44+08:00 |
-| 7 | [g0v Rand0mTh3n 第參次放輕松](../notes/h_ASN318TUSlf9FhNhQHQQ.md) | 2024-06-18T02:11:19+08:00 | 2024-06-11T15:23:42+08:00 |
-| 8 | [數位服務/軟體離線替代品 selfhost alternatives](../notes/vMiVU4G2RqqbY0tVJ9YaRg.md) | 2024-06-15T16:30:54+08:00 | 2024-06-15T14:08:19+08:00 |
-| 9 | [DigiResiTh7n 第柒次數位韌性松](../notes/_WHs9N0eS3mzFHn5QzjvRg.md) | 2024-06-15T15:49:12+08:00 | 2024-05-31T10:26:14+08:00 |
-| 10 | [g0v Rand0mTh2n 第貳次放輕松](../notes/YsGvF1BpSNGr0owRylG3Vg.md) | 2024-06-04T20:18:26+08:00 | 2024-05-16T16:50:42+08:00 |
-| 11 | [20240525 DigiResiTh6n 第陸次數位韌性松](../notes/CLbAeY3wTZCaLr-YCYqafw.md) | 2024-06-03T10:16:29+08:00 | 2024-05-18T10:21:20+08:00 |
-| 12 | [20240427 DigiResiTh5n 第伍次數位韌性松](../notes/ugNkTFLARwK4rmH7jCdO-g.md) | 2024-06-03T10:16:08+08:00 | 2024-04-08T15:58:50+08:00 |
-| 13 | [20240323 DigiResiTh4n 第肆次數位韌性松](../notes/qcDX1C5mTE24UcCUkfTthQ.md) | 2024-06-03T10:15:30+08:00 | 2024-03-10T14:34:37+08:00 |
-| 14 | [20240224 DigiResiTh3n 第參次數位韌性松](../notes/Xt7FoiZgTYq-7x20iNGN4A.md) | 2024-06-03T10:13:26+08:00 | 2024-01-20T16:35:50+08:00 |
-| 15 | [20240120 DigiResiTh2n 第貳次數位韌性松](../notes/iC-7ZtqJTqG75GxUY3aiAQ.md) | 2024-06-03T09:54:04+08:00 | 2024-01-09T18:38:34+08:00 |
-| 16 | [g0v Rand0mTh1n 第壹次放輕松](../notes/d9UgT5LTRRKywSPEo6jA5w.md) | 2024-05-24T00:03:58+08:00 | 2024-05-08T01:35:51+08:00 |
-| 17 | [20231104 DigiResiTh0n 第零次數位韌性松](../notes/oyNRfe4lTuaZ5RbcPSS7TQ.md) | 2024-05-20T23:07:17+08:00 | 2023-10-21T15:19:19+08:00 |
-| 18 | [民防/防災相關證照](../notes/B-ky08JbR4-HD3lFDwynLQ.md) | 2024-05-16T10:53:14+08:00 | 2023-12-31T16:33:11+08:00 |
-| 19 | [Meshtastic / DigiResiThon](../notes/0bR8-LvHRMaNaR97YaXpnQ.md) | 2024-05-16T10:41:55+08:00 | 2023-12-30T15:20:27+08:00 |
-| 20 | [g0v Rand0mTh0n 第零次放輕松](../notes/qzELuqNARKKBjWr2mIiY8A.md) | 2024-05-08T09:37:42+08:00 | 2024-04-25T01:07:33+08:00 |
-| 21 | [寫給對於還不熟悉 Meshtastic 的朋友 / DigiResiTh0n](../notes/V8ozO9RQS4ieWC1th3fleg.md) | 2024-04-27T16:52:55+08:00 | 2024-04-27T16:44:12+08:00 |
-| 22 | [台灣鏈網 Meshtastic / DigiResiTh0n](../notes/ZGuA7fUZQi-fbD06EenmGQ.md) | 2024-04-27T16:46:13+08:00 | 2024-04-27T16:13:59+08:00 |
-| 23 | [懶人包：購買後要如何設定 - 刷韌體 / DigiResiTh0n](../notes/BCNqWGEeRJms5A77oGewaw.md) | 2024-04-27T16:36:26+08:00 | 2024-04-27T16:30:11+08:00 |
-| 24 | [懶人包：我要如何購買 Meshtastic 裝置 / DigiResiTh0n](../notes/rW7Kbi7AR1uTMtuy8YAahA.md) | 2024-04-27T16:28:53+08:00 | 2024-04-27T16:23:11+08:00 |
-| 25 | [20231230 DigiResiTh1n 第壹次數位韌性松](../notes/mKkOC9PLSXi0GZg7uGm1xA.md) | 2024-04-27T13:30:37+08:00 | 2023-11-25T16:10:48+08:00 |
-| 26 | [g0v DigiResiThon 數位韌性松 募款模板](../notes/L0dLpQ_zTzGoNxeURzO2kw.md) | 2024-04-25T13:27:08+08:00 | 2024-02-21T10:13:46+08:00 |
-| 27 | [SaaS 韌性產品 self-host guide](../notes/9Z2EhRAFQq-jfsoixrwD5A.md) | 2024-03-23T17:02:05+08:00 | 2024-03-23T16:41:07+08:00 |
-| 28 | [g0v DigiResiTh0n Social Media Post Image Generation Prompts](../notes/PaNChj9XQ7ar_jVceu5ciQ.md) | 2024-03-10T16:26:31+08:00 | 2024-03-10T16:26:00+08:00 |
-| 29 | [g0v DigiResiThon 數位韌性松回 book mode 模板](../notes/VkctH3USQ-yoB6hw2s2D0Q.md) | 2024-03-10T14:57:57+08:00 | 2024-02-21T10:11:27+08:00 |
-| 30 | [g0v DigiResiThon idea pool](../notes/PMiMLc-JT3yFrAs3CL6rzw.md) | 2024-02-24T16:06:18+08:00 | 2024-02-24T16:01:01+08:00 |
-| 31 | [數位韌性情境分級](../notes/SYTBWVohTyuCgPGUqfAl9g.md) | 2024-02-24T15:06:41+08:00 | 2023-12-09T10:29:54+08:00 |
-| 32 | [大松小幫手指南](../notes/I60vO5PTQ322wu7wlLjiEg.md) | 2024-02-21T21:45:22+08:00 | 2023-12-05T11:29:15+08:00 |
-| 33 | [DigiResiThon 數位韌性松 bootstrapping](../notes/Qc8gsyY-Rn-4lXUA1gLH1g.md) | 2024-01-31T21:24:29+08:00 | 2023-12-30T16:19:42+08:00 |
-| 34 | [Google Meet 作為簡報投影 destination](../notes/L9OiaOhbSj2HGbuVcXtUIw.md) | 2023-12-31T17:30:40+08:00 | 2023-12-28T14:44:52+08:00 |
-| 35 | [將大松新手教學遊戲化實驗](../notes/BZ08fesJSVCVbPjxyYIjnw.md) | 2023-12-12T13:50:00+08:00 | 2023-12-10T12:23:35+08:00 |
-| 36 | [g0v 數位韌性松之  Digital Resiliency Firmware Update](../notes/Ex7L9ag7QfOnJXkwyz5iqg.md) | 2023-11-15T16:52:11+08:00 | 2023-11-04T13:49:47+08:00 |
-| 37 | [IG 不能動，還有什麼值得我心痛：為什麼要辦「假設網路斷光光」的 g0v 數位韌性黑客松](../notes/qkj6dwSFS0q8zpZO4-GxOQ.md) | 2023-11-08T22:54:28+08:00 | 2023-11-08T18:26:02+08:00 |
-| 38 | [韌性松場地路線圖及使用規定](../notes/9pwDPOXLTr6IJKiLofl3qg.md) | 2023-11-03T23:14:17+08:00 | 2023-11-03T22:51:11+08:00 |
-| 39 | [g0v hackath49n 台灣零時政府第肆拾玖次全糖去冰黑客松 x 2022 亞太社會創新高峰會 松後推坑](../notes/suE9Se1MR4uMZUp1TqZdxA.md) | 2022-05-11T03:42:18+08:00 | 2022-04-13T13:13:27+08:00 |
-| 40 | [g0v Hackath47n 第肆拾柒次板橋油庫口黑客松 松後推坑](../notes/19sw9ZEUQCyVaCnd3D8YWg.md) | 2021-12-21T02:57:52+08:00 | 2021-12-14T13:15:12+08:00 |
-| 41 | [萌典松 11/01 第二十四松 moed24ct](../notes/Bihe37E4SBqYNuXPN1G1aA.md) | 2020-11-01T17:57:47+08:00 | 2020-10-19T12:15:37+08:00 |
-| 42 | [萌典松 08/15 第二十三松 moed23ct](../notes/-KiPYTO3T96V-KJM_dRdyw.md) | 2020-10-19T12:31:52+08:00 | 2020-07-03T14:57:05+08:00 |
-| 43 | [0archive @ g0v-hackath37n](../notes/VS8C89GxQS68nWdNlAnqkg.md) | 2020-01-18T13:33:31+08:00 | 2019-12-02T20:58:24+08:00 |
-| 44 | [vTaiwan @ 五月大松](../notes/Pa_SGUyfSyKRtpf4T8EiNg.md) | 2019-06-09T08:25:04+08:00 | 2019-05-16T13:56:39+08:00 |
-| 45 | [g0v 專案資料庫補完計畫](../notes/EpU0aJihRfqPoCkdj67UEQ.md) | 2019-03-06T12:49:21+08:00 | 2019-03-05T15:23:45+08:00 |
-| 46 | [沒有人的新手村](../notes/4SlNIV95TuKP2bAzK7c9lw.md) | 2019-01-04T11:27:07+08:00 | 2018-11-22T17:33:19+08:00 |
-| 47 | [3/9 預定黑客松命名](../notes/1j8zcZQzQ1KzKlX1cqFIjQ.md) | 2018-12-07T20:54:48+08:00 | 2018-12-07T20:44:44+08:00 |
-| 48 | [[黑客松活動手冊] 行為守則](../notes/xfnqMnLZQIuYJraU2H7qYQ.md) | 2018-10-18T21:06:19+08:00 | 2014-06-16T01:55:34+08:00 |
+| 1 | [g0v DigiResiThon 數位韌性松大全](../notes/mGQcbKRDShmvyeGV74w_0w.md) | 2024-07-26T18:52:28+08:00 | 2023-10-21T11:52:33+08:00 |
+| 2 | [DigiResiTh7n 第柒次數位韌性松](../notes/H3ffGKZKSrmAAShdc2Cx9Q.md) | 2024-07-26T18:52:20+08:00 | 2024-07-26T18:50:40+08:00 |
+| 3 | [g0v Rand0mTh6n 第陸次放輕松](../notes/H5HUCwuLRuiJGFEVwgVbYA.md) | 2024-07-26T14:08:26+08:00 | 2024-07-26T14:06:02+08:00 |
+| 4 | [g0v 放輕松 Rand0mth0n 大全](../notes/2kuizcrmQOGOVDaQ0woAAg.md) | 2024-07-26T14:07:55+08:00 | 2024-04-25T00:55:29+08:00 |
+| 5 | [g0v Rand0mTh5n 第伍次放輕松](../notes/hkDJPiZUSfCBVaISxcStBg.md) | 2024-07-17T00:58:41+08:00 | 2024-07-09T18:24:06+08:00 |
+| 6 | [g0v DigiResiThon logistics](../notes/e6rWxnppQmuSpUxcoXzoHw.md) | 2024-07-16T19:55:00+08:00 | 2024-02-03T15:55:50+08:00 |
+| 7 | [g0v Rand0mTh4n 第肆次放輕松](../notes/0_zLPNmtQvO8udkjmC5MBw.md) | 2024-07-03T00:19:10+08:00 | 2024-06-24T19:34:44+08:00 |
+| 8 | [g0v Rand0mTh3n 第參次放輕松](../notes/h_ASN318TUSlf9FhNhQHQQ.md) | 2024-06-18T02:11:19+08:00 | 2024-06-11T15:23:42+08:00 |
+| 9 | [數位服務/軟體離線替代品 selfhost alternatives](../notes/vMiVU4G2RqqbY0tVJ9YaRg.md) | 2024-06-15T16:30:54+08:00 | 2024-06-15T14:08:19+08:00 |
+| 10 | [DigiResiTh7n 第柒次數位韌性松](../notes/_WHs9N0eS3mzFHn5QzjvRg.md) | 2024-06-15T15:49:12+08:00 | 2024-05-31T10:26:14+08:00 |
+| 11 | [g0v Rand0mTh2n 第貳次放輕松](../notes/YsGvF1BpSNGr0owRylG3Vg.md) | 2024-06-04T20:18:26+08:00 | 2024-05-16T16:50:42+08:00 |
+| 12 | [20240525 DigiResiTh6n 第陸次數位韌性松](../notes/CLbAeY3wTZCaLr-YCYqafw.md) | 2024-06-03T10:16:29+08:00 | 2024-05-18T10:21:20+08:00 |
+| 13 | [20240427 DigiResiTh5n 第伍次數位韌性松](../notes/ugNkTFLARwK4rmH7jCdO-g.md) | 2024-06-03T10:16:08+08:00 | 2024-04-08T15:58:50+08:00 |
+| 14 | [20240323 DigiResiTh4n 第肆次數位韌性松](../notes/qcDX1C5mTE24UcCUkfTthQ.md) | 2024-06-03T10:15:30+08:00 | 2024-03-10T14:34:37+08:00 |
+| 15 | [20240224 DigiResiTh3n 第參次數位韌性松](../notes/Xt7FoiZgTYq-7x20iNGN4A.md) | 2024-06-03T10:13:26+08:00 | 2024-01-20T16:35:50+08:00 |
+| 16 | [20240120 DigiResiTh2n 第貳次數位韌性松](../notes/iC-7ZtqJTqG75GxUY3aiAQ.md) | 2024-06-03T09:54:04+08:00 | 2024-01-09T18:38:34+08:00 |
+| 17 | [g0v Rand0mTh1n 第壹次放輕松](../notes/d9UgT5LTRRKywSPEo6jA5w.md) | 2024-05-24T00:03:58+08:00 | 2024-05-08T01:35:51+08:00 |
+| 18 | [20231104 DigiResiTh0n 第零次數位韌性松](../notes/oyNRfe4lTuaZ5RbcPSS7TQ.md) | 2024-05-20T23:07:17+08:00 | 2023-10-21T15:19:19+08:00 |
+| 19 | [民防/防災相關證照](../notes/B-ky08JbR4-HD3lFDwynLQ.md) | 2024-05-16T10:53:14+08:00 | 2023-12-31T16:33:11+08:00 |
+| 20 | [Meshtastic / DigiResiThon](../notes/0bR8-LvHRMaNaR97YaXpnQ.md) | 2024-05-16T10:41:55+08:00 | 2023-12-30T15:20:27+08:00 |
+| 21 | [g0v Rand0mTh0n 第零次放輕松](../notes/qzELuqNARKKBjWr2mIiY8A.md) | 2024-05-08T09:37:42+08:00 | 2024-04-25T01:07:33+08:00 |
+| 22 | [寫給對於還不熟悉 Meshtastic 的朋友 / DigiResiTh0n](../notes/V8ozO9RQS4ieWC1th3fleg.md) | 2024-04-27T16:52:55+08:00 | 2024-04-27T16:44:12+08:00 |
+| 23 | [台灣鏈網 Meshtastic / DigiResiTh0n](../notes/ZGuA7fUZQi-fbD06EenmGQ.md) | 2024-04-27T16:46:13+08:00 | 2024-04-27T16:13:59+08:00 |
+| 24 | [懶人包：購買後要如何設定 - 刷韌體 / DigiResiTh0n](../notes/BCNqWGEeRJms5A77oGewaw.md) | 2024-04-27T16:36:26+08:00 | 2024-04-27T16:30:11+08:00 |
+| 25 | [懶人包：我要如何購買 Meshtastic 裝置 / DigiResiTh0n](../notes/rW7Kbi7AR1uTMtuy8YAahA.md) | 2024-04-27T16:28:53+08:00 | 2024-04-27T16:23:11+08:00 |
+| 26 | [20231230 DigiResiTh1n 第壹次數位韌性松](../notes/mKkOC9PLSXi0GZg7uGm1xA.md) | 2024-04-27T13:30:37+08:00 | 2023-11-25T16:10:48+08:00 |
+| 27 | [g0v DigiResiThon 數位韌性松 募款模板](../notes/L0dLpQ_zTzGoNxeURzO2kw.md) | 2024-04-25T13:27:08+08:00 | 2024-02-21T10:13:46+08:00 |
+| 28 | [SaaS 韌性產品 self-host guide](../notes/9Z2EhRAFQq-jfsoixrwD5A.md) | 2024-03-23T17:02:05+08:00 | 2024-03-23T16:41:07+08:00 |
+| 29 | [g0v DigiResiTh0n Social Media Post Image Generation Prompts](../notes/PaNChj9XQ7ar_jVceu5ciQ.md) | 2024-03-10T16:26:31+08:00 | 2024-03-10T16:26:00+08:00 |
+| 30 | [g0v DigiResiThon 數位韌性松回 book mode 模板](../notes/VkctH3USQ-yoB6hw2s2D0Q.md) | 2024-03-10T14:57:57+08:00 | 2024-02-21T10:11:27+08:00 |
+| 31 | [g0v DigiResiThon idea pool](../notes/PMiMLc-JT3yFrAs3CL6rzw.md) | 2024-02-24T16:06:18+08:00 | 2024-02-24T16:01:01+08:00 |
+| 32 | [數位韌性情境分級](../notes/SYTBWVohTyuCgPGUqfAl9g.md) | 2024-02-24T15:06:41+08:00 | 2023-12-09T10:29:54+08:00 |
+| 33 | [大松小幫手指南](../notes/I60vO5PTQ322wu7wlLjiEg.md) | 2024-02-21T21:45:22+08:00 | 2023-12-05T11:29:15+08:00 |
+| 34 | [DigiResiThon 數位韌性松 bootstrapping](../notes/Qc8gsyY-Rn-4lXUA1gLH1g.md) | 2024-01-31T21:24:29+08:00 | 2023-12-30T16:19:42+08:00 |
+| 35 | [Google Meet 作為簡報投影 destination](../notes/L9OiaOhbSj2HGbuVcXtUIw.md) | 2023-12-31T17:30:40+08:00 | 2023-12-28T14:44:52+08:00 |
+| 36 | [將大松新手教學遊戲化實驗](../notes/BZ08fesJSVCVbPjxyYIjnw.md) | 2023-12-12T13:50:00+08:00 | 2023-12-10T12:23:35+08:00 |
+| 37 | [g0v 數位韌性松之  Digital Resiliency Firmware Update](../notes/Ex7L9ag7QfOnJXkwyz5iqg.md) | 2023-11-15T16:52:11+08:00 | 2023-11-04T13:49:47+08:00 |
+| 38 | [IG 不能動，還有什麼值得我心痛：為什麼要辦「假設網路斷光光」的 g0v 數位韌性黑客松](../notes/qkj6dwSFS0q8zpZO4-GxOQ.md) | 2023-11-08T22:54:28+08:00 | 2023-11-08T18:26:02+08:00 |
+| 39 | [韌性松場地路線圖及使用規定](../notes/9pwDPOXLTr6IJKiLofl3qg.md) | 2023-11-03T23:14:17+08:00 | 2023-11-03T22:51:11+08:00 |
+| 40 | [g0v hackath49n 台灣零時政府第肆拾玖次全糖去冰黑客松 x 2022 亞太社會創新高峰會 松後推坑](../notes/suE9Se1MR4uMZUp1TqZdxA.md) | 2022-05-11T03:42:18+08:00 | 2022-04-13T13:13:27+08:00 |
+| 41 | [g0v Hackath47n 第肆拾柒次板橋油庫口黑客松 松後推坑](../notes/19sw9ZEUQCyVaCnd3D8YWg.md) | 2021-12-21T02:57:52+08:00 | 2021-12-14T13:15:12+08:00 |
+| 42 | [萌典松 11/01 第二十四松 moed24ct](../notes/Bihe37E4SBqYNuXPN1G1aA.md) | 2020-11-01T17:57:47+08:00 | 2020-10-19T12:15:37+08:00 |
+| 43 | [萌典松 08/15 第二十三松 moed23ct](../notes/-KiPYTO3T96V-KJM_dRdyw.md) | 2020-10-19T12:31:52+08:00 | 2020-07-03T14:57:05+08:00 |
+| 44 | [0archive @ g0v-hackath37n](../notes/VS8C89GxQS68nWdNlAnqkg.md) | 2020-01-18T13:33:31+08:00 | 2019-12-02T20:58:24+08:00 |
+| 45 | [vTaiwan @ 五月大松](../notes/Pa_SGUyfSyKRtpf4T8EiNg.md) | 2019-06-09T08:25:04+08:00 | 2019-05-16T13:56:39+08:00 |
+| 46 | [g0v 專案資料庫補完計畫](../notes/EpU0aJihRfqPoCkdj67UEQ.md) | 2019-03-06T12:49:21+08:00 | 2019-03-05T15:23:45+08:00 |
+| 47 | [沒有人的新手村](../notes/4SlNIV95TuKP2bAzK7c9lw.md) | 2019-01-04T11:27:07+08:00 | 2018-11-22T17:33:19+08:00 |
+| 48 | [3/9 預定黑客松命名](../notes/1j8zcZQzQ1KzKlX1cqFIjQ.md) | 2018-12-07T20:54:48+08:00 | 2018-12-07T20:44:44+08:00 |
+| 49 | [[黑客松活動手冊] 行為守則](../notes/xfnqMnLZQIuYJraU2H7qYQ.md) | 2018-10-18T21:06:19+08:00 | 2014-06-16T01:55:34+08:00 |

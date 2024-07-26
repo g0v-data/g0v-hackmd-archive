@@ -238,19 +238,31 @@ https://www.oracle.com/java/technologies/downloads/
 
 Step 2: Set up the environment variable:
 
- Step 1: Go to your pc setting and click on advanced system setting.
+ . Go to your pc setting and click on advanced system setting.
  
  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5a39f6243d2ce7c465b3e13aa135e30c.png)
  
- Step 2: Click on environment variable button
+ . Click on environment variable button
  
  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_73efbd9c9a4eca2f2318e39f8f16067d.png)
 
-Step 3: Under system variable, select path and click on edit button. Now set the complete java path and click on save.
+ . Under system variable, select path and click on edit button. Now set the complete java path and click on save.
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_697d3d912de63795a1383cecb94e4ccf.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_697d3d912de63795a1383cecb94e4cc
 
-Step 4: 
+. Download and install selenium client and webdriver languages from the selenium website
+
+https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.8.0/selenium-java-4.8.0.zip
+
+Extract the downloaded folder. 
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_245d72b6a75758a0b43582d0e71c0451.png)
+
+It should look like this:
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_531bd97230a5bf0467341a956277bd22.png)
+
+Download 
 
 
 
