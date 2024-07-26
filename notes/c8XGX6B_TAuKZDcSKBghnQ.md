@@ -67,7 +67,7 @@ By adopting asynchronous loading and non-blocking execution methods for scripts,
 
 * **Step 1:** Understanding `async` and `defer` attributes. `async` enables the browser to download the script simultaneously while it is being parsed in the background, without stalling or delaying the parsing of [HTML](https://html.com/). The script will immediately execute once downloaded which may disrupt HTML parsing. `defer` attribute also tells a browser to download scripts in a non-blocking manner however it makes sure that they are only executed only after the HTML rendering is done. Thus, this approach script will not interfere with rendering any HTML content.
 
-* **Step 2:** Adding Scripts with `async` and `defer`. If you use async, find the `script` tag in the HTML document and attach the async attribute to the `script` tag:
+* **Step 2:** Adding Scripts with `async` and `defer`. If you use `async`, find the `script` tag in the HTML document and attach the `async` attribute to the `script` tag:
 ```htmlembedded
 <!DOCTYPE html>
 <html lang="en">
