@@ -47,3 +47,7 @@
 - [開放國會資料整理](https://docs.google.com/spreadsheets/d/1P98LGBTK1fu2KxC775sXIDwr5QlB6harsqBwMKoicM4/edit?usp=sharing)
 - 已經 554 項意見分類完，並將其整合到 200 項。
 - [成果報告ppt](https://docs.google.com/presentation/d/1S8bZWYAvyweEFHVt6frD7NXpCAV8xC1OQTZdVIRZUn4/edit#slide=id.g2ed3cfb9d0f_0_0)
+
+
+
+## talk to the city 

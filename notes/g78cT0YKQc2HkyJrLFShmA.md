@@ -80,6 +80,9 @@ https://www.ca.gov.mo/files/PA4119cn.pdf
 ## 佛系Q&A
 有咩問題，係呢度寫，時間到了，自然會有人回答你。或者去[澳門公務員Secrets](https://www.facebook.com/CivilServantSectets.macau) (已停止更新) 提問，都可以使用放大鏡搜尋過往相關的話題。又或者到呢度睇下收集的問題：[正苦工問題集](https://docs.google.com/document/d/1CMnw_J-lqW1LoAESxu-IrGieoqcqd14K9kXrRzfVHUY/edit?usp=sharing)。
 
+### 想問一下面試嘅流程係點？係一對一定係好幾個人一齊？需唔需要準備筆記文具之類？唔該各位。
+
+
 ### 請問有冇做緊嘅師兄師姐了解部門依家情況，知唔知係咪公務員人數自從封頂後，係咪無得再增聘？（p.s. 260實位兩缺開考，考名單頭十名內，想知有冇機），感謝
 答案
 

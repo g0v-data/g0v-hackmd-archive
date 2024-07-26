@@ -189,3 +189,33 @@ ____
 將前一項與這一項加起來，
 >return 跟 printf 的差別是，return將值返回給 main 函數。這樣，main 函數可以做進一步處理，例如打印輸出或進行其他計算。
 ___
+
+## String
+libary <string.h>
+使用 **strlen**(stringlength)計算字符長度
+<pre>
+#<stdio.h>
+#<string.h>
+.....
+int main(void)
+{
+...
+int length = strlen(name);
+...
+}
+</pre>
+
+* (善用序列s[i] 與 ASCII)
+使用範例:將小寫轉大寫
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4092f730418404636596c71723d88149.png)
+-> for loop夾在printf("after:")與print("\n")之間，跑完所有字母才輸出。
+-> 大寫字母的ASCII碼為小寫碼-32
+
+* ### agrc and agrv
+<pre>int main(int argc, char(可替換為string)  argv[])
+</pre>
+argc 是一個整數，表示傳遞給程序的命令行參數的數量（argument count）。argc 至少為1。
+
+argv 是字符串的指針數組，包含傳遞給程序的所有命令行參數（argument vector）。
+
+argv[0] 是程序的名稱，argv[1] 是第一個命令行參數，依此類推。
