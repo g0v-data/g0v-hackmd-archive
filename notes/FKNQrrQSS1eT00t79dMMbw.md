@@ -219,3 +219,14 @@ argc 是一個整數，表示傳遞給程序的命令行參數的數量（argume
 argv 是字符串的指針數組，包含傳遞給程序的所有命令行參數（argument vector）。
 
 argv[0] 是程序的名稱，argv[1] 是第一個命令行參數，依此類推。
+---> **argc 第一個參數[1]為系統打入的字符，[2]為使用者打入的字符**
+---> **argz第一個參數[1]為使用者打入的字符**
+---> return- [0]:程序結束(\failed),[1]:程序成功(succed) 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c96fdc660da86e23d9338b75fc4901fc.png)
+argc != 2 意味:當agrc **不等於(!)** 2時
+
+___
+## ※ some fun things to do in terminal
+$cowsay moo: 顯示說moo的牛
+$cowsay -f dragon rarr: 顯示說rarr的龍(一定要說話)
+(-f stands for file)
