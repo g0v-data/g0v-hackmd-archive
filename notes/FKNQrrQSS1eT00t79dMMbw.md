@@ -224,9 +224,14 @@ argv[0] 是程序的名稱，argv[1] 是第一個命令行參數，依此類推�
 ---> return- [0]:程序結束(\failed),[1]:程序成功(succed) 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c96fdc660da86e23d9338b75fc4901fc.png)
 argc != 2 意味:當agrc **不等於(!)** 2時
-
+* <stblib.h>  atoi: convert strings into integers
 ___
 ## ※ some fun things to do in terminal
 $cowsay moo: 顯示說moo的牛
 $cowsay -f dragon rarr: 顯示說rarr的龍(一定要說話)
 (-f stands for file)
+
+___
+## Function
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_084496e3d97d62473691b938956a6887.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_376bf7c422413cd7a0d27cb0e409ace0.png)
