@@ -67,7 +67,10 @@ tags: FtO, g0v-intl
 * 2 Lunch Workshops
     * Venue
         * ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_77e68d88f1097adbd2d503fed5c46f7b.jpg)
-    * 1. Student Workshop
+    * 1. Civic Tech in East Asia Workshop
+        * Participants: Rest of the group
+        * Host: Chihao + Vakau + RS (TW)
+    * 2. Student Workshop
         * Participants: JP7, KR9, TW3(+2?)
             * Divide into 3 groups
             * Table-Host
@@ -88,9 +91,6 @@ tags: FtO, g0v-intl
                     * What is the negative impact of collaborate with internationalo students and how to solve them
             * 15min for each table and final share from table host
             * Use Miro for the discussion
-    * 2. Workshop
-        * Participants: Rest of the group
-        * Host: Chihao + Vakau + RS (TW)
     * Note: We cannot use microphone and screeen
 
 ### 18th Lunch

@@ -214,7 +214,7 @@ Step 12: Click on 'ok, run the spec'
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0600f808c7578546aaadd0123672242f.png)
 
-Step 13: There you have it, your first success cypress test. 
+Step 13: There you have it, your first successful  cypress test. 
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a053a5f4a77c32722cfa1c18e32f4640.png)
 
@@ -241,6 +241,16 @@ Step 2: Set up the environment variable:
  Step 1: Go to your pc setting and click on advanced system setting.
  
  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5a39f6243d2ce7c465b3e13aa135e30c.png)
+ 
+ Step 2: Click on environment variable button
+ 
+ ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_73efbd9c9a4eca2f2318e39f8f16067d.png)
+
+Step 3: Under system variable, select path and click on edit button. Now set the complete java path and click on save.
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_697d3d912de63795a1383cecb94e4ccf.png)
+
+Step 4: 
 
 
 

@@ -2,10 +2,10 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [FtO Yokohama 2024 Workshop 1](../notes/lqtewQfeQyq77OQoWCgnTA.md) | 2024-07-26T16:55:34+08:00 | 2024-07-26T16:47:56+08:00 |
-| 2 | [FtO Yokohama 2024 Workshop 2](../notes/dS4GUZRaRZy-vmVcLAW7jA.md) | 2024-07-26T16:51:53+08:00 | 2024-07-26T16:51:40+08:00 |
-| 3 | [FtO Yokohama 2024](../notes/VCTm63nQQl6Rh3r_yKjmbw.md) | 2024-07-12T16:55:27+08:00 | 2024-03-20T11:12:07+08:00 |
-| 4 | [20240711 FtO organizers meeting notes](../notes/cBlGALc0Thit6GKWGC2XeA.md) | 2024-07-11T17:01:44+08:00 | 2024-07-08T15:07:01+08:00 |
+| 1 | [20240711 FtO organizers meeting notes](../notes/cBlGALc0Thit6GKWGC2XeA.md) | 2024-07-26T17:21:38+08:00 | 2024-07-08T15:07:01+08:00 |
+| 2 | [FtO Yokohama 2024 Workshop 2: Student Workshop](../notes/dS4GUZRaRZy-vmVcLAW7jA.md) | 2024-07-26T17:14:30+08:00 | 2024-07-26T16:51:40+08:00 |
+| 3 | [FtO Yokohama 2024 Workshop 1: Civic Tech in East Asia](../notes/lqtewQfeQyq77OQoWCgnTA.md) | 2024-07-26T17:14:15+08:00 | 2024-07-26T16:47:56+08:00 |
+| 4 | [FtO Yokohama 2024](../notes/VCTm63nQQl6Rh3r_yKjmbw.md) | 2024-07-12T16:55:27+08:00 | 2024-03-20T11:12:07+08:00 |
 | 5 | [20240620 FtO organizers meeting notes](../notes/-m5VjKW0Sm6_SDAgWjwf2Q.md) | 2024-06-20T16:06:50+08:00 | 2024-06-20T15:51:05+08:00 |
 | 6 | [FtO at RightsCon 2025](../notes/9Jgy0WAZRIeBYSebxOTB2w.md) | 2024-06-08T11:24:38+08:00 | 2024-06-07T09:45:30+08:00 |
 | 7 | [20240523 FtO organizers meeting notes](../notes/r1UffrFgTwWhsTUFybi6ig.md) | 2024-05-27T14:33:56+08:00 | 2024-05-14T12:25:30+08:00 |
