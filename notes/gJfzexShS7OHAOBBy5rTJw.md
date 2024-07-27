@@ -62,6 +62,10 @@ done
 - 政府適合辦什麼樣的黑客松？ 
     - https://etblue.blogspot.com/2021/05/government-and-hackathons.html
 
+### 2024.07 開始整合語言專案與語料
+
+https://g0v.hackmd.io/r0vbhhJ5R6uKVLo5yXmf_A?view
+
 
 ## 資料架構
 
