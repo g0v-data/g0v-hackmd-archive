@@ -227,6 +227,25 @@ After these prompts, you can write new tests or run existing example tests using
 Aside from Playwright’s dependency on Node.js, it simplifies browser setup/connection by downloading the required testing browsers in the local directory. This means that even if you do not have the required browsers installed, you can still run Playwright tests.
 ![Playwright’s supported browsers](https://i.imgur.com/ItgZnIH.png)
 
+Step by step guide to installing playwright:
+
+The installation process of playwright is somewhat similar to that of cypress and if you have followed the cypress installation steps carefully, then this process should be an easy one for you. 
+
+Step 1: Install visual studio code. 
+
+- [ ] If you have installed visual studio code, you can skip this step. If you haven't, click on this link  Visual Studio Code
+https://code.visualstudio.com
+Visual Studio Code.
+
+Step 2: Create a folder in Visual studio code For example Playwright_javascript.
+
+- [ ] Check step 4 under the cypress installation steps if you are unclear about how to create a folder in Visual studio code.
+
+Step 3: Search for playwright extension in Visual Studi Code and install it.
+
+
+Step 4: Search 'playwright' 
+
 Selenium: Selenium has the most involved setup among the three tools. For starters, you need to have the drivers for the browsers you want to test with. So if you wish to test your applications with Chrome and Firefox, you will need to have both browsers installed alongside their selenium webdrivers. This tedious setup process can be abstracted by the client library, giving you a straightforward way of running your tests. However, this convenience is not present in all Selenium client libraries. 
 
 Step by step guide to installing Selenium:
@@ -262,7 +281,27 @@ It should look like this:
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_531bd97230a5bf0467341a956277bd22.png)
 
-Download 
+ Step 3: Install webdrivers:
+ Now, you have to install webdrivers for specific browsers because it is necessary for Selenium to interact with that browser. Since Chrome is a very popular web browser. Use this link https://chromedriver.chromium.org/downloads to download the chrome web driver. Once you have downloaded it, add the path of the downloaded driver to your system environment variable.
+ 
+ Step 4: Download and install Eclipse for Selenium webdriver
+ 
+ . Go to the official Eclipse website Eclipse website and download Eclipse
+ 
+ ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5ad663e1d54c319ffb60e03647bf0a85.png)
+ 
+ . Once the download is complete, unzip the archive and extract the content to a directory on your computer 
+ 
+
+ ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6cdb81cfaeb5246b7f594a68c5bb4d30.png)
+
+ . Now you need to create a workspace to store your test scripts and test results.
+ 
+ ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0e3e49fb75a97699937475bb180fb811.png)
+
+ . Click on the launch button and your installation is complete.
+ 
+ ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_71a65564cc4af4ba5541e2756fc21196.png)
 
 
 
