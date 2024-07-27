@@ -11,7 +11,7 @@ title: DigiResiTh7n 第柒次數位韌性松
 {%hackmd VkctH3USQ-yoB6hw2s2D0Q %}
 
 :::danger
-# 快速連到本頁面網址：`s.g0v.tw/digiresi`
+# 快速連到本頁面網址：`s.g0v.tw/resi`
 :::
 
 :::success
@@ -50,11 +50,13 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
 | matrix 架構研究 | ronnywang | TBA |
-| | paulpengtw |  |
-|[能源轉型模擬器](https://www.climateinteractive.org/en-roads/)  |周俗俗 |分享台灣專有的能源模型 |
+| gpt4all 試玩 | paulpengtw | 離線的 LLM 能不能在 16gb ram 的 mac 順跑，還可以玩出什麼花樣  |
+|[能源轉型模擬器討論共筆](/1dMEieAaSqOClML4gs2SWQ)  |周俗俗 |分享台灣專有的能源模型 |
+| Meshtastic 相關討論 | Sean | 討論硬體設計&下階段發展 |
 | insert content here | insert name here | insert content here |
 
-
+## 簽名區
+來者何人，留下名稱！（請自由留下自己的暱稱或稱呼）
 
 ---
 [Back to the top](#)

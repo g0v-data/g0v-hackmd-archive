@@ -58,7 +58,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 | ------------------ | ---------- | --------------------------------------------------------------------------------------------------------------- |
 | Example | Nobody      |範例|
 | g0v 夏日源力增能營 課程心得共筆 | Yi  | 分享零時小學校線上課程的心得＆製作成共筆
-|[能源轉型模擬器](https://www.climateinteractive.org/en-roads/)  |周叔叔 |分享台灣專有的能源模型 |
+| [能源轉型模擬器討論共筆](/1dMEieAaSqOClML4gs2SWQ) [enroads](https://www.climateinteractive.org/en-roads/)  |周叔叔 |分享台灣專有的能源模型 |
 
 ## 一些紀錄
 
