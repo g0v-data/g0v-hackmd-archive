@@ -9,11 +9,11 @@ title: DigiResiTh7n 第柒次數位韌性松
 # 20240727 DigiResiTh8n 第捌次數位韌性松
 
 {%hackmd VkctH3USQ-yoB6hw2s2D0Q %}
-<!-- 
+
 :::danger
 # 快速連到本頁面網址：`s.g0v.tw/digiresi`
 :::
- -->
+
 :::success
 報名流程及注意事項
 1. 當您參與本活動，即代表您已經同意 [g0v 宣言](https://g0v.tw/intl/zh-TW/manifesto/zh-TW/) 並願意遵守 [行為守則 Code of Conduct](https://g0v.hackmd.io/s/COC)。
@@ -49,6 +49,9 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
+| matrix 架構研究 | ronnywang | TBA |
+| | paulpengtw |  |
+|[能源轉型模擬器](https://www.climateinteractive.org/en-roads/)  |周俗俗 |分享台灣專有的能源模型 |
 | insert content here | insert name here | insert content here |
 
 
