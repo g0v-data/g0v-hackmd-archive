@@ -6,9 +6,9 @@ By mixing [React](https://react.dev/) with [Tailwind CSS](https://tailwindcss.co
 
 
 ## Project Setup
-To have a React app, we need to begin by following a few steps that will enable us to have an environment that supports clean coding practices and is effective too. In this case, the initial stage would be employing `create-react-app` which is a product developed by [Facebook](https://www.facebook.com/) for this process. The default settings & essential build configurations that come with this tool make sure that configuring your project becomes easier while saving you much more time as well as the effort involved in such endeavors.
+To have a React app, we need to begin by following a few steps that will enable us to have an environment that supports clean coding practices and is effective too. In this case, the initial stage would be employing `create-react-app` which is a product developed by [Facebook](https://www.facebook.com/) for this process. The default settings and essential build configurations that come with this tool make sure that configuring your project becomes easier while saving you much more time as well as the effort involved in such endeavors.
 
-First, open the terminal and run the command 
+First, open the terminal and run the command: 
 
 ```bash
 npx create-react-app pull-to-refresh-app
@@ -290,7 +290,7 @@ const handleRefresh = async () => {
 This code snippet makes sure that new data is retrieved and the component updates itself with up-to-date information when the user pulls down to refresh.
 
 ### Displaying Data in the Component
-To retrieve the information we are trying to display, we iterate through the `data` array and output each item as a list element. We apply Tailwind CSS to format the list items:
+To retrieve the information we are trying to display, we iterate through the `data` array and output each item as a `list` element. We apply Tailwind CSS to format the list items:
 
 ```javascript
 <ul>
