@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [DigiResiTh7n 第柒次數位韌性松](../notes/H3ffGKZKSrmAAShdc2Cx9Q.md) | 2024-07-27T13:25:11+08:00 | 2024-07-26T18:50:40+08:00 |
+| 1 | [DigiResiTh7n 第柒次數位韌性松](../notes/H3ffGKZKSrmAAShdc2Cx9Q.md) | 2024-07-27T17:58:27+08:00 | 2024-07-26T18:50:40+08:00 |
 | 2 | [g0v DigiResiThon 數位韌性松大全](../notes/mGQcbKRDShmvyeGV74w_0w.md) | 2024-07-26T18:52:28+08:00 | 2023-10-21T11:52:33+08:00 |
 | 3 | [g0v DigiResiThon logistics](../notes/e6rWxnppQmuSpUxcoXzoHw.md) | 2024-07-16T19:55:00+08:00 | 2024-02-03T15:55:50+08:00 |
 | 4 | [數位服務/軟體離線替代品 selfhost alternatives](../notes/vMiVU4G2RqqbY0tVJ9YaRg.md) | 2024-06-15T16:30:54+08:00 | 2024-06-15T14:08:19+08:00 |

@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,10 +20,10 @@
   <p>Automated testing is a testing technique that involves the use of software tools in executing test cases. It often involves test cases written in a scripting language such as Python, JavaScript, or Lua. The scripts are written to test the different functionalities of a piece of software.
     Automated testing can be seen as a process of automating manual test cases, that is, using software tools to execute test cases that would have been executed manually. The goal of automated testing is to reduce the amount of manual work involved in test execution, leading to higher test coverage. Some benefits of automated testing are: 
     
-. Elimination of human error
-. Wider test coverage
-. Greater accuracy
-. Early detection of bugs among others.
+* Elimination of human error
+* Wider test coverage
+* Greater accuracy
+* Early detection of bugs among others.p
 
 > **Please note**: Automation testing is not a replacement for manual testing so it doesn't eliminate the need for human testers, rather it creates an avenue for human testers to carry out tests with testing tools. 
 
@@ -56,9 +58,10 @@ Selenium: Selenium supports popular web browsers including Google Chrome, Mozill
 - [IE Driver Server](https://www.selenium.dev/documentation/ie_driver_server/) for Internet Explorer.
 
 Selenium's support for a wide range of browsers makes it the most suitable tool for testing web applications on different browsers. The only downside is the requirement of downloading each browser and its webdriver.
-```
+
 
 Playwright: Like Selenium, Playwright supports multiple browsers including Firefox, Chromium-based browsers, and Safari using a single API. It provides a unified API for automating web browsers. This makes it an effective tool for cross-browser testing and automation. Playwright defines this cross-browser testing behavior in a configuration file `playwright.config.js`. The content of the file responsible for the cross-browser testing looks is structured as shown below:
+
 ```js
 module.exports = defineConfig({
   /* Configure projects for major browsers */
@@ -233,18 +236,27 @@ The installation process of playwright is somewhat similar to that of cypress an
 
 Step 1: Install visual studio code. 
 
-- [ ] If you have installed visual studio code, you can skip this step. If you haven't, click on this link  Visual Studio Code
+>If you have installed Visual Studio Code, you can skip this step. If you haven't, click on this link
 https://code.visualstudio.com
-Visual Studio Code.
 
-Step 2: Create a folder in Visual studio code For example Playwright_javascript.
+Step 2: Create a new Folder.
 
-- [ ] Check step 4 under the cypress installation steps if you are unclear about how to create a folder in Visual studio code.
+Step 3: Search for playwright extension in Visual Studio Code and install it.
 
-Step 3: Search for playwright extension in Visual Studi Code and install it.
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a1a2fcb96e3f7e5b84d9402fec9ab3e7.png)
 
 
-Step 4: Search 'playwright' 
+Step 4: Search 'playwright' and click on Test: Install Playwright 
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d7d7e8a414e928b41dacbe7b6dd351ab.png)
+
+
+Step 5: Finally, click the ok button
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0a8af931d621effb2ea018b8ba2b6439.png)
+
+
+Just like that, you are done!
 
 Selenium: Selenium has the most involved setup among the three tools. For starters, you need to have the drivers for the browsers you want to test with. So if you wish to test your applications with Chrome and Firefox, you will need to have both browsers installed alongside their selenium webdrivers. This tedious setup process can be abstracted by the client library, giving you a straightforward way of running your tests. However, this convenience is not present in all Selenium client libraries. 
 
@@ -257,11 +269,11 @@ https://www.oracle.com/java/technologies/downloads/
 
 Step 2: Set up the environment variable:
 
- . Go to your pc setting and click on advanced system setting.
+* Go to your pc setting and click on advanced system setting.
  
  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5a39f6243d2ce7c465b3e13aa135e30c.png)
  
- . Click on environment variable button
+* Click on environment variable button
  
  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_73efbd9c9a4eca2f2318e39f8f16067d.png)
 
@@ -286,23 +298,22 @@ It should look like this:
  
  Step 4: Download and install Eclipse for Selenium webdriver
  
- . Go to the official Eclipse website Eclipse website and download Eclipse
+*  Go to the official Eclipse website Eclipse website and download Eclipse
  
  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5ad663e1d54c319ffb60e03647bf0a85.png)
  
- . Once the download is complete, unzip the archive and extract the content to a directory on your computer 
+* Once the download is complete, unzip the archive and extract the content to a directory on your computer 
  
 
  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6cdb81cfaeb5246b7f594a68c5bb4d30.png)
 
- . Now you need to create a workspace to store your test scripts and test results.
+* Now you need to create a workspace to store your test scripts and test results.
  
  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0e3e49fb75a97699937475bb180fb811.png)
 
- . Click on the launch button and your installation is complete.
+* Click on the launch button and your installation is complete.
  
  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_71a65564cc4af4ba5541e2756fc21196.png)
-
 
 
 Here’s the summary of how the three testing tools rank up to each other:
