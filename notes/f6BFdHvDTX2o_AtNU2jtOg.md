@@ -28,6 +28,8 @@ New York City
 https://www.youtube.com/watch?v=ILbcWgP76vA
 夜間版 https://www.youtube.com/watch?v=3mZnWte4PUg
 http://www.citylab.com/navigator/2016/05/go-back-in-time-through-new-york-city-with-the-oldnyc-app/482286/
+街道視角 16xx-現代
+https://www.facebook.com/share/r/F6efC1hgmnSPUXCG/
 Urban Layers - Explore the structure of Manhattan’s urban fabric. http://io.morphocode.com/urban-layers/
 WHAT DID MANHATTAN LOOK LIKE IN 1609? 
 http://daily.jstor.org/what-did-manhattan-look-like-1609/
