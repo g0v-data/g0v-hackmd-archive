@@ -62,6 +62,10 @@ https://docs.google.com/presentation/d/1KKDka2cuJHT6N6IqTumfcjxBt0xhJIscwmv8R7Ad
 - 網址：http://tebook.ntl.edu.tw/default.aspx
 - 用關鍵字「災」查詢圖片的結果：http://tebook.ntl.edu.tw/taglist.aspx?uuid2=&actions=view&antiforgery=&keyword=%E7%81%BD
 
+辛亥文月臺都風水害寫真集
+- 1911 颱風
+- http://tebook.ntl.edu.tw/info.aspx?antiforgery=047c8a40-d581-4d14-ac7d-965b714cd58a&actions=view&uuid=14dc4797-e41e-4cf3-ac01-62ff883e1b81
+
 由國家圖書館建置的臺灣記憶影像平台
 - 由國家圖書館建置的臺灣記憶影像平台
 - 「災」關鍵字，相關影像網址：https://tm.ncl.edu.tw/search_result?synonym_flag=1&otherq[]=&otherq[]=&otherq[]=&column[]=title&column[]=title&column[]=title&operator[]=+&operator[]=+&operator[]=+&query_words=%E7%81%BD&lang=chn&page=1&page_limit=10
