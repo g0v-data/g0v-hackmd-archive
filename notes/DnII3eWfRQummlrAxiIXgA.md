@@ -19,12 +19,18 @@
 
   <p>Automated testing is a testing technique that involves the use of software tools in executing test cases. It often involves test cases written in a scripting language such as Python, JavaScript, or Lua. The scripts are written to test the different functionalities of a piece of software.
     Automated testing can be seen as a process of automating manual test cases, that is, using software tools to execute test cases that would have been executed manually. The goal of automated testing is to reduce the amount of manual work involved in test execution, leading to higher test coverage. 
-   Most organizations are after products that can be developed and ready for use under the shortest period of time,  Automated testing is very important because it ensures the faster delivery of a software product. Some benefits of automated testing are: 
+   Most organizations are after products that can be developed and ready for use under the shortest period of time,  Automated testing is very important because it ensures the fast delivery of an high quality  software product. Below are some benefits of Automated testing:
     
-* Elimination of human error
-* Wider test coverage
-* Greater accuracy
-* Early detection of bugs among others.p
+* Elimination of human error: Humans are naturally  predisposed to making mistakes and while this fact is known all over the world, the field of testing requires a level of perfection that might be humanly impossible, due to the inability of humans to carry out tasks perfectly at all times, Automated testing is very important because it reduces the likelihood and impact of human errors. 
+
+> **Please Note**: Humans are still very involved in the process of Automated testing. For example, an human tester is the one responsible for writing and maintaining Automated  test scripts, but since Automated testing allows testers to run scripts repetitively without the need to re-write it, the problem of human error would be less likely to occur. 
+
+
+* Speed and Efficiency: Automated testing is much faster than manual testing because an automated test script runs at machine speed which in turn leads to faster feedback. Automated testing also supports parallel testing, this feature allows multiple test scripts to run simultaneously across different environments which also speeds up feedback time. 
+
+* Increased Coverage: It can be very tiring on the part of the tester to execute large amounts of test cases, and in cases like this certain test cases are overlooked because they are considered unimportant, in certain cases, this can lead to a major issue but through the use of Automated testing, a large number of test cases can be executed under a short period of time. 
+
+Automated testing basically speeds up the whole testing process making it possible for developers and testers to deliver high quality products under a short period of time. 
 
 > **Please note**: Automation testing is not a replacement for manual testing so it doesn't eliminate the need for human testers, rather it creates an avenue for human testers to carry out tests with testing tools. 
 
@@ -32,9 +38,9 @@
 
 
 ## Use-Cases of Automated Testing
-1. Cross-browser testing
-2. Load and performance testing
-3. Automating unit, integration, and end-to-end tests
+* Cross-browser testing
+* Load and performance testing
+* Automating unit, integration, and end-to-end tests
 
 
 ### Comparing Cypress, Selenium, and Playwright as Automated Testing Tools
