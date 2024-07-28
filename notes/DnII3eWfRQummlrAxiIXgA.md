@@ -18,7 +18,8 @@
 # What is Automated Testing and Why is it Important?
 
   <p>Automated testing is a testing technique that involves the use of software tools in executing test cases. It often involves test cases written in a scripting language such as Python, JavaScript, or Lua. The scripts are written to test the different functionalities of a piece of software.
-    Automated testing can be seen as a process of automating manual test cases, that is, using software tools to execute test cases that would have been executed manually. The goal of automated testing is to reduce the amount of manual work involved in test execution, leading to higher test coverage. Some benefits of automated testing are: 
+    Automated testing can be seen as a process of automating manual test cases, that is, using software tools to execute test cases that would have been executed manually. The goal of automated testing is to reduce the amount of manual work involved in test execution, leading to higher test coverage. 
+   Most organizations are after products that can be developed and ready for use under the shortest period of time,  Automated testing is very important because it ensures the faster delivery of a software product. Some benefits of automated testing are: 
     
 * Elimination of human error
 * Wider test coverage
