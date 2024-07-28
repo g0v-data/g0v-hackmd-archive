@@ -35,7 +35,7 @@ Use the above commands to install Tailwind CSS as a development dependency and c
 
 In React, integrate Tailwind CSS by making a `tailwind.css` file inside the `src` directory. Add the subsequent content to that CSS file:
 
-```bash
+```css
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -97,6 +97,10 @@ const PullToRefresh = ({ children }) => {
 export default PullToRefresh;
 ```
 The `PullToRefresh` React component is designed to show a static message "Pull down to refresh" in the upper part of what is displayed while styling it with Tailwind CSS. When it comes to `child` components that might be necessary after the message ("Pull down to refresh"), there is nothing here. Currently, no code helps determine when someone pulls down on this message thus making it possible for such an action trigger reload.
+
+Output:
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_da22ed63a91ba2defa4ce5e04badb4e6.gif)
 
 The container now has a dark gray background while the pull-to-refresh message appears on a white background with black text, hence making it more attractive aesthetically.
 
@@ -188,6 +192,8 @@ const PullToRefresh = ({ children, onRefresh }) => {
 export default PullToRefresh;
 ```
 Manage `handleTouchStart`, `handleTouchMove`, and `handleTouchEnd` functions touch events in this code. Checking whether the pull-down distance is enough to trigger a refresh is done in the `handleTouchEnd` function. If it is so, it turns the `isRefreshing` state into `true` causing the `onRefresh` function to be triggered.
+
+
 
 ### Triggering Data Refresh
 The `onRefresh` functionality ought to be handed down to a `prop` in `PullToRefresh` element. To itself takes care of getting fresh information and subsequently updating the major view container’s status.
