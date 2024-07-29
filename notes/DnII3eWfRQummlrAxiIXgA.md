@@ -50,7 +50,7 @@ Automated testing basically speeds up the whole testing process making it possib
 
 # Choosing the best Automated testing tool based on browser support.
 
-Browser support refers to the ability of a certain website or web app to function consistently on different web browsers (Chrome, Mozilla Firefox, Safari, and Microsoft Edge). If your favourite automated testing tool can work across major browsers, you can have peace of mind that your app works no matter the browser choice of your users. The essence of considering browser support is that cross-browser testing is one of the major tests carried out by testers and devs. Now, take a look at all three automated testing tools in terms of browser support.
+Browser support refers to the ability of a certain website or web app to function consistently on different web browsers (Chrome, Mozilla Firefox, Safari, and Microsoft Edge). If your favourite automated testing tool can work across major browsers, you can have peace of mind that your app works no matter the browser choice of your users. The essence of considering browser support is that cross-browser testing is one of the major tests carried out by testers and devs. Now, take a look at all three automated testing tools in terms of browser support:
 
 <p><strong>Cypress:</strong> Cypress supports major browsers like Chromium and Firefox. <a href="https://docs.cypress.io/guides/guides/launching-browsers#WebKit-Experimental">It has experimental support for Safari</a>. This means some features will not work properly. Aside from this, it has good support on Chrome, Firefox, and Edge. It can run tests across multiple browser versions directly from the Cypress test runner, which makes it convenient to run tests on older browser versions, maintained versions, and unreleased versions.</p>
    
@@ -99,7 +99,8 @@ module.exports = defineConfig({
 ```
 So once a user invokes a test using `npx playwright test`, playwright executes the available tests automatically in all the browsers defined. After the tests are completed, it opens up a summary in the local browser to show the tests that passed and those that failed in all the respective browsers. The image below shows the browsers Playwright downloads during it’s installation process on Linux. 
 ![Supported browser](https://imgur.com/V7eOQyj.png)
-In terms of browser support, of the three, Selenium is the most suitable automated testing tool because it has comprehensive browser coverage. Though there are certain factors to consider when it comes to choosing an automated testing tool based on browser support, Cypress and Playwright are good options for Chromium-based browsers but Selenium is the best option.
+
+There are certain factors to consider when choosing the best Automated tool to use based on browser support, though any of the three can be used based on the preference of the user and the task at hand, it is important to note that of the three, Selenium is the most suitable automated testing tool because it has such an extensive browser coverage,which includes older and less common versions of browsers.  This is a feature that distinguishes Selenium and makes it a better option based on browser support, In a situation where an application needs to be tested using a browser like Internet Explorer, Selenium is the only Automated testing tool among the three (Cypress, Selenium and Playwright) that supports Internet Explorer. This is not to say that Cypress and Selenium aren't also good options, In fact, Playwright also has an extensive browser support like Selenium but not as much as Selenium. Cypress is more focused on Chromium-based browers and though it has limited browser support,it is the most suitable option for testing modern web applications in Chromium-based browsers. 
 |                 | Cypress | Selenium | Playwright | Winner                 |
 | --------------- | ------- | -------- | ---------- | ---------------------- |
 | Browser support | 4/5     | 5/5      | 5/5        | Selenium or Playwright |
@@ -148,6 +149,8 @@ test.describe('Search for cat memes on Google"', () => {
   });
 });
 ```
+
+When it comes to ease of Scripting, Selenium would have been the best pick because of it's support for multiple programming languages which allows users to write scripts in the language of their choice, but due to the complexity of s
 Here’s the summary of how the three testing tools rank up to each other:
 |                       | Cypress | Selenium | Playwright | Winner                 |
 | --------------------- | ------- | -------- | ---------- | ---------------------- |
