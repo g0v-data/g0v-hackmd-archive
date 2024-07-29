@@ -43,6 +43,8 @@ https://goo.gl/maps/igmsKHUWLpRnA52t7
 - [人造石板] 待確認-熊本城臺灣形狀石板鋪面
     - 待確認近年修繕後石板是否還在、經緯度
     - https://www.facebook.com/qdymag/posts/pfbid0gDSS12qdgjgXcBCTN9WL2Hs4TQwFMdLJ3yi4R5G3oQmA727PTRWECkgcWxrx6Hx1l
+- [人造] 蓋板
+    - https://www.facebook.com/share/c4rzgpGfdZgbLp2z/
 
 評估地點
 - 請見線上地圖中的「評估中的地點與容易生成台灣輪廓的地景地區」圖層
