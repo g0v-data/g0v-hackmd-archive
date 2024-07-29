@@ -150,14 +150,16 @@ test.describe('Search for cat memes on Google"', () => {
 });
 ```
 
-When it comes to ease of Scripting, Selenium would have been the best pick because of it's support for multiple programming languages which allows users to write scripts in the language of their choice, but due to the complexity of s
+When it comes to ease of Scripting, Selenium would have been the best pick because of it's support for multiple programming languages which allows users to write scripts in the language of their choice, but due to the complexity of Selenium's  structure and it's rigid API, it might take a while for a beginner to totally understand Selenium as an Automated testing tool in contrast to tools like playwright and cypress which are beginner friendly and have simpler APIs. Playwright is the most suitable option based on ease of Scripting because it is relatively easy to setup, it is beginner friendly, it supports some programming languages like JavaScript, Python, C# among others, it also has advanced built-in features like Network interception and Mobile emulation. Cypress, on the other hand is also a good option in terms of ease of scripting because it also has some of the features of Playwright, features like: Straightforward and user-friendly API, easy setup and built-in features, Cypress has only one Scripting language which is JavaScript and while this is an advantage to developers who have knowledge in JavaScript, it might be an issue to anyone who isn't familiar with JavaScript, Moreover, Cypress's main focus is chromium based modern web applications. Playwright still remains the best option because it has a broad browser support, it supports multiple programming languages, it has a simple API, and it is beginner friendly.
+
 Here’s the summary of how the three testing tools rank up to each other:
 |                       | Cypress | Selenium | Playwright | Winner                 |
 | --------------------- | ------- | -------- | ---------- | ---------------------- |
 | Browser support       | 4/5     | 5/5      | 5/5        | Selenium or Playwright |
-| Ease of scripting     | 2/5     | 5/5      | 4/5        | Selenium               |
+| Ease of scripting     | 2/5     | 5/5      | 5/5        | Selenium               |
 
 ### Choosing the best automated testing tool based on Ease of Setup
+
 Similar to how a user will leave a website if it takes too long to load, a potential QA tester may abandon a tool if it is too difficult to set up. Fortunately, none of the testing tools in this guide are difficult to set up. However, you should have in mind which of these tools is the easiest to set up.
 
 Cypress: Cypress comes as an npm package and a [standalone downloadable application](https://docs.cypress.io/guides/getting-started/installing-cypress#Direct-download) that you can immediately install and write tests with. After installation, you only add a new project, choose a browser of choice, and start writing test cases in JavaScript.
@@ -343,6 +345,8 @@ Cypress: Cypress is generally known for its faster-than-average execution time. 
 Selenium: Selenium's architecture, which relies on a driver for different browsers adds a lag to its test execution speed and performance. This dependency on drivers does not exist for both Cypress and Playwright. Selenium works by creating a separate driver instance for each browser session. So if a user tries to execute tests in parallel, Selenium will create as many web driver instances as browsers involved. This architecture puts Selenium behind Cypress and Playwright despite its versatility.
 
 Playwright: Like Cypress, Playwright offers fast execution by leveraging its unified API feature. Playwright by default runs tests on Chromium, Firefox, and Webkit. It can do this because it installs these browsers during its installation process. Playwright does not fail when tests are flaky because it ensures that elements are visible before proceeding with tests. Playwright’s major contender when it comes to Performance and speed is Cypress because it has a similar simplified architecture. Both Playwright and Cypress have Node.js as a dependency, unlike Selenium that has a broader community of supported frameworks.
+
+Based on Speeed and performance, Selenium is far behind Playwright and Cypress due to it's complicated Architecture and it's dependence on webdrivers to interact with browsers, this two factors greatly impacts Selenium's speed and performance. Of the three tools, Playwright is the best Automated testing tool based on speed and performance due to its Modern Architecture, ability to perform parallel testing which allows it to run multiple test cases simultaneously across different browsers. Playwright also records high execution speed in scenarios where complex test cases are being executed, this puts it above Cypress because even though Cypress also records high execution speed, this only applies to testing that involves Chromium based browsers. 
 
 Here’s the summary of how the three testing tools rank up to each other:
 
