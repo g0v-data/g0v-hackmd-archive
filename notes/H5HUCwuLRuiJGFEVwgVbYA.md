@@ -58,7 +58,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 | 想做的事情           | 提案人稱呼 | 網址或附加內容                                                                                                  |
 | ------------------ | ---------- | --------------------------------------------------------------------------------------------------------------- |
 | Example | Nobody      |範例|
-
+| g0v 夏日源力增能營 課程心得共筆 | Yi  | 撰寫零時小學校[數位公民資源盤點](https://docs.google.com/spreadsheets/d/1Pyf6B2JmPPyqkQiSh7wce1yaQAEMsUqiYQWp0Y1qXvU/edit?usp=sharing)文件
 
 
 ## 一些紀錄
