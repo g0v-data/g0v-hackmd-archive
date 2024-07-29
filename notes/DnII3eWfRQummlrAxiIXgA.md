@@ -10,15 +10,15 @@
 </head>
 <body>
      <h1>Cypress vs Selenium vs Playwright: The Best Automated-Testing Tool</h1>
-    <p>Automation testing is a software testing methodology where tests are executed automatically using tools or scripts. Automated testing differs from manual testing because manual testing requires the presence of an human tester to verify the overall performance of a system. Automated testing tools have two major components: a test runner and a tracking agent. The test runner runs the test from a command (or button click) while the tracking agent keeps track of passing and failing tests. These automated testing tools apply to different types of software testing types which include unit, integration, and end-to-end (e2e) testing.
+    <p>Automation testing is a software testing methodology where tests are executed automatically using tools or scripts. Automated testing differs from Manual testing because Manual testing requires the presence of an human tester to verify the overall performance of a system. Automated testing tools have two major components: a Test runner and a Tracking agent. The test runner runs the test from a command (or button click) while the tracking agent keeps track of passing and failing tests. These Automated testing tools apply to different types of software testing types which include unit, integration, and end-to-end (e2e) testing.
     <br><br>
-    When it comes to frontend testing of web applications, one can choose to test the code or test an end user's behavior while using the app. One can gain more value testing a user's behavior because it doesn't focus on implementation details. This is a form of e2e testing, and there are several tools for carrying out such testing. These include Cypress, Selenium, and Playwright. This article compares these three automated testing tools using metrics such as browser support, language support, ease of setup, and performance. This comparison aims to help you choose the best tool for your use-case. </p>
+    When it comes to frontend testing of web applications, one can choose to test the code or test an end user's behavior while using the app. One can gain more value testing a user's behavior because it doesn't focus on implementation details. This is a form of e2e testing, and there are several tools for carrying out such testing. These include Cypress, Selenium, and Playwright. This article compares these three Automated testing tools using metrics such as Browser Support, Language Support, Ease of setup, and Performance. This comparison aims to help you choose the best tool for your use-case. </p>
 
 
 # What is Automated Testing and Why is it Important?
 
   <p>Automated testing is a testing technique that involves the use of software tools in executing test cases. It often involves test cases written in a scripting language such as Python, JavaScript, or Lua. The scripts are written to test the different functionalities of a piece of software.
-    Automated testing can be seen as a process of automating manual test cases, that is, using software tools to execute test cases that would have been executed manually. The goal of automated testing is to reduce the amount of manual work involved in test execution, leading to higher test coverage. 
+    Automated testing can be seen as a process of automating Manual test cases, that is, using software tools to execute test cases that would have been executed manually. The goal of Automated testing is to reduce the amount of Manual work involved in test execution, leading to higher test coverage. 
    Most organizations are after products that can be developed and ready for use under the shortest period of time,  Automated testing is very important because it ensures the fast delivery of an high quality  software product. Below are some benefits of Automated testing:
     
 * Elimination of human error: Humans are naturally  predisposed to making mistakes and while this fact is known all over the world, the field of testing requires a level of perfection that might be humanly impossible, due to the inability of humans to carry out tasks perfectly at all times, Automated testing is very important because it reduces the likelihood and impact of human errors. 
@@ -34,7 +34,7 @@ Automated testing basically speeds up the whole testing process making it possib
 
 > **Please note**: Automation testing is not a replacement for manual testing so it doesn't eliminate the need for human testers, rather it creates an avenue for human testers to carry out tests with testing tools. 
 
-<br><br> Automated testing isn’t another testing paradigm similar to unit and functional testing. It is more or less a way to automate unit, integration, and end-to-end tests. There are diverse automated testing tools available for different types of testing needs, but this article focuses on end-to-end testing using Selenium, Cypress, and Playwright.</p>
+<br><br> Automated testing isn’t another testing paradigm similar to unit and functional testing. It is more or less a way to Automate unit, Integration, and end-to-end tests. There are diverse automated testing tools available for different types of testing needs, but this article focuses on end-to-end testing using Selenium, Cypress, and Playwright.</p>
 
 
 ## Use-Cases of Automated Testing
@@ -48,7 +48,7 @@ Automated testing basically speeds up the whole testing process making it possib
  <p>Now, let's compare Cypress, Selenium, and Playwright based on browser support, ease of setup, ease of scripting, performance, and speed.</p>
 
 
-# Choosing the best automated testing tool based on browser support.
+# Choosing the best Automated testing tool based on browser support.
 
 Browser support refers to the ability of a certain website or web app to function consistently on different web browsers (Chrome, Mozilla Firefox, Safari, and Microsoft Edge). If your favourite automated testing tool can work across major browsers, you can have peace of mind that your app works no matter the browser choice of your users. The essence of considering browser support is that cross-browser testing is one of the major tests carried out by testers and devs. Now, take a look at all three automated testing tools in terms of browser support.
 
