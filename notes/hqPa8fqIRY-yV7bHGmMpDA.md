@@ -100,7 +100,7 @@ The `PullToRefresh` React component is designed to show a static message "Pull d
 
 Output:
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_da22ed63a91ba2defa4ce5e04badb4e6.gif)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b0b1ca18f849c604f36d2fba06c9c9d2.gif)
 
 The container now has a dark gray background while the pull-to-refresh message appears on a white background with black text, hence making it more attractive aesthetically.
 
@@ -194,7 +194,6 @@ export default PullToRefresh;
 Manage `handleTouchStart`, `handleTouchMove`, and `handleTouchEnd` functions touch events in this code. Checking whether the pull-down distance is enough to trigger a refresh is done in the `handleTouchEnd` function. If it is so, it turns the `isRefreshing` state into `true` causing the `onRefresh` function to be triggered.
 
 
-
 ### Triggering Data Refresh
 The `onRefresh` functionality ought to be handed down to a `prop` in `PullToRefresh` element. To itself takes care of getting fresh information and subsequently updating the major view container’s status.
 
@@ -226,6 +225,13 @@ export default App;
 The `App` component keeps the data state in check and sends `handleRefresh` function to `PullToRefresh` component in this example. When `handleRefresh` runs, it gets new data and then updates the state causing automatic re-rendering of the list with fresh content.
 
 This finished pull-to-refresh integration and component implementation in the main application, making sure data fetching and state management efforts succeed.
+
+Output:
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_da22ed63a91ba2defa4ce5e04badb4e6.gif)
+
+We can now see the difference between the output above and the one before styling with Tailwind CSS with the spinner much better and there is a 'waiting' message assuring the user that the page is being refreshed.
+
 
 ## Integrating the Pull-to-Refresh Component
 Inserting the pull-to-refresh feature into the core application mandates its integration into  the app’s structure, handling data retrieval,  and then presenting within the new component. This will make sure that within the general application, that feature does not break down.
@@ -366,7 +372,7 @@ Incorporating these adjustments allows for a flawless; integrated pull-to-refres
 
 Output:
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b0b1ca18f849c604f36d2fba06c9c9d2.gif)
+
 
 Here is our pull-to-refresh app. Of course, our application is still not how we want it to be due to the large spinner icon which we will improve upon using Tailwind in the next section.
 
@@ -518,7 +524,7 @@ Output:
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_da22ed63a91ba2defa4ce5e04badb4e6.gif)
 
 
-We can now see the difference between the output above and the one before styling with Tailwind CSS with the spinner much better and there is a 'waiting' message assuring the user that the page is being refreshed.
+
 
 ## Conclusion
 The Pull-to-refresh feature is critical to a better experience in web applications while keeping user interaction alive. Developers can easily achieve this by following the steps provided to use them uniformly across various platforms. This clarifies that elegant design, consistent testing practices, and high performance are vital considerations for building an application today.
