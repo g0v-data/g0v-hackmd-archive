@@ -230,135 +230,28 @@ Output:
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_da22ed63a91ba2defa4ce5e04badb4e6.gif)
 
-We can now see the difference between the output above and the one before styling with Tailwind CSS with the spinner much better and there is a 'waiting' message assuring the user that the page is being refreshed.
+We can now see the difference between the output above and the one before styling with Tailwind CSS with the spinner much better and there is a 'waiting' message assuring the user that the page is being refreshed. But there is still more work for us to do on the application for example,  we will insert the pull-to-refresh feature into the core application and we still need to include simple data on the application (a numbered list from 1-0) and then when refreshed it displays the list up to 49. All of these will be done in the next sections.
 
 
 ## Integrating the Pull-to-Refresh Component
 Inserting the pull-to-refresh feature into the core application mandates its integration into  the app’s structure, handling data retrieval,  and then presenting within the new component. This will make sure that within the general application, that feature does not break down.
 
 ### Adding the Component to the Main Application
-First things first, we should integrate the `PullToRefresh` component into our main application. So, in your `src` directory, there is already a main component, usually called `App.js` or `App.jsx`. This component is going to be altered to accommodate the `PullToRefresh` component.
-
-```javascript
-import React, { useState, useEffect } from "react";
-import PullToRefresh from "./PullToRefresh"; // Adjust the import path as necessary
-
-const App = () => {
-  const [data, setData] = useState([]);
-
-  useEffect(() => {
-    // Fetch initial data when the component mounts
-    fetchData();
-  }, []);
-
-  const fetchData = async () => {
-    // Simulate data fetching
-    const response = await fetch("/api/data"); // Replace with your actual data fetching logic
-    const result = await response.json();
-    setData(result);
-  };
-
-  const handleRefresh = async () => {
-    await fetchData();
-  };
-
-  return (
-    <PullToRefresh onRefresh={handleRefresh}>
-      <div className="container mx-auto p-4">
-        <ul>
-          {data.map((item) => (
-            <li key={item.id} className="border-b py-2">
-              {item.text}
-            </li>
-          ))}
-        </ul>
-      </div>
-    </PullToRefresh>
-  );
-};
-
-export default App;
-```
-In the code snippet above, the `PullToRefresh` component encapsulates the content of the `App` component. Pass an `onRefresh` that links the `PullToRefresh` component with `handleRefresh` function responsible for getting new data in it.
-
-### Managing Data Fetching
-When the application starts, it is just necessary to get the first data set that would be presented. Usually, this is done by using an `App` React hook called `useEffect`.
+To begin incorporating the Pull-to-Refresh component, simply include it within your main application file as a starting point. The content you wish to refresh can be wrapped using this component after importing it into your project.
 
 For example:
-```javascript
-useEffect(() => {
-  fetchData();
-}, []);
-```
-This hook uses the `useEffect` to call the `fetchData` function and retrieve the initial data when the component mounts.
-
-`HandleRefresh` function is triggered by detecting the pull-to-refresh gesture, which in turn calls the `fetchData` function to fetch new data and update the state.
 
 ```javascript
-const handleRefresh = async () => {
-  await fetchData();
-};
-```
-This code snippet makes sure that new data is retrieved and the component updates itself with up-to-date information when the user pulls down to refresh.
-
-### Displaying Data in the Component
-To retrieve the information we are trying to display, we iterate through the `data` array and output each item as a `list` element. We apply Tailwind CSS to format the list items:
-
-```javascript
-<ul>
-  {data.map((item) => (
-    <li key={item.id} className="border-b py-2">
-      {item.text}
-    </li>
-  ))}
-</ul>;
-```
-For improved readability, each element in the `data` array is shown as a `li` element with the border as well as padding.
-
-To give a user a better experience, it is vital to show when information is being taken from or fetched. Having a separate variable to determine when the data is still being requested is a good idea and at the same time displays another variable (e.g., "loading"), at the same time serving a state of loading.
-
-For example:
-```javascript
-import React, { useState, useEffect } from "react";
+import React from "react";
 import PullToRefresh from "./PullToRefresh";
 
 const App = () => {
-  const [data, setData] = useState([]);
-  const [loading, setLoading] = useState(false);
-
-  useEffect(() => {
-    fetchData();
-  }, []);
-
-  const fetchData = async () => {
-    setLoading(true);
-    const response = await fetch("/api/data"); // Replace with your actual data fetching logic
-    const result = await response.json();
-    setData(result);
-    setLoading(false);
-  };
-
-  const handleRefresh = async () => {
-    await fetchData();
-  };
-
   return (
-    <PullToRefresh onRefresh={handleRefresh}>
-      <div className="container mx-auto p-4">
-        {loading ? (
-          <div className="flex justify-center items-center h-64">
-            <div className="loader">Loading...</div>{" "}
-            {/* Replace with your loading spinner */}
-          </div>
-        ) : (
-          <ul>
-            {data.map((item) => (
-              <li key={item.id} className="border-b py-2">
-                {item.text}
-              </li>
-            ))}
-          </ul>
-        )}
+    <PullToRefresh>
+      {/* Your main application content here */}
+      <div className="p-4">
+        <h1 className="text-xl font-bold">Pull to Refresh Demo</h1>
+        {/* Other content or components */}
       </div>
     </PullToRefresh>
   );
@@ -366,29 +259,22 @@ const App = () => {
 
 export default App;
 ```
-In this instance, a `loading` state variable is created. It is set to `true` in case of calling `fetchData` and to `false` when the data is received. The variable value decides upon how the display should proceed; if loading then show a spinner else show the list (of data).
 
-Incorporating these adjustments allows for a flawless; integrated pull-to-refresh element within the larger app, capable of handling data fetches and loading states, thereby giving users an intuitive experience when they want to update themselves.
+Using this setup allows for the implementation of pull-to-refresh on specific content in your main app.
 
-Output:
+## Managing Data Fetching
+At first, we show from 1 to 10. When the user pulls down and releases the list, it updates to show from 1 to 49. In this case, we need to deal with data fetching at both the initial loading stage and refresh actions.
 
+### Before Refresh (1-10)
+The component starts by defining state variables to store data and track whether it is being retrieved or updated. The initial data consists of numbers ranging between one and ten created using the `useState` hook. Touch event listeners (for example: `handleTouchStart`, `handleTouchMove`, and `handleTouchEnd` are responsible for detecting pull-down gesture. For instance, when a user pulls down more than 50 pixels from the top of their touchscreen display it will cause simulated data updating through `setTimeout` function that passes new information into state.
 
-
-Here is our pull-to-refresh app. Of course, our application is still not how we want it to be due to the large spinner icon which we will improve upon using Tailwind in the next section.
-
-## Enhancing User Experience
-Designing the pull-to-refresh feature smooth and easy to use will depend mainly on getting the user experience. This is possible through the addition of animations and transitions using Tailwind CSS as well as providing visible feedback while data is being updated.
-
-### Adding Animations and Transitions with Tailwind CSS
-
-By including smooth transitions when someone pulls to refresh their page an individual can enhance this movement in terms of look and feel. Utility classes offered by Tailwind CSS enable one to add animations and shifts quite easily.
-
-Initially, let’s alter the PullToRefresh fragment for the incorporation of transitions. Specifically, we would wish to introduce some classes meant for animating that pull-to-refresh message depending on whether a user is pulling or not.
+For example:
 
 ```javascript
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 
-const PullToRefresh = ({ children, onRefresh }) => {
+const PullToRefresh = () => {
+  const [data, setData] = useState([...Array(10).keys()].map(n => n + 1)); // Initial data: [1, 2, ..., 10]
   const [isPulling, setIsPulling] = useState(false);
   const [isRefreshing, setIsRefreshing] = useState(false);
   const [startY, setStartY] = useState(0);
@@ -400,23 +286,23 @@ const PullToRefresh = ({ children, onRefresh }) => {
   };
 
   const handleTouchMove = (e) => {
-    setCurrentY(e.touches[0].clientY);
+    if (isPulling) {
+      setCurrentY(e.touches[0].clientY);
+    }
   };
 
   const handleTouchEnd = () => {
-    if (isPulling && currentY - startY > 50) {
+    if (isPulling && currentY - startY > 50) { // If pulled down more than 50 pixels
       setIsRefreshing(true);
+      setTimeout(() => { // Simulate data fetching
+        setData([...Array(49).keys()].map(n => n + 1)); // Update data to: [1, 2, ..., 49]
+        setIsRefreshing(false);
+      }, 1000);
     }
     setIsPulling(false);
     setStartY(0);
     setCurrentY(0);
   };
-
-  useEffect(() => {
-    if (isRefreshing) {
-      onRefresh().then(() => setIsRefreshing(false));
-    }
-  }, [isRefreshing, onRefresh]);
 
   return (
     <div
@@ -425,105 +311,117 @@ const PullToRefresh = ({ children, onRefresh }) => {
       onTouchMove={handleTouchMove}
       onTouchEnd={handleTouchEnd}
     >
-      <div
-        className={`absolute inset-x-0 top-0 flex justify-center items-center h-16 bg-blue-500 text-white transition-transform duration-300 ${isPulling ? "translate-y-12" : "translate-y-0"}`}
-      >
-        <span className="text-sm">
-          {isPulling ? "Release to refresh" : "Pull down to refresh"}
-        </span>
-      </div>
-      <div className="pt-16">{children}</div>
-    </div>
-  );
-};
-
-export default PullToRefresh;
-```
-Tailwind CSS `transition-transform` and `duration-300` classes provide a nice transition to the pull-to-refresh message in the code above, where `translate-y-12` and `translate-y-0` classes dictate the vertical placing of the message according to the state of pulling.
-
-The pull-to-refresh action helps users understand that their request is being processed. Loading states can be shown with Tailwind CSS using a loading spinner or any other indicator.
-
-```javascript
-import React, { useState, useEffect } from "react";
-
-const PullToRefresh = ({ children, onRefresh }) => {
-  const [isPulling, setIsPulling] = useState(false);
-  const [isRefreshing, setIsRefreshing] = useState(false);
-  const [startY, setStartY] = useState(0);
-  const [currentY, setCurrentY] = useState(0);
-
-  const handleTouchStart = (e) => {
-    setStartY(e.touches[0].clientY);
-    setIsPulling(true);
-  };
-
-  const handleTouchMove = (e) => {
-    setCurrentY(e.touches[0].clientY);
-  };
-
-  const handleTouchEnd = () => {
-    if (isPulling && currentY - startY > 50) {
-      setIsRefreshing(true);
-    }
-    setIsPulling(false);
-    setStartY(0);
-    setCurrentY(0);
-  };
-
-  useEffect(() => {
-    if (isRefreshing) {
-      onRefresh().then(() => setIsRefreshing(false));
-    }
-  }, [isRefreshing, onRefresh]);
-
-  return (
-    <div
-      className="relative overflow-hidden bg-gray-100"
-      onTouchStart={handleTouchStart}
-      onTouchMove={handleTouchMove}
-      onTouchEnd={handleTouchEnd}
-    >
-      <div
-        className={`absolute inset-x-0 top-0 flex justify-center items-center h-16 bg-blue-500 text-white transition-transform duration-300 ${isPulling ? "translate-y-12" : "translate-y-0"}`}
-      >
+      <div className={`absolute inset-x-0 top-0 flex justify-center items-center h-16 bg-blue-500 text-white transition-transform duration-300 ${isPulling ? 'translate-y-12' : 'translate-y-0'}`}>
         <span className="text-sm">
           {isRefreshing ? (
             <svg className="animate-spin h-5 w-5 mr-3" viewBox="0 0 24 24">
-              <circle
-                className="opacity-25"
-                cx="12"
-                cy="12"
-                r="10"
-                stroke="currentColor"
-                strokeWidth="4"
-              ></circle>
-              <path
-                className="opacity-75"
-                fill="currentColor"
-                d="M4 12a8 8 0 018-8v8h8a8 8 0 01-8 8H4z"
-              ></path>
+              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+              <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8h8a8 8 0 01-8 8H4z"></path>
             </svg>
-          ) : isPulling ? (
-            "Release to refresh"
-          ) : (
-            "Pull down to refresh"
-          )}
+          ) : isPulling ? 'Release to refresh' : 'Pull down to refresh'}
         </span>
       </div>
-      <div className="pt-16">{children}</div>
+      <div className="pt-16">
+        <ul>
+          {data.map((item) => (
+            <li key={item} className="p-2 border-b border-gray-200">{item}</li>
+          ))}
+        </ul>
+      </div>
     </div>
   );
 };
 
 export default PullToRefresh;
 ```
-The spinner is a spinner `SVG` with an `animate-spin` class from Tailwind CSS. It is displayed when `isRefreshing` is `true`, indicating that the data is currently being refreshed.
 
-Output:
+### After Refresh
+The person pulling down and releasing performs the action that makes the component state to be updated, to show that refresh is taking place. The loading state is indicated by displaying a spinner icon. After a 1-second delay, the state is updated with numbers from 1 – 49 shown and this causes re-rendering of the component to reflect the new list.
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_da22ed63a91ba2defa4ce5e04badb4e6.gif)
+For example:
 
+```javascript
+import React, { useState } from "react";
 
+const PullToRefresh = () => {
+  const [data, setData] = useState([...Array(10).keys()].map(n => n + 1)); // Initial data: [1, 2, ..., 10]
+  const [isPulling, setIsPulling] = useState(false);
+  const [isRefreshing, setIsRefreshing] = useState(false);
+  const [startY, setStartY] = useState(0);
+  const [currentY, setCurrentY] = useState(0);
+
+  const handleTouchStart = (e) => {
+    setStartY(e.touches[0].clientY);
+    setIsPulling(true);
+  };
+
+  const handleTouchMove = (e) => {
+    if (isPulling) {
+      setCurrentY(e.touches[0].clientY);
+    }
+  };
+
+  const handleTouchEnd = () => {
+    if (isPulling && currentY - startY > 50) { // If pulled down more than 50 pixels
+      setIsRefreshing(true);
+      setTimeout(() => { // Simulate data fetching
+        setData([...Array(49).keys()].map(n => n + 1)); // Update data to: [1, 2, ..., 49]
+        setIsRefreshing(false);
+      }, 1000);
+    }
+    setIsPulling(false);
+    setStartY(0);
+    setCurrentY(0);
+  };
+
+  return (
+    <div
+      className="relative overflow-hidden bg-gray-100"
+      onTouchStart={handleTouchStart}
+      onTouchMove={handleTouchMove}
+      onTouchEnd={handleTouchEnd}
+    >
+      <div className={`absolute inset-x-0 top-0 flex justify-center items-center h-16 bg-blue-500 text-white transition-transform duration-300 ${isPulling ? 'translate-y-12' : 'translate-y-0'}`}>
+        <span className="text-sm">
+          {isRefreshing ? (
+            <svg className="animate-spin h-5 w-5 mr-3" viewBox="0 0 24 24">
+              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+              <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8h8a8 8 0 01-8 8H4z"></path>
+            </svg>
+          ) : isPulling ? 'Release to refresh' : 'Pull down to refresh'}
+        </span>
+      </div>
+      <div className="pt-16">
+        <ul>
+          {data.map((item) => (
+            <li key={item} className="p-2 border-b border-gray-200">{item}</li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  );
+};
+
+export default PullToRefresh;
+```
+
+### Displaying Data in the Component
+
+The data is organized into a list. Data is shown through a list called an unordered list of items `ul`. The different data are availed to us in the format of simple list items `li` with tailwinds CSS classes attached to them depending on their paddings and borders.
+
+For example:
+
+```javascript
+<div className="pt-16">
+  <ul>
+    {data.map((item) => (
+      <li key={item} className="p-2 border-b border-gray-200">{item}</li>
+    ))}
+  </ul>
+</div>
+```
+
+By this means, such data will change depending on the condition at hand; this way one can see how it was (digits 1-10) as well as how it is now(digits 1-49) after pressing the F5 key. Besides, using Tailwind CSS classes such as (`p-2`, `border-b`, and `border-gray-200`) for each list item, gives them uniform styling thus improving user experience.
 
 
 ## Conclusion
