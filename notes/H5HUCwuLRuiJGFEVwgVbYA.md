@@ -59,7 +59,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 | ------------------ | ---------- | --------------------------------------------------------------------------------------------------------------- |
 | Example | Nobody      |範例|
 | g0v 夏日源力增能營 課程心得共筆 | Yi  | 撰寫零時小學校[數位公民資源盤點](https://docs.google.com/spreadsheets/d/1Pyf6B2JmPPyqkQiSh7wce1yaQAEMsUqiYQWp0Y1qXvU/edit?usp=sharing)文件
-
+| [星河計畫](http://galacticproject.notion.site)的AI化解決方案，招人一起做 | ziaosen(強森)  | [共筆](https://galacticproject.notion.site/AI-acf9daf245f44484acee91566ad8d029?pvs=4)
 
 ## 一些紀錄
 

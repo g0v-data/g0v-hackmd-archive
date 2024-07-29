@@ -102,9 +102,9 @@ If you use `defer`, find the `script` tag in the HTML document and attach the `d
 ```
 A webpage is defined by the HTML code as being in English. The head section has `meta` tags for character encoding and `viewport` settings, allowing it to be displayed correctly across different devices. The title of this page is set to "Defer Example". Within the body, there is an `h1` header that says "Defer Loading Example". Lastly, a `script` tag is added at the end of the body with the `main.js` file loaded using `defer`. This means that the script would be downloaded in the background and only executed after HTML parsing has been completed so that it does not block initial page rendering.
 
-* **Step 3:** Deciding When to Use async and defer. Use `async` for scripts that are stand-alone and unrelated to any `DOM` elements. The above is usually the case when it comes to third-party scripts like analytics and advertising. On the other hand, `Defer` should be used for scripts that require the complete parsing of HTML, e.g., those that manipulate `DOM` or depend upon other scripts.
+* **Step 3:** Deciding when to use `async` and `defer`. Use `async` for scripts that are stand-alone and unrelated to any `DOM` elements. The above is usually the case when it comes to third-party scripts like analytics and advertising. On the other hand, `Defer` should be used for scripts that require the complete parsing of HTML, e.g., those that manipulate `DOM` or depend upon other scripts.
 
-* **Step 4:** Combining `async` and `defer` for Optimal Performance: Meanwhile scripts that rely on the total `DOM` or need to be run in a specific order should be deferred. `Async` must be used for third-party scripts not relying on other scripts or `DOM` elements. For example:
+* **Step 4:** Combining `async` and `defer` for optimal performance. Meanwhile scripts that rely on the total `DOM` or need to be run in a specific order should be deferred. `Async` must be used for third-party scripts not relying on other scripts or `DOM` elements. For example:
 ```htmlembedded
 <!DOCTYPE html>
 <html lang="en">
