@@ -5,10 +5,13 @@ tags: vtaiwan
 
 ## 基本資訊：
 - 日期：8/14(三) 19:30-21:00 
-- 地點：NPO HUB 4F 社群廚房
+- 地點：[NPO HUB](https://g.co/kgs/ZYBr5BL) 4樓社群廚房
     - 已經跟 billion 確認借用，正在辦理借用手續
+- [KKTIX 活動](https://vtaiwan.kktix.cc/events/vtaiwaninlondon)
 
 ## 宣傳
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_60cdebe4dc6b8e9b0cde31b11f3d4c74.png)
+
 - vTaiwan 粉專與 IG
 - 個人臉書分享活動
 - KKTIX 頁面

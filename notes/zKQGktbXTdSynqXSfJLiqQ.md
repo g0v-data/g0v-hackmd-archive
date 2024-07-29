@@ -22,4 +22,5 @@ tags: vtaiwan
 
 ## 0814 分享會
 - [TICTeC 會後分享會討論共筆](/HPEzI1kcTLGLw14HhOxbmw)
+- [0814 vTaiwan在倫敦實體活動共筆](/KP9VAAU1R9y1F4RobEjPeA)
 - 8/14 舉辦 TICTeC 會後分享會，目前正在處理場地借用中。
