@@ -5,6 +5,7 @@ tags: rand0mth0n, hackathon
 # g0v Rand0mTh6n 第陸次放輕松
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f3e2273b9b7df88b8f76f1a324847d1b.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_64bba3968e5031f4cccf22fe036a55a6.png)
 
 
 
@@ -80,13 +81,19 @@ https://docs.google.com/spreadsheets/d/1Pyf6B2JmPPyqkQiSh7wce1yaQAEMsUqiYQWp0Y1q
 - Awesome g0v Project 的資料表是使用靜態 CSV 檔，必須人工一筆一筆從[大松提案資料](https://docs.google.com/spreadsheets/d/1C9-g1pvkfqBJbfkjPB0gvfBbBxVlWYJj6tTVwaI5_x8/edit?gid=0#gid=0)肉眼判斷是否有曾經出現過的提案做整併後 copy 到 Awesome g0v project 的 [CSV](https://github.com/chunyenHuang/awesome-g0v-projects/blob/master/data/projects.csv) 中
 - 正在思考怎麼把大松提案資料表中的資料轉成 DB Data，再使用 SQL 查詢簡化人工判斷的部分
 - 目前處理的方式：
-    - 先 copy/download 大松提案列表成 CSV 格式
-    - 建立 sqlite 或其他支援 CSV 匯入 database 的
-- 還未完成 ＱＱ
+    - 先 copy 大松提案列表到自己的 google drive
+    - 在大松提案列表新增 index 欄位（因為 awesome g0v project 是用 提案在 google sheet 中的列數去做關聯），透過 index 去關聯有哪些提案是有重複出現或類似的
+    - 建立 sqlite 或其他支援 CSV 匯入 database 的 DB
+    - 把建完 index 的 google sheet 下載成 CSV 並且匯入到 Database
+- 查詢 SQL 還未完成 QQ
 
 ### g0v hackmd team backup
 https://github.com/g0v-data/g0v-hackmd-archive/tree/main/teams
 team hackmd 自動 backup 完成!
 
 ### g0v #design
-- 成功在島島阿學的 GitHub 上新增用於存放設計檔案與研究資料的檔案夾![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c9a23e400f9ee205e1d274cf32033abc.png)
+- 成功在島島阿學的 GitHub 開了一個「新增用於存放設計檔案與研究資料的檔案夾」的 pull request
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c9a23e400f9ee205e1d274cf32033abc.png)
+
+### g0v archive RSS to Telegram
+- <https://github.com/yellowsoar/g0v_npo_hub_open_sesame> [name=yellowsoar]

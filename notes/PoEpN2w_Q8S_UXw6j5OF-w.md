@@ -28,6 +28,6 @@ tags: summit2024
     - [x] 整理頁面
     - [x] 想想販售頁面要放什麼資訊？
         - 要的資訊都要先填在 OCF 表單裡 [name=chewei]
-    - [x] 新增 [銷售頁面資訊](https://g0v.hackmd.io/@WbB98FoNTsivbcUIrjQILQ/S1MQdBLt0/%2FPbPDc5O0TQ6HrkQxeE2feQ) 頁面
+    - [x] 參考 g0v 拖鞋帽銷售頁面，新增 [銷售頁面資訊](https://g0v.hackmd.io/@WbB98FoNTsivbcUIrjQILQ/S1MQdBLt0/%2FPbPDc5O0TQ6HrkQxeE2feQ) 頁面
     - [x] 新增 [進度追蹤 ＆ 待辦事項](https://g0v.hackmd.io/@WbB98FoNTsivbcUIrjQILQ/S1MQdBLt0/%2FPoEpN2w_Q8S_UXw6j5OF-w) 頁面
     - [x] 新增 [Figma 設計稿](https://g0v.hackmd.io/@WbB98FoNTsivbcUIrjQILQ/S1MQdBLt0/https%3A%2F%2Fwww.figma.com%2Fdesign%2FQdm3dPAFUCywJGUHkW9rLq%2FSummit-%25E7%25B4%2580%25E5%25BF%25B5%25E5%2593%2581%25E8%25B2%25A9%25E5%2594%25AE%25E9%25A0%2581%25E9%259D%25A2%3Fnode-id%3D0-1%26t%3DICYegyQlTxRyQk7z-1) 頁面
