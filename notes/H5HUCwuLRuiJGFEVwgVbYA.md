@@ -74,3 +74,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 ### 數位公民線上課 共筆
 https://docs.google.com/spreadsheets/d/1Pyf6B2JmPPyqkQiSh7wce1yaQAEMsUqiYQWp0Y1qXvU/edit?usp=sharing
 繼續寫共筆～～～～～
+
+### awesome.g0v.tw 資料更新
+- 因應 62 屆大松剛結束，需要羹

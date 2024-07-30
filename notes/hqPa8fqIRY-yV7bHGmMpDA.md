@@ -5,7 +5,7 @@ Mobile and web applications utilize the Pull-to-Refresh feature. When it comes t
 By mixing [React](https://react.dev/) with [Tailwind CSS](https://tailwindcss.com/), a pull-to-refresh element of high interactivity and attractiveness could be created to improve user experience while ensuring that users are focused on the app.
 
 ## Project Setup
-To have a React app, we need to begin by following a few steps that will enable us to have an environment that supports clean coding practices and is effective too. In this case, the initial stage would be employing `create-react-app` which is a product developed by [Facebook](https://www.facebook.com/) for this process. The default settings and essential build configurations that come with this tool make sure that configuring your project becomes easier while saving you much more time and effort in such endeavors.
+To have a React app, we need to begin by following a few steps that will enable us to have an environment that supports clean coding practices and is effective too. In this case, the initial stage would be employing `create-react-app` which is a product developed by [Facebook](https://www.facebook.com/) for this process. The default settings and essential build configurations used with this tool ensure that configuring your project becomes easier while saving you much more time and effort in such endeavors.
 
 First, open the terminal and run the command: 
 
@@ -21,16 +21,16 @@ Once you've created a project, use the terminal to navigate into it by running:
 cd pull-to-refresh-app
 ``` 
 
-In this directory there is a `src` folder where one can put your source code files, assets can be placed in a folder named `public` and other configuration files are also located here. What we just did was set the project up for development purposes.
+In this directory there is a `src` folder where one can put your source code files, assets are placed in a folder named `public` and other configuration files are also located here. What we just did was set the project up for development purposes.
 
 ###  Tailwind Installation and Integration
-Our next step is to style the application for Tailwind CSS to be installed. From [npm](https://www.npmjs.com/), one can add Tailwind CSS to a React project on which the Node package manager is a prerequisite. This will involve executing the commands below on the terminal to install all necessary dependencies within Tailwind CSS alongside Tailwind itself.
+Our next step is to style the application but we must first install Tailwind CSS. From [npm](https://www.npmjs.com/), one can add Tailwind CSS to a React project and the Node package manager is a prerequisite. This will involve executing the commands below on the terminal to install all necessary dependencies within Tailwind CSS alongside Tailwind itself.
 
 ```bash
 npm install -D tailwindcss
 npx tailwindcss init
 ```
-Use the above commands to install Tailwind CSS as a development dependency and create a `tailwind.config.js file`. In case of necessity, you can set Tailwind’s default settings in this configuration file.
+Use the above commands to install Tailwind CSS as a development dependency and create a `tailwind.config.js file`. In this case, you can set Tailwind’s default settings in this configuration file.
 
 In React, integrate Tailwind CSS by making a `tailwind.css` file inside the `src` directory. Add the subsequent content to that CSS file:
 
@@ -39,7 +39,7 @@ In React, integrate Tailwind CSS by making a `tailwind.css` file inside the `src
 @tailwind components;
 @tailwind utilities;
 ```
-Then, you need to open the `src/index.css` file and use `@import './tailwind.css'`; to add the reference to it. This setup guarantees to include various Tailwind styles in your project.
+Then, you need to open the `src/index.css` file and use `@import './tailwind.css'`; to add the reference. This setup guarantees various Tailwind styles in your project.
 
 All you have to do to check that everything is installed correctly is running from the terminal:
 

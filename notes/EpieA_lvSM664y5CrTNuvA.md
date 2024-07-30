@@ -10,6 +10,7 @@ Summit 紀念品消化計畫
 
 銷售頁面
 ---
+- [頁面資訊](/PbPDc5O0TQ6HrkQxeE2feQ)
 - [Figma 設計稿（沒東西，先建起來放著）](https://www.figma.com/design/Qdm3dPAFUCywJGUHkW9rLq/Summit-%E7%B4%80%E5%BF%B5%E5%93%81%E8%B2%A9%E5%94%AE%E9%A0%81%E9%9D%A2?node-id=0-1&t=ICYegyQlTxRyQk7z-1)
 
 討論
