@@ -13,11 +13,11 @@ Failure to correctly monitor these scripts, on the other hand, gives room for se
 
 ## Strategy 1: Audit and Assessment 
 
-The first thing to do when it comes to managing third-party scripts properly is to carry out a thorough [audit](https://en.wikipedia.org/wiki/Website_audit) and assessment, by which I mean, find all scripts currently operating on your website and check whether you need them or not.
+The first thing to do when it comes to managing third-party scripts properly is to carry out a thorough [audit and assessment](https://en.wikipedia.org/wiki/Website_audit), by which I mean, find all scripts currently operating on your website and check whether you need them or not.
 
 For myriads of examples, an examination might illustrate how an organization can have several analytics scripts at different suppliers doing similar things, which makes its performance degrade miserably. According to the same research, this could help simplify data collection methods through which companies gather customer information with a single analytical tool. Reducing load time per page and making the whole site maintenance easier are other reasons such transformations are embraced.
 
-Moreover, the audit may unearth additional inefficacies within the program design rather than just its components like those scripts that have outlived their utility Removing them will aid in improving both safety for users visiting your web space as well as increased speed of operations on various devices The security implications for each one should also be examined so that there are no vulnerability issues This in-depth scrutiny makes sure only necessary, effective and safe scripts are used to come up with a stronger and friendlier-interface web page.
+Moreover, the audit may unearth additional inefficacies within the program design rather than just its components like those scripts that have outlived their utility. Removing them will aid in improving both safety for users visiting your web space as well as increased speed of operations on various devices. The security implications for each one should also be examined so that there are no vulnerability issues. This in-depth scrutiny makes sure only necessary, effective and safe scripts are used to come up with a stronger and friendlier-interface web page.
 
 The audit and assessment process, apart from optimizing performance metrics, uncovers truths about the functionality and significance of every single third-party script. As a result, the company can make well-thought decisions about what scripts it might retain, upgrade, or dispose of, thereby ensuring its website’s optimization and security.
 
@@ -36,7 +36,7 @@ Opting for minimization and consolidation of scripts is a strategic way to eleva
 
 The following stage is to consolidate them where conceivable as a way of recognizing the essential scripts. What is done here is combining various scripts responsible for related functionality into a single script file. For instance, rather than having individual [JavaScripts](https://www.javascript.com/) for various UI parts developers should combine them all into a single script. Such activities may be automated using instruments such as [Webpack](https://webpack.js.org/) or [Rollup](https://rollupjs.org/) ensuring better performance by avoiding double code within bundled JS files.
 
-The process of merging and consolidating work together. You can apply minimization tools like [UglifyJS](https://www.npmjs.com/package/uglify-js) or [Terser](https://terser.org/) to make JavaScript files more compact by stripping unnecessary elements like whitespaces, and comments without losing any code features. As a result, content is downloaded faster, and website speed is due to reduced file sizes.
+You can apply minimization tools like [UglifyJS](https://www.npmjs.com/package/uglify-js) or [Terser](https://terser.org/) to make JavaScript files more compact by stripping unnecessary elements like whitespaces, and comments without losing any code features. As a result, content is downloaded faster, and website speed is due to reduced file sizes.
 
 Another important tactic is to make good use of Content Delivery Networks ([CDNs](https://en.wikipedia.org/wiki/Content_delivery_network)). CDNs are used to deliver files like scripts from the nearest server to the specific person thus making the loading time reduced and the delays avoided so long as scripts are hosted or stored in a Content Delivery Network (CDN). Besides, these can help minimize the time spent optimizing scripts by providing barebones libraries for free.
 
@@ -65,9 +65,9 @@ The `defer` scripts, unlike the `async`, preserve their execution order when the
 ### Implementation of Asynchronous Loading and Non-Blocking Execution
 By adopting asynchronous loading and non-blocking execution methods for scripts, your site’s efficiency will be greatly improved. The following is a systematic instruction on how one may apply them with the help of `async` and `defer` attributes:
 
-* Understanding `async` and `defer` attributes. `Async` enables the browser to download the script simultaneously while it is being parsed in the background, without stalling or delaying the parsing of [HTML](https://html.com/). The script will immediately execute once downloaded which may disrupt HTML parsing. The `Defer` attribute also tells a browser to download scripts in a non-blocking manner however it makes sure that they are executed only after the HTML rendering is done. Thus, this approach script will not interfere with rendering any HTML content.
+* Understanding `async` and `defer` attributes: `Async` enables the browser to download the script simultaneously while it is being parsed in the background, without stalling or delaying the parsing of [HTML](https://html.com/). The script will immediately execute once downloaded which may disrupt HTML parsing. The `Defer` attribute also tells a browser to download scripts in a non-blocking manner however it makes sure that they are executed only after the HTML rendering is done. Thus, this approach script will not interfere with rendering any HTML content.
 
-* Adding Scripts with `async` and `defer`. If you use `async`, find the `script` tag in the HTML document and attach the `async` attribute to the `script` tag:
+* Adding Scripts with `async` and `defer`: If you use `async`, find the `script` tag in the HTML document and attach the `async` attribute to the `script` tag:
 ```htmlembedded
 <!DOCTYPE html>
 <html lang="en">
@@ -86,6 +86,7 @@ By adopting asynchronous loading and non-blocking execution methods for scripts,
 This basic web page structure in HTML Code is defined with the language as English. There are `meta` tags for character encoding and `viewport` settings in its head section to ensure it displays properly on different devices. The title of the page is "Async Example". The body has an `h1` heading with the phrase "Async Loading Example". At the end of the body, there are two script tags. `analytics.js` and `advertising.js` have their `async` attributes included. This means these scripts will be fetched and executed asynchronously without blocking the HTML parsing.
 
 If you use `defer`, find the `script` tag in the HTML document and attach the `defer` attribute to the `script` tag:
+
 ```htmlembedded
 <!DOCTYPE html>
 <html lang="en">
@@ -102,9 +103,12 @@ If you use `defer`, find the `script` tag in the HTML document and attach the `d
 ```
 A webpage is defined by the HTML code as being in English. The head section has `meta` tags for character encoding and `viewport` settings, allowing it to be displayed correctly across different devices. The title of this page is set to "Defer Example". Within the body, there is an `h1` header that says "Defer Loading Example". Lastly, a `script` tag is added at the end of the body and the `main.js` file is loaded using `defer`. This means that the script would be downloaded in the background and only executed after HTML parsing has been completed so that it does not block initial page rendering.
 
-* Deciding when to use `async` and `defer`. Use `async` for scripts that are stand-alone and unrelated to any `DOM` elements. The above is usually the case with third-party scripts like analytics and advertising. On the other hand, `Defer` should be used for scripts that require the complete parsing of HTML, e.g., those that manipulate `DOM` or depend upon other scripts.
+* Deciding when to use `async` and `defer`: Use `async` for scripts that are stand-alone and unrelated to any `DOM` elements. The above is usually the case with third-party scripts like analytics and advertising. On the other hand, `Defer` should be used for scripts that require the complete parsing of HTML, e.g., those that manipulate `DOM` or depend upon other scripts.
 
-* Combining `async` and `defer` for optimal performance. Meanwhile, scripts that rely on the total `DOM` or to be run in a specific order should be deferred. `Async` must be used for third-party scripts not relying on other scripts or `DOM` elements. For example:
+* Combining `async` and `defer` for optimal performance: Meanwhile, scripts that rely on the total `DOM` or to be run in a specific order should be deferred. `Async` must be used for third-party scripts not relying on other scripts or `DOM` elements. 
+
+For example:
+
 ```htmlembedded
 <!DOCTYPE html>
 <html lang="en">
@@ -130,7 +134,8 @@ This particular page is designed in a manner that it preserves English Language 
 ## Strategy 5: Content Security Policy (CSP)
 The [CSP](https://en.wikipedia.org/wiki/Content_Security_Policy) prevents cross-site scripting (XSS) attacks by determining the right sources to load scripts on the website. For instance: A medical site that deploys CSP allows scripts from its domain and reliable third-party providers.
  
-For Example:
+For example:
+
 ```htmlembedded
 Content-Security-Policy: script-src 'self' https://trustedanalytics.com
 ```

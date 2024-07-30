@@ -11,22 +11,20 @@
 <body>
      <h1>Cypress vs Selenium vs Playwright: The Best Automated-Testing Tool</h1>
     <p>Automation testing is a software testing methodology where tests are executed automatically using tools or scripts. Automated testing differs from Manual testing because Manual testing requires the presence of an human tester to verify the overall performance of a system. Automated testing tools have two major components: a Test runner and a Tracking agent. The test runner runs the test from a command (or button click) while the tracking agent keeps track of passing and failing tests. These Automated testing tools apply to different types of software testing types which include unit, integration, and end-to-end (e2e) testing.
-    <br><br>
+    <br>
     When it comes to frontend testing of web applications, one can choose to test the code or test an end user's behavior while using the app. One can gain more value testing a user's behavior because it doesn't focus on implementation details. This is a form of e2e testing, and there are several tools for carrying out such testing. These include Cypress, Selenium, and Playwright. This article compares these three Automated testing tools using metrics such as Browser Support, Language Support, Ease of setup, and Performance. This comparison aims to help you choose the best tool for your use-case. </p>
-
 
 # What is Automated Testing and Why is it Important?
 
   <p>Automated testing is a testing technique that involves the use of software tools in executing test cases. It often involves test cases written in a scripting language such as Python, JavaScript, or Lua. The scripts are written to test the different functionalities of a piece of software.
-    Automated testing can be seen as a process of automating Manual test cases, that is, using software tools to execute test cases that would have been executed manually. The goal of Automated testing is to reduce the amount of Manual work involved in test execution, leading to higher test coverage. 
+    Automated testing can be seen as a process of Automating Manual test cases, that is, using software tools to execute test cases that would have been executed Manually. The goal of Automated testing is to reduce the amount of Manual work involved in test execution, leading to higher test coverage. 
    Most organizations are after products that can be developed and ready for use under the shortest period of time,  Automated testing is very important because it ensures the fast delivery of an high quality  software product. Below are some benefits of Automated testing:
     
 * Elimination of human error: Humans are naturally  predisposed to making mistakes and while this fact is known all over the world, the field of testing requires a level of perfection that might be humanly impossible, due to the inability of humans to carry out tasks perfectly at all times, Automated testing is very important because it reduces the likelihood and impact of human errors. 
 
 > **Please Note**: Humans are still very involved in the process of Automated testing. For example, an human tester is the one responsible for writing and maintaining Automated  test scripts, but since Automated testing allows testers to run scripts repetitively without the need to re-write it, the problem of human error would be less likely to occur. 
 
-
-* Speed and Efficiency: Automated testing is much faster than manual testing because an automated test script runs at machine speed which in turn leads to faster feedback. Automated testing also supports parallel testing, this feature allows multiple test scripts to run simultaneously across different environments which also speeds up feedback time. 
+* Speed and Efficiency: Automated testing is much faster than manual testing because an Automated test script runs at machine speed which in turn leads to faster feedback. Automated testing also supports parallel testing, this feature allows multiple test scripts to run simultaneously across different environments which also speeds up feedback time. 
 
 * Increased Coverage: It can be very tiring on the part of the tester to execute large amounts of test cases, and in cases like this certain test cases are overlooked because they are considered unimportant, in certain cases, this can lead to a major issue but through the use of Automated testing, a large number of test cases can be executed under a short period of time. 
 
@@ -34,23 +32,20 @@ Automated testing basically speeds up the whole testing process making it possib
 
 > **Please note**: Automation testing is not a replacement for manual testing so it doesn't eliminate the need for human testers, rather it creates an avenue for human testers to carry out tests with testing tools. 
 
-<br><br> Automated testing isn’t another testing paradigm similar to unit and functional testing. It is more or less a way to Automate unit, Integration, and end-to-end tests. There are diverse automated testing tools available for different types of testing needs, but this article focuses on end-to-end testing using Selenium, Cypress, and Playwright.</p>
-
+<br> Automated testing isn’t another testing paradigm similar to unit and functional testing. It is more or less a way to Automate unit, Integration, and end-to-end tests. There are diverse Automated testing tools available for different types of testing needs, but this article focuses on end-to-end testing using Selenium, Cypress, and Playwright.</p>
 
 ## Use-Cases of Automated Testing
 * Cross-browser testing
 * Load and performance testing
 * Automating unit, integration, and end-to-end tests
 
-
 ### Comparing Cypress, Selenium, and Playwright as Automated Testing Tools
 
- <p>Now, let's compare Cypress, Selenium, and Playwright based on browser support, ease of setup, ease of scripting, performance, and speed.</p>
+ <p>Now, let's compare Cypress, Selenium, and Playwright based on Browser support, Ease of setup, Ease of scripting, Performance and Speed.</p>
 
+# Choosing the best Automated testing tool based on Browser support.
 
-# Choosing the best Automated testing tool based on browser support.
-
-Browser support refers to the ability of a certain website or web app to function consistently on different web browsers (Chrome, Mozilla Firefox, Safari, and Microsoft Edge). If your favourite automated testing tool can work across major browsers, you can have peace of mind that your app works no matter the browser choice of your users. The essence of considering browser support is that cross-browser testing is one of the major tests carried out by testers and devs. Now, take a look at all three automated testing tools in terms of browser support:
+Browser support refers to the ability of a certain website or web app to function consistently on different web browsers (Chrome, Mozilla Firefox, Safari, and Microsoft Edge). If your favourite Automated testing tool can work across major browsers, you can have peace of mind that your app works no matter the browser choice of your users. The essence of considering browser support is that cross-browser testing is one of the major tests carried out by testers and devs. Now, take a look at all three Automated testing tools in terms of browser support:
 
 <p><strong>Cypress:</strong> Cypress supports major browsers like Chromium and Firefox. <a href="https://docs.cypress.io/guides/guides/launching-browsers#WebKit-Experimental">It has experimental support for Safari</a>. This means some features will not work properly. Aside from this, it has good support on Chrome, Firefox, and Edge. It can run tests across multiple browser versions directly from the Cypress test runner, which makes it convenient to run tests on older browser versions, maintained versions, and unreleased versions.</p>
    
@@ -58,14 +53,12 @@ Browser support refers to the ability of a certain website or web app to functio
 
 Selenium: Selenium supports popular web browsers including Google Chrome, Mozilla Firefox, Safari, Microsoft Edge, and Internet Explorer (Edge IE mode). It achieves this through the Selenium webdriver which acts as a bridge between test scripts and a chosen browser. There is no single webdriver, as each browser type has its own webdriver. Available webdrivers include:
 
-
 - [ChromeDriver](https://chromedriver.chromium.org/downloads) for Google Chrome.
 - [GeckoDriver](https://firefox-source-docs.mozilla.org/testing/geckodriver/index.html) for Mozilla Firefox.
 - [EdgeDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) for Microsoft Edge.
 - [IE Driver Server](https://www.selenium.dev/documentation/ie_driver_server/) for Internet Explorer.
 
 Selenium's support for a wide range of browsers makes it the most suitable tool for testing web applications on different browsers. The only downside is the requirement of downloading each browser and its webdriver.
-
 
 Playwright: Like Selenium, Playwright supports multiple browsers including Firefox, Chromium-based browsers, and Safari using a single API. It provides a unified API for automating web browsers. This makes it an effective tool for cross-browser testing and automation. Playwright defines this cross-browser testing behavior in a configuration file `playwright.config.js`. The content of the file responsible for the cross-browser testing looks is structured as shown below:
 
@@ -136,7 +129,7 @@ const { Builder, Browser, By, Key, until } = require("selenium-webdriver");
   }
 })();
 ```
-Playwright: Playwright similar to Selenium supports more than one language. It has official support for [Javascript/Typescript, Python, Java, and .NET](https://playwright.dev/docs/languages). Its API is more page-oriented. This mean selectors (locators in this case) start from the `page` object, which is passed as an argument. Playwright’s JavaScript API focuses on human readability, making tests easier to write. It’s explicit use of the await syntax might seem verbose, but it makes it obvious that a task may take some time to complete. This flows with Selenium’s approach and differs from Cypress automatic await. The snippet below is code for searching for cat memes on Google Search, written for Playwright using JavaScript.
+Playwright: Playwright, similar to Selenium supports more than one language. It has official support for [Javascript/Typescript, Python, Java, and .NET](https://playwright.dev/docs/languages). Its API is more page-oriented. This mean selectors (locators in this case) start from the `page` object, which is passed as an argument. Playwright’s JavaScript API focuses on human readability, making tests easier to write. It’s explicit use of the await syntax might seem verbose, but it makes it obvious that a task may take some time to complete. This flows with Selenium’s approach and differs from Cypress automatic await. The snippet below is code for searching for cat memes on Google Search, written for Playwright using JavaScript.
 ```javascript
 import { test, expect } from "@playwright/test";
 test.describe('Search for cat memes on Google"', () => {
@@ -163,12 +156,14 @@ Here’s the summary of how the three testing tools rank up to each other:
 Similar to how a user will leave a website if it takes too long to load, a potential QA tester may abandon a tool if it is too difficult to set up. Fortunately, none of the testing tools in this guide are difficult to set up. However, you should have in mind which of these tools is the easiest to set up.
 
 Cypress: Cypress comes as an npm package and a [standalone downloadable application](https://docs.cypress.io/guides/getting-started/installing-cypress#Direct-download) that you can immediately install and write tests with. After installation, you only add a new project, choose a browser of choice, and start writing test cases in JavaScript.
+
 ![Cypress project view](https://imgur.com/pJbvM4o.png)
+
 Setting up Cypress as an npm package is equally straightforward. You add it to your project using `npm install cypress --save-dev` and start up the application using `npx cypress open`. From there, you can skip the project initialization and go straight to picking a browser and running example tests or writing new ones.
 
 Step by step guide to setting up Cypress:
 
-Step 1: Download Nodejs: Go to your search engine and search for nodejs download. Click on the result and you will be directed to a page where you can select the version of nodejs you want and the operating system of your laptop. Then click on the download button. 
+Step 1: Download Nodejs: Go to your search engine and search for nodejs download. Click on the result and you will be directed to a page where you can select the version of nodejs suitable for the operating system of your laptop. Then click on the download button. 
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4fb3ed1c562a6ca56130d64f4d350d67.png)
 
@@ -201,15 +196,12 @@ Step 6: Run the command 'npm init' on your vs code terminal.
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b3b9c2e6e57be72e65d26e99801d013d.png)
 
-
 Step 7: After that, run the 'npm install' command to install cypress
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1f2beb5a1ec8a75e62b49065ba2f41b3.jpg)
-
 
 Step 8: To open cypress, run the command below
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2c2b8ef6e67302a2b68f698f6ba9d457.png)
-
 
 Step 9: If you have followed all the steps correctly, you should be directed to the page shown in the image below
 
@@ -229,22 +221,24 @@ Step 12: Click on 'ok, run the spec'
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0600f808c7578546aaadd0123672242f.png)
 
-Step 13: There you have it, your first successful  cypress test. 
+Step 13: There you have it, your first successful  cypress test!
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a053a5f4a77c32722cfa1c18e32f4640.png)
 
-
+>**Please Note**: If you are experiencing issues during the installation process, Check Cypress's Official Documentation: https://docs.cypress.io/guides/overview/why-cypress
 
 Playwright: Playwright is set up from the command line, using an npm command: `npm init playwright`. This initialization step is an interactive workflow that asks you to choose your desired scripting language (Javascript or Typescript), the location of your test scripts, and whether to include a Github Actions Workflow for CI.
 
 After these prompts, you can write new tests or run existing example tests using the command: npx playwright test. Playwright also includes a UI mode that is accessed using the `--ui` flag when invoking it using npm.
+
 ![Playwright UI mode](https://imgur.com/tEURhbH.png)
 Aside from Playwright’s dependency on Node.js, it simplifies browser setup/connection by downloading the required testing browsers in the local directory. This means that even if you do not have the required browsers installed, you can still run Playwright tests.
+
 ![Playwright’s supported browsers](https://i.imgur.com/ItgZnIH.png)
 
 Step by step guide to installing playwright:
 
-The installation process of playwright is somewhat similar to that of cypress and if you have followed the cypress installation steps carefully, then this process should be an easy one for you. 
+The installation process of Playwright is somewhat similar to that of cypress and if you have followed the cypress installation steps carefully, then this process should be an easy one for you. 
 
 Step 1: Install visual studio code. 
 
@@ -257,20 +251,19 @@ Step 3: Search for playwright extension in Visual Studio Code and install it.
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a1a2fcb96e3f7e5b84d9402fec9ab3e7.png)
 
-
 Step 4: Search 'playwright' and click on Test: Install Playwright 
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d7d7e8a414e928b41dacbe7b6dd351ab.png)
-
 
 Step 5: Finally, click the ok button
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0a8af931d621effb2ea018b8ba2b6439.png)
 
-
 Just like that, you are done!
 
 Selenium: Selenium has the most involved setup among the three tools. For starters, you need to have the drivers for the browsers you want to test with. So if you wish to test your applications with Chrome and Firefox, you will need to have both browsers installed alongside their selenium webdrivers. This tedious setup process can be abstracted by the client library, giving you a straightforward way of running your tests. However, this convenience is not present in all Selenium client libraries. 
+
+>**Playwright's official Documentation**: https://playwright.dev/docs/intro
 
 Step by step guide to installing Selenium:
 
@@ -289,15 +282,11 @@ Step 2: Set up the environment variable:
  
  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_73efbd9c9a4eca2f2318e39f8f16067d.png)
 
- . Under system variable, select path and click on edit button. Now set the complete java path and click on save.
+* Under system variable, select path and click on edit button. Now set the complete java path and click on save.
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_697d3d912de63795a1383cecb94e4cc
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3348ef1aeb01b460180ff5caf9277170.png)
 
-. Download and install selenium client and webdriver languages from the selenium website
-
-https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.8.0/selenium-java-4.8.0.zip
-
-Extract the downloaded folder. 
+* Download and install selenium client and webdriver languages from the Selenium website and extract the down
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_245d72b6a75758a0b43582d0e71c0451.png)
 
@@ -316,7 +305,6 @@ It should look like this:
  
 * Once the download is complete, unzip the archive and extract the content to a directory on your computer 
  
-
  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6cdb81cfaeb5246b7f594a68c5bb4d30.png)
 
 * Now you need to create a workspace to store your test scripts and test results.
@@ -326,13 +314,14 @@ It should look like this:
 * Click on the launch button and your installation is complete.
  
  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_71a65564cc4af4ba5541e2756fc21196.png)
-
+ 
+>> **Selenium's official Documentation**: https://www.selenium.dev/documentation/
 
 Here’s the summary of how the three testing tools rank up to each other:
 |                       | Cypress | Selenium | Playwright | Winner                 |
 | --------------------- | ------- | -------- | ---------- | ---------------------- |
 | Browser support       | 4/5     | 5/5      | 5/5        | Selenium or Playwright |
-| Ease of scripting     | 2/5     | 5/5      | 4/5        | Selenium               |
+| Ease of scripting     | 4/5     | 3/5      | 5/5        | Playwright              |
 | Ease of set up        | 5/5     | 2/5      | 4/5        | Cypress         
 |
 
@@ -354,21 +343,24 @@ Here’s the summary of how the three testing tools rank up to each other:
 | --------------------- | ------- | -------- | ---------- | ---------------------- |
 | Browser support       | 4/5     | 5/5      | 5/5        | Selenium or Playwright |
 | Ease of set up        | 5/5     | 2/5      | 4/5        | Cypress                |
-| Ease of scripting     | 2/5     | 5/5      | 4/5        | Selenium               |
+| Ease of scripting     | 4/5     | 3/5      | 5/5        | Playwright               |
 | Performance and speed |     4/5    |     3/5     |     5/5       |           Playwright       
 
 ## Conclusion
 
 Choosing the most suitable Automated testing tool is a very essential step that all developers and testers must take into consideration before kickstarting the process of testing a software product. In this article, you were able to explore the concept of automated testing and learnt how it can be done with three prominent testing tools: Cypress, Selenium, and Playwright. Below are key things to take into consideration before choosing an Automated testing tool:
 
->** You must consider the task at hand and the skillset of whoever is carrying out the test. For example, if a tester is very knowledgeable in JavaScript, choosing Cypress as an Automated testing tool will be a good option because they will encounter little to no difficulty while executing test cases. 
+* You must consider the task at hand and the skillset of whoever is carrying out the test. For example, if a tester is very knowledgeable in JavaScript, choosing Cypress as an Automated testing tool will be a good option because they will encounter little to no difficulty while executing test cases. 
 
->** It is better to coose Playwright or Cypress 
-You explored how these testing tools differ in terms of their setup, scripting, performance, and speed. So while all these tools may be robust with good community support, you should always choose a tool that closely matches your use-case
+* Unless there is need to execute test cases using a very old or less common version of a browser, Playwright or Cypress are better options compared to Selenium.
 
->Read: https://zebrunner.com/blog-posts/selenium-vs-cypress-vs-playwright-comprehensive-comparison
+* Before choosing any Automated testing tool to execute test cases, Make sure that there is actually a need to carry out that particular test using an Automated testing tool. Automated testing is not a replacement for manual testing. 
 
->https://www.google.com/amp/s/www.rootquotient.com/blog/cypress-vs-selenium-vs-playwright/amp/
+>**Please Note**: Always check the official documentation of any Automated testing tool for clairity on whatever issues you may encounter either during the installation process or while using the tool.
+
+You must carefully consider all these factors before choosing an Automated testing tool to prevent difficulty while testing, So while all these tools may be robust with good community support, you should always choose a tool that closely matches your use-case.
+
+>**For further reading, Click on the link provided below**: https://zebrunner.com/blog-posts/selenium-vs-cypress-vs-playwright-comprehensive-comparison.
 
 
 
