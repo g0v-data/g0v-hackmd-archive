@@ -65,9 +65,9 @@ The `defer` scripts, unlike the `async`, preserve their execution order when the
 ### Implementation of Asynchronous Loading and Non-Blocking Execution
 By adopting asynchronous loading and non-blocking execution methods for scripts, your site’s efficiency will be greatly improved. The following is a systematic instruction on how one may apply them with the help of `async` and `defer` attributes:
 
-* **Step 1:** Understanding `async` and `defer` attributes. `Async` enables the browser to download the script simultaneously while it is being parsed in the background, without stalling or delaying the parsing of [HTML](https://html.com/). The script will immediately execute once downloaded which may disrupt HTML parsing. The `Defer` attribute also tells a browser to download scripts in a non-blocking manner however it makes sure that they are executed only after the HTML rendering is done. Thus, this approach script will not interfere with rendering any HTML content.
+* Understanding `async` and `defer` attributes. `Async` enables the browser to download the script simultaneously while it is being parsed in the background, without stalling or delaying the parsing of [HTML](https://html.com/). The script will immediately execute once downloaded which may disrupt HTML parsing. The `Defer` attribute also tells a browser to download scripts in a non-blocking manner however it makes sure that they are executed only after the HTML rendering is done. Thus, this approach script will not interfere with rendering any HTML content.
 
-* **Step 2:** Adding Scripts with `async` and `defer`. If you use `async`, find the `script` tag in the HTML document and attach the `async` attribute to the `script` tag:
+* Adding Scripts with `async` and `defer`. If you use `async`, find the `script` tag in the HTML document and attach the `async` attribute to the `script` tag:
 ```htmlembedded
 <!DOCTYPE html>
 <html lang="en">
@@ -102,9 +102,9 @@ If you use `defer`, find the `script` tag in the HTML document and attach the `d
 ```
 A webpage is defined by the HTML code as being in English. The head section has `meta` tags for character encoding and `viewport` settings, allowing it to be displayed correctly across different devices. The title of this page is set to "Defer Example". Within the body, there is an `h1` header that says "Defer Loading Example". Lastly, a `script` tag is added at the end of the body and the `main.js` file is loaded using `defer`. This means that the script would be downloaded in the background and only executed after HTML parsing has been completed so that it does not block initial page rendering.
 
-* **Step 3:** Deciding when to use `async` and `defer`. Use `async` for scripts that are stand-alone and unrelated to any `DOM` elements. The above is usually the case with third-party scripts like analytics and advertising. On the other hand, `Defer` should be used for scripts that require the complete parsing of HTML, e.g., those that manipulate `DOM` or depend upon other scripts.
+* Deciding when to use `async` and `defer`. Use `async` for scripts that are stand-alone and unrelated to any `DOM` elements. The above is usually the case with third-party scripts like analytics and advertising. On the other hand, `Defer` should be used for scripts that require the complete parsing of HTML, e.g., those that manipulate `DOM` or depend upon other scripts.
 
-* **Step 4:** Combining `async` and `defer` for optimal performance. Meanwhile, scripts that rely on the total `DOM` or to be run in a specific order should be deferred. `Async` must be used for third-party scripts not relying on other scripts or `DOM` elements. For example:
+* Combining `async` and `defer` for optimal performance. Meanwhile, scripts that rely on the total `DOM` or to be run in a specific order should be deferred. `Async` must be used for third-party scripts not relying on other scripts or `DOM` elements. For example:
 ```htmlembedded
 <!DOCTYPE html>
 <html lang="en">
@@ -124,7 +124,7 @@ A webpage is defined by the HTML code as being in English. The head section has 
 ```
 This particular page is designed in a manner that it preserves English Language and its textual content is encoded in HTML format. The head section consists of `meta` tags that provide character encoding and viewport settings that enable its correct display across several devices. The title is "Combined Example", while the body has an `h1` heading that reads "Combined Loading Example".  At the bottom of the body, four `script` tags are found; `analytics.js` and `advertising.js` load asynchronously using the `async` attribute so that they do not block HTML parsing. `Library.js` and `main.js` load with the `defer` attribute, implying that they will come into play when HTML parsing comes to an end and hence will not interfere with how fast the page appears.
 
-* **Step 5:** Testing and Debugging: Employ browser developer [tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools) to determine whether scripts are loaded asynchronously or deferred. Examine page loading durations both before and following the incorporation of `async` and `defer` attributes. Confirm that scripts reliant on `DOM` elements or other scripts are executed correctly without making any errors.
+* Testing and Debugging: Employ browser developer [tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools) to determine whether scripts are loaded asynchronously or deferred. Examine page loading durations both before and following the incorporation of `async` and `defer` attributes. Confirm that scripts reliant on `DOM` elements or other scripts are executed correctly without making any errors.
 
 
 ## Strategy 5: Content Security Policy (CSP)
@@ -284,7 +284,7 @@ By this, the `iframe` can execute scripts while still being considered a member 
 
 * Test Your Implementation. Once sandboxing has been set up, test your site to verify that the `iframes` are being loaded properly and that the limitations are reduced. It is recommended to utilize the available browser developer tools to check for any possible errors or violations.
 
-* **Step 5:** Keep watch and fix when necessary. Your website should be examined frequently for any potential concerns regarding the content showing in `iframes`. Change the restrictions placed in the sandbox whenever required to maintain a balance between security and the ability to utilize it.
+* Keep watch and fix when necessary. Your website should be examined frequently for any potential concerns regarding the content showing in `iframes`. Change the restrictions placed in the sandbox whenever required to maintain a balance between security and the ability to utilize it.
 
 ## Strategy 8: Privacy Consideration
 To uphold user confidence and observe data protection regulations privacy concerns must be in good grace.
