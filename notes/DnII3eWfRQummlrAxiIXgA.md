@@ -359,11 +359,16 @@ Here’s the summary of how the three testing tools rank up to each other:
 
 ## Conclusion
 
-In this article, you explored the concept of automated testing and learnt how it can be done with three prominent testing tools: Cypress, Selenium, and Playwright. You explored how these testing tools differ in terms of their setup, scripting, performance, and speed. So while all these tools may be robust with good community support, you should always choose a tool that closely matches your use-case
+Choosing the most suitable Automated testing tool is a very essential step that all developers and testers must take into consideration before kickstarting the process of testing a software product. In this article, you were able to explore the concept of automated testing and learnt how it can be done with three prominent testing tools: Cypress, Selenium, and Playwright. Below are key things to take into consideration before choosing an Automated testing tool:
 
->**Read: https://zebrunner.com/blog-posts/selenium-vs-cypress-vs-playwright-comprehensive-comparison
+>** You must consider the task at hand and the skillset of whoever is carrying out the test. For example, if a tester is very knowledgeable in JavaScript, choosing Cypress as an Automated testing tool will be a good option because they will encounter little to no difficulty while executing test cases. 
 
-https://www.google.com/amp/s/www.rootquotient.com/blog/cypress-vs-selenium-vs-playwright/amp/
+>** It is better to coose Playwright or Cypress 
+You explored how these testing tools differ in terms of their setup, scripting, performance, and speed. So while all these tools may be robust with good community support, you should always choose a tool that closely matches your use-case
+
+>Read: https://zebrunner.com/blog-posts/selenium-vs-cypress-vs-playwright-comprehensive-comparison
+
+>https://www.google.com/amp/s/www.rootquotient.com/blog/cypress-vs-selenium-vs-playwright/amp/
 
 
 
