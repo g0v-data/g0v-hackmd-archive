@@ -147,9 +147,10 @@ The prescribed CSP header lets you command your browser to run scripts exclusive
 
 ### Implementing a Content Security Policy (CSP)
 A Content Security Policy (CSP) helps you avoid cross-site scripting (XSS) or other code injection attacks by specifying which sources can load content on your site. Here is a guide on how to set up a CSP:
-* Define Your CSP Policy. Detect and enumerate every trusted resource for the substances in your domain. As an illustration, concerning scripts, you should have faith in your domain and a handful of third-party suppliers.
 
-*  Add the CSP Header to Your Server Configuration. CSP directive needs to be added to the server configuration. Below are the methods for configuring CSP in various web servers:
+* Define Your CSP Policy: Detect and enumerate every trusted resource for the substances in your domain. As an illustration, concerning scripts, you should have faith in your domain and a handful of third-party suppliers.
+
+*  Add the CSP Header to Your Server Configuration: CSP directive needs to be added to the server configuration. Below are the methods for configuring CSP in various web servers:
 Add the following line to your `.htaccess` file or your site’s main configuration file.
 
 For Apache: 
@@ -160,7 +161,7 @@ For Nginx, add the following line to your server block:
 ```nginx
 add_header Content-Security-Policy "script-src 'self' https://trusted-third-party.com;";
 ```
-* **Step 3:** Add CSP `Meta` Tag (Alternative Method). Should you lack accessibility to server settings, it is possible to place a CSP specification inside a `meta` tag in your HTML file:
+* Add CSP `Meta` Tag (Alternative Method): Should you lack accessibility to server settings, it is possible to place a CSP specification inside a `meta` tag in your HTML file:
 
 ```htmlembedded
 <!DOCTYPE html>
@@ -183,15 +184,15 @@ add_header Content-Security-Policy "script-src 'self' https://trusted-third-part
 ```
 Here is a sample of a simple HTML document for a medical website. Moreover, it sets the right character encoding and makes the site responsive by setting the `viewport` properties. Likewise, it has a Content Security Policy that allows the site’s scripts only for execution while denying all others like those of third-party. In addition, a message to welcome visitors is displayed on this page header and two external JavaScript files respectively; one points to local `main.js` while the second is on a third-party domain.
 
-* Test Your CSP. When you have finished installing the CSP tool, carefully evaluate your webpage to guarantee that every resource loads correctly and that no authentic information is denied. Utilize the developer browser options to look for any breach of CSP.
+* Test Your CSP: When you have finished installing the CSP tool, carefully evaluate your webpage to guarantee that every resource loads correctly and that no authentic information is denied. Utilize the developer browser options to look for any breach of CSP.
 
 * Monitor and Adjust: Your website should be regularly monitored for any CSP violations so that changes to policies can be made when necessary; you may consider utilizing some tools like Content Security Policy (CSP) monitoring services or browser reporting features to keep track of violations.
-
 
 ## Strategy 6: Subresource Integrity (SRI) 
 A script cannot be tampered with by SRI and it does this through you specifying an expected script content hash. For instance, SRI is a mechanism applied by an educational platform to guarantee that a certain external library that is utilized for interactive quizzes has not been corrupted.
 
 For example:
+
 ```htmlembedded
 <script
   src="https://example.com/library.js"
@@ -246,6 +247,7 @@ A webpage called "Learning Platform" is created using this HTML. When using `met
 Applying the sandbox attribute to [iframes](https://www.w3schools.com/tags/tag_iframe.ASP#:) on  gaming sites can guarantee that ads are served without any risk of malicious scripts affecting pages containing them. By using the [sandboxing](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) technique, third-party scripts are prevented from reaching sensitive data or influencing other website sections.
 
 For example:
+
 ```htmlembedded
 <iframe
   src="https://ads.com/ad"
