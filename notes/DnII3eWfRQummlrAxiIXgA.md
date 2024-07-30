@@ -156,7 +156,7 @@ Here’s the summary of how the three testing tools rank up to each other:
 |                       | Cypress | Selenium | Playwright | Winner                 |
 | --------------------- | ------- | -------- | ---------- | ---------------------- |
 | Browser support       | 4/5     | 5/5      | 5/5        | Selenium or Playwright |
-| Ease of scripting     | 2/5     | 5/5      | 5/5        | Selenium               |
+| Ease of scripting     | 4/5     | 3/5      | 5/5        | Playwright               |
 
 ### Choosing the best automated testing tool based on Ease of Setup
 
