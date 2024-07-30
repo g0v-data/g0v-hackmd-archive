@@ -69,6 +69,9 @@ name detail 「OO 是詐騙嗎」tab 中可以放：
 
 ### Brainstorming
 - 「類似名字」、「類似網域」的 retrieval：
+    :::success
+    Already implemented in https://github.com/cofacts/open165/pull/9
+    :::
   - 因為一定很多「投資」等常用字，用向量做或只用 term frequency 做效果一定爛。搜尋一定要用 TF-IDF 來避開常用字。
   - D1 supports virtual tables for full-text search using SQLite’s FTS5 module [source](https://developers.cloudflare.com/d1/build-with-d1/import-export-data/); [discussion](https://community.cloudflare.com/t/d1-support-for-virtual-tables/607277)
   - 其他支援 TF-IDF 的有：
