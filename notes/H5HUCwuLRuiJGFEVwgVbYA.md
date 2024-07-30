@@ -60,12 +60,17 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 | Example | Nobody      |範例|
 | g0v 夏日源力增能營 課程心得共筆 | Yi  | 撰寫零時小學校[數位公民資源盤點](https://docs.google.com/spreadsheets/d/1Pyf6B2JmPPyqkQiSh7wce1yaQAEMsUqiYQWp0Y1qXvU/edit?usp=sharing)文件
 | [星河計畫](http://galacticproject.notion.site)的AI化解決方案，招人一起做 | ziaosen(強森)  | [共筆](https://galacticproject.notion.site/AI-acf9daf245f44484acee91566ad8d029?pvs=4)
-| Summit 紀念品消化計畫：搜集一些到時要放上販售頁面的東東 | Dong  |[共筆](https://g0v.hackmd.io/JXeFGfs3QTixAj0qBqRt7Q)|
+| Summit 紀念品消化計畫：搜集一些到時要放上販售頁面的資訊 | Dong  |[共筆](https://g0v.hackmd.io/JXeFGfs3QTixAj0qBqRt7Q)|
 ## 一些紀錄
 
 ### Summit 紀念品消化計畫
 - Summit 紀念品孤單地躺在倉庫，要如何讓他們發揮最大的價值呢？
-- [共筆](https://g0v.hackmd.io/JXeFGfs3QTixAj0qBqRt7Q)
+- [共筆](https://g0v.hackmd.io/@WbB98FoNTsivbcUIrjQILQ/S1MQdBLt0/%2FcxBnkrv9TIKDSsHgCletkQ)
 - 今天預計進行：
-    - [ ] 整理共筆結構
+    - [x] 整理共筆結構 -> [優化完頁面](https://g0v.hackmd.io/@WbB98FoNTsivbcUIrjQILQ/S1MQdBLt0/%2FJXeFGfs3QTixAj0qBqRt7Q%3Fview)
     - [ ] 搜集一些到時要放上販售頁面的東東
+
+
+### 數位公民線上課 共筆
+https://docs.google.com/spreadsheets/d/1Pyf6B2JmPPyqkQiSh7wce1yaQAEMsUqiYQWp0Y1qXvU/edit?usp=sharing
+繼續寫共筆～～～～～
