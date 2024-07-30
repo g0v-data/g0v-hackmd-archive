@@ -1,0 +1,32 @@
+---
+tags:
+---
+
+# 主題論壇（二） g0v as a DAO, 去中心化社群十年探索與未來
+
+###### tags: `da0th` `jothon`  
+
+{%hackmd @da0/r12u58EMi %}
+
+:::success
+議程投影片 presentation slides：待更新
+提問 [Sli.do](https://app.sli.do/event/1wNxQ1ibq49RTW9xUAAaiC/live/questions)
+:::
+
+#### 從「去中心化」到「多中心」
+「去中心化」是 g0v 社群創始核心理念。在2013年1月21日 g0v 宣言第一版草稿中說：「我們去中心化，實踐流動民主」。6年後，2019年11月4日通過的修憲案中，其中最顯著的變動之一，即是將去中心化段落，修訂為：「我們多中心運作，打造自主貢獻文化」[這是經過激烈討論後妥協的共識](https://g0v.hackmd.io/x-ngci7LQ1-UrAFKL5FLAQ?view)，g0v 貢獻者仔魚即表示：「……去中心化是努力的目標，多中心化才是呈現的結果……多中心取代去中心，彷彿是宣告「中心」決定放棄將權力分享出去的努力。」
+
+#### 從「多中心」再到「去中心」？
+雖然承認 g0v 社群以專案為「核心」的「多中心」現狀，「去中心」的理念仍在 g0v 社群中持續被實踐：治理上向「分權」、「自主」、「自治」、技術上朝「分散式」、「利於自主開源貢獻」而努力。隨著區塊鏈、web3技術更廣泛被應用，我們思考，存在於Web 2.0的g0v社群是否能透過新的工具與技術，在持守「零時文化」共識下，持續向「去中心化」的「道dao」靠近？
+
+:bust_in_silhouette: 主持人：侯宜秀 Isabel ( g0v揪松團輪值主席）
+:busts_in_silhouette: 來賓：高嘉良 clkao（g0v 零時政府共同發起人） 、唐鳳 au（digitalminister.tw）、葉向林 Noah（Web3 創業者 / da0 共同發起人）
+
+共筆先寫在這裡，晚點複製過來：
+https://g0v.hackmd.io/@jothon/Sy1cpRWWs
+
+g0v as a DAO 十週年論壇會後問答
+https://g0v.hackmd.io/7T4HTRu9RwO_QW-NBM_ITw
+
+
+

@@ -21,7 +21,7 @@ Once you've created a project, use the terminal to navigate into it by running:
 cd pull-to-refresh-app
 ``` 
 
-In this directory there is a `src` folder where one can put your source code files, assets can be placed in a folder named public and other configuration files are also located here. What we just did was set the project up for development purposes.
+In this directory there is a `src` folder where one can put your source code files, assets can be placed in a folder named `public` and other configuration files are also located here. What we just did was set the project up for development purposes.
 
 ###  Tailwind Installation and Integration
 Our next step is to style the application for Tailwind CSS to be installed. From [npm](https://www.npmjs.com/), one can add Tailwind CSS to a React project on which the Node package manager is a prerequisite. This will involve executing the commands below on the terminal to install all necessary dependencies within Tailwind CSS alongside Tailwind itself.
