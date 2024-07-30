@@ -31,7 +31,7 @@ Just a reminder: There won't be dinner provided at this offline gathering, so pl
 
 ## 時間地點
 
-- 2024-07-16 Tue. 1900 - 2100
+- 2024-07-30 Tue. 1900 - 2100
 - [NPO HUB Taipei 台北NPO聚落](https://maps.app.goo.gl/XPrvzSdqgszbfRBV8) 4F 廚房
     - [「如何入場」及場地使用規定](/9pwDPOXLTr6IJKiLofl3qg)
 
@@ -68,12 +68,25 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 - [共筆](https://g0v.hackmd.io/@WbB98FoNTsivbcUIrjQILQ/S1MQdBLt0/%2FcxBnkrv9TIKDSsHgCletkQ)
 - 今天預計進行：
     - [x] 整理共筆結構 -> [優化完頁面](https://g0v.hackmd.io/@WbB98FoNTsivbcUIrjQILQ/S1MQdBLt0/%2FJXeFGfs3QTixAj0qBqRt7Q%3Fview)
-    - [ ] 搜集一些到時要放上販售頁面的東東
+    - [x] 搜集一些到時要放上販售頁面的東東 -> [頁面資訊](https://g0v.hackmd.io/@WbB98FoNTsivbcUIrjQILQ/S1MQdBLt0/%2FPbPDc5O0TQ6HrkQxeE2feQ)
 
 
 ### 數位公民線上課 共筆
 https://docs.google.com/spreadsheets/d/1Pyf6B2JmPPyqkQiSh7wce1yaQAEMsUqiYQWp0Y1qXvU/edit?usp=sharing
 繼續寫共筆～～～～～
 
-### awesome.g0v.tw 資料更新
-- 因應 62 屆大松剛結束，需要羹
+### Awesome g0v Project(awesome.g0v.tw) 資料更新
+- 因應 62 屆大松剛結束，需要更新新增的提案到 Awesome g0v Project(awesome.g0v.tw)資料表中
+- Awesome g0v Project 的資料表是使用靜態 CSV 檔，必須人工一筆一筆從[大松提案資料](https://docs.google.com/spreadsheets/d/1C9-g1pvkfqBJbfkjPB0gvfBbBxVlWYJj6tTVwaI5_x8/edit?gid=0#gid=0)肉眼判斷是否有曾經出現過的提案做整併後 copy 到 Awesome g0v project 的 [CSV](https://github.com/chunyenHuang/awesome-g0v-projects/blob/master/data/projects.csv) 中
+- 正在思考怎麼把大松提案資料表中的資料轉成 DB Data，再使用 SQL 查詢簡化人工判斷的部分
+- 目前處理的方式：
+    - 先 copy/download 大松提案列表成 CSV 格式
+    - 建立 sqlite 或其他支援 CSV 匯入 database 的
+- 還未完成 ＱＱ
+
+### g0v hackmd team backup
+https://github.com/g0v-data/g0v-hackmd-archive/tree/main/teams
+team hackmd 自動 backup 完成!
+
+### g0v #design
+- 成功在島島阿學的 GitHub 上新增用於存放設計檔案與研究資料的檔案夾![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c9a23e400f9ee205e1d274cf32033abc.png)

@@ -46,16 +46,15 @@ All you have to do to check that everything is installed correctly is running fr
 ```bash
 npm start
 ```
-
 By doing this, the development server will be started and the default React app will open on your browser. Your page should show the default React welcome page confirming that the project setup was successful and the integration of Tailwind CSS.
 
-When our React app and Tailwind CSS are both ready to run, it’s time to move forward in our work and development. We should focus on making a component for pull-to-refresh which will be used within the whole app design.
+When our React app and Tailwind CSS are ready to run, it’s time to move forward in our work and development. We should focus on making a component for pull-to-refresh which will be used within the whole app design.
 
 ## Creating the Pull-to-Refresh Component
-To make a pull-to-refresh component, you have to design the user interface and write codes that will detect when someone pulls down the screen. Styling our component will be done through the latest version of Tailwind CSS while the management of state and handling of events will be through React hooks.
+To make a pull-to-refresh component, you have to design the user interface and write codes that will detect when someone pulls down the screen. Styling our component will be done through the latest version of Tailwind CSS while managing the state and handling of events will be through React hooks.
 
 ### Designing the UI with Tailwind CSS
-First off let's create the fundamental structure of the pull-to-refresh element. To achieve this purpose, go to your `src` directory in a text editor or integrated development environment and open a new file named `PullToRefresh.js` in it. It will consist of a section that will serve as a wrapper for the content and another one right below it serving as a place for determining the dragging gesture from the top.
+First off let's create the fundamental structure of the pull-to-refresh element. To achieve this, go to your `src` directory in a text editor or integrated development environment and open a new file named `PullToRefresh.js`. It will consist of a section that serves as a wrapper for the content and another one right below it serving as a place for determining the dragging gesture from the top.
 
 ```javascript
 import React from "react";
@@ -133,7 +132,7 @@ const PullToRefresh = ({ children, onRefresh }) => {
 
 export default PullToRefresh;
 ```
-This component `return` statement outlines how the UI is arranged. The component itself is surrounded by a container `div`, which has a relative position and hidden overflow that has the gray background style (`bg-gray-100`). One absolute positioned `div` that is at the top contains an indication for pulling downwards. The message varies according to whether its pulling state is true or false; if true it should display "Release to refresh" while if false it should display "Pull down to refresh". A new additional padding-top (`pt-16`) `div` renders the main content passed as `children` underneath the pull-down message. Tailwind CSS classes help in making sure that these elements have a clean look and are also responsive enough.
+This component `return` statement outlines how the UI is arranged. The component itself is surrounded by a container `div`, which has a relative position and hidden overflow that has the gray background style (`bg-gray-100`). One absolute positioned `div` that is at the top contains an indication for pulling downwards. The message varies according to whether its pulling state is true or false; if true it should display "Release to refresh" while if false it should display "Pull down to refresh". A new additional padding-top (`pt-16`) `div` renders the main content passed as `children` underneath the pull-down message. Tailwind CSS classes help to ensure that these elements have a clean look and are also responsive enough.
 
 To detect pull-down gestures, one needs to add a listener for touch events and mouse events. It then becomes an issue of tracking either touch or mouse movements and changing the current status as appropriate.
 
@@ -189,7 +188,7 @@ const PullToRefresh = ({ children, onRefresh }) => {
 
 export default PullToRefresh;
 ```
-We use the `pullToRefresh` component React Hooks to implement the pull-to-refresh technique. In addition to tracking the starting and current positions of touch, it effectively manages different states like pulling and refreshing. When someone touches their screen, the touch-start handler (`handleTouchStart`) keeps track of where this action started while indicating that we are pulling. The position of the current touch is updated by the function called `handleTouchMove`; otherwise, if handled incorrectly could prevent any meaningful continue being provided from the user’s end once `handleTouchEnd` executes its logic to determine whether refresh should happen or not based on a `50px` drop threshold value. A refresh will occur when the user moves down their finger below a certain height – more than 50 pixels. In turn, useEffect hook invokes the `onRefresh` function on every refresh event whereupon resetting back the refreshing state automatically after that has been done too. There is a pull-to-refresh message with the content of its wrapped children. `PullToRefresh` is styled using some Tailwind CSS.
+We use the `pullToRefresh` component React Hooks to implement the pull-to-refresh technique. In addition to tracking the starting and current positions of touch, it effectively manages different states like pulling and refreshing. When someone touches their screen, the touch-start handler (`handleTouchStart`) keeps track of where this action started while indicating that we are pulling. The position of the current touch is updated by the function called `handleTouchMove`; otherwise, if it is not handled correctly it could prevent any meaningful continue being provided from the user’s end once `handleTouchEnd` executes its logic to determine whether refresh should happen or not based on a `50px` drop threshold value. A refresh will occur when the user moves down their finger below a certain height – more than 50 pixels. In turn, useEffect hook invokes the `onRefresh` function on every refresh event where resetting back the refreshing state automatically after that has been done too. There is a pull-to-refresh message with the content of its wrapped children. `PullToRefresh` is styled using some Tailwind CSS.
 
 Output:
 
@@ -202,7 +201,7 @@ The spinner is much better and there is a 'waiting' message assuring the user th
 Inserting the pull-to-refresh feature into the core application mandates its integration into  the app’s structure, handling data retrieval,  and then presenting within the new component. This will make sure that within the general application, that feature does not break down.
 
 ### Adding the Component to the Main Application
-To begin incorporating the Pull-to-Refresh component, simply include it within your main application file as a starting point. The content you wish to refresh can be wrapped using this component after importing it into your project.
+To begin incorporating the Pull-to-Refresh component, include it within your main application file as a starting point. The content you wish to refresh can be wrapped using this component after importing it into your project.
 
 For example:
 
