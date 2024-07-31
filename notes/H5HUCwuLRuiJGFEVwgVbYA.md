@@ -96,4 +96,6 @@ team hackmd 自動 backup 完成!
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c9a23e400f9ee205e1d274cf32033abc.png)
 
 ### g0v archive RSS to Telegram
-- <https://github.com/yellowsoar/g0v_npo_hub_open_sesame> [name=yellowsoar]
+- 這是一個實驗，從 g0v archive 特定頻道的 RSS feed 篩出關鍵字，如果有符合就送訊息到 Telegram，RSS feed 的爬取間隔在實驗中有 hack 到能自定義到每秒執行。
+- Repo: <https://github.com/yellowsoar/g0v_npo_hub_open_sesame>
+- 熟悉 TelegramBot 開發的人看完 README 後應該可以自己架起來
