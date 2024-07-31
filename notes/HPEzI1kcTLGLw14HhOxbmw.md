@@ -8,6 +8,7 @@ tags: vtaiwan
 - 地點：[NPO HUB](https://g.co/kgs/ZYBr5BL) 4樓社群廚房
     - 已經跟 billion 確認借用，正在辦理借用手續
 - [KKTIX 活動](https://vtaiwan.kktix.cc/events/vtaiwaninlondon)
+- 
 
 ## 宣傳
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_60cdebe4dc6b8e9b0cde31b11f3d4c74.png)
@@ -17,6 +18,7 @@ tags: vtaiwan
 - KKTIX 頁面
 - g0v slack 
 - WFD 夥伴
+- 活動受眾：
 
 ## 流程：
 - 時長：1.5 小時（預留場地佈置的時間）
