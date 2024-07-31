@@ -143,3 +143,7 @@ When we talk about community and ecosystem, React is the framework that possesse
 
 Generally speaking, notwithstanding the uncanny resemblance existing between Seed and React among other Javascript frameworks, they differ in several aspects such as the technology they are based on, their type systems and ecosystems; thus providing developers with unique benefits and considerations.
 
+## Percy
+Percy is an advanced framework for Rust that provides a useful functional programming style for creating interactive web applications. This leads to short and clear codes simply, realizing its emphasis on declarative UI building and component-based design. Lightweight and effective, it will be good for performance-oriented and highly interactive application development. Percy aims to deliver a reliable and powerful framework to develop modern web interfaces by leveraging strong typing among other things you find in rust-like memory safety. Nevertheless, despite being less popular with fewer people using it than other function-oriented languages Percy can offer something unique which is especially attractive to those who are fond of this type of coding construction.
+
+### Strengths
