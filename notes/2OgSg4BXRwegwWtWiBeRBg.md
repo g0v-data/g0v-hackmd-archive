@@ -111,6 +111,10 @@ https://www.facebook.com/605050693/posts/pfbid038MfJ3uCWfqQSSrGfdSM8MZt6KJFZXgXy
 ## 🔸 Military 軍事侵犯
 
 - 這個類別應該指的是侵略端採用軍事體系進行各類工作，應該可以對應到明確的軍事體系部門單位，如東部戰區
+- 個別素材：
+    - 中國軍事資訊，呈現於　The Augmented Reality Team Awareness Kit (ARTAK) 
+        - https://www.linkedin.com/posts/michaelmccormack49_artak-ugcPost-7223661139405008897-vex9/
+        - https://eolianvr.com/artak
 
 ### 明確的事件
 - 第一次台海危機
