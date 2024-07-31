@@ -2,8 +2,10 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 11771 | 2024-07-31T13:56:52+08:00 |
-| [Tag(change me!)](tags/Tag%28change%20me%21%29.md) | 206 | 2024-07-31T11:42:34+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 11778 | 2024-07-31T14:53:33+08:00 |
+| [Templates](tags/Templates.md) | 252 | 2024-07-31T14:05:45+08:00 |
+| [Book](tags/Book.md) | 163 | 2024-07-31T14:05:45+08:00 |
+| [Tag(change me!)](tags/Tag%28change%20me%21%29.md) | 207 | 2024-07-31T14:05:30+08:00 |
 | [rand0mth0n](tags/rand0mth0n.md) | 7 | 2024-07-31T09:55:56+08:00 |
 | [hackathon](tags/hackathon.md) | 49 | 2024-07-31T09:55:56+08:00 |
 | [summit2024](tags/summit2024.md) | 71 | 2024-07-30T21:16:32+08:00 |
@@ -55,8 +57,6 @@
 | [bayarea](tags/bayarea.md) | 1 | 2024-07-21T16:57:48+08:00 |
 | [g0v-siliconvalley](tags/g0v-siliconvalley.md) | 2 | 2024-07-21T16:57:48+08:00 |
 | [amo](tags/amo.md) | 4 | 2024-07-20T15:03:13+08:00 |
-| [Templates](tags/Templates.md) | 251 | 2024-07-20T03:40:05+08:00 |
-| [Book](tags/Book.md) | 162 | 2024-07-20T03:40:05+08:00 |
 | [大電奉還](tags/%E5%A4%A7%E9%9B%BB%E5%A5%89%E9%82%84.md) | 1 | 2024-07-18T14:21:47+08:00 |
 | [energy](tags/energy.md) | 6 | 2024-07-18T14:21:47+08:00 |
 | [logistics](tags/logistics.md) | 3 | 2024-07-16T19:55:00+08:00 |
