@@ -194,7 +194,7 @@ Output:
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_da22ed63a91ba2defa4ce5e04badb4e6.gif)
 
-The spinner is much better and there is a 'waiting' message assuring the user that the page is being refreshed. But there is still more work for us to do on the application for example,  we will insert the pull-to-refresh feature into the core application and we still need to include simple data on the application (a numbered list from 1-0) and then when refreshed it displays the list up to 49. All of these will be done in the next sections.
+The spinner is much better and there is a 'waiting' message assuring the user that the page is being refreshed. But there is still more work for us to do on the application for example,  we will insert the pull-to-refresh feature into the core application and we still need to include simple data on the application (a numbered list from 1-10) and then when refreshed it displays the list up to 49. All of these will be done in the next sections.
 
 
 ## Integrating the Pull-to-Refresh Component
