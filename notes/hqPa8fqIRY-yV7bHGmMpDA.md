@@ -208,6 +208,15 @@ const QuoteComponent = () => {
 
 export default QuoteComponent;
 ```
+Explanation:
+`handleTouchStart` is the function that records the initial touch position when a user starts pulling down. The initial Y position of the move is set as `startY` and `isPulling` is set to `true` indicating that some action of pulling is going on. `handleTouchMove` on the other hand updates currentY with the current Y position where a user still pulls down. It keeps track of how far they have pulled it down. The `handleTouchEnd` function checks whether or not the user has dragged down enough (more than 50 pixels) to cause a refresh. If that is true, it makes `isRefreshing` `true`; this then causes `onRefresh` function sent as a property to be carried out. When the refresh is over, the `pulling` states will be cleared up.
+
+Each time there is an attempt to refresh, it triggers the `handleRefresh` function. This function is designed to get a fresh quote using `fetchQuote` and alters the background color using `changeBackgroundColor`. The `changeBackgroundColor` method picks out one random color among some pre-defined colour that has been structured as Tailwind CSS classes and assigns that color to the background state.
+
+The main content of the `QuoteComponent` is wrapped inside the `PullToRefresh` component. This component pulls down to refresh the page, it is connected with the `handleRefresh` function by passing this `onRefresh` prop to it. This makes sure that whenever someone refreshes the screen, every time they see a new quote, and change of background color would occur.
+
+This method has allowed us to create a seamless pull-to-refresh feature, which enhances user experience through dynamic updates of the quote and background color thus making the app interactive and visually attractive.
+
 
 
 
