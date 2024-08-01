@@ -5,15 +5,11 @@
 目錄
 [TOC]
 :::
-EF07D011D428
-taoyuanshihmen60th.dreamcity.studio
+
 水庫園區景點
 https://web.wra.gov.tw/shihmen/cp.aspx?n=7640
 台灣小百岳
 https://catyc.pixnet.net/blog/post/63581416-%E5%8F%B0%E7%81%A3%E5%B0%8F%E7%99%BE%E5%B2%B3
-
-
-https://www.crazygames.com/game/solar-smash
 
 Easy Note Origami 便條摺學
 https://www.youtube.com/@EasyNoteOrigami/videos
@@ -22,11 +18,7 @@ https://www.youtube.com/@EasyNoteOrigami/videos
 https://www.i-gamer.net/play/21299.html
 Google 遊戲
 https://web.jsps.kh.edu.tw/googlegame/
-自然故事花園4
-https://drive.google.com/drive/folders/1p4xh2eRc8tLJGkaa-EMv8uSFRRAal_ob?usp=drive_link
-https://www.i-gamer.net/play/21254.html
-https://www.youtube.com/watch?v=h11GPB9J5oA
-https://www.youtube.com/watch?v=R6-Oz8gSIyQ
+
 #### 常用連結
 打字練習1    https://worldofkeyboards.com/bopomofo
 打字練習2    https://typing.tw
@@ -50,12 +42,13 @@ https://poki.com/zh#
 
 
 #### Chrome Plugin
+AdGuard 廣告封鎖器
 https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg
+uBlock Origin
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+WOT
 https://chrome.google.com/webstore/detail/wot-website-security-safe/bhmmomiinigofkjcapegjjndpbikblnp
 
 #### Ken暫存
-https://www.youtube.com/watch?v=A3Yx35KrSN0
-
-https://learn.microsoft.com/zh-tw/power-bi/visuals/desktop-ribbon-charts?tabs=powerbi-desktop
-https://learn.microsoft.com/zh-tw/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a
+中華隊靜水輕艇好手賴冠傑2023亞運金牌
+https://www.youtube.com/watch?v=VfpQ2yRhrMs
