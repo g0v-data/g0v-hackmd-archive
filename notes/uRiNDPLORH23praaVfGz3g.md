@@ -24,7 +24,7 @@ tags: summit2024
 
 討論：
 - CC 授權是分圖文嗎？
-- 圖上面有文要怎麼授權？
+    - 圖上面有文要怎麼授權？
 - 雲端都是用連結的，未來掉連結怎麼辦？
     - 覺得可以挑有用的素材上 GitHub
     - 產出物管理表還是可以留著，但是就不保證上面的內容可以撐很久（欸）[name=RS]
@@ -54,6 +54,13 @@ tags: summit2024
     - [g0v 小插圖 CC BY SA Yi - Google 雲端硬碟](https://drive.google.com/drive/folders/1jl0OZK3FoG-UF_dNJkyCnsTI5NP8rZuz)
 - tofus 做的設計共筆 [g0v 歷史設計素材整理](https://g0v.hackmd.io/@tofus/prot0type/%2FsO4KSRYiRzmqZwBiSw3NLg)
 
+結論：
+* logo、宣傳摺頁等最重要的內容可以在官網做一頁
+* 其他的素材看要怎麼呈現（可以連到各自的共筆、或是雲端？GitHub 備份一份？）
+
+#### 要放上 Summit 官網上的素材
+- 可參考 [年會紀念品 Summit Souvenir | g0v Summit 2024](https://summit.g0v.tw/2024/souvenir/) 網站，開一個 https://summit.g0v.tw/2024/opendesign 頁面
+- 
 
 結論：
 
