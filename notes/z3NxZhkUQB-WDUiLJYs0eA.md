@@ -101,9 +101,7 @@ acct_config = trade_client.get_account_configurations()
     'suspend_trade': False, 是否暫停交易
     'trade_confirm_email': <TradeConfirmationEmail.ALL: 'all'>} 交易確認郵件設置
 
-```
-
-```
+#更改帳號配置
 # set account configuration
 # ref. https://docs.alpaca.markets/reference/patchaccountconfig-1
 req = acct_config
@@ -116,7 +114,9 @@ req = acct_config_new
 req.fractional_trading = not req.fractional_trading # toggle fractional trading
 acct_config_reverted = trade_client.set_account_configurations(req)
 display(acct_config_reverted)
+```
 
+```
 # get list of assets which are us_equity (default), active, and in NASDAQ
 # ref. https://docs.alpaca.markets/reference/get-v2-assets-1
 req = GetAssetsRequest(
@@ -126,6 +126,41 @@ req = GetAssetsRequest(
 )
 assets = trade_client.get_all_assets(req)
 assets[:2]
+
+#範例輸出
+[{   'asset_class': <AssetClass.US_EQUITY: 'us_equity'>, 資產類別
+     'attributes': [], 
+     'easy_to_borrow': False, 是否容易借入
+     'exchange': <AssetExchange.NASDAQ: 'NASDAQ'>, 交易所
+     'fractionable': False, 是否可進行零股交易
+     'id': UUID('77af178f-0368-4585-b342-acf8e29a11ea'),
+     'maintenance_margin_requirement': 100.0, 維持保證金要求
+     'marginable': False, 是否可用於保證金交易
+     'min_order_size': None, 最小訂單大小
+     'min_trade_increment': None, 最小交易增量
+     'name': 'Shuttle Pharmaceuticals Holdings, Inc. Common Stock', 資產名稱
+     'price_increment': None, 價格增量
+     'shortable': False, 是否可做空
+     'status': <AssetStatus.ACTIVE: 'active'>, 資產狀態
+     'symbol': 'SHPH', 股票代碼
+     'tradable': False},是否可交易
+     
+ {   'asset_class': <AssetClass.US_EQUITY: 'us_equity'>,
+     'attributes': [],
+     'easy_to_borrow': False,
+     'exchange': <AssetExchange.NASDAQ: 'NASDAQ'>,
+     'fractionable': False,
+     'id': UUID('21696e64-2e84-41de-8c88-dbf542d72cef'),
+     'maintenance_margin_requirement': 100.0,
+     'marginable': False,
+     'min_order_size': None,
+     'min_trade_increment': None,
+     'name': 'ICZOOM Group Inc. Class A Ordinary Shares',
+     'price_increment': None,
+     'shortable': False,
+     'status': <AssetStatus.ACTIVE: 'active'>,
+     'symbol': 'IZM',
+     'tradable': False}]
 ```
 
 
