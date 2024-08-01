@@ -90,6 +90,9 @@ Despite its strong points, Seed is not as advanced as other frameworks like Yew.
 ###  Use Cases
 Single-page applications (SPAs) and other web apps that put a premium on type safety and low boilerplate best suit Seed. Simple and maintainable small to medium-sized projects are where it shines most. Developers who need to create stable applications in a fast and efficient way can use this framework since it is designed for it, therefore taking advantage of Rust’s safety features as well as its performance capabilities. In cases where reducing complexity and improving code quality are necessary, Seed is especially advantageous.
 
+### Front-end Utilization
+Seed is an alternative to using JavaScript for building web applications that are compact, typed, and free from excessive boilerplate. It adds built-in state management and client-side routing thus making it an excellent tool for developing SPA (Single Page Applications). This development framework comes up with clean APIs and smooth interactions with other Rust tools to allow for simpler codes where type safety and minimalism count the most. Apart from being small-sized, fast in operation, responsive as well as easy to maintain, this software helps you create interactive web pages within no time.
+
 ### Example Code
 Let us look at a simple counter application example using Seed:
 ```rust
@@ -147,3 +150,118 @@ Generally speaking, notwithstanding the uncanny resemblance existing between See
 Percy is an advanced framework for Rust that provides a useful functional programming style for creating interactive web applications. This leads to short and clear codes simply, realizing its emphasis on declarative UI building and component-based design. Lightweight and effective, it will be good for performance-oriented and highly interactive application development. Percy aims to deliver a reliable and powerful framework to develop modern web interfaces by leveraging strong typing among other things you find in rust-like memory safety. Nevertheless, despite being less popular with fewer people using it than other function-oriented languages Percy can offer something unique which is especially attractive to those who are fond of this type of coding construction.
 
 ### Strengths
+Percy is a front-end framework for Rust that discusses functional programming in building web applications advocating lightweightness, and expressiveness. Functional programming paradigm enables high compossibility as well as reuse thereby allowing developers create complex user interfaces using short and clear codes. The performance and efficiency have been prioritized in designing Percy applying it in the applications requiring fast, real-time updates. In addition to this, its minimalist design minimizes boiler plate code which enhances maintainability during development processes.
+
+### Limitations
+One of the drawbacks of Percy is that it lacks extensive documentation and community support. This can be a problem for developers who are new to the framework or looking for help with particular problems. In addition, Percy as a relatively young framework has less of an ecosystem compared with more established frameworks such as Yew or React. Hence, fewer third-party libraries and integrations are found in this framework which may prevent the use of some advanced features in complex projects. Besides, its functional programming and minimalistic design may not be easy for those used to traditional imperative web development styles.
+
+### Use Cases
+Percy is very much like your experimental lab which employs a more functional approach and very fast execution times while allowing video games with complex GUI or huge amounts of time series data that deserve to be presented without delay. It’s also compact since it often has to run on less powerful systems than those used in traditional desktop applications or Java-based servers. Composability helps separating concerns and declarative programming styles helpful for managing complex user interfaces and frequent modifications without losing readability or maintaining the complexity of an application.
+
+### Front-end Utilization
+Percy is using Rust and WebAssembly to create web applications that are very fast and dependable. Functional programming style enhances code reuse and facilitates composition, making it apt for developing interactive and dynamic UIs. Thanks to its bare minimal and declarative nature, Percy works best for demanding applications that make use of real-time updates or require effective DOM management capability. As a result, modern frontend tools can be combined with it allowing developers to draw strength from Rust’s safety and performance while being able to work with what they know in terms of coding methods.
+
+### Example Code
+Let us look at a simple example demonstrating how to create a basic counter application with Percy:
+
+```rust
+use percy::prelude::*;
+
+struct Model {
+    count: i32,
+}
+
+enum Msg {
+    Increment,
+    Decrement,
+}
+
+fn update(msg: Msg, model: &mut Model) {
+    match msg {
+        Msg::Increment => model.count += 1,
+        Msg::Decrement => model.count -= 1,
+    }
+}
+
+fn view(model: &Model) -> Html<Msg> {
+    html! {
+        <div>
+            <button onclick={Msg::Increment}>{ "+1" }</button>
+            <button onclick={Msg::Decrement}>{ "-1" }</button>
+            <p>{ model.count }</p>
+        </div>
+    }
+}
+
+fn main() {
+    percy::start_app::<Model, Msg>(update, view);
+}
+```
+The Model `struct` is used to keep the state of the counter in this example. For incrementing and decrementing the counter, the `Msg enum` specifies the messages. The `update` function updates the model based on messages received. The `view` function returns an HTML scaffold of the application including buttons for changing counter values and a paragraph for its display. Finally, we have the main function which initializes Percy’s application specifying its `update` function and `view` function for rendering.
+
+### Comparison with Javascript
+There are a couple of things that Percy and JavaScript frameworks such as React have in common. One is their component-based architecture and the other is their declarative user interface design. The other thing is that Percy has been built using Rust and WebAssembly which offers benefits such as strong typing for enforcing code correctness, and memory safety concerning blocking access while it runs faster because once written down the code will be compiled by performing checks at compile-time; that is executed more efficiently than any other programming language today. In comparison, JavaScript frameworks depend on dynamic typing thereby causing run-time errors thereby causing some applications to run slower than should be expected since it runs directly through a browser.
+
+Javascript structures usually have various commands/indicators; whereas, Percy uses imperative categories. Although functional parts/hooks exist in both React and its counterparts, for Percy whole design concepts reconciliation with functional programming principles promoting more flexibility and less dependence on mutable states are prioritised. The ecosystem and community support available for JavaScript frameworks is much larger and more advanced than those for using Percy alone; this provides a lot of libraries, tools, and resources on it. However, because Percy is relatively new with fewer users, its ecosystem is limited hence limiting the number of third-party integrations and support that are available.
+
+In general, Percy represents a stronger choice with its performance and security advantages, especially suitable for people who favor functional programming style, whereas web development technologies such as React provide a larger environment and social network support.
+
+## Sauron
+
+
+### Strengths
+Sauron is a light Rust framework and a Functional kind of UI Development. It is simple and efficient, offering a faster way of developing web applications. Sauron’s design allows writing and maintaining code easily with the help of a clear and concise API. The functional programming model allows for greater composability and predictability in building user interfaces, which makes Sauron fit for developers who prefer a simple style.
+
+### Limitations
+Sauron is a more straightforward and efficient option but it has fewer features compared to other frameworks in Rust like Yew and Seed. This could make it difficult to use for complex applications that require additional functionalities or interface with other libraries. The smaller community of Sauron means that there are fewer resources, libraries, and tools available to assist developers. This could be problematic for some developers who are working on bigger or more complex projects.
+
+### Use Cases and Front-end Utilization
+Sauron is a remarkable fit for minimalist web applications and educational projects. For anyone seeking to understand web development concepts or functional UIs, there is no better choice than this platform; it embraces simplicity alongside functional programming. Besides this, the lightweight of Sauron makes it perfect for resource-constrained projects that require high performance and efficiency.
+
+Sauron is best recognized for developing light and fast web user interfaces in the front-end programming sphere. The primary objective function of its design is to make sure that programmers can create maintainable and extensible UIs. Furthermore, Sauron provides high level rendering and virtual DOM technique depending on which even those applications are with limited resource capacity but perform so well in terms of speed . Therefore, it is ideal for small-scale projects as well as prototypes or other programs aimed at being simple yet effective at the same time.
+
+### Example Code
+Let us look at an example of a simple counter application using Sauron:
+```rust
+use sauron::prelude::*;
+
+struct Model {
+    count: i32,
+}
+
+enum Msg {
+    Increment,
+    Decrement,
+}
+
+impl Application<Msg> for Model {
+    fn update(&mut self, msg: Msg) -> Cmd<Self, Msg> {
+        match msg {
+            Msg::Increment => self.count += 1,
+            Msg::Decrement => self.count -= 1,
+        }
+        Cmd::none()
+    }
+
+    fn view(&self) -> Node<Msg> {
+        div(
+            [],
+            [
+                button([on_click(|_| Msg::Increment)], ["+1"]),
+                button([on_click(|_| Msg::Decrement)], ["-1"]),
+                p([], [text(self.count.to_string())]),
+            ],
+        )
+    }
+}
+
+fn main() {
+    Program::mount_to_body(Model { count: 0 });
+}
+```
+In this example, the state of the application is contained in the Model `struct` and it holds only the counter's value. For incrementing and decrementing purposes, there are messages defined in `Msg enum`. The received messages will cause an update on the `state` through a function called `update`. To view such changes, one would need to use the `view` function which returns an HTML structure, where buttons to change the counter value exist together with a paragraph displaying it. To mount to the body of an HTML document, main function initializes the Sauron application. This example displays Sauron’s simple way of building web UI without any additional coding requirements and having a clear functional approach.
+
+### Comparison with Javascript Frameworks
+Both Sauron and JavaScript frameworks like React have a focus on creating user interfaces, yet they take different approaches. Sauron utilizes Rust’s strict data types and functional programming paradigms to offer an effective and portable system that guarantees safety during compilation and performance via WebAssembly. On the other hand, React is considered the more grown-up version since it is full of functions compared to Sauron. It also comes with wide community that offers a lot of third party resources hence becoming feature-rich.
+
+However, while React has many complex application management tools including libraries, Sauron remains simple and effective for small-scale projects or education respectively. In comparison to react which offers an option between function or class-based components that are flexible in use, Sauron embraces functional programming thus allowing predictability and making it more composable. Henceforth, Sauron remains strong support for the developers who need something that fits them in simplicity and performance incorporating the advantages of rust while it’s still hard to beat react at all levels due to its larger ecosystem than any other framework.
