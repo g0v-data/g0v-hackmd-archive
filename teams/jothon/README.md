@@ -2,6 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [ctpbook_en](../../notes/RDqfChU1TayMGMF8RY3kiQ.md) | g0v Civic Tech Project & Community Handbook | 2023-05-16T19:48:10+08:00 | Book mode |
+| [ctpbook_jp](../../notes/CZqvO0aDQmGm2fEMBxMQKQ.md) | g0v シビックテックプロジェクトとコミュニティの手引き | 2024-07-24T10:56:37+08:00 | Book mode |
 | [AI_Grant_20240803](../../notes/15hJzFLZQxKJCklHuh6cSw.md) | GenAI @COSCUP 2024主題論壇與專案實作成果分享 | 2024-07-05T18:14:48+08:00 | View mode |
 | [community99-2407](../../notes/wONZvhHVSluE8IEq9x7n_Q.md) | g0v 社群每月九分鐘 - 2024/7 | 2024-07-01T14:23:28+08:00 | View mode |
 | [hsiaothon](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 社群 @ NPO Hub 小松果 | 2019-09-24T18:12:17+08:00 | Book mode |
@@ -73,7 +75,6 @@
 | [Sk9f2CxBn](../../notes/aqy-4gAESNi0uHlVxUHb-w.md) | 1-1 What is g0v? ｜ 公民科技專案手冊｜Civic Tech Project Handbook | 2023-05-16T18:33:53+08:00 | View mode |
 | [rkuOO0-Sh](../../notes/k4yOPBVMTMupGlxxomtXQg.md) | Credit List | 2023-05-17T12:30:40+08:00 | View mode |
 | [HkEOYD_An](../../notes/uaZ8cbNgQsOj_FKp9yNTPQ.md) | 4-2 The Impact of East and South Asian Governments toward Civic Tech Development and the Relationship Between Them | 2023-09-08T17:29:15+08:00 | View mode |
-| [ctpbook_en](../../notes/RDqfChU1TayMGMF8RY3kiQ.md) | g0v Civic Tech Project & Community Handbook | 2023-05-16T19:48:10+08:00 | Book mode |
 | [S1yyFPuCn](../../notes/40J7QJDWRzyyhyCD4foH0g.md) | 4-1 Regional Diversity and Variations in East and South Asia | 2023-09-08T17:26:46+08:00 | View mode |
 | [Sy2oOqnMa](../../notes/gsvUXi1gQmiQ_v0Jiga8tA.md) | Introduction ｜Civic Tech Project Handbook | 2023-10-30T10:44:51+08:00 | View mode |
 | [S1LEA0dGp](../../notes/EZBqXpWkSPqzPUdFMZj6RA.md) | Copyright Page | 2023-10-27T14:52:29+08:00 | View mode |

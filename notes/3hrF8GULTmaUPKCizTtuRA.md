@@ -150,6 +150,13 @@ https://www.facebook.com/photo/?fbid=879108550925132&set=a.645114764324513
     - 放大危機：利潤下降+私人/公債泡沫化
     - 新日常：嚴重危機更頻繁發生，發生問題後仍會先補貼雲端資本家
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3422fa9f5416a20700deec41aa95fb1a.jpg)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_06c802b3adeb38b1274cdddbb98d6f95.jpg)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e9826d1efaf7179cf7f3c537062a5ff5.jpg)
+
+
+
+
 Slavoj Zizek:既然我們所有人都身陷困境，那這本書顯然適合適合所有人
 ## 提問/思考
 * 問題
