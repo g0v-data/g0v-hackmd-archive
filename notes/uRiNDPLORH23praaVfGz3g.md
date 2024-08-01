@@ -13,7 +13,6 @@ tags: summit2024
 
 ### 討論事項
 
-
 #### 設計物清點
 
 相關資料：[設計小組產出物管理表](https://docs.google.com/spreadsheets/d/1-_68KVo8wt_-6_cmGG6lKIxHJCwl-5t490omnFF5kWY/edit?gid=102154164#gid=102154164)
@@ -94,6 +93,8 @@ tags: summit2024
     - 本屆 Summit 設計品有部分在國道、在香蕉園、在廟會中途、在日出時分產出
     - 底下放上購買商品連結與捐款頁面
 
+> 捐款成功的 loading 動畫要放這個：
+> ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_303dbebd369a621c798c2d5675fc20e2.gif =x240) [name=RS]
 
 
 結論：
@@ -101,3 +102,7 @@ tags: summit2024
 * 商業價值較高者（鏡頭、衣服）以 CC BY-SA 釋出
 * 涉及贊助商部分（摺頁）以 CC BY-ND 釋出
 * 多人貢獻部分（T恤、影片）以「2024 宣傳組」、「2024 工作人員」為名
+
+### 待辦事項
+
+- 下次放輕鬆來做 branding

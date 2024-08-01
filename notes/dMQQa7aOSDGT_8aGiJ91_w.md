@@ -1,5 +1,5 @@
 <p dir="ltr">V8CLUB CLOUD - Tải game V8 CLUB iOS | Android | APK mới nhất</p>
-<p dir="ltr"><img src="https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/453320254_122093460722462146_9004293444464710672_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=cc71e4&amp;_nc_ohc=Hg9L9lBTE-cQ7kNvgFZ57kv&amp;_nc_ht=scontent.fhan14-3.fna&amp;oh=00_AYBRR2ywjBHPzC_vRDIvrAIVIXRj7E2wfU7tsGdk4YzrJQ&amp;oe=66B0B5AD" alt="C&oacute; thể l&agrave; h&igrave;nh ảnh về văn bản" /></p>
+<p dir="ltr"><img src="https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/453414938_122094090374462146_6090068185428170884_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=cc71e4&amp;_nc_ohc=IJb9qLb2iXoQ7kNvgE6ofjd&amp;_nc_ht=scontent.fsgn2-3.fna&amp;oh=00_AYAGfOiPvh3_ZzUTe4L4YLqVaKvIrBMsL_aFGhrQNN77_g&amp;oe=66B148AA" alt="C&oacute; thể l&agrave; h&igrave;nh ảnh về văn bản" width="744" height="283" /></p>
 <p dir="ltr"><a href="https://v8club.cloud/">tải v8club</a>- Trang web ch&iacute;nh thức của cổng game V8 CLUB - Chuy&ecirc;n cung cấp link tải app game V8 cho iPhone, Android, file APK an to&agrave;n, ch&iacute;nh chủ 100%.</p>
 <p dir="ltr">#v8club #v8clubcloud #taiv8club #taiappv8club #taigamev8club</p>
 <p dir="ltr">Th&ocirc;ng Tin Li&ecirc;n Hệ:</p>
