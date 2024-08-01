@@ -53,14 +53,51 @@ tags: summit2024
 - Yi 畫的圖
     - [g0v 小插圖 CC BY SA Yi - Google 雲端硬碟](https://drive.google.com/drive/folders/1jl0OZK3FoG-UF_dNJkyCnsTI5NP8rZuz)
 - tofus 做的設計共筆 [g0v 歷史設計素材整理](https://g0v.hackmd.io/@tofus/prot0type/%2FsO4KSRYiRzmqZwBiSw3NLg)
+- 關東旗
+- 時間到手板
 
 結論：
 * logo、宣傳摺頁等最重要的內容可以在官網做一頁
 * 其他的素材看要怎麼呈現（可以連到各自的共筆、或是雲端？GitHub 備份一份？）
 
 #### 要放上 Summit 官網上的素材
-- 可參考 [年會紀念品 Summit Souvenir | g0v Summit 2024](https://summit.g0v.tw/2024/souvenir/) 網站，開一個 https://summit.g0v.tw/2024/opendesign 頁面
-- 
+
+:::info
+可參考 [年會紀念品 Summit Souvenir | g0v Summit 2024](https://summit.g0v.tw/2024/souvenir/) 網站，開一個 https://summit.g0v.tw/2024/opendesign 頁面
+:::
+
+- 文宣
+    - Badge 名牌
+    - 摺頁
+    - 海報
+    - 技能貼紙
+    - 語言貼紙
+    - 餐券貼紙
+    - Unconference 提案便箋
+    - 閉幕影片
+- 設計素材
+    - 主視覺 Banner
+    - 穿山甲
+    - Summit 2024 場地配置圖
+- 紀念品
+    - 鏡頭保護蓋、防窺蓋
+    - T恤
+- 指標系統
+    - 議程表
+    - 拍照背板
+    - 手拿版
+    - 手舉牌（接駁車、OPass、UD Talk）
+    - 小桌板
+- ~~Meet the Designer~~
+    - ~~生東及西~~
+    - ~~對齊狂魔~~
+    - 本屆 Summit 設計品有部分在國道、在香蕉園、在廟會中途、在日出時分產出
+    - 底下放上購買商品連結與捐款頁面
+
+
 
 結論：
-
+* 原則上以 CC BY 4.0 釋出，可在 Slack 請大家追認
+* 商業價值較高者（鏡頭、衣服）以 CC BY-SA 釋出
+* 涉及贊助商部分（摺頁）以 CC BY-ND 釋出
+* 多人貢獻部分（T恤、影片）以「2024 宣傳組」、「2024 工作人員」為名
