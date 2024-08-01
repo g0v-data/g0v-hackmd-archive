@@ -1,8 +1,12 @@
 # How to Implement Pull-to-refresh in React using Tailwind CSS
 
-Mobile and web applications utilize the Pull-to-Refresh feature. When it comes to updating a page or view, users are allowed to do it by dragging it downwards from the top of the page or content area which then resembles an actual physical effort of pulling something down thus making it intuitive and user-friendly. The application segment identifies this movement and then initiates data refresh; meaning the content displayed is updated with current information available.
+In contemporary web devices, giving an instinctive and responsiveness to users is essential. A common attribute utilized for improving interactivity is the pull-to-refresh option. Most mobile and web applications have this feature which allows for the reloading of on-screen materials by pulling down the screen. Including pull-to-refresh objects in your web app makes it appear more vibrant and attractive.
 
-By mixing [React](https://react.dev/) with [Tailwind CSS](https://tailwindcss.com/), a pull-to-refresh element of high interactivity and attractiveness could be created to improve user experience while ensuring that users are focused on the app.
+This article serves as a guide in creating an application for quotations via the use of React and Tailwind CSS. Each time you do it, you will pull down on to refresh and there will be shown an entirely new quote while the background color also changes by itself. React is known as being one of the most significant JavaScript libraries used in making user interfaces whereas TailwindCSS happens to be one of those CSS frameworks that are based on utilities first that assist in simplifying and keeping their application styles from contradicting each other completely.
+
+Here is the output to expect after going through this guide:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5c6f1748780b387dfd1af6973ca52b74.gif)
+The GIF above looks interesting, right? Now let's get started with the implementation.
 
 ## Project Setup
 To have a React app, we need to begin by following a few steps that will enable us to have an environment that supports clean coding practices and is effective too. In this case, the initial stage would be employing `create-react-app` which is a product developed by [Facebook](https://www.facebook.com/) for this process. The default settings and essential build configurations used with this tool ensure that configuring your project becomes easier while saving you much more time and effort in such endeavors.
@@ -54,13 +58,14 @@ When our React app and Tailwind CSS are ready to run, it’s time to move forwar
 First, we will create the quote application’s user interface by utilizing Tailwind CSS. The primary layout will comprise a quote display container and a refresh button or pull-to-refresh zone. Tailwind CSS affords us a simple and effective way to achieve a sleek responsive design. First, we’ll have an elementary arrangement displaying the quote at its center. The quoted text will be handpicked such that it is easy to read by enlarging it slightly as well as adding more space around it. Also by default there shall be some background color which would disappear once refreshed.
 
 For example:
+
 ```javascript
-import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+import React, { useState, useEffect } from "react";
+import axios from "axios";
 
 const QuoteComponent = () => {
-  const [quote, setQuote] = useState('');
-  const [backgroundColor, setBackgroundColor] = useState('bg-white');
+  const [quote, setQuote] = useState("");
+  const [backgroundColor, setBackgroundColor] = useState("bg-white");
 
   useEffect(() => {
     fetchQuote();
@@ -68,10 +73,10 @@ const QuoteComponent = () => {
 
   const fetchQuote = async () => {
     try {
-      const response = await axios.get('https://api.quotable.io/random');
+      const response = await axios.get("https://api.quotable.io/random");
       setQuote(response.data.content);
     } catch (error) {
-      console.error('Error fetching quote:', error);
+      console.error("Error fetching quote:", error);
     }
   };
 
@@ -81,13 +86,21 @@ const QuoteComponent = () => {
   };
 
   const changeBackgroundColor = () => {
-    const colors = ['bg-red-500', 'bg-blue-500', 'bg-green-500', 'bg-yellow-500', 'bg-purple-500'];
+    const colors = [
+      "bg-or-500",
+      "bg-blue-500",
+      "bg-green-500",
+      "bg-yellow-500",
+      "bg-purple-500",
+    ];
     const randomColor = colors[Math.floor(Math.random() * colors.length)];
     setBackgroundColor(randomColor);
   };
 
   return (
-    <div className={`min-h-screen flex items-center justify-center ${backgroundColor}`}>
+    <div
+      className={`min-h-screen flex items-center justify-center ${backgroundColor}`}
+    >
       <div className="p-8 max-w-md mx-auto bg-white shadow-lg rounded-lg">
         <p className="text-xl font-semibold text-center">{quote}</p>
         <button
@@ -115,9 +128,10 @@ To achieve the pull-to-refresh mechanism, we shall employ touch event handlers c
 We will include event handlers for touch events first to detect when the user pulls down the screen. These events are onTouchStart, onTouchMove and onTouchEnd. With these handlers, we will be able to tell when the user has pulled down enough to activate refresh.
 
 For example:
+
 ```javascript
-import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+import React, { useState, useEffect } from "react";
+import axios from "axios";
 
 const PullToRefresh = ({ children, onRefresh }) => {
   const [isPulling, setIsPulling] = useState(false);
@@ -162,8 +176,8 @@ const PullToRefresh = ({ children, onRefresh }) => {
 };
 
 const QuoteComponent = () => {
-  const [quote, setQuote] = useState('');
-  const [backgroundColor, setBackgroundColor] = useState('bg-white');
+  const [quote, setQuote] = useState("");
+  const [backgroundColor, setBackgroundColor] = useState("bg-white");
 
   useEffect(() => {
     fetchQuote();
@@ -171,10 +185,10 @@ const QuoteComponent = () => {
 
   const fetchQuote = async () => {
     try {
-      const response = await axios.get('https://api.quotable.io/random');
+      const response = await axios.get("https://api.quotable.io/random");
       setQuote(response.data.content);
     } catch (error) {
-      console.error('Error fetching quote:', error);
+      console.error("Error fetching quote:", error);
     }
   };
 
@@ -184,14 +198,22 @@ const QuoteComponent = () => {
   };
 
   const changeBackgroundColor = () => {
-    const colors = ['bg-red-500', 'bg-blue-500', 'bg-green-500', 'bg-yellow-500', 'bg-purple-500'];
+    const colors = [
+      "bg-red-500",
+      "bg-blue-500",
+      "bg-green-500",
+      "bg-yellow-500",
+      "bg-purple-500",
+    ];
     const randomColor = colors[Math.floor(Math.random() * colors.length)];
     setBackgroundColor(randomColor);
   };
 
   return (
     <PullToRefresh onRefresh={handleRefresh}>
-      <div className={`min-h-screen flex items-center justify-center ${backgroundColor}`}>
+      <div
+        className={`min-h-screen flex items-center justify-center ${backgroundColor}`}
+      >
         <div className="p-8 max-w-md mx-auto bg-white shadow-lg rounded-lg">
           <p className="text-xl font-semibold text-center">{quote}</p>
           <button
@@ -215,35 +237,10 @@ Each time there is an attempt to refresh, it triggers the `handleRefresh` functi
 
 The main content of the `QuoteComponent` is wrapped inside the `PullToRefresh` component. This component pulls down to refresh the page, it is connected with the `handleRefresh` function by passing this `onRefresh` prop to it. This makes sure that whenever someone refreshes the screen, every time they see a new quote, and change of background color would occur.
 
-This method has allowed us to create a seamless pull-to-refresh feature, which enhances user experience through dynamic updates of the quote and background color thus making the app interactive and visually attractive.
+Output:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5c6f1748780b387dfd1af6973ca52b74.gif)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The GIF shows the pull-to-refresh feature of our quote app working. At first, there is just an orange background with a quote on the screen. When a person pulls down the screen, an indicator comes out, indicating the probability of refreshment. As soon as you remove your fingers after pulling it down completely, it fetches a new quote from its server and replaces the old one on the display. The background color also changes at the same time to show that what is there has been updated. This kind of lively interaction created using React and Tailwind CSS signifies an appealing and responsive user satisfaction.
 
 ## Conclusion
 The Pull-to-refresh feature is critical to a better experience in web applications while keeping user interaction alive. Developers can easily achieve this by following the steps to use them uniformly across various platforms. This clarifies that elegant design, consistent testing practices, and high performance are vital considerations for building an application today.
