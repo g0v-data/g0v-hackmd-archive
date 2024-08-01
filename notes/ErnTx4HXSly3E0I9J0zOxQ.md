@@ -44,26 +44,27 @@ https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X
 歡迎來幫忙用 Google 地圖，計算世界各地已施作巷弄車流轉向的路口寬度，已知案例：巴塞隆納、維也納、柏林、Leipzig、Münster、Potsdam、西雅圖
 案例線上地圖：https://maps.app.goo.gl/X4C3X5fb5rMY1q5C6
 
-Münster, Sternstraße & Heisstraße
+### Münster, Sternstraße & Heisstraße
 - Google Map：https://maps.app.goo.gl/SmdqXmQbMaRDMv448
 - 改造前，道路尺寸與車道數量
     - 可能要看歷史街景？
     - 南北向道路：
         - 兩側建築物與建築物之間的寬度：11 公尺
-        - 描述是否有人行道、停車格、車道、路口人行道外推等配置：
+        - 描述是否有人行道、停車格、車道、路口人行道外推等配置：待查看
     - 東西向道路：
         - 兩側建築物與建築物之間的寬度：14 公尺
-        - 描述是否有人行道、停車格、車道、路口人行道外推等配置：
+        - 描述是否有人行道、停車格、車道、路口人行道外推等配置：待查看
 - 改造後，道路尺寸與車道數量
     - 東北側：
         - 汽車行駛容量：單行道，一線車道
-        - 兩側人行道
-        - 兩側停車格
+        - 兩側設有人行道
+        - 兩側設有停車格
     - 西南側：
         - 汽車行駛容量：單行道，一線車道
-        - 兩側人行道
-        - 兩側停車格
+        - 兩側設有人行道
+        - 兩側設有停車格
     - 留設區最窄處的寬度：至少有 2.5 公尺 (使用 Google Map 測量工具推測)
+
 Potsdam, Gutenbergstraße Jägerstraße 
 - Google Map：
 - 改造前，道路尺寸與車道數量
