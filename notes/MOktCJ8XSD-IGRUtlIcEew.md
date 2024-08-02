@@ -6,7 +6,7 @@ tags: GIS
 
 ## [🚩 活動報名網址 🚩](https://g0v.hackmd.io/@chewei/SykpikzuA)
 
-## 各場次活動資訊
+## 各場次活動詳細資訊
 - [8/18 週日上午 🌳<br>水綠街道與風的走廊](https://g0v.hackmd.io/vNZa-WCyTKyBk9mTmyqS8w)
 - [9/21 週六上午 👋<br>穿越時代的學習路徑](https://g0v.hackmd.io/IR9aZ0DBTqO7eZFOKZazdQ?view)
 
