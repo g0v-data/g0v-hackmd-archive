@@ -166,4 +166,28 @@ assets[:2]
      'tradable': False}]
 ```
 
+## 下單
+```
+symbol = "SPY"
+
+#簡易下單
+req = MarketOrderRequest(
+    symbol = symbol, #購買標的
+    # 則一
+    # qty = 5.5, #購買多少單位
+    # notional = 1.11, #購買多少金額
+    limit_price = 550.25, #限價單
+    side = OrderSide.BUY, #買單
+    type = OrderType.MARKET, #型態(市價單)
+    time_in_force = TimeInForce.DAY, #訂單有效期限
+    stop_price = 600 #結單點位
+    take_profit = TakeProfitRequest(limit_price=600),#設置止盈位置
+    stop_loss = StopLossRequest(stop_price=300)#設置止損位置
+)
+res = trade_client.submit_order(req)
+
+
+
+```
+
 

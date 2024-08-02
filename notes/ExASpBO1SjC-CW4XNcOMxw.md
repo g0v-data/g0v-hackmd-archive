@@ -1,0 +1,3 @@
+EEA family permit
+The EEA Family Permit is a UK visa that allows non-EEA family members of EEA nationals to join or accompany their EEA national family member in the UK. It grants the holder the right to live and work in the UK and is typically valid for up to six months. Start your journey towards a brighter future today with our knowledgeable and compassionate team.
+https://www.immigrationsolicitors4me.co.uk/eea-family-permit.php
