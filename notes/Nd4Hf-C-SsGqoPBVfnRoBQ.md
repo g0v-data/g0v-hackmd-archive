@@ -45,9 +45,9 @@ tags:
 
 Dear Kai&Jocbim, 
 
-Thanks for the detailed information and discussion with us last week. It is really helpful for our discussion. After discussion with vTaiwan community and g0v Jothon Taskforce, we think g0v Jothon can be a better alternative to share their experience of Strengthening Democracy: the Encouraging Greater Participation – Combating Polarization. 
+Thanks for the detailed information and discussion with us last week. After discussion with vTaiwan community and g0v Jothon Taskforce, we think g0v Jothon will be a better speaker to share Taiwan's experience of Strengthening Democracy: the Encouraging Greater Participation – Combating Polarization. 
 
-The “Jothon” organizers started organizing the g0v hackathon since 2012, and officially formed the “Jothon” taskforce in 2014. g0v Jothon taskforce maintains infrastructure for g0v community, hosting bi-monthly hackathon in Taiwan. In 2020, educational project [“Sch001”](https://sch001.g0v.tw) was launched to rethink the role of the school from scratch, trying to link the civic-tech community and schools and turning the civic tech experience into educational resource. In 2023, Jothon published [g0v Civic-Tech Project and Community Handbook](https://g0v.hackmd.io/@jothon/ctpbook_en/https%3A%2F%2Fg0v.hackmd.io%2F%40jothon%2Fctpbook_en). 
+Most members of “Jothon” taskforce are founding members of g0v, who started organizing the g0v hackathon since 2012. The taskforce maintains infrastructure for g0v community, hosting bi-monthly hackathon in Taiwan. In 2020, educational project [“Sch001”](https://sch001.g0v.tw) was launched to rethink the role of the school from scratch, trying to link the civic-tech community and schools and turning the civic tech experience into educational resource. In 2023, Jothon published [g0v Civic-Tech Project and Community Handbook](https://g0v.hackmd.io/@jothon/ctpbook_en/https%3A%2F%2Fg0v.hackmd.io%2F%40jothon%2Fctpbook_en). 
 
 We deeply appreciate your understanding and are excited about the potential synergies this collaboration can bring. Please let us know if you require any further information or have any questions regarding this transition. I also cc'ed g0v Jothon team in this mail. 
 
