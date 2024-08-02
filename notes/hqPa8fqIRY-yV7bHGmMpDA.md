@@ -7,6 +7,7 @@ This article serves as a guide in creating an application for quotations via the
 Here is the output to expect after going through this guide:
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5c6f1748780b387dfd1af6973ca52b74.gif)
+
 The GIF above looks interesting, right? Now let's get started with the implementation.
 
 ## Project Setup
@@ -118,7 +119,7 @@ const QuoteComponent = () => {
 export default QuoteComponent;
 ```
 Explanation:
-In this case, to reveal a new quotation every moment we refresh it, we require either an API or a defined quotes list from which we can draw our quotes. To perform these tasks, we will work with react’s `useState` to manage the current quotation and background color as well. The `effect` hook will produce a random quote when the component is mounted. Here in the above example, the `Axios` library is being used to retrieve a random quote from the `Quotable` API via an HTTP request method named `fetchQuote()`. This function enables making an API request that pulls fresh quotations back also updating its state.
+In this case, to reveal a new quotation every moment we refresh it, we require either an API or a defined quotes list from which we can draw our quotes. To perform these tasks, we will work with react’s `useState` to manage the current quotation and background color as well. The `effect` hook will produce a random quote when the component is mounted. Here in the above example, the [Axios](https://axios-http.com/docs/intro) library is being used to retrieve a random quote from the `Quotable` API via an HTTP request method named `fetchQuote()`. This function enables making an API request that pulls fresh quotations back also updating its state.
 
 When the user does the pull to refresh command or clicks on the refresh button, then the `handleRefresh` function gets called. This is so because it calls `fetchQuote` to get another quote and `changeBackgroundColor` to update the background color randomly. The `changeBackgroundColor` function selects one color randomly from a list of pre-defined Tailwind CSS `color` classes and updates the state with this new background color. So that always when we refresh there will be not only a new quote but also different colors evolving dynamically in the background which makes it pleasant looking.
 
