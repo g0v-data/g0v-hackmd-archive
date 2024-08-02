@@ -1,7 +1,7 @@
 ---
 tags: FtO
 ---
-# FtO Yokohama 2024 Workshop 2: Student Workshop
+# FtO Yokohama 2024 Workshop 2: Students role in Civictech 
 
 - Time: August 17 (Saturday) 12:30-14:00 (during lunch!)
 - Participants: Students (Non-students are in [Workshop 1](/lqtewQfeQyq77OQoWCgnTA))
@@ -24,12 +24,12 @@ Main Topic: How to promote civic tech for students/young generations
 **Table B**
 https://g0v.hackmd.io/lBFyB7Q2TxCObU2A3ZyJfA?view
 Icebreaker: Where would you like to visit in the world if you had the chance?
-Main Topic: What is the positive impact of having projects with international students?
+Main Topic: What is the positive impact of doing projects with international students?
 
 **Table C**
 https://g0v.hackmd.io/d_h7URYNRnS_1IZ_tU55Xw?view
 Icebreaker: What is your favourite place in your country?
-Main Topic: What is the negative impact of having projects with international students and how can we solve them?
+Main Topic: What are some challenges of doing projects with international students and how can we solve them?
 
 **Schedule**
 12:30-13:00: Lunch in groups

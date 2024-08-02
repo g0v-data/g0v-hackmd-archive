@@ -15,6 +15,7 @@ tags: 都市農耕
 
 
 2022.11 過後待新增單則內容 
+- 香港 https://www.facebook.com/share/MsycXFCYhwwwKedT/
 - 香港「在高樓都市當農夫的意義？」彭文輝教授(Professor Mathew Pryor)主講
     - 連結網址：https://fb.watch/gxyOODP9S9/
     - https://www.facebook.com/story.php?story_fbid=pfbid02D4Cp1FyWSBpkYJ2vrTEnCkSp5ZetAKhY7MbeqQdUtWYBh6QxMkqtz8SvJmK2p87rl&id=143709675693636
