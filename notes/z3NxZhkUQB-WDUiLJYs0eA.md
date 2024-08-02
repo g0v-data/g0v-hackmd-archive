@@ -1,4 +1,7 @@
 # 程式 alpaca
+## 參考網址
+https://github.com/alpacahq/alpaca-backtrader-api/tree/master/sample
+https://github.com/alpacahq/alpaca-py/tree/master/examples
 ## 登入變數
 ```
 api_key = "PKR70V2JWLC0USZNGQX7"
