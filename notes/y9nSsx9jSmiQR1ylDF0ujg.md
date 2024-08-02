@@ -27,7 +27,8 @@ tags: 新生流域, GIS
 - 人造物碎屑
 - 鞭炮 https://g0v.hackmd.io/YbqYYu48Sgupjbw4EWAd8Q?view
 - 菸蒂 https://g0v.hackmd.io/7snMaEoZSQqkxOaIYJPpTg
-- 一定尺寸以上的垃圾
+- 一定尺寸以上垃圾
+    - 垃圾影響抽水機正常運作，大量條狀及軟質雜物(如垃圾袋、麻布袋、鐵線、帆布等)則穿越攔污柵進入抽水井，造成抽水機故障無法進行抽排作業 https://www.facebook.com/share/p/arXTXf2AiATwRgCB/
 - 汽油
 - 機油
 - 機械用油
