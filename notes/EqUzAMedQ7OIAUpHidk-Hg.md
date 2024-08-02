@@ -144,6 +144,9 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
         - 歷年衛星影像暨變異點 https://g0v.hackmd.io/rvgNUt6cRO6Z8MXiY-j1_g?view
     - 其他要想一下資料解釋方式
         - 國土利用調查 https://g0v.hackmd.io/TKulH3eKQJ6fL0isUPDfdw?view
+    - 垃圾掩埋場
+        - https://g0v.hackmd.io/Flb2Rik0R3OVajxSuP5uYw
+        - https://www.facebook.com/share/p/7u3uDPWXX9qywXdF/
 
 工程與計畫
 - 歷史資料
