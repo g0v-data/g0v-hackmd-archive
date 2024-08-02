@@ -48,9 +48,12 @@ Pacific Convention Plaza Yokohama（PACIFICO Yokohama）
 ### Accsess
 https://www.pacifico.co.jp/english/access
 
+🌟**Guide Video From Minatomirai Station↓**
+https://youtu.be/fG8NiR3tHPg
+
 ## Organizers
 
-### Code for Japan
+### Code for Japan[](https://)
 <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_324a5b4a363eea23204573d54cd6983c.jpg" width="35%">
 
 ### g0v international
