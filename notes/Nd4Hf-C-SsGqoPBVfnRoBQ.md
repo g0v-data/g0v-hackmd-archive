@@ -45,9 +45,10 @@ tags:
 
 Dear Kai&Jocbim, 
 
-Thanks for the detailed information and discussion with us last week. After discussion with vTaiwan community and g0v Jothon Taskforce, we think g0v Jothon will be a better speaker to share Taiwan's experience of Strengthening Democracy: the Encouraging Greater Participation – Combating Polarization. 
+Thanks for the detailed information and discussion with us last week. After discussion with vTaiwan community and g0v Jothon Taskforce, we think g0v Jothon will be a better candidate to share Taiwan's experience of Strengthening Democracy: the Encouraging Greater Participation – Combating Polarization. 
 
-Most members of “Jothon” taskforce are founding members of g0v, who started organizing the g0v hackathon since 2012. The taskforce maintains infrastructure for collaboration, hosting bi-monthly hackathon for 12 years and support indiviudal projects. In 2020, jothon start [“Sch001”](https://sch001.g0v.tw) project to bring young generation to this community of promoting citizen participation.In 2023, Jothon summarized these experiences into [g0v Civic-Tech Project and Community Handbook](https://g0v.hackmd.io/@jothon/ctpbook_en/https%3A%2F%2Fg0v.hackmd.io%2F%40jothon%2Fctpbook_en) and share the handbooks in numberous workshops and conferences, including UNIGF in Tokyo last year. 
+
+Most members of the 'Jothon' taskforce are founding members of g0v, who began organizing g0v hackathons in 2012. The taskforce maintains infrastructure for collaboration, hosting bi-monthly hackathons for 12 years and supporting individual projects. In 2020, Jothon started the [“Sch001”](https://sch001.g0v.tw) project to bring the younger generation into this community that promotes citizen participation. In 2023, Jothon summarized these experiences in the [g0v Civic-Tech Project and Community Handbook](https://g0v.hackmd.io/@jothon/ctpbook_en/https%3A%2F%2Fg0v.hackmd.io%2F%40jothon%2Fctpbook_en), sharing it in numerous workshops and conferences, including the UN Internet Governance Forum (IGF) in Tokyo last year.
 
 We deeply appreciate your understanding and are excited about the potential synergies this collaboration can bring. Please let us know if you require any further information or have any questions regarding this transition. I also cc'ed g0v Jothon team in this mail. 
 

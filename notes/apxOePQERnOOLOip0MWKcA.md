@@ -44,4 +44,9 @@ https://docs.google.com/presentation/d/1CxozkXL7I2Nfx1Gd0TukJKq5d1LQZTy9kvCQzRrj
 
 ## SXSW Sydney
 - Organizers want to host hackathon for APAC civic hackers
-- 
+    - Buildclub + National AI Center
+- Time: October 14-20
+    - https://www.sxswsydney.com/
+- Mami-san will continue to communicate
+    - Please cc intl@g0v.tw
+    - 

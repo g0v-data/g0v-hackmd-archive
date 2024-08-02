@@ -2,9 +2,9 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [FtO Yokohama 2024 Workshop 1: Civic Tech in East Asia](../notes/lqtewQfeQyq77OQoWCgnTA.md) | 2024-08-02T15:00:35+08:00 | 2024-07-26T16:47:56+08:00 |
-| 2 | [FtO Yokohama 2024 Workshop 2: Students role in Civictech](../notes/dS4GUZRaRZy-vmVcLAW7jA.md) | 2024-08-02T14:51:37+08:00 | 2024-07-26T16:51:40+08:00 |
-| 3 | [20240802 FtO organizers meeting notes](../notes/apxOePQERnOOLOip0MWKcA.md) | 2024-08-02T14:51:34+08:00 | 2024-08-02T13:21:22+08:00 |
+| 1 | [FtO Yokohama 2024 Workshop 1: Civic Tech in East Asia](../notes/lqtewQfeQyq77OQoWCgnTA.md) | 2024-08-02T15:27:24+08:00 | 2024-07-26T16:47:56+08:00 |
+| 2 | [20240802 FtO organizers meeting notes](../notes/apxOePQERnOOLOip0MWKcA.md) | 2024-08-02T15:06:29+08:00 | 2024-08-02T13:21:22+08:00 |
+| 3 | [FtO Yokohama 2024 Workshop 2: Students role in Civictech](../notes/dS4GUZRaRZy-vmVcLAW7jA.md) | 2024-08-02T14:51:37+08:00 | 2024-07-26T16:51:40+08:00 |
 | 4 | [FtO Yokohama 2024](../notes/VCTm63nQQl6Rh3r_yKjmbw.md) | 2024-08-02T13:20:14+08:00 | 2024-03-20T11:12:07+08:00 |
 | 5 | [FtO Yokohama 2024 Student Workshop: Table C meeting records](../notes/d_h7URYNRnS_1IZ_tU55Xw.md) | 2024-07-29T10:35:33+08:00 | 2024-07-29T10:34:57+08:00 |
 | 6 | [FtO Yokohama 2024 Student Workshop: Table B meeting records](../notes/lBFyB7Q2TxCObU2A3ZyJfA.md) | 2024-07-29T10:34:00+08:00 | 2024-07-29T10:32:02+08:00 |

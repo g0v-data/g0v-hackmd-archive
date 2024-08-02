@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20240802 FtO organizers meeting notes](../notes/apxOePQERnOOLOip0MWKcA.md) | 2024-08-02T14:51:34+08:00 | 2024-08-02T13:21:22+08:00 |
+| 1 | [20240802 FtO organizers meeting notes](../notes/apxOePQERnOOLOip0MWKcA.md) | 2024-08-02T15:06:29+08:00 | 2024-08-02T13:21:22+08:00 |
 | 2 | [FtO Yokohama 2024](../notes/VCTm63nQQl6Rh3r_yKjmbw.md) | 2024-08-02T13:20:14+08:00 | 2024-03-20T11:12:07+08:00 |
 | 3 | [20240711 FtO organizers meeting notes](../notes/cBlGALc0Thit6GKWGC2XeA.md) | 2024-07-26T17:21:38+08:00 | 2024-07-08T15:07:01+08:00 |
 | 4 | [20240620 FtO organizers meeting notes](../notes/-m5VjKW0Sm6_SDAgWjwf2Q.md) | 2024-06-20T16:06:50+08:00 | 2024-06-20T15:51:05+08:00 |
