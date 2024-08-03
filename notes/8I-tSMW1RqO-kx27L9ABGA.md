@@ -60,28 +60,28 @@ http://dev.cofacts.tw/
 	> 那麼明天見囉😊
 	>
 	> 比鄰敬上
-    - [ ] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
-	- [ ] 準備 Slido `#cofacts`
-		- [ ] 放投影片網址
+    - [x] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
+	- [x] 準備 Slido `#cofacts`
+		- [x] 放投影片網址
     - [ ] 幫 Netgear 充電
 - 當日準備 / 攜帶
     - [ ] 樓下用的標語 - orz
-    - [ ] 貼紙 - orz, bil
-    - [ ] 黏土 - orz
+    - [x] 貼紙 - orz, bil
+    - [x] 黏土 - orz
     - [ ] 手板 - bil
     - [ ] 一次性杯子 - bil
-    - [ ] 延長線 - bil / mrorz
+    - [x] 延長線 - bil / mrorz
         - 跟 jothon 借 3 條 [name=bil]++
-    - [ ] 編輯小聚的牌子 - orz
-    - [ ] Wifi 機 - mrorz
-        - [ ] Netgear 本體
-            - [ ] usb type-c 充電線與插座 （已充飽電，無需插座）
-            - [ ] 電池
-            - [ ] 4G 天線
-        - [ ] Asus RT-N12
-            - [ ] 電源線
-            - [ ] 5dBi 天線
-            - [ ] RJ45 線
+    - [x] 編輯小聚的牌子 - orz
+    - [x] Wifi 機 - mrorz
+        - [x] Netgear 本體
+            - [x] usb type-c 充電線與插座 （已充飽電，無需插座）
+            - [x] 電池
+            - [x] 4G 天線
+        - [x] Asus RT-N12
+            - [x] 電源線
+            - [x] 5dBi 天線
+            - [x] RJ45 線
 - 13:30 - 場佈
   - [ ] 簽到（問飲料）
   - [ ] 排桌子椅子
