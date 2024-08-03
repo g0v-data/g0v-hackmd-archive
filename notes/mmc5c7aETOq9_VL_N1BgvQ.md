@@ -1,8 +1,6 @@
-> []---
-> []
+---
 tags: 國會松
 ---
-
 # 20240706 第壹次國會松
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
