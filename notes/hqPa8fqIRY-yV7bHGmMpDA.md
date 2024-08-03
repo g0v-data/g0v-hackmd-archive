@@ -1,8 +1,8 @@
 # How to Implement Pull-to-refresh in React using Tailwind CSS
 
-In contemporary web devices, giving an instinctive and responsiveness to users is essential. A common attribute utilized for improving interactivity is the pull-to-refresh option. Most mobile and web applications have this feature which allows for the reloading of on-screen materials by pulling down the screen. Including pull-to-refresh objects in your web app makes it appear more vibrant and attractive.
+In contemporary web devices, providing an intuitive and responsiveness to users is essential. A common attribute utilized for improving interactivity is the pull-to-refresh option. Most mobile and web applications have this feature which allows for the reloading of on-screen materials by pulling down the screen. Including pull-to-refresh objects in your web app makes it appear more vibrant and attractive.
 
-This article serves as a guide in creating an application for quotations via the use of [React](https://react.dev/) and [Tailwind](https://tailwindcss.com/) CSS. Each time you do it, you will pull down on to refresh and there will be shown an entirely new quote while the background color also changes by itself. React is known as being one of the most significant JavaScript libraries used in making user interfaces whereas Tailwind CSS happens to be one of those CSS frameworks that are based on utilities first that assist in simplifying and keeping their application styles from contradicting each other completely.
+This article serves as a guide in creating an application for quotations using [React](https://react.dev/) and [Tailwind](https://tailwindcss.com/) CSS. Each time you do it, you will pull down on to refresh and there will be shown an entirely new quote while the background color also changes by itself. React is known as being one of the most significant JavaScript libraries used in making user interfaces whereas Tailwind CSS happens to be one of those CSS frameworks that are based on utilities first that assist in simplifying and keeping their application styles from contradicting each other completely.
 
 Here is the output to expect after going through this guide:
 
@@ -127,7 +127,7 @@ When the user does the pull to refresh command or clicks on the refresh button, 
 To achieve the pull-to-refresh mechanism, we shall employ touch event handlers capable of detecting the pull-down sign and beginning the process of renewing quotes, as well as transforming the background’s hue to make it more eye-catching. The functionality we have implemented in this regard will increase user satisfaction since it allows one to easily refresh content by simply dragging it down.
 
 ### Adding the Pull-to-Refresh Gesture
-We will include event handlers for touch events to detect when the user pulls down the screen. These events are `onTouchStart`, `onTouchMove` and `onTouchEnd`. With these handlers, we will be able to tell when the user has pulled down enough to activate refresh.
+We will include event handlers for touch events to detect when the user pulls down the screen. These events are `onTouchStart`, `onTouchMove` and `onTouchEnd`. With these handlers, we can tell when the user has pulled down enough to activate refresh.
 
 For example:
 
@@ -243,7 +243,7 @@ Output:
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5c6f1748780b387dfd1af6973ca52b74.gif)
 
-The GIF shows the pull-to-refresh feature of our quote app working. At first, there is just an orange background with a quote on the screen. When a person pulls down the screen, an indicator comes out, indicating the probability of refreshment. As soon as you remove your fingers after pulling it down completely, it fetches a new quote from its server and replaces the old one on the display. The background color also changes at the same time to show that what is there has been updated. This kind of lively interaction created using React and Tailwind CSS signifies appealing and responsive user satisfaction.
+The GIF shows the pull-to-refresh feature of our quote app working. At first, there is just an orange background with a quote on the screen. When a person pulls down the screen, an indicator comes out, indicating the probability of refreshment. As you remove your fingers after pulling it down completely, it fetches a new quote from its server and replaces the old one on the display. The background color also changes to show that what is there has been updated. This lively interaction created using React and Tailwind CSS signifies appealing and responsive user satisfaction.
 
 ## Conclusion
 The Pull-to-refresh feature is critical to a better experience in web applications while keeping user interaction alive. Developers can easily achieve this by following the steps to use them uniformly across various platforms. This clarifies that elegant design, consistent testing practices, and high performance are vital considerations for building an application today.
