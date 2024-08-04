@@ -36,11 +36,14 @@ tags: GIS
 圖：熱力指數計、風速計
 
 ### 活動流程
-- 1. 活動集合，說明今日活動主題
-- 2. 水綠風廊路徑踏查
-- 3. 抵達室內場地
-- 4. 回顧戶外路線沿線戶外舒適度狀況，並針對希望改善的區位，討論初步對策
-- 5. 小組成果分享
+- 1. 10 mins 活動集合，說明今日活動主題
+- 2. 60 mins 水綠風廊路徑踏查 
+    - 特定路口位置的風環境紀錄
+    - 日照遮蔭概況
+    - 沿線相對比較舒適的地點
+- 3. 10 mins 抵達室內場地，芒果香草園 (大安區師大路117巷1號) 休息時間
+- 4. 30 mins 回顧戶外路線沿線戶外舒適度狀況，並針對希望改善的區位，討論初步對策
+- 5. 30 mins 小組成果分享與綜合討論
 
 ---
 
@@ -49,17 +52,40 @@ tags: GIS
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8ab4d12e8d046f518d3420ff93ffc1e0.png)
 
 
-## 路線2 介紹：臺大校區-洵跡綠地營造-大學田園與都市更新案-溫州街48巷與52巷-泰順街60巷-師大路與師大公園」軸帶沿線環境
+## 路線2 介紹：臺大校區-洵跡綠地營造-大學田園與都市更新案-溫州街48巷與52巷-泰順街60巷-師大路與師大公園
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a7edc0ae5f9a8367c5b5e52023742794.png)
 
 
-## 路線3 介紹：龍安國小-公務人力發展中心-新生南路三段22巷-溫州街20巷-大院子日式宿舍群落-泰順公園
+## 路線3 介紹：龍安國小-公務人力發展中心-新生南路三段22巷-溫州街20巷-大院子日式宿舍群落-泰順公園-芒果香草園
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bf17af04f86e85765d412ddd964826ca.png)
 
 
 ## 街區探討方法延伸
 
+說明
 - 本方法未來可應用在都市冷島週邊環境
 - 如大安區大安森林公園、萬華區青年公園周邊、松菸及國父紀念館之西側街區、中山區榮星花園或林森公園等
+
+工具
+- 建物陰影模擬 https://3dmaps.nlsc.gov.tw/
+- 臺北市預測溫度網格 https://www.google.com/maps/d/u/0/viewer?mid=1ADSwUfO-0vyzTxrnQApOWgs9guKvzIo&vomp=1&cid=mp&cv=HLMGZteZVNQ.zh_TW. 
+- 改建資訊：
+    - 規劃中
+        - 都市更新地區 https://twur.nlma.gov.tw/zh/urban/area/0
+        - 都市更新單元 https://twur.nlma.gov.tw/zh/urban/rebuild/0 
+        - 建築改建資訊
+        - 其他公共工程
+    - 施工中
+        - 施工地圖 https://bmenew.gov.taipei/e/indexBud.aspx
+
+法規
+- 擬定『臺北市開發基地體感降溫專案』細部計畫案 https://www.udd.gov.taipei/announcement/qgobmwh?page=1#article-20264
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4ee647cd59a237f5e0761adb4e22806b.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_64c6f2462857db397a0027d8c816164d.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_10192355c10bd3867f8550c1267f8028.png)
+
+
+
