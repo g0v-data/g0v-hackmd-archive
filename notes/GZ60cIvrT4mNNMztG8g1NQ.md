@@ -176,6 +176,9 @@ https://commutag.agawork.tw/dataset?id=5f1f91818237617934d8d168
 
 ## 各種可能出現災害影像的管道
 
+余如季 個人攝影
+https://www.facebook.com/share/p/e4HhmTPsTLvsnbAH/
+
 攝影同好社團，午後雷陣雨
 https://www.facebook.com/groups/833818867108726/posts/1626176434539628/
 
