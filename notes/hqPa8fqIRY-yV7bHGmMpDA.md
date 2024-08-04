@@ -265,6 +265,13 @@ const fetchQuote = async () => {
 };
 ```
 
+Explanation:
+
+Function `fetchQuote` is an `async` function that fetches a random quote from an external API. `Axios` library makes a `GET` request at `https://api.quotable.io/random` which serves as the `endpoint` returning random quote. The function is wrapped inside a `try-catch` block to handle any possible errors encountered in the API call; inside the `try`, we have the `await` response from this particular API call.
+
+
+The `data` property of the `response` object that holds the quote details is retrieved after getting the response then it digs out the content property signifying the actual wording of the quote. The function then returns the quote. In cases where errors occur with API calls such as network problems or server mistakes, then an exception will be thrown and logged on the console returning null which shows there are no fetched quotes. When there are no new quotations available, this principle keeps the application running smoothly.
+
 ### Conditional Update
 After fetching new data, the application must compare it with the current data and see whether updating is required. If there is a difference between them, update the displayed quote and change the background color. On the other hand, if they are the same do nothing.
 
@@ -279,10 +286,56 @@ const handleRefresh = async () => {
   }
 };
 ```
+One of the main asynchronous functions is the `handleRefresh` function. It takes care of refreshing the quote and updating the color of the background. First, it invokes the `fetchQuote` function which is then awaited for its result. What we will get here after waiting becomes a new quote fetched from the API. This call returns a value that gets stored in the `newQuote` variable. Then there will be an evaluation made on whether the new quote was true and also different from what is currently kept within the state itself; namely, prevents one from getting modified if no fresh momentary alteration occurs as well as existing information ends up being guessed upon by everyone else who has not received any change at all. Once these conditions are fulfilled, it’s time for the actual run of setQuotes which sets the state variable with the new quotes. After changing quotes immediately changeBackGroundColor function is called thus changing the background color as well. This way UI will not be refreshed until any new data comes keeping everything quick and handy.
 
 ### Handling No New Data
+Should API return data equal to before, or should no new data be available the state of the app must be kept as before. This prevents needless updates and makes the user experience smoother.
 
+For example:
 
+```javascript
+const QuoteComponent = () => {
+  const [quote, setQuote] = useState('');
+  const [backgroundColor, setBackgroundColor] = useState('bg-white');
+
+  useEffect(() => {
+    fetchQuote().then(setQuote);
+  }, []);
+
+  const handleRefresh = async () => {
+    const newQuote = await fetchQuote();
+    if (newQuote && newQuote !== quote) {
+      setQuote(newQuote);
+      changeBackgroundColor();
+    }
+  };
+
+  const changeBackgroundColor = () => {
+    const colors = ['bg-red-500', 'bg-blue-500', 'bg-green-500', 'bg-yellow-500', 'bg-purple-500'];
+    const randomColor = colors[Math.floor(Math.random() * colors.length)];
+    setBackgroundColor(randomColor);
+  };
+
+  return (
+    <PullToRefresh onRefresh={handleRefresh}>
+      <div className={`min-h-screen flex items-center justify-center ${backgroundColor}`}>
+        <div className="p-8 max-w-md mx-auto bg-white shadow-lg rounded-lg">
+          <p className="text-xl font-semibold text-center">{quote}</p>
+          <button
+            className="mt-4 w-full py-2 px-4 bg-blue-500 text-white font-semibold rounded-lg hover:bg-blue-700 transition duration-300"
+            onClick={handleRefresh}
+          >
+            Refresh Quote
+          </button>
+        </div>
+      </div>
+    </PullToRefresh>
+  );
+};
+
+export default QuoteComponent;
+
+```
 
 
 ## Conclusion
