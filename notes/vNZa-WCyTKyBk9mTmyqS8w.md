@@ -87,5 +87,6 @@ tags: GIS
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_64c6f2462857db397a0027d8c816164d.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_10192355c10bd3867f8550c1267f8028.png)
 
-
+地區微氣候分析 / 環境調適建議原則參考資料
+- https://airtable.com/appgQS9kWDYmv6B1m/shrkgRXUuLjpzHgqJ/tbljJLtGQle9mVqmF/viww8ofUGe3EQfiAd/recY34irtUDDKlSau?blocks=hide
 
