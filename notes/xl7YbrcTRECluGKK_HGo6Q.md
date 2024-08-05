@@ -89,7 +89,7 @@ name detail 「OO 是詐騙嗎」tab 中可以放：
 - 詐騙網站 server header fingerprint - 可能不同網域都連到同一台機器
 - WHOIS / OSINT recon solutions
   - [whoiser](https://github.com/LayeredStudio/whoiser) 與[似乎能在 Cloudflare Worker 上跑的 hack](https://www.pudn.com/Download/item/id/1699851202973721.html)
-  - 
+  - FinalRecon's [whois command](https://github.com/thewhiteh4t/FinalRecon/blob/master/modules/whois.py#L39-L58)
 
 ### 其他內容
 
