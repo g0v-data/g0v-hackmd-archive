@@ -8,7 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- 線上出席：bil, nonumpa, mrorz, T
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -16,11 +16,9 @@ GA: UA-98468513-3
 
 ### :star: Released to production
 
-#### :electric_plug: API
 #### :globe_with_meridians: Site
 - 0730 Category bugfix https://github.com/cofacts/rumors-site/releases/tag/release%2F20240730
 
-#### :robot_face: rumors-line-bot
 
 ### :rocket: Staging
 
@@ -40,7 +38,13 @@ https://github.com/cofacts/open165/pull/11
 - 人數較多
     - 中間那排放兩個桌子，兩邊擺椅子？
     - 改成這種？ <img src="https://docs.google.com/drawings/d/e/2PACX-1vRyRShKywohMMMdFUijc_No-K-J3B0TeUOhPjqZnd-o_Wec-PAET6h3X2FkG9sG80C0dKZDrv40LNNg/pub?w=960&amp;h=720">
-
+    - 電視比投影幕清楚，一半的人背對電視的話要轉頭比較累 [name=bil]
+    - 或是讓少一點人來 [name=bil]
+    - 如果桌子轉 90 度，就會都看得到 TV [name=T]
+- 如果每個人都要可以講到話，那 20 人內比較好 [name=bil]
+    - 如果是單向演講，才是越多越好 [name=bil]
+    - 小聚互動 10 人最舒服 [name=bil]
+    - 我覺得到 25 人不是常態，通常應該是 18 人來 [name=mrorz]
 
 ## Open165
 > 專案共筆：
