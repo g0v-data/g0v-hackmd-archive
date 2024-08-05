@@ -4,6 +4,11 @@ tags: GIS
 
 # 衛星圖資應用案例
 
+:::warning
+目錄
+[TOC]
+:::
+
 ## 待整理
 - https://www.facebook.com/groups/718089658359103/permalink/2414458812055504/
 - 遙測盤點石棉瓦屋頂
@@ -178,6 +183,8 @@ https://www.facebook.com/groups/LASSnet/permalink/3101857496731506/
 
 ### 監測洪水災害
 
+- 衛星影像判斷淹水的介紹
+    - https://g0v.hackmd.io/PDwps3wdRgi0lxb7ExIRQg?view
 - Open IR - 運用 IR 圖層監測洪水災害研究
     - [http://openir.media.mit.edu/main/?p=305](http://openir.media.mit.edu/main/?p=305)
     - [https://github.com/DuKode/OpenIR_ImageProcAndPrep](https://github.com/DuKode/OpenIR_ImageProcAndPrep)

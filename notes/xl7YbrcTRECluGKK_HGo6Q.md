@@ -97,6 +97,11 @@ name detail 「OO 是詐騙嗎」tab 中可以放：
 
 ## 目前進度
 
+### 2024/8/04 COSCUP
+- Designers in Tech - Open Source Design Workshop
+    - [最靠近門的那一組的共筆](https://hackmd.io/dMR3n42xSYy2P4EzVP-SeQ?view#%E6%9C%80%E9%9D%A0%E8%BF%91%E9%96%80%E7%9A%84%E9%82%A3%E4%B8%80%E7%B5%84%E7%9A%84%E5%85%B1%E7%AD%86)
+    - https://github.com/cofacts/open165/issues/13
+
 ### 2024/7/20 大松
 
 > 初次提案
@@ -107,7 +112,3 @@ name detail 「OO 是詐騙嗎」tab 中可以放：
   - Finished data flow: [Open data](https://data.gov.tw/dataset/160055) --> Cloudflare D1 DB --> website display
   - Continuous deployment on Cloudflare Pages
   - 申請 [165.g0v.tw](https://github.com/g0v/domain/pull/82)
-
-### 2024/8/04 COSCUP
-- Designers in Tech- Open Source Design Workshop
-    - [最靠近門的那一組的共筆](https://hackmd.io/dMR3n42xSYy2P4EzVP-SeQ?view#%E6%9C%80%E9%9D%A0%E8%BF%91%E9%96%80%E7%9A%84%E9%82%A3%E4%B8%80%E7%B5%84%E7%9A%84%E5%85%B1%E7%AD%86)
