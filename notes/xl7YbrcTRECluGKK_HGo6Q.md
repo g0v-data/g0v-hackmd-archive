@@ -41,7 +41,7 @@ tags: cofacts, 詐騙, 165, open data, SEO
 
 Host detail 「OO 是詐騙嗎」tab 中可以放：
 - 165 公告列表（點擊名字可以連到 name detail），蓋棺論定是詐騙
-- DNS record - 分析網域多新
+- WHOIS record - 分析網域多新
 - 列出類似網域
   - fake.idv, fake.xyz, fa0ke 算是「相似」
 
@@ -87,6 +87,9 @@ name detail 「OO 是詐騙嗎」tab 中可以放：
 - 官方澄清：某些網站名稱是被冒用，如果他們有官方澄清，那麼可以放在「OO 是詐騙嗎」分頁裡
     - 可能需要 crowd source
 - 詐騙網站 server header fingerprint - 可能不同網域都連到同一台機器
+- WHOIS / OSINT recon solutions
+  - [whoiser](https://github.com/LayeredStudio/whoiser) 與[似乎能在 Cloudflare Worker 上跑的 hack](https://www.pudn.com/Download/item/id/1699851202973721.html)
+  - 
 
 ### 其他內容
 
