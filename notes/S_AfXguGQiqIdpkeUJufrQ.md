@@ -18,6 +18,8 @@ GA: UA-98468513-3
 
 #### :electric_plug: API
 #### :globe_with_meridians: Site
+- 0730 Category bugfix https://github.com/cofacts/rumors-site/releases/tag/release%2F20240730
+
 #### :robot_face: rumors-line-bot
 
 ### :rocket: Staging
