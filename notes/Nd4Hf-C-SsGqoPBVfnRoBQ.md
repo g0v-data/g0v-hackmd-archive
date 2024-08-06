@@ -1,5 +1,5 @@
 ---
-tags:
+tags: vtaiwan, jothon
 ---
 
 # 貝德斯曼基金會研討會邀請
