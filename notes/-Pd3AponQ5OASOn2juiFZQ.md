@@ -7,6 +7,71 @@ Yew is an incredibly versatile tool that allows web developers to craft their fr
 
 There are a few things that make Yew a winning proposition. First, the language relies on Rust’s strict type system to catch a number of mistakes in advance of program execution. This leads to highly reliable and robust applications. Second, it uses Rust’s async/await feature along with multi-threading to be able to retrieve and handle data in a better way. Also, Yew allows seamless interoperability with JavaScript. This implies that developers can invoke JavaScript functions and merge the current JavaScript libraries into their Rust codes enabling a broad array of web technologies that accompany Rust. Selecting Yew is very exciting to those who know Rust already and want to manage their abilities in front end development. Besides being a good choice for projects requiring high-speed performance and dependability; because it employs WebAssembly, its execution is fast while at the same time ensuring an error-free application behavior.
 
+## Quick steps on how to run and build a Yew app
+Let us walk through a step-by-step guide on how to run and build a Yew application:
+
+* Step 1: Install Rust and Cargo. For those who have not yet done so, please go ahead and install Rust and Cargo from the guidelines found on rustup.rs.
+* Step 2: Create a New Yew Project. Create a new binary project using Cargo
+
+```bash
+cargo new --bin yew_app
+cd yew_app
+```
+* Step 3: Add Yew and WebAssembly Dependencies. Feel free to open the `Cargo.toml` file and add the necessary dependencies:
+```toml
+[package]
+name = "yew_app"
+version = "0.1.0"
+authors = ["Your Name"]
+edition = "2018"
+
+[dependencies]
+yew = "0.20" # Replace with the latest version
+wasm-bindgen = "0.2"
+wasm-bindgen-futures = "0.4"
+```
+
+* Step 4: Create the Main Component. The next thing we need to do is modify the `src/main.rs` file to define our Yew component:
+```rust
+use yew::prelude::*;
+
+#[function_component(App)]
+fn app() -> Html {
+    html! {
+        <div>
+            <h1>{ "Hello, Yew!" }</h1>
+            <p>{ "Welcome to your first Yew app." }</p>
+        </div>
+    }
+}
+
+fn main() {
+    yew::start_app::<App>();
+}
+```
+
+* Step 5: Install wasm-pack. If for some reasons you don't have `wasm-pack` installed, feel free to install it using the following command:
+```bash
+curl https://rustwasm.github.io/wasm-pack/installer/init.sh -sSf | sh
+```
+* Step 6: Build the project to WebAssembly using `wasm-pack`:
+
+```bash
+wasm-pack build --target web
+```
+* Step 7: Using a basic HTTP server, run the app. If you haven’t already, go ahead and install` basic-http-server`:
+
+```bash
+cargo install basic-http-server
+```
+Then serve the application at:
+
+```bash
+basic-http-server ./pkg
+```
+* Step 8: To see your Yew application in action, please start your web browser and choose `http://127.0.0.1:4000`.
+
+
 ## Setting Up the Environment for a Yew Project
 To begin using Yew for front-end development, it is important to set up your development environment. This process entails installing the necessary tools and dependencies that are needed for Yew applications to be built and run.
 
@@ -500,11 +565,6 @@ Output:
 Discerning whether an application operates appropriately entails engaging with it to test all conceivable functionalities. Therefore, this incorporates ensuring that the UI updates correctly, checking realistic interactions among its components and determining if such works as intended and also verifying that it works alongside any associated backend features.
 
 Once you have validated that indeed it is functional, it will now be prepared for production. The process involves making the output of the build more efficient in size and speed. Hence by using the `trunk build` command optimized structures are generated that are fit for utilization. To deploy it, you must upload the files produced in the `dist` directory (which is created by `trunk build`) to your web host. This can be done through transferring files to a web server, configuring a [CDN](https://aws.amazon.com/what-is/cdn/#:~:), or executing deployment on platforms such as [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/).
-
-## Step-by-step guide on how to run and build a Yew application
-Here a step-by-step guide on how to run and build a Yew application:
-
-
 
 
 ## What Yew Can Do
