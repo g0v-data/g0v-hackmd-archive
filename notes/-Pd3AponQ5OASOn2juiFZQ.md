@@ -96,13 +96,10 @@ fn main() {
 
 This code provides a simple Yew component named App which displays a simple message: "Hello, Yew!". The `main` function initializes the Yew application and attaches the App component to the `DOM`.
 
-
-## Building a To-Do-List with Yew
-This section will practically demonstrate how to use Yew in building web applications.
-
-### Project Structure
+## Project Structure
 When constructing a to-do task application with the Yew framework, it is important to arrange the frame of your project conveniently. This will assist in arranging dissimilar sections of your application and maintaining the codebase clean. The following is a recommended structure for your Yew project:
 
+### The Main Project Directory
 A `src` folder that contains all source files will exist in your main project directory. Within the `src` directory will be a `main.rs` file, which serves as the entry point of your application, and a components directory to hold all Yew components forming your application.
 
 This file called `main.rs` is the first file in the Rust application and is responsible for bootstrapping a Yew app. Typically, this file contains the `main` function that calls `yew::start_app::();`, where Model is your `root` component.
@@ -146,13 +143,12 @@ This coding example tells you how to create a simple Yew application using the R
 
 The `Model` struct constitutes the main part of the application. This simple example shows that an empty `Model` struct can merely serve as a placeholder for it. In defining how Yew components work, the Component trait is put into practice in the `Model` struct. The implementation entails a few methods: The `create` method initializes the component. The parameters supplied are for properties and component links, however, since the `Model` component does not need any properties or messages this method will just return an instance of Model.
 
-The `update` method carries out the updates to the component. Nevertheless, even though the Message type is set as a unit type (()), thereby implying that it does not manage specific messages, the procedure returns true for the component to be remade any time there are updates.
+The `update` method carries out the updates to the component. Nevertheless, even though the Message type is set as a `unit type (())`, thereby implying that it does not manage specific messages, the procedure returns true for the component to be remade any time there are updates. The `change` method is called when the properties of the component change. Since properties are `unit type (())`, it returns `false`, meaning the component does not need to be redrawn for this property sort of changes.
 
-The change method is called when the properties of the component change. Since properties are unit type (()), it returns false, meaning the component does not need to be redrawn for this property sort of changes.
+The `view` method creates the user interface of a component. It defines how its HTML layout will look like using Yew’s `html! macro`. Here it uses TodoList which is just one of the main components within the components module. To commence the Yew application, the `primary` function triggers whatever is defined inside `yew::start_app::()`. This first initializes the application and mounts the Model component to the webpage, creates initial rendering, and commences the Yew runtime all at once.
 
-The view method creates the user interface of a component. It defines how its HTML layout will look like using Yew’s html! macro. Here it uses TodoList which is just one of the main components within the components module.
-
-Here is an example of what the `components/todo_list.rs` file might look like:
+### The `components/todo_list.rs` file
+Here is an example of what the `components/todo_list.rs` file should look like:
 
 ```rust
 use yew::prelude::*;
@@ -211,69 +207,14 @@ impl Component for TodoList {
     }
 }
 ```
-By structuring your Yew project this way, you’ll have clearly defined responsibilities and a tidy, maintainable codebase. Each component handles one aspect of the application’s functionality; hence, it is more manageable and extendable when necessary.
+The `TodoList` component is defined in the provided code which enables users to manage their list of things to do. This component has its main job in preparing how it appears on screen, responding when people click or move the mouse over it as well as changing its inner condition. In the `TodoList` struct, we keep some variables like – a pointer to our struct itself(a component), a tasks list, and an input field current value. Two messages have been defined in `Msg enum type: AddTask` that is meant for adding new works and `UpdateInput` intended for modifying value of an input field.
 
-### Creating Components
-Creating components is a core aspect of developing applications with a Rust front-end framework like Yew. Components encapsulate the logic, state, and rendering of UI elements, promoting code reuse and modular design.
+The `component` trait implementation for the TodoList first makes use of an empty list of tasks and an empty input value in the create method. It also establishes the component link which allows the component and Yew framework to communicate. Received messages are handled by the `update` method in this component. When `AddTask` message is received, it adds current input value to task list if it is non-empty then clears input field. On receiving `UpdateInput` it updates the input value with new text. The `Change` method that deals with property changes is implemented here, but always returns false since we have nothing to change.
+
+`HTML! macro` is utilized in the `view` method to outline the user interface. It shows an input field where new tasks can be typed by users along with a button that adds it to the list of pending ones and utilizes an unordered list as a means of displaying current tasks. The `oninput` and `onclick` attributes utilize callbacks to control user input and button clicks respectively which prompt suitable messages for state changes of components.
 
 
-To create a component in Yew, you define a struct to represent the component and implement the Component trait for it. This trait requires you to define methods for creating the component, updating it, changing its properties, and rendering its view.
-
-Here's an example of creating a simple counter component in Yew:
-
-```rust
-use yew::prelude::*;
-
-struct Counter {
-    link: ComponentLink<Self>,
-    count: i32,
-}
-
-enum Msg {
-    Increment,
-    Decrement,
-}
-
-impl Component for Counter {
-    type Message = Msg;
-    type Properties = ();
-
-    fn create(_: Self::Properties, link: ComponentLink<Self>) -> Self {
-        Self { link, count: 0 }
-    }
-
-    fn update(&mut self, msg: Self::Message) -> ShouldRender {
-        match msg {
-            Msg::Increment => self.count += 1,
-            Msg::Decrement => self.count -= 1,
-        }
-        true
-    }
-
-    fn change(&mut self, _: Self::Properties) -> ShouldRender {
-        false
-    }
-
-    fn view(&self) -> Html {
-        html! {
-            <div>
-                <button onclick=self.link.callback(|_| Msg::Increment)>{ "+1" }</button>
-                <button onclick=self.link.callback(|_| Msg::Decrement)>{ "-1" }</button>
-                <p>{ self.count }</p>
-            </div>
-        }
-    }
-}
-
-fn main() {
-    yew::start_app::<Counter>();
-}
-```
-The following is an example where Counter is used to represent the component while `Msg enum` defines its possible messages (events) that can be handled by this component. Here, the Component trait has been implemented for Counter such that the `create` method initializes the component; the `update` method handles state changes depending on messages; the `change` method handles property changes and the `view` method defines the HTML structure of the component.
-
-Through this framework, developers can make complex user interfaces out of simple yet reusable building blocks. This modular way of doing things helps keep maintenance costs low and systems that use them easier to scale. Moreover, composing components together means higher levels of such interfaces can be built which improves the chances of reusing code and minimizes redundancy.
-
-### Building the UI
+## Building the UI
 The user interface (UI) is one of the most critical steps in web application development using Rust front-end frameworks like Yew. Each framework has its tools and abstractions for defining and managing the visual elements and their interactions in a structured and efficient way.
 
 In Yew, the UI is constructed using `html!` macro that enables you to define HTML-like syntax right inside your Rust code. This technique is akin to JSX present in React, allowing an easy mixture of HTML and Rust together. The `html!` macro aids in building up the structure of the UI by composing various components as well as handling user interactions through event callbacks.
@@ -341,7 +282,12 @@ fn main() {
     yew::start_app::<TodoList>();
 }
 ```
-In this particular instance, the method for viewing specifies the elements of the user interface (UI): an input space for task, an option button that adds it, and a catalog for displaying tasks. The user input is documented by the `oninput` event after which it updates the state of the component but when clicking on it, task addition to the list is done through `onclick` event.
+This is a simplified demonstration of building a to-do list application with the Yew framework in Rust. The most important part of this code is the TodoList struct; it defines its main component alongside some other properties like an array of tasks, and input values.
+
+Two types of messages are represented by the Msg enum: AddTask - for adding new task items, and UpdateInput – which updates parameter passed to an input field.
+
+In implementing the Component trait for TodoList, the create function initializes both an empty task list and also starts from scratch on behalf of associated variables or members were concerned. Additionally, it creates a link to other components that allow reacting to callbacks. The update method manages inbound communications. If it gets Msg::AddTask, it adds the input number to the list of tasks if it is non-empty and afterward resets the input area to empty again. If Msg::UpdateInput arrives, it changes the input value with the received text. This approach signals that true for such events as these ought to change their states. The change method tells that there aren’t any changes made necessitating a new visual.
+ The view method defines the user interface using the html! macro. It contains the task input field, button for adding respective tasks to the collection as well as unordered list containing all tasks. The input field’s oninput attribute and the button’s onclick attribute use callbacks to handle user input and button clicks, triggering the corresponding messages to update the component’s state. To start a Yew app, main function first calls yew::start_app::(), which in turn initializes as well as mounts it on an online page.
 
 ### Adding Functionality
 With the user interface (UI) set up, the following phase involves incorporating functions into your to-do list app. This encompasses executing systematizations for regulating users’ interactions, state management, and UI adjustments as a result of variations in the application data.

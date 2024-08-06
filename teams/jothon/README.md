@@ -2,6 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [community99](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2021-03-09T13:12:37+08:00 | Book mode |
+| [community99-2408](../../notes/4fyefBWqRduk68-hREjytA.md) | g0v 社群每月九分鐘 - 2024/8 | 2024-08-06T11:43:26+08:00 | View mode |
 | [AI_Grant_20240803](../../notes/15hJzFLZQxKJCklHuh6cSw.md) | GenAI @COSCUP 2024主題論壇與專案實作成果分享 | 2024-07-05T18:14:48+08:00 | View mode |
 | [ByN8AZ3wC](../../notes/C8xmxPHdSOCJaqO-410lxA.md) | 100 種貼紙的攜帶與佈置展示方法 | 2024-07-10T21:36:11+08:00 | View mode |
 | [ctpbook_en](../../notes/RDqfChU1TayMGMF8RY3kiQ.md) | g0v Civic Tech Project & Community Handbook | 2023-05-16T19:48:10+08:00 | Book mode |
@@ -26,7 +28,6 @@
 | [S1F8CUfwA](../../notes/l0rcGTiPTFqid6sAdwi5TA.md) | 零時小學校 2024 夏日源力增能營開幕式 | 2024-07-03T13:14:57+08:00 | View mode |
 | [BJpyGwNHR](../../notes/SGqKIBa9Rz-wB_AjJzEI_w.md) | 2024 夏日源力增能營簡介 | 2024-06-10T19:22:13+08:00 | View mode |
 | [SkVkBRwd3](../../notes/jSn-stgYQS6uG5ixmcQASg.md) | 零時小學校 2023 夏日線上源力增能營開幕式 | 2023-06-27T11:17:47+08:00 | View mode |
-| [community99](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2021-03-09T13:12:37+08:00 | Book mode |
 | [B1Rk7n1wR](../../notes/UlRKaVYjQ6a80SbOgJc7QQ.md) | g0v Hackath62n 活動流程 | 2024-07-01T12:39:01+08:00 | View mode |
 | [ByC3rncXo](../../notes/zO93zgP8T0GW_lodRjLCNQ.md) | 【2020 年度獲獎團隊：CBFHSS 專為高中生設計的管家型聊天機器人】自己的教育科技自己做，高中生打造線上版聯絡簿 | 2022-10-17T19:00:06+08:00 | View mode |
 | [HJTzQ6AP2](../../notes/NWW6B1LLSlyj0QUL9YPCQg.md) | g0v 揪松團相關活動性騷擾事件之處理機制 | 2023-06-20T14:11:32+08:00 | View mode |
