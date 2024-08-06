@@ -97,7 +97,112 @@ fn main() {
 This code provides a simple Yew component named App which displays a simple message: "Hello, Yew!". The `main` function initializes the Yew application and attaches the App component to the `DOM`.
 
 
+## Building a To-Do-List with Yew
+This section will practically demonstrate how to use Yew in building web applications.
 
+### Project Structure
+When constructing a to-do task application with the Yew framework, it is important to arrange the frame of your project conveniently. This will assist in arranging dissimilar sections of your application and maintaining the codebase clean. The following is a recommended structure for your Yew project:
 
+A `src` folder that contains all source files will exist in your main project directory. Within the `src` directory will be a `main.rs` file, which serves as the entry point of your application, and a components directory to hold all Yew components forming your application.
 
+This file called `main.rs` is the first file in the Rust application and is responsible for bootstrapping a Yew app. Typically, this file contains the `main` function that calls `yew::start_app::();`, where Model is your `root` component.
 
+Here is an example of what the `main.rs` file might look like:
+```rust
+use yew::prelude::*;
+
+mod components;
+
+struct Model;
+
+impl Component for Model {
+    type Message = ();
+    type Properties = ();
+
+    fn create(_: Self::Properties, _: ComponentLink<Self>) -> Self {
+        Self
+    }
+
+    fn update(&mut self, _: Self::Message) -> ShouldRender {
+        true
+    }
+
+    fn change(&mut self, _: Self::Properties) -> ShouldRender {
+        false
+    }
+
+    fn view(&self) -> Html {
+        html! {
+            <components::TodoList />
+        }
+    }
+}
+
+fn main() {
+    yew::start_app::<Model>();
+}
+```
+All Yew components utilized in the application shall be present in the components folder. There is a separate file for each component, thereby maintaining modularity and simplifying code handling. For instance, consider having a `todo_item.rs` file that defines the individual todo items’ component while another file called `todo_list.rs` defines the component for their list.
+
+Here is an example of what the `components/todo_list.rs` file might look like:
+
+```rust
+use yew::prelude::*;
+
+struct TodoList {
+    link: ComponentLink<Self>,
+    tasks: Vec<String>,
+    input_value: String,
+}
+
+enum Msg {
+    AddTask,
+    UpdateInput(String),
+}
+
+impl Component for TodoList {
+    type Message = Msg;
+    type Properties = ();
+
+    fn create(_: Self::Properties, link: ComponentLink<Self>) -> Self {
+        Self {
+            link,
+            tasks: vec![],
+            input_value: String::new(),
+        }
+    }
+
+    fn update(&mut self, msg: Self::Message) -> ShouldRender {
+        match msg {
+            Msg::AddTask => {
+                if !self.input_value.is_empty() {
+                    self.tasks.push(self.input_value.clone());
+                    self.input_value.clear();
+                }
+            }
+            Msg::UpdateInput(value) => self.input_value = value,
+        }
+        true
+    }
+
+    fn change(&mut self, _: Self::Properties) -> ShouldRender {
+        false
+    }
+
+    fn view(&self) -> Html {
+        html! {
+            <div>
+                <input type="text" value=&self.input_value
+                    oninput=self.link.callback(|e: InputData| Msg::UpdateInput(e.value)) />
+                <button onclick=self.link.callback(|_| Msg::AddTask)>{ "Add" }</button>
+                <ul>
+                    { for self.tasks.iter().map(|task| html! { <li>{ task }</li> }) }
+                </ul>
+            </div>
+        }
+    }
+}
+```
+By structuring your Yew project this way, you’ll have clearly defined responsibilities and a tidy, maintainable codebase. Each component handles one aspect of the application’s functionality; hence, it is more manageable and extendable when necessary.
+
+###
