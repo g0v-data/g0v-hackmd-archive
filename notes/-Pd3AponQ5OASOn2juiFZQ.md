@@ -7,70 +7,21 @@ Yew is an incredibly versatile tool that allows web developers to craft their fr
 
 There are a few things that make Yew a winning proposition. First, the language relies on Rust’s strict type system to catch a number of mistakes in advance of program execution. This leads to highly reliable and robust applications. Second, it uses Rust’s async/await feature along with multi-threading to be able to retrieve and handle data in a better way. Also, Yew allows seamless interoperability with JavaScript. This implies that developers can invoke JavaScript functions and merge the current JavaScript libraries into their Rust codes enabling a broad array of web technologies that accompany Rust. Selecting Yew is very exciting to those who know Rust already and want to manage their abilities in front end development. Besides being a good choice for projects requiring high-speed performance and dependability; because it employs WebAssembly, its execution is fast while at the same time ensuring an error-free application behavior.
 
-## Quick steps on how to run and build a Yew app
-Let us walk through a step-by-step guide on how to run and build a Yew application:
+## What Yew Can Do
+A Todo list application we will create with the Yew framework should have multiple benefits, this is, for instance, the possibility of having full CRUD implementation where users can create new to-dos, view their current ones, update them, or delete them when they are no longer needed. To add a new item you simply need to provide an input field along with a button for submitting your task. Each todo will be displayed in the app together with its text and completion status while they can be altered or removed using interactive controls provided within the interface.
 
-* Step 1: Install Rust and Cargo. For those who have not yet done so, please go ahead and install Rust and Cargo from the guidelines found on rustup.rs.
-* Step 2: Create a New Yew Project. Create a new binary project using Cargo
 
-```bash
-cargo new --bin yew_app
-cd yew_app
-```
-* Step 3: Add Yew and WebAssembly Dependencies. Feel free to open the `Cargo.toml` file and add the necessary dependencies:
-```toml
-[package]
-name = "yew_app"
-version = "0.1.0"
-authors = ["Your Name"]
-edition = "2018"
+One of the things that makes Yew’s user interface reactive is its use of an effective virtual [DOM](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents). Thus, only areas of the `DOM` that have changed will be updated as the application state changes. Therefore, both user interface and handling are very fast and responsive making it have negligible performance cost.
 
-[dependencies]
-yew = "0.20" # Replace with the latest version
-wasm-bindgen = "0.2"
-wasm-bindgen-futures = "0.4"
-```
 
-* Step 4: Create the Main Component. The next thing we need to do is modify the `src/main.rs` file to define our Yew component:
-```rust
-use yew::prelude::*;
+Yew builds on Rust’s robust type system and safety amenities to improve the dependability of your software program. The type system in Rust assists in catching possible mistakes early while compiling therefore decreasing the chances of bugs that might occur during execution. Also, it is Rust’s ownership paradigm that helps in avoiding memory problems like null pointer dereferences or buffer overflows. Moreover, multi-threading is supported by Rust’s concurrency model which can prove useful for advanced applications.
 
-#[function_component(App)]
-fn app() -> Html {
-    html! {
-        <div>
-            <h1>{ "Hello, Yew!" }</h1>
-            <p>{ "Welcome to your first Yew app." }</p>
-        </div>
-    }
-}
+Compiling your Yew application into [WebAssembly](https://) (Wasm) makes it run almost like a native application on the web. There is an increasing tendency for machines to run webassembly just as fast as they do their language, this enhances user experience overall. Additionally, if there are any existing libraries needed for your application then you can utilize them because of its interoperability with javascript. Different platforms and browsers enjoy similar levels of performance since WebAssembly has one general binary format.
 
-fn main() {
-    yew::start_app::<App>();
-}
-```
+## What Yew Cannot Do
+There are a few drawbacks to Yew despite the many advantages. The number of frameworks designed specifically for Yew is limited compared to [JavaScript](https://www.javascript.com/), so you may have fewer libraries and tools in your project. This may make it beforehand hard for you to find pre-made solutions that address particular requirements or functionalities. In contrast, Yew usually requires a longer learning period than more popular JavaScript frameworks alongside Rust. Therefore, developers who are just starting with Rust may encounter some difficulties in terms of onboarding since they need to learn about new ownership and borrowing concepts which tend to be rather strict.
 
-* Step 5: Install wasm-pack. If for some reasons you don't have `wasm-pack` installed, feel free to install it using the following command:
-```bash
-curl https://rustwasm.github.io/wasm-pack/installer/init.sh -sSf | sh
-```
-* Step 6: Build the project to WebAssembly using `wasm-pack`:
-
-```bash
-wasm-pack build --target web
-```
-* Step 7: Using a basic HTTP server, run the app. If you haven’t already, go ahead and install` basic-http-server`:
-
-```bash
-cargo install basic-http-server
-```
-Then serve the application at:
-
-```bash
-basic-http-server ./pkg
-```
-* Step 8: To see your Yew application in action, please start your web browser and choose `http://127.0.0.1:4000`.
-
+The smallness of the community surrounding Yew as compared to older frameworks could lead to a lack of community support and reduced resources like tutorials or forums. This smaller community may affect the amount of assistance and common knowledge provided. Moreover, Yew has limited natively supported advanced features such as server-side rendering available in other frameworks. In case your project has extensive third-party integrations and complex server-side operations, you might require alternative solutions or extra mechanisms.
 
 ## Setting Up the Environment for a Yew Project
 To begin using Yew for front-end development, it is important to set up your development environment. This process entails installing the necessary tools and dependencies that are needed for Yew applications to be built and run.
@@ -559,29 +510,15 @@ Firstly, check whether all dependencies are appropriately included in the `Cargo
 The next step is to install a local application. This will entail converting Rust code into WebAssembly and hosting it online for development purposes. For doing this, one can either choose `trunk` or `wasm-pack` as their tools of choice. As an illustration, a `trunk` is commonly utilized in Yew-based projects. To begin with, one must install the `trunk` via cargo using a `cargo install trunk`. Thereafter, one runs the command `trunk build` which is responsible for compiling the rust files including all necessary dependencies used by the program itself. For testing purposes, however, you need to start up a local server by executing the command `trunk serve`. In addition, it opens a developing server that runs the application in a web browser and watches over changes made to the codebase while restarting if necessary.
 
 Output:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_471b5ddb67c2184575217b042a833363.gif)
+
+
 
 
 
 Discerning whether an application operates appropriately entails engaging with it to test all conceivable functionalities. Therefore, this incorporates ensuring that the UI updates correctly, checking realistic interactions among its components and determining if such works as intended and also verifying that it works alongside any associated backend features.
 
 Once you have validated that indeed it is functional, it will now be prepared for production. The process involves making the output of the build more efficient in size and speed. Hence by using the `trunk build` command optimized structures are generated that are fit for utilization. To deploy it, you must upload the files produced in the `dist` directory (which is created by `trunk build`) to your web host. This can be done through transferring files to a web server, configuring a [CDN](https://aws.amazon.com/what-is/cdn/#:~:), or executing deployment on platforms such as [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/).
-
-
-## What Yew Can Do
-A Todo list application created with the Yew framework has multiple benefits, this is, for instance, the possibility of having full CRUD implementation where users can create new to-dos, view their current ones, update them, or delete them when they are no longer needed. To add a new item you simply need to provide an input field along with a button for submitting your task. Each todo will be displayed in the app together with its text and completion status while they can be altered or removed using interactive controls provided within the interface.
-
-
-One of the things that makes Yew’s user interface reactive is its use of an effective virtual DOM. Thus, only areas of the DOM that have changed will be updated as the application state changes. Therefore, both user interface and handling are very fast and responsive making it have negligible performance cost.
-
-
-Yew builds on Rust’s robust type system and safety amenities to improve the dependability of your software program. The type system in Rust assists in catching possible mistakes early while compiling therefore decreasing the chances of bugs that might occur during execution. Also, it is Rust’s ownership paradigm that helps in avoiding memory problems like null pointer dereferences or buffer overflows. Moreover, multi-threading is supported by Rust’s concurrency model which can prove useful for advanced applications.
-
-Compiling your Yew application into WebAssembly (Wasm) makes it run almost like a native application on the web. There is an increasing tendency for machines to run webassembly just as fast as they do their language, this enhances user experience overall. Additionally, if there are any existing libraries needed for your application then you can utilize them because of its interoperability with javascript. Different platforms and browsers enjoy similar levels of performance since WebAssembly has one general binary format.
-
-## What Yew Cannot Do
-There are a few drawbacks to Yew despite the many advantages. The number of frameworks designed specifically for Yew is limited compared to [JavaScript](https://www.javascript.com/), so you may have fewer libraries and tools in your project. This may make it beforehand hard for you to find pre-made solutions that address particular requirements or functionalities. In contrast, Yew usually requires a longer learning period than more popular JavaScript frameworks alongside Rust. Therefore, developers who are just starting with Rust may encounter some difficulties in terms of onboarding since they need to learn about new ownership and borrowing concepts which tend to be rather strict.
-
-The smallness of the community surrounding Yew as compared to older frameworks could lead to a lack of community support and reduced resources like tutorials or forums. This smaller community may affect the amount of assistance and common knowledge provided. Moreover, Yew has limited natively supported advanced features such as server-side rendering available in other frameworks. In case your project has extensive third-party integrations and complex server-side operations, you might require alternative solutions or extra mechanisms.
 
 ## Yew vs React
 Between the Yew framework using Rust and [React](https://react.dev/), a prominent JavaScript framework, a number of dissimilarities and similarities can be noted down. Advantages offered by Yew include quintessential type safety and WebAssembly almost near-native speed, while React which has matured owing to its vast community support, extensive set of tools, and ecosystem. Hence, performance needs, language preferences as well as individual project requirements may affect choosing either Yew or React.
@@ -591,22 +528,86 @@ You can find below a table indicating such issues:
 
 | Feature                      | Yew (Rust)                                           | React (JavaScript)                                    |
 |------------------------------|------------------------------------------------------|-------------------------------------------------------|
-| **Language**                 | Rust                                                 | JavaScript                                            |
-| **Ecosystem**                | Smaller, fewer libraries and tools                   | Large, mature ecosystem with extensive libraries and tools |
-| **Learning Curve**           | Steeper due to Rust's ownership and borrowing rules | Generally easier, with a large amount of learning resources |
-| **Type System**              | Strongly typed with Rust's type system               | Dynamically typed, but TypeScript can be used for strong typing |
-| **Performance**              | Near-native performance with WebAssembly             | High performance in the browser, though typically slower than Wasm |
-| **Compilation**              | Compiles to WebAssembly (Wasm)                        | Runs directly in the browser using JavaScript         |
-| **UI Updates**               | Efficient DOM updates via virtual DOM                 | Efficient DOM updates via virtual DOM                  |
-| **State Management**         | Built-in support for state management                 | Various state management solutions (e.g., Context API, Redux) |
-| **Community Support**        | Smaller community, fewer resources                    | Large community with extensive support and resources  |
-| **Server-Side Rendering**    | Limited built-in support for server-side rendering    | Strong support with frameworks like Next.js           |
-| **Third-Party Integrations** | Limited compared to JavaScript frameworks            | Extensive third-party integrations and plugins         |
-| **Tooling**                  | Limited compared to JavaScript tooling                | Comprehensive tooling including build systems, debugging tools, etc. |
-| **Development Speed**        | Slower due to Rust’s complexity and compilation times | Faster, with a vast amount of development tools and libraries available |
-| **Code Safety**              | High, with Rust’s strict safety and concurrency guarantees | Moderate, with potential runtime errors in JavaScript |
-| **Browser Compatibility**    | Runs in modern browsers via WebAssembly               | Runs natively in all modern browsers                   |
+| Language                 | Rust                                                 | JavaScript                                            |
+| Ecosystem                | Smaller, fewer libraries and tools                   | Large, mature ecosystem with extensive libraries and tools |
+| Learning Curve           | Steeper due to Rust's ownership and borrowing rules | Generally easier, with a large amount of learning resources |
+| Type System              | Strongly typed with Rust's type system               | Dynamically typed, but TypeScript can be used for strong typing |
+| Performance              | Near-native performance with WebAssembly             | High performance in the browser, though typically slower than Wasm |
+| Compilation              | Compiles to WebAssembly (Wasm)                        | Runs directly in the browser using JavaScript         |
+| UI Updates               | Efficient DOM updates via virtual DOM                 | Efficient DOM updates via virtual DOM                  |
+| State Management         | Built-in support for state management                 | Various state management solutions (e.g., Context API, Redux) |
+| Community Support        | Smaller community, fewer resources                    | Large community with extensive support and resources  |
+| Server-Side Rendering    | Limited built-in support for server-side rendering    | Strong support with frameworks like Next.js           |
+| Third-Party Integrations | Limited compared to JavaScript frameworks            | Extensive third-party integrations and plugins         |
+| Tooling                  | Limited compared to JavaScript tooling                | Comprehensive tooling including build systems, debugging tools, etc. |
+| Development Speed        | Slower due to Rust’s complexity and compilation times | Faster, with a vast amount of development tools and libraries available |
+| Code Safety              | High, with Rust’s strict safety and concurrency guarantees | Moderate, with potential runtime errors in JavaScript |
+| Browser Compatibility    | Runs in modern browsers via WebAssembly               | Runs natively in all modern browsers                   |
 
+
+## A Recap on how to run and build a Yew app
+Let us walk through a step-by-step guide on how to run and build a Yew application:
+
+* Step 1: Install Rust and Cargo. For those who have not yet done so, please go ahead and install Rust and Cargo from the guidelines found on rustup.rs.
+* Step 2: Create a New Yew Project. Create a new binary project using Cargo
+
+```bash
+cargo new --bin yew_app
+cd yew_app
+```
+* Step 3: Add Yew and WebAssembly Dependencies. Feel free to open the `Cargo.toml` file and add the necessary dependencies:
+```toml
+[package]
+name = "yew_app"
+version = "0.1.0"
+authors = ["Your Name"]
+edition = "2018"
+
+[dependencies]
+yew = "0.20" # Replace with the latest version
+wasm-bindgen = "0.2"
+wasm-bindgen-futures = "0.4"
+```
+
+* Step 4: Create the Main Component. The next thing we need to do is modify the `src/main.rs` file to define our Yew component:
+```rust
+use yew::prelude::*;
+
+#[function_component(App)]
+fn app() -> Html {
+    html! {
+        <div>
+            <h1>{ "Hello, Yew!" }</h1>
+            <p>{ "Welcome to your first Yew app." }</p>
+        </div>
+    }
+}
+
+fn main() {
+    yew::start_app::<App>();
+}
+```
+
+* Step 5: Install wasm-pack. If for some reasons you don't have `wasm-pack` installed, feel free to install it using the following command:
+```bash
+curl https://rustwasm.github.io/wasm-pack/installer/init.sh -sSf | sh
+```
+* Step 6: Build the project to WebAssembly using `wasm-pack`:
+
+```bash
+wasm-pack build --target web
+```
+* Step 7: Using a basic HTTP server, run the app. If you haven’t already, go ahead and install` basic-http-server`:
+
+```bash
+cargo install basic-http-server
+```
+Then serve the application at:
+
+```bash
+basic-http-server ./pkg
+```
+* Step 8: To see your Yew application in action, please start your web browser and choose `http://127.0.0.1:4000`.
 
 ## Conclusion
 The year 2024 offers a strong claim for Yew as a top front-end framework. It leverages the power of Rust while delivering the essential traits of flexibility and performance for contemporary web development. An exemplary use case demonstrating Yew’s strength in component-based design, state management, and optimal rendering made possible by WebAssembly is creating a to-do list app. 

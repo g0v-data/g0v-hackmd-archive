@@ -1,6 +1,6 @@
-<a href="https://dangnhapfun88.co/">Yeu88 </a>là sân chơi giải trí uy tín hàng đầu thị trường với nhiều ưu điểm nổi bật. Cùng đánh giá về chất lượng của thương hiệu này ngay.
+<a href="https://yeu88app.com/">Yeu88</a> là sân chơi giải trí uy tín hàng đầu thị trường với nhiều ưu điểm nổi bật. Cùng đánh giá về chất lượng của thương hiệu này ngay.
 Thông tin chi tiết:
-Website: <a href="https://dangnhapfun88.co/">https://dangnhapfun88.co/</a>
+Website:<a href="https://yeu88app.com/">https://yeu88app.com/</a>
 Địa chỉ: 50 Đ. Hồ Hảo Hớn, Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh, Việt Nam
 Email: cskh@yeu88app.com
 Phone: 0775.855.888
