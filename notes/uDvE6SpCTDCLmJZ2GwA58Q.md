@@ -218,6 +218,7 @@ tags: 新生流域
     - 基隆河舊河道表演藝術中心開挖相關探討 https://www.facebook.com/story.php?story_fbid=pfbid0aUxwbGiNNZ4z7jHotZYARv8uBZ1q3gfHEDzsYzXgdnuqGJwg3zyPJbpMQXZDBzRPl&id=100000270465918&mibextid=WC7FNe
 
 ### 案例
+- 芝加哥 河流人工浮島 https://www.facebook.com/share/r/V43PRFoXfobp3er2/
 - 韓國 光電板結合自行車專用道 
     - https://www.facebook.com/share/tdvsKEtCv4RUgYmW/
     - https://www.facebook.com/share/v/TmTuDZWYArTFgLpZ/
