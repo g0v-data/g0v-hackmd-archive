@@ -51,7 +51,7 @@ cd yew_example
 * Add Yew Dependencies: After that, you will have to insert Yew and other dependencies related to it in your project. Locate Cargo.toml in the main directory of your project. This file is where you mention all the dependencies for your Rust project.
 To include Yew and its related libraries, type these lines below the section labeled ‘[dependencies]’:
 
-```rust
+```toml
 [dependencies]
 yew = "0.20" # Replace with the latest version if necessary
 wasm-bindgen = "0.2"
@@ -62,7 +62,8 @@ wasm-bindgen-futures = "0.4"
 * Configure the Project for WebAssembly: It is important to adjust the `Cargo.toml` file by specifying crate type as `cdylib` to generate WebAssembly modules for your project.
 
 You should add this configuration in `Cargo.toml`:
-```rust
+
+```toml
 [lib]
 crate-type = ["cdylib"]
 
@@ -499,6 +500,11 @@ Output:
 Discerning whether an application operates appropriately entails engaging with it to test all conceivable functionalities. Therefore, this incorporates ensuring that the UI updates correctly, checking realistic interactions among its components and determining if such works as intended and also verifying that it works alongside any associated backend features.
 
 Once you have validated that indeed it is functional, it will now be prepared for production. The process involves making the output of the build more efficient in size and speed. Hence by using the `trunk build` command optimized structures are generated that are fit for utilization. To deploy it, you must upload the files produced in the `dist` directory (which is created by `trunk build`) to your web host. This can be done through transferring files to a web server, configuring a [CDN](https://aws.amazon.com/what-is/cdn/#:~:), or executing deployment on platforms such as [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/).
+
+## Step-by-step guide on how to run and build a Yew application
+Here a step-by-step guide on how to run and build a Yew application:
+
+
 
 
 ## What Yew Can Do
