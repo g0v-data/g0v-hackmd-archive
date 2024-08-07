@@ -522,26 +522,3 @@
 | [RememberingSW](../../notes/lXIjB8KzQaKRT759gojeMA.md) | 想對昇瑋老師說 | 2020-04-14T10:22:20+08:00 | View mode |
 | [rJ-X2rQar](../../notes/4E6KSG35Q0ehuRmIJmUMRQ.md) | g0v 宣言台語版 | 2019-12-03T10:44:41+08:00 | View mode |
 | [H1qJr6AAL](../../notes/U_6wt33xQpKX4dRHbVtdLg.md) | 地方創生種籽營合作松 | 2020-07-05T11:11:29+08:00 | Edit mode |
-| [bess_TPET12](../../notes/6fq0tnHySqWLjsM7pLOonA.md) | TPET 12 噗浪講堂 | 零時小學校：開源社群的教育專案 | 2020-07-30T20:51:07+08:00 | View mode |
-| [cancelticket](../../notes/evpZ-pIkQ3eIEE3IvlKXsg.md) | 我很棒我不 N0 SH0W：如何在 KKTIX 取消訂單 | 2020-07-24T17:08:53+08:00 | View mode |
-| [40nCake](../../notes/YHdXK4q8RGi4YRGa75f5fA.md) | Hackath40n Cake Challenge | 2020-07-21T14:31:00+08:00 | View mode |
-| [Sch001_workshopIII](../../notes/GuQyj9O4RlGBHV2D6JBtqA.md) | 2020 零時小學校：第三次工作坊 Sch001 Workshop III | 2020-05-29T18:49:05+08:00 | View mode |
-| [Bka16FdpL](../../notes/Nw-WH3DoT9ulnKgWEf9n9A.md) | 為什麼誠致選擇投資在「識字量」這個題目？ | 2020-06-18T14:42:45+08:00 | View mode |
-| [rJMigGdc8](../../notes/JzKX1SkgSXuxCy8UFZJHcg.md) | 開源農業專案盤點與資訊分享 | 2020-05-12T20:03:37+08:00 | View mode |
-| [H1WDEuj4L](../../notes/bDzag07sQWaP6zj32WTJYw.md) | 又在家松 - 各專案視訊會議室 | 2020-03-03T14:08:25+08:00 | View mode |
-| [rkVcGs0F8](../../notes/ok46zESHRwCJaFIYM3bwew.md) | 又在家松活動流程 | 2020-05-05T16:23:39+08:00 | View mode |
-| [g0v38thnewcomeren](../../notes/NisDKPMBSgWUIbobcHqxsA.md) | g0v online Hackathon Newcomer's Action Guide | 2020-03-05T16:15:34+08:00 | View mode |
-| [edu_au_0331](../../notes/pejf4eOnSfWnAjeE399bhw.md) | 零時小學校 Sch001：g0v jothon 拜訪 au | 2020-04-20T11:03:16+08:00 | View mode |
-| [r1Zkxv2DI](../../notes/Yr8UYuK7RluT23Cvemcs9g.md) | 教學文：第一次參加零時小學校工作坊 | 2020-04-09T16:42:01+08:00 | View mode |
-| [g0v-infras-16](../../notes/g0v-infras-16.md) | 第拾陸次基礎建設松 g0v infrath16n | 2020-03-20T11:39:57+08:00 | View mode |
-| [g0v-infras-15](../../notes/g0v-infras-15.md) | 第拾伍次基礎建設松 | 2019-12-30T13:22:45+08:00 | View mode |
-| [g0v-hackath38n](../../notes/g0v-hackath38n.md) | hackath38n - 第參拾捌次在家黑客松 | 2020-02-26T12:51:46+08:00 | Book mode |
-| [SktGdVAVU](../../notes/dOt6002FTe2loy3Ncq6_7Q.md) | g0v Hackath38n 在家松實體坑共筆 | 2020-03-05T16:28:01+08:00 | View mode |
-| [rkK-AtX4I](../../notes/hNr9EPGMR729p6xvzTBa0A.md) | 在家松主頻道 youtube 直播 | 2020-02-26T14:19:44+08:00 | View mode |
-| [SJIv1q7V8](../../notes/-g0v-Community-Hangout-14th.md) | 第拾肆次 g0v 揪松團 松前哈拉 | 2020-02-26T14:25:34+08:00 | View mode |
-| [g0v38thrundownen](../../notes/uiMPHqgpQQeLAL0a3TyIAQ.md) | Hack from Home Hackath38n Run-Down | 2020-03-05T15:47:05+08:00 | View mode |
-| [H1NHduoE8](../../notes/H5eVeygIRRO8Zh3OGQEfhQ.md) | 在家松活動流程 | 2020-03-03T14:24:59+08:00 | View mode |
-| [g0v-infrastructure-list](../../notes/3kbfZPxeRqC3o201jqJ8Gg.md) | g0v 基礎建設資料整理彙集 | 2019-09-27T17:52:53+08:00 | Book mode |
-| [uswatchertp](../../notes/2hL78htgTEyuaZEpaiHlCQ.md) | 20200118 美國國會台灣觀測站 分享會 | 2020-01-17T11:39:15+08:00 | View mode |
-| [rylPSM6LiS](../../notes/NYt0vq1xSr6R20r0GZ15dg.md) | 【新聞稿】2019 年 g0v 開放了什麼？黑客齊聚忘年會放眼新一年 | 2019-11-11T19:13:03+08:00 | View mode |
-| [rylYcs_SmH](../../notes/g0v-hackath36n.md) | hackath36n - 第參拾陸次開放台北市議會黑客松 | 2019-08-05T17:49:05+08:00 | View mode |
