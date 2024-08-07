@@ -21,6 +21,9 @@ tags: vtaiwan,dpsurvey
     - 之前也有跟 vTaiwan 與 g0v 接觸。
 - [開拓文教基金會](https://www.frontier.org.tw/blog2/關於我們/)
     - 執行長蔡淑芳引導師是著名的審議相關討論引導師
+- [Co.Lab 齊想創造工作室](https://hackmd.io/@twcolab/intro)
+    - 由前 PDIS 團隊成員許恩恩創立
+    - 
 - [青平台基金會](https://future.org.tw)
     - 之前有舉辦公共討論與審議民主人才培育。
     - 目前有 [慕哲政經塾活動](https://future.org.tw/civicrm/event/register?id=132&reset=1)。
@@ -38,8 +41,7 @@ tags: vtaiwan,dpsurvey
 - [2016/12/05 「虛實整合下的公民參與工作坊第4期」 Day1](https://paper.dropbox.com/doc/20161205-4-Day1-6p45nE2UBBShUttAAngyU)
 - [2016/12/06 「虛實整合下的公民參與工作坊第4期」 Day2](https://paper.dropbox.com/doc/20161206-4-Day2-XvN7FHen9eYGTh3u2lW20)
 - [vTaiwan及Join平台相關訪談（呂家華）](https://sayit.archive.tw/vtaiwan%E5%8F%8Ajoin%E5%B9%B3%E5%8F%B0%E4%B9%8B%E5%88%86%E6%9E%90%E8%A8%AA%E8%AB%87%E5%91%82%E5%AE%B6%E8%8F%AF)
-- [vTaiwan及Join平台相關訪談（唐鳳）]
-(http://sayit.archive.tw/vtaiwan%E5%8F%8Ajoin%E5%B9%B3%E5%8F%B0%E4%B9%8B%E5%88%86%E6%9E%90%E8%A8%AA%E8%AB%87%E5%94%90%E9%B3%B3)
+- [vTaiwan及Join平台相關訪談（唐鳳）](http://sayit.archive.tw/vtaiwan%E5%8F%8Ajoin%E5%B9%B3%E5%8F%B0%E4%B9%8B%E5%88%86%E6%9E%90%E8%A8%AA%E8%AB%87%E5%94%90%E9%B3%B3)
 - [民眾進入政策溝通的困境](https://www.youtube.com/watch?v=4gT-1tMmIrg)
 - [政府進入政策溝通的困境](https://www.youtube.com/watch?v=8dVb6LXVTtA)
 - [政府 x 民間 x 網路 x 審議](https://www.youtube.com/watch?v=RJsvuh5-Djw)

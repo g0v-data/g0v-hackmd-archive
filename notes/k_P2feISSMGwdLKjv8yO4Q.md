@@ -8,7 +8,7 @@ tags: vtaiwan,dpsurvey
 - [0720大松提案ppt](https://docs.google.com/presentation/d/1iDZK7apnp-pw6vId-rRHeSfol8DpRddycU_S3HBQcMk/edit?usp=sharing)
 - [小聚討論資訊暫存區](/MsTKawWUTe6IXnGbwnwPhQ)
 ## 工具與平台收集
-- [審議與公共參與相關課程](/qJ460ImBQHi8vjNBQclhzA)
+- [審議與公共參與相關資源](/qJ460ImBQHi8vjNBQclhzA)
 - [整合介紹區](/JH7ecOD9RQiFQBzLw-T03g)
 - [個別工具資訊整理](/tLkFGP2QSMOjQijxYsg7yA)
 - [標準收集](/PHkctw6IRgeqbtdfrLCuBQ)
