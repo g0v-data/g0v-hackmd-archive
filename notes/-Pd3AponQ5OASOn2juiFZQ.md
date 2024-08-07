@@ -401,14 +401,14 @@ fn main() {
     yew::start_app::<TodoList>();
 }
 ```
-In this instance, we make use of the Task `struct` that depicts single tasks alongside their respective details as well as how far along they are in terms of execution. Furthermore, new messages concerning task completion toggle have been added to the `Msg enumeration`, and those related to task exclusion have been included. These new message types have also been integrated into the update function so that it takes into consideration changes in task completion status or exclusion from lists. In terms of toggling tasks’ completion status or getting rid of them altogether, the `view` method now contains extra user interface elements
+In this instance, we make use of the Task `struct` that depicts single tasks alongside their respective details and how far along they are in terms of execution. Furthermore, new messages concerning task completion toggle have been added to the `Msg enumeration`, and those related to task exclusion have been included. These new message types have also been integrated into the update function so that it takes into consideration changes in task completion status or exclusion from lists. In terms of toggling tasks’ completion status or getting rid of them altogether, the `view` method now contains extra user interface elements
 
 ### Managing State
 State management is very important for any dynamic web application so that the UI shows the current data and reacts to user actions. Rust front-end frameworks like Yew provide several different methods for effectively handling state which take advantage of the strong typing and memory safety features that are associated with Rust.
 
 A to-do list application has a state that mainly comprises the lists of tasks as well as other data related to the user interface (UI) such as input field values There are proper ways in which one can handle his or her state by keeping track of your current tasks, adding new ones marking them completed, or even deleting those from the list.
 
-In Yew, the state control is handled within the structure of the component. You create it as attribute fields in your struct and react to changes through messages. Therefore, the update method will process the messages for updates, which will consequently change state thus prompting re-rendering before they appear on the screen.
+In Yew, the state control is handled within the structure of the component. You create it as attribute fields in your struct and react to changes through messages. Therefore, the `update` method will process the messages for updates, which will consequently change state thus prompting re-rendering before they appear on the screen.
 
 For instance, if you would like to manage states in a Yew to-do list application:
 
@@ -500,14 +500,14 @@ fn main() {
     yew::start_app::<TodoList>();
 }
 ```
-The state of the application together with tasks and current input value are managed by the `TodoList` struct in this example. The update method which modifies the state deals with different messages such as: adding new tasks, updating the input box, toggling task completion, and removing tasks. Each time there are any changes in the state, a re-render is triggered, making sure that the UI reflects its recent updates.
+The state of the application together with tasks and current input value are managed by the `TodoList` struct in this example. The `update` method which modifies the state deals with different messages such as: adding new tasks, updating the input box, toggling task completion, and removing tasks. Each time there are any changes in the state, a re-render is triggered, making sure that the UI reflects its recent updates.
 
 ## Running and Building the Application
 Following the construction of the to-do list program, the next actions include executing and compiling it in confirmation of its proper working and readiness for production. This stage entails establishing a build environment, verifying its operation through local testing as well as making arrangements for deployment.
 
 Firstly, check whether all dependencies are appropriately included in the `Cargo.toml` file. This document outlines the libraries and versions necessary to compile Rust code and create WebAssembly (Wasm) binaries.
 
-The next step is to install a local application. This will entail converting Rust code into WebAssembly and hosting it online for development purposes. For doing this, one can either choose a `trunk` or `wasm-pack` as their tools of choice. As an illustration, a `trunk` is commonly utilized in Yew-based projects. To begin with, one must install the `trunk` via cargo using a `cargo install trunk`. Thereafter, one runs the command `trunk build` which is responsible for compiling the rust files including all necessary dependencies used by the program itself. For testing purposes, however, you need to start up a local server by executing the command `trunk serve`. In addition, it opens a developing server that runs the application in a web browser and watches over changes made to the codebase while restarting if necessary.
+The next step is to install a local application. This will entail converting Rust code into WebAssembly and hosting it online for development purposes. For doing this, one can either choose a `trunk` or `wasm-pack` as their tools of choice. As an illustration, a `trunk` is commonly utilized in Yew-based projects. To begin with, one must install the `trunk` via `cargo` using a `cargo install trunk`. Thereafter, one runs the command `trunk build` which is responsible for compiling the rust files including all necessary dependencies used by the program itself. For testing purposes, however, you need to start up a local server by executing the command `trunk serve`. In addition, it opens a developing server that runs the application in a web browser and watches over changes made to the codebase while restarting if necessary.
 
 Output:
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_471b5ddb67c2184575217b042a833363.gif)
@@ -582,7 +582,7 @@ basic-http-server ./pkg
 
 
 ## Yew vs React
-Between the Yew framework using Rust and [React](https://react.dev/), a prominent JavaScript framework, several dissimilarities and similarities can be noted down. Advantages offered by Yew include quintessential type safety and WebAssembly almost near-native speed, while React has matured owing to its vast community support, extensive set of tools, and ecosystem. Hence, performance needs, language preferences as well as individual project requirements may affect choosing either Yew or React.
+Between the Yew framework using Rust and [React](https://react.dev/), a prominent JavaScript framework, several dissimilarities and similarities can be noted down. Advantages offered by Yew include quintessential type safety and WebAssembly almost near-native speed, while React has matured owing to its vast community support, extensive set of tools, and ecosystem. Hence, performance needs, language preferences, and individual project requirements may affect choosing either Yew or React.
 
 You can find below a table indicating such issues:
 
