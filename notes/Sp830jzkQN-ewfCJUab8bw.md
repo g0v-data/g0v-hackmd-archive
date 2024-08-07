@@ -12,6 +12,9 @@ tags: 公民科學
 大安森林公園深井式地震觀測站
 https://photos.app.goo.gl/C68YqeqKCsZuhPq16
 
+地震測站
+https://www.facebook.com/share/p/7VJeWU65BGhp5VPk/
+
 山區地震活動監測儀器
 https://www.facebook.com/photo.php?fbid=644344807705078&id=100063886924126&set=a.210649104407986&mibextid=tejx2t
 
