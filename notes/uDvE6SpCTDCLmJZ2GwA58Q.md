@@ -146,6 +146,7 @@ tags: 新生流域
         - https://www.wra10.gov.tw/cl.aspx?n=33600#lg=1&slide=20
     - 民權東路雙城街附近 https://www.facebook.com/groups/2840746989582243/permalink/3559003084423293/?comment_id=3559028367754098&reply_comment_id=3561050130885255&mibextid=S66gvF
     - 2009 新生高架橋修繕與通車 https://youtu.be/GHbVQPuPM3o
+    - 大同高中與長春國小交界設立水圳解說https://www.facebook.com/share/p/dUWN9ipNkRbQsF7c/
     - 圓山保齡球館 https://www.facebook.com/story.php?story_fbid=pfbid0KpH3ackA2iep9ZGL8moDwnRTWPx7RgTymnpkrXLGv8sTk8PMQ4YhT9kp4SGavS8Bl&id=747873617&mibextid=qC1gEa
     - 待確認 影片中 7:21 是否為新生北路地區 https://youtu.be/ok5qC4lQfNI
     - 線上地圖中，已有先標記出需要查找興建年份的建物 
