@@ -16,3 +16,5 @@ tags: vtaiwan,dpsurvey
 - [digital tools rating](https://www.peoplepowered.org/platform-ratings)
 - [civic tech field guide](https://civictech.guide)
 - [MIT GOV/LAB](https://mitgovlab.org/resources/dont-build-it-a-guide-for-practitioners-in-civic-tech/)
+- [智慧民主卡牌遊戲](https://www.wd-pl.com/get-your-deck/download/)
+- 
