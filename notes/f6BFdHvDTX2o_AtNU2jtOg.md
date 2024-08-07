@@ -523,6 +523,7 @@ https://www.facebook.com/climatecentral/videos/10159237302255024/
 ## 聲音地圖 Soundscape / 噪音地圖 Noise
 
 ### 聲音地圖 Soundscape
+
 GBIF Soundscape 
 https://peterneish.github.io/gbif-soundscape/
 Unstructured data such as free text, images, sounds, and other media are less commonly used in biodiversity studies than structured information such as species occurrences. Nevertheless, these sources represent a rich stream of information, some of which is not generally available through more conventional sources. This information is of value for scientific, research, and conservation management use, as well as for communication and outreach to public and other audiences.
@@ -530,7 +531,6 @@ Unstructured data such as free text, images, sounds, and other media are less co
 http://www.playpcesor.com/2017/08/Xeno-canto-Macaulay-Library.html
 海洋聲音地圖
 https://www.facebook.com/OceanSaysBlog/posts/732958853553735
-森林
 《自然之聲地圖》(Nature Sound Map)這個免費線上網站，蒐集了來自全球400個森林聲景音樂
 https://www.everydayweplay365.com/single-post/2018/03/23/naturesoundmap
 Sounds of the Forest 全世界森林環境音
@@ -549,13 +549,11 @@ MyCity, MySounds
 https://zkm.de/de/projekt/mycity-mysounds
 Hush City: the app to find and map the quietness around you!
 https://play.google.com/store/apps/details?id=com.hushcity.app&fbclid=IwAR1-1bXvyRg1ZonDVCt-S6RIHNlNWf25VWw2VFABGsoWTdKL56e8bgovL5c
-EU
+
 Europeana Sounds 歐洲聲音檔案
 https://www.facebook.com/ilyaericlee/posts/10154649991931746
-慕尼黑
-口述歷史地圖 
+慕尼黑 口述歷史地圖 
 http://www.memoryloops.net/de/intro
-NY
 The NYC Urban Noise Diagnotor system
 https://junipertcy.info/projects
 曼哈頓東村
@@ -588,6 +586,8 @@ https://hzsoundscape.com.tw
 http://designwork2013.wixsite.com/vivoss
 臺南府城聲景地圖 
 https://www.tgos.tw/MapSites/Web/Map/MS_Map.aspx?themeid=230&type=view&visual=point
+聲存指南-屬於台南的第一本聲音地景探索書
+https://www.pinkoi.com/product/taGd2BGJ
 
 高雄左營
 https://udn.com/news/story/7327/3845159

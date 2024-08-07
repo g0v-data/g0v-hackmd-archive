@@ -42,7 +42,7 @@ cargo --version
 ```bash
 cargo install wasm-pack
 ```
-In addition, you will need [trunk](https://trunkrs.dev/) - which is a build tool for various Rust projects that takes care of building and bundling Yew applications. Besides, `Trunk` serves your application locally for development purposes. To install the `trunk`, use this command:
+In addition, you will need [trunk](https://trunkrs.dev/)  which is a build tool for various Rust projects that takes care of building and bundling Yew applications. Besides, `Trunk` serves your application locally for development purposes. To install the `trunk`, use this command:
 ```bash
 cargo install trunk
 ```
@@ -51,7 +51,7 @@ If you have installed Rust, `wasm-pack`, and `trunk` now it’s the right time t
 ## Creating a New Yew Project
 The setup of your environment for development marks the beginning of starting a new Yew project. In doing so, you will create a new Rust project, including Yew as a dependency, and set up your project for WebAssembly compatibility. The following detailed instructions will help you begin:
 
-* Create a New Rust Project: To get things underway, you’ll want to create a fresh Rust project utilizing Cargo, Rust’s package manager and build system. Open the terminal at hand and type out this command:
+* Create a New Rust Project: To get things underway, you’ll want to create a fresh Rust project utilizing `Cargo`, Rust’s package manager and build system. Open the terminal at hand and type out this command:
 
 ```bash
 cargo new yew_example --bin
@@ -63,8 +63,8 @@ Enter into your project directory by typing:
 cd yew_example
 ```
 
-* Add Yew Dependencies: After that, you will have to insert Yew and other dependencies related to it in your project. Locate Cargo.toml in the main directory of your project. This file is where you mention all the dependencies for your Rust project.
-To include Yew and its related libraries, type these lines below the section labeled ‘[dependencies]’:
+* Add Yew Dependencies: After that, you will have to insert Yew and other dependencies related to it in your project. Locate `Cargo.toml` in the main directory of your project. This file is where you mention all the dependencies for your Rust project.
+To include Yew and its related libraries, type these lines below the section labeled `[dependencies]`:
 
 ```toml
 [dependencies]
@@ -90,7 +90,8 @@ edition = "2018"
 ```
 In the `[lib]` section, a dynamic library `(cdylib)` that can be utilized with WebAssembly is stipulated as an output. The `[package]` section contains your project’s metadata.
 
-* Write Yew Code: Let’s start by creating a simple Yew component for testing purposes. Erase the contents of src/main.rs and put in these words:
+* Write Yew Code: Let’s start by creating a simple Yew component for testing purposes. Erase the contents of `src/main.rs` and put in these words:
+
 ```rust
 use yew::prelude::*;
 
@@ -119,7 +120,8 @@ A `src` folder that contains all source files will exist in your main project di
 
 This file called `main.rs` is the first file in the Rust application and is responsible for bootstrapping a Yew app. Typically, this file contains the `main` function that calls `yew::start_app::();`, where Model is your `root` component.
 
-Here is an example of what the `main.rs` file might look like:
+Here is an example of what the `main.rs` file should look like:
+
 ```rust
 use yew::prelude::*;
 
@@ -158,9 +160,9 @@ This coding example tells you how to create a simple Yew application using the R
 
 The `Model` struct constitutes the main part of the application. This simple example shows that an empty `Model` struct can merely serve as a placeholder for it. In defining how Yew components work, the Component trait is put into practice in the `Model` struct. The implementation entails a few methods: The `create` method initializes the component. The parameters supplied are for properties and component links, however, since the `Model` component does not need any properties or messages this method will just return an instance of Model.
 
-The `update` method carries out the updates to the component. Nevertheless, even though the Message type is set as a `unit type (())`, thereby implying that it does not manage specific messages, the procedure returns true for the component to be remade any time there are updates. The `change` method is called when the properties of the component change. Since properties are `unit type (())`, it returns `false`, meaning the component does not need to be redrawn for this property sort of changes.
+The `update` method carries out the updates to the component. Nevertheless, even though the Message type is set as a `unit type (())`, thereby implying that it does not manage specific messages, the procedure returns `true` for the component to be remade any time there are updates. The `change` method is called when the properties of the component change. Since properties are `unit type (())`, it returns `false`, meaning the component does not need to be redrawn for this property sort of changes.
 
-The `view` method creates the user interface of a component. It defines how its HTML layout will look like using Yew’s `html! macro`. Here it uses TodoList which is just one of the main components within the components module. To commence the Yew application, the `primary` function triggers whatever is defined inside `yew::start_app::()`. This first initializes the application and mounts the Model component to the webpage, creates initial rendering, and commences the Yew runtime all at once.
+The `view` method creates the user interface of a component. It defines how its [HTML](https://html.com/) layout will look like using Yew’s `html! macro`. Here it uses TodoList which is just one of the main components within the components module. To commence the Yew application, the `primary` function triggers whatever is defined inside `yew::start_app::()`. This first initializes the application and mounts the Model component to the webpage, creates initial rendering, and commences the Yew runtime all at once.
 
 ### The `components/todo_list.rs` file
 Here is an example of what the `components/todo_list.rs` file should look like:
@@ -222,17 +224,16 @@ impl Component for TodoList {
     }
 }
 ```
-The `TodoList` component is defined in the provided code which enables users to manage their list of things to do. This component has its main job in preparing how it appears on screen, responding when people click or move the mouse over it as well as changing its inner condition. In the `TodoList` struct, we keep some variables like – a pointer to our struct itself(a component), a tasks list, and an input field current value. Two messages have been defined in `Msg enum type: AddTask` which is meant for adding new works and `UpdateInput` intended for modifying the value of an input field.
+The `TodoList` component is defined in the provided code which enables users to manage their list of things to do. This component has its main job in preparing how it appears on screen, responding when people click or move the mouse over it as well as changing its inner condition. In the `TodoList` struct, we keep some variables like `– a pointer` to our struct itself(a component), a tasks list, and an input field current value. Two messages have been defined in `Msg enum type: AddTask` which is meant for adding new works and `UpdateInput` intended for modifying the value of an input field.
 
-The `component` trait implementation for the TodoList first makes use of an empty list of tasks and an empty input value in the create method. It also establishes the component link which allows the component and Yew framework to communicate. Received messages are handled by the `update` method in this component. When the `AddTask` message is received, it adds the current input value to the task list if it is non-empty then clears the input field. On receiving `UpdateInput` it updates the input value with new text. The `Change` method that deals with property changes is implemented here, but always returns false since we have nothing to change.
+The `component` trait implementation for the TodoList first makes use of an empty list of tasks and an empty input value in the `create` method. It also establishes the component link which allows the component and Yew framework to communicate. Received messages are handled by the `update` method in this component. When the `AddTask` message is received, it adds the current input value to the task list if it is non-empty then clears the input field. On receiving `UpdateInput` it updates the input value with new text. The `Change` method that deals with property changes is implemented here, but always returns `false` since we have nothing to change.
 
-`HTML! macro` is utilized in the `view` method to outline the user interface. It shows an input field where new tasks can be typed by users along with a button that adds it to the list of pending ones and utilizes an unordered list as a means of displaying current tasks. The `oninput` and `onclick` attributes utilize callbacks to control user input and button clicks respectively which prompt suitable messages for state changes of components.
-
+`HTML! macro` is utilized in the `view` method to outline the user interface. It shows an input field where new tasks can be typed by users along with a button that adds it to the list of pending ones and utilizes an unordered list as a means of displaying current tasks. The `oninput` and `onclick` attributes utilize `callbacks` to control user input and button clicks respectively which prompt suitable messages for state changes of components.
 
 ## Building the UI
 The user interface (UI) is one of the most critical steps in web application development using Rust front-end frameworks like Yew. Each framework has its tools and abstractions for defining and managing the visual elements and their interactions in a structured and efficient way.
 
-In Yew, the UI is constructed using `html!` macro that enables you to define HTML-like syntax right inside your Rust code. This technique is akin to JSX present in React, allowing an easy mixture of HTML and Rust together. The `html!` macro aids in building up the structure of the UI by composing various components as well as handling user interactions through event callbacks.
+In Yew, the UI is constructed using `html! macro` that enables you to define HTML-like syntax right inside your Rust code. This technique is akin to [JSX](https://legacy.reactjs.org/docs/introducing-jsx.html) present in React, allowing an easy mixture of HTML and Rust together. The `html! macro` aids in building up the structure of the UI by composing various components as well as handling user interactions through event callbacks.
 
 Let’s say you want to create a basic to-do list application. The essential UI components are an input field for adding new tasks, a button for submitting tasks, and a list for showing the tasks. You describe these components in the `view` method of the Yew component:
 
