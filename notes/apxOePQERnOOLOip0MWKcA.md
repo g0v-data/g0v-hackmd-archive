@@ -17,7 +17,7 @@ ID	1
 
 ## Organizers Dinner on 16th and Lunch on 18th
 * 16th : 
-    * JP 5, KR 7, TW 7, 3 students interns
+    * JP 6, KR 7, TW 7, 3 students interns
     * Time: 19:00-
     * Place
         * Sakuragicho station
