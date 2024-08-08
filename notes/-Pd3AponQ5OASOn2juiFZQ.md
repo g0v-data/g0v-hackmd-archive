@@ -527,6 +527,7 @@ trunk serve
 In addition, it opens a developing server that runs the application in a web browser and watches over changes made to the codebase while restarting if necessary.
 
 Output:
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_471b5ddb67c2184575217b042a833363.gif)
 
 Discerning whether an application operates appropriately entails engaging with it to test all conceivable functionalities. Therefore, this incorporates ensuring that the UI updates correctly, checking realistic interactions among its components determining if such works as intended, and also verifying that it works alongside any associated backend features.
@@ -536,7 +537,8 @@ Once you have validated that indeed it is functional, it will now be prepared fo
 ## A recap on how to run and build a Yew app
 Let us walk through a step-by-step guide on how to run and build a Yew application:
 
-* Step 1: Install Rust and Cargo. For those who have not yet done so, please go ahead and install Rust and Cargo from the guidelines found on rustup.rs.
+* Step 1: Install Rust and Cargo. For those who have not yet done so, please go ahead and install Rust and Cargo from the guidelines found on [rustup.rs](https://rustup.rs/).
+
 * Step 2: Create a New Yew Project. Create a new binary project using Cargo
 
 ```bash
@@ -544,6 +546,7 @@ cargo new --bin yew_app
 cd yew_app
 ```
 * Step 3: Add Yew and WebAssembly Dependencies. Feel free to open the `Cargo.toml` file and add the necessary dependencies:
+
 ```toml
 [package]
 name = "yew_app"
@@ -599,9 +602,7 @@ basic-http-server ./pkg
 
 
 ## Yew vs React
-Between the Yew framework using Rust and [React](https://react.dev/), a prominent JavaScript framework, several dissimilarities and similarities can be noted down. Advantages offered by Yew include quintessential type safety and WebAssembly almost near-native speed, while React has matured owing to its vast community support, extensive set of tools, and ecosystem. Hence, performance needs, language preferences, and individual project requirements may affect choosing either Yew or React.
-
-You can find below a table indicating such issues:
+Between the Yew framework using Rust and [React](https://react.dev/), a prominent JavaScript framework, several dissimilarities and similarities can be noted down. Advantages offered by Yew include quintessential type safety and WebAssembly almost near-native speed, while React has matured owing to its vast community support, extensive set of tools, and ecosystem. Hence, performance needs, language preferences, and individual project requirements may affect choosing either Yew or React. You can find below a table indicating such issues:
 
 
 | Feature                      | Yew (Rust)                                           | React (JavaScript)                                    |
