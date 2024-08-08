@@ -80,7 +80,7 @@ https://www.ca.gov.mo/files/PA4119cn.pdf
 ## 佛系Q&A
 有咩問題，係呢度寫，時間到了，自然會有人回答你。或者去[澳門公務員Secrets](https://www.facebook.com/CivilServantSectets.macau) (已停止更新) 提問，都可以使用放大鏡搜尋過往相關的話題。又或者到呢度睇下收集的問題：[正苦工問題集](https://docs.google.com/document/d/1CMnw_J-lqW1LoAESxu-IrGieoqcqd14K9kXrRzfVHUY/edit?usp=sharing)。
 
-### 問題
+### 之前一直考開260部門試，未試過考430，嚟緊準備考430公共行政嘅部門試，請教一下大家一般出卷風格同難度係點(e.g.會唔會有MC、簡答、填充之類，定係全部都係申論題同建議書)，謝謝！
 
 答案
 
