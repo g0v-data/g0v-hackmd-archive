@@ -43,7 +43,7 @@ cargo --version
 ```bash
 cargo install wasm-pack
 ```
-In addition, you will a need [trunk](https://trunkrs.dev/)  which is a build tool for various Rust projects that takes care of building and bundling Yew applications. Besides, `Trunk` serves your application locally for development purposes. To install the `trunk`, use this command:
+In addition, you will need a [trunk](https://trunkrs.dev/)  which is a build tool for various Rust projects that takes care of building and bundling Yew applications. Besides, `Trunk` serves your application locally for development purposes. To install the `trunk`, use this command:
 
 ```bash
 cargo install trunk
@@ -115,7 +115,7 @@ fn main() {
 This code provides a simple Yew component named App which displays a simple message: "Hello, Yew!". The `main` function initializes the Yew application and attaches the App component to the `DOM`.
 
 ## What we want to build with Yew
-Yew is the tool that we will use to construct the To-Do list app, which will serve as a web application where all these functions can be found. It provides means for users to enter, update, finish, or erase their activities. The major concern behind this undertaking is to come up with an interactive and responsive user interface for communicating with a backend API that stores and retrieves tasks. A Yew framework needs to be created; task components have to be defined as well as different states of tasks. Then, user interaction logic along with API requests must be created too. 
+Yew is the tool that we will use to construct the To-Do list app, which will serve as a web application where all these functions can be found. It provides means for users to enter, update, finish, or erase their activities. The major concern behind this undertaking is to come up with an interactive and responsive user interface for communicating with a backend API that stores and retrieves tasks. A Yew framework needs to be created; task components have to be defined and different states of tasks. Then, user interaction logic along with API requests must be created too. 
 
 Initially, the project will be structured out, components defined, and state management set up within the app. Then, we will integrate API calls for task synchronization with an external backend server so that data in the application is persistent across different sessions or devices. We aim at exploiting Rust’s strong type system together with Yew’s component-based architecture to build a sturdy yet efficient application.
 
@@ -166,9 +166,9 @@ This coding example tells you how to create a simple Yew application using the R
 
 The `Model` `struct` constitutes the main part of the application. This simple example shows that an empty `Model` `struct` can merely serve as a placeholder for it. In defining how Yew components work, the Component trait is put into practice in the `Model` `struct`. The implementation entails a few methods: The `create` method initializes the component. The parameters supplied are for properties and component links, however, since the `Model` component does not need any properties or messages this method will just return an instance of Model.
 
-The `update` method carries out the updates to the component. Nevertheless, even though the Message type is set as a `unit type (())`, thereby implying that it does not manage specific messages, the procedure returns `true` for the component to be remade any time there are updates. The `change` method is called when the properties of the component change. Since properties are `unit type (())`, it returns `false`, meaning the component does not need to be redrawn for this property sort of changes.
+The `update` method carries out the updates to the component. Nevertheless, even though the `Message` type is set as a `unit type (())`, thereby implying that it does not manage specific messages, the procedure returns `true` for the component to be remade any time there are updates. The `change` method is called when the properties of the component change. Since properties are `unit type (())`, it returns `false`, meaning the component does not need to be redrawn for this property sort of changes.
 
-The `view` method creates the user interface of a component. It defines how its [HTML](https://html.com/) layout will look like using Yew’s `html! macro`. Here it uses `TodoList` which is just one of the main components within the components module. To commence the Yew application, the `primary` function triggers whatever is defined inside `yew::start_app::()`. This first initializes the application and mounts the Model component to the webpage, creates initial rendering, and commences the Yew runtime all at once.
+The `view` method creates the user interface of a component. It defines how its [HTML](https://html.com/) layout will look like using Yew’s `html!` macro. Here it uses `TodoList` which is just one of the main components within the components module. To commence the Yew application, the `primary` function triggers whatever is defined inside `yew::start_app::()`. This first initializes the application and mounts the Model component to the webpage, creates initial rendering, and commences the Yew runtime all at once.
 
 ### Creating the User Interface
 The next thing we need to do is to create what users will see when they are on the User Interface. Usually, the source file is located in the `src` directory of a Yew project and may bear names such as `app.rs` or `main.rs`. The file embodies the To-Do application’s main interface logic. This file is compiled in line with other Rust codes into WebAssembly which is subsequently executed in browsers to depict the dynamic web app. 
@@ -184,16 +184,15 @@ html! {
     </div>
 }
 ```
-The provided code snippet is a portion of a Yew component that outlines what a simple website looks like. The `html! macro` describes the HTML content that is displayed by the component. In this example, the `div` tag serves as a container of all the elements inside it. The header is given by an `h1` tag which reads “To-Do App” and thus becomes the title of its application. Here `input` means typing something in the to-do field only when you want to delete something from this field whenever there is one inside it which if pressed out will delete it from that particular category accordingly. Finally, there is `TodoList` part to which all to-do lists go in other words it is another Yew component written on other sections of the site’s code.
+The provided code snippet is a portion of a Yew component that outlines what a simple website looks like. The `html!` macro describes the HTML content that is displayed by the component. In this example, the `div` tag serves as a container of all the elements inside it. The header is given by an `h1` tag which reads “To-Do App” and thus becomes the title of its application. Here `input` means typing something in the to-do field only when you want to delete something from this field whenever there is one inside it which if pressed out will delete it from that particular category accordingly. Finally, there is `TodoList` part to which all to-do lists go in other words it is another Yew component written on other sections of the site’s code.
 
 Output:
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f787d527843a84f92a187df18e9abcf0.gif)
 
-
 Even though our existing output includes a user interface, we still require to integrate features for creating, updating, retrieving, and deleting items. The next section will discuss these functionalities. 
 
 ## Extending the To-Do List Application with API Calls
-To start getting into your Yew code, you will need a back-end service with which the front end can communicate. This could be as simple as a REST API that handles CRUD (Create, Read, Update, Delete) operations for tasks. You could set this up using any server-side technology you’re comfortable with like [Rocket](https://rocket.rs/) (for Rust) similar to [Express](https://expressjs.com/) (for JavaScript). If you prefer simplicity, use a mock API service like `jsonplaceholder` or `json-server`.
+To start getting into your Yew code, you will need a back-end service with which the front-end can communicate. This could be as simple as a REST API that handles CRUD (Create, Read, Update, Delete) operations for tasks. You could set this up using any server-side technology you’re comfortable with like [Rocket](https://rocket.rs/) (for Rust) similar to [Express](https://expressjs.com/) (for JavaScript). If you prefer simplicity, use a mock API service like `jsonplaceholder` or `json-server`.
 
 To work with asynchronous code and to execute HTTP requests in Rust, you would require the `wasm-bindgen-futures` crate for asynchronous functions and `reqwest` as a means of handling HTTP requests:
 
@@ -349,7 +348,7 @@ A Yew application that has a To-Do list with integration to a backend API is def
 
 The `TodoList` component is set up by the `create` method with no tasks in it and an empty input value. In addition, this method calls `fetch_tasks` to bring in tasks from the backend API, which happens asynchronously through the `wasm_bindgen_futures::spawn_local` function. The `fetch_tasks` method makes an API request using the `GET` method to help retrieve a list of tasks from the server. After fetching the tasks, they are passed as an argument to the `MsgFetchTasks` message that updates the component’s state with this new collection of tasks. The methods `add_task_to_api`, `update_task_in_api`, and `remove_task_from_api` serve as placeholders for performing API requests to add, change, or delete tasks respectively. Usually, these methods would be involved in sending POST, PUT, or DELETE requests to your backend where the user can truly affect things.
 
-The `html! macro` provides Yew with a `view` method filling the HTML architecture for the application. There is an input box where new tasks can be added, a button that allows this task to be submitted, and a list of tasks that can toggle between finished or deleted states. In addition, `oninput` and `onclick` properties are linked to Yew callbacks dispatching messages that apply while users manipulate the UI. The `yew: start_app < TodoList >>()`; is what lets yew run the application initially meaning the TodoList will be presented in the `DOM`.
+The `html!` macro provides Yew with a `view` method filling the HTML architecture for the application. There is an input box where new tasks can be added, a button that allows this task to be submitted, and a list of tasks that can toggle between finished or deleted states. In addition, `oninput` and `onclick` properties are linked to Yew callbacks dispatching messages that apply while users manipulate the UI. The `yew: start_app < TodoList >>()`; is what lets yew run the application initially meaning the TodoList will be presented in the `DOM`.
 
 Output:
 
