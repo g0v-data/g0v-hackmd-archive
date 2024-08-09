@@ -58,7 +58,8 @@ tags: 災害,hackpad
     - https://www.youtube.com/watch?v=Ls3T5Of690I&feature=youtube_gdata_player
 - Dataset of all the earthquakes from 2001 through 2015
     - https://www.facebook.com/scienceonasphere/videos/10157877630135083/
-
+- 日本與台灣的地震，立體呈現震源深度，歷年地震
+    - https://nagix.github.io/japan-eq-locator/?e=20240808164303&lng=131.7&lat=31.8&d=30&l=%E6%97%A5%E5%90%91%E7%81%98&t=2024-08-08T16:43:00+09:00&m=7.1&s=6-
 - 震源深度+球體
     - https://fbwat.ch/1JSKXn44a5uL2yRi
 - A Real-Time Map of Earthquakes Around the World:

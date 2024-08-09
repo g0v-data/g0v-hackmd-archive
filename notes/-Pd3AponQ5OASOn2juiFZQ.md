@@ -2,26 +2,26 @@
 [Yew](https://yew.rs/) has become one of the predominant [Rust](https://www.rust-lang.org/) front-end frameworks in 2024 owing to its powerful component-based architecture, high performance, and type inference due to Rust’s features. If you want to build a modern web application with Rust, Yew provides an interesting alternative to conventional JavaScript frameworks. In this article, we will examine how you can utilize Yew to build a simple yet effective to-do list application that showcases the ease and efficiency of using Rust for front-end development. Whether you are a fan of Rust or are a developer interested in new frameworks, Yew is a strong option that allows for fast, reliable, and maintainable web applications.
 
 ## What is Yew?
-Yew is an incredibly versatile tool that allows web developers to craft their front-end projects on the web using Rust and [WASM](https://webassembly.org/). By way of compiling Rust into WASM, it enables the design of excellent speed web apps resembling desktop applications when it comes to episode processing rates. Such an approach takes advantage of the following features inherent to Rust: a strong type system, a focus on safety, and concurrent programming. One of the most prominent things about Yew is its component-based architecture; just as in other frameworks like [React](https://react.dev/). With this kind of approach, developers can build components that are reusable and encapsulated within themselves, meaning they take care of their state on their own and also respond to user events. Furthermore, Yew utilizes a declarative syntax for specifying user interfaces which is natural and similar to [HTML](https://html.com/) making it possible for Rust developers to link their code directly with what will be displayed on the screen.
+Yew is an incredibly versatile tool that allows web developers to craft their front-end projects on the web using Rust and [WASM](https://webassembly.org/). By way of compiling Rust into WASM, it enables the design of excellent-speed web apps resembling desktop applications when it comes to episode processing rates. Such an approach takes advantage of the following features inherent to Rust: a strong type system, a focus on safety, and concurrent programming. One of the most prominent things about Yew is its component-based architecture; just as in other frameworks like [React](https://react.dev/). With this kind of approach, developers can build components that are reusable and encapsulated within themselves, meaning they take care of their state on their own and also respond to user events. Furthermore, Yew utilizes a declarative syntax for specifying user interfaces which is natural and similar to [HTML](https://html.com/) making it possible for Rust developers to link their code directly with what will be displayed on the screen.
 
 There are a few things that make Yew a winning proposition. First, the language relies on Rust’s strict type system to catch several mistakes during program execution. This leads to highly reliable and robust applications. Second, it uses Rust’s async/await feature along with multi-threading to retrieve and handle data better. Also, Yew allows seamless interoperability with JavaScript. This implies that developers can invoke JavaScript functions and merge the current JavaScript libraries into their Rust codes enabling a broad array of web technologies that accompany Rust. Selecting Yew is very exciting to those who know Rust and want to manage their abilities in front-end development. Besides being a good choice for projects requiring high-speed performance and dependability; because it employs WebAssembly, its execution is fast while at the same time ensuring an error-free application behavior.
 
 ## What You Can Do With Yew
-A Todo list application we will create with the Yew framework should have multiple benefits, this is, for instance, the possibility of having full CRUD implementation where users can create new to-dos, view their current ones, update them, or delete them when they are no longer needed. To add a new item you need to provide an input field and a button for submitting your task. Each todo will be displayed in the app together with its text and completion status as they can be altered or removed using interactive controls provided within the interface.
+A Todo list application we will create with the Yew framework should have multiple benefits, this is, for instance, the possibility of having full CRUD implementation where users can create new to-dos, view their current ones, update them, or delete them when they are no longer needed. To add a new item you need to provide an input field and a button for submitting your task. Each todo will be displayed in the app with its text and completion status as they can be altered or removed using interactive controls provided within the interface.
 
-One of the things that makes Yew’s user interface reactive is its use of an effective virtual [DOM](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents). Thus, only areas of the `DOM` that have changed will be updated as the application state changes. Therefore, both user interface and handling are very fast and responsive making it have negligible performance cost.
+One of the things that makes Yew’s user interface reactive is its use of an effective virtual [DOM](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents). Thus, only areas of the `DOM` that have changed will be updated as the application state changes. Therefore, both user interface and handling are fast and responsive making it have negligible performance cost.
 
-Yew builds on Rust’s robust type system and safety amenities to improve the dependability of your software program. The type system in Rust assists in catching possible mistakes early while compiling therefore decreasing the chances of bugs that might occur during execution. Also, it is Rust’s ownership paradigm that helps in avoiding memory problems like null pointer dereferences or buffer overflows. Moreover, multi-threading is supported by Rust’s concurrency model which can prove useful for advanced applications.
+Yew builds on Rust’s robust type system and safety amenities to improve the dependability of your software program. The type system in Rust assists in catching possible mistakes early while compiling therefore decreasing the chances of bugs that might occur during execution. Also, it is Rust’s ownership paradigm that helps avoid memory problems like null pointer dereferences or buffer overflows. Moreover, multi-threading is supported by Rust’s concurrency model which can prove useful for advanced applications.
 
-Compiling your Yew application into [WebAssembly](https://webassembly.org/) (Wasm) makes it run almost like a native application on the web. There is an increasing tendency for machines to run webassembly just as fast as they do their language, this enhances user experience overall. Additionally, if there are any existing libraries needed for your application then you can utilize them because of its interoperability with javascript. Different platforms and browsers enjoy similar levels of performance since WebAssembly has one general binary format.
+Compiling your Yew application into [WebAssembly](https://webassembly.org/) (Wasm) makes it run almost like a native application on the web. There is an increasing tendency for machines to run webassembly just as fast as they do their language, this enhances user experience overall. Additionally, if there are any existing libraries needed for your application then you can utilize them because of its interoperability with javascript. Different platforms and browsers enjoy similar performance since WebAssembly has one general binary format.
 
 ## What You Cannot Do With Yew
-There are a few drawbacks to Yew despite the many advantages. The number of frameworks designed specifically for Yew is limited compared to [JavaScript](https://www.javascript.com/), so you may have fewer libraries and tools in your project. This may make it beforehand hard for you to find pre-made solutions that address particular requirements or functionalities. In contrast, Yew usually requires a longer learning period than more popular JavaScript frameworks alongside Rust. Therefore, developers who are just starting with Rust may encounter some difficulties in terms of onboarding since they need to learn about new ownership and borrowing concepts which tend to be rather strict.
+There are a few drawbacks to Yew despite the many advantages. The number of frameworks designed specifically for Yew is limited compared to [JavaScript](https://www.javascript.com/), you may have fewer libraries and tools in your project. This may make it hard to find pre-made solutions that address particular requirements or functionalities. In contrast, Yew usually requires a longer learning period than more popular JavaScript frameworks alongside Rust. Therefore, developers who are just starting with Rust may encounter some difficulties in terms of onboarding since they need to learn about new ownership and borrowing concepts which tend to be rather strict.
 
-The smallness of the community surrounding Yew as compared to older frameworks could lead to a lack of community support and reduced resources like tutorials or forums. This smaller community may affect the amount of assistance and common knowledge provided. Moreover, Yew has limited natively supported advanced features such as server-side rendering available in other frameworks. In case your project has extensive third-party integrations and complex server-side operations, you might require alternative solutions or extra mechanisms.
+The smallness of the community surrounding Yew as compared to older frameworks could lead to a lack of community support and reduced resources like tutorials or forums. This smaller community may affect the amount of assistance and common knowledge provided. Moreover, Yew has limited natively supported advanced features such as server-side rendering in other frameworks. If your project has extensive third-party integrations and complex server-side operations, you might require alternative solutions or extra mechanisms.
 
 ## Setting Up the Environment for a Yew Project
-To begin using Yew for front-end development, it is important to set up your development environment. This process entails installing the necessary tools and dependencies that are needed for Yew applications to be built and run.
+To begin using Yew for front-end development, you set up your development environment. This process entails installing the necessary tools and dependencies for Yew applications to be built and run.
 
 First and foremost, make sure that Rust is installed on your machine. Rust is a systems programming language characterized by its high-performance levels and safe nature, which makes it indispensable while compiling Yew apps for WebAssembly. The installation of Rust can be done in several ways:
 
@@ -30,7 +30,7 @@ First and foremost, make sure that Rust is installed on your machine. Rust is a 
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
-This command will download and install Rust including the [cargo](https://crates.io/) package manager that is used to manage Rust projects and their dependencies.
+This command will download and install Rust including the [cargo](https://crates.io/) package manager used to manage Rust projects and their dependencies.
 
 * After installation, ensure that Rust and `cargo` are available in your terminal by checking their versions:
 
@@ -43,7 +43,7 @@ cargo --version
 ```bash
 cargo install wasm-pack
 ```
-In addition, you will need a [trunk](https://trunkrs.dev/)  which is a build tool for various Rust projects that takes care of building and bundling Yew applications. Besides, `Trunk` serves your application locally for development purposes. To install the `trunk`, use this command:
+In adddition, add [trunk](https://trunkrs.dev/)  which is a build tool for various Rust projects that takes care of building and bundling Yew applications. Besides, `Trunk` serves your application locally for development purposes. To install the `trunk`, use this command:
 
 ```bash
 cargo install trunk
@@ -51,14 +51,14 @@ cargo install trunk
 If you have installed Rust, `wasm-pack`, and `trunk` now it’s the right time to begin creating your new Yew project. In this case, this includes making a new Rust package, including Yew as one of its dependencies, and setting it up for WebAssembly.
 
 ## Creating a New Yew Project
-The setup of your environment for development marks the beginning of starting a new Yew project. In doing so, you will create a new Rust project, including Yew as a dependency, and set up your project for WebAssembly compatibility. The following detailed instructions will help you begin:
+Setting your environment for development marks the beginning of starting a new Yew project. In doing so, you will create a new Rust project, including Yew as a dependency, and set up your project for WebAssembly compatibility. The following detailed instructions will help you begin:
 
 * Create a New Rust Project: To get things underway, you’ll want to create a fresh Rust project utilizing `Cargo`, Rust’s package manager and build system. Open the terminal at hand and type out this command:
 
 ```bash
 cargo new yew_example --bin
 ```
-It creates a new folder called `yew_example`. In this folder, there is the basic structure for a Rust project. This happens because you provided a command line option named `--bin` which tells it we want to create an executable rather than a library.
+It creates a new folder called `yew_example`. In this folder, is the basic structure for a Rust project. This happens because you provided a command line option named `--bin` which tells it we want to create an executable rather than a library.
 
 Enter into your project directory by typing:
 
@@ -66,7 +66,7 @@ Enter into your project directory by typing:
 cd yew_example
 ```
 
-* Add Yew Dependencies: After that, you will have to insert Yew and other dependencies related to it in your project. Locate `Cargo.toml` in the main directory of your project. This file is where you mention all the dependencies for your Rust project. To include Yew and its related libraries, type these lines below the section labeled `[dependencies]`:
+* Add Yew Dependencies: After that, you insert Yew and other dependencies in your project. Locate `Cargo.toml` in the main directory of your project. This file is where you mention all the dependencies for your Rust project. To include Yew and its related libraries, type these lines below the section labeled `[dependencies]`:
 
 ```toml
 [dependencies]
@@ -92,7 +92,7 @@ edition = "2018"
 ```
 In the `[lib]` section, a dynamic library `(cdylib)` that can be utilized with WebAssembly is stipulated as an output. The `[package]` section contains your project’s metadata.
 
-* Write Yew Code: Let’s start by creating a simple Yew component for testing purposes. Erase the contents of `src/main.rs` and put in these:
+* Write Yew Code: Let’s start by creating a simple Yew component for testing. Erase the contents of `src/main.rs` and put in these:
 
 ```rust
 use yew::prelude::*;
@@ -115,9 +115,9 @@ fn main() {
 This code provides a simple Yew component named App which displays a simple message: "Hello, Yew!". The `main` function initializes the Yew application and attaches the App component to the `DOM`.
 
 ## What we want to build with Yew
-Yew is the tool that we will use to construct the To-Do list app, which will serve as a web application where all these functions can be found. It provides means for users to enter, update, finish, or erase their activities. The major concern behind this undertaking is to come up with an interactive and responsive user interface for communicating with a backend API that stores and retrieves tasks. A Yew framework needs to be created; task components have to be defined and different states of tasks. Then, user interaction logic along with API requests must be created too. 
+Yew is the tool that we will use to construct the To-Do list app, which will serve as a web application where all these functions can be found. It helps users to enter, update, finish, or erase their activities. The major concern behind this undertaking is provide an interactive and responsive user interface for communicating with a backend API that stores and retrieves tasks. A Yew framework needs to be created; task components have to be defined and different states. Then, user interaction logic along with API requests must be established. 
 
-Initially, the project will be structured out, components defined, and state management set up within the app. Then, we will integrate API calls for task synchronization with an external backend server so that data in the application is persistent across different sessions or devices. We aim at exploiting Rust’s strong type system together with Yew’s component-based architecture to build a sturdy yet efficient application.
+Initially, the project will be structured, components defined, and state management set up within the app. Then, we will integrate API calls for task synchronization with an external backend server so that data in the application is persistent across different sessions or devices. We aim to exploit Rust’s strong type system with Yew’s component-based architecture to build a sturdy yet efficient application.
 
 ### Project Structure
 When constructing a to-do task application with the Yew framework, it is important to arrange the frame of your project conveniently. This will assist in arranging dissimilar sections of your application and maintaining the codebase clean. 
@@ -162,16 +162,16 @@ fn main() {
     yew::start_app::<Model>();
 }
 ```
-This coding example tells you how to create a simple Yew application using the Rust programming language. It shows you how to get started with and proceed through a basic web application’s rendering process. First, it loads important components from the `yew::prelude` module that are required in Yew programs such as the Component characteristic and `html! macro`. The code also has a section called `components` that will have other components such as `TodoList`. This format allows for better handling of different sections of an application.
+This coding example tells you how to create a simple Yew application using the Rust programming language. It shows you how to start and proceed through a basic web application’s rendering process. First, it loads important components from the `yew::prelude` module that are required in Yew programs such as the Component characteristic and `html! macro`. The code also has a section named `components` having other components such as `TodoList`. This format allows for better handling of different sections of an application.
 
-The `Model` `struct` constitutes the main part of the application. This simple example shows that an empty `Model` `struct` can merely serve as a placeholder for it. In defining how Yew components work, the Component trait is put into practice in the `Model` `struct`. The implementation entails a few methods: The `create` method initializes the component. The parameters supplied are for properties and component links, however, since the `Model` component does not need any properties or messages this method will just return an instance of Model.
+The `Model` `struct` constitutes the main part of the application. This simple example shows that an empty `Model` `struct` can merely serve as a placeholder. In defining how Yew components work, the Component trait is used in the `Model` `struct`. The implementation entails a few methods: The `create` method initializes the component. The parameters supplied are for properties and component links, however, since the `Model` component does not need any properties or messages this method will return an instance of Model.
 
 The `update` method carries out the updates to the component. Nevertheless, even though the `Message` type is set as a `unit type (())`, thereby implying that it does not manage specific messages, the procedure returns `true` for the component to be remade any time there are updates. The `change` method is called when the properties of the component change. Since properties are `unit type (())`, it returns `false`, meaning the component does not need to be redrawn for this property sort of changes.
 
 The `view` method creates the user interface of a component. It defines how its [HTML](https://html.com/) layout will look like using Yew’s `html!` macro. Here it uses `TodoList` which is just one of the main components within the components module. To commence the Yew application, the `primary` function triggers whatever is defined inside `yew::start_app::()`. This first initializes the application and mounts the Model component to the webpage, creates initial rendering, and commences the Yew runtime all at once.
 
 ### Creating the User Interface
-The next thing we need to do is to create what users will see when they are on the User Interface. Usually, the source file is located in the `src` directory of a Yew project and may bear names such as `app.rs` or `main.rs`. The file embodies the To-Do application’s main interface logic. This file is compiled in line with other Rust codes into WebAssembly which is subsequently executed in browsers to depict the dynamic web app. 
+The next thing we need to do is to provide what users will see when they are on the User Interface. Usually, the source file is located in the `src` directory of a Yew project and may bear names such as `app.rs` or `main.rs`. The file embodies the To-Do application’s main interface logic. This file is compiled in line with other Rust codes into WebAssembly which is subsequently executed in browsers to depict the dynamic web app. 
 
 For example:
 ```rust
@@ -184,12 +184,12 @@ html! {
     </div>
 }
 ```
-The provided code snippet is a portion of a Yew component that outlines what a simple website looks like. The `html!` macro describes the HTML content that is displayed by the component. In this example, the `div` tag serves as a container of all the elements inside it. The header is given by an `h1` tag which reads “To-Do App” and thus becomes the title of its application. Here `input` means typing something in the to-do field only when you want to delete something from this field whenever there is one inside it which if pressed out will delete it from that particular category accordingly. Finally, there is `TodoList` part to which all to-do lists go in other words it is another Yew component written on other sections of the site’s code.
+The provided code snippet is a portion of a Yew component that outlines what a simple website looks like. The `html!` macro describes the HTML content that is displayed. In this example, the `div` tag serves as a container of all the elements inside it. The header is given by an `h1` tag which reads “To-Do App” and thus becomes the title of its application. Here `input` means typing something in the to-do field only when you want to delete something from this field whenever there is one inside it which if pressed out will delete it from that particular category accordingly. Finally, there is `TodoList` part to which all to-do lists go in other words it is another Yew component written on different sections of the site’s code.
 
 Output:
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f787d527843a84f92a187df18e9abcf0.gif)
 
-Even though our existing output includes a user interface, we still require to integrate features for creating, updating, retrieving, and deleting items. The next section will discuss these functionalities. 
+Even though our existing output includes a user interface, we integrate features for creating, updating, retrieving, and deleting items. The next section will discuss these functionalities. 
 
 ## Extending the To-Do List Application with API Calls
 To start getting into your Yew code, you will need a back-end service with which the front-end can communicate. This could be as simple as a REST API that handles CRUD (Create, Read, Update, Delete) operations for tasks. You could set this up using any server-side technology you’re comfortable with like [Rocket](https://rocket.rs/) (for Rust) similar to [Express](https://expressjs.com/) (for JavaScript). If you prefer simplicity, use a mock API service like `jsonplaceholder` or `json-server`.
@@ -203,7 +203,7 @@ wasm-bindgen = "0.2"
 wasm-bindgen-futures = "0.4"
 reqwest = { version = "0.11", features = ["wasm"] }
 ```
-You may need to change its `create` method in such a way that it requests an API to get the list of tasks when the component is loaded.
+You may need to change its `create` method so that it requests an API to get the list of tasks when the component is loaded.
 
 For example:
 
@@ -344,7 +344,7 @@ fn main() {
     yew::start_app::<TodoList>();
 }
 ```
-A Yew application that has a To-Do list with integration to a backend API is defined by the provided code using `reqwest create` for making HTTP requests. The application is structured as a Yew component (`TodoList`) which handles tasks, user input, and interactions.  `TodoList` is a struct that contains the status of a to-do list, which contains one Yew component, a collection of tasks (tasks), and an input variable (input_value). On the other hand, a `Task` is a struct that contains details regarding each task, such as its identifier (`id`), `description` and whether or not it has been completed (`completed`). An `enum Msg` identifies the different message types (events) that can be processed by any component such as adding a task, changing the input value, switching a task’s completed flag, deleting a task, and retrieving tasks from the API. These messages are processed in the `update` method which shall change the status of the component and call for a new rendering event.
+A Yew application has a To-Do list with integration to a backend API is defined by the provided code using `reqwest create` for making HTTP requests. The application is structured as a Yew component (`TodoList`) which handles tasks, user input, and interactions.  `TodoList` is a struct that contains the status of a to-do list, which has one Yew component, a collection of tasks (tasks), and an `input` variable (`input_value`). On the other hand, a `Task` is a struct that contains details regarding each task, such as its identifier (`id`), `description` and whether or not it has been completed (`completed`). An `enum Msg` identifies the different message types (`events`) that can be processed by any component such as adding a task, changing the input value, switching a task’s completed flag, deleting a task, and retrieving tasks from the API. These messages are processed in the `update` method which shall change the status of the component and call for a new rendering event.
 
 The `TodoList` component is set up by the `create` method with no tasks in it and an empty input value. In addition, this method calls `fetch_tasks` to bring in tasks from the backend API, which happens asynchronously through the `wasm_bindgen_futures::spawn_local` function. The `fetch_tasks` method makes an API request using the `GET` method to help retrieve a list of tasks from the server. After fetching the tasks, they are passed as an argument to the `MsgFetchTasks` message that updates the component’s state with this new collection of tasks. The methods `add_task_to_api`, `update_task_in_api`, and `remove_task_from_api` serve as placeholders for performing API requests to add, change, or delete tasks respectively. Usually, these methods would be involved in sending POST, PUT, or DELETE requests to your backend where the user can truly affect things.
 
@@ -377,10 +377,6 @@ This command is responsible for compiling the rust files including all necessary
 trunk serve
 ```
 In addition, it opens a developing server that runs the application in a web browser and watches over changes made to the codebase while restarting if necessary.
-
-Output:
-
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_471b5ddb67c2184575217b042a833363.gif)
 
 Discerning whether an application operates appropriately entails engaging with it to test all conceivable functionalities. Therefore, this incorporates ensuring that the UI updates correctly, checking realistic interactions among its components determining if such works as intended, and also verifying that it works alongside any associated backend features.
 

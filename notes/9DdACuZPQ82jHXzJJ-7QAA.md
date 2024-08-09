@@ -86,3 +86,6 @@ https://www.facebook.com/groups/128515057963531/permalink/1221770678637958/
 
 日本
 https://www.facebook.com/story.php?story_fbid=pfbid0vcC77rcYPjbyj7BjGHZ6FAvfWevZRHBvrYzXY6gN5sZoeeMrtCxpEw1aeXwjsF6Al&id=101928198136666&mibextid=qC1gEa
+
+東京都屋頂太陽能地圖 http://tokyosolar.netmap.jp/map/Map.html
+紐約太陽能地圖 https://www.nysolarmap.com/
