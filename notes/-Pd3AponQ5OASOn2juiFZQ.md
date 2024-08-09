@@ -169,279 +169,169 @@ The `view` method creates the user interface of a component. It defines how its 
 
 
 
-## Building the UI 
-The user interface (UI) is one of the most critical steps in web application development using Rust front-end frameworks like Yew. Each framework has its tools and abstractions for defining and managing the visual elements and their interactions in a structured and efficient way.
 
-In Yew, the UI is constructed using `html! macro` that enables you to define HTML-like syntax right inside your Rust code. This technique is akin to [JSX](https://legacy.reactjs.org/docs/introducing-jsx.html) present in React, allowing an easy mixture of HTML and Rust together. The `html! macro` aids in building up the structure of the UI by composing various components as well as handling user interactions through event callbacks.
-
-Let’s say you want to create a basic to-do list application. The essential UI components are an input field for adding new tasks, a button for submitting tasks, and a list for showing the tasks. You describe these components in the `view` method of the Yew component:
-
-```rust
-use yew::prelude::*;
-
-struct TodoList {
-    link: ComponentLink<Self>,
-    tasks: Vec<String>,
-    input_value: String,
-}
-
-enum Msg {
-    AddTask,
-    UpdateInput(String),
-}
-
-impl Component for TodoList {
-    type Message = Msg;
-    type Properties = ();
-
-    fn create(_: Self::Properties, link: ComponentLink<Self>) -> Self {
-        Self {
-            link,
-            tasks: vec![],
-            input_value: String::new(),
-        }
-    }
-
-    fn update(&mut self, msg: Self::Message) -> ShouldRender {
-        match msg {
-            Msg::AddTask => {
-                if !self.input_value.is_empty() {
-                    self.tasks.push(self.input_value.clone());
-                    self.input_value.clear();
-                }
-            }
-            Msg::UpdateInput(value) => self.input_value = value,
-        }
-        true
-    }
-
-    fn change(&mut self, _: Self::Properties) -> ShouldRender {
-        false
-    }
-
-    fn view(&self) -> Html {
-        html! {
-            <div>
-                <input type="text" value=&self.input_value
-                    oninput=self.link.callback(|e: InputData| Msg::UpdateInput(e.value)) />
-                <button onclick=self.link.callback(|_| Msg::AddTask)>{ "Add" }</button>
-                <ul>
-                    { for self.tasks.iter().map(|task| html! { <li>{ task }</li> }) }
-                </ul>
-            </div>
-        }
-    }
-}
-
-fn main() {
-    yew::start_app::<TodoList>();
-}
-```
-This is a simplified demonstration of building a to-do list application with the Yew framework in Rust. The most important part of this code is the `TodoList` `struct`; it defines its main component alongside some other properties like an array of tasks, and input values. Two types of messages are represented by the `Msg enum: AddTask -`  for adding new task items, and `UpdateInput –` which updates parameters passed to an input field.
-
-In implementing the Component trait for TodoList, the `create` function initializes both an empty task list and also starts from scratch on behalf of associated variables or members concerned. Additionally, it creates a link to other components that allow reacting to callbacks. The `update` method manages inbound communications. If it gets `Msg::AddTask`, it adds the input number to the list of tasks if it is non-empty and afterward resets the input area to empty again. If `Msg::UpdateInput` arrives, it changes the input value with the received text. This approach signals that `true` for such events as these ought to change their states.
-
-The `change` method tells that there aren’t any changes made necessitating a new visual. The `view` method defines the user interface using the `html! macro`. It contains the task input field, a button for adding respective tasks to the collection as well an unordered list containing all tasks. The input field’s oninput attribute and the button’s onclick attribute use callbacks to handle user input and button clicks, triggering the corresponding messages to update the component’s state. To start a Yew app, the `main` function first calls `yew::start_app::()`, which in turn initializes and mounts it on an online page.
-
-### Adding Functionality
-With the user interface (UI) set up, the following phase involves incorporating functions into your to-do list app. This encompasses executing systematizations for regulating users’ interactions, state management, and UI adjustments as a result of variations in the application data.
-
-In a to-do list application, adding new tasks, marking completed tasks, and removing some tasks stand out as key functionalities. For these tasks to be done there is a need to define event handlers which will automatically update or modify the state of an application thus causing it to be re-rendered.
-
-In Yew, you add functionality via messages that it handles and updates the state. Any interaction made by users such as clicking on some buttons or typing into input fields produces a message that the component gets to deal with. The `update` method of the component takes care of these messages and modifies the state.
-
-For instance, extending the existing TodoList component will allow us to add functionality for marking tasks as complete or removing them:
-
-```rust
-use yew::prelude::*;
-
-struct TodoList {
-    link: ComponentLink<Self>,
-    tasks: Vec<Task>,
-    input_value: String,
-}
-
-struct Task {
-    description: String,
-    completed: bool,
-}
-
-enum Msg {
-    AddTask,
-    UpdateInput(String),
-    ToggleComplete(usize),
-    RemoveTask(usize),
-}
-
-impl Component for TodoList {
-    type Message = Msg;
-    type Properties = ();
-
-    fn create(_: Self::Properties, link: ComponentLink<Self>) -> Self {
-        Self {
-            link,
-            tasks: vec![],
-            input_value: String::new(),
-        }
-    }
-
-    fn update(&mut self, msg: Self::Message) -> ShouldRender {
-        match msg {
-            Msg::AddTask => {
-                if !self.input_value.is_empty() {
-                    self.tasks.push(Task {
-                        description: self.input_value.clone(),
-                        completed: false,
-                    });
-                    self.input_value.clear();
-                }
-            }
-            Msg::UpdateInput(value) => self.input_value = value,
-            Msg::ToggleComplete(index) => {
-                if let Some(task) = self.tasks.get_mut(index) {
-                    task.completed = !task.completed;
-                }
-            }
-            Msg::RemoveTask(index) => {
-                self.tasks.remove(index);
-            }
-        }
-        true
-    }
-
-    fn change(&mut self, _: Self::Properties) -> ShouldRender {
-        false
-    }
-
-    fn view(&self) -> Html {
-        html! {
-            <div>
-                <input type="text" value=&self.input_value
-                    oninput=self.link.callback(|e: InputData| Msg::UpdateInput(e.value)) />
-                <button onclick=self.link.callback(|_| Msg::AddTask)>{ "Add" }</button>
-                <ul>
-                    { for (index, task) in self.tasks.iter().enumerate() {
-                        html! {
-                            <li>
-                                <input type="checkbox" checked=task.completed
-                                    onclick=self.link.callback(move |_| Msg::ToggleComplete(index)) />
-                                { &task.description }
-                                <button onclick=self.link.callback(move |_| Msg::RemoveTask(index))>{ "Remove" }</button>
-                            </li>
-                        }
-                    }}
-                </ul>
-            </div>
-        }
-    }
-}
-
-fn main() {
-    yew::start_app::<TodoList>();
-}
-```
-In this instance, we make use of the `Task` `struct` that depicts single tasks alongside their respective details and how far along they are in terms of execution. Furthermore, new messages concerning task completion toggle have been added to the `Msg enumeration`, and those related to task exclusion have been included. These new message types have also been integrated into the `update` function so that it takes into consideration changes in task completion status or exclusion from lists. In terms of toggling tasks’ completion status or getting rid of them altogether, the `view` method now contains extra user interface elements
-
-### Managing State
-State management is very important for any dynamic web application so that the UI shows the current data and reacts to user actions. Rust front-end frameworks like Yew provide several different methods for effectively handling state which take advantage of the strong typing and memory safety features that are associated with Rust.
-
-A to-do list application has a state that mainly comprises the lists of tasks and other data related to the user interface (UI) such as input field values. There are proper ways in which one can handle his or her state by keeping track of your current tasks, adding new ones marking them completed, or even deleting those from the list.
-
-In Yew, the state control is handled within the structure of the component. You create it as attribute fields in your struct and react to changes through messages. Therefore, the `update` method will process the messages for updates, which will consequently change state thus prompting re-rendering before they appear on the screen.
-
-For instance, if you would like to manage states in a Yew to-do list application:
-
-```rust
-use yew::prelude::*;
-
-struct TodoList {
-    link: ComponentLink<Self>,
-    tasks: Vec<Task>,
-    input_value: String,
-}
-
-struct Task {
-    description: String,
-    completed: bool,
-}
-
-enum Msg {
-    AddTask,
-    UpdateInput(String),
-    ToggleComplete(usize),
-    RemoveTask(usize),
-}
-
-impl Component for TodoList {
-    type Message = Msg;
-    type Properties = ();
-
-    fn create(_: Self::Properties, link: ComponentLink<Self>) -> Self {
-        Self {
-            link,
-            tasks: vec![],
-            input_value: String::new(),
-        }
-    }
-
-    fn update(&mut self, msg: Self::Message) -> ShouldRender {
-        match msg {
-            Msg::AddTask => {
-                if !self.input_value.is_empty() {
-                    self.tasks.push(Task {
-                        description: self.input_value.clone(),
-                        completed: false,
-                    });
-                    self.input_value.clear();
-                }
-            }
-            Msg::UpdateInput(value) => self.input_value = value,
-            Msg::ToggleComplete(index) => {
-                if let Some(task) = self.tasks.get_mut(index) {
-                    task.completed = !task.completed;
-                }
-            }
-            Msg::RemoveTask(index) => {
-                self.tasks.remove(index);
-            }
-        }
-        true
-    }
-
-    fn change(&mut self, _: Self::Properties) -> ShouldRender {
-        false
-    }
-
-    fn view(&self) -> Html {
-        html! {
-            <div>
-                <input type="text" value=&self.input_value
-                    oninput=self.link.callback(|e: InputData| Msg::UpdateInput(e.value)) />
-                <button onclick=self.link.callback(|_| Msg::AddTask)>{ "Add" }</button>
-                <ul>
-                    { for (index, task) in self.tasks.iter().enumerate() {
-                        html! {
-                            <li>
-                                <input type="checkbox" checked=task.completed
-                                    onclick=self.link.callback(move |_| Msg::ToggleComplete(index)) />
-                                { &task.description }
-                                <button onclick=self.link.callback(move |_| Msg::RemoveTask(index))>{ "Remove" }</button>
-                            </li>
-                        }
-                    }}
-                </ul>
-            </div>
-        }
-    }
-}
-
-fn main() {
-    yew::start_app::<TodoList>();
-}
-```
-The state of the application together with tasks and current input value are managed by the `TodoList` struct in this example. The `update` method which modifies the state deals with different messages such as: adding new tasks, updating the input box, toggling task completion, and removing tasks. Each time there are any changes in the state, a re-render is triggered, making sure that the UI reflects its recent updates.
 
 ### Extending the To-Do List Application with API Calls
+To start getting into your Yew code, you will need a back-end service with which the front end can communicate. This could be as simple as a REST API that handles CRUD (Create, Read, Update, Delete) operations for tasks. You could set this up using any server-side technology you’re comfortable with like Rocket (for Rust) or Express (for JavaScript). If you prefer simplicity, use a mock API service like jsonplaceholder or json-server.
+
+To work with asynchronous code and to execute HTTP requests in Rust, you would require the `wasm-bindgen-futures` crate for asynchronous functions and `reqwest` as a means of handling HTTP requests:
+
+```toml
+[dependencies]
+yew = "0.20" # Replace with the latest version if necessary
+wasm-bindgen = "0.2"
+wasm-bindgen-futures = "0.4"
+reqwest = { version = "0.11", features = ["wasm"] }
+```
+You may need to change its `create` method in such a way that it requests an API to get the list of tasks when the component is loaded.
+
+For example:
+
+```rust
+use yew::prelude::*;
+use wasm_bindgen_futures::spawn_local;
+use reqwest::Client;
+use serde::Deserialize;
+
+struct TodoList {
+    link: ComponentLink<Self>,
+    tasks: Vec<Task>,
+    input_value: String,
+}
+
+#[derive(Deserialize)]
+struct Task {
+    id: usize,
+    description: String,
+    completed: bool,
+}
+
+enum Msg {
+    AddTask,
+    UpdateInput(String),
+    ToggleComplete(usize),
+    RemoveTask(usize),
+    FetchTasks(Vec<Task>),
+}
+
+impl Component for TodoList {
+    type Message = Msg;
+    type Properties = ();
+
+    fn create(_: Self::Properties, link: ComponentLink<Self>) -> Self {
+        let mut list = Self {
+            link,
+            tasks: vec![],
+            input_value: String::new(),
+        };
+
+        list.fetch_tasks();
+        list
+    }
+
+    fn update(&mut self, msg: Self::Message) -> ShouldRender {
+        match msg {
+            Msg::AddTask => {
+                if !self.input_value.is_empty() {
+                    let task = Task {
+                        id: self.tasks.len() + 1,
+                        description: self.input_value.clone(),
+                        completed: false,
+                    };
+                    self.tasks.push(task);
+                    self.input_value.clear();
+                    // Add API call to persist the task
+                    self.add_task_to_api(&task);
+                }
+            }
+            Msg::UpdateInput(value) => self.input_value = value,
+            Msg::ToggleComplete(index) => {
+                if let Some(task) = self.tasks.get_mut(index) {
+                    task.completed = !task.completed;
+                    // Update API about the completion status
+                    self.update_task_in_api(task);
+                }
+            }
+            Msg::RemoveTask(index) => {
+                let task = self.tasks.remove(index);
+                // Remove the task from the API
+                self.remove_task_from_api(task.id);
+            }
+            Msg::FetchTasks(tasks) => {
+                self.tasks = tasks;
+            }
+        }
+        true
+    }
+
+    fn change(&mut self, _: Self::Properties) -> ShouldRender {
+        false
+    }
+
+    fn view(&self) -> Html {
+        html! {
+            <div>
+                <input type="text" value=&self.input_value
+                    oninput=self.link.callback(|e: InputData| Msg::UpdateInput(e.value)) />
+                <button onclick=self.link.callback(|_| Msg::AddTask)>{ "Add" }</button>
+                <ul>
+                    { for (index, task) in self.tasks.iter().enumerate() {
+                        html! {
+                            <li>
+                                <input type="checkbox" checked=task.completed
+                                    onclick=self.link.callback(move |_| Msg::ToggleComplete(index)) />
+                                { &task.description }
+                                <button onclick=self.link.callback(move |_| Msg::RemoveTask(index))>{ "Remove" }</button>
+                            </li>
+                        }
+                    }}
+                </ul>
+            </div>
+        }
+    }
+}
+
+impl TodoList {
+    fn fetch_tasks(&self) {
+        let callback = self.link.callback(Msg::FetchTasks);
+        spawn_local(async move {
+            let response = Client::new()
+                .get("https://api.example.com/tasks")
+                .send()
+                .await
+                .unwrap()
+                .json::<Vec<Task>>()
+                .await
+                .unwrap();
+            callback.emit(response);
+        });
+    }
+
+    fn add_task_to_api(&self, task: &Task) {
+        // Logic for sending the new task to the API
+    }
+
+    fn update_task_in_api(&self, task: &Task) {
+        // Logic for updating the task in the API
+    }
+
+    fn remove_task_from_api(&self, task_id: usize) {
+        // Logic for removing the task from the API
+    }
+}
+
+fn main() {
+    yew::start_app::<TodoList>();
+}
+```
+A Yew application that has a To-Do list with integration to a backend API is defined by the provided code using `reqwest create` for making HTTP requests. The application is structured as a Yew component (`TodoList`) which handles tasks, user input, and interactions.  `TodoList` is a struct that contains the status of a to-do list, which contains one Yew component, a collection of tasks (tasks), and an input variable (input_value). On the other hand, a `Task` is a struct that contains details regarding each individual task, such as its identifier (`id`), `description` and whether or not it has been completed (`completed`). An enum Msg identifies the different message types (events) that can be processed by any component such as adding a task, changing the input value, switching a task’s completed flag, deleting a task, and retrieving tasks from the API. These messages are processed in the `update` method which shall change the status of the component and call for a new rendering event.
+
+The `TodoList` component is set up by the `create` method with no tasks in it and an empty input value. In addition, this method calls `fetch_tasks` to bring in tasks from the backend API, which happens asynchronously through the `wasm_bindgen_futures::spawn_local` function. The `fetch_tasks` method makes an API request using the `GET` method to help retrieve a list of tasks from the server. After fetching the tasks, they are passed as an argument to the `MsgFetchTasks` message that updates the component’s state with this new collection of tasks. The methods `add_task_to_api`, `update_task_in_api`, and `remove_task_from_api` serve as placeholders for performing API requests to add, change, or delete tasks respectively. Usually, these methods would be involved in sending POST, PUT, or DELETE requests to your backend where the user can truly affect things.
+
+The `html! macro` provides Yew with a `view` method filling the HTML architecture for the application. There is an input box where new tasks can be added, a button that allows this task to be submitted, and a list of tasks which can toggle between finished or deleted states. In addition, `oninput` and `onclick` properties are linked to Yew callbacks dispatching messages that apply while users manipulate the UI. The `yew: start_app < TodoList >>()`; is what lets yew run the application initially meaning the TodoList will be presented in the `DOM`.
+
+
+
 
 
 ## Running and Building the Application
