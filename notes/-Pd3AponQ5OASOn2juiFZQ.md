@@ -170,6 +170,21 @@ The `update` method carries out the updates to the component. Nevertheless, even
 
 The `view` method creates the user interface of a component. It defines how its [HTML](https://html.com/) layout will look like using Yew’s `html! macro`. Here it uses `TodoList` which is just one of the main components within the components module. To commence the Yew application, the `primary` function triggers whatever is defined inside `yew::start_app::()`. This first initializes the application and mounts the Model component to the webpage, creates initial rendering, and commences the Yew runtime all at once.
 
+The next thing we need to do is to create what users will see when they are on the User Interface. Usually, the source file is located in the src directory of a Yew project and may bear names such as `app.rs` or `main.rs`. The file embodies the To-Do application’s main interface logic. This file is compiled in line with other Rust codes into WebAssembly which is subsequently executed in browsers to depict the dynamic web app. 
+
+For example:
+```rust
+html! {
+    <div>
+        <h1>{ "To-Do App" }</h1>
+        <input type="text" placeholder="Delete to-do" />
+        <button>{ "Delete" }</button>
+        <TodoList />
+    </div>
+}
+```
+The provided code snippet is a portion of a Yew component that outlines what a simple website looks like. The `html! macro` describes the HTML content that is displayed by the component. In this example, the div tag serves as a container of all the elements inside it. The header is given by an `h1` tag which reads “To-Do App” and thus becomes the title of its application. Here input means typing something in the to-do field only when you want to delete something from this field whenever there is one inside it which if pressed out will delete it from that particular category accordingly. Finally, there is `TodoList` part to which all to-do lists go in other words it is another Yew component written on other sections of the site’s code.
+
 Output:
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f6f6d95ec4b012f72d606c059f1719d6.gif)
