@@ -187,8 +187,8 @@ The provided code snippet is a portion of a Yew component that outlines what a s
 
 Output:
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f6f6d95ec4b012f72d606c059f1719d6.gif)
 
+Our output gives us a user interface but we still need to add a functionality to our app so that we can create, update, retrieve, and delete items. This will be done in the next section. 
 
 
 ## Extending the To-Do List Application with API Calls
@@ -349,6 +349,90 @@ A Yew application that has a To-Do list with integration to a backend API is def
 The `TodoList` component is set up by the `create` method with no tasks in it and an empty input value. In addition, this method calls `fetch_tasks` to bring in tasks from the backend API, which happens asynchronously through the `wasm_bindgen_futures::spawn_local` function. The `fetch_tasks` method makes an API request using the `GET` method to help retrieve a list of tasks from the server. After fetching the tasks, they are passed as an argument to the `MsgFetchTasks` message that updates the component’s state with this new collection of tasks. The methods `add_task_to_api`, `update_task_in_api`, and `remove_task_from_api` serve as placeholders for performing API requests to add, change, or delete tasks respectively. Usually, these methods would be involved in sending POST, PUT, or DELETE requests to your backend where the user can truly affect things.
 
 The `html! macro` provides Yew with a `view` method filling the HTML architecture for the application. There is an input box where new tasks can be added, a button that allows this task to be submitted, and a list of tasks which can toggle between finished or deleted states. In addition, `oninput` and `onclick` properties are linked to Yew callbacks dispatching messages that apply while users manipulate the UI. The `yew: start_app < TodoList >>()`; is what lets yew run the application initially meaning the TodoList will be presented in the `DOM`.
+
+Output:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_471b5ddb67c2184575217b042a833363.gif)
+
+In an animated image (GIF), I show how someone would practically interact with the To-Do List app. At first, there is the entry where the user types “LEARN RUST” on the button named “What do you want to do?” In the same image, it also shows how items can be removed by clicking on delete button thus showcasing what Yew can do in designing interactive CRUD web applications.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

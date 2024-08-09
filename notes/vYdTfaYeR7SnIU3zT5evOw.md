@@ -273,7 +273,7 @@ https://www.instagram.com/g0v.tw/
 成立背景：大松直播組開設
 主要擁有者：kirby
 擁有者：clkao, ipa, ronny
-管理成員：au, Bropheus Huang, ETBlue, 孝先, Macpual, YuTin, tmonk, chihao, seangau, jothon, daisuke
+管理成員：au, Bropheus Huang, ETBlue, 孝先, Macpual, YuTin, tmonk, chihao, seangau, jothon, daisuke, rs
 
 #### 更新記錄
 2020-03-24 因為面海松活動將 chihao 加入管理成員
@@ -284,6 +284,7 @@ https://www.instagram.com/g0v.tw/
 2022-02-19 增加 jothon 電腦帳號
 2022-04-11 49th 大松後新增 daisuke 上傳錄影
 2022-04-14 ichieh 離開揪松，移除 ichieh 管理員
+2024-08-09 因為面海松，將 rs 加入管理成員
 
 ### g0v.network
 

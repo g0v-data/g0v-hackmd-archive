@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [ctpbook_jp](../../notes/CZqvO0aDQmGm2fEMBxMQKQ.md) | g0v シビックテックプロジェクトとコミュニティの手引き | 2024-07-24T10:56:37+08:00 | Book mode |
 | [H1_B6j-9R](../../notes/nCOd0CmwSXKqdjjhA_JGFQ.md) | 2024 夏日線上源力增能營結業式 x 專案實作工作坊 | 2024-08-08T10:28:16+08:00 | View mode |
 | [Sch001SSR2024](../../notes/Lujny-EOQCah1dtwyWml-w.md) | 零時小學校 2024 夏日源力增能營 | 2024-06-10T17:53:09+08:00 | Book mode |
 | [rJ0zLEkq0](../../notes/o2V_tTkCRJ-XuB1AeCA1Lw.md) | 2024／9 大松命名 | 2024-08-06T13:35:18+08:00 | View mode |
@@ -11,7 +12,6 @@
 | [AI_Grant_20240803](../../notes/15hJzFLZQxKJCklHuh6cSw.md) | GenAI @COSCUP 2024主題論壇與專案實作成果分享 | 2024-07-05T18:14:48+08:00 | View mode |
 | [ByN8AZ3wC](../../notes/C8xmxPHdSOCJaqO-410lxA.md) | 100 種貼紙的攜帶與佈置展示方法 | 2024-07-10T21:36:11+08:00 | View mode |
 | [ctpbook_en](../../notes/RDqfChU1TayMGMF8RY3kiQ.md) | g0v Civic Tech Project & Community Handbook | 2023-05-16T19:48:10+08:00 | Book mode |
-| [ctpbook_jp](../../notes/CZqvO0aDQmGm2fEMBxMQKQ.md) | g0v シビックテックプロジェクトとコミュニティの手引き | 2024-07-24T10:56:37+08:00 | Book mode |
 | [community99-2407](../../notes/wONZvhHVSluE8IEq9x7n_Q.md) | g0v 社群每月九分鐘 - 2024/7 | 2024-07-01T14:23:28+08:00 | View mode |
 | [hsiaothon](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 社群 @ NPO Hub 小松果 | 2019-09-24T18:12:17+08:00 | Book mode |
 | [SJ_FsojdC](../../notes/r0vbhhJ5R6uKVLo5yXmf_A.md) | 語言盤點 | 2024-07-22T17:50:55+08:00 | View mode |
