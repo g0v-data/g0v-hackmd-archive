@@ -1,8 +1,8 @@
 # Yew: A Top Rust Front-end Framework in 2024
-[Yew](https://yew.rs/) has become one of the predominant [Rust](https://www.rust-lang.org/) front-end frameworks in 2024 owing to its powerful component-based architecture, high performance, and type inference due to Rust’s features. If you’re looking to build a modern web application with Rust, Yew provides an interesting alternative to conventional JavaScript frameworks. In this article, we will examine how you can utilize Yew to build a simple yet effective to-do list application that showcases the ease and efficiency of using Rust for front-end development. Whether you are a fan of Rust or are a developer interested in new frameworks, Yew is a strong option that allows for fast, reliable, and maintainable web applications.
+[Yew](https://yew.rs/) has become one of the predominant [Rust](https://www.rust-lang.org/) front-end frameworks in 2024 owing to its powerful component-based architecture, high performance, and type inference due to Rust’s features. If you want to build a modern web application with Rust, Yew provides an interesting alternative to conventional JavaScript frameworks. In this article, we will examine how you can utilize Yew to build a simple yet effective to-do list application that showcases the ease and efficiency of using Rust for front-end development. Whether you are a fan of Rust or are a developer interested in new frameworks, Yew is a strong option that allows for fast, reliable, and maintainable web applications.
 
 ## What is Yew?
-Yew is an incredibly versatile tool that allows web developers to craft their front-end projects on the web using Rust and [WASM](https://webassembly.org/). By way of compiling Rust into WASM, it enables there design of excellent speed web apps resembling desktop applications when it comes to episode processing rates. Such an approach takes advantage of the following features inherent to Rust: a strong type system, a focus on safety, and concurrent programming. One of the most prominent things about Yew is that it’s component-based architecture; just as in some other frameworks like [React](https://react.dev/). With this kind of approach, developers can build components that are reusable and encapsulated within themselves, meaning they take care of their state on their own and also respond to user events. Furthermore, Yew utilizes a declarative syntax for specifying user interfaces which is natural and similar to [HTML](https://html.com/) making it possible for Rust developers to link their code directly with what will be displayed on screen.
+Yew is an incredibly versatile tool that allows web developers to craft their front-end projects on the web using Rust and [WASM](https://webassembly.org/). By way of compiling Rust into WASM, it enables the design of excellent speed web apps resembling desktop applications when it comes to episode processing rates. Such an approach takes advantage of the following features inherent to Rust: a strong type system, a focus on safety, and concurrent programming. One of the most prominent things about Yew is its component-based architecture; just as in some other frameworks like [React](https://react.dev/). With this kind of approach, developers can build components that are reusable and encapsulated within themselves, meaning they take care of their state on their own and also respond to user events. Furthermore, Yew utilizes a declarative syntax for specifying user interfaces which is natural and similar to [HTML](https://html.com/) making it possible for Rust developers to link their code directly with what will be displayed on screen.
 
 There are a few things that make Yew a winning proposition. First, the language relies on Rust’s strict type system to catch several mistakes in advance of program execution. This leads to highly reliable and robust applications. Second, it uses Rust’s async/await feature along with multi-threading to be able to retrieve and handle data in a better way. Also, Yew allows seamless interoperability with JavaScript. This implies that developers can invoke JavaScript functions and merge the current JavaScript libraries into their Rust codes enabling a broad array of web technologies that accompany Rust. Selecting Yew is very exciting to those who know Rust already and want to manage their abilities in front-end development. Besides being a good choice for projects requiring high-speed performance and dependability; because it employs WebAssembly, its execution is fast while at the same time ensuring an error-free application behavior.
 
@@ -43,7 +43,7 @@ cargo --version
 ```bash
 cargo install wasm-pack
 ```
-In addition, you will need [trunk](https://trunkrs.dev/)  which is a build tool for various Rust projects that takes care of building and bundling Yew applications. Besides, `Trunk` serves your application locally for development purposes. To install the `trunk`, use this command:
+In addition, you will a need [trunk](https://trunkrs.dev/)  which is a build tool for various Rust projects that takes care of building and bundling Yew applications. Besides, `Trunk` serves your application locally for development purposes. To install the `trunk`, use this command:
 
 ```bash
 cargo install trunk
@@ -170,26 +170,27 @@ The `update` method carries out the updates to the component. Nevertheless, even
 
 The `view` method creates the user interface of a component. It defines how its [HTML](https://html.com/) layout will look like using Yew’s `html! macro`. Here it uses `TodoList` which is just one of the main components within the components module. To commence the Yew application, the `primary` function triggers whatever is defined inside `yew::start_app::()`. This first initializes the application and mounts the Model component to the webpage, creates initial rendering, and commences the Yew runtime all at once.
 
-The next thing we need to do is to create what users will see when they are on the User Interface. Usually, the source file is located in the src directory of a Yew project and may bear names such as `app.rs` or `main.rs`. The file embodies the To-Do application’s main interface logic. This file is compiled in line with other Rust codes into WebAssembly which is subsequently executed in browsers to depict the dynamic web app. 
+### Creating the User Interface
+The next thing we need to do is to create what users will see when they are on the User Interface. Usually, the source file is located in the `src` directory of a Yew project and may bear names such as `app.rs` or `main.rs`. The file embodies the To-Do application’s main interface logic. This file is compiled in line with other Rust codes into WebAssembly which is subsequently executed in browsers to depict the dynamic web app. 
 
 For example:
 ```rust
 html! {
     <div>
-        <h1>{ "To-Do App" }</h1>
+        <h1>{ "ToDo App" }</h1>
         <input type="text" placeholder="Delete to-do" />
         <button>{ "Delete" }</button>
         <TodoList />
     </div>
 }
 ```
-The provided code snippet is a portion of a Yew component that outlines what a simple website looks like. The `html! macro` describes the HTML content that is displayed by the component. In this example, the div tag serves as a container of all the elements inside it. The header is given by an `h1` tag which reads “To-Do App” and thus becomes the title of its application. Here input means typing something in the to-do field only when you want to delete something from this field whenever there is one inside it which if pressed out will delete it from that particular category accordingly. Finally, there is `TodoList` part to which all to-do lists go in other words it is another Yew component written on other sections of the site’s code.
+The provided code snippet is a portion of a Yew component that outlines what a simple website looks like. The `html! macro` describes the HTML content that is displayed by the component. In this example, the `div` tag serves as a container of all the elements inside it. The header is given by an `h1` tag which reads “To-Do App” and thus becomes the title of its application. Here `input` means typing something in the to-do field only when you want to delete something from this field whenever there is one inside it which if pressed out will delete it from that particular category accordingly. Finally, there is `TodoList` part to which all to-do lists go in other words it is another Yew component written on other sections of the site’s code.
 
 Output:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f787d527843a84f92a187df18e9abcf0.gif)
 
 
-Our output gives us a user interface but we still need to add a functionality to our app so that we can create, update, retrieve, and delete items. This will be done in the next section. 
-
+Despite the fact that our existing output includes a user interface, we still require to integrate features for creating, updating, retrieving, and deleting items. The next section will discuss these functionalities. 
 
 ## Extending the To-Do List Application with API Calls
 To start getting into your Yew code, you will need a back-end service with which the front end can communicate. This could be as simple as a REST API that handles CRUD (Create, Read, Update, Delete) operations for tasks. You could set this up using any server-side technology you’re comfortable with like Rocket (for Rust) or Express (for JavaScript). If you prefer simplicity, use a mock API service like jsonplaceholder or json-server.
@@ -351,92 +352,10 @@ The `TodoList` component is set up by the `create` method with no tasks in it an
 The `html! macro` provides Yew with a `view` method filling the HTML architecture for the application. There is an input box where new tasks can be added, a button that allows this task to be submitted, and a list of tasks which can toggle between finished or deleted states. In addition, `oninput` and `onclick` properties are linked to Yew callbacks dispatching messages that apply while users manipulate the UI. The `yew: start_app < TodoList >>()`; is what lets yew run the application initially meaning the TodoList will be presented in the `DOM`.
 
 Output:
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_471b5ddb67c2184575217b042a833363.gif)
 
 In an animated image (GIF), I show how someone would practically interact with the To-Do List app. At first, there is the entry where the user types “LEARN RUST” on the button named “What do you want to do?” In the same image, it also shows how items can be removed by clicking on delete button thus showcasing what Yew can do in designing interactive CRUD web applications.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Running and Building the Application
 Following the construction of the to-do list program, the next actions include executing and compiling it in confirmation of its proper working and readiness for production. This stage entails establishing a build environment, verifying its operation through local testing as well as making arrangements for deployment.
@@ -532,7 +451,7 @@ Then serve the application at:
 ```bash
 basic-http-server ./pkg
 ```
-* Step 8: To see your Yew application in action, please start your web browser and choose `http://127.0.0.1:4000`.
+* Step 8: To see your Yew application in action, please start your web browser and choose `http://127.0.0.1:8000`.
 
 
 ## Yew vs React
