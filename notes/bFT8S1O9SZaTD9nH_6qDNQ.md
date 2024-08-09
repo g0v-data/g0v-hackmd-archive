@@ -33,6 +33,12 @@ tags: GIS
 - 2023.04.15 下午苗栗通霄烏眉里烏眉坑1鄰6之1號附近、高鐵高架橋下、高鐵里程TK120+974旁：粉紅色廢水污染水體（如照片）
     - https://www.facebook.com/groups/799178873505026?multi_permalinks=6064004447022416&hoisted_section_header_type=recently_seen
 
+
+### 並非人為污染的水質變
+
+柴山硫化湧泉，白色
+https://www.facebook.com/share/p/J3RiXiJo6RC9WwZg/
+
 ## 應用
 
 情境 A5.1 這個範圍內曾經發生過的水污染事件

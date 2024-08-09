@@ -114,10 +114,14 @@ fn main() {
 
 This code provides a simple Yew component named App which displays a simple message: "Hello, Yew!". The `main` function initializes the Yew application and attaches the App component to the `DOM`.
 
-## Project Structure
-When constructing a to-do task application with the Yew framework, it is important to arrange the frame of your project conveniently. This will assist in arranging dissimilar sections of your application and maintaining the codebase clean. The following is a recommended structure for your Yew project:
+## What we want to build with Yew
+Yew is the tool that we will use to construct the To-Do list app, which will serve as a web application where all these functions can be found. It provides means for users to enter, update, finish, or erase their activities. The major concern behind this undertaking is to come up with an interactive and responsive user interface for communicating with a backend API that stores and retrieves tasks. A Yew framework needs to be created; task components have to be defined as well as different states of tasks. Then, user interaction logic along with API requests must be created too. 
 
-### The Main Project Directory
+Initially, the project will be structured out, components defined, and state management set up within the app. Then, we will integrate API calls for task synchronization with an external backend server so that data in the application is persistent across different sessions or devices. We aim at exploiting Rust’s strong type system together with Yew’s component-based architecture to build a sturdy yet efficient application.
+
+### Project Structure
+When constructing a to-do task application with the Yew framework, it is important to arrange the frame of your project conveniently. This will assist in arranging dissimilar sections of your application and maintaining the codebase clean. 
+
 A `src` folder that contains all source files will exist in your main project directory. Within the `src` directory will be a `main.rs` file, which serves as the entry point of your application, and a components directory to hold all Yew components forming your application.
 
 This file called `main.rs` is the first file in the Rust application and is responsible for bootstrapping a Yew app. Typically, this file contains the `main` function that calls `yew::start_app::();`, where Model is your `root` component.
@@ -166,12 +170,13 @@ The `update` method carries out the updates to the component. Nevertheless, even
 
 The `view` method creates the user interface of a component. It defines how its [HTML](https://html.com/) layout will look like using Yew’s `html! macro`. Here it uses `TodoList` which is just one of the main components within the components module. To commence the Yew application, the `primary` function triggers whatever is defined inside `yew::start_app::()`. This first initializes the application and mounts the Model component to the webpage, creates initial rendering, and commences the Yew runtime all at once.
 
+Output:
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f6f6d95ec4b012f72d606c059f1719d6.gif)
 
 
 
-
-
-### Extending the To-Do List Application with API Calls
+## Extending the To-Do List Application with API Calls
 To start getting into your Yew code, you will need a back-end service with which the front end can communicate. This could be as simple as a REST API that handles CRUD (Create, Read, Update, Delete) operations for tasks. You could set this up using any server-side technology you’re comfortable with like Rocket (for Rust) or Express (for JavaScript). If you prefer simplicity, use a mock API service like jsonplaceholder or json-server.
 
 To work with asynchronous code and to execute HTTP requests in Rust, you would require the `wasm-bindgen-futures` crate for asynchronous functions and `reqwest` as a means of handling HTTP requests:
