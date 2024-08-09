@@ -166,73 +166,10 @@ The `update` method carries out the updates to the component. Nevertheless, even
 
 The `view` method creates the user interface of a component. It defines how its [HTML](https://html.com/) layout will look like using Yew’s `html! macro`. Here it uses `TodoList` which is just one of the main components within the components module. To commence the Yew application, the `primary` function triggers whatever is defined inside `yew::start_app::()`. This first initializes the application and mounts the Model component to the webpage, creates initial rendering, and commences the Yew runtime all at once.
 
-### The `components/todo_list.rs` file
-Here is an example of what the `components/todo_list.rs` file should look like:
 
-```rust
-use yew::prelude::*;
 
-struct TodoList {
-    link: ComponentLink<Self>,
-    tasks: Vec<String>,
-    input_value: String,
-}
 
-enum Msg {
-    AddTask,
-    UpdateInput(String),
-}
-
-impl Component for TodoList {
-    type Message = Msg;
-    type Properties = ();
-
-    fn create(_: Self::Properties, link: ComponentLink<Self>) -> Self {
-        Self {
-            link,
-            tasks: vec![],
-            input_value: String::new(),
-        }
-    }
-
-    fn update(&mut self, msg: Self::Message) -> ShouldRender {
-        match msg {
-            Msg::AddTask => {
-                if !self.input_value.is_empty() {
-                    self.tasks.push(self.input_value.clone());
-                    self.input_value.clear();
-                }
-            }
-            Msg::UpdateInput(value) => self.input_value = value,
-        }
-        true
-    }
-
-    fn change(&mut self, _: Self::Properties) -> ShouldRender {
-        false
-    }
-
-    fn view(&self) -> Html {
-        html! {
-            <div>
-                <input type="text" value=&self.input_value
-                    oninput=self.link.callback(|e: InputData| Msg::UpdateInput(e.value)) />
-                <button onclick=self.link.callback(|_| Msg::AddTask)>{ "Add" }</button>
-                <ul>
-                    { for self.tasks.iter().map(|task| html! { <li>{ task }</li> }) }
-                </ul>
-            </div>
-        }
-    }
-}
-```
-The `TodoList` component is defined in the provided code which enables users to manage their list of things to do. This component has its main job in preparing how it appears on screen, responding when people click or move the mouse over it as well as changing its inner condition. In the `TodoList` `struct`, we keep some variables like `– a pointer` to our `struct` itself(a component), a tasks list, and an input field current value. Two messages have been defined in `Msg enum type: AddTask` which is meant for adding new works and `UpdateInput` intended for modifying the value of an input field.
-
-The `component` trait implementation for the TodoList first makes use of an empty list of tasks and an empty input value in the `create` method. It also establishes the component link which allows the component and Yew framework to communicate. Received messages are handled by the `update` method in this component. When the `AddTask` message is received, it adds the current input value to the task list if it is non-empty then clears the input field. On receiving `UpdateInput` it updates the input value with new text. The `Change` method that deals with property changes is implemented here, but always returns `false` since we have nothing to change.
-
-`HTML! macro` is utilized in the `view` method to outline the user interface. It shows an input field where new tasks can be typed by users along with a button that adds it to the list of pending ones and utilizes an unordered list as a means of displaying current tasks. The `oninput` and `onclick` attributes utilize `callbacks` to control user input and button clicks respectively which prompt suitable messages for state changes of components.
-
-## Building the UI
+## Building the UI 
 The user interface (UI) is one of the most critical steps in web application development using Rust front-end frameworks like Yew. Each framework has its tools and abstractions for defining and managing the visual elements and their interactions in a structured and efficient way.
 
 In Yew, the UI is constructed using `html! macro` that enables you to define HTML-like syntax right inside your Rust code. This technique is akin to [JSX](https://legacy.reactjs.org/docs/introducing-jsx.html) present in React, allowing an easy mixture of HTML and Rust together. The `html! macro` aids in building up the structure of the UI by composing various components as well as handling user interactions through event callbacks.
@@ -503,6 +440,9 @@ fn main() {
 }
 ```
 The state of the application together with tasks and current input value are managed by the `TodoList` struct in this example. The `update` method which modifies the state deals with different messages such as: adding new tasks, updating the input box, toggling task completion, and removing tasks. Each time there are any changes in the state, a re-render is triggered, making sure that the UI reflects its recent updates.
+
+### Extending the To-Do List Application with API Calls
+
 
 ## Running and Building the Application
 Following the construction of the to-do list program, the next actions include executing and compiling it in confirmation of its proper working and readiness for production. This stage entails establishing a build environment, verifying its operation through local testing as well as making arrangements for deployment.
