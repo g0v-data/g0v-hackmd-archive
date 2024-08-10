@@ -111,7 +111,6 @@ fn main() {
     yew::start_app::<App>();
 }
 ```
-
 This code provides a simple Yew component named App which displays a simple message: "Hello, Yew!". The `main` function initializes the Yew application and attaches the App component to the `DOM`.
 
 ## What we want to build with Yew
@@ -178,7 +177,7 @@ For example:
 html! {
     <div>
         <h1>{ "ToDo App" }</h1>
-        <input type="text" placeholder="Delete to-do" />
+        <input type="text" placeholder="Delete all to-do" />
         <button>{ "Delete" }</button>
         <TodoList />
     </div>
@@ -385,9 +384,9 @@ Once you have validated that it is functional, it will be prepared for productio
 ## A recap on how to run and build a Yew app
 Let us walk through a step-by-step guide on how to run and build a Yew application:
 
-* Step 1: Install Rust and Cargo. For those who have not yet done so, please install Rust and Cargo from the guidelines found on [rustup.rs](https://rustup.rs/).
+* Step 1: Install Rust and `Cargo`. For those who have not yet done so, please install Rust and `Cargo` from the guidelines found on [rustup.rs](https://rustup.rs/).
 
-* Step 2: Create a New Yew Project. Create a new binary project using Cargo
+* Step 2: Create a New Yew Project. Create a new binary project using `Cargo`
 
 ```bash
 cargo new --bin yew_app
@@ -409,6 +408,7 @@ wasm-bindgen-futures = "0.4"
 ```
 
 * Step 4: Create the Main Component. The next thing we need to do is modify the `src/main.rs` file to define our Yew component:
+
 ```rust
 use yew::prelude::*;
 
@@ -427,7 +427,8 @@ fn main() {
 }
 ```
 
-* Step 5: Install wasm-pack. If for some reason you don't have `wasm-pack` installed, feel free to install it using the following command:
+* Step 5: Install `wasm-pack`. If for some reason you don't have `wasm-pack` installed, feel free to install it using the following command:
+
 ```bash
 curl https://rustwasm.github.io/wasm-pack/installer/init.sh -sSf | sh
 ```
@@ -447,7 +448,6 @@ Then serve the application at:
 basic-http-server ./pkg
 ```
 * Step 8: To see your Yew application in action, please start your web browser and choose `http://127.0.0.1:8000`.
-
 
 ## Yew vs React
 Between the Yew framework using Rust and [React](https://react.dev/), a prominent JavaScript framework, several dissimilarities and similarities can be noted. Advantages offered by Yew include quintessential type safety and WebAssembly near-native speed, while React has matured owing to its vast community support, extensive set of tools, and ecosystem. Hence, performance needs, language preferences, and individual project requirements may affect choosing Yew or React. You can find below a table indicating such issues:
