@@ -45,11 +45,20 @@ Pacific Convention Plaza Yokohama（PACIFICO Yokohama）
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4e7cb15baaff87d84dec6ae1cbe4a0d6.png)
 
-### Accsess
+### Access
 https://www.pacifico.co.jp/english/access
 
 🌟**Guide Video From Minatomirai Station↓**
 https://youtu.be/fG8NiR3tHPg
+
+### In case of emergency
+(e.g. earthquakes, tsunami, storms, other natural disasters)
+* Map of emergency evacuation points near the venue [see here](https://maps.app.goo.gl/DeXJshAP4wPjqKxv7)
+* For more information about evacuation sites, visit: [Information page](https://www.city.yokohama.lg.jp.e.sj.hp.transer.com/bousai-kyukyu-bohan/bousai-saigai/moshimo/wagaya/jishin/place/yogo/kinkyuhinan/20160614195847.html) from Yokohama City
+* Useful apps: https://nerv.app/ (choose Kanto - Kanagawa - Yokohama Nishi-ku for precise location information)
+* [Pacifico Yokohama Conference Center evacuation information (pdf)](https://www.ietf.org/documents/11/pacifico-emergency-guideline.pdf)
+
+
 
 ## Organizers
 
