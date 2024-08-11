@@ -285,6 +285,7 @@ https://www.shipmap.org/
 https://www.vesselfinder.com/?imo=9811000
 https://www.marinetraffic.com/en/ais/home/centerx:110.8/centery:-14.6/zoom:4
 https://www.facebook.com/316427098708822/posts/838134483204745
+https://youtu.be/i7_KYOc_8N8
 船舶汙染地圖
 https://www.vox.com/2016/4/25/11503152/shipping-routes-map
 Global Fishing Watch (GOOGLE 的全球漁船監控系統)
