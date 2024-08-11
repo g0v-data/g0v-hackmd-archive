@@ -167,7 +167,7 @@ The `Model` `struct` constitutes the main part of the application. This simple e
 
 The `update` method carries out the updates to the component. Nevertheless, even though the `Message` type is set as a `unit type (())`, thereby implying that it does not manage specific messages, the procedure returns `true` for the component to be remade any time there are updates. The `change` method is called when the properties of the component change. Since properties are `unit type (())`, it returns `false`, meaning the component does not need to be redrawn for this property sort of changes.
 
-The `view` method creates the user interface of a component. It defines how its [HTML](https://html.com/) layout will look like using Yew’s `html!` macro. Here it uses `TodoList` which is just one of the main components within the components module. To commence the Yew application, the `primary` function triggers whatever is defined inside `yew::start_app::()`. This first initializes the application and mounts the Model component to the webpage, creates initial rendering, and commences the Yew runtime all at once.
+The `view` method creates the user interface of a component. It defines how its [HTML](https://html.com/) layout will look like using Yew’s `html!` macro. Here it uses `TodoList` which is just one of the main components within the components module. To commence the Yew application, the `primary` function triggers whatever is defined inside `yew::start_app::()`. This first initializes the application and mounts the `Model` component to the webpage, creates initial rendering, and commences the Yew runtime all at once.
 
 ### Creating the User Interface
 The next thing we need to do is to provide what users will see when they are on the User Interface. Usually, the source file is located in the `src` directory of a Yew project and may bear names such as `app.rs` or `main.rs`. The file embodies the To-Do application’s main interface logic. This file is compiled in line with other Rust codes into WebAssembly which is subsequently executed in browsers to depict the dynamic web app. 
@@ -191,9 +191,9 @@ Output:
 Even though our existing output includes a user interface, we integrate features for creating, updating, retrieving, and deleting items. The next section will discuss these functionalities. 
 
 ## Extending the To-Do List Application with API Calls
-To start getting into your Yew code, you will need a back-end service with which the front end can communicate. This could be as simple as a REST API that handles CRUD (Create, Read, Update, Delete) operations for tasks. You could set this up using any server-side technology you’re comfortable with like [Rocket](https://rocket.rs/) (for Rust) similar to [Express](https://expressjs.com/) (for JavaScript). If you prefer simplicity, use a mock API service like `jsonplaceholder` or `json-server`.
+To start getting into your Yew code, you will need a back-end service with which the front end can communicate. This could be as simple as a [REST](https://en.wikipedia.org/wiki/REST) API that handles CRUD (Create, Read, Update, Delete) operations for tasks. You could set this up using any server-side technology you’re comfortable with like [Rocket](https://rocket.rs/) (for Rust) similar to [Express](https://expressjs.com/) (for JavaScript). If you prefer simplicity, use a mock API service like [jsonplaceholder](https://jsonplaceholder.typicode.com/) or [json-server](https://www.npmjs.com/package/json-server).
 
-To work with asynchronous code and to execute HTTP requests in Rust, you would require the `wasm-bindgen-futures` crate for asynchronous functions and `reqwest` as a means of handling HTTP requests:
+To work with asynchronous code and to execute HTTP requests in Rust, you would require the `wasm-bindgen-futures` crate for asynchronous functions and [reqwest](https://docs.rs/reqwest/) as a means of handling HTTP requests:
 
 ```toml
 [dependencies]
