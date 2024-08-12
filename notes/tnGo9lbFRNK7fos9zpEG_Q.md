@@ -34,7 +34,6 @@ https://layout-figma.open165.pages.dev/
 
 ##### 未竟項目
 
-
 ### :eye: Under review
 https://github.com/cofacts/rumors-api/pull/343
 - Can directly ignore coverage of that endpoint [name=mrorz]
@@ -63,7 +62,27 @@ https://github.com/cofacts/rumors-api/pull/343
 
 ### SEO
 
-Analytics: Cloudflare
+- Analytics: Cloudflare
+- Search console
 
-Search console
+### 內容面
+
+TODO 很多
+1. 爬 165 公告網址
+2. 自動化更新：偵測 165 是否有新資料，有的話才重灌資料
+3. 防詐文案（從現有 Cofacts 熱門回應挑選）
+
+## Internet Archive 存檔
+
+> issue: https://github.com/cofacts/rumors-api/issues/136
+> 
+
+Priority
+- Cofacts reply 回應出處
+- Cofacts article 謠言連結
+- 165 回報的網址內容
+
+問題
+- 是否拿得到 Internet archive 是否有存過
+- 是否可以拿得到 HTML 內容（用於做 HTML 比對）from: https://g0v.hackmd.io/@mrorz/open165-proposal#Brainstorming
 

@@ -46,7 +46,9 @@ ipmitool fru edit 0 field p 8 MCHP  /* FRU EDIT */
 
 # CODE READ
 ## AC cycle
-
 ipmi oem cmd 0x6c
-1. check power status and byte1(action) 0x00:VPD 0x01
-2. 
+1. check power status 
+2. Check virtual Power Drain Event
+3. issue command and return complete code
+
+## MAIN
