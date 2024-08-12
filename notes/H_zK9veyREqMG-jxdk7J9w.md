@@ -16,7 +16,7 @@ If the circumstance of a certain potential spot is appropriate, further evaluati
 - [🏢 Policy of Greenspace Sponsored Adoption<br>公部門提供的認養措施](https://sheet2site.com/api/v3/index.php?key=1D2Iz2PfeyUUAtFT6oPS9uW1YEvcbQOIQKo1X1WHsa9U)
 
 ## Article / Interview
-- [2022.07 台電綠網文章投稿：民間投入植樹綠化的方式與案例](https://greennet.taipower.com.tw/point-of-view/influencer/333)[target=_blank]
+- [2022.07 台電綠網文章投稿：民間投入植樹綠化的方式與案例](https://service.taipower.com.tw/greennet/point-of-view/influencer/333)[target=_blank]
 - [2022.05 邀約採訪：Planting Trees to Cool the Planet: NGOs Sow Seeds of Sustainability](https://www.taiwan-panorama.com/en/Articles/Details?Guid=9f82fedd-097c-4876-9066-dc2f7ec1d603&CatId=10&postname=Planting%20Trees%20to%20Cool%20the%20Planet%3A%20-NGOs%20Sow%20Seeds%20of%20Sustainability)[target=_blank]
 - [2023.03.06 邀約採訪：哪裡可以種樹？臺灣好植地打造平台 媒合公私「找地種對樹」](https://ubrand.udn.com/ubrand/story/12116/7006373)
 - [2021.11.25 邀約採訪：公私協力來種樹 臺灣好植地串接公有地與企業 CSR綠化方案](https://canopi.tw/lifestyle/housing/csr-patchbyplanting/)
