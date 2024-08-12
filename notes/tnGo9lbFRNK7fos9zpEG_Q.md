@@ -8,7 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：bil, nonumpa, mrorz
+- 線上出席：bil, nonumpa, mrorz, T
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -59,6 +59,8 @@ https://github.com/cofacts/rumors-api/pull/343
     - 少色塊
     - Icon 亦選擇線條風格
     - 文件風格 (?)
+- 政府網頁最小字好像是 18px [name=nonumpa]
+    - 好哇調大一點，18/28 起跳 [name=mrorz]
 
 ### SEO
 
@@ -83,6 +85,6 @@ Priority
 - 165 回報的網址內容
 
 問題
-- 是否拿得到 Internet archive 是否有存過
+- 是否拿得到 Internet archive 是否有存過某個網頁
 - 是否可以拿得到 HTML 內容（用於做 HTML 比對）from: https://g0v.hackmd.io/@mrorz/open165-proposal#Brainstorming
 
