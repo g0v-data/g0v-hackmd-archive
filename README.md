@@ -2,7 +2,9 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 12406 | 2024-08-12T04:08:27+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 12407 | 2024-08-12T08:52:20+08:00 |
+| [Templates](tags/Templates.md) | 254 | 2024-08-12T08:47:38+08:00 |
+| [Book](tags/Book.md) | 165 | 2024-08-12T08:47:38+08:00 |
 | [GIS](tags/GIS.md) | 159 | 2024-08-12T00:25:20+08:00 |
 | [FtO](tags/FtO.md) | 68 | 2024-08-11T20:56:51+08:00 |
 | [g0v-intl](tags/g0v-intl.md) | 119 | 2024-08-11T20:56:51+08:00 |
@@ -32,8 +34,6 @@
 | [廣場論說書](tags/%E5%BB%A3%E5%A0%B4%E8%AB%96%E8%AA%AA%E6%9B%B8.md) | 1 | 2024-08-01T21:33:06+08:00 |
 | [summit2024](tags/summit2024.md) | 72 | 2024-08-01T21:29:42+08:00 |
 | [Tag(change me!)](tags/Tag%28change%20me%21%29.md) | 208 | 2024-08-01T11:27:36+08:00 |
-| [Templates](tags/Templates.md) | 253 | 2024-08-01T11:26:43+08:00 |
-| [Book](tags/Book.md) | 164 | 2024-08-01T11:26:43+08:00 |
 | [China](tags/China.md) | 5 | 2024-07-31T16:28:39+08:00 |
 | [digital-resilience](tags/digital-resilience.md) | 38 | 2024-07-29T12:15:08+08:00 |
 | [resilience](tags/resilience.md) | 29 | 2024-07-29T12:15:08+08:00 |
