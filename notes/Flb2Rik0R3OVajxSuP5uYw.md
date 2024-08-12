@@ -26,6 +26,9 @@ tags: GIS
 - 202302 臺東縣建農掩埋場火災 https://www.facebook.com/story.php?story_fbid=pfbid0Arw4zreAN1yPDwG83UJrJg3x8VzaDuW7PHa5nvidqcUSpHGywCnL6fKdP6pWGXzNl&id=100000161416462&mibextid=tejx2t
 - 20240707 苗栗縣西山垃圾掩埋場火災 https://www.facebook.com/share/p/zwTsp1aY9xCya6x9/
 - 大漢溪，右岸十．六公里處土城河岸 https://news.ltn.com.tw/news/local/paper/963556
+- 全興海堤 https://www.facebook.com/share/p/jsbkZfUUPwcfP3Pf/
+
+
 
 
 提案構想

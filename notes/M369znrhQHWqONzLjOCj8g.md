@@ -230,6 +230,11 @@ https://e-info.org.tw/node/238846
 氣候治理因地制宜 文山區25年公民參與經驗值得借鏡
 https://e-info.org.tw/node/238845
 
+影片
+https://youtu.be/FDd3Kgn4Bng?si=tOTJZ_YzZ-A4LAIy
+
+<iframe width=100% height="480" src="https://www.youtube.com/embed/FDd3Kgn4Bng?si=mFshPIBSPrgPobzi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 20240502 公民週活動籌辦
 
 當天活動照片
@@ -302,6 +307,19 @@ https://www.facebook.com/share/p/gxTCZuw23bUQvtBv/?mibextid=WC7FNe
 
 節能服務團，庇護工場如何節能邁向淨零？
 https://www.facebook.com/DENDoENergy/posts/pfbid0rWH78Z8uPHkedWdSBMTEMewCyiVXw8XJuMBqj3TdKD9SdK9vCiJQTbp4aDXhnL1Tl
+
+
+## 都市更新地區
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cc385f340161614b7c90980986f933fe.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c8aeb0607aacb99a1eca492ed4ff00b4.png)
+
+
+「劃定臺北市都市更新地區暨擬定都市更新計畫案」公告，附件一 各行政區更新地區實質再發展構想 P.106 文山區
+https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNDU5L2NrZmlsZS9kNTY1NjE4Zi0wMzAyLTRjZDktYWRhMi05ODg2YmYwMzM3YmUucGRm&n=My3pmYTku7YxLnBkZg%3d%3d&icon=.pdf
+
+臺北市文山區-5-捷運Y3站暨興隆社宅及周邊更新地區都市更新計畫案
+https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNDU5L2NrZmlsZS8xZmUwYTM4Ni0zNTQxLTQ1YzEtOTcyYi04Yjc4ZDkwOTc2OGYucGRm&n=44CM6KiC5a6a6Ie65YyX5biC5paH5bGx5Y2ALTUt5o236YGLWTPnq5nmmqjoiIjpmobnpL7lroXlj4rlkajpgormm7TmlrDlnLDljYDpg73luILmm7TmlrDoqIjnlavmoYjjgI3mm7TmlrDoqIjnlavmm7gucGRm&icon=.pdf
 
 ## 南環段
 
