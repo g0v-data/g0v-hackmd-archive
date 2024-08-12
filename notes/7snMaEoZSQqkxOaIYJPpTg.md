@@ -25,6 +25,7 @@ tags: GIS　
 - 民眾回報垃圾的地圖
     - https://www.facebook.com/groups/437659989769965/posts/2226508517551761/
 - 教案與行動
+    - 不留煙蒂 淨街https://www.facebook.com/share/p/BtLu2efqtkAw7ZpK/
     - 認識菸蒂的組合 by 新北市光華國小衛生組
         - https://www.greenschool.moe.edu.tw/gs2/partner/item.aspx?k=F72575B550A0A1B0AB4CAF2829EBB1D2
     - 菸沒綠洲 Girls in the Oasis
