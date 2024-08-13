@@ -95,3 +95,14 @@ yarn add react-google-recaptcha
 ```
 
 Thus, the command will make it available for use in your React components after downloading and installing the react-google-recaptcha package to your project.
+
+When you install the package, include the ReCAPTCHA component in your React component file in the login form file. Start with this import statement at the beginning of your file:
+
+```javascript
+import ReCAPTCHA from "react-google-recaptcha";
+```
+This import allows you to utilize the `ReCAPTCHA` component within your login form to embed the reCAPTCHA widget onto your form and execute all necessary verifications. Now that you have installed the package and imported the `ReCAPTCHA` component, it is time to include the reCAPTCHA widget in your login form. Doing so will help keep out automated submissions, only allowing them to be submitted by human beings who are eligible for submission.
+
+## Integrating the reCAPTCHA widget into your login form 
+Next, you will integrate a login form with the reCAPTCHA widget and handle its responses when the form is submitted. This step is important for adding an extra layer of security to your form so that only real users can submit it. First off, after importing ReCAPTCHA in your React file, you can use it to add the reCAPTCHA widget by embedding it inside of your JSX for the login form. In this instance, `sitekey` prop is a site key you obtained from Google during the setup process. Here's how to do that:
+
