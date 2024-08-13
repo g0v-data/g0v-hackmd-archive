@@ -17,19 +17,39 @@ tags: vtaiwan,dpsurvey
 - [civic tech field guide](https://civictech.guide)
 - [MIT GOV/LAB](https://mitgovlab.org/resources/dont-build-it-a-guide-for-practitioners-in-civic-tech/)
 - [智慧民主卡牌遊戲](https://www.wd-pl.com/get-your-deck/download/)
-- [日本國土交通省的 PLATEAU計畫](https://www.mlit.go.jp/plateau/)
-    - 讓地方政府可以參與
-    - 高精密度
-    - 法源：《都市計畫法》，各地定期測量，形成基本圖。
-    - 以往資料都是內部使用，希望可以以低廉的價格將高品質的資料公開。
-    - Standard Data Product Specification
-    - [相關手冊](https://www.mlit.go.jp/plateau/libraries/)
-    - 利用 LOD Refinement 來設定不同標準
-        - 目前大多數是LOD 1-2 
-        - 少數有3-4 （更多資訊，包含室內資訊）
-    - 免費開放相關的資料與軟體，
-        - 希望增加企業投資與創業可能性。
-    - 在日本能夠活用 CDS 資料的人才不多，需要培訓
-    - 也有利用媒合機制來讓地方政府可以活用這些資料。
-    - 範圍超過200個城市、2000萬人
-    - 
+- [Torinome](https://hololab.co.jp/torinome/)
+    - [日本國土交通省的 PLATEAU計畫](https://www.mlit.go.jp/plateau/)
+        - 讓地方政府可以參與
+        - 高精密度
+        - 法源：《都市計畫法》，各地定期測量，形成基本圖。
+        - 以往資料都是內部使用，希望可以以低廉的價格將高品質的資料公開。
+        - Standard Data Product Specification
+        - [相關手冊](https://www.mlit.go.jp/plateau/libraries/)
+        - 利用 LOD Refinement 來設定不同標準
+            - 目前大多數是LOD 1-2 
+            - 少數有3-4 （更多資訊，包含室內資訊）
+        - 免費開放相關的資料與軟體，
+            - 希望增加企業投資與創業可能性。
+        - 在日本能夠活用 CDS 資料的人才不多，需要培訓
+        - 也有利用媒合機制來讓地方政府可以活用這些資料。
+        - 範圍超過200個城市、2000萬人
+        - 其目標在於建立生態系，讓大家可以在上面發展基礎建設
+    - 都市計畫的民主化，1970年代開始發展，1990 發展相關技術
+    - 早期：模型、大型地圖
+    - 目標：藉由增加視覺與觸覺的媒介，來活化溝通
+    - 目前的技術：結合數位工具
+        - 數位工具的優點
+            - 不受到比例尺限制，可以傳遞不同程度的訊息
+            - 即時調整、複製、增量
+            - 變化控制方便
+        - 缺點：
+            - 數位技術依賴視覺與聽覺，缺乏實體接觸的感受
+            - 大量資訊會引發混亂
+        - 解方：利用XR 混合現實的方式加以處理。
+    - Torinome AR / Torinome Planner 
+    - Torinome步驟：
+        - 事先製作3D模型與影片，讓參與者透過VR接觸
+        - 使用地圖思考都市問題
+        - 事先製作109張主題圖，讓參與者在討論時可以選擇與重疊顯示。
+        - 雙管齊下：利用技術顯示地景＋讓參與者自己動手與討論。
+        - 

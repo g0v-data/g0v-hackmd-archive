@@ -12,7 +12,7 @@ According to Japan’s Meteorological Agency (気象庁), Typhoon (Tropical Cycl
 
 ### Earthquake
 
-An earthquake occured in the afternoon on the 8th of August in Hyūga Nada (日向灘). An Megaquake Advisory (巨大地震注意) was issued by Japan’s Meteorological Agency (気象庁).
+An earthquake occured in the afternoon on the 8th of August in Hyūga Nada (日向灘) which is more than 1,000 kilometers away from the venue in Yokohama. An Megaquake Advisory (巨大地震注意) was issued by Japan’s Meteorological Agency (気象庁).
 
 City of Yokohama is among one of the local government affected by the Advisory.
 
@@ -32,13 +32,11 @@ Even if an evacuation order is not issued, if you feel unsafe, we will provide a
 
 ## 2. Emergency Response Guide
 
-Emergency response guide for Pacifico Yokohama (event venue) is currently only available in Japanese. An English version should be available by tomorrow (8/14).
-
+Please check the Emergency response guide for Pacifico Yokohama (event venue) here:
+https://www.ietf.org/documents/11/pacifico-emergency-guideline.pdf
 As mentioned in the guide, the evacuation site during a disaster will be Pacifico Yokohama itself. If a disaster occurs during the event, ==please do not leave the venue on your own== and follow the instructions of the venue staff.
 
-## 3. Organizer Dinner on the 16th
 
-According to the Japan Meteorological Agency, the typhoon is expected to make landfall on the 16th or 17th, so depending on the situation, there is a possibility of canceling the dinner on the 16th.
-
-Let’s see the situation and make a decision by lunch time on the 16th.
+## 3. Helpful Apps and Websites in the Event of Disaster (Multilingual)
+https://www.bousai.go.jp/kokusai/web/index_en.html
 

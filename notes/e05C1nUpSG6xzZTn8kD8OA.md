@@ -55,9 +55,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 ## 自由提案報名區
 可以先在這裡告訴大家當天想做什麼事（如果有的話）
 
-| 想做的事情           | 提案人稱呼 | 網址或附加內容                                                                                                  |
-| ------------------ | ---------- | --------------------------------------------------------------------------------------------------------------- |
-| Example | Nobody      |範例|
+| 想做的事情 | 提案人稱呼 | 網址或附加內容 |
+| ---------- | ---------- | -------------- |
+| vTaiwan 近期專案與活動分享與實作           |     Peter       |     [數位公共參與工具比較協作共筆](https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/SkXZk8UdR/%2FrxuKtr99SJ-eyvvFUDwr9A) [vTaiwan議題小聚](/GUe0KXMsQBC-6KTIUPBVnA) |
+| Example    | Nobody     | 範例           |
 
 ## 一些紀錄
 
