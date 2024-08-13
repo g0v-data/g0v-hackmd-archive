@@ -28,7 +28,7 @@ Ubuntu 18.04 LTS
     sudo apt install pkg-config
     sudo apt install libssl-dev
     sudo apt insall autoconf-archive
-    sudo apt-get install libssl-dev
+    
 
 ## Follow README_build.md to the end
 
@@ -38,6 +38,7 @@ Ubuntu 18.04 LTS
     sudo apt install m4 flex rsync python3-dev python-dev python-pip ruby util-linux fakeroot unzip lcov
 
 ## START BUILD
+    cd {yourfolder}/delridge-bmc/BonitoBase
     sudo ./configure.sh
     sudo ./build.sh -c full -p Delridge16
 
@@ -58,15 +59,17 @@ Ubuntu 18.04 LTS
 
 # CODE READ
 ## AC cycle
-ipmi oem cmd 0x6c
+**ipmi oem cmd 0x6c**
 1. check power status 
 2. Check virtual Power Drain Event
 3. issue command and return complete code
 
 ## MAIN
-INIT pdb, jbod, odminfo, wdt, fsc, posttask
+**init**
+PDB, JBOD, ODM_INFO, WDT, FSC, POST_TASK
+**start compmanager**
 system("cd /usr/local/bin/;./compmanager start&");
 
-OEMPostTask
+**OEMPostTask**
 1. check GPIO_BIOS_POST_CMPLT_FCOUT_N(GPIO_AA7)
 2. GET TJMAX :temperature where the CPU will start to throttle (reduce performance to cool down)
