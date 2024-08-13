@@ -76,3 +76,22 @@ The form has consolidated data, comprised of two input areas, username/email and
 
 
 Now a basic login form built with React is available which can be improved By Adding reCAPTCHA. The Next steps will require you To add reCAPTCHA in this form so that it distinguishes Humans from Bots successfully.
+
+### The `react-google-recaptcha` package
+In the third step, the react-google-recaptcha package will be installed and imported into your React project to include reCAPTCHA on your login interface. In the beginning, you should start by installing the react-google-recaptcha package. To do this, open up your terminal and head to your project’s main folder. Type in one of these commands based on what package manager you’re using:
+
+Using npm:
+
+```bash
+npm install react-google-recaptcha
+```
+
+or
+
+Using yarn:
+
+```bash
+yarn add react-google-recaptcha
+```
+
+Thus, the command will make it available for use in your React components after downloading and installing the react-google-recaptcha package to your project.
