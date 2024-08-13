@@ -18,3 +18,18 @@ tags: vtaiwan,dpsurvey
 - [MIT GOV/LAB](https://mitgovlab.org/resources/dont-build-it-a-guide-for-practitioners-in-civic-tech/)
 - [智慧民主卡牌遊戲](https://www.wd-pl.com/get-your-deck/download/)
 - [日本國土交通省的 PLATEAU計畫](https://www.mlit.go.jp/plateau/)
+    - 讓地方政府可以參與
+    - 高精密度
+    - 法源：《都市計畫法》，各地定期測量，形成基本圖。
+    - 以往資料都是內部使用，希望可以以低廉的價格將高品質的資料公開。
+    - Standard Data Product Specification
+    - [相關手冊](https://www.mlit.go.jp/plateau/libraries/)
+    - 利用 LOD Refinement 來設定不同標準
+        - 目前大多數是LOD 1-2 
+        - 少數有3-4 （更多資訊，包含室內資訊）
+    - 免費開放相關的資料與軟體，
+        - 希望增加企業投資與創業可能性。
+    - 在日本能夠活用 CDS 資料的人才不多，需要培訓
+    - 也有利用媒合機制來讓地方政府可以活用這些資料。
+    - 範圍超過200個城市、2000萬人
+    - 
