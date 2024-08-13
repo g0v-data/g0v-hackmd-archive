@@ -6,6 +6,7 @@ tags: rand0mth0n, hackathon
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bc8bc712a71d14740eaa81cee5a276f1.png)
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_107065ce12d258c39959dae41fde2e4e.png)
 
 
 :::info
@@ -63,3 +64,16 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 
 ## 一些紀錄
 
+### 新增了一些設計素材的 GitHub Repository
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_af5cfe651b7c52590d8982b1e7d33a41.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d3099baebdd08ce474ce2f1ff13991da.png)
+
+### 還有放輕松的 repository
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1302d90179af5995d2593f931a04a2bd.png)
+
+### 北大 GDSC 也想辦 g0v 放輕松
+- 想要在社課時間辦 g0v 放輕松
+    - Tofus: 在三角湧放輕松？
+- 一個月一次
+- 可以問問看 based in 三峽的 Allen

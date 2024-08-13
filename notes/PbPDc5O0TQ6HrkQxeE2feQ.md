@@ -13,6 +13,9 @@ tags: summit2024
 ## 首圖
 ## Summit 簡介
 ## 商品介紹
+:::warning
+商品照片、尺寸表整理在 [240813 Rand0mTh7n 放輕松討論](/HwKeGtKcR3abz1czOKCDTg)，之後可以把需要的貼過來
+:::
 - 2020 T恤
     - 尺寸說明
     - 試穿報告
