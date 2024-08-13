@@ -71,5 +71,5 @@ PDB, JBOD, ODM_INFO, WDT, FSC, POST_TASK
 system("cd /usr/local/bin/;./compmanager start&");
 
 **OEMPostTask**
-1. check GPIO_BIOS_POST_CMPLT_FCOUT_N(GPIO_AA7)
+1. GPIO_BIOS_POST_CMPLT_FCOUT_N(GPIO_AA7) (Platform_CheckPOSTEnd read GPIO)
 2. GET TJMAX :temperature where the CPU will start to throttle (reduce performance to cool down)
