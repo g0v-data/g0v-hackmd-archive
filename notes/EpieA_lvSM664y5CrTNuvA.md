@@ -16,5 +16,6 @@ Summit 紀念品消化計畫
 討論
 ---
 
-- [240720 大松討論](/RV2UYqHnThC_PBQH113P0A)
+- [240813 Rand0mTh7n 放輕松討論](/HwKeGtKcR3abz1czOKCDTg)
 - [240730 Rand0mTh6n 放輕松討論](/cxBnkrv9TIKDSsHgCletkQ)
+- [240720 大松討論](/RV2UYqHnThC_PBQH113P0A)

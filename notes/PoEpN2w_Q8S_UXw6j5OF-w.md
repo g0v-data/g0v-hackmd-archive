@@ -25,6 +25,8 @@ tags: summit2024
 
 
 ## 已完成
+- 240804 COSCUP
+    - 在 COSCUP 遇到冠中，冠中回覆說我們可以先把頁面設計找再找他們。
 - [240730 Rand0mTh6n 放輕松討論](/cxBnkrv9TIKDSsHgCletkQ)
     - [x] 整理頁面
     - [x] 想想販售頁面要放什麼資訊？

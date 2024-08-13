@@ -4,7 +4,9 @@ tags: summit2024
 
 # 頁面資訊
 :::info 
-參考資料：[g0v 拖鞋帽子販售頁面](https://ocf.neticrm.tw/civicrm/event/register?id=20&reset=1)
+參考資料：
+- [g0v 拖鞋帽子販售頁面](https://ocf.neticrm.tw/civicrm/event/register?id=20&reset=1)
+- [Cofacts website | Figma](https://www.figma.com/design/zpD45j8nqDB2XfA6m2QskO/Cofacts-website?node-id=0-1&t=1YyL7isxqX3QUxo7-1)
 :::
 
 ## 標題

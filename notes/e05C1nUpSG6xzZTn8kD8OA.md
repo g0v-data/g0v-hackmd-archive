@@ -57,7 +57,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 
 | 想做的事情 | 提案人稱呼 | 網址或附加內容 |
 | ---------- | ---------- | -------------- |
-| vTaiwan 近期專案與活動分享與實作           |     Peter       |     [數位公共參與工具比較協作共筆](https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/SkXZk8UdR/%2FrxuKtr99SJ-eyvvFUDwr9A) [vTaiwan議題小聚](/GUe0KXMsQBC-6KTIUPBVnA) |
+| vTaiwan 近期專案與活動分享與實作           |     Peter       |     [數位公共參與工具比較協作共筆](https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/SkXZk8UdR/%2FrxuKtr99SJ-eyvvFUDwr9A) [vTaiwan議題小聚](/GUe0KXMsQBC-6KTIUPBVnA) 明天vTaiwan 在NPO 4F 也有活動，會有數發部的夥伴來聊天，歡迎來參加！|
+| Summit 紀念品消化計畫    | Dong     | [240813 Rand0mTh7n 放輕松討論 - HackMD](https://g0v.hackmd.io/@WbB98FoNTsivbcUIrjQILQ/S1MQdBLt0/%2FHwKeGtKcR3abz1czOKCDTg)           |
 | Example    | Nobody     | 範例           |
 
 ## 一些紀錄

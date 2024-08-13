@@ -33,7 +33,9 @@ tags: GIS
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_628c85fa30ac3bb1a986c5146d43ae6f.png =500x500)
 
-圖：熱力指數計、風速計
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_66a2d90f2f54c2e2afebabb0a66f6938.jpg)
+
+圖：熱力指數計、風速計、熱成像儀器
 
 ### 活動流程
 - 1. 10 mins 活動集合，說明今日活動主題
