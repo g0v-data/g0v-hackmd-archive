@@ -11,7 +11,9 @@ tags: summit2024
 - 在此向 Summit 2024 紀錄組致上最高的敬意，照片拍得真好 [name=Dong]
 :::
 :::info
-圖片寶庫：[20240503 g0v Summit 2024 DAY0 | Flickr](https://www.flickr.com/photos/g0v/albums/72177720317586090/page2)
+圖片寶庫：
+- [20240503 g0v Summit 2024 DAY0 | Flickr](https://www.flickr.com/photos/g0v/albums/72177720317586090/page2)
+- [20201206 g0v Summit 2020 DAY3 | Flickr](https://www.flickr.com/photos/g0v/albums/72157717610460552/page4)
 :::
 
 :::spoiler 2024 T恤
@@ -64,6 +66,28 @@ tags: summit2024
 
 :::
 
+:::spoiler 玻璃杯
+- [DSC_5871_小波 | Photo by 威小波 （CC BY 2.0） | g0v.tw 零時政府 | Flickr](https://www.flickr.com/photos/g0v/50769199492/in/album-72157717576277021/)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ef9a7a1962f595f1c4bad8cd1d04412c.jpg)
+- [IMG_6022_家康 | Photo by 家康 （CC BY 2.0） | g0v.tw 零時政府 | Flickr](https://www.flickr.com/photos/g0v/50770135248/in/album-72157717576277021/)
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_06c8aec553c3e34ccdbf8bf0e6606c38.jpg)
+
+
+:::
+
+:::spoiler 2020 T恤
+- [A7305365_世勳 | Photo by 世勳 （CC BY 2.0） | g0v.tw 零時政府 | Flickr](https://www.flickr.com/photos/g0v/50779732596/in/album-72157717610460552/)
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_103e5f8c4ac317dd9b50d105a2927161.jpg)
+
+:::
+
+:::spoiler 2020 貼紙
+- [IMG_5907_家康 | Photo by 家康 （CC BY 2.0） | g0v.tw 零時政府 | Flickr](https://www.flickr.com/photos/g0v/50770871871/in/album-72157717576277021/)
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_50483aee78dc9691b59b877e15c8f2ad.jpg)
+
+
+:::
+
 ### 尺寸表
 - 2020 T恤（待補）
 - 2024 T恤
@@ -78,3 +102,8 @@ tags: summit2024
 - 技能貼紙（待補）
     - 單個貼紙尺寸：cm * cm
     - 整張貼紙尺寸：cm * cm
+- 玻璃杯（待補）
+    - 尺寸：cm * cm
+    - 含包裝尺寸：cm * cm
+- 2020 貼紙（待補）
+    - 尺寸：cm * cm
