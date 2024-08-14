@@ -23,7 +23,17 @@ we focus on the line
 | `list == NULL` (optional)  | 通过验证 `list` 是否为 `NULL`，检查 `malloc` 是否成功。                                                    |
 
 *null=0=something went wrong do not proceed
-___
+------
 ### reallocating spaces
+use two elements, "list" and "node"
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_24f2532a0841f1cbbaf2e842b830510a.png)
 insert "tmp" to expand the list
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8573648ed504c0e1d107cb354ddb3138.png)
+_______
+## Linked list
+* nodes (節點)
+雙向連結
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8421224acd8a8414b8515c798a01fc9d.png)
+(prev=previous)
+使用struct(結構)綑綁,連接不同數據體(這邊指針與data) 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_20e9227a142aa70c577538c800634d6f.png)
