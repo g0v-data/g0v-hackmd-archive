@@ -73,3 +73,11 @@ system("cd /usr/local/bin/;./compmanager start&");
 **OEMPostTask**
 1. GPIO_BIOS_POST_CMPLT_FCOUT_N(GPIO_AA7) (Platform_CheckPOSTEnd read GPIO)
 2. GET TJMAX :temperature where the CPU will start to throttle (reduce performance to cool down)
+
+## PIC oem cmd
+get JBOD/SLED present info
+set JBOD/SLED on/off
+set LED for storage nodes
+get current state of LED for storage nodes
+reset JBOD/SLED controller
+fan control

@@ -22,15 +22,16 @@ we focus on the line
 | `free(list);` (not shown)  | 释放已分配的内存，以防止内存泄漏（在使用完已分配的内存后，最好释放）。                                   |
 | `list == NULL` (optional)  | 通过验证 `list` 是否为 `NULL`，检查 `malloc` 是否成功。                                                    |
 
-*null=0=something went wrong do not proceed
+* null=0=something went wrong do not proceed
 ------
-### reallocating spaces
+## reallocating spaces
 use two elements, "list" and "node"
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_24f2532a0841f1cbbaf2e842b830510a.png)
 insert "tmp" to expand the list
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8573648ed504c0e1d107cb354ddb3138.png)
 _______
 ## Linked list
+a dynamic data structure that can grow or sheink
 * nodes (節點)
 雙向連結
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8421224acd8a8414b8515c798a01fc9d.png)
@@ -43,3 +44,4 @@ _______
 <pre>node *list = NULL;
 </pre>
 indicate the list is initially empty.
+*ptr= per that star
