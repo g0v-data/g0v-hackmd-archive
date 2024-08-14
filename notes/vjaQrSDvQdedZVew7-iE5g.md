@@ -9,12 +9,20 @@ tags: FtO
 
 To develop a set of indicators to measure the “healthiness” of information environment in a FtO country (Taiwan, Japan, Korea, Hongkong, Thailand, ...)
 
-## Indicators (brainstorming)
+## Questions
+
+- A healthy info env for what?
+    - Free expression?
+    - Quality entertainment?
+    - Contructive public discourse?
+    - ...
+
+## Some indicators (brainstorming...)
 
 - Internet penatration rate
-- 
+- Social media penatration rate
 
-## Framework (exploratory)
+## Thinking about (digital human) rights and risks...
 
 ### Right to be connected
 
@@ -27,4 +35,9 @@ To develop a set of indicators to measure the “healthiness” of information e
 ### Right to participate in public discourse / debate / discussion
 
 ### Right to be forgotten
+
+### Risk of exposure to authoritarian views / values
+
+### Risk of ...
+
 

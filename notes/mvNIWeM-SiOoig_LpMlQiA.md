@@ -121,3 +121,20 @@ same format as "for (int i = 0; i < 3; i++)"
 * if (n->number < ptr->next->number):新节点 n 的值小于下一个节点 ptr->next 的值，说明新节点应该插入到当前节点和下一个节点之间。
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_291fd5f5c4ff1970238e37e478715335.png)
 ___
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2a80ec80ac6cad381b0b5b85e1a14e28.png)
+
+| 大 O 表示法 | 中文解释 |
+|---|---|
+| O(1) | 常数时间复杂度，表示算法的执行时间不受输入数据量的影响，始终保持不变。 |
+| O(log n) | 对数时间复杂度，通常发生在每次迭代都能将问题规模缩小一半的情况下，例如二分搜尋。 |
+| O(n) | 线性时间复杂度，表示算法的执行时间与输入数据量成正比。 |
+| O(n log n) | 线性对数时间复杂度，通常发生在分治法中，例如快速排序。 |
+| O(n²) | 平方时间复杂度，通常发生在需要嵌套循环的情况下，例如气泡排序。 |
+___
+### hash function
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_94fda4d316eed91a5e6a8b3950004f6e.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4f966d75c29962453dc3b89aade5c225.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_59e220be440855e749c8f265379ed3b8.png)
+> * char：表示一個字符。
+>* 星星字符(*)：表示指標，指向一個記憶體位址。
+綜合起來，char* 就代表一個指向字符的指標。 也就是說，這個變數存儲的不是字符本身，而是指向字符的記憶體地址。

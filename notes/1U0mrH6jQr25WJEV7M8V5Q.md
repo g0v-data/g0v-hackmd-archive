@@ -1,4 +1,4 @@
-**Delridge16 build / command**
+**Delridge16**
 
 # Build prerequisite:
 ## /* OS */
@@ -75,6 +75,31 @@ system("cd /usr/local/bin/;./compmanager start&");
 2. GET TJMAX :temperature where the CPU will start to throttle (reduce performance to cool down)
 
 ## PIC
+在伺服器中，**PIC（Platform Interface Controller）**芯片通常指的是一種用於管理系統電源、監控硬件健康狀況以及提供底層硬件接口的微控制器。這種芯片在伺服器內部的主要功能包括：
+
+1. 硬件監控
+電壓監控：監控伺服器內部的各種電壓軌道，確保它們在安全範圍內運行。
+溫度監控：監控伺服器內的溫度感測器，包括CPU、GPU、內存、電源等，以防止過熱。
+風扇控制：根據溫度監控結果調整伺服器內的風扇速度，以優化散熱效果。
+2. 電源管理
+電源序列控制：在伺服器啟動或關閉時，控制不同電源軌道的開啟或關閉順序，確保系統穩定性。
+待機管理：在低功耗模式下管理電源供應，確保伺服器在休眠狀態下仍能保持基本功能（如網絡喚醒）。
+3. 故障診斷與報警
+事件記錄：記錄硬件故障事件，如電壓異常、過熱等，並在必要時觸發報警。
+指示燈和蜂鳴器控制：控制伺服器上的LED指示燈和蜂鳴器，提示運維人員注意硬件狀態。
+4. 系統初始化
+初始化外設：在伺服器啟動時，初始化各種外設和接口，如PCIe、SATA、USB等，以便操作系統接管控制。
+自檢（POST）協助：在伺服器開機自檢過程中協助處理硬件檢查和初始化任務。
+5. 通信與接口管理
+I2C/SMBus 管理：負責處理與伺服器內部其他硬件的低速通信，這通常包括與電源管理單元（PMU）、溫度感測器等設備的通信。
+串行接口控制：管理與外部管理系統（如BMC，Baseboard Management Controller）的串行通信接口。
+6. 固件管理
+更新固件：負責管理和更新伺服器內的低層固件，這些固件通常控制著伺服器硬件的基本功能。
+保護固件安全：提供加密和驗證機制，確保固件更新過程的安全性，防止惡意攻擊。
+總結
+在伺服器中，PIC芯片是一個關鍵的底層控制單元，負責監控、管理和保護伺服器的硬件，確保伺服器穩定高效地運行。它通常扮演著“系統管理者”的角色，處理各種低層次的硬件操作，並為伺服器的其他組件提供支持。
+
+**LEARN FROM CODE/FW_SPEC**
 FAN is controlled by BMC default, if BMC timeout/offline, PIC will take FAN control and pull to full speed.
 0x1A: Before BMC ready, PIC will refer to this duty as default AC ON fan duty.
 0x1B: When BMC is timeout/offline, PIC will refer to this duty as MAX fan duty.
