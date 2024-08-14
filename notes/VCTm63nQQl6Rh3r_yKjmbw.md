@@ -4,9 +4,11 @@ tags: FtO, g0v-intl
 # FtO Yokohama 2024
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c40ca42642d014a4dc20bfc166f43512.jpg)
 
+## [⚠️ Emergency Response (Typhoon & Earthquke) Info Here ⚠️](/-D9nwbtiQxSsznSxR5lXjA)
+
 ## Basic Info
-- 🗓 Date August 17-18
-- 📍 Location Yokohama Japan
+- 🗓 Date: August 17-18
+- 📍 Location: Yokohama, Japan
 - 🏯 Venue: [Pacific Convention Plaza Yokohama](https://www.pacifico.co.jp/english/access)
 
 :::warning
@@ -15,7 +17,7 @@ tags: FtO, g0v-intl
 
 ## Registration
 :::info
-Registration will close by June 30th. Please use form of your resident country.
+Registration has closed.
 :::
 
 - Applicants in Taiwan > https://forms.gle/mnUqTxvCNF8vmNUY6 < 台灣參與者這裡報名
@@ -65,8 +67,8 @@ https://youtu.be/fG8NiR3tHPg
 ### Code for Japan[](https://)
 <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_324a5b4a363eea23204573d54cd6983c.jpg" width="35%">
 
-### g0v international
-<img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cb9becddaad57c64ff9c2c7c2e430ae6.png" width="60%">
-
 ### Code for Korea
 <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c773497e441bd4b6a8a48cd8eab738b7.png" width="30%">
+
+### g0v international
+<img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cb9becddaad57c64ff9c2c7c2e430ae6.png" width="60%">

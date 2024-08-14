@@ -1,12 +1,12 @@
 ---
-title: g0v 放輕松 Rand0mth0n 大全
+title: 放輕松 Rand0mth0n 大全
 tags: hackathon, Rand0mTh0n
 image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f9d4777f5942224f06ed19c0884bb038.png
 ---
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
-g0v 放輕松 Rand0mTh0n 大全
+放輕松 Rand0mTh0n 大全
 ===
 ## 社會行動的產地｜是學校，是平台，是相遇的機會 
 ## The birthplace of social action | It is school, platform, opportunities for encounters
@@ -15,13 +15,13 @@ g0v 放輕松 Rand0mTh0n 大全
 ## [Introduction / Home Page](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
 
 
-### [什麼是 g0v 放輕松 What is g0v Rand0mTh0n](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
-g0v 放輕松是繼 g0v Summit 2024 之後由揪松團發起的定期線下聚會，目前暫定是每雙週二舉行一次。參與者可以在活動期間帶著自己的晚餐還有筆電，在這個地方做自己的事情，同時也提供公民們一個線下聚會與討論的空間。
+### [什麼是放輕松 What is Rand0mTh0n](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
+放輕松是繼 g0v Summit 2024 之後由揪松團發起的定期線下聚會，目前暫定是每雙週二舉行一次。參與者可以在活動期間帶著自己的晚餐還有筆電，在這個地方做自己的事情，同時也提供公民們一個線下聚會與討論的空間。
 
 
 ### [前來放輕鬆的你可能會需要的東西 Things you might need when attending g0v Rand0mTh0n](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
 
-### [下次放輕松的共筆 ](/d9UgT5LTRRKywSPEo6jA5w)
+### [下次放輕松的共筆 ](/RuhCfavuRkKWYL63Gv9wQg)
 
 📍 參與者人類本體 participant itself
 📍 食物 food
@@ -35,6 +35,7 @@ g0v 放輕松是繼 g0v Summit 2024 之後由揪松團發起的定期線下聚�
 各次小松 Rand0mTh0ns
 ---
 `Latest` 
+- [20240827 Rand0mTh8n 第捌次](/RuhCfavuRkKWYL63Gv9wQg)
 - [20240813 Rand0mTh7n 第柒次](/e05C1nUpSG6xzZTn8kD8OA)
 - [20240730 Rand0mTh6n 第陸次](/H5HUCwuLRuiJGFEVwgVbYA)
 - [20240716 Rand0mTh5n 第伍次](/hkDJPiZUSfCBVaISxcStBg)

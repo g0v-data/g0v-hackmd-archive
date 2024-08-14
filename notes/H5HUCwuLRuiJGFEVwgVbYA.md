@@ -2,7 +2,7 @@
 tags: rand0mth0n, hackathon
 ---
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
-# g0v Rand0mTh6n 第陸次放輕松
+# Rand0mTh6n 第陸次放輕松
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f3e2273b9b7df88b8f76f1a324847d1b.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_64bba3968e5031f4cccf22fe036a55a6.png)
