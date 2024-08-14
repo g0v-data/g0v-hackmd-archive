@@ -221,7 +221,7 @@ argv 是字符串的指針數組，包含傳遞給程序的所有命令行參數
 argv[0] 是程序的名稱，argv[1] 是第一個命令行參數，依此類推。
 ---> **argc 第一個參數[1]為系統打入的字符，[2]為使用者打入的字符**
 ---> **argz第一個參數[1]為使用者打入的字符**
----> return- [0]:程序結束(\failed),[1]:程序成功(succed) 
+---> return- [1]:程序結束(\failed),[0]:程序成功(succed) 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c96fdc660da86e23d9338b75fc4901fc.png)
 argc != 2 意味:當agrc **不等於(!)** 2時
 * <stblib.h>  atoi: convert strings into integers
