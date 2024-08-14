@@ -21,6 +21,7 @@ To develop a set of indicators to measure the “healthiness” of information e
 
 - Internet penatration rate
 - Social media penatration rate
+- 
 
 ## Thinking about (digital human) rights and risks...
 

@@ -32,7 +32,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 ---
 - [NPO Hub 附近的食物攻略！ Foods Near NPO Hub](/KS7BHZy8Q42ztO709hVsTA)
 
-各次小松 Rand0mTh0ns
+各次小松 Rand0mTh0ns with g0v Jothon
 ---
 `Latest` 
 - [20240827 Rand0mTh8n 第捌次](/RuhCfavuRkKWYL63Gv9wQg)
