@@ -213,6 +213,9 @@ fetch('/api/login', {
   // Handle the response from the server
 });
 ```
+The code above indicates a JavaScript fetch request for sending data from clients (mostly web browsers) to servers. During the login process, it is among the requests whereby the server checks on the user’s credentials and reCAPTCHA token. The fetch function is a modern way to perform HTTP requests on the client side. Here, it sends out a POST request to /api/login endpoint. Generally, the POST method is used for sending the information to the server and subsequently processed. It also includes header objects indicating what type of content will accompany it. In this case, Content-Type has been changed into application/json which means that information within a request body is in JSON format.
+
+To transmit this information to our server add it to the property body meant for it. This data will be coming from JSON.stringify thus transforming the JavaScript object containing username, password and recaptchaToken into a string in a JSON format used while communicating with the server that expects all data in JSON format meaning that formatting it correctly as JSON.stringify is essential. After sending out a request via .then, the server’s response is handled within the function given to .then. Such things may include checking if the login was successful or handling errors returned by the server. It is important to handle responses because they provide feedback to users or allow them to take other actions based on verification results from server-side systems for authentication purposes.
 
 ### Verify the Token on the Server
 To examine the token, on the server, you must use the reCAPTCHA secret key acquired during the initial setup. A request will be sent to Google’s reCAPTCHA verification API will have the token and your secret key as parameters. Here is an illustrative example of server-side verification using Node.js and Express:
@@ -245,6 +248,9 @@ app.post('/api/login', async (req, res) => {
 
 app.listen(3000, () => console.log('Server running on port 3000'));
 ```
+The stated code snippet exhibits a simple server built using node.js that utilizes an Express framework to cater for a post request associated with login operation having reCAPTCHA verification. Thereafter, the required modules including express (for developing servers) and node-fetch (for making HTTP requests) were imported. In this case, Google’s Recaptcha Verification API. An Express application is created using express() and assigned to the variable app. Through this middleware, all communications are in JSON format so that our server can handle upcoming JSON data.
+
+
 
 
 

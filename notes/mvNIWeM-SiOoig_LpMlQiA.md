@@ -138,3 +138,15 @@ ___
 > * char：表示一個字符。
 >* 星星字符(*)：表示指標，指向一個記憶體位址。
 綜合起來，char* 就代表一個指向字符的指標。 也就是說，這個變數存儲的不是字符本身，而是指向字符的記憶體地址。
+
+<pre>
+#include <ctype.h>
+
+unsigned int hash(const char *word)
+{
+    return toupper(word[0]) - 'A';
+}
+ </pre>
+ ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_64aabc4d45c84a6196b750e67d98b9e4.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b5fcb9299b53215e87401f2132459fa7.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_31f6fed69edaaedb1fd21c2f32929bdb.png)
