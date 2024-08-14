@@ -10,7 +10,10 @@ tags: vtaiwan
 線上參與連結 / Link：https://meet.jit.si/vTaiwan
 
 ## 活動紀錄
-- [分享投影片]()
+- [分享投影片](https://docs.google.com/presentation/d/1N_gu7LeBfqe9orIejOA4QtwN0hfqMvLlePfAoofT2nk/edit?usp=sharing)
+- 合照
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e204ced613d78234ad32c3b5d9240414.jpg)
+
 
 ## 自我介紹
 澄真：數發部
