@@ -6,15 +6,29 @@ tags: vtaiwan
 日期：8/14（三）
 時間 Time ：19:00-21:00
 地點 Location ：[NPO HUB](https://g.co/kgs/ZYBr5BL) 4F 社群廚房
-參與者 Participants：eli, ronny, peter, yutin
+參與者 Participants：eli, ronny, peter, yuting
 線上參與連結 / Link：https://meet.jit.si/vTaiwan
 
 ## 活動紀錄
 - [分享投影片]()
 
+## 自我介紹
+澄真：數發部
+嘉玲：數發部
+??：數發部
+承哲：登山、UX、
+??：數據新聞、媒體業工作、QGIS
+??：原住民、行銷、音樂
+JN: 銀行工程師、日本樂團、台中大里人
+Stanley: 實驗國小老師、國際民主教育年會、FABDAO
+豆腐：UX設計師、g0v、大學生休學中
+T: 資料視覺化、論證
+Yuting: vTaiwan, 社會學, AI （今天六點就起床了現在好累）
+
 ## 討論
 - vTaiwan 角度介紹
   - NESTA
+      - 最近在發展的數位工具Zeitgeist:不同場次的意見徵集可以結合與分離分析
   - TICTEC
   - Article 19
 - 數發部分享
@@ -46,7 +60,7 @@ tags: vtaiwan
     - 公幼（數位化的比較完整？）和公托（目前只有台北和新北有數位化）
     - Access Now + ：數位民主、數位人權、數位韌性
     - [活動點這邊！！！](https://www.accessnow.org/rsvp-2024-aprigf-side-event/)
-        - 希望可以累積能量 for 明年 rightcon
+        - 希望可以累積能量 for 明年在台灣舉辦的  [rightscon](https://www.rightscon.org/)
     - 
 
 ## Q&A
@@ -63,6 +77,12 @@ tags: vtaiwan
 - Q: 有提到 vTaiwan是唯一一個使用 Polis 後台？的, 怎麼去詮釋和分析
     - demo time
 - Q: polis 使用上的瓶頸和問題？
-    - 原團隊不再花心
+    - 原團隊不再花心力 maintain
+    - 使用者 bias
     - 行銷
-- Q: 得出結果之後會想做什麼？
+- Q: 得出結果之後會想做什麼？例如：消弭衝突點？
+    - 記錄為什麼採取特定立場的原因，會增加門檻
+    - 確保討論品質會是另一個問題
+    - 從最沒有共識的意見開始討論起，但線上和線下的參與者可能是不同群人
+    - 最近嘗試的是 https://www.yrpri.org/
+- 
