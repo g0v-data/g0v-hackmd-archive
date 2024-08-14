@@ -8,7 +8,16 @@ Before plunging into the amalgamation of reCAPTCHA v2 using your React login for
 Apart from React knowledge, you have important tools that need installation and configuration. The main one is the react-google-recaptcha package which can be used as a simple means of adding reCAPTCHA for your React components. A Google account is also a must so that you get access to the Console Admin for reCAPTCHA where you can obtain the site key and the secret key necessary for reCAPTCHA integration purposes. With these prerequisites, there will be a seamless and successful integration process when securing login forms on reCAPTCHA v2.
 
 ## Setup
-Integrating reCAPTCHA v2 into your React registration form will take you to an initial phase where you need to get some key from Google. First, visit the Google reCAPTCHA website, and then go to the Admin Console. If you haven’t signed in yet, sign in with a Google account. Upon arriving at this Admin Console page, registering your site is required. At this point, you must supply a name for the reCAPTCHA instance and select the specific type of reCAPTCHA that you want. For this integration you choose “reCAPTCHA v2” and click on the “I am not a robot” checkbox option. In addition, you need to include domain names where you want to use reCAPTCHA so that keys will only work on those domains. At last, accept the reCAPTCHA Terms of Service before making an application. Google provides two prominent codes after the completion of the registration process: site and secret key. The React application utilizes a site key for rendering a reCAPTCHA widget while on the server side, it is used to verify reCAPTCHA responses. Thus, these codes must be stored securely as they are required later during integration. You may now create your login form with reCAPTCHA as an additional security measure using your site and secret keys.
+Integrating reCAPTCHA v2 into your React registration form will take you to an initial phase where you need to get some key from Google. First, visit the Google reCAPTCHA website, and then go to the Admin Console. If you haven’t signed in yet, sign in with a Google account. Upon arriving at this Admin Console page, registering your site is required. At this point, you must supply a name for the reCAPTCHA instance and select the specific type of reCAPTCHA that you want. For this integration you choose “reCAPTCHA v2” and click on the “I am not a robot” checkbox option. In addition, you need to include domain names where you want to use reCAPTCHA so that keys will only work on those domains.
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a3623bf35b01dc1f9a80c02365da0964.jpg)
+
+
+At last, accept the reCAPTCHA Terms of Service before making an application. Google provides two prominent codes after the completion of the registration process: site and secret key. The React application utilizes a site key for rendering a reCAPTCHA widget while on the server side, it is used to verify reCAPTCHA responses.
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0733843eb20ae5b172bd1abbc59565fa.jpg)
+
+Thus, these codes must be stored securely as they are required later during integration. You may now create your login form with reCAPTCHA as an additional security measure using your site and secret keys.
 
 ## Creating a login form
 In this stage two, you will create a simple login form that will work as a base for integrating reCAPTCHA. Start by making a basic structure for your React project, ensuring there are components for the login form. The form should have important fields like username or email input and password inputs. You will create the form elements in your React component using ordinary HTML input fields. Each input should be controlled by React state enabling proper management of data in forms. For instance, `useState` hooks can help to track the username and password field values separately. Besides that, you also need a `submit` button to handle if the form is submitted properly. Once you structurally re-design this form, there is a need for a basic validation framework to ensure that users are offering up requirements. For instance, making sure that the two fields representing username and password are not left empty during submission phase of filling them out forms. If you include an `onSubmit` event handler to this form element, the processing of information used for completing the whole framework will be done.
@@ -17,24 +26,24 @@ In this stage two, you will create a simple login form that will work as a base 
 A basic login form designed for user name and password is created using this React component:
 
 ```javascript
-import React, { useState } from 'react';
+import React, { useState } from "react";
 
 const LoginForm = () => {
-  const [username, setUsername] = useState('');
-  const [password, setPassword] = useState('');
+  const [username, setUsername] = useState("");
+  const [password, setPassword] = useState("");
 
   const handleSubmit = (event) => {
     event.preventDefault();
 
     // Basic validation
     if (!username || !password) {
-      alert('Please enter both username and password.');
+      alert("Please enter both username and password.");
       return;
     }
 
     // Submit form data (You can add your form submission logic here)
-    console.log('Username:', username);
-    console.log('Password:', password);
+    console.log("Username:", username);
+    console.log("Password:", password);
   };
 
   return (
@@ -72,8 +81,9 @@ The `handleSubmit` function is activated when a user presses the submit key on t
 
 The form has consolidated data, comprised of two input areas, username/email and password sections. Improving accessibility features is achieved through labeling each input element thus enabling screen readers to understand their purposes. Each input has its `value` attribute set to the relevant state `variable` for synchronization purposes concerning the current states of inputs entered. This means that any changes made by users into these fields will be reflected in states assigned to them. To allow submission, there are `submit` buttons included at last within our form. A click on the submit button initializes `onSubmit` operation on our form leading to the invocation handleSubmit procedure.
 
+Output:
 
-
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8b6facf8ea3ca06dcf8fe8a8861a1f5e.jpg)
 
 Now a basic login form built with React is available which can be improved By Adding reCAPTCHA. The Next steps will require you To add reCAPTCHA in this form so that it distinguishes Humans from Bots successfully.
 
@@ -110,10 +120,7 @@ Next, you will integrate a login form with the reCAPTCHA widget and handle its r
 import ReCAPTCHA from "react-google-recaptcha";
 
 // Inside your component's return statement
-<ReCAPTCHA
-  sitekey="YOUR_SITE_KEY"
-  onChange={handleRecaptchaChange}
-/>
+<ReCAPTCHA sitekey="YOUR_SITE_KEY" onChange={handleRecaptchaChange} />;
 ```
 The actual site key given by Google should be used in place of "YOUR_SITE_KEY". The `onChange` prop is a function that gets activated once the reCAPTCHA challenge is completed by the user. You will use the function for this to process the response token from the reCAPTCHA.
 
@@ -122,12 +129,12 @@ Subsequently, you should return a response from reCAPTCHA when someone submits t
 Here is an example of altering your component that handles retrieving forms:
 
 ```javascript
-import React, { useState } from 'react';
+import React, { useState } from "react";
 import ReCAPTCHA from "react-google-recaptcha";
 
 const LoginForm = () => {
-  const [username, setUsername] = useState('');
-  const [password, setPassword] = useState('');
+  const [username, setUsername] = useState("");
+  const [password, setPassword] = useState("");
   const [recaptchaToken, setRecaptchaToken] = useState(null);
 
   const handleRecaptchaChange = (token) => {
@@ -139,14 +146,14 @@ const LoginForm = () => {
 
     // Basic validation
     if (!username || !password || !recaptchaToken) {
-      alert('Please fill out all fields and complete the reCAPTCHA.');
+      alert("Please fill out all fields and complete the reCAPTCHA.");
       return;
     }
 
     // Submit form data, including the reCAPTCHA token
-    console.log('Username:', username);
-    console.log('Password:', password);
-    console.log('reCAPTCHA Token:', recaptchaToken);
+    console.log("Username:", username);
+    console.log("Password:", password);
+    console.log("reCAPTCHA Token:", recaptchaToken);
 
     // You would typically send this data to your server here
   };
@@ -172,10 +179,7 @@ const LoginForm = () => {
         />
       </div>
       <div>
-        <ReCAPTCHA
-          sitekey="YOUR_SITE_KEY"
-          onChange={handleRecaptchaChange}
-        />
+        <ReCAPTCHA sitekey="YOUR_SITE_KEY" onChange={handleRecaptchaChange} />
       </div>
       <div>
         <button type="submit">Login</button>
@@ -192,6 +196,12 @@ When a user succeeds in solving the reCAPTCHA challenge, the `handleRecaptchaCha
 
 If the form is validated, the `handleSubmit` function will log the username, password, and reCAPTCHA token to the console. In real-world applications, this is where usually you would send the form data including your reCAPTCHA token for further processing and validation on your server. In the `JSX` of the form, there are controlled inputs for both username and password. That is to say that these inputs’ values are tied to the component’s state and any changes made to them are reflected through the onChange event handler. The ReCAPTCHA component gets integrated into the form by setting up `sitekey` prop replaced by the actual site key gotten from Google; and when a user has completed a challenge on there, then the `onChange` prop is assigned `handleRecaptchaChange` function which guarantees that the reCAPTCHA token changes every single time.
 
+Output:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c9294810dcd3b838abc25444bbdd172d.gif)
+
+From the GIF above, our reCAPTCHA widjet have been successfully added to the login form.
+
+
 ## Server-side Verification
 In the fifth stage of the procedure, your most important task will be to carry out a server-side validation of the reCAPTCHA token, which enables you to ascertain if the individual who filled out the form went through the reCAPTCHA difficulty. For this purpose, it is wise to do this so that your login system does not fall victim of bots. When a user submits a form, your server gets back both client-side generated reCAPTCHA as well as other form details sent along with it by Google’s recaptcha API enabling them check out whether such tokens belong to humans or bots. The following describes how server-side verification is carried out:
 
@@ -199,17 +209,17 @@ In the fifth stage of the procedure, your most important task will be to carry o
 To your server POST request with username, password, and reCAPTCHA token will come from the client when you submit the form. Such requests can be handled by frameworks like [Express.js](https://expressjs.com/) in Node. The following is an illustrative example of how the client transmits data:
 
 ```javascript
-fetch('/api/login', {
-  method: 'POST',
+fetch("/api/login", {
+  method: "POST",
   headers: {
-    'Content-Type': 'application/json',
+    "Content-Type": "application/json",
   },
   body: JSON.stringify({
     username: username,
     password: password,
     recaptchaToken: recaptchaToken,
   }),
-}).then(response => {
+}).then((response) => {
   // Handle the response from the server
 });
 ```
@@ -221,32 +231,34 @@ To transmit this information to our server add it to the property body meant for
 To examine the token, on the server, you must use the reCAPTCHA secret key acquired during the initial setup. A request will be sent to Google’s reCAPTCHA verification API will have the token and your secret key as parameters. Here is an illustrative example of server-side verification using Node.js and Express:
 
 ```javascript
-const express = require('express');
-const fetch = require('node-fetch');
+const express = require("express");
+const fetch = require("node-fetch");
 const app = express();
 
 app.use(express.json());
 
-app.post('/api/login', async (req, res) => {
+app.post("/api/login", async (req, res) => {
   const { username, password, recaptchaToken } = req.body;
 
   // Verify the reCAPTCHA token
-  const secretKey = 'YOUR_SECRET_KEY';
+  const secretKey = "YOUR_SECRET_KEY";
   const verificationUrl = `https://www.google.com/recaptcha/api/siteverify?secret=${secretKey}&response=${recaptchaToken}`;
 
-  const response = await fetch(verificationUrl, { method: 'POST' });
+  const response = await fetch(verificationUrl, { method: "POST" });
   const data = await response.json();
 
   if (data.success) {
     // reCAPTCHA was successful, proceed with login logic
-    res.json({ success: true, message: 'Login successful' });
+    res.json({ success: true, message: "Login successful" });
   } else {
     // reCAPTCHA failed, reject the login attempt
-    res.status(400).json({ success: false, message: 'reCAPTCHA verification failed' });
+    res
+      .status(400)
+      .json({ success: false, message: "reCAPTCHA verification failed" });
   }
 });
 
-app.listen(3000, () => console.log('Server running on port 3000'));
+app.listen(3000, () => console.log("Server running on port 3000"));
 ```
 The stated code snippet exhibits a simple server built using node.js that utilizes an Express framework to cater for a Post request associated with login operation having reCAPTCHA verification. Thereafter, the required modules including express (for developing servers) and node-fetch (for making HTTP requests) were imported. In this case, Google’s Recaptcha Verification API. An Express application is created using `express()` and assigned to the variable app. Through this middleware, all communications are in JSON format so that our server can handle upcoming JSON data.
 
@@ -258,6 +270,9 @@ Should the condition `data.success` be set to false, this implies that reCAPTCHA
 
 ### Handle the Verification Response
 If the token is valid, the verification API response will have a success field. If the success response confirms then the user‟s credentials can be authenticated by checking it against your database for example username and password as these are always common. However, if the verification fails then you must reject the login attempt and let them know that reCAPTCHA verification did not succeed.
+
+Output:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_db777c8dadd8918845237eb01feaf6e1.gif)
 
 In brief, this server-side verification process is essential for ensuring that a reCAPTCHA token is real and that the form submission came from a human. It is possible to minimize the risk of attacks by bots using Google’s API because you will be validating the token securely thus adding another level of security in your login form.
 

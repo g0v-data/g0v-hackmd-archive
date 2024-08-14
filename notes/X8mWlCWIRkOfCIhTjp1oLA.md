@@ -346,6 +346,9 @@ https://www.facebook.com/story.php?story_fbid=pfbid02Cv3vb5X2thkBcZkuVA1XJGrChsj
 新北市淡水區中正東路35巷
 https://www.facebook.com/story.php?story_fbid=pfbid02r3T1mX9X42ZyYo5AUpPDGgjcZ4rpZ4iqZR2gQdGyM2FYiohqDjSjJwEMfGNKWoBcl&id=100091972310150&mibextid=qC1gEa
 
+汐止
+https://www.facebook.com/rexizhi/posts/pfbid0WMEGKvWCBbeD1dDA2QpWcyq5D7nxXWWnZjzj63ZUp4xYVFVy9n5XKJUTfmzCVivyl?locale=zh_TW
+
 新北市秀朗路一段與永和路路口，沒有行人穿越線
 
 新北市新店區北新路中華路口
