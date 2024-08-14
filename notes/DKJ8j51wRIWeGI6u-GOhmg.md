@@ -1,6 +1,6 @@
 ---
 title: "2017-11-7 middle2 後續討論"
-tags: hackpad
+tags: hackpad, middle2
 ---
 
 # 2017-11-7 middle2 後續討論

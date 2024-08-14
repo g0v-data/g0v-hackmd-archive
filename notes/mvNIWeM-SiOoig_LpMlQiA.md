@@ -37,3 +37,9 @@ _______
 (prev=previous)
 使用struct(結構)綑綁,連接不同數據體(這邊指針與data) 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_20e9227a142aa70c577538c800634d6f.png)
+----
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_90cb22a648b0f0d7afa5c517d09cc3d5.png)
+
+<pre>node *list = NULL;
+</pre>
+indicate the list is initially empty.
