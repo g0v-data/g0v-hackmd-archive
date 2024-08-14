@@ -15,3 +15,11 @@ https://x.com/upuknews1/status/1819422330071704025
 https://x.com/generalmcnews/status/1819375692519276735
 
 https://x.com/jeanhatchet/status/1821280459567038970
+
+https://x.com/ewazajaczkowska/status/1821454292827492722
+
+https://x.com/rachaelwongaus/status/1821872836841287731
+
+https://x.com/antoniafrances/status/1821946452773351626
+
+https://x.com/charles_hart/status/1821886821632037361

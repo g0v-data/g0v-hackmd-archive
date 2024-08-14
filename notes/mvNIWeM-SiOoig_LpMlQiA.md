@@ -1,4 +1,5 @@
 # Data structure
+(a demonstration of how data doesn't need to be contiguous)
 * queue 序列
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2e74d170fdd2d84a1bf5c318e5020f9c.png)
 
@@ -33,15 +34,90 @@ _______
 ## Linked list
 a dynamic data structure that can grow or sheink
 * nodes (節點)
-雙向連結
+## 雙向連結(先製造箭頭!)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8421224acd8a8414b8515c798a01fc9d.png)
+
 (prev=previous)
 使用struct(結構)綑綁,連接不同數據體(這邊指針與data) 
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_20e9227a142aa70c577538c800634d6f.png)
 ----
+### making array
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_90cb22a648b0f0d7afa5c517d09cc3d5.png)
 
 <pre>node *list = NULL;
 </pre>
 indicate the list is initially empty.
-*ptr= per that star
+___
+### 将一个新的节点 n 插入到一个已经排序的链表中。它通过遍历链表找到合适的位置，然后插入新节点
+*ptr= pointer
+<pre>//implements a list of numbers using a linked list
+
+#include <cs50.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct node
+{
+    int number
+    struct node *next;
+}
+node;
+
+int main(int argc, char *argv[])
+{
+    //memory for numbers
+    node *list = NULL;
+
+    //for each command-line argument
+    for (int i = 1; i < argc; i++)
+    {
+        //convert argument to int
+        int number = atoi(argv[i]);
+
+        //allocate node for number
+        node *n = malloc(sizeof(node));
+        if (n == NULL)
+        {
+            return 1;
+        }
+        n->number = number;
+        n->next = NULL;
+
+        //if list is empty
+        if (list == NULL)
+        {
+            //this node is thewhole list
+            list = n;
+        }
+        //if list has numbers already
+        else
+        {
+            //iterate over nodes in list
+            for (node *ptr = list; ptr != NULL; ptr = ptr->next)
+            {
+                //if at end of list
+                if (ptr->next == NULL)
+                {
+                    //append node
+                    ptr->next = n:
+                    break;
+                }
+            }
+        }
+    }
+
+}
+</pre>
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aa40777673dacda529cf6c16480aa49e.png)
+
+<pre>
+
+// Iterate over nodes in list
+for (node *ptr = list; ptr != NULL; ptr = ptr->next)
+</pre>
+same format as "for (int i = 0; i < 3; i++)"
+* break: 因为已经插入了节点，所以跳出循环。
+* if (n->number < ptr->next->number):新节点 n 的值小于下一个节点 ptr->next 的值，说明新节点应该插入到当前节点和下一个节点之间。
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_291fd5f5c4ff1970238e37e478715335.png)
+___

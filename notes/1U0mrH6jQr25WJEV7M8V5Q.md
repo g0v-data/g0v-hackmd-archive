@@ -74,10 +74,22 @@ system("cd /usr/local/bin/;./compmanager start&");
 1. GPIO_BIOS_POST_CMPLT_FCOUT_N(GPIO_AA7) (Platform_CheckPOSTEnd read GPIO)
 2. GET TJMAX :temperature where the CPU will start to throttle (reduce performance to cool down)
 
-## PIC oem cmd
+## PIC
+FAN is controlled by BMC default, if BMC timeout/offline, PIC will take FAN control and pull to full speed.
+0x1A: Before BMC ready, PIC will refer to this duty as default AC ON fan duty.
+0x1B: When BMC is timeout/offline, PIC will refer to this duty as MAX fan duty.
+If PIC meet I2C lock issue.
+1. set I2C SDA/SCL to high.
+2. PIC tries to pull nine clocks to release other dev.
+3. PIC reset itself.
+**補充:在I2C通訊中，每個字節由8位數據加上一位確認位（ACK或NACK）組成。因此，在傳輸一個字節後，從設備會在第9個時鐘脈衝時拉低SDA線以發送ACK信號。如果通訊過程中發生錯誤或從設備在等待下一個指令時出現問題，SDA可能會被從設備拉低，並保持在低電平，導致總線卡住。
+送9個SCL時鐘脈衝的目的是模擬完整的字節傳輸過程，幫助從設備完成其內部狀態轉換，並釋放SDA線**
+
 get JBOD/SLED present info
 set JBOD/SLED on/off
 set LED for storage nodes
 get current state of LED for storage nodes
 reset JBOD/SLED controller
 fan control
+cable prsent
+pcie mode
