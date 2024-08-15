@@ -48,6 +48,7 @@ https://goo.gl/maps/igmsKHUWLpRnA52t7
 
 評估地點
 - 請見線上地圖中的「評估中的地點與容易生成台灣輪廓的地景地區」圖層
+    - 重要 待登載 丹麥世界地圖造景 https://maps.app.goo.gl/bKxVMELX8BpmtyZF8
     - 待登載 玉里 水稻田 https://www.facebook.com/share/p/JzwiuMN2uCU6M5N2/
     - 待登載 35.9986650, 10.4955462
     - 東京舉辦一場市區的步行活動，路線形成臺灣本島輪廓形狀 https://japhub.com/?c=17767
