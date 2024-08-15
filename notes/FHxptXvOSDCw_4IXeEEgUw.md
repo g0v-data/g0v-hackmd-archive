@@ -36,24 +36,34 @@ https://forms.gle/od1zfE8VASMDZiaC9
 
 # 如何找到更多內容農場粉專
 
-只要拿內容農場其中一篇的內文去facebook搜尋
+只要拿內容農場其中一篇的內文去facebook搜尋，再點選「貼文」，就會看到一堆內容農場噴出來了。
 
-點選「貼文」
-
-就會看到一堆內容農場噴出來了。
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_027fdc392b3ca9e347c77a514b684c64.png)
 
 
 # 如何回報內容農場粉專
 
 首先，請先打開此表單回應，確認您要回報的粉專不在裡面。你可以使用搜尋功能尋找是否有這個粉專。
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d4381a88772f37fdd780968b88ea117d.png)
+
 接著，打開內容農場粉專。
 
 先對首頁進行抓圖
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f80c2415db7a0aed41748e9efd06544f.png)
+
+
 接著點進關於，對粉絲專頁透明度進行抓圖。
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c4b5e2ea3ffb106224eea0e8d9b58455.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3f37d6fc016052eb2a0bcb551e20ce4d.png)
+
+
 接著填寫資料，並把這兩張圖回報上來。
+
+
 
 這樣就完成了！
 
