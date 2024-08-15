@@ -52,5 +52,4 @@ WOT
 https://chrome.google.com/webstore/detail/wot-website-security-safe/bhmmomiinigofkjcapegjjndpbikblnp
 
 #### Ken暫存
-中華隊靜水輕艇好手賴冠傑2023亞運金牌
-https://www.youtube.com/watch?v=VfpQ2yRhrMs
+https://www.tibame.com/course/3904
