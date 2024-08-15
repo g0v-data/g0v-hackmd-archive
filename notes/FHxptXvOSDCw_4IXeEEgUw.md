@@ -1,7 +1,9 @@
 # 教學：如何回報內容農場粉專
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7694b2f962aa96064eb6dbcc6308816e.png)
-
+---
+tag: 內容農場
+---
 
 近期大家都發現臉書上出現一堆香港或中國方面經營的內容農場。這些內容農場實在太多，以至於真的需要大家一起收集與回報相關內容農場。
 
@@ -18,11 +20,17 @@ https://forms.gle/od1zfE8VASMDZiaC9
 
 首先，他們的內文很短，看起來很罐頭。
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_778ed36a5c49cefe62d21f674d9bf38d.png)
+
 
 內容農場粉專目標是引導使用者前往內容農場，所以留言一定會有連結，可能是引導你去內容農場，或是要你做測驗收集個資。
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cf6b9f7aae9e108bc81ee9ec9a869a14.png)
+
+
 最後，檢查內容農場的經營者，經由點選關於 -》透明度，可以看到這些粉專的經營者多半不在台灣，常常是香港、馬來西亞或中國等地。
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_62b848606a4ff1a126f6f4f9139aefa1.png)
 
 
 
@@ -37,8 +45,17 @@ https://forms.gle/od1zfE8VASMDZiaC9
 
 # 如何回報內容農場粉專
 
-ㄓㄨㄞㄞㄞ
+首先，請先打開此表單回應，確認您要回報的粉專不在裡面。你可以使用搜尋功能尋找是否有這個粉專。
 
+接著，打開內容農場粉專。
+
+先對首頁進行抓圖
+
+接著點進關於，對粉絲專頁透明度進行抓圖。
+
+接著填寫資料，並把這兩張圖回報上來。
+
+這樣就完成了！
 
 
 

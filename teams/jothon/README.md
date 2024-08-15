@@ -3,6 +3,9 @@
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
 | [ctpbook_jp](../../notes/CZqvO0aDQmGm2fEMBxMQKQ.md) | g0v シビックテックプロジェクトとコミュニティの手引き | 2024-07-24T10:56:37+08:00 | Book mode |
+| [B19gusjcR](../../notes/NTksH_CFQxSdOMv6m54_0g.md) | 4-3：台湾、日本、韓国における若者のシビックテック参加状況 ｜ g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-16T00:08:17+08:00 | View mode |
+| [r1pZPoiqR](../../notes/TAmrTPRATSqVToqk73MkZw.md) | 4-2 東アジア、南アジア政府のシビックテックの発展に対する影響と関係｜g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-16T00:04:20+08:00 | View mode |
+| [BJOCDroqC](../../notes/2NuhUmzqRhOUOS6uw5ulCQ.md) | 4-1 東アジア、南アジアの多様性と差異 ｜g0v シビックテックプロジェクトとコミュニティの手引き｜Civic Tech Project Handbook | 2024-08-15T17:18:07+08:00 | View mode |
 | [r1GXtcsqC](../../notes/I6n4A27MTByNRkfJuXJ36A.md) | 3-2 g0vのシビックテックプロジェクト案 ｜g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-15T23:04:58+08:00 | View mode |
 | [Hk4QHcic0](../../notes/um4yr14wTouF2pBedEXIdw.md) | 3-1 プロジェクトの始め方 ｜ g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-15T22:47:55+08:00 | View mode |
 | [ryLOf9o5A](../../notes/b9fRmXY5S4SkVvDCXk6pDA.md) | 2-3 組織を超えた協業でソーシャルグッドを増強させた事例｜ g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-15T22:36:29+08:00 | View mode |
