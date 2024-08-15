@@ -542,3 +542,7 @@
 | [SJIv1q7V8](../../notes/-g0v-Community-Hangout-14th.md) | 第拾肆次 g0v 揪松團 松前哈拉 | 2020-02-26T14:25:34+08:00 | View mode |
 | [g0v38thrundownen](../../notes/uiMPHqgpQQeLAL0a3TyIAQ.md) | Hack from Home Hackath38n Run-Down | 2020-03-05T15:47:05+08:00 | View mode |
 | [H1NHduoE8](../../notes/H5eVeygIRRO8Zh3OGQEfhQ.md) | 在家松活動流程 | 2020-03-03T14:24:59+08:00 | View mode |
+| [g0v-infrastructure-list](../../notes/3kbfZPxeRqC3o201jqJ8Gg.md) | g0v 基礎建設資料整理彙集 | 2019-09-27T17:52:53+08:00 | Book mode |
+| [uswatchertp](../../notes/2hL78htgTEyuaZEpaiHlCQ.md) | 20200118 美國國會台灣觀測站 分享會 | 2020-01-17T11:39:15+08:00 | View mode |
+| [rylPSM6LiS](../../notes/NYt0vq1xSr6R20r0GZ15dg.md) | 【新聞稿】2019 年 g0v 開放了什麼？黑客齊聚忘年會放眼新一年 | 2019-11-11T19:13:03+08:00 | View mode |
+| [rylYcs_SmH](../../notes/g0v-hackath36n.md) | hackath36n - 第參拾陸次開放台北市議會黑客松 | 2019-08-05T17:49:05+08:00 | View mode |
