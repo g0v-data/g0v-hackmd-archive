@@ -1,9 +1,12 @@
+---
+title: 教學：如何回報內容農場粉專
+image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7694b2f962aa96064eb6dbcc6308816e.png
+tag: 內容農場
+---
+
 # 教學：如何回報內容農場粉專
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7694b2f962aa96064eb6dbcc6308816e.png)
----
-tag: 內容農場
----
 
 近期大家都發現臉書上出現一堆香港或中國方面經營的內容農場。這些內容農場實在太多，以至於真的需要大家一起收集與回報相關內容農場。
 
