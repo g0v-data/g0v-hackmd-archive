@@ -2,9 +2,10 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [ctpbook_en](../../notes/RDqfChU1TayMGMF8RY3kiQ.md) | g0v Civic Tech Project & Community Handbook | 2023-05-16T19:48:10+08:00 | Book mode |
+| [ctpbook_jp](../../notes/CZqvO0aDQmGm2fEMBxMQKQ.md) | g0v シビックテックプロジェクトとコミュニティの手引き | 2024-07-24T10:56:37+08:00 | Book mode |
 | [H1_B6j-9R](../../notes/nCOd0CmwSXKqdjjhA_JGFQ.md) | 2024 夏日線上源力增能營結業式 x 專案實作工作坊 | 2024-08-08T10:28:16+08:00 | View mode |
 | [Sch001SSR2024](../../notes/Lujny-EOQCah1dtwyWml-w.md) | 零時小學校 2024 夏日源力增能營 | 2024-06-10T17:53:09+08:00 | Book mode |
-| [ctpbook_jp](../../notes/CZqvO0aDQmGm2fEMBxMQKQ.md) | g0v シビックテックプロジェクトとコミュニティの手引き | 2024-07-24T10:56:37+08:00 | Book mode |
 | [B19gusjcR](../../notes/NTksH_CFQxSdOMv6m54_0g.md) | 4-3：台湾、日本、韓国における若者のシビックテック参加状況 ｜ g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-16T00:08:17+08:00 | View mode |
 | [r1pZPoiqR](../../notes/TAmrTPRATSqVToqk73MkZw.md) | 4-2 東アジア、南アジア政府のシビックテックの発展に対する影響と関係｜g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-16T00:04:20+08:00 | View mode |
 | [BJOCDroqC](../../notes/2NuhUmzqRhOUOS6uw5ulCQ.md) | 4-1 東アジア、南アジアの多様性と差異 ｜g0v シビックテックプロジェクトとコミュニティの手引き｜Civic Tech Project Handbook | 2024-08-15T17:18:07+08:00 | View mode |
@@ -24,7 +25,6 @@
 | [community99](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2021-03-09T13:12:37+08:00 | Book mode |
 | [AI_Grant_20240803](../../notes/15hJzFLZQxKJCklHuh6cSw.md) | GenAI @COSCUP 2024主題論壇與專案實作成果分享 | 2024-07-05T18:14:48+08:00 | View mode |
 | [ByN8AZ3wC](../../notes/C8xmxPHdSOCJaqO-410lxA.md) | 100 種貼紙的攜帶與佈置展示方法 | 2024-07-10T21:36:11+08:00 | View mode |
-| [ctpbook_en](../../notes/RDqfChU1TayMGMF8RY3kiQ.md) | g0v Civic Tech Project & Community Handbook | 2023-05-16T19:48:10+08:00 | Book mode |
 | [SJ_FsojdC](../../notes/r0vbhhJ5R6uKVLo5yXmf_A.md) | 語言盤點 | 2024-07-22T17:50:55+08:00 | View mode |
 | [S1fCA0ZOC](../../notes/8Qa19IlZS9aSQpPp2J9Z4g.md) | 2024.10/26-10/27 MOPCON｜評估申請攤位 | 2024-07-15T07:27:05+08:00 | View mode |
 | [r1316tOBA](../../notes/ybV7nNAcS6yK8Wlde9b7fQ.md) | g0v hackath62n - 第陸拾貳次帶我去月球黑客松 | 2024-06-13T23:14:43+08:00 | View mode |
