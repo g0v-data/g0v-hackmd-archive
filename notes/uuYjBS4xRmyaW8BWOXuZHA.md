@@ -31,3 +31,5 @@ read it like this:
 int X = children[26]
 string = number
 ------> this define how "node" works
+*  *(s+1) = s[1]
+*  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_70ad5a7937cb5e89b38c9280805b8186.png)
