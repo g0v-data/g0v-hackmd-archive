@@ -11,7 +11,7 @@ tag: 內容農場
 
 {%youtube T3rGU-dHwFA %}
 
-https://forms.gle/od1zfE8VASMDZiaC9
+回報網址： https://forms.gle/od1zfE8VASMDZiaC9
 
 
 # 如何判斷內容農場粉專
@@ -28,7 +28,7 @@ https://forms.gle/od1zfE8VASMDZiaC9
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cf6b9f7aae9e108bc81ee9ec9a869a14.png)
 
 
-最後，檢查內容農場的經營者，經由點選關於 -》透明度，可以看到這些粉專的經營者多半不在台灣，常常是香港、馬來西亞或中國等地。
+最後，檢查內容農場的經營者，經由點選關於 → 粉絲專頁透明度，可以看到這些粉專的經營者多半不在台灣，常常是香港、馬來西亞或中國等地。
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_62b848606a4ff1a126f6f4f9139aefa1.png)
 
@@ -49,19 +49,21 @@ https://forms.gle/od1zfE8VASMDZiaC9
 
 接著，打開內容農場粉專。
 
-先對首頁進行抓圖
+先對首頁進行抓圖。抓圖的方式，Windows可以按Win+Shift+S，Mac可以按Command+Shift+4，這樣就會出現可以抓圖的介面。Windows圖片會在「圖片」資料夾中，Mac則會放在桌面。
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f80c2415db7a0aed41748e9efd06544f.png)
 
 
-接著點進關於，對粉絲專頁透明度進行抓圖。
+接著點進關於，對「粉絲專頁透明度進行」抓圖。可以點選「關於」 → 「粉絲專頁透明度」 → 「查看全部」，就能看到。點選圖片教學：
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c4b5e2ea3ffb106224eea0e8d9b58455.png)
+
+抓圖目標：
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3f37d6fc016052eb2a0bcb551e20ce4d.png)
 
 
-接著填寫資料，並把這兩張圖回報上來。
+接著填寫資料，並把這「首頁」和「粉絲專頁透明度」兩張圖回報上來。
 
 
 
