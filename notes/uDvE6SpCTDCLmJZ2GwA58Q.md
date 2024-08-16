@@ -96,6 +96,7 @@ tags: 新生流域
     - 影片 01：05:29 有北科大校門水路照片 https://youtu.be/fyXjkOdDHUQ
     - 影片 06:05 有北科大北側水路，特一號大排尚未興建 https://youtu.be/0tK0gkDIi54
     - 影片 01:55 台大鳥瞰https://youtu.be/fyXjkOdDHUQ
+    - 照片 1953 新生國小前身三軍托兒所 https://www.facebook.com/share/whuZH4rg437vDpuk/
     - 重要 照片 1956 新生南路三段,海源冰店 便橋 https://m.mobile01.com/topicdetail.php?f=37&t=5053330
     - 預計在 FB 社團開一個考究相簿 
         - https://shulinkou.tripod.com/rlbenjo1.jpg
