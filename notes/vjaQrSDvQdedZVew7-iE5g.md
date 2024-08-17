@@ -86,6 +86,7 @@ To develop a set of indicators to measure the “healthiness” of information e
 - Doran
 - slc
 - pm5
+- KL
 
 
 KFC
@@ -96,3 +97,20 @@ Election integrty
 
 打詐
 通訊監察法
+
+fragile and dangerous situation
+attempt of government ctrl over press
+exec appointment
+staff quit after kbs presidential interview
+YTN sold to investment
+SBS construction company
+KCC appointment - KBS MBC
+KOCSC (content rating) - disciplinary actions against news
+fact-checking weakened
+factchecknet investigation
+https://www.journalist.or.kr/news/section5.html
+SNU factcheck center - Naver - gov pressure
+gov own fc
+investigation and accusation against reporters
+violation of protection of sources
+3 newstapa reporters
