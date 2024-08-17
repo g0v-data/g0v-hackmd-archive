@@ -53,3 +53,7 @@ Finally, we will invite participants to think about the factors that would contr
 We’d like to invite all FtO participants who are willing to share their contribution experiences (especially on the impact of society and the cooperation with/supervising against governmental agencies) to talk with us during the FtO.
 
 Kindly talk to Vakau or RS before the event or at the venue!
+
+## Recording
+
+{%youtube X4-iuHQ6vgs %}

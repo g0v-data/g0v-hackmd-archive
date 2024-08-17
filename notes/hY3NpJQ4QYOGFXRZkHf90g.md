@@ -12,7 +12,7 @@ tags: FtO
 * Yuna: UI/UX
 * Kurumi: female health project
 * Yuneko: CCC, LGBTQ+ visibility project
-* Misaki: CCC, Apapane project
+* Masaki: CCC, Apapane project
 * Jake: this is his first civitech event
 
 
@@ -38,7 +38,7 @@ tags: FtO
 ## Topic: How to promote civictech for students/young generations
 
 - Mamie: 
-    - Events like CCC has bring a lot of students (like Haruto, Yuneko, Misaki) into CfJ. Students sometimes join the community through startup and their own projects.
+    - Events like CCC has bring a lot of students (like Haruto, Yuneko, Masaki) into CfJ. Students sometimes join the community through startup and their own projects.
     - If we use "Citizen Science" instead of "Civitech", the community would seem more welcoming to people with no technologic background
 - Jas's own project is about introducing civitech community g0v to students and bring more young people into it. Now her project is focusing on fixing the official website and promotion through social media like Instagram and FaceBook
     - it seems that CfJ also has problems of the official website just like g0v

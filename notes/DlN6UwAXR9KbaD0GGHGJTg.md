@@ -1,11 +1,12 @@
 # FtO Congress steaming
 
 ## keyword
-- video
-    - video_id, url, title, date
-- timeline
-    - video_id, start, 
-- committee
+- meet
+    - meet_id, url, title, date, duration, tags, m3u8_url
+- section
+    - video_id, start, end, title, transcript 
+- tag
+    - 
 
 ## wikidata
 - parliamentary committee 
@@ -27,6 +28,14 @@
         - https://www.shugiintv.go.jp/jp/index.php?ex=VL&deli_id=55289&media_type=
 - korea:
     - https://w3.assembly.go.kr/main/player.do?ref=main&menu=1&mc=356&ct1=22&ct2=417&ct3=05&type=&no=&wv=1&
+
+## compare
+- Korea
+    - subtitle is about 2 days (8/17 show 8/15 meet)
+- taiwan
+    - subtitle is about 2 weeks to 1 month (in PDF, not on video)
+- Japan
+    - 
 
 ## link
 - [衆議院インターネット審議中継](https://www.shugiintv.go.jp/jp/index.php)
