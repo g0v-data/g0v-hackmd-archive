@@ -17,19 +17,33 @@ To develop a set of indicators to measure the “healthiness” of information e
 
 ## Questions
 
-1. Is your information environment healthy?
-2. Why or why not?
-3. What do you think counts as a unhealthy / healthy information environment?
+- Is your information environment healthy?
+- Why or why not?
+- What do you think counts as a unhealthy / healthy information environment?
     - Free expression?
     - Quality entertainment?
     - Contructive public discourse?
     - ...
 
+## Important actors to observe
+- Gov
+- Media
+- Tech
+- CSO
+- Schools
+- Research orgs
+- Human Rights advoacy orgs
+
 ## Some existing indicators (brainstorming...)
 
 - Internet penatration rate
 - Social media penatration rate
-- Number of media outlets
+- Number of traditiona / new media outlets
+    - Newspaper
+    - Radio
+    - TV stations
+    - Web-first media orgs
+    - Entertainment/news agencies
 
 ## Thinking about (digital human) rights and risks...
 
@@ -42,4 +56,18 @@ To develop a set of indicators to measure the “healthiness” of information e
 - Risk of exposure to authoritarian views / values
 - Risk of ...
 
+## Countries
+### Korea
+### Thailand
+- No
+- Main reason: political situation
+- Late-stage monarchy + military
+- Cybertroops: Yes
+- Attack on minority: Not popular minority like LGBTQ
+- Partisanship of media?
 
+## Contributors
+- chihao
+- V
+- N
+- 

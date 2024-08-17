@@ -37,13 +37,27 @@ tags: vtaiwan,dpsurvey
     - 디지털 도구를 사용할 때 어떤 점을 고려합니까?
     - 어떤 기능이나 특징을 원합니까?
 
-## Nishio Interview
+## 西尾泰志 Interview
 - Have you used digital tools to improve civic participation before? e.g. collecting public opinion, hosting deliberative discussion.
     - X api 
         - #TOKYOAI
         - https://note.com/nishiohirokazu/n/n0c7805faabca 
     - Talk to the City 
-        - 
+    - Google form 
+        -匿名都政意見箱
+    - persepctive API 
+        - https://perspectiveapi.com
+    - YouTube comment
+        - API 
+        - 7000 comment for lokng live 
 - What kind of tools have you used? 
 - What is your consideration when you use digital tools? 
+    - accessibility 
+        - everyone can use it 
+        - X.com v.s. Youtube
+        - using phone call to collect opinion 
+    - easy to collect data
 - What kind of features or functions you want to have? 
+    - 讓初心者也能簡單使用的功能？
+    - Open-source tools is good beause engineer can set up environment easily
+        - a proprietary tool easy to use and avaliable in a low cost would be preferable 

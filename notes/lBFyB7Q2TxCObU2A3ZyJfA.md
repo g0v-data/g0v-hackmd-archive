@@ -77,21 +77,10 @@ Moon, poopy
 Fuji hiking
 
 ### Tarry
-
+indoor climbing in tokyo
 
 ### Fionna
 visit my friends build deeper connection with local
 
 ### Yoonsoo
-Chocha, 沏茶
-
-## Topic: What is the positive impact of having projects with international students?
-
-### Yuri
-deeper relationship with students, FtO let us met again, makes friends 
-
-### Vivian
-open imagination of project developing 
-
-### Fionna
-communicate with others, try to learn other culture.
+Gatcha

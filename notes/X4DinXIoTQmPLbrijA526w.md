@@ -75,8 +75,11 @@ Haruto: KAGOSHIMA (angry mountain), Kyushu
 ## Topic: What is (1) the challenges of having projects with international students and (2) how can we solve them?
 
 Yuri: Timezone difficulties
-Yuna: worked with international students in my university
-Yvonne: 
+Yuna: Worked with international students in my university. Out of sudden, one student just gave up to communicate because of language barriers.
+Nao: Is it because translation tool is not good?
+Yuna: Translators sometimes got delayed. GPT make good translation and it doesn't take long, things are getting better.
+Yuri: Translators often has time late in conversations
+Haruto: I don't want to use it because I have to try to speak in English.
 
 
 

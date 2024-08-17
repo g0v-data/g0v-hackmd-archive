@@ -14,7 +14,9 @@
         - `instance of (p31)` => 
 `standing committee of National Assembly  (Q12592037)`
             - `standing committee of National Assembly  (Q12592037)` => `subclass of (P279)` => `parliamentary committee(Q2986700)`
-    - JA: 
+- compare: https://world-parliament.ronny-test.openfun.dev/
+### add japan data
+- [wikipedia japan standing committees](https://ja.wikipedia.org/wiki/%E5%B8%B8%E4%BB%BB%E5%A7%94%E5%93%A1%E4%BC%9A#%E8%A1%86%E8%AD%B0%E9%99%A2%E3%81%AE%E5%B8%B8%E4%BB%BB%E5%A7%94%E5%93%A1%E4%BC%9A)
 - 
 ## link
 - [衆議院インターネット審議中継](https://www.shugiintv.go.jp/jp/index.php)
