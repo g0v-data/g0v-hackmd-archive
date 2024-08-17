@@ -58,16 +58,41 @@ To develop a set of indicators to measure the “healthiness” of information e
 
 ## Countries
 ### Korea
+- No
+- Main reason
+    - Existing division
+        - Party support
+        - Gender
+        - ...
+- Observable bad behavior
+- Partisanship of media?
+    - Slight pro-gov/opposition division (lighter than TW)
+
 ### Thailand
 - No
-- Main reason: political situation
-- Late-stage monarchy + military
-- Cybertroops: Yes
-- Attack on minority: Not popular minority like LGBTQ
+- Main reason
+    - political situation
+        - Late-stage monarchy + military
+- Observable bad behavior
+    - Cybertroops
+    - Attack on minority: Not popular minority like LGBTQ
 - Partisanship of media?
 
 ## Contributors
 - chihao
 - V
 - N
-- 
+- Ohyeon
+- Doran
+- slc
+- pm5
+
+
+KFC
+
+Division
+Video
+Election integrty
+
+打詐
+通訊監察法

@@ -61,3 +61,47 @@ tags: vtaiwan,dpsurvey
     - 讓初心者也能簡單使用的功能？
     - Open-source tools is good beause engineer can set up environment easily
         - a proprietary tool easy to use and avaliable in a low cost would be preferable 
+
+### Ohyoeng Interview 
+- Have you used digital tools to improve civic participation before? e.g. collecting public opinion, hosting deliberative discussion.
+    - Parti
+        - social enterprise in Korea, 10 years
+        - 26 crews 
+        - talking event
+            - use opinion to match people 
+            - two hours talk 
+        - not open-source
+    - Campaign.do
+        - catergorizing users in spectrum 
+        - talking event
+            - use opinion to match people 
+            - two hours talk 
+    - Korean talk
+    - demosx.org
+        - Souel city government 
+        - not open-source
+    - datatrust.me 
+    - mixon.io
+        - 跟首爾市政府合作
+        - a solution 
+        -  not open-source
+    - townhall.kr
+        - interactive polling
+        - like slido
+        - user can add opinion 
+        - not open-source
+- What is your consideration when you use digital tools or develop the tools?  
+    - development by themselves
+    - democracy tools need to be localized and culturally-considered
+        - ex. campaign.io: want to make everyone a star from galaxy
+            - Korea
+- What kind of features or functions you want to have? 
+    - a civic platform with more impact 
+    - making people more aware of the civic tools 
+    - safety issue:
+        - making people feel safe 
+        - balance on making you say anything and not be offended 
+
+### 
+- decidim 
+- 
