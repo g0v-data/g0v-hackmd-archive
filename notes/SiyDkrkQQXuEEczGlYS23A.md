@@ -1,7 +1,7 @@
 ---
 tags: vtaiwan,dpsurvey
 ---
-# FTO 共筆資訊
+# FTO Collaborative Note
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_945ee85ee4b6a7b7ac817c5f30d810df.jpg)
 ## What we want to do?
 - Using survey, interview, test with events, we want to know the digital tools used for civic participation around the world. What is the advantage and disadvantage of them, and how to use them in the real event. 
@@ -45,7 +45,7 @@ tags: vtaiwan,dpsurvey
     - Talk to the City 
     - Google form 
         -匿名都政意見箱
-    - persepctive API 
+    - [persepctive API](https://perspectiveapi.com)
         - https://perspectiveapi.com
     - YouTube comment
         - API 
@@ -77,7 +77,7 @@ tags: vtaiwan,dpsurvey
             - use opinion to match people 
             - two hours talk 
     - Korean talk
-    - demosx.org
+    - [demosx.org](https://demosx.org)
         - Souel city government 
         - not open-source
     - datatrust.me 
