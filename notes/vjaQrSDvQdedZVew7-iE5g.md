@@ -11,34 +11,31 @@ To develop a set of indicators to measure the “healthiness” of information e
 
 ## Questions
 
-- A healthy info env for what?
+1. Define info environment
+2. Is your information environment healthy?
+3. Why or why not?
+    - ...
+4. A healthy info env for what?
     - Free expression?
     - Quality entertainment?
     - Contructive public discourse?
     - ...
 
-## Some indicators (brainstorming...)
+## Some existing indicators (brainstorming...)
 
 - Internet penatration rate
 - Social media penatration rate
-- 
+- ...
 
 ## Thinking about (digital human) rights and risks...
 
-### Right to be connected
-
-### Right to get accurate info
-
-### Right to get diverse info
-
-### Right to moderate one’s info diet
-
-### Right to participate in public discourse / debate / discussion
-
-### Right to be forgotten
-
-### Risk of exposure to authoritarian views / values
-
-### Risk of ...
+- Right to be connected
+- Right to get accurate info
+- Right to get diverse info
+- Right to moderate one’s info diet
+- Right to participate in public discourse / debate / discussion
+- Right to be forgotten
+- Risk of exposure to authoritarian views / values
+- Risk of ...
 
 
