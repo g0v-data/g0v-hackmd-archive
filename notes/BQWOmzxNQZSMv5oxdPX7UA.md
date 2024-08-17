@@ -128,3 +128,109 @@ button:hover {
 }
 </style>
 ```
+## Integrating reCAPTCHA in a Vue Component
+If a Vue component uses reCAPTCHA v3 to handle its form submissions, it implies that such forms are secure but user-friendly. The form we created in the previous section, where a user can type a word and then submit via the "Save" button, will serve as an example of how we can integrate reCAPTCHA v3 to prevent this form from being filled out automatically by some other application. For us to add the integration of reCAPTCHA v3, the first step is to make sure that you have set up correctly the reCAPTCHA plugin in your Vue app. With reCAPTCHA v3, it entirely means that nothing would be visible to the user; therefore, there will not be any extra fields or boxes for ticking. So when one presses the "Save" button on their side, reCAPTCHA v3 runs without them knowing while creating a token for them which they will later use during verification.Integrating reCAPTCHA in a Vue Component
+
+For example:
+
+```vue
+<template>
+  <div class="word-form">
+    <form @submit.prevent="handleSubmit">
+      <div class="form-group">
+        <input type="text" v-model="word" placeholder="Enter a word" required />
+        <button type="submit">Save</button>
+      </div>
+    </form>
+  </div>
+</template>
+
+<script>
+import { defineComponent } from 'vue';
+
+export default defineComponent({
+  data() {
+    return {
+      word: '',
+    };
+  },
+  methods: {
+    async handleSubmit() {
+      try {
+        // Execute reCAPTCHA and get the token
+        const token = await this.$recaptcha.execute('save_word_action');
+        
+        // Prepare the form data with the reCAPTCHA token
+        const formData = {
+          word: this.word,
+          recaptchaToken: token,
+        };
+
+        // Send the form data to the server
+        await this.sendFormData(formData);
+
+        // Clear the input field after successful submission
+        this.word = '';
+
+        alert('Word saved successfully!');
+      } catch (error) {
+        console.error('Error submitting the form:', error);
+        alert('There was an error submitting the form. Please try again.');
+      }
+    },
+    async sendFormData(formData) {
+      // Replace with your actual server endpoint
+      const response = await fetch('https://your-server-endpoint.com/submit', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(formData),
+      });
+
+      if (!response.ok) {
+        throw new Error('Failed to submit the form');
+      }
+    },
+  },
+});
+</script>
+
+<style scoped>
+.word-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+}
+
+input[type="text"] {
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 0.5rem;
+  width: 200px;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+</style>
+```
+
