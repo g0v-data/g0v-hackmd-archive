@@ -54,3 +54,77 @@ new Vue({
 Once the plugin is properly set, reCAPTCHA v3 can be utilized within your Vue components. This means you can protect forms and other crucial areas of your app by generating reCAPTCHA tokens and verifying them on server-side code. The integration process focuses on as much low-key style as possible so it enhances the security of your apps without complicating things or making them difficult for users to access. Depending on the time we get into this, we will look at how to practically implement reCAPTCHA v3 in a Vue.js application which involves starting a simple form needed for receiving information from clients and also responding to the reCAPTCHA within the context of ensuring that your application is secure and user-friendly at all times.
 
 ## Creating a Simple Vue Form with reCAPTCHA v3
+The subsequent activity in your Vue.js application after setting up reCAPTCHA v3 is integrating it into a form to improve its security. In this section, we will go through the steps of creating a simple form in Vue that has reCAPTCHA v3 integrated into it so that its submissions are not done by bots and automated scripts. To start with, let us create a simple form component with Vue. This form can serve various purposes such as user registration, login, or contact submission among others. For this illustration, we shall create a basic form that requires a user’s name and message.
+
+Begin by creating a new Vue component called ContactForm.vue for the form. Below is the template for the form:
+
+```vue
+<template>
+  <div class="word-form">
+    <form @submit.prevent="handleSave">
+      <div class="form-group">
+        <input type="text" v-model="word" placeholder="Enter a word" required />
+        <button type="submit">Save</button>
+      </div>
+    </form>
+  </div>
+</template>
+
+<script>
+import { defineComponent } from 'vue';
+
+export default defineComponent({
+  data() {
+    return {
+      word: '',  // The word entered by the user
+    };
+  },
+  methods: {
+    handleSave() {
+      // For now, we'll just log the word to the console
+      console.log('Word saved:', this.word);
+
+      // Clear the input field after saving
+      this.word = '';
+    },
+  },
+});
+</script>
+
+<style scoped>
+.word-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+}
+
+input[type="text"] {
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 0.5rem;
+  width: 200px;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+</style>
+```
