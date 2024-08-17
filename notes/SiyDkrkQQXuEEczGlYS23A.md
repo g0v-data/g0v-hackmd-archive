@@ -20,3 +20,30 @@ tags: vtaiwan,dpsurvey
 - 우리는 이미 전 세계에서 수집한 몇 가지 사용 사례와 도구들을 가지고 있습니다. 
 - **현재 일본과 한국에서 이러한 도구들을 사용한 경험이 있는 사람들을 찾고 있습니다！**.
 
+## Questions we will ask
+- English
+    - Have you used digital tools to improve civic participation before? e.g. collecting public opinion, hosting deliberative discussion.
+    - What kind of tools have you used? 
+    - What is your consideration when you use digital tools? 
+    - What kind of features or functions you want to have? 
+- Japanese 
+    - 市民参加を向上させるためにデジタルツールを使用したことがありますか？ 例えば、世論を収集したり、討議を開催したりすることです。
+    - どのようなツールを使用しましたか？
+    - デジタルツールを使用する際に、どのような点を考慮しますか？
+    - どのような機能や特徴を求めますか？
+- Korean 
+    - 시민 참여를 향상시키기 위해 디지털 도구를 사용한 적이 있습니까? 예를 들어, 여론을 수집하거나 심의 토론을 개최하는 것과 같은 경우입니다.
+    - 어떤 도구를 사용했습니까?
+    - 디지털 도구를 사용할 때 어떤 점을 고려합니까?
+    - 어떤 기능이나 특징을 원합니까?
+
+## Nishio Interview
+- Have you used digital tools to improve civic participation before? e.g. collecting public opinion, hosting deliberative discussion.
+    - X api 
+        - #TOKYOAI
+        - https://note.com/nishiohirokazu/n/n0c7805faabca 
+    - Talk to the City 
+        - 
+- What kind of tools have you used? 
+- What is your consideration when you use digital tools? 
+- What kind of features or functions you want to have? 
