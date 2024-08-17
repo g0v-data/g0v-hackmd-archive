@@ -17,3 +17,4 @@ tags: vtaiwan,dpsurvey
 - [訪談共筆](/qFQk8OaGROyqBuzf8UUe5A)
 ## 驗證與活動
 - [vTaiwan議題小聚](/GUe0KXMsQBC-6KTIUPBVnA)
+- [FTO 共筆資訊](/SiyDkrkQQXuEEczGlYS23A)
