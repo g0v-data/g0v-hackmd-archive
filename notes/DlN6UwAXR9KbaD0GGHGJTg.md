@@ -9,7 +9,12 @@
 
 ## wikidata
 - parliamentary committee 
-    - [立法院外交及國防委員會](https://www.wikidata.org/wiki/Q15942562)
+    - TW: [立法院外交及國防委員會](https://www.wikidata.org/wiki/Q15942562)
+    - KR: [Legislation and Judiciary Committee](https://www.wikidata.org/wiki/Q14850681)
+        - `instance of (p31)` => 
+`standing committee of National Assembly  (Q12592037)`
+            - `standing committee of National Assembly  (Q12592037)` => `subclass of (P279)` => `parliamentary committee(Q2986700)`
+    - JA: 
 - 
 ## link
 - [衆議院インターネット審議中継](https://www.shugiintv.go.jp/jp/index.php)

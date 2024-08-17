@@ -12,3 +12,11 @@ tags: vtaiwan,dpsurvey
 - We want to create a website to introduce the tools, the use cases, and the analysis for civic tech projects, NGO, or even government agency. 
 - 市民技術プロジェクト、NGO、または政府機関向けに、ツールの紹介、使用事例、および分析を提供するウェブサイトを作成したいと考えています。
 - 시빅 테크 프로젝트, NGO, 또는 정부 기관을 위해 도구, 사용 사례 및 분석을 소개하는 웹사이트를 만들고자 합니다.
+
+## What do we have now? 
+- We have already collect some use cases and tools from all over the world. We are now looking for people who have used the tools in Japan and Korea. 
+- 私たちはすでに世界中からいくつかの使用事例とツールを収集しています。
+- **現在、日本と韓国でこれらのツールを使用した経験がある人を探しています!!!!**
+- 우리는 이미 전 세계에서 수집한 몇 가지 사용 사례와 도구들을 가지고 있습니다. 
+- **현재 일본과 한국에서 이러한 도구들을 사용한 경험이 있는 사람들을 찾고 있습니다！**.
+
