@@ -2,10 +2,11 @@
 tags: 新生流域
 ---
 
-# 新生高架作為單車與馬拉松活動場地
+# 新生流域範圍作為單車與馬拉松活動場地
 
 ## 單車
 
+新生高架
 photo by philipleets (CC BY-NC-SA 3.0 TW)
 https://cyberisland.teldap.tw/P/qAttzEfujii
 
@@ -20,8 +21,13 @@ https://www.facebook.com/share/p/hdKmdEa3KjtYmJ5v/
 社團討論貼文
 https://www.facebook.com/groups/582154450196478/posts/770044471407474/
 
-路跑過程視角的影片
+新生高架路跑過程視角的影片
 https://www.youtube.com/watch?v=r6qJVBRziWE&list=PLjBlyKwAdyCVlUz5gARhas4CRQh9zNLhv
+
+
+以基隆河為主的路線，路線也算包含新生流域的北側範圍邊界
+https://www.garmin.com.tw/event/2024/garmin-run/route.html
+
 
 ## 發想
 

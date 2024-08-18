@@ -2,6 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [ByN8AZ3wC](../../notes/C8xmxPHdSOCJaqO-410lxA.md) | 100 種貼紙的攜帶與佈置展示方法 | 2024-07-10T21:36:11+08:00 | View mode |
+| [SyF9MN2PA](../../notes/xJ-lOiAyQOaDWc6cvCAt2g.md) | 關東旗器材組 - 輕量版方案 | 2024-07-11T00:10:57+08:00 | View mode |
 | [ctpbook_en](../../notes/RDqfChU1TayMGMF8RY3kiQ.md) | g0v Civic Tech Project & Community Handbook | 2023-05-16T19:48:10+08:00 | Book mode |
 | [ctpbook_jp](../../notes/CZqvO0aDQmGm2fEMBxMQKQ.md) | g0v シビックテックプロジェクトとコミュニティの手引き | 2024-07-24T10:56:37+08:00 | Book mode |
 | [H1_B6j-9R](../../notes/nCOd0CmwSXKqdjjhA_JGFQ.md) | 2024 夏日線上源力增能營結業式 x 專案實作工作坊 | 2024-08-08T10:28:16+08:00 | View mode |
@@ -24,7 +26,6 @@
 | [hackathon-name](../../notes/zyPgR_H6QwWBBgGXA6DYEA.md) | 大松命名 Bookmode | 2024-05-14T18:26:36+08:00 | Book mode |
 | [community99](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2021-03-09T13:12:37+08:00 | Book mode |
 | [AI_Grant_20240803](../../notes/15hJzFLZQxKJCklHuh6cSw.md) | GenAI @COSCUP 2024主題論壇與專案實作成果分享 | 2024-07-05T18:14:48+08:00 | View mode |
-| [ByN8AZ3wC](../../notes/C8xmxPHdSOCJaqO-410lxA.md) | 100 種貼紙的攜帶與佈置展示方法 | 2024-07-10T21:36:11+08:00 | View mode |
 | [SJ_FsojdC](../../notes/r0vbhhJ5R6uKVLo5yXmf_A.md) | 語言盤點 | 2024-07-22T17:50:55+08:00 | View mode |
 | [S1fCA0ZOC](../../notes/8Qa19IlZS9aSQpPp2J9Z4g.md) | 2024.10/26-10/27 MOPCON｜評估申請攤位 | 2024-07-15T07:27:05+08:00 | View mode |
 | [r1316tOBA](../../notes/ybV7nNAcS6yK8Wlde9b7fQ.md) | g0v hackath62n - 第陸拾貳次帶我去月球黑客松 | 2024-06-13T23:14:43+08:00 | View mode |
@@ -36,7 +37,6 @@
 | [intro](../../notes/nisX9Um-ROSJxgiqWghp3A.md) | g0v 社群介紹-共筆 | 2021-11-25T20:02:00+08:00 | Book mode |
 | [Sch001courses](../../notes/-bJsddJiTQqEd-MPy7crQA.md) | g0v 零時小學校數位公民課程 | 2022-10-12T11:23:56+08:00 | Book mode |
 | [rkAGALAUK](../../notes/LHLAPHxjTt6Spp5LJr_zew.md) | 黑客松百人場地場勘 | 2021-11-02T14:43:34+08:00 | View mode |
-| [SyF9MN2PA](../../notes/xJ-lOiAyQOaDWc6cvCAt2g.md) | 關東旗器材組 - 輕量版方案 | 2024-07-11T00:10:57+08:00 | View mode |
 | [confkeng2020](../../notes/bLZZA8HlQcWZyjbgvRS6ig.md) | g0v 坑主小聚 / 坑主大補帖 | 2019-12-31T15:45:49+08:00 | View mode |
 | [community99-2406](../../notes/piNgcwQEQGWAPFP7QVf01A.md) | g0v 社群每月九分鐘 - 2024/6 | 2024-05-31T12:41:56+08:00 | View mode |
 | [S1F8CUfwA](../../notes/l0rcGTiPTFqid6sAdwi5TA.md) | 零時小學校 2024 夏日源力增能營開幕式 | 2024-07-03T13:14:57+08:00 | View mode |

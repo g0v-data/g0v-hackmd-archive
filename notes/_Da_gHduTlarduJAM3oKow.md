@@ -1,8 +1,8 @@
 # How to Integrate Lightning CSS with Build Tools
 
-A little, light, and model-like [CSS](https://en.wikipedia.org/wiki/CSS) platform configured to expedient front-end growth by the way it has a set of several elements and standby categories. For web users, [Lightning CSS](https://lightningcss.dev/) was designed with speedy tailoring to build today’s interfaces in the shortest time. Modern web development workflows are almost incomplete without build tools like [Webpack](https://webpack.js.org/), [Parcel](https://parceljs.org/), [Gulp](https://gulpjs.com/), and [Rollup](https://rollupjs.org/) because of their diverse applications. These build tools help automate repetitive tasks saving time while enhancing collaboration among developers.
+A little, light, and model-like [CSS](https://en.wikipedia.org/wiki/CSS) platform configured to expedient front-end growth by the way it has a set of several elements and standby categories. For web users, [Lightning CSS](https://lightningcss.dev/) was designed with speedy tailoring to build today’s interfaces in the shortest time. Modern web development workflows are almost incomplete without build tools like [Webpack](https://webpack.js.org/), [Parcel](https://parceljs.org/), [Gulp](https://gulpjs.com/), and [Rollup](https://rollupjs.org/) because of their diverse applications. These build tools help automate repetitive tasks, saving time while enhancing collaboration among developers.
 
-This guide looks into how these build tools can be used effectively with Lightning CSS to optimize development efficiency and the user experience. When we look at the tools individually, we realize that they are designed differently to suit specific project needs or developers choices. By knowing them well enough and what they can do, developers can use Lightning CSS to create applications that are fast-loading and compatible with various screen sizes.
+This guide looks into how these build tools can be used effectively with Lightning CSS to optimize development efficiency and the user experience. When we look at the tools individually, we realize that they are designed differently to suit specific project needs or developer choices. By knowing them well enough and what they can do, developers can use Lightning CSS to create applications that are fast-loading and compatible with various screen sizes.
 
 ## What is Lightning CSS?
 The Lightning CSS framework makes front-end development quicker and easier. The framework has all the necessary components and classes, which can increase  the productivity of a project by making it faster and more efficient. The most important things are the flexible grid system that works on any device, custom components you can modify yourself, and classes for repeating tasks like styling forms and buttons.  Lightning CSS is focused on simplicity, flexibility, and efficiency, making it suitable for the fast and efficient building of modern responsive web interfaces.
@@ -15,14 +15,14 @@ Build tools simplify the handling of assets and dependencies by packing them up 
 In addition, the building tools can pre-process various tasks,,, such as converting [Sass](https://sass-lang.com/) or [Less](https://lesscss.org/) stylesheets to CSS automatically, which would require a lot of time and result in errors after that. They also have features for sophisticated improvements, including reducing file sizes through the elimination of irrelevant characters and empty spaces, as well as tree shaking that helps enhance performance via the removal of redundant code.
 
 ### Why integrate Lightning CSS with Build Tools?
-When you try to integrate Lightning CSS with build tools such as Webpack, Parcel, Gulp, or Rollup, it will bring more merit to the developers. Such tools are used to automatically carry out various duties like bundling and optimizing CSS documents, there is less manual work done, and this will help prevent errors caused when managing stylesheets on your own .
+When you try to integrate Lightning CSS with build tools such as Webpack, Parcel, Gulp, or Rollup, it will bring more merit to the developers. Such tools are used to automatically carry out various duties like bundling and optimizing CSS documents, there is less manual work done, and this will help prevent errors caused when managing stylesheets on your own.
 
 On top of that, when building tools are used by software programmers, it becomes possible for them to make their cascading style sheets more modular, henceforth improving the ease with which they are organized within projects differing in size. Besides, incorporating tools such as Sass or Less enables advanced CSS characteristics and preprocessing capabilities while at the same time increasing productivity and maintainability.
 
 Moreover, build tools guarantee a uniform linkage of CSS code across all browsers by taking care of browser-specific glitches automatically and prefixing poly fills, hence cross-browser compatibility. When we incorporate Lightning CSS into our build tools, it makes sense for project budgeting; otherwise, it gains efficiency at the expense of time spent on individual tasks and doing them separately.
 
 ## Setting up Lightning CSS
-It is important to grasp the means of installation and fundamental application of this framework to effectively make use of Lightning CSS in one’s web development projects. Lightning CSS can be included in your project in two ways; through a Content Delivery Network ([CDN](https://en.wikipedia.org/wiki/Content_delivery_network)) or [npm](https://www.npmjs.com/) (Node Package Manager) installation:
+It is important to grasp the means of installation and fundamental application of this framework to effectively make use of Lightning CSS in one’s web development projects. Lightning CSS can be included in your project in two ways: through a Content Delivery Network ([CDN](https://en.wikipedia.org/wiki/Content_delivery_network)) or [npm](https://www.npmjs.com/) (Node Package Manager) installation:
 
 ### Installation through CDN
  This technique entails accessing the Lightning CSS files straight from one’s CSS or HTML files without necessarily downloading them. This technique is straightforward and ideal for small projects or rapid prototyping, where simplicity is critical. In most cases, if you want to use Lightning CSS via a CDN, you simply link the CSS file either in your HTML or CSS file(s):
@@ -42,7 +42,7 @@ npm init -y
 ```
 In your project directory, this command creates a `package.json` file which is utilized to manage npm dependencies as well as settings.
 
-You can also install Lightning CSS in your project as a dependency:
+You can also install Lightning CSS in your project as a dependency.
 ```bash
 npm install lightning-css
 ```
@@ -164,7 +164,7 @@ module.exports = {
   },
 };
 ```
-This particular code snippet serves as a configuration for Webpack, which is set in such a way that `MiniCssExtractPlugin` can be used for unpacking CSS into different files, while `OptimizeCSSAssetsPlugin` serves to optimize CSS resources, and `css-loader` is applied to interpreting CSS-related imports as well as `MiniCssExtractPlugin.loader` for separating it from the rest of the content available. Moreover, this arrangement is commonly used in web development projects, in which case it is employed to mass-assemble CSS files, as well as optimize them during the process.
+This particular code snippet serves as a configuration for Webpack, which is set in such a way that `MiniCssExtractPlugin` can be used for unpacking CSS into different files, while `OptimizeCSSAssetsPlugin` serves to optimize CSS resources, and `css-loader` is applied to interpreting CSS-related imports as well as `MiniCssExtractPlugin.loader` for separating it from the rest of the content available. Moreover, this arrangement is commonly used in web development projects, in which case it is employed to mass-assemble CSS files as well as optimize them during the process.
 
 By incorporating Lightning CSS and configuring Webpack with these loaders and plugins, you make your development process more efficient and ensure high performance and scalability in the creation of modern web apps. This allows for optimized asset bundling strategies through which you can manage stylesheets effectively, preprocess CSS languages, and take care of CSS delivery optimization.
 
@@ -191,7 +191,7 @@ If you don't have yet installed Lightning CSS, you can do so through npm:
 npm install lightning-css --save-dev
 ```
 ### Preprocessing and Automatic Bundling
-Parcel manages sass or less preprocessing automatically. In your project just put in your Less or Sass files and Parcel will compile them to conventional CSS during the build process. Using Lightning CSS in your JavaScript or HTML files can be done by adding it in the following manner:
+Parcel manages sass or less preprocessing automatically. In your project, just put in your Less or Sass files, and Parcel will compile them to conventional CSS during the build process. Using Lightning CSS in your JavaScript or HTML files can be done by adding it in the following manner:
 
 ```javascript
 import 'lightning-css/lightning.min.css';
@@ -200,9 +200,9 @@ Parcel will automatically bundle this CSS along with your JavaScript files.
 
 ### Built-in Optimization
 
-Your project will be improved by Parcel out-of-the-box. For example, it minimizes CSS and eliminates useless code, ensuring that no manual tweaking is necessary to make your final builds small and fast.
+Your project will be improved by Parcel Parcel Out-of-the-Box. For example, it minimizes CSS and eliminates useless code, ensuring that no manual tweaking is necessary to make your final builds small and fast.
 
-To summarize, the simple integration of Lightning CSS into Parcel is a result of its zero-configuration nature. Parcel automatically bundles, processes, and optimizes your codebase making the development process much less tedious as developers can now concentrate on writing application code rather than setting up build tools. Whether you are beginning a fresh project or adding Lightning CSS to an old project; the tool provides a smooth path leading to advanced web programming practice.
+To summarize, the simple integration of Lightning CSS into Parcel is a result of its zero-configuration nature. Parcel automatically bundles, processes, and optimizes your codebase, making the development process much less tedious as developers can now concentrate on writing application code rather than setting up build tools. Whether you are beginning a fresh project or adding Lightning CSS to an old project, the tool provides a smooth path leading to advanced web programming practice.
 
 ## Integrating Lightning CSS with Gulp
 Gulp is a popular task runner that can be used to streamline routine tasks in your workflow, such as CSS pre-processing, compression, and merging. This part discusses how to  efficiently add Lightning CSS to your development pipeline.
@@ -213,7 +213,7 @@ Supposing that you have not installed Gulp globally yet, then use npm to install
 ```bash
 npm install -g gulp-cli
 ```
-Go to your project directory using the `cd` command, as we discussed in the previous section, by opening the command line interface. If there is no `package.json` in your project, you can create one by running:
+Go to your project directory using the `cd` command, as we discussed in the previous section, by opening the command-line interface. If there is no `package.json` in your project, you can create one by running:
 
 ```bash
 npm init -y
@@ -223,7 +223,7 @@ The next thing you need to do is install Gulp as a development dependency in you
 ```bash
 npm install gulp --save-dev
 ```
-After that, you should also install `gulp-sass` for compiling Sass to CSS and `gulp-clean-css` for minifying CSS:
+After that, you should also install `gulp-sass` for compiling Sass to CSS and `gulp-clean-css` for minifying CSS.
 
 ```bash
 npm install gulp-sass gulp-clean-css --save-dev
@@ -257,7 +257,7 @@ gulp.task("minify-css", function () {
 // Define a default task
 gulp.task("default", gulp.series("sass", "minify-css"));
 ```
-This snippet of code enables Gulp to automate the process of converting Sass files `(src/scss/**/*.scss)` into normal CSS as well as minifying the resultant CSS files `(dist/css/**/*.css)` through `gulp-sass` and `gulp-clean-css` respectively. If you just type gulp at the command prompt, it makes sure all are done one after another, which saves time for developers working on web projects and makes it easier for them to prepare and optimize their stylesheets.
+This snippet of code enables Gulp to automate the process of converting Sass files `(src/scss/**/*.scss)` into normal CSS as well as minifying the resultant CSS files `(dist/css/**/*.css)` through `gulp-sass` and `gulp-clean-css`, respectively. If you just type gulp at the command prompt, it makes sure all are done one after another, which saves time for developers working on web projects and makes it easier for them to prepare and optimize their stylesheets.
 
 ### Automation with Watch Tasks
 If you want to auto-compile CSS and bundle it whenever you make changes to your Sass files, you will need to utilize the following Gulp watch task code:
@@ -270,7 +270,7 @@ gulp.task("watch", function () {
 ```
 If you want to run the watch task, making use of `gulp watch` on the command line is what you need. It will keep an eye out for any changes that you make in your Sass files and then convert them into CSS automatically each time you do so.
 
-Summing this up, Gulp makes it much easier and faster to add Lightning CSS to your development by doing CSS preprossessing, optimizing, and bundling tasks automatically. In other words, you can streamline your workflow effectively enough, thus boosting your work speed.
+Summing this up, Gulp makes it much easier and faster to add Lightning CSS to your development by doing CSS preprocessing, optimizing, and bundling tasks automatically. In other words, you can streamline your workflow effectively enough, thus boosting your work speed.
 
 ### Integrating Lightning CSS with Rollup
 Rollup is a JavaScript module bundler that is very good at bundling libraries and apps into smaller, more efficient bundles. Here is an effective way to integrate Lightning CSS with Rollup:
@@ -307,7 +307,7 @@ export default {
 You can adjust the `input`, `output`, and `plugins` configurations based on your project requirements.
 
 ### Preprocessing with PostCSS
-Rollup can, in addition, be facilitated by preprocess duties by `PostCSS` plugins through the help of `rollup-plugin-postcss`. Including `autoprefixer` or `cssnano` are some possible PostCSS plugins that can be used for this purpose, such as vendor prefixe handling and optimizing your CSS code.
+Rollup can, in addition, be facilitated by preprocess duties in `PostCSS` plugins with the help of `rollup-plugin-postcss`. Included in `autoprefixer` or `cssnano` are some possible PostCSS plugins that can be used for this purpose, such as vendor prefix handling and optimizing your CSS code.
 
 Here is an example configuration we can use to include `autoprefixer` and `cssnano`:
 
@@ -330,10 +330,10 @@ export default {
 The combination of `rollup-plugin-postcss` processes the CSS files in this rollup configuration. So, you will not need to add vendor prefixes when developing a CSS page manually. Included in the  array may be other Rollup plugins that are necessary.
 
 ### Optimization (minification, tree shaking)
-Rollup offers default optimization of JavaScript modules, but if you want to further the optimization process, then you can use `cssnano` plugin within `rollup-plugin-postcss` for enhancing CSS. In addition, it assists in the better performance of your application because it gets rid of unused
-styles during compilation ([tree shaking](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking#:~:)) which includes minification for CSS files.
+Rollup offers default optimization of JavaScript modules, but if you want to further the optimization process, then you can use the `cssnano` plugin within `rollup-plugin-postcss` for enhancing CSS. In addition, it assists in the better performance of your application because it gets rid of unused
+styles during compilation ([tree shaking](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking#:~:)), which includes minification for CSS files.
 
-To sum up, as soon as you combine Lightning CSS with Rollup by `rollup-plugin-postcss` it becomes possible to bundle and optimize CSS as well as JavaScript modules effectively. Applying PostCSS plugins for preprocessing and optimizing CSS with Rollup makes sure they make use of the performance of Rollup to generate smaller and yet better-optimized bundles for modern web applications.
+To sum up, as soon as you combine Lightning CSS with Rollup by `rollup-plugin-postcss`, it becomes possible to bundle and optimize CSS as well as JavaScript modules effectively. Applying PostCSS plugins for preprocessing and optimizing CSS with Rollup makes sure they make use of the performance of Rollup to generate smaller and yet better-optimized bundles for modern web applications.
 
 ## Conclusion
 In conclusion, combining Lightning CSS with build tools not only makes the development process more straightforward but  also makes web applications’ code quality, performance, and scalability better. Using such tools and practices can enable software developers to overcome the problems of modern web technology while catering to users’ needs at the same time.
