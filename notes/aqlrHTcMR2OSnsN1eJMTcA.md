@@ -1,12 +1,18 @@
 
 # 打詐/網路治理、數位人權 (related: 假訊息防治、數中法、性暴力影像)
 
+打詐四法：《詐欺犯罪危害防制條例》（新訂定）、《科技偵查及保障法》（部分條文修正）、《通訊保障及監察法》（部分條文修正）、《洗錢防制法》（部分條文修正）修正
+
+通保法修正內容：
+Art.5 擴大允許通訊監察之犯罪類型：
 
 - 2004 內政部警政署成立 165 反詐騙諮詢專線
 - 2017-2018.8.15 法務部高等檢察署建置「全國反電信詐騙資料庫」
 - 2022.7 行政院「新世代打擊詐欺策略行動綱領」、「打詐國家隊」成立
 - 2023.5 行政院「新世代打擊詐欺策略行動綱領」1.5 版
 - 2023.5.31 行政院「打擊詐欺辦公室」正式揭牌
+- 2024.5.9 行政院院會通過打詐四法 
+- 2024.7.17 打詐四法三讀
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d37d742c46cea5cdd4cae46a0d4e312b.png)
 
@@ -15,8 +21,10 @@
 - https://www.ey.gov.tw/Page/448DE008087A1971/d34edb21-cb88-4409-b5e3-8dcb89c7f614
 - https://www.ey.gov.tw/Page/9277F759E41CCD91/500112cf-97f7-4bd5-b465-efb0e952fc84
 - https://www.solventosoft.com.tw/media-article.aspx?id=399
+- https://www.moj.gov.tw/2204/2795/2796/210451/post
+- https://www.ey.gov.tw/Page/9277F759E41CCD91/cdedac72-e512-4f92-8a44-492847bed989 
 - 165 反詐騙諮詢專線防詐機制探討 田明府、黃麒然
-    - http://eportfolio.mcu.edu.tw/ePortfolio/Teacher/Html/Common/epdf/1000212/RE_D1_20200327_17343.PDF
+- http://eportfolio.mcu.edu.tw/ePortfolio/Teacher/Html/Common/epdf/1000212/RE_D1_20200327_17343.PDF
 - 詐欺犯罪手法演進圖（李志祥，通訊詐欺被害歷程之研究-以 ATM 解除分期付款為例，國立台北大學犯罪學研究所碩士論文，2016）
     - 2003 之前
         - 刮刮樂中獎

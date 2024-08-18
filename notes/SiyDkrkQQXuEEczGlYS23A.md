@@ -41,7 +41,7 @@ tags: vtaiwan,dpsurvey
 - Have you used digital tools to improve civic participation before? e.g. collecting public opinion, hosting deliberative discussion.
     - X api 
         - #TOKYOAI
-        - https://note.com/nishiohirokazu/n/n0c7805faabca 
+https://note.com/nishiohirokazu/n/n0c7805faabca 
     - Talk to the City 
     - Google form 
         -匿名都政意見箱
@@ -102,6 +102,130 @@ tags: vtaiwan,dpsurvey
         - making people feel safe 
         - balance on making you say anything and not be offended 
 
-### 
+## 關治之
 - decidim 
-- 
+    - depends on how cities want to use, normally for collecting opinions of specific policies (ex: kids want to have a skate park, draft of small city policy) -> city will have a offical discussion (local level), organize by emails(easy for people to speak out)
+    - 15% local governments and private sectors
+    - workshops for university or high school students
+
+other tools used: not used yet in cfj, want to share other solutions in japan
+- polipoli (not open source)
+- Liquid by [Liquitous](https://liquitous.com/) (civic participation platform)
+
+When using digital tools, what's your main considerations?
+- Open source (not necessary, but important)
+- maybe small town can do it, and help improve the company product
+- easier UI, actually dicidim has poor user interface, we are getting better
+- usability, not only using internet, also need to arrange offline conversations, such as workshops
+- need to reach out to important stakeholders, who may affect blockchain decision making
+
+If you can develop a civil tech tool, what would you like to achieve?
+- better API, beside website, the API can also connect to social media
+
+- People can creative some policy proposal in EU, we want to gradually process to this stage
+
+what is the process of the workshop?
+
+- operate to the young generation
+- also open to elder generation that don't have some many resource in this aspect
+
+Do you share the same issue or proceed with the same way?
+
+- When we share with students, we share the local case, more creative sharing
+- When elder, we don't use many digital tools, rather use a big white paper. We then convert the information into digital tools.
+- We do civil participation voluntarily, not paying
+
+Is there any project proceed with the dicidim.
+- TBD(Provide by Peter later)
+
+The situation of workshop?
+
+- Varys from region(mentioned a city)
+- CfJ: 1 dedicate, 1 main contributor, 2 main developers
+
+---
+### I. Basic Information
+- Could you briefly share your background? (studies, work, etc)
+    - maybe search from internet first
+- Why do you decide to found Cfj?
+    - been working as a software engineer for over 30 years, started learnt CfJ and there's an eatrhquake happened in 2017
+at that time, i was working with startup (later acquired by yahoo japan, so was working for yahoo japan at that time) as 
+contributor in a open source community, just having fun.
+
+After earthquake, there are confused news and disinformation
+
+open source community start to establish open stream mapping (fun also) in the map.
+
+that lead me to join and realize that i can use my skill set so solve social issues
+
+that's why i gradually start to think how developers can help the real issue
+not like ads, or making funny games
+for me, I want to solve and improve the society
+
+I went to disaster areas and talk to people, asked "is there anything I can help with digital developers skills?"
+nobody understand the idea
+they have more physical issues
+there are many gaps between what i want to do and why they need
+I am confused how to reach out to people who need assistance with digital gaps
+
+That is my strong fraustrution, later watched by Ted by Code for America (Jennifer)
+
+2017
+
+What's the different between opensource and civil tech?
+- main player is not developer (code for japan, code is not goal, just mean; we need to have people who have idea to improve the society, if only have developers it's not that ideal)
+- 1/3 in cfj is developer, 2/3 non-tech
+
+When do you start develop your own project as a leader? from earthquake or before that?
+- I have organized some map tool
+- first: visualizing city project, not earthquake-related project
+- open source project: 
+    - [where does my money go and put city budget](https://spending.jp/)
+    - we built this for Yokohama and other cities
+
+- organize local coder community 
+
+Why there's many project with maps?
+- many solutions could be solved by mapping way
+- there are many opne source tools in mapping way, it's easier to set up (google map api etc)
+
+People often have these backgrounds(GEO, Data Analysis)?
+- not actually, it's easy to learn
+- the tools not too difficult to implement
+- city often provide open data about local services, you can just import csv file
+
+### III. Organizational Aspects
+- What kind of organization do you think CfJ is? What types of projects are most common at CfJ?
+    - in local communities
+    - map is common, like spot bear
+    - disaster prevention is also common (earthquake, flood) people map damaged area, charging points
+
+- What are the ultimate goals of the organization? What is the next step for CfJ? How do you envision CfJ in the next 5 or 10 years?
+    - we want to create ecosystem for civic tech community
+    - it's difficult to create actual services as a sustainable service provide, it need sources to continue providing services
+    - Hackmd donate to g0v
+    - if create map services you need to keep maintaining, but it's difficult for volunteer communites, citizens can't rely on fully
+    - may work with governments and connecting to institutions is important
+
+We won't stick with open source tool, we can sometime
+
+
+
+### IV. Observations on Student Participants and Promotion Strategies
+- What’s your observation on the composition of student participants at CfJ? (age, location, gender)
+
+
+- Based on your observations, where do most student participants learn about CfJ and how do they usually participate?
+
+
+
+
+### II. Current Participation
+- What's your role in cfj and how's your daily responsibilities like?
+
+
+- What do you consider the biggest gainnings for you from participating in CfJ?
+
+
+
+
