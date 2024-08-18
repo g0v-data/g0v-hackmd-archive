@@ -23,6 +23,6 @@ https://photos.app.goo.gl/AtkNoAMs5e2jGrmt5
     - 污痕灰燼以及街道清洗的污水，會從雨水下水道流入自然水體
 
 其他
-- 用木片相互交叉來組成帶狀 
+- 用木片相互交叉來組成類似鞭炮的帶狀木片組構方式，且也可以產生依序一片一片蹦跳的效果 
     - https://www.facebook.com/share/r/wcy1LoSKXvAv5Azz/
     - https://youtube.com/shorts/ejEpE8iFPYs
