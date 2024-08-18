@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [FTO Collaborative Note](../notes/SiyDkrkQQXuEEczGlYS23A.md) | 2024-08-18T10:00:05+08:00 | 2024-08-17T10:45:21+08:00 |
+| 1 | [FTO Collaborative Note](../notes/SiyDkrkQQXuEEczGlYS23A.md) | 2024-08-18T11:00:09+08:00 | 2024-08-17T10:45:21+08:00 |
 | 2 | [訪談共筆](../notes/qFQk8OaGROyqBuzf8UUe5A.md) | 2024-08-17T11:19:54+08:00 | 2024-07-18T16:23:16+08:00 |
 | 3 | [數位公共參與工具比較協作共筆](../notes/k_P2feISSMGwdLKjv8yO4Q.md) | 2024-08-17T10:45:22+08:00 | 2024-07-18T16:14:50+08:00 |
 | 4 | [標準收集](../notes/PHkctw6IRgeqbtdfrLCuBQ.md) | 2024-08-15T20:03:19+08:00 | 2024-07-18T16:35:45+08:00 |

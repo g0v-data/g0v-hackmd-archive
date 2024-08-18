@@ -28,6 +28,7 @@ To develop a set of indicators to measure the “healthiness” of information e
 ## Important actors to observe
 - Gov
 - Media
+- Independent media / fc orgs
 - Tech
 - CSO
 - Schools
@@ -56,30 +57,38 @@ To develop a set of indicators to measure the “healthiness” of information e
 - Risk of exposure to authoritarian views / values
 - Risk of ...
 
-## Countries
-### Korea
-- No
-- Main reason
-    - Existing division
-        - Party support
-        - Gender
-        - ...
-- Observable bad behavior
-- Partisanship of media?
-    - Slight pro-gov/opposition division (lighter than TW)
+## Chat log at FtO 2024
+### Main reasons
+- Political situation
+    - Late-stage monarchy + military (TH)
+    - Emotional partisanship (TW)
+- Existing division (KR)
+    - Party support
+    - Gender
+    - Identity
+        - Not popular minority like LGBTQ (TH)
+- Government overreach (KR) or possible overreach (TW)
+    - Commission and executive appointments (KR)
+    - Investigations on fact-checking orgs and journalists (KR)
+    - Ban on criticism of monarchy (TH)
+    - Anti-scam laws (TW)
+- Corporate media ownership
+    - Investment company, contstruction company using media to create public pressure (KR)
+- Platform recommendation mechanism
+    - “Rabbit hole”
 
-### Thailand
-- No
-- Main reason
-    - political situation
-        - Late-stage monarchy + military
-- Observable bad behavior
-    - Cybertroops
-    - Attack on minority: Not popular minority like LGBTQ
-- Partisanship of media?
+### Problematic behavior
+- Rumor
+- Low quality news program
+- Extreme speech
+- Cybertroops
+- Conspiracy on election integrity (KR) (TW)
+- Appeared partisanship of media
+    - Consolidation of partisan identity and media preference (TW)
+    - Slight pro-gov/opposition division (lighter than TW) (KR)
 
 ## Contributors
-- chihao
+- CH
 - V
 - N
 - Ohyeon
@@ -88,6 +97,7 @@ To develop a set of indicators to measure the “healthiness” of information e
 - pm5
 - KL
 
+## Notes
 
 KFC
 
