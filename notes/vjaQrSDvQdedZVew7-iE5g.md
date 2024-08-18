@@ -5,7 +5,12 @@ tags: FtO
 
 > This is a project proposed by chihao at [FtO Yokohama 2024](https://g0v.hackmd.io/@fto/book).
 
-## Info environment: people, organizations, (tech) platforms creating and sharing information
+> Info environment: people, organizations, (tech) platforms creating and sharing information
+> 
+
+## License
+
+CC BY 4.0 FtO contributors
 
 ## Project Goal
 
@@ -13,7 +18,9 @@ To develop a set of indicators to measure the “healthiness” of information e
 
 ## Todo at FtO 2024
 
-- Chatting with you and collecting your contribution!
+- [Slides](https://docs.google.com/presentation/d/1zHO88QWaQvDwoDAobrlUjCRG81D40dv-nupvBqcBqU8/edit)
+- Chat with FtO participants
+- Identify similarities and differences among FtO countries
 
 ## Questions
 
@@ -25,7 +32,8 @@ To develop a set of indicators to measure the “healthiness” of information e
     - Contructive public discourse?
     - ...
 
-## Important actors to observe
+## Important actors to consider
+
 - Gov
 - Media
 - Independent media / fc orgs
@@ -97,7 +105,7 @@ To develop a set of indicators to measure the “healthiness” of information e
 - pm5
 - KL
 
-## Notes
+## Unorganized motes
 
 KFC
 
