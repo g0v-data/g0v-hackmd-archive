@@ -50,7 +50,10 @@ https://note.com/nishiohirokazu/n/n0c7805faabca
     - YouTube comment
         - API 
         - 7000 comment for lokng live 
-    - データの収集に関しては、当初GitHubとTwitterのハッシュタグを想定していた。YouTube動画へのコメントを収集することも行った。また、匿名で意見を書きたい人やTwitterやYouTubeのアカウントがない人がいることが認識されたので、「誰も取り残さない」ために途中でGoogle Formを作成した。またTwillioを用いて電話での質問応答も行った。
+    - データの収集に関しては、当初GitHubとTwitterのハッシュタグを想定していた。
+    - YouTube動画へのコメントがたくさん来たのでそれを収集することも行った。
+     - また、匿名で意見を書きたい人やTwitterやYouTubeのアカウントがない人がいることが認識されたので、「誰も取り残さない」ために途中でGoogle Formを作成した。
+     - またYouTube上で動いて来るAI Annoにテキスト形式で質問を投稿できない人の手目に、Twilioを用いて電話での質問応答可能にした。
 - What kind of tools have you used? 
 - What is your consideration when you use digital tools? 
     - accessibility 
@@ -62,7 +65,7 @@ https://note.com/nishiohirokazu/n/n0c7805faabca
     - 讓初心者也能簡單使用的功能？
     - Open-source tools is good beause engineer can set up environment easily
         - a proprietary tool easy to use and avaliable in a low cost would be preferable 
-    - 例えば、Twitter、GitHub、Google Formはオープンソースではないが、容易に使えるし、慣れているユーザも多い
+    - 例えば、Twitter、YouTube、GitHub、Google Formはオープンソースではないが、容易に使えるし、慣れているユーザも多い
 
 For detail: [Digest of Anno team blog in 2024 Tokyo gubernatorial election｜NISHIO Hirokazu](https://note.com/nishiohirokazu/n/n0c7805faabca)
 
