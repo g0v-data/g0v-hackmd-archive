@@ -37,7 +37,7 @@ tags: vtaiwan,dpsurvey
     - 디지털 도구를 사용할 때 어떤 점을 고려합니까?
     - 어떤 기능이나 특징을 원합니까?
 
-## 西尾泰志 Interview
+## 西尾泰和 Interview
 - Have you used digital tools to improve civic participation before? e.g. collecting public opinion, hosting deliberative discussion.
     - X api 
         - #TOKYOAI
@@ -50,6 +50,7 @@ https://note.com/nishiohirokazu/n/n0c7805faabca
     - YouTube comment
         - API 
         - 7000 comment for lokng live 
+    - データの収集に関しては、当初GitHubとTwitterのハッシュタグを想定していた。YouTube動画へのコメントを収集することも行った。また、匿名で意見を書きたい人やTwitterやYouTubeのアカウントがない人がいることが認識されたので、「誰も取り残さない」ために途中でGoogle Formを作成した。またTwillioを用いて電話での質問応答も行った。
 - What kind of tools have you used? 
 - What is your consideration when you use digital tools? 
     - accessibility 
@@ -61,6 +62,10 @@ https://note.com/nishiohirokazu/n/n0c7805faabca
     - 讓初心者也能簡單使用的功能？
     - Open-source tools is good beause engineer can set up environment easily
         - a proprietary tool easy to use and avaliable in a low cost would be preferable 
+    - 例えば、Twitter、GitHub、Google Formはオープンソースではないが、容易に使えるし、慣れているユーザも多い
+
+For detail: [Digest of Anno team blog in 2024 Tokyo gubernatorial election｜NISHIO Hirokazu](https://note.com/nishiohirokazu/n/n0c7805faabca)
+
 
 ### Ohyoeng Interview 
 - Have you used digital tools to improve civic participation before? e.g. collecting public opinion, hosting deliberative discussion.
@@ -136,7 +141,11 @@ Do you share the same issue or proceed with the same way?
 - We do civil participation voluntarily, not paying
 
 Is there any project proceed with the dicidim.
-- TBD(Provide by Peter later)
+- [Report of the Decidim user meeting](https://www.code4japan.org/news/event-20240701-decidim)
+- [Article about Decidim usecases in Japan. (Higashi-san is a project manager of the Decidim team in the CfJ)](https://note.com/kken78/n/n1a8ed4783595)
+- [He has written many notes related to Decidim](https://note.com/kken78/m/m5710015edcd7)
+
+Hal
 
 The situation of workshop?
 
