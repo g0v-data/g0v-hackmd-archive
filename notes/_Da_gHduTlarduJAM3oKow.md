@@ -35,7 +35,7 @@ Substitute the actual CDN URL where Lightning CSS is hosted with `"https://examp
 To get projects that are stronger and can be scaled upward, NPM should be utilized. This is an excellent move to make. As far as lightning CSS is concerned, it can also be installed via npm commands, taking into consideration dependency for a much better versioning and build integration process.
 
 The following steps should be followed to install Lightning CSS through npm (Node Package Manager): 
-* Use your command line interface (CLI) to go to your project directory. 
+* Use your command-line interface (CLI) to go to your project directory. 
 *  If you have not done this already, start npm as shown below:
 ```bash
 npm init -y
