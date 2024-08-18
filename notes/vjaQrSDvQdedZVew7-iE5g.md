@@ -105,10 +105,9 @@ To develop a set of indicators to measure the “healthiness” of information e
 - pm5
 - KL
 
-## Unorganized motes
+## Unorganized notes
 
 KFC
-
 Division
 Video
 Election integrty
