@@ -127,7 +127,7 @@ Update your Webpack configuration to use `less-loader`:
   use: ['style-loader', 'css-loader', 'less-loader'],
 }
 ```
-The above code snippet is used to update your Webpack configuration to use ``less-loader``.
+The above code snippet is updates your Webpack configuration to use ``less-loader``.
 
 ### Optimization (minification, critical CSS extraction)
 Webpack can perform advanced optimizations—let's take, for example, minification and critical CSS extraction—using plugins such as `mini-css-extract-plugin` and `optimize-css-asset-webpack-plugin`.
@@ -205,7 +205,7 @@ Your project will be improved by Parcel Parcel Out-of-the-Box. For example, it m
 To summarize, the simple integration of Lightning CSS into Parcel is a result of its zero-configuration nature. Parcel automatically bundles, processes, and optimizes your codebase, making the development process much less tedious as developers can now concentrate on writing application code rather than setting up build tools. Whether you are beginning a fresh project or adding Lightning CSS to an old project, the tool provides a smooth path leading to advanced web programming practice.
 
 ## Integrating Lightning CSS with Gulp
-Gulp is a popular task runner that can be used to streamline routine tasks in your workflow, such as CSS pre-processing, compression, and merging. This part discusses how to  efficiently add Lightning CSS to your development pipeline.
+Gulp is a popular task runner used to streamline routine tasks in your workflow, such as CSS pre-processing, compression, and merging. This part discusses how to  efficiently add Lightning CSS to your development pipeline.
 
 ### Setting up Gulp Tasks `(gulp-sass, gulp-clean-css)`
 Supposing that you have not installed Gulp globally yet, then use npm to install it:
@@ -213,7 +213,7 @@ Supposing that you have not installed Gulp globally yet, then use npm to install
 ```bash
 npm install -g gulp-cli
 ```
-Go to your project directory using the `cd` command, as we discussed in the previous section, by opening the command-line interface. If there is no `package.json` in your project, you can create one by running:
+Go to your project directory using the `cd` command, as discussed in the previous section, by opening the command-line interface. If there is no `package.json` in your project, you can create one by running:
 
 ```bash
 npm init -y
@@ -268,7 +268,7 @@ gulp.task("watch", function () {
   gulp.watch("src/scss/**/*.scss", gulp.series("sass"));
 });
 ```
-If you want to run the watch task, making use of `gulp watch` on the command line is what you need. It will keep an eye out for any changes that you make in your Sass files and then convert them into CSS automatically each time you do so.
+If you want to run the watch task, making use of the `gulp watch` on the command line is what you need. It will keep an eye out for any changes that you make in your Sass files and then convert them into CSS automatically each time you do so.
 
 Summing this up, Gulp makes it much easier and faster to add Lightning CSS to your development by doing CSS preprocessing, optimizing, and bundling tasks automatically. In other words, you can streamline your workflow effectively enough, thus boosting your work speed.
 
