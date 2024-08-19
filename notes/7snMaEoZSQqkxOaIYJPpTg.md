@@ -25,7 +25,7 @@ tags: GIS　
 - 民眾回報垃圾的地圖
     - https://www.facebook.com/groups/437659989769965/posts/2226508517551761/
 - 教案與行動
-    - 不留煙蒂 淨街https://www.facebook.com/share/p/BtLu2efqtkAw7ZpK/
+    - 不留煙蒂 淨街 https://www.facebook.com/share/p/BtLu2efqtkAw7ZpK/
     - 認識菸蒂的組合 by 新北市光華國小衛生組
         - https://www.greenschool.moe.edu.tw/gs2/partner/item.aspx?k=F72575B550A0A1B0AB4CAF2829EBB1D2
     - 菸沒綠洲 Girls in the Oasis
@@ -38,6 +38,7 @@ tags: GIS　
     - 機制提案：https://presidential-hackathon.net/bgid_detail.php?id=2&gid=0&nid=3358
     - 可吸菸地點，Smoking Map 煙岸地帶 - 提供可吸菸地圖與回報協作程式：https://sch001.g0v.tw/dash/prj/PYkGZt71yQUqICKg5w09Gk1ta7x9kJ
     - 台灣菸蒂APP https://geniusforhome.mediatek.com/shortlisted
+    - 台灣菸蒂危害數位化打擊行動計畫：https://presidential-hackathon.taiwan.gov.tw/@demo2wsx6RFV/wish2024demo@1qaz3EDC/Proposallist2024.aspx
 - 東吳大學吸菸區選址研究 https://hackmd.io/@bruhthisisbad/BJCQo3Elq
 - 自製警語 
     - https://www.facebook.com/share/p/3cmMTucqJ57GzybB/
