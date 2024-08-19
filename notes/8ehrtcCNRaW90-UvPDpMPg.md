@@ -78,7 +78,10 @@ tags: GIS
     - 北門附近城牆基礎石出土：民國82年底，捷運系統南港線253B標於開挖地下街結構體時，於忠孝西路、館前路口及懷寧街口發現台北府城牆基、砲臺及水關基座等遺址，為維護寶貴之文化資產，立即停止施工，並與相關單位共同會勘同時委請專家進行調查研究及規劃易地保存展示工作，目前所出土之遺物已移往北投機廠暫時保存，未來捷運完工時，將於原址上之地下街陳列展覽，藉以引發民眾緬懷台北府城之情。約有三十萬條。
     - 其他可能：中正區一帶在西元一九００至一九二０間建蓋的公家機關，都可能出現城牆的蹤跡，如台大醫院舊館、台北賓館、濟南基督教長老教會、台大法學院、建國中學紅樓、總統府、舊台北市政府、西門紅樓等建物。
     - 哪裏還有台北府城城牆石？(轉自[http://library.taiwanschoolnet.org/cyberfair2002/C0226220151/secondpage/P3T1/p3t1-gates/wall-down.htm](http://library.taiwanschoolnet.org/cyberfair2002/C0226220151/secondpage/P3T1/p3t1-gates/wall-down.htm))
-    - 側溝 - 中正區南昌路側溝：發現古城牆石的南昌街是先民來往萬華與古亭間的通路，起點由龍山寺經青草巷、剝皮寮老街、南門、南昌街終點是古亭，這條通道屬歷史文化遺跡。因工程意外在南昌路「出土」的牆石，灰暗的條形石塊疊放長達數百公尺當成側溝，文化大學建築暨都市設計系副教授李乾朗表示，城牆被拆除後幾年開闢的老舊道路下才可能有牆石，南昌路是當時南門外唯一一條路，先民往來萬華與古亭必經要道。 https://www.facebook.com/100064169496497/posts/pfbid01QvCQE1ujCnz7ZNx7hH2xPk5Bh8PxAUGvX88M81PsbZJwfNqhUeJALYDCY2ZGKpnl/
+    - 在捷運萬大線LG01站，也發現了舊臺北城的城牆石遺址
+        - https://www.facebook.com/share/LP7XE9joaV8JenX6/
+    - 側溝 - 中正區南昌路側溝：發現古城牆石的南昌街是先民來往萬華與古亭間的通路，起點由龍山寺經青草巷、剝皮寮老街、南門、南昌街終點是古亭，這條通道屬歷史文化遺跡。因工程意外在南昌路「出土」的牆石，灰暗的條形石塊疊放長達數百公尺當成側溝，文化大學建築暨都市設計系副教授李乾朗表示，城牆被拆除後幾年開闢的老舊道路下才可能有牆石，南昌路是當時南門外唯一一條路，先民往來萬華與古亭必經要道。
+        - https://www.facebook.com/100064169496497/posts/pfbid01QvCQE1ujCnz7ZNx7hH2xPk5Bh8PxAUGvX88M81PsbZJwfNqhUeJALYDCY2ZGKpnl/
         - 臺北市街砂岩水溝之調查研究 by 張佩菁、陳依萱
     - 側溝 - 其他可能：當時各城門外幾條熱鬧街道，如新起街（今長沙街）、延平北路，甚至重慶南路與博愛路，都有可能以牆石做為側溝石材。現在幾處熱鬧的大街如羅斯福路、敦化南路、中山北路，因開闢年代不符合，絕不可能有牆石蹤跡。[https://www.facebook.com/PRHA1008/posts/10155320764763618](https://www.facebook.com/PRHA1008/posts/10155320764763618)；[https://www.thenewslens.com/article/70160](https://www.thenewslens.com/article/70160)；[https://www.facebook.com/hoper.h4866/posts/1047604422007240](https://www.facebook.com/hoper.h4866/posts/1047604422007240)
     - 道路 -「以前舊城牆的位置拆除後闢建了四條道路，分別是現在的中華路、忠孝西路、中山南路、愛國東路，在那個年代稱為三線道。之前在挖捷運的時候挖到這些路段有石頭，證明拆除的城牆部分用來鋪路。另外，台博館南門園區裡的石造建築小白宮，以前是鴉片工廠，其牆面由室外至室內分別為38cm厚之唭哩岸石與11.5cm厚的紅磚組成，其中唭哩岸石來自當年被拆除的舊台北城牆!!!」- [摘自](https://www.facebook.com/peirou.liau/posts/10205485723756781?pnref=story)  [參考](http://taipeisomethings.blogspot.tw/2012/08/blog-post_9717.html)
