@@ -118,3 +118,21 @@ reset JBOD/SLED controller
 fan control
 cable prsent
 pcie mode
+
+
+
+---
+# GPIO
+
+Get gpio data in cmd line
+A0-B8-C16-D24-E32-F40-G48-H56-I64
+J72-K80-L88-M96-O104-N112-P120-Q128
+R136-S144-T152-U160-V168-W176
+X184-Y192-Z200
+
+    gpiotool --get-data [number index]
+    ~ # gpiotool --get-data 57                                                                                 
+    Inside Read gpio.
+                                                                                                           
+    Pin is Low
+    
