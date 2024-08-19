@@ -2,14 +2,14 @@
 
 This [React](https://react.dev/) app guide will teach you how to integrate fireworks effects into it. We will start by stating the importance of the fireworks effect on your website and the categories of websites on which you should and should not use the fireworks effect. Then we will move on to the main subject of the article, which involves the creation of the fireworks effect, which starts  by explaining how to set up a new React project. And then we will learn how to incorporate a firework effect library to create the fireworks effect in the React application.
 
-Add fireworks to your web applications to celebrate special events, and interactive games and enhance your user interface with excitement. After reading this short guide, you will have sufficient knowledge and skills that can make you able to implement them on your React projects.
+Add fireworks to your web applications to celebrate special events and interactive games and enhance your user interface with excitement. After reading this short guide, you will have sufficient knowledge and skills to implement them in your React projects.
 
 ## The Usefulness of Adding Fireworks to Your Website
 Incorporating firework effects into your website can significantly enhance the user experience by adding a layer of visual excitement and engagement. Fireworks are often associated with celebration and joy, making them an excellent tool for marking special occasions, achievements, or milestones within your application. This can create a memorable experience for your users, making your site stand out.
 
 It is equally possible to improve user interaction and satisfaction by adding fireworks. Firework effects like using buttons or filling out forms could transform an ordinary procedure into an enjoyable one due to its interactivity. It can encourage more usage of your site by luring users to keep coming back, thus increasing retention and time spent on your platform.
 
-For important events or notifications, fireworks can serve as a powerful visual cue. For example, in a gaming application, you can use fireworks to celebrate a level-up or other big wins, which will give instant feedback that feels good to the player. In e-commerce, fireworks can be used to indicate that a person has made a successful purchase or that they have received a special offer, thus improving their overall shopping experience.
+For important events or notifications, fireworks can serve as a powerful visual cue. For example, in a gaming application, you can use fireworks to celebrate level-ups or other big wins, which will give instant feedback that feels good to the player. In e-commerce, fireworks can be used to indicate that a person has made a successful purchase or that they have received a special offer, thus improving their overall shopping experience.
 
 In addition, the aesthetic appeal of your website can be enhanced through fireworks’ effects. A tastefully arranged fireworks exhibition can add to the theme and branding of your site, thus resulting in a consistent design that is visually appealing. It is a way of improving the general attitude of site visitors towards it, therefore giving it a more refined and professional appearance.
 
@@ -29,13 +29,13 @@ On electronic trading platforms, fireworks can make special offers, flash sales,
  Designers, artists, and other creatives sometimes use fireworks to show their work attractively and originally. For example, they can make the fireworks burst out whenever a user hovers over or clicks on a project page to instill a sense of surprise and fun.
  
 ## Websites Where You Should Not Use Firework Effects
-Despite their capacity to hold users’ attention, the fireworks effect may not be appropriate on any kind of website. Below are situations in which one should refrain from doing so:
+Despite their capacity to hold users’ attention, the fireworks effect may not be appropriate on any website. Below are situations in which one should refrain from doing so:
 
-Websites for professional services, businesses, legal firms, and financial institutions must be clean, formal, and focused, but the use of fireworks may make users question your seriousness in the company, which could look ridiculous.
+Websites for professional services, businesses, legal firms, and financial institutions must be clean, formal, and focused; using fireworks may make users question your seriousness in the company, which could look ridiculous.
 
-News websites, academic publications, or websites dedicated to distributing research in general, should focus more on improving readability and accessibility. Users may not concentrate on the content because fireworks force their attention elsewhere.
+News websites, academic publications, or websites dedicated to distributing research in general should focus more on improving readability and accessibility. Users may not concentrate on the content because fireworks force their attention elsewhere.
 
-Healthcare websites, patient services, or medical information should have a tranquil and calming design.  Fireworks can be thought of as inappropriate or inconsiderate in cases where individuals require sensitive data.
+Healthcare websites, patient services, or medical information should have a tranquil and calming design.  Fireworks can be inappropriate or inconsiderate in cases where individuals require sensitive data.
 
 Simpler websites are designed with minimalism in mind, focusing on simplicity and a clear message. However, using fireworks on such pages may distract from their initial idea by making them look overloaded and unsystematic.
 
@@ -44,7 +44,7 @@ Before you learn to use Firework Effects in a React app, you must understand [Re
 
 Establishing a React development environment is another essential requirement; it means that [Node.js](https://nodejs.org/en) and [npm](https://www.npmjs.com/) (Node Package Manager) should be in the machine as well. While these are basic tools used to manage dependencies and work with React apps generally, installing Node.js (which also brings npm as a bonus) offered on their website would be necessary if not already done.
 
-After installing Node.js and npm, you will need to configure your React environment by working with `Create React App` to begin development. Set up a new React project that follows some common structure and lets you build customer modules. It simplifies the initial setup process, allowing you to focus on building your application without worrying about configuration details.
+After installing Node.js and npm, you configure your React environment by working with `Create React App` to begin development. Set up a new React project that follows some common structure and lets you build customer modules. It simplifies the initial setup process, allowing you to focus on building your application without worrying about configuration details.
 
 Once you have a basic knowledge of React and JavaScript, as well as an appropriate development environment, you will be ready to follow this guide to successfully integrate the Firework effect into the React application.
 
@@ -142,11 +142,11 @@ const Firework = () => {
 
 export default Firework;
 ```
-There is a color JavaScript function named `Firework` in the above code block. The necessary React hooks (`useEffect` and `useRef`) and `Fireworks` library are imported into this function as required by it. Consequently, a reference `(containerRef)` was created using the `useRef` method inside this function. When the component mounts, a new `Fireworks` instance is created using the `useEffect` hook with specific options like rocket point, hue range, delay, and speed, among others. Fireworks will be shown in the `container` being referred to; the fireworks effect will stop when the component unmounts; the component gives back a division styled in such a way that it covers the entire viewport and serves as a `container` for fireworks display; in the end, the `Firework` component is exported as the default export.
+There is a color JavaScript function named `Firework` in the above code block. The necessary React hooks (`useEffect` and `useRef`) and `Fireworks` library are imported into this function as required. Consequently, a reference `(containerRef)` was created using the `useRef` method inside this function. When the component mounts, a new `Fireworks` instance is created using the `useEffect` hook with specific options like rocket point, hue range, delay, and speed, among others. Fireworks will be shown in the `container` being referred to; the fireworks effect will stop when the component unmounts; the component gives back a division styled in such a way that it covers the entire viewport and serves as a `container` for fireworks display; in the end, the `Firework` component is exported as the default export.
 
 
 ### Adding the Firework Effect Logic Using the Imported Library
-Inside the `useEffect` hook, the `Fireworks` instance is initialized using both the reference to the `container` and defined options for firework effects. We ensure that an animation demonstrating fireworks will halt if the component gets removed by  the `useEffect` hook by returning a cleanup function.
+Inside the `useEffect` hook, the `Fireworks` instance is initialized using the reference to the `container` and defined options for firework effects. We ensure that an animation demonstrating fireworks will halt if the component gets removed by  the `useEffect` hook by returning a cleanup function.
 
 To make the fireworks go off, you must include the `fireworks` component in our primary app. Locate the `App.js` file and import the Firework component as the first thing in it.
 
@@ -169,7 +169,7 @@ function App() {
 export default App;
 ```
 
-The code defines the `app` component as a React function. Inside that component, it gives back a `JSX` one, a `div` with the class name. Another component called `Firework` will be shown within this `div`. At last, the `App` component will be exported as a default object of this module. Being arranged this way means that the `App` can be reused elsewhere in an application, whereas `Firework` might serve as a visual or logical part of the UI.
+The code defines the `app` component as a React function. Inside that component, it gives back a `JSX` one, a `div` with the class name. Another component called `Firework` will be shown within this `div`. At last, the `App` component will be exported as a default object of this module. Being arranged this way means that the `App` component can be reused elsewhere in an application, whereas `Firework` might serve as a visual or logical part of the UI.
 
 Kindly execute your React application utilizing the command that follows:
 ```bash
@@ -184,7 +184,7 @@ Output:
 With this, we have successfully created the fireworks effect on our React application. 
 
 ## A perfect example
-[Google](https://www.google.com/) often adds firework animations to its [Google Doodles](https://doodles.google/) to mark important days, holidays, and events that matter. These doodles, which can be interacted with attractively, appear on the front page, and involve people through graphic creativity and festivity. Holidays include the final day of the year celebrations, holidays for independence, and dates of critical events.
+[Google](https://www.google.com/) often adds firework animations to its [Google Doodles](https://doodles.google/) to mark important days, holidays, and events that matter. These doodles, which can be interacted with attractively, appear on the front page and involve people through graphic creativity and festivity. Holidays include the final day of the year celebrations, holidays for independence, and dates of critical events.
 
 Reasons that can make sure animations are essential include capturing the attention of users, promoting engagement, and enlightening about cultural and historical information, to mention but a few. At once, they are establishing Google’s image as an innovative and global enterprise. In other words, the countdown clock with fireworks celebrated during New Year’s Eve 2020 as well as an interactive fireworks game that was provided by the Fourth of July 2019 doodle.
 
@@ -199,6 +199,6 @@ The GIF above explains the usefulness of the fireworks effect in an application.
 
 
 ## Conclusion
-With this short guide, you can create firework effects on your React applications to create interesting user experiences. Whenever you commemorate special occasions, incorporate engaging parts, or increase the attractiveness of your undertaking for eyes, these fireworks make your interface look much better. 
+With this short guide, you can create firework effects on your React applications to create interesting user experiences. Whenever you commemorate special occasions, incorporate engaging parts, or increase the attractiveness of your undertaking for the eyes, these fireworks make your interface look much better. 
 
 Thank you, and happy coding!
