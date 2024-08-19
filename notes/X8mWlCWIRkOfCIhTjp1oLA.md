@@ -85,7 +85,10 @@ https://www.facebook.com/share/p/3urMddvQehBJJJ2B/
 土城海山路，捷運站與公園之間道路無車化
  
 三重
-https://www.facebook.com/groups/twroadclub/permalink/2350197128493382/?mibextid=S66gvF
+https://www.facebook.com/groups/twroadclub/permalink/2350197128493382/
+
+桃園市龜山區龜山里
+https://www.facebook.com/share/p/VJCWNF8ARU6C1ucY/
 
 桃園市中壢，中山路延平路路口改善
 https://www.facebook.com/groups/twroadclub/permalink/2527761100736983/?mibextid=S66gvF
