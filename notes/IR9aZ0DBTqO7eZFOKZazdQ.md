@@ -72,12 +72,16 @@ https://honzaap.github.io/Pathfinding/
 - 小白屋修理達人
 - 芒果香草園
 - 水圳關注社群
+- 社區農園耕種社群
 
 ## 主題4「文化產業的群落」：文化事業、替代空間、文化活動與展演空間
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_46cea8b7b289c8f3acf8adcb9b618ccd.png)
 圖：「吟遊城南‧書寫記憶」臺北地景公共藝術計畫系列活動地圖
 
+- 溫羅汀獨立書店聯盟
+- 攝影圖書室
+- 各類講座活動籌辦單位與空間場所
 
 ## 街區探討方法延伸
 
