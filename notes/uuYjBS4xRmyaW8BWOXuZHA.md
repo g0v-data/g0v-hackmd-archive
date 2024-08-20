@@ -50,5 +50,26 @@ tmp(temporary) is like a third empty bowl that make the swap works
 ----
 ## overflow
 ### heap overflow:
-### steak overflow:
-* buffer overflow: 
+when a program writes more data to a dynamically allocated memory area (the heap) than it was allocated.
+### stack overflow:
+when a program uses more stack space than is available, often due to deep or infinite recursion. The stack is a region of memory that stores function call frames, including local variables and return addresses.
+* buffer overflow: A buffer overflow occurs when a program writes more data to a buffer (a contiguous block of memory) than it can hold. 
+
+## C File I/O Functions
+
+### Core Functions
+how u give access to a program to the content of a file.
+
+| Function Name | Description |
+|---|---|
+| `fopen` | Opens a file and returns a FILE pointer. |
+| `fclose` | Closes an open file. |
+| `fprintf` | Writes formatted data to a file. |
+| `fscanf` | Reads formatted data from a file. |
+| `fgets` | Reads a line from a file. |
+| `fputs` | Writes a string to a file. |
+| `fread` | Reads a block of data from a file. |
+| `fwrite` | Writes a block of data to a file. |
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f3fa7c10c53bd99f04de5ae78820da45.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6ac22b159308c8e24cb618e39e1b0727.png)

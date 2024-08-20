@@ -19,5 +19,6 @@ https://www.2024fsc-antiscam.com/event
 https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 
 ## 個案經驗蒐集
+- 2024 專書 https://www.facebook.com/share/p/JnsrhB4d54j2AUGy/
 - 2024 電話，對方唸出完整正確的身分證字號 https://www.facebook.com/share/p/UAtnFG6hTJf2ya2H/
 - 民生用電詐騙案件例如：欠費未繳或假冒收款帳號

@@ -1,6 +1,6 @@
-NHACAIUYTIN.GOLD là trang <a href="https://nhacaiuytin.gold/">nhà cái uy tín</a> nhất Việt Nam hiện nay. Cập nhật top nhà cái uy tín nhất, tốt nhất với nhiều khuyến mãi, ưu đãi cực kỳ xanh chín, nạp rút tiền nhanh.
+NHACAIUYTIN.GOLD là trang <a href="https://nhacaiuytin.singles/">nhà cái uy tín</a> nhất Việt Nam hiện nay. Cập nhật top nhà cái uy tín nhất, tốt nhất với nhiều khuyến mãi, ưu đãi cực kỳ xanh chín, nạp rút tiền nhanh.
 Thông tin chi tiết:
-Website: <a href="https://nhacaiuytin.gold/">https://nhacaiuytin.gold/</a>
+Website: <a href="https://nhacaiuytin.singles/">https://nhacaiuytin.singles/</a>
 Địa chỉ: 38 Đường Số 7, Phường 10, Gò Vấp, Thành Phố Hồ Chí Minh
 Email: contact.nhacaiuytin.ing@gmail.com
 Phone: 0987770118
@@ -11,7 +11,7 @@ Social:
 <a href="https://x.com/nhacaigold">https://x.com/nhacaigold</a>
 <a href="https://www.linkedin.com/in/nhacaiuytingold/">https://www.linkedin.com/in/nhacaiuytingold/</a>
 <a href="https://www.pinterest.com/nhacaiuytingold1/">https://www.pinterest.com/nhacaiuytingold1/</a>
-<a href="https://github.com/nhacaiuytingold">https://github.com/nhacaiuytingold</a>
+<a href=https://github.com/nhacaiuytingoldd">https://github.com/nhacaiuytingold</a>
 <a href="https://www.reddit.com/user/nhacaiuytingold1/">https://www.reddit.com/user/nhacaiuytingold1/</a>
 <a href="https://gravatar.com/nhacaiuytingold1">https://gravatar.com/nhacaiuytingold1</a>
 <a href="https://www.blogger.com/profile/17891313523676798066">https://www.blogger.com/profile/17891313523676798066</a>

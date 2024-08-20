@@ -15,7 +15,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 ## [Introduction / Home Page](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
 
 
-### [什麼是放輕松 What is Rand0mTh0n](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
+### [什麼是 g0v 放輕松 What is g0v Rand0mTh0n](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
 放輕松是繼 g0v Summit 2024 之後由揪松團發起的定期線下聚會，目前暫定是每雙週二舉行一次。參與者可以在活動期間帶著自己的晚餐還有筆電，在這個地方做自己的事情，同時也提供公民們一個線下聚會與討論的空間。
 
 
@@ -32,7 +32,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 ---
 - [NPO Hub 附近的食物攻略！ Foods Near NPO Hub](/KS7BHZy8Q42ztO709hVsTA)
 
-各次小松 Rand0mTh0ns with g0v Jothon
+各次小松 Rand0mTh0ns
 ---
 `Latest` 
 - [20240827 Rand0mTh8n 第捌次](/RuhCfavuRkKWYL63Gv9wQg)
