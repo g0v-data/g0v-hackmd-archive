@@ -70,7 +70,7 @@ https://note.com/nishiohirokazu/n/n0c7805faabca
 For detail: [Digest of Anno team blog in 2024 Tokyo gubernatorial election｜NISHIO Hirokazu](https://note.com/nishiohirokazu/n/n0c7805faabca)
 
 
-### Ohyoeng Interview 
+### Ohyeon Interview 
 - Have you used digital tools to improve civic participation before? e.g. collecting public opinion, hosting deliberative discussion.
     - Parti
         - social enterprise in Korea, 10 years
