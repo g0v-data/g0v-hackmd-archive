@@ -72,22 +72,24 @@ For detail: [Digest of Anno team blog in 2024 Tokyo gubernatorial election｜NIS
 
 ### Ohyeon Interview 
 - Have you used digital tools to improve civic participation before? e.g. collecting public opinion, hosting deliberative discussion.
-    - Parti
+    - [Parti](https://parti.coop)
         - social enterprise in Korea, 10 years
-        - 26 crews 
+        - 26 crews
+        - building citizen & open platforms for democracy, commons and public space for citizens
         - talking event
             - use opinion to match people 
             - two hours talk 
-        - not open-source
-    - Campaign.do
-        - catergorizing users in spectrum 
-        - talking event
-            - use opinion to match people 
-            - two hours talk 
-    - Korean talk
+        - not open source but open platform
+    - [campaigns.do](https://campaigns.do/)
+        - citizen's action platform promoting their voices
     - [demosx.org](https://demosx.org)
-        - Souel city government 
-        - not open-source
+        - Seoul city government 
+        - first open-source and guide, then becoming Sass.
+        - Korea's talk
+            - catergorizing users in spectrum 
+            - talking event
+                - use opinion to match people 
+                - two hours talk 
     - datatrust.me 
     - mixon.io
         - 跟首爾市政府合作
