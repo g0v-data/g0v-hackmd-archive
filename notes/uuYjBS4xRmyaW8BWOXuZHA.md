@@ -38,3 +38,5 @@ ex: strcpy(t, s); ________>copy s into t
 ____
 valgrind ./code     == degugging
 ____
+tmp is like a third empty bowl that make the swap works
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_de4970c615e5380780ebaf0561f19e3f.png)

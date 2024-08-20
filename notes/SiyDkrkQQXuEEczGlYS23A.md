@@ -73,14 +73,10 @@ For detail: [Digest of Anno team blog in 2024 Tokyo gubernatorial election｜NIS
 ### Ohyeon Interview 
 - Have you used digital tools to improve civic participation before? e.g. collecting public opinion, hosting deliberative discussion.
     - [Parti](https://parti.coop)
-        - social enterprise in Korea, 10 years
-        - 26 crews
-        - building citizen & open platforms for democracy, commons and public space for citizens
-        - talking event
-            - use opinion to match people 
-            - two hours talk 
+        - social enterprise building citizen & open platforms for democracy, commons and public space for citizens in Korea
+        - 10 years, 26 crews, cover all issues with partnership
         - not open source but open platform
-        - [english info](https://drive.google.com/file/d/1-pJUNndU5h1rJgAUUihG5UreYjqodocD/view)
+        - [english introduction](https://drive.google.com/file/d/1-pJUNndU5h1rJgAUUihG5UreYjqodocD/view)
     - [campaigns.do](https://campaigns.do/)
         - citizen's action platform promoting their voices
     - [demosx.org](https://demosx.org)
@@ -98,12 +94,13 @@ For detail: [Digest of Anno team blog in 2024 Tokyo gubernatorial election｜NIS
         - data commons for good made by nonprofit and citizens
     - [mixon](https://mixon.io)
         - 跟首爾市政府合作
-        - a solution for collaboration
+        - a solution for collaboration and governance.
         - not open-source but Saas
     - [townhall](https://townhall.kr)
-        - interactive polling
-        - like slido
+        - interactive polling and mass voting.
+        - like slido, but more korean-style collaboration (realtime, graphical effect, ... )
         - user can add opinion 
+        - used by citizen participation budget voting in local gov.
         - not open-source
 - What is your consideration when you use digital tools or develop the tools?  
     - development by themselves
