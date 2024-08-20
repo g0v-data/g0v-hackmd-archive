@@ -52,6 +52,7 @@ Can't wait to get started
 
 ## 月報告
 - [7 月份報告](/7C05nOMbSkul2q0u27AUQA)
+- [8 月份報告](/0aKpGP7PSYe6XQ0BmW7NoA)
 
 ## 一些途中翻譯的文章
 - [在開源軟體中的設計師：開源軟體貢獻設計師日誌研究 by Eriol Fox, Duane O'Brien](https://g0v.hackmd.io/@tofus/designer-oss-daily)
