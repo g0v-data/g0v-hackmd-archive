@@ -80,22 +80,27 @@ For detail: [Digest of Anno team blog in 2024 Tokyo gubernatorial election｜NIS
             - use opinion to match people 
             - two hours talk 
         - not open source but open platform
+        - [english info](https://drive.google.com/file/d/1-pJUNndU5h1rJgAUUihG5UreYjqodocD/view)
     - [campaigns.do](https://campaigns.do/)
         - citizen's action platform promoting their voices
     - [demosx.org](https://demosx.org)
-        - Seoul city government 
-        - first open-source and guide, then becoming Sass.
+        - citizen's collaboration platform for building a public space
+        - citizen participation platform of Seoul city government
+        - first we built open-source and open-guide, then becoming SasS for governance and collaboration.
         - Korea's talk
             - catergorizing users in spectrum 
             - talking event
                 - use opinion to match people 
                 - two hours talk 
-    - datatrust.me 
-    - mixon.io
+    - [datatrust.me](https://demosx.org)
+        - citizen's data pltform 
+        - data activism of citizens - lots of data activities driven by citizen
+        - data commons for good made by nonprofit and citizens
+    - [mixon](https://mixon.io)
         - 跟首爾市政府合作
-        - a solution 
-        -  not open-source
-    - townhall.kr
+        - a solution for collaboration
+        - not open-source but Saas
+    - [townhall](https://townhall.kr)
         - interactive polling
         - like slido
         - user can add opinion 
