@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [BJpyGwNHR](../../notes/SGqKIBa9Rz-wB_AjJzEI_w.md) | 2024 夏日源力增能營簡介 | 2024-06-10T19:22:13+08:00 | View mode |
 | [SkCSLLoh6](../../notes/0_V7AdIHScOscBHTb4wmQw.md) | 2024 救松行動：基礎建設節流、開源募款推廣、「黑客松怎麼辦？」場務發想 | 2024-02-27T20:32:06+08:00 | View mode |
 | [rJ0zLEkq0](../../notes/o2V_tTkCRJ-XuB1AeCA1Lw.md) | 2024／9 大松命名 | 2024-08-06T13:35:18+08:00 | View mode |
 | [H1_B6j-9R](../../notes/nCOd0CmwSXKqdjjhA_JGFQ.md) | 2024 夏日線上源力增能營結業式 x 提案工作坊 | 2024-08-08T10:28:16+08:00 | View mode |
@@ -40,7 +41,6 @@
 | [confkeng2020](../../notes/bLZZA8HlQcWZyjbgvRS6ig.md) | g0v 坑主小聚 / 坑主大補帖 | 2019-12-31T15:45:49+08:00 | View mode |
 | [community99-2406](../../notes/piNgcwQEQGWAPFP7QVf01A.md) | g0v 社群每月九分鐘 - 2024/6 | 2024-05-31T12:41:56+08:00 | View mode |
 | [S1F8CUfwA](../../notes/l0rcGTiPTFqid6sAdwi5TA.md) | 零時小學校 2024 夏日源力增能營開幕式 | 2024-07-03T13:14:57+08:00 | View mode |
-| [BJpyGwNHR](../../notes/SGqKIBa9Rz-wB_AjJzEI_w.md) | 2024 夏日源力增能營簡介 | 2024-06-10T19:22:13+08:00 | View mode |
 | [SkVkBRwd3](../../notes/jSn-stgYQS6uG5ixmcQASg.md) | 零時小學校 2023 夏日線上源力增能營開幕式 | 2023-06-27T11:17:47+08:00 | View mode |
 | [B1Rk7n1wR](../../notes/UlRKaVYjQ6a80SbOgJc7QQ.md) | g0v Hackath62n 活動流程 | 2024-07-01T12:39:01+08:00 | View mode |
 | [ByC3rncXo](../../notes/zO93zgP8T0GW_lodRjLCNQ.md) | 【2020 年度獲獎團隊：CBFHSS 專為高中生設計的管家型聊天機器人】自己的教育科技自己做，高中生打造線上版聯絡簿 | 2022-10-17T19:00:06+08:00 | View mode |
