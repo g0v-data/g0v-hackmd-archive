@@ -5,7 +5,7 @@ SĐT: 0799363147
 Địa chỉ: 29A Hẻm E9, TT. Tân Túc, Bình Chánh, Hồ Chí Minh, Việt Nam
 Email: dagacuadao@gmail.com
 #dagacuadao #daga #medaga #thichdaga #fiveolde 
-"https://x.com/dagacuadao8667ps://www.pinterest.com/dagacuadao1https://vimeo.com/dagacuadao2
+"https://x.com/dagacuadao8667ps://www.pinterest.com/dagacuadao//vimeo.com/dagacuadao2
 https://www.reddit.com/user/sympathydear7083/m/dagacuadao/
 https://www.youtube.com/@dagacuadao_1
 https://issuu.com/dagacuadao68
