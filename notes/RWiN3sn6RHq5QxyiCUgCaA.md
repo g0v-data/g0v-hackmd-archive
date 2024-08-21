@@ -293,6 +293,7 @@ MAC：處理數據鏈路層的數據封裝、地址控制和錯誤檢測，確�
 RGMII：作為 MAC 和 PHY 之間的數據傳輸介面，提供高效的數據交換能力。
 這些組件共同合作，構成了伺服器中網絡通信的基礎，確保了伺服器能夠與其他網絡設備進行高速和可靠的數據傳輸。
 
+有用資訊 : https://www.linkedin.com/pulse/network-%E5%85%A5%E9%96%80phy-nic-%E4%B8%8D%E5%86%8D%E6%90%9E%E6%B7%B7-chienyi-huan
 
 ---
 # CPLD
