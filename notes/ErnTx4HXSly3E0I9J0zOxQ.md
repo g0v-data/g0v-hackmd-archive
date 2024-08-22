@@ -44,6 +44,43 @@ https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X
 歡迎來幫忙用 Google 地圖，計算世界各地已施作巷弄車流轉向的路口寬度，已知案例：巴塞隆納、維也納、柏林、Leipzig、Münster、Potsdam、西雅圖
 案例線上地圖：https://maps.app.goo.gl/X4C3X5fb5rMY1q5C6
 
+### 香港 北京道漢口道 
+
+- 感謝 蒼月嵐 分享 !
+- 街景網址：https://maps.app.goo.gl/mYf2aoEY5575QFjQA
+- 特點：
+    - 設置斜向車阻及行人路徑
+    - 此案例，也把行人穿越此路口的動線，與斜向路徑一起整合
+- 改造前，道路尺寸與車道數量
+    - 可能要看歷史街景？
+    - 南北向道路：
+        - 兩側建築物與建築物之間的寬度：? 公尺
+        - 描述是否有人行道、停車格、車道、路口人行道外推等配置：待查看
+    - 東西向道路：
+        - 兩側建築物與建築物之間的寬度：? 公尺
+        - 描述是否有人行道、停車格、車道、路口人行道外推等配置：待查看
+- 改造後，道路尺寸與車道數量
+    - 東轉南：
+        - 汽車行駛容量：單行道，一線車道
+        - 兩側設有人行道
+        - 兩側設有停車格
+    - 西南側：
+        - 汽車行駛容量：單行道，一線車道
+        - 兩側設有人行道
+        - 兩側設有停車格
+    - 留設區最窄處的寬度：至少有 2.5 公尺 (使用 Google Map 測量工具推測)
+
+
+
+- 將其中一個道路改為囊底路，十字路網，改為 T 字路網
+    - 上海街熙龍里 https://maps.app.goo.gl/oxiP7THik1bwaKiV7
+    - 上海街碧街 https://maps.app.goo.gl/VQwh4XCMc67niWFi7
+    - 西洋菜南街奶路臣街 https://maps.app.goo.gl/fDVcfecHjuw5E7HW7
+- T 字路型
+    - 眾坊街新填地街 https://maps.app.goo.gl/cwypnpqBYz6S3Azb7
+    - 豉油街洗衣街 https://maps.app.goo.gl/oy3CvtNdN1bHJedB6
+
+
 ### Münster, Sternstraße & Heisstraße
 - Google Map：https://maps.app.goo.gl/SmdqXmQbMaRDMv448
 - 改造前，道路尺寸與車道數量
