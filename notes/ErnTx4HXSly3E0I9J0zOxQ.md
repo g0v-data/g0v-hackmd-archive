@@ -61,17 +61,24 @@ https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X
         - 描述是否有人行道、停車格、車道、路口人行道外推等配置：待查看
 - 改造後，道路尺寸與車道數量
     - 東轉南：
-        - 汽車行駛容量：單行道，一線車道
+        - 汽車行駛容量：
+            - 東側道路是單行道，一線車道
+            - 南側道路是單行道，兩線車道
         - 兩側設有人行道
-        - 兩側設有停車格
-    - 西南側：
-        - 汽車行駛容量：單行道，一線車道
+        - 兩側沒有設停車格，有卸貨區與臨停區
+    - 西轉北：
+        - 汽車行駛容量：
+            - 西側道路是單行道，一線車道
+            - 北側道路是單行道，一線車道
         - 兩側設有人行道
-        - 兩側設有停車格
-    - 留設區最窄處的寬度：至少有 2.5 公尺 (使用 Google Map 測量工具推測)
+        - 兩側沒有設停車格，有卸貨區與臨停區
+    - 留設區最窄處的寬度：至少有 3 公尺 (使用 Google Map 測量工具推測)
+
+香港道路資料
+https://data.gov.hk/tc-data/dataset/hk-td-tis_15-road-network-v2
 
 
-
+香港其他對策
 - 將其中一個道路改為囊底路，十字路網，改為 T 字路網
     - 上海街熙龍里 https://maps.app.goo.gl/oxiP7THik1bwaKiV7
     - 上海街碧街 https://maps.app.goo.gl/VQwh4XCMc67niWFi7
@@ -102,7 +109,7 @@ https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X
         - 兩側設有停車格
     - 留設區最窄處的寬度：至少有 2.5 公尺 (使用 Google Map 測量工具推測)
 
-Potsdam, Gutenbergstraße Jägerstraße 
+### Potsdam, Gutenbergstraße Jägerstraße 
 - Google Map：
 - 改造前，道路尺寸與車道數量
     - 可能要看歷史街景？
@@ -123,7 +130,7 @@ Potsdam, Gutenbergstraße Jägerstraße
         - 兩側停車格
     - 留設區最窄處的寬度： 公尺
 
-Leipzig 萊比錫 Ludwigstraße & Hildegardstraße
+### Leipzig 萊比錫 Ludwigstraße & Hildegardstraße
 - Google Map：https://maps.app.goo.gl/Q8P9qEFbvK1o9hA3A
 - 改造前，道路尺寸與車道數量
     - 可能要看歷史街景？
@@ -144,7 +151,7 @@ Leipzig 萊比錫 Ludwigstraße & Hildegardstraße
         - 兩側停車格
     - 留設區最窄處的寬度： 公尺
 
-維也納 Erlachgasse & Eckertgasse 路口
+### 維也納 Erlachgasse & Eckertgasse 路口
 - Google Map：
 - 改造前，道路尺寸與車道數量
     - 可能要看歷史街景？
@@ -165,7 +172,7 @@ Leipzig 萊比錫 Ludwigstraße & Hildegardstraße
         - 兩側停車格
     - 留設區最窄處的寬度： 公尺
 
-維也納 Mittelschule Herzgasse 中學學校西南側路口
+### 維也納 Mittelschule Herzgasse 中學學校西南側路口
 - Google Map：
 - 改造前，道路尺寸與車道數量
     - 可能要看歷史街景？
@@ -186,7 +193,7 @@ Leipzig 萊比錫 Ludwigstraße & Hildegardstraße
         - 兩側停車格
     - 留設區最窄處的寬度： 公尺
 
-維也納 Erlachpark 公園東南側路口
+### 維也納 Erlachpark 公園東南側路口
 - Google Map：
 - 改造前，道路尺寸與車道數量
     - 可能要看歷史街景？
@@ -207,7 +214,7 @@ Leipzig 萊比錫 Ludwigstraße & Hildegardstraße
         - 兩側停車格
     - 留設區最窄處的寬度： 公尺
 
-柏林 Wrangelstraße Falckensteinstraße
+### 柏林 Wrangelstraße Falckensteinstraße
 - Google Map：
 - 改造前，道路尺寸與車道數量
     - 可能要看歷史街景？
@@ -228,7 +235,7 @@ Leipzig 萊比錫 Ludwigstraße & Hildegardstraße
         - 兩側停車格
     - 留設區最窄處的寬度： 公尺
 
-巴塞隆納 C/ de Biscaia
+### 巴塞隆納 C/ de Biscaia
 - Google Map：
 - 改造前，道路尺寸與車道數量
     - 可能要看歷史街景？
@@ -249,7 +256,7 @@ Leipzig 萊比錫 Ludwigstraße & Hildegardstraße
         - 兩側停車格
     - 留設區最窄處的寬度： 公尺
 
-巴塞隆納 C/ de Sancho de Ávila
+### 巴塞隆納 C/ de Sancho de Ávila
 - Google Map：
 - 改造前，道路尺寸與車道數量
     - 可能要看歷史街景？
@@ -270,7 +277,7 @@ Leipzig 萊比錫 Ludwigstraße & Hildegardstraße
         - 兩側停車格
     - 留設區最窄處的寬度： 公尺
 
-巴塞隆納 軸帶 C/ del Consell de Cent
+### 巴塞隆納 軸帶 C/ del Consell de Cent
 - 軸帶上的個案路口：Plaça Consell de Cent & Comte Borrell
     - Google Map：https://maps.app.goo.gl/cTiz6ZriEs95U11G8
 - 兩側建築物與建築物之間的寬度
@@ -280,7 +287,7 @@ Leipzig 萊比錫 Ludwigstraße & Hildegardstraße
 - 改造階段：單線車道改為車流轉向
     - 留設區最窄處的寬度：至少有 20 公尺
 
-西雅圖 Thomas St & Dexter Ave N
+### 西雅圖 Thomas St & Dexter Ave N
 - Google Map：
 - 改造前，道路尺寸與車道數量
     - 可能要看歷史街景？
