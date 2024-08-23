@@ -55,3 +55,4 @@ https://chrome.google.com/webstore/detail/wot-website-security-safe/bhmmomiinigo
 #### Ken暫存
 https://www.tibame.com/course/3904
 Microsoft .NET framework元件合集免費版2.03.54.04.5 需要解壓縮密碼
+A058.exe
