@@ -22,6 +22,18 @@ GitHub：
 - https://github.com/SeanGau/joinplus-collage
 :::
 
+### 裝置測試
+
+iPhone 6s, iOS 15.8, Chrome 版本 125.0.6422.80
+- 可以載入 物件素材，但底圖無法點選叫出
+
+[VR 裝置] Oculus GO，用內建瀏覽器開啟網頁
+- 可以載入 物件素材，但底圖無法點選叫出
+- 操作畫面截圖 https://www.facebook.com/groups/295496753001414/posts/519526497265104/
+
+
+
+
 ### 底圖地點測試：2023.08 總統府府前廣場
 
 :::spoiler
