@@ -24,22 +24,27 @@ GitHub：
 
 ### 裝置測試
 
+#### 手機
+
+手機直立畫面，底圖及儲存範圍，均會採用直立比例
+
 iPhone 6s, iOS 15.8, Chrome 版本 125.0.6422.80
 - 可以載入 物件素材，但底圖無法點選叫出
 - 可以儲存
     - 雖然操作過程沒有看到底圖
     - 但儲存後，線上瀏覽，其實好像是有底圖的，但儲存的範圍只有底圖的一部分，與手機螢幕上的素材位置似乎是底圖的上半部
 
-[VR 裝置] Oculus GO，用內建瀏覽器開啟網頁
-- 可以載入 物件素材，但底圖無法點選叫出
-- 操作畫面錄影 https://www.facebook.com/groups/29
-
 Sony Xperia 5III, Chrome 120.0.6099.231
 - 底圖 OK，素材 OK
 - 可以儲存
 - 測試成果來源討論串：https://www.facebook.com/share/p/h9tj6ZmSMmHR9RKr/
 
-[VR 裝置] Oculus GO，用內建瀏覽器開啟網頁
+#### 平板
+
+
+#### VR 裝置
+
+Oculus GO，用內建瀏覽器開啟網頁
 - 可以載入 物件素材，但底圖無法點選叫出
 - 操作畫面錄影 https://www.facebook.com/groups/295496753001414/posts/519526497265104/
 
