@@ -74,6 +74,9 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
     - 桃園市區排資料，比中央釋出的河川主流支流詳細
     - 新北市
         - 大窠溪少了一段
+    - 彰化縣
+        - 河道中線的線條 Line 檔案
+            - https://waterfusion.chcg.gov.tw/publicMap
 - 討論：
     - 這份資料實際上是比較破碎的，並不是連續的面體
     - 優先使用「治理線」與「中央管河川區域」資料
