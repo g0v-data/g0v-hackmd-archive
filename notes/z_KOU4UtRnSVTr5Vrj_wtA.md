@@ -54,16 +54,20 @@ https://www.facebook.com/groups/582154450196478/posts/903378741407379/
 
 永昌里 276 巷地點
 - https://maps.app.goo.gl/7Mfn1SxgNfbJVrNH9
+- 地點照片、地區歷史地圖了解永昌里的里內水路演變：https://docs.google.com/presentation/d/1LrZ9mLXFSQEUDs145M1B7LrUDL8W9PpSMHOfFk1OctY/edit
 
-- https://www.facebook.com/watch/?v=2371058773120647
+地理資料參考
+- 近五年淹水地點、淹水潛勢地圖：https://dmap.ncdr.nat.gov.tw/
+- 都市建築開發審議地圖：https://bim.udd.gov.taipei/UDDPlanMap/?recode=1
+- 立體地圖，可以模擬日照與陰影：https://3dmaps.nlsc.gov.tw/
 
-依山小綠洲的行動經驗
-- 影片：
-- 網站：
-
+文山區 依山小綠洲的行動經驗
+- 實境遊戲導覽：https://www.facebook.com/watch/?v=2371058773120647
+- 影片：依山小綠洲運動會-有環境方案網頁互動畫面　https://youtu.be/hFqDNmHtvzg
+- 網站：https://wenshanoasis.wixsite.com/mysite/professional
 
 空間改造願景拼貼網頁工具
 - 照片
     - 活動過程中可以請參加者指認想要改造的地點，並進行拍照
     - 詢問社大是否有空間改造的照片
-- 
+- 操作網站：https://collage.collective.tw/
