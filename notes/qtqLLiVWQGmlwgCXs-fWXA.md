@@ -51,11 +51,14 @@ x^j^-x^i^=x^i^(x^j-i^-1)
     2.x^0^的係數為1
     3.不可整除x^t^-1，t介於2和k+n-1之間
     4.應該含x+1的因式
-:::
 ## <font color="#AC19C9">檢查加總(chechsum)</font>
-
-
-
+訊息被切為m位元的單元，全部m位元相加產生m位元的檢查加總。但當一個區段值減少，一個區段等值增加的情況下，無法偵測錯誤
+## <font color="#AC19C9">前向錯誤修正</font>
+:::
+# Ch11資料鏈結控制
+## <font color="#AC19C9">簡介</font>
+資料鏈結層分為兩個子層:資料鏈結控制(date link control, DLC)、媒體存取控制(media access control, MAC)
+## <font color="#AC19C9">DLC服務</font>
 
 
 
