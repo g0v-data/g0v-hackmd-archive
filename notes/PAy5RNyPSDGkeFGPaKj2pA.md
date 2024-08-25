@@ -1,0 +1,143 @@
+# **79king1**
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_42c69ea176c939f45bf4c6774f541d5b.jpg)
+<p dir="ltr"><a href="https://79king1.vn/">79king1</a> kh&ocirc;ng chỉ l&agrave; một trang web c&aacute; cược online h&agrave;ng đầu tại ch&acirc;u &Aacute;, m&agrave; c&ograve;n l&agrave; biểu tượng của sự uy t&iacute;n v&agrave; chất lượng sau hơn 10 năm hoạt động.</p>
+<p dir="ltr">#79king1 #79king</p>
+<p dir="ltr"><strong>Th&ocirc;ng Tin Li&ecirc;n Hệ:</strong></p>
+<p dir="ltr"><strong>- Địa Chỉ</strong>: 202 Đ. Trương Định, T&acirc;n Mai, Vĩnh Cửu, Đồng Nai</p>
+<p dir="ltr"><strong>- Số Điện Thoại:</strong> 0945612237</p>
+<p dir="ltr">-( <strong>Map</strong>: <a href="https://www.google.com/maps?cid=7000935270026820938">https://www.google.com/maps?cid=7000935270026820938</a>&nbsp; )</p>
+<p dir="ltr">- <strong>Email</strong>: 79king1.vn@gmail.com</p>
+<p dir="ltr">- <strong>Website</strong>: <a href="https://79king1.vn/">https://79king1.vn/</a></p>
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_40f4e9fb34296a84628f1122cf9df919.jpg)
+
+<p dir="ltr"><strong>Social</strong>:</p>
+<p dir="ltr"><a href="https://www.facebook.com/79king1vn">https://www.facebook.com/79king1vn</a></p>
+<p dir="ltr"><a href="https://twitter.com/79king1vn">https://twitter.com/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.youtube.com/@79king1vn">https://www.youtube.com/@79king1vn</a></p>
+<p dir="ltr"><a href="https://www.pinterest.com/79king1vn/">https://www.pinterest.com/79king1vn/</a></p>
+<p dir="ltr"><a href="https://vimeo.com/79king1vn">https://vimeo.com/79king1vn</a></p>
+<p dir="ltr"><a href="https://bit.ly/m/79king1vn">https://bit.ly/m/79king1vn</a></p>
+<p dir="ltr"><a href="https://gravatar.com/79king1vn">https://gravatar.com/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.blogger.com/profile/14753826036099618239">https://www.blogger.com/profile/14753826036099618239</a></p>
+<p dir="ltr"><a href="https://79king1vn.tumblr.com/">https://79king1vn.tumblr.com/</a></p>
+<p dir="ltr"><a href="https://79king1vn.wordpress.com/">https://79king1vn.wordpress.com/</a></p>
+<p dir="ltr"><a href="https://sites.google.com/view/79king1vn/">https://sites.google.com/view/79king1vn/</a></p>
+<p dir="ltr"><a href="https://500px.com/p/79king1vn">https://500px.com/p/79king1vn</a></p>
+<p dir="ltr"><a href="https://github.com/79king1vn">https://github.com/79king1vn</a></p>
+<p dir="ltr"><a href="https://vi.gravatar.com/79king1vn">https://vi.gravatar.com/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.reddit.com/user/79king1vn/">https://www.reddit.com/user/79king1vn/</a></p>
+<p dir="ltr"><a href="https://www.openstreetmap.org/user/79king1vn">https://www.openstreetmap.org/user/79king1vn</a></p>
+<p dir="ltr"><a href="https://draft.blogger.com/profile/14753826036099618239">https://draft.blogger.com/profile/14753826036099618239</a></p>
+<p dir="ltr"><a href="https://issuu.com/79king1vn">https://issuu.com/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.twitch.tv/79king1vn/about">https://www.twitch.tv/79king1vn/about</a></p>
+<p dir="ltr"><a href="https://www.goodreads.com/user/show/181334711-79king1">https://www.goodreads.com/user/show/181334711-79king1</a></p>
+<p dir="ltr"><a href="https://disqus.com/by/79king1vn/about/">https://disqus.com/by/79king1vn/about/</a></p>
+<p dir="ltr"><a href="https://fliphtml5.com/homepage/xwgwz/79king1/">https://fliphtml5.com/homepage/xwgwz/79king1/</a></p>
+<p dir="ltr"><a href="https://t.ly/mOquN">https://t.ly/mOquN</a></p>
+<p dir="ltr"><a href="https://connect.garmin.com/modern/profile/e88956a2-5b09-42ad-ab1d-10aa37c366b6">https://connect.garmin.com/modern/profile/e88956a2-5b09-42ad-ab1d-10aa37c366b6</a></p>
+<p dir="ltr"><a href="https://gitee.com/king1vn">https://gitee.com/king1vn</a></p>
+<p dir="ltr"><a href="https://public.tableau.com/app/profile/79king1vn/vizzes">https://public.tableau.com/app/profile/79king1vn/vizzes</a></p>
+<p dir="ltr"><a href="https://participa.gencat.cat/profiles/79king1vn/activity">https://participa.gencat.cat/profiles/79king1vn/activity</a></p>
+<p dir="ltr"><a href="https://my.archdaily.com/us/@79king1-1">https://my.archdaily.com/us/@79king1-1</a></p>
+<p dir="ltr"><a href="https://s.id/29DOT">https://s.id/29DOT</a></p>
+<p dir="ltr"><a href="https://band.us/@79king1vn">https://band.us/@79king1vn</a></p>
+<p dir="ltr"><a href="https://website.informer.com/79king1.vn">https://website.informer.com/79king1.vn</a></p>
+<p dir="ltr"><a href="https://anyflip.com/homepage/tcycz#About">https://anyflip.com/homepage/tcycz#About</a></p>
+<p dir="ltr"><a href="https://www.iconfinder.com/user/79king1vn">https://www.iconfinder.com/user/79king1vn</a></p>
+<p dir="ltr"><a href="https://forum.acronis.com/user/705644">https://forum.acronis.com/user/705644</a></p>
+<p dir="ltr"><a href="https://www.magcloud.com/user/79king1vn">https://www.magcloud.com/user/79king1vn</a></p>
+<p dir="ltr"><a href="https://pubhtml5.com/homepage/zfcpx/">https://pubhtml5.com/homepage/zfcpx/</a></p>
+<p dir="ltr"><a href="https://mstdn.social/@79king1vn">https://mstdn.social/@79king1vn</a></p>
+<p dir="ltr"><a href="https://a.pr-cy.ru/79king1.vn/">https://a.pr-cy.ru/79king1.vn/</a></p>
+<p dir="ltr"><a href="https://cli.re/kByZx1">https://cli.re/kByZx1</a></p>
+<p dir="ltr"><a href="https://www.niftygateway.com/@79king1vn/">https://www.niftygateway.com/@79king1vn/</a></p>
+<p dir="ltr"><a href="https://www.brownbook.net/business/52991343/79king1/">https://www.brownbook.net/business/52991343/79king1/</a></p>
+<p dir="ltr"><a href="https://booklog.jp/users/79king1vn/profile">https://booklog.jp/users/79king1vn/profile</a></p>
+<p dir="ltr"><a href="https://gettr.com/user/79king1vn">https://gettr.com/user/79king1vn</a></p>
+<p dir="ltr"><a href="https://gitlab.freedesktop.org/79king1vn">https://gitlab.freedesktop.org/79king1vn</a></p>
+<p dir="ltr"><a href="https://app.roll20.net/users/14465864/79king1">https://app.roll20.net/users/14465864/79king1</a></p>
+<p dir="ltr"><a href="https://makersplace.com/79king1vn/about">https://makersplace.com/79king1vn/about</a></p>
+<p dir="ltr"><a href="https://www.jigsawplanet.com/79king1vn">https://www.jigsawplanet.com/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.symbaloo.com/mix/79king1vn">https://www.symbaloo.com/mix/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.webwiki.com/79king1.vn">https://www.webwiki.com/79king1.vn</a></p>
+<p dir="ltr"><a href="https://blog.ss-blog.jp/_pages/mobile/step/index?u=https://79king1.vn/">https://blog.ss-blog.jp/_pages/mobile/step/index?u=https://79king1.vn/</a></p>
+<p dir="ltr"><a href="https://motion-gallery.net/users/636811">https://motion-gallery.net/users/636811</a></p>
+<p dir="ltr"><a href="https://my.archdaily.com.br/br/@79king1-1">https://my.archdaily.com.br/br/@79king1-1</a></p>
+<p dir="ltr"><a href="https://www.divephotoguide.com/user/79king1vn/">https://www.divephotoguide.com/user/79king1vn/</a></p>
+<p dir="ltr"><a href="https://www.fitday.com/fitness/forums/members/79king1vn.html">https://www.fitday.com/fitness/forums/members/79king1vn.html</a></p>
+<p dir="ltr"><a href="https://www.mountainproject.com/user/201901747/nha-cai-79king1">https://www.mountainproject.com/user/201901747/nha-cai-79king1</a></p>
+<p dir="ltr"><a href="https://www.pozible.com/profile/79king1">https://www.pozible.com/profile/79king1</a></p>
+<p dir="ltr"><a href="https://my.archdaily.cl/cl/@79king1-1">https://my.archdaily.cl/cl/@79king1-1</a></p>
+<p dir="ltr"><a href="https://fontstruct.com/fontstructors/2483414/79king1vn">https://coronavirus.tghn.org/community/members/960423/</a></p>
+<p dir="ltr"><a href="https://fontstruct.com/fontstructors/2483414/79king1vn">https://fontstruct.com/fontstructors/2483414/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.anobii.com/fr/016c814ff2e3339cec/profile/activity">https://www.anobii.com/fr/016c814ff2e3339cec/profile/activity</a></p>
+<p dir="ltr"><a href="https://www.metooo.io/e/79king1vn">https://www.metooo.io/e/79king1vn</a></p>
+<p dir="ltr"><a href="http://molbiol.ru/forums/index.php?showuser=1376261">http://molbiol.ru/forums/index.php?showuser=1376261</a></p>
+<p dir="ltr"><a href="http://www.webclap.com/php/jump.php?url=https://79king1.vn/">http://www.webclap.com/php/jump.php?url=https://79king1.vn/</a></p>
+<p dir="ltr"><a href="https://v.gd/klBkJU">https://v.gd/klBkJU</a></p>
+<p dir="ltr"><a href="http://www.askmap.net/location/7014669/vi%E1%BB%87t-nam/79king1">http://www.askmap.net/location/7014669/vi%E1%BB%87t-nam/79king1</a></p>
+<p dir="ltr"><a href="https://allmyfaves.com/79king1vn?tab=79king1">https://allmyfaves.com/79king1vn?tab=79king1</a></p>
+<p dir="ltr"><a href="https://www.chordie.com/forum/profile.php?id=2037020">https://www.chordie.com/forum/profile.php?id=2037020</a></p>
+<p dir="ltr"><a href="https://www.webwiki.fr/79king1.vn">https://www.webwiki.fr/79king1.vn</a></p>
+<p dir="ltr"><a href="https://www.facer.io/u/79king1vn">https://www.facer.io/u/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.multichain.com/qa/user/79king1vn">https://www.multichain.com/qa/user/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.webwiki.at/79king1.vn">https://www.webwiki.at/79king1.vn</a></p>
+<p dir="ltr"><a href="https://www.webwiki.ch/79king1.vn">https://www.webwiki.ch/79king1.vn</a></p>
+<p dir="ltr"><a href="https://www.webwiki.co.uk/79king1.vn">https://www.webwiki.co.uk/79king1.vn</a></p>
+<p dir="ltr"><a href="https://www.webwiki.it/79king1.vn">https://www.webwiki.it/79king1.vn</a></p>
+<p dir="ltr"><a href="https://www.webwiki.nl/79king1.vn">https://www.webwiki.nl/79king1.vn</a></p>
+<p dir="ltr"><a href="https://www.webwiki.pt/79king1.vn">https://www.webwiki.pt/79king1.vn</a></p>
+<p dir="ltr"><a href="https://my.archdaily.mx/mx/@79king1-1">https://my.archdaily.mx/mx/@79king1-1</a></p>
+<p dir="ltr"><a href="https://gettogether.community/profile/154791/">https://gettogether.community/profile/154791/</a></p>
+<p dir="ltr"><a href="https://www.vevioz.com/79king1vn">https://www.vevioz.com/79king1vn</a></p>
+<p dir="ltr"><a href="https://zzb.bz/8boem">https://zzb.bz/8boem</a></p>
+<p dir="ltr"><a href="https://storyweaver.org.in/en/users/976092">https://storyweaver.org.in/en/users/976092</a></p>
+<p dir="ltr"><a href="http://my.archdaily.cn/cn/@79king1-1">http://my.archdaily.cn/cn/@79king1-1</a></p>
+<p dir="ltr"><a href="https://demo.wowonder.com/79king1vn/">https://demo.wowonder.com/79king1vn/</a></p>
+<p dir="ltr"><a href="https://www.easyfie.com/79king1vn">https://www.easyfie.com/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.video-bookmark.com/bookmark/6372958/79king1/">https://www.video-bookmark.com/bookmark/6372958/79king1/</a></p>
+<p dir="ltr"><a href="https://gitlab.pavlovia.org/79king1vn">https://gitlab.pavlovia.org/79king1vn</a></p>
+<p dir="ltr"><a href="https://land-book.com/79king1vn">https://land-book.com/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.rcuniverse.com/forum/members/79king1vn.html">https://www.rcuniverse.com/forum/members/79king1vn.html</a></p>
+<p dir="ltr"><a href="https://buonacausa.org/user/nha-cai-79king11">https://buonacausa.org/user/nha-cai-79king11</a></p>
+<p dir="ltr"><a href="https://m.wibki.com/79king1vn">https://m.wibki.com/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.nulled.to/user/6210477-79king1vn">https://www.nulled.to/user/6210477-79king1vn</a></p>
+<p dir="ltr"><a href="https://wibki.com/79king1vn">https://wibki.com/79king1vn</a></p>
+<p dir="ltr"><a href="https://shapshare.com/79king1vn">https://shapshare.com/79king1vn</a></p>
+<p dir="ltr"><a href="https://conecta.bio/79king1vn">https://conecta.bio/79king1vn</a></p>
+<p dir="ltr"><a href="https://decidim.santcugat.cat/profiles/79king1vn/activity">https://decidim.santcugat.cat/profiles/79king1vn/activity</a></p>
+<p dir="ltr"><a href="https://git.project-hobbit.eu/79king1vn">https://git.project-hobbit.eu/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.metaculus.com/accounts/profile/203138/">https://www.metaculus.com/accounts/profile/203138/</a></p>
+<p dir="ltr"><a href="https://community.penname.me/@79king1vn">https://community.penname.me/@79king1vn</a></p>
+<p dir="ltr"><a href="https://www.proko.com/@79king1vn/activity">https://www.proko.com/@79king1vn/activity</a></p>
+<p dir="ltr"><a href="https://cdn.muvizu.com/Profile/79king1vn/Latest">https://cdn.muvizu.com/Profile/79king1vn/Latest</a></p>
+<p dir="ltr"><a href="https://community.wongcw.com/79king1vn">https://community.wongcw.com/79king1vn</a></p>
+<p dir="ltr"><a href="https://videos.muvizu.com/Profile/79king1vn/Latest">https://videos.muvizu.com/Profile/79king1vn/Latest</a></p>
+<p dir="ltr"><a href="https://www.muvizu.com/Profile/79king1vn/Latest">https://www.muvizu.com/Profile/79king1vn/Latest</a></p>
+<p dir="ltr"><a href="https://spiderum.com/nguoi-dung/79king1vn">https://spiderum.com/nguoi-dung/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.penname.me/@79king1vn">https://www.penname.me/@79king1vn</a></p>
+<p dir="ltr"><a href="https://dreevoo.com/profile_info.php?pid=674324">https://dreevoo.com/profile_info.php?pid=674324</a></p>
+<p dir="ltr"><a href="https://help.orrs.de/user/79king1vn">https://help.orrs.de/user/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.nintendo-master.com/profil/79king1vn">https://www.nintendo-master.com/profil/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.ohay.tv/profile/79king1vn">https://www.ohay.tv/profile/79king1vn</a></p>
+<p dir="ltr"><a href="https://apk.tw/space-uid-6582644.html">https://apk.tw/space-uid-6582644.html</a></p>
+<p dir="ltr"><a href="http://freestyler.ws/user/471463/79king1vn">http://freestyler.ws/user/471463/79king1vn</a></p>
+<p dir="ltr"><a href="https://connect.gt/user/79king1vn">https://connect.gt/user/79king1vn</a></p>
+<p dir="ltr"><a href="https://git.cryto.net/79king1vn">https://git.cryto.net/79king1vn</a></p>
+<p dir="ltr"><a href="https://gitlab.vuhdo.io/79king1vn">https://gitlab.vuhdo.io/79king1vn</a></p>
+<p dir="ltr"><a href="https://pitchwall.co/user/79king1vn">https://pitchwall.co/user/79king1vn</a></p>
+<p dir="ltr"><a href="http://80.82.64.206/user/79king1vn">http://80.82.64.206/user/79king1vn</a></p>
+<p dir="ltr"><a href="https://blender.community/79king1vn/">https://blender.community/79king1vn/</a></p>
+<p dir="ltr"><a href="https://shenasname.ir/ask/user/79king1vn">https://shenasname.ir/ask/user/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.foroatletismo.com/foro/members/79king1vn.html">https://www.foroatletismo.com/foro/members/79king1vn.html</a></p>
+<p dir="ltr"><a href="https://www.iglinks.io/79king1.vn-ul1?preview=true">https://www.iglinks.io/79king1.vn-ul1?preview=true</a></p>
+<p dir="ltr"><a href="https://biiut.com/79king1vn">https://biiut.com/79king1vn</a></p>
+<p dir="ltr"><a href="https://www.lasso.net/go/link/h6mrIk">https://www.lasso.net/go/link/h6mrIk</a></p>
+<p dir="ltr"><a href="http://www.genina.com/user/edit/4413503.page">http://www.genina.com/user/edit/4413503.page</a></p>
+<p dir="ltr"><a href="https://macro.market/company/79king1-1">https://macro.market/company/79king1-1</a></p>
+<p dir="ltr"><a href="https://mstdn.business/@79king1vn">https://mstdn.business/@79king1vn</a></p>
+<p dir="ltr"><a href="http://1ctv.cn/home.php?mod=space&amp;uid=2961017">http://1ctv.cn/home.php?mod=space&amp;uid=2961017</a></p>
+<p dir="ltr"><a href="https://ask-people.net/user/79king1vn">https://ask-people.net/user/79king1vn</a></p>
+<p dir="ltr"><a href="https://besthostingprice.com/whois/79king1.vn">https://besthostingprice.com/whois/79king1.vn</a></p>
+<p dir="ltr"><a href="https://sorucevap.sihirlielma.com/user/79king1vn">https://sorucevap.sihirlielma.com/user/79king1vn</a></p>
