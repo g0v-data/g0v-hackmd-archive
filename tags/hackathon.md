@@ -2,26 +2,26 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [放輕松 Rand0mth0n 大全](../notes/2kuizcrmQOGOVDaQ0woAAg.md) | 2024-08-26T23:00:48+08:00 | 2024-04-25T00:55:29+08:00 |
-| 2 | [g0v Rand0mTh3n 第參次放輕松](../notes/h_ASN318TUSlf9FhNhQHQQ.md) | 2024-08-20T14:59:18+08:00 | 2024-06-11T15:23:42+08:00 |
-| 3 | [g0v Rand0mTh4n 第肆次放輕松](../notes/0_zLPNmtQvO8udkjmC5MBw.md) | 2024-08-20T14:59:14+08:00 | 2024-06-24T19:34:44+08:00 |
-| 4 | [g0v Rand0mTh5n 第伍次放輕松](../notes/hkDJPiZUSfCBVaISxcStBg.md) | 2024-08-20T14:59:09+08:00 | 2024-07-09T18:24:06+08:00 |
-| 5 | [g0v Rand0mTh6n 第陸次放輕松](../notes/H5HUCwuLRuiJGFEVwgVbYA.md) | 2024-08-20T14:59:05+08:00 | 2024-07-26T14:06:02+08:00 |
-| 6 | [g0v Rand0mTh7n 第柒次放輕松](../notes/e05C1nUpSG6xzZTn8kD8OA.md) | 2024-08-20T14:59:01+08:00 | 2024-08-11T19:10:44+08:00 |
-| 7 | [g0v Rand0mTh8n 第捌次放輕松](../notes/RuhCfavuRkKWYL63Gv9wQg.md) | 2024-08-20T14:58:46+08:00 | 2024-08-14T19:54:20+08:00 |
-| 8 | [Rand0mTh0n 第零次放輕松](../notes/qzELuqNARKKBjWr2mIiY8A.md) | 2024-08-14T19:08:37+08:00 | 2024-04-25T01:07:33+08:00 |
-| 9 | [DigiResiTh8n 第捌次數位韌性松](../notes/H3ffGKZKSrmAAShdc2Cx9Q.md) | 2024-07-29T12:15:08+08:00 | 2024-07-26T18:50:40+08:00 |
-| 10 | [g0v DigiResiThon 數位韌性松大全](../notes/mGQcbKRDShmvyeGV74w_0w.md) | 2024-07-26T18:52:28+08:00 | 2023-10-21T11:52:33+08:00 |
-| 11 | [g0v DigiResiThon logistics](../notes/e6rWxnppQmuSpUxcoXzoHw.md) | 2024-07-16T19:55:00+08:00 | 2024-02-03T15:55:50+08:00 |
-| 12 | [數位服務/軟體離線替代品 selfhost alternatives](../notes/vMiVU4G2RqqbY0tVJ9YaRg.md) | 2024-06-15T16:30:54+08:00 | 2024-06-15T14:08:19+08:00 |
-| 13 | [DigiResiTh7n 第柒次數位韌性松](../notes/_WHs9N0eS3mzFHn5QzjvRg.md) | 2024-06-15T15:49:12+08:00 | 2024-05-31T10:26:14+08:00 |
-| 14 | [g0v Rand0mTh2n 第貳次放輕松](../notes/YsGvF1BpSNGr0owRylG3Vg.md) | 2024-06-04T20:18:26+08:00 | 2024-05-16T16:50:42+08:00 |
-| 15 | [20240525 DigiResiTh6n 第陸次數位韌性松](../notes/CLbAeY3wTZCaLr-YCYqafw.md) | 2024-06-03T10:16:29+08:00 | 2024-05-18T10:21:20+08:00 |
-| 16 | [20240427 DigiResiTh5n 第伍次數位韌性松](../notes/ugNkTFLARwK4rmH7jCdO-g.md) | 2024-06-03T10:16:08+08:00 | 2024-04-08T15:58:50+08:00 |
-| 17 | [20240323 DigiResiTh4n 第肆次數位韌性松](../notes/qcDX1C5mTE24UcCUkfTthQ.md) | 2024-06-03T10:15:30+08:00 | 2024-03-10T14:34:37+08:00 |
-| 18 | [20240224 DigiResiTh3n 第參次數位韌性松](../notes/Xt7FoiZgTYq-7x20iNGN4A.md) | 2024-06-03T10:13:26+08:00 | 2024-01-20T16:35:50+08:00 |
-| 19 | [20240120 DigiResiTh2n 第貳次數位韌性松](../notes/iC-7ZtqJTqG75GxUY3aiAQ.md) | 2024-06-03T09:54:04+08:00 | 2024-01-09T18:38:34+08:00 |
-| 20 | [g0v Rand0mTh1n 第壹次放輕松](../notes/d9UgT5LTRRKywSPEo6jA5w.md) | 2024-05-24T00:03:58+08:00 | 2024-05-08T01:35:51+08:00 |
+| 1 | [放輕松 Rand0mth0n 大全](../notes/2kuizcrmQOGOVDaQ0woAAg.md) | 2024-08-26T23:10:40+08:00 | 2024-04-25T00:55:29+08:00 |
+| 2 | [g0v Rand0mTh8n with g0v Jothon｜與揪松的第捌次放輕松](../notes/RuhCfavuRkKWYL63Gv9wQg.md) | 2024-08-26T23:09:03+08:00 | 2024-08-14T19:54:20+08:00 |
+| 3 | [g0v Rand0mTh7n with g0v Jothon｜與揪松的第柒次放輕松](../notes/e05C1nUpSG6xzZTn8kD8OA.md) | 2024-08-26T23:08:51+08:00 | 2024-08-11T19:10:44+08:00 |
+| 4 | [g0v Rand0mTh6n with g0v Jothon｜與揪松的第陸次放輕松](../notes/H5HUCwuLRuiJGFEVwgVbYA.md) | 2024-08-26T23:08:34+08:00 | 2024-07-26T14:06:02+08:00 |
+| 5 | [g0v Rand0mTh0n with g0v Jothon｜與揪松的第伍次放輕松](../notes/hkDJPiZUSfCBVaISxcStBg.md) | 2024-08-26T23:08:12+08:00 | 2024-07-09T18:24:06+08:00 |
+| 6 | [g0v Rand0mTh4n with g0v Jothon｜與揪松的第肆次放輕松](../notes/0_zLPNmtQvO8udkjmC5MBw.md) | 2024-08-26T23:07:55+08:00 | 2024-06-24T19:34:44+08:00 |
+| 7 | [g0v Rand0mTh3n with g0v Jothon｜與揪松的第參次放輕松](../notes/h_ASN318TUSlf9FhNhQHQQ.md) | 2024-08-26T23:07:30+08:00 | 2024-06-11T15:23:42+08:00 |
+| 8 | [g0v Rand0mTh2n with g0v Jothon｜與揪松的第貳次放輕松](../notes/YsGvF1BpSNGr0owRylG3Vg.md) | 2024-08-26T23:07:11+08:00 | 2024-05-16T16:50:42+08:00 |
+| 9 | [g0v Rand0mTh1n with g0v Jothon｜與揪松的第壹次放輕松](../notes/d9UgT5LTRRKywSPEo6jA5w.md) | 2024-08-26T23:06:43+08:00 | 2024-05-08T01:35:51+08:00 |
+| 10 | [g0v Rand0mTh0n with g0v Jothon｜與揪松的第零次放輕松](../notes/qzELuqNARKKBjWr2mIiY8A.md) | 2024-08-26T23:06:01+08:00 | 2024-04-25T01:07:33+08:00 |
+| 11 | [DigiResiTh8n 第捌次數位韌性松](../notes/H3ffGKZKSrmAAShdc2Cx9Q.md) | 2024-07-29T12:15:08+08:00 | 2024-07-26T18:50:40+08:00 |
+| 12 | [g0v DigiResiThon 數位韌性松大全](../notes/mGQcbKRDShmvyeGV74w_0w.md) | 2024-07-26T18:52:28+08:00 | 2023-10-21T11:52:33+08:00 |
+| 13 | [g0v DigiResiThon logistics](../notes/e6rWxnppQmuSpUxcoXzoHw.md) | 2024-07-16T19:55:00+08:00 | 2024-02-03T15:55:50+08:00 |
+| 14 | [數位服務/軟體離線替代品 selfhost alternatives](../notes/vMiVU4G2RqqbY0tVJ9YaRg.md) | 2024-06-15T16:30:54+08:00 | 2024-06-15T14:08:19+08:00 |
+| 15 | [DigiResiTh7n 第柒次數位韌性松](../notes/_WHs9N0eS3mzFHn5QzjvRg.md) | 2024-06-15T15:49:12+08:00 | 2024-05-31T10:26:14+08:00 |
+| 16 | [20240525 DigiResiTh6n 第陸次數位韌性松](../notes/CLbAeY3wTZCaLr-YCYqafw.md) | 2024-06-03T10:16:29+08:00 | 2024-05-18T10:21:20+08:00 |
+| 17 | [20240427 DigiResiTh5n 第伍次數位韌性松](../notes/ugNkTFLARwK4rmH7jCdO-g.md) | 2024-06-03T10:16:08+08:00 | 2024-04-08T15:58:50+08:00 |
+| 18 | [20240323 DigiResiTh4n 第肆次數位韌性松](../notes/qcDX1C5mTE24UcCUkfTthQ.md) | 2024-06-03T10:15:30+08:00 | 2024-03-10T14:34:37+08:00 |
+| 19 | [20240224 DigiResiTh3n 第參次數位韌性松](../notes/Xt7FoiZgTYq-7x20iNGN4A.md) | 2024-06-03T10:13:26+08:00 | 2024-01-20T16:35:50+08:00 |
+| 20 | [20240120 DigiResiTh2n 第貳次數位韌性松](../notes/iC-7ZtqJTqG75GxUY3aiAQ.md) | 2024-06-03T09:54:04+08:00 | 2024-01-09T18:38:34+08:00 |
 | 21 | [20231104 DigiResiTh0n 第零次數位韌性松](../notes/oyNRfe4lTuaZ5RbcPSS7TQ.md) | 2024-05-20T23:07:17+08:00 | 2023-10-21T15:19:19+08:00 |
 | 22 | [民防/防災相關證照](../notes/B-ky08JbR4-HD3lFDwynLQ.md) | 2024-05-16T10:53:14+08:00 | 2023-12-31T16:33:11+08:00 |
 | 23 | [Meshtastic / DigiResiThon](../notes/0bR8-LvHRMaNaR97YaXpnQ.md) | 2024-05-16T10:41:55+08:00 | 2023-12-30T15:20:27+08:00 |

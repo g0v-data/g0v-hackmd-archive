@@ -46,6 +46,11 @@ g0v Rand0mTh0n with GDSC NTPU
 
 ## 各次放輕松列表
 
+vTaiwan
+---
+`Latest` 
+- [20241116 Rand0mTh0n with vTaiwan 第零次](/@Pno233SAS8G5UfL5OvSRmA/rJQnWZqi0)
+
 g0v Jothon
 ---
 `Latest` 
@@ -58,9 +63,6 @@ g0v Jothon
 - [20240604 Rand0mTh2n  with g0v Jothon 第貳次](/YsGvF1BpSNGr0owRylG3Vg)
 - [20240521 Rand0mTh1n  with g0v Jothon 第壹次](/d9UgT5LTRRKywSPEo6jA5w)
 - [20240507 Rand0mTh0n  with g0v Jothon 第零次](/qzELuqNARKKBjWr2mIiY8A)
-
-g0v Jothon
----
 
 **幕後故事 Behind the Scene**
 

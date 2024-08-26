@@ -2,7 +2,7 @@
 tags: rand0mth0n, hackathon
 ---
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
-# g0v Rand0mTh2n 第貳次放輕松
+# g0v Rand0mTh2n with g0v Jothon｜與揪松的第貳次放輕松
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b6d37fd072766bfec387192e0a98dbf6.png)
 
 
