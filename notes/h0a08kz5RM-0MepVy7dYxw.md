@@ -1,9 +1,9 @@
-# 1st 週末放輕松 ft. vTaiwan 
+# g0v Rand0mTh0n with vTaiwan｜與 vTaiwan 的零次週末放輕松
 
 ## 活動資訊 Event Info 
 - 緣起：2024年11月新加坡科技設計大學[李光耀創新城市中心](https://lkycic.sutd.edu.sg) 會派團來台灣大學 D-School 參訪。該團希望了解台灣在公民科技與公民參與上的發展，預定在 11/16(週六)希望舉辦交流活動。經過討論後，認為比起聚焦於 vTaiwan 等單一專案，或許可以弄一個類似放輕松的活動，邀請其他的公民科技專案前來分享與交流，也開放參與者提案。
 - 時間：11/16 下午14:00-17:00
-- 地點：台大校園內場地（暫定）
+- 地點：台大水源校區場地
 - 流程：
 
  時間 | 活動名稱 | 備註 |
@@ -18,7 +18,7 @@
 ## 提案表：
 - 邀請專案（暫定）Invited Projects
     - Jothon
-    - Open Design 
+    - Prot0type
     - vTaiwan
     - Cofacts 
     - Disfactory 

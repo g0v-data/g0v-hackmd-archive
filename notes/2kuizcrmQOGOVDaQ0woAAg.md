@@ -18,6 +18,18 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 ### [什麼是 g0v 放輕松 What is g0v Rand0mTh0n](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
 放輕松是繼 g0v Summit 2024 之後由揪松團發起的定期線下聚會，目前暫定是每雙週二舉行一次。參與者可以在活動期間帶著自己的晚餐還有筆電，在這個地方做自己的事情，同時也提供公民們一個線下聚會與討論的空間。
 
+:::info
+提案：
+因為陸續有其他專案的夥伴也想辦 g0v 放輕松（如某些學校的 GDSC、vTaiwan），為了讓更多朋友也有機會辦放輕松，故在思考，由揪松所主辦的 g0v 放輕松的名稱將自「g0v Rand0mTh0n｜g0v 放輕松」是不是有機會改為「g0v Rand0mTh0n with g0v Jothon｜與 g0v 揪松的第x次 g0v 放輕松」
+
+擴充範例
+g0v Rand0mTh0n with vTaiwan
+g0v Rand0mTh0n with GDSC NTPU
+
+起草人：放輕松坑主（之一） Tofus
+若有問題歡迎在此討論串下討論
+:::
+
 
 ### [前來放輕鬆的你可能會需要的東西 Things you might need when attending g0v Rand0mTh0n](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
 
@@ -32,18 +44,23 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 ---
 - [NPO Hub 附近的食物攻略！ Foods Near NPO Hub](/KS7BHZy8Q42ztO709hVsTA)
 
-各次小松 Rand0mTh0ns
+## 各次放輕松列表
+
+g0v Jothon
 ---
 `Latest` 
-- [20240827 Rand0mTh8n 第捌次](/RuhCfavuRkKWYL63Gv9wQg)
-- [20240813 Rand0mTh7n 第柒次](/e05C1nUpSG6xzZTn8kD8OA)
-- [20240730 Rand0mTh6n 第陸次](/H5HUCwuLRuiJGFEVwgVbYA)
-- [20240716 Rand0mTh5n 第伍次](/hkDJPiZUSfCBVaISxcStBg)
-- [20240702 Rand0mTh4n 第肆次](/0_zLPNmtQvO8udkjmC5MBw)
-- [20240618 Rand0mTh3n 第參次](/h_ASN318TUSlf9FhNhQHQQ)
-- [20240604 Rand0mTh2n 第貳次](/YsGvF1BpSNGr0owRylG3Vg)
-- [20240521 Rand0mTh1n 第壹次](/d9UgT5LTRRKywSPEo6jA5w)
-- [20240507 Rand0mTh0n 第零次](/qzELuqNARKKBjWr2mIiY8A)
+- [20240827 Rand0mTh8n with g0v Jothon 第捌次](/RuhCfavuRkKWYL63Gv9wQg)
+- [20240813 Rand0mTh7n  with g0v Jothon 第柒次](/e05C1nUpSG6xzZTn8kD8OA)
+- [20240730 Rand0mTh6n  with g0v Jothon 第陸次](/H5HUCwuLRuiJGFEVwgVbYA)
+- [20240716 Rand0mTh5n  with g0v Jothon 第伍次](/hkDJPiZUSfCBVaISxcStBg)
+- [20240702 Rand0mTh4n  with g0v Jothon 第肆次](/0_zLPNmtQvO8udkjmC5MBw)
+- [20240618 Rand0mTh3n  with g0v Jothon 第參次](/h_ASN318TUSlf9FhNhQHQQ)
+- [20240604 Rand0mTh2n  with g0v Jothon 第貳次](/YsGvF1BpSNGr0owRylG3Vg)
+- [20240521 Rand0mTh1n  with g0v Jothon 第壹次](/d9UgT5LTRRKywSPEo6jA5w)
+- [20240507 Rand0mTh0n  with g0v Jothon 第零次](/qzELuqNARKKBjWr2mIiY8A)
+
+g0v Jothon
+---
 
 **幕後故事 Behind the Scene**
 
