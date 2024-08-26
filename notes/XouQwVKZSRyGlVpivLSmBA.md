@@ -13,6 +13,24 @@ GA: UA-98468513-3
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
+
+## Release
+### To be reviewed
+
+rumors-api GraphiQL 
+https://github.com/cofacts/rumors-api/pull/343
+
+:::success
+PR review, merge and release
+:::
+
+## 活動
+
+- 開源季
+  - 9/14 (六) 12:00 ~ 22:00 @ Pipe Live Music
+  - 可跟揪松併攤
+- 9/29 (日) 大松 in 新店
+
 ## Open165
 
 ### 設計
@@ -44,6 +62,11 @@ https://github.com/cofacts/open165/pull/23
 > 防詐筆記
 > 很適合再加一兩句 溫馨副標 
 > [name=chewei]
+> 
+
+:::success
+專案改名 Open165 防詐筆記
+:::
 
 ---
 
@@ -69,3 +92,8 @@ https://g0v.hackmd.io/@cofacts/meetings/%2F8arYsE5dQuu6Io82CVVSZg
 > https://cofacts.tw/article/13cpj45zy2qq3 
 > 這是在學習如何用網站不會被加黑名單嗎 :laughing:
 > [name=cai]
+
+:::success
+在 slack cai 的原串下討論
+看 userid, 註冊用帳號等資訊
+:::
