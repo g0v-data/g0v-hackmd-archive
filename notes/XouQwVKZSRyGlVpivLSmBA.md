@@ -53,5 +53,18 @@ https://github.com/cofacts/open165/pull/23
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_13c74e370acb70e42ec4b28e18ca3432.png)
 - 正在嘗試從 Cloud Run 在台灣開 job 跑，但比較難測試
 
-## CCPR
+## CCPRIP
 
+Chatbot long request handling https://github.com/cofacts/rumors-line-bot/issues/395
+Blocks LLM-based transcript
+
+---
+
+Pick up 垃圾訊息反制 schema change
+https://g0v.hackmd.io/@cofacts/meetings/%2F8arYsE5dQuu6Io82CVVSZg
+
+## 檢舉處理
+
+> https://cofacts.tw/article/13cpj45zy2qq3 
+> 這是在學習如何用網站不會被加黑名單嗎 :laughing:
+> [name=cai]
