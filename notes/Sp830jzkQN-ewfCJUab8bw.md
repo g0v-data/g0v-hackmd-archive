@@ -61,6 +61,8 @@ https://www.facebook.com/story.php?story_fbid=pfbid07fxxmunruhVYawt29xaG2cYsL4kX
 【FB 社團】海洋類的儀器，可以先轉到 海社 FB 社團
 https://www.facebook.com/groups/151945971606662
 
+9座定點浮標和27座岸際海洋雷達，並不定期布放漂流觀測浮標
+https://www.facebook.com/namr.gov.tw/posts/pfbid0qgw8wkuCaThhmuAif1f3ehAT4i8qPN3X7RAqJSVeZE45otQmxRJ4UTmCvp5xyoghl?locale=zh_TW
 
 北極熊好奇戶外監測設施
 https://www.facebook.com/100053357980297/posts/pfbid03eKSXmgxcZYbgGEPoiJ98SdvQ6co1zPUKY9om1kszqLkZVUCkNcSXknybyp9LVDQl/?mibextid=cr9u03
