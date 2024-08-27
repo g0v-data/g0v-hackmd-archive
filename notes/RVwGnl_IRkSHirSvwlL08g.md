@@ -19,6 +19,7 @@ image:
 - [什麼是 prot0type](/_WLOXBVmTw2QLON0iTYcNA)
 
 ## 討論紀錄
+- [240827 豆腐與圍棋 討論](/uN5ikXoHRTuDepQoKy3IMw)
 - [240624 豆腐與子龍 討論](/d_okWhpuTQSsBCGAYXM1bQ)
 
 ## 專案 Redesign 許願池
