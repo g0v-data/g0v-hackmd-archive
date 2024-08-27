@@ -18,6 +18,7 @@ To utilize reCAPTCHA v3 in your Vue.js application, you must complete a few esse
 The first step in preparing reCAPTCHA v3 is to obtain your site key and secret key from Google. These keys are key to activating reCAPTCHA on your site. To get started, visit the Google reCAPTCHA site and sign in with your Google account. After you have logged in, you will be required to add your website by entering some label (for reference purposes) and selecting the type as reCAPTCHA v3. 
 
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_11ee7ef513dfa35545f9508103fc029a.jpg)
 
 
 In addition, you will also need to specify the domains where you want to use reCAPTCHA. Google will then create a site key along with a secret key, depending on the provided information. The front-end code makes use of the site key, while the server side uses a secret key for verifying the reCAPTCHA response.
@@ -138,6 +139,9 @@ In the script section, Vue’s `defineComponent` function defines the component.
 
 The method `handleSave` is the one that is used for handling the submission of forms. Whenever it is called upon, it logs the current value of a word onto the console, thus simulating saving that particular word. After this, it clears the input field by making the word an empty string.
 
+Output:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_81b30d7c91ef975f030424eea8f9b6f9.gif)
+
 It also has a scoped style section in the component where it provides custom styles to form. The flexbox aligns the form in the middle of the page, while specific styles applied to both the button and input field enhance the user experience. Thus, paddings, borders, and specified widths are used to style the input field, while padding and background colors combined with hover effects improve interaction on the button level. Within this simple Vue.js application, this component successfully merges handling user input, managing data, and styling.
 
 ## Integrating reCAPTCHA in a Vue Component
@@ -247,6 +251,9 @@ button:hover {
 ```
 This is a `Vue.js` component whose task is to provide a form by which a word may be entered and saved while including Google reCAPTCHA for security. The template consists of an input field where the user can type a word plus a button that submits the form. When this form is submitted, it calls the method `handleSubmit`, which first does reCAPTCHA and gets a token. This token and this word are put inside one `formData` object that will be sent to the server asynchronously. In case of success in terms of it being successfully sent, the input field gets cleared while a success message appears on the screen. On the other hand, if there is any error, it logs that error and alerts users about it instead of doing something else like crashing or freezing Windows without any notifications at all. It has also been styled in such a way that makes its position at the center of the page with distinct styling for both its text box and submission button only.
 
+Output:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0aac6f64667f97ad6205112e737bf2c0.jpg)
+
 ### Server-Side Verification
 This means that the server-side verification procedure is about confirming the client-built reCAPTCHA token (in your Vue component in this case) by sending it to Google’s reCAPTCHA API. It is very essential because it helps to limit genuine users who can generate tokens and not the bots. Also, it assures that reCAPTCHA offers scores more than the specified threshold limit in advance.
 
@@ -272,6 +279,9 @@ You should replace this method with your own authentic reCAPTCHA secret key, pro
 The awaited API answer is parsed in JSON format, giving a structure with multiple pieces of information regarding the verification. Secondly, two conditions are checked by the function: if the verification was successful (data. success) and if the reCAPTCHA score is above some line (for example, 0.5 in this instance). This score helps identify whether it is likely that the interaction came from a person rather than an automatic program. This would mean that the verification was successful, and it would return "true,"  otherwise "false.".
 
 Keep in mind that when using this code, you must change ‘your-secret-key’ to your reCAPTCHA secret key. The token is verified by the server-side function and any score exceeding a specified threshold indicates that the interaction was not genuine.
+
+Output:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d40e11b154877641eaaa4a281e024082.gif)
 
 ## Common Challenges
 Developers might run into several issues when they are integrating recaptcha v3 into a Vue application. Knowing these potential problems and implementing them in ways that help to optimize them can improve both security and user experience. One common challenge is ensuring that reCAPTCHA v3 works properly, even when using single-page applications (SPAs) such as those built on Vue. Because it is action-based and runs in the background without interaction from the user, sometimes the scores produced by reCAPTCHA v3 get inconsistent in the case of SPAs or do not trigger at all. This happens because navigation between different routes or views does not reload the recaptcha script in Vue applications.
