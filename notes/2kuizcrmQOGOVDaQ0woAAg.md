@@ -15,7 +15,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 ## [Introduction / Home Page](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
 
 
-### [什麼是 g0v 放輕松 What is g0v Rand0mTh0n](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
+### [什麼是放輕松 What is Rand0mTh0n](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
 放輕松是繼 g0v Summit 2024 之後由揪松團發起的定期線下聚會，目前暫定是每雙週二舉行一次。參與者可以在活動期間帶著自己的晚餐還有筆電，在這個地方做自己的事情，同時也提供公民們一個線下聚會與討論的空間。
 
 :::info
@@ -29,6 +29,21 @@ g0v Rand0mTh0n with GDSC NTPU
 起草人：放輕松坑主（之一） Tofus
 若有問題歡迎在此討論串下討論
 :::
+
+:::info
+RS: 
+如果放輕松是個 品牌（例如基礎松、韌性松）
+→ 把這個名字拿去用會造成混淆，讓本來在使用的社群（揪松、Summit）困擾
+如果放輕松是個 形式 （例如小松、桌遊松、簡報松）
+→ 其實用專案名字就好、不需要問 Jothon
+舉例來說，如果是 vTaiwan（g0v 專案） + 放輕松（方式），可以叫做 vTaiwan 放輕松，不用問 Jothon
+但如果是 NTPU GDSC，因為他 不是開源社群也不是 g0v 專案 ，要自己辦放輕松（方式）也可以，但不適合掛 g0v
+:::
+
+:::info
+結論：可能可以用類似的邏輯在各個專案間辦放輕松，但 g0v 可能不適合出現在所有專案或社團的前綴（不見得都符合開放文化精神）
+:::
+
 
 
 ### [前來放輕鬆的你可能會需要的東西 Things you might need when attending g0v Rand0mTh0n](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
