@@ -20,11 +20,15 @@
 #### 1-1 心得分享頁：
 本小組成員對心得分享頁的介面提議：做成 notion gallery view 的模式，可以一覽近期更新、參與者關鍵字、心得關鍵字、專案關鍵字等段落
 為了徵集更多參與者的心得，我們也希望可以做出方便社群成員投稿的**心得分享頁**
+> ronny 建議可以用 hackmd 搭配特定 tag
+> 類似這樣
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7e9e61fbafccc553853fa8c4b61f0496.png)
 
 #### 1-2 g0v.news 與「最新消息」更新
 g0v.news 目前已久未更新，希望能將「最新消息」區塊直接連結facebook 最新貼文的標題、kktix 黑客松報名標題等，並使其可以自動更新
 > 目前以接 google calender 跟 社群九分鐘的 api 為主
-
+> 可能要調整說明內容
+> 
 #### 1-3 g0v 官網資訊層級與介面優化
 目前主頁上目錄與新手指南的位置較不顯眼，希望可以調整目前過於複雜的 g0v 官網資訊層級與介面
 

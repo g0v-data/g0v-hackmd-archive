@@ -7,6 +7,7 @@ tags:
 ## 專案
 
 open 165
+https://g0v.hackmd.io/xl7YbrcTRECluGKK_HGo6Q
 https://g0v.hackmd.io/roo-89pnR6iouhm-xgLL3A
 
 建立中繼網頁，確保該網址不會遭到惡意使用，案例：財政部電子申報繳稅服務網
@@ -22,3 +23,6 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 - 2024 專書 https://www.facebook.com/share/p/JnsrhB4d54j2AUGy/
 - 2024 電話，對方唸出完整正確的身分證字號 https://www.facebook.com/share/p/UAtnFG6hTJf2ya2H/
 - 民生用電詐騙案件例如：欠費未繳或假冒收款帳號
+- 廣告不實販售詐騙
+    - https://www.facebook.com/share/v/Jcp1JotpQed2MoJe/
+    - https://www.facebook.com/share/v/YrhjGf8Gfu2t5QUD/

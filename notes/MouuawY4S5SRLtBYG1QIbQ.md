@@ -1,6 +1,6 @@
 ---
 tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense,
-image: 
+image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_42854723a93f625667f4b37dc3e3e3c8.png
 title: DigiResiTh9n 第玖次數位韌性松
 ---
 
