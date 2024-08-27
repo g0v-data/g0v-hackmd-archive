@@ -3,6 +3,7 @@
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
 | [H1_B6j-9R](../../notes/nCOd0CmwSXKqdjjhA_JGFQ.md) | 2024 夏日線上源力增能營結業式 x 提案工作坊 | 2024-08-08T10:28:16+08:00 | View mode |
+| [-g0v-Community-Hangout-39th](../../notes/oi6Ra51gSrqzJrRpQai8Sw.md) | 第參拾柒次 g0v 揪松團 松前哈拉 | 2024-08-27T12:49:54+08:00 | View mode |
 | [ry3D4p5j0](../../notes/GAVaoFnjT8qtYG7RMFhSHA.md) | g0v Hackath63n 活動流程 | 2024-08-27T11:13:40+08:00 | View mode |
 | [HJmFmRKjA](../../notes/aJl4n6ubRau4dme6mc0Grg.md) | g0v hackath63n - 第陸拾參次公民科技園遊會黑客松 | 2024-08-26T18:05:46+08:00 | View mode |
 | [Hyqx9lyK3](../../notes/7ipCcQRWSuifqjH2SfXy2w.md) | Crowdsourcing-oriented Project Template 群眾外包導向專案的模板 | 2023-07-02T21:21:54+08:00 | View mode |

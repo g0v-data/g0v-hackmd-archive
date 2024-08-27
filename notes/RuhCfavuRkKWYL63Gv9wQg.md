@@ -59,3 +59,4 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 | Example    | Nobody     | 範例           |
 
 ## 一些紀錄
+* 有人搞錯時間，5:50就到了+_+ [name=小侯]
