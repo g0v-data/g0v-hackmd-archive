@@ -5,6 +5,18 @@
 目錄
 [TOC]
 :::
+1	$799	台灣製造	Monarch	https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7918974
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7969ef128e3b3fdc08a7d174da3a18e8.png)
+
+2	$779	台灣製造	kihome 奇町美居 學	https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7178706
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_904a845437e4624b3dd0a9df74cfbb3e.png)
+
+3	$627	台灣製造	AS	https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=12391459
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ff02935de5c259a3e0a3c3265c05910d.png)
+
+4	$599	台灣製造	Monarch	https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=12635901
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ce94c66c738eb5ad029f83296dccd38c.png)
+
 必勝客
 https://www.pizzahut.com.tw/order/?fm=cp&mode=step_2&type_id=1025&cno=14107&fm=obn
 
@@ -56,3 +68,4 @@ https://chrome.google.com/webstore/detail/wot-website-security-safe/bhmmomiinigo
 https://www.tibame.com/course/3904
 Microsoft .NET framework元件合集免費版2.03.54.04.5 需要解壓縮密碼
 A058.exe
+
