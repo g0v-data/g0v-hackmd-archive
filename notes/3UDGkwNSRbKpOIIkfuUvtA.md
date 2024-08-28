@@ -17,6 +17,9 @@ https://forms.gle/hd9m4y2LJoNGm1Z17
 ## 小小的分享
 - 近期討論到的事情
     - 拜訪小英基金會，討論看看議題小聚的可能性
+        - 使用的討論資料
+        - [介紹]()
+        - [當天使用的內容]()
     - 11/16 D-school [週末放輕松](https://g0v.hackmd.io/h0a08kz5RM-0MepVy7dYxw?both)
 
 
