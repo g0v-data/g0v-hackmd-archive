@@ -21,10 +21,12 @@ Crema v4:  `\src\@crema\core\AppRoutes\routeConfig.js`
 
 #### 頁面架構
 * 主階層: :file_folder:`src\pages\_app.js`
-* 模板全域變數( Auth Context / JWTAuthProvider)  user object 設定: 
-	1. :file_folder:`src\@crema\services\auth\jwt-auth\JWTAuthProvider.js` 取得 user 登入者的資料、登入及登出 function
-	2. :file_folder:`src\@crema\utility\AuthHooks.js` 設定 1.的hook
-	3. :file_folder:`src\@crema\utility\helper\AuthHelper.js` 設定 2.hook，user object 傳出的細部資料格式
+* 模板全域變數 : 
+    * Auth Context / JWTAuthProvider，  user object 設定: 
+        1. :file_folder:`src\@crema\services\auth\jwt-auth\JWTAuthProvider.js` 取得 user 登入者的資料、登入及登出 function
+        2. :file_folder:`src\@crema\utility\AuthHooks.js` 設定 1.的hook
+        3. :file_folder:`src\@crema\utility\helper\AuthHelper.js` 設定 2.hook，user object 傳出的細部資料格式
+        4. 詳細說明[參考筆記](https://coda.io/d/_dcVt0nnt0Ca/NextJs-React-Template-Crema-Theme_su0hAYTx)
 * 自定義全域變數 context : :file_folder:`context\`
 	* 切換後台當下所在的組織階層，eg. 平台 or OOO機構
 * 新增自訂頁面:  
@@ -35,32 +37,73 @@ Crema v4:  `\src\@crema\core\AppRoutes\routeConfig.js`
 		* eg.  `src\pages\members\list\index.js`
 	2. 新增頁面對應module檔案:  :file_folder:`src\modules\頁面模組\index.js` ，頁面模組大寫開頭
 	3. 修改 routesConfig.js 設定
-	4. 於 module 檔案內呼叫 API : 
-		1. 引入，`import { apiGetAction } from "@/pages/api/api.js";`
-		2. 使用，`const response = await apiGetAction({training_action_id: training_action_id});`
+*  於 module 檔案內呼叫 API : 
+		1. 引入方式，`import { apiGetAction } from "@/pages/api/api.js";`
+		2. 使用方式，`const response = await apiGetAction({training_action_id: training_action_id});`
 		3. 範例 :
-		   ```JSX
-		   async function listActions(org_id, status, training_module_id) {
-               try {
-                   const response = await apiListActions({org_id: org_id, status: status, training_module_id: training_module_id});
-                   const actions = response.data.map(function (item, index) {
-                       let array = {
-                           training_action_id : item.training_action_id,
-                           action_name: item.action_name,
-                           left: item.lefthand_position_x+'-'+item.lefthand_position_y,
-                           right: item.righthand_position_x+'-'+item.righthand_position_y,
-                           stay_times: item.stay_times,
-                           action_type : item.action_type
-                           }
-                           return array
-                           });
-                           return actions;
-                } catch (err) {
-                    //console.error(err);
-                    return false;
-                }
+	```JSX
+	import { apiGetAction } from "@/pages/api/api.js";
+    async function listActions(org_id, status, training_module_id) {
+        try {
+            const response = await apiListActions({org_id: org_id, status: status, training_module_id: training_module_id});
+            const actions = response.data.map(function (item, index) {
+                let array = {
+                    training_action_id : item.training_action_id,
+                    action_name: item.action_name,
+                    left: item.lefthand_position_x+'-'+item.lefthand_position_y,
+                    right: item.righthand_position_x+'-'+item.righthand_position_y,
+                    stay_times: item.stay_times,
+                    action_type : item.action_type
+                 }
+                 return array
+           });
+           return actions;
+       } catch (err) {
+          //console.error(err);
+          return false;
+      }
+    }
+    
+    React.useEffect(() => {
+       const fetchData = async () => {
+           try {
+               setLoading(true);
+               await listActions(org_id, status, training_module_id);
+               setLoading(false);
+           } catch (err) {
+               console.log(err);
+           }
+       }
+
+       // Call the function
+       fetchData();
+   }, []);
+	```
+    或
+    使用 React Query
+    ```JSX
+    const usersQuery = useQuery({
+        queryKey: ['users', { state, currentOrgId }],
+        queryFn: () => {
+            const params = {
+                ...(currentOrgId && { org_id: currentOrgId }),
+                ...(state.searchColumn && { [state.searchColumn]: state.search }),
+                rowsPerPage,
+                currentPage: state.page + 1,
+            };
+            const searchParams = new URLSearchParams(params).toString();  
+            switch (state.tabCurrent) {
+                case 0:
+                    return  apiGetAdmins(searchParams)
+                case 1:
+                    return  apiGetDoctors(searchParams)
+                default:
+                    return  apiGetAdmins(searchParams)
             }
-			```
+        },
+        /* enabled: Boolean(currentOrgId && state.page !== null), // 仅在条件满足时启用查询 */
+    });
+    ```
 	
 #### API
 * API For APP 放置路徑規則:　:file_folder:`src\pages\api\app\v版本號\`
@@ -99,3 +142,35 @@ Crema v4:  `\src\@crema\core\AppRoutes\routeConfig.js`
 	```
 * db連線設定: db.js
 :page_with_curl:`lib\db.js`
+
+#### 前端 fetchData
+1. getStaticProps : 适合静态内容或部分更新的页面
+2. getStaticPaths 
+3. getServerSideProps : 适合需要实时数据的页面
+适用场景: 适合需要在每次请求时都获取最新商品数据的场景，例如商品价格、库存经常变化。
+```JSX
+export async function getServerSideProps({ params }) {
+  const res = await fetch(`https://api.example.com/product/${params.id}`);
+  const product = await res.json();
+
+  return {
+    props: { product },
+  };
+}
+
+```
+4. Forms and Mutations : 适合处理用户输入的数据操作
+5. Incremental Static Regeneration (ISR) : 适合静态内容或部分更新的页面
+6. Client-side Fetching : 适合用户交互后获取数据，或者非 SEO 关键的页面。
+适用场景: 商品页面数据可以在客户端渲染后再加载，不需要首屏立即显示完整数据。可以用于在页面首次加载时显示基本商品信息，而复杂的库存、价格、评论等通过客户端获取。
+```JSX
+useEffect(() => {
+    const fetchProduct = async () => {
+      const res = await fetch('/api/product');
+      const data = await res.json();
+      setProduct(data);
+    };
+    
+    fetchProduct();
+  }, []);
+```
