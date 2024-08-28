@@ -1,8 +1,8 @@
 # g0v第陸拾參次公民科技園遊會黑客松共筆
 - [2024/09/29 09:00 活動資訊 Event Info `行前準備`](https://g0v.hackmd.io/@jothon/HJmFmRKjA)
-- [報名網址 Registration `08/26 正午開始`](http://g0v-jothon.kktix.cc/events/g0v-hackath63n)
+- [報名網址 Registration `09/02 正午開始`](http://g0v-jothon.kktix.cc/events/g0v-hackath63n)
 - [活動流程 Run-down](https://g0v.hackmd.io/@jothon/ry3D4p5j0)
-- [松前哈拉 Pre-hackathon community hangout `green 來聊聊吧`](https://g0v.hackmd.io/-g0v-Community-Hangout-${time}n)
+- [松前哈拉 Pre-hackathon community hangout `來聊聊吧`](https://g0v.hackmd.io/@jothon/g0v-Community-Hangout)
 - [與會守則 Code of conduct `行前請讀`](https://g0v.hackmd.io/s/COC)
 
 提案流程 Propose your idea
