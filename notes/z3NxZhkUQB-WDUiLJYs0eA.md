@@ -1,5 +1,8 @@
 # 程式 alpaca
 
+## TA-Lib
+https://ta-lib.github.io/ta-lib-python/funcs.html
+
 ## 交易策略
 https://medium.com/@ioi75UT/cta%E9%A1%9E%E6%8C%87%E6%A8%99%E5%B0%8F%E7%A0%94%E7%A9%B6-%E5%8D%8A%E7%A5%9E%E5%8D%8A%E7%9B%AE%E5%A4%8F%E7%AD%96%E7%95%A5-95-%E5%8B%9D%E7%8E%87-879676d80a56
 
