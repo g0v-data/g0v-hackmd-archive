@@ -18,8 +18,8 @@ https://forms.gle/hd9m4y2LJoNGm1Z17
 - 近期討論到的事情
     - 拜訪小英基金會，討論看看議題小聚的可能性
         - 使用的討論資料
-        - [介紹]()
-        - [當天使用的內容]()
+        - [介紹](https://docs.google.com/presentation/d/1wNsTYzvqsnWxd2zTj6vpR7_BjXBz_aU1elBXt2C4SzI/edit?usp=sharing)
+        - [當天使用的內容](https://docs.google.com/presentation/d/18C7ZgIlQH6SaCV0ZZOMDkGzPaNG0Ws827XhD0sTQruA/edit?usp=sharing)
     - 11/16 D-school [週末放輕松](https://g0v.hackmd.io/h0a08kz5RM-0MepVy7dYxw?both)
 
 
@@ -29,7 +29,10 @@ https://forms.gle/hd9m4y2LJoNGm1Z17
 - 資料整理共筆：[專案共筆](/8uTwZDmoR_yHT_Z-ahUYWw)
 - [Talk to the City 分析結果](https://talktothecity.org/report/OGP)
 - [開放國會資料整理](https://docs.google.com/spreadsheets/d/1P98LGBTK1fu2KxC775sXIDwr5QlB6harsqBwMKoicM4/edit?usp=sharing)
-
+### 0828 討論
+- 是否應該要直接挑選議題？
+    - 經過討論，先以之前篩選過，獲得滿分的項目來處理。
+    - 
 ## 數位公共參與工具
 - [數位公共參與工具比較協作共筆](https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/SkXZk8UdR/%2FqFQk8OaGROyqBuzf8UUe5A)
     - 目前正在接洽熱炒的訪談
