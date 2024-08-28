@@ -60,6 +60,7 @@ https://www.facebook.com/groups/582154450196478/posts/903378741407379/
 - 近五年淹水地點、淹水潛勢地圖：https://dmap.ncdr.nat.gov.tw/
 - 都市建築開發審議地圖：https://bim.udd.gov.taipei/UDDPlanMap/?recode=1
 - 立體地圖，可以模擬日照與陰影：https://3dmaps.nlsc.gov.tw/
+- 臺北城市儀錶板，有提供電信日間人口 https://citydashboard.taipei/
 
 文山區 依山小綠洲的行動經驗
 - 實境遊戲導覽：https://www.facebook.com/watch/?v=2371058773120647
