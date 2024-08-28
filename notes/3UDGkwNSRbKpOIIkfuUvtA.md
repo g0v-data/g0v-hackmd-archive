@@ -21,7 +21,7 @@ https://forms.gle/hd9m4y2LJoNGm1Z17
         - [介紹](https://docs.google.com/presentation/d/1wNsTYzvqsnWxd2zTj6vpR7_BjXBz_aU1elBXt2C4SzI/edit?usp=sharing)
         - [當天使用的內容](https://docs.google.com/presentation/d/18C7ZgIlQH6SaCV0ZZOMDkGzPaNG0Ws827XhD0sTQruA/edit?usp=sharing)
     - 11/16 D-school [週末放輕松](https://g0v.hackmd.io/h0a08kz5RM-0MepVy7dYxw?both)
-
+- MG 的 vTaiwan 發展史很值得分享。
 
 ## 開放國會
 - 預計要來整理行動方案 [name=peter]
@@ -38,3 +38,9 @@ https://forms.gle/hd9m4y2LJoNGm1Z17
     - 目前正在接洽熱炒的訪談
 - 使用數位工具究竟對於審議有沒有幫助？
 
+## 數位翻譯工具
+- Notion 的語音功能是可以拿來作為文字轉譯
+- Whisper
+- 收音效果與實體設備
+    - AI 與數位設備其實沒有辦法像人類一樣定向與針對特定目標進行收音與討論。
+- 如何處理特定
