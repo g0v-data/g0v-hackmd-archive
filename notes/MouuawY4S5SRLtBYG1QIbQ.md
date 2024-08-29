@@ -49,7 +49,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
-| g0v meshtastic 頻道 | paul | - 開 g0v-general 頻道在 meshtastic 上 - 研究 NCC 無線電執照 - 研究 EMT-1 執照 |
+| g0v meshtastic 頻道 | paul | - 開 g0v-general 頻道在 meshtastic 上 - 研究 NCC 無線電執照 - 研究 EMT-1 執照 - meshtastic 連線安全 - 設計數位韌性松 meshtastic 練習團 |
 | insert content here | insert name here | insert content here |
 
 
