@@ -5,24 +5,8 @@
 目錄
 [TOC]
 :::
-1	$799	台灣製造	Monarch	https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7918974
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7969ef128e3b3fdc08a7d174da3a18e8.png)
-
 2	$779	台灣製造	kihome 奇町美居 學	https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7178706
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_904a845437e4624b3dd0a9df74cfbb3e.png)
-
-3	$627	台灣製造	AS	https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=12391459
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ff02935de5c259a3e0a3c3265c05910d.png)
-
-4	$599	台灣製造	Monarch	https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=12635901
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ce94c66c738eb5ad029f83296dccd38c.png)
-5.
-https://s.shopee.tw/4AgiFy6txj
-https://s.shopee.tw/6fO3EhXt70
-$899    https://s.shopee.tw/6V4d2V5IQh
-$499    https://s.shopee.tw/40NI45sEJS
-$568    頂天立地玄關衣架    https://s.shopee.tw/2LF45pnJXn
-$989    多尺寸三層衣架    https://s.shopee.tw/6KlCrKZC7f
 
 之前選擇:48*26*60
 https://tw.buy.yahoo.com/gdsale/%E5%87%B1%E5%A0%A1-A%E5%AD%97%E5%9E%8B%E6%8E%9B%E8%A1%A3%E6%9E%B6-%E8%A1%A3%E6%9E%B6-%E5%90%8A%E8%A1%A3%E6%9E%B6-%E6%94%B6%E7%B4%8D%E6%9E%B6-%E5%8F%B0%E7%81%A3%E8%A3%BD-7152690.html
