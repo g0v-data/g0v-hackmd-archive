@@ -57,7 +57,8 @@ AUTO_INCREMENT 自動生成流水號
 ## 修改資料
 ```
 UPDATE `student`
-SET `name` = `roy`
+SET `name` = `Roy`
+WHERE name` = `roy`;
 
 ```
 
