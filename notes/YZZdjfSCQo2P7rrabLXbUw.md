@@ -5,13 +5,6 @@
 目錄
 [TOC]
 :::
-2	$779	台灣製造	kihome 奇町美居 學	https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7178706
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_904a845437e4624b3dd0a9df74cfbb3e.png)
-
-之前選擇:48*26*60
-https://tw.buy.yahoo.com/gdsale/%E5%87%B1%E5%A0%A1-A%E5%AD%97%E5%9E%8B%E6%8E%9B%E8%A1%A3%E6%9E%B6-%E8%A1%A3%E6%9E%B6-%E5%90%8A%E8%A1%A3%E6%9E%B6-%E6%94%B6%E7%B4%8D%E6%9E%B6-%E5%8F%B0%E7%81%A3%E8%A3%BD-7152690.html
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1f643f725ebb3ad657ac5757e8d923c4.png)
-
 必勝客
 https://www.pizzahut.com.tw/order/?fm=cp&mode=step_2&type_id=1025&cno=14107&fm=obn
 
