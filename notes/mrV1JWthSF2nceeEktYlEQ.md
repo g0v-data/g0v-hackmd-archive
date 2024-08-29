@@ -1,5 +1,6 @@
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_28abb8516318dc050ee4a14a0dabd5bb.jpg)
 
-Fubet é o playground de apostas Knobero 1, oferecendo uma plataforma respeitável e confiável para você se divertir com apostas esportivas e jogos de cassino, com segurança e eficiência
+[Fubet](https://fubet.me/) é o playground de apostas Knobero 1, oferecendo uma plataforma respeitável e confiável para você se divertir com apostas esportivas e jogos de cassino, com segurança e eficiência
 Informações detalhadas:
 Site: https://fubet.me/
 Endereço: R. Cândido Figueiredo 83-63, 1500-133 Lisboa, Bồ Đào Nha
