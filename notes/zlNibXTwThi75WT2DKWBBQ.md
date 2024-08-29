@@ -47,7 +47,7 @@ SELECT * FROM `student;
 #依照特定順序填入資料
 INSERT INTO `student`(`gpa`. `id`, `name`) VALUE(2.3, 1, `roy`);
 ```
-## Constraints
+## Constraints(限制)
 ```
 NOT NULL 不能為空值
 UNIQUE 唯一值
@@ -56,10 +56,28 @@ AUTO_INCREMENT 自動生成流水號
 ```
 ## 修改資料
 ```
+#修改資料 => 更新student表單，讓name欄位=Roy，在name欄位是roy的情況下
 UPDATE `student`
 SET `name` = `Roy`
 WHERE name` = `roy`;
+*可以用AND和OR來增加多條件的判斷
 
+#刪除資料
+DELETE FROM `student`
+WHERE `id` = `2`;
+*也運用>,<,>=,<=,=,<>(不等於) 設立條件
+```
+## 取得資料
+```
+#選取name和id 2個欄位，從student表單中，並依照先id再score來排序，按照降階(ASC)或升階(DESC)，僅限制3筆
+SELECT `name`, `id` 
+FROM `student`
+ORDER BY `id`,`score` DESC(ASC)
+LIMIT 3;
+*也可以運用WHERE增加篩選條件，WHERE `name` IN(`ben`,`ken`)代表篩選名字是ben和ken的資料
+```
+## 公司資料庫的創建
 ```
 
+```
 
