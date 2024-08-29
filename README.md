@@ -2,7 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 13682 | 2024-08-29T21:49:56+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 13687 | 2024-08-29T22:53:47+08:00 |
+| [Tag(change me!)](tags/Tag%28change%20me%21%29.md) | 213 | 2024-08-29T22:21:18+08:00 |
 | [digital-resilience](tags/digital-resilience.md) | 39 | 2024-08-29T18:22:25+08:00 |
 | [resilience](tags/resilience.md) | 30 | 2024-08-29T18:22:25+08:00 |
 | [internet-shutdown](tags/internet-shutdown.md) | 29 | 2024-08-29T18:22:25+08:00 |
@@ -13,7 +14,6 @@
 | [DigiResiTh0n](tags/DigiResiTh0n.md) | 29 | 2024-08-29T18:22:25+08:00 |
 | [hackathon](tags/hackathon.md) | 52 | 2024-08-29T18:22:25+08:00 |
 | [civil defense](tags/civil%20defense.md) | 13 | 2024-08-29T18:22:25+08:00 |
-| [Tag(change me!)](tags/Tag%28change%20me%21%29.md) | 212 | 2024-08-29T15:25:19+08:00 |
 | [vtaiwan](tags/vtaiwan.md) | 57 | 2024-08-29T12:33:17+08:00 |
 | [dpsurvey](tags/dpsurvey.md) | 10 | 2024-08-29T12:33:17+08:00 |
 | [Tag(dangtinchuyennghiepht)](tags/Tag%28dangtinchuyennghiepht%29.md) | 1 | 2024-08-29T09:11:38+08:00 |
