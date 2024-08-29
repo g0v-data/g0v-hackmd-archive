@@ -17,10 +17,6 @@ To utilize reCAPTCHA v3 in your Vue.js application, you must complete a few esse
 ### Obtaining your Site and Secret Key
 The first step in preparing reCAPTCHA v3 is to obtain your site key and secret key from Google. These keys are key to activating reCAPTCHA on your site. To get started, visit the Google reCAPTCHA site and sign in with your Google account. After you have logged in, you will be required to add your website by entering some label (for reference purposes) and selecting the type as reCAPTCHA v3. 
 
-
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_11ee7ef513dfa35545f9508103fc029a.jpg)
-
-
 In addition, you will also need to specify the domains where you want to use reCAPTCHA. Google will then create a site key along with a secret key, depending on the provided information. The front-end code makes use of the site key, while the server side uses a secret key for verifying the reCAPTCHA response.
 
 ### Installation
@@ -54,7 +50,11 @@ new Vue({
 }).$mount('#app');
 ```
 
+Vue.js application with integration of Google reCAPTCHA v3. For basic setup, the code given here contains the required module imports. It starts by importing Vue, which is built on the framework, and the main `App` component from a local file and the `vue-recaptcha-v3` package (which is a plugin that makes it easier to integrate Google reCAPTCHA v3 in Vue).
 
+Next, it makes use of `Vue.use()` method, which installs `vue-recaptcha-v3` into the Vue application. This method requires `siteKey`, an exclusive identification number assigned by Google specifically for your website. You must replace your key to use the reCAPTCHA service.
+
+In the end, a Vue instance that is new is made. The `render` function indicates that the component App should become the component root of the application. The method `.$mount (‘#app’)` allows the mounting of the Vue instance on an HTML element having an identifier app, thus letting the Vue application take control of that part of the webpage. Thus, this code serves as a way of initializing a Vue.js application with an in-built reCAPTCHA v3 capability.
 
 Once the plugin is properly set, reCAPTCHA v3 can be utilized within your Vue components. This means you can protect forms and other crucial areas of your app by generating reCAPTCHA tokens and verifying them on server-side code. The integration process focuses on as much low-key style as possible so it enhances the security of your apps without complicating things or making them difficult for users to access. Depending on the time we get into this, we will look at how to practically implement reCAPTCHA v3 in a Vue.js application which involves starting a simple form needed for receiving information from clients and also responding to the reCAPTCHA within the context of ensuring that your application is secure and user-friendly at all times.
 
