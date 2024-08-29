@@ -1,0 +1,2 @@
+[What Terminal is Alaska Airlines At EWR](https://allairoffices.com/what-terminal-is-alaska-airlines-at-ewr/)
+Alaska Airlines operates out of Terminal A at Newark Liberty International Airport (EWR). When flying with Alaska Airlines from EWR, you will check in, go through security, and board your flight at Terminal A. It's always a good idea to check your flight information ahead of time, as gate assignments can change. Terminal A at EWR offers various amenities, including dining and shopping options, to make your travel experience more convenient and comfortable.
