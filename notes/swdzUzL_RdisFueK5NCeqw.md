@@ -1,8 +1,8 @@
-<a href="S666">Tip Cá Cược Nhà Cái</a> - Sân chơi cá cược trực tuyến uy tín, với tỷ lệ cược hấp dẫn và nhiều khuyến mãi lớn. Đăng ký ngay để nhận 166k trải nghiệm dịch vụ đỉnh cao!
+<a href="https://s666.pizza/">S666</a> - Sân chơi cá cược trực tuyến uy tín, với tỷ lệ cược hấp dẫn và nhiều khuyến mãi lớn. Đăng ký ngay để nhận 166k trải nghiệm dịch vụ đỉnh cao!
 #s666 #s666.pizza #nhacais666 
 Thông tin liên hệ:
 Phone: 0896543578
-Email: nhacais666.pizza@gmail.com
+Email: s666.pizza@gmail.com
 Location: Hẻm 49, Phước Long B, Quận 9, Hồ Chí Minh, Việt Nam
 Website: <a href="https://s666.pizza/">https://s666.pizza/</a>
 Socials:
@@ -23,3 +23,16 @@ Heroesfire: <a href="https://www.heroesfire.com/profile/s666pizza/player?profile
 Wikifab: <a href="https://wikifab.org/wiki/Utilisateur:S666pizza">https://wikifab.org/wiki/Utilisateur:S666pizza</a>
 Rentry: <a href="https://rentry.co/s666pizza">https://rentry.co/s666pizza</a>
 Bootstrapbay: <a href="https://bootstrapbay.com/user/s666pizza">https://bootstrapbay.com/user/s666pizza</a>
+Jsfiddle: <a href="https://jsfiddle.net/s666pizza/rhsmvyn8/1/">https://jsfiddle.net/s666pizza/rhsmvyn8/1/</a>
+Artistecard: <a href="https://artistecard.com/s666pizza">https://artistecard.com/s666pizza</a>
+Divephotoguide: <a href="https://www.divephotoguide.com/user/s666pizza">https://www.divephotoguide.com/user/s666pizza</a>
+Biashara: <a href="https://biashara.co.ke/author/s666pizza/">https://biashara.co.ke/author/s666pizza/</a>
+Kniterate: <a href="https://www.kniterate.com/community/users/s666pizza/">https://www.kniterate.com/community/users/s666pizza/</a>
+Bricklink: <a href="https://www.bricklink.com/aboutMe.asp?u=s666pizza">https://www.bricklink.com/aboutMe.asp?u=s666pizza</a>
+Booklog: <a href="https://booklog.jp/users/s666pizza/profile">https://booklog.jp/users/s666pizza/profile</a>
+Velog: <a href="https://velog.io/@s666pizza/about">https://velog.io/@s666pizza/about</a>
+Jumpinsport: <a href="https://www.jumpinsport.com/users/s666pizza">https://www.jumpinsport.com/users/s666pizza</a>
+Knowyourmeme: <a href="https://knowyourmeme.com/users/s666pizza">https://knowyourmeme.com/users/s666pizza</a>
+Myapple: <a href="https://myapple.pl/users/464153-s666pizza">https://myapple.pl/users/464153-s666pizza</a>
+Agoracom: <a href="https://agoracom.com/members/s666pizza">https://agoracom.com/members/s666pizza</a>
+Myurls: <a href="https://myurls.bio/s666pizza">https://myurls.bio/s666pizza</a>
