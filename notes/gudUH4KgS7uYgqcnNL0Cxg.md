@@ -41,10 +41,20 @@ int main<font color="#f00">()    </font> <font color="#1936C9">//主函式</font
 * # **基本資料型態**
 1. int: 整數
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
+|    整數宣告型態    | 長度(位元) |        值的範圍        |
+|:------------------:|:----------:|:----------------------:|
+|        int         |     32     | -2147483648~2147483647 |
+|     signed int     |     32     | -2147483648~2147483647 |
+|    unsigned int    |     32     |      0~4294967295      |
+| short int / short  |     16     |      -32768~32767      |
+|  signed short int  |     16     |      -32768~32767      |
+| unsigned short int |     16     |        0~65535         |
+|  long int / long   |     32     | -2147483648~2147483647 |
+|  signed long int   |     32     | -2147483648~2147483647 |
+| unsigned long int  |     32     |      0~4294967295      |
 
+**溢位(overflow)**
+當變數值超過範圍時發生
 2. float: 單精度浮點數
 3. char: 字元
 4. double: 雙倍精度浮點數
