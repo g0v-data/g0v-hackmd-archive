@@ -194,9 +194,21 @@ SELECT name FROM `employee`;
 ```
 ## Aggregate Function(聚合函數)
 ```
-1.取得員工人數
+1.取得員工人數，COUNT作計數
+SELECT COUNT(`sup_id`) FROM `employee`;
 2.取得所有生於1930年後的女性員工
+SELECT COUNT(*) FROM `client`
+WHERE `sex` = `F` AND `birth_date` > `1930-01-01`;
 3.取得所有員工薪水的總和
+SELECT SUM(`salary`) FROM `employee`;
 4.取得薪水最高的員工
+SELECT MAX(`salary`) FROM `employee`;
 5.取得薪水最低的員工
+SELECT MIN(`salary`) FROM `employee`;
+```
+
+## 萬用字元(wildcards)
+* %代表多個字元，_代表一個字元
+```
+
 ```

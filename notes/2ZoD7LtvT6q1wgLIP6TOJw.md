@@ -1,7 +1,7 @@
 Crema 3.- 模板架構說明
 [模板官方說明文件](https://docs.cremawork.com/v/v-3)
 
-### Installing Template
+### Installing 及 執行 專案
 1. 安裝 : run the following command to run the project in the browser.
 ``` command
 yarn
@@ -9,7 +9,7 @@ yarn
 2. 資料庫連線設定，於根目錄 next.config.js
 3. 執行 dev 模式 : run the following command to run the project in the browser.
 ``` command
-yarn start
+yarn dev
 ```
 3. 打包
 ``` command
