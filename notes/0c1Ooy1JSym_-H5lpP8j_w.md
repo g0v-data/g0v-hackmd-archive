@@ -8,7 +8,9 @@ Thông tin liên hệ:
 
 Địa chỉ: 497 Chiến Lược, Tân Tạo, Bình Tân, Hồ Chí Minh, Việt Nam.
 
-Phone: 0865323210. Email: info@debet.toys.
+Phone: 0865323210.
+
+Email: info@debet.toys.
 
 Website: https://debet.toys
 
@@ -26,26 +28,52 @@ https://www.pinterest.com/debettoys/
 
 https://vimeo.com/debettoys
 
-https://www.tumblr.com/settings/blog/debettoys
+https://www.blogger.com/profile/15866314038383793309
+
+https://gravatar.com/debettoys
+
+https://talk.plesk.com/members/debeoys.360354/#about
+
+https://www.tumblr.com/debettoys
+
+https://debettoys.wixsite.com/debettoys/post/debettoys
+
+https://profile.hatena.ne.jp/debettoys/
+
+https://issuu.com/debettoys
 
 https://www.twitch.tv/debettoys
 
 https://www.linkedin.com/in/debettoys/
 
+https://debettoys.bandcamp.com/album/debet-toys
+
+https://disqus.com/by/debettoys/about/
+
+https://about.me/debettoys
+
+https://www.mixcloud.com/debettoys/
+
+https://hub.docker.com/u/debettoys
+
+https://500px.com/p/debettoys
+
+https://www.producthunt.com/@debettoys
+
 https://www.zillow.com/profile/debettoys
 
+https://debettoys.notion.site/Debet-Toys-32b9d8596cc94c019f93cc9f9f09e92f
+
+https://gitee.com/debettoys
+
+https://readthedocs.org/projects/debettoys1/
+
+https://sketchfab.com/debettoys
+
+https://www.discogs.com/fr/user/debettoys
+
+https://www.reverbnation.com/artist/debettoys
+
+https://connect.garmin.com/modern/profile/a617a7e6-f063-4b94-8c80-e971ad356b06
+
 https://hybuithienphu924823.systeme.io/
-
-https://b.cari.com.my/home.php?mod=space&uid=3181869&do=profile
-
-https://www.deepzone.net/home.php?mod=space&uid=4094801
-
-http://bbs.sdhuifa.com/home.php?mod=space&uid=600627
-
-https://mississaugachinese.ca/home.php?mod=space&uid=1344227
-
-https://www.vid419.com/home.php?mod=space&uid=3390200
-
-https://bysee3.com/home.php?mod=space&uid=4534971
-
-https://www.yanyiku.cn/home.php?mod=space&uid=4259683

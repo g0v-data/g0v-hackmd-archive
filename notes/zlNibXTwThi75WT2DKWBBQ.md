@@ -196,13 +196,17 @@ SELECT name FROM `employee`;
 ```
 1.取得員工人數，COUNT作計數
 SELECT COUNT(`sup_id`) FROM `employee`;
+
 2.取得所有生於1930年後的女性員工
 SELECT COUNT(*) FROM `client`
 WHERE `sex` = `F` AND `birth_date` > `1930-01-01`;
+
 3.取得所有員工薪水的總和
 SELECT SUM(`salary`) FROM `employee`;
+
 4.取得薪水最高的員工
 SELECT MAX(`salary`) FROM `employee`;
+
 5.取得薪水最低的員工
 SELECT MIN(`salary`) FROM `employee`;
 ```
@@ -214,10 +218,12 @@ SELECT MIN(`salary`) FROM `employee`;
 SELECT *
 FROM `client`
 WHERE `phone` LIKE `%391`;
+
 2.取得姓'艾'的客戶
 SELECT *
 FROM `client`
 WHERE `client_name` LIKE `艾%`;
+
 3.取得生日在1月的客戶
 SELECT *
 FROM `client`
@@ -230,8 +236,28 @@ SELECT `name`
 FROM `employee`
 UNION
 SELECT `client_name`
+FROM `client`;
 
+2.員工id + 員工名字 UNION 客戶id + 客戶名字(並更改表單標題)
+SELECT `emp_id` AS `total_id`, `name` AS `total_name`
+FROM `employee`
+UNION
+SELECT `client_id`, `client_name`
+FROM `client`;
+
+3.員工薪水 UNION 銷售金額
+SELECT `salary` AS `total_money`
+FROM `employee`
+UNION
+SELECT `total_sales`
+FROM `work_withs`;
 ```
-
+## join連接
+```
+#取得所有部門經理的名字
+SELECT *
+FROM `employee` JOIN `branch` #LEFT(RIGHT) JOIN不論條件是否成立，皆列出JOIN右(左)邊的表格內容
+ON `employee`.`emp_id` = `branch`.`manager_id` #設置的條件及指定表單
+```
 
 
