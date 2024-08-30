@@ -96,9 +96,51 @@ CREATE TABLE `branch`(
     `branch_id` INT PRIMARY KEY,
     `branch_name` VARCHAR(20),
     `manager_id` INT,
-    `branch` INT,
-    `sup_id` INT
+    FOREIGN KEY (`manager_id`) REFERENCES `employee`(`emp_id`) ON DELETE SET NULL
 );
+
+#補上Employee的FOREIGN KEY 
+ALTER TABLE `employee`
+ADD FOREIGN KEY (`branch_id`) 
+REFERENCES `branch`(`branch_id`) 
+ON DELETE SET NULL;
+
+ALTER TABLE `employee`
+ADD FOREIGN KEY (`sup_id`) 
+REFERENCES `employee`(`emp_id`) 
+ON DELETE SET NULL;
+
+#Clint
+CREATE TABLE `clint`(
+    `clint_id` INT PRIMARY KEY,
+    `clint_name` VARCHAR(20),
+    `phone` VARCHAR(20)
+);
+
+#Works_With
+CREATE TABLE `works_with`(
+    `emp_id` INT,
+    `clint_id` INT,
+    `total_sales` INT,
+    PRIMARY KEY(`emp_id`, `clint_id`),
+    FOREIGN KEY (`emp_id`) REFERENCES `employee`(`emp_id`) ON DELETE SET NULL,
+    PRIMARY KEY(`emp_id`, `clint_id`),
+    FOREIGN KEY (`client_id`) REFERENCES `client`(`client_id`) ON DELETE SET NULL
+);
+
+#insert data
+*如果有用FOREIGN KEY連起來的值為空，則可能無法建立
+
+#insert branch data
+INSERT INTO `branch` VALUE (1, '研發', NULL);
+INSERT INTO `branch` VALUE (1, '研發', NULL);
+INSERT INTO `branch` VALUE (1, `研發', NULL);
+
+#insert employee data
+INSERT INTO `employee`
+(emp_id, name, birth_date, sex, salary, branch, sup_id)
+VALUES
+(``)
 
 ```
 
