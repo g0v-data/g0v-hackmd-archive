@@ -32,6 +32,8 @@
     * 依據不同的聲紋區分講者
 * --hf_token xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     * [Hugging Face](https://huggingface.co/) Settings > Access Tokens ，用來下載模型檔案的 token ，部份模型檔案會要求下載前閱讀並且同意授權聲明，初次執行遇到錯誤會需要找到模型對應頁面完成操作
+* --compute_type float32
+    * 在系統陸續更新後沒辦法順利執行，必須要加入這個參數
 
 所有參數可以在[程式碼](https://github.com/m-bain/whisperX/blob/main/whisperx/transcribe.py)找到
 
