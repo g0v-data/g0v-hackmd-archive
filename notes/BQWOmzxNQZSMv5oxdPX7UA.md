@@ -2,7 +2,7 @@
 
 What can I say? Keeping secure regarding web-based forms has never been more critical than in this digital era. Robotic or computer programs that automatically send messages without any human intervention can spoil everything in an online program with their program, including spam, theft of information, and other forms of bad behavior. To combat these dangers, [Google](https://www.google.com/) made a tool known as [reCAPTCHA](https://www.google.com/recaptcha/about/) to differentiate between access given by humans and machines. 
 
-To provide an improved user experience compared to its predecessors, [reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3) is the new version of this tool. In comparison to [reCAPTCHA v2](https://developers.google.com/recaptcha/docs/display), which needed some form of user input (like identifying images), this latest version does not require anything from them as it works in the background, giving scores based on users’ interactions to determine if there are any humans present or bots only. In the present era, web applications effortlessly exhibit effective UX and customize their operations through a scoring mechanism that makes them less invasive. The [Vue](https://) framework for [JavaScript](https://www.javascript.com/) has experienced exponential growth and is known for its ease of use and versatility, thus making it suitable to implement reCAPTCHA v3. Additionally, choosing Vue is important because it focuses on UI, therefore allowing more security measures like reCAPTCHA to be integrated without affecting its performance or the user's enjoyment. 
+To provide an improved user experience compared to its predecessors, [reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3) is the new version of this tool. In comparison to [reCAPTCHA v2](https://developers.google.com/recaptcha/docs/display), which needed some form of user input (like identifying images), this latest version does not require anything from them as it works in the background, giving scores based on users’ interactions to determine if there are any humans present or bots only. In the present era, web applications effortlessly exhibit effective UX and customize their operations through a scoring mechanism that makes them less invasive. The [Vue](https://vuejs.org/) framework for [JavaScript](https://www.javascript.com/) has experienced exponential growth and is known for its ease of use and versatility, thus making it suitable to implement reCAPTCHA v3. Additionally, choosing Vue is important because it focuses on UI, therefore allowing more security measures like reCAPTCHA to be integrated without affecting its performance or the user's enjoyment. 
 
 This write-up aims to explore how reCAPTCHA v3 can be effectively incorporated in Vue.js applications so that forms are safe from malicious activities while still keeping the original feel of the site or application. Also, this manual will comprehensively provide all you need in terms of steps involved in obtaining the required keys needed for complete incorporation of reCAPTCHA v3 within your Vue.js applications.
 
@@ -15,12 +15,12 @@ There are various benefits to the scoring mechanism of reCAPTCHA v3. To start wi
 To utilize reCAPTCHA v3 in your Vue.js application, you must complete a few essential steps such as obtaining important credentials and integrating the reCAPTCHA plugin into the Vue project. The purpose of this section is to guide you through these processes so that you can do it smoothly with better protection for your app and also ensure a seamless usage experience for users.
 
 ### Obtaining your Site and Secret Key
-The first step in preparing reCAPTCHA v3 is to obtain your site key and secret key from Google. These keys are key to activating reCAPTCHA on your site. To get started, visit the Google reCAPTCHA site and sign in with your Google account. After you have logged in, you will be required to add your website by entering some label (for reference purposes) and selecting the type as reCAPTCHA v3. 
+The first step in preparing reCAPTCHA v3 is to obtain your site key and secret key from Google. These keys are key to activating reCAPTCHA on your site. To get started, visit the Google reCAPTCHA [site](https://www.google.com/recaptcha/admin/create) and sign in with your Google account. After you have logged in, you will be required to add your website by entering some label (for reference purposes) and selecting the type as reCAPTCHA v3. 
 
 In addition, you will also need to specify the domains where you want to use reCAPTCHA. Google will then create a site key along with a secret key, depending on the provided information. The front-end code makes use of the site key, while the server side uses a secret key for verifying the reCAPTCHA response.
 
 ### Installation
-After obtaining your site key, the next thing is to set up and configure reCAPTCHA v3 in your Vue.js application. Installing and setting up reCAPTCHA on Vue.js is quite easy compared to other methods of integration because it has different ways of making it work. One of these ways includes the use of plugins, where several Vue plugins are able to make the whole process simpler, such as vue-recaptcha-v3. To get the plugin installed, you can either use npm or yarn, depending on which one you like better for managing packages.
+After obtaining your site key, the next thing is to set up and configure reCAPTCHA v3 in your Vue.js application. Installing and setting up reCAPTCHA on Vue.js is quite easy compared to other methods of integration because it has different ways of making it work. One of these ways includes the use of plugins, where several Vue plugins are able to make the whole process simpler, such as `vue-recaptcha-v3`. To get the plugin installed, you can either use [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/), depending on which one you like better for managing packages.
 
 Simply enter this command within your project’s directory:
 
@@ -34,27 +34,27 @@ or:
 yarn add vue-recaptcha-v3
 ```
 
-Once the plug-in has been properly set up, you would want to configure it in your Vue app. Usually, this happens in the `main.js` file where the Vue instance and all its plug-ins are initialized. Hence, let’s import the `vue-recaptcha-v3` plugin and configure it using the `Vue.use()` method with your site key as follows:
+Once the plug-in has been properly set up, you would want to configure it in your Vue app. Usually, this happens in the `main.js` file where the Vue instance and all its plugins are initialized. Hence, let’s import the `vue-recaptcha-v3` plugin and configure it using the `Vue.use()` method with your site key as follows:
 
 ```javascript
-import Vue from 'vue';
-import App from './App.vue';
-import VueRecaptchaV3 from 'vue-recaptcha-v3';
+import Vue from "vue";
+import App from "./App.vue";
+import VueRecaptchaV3 from "vue-recaptcha-v3";
 
 Vue.use(VueRecaptchaV3, {
-  siteKey: 'your-site-key'
+  siteKey: "your-site-key",
 });
 
 new Vue({
-  render: h => h(App),
-}).$mount('#app');
+  render: (h) => h(App),
+}).$mount("#app");
 ```
 
 Vue.js application with integration of Google reCAPTCHA v3. For basic setup, the code given here contains the required module imports. It starts by importing Vue, which is built on the framework, and the main `App` component from a local file and the `vue-recaptcha-v3` package (which is a plugin that makes it easier to integrate Google reCAPTCHA v3 in Vue).
 
 Next, it makes use of `Vue.use()` method, which installs `vue-recaptcha-v3` into the Vue application. This method requires `siteKey`, an exclusive identification number assigned by Google specifically for your website. You must replace your key to use the reCAPTCHA service.
 
-In the end, a Vue instance that is new is made. The `render` function indicates that the component App should become the component root of the application. The method `.$mount (‘#app’)` allows the mounting of the Vue instance on an HTML element having an identifier app, thus letting the Vue application take control of that part of the webpage. Thus, this code serves as a way of initializing a Vue.js application with an in-built reCAPTCHA v3 capability.
+In the end, a Vue instance that is new is made. The `render` function indicates that the component App should become the component root of the application. The method `.$mount (‘#app’)` allows the mounting of the Vue instance on an [HTML](https://html.com/) element having an identifier app, thus letting the Vue application take control of that part of the webpage. Thus, this code serves as a way of initializing a Vue.js application with an in-built reCAPTCHA v3 capability.
 
 Once the plugin is properly set, reCAPTCHA v3 can be utilized within your Vue components. This means you can protect forms and other crucial areas of your app by generating reCAPTCHA tokens and verifying them on server-side code. The integration process focuses on as much low-key style as possible so it enhances the security of your apps without complicating things or making them difficult for users to access. Depending on the time we get into this, we will look at how to practically implement reCAPTCHA v3 in a Vue.js application which involves starting a simple form needed for receiving information from clients and also responding to the reCAPTCHA within the context of ensuring that your application is secure and user-friendly at all times.
 
@@ -278,7 +278,7 @@ async function verifyRecaptcha(token) {
 
 You should replace this method with your own authentic reCAPTCHA secret key, provided by Google, to maintain your integrity as a developing organization. This is essential for determining whether this sent reCAPTCHA token is genuine or not. A URL containing both a secret key and token is then used to do a POST request at Google's Recaptcha API `siteverify` endpoint.
 
-The awaited API answer is parsed in JSON format, giving a structure with multiple pieces of information regarding the verification. Secondly, two conditions are checked by the function: if the verification was successful (data. success) and if the reCAPTCHA score is above some line (for example, 0.5 in this instance). This score helps identify whether it is likely that the interaction came from a person rather than an automatic program. This would mean that the verification was successful, and it would return "true,"  otherwise "false.".
+The awaited API answer is parsed in [JSON](https://www.json.org/) format, giving a structure with multiple pieces of information regarding the verification. Secondly, two conditions are checked by the function: if the verification was successful (data. success) and if the reCAPTCHA score is above some line (for example, 0.5 in this instance). This score helps identify whether it is likely that the interaction came from a person rather than an automatic program. This would mean that the verification was successful, and it would return "true,"  otherwise "false.".
 
 Keep in mind that when using this code, you must change ‘your-secret-key’ to your reCAPTCHA secret key. The token is verified by the server-side function and any score exceeding a specified threshold indicates that the interaction was not genuine.
 

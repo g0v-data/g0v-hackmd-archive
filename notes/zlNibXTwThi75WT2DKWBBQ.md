@@ -31,7 +31,7 @@ CREATE TABLE `database`(
 DESCRIBE `student`;
 #刪除表格
 DROP TBLE `student`;
-#新增欄位
+#新增欄位，DECIMAL是位數的設定
 ALTER TABLE `student` ADD `gpa` DECIMAL(3,2);
 #刪除欄位
 ALTER TABLE `student` DROP COLUMN `gpa`;
@@ -45,7 +45,7 @@ INSERT INTO `student` VALUE(1, `roy`, 2.3);
 SELECT * FROM `student;
 
 #依照特定順序填入資料
-INSERT INTO `student`(`gpa`. `id`, `name`) VALUE(2.3, 1, `roy`);
+INSERT INTO `student`(`gpa`, `id`, `name`) VALUE(2.3, 1, `roy`);
 ```
 ## Constraints(限制)
 ```
@@ -77,7 +77,28 @@ LIMIT 3;
 *也可以運用WHERE增加篩選條件，WHERE `name` IN(`ben`,`ken`)代表篩選名字是ben和ken的資料
 ```
 ## 公司資料庫的創建
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_75dd03b427c92eed5eb73b95234fce08.png)
 ```
+*在創建上，會由於其他表還沒創立，Foreign Key會需要再補上
+#Employee
+CREATE TABLE `employee`(
+    `emp_id` INT PRIMARY KEY,
+    `name` VARCHAR(20),
+    `birth_date` DATE,
+    `sex` VARCHAR(1),
+    `salary` INT,
+    `branch` INT,
+    `sup_id` INT
+);
+
+#Branch
+CREATE TABLE `branch`(
+    `branch_id` INT PRIMARY KEY,
+    `branch_name` VARCHAR(20),
+    `manager_id` INT,
+    `branch` INT,
+    `sup_id` INT
+);
 
 ```
 
