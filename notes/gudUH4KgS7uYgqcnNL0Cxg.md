@@ -13,16 +13,14 @@
 副檔名.exe 是一可獨立於作業系統下執行的程式
 **程式執行**
 # **基本結構**
-
+**1.**
 #include<stdio.h>    <font color="#1936C9">//引用stdio.h標頭檔</font>
 int main<font color="#f00">()    </font> <font color="#1936C9">//主函式</font>
 <font color="#f00">{</font>
    ...
    return <font color="#AC19C9">0</font>;     <font color="#1936C9">//無回傳值 ;則代表每一敘述的結束</font>
 <font color="#f00">}</font>
-
----
-
+**2.**
 #include<stdio.h>    <font color="#1936C9">//引用stdio.h標頭檔</font>
 #include<stdlib.h>
 int main<font color="#f00">()    </font> <font color="#1936C9">//主函式</font>
