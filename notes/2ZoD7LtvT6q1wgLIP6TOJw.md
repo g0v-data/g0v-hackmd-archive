@@ -1,13 +1,32 @@
 Crema 3.- 模板架構說明
 [模板官方說明文件](https://docs.cremawork.com/v/v-3)
+
+### Installing Template
+1. 安裝 : run the following command to run the project in the browser.
+``` command
+yarn
+```
+2. 資料庫連線設定，於根目錄 next.config.js
+3. 執行 dev 模式 : run the following command to run the project in the browser.
+``` command
+yarn start
+```
+3. 打包
+``` command
+yarn build
+```
+
+---
+
+### 專案架構說明
 #### 專案參數設定檔案， :file_folder: next.config.js.js
-含:資料庫連線、系統參數、發送email帳密、jwt_secret ... 等。
+含: 資料庫連線、系統參數、發送通知email的帳密、jwt_secret ... 等。
 #### 網站基本設定
-* 登入後的預設頁面:  
+* 登入後，網站預設頁面網址:  
     * AppConst.js，變數: const initialUrl 
 :file_folder:(`src\shared\constants\AppConst.js`)
     Crema v4: `src\@crema\constants\AppConst.js`
-* 左側 menu 路由清單 及 存取權限 : 
+* 網站左側 menu 路由清單 及 存取權限 : 
     * routesConfig.js 
 :file_folder:(`src\modules\routesConfig.js`)
 Crema v4:  `\src\@crema\core\AppRoutes\routeConfig.js`
@@ -20,7 +39,7 @@ Crema v4:  `\src\@crema\core\AppRoutes\routeConfig.js`
     Crema v4: `\src\@crema\constants\AppEnums.js`
 
 #### 頁面架構
-* 主階層: :file_folder:`src\pages\_app.js`
+* 主階層( 網站 index ): :file_folder:`src\pages\_app.js`
 * 模板全域變數 : 
     * Auth Context / JWTAuthProvider，  user object 設定: 
         1. :file_folder:`src\@crema\services\auth\jwt-auth\JWTAuthProvider.js` 取得 user 登入者的資料、登入及登出 function
@@ -28,7 +47,7 @@ Crema v4:  `\src\@crema\core\AppRoutes\routeConfig.js`
         3. :file_folder:`src\@crema\utility\helper\AuthHelper.js` 設定 2.hook，user object 傳出的細部資料格式
         4. 詳細說明[參考筆記](https://coda.io/d/_dcVt0nnt0Ca/NextJs-React-Template-Crema-Theme_su0hAYTx)
 * 自定義全域變數 context : :file_folder:`context\`
-	* 切換後台當下所在的組織階層，eg. 平台 or OOO機構
+	1. 切換後台當下所在的組織階層，eg. 平台 or OOO機構
 * 新增自訂頁面:  
 	1. 新增頁面網址
 		* 路徑: :file_folder:`src\pages\頁面網址名稱\檔名`，頁面網址名稱小寫開頭
@@ -36,11 +55,13 @@ Crema v4:  `\src\@crema\core\AppRoutes\routeConfig.js`
 		* eg.  `src\pages\members\training-list\single\[training_program_id].js`
 		* eg.  `src\pages\members\list\index.js`
 	2. 新增頁面對應module檔案:  :file_folder:`src\modules\頁面模組\index.js` ，頁面模組大寫開頭
-	3. 修改 routesConfig.js 設定
-*  於 module 檔案內呼叫 API : 
+	3. 修改 routesConfig.js 設定 (專案 router /  左側 menu)
+*  呼叫 API : 
+    在 module\ 內 或是 api\ 內用法相同
 		1. 引入方式，`import { apiGetAction } from "@/pages/api/api.js";`
 		2. 使用方式，`const response = await apiGetAction({training_action_id: training_action_id});`
 		3. 範例 :
+    * 使用 NextJs fetching-data-on-the-client-side
 	```JSX
 	import { apiGetAction } from "@/pages/api/api.js";
     async function listActions(org_id, status, training_module_id) {
@@ -79,8 +100,8 @@ Crema v4:  `\src\@crema\core\AppRoutes\routeConfig.js`
        fetchData();
    }, []);
 	```
-    或
-    使用 React Query
+    
+    * 使用 React Query
     ```JSX
     const usersQuery = useQuery({
         queryKey: ['users', { state, currentOrgId }],

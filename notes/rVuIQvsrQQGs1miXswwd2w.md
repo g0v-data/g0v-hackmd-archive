@@ -1,0 +1,20 @@
+<p><img src="https://scontent.fdad3-4.fna.fbcdn.net/v/t39.30808-6/456715626_122106048590482986_8480886461758733798_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=cc71e4&amp;_nc_ohc=QDaCGGfUIMAQ7kNvgGFhom5&amp;_nc_ht=scontent.fdad3-4.fna&amp;oh=00_AYC5nymB2iuL05B6Y7TfM_3Y88DzjHBaQfZLY4VG0pS45w&amp;oe=66D7150F" alt="" width="500" height="167" /></p>
+<p dir="ltr">Nh&agrave; c&aacute;i&nbsp;<a href="https://soc88m4.com/">Soc88</a>&nbsp;l&agrave; một trong những nh&agrave; c&aacute;i c&aacute; cược uy t&iacute;n h&agrave;ng đầu hiện nay. H&atilde;y tham gia ngay để c&oacute; những trải nghiệm th&uacute; vị c&aacute;c bạn nh&eacute; !&nbsp;</p>
+<p dir="ltr">#soc88 #nhacaisoc88 #soc88m4 #soc88m4com #linkvaosoc88&nbsp;</p>
+<p dir="ltr"><strong>Th&ocirc;ng Tin Li&ecirc;n Hệ:&nbsp;</strong></p>
+<p dir="ltr"><strong>- Địa Chỉ:</strong>&nbsp;71/38A L&atilde;nh Binh Thăng, Phường 12, Quận 11, Hồ Ch&iacute; Minh, Việt Nam&nbsp;</p>
+<p dir="ltr"><strong>- Số Điện Thoại:</strong>&nbsp;0987880091&nbsp;</p>
+<p dir="ltr"><strong>- Email:</strong>&nbsp;soc88m4.com@gmail.com&nbsp;</p>
+<p dir="ltr"><strong>- Website:</strong>&nbsp;<a href="https://soc88m4.com/">https://soc88m4.com/</a></p>
+<p dir="ltr"><img src="https://scontent.fdad3-4.fna.fbcdn.net/v/t39.30808-6/457131456_122106048344482986_4380522870588382160_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=6ee11a&amp;_nc_ohc=uWCHUF1ZiFoQ7kNvgG2VgqY&amp;_nc_ht=scontent.fdad3-4.fna&amp;oh=00_AYBAbig45EyiaRRtp0Xd3nVdi91Vm4Y15Hz-Qpdvo4AdhA&amp;oe=66D6F747" alt="" width="170" height="170" /></p>
+<p dir="ltr"><strong>Google Stacking</strong></p>
+<p dir="ltr">GG Site:&nbsp;<a href="https://sites.google.com/view/soc88m4/">https://sites.google.com/view/soc88m4/</a></p>
+<p dir="ltr">GG Drive:&nbsp;<a href="https://drive.google.com/drive/folders/1yv02PxSNYy5u4YWziY462Dg3SFNQQNGH?usp=sharing">https://drive.google.com/drive/folders/1yv02PxSNYy5u4YWziY462Dg3SFNQQNGH?usp=sharing</a></p>
+<p dir="ltr">GG Colab:&nbsp;<a href="https://colab.research.google.com/drive/1MLqxpYczbEgXU3dhAnpcrZwD42AXDtJa?usp=sharing">https://colab.research.google.com/drive/1MLqxpYczbEgXU3dhAnpcrZwD42AXDtJa?usp=sharing</a></p>
+<p dir="ltr">GG Form:&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSd_NuI4Su4Hu3-dhI7CuSJPu2vXqowgvtHnVb4G_qe0raO8NQ/viewform?usp=sf_link">https://docs.google.com/forms/d/e/1FAIpQLSd_NuI4Su4Hu3-dhI7CuSJPu2vXqowagvtHnVb4G_qe0raO8NQ/viewform?usp=sf_link</a></p>
+<p dir="ltr">GG Doc:&nbsp;<a href="https://docs.google.com/document/d/1SPKYkxJMu-8D5rNctyYu6KeRG-3OQQjfoEZUu8O7kV4/edit?usp=sharing">https://docs.google.com/document/d/1SPKYkxJMu-8D5rNctyYu6KeRG-3OQQjfoEZUu8O7kV4/edit?usp=sharing</a></p>
+<p dir="ltr">GG Draw:&nbsp;<a href="https://docs.google.com/drawings/d/1X67EU7XRXVdtOzP4b-GBQMkN43aEL9CaAEWFz2unzPg/edit?usp=sharing">https://docs.google.com/drawings/d/1X67EU7XRXVdtOzP4b-GBQMkN43aEL9CaAEWFz2unzPg/edit?usp=sharing</a></p>
+<p dir="ltr">GG Slide:&nbsp;<a href="https://docs.google.com/presentation/d/1kSd3TtZc4TYpW1nUdDbdzlnpXjduMN9fssssafpnxiU/edit?usp=sharing">https://docs.google.com/presentation/d/1kSd3TtZc4TYpW1nUdDbdzlnpXjduMN9fssssafpnxiU/edit?usp=sharing</a></p>
+<p dir="ltr">GG Sheet:&nbsp;<a href="https://docs.google.com/spreadsheets/d/1LLklVqGSvHAjxh_n3ny0kMwgIFJxpCcmUlBHDfQ5lu8/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1LLklVqGSvHAjxh_n3ny0kMwgIFJxpCcmUlBHDfQ5lu8/edit?usp=sharing</a></p>
+<p dir="ltr">GG My Map:&nbsp;<a href="https://www.google.com/maps/d/edit?mid=1CWWwBQooLpEEynrnmOFQkEuvsq2GooM&amp;usp=sharing">https://www.google.com/maps/d/edit?mid=1CWWwBQooLpEEynrnmOFQkEuvsq2GooM&amp;usp=sharing</a></p>
+<p>GG Earth:&nbsp;<a href="https://earth.google.com/earth/d/1JNhwI7K3qQNGebdshxQaPyXOcG5A6dwt?usp=sharing">https://earth.google.com/earth/d/1JNhwI7K3qQNGebdshxQaPyXOcG5A6dwt?usp=sharing</a></p>
