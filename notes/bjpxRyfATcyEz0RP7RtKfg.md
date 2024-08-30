@@ -42,6 +42,22 @@
     1. 可以用S型的function來fit二元的資料
     2. loss function ：cross entropy loss(不用MSE是因為0和1的距離太小懲罰性不足)
 
+* SVM 再多了解一點
+    有機會產出更多的類別
+    
+* 深度學習deeplearning
+    1. 一樣是透過方法微調那些參數，使得估計和真實值最小化，只是y和x的關係不再是簡單的線性組合，反而有可能是那些x之間各種不同的交互運算。
+    2. 所以很擅長處理意義不明的類別
+
+* 強化學習reforcementlearning
+    1. 當下並不會知道y的結果是好是壞，可能需要經過好幾個步驟之後，才會知道，原先某一個y的結果的好壞。ex.像是馬力歐玩遊戲一樣
+
+* evaluation metric
+    * precision(精準度)
+    * recall(判斷度)
+    * 這兩者有抵換關係==>使用F1指標 
+
+
     
 
   

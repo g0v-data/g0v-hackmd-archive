@@ -19,49 +19,77 @@ yarn build
 ---
 
 ### 專案架構說明
-#### 專案參數設定檔案， :file_folder: next.config.js.js
-含: 資料庫連線、系統參數、發送通知email的帳密、jwt_secret ... 等。
-#### 網站基本設定
-* 登入後，網站預設頁面網址:  
-    * AppConst.js，變數: const initialUrl 
+#### 專案環境變數設定檔案， :file_folder: next.config.js.js
+含: 資料庫連線、系統參數、發送通知email的帳密、jwt_secret ... 等，可以在全站內使用。
+#### 網站基礎變數設定
+* 登入後，網站預設的首頁頁面/網址:  
+    * AppConst.js，變數: ` const initialUrl` 
 :file_folder:(`src\shared\constants\AppConst.js`)
     Crema v4: `src\@crema\constants\AppConst.js`
 * 網站左側 menu 路由清單 及 存取權限 : 
-    * routesConfig.js 
+    * 設定檔案: routesConfig.js，變數: `const routesConfig`
 :file_folder:(`src\modules\routesConfig.js`)
 Crema v4:  `\src\@crema\core\AppRoutes\routeConfig.js`
+    * 程式碼 components
+:file_folder:(`src\@crema\core\AppLayout\components\VerticalNav\`)
 * 路由/頁面的權限類別:  
-	* routesConfig.js，變數: const RoutePermittedRole 
+	* routesConfig.js，變數: `const RoutePermittedRole` 
 :file_folder:(`src\shared\constants\AppConst.js`)
-		mgmt_: 表示擁有平台權限
-	    org_: 表示擁有機構權限
+		mgmt_: 自定義，表示擁有平台權限
+	    org_: 自定義，表示擁有機構權限
+        * 使用範例
+        ```JSX
+        import {useAuthMethod, useAuthUser} from '@/@crema/utility/AuthHooks';
+        
+        const usePermission = (user) => {
+          const roles = user.role || [];
+          const can_view = roles.some(role => ['mgmt_admin', 'org_admin', 'mgmt_user_view', 'org_user_view', 'mgmt_user_edit', 'org_user_edit'].includes(role));
+          const can_edit = roles.some(role => ['mgmt_admin', 'org_admin', 'mgmt_user_edit', 'org_user_edit'].includes(role));
+
+          return { can_view, can_edit };
+        };
+        
+        const Table = () => {
+          const router = useRouter()
+          const {user, isAuthenticated, isLoading} = useAuthUser();
+          const { can_view, can_edit } = usePermission(user);
+
+          // 判断是否具有查看或编辑權限
+          if (!can_view && !can_edit) {
+            return (
+              <div><h4>無人員管理權限</h4></div>
+            );
+          }}
+        ```
+
 	* ~~const authRole，目前未使用~~
     Crema v4: `\src\@crema\constants\AppEnums.js`
 
-#### 頁面架構
+#### 頁面架構 及 相關使用說明
 * 主階層( 網站 index ): :file_folder:`src\pages\_app.js`
 * 模板全域變數 : 
-    * Auth Context / JWTAuthProvider，  user object 設定: 
+    * Auth Context / JWTAuthProvider， 全域變數 User Object 的設定: 
         1. :file_folder:`src\@crema\services\auth\jwt-auth\JWTAuthProvider.js` 取得 user 登入者的資料、登入及登出 function
         2. :file_folder:`src\@crema\utility\AuthHooks.js` 設定 1.的hook
         3. :file_folder:`src\@crema\utility\helper\AuthHelper.js` 設定 2.hook，user object 傳出的細部資料格式
         4. 詳細說明[參考筆記](https://coda.io/d/_dcVt0nnt0Ca/NextJs-React-Template-Crema-Theme_su0hAYTx)
 * 自定義全域變數 context : :file_folder:`context\`
-	1. 切換後台當下所在的組織階層，eg. 平台 or OOO機構
+	1. 自定義功能1 `context\HeaderContextProvider.js` : 切換後台當下所在的組織階層，eg. 平台 or OOO機構
+( 記得在 _app.js 引入 )
 * 新增自訂頁面:  
 	1. 新增頁面網址
 		* 路徑: :file_folder:`src\pages\頁面網址名稱\檔名`，頁面網址名稱小寫開頭
-		* 檔名: index.js 或 [id].js，
+		* 檔名: index.js 或 [id].js
 		* eg.  `src\pages\members\training-list\single\[training_program_id].js`
 		* eg.  `src\pages\members\list\index.js`
-	2. 新增頁面對應module檔案:  :file_folder:`src\modules\頁面模組\index.js` ，頁面模組大寫開頭
-	3. 修改 routesConfig.js 設定 (專案 router /  左側 menu)
+	2. 新增頁面對應的 module 檔案:  :file_folder:`src\modules\頁面模組\index.js` ，頁面模組資料夾名稱大寫開頭
+	3. 修改 routesConfig.js 設定專案 router /  左側 menu，及頁面權限
 *  呼叫 API : 
     在 module\ 內 或是 api\ 內用法相同
 		1. 引入方式，`import { apiGetAction } from "@/pages/api/api.js";`
 		2. 使用方式，`const response = await apiGetAction({training_action_id: training_action_id});`
 		3. 範例 :
-    * 使用 NextJs fetching-data-on-the-client-side
+    * 方式1. 使用 NextJs fetching-data-on-the-client-side
 	```JSX
 	import { apiGetAction } from "@/pages/api/api.js";
     async function listActions(org_id, status, training_module_id) {
@@ -101,7 +129,7 @@ Crema v4:  `\src\@crema\core\AppRoutes\routeConfig.js`
    }, []);
 	```
     
-    * 使用 React Query
+    * 方式2. 使用 React Query
     ```JSX
     const usersQuery = useQuery({
         queryKey: ['users', { state, currentOrgId }],
@@ -159,7 +187,16 @@ Crema v4:  `\src\@crema\core\AppRoutes\routeConfig.js`
     // 取得
     var query = 'SELECT SQL_CALC_FOUND_ROWS p.training_program_id as id FROM training_programs as p  WHERE p.member_id = ? ;
     var values = [user_id];
-    const results = await db.excuteQuery(query, values);
+    const results = await db.excuteQuery(query, value);
+    
+    res.statusCode = 200;
+    res.json({
+        "Errorcode" : 0, 
+        "total": total,//總共頁碼數
+        "all": totalCount,//總共資料筆數
+        "page": currentPage ,//當前頁碼
+        "detail": results
+    });
 	```
 * db連線設定: db.js
 :page_with_curl:`lib\db.js`

@@ -182,8 +182,21 @@ SELECT * FROM `employee`;
 2.取得所有客戶資料
 SELECT * FROM `client`;
 3.按薪水低到高取得員工資料
-SELECT * FROM 
+SELECT * FROM `employee`
+ORDER BY `salary` ASC;
 4.取得薪水前3高的員工
+SELECT * FROM `employee`
+ORDER BY `salary` DESC
+LIMIT 3;
 5.取得所有員工的名字
+SELECT name FROM `employee`;
+*若在SELECT後加上DISTINCT可以輸出非重複項
 ```
-
+## Aggregate Function(聚合函數)
+```
+1.取得員工人數
+2.取得所有生於1930年後的女性員工
+3.取得所有員工薪水的總和
+4.取得薪水最高的員工
+5.取得薪水最低的員工
+```
