@@ -1,8 +1,8 @@
 ## Integrating reCAPTCHA v3 in Vue.js
 
-What can I say? Keeping secure regarding web-based forms has never been more critical than in this digital era. Robotic or computer programs that automatically send messages without any human intervention can spoil everything in an online program with their program, including spam, theft of information, and other forms of bad behavior. To combat these dangers, Google made a tool known as reCAPTCHA to differentiate between access given by humans and machines. 
+What can I say? Keeping secure regarding web-based forms has never been more critical than in this digital era. Robotic or computer programs that automatically send messages without any human intervention can spoil everything in an online program with their program, including spam, theft of information, and other forms of bad behavior. To combat these dangers, [Google](https://www.google.com/) made a tool known as [reCAPTCHA](https://www.google.com/recaptcha/about/) to differentiate between access given by humans and machines. 
 
-To provide an improved user experience compared to its predecessors, reCAPTCHA v3 is the new version of this tool. In comparison to reCAPTCHA v2, which needed some form of user input (like identifying images), this latest version does not require anything from them as it works in the background, giving scores based on users’ interactions to determine if there are any humans present or bots only. In the present era, web applications effortlessly exhibit effective UX and customize their operations through a scoring mechanism that makes them less invasive. The Quick framework for JavaScript has experienced exponential growth and is known for its ease of use and versatility, thus making it suitable to implement reCAPTCHA v3. Additionally, choosing Vue is important because it focuses on UI, therefore allowing more security measures like reCAPTCHA to be integrated without affecting its performance or the user's enjoyment. 
+To provide an improved user experience compared to its predecessors, [reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3) is the new version of this tool. In comparison to [reCAPTCHA v2](https://developers.google.com/recaptcha/docs/display), which needed some form of user input (like identifying images), this latest version does not require anything from them as it works in the background, giving scores based on users’ interactions to determine if there are any humans present or bots only. In the present era, web applications effortlessly exhibit effective UX and customize their operations through a scoring mechanism that makes them less invasive. The [Vue](https://) framework for [JavaScript](https://www.javascript.com/) has experienced exponential growth and is known for its ease of use and versatility, thus making it suitable to implement reCAPTCHA v3. Additionally, choosing Vue is important because it focuses on UI, therefore allowing more security measures like reCAPTCHA to be integrated without affecting its performance or the user's enjoyment. 
 
 This write-up aims to explore how reCAPTCHA v3 can be effectively incorporated in Vue.js applications so that forms are safe from malicious activities while still keeping the original feel of the site or application. Also, this manual will comprehensively provide all you need in terms of steps involved in obtaining the required keys needed for complete incorporation of reCAPTCHA v3 within your Vue.js applications.
 
@@ -142,7 +142,7 @@ The method `handleSave` is the one that is used for handling the submission of f
 Output:
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_81b30d7c91ef975f030424eea8f9b6f9.gif)
 
-It also has a scoped style section in the component where it provides custom styles to form. The flexbox aligns the form in the middle of the page, while specific styles applied to both the button and input field enhance the user experience. Thus, paddings, borders, and specified widths are used to style the input field, while padding and background colors combined with hover effects improve interaction on the button level. Within this simple Vue.js application, this component successfully merges handling user input, managing data, and styling.
+The GIF above shows a simple form, which we will use to test our reCAPTCHA version 3.
 
 ## Integrating reCAPTCHA in a Vue Component
 If a Vue component uses reCAPTCHA v3 to handle its form submissions, it implies that such forms are secure but user-friendly. The form we created in the previous section, where a user can type a word and then submit via the "Save" button, will serve as an example of how we can integrate reCAPTCHA v3 to prevent this form from being filled out automatically by some other application. For us to add the integration of reCAPTCHA v3, the first step is to make sure that you have set up correctly the reCAPTCHA plugin in your Vue app. With reCAPTCHA v3, it entirely means that nothing would be visible to the user; therefore, there will not be any extra fields or boxes for ticking. So when one presses the "Save" button on their side, reCAPTCHA v3 runs without them knowing while creating a token for them, which they will later use during verification. Integrating reCAPTCHA in a Vue Component.
@@ -254,6 +254,8 @@ This is a `Vue.js` component whose task is to provide a form by which a word may
 Output:
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0aac6f64667f97ad6205112e737bf2c0.jpg)
 
+The icon pointed by the arrow shown in the image above is the reCAPTCHA logo, indicating it has been integrated into our form.
+
 ### Server-Side Verification
 This means that the server-side verification procedure is about confirming the client-built reCAPTCHA token (in your Vue component in this case) by sending it to Google’s reCAPTCHA API. It is very essential because it helps to limit genuine users who can generate tokens and not the bots. Also, it assures that reCAPTCHA offers scores more than the specified threshold limit in advance.
 
@@ -282,6 +284,8 @@ Keep in mind that when using this code, you must change ‘your-secret-key’ to
 
 Output:
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d40e11b154877641eaaa4a281e024082.gif)
+
+As for the GIF above, in the form, we type "Am I a robot?" in simple terms and hit "Save." No, you are not a robot is what comes from the verification procedure whereby there is no puzzle-solving or identification to be done with reCAPTCHA v3 running smoothly in the background, making it easier than ever, thus showing some of its advantages, like completely automated solutions.
 
 ## Common Challenges
 Developers might run into several issues when they are integrating recaptcha v3 into a Vue application. Knowing these potential problems and implementing them in ways that help to optimize them can improve both security and user experience. One common challenge is ensuring that reCAPTCHA v3 works properly, even when using single-page applications (SPAs) such as those built on Vue. Because it is action-based and runs in the background without interaction from the user, sometimes the scores produced by reCAPTCHA v3 get inconsistent in the case of SPAs or do not trigger at all. This happens because navigation between different routes or views does not reload the recaptcha script in Vue applications.
