@@ -1,12 +1,26 @@
 ---
-title: "【5/10 g0v x CCSP 支持松】行前通知"
 tags: hackpad
 ---
 
-# 【5/10 g0v x CCSP 支持松】行前通知
+# 2014〔支持松〕無限期支持 g0v 支持 CCSP Hackathon
 
 > [點此觀看原始內容](https://g0v.hackpad.tw/IIpgM0i56JC)
 
+## 〔支持松〕無限期支持 g0v 支持 CCSP Hackathon
+
+報名網址：https://ccsp.kktix.cc/events/hackathon
+
+今年台大資工 CCSP 課程和 g0v 合作教學課程，並且將在 5/10 舉辦大型 Hackathon，邀請 42 位 g0v 社群夥伴與 NGO 的隊伍們，和 CCSP 的 75 位同學 (專案列表) 一起 hack the society。
+
+CCSP hackathon 和 g0v 大型黑客松不太一樣的地方是：
+從 9 am 一路 hack 到 9 pm。
+沒有自我介紹、沒有提案時間，到場即開幹，做到報告時間前。
+隊伍報名制，希望大家都能帶著自己的坑來填。
+第八次 g0v 大型黑客松後意猶未盡嗎？是不是還有很多坑還沒填平呢？這裡備好了食物，就等你來戰！
+
+---
+
+## 【5/10 g0v x CCSP 支持松】行前通知
 
 Hello g0v Contributors,
 
