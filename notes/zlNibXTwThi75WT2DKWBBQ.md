@@ -210,5 +210,28 @@ SELECT MIN(`salary`) FROM `employee`;
 ## 萬用字元(wildcards)
 * %代表多個字元，_代表一個字元
 ```
+1.取得電話尾數是391的客戶
+SELECT *
+FROM `client`
+WHERE `phone` LIKE `%391`;
+2.取得姓'艾'的客戶
+SELECT *
+FROM `client`
+WHERE `client_name` LIKE `艾%`;
+3.取得生日在1月的客戶
+SELECT *
+FROM `client`
+WHERE `birth_date` LIKE `_____12%`;
+```
+## 聯集Union(合併內容)
+```
+1.員工名字union客戶名字
+SELECT `name`
+FROM `employee`
+UNION
+SELECT `client_name`
 
 ```
+
+
+
