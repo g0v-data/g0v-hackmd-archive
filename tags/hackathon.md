@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [來寫一個小白都會用的Meshtastic App吧!](../notes/llJ-2URzRfyeZ6nwNqPv5Q.md) | 2024-08-31T14:00:49+08:00 | 2024-08-31T13:59:19+08:00 |
-| 2 | [DigiResiTh9n 第玖次數位韌性松](../notes/MouuawY4S5SRLtBYG1QIbQ.md) | 2024-08-31T13:58:59+08:00 | 2024-08-27T19:11:20+08:00 |
+| 1 | [來寫一個小白都會用的Meshtastic App吧!](../notes/llJ-2URzRfyeZ6nwNqPv5Q.md) | 2024-08-31T14:37:09+08:00 | 2024-08-31T13:59:19+08:00 |
+| 2 | [DigiResiTh9n 第玖次數位韌性松](../notes/MouuawY4S5SRLtBYG1QIbQ.md) | 2024-08-31T14:06:01+08:00 | 2024-08-27T19:11:20+08:00 |
 | 3 | [Rand0mTh8n with g0v Jothon｜與揪松的第捌次放輕松](../notes/RuhCfavuRkKWYL63Gv9wQg.md) | 2024-08-27T21:30:25+08:00 | 2024-08-14T19:54:20+08:00 |
 | 4 | [g0v DigiResiThon 數位韌性松大全](../notes/mGQcbKRDShmvyeGV74w_0w.md) | 2024-08-27T19:57:41+08:00 | 2023-10-21T11:52:33+08:00 |
 | 5 | [Rand0mTh0n with g0v Jothon｜與揪松的第零次放輕松](../notes/qzELuqNARKKBjWr2mIiY8A.md) | 2024-08-27T19:00:37+08:00 | 2024-04-25T01:07:33+08:00 |
