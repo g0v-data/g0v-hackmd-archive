@@ -22,20 +22,22 @@ ___
 **字根字首**
 
 chron = time
-* **chron**ologic
-* syn**chron**ize
+* **chron**ologic 時序的
+* syn**chron**ize 對時
 
 syn = together
-* photo**syn**theis
+* photo**syn**theis 光合作用
 
 pre = 前
 
 cess/ceed/ced = go
-* unprecedented 前所未有的
-* process 過程
+* unpre**ced**ented 前所未有的
+* pro**cess** 過程
+* pro**ceed** 前行
 
-eliminate
-eradicate
+sur = 表面
+* **sur**vey course 概論課 
+* **sur**face
 
 格林法則-語言傳播會讓詞語漸漸相近
 1.母音可以互換 aeiou(yw)
@@ -48,6 +50,7 @@ eradicate
 3.b p m f
 4.d t l n r
 5.u=v=w
+* eliminate eradica
 
 
 
