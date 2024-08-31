@@ -11,7 +11,7 @@ title: 來寫一個小白都會用的Meshtastic App吧！開發日誌
 - **建置開發環境**：到[這裡](https://developer.android.com/studio?hl=zh-tw)下載安裝包，之後都是下一步下一步就是了。
     > 我虛擬機裝的Android 11，因為沒有這版本的實體機，不確定全部功能都能否使用。[name=minexo79]
 - **新增打招呼快捷按鈕**：利用原有的QuickChat功能，在「第一次」開啟App的時候新增預設按鈕。
-    > 第一次寫Kotlin就上手，在此之前我都沒有寫過XD [name=minexo79]
+    > 這是我第一次寫Kotlin就上手，在此之前我都沒有寫過XD [name=minexo79]
 
 ## Meshtastic Android Build 
 以下節錄自[Building the Android App - Meshtastic.org Docs](https://meshtastic.org/docs/development/android/)
@@ -68,3 +68,6 @@ suspend fun initTaiwaneseGreetQuickChat()
     quickChatActionRepository.insert(QuickChatAction(0, "敷衍他", "喔好喔", QuickChatAction.Mode.Instant, 0))
 }
 ```
+
+## Result
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3e4e44241aa9052e9157b4939cc6e38c.png)
