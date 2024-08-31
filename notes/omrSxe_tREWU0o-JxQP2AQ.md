@@ -11,8 +11,8 @@
 ---
 **考點**
 
-1.不考細節題
-2.否定極為考點
+1.不考細節題(除了極小部分)
+2.否定即為考點
 3.專家/學者為考點
 4.***老師聊天舉例必考一題***
 5.一問一答即為考點
@@ -42,15 +42,15 @@ sur = 表面
 格林法則-語言傳播會讓詞語漸漸相近
 1.母音可以互換 aeiou(yw)
 2.
-  p/b
-  t/d
-  c,k / q
-  s/z
-  f/v
+
+| p | t | c, k | s | f |
+| -------- | -------- | -------- |---|-|-|
+| b | d | q    | z | v|
+
 3.b p m f
 4.d t l n r
-5.u=v=w
-* eliminate eradica
+5.u = v = w
+* eliminate <=> eradicate
 
 
 
@@ -60,6 +60,14 @@ sur = 表面
 
 ---
 **不錯的口說模板**
+
+
+三.
+ 
+1. The professor in the lecture is mainly talking about Q
+2. There are 2 Ns
+3. Let's look at the first explanation, S V / eq SV SV
+4. Let's move onto the 2nd explanation S V / eq SV 
 
 ___
 **同/反義詞**
