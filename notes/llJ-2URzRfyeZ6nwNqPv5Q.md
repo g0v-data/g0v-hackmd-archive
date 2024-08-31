@@ -1,8 +1,9 @@
 ---
 tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense, meshtastic
-title: 來寫一個小白都會用的Meshtastic App吧!
+image: https://adrelien.com/blog/content/images/2024/02/meshtastic.png
+title: 來寫一個小白都會用的Meshtastic App吧！
 ---
-# 來寫一個小白都會用的Meshtastic App吧!
+# 來寫一個小白都會用的Meshtastic App吧！
 [TOC]
 
 # 目標
@@ -22,6 +23,7 @@ title: 來寫一個小白都會用的Meshtastic App吧!
 
 
 # References
+- [來寫一個小白都會用的Meshtastic App吧！開發日誌](https://g0v.hackmd.io/@p67lFFqtTnGklLHhtDWz-A/r1GbiUehR)
 - [Meshtastic BLE Protocol](https://hackmd.io/@minexo79/meshtastic-protocol)
-- [Meshtastic.org Developer Docs](https://meshtastic.org/docs/developers/)
+- [Developer - Meshtastic.org Docs](https://meshtastic.org/docs/developers/)
 - [Meshtastic-Android Git Repos](https://github.com/meshtastic/Meshtastic-Android)

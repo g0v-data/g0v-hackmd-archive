@@ -1,15 +1,15 @@
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cypress vs Selenium vs Playwright: The Best Automated-Testing Tool</title>
-    <meta name="description" content="Compare Cypress, Selenium, and Playwright to find the best automated testing tool for your frontend web applications. Discover the strengths and weaknesses of each tool.">
+    <meta name="description" content="Compare Cypress, Selenium, and Playwright to find the best automated testing tool for your frontend web applications. Discover the strengths and weaknesses of each tool."
+    ``
 </head>
 <body>
-     <h1>Cypress vs Selenium vs Playwright: The Best Automated-Testing Tool</h1>
+ <h1>Cypress vs Selenium vs Playwright: The Best Automated-Testing Tool</h1>
     <p>Automation testing is a software testing methodology where tests are executed automatically using tools or scripts. Automated testing differs from Manual testing because Manual testing requires the presence of an human tester to verify the overall performance of a system. Automated testing tools have two major components: a Test runner and a Tracking agent. The test runner runs the test from a command (or button click) while the tracking agent keeps track of passing and failing tests. These Automated testing tools apply to different types of software testing types which include unit, integration, and end-to-end (e2e) testing.
     <br><br>
     When it comes to frontend testing of web applications, one can choose to test the code or test an end user's behavior while using the app. One can gain more value testing a user's behavior because it doesn't focus on implementation details. This is a form of e2e testing, and there are several tools for carrying out such testing. These include Cypress, Selenium, and Playwright. This article compares these three Automated testing tools using metrics such as Browser Support, Language Support, Ease of setup, and Performance. This comparison aims to help you choose the best tool for your use-case. </p>
