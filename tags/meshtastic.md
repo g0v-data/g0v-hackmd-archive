@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [來寫一個小白都會用的Meshtastic App吧!](../notes/llJ-2URzRfyeZ6nwNqPv5Q.md) | 2024-08-31T14:37:09+08:00 | 2024-08-31T13:59:19+08:00 |
+| 1 | [來寫一個小白都會用的Meshtastic App吧!](../notes/llJ-2URzRfyeZ6nwNqPv5Q.md) | 2024-08-31T15:31:40+08:00 | 2024-08-31T13:59:19+08:00 |
 | 2 | [Meshtastic / DigiResiThon](../notes/0bR8-LvHRMaNaR97YaXpnQ.md) | 2024-05-16T10:41:55+08:00 | 2023-12-30T15:20:27+08:00 |
 | 3 | [寫給對於還不熟悉 Meshtastic 的朋友 / DigiResiTh0n](../notes/V8ozO9RQS4ieWC1th3fleg.md) | 2024-04-27T16:52:55+08:00 | 2024-04-27T16:44:12+08:00 |
 | 4 | [台灣鏈網 Meshtastic / DigiResiTh0n](../notes/ZGuA7fUZQi-fbD06EenmGQ.md) | 2024-04-27T16:46:13+08:00 | 2024-04-27T16:13:59+08:00 |

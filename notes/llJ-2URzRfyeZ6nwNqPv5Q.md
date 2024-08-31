@@ -17,8 +17,6 @@ title: 來寫一個小白都會用的Meshtastic App吧!
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_50622583dfa9bee2fbdab27f25b4eb23.png)
 
 ## 主介面
-- 歡迎大家騷擾我www ~~(誤~~
-
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_99fc437ea2541ed0897f73a0fbddc335.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7a344c3eff6e6e0283e3da244461e713.png)
 
