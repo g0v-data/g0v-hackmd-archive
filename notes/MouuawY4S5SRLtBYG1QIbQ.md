@@ -30,7 +30,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 - 提前加入線上聊天室！
     - 加入 [Slack 線上討論區](https://g0v.hackmd.io/fKrjZ3BlRfWmQ471wcSdBg) (辦帳號超快超簡單）
     - 安裝好後再點[ #civil-defense 頻道](https://app.slack.com/client/T02G2SXKM/C056EHM42B1)
-- 線上遠端與會連結 [請點此](https://meet.jit.si/g0v-digiresi)
+- 線上遠端與會連結 [請點此](https://jitsi.ocf.tw/g0v-digiresi)
 - [大合照！（連結待補）]()
 - [簡介數位韌性松資訊](https://gamma.app/public/-k2mshk2q40b53ck)
 :::
@@ -50,6 +50,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
 | g0v meshtastic 頻道 | paul | - 開 g0v-general 頻道在 meshtastic 上 - 研究 NCC 無線電執照 - 研究 EMT-1 執照 - meshtastic 連線安全 - 設計數位韌性松 meshtastic 練習團 |
+|第一次組 Mashtastic 就上手 | Amos | (13：30開始) 提案人剛買了一份組裝套件，但目前找不到完整的文字組裝教學。希望今天可以在組裝的同時，完成一份新手組裝 step by step 的說明，讓後續入手的小白可以無痛上手。  想找的人： 1)有組裝經驗的技術指導 2)文件共編者 |
 | insert content here | insert name here | insert content here |
 
 
