@@ -279,11 +279,11 @@ WHERE `emp_id` IN(
     FROM `work_withs`
     WHERE `total_sales` > '50000'
 );
-
-## ON DELETE
-
-
 ```
+## ON DELETE SET NULL vs ON DELETE CASCADE
+*ON DELETE SET NULL:
+在需要將資料刪除的情況下，連結的對應值會自動設為NULL
 
-
+*ON DELETE CASCADE:
+在需要將資料刪除的情況下，連結的對應值會跟著刪除
 
