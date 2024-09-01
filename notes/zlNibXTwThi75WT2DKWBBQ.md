@@ -259,5 +259,11 @@ SELECT *
 FROM `employee` JOIN `branch` #LEFT(RIGHT) JOIN不論條件是否成立，皆列出JOIN右(左)邊的表格內容
 ON `employee`.`emp_id` = `branch`.`manager_id` #設置的條件及指定表單
 ```
+## Subquery子查詢
+```
+1.找出所有部門的經理名字
+2.找出對單一客戶銷售額超過50000的員工名字
+```
+
 
 
