@@ -15,6 +15,7 @@ tags: GIS
     - https://www.tcsb.gov.tw/cp-28-4242-8fdf7-1.html
 - 聲音與 ndvi
     - https://www.facebook.com/story.php?story_fbid=pfbid02mgS1vj8LKjQZAcWuVNEc1kEEWpLZb8tnvu4w2VGJeYu8rP1kGiqr1LS81pkvNNpl&id=889701534373509
+- Landsat 衛星影像，拼出自己的名字 https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/
 - 國家太空中心製作的介紹與教學影片
     - https://www.nspo.narl.org.tw/activity/tsh2021/#7
     - 線上課程：
