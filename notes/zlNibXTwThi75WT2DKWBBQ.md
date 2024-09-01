@@ -271,8 +271,18 @@ WHERE `branch_id` = (
 );
 
 2.找出對單一客戶銷售額超過50000的員工名字
-SELECT `total_sales`
-FROM ``
+*多筆資料的情況下用IN
+SELECT `name`
+FROM `employee`
+WHERE `emp_id` IN(
+    SELECT `emp_id`
+    FROM `work_withs`
+    WHERE `total_sales` > '50000'
+);
+
+## ON DELETE
+
+
 ```
 
 
