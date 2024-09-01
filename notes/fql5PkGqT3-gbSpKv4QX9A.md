@@ -11,7 +11,7 @@ tags: GIS, Issue-Mapping, Open Street Map
 
 - 有個地圖給帶 baby 出門的人知道哪裡有方便哺餵小朋友的設施
 - 2024.07 討論串 https://www.facebook.com/share/p/g79RP5UEa6LUS4kM/
-- 2024.08 [北鼻趴趴走 Project](https://www.notion.so/3668351ca6464df887d1fbd6dbc3c0b6?pvs=4)
+- 2024.08 [北鼻趴趴走 Project](https://tree-cornflower-293.notion.site/3668351ca6464df887d1fbd6dbc3c0b6?pvs=4)
 
 開了Notion，歡迎大家來協作
 
