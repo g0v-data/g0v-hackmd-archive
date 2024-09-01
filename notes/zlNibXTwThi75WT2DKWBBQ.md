@@ -261,8 +261,18 @@ ON `employee`.`emp_id` = `branch`.`manager_id` #設置的條件及指定表單
 ```
 ## Subquery子查詢
 ```
-1.找出所有部門的經理名字
+1.找出研發部門的經理名字
+SELECT `name`
+FROM `employee`
+WHERE `branch_id` = (
+    SELECT `manager_id`
+    FROM `branch`
+    WHERE `branch_name` = `研發`
+);
+
 2.找出對單一客戶銷售額超過50000的員工名字
+SELECT `total_sales`
+FROM ``
 ```
 
 
