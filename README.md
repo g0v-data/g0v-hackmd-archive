@@ -2,7 +2,7 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 13839 | 2024-09-01T20:47:43+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 13850 | 2024-09-01T21:35:11+08:00 |
 | [cofacts](tags/cofacts.md) | 456 | 2024-09-01T13:41:16+08:00 |
 | [meeting note](tags/meeting%20note.md) | 280 | 2024-09-01T13:41:16+08:00 |
 | [digital-resilience](tags/digital-resilience.md) | 41 | 2024-08-31T17:04:18+08:00 |
