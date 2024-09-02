@@ -81,6 +81,7 @@ LIMIT 3;
 ```
 *在創建上，會由於其他表還沒創立，Foreign Key會需要再補上
 #Employee
+USE `db_name`; #設定使用哪個db
 CREATE TABLE `employee`(
     `emp_id` INT PRIMARY KEY,
     `name` VARCHAR(20),
