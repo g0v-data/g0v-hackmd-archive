@@ -80,3 +80,9 @@ Questions
     - Do we need to handle or record them?
 - Backfill (archiving old URLs)?
     - Can directly backfill using `article_hyperlinks` or `replies_hyperlinks` in HuggingFace dataset
+
+## Open165 license
+
+
+## ＧＡＩ的教學
+By Conrad ++https://docs.google.com/presentation/d/1inqEXQ1zHySQQMt9EYDGyqbVhzRF9jOzEEmn64jASgM/edit#slide=id.p
