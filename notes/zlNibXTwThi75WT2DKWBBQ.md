@@ -30,7 +30,7 @@ CREATE TABLE `database`(
 #展示表格
 DESCRIBE `student`;
 #刪除表格
-DROP TBLE `student`;
+DROP TABLE `student`;
 #新增欄位，DECIMAL是位數的設定
 ALTER TABLE `student` ADD `gpa` DECIMAL(3,2);
 #刪除欄位
@@ -124,9 +124,9 @@ CREATE TABLE `works_with`(
     `clint_id` INT,
     `total_sales` INT,
     PRIMARY KEY(`emp_id`, `clint_id`),
-    FOREIGN KEY (`emp_id`) REFERENCES `employee`(`emp_id`) ON DELETE SET NULL,
+    FOREIGN KEY (`emp_id`) REFERENCES `employee`(`emp_id`) ON DELETE CASCADE,
     PRIMARY KEY(`emp_id`, `clint_id`),
-    FOREIGN KEY (`client_id`) REFERENCES `client`(`client_id`) ON DELETE SET NULL
+    FOREIGN KEY (`client_id`) REFERENCES `client`(`client_id`) ON CASCADE
 );
 
 #insert data
