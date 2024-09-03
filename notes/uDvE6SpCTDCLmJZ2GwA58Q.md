@@ -45,9 +45,9 @@ tags: 新生流域
 - 歷史地圖https://www.facebook.com/share/p/ZHmx9jxcTKPgYpad/
 - 重劃區
     - https://www.facebook.com/groups/582154450196478/posts/852093193202601/
+    - https://epaper.land.gov.taipei/Item/Detail/%E5%B9%B3%E5%9D%87%E5%9C%B0%E6%AC%8A%E5%9F%BA%E9%87%91%E3%80%81%E9%87%8D%E5%8A%83%E7%9B%88%E9%A4%98%E6%AC%BE%E5%9F%BA%E9%87%91%E5%A4%A7%E4%B8%8D%E5%90%8C
     - 市區改正範圍、臺北城內市區計畫、城外南方市區計畫、東門
         - 劃出範圍？
-    - 八田與一 幸町住所 https://www.facebook.com/share/p/u4c9XGGv8MQVnF4s/
     - 日治時期的重劃區：1937 御成町重劃區、1938 幸町重劃區、1939 敕使街道沿線重劃區、1942 第三高女附近重劃區、1943 水道町重劃區、1943 三張犁道路沿線重劃區，翻拍來源《臺北市近代都市之建構》
     - 國民政府時期的重劃區，可以查詢線上地圖　
         - https://easymap.land.moi.gov.tw/W10Web/Normal
@@ -66,6 +66,7 @@ tags: 新生流域
     - 建成圓環 消防用水池 https://www.facebook.com/share/p/uqGJRaPAVASBqwx2/
     - 台博館南門園區 消防用水池
     - 建國啤酒廠 影片中有說明深水井 https://youtu.be/_zFV6AQF0jc
+    - 八田與一 幸町住所 https://www.facebook.com/share/p/u4c9XGGv8MQVnF4s/
     - 1933 臺北市大觀
         - https://www.facebook.com/photo?fbid=885845619797769&set=a.113042847078054
     - 延平基督教會，直轄市定古蹟 1937年創建
