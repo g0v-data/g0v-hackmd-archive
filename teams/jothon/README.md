@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [community99](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2021-03-09T13:12:37+08:00 | Book mode |
 | [community99-2409](../../notes/nEmVgrXgSImdn_n5VisnyQ.md) | g0v 社群每月九分鐘 - 2024/9 | 2024-09-03T16:53:35+08:00 | View mode |
 | [community99-2408](../../notes/4fyefBWqRduk68-hREjytA.md) | g0v 社群每月九分鐘 - 2024/8 | 2024-08-06T11:43:26+08:00 | View mode |
 | [jothon2024](../../notes/8_z1xqCwQH-np8Zu9iBOkw.md) | g0v 揪松團 2024 年活動行事曆 | 2023-11-29T12:10:06+08:00 | View mode |
@@ -38,7 +39,6 @@
 | [Hy9ilrj9C](../../notes/7Gz_csFQQzquBoY3eIfn6A.md) | 1-1 「g0v 台湾零時政府」とは何か？｜g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-15T16:47:30+08:00 | View mode |
 | [community99-2407](../../notes/wONZvhHVSluE8IEq9x7n_Q.md) | g0v 社群每月九分鐘 - 2024/7 | 2024-07-01T14:23:28+08:00 | View mode |
 | [hackathon-name](../../notes/zyPgR_H6QwWBBgGXA6DYEA.md) | 大松命名 Bookmode | 2024-05-14T18:26:36+08:00 | Book mode |
-| [community99](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2021-03-09T13:12:37+08:00 | Book mode |
 | [SJ_FsojdC](../../notes/r0vbhhJ5R6uKVLo5yXmf_A.md) | 語言盤點 | 2024-07-22T17:50:55+08:00 | View mode |
 | [S1fCA0ZOC](../../notes/8Qa19IlZS9aSQpPp2J9Z4g.md) | 2024.10/26-10/27 MOPCON｜評估申請攤位 | 2024-07-15T07:27:05+08:00 | View mode |
 | [r1316tOBA](../../notes/ybV7nNAcS6yK8Wlde9b7fQ.md) | g0v hackath62n - 第陸拾貳次帶我去月球黑客松 | 2024-06-13T23:14:43+08:00 | View mode |
