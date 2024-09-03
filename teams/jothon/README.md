@@ -2,6 +2,10 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [community99-2409](../../notes/nEmVgrXgSImdn_n5VisnyQ.md) | g0v 社群每月九分鐘 - 2024/9 | 2024-09-03T16:53:35+08:00 | View mode |
+| [community99-2408](../../notes/4fyefBWqRduk68-hREjytA.md) | g0v 社群每月九分鐘 - 2024/8 | 2024-08-06T11:43:26+08:00 | View mode |
+| [jothon2024](../../notes/8_z1xqCwQH-np8Zu9iBOkw.md) | g0v 揪松團 2024 年活動行事曆 | 2023-11-29T12:10:06+08:00 | View mode |
+| [afterg0vhackathon](../../notes/5RN9ZHUBRqKdYDo3Vod5_g.md) | g0v 松後推坑 | 2021-01-29T14:58:21+08:00 | Book mode |
 | [HJmFmRKjA](../../notes/aJl4n6ubRau4dme6mc0Grg.md) | g0v hackath63n - 第陸拾參次公民科技園遊會黑客松 | 2024-08-26T18:05:46+08:00 | View mode |
 | [hsiaothon](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 社群 @ NPO Hub 小松果 | 2019-09-24T18:12:17+08:00 | Book mode |
 | [H1_B6j-9R](../../notes/nCOd0CmwSXKqdjjhA_JGFQ.md) | 2024 夏日線上源力增能營結業式 x 提案工作坊 | 2024-08-08T10:28:16+08:00 | View mode |
@@ -32,7 +36,6 @@
 | [H1WiYro5C](../../notes/SS4GWu-6QEWbyol9aBXI6A.md) | 1-2 g0vコミュニティの運営 ｜g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-15T17:25:45+08:00 | View mode |
 | [Hyi1urjqR](../../notes/RNxztA_FTfexzXQfBgQIxg.md) | はじめに ｜ g0v シビックテックプロジェクトとコミュニティの手引き｜Civic Tech Project Handbook | 2024-08-15T17:18:26+08:00 | View mode |
 | [Hy9ilrj9C](../../notes/7Gz_csFQQzquBoY3eIfn6A.md) | 1-1 「g0v 台湾零時政府」とは何か？｜g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-15T16:47:30+08:00 | View mode |
-| [community99-2408](../../notes/4fyefBWqRduk68-hREjytA.md) | g0v 社群每月九分鐘 - 2024/8 | 2024-08-06T11:43:26+08:00 | View mode |
 | [community99-2407](../../notes/wONZvhHVSluE8IEq9x7n_Q.md) | g0v 社群每月九分鐘 - 2024/7 | 2024-07-01T14:23:28+08:00 | View mode |
 | [hackathon-name](../../notes/zyPgR_H6QwWBBgGXA6DYEA.md) | 大松命名 Bookmode | 2024-05-14T18:26:36+08:00 | Book mode |
 | [community99](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2021-03-09T13:12:37+08:00 | Book mode |
@@ -52,13 +55,11 @@
 | [B1Rk7n1wR](../../notes/UlRKaVYjQ6a80SbOgJc7QQ.md) | g0v Hackath62n 活動流程 | 2024-07-01T12:39:01+08:00 | View mode |
 | [ByC3rncXo](../../notes/zO93zgP8T0GW_lodRjLCNQ.md) | 【2020 年度獲獎團隊：CBFHSS 專為高中生設計的管家型聊天機器人】自己的教育科技自己做，高中生打造線上版聯絡簿 | 2022-10-17T19:00:06+08:00 | View mode |
 | [HJTzQ6AP2](../../notes/NWW6B1LLSlyj0QUL9YPCQg.md) | g0v 揪松團相關活動性騷擾事件之處理機制 | 2023-06-20T14:11:32+08:00 | View mode |
-| [jothon2024](../../notes/8_z1xqCwQH-np8Zu9iBOkw.md) | g0v 揪松團 2024 年活動行事曆 | 2023-11-29T12:10:06+08:00 | View mode |
 | [BkoftovBC](../../notes/hE24Qa-xQEaNcMqn_mFoBg.md) | 常見問題 | 2024-06-13T07:02:42+08:00 | View mode |
 | [forms-of-government](../../notes/VitikKuFSkGftcdBsJ_VBw.md) | g0v 專案與社群行動依憲政五院部會架構 | 2024-05-21T22:51:14+08:00 | Book mode |
 | [H1uK2FC4C](../../notes/lydFoJhcQNKM_6dw1PWcCg.md) | g0v 小松哈啦電台 | 2024-06-06T09:10:23+08:00 | View mode |
 | [BJDfgwvDr](../../notes/UIsjQ30LTFiThPmfa8UeAw.md) | g0v jothon @ NPO Hub 簡介 | 2019-09-24T17:21:18+08:00 | Edit mode |
 | [SJupwNzl0](../../notes/PKsrGCqTTh6LzODfHRsU_Q.md) | g0v Hackath60n 第陸拾壹次龍來 Open Data Day 黑客松 松後推坑 | 2024-04-09T11:36:31+08:00 | View mode |
-| [afterg0vhackathon](../../notes/5RN9ZHUBRqKdYDo3Vod5_g.md) | g0v 松後推坑 | 2021-01-29T14:58:21+08:00 | Book mode |
 | [NPOHub-rules](../../notes/BNHyH7ESSxSlu12BV2U9TQ.md) | NPO Hub 場地租借規則 | 2019-08-30T14:02:57+08:00 | View mode |
 | [community99-2403](../../notes/vSK4TgqcR7S8Ldbuz7AQDg.md) | g0v 社群每月九分鐘 - 2024/02-03 | 2024-04-01T15:39:10+08:00 | View mode |
 | [community99-2401](../../notes/QV2XzqCvSWaa2sVxk9s2Eg.md) | g0v 社群每月九分鐘 - 2024/1 | 2024-02-02T16:51:01+08:00 | View mode |
