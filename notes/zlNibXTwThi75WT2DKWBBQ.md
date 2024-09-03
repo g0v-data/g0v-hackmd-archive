@@ -143,18 +143,18 @@ INSERT INTO `employee`
 VALUES
 (206,'小黃','1998-10-08','F',50000,1,NULL),
 (207,'小綠','1923-11-20','M',29000,2,206),
-(206,'小黑','1987-03-06','F',35000,3,206),
-(206,'小白','1945-04-06','M',39000,3,207),
-(206,'小藍','1999-01-01','F',84000,1,207);
+(208,'小黑','1987-03-06','F',35000,3,206),
+(209,'小白','1945-04-06','M',39000,3,207),
+(210,'小藍','1999-01-01','F',84000,1,207);
 
 #將branch原本因為FOREIGN KEY而輸入NULL的值，改回來
 UPDATE `branch`
-SET `manager_id` = CASE id
-    WHEN 1 THEN `206`
-    WHEN 2 THEN `207`
-    WHEN 3 THEN `208`
+SET `manager_id` = CASE `manager_id`
+    WHEN 1 THEN '206'
+    WHEN 2 THEN '207'
+    WHEN 3 THEN '208'
 END
-WHERE id IN(1,2,3);
+WHERE `manager_id` IN(1,2,3);
 
 #insert client data
 INSERT INTO `client`
@@ -167,7 +167,7 @@ VALUES
 (404, '艾瑞克', '134081084');
 
 #insert sales data
-INSERT INTO `work_withs`
+INSERT INTO `works_with`
 (emp_id, client_id, total_sales)
 VALUES
 (206, '400', '70000'),
