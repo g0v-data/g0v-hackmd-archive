@@ -447,6 +447,9 @@ https://data.gov.tw/dataset/5969
         - 類型二：暫居過夜收容
             - 其中並非收容所既有資料的地點：月光寺、和中收容所
 
+體驗活動 https://www.facebook.com/share/p/Fcka1nw7aNuTXtfS/
+
+
 ### 【TW 臺灣】Air Raid Shelter / 防空ごう / 민방위대피소 / 防空避難處所
 
 用詞：
