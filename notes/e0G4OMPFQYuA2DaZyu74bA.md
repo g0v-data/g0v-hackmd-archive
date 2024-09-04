@@ -7,6 +7,7 @@ vTaiwan 工作組 Working Group
 ===
 - [vTaiwan工作組 General Info](/f9c4pS_TQjClh0g6wCJ8iw)
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
+- [vTaiwan 活動日程表](/QS1fVOHaQv69wAOw3psZeg)
 - [對外介紹：一起vTaiwan!](https://docs.google.com/presentation/d/1nAEBAbF7dTW0itIMp2JX-yapf6N3sILowZ721zZTTaQ/edit?usp=sharing)
 - [vTaiwan 網站](https://vtaiwan.tw/)
 - [vTaiwan info page](http://info.vtaiwan.tw/)
@@ -92,7 +93,7 @@ community governance
 
 2024 小松紀錄 2024 Weekly Meetup
 ----
-
+- [0911小松](/2NEdqJ_7Rt2YyIVzcpznhQ)
 - [0904小松](/M-BStGLhTbSQnoKPN6vKOw)
 - [0828小松](/3UDGkwNSRbKpOIIkfuUvtA)
 - [0821 小松](/GixpbzoDR8WDtybst3aD-Q)
