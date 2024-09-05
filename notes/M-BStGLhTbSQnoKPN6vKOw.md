@@ -83,6 +83,7 @@ tags: vtaiwan
 - 需要討論的部分
 - 有機會爭取到小英基金會的贊助，所以要討論看看活動費用的部分。
 - TWNIC 合作 [name=翊婷]
+    - [vtaiwan 與TWNIC 合作](/g4UGYbeLSt2hfkXhBCLPOg)
     - 與 TWNIC 合作，舉辦網路的意見徵集與討論
         - TWNIC：具有官方性質。
         - 需求：網路政策建議的白皮書，可以透過審議方式來收集意見。
