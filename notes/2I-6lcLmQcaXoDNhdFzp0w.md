@@ -30,7 +30,9 @@ tags: 都市農耕
 - 日本
     - https://m.facebook.com/story.php?story_fbid=pfbid02txoc3579yrm9HxfbZ6Tj4NdrR1Z8v9RndnhRqaw6QJGZoPUUmiSamw9zUou64yALl&id=143709675693636
     - https://fb.watch/gzBm7a7S7E/
-- 德國，廣場 https://www.facebook.com/share/p/2v8uGQYoMKdrEayn/
+- 德國，廣場
+    - https://www.facebook.com/share/p/2v8uGQYoMKdrEayn/
+    - https://www.luebeck-tourismus.de/altstadt/poi/uebergangsgarten
 - 加拿大 超市屋頂農耕
     - https://www.upworthy.com/amp/canadian-grocery-store-sells-produce-from-ooftop-garden-2646202425
 - 加拿大 住宅 屋頂農園
