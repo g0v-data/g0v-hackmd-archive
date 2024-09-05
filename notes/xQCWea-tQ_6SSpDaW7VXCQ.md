@@ -108,4 +108,6 @@ public class ReadDbPropertiesPostConfig implements EnvironmentPostProcessor {
 }
 
 
-****
+**建立spring.factories**
+#配置讀DB資料轉propertis物件
+org.springframework.boot.env.EnvironmentPostProcessor = tw.com.chubb.life.system.config.ReadDbPropertiesPostConfig
