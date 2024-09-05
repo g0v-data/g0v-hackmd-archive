@@ -19,6 +19,11 @@ https://www.2024fsc-antiscam.com/event
 詐騙模擬器，總統盃黑客松的提案，待確認是否有公開網頁「我們與詐的距離」
 https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 
+詐騙包裹
+https://www.facebook.com/share/p/EMchXKigV3jGpFv3/
+https://dlacp.gov.taipei/cp.aspx?n=2DE8CDCF6C2A7528
+https://help.shopmore.com.tw/#
+
 ## 個案經驗蒐集
 - 2024 專書 https://www.facebook.com/share/p/JnsrhB4d54j2AUGy/
 - 2024 電話，對方唸出完整正確的身分證字號 https://www.facebook.com/share/p/UAtnFG6hTJf2ya2H/
