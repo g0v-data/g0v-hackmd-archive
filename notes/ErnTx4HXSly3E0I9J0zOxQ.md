@@ -578,6 +578,14 @@ https://g0v.hackmd.io/X8mWlCWIRkOfCIhTjp1oLA?view
 公園與開放空間增加
 - 路口斜向的連續行人用地
 
+## 檢視行人路徑的日間遮蔭程度
+
+案例照片蒐集相簿
+https://photos.app.goo.gl/BAumLMXn12wD9qmp9
+
+建築日照分析可以用
+https://3dmaps.nlsc.gov.tw/
+
 
 ## 特定街區
 
