@@ -1,0 +1,59 @@
+<p class="zfr3Q CDt4Ke " dir="ltr"><span class="C9DxTc "><img src="https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/458207125_122093453042522433_7704606907166018820_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=cc71e4&amp;_nc_ohc=YnhHmTaHwv4Q7kNvgHqPbIv&amp;_nc_ht=scontent-ham3-1.xx&amp;oh=00_AYDZOFKLfhatfqO6JTDURcM3OQ7IKtZAgGFM9guwOlM49A&amp;oe=66E0446C" alt="" width="864" height="288" /></span></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://abc8.cam/" target="_blank"><span class="C9DxTc ">ABC8</span></a><span class="C9DxTc ">&nbsp;l&agrave; nh&agrave; c&aacute;i c&aacute; cược trực tuyến h&agrave;ng đầu, cung cấp dịch vụ đa dạng các sản ph&acirc;̉m cá cược trực tuy&ecirc;̉n như: casino, bắn cá, n&ocirc;̉ hũ, đá gà, th&ecirc;̉ thao... Giao diện th&acirc;n thiện v&agrave; hệ thống bảo mật ưu tuy&ecirc;̣t đ&ocirc;́i, ABC88 mang đến trải nghiệm c&aacute; cược an to&agrave;n v&agrave; hấp dẫn. Đội ngũ hỗ trợ kh&aacute;ch h&agrave;ng sẵn s&agrave;ng 24/7 đảm bảo mỗi người chơi đều c&oacute; được sự chăm s&oacute;c tận t&igrave;nh v&agrave; cơ hội chiến thắng lớn.</span></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><strong><span class="C9DxTc ">Website</span></strong><span class="C9DxTc "><strong>:</strong>&nbsp;</span><a class="XqQF9c" href="https://abc8.cam/" target="_blank"><span class="C9DxTc ">https://abc8.cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><strong><span class="C9DxTc ">Địa chỉ</span></strong><span class="C9DxTc "><strong>:</strong> QPRM+22W, Khu phố 3, Thủ Đức, Hồ Ch&iacute; Minh&nbsp;</span></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><strong><span class="C9DxTc ">Email</span></strong><span class="C9DxTc "><strong>:</strong> abc8.cam@gmail.com</span></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><strong><span class="C9DxTc ">Phone</span></strong><span class="C9DxTc "><strong>:</strong> 0945696549</span></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><span class="C9DxTc ">#abc8, #abc8_com, #abc88, #nha_cai_abc8, #game_abc8</span></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><span class="C9DxTc "><img src="https://scontent-ham3-1.xx.fbcdn.net/v/t39.30808-6/458609014_3602685796543987_7181515579548557957_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=6ee11a&amp;_nc_ohc=0kf29HxDR-4Q7kNvgEWwUzX&amp;_nc_ht=scontent-ham3-1.xx&amp;oh=00_AYDiIMm5OuVu-lvQWtObsD8BP9Tm3M6O0y5ZOn465byMXA&amp;oe=66E04D77" alt="" width="303" height="303" /></span></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><strong><span class="C9DxTc ">Social</span></strong></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.facebook.com/abc8cam/" target="_blank"><span class="C9DxTc ">https://www.facebook.com/abc8cam/</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.youtube.com/@abc8cam" target="_blank"><span class="C9DxTc ">https://www.youtube.com/@abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://twitter.com/abc8cam" target="_blank"><span class="C9DxTc ">https://twitter.com/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.instagram.com/abc8cam/" target="_blank"><span class="C9DxTc ">https://www.instagram.com/abc8cam/</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.pinterest.com/abc8cam/" target="_blank"><span class="C9DxTc ">https://www.pinterest.com/abc8cam/</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://vimeo.com/abc8cam" target="_blank"><span class="C9DxTc ">https://vimeo.com/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://github.com/abc8cam" target="_blank"><span class="C9DxTc ">https://github.com/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.blogger.com/profile/17134135564686101692" target="_blank"><span class="C9DxTc ">https://www.blogger.com/profile/17134135564686101692</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://gravatar.com/abc8cam" target="_blank"><span class="C9DxTc ">https://gravatar.com/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://bit.ly/m/abc8cam" target="_blank"><span class="C9DxTc ">https://bit.ly/m/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.reddit.com/user/abc8cam/" target="_blank"><span class="C9DxTc ">https://www.reddit.com/user/abc8cam/</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://vi.gravatar.com/abc8cam" target="_blank"><span class="C9DxTc ">https://vi.gravatar.com/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://en.gravatar.com/abc8cam" target="_blank"><span class="C9DxTc ">https://en.gravatar.com/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.behance.net/abc8cam" target="_blank"><span class="C9DxTc ">https://www.behance.net/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://abc8cam.wordpress.com/" target="_blank"><span class="C9DxTc ">https://abc8cam.wordpress.com/</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://abc8cam.tumblr.com/" target="_blank"><span class="C9DxTc ">https://abc8cam.tumblr.com/</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://soundcloud.com/abc8cam" target="_blank"><span class="C9DxTc ">https://soundcloud.com/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.openstreetmap.org/user/ABC8%20CAM" target="_blank"><span class="C9DxTc ">https://www.openstreetmap.org/user/ABC8%20CAM</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://sites.google.com/view/abc8cam/" target="_blank"><span class="C9DxTc ">https://sites.google.com/view/abc8cam/</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://archive.org/details/@abc8cam" target="_blank"><span class="C9DxTc ">https://archive.org/details/@abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://b.hatena.ne.jp/abc8cam/bookmark" target="_blank"><span class="C9DxTc ">https://b.hatena.ne.jp/abc8cam/bookmark</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://profile.hatena.ne.jp/abc8cam/" target="_blank"><span class="C9DxTc ">https://profile.hatena.ne.jp/abc8cam/</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://draft.blogger.com/profile/17134135564686101692" target="_blank"><span class="C9DxTc ">https://draft.blogger.com/profile/17134135564686101692</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://issuu.com/abc8cam" target="_blank"><span class="C9DxTc ">https://issuu.com/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.twitch.tv/abc8cam/about" target="_blank"><span class="C9DxTc ">https://www.twitch.tv/abc8cam/about</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://myspace.com/abc8cam" target="_blank"><span class="C9DxTc ">https://myspace.com/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://gitlab.com/abc8cam" target="_blank"><span class="C9DxTc ">https://gitlab.com/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://disqus.com/by/abc8cam/about/" target="_blank"><span class="C9DxTc ">https://disqus.com/by/abc8cam/about/</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.houzz.com/pro/abc8cam/abc8-cam" target="_blank"><span class="C9DxTc ">https://www.houzz.com/pro/abc8cam/abc8-cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.kickstarter.com/profile/abc8cam/about" target="_blank"><span class="C9DxTc ">https://www.kickstarter.com/profile/abc8cam/about</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.pexels.com/@abc8-cam-1780182781/" target="_blank"><span class="C9DxTc ">https://www.pexels.com/@abc8-cam-1780182781/</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://500px.com/p/abc8cam" target="_blank"><span class="C9DxTc ">https://500px.com/p/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://hub.docker.com/u/abc8cam" target="_blank"><span class="C9DxTc ">https://hub.docker.com/u/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://ko-fi.com/abc8cam" target="_blank"><span class="C9DxTc ">https://ko-fi.com/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://orcid.org/0009-0002-8160-7391" target="_blank"><span class="C9DxTc ">https://orcid.org/0009-0002-8160-7391</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.aparat.com/abc8cam" target="_blank"><span class="C9DxTc ">https://www.aparat.com/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.threads.net/@abc8cam" target="_blank"><span class="C9DxTc ">https://www.threads.net/@abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://connect.garmin.com/modern/profile/b92fa8d7-7612-4bdb-8536-592224122482" target="_blank"><span class="C9DxTc ">https://connect.garmin.com/modern/profile/b92fa8d7-7612-4bdb-8536-592224122482</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://note.com/abc8cam/" target="_blank"><span class="C9DxTc ">https://note.com/abc8cam/</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://readthedocs.org/projects/abc8-cam/" target="_blank"><span class="C9DxTc ">https://readthedocs.org/projects/abc8-cam/</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.reverbnation.com/artist/abc8cam" target="_blank"><span class="C9DxTc ">https://www.reverbnation.com/artist/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://community.amd.com/t5/user/viewprofilepage/user-id/435473" target="_blank"><span class="C9DxTc ">https://community.amd.com/t5/user/viewprofilepage/user-id/435473</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.credly.com/users/abc8cam" target="_blank"><span class="C9DxTc ">https://www.credly.com/users/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://my.archdaily.com/us/@abc8-cam" target="_blank"><span class="C9DxTc ">https://my.archdaily.com/us/@abc8-cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://band.us/band/96116287/intro" target="_blank"><span class="C9DxTc ">https://band.us/band/96116287/intro</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.bark.com/en/us/company/abc8cam/o3lX9/" target="_blank"><span class="C9DxTc ">https://www.bark.com/en/us/company/abc8cam/o3lX9/</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://huggingface.co/abc8cam" target="_blank"><span class="C9DxTc ">https://huggingface.co/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://wakelet.com/@abc8cam" target="_blank"><span class="C9DxTc ">https://wakelet.com/@abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://slides.com/abc8cam" target="_blank"><span class="C9DxTc ">https://slides.com/abc8cam</span></a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><a class="XqQF9c" href="https://www.lexaloffle.com/bbs/?uid=105319" target="_blank"><span class="C9DxTc ">https://www.lexaloffle.com/bbs/?uid=105319</span></a></p>
