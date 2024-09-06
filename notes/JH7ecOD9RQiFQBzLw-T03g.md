@@ -3,6 +3,7 @@ tags: vtaiwan,dpsurvey
 ---
 # 整合介紹區
 - [OECD OPSI Driving innovation in civic participation 計畫](https://oecd-opsi.org/work-areas/emerging-tech-for-civic-participation/)
+- [democracy technologies](https://democracy-technologies.org/database/)
 - [50 Apps for Sensemaking & Deliberation in Your Organization](https://www.rndao.io/blog/post/50-apps-for-sensemaking-and-deliberation-in-your-organization)
 - [Joinplus 整理資料](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd?blocks=hide)
     - 0722 更新：可以利用資料：整理成果可以用 cc-by Joinplus 社群貢獻者標註
