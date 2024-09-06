@@ -25,6 +25,7 @@ image: https://raw.githubusercontent.com/g0v/style-guide/gh-pages/logo/png/g0v-l
 - [找國會資料經驗分享](/wpu8nBoKQM-KuHIPa13DoQ)
 
 ## 專案共筆區
+- [20240906 國會松討論](https://g0v.hackmd.io/5qBI6d2RQpe6T2WfWl1Vwg)
 - [2024開放國會行動方案](/8uTwZDmoR_yHT_Z-ahUYWw)
 
 ## 捐款支持 g0v 社群
