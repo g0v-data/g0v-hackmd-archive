@@ -115,6 +115,10 @@ tags: 預算,open spending
     - https://tsukubashi.spending.jp/
     - あなたがつくば市に納めた税金がどこで使われているかをお示しします
     - Appeared in 2012, Stopped after that
+- Cityvisor 
+    - https://cityvizor.cz/landing/o-nas
+    - https://github.com/cityvizor/cityvizor/
+
 
 開源工具：g0vtwbudget
 - Taiwan

@@ -59,13 +59,24 @@ Oculus GO，用內建瀏覽器開啟網頁
         - 例如用兩個單斜邊的梯形，應該就可以拼出一個有透視消點的地面
     - 1:20 的長條型色塊
         - 彈性使用
+    - 20240906 已上傳單色色塊
+        - https://github.com/SeanGau/city-collage/blob/main/app/static/source/000.png
+        - https://github.com/SeanGau/city-collage/blob/main/app/static/source/001.png
+        - https://github.com/SeanGau/city-collage/blob/main/app/static/source/002.png
+        - https://github.com/SeanGau/city-collage/blob/main/app/static/source/003.png
+        - 並且編輯「素材目錄文件」
+            - https://github.com/SeanGau/city-collage/blob/main/app/static/source/_category.yml
 
-### 發想區
+### 成果存檔與展示區
 
-成果
+- 2024.09.06 目前似乎物件的上下位置關係，沒有存到
+- [短期] 能否「開關」
+    - 呈現底圖
+    - 疊上物件
 - 成果頁面，可以改存 JPG 即可？
-- 把使用者的的創作過程，錄製成 GIF XD
+- [其他] 把使用者的的創作過程，錄製成 GIF XD
     - 靈感來源是每次 loading 到成果瀏覽頁面時，素材會陸陸續續載入
+
 
 ### 底圖地點測試：2023.08 總統府府前廣場
 

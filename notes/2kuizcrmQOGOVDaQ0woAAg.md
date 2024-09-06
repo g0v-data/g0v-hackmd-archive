@@ -69,6 +69,7 @@ vTaiwan
 g0v Jothon
 ---
 `Latest` 
+- [20240910 Rand0mTh9n with g0v Jothon 第玖次](/jjuwA751T7G2kVIvzD2p9Q)
 - [20240827 Rand0mTh8n with g0v Jothon 第捌次](/RuhCfavuRkKWYL63Gv9wQg)
 - [20240813 Rand0mTh7n  with g0v Jothon 第柒次](/e05C1nUpSG6xzZTn8kD8OA)
 - [20240730 Rand0mTh6n  with g0v Jothon 第陸次](/H5HUCwuLRuiJGFEVwgVbYA)
