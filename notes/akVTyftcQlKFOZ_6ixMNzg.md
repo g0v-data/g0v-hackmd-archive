@@ -27,3 +27,34 @@
 			break;
 		}
 ```
+
+
+處理interface
+```Java
+interface AdvancedArithmetic{
+  int divisor_sum(int n);
+}
+
+class MyCalculator implements AdvancedArithmetic
+{
+
+
+    
+     String getName(){
+        return "MyCalculator";
+    }
+
+
+    public void ImplementedInterfaceNames() {
+        // TODO Auto-generated method stub
+        
+    }
+
+
+	@Override
+	public int divisor_sum(int n) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+}
+```
