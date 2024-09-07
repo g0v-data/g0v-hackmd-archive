@@ -58,3 +58,27 @@ class MyCalculator implements AdvancedArithmetic
 	}
 }
 ```
+處理Comparator
+```Java
+class Checker implements Comparator<Object>{
+
+    @Override
+    public int compare(Object o1, Object o2) {
+        Player a = (Player) o1;
+        Player b = (Player) o2;
+        // TODO Auto-generated method stub
+        int as = a.score;
+        int bs = b.score;
+        String ass = a.name;
+        String bss = b.name;
+        if(as>bs){
+            return -1;
+        } else if (as < bs) {
+            return 1;
+        } else {
+             return (ass).compareTo(bss); 
+        }
+    }
+     
+}
+```
