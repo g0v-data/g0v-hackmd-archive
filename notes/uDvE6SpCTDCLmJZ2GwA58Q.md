@@ -114,6 +114,7 @@ tags: 新生流域
     - 1957 中山北路與新生北路與圓山，照片 0:52 秒 https://youtu.be/vZ9pms6ND2M
     - 1959 空拍影片，有明顯的鐵道鐵軌 https://youtu.be/9i9Nr1WFmh4?si=6FC3bMSxs0eeAAp0&t=796
     - 基隆河圓山老照片 https://www.facebook.com/photo.php?fbid=255167153547365&set=a.186238740440207&type=3&mibextid=cr9u03
+    - 照片 圓山站 https://www.facebook.com/share/p/j6MGKUv8YYS8HQ9u/
     - 重要，照片，戰後1975年的台北市新生北路-公務員掃除髒亂活動 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577638452661/
     - 照片 新生南京 附近，已有定位，此為 上色版本 https://www.facebook.com/share/fV484CbQSrRcRwDS/
     - 照片 復興南路 安東街 https://www.facebook.com/share/p/BoA4deXgJfRvyX8w/
