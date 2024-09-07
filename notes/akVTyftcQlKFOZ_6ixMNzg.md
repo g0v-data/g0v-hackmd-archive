@@ -10,3 +10,20 @@
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a690edf448573cfc7f308a1a923a2b0f.png)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_66c5f9c5a05a6454d02b2e60ff3ae743.png)
+
+處理iterator
+```Java
+  Iterator it=mylist.iterator();
+      while(it.hasNext()){
+         //System.out.println("@@@");
+         Object element =  it.next();
+         //System.out.println(element);
+         if( !(element instanceof String)){//Hints: use instanceof operator
+            it.remove(); 
+              //System.out.println("remove@@@");
+            }
+          
+         if((element instanceof String) && "###".equals(element))//Hints: use instanceof operator
+			break;
+		}
+```
