@@ -1,0 +1,4 @@
+# 20240907 TOEFL Writing
+#Sociology# #Urban and Rural#
+
+As far as I, one who has grandparents living in rural area, am concerned, convenient transportation should be what we need to focus on first and foremost. My grandparents lives in a rural area which is an hour driving from the urban area. There are bus station, of course, but it takes you almost an hour waiting for the bus. Although there are a bunch of stores, pharmacies and restruarants, it still couldn't catch the citizens' eyes. I will suggest the government to put more time and money on building a more worthy transportation which connect the urban and rural areas, rather than painting those needless subways in the city which no one wanting to take. 
