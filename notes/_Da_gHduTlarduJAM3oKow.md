@@ -5,10 +5,10 @@ A little, light, and model-like [CSS](https://en.wikipedia.org/wiki/CSS) platfor
 This guide looks into how these build tools can be used effectively with Lightning CSS to optimize development efficiency and the user experience. When we look at the tools individually, we realize they are designed differently to suit specific project needs or developer choices. By knowing them well enough and what they can do, developers can use Lightning CSS to create applications that are fast-loading and compatible with various screen sizes.
 
 ## What is Lightning CSS?
-The Lightning CSS framework makes front-end development quicker and easier. The framework has all the necessary components and classes, which can increase  the productivity of a project by making it faster and more efficient. The most important things are the flexible grid system that works on any device, custom components you can modify yourself, and classes for repeating tasks like styling forms and buttons.  Lightning CSS is focused on simplicity, flexibility, and efficiency, making it suitable for the fast and efficient building of modern responsive web interfaces.
+The Lightning CSS framework makes front-end development quicker and easier. It has all the necessary components and classes, which can increase a project's productivity by making it faster and more efficient. The most important things are the flexible grid system that works on any device, custom components you can modify yourself, and classes for repeating tasks like styling forms and buttons.  Lightning CSS is focused on simplicity, flexibility, and efficiency, making it suitable for the fast and efficient building of modern responsive web interfaces.
 
 ## Understanding Build Tools
-Modern web development relies on indispensable build tools as they help automate processes and make work better. Such build tools as Gulp, Webpack, Parcel, and Rollup have revolutionized web development since they address issues ranging from bundling assets to minifying JavaScript files.
+Modern web development relies on indispensable build tools, which help automate processes and improve work. Build tools such as Gulp, Webpack, Parcel, and Rollup have revolutionized web development by addressing issues ranging from bundling assets to minifying JavaScript files.
 
 Build tools simplify the handling of assets and dependencies by packing them up in optimized bundles ready to be deployed, which lowers the number of HTTP requests needed to load a webpage, which makes it perform better. Several CSS or [JavaScript](https://www.javascript.com/) documents are merged into one document, those tools used in making packages assist in decreasing the time it takes for a page to load, boosting the responsiveness of the site.
 
@@ -67,7 +67,7 @@ or:
 npm comes in handy for those working on huge structured projects that need scaling and are manageable easily; it’s applicable based on its dependency handling, versioning features, and integration into existing build processes.
 
 ## Integrating Lightning CSS with Webpack
-Make your development process easier with the automation of CSS bundling, optimization, and management alongside optional assets like JavaScript by integrating Webpack with Lightning CSS. In this section, we will look at how we can integrate Lightning CSS  with Webpack.
+Make your development process easier with the automation of CSS bundling, optimization, and management alongside optional assets like JavaScript by integrating Webpack with Lightning CSS. In this section, we will look at how we can combine Lightning CSS  with Webpack.
 
 ### Configuring Webpack `(css-loader, style-loader)`
 First, confirm that you have the loaders required for Webpack to handle CSS files appropriately. Install `style-loader` and `css-loader`:
