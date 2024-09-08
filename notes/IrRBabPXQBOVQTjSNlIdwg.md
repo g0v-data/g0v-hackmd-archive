@@ -66,6 +66,11 @@ https://dev.cofacts.tw/article/GduxspEBoURTSGJKAAMu
 - 放著
 - 開 issue
 
+:::success
+https://github.com/cofacts/rumors-api/issues/345
+:::
+
+
 ### :eye: Under review
 
 - Store to Wayback Machine https://github.com/cofacts/rumors-api/pull/344
