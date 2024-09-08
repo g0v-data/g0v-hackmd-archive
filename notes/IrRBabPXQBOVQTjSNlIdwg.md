@@ -95,13 +95,13 @@ Questions
     - Link to `https://web.archive.org/web/*/<canonical url>`
     - Screenshot: `https://web.archive.org/web/*/http://web.archive.org/screenshot/<canonical url>`
         - Example: https://web.archive.org/web/*/http://web.archive.org/screenshot/https://tfc-taiwan.org.tw/articles/9311
-    - Open issue in rumors-site, `#design`, post to g0v slack #design channel
+    - Open issue in rumors-site, `#design`, post to g0v slack #design channel --> https://github.com/cofacts/rumors-site/issues/576
 - Job ID & status?
     - Do we need to handle or record them?
     - No need [name=bil]
 - Backfill (archiving old URLs)?
     - Can directly backfill using `article_hyperlinks` or `replies_hyperlinks` in HuggingFace dataset
-    - 開票，good first issue，可以是一個 python notebook --> good first issue to rumors-api
+    - 開票，good first issue，可以是一個 python notebook --> good first issue to rumors-api 
 
 ## Open165 license
 
