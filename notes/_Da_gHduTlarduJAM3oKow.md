@@ -164,7 +164,7 @@ module.exports = {
   },
 };
 ```
-This particular code snippet serves as a configuration for Webpack, which is set in such a way that `MiniCssExtractPlugin` can be used for unpacking CSS into different files, `OptimizeCSSAssetsPlugin` serves to optimize CSS resources, and `css-loader` is applied to interpreting CSS-related imports and `MiniCssExtractPlugin.loader` for separating it from the rest of the content available. Moreover, this arrangement is commonly used in web development projects, in which case it is employed to mass-assemble CSS files and optimize them during the process.
+This particular code snippet serves as a configuration for Webpack, which is set in such a way that `MiniCssExtractPlugin` can be used for unpacking CSS into different files, `OptimizeCSSAssetsPlugin` serves to optimize CSS resources, and `css-loader` is applied to interpreting CSS-related imports and `MiniCssExtractPlugin.loader` for separating it from the rest of the content available. Moreover, this arrangement is commonly used in web development projects, to mass-assemble CSS files and optimize them.
 
 By incorporating Lightning CSS and configuring Webpack with these loaders and plugins, you make your development process more efficient and ensure high performance and scalability for creating modern web apps. This allows for optimized asset bundling strategies through which you can manage stylesheets effectively, preprocess CSS languages, and take care of CSS delivery optimization.
 
@@ -179,7 +179,7 @@ npm install -g parcel-bundler
 ```
 The next thing you need to do is go to your project directory by opening your command line interface (CLI), PowerShell, or command prompt for Windows or a terminal for macOS or Linux.
 
-Use a special command to change directories, called `cd` (change directory). All this means is changing from the directory where you are currently working into some other place within a file system, usually another folder within the file system. To specify exactly which location you want to move into (remembering that moving up one folder level would be appropriate), you provide the rest of the information next to it, like an address. In this example, `my-project` is supposed to be on the `desktop`. So the command goes like that if it is followed in that order.
+Use a special command in changing directories, called `cd` (change directory). All this means is changing from the directory where you are currently working into some other place within a file system, usually another folder within the file system. To specify exactly which location you want to move into (remembering that moving up one folder level would be appropriate), you provide the rest of the information next to it, like an address. In this example, `my-project` is supposed to be on the `desktop`. So the command goes like that if it is followed in that order.
 
 ```bash
 cd Desktop/my-project
@@ -268,7 +268,7 @@ gulp.task("watch", function () {
   gulp.watch("src/scss/**/*.scss", gulp.series("sass"));
 });
 ```
-If you want to run the watch task, making use of the `gulp watch` on the command line is what you need. It will keep an eye out for any changes you make in your Sass files and then convert them into CSS automatically each time you do so.
+If you want to run the watch task, using the `gulp watch` on the command line is what you need. It will watch out for any changes you make in your Sass files and then convert them into CSS automatically each time you do so.
 
 Summing this up, Gulp makes it much easier and faster to add Lightning CSS to your development by doing CSS preprocessing, optimizing, and bundling tasks automatically. In other words, you can streamline your workflow effectively enough, thus boosting your work speed.
 
@@ -304,10 +304,10 @@ export default {
   ],
 };
 ```
-You can adjust the `input`, `output`, and `plugins` configurations based on your project requirements.
+You can adjust the `input`, `output`, and `plugin` configurations based on your project requirements.
 
 ### Preprocessing with PostCSS
-Rollup can, in addition, be facilitated by preprocess duties in `PostCSS` plugins with the help of `rollup-plugin-postcss`. Included in `autoprefixer` or `cssnano` are some possible PostCSS plugins that can be used for this purpose, such as vendor prefix handling and optimizing your CSS code.
+Rollup can, in addition, be facilitated by preprocessing duties in `PostCSS` plugins with the help of `rollup-plugin-postcss`. Included in `autoprefixer` or `cssnano` are some possible PostCSS plugins that can be used for this purpose, such as vendor prefix handling and optimizing your CSS code.
 
 Here is an example configuration we can use to include `autoprefixer` and `cssnano`:
 
@@ -333,7 +333,7 @@ The combination of `rollup-plugin-postcss` processes the CSS files in this rollu
 Rollup offers default optimization of JavaScript modules, but if you want to further the optimization process, then you can use the `cssnano` plugin within `rollup-plugin-postcss` for enhancing CSS. In addition, it assists in the better performance of your application because it gets rid of unused
 styles during compilation ([tree shaking](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking#:~:)), which includes minification for CSS files.
 
-To sum up, as soon as you combine Lightning CSS with Rollup by `rollup-plugin-postcss`, it becomes possible to bundle and optimize CSS and JavaScript modules effectively. Applying PostCSS plugins for preprocessing and optimizing CSS with Rollup makes sure they make use of the performance of Rollup to generate smaller yet better-optimized bundles for modern web applications.
+To sum up, as soon as you combine Lightning CSS with Rollup by `rollup-plugin-postcss`, it becomes possible to bundle and optimize CSS and JavaScript modules effectively. Applying PostCSS plugins for preprocessing and optimizing CSS with Rollup ensures they use Rollup's performance to generate smaller yet better-optimized bundles for modern web applications.
 
 ## Conclusion
 In conclusion, combining Lightning CSS with build tools not only makes the development process more straightforward but  also improves web applications’ code quality, performance, and scalability. Using such tools and practices can enable software developers to overcome the problems of modern web technology while catering to users’ needs simultaneously.

@@ -30,7 +30,7 @@ Testing in production additionally allows developers to generate a fast feedback
 
 Furthermore, it permits developers to pay attention to user-focused testing, enabling them to ensure that changes satisfy customer expectations and provide an unbroken experience.
 
-It allows developers to examine modifications’ performance in green environments, makes a way for continuous development, and encourages iterative upgrades and optimizations through the years.
+It allows developers to examine modifications’ performance in green environments, making ways for continuous development and encouraging iterative upgrades and optimizations through the years.
 
 ### Best Practices for Testing in Production with Blue-Green Deployment
 The steps we are going to discuss below are vital to an unbroken blue-green deployment transition:
@@ -51,7 +51,7 @@ Let’s consider a social media platform introducing a new messaging feature. Wi
 ## Use Cases
 Blue-green deployment is normally used in diverse eventualities, which include:
 
-* Web Applications: For rolling out updates, new functions, or worm fixes to internet-primarily based applications without downtime. Examples of internet packages that make use of this deployment method include [LinkedIn](https://www.linkedin.com/login) and [Github](https://github.com/).
+* Web Applications: For rolling out updates, new functions, or worm fixes to internet-primarily based applications without downtime. Examples of internet packages that use this deployment method include [LinkedIn](https://www.linkedin.com/login) and [Github](https://github.com/).
 
 * E-commerce Platforms: The blue-green deployment method is used to deploy updates to cloud-based applications and limit disruptions through updates or upkeep. Examples of e-trade platforms that make use of this deployment approach encompass [Amazon](https://www.amazon.com/) and [Etsy](https://www.etsy.com/).
 
@@ -120,7 +120,7 @@ When a new replacement is ready for deployment, it’s implemented inside the in
 Traffic redirection is normally controlled through load balancers or routing rules. Initially, a small portion of traffic is routed to the green environment to minimize hazards and permit tracking of performance and user revel. As confidence in the new edition grows, more site visitors are directed to the green part until it moves to the primary production environment.
 
 ### Active and inactive roles
-After site visitors are effectively transitioned to the green environment, it turns into a new, energetic environment. Meanwhile, the blue surroundings, which previously served as the active environment, are now inactive. The inactive part acts as a backup or rollback option when problems arise with the new edition. The roles of the environments are then swapped, with the inactive turning energetic and vice versa, equipped for the next replacement cycle.
+After site visitors are effectively transitioned to the green, it turns into a new, energetic environment. Meanwhile, the blue surroundings, which previously served as the active environment, are now inactive. The inactive part is a backup or rollback option when problems arise with the new edition. The roles of the environments are then swapped, with the inactive turning energetic and vice versa, equipped for the next replacement cycle.
 
 ### Continuous tracking and improvement
 Throughout the deployment cycle, non-stop monitoring of both environments is important to ensure overall performance, stability, and the consumer experience.
