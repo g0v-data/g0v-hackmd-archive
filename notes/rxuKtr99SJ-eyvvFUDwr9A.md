@@ -2,15 +2,21 @@
 tags: vtaiwan,dpsurvey
 ---
 # 專案基本資訊
+## 專案目標
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_945ee85ee4b6a7b7ac817c5f30d810df.jpg)
 - 專案目標：這個專案希望調查數位公共參與的工具與專案，並嘗試以台灣審議者的視角進行分析與比較。
     - 涵蓋全世界有相關案例的工具，列出比較基準
     - 類似 [0106大松討論](/6k1y96rKSq619WTheQftyw) 列出的那樣，把所有的標準都列出來。
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_96b322b7510367ef45e58c7e05155ebd.png)或者是跟上圖來自 People Powered 的評分標準一樣，提供想要結合數位工具參與討論的人相關的資訊進行選擇。
 - 目的與可能的貢獻：
-    - 潛在的使用者可以輕易的 access到數位工具的使用
-    - vTaiwan 的參與者更理解相關的工具使用
-    - 作為社群產出的成果
+    - 潛在的使用者可以輕易的 access到數位工具的使用。
+    - vTaiwan 的參與者更理解相關的工具使用。
+    - 作為社群產出的成果。
+- 如果你想要一起貢獻的話，歡迎透過以下方式聯繫！
+    - g0v slack #vtaiwan 頻道
+    - g0v slack @peter
+    - vtaiwan.tw@gmail.com
+## 比較方法
 - 方法論：
     - 第一輪：初步訪談國內執行審議的，設立檢視議題的標準
     - 同步收集工具與網站
@@ -34,7 +40,6 @@ tags: vtaiwan,dpsurvey
     - 熱吵民主協會
     - 青年署公共參與組
     - 更新可以到 [訪談共筆](/qFQk8OaGROyqBuzf8UUe5A)
-- 
 - 涵蓋範圍：
     - 各國的平台與工具
     - 平台與工具分開討論
@@ -43,12 +48,10 @@ tags: vtaiwan,dpsurvey
     - 有關分析標準的更新，歡迎到[標準收集](/PHkctw6IRgeqbtdfrLCuBQ)！
 
 ## Action List
-- 在 TICTEC 參加者群組徵集
-    - 如何徵集？表單？
-    - 設計表單
-- 設計徵集表單並思考擴散方式
-- 聯繫可能的回報者與之前的連結
-    - tzu sheng 
+- 收集工具已經完成 
+
+
+
 
 ## 數位工具的相關資源
 

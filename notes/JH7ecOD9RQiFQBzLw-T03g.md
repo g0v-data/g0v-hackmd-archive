@@ -1,17 +1,22 @@
 ---
 tags: vtaiwan,dpsurvey
 ---
-# 整合介紹區
-- [OECD OPSI Driving innovation in civic participation 計畫](https://oecd-opsi.org/work-areas/emerging-tech-for-civic-participation/)
-- [democracy technologies](https://democracy-technologies.org/database/)
-- [50 Apps for Sensemaking & Deliberation in Your Organization](https://www.rndao.io/blog/post/50-apps-for-sensemaking-and-deliberation-in-your-organization)
-- [Joinplus 整理資料](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd?blocks=hide)
+# 工具收集與整理
+## 整理表格
+- 目前收集了127種工具，預計會持續增加。
+- [airtable表格](https://airtable.com/appnqolz897UUsm5N/shrEWgvcMceTjrgED/tblP0Z4a05J1Or2P2/viw5fczncGS0h2BgQ?blocks=hide)
+## 資料來源
+- [democracy technologies](https://democracy-technologies.org/database/) done
+- [50 Apps for Sensemaking & Deliberation in Your Organization](https://www.rndao.io/blog/post/50-apps-for-sensemaking-and-deliberation-in-your-organization) done 
+- [Digital Participation Resources](https://www.peoplepowered.org/digital-participation) done 
+- [Digital Participation Platform Research](https://airtable.com/appYHxsLYleU2RVYk/shrxxpcHHnMc1xZSx/tblELFP9tGX07UZDo) done
+- [Joinplus 整理資料](https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tblT8Huv7JA9YARQ6/viwH5InBJAcjcYgWd?blocks=hide) done 
     - 0722 更新：可以利用資料：整理成果可以用 cc-by Joinplus 社群貢獻者標註
-- [英國案例匯集：Involve.org 整理](https://www.involve.org.uk/resources/methods)
-- [Digital Participation Resources](https://www.peoplepowered.org/digital-participation)
-- [Digital Participation Platform Research](https://airtable.com/appYHxsLYleU2RVYk/shrxxpcHHnMc1xZSx/tblELFP9tGX07UZDo)
-- [Participation Playbook](https://participationplaybook.org)
 - 都市相關的議題 [Participation and Digital Tools Fulfil the Quest for Better Quality of Life in Cities](https://www.urbanet.info/participation-digital-tools/)
+## 其他資料
+- [OECD OPSI Driving innovation in civic participation 計畫](https://oecd-opsi.org/work-areas/emerging-tech-for-civic-participation/)
+- [方法論匯集：Involve.org 整理](https://www.involve.org.uk/resources/methods)
+- [Participation Playbook](https://participationplaybook.org)
 - [Collective Intelligence Design Handbook](https://www.nesta.org.uk/toolkit/collective-intelligence-design-playbook/)
 - [trends in digital participation](https://participationpool.eu/resource/trends-in-digital-participation/)
 - [digital tools rating](https://www.peoplepowered.org/platform-ratings)

@@ -11,10 +11,7 @@ vTaiwan 工作組 Working Group
 - [對外介紹：一起vTaiwan!](https://docs.google.com/presentation/d/1nAEBAbF7dTW0itIMp2JX-yapf6N3sILowZ721zZTTaQ/edit?usp=sharing)
 - [vTaiwan 網站](https://vtaiwan.tw/)
 - [vTaiwan info page](http://info.vtaiwan.tw/)
-- [vTaiwan FB 討論區](https://www.facebook.com/groups/vtaiwan/)[target=_blank]
-- [vTaiwan 直播](https://meet.jit.si/vtaiwan)[target=_blank]
-- [vTaiwan 個人資料處理政策與同意書](https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/H1zyE09L6)
-- [vTaiwan for all 活動共筆](/PBaky5o0SFCl8Ztr-SXZBg)
+
 
 vTaiwan 相關資料整理 vTaiwan related materials
 ---
@@ -29,22 +26,14 @@ vTaiwan 相關資料整理 vTaiwan related materials
 
 討論都在這裡發生 Discussions
 ---
-- [來報名參加小松吧！](https://vtaiwan.kktix.cc/) [target=_blank]
 - [社群守則](https://g0v.hackmd.io/2b3sgUhTRCSSntpgLiRHOQ?view)
 - [FB 社團（公開）](https://www.facebook.com/groups/vtaiwan/) [target=_blank]
 - [Slack 討論區](https://g0v-tw.slack.com/messages/C2Q1M4N1J) [target=_blank]
-- [meta](https://talk.vtaiwan.tw/) [target=_blank]
 - [github](https://github.com/g0v/vue.vtaiwan.tw) [target=_blank]
-- [讀冊會](https://g0v.hackmd.io/OuhEdgNkRU2CySwrFJLWww)
 
 
 工作連結 Jobs and Missions 
 ---
-- [工作進度](https://trello.com/b/vDh5y92i/vtaiwantw-public) [target=_blank]
-- [Slideshare](https://www.slideshare.net/vtaiwan?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview) [target=_blank]
-- [vTaiwan教召](https://g0v.hackmd.io/bs1GUoX4TcSgid7NR-fljA)
-- [vTaiwan待辦事項（歡迎認領工作）](https://g0v.hackpad.tw/vTaiwan--AuHFzoOJk7o)
-- [vTaiwan研發區 - 討論工具&平台survey區](https://g0v.hackmd.io/kPX-bPyUSPS1SLKMVreMXw)
 - [vTaiwan 社群經費管理守則](/JqAlPp_6QF-3F1RKuDj4JQ)
 
 社群媒體 Social Media 
@@ -54,11 +43,13 @@ vTaiwan 相關資料整理 vTaiwan related materials
 
 進行中專案 Ongoing Projects
 ---
-- [vTaiwan in TicTEC 2024](/_fWuILaRSv-h3FQsXSLxaQ)
-- [vTaiwan人工智慧基本法](/xwfZ2MrqTPGHQJVz9Y5sUQ)
+- [數位公共參與工具比較協作共筆](/k_P2feISSMGwdLKjv8yO4Q?edit)
+- [vTaiwan議題小聚](/GUe0KXMsQBC-6KTIUPBVnA?both)
 
 專案紀錄 Past Projects 
 ---
+- [vTaiwan in TicTEC 2024](/_fWuILaRSv-h3FQsXSLxaQ)
+- [vTaiwan人工智慧基本法](/xwfZ2MrqTPGHQJVz9Y5sUQ)
 - [vTaiwan—AI—人權](https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/DIforAIvTaiwanxChatham)
 - [vTaiwan-國科會DSET討論](https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/B1XxOARS6)
 - [vTaiwan MSR 合作](https://g0v.hackmd.io/3Z5t74JXS1-HOVIxQ4PKSA)
@@ -90,9 +81,11 @@ vTaiwan 相關資料整理 vTaiwan related materials
 community governance
 ---
 - [vTaiwan年末討論](https://g0v.hackpad.tw/20181212-vTaiwan--ICWJfkrm2EN)
+- [vTaiwan 個人資料處理政策與同意書](https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/H1zyE09L6)
 
 2024 小松紀錄 2024 Weekly Meetup
 ----
+- [0918小松](/hCXuo0DYR-qOgIoO8uUJ4w)
 - [0911小松](/2NEdqJ_7Rt2YyIVzcpznhQ)
 - [0904小松](/M-BStGLhTbSQnoKPN6vKOw)
 - [0828小松](/3UDGkwNSRbKpOIIkfuUvtA)
@@ -388,7 +381,17 @@ vTaiwan 考古（工事中）
 
 ------<<以下整理中>>------
 ---
-
+- [vTaiwan FB 討論區](https://www.facebook.com/groups/vtaiwan/)[target=_blank]
+- [vTaiwan 直播](https://meet.jit.si/vtaiwan)[target=_blank]
+- [讀冊會](https://g0v.hackmd.io/OuhEdgNkRU2CySwrFJLWww)
+- [來報名參加小松吧！](https://vtaiwan.kktix.cc/) [target=_blank]
+- [meta](https://talk.vtaiwan.tw/) [target=_blank]
+- [vTaiwan for all 活動共筆](/PBaky5o0SFCl8Ztr-SXZBg)
+- [工作進度](https://trello.com/b/vDh5y92i/vtaiwantw-public) [target=_blank]
+- [Slideshare](https://www.slideshare.net/vtaiwan?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview) [target=_blank]
+- [vTaiwan教召](https://g0v.hackmd.io/bs1GUoX4TcSgid7NR-fljA)
+- [vTaiwan待辦事項（歡迎認領工作）](https://g0v.hackpad.tw/vTaiwan--AuHFzoOJk7o)
+- [vTaiwan研發區 - 討論工具&平台survey區](https://g0v.hackmd.io/kPX-bPyUSPS1SLKMVreMXw)
 
 實體小聚（小松） / Mini Hackathon
 ---

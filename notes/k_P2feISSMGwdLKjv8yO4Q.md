@@ -5,7 +5,6 @@ tags: vtaiwan,dpsurvey
 
 ## 專案基本資訊
 - [專案基本資訊](/rxuKtr99SJ-eyvvFUDwr9A)
-- [0720大松提案ppt](https://docs.google.com/presentation/d/1iDZK7apnp-pw6vId-rRHeSfol8DpRddycU_S3HBQcMk/edit?usp=sharing)
 - [小聚討論資訊暫存區](/MsTKawWUTe6IXnGbwnwPhQ)
 ## 工具與平台收集
 - [審議與公共參與相關資源](/qJ460ImBQHi8vjNBQclhzA)
@@ -18,3 +17,4 @@ tags: vtaiwan,dpsurvey
 ## 驗證與活動
 - [vTaiwan議題小聚](/GUe0KXMsQBC-6KTIUPBVnA)
 - [FTO 共筆資訊](/SiyDkrkQQXuEEczGlYS23A)
+- [0720大松提案ppt](https://docs.google.com/presentation/d/1iDZK7apnp-pw6vId-rRHeSfol8DpRddycU_S3HBQcMk/edit?usp=sharing)
