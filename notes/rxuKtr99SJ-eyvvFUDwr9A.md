@@ -3,12 +3,12 @@ tags: vtaiwan,dpsurvey
 ---
 # 專案基本資訊
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_945ee85ee4b6a7b7ac817c5f30d810df.jpg)
--    vTaiwan 社群好像有一個遠古的共筆 / google 試算表是在討論這個的。我們想要延續社群之前做過的，對於公民參與工具的 survey，並且將他做成一個能夠持續更新的共筆或網站。
+- 專案目標：這個專案希望調查數位公共參與的工具與專案，並嘗試以台灣審議者的視角進行分析與比較。
     - 涵蓋全世界有相關案例的工具，列出比較基準
     - 類似 [0106大松討論](/6k1y96rKSq619WTheQftyw) 列出的那樣，把所有的標準都列出來。
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_96b322b7510367ef45e58c7e05155ebd.png)或者是跟上圖一樣。
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_96b322b7510367ef45e58c7e05155ebd.png)或者是跟上圖來自 People Powered 的評分標準一樣，提供想要結合數位工具參與討論的人相關的資訊進行選擇。
 - 目的與可能的貢獻：
-    - 潛在的使用者可以輕易的 access
+    - 潛在的使用者可以輕易的 access到數位工具的使用
     - vTaiwan 的參與者更理解相關的工具使用
     - 作為社群產出的成果
 - 方法論：
