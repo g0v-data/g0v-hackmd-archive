@@ -95,7 +95,10 @@ Questions
     - Link to `https://web.archive.org/web/*/<canonical url>`
     - Screenshot: `https://web.archive.org/web/*/http://web.archive.org/screenshot/<canonical url>`
         - Example: https://web.archive.org/web/*/http://web.archive.org/screenshot/https://tfc-taiwan.org.tw/articles/9311
-    - Open issue in rumors-site, `#design`, post to g0v slack #design channel --> https://github.com/cofacts/rumors-site/issues/576
+    - Open issue in rumors-site, `#design`, post to g0v slack #design channel
+    :::success
+    https://github.com/cofacts/rumors-site/issues/576
+    :::
 - Job ID & status?
     - Do we need to handle or record them?
     - No need [name=bil]
