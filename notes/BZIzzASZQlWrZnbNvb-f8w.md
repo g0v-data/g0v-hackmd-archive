@@ -1,0 +1,21 @@
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/455195443_3576974019115165_2880449870001864740_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=cc71e4&amp;_nc_ohc=lZZCEtxOCzoQ7kNvgEhe_L2&amp;_nc_ht=scontent.fsgn2-9.fna&amp;oh=00_AYDJWLeMf-ilWCZIeLDt2PCW5Y9NAriIOkfnJs7DuOUV8A&amp;oe=66E4F0E0" alt="" width="701" height="394" /></p>
+<p style="text-align: center;"><a href="https://topbet379.site/">Topbet379</a>&nbsp;mang đến sự h&agrave;i l&ograve;ng cho người chơi v&igrave; t&iacute;nh đa dạng sản phẩm c&aacute; cược. Trả thưởng uy t&iacute;n. Hỗ trợ nạp r&uacute;t cực nhanh. Tặng giftcode 68k</p>
+<p style="text-align: center;">#topbet379 #nhacaitopbet379 #linktopbet379 #topbet379site</p>
+<p style="text-align: center;"><strong>Th&ocirc;ng Tin Li&ecirc;n Hệ:</strong></p>
+<p style="text-align: center;">-&nbsp;<strong>Địa Chỉ</strong>: 230 Nguyễn Hữu Cảnh, Phường T&acirc;n Định, Quận 1, Hồ Ch&iacute; Minh, Việt Nam</p>
+<p style="text-align: center;">-<strong>&nbsp;Số Điện Thoại</strong>: 0967454332</p>
+<p style="text-align: center;">-&nbsp;<strong>Email</strong>: topbet379.site@gmail.com</p>
+<p style="text-align: center;">-&nbsp;<strong>Website</strong>:&nbsp;<a href="https://topbet379.site/">https://topbet379.site/</a></p>
+<p style="text-align: center;"><img src="https://scontent.fsgn2-6.fna.fbcdn.net/v/t39.30808-6/455232842_3576973832448517_8481196127609164881_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=6ee11a&amp;_nc_ohc=b55pGbb5Ms0Q7kNvgGxYBjZ&amp;_nc_ht=scontent.fsgn2-6.fna&amp;_nc_gid=A_tmJA__W1pbSYxOhsrfcnd&amp;oh=00_AYDaNrBFvkv49T4vU__YmH9LHPwzlNZJfiw4laCP_r8RUg&amp;oe=66E51071" alt="" width="313" height="313" /></p>
+<p style="text-align: center;"><strong>Google Stacking</strong></p>
+<p style="text-align: center;">GG Site:&nbsp;<a href="https://sites.google.com/view/topbet379site/">https://sites.google.com/view/topbet379site/</a></p>
+<p style="text-align: center;">GG Drive:&nbsp;<a href="https://drive.google.com/drive/folders/18TsLySQVkhqvWHACJyZyL8FUKwoXI59X?usp=sharing">https://drive.google.com/drive/folders/18TsLySQVkhqvWHACJyZyL8FUKwoXI59X?usp=sharing</a></p>
+<p style="text-align: center;">GG Colab:&nbsp;<a href="https://colab.research.google.com/drive/1bPuWITQ4rxD6yzzH9Bn2Ztw10hNfRFDq?usp=sharing">https://colab.research.google.com/drive/1bPuWITQ4rxD6yzzH9Bn2Ztw10hNfRFDq?usp=sharing</a></p>
+<p style="text-align: center;">GG Form:&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSdyxsZ14auFNnliGl77_On3_ZiSn2je1AlizvdPtBQ3AR8XAQ/viewform?usp=sf_link">https://docs.google.com/forms/d/e/1FAIpQLSdyxsZ14auFNnliGl77_On3_ZiSn2je1AlizvdPtBQ3AR8XAQ/viewform?usp=sf_link</a></p>
+<p style="text-align: center;">GG Doc:&nbsp;<a href="https://docs.google.com/document/d/18ajcPTxEwb9Nu7UNYMxw3jymHaApZVSUUiQUgjgOQlQ/edit?usp=sharing">https://docs.google.com/document/d/18ajcPTxEwb9Nu7UNYMxw3jymHaApZVSUUiQUgjgOQlQ/edit?usp=sharing</a></p>
+<p style="text-align: center;">GG Draw:&nbsp;<a href="https://docs.google.com/drawings/d/1nYpMa53uCAMKtiAaRTsY-9bYv3p04Yf-jRRYXWES77Y/edit?usp=sharing">https://docs.google.com/drawings/d/1nYpMa53uCAMKtiAaRTsY-9bYv3p04Yf-jRRYXWES77Y/edit?usp=sharing</a></p>
+<p style="text-align: center;">GG Slide:&nbsp;<a href="https://docs.google.com/presentation/d/1iZXMXTSv_PGuh05NSzSyaYLhp-y3tFr8CbfobTvZxRA/edit?usp=sharing">https://docs.google.com/presentation/d/1iZXMXTSv_PGuh05NSzSyaYLhp-y3tFr8CbfobTvZxRA/edit?usp=sharing</a></p>
+<p style="text-align: center;">GG Sheet:&nbsp;<a href="https://docs.google.com/spreadsheets/d/1medIvqHi0vQhbMUmhGDPqNKMKzZZgB_XApWoVbwgoGs/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1medIvqHi0vQhbMUmhGDPqNKMKzZZgB_XApWoVbwgoGs/edit?usp=sharing</a></p>
+<p style="text-align: center;">GG My Map:&nbsp;<a href="https://www.google.com/maps/d/edit?mid=1SzoAPEhuWwR6_lE0o-B2oebEhX_WEaI&amp;usp=sharing">https://www.google.com/maps/d/edit?mid=1SzoAPEhuWwR6_lE0o-B2oebEhX_WEaI&amp;usp=sharing</a></p>
+<p style="text-align: center;">GG Earth:&nbsp;<a href="https://earth.google.com/earth/d/1_Jb50lpGBav3e8oz4FW3jPqFUDEsJKEf?usp=sharing">https://earth.google.com/earth/d/1_Jb50lpGBav3e8oz4FW3jPqFUDEsJKEf?usp=sharing</a></p>
+<p style="text-align: center;">&nbsp;</p>
