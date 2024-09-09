@@ -10,8 +10,11 @@ tags: vtaiwan
 
 歡迎大家提案想做的事情！！！！
 
-## 自我介紹
-
+## 自我介紹與新手導覽
+### 自我介紹
+- 三個關鍵字
+### 新手導覽
+- [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 
 ## 小小的分享
 - [數位公共參與工具比較協作共筆](/@Pno233SAS8G5UfL5OvSRmA/SkXZk8UdR/https%3A%2F%2Fg0v.hackmd.io%2Fc%2FSkXZk8UdR%2Fedit%3Fedit)
