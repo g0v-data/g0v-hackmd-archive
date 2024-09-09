@@ -5,7 +5,7 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 目錄
 [TOC]
 :::
-
+https://rogerhsu0622.pixnet.net/blog/post/120429358
 #### 常用連結
 7-Zip https://www.7-zip.org/a/7z2301-x64.exe
 Chainlon 01Backup https://www.chainlon.net/1/01Backup.zip

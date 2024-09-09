@@ -19,7 +19,7 @@ GA: UA-98468513-3
 #### :electric_plug: API
 #### :globe_with_meridians: Site
 #### :robot_face: rumors-line-bot
-
+johnson.liang@appier.com
 ## 檢舉處理
 
 
@@ -33,6 +33,4 @@ GA: UA-98468513-3
 ## 大松籌備
 9/29 台北矽谷國際會議中心 / 新北市新店區北新路三段223號
 https://g0v-jothon.kktix.cc/events/g0v-hackath63n
-
-
 

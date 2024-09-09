@@ -13,6 +13,8 @@ tags: vtaiwan,dpsurvey
     - 會有各地的審議活動，每年也都有審議相關的主持人培訓。
 - 文化部：輔導及培訓縣市與公所推動公民審議工作計畫
     - 今年七月有舉辦[進階議事人才培訓課程](https://communitytaiwan.moc.gov.tw/Uploads/Item/b71a6be9-fdc1-4beb-8aab-74ad4befd35c.pdf)
+- PDIS: 前政委唐鳳的數位小組
+    - [開放政府的主持手冊](https://hackmd.io/@PDIS/facilitator/https%3A%2F%2Fhackmd.io%2F%40PDIS%2Fintroduction)
 ### 民間組織
 - 目前民間組織上，國內亦有相關的民間組織在推動議題審議。
 - [熱吵民主協會](https://infotroad.wixsite.com/troad)
