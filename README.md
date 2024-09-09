@@ -2,6 +2,7 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [澳門](tags/%E6%BE%B3%E9%96%80.md) | 6 | 2024-09-09T08:00:06+08:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 14319 | 2024-09-09T06:39:13+08:00 |
 | [cofacts](tags/cofacts.md) | 457 | 2024-09-09T02:42:37+08:00 |
 | [meeting note](tags/meeting%20note.md) | 281 | 2024-09-09T02:42:37+08:00 |
@@ -41,7 +42,6 @@
 | [middle2](tags/middle2.md) | 5 | 2024-08-30T16:12:21+08:00 |
 | [Tag(dangtinchuyennghiepht)](tags/Tag%28dangtinchuyennghiepht%29.md) | 1 | 2024-08-29T09:11:38+08:00 |
 | [心理測驗](tags/%E5%BF%83%E7%90%86%E6%B8%AC%E9%A9%97.md) | 2 | 2024-08-28T08:01:30+08:00 |
-| [澳門](tags/%E6%BE%B3%E9%96%80.md) | 6 | 2024-08-27T17:56:29+08:00 |
 | [design](tags/design.md) | 4 | 2024-08-27T13:56:27+08:00 |
 | [ux](tags/ux.md) | 1 | 2024-08-27T13:56:27+08:00 |
 | [open source design](tags/open%20source%20design.md) | 1 | 2024-08-27T13:56:27+08:00 |
