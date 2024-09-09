@@ -118,4 +118,4 @@ GPT的備註
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4042ca20dc312a60438c020538b6f213.png)
 好了就會有屬於資料表的Controllers跟View
 
-後面就自己再個別操作
+後面就自己在個別操作
