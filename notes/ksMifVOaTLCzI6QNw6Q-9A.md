@@ -22,7 +22,17 @@ GA: UA-98468513-3
 
 ## 檢舉處理
 
-## 開源祭
 
-Schedule
+## 開源祭
+> Prev note: https://g0v.hackmd.io/XouQwVKZSRyGlVpivLSmBA#%E6%B4%BB%E5%8B%95
+
+- 9/14 (六) 12:00 ~ 22:00 @ Pipe Live Music
+- 確定與揪松併攤
+- how?
+
+## 大松籌備
+9/29 台北矽谷國際會議中心 / 新北市新店區北新路三段223號
+https://g0v-jothon.kktix.cc/events/g0v-hackath63n
+
+
 
