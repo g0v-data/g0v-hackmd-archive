@@ -25,6 +25,11 @@
 > card view 類似這樣
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7e9e61fbafccc553853fa8c4b61f0496.png)
 
+- [ ] 建立 hackmd 心得模板 -> 要看揪松帳號能不能建立
+    - 目前模板：[這是一篇社群心得測試 - HackMD](https://g0v.hackmd.io/JVeeNYF3TN6_Jz9XXscbVA)
+    - 目前用的 tags: `insights for g0v.tw`
+- [ ] 
+
 #### 1-2 g0v.news 與「最新消息」更新
 g0v.news 目前已久未更新（目前已移除連結），希望能將「最新消息」區塊直接連結facebook 最新貼文的標題、kktix 黑客松報名標題等，並使其可以自動更新
 > 目前以接 google calender 跟 社群九分鐘的 api 為主
