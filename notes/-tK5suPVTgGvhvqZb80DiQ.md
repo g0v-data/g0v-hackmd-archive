@@ -28,12 +28,18 @@
 - [ ] 建立 hackmd 心得模板 -> 要看揪松帳號能不能建立
     - 目前模板：[這是一篇社群心得測試 - HackMD](https://g0v.hackmd.io/JVeeNYF3TN6_Jz9XXscbVA)
     - 目前用的 tags: `insights for g0v.tw`
-- [ ] 
+    - 目前遇到問題：無法自動抓到編輯者
+- [ ] 發文教學（要雙語版）：[如何寫一篇心得分享文 - HackMD](https://g0v.hackmd.io/YUhZ_ApjRX6-AtqC6M1qvw)
+- [x] 用 slack 當資料來源可行嗎？
+    - 優點：利用 slack 的資料，可以抓到照片、名字等資訊，會比抓 hackmd 資料簡單
+    - 缺點：發文門檻比較低，有被大量發文、洗版的疑慮。
 
 #### 1-2 g0v.news 與「最新消息」更新
 g0v.news 目前已久未更新（目前已移除連結），希望能將「最新消息」區塊直接連結facebook 最新貼文的標題、kktix 黑客松報名標題等，並使其可以自動更新
 > 目前以接 google calender 跟 社群九分鐘的 api 為主
 > 可能要調整說明內容
+
+> g0v.news 後來轉型為 [OCF Lab](https://lab.ocf.tw/2022/04/20/closestatement/) 且該專案已經結束。建議跟揪松討論如何呈現最新消息～ [name=RS]
 
 #### 1-3 g0v 官網資訊層級與介面優化
 目前主頁上目錄與新手指南的位置較不顯眼，希望可以調整目前過於複雜的 g0v 官網資訊層級與介面
@@ -56,3 +62,4 @@ g0v.news 目前已久未更新（目前已移除連結），希望能將「最�
 本專案期望能持續關注相關專案，如 [Aray](https://aray.g0v.tw/)，也歡迎社群中有興趣的成員提出意見或加入本專案！
 
 - 把社群治理、頻道 list 餵給 GPT，這樣有問題比較容易找到答案
+
