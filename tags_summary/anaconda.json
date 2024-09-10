@@ -1,0 +1,1 @@
+{"I0lI7EbcSOWrOTSIqbwidg":"# anaconda 環境建置\n\n## 建立環境\n在cmd下執行\n``` cmd\nconda create -n 環境名稱 python = 版本 anaconda\n```\n\n## 切換環境\n```cmd\nactivate 環境名稱\n```\n###### tags: `anaconda`、‵python`\n"}
