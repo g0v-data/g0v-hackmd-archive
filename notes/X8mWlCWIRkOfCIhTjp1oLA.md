@@ -339,12 +339,6 @@ https://www.facebook.com/share/p/jSBZSRd54UnvwDhR/?mibextid=WC7FNe
 芳蘭路辛亥路口
 https://www.facebook.com/story.php?story_fbid=pfbid02Tt2j4RFS5Rm2A7oVSsqJcGvHbdqnwgqX62F8Tp5SKPJo34HaENDE3v27zopei29jl&id=100063643886931&mibextid=qC1gEa
 
-公館圓環
-https://www.facebook.com/share/d3N4iC5Cdu7Cpzzo/?mibextid=WC7FNe
-https://www.facebook.com/share/p/q5JjyiYDtYUMmNQD/
-高中生的方案
-https://www.facebook.com/100049204915573/posts/pfbid031wom8LvRAUoHMGQ3LTErC74U7hS7BBgdmRPiF8Vjn3mij4XKW5PE98kpr8c5ZrCLl/
-
 行政院「行人交通安全設施條例」草案，說明簡報，以臺北市文山區景興路興隆路一帶作為示範說明地區
 https://www.ey.gov.tw/Page/9277F759E41CCD91/da325d4d-bafa-40fb-8e9e-eb00c8ff268d
 

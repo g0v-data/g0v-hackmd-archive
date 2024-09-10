@@ -23,3 +23,10 @@ last_chat_time有問題，
 
 Q2.
 
+Received message: {"chat_record_id":"255130177967751168","admin_id":"%!d(string=244628988780224509)","user_id":"252268832545046528","content":"正式7"} 
+ 
+ 
+1.admin_id => %!d( )去除
+
+
+---
