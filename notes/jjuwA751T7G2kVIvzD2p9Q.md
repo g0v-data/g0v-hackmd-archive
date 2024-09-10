@@ -62,4 +62,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 ## 一些紀錄 & 成果分享
 
 ### 首頁新增「心得專區」
-- 
+- g0v api 增加 hackmd 摘要
+- 共筆：[拉人更輕鬆 - 專案進度回顧與未來目標 - HackMD](https://g0v.hackmd.io/-tK5suPVTgGvhvqZb80DiQ?both)
+- 目前 mock up 頁面：
+    ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9feb5791d53433b1effce5cd582eca36.png)
