@@ -1,5 +1,11 @@
-# 建立樹系網域
+# 建立樹系網路架構
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f0a6ecaff9b5fde8ac504f634eb3b3c2.png)
+
+將sayms.local改成abc.com
+建立新的架構
+
+## Server1新增樹系網域
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c67857189c49791e8f702136609b1104.png)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d603714decc0ca2ea485e01a37b0f309.png)
@@ -77,4 +83,49 @@ server2一樣安裝AD網域
 使用ABC\Administrator登入Server2
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d3d17463ff7eb354057cb1de14752a45.png)
+
+工具出現AD相關工具
+
+AD使用者與電腦
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_779b44e0248e7c46c36c8f967220f61f.png)
+AD站台及服務
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_92068419a0a827262d50c17d04227abb.png)
+AD網域及信任
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_71a1663477d5e0a94f4d39b8b05a52c3.png)
+
+
+
+
+---
+
+# 新增Server3網域到現有樹系
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cb8921a75d7f510e044329e3bafcf196.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bca5c868d15b846b6e9efc4325e26fd1.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5fcc8a05b0a969c75f384782a1980fab.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a54530b48a64b3800f8ab107edfdeed9.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cccba279e41845d1e6e0f42d5f2387e3.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_766f93adf51c18e11b719cc20a6ffe2e.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9a764671789e4abca0b217bd66718312.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3acba132b09a1d63a3c4ab3ec6c570b6.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_185974ad337d4e136590e9d6dfa0c7ea.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c37e6a4222e065dc80608ca2da130662.png)
+
+安裝完畢自動重啟
+
+登入為TW\Administrator
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3a5230b4a7a3d8d826773043fbb95f36.png)
+
+同理，將Server4 也加入子網域
+步驟同Server3
 
