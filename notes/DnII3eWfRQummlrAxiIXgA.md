@@ -2,12 +2,12 @@
 description: "Compare Cypress, Selenium, and Playwright to find the best automated testing tool for your frontend web applications. Discover the strengths and weaknesses of each tool."
 ---
 
- <h1>Cypress vs Selenium vs Playwright: The Best Automated-Testing Tool</h1>
+ <h1> Cypress vs Selenium vs Playwright: The Best Automated-Testing Tool</h1>
     <p>In today's ever-changing technological environment, developers and testers are under constant pressure to design, test and deliver fully functional software products in the shortest amount of time possible. As a result, the importance of using various methods and tools cannot be overemphasized, not just for developers but also for testers.  Given that Manual testing is not a completely infallible approach to testing software, Most organisations utilize Automation testing because it allows them to thoroughly test a software product with limited time and resources. Automation testing differs from Manual testing because Manual testing involves the presence of an human tester interacting with a system or software in order to identify bugs, while Automation testing involves the usage of Automated testing tools and scripts to verify that a particular software is performing up to standard. Automated testing tools have two major components: a Test runner and a Tracking agent. The test runner runs the test from a command (or button click) while the tracking agent keeps track of passing and failing tests. These Automated testing tools apply to different types of software testing types which include unit, integration, end-to-end (e2e) testing,among others. 
     <br><br>
     There are various software applications written in different programming languages and choosing the best Automated testing tool for each of these applications can be difficult due to the availability of various Automated testing tools on the market. This article aims to compare three of the most used Automated testing tools namely: Cypress, Playwright and Selenium using metrics such as Browser Support, Language Support, Ease of setup, and Performance. This comparison will serve as a guide in choosing the tool that best suits your testing needs. </p>
 
-<h2>What is Automated Testing and Why is it Important</h2>?
+## What is Automated Testing and Why is it Important
 
   <p>Automated testing is a testing technique that involves the use of software tools in executing test cases. It often involves test cases written in scripting languages such as Python, JavaScript, or Lua. The scripts are written to test the different functionalities of a piece of software.
     Automated testing can be seen as a process of Automating Manual test cases, that is, using software tools to execute test cases that would have been executed Manually. The goal of Automated testing is to reduce the amount of Manual work involved in test execution, leading to higher test coverage. 
@@ -25,19 +25,19 @@ Automated testing basically speeds up the whole testing process making it possib
 
 > **Please note**: Automation testing is not a replacement for manual testing so it doesn't eliminate the need for human testers, rather it creates an avenue for human testers to carry out tests with testing tools.
 
- <h3>Use-Cases of Automated Testing</h3>
+<h3> Use-Cases of Automated Testing </h3>
 
 * Cross-browser testing
 * Load and performance testing
 * Automating unit, integration, and end-to-end tests
 
- <h4> Comparing Cypress, Selenium, and Playwright as Automated Testing Tools </h4>
+ ## Comparing Cypress, Selenium, and Playwright as Automated Testing Tools
 
  <p>Now, let's compare Cypress, Selenium, and Playwright based on Browser support, Ease of setup, Ease of scripting, Performance and Speed.</p>
 
-<h5> Choosing the best Automated testing tool based on Browser support</h5>
+### Choosing the best Automated testing tool based on Browser support
 
-Browser support refers to the ability of a certain website or web app to function consistently on different web browsers (Chrome, Mozilla Firefox, Safari, and Microsoft Edge). If your favourite Automated testing tool can work across major browsers, you can have peace of mind that your app works no matter the browser choice of your users. The essence of considering browser support is that cross-browser testing is one of the major tests carried out by testers and devs. Now, let's take a look at all three Automated testing tools in terms of browser support:
+<p>Browser support refers to the ability of a certain website or web app to function consistently on different web browsers (Chrome, Mozilla Firefox, Safari, and Microsoft Edge). If your favourite Automated testing tool can work across major browsers, you can have peace of mind that your app works no matter the browser choice of your users. The essence of considering browser support is that cross-browser testing is one of the major tests carried out by testers and devs. Now, let's take a look at all three Automated testing tools in terms of browser support:
 
 <p><strong>Cypress:</strong> Cypress supports major browsers like Chromium and Firefox. <a href="https://docs.cypress.io/guides/guides/launching-browsers#WebKit-Experimental">Though it has experimental support for Safari</a> which means that not all features will work properly. Asides from this, it has good support on Chrome, Firefox, and Edge. It can run tests across multiple browser versions directly from the Cypress test runner, which makes it convenient to run tests on older browser versions, maintained versions, and unreleased versions.</p>
    
@@ -90,7 +90,7 @@ There are certain factors to consider when choosing the best Automated tool to u
 | --------------- | ------- | -------- | ---------- | ---------------------- |
 | Browser support | 4/5     | 5/5      | 5/5        | Selenium or Playwright |
 
-<h6> Choosing the best Automated testing tool based on Ease of Scripting</h6>
+### Choosing the best Automated testing tool based on Ease of Scripting
 
 An automated testing tool is controlled using a form of scripting. This scripting functionality can be implemented in a known programming language like Python or a custom domain-specific language. The tools in this article support different languages to different degrees. This section analyzes the ease of writing scripts for automated testing with Playwright, Cypress, and Selenium. 
 
@@ -338,7 +338,7 @@ Here’s the summary of how the three testing tools rank up to each other:
 | Ease of scripting     | 4/5     | 3/5      | 5/5        | Playwright               |
 | Performance and speed |     4/5    |     3/5     |     5/5       |           Playwright       
 
-## Conclusion
+# Conclusion
 
 Choosing the most suitable Automated testing tool is a very essential step that all developers and testers must take into consideration before kickstarting the process of testing a software product. Below are key things to take into consideration before choosing an Automated testing tool:
 
