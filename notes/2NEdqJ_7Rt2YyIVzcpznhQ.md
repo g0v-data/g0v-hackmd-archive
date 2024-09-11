@@ -14,6 +14,7 @@ tags: vtaiwan
 ## 自我介紹與新手導覽
 ### 自我介紹
 - 三個關鍵字
+- Amos：研究生 / 榮民 / OCF
 ### 新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 
@@ -24,12 +25,33 @@ tags: vtaiwan
         - 9/19 15:00-16:00 許恩恩（審議民主與討論引導師、齊想創造工作室創辦人）
         - 9/19 22:00-23:00 林雨蒼
 - [vTaiwan議題小聚](/GUe0KXMsQBC-6KTIUPBVnA?both)
+    - 目標：成為公民團體的數位工具夥伴
+    - 上週接洽的方向：青平台
+        - 
+        - 提供[企劃書](https://docs.google.com/document/d/1EnldcKdFahx1xkO63LxxzuqJSL5UGGYrPEXJ7xhjC6o/edit?usp=sharing)
 
 ## 議題小聚
 - [vTaiwan議題小聚](/GUe0KXMsQBC-6KTIUPBVnA?both)
     - 目的釐清的部分必須要討論
 - 主題徵集
+    - 可以透過詢問參與者想要瞭解的議題，來思考接續場次
 - 時間徵集
+- 協作方式：
+    - 確認大家能夠投入的方式
+    - 至少一週一次的短暫會議，有一個非同步的協作方式
+- 參考網路自由小聚
+    - vTaiwan 新辦小聚會需要克服的是
+        - 1. 場地
+            - NPO Hub
+                - Keyholder 
+            - 摩茲工寮
+            - 市民書店
+            - 其他場地（跟青平台）
+        - 2. 找到對的人：前面的場次以鞏固固定參與的人為主，再從這些參與者的回饋中找到新的議題 [name=Amos]
+            - 法白社群
+            - 青平台
+            - g0v slack / g0v 社群平台代 po
+        - 這樣也可以找到新的講師跟議題。
 
 ## 會後分享
 - polis 改版分享：芬蘭創新研究發展基金(Finnish Innovation Fund, Sitra) 從去年到今年做了大規模的 polis 公民審議專案，並與數位芬蘭（DigiFinland）合作，做了 polis 的新的前端！也因此本週三特地邀請芬蘭創新研究發展基金與數位芬蘭一起來討論polis 的改版與他們從事審議的經驗！
