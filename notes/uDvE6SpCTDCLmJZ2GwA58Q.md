@@ -271,11 +271,13 @@ tags: 新生流域
 - peru rimac river https://www.facebook.com/share/p/q68PjgtFNiSBAc8p/
 - 無車化方案的表現方法 Hamburgs famous Köhlbrand Bridge
     - https://www.facebook.com/visualutopias/posts/pfbid02EP9WzGwN7T4X9r9xN7oPskyjYFM8647xh6GaQgSAPN1pKw4rbX2guPbRDDu7BfgGl
-- 天母忠誠路 箱涵 https://www.facebook.com/story.php?story_fbid=pfbid0HELZ5eT18ZwvAEAzaZtdQ6p6qVvc72mKLSBGusqEpy2euCT5W3UUSzx9LBeTkwS7l&id=100064771413821&mibextid=qC1gEa
+
 
 漢人信仰
 - 2018 神明、祖先、恩人 - 臺北盆地的祖佛信仰
     - https://nccur.lib.nccu.edu.tw/bitstream/140.119/119942/1/%E8%BE%9C%E7%A5%9E%E5%BE%B9.pdf
+- 探討臺北盆地聚落與土地公信仰
+    - https://www.facebook.com/groups/582154450196478/posts/1050139883397930/
 - 台北市繞境列舉
     - FB 社團【北部愛看廟會時刻區】https://www.facebook.com/groups/1996370207338616
     - (南萬華) 保儀大夫加蚋庄 http://li.taipei/wh_zhongde/35984_177906187
