@@ -37,7 +37,7 @@ description: "Compare Cypress, Selenium, and Playwright to find the best automat
 
 <p>Browser support refers to the ability of a certain website or web app to function consistently on different web browsers (Chrome, Mozilla Firefox, Safari, and Microsoft Edge). If your favourite Automated testing tool can work across major browsers, you can have peace of mind that your app works no matter the browser choice of your users. The essence of considering browser support is that cross-browser testing is one of the major tests carried out by testers and devs. Now, let's take a look at all three Automated testing tools in terms of browser support:
 
-<p><strong>**Cypress**:</strong> Cypress supports major browsers like Chromium and Firefox. <a href="https://docs.cypress.io/guides/guides/launching-browsers#WebKit-Experimental">Though it has experimental support for Safari</a> which means that not all features will work properly. Asides from this, it has good support on Chrome, Firefox, and Edge. It can run tests across multiple browser versions directly from the Cypress test runner, which makes it convenient to run tests on older browser versions, maintained versions, and unreleased versions.</p>
+<p><strong>Cypress:</strong> Cypress supports major browsers like Chromium and Firefox. <a href="https://docs.cypress.io/guides/guides/launching-browsers#WebKit-Experimental">Though it has experimental support for Safari</a> which means that not all features will work properly. Asides from this, it has good support on Chrome, Firefox, and Edge. It can run tests across multiple browser versions directly from the Cypress test runner, which makes it convenient to run tests on older browser versions, maintained versions, and unreleased versions.</p>
    
 ![Cypress browser selector](https://i.imgur.com/5NMO9RH.png)
 
@@ -352,6 +352,8 @@ Choosing the most suitable Automated testing tool is a very essential step that 
 You must carefully consider all these factors before choosing an Automated testing tool to prevent difficulty while testing, So while all these tools may be robust with good community support, you should always choose a tool that closely matches your use-case.
 
 >**For further reading, Click on the links provided below**: 
+
+[Selenium vs Playwright vs Pupeteer: A comparison](https://www.browserstack.com/guide/cypress-vs-selenium-vs-playwright-vs-puppeteer)
 
 [Selenium vs playwright vs cypress: A comparison](https://www.lambdatest.com/blog/playwright-vs-selenium-vs-cypress/)
 
