@@ -48,7 +48,7 @@ In this zone, we aim to apply the reference for our input element with the help 
 
 Let’s begin with creating a basic input field component that will later act as a basis for our auto-focus functionality. We can define a functional component called `AutofocusInput` inside a new React component file. The component returns a plain input element that eventually will have this autofocus characteristic.
 
-Next, we create a reference using the `useRef` hook for our input element. `useRef` returns any mutable object during its whole life cycle in the particular component. This object has a current property that can be set to point to the [dom node](https://developer.mozilla.org/en-US/docs/Glossary/Node/DOM) of the input field itself. Hence, by creating the reference to this element, we can access its properties and methods (like the focus method) to set automatic focus on it.
+Next, we create a reference using the `useRef` hook for our input element. `useRef` returns any mutable object during its whole life cycle in the particular component. This object has a current property that can be set to point to the [dom node](https://developer.mozilla.org/en-US/docs/Glossary/Node/DOM) of the input field itself. Hence, by creating the reference to this element, we can access its properties and methods (like the `focus` method) to set automatic focus on it.
 
 Here's how we can set up the `useRef` hook:
 ```javascript
@@ -57,7 +57,7 @@ import React, { useRef, useEffect } from "react";
 const AutofocusInput = () => {
   const inputRef = useRef(null);
 
-  return <input ref={inputRef} type="text" placeholder="This is a next focus" />;
+  return <input ref={inputRef} type="text" placeholder="this is a next focus" />;
 };
 
 export default AutofocusInput;
@@ -74,7 +74,7 @@ Later, this component returns a [JSX](https://legacy.reactjs.org/docs/introducin
 
 Eventually, interestingly enough, `AutofocusInput` is the component that gets exported using `export default`. This means it remains accessible for other importations; thanks to this `export` statement, components or files can access `AutofocusInput` through imports, thus facilitating reusability and modularity within React projects.
 
-Expected output:
+Expected code output:
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8a4c4248d8dbe383f448f9a8e16f2b78.gif)
 
@@ -97,7 +97,7 @@ const AutofocusInput = () => {
     inputRef.current.focus();
   }, []);
 
-  return <input ref={inputRef} type="text" placeholder="This is a next focus" />;
+  return <input ref={inputRef} type="text" placeholder="this is a next focus" />;
 };
 
 export default AutofocusInput;
@@ -106,7 +106,7 @@ Detailed code explanation:
 
 The `AutofocusInput` is a React functional component provided in the code that shows how to use the `useRef` and `useEffect` hooks to focus on an input field automatically when the component mounts. The code imports `useRef` and `useEffect` from the React library at its topmost part. These hooks are used mainly for reference management of `DOM` elements while also playing a role in handling side effects concerning functional components. `AutofocusInput` is a functional component, meaning a Javascript function that returns a React element representing UI. Inside the body of this component, we find that it utilizes the `useRef` hook to create mutable reference object `inputRef` initialized to a null value. This reference object will then hold a reference to its actual `DOM` element — the input field itself.
 
-After the rendition of that component, there is an effect management used by `useEffect` hook. The component function is called after mountings; therefore, it runs once after the first renderings only in the case of the chosen `useEffect`. Inside this function, call `inputRef.current.focus()`. This aims to focus on an input element. Furthermore, it focuses on an input element because inside the function there is a reference to the DOM element whose name is the input field, and it refers to the current property of `inputRef`. Thus, simply passing an empty dependency array `([])` as a second argument to `useEffect` ensures that this effect will only run once immediately after the mountings of such components. The UI is represented by the `JSX` expression returned by the component. Just one `<input>` element is included here. The `ref` attribute of the input element has been set to `inputRef`, which was earlier created using `useRef`. This relationship means that when such a component mounts, React can keep a reference to the real `DOM` input element in `inputRef.current`.
+After the rendition of that component, there is an effect management used by `useEffect` hook. The component function is called after mountings; therefore, it runs once after the first renderings only in the case of the chosen `useEffect`. Inside this function, call `inputRef.current.focus()`. This aims to focus on an input element. Furthermore, it focuses on an input element because inside the function there is a reference to the `DOM` element whose name is the input field, and it refers to the current property of `inputRef`. Thus, simply passing an empty dependency array `([])` as a second argument to `useEffect` ensures that this effect will only run once immediately after the mountings of such components. The UI is represented by the `JSX` expression returned by the component. Just one `<input>` element is included here. The `ref` attribute of the input element has been set to `inputRef`, which was earlier created using `useRef`. This relationship means that when such a component mounts, React can keep a reference to the real `DOM` input element in `inputRef.current`.
 
 Consequently, while rendering the `AutofocusInput` component via `useRef` together with `useEffect`, its input field gets automatically focused, producing a smooth user experience since it is primed for those who want to interact with it without doing anything else like making clicks within its location. Eventually, this component was exported using export default `AutofocusInput`. This export statement enables the import and use of this `AutofocusInput` component from other files in the application, hence fostering modularity of design and code reuse across different systems.
 
