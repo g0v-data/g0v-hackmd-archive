@@ -72,7 +72,7 @@ tags: vtaiwan
 
 
 ### 預算
-
+- [預算表](https://docs.google.com/document/d/1MZ4K03VxDjnkByUQ48uQorVDbGS0lU2EYPQ_zsFu81I/edit?usp=sharing)
 - 場地：2000元（如果有 keyholder，捐款給揪松團） 
 - 食物與飲料：一場1000元
 - 講師費：一場3000元
