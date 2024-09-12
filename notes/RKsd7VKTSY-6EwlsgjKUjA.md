@@ -43,78 +43,72 @@ npm install typescript @types/node @types/react @types/react-dom @types/jest
 ```
 Your project will have TypeScript added to it, together with type definitions for React and other necessary libraries. The use of TypeScript can aid in detecting possible mistakes early during programming and offer a more solid programming experience via static type checking.
 
-### Creating a basic input field component
-In this zone, we aim to apply the reference for our input element with the help of the `useRef` hook, which allows us to speak directly to specific `DOM` objects. By doing so, we can access different properties and functions of the input field, such as its automatic focus. This is an essential stage, as it enables you to concentrate on the exact moment in the life cycle of a React component when you need focus functionalities. 
+### Enhancing Autofocus in a Multi-Input Form
+This part aims to create a comprehensive form with several input fields. The form will include fields for “First Name,” “Last Name” and “Phone Number.” The idea is to implement some key behaviors into these forms to enhance user experience.
 
-Let’s begin with creating a basic input field component that will later act as a basis for our auto-focus functionality. We can define a functional component called `AutofocusInput` inside a new React component file. The component returns a plain input element that eventually will have this autofocus characteristic.
+First, we need to ensure that when the page is loaded or the component is rendered, the focus goes straight to the “First Name” text box. This helps in those forms where users are expected to start typing right away, making it easier for them not to click on the first field. This will be done through useRef and useEffect hooks.
 
-Next, we create a reference using the `useRef` hook for our input element. `useRef` returns any mutable object during its whole life cycle in the particular component. This object has a current property that can be set to point to the [dom node](https://developer.mozilla.org/en-US/docs/Glossary/Node/DOM) of the input field itself. Hence, by creating the reference to this element, we can access its properties and methods (like the `focus` method) to set automatic focus on it.
+Next, we aim to establish dynamic interactions for other input fields. More specifically, we will be incorporating a feature that has to do with the input fields eliciting focal activities when they are hovered over. So for example when a user moves their mouse on top of “Last Name” or “Phone Number” the respective fields become focused automatically. As such this serves the purpose of making the form more intuitive and also interactive since it reacts to all these mouse movements and actions without necessarily requiring more clicks.
 
-Here's how we can set up the `useRef` hook:
-```javascript
-import React, { useRef, useEffect } from "react";
-
-const AutofocusInput = () => {
-  const inputRef = useRef(null);
-
-  return <input ref={inputRef} type="text" placeholder="this is a next focus" />;
-};
-
-export default AutofocusInput;
-```
-Detailed code explanation:
-
-In the above code snippet, a simple React practical component called `AutofocusInput` shows how to use the useRef hook to create a reference for an element inside the Document Object Model (DOM), i.e., an input field. This example is meant to help understand how DOMs can be directly manipulated in a React application, thus making it possible to create more responsive and dynamic user interfaces.
-
-Firstly, we import the necessary React functions at the top of this file. This includes importing from the React library; these two are `useRef`, and from there again is `useEffect`. The `useRef` hook is normally meant to allow the creation of changeable references for certain parts of an [HTML](https://html.com/) page, as it is usually associated with performing various actions in terms of functions. However, as demonstrated by this code snippet, it becomes unnecessary because it was never used.
-
-Then, `AutofocusInput` is defined as a functional component. This means it is a plain [JavaScript](https://www.javascript.com/) function that returns a React element. At the beginning of this component, we call the `useRef` hook to create a reference variable named `inputRef`. When we use `useRef`, it gives us back an object with a property current whose initial value is set to null. This current property will later hold the reference to an input element.
-
-Later, this component returns a [JSX](https://legacy.reactjs.org/docs/introducing-jsx.html) representation that represents its UI design. In this particular case, there exists one single `<input>` element within the `JSX` code. For instance, the `ref` attribute from the `<input>` element must be assigned with `inputRef`, the reference object created earlier, as discussed in the example above. Hence, after mounting the component on the web page or app or whatever you call it directly through managing simply by reference object with the help of its current property, which was mentioned in the previous paragraph.
-
-Eventually, interestingly enough, `AutofocusInput` is the component that gets exported using `export default`. This means it remains accessible for other importations; thanks to this `export` statement, components or files can access `AutofocusInput` through imports, thus facilitating reusability and modularity within React projects.
-
-Expected code output:
-
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8a4c4248d8dbe383f448f9a8e16f2b78.gif)
-
-In contrast, if we take into account this certain situation, then it’s worth mentioning that there is no need to target the input field. However, typically `useEffect` would be used to set focus on the input element at the mount time of the component through calling `inputRef.current.focus()`. As such, since there is no `useEffect` within the above code, the input will not automatically receive focus when the component mounts, as shown in the GIF above.
-
-### Applying the `useEffect` hook for auto-focus
-This is why we have the `useEffect` hook in this section: to help us implement autofocus functionality post-rendering the component. React renders components before the complete availability of `DOM` elements is where we use the `useEffect` hook so that focus only comes in after the input field becomes available in the `DOM`. By doing so, it implies that by the time the component mounts, one can always expect input fields to be focused for better [UX](https://en.wikipedia.org/wiki/User_experience). 
-
-Having gotten the reference to the input element, it is possible to use the `useEffect` hook in applying autofocus. The effect will happen after the rendering has taken place, which makes it a suitable place to call on our method of input focus. This ensures that, immediately upon mounting the component, there is a focus on the input field.
-
-Thus, we can use the `useEffect` below for applying autofocus:
+Through these additions, we will have a form that not only attracts a user’s gaze during its first part but also improves user experience by moving from one field to another through other aspects of interaction that happen automatically and dynamically with users as they navigate through it. Now let us look at how this can be done in code.
 
 ```javascript
-import React, { useRef, useEffect } from "react";
+import React, { useRef, useEffect } from 'react';
 
-const AutofocusInput = () => {
-  const inputRef = useRef(null);
+const AutofocusForm = () => {
+  // Create references for each input field
+  const firstNameRef = useRef(null);
+  const lastNameRef = useRef(null);
+  const phoneRef = useRef(null);
 
+  // Automatically focus on the first name field when the component mounts
   useEffect(() => {
-    inputRef.current.focus();
+    firstNameRef.current.focus();
   }, []);
 
-  return <input ref={inputRef} type="text" placeholder="this is a next focus" />;
+  // Function to handle mouse over event and focus on the respective input
+  const handleMouseOver = (inputRef) => {
+    inputRef.current.focus();
+  };
+
+  return (
+    <form>
+      <div>
+        <label htmlFor="firstName">First Name:</label>
+        <input
+          ref={firstNameRef}
+          type="text"
+          id="firstName"
+          placeholder="Enter your first name"
+          onMouseOver={() => handleMouseOver(firstNameRef)}
+        />
+      </div>
+      <div>
+        <label htmlFor="lastName">Last Name:</label>
+        <input
+          ref={lastNameRef}
+          type="text"
+          id="lastName"
+          placeholder="Enter your last name"
+          onMouseOver={() => handleMouseOver(lastNameRef)}
+        />
+      </div>
+      <div>
+        <label htmlFor="phone">Phone Number:</label>
+        <input
+          ref={phoneRef}
+          type="text"
+          id="phone"
+          placeholder="Enter your phone number"
+          onMouseOver={() => handleMouseOver(phoneRef)}
+        />
+      </div>
+    </form>
+  );
 };
 
-export default AutofocusInput;
+export default AutofocusForm;
 ```
-Detailed code explanation:
-
-The `AutofocusInput` is a React functional component provided in the code that shows how to use the `useRef` and `useEffect` hooks to focus on an input field automatically when the component mounts. The code imports `useRef` and `useEffect` from the React library at its topmost part. These hooks are used mainly for reference management of `DOM` elements while also playing a role in handling side effects concerning functional components. `AutofocusInput` is a functional component, meaning a Javascript function that returns a React element representing UI. Inside the body of this component, we find that it utilizes the `useRef` hook to create mutable reference object `inputRef` initialized to a null value. This reference object will then hold a reference to its actual `DOM` element — the input field itself.
-
-After the rendition of that component, there is an effect management used by `useEffect` hook. The component function is called after mountings; therefore, it runs once after the first renderings only in the case of the chosen `useEffect`. Inside this function, call `inputRef.current.focus()`. This aims to focus on an input element. Furthermore, it focuses on an input element because inside the function there is a reference to the `DOM` element whose name is the input field, and it refers to the current property of `inputRef`. Thus, simply passing an empty dependency array `([])` as a second argument to `useEffect` ensures that this effect will only run once immediately after the mountings of such components. The UI is represented by the `JSX` expression returned by the component. Just one `<input>` element is included here. The `ref` attribute of the input element has been set to `inputRef`, which was earlier created using `useRef`. This relationship means that when such a component mounts, React can keep a reference to the real `DOM` input element in `inputRef.current`.
-
-Consequently, while rendering the `AutofocusInput` component via `useRef` together with `useEffect`, its input field gets automatically focused, producing a smooth user experience since it is primed for those who want to interact with it without doing anything else like making clicks within its location. Eventually, this component was exported using export default `AutofocusInput`. This export statement enables the import and use of this `AutofocusInput` component from other files in the application, hence fostering modularity of design and code reuse across different systems.
-
-Expected code output:
-
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_53d226c864e2c7dd4f3430268ba2b0fd.gif)
-
-When rendering the `AutofocusInput` component, the input field is immediately given focus so that the user can start typing even without manually selecting it. This behavior is critical in forms that need to provide direction for the user’s attention on a particular field, resulting in an enhanced total user experience.
 
 ## Common Pitfalls and Troubleshooting
 Developers may face common pitfalls and challenges when implementing autofocus using react hooks. In different scenarios, the reliability and consistency of autofocus may be compromised by delayed rendering of the components and browser-specific eccentricities, among others. It is important to understand these problems and know how to troubleshoot them to have a smooth user experience.

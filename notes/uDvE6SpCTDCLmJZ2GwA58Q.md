@@ -229,7 +229,24 @@ tags: 新生流域
     - 龍瑛宗 是否有描繪臺北內水的作品？https://zh.m.wikipedia.org/zh-tw/%E9%BE%8D%E7%91%9B%E5%AE%97
     - 基隆河舊河道表演藝術中心開挖相關探討 https://www.facebook.com/story.php?story_fbid=pfbid0aUxwbGiNNZ4z7jHotZYARv8uBZ1q3gfHEDzsYzXgdnuqGJwg3zyPJbpMQXZDBzRPl&id=100000270465918&mibextid=WC7FNe
 
-### 案例
+漢人信仰
+- 2018 神明、祖先、恩人 - 臺北盆地的祖佛信仰
+    - https://nccur.lib.nccu.edu.tw/bitstream/140.119/119942/1/%E8%BE%9C%E7%A5%9E%E5%BE%B9.pdf
+- 探討臺北盆地聚落與土地公信仰
+    - https://www.facebook.com/groups/582154450196478/posts/1050139883397930/
+- 台北市繞境列舉
+    - FB 社團【北部愛看廟會時刻區】https://www.facebook.com/groups/1996370207338616
+    - (南萬華) 保儀大夫加蚋庄 http://li.taipei/wh_zhongde/35984_177906187
+    - (南萬華) 郭姓四大角汾陽忠武王加蚋仔角值東祭典 https://www.facebook.com/sango666/media_set?set=a.10152129713927070.1073741834.738677069&type=3
+    - (大安森林公園西側) 大安庄保儀大夫 https://www.facebook.com/sango666/media_set?set=a.10155029790682070.1073741895.738677069&type=3
+    - (大安森林公園西側) 位在潮州街上奉祀嘉義港口媽祖、同時可算是錦町最具公廟規模的「台北泰安宮」遶境 https://www.facebook.com/sango666/media_set?set=a.10153266478562070.1073741859.738677069&type=3
+    - (台灣大學西側)「林口庄」七爺八爺出巡 https://www.facebook.com/photo.php?fbid=10153652265627070&set=a.132991417069.106924.738677069&type=3&theater
+    - (台灣大學東側)「六張犁」七爺八爺出巡 https://www.facebook.com/photo.php?fbid=10153652265627070&set=a.132991417069.106924.738677069&type=3&theater
+    - (松山) 松山媽與十三街庄 https://www.taipei-walkingtour.tw/t-tours211
+    - (內湖) 內湖武身開漳聖王遶境 https://www.facebook.com/sango666/media_set?set=a.10153200325142070.1073741854.738677069&type=3
+    - (木柵) 「迎尪公巡田園」https://www.facebook.com/events/397159280658896/
+
+### 國內外經驗與借鏡案例
 - 芝加哥 河流人工浮島 https://www.facebook.com/share/r/V43PRFoXfobp3er2/
 - 韓國 光電板結合自行車專用道 
     - https://www.facebook.com/share/tdvsKEtCv4RUgYmW/
@@ -273,23 +290,6 @@ tags: 新生流域
     - https://www.facebook.com/visualutopias/posts/pfbid02EP9WzGwN7T4X9r9xN7oPskyjYFM8647xh6GaQgSAPN1pKw4rbX2guPbRDDu7BfgGl
 
 
-漢人信仰
-- 2018 神明、祖先、恩人 - 臺北盆地的祖佛信仰
-    - https://nccur.lib.nccu.edu.tw/bitstream/140.119/119942/1/%E8%BE%9C%E7%A5%9E%E5%BE%B9.pdf
-- 探討臺北盆地聚落與土地公信仰
-    - https://www.facebook.com/groups/582154450196478/posts/1050139883397930/
-- 台北市繞境列舉
-    - FB 社團【北部愛看廟會時刻區】https://www.facebook.com/groups/1996370207338616
-    - (南萬華) 保儀大夫加蚋庄 http://li.taipei/wh_zhongde/35984_177906187
-    - (南萬華) 郭姓四大角汾陽忠武王加蚋仔角值東祭典 https://www.facebook.com/sango666/media_set?set=a.10152129713927070.1073741834.738677069&type=3
-    - (大安森林公園西側) 大安庄保儀大夫 https://www.facebook.com/sango666/media_set?set=a.10155029790682070.1073741895.738677069&type=3
-    - (大安森林公園西側) 位在潮州街上奉祀嘉義港口媽祖、同時可算是錦町最具公廟規模的「台北泰安宮」遶境 https://www.facebook.com/sango666/media_set?set=a.10153266478562070.1073741859.738677069&type=3
-    - (台灣大學西側)「林口庄」七爺八爺出巡 https://www.facebook.com/photo.php?fbid=10153652265627070&set=a.132991417069.106924.738677069&type=3&theater
-    - (台灣大學東側)「六張犁」七爺八爺出巡 https://www.facebook.com/photo.php?fbid=10153652265627070&set=a.132991417069.106924.738677069&type=3&theater
-    - (松山) 松山媽與十三街庄 https://www.taipei-walkingtour.tw/t-tours211
-    - (內湖) 內湖武身開漳聖王遶境 https://www.facebook.com/sango666/media_set?set=a.10153200325142070.1073741854.738677069&type=3
-    - (木柵) 「迎尪公巡田園」https://www.facebook.com/events/397159280658896/
-
 ::: spoiler Done 註記已完成事項，點我閱覽 
 - 20190220 建立線上地圖
 - 已於地圖加上 20190217 影片 (360環拍、DV 的影像段落) 的涵蓋路線
@@ -297,7 +297,7 @@ tags: 新生流域
 :::
 <br>
 
-常用網站
+### 常用網站：歷史地圖、歷史航照、地名路名歷史
 - 臺北百年歷史地圖 https://gissrv4.sinica.edu.tw/gis/taipei.aspx
     - 1895 《臺北及大稻埕‧艋舺略圖》 用來了解三市街與台北城時期的水環境
     - 1904 堡圖
@@ -305,6 +305,12 @@ tags: 新生流域
     - 1936 改正臺北市全圖（備註：此時大排尚未興建完成）
     - 1944-1974 舊航照
     - 2003 舊航照
+- 1932 年大台北水路圖資
+    - https://www.google.com/maps/d/u/0/viewer?mid=1dakBjsPM-rVzhrgsZsd4dvVYSQo
+- 台車軌道地圖集
+    - https://maps.app.goo.gl/ZwZkehLaBNtAbs8W8
+- 台湾 臺糖鐵道 廃線跡 配線図式路線図
+    - https://www.google.com/maps/d/viewer?mid=1vVF4DVLLea0wTYEFPTM603GRAg8
 - 臺北市歷史圖資展示系統 https://www.historygis.udd.gov.taipei/urban/
     - 1958 民國47年版地形圖(1/1,200)
     - 1969 民國58年版地形圖(1/1,200)
@@ -313,6 +319,8 @@ tags: 新生流域
     - 1973-20xx 各地區的歷史航照
 - 受保護老樹經緯度資料與地圖
     - https://www.google.com/maps/d/viewer?mid=1bXRCRxkLjHqOs5gHOSMzxNRIQ31GYx8
+- 舊地名：聚落、自然地理實體、堡圖中的地名位置
+    - https://gn.moi.gov.tw/GeoNames/geoNameSearch
 - 臺北市地名與路街沿革史
     - https://tm.ncl.edu.tw/article?u=022_003_00002940&lang=chn
 
