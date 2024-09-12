@@ -10,6 +10,8 @@ tags: 新生流域
 photo by philipleets (CC BY-NC-SA 3.0 TW)
 https://cyberisland.teldap.tw/P/qAttzEfujii
 
+探討橋面下的空間，單車動線如何連續
+
 ## 馬拉松
 
 馬拉松跑者的城市 - 從跑者友善的角度檢視城市開放空間品質
@@ -23,7 +25,8 @@ https://www.facebook.com/groups/582154450196478/posts/770044471407474/
 
 新生高架路跑過程視角的影片
 https://www.youtube.com/watch?v=r6qJVBRziWE&list=PLjBlyKwAdyCVlUz5gARhas4CRQh9zNLhv
-
+20240908 
+https://www.facebook.com/share/p/fPKGmCi128QRCQiW/
 
 以基隆河為主的路線，路線也算包含新生流域的北側範圍邊界
 https://www.garmin.com.tw/event/2024/garmin-run/route.html
