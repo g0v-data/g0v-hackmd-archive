@@ -44,16 +44,16 @@ npm install typescript @types/node @types/react @types/react-dom @types/jest
 Your project will have TypeScript added to it, together with type definitions for React and other necessary libraries. The use of TypeScript can aid in detecting possible mistakes early during programming and offer a more solid programming experience via static type checking.
 
 ### Enhancing Autofocus in a Multi-Input Form
-This part aims to create a comprehensive form with several input fields. The form will include fields for “First Name,” “Last Name” and “Phone Number.” The idea is to implement some key behaviors into these forms to enhance user experience.
+This part aims to create a comprehensive form with several input fields. The form will include fields for “First Name,” “Last Name” and “Phone Number.” The idea is to implement key behaviors into these forms to enhance user experience.
 
-First, we need to ensure that when the page is loaded or the component is rendered, the focus goes straight to the “First Name” text box. This helps in those forms where users are expected to start typing right away, making it easier for them not to click on the first field. This will be done through useRef and useEffect hooks.
+First, we must ensure that when the page is loaded or the component is rendered, the focus goes straight to the “First Name” text box. This helps in those forms where users are expected to start typing right away, making it easier for them not to click on the first field. This will be done through useRef and useEffect hooks.
 
-Next, we aim to establish dynamic interactions for other input fields. More specifically, we will be incorporating a feature that has to do with the input fields eliciting focal activities when they are hovered over. So for example when a user moves their mouse on top of “Last Name” or “Phone Number” the respective fields become focused automatically. As such this serves the purpose of making the form more intuitive and also interactive since it reacts to all these mouse movements and actions without necessarily requiring more clicks.
+Next, we aim to establish dynamic interactions for other input fields. More specifically, we will add a feature that has to do with the input fields eliciting focal activities when they are hovered over. So for example when a user moves their mouse on top of “Last Name” or “Phone Number” the respective fields become focused automatically. As such this serves the purpose of making the form more intuitive and also interactive since it reacts to all these mouse movements and actions without necessarily requiring more clicks.
 
 Through these additions, we will have a form that not only attracts a user’s gaze during its first part but also improves user experience by moving from one field to another through other aspects of interaction that happen automatically and dynamically with users as they navigate through it. Now let us look at how this can be done in code.
 
 ```javascript
-import React, { useRef, useEffect } from 'react';
+import React, { useRef, useEffect } from "react";
 
 const AutofocusForm = () => {
   // Create references for each input field
@@ -109,6 +109,27 @@ const AutofocusForm = () => {
 
 export default AutofocusForm;
 ```
+Code explanation:
+
+Then again, as part of making a website with a simple form having three fields named "First Name,"  "Last Name,"  and "Phone Number,"  there is an introductory code to `AutofocusForm`, which constitutes a React functional component whose main work is to focus on the first name input box each time the page or component loads and also when the user hovers his mouse over any of its two remaining input boxes.
+
+To start with this component, we have `firstNameRef`, `lastNameRef`, and `phoneRef` references made by the `useRef` hook. When the component is rendered after that, these references will be attached to each single input field, hence allowing us to manipulate `DOM` elements.
+
+So as soon as the component mounts, the input field entitled "First Name" is automatically focused using the `useEffect` hook (i.e., when the form is first rendered). This empty dependency array `([])` ensures that this effect only runs once when the component is mounted.
+
+A helper function named `handleMouseOver` has been created to enable the handling of mouseover events. It takes an input field as its parameter and calls its `focus()` method if the user hovers over the respective input. This action is assigned to each input field using the `onMouseOver` attribute. That means, whenever the mouse cursor moves above any of these input boxes, it will be activated to focus automatically. 
+
+In the return statement, there are three labeled input fields. The `ref` attribute of each field refers to its reference (created via user) and has an `onMouseOver` event that allows a dynamic focus based on mouse hover. The effect is that when interacting with this form, both component loading and mouse movement activate the inputs, which improves the overall user experience.
+
+Expected output:
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3ce7e3d3cb8b92863cc36b679a2f8fd3.gif)
+
+The `AutofocusForm` displays a form to the user with three input fields called "first name," "last name," and "phone number." When the page loads, the "First Name" field will have an auto-focus feature, which means that the blinking cursor will appear inside it and allow the person to continue typing. This action is controlled by the `useEffect` hook, as it ensures that focus is set on the “First Name” input when the form appears on the screen.
+
+Like "Last Name" or "Phone Number," hovering over other fields will automatically cause focus to be directed towards an input field. By moving your cursor on the last name box, for example, it will be positioned such one can begin typing promptly without even clicking on it first. Similar is the case with the phone number field. Such interactivity is achievable because whenever any mouse moves across one of these input areas, the `handleMouseOver` function ensures they are focused.
+
+Therefore, the general user encounter will be seamless and effortless. Furthermore, it is easy for users to enter their first names by loading forms, as attention is directed towards each area as soon as they hover over any other field. Thereby, no extra clicking is needed, increasing interactivity and making it much easier for users to fill out forms quickly.
 
 ## Common Pitfalls and Troubleshooting
 Developers may face common pitfalls and challenges when implementing autofocus using react hooks. In different scenarios, the reliability and consistency of autofocus may be compromised by delayed rendering of the components and browser-specific eccentricities, among others. It is important to understand these problems and know how to troubleshoot them to have a smooth user experience.
