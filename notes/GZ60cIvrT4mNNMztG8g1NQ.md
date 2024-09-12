@@ -215,3 +215,6 @@ https://www.facebook.com/share/v/VAHdK19e69uFixqC/
 
 搭火車路過坡地災害處並拍照
 https://www.facebook.com/permalink.php?story_fbid=pfbid02RE1FHfwUF2kdwayuBKyREXMvdhTuuG4c2NTgWXKA88Vs8DB1UX8NNFxijdJeHiZCl&id=100000293947161
+
+1951 花蓮地震，鐵軌變形 
+https://www.facebook.com/share/p/3SHDUrb2Es6iE64h/

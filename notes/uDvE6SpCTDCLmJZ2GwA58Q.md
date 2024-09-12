@@ -71,6 +71,8 @@ tags: 新生流域
         - https://www.facebook.com/photo?fbid=885845619797769&set=a.113042847078054
     - 延平基督教會，直轄市定古蹟 1937年創建
         - https://www.facebook.com/SimhoYang/posts/pfbid0X3Z3FFtD5nKNDsRKDCGCNoam2Vmjh3qz1j3PfWpiNf94bTGvchaGSb5KveCn7niSl
+    - 1938 照片 現今 中正國小 https://www.facebook.com/share/p/e6cWnonp5iqfq8UW/
+    - 照片，莒光路 93 巷，https://www.facebook.com/share/p/RYrsD7EgmGJxZFCY/
     - 陳永成公廳 https://www.facebook.com/photo.php?fbid=10150261926963618&id=747873617&set=a.10151834790708618&mibextid=qC1gEa
     - 1900 照片，北門與護城河 https://www.facebook.com/share/p/QXoJXgeDdtwuDSAu/
     - 1930 古亭市場 http://linchunsheng.blogspot.com/2011/02/blog-post_05.html
