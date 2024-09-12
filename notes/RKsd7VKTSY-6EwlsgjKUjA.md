@@ -46,7 +46,7 @@ Your project will have TypeScript added to it, together with type definitions fo
 ### Enhancing Autofocus in a Multi-Input Form
 This part aims to create a comprehensive form with several input fields. The form will include fields for “First Name,” “Last Name” and “Phone Number.” The idea is to implement key behaviors into these forms to enhance user experience.
 
-First, we must ensure that when the page is loaded or the component is rendered, the focus goes straight to the “First Name” text box. This helps in those forms where users are expected to start typing right away, making it easier for them not to click on the first field. This will be done through useRef and useEffect hooks.
+First, we must ensure that when the page is loaded or the component is rendered, the focus goes straight to the “First Name” text box. This helps in those forms where users are expected to start typing right away, making it easier for them not to click on the first field. This will be done through `useRef` and `useEffect` hooks.
 
 Next, we aim to establish dynamic interactions for other input fields. More specifically, we will add a feature that has to do with the input fields eliciting focal activities when they are hovered over. So for example when a user moves their mouse on top of “Last Name” or “Phone Number” the respective fields become focused automatically. As such this serves the purpose of making the form more intuitive and also interactive since it reacts to all these mouse movements and actions without necessarily requiring more clicks.
 
