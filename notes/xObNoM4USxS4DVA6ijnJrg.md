@@ -94,15 +94,15 @@
 這些事件的源頭就是相關法規對於違法棄置的裁罰過於寬鬆，導致從製造到末端的處理都選擇便宜行事，許多再利用廠商早已熟悉法規漏洞成立人頭公司作為防火牆，目前卻仍看不到法規方面有好的進展。學甲爐渣事件雖然沒有直接造成作物污染的證據，但從李新進里長因為種植玉米發育不良進而發現埋有爐渣的過程，我們清楚感受到環保單位現行的 TCLP 檢驗方法離我們對食品安全的期待有很大落差；加上鄰近事件場址的將軍溪一直有底泥重金屬過高的問題，我擔心還有許多未爆彈存在。
 
 相關連結：
-1. [台南農地遭回填爐渣　環署急查](https://tw.appledaily.com/life/20150814/3XYEFLKRTV3K3BUDX46U7H377Q/)
-2. [爐渣農地重金屬超標　學者籲全面檢驗](https://tw.appledaily.com/life/20150815/MFTRVE6KZEW5ICZXPNC7ETDOWE/)
+1. [台南農地遭回填爐渣　環署急查](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=875)
+2. [爐渣農地重金屬超標　學者籲全面檢驗](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=872)
 3. [緊急查封69噸 爐渣米幸未上市](https://tw.appledaily.com/headline/20150816/RCMQ6B4ELPPW66QLSXMPKDIVEM/)
 4. [台南市環保局Q&A](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTU5L3JlbGZpbGUvMTc1MTUvNzcwOTMwMS84OTMwYzk1Yy0zYTBjLTQzMDctOWRhMi04ZjQ1MDdiNGFjZWMucGRm&n=5a2455Sy6L6y5Zyw5aGr5Z%2bL54iQ56K05qGIUV9BLnBkZg%3d%3d&icon=.pdf)
 5. 20190618 學甲區公所 函, 發文字號 所民字第1080424918號
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
 6. [TVBS 毒渣現形記專題預告](https://www.facebook.com/1287274464/videos/10217654562977676/)
 7. [《毒渣現形記》調查報導！直擊大廠假再利用真濫倒 看不見的台灣](https://www.youtube.com/watch?v=Mw6dp-TJABY)
-8. [[爆卦] 黃偉哲臉書回應避重就輕 絕口不提郭再欽](https://www.ptt.cc/bbs/Gossiping/M.1598097861.A.08E.html)
+8. [[爆卦] 黃偉哲臉書回應避重就輕 絕口不提郭再欽](https://disp.cc/ptt/Gossiping/1VGGd52E)
 9. [立法委員 陳椒華 學甲爐碴，環保吃案 記者會](https://www.facebook.com/ironprofessorchan/posts/210880567047300)
 10. [學甲農地填埋爐碴案管控積極清理](https://web.tainan.gov.tw/epb/News_Content.aspx?n=15914&s=7709494)
 11. [立法委員 陳椒華 學甲貸款買地埋爐渣 無本生意賺很大 記者會](https://www.facebook.com/ironprofessorchan/posts/212947383507285)
@@ -131,7 +131,7 @@
 30. [環保局回應：陳椒華立委於110年8月30日至「學甲國有地（興業段804-2）遭埋爐碴案現勘一事](https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=7795841)
 31. [學甲國有地爐碴案驗出鉻含量超標 當地里長促市府開罰、清除](https://news.pts.org.tw/article/554199)
 32. [臺南市政府自100年4月1日核發明祥馨企業股份有限公司再利用機構許可後，怠於稽查監督其合法運作，致該市學甲區土地遭填埋大量爐碴，甚至於108年接獲陳情檢舉，竟誤認為104年間案件，肇至裁處權罹於時效，監察委員林國明提案糾正臺南市政府](https://www.cy.gov.tw/News_Content.aspx?n=125&sms=8912&s=23696)
-33. [學甲農地爐渣案業者不法獲利21億 郭再欽等8人遭起訴](https://news.pts.org.tw/article/613707)
+33. [學甲農地爐渣案業者不法獲利21億 郭再欽等8人遭起訴](https://www.tnc.moj.gov.tw/media/305099/%E9%83%ADoo%E9%81%95%E5%8F%8D%E5%BB%A2%E6%A3%84%E6%B8%85%E6%B3%95%E7%AD%89%E7%BD%AA%E5%AB%8C%E6%8F%90%E8%B5%B7%E5%85%AC%E8%A8%B4%E6%96%B0%E8%81%9E%E7%A8%BF.pdf?mediaDL=true)
 34. [20221219專案報告「學甲、後壁爐碴案」](https://www.youtube.com/watch?v=EXPoOGvw7HI)
 35. [台南學甲爐渣案 監委提案彈劾黃偉哲5比7未通過](https://www.cna.com.tw/news/aipl/202402230121.aspx)
 36. [學甲爐碴案迄今只清三分之一　國有地尚有二千多噸未清](https://www.facebook.com/story.php?story_fbid=122176307390188150&id=61555644527991)
