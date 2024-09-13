@@ -55,7 +55,7 @@ WOT
 https://chrome.google.com/webstore/detail/wot-website-security-safe/bhmmomiinigofkjcapegjjndpbikblnp
 
 #### Ken暫存
+RPA
 https://www.tibame.com/course/3904
-Microsoft .NET framework元件合集免費版2.03.54.04.5 需要解壓縮密碼
-A058.exe
-https://www.canva.com/design/DAGQW_VFnnE/C1T7w30WVuvnSItzPLtUbg/view?utm_content=DAGQW_VFnnE&utm_campaign=designshare&utm_medium=link&utm_source=editor#16
+模擬開車
+https://www.youtube.com/watch?v=FVjdhb-A1G4
