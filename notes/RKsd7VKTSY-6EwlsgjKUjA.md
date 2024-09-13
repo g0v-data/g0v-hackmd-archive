@@ -119,7 +119,7 @@ So as soon as the component mounts, the input field entitled "First Name" is aut
 
 A helper function named `handleMouseOver` has been created to enable the handling of mouseover events. It takes an input field as its parameter and calls its `focus()` method if the user hovers over the respective input. This action is assigned to each input field using the `onMouseOver` attribute. That means, whenever the mouse cursor moves above any of these input boxes, it will be activated to focus automatically. 
 
-In the return statement, there are three labeled input fields. The `ref` attribute of each field refers to its reference (created via user) and has an `onMouseOver` event that allows a dynamic focus based on mouse hover. The effect is that when interacting with this form, both component loading and mouse movement activate the inputs, which improves the overall user experience.
+In the `return` statement, there are three labeled input fields. The `ref` attribute of each field refers to its reference (created via user) and has an `onMouseOver` event that allows a dynamic focus based on mouse hover. The effect is that when interacting with this form, both component loading and mouse movement activate the inputs, which improves the overall user experience.
 
 Expected output:
 
