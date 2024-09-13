@@ -33,6 +33,7 @@ poki https://poki.com/zh#utm_source=redirect-en-zh
 遊戲網站    https://www.crazygames.com
 遊戲網站    https://cn.game-game.com
 遊戲天堂    https://www.i-gamer.net/
+經典遊戲    https://playclassic.games/
 2020 Blocks    https://cn.game-game.com/180599/
 冰火人3        https://cn.game-game.com/51792/
 檔案上傳 https://www.dropbox.com/request/NkESuX6UMS3o5wpw2JFW
