@@ -26,16 +26,27 @@
     overfitting原因:資料會有noise
     
     training process: 
-    選擇一個複雜度的模型，去最佳化
+    - 假設一個不那麼複雜的模型
+    - 把data分成train 跟 test
+    - 選擇一個複雜度的模型，去最佳化
 
-公式:
+- 類神經網路:把訊號一層一層的放進去，每一層的node會找到特徵並以非線性的方式傳遞訊號，最後會把資料分成n類。現在的理論認為深度學習是特徵擷取器，只要結果正確就不用特別定義
 
+- 因為運算需求太大，可以把類神經網路的節點當成眼睛，每個節點只會專注在自己專注的那個區塊(local CNN)，現在我們認為每個節點專注的地方(重要性)會一樣，可以share。
 
-:::info
-:bulb: **Hint:** You can also apply styling from the toolbar at the top :arrow_upper_left: of the editing area.
+- 例子:裁判手勢預判練習
+- 例子2(AR):招牌中的連鎖店招牌判斷，相對CNN，FCN還會還原座標標註出照片中的位置
+- Data Augmenatation: 把data微調變成更多可以training的資料
 
-![](https://i.imgur.com/Cnle9f9.png)
-:::
+- content creation:玩家可以自己編輯場景
+- 4D是場景會動
+
+- 用triplet CNN，input 三個東西: (1) 原物件 (2)合的物件 (3)不合的物件
+- 人工智慧開創工人智慧的機會(標記Training data 就填問卷)
+- google autodraw:有限制東西都在database，所以他們要doodle master美化塗鴉，生成新的圖片(在database跟現在塗鴉中間取平衡)
+- gan模型:兩邊互相對抗，生成完有判別器去測試，再生成更厲害的圖片
+- Cross modol:圖片生成聲音或反過來
+
 
 > Drag-n-drop image from your file system to the editor to paste it!
 
