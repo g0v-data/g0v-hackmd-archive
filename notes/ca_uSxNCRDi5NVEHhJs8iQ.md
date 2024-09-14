@@ -46,6 +46,7 @@
 - google autodraw:有限制東西都在database，所以他們要doodle master美化塗鴉，生成新的圖片(在database跟現在塗鴉中間取平衡)
 - gan模型:兩邊互相對抗，生成完有判別器去測試，再生成更厲害的圖片
 - Cross modol:圖片生成聲音或反過來
+- 戰術訓練:穿戴式裝置生成防守者、提供戰術指引，學習戰術
 
 
 > Drag-n-drop image from your file system to the editor to paste it!
