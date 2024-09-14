@@ -3,9 +3,42 @@ tags: FtO, RightsCon
 ---
 # FtO at RightsCon 2025
 
-## 5 Years Facing the Ocean: Connecting Information Accessibility and Integrity Efforts in East Asia
+## RightsCon 2025
+Feb 24-27 2025, Taipei International Convention Center (TICC)
 
-> proposal 24543 [name=chihao]
+## FtO session organization
+
+### Todo list for speakers
+
+- Aug 27: Session accepted
+- Now:
+    - Speakers must also register & get ticket
+        - https://www.rightscon.org/registration/
+        - early bird ends ==Dec 3==
+        - chihao has the discount codes
+            > There are 4 discount codes: 25%, 50%, 75%, 100%-off, 1 ticket each [name=chihao]
+        - [ ] chihao
+            > I am local so I can use the lower discount ticket :) [name=chihao]
+        - [ ] Mami
+        - [ ] Eunsoo
+    - Plan travel + hotel early
+        - [x] chihao - I live in Taipei :)
+        - [ ] Mami
+        - [ ] Eunsoo
+- Mid-Sept: Update session info
+- Oct: Program building, consistent communications with RightsCon team
+- Dec: Program schedule & room assignment
+
+### Session Format
+- 60-min in-person dialogue
+    - Everyone must be on-site
+
+## Proposal
+
+### Title: 5 Years Facing the Ocean: Connecting Information Accessibility and Integrity Efforts in East Asia
+
+> author: chihao
+> proposal 24543
 
 > notes
 > - anti-extradition law info
@@ -40,6 +73,7 @@ Slido will be used to collect questions and feedback during sharing. An facilita
 - Contribute to the dataset of information accessibility and integrity projects in East Asia and Southeast Asia
 
 ### Speakers
+
 - Chihhao Yu, g0v.tw
 - Eunsoo Lee, Code for Korea
 - Mami Takesada, Code for Japan
