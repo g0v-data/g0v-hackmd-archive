@@ -13,18 +13,23 @@
 -  MR-跟AR類似但虛擬物體非常擬真
 
 
-### Step 2: Write something in Markdown
+### Show real player in virtual environment(pose entination)
 
-Let's try it out!
-Apply different styling to this paragraph:
-**HackMD gets everyone on the same page with Markdown.** ==Real-time collaborate on any documentation in markdown.== Capture fleeting ideas and formalize tribal knowledge.
+-  如何在影像裡面找到人物的骨架?
+    
+    難點在於不知道有多少人，以及每個人的姿勢不同難以辨別
+-  demo 1: (2D)套用yolo模型的類神經網路找到人，以深度學習的方式猜到節點高機率存在的點，再猜關節點間如何相鄰以區分每個人，架設圓形場景以紅外線攝影機鎖定位置。
+-  demo 2: (3D)同樣用深度學習的方式(CNN)
 
-- [x] **Bold**
-- [ ] *Italic*
-- [ ] Super^script^
-- [ ] Sub~script~
-- [ ] ~~Crossed~~
-- [x] ==Highlight==
+    CNN的概念:找error function的最小值，解theta，但要解決overfitting的問題
+
+    overfitting原因:資料會有noise
+    
+    training process: 
+    選擇一個複雜度的模型，去最佳化
+
+公式:
+
 
 :::info
 :bulb: **Hint:** You can also apply styling from the toolbar at the top :arrow_upper_left: of the editing area.
