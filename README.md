@@ -2,7 +2,13 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 15010 | 2024-09-15T13:55:25+08:00 |
+| [cofacts](tags/cofacts.md) | 458 | 2024-09-15T15:00:15+08:00 |
+| [meeting note](tags/meeting%20note.md) | 282 | 2024-09-15T15:00:15+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 15013 | 2024-09-15T14:53:55+08:00 |
+| [security](tags/security.md) | 1 | 2024-09-15T14:25:31+08:00 |
+| [resilience](tags/resilience.md) | 33 | 2024-09-15T14:25:31+08:00 |
+| [資安](tags/%E8%B3%87%E5%AE%89.md) | 1 | 2024-09-15T14:25:31+08:00 |
+| [CCPRIP](tags/CCPRIP.md) | 1 | 2024-09-15T14:25:31+08:00 |
 | [GIS](tags/GIS.md) | 159 | 2024-09-15T13:22:32+08:00 |
 | [FtO](tags/FtO.md) | 71 | 2024-09-15T10:02:10+08:00 |
 | [RightsCon](tags/RightsCon.md) | 1 | 2024-09-15T10:02:10+08:00 |
@@ -16,8 +22,6 @@
 | [hackathon](tags/hackathon.md) | 56 | 2024-09-10T21:24:06+08:00 |
 | [insights for g0v.tw](tags/insights%20for%20g0v.tw.md) | 2 | 2024-09-10T20:32:59+08:00 |
 | [救松](tags/%E6%95%91%E6%9D%BE.md) | 3 | 2024-09-10T19:37:25+08:00 |
-| [cofacts](tags/cofacts.md) | 457 | 2024-09-09T20:33:44+08:00 |
-| [meeting note](tags/meeting%20note.md) | 281 | 2024-09-09T20:33:44+08:00 |
 | [dpsurvey](tags/dpsurvey.md) | 10 | 2024-09-09T17:06:40+08:00 |
 | [vTaiwan](tags/vTaiwan.md) | 100 | 2024-09-08T13:46:16+08:00 |
 | [公民參與](tags/%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87.md) | 17 | 2024-09-07T21:42:26+08:00 |
@@ -27,7 +31,6 @@
 | [Rand0mTh0n](tags/Rand0mTh0n.md) | 1 | 2024-09-06T21:25:46+08:00 |
 | [國會松](tags/%E5%9C%8B%E6%9C%83%E6%9D%BE.md) | 8 | 2024-09-06T15:48:26+08:00 |
 | [digital-resilience](tags/digital-resilience.md) | 42 | 2024-09-06T09:25:27+08:00 |
-| [resilience](tags/resilience.md) | 33 | 2024-09-06T09:25:27+08:00 |
 | [internet-shutdown](tags/internet-shutdown.md) | 32 | 2024-09-06T09:25:27+08:00 |
 | [digiresi](tags/digiresi.md) | 32 | 2024-09-06T09:25:27+08:00 |
 | [civil-defense](tags/civil-defense.md) | 42 | 2024-09-06T09:25:27+08:00 |
@@ -216,9 +219,6 @@
 | [糖鐵](tags/%E7%B3%96%E9%90%B5.md) | 4 | 2024-02-29T19:53:33+08:00 |
 | [坑](tags/%E5%9D%91.md) | 8 | 2024-02-29T12:07:31+08:00 |
 | [story](tags/story.md) | 1 | 2024-02-29T12:07:31+08:00 |
-| [security](tags/security.md) | 1 | 2024-02-28T00:44:48+08:00 |
-| [資安](tags/%E8%B3%87%E5%AE%89.md) | 1 | 2024-02-28T00:44:48+08:00 |
-| [CCPRIP](tags/CCPRIP.md) | 1 | 2024-02-28T00:44:48+08:00 |
 | [digital_development](tags/digital_development.md) | 4 | 2024-02-27T01:41:15+08:00 |
 | [public money](tags/public%20money.md) | 2 | 2024-02-27T01:41:15+08:00 |
 | [報稅](tags/%E5%A0%B1%E7%A8%85.md) | 1 | 2024-02-27T01:41:15+08:00 |

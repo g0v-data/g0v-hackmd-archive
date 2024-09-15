@@ -137,7 +137,22 @@ API
   - same channels
 - Logging
   - Google cloud logging
-  - AWS Cloud watch
+  - ~~AWS Cloud watch~~ --> Moved to Google Cloud for centralized logging on 2024/09/15
+
+#### Observability
+
+On 2024/09/15 we moved all logging to Google Cloud Logging. This enables [distributed tracing](https://cloud.google.com/architecture/microservices-architecture-distributed-tracing) that help us pinpoint the slowness across components.
+
+Target: being able to trace the time span for:
+- LINE bot request --> multiple API calls --> DB, AI and url-resolver calls, to evaluate LINE user experience
+- Website request --> server render API calls --> DB calls, to evaluate website browsing experience
+
+Can use Opentelemetry + Google cloud tracing
+- Open Telemetry collector on Linode
+  - See "Non-GCP (AWS, Azure, on-prem, etc.) or alternative service accounts" in https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/exporter/googlecloudexporter
+  - If moving towards Google Cloud Run, this can be ignored because Cloud Run already sends traces
+- Instrument LINE bot, API and website using OpenTelemetry NodeJS SDK
+- See tracing logs in Google Cloud Trace
 
 ### Past incidents 
 > https://hackmd.io/i0GcWSSVQNeDQ_OBebyk6Q
