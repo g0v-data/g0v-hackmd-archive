@@ -122,8 +122,17 @@ http://dev.cofacts.tw/
 
 ### [Infra] Logging & Observabilty
 
+> CCPRIP doc
+> https://g0v.hackmd.io/BRsJOevWSbyUMBSZEVVWrA#Logging-and-monitoring
+
 Logging pricing
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f87c88290415e7c2fb3d0addbc8f38c4.png)
 
-
-> https://g0v.hackmd.io/BRsJOevWSbyUMBSZEVVWrA?both#Observability
+- Before: only rumors-api log is sent to Google Cloud; cloud run services are already in Google Cloud.
+- After 2024/09/15 change: All services (nginx, api, site, line-bot-tw) are sent to Google Cloud.
+  - 每個月月中的時候超過 free quota 50GB 後開始算錢
+    > Ref: https://www.finout.io/blog/reducing-gcp-logging-costs
+  - 6 月可能被 DDoS 所以特別多？
+  - 太貴的話考慮設定 log retention 與 GCS log sink
+    > Ref: https://mile.cloud/zh/resources/blog/cloud-logging-pricing_701
+    > Ref2: https://www.finout.io/blog/reducing-gcp-logging-costs
