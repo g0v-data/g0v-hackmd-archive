@@ -10,24 +10,28 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
 
 ### Todo list for speakers
 
+
+- [ ] Speakers must also register & get ticket
+    - https://www.rightscon.org/registration/
+    - early bird ends ==Dec 3==
+    - chihao has the discount codes
+        > There are 4 discount codes: 25%, 50%, 75%, 100%-off, 1 ticket each [name=chihao]
+    - [ ] chihao
+        > I am local so I can use the lower discount ticket :) [name=chihao]
+    - [ ] Mami
+    - [ ] Eunsoo
+- [ ] Plan travel + hotel early
+    - [x] chihao - I live in Taipei :)
+    - [ ] Mami
+    - [ ] Eunsoo
+- [ ] Update session info ==must before Oct 13==
+
+### Timeline
+
+- Jun 7: Proposal submitted
 - Aug 27: Session accepted
-- Now:
-    - Speakers must also register & get ticket
-        - https://www.rightscon.org/registration/
-        - early bird ends ==Dec 3==
-        - chihao has the discount codes
-            > There are 4 discount codes: 25%, 50%, 75%, 100%-off, 1 ticket each [name=chihao]
-        - [ ] chihao
-            > I am local so I can use the lower discount ticket :) [name=chihao]
-        - [ ] Mami
-        - [ ] Eunsoo
-    - Plan travel + hotel early
-        - [x] chihao - I live in Taipei :)
-        - [ ] Mami
-        - [ ] Eunsoo
-- Mid-Sept: Update session info
 - Oct: Program building, consistent communications with RightsCon team
-- Dec: Program schedule & room assignment
+- Early Dec: Program schedule & room assignment
 
 ### Session Format
 - 60-min in-person dialogue
@@ -39,6 +43,7 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
 
 > author: chihao
 > proposal 24543
+> submitted June 7 2024
 
 > notes
 > - anti-extradition law info
