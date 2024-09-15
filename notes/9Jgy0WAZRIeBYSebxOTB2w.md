@@ -20,6 +20,7 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
         > I am local so I can use the lower discount ticket :) [name=chihao]
     - [ ] Mami
     - [ ] Eunsoo
+    - [ ] Facilitator?
 - [ ] Plan travel + hotel early
     - [x] chihao - I live in Taipei :)
     - [ ] Mami
