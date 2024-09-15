@@ -1,13 +1,10 @@
-i9BET là nhà cái cá cược trực tuyến uy tín tại châu Á. Trải nghiệm trò chơi online chất lượng, nhận phần thưởng giá trị và dịch vụ tuyệt vời. Đăng ký ngay!
+[i9BET](https://i9beet.online/) là nhà cái cá cược trực tuyến uy tín tại châu Á. Trải nghiệm trò chơi online chất lượng, nhận phần thưởng giá trị và dịch vụ tuyệt vời. Đăng ký ngay!
 #i9beet #i9bet #dang_ky_i9bet #link_i9bet #trang_chu_i9bet
 Địa chỉ: 429 Đ. Lê Văn Lương, Tân Hưng, Quận 7, Hồ Chí Minh
 Gmail: lienhe@i9beet.net
 GG MAP https://maps.app.goo.gl/RvUckQMfmRqX6KFt5
-Website https://i9beet.net/
-https://i9beet.net/huong-dan-tai-app-i9bet/
-https://i9beet.net/huong-dan-dang-ky-i9bet/
-https://i9beet.net/huong-dan-nap-tien-i9bet/
-"https://www.pinterest.com/i9beetnet
+Website https://i9beet.online/
+https://www.pinterest.com/i9beetnet
 https://www.instagram.com/i9beetnet
 https://www.twitch.tv/i9beetnet
 https://twitter.com/i9beetnet
