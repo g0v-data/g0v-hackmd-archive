@@ -139,3 +139,7 @@ Logging pricing
   - 太貴的話考慮設定 log retention 與 GCS log sink
     > Ref: https://mile.cloud/zh/resources/blog/cloud-logging-pricing_701
     > Ref2: https://www.finout.io/blog/reducing-gcp-logging-costs
+
+
+## Open165
+- HTML similarity
