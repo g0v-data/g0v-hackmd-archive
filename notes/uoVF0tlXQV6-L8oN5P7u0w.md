@@ -212,3 +212,101 @@ int main()
 	}
 }
 }</pre>
+
+三角形是具有三個正邊的幾何形狀。 但是，任何給定的三個邊不一定會形成三角形。 三邊必須形成一個封閉區域。 三角形根據有效三角形的邊的值進行分類。 在這個問題中，您需要確定三角形的類型。
+
+A triangle is a geometric shape with three positive sides. However, any given three sides won’t necessarily form a triangle. The three sides must form a closed region. Triangles are categorized depending on the values of the sides of a valid triangle. In this problem you are required to determine the type of a triangle.
+
+ 
+
+輸入說明
+測試資料含有三個整數，整數與整數之間有一空白隔開。
+
+The test data contains three integers, separated by a space.
+
+輸出說明
+請將算式的結果以三角形的類型輸出。三角形類型將是以下之一，具體取決於三個邊的值：
+
+Please output the result of the expression as a type of triangle. The type of triangle will depend on the values of the three sides:
+
+Invalid - The three sides can not form a triangle.
+Equilateral - All three sides of valid triangle are equal. 
+Isosceles - Exactly two of the sides of a valid triangle are equal.
+Scalene - No pair of sides are equal in a valid triangle.
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bba23e7557c5643f78d1bd448f96abc8.png)
+
+<pre>
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int a, b, c;
+    while(cin >> a >> b >> c)  // Removed the semicolon here
+    {
+        if(a + b > c && a + c > b && b + c > a)  // Valid triangle check
+        {
+            if(a == b && b == c) 
+            {
+                cout << "Equilateral" << endl;  // All sides are equal
+            } 
+            else if(a == b || a == c || b == c) 
+            {
+                cout << "Isosceles" << endl;  // Exactly two sides are equal
+            } 
+            else 
+            {
+                cout << "Scalene" << endl;  // All sides are different
+            }
+        } 
+        else 
+        {
+            cout << "Invalid" << endl;  // Triangle inequality fails
+        }
+    }
+
+    return 0;
+}
+
+</pre>
+
+A particle has initial velocity and acceleration. If its velocity after certain time is v then what will its displacement be in twice of that time?
+
+輸入說明
+The input will contain two integers in each line. Each line makes one set of input. These two integers denote the value of v (−100 ≤ v ≤ 100) and t (0 ≤ t ≤ 200) (t means at the time the particle gains that velocity)
+
+輸出說明
+For each line of input print a single integer in one line denoting the displacement in double of that time.
+
+範例輸入 #1
+0 0
+5 12
+範例輸出 #1
+0
+120
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c94d86cd600812b930356eeebb0d21f6.png)
+<pre>
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	//v = v0+ at
+	int v;
+	int t;
+	
+	while(cin>>v>>t)
+	{
+		if(-100 <= v &&  v <= 100 && 0 <= t && v <=200)
+		{
+			cout << 2 * v * t << endl; 	
+		}
+		else
+		{
+			return 0;
+		}
+	}	
+}
+</pre>
