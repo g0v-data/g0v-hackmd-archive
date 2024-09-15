@@ -592,6 +592,10 @@ https://www.pinkoi.com/product/taGd2BGJ
 高雄左營
 https://udn.com/news/story/7327/3845159
 
+恆春共聲島
+- https://peninsoundla.launcher.com.tw/
+- https://www.launcher.com.tw/pages/aboutlove 
+
 台北
 書籍：《耳朵的棲息與散步：記憶台北聲音風景》http://www.books.com.tw/products/0010737489
 聽！蓬萊町音景走讀
@@ -602,6 +606,8 @@ https://www.facebook.com/events/1212525318775231
 https://www.facebook.com/tpcpublicart/photos/a.723196611060637.1073741851.599706866742946/1200673169979643/
 摘：螢橋國小3-5年級的同學，從2019年的今天，穿越1974、1957、1945年的舊航照圖，甚至回朔到121年前的臺灣堡圖裡，從圖資的蛛絲馬跡中發現不同時代可能的聲音線索
 https://www.facebook.com/soundscapeTW/posts/2492698150848981
+
+
 
 
 ### 噪音地圖 Noise
