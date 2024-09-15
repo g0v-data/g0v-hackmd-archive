@@ -24,6 +24,9 @@ GA: UA-98468513-3
 
 #### :robot_face: rumors-line-bot
 
+- https://github.com/cofacts/rumors-line-bot/pull/397
+- https://github.com/cofacts/rumors-line-bot/pull/398
+
 ##### Testing checklist
 
 https://lin.ee/1QUzEX4nI
