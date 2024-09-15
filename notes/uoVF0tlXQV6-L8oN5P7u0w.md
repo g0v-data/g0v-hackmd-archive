@@ -176,3 +176,39 @@ int main()
 }
 
 </pre>
+
+
+現在您又要回學校上一個學期了，您需要記住如何操作儲物櫃上的密碼鎖。 常見的設計是 Master Brand 的設計，如下圖所示。 鎖有一個刻度盤，上面有 40 個校準標記，編號為 0 到 39。一個組合由這些數字中的 3 個組成； 例如：15-25-8。 要打開鎖，需採取以下步驟：
+
+順時針轉動刻度盤 2 整圈
+在組合的第一個數字處停止
+逆時針旋轉錶盤 1 整圈
+繼續逆時針旋轉，直到達到第二個數字
+再次順時針轉動錶盤，直到達到第 3 個數字
+拉動柄，鎖就會打開。
+給定錶盤的初始位置和鎖的密碼，打開鎖時錶盤總共旋轉了多少度（順時針加逆時針）？
+
+ 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_da0261b413780f9c47ba11f0115eb341.png)
+
+<pre>
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int s, a, b, c;
+	while(cin >> s >> a >> b >> c)
+	{
+		int ans = 0;
+		int angle = 360/40;
+		ans += 720;
+		ans += ((s-a+40)%40 * angle);
+		ans += 360;
+		ans += ((b-a+40)%40 * angle);
+		ans += ((b-c+40)%40 * angle);	
+		
+		cout << ans << endl;		
+	}
+}
+}</pre>
