@@ -14,22 +14,28 @@ https://cyberisland.teldap.tw/P/qAttzEfujii
 
 ## 馬拉松
 
-馬拉松跑者的城市 - 從跑者友善的角度檢視城市開放空間品質
-https://www.facebook.com/media/set/?set=oa.2702475503385395&type=3
-
-探討路跑運動與淨零
-https://www.facebook.com/share/p/hdKmdEa3KjtYmJ5v/
-
-社團討論貼文
+:::info
+社團討論貼文，有蒐集蠻多素材，待整理到本頁面
 https://www.facebook.com/groups/582154450196478/posts/770044471407474/
+:::
 
 新生高架路跑過程視角的影片
 https://www.youtube.com/watch?v=r6qJVBRziWE&list=PLjBlyKwAdyCVlUz5gARhas4CRQh9zNLhv
 20240908 
 https://www.facebook.com/share/p/fPKGmCi128QRCQiW/
 
+<iframe width=100% height="480" src="https://www.youtube.com/embed/AlthWxwJepw?si=V_ccdAWNwmgD5wJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 以基隆河為主的路線，路線也算包含新生流域的北側範圍邊界
 https://www.garmin.com.tw/event/2024/garmin-run/route.html
+
+馬拉松跑者的城市 - 從跑者友善的角度檢視城市開放空間品質
+https://www.facebook.com/media/set/?set=oa.2702475503385395&type=3
+
+探討路跑運動與淨零
+https://www.facebook.com/share/p/hdKmdEa3KjtYmJ5v/
+
+
 
 
 ## 發想
