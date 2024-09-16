@@ -8,18 +8,11 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- 線上出席：orz, bil, Conrad, nonumpa
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
 ## :potable_water: Release pipeline
-
-### :star: Released to production
-
-#### :electric_plug: API
-#### :globe_with_meridians: Site
-#### :robot_face: rumors-line-bot
-
 
 ### :rocket: Staging
 
@@ -42,6 +35,9 @@ https://lin.ee/1QUzEX4nI
 
 ### :eye: Under review
 
+- https://github.com/cofacts/rumors-line-bot/pull/397
+- https://github.com/cofacts/rumors-line-bot/pull/398
+
 
 ## CCPRIP
 
@@ -62,12 +58,20 @@ Logging pricing
     > Ref: https://mile.cloud/zh/resources/blog/cloud-logging-pricing_701
     > Ref2: https://www.finout.io/blog/reducing-gcp-logging-costs
 
+## 開源祭
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c8b504fbbc94cf77892ae8e45522e7b0.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_74176193601291a39b7171fa2de7ba08.png)
+
+
 
 ## Open165
+- 還在做 detail 頁面 https://github.com/cofacts/open165/pull/26
 - HTML content of 165 reported sites; HTML similarity
 
 ## 交流
 
 波蘭
 有 https://demagog.org.pl/en/lets-introduce-ourselves/ 參與
-投影片
+投影片：https://docs.google.com/presentation/d/1MHVuA80ZC-9-vlWAwBw-xnBzPo-hxwlH42BNyzVnXoI/edit?usp=drive_web&ouid=100298319366825427383

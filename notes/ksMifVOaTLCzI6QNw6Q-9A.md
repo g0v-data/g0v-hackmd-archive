@@ -25,7 +25,7 @@ https://github.com/cofacts/rumors-api/releases/tag/release%2F20240904
 ## 檢舉處理
 
 - 疑似協同行為 https://g0v.hackmd.io/XouQwVKZSRyGlVpivLSmBA#%E6%AA%A2%E8%88%89%E8%99%95%E7%90%86
-  - Block 協同 LINE user
+  - Block 協同 LINE user --> https://github.com/cofacts/takedowns/pull/132/files?short_path=3be2bbc#diff-3be2bbca366d2760c9335d6e1510fc5e3bad76091647c7221a71883fef35d2a2
 - 今天的賭博 spam
   - 疑似手動，captcha 也擋不住 [name=mrorz]
   - 繼續做自動化垃圾偵測比較實際

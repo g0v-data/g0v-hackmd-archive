@@ -2,9 +2,9 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20240916 會議記錄](../notes/UHKMm7h_QIe5EB4Z0cGQ3g.md) | 2024-09-16T15:34:55+08:00 | 2024-09-15T14:46:48+08:00 |
-| 2 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-09-15T14:25:31+08:00 | 2022-08-05T10:46:53+08:00 |
-| 3 | [20240909 會議記錄](../notes/ksMifVOaTLCzI6QNw6Q-9A.md) | 2024-09-09T20:33:44+08:00 | 2024-09-08T16:31:30+08:00 |
+| 1 | [20240916 會議記錄](../notes/UHKMm7h_QIe5EB4Z0cGQ3g.md) | 2024-09-16T20:00:35+08:00 | 2024-09-15T14:46:48+08:00 |
+| 2 | [20240909 會議記錄](../notes/ksMifVOaTLCzI6QNw6Q-9A.md) | 2024-09-16T19:42:50+08:00 | 2024-09-08T16:31:30+08:00 |
+| 3 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-09-15T14:25:31+08:00 | 2022-08-05T10:46:53+08:00 |
 | 4 | [20240902 會議記錄](../notes/IrRBabPXQBOVQTjSNlIdwg.md) | 2024-09-09T10:07:08+08:00 | 2024-09-01T13:38:27+08:00 |
 | 5 | [20240826 會議記錄](../notes/XouQwVKZSRyGlVpivLSmBA.md) | 2024-08-26T20:33:59+08:00 | 2024-08-26T13:24:39+08:00 |
 | 6 | [20240821 會議記錄](../notes/bYvysQMGQPexpuAdcQamEQ.md) | 2024-08-21T20:36:19+08:00 | 2024-08-20T21:54:19+08:00 |
