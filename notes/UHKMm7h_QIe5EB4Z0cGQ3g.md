@@ -64,7 +64,7 @@ Logging pricing
 
 
 ## Open165
-- HTML similarity
+- HTML content of 165 reported sites; HTML similarity
 
 ## 交流
 
