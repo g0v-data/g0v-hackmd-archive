@@ -65,3 +65,9 @@ Logging pricing
 
 ## Open165
 - HTML similarity
+
+## 交流
+
+波蘭
+有 https://demagog.org.pl/en/lets-introduce-ourselves/ 參與
+
