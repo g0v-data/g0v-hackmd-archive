@@ -177,6 +177,7 @@ tags: 新生流域
     - 影片 4:03 松山機場上空 https://youtu.be/1c27mFay6eI
     - 影片 02:31:44 殷海光故居庭院水路 https://youtu.be/fyXjkOdDHUQ
     - 台大明達館附近的 1936 民宅照片 https://www.flickr.com/photos/ntuhistorygallery/2577465266/in/album-72157605606822637/
+    - 濟南路，楊德昌故居 https://www.facebook.com/share/p/oXyAQfcL4JZCEUaP/
     - 近期行動，北科大北側 https://www.facebook.com/groups/582154450196478/permalink/867944994950754/
     - 嘉興街403巷 
         - 照片地點位置推測https://maps.app.goo.gl/8xLW459sgMskiELG7
