@@ -422,3 +422,23 @@
 | [HkfF_9U35](../../notes/LsJe8o5kQEipRDimf-MQmg.md) | 學習歷程從自我探索出發 | 2022-07-21T17:12:26+08:00 | View mode |
 | [SyeV85I2q](../../notes/IGt8YDjoQ7OpUHJY5E6Kxw.md) | 自學政府開放資料應用實務-以頭前溪流域資料為例 | 2022-07-21T17:02:32+08:00 | View mode |
 | [HJr-L5Ihc](../../notes/RzuuRMshQD2mwCnfzn89RA.md) | 時間與空間的鏡像：地理資訊系統的無限可能 | 2022-07-21T17:01:49+08:00 | View mode |
+| [HJFjB5Ihq](../../notes/iW6kkPxxQHqHILyAiGhMQg.md) | 如何自學程式設計 | 2022-07-21T17:00:17+08:00 | View mode |
+| [HJDuHqL3c](../../notes/hthxGXTkRHqsIwApKh9U-g.md) | 用試算表玩資料，VLOOKUP 怎麼用 | 2022-07-21T16:59:26+08:00 | View mode |
+| [SJWHS5Lnc](../../notes/1Z3TJdDaRMuDHgyX_KtXfQ.md) | HackMD 延伸-文件製作即興力 | 2022-07-21T16:58:32+08:00 | View mode |
+| [Sk_6gqInc](../../notes/FhKaKJq6QvSoW2ufmB5ywQ.md) | 【Disfactory】公民科技專案 Disfactory 農地違章工廠回報平台 | 2022-07-21T16:39:27+08:00 | View mode |
+| [SJOFl5I3q](../../notes/iAgN8YjGRrCNtzTYtAyVfw.md) | 【Cofacts 真的假的】事實查核聊天機器人協作 | 2022-07-21T16:38:23+08:00 | View mode |
+| [SynIl582c](../../notes/r3L0WJHnRwy0YmjbmC4hpg.md) | 【阿美語萌典】原住民族語協作-以阿美語萌典為例 | 2022-07-21T16:37:39+08:00 | View mode |
+| [Bkt1xcL2q](../../notes/aicxNpmpS7qw-oZEKy2iUw.md) | 【Wikidata】 只要三步驟，把書籍變成資料集 | 2022-07-21T16:35:44+08:00 | View mode |
+| [S1OtgDrhc](../../notes/fd4U5yaqQ0qIsAcAIaZYwg.md) | g0v 帶你來提案 | 2022-07-20T19:01:20+08:00 | View mode |
+| [rJk8lvHn5](../../notes/jAw9nY7IQIeXT2SBgx5dUw.md) | 我們與專案的距離 | 2022-07-20T19:00:22+08:00 | View mode |
+| [B1CSb8lnc](../../notes/kzlGea4pSEeYLdiFO2bDAg.md) | 【2022 源力增能課：數位協作工具】HackMD & Slack 入門作業 | 2022-07-16T22:55:01+08:00 | View mode |
+| [SJ4wb93uq](../../notes/oKntIAmERbSpr6J3n0A0Hg.md) | 報名 | 學員問答 Q&A | 2022-06-07T16:50:36+08:00 | View mode |
+| [SkVUOHg2c](../../notes/XzrRSAECTXSAgvgrfl4s9w.md) | 【數位協作工具】 HackMD 與 Slack 使用 — 2022 線上源力增能課 | 2022-07-16T22:16:43+08:00 | Book mode |
+| [B1FOJOv59](../../notes/lajbfwBgQyiyshbdds3zzQ.md) | 2022 線上源力增能營 【數位協作工具】 HackMD 與 Slack 使用 | 2022-06-28T01:57:05+08:00 | View mode |
+| [H1tbV6Gjq](../../notes/rqOmppMnTQa9GNimi__1-g.md) | 2022／8 大松命名 | 2022-07-06T16:12:49+08:00 | View mode |
+| [g0v-infras-20](../../notes/Gs28c8DUSPap2pZ7roPnCw.md) | g0v infrath20n 第貳拾次基礎建設松 | 2022-06-23T15:27:33+08:00 | View mode |
+| [rkaMDycw9](../../notes/mmWkn2BaT6uZv6ttfCH62g.md) | g0v NFT 發行構想 | 2022-05-24T13:03:16+08:00 | View mode |
+| [community99-2204](../../notes/900WLX6KRPSOfUoO26Fgaw.md) | g0v 社群每月九分鐘 - 2022/04 | 2022-05-06T17:15:10+08:00 | View mode |
+| [S1Xrxlu59](../../notes/YheDoLLhQdWIWG0kvmPlEg.md) | 2023 美國國會黑客松 會議討論 | 2022-06-28T11:06:35+08:00 | View mode |
+| [SkSyIjpF9](../../notes/6lLEti6aRh26ni2g2mYzBg.md) | g0v Hackath50n 台灣零時政府第伍拾次來電五十黑客松 x COSCUP Open Source Contributor Workshop 松後推坑 | 2022-06-20T15:46:37+08:00 | View mode |
+| [BJQTbgrFq](../../notes/DO3FWMo_T_-2BlqNh_XVrA.md) | 主辦單位與合作夥伴Partners | 2022-06-14T01:19:55+08:00 | View mode |
