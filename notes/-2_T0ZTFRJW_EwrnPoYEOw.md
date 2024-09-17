@@ -3,7 +3,7 @@
 W88
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0c1ae28100974147ee93a6791adc0254.png)
 
-WW88 là nơi Cá cược thể thao trực tuyến, Casino trực tuyến, Game slot, Poker, Xổ số. Được Cấp phép hoạt động bởi First Cagayan Leisure & Resort Corporation (CEZA), thành lập năm 2013 tại Manila, Philippines. Tiền Tệ Hỗ Trợ: VND, USD, EUR, GBP, và nhiều tiền tệ khác 
+W88 là nơi Cá cược thể thao trực tuyến, Casino trực tuyến, Game slot, Poker, Xổ số. Được Cấp phép hoạt động bởi First Cagayan Leisure & Resort Corporation (CEZA), thành lập năm 2013 tại Manila, Philippines. Tiền Tệ Hỗ Trợ: VND, USD, EUR, GBP, và nhiều tiền tệ khác 
 Website: https://w88.rest/ 
 https://w88.rest/uu-dai-w88/ 
 https://w88.rest/lo-de-w88/ 
