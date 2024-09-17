@@ -37,6 +37,9 @@ https://lin.ee/1QUzEX4nI
 - bil 沒傳這張，但有傳這張旁邊的 cooccurrence
   https://dev.cofacts.tw/article/EynRB4kBFLWd9xY2Ohxi
   - 有傳 https://dev.cofacts.tw/article/265pyrpr2lix6 與其他搭配，但 cooccurrence 沒增加
+  :::success
+  調查後發現有誤會，實際上沒有送出任何搭配圖文
+  :::
 
 ----
 
@@ -85,7 +88,17 @@ Log:
 - 當時建立的 `SetCooccurrences` 顯示，4 次 `ListArticlesInProcessMedia` 就是沒有找到剛建立的兩篇 article，導致不夠像的訊息跑進去。
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_dac9d6a75988c2ff51da21cf8ed47b9a.png)
 
+預計解法
+- rumors-api 在 insert article 後應該要 refresh index，這樣 search 才會找得到東西
+- rumors-line-bot 可以考慮把「不在資料庫裡的 message」插入資料庫後，直接從 `Create(Media)Article` API 的結果拿值。優點是就算不 refresh index 也能正確使用，但有幾個缺點：
+    - 邏輯複雜。目前無論是 `setMostSimilarArticlesAsCooccurrence` 還是 `createCooccurredSearchResultsCarouselContents` 等都需要帶有 similarity 的 search result，如果要吃 create article 的結果，需要改介面。
+    - 如果新送的訊息其實有逐字稿跟現有很像的，採取原本重新搜尋的作法時，使用者可以選得到（會排在 carousel 的比較後面的地方），但新做法下就不會有這個東西。
+    - 因此不採取這個作法。
 
+
+:::success
+Fix in PR：https://github.com/cofacts/rumors-api/pull/347 
+:::
 
 
 ##### 未竟項目
