@@ -624,6 +624,9 @@ https://www.facebook.com/share/p/Gs33YK1LtXoywUXm/
 中區：道路與圳路大約平行
 下區：地勢平坦，水路較蜿蜒，新市鎮路網則棋盤式鋪張
 
+
+南北大路
+https://www.facebook.com/share/p/4CU1tYTR9R5AFXGJ/
 關於【台三線】
 台三線上的土牛紅藍線與隘勇線，是如何影響平埔四次大遷徙的？
 https://www.matataiwan.com/2016/05/25/the-3rd-taiwan-provincial-road/
