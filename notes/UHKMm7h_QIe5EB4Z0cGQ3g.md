@@ -54,16 +54,26 @@ Debugging Google Cloud Logs Explorer query
 Log:
 - 2024-09-16 20:08:27.480 LINE bot 收到 4 則訊息，詢問是否一起
 - 2024-09-16 20:09:16.986 詢問是否送進資料庫
+- 2024-09-16 20:09:26.485 收到答覆
+  - 呼叫 2 次 SubmitMediaArticleUnderConsent、CreateAIReply
+  - 呼叫 4 次 ListArticlesInProcessMedia
+  - 呼叫 4 次 AddReplyRequestForUnrepliedArticle
+  - 呼叫 1 次 SetCooccurrences 
+    - 比照時間，cooccurrence ID 為，包含：
 - 2024-09-16 20:09:37.661 完成送進資料庫，提供文章列表：
 	- https://dev.cofacts.tw/article/yRGx-pEBUOXjqM1ArxO7 (v)
-	- https://dev.cofacts.tw/article/yhGx-pEBUOXjqM1AsxP0 (?)
+	- https://dev.cofacts.tw/article/yhGx-pEBUOXjqM1AsxP0 (100% 像，Match by 逐字稿內的字: 科技征, 無硝煙的自由戰, 開源運動在臺灣, OCF, 十週年特展, 槎地公民基金會)
 	- https://dev.cofacts.tw/article/1RG8-pEBUOXjqM1A4xO9 (v, 沒 group 到)
 	- https://dev.cofacts.tw/article/1BG8-pEBUOXjqM1A4RMD (v, 沒 group 到)
-	- https://dev.cofacts.tw/article/EynRB4kBFLWd9xY2Ohxi
-	- https://dev.cofacts.tw/article/AAFD6W_6L_EP8A_wD_APcA_wDPAP8I_wD_AH8Af3AD8
-	- https://dev.cofacts.tw/article/A8A_vAfgP9gEID_8P_w9AP_5P_g_AAAA__8AAAAAAAA
+	- https://dev.cofacts.tw/article/EynRB4kBFLWd9xY2Ohxi (77% 像，逐字稿的字但明明無關 - 台灣大罪了, 民進黨飽了, 飽暖思淫毯嗎)
+	- https://dev.cofacts.tw/article/AAFD6W_6L_EP8A_wD_APcA_wDPAP8I_wD_AH8Af3AD8 (76% 像，但明明無關)
+	- https://dev.cofacts.tw/article/A8A_vAfgP9gEID_8P_w9AP_5P_g_AAAA__8AAAAAAAA (67% 像，逐字稿內的字但明明無關 - 同樣, 連勝文, 臺灣人接, 疫苗, 你們有沒, 仲介, Otto, 灣人民力量, 哪位, 發國難財⋯⋯)
 
-分析：疑似是 submit 後 search again 沒有找到剛送進去的
+分析：
+- 關鍵應是「4 次 ListArticlesInProcessMedia」是否有找到對的文章，但 log 裡沒有
+- 當時建立的 `SetCooccurrences` ， 
+
+疑似是 submit 後 search again 沒有找到剛送進去的
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_dac9d6a75988c2ff51da21cf8ed47b9a.png)
 
 
