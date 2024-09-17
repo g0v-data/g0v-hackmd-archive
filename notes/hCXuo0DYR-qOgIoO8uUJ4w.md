@@ -20,6 +20,8 @@ tags: vtaiwan
     - 目前有認識兩位會來大松的外國參與者，可以協助閱讀與補齊相關資料
         - 需要有人協助翻譯目前的共筆內容與表格
 
+## TWNIC 合作
+- [vtaiwan 與TWNIC 合作](/@vTaiwan/ByAPNqIh0)
 
 ## 部落格文章
 - Medium 已經開張，但還沒放文章上去

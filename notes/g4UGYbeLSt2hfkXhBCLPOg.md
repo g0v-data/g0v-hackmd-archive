@@ -4,6 +4,7 @@ tags: vtaiwan
 # vtaiwan 與TWNIC 合作
 
 ## 0918 小松討論
+- [企劃書](https://docs.google.com/document/d/1Aa6peweqocWqZqazGLJGPFbJSM6NQTkK/edit?usp=sharing&ouid=109285301638612449877&rtpof=true&sd=true)
 ### 設計方式：
 透過進行3-5場的審議，我想了解 recursive representation怎麼影響參與者 1.對政府的信任 2.自我效能的評估（覺得自己有能力影響政策制定嗎？） 3.對政策決定的正當性的看法。
 
@@ -15,7 +16,7 @@ tags: vtaiwan
 選項一、你認為台灣規範人工智慧的法律應該要考量到什麼？
 選項二、針對網路上的資訊，你認為需要立法管制嗎？如果要，要從哪方面著手？
 - 個人覺得太廣，可能要限縮[name=peter]
-- 例如選項二：可以針對數位性暴力
+- 例如選項二：可以針對數位性暴力即可
 
 
 
