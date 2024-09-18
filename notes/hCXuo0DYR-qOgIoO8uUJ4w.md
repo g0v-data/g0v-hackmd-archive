@@ -19,6 +19,8 @@ tags: vtaiwan
         - [許恩恩訪綱](https://docs.google.com/document/d/1chijtrv6f3tJuuHI2f8o2NTREQPn1QwqDcIy9-uMeRo/edit?usp=sharing)
     - 目前有認識兩位會來大松的外國參與者，可以協助閱讀與補齊相關資料
         - 需要有人協助翻譯目前的共筆內容與表格
+    - 最近聯繫到 Stanford Deliberative Democracy Lab 的 Alice Siu，她11/2-5 會來台灣，希望能夠請他分享他的經驗，同時請他提出我們可以拿來評估的標準。
+    - 
 
 ## TWNIC 合作
 - [vtaiwan 與TWNIC 合作](/@vTaiwan/ByAPNqIh0)

@@ -31,3 +31,7 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 - 廣告不實販售詐騙
     - https://www.facebook.com/share/v/Jcp1JotpQed2MoJe/
     - https://www.facebook.com/share/v/YrhjGf8Gfu2t5QUD/
+
+### 講座
+- 內政部警政署刑事警察局林書立科長
+    - https://www.facebook.com/LawXDrama/posts/pfbid0upZ2zzhYvqNG5uarcX8gKXStzagAXgrvT9MiRsEXZZwztU56ftxZYhfXe1WyQVtWl
