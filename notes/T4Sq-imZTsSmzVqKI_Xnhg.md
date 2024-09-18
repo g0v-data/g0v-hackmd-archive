@@ -35,3 +35,5 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 ## 單位與機構
 - 內政部警政署刑事警察局林書立科長
     - https://www.facebook.com/LawXDrama/posts/pfbid0upZ2zzhYvqNG5uarcX8gKXStzagAXgrvT9MiRsEXZZwztU56ftxZYhfXe1WyQVtWl
+- 探討
+    - https://www.facebook.com/share/p/tP1CkmEWedV5GNfj/
