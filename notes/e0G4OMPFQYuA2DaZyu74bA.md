@@ -43,7 +43,7 @@ vTaiwan 相關資料整理 vTaiwan related materials
 
 進行中專案 Ongoing Projects
 ---
-- [數位公共參與工具比較協作共筆](/k_P2feISSMGwdLKjv8yO4Q?edit)
+- [數位公共參與工具比較協作共筆](https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/SkXZk8UdR)
 - [vTaiwan議題小聚](/GUe0KXMsQBC-6KTIUPBVnA?both)
 
 專案紀錄 Past Projects 

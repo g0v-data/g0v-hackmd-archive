@@ -8,6 +8,7 @@ tags: vtaiwan
 - g0v slack @peter
 - vtaiwan.tw@gmail.com
 :::
+- [議題小聚會議紀錄](/-uPhyAjmTq-oYG5TsfOvhw)
 ## 緣起：
 - [0717小松](/W1B9c6zkQvWgEVwfySsgfw)
 - 透過議題的討論方式，讓社群有操作審議與公共討論的空間，也可以紀錄大家觀點的轉變，亦可順便測試與驗證數位公共參與工具。
@@ -35,6 +36,7 @@ tags: vtaiwan
         - decidim 
         - polis 
         - considerit
+        - yourpriority
     - 產出洞見的工具
         - talk to the city
         - 其他工具

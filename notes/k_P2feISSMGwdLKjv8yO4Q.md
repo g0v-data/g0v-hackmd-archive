@@ -9,7 +9,7 @@ tags: vtaiwan,dpsurvey
 ## 工具與平台收集
 - [審議與公共參與相關資源](/qJ460ImBQHi8vjNBQclhzA)
 - [整合介紹區](/JH7ecOD9RQiFQBzLw-T03g)
-- [個別工具資訊整理](/tLkFGP2QSMOjQijxYsg7yA)
+- [個別工具資訊整理-工具表格所在地](/tLkFGP2QSMOjQijxYsg7yA)
 - [標準收集](/PHkctw6IRgeqbtdfrLCuBQ)
 ## 文獻與訪談內容蒐集
 - [相關文獻整理](/Fz9Td6-WQyOx8S9zB2hcCA)
