@@ -168,8 +168,34 @@ int main()
     // Continuously read input until end of input (EOF)
     while(cin >> hashmat >> opponent)
     {
-        // Calculate the difference between opponent's soldiers and Hashmat's soldiers
-        cout << opponent - hashmat << endl;
+    	if(hashmat >= opponent)
+    	{
+    		cout << hashmat - opponent << endl;
+		}
+		else
+		{
+     	   cout << opponent - hashmat << endl;
+        }
+    }
+
+    return 0;
+}
+
+</pre>
+or
+<pre>
+#include <iostream>
+#include <cmath> // For using abs (absolute value)
+using namespace std;
+
+int main()
+{
+    long long int hashmat, opponent;
+
+    while(cin >> hashmat >> opponent)
+    {
+        // Calculate the absolute difference
+        cout << abs(opponent - hashmat) << endl;
     }
 
     return 0;
