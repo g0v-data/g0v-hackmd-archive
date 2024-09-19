@@ -87,7 +87,7 @@ int main()
 ***
 **
 *
--
+------
 
 
 
@@ -130,3 +130,55 @@ int main()
 	}
 		return 0;		
 }</pre>
+
+找質數
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6bd3a8a3306fda167eba6ee607bd2322.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4faedf8cb805703ea2d30e65eeafda84.png)
+
+<pre>
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int n=2,light,c;
+	while(n<=1000)
+	{
+		light = 1;//燈打開 
+		c = 2;// 可以整除的數字 
+		while(c*c<=n)//比如81=9*9 ,9是質數 
+		{
+			if(n%c==0)//n被成功整除 
+				light = 0;//把燈關掉 
+			c++;//一直嘗試直到關掉 
+		}
+		if(light==1)
+			cout << n << endl;//燈關不掉就是質數 
+		n++;//while block的變數 
+	}
+	return 0;
+}
+</pre>
+
+
+----------
+# 九九乘法表
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_233fec56892a7a785623f89c949ba376.png)
+
+<pre>
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	for(int i =1; i <=9; i++)
+	{
+		for(int j =1;j<=9;j++)
+		{
+			cout << i <<"x"<< j<<"="<<i*j<<"\t";
+		}
+		cout << endl ;// 換行 
+	}
+	return 0;
+} 
+</pre>
