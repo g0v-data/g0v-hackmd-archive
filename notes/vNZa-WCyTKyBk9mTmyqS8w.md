@@ -59,6 +59,13 @@ tags: GIS
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bf17af04f86e85765d412ddd964826ca.png)
 
+## 活動回顧
+
+相簿：https://photos.app.goo.gl/dE84BzZif7p9pgQT6
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ab610b95aa3ec1fdd7bf10d4e5e44200.jpg)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_66140513fb0a6033f543cd60b65a49d2.jpg)
+
 
 ## 街區探討方法延伸
 
