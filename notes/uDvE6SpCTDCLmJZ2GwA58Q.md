@@ -126,6 +126,7 @@ tags: 新生流域
     - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577645119327/
     - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577645119327/
     - 照片 光華橋 https://memory.culture.tw/Home/Detail?Id=2270370&IndexCode=online_metadata
+    - 1966 台大保健中心 https://www.facebook.com/share/p/uGFcbTjikvFMbyUd/
     - 重要，1968 南京新生路口，照片 https://www.facebook.com/104339821634619/posts/pfbid02WJy6KE9khYPRbEzAdVZEwVHKdJhd8gHnmUWsVebJHU922x3jSrVSZ1A3sWge1QPHl/?mibextid=cr9u03
     - 中崙福順宮 鄰接著 給水路 https://maps.app.goo.gl/VGUmitiHJJNGxdyh8
     - 照片，建國高架興建中與大安森林公園位置

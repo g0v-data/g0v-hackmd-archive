@@ -1,6 +1,6 @@
 ---
 tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense,
-image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_42854723a93f625667f4b37dc3e3e3c8.png
+image: https://chengpengtw-images-public.s3.ap-northeast-1.amazonaws.com/img/10th+hackathon_by-paulpengtw-CCBYSA4.0.png
 title: DigiResiTh10n 第拾次數位韌性松
 ---
 
@@ -39,7 +39,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 - Sep. 21 2024 Sat.
 - 1300 - 1700（UTC+8）
-- [摩茲工寮](https://maps.app.goo.gl/1nJv5AAxpBHNmFuX7)
+- [摩茲工寮 MozTW Space](https://maps.app.goo.gl/1nJv5AAxpBHNmFuX7)（台北市中正區八德路一段94號3樓）五桐號樓上，一樓樓梯口有 Mozilla 小海報標示
 
 
 ## 提案區
