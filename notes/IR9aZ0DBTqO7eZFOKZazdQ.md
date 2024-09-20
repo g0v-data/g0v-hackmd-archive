@@ -89,3 +89,5 @@ https://honzaap.github.io/Pathfinding/
 - 另可活用街區內的文化資產、人文空間、信仰文化空間等，亦能從文化體驗角度梳理其與生活巷弄之間的關聯性
 - 綜上工作方法，可促進街區內的各年齡層群體，共同於生活路徑體系中，產生正向的交集與相互關照
 
+### 介紹說明簡報
+- https://docs.google.com/presentation/d/128lnehM5p3c8fgPqLNW5s_MZbvcO7eb5WD8QprND4SA/edit?usp=sharing
