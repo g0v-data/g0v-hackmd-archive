@@ -4,10 +4,6 @@ tags: GIS
 
 # 8/18 週日上午「水綠街道與風的走廊」活動介紹
 
-:::danger
-## 活動報名網址：<br>https://forms.gle/DeH5zN9wWJjCw6xX9
-:::
-
 :::warning
 目錄
 [TOC]

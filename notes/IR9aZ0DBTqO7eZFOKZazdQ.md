@@ -4,10 +4,6 @@ tags: GIS
 
 # 9/21 週六上午「穿越時代的學習路徑」活動
 
-:::danger
-## 活動報名網址：<br>https://forms.gle/DeH5zN9wWJjCw6xX9
-:::
-
 :::warning
 目錄
 [TOC]
@@ -61,10 +57,46 @@ https://honzaap.github.io/Pathfinding/
 
 ## 主題2「時代思潮的基地」：名人故居、街區的歷史、習俗與信仰場域
 
-- 第二霧裡薛圳支流遺址、白靈公廟
-- 國立臺灣師範大學校史展示區、國立臺灣大學校史館
-- 紫藤廬、殷海光故居、俞大維故居、梁實秋故居、臺靜農故居、丁觀海與丁肇中寓所、王雲五紀念館
-- 台北真理堂、懷恩堂
+- 第二霧裡薛圳支流遺址
+- 白靈公廟
+    - https://www.facebook.com/photo.php?fbid=676764396515705&id=283657125826436&set=a.342053659986782
+- 國立臺灣師範大學校史展示區
+- 國立臺灣大學校史館
+- 紫藤廬
+- 殷海光故居
+- 俞大維故居
+- 臺靜農故居
+- 丁觀海與丁肇中寓所
+- 王雲五紀念館
+- 梁實秋故居
+- 懷恩堂
+- 台北真理堂
+
+### 與溫州街相關的文學創作
+1970 白先勇《冬夜》
+https://youtu.be/QiUuxk6vpOo
+楊佳嫻副教授發表〈「五四」投影溫州街──談《冬夜》〉
+1991 林文月〈從溫州街到溫州街〉
+https://youtu.be/dieGzaTTckg
+https://tln.nmtl.gov.tw/ch/M12/nmtl_w1_m12_s1_c_1.aspx?sid=148
+1991 李渝《溫州街的故事》
+https://memory.culture.tw/Home/Detail?Id=4805&IndexCode=WenHsun
+2006 楊佳嫻〈我的溫州街〉
+https://art.ltn.com.tw/article/paper/60756
+2020 陳柏言《溫州街上有什麼？》
+https://www.openbook.org.tw/article/p-64335
+
+### 電影取景
+
+《一一》場景 NOW & THEN
+https://www.facebook.com/media/set/?set=a.1435037563257870&type=3&locale=zh_TW
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6794260c500d7dfbb6536d1ff4dc4c89.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_46b2bed090874c915d37c21d43d2d74c.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0164784177b7d31cc7307426a7af8d84.png)
+
 
 ## 主題3「生活共學的活動」：修繕與修理主題、長者共學、水綠志工群體
 
@@ -82,6 +114,10 @@ https://honzaap.github.io/Pathfinding/
 - 溫羅汀獨立書店聯盟
 - 攝影圖書室
 - 各類講座活動籌辦單位與空間場所
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2F61553479195739%2Fvideos%2F793330945508243%2F&show_text=true&width=560&t=0" width=100% height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+https://www.facebook.com/61553479195739/videos/793330945508243
 
 ## 街區探討方法延伸
 
