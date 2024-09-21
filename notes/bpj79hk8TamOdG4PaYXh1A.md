@@ -33,6 +33,9 @@ M 表示各大量販店
 | 罐頭 |  | >4年 | M |  |  |  | 外觀沒有凹陷、變形或生鏽，不需立即丟棄 |
 | 奶粉 |  | >3年 | M |  |  |  |  |
 
+[美國好市多末日求生桶](https://dq.yam.com/post/16176)
+https://readywise.com/?srsltid=AfmBOope3NjAVULJr8YzoXms_7hDWFNplJq3tRKcnmo8YZGK6FIvZtbe
+
 ## 飲用水相關
 | 項目 | 數量 | 用途 | 哪邊買 |
 | --- | --- | --- | --- |

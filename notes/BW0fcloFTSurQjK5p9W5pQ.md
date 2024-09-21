@@ -30,7 +30,7 @@ tags: disaster-prevention-pwa
   - 火山爆發
   - 防空/戰爭
 - 平時準備
-  - [家庭常備物資](https://g0v.hackmd.io/bpj79hk8TamOdG4PaYXh1A)
+  - [家庭常備物資](/bpj79hk8TamOdG4PaYXh1A)
   - [準備救難包](/Ojw57urwQ1O8Bs9NJH_NfA)
   - [了解避難位置](/nRcyyTFNQLqIk1dYwccLCg)
   - [預防通訊中斷](/kh_Qh0WEQQ6kAbaFhvuEjQ)
