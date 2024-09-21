@@ -33,8 +33,18 @@ M 表示各大量販店
 | 罐頭 |  | >4年 | M |  |  |  | 外觀沒有凹陷、變形或生鏽，不需立即丟棄 |
 | 奶粉 |  | >3年 | M |  |  |  |  |
 
-[美國好市多末日求生桶](https://dq.yam.com/post/16176)
-https://readywise.com/?srsltid=AfmBOope3NjAVULJr8YzoXms_7hDWFNplJq3tRKcnmo8YZGK6FIvZtbe
+
+### 緊急糧食
+
+|項目 |保存期限 |價格 |內容物|官網|Amazon|
+| -------- | -------- | -------- | -------- | -------- | -|
+|[READYWISE 末日求生桶](https://dq.yam.com/post/16176) | 25年| US$309.99|水果桶(120 份)＋30天緊急食品供應桶(298 份) | [官網連結](https://readywise.com/?srsltid=AfmBOope3NjAVULJr8YzoXms_7hDWFNplJq3tRKcnmo8YZGK6FIvZtbe)|[＊](https://amz.run/9aw2)
+|Mountain House 探險桶|30年|US$144.12| 3包早餐煎鍋、2片牛奶和藍莓燕麥片、2牛肉Stroganoff、3雞肉法吉塔碗、3雞肉炒飯和 2經典肉醬義大利麵|[官網連結](https://mountainhouse.com/?srsltid=AfmBOoqcC00Mf9XkOUwJdvC_z-zztOjx5OsqRN7JE6PLT58SJoPfCisR)|[＊](https://amz.run/9aw4)|
+|Augason Farms 30天1人份緊急食品|25年|US$128.54|品質生存標準 (QSS) 確保您每天至少有 1,800 卡路里和 40 克蛋白質。<br><br>低脂牛奶替代品、香蕉片、奶油馬鈴薯湯、豐盛的蔬菜雞肉風味湯、起司西蘭花米飯、自家式土豆泥、楓糖燕麥片、肘通心粉、起司粉、奶油雞肉味米飯。|[官網連結](https://augasonfarms.com/?srsltid=AfmBOooZ9PsWW-z7osWIYOnhg2v2vDAjMXyT_4M5TvB0VoVxdJq48whH)|[＊](https://amz.run/9aw9)|
+|THE SURVIVAL TABS 8 天食品供應 96 片|25年|US$32.95|100% 含 15 種必需維生素和礦物質。 以最高品質的蛋白質製成。 不含麩質和非基因改造。這款方便的便攜式個人包可讓一個人維持 8 天<br>口味:混合口味 - 每包有 1 種口味 - 奶油、香草、草莓和巧克力。<br>包含:24 片 x 4 袋 = 96 片。|[官網連結](https://thesurvivaltabs.com/?srsltid=AfmBOoonmUaNFQg9-nGvZ-WqLyUFl2J4tsUKHyL0mOvF9vcxBPfeLZEW)|[＊](https://amz.run/9awB)|
+
+[根據Youtuber的評比看來 Mountain House 方便又好吃（但比較貴）](https://www.youtube.com/watch?v=tKyisFHDWTc)
+[Augason Farms 的雞蛋粉炒出來的蛋看起來跟真的蛋一樣耶](https://www.youtube.com/watch?v=ADgVaJ3ipxI) >保存期限有10年
 
 ## 飲用水相關
 | 項目 | 數量 | 用途 | 哪邊買 |
@@ -62,6 +72,8 @@ https://readywise.com/?srsltid=AfmBOope3NjAVULJr8YzoXms_7hDWFNplJq3tRKcnmo8YZGK6
 
 ## 通訊相關
 
+
+
 ## 電能相關
 | 項目 | 數量 | 用途 | 哪邊買 |
 | --- | --- | --- | --- |
@@ -72,13 +84,17 @@ https://readywise.com/?srsltid=AfmBOope3NjAVULJr8YzoXms_7hDWFNplJq3tRKcnmo8YZGK6
 ## 衛生用品
 | 項目 | 數量 | 用途 | 哪邊買 |
 | --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 肥皂 | 數個 | 清潔消毒 |  |
+| 衛生紙 | 數包 | 清潔 |  |
+| 含酒精成份溼紙巾 | 數包 | 清潔 |  |
+| 牙刷 | 數支 | 刷牙、清潔其他用品 |  |
+| 牙膏 | 2條 | 清潔、部份用途消毒 |  |
+| 無須電源的體溫計 | 1支 |  |  |
 
 ## 外傷用品
 | 項目 | 數量 | 用途 | 哪邊買 |
 | --- | --- | --- | --- |
+| 急救箱 | 1 | 小規模外傷 | 各大藥局，eg [大樹藥局](https://shop.greattree.com.tw/productlist?item1=07&item2=0721&item3=072115) |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -87,6 +103,7 @@ https://readywise.com/?srsltid=AfmBOope3NjAVULJr8YzoXms_7hDWFNplJq3tRKcnmo8YZGK6
 | 項目 | 數量 | 用途 | 更新期限 | 哪邊買 |
 | --- | --- | --- | --- | --- |
 | 正露丸 | 1瓶 | 止腹脹、腹瀉 | 5年 | 藥局 |
+| 止痛藥 | 2盒 | 消炎止痛 | 2年 | 藥局 |
 | 抗組織胺 |  | 可以應對避難時可能會有的過敏症狀 |  |
 |  |  |  |  |
 

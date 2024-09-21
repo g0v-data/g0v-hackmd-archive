@@ -25,8 +25,7 @@ tags: disaster-prevention-pwa
 
 - [了解台灣可能造成全國性、地區性無法正常使用網路的災害](/xs79Cd6QTBefX8zoxhesOg)
   - 地震
-  - 颱風
-  - 土石流/走山
+  - 颱風/土石流/水災
   - 火山爆發
   - 防空/戰爭
 - 平時準備
