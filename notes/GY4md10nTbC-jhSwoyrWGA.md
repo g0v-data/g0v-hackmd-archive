@@ -283,11 +283,15 @@ Yi：對國會議題有興趣ㄉ前高中公民老師
         * 英國：付費串接API，做更客製化的資料使用
 * 個人化
 
+### 要如何訂閱特定法案的更新？
+https://ppg.ly.gov.tw/ppg/
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c6a32d186e8243cc045b0c156b6d872e.png)
 
-研究報告要在哪裡找？
+### 研究報告要在哪裡找？
 https://www.ly.gov.tw/Home/Index.aspx
-立法院官網>關於立法院>各單位>法制局>
+立法院官網>關於立法院>各單位>法制局>業務成果
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_deeea8648be82b6df41f8120d3281527.png)
+有很多很厲害的研究報告在這裡！！！
 
 ### Ｑ＆Ａ時間！
 
