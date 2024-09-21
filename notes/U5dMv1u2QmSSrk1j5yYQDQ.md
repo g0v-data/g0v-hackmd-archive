@@ -21,4 +21,14 @@
         - 從 ivod 知道是 立法院第9屆第7會期內政委員會第20次全體委員會議，可以跳到[會議頁面](https://ppg.ly.gov.tw/ppg/sittings/2019052103/details?meetingDate=108%2F05%2F23)
         - 會議內可以找到[公報對話記錄](https://ppg.ly.gov.tw/ppg/SittingCommitteesInfo/download/communique1/final/pdf/108/59/LCIDC01_1085901_00006.pdf)
         - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_17ea787a862926c6523d3ba22246f5fe.png)
-- 
+- 請問政治獻金法第二十一條的「受理申報機關應於受理申報截止後六個月內彙整會計報告書供人查閱，並應公開於電腦網路。」是什麼時候三讀通過的，他可能來自哪個委員提案的版本
+    - 修改時間
+        - 到立法院法律系統搜尋政治獻金法
+        - 點選左上方的法條沿革
+        - 拉到「第二十一條」，可以看到修改時間為 (1070529 修正)
+    - 當時修法來自誰
+        - 回到「立法沿革」，選 1070529
+        - 點上面的「立法歷程」
+        - 點選「審查報告」
+        - 可以看到第二十一條有「高志鵬版」有類似內容，但不完全相同
+        - 具體內容可以從
