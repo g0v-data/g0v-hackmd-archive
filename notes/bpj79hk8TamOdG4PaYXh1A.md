@@ -39,19 +39,21 @@ M 表示各大量販店
 |項目 |保存期限 |價格 |內容物|官網|Amazon|
 | -------- | -------- | -------- | -------- | -------- | -|
 |[READYWISE 末日求生桶](https://dq.yam.com/post/16176) | 25年| US$309.99|水果桶(120 份)＋30天緊急食品供應桶(298 份) | [官網連結](https://readywise.com/?srsltid=AfmBOope3NjAVULJr8YzoXms_7hDWFNplJq3tRKcnmo8YZGK6FIvZtbe)|[＊](https://amz.run/9aw2)
-|Mountain House 探險桶|30年|US$144.12| 3包早餐煎鍋、2片牛奶和藍莓燕麥片、2牛肉Stroganoff、3雞肉法吉塔碗、3雞肉炒飯和 2經典肉醬義大利麵|[官網連結](https://mountainhouse.com/?srsltid=AfmBOoqcC00Mf9XkOUwJdvC_z-zztOjx5OsqRN7JE6PLT58SJoPfCisR)|[＊](https://amz.run/9aw4)|
+|Mountain House 探險桶|30年|US$144.12| 只需在袋子中加入熱水,並在不到 10 分鐘內食用,無需清潔。<br>含3包早餐煎鍋、2片牛奶和藍莓燕麥片、2牛肉Stroganoff、3雞肉法吉塔碗、3雞肉炒飯和 2經典肉醬義大利麵|[官網連結](https://mountainhouse.com/?srsltid=AfmBOoqcC00Mf9XkOUwJdvC_z-zztOjx5OsqRN7JE6PLT58SJoPfCisR)|[＊](https://amz.run/9aw4)|
 |Augason Farms 30天1人份緊急食品|25年|US$128.54|品質生存標準 (QSS) 確保您每天至少有 1,800 卡路里和 40 克蛋白質。<br><br>低脂牛奶替代品、香蕉片、奶油馬鈴薯湯、豐盛的蔬菜雞肉風味湯、起司西蘭花米飯、自家式土豆泥、楓糖燕麥片、肘通心粉、起司粉、奶油雞肉味米飯。|[官網連結](https://augasonfarms.com/?srsltid=AfmBOooZ9PsWW-z7osWIYOnhg2v2vDAjMXyT_4M5TvB0VoVxdJq48whH)|[＊](https://amz.run/9aw9)|
 |THE SURVIVAL TABS 8 天食品供應 96 片|25年|US$32.95|100% 含 15 種必需維生素和礦物質。 以最高品質的蛋白質製成。 不含麩質和非基因改造。這款方便的便攜式個人包可讓一個人維持 8 天<br>口味:混合口味 - 每包有 1 種口味 - 奶油、香草、草莓和巧克力。<br>包含:24 片 x 4 袋 = 96 片。|[官網連結](https://thesurvivaltabs.com/?srsltid=AfmBOoonmUaNFQg9-nGvZ-WqLyUFl2J4tsUKHyL0mOvF9vcxBPfeLZEW)|[＊](https://amz.run/9awB)|
+|Nutrient Survival 維他命 奶粉|25年|US$26.89|我們的大豆和無麩質脫脂奶粉每份含有 21 種營養素。 奶粉包含 13 種必需維生素、7 種礦物質和 6 克蛋白質，是每個準備食品儲藏室的主要生存食物。只需在奶粉中加水，即可立即使用牛奶。|[官網連結](https://nutrientsurvival.com/?srsltid=AfmBOopSp8A6ZC8jZrC2M0RGJ3wGE_GGdR2sNs4EOqfAihTo-5taTh-R)|[＊](https://amz.run/9awN)|
 
 [根據Youtuber的評比看來 Mountain House 方便又好吃（但比較貴）](https://www.youtube.com/watch?v=tKyisFHDWTc)
 [Augason Farms 的雞蛋粉炒出來的蛋看起來跟真的蛋一樣耶](https://www.youtube.com/watch?v=ADgVaJ3ipxI) >保存期限有10年
+[Nutrient Survival milk 喝起來跟一般牛奶一樣](https://www.youtube.com/watch?v=6p1oBOrejQk)
 
 ## 飲用水相關
 | 項目 | 數量 | 用途 | 哪邊買 |
 | --- | --- | --- | --- |
 | 水桶 | >1 |儲水  | M |
-| 濾水器 | ? | 濾水 | M |
-| 鋁箔 | ? | 蒸發濾水用  | M |
+| 濾水器(eg. Sawyer Squeeze) | 1 | 濾水 | [Amazon](https://www.amazon.com/-/zh_TW/Sawyer-Products-SP129-%E6%93%A0%E5%A3%93%E6%BF%BE%E6%B0%B4%E7%B3%BB%E7%B5%B1-%E6%AF%AB%E5%8D%87%EF%BC%89%E6%93%A0%E5%A3%93%E8%A2%8B%E3%80%81%E5%90%B8%E7%AE%A1%E5%92%8C%E6%B0%B4%E8%A2%8B%E8%BD%89%E6%8E%A5%E5%99%A8/dp/B00B1OSU4W/) |
+| 鋁箔 | ? | 蒸發濾水用([參考youtube](https://www.youtube.com/watch?v=omZh0g9GWSM)) | M |
 
 ## 升火用具
 | 項目 | 數量 | 用途 | 哪邊買 |
@@ -111,4 +113,8 @@ M 表示各大量販店
 ### 參考資料
 
 - [非常時期家庭常備物品清單](https://hackmd.io/EwOCr93RRmuqLPXfzsjW6A?view)
-- [民防物資哪裡買](/https://g0v.hackmd.io/lKUTSK3CS7Wrk9mP_-_mtA) 
+- [民防物資哪裡買](/https://g0v.hackmd.io/lKUTSK3CS7Wrk9mP_-_mtA)
+-  [日本防災食品](https:/tasting-japan.com/archives/3224/)
+- [新世紀福音戰士與你過災](https://www.cool3c.com/article/155261)
+- [無印良品販售的防災包](https://www.roomie.tw/posts/11453)
+
