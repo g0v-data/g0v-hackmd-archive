@@ -60,25 +60,18 @@ RS:
 - [NPO Hub 附近的食物攻略！ Foods Near NPO Hub](/KS7BHZy8Q42ztO709hVsTA)
 
 ## 各次放輕松列表
-
-vTaiwan
----
 `Latest` 
-- [20241116 Rand0mTh0n with vTaiwan 第零次](/@Pno233SAS8G5UfL5OvSRmA/rJQnWZqi0)
-
-g0v Jothon
----
-`Latest` 
-- [20240910 Rand0mTh9n with g0v Jothon 第玖次](/jjuwA751T7G2kVIvzD2p9Q)
-- [20240827 Rand0mTh8n with g0v Jothon 第捌次](/RuhCfavuRkKWYL63Gv9wQg)
-- [20240813 Rand0mTh7n  with g0v Jothon 第柒次](/e05C1nUpSG6xzZTn8kD8OA)
-- [20240730 Rand0mTh6n  with g0v Jothon 第陸次](/H5HUCwuLRuiJGFEVwgVbYA)
-- [20240716 Rand0mTh5n  with g0v Jothon 第伍次](/hkDJPiZUSfCBVaISxcStBg)
-- [20240702 Rand0mTh4n  with g0v Jothon 第肆次](/0_zLPNmtQvO8udkjmC5MBw)
-- [20240618 Rand0mTh3n  with g0v Jothon 第參次](/h_ASN318TUSlf9FhNhQHQQ)
-- [20240604 Rand0mTh2n  with g0v Jothon 第貳次](/YsGvF1BpSNGr0owRylG3Vg)
-- [20240521 Rand0mTh1n  with g0v Jothon 第壹次](/d9UgT5LTRRKywSPEo6jA5w)
-- [20240507 Rand0mTh0n  with g0v Jothon 第零次](/qzELuqNARKKBjWr2mIiY8A)
+- [20240910 Rand0mTh10n 第拾次](/R781rLPjQqu5VNbyHTjZuw)
+- [20240910 Rand0mTh9n 第玖次](/jjuwA751T7G2kVIvzD2p9Q)
+- [20240827 Rand0mTh8n 第捌次](/RuhCfavuRkKWYL63Gv9wQg)
+- [20240813 Rand0mTh7n 第柒次](/e05C1nUpSG6xzZTn8kD8OA)
+- [20240730 Rand0mTh6n 第陸次](/H5HUCwuLRuiJGFEVwgVbYA)
+- [20240716 Rand0mTh5n 第伍次](/hkDJPiZUSfCBVaISxcStBg)
+- [20240702 Rand0mTh4n 第肆次](/0_zLPNmtQvO8udkjmC5MBw)
+- [20240618 Rand0mTh3n 第參次](/h_ASN318TUSlf9FhNhQHQQ)
+- [20240604 Rand0mTh2n 第貳次](/YsGvF1BpSNGr0owRylG3Vg)
+- [20240521 Rand0mTh1n 第壹次](/d9UgT5LTRRKywSPEo6jA5w)
+- [20240507 Rand0mTh0n 第零次](/qzELuqNARKKBjWr2mIiY8A)
 
 **幕後故事 Behind the Scene**
 

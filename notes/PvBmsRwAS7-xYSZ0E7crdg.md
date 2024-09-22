@@ -69,3 +69,36 @@ int main()
 	return 0;
 }
 </pre>
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4dbe58b55a625bc3d59f38ab22913637.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f7eb0f4270ba566c1d7bd3bf72684444.png)
+
+<pre>
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int n;
+	while(cin>>n)
+	{
+		int total=n;
+		int newcola;
+		
+		while(n>=3)
+		{
+			newcola = n/3;
+			total += newcola;
+			n = newcola + n%3;
+		}
+		if(n==2)
+		{
+			total++;
+		}
+		
+		cout << total <<endl;
+	}
+	return 0;
+}
+</pre>
+
