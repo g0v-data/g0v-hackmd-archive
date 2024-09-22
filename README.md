@@ -2,7 +2,9 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 15600 | 2024-09-23T01:45:16+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 15603 | 2024-09-23T02:34:04+08:00 |
+| [Templates](tags/Templates.md) | 260 | 2024-09-23T02:03:25+08:00 |
+| [Book](tags/Book.md) | 169 | 2024-09-23T02:03:25+08:00 |
 | [cofacts](tags/cofacts.md) | 459 | 2024-09-23T00:57:14+08:00 |
 | [meeting note](tags/meeting%20note.md) | 283 | 2024-09-23T00:57:14+08:00 |
 | [GIS](tags/GIS.md) | 159 | 2024-09-22T23:59:34+08:00 |
@@ -36,8 +38,6 @@
 | [dpsurvey](tags/dpsurvey.md) | 10 | 2024-09-20T20:47:27+08:00 |
 | [vTaiwan](tags/vTaiwan.md) | 100 | 2024-09-19T16:11:24+08:00 |
 | [Tag(change me!)](tags/Tag%28change%20me%21%29.md) | 222 | 2024-09-19T10:53:38+08:00 |
-| [Templates](tags/Templates.md) | 259 | 2024-09-17T18:52:27+08:00 |
-| [Book](tags/Book.md) | 168 | 2024-09-17T18:52:27+08:00 |
 | [security](tags/security.md) | 1 | 2024-09-15T14:25:31+08:00 |
 | [資安](tags/%E8%B3%87%E5%AE%89.md) | 1 | 2024-09-15T14:25:31+08:00 |
 | [CCPRIP](tags/CCPRIP.md) | 1 | 2024-09-15T14:25:31+08:00 |
