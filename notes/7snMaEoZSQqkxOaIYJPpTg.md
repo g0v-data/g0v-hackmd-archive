@@ -2,7 +2,7 @@
 tags: GIS　
 ---
 
-# 煙蒂菸蒂問題
+# 煙蒂菸蒂問題與對策
 
 菸蒂資料與法規
 - 立法院的探討文章
@@ -28,6 +28,9 @@ tags: GIS　
     - 不留煙蒂 淨街 https://www.facebook.com/share/p/BtLu2efqtkAw7ZpK/
     - 認識菸蒂的組合 by 新北市光華國小衛生組
         - https://www.greenschool.moe.edu.tw/gs2/partner/item.aspx?k=F72575B550A0A1B0AB4CAF2829EBB1D2
+    - 臺北市懷生國小 
+        - https://www.peopo.org/news/687935
+        - https://youtu.be/Z1U25GnhlbE
     - 菸沒綠洲 Girls in the Oasis
         - https://www.facebook.com/girlsintheoasis
         - https://www.facebook.com/feds32/posts/pfbid023mQDHFpXJV4X26UW9Qz7uKkcEEZjLdRrcAdonigNhnXuCW1zxoY8FCYEjeEgxKtfl
