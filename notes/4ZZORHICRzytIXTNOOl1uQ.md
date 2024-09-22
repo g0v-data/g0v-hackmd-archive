@@ -5,3 +5,6 @@
 (a+b)(a²-ab+b²)=a³+b³
 (a-b)(a²+ab+b²)=a³-b³
 配方法
+y=ax²+bx+c→y=a(x-h)²+k
+Domain(定義域):整段函數的範圍
+Range(值域):函數圖形在y軸上的投影範圍
