@@ -361,11 +361,13 @@ https://www.journals.uchicago.edu/doi/abs/10.1086/730621
 ---
 ## 教科書 / 書本 / 出版
 ### Schoolbook 教科書中曾出現 g0v 社群或專案的內容
-- 南一出版，高中公民課本
+- 南一出版，公民與社會，高中公民課本
     - 揪松團辦公室有一本實體書
     - 相簿（出版資訊、內文翻拍）https://photos.app.goo.gl/jQK3M5coDXqMPzfe9
     - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_094795bbeb6d8e5d4e83cb0b21017003.jpeg)
-- 翰林出版，高一公民課本
+- 翰林出版，公民與社會，高中公民課本
+    - 揪松團辦公室有一本實體書
+    - 更多照片：https://drive.google.com/drive/folders/1S-AB4Kw-MmTA5BYvXjrRxpjqNmWFLyWt?usp=sharing
     - lazp 拍照分享
     - https://g0v-slack-archive.g0v.ronny.tw/index/channel/CN64A1FHA#ts-1676639764.224929
     - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_83bf9de9130292ed940f2acdfd8264be.jpg)

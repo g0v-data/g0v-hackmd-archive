@@ -36,6 +36,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #thai-ภาษาไทย 泰國與泰語
 #tiếngviệt-vietnam 越南與越語
 #nepali-नेपाली
+#malaysia 馬來西亞
 #australia 澳洲
 #north-america 想在美國協作的可以來這邊聊天喔！
 #g0v-siliconvalley g0v 矽谷灣區小聚
@@ -213,6 +214,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #mesh Meshtastic Taiwan Community 臺灣鏈網
 #disaster-go 任務化提升台灣防災準備
 #gis 地理資訊、地理資料 🌏 Geo-data
+#energy 能源議題頻道
 #rentea	租屋資料與議題
 #openlab-mapping Geographic Referencing for Technology Transfer via  Bioregional similarity. Aggregating and associative mapping data.
 #road-safety 人行道行走狀況群眾標註平台

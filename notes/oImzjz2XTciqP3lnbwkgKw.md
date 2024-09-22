@@ -12,8 +12,9 @@ image: https://i.imgur.com/vwP94aZ.jpg
 3. 依照拍攝年份排序。
 
 其他參考資料
-- [給記者朋友、研究者的採訪建議事項](/hgXdOpyZRPCK1HVBVGmIhA) [target=_blank] 
-- [以 g0v 為主題的學術研究](https://g0v.hackmd.io/tpWNQTFvSOS_ZrSt2MiPWg) [target=_blank] 
+- [給記者朋友、研究者的採訪建議事項](/hgXdOpyZRPCK1HVBVGmIhA)[target=_blank] 
+- [以 g0v 為主題的學術研究](https://g0v.hackmd.io/tpWNQTFvSOS_ZrSt2MiPWg)[target=_blank] 
+- [g0v 媒體報導 / g0v media coverage](https://docs.google.com/spreadsheets/d/1YaD9e3HQ19ft2lSz_B9nnxjw8A-4Tbfain9OvnS38aw/edit?usp=sharing)[target=_blank] 
 
 ![Filming of The Life-Sized City in the office of g0v jothon. Photo by g0v.tw, CC BY 2.0](https://i.imgur.com/vwP94aZ.jpg)
 > Filming of The Life-Sized City in the office of g0v jothon. [CC BY 2.0 by g0v.tw](https://www.flickr.com/photos/g0v/48989674468/in/album-72157711577604536/)
@@ -116,11 +117,11 @@ https://www.youtube.com/watch?v=7238q4LM1nA&feature=youtu.b
 
 ### Ours to Own 
 說明
-- 123
+- ?
 狀態：預計 10 月於台北拍攝
 - 若有拍攝細節或歷程文件可再補充
 剪輯成果：
-- 123
+- ?
 
 ## 2023
 
