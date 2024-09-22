@@ -69,7 +69,8 @@ int main()
 	return 0;
 }
 </pre>
-
+-----
+-----
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4dbe58b55a625bc3d59f38ab22913637.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f7eb0f4270ba566c1d7bd3bf72684444.png)
 
@@ -101,4 +102,37 @@ int main()
 	return 0;
 }
 </pre>
+-----------
+--------
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b49f18aa611f8e30957b7d3a377b39e9.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_dc0c972126f0bbbacd4de3c400c07ea4.png)
+## or
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4c0380ea722e7f73c7c72e6520feb0da.png)
+
+
+<pre>
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n;
+    cin >> n; 
+    while (n--) {
+        long long sum, dif;
+        cin >> sum >> dif; 
+
+        if (sum < dif || (sum - dif) % 2 != 0) {
+            cout << "impossible" << endl;
+        } else {
+            long long x = (sum + dif) / 2; 
+            long long y = (sum - dif) / 2; 
+            cout << x << " " << y << endl; 
+        }
+    }
+
+    return 0;
+}
+</pre>
+* The issue with your code lies in the inner while(cin >> sum >> dif) loop. This will cause the program to continuously read pairs of sum and dif until it reaches the end of input, which isn't the intended behavior. Instead, you should read sum and dif only once per test case. Here’s how to fix it:
+--------
