@@ -8,8 +8,8 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- Workis 出席：
-- 線上出席：
+- Workis 出席：bil, orz
+- 線上出席：Conrad, T, nonumpa
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -53,6 +53,15 @@ https://lin.ee/1QUzEX4nI
 - [ ] 觀察現有 article 的 reply request count
 
 ##### ⛔️ Release Blockers
+- 這組好像還是壞的 https://dev.cofacts.tw/article/oP_g_-AB4DHgA-D_4E_gD-AP6FfoV-AH4AfgV-ip4J8
+  - 應有 https://dev.cofacts.tw/article/6RHNHpIBUOXjqM1ABRPZ ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a1c924787dd6b4e5c5c483c5773ff081.png =x400)
+- https://dev.cofacts.tw/article/7BHNHpIBUOXjqM1ADxMn
+  - 有 group 但「雲之聲」也是錯的 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_32733fc98031808a4da3739108196c96.JPG =x400)
+- https://dev.cofacts.tw/article/8xHSHpIBUOXjqM1AvRND
+  - 一樣有 group 但「雲之聲」是錯的 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0f8656a69e6164ee1ef7f980eb7cfa4a.png =x400)
+
+
+
 ##### 未竟項目
 
 ### :eye: Under review
@@ -70,14 +79,6 @@ https://lin.ee/1QUzEX4nI
 - 網站移動到 github.com/Open165/site ，recon worker 放 github.com/Open165/worker
 - 之後打算 recon endpoint 用 turnstile (Cloudflare 的 captcha) 保護
 
-## CCPRIP
-
-### [Infra] Logging & Observabilty
-
-> CCPRIP doc
-> https://g0v.hackmd.io/BRsJOevWSbyUMBSZEVVWrA#Logging-and-monitoring
-
-
 ## Community
 
 ### 廣播：科技社群敲敲門
@@ -86,8 +87,12 @@ https://lin.ee/1QUzEX4nI
 ### 大松
 > Cofacts + Open165
 
+- 13:30 幫新手導覽團拍照 [name=Conrad]
+  - 在導覽團抵達 Cofacts 的位置時拍照，畫面裡要有導覽團、正在解說的 Johnson 與 nonumpa 與 Johnson 的螢幕
+
 Cofacts
 - 協助闢謠
+- good first issue
 - AI classifier?
 
 Open165
@@ -95,5 +100,24 @@ Open165
 - 設計
 
 ### RightsCon
+- 比鄰會是別場的講者
+- Tech demo 可以有兩個講者
 
+### 小聚
+Fork 了一個在 oen
+還沒有確定日期、還沒有借場地
+https://cofacts.oen.tw/events/2mTCSkn6M3fCHW5wpVFPxwXRIkh
+票在這裡
+https://cofacts.oen.tw/events/2mTCSkn6M3fCHW5wpVFPxwXRIkh?shearTicket=2mTMGn8t0dIHh7KVKp2h8kSFPrW
+- 發現一定要登入才能拿票
+
+:::success
+決定不用 oen，還是kktix吧
+:::
+
+
+- 大松可能會在二月 --> 9 月大松後可能還是 11 月
+- 12, 1 月可能沒有大松
+- 農曆年 = 1 月
+- --> 10/27(日) 借 NPO Hub 二樓
 
