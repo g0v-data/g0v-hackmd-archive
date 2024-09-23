@@ -8,7 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- Workis 出席
+- Workis 出席：
 - 線上出席：
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
@@ -78,7 +78,22 @@ https://lin.ee/1QUzEX4nI
 > https://g0v.hackmd.io/BRsJOevWSbyUMBSZEVVWrA#Logging-and-monitoring
 
 
+## Community
 
+### 廣播：科技社群敲敲門
+> 訪綱？
 
-## RightsCon
+### 大松
+> Cofacts + Open165
+
+Cofacts
+- 協助闢謠
+- AI classifier?
+
+Open165
+- 被騙後的文案
+- 設計
+
+### RightsCon
+
 
