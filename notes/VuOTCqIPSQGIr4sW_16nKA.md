@@ -8,7 +8,7 @@ https://x.com/dafabetcafe/
 https://www.pinterest.com/dafabetcafe/
 https://www.youtube.com/@dafabetcafe/
 https://www.tumblr.com/dafabetcafe/
-https://www.reddit.com/user/dafabetcafe/https://www.tumblr.com/dafabetcafe/
+https://www.reddit.com/user/dafabetcafe/
 https://www.behance.net/dafabetcafe
 https://nextion.tech/forums/users/dafabetcafe/
 https://www.mapleprimes.com/users/dafabetcafe
