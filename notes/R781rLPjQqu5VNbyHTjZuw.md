@@ -2,7 +2,7 @@
 tags: rand0mth0n, hackathon
 ---
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
-# Rand0mTh9n with g0v Jothon｜與揪松的第玖次放輕松
+# Rand0mTh10n with g0v Jothon｜與揪松的第拾次放輕松
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_242357ed8a08159c2620b4b95aaff931.png)
 
@@ -31,7 +31,7 @@ Just a reminder: There won't be dinner provided at this offline gathering, so pl
 
 ## 時間地點
 
-- 2024-08-27 Tue. 1900 - 2100
+- 2024-09-24 Tue. 1900 - 2100
 - [NPO HUB Taipei 台北NPO聚落](https://maps.app.goo.gl/XPrvzSdqgszbfRBV8) 4F 廚房
     - [「如何入場」及場地使用規定](/9pwDPOXLTr6IJKiLofl3qg)
 

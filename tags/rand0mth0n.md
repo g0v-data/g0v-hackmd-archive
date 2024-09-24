@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Rand0mTh9n with g0v Jothon｜與揪松的第玖次放輕松](../notes/R781rLPjQqu5VNbyHTjZuw.md) | 2024-09-22T16:29:08+08:00 | 2024-09-22T16:28:28+08:00 |
+| 1 | [Rand0mTh10n with g0v Jothon｜與揪松的第拾次放輕松](../notes/R781rLPjQqu5VNbyHTjZuw.md) | 2024-09-24T10:07:33+08:00 | 2024-09-22T16:28:28+08:00 |
 | 2 | [Rand0mTh9n with g0v Jothon｜與揪松的第玖次放輕松](../notes/jjuwA751T7G2kVIvzD2p9Q.md) | 2024-09-10T21:24:06+08:00 | 2024-09-06T21:25:45+08:00 |
 | 3 | [Rand0mTh8n with g0v Jothon｜與揪松的第捌次放輕松](../notes/RuhCfavuRkKWYL63Gv9wQg.md) | 2024-08-27T21:30:25+08:00 | 2024-08-14T19:54:20+08:00 |
 | 4 | [Rand0mTh0n with g0v Jothon｜與揪松的第零次放輕松](../notes/qzELuqNARKKBjWr2mIiY8A.md) | 2024-08-27T19:00:37+08:00 | 2024-04-25T01:07:33+08:00 |

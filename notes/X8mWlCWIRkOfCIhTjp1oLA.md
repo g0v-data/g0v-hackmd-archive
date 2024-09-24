@@ -470,7 +470,10 @@ https://drive.google.com/file/d/1KjYATFfLsVqLIIB_lWQM4pg0HHFo-i_S/view?usp=drive
 https://www.facebook.com/100094870554841/posts/pfbid02L2FDr2UhHa5djfBe49ZAsXwfEXwrCK21JsCrxAAWUNN3d92PiumxbEm2D7MCVopVl/?mibextid=cr9u03
 
 臺中市東海大學
-https://www.facebook.com/share/p/Xv5krVmQcWnhHmMz/?mibextid=WC7FNe
+https://www.facebook.com/share/p/Xv5krVmQcWnhHmMz/
+
+臺中綠川東街
+https://www.facebook.com/share/vMJCfGRLuhAXRXrD/
 
 台中市西區
 https://www.facebook.com/story.php?story_fbid=pfbid02cGTTrgsjGjyisCKYYT8yp3uidGks1WHuLp7Lerxs592cMAcSAHiN19gk9YVbfK8Zl&id=100083131440923&mibextid=qC1gEa
