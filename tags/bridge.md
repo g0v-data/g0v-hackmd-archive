@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [bridge](../notes/OmYCPV5aSFKCgJUar7dGDQ.md) | 2024-09-22T23:12:46+08:00 | 2021-06-12T15:37:01+08:00 |
+| 1 | [bridge](../notes/OmYCPV5aSFKCgJUar7dGDQ.md) | 2024-09-24T21:45:52+08:00 | 2021-06-12T15:37:01+08:00 |
 | 2 | [Adding Telegram group to bridge](../notes/a3IelgLGT-GwisBu0RNNXQ.md) | 2024-04-26T23:37:25+08:00 | 2023-06-03T22:26:37+08:00 |
 | 3 | [Adding Discord to g0v bridge](../notes/vdIjwcbiQcm3FCnKrcsaiA.md) | 2023-07-12T18:27:47+08:00 | 2023-01-21T01:38:42+08:00 |
 | 4 | [Matterbridge Slack bot setup](../notes/IsyNmVDnTySE-OfVhEcQMg.md) | 2023-07-01T14:55:55+08:00 | 2020-04-22T19:13:16+08:00 |

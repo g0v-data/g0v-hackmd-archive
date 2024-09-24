@@ -62,6 +62,7 @@ tags: bridge
         - 連結 g0v Slack #clickhouse
     - [Meshtasic] Meshtasic to g0v slack
         - Meshtastic 的 SignalTest channel，連結 g0v Slack #civil-defense
+        - https://g0v.hackmd.io/0bHi9giDQN66h0HGAVp9aw
     - （其它可在這份文件上提議，在無 bridge 治理機制之前暫時於文件上討論決定）
 - 討論 bridge 治理機制
 

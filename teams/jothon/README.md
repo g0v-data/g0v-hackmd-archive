@@ -2,8 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [-g0v-Community-Hangout-39th](../../notes/oi6Ra51gSrqzJrRpQai8Sw.md) | 第參拾柒次 g0v 揪松團 松前哈拉 | 2024-08-27T12:49:54+08:00 | View mode |
 | [AI-Grant](../../notes/qOtX290-RQW4k54MaDvbiQ.md) | 繁體中文AI開源實踐計畫Traditional Chinese AI Open Source Grant | 2024-09-24T10:58:21+08:00 | Book mode |
+| [-g0v-Community-Hangout-39th](../../notes/oi6Ra51gSrqzJrRpQai8Sw.md) | 第參拾柒次 g0v 揪松團 松前哈拉 | 2024-08-27T12:49:54+08:00 | View mode |
 | [hsiaothon](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 社群小松果 | 2019-09-24T18:12:17+08:00 | Book mode |
 | [HJmFmRKjA](../../notes/aJl4n6ubRau4dme6mc0Grg.md) | g0v hackath63n - 第陸拾參次公民科技園遊會黑客松 | 2024-08-26T18:05:46+08:00 | View mode |
 | [community99-2408](../../notes/4fyefBWqRduk68-hREjytA.md) | g0v 社群每月九分鐘 - 2024/8 | 2024-08-06T11:43:26+08:00 | View mode |
