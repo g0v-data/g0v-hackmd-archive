@@ -232,6 +232,8 @@ https://bit.ly/3npN8YZ
 加裝軟桿
 https://www.facebook.com/story.php?story_fbid=pfbid032t9nZTjR44Lw5LvFkqWP3arcfKfL4PfrHvocjzqCQBnxdCKpgNuDD2DZENjeccPnl&id=100049204915573&mibextid=qC1gEa
 
+東港 行人庇護島
+https://www.facebook.com/share/p/cKfUkuXLe4d3abui/
 
 ### 有了改造後地點的經緯度，可以延伸製作
 
