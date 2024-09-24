@@ -1,7 +1,7 @@
 Giải mã Baccarat là trang web đầu tiên cung cấp giải pháp soi cầu Baccarat bằng công nghệ Trí tuệ Nhân tạo. Giaimabcr.com còn là diễn đàn thảo luận về kiến thức soi cầu, bẻ cầu cùng hàng ngàn phần quà hấp dẫn đến từ các nhà cái uy tín.
 Thông tin 
 Địa chỉ : 38 Đ. Trần Phú, Phường 4, Quận 5, Hồ Chí Minh, Vietnam
-Mail : admingiaimabcr@gamil.com
+Mail : admingiaimabcr@gmail.com
 Phone : 0978589698
 Website : http://giaimabcr.com 
 #baccarat #giaimabaccarat #trangchugiaimabcr
