@@ -1,26 +1,7 @@
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run print('')
-for i in range(20):
-    print('hello python')
-for i in range(20):
-    print(" hi ", "yoyoyo")
-    
-a = int(input('please input a num'))
-print(a*999999)    
+i = int(input("請輸入你的成績"))
 
-b = int(input("please input a number"))
-
-if b > 10:
-    print("蔡志敏")
+if i >= 60:
+    print("你及格了你超屌")
 else:
-    print("羅志祥")
+    print("你沒及格")
     
-c = input("請輸入一個符號")
-if c == "+":
-    print(a+b)
-elif c == "*":
-    print(a*b)
-elif c == "-":
-    print(a-b)
-else:
-    print(a/b)

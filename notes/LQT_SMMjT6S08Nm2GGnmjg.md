@@ -1,19 +1,23 @@
 # Online Python compiler (interpreter) to run Python online.
 # Write Python 3 code in this online editor and run it.
 print("Try programiz.pro")
+#作業一：計算兩銷量之合
+#165-13
+a=int(input("銷量ㄧ:"))
+b=int(input("銷量二:"))
+print("Total:",a+b)
 
 
-#輸出一個字串
-print("Hello Python")
-print('hi')
 
-#輸出多個字串
-print("hi","你好")
-print("hi","我叫張翔致")
 
-#輸出運算結果
-print(1+3)
-print("1+3=",1+3)
+
+
+
+
+
+
+
+
 
 
 

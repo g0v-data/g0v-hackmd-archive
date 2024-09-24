@@ -1,7 +1,6 @@
-
-print("Hello Python")
-print('我是張善祐')
-
- #輸出多個字串
- print("hi","你好")
+#作業一：計算兩銷量之和
+#165-99
+a=int(input("銷量一："))
+b=int(input("銷量二："))
+print("Total:",a+b)
  

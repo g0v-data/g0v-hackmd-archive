@@ -2,11 +2,12 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 15773 | 2024-09-24T09:00:51+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 15815 | 2024-09-24T09:55:03+08:00 |
+| [Templates](tags/Templates.md) | 262 | 2024-09-24T09:53:56+08:00 |
+| [Meeting](tags/Meeting.md) | 56 | 2024-09-24T09:53:56+08:00 |
 | [cofacts](tags/cofacts.md) | 459 | 2024-09-23T20:57:08+08:00 |
 | [meeting note](tags/meeting%20note.md) | 283 | 2024-09-23T20:57:08+08:00 |
 | [Tag(change me!)](tags/Tag%28change%20me%21%29.md) | 223 | 2024-09-23T18:44:48+08:00 |
-| [Templates](tags/Templates.md) | 261 | 2024-09-23T17:43:14+08:00 |
 | [Book](tags/Book.md) | 170 | 2024-09-23T17:43:14+08:00 |
 | [GIS](tags/GIS.md) | 159 | 2024-09-22T23:59:34+08:00 |
 | [bridge](tags/bridge.md) | 7 | 2024-09-22T23:12:46+08:00 |
@@ -65,7 +66,6 @@
 | [open source design](tags/open%20source%20design.md) | 1 | 2024-08-27T13:56:27+08:00 |
 | [edu](tags/edu.md) | 150 | 2024-08-24T19:32:45+08:00 |
 | [river](tags/river.md) | 3 | 2024-08-23T18:57:37+08:00 |
-| [Meeting](tags/Meeting.md) | 55 | 2024-08-23T15:44:14+08:00 |
 | [web3](tags/web3.md) | 130 | 2024-08-19T13:06:21+08:00 |
 | [Shoutout](tags/Shoutout.md) | 47 | 2024-08-19T13:06:21+08:00 |
 | [數位人權](tags/%E6%95%B8%E4%BD%8D%E4%BA%BA%E6%AC%8A.md) | 1 | 2024-08-18T17:11:42+08:00 |
