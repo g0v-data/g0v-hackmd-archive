@@ -173,8 +173,37 @@ int main()
 
 ---------
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6785b53bae6f3dcbdca6294214864cea.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1c9fd130193fc885cc2c20cfbf7d6b70.png)
 
+<pre>
+#include <iostream>
+using namespace std;
+#include <cmath>
 
+int main()
+{
+	int n;
+	cin >> n;
+	while(n-- && n<15) 
+	{
+		int a,b;
+		cin>>a>>b;
+		if(abs(a) < 1000000001 && abs(b) < 1000000001)
+		{
+			if(a>b)
+				cout <<">"<< endl;	
+			else if(a<b)
+				cout << "<"<<endl;
+			else if(a=b)
+				cout << "=" <<endl;
+				
+		}
+		else
+			return 1; 
+	}
+	return 0;
+}
+</pre>
 
-
+--------
 
