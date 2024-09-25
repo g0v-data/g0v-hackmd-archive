@@ -7,6 +7,7 @@ tags: vtaiwan,dpsurvey
 - [專案基本資訊](/rxuKtr99SJ-eyvvFUDwr9A)
 - [小聚討論資訊暫存區](/MsTKawWUTe6IXnGbwnwPhQ)
 ## 工具與平台收集
+- [資料表](https://docs.google.com/spreadsheets/d/1YgN306YKXY8lLJ-mXg4GBIucUBQ8cA0gATuDKE5IZhs/edit?usp=sharing)
 - [審議與公共參與相關資源](/qJ460ImBQHi8vjNBQclhzA)
 - [整合介紹區](/JH7ecOD9RQiFQBzLw-T03g)
 - [個別工具資訊整理-工具表格所在地](/tLkFGP2QSMOjQijxYsg7yA)

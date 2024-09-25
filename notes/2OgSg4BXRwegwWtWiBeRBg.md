@@ -135,6 +135,10 @@ https://www.facebook.com/605050693/posts/pfbid038MfJ3uCWfqQSSrGfdSM8MZt6KJFZXgXy
         - https://www.facebook.com/100003102334361/posts/pfbid02zVW7gXWHoyaAv9szT1zkdB3t48wrzw1hKHkt5ENiDh5S8ZQvCeqF4pz9ELTq37dNl/
         - https://www.facebook.com/100003102334361/posts/pfbid0jp6jeE1UtAFXGKHQfCqaZRi7B3agvieTuA7yMJUDwpjq8CK1KKJ4sLobf4zNaFf8l/
 
+
+中國船隻進入菲律賓經濟海域
+https://youtu.be/V80MGYrWWaM
+
 ### 探討此領域的單位
 
 ## 周邊各國因應
