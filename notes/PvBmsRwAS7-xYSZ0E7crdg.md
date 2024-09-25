@@ -135,4 +135,46 @@ int main() {
 }
 </pre>
 * The issue with your code lies in the inner while(cin >> sum >> dif) loop. This will cause the program to continuously read pairs of sum and dif until it reaches the end of input, which isn't the intended behavior. Instead, you should read sum and dif only once per test case. Here’s how to fix it:
+
 --------
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8a1efb33289dc066f762685ced9c24a7.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_63b6057b54869f4b480af2c806c4e827.png)
+<pre>
+#include <iostream>
+using namespace std;
+
+int main()
+{
+
+	int n;
+	cin>>n;
+	while(n--)
+	{
+		int a,b,c,d;
+		cin>>a>>b>>c>>d;
+		if(0<a<230 && 0<b<230 && 0<c<230 && 0<d<230)
+		{
+			if(a==b&&b==c&&c==d)
+				cout <<"square"<< endl;
+			else if(a==b&&c==d ||a==c&&b==d||a==d&&b==c)
+				cout << "rectangle" <<endl;
+			else if (a+b+c>d&&a+b+d>c&&a+c+d>b&&b+c+d>a)
+				cout << "quadrangle"<<endl;
+			else
+				cout<<"banana"<<endl;
+		}
+		else
+			return 1;
+	}
+	return 0;
+}
+</pre>
+
+---------
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6785b53bae6f3dcbdca6294214864cea.png)
+
+
+
+
+
