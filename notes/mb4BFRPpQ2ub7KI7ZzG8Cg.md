@@ -32,6 +32,19 @@ tags: vtaiwan
     - 來問問看雨蒼 [name=peter]
 - **重複出現的主題：數位工具要幫助過程的什麼？**
     - 目前數位公共參與工具的資料表是有要回應這個問題的～
+### 林雨蒼訪談
+- 權利保障的議題
+- 總統盃黑客松的平方投票法有出現哪些具體的問題？[name=josh]
+    - 之後可以詢問～[name=peter]
+- 審議主持人對於議題的品味真的存在嗎？[name=peter]
+    - 很難回答的問題，因為這很難量化 [name=josh]
+    - 比起議題的討論，與自己的了解，可能更重要的是 people skill，是如何維持一個優良的氣氛。[name=eli]
+        - 常見的狀況是有人會想要主導討論，那主持人就要去分配發言時間，或者是鼓勵其他人講話。[name=eli]
+        - 主持人要很會察覺這些發言的狀況，並且做滾動式的調整。[name=josh]
+        - 甚至會讓參與者覺得小組討論時的表達權利無法被充分表達。[name=josh]
+        - 這些似乎很難透過單純的授課來傳承知識，而是要累積更多的經驗 [name=peter]
+        - 但是藉由訂定框架與規範來做這件事，數位工具的輔助與設計來解決這個問題。[name=eli]
+        - 數位工具可以支撐到這個部分的，但是要考慮到這個部分。[name=peter]
 ### Action List
 - 翻譯欄位區分
 
@@ -41,4 +54,5 @@ tags: vtaiwan
 - 司改會數位權利法案討論與介紹 
     - 10/8 Peter 會去司改會開會討論
 - [vtaiwan 與TWNIC 合作](/@vTaiwan/ByAPNqIh0)
-- 一停提到的文章（不是APSR是IPSR歹勢）：https://journals.sagepub.com/doi/10.1177/01925121231203719
+- 一停提到的文章（不是APSR是IPSR歹勢）："For administrative rulemaking we could devise citizens’ initiatives to produce greater recursivity in administration and therefore increased legitimacy. I have proposed what we might call a ‘Citizens’ Initiative for Administrative Accountability’, in which, e.g., 200 citizen signatures could mandate that a lower-level official appear before a group of citizens to explain and discuss an administrative policy, 1,000 mandate a discussion with a higher-level official, and 10,000 a discussion with the highest-level official on that policy. In line with the recursive ideal, such processes would require administrators to explain the reasons for their actions, listen well to citizens’ disagreements or suggestions, respond iteratively, and, when appropriate, use the forum to ask their own questions and follow-up questions about citizens’ experiences "(他其實沒有講vTaiwan是這樣！vTaiwan的部分："Other mechanisms, such as citizens’ assemblies, open-ended surveys, and decentralized discussion groups with members, perhaps combined with new technologies like vTaiwan, an online discussion platform that lets citizens brainstorm creative solutions to everyday policy problems, could allow civil society organizations to consult their members more recursively (see, e.g., Freeman, 2000; vTaiwan, 2021 more generally).")
+https://journals.sagepub.com/doi/10.1177/01925121231203719
