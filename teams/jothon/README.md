@@ -2,13 +2,13 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [H1_B6j-9R](../../notes/nCOd0CmwSXKqdjjhA_JGFQ.md) | 2024 夏日線上源力增能營結業式 x 提案工作坊 | 2024-08-08T10:28:16+08:00 | View mode |
 | [AI-Grant](../../notes/qOtX290-RQW4k54MaDvbiQ.md) | 繁體中文AI開源實踐計畫Traditional Chinese AI Open Source Grant | 2024-09-24T10:58:21+08:00 | Book mode |
 | [-g0v-Community-Hangout-39th](../../notes/oi6Ra51gSrqzJrRpQai8Sw.md) | 第參拾柒次 g0v 揪松團 松前哈拉 | 2024-08-27T12:49:54+08:00 | View mode |
 | [hsiaothon](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 社群小松果 | 2019-09-24T18:12:17+08:00 | Book mode |
 | [HJmFmRKjA](../../notes/aJl4n6ubRau4dme6mc0Grg.md) | g0v hackath63n - 第陸拾參次公民科技園遊會黑客松 | 2024-08-26T18:05:46+08:00 | View mode |
 | [community99-2408](../../notes/4fyefBWqRduk68-hREjytA.md) | g0v 社群每月九分鐘 - 2024/8 | 2024-08-06T11:43:26+08:00 | View mode |
 | [community99-2409](../../notes/nEmVgrXgSImdn_n5VisnyQ.md) | g0v 社群每月九分鐘 - 2024/9 | 2024-09-03T16:53:35+08:00 | View mode |
-| [H1_B6j-9R](../../notes/nCOd0CmwSXKqdjjhA_JGFQ.md) | 2024 夏日線上源力增能營結業式 x 提案工作坊 | 2024-08-08T10:28:16+08:00 | View mode |
 | [community99](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2021-03-09T13:12:37+08:00 | Book mode |
 | [jothon2024](../../notes/8_z1xqCwQH-np8Zu9iBOkw.md) | g0v 揪松團 2024 年活動行事曆 | 2023-11-29T12:10:06+08:00 | View mode |
 | [afterg0vhackathon](../../notes/5RN9ZHUBRqKdYDo3Vod5_g.md) | g0v 松後推坑 | 2021-01-29T14:58:21+08:00 | Book mode |

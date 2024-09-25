@@ -1,3 +1,7 @@
+---
+tags: 拉人更輕鬆
+---
+
 # 拉人更輕鬆 - 專案進度回顧與未來目標
 
 經過社群成員與台大堉璘計畫「拉人更輕鬆」組員在[第貳拾肆次基礎建設松](https://g0v-jothon.kktix.cc/events/infrath24n)當日和後續的討論、協作，[更新計畫](https://hackmd.io/t97cH7tFQPyUCgwmfCsFiw)中多數的官網小規模修正目標已經完成，非常感謝社群夥伴們的貢獻！
