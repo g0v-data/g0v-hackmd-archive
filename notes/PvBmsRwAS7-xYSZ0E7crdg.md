@@ -206,4 +206,33 @@ int main()
 </pre>
 
 --------
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_49b6591a085269f851371e9555aaffb4.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d37ab131beae4d6cc5156cf794edd675.png)
+<pre>
+#include <iostream>
+using namespace std;
+#include<cmath>
+
+int main()
+{
+	long long int n;
+	cin>>n;
+	while(n--&&1<=n<=5*105)
+	{
+		long long int s;
+		cin>>s;
+		if(1<=s<=pow(10,9))
+		{
+			long long int a;
+			a=(s+1)*(s+1)-1;
+			cout <<a<<endl;
+		}
+		else
+			return 1;
+	}
+	return 0;
+	
+}
+</pre>
 
