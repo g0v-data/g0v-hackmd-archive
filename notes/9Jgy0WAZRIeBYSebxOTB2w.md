@@ -1,20 +1,33 @@
 ---
 tags: FtO, RightsCon
 ---
-# FtO at RightsCon 2025
+# FtO at RightsCon (RC) 2025
 
 ## RightsCon 2025
 Feb 24-27 2025, Taipei International Convention Center (TICC)
 
-## FtO session organization
+## FtO engagement at RightsCon
+- Engagement
+    - Not just the program
+    - Things are happening more than a week
+    - RightsCon has the entire building
+    - AN coordination
+    - Plan anything helpful for programming
+- Ideas
+    - In-person FtO meeting before/during/after RC
+    - FtO hackathon in KH before RC
+    - Meetings with funders / other orgs at RC
+
+## FtO session at RightsCon
 
 ### Todo list for speakers
 
 - [ ] Update session info ==must before Oct 13==
-    - [ ] Add collaborators
+    - [x] Add collaborators
     - [ ] Session info
+    - [ ] Confirm additional speakers
     - [ ] Confirm facilitator
-    - [ ] Preferred session date
+    - [x] Preferred session date
 - [ ] Speakers must also register & get ticket
     - https://www.rightscon.org/registration/
     - early bird ends ==Dec 3==
@@ -24,13 +37,14 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
         > I am local so I can use the 25% discount or not at all :) [name=chihao]
     - [ ] Mami
     - [ ] Eunsoo
-    - [ ] Facilitator?
+    - [ ] 4th speaker
+    - [ ] Facilitator
 - [ ] Plan travel + hotel early
     - [x] chihao - I live in Taipei :)
     - [ ] Mami - I live in Osaka/Tokyo and will go from KIX or HND
     - [ ] Eunsoo
-- [ ] Possible engagements of FtO at RightsCon
-- [ ] In-person FtO meeting before/during/after FtO
+    - [ ] 4th speaker
+    - [ ] Facilitator
 
 ### Timeline
 
@@ -43,7 +57,7 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
 - 60-min in-person dialogue
     - Everyone must be on-site
 
-### About RightsCon
+### Suggestions
 - Civil society
 - More a gathering, workshop, less presentation, conference
 - More co-learning
@@ -52,12 +66,6 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
     - spend much time with each other so now we can talk about serious topics
     - infrastructure
         - student exchanges
-- Engagement
-    - Not just the program
-    - Things are happening more than a week
-    - RightsCon has the entire building
-    - AN coordination
-    - Plan anything helpful for programming
 
 ## Proposal
 
