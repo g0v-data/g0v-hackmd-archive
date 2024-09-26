@@ -182,3 +182,9 @@ int main()
 	return 0;
 } 
 </pre>
+
+費式數列
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_23891356cc5006f7a49e5474a5eb3d14.png)
+
+
+

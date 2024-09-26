@@ -56,7 +56,9 @@ SAFP介紹：https://concurso-uni.safp.gov.mo/zh-hant/node/496
 入職開考 - 政府公報, https://www.io.gov.mo/cn/news/list/b/?d=11
 統一管理制度 - 行政公職局, https://concurso-uni.safp.gov.mo/
 
-* 2024， 2023、2021、2019 430綜合試題目,(最新!!)
+* 2024年350綜合能力評估考試題目9月22日 10:00AM 
+https://docs.google.com/document/d/1VPtaghax66y6KgX5xeYBt6iWlDZkeTP9vQAKSTyFEWk/edit
+* 2024， 2023、2021、2019 430綜合試題目
 https://docs.google.com/document/d/1utkRdk6NmCpTdSAU29naQa3GqGPVP7oBkseo6pAzen8/edit
 * 舊版430綜合能力評估考試題目, https://docs.google.com/document/d/1ApMQq_KGDFsIHq5HygpYq_iHAwE_xt8MwcQ7efOcGks/edit
 * 2019 350綜合試題目, https://docs.google.com/document/d/1VPtaghax66y6KgX5xeYBt6iWlDZkeTP9vQAKSTyFEWk/edit

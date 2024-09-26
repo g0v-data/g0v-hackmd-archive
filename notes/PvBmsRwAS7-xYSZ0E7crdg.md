@@ -204,11 +204,13 @@ int main()
 	return 0;
 }
 </pre>
-
---------
+-
+ 
+-
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_49b6591a085269f851371e9555aaffb4.png)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d37ab131beae4d6cc5156cf794edd675.png)
+
 <pre>
 #include <iostream>
 using namespace std;
