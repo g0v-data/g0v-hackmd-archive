@@ -10,7 +10,7 @@ tags: vtaiwan
 
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
-    - 更新新手簡報內容 [name=peter]
+    - 簡報完成更新！[name=peter]
 
 ## 小小的分享
 - 大松提案結果與成果
@@ -26,3 +26,5 @@ tags: vtaiwan
 - [議題小聚](/xW580C91SiCTWI4JAaFdDg)
     - 目前正在進行場地借用
     - [工作表](https://docs.google.com/spreadsheets/d/1X0QltpUGb5UiP8lM6uiDiqEJFi8TORqiAZhEKuRaX9A/edit?gid=0#gid=0)
+
+## 
