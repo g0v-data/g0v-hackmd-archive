@@ -186,5 +186,51 @@ int main()
 費式數列
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_23891356cc5006f7a49e5474a5eb3d14.png)
 
+## do while :先跑一次在判斷對不對
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b964a78816c05c79140da3c5afa96428.png)
+## for(c=1;c<=10;c++)
+## for(c=1;c<=10;c+=2)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a4371df4fe920efd64d01c7b329f3cca.png)
+
+## 質因數分解
+<pre>
+	
+	int s,c,m //c的幾次方 
+	cin>>s; //待測數 
+	c=2 //2可以整除 
+	while(c*c<=s)//大於二次方 
+	{
+		m=0
+		while(s%c==0)
+		{
+			s/=c;
+			m++;
+		}
+		if(m!=0)
+		{ 
+			if(first==1)
+			{
+				cout<<c<<"^"<<m<<"*";
+				first =0;
+			
+			}
+			else
+			{
+				cout<<"*"<<c<<"^"<<m;
+			}
+		} 
+		c++;
+	}
+	if(s!=1)
+	{
+		if(first==1)
+			cout <<s<<"^1"<<endl;
+		else
+			cout<< << "*"<<s<<"1"<<endl;
+	}
+	return 0;
+}
+</pre>
+
 
 

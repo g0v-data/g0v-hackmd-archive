@@ -4,4 +4,8 @@
 ### 2.Take notes about the main idea and the supporting points that you want to use.
 ### 3. It's important to read passage again to check we correctly found the main point.
 
-Topic sentence
+## Paragraph
+### 1.Topic sentence
+### 2.supporting sentence
+### 3.conclusion
+## S
