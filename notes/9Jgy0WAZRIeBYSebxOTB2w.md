@@ -10,7 +10,6 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
 
 ### Todo list for speakers
 
-
 - [ ] Speakers must also register & get ticket
     - https://www.rightscon.org/registration/
     - early bird ends ==Dec 3==
@@ -26,6 +25,10 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
     - [ ] Mami
     - [ ] Eunsoo
 - [ ] Update session info ==must before Oct 13==
+    - [ ] Add collaborators
+    - [ ] Session info
+    - [ ] Confirm facilitator
+    - [ ] 
 
 ### Timeline
 
@@ -80,6 +83,6 @@ Slido will be used to collect questions and feedback during sharing. An facilita
 
 ### Speakers
 
-- Chihhao Yu, g0v.tw
 - Eunsoo Lee, Code for Korea
 - Mami Takesada, Code for Japan
+- Chihhao Yu, g0v.tw

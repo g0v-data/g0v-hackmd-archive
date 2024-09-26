@@ -232,5 +232,24 @@ int main()
 }
 </pre>
 
+## break
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_543df7689c6e8479d0294095a2fd5a4f.png)
+
+## continue
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1a8ceaa155378e9c6e4169fc82ebb775.png)
 
 
+
+	int m,n,t;
+	cin>>m;
+	cin>>n;
+	while(n!=0)
+	{
+		m%=n;
+		t=m;
+		m=n;
+		n=t;
+	}
+	cout<<m<<endl;
+	
+	
