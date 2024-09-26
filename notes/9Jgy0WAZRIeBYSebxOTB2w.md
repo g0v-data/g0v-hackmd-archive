@@ -10,25 +10,27 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
 
 ### Todo list for speakers
 
+- [ ] Update session info ==must before Oct 13==
+    - [ ] Add collaborators
+    - [ ] Session info
+    - [ ] Confirm facilitator
+    - [ ] Preferred session date
 - [ ] Speakers must also register & get ticket
     - https://www.rightscon.org/registration/
     - early bird ends ==Dec 3==
     - chihao has the discount codes
         > There are 4 discount codes: 25%, 50%, 75%, 100%-off, 1 ticket each [name=chihao]
     - [ ] chihao
-        > I am local so I can use the lower discount ticket :) [name=chihao]
+        > I am local so I can use the 25% discount or not at all :) [name=chihao]
     - [ ] Mami
     - [ ] Eunsoo
     - [ ] Facilitator?
 - [ ] Plan travel + hotel early
     - [x] chihao - I live in Taipei :)
-    - [ ] Mami
+    - [ ] Mami - I live in Osaka/Tokyo and will go from KIX or HND
     - [ ] Eunsoo
-- [ ] Update session info ==must before Oct 13==
-    - [ ] Add collaborators
-    - [ ] Session info
-    - [ ] Confirm facilitator
-    - [ ] 
+- [ ] Possible engagements of FtO at RightsCon
+- [ ] In-person FtO meeting before/during/after FtO
 
 ### Timeline
 
@@ -40,6 +42,22 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
 ### Session Format
 - 60-min in-person dialogue
     - Everyone must be on-site
+
+### About RightsCon
+- Civil society
+- More a gathering, workshop, less presentation, conference
+- More co-learning
+- Keys
+    - the FtO "connection"
+    - spend much time with each other so now we can talk about serious topics
+    - infrastructure
+        - student exchanges
+- Engagement
+    - Not just the program
+    - Things are happening more than a week
+    - RightsCon has the entire building
+    - AN coordination
+    - Plan anything helpful for programming
 
 ## Proposal
 
