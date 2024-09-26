@@ -1,0 +1,20 @@
+<p dir="ltr"><img src="https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/461295790_1561453204804469_3267352983474950774_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=cc71e4&amp;_nc_ohc=NMBs3Fo8grcQ7kNvgF78gs3&amp;_nc_ht=scontent.fdad3-5.fna&amp;oh=00_AYBiRD-SDZhDfVRbpzVa4CwByxUi1BZUVutUKNL0GWYUxA&amp;oe=66FB4362" alt="" width="572" height="190" /></p>
+<p dir="ltr">Cổng game&nbsp;<a href="https://vicclub.support/">Vicclub</a>&nbsp;cung cấp link tải game Vic Club IOS, Android, APK ch&iacute;nh thức mới nhất. Đa dạng k&ecirc;nh hỗ trợ giải đ&aacute;p mọi thắc mắc kh&aacute;ch h&agrave;ng tận t&igrave;nh nhanh ch&oacute;ng</p>
+<p dir="ltr">#vicclub #conggamevicclub #linkvipclub #gamevicclub</p>
+<p dir="ltr"><strong>Th&ocirc;ng Tin Li&ecirc;n Hệ:&nbsp;</strong></p>
+<p dir="ltr"><strong>- Địa Chỉ:</strong>&nbsp;86/162 Hẻm 86 &Ocirc;ng &Iacute;ch Khi&ecirc;m, Phường 14, Quận 11, Hồ Ch&iacute; Minh, Việt Nam&nbsp;</p>
+<p dir="ltr"><strong>- Số Điện Thoại:</strong>&nbsp;0907667190&nbsp;</p>
+<p dir="ltr"><strong>- Email:</strong>&nbsp;vicclub.support@gmail.com&nbsp;</p>
+<p dir="ltr"><strong>- Website:</strong>&nbsp;<a href="https://vicclub.support/">https://vicclub.support/</a></p>
+<p dir="ltr"><img src="https://scontent.fdad3-4.fna.fbcdn.net/v/t39.30808-6/461272103_1561453121471144_6932047319953000254_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=6ee11a&amp;_nc_ohc=WYTTH_K-ekAQ7kNvgFYGYev&amp;_nc_ht=scontent.fdad3-4.fna&amp;_nc_gid=A8r7g3701EaqrZ9bkaZjKxj&amp;oh=00_AYDft0LFiXv5Ayn5iEYYA_XJnYE3VOIDroSuM4CyvGaB_A&amp;oe=66FB6524" alt="" width="200" height="200" /></p>
+<p dir="ltr"><strong>Google Stacking</strong></p>
+<p dir="ltr">GG Site:&nbsp;<a href="https://sites.google.com/view/conggamevicclub/">https://sites.google.com/view/conggamevicclub/</a></p>
+<p dir="ltr">GG Drive:&nbsp;<a href="https://drive.google.com/drive/folders/1V_PvGnnUQOby8jZaTTW9cpZ9m-2jtAo1?usp=sharing">https://drive.google.com/drive/folders/1V_PvGnnUQOby8jZaTTW9cpZ9m-2jtAo1?usp=sharing</a></p>
+<p dir="ltr">GG Colab:&nbsp;<a href="https://colab.research.google.com/drive/1cV04TjB0NOwduEsewQessVJMfJQagubC?usp=sharing">https://colab.research.google.com/drive/1cV04TjB0NOwduEsewQessVJMfJQagubC?usp=sharing</a></p>
+<p dir="ltr">GG Form:&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLScsrX6zd2j0wJJNf7C7V0IkdNn5j0LffSy1vBXq-8Lzj84WBw/viewform?usp=sf_link">https://docs.google.com/forms/d/e/1FAIpQLScsrX6zd2j0wJJNf7C7V0IkdNn5j0LffSy1vBXq-8Lzj84WBw/viewform?usp=sf_link</a></p>
+<p dir="ltr">GG Doc:&nbsp;<a href="https://docs.google.com/document/d/1kmkA2IQGD26-IlJphyiv6vq9E-FBymqHAcVJ4Z3M6HM/edit?usp=sharing">https://docs.google.com/document/d/1kmkA2IQGD26-IlJphyiv6vq9E-FBymqHAcVJ4Z3M6HM/edit?usp=sharing</a></p>
+<p dir="ltr">GG Draw:&nbsp;<a href="https://docs.google.com/drawings/d/1tChL7yfdvUmKcL5EsLEgn97Hf2Bga5H0iWZceLDr0ZA/edit?usp=sharing">https://docs.google.com/drawings/d/1tChL7yfdvUmKcL5EsLEgn97Hf2Bga5H0iWZceLDr0ZA/edit?usp=sharing</a></p>
+<p dir="ltr">GG Slide:&nbsp;<a href="https://docs.google.com/presentation/d/1btIxP5VdC7vyn0HbSusKZRuPd7IM1IjN64wnikUZZmw/edit?usp=sharing">https://docs.google.com/presentation/d/1btIxP5VdC7vyn0HbSusKZRuPd7IM1IjN64wnikUZZmw/edit?usp=sharing</a></p>
+<p dir="ltr">GG Sheet:&nbsp;<a href="https://docs.google.com/spreadsheets/d/139TfzVYD5xVUakQxhtqaBhtZXg3gdiijOpUrueOIiKE/edit?usp=sharing">https://docs.google.com/spreadsheets/d/139TfzVYD5xVUakQxhtqaBhtZXg3gdiijOpUrueOIiKE/edit?usp=sharing</a></p>
+<p dir="ltr">GG My Map:&nbsp;<a href="https://www.google.com/maps/d/edit?mid=1x7NZJ9zfAY9zAO9CGlKxyHKpygfDI8E&amp;usp=sharing">https://www.google.com/maps/d/edit?mid=1x7NZJ9zfAY9zAO9CGlKxyHKpygfDI8E&amp;usp=sharing</a></p>
+<p>GG Earth:&nbsp;<a href="https://earth.google.com/earth/d/1YQG451HmnXVXoiFx6uWqKcRGFvWaYJwm?usp=sharing">https://earth.google.com/earth/d/1YQG451HmnXVXoiFx6uWqKcRGFvWaYJwm?usp=sharing</a></p>
