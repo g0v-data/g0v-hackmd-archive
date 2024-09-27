@@ -308,7 +308,7 @@ tags: 新生流域
 :::
 <br>
 
-### 常用網站：歷史地圖、歷史航照、地名路名歷史
+### 常用網站：歷史地圖、歷史航照、地名路名歷史、當代地理資訊
 - 臺北百年歷史地圖 https://gissrv4.sinica.edu.tw/gis/taipei.aspx
     - 1895 《臺北及大稻埕‧艋舺略圖》 用來了解三市街與台北城時期的水環境
     - 1904 堡圖
@@ -334,6 +334,9 @@ tags: 新生流域
     - https://gn.moi.gov.tw/GeoNames/geoNameSearch
 - 臺北市地名與路街沿革史
     - https://tm.ncl.edu.tw/article?u=022_003_00002940&lang=chn
+- 臺北市管線線上地圖 / 3D 版
+    - https://dig.taipei/Tpdig/Public/pipe3.html
+    - https://3dgis.reac.taipei/sgwptools/reac/Apps/pipe.html
 
 ---
 
