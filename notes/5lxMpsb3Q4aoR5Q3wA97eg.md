@@ -1,7 +1,7 @@
 <h1>Réflexions sur avis Casinoly et casinos en ligne</h1>
 <img src="https://img.freepik.com/free-photo/three-dimensional-casino-item_23-2151067284.jpg?semt=ais_hybrid">
 
-<p>Vous cherchez un casino en ligne fiable et attrayant ? Nous avons mis la main à la pâte pour vous fournir une critique complète de Casinoly. Plongeons dans les détails pour voir si ce casino, avec son thème inspiré de l'Antiquité romaine, mérite vraiment votre attention. Nous allons décomposer toutes les caractéristiques, les bonus, et les mesures de sécurité de Casinoly pour vous donner une vue claire et honnête.</p>
+<p>Vous cherchez un casino en ligne fiable et attrayant ? Nous avons mis la main à la pâte pour vous fournir une critique complète de <a href="https://casinoly1.net/" target="_blank">Casinoly</a>. Plongeons dans les détails pour voir si ce casino, avec son thème inspiré de l'Antiquité romaine, mérite vraiment votre attention. Nous allons décomposer toutes les caractéristiques, les bonus, et les mesures de sécurité de Casinoly pour vous donner une vue claire et honnête.</p>
 
 <h2>Informations sur la licence et la réglementation</h2>
 <p>Une des premières choses à examiner avant de choisir un casino en ligne est sa licence et sa réglementation. Pour Casinoly, nous avons observé les informations suivantes :</p>
