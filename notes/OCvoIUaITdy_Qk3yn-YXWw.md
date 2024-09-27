@@ -5,6 +5,11 @@ Phone: 0988585679
 Địa chỉ: 528 Đ. Nguyễn Kiệm, Phường 4, Phú Nhuận, Hồ Chí Minh, Việt Nam
 Email: contact@trangnew88.com
 #New88 #nhacainew88 #linknew88 #trangchunew88
+https://www.facebook.com/trangnew88/
+https://x.com/trangnew88
+https://www.youtube.com/@trangnew88
+https://www.pinterest.com/trangnew88/
+https://www.balatarin.com/users/trangnew881
 https://sorucevap.sihirlielma.com/user/trangnew88w
 https://blacksocially.com/trangnew88
 https://skiomusic.com/trangnew88
