@@ -1,4 +1,4 @@
-Tham gia Yo88, người chơi sẽ được trải nghiệm thế giới game bài đổi thưởng đỉnh cao với các trò chơi bài kinh điển. Yo88 còn nổi bật với tính năng đổi thưởng nhanh chóng, bảo mật tuyệt đối và nhiều chương trình khuyến mãi hấp dẫn dành cho mọi đối tượng người chơi.
+Tham gia[ Yo88](https://), người chơi sẽ được trải nghiệm thế giới game bài đổi thưởng đỉnh cao với các trò chơi bài kinh điển. Yo88 còn nổi bật với tính năng đổi thưởng nhanh chóng, bảo mật tuyệt đối và nhiều chương trình khuyến mãi hấp dẫn dành cho mọi đối tượng người chơi.
 Thông tin liên hệ: 
 Website: https://yo88.casa/
 Email: yo88casa@gmail.com

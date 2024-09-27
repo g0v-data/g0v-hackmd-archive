@@ -4,6 +4,10 @@
 :::warning
 目錄
 [TOC]
+Note10 Lite
+新北 $3400 https://www.ruten.com.tw/item/show?22421592002852
+大里 $3300 台中市大里區中興路2段和東榮路口,85度C門口面交.0930-873-666
+https://www.ruten.com.tw/item/show?22437632235009
 :::
 必勝客
 https://www.pizzahut.com.tw/order/?fm=cp&mode=step_2&type_id=1025&cno=14107&fm=obn
@@ -18,8 +22,7 @@ https://catyc.pixnet.net/blog/post/63581416-%E5%8F%B0%E7%81%A3%E5%B0%8F%E7%99%BE
 Easy Note Origami 便條摺學
 https://www.youtube.com/@EasyNoteOrigami/videos
 
-《１００次逃脫》
-https://www.i-gamer.net/play/21299.html
+
 Google 遊戲
 https://web.jsps.kh.edu.tw/googlegame/
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0ee72ad82c31f2befbc519c9493b9761.png)
