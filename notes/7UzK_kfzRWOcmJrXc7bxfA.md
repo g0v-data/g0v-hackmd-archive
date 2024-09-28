@@ -7,7 +7,7 @@ tags: cofacts
 :::info
 - g0v slack channel：#cofacts
 - [Proposal slides](https://docs.google.com/presentation/d/1HuEinyZqkE5WF0HuVFXznfaeMyLzN24ixAwUNxhIkqA/edit#slide=id.g28caf866bb2_1_0)
-- 坑主：MrOrz (Johnson), nonumpa
+- 坑主：MrOrz (Johnson)
 :::
 
 ## Cofacts 真的假的
@@ -54,30 +54,22 @@ https://cofacts.g0v.tw/hoax-for-you
 請見：
 
 - LINE bot (NodeJS, Svelte (LIFF)): https://github.com/cofacts/rumors-line-bot/labels/good%20first%20issue
-- Community builder (React) https://github.com/cofacts/community-builder/labels/Good%20first%20issue
 - Website (NextJS, ReactJS) https://github.com/cofacts/rumors-site/labels/good%20first%20issue
 
 :::info
 詳見 [**開發者入口**](https://beta.hackfoldr.org/1yXwRJwFNFHNJibKENnLCAV5xB8jnUvEwY_oUq-KcETU/https%253A%252F%252Fhackmd.io%252Fs%252Fr1nfwTrgM)。
 :::
 
-💼 **坑**：[改善 Whisper 逐字稿 hallucination 問題](https://github.com/cofacts/rumors-api/issues/322)
-🙏 **徵求**：使用NodeJS、知道 Voice activity detection 現成 solution 的人
-
-💼 **坑**：[整理現有議題分類訓練檔](https://github.com/cofacts/ground-truth/issues/1)
-🙏 **徵求**：熟悉 multi-label classification、GCP Vertex AI 的人
-
 ## Open165
 
 讓 165 反詐騙資訊出現在 Google 搜尋結果最上面！
-目前網域為 https://open165.pages.dev/
-預計申請 https://open165.g0v.tw/ or https://165.g0v.tw/
+目前成果：https://165.g0v.tw/
 
 專案共筆：https://g0v.hackmd.io/xl7YbrcTRECluGKK_HGo6Q
 
 
 💼 **今日任務**：讓 Open165 更有用、更好看
-🙏 **徵求**：UI / UX designer
+🙏 **徵求**：UI / UX designer、被詐騙過的人、防詐經驗者
 
 發想還能有什麼資訊，例：
 - 立刻 165 / 報警 的政宣（找好懂的那種）
@@ -88,44 +80,12 @@ https://cofacts.g0v.tw/hoax-for-you
 
 🙏 **徵求**：React.JS / Next.JS developer
 
-實作上述功能，or 實作：
-- 把通報紀錄與 165 公告連結（可能需砍 165 API?）
-- 截圖 ([Cloudflare Browser Rendering](https://developers.cloudflare.com/browser-rendering/) --> [Cloudflare image]())
-- 自動化 lighthouse metrics 等檢查
+實作上述功能
 
-
-💼 **今日任務**：把網站推上 Google 首頁！
-🙏 **徵求**：SEO 經驗者
 
 ## 協作
 
 
-
-### Cofacts
-
-Robin 德文翻譯
-Karen
-murmur
-Lin
-ziqunlai
-Louis
-
-檸檬.楓葉.
-墨弥
-墨弭
-(姆咪姆咪心動動)
-
-
----
-
-Github pull request
-- https://github.com/cofacts/rumors-site/pull/571 [name=jiru++]
-- https://github.com/cofacts/rumors-site/pull/572 [name=mojoee++]
-
-### Open 165
-
-- 申請了網域 https://165.g0v.tw/
-- Landing page https://github.com/cofacts/open165/commits?author=kevyourdev [name=kevyourdev++]
 
 #### DDoS story
 https://g0v.hackmd.io/EjQAz1rERUKWfTy1M-cynA#20240514-20240519-DDoS-%E6%94%BB%E6%93%8A
