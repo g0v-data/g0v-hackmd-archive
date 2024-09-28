@@ -276,6 +276,9 @@ tags: 新生流域
 - 馬德里 https://www.facebook.com/share/d6JyKTrjQkg8oSev/?mibextid=WC7FNe
 - 維也納 截斷的閘道口 形成的公園https://www.facebook.com/share/p/gvDDrnYmaj8mP7MU/
 - 香港啟德河旁的新開發建物 https://www.facebook.com/share/p/yjCDLXH3jNsxrHji/
+- 麥德林河，水岸旁快速道路隧道化 https://www.facebook.com/share/p/dzd7dTW3v4GxWvug/
+    - https://maps.app.goo.gl/sdqigWNjqREUVEGV6
+    - https://landscape.coac.net/parques-del-rio-medellin
 - 綠岸多階 https://www.facebook.com/share/4P8qXXwz5GgztqV6/
 - 輕軌與水景 https://www.facebook.com/share/r/ZemLzcZVzVCff8yh/
 - 輕軌與水景 https://www.facebook.com/share/r/oBtDv6wBgdAXerEf/
