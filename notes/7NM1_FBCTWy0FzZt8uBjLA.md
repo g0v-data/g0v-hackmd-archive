@@ -1,4 +1,4 @@
-#程式設計上課筆記
+# 程式設計上課筆記
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_be0f143ae0fd774251cad5f2da1d9e46.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fda0df327353fe2b86fe06d996b8b3b4.png)
@@ -162,7 +162,7 @@ int main()
 
 
 ----------
-# 九九乘法表
+## 九九乘法表
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_233fec56892a7a785623f89c949ba376.png)
 
 <pre>

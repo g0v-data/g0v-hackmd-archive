@@ -29,3 +29,16 @@ Scaffold-DbContext "Server=127.0.0.1;Database=Web;User ID=Web;Password=123456;" 
 builder.Services.AddDbContext<testContext>(options =>
 options.UseMySQL(builder.Configuration.GetConnectionString("testDatabase")));
 ```
+
+## 安裝PhpSpreadsheet
+1. 安裝composer安裝檔
+2. 將php.ini中的指令開啟
+```
+;extension=fileinfo
+;extension=gd
+;extension=zip
+```
+3. 在目錄下使用已下指令安裝
+```
+composer require phpoffice/phpspreadsheet
+```
