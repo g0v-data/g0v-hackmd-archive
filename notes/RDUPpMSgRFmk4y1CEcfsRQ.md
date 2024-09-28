@@ -23,3 +23,32 @@ int main()
 }
 </pre>
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6e4d8246be56d927745d9bf5600ef3e1.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b4705543adb642e1253003e67536d673.png)
+<pre>
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	int n,k;
+	while(cin>>n>>k)
+	{
+		int sum=n;
+		int left=n;
+		while(left>=k)//重複 
+		{
+			int newleft=left%k;
+			left=left/k;
+			sum=sum+left;
+			left=left+newleft;	
+		}
+		cout<<sum<<endl;
+		
+	}
+	
+	return 0;
+	
+}
+</pre>
