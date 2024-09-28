@@ -73,6 +73,8 @@ TODO
     - 專案工具-揪地霸：https://github.com/dz1984/9d8TW
     - 占用公有土地的露營區地點：https://g0v.hackmd.io/h7CTLUQsQbeELmMJG3fzGg?view
     - 傾倒廢土：https://www.twreporter.org/a/enterprise-wastes-black-market-satellite-images-find-abandoned-dirt-and-waste
+- 非法定公園綠地的公有空地，用於提供綠地空間 
+    - 新北市宣傳圖卡 https://www.facebook.com/share/p/7GyJt5Y4x8neWczw/
 - 養蚊兼滅蚊？公共工程的閒置與活化
     - https://ecopacc.tw/projects/11
 - 標售以外的選擇——德國概念出讓的兩大類型

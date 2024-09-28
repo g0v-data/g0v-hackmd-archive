@@ -26,8 +26,10 @@ tags: 拉人更輕鬆
 為了徵集更多參與者的心得，我們也希望可以做出方便社群成員投稿的**心得分享頁**
 > ronny 建議可以用 g0v hackmd 搭配特定 tag
 > 開放場域，由眾人共同監督
-> card view 類似這樣
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7e9e61fbafccc553853fa8c4b61f0496.png)
+
+https://github.com/g0v/landing-page/tree/community_insights
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cb52605da6bf4f779226824b8e3b656b.png)
+
 
 - [ ] 建立 hackmd 心得模板 -> 要看揪松帳號能不能建立
     - 目前模板：[這是一篇社群心得測試 - HackMD](https://g0v.hackmd.io/JVeeNYF3TN6_Jz9XXscbVA)
