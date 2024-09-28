@@ -251,7 +251,7 @@ https://www.facebook.com/share/p/cKfUkuXLe4d3abui/
 營建署表示，為督促各縣(市)政府積極改善市區道路及人行無障礙環境，將展開112年度全國市區道路養護與人行環境無障礙考評計畫。其中，為擴大民眾參與道路考評，首度推動「建議受評路段」的提報機制，即日起至112年3月20日止開放民眾填表提報，3月21至31日止將進行公開票選，各縣市最高票的前兩名，將會由考評小組進行實地勘查，同時也會輔導各地方政府優先改善民眾關切的路段，以達到落實市區道路環境改善的政策目標。
 
 人行道改造工程標案清單
-https://ronnywang.github.io/pcc-viewer/search.html?query=%E4%BA%BA%E8%A1%8C%E9%81%93
+https://openfunltd.github.io/pcc-viewer/search.html?query=%E4%BA%BA%E8%A1%8C%E9%81%93
 
 ### B. 詢問民間單位：資料是否願意釋出
 
@@ -260,7 +260,7 @@ https://www.facebook.com/story.php?story_fbid=pfbid02QQjoiG3ffu39GiJTtMjsm9himnk
 https://forms.gle/N7wtn5prC2NCySrLA
 >[name=joyce:其實後來有對外公開提供階段[調查報告](https://tncomu.tw/modules/tadnews/index.php?nsn=5056)，內有綠交通社團整理成地圖版本的資料。]
 
-### C. 評估能否產出批次熱點資料
+### C. 評估能否產出批次的道安危險熱點資料
 
 平安走路許願帳戶-行人庇護空間，由各地民眾拍照，並標記行人風險高低，資料採 cc0 授權無虞
 https://commutag.agawork.tw/dataset?id=63528cc34f042e88cc951433
@@ -280,7 +280,6 @@ https://www.facebook.com/story.php?story_fbid=pfbid02Jqb3jWLwz5RhkWUXrzdSRfpNwZn
 https://www.facebook.com/profile.php?id=100087872438973&mibextid=LQQJ4d
 https://www.facebook.com/share/Qsmip7mmVDMdKftD/?mibextid=WC7FNe
 
-
 新聞整理2022/11-2023/02行人事故整理包一覽
 https://tw.news.yahoo.com/%E8%A1%8C%E4%BA%BA%E5%9C%B0%E7%8D%84-%E6%B1%BD%E8%BB%8A-%E7%A6%AE%E8%AE%93-081034694.html
 
@@ -289,7 +288,6 @@ https://www.facebook.com/groups/twroadclub/permalink/2432209236958837/
 
 淡水
 https://www.facebook.com/story.php?story_fbid=pfbid02a98uUtA3KiWtHBvnrDZQW8DnHNJxFQEZ9PAAaFxAgqWozZxJekenT98mpdHLB1N6l&id=100063883987874&mibextid=qC1gEa
-
 
 新莊
 https://www.facebook.com/groups/twroadclub/permalink/2407835422729552/
@@ -330,53 +328,27 @@ https://www.facebook.com/story.php?story_fbid=pfbid02uK1JgiPijcc2pMzqqPz8n8m6rCR
 立法院周邊
 https://www.facebook.com/share/p/85Lq4B3ibxDPH1wS/
 
-南昌路寧波西街以北，因應捷運施工，改為單行道，且北側路口僅單線車道，應延續進行車道瘦身
-https://photos.app.goo.gl/45SYWZXbJgmQ2pFR9
-
 新生南路，處理：公車專用道，同向分隔島，箱涵，人行道水路(已有案例：臺大、北科大、桃園水秀)
 
-師大路
-https://www.facebook.com/story.php?story_fbid=pfbid06bsJufp2fbYweDeBtHUavU4jNR1eB3DEzvFPkpdrcBVRmX79LaoRDfMy2kNcKaEBl&id=100076181288036
-
-羅斯福路與師大路路口
-https://www.facebook.com/share/p/byWsysvhhGmD5eUi/
-
-台大校區無車化方案
-https://www.facebook.com/share/p/jSBZSRd54UnvwDhR/?mibextid=WC7FNe
-
-芳蘭路辛亥路口
-https://www.facebook.com/story.php?story_fbid=pfbid02Tt2j4RFS5Rm2A7oVSsqJcGvHbdqnwgqX62F8Tp5SKPJo34HaENDE3v27zopei29jl&id=100063643886931&mibextid=qC1gEa
-
-行政院「行人交通安全設施條例」草案，說明簡報，以臺北市文山區景興路興隆路一帶作為示範說明地區
-https://www.ey.gov.tw/Page/9277F759E41CCD91/da325d4d-bafa-40fb-8e9e-eb00c8ff268d
-
-指南路二段
-https://www.facebook.com/share/p/D9T6LAWnCUHnokKj/
-https://www.facebook.com/story.php?story_fbid=pfbid0Y8dvUSQvEgWaGocrVasN8Na9BPoHiUxEywoBowNVDzzkae89ayFbKhc1p8iTmJ7nl&id=100076181288036&mibextid=qC1gEa
 
 臺北市
 https://www.facebook.com/story.php?story_fbid=pfbid02Cv3vb5X2thkBcZkuVA1XJGrChsjZ4VfgHSF3ZrUxGv2QHn6QjECm7B7A89My5YFXl&id=100083351706758&mibextid=qC1gEa
 
-新北市淡水區中正東路35巷
-https://www.facebook.com/story.php?story_fbid=pfbid02r3T1mX9X42ZyYo5AUpPDGgjcZ4rpZ4iqZR2gQdGyM2FYiohqDjSjJwEMfGNKWoBcl&id=100091972310150&mibextid=qC1gEa
+
 
 汐止
 https://www.facebook.com/rexizhi/posts/pfbid0WMEGKvWCBbeD1dDA2QpWcyq5D7nxXWWnZjzj63ZUp4xYVFVy9n5XKJUTfmzCVivyl?locale=zh_TW
 
-新北市秀朗路一段與永和路路口，沒有行人穿越線
+
 
 中和 景平路
 https://www.facebook.com/share/p/QykA5Q8qhkRoqHR6/
 https://docs.google.com/forms/d/e/1FAIpQLSfYkLzzPquePO9WQeC1bNXoOUztPfaVAvs3H_j0MR7Y-lgDtA/viewform
 
-新北市新店區北新路中華路口
-https://www.facebook.com/share/p/oZ6i3Ae1So1Vd9FK/
 
 樹林
 https://www.facebook.com/share/p/2QHB42YiR2eKRsZK/
 
-鶯歌 國慶街
-https://www.facebook.com/share/p/2T94SDgSqLru6h71/
 
 鶯歌
 https://www.facebook.com/story.php?story_fbid=pfbid02zMBD4khZejvwrvR4FCrjCRamQG8xqid1nbFPVzhMKKn7EEJfsSJADKDRe2DrbaKxl&id=100049204915573
@@ -387,11 +359,6 @@ https://www.facebook.com/ntcecea/posts/pfbid02r5j1y8mf8Fgf1Fyhe3hgiAt19E7iXDknRM
 鶯歌
 https://www.facebook.com/100064994161787/posts/pfbid0d3PRURrdjfZCP9QFpA4hd2HMQ58hBX2feotHYn1sJk8fM1XRi4LNHsRfgkBFjUqEl/
 
-桃園 中華路二段延平路
-https://www.facebook.com/share/JSzyCHCHqVQQZLgf/
-
-桃園中華遠東路口
-https://www.facebook.com/share/iQSRsnpjJnBu5wn7/?mibextid=WC7FNe
 
 中壢
 https://www.facebook.com/100049204915573/posts/pfbid05UarMKSgK9kEQCAzzqosoJ5HkmDgc56GDCfdLePBdxPBjbDbk34MoBVHJiQ9nx5Kl/
@@ -491,8 +458,7 @@ https://www.facebook.com/share/p/tzbriGNaQ7dt7oQN/
 台中市進化北路人行道
 https://www.facebook.com/story.php?story_fbid=pfbid08UD9JSy1KWjoEesuobwQe41AmX83fzC8WkytjShL1CtGtoxCEVfYf3aprx4nzeBml&id=100063883987874&mibextid=qC1gEa
 
-台中市英才路學士路口
-https://www.facebook.com/story.php?story_fbid=pfbid0hrTtfB1UiVK7QNLCALR5RWJsKFowKR62xcA9tXTJpJyA17gRGFm39RYGjpemZKxMl&id=100044140104250&mibextid=qC1gEa
+
 
 台中大里區
 https://www.facebook.com/story.php?story_fbid=pfbid05n7TrcSQUczHzHxVVfTDwwPs1Sm9PD2p7cvA4TAD4YSFbe9G1N8xkYUom8FtYuHWl&id=100064984772380&mibextid=qC1gEa
