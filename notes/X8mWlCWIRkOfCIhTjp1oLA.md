@@ -1,9 +1,8 @@
 ---
 tags: GIS
-title: 道路標線改造案例地圖、熱點關注地圖
 ---
 
-# 道路標線改造案例地圖、熱點關注地圖
+# 道路標線改造案例、民間已提出方案地點地圖
 
 ## Map 地圖網址
 
@@ -828,3 +827,8 @@ https://www.facebook.com/TaiwanTrafficSafeAssociation/posts/pfbid0cCWCvPLmdDYqjw
 
 美國案例，設置突出的分隔道在十字路口，引導車輛左右轉路徑
 https://www.facebook.com/watch?v=1072196617300636
+
+好連街 - 連續型行人路徑繪製步驟 Continuous Pedestrian Pathway
+🌟 在街區內創造一條連續的行人路徑，且盡可能避免受到車道阻斷，避免車輛直通穿越。
+🌟 透過調整車輛行駛方向與轉向系統，藉此創造行人連續路徑，減少人車交錯路口數量，也可以用「洄游型行車路線」來描述車輛轉向特點。
+https://g0v.hackmd.io/ErnTx4HXSly3E0I9J0zOxQ
