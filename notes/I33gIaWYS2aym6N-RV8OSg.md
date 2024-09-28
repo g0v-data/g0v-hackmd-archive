@@ -1,0 +1,21 @@
+<p dir="ltr"><img src="https://scontent.fdad3-4.fna.fbcdn.net/v/t39.30808-6/461556270_2053801611701653_6730643828252575287_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=cc71e4&amp;_nc_ohc=Y_nldxHFuXEQ7kNvgH3u_ID&amp;_nc_ht=scontent.fdad3-4.fna&amp;oh=00_AYAmvbqO51rTN4OZeO6FqeJBr07K-iOkeRWnhZ6j5khHKw&amp;oe=66FE0F87" alt="" width="599" height="199" /></p>
+<p dir="ltr"><a href="https://gamebanca.pro/">bắn c&aacute; h5 đổi thưởng</a> với c&aacute;ch chơi rất dễ d&agrave;ng v&agrave; dễ hiểu. Bạn chỉ cần sử dụng khẩu s&uacute;ng c&aacute; để bắn những con c&aacute; v&agrave; t&iacute;ch lũy điểm số. Điểm đặc biệt của tr&ograve; chơi n&agrave;y l&agrave; hệ thống phần thưởng phong ph&uacute; v&agrave; hấp dẫn.</p>
+<p dir="ltr">#gamebanca #gamebancadoithuong #gamebancapro #bancah5doithuong #choibancadoithuong</p>
+<p dir="ltr"><strong>Th&ocirc;ng Tin Li&ecirc;n Hệ:</strong></p>
+<p dir="ltr"><strong>- Địa Chỉ</strong>: WPV9+XVJ, Đ. DA 7, Thuận Giao, Thuận An, B&igrave;nh Dương</p>
+<p dir="ltr"><strong>-( Map:</strong>&nbsp;<a href="https://www.google.com/maps?cid=13151092037507820774">https://www.google.com/maps?cid=13151092037507820774</a>&nbsp;)</p>
+<p dir="ltr"><strong>- Số Điện Thoại:</strong>&nbsp;0776620631</p>
+<p dir="ltr"><strong>- Email:</strong>&nbsp;<a href="mailto:gamebanca.pro@gmail.com">gamebanca.pro@gmail.com</a></p>
+<p dir="ltr"><strong>- Website</strong>:&nbsp;<a href="https://gamebanca.pro/">https://gamebanca.pro/</a></p>
+<p dir="ltr"><img src="https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/461589746_2053801571701657_52720793107384403_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=6ee11a&amp;_nc_ohc=NPtXfvM11CkQ7kNvgFF4qqH&amp;_nc_ht=scontent.fdad3-5.fna&amp;oh=00_AYAWTGafHzXWbEZ4MK1KOzxrI4o0ME1-riAbszSHCtPQKg&amp;oe=66FE0658" alt="" width="180" height="180" /></p>
+<p dir="ltr"><strong>Google Stacking</strong></p>
+<p dir="ltr">GG Site:&nbsp;<a href="https://sites.google.com/view/gamebancaproo/">https://sites.google.com/view/gamebancaproo/</a></p>
+<p dir="ltr">GG Drive:&nbsp;<a href="https://drive.google.com/drive/folders/1hGKbJF-Us0aIPcx5hQQ5eoqci49dBQxB?usp=sharing">https://drive.google.com/drive/folders/1hGKbJF-Us0aIPcx5hQQ5eoqci49dBQxB?usp=sharing</a></p>
+<p dir="ltr">GG Colab:&nbsp;<a href="https://colab.research.google.com/drive/1sfo54PcttKemC9-ov8H5CEdCdMfM3GhJ?usp=sharing">https://colab.research.google.com/drive/1sfo54PcttKemC9-ov8H5CEdCdMfM3GhJ?usp=sharing</a></p>
+<p dir="ltr">GG Form:&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLScoULUCOPz_jBVzlziGRnhimF0vdfI_KzE2h4lhDAdFadWVNw/viewform?usp=sf_link">https://docs.google.com/forms/d/e/1FAIpQLScoULUCOPz_jBVzlziGRnhimF0vdfI_KzE2h4lhDAdFadWVNw/viewform?usp=sf_link</a></p>
+<p dir="ltr">GG Doc:&nbsp;<a href="https://docs.google.com/document/d/1OXCYfkZj8_2agBiXuGzKfEI-iPzvNlw0TVozoUiL09A/edit?usp=sharing">https://docs.google.com/document/d/1OXCYfkZj8_2agBiXuGzKfEI-iPzvNlw0TVozoUiL09A/edit?usp=sharing</a></p>
+<p dir="ltr">GG Draw:&nbsp;<a href="https://docs.google.com/drawings/d/1_Oi2Kom50JQxIYYkp_vR5V4a0LtjXUjjWbfoK1_Viis/edit?usp=sharing">https://docs.google.com/drawings/d/1_Oi2Kom50JQxIYYkp_vR5V4a0LtjXUjjWbfoK1_Viis/edit?usp=sharing</a></p>
+<p dir="ltr">GG Slide:&nbsp;<a href="https://docs.google.com/presentation/d/1YqE_nazBO5B_BgSZ6FhLZ0pS8-Xp0WlBw0gYtHlOybc/edit?usp=sharing">https://docs.google.com/presentation/d/1YqE_nazBO5B_BgSZ6FhLZ0pS8-Xp0WlBw0gYtHlOybc/edit?usp=sharing</a></p>
+<p dir="ltr">GG Sheet:&nbsp;<a href="https://docs.google.com/spreadsheets/d/1r96xQ6eE5UbqaKXVJYmY2HQ9vdCgj2gpkXDVO6cyzM8/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1r96xQ6eE5UbqaKXVJYmY2HQ9vdCgj2gpkXDVO6cyzM8/edit?usp=sharing</a></p>
+<p dir="ltr">GG My Map:&nbsp;<a href="https://www.google.com/maps/d/edit?mid=1LTpp-vnf8ql66waH14ni9OCw0IZ5DdA&amp;usp=sharing">https://www.google.com/maps/d/edit?mid=1LTpp-vnf8ql66waH14ni9OCw0IZ5DdA&amp;usp=sharing</a></p>
+<p dir="ltr">GG Earth:&nbsp;<a href="https://earth.google.com/earth/d/1tp0hyN-8s6v3qVie97jUOkU6_FSei8vv?usp=sharing">https://earth.google.com/earth/d/1tp0hyN-8s6v3qVie97jUOkU6_FSei8vv?usp=sharing</a></p>
