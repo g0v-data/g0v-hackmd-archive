@@ -94,18 +94,38 @@ https://cofacts.g0v.tw/hoax-for-you
 https://g0v.hackmd.io/EjQAz1rERUKWfTy1M-cynA#20240514-20240519-DDoS-%E6%94%BB%E6%93%8A
 
 #### Landing page
+
+:::info
+Figma: https://www.figma.com/design/Fqcv6KODgXFWyyjj1Ru9er/Open165?node-id=0-1&t=WIYiE5vE0D9HXq56-1
+:::
+
 Targeted audiance and Key Flows
 1. 接觸詐騙，可能被詐騙的人
     - 讓他們搜尋得到詐騙者的基本資料與 165 案例
 2. 已經被詐騙，可能被二次詐騙的人
     - 讓他們搜尋的到詐騙者基本資料而且學習到詐騙基本知識，例如：任何跟你說可以追回的人都不可以相信
 
-Content
-1. 最新詐騙前五、搜尋這是詐騙嗎
-    - 詐騙名稱、網站名稱、網址、受害人數、最近成案時間
-    - 類似資料：相同網域的詐騙、相同內容的詐騙
-2. TBD: 最新詐騙手法
-3. TBD: 可以增加可信度的內容，例如資料來源，合作單位
+Landing Page Content
+1. 最新詐騙前五
+    - 詐騙名稱、URL、受害人數、最近成案時間
+2. 搜尋
+3. TBD: 最新詐騙故事，例如：打工詐騙
+4. TBD: 可以增加可信度的內容，例如資料來源，合作單位 來源 165
+
+詐騙基本頁
+1. 詐騙名稱
+2. 通報件數
+3. 可能相關的通報件數
+4. URLs可filter
+    - 相關案件
+5. 165 案件
+6. FAQ 被騙了怎麼辦
+
+搜尋結果頁
+1. 直接搜集結果
+2. 類似網頁
+    - 相同網域的詐騙名稱
+    - 相同內容的詐騙名稱
 
 
 
