@@ -149,3 +149,5 @@ https://www.welivesecurity.com/en/eset-research/who-killed-mozi-finally-putting-
 https://ieeexplore.ieee.org/document/9214099
 物聯網IoT的安全威脅防範與案例分析
 https://www.itc.ntnu.edu.tw/wp-content/uploads/2019/07/security-1080821.pdf
+A lightweight deep learning framework for botnet detecting at the IoT edge
+https://www.sciencedirect.com/science/article/pii/S0167404823001050

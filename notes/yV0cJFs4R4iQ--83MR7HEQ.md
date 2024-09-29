@@ -53,9 +53,11 @@ https://lin.ee/1QUzEX4nI
 - [ ] 觀察現有 article 的 reply request count
 
 ##### ⛔️ Release Blockers
-- 這組好像還是壞的 https://dev.cofacts.tw/article/oP_g_-AB4DHgA-D_4E_gD-AP6FfoV-AH4AfgV-ip4J8
-  - 應有 https://dev.cofacts.tw/article/6RHNHpIBUOXjqM1ABRPZ ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a1c924787dd6b4e5c5c483c5773ff081.png =x400)
+- 這組好像還是壞的 https://dev.cofacts.tw/article/0RG7-pEBUOXjqM1AKBOd
+  - 多了雲之聲，少了二手菸
+  - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_76ca4bb5c891c82acae9349c33b4e12e.png =x400)
 - https://dev.cofacts.tw/article/7BHNHpIBUOXjqM1ADxMn
+  - 應有 https://dev.cofacts.tw/article/6RHNHpIBUOXjqM1ABRPZ
   - 有 group 但「雲之聲」也是錯的 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_32733fc98031808a4da3739108196c96.JPG =x400)
 - https://dev.cofacts.tw/article/8xHSHpIBUOXjqM1AvRND
   - 一樣有 group 但「雲之聲」是錯的 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0f8656a69e6164ee1ef7f980eb7cfa4a.png =x400)
