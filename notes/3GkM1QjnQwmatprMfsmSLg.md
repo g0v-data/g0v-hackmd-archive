@@ -54,7 +54,7 @@ https://www.figma.com/design/wij5K5OZtDm6q82roiuNDT/%E7%B5%A6%E8%A1%8C%E5%8B%95%
 - g0v Slack #designer
 - 坑主：Tofus
 
-## 筆記
+## 有關 Figma 教學文件的筆記
 
 - Chloe:感覺聽起來也兩組假設與可能解法
     1. 已經有概念的設計師想要學 Figma
@@ -66,6 +66,11 @@ https://www.figma.com/design/wij5K5OZtDm6q82roiuNDT/%E7%B5%A6%E8%A1%8C%E5%8B%95%
             - mrorz 需要 UIUX: 了解網站不容易理解以及不夠讓使用者感到可信，推測Figma 教學文件有幫助
             - 水保署與農科院需要 UIUX: 想了解如何優化網站，可能更需要 UX consulting 釐清需求拆解問題，推測 Figma 教學文件無法立即推進專案
 
+## 有關 Canva 的筆記
+訪問了 
+
+
+## 其他筆記
 - Jeter
     - 原本是代工廠修設備的（電機跳電子跳資訊）
     - 不曉得今天這個社群在幹麻
