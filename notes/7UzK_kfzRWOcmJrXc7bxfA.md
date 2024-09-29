@@ -80,6 +80,9 @@ https://cofacts.g0v.tw/hoax-for-you
 
 🙏 **徵求**：React.JS / Next.JS developer
 
+- 網站：https://github.com/open165/site
+- Worker：https://github.com/open165/worker
+
 實作上述功能
 
 
