@@ -4,6 +4,7 @@ Thương hiệu nhà cái: Ko66
 Website: https://ko66.coupons/ 
 Địa chỉ: 7 Ngách 59, Ngọc Hồ, Ba Đình, Hà Nội
 SĐT: 0973228223
+Email: ko66coupons@gmail.com
 Hastag: #cacuocko66 #ko66 #ko66coupons 
 https://www.facebook.com/ko66coupons/
 https://x.com/ko66coupons

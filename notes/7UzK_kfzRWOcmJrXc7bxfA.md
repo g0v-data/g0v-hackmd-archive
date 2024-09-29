@@ -88,8 +88,6 @@ https://cofacts.g0v.tw/hoax-for-you
 
 ## 協作
 
-
-
 #### DDoS story
 https://g0v.hackmd.io/EjQAz1rERUKWfTy1M-cynA#20240514-20240519-DDoS-%E6%94%BB%E6%93%8A
 
@@ -128,8 +126,15 @@ Landing Page Content
     - 相同內容的詐騙名稱
 
 
+## 今日成果
+
+### Cofacts
+- Weber, Sam, 得輝
+- 
 
 
-
+### Open165
+- Chloe, Sylvia, Tofus++
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_19427e2bc13e96d00dd4885444d32ff8.png)
 
 

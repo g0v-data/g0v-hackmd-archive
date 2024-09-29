@@ -28,7 +28,7 @@ tags: 拉人更輕鬆
 > 開放場域，由眾人共同監督
 
 https://github.com/g0v/landing-page/tree/community_insights
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cb52605da6bf4f779226824b8e3b656b.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4cf5c3c118fe8f4833cd1e2dc64ce720.png)
 
 
 - [ ] 建立 hackmd 心得模板 -> 要看揪松帳號能不能建立
