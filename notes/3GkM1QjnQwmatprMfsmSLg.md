@@ -43,5 +43,16 @@ https://www.figma.com/design/wij5K5OZtDm6q82roiuNDT/%E7%B5%A6%E8%A1%8C%E5%8B%95%
 
 所以如果可以建置一個給 g0v 專案提案使用的網站模板，有沒有可能可以更好地幫助大家分享自己的專案（而且自己的專案有一個網站很酷）
 
-後來我就開始在研究要怎麼把模板貢獻到模板商店裡面，但後來發現對於 Canva 來說，只有設計的 Professional 才有資格貢獻
+後來我就開始在研究要怎麼把模板貢獻到模板商店裡面，但後來發現對於 Canva 來說，只有設計的 Professional 才有資格貢獻，所以就手刀刷了下去，來看看可以幫大家做出什麼樣的模板然後上架到 Canva 上
+
+## 需要的人類！
+- 會用 figma 的人
+- 想學 figma 的人
+- 會用 canva 的人
+
+## 聯絡方式
+- g0v Slack #designer
+- 坑主：Tofus
+
+
 
