@@ -54,5 +54,20 @@ https://www.figma.com/design/wij5K5OZtDm6q82roiuNDT/%E7%B5%A6%E8%A1%8C%E5%8B%95%
 - g0v Slack #designer
 - 坑主：Tofus
 
+## 筆記
 
+- Chloe
+    - 感覺聽起來也兩個問題（Chloe）
+        - 已經有概念的設計師想要學 Figma
+        - 沒有設計需求的坑如何表達需求給設計師聽
+- Jeter
+    - 原本是代工廠修設備的（電機跳電子跳資訊）
+    - 不曉得今天這個社群在幹麻
+        - 社群演算法推到所以就過來了
+        - 雖然是工程師，但不想要生活只有 code
+            - 希望有其他東西可以讓人生想做的事情跟工作做結合
+            - work-life balance
+            - 跳出工作框架
+            - 不可能人生這一條路只有工作
+            - 眼睛盯太久 code 眼睛會痛
 

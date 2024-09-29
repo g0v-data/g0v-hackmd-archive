@@ -93,5 +93,21 @@ https://cofacts.g0v.tw/hoax-for-you
 #### DDoS story
 https://g0v.hackmd.io/EjQAz1rERUKWfTy1M-cynA#20240514-20240519-DDoS-%E6%94%BB%E6%93%8A
 
+#### Landing page
+Targeted audiance and Key Flows
+1. 接觸詐騙，可能被詐騙的人
+    - 讓他們搜尋得到詐騙者的基本資料與 165 案例
+3. 已經被詐騙，可能被二次詐騙的人
+    - 讓他們搜尋的到詐騙者基本資料而且學習到詐騙基本知識，例如：任何跟你說可以追回的人都不可以相信
+
+Content
+1. 最新詐騙前五，受害人數、最近成案時間
+2. 最新詐騙手法
+3. 待訂：可以增加可信度的內容，例如資料來源，合作單位
+
+
+
+
+
 
 
