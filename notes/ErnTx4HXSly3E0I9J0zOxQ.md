@@ -589,6 +589,12 @@ https://photos.app.goo.gl/BAumLMXn12wD9qmp9
 建築日照分析可以用
 https://3dmaps.nlsc.gov.tw/
 
+## 其他探討方法
+
+https://visual.ly/community/Infographics/environment/walkable-mixed-use-neighborhood
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2d87be3259f2bec376bf7adce597a557.png)
+
 
 ## 特定街區
 

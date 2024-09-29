@@ -22,7 +22,7 @@ int main()
 	return 0;
 }
 </pre>
-
+---------
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6e4d8246be56d927745d9bf5600ef3e1.png)
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b4705543adb642e1253003e67536d673.png)
@@ -52,7 +52,7 @@ int main()
 	
 }
 </pre>
-
+------
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e5c279806b5790ef9766005b7c6be521.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_040eeab1f55b47e9deb0fadbb7d4762d.png)
 ## 不能用while(t--) ?
@@ -93,5 +93,6 @@ int main() {
 }
 
 </pre>
-
 -------
+
+
