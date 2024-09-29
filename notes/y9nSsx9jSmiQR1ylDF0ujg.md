@@ -29,6 +29,7 @@ tags: 新生流域, GIS
 - 菸蒂 https://g0v.hackmd.io/7snMaEoZSQqkxOaIYJPpTg
 - 一定尺寸以上垃圾
     - 垃圾影響抽水機正常運作，大量條狀及軟質雜物(如垃圾袋、麻布袋、鐵線、帆布等)則穿越攔污柵進入抽水井，造成抽水機故障無法進行抽排作業 https://www.facebook.com/share/p/arXTXf2AiATwRgCB/
+- 輪胎碎屑? https://www.facebook.com/share/p/zoMYBrujoZ69j28b/
 - 汽油
 - 機油
 - 機械用油

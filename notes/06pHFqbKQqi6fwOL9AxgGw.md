@@ -94,7 +94,9 @@ https://g0v.hackmd.io/R_BhZDNNQ-C8CAoTJ58ZSg
 - [從「台北女子圖鑑」談居住經驗](https://www.facebook.com/story.php?story_fbid=pfbid02WmrLkJy1w9J2ScUaghpHmrAL415QZb5onkjWRiPa2snRfQd9UPpRYtYtBmfXSHRml&id=100001223320648)
 - 身障者租屋困難 
     - https://www.facebook.com/story.php?story_fbid=pfbid0YrTX8JEzNSEsi4u4nMZusNi6D8Vaww8bvbesRDv999qvKbLP1JUikG4nFUZFg59xl&id=1252342995&mibextid=qC1gEa
+- 房租與自殺率
     - https://www.facebook.com/share/p/Cnnr4CGd3rzdbTJP/
+    - https://www.facebook.com/share/p/vpXmR4jJ1vRwtzry/
 
 倡議方式案例
 - 紐約民間團體針對租屋，發起的資料專案（該地點的歷史租金）、租客權益工具，[相關網址](https://www.facebook.com/story.php?story_fbid=pfbid0cJ9dT2CLNU2x2dhDfsdgp7spPPFvwJmHEHbrvEmnWDJCFFagaHw6pB7heut2fdgPl&id=1509819323)
