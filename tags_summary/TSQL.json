@@ -1,1 +1,1 @@
-{"gWy29NvQT6CSf0QzfxT1tA":{"content":"\n\n","tags":[["# Trigger(補)",""],["###### tags","`TSQL`"],["-",""]]}}
+{"gWy29NvQT6CSf0QzfxT1tA":{"content":"\n\n","tags":[["trigger簡單來講就是當你遇到某些狀況時你所採取的動作觸發器，而有些情況會讓你開後門給他，也就是所謂的例外，在這種情況我們會停用trigger來達到我們的目的。",""],["```sql=",""],["disable trigger TriggerName on TableName",""],["```",""],["如果你要把在那個table裡的trigger全部關閉",""],["```sql=",""],["disable trigger all on TableName",""],["```",""],["如果要重啟就把disable 換成 enable就好了",""],["",""],["instead of",""],["-",""]]}}

@@ -19,7 +19,7 @@
 
 但大語言模型的好處就是，大語言模型可以幫我們從茫茫的資訊大海中取用我們所需要的資訊。沒有人會讀無聊的靜態文本，但大語言模型可以幫我們讀。這個時候我就想到了 GPTs，作為大家最常使用的 AI 服務之一，建立一個了解這間店的各種公開資訊的聊天機器人對我們來說是一個機會
 
-所以就一如往常地建了一個 GPTs，就跟我上次期末考時用自建的 GPTs 「豆腐的總經小老師」去消化龐大的上課材料一樣，我把一些脈絡指令還有一頁頁菜單的 pdf 檔放了上去
+所以就一如往常地建了一個 GPTs，就跟我上次期末考時用自建的 GPTs 「豆腐的總經小老師」去消化龐大的上課材料一樣，我把一些脈絡指令還有一頁頁菜單的 pdf 檔放了上去 https://chatgpt.com/g/g-M1f9GofsP-cozy-cowork-cafe
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_25f9fd6dfaa125d12049504fc194011a.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_61d729a565d41ea927b0c1121ac1ba54.png)
