@@ -54,10 +54,20 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
 - Early Dec: Program schedule & room assignment
 
 ### Session Format
+
 - 60-min in-person dialogue
     - Everyone must be on-site
+- Introduce FtO (10 min)
+- 3 x 10min presentations
+    - Information accessibility / integrity
+    - Gender issue related projects
+    - Student collaboration
+- Panel (10 min) - predefined questions
+    - how to continue FtO / future of FtO
+- Q&A (10 min)
 
 ### Suggestions
+
 - Civil society
 - More a gathering, workshop, less presentation, conference
 - More co-learning
@@ -66,8 +76,27 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
     - spend much time with each other so now we can talk about serious topics
     - infrastructure
         - student exchanges
+    - Highlight FtO projects
 
-## Proposal
+### Next steps
+- Make collaborative google slide @eunsoo
+- Update session description by 11th @chihao
+- Confirm speakers
+    - Nao @chihao
+    - Klou (Confirmed!)
+
+
+## Updated Proposal
+
+### Title: 5 Years Facing the Ocean: Advancing Information, Gender, Youth Rights in East Asia
+
+### Description
+
+Since 2019, participants and members of civic hacking communities in Japan (Code for Japan), Korea (Code for Korea), and Taiwan (g0v.tw)  have been organizing the Facing the Ocean regional network. Three presenters will share the inception of the network, its organizational scheme, as well as key moments and projects using tech and collaboration to address communinal, national, and regional issues.
+
+
+
+## Original Proposal
 
 ### Title: 5 Years Facing the Ocean: Connecting Information Accessibility and Integrity Efforts in East Asia
 
