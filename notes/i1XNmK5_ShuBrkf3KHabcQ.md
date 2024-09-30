@@ -15,12 +15,6 @@ GA: UA-98468513-3
 
 ## :potable_water: Release pipeline
 
-### :star: Released to production
-
-#### :electric_plug: API
-#### :globe_with_meridians: Site
-#### :robot_face: rumors-line-bot
-
 ### :rocket: Staging
 
 #### :electric_plug: API
@@ -125,7 +119,17 @@ http://dev.cofacts.tw/
 
 ### :eye: Under review
 
-## 大松檢討
+## 大松
+
+> https://g0v.hackmd.io/7UzK_kfzRWOcmJrXc7bxfA
+> 
+
+
+
+## Open165
+
+- MIT --> AGPL https://github.com/Open165/site/pull/32
+    - 但 AGPL 好像不只是換個 LICENSE 就好？
 
 ## 小聚籌備
 

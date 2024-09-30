@@ -131,6 +131,7 @@ Landing Page Content
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d0dba2ce44b51a2ce69f768964bf8694.png)
 
+- Alex 檢視 Cloudflare 防火牆規則
 - murmur
 - Sam https://github.com/cofacts/rumors-site/issues/576#issuecomment-2381249260 , Weber, 得輝
 
