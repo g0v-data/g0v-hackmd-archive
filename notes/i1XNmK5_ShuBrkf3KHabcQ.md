@@ -8,8 +8,8 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- Workis 出席：
-- 線上出席：
+- Workis 出席：bil, orz, nonumpa
+- 線上出席：conrad, T
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -32,21 +32,21 @@ http://dev.cofacts.tw/
 
 需注意未登入時，不應有任何有助於 SEO 的資訊露出（包含 tab title）
 
-- [ ] Normal article detail https://dev.cofacts.tw/article/8xHSHpIBUOXjqM1AvRND
-- [ ] Blocked article detail https://dev.cofacts.tw/article/zzovo5rubgqw
-- [ ] Normal reply detail https://dev.cofacts.tw/reply/2F59iG8Bd3n3h-WYX0Kq
-- [ ] Deleted reply detail https://dev.cofacts.tw/reply/2V5yiG8Bd3n3h-WYd0Ex
-- [ ] Blocked reply detail https://dev.cofacts.tw/reply/lZYVx44BQ_PNHtDOjI7W
+- [x] Normal article detail https://dev.cofacts.tw/article/8xHSHpIBUOXjqM1AvRND
+- [x] Blocked article detail https://dev.cofacts.tw/article/zzovo5rubgqw
+- [x] Normal reply detail https://dev.cofacts.tw/reply/2F59iG8Bd3n3h-WYX0Kq
+- [x] Deleted reply detail https://dev.cofacts.tw/reply/2V5yiG8Bd3n3h-WYd0Ex
+- [x] Blocked reply detail https://dev.cofacts.tw/reply/lZYVx44BQ_PNHtDOjI7W
 
 
 登入自有帳號後檢測：
 需注意登入後，所有功能均應正常，包含 comment, upvote downvote 等；blocked reply 除外。
 
-- [ ] Normal article detail https://dev.cofacts.tw/article/8xHSHpIBUOXjqM1AvRND
-- [ ] Blocked article detail https://dev.cofacts.tw/article/zzovo5rubgqw
-- [ ] Normal reply detail https://dev.cofacts.tw/reply/2F59iG8Bd3n3h-WYX0Kq
-- [ ] Deleted reply detail https://dev.cofacts.tw/reply/2V5yiG8Bd3n3h-WYd0Ex
-- [ ] Blocked reply detail https://dev.cofacts.tw/reply/lZYVx44BQ_PNHtDOjI7W
+- [x] Normal article detail https://dev.cofacts.tw/article/8xHSHpIBUOXjqM1AvRND
+- [x] Blocked article detail https://dev.cofacts.tw/article/zzovo5rubgqw
+- [x] Normal reply detail https://dev.cofacts.tw/reply/2F59iG8Bd3n3h-WYX0Kq
+- [x] Deleted reply detail https://dev.cofacts.tw/reply/2V5yiG8Bd3n3h-WYd0Ex
+- [x] Blocked reply detail https://dev.cofacts.tw/reply/lZYVx44BQ_PNHtDOjI7W
 
 ##### ⛔️ Release Blockers
 
@@ -80,6 +80,12 @@ Note: LINE bot cooccurrence 的部分還沒有空看，下週吧 QQ
     - 看起來是 [Domain Administrator](https://developers.cloudflare.com/fundamentals/setup/manage-members/roles/#domain-scoped-roles) ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_012b25bf13a581c3f6788bfe185aaed1.png)
     - Or try creating [new policies](https://developers.cloudflare.com/fundamentals/setup/manage-members/policies/#manage-policies)
 
+:::success
+Granted Domain Administrator
+- Speicifc to cofacts.tw
+- Cloudflare has audit log
+:::
+
 ### Open165
 
 > Wireframe https://www.figma.com/design/Fqcv6KODgXFWyyjj1Ru9er/Open165?node-id=108-544&node-type=frame&t=dhEDExdkAw990yLa-0
@@ -88,12 +94,17 @@ Note: LINE bot cooccurrence 的部分還沒有空看，下週吧 QQ
 - 目前沒有 landing page
 - Detail page 有資訊但沒有說服力
 
+:::success
+- Follow-up：看不懂的地方在 figma 發問，應該可以 tag 得到人
+:::
+
 #### License change
 
 > 這部分沒在大松討論
 
 - MIT --> AGPL https://github.com/Open165/site/pull/32
     - 但 AGPL 好像不只是換個 LICENSE 就好？
+- PR --> 放 comment, Copyright owner = Cofacts
 
 ## 小聚籌備
 
@@ -121,5 +132,12 @@ Note: LINE bot cooccurrence 的部分還沒有空看，下週吧 QQ
 - [ ] 記得帶：貼紙、環保杯
 - [ ] LINE 文案：
 - [ ] VOOM 發文
+- [ ] FB 發文
+
+## 十月開會
+
+- 10/14 取消
+- 10/21 線上開會，同一時間
+
 
 

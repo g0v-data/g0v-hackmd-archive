@@ -155,3 +155,5 @@ Benefits of Internet of Things (IoT) Applications in Health care - An Overview
 https://ieeexplore.ieee.org/abstract/document/10141452
 Understanding the Mirai Botnet
 https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf
+A survey: contribution of ML & DL to the detection & prevention of botnet attacks
+https://link.springer.com/article/10.1007/s40860-024-00226-y

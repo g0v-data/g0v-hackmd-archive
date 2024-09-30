@@ -167,3 +167,47 @@ int main()
 </pre>
 
 -------
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e23fed8537a87dba115449706274cee3.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b3b64843abd6089f9a0efca5edfddfb1.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1db8d38781c44e0b73076c0e25be4281.png)
+<pre>
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	
+	int a,b;
+	while(cin>>a>>b)//不限test case 都長這樣 
+	{
+	int A = min(a,b);
+	int B = max(a,b);//確認大小 
+
+	
+	int maxcasenum=0;
+	for(int i=A; A<=i&&i<=B ;i++)//中間值 
+	{
+		int casenum=1;
+		int n=i;
+		while(n!=1&& 0 < n&&n < 1000000)
+		{
+			if(n%2==1)
+			{
+			
+				n=3*n+1;
+				casenum++;
+			}
+			else
+			{
+				n=n/2;
+				casenum++;
+			}
+		}
+		if(casenum>=maxcasenum)//把最大的抽出來 
+			maxcasenum=casenum;
+	}
+	cout<<a<<" "<<b<<" "<<maxcasenum<<endl;
+	}
+	return 0;
+}
+</pre>
