@@ -11,7 +11,7 @@ tags: GHC
 2.買不起？
 3.不知道不知道什麼？
 
-## hakath63n 提案影片：
+## hackath63n 提案影片：
 https://www.youtube.com/watch?v=Co6uJdnX1Jg
 
 
