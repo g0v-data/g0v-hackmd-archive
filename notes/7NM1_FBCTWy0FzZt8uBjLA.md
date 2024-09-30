@@ -253,3 +253,8 @@ int main()
 	cout<<m<<endl;
 	
 	
+------
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cbead23b5ebae8fa39d5d7c734a90163.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d527e7a849e9f5355967b04f8d7d8a82.png)
+question:
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_02bf17faff2dca142f1886e34732dc0e.png)

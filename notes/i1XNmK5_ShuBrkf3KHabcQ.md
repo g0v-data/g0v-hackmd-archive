@@ -55,6 +55,8 @@ http://dev.cofacts.tw/
 
 ### :eye: Under review
 
+Note: LINE bot cooccurrence 的部分還沒有空看，下週吧 QQ
+
 ## 大松
 
 > https://g0v.hackmd.io/7UzK_kfzRWOcmJrXc7bxfA
@@ -75,12 +77,20 @@ http://dev.cofacts.tw/
 
 - [Alex](https://www.linkedin.com/in/alexanderselikoff/)++
 - Alex 希望有 Zone Level `http_request_firewall_custom` 的權限
-- 看起來是指 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_012b25bf13a581c3f6788bfe185aaed1.png)
+    - 看起來是 [Domain Administrator](https://developers.cloudflare.com/fundamentals/setup/manage-members/roles/#domain-scoped-roles) ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_012b25bf13a581c3f6788bfe185aaed1.png)
+    - Or try creating [new policies](https://developers.cloudflare.com/fundamentals/setup/manage-members/policies/#manage-policies)
 
+### Open165
 
+> Wireframe https://www.figma.com/design/Fqcv6KODgXFWyyjj1Ru9er/Open165?node-id=108-544&node-type=frame&t=dhEDExdkAw990yLa-0
+> Chloe, Sylvia, Tofus ++
 
+- 目前沒有 landing page
+- Detail page 有資訊但沒有說服力
 
-## Open165
+#### License change
+
+> 這部分沒在大松討論
 
 - MIT --> AGPL https://github.com/Open165/site/pull/32
     - 但 AGPL 好像不只是換個 LICENSE 就好？

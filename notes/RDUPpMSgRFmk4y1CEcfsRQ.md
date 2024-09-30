@@ -128,3 +128,42 @@ int main()
 	return 0;
 } 
 </pre>
+## 讓程式自己找答案
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_59213222fe4e5cc4102b72fb0cb0c6f9.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3a38f97ebb525c79e1e47a430be5078b.png)
+<pre>
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	while(true)
+	{
+	
+	long long int sum;
+	cin>>sum;
+	
+	if(sum==0)
+	{
+		break;//直接不輸出 
+	}
+		
+	long long int n=1;//loop檢查 
+	while(true)
+	{
+	
+		int a=n*(n+1)/2-sum;
+		if(1<=a&&a<=n)//符合條件直接出去 
+		{
+			cout<<a<<" "<<n<<endl;
+			break;
+		}
+		n++;
+	}
+ 	}
+	return 0;
+}
+</pre>
+
+-------
