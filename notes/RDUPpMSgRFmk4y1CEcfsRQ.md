@@ -96,3 +96,35 @@ int main() {
 -------
 
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_261d77d59356b71eb244d003f8aac373.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fe0bc644d7c2aa4c5f548bd501232a23.png)
+<pre>
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int t;
+	cin>>t;
+	int casenum =1;
+	while(t--&& 1 <= t + 1 && t + 1 <= 100)
+	{
+		int a,b;
+		cin>>a>>b;
+		if(0<=a&&a<=b&&b<=100)
+		{
+			if(a%2==0)
+				a+=1;
+			if(b%2==0)
+				b-=1;
+			int n;
+			n=(b-a)/2+1;
+			int sum;
+			sum=n*(a+b)/2;
+			cout<<"Case "<<casenum++<<": "<<sum<<endl;
+		}
+		
+	}
+	return 0;
+} 
+</pre>
