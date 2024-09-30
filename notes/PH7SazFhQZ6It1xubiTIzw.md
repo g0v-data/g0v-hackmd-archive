@@ -151,3 +151,5 @@ https://ieeexplore.ieee.org/document/9214099
 https://www.itc.ntnu.edu.tw/wp-content/uploads/2019/07/security-1080821.pdf
 A lightweight deep learning framework for botnet detecting at the IoT edge
 https://www.sciencedirect.com/science/article/pii/S0167404823001050
+Benefits of Internet of Things (IoT) Applications in Health care - An Overview
+https://ieeexplore.ieee.org/abstract/document/10141452
