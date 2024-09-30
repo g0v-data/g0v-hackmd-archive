@@ -20,44 +20,6 @@ GA: UA-98468513-3
 #### :electric_plug: API
 - Add `status` to replies https://github.com/cofacts/rumors-api/pull/349
 
-#### :robot_face: rumors-line-bot
-
-##### Testing checklist
-
-https://lin.ee/1QUzEX4nI
-
-- [ ] 應可送出「全新訊息」
-    - [ ] 問訊息來源時選擇「我自己打的」會被擋下。
-    - [ ] 選擇「整篇轉傳」後會詢問是否要送出訊息。
-    - [ ] 不同意送出訊息後可以收到感謝。
-    - [ ] 同意送出訊息後就會送出訊息，並得到：
-        - [ ] Cofacts article page 按鈕
-        - [ ] 寫理由的按鈕
-        - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
-        - [ ] 「分享到 Facebook」、「分享到 LINE」且可以正常運作
-    - [ ] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
-    - [ ] 可以再打開理由視窗，此時會載入上次填寫的理由。修改理由送出後，查看 article page 看理由是否有被送出。
-
-- [ ] 送出「沒回應」的舊訊息，應可送出新理由
-    - [ ] 文章的「N 人回報」應該仍然要 + 1（除非測試者已經針對該篇送過 reply request）。
-    - [ ] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
-    - [ ] 可以修改理由送出。查看 article page 看理由是否有被送出。
-    - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
-
-- [ ] 送出「有回應」的舊訊息，應自動回傳回應
-    - [ ] 應列出訊息所有的回應
-    - [ ] 選擇回應之後可以幫回應 upvote
-    - [ ] 可以再次選擇 downvote
-    - [ ] 選完回應之後，還可以捲回去選其他回應
-    - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
-
-- [ ] Rich menu 測試
-    - [ ] 「設定」更改後再次打開，應該會保留原本設定
-    - [ ] 「教學」可以觸發教學流程
-
-##### ⛔️ Release Blockers
-##### 未竟項目
-
 #### :globe_with_meridians: Site
 
 - [Fix type for codegen #578](https://github.com/cofacts/rumors-site/pull/578)
@@ -68,49 +30,23 @@ http://dev.cofacts.tw/
 
 **未登入**下檢測：
 
-- [ ] Article list
-  - [ ] Filter works
-  - [ ] Sorting works
-  - [ ] Can go to article page
-- [ ] Replies list
-  - [ ] Filter works
-    - [ ] 不允許選擇 Replied by me
-  - [ ] Sorting works
-  - [ ] Can go to article page
-  - [ ] 不允許 upvote / downvote replies
-  - [ ] Can see vote reasons
-- [ ] Hoax for you
-  - [ ] Filter works
-  - [ ] Can go to article page
-- [ ] Article detail
-  - [ ] Can see similar messages
-  - [ ] Cannot submit, upvote, downvote reply request
-  - [ ] Cannot submit, upvote, downvote reply
-  - [ ] Cannot add, remove, upvote, downvote category
-- [ ] Search
-  - [ ] Can use global search to perform search
-  - [ ] Can use textarea in header to perform searchs
-     - Known issue: firefox 無法
-  - [ ] Can list searched articles
-    - [ ] Filter works
-    - [ ] Can go to article page
-  - [ ] Can list searched replies
+需注意未登入時，不應有任何有助於 SEO 的資訊露出（包含 tab title）
+
+- [ ] Normal article detail https://dev.cofacts.tw/article/8xHSHpIBUOXjqM1AvRND
+- [ ] Blocked article detail https://dev.cofacts.tw/article/zzovo5rubgqw
+- [ ] Normal reply detail https://dev.cofacts.tw/reply/2F59iG8Bd3n3h-WYX0Kq
+- [ ] Deleted reply detail https://dev.cofacts.tw/reply/2V5yiG8Bd3n3h-WYd0Ex
+- [ ] Blocked reply detail https://dev.cofacts.tw/reply/lZYVx44BQ_PNHtDOjI7W
+
 
 登入自有帳號後檢測：
-- [ ] Replies search page
-  - [ ] can upvote / downvote replies
-- [ ] Replies list
-  - [ ] 可選擇 Replied by me
-  - [ ] can upvote / downvote replies
-- [ ] Article detail
-  - [ ] Can submit, upvote, downvote reply request
-  - [ ] Can submit, remove own reply
-  - [ ] Can upvote, downvote other's article reply
-  - [ ] Can add, remove, upvote, downvote category
-- [ ] Can go to profile page on menu
-    - [ ] Can edit own name, bio, URL
-    - [ ] Can see own replies
-- [ ] Can logout
+需注意登入後，所有功能均應正常，包含 comment, upvote downvote 等；blocked reply 除外。
+
+- [ ] Normal article detail https://dev.cofacts.tw/article/8xHSHpIBUOXjqM1AvRND
+- [ ] Blocked article detail https://dev.cofacts.tw/article/zzovo5rubgqw
+- [ ] Normal reply detail https://dev.cofacts.tw/reply/2F59iG8Bd3n3h-WYX0Kq
+- [ ] Deleted reply detail https://dev.cofacts.tw/reply/2V5yiG8Bd3n3h-WYd0Ex
+- [ ] Blocked reply detail https://dev.cofacts.tw/reply/lZYVx44BQ_PNHtDOjI7W
 
 ##### ⛔️ Release Blockers
 
@@ -124,6 +60,24 @@ http://dev.cofacts.tw/
 > https://g0v.hackmd.io/7UzK_kfzRWOcmJrXc7bxfA
 > 
 
+### Cloudflare 設定
+
+> Cloudflare WAF rules 有一些設定是可以不用擋得這麼死到可能影響正常流量
+> 可以設定的WAF Rules是
+> - Allow All Verified Bots to skip all WAF rules
+> - Block Known Threat Nations (俄羅斯/Tor/China?)
+> - Block Admin Page Logins/Paths/Hostnames outside of Taiwan
+> - Managed Challenge Not-Whitelisted Nations, where country not in HK, Macau, Malaysia, SG, TW (非中文國家)
+> - 然後把/graphql endpoint加到API Shield的Schema(Logging)
+> - 再把api.cofacts.tw配上WAF Fallthrough rule (Logging) 這樣就能看到route probing bots的heuristics 後續能擋下來
+> 之後就剩Rate Limit的設定
+
+
+- [Alex](https://www.linkedin.com/in/alexanderselikoff/)++
+- Alex 希望有 Zone Level `http_request_firewall_custom` 的權限
+- 看起來是指 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_012b25bf13a581c3f6788bfe185aaed1.png)
+
+
 
 
 ## Open165
@@ -133,5 +87,29 @@ http://dev.cofacts.tw/
 
 ## 小聚籌備
 
+- [ ] 日期：10/27 (日)
+- [ ] 食物：
+- [ ] 場地：NPO Hub Foundry（大的那間)
+- [ ] 時間：
+	- 活動時間：14:00 - 17:00
+	- 時間分配
+        - 2:00 - 2:20 開場
+            - 影片
+            - Slido 暖身
+        - 2:20 - 2:40 引導註冊網站、介紹評價現有回應
+        - 2:40 - 2:50 實作評價
+        - 2:50 - 3:10 介紹補充資訊
+        - 3:10 - 3:40 實作補充資訊、自我介紹、休息
+        - 3:40 - 4:10 介紹撰寫新回應
+        - 4:10 - 4:40 實作撰寫新回應
+        - 4:40 - 5:00 介紹分類、RSS、合照
+- [ ] 投放目標：
+  - 推播日：
+  - 目標：雙北
+- [ ] KKTIX: 
+- [ ] 誰會來呢：
+- [ ] 記得帶：貼紙、環保杯
+- [ ] LINE 文案：
+- [ ] VOOM 發文
 
 
