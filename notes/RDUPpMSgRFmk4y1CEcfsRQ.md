@@ -55,7 +55,7 @@ int main()
 ------
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e5c279806b5790ef9766005b7c6be521.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_040eeab1f55b47e9deb0fadbb7d4762d.png)
-## 不能用while(t--) ?
+## 不能用while(t-- ) ?
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7e2f9c828f3af726ba38d18980e7de64.png)
 
 
