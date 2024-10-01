@@ -34,6 +34,9 @@ tags: GIS
 
 ## 有類似但並非針對防鳥撞擊，有改善機會
 
+建築物、公車候車亭的玻璃，設置公共藝術
+https://www.facebook.com/share/p/sLrbkXVfiKFyfwLW/
+https://www.facebook.com/share/p/5TRAq3ZQJVTYUqFm/
 
 台大小福三樓玻璃
 https://photos.app.goo.gl/scmJhfHfdSCASH3C6
