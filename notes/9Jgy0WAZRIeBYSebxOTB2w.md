@@ -20,31 +20,40 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
 
 ## FtO session at RightsCon
 
-### Todo list for speakers
+### Todo list for speakers and facilitator
 
 - [ ] Update session info ==must before Oct 13==
+    - [x] Confirm speakers
+        - [x] Nao (Confirmed!)
+        - [x] Klou (Confirmed!)
     - [x] Add collaborators
-    - [ ] Session info
-    - [ ] Confirm additional speakers
-    - [ ] Confirm facilitator
-    - [x] Preferred session date
+    - [ ] Update session title & description
+    - [ ] Add personal info to proposal
+        - [ ] @mami
+        - [ ] @eunsoo
+        - [ ] @klou
+        - [ ] @nao
+        - [x] @chihao
+    - [x] Confirm preferred session date
+- [x] Make collab slides
+    - https://docs.google.com/presentation/d/1Xv52LtF6xaQ-a12Ma_1L8GipqVfL1gMace6J6WAkZQo/edit#slide=id.p
 - [ ] Speakers must also register & get ticket
     - https://www.rightscon.org/registration/
     - early bird ends ==Dec 3==
     - chihao has the discount codes
         > There are 4 discount codes: 25%, 50%, 75%, 100%-off, 1 ticket each [name=chihao]
-    - [ ] chihao
+    - [ ] @mami
+    - [ ] @eunsoo
+    - [ ] @klou
+    - [ ] @nao
+    - [ ] @chihao
         > I am local so I can use the 25% discount or not at all :) [name=chihao]
-    - [ ] Mami
-    - [ ] Eunsoo
-    - [ ] 4th speaker
-    - [ ] Facilitator
 - [ ] Plan travel + hotel early
-    - [x] chihao - I live in Taipei :)
-    - [ ] Mami - I live in Osaka/Tokyo and will go from KIX or HND
-    - [ ] Eunsoo
-    - [ ] 4th speaker
-    - [ ] Facilitator
+    - [ ] @mami - I live in Osaka/Tokyo and will go from KIX or HND
+    - [ ] @eunsoo
+    - [ ] @klou
+    - [ ] @nao
+    - [x] @chihao - I live in Taipei :)
 
 ### Timeline
 
@@ -77,14 +86,6 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
     - infrastructure
         - student exchanges
     - Highlight FtO projects
-
-### Next steps
-- Make collaborative google slide @eunsoo
-- Update session description by 11th @chihao
-- Confirm speakers
-    - Nao @chihao
-    - Klou (Confirmed!)
-
 
 ## Updated Proposal
 
