@@ -3,6 +3,15 @@ tags: vtaiwan
 ---
 # vtaiwan 與TWNIC 合作
 
+## 1002 小松討論
+- TWNIC 回信，表示願意參與！
+- 待辦事項：
+1. 敲定時間（配合執行長時間，選12/18-12/20其中一天） 
+2. 十月中開始宣傳招募參與者—內容先給TWNIC看過 
+3. TWNIC可提供容納40人場地，需了解一下對方場地可用設備跟vTaiwan的設備需求 
+4. 背景資料準備（翊婷可以先來草擬）
+
+
 ## 0918 小松討論
 - [企劃書](https://docs.google.com/document/d/1Aa6peweqocWqZqazGLJGPFbJSM6NQTkK/edit?usp=sharing&ouid=109285301638612449877&rtpof=true&sd=true)
 ### 設計方式：
