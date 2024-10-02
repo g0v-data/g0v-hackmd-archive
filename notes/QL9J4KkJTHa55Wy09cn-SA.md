@@ -110,3 +110,6 @@ https://www.facebook.com/healingkyoto/posts/pfbid0BPVdMcTTHZV6mYYEWSEA4JtHzHxDQB
 
 日本列島
 https://www.facebook.com/share/m4QcPqw7ToNxxRJX/
+
+芬蘭外型的湖泊
+https://youtube.com/shorts/KbQP3IzC_Q4
