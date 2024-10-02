@@ -799,6 +799,9 @@ https://www.facebook.com/TaiwanTrafficSafeAssociation/posts/pfbid0cCWCvPLmdDYqjw
 美國案例，設置突出的分隔道在十字路口，引導車輛左右轉路徑
 https://www.facebook.com/watch?v=1072196617300636
 
+針對車速與車種，調整是否有需要開啟減速提醒裝置
+https://youtube.com/shorts/9yrYYSfW2UM
+
 好連街 - 連續型行人路徑繪製步驟 Continuous Pedestrian Pathway
 🌟 在街區內創造一條連續的行人路徑，且盡可能避免受到車道阻斷，避免車輛直通穿越。
 🌟 透過調整車輛行駛方向與轉向系統，藉此創造行人連續路徑，減少人車交錯路口數量，也可以用「洄游型行車路線」來描述車輛轉向特點。
