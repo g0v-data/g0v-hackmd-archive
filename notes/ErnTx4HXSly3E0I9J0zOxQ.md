@@ -651,6 +651,11 @@ Through Traffic 過境車流
 - 無人車
     - https://www.facebook.com/JapanGov/posts/pfbid02XrPERiqbLzKeH8qAbhmYUJ7fnmA7S8A9fMcpoMAnzDppEZ2ZCx51PSWnhyeMzKEEl
 
+
+單一街廓大小
+- 美國 https://youtube.com/shorts/s2NiLTmqU9k
+
+
 一些留存至今的聚落範型
 - 五營
     - 掌潭村 https://eyesonplace.net/2021/01/27/16247/
