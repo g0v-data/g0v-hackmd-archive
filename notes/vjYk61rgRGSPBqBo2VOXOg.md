@@ -1,5 +1,5 @@
 U888 có các trò chơi phù hợp với mọi người chơi khi chơi Casino Online. Không chỉ có hàng trăm trò chơi trực tuyến, hệ thống còn gửi tặng nhiều phần thưởng và khuyến mãi cho các quý hội viên của mình.
-Brand: UK888
+Brand: U888
 Phone: 0583910973
 Địa Chỉ: 959/9 Hẻm 50/15 Đ. Quảng Hàm, Phường 3, Gò Vấp, Hồ Chí Minh, Việt Nam
 Email: UK888cooking@gmail.com

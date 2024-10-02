@@ -1,0 +1,15 @@
+https://www.japanesedecor.net		
+https://x.com/japanesedeco		
+https://www.pinterest.com/japanesedecornet/		
+https://www.tumblr.com/japanesedecornet		
+https://www.youtube.com/@japanesedecornet		
+https://500px.com/p/japanesedecornet?view=photos		
+https://www.reddit.com/user/japanesedecornet/		
+https://gravatar.com/instantly23b8572db1		
+https://medium.com/@japanesedecornet/crypto-casinos-694d65d22da7		
+https://glose.com/u/japanesedecornet		
+https://issuu.com/japanesedecornet		
+https://www.openstreetmap.org/user/japanese%20decornet		
+https://www.reverbnation.com/artist/cryptocasinos6		
+https://profile.hatena.ne.jp/japanesedecornet/		
+https://about.me/japanesedecornet		
