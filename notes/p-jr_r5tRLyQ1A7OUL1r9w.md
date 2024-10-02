@@ -1,5 +1,5 @@
 ---
-tags: g0vernance
+tags: g0vernance, 詐騙
 ---
 
 # g0v.tw 被當作詐騙網站舉例，用於事實查核與政府宣導

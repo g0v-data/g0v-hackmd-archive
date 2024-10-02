@@ -1,5 +1,5 @@
 ---
-tags:
+tags: 詐騙
 ---
 
 # 詐騙因應對策
@@ -12,6 +12,11 @@ https://g0v.hackmd.io/roo-89pnR6iouhm-xgLL3A
 
 建立中繼網頁，確保該網址不會遭到惡意使用，案例：財政部電子申報繳稅服務網
 https://g0v.hackmd.io/p-jr_r5tRLyQ1A7OUL1r9w
+
+數發部《網路詐騙通報查詢網》App 
+https://www.facebook.com/yijing1/posts/pfbid0UpgpicMR1Pr4F3deKDBdLRpT51BqSyUzYDeo3KmKxY6qYRB6BuUNRUH5wRg5TQGdl
+Android 版 App：https://play.google.com/store/apps/details?id=com.fraud.buster.prod
+iOS 版應用程式：https://apps.apple.com/tw/app/id6587570857
 
 徵文
 https://www.2024fsc-antiscam.com/event

@@ -19,7 +19,7 @@ tags: vtaiwan
 - 產出的成果如何呈現？
     - 希望驗證研究假設。
     - 追問：如此一來，vTaiwan的模式與執行可能就會影響研究結果 [name=josh]
-        - 目前的程序中如果有 recursive 的程序
+        - 目前的程序中如果有符合 recursive 的定義（reciprocal & iterative communications），儘管有每場審議中小小的不同（明確使用哪個平台、主持人帶討論的方式）也不影響研究結果
 - 對於 vTaiwan 的效果 [name=josh]
     - 對於接觸機關與效果都有幫助 [name=eli]
 - vTaiwan 想要測試什麼？ [name=josh]
@@ -30,7 +30,7 @@ tags: vtaiwan
 
 ### Actionable item：
 - 建立群組來拉人
-- 與 TWNIC 確認
+- 與 TWNIC 確認審議結果及相關資訊可否公開
 
 ### 參與意願確認
 - 現場參與 [name=eli]
