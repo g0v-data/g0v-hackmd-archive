@@ -16,16 +16,21 @@ tags: vtaiwan
 - 大松提案結果與成果
     - [數位公共參與工具比較協作共筆](/k_P2feISSMGwdLKjv8yO4Q?edit)
     - [大松ppt](https://docs.google.com/presentation/d/1HPSeCMzVo5jWDm7DYOiLmx6HHv5_lHj15sVe34x3aSw/edit?usp=sharing)
-- [訪談共筆](/qFQk8OaGROyqBuzf8UUe5A)- 黃脩閔訪談經驗分享
+- [訪談共筆](/qFQk8OaGROyqBuzf8UUe5A)- 蔡淑芳訪談
+    - 啟發：不同引導討論方式產生的討論
+    - AB組的討論
 - [公民科技專案分享茶會 Civic Tech Sharing Meetup](/h0a08kz5RM-0MepVy7dYxw?both)活動
     - 目前請 eli 擔任講者
 - 最近的體悟：實體活動的重要性。
     - 左手拿鏟子，右手拿啤酒
     - 工作結束後，聯絡感情很重要
+- 
 ## 議題小聚
 - [議題小聚](/xW580C91SiCTWI4JAaFdDg)
     - 目前正在進行場地借用
     - [工作表](https://docs.google.com/spreadsheets/d/1X0QltpUGb5UiP8lM6uiDiqEJFi8TORqiAZhEKuRaX9A/edit?gid=0#gid=0)
+- 10/8 會議會跟司改會討論，舉辦一次的活動
+    - [司改會簡報](https://docs.google.com/presentation/d/1Vl-WCbieBFwdO27uMnl-E1zDZrq9fnEEAlCVE1TBPcI/edit?usp=sharing)
 
 ## 與 TWNIC 合作
 - [vtaiwan 與TWNIC 合作](/@vTaiwan/ByAPNqIh0)
@@ -35,3 +40,4 @@ tags: vtaiwan
 3. TWNIC可提供容納40人場地，需了解一下對方場地可用設備跟vTaiwan的設備需求 
 4. 背景資料準備（翊婷可以先來草擬）
 - 議題：「你認為台灣應該立法規範人工智慧嗎？這樣的法律應該要考量到什麼？」
+- [企劃書](https://docs.google.com/document/d/1Aa6peweqocWqZqazGLJGPFbJSM6NQTkK/edit?usp=sharing&ouid=109285301638612449877&rtpof=true&sd=true)

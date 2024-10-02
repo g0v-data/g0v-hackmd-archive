@@ -7,10 +7,37 @@ tags: vtaiwan
 - TWNIC 回信，表示願意參與！
 - 待辦事項：
 1. 敲定時間（配合執行長時間，選12/18-12/20其中一天） 
-2. 十月中開始宣傳招募參與者—內容先給TWNIC看過 
-3. TWNIC可提供容納40人場地，需了解一下對方場地可用設備跟vTaiwan的設備需求 
-4. 背景資料準備（翊婷可以先來草擬）
+3. 十月中開始宣傳招募參與者—內容先給TWNIC看過 
+4. TWNIC可提供容納40人場地，需了解一下對方場地可用設備跟vTaiwan的設備需求 
+5. 背景資料準備（翊婷可以先來草擬）
+### 討論事項：
+- 數位參與的形式
+- 開源需要確認
+- 數位工具的挑選，有任何的要求嗎？[name=josh]
+    - 對於受到研究的群體，會自己回報參與的情形
+    - 有一個方法是利用問卷的回應，來跑 algorithm
+- 產出的成果如何呈現？
+    - 希望驗證研究假設。
+    - 追問：如此一來，vTaiwan的模式與執行可能就會影響研究結果 [name=josh]
+        - 目前的程序中如果有 recursive 的程序
+- 對於 vTaiwan 的效果 [name=josh]
+    - 對於接觸機關與效果都有幫助 [name=eli]
+- vTaiwan 想要測試什麼？ [name=josh]
+    - 延續之前 OpenAI 專案的討論 [name=peter]
+        - 比較 smooth 的做法可以是把之前活動中提到的想法或方法拉進來討論。
+    - 可以加入新的問題，加入翊婷的問卷，收集 for vTaiwan 需求的問題/研究資料，之後進一步分析
+    - 或許可以類似之前的[文章](https://ideas.repec.org/p/osf/socarx/xyhft.html)一樣，來討論相關的內容 
 
+### Actionable item：
+- 建立群組來拉人
+- 與 TWNIC 確認
+
+### 參與意願確認
+- 現場參與 [name=eli]
+- 審議主持與討論 [name=peter]
+- 資訊整理與分析 [name=josh]
+- 第一場現場幫忙，其他場次時間[name=宇亭]
+- 對於流程感興趣，可以來幫忙[name=T]
 
 ## 0918 小松討論
 - [企劃書](https://docs.google.com/document/d/1Aa6peweqocWqZqazGLJGPFbJSM6NQTkK/edit?usp=sharing&ouid=109285301638612449877&rtpof=true&sd=true)
