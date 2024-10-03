@@ -89,12 +89,15 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
 
 ## Updated Proposal
 
-### Title: 5 Years Facing the Ocean: Advancing Information, Gender, Youth Rights in East Asia
+### Title: 5 Years Facing the Ocean: Advancing Rights to Information, Gender Equality, Youth Participation in East Asia
 
 ### Description
 
-Since 2019, participants and members of civic hacking communities in Japan (Code for Japan), Korea (Code for Korea), and Taiwan (g0v.tw)  have been organizing the Facing the Ocean regional network. Three presenters will share the inception of the network, its organizational scheme, as well as key moments and projects using tech and collaboration to address communinal, national, and regional issues.
+Since 2019, participants and members of civic hacking communities in Japan (Code for Japan), Korea (Code for Korea), and Taiwan (g0v.tw)  have been organizing the Facing the Ocean (FtO) regional network. Three presenters will share the inception of the network, its organizational scheme, as well as key moments and projects using tech and collaboration to address communinal, national, and regional issues.
 
+This session will present a short introduction of FtO, and how it connects civic tech projects in East Asia advancing rights on information accessibility and integrity, gender equality, and youth participation in public affairs, working against government suppression, authoritarian interference, and (physical) cultural divides in our region.
+
+Examples include 
 
 
 ## Original Proposal
