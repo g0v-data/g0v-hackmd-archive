@@ -5,7 +5,7 @@ Gemwin – Nền tảng game bài đại phú quý mang đến cơ hội vừa g
 GG MAP https://maps.app.goo.gl/mUdCthLxpBqiYNBu7 
 Gmail: burnisongatzowrnibc1038@gmail.com
 Hotline : 0834031777
-Website https://gemwin.ltda/
+Website https://gemwin.legal
 SOCIAL 
 https://www.pinterest.com/gemwinltda
 https://www.instagram.com/gemwinltda
