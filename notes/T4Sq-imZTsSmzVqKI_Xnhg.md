@@ -32,6 +32,7 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 ## 個案經驗蒐集
 - 2024 專書 https://www.facebook.com/share/p/JnsrhB4d54j2AUGy/
 - 2024 電話，對方唸出完整正確的身分證字號 https://www.facebook.com/share/p/UAtnFG6hTJf2ya2H/
+- 蒐集聲音資料 https://www.facebook.com/share/r/j1i8Lv4b52g6eicq/
 - 民生用電詐騙案件例如：欠費未繳或假冒收款帳號
 - 公益義剪詐騙，蒐集受騙者的帳戶 https://www.facebook.com/share/p/DF8HKy7tH7cTEdnT/
 - 廣告不實販售詐騙

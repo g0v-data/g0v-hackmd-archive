@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [FtO at RightsCon (RC) 2025](../notes/9Jgy0WAZRIeBYSebxOTB2w.md) | 2024-10-03T21:42:16+08:00 | 2024-06-07T09:45:30+08:00 |
+| 1 | [FtO at RightsCon (RC) 2025](../notes/9Jgy0WAZRIeBYSebxOTB2w.md) | 2024-10-04T10:14:46+08:00 | 2024-06-07T09:45:30+08:00 |
 | 2 | [What is a healthy information environment to you?](../notes/vjaQrSDvQdedZVew7-iE5g.md) | 2024-08-18T17:01:18+08:00 | 2024-08-14T14:23:53+08:00 |
 | 3 | [FtO Yokohama 2024 Student Workshop: Table A meeting records](../notes/hY3NpJQ4QYOGFXRZkHf90g.md) | 2024-08-17T17:30:47+08:00 | 2024-07-29T10:28:28+08:00 |
 | 4 | [FtO Yokohama 2024 Workshop 1: Civic Tech in East Asia](../notes/lqtewQfeQyq77OQoWCgnTA.md) | 2024-08-17T17:10:17+08:00 | 2024-07-26T16:47:56+08:00 |
