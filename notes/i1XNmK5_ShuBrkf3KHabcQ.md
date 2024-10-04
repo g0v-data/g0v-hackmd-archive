@@ -127,8 +127,8 @@ Granted Domain Administrator
 - [ ] 投放目標：
   - 推播日：
   - 目標：雙北
-- [ ] KKTIX: 
-- [ ] 誰會來呢：
+- [ ] KKTIX: https://cofacts.kktix.cc/events/cofactseditor44
+- [ ] 誰會來呢：bil,orz,nonumpa
 - [ ] 記得帶：貼紙、環保杯
 - [ ] LINE 文案：
 - [ ] VOOM 發文
