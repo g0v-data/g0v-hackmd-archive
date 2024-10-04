@@ -22,3 +22,10 @@
 | [SJw64MFdq](../../notes/hE5Fy8YUSWe91rWadoC_Fg.md) | g0v Underground 零時電台｜EP 7 - 運用開源社群力打造理想租屋環境 — Rentea ft. ddio, aniii, ichieh, analeigh | 2022-06-05T01:22:06+08:00 | View mode |
 | [By2ilftO5](../../notes/bl53H3ZkSE-YJZ7vWATlOA.md) | g0v Underground 零時電台｜EP 6 - 檢舉違章農地工廠不用怕！— Disfactory ft. deeper, yukai, ichieh, analeigh | 2022-06-05T01:04:35+08:00 | View mode |
 | [r1lnilMYu5](../../notes/nbnJ-JbFSUSlvn19r58DKw.md) | g0v Underground 零時電台｜EP 2 - My unique g0v experience as a contributor ft. Sam, MG, Chihao (EN) | 2022-06-05T01:04:36+08:00 | View mode |
+| [HkqF6DOd5](../../notes/EXd5KrtmSMKKWqDjWSnL7g.md) | g0v Underground 零時電台｜EP 0 - 打開 g0v 零時政府的入門指南 ft. ichieh & analeigh | 2022-06-04T13:28:34+08:00 | View mode |
+| [H1kGeJsKc](../../notes/fv3n2BS6Q5GPB-WbdzBfpA.md) | S1E11 訪綱： 公有地大行動 | 2022-06-18T13:17:59+08:00 | View mode |
+| [SklJZksY5](../../notes/9-bhrBrBRsS2sK6qici4HQ.md) | S1E12 訪綱： 翻譯組 | 2022-06-18T13:21:27+08:00 | View mode |
+| [Sk8JeQZL9](../../notes/qHGRvGgWR2KWiKvr-9fLow.md) | S1E10 訪綱： 揪松團 | 2022-05-05T17:58:54+08:00 | View mode |
+| [listens1e3](../../notes/zkBpx8UKSByPPyfIhw2khw.md) | g0v Underground 零時電台｜EP 3 - g0v 社群最長壽的開山專案 — 中央政府總預算視覺化 ft. clkao、kirby、isabel、ichieh | 2022-05-19T18:02:38+08:00 | View mode |
+| [rJlE17ftuc](../../notes/_F2dwZQvRJe4YZByBzJZXQ.md) | g0v Underground 零時電台｜EP 4 - 用鍵盤也可以救國的鄉民行動 — 開放政治獻金 ft. ronny, isabel, ichieh | 2022-06-05T01:14:04+08:00 | View mode |
+| [HJfYYICS9](../../notes/wpaGJslnRNGtSADfCDh0xQ.md) | S1E9 訪綱： 空汙地圖 x LASS | 2022-05-03T15:27:54+08:00 | View mode |
