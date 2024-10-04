@@ -1,11 +1,11 @@
 <p><img src="https://pbs.twimg.com/profile_banners/1838056568128180224/1727061908/1500x500" alt="" width="600" height="200" /></p>
-<p>Go789 <a href="https://go789.site/"><u>Go789</u></a>&nbsp;l&agrave; một trong những s&acirc;n chơi rất nổi tiếng tr&ecirc;n thị trường ch&acirc;u &Aacute;. Bởi cổng game sở hữu kho game khổng lồ, chăm s&oacute;c kh&aacute;ch h&agrave;ng rất nhiệt t&igrave;nh v&agrave; chu đ&aacute;o.</p>
+<p><a href="https://go789.site/"><u>Go789</u></a>&nbsp;l&agrave; một trong những s&acirc;n chơi rất nổi tiếng tr&ecirc;n thị trường ch&acirc;u &Aacute;. Bởi cổng game sở hữu kho game khổng lồ, chăm s&oacute;c kh&aacute;ch h&agrave;ng rất nhiệt t&igrave;nh v&agrave; chu đ&aacute;o.</p>
 <p>#go789 #conggamego789 #go789co #dangkygo789 #dangnhapgo789&nbsp;</p>
 <p><strong><strong>Th&ocirc;ng Tin Li&ecirc;n Hệ:</strong></strong></p>
 <p><strong><strong>- Địa Chỉ: </strong></strong>67 Trần Quốc Thảo, Phường V&otilde; Thị S&aacute;u, Quận 3, Hồ Ch&iacute; Minh, Việt Nam&nbsp;</p>
 <p><strong><strong>- Số Điện Thoại: </strong></strong>0777607984&nbsp;</p>
 <p><strong><strong>- Email: </strong></strong>go789.co@gmail.com&nbsp;</p>
-<p><strong><strong>- Website:</strong></strong>&nbsp;<u><a href="https://go789.site/">https://go789.site/</a></u></p>
+<p><strong><strong>- Website:</strong></strong>&nbsp;<a href="https://go789.site/"><u>https://go789.site/</u></a></p>
 <p><u><img src="https://pbs.twimg.com/profile_images/1838056952699801600/SdClh7bD_400x400.jpg" alt="" width="200" height="200" /></u></p>
 <p><strong><strong>Social:</strong></strong></p>
 <p><a href="https://www.facebook.com/go789co/"><u>https://www.facebook.com/go789co/</u></a></p>
@@ -62,4 +62,3 @@
 <p><a href="https://band.us/@go789co"><u>https://band.us/@go789co</u></a></p>
 <p><a href="https://jsfiddle.net/go789co/pew3x9km/1/"><u>https://jsfiddle.net/go789co/pew3x9km/1/</u></a></p>
 <p><a href="https://qna.habr.com/user/go789co"><u>https://qna.habr.com/user/go789co</u></a></p>
-<p>&nbsp;</p>
