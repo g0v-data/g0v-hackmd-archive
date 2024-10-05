@@ -59,6 +59,7 @@ tags: 新生流域
 - 待查找老照片位置、標記、歷史素材
     - 太古巢 河邊舊址 https://youtu.be/eRaDSA-qaxk
     - 東門護城河溝 https://www.facebook.com/105231068229012/photos/a.105265611558891/312616044157179/?type=3&mibextid=cr9u03
+    - 臺北賓館 水池 https://www.facebook.com/share/p/Bd6WttVngBiUjYdz/
     - 大正町照片，似乎是有溝渠？
         - http://whatagodday.blogspot.com/2023/05/2023_16.html
     - 臺北給水工事設計報告書，臺灣總督府公文類纂
