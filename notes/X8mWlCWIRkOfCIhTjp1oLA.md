@@ -167,6 +167,9 @@ https://www.facebook.com/share/p/h5gocvfmDXVpetHy/
 台南歸仁圓環
 https://www.facebook.com/100092995934211/posts/pfbid0SssWXfSJEk71SV8wjzx2ngeWoywQ27PJcYg5fb5Ca2uNZhMe6ieus8KdgFxUjTjNl/
 
+台南孔廟 拆除同向分隔島
+https://www.facebook.com/share/p/SAxiq31oKaNQ8kSX/?mibextid=WC7FNe
+
 高雄「標線型圓環」，位在三多商圈的文橫三路與廣西路和南天街2條道路交會處的多叉路口
 https://www.facebook.com/share/r/buYYpFyFWVwSXd1h/
 https://news.pts.org.tw/article/682762
