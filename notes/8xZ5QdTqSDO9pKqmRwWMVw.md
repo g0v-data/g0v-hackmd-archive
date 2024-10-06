@@ -149,6 +149,7 @@ http://dev.cofacts.tw/
 - 尋找Bot API Probing的Fallthrough Rule@A：skip，只是 log
 
 #### Security > WAF > Rate limiting rules
+- Prevent fast access --> 10 秒 10 requests --> 10 秒 7 requests
 - 擋已知惡意graphql DOS@A：特定 user agent 的 request，十秒內超過 25 request 就做 managed challenge
 
 #### Security > WAF > Managed rules
@@ -158,6 +159,8 @@ http://dev.cofacts.tw/
 - Allow Cofacts Linode & LINE corp (whitelist)
   - 有討論到為啥 Linode 內流量還要過 Cloudflare。主因是現在有部分服務在 Linode 內/外，而且未來會往外搬，要細部設定不划算。 [name=mrorz]
 
+#### Security > Page Shield
+==TBA==
 
 #### Security > API Shield
 
@@ -167,13 +170,17 @@ http://dev.cofacts.tw/
 
 - Challenge Passage: 5min -> 15min
 
-#### Speed / Optimization
+#### Speed > Optimization
 
 - Enabled [Speed Brain](https://developers.cloudflare.com/speed/optimization/content/speed-brain/)
 - Enabled [Enhanced HTTP/2 Prioritization](https://blog.cloudflare.com/better-http-2-prioritization-for-a-faster-web/)
 - Enabled [Mirage](https://developers.cloudflare.com/speed/optimization/images/mirage/)
 - Enabled QUIC (HTTP/3)
+- Enabled [Early Hints](https://developers.cloudflare.com/cache/advanced-configuration/early-hints/)
+- Enabled [Cloudflare Fonts](https://developers.cloudflare.com/speed/optimization/content/fonts/)
 
+#### Caching > Configuration
+- Browser cache TTL: 1 month --> 2 days
 
 #### SSL/TLS > Edge Certificates
 - Ordered Universal Certificate
