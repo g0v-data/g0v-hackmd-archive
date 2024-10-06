@@ -98,6 +98,7 @@ tags: 新生流域
     - 重要 照片 1963 新生大排 https://memory.culture.tw/Home/Detail?Id=572348&IndexCode=online_metadata
     - 照片 新生大排 https://www.facebook.com/share/p/QLq2XpSUtU5hbZ8P/?mibextid=K35XfP
     - 重要 照片 新生南路加蓋 https://memory.culture.tw/Home/Detail?Id=548886&IndexCode=online_metadata
+    - 重要 照片 1965 安東街 霧裡薛圳 https://www.facebook.com/share/p/VTK2pBgvATxZ48Ck/
     - 照片 1964 敦化路 建築 https://www.facebook.com/share/p/dwAfRfRg5Wn3a3Fb/
     - 聖家堂 歷史 http://cl-design.com.tw/CL/image/web/catholic_web/about/brief_if.html
     - 照片 懷恩堂 https://memory.culture.tw/Home/Detail?Id=631088&IndexCode=online_metadata

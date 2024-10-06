@@ -56,6 +56,9 @@ g0v 社群由「人、坑、松、源」組成，如何讓參與者容易串連�
 
 ## 活動照片 Photos
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c8bd86af598cefea549ad311ee3c0544.jpeg)
+
+
 ## hacking 區
 
 :::warning
@@ -107,7 +110,6 @@ https://g0v.tw/event/
             * 數位解決方案
                 *  目前的項目大約有 40 個，用字有點口語化XD
             * 108 課綱對照表
-                * 
             * 政府端的標籤
                 *  專案內容對應到 監察院、立法院、水利單位（包含水利署、地方政府水利局處）
 
@@ -133,9 +135,9 @@ https://g0v.tw/event/
 + 新增 chewei 整理的 SDGs、數位解方標籤到 AWS 欄位
 
 
-### Slack 歡迎詞
+### Slack 歡迎詞 & bot 對話功能
 
 工作文件 
 * https://g0v.hackmd.io/jg7YTX4sTN6eFNqZc0Za7g
-* 可參考 Code for Japan, Code for ALL 的歡迎詞
+* 可參考 Code for Japan, Code for ALL 的歡迎詞以及 bot 功能
     * https://g0v.hackmd.io/5oqT3zO8Rdq_pX46h7fEig
