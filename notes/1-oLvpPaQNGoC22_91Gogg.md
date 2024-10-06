@@ -89,6 +89,10 @@ g0v 社群由「人、坑、松、源」組成，如何讓參與者容易串連�
 https://g0v.tw/novice/
 文字版工作共筆 https://g0v.hackmd.io/f5sglkAtQhGek85KLppwHA
 
+### g0v.tw 活動資訊
+https://g0v.tw/event/
+文字版工作共筆 https://g0v.hackmd.io/@suryazze/rJXwNpJyyx
+
 ### 專案清單彙整更新
 * 工作共筆：https://g0v.hackmd.io/_5ze8ubgR1a8PeolhyVMpg
 * 預計整合：g0v database google spreadsheet，有包含專案基本欄位、SDGs 領域標記結果、專案圖鑑簡報、數位解方對照表、108 課綱對照表、憲政五院架構、公民科技獎助金獲獎專案、零時小學校專案孵化清單、AI Grant 獲選專案
@@ -96,7 +100,16 @@ https://g0v.tw/novice/
 > [awesome g0v project 資料 csv](https://github.com/chunyenHuang/awesome-g0v-projects/blob/master/data/projects.csv)
 * 方向：
     * 基於 Aray 前後端系統，會將 專案清單 匯入建檔
-    * 建立「特定標籤欄位」 
+    * 所以我們可以著重在建立「特定標籤欄位」
+        * 已建立：SDGs 標籤架構（17 個項目與三個新增項目）
+        * 想建立：
+            * Technologies Used 專案選擇的技術方案或框架
+            * 數位解決方案
+                *  目前的項目大約有 40 個，用字有點口語化XD
+            * 108 課綱對照表
+                * 
+            * 政府端的標籤
+                *  專案內容對應到 監察院、立法院、水利單位（包含水利署、地方政府水利局處）
 
 ### ARAY/ Awesome g0v project 未來整合
 基礎松討論可整合、優化功能
@@ -122,6 +135,7 @@ https://g0v.tw/novice/
 
 ### Slack 歡迎詞
 
-工作文件
-* 也可參考 Code for Japan, Code for ALL 
+工作文件 
 * https://g0v.hackmd.io/jg7YTX4sTN6eFNqZc0Za7g
+* 可參考 Code for Japan, Code for ALL 的歡迎詞
+    * https://g0v.hackmd.io/5oqT3zO8Rdq_pX46h7fEig
