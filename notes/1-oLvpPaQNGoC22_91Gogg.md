@@ -83,15 +83,45 @@ g0v 社群由「人、坑、松、源」組成，如何讓參與者容易串連�
 
 ## 今日共筆 Note
 
-### 工作提議：專案清單彙整更新
-* 工作共筆：https://g0v.hackmd.io/_5ze8ubgR1a8PeolhyVMpg
-* 預計整合：g0v database google spreadsheet，有包含專案基本欄位、SDGs 領域標記結果、專案圖鑑簡報、數位解方對照表、108 課綱對照表、憲政五院架構、公民科技獎助金獲獎專案、零時小學校專案孵化清單、AI Grant 獲選專案
-> awesome g0v project 也有一份專案列表，也是 CSV 格式，不確定有沒有幫助，有把重複出現的專案跟坑主名稱做整併
-> [awesome g0v project 資料 csv](https://github.com/chunyenHuang/awesome-g0v-projects/blob/master/data/projects.csv)
  
 
 ### g0v.tw 新手指南
 https://g0v.tw/novice/
 文字版工作共筆 https://g0v.hackmd.io/f5sglkAtQhGek85KLppwHA
 
+### 專案清單彙整更新
+* 工作共筆：https://g0v.hackmd.io/_5ze8ubgR1a8PeolhyVMpg
+* 預計整合：g0v database google spreadsheet，有包含專案基本欄位、SDGs 領域標記結果、專案圖鑑簡報、數位解方對照表、108 課綱對照表、憲政五院架構、公民科技獎助金獲獎專案、零時小學校專案孵化清單、AI Grant 獲選專案
+> awesome g0v project 也有一份專案列表，也是 CSV 格式，不確定有沒有幫助，有把重複出現的專案跟坑主名稱做整併
+> [awesome g0v project 資料 csv](https://github.com/chunyenHuang/awesome-g0v-projects/blob/master/data/projects.csv)
+* 方向：
+    * 基於 Aray 前後端系統，會將 專案清單 匯入建檔
+    * 建立「特定標籤欄位」 
 
+### ARAY/ Awesome g0v project 未來整合
+基礎松討論可整合、優化功能
+
++ 參考 civitech https://directory.civictech.guide/
+    + 增加坑、提案的分類標籤 or 既有使用技術等資料
+    + civitech 頁面欄位：
+    + Categories
+    + Project Type
+    + Tags
+    + Open source
+    + Organization Type
+    + Countries
++ 參考 Find tech-for-good projects https://democracylab.org/projects
+    + Issue Areas
+    + Technologies Used
+    + Project Stage
+    + Roles Needed
+    + Organization Type
+    + Location
++ 新增 chewei 整理的 SDGs、數位解方標籤到 AWS 欄位
+
+
+### Slack 歡迎詞
+
+工作文件
+* 也可參考 Code for Japan, Code for ALL 
+* https://g0v.hackmd.io/jg7YTX4sTN6eFNqZc0Za7g

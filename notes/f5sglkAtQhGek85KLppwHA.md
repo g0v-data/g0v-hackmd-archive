@@ -1,6 +1,6 @@
 ---
 title: 新手指南文字版
-tags: infras, g0v.tw
+tags: infras, g0v.tw, 基礎松
 ---
 
 # 新手指南
@@ -34,10 +34,6 @@ g0v 許多成員來自開放原碼社群，我們鼓勵成果開放授權（Open
 > 目前有RWD 的問題所以手機版直接隱藏
 
 ## 四個連結圖片
-![Uploading file..._hmlcr1mkj]()
-![Uploading file..._hmlcr1mkj]()
-
-
 
 ## 參與活動
 - 常見問題
