@@ -135,8 +135,62 @@ http://dev.cofacts.tw/
 > https://g0v.hackmd.io/i1XNmK5_ShuBrkf3KHabcQ?view#Cloudflare-%E8%A8%AD%E5%AE%9A
 
 - Cloudflare 設定導致 downtime: https://hackmd.io/@cofacts/incidents?_gl=1*nx60y4*_ga*MTg0MzUwMzI5Ni4xNjAzMzkyNTAx*_ga_NGVZMM6DR6*MTcyODIzMzY4My4xMjA2LjEuMTcyODIzNTM2Mi41OC4xLjIwMzE2ODA5MDc.#20241001-1301---2121-LINE-bot-not-accesible
-- Audit logs: 
 
+> 有 `@A` 的就是 Alex 的 rule
+
+#### Analytics
+- Enabled Web analytics for Cofacts 
+
+#### Security > WAF > Custom rules
+
+- 將CF驗證過的Bots排除WAF@A：Verified bot category (去除 AI crawler 們)
+- 擋已知有威脅的國家@A
+- Challenge未列入白名單的國家@A（目前 disable 中）--> 由原本的 challenge foreign non-bot access 處理
+- 尋找Bot API Probing的Fallthrough Rule@A：skip，只是 log
+
+#### Security > WAF > Rate limiting rules
+- 擋已知惡意graphql DOS@A：特定 user agent 的 request，十秒內超過 25 request 就做 managed challenge
+
+#### Security > WAF > Managed rules
+==TBA==
+
+#### Security > WAF > Tools
+- Allow Cofacts Linode & LINE corp (whitelist)
+  - 有討論到為啥 Linode 內流量還要過 Cloudflare。主因是現在有部分服務在 Linode 內/外，而且未來會往外搬，要細部設定不划算。 [name=mrorz]
+
+
+#### Security > API Shield
+
+設定 `/graphql` 為 endpoint 做 logging
+
+#### Security > Settings
+
+- Challenge Passage: 5min -> 15min
+
+#### Speed / Optimization
+
+- Enabled [Speed Brain](https://developers.cloudflare.com/speed/optimization/content/speed-brain/)
+- Enabled [Enhanced HTTP/2 Prioritization](https://blog.cloudflare.com/better-http-2-prioritization-for-a-faster-web/)
+- Enabled [Mirage](https://developers.cloudflare.com/speed/optimization/images/mirage/)
+- Enabled QUIC (HTTP/3)
+
+
+#### SSL/TLS > Edge Certificates
+- Ordered Universal Certificate
+- Enabled [Encrypted Client Hello (ECH)](https://developers.cloudflare.com/ssl/edge-certificates/ech/)
+- 開啟 Automatic HTTPS Rewrites
+- 開啟 TLS 1.3
+
+#### Rules > Transform Rules > Managed Transforms
+
+==TBA==
+
+#### Rules > Cached rules
+- 測試把Origin動態HTML來源Override成Static@A：==TBA==
+- 測試把Home PNG Cache Miss Override成Hit@A：==TBA==
+
+#### Rules > [Compression rules](https://developers.cloudflare.com/rules/compression-rules/)
+- ZTSD compression on Default Content Types @A
 
 ## 小聚籌備
 
