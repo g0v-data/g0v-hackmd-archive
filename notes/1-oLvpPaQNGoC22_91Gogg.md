@@ -82,3 +82,16 @@ g0v 社群由「人、坑、松、源」組成，如何讓參與者容易串連�
 ![](https://i.imgur.com/ITLTxp6.png =300x200)
 
 ## 今日共筆 Note
+
+### 工作提議：專案清單彙整更新
+* 工作共筆：https://g0v.hackmd.io/_5ze8ubgR1a8PeolhyVMpg
+* 預計整合：g0v database google spreadsheet，有包含專案基本欄位、SDGs 領域標記結果、專案圖鑑簡報、數位解方對照表、108 課綱對照表、憲政五院架構、公民科技獎助金獲獎專案、零時小學校專案孵化清單、AI Grant 獲選專案
+> awesome g0v project 也有一份專案列表，也是 CSV 格式，不確定有沒有幫助，有把重複出現的專案跟坑主名稱做整併
+> [awesome g0v project 資料 csv](https://github.com/chunyenHuang/awesome-g0v-projects/blob/master/data/projects.csv)
+ 
+
+### g0v.tw 新手指南
+https://g0v.tw/novice/
+文字版工作共筆 https://g0v.hackmd.io/f5sglkAtQhGek85KLppwHA
+
+
