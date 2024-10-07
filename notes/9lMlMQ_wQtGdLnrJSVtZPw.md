@@ -378,3 +378,27 @@ Operating System Structure
 - 那麼就沒有通用的主機了（如 VMware ESX 和 Citrix XenServer）。
 Computing Environments - Virtualization
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_20eb481343bdef9efda7183eb1b8899b.PNG)
+**計算環境 - 雲計算**
+
+- 提供計算、存儲，甚至應用作為服務通過網絡進行交付。
+- 雲計算是虛擬化的邏輯延伸，因為它使用虛擬化作為其功能的基礎。
+- 例如，Amazon EC2 擁有數千台伺服器、數百萬個虛擬機器和可通過互聯網獲得的數PB的存儲，按使用量付費。
+- 雲計算的類型包括：
+  - **公共雲** – 通過互聯網提供給任何願意付費的人使用。
+  - **私有雲** – 由公司運行，用於公司的自身使用。
+  - **混合雲** – 包括公共雲和私有雲組件。
+  - **軟件即服務 (SaaS)** – 通過互聯網提供的一個或多個應用程序（例如，文字處理器）。
+  - **平台即服務 (PaaS)** – 可通過互聯網使用的軟件堆棧（例如，數據庫伺服器）。
+  - **基礎設施即服務 (IaaS)** – 可通過互聯網獲得的伺服器或存儲（例如，備份用的存儲）。
+- 雲計算環境由傳統操作系統、虛擬機管理器和雲管理工具組成。
+- 互聯網連接需要安全性，例如防火牆。
+- 負載均衡器將流量分配到多個應用程序中。
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ae1e6e45ca12742d83a45736d247a827.PNG)
+**開源操作系統**
+
+- 操作系統以源代碼格式提供，而不僅僅是二進制的閉源格式。
+- 這是對拷貝保護和數字權利管理（DRM）運動的反對。
+- 由自由軟體基金會（Free Software Foundation, FSF）發起，該基金會擁有「copyleft」的GNU公共許可證（GPL）。
+- 例子包括GNU/Linux和BSD UNIX（包括Mac OS X的核心），以及更多其他系統。
+- 可以使用虛擬機管理器（VMM），例如VMware Player（在Windows上免費提供）和VirtualBox（在多個平台上開源和免費，網址：http://www.virtualbox.com）。
+- 用於運行來賓操作系統以進行探索。

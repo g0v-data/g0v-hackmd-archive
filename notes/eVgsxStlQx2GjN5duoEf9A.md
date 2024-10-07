@@ -5,6 +5,8 @@ tags: rand0mth0n, hackathon
 # g0v Rand0mth11n 第拾壹次放輕松
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7b213c1143bc92ca17f4ed053af4a671.png)
 
+graphic generated with https://www.bratgenerator.com/
+
 
 :::info
 [↩️ 回到籌備文件](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/BkKFt38ZR/https%3A%2F%2Fg0v.hackmd.io%2F%40B9Iwh2UoQuuqL3vJQFC5lw%2Ftofus-rand0mth0n)
