@@ -8,8 +8,8 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- Workis 出席：
-- 線上出席：
+- Workis 出席：bil, mrorz
+- 線上出席：Conrad, T, nonumpa
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -30,104 +30,6 @@ https://github.com/cofacts/rumors-site/releases/tag/release%2F20241001
 
     Fix type for codegen by @MrOrz in #578
     Reply detail and article detail revamp for blocked content by @MrOrz in #579
-
-### :rocket: Staging
-
-#### :robot_face: rumors-line-bot
-
-##### Testing checklist
-
-https://lin.ee/1QUzEX4nI
-
-- [ ] 應可送出「全新訊息」
-    - [ ] 問訊息來源時選擇「我自己打的」會被擋下。
-    - [ ] 選擇「整篇轉傳」後會詢問是否要送出訊息。
-    - [ ] 不同意送出訊息後可以收到感謝。
-    - [ ] 同意送出訊息後就會送出訊息，並得到：
-        - [ ] Cofacts article page 按鈕
-        - [ ] 寫理由的按鈕
-        - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
-        - [ ] 「分享到 Facebook」、「分享到 LINE」且可以正常運作
-    - [ ] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
-    - [ ] 可以再打開理由視窗，此時會載入上次填寫的理由。修改理由送出後，查看 article page 看理由是否有被送出。
-
-- [ ] 送出「沒回應」的舊訊息，應可送出新理由
-    - [ ] 文章的「N 人回報」應該仍然要 + 1（除非測試者已經針對該篇送過 reply request）。
-    - [ ] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
-    - [ ] 可以修改理由送出。查看 article page 看理由是否有被送出。
-    - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
-
-- [ ] 送出「有回應」的舊訊息，應自動回傳回應
-    - [ ] 應列出訊息所有的回應
-    - [ ] 選擇回應之後可以幫回應 upvote
-    - [ ] 可以再次選擇 downvote
-    - [ ] 選完回應之後，還可以捲回去選其他回應
-    - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
-
-- [ ] Rich menu 測試
-    - [ ] 「設定」更改後再次打開，應該會保留原本設定
-    - [ ] 「教學」可以觸發教學流程
-
-##### ⛔️ Release Blockers
-##### 未竟項目
-
-#### :globe_with_meridians: Site
-##### Testing checklist
-http://dev.cofacts.tw/
-
-**未登入**下檢測：
-
-- [ ] Article list
-  - [ ] Filter works
-  - [ ] Sorting works
-  - [ ] Can go to article page
-- [ ] Replies list
-  - [ ] Filter works
-    - [ ] 不允許選擇 Replied by me
-  - [ ] Sorting works
-  - [ ] Can go to article page
-  - [ ] 不允許 upvote / downvote replies
-  - [ ] Can see vote reasons
-- [ ] Hoax for you
-  - [ ] Filter works
-  - [ ] Can go to article page
-- [ ] Article detail
-  - [ ] Can see similar messages
-  - [ ] Cannot submit, upvote, downvote reply request
-  - [ ] Cannot submit, upvote, downvote reply
-  - [ ] Cannot add, remove, upvote, downvote category
-- [ ] Search
-  - [ ] Can use global search to perform search
-  - [ ] Can use textarea in header to perform searchs
-     - Known issue: firefox 無法
-  - [ ] Can list searched articles
-    - [ ] Filter works
-    - [ ] Can go to article page
-  - [ ] Can list searched replies
-
-登入自有帳號後檢測：
-- [ ] Replies search page
-  - [ ] can upvote / downvote replies
-- [ ] Replies list
-  - [ ] 可選擇 Replied by me
-  - [ ] can upvote / downvote replies
-- [ ] Article detail
-  - [ ] Can submit, upvote, downvote reply request
-  - [ ] Can submit, remove own reply
-  - [ ] Can upvote, downvote other's article reply
-  - [ ] Can add, remove, upvote, downvote category
-- [ ] Can go to profile page on menu
-    - [ ] Can edit own name, bio, URL
-    - [ ] Can see own replies
-- [ ] Can logout
-
-##### ⛔️ Release Blockers
-
-##### 未竟項目
-
-
-### :eye: Under review
-
 
 ## CCPRIP
 
@@ -213,11 +115,19 @@ http://dev.cofacts.tw/
 
 過去做法
 - 先把 article 標成 blocked
-- 移置
+- 移置 Github 公告：https://github.com/cofacts/takedowns/blob/a1f0cacf065693eabb76553947a10357000bc8ba/2024/0318-investment.md?plain=1
+
 
 考量點
-- 公共性：確實有詐騙疑慮
-- （自稱是傳訊息的人）來信
+- 公共性：確實有詐騙疑慮，留存原文有助於讓人從 google 就能知道，在某個時間點有人收到這個詐騙
+- （自稱是傳訊息的人）來信者的要求
+
+怎麼做？
+- 重發圖？本來的 article 繼續 blocked [name=bil]
+    - 原圖有正確的時間
+    - 新送進來的公開
+    - 但感覺會讓人誤解說這圖真的在 LINE 廣傳 [name=mrorz]
+- 移置：也不會被人搜尋到
 
 ### Action items
 
@@ -225,10 +135,10 @@ http://dev.cofacts.tw/
 
 ## 小聚籌備
 
-- [ ] 日期：10/27 (日)
+- [x] 日期：10/27 (日)
 - [ ] 食物：
-- [ ] 場地：NPO Hub Foundry（大的那間)
-- [ ] 時間：
+- [x] 場地：NPO Hub Foundry（大的那間)
+- [x] 時間：
 	- 活動時間：14:00 - 17:00
 	- 時間分配
         - 2:00 - 2:20 開場
@@ -241,13 +151,13 @@ http://dev.cofacts.tw/
         - 3:40 - 4:10 介紹撰寫新回應
         - 4:10 - 4:40 實作撰寫新回應
         - 4:40 - 5:00 介紹分類、RSS、合照
-- [ ] 投放目標：
-  - 推播日：
+- [x] 投放目標：
+  - 推播日：10/14 (2週前)
   - 目標：雙北
-- [ ] KKTIX: https://cofacts.kktix.cc/events/cofactseditor44
-- [ ] 誰會來呢：bil,orz,nonumpa
+- [x] KKTIX: https://cofacts.kktix.cc/events/cofactseditor44
+- [x] 誰會來呢：bil,orz,nonumpa,Conrad
 - [ ] 記得帶：貼紙、環保杯
-- [ ] LINE 文案：唯恐天下不亂的老牌假訊息又出現了，聲稱「美國聯邦調查局在麥當勞肉類中發現人類遺骸」十年前的假訊息歷久彌新。假訊息說「以為進入了火化程序，卻進入了食物鏈成為了別人的食物。」這種破壞食品安全與社會信任的假訊息惡意又瘋狂，還好有查核志工協助把關。邀請你的參與，10月27日(日)14:00-17:00，在台北NPO聚落二樓。第44次查核志工培訓工作坊期待你一起來加入協作＝Ｄ
+- [x] LINE 文案：唯恐天下不亂的老牌假訊息又出現了，聲稱「美國聯邦調查局在麥當勞肉類中發現人類遺骸」十年前的假訊息歷久彌新。假訊息說「以為進入了火化程序，卻進入了食物鏈成為了別人的食物。」這種破壞食品安全與社會信任的假訊息惡意又瘋狂，還好有查核志工協助把關。邀請你的參與，10月27日(日)14:00-17:00，在台北NPO聚落二樓。第44次查核志工培訓工作坊期待你一起來加入協作＝Ｄ
 地址：台北市中正區重慶南路三段2號二樓（最近的捷運站是中正紀念堂站2號出口）
 - [ ] VOOM 發文
 - [ ] FB 發文
