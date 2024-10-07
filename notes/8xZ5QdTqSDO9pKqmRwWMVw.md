@@ -255,3 +255,16 @@ http://dev.cofacts.tw/
 
 - 10/14 取消
 - 10/21 線上開會，同一時間
+
+## Honeypot 討論
+
+> https://g0v.hackmd.io/hk1v8Ka5TCmIZinQ6zKU9Q
+
+- `isUserBlocked` is already [cookie-based](https://github.com/cofacts/rumors-site/pull/457/files), but
+    - When SSR, rumors-site cookie 給 API
+    - API: [only reads user, does not read client cookie header](https://github.com/cofacts/rumors-api/blob/7b2d03a09155fdbc5909c004ddde6433f1fe260f/src/util/user.js#L243)
+    - As a result, honeypot user will see what normal users see when logged out
+- Change proposal
+    - API should read `isUserBlocked` cookie [here](https://github.com/cofacts/rumors-api/blob/7b2d03a09155fdbc5909c004ddde6433f1fe260f/src/util/user.js#L243)
+    - This may not change SSR behavior, but should work when navigating from list
+- Should get back to work on [automated removal](https://g0v.hackmd.io/@cofacts/rd/%2Fum7DyY_ESbu2LL78kLw3pg%3Fboth)
