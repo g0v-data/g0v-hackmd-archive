@@ -199,6 +199,25 @@ http://dev.cofacts.tw/
 #### Rules > [Compression rules](https://developers.cloudflare.com/rules/compression-rules/)
 - ZTSD compression on Default Content Types @A
 
+## Takedowns
+
+- 20240625 明確為二次詐騙 https://github.com/cofacts/takedowns/pull/128/files
+  - 以 CofactsWG 信箱聯繫
+  - 有填寫下架表單
+  - 連續寄信來拜託刪除整篇文，聲稱「明天開庭會被偵查到」、「不想有麻煩」等語，並要求「把律師事務所的名字刪除」
+- 20241006 用語與過往吸金案例有相同之處 https://github.com/cofacts/takedowns/pull/136
+  - 以 CofactsWG 信箱聯繫
+  - 兩人填寫下架表單，一人自稱傳訊息的使用者，另一人自稱委任人的助理
+  - 後者應是真人，聲稱受任人得知合約公開非常生氣並揚言提告
+  - 傳訊息進來的人表示對方「找上他」不希望「節外生枝」
+
+過去做法
+
+
+考量點
+- 公共性：確實有詐騙疑慮
+- （自稱是傳訊息的人）來信
+
 ## 小聚籌備
 
 - [ ] 日期：10/27 (日)
@@ -231,4 +250,3 @@ http://dev.cofacts.tw/
 
 - 10/14 取消
 - 10/21 線上開會，同一時間
-
