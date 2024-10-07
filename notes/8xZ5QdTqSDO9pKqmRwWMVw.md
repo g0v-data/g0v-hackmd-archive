@@ -218,6 +218,10 @@ http://dev.cofacts.tw/
 - 公共性：確實有詐騙疑慮
 - （自稱是傳訊息的人）來信
 
+### Action items
+
+- [ ] 優先實作 https://github.com/cofacts/rumors-line-bot/issues/394
+
 ## 小聚籌備
 
 - [ ] 日期：10/27 (日)
