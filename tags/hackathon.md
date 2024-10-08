@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v Rand0mth11n 第拾壹次放輕松](../notes/eVgsxStlQx2GjN5duoEf9A.md) | 2024-10-07T15:39:24+08:00 | 2024-10-07T13:49:35+08:00 |
-| 2 | [放輕松 Rand0mth0n 大全](../notes/2kuizcrmQOGOVDaQ0woAAg.md) | 2024-10-07T13:49:35+08:00 | 2024-04-25T00:55:29+08:00 |
+| 1 | [放輕松 Rand0mth0n 大全](../notes/2kuizcrmQOGOVDaQ0woAAg.md) | 2024-10-08T12:32:56+08:00 | 2024-04-25T00:55:29+08:00 |
+| 2 | [g0v Rand0mth11n 第拾壹次放輕松](../notes/eVgsxStlQx2GjN5duoEf9A.md) | 2024-10-07T15:39:24+08:00 | 2024-10-07T13:49:35+08:00 |
 | 3 | [Rand0mTh10n with g0v Jothon｜與揪松的第拾次放輕松](../notes/R781rLPjQqu5VNbyHTjZuw.md) | 2024-09-24T10:07:33+08:00 | 2024-09-22T16:28:28+08:00 |
 | 4 | [DigiResiTh10n 第拾次數位韌性松](../notes/uLwn1o0AQ-qikfUdyPVbrw.md) | 2024-09-21T16:48:28+08:00 | 2024-09-06T09:20:59+08:00 |
 | 5 | [Rand0mTh9n with g0v Jothon｜與揪松的第玖次放輕松](../notes/jjuwA751T7G2kVIvzD2p9Q.md) | 2024-09-10T21:24:06+08:00 | 2024-09-06T21:25:45+08:00 |
