@@ -26,6 +26,7 @@ tags: GIS
     - https://www.nccu.edu.tw/p/406-1000-14524,r17.php?Lang=zh-tw
 - 臺北市士林區建業路 7 號 https://photos.app.goo.gl/kCvv61Jbby4xhs7E9
 - 大雪山森林遊樂區遊客中心 https://www.facebook.com/groups/birdwindowcollision/posts/1367090184006435/
+- 觀霧遊客中心 https://www.facebook.com/share/p/ok24n2ZeVAYDhiNd/
 - 阿里山 https://www.facebook.com/share/p/eAJscfGi1jRdzLMR/
 - 中興大學 https://www.facebook.com/share/p/3xcNeh5V9TvbV9QH/
 - 雄女 https://www.facebook.com/groups/birdwindowcollision/posts/1363931294322324/
