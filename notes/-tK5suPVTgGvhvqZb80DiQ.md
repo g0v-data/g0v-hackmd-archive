@@ -45,7 +45,7 @@ https://github.com/g0v/landing-page/tree/community_insights
     - 目前用的 tags: `insights for g0v.tw`
     - 目前遇到問題：無法自動抓到編輯者
 - [ ] 發文教學（要雙語版）：[如何寫一篇心得分享文 - HackMD](https://g0v.hackmd.io/YUhZ_ApjRX6-AtqC6M1qvw)
-- [x] 用 slack 當資料來源可行嗎？
+- [ ] 用 slack 當資料來源可行嗎？
     - 優點：利用 slack 的資料，可以抓到照片、名字等資訊，會比抓 hackmd 資料簡單
     - 缺點：發文門檻比較低，有被大量發文、洗版的疑慮。
 
