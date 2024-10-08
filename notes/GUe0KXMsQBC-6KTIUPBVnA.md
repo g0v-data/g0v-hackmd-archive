@@ -20,6 +20,11 @@ tags: vtaiwan
 - 主題：
 - 使用的數位工具：polis 
 - [1031議題小聚活動共筆](/N79b1M_qQOeVOMCLfqJBFQ)
+- 想要邀請的人：
+    - 雨蒼
+    - 恩恩
+    - 蔡淑芳
+    - irvin 
 
 ## 緣起：
 - [0717小松](/W1B9c6zkQvWgEVwfySsgfw)
