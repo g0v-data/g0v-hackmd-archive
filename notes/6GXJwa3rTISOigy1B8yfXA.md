@@ -1,7 +1,6 @@
 <p dir="ltr"><img src="https://scontent.fdad3-6.fna.fbcdn.net/v/t39.30808-6/462441507_975910780968111_7927995109969926750_n.jpg?stp=dst-jpg_s960x960&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=cc71e4&amp;_nc_ohc=QbD_VpG6y4kQ7kNvgFxeWee&amp;_nc_ht=scontent.fdad3-6.fna&amp;_nc_gid=AWsNGVk27hfpGPMLj0rf-yK&amp;oh=00_AYB47RoYhdI4ZfjBBdVVoIOnXiYSa6qsYoOQIrSVm9Dujg&amp;oe=670B1B11" alt="" width="500" height="167" /></p>
 <p dir="ltr"><a href="https://ww88.claims/">Ww88</a> nổi tiếng l&agrave; c&aacute;c tr&ograve; chơi đổi thưởng thắng lớn như Casino, Game b&agrave;i, Bắn c&aacute;, Thể thao...Kh&ocirc;ng chỉ c&oacute; h&agrave;ng trăm tr&ograve; chơi, WW88 c&ograve;n gửi tặng nhiều phần thưởng v&agrave; khuyến m&atilde;i cho c&aacute;c th&agrave;nh vi&ecirc;n của m&igrave;nh.</p>
 <p dir="ltr">Với giao diện th&acirc;n thiện v&agrave; dễ sử dụng, người chơi c&oacute; thể dễ d&agrave;ng tham gia v&agrave;o c&aacute;c tr&ograve; chơi đa dạng như nổ hũ, baccarat, v&agrave; slot game với tỷ lệ trả thưởng hấp dẫn. WW88 cam kết mang đến trải nghiệm an to&agrave;n v&agrave; c&ocirc;ng bằng, với hệ thống bảo mật hiện đại.&nbsp;</p>
-<p dir="ltr">#ww88 #ww88casino #nhacaiww88 #ww88claims </p>
 <p dir="ltr"><strong>Th&ocirc;ng tin li&ecirc;n hệ:&nbsp;</strong></p>
 <p dir="ltr"><strong>Địa chỉ</strong>: 1025/8D Đ. C&aacute;ch Mạng Th&aacute;ng 8, Phường 7, T&acirc;n B&igrave;nh, Hồ Ch&iacute; Minh, Việt Nam</p>
 <p dir="ltr"><strong>Hotline:&nbsp;</strong> 0832641402</p>
