@@ -72,6 +72,7 @@ https://www.facebook.com/share/p/AkukN5WcZXfFXRJ4/
 
 臺北 忠誠路士東路路口
 https://www.facebook.com/share/p/8QFfGDPyTnuj3ywu/
+https://www.facebook.com/share/v/QKNqdAvtoNMxatcy/
 
 臺北，有設置左轉道
 林森北路
