@@ -5,3 +5,16 @@ Phone : 0978589986
 Mail : admin78win@gmail.com
 Website : https://78winn.city/
 #78win #trangchu78win nhacai78win #78wincasino
+https://www.facebook.com/78winsoccer/
+https://www.youtube.com/@78winsoccer
+https://x.com/78winsoccer
+https://www.pinterest.com/78winsoccer/
+https://www.linkedin.com/in/78winsoccer/
+https://www.tumblr.com/78winsoccer
+https://vimeo.com/78winsoccer
+https://www.reddit.com/user/78winsoccer/
+https://soundcloud.com/78win-soccer
+https://www.quora.com/profile/78win-Soccer
+https://www.scoop.it/topic/78win-soccer?curate=true&onb=1&loader=1
+https://glose.com/u/78winsoccer
+https://500px.com/p/78winsoccer?view=photos
