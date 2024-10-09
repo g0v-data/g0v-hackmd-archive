@@ -30,7 +30,7 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
     - [ ] Update session title & description
     - [ ] Add personal info to proposal
         - [ ] @mami
-        - [ ] @eunsoo
+        - [x] @eunsoo
         - [ ] @klou
         - [ ] @nao
         - [x] @chihao
