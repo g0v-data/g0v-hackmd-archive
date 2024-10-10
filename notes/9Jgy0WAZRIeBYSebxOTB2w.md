@@ -90,7 +90,9 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
 > first draft finished 2024.10.4
 > pending review
 
-### Title: 5 Years Facing the Ocean: Advancing Rights to Information, Gender Equality, Youth Engagement in East Asia
+### Title: 
+
+5 Years Facing the Ocean: Advancing Rights to Information, Gender Equality, Youth Engagement in East-Asia (15 words)
 
 ### Description
 
