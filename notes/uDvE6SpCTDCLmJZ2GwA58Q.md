@@ -75,6 +75,7 @@ tags: 新生流域
     - 1938 照片 現今 中正國小 https://www.facebook.com/share/p/e6cWnonp5iqfq8UW/
     - 照片，莒光路 93 巷，https://www.facebook.com/share/p/RYrsD7EgmGJxZFCY/
     - 陳永成公廳 https://www.facebook.com/photo.php?fbid=10150261926963618&id=747873617&set=a.10151834790708618&mibextid=qC1gEa
+    - 大浪泵溪 https://www.facebook.com/share/p/ki8m7BEEv2vCjkP8/
     - 1900 照片，北門與護城河 https://www.facebook.com/share/p/QXoJXgeDdtwuDSAu/
     - 1930 古亭市場 http://linchunsheng.blogspot.com/2011/02/blog-post_05.html
     - 住宅 https://www.facebook.com/share/p/Nn41VWhUuaLkPzra/?mibextid=WC7FNe
