@@ -31,7 +31,7 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
     - [ ] Add personal info to proposal
         - [ ] @mami
         - [x] @eunsoo
-        - [ ] @klou
+        - [x] @klou
         - [ ] @nao
         - [x] @chihao
     - [x] Confirm preferred session date
@@ -42,12 +42,11 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
     - early bird ends ==Dec 3==
     - chihao has the discount codes
         > There are 4 discount codes: 25%, 50%, 75%, 100%-off, 1 ticket each [name=chihao]
-    - [ ] @mami
-    - [ ] @eunsoo
-    - [ ] @klou
-    - [ ] @nao
-    - [ ] @chihao
-        > I am local so I can use the 25% discount or not at all :) [name=chihao]
+    - [ ] @mami -25% - 24534RC25
+    - [ ] @eunsoo -50% or 75 - 24534RC50
+    - [ ] @klou -50% or 75 - 24534RC75
+    - [ ] @nao -100% - 24534RC100
+    - [x] @chihao
 - [ ] Plan travel + hotel early
     - [ ] @mami - I live in Osaka/Tokyo and will go from KIX or HND
     - [ ] @eunsoo
@@ -91,7 +90,7 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
 > first draft finished 2024.10.4
 > pending review
 
-### Title: 5 Years Facing the Ocean: Advancing Rights to Information, Gender Equality, Youth Participation in East Asia
+### Title: 5 Years Facing the Ocean: Advancing Rights to Information, Gender Equality, Youth Engagement in East Asia
 
 ### Description
 
@@ -99,9 +98,9 @@ Since 2019, participants and members of civic hacking communities in Japan (Code
 
 This session will present how it connects civic tech projects in East Asia advancing rights on information accessibility and integrity, gender equality, and youth engagement, working against government suppression, authoritarian interference, and (physical) cultural divides in our region.
 
-Examples include an anti-extradition law portal (2019), COVID-19 dashboards (2020-2021), community fact-checking (2019-now), AI-assisted open parliament websites (2023-now), women and LGBTQ rights tracker (2019-now), and joint student engagement inspiring the next generation of the civic hacking movement (2023-now).
+Examples include an anti-extradition law portal (2019), COVID-19 dashboards (2020-2021), community fact-checking (2019-now), AI-assisted open parliament websites (2023-now), women and LGBTQ rights tracker (since 2019), and joint student engagement inspiring the next generation of the civic hacking movement (2023-now).
 
-Presenters will then share preliminary cross-country comparisons on the status quo of the three rights among Japan, Korea, and Taiwan based on project outcomes and community feedback.
+Presenters will then share preliminary cross-country comparisons among Japan, Korea, and Taiwan based on Facing the Ocean project outcomes and community feedback.
 
 Slido will be used to collect questions and feedback during sharing. A facilitated open discussion will follow. A shared document will be used throughout the session to create meeting notes and formulate future collaboration.
 
