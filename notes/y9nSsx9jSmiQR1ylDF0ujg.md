@@ -57,6 +57,10 @@ tags: 新生流域, GIS
 
 - 水溝蓋設置攔汙裝置 https://www.facebook.com/share/iTUDkQnbQPtFh1kr/
 
+
+- 定點垃圾蒐集系統 https://www.facebook.com/share/v/ceNQXW49RrLscZvs/
+
+
 ---
 
 ## 民間簡易檢測
