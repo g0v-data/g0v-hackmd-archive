@@ -22,17 +22,17 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
 
 ### Todo list for speakers and facilitator
 
-- [ ] Update session info ==must before Oct 13==
+- [x] Update session info ==must before Oct 13==
     - [x] Confirm speakers
         - [x] Nao (Confirmed!)
         - [x] Klou (Confirmed!)
     - [x] Add collaborators
-    - [ ] Update session title & description
-    - [ ] Add personal info to proposal
-        - [ ] @mami
+    - [x] Update session title & description
+    - [x] Add personal info to proposal
+        - [x] @mami
         - [x] @eunsoo
         - [x] @klou
-        - [ ] @nao
+        - [x] @nao
         - [x] @chihao
     - [x] Confirm preferred session date
 - [x] Make collab slides
