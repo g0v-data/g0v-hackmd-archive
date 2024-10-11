@@ -1,8 +1,6 @@
-"98win là nhà cái trực tuyến nổi bật, cung cấp nhiều loại hình cá cược như Casino, Thể thao, và Slot games. Với giao diện thân thiện, bảo mật cao và nhiều ưu đãi hấp dẫn, 98win đem đến trải nghiệm giải trí chất lượng và an toàn cho người chơi.
-Thông tin liên hệ: 
-Địa chỉ: 88 Lưu Quý Kỳ, Hoà Cường Nam, Hải Châu, Đà Nẵng, Việt Nam
-Email: 98win.educaticon@gmail.com
-Phone: 0968789889
-Zipcode: 550000
-Website: https://98win.education/
-Hashtag:  #98win #nhacai98win #trangchu98win #98wineducation"
+"Lode88 - Thế giới cá cược đỉnh cao. Khám phá vô vàn trò chơi hấp dẫn từ lô đề, casino, thể thao đến slot game. Lode88 không chỉ là nơi để bạn thử vận may mà còn là không gian giải trí tuyệt vời. Tham gia ngay để trải nghiệm sự khác biệt và nhận nhiều phần quà giá trị!
+Website: https://lode888.asia/ 
+Hashtags: #lode88 #lode888asia #dang_nhap lode88 #trang_chu lode88#ca-cuoc-lode88
+Email: lode888asia@gmail.com
+Hotline: 0928946278
+Địa chỉ: 286 Nguyễn Xiển, Trường Thạnh, Quận 9, Thành phố Hồ Chí Minh"
