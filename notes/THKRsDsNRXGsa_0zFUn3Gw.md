@@ -55,7 +55,7 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
 ## 2023/9/12
 :::info
 **2023/9/12 更新**
-- FB 編輯名單：陳宏學, 陳人和, Lisa Lin-Kuanyu, Chia-liang Kao, 瞿筱葳, 謝長恩, Tiff, Ying, Yi Huang, Ronny Wang, Chihao
+- FB 編輯名單：大助, 陳人和, Lisa Lin-Kuanyu, Chia-liang Kao, ipa, tmonk, Tiff, Ying, Yi Huang, Ronny Wang, Chihao
 - Twitter 編輯名單：clkao, ronnywang, tiff, ying
 - IG 編輯名單：ronnywang, tiff, ying, chihao, Yi
 :::
