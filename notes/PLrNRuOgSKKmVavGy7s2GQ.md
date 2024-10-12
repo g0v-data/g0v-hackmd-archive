@@ -18,8 +18,8 @@ Hastag: #23win #23winnetwork #23wincasino #nhacai23win
 <a href="https://www.tumblr.com/23winnetwork">https://www.tumblr.com/23winnetwork</a>
 <a href="https://www.quora.com/profile/23win-Network">https://www.quora.com/profile/23win-Network</a>
 
-<a href="https://illust.daysneo.com/illustrator/23winnetwork/">https://illust.daysneo.com/illustrator/23winnetwork/</a>
-<a href="https://www.stylevore.com/user/a23winnetwork">https://www.stylevore.com/user/a23winnetwork</a>
-<a href="https://savelist.co/my-lists/users/23winnetwork">https://savelist.co/my-lists/users/23winnetwork</a>
-<a href="https://abp.io/blog/members/23winnetwork">https://abp.io/blog/members/23winnetwork</a>
-<a href="https://www.servinord.com/phpBB2/profile.php?mode=viewprofile&u=655653">https://www.servinord.com/phpBB2/profile.php?mode=viewprofile&u=655653</a>
+<a href="https://glitch.com/@23winnetwork">https://glitch.com/@23winnetwork</a>
+<a href="https://golosknig.com/profile/23winnetwork/">https://golosknig.com/profile/23winnetwork/</a>
+<a href="https://justpaste.it/afj66">https://justpaste.it/afj66</a>
+<a href="https://connect.garmin.com/modern/profile/ac630af9-7d32-42c3-a829-d96026e54299">https://connect.garmin.com/modern/profile/ac630af9-7d32-42c3-a829-d96026e54299</a>
+<a href="https://www.algebra.com/tutors/aboutme.mpl?userid=23winnetwork">https://www.algebra.com/tutors/aboutme.mpl?userid=23winnetwork</a>
