@@ -2,10 +2,10 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [vtaiwan 與TWNIC 合作](../notes/g4UGYbeLSt2hfkXhBCLPOg.md) | 2024-10-11T17:21:40+08:00 | 2024-09-05T10:16:05+08:00 |
-| 2 | [vTaiwan](../notes/eAfMtTaESfC4pi-GkHoDXg.md) | 2024-10-09T14:57:46+08:00 | 2024-10-09T14:56:20+08:00 |
-| 3 | [vTaiwan議題小聚](../notes/GUe0KXMsQBC-6KTIUPBVnA.md) | 2024-10-08T16:36:45+08:00 | 2024-07-17T19:48:55+08:00 |
-| 4 | [1031議題小聚活動討論共筆](../notes/N79b1M_qQOeVOMCLfqJBFQ.md) | 2024-10-08T16:31:33+08:00 | 2024-10-08T15:07:52+08:00 |
+| 1 | [1031議題小聚活動討論共筆](../notes/N79b1M_qQOeVOMCLfqJBFQ.md) | 2024-10-13T12:47:06+08:00 | 2024-10-08T15:07:52+08:00 |
+| 2 | [vtaiwan 與TWNIC 合作](../notes/g4UGYbeLSt2hfkXhBCLPOg.md) | 2024-10-11T17:21:40+08:00 | 2024-09-05T10:16:05+08:00 |
+| 3 | [vTaiwan](../notes/eAfMtTaESfC4pi-GkHoDXg.md) | 2024-10-09T14:57:46+08:00 | 2024-10-09T14:56:20+08:00 |
+| 4 | [vTaiwan議題小聚](../notes/GUe0KXMsQBC-6KTIUPBVnA.md) | 2024-10-08T16:36:45+08:00 | 2024-07-17T19:48:55+08:00 |
 | 5 | [1002小松](../notes/KIHEmJJHQIKqf1d2Vb8xXg.md) | 2024-10-02T20:07:56+08:00 | 2024-09-26T20:16:22+08:00 |
 | 6 | [訪談共筆](../notes/qFQk8OaGROyqBuzf8UUe5A.md) | 2024-09-29T12:05:07+08:00 | 2024-07-18T16:23:16+08:00 |
 | 7 | [vTaiwan經費使用提案：贊助社群成員參加 RightsCon](../notes/Jk24xr4DQgSB-5gKgMRK6Q.md) | 2024-09-26T20:42:14+08:00 | 2024-09-26T20:33:04+08:00 |
