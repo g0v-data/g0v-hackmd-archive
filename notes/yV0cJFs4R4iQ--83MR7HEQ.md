@@ -62,6 +62,22 @@ https://lin.ee/1QUzEX4nI
 - https://dev.cofacts.tw/article/8xHSHpIBUOXjqM1AvRND
   - 一樣有 group 但「雲之聲」是錯的 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0f8656a69e6164ee1ef7f980eb7cfa4a.png =x400)
 
+##### Analysis
+
+Debugging Google Cloud Logs Explorer query
+```
+(resource.type="cloud_run_revision" AND resource.labels.service_name="dev-line-bot") OR (resource.labels.instance_id="rumors-api-staging" AND jsonPayload.message: "Apollo#requestDidStart")
+```
+
+https://dev.cofacts.tw/article/0RG7-pEBUOXjqM1AKBOd
+
+有問題的 cooccurrence 在 2024-09-23T12:13:40.214Z 時建立, 5 messages
+- ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a767f26e67e36df0f981658358055b1e.png)
+- ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b13ced3bccfde295ba83935d2b3aca85.png)
+- 選擇要查看的訊息：
+  - yRGx-pEBUOXjqM1ArxO7 逐字稿內的字, 100% 像
+  - 
+
 
 
 ##### 未竟項目
