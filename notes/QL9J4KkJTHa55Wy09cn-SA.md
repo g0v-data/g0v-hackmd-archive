@@ -113,3 +113,6 @@ https://www.facebook.com/share/m4QcPqw7ToNxxRJX/
 
 芬蘭外型的湖泊
 https://youtube.com/shorts/KbQP3IzC_Q4
+
+印尼  
+https://www.facebook.com/share/p/RjvMaW56UTEKY8e5/
