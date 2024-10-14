@@ -7,3 +7,13 @@ tags: vtaiwan
 地點 Location ：線上 Online
 參與者 Participants：
 線上參與連結 / Link：https://meet.jit.si/vTaiwan
+
+## 自我介紹與新手導覽
+- [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
+
+## 小小的分享
+- TFT 合作與討論分享 [name=peter]
+    - TFT 想要跟 vTaiwan 合辦議題小聚，從小規模的活動開始
+    - 
+- TWNIC 合作進度更新 [name=翊婷]
+- 
