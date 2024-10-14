@@ -14,6 +14,8 @@ tags: vtaiwan
 ## 小小的分享
 - TFT 合作與討論分享 [name=peter]
     - TFT 想要跟 vTaiwan 合辦議題小聚，從小規模的活動開始
-    - 
 - TWNIC 合作進度更新 [name=翊婷]
-- 
+
+## 10/31 議題小聚
+- 目前[活動](https://vtaiwan.kktix.cc/events/vtaiwanmeetup-1)已經架設完成！歡迎大家報名！
+-[polis 頁面]()也完成架設了
