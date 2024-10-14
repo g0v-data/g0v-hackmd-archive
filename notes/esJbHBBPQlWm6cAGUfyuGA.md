@@ -28,25 +28,28 @@ VSCode
 　aa.js
  
  hi.html＞＞
-1. 按！做宣告
- <!DOCTYPE html>
-```
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+ 按！做宣告!
+ body 打上文字如1223內容 live server可以即時顯現於網頁
+ script src可以連動js檔案
+ ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_39e85787e591c2eb004fc590e326a920.png)
 
-    <script src="aa.js"></script>
-</head>
-<body>
-1223
-    
-</body>
-</html>
-```
+aa.js內容
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_717981e404b6564688003774027d61c7.png)
+
+在網頁的地方右鍵 檢查
+補充:如果是英文小齒輪的設定可以改中文顯示
+控制台會秀出 123
 
 Node
+* 安裝後 檢視>終端(ctrl+`)
+* 在下方終端機處 打上node驗證是否安裝成功
+在資料夾下執行 node aa.js
+
+補充:我有發生錯誤找不到資料因為在不對的資料夾中
+可以打上cd 拉入資料夾跳入正確資料檔
+打ls 可以顯示你在的地方有什麼檔案看看位子對不對
+
 
 簡單程式 Hello World
 Runtime
