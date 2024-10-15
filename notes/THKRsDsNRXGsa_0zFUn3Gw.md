@@ -43,6 +43,12 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
     - Case: 
         - 20231122
             - https://g0v-slack-archive.g0v.ronny.tw/index/channel/CPKVDVD88/2023-11#ts-1700644906.904569
+## 2024/10/15
+:::info
+**2024/10/15 更新**
+- FB 編輯名單：Ronny, 張智仁, Yi, Peace, Lisa, 大助, Tiff, tmonk, ipa, clkao, chihao, Vivian Wu
+- 新增 Vivian Wu [討論記錄](https://g0v-slack-archive.g0v.ronny.tw/index/channel/CPKVDVD88/2024-10#ts-1728464691.086339)
+:::
 
 ## 2023/10/15
 :::info
