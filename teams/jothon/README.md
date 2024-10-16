@@ -322,3 +322,43 @@
 | [ntuweb3members](../../notes/vEEXxl5DSH2fBYMTAJN8Rw.md) | 【The Good Class 3.0】 台大資工｜去中心化應用程式之設計實務：課程夥伴 | 2023-02-22T00:13:02+08:00 | View mode |
 | [B14QIC-Aj](../../notes/nz6t-xZGT2WQfC0mD5u89Q.md) | 【實習生專訪】 g0v 揪松團 × 第六屆堉璘臺大人才培育計畫 | 2023-02-21T13:26:52+08:00 | View mode |
 | [HkTGhFg0s](../../notes/uKMz8NV_Scark5Mk4bbzXA.md) | 2023／04 大松命名 | 2023-02-20T13:58:45+08:00 | View mode |
+| [community99-2302](../../notes/QueowASrRsyGTFaKLr6Rbw.md) | g0v 社群每月九分鐘 - 2023/2 | 2023-03-08T16:51:49+08:00 | View mode |
+| [rk9ZjLXCj](../../notes/fmsntTzWTPCD1OcJld8mGQ.md) | 【臭皮匠來打怪】台中女中第四週課程資料（111學年下學期） | 2023-02-22T17:06:09+08:00 | View mode |
+| [BkTXKMWCi](../../notes/Y9goKZxNTpm3QPjcqlqS-w.md) | 【The Good Class 3.0】 台大資工｜去中心化應用程式之設計實務：第二週課堂資料 | 2023-02-21T00:00:36+08:00 | View mode |
+| [H1UnwZb0i](../../notes/17DeKuPlQVySYvqyGe44-A.md) | 【The Good Class 3.0】 台大資工｜去中心化應用程式之設計實務：第一週課堂資料 | 2023-02-20T22:46:06+08:00 | View mode |
+| [HJZZgT7jo](../../notes/0qbZYnAGTQqvQm05CDv85A.md) | 零時小學校 Ｘ NDI 合作討論紀錄 | 2023-01-17T14:28:08+08:00 | View mode |
+| [Hk-gPS11h](../../notes/2RWVgOYrRUOsTwvajuR1aQ.md) | 數位防禦與資訊安全 | 2023-03-03T18:07:36+08:00 | View mode |
+| [S1Gcrm1Jn](../../notes/sUBBg6rQStu4GqnxJqrhiQ.md) | 公民科技專案與 108 課綱對照表 | 2023-03-03T15:45:14+08:00 | View mode |
+| [B1PVvkACo](../../notes/yZu1KRH3RyWnAj73-MVMww.md) | g0v Hackath55n 活動流程 | 2023-03-02T17:06:54+08:00 | View mode |
+| [HJ-lqBgnq](../../notes/McVPC2t_QmCOZu0xZOjB0w.md) | 【The Good Class 3.0：數位協作工具】 協作共筆網站 HackMD 使用入門 | 2022-07-16T22:23:36+08:00 | Slide mode |
+| [HJxVM_zAj](../../notes/cBHpJz62Tx-4RNx08KUoLw.md) | 【 The Good Class 3.0 — 數位協作工具】 團隊溝通軟體 Slack 使用入門 | 2023-02-22T00:32:40+08:00 | Slide mode |
+| [BJPcXXWCo](../../notes/-KNuL44-Rse32KwSdsr3mw.md) | 【The Good Class 3.0】 台大資工｜去中心化應用程式之設計實務：期末專案模板 | 2023-02-21T00:45:03+08:00 | View mode |
+| [HypIkCx0i](../../notes/Xut0yZoVRWqsogWcr2GOvw.md) | 台大課程 The Good Class 3.0 簡易錄影流程 | 2023-02-20T18:45:40+08:00 | View mode |
+| [BkYAGk0pi](../../notes/jnYbPkoAQW2oOhaNWzk4XA.md) | g0v Hackath54n 台灣零時政府第伍拾肆次兔兔黑客松 松後推坑 | 2023-02-18T13:32:01+08:00 | View mode |
+| [Sy1cpRWWs](../../notes/NCoWinfeTISjVD-k-CeS3g.md) | g0v Hackath52n - 2022/10/22 g0v 十週年論壇 | 2022-09-16T19:27:02+08:00 | View mode |
+| [rJC3mDWci](../../notes/pXk-KhvfQMG9XiAaFu3_Aw.md) | g0v hackath54n - 第伍拾肆次兔兔黑客松 | 2023-01-03T16:13:42+08:00 | View mode |
+| [rk-qaipvs](../../notes/zPRuCunNSsimAZ1CrlbzWQ.md) | UniCourse 大學課程搜尋資料庫：零時先輩專案諮詢紀錄 | 2022-12-07T14:07:05+08:00 | View mode |
+| [-g0v-Community-Hangout-30th](../../notes/vmzW4iazT16SMTTiRT1B2g.md) | 第參拾次 g0v 揪松團 松前哈拉 | 2023-01-03T16:26:48+08:00 | View mode |
+| [Sk-CkCJ_zU](../../notes/8PGmuJkATlyD4Z7l6CvGQA.md) | 全台最大口罩地圖專案協力列表 | 2020-02-05T15:25:26+08:00 | View mode |
+| [community99-2301](../../notes/XQ7tGWlPRpGGwYFr_Ol17g.md) | g0v 社群每月九分鐘 - 2023/1 | 2023-02-06T15:37:16+08:00 | View mode |
+| [HyisHwbqi](../../notes/9eYDULK8TiCP7aI-KuSuAw.md) | g0v Hackath54n 活動流程 | 2023-01-03T16:21:54+08:00 | View mode |
+| [HyDW0jTwi](../../notes/-PNUwVOxS3iUPOEdNb3HlQ.md) | MeetTrol：零時先輩專案諮詢紀錄 | 2022-12-07T14:09:03+08:00 | View mode |
+| [sch001-2020](../../notes/OQse6P1pQIaIaEVrSD7iMA.md) | 零時小學校 Sch001, 2020 sch001.g0v.tw | 2020-01-17T17:34:22+08:00 | Book mode |
+| [ByFOhsTPo](../../notes/e9PdmVdbRfqb1SIuxTBasQ.md) | 翻轉歷史! 用Minecraft RPG 學歷史吧!：零時先輩專案諮詢紀錄 | 2022-12-07T14:02:24+08:00 | View mode |
+| [B1GyRjTwi](../../notes/EyjvpyCZQjCe_kDKrgckjw.md) | 參考書推薦平台：零時先輩專案諮詢紀錄 | 2022-12-07T14:08:26+08:00 | View mode |
+| [Hyv3aopDo](../../notes/BO9M85RLQeyRP4HqkaClpA.md) | 島島阿學學習社群-尋找夥伴專案：零時先輩專案諮詢紀錄 | 2022-12-07T14:07:42+08:00 | View mode |
+| [SkgG6oaws](../../notes/lEL3yM02Q82o84bXv-8rfA.md) | 書愛流動：零時先輩專案諮詢紀錄 | 2022-12-07T14:04:56+08:00 | View mode |
+| [SkkERspDj](../../notes/vwkInIGUSByVLLxeZEJUjg.md) | 星河計畫 (自學生經驗匯流)：零時先輩專案諮詢紀錄 | 2022-12-07T14:09:42+08:00 | View mode |
+| [H1Ah2jTwi](../../notes/KsviGPZASIaocYc4S0eGJQ.md) | 法規衝擊分析工具：零時先輩專案諮詢紀錄 | 2022-12-07T14:03:33+08:00 | View mode |
+| [BJi1poaPs](../../notes/nNxAdjTRRxKbLO8p1QnMLQ.md) | 平安走路許願帳戶--行人空間改善：零時先輩專案諮詢紀錄 | 2022-12-07T14:04:18+08:00 | View mode |
+| [ryUhgo6Do](../../notes/kqnvyGnFRISOj5ew2X1NPQ.md) | Rentea 長租剛好 - 永續租屋模式的市場研究：零時先輩專案諮詢紀錄 | 2022-12-07T13:12:13+08:00 | View mode |
+| [HyENpipvo](../../notes/j9Nl3ZV8RxuDr2KTxBl9wg.md) | Lipoic 來品一課：零時先輩專案諮詢紀錄 | 2022-12-07T14:05:32+08:00 | View mode |
+| [Hk1v6jaPs](../../notes/Irld-rZYQISdpBvm1TPWIg.md) | CiviCue：零時先輩專案諮詢紀錄 | 2022-12-07T14:06:14+08:00 | View mode |
+| [BkTAYoTPo](../../notes/2sqLO5CwSkejQ_93n4z-JA.md) | 零時小學校 2022-23 專案孵化競賽：零時先輩專案諮詢紀錄 | 2022-12-07T13:51:17+08:00 | Book mode |
+| [HyBiNcJ1o](../../notes/ZwLI9V36Tmi-jFXWVtb1hQ.md) | 影響力報告線上版，內容可以呈現什麼？ | 2022-08-21T19:18:53+08:00 | View mode |
+| [2023HappyNewYear🐰You](../../notes/cu5edi1dTuWNzjMNiFH75A.md) | 2023 g0v 揪松團賀年卡索取指南 | 2023-01-03T16:51:37+08:00 | View mode |
+| [Skv8PGV9o](../../notes/ENaVBTMSSCSIPwvCqXq9NQ.md) | 2023/2/11 零時小學校專案孵化競賽  決選日 | 2023-01-05T17:24:31+08:00 | View mode |
+| [r10vRTqKo](../../notes/eeh2dfDoS3ekHIvxMGJorw.md) | 2023／02 大松命名 | 2022-12-29T16:23:01+08:00 | View mode |
+| [HJLQoh8Fo](../../notes/vkXJqvt0TFWZt6lZ18ltnw.md) | g0v Hackath53n 台灣零時政府第伍拾參次 18 歲公民權黑客松 松後推坑 | 2022-12-26T14:11:42+08:00 | View mode |
+| [Hynfy0OBj](../../notes/6Xcw_ZPUQS6e0BxZs19awg.md) | g0v hackath53n - 第伍拾參次 18 歲公民權黑客松 | 2022-11-09T14:56:19+08:00 | View mode |
+| [-g0v-Community-Hangout-29th](../../notes/6hQsLw12TpWquMTcPF6cEw.md) | 第貳拾玖次 g0v 揪松團 松前哈拉 | 2022-11-09T15:48:02+08:00 | View mode |
