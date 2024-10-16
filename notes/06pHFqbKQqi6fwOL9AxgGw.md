@@ -97,6 +97,8 @@ https://g0v.hackmd.io/R_BhZDNNQ-C8CAoTJ58ZSg
 - 房租與自殺率
     - https://www.facebook.com/share/p/Cnnr4CGd3rzdbTJP/
     - https://www.facebook.com/share/p/vpXmR4jJ1vRwtzry/
+- 教育部釋出大學校內賃居資訊的歷年資料 https://opendata.cc-isac.org/publish/index.php
+
 
 倡議方式案例
 - 紐約民間團體針對租屋，發起的資料專案（該地點的歷史租金）、租客權益工具，[相關網址](https://www.facebook.com/story.php?story_fbid=pfbid0cJ9dT2CLNU2x2dhDfsdgp7spPPFvwJmHEHbrvEmnWDJCFFagaHw6pB7heut2fdgPl&id=1509819323)
