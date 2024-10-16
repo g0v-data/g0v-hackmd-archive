@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [rJebm39kt](../../notes/NGoyR10vSm6FuF37-K2znQ.md) | 財務 | 2021-08-06T21:02:47+08:00 | View mode |
 | [HkfMTufJke](../../notes/qU9DNpqPTlWHk7pp3Siixg.md) | 2024／11 大松命名 | 2024-10-08T17:36:09+08:00 | View mode |
 | [hackathon-name](../../notes/zyPgR_H6QwWBBgGXA6DYEA.md) | 大松命名 Bookmode | 2024-05-14T18:26:36+08:00 | Book mode |
 | [ry3D4p5j0](../../notes/GAVaoFnjT8qtYG7RMFhSHA.md) | g0v Hackath63n 活動流程 | 2024-08-27T11:13:40+08:00 | View mode |
@@ -142,7 +143,6 @@
 | [HyC55PgO6](../../notes/vDEZy9lnR2mNiuU-yDiqPg.md) | 自學力 製學例 實驗教育資源整合平台：零時先輩專案諮詢紀錄 | 2024-01-02T00:38:46+08:00 | View mode |
 | [BkPziveua](../../notes/L1AhRnoRQVOXNb06TtCGeQ.md) | 智能協同：輔協智能障礙者門市服務之混合實境技能訓練系統：零時先輩專案諮詢紀錄 | 2024-01-02T00:40:47+08:00 | View mode |
 | [SJ_jwS8Bp](../../notes/0wmsmNcZQwmo-ZiOtL0v1Q.md) | 議題團體如何參與 g0v 黑客松及社群 | 2023-12-01T01:34:23+08:00 | View mode |
-| [rJebm39kt](../../notes/NGoyR10vSm6FuF37-K2znQ.md) | 財務 | 2021-08-06T21:02:47+08:00 | View mode |
 | [SJiNlENrp](../../notes/c8VPa9xSR2aTONmVPmWqaA.md) | g0v Hackath60n 活動流程 | 2023-11-29T11:29:54+08:00 | View mode |
 | [HkCheXlw6](../../notes/Ea-f-g1YROSX0oHNYLQNuA.md) | 社群募款 Banner | 2023-12-20T16:07:18+08:00 | View mode |
 | [rktGJXOPa](../../notes/8yRbmaJGQK-hmTT-T_M_9Q.md) | g0v Hackath59n 台灣零時政府第伍拾玖次輪班寫 code 救台灣黑客松 松後推坑 | 2023-12-26T17:38:25+08:00 | View mode |
