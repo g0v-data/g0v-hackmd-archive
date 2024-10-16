@@ -82,6 +82,7 @@ CPU Switch From Process to Process
 - **CPU 密集型程序** – 花費更多時間在計算上，具有少數但較長的 CPU 執行週期。
 
 **長期排程器**的目標是保持良好的程序混合。
+**老師有問長期 短期 與中程 的不同之處**
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cb8e81c3689e645d6b9c49c4ce91d769.PNG)
 **上下文切換**
 
@@ -154,9 +155,9 @@ CPU Switch From Process to Process
 
 7. **等待終止**：父程序可以使用 `wait()` 系統調用等待子程序的終止。
 
-8. **僵屍程序**：如果沒有父程序在等待（未調用 `wait()`），則該程序成為**僵屍程序**（zombie）。
+8. **僵屍程序**：如果沒有父程序在等待（未調用 `wait()`），則該程序成為**僵屍程序**（zombie）。就是小孩發出終止信號 但父母沒有收到 或者沒有反應 家長就被稱為殭屍程式 但通常os會認為是合法情況 因此常被設計為惡意程式
 
-9. **孤兒程序**：如果父程序在未調用 `wait()` 的情況下終止，則該程序成為**孤兒程序**（orphan）。
+9. **孤兒程序**：如果父程序在未調用 `wait()` 的情況下終止，則該程序成為**孤兒程序**（orphan）。父母產生小孩之後就死翹翹了 所以小孩就變成孤兒
 ### 進程間通信（Interprocess Communication, IPC）
 
 系統中的進程可以是獨立的或是合作的。合作進程可以影響其他進程，或被其他進程影響，包括共享數據。
@@ -169,7 +170,8 @@ CPU Switch From Process to Process
 
 合作進程需要進程間通信（IPC），主要有以下兩種模型：
 
-### IPC 的兩種模型
+### IPC 的兩種模型 https://hackmd.io/@YiZjennnnn/OS_Note/https%3A%2F%2Fhackmd.io%2F%40YiZjennnnn%2Fipc_interprocess_communication?type=book
+
 1. **共享記憶體**（Shared Memory）：多個進程可以訪問同一段記憶體空間以進行數據共享。
 2. **消息傳遞**（Message Passing）：進程之間通過傳送和接收消息來進行通信。
 
@@ -179,7 +181,7 @@ CPU Switch From Process to Process
 
 這兩種模型各有優缺點，適用於不同的應用場景和需求。
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7707350344a229ebf463d797aaa5c545.PNG)
-### 生產者-消費者問題
+### 生產者-消費者問題(疑似會考的部分)
 
 這是一種合作進程的範例，其中生產者進程生成信息，並由消費者進程消耗這些信息。
 
