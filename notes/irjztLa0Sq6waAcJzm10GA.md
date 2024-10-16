@@ -1,64 +1,30 @@
-# **Difference Between @mixin and @extends in SASS and SCSS**
+# **Difference Between @mixin and @extends in SASS and SCSS
 
-**@mixin**
+# **@mixin**
 
 **Definition: @mixin allow you to create a style that can be reused throughout your style sheet. You can pass parameter to @mixin and add the required value when you are calling it, Mixins are included into the current context using the @include at-rule, which is written as @include <name> or @include <name>(<arguments...>), with the name of the mixin being included.**
 
-Example:
-```
-@mixing
-```
+**Example:**
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_51c3334e8d962007a0400fb34f92e854.png)
+
+# @extends
+
+**Definition: @extends allow one scss selector to inherit a style in another selector within the same style shit. it promote reuseability but its not as flexible as @mixin because it doesn't allow the use or agument or parameters which can promotes reuseability to another file. It’s open to errors from forgetting to include both classes, and it can bring non-semantic style concerns into your markup.**
+
+**Example:**
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1073b367db1f9bfdc77f8fa912e6a6de.png)
 
 
-:::
+# Block, Element and, Modifier(BEM)
 
-> Drag-n-drop image from your file system to the editor to paste it!
+BEM:This is a methodology that helps developer to create reusable components and code sharing in front‑end development and it also makes collaboration easier across teams.
 
-### Step 3: Invite your team to collaborate!
+Block: A block is a standalone component that is meaningful on its own. It can contain elements and modifiers.
 
-Click on the <i class="fa fa-share-alt"></i> **Sharing** menu :arrow_upper_right: and invite your team to collaborate on this note!
+Example: A header or card
 
-![permalink setting demo](https://i.imgur.com/PjUhQBB.gif)
-
-- [ ] Register and sign-in to HackMD (to use advanced features :tada: ) 
-- [ ] Set Permalink for this note
-- [ ] Copy and share the link with your team
-
-:::info
-:pushpin: Want to learn more? ➜ [HackMD Tutorials](https://hackmd.io/c/tutorials) 
-:::
-
----
-
-## BONUS: More cool ways to HackMD!
-
-- Table
-
-| Features          | Tutorials               |
-| ----------------- |:----------------------- |
-| GitHub Sync       | [:link:][GitHub-Sync]   |
-| Browser Extension | [:link:][HackMD-it]     |
-| Book Mode         | [:link:][Book-mode]     |
-| Slide Mode        | [:link:][Slide-mode]    | 
-| Share & Publish   | [:link:][Share-Publish] |
-
-[GitHub-Sync]: https://hackmd.io/c/tutorials/%2Fs%2Flink-with-github
-[HackMD-it]: https://hackmd.io/c/tutorials/%2Fs%2Fhackmd-it
-[Book-mode]: https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-create-book
-[Slide-mode]: https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-create-slide-deck
-[Share-Publish]: https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-publish-note
-
-- LaTeX for formulas
-
-$$
-x = {-b \pm \sqrt{b^2-4ac} \over 2a}
-$$
-
-- Code block with color and line numbers：
-```javascript=16
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
 
 - UML diagrams
 ```sequence
