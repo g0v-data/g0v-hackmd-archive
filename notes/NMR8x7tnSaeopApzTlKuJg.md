@@ -18,4 +18,7 @@ tags: vtaiwan
 
 ## 10/31 議題小聚
 - 目前[活動](https://vtaiwan.kktix.cc/events/vtaiwanmeetup-1)已經架設完成！歡迎大家報名！
--[polis 頁面]()也完成架設了
+-[polis 頁面](https://polis.tw/23hdpknnmh)也完成架設了
+- 目前宣傳要做的方向：
+    - 粉專與社群貼文 [name=lily]
+    - 個人分享 [name=peter](歡迎＋＋)

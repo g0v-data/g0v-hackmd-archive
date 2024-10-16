@@ -45,7 +45,7 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
     - [ ] @mami -25% - 24534RC25
     - [ ] @eunsoo -50% or 75 - 24534RC50
     - [ ] @klou -50% or 75 - 24534RC75
-    - [ ] @nao -100% - 24534RC100
+    - [x] @nao -100% - 24534RC100
     - [x] @chihao
 - [ ] Plan travel + hotel early
     - [ ] @mami - I live in Osaka/Tokyo and will go from KIX or HND
