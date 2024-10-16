@@ -1,36 +1,15 @@
-Difference Between @mixin and @extends in SASS and SCSS
+# **Difference Between @mixin and @extends in SASS and SCSS**
 
-###### @mixin
+**@mixin**
 
-Definition: @mixin allow you to create a style that can be reused throughout your style sheet. You can pass parameter to @mixin and add the required value when you are calling it, Mixins are included into the current context using the @include at-rule, which is written as @include <name> or @include <name>(<arguments...>), with the name of the mixin being included.
+**Definition: @mixin allow you to create a style that can be reused throughout your style sheet. You can pass parameter to @mixin and add the required value when you are calling it, Mixins are included into the current context using the @include at-rule, which is written as @include <name> or @include <name>(<arguments...>), with the name of the mixin being included.**
 
-## :memo: Where do I start?
+Example:
+```
+@mixing
+```
 
-### Step 1: Change the title and add a tag
 
-- [x] Create my first HackMD note (this one!)
-- [ ] Change its title
-- [ ] Add a tag
-
-:rocket: 
-
-### Step 2: Write something in Markdown
-
-Let's try it out!
-Apply different styling to this paragraph:
-**HackMD gets everyone on the same page with Markdown.** ==Real-time collaborate on any documentation in markdown.== Capture fleeting ideas and formalize tribal knowledge.
-
-- [x] **Bold**
-- [ ] *Italic*
-- [ ] Super^script^
-- [ ] Sub~script~
-- [ ] ~~Crossed~~
-- [x] ==Highlight==
-
-:::info
-:bulb: **Hint:** You can also apply styling from the toolbar at the top :arrow_upper_left: of the editing area.
-
-![](https://i.imgur.com/Cnle9f9.png)
 :::
 
 > Drag-n-drop image from your file system to the editor to paste it!

@@ -3,8 +3,20 @@ tags: vtaiwan
 ---
 # vtaiwan 與TWNIC 合作
 
-## 1011 分工討論
+
+## 1016 分工討論
+- 暫定流程敲定：
+    - 14:30–15:00: Welcome and Introductions
+    - 15:00–15:50: Deliberation (in-person and through digital platforms)
+    - 15:50–16:05: Break (15 mins)
+    - 16:05–16:15: Response & Clarification 
+    - 16:15–16:45: Deliberation (in-person and through digital platforms)
+    - 16:45–17:30: Wrap-up
+- [審議資料的文件](https://docs.google.com/document/d/1mPQnM565OWiFWMaFymGSUSRmb1d6Jk72/edit)
+- [文宣資料](https://docs.google.com/document/d/14MTBIvcH070YDWJQsVIiiANLVhv97DqxEFwPwMzyln8/edit?tab=t.0)
 - 
+### 現場分工：
+- [現場分工](https://docs.google.com/spreadsheets/d/1dEiKD1ccDbcFHn3hunLRa4zq-YwGg1wF8HzBx_LlI94/edit?gid=0#gid=0)
 
 ## 1002 小松討論
 - TWNIC 回信，表示願意參與！
