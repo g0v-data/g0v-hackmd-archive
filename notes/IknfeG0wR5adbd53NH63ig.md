@@ -291,12 +291,12 @@ CPU Switch From Process to Process
 
 進程間通信中的消息傳遞可以是阻塞的或非阻塞的，這影響著進程之間的同步方式。
 
-#### 阻塞通信（Blocking Communication）
+#### 阻塞通信（Blocking Communication）(重點)
 - **阻塞被視為同步**。在這種模式下，發送和接收操作會使進程等待。
   - **阻塞發送**（Blocking Send）：發送者在消息被接收之前會被阻塞，無法繼續執行。
   - **阻塞接收**（Blocking Receive）：接收者在有消息可用之前會被阻塞，無法繼續執行。
 
-#### 非阻塞通信（Non-blocking Communication）
+#### 非阻塞通信（Non-blocking Communication）(重點)
 - **非阻塞被視為異步**。在這種模式下，進程不會因為發送或接收操作而等待。
   - **非阻塞發送**（Non-blocking Send）：發送者發送消息後可以立即繼續執行，而不需要等待接收者。
   - **非阻塞接收**（Non-blocking Receive）：接收者接收一條有效的消息，或者如果沒有可用消息，則接收一個空消息（Null message）。
@@ -494,7 +494,7 @@ Local Procedure Calls in Windows
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bf53d8b4e03b8efa6b8521c26f4bde60.PNG)
 ### 客戶端-服務器系統中的通信
 
-#### 套接字（Sockets）
+#### 套接字（Sockets）(上課有講)
 - **套接字**被定義為通信的端點。
 - 套接字是 **IP 地址** 和 **端口號** 的組合——消息包的開頭包含端口號，用來區分主機上的不同網絡服務。
 - 例如，套接字 **140.114.75.168:80** 指的是主機 **140.114.75.168** 上的端口 **80**。
@@ -503,7 +503,7 @@ Local Procedure Calls in Windows
 
 #### 套接字通信
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2f5da5d0b2309532793b52fee4aed8ba.PNG)
-### 遠程程序調用（Remote Procedure Calls）
+### 遠程程序調用（Remote Procedure Calls）v.s.LPC
 
 - **遠程程序調用 (RPC)** 抽象了網絡系統中進程之間的過程調用。
 - 同樣使用端口來區分不同的服務。
@@ -513,7 +513,7 @@ Local Procedure Calls in Windows
 
 ---
 
-### 管道（Pipes）
+### 管道（Pipes）(重點)
 
 - 管道充當允許兩個進程進行通信的通道。
 
@@ -526,7 +526,7 @@ Local Procedure Calls in Windows
 #### 普通管道：
 - 不能從創建它的進程外部訪問。通常由父進程創建，並用來與它創建的子進程通信。
 
-#### 命名管道：
+#### 命名管道：(有提到)
 - 無需父子進程關係即可訪問。
 ### 普通管道（Ordinary Pipes）
 
