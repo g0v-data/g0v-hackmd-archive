@@ -14,7 +14,6 @@ tags: vtaiwan
     - 16:45–17:30: Wrap-up
 - [審議資料的文件](https://docs.google.com/document/d/1mPQnM565OWiFWMaFymGSUSRmb1d6Jk72/edit)
 - [文宣資料](https://docs.google.com/document/d/14MTBIvcH070YDWJQsVIiiANLVhv97DqxEFwPwMzyln8/edit?tab=t.0)
-- 
 ### 現場分工：
 - [現場分工](https://docs.google.com/spreadsheets/d/1dEiKD1ccDbcFHn3hunLRa4zq-YwGg1wF8HzBx_LlI94/edit?gid=0#gid=0)
 
