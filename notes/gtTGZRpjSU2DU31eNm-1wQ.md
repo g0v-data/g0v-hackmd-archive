@@ -6,7 +6,8 @@ Help People Related to Film, Music, Arts and Witnesses for better assistance, Li
 Full Lawsuit Attached with Witnesses
 Case Seeks Changes in California Legislation to New York's Coercion Laws
 Website: 
-https://www.scribd.com/
+https://online.flippingbook.com/view/444262985/
+
 https://x.com/scribdcomus
 https://www.pinterest.com/scribdcomus/
 https://www.youtube.com/@scribdcomus/about
