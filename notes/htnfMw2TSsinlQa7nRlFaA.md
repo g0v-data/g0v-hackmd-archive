@@ -1,16 +1,16 @@
-**GOAL11 - 🥇 The Official Website in the Philippines**
+**BETJEE – HOME PAGE NEWEST UPDATED BOOKIES**
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_07e19b9d9db6a0ef9ec52dacef952eee.jpg)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3b2807c3d2cb380947c65ddcae201cb6.jpg)
 
-At Goal11 Casino, we would like to consider ourselves as more than just another online gaming website. As you play our games, you should rest assured that we are legally operating under the license from PAGCOR (Philippine Amusement and Gaming Corporation). Founded with a mission to deliver top-notch entertainment, we have built a reputation for offering high-quality gaming services.
+Betjee is the leading reputable online bookmaker in Pakistan. With many years of experience, BETJEE has attracted a large number of players with professional customer service, security, fast deposits and withdrawals and a variety of games.
 
-Goal11 Casino is the name that was created from the idea of passion for gaming and focus on technologies. Every person finds something they like at our site, starting from numerous games and including bonuses that we provide to our customers.
+The game store at Betjee is up to more than 1500 games, from sports betting: football, basketball, tennis, racing, … to online casinos such as baccarat, blackjack, roulette, ..; jackpot; fish shooting; cockfighting; especially Betjee lottery 1 to 99.5 with the highest rate on the market.
 
-Our site is intuitive and will not restrict you when navigating it, so if you want to use our site via desktop or mobile, then this will pose no issue. In addition, being a legal and fully licensed online casino, we strictly follow the otherwise known international gambling laws to ensure that the value of our customers puts us among the best in the online gaming sector.
+Agency: BETJEE ENTERTAINMENT GROUP
 
-Contact
-Address: 607 Ongpin St, Binondo, Manila, 1006 Metro Manila, Philippines
-Phone: +634 123 688 889
-Website: goal11.org.ph
-Gmail : goal11orgph@gmail.com
-Hashtag: #goal11, #goal11 casino, #goal11 register, #goal11 ph
+Address: G3XR+6VG, St 14, Sector B DHA Phase 1, Rawalpindi, Punjab, Pakistan
+Phone Number: 079232448100
+Website:https://betjee.org.pk/
+https://www.pinterest.com/betjeecasino/
+https://www.youtube.com/@BetjeePakistan
+https://gravatar.com/betjeeorgpk
