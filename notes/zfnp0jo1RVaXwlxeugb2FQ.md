@@ -2,7 +2,7 @@
 #abc8 #abc8casino #nhacaiabc8 #abc8family
 Thông Tin Liên Hệ:
 - Số điện thoại: 0778414993
-- Điện thoại: 109 Đ. Kênh 19/5, Khu Phố 3, Tân Phú, Hồ Chí Minh 700000
+- Địa chỉ: 109 Đ. Kênh 19/5, Khu Phố 3, Tân Phú, Hồ Chí Minh 700000
 - Email: info@abc8.family
 - Website: https://abc8.family/
 Social:
