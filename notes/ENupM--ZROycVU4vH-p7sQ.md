@@ -42,4 +42,36 @@ int main()
 	return 0;
 }
 </pre>
+-----
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3426f989164696ad19314f6f183a3796.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fbca6869295f72c0bff55b5dd633e671.png)
+<pre>
 
+#include<iostream>
+using namespace std;
+#include<cmath>
+
+int main()
+{
+	int a,b;
+	while(cin>>a>>b)
+	{
+		
+		if(a==0||b==0)
+			break;
+			
+		if(0<a&&a<=b&&b<=100000)
+		{
+		int aroot, broot;
+		aroot=ceil(sqrt(a));
+		broot=floor(sqrt(b));
+		int sum;
+		sum= broot-aroot;
+		cout<<sum+1<<endl;
+		}
+		else 
+			return 1;
+	}
+	return 0;
+}
+</pre>
