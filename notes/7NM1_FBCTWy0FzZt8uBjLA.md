@@ -265,3 +265,8 @@ question:
 -------
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_77c2ae991adea933224513b40af615dd.png)
 
+* continue=沒有符合就跳過繼續
+*break=直接跳出
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5e363e69a3d44428d22a0a5bac0cc30d.png)
+* else if= elif
+* print():換行

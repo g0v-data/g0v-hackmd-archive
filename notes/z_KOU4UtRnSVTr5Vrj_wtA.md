@@ -53,6 +53,7 @@ https://www.facebook.com/groups/582154450196478/posts/903378741407379/
     - https://tm.ncl.edu.tw/article?u=022_003_00002940&lang=chn
 
 永昌里 276 巷地點
+- 2024.10 環境營造近況 https://www.facebook.com/zzcc.since.20030225/posts/pfbid0TmDAuY65L1HJkTYFGBZC19t9hUutw28kg2BcAPw5eZ2NE46sfuWKUsYNz88hgSXgl
 - https://maps.app.goo.gl/7Mfn1SxgNfbJVrNH9
 - 地點照片、地區歷史地圖了解永昌里的里內水路演變：https://docs.google.com/presentation/d/1LrZ9mLXFSQEUDs145M1B7LrUDL8W9PpSMHOfFk1OctY/edit
 
