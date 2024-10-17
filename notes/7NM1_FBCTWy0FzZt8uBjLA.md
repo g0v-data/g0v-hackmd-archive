@@ -270,3 +270,30 @@ question:
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5e363e69a3d44428d22a0a5bac0cc30d.png)
 * else if= elif
 * print():換行
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_11d24c3a4dd7dbfdffd28d217ecd5b12.png)
+<pre>
+#include<iostream>
+using namespace std;
+
+int f(int x)//f(x)
+{
+	int r;
+	r=x*x+2*x+1;
+	return r;
+	
+}
+
+int g(int x,int y)
+{
+	int i,r=1;
+	for(i=1;i<y:i++)
+		r*=x;
+	return r;
+}
+
+int main()
+{
+	cout<<f(2)<<endl<<f(5)<<endl;
+	cout<<g(5,3)<<endl<<g(2,10)<<endl;
+	return 0;//回傳 
+}</pre>
