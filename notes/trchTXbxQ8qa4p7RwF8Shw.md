@@ -59,6 +59,8 @@ tags: edu-open
 - [AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)
     - 講師：Andrew Ng
     - 來源：DeepLearning.AI
+- 資策會列舉參考學習資源列表
+https://www.iiiedu.org.tw/download/certifications/%E7%94%9F%E6%88%90%E5%BC%8FAI%E8%83%BD%E5%8A%9B%E8%AA%8D%E8%AD%89%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90.xlsx
 
 ## ✨【AI 相關活動】
 
