@@ -16,7 +16,7 @@
     - [WARC 列表路徑](https://data.commoncrawl.org/crawl-data/CC-MAIN-2024-38/warc.paths.gz)
         - WARC 一個 segment 約 1GB ，一包約有 90000 個 segment
         - WET 一個 segment 約 90MB，一包約有 90000 個 segment
-        - 
+    - 110TB 資料，如果是 500M 的網路速度全速下載，約需下載 21.3 天
 
 
 ## 資料處理流程
