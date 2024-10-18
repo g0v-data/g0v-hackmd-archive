@@ -327,12 +327,20 @@ https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNDU5L2NrZmlsZS8xZmUwYT
 
 - 臺北市大眾運輸導向都市發展（TOD）專區 ※修訂臺北市大眾運輸導向可申請開發許可地區細部計畫案※   (計畫書下載) https://www.udd.gov.taipei/events/f3gxcu9-15932
 - 文山區多屬於第二級場站
+    - 第二級場站：Y2、Y3、Y4
+- 「修訂臺北市大眾運輸導向可申請開發許可地區細部計畫案」增額容積審查原則
+    - https://udd.gov.taipei/assets/eBR3Zz1NUFFKUrm2btZHdq/attachs/TOD%E5%A2%9E%E9%A1%8D%E5%AE%B9%E7%A9%8D%E5%AF%A9%E6%9F%A5%E5%8E%9F%E5%89%87.pdf
+- 附件、修訂臺北市大眾運輸導向可申請開發許可地區細部計畫案可申請開發許可地區容積獎勵規定
+    - https://udd.gov.taipei/assets/eBR3Zz1NUFFKUrm2btZHdq/attachs/1120814%E4%BF%AE%E6%AD%A3%E3%80%8C%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E7%9C%BE%E9%81%8B%E8%BC%B8%E5%B0%8E%E5%90%91%E5%8F%AF%E7%94%B3%E8%AB%8B%E9%96%8B%E7%99%BC%E8%A8%B1%E5%8F%AF%E5%9C%B0%E5%8D%80%E9%96%8B%E7%99%BC%E8%A8%B1%E5%8F%AF%E7%94%B3%E8%AB%8B%E6%B3%A8%E6%84%8F%E8%A6%81%E9%BB%9E%E3%80%8D.pdf
 :::info
 
 ### 修訂臺北市大眾運輸導向可申請開發許可地區細部計畫案可申請開發許可地區容積獎勵規定
 
 1.核心區：以距離捷運場站或臺鐵場站出入口150 公尺範圍內。
 2.一般區：以距離捷運場站或臺鐵場站出入口超過 150 公尺至 500 公尺範圍內。
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8f4035ec8821b9be4bb220082a50a31f.png)
+
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7d81329e54b65fe0ca4bf679a5784b81.png)
 
