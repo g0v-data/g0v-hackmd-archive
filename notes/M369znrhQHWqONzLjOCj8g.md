@@ -302,12 +302,14 @@ https://ws-proj.moe.edu.tw/001/Upload/568/relfile/13271/1221/19ed93f0-157d-48fe-
 《臺北市校園降溫與節能規劃指南》及《臺北市政府校園工程標準作業指引》
 https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=AB52D88F9447DC9F
 
-文山特教
-https://www.facebook.com/share/p/gxTCZuw23bUQvtBv/?mibextid=WC7FNe
+文山特教 防災計畫
+https://www.facebook.com/share/p/gxTCZuw23bUQvtBv/
 
 節能服務團，庇護工場如何節能邁向淨零？
 https://www.facebook.com/DENDoENergy/posts/pfbid0rWH78Z8uPHkedWdSBMTEMewCyiVXw8XJuMBqj3TdKD9SdK9vCiJQTbp4aDXhnL1Tl
 
+台北市木柵國小家長會 FB 貼文：政府為積極朝向「2050淨零排放」的目標，臺北市教育局辦理「低碳上學」計畫，從113年10月1日起，鼓勵孩子每天填寫【低碳上學趣紀錄表】讓孩子記錄上學方式與距離，每個月結算孩子的減碳貢獻。
+https://www.facebook.com/MJESParents/posts/pfbid022wiFZRJkjnikhtmx3E1gGXZv9dNsUoHomBcvdMTRFe4Jc4gKEwh8xoiSq5z7j4wgl
 
 ## 都市更新地區
 
