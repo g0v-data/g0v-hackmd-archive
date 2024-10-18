@@ -1,4 +1,4 @@
-# 程式設計作業3
+# 程式設計作業4
 1.![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6f1c9ef4e80dac36a71e0a79282670ea.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2f1cef641be464f6fc06ccdd9b538cae.png)
 <pre>
@@ -75,3 +75,33 @@ int main()
 	return 0;
 }
 </pre>
+_____
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0f99187c78802535b700dfe52886ae6b.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6bde9c23c6e1b9c1aeeba337d63a6a35.png)
+<pre>
+
+#include <iostream>
+
+using namespace  std;
+
+int main()
+{
+    int T;
+    cin >> T;
+    int n, c;
+    int casenum=1;
+    while(T--)
+    {
+	
+        cin >> n;
+        for (int i = 1; i <= n; ++i)
+        {
+            cin >> c;
+            if (i == (n / 2)+ 1)
+            cout << "Case " << casenum++ << ": " << c << '\n';
+        }
+    }
+    
+}
+</pre>
+-----
