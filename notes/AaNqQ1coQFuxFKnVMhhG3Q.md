@@ -1,3 +1,8 @@
+# 常用網站
+https://quip.com/browse
+https://miro.com/app/board/uXjVKZzX5b0=/
+流程圖：https://mermaid.live/edit
+
 # 9/26禮拜四****
 主管開會會議內容
 - 高鐵搶票預防（有效流量），偽造登入
@@ -72,7 +77,73 @@ redis
 要有遠見
 
 
+# 10/4禮拜五****
 
+介紹了如何在 Spring Boot 中實現 AOP（面向切面程式設計），以日誌記錄為範例，達到在不修改原有方法程式碼的情況下，監聽 API 呼叫時執行的方法名稱、成功與否及詳細資訊。
+
+**AOP 簡介：**
+
+- **目的：** 將多個方法的共同行為抽離出來，無需顯式呼叫，也可在指定時間點自動觸發，實現共通工作的附加。
+
+**相關術語：**
+
+- **Advice（通知）：** 定義「什麼時候」執行「什麼事」。
+- **Join Point（連接點）：** 程式執行過程中可應用 Advice 的所有點。
+- **Pointcut（切點）：** 定義「在哪些地方」進行切入，哪些 Join Point 會接收到 Advice。
+- **Aspect（切面）：** Advice 和 Pointcut 的結合，完整定義了「什麼時候、在哪裡、做什麼事」。
+- **Introduction（引入）：** 允許向現有的 Class 添加新的方法或屬性。
+- **Weaving（織入）：** 將 Pointcut 應用到目標物件並創建新代理對象的過程。
+
+**在 Spring Boot 中實作 AOP 的步驟：**
+
+1. **加入依賴：**
+   在 `pom.xml` 中添加 AOP 的依賴項目：
+   ```xml
+   <dependency>
+       <groupId>org.springframework.boot</groupId>
+       <artifactId>spring-boot-starter-aop</artifactId>
+   </dependency>
+   ```
+
+2. **建立切面（Aspect）：**
+   - 創建一個名為 `LogAspect` 的類。
+   - 使用 `@Component` 注解，讓 Spring Boot 在啟動時檢測並實例化該類。
+   - 使用 `@Aspect` 注解，標識此類為一個切面。
+   ```java
+   @Component
+   @Aspect
+   public class LogAspect {
+   }
+   ```
+
+3. **定義切點（Pointcut）：**
+   - 在 `LogAspect` 中創建一個空的方法，使用 `@Pointcut` 注解定義切點。
+   - 在注解中添加表達式，指定攔截的範圍，例如攔截 `com.school.learning.service` 包下的所有方法。
+   ```java
+   @Pointcut("execution(* com.school.learning.service..*(..))")
+   public void serviceMethods() {}
+   ```
+
+4. **建立通知（Advice）：**
+   - 介紹五種 Advice 類型：
+     - `@Before`：在目標方法執行前執行。
+     - `@After`：在目標方法執行後執行。
+     - `@Around`：在目標方法執行前後執行。
+     - `@AfterReturning`：在目標方法成功返回後執行。
+     - `@AfterThrowing`：在目標方法拋出異常後執行。
+   - 範例：使用 `@Before` 在方法執行前記錄日誌。
+   ```java
+   @Before("serviceMethods()")
+   public void beforeAdvice(JoinPoint joinPoint) {
+       // 實現日誌記錄
+   }
+   ```
+
+5. **加入日誌機制：**
+   - 在 Advice 中使用 `JoinPoint` 獲取被監聽的方法資訊。
+   - 將所需資訊（如時間、方法名稱）寫入日誌文件。
+
+透過以上步驟，成功實現了在 Spring Boot 中使用 AOP 進行日誌記錄的功能，達到在指定時間點自動觸發共同行為的目的，而無需修改原有的業務邏輯程式碼。
 
 # 10/17禮拜四****
 
