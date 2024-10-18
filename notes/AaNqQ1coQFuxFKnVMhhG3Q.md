@@ -76,3 +76,149 @@ redis
 
 # 10/17禮拜四****
 
+**摘要：**
+
+介紹了 Informix 語法知識，重點講解了 `.per` 檔案和 `4gl` 檔案，這些是 Informix 4GL 程式設計的核心組件。
+
+**一、`.per` 檔案：**
+
+- **用途：** `.per` 檔案是用於定義 Informix 4GL 應用程式中使用者介面的螢幕檔案。
+
+- **組成部分：**
+
+  - **SCREEN SECTION（螢幕部分）：** 定義使用者介面的佈局，指定欄位和標籤在螢幕上的顯示方式。欄位通常用 `[]` 表示，內部的文字作為欄位的臨時名稱。
+
+  - **ATTRIBUTES SECTION（屬性部分）：** 將 SCREEN SECTION 中的臨時欄位名稱映射到實際的變數或資料庫欄位。它定義了資料類型、格式、輸入限制和行為（如 `AUTONEXT`、`NOENTRY`）等屬性。
+
+- **範例分析：**
+
+  - **臨時欄位名稱與實際變數的映射：** 透過在 ATTRIBUTES SECTION 中查看臨時名稱，可以找到對應的實際變數或資料庫欄位。
+
+  - **輸入限制：** 使用 `INCLUDE` 限制欄位的可輸入值範圍，例如 `INCLUDE = (1 TO 5)`。
+
+  - **必填欄位：** 使用 `NOT NULL` 指定欄位為必填項。
+
+**二、`4gl` 檔案：**
+
+- **控制結構：**
+
+  - **WHILE 迴圈：** 用於迭代處理，以 `END WHILE` 結束。
+
+  - **DEFER INTERRUPT：** 暫時禁用使用者中斷（如 `Ctrl+C`），以防止在關鍵代碼段期間意外終止程式，保護資料完整性。
+
+- **使用者互動：**
+
+  - **PROMPT 語句：** 用於顯示提示資訊並捕獲使用者輸入，將其存儲到指定的變數中。
+
+  - **範例：**
+
+    ```4gl
+    MAIN
+      DEFINE user_input CHAR(20)
+      PROMPT "請輸入您的姓名: " FOR user_input
+      DISPLAY "您輸入的姓名是: ", user_input
+    END MAIN
+    ```
+
+**三、Informix SQL 知識：**
+
+- **基本 SQL 語法：**
+
+  - 資料查詢與操作：`SELECT`、`INSERT`、`UPDATE`、`DELETE`
+
+  - 資料定義與結構修改：`CREATE TABLE`、`DROP TABLE`、`ALTER TABLE`
+
+- **控制流程語法：**
+
+  - 條件判斷：`IF...THEN...ELSE`
+
+  - 迴圈結構：`FOR...END FOR`、`WHILE...END WHILE`
+
+  - 多條件選擇：`CASE`
+
+- **錯誤處理語法：**
+
+  - 交易控制：`BEGIN WORK`、`COMMIT WORK`、`ROLLBACK WORK`
+
+  - 異常處理：`WHENEVER SQLERROR CONTINUE`、`WHENEVER SQLERROR STOP`
+
+- **資料操作與變數處理：**
+
+  - **DEFINE：** 定義變數
+
+  - **LET：** 變數賦值
+
+**四、動態 SQL 與游標：**
+
+- **動態 SQL：**
+
+  - **PREPARE：** 準備動態 SQL 語句
+
+  - **EXECUTE：** 執行已準備的語句
+
+  - **DEALLOCATE：** 釋放語句
+
+- **游標（Cursors）：**
+
+  - **用途：** 處理複雜查詢，逐行遍歷結果集
+
+  - **使用步驟：**
+
+    1. **DECLARE CURSOR：** 宣告游標並指定查詢語句
+
+    2. **OPEN CURSOR：** 開啟游標，執行查詢
+
+    3. **FETCH：** 從游標提取一行資料
+
+    4. **CLOSE CURSOR：** 關閉游標，釋放資源
+
+  - **範例：**
+
+    ```4gl
+    DECLARE cust_cursor CURSOR FOR
+        SELECT customer_id, order_date FROM customers
+        WHERE customer_id >= 'CUST001' AND order_date >= '2023-01-01'
+        ORDER BY customer_id, order_date;
+
+    OPEN cust_cursor;
+
+    FETCH cust_cursor INTO var1, var2;
+    WHILE (SQLCODE = 0)
+        DISPLAY var1, var2;
+        FETCH cust_cursor INTO var1, var2;
+    END WHILE;
+
+    CLOSE cust_cursor;
+    ```
+
+**五、其他重要概念：**
+
+- **CONSTRUCT 動態查詢條件：**
+
+  - 用於根據使用者輸入動態構建 `WHERE` 子句
+
+  - **BY NAME：** 使用欄位名稱映射使用者輸入條件
+
+  - **範例：**
+
+    ```4gl
+    CONSTRUCT BY NAME WK_QUERY ON BKERMWST.EDYEAR, BKERMWST.EDSEQ
+    ```
+
+- **系統內置變數：**
+
+  - **STATUS：** 最近一次 SQL 操作的結果碼（0 表示成功）
+
+  - **INT_FLAG：** 指示使用者是否按下中斷鍵（如 `Ctrl+C`）
+
+  - **SQLCA：** 包含最近執行的 SQL 語句的詳細資訊
+
+    - **SQLCA.SQLCODE：** SQL 返回碼
+
+    - **SQLCA.SQLERRM：** 錯誤資訊描述
+
+    - **SQLCA.SQLERRD[2]：** 影響的行數
+
+  - **NOTFOUND：** 指示最近的資料庫查詢是否未返回任何記錄
+
+**總結：**
