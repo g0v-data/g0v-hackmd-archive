@@ -79,9 +79,10 @@ https://dev.cofacts.tw/article/0RG7-pEBUOXjqM1AKBOd
   - https://dev.cofacts.tw/article/yhGx-pEBUOXjqM1AsxP0 100% 像
   - https://dev.cofacts.tw/article/0RG7-pEBUOXjqM1AKBOd 逐字稿內的字
   - https://dev.cofacts.tw/article/2BHJ-pEBUOXjqM1AkhMW 逐字稿內的字
-  - https://dev.cofacts.tw/article/6RHNHpIBUOXjqM1ABRPZ 二手菸的傷害，看起來 100% 像
-  - https://dev.cofacts.tw/article/oP_g_-AB4DHgA-D_4E_gD-AP6FfoV-AH4AfgV-ip4J8 逐字稿內的字，看起來 67% 像：醫師，使用多年，推薦用次氯酸水洗手，次氯酸水的爭論非常，使用次氯酸水的醫師
-
+  - https://dev.cofacts.tw/article/6RHNHpIBUOXjqM1ABRPZ 二手菸的傷害，看起來 100% 像，卻沒有進 occurrence
+  - https://dev.cofacts.tw/article/oP_g_-AB4DHgA-D_4E_gD-AP6FfoV-AH4AfgV-ip4J8 逐字稿內的字，看起來 67% 像：醫師，使用多年，推薦用次氯酸水洗手，次氯酸水的爭論非常，使用次氯酸水的醫師 --> 錯的
+- 判斷：5 messages 有成功 query 出來
+- cooccurrence 
 
 
 ##### 未竟項目

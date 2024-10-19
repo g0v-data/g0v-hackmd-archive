@@ -2,7 +2,9 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 18714 | 2024-10-19T15:46:02+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 18719 | 2024-10-19T17:00:19+08:00 |
+| [cofacts](tags/cofacts.md) | 463 | 2024-10-19T16:28:47+08:00 |
+| [meeting note](tags/meeting%20note.md) | 286 | 2024-10-19T16:28:47+08:00 |
 | [Templates](tags/Templates.md) | 271 | 2024-10-19T11:12:30+08:00 |
 | [Meeting](tags/Meeting.md) | 60 | 2024-10-19T11:12:30+08:00 |
 | [GIS](tags/GIS.md) | 159 | 2024-10-18T20:09:50+08:00 |
@@ -23,8 +25,6 @@
 | [SNS](tags/SNS.md) | 3 | 2024-10-15T21:23:58+08:00 |
 | [g0v.news](tags/g0v.news.md) | 9 | 2024-10-15T21:23:58+08:00 |
 | [hackpad](tags/hackpad.md) | 3029 | 2024-10-15T13:52:23+08:00 |
-| [cofacts](tags/cofacts.md) | 462 | 2024-10-13T22:04:49+08:00 |
-| [meeting note](tags/meeting%20note.md) | 285 | 2024-10-13T22:04:49+08:00 |
 | [jothon](tags/jothon.md) | 34 | 2024-10-12T22:19:14+08:00 |
 | [intl](tags/intl.md) | 4 | 2024-10-11T19:28:46+08:00 |
 | [hackathon](tags/hackathon.md) | 58 | 2024-10-08T12:32:56+08:00 |
