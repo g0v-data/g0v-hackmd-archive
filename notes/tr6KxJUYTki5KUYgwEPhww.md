@@ -14,3 +14,6 @@
 * 全校分機 by sungcc
 * 全校子網域 by sungcc
 * 校園網路的RPZ清單及其封鎖依據 by sungcc
+* 全校校系組織結構、機構分支 by Wikidata Allen
+* 校史 by Wikidata Allen 
+    * 透過校史可以協助ㄉ
