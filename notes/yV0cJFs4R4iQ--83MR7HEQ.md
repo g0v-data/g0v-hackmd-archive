@@ -69,7 +69,9 @@ Debugging Google Cloud Logs Explorer query
 (resource.type="cloud_run_revision" AND resource.labels.service_name="dev-line-bot") OR (resource.labels.instance_id="rumors-api-staging" AND jsonPayload.message: "Apollo#requestDidStart")
 ```
 
-2024-09-23 20:13 的 https://dev.cofacts.tw/article/0RG7-pEBUOXjqM1AKBOd
+###### 2024-09-23 20:13
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_76ca4bb5c891c82acae9349c33b4e12e.png =x400)
+訊息之一：https://dev.cofacts.tw/article/0RG7-pEBUOXjqM1AKBOd
 
 - 比對截圖時間，操作之使用者應為 `j4S8C_3WKC9KPW2pJr1iEx-vaIYoQJJ8rLGCy5PGYhlQQT44o` (`Uaddc74df8a3a176b901d9d648b0fc4fe`)
 - 20:13:23 時，詢問使用者是否要把 1 則新訊息送進資料庫
@@ -77,6 +79,7 @@ Debugging Google Cloud Logs Explorer query
   - 應是 article version conflict 導致`SubmitMediaArticleUnderConsent` 失敗
   - 應是 https://dev.cofacts.tw/article/6RHNHpIBUOXjqM1ABRPZ 這張圖，當時唯一的新訊息
   - 12:13:26 & 12:13:31 分別有兩人送出 reply request（收到 error 的是後者），應是此原因無誤 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c76b4eeb62b281f23d75771beecfbf1f.png)
+  - 但判斷不出來是哪個 LINE 帳號收到 “[askingArticleSubmissionConsent] article is not created successfully”。本案例的使用者最後還是有拿到 LINE bot 回應，看起來不是 throw error 的人。
 - 20:13:34 五次 `ListArticlesInProcessMedia`
 - 20:13:40 建立 Cooccurrence，article ids:
   - 0RG7-pEBUOXjqM1AKBOd
@@ -84,6 +87,7 @@ Debugging Google Cloud Logs Explorer query
   - oP_g_-AB4DHgA-D_4E_gD-AP6FfoV-AH4AfgV-ip4J8
   - yRGx-pEBUOXjqM1ArxO7
   - yhGx-pEBUOXjqM1AsxP0
+- 沒有半次 `AddReplyRequestForUnrepliedArticle`
 - 20:13:41 選擇要查看的訊息：
   - https://dev.cofacts.tw/article/yRGx-pEBUOXjqM1ArxO7 ① 看起來 100% 像, 逐字稿內的字
   - https://dev.cofacts.tw/article/yhGx-pEBUOXjqM1AsxP0 ② 看起來 100% 像, 逐字稿內的字
@@ -94,8 +98,28 @@ Debugging Google Cloud Logs Explorer query
 - 判斷
   - 5 messages 有成功 query 出來，代表新訊息其實有在資料庫中
   - `createSearchResultCarouselContents` 會以圖片（有 `mediaSimilarity` 者）優先排序，所以會放在前面
-  - `ListArticlesInProcessMedia` 是用 `_score` 排序，但這不保證「圖一樣」的會被排在前面；而`addReplyRequestForUnrepliedCooccurredArticles` 或 `setMostSimilarArticlesAsCooccurrence` 都是直接拿 `ListArticlesInProcessMedia` 的順序，因此雲之聲可能就是這樣被
+  - `ListArticlesInProcessMedia` 是用 `_score` 排序，但這不保證「圖一樣」的會被排在前面；而`addReplyRequestForUnrepliedCooccurredArticles` 或 `setMostSimilarArticlesAsCooccurrence` 都是直接拿 `ListArticlesInProcessMedia` 的順序，因此雲之聲可能就是這樣被抓進來
 
+###### 2024-09-23 20:14
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_32733fc98031808a4da3739108196c96.JPG =x400)
+
+訊息之一：https://dev.cofacts.tw/article/7BHNHpIBUOXjqM1ADxMn
+
+- 文字的部分似乎被 dialogflow 捕捉，觸發「你是在問哪一篇呢」回應
+- 比對截圖時間，操作之使用者應為 j4S8C_0yPmaqiWIOQrPOWbjVUlGEhujR63JHNmn8kqPPPZUsM (Uafb8e4d9464c1dea58a01c34871993ba)
+- 20:14:55 詢問 consent
+- 20:15:01 `SubmitMediaArticleUnderConsent`
+- 20:15:05 6 次 `ListArticlesInProcessMedia
+- 20:15:10 建立 cooccurrence
+- 20:15:14 選擇要查看的訊息：
+  - https://dev.cofacts.tw/article/6BHMHpIBUOXjqM1A_xM_ : ① 看起來 100% 像, 逐字稿內的字
+  - https://dev.cofacts.tw/article/7BHNHpIBUOXjqM1ADxMn : ② 看起來 100% 像, 逐字稿內的字
+  - https://dev.cofacts.tw/article/-dtpSpABoURTSGJKIgLM : ③ 看起來 100% 像, 逐字稿內的字
+  - https://dev.cofacts.tw/article/6hHNHpIBUOXjqM1ACRPG : ④ 看起來 100% 像, 逐字稿內的字
+  - https://dev.cofacts.tw/article/popa0oIBv5it-Cx_-lKR : ⑤ 看起來 100% 像, 逐字稿內的字
+  - https://dev.cofacts.tw/article/6RHNHpIBUOXjqM1ABRPZ : ⑥ 看起來 100% 像 <--- 應該要在 cooccurrence 但卻沒有
+  - https://dev.cofacts.tw/article/oP_g_-AB4DHgA-D_4E_gD-AP6FfoV-AH4AfgV-ip4J8 : ⑦ 看起來 67% 像, 逐字稿內的字 <--- 不應該要在 cooccurrence 但卻有
+- 判斷：同上
 
 ##### 未竟項目
 
