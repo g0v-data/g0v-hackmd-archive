@@ -69,20 +69,32 @@ Debugging Google Cloud Logs Explorer query
 (resource.type="cloud_run_revision" AND resource.labels.service_name="dev-line-bot") OR (resource.labels.instance_id="rumors-api-staging" AND jsonPayload.message: "Apollo#requestDidStart")
 ```
 
-https://dev.cofacts.tw/article/0RG7-pEBUOXjqM1AKBOd
+2024-09-23 20:13 的 https://dev.cofacts.tw/article/0RG7-pEBUOXjqM1AKBOd
 
-有問題的 cooccurrence 在 2024-09-23T12:13:40.214Z 時建立, 5 messages
-- ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a767f26e67e36df0f981658358055b1e.png)
-- ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b13ced3bccfde295ba83935d2b3aca85.png)
-- 選擇要查看的訊息：
-  - https://dev.cofacts.tw/article/yRGx-pEBUOXjqM1ArxO7 逐字稿內的字
-  - https://dev.cofacts.tw/article/yhGx-pEBUOXjqM1AsxP0 100% 像
-  - https://dev.cofacts.tw/article/0RG7-pEBUOXjqM1AKBOd 逐字稿內的字
-  - https://dev.cofacts.tw/article/2BHJ-pEBUOXjqM1AkhMW 逐字稿內的字
-  - https://dev.cofacts.tw/article/6RHNHpIBUOXjqM1ABRPZ 二手菸的傷害，看起來 100% 像，卻沒有進 occurrence
-  - https://dev.cofacts.tw/article/oP_g_-AB4DHgA-D_4E_gD-AP6FfoV-AH4AfgV-ip4J8 逐字稿內的字，看起來 67% 像：醫師，使用多年，推薦用次氯酸水洗手，次氯酸水的爭論非常，使用次氯酸水的醫師 --> 錯的
-- 判斷：5 messages 有成功 query 出來
-- cooccurrence 
+- 比對截圖時間，操作之使用者應為 `j4S8C_3WKC9KPW2pJr1iEx-vaIYoQJJ8rLGCy5PGYhlQQT44o` (`Uaddc74df8a3a176b901d9d648b0fc4fe`)
+- 20:13:23 時，詢問使用者是否要把 1 則新訊息送進資料庫
+- 20:13:30 時 server 報錯 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4fabaa776422017f1d6edc4b6fa3ae08.png)
+  - 應是 article version conflict 導致`SubmitMediaArticleUnderConsent` 失敗
+  - 應是 https://dev.cofacts.tw/article/6RHNHpIBUOXjqM1ABRPZ 這張圖，當時唯一的新訊息
+  - 12:13:26 & 12:13:31 分別有兩人送出 reply request（收到 error 的是後者），應是此原因無誤 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c76b4eeb62b281f23d75771beecfbf1f.png)
+- 20:13:34 五次 `ListArticlesInProcessMedia`
+- 20:13:40 建立 Cooccurrence，article ids:
+  - 0RG7-pEBUOXjqM1AKBOd
+  - 2BHJ-pEBUOXjqM1AkhMW
+  - oP_g_-AB4DHgA-D_4E_gD-AP6FfoV-AH4AfgV-ip4J8
+  - yRGx-pEBUOXjqM1ArxO7
+  - yhGx-pEBUOXjqM1AsxP0
+- 20:13:41 選擇要查看的訊息：
+  - https://dev.cofacts.tw/article/yRGx-pEBUOXjqM1ArxO7 ① 看起來 100% 像, 逐字稿內的字
+  - https://dev.cofacts.tw/article/yhGx-pEBUOXjqM1AsxP0 ② 看起來 100% 像, 逐字稿內的字
+  - https://dev.cofacts.tw/article/0RG7-pEBUOXjqM1AKBOd ③ 看起來 100% 像, 逐字稿內的字
+  - https://dev.cofacts.tw/article/2BHJ-pEBUOXjqM1AkhMW ④ 看起來 100% 像, 逐字稿內的字
+  - https://dev.cofacts.tw/article/6RHNHpIBUOXjqM1ABRPZ ⑤ 看起來 100% 像, 逐字稿內的字, 二手菸的傷害，卻沒有進 occurrence
+  - https://dev.cofacts.tw/article/oP_g_-AB4DHgA-D_4E_gD-AP6FfoV-AH4AfgV-ip4J8 ⑥ 看起來 67% 像, 逐字稿內的字：醫師，使用多年，推薦用次氯酸水洗手，次氯酸水的爭論非常，使用次氯酸水的醫師 --> 錯的
+- 判斷
+  - 5 messages 有成功 query 出來，代表新訊息其實有在資料庫中
+  - `createSearchResultCarouselContents` 會以圖片（有 `mediaSimilarity` 者）優先排序，所以會放在前面
+  - `ListArticlesInProcessMedia` 是用 `_score` 排序，但這不保證「圖一樣」的會被排在前面；而`addReplyRequestForUnrepliedCooccurredArticles` 或 `setMostSimilarArticlesAsCooccurrence` 都是直接拿 `ListArticlesInProcessMedia` 的順序，因此雲之聲可能就是這樣被
 
 
 ##### 未竟項目
