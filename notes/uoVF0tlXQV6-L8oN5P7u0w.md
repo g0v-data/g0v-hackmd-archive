@@ -1,4 +1,4 @@
-##程式設計作業
+## 程式設計作業
 
 請輸出「hello, world」文字 (不含「」)。
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2a0d68b57868e6c678c98a77094d495d.png)
