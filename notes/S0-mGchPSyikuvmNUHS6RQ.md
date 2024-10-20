@@ -3,7 +3,8 @@ tags: rand0mth0n, hackathon
 ---
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 # g0v Rand0mth12n 第拾貳次放輕松暨萬聖節屍鬼松
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7b213c1143bc92ca17f4ed053af4a671.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_24afed1f482d823cc59844cb9e47d1cd.png)
+
 
 graphic generated with https://www.bratgenerator.com/
 
