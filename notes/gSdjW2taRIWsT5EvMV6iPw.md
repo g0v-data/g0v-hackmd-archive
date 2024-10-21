@@ -25,6 +25,8 @@ GA: UA-98468513-3
 
 #### :robot_face: rumors-line-bot
 
+- 
+
 :::info
 9/23 發生什麼事：https://g0v.hackmd.io/yV0cJFs4R4iQ--83MR7HEQ?view#Analysis
  

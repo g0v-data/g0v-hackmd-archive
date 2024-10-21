@@ -131,7 +131,7 @@ https://github.com/cofacts/rumors-site/releases/tag/release%2F20241001
 
 ### Action items
 
-- [ ] 優先實作 https://github.com/cofacts/rumors-line-bot/issues/394
+- [x] 優先實作 https://github.com/cofacts/rumors-line-bot/issues/394
 
 ## 小聚籌備
 
