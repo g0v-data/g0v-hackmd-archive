@@ -1,0 +1,3 @@
+Salad Savage
+
+Salad Savage salads have a very unique flavor. It may taste smoked, there may be a hint of char! But none of our salads are created from a packet, can or jar! The nutritional value is they are low in saturated fat, low in carbohydrates, low sodium content, good potassium content, moderate cholesterol, omega-3 and vitamin B12, high protein, maintain bone health, prevent muscle loss, helps your body heal repair and so many more healthy additives for you! Our top sellers Tuna Salad and Salmon Salad are known to reduce inflammation, helps lower blood pressure while also decreasing other disease risk factors. Healthy living lifestyle what Salad Savage. Visit here https://saladsavage.net
