@@ -8,7 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- 線上出席：bil, conrad, nonumpa, mrorz, T
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -25,7 +25,8 @@ GA: UA-98468513-3
 
 #### :robot_face: rumors-line-bot
 
-- 
+- https://github.com/cofacts/rumors-line-bot/pull/398
+- https://github.com/cofacts/rumors-line-bot/pull/399
 
 :::info
 9/23 發生什麼事：https://g0v.hackmd.io/yV0cJFs4R4iQ--83MR7HEQ?view#Analysis
@@ -40,16 +41,19 @@ GA: UA-98468513-3
 
 https://lin.ee/1QUzEX4nI
 
-- [ ] A 回報一組圖文
-    - [ ] 確認 consent wording 符合預期
+- [x] A 回報一組圖文
+    - [x] 確認 consent wording 符合預期
 - [ ] A 在網站上回覆其中一個 article
-- [ ] B 把同一組圖文 + 一個多的文字，回報成新的 cooccurrence
-- [ ] 觀察現有 article 的 reply request count
+- [x] B 把同一組圖文 + 一個多的文字，回報成新的 cooccurrence
+- [x] 觀察現有 article 的 reply request count
 
 ##### ⛔️ Release Blockers
 
+N/A
+
 ##### 未竟項目
 
+N/A
 
 ### :eye: Under review
 
@@ -75,7 +79,13 @@ https://lin.ee/1QUzEX4nI
 > 人數不如預期
 
 - 推播 funnel 跟以往差不多 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1696f459b6705a683cd006ad00fe24e6.png)
+    - 台中也是 4~5 人 [name=bil]
+    - 人數少比較像是 workshop，多是演講
 - 推播基隆桃園宜蘭？
+    - 宜蘭太遠 [name=bil]
+    - 再推一次比較好，但覺得不需要 [name=bil]
+    - 貼 FB [name=mrorz]
+- 2 月大松 --> 1 月小聚，12 月就不會有小聚，休息一下
 
 ---
 
@@ -83,7 +93,7 @@ https://lin.ee/1QUzEX4nI
     - [ ] KKTIX 行前通知：提醒時間、使用電腦而非手機
     > Hello 你好，
 	>
-	> 本週日就是 8 月 3 日的志工培訓囉！
+	> 本週日就是 10 月 27 日的志工培訓囉！
 	>
 	> 志工培訓需要大量查詢資料，請自備筆電 💻 與充電器 🔌 並帶著愉快的心情來參加。帶順手的平板也可以的！如果願意協助編修影片逐字稿，請自備耳機唷🎧！
 	>
@@ -106,13 +116,14 @@ https://lin.ee/1QUzEX4nI
 		- [ ] 放投影片網址
     - [ ] 幫 Netgear 充電
 - 當日準備 / 攜帶
+    - [ ] 空白志工證明，印成獎狀
     - [ ] 樓下用的標語 - orz
     - [ ] 貼紙 - orz, bil
     - [ ] 黏土 - orz
     - [ ] 手板 - bil
     - [ ] 一次性杯子 - bil
     - [ ] 延長線 - bil / mrorz
-        - 跟 jothon 借 3 條 [name=bil]++
+        - ~~跟 jothon 借 3 條 [name=bil]++~~ 人不多，就不用
     - [ ] 編輯小聚的牌子 - orz
     - [ ] Wifi 機 - mrorz
         - [ ] Netgear 本體
