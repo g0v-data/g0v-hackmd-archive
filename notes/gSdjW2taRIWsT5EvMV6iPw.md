@@ -39,6 +39,7 @@ GA: UA-98468513-3
 https://lin.ee/1QUzEX4nI
 
 - [ ] A 回報一組圖文
+    - [ ] 確認 consent wording 符合預期
 - [ ] A 在網站上回覆其中一個 article
 - [ ] B 把同一組圖文 + 一個多的文字，回報成新的 cooccurrence
 - [ ] 觀察現有 article 的 reply request count

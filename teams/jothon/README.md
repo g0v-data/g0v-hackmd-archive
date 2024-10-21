@@ -2,10 +2,13 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [rkAGALAUK](../../notes/LHLAPHxjTt6Spp5LJr_zew.md) | 黑客松百人場地場勘 | 2021-11-02T14:43:34+08:00 | View mode |
 | [HJXRuIQxyl](../../notes/pg-nZhhxQteBaePLQn8O4g.md) | g0v hackath64n - 第陸拾參次黃金比例黑客松 | 2024-10-21T12:30:02+08:00 | View mode |
+| [g0v-hackath64n](../../notes/TBJmPk9MTRioFcxtGZ6YMA.md) | g0v第陸拾肆次黃金比例黑客松共筆 | 2024-10-21T17:30:29+08:00 | Book mode |
+| [g0v-Community-Hangout](../../notes/C6W5PiKYRlOBgLCd5-mTRA.md) | g0v 揪松團 松前哈拉 | 2024-08-28T13:30:53+08:00 | Book mode |
+| [-g0v-Community-Hangout-40th](../../notes/gA7MMo-YQwe2FUctL7O64g.md) | 第參拾柒次 g0v 揪松團 松前哈拉 | 2024-10-21T17:15:23+08:00 | View mode |
 | [B1pi3HWg1e](../../notes/kTNDSaLSTKuqv69BQ7ldag.md) | 活動常見遺失物 ! 圖鑑看一下 ! 想一下 ! 不要忘記帶回家 !  Common Lost items list! Don't forget to bring them home! | 2024-10-19T23:13:40+08:00 | View mode |
 | [g0v-hackath63n](../../notes/H8_4Va_ESKuqWDwCpV5URQ.md) | g0v第陸拾參次公民科技園遊會黑客松共筆 | 2024-08-29T14:36:00+08:00 | Book mode |
-| [rkAGALAUK](../../notes/LHLAPHxjTt6Spp5LJr_zew.md) | 黑客松百人場地場勘 | 2021-11-02T14:43:34+08:00 | View mode |
 | [intro](../../notes/nisX9Um-ROSJxgiqWghp3A.md) | g0v 社群介紹-共筆 | 2021-11-25T20:02:00+08:00 | Book mode |
 | [B1PAyAnyyl](../../notes/_gOoEzZVT4KZrSTffNAteA.md) | g0v hackath63n - 第陸拾貳次帶我去月球黑客松 松後推坑 | 2024-10-16T13:31:59+08:00 | View mode |
 | [afterg0vhackathon](../../notes/5RN9ZHUBRqKdYDo3Vod5_g.md) | g0v 松後推坑 | 2021-01-29T14:58:21+08:00 | Book mode |
@@ -22,7 +25,6 @@
 | [community99-2409](../../notes/nEmVgrXgSImdn_n5VisnyQ.md) | g0v 社群每月九分鐘 - 2024/9 | 2024-09-03T16:53:35+08:00 | View mode |
 | [community99](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2021-03-09T13:12:37+08:00 | Book mode |
 | [jothon2024](../../notes/8_z1xqCwQH-np8Zu9iBOkw.md) | g0v 揪松團 2024 年活動行事曆 | 2023-11-29T12:10:06+08:00 | View mode |
-| [g0v-Community-Hangout](../../notes/C6W5PiKYRlOBgLCd5-mTRA.md) | g0v 揪松團 松前哈拉 | 2024-08-28T13:30:53+08:00 | Book mode |
 | [AI_Grant_20240803](../../notes/15hJzFLZQxKJCklHuh6cSw.md) | GenAI @COSCUP 2024主題論壇與專案實作成果分享 | 2024-07-05T18:14:48+08:00 | View mode |
 | [Hyqx9lyK3](../../notes/7ipCcQRWSuifqjH2SfXy2w.md) | Crowdsourcing-oriented Project Template 群眾外包導向專案的模板 | 2023-07-02T21:21:54+08:00 | View mode |
 | [SJug8WTLc](../../notes/a_sXd-DRSLmJhhd61sc_ag.md) | 如何提案？ 提案模板、引導式課程影片 | 2022-05-14T18:35:28+08:00 | View mode |

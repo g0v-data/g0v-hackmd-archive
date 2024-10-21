@@ -59,3 +59,18 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 | 想做的事情 | 提案人稱呼 | 網址或附加內容 |
 | ---------- | ---------- | -------------- |
 | Example    | Nobody     | 範例           |
+
+
+### g0v HackMD 保衛松
+- g0v Slack 頻道 #hackmd
+- 10/19 發生廣告帳號不當修改社群既有 hackmd 文件，感謝 Paul 通報 !
+    - 遭到更改的文件網址，目前已手動復原內容 https://g0v.hackmd.io/LHLAPHxjTt6Spp5LJr_zew
+- **今日任務：如何監測不當刪改行為？**
+    - 感謝 Ronny 建立 g0v HackMD 備份區有保留各種 hackmd 的編修記錄 https://github.com/g0v-data/g0v-hackmd-archive 
+    - 🔥🔥🔥 需要研究能否大量偵測是否有廣告帳號修改掉既有共筆，例如從 repo 的 commit log 偵測到被惡意修改刪掉的共筆
+- **今日任務：如何充實治理機制？**
+    - g0v HackMD 治理機制文件 https://g0v.hackmd.io/vYdTfaYeR7SnIU3zT5evOw#g0v-HackMD
+    - 🔥【歡迎充實治理內容】 有針對「內容違規標準」、「處理流程」已有撰寫一些初步內容，歡迎檢視與補充
+    - 🔥🔥🔥【缺乏治理內容】 尚未針對「大量張貼廣告文件的帳號」研擬因應方式，治理文件中有初步蒐集此類型帳號個案
+    - 🔥🔥🔥【缺乏治理內容】 尚未針對「不當刪改行為」研擬因應方式
+
