@@ -399,11 +399,18 @@ HackMD 的主機維護，感謝 Jacky 協助。
 - 類型二：廣告
     - 如何判斷？ 
         - 需要研究能否大量偵測是否有廣告帳號修改掉既有共筆，例如從 repo 的 commit log 偵測到被惡意修改刪掉的共筆
-        - Ronny 有開始測試
+        - 20241022 Ronny 有開始測試撈選規則，例如 文件中的網址佔內容比例達到___%
+            - 大約 8000 筆
+                - https://docs.google.com/spreadsheets/d/17ujxGlrGy_Cqu-YEKv4ROYY_0TCkeT51kcQBWQCtHrE/edit?gid=0#gid=0
+            - 的確許多廣告文件被撈出，但也有撈出社群文件
     - case 
         - 20230510 有發現一篇廣告 https://g0v.hackmd.io/vwZXRthkQcOfRNxz8RxAuQ
         - 修車廠的廣告文 https://g0v.hackmd.io/?nav=search&q=car
         - https://g0v.hackmd.io/@vTaiwan/ryeQrCZHR
+- 類型三：特定帳號，針對其他社群文件進行不當修改
+    - case 
+        - 20241019 Paul Peng 發現 g0v Hackmd 的「[黑客松百人場地場勘](https://g0v.hackmd.io/@jothon/rkAGALAUK)」的共筆內文剛才被博弈廣告帳號全文刪除（連標題都改掉）
+        - 
 
 #### 處理流程
 - 每個人都可以檢舉

@@ -78,3 +78,25 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
     - 討論筆記：
         - 較無法針對「註冊驗證」來阻擋廣告帳號
 
+人工掃瞄有問題的 note
+- https://g0v.hackmd.io/RKQkbxSSQn-ygtdiwsxbeA
+- https://g0v.hackmd.io/?nav=search&q=car
+- https://g0v.hackmd.io/RKQkbxSSQn-ygtdiwsxbeA
+- https://g0v.hackmd.io/J_Yn5Zq8S5q1T9s05g09jg
+- https://g0v.hackmd.io/gjBlPFhmR7qX2Fit9e4YAw
+- https://g0v.hackmd.io/J_Yn5Zq8S5q1T9s05g09jg
+- https://g0v.hackmd.io/8QeSmuQRRsaaSoZqkYsNJg
+- https://g0v.hackmd.io/A3app_qMTzmn2APvAQv2fg
+- https://g0v.hackmd.io/YdQYkzD6RdyOoPJB9qBnGQ
+- https://g0v.hackmd.io/w1-Q4bCjR7CdzJ7PGCWTZw
+- 統計學期末筆記？ https://g0v.hackmd.io/W0ut2r8QR-e3oUHxL4f3eg
+- https://g0v.hackmd.io/gWy29NvQT6CSf0QzfxT1tA
+- 日文的某軟體安裝教學
+    - https://g0v.hackmd.io/Wz4IDLx1SlmMUlc4xlDHPg
+    - https://g0v.hackmd.io/D7ln47HLRNubyjyQFiPZOw
+    - https://g0v.hackmd.io/V4XaNLrHSW6hoov5jB3dXQ
+- 教你怎麼演戲 https://g0v.hackmd.io/V5N2IUpjRk2waH0nTg2shA
+- https://g0v.hackmd.io/VmX_TuPqTxePr2VKPCPyTg
+- 空的 https://g0v.hackmd.io/RUt9y2wxRVGRViBwWqfcbA
+- 1 https://g0v.hackmd.io/_aU6s2XMRGy7HltmKNHuSA
+- 
