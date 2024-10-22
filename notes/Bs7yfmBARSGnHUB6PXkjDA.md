@@ -14,8 +14,8 @@ CC BY 4.0 g0v contributors at (url)
 ```
 全文以上述授權釋出，如不同意請勿編寫
 
-## 採訪邀約
-
+採訪邀約 via CfJ slack & help from Saya
+(2024/7/18-2024/7/25)
 
 ## 訪綱
 
