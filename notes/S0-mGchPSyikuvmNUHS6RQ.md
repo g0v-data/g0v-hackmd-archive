@@ -68,9 +68,13 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 - **今日任務：如何監測不當刪改行為？**
     - 感謝 Ronny 建立 g0v HackMD 備份區有保留各種 hackmd 的編修記錄 https://github.com/g0v-data/g0v-hackmd-archive 
     - 🔥🔥🔥 需要研究能否大量偵測是否有廣告帳號修改掉既有共筆，例如從 repo 的 commit log 偵測到被惡意修改刪掉的共筆
+    - 什麼會是「不當刪改行為」？
+        - 一次張貼大量網址的行為 
 - **今日任務：如何充實治理機制？**
     - g0v HackMD 治理機制文件 https://g0v.hackmd.io/vYdTfaYeR7SnIU3zT5evOw#g0v-HackMD
     - 🔥【歡迎充實治理內容】 有針對「內容違規標準」、「處理流程」已有撰寫一些初步內容，歡迎檢視與補充
     - 🔥🔥🔥【缺乏治理內容】 尚未針對「大量張貼廣告文件的帳號」研擬因應方式，治理文件中有初步蒐集此類型帳號個案
     - 🔥🔥🔥【缺乏治理內容】 尚未針對「不當刪改行為」研擬因應方式
+    - 討論筆記：
+        - 較無法針對「註冊驗證」來阻擋廣告帳號
 

@@ -2,10 +2,10 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v infrath25n 第貳拾伍次基礎建設松](../notes/1-oLvpPaQNGoC22_91Gogg.md) | 2024-10-07T01:20:42+08:00 | 2024-10-01T15:32:55+08:00 |
-| 2 | [與 g0v 社群參與者相關的影片拍攝、紀錄片拍攝](../notes/oImzjz2XTciqP3lnbwkgKw.md) | 2024-09-22T22:39:29+08:00 | 2019-12-07T02:56:51+08:00 |
-| 3 | [與 g0v 社群或專案相關聯的學術研究Academic research on g0v and community projects](../notes/tpWNQTFvSOS_ZrSt2MiPWg.md) | 2024-09-22T22:19:00+08:00 | 2016-01-09T02:45:16+08:00 |
-| 4 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-08-09T15:28:40+08:00 | 2018-08-30T15:19:57+08:00 |
+| 1 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-10-22T19:52:43+08:00 | 2018-08-30T15:19:57+08:00 |
+| 2 | [g0v infrath25n 第貳拾伍次基礎建設松](../notes/1-oLvpPaQNGoC22_91Gogg.md) | 2024-10-07T01:20:42+08:00 | 2024-10-01T15:32:55+08:00 |
+| 3 | [與 g0v 社群參與者相關的影片拍攝、紀錄片拍攝](../notes/oImzjz2XTciqP3lnbwkgKw.md) | 2024-09-22T22:39:29+08:00 | 2019-12-07T02:56:51+08:00 |
+| 4 | [與 g0v 社群或專案相關聯的學術研究Academic research on g0v and community projects](../notes/tpWNQTFvSOS_ZrSt2MiPWg.md) | 2024-09-22T22:19:00+08:00 | 2016-01-09T02:45:16+08:00 |
 | 5 | [g0v.tw 社群治理頁面／g0v community g0vernance directory](../notes/Ki8oBtnjTjitnyp84ckYbA.md) | 2024-07-21T10:17:39+08:00 | 2024-07-20T09:50:24+08:00 |
 | 6 | [聊天頻道：Slack](../notes/PwJcrD23SBag6sg15epZMA.md) | 2024-05-02T09:57:14+08:00 | 2019-09-30T21:19:30+08:00 |
 | 7 | [什麼是共筆？如何共筆？](../notes/VH876EtGQhWW8ivUGp0IPA.md) | 2024-04-20T16:17:30+08:00 | 2019-09-30T21:19:34+08:00 |
