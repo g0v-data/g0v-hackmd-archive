@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [HkfMTufJke](../../notes/qU9DNpqPTlWHk7pp3Siixg.md) | 2024／11 大松命名 | 2024-10-08T17:36:09+08:00 | View mode |
 | [rkAGALAUK](../../notes/LHLAPHxjTt6Spp5LJr_zew.md) | 黑客松百人場地場勘 | 2021-11-02T14:43:34+08:00 | View mode |
 | [HJXRuIQxyl](../../notes/pg-nZhhxQteBaePLQn8O4g.md) | g0v hackath64n - 第陸拾參次黃金比例黑客松 | 2024-10-21T12:30:02+08:00 | View mode |
 | [g0v-hackath64n](../../notes/TBJmPk9MTRioFcxtGZ6YMA.md) | g0v第陸拾肆次黃金比例黑客松共筆 | 2024-10-21T17:30:29+08:00 | Book mode |
@@ -13,7 +14,6 @@
 | [B1PAyAnyyl](../../notes/_gOoEzZVT4KZrSTffNAteA.md) | g0v hackath63n - 第陸拾貳次帶我去月球黑客松 松後推坑 | 2024-10-16T13:31:59+08:00 | View mode |
 | [afterg0vhackathon](../../notes/5RN9ZHUBRqKdYDo3Vod5_g.md) | g0v 松後推坑 | 2021-01-29T14:58:21+08:00 | Book mode |
 | [rJebm39kt](../../notes/NGoyR10vSm6FuF37-K2znQ.md) | 財務 | 2021-08-06T21:02:47+08:00 | View mode |
-| [HkfMTufJke](../../notes/qU9DNpqPTlWHk7pp3Siixg.md) | 2024／11 大松命名 | 2024-10-08T17:36:09+08:00 | View mode |
 | [hackathon-name](../../notes/zyPgR_H6QwWBBgGXA6DYEA.md) | 大松命名 Bookmode | 2024-05-14T18:26:36+08:00 | Book mode |
 | [ry3D4p5j0](../../notes/GAVaoFnjT8qtYG7RMFhSHA.md) | g0v Hackath63n 活動流程 | 2024-08-27T11:13:40+08:00 | View mode |
 | [HJmFmRKjA](../../notes/aJl4n6ubRau4dme6mc0Grg.md) | g0v hackath63n - 第陸拾參次公民科技園遊會黑客松 | 2024-08-26T18:05:46+08:00 | View mode |

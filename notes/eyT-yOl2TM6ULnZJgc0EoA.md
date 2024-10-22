@@ -12,4 +12,9 @@ tags: vtaiwan
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 
-## 
+## 小小的分享
+- [10/22 兒少工作與審議主持人課程](/T-yL30aGRFSeAwqwQd3Vhw)
+
+## TWNIC 合作
+- [vtaiwan 與TWNIC 合作](/g4UGYbeLSt2hfkXhBCLPOg?both)
+- 週一已經完成開會與場勘
