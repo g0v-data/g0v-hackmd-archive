@@ -1,3 +1,7 @@
+---
+tags:
+---
+
 # 程式設計作業4
 1.![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6f1c9ef4e80dac36a71e0a79282670ea.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2f1cef641be464f6fc06ccdd9b538cae.png)
