@@ -1,3 +1,7 @@
+---
+tags: Future Technology
+---
+
 futrue technology
 https://youtube.com/shorts/CcalmtFREys?si=EYvRniQMKdwNil7k
 

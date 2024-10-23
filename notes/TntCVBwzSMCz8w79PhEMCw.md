@@ -6,7 +6,7 @@ tags: hackpad
 > [點此觀看原始內容](https://g0v.hackpad.tw/m6Q9Ezqbs47)
 
 
-### 立院豆知識
+# 立院豆知識
 
 
 1.黨籍和黨團不同？立院豆知識(子魚查詢)

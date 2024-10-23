@@ -1,3 +1,7 @@
+---
+tags: Future Technology
+---
+
 Future Technology
 https://youtu.be/vbNHCn2gHQ4?si=79Tmt4F7wYiUpJb0
 未來科技有哪些？

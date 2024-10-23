@@ -1,3 +1,7 @@
+---
+tags: Future Technology
+---
+
 future technology
 未來的科技發展
 

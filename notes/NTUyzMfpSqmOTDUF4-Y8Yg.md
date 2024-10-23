@@ -1,3 +1,6 @@
+---
+tags: Future Technology
+---
 上傳影片：https://youtube.com/shorts/3uOaTsmBDsI?si=d2hFbZClWgOKBwPg
 最感興趣的未來科技影片，談到了那些內容？
 未來科技有哪些（最少三個）:
