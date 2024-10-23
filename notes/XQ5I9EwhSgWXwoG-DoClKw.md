@@ -1,4 +1,8 @@
-東京住宿
+---
+tags:
+---
+
+# 東京住宿
 價位大概在12000-14000(四晚)
 
 1. VACATION INN HEIWAJIMA I

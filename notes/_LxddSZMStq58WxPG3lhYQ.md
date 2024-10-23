@@ -1,6 +1,6 @@
 ---
 title: "比歷尺"
-tags: hackpad
+tags: hackpad, history
 ---
 
 # 比歷尺
