@@ -147,10 +147,7 @@ Services for NFS
 mount -o anon \\NFS_IP\NFS_share
 
 ### 暫存
-Bios Date 2023/7/13
-Acer Altos P10 F9
-i5-13500
-88-AE-DD-82-AF-62
+
 MAS 啟動授權，powershell run:
 irm https://massgrave.dev/get | iex
 
