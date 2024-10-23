@@ -130,7 +130,7 @@ int main()
  return 0;
 }
 </pre>
-
+// total=0
 ------
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_187824035c95297d38266f5b3d0d37af.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2773cf7e6038f3601316d6764005ca73.png)

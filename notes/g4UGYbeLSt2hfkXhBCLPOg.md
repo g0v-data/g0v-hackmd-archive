@@ -3,9 +3,15 @@ tags: vtaiwan
 ---
 # vtaiwan 與TWNIC 合作
 
+## 1023 vTaiwan 小松
+- TWNIC 其實應該是最早採用多方利害關係人的方式處理。[name=irvin]
+
 ## 1021 開會討論與場勘結論
-- 時間改到 10/21 晚上 18:30-21:30 
-- 
+- 時間與日期改到 12/20 晚上 18:30-21:30 
+- 地點：TWNIC 會議室（設備與線上會議室會由 TWNIC 提供）
+- 主題：如何讓人工智慧的效益與每一個人共享？從人工智慧基本法出發
+- 目前預計 10/30 以前，活動上線
+- [資料夾](https://drive.google.com/drive/u/0/folders/1usx2AgoPGzEEO0imI0bZHUmwU9EMy8HZ)
 
 ## 1016 分工討論
 - 暫定流程敲定：
