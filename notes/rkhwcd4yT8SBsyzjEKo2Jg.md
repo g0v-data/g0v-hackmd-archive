@@ -17,7 +17,7 @@ CC BY 4.0 g0v contributors at (url)
 
 訪談人：Vivian Wu, Yvonne Cho, Jasmine Ta
 訪談對象：Yuri Ishitoya
-訪談時間：2024/7/25 14:00 – 15:00(GMT+8) & , via google meet
+訪談時間：2024/7/25 14:00 – 15:00(GMT+8) & 2024/9/1 15:00 - 16:00 , via google meet
 
 ## 採訪邀約
 2024/7/18-2024/7/25 via CfJ slack and with Saya's help(CfJ worker)
@@ -29,65 +29,41 @@ CC BY 4.0 g0v contributors at (url)
 > For Participant Classification
 
 1. What is your current grade level?
-- 4th year, graduating next Mar
-- 開始於四月、畢業於三月，有gap year 一年所以目前是最後一年（大五）
+- senior, major in CS
 
 2. When did you start participating in CfJ projects or activities?
-- last fto (Korea), they have scholarship (flight, accommodation)
-- CfJ有獎學金給FtO in KR，去年有拿到
-- 日本人數大概有二人以上有拿到獎學金、四五個學生參加
+- after enter university
+- sophomore year, join cfj
 
 3. Which projects or activities are you primarily involved in?
-- 不是很積極參與、有時候在有時候不在
-- 在Code for Sake，PR to Fix it
-- not very active in CfJ
-- participation is on and on
-- project Sake (built the application, make a PR)
+- develop anti-crime project https://anshinyomichi.studio.site/ 
+- last year join FtO (jeju)
+- confidence dialog
 
 4. Do most of the projects involve coding?
-- yes, most of the ppl can code
-- the project all include
-- some professor is involved, maybe they cannot code? 
-
+- only to FtO, some small meetups
 
 ### PART 2. Point of Entry
 > Understanding Initial Contact and Participation
 
 5. How did you first come into contact with or learn about CfJ?
-- Waffle (https://waffle-waffle.org/) coding bootcamp program, participating time: when taking gap year, may 2022 - jul 2022. but stay in the community afterwards
-- slack has lots of programs for young people
-    - learnt HSS, HTML
-    - in coding camp, female program’s member
-- leadership is friend of Mamie san, so she join from it
+- first time: I was working in NPO (waffle) close gender gap between girls
+- people connect me with cfj
 
 6. What was the first activity you participated in? What motivated you to join?
-- Fto was the first hackathon - congress watch
-    - using GPT model to summarize the video in TW congress 
-    - ppl w/ Ronny is very nice, the program is very inclusive
+- interested in closing gender gaps, solving social issues
 
 7. As a newcomer, what do you think is the quickest way to understand an open-source community like CfJ and find projects that interest you?
-- join events really help
-- you can just see website for a list of projects
-- same things happening in JP by joining the event you can get know quickly.
-- with people’s help you boost the working mode?
+- slack
+- referred by friend
 
-8. Where do newcomers from?
-- university: cfj programs for universities
-    - last year, big hackathons for Civic Tech Challenge Cup U-22  https://ccc.code4japan.org/ (annually, online)
-    - online hackathon, physically in Tokyo
-- Does cfj popular among univ students？
-    - actually not?
-    - usually learnt from other sources
-
-9. What is your main motivation for continuing to contribute to the projects or activities you are involved in?
-- interesting
-    - people share the philosophy that they want to do something for the community
-    - go to social events rather than hackathons
-    - code for japan summit (showcase)
+8. What is your main motivation for continuing to contribute to the projects or activities you are involved in?
+- people who joining cfj is so kind, and all people have eager to do something
+- I met a lot of friends in cfj, last year join fto and made taiwanese and chinese friend
 
 ### PART 3.  Hackathons and Community Culture
 > Understanding the People in the CfJ Community
-10. What are your views on the CfJ community culture, including open-source, "Release early, release often," collaborative editing, and decentralization?
+9. What are your views on the CfJ community culture, including open-source, "Release early, release often," collaborative editing, and decentralization?
 - not very active, no further comment
 
 11. Are there any regular events that CfJ often holds? 
