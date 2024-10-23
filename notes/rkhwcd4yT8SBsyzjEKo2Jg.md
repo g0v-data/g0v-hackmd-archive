@@ -64,7 +64,7 @@ CC BY 4.0 g0v contributors at (url)
 ### PART 3.  Hackathons and Community Culture
 > Understanding the People in the CfJ Community
 9. What are your views on the CfJ community culture, including open-source, "Release early, release often," collaborative editing, and decentralization?
-- not very active, no further comment
+- familiar with IT, important for the society
 
 11. Are there any regular events that CfJ often holds? 
 - fto
