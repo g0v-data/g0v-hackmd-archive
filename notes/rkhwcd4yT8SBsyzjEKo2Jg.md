@@ -30,6 +30,10 @@ CC BY 4.0 g0v contributors at (url)
 
 1. What is your current grade level?
 - senior, major in CS
+    - NLP - python
+    - flatter, swift - app
+- research for graduate school
+- 2021-2022 Waffle intern - programming program for kids to develop app of social issue
 
 2. When did you start participating in CfJ projects or activities?
 - after enter university
@@ -39,6 +43,8 @@ CC BY 4.0 g0v contributors at (url)
 - develop anti-crime project https://anshinyomichi.studio.site/ 
 - last year join FtO (jeju)
 - confidence dialog
+- FtO 2023 - congress watch (JP), app female walking in street at night (2022)
+- FtO 2024 - prevent female diseases & female hackathon experience
 
 4. Do most of the projects involve coding?
 - only to FtO, some small meetups
@@ -46,9 +52,12 @@ CC BY 4.0 g0v contributors at (url)
 ### PART 2. Point of Entry
 > Understanding Initial Contact and Participation
 
-5. How did you first come into contact with or learn about CfJ?
+5. How did you first come into contact with or learn about CfJ? Why did you decide to join CfJ?
 - first time: I was working in NPO (waffle) close gender gap between girls
 - people connect me with cfj
+- It looks so fun
+- FtO, can communicate with others and develop something with different people from different countries
+
 
 6. What was the first activity you participated in? What motivated you to join?
 - interested in closing gender gaps, solving social issues
@@ -60,91 +69,111 @@ CC BY 4.0 g0v contributors at (url)
 8. What is your main motivation for continuing to contribute to the projects or activities you are involved in?
 - people who joining cfj is so kind, and all people have eager to do something
 - I met a lot of friends in cfj, last year join fto and made taiwanese and chinese friend
+- I’m interested in the gender gap in JP. I want to develop technologies to close the gender gap.
+- Combine my skills
 
 ### PART 3.  Hackathons and Community Culture
 > Understanding the People in the CfJ Community
 9. What are your views on the CfJ community culture, including open-source, "Release early, release often," collaborative editing, and decentralization?
 - familiar with IT, important for the society
 
-11. Are there any regular events that CfJ often holds? 
-- fto
-- social event: CfJ summit
-- Civic Tech Challenge Cup U-22  https://ccc.code4japan.org/ 
-- outsource this to CfJ https://odhackathon.metro.tokyo.lg.jp/ hackathon using tokyo’s open data
+11. Are there many student participants in CfJ? Based on your observations, how do they generally participate? How is the overall participation (including the composition of participants, number of participants, age range, and locations)?
+- most of the participants are 30+, some of the context are only for students, hold by CfJ, maybe 1 community for students. they should have more
+- now only few student participants
+- Having difficulties inviting people to join cfj
+- Many students want to join the community because they want to find people to do things together.
+- There are many other engineering groups for people to join
 
-12. Are there many student participants in CfJ? Based on your observations, how do they generally participate? How is the overall participation (including the composition of participants, number of participants, age range, and locations)?
-- already working
-- people are mostly in same age as the founders and organizers
-- they all shared the same vision
-- join the community is fun
-- a lot less female presentation (japan’s problem, STEM female students are less)
 
 ### PART 4.  Promotion and Community Management of CfJ
-13. Based on your observations, how do your friends, peers, and community members participate in or understand CfJ? What might be the reasons for this?
-- haven’t done many contribution
-- understand cfj as an opportunity for contributing
-- opportunity to contribute to society
+12. Based on your observations, how do your friends, peers, and community members participate in or understand CfJ? What might be the reasons for this?
+- twitter (X)
 
-14. do you want to initiate your own project?
-- yes
-    - topic: birth control pill usage(about period)
-    - drop health data
-    - side effects
+13. Is participating in open-source communities like CfJ common in Japan? How is the level of participation?
+- not so good situation
 
-15. Is participating in open-source communities like CfJ common in Japan? How is the level of participation?
-- I don’t think civic tech is common in Japan yet.
-- sometimes talk to friends, they don’t know civic 
-
-16. Do you think the CfJ community is attractive to students in your age group? Why or why not?
-- students usually don’t have chances to do actual, practical projects. cfj is a good one
+14. Do you think the CfJ community is attractive to students in your age group? Why or why not?
+- is attractive, but no many people know
 
 
 ### PART 5. Others
-17. the project is all about locals, international, national?
-- if you want to know about gov data, every place way is different
-- code for narima https://www.code4japan.org/brigade/all 
+15. What do you consider the biggest gainnings for you from participating in CfJ?
+- Making friends
 
-18. How do you feel about the open level of gov’s data between TW and JP
-- there's atmosphere that citizen shouldn’t talk about politics
+16. As a novice joining Cfj/ FtO, what do you think how can they understand the organization and find projects that they are interested in?
+- Having the simple example of timeline
+- Like FtO is a bit complicated 
+- Slack and X are the most important to gain infos, also my friend 
 
-19. What's your starting point for the Civil Tech movement?
-- social issue
+17. Do you join many other hackathons?
+- Yes. like Japan hacks JPHACKS (participated 2 times before)
+- 技育CAMP | サポーターズ 
 
-20. Do many people in waffle have a technical background?
-- people joining don’t know how to code
-- waffle program is about empowering woman
+18.  Why do you think student hackers or participants still want to be within cfj, given that less student participants are in the community?
+- In my case, Kurumi is my best friend, she’s in the community, so i also am there
+- If there are other student members having this kind of connection, they are likely to be able to continue in the community
 
-21. Ways of project participation
-- sake is very clear
-- Some weren't constructing that clear. Hence, discussing session is valued more than coding part. 
+19. Can u compare 2023 FtO and 2024 FtO, what's the difference?
+- I dont have any concerns with food or transport, more concerted with communication with other and project
+    - Are you satisfied with the progress of the project?
+        - We are having communications on discord, but not so much progress
+    - After that, will you continue developing the project?
+        - Kurumi and I are main organizers, we have 2 more members in my team continue to developing the application
+        - Haven’t had meeting after fto
+    - Why join fto again?
+        - Had great time last year, want to do it again
+    - What do you think are the highlights, advantages, difficulties for cross-country communications? 
+        - Difficulties in communicating in english
+        - I can totally express my english in light words
+        - Make others to have symphysis on me is a bit difficult because of language problems
 
-22. Is there any ways that you perceived CfJ attract students?
-- there's no partnering with Universities
-- on social media (twitter)
+20. Do you join online hackathons?
+- Yes. i join online hackathons like geek hackathon
 
-23. How do EE, CS or other majors of students think about spending their time during college periods?
-- some ppl do join hackathon very often 
-- leetcode streak for internship (tech fields? yep it’s a coding thing
-- part time 
+21. Do people use discord widely?
+- Only engineer community. Other may just use Line
 
-24. How do you feel during the hackathons held by g0v?
-- inclusive, diversity (age, women)
-- hearing about congress, share my experience?
-    - JP tourism of the lab work
+22. girls hackathon
+- Why do you like to hold this hackathon? How long has it been?
+    - I am interested in closing gender gaps in japan.
+    - This also has similar things in STEM in JP. only 20% of them are women, there's a serious gender gap in JP in the STEM field. Only one in the 2 are women in the engineering industry. Women become a minority as engineers in their jobs. More and more women quit STEM, going to have a CS major or having jobs in an engineering company.
 
-25. How do you feel about g0v? How to sign the event?
-- heard from a (Taiwanese) friend - Peter
-- directly went to venue and done in during the slot
+- How many participants?
+    - Over 200
 
-26. Is there any (active) student participant you can think about?
-- ゆう猫(Haruka Ono), and the other(name unknown)
+- How do you secure fundings for the event?
+    - I hold negotiation with many companies
 
-27. major and univ?
-- policy studies (Social Architecture)
-- Tsuda univ 
+- Why would they willing to donate money?
+    - Had talked to several compnies, got spme sponsorships.
+- How many staff are there?
+    - Most of them are volunteers. 30 people are joining as staff
+
+- How long is the preparation period?
+    - 6 months
+
+- Impact on the event for women? How do the problems connect with the solution? How is the real impact with this?
+    - Many solutions are already held in JP 
+    - Like study groups
+    - But i think only hackathon can help women to implement output
+    - There’s no opportunity for women to solve the solution
+    - Hackathon is best to have success
+    - 90% participant are men, many girls think they cannot perform their best because of the high percentage of men. They lose confidence
+    - Hackathon only for women make them able to just focus on women, girls. 
+    - Closing the gaps. Many participants try to use products to solve this. Stimulate how people sitting in wheel chair. If they are going to get on the elevator, how they feel and 
+    - Business part of the product
+
+- How do you feel in holding these hackathons?
+    - We can give girls to gain confidence, want to continue holding it in 10 years.
+
 
 ---
 # Infos
-- https://odhackathon.metro.tokyo.lg.jp/
-- https://www.code4japan.org/brigade/all
+- https://anshinyomichi.studio.site/
+- https://www.college.waffle-waffle.org/
 - https://ccc.code4japan.org/
+- IPA Information-technology Promotion Agency, Japan: https://www.ipa.go.jp/en/
+- https://dotstocode.studio.site/
+- https://x.com/dots_to_code
+
+
