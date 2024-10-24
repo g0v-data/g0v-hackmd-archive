@@ -43,7 +43,7 @@
 
 定義：是鍵值的集合 ，主要透過 Key 取得 Value (e.g. `myDictionary["key"]`) 進行快速查找，長度任意。
 
-適用場景：用來根據標籤(Key)快速找到資料(Value)，像是大型資料庫。
+適用場景：用來根據標籤(Key)快速找到資料()，像是大型資料庫。
 
 語法：`Dictionary<TKey, TValue> myDictionary = new Dictionary<TKey, TValue>();`
 【新增】`myDictionary.Add(Key, Value)`
