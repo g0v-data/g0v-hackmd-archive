@@ -33,10 +33,17 @@
 
 # 泛型容器 (Dictionary & List)
 
-* 泛型(Generics)：泛型允許我們根據自身需求在定義類別、方法或資料結構時暫時不指定具體的資料類型，而是在使用時根據需求指定類型。也就是可以設定可變型別的參數來傳遞，讓我們可以用更有彈性的方式來設計 Class、Method，操作資料等。
+* 泛型(Generics)：泛型允許我們根據自身需求在定義類別、方法或資料結構時暫時不指定具體的資料類型，而是在使用時根據需求指定類型。也就是它可以讓我們在定義 Class、Method、Interface 時先不用決定型別，到了要實體化的時候再決定其型別，可以用更有彈性的方式來設計 Class、Method，操作資料等。
 
-* Dicitonary<>
-* List<>
+* Dictionary
+
+語法：Dictionary<TKey, TValue> myDictionary = new Dictionary<TKey, TValue>();
+
+
+* List
+
+定義：是泛型容器之一，於 C# 2.0 後開始被廣泛使用，甚至取代過去的 ArrayList。
+語法：List<T> myList = new List<T>();
 
 
 ---
