@@ -23,6 +23,8 @@ CC BY 4.0 g0v contributors at (url)
 2024/7/18-2024/7/25 via CfJ slack and with Saya's help(CfJ worker)
 
 ## 訪綱
+[Interview with CfJ Student Participants 訪綱](https://hackmd.io/@VDdOcvHKRDK80-R5I34F-w/SkmTU9AdC/edit)
+
 (以下訪談過程並未錄音，因此並非逐字稿，僅為重點筆記)
 
 ### PART 1. Basic Information

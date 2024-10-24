@@ -25,6 +25,8 @@ CC BY 4.0 g0v contributors at (url)
 ## 訪綱
 (以下訪談過程並未錄音，因此並非逐字稿，僅為重點筆記)
 
+[Interview with CfJ Student Participants 訪綱](https://hackmd.io/@VDdOcvHKRDK80-R5I34F-w/SkmTU9AdC/edit)
+
 ### PART 1. Basic Information
 > For Participant Classification
 
