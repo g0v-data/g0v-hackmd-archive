@@ -9,7 +9,7 @@ tags: vtaiwan,dpsurvey
 ## 相關活動資訊
 ### 政府
 - 目前政府有投注資源舉行的活動，通常都是由教育部青年發展署或者是文化部提供資源，由地方的民間組織或學校協助。
-- 教育部：[青年好政平台](https://www.youthhub.tw)
+- 教育部：[青年好政平台](https://youthhub.yda.gov.tw)
     - 會有各地的審議活動，每年也都有審議相關的主持人培訓。
 - 文化部：輔導及培訓縣市與公所推動公民審議工作計畫
     - 今年七月有舉辦[進階議事人才培訓課程](https://communitytaiwan.moc.gov.tw/Uploads/Item/b71a6be9-fdc1-4beb-8aab-74ad4befd35c.pdf)
@@ -24,7 +24,7 @@ tags: vtaiwan,dpsurvey
 - [開拓文教基金會](https://www.frontier.org.tw/blog2/關於我們/)
     - 執行長蔡淑芳引導師是著名的審議相關討論引導師
 - [Co.Lab 齊想創造工作室](https://hackmd.io/@twcolab/intro)
-    - 由前 PDIS 團隊成員許恩恩創立
+    - 由前 PDIS 團隊成員許恩恩、張皓晴創立
     - 
 - [青平台基金會](https://future.org.tw)
     - 之前有舉辦公共討論與審議民主人才培育。
