@@ -201,6 +201,26 @@ ArrayList 可以儲存任何類型的 object，可能在程式運作時會導致
 
 * EXCLUSIVE：
 
+* ACCESS EXCLUSIVE：
+
+https://ithelp.ithome.com.tw/articles/10160214
+https://ithelp.ithome.com.tw/m/articles/10336021
+https://docs.postgresql.tw/the-sql-language/concurrency-control/explicit-locking
+
+ROW SHARE vs. ROW EXCLUSIVE
+
+ROW SHARE 允許其他事務進行行級別的 DML 操作，但防止其他事務進行 DDL 操作。
+ROW EXCLUSIVE 在行級別上稍微更具排他性，它允許其他事務讀取，但更強調控制行級修改，仍然防止 DDL 操作。
+
+SHARE vs. SHARE ROW EXCLUSIVE
+
+SHARE 鎖允許多個事務同時讀取表，但禁止任何形式的修改（無法進行 DML 或 DDL 操作）。
+SHARE ROW EXCLUSIVE 則允許讀取和行級別的 DML 操作，但禁止其他事務進行 DDL 操作。
+
+EXCLUSIVE vs. SHARE ROW EXCLUSIVE
+
+EXCLUSIVE 是最強的鎖，它不允許其他事務進行讀取或修改操作，完全控制該表。
+SHARE ROW EXCLUSIVE 則允許行級操作和讀取，但阻止其他事務對表進行 DDL 修改。
 
 ---
 
