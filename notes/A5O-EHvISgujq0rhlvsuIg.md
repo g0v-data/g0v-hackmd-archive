@@ -11,36 +11,36 @@ Ana = asks Vee questions, learns about AI
 # Slide 2: Historical Context (2 minutes) *Vee*
 •	Evolution of Labor: From manual labor to skilled professions.
 •	Past Technological Revolutions: Brief mention of previous disruptions (e.g., industrial revolution, automation).
-# Slide 3: AI Technologies Impacting Skilled Labor (3 minutes) 
+# Slide 3: AI Technologies Impacting Skilled Labor (3 minutes) *Vee*
 •	Machine Learning: How algorithms analyze data and make decisions.
 •	Robotics: Automation in manufacturing, surgery, etc.
 •	Natural Language Processing: Chatbots, content generation, etc.
-# Slide 4: Industries Affected (4 minutes)
+# Slide 4: Industries Affected (4 minutes) *Ana*
 •	Manufacturing: Use of robots in assembly lines.
 •	Healthcare: AI in diagnostics and treatment planning.
 •	Finance: Algorithmic trading and risk assessment.
 •	Customer Service: Chatbots replacing human agents.
-# Slide 5: Benefits of AI Integration (3 minutes)
+# Slide 5: Benefits of AI Integration (3 minutes) *Ana*
 •	Increased Efficiency: Faster production and decision-making.
 •	Cost Reduction: Lower labor costs and increased profitability.
 •	Improved Accuracy: Reduced human error in complex tasks.
-# Slide 6: Challenges and Concerns (3 minutes)
+# Slide 6: Challenges and Concerns (3 minutes) *Ana*
 •	Job Displacement: Specific examples of jobs at risk.
 •	Skill Gaps: Need for new skills in the workforce.
 •	Ethical Considerations: Bias in AI systems and decision-making.
-# Slide 7: Case Studies (3 minutes)
+# Slide 7: Case Studies (3 minutes) *Ana + Vee*
 •	Example 1: Manufacturing: Company using robotics to reduce labor costs.
 •	Example 2: Healthcare: AI diagnostics leading to job changes for radiologists.
 •	Example 3: Finance: Shift from human brokers to AI-driven trading platforms.
-* human poem vs. ai poem
-# Discussion
+* human poem vs. ai poem OR ai generated image vs real photo OR human art vs AI generated art
+# Discussion 
 * Hypothesis / Question
 * open discussion
-# Slide 8: Future Outlook (2 minutes)
+# Slide 8: Future Outlook (2 minutes) *Ana*
 •	Job Transformation vs. Job Replacement: New roles emerging in AI oversight and maintenance.
 •	Continuous Learning: Importance of upskilling and reskilling.
 •	Collaboration between Humans and AI: Hybrid work environments.
-# Slide 9: Conclusion (2 minutes)
+# Slide 9: Conclusion (2 minutes) ??
 •	Summary of Key Points: Impact on industries, benefits, challenges, and future prospects.
 •	Call to Action: Encourage proactive adaptation to AI advancements.
 
