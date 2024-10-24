@@ -187,14 +187,27 @@ ArrayList 可以儲存任何類型的 object，可能在程式運作時會導致
 
 # Oracle 的 Lock Type 運作模式
 
+* ACCESS SHARE：
 
+* ROW SHARE：
+
+* ROW EXCLUSIVE：
+
+* SHARE UPDATE EXCLUSIVE：
+
+* SHARE：
+
+* SHARE ROW EXCLUSIVE：
+
+* EXCLUSIVE：
 
 
 ---
 
-# 變數(variable)與屬性(property)本質上的差異
+# 變數與屬性本質上的差異
+* 變數 (Variable)：
 
-
+* 屬性 (Property)：
 
 
 ---
