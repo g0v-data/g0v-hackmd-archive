@@ -33,12 +33,15 @@
 
 # 泛型容器 (Dictionary & List)
 
+* 泛型(Generics)：泛型允許我們根據自身需求在定義類別、方法或資料結構時暫時不指定具體的資料類型，而是在使用時根據需求指定類型。也就是可以設定可變型別的參數來傳遞，讓我們可以用更有彈性的方式來設計 Class、Method，操作資料等。
 
+* Dicitonary<>
+* List<>
 
 
 ---
 
-# DataTable, Array, ArrayList
+# Legacy Objects (Array, ArrayList, DataTable)
 
 
 
