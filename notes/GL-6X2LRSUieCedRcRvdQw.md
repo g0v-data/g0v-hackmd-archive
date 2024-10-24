@@ -1,0 +1,5 @@
+<h1 style="text-align: center;"><strong>Self Storage Options for Every Calgary Need</strong></h1>
+<p><img src="https://www.spstorage.com/wp-content/uploads/2016/05/space_place_logo.png" width="365" height="188" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Space Place Calgary makes it easy to store your belongings with their variety of self storage Calgary options. Their state-of-the-art facility offers top-notch security, ensuring that your items are well-protected. Whether you're a student needing temporary storage or a business owner looking for a long-term solution, Space Place has the perfect unit for you.</p>
+<p></p>
+<p>The <a href="https://www.spstorage.com/" target="_blank" rel="noopener"><strong>Calgary storage</strong></a> facility is designed with convenience in mind. With heated units, drive-up access, and flexible rental terms, Space Place makes it simple to store anything from seasonal gear to business files. Their climate-controlled units ensure that delicate items are safe from extreme temperatures.</p>

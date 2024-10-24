@@ -43,7 +43,7 @@
 
 定義：是鍵值的集合 ，可以透過 Key 取得 Value (e.g. `myDictionary["key"]`) 進行快速查找，長度任意。
 
-適用場景：用來根據標籤(Key)快速找到資料()，像是大型資料庫。
+適用場景：用來根據標籤(Key)快速找到資料(Value)，像是大型資料庫。
 
 語法：`Dictionary<TKey, TValue> myDictionary = new Dictionary<TKey, TValue>();`
 【新增】`myDictionary.Add(Key, Value)`
@@ -51,10 +51,10 @@
 
 範例：
 ```
-Dictionary<string, int> myDictionary = new Dictionary<string, int>();
-myDictionary.Add("Alice", 30);
-myDictionary.Add("Bob", 25);
-int aliceAge = myDictionary["Alice"]; // 30
+    Dictionary<string, int> myDictionary = new Dictionary<string, int>();
+    myDictionary.Add("Alice", 30);
+    myDictionary.Add("Bob", 25);
+    int aliceAge = myDictionary["Alice"]; // 30
 ```
 
 
@@ -70,11 +70,11 @@ int aliceAge = myDictionary["Alice"]; // 30
 
 範例：
 ```
-List<int> numbers = new List<int>();
-numbers.Add(1);
-numbers.Add(2);
-numbers.Add(3);
-int firstNumber = numbers[0]; // 1
+    List<int> numbers = new List<int>();
+    numbers.Add(1);
+    numbers.Add(2);
+    numbers.Add(3);
+    int firstNumber = numbers[0]; // 1
 ```
 
 * HashSet
@@ -87,11 +87,11 @@ int firstNumber = numbers[0]; // 1
 
 範例：
 ```
-HashSet<int> numbers = new HashSet<int>();
-numbers.Add(1);
-numbers.Add(2);
-numbers.Add(2); // 不會添加重複的 2
-bool exists = numbers.Contains(1); // true
+    HashSet<int> numbers = new HashSet<int>();
+    numbers.Add(1);
+    numbers.Add(2);
+    numbers.Add(2); // 不會添加重複的 2
+    bool exists = numbers.Contains(1); // true
 ```
 
 * LinkedList
@@ -104,19 +104,19 @@ bool exists = numbers.Contains(1); // true
 
 範例：
 ```
-LinkedList<int> numbers = new LinkedList<int>();
-numbers.AddLast(1);
-numbers.AddLast(2);
-numbers.AddFirst(0); // 在開頭添加 0
-bool exists = false;
-foreach (var number in numbers)
-{
-    if (number == 2)
+    LinkedList<int> numbers = new LinkedList<int>();
+    numbers.AddLast(1);
+    numbers.AddLast(2);
+    numbers.AddFirst(0); // 在開頭添加 0
+    bool exists = false;
+    foreach (var number in numbers)
     {
-        exists = true; // 查找元素
-        break;
+        if (number == 2)
+        {
+            exists = true; // 查找元素
+            break;
+        }
     }
-}
 ```
 
 ---
@@ -129,23 +129,59 @@ foreach (var number in numbers)
 
 範例：
 ```
-static void Main()
+    static void Main()
     {
-        int[] numbers = {1, 2, 3, 4, 5};
-        numbers[1] = 10;
-        Console.WriteLine(numbers[1]);
+        int[] numbers = {1, 2, 3, 4, 5}; // def. an array
+        numbers[1] = 10; // update numbers[1]
+        Console.WriteLine(numbers[1]);  // output = 10
     }
 ```
 
 * ArrayList
 
-定義：
+定義：ArrayList 是一個不特定型別，不固定長度的陣列。相較於 Array 來說，ArrayList 更加彈性，其可動態增加或減少 ArrayList 中的項目。在 C#2.0 之後建議用 List<T> 替代 ArrayList，因
+ArrayList 可以儲存任何類型的 object，可能在程式運作時會導致轉換錯誤。
+
+【註】需先引用命名空間：`System.Collections`
+
+範例：
+```
+    static void Main()
+    {
+        ArrayList fruits = new ArrayList();
+
+        fruits.Add("Apple");
+        fruits.Add("Banana");
+        fruits.Add("Cherry");
+
+        Console.WriteLine(fruits[1]);  // output: Banana
+    }
+```
 
 * DataTable
 
-定義：
+定義：DataTable 就像是一張全新的表格，允許使用者自行新增 Column 和 Row ，每一列都能夠自行定義資料類型(使用 typeof())，且可以在運行的時候增加或刪除行、列。通常適用於儲存和操作結構化資料，特別是和資料庫交互的情況下，因此，也可以將許多 DataTable 進行串聯，建立一個 DataSet。
 
+範例：
+```
+    static void Main()
+    {
+        DataTable table = new DataTable("Products");
 
+        table.Columns.Add("ID", typeof(int));
+        table.Columns.Add("Name", typeof(string));
+        table.Columns.Add("Price", typeof(decimal));
+
+        table.Rows.Add(1, "Laptop", 999.99m);
+        table.Rows.Add(2, "Smartphone", 499.99m);
+        table.Rows.Add(3, "Tablet", 299.99m);
+
+        foreach (DataRow row in table.Rows)
+        {
+            Console.WriteLine($"{row["ID"]}, {row["Name"]}, {row["Price"]}");
+        }
+    }
+```
 
 ---
 
@@ -162,3 +198,5 @@ static void Main()
 
 
 ---
+
+
