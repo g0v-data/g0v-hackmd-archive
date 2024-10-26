@@ -2,7 +2,7 @@ Sofa Bed: Giải Pháp Hoàn Hảo Cho Không Gian Sống Hiện Đại
 Tổng Quan Về Sofa
 Sofa bed, hay còn gọi là sofa giường, đã trở thành một phần không thể thiếu trong nội thất của nhiều gia đình Việt Nam. Với sự phát triển chóng của các căn hộ và không gian sống hạn chế, sản phẩm này mang đến giải pháp tiết kiệm diện và tối ưu hóa công năng. Sofa giường không chỉ là nơi tiếp khách mà còn là một không gian nghỉ ngơi thoải mái, đảm bảo thẩm mỹ, chất liệu êm ái cho những giấc ngủ trọn vẹn.
 Sofa Bed Là Gì?
-Sofa bed, hay giường sofa, là loại sofa có năng chuyển đổi thành một chiếc giường với nhiều kíchước khác nhau. Thiết kế thông minh cho phép người sử dụng dễ dàng chuyển đổi từ thái ngồi sang trạng thái nằm trong vài giây. Đây là sản phẩm phù hợp cho những ai cần một giải pháp linh hoạt cho không gian sống mình.
+Sofa bed, hay [giường sofa](https://pula.vn/sofa-bed-sofa-giuong), là loại sofa có năng chuyển đổi thành một chiếc giường với nhiều kíchước khác nhau. Thiết kế thông minh cho phép người sử dụng dễ dàng chuyển đổi từ thái ngồi sang trạng thái nằm trong vài giây. Đây là sản phẩm phù hợp cho những ai cần một giải pháp linh hoạt cho không gian sống mình.
 Ưu Điểm Của Sofa Bed
 Tiết Kiệm Diện Tích: Sofa giường cực kỳ phù hợp cho các căn hộ hẹp hoặc phòng trọ, nơi mà diện tích sống là một yếu tố quan trọng.
 Đa Năng: không chỉ là nơi tiếp khách mà còn là không gian nghỉ ngơi, thư giãn, phục vụ nhiều hoạt động khác nhau trong gia đình.
