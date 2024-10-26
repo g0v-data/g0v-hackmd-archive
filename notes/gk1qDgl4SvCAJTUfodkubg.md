@@ -1,6 +1,6 @@
 ---
 title: "g0v技能貼紙"
-tags: hackpad
+tags: infras, hackpad
 ---
 
 # g0v技能貼紙

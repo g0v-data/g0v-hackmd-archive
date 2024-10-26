@@ -1,3 +1,7 @@
+---
+tags:
+---
+
 #  Setting Up Distributed Tracing in Angular with Jaeger and OpenTelemetry
 Monitoring performance over various services and identifying the bottlenecks in modern-day distributed systems is a challenging feat. However, distributed tracing solves the forwarding policies of requests through several services, simplifying the visualization and debugging of application profiling. For single-page applications (SPAs) such as Angular, in which the individual screen is constantly refreshed, distributed tracing is a prerequisite in helping analyze the effects of frontend interaction towards backend services. This guide will show you how to set up the tracing system in the Angular application through OpenTelemetry and Jaeger and implement distributed tracing as done in other systems. Upon completion, you will be proficient in tracing application interactions in Angular, including covering relevant spans and controlling the requests to the backend systems, which will be presented in Jaeger. Now let’s begin incorporating this fundamental toolkit into our Angular applications for greater insight!
 
