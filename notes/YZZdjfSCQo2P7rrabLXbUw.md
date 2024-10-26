@@ -4,28 +4,20 @@
 :::warning
 目錄
 [TOC]
-Note10 Lite
-新北 $3400 https://www.ruten.com.tw/item/show?22421592002852
-大里 $3300 台中市大里區中興路2段和東榮路口,85度C門口面交.0930-873-666
-https://www.ruten.com.tw/item/show?22437632235009
-:::
-必勝客
-https://www.pizzahut.com.tw/order/?fm=cp&mode=step_2&type_id=1025&cno=14107&fm=obn
-邋遢蜥蜴
-https://www.youtube.com/@user-sloppylizard1997
 
-水庫園區景點
-https://web.wra.gov.tw/shihmen/cp.aspx?n=7640
+:::
+
 台灣小百岳
 https://catyc.pixnet.net/blog/post/63581416-%E5%8F%B0%E7%81%A3%E5%B0%8F%E7%99%BE%E5%B2%B3
-
-Easy Note Origami 便條摺學
-https://www.youtube.com/@EasyNoteOrigami/videos
-
 
 Google 遊戲
 https://web.jsps.kh.edu.tw/googlegame/
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0ee72ad82c31f2befbc519c9493b9761.png)
+
+#### 日本環球影城自由行規劃
+門票價格等級：https://www.usj.co.jp/ticket/common/studiopass/price-calendar.html?spm=Activity.SectionCollapse.Link&clickId=07c4f8293c
+京阪神環球影城5天4夜行程 https://kimiyo.tw/kansai-trip4/
+詳細活動，超級任天堂等 https://vocus.cc/article/655c5374fd89780001bb1262
 
 
 #### 常用連結
