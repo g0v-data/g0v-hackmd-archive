@@ -1,0 +1,22 @@
+VK88 - Trang Chủ Chính Thức - Link Đăng Ký Mới Nhất 2024
+<p>&nbsp;</p>
+<p><img src="https://pbs.twimg.com/profile_banners/1849859282935955456/1729909684/1500x500" alt="" width="804" height="268" /></p>
+<p><a href="https://vk88.online/"><span style="font-weight: 400;">VK88</span></a><span style="font-weight: 400;"> l&agrave; nh&agrave; c&aacute;i c&aacute; cược thể thao trực tuyến uy t&iacute;n số 1 tại Ch&acirc;u &Aacute;. VK88 chuy&ecirc;n cung cấp c&aacute;c sản phẩm: Casino, Thể thao, Xổ số,.... Đăng k&yacute; ngay +100k.</span></p>
+<p><span style="font-weight: 400;">#vk88 #nhacaivk88 #linkvaovk88 #vk88online</span></p>
+<p><strong>Th&ocirc;ng Tin Li&ecirc;n Hệ:&nbsp;&nbsp;</strong></p>
+<p><strong>- Địa Chỉ:</strong><span style="font-weight: 400;"> 17B Đ. Nguyễn Thị Minh Khai, Bến Ngh&eacute;, Quận 1, Hồ Ch&iacute; Minh, Việt Nam</span></p>
+<p><strong>- Số Điện Thoại:</strong><span style="font-weight: 400;"> 0931079869</span></p>
+<p><strong>- Email:</strong><span style="font-weight: 400;"> vk88.online@gmail.com</span></p>
+<p><strong>- Website:</strong> <a href="https://vk88.online/"><span style="font-weight: 400;">https://vk88.online/</span></a></p>
+<p><img src="https://pbs.twimg.com/profile_images/1850001271786496000/yae-Xyl9_400x400.jpg" alt="" width="247" height="247" /></p>
+<p><strong>Google Stacking</strong></p>
+<p><span style="font-weight: 400;">GG Site: </span><a href="https://sites.google.com/view/vk88online/"><span style="font-weight: 400;">https://sites.google.com/view/vk88online/</span></a></p>
+<p><span style="font-weight: 400;">GG Drive: </span><a href="https://drive.google.com/drive/folders/1in-zeZdSQEK_8v9aNKqqlQL_FBzDFwCo?usp=sharing"><span style="font-weight: 400;">https://drive.google.com/drive/folders/1in-zeZdSQEK_8v9aNKqqlQL_FBzDFwCo?usp=sharing</span></a></p>
+<p><span style="font-weight: 400;">GG Colab: </span><a href="https://colab.research.google.com/drive/1dMUr2tJmUtZ5xbN5jdfs20dFpatzXNye?usp=sharing"><span style="font-weight: 400;">https://colab.research.google.com/drive/1dMUr2tJmUtZ5xbN5jdfs20dFpatzXNye?usp=sharing</span></a></p>
+<p><span style="font-weight: 400;">GG Form: </span><a href="https://docs.google.com/forms/d/e/1FAIpQLSd7o0e5pbhE1Lrp9Y6b_8vgKtWMGbptwmBJhGjb_Yrx9Mak7g/viewform?usp=sf_link"><span style="font-weight: 400;">https://docs.google.com/forms/d/e/1FAIpQLSd7o0e5pbhE1Lrp9Y6b_8vgKtWMGbptwmBJhGjb_Yrx9Mak7g/viewform?usp=sf_link</span></a></p>
+<p><span style="font-weight: 400;">GG Doc: </span><a href="https://docs.google.com/document/d/167Dxat9VhE5rkUzeiNY3SUj6jMlxQXopYO7ULosr3Qw/edit?usp=sharing"><span style="font-weight: 400;">https://docs.google.com/document/d/167Dxat9VhE5rkUzeiNY3SUj6jMlxQXopYO7ULosr3Qw/edit?usp=sharing</span></a></p>
+<p><span style="font-weight: 400;">GG Draw: </span><a href="https://docs.google.com/drawings/d/1fBqHs6TP_cQUkM3kaGEuKTDEiNCDRM9CTkdrKxmXIDI/edit?usp=sharing"><span style="font-weight: 400;">https://docs.google.com/drawings/d/1fBqHs6TP_cQUkM3kaGEuKTDEiNCDRM9CTkdrKxmXIDI/edit?usp=sharing</span></a></p>
+<p><span style="font-weight: 400;">GG Slide: </span><a href="https://docs.google.com/presentation/d/1u6snP3V4GZMrur_5oDwxEgKWe-CZUVgeS-OEGIPeQzE/edit?usp=sharing"><span style="font-weight: 400;">https://docs.google.com/presentation/d/1u6snP3V4GZMrur_5oDwxEgKWe-CZUVgeS-OEGIPeQzE/edit?usp=sharing</span></a></p>
+<p><span style="font-weight: 400;">GG Sheet: </span><a href="https://docs.google.com/spreadsheets/d/1OxtoCzXUFwgIlzokrtjYYMxt_eyOWDjKNI6pnIttfiU/edit?usp=sharing"><span style="font-weight: 400;">https://docs.google.com/spreadsheets/d/1OxtoCzXUFwgIlzokrtjYYMxt_eyOWDjKNI6pnIttfiU/edit?usp=sharing</span></a></p>
+<p><span style="font-weight: 400;">GG My Map: </span><a href="https://www.google.com/maps/d/edit?mid=1MWVua7t9cuBjHppdJ-ooJntS0nTJKxU&amp;usp=sharing"><span style="font-weight: 400;">https://www.google.com/maps/d/edit?mid=1MWVua7t9cuBjHppdJ-ooJntS0nTJKxU&amp;usp=sharing</span></a></p>
+<p><span style="font-weight: 400;">GG Earth: </span><a href="https://earth.google.com/earth/d/1XoUkVx_SLF01ov5-9Wp2zhD4dzD8qf3i?usp=sharing"><span style="font-weight: 400;">https://earth.google.com/earth/d/1XoUkVx_SLF01ov5-9Wp2zhD4dzD8qf3i?usp=sharing</span></a></p>
