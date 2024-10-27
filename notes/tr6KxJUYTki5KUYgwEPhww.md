@@ -1,9 +1,14 @@
+---
+tags: edu, data
+---
+
 # 大專校院開放資料需求整理
 
 [ISAC中華民國大專校院資訊服務協會](https://www.isac.org.tw/) 針對大專院校開放資料建置了 [開放資料管理系統](https://opendata.cc-isac.org/)，試著蒐集與推廣開放資料，下面整理一下來自社群提出的期待：
 
 * 各大學的開放式課程清冊 by chewei
     * 建議通用欄位，課程名稱、課程網址、課程講師、開課單位、課程簡介、來源平台，來自 [CourseAPI 專案](https://g0v.hackmd.io/@chewei/CourseAPI/)的期待
+    * 跨平台資料整合展示網頁：https://courseapi.org/
 * 學校法規的歷史版本 by sungcc
 * 校園室內平面圖 by sungcc
     * chewei 補充： 這裡有一份探討[如何展示校園立體空間的文件](https://g0v.hackmd.io/4_ycufouSMGkWx1EbyIrhw)
