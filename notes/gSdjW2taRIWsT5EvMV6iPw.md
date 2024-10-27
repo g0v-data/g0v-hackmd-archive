@@ -136,12 +136,12 @@ N/A
             - [x] RJ45 線
 - 13:30 - 場佈
   - [ ] 簽到（問飲料）
-  - [ ] 排桌子椅子
+  - [x] 排桌子椅子
       - 桌子 3x3、平行於長邊
       - 一個桌子放 4 人，9x4=36 椅子
       - Reference: https://g0v.hackmd.io/9yeDnDJqQTe7CklA7pwuEA
-  - [ ] 麥克風
-  - [ ] 延長線佈置
+  - [x] 麥克風
+  - [x] 延長線佈置
   - [ ] 門口黏引導牌
   - [ ] WIFI
       - [ ] 佈機x2
@@ -151,13 +151,13 @@ N/A
       - [ ] 開好兩台 router admin 監測連網狀態
       - [ ] (optional) netgear 換成 5GHz only?
   - [ ] 投影的電腦用 google chrome 開好
-    - [ ] Google Chrome tab: [投影片](https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit)
-    - [ ] Google Chrome tab: [Bignum](https://cofacts.github.io/community-builder/#/bignum/setup)
-    - [ ] Google Chrome tab: [KKTIX](https://cofacts.kktix.cc/events/cofactseditor42)
-    - [ ] Google Chrome tab: [Slido admin](https://admin.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/questions)
-    - [ ] Google Chrome tab: [Slido](https://wall.sli.do/event/rFQZd27cVvgEMyJAgv4BqT?section=215e56d0-a002-4b7e-9bf0-c58acbacc9bf)
-    - [ ] Google Chrome tab: [開場影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs)
-    - [ ] BGM
+    - [x] Google Chrome tab: [投影片](https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit)
+    - [x] Google Chrome tab: [Bignum](https://cofacts.github.io/community-builder/#/bignum/setup)
+    - [x] Google Chrome tab: [KKTIX](https://cofacts.kktix.cc/events/cofactseditor42)
+    - [x] Google Chrome tab: [Slido admin](https://admin.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/questions)
+    - [x] Google Chrome tab: [Slido](https://wall.sli.do/event/rFQZd27cVvgEMyJAgv4BqT?section=215e56d0-a002-4b7e-9bf0-c58acbacc9bf)
+    - [x] Google Chrome tab: [開場影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs)
+    - [x] BGM
     - [ ] Analytics
 - 14:00 - 14:20 開場
     - 放[長影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs) 8min
