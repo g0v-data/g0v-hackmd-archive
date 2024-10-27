@@ -307,6 +307,7 @@ tags: 新生流域
 - 日本街區排水溝養魚
     - https://www.reddit.com/r/BeAmazed/comments/5xgvjb/drainage_canal_in_japan_is_so_clean_they_even/
     - https://www.nairaland.com/4534180/photos-prove-japan-not-like/2
+- 曼谷 水道 https://www.facebook.com/share/r/w5uhhMfhv1TT3JAN/
 - 曼谷明渠地圖 https://www.facebook.com/share/p/hL5mVPasCLFbvxaR/
 - 清邁 https://www.travelerluxe.com/article/desc/230009056
 - peru rimac river https://www.facebook.com/share/p/q68PjgtFNiSBAc8p/
