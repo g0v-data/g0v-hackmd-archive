@@ -1,0 +1,23 @@
+Thảo Ngân TKT | Tác Giả Độc Quyền Tại Top Kon Tum
+<p>&nbsp;</p>
+<p><img src="https://pbs.twimg.com/profile_banners/1739644121885880320/1704089497/1500x500" alt="" width="795" height="265" /></p>
+<p><span style="font-weight: 400;">T&ocirc;i l&agrave; </span><a href="https://topkontum.com/author/thao-ngan-tkt/"><span style="font-weight: 400;">Thảo Ng&acirc;n TKT</span></a><span style="font-weight: 400;"> - T&aacute;c giả ch&iacute;nh thức, l&agrave; tay viết duy nhất của trang Top Kon Tum (topkontum.com). Trước khi đồng h&agrave;nh c&ugrave;ng </span><a href="https://topkontum.com/doi-ngu-nhan-su/"><span style="font-weight: 400;">đội ngũ nh&acirc;n sự Top Kon Tum</span></a><span style="font-weight: 400;">, t&ocirc;i đ&atilde; xuất hiện &amp; g&oacute;p phần x&acirc;y dựng nhiều b&agrave;i viết lớn tr&ecirc;n c&aacute;c trang blog nổi tiếng. H&atilde;y theo d&otilde;i t&ocirc;i, để cập nhật những b&agrave;i viết chất lượng, những review c&ocirc;ng t&acirc;m về mọi thứ ở Kon Tum.</span></p>
+<p><span style="font-weight: 400;">#thaongantkt #tacgiathaongantkt #topkontum</span></p>
+<p><strong>Th&ocirc;ng Tin Li&ecirc;n Hệ:</strong></p>
+<p><strong>Qu&ecirc; Qu&aacute;n:</strong><span style="font-weight: 400;"> Kon Tum, Vietnam</span></p>
+<p><strong>Số Điện Thoại:</strong><span style="font-weight: 400;"> 091 666 66 67</span></p>
+<p><strong>Email:</strong><span style="font-weight: 400;"> author.thaongantkt@gmail.com</span></p>
+<p><strong>Website: </strong><a href="https://topkontum.com/author/thao-ngan-tkt/"><span style="font-weight: 400;">https://topkontum.com/author/thao-ngan-tkt/</span></a></p>
+<p><img src="https://pbs.twimg.com/profile_images/1739644463251910656/JDiw1bst_400x400.jpg" alt="" width="294" height="294" /></p>
+<p><strong>GG Stacking</strong></p>
+<p><span style="font-weight: 400;">GG Site: </span><a href="https://sites.google.com/view/thaongantkt/"><span style="font-weight: 400;">https://sites.google.com/view/thaongantkt/</span></a></p>
+<p><span style="font-weight: 400;">GG Drive: </span><a href="https://drive.google.com/drive/folders/1hpIHd17hYKvmS76SffyzUffqj6jEZWP3?usp=sharing"><span style="font-weight: 400;">https://drive.google.com/drive/folders/1hpIHd17hYKvmS76SffyzUffqj6jEZWP3?usp=sharing</span></a></p>
+<p><span style="font-weight: 400;">GG Colab: </span><a href="https://colab.research.google.com/drive/1lBfiFwT4C4vv7NqUJWujmtJLeRCxFyvk?usp=sharing"><span style="font-weight: 400;">https://colab.research.google.com/drive/1lBfiFwT4C4vv7NqUJWujmtJLeRCxFyvk?usp=sharing</span></a></p>
+<p><span style="font-weight: 400;">GG Form: </span><a href="https://docs.google.com/forms/d/e/1FAIpQLScY-vaM0hhc9AoVgyxMxKPUCYyF29ipW91hGXo_U39WgElZMA/viewform?usp=sf_link"><span style="font-weight: 400;">https://docs.google.com/forms/d/e/1FAIpQLScY-vaM0hhc9AoVgyxMxKPUCYyF29ipW91hGXo_U39WgElZMA/viewform?usp=sf_link</span></a></p>
+<p><span style="font-weight: 400;">GG Doc: </span><a href="https://docs.google.com/document/d/1j9in7Li8qpAL9VZ1gc0gSdZU9nUko24hJI0MLE5ShwE/edit?usp=sharing"><span style="font-weight: 400;">https://docs.google.com/document/d/1j9in7Li8qpAL9VZ1gc0gSdZU9nUko24hJI0MLE5ShwE/edit?usp=sharing</span></a></p>
+<p><span style="font-weight: 400;">GG Draw: </span><a href="https://docs.google.com/drawings/d/1MDZQ5uoKfqKaH2BqwoNGws5TIyGr6mTg6ShnuHFLMLY/edit?usp=sharing"><span style="font-weight: 400;">https://docs.google.com/drawings/d/1MDZQ5uoKfqKaH2BqwoNGws5TIyGr6mTg6ShnuHFLMLY/edit?usp=sharing</span></a></p>
+<p><span style="font-weight: 400;">GG Slide: </span><a href="https://docs.google.com/presentation/d/1dQno_E579pdGXBvSbsMx30BfpA35WVCBQ5MLpwqC1L8/edit?usp=sharing"><span style="font-weight: 400;">https://docs.google.com/presentation/d/1dQno_E579pdGXBvSbsMx30BfpA35WVCBQ5MLpwqC1L8/edit?usp=sharing</span></a></p>
+<p><span style="font-weight: 400;">GG Sheet: </span><a href="https://docs.google.com/spreadsheets/d/1AFaGHszBj4kINC4ZN4BaNzwZ_s-MAGpsg1unMSlQrhs/edit?usp=sharing"><span style="font-weight: 400;">https://docs.google.com/spreadsheets/d/1AFaGHszBj4kINC4ZN4BaNzwZ_s-MAGpsg1unMSlQrhs/edit?usp=sharing</span></a></p>
+<p><span style="font-weight: 400;">GG My Map:&nbsp; </span><a href="https://www.google.com/maps/d/edit?mid=12SQEknIQvA6ml7jfTlNane7NMeqAssM&amp;usp=sharing"><span style="font-weight: 400;">https://www.google.com/maps/d/edit?mid=12SQEknIQvA6ml7jfTlNane7NMeqAssM&amp;usp=sharing</span></a></p>
+<p><span style="font-weight: 400;">GG Earth: </span><a href="https://earth.google.com/earth/d/16a8z74ab2s8iAiGCGQbP05JdZXZ2cpnt?usp=sharing"><span style="font-weight: 400;">https://earth.google.com/earth/d/16a8z74ab2s8iAiGCGQbP05JdZXZ2cpnt?usp=sharing</span></a></p>
+<p>&nbsp;</p>
