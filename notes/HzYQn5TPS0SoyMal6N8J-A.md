@@ -13,5 +13,5 @@
 **新增資料表紀錄是否發送郵件**
  * 新增資料表"address_book_email"
  * 填入DB的方式使用Dbeaver的進階複製與進階貼上
- * 目前
+ * 目前關閉(註解掉物件 DAO Service)
 :::
