@@ -1,23 +1,22 @@
 ## Implementing OpenTelemetry in React: A Practical Guide
 With the increasing importance of user experience in modern web applications comes the need for a coherent strategy for the identification of performance problems. For application developers, observability, which encapsulates logging, metrics, and tracing, gives these developers the power to understand the application better. Most importantly, distributed tracing aids the request's journey from the front-end and back-end services, exposing areas of delays and failures.
 
-We have this tutorial in place for you to learn how to implement OpenTelemetry in a React application. You'll also learn how to do auto and manual instrumentation, send traces to Jaeger or Zipkin, and apply the optimizations of tracing in a production-grade system. This will give you a full-loop setup, allowing you to optimize the usage and maintenance of your application.
+We have this tutorial in place for you to learn how to implement [OpenTelemetry](https://opentelemetry.io/) in a [React](https://react.dev/) application. You'll also learn how to do auto and manual instrumentation, send traces to [Jaeger](https://www.jaegertracing.io/) or [Zipkin](https://zipkin.io/), and apply the optimizations of tracing in a production-grade system. This will give you a full-loop setup, allowing you to optimize the usage and maintenance of your application.
 
 ## Prerequisites
 Prior to implementing OpenTelemetry in your React application, it is advisable to have a fair appreciation of React as well as a basic knowledge of observability. For example, tracing, spans, and instrumentation deployment will potentially make the setup easier; however, this guide will address the basics.
 
 To get started, you’ll need:
 
-* Node.js and npm installed since you will need to install and maintain the OpenTelemetry added to your project.
+* [Node.js](https://nodejs.org/en) and [npm](https://www.npmjs.com/) installed since you will need to install and maintain the OpenTelemetry added to your project.
 * An instance of Jaeger or Zipkin in operation will be a trace backend where the trace data will be sent to and displayed. You can run Jaeger or Zipkin in your local environment with the help of Docker, or you can use their hosted version in the cloud.
 
-This guide assumes that you either have an existing react application in place or have done the basic setup using create-react-app. Given these prerequisites, you will be in a position to begin the process of integration of OpenTelemetry and retrieval of useful tracing data from your React app.
+This guide assumes that you either have an existing react application in place or have done the basic setup using `create-react-app`. Given these prerequisites, you will be in a position to begin the process of integration of OpenTelemetry and retrieval of useful tracing data from your React app.
 
 ## Setting Up OpenTelemetry in React
+To embed OpenTelemetry in your React app, the first necessary step is to install relevant packages. For OpenTelemetry, there are libraries designed specially for web applications, making them easy to set up and configure. Start by adding the packages listed below to your project: `@opentelemetry/api`, `@opentelemetry/sdk-trace-web`, and `@opentelemetry/exporter-trace-otlp-http`. The first module contains the core tracing api, the second is a web-specific trace provider, and the last one is an exporter to conform traces to be sent to Jaeger or Zipkin.
 
-To embed OpenTelemetry in your React app, the first necessary step is to install relevant packages. For OpenTelemetry, there are libraries designed specially for web applications, making them easy to set up and configure. Start by adding the packages listed below to your project: @opentelemetry/api, @opentelemetry/sdk-trace-web, and @opentelemetry/exporter-trace-otlp-http. The first module contains the core tracing api, the second is a web-specific trace provider, and the last one is an exporter to conform traces to be sent to Jaeger or Zipkin.
-
-Next installed configure OpenTelemetry in the main entry file of a React application that is usually index.js or App.js. Create a WebTracerProvider instance and configure the exporter that will be used to send traced data to the backend, dockerized Jaeger in this case. This makes it possible to use OpenTelemetry to automatically provide trace data as the app communicates with other services. An illustration is provided below:
+Next installed configure OpenTelemetry in the main entry file of a React application that is usually `index.js` or `App.js`. Create a `WebTracerProvider` instance and configure the exporter that will be used to send traced data to the backend, dockerized Jaeger in this case. This makes it possible to use OpenTelemetry to automatically provide trace data as the app communicates with other services. An illustration is provided below:
 
 ```javascript
 import React from 'react';
@@ -40,7 +39,8 @@ ReactDOM.render(<App />, document.getElementById('root'));
 Using this configuration, OpenTelemetry sets up tracing inside your React application and sends trace data to the defined endpoint. This enables a simple configuration, which is intended as a starting point for tracing, which can be enriched with custom spans and additional instrumentation as you work your way down this guide.
 
 ### Adding Automatic Instrumentation for HTTP Requests
-After configuring OpenTelemetry, you can further encourage capturing HTTP requests out of your React application by turning on instrumentation by default. This will come in handy to record communications between various systems at the same time as it provides flexibility by creating individual spans for each network request, thus allowing to keep track of how long API calls are made, how many fail, and where the problems lie. To add HTTP instrumentation, install the @opentelemetry/instrumentation-fetch instead of @opentelemetry/instrumentation-xml-http-request package in case your application uses fetch; otherwise, skip this step if your application uses axios, which works on xmlhttprequest. After that, go ahead and attach the instrumentation to your pre-existing WebTracerProvider. Here is a sample that utilizes fetch instrumentation:
+After configuring OpenTelemetry, you can further encourage capturing HTTP requests out of your React application by turning on instrumentation by default. This will come in handy to record communications between various systems at the same time as it provides flexibility by creating individual spans for each network request, thus allowing to keep track of how long API calls are made, how many fail, and where the problems lie. To add HTTP instrumentation, install the `@opentelemetry/instrumentation-fetch` instead of `@opentelemetry/instrumentation-xml-http-request` package in case your application uses fetch; otherwise, skip this step if your application uses axios, which works on `xmlhttprequest`. After that, go ahead and attach the instrumentation to your pre-existing `WebTracerProvider`. Here is a sample that utilizes fetch instrumentation:
+
 ```javascript
 import { FetchInstrumentation } from '@opentelemetry/instrumentation-fetch';
 import { registerInstrumentations } from '@opentelemetry/instrumentation';
@@ -91,7 +91,7 @@ const MyComponent = () => {
 
 export default MyComponent;
 ```
-In this case, the span called buttonClickOperation begins when the button is pressed and finishes after the whole operation is over. This custom span is created, and it shall reside in the trace backend that you are using, and it will contain information about this action.
+In this case, the span called `buttonClickOperation` begins when the button is pressed and finishes after the whole operation is over. This custom span is created, and it shall reside in the trace backend that you are using, and it will contain information about this action.
 
 Custom spans allow you to accurately trace certain critical Ponte elements of your applications, making it possible to track performance even outside the automatically captured performance data boundaries. It is in that thinking that these spans are useful, as they enable the volumetric analysis of user actions and behavior across common components of the application—React in this case.
 
@@ -101,6 +101,7 @@ The propagation of context is important in the aspect of distributed tracing, wh
 OpenTelemetry has a context API that you can use to work with the context effectively. This API helps to fill the trace context almost everywhere in the application while making custom spans or doing asynchronous flows. This is how a context can be propagated in the nested components:
 
 To begin with, you will have to adjust the way you create custom spans in a way that the current context is always taken into account. This can be accomplished by using the setSpan method, which ‘injects’ the span into the context. Here is an illustration:
+
 ```javascript
 import React from 'react';
 import { trace, context } from '@opentelemetry/api';
@@ -137,7 +138,7 @@ const ParentComponent = () => {
 
 export default ParentComponent;
 ```
-In the given case, there is a parent button, and upon clicking it, a span for parentAction is created. The context.with method is called to activate the context while rendering the ChildComponent. Thus, all the spans created in the scope of the ChildComponent will have the appropriate tracing context of the parentAction span.
+In the given case, there is a parent button, and upon clicking it, a span for `parentAction` is created. The context.with method is called to activate the context while rendering the `ChildComponent`. Thus, all the spans created in the scope of the `ChildComponent` will have the appropriate tracing context of the `parentAction` span.
 
 Utilizing such context propagation enables one to maintain a clear view of traces across different components and functions, making it possible to visualize user actions and the system behavior fully. It proves the visibility of the system, as performance can be better tracked and issues resolved more easily.
 
@@ -157,7 +158,7 @@ docker run -d --name jaeger \
   jaegertracing/all-in-one:1.32
 ```
 
-In your React application, you will have to extend the basic OpenTelemetry configuration by adding the OTLPTraceExporter. This is an example of how to set up the exporter to push trace data to Jaeger:
+In your React application, you will have to extend the basic OpenTelemetry configuration by adding the `OTLPTraceExporter`. This is an example of how to set up the exporter to push trace data to Jaeger:
 
 ```javascript
 import { WebTracerProvider } from '@opentelemetry/sdk-trace-web';
@@ -172,7 +173,7 @@ const exporter = new OTLPTraceExporter({
 provider.addSpanProcessor(new SimpleSpanProcessor(exporter));
 provider.register();
 ```
-In this setting, it is the OTLPTraceExporter, which is set to send trace data through the given URL to Jaeger. The spans are processed as soon as they are created by the SimpleSpanProcessor, which in turn sends the spans to Jaeger for storage and visualization without any delay.
+In this setting, it is the `OTLPTraceExporter`, which is set to send trace data through the given URL to Jaeger. The spans are processed as soon as they are created by the `SimpleSpanProcessor`, which in turn sends the spans to Jaeger for storage and visualization without any delay.
 
 When traces are already sent, navigate to the Jaeger UI at http://localhost:16686. You are expected to view traces corresponding to the actions performed in your React application. After performing a service query in Jaeger UI, you will be able to check the trace details with associated HTTP request spans as well as those custom spans you have created.
 
@@ -184,6 +185,15 @@ If traces are successfully exported to Jaeger or Zipkin, the subsequent turn of 
 First, deploy the React application and interact with those actions that you have already instrumented. That can include pushing buttons, calling APIs, flipping between routes, and so on. All of these interactions will create appropriate spans in OpenTelemetry that will be dispatched to your tracing backend.
 
 After you have made some interactions, close the Jaeger UI at http://localhost:16686 or the Zipkin UI at http://localhost:9411. In the case of using Jaeger, you can select the service using the dropdown and click on the option ‘Find Traces’. You should get the traces corresponding to the actions taken in your application. By clicking on a particular trace, you will be able to access its information, which includes information such as the different span levels of the trace, the length of time each span level lasted, as well as any additional labels attached to the trace.
+
+As an illustration, in the event of clicking on a button that caused a custom span to initiate, you should be able to view that span in the trace alongside any of the spans that entail the HTTP requests that this action triggered. Each span contains timestamps of its inception, the total time taken, and whether it was executed or was unsuccessful. This is also helpful in analyzing what could cause delays or outages within the application.
+
+Furthermore, it also considers the span connections in terms of spans, which depict the sequencing of requests within the application. Views that show spans that are connected in a particular design will illustrate how different components of the application are related, thus improving the efficiency in solving and enhancing the system.
+
+While being rigorous in testing and validating your traces on the tracing UI, you can be satisfied that your OpenTelemetry implementation measures whatever is needed to monitor the performance and the user interaction in the React Application. Such visibility enables you to make improvements to the application in terms of performance and user experience based on facts.
+
+## Conclusion
+By incorporating OpenTelemetry into your React app, it becomes easier to see performance and user actions. This is achieved through automatic and custom instrumentation, tactful context propagation, and trace data exportation to services like Jaeger or Zipkin, where an extensive tracing architecture is built. In the tracing UI, you also test your traces to ensure you get useful data for monitoring and troubleshooting purposes. Having undertaken these activities, you will be in a position to enhance the performance of the app, improve the experiences of users, and resolve performance-related issues even before they occur, increasing the efficiency and reliability of your React app.
 
 
 
