@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [vTaiwan 工作組 Working Group](../notes/e0G4OMPFQYuA2DaZyu74bA.md) | 2024-10-17T17:15:00+08:00 | 2019-02-20T21:09:17+08:00 |
+| 1 | [vTaiwan 工作組 Working Group](../notes/e0G4OMPFQYuA2DaZyu74bA.md) | 2024-10-28T11:02:02+08:00 | 2019-02-20T21:09:17+08:00 |
 | 2 | [開放國會 vTaiwan TttC 文章分析](../notes/eNOPsZ1tQUWBW8rN90gN8g.md) | 2024-08-13T20:09:12+08:00 | 2024-08-13T19:29:03+08:00 |
 | 3 | [0703小松](../notes/yA19GCC1S-qzu2AIy0MMrA.md) | 2024-07-03T20:16:32+08:00 | 2024-06-28T20:01:26+08:00 |
 | 4 | [polis 許願清單](../notes/tjs4swm5ScqufIrjjsS14w.md) | 2024-06-28T19:39:44+08:00 | 2024-06-19T21:01:47+08:00 |
