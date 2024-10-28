@@ -107,7 +107,12 @@ const handleLogin = () => {
   login(username, password).then(...);  
 };
 ```
-In this example, we observe the `App.js` file having an import referring to a shared `login` function from a shared authentication package called (`@ecommerce/shared-auth`). This hints that this authentication logic can be reused from one component to the other. The `handleLogin` method invokes that function and provides the arguments `username` and `password` for the parameters. It probably returns a promise that is waited for by `.then(...)` to take some actions following the result of a login attempt, such as moving the user to another page or presenting them with some message. This approach encourages the reuse of code as all the authentication logic is placed in one module, which can be easily updated and used in different applications or services within the monorepo. The consolidation of such libraries means that all the applications will be working with the same authentication logic, thereby minimizing redundancy and upholding uniformity.
+In this example, we observe the `App.js` file having an import referring to a shared `login` function from a shared authentication package called// web-store/src/app/App.js  
+import { login } from '@ecommerce/shared-auth';  
+
+const handleLogin = () => {  
+  login(username, password).then(...);  
+}; (`@ecommerce/shared-auth`). This hints that this authentication logic can be reused from one component to the other. The `handleLogin` method invokes that function and provides the arguments `username` and `password` for the parameters. It probably returns a promise that is waited for by `.then(...)` to take some actions following the result of a login attempt, such as moving the user to another page or presenting them with some message. This approach encourages the reuse of code as all the authentication logic is placed in one module, which can be easily updated and used in different applications or services within the monorepo. The consolidation of such libraries means that all the applications will be working with the same authentication logic, thereby minimizing redundancy and upholding uniformity.
 
 ### Step 3: Optimizing CI/CD with Caching and Affected Builds
 To optimize and speed up feedback, this team uses Nx caching and affected builds. Thus, whenever developers make code changes, push those changes to the repository, create new tests, or attempt to rebuild, then only the modified parts of the codebase are being tested and rebuilt.
@@ -140,31 +145,31 @@ nx affected --target=deploy --parallel
 This operation can also be accomplished by configuring deployment scripts within Nx.
 
 ## Turborepo Overview
-Turborepo is an advanced management system for monorepos that allows for fast builds and easy management and setup, particularly for projects in [JavaScript](https://www.javascript.com/) and [TypeScript](https://www.typescriptlang.org/) that require speed. [Vercel](https://vercel.com/) created the tool with particular emphasis on front-end coding, as it is mainly focused on performance and is easy to use. Because of such features, such as caching task orchestration and integration with the most popular frameworks, Turborepo is often used by those teams that tend to work on several projects. This section will cover notable features of Turborepo, its advantages and pitfalls satisfying innovations of 2024, and cases when it is the most suitable solution for your assignment.
+Turborepo is an advanced management system for monorepos that allows for fast builds and easy management and setup, particularly for projects in [JavaScript](https://www.javascript.com/) and [TypeScript](https://www.typescriptlang.org/) that require speed. [Vercel](https://vercel.com/) created the tool with particular emphasis on front-end coding, as it is mainly focused on performance and is easy to use. Because of such features, such as caching task orchestration and integration with the most popular frameworks, it is often used by those teams that tend to work on several projects. This section will cover notable features of Turborepo, its advantages and pitfalls satisfying innovations of 2024, and cases when it is the most suitable solution for your assignment.
 
 ### Key Features of Turborepo
-The main focus of the architecture of Turborepo is task caching and parallel execution, which contribute to building processes running faster by utilizing already processed files. Let’s say a task was processed previously with the same set of influences, then Turborepo will not process it again but fetch the data from the cache. This comes very handy in CI pipelines where performing the same builds in particular time spans is quite tedious. Also, to ease the burden on developers, Turborepo provides local and remote caching capabilities as a standard to help developers utilize their artifacts on different machines.
+The main focus of the architecture of Turborepo is task caching and parallel execution, which contribute to building processes running faster by utilizing already processed files. Let’s say a task was processed previously with the same set of influences, then it will not process it again but fetch the data from the cache. This comes very handy in CI pipelines where performing the same builds in particular time spans is quite tedious. Also, to ease the burden on developers, Turborepo provides local and remote caching capabilities as a standard to help developers utilize their artifacts on different machines.
 
 Another beneficial feature is the so-called task pipelines, which enable developers to attach tasks. For instance, your project has multiple stages: running tests, producing packages, and putting up applications. Turborepo will schedule these tasks to run in the right sequence only when there are changes made. Turbo’s straightforward configuration using `turbo.json` allows the team to set up the pipelines without writing complicated codes, which is also beneficial for small teams.
 
 ### Strengths of Turborepo
 In projects with a heavy focus on the front end, where the speed of building or deploying applications is crucial, Turborepo shines. It works perfectly with Next.js and React, thus making it an asset for the web development division. For instance, a SaaS company having numerous frontend applications can use Turborepo in the development process to enable component and dependency sharing among the applications.
 
-Because of Turborepo’s emphasis on easing the use of the tool, this can appeal to teams that wish to use monorepo strategies without the excess burden of the method. From day one, it gives an easy out-of-the-box experience, provision of Turborepo’s task runner requires a little configuration, and fast performance is achieved. This means that even young or smaller teams that may not have a single person in charge of DevOps can still enjoy monorepo advantages.
+Because of Turborepo’s emphasis on easing the use of the tool, this can appeal to teams that wish to use monorepo strategies without the excess burden of the method. From day one, it gives an easy out-of-the-box experience, provision of it’s task runner requires a little configuration, and fast performance is achieved. This means that even young or smaller teams that may not have a single person in charge of DevOps can still enjoy monorepo advantages.
 
 The productivity of the developers also comes out as another benefit of using Turborepo. The system is hot-rodded and supports incremental builds, which permits the developers to test the consequences of their modifications almost instantaneously. In addition, remote caching further enhances this by enabling each developer to use previously generated build outputs, leading to better teamwork in geographically dispersed areas.
 
 ### Recent Innovations and Updates in 2024
 A lot of enhancements have been made by Turborepo in 2024 to ensure that it remains able to compete well in the market. One of the notable updates is the enhancement of the integration with Vercel’s platform for deployment, which provides for continuous integration and continuous delivery pipelines with ease for Next.js applications. This alleviates the problem of the teams having to undergo a long and complex deployment of the applications in the monorepo, especially in configuring the steps properly. 
 
-Improvement of the previously existing enhancements to the remote caching system of Turborepo is another addition made to support team members working in different time zones. Because of this, developers have also been given more sophisticated control over the controls that cause cache-clearing, which prevents the problem of new work being commenced with an old building. Equally important, Turborepo has also enhanced its framework support to encompass a wider range of server-related technologies, including [Express](https://expressjs.com/) and [Prisma](https://www.prisma.io/), making it useful for more than just client-side applications. This revision increases the usability of Turborepo by enabling it to handle applications that comprise both the backend and the front end.
+Improvement of the previously existing enhancements to the remote caching system of Turborepo is another addition made to support team members working in different time zones. Because of this, developers have also been given more sophisticated control over the controls that cause cache-clearing, which prevents the problem of new work being commenced with an old building. Equally important, it has also enhanced its framework support to encompass a wider range of server-related technologies, including [Express](https://expressjs.com/) and [Prisma](https://www.prisma.io/), making it useful for more than just client-side applications. This revision increases the usability of Turborepo by enabling it to handle applications that comprise both the backend and the front end.
 
 ### Ideal Use Cases for Turborepo
 Turborepo is an ideal solution for focused teams developing front-end or full-stack applications where speed and frequent release cycles matter most. This is perfect for young businesses developing [SaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas#:~:text=) solutions because it allows for short iterations and easy handling of multiple front-end apps and their common dependencies.
 
 Take, for instance, a business having multiple web apps built with React, such as a brand’s website, an admin dashboard, and a client-facing portal. Turborepo allows them to create and share interface pieces as well as style the apps in a universal manner. Since it uses task pipelines and caching, the developers will not need to build or test everything but only what has been modified, which improves development speed and CI pipelines.
 
-Turborepo also enables effective collaboration between team members working in different geographic locations on the same project. Thanks to remote caching, if one user creates an application’s part, other users do not have to do it again as they can utilize that output. This is particularly useful for organizations that have employees in different locations or implement continuous delivery.
+It also enables effective collaboration between team members working in different geographic locations on the same project. Thanks to remote caching, if one user creates an application’s part, other users do not have to do it again as they can utilize that output. This is particularly useful for organizations that have employees in different locations or implement continuous delivery.
 
 ## Implementing Turborepo in a Project
 Suppose, for the sake of argument, you are developing single-sourced applications that are offered to multiple clients simultaneously and which feature several web applications, among them:
@@ -239,8 +244,8 @@ In your code, you include the shared components as follows:
 
 ```javascript
 // apps/client-dashboard/src/App.js
-import { Button } from '@my-saas-platform/ui-library';
-import { fetchUserData } from '@my-saas-platform/utils';
+import { Button } from "@my-saas-platform/ui-library";
+import { fetchUserData } from "@my-saas-platform/utils";
 
 const Dashboard = () => {
   const handleFetchData = async () => {
@@ -299,9 +304,9 @@ Bazel is designed as a build-management system capable of dealing with large vol
 ### Strengths of Bazel
 Bazel is optimized for handling large and intricate applications where managing dependencies is often the breaking point. Consider the case of an organization where thousands of microservices are maintained on a single repository and are coded in different programming languages. Such organizations will find it rather appropriate that Bazel rebuild only what is required. This makes a lot of sense because one can find that huge amounts of time can be saved through development and even continuous integration.
 
-Bazel is also suitable for large teams working together because its nature is distributed. Build tasks can also be done on several computers, which is a must for building CI/CD systems. For example, big companies using several node-building Bazel clusters are capable of distributing tasks, which shortens the period of building and testing. Its hermetic builds also provide a kind of build-level consistency, as the same build artifacts are produced regardless of the location of the build.
+It is also suitable for large teams working together because its nature is distributed. Build tasks can also be done on several computers, which is a must for building CI/CD systems. For example, big companies using several node-building Bazel clusters are capable of distributing tasks, which shortens the period of building and testing. Its hermetic builds also provide a kind of build-level consistency, as the same build artifacts are produced regardless of the location of the build.
 
-Bazel supports the addition of custom rules, and this offers another great benefit. Developers can come up with build rules that are in line with their peculiar needs, and thus Bazel can accommodate even the most bespoke of build pipes. 
+Bazel supports the addition of custom rules, and this offers another great benefit. Developers can come up with build rules that are in line with their peculiar needs, and thus it can accommodate even the most bespoke of build pipes. 
 
 ### Weaknesses of Bazel
 Bazel, however, is not without its disadvantages, as it has a very steep learning curve. In other words, understanding build systems is a prerequisite knowledge before one can successfully configure Bazel for a project, and if a team has never worked with the [Starlark](https://bazel.build/rules/language) language, the configuration files may be difficult to comprehend.
@@ -309,12 +314,12 @@ Bazel, however, is not without its disadvantages, as it has a very steep learnin
 Also, there is a problem with the integration of the tooling. Indeed, Bazel does not depend on the programming languages, but superior support for Bazel is not always guaranteed in every programming ecosystem. For example, front-end developers, in most cases, will find it difficult to work with tooling such as Angular and React. Hence, such an organization would be best suited for a firm that has well-developed DevOps capabilities or one that is predominantly back-end in nature.
 
 ### Comparison with Nx and Turborepo
-When it comes to advanced build optimization, Bazel has the upper hand over Nx and Turborepo in backend [polyglot](https://en.wikipedia.org/wiki/Polyglot_(computing)#:~:text=) projects. In contrast to Nx and Turborepo, which are largely JavaScript and frontend-centric, Bazel accepts repositories where many languages can coexist. For instance, an organization that builds a machine learning pipeline and a web interface can employ Bazel to perform both Python model compilation and JavaScript code compilation from the same monorepo.
+When it comes to advanced build optimization, Bazel has the upper hand over Nx and Turborepo in backend [polyglot](https://en.wikipedia.org/wiki/Polyglot_(computing)#:~:text=) projects. In contrast to Nx and Turborepo, which are largely JavaScript and frontend-centric, it accepts repositories where many languages can coexist. For instance, an organization that builds a machine learning pipeline and a web interface can employ Bazel to perform both Python model compilation and JavaScript code compilation from the same monorepo.
 
-Nonetheless, there are challenges in adopting Bazel compared to its Nx and Turborepo counterparts. While infrastructures such as Nx and Turborepo are designed to reduce the installation pain with simple setups, Bazel requires a considerable amount of effort to install. Teams have to choose between whether they want to explore and go through the process of learning how to effectively use Bazel or simply use the powerful features it has.
+Nonetheless, there are challenges in adopting Bazel compared to its Nx and Turborepo counterparts. While infrastructures such as Nx and Turborepo are designed to reduce the installation pain with simple setups, it requires a considerable amount of effort to install. Teams have to choose between whether they want to explore and go through the process of learning how to effectively use Bazel or simply use the powerful features it has.
 
 ### Ideal Use Cases for Bazel
-Bazel is great for large organizations, or teams, that deal with complicated interconnected systems, especially those composed of many languages. A good example is a bank developing a multi-service backend in Java and Python, alongside a mobile application; they would find it useful that Bazel allows compiling everything from one large repository. Its remote execution features guarantee that large teams are capable of efficient building with all the participating developers sharing build artifacts.
+Bazel is great for large organizations, or teams, that deal with complicated interconnected systems, especially those composed of many languages. A good example is a bank developing a multi-service backend in Java and Python, alongside a mobile application; they would find it useful that it allows compiling everything from one large repository. Its remote execution features guarantee that large teams are capable of efficient building with all the participating developers sharing build artifacts.
 
 It is also appropriate to say that it fits DevOps-based organizations that dedicate time to make the build system efficient. For example, a cloud-based model service building both infrastructure and customer applications can use Bazel for controlling the commissioning and testing processes together.
 
@@ -384,7 +389,7 @@ As developers focus on separate parts, Bazel’s fine-grained dependency trackin
 ```bash
 bazel build //apps/web-dashboard
 ```
-Bazel will build only the requisite parts. If nothing inside the `shared-utils` library nor the web dashboard code has been modified since the last build made by the user, Bazel just gets the results from the cache, which expedites the build process considerably.
+Bazel will build only the requisite parts. If nothing inside the `shared-utils` library nor the web dashboard code has been modified since the last build made by the user, it just gets the results from the cache, which expedites the build process considerably.
 
 ### Step 4: Configuring Remote Execution and Caching
 Because the logistics platform is being developed by a distributed team, you enable [remote caching](https://bazel.build/remote/caching) so that all the team members and CI/CD pipelines can share build outputs. This means that any builds created on one machine can be utilized on another machine without doing the build again.
@@ -406,12 +411,12 @@ bazel build //services/delivery-tracking
 ```
 Bazel will make certain that only the necessary service and its dependencies (for instance, shared libraries) will be rebuilt, thus saving resources and time.
 
-After the development is completed, you can also perform testing on the project using Bazel:
+After the development is completed, you can also perform testing on the project using:
 
 ```bash
 bazel test //services/delivery-tracking:all
 ```
-Bazel guarantees that only the tests of the impacted components will run. After that, the modified service is automatically put into action as long as the tests pass.
+This guarantees that only the tests of the impacted components will run. After that, the modified service is automatically put into action as long as the tests pass.
 
 ### Step 6: Deploying Multiple Components with Bazel
 In addition, Bazel provides infrastructure for multi-target deployments, which allows the deployment of several services or applications from the same pipeline. Immersing yourself in this example, if there is an update in the API client library and deployment of both mobile applications supported and web dashboards is needed, you may execute:
@@ -429,10 +434,10 @@ Lerna comes with various primary features that sustain the need for JavaScript p
 
 Another capability of Lerna that I consider to be among the most helpful is dependency hoisting. In a standard multi-package repository, each package may install its dependencies, and this can lead to redundancy and longer installation times. Common dependencies, on the other hand, are held at the root of the repository, which minimizes redundancy and enhances efficiency. This is, however, an advantage in managing the dependencies that are used by different packages and in uniformity within the packages as well.
 
-To make things easier, Lerna also provides tools for publishing with commands such as `lerna-publish`, which allows developers to publish several packages into npm with a single command. It also checks for the changes in the packages since the last release, and therefore only the current packages are published. Most importantly, Lerna facilitates the running of scripts in multiple packages using `lerna-run`, which can be used to build or test run the scripts across different packages in parallel.
+To make things easier, it also provides tools for publishing with commands such as `lerna-publish`, which allows developers to publish several packages into npm with a single command. It also checks for the changes in the packages since the last release, and therefore only the current packages are published. Most importantly, Lerna facilitates the running of scripts in multiple packages using `lerna-run`, which can be used to build or test run the scripts across different packages in parallel.
 
 ### Strengths of Lerna
-Lerna is primarily designed for JavaScript and TypeScript monorepos and hence is frequently deployed for the management of frontend libraries, libraries of React components, and backend APIs. It eases the processes of operating in various ways by enabling the running of scripts across the packages and publishing them to [npm](https://www.npmjs.com/) with ease. Executing such tasks becomes more efficient with Lerna, as teams working on such applications, i.e., where factors bearing dependencies, such as a design system, are broken into several packages.
+Lerna is primarily designed for JavaScript and TypeScript monorepos and hence is frequently deployed for the management of frontend libraries, libraries of React components, and backend APIs. It eases the processes of operating in various ways by enabling the running of scripts across the packages and publishing them to [npm](https://www.npmjs.com/) with ease. Executing such tasks becomes more efficient with it, as teams working on such applications, i.e., where factors bearing dependencies, such as a design system, are broken into several packages.
 
 For instance, let us assume a team is working on a React component library that has multiple packages implemented for buttons, forms, and navigational components. In this case, Lerna would allow the developers to make updates to the button package and push them as a new release while at the same time allowing the update of the form and navigational component packages, or even the entire release could be made in a coordinated manner. This also makes it possible for the components to be designed in a way that they are self-sufficient and can have different versioning, which is convenient to the users.
 
@@ -443,10 +448,10 @@ Notwithstanding its merits, Lerna also has flaws. One performance issue is the t
 
 Furthermore, advanced built-in build and caching functionalities are yet to be provided by Lerna. Running scripts across packages is possible, but build and run operations are not available, such as the incremental builds, task pipelines, or remote caching seen in Turborepo and Bazel. This renders it inappropriate for a build system for very complex, large projects with extensive build systems.
 
-To add to the problem, Lerna has a major drawback in that it is centered around JavaScript. It does not cater to polyglot monorepos, which limits its application in projects spanning a variety of languages. This poses a problem for its use in applications where the backend code is majority or in companies having to deal with a large scale, multiple programming languages code all in one.
+To add to the problem, it has a major drawback in that it is centered around JavaScript. It does not cater to polyglot monorepos, which limits its application in projects spanning a variety of languages. This poses a problem for its use in applications where the backend code is majority or in companies having to deal with a large scale, multiple programming languages code all in one.
 
 ### Comparison with Nx and Turborepo
-Lerna is still a great utility for handling multi-package javascript repositories, but it is somehow inferior to Nx and Turborepo. For example, Nx and Turborepo include additional functionalities such as caching, task orchestration, and visualizing a graph of interdependent tasks, which can accelerate the work done. In contrast, Lerna is fairly simple and is mainly designed to manage the versioning and distribution of packages.
+Lerna is still a great utility for handling multi-package javascript repositories, but it is somehow inferior to Nx and Turborepo. For example, Nx and Turborepo include additional functionalities such as caching, task orchestration, and visualizing a graph of interdependent tasks, which can accelerate the work done. In contrast, it is fairly simple and is mainly designed to manage the versioning and distribution of packages.
 
 For groups whose main task is to create React libraries or implement Node.js-based APIs, Lerna could be a really helpful tool. Nonetheless, when the complexity of the monorepo increases, teams may run into certain issues limiting the performance, which can make them consider switching to either Turborepo or Nx. These two, however, are more appropriate for use in projects where builds have to be executed quickly and more complex coordination of services is needed.
 
@@ -455,7 +460,7 @@ In particular, Lerna is suitable for teams that are creating front-end libraries
 
 This is also the case in organizations that develop backend Node.js applications with the use of shared libraries. For instance, a SaaS provider and its various microservices, which share authentication and API client libraries, can use Lerna to handle the common libraries and version them in isolation.
 
-Lerna becomes even more useful in projects that envisage constant publishing to npm. Often open-source maintainers who are constructing JavaScript frameworks or utility libraries as a multi-organization effort utilize Lerna to deal with various packages that reside in the same repository without any hiccups in the release process.
+It becomes even more useful in projects that envisage constant publishing to npm. Often open-source maintainers who are constructing JavaScript frameworks or utility libraries as a multi-organization effort utilize Lerna to deal with various packages that reside in the same repository without any hiccups in the release process.
 
 ## Implementing Lerna in a Project
 Suppose you are working on a SaaS product that consists of dozens of JavaScript libraries and services. The product contains the following components: A component library in React containing various reusable UI components, such as buttons, forms, and modals; A backend service created in Node.js that contains a common authentication microservice enabling secure communication between multiple services. A command-line interface for the deployment of applications and data migrations. Common utility libraries (like validation and API client libraries) are used by both the front-end and back-end. In this project, Lerna will come in handy in organizing multiple packages kept in the monorepo, making sure that shared libraries and interdependencies are all versioned, tested, and deployed properly.
@@ -470,7 +475,7 @@ Utilize Lerna to administrate the following package structure in the creation of
   /cli-tool        # Deployment CLI tool
   /shared-utils    # Shared utilities for frontend and backend
 ```
-Every subfolder in the packages directory is partitioned by each package, and all inter-package dependencies shall be handled by Lerna. 
+Every subfolder in the packages directory is partitioned by each package, and all inter-package dependencies shall be handled by it. 
 
 To begin with, let’s install Lerna globally on your system and also set the monorepo: 
 
@@ -536,7 +541,7 @@ lerna run build
 
 This is very useful in a CI environment, making sure all packages are tested and built before they are released.
 
-Lerna streamlines the usage of publishing tools by checking which packages have been modified since the last publication. For instance, in case you would like to synchronize the `shared-utils` library, Lerna will recognize the edit and publish the new edition of the library: 
+Lerna streamlines the usage of publishing tools by checking which packages have been modified since the last publication. For instance, in case you would like to synchronize the `shared-utils` library, it will recognize the edit and publish the new edition of the library: 
 
 ```bash
 lerna publish
@@ -550,38 +555,34 @@ In independent mode, Lerna will prompt for a new version for each modified packa
 For instance, when `shared-utils` are updated and other packages like `ui-library` make use of `shared-utils`, their dependencies will also get updated to the latest version automatically.
 
 ### Practical Outcome
-The Lerna tool, for instance, allows one to manage a SaaS platform from all angles where its components can be added or removed quite easily. The UI library, backend services, and shared utilities all exist in a single monorepo, making building, testing, and deploying them simple. For instance, if you change the auth logic of the app in the backend (backend service auth-service), all dependent packages, like CLI and front-end UI, will update automatically thanks to [symlinks](https://en.wikipedia.org/wiki/Symbolic_link) by Lerna. When it comes to releasing these, Lerna makes sure that only the packages that have been changed or added get published, thereby causing the least inconvenience to users. This approach is also more cohesive in that it promotes the reuse of codes. Thus, developers working on different aspects of the platform can use the common libraries, and all the relevant codes are accessible in a single location, which also promotes efficiency.
+The Lerna tool, for instance, allows one to manage a SaaS platform from all angles where its components can be added or removed quite easily. The UI library, backend services, and shared utilities all exist in a single monorepo, making building, testing, and deploying them simple. For instance, if you change the auth logic of the app in the backend (backend service auth-service), all dependent packages, like CLI and front-end UI, will update automatically thanks to [symlinks](https://en.wikipedia.org/wiki/Symbolic_link) by Lerna. When it comes to releasing these, it makes sure that only the packages that have been changed or added get published, thereby causing the least inconvenience to users. This approach is also more cohesive in that it promotes the reuse of codes. Thus, developers working on different aspects of the platform can use the common libraries, and all the relevant codes are accessible in a single location, which also promotes efficiency.
 
 ## Rush Overview
-Rush is a tool for managing monorepo that boasts high-performance consistency and scalability that fit enterprise-grade solutions. Rush is a Google-built package; it offers an efficient solution to issues such as dependency management, build time reduction, and most importantly, package management across different groups. It has an advanced mechanism for supporting consistent processes and turnaround times, which proves useful when dealing with projects that require sustaining high-capacity CI/CD systems for extended periods. This portion delves into its characteristics, advantages, and applications, answering how exactly the Rush tool differs from others and when it is necessary regarding monorepo management.
+Rush is a tool for managing monorepo that boasts high-performance consistency and scalability that fit enterprise-grade solutions. It is a Google-built package; it offers an efficient solution to issues such as dependency management, build time reduction, and most importantly, package management across different groups. It has an advanced mechanism for supporting consistent processes and turnaround times, which proves useful when dealing with projects that require sustaining high-capacity CI/CD systems for extended periods. This portion delves into its characteristics, advantages, and applications, answering how exactly the Rush tool differs from others and when it is necessary regarding monorepo management.
 
 ### Key Features of Rush
-Rush provides the capability of deterministic versioning based on the "shrinkwrap file’ feature, wherein all developers and CI systems have to use the same dependency versions. Rush prevents mismatched versions of packages inside the library and between different packages inside the scope to avoid “it works on my machine” scenarios in other tools like Lerna, which are dependent on npm or yarn. This fostered uniformity in development systems.
+Rush provides the capability of deterministic versioning based on the "shrinkwrap file’ feature, wherein all developers and CI systems have to use the same dependency versions. It prevents mismatched versions of packages inside the library and between different packages inside the scope to avoid “it works on my machine” scenarios in other tools like Lerna, which are dependent on npm or yarn. This fostered uniformity in development systems.
 
-The other advantage of Rush is the ability to orchestrate builds over a potentially infinite scale. It will even support building the artifacts in portions, which means it will run only the parts of the build process affected by the last change, thereby enhancing speed. Rush also incorporates some level of parallelization and task scheduling for efficient utilization of execution resources within the continuous integration/continuous delivery (CI/CD) pipelines, which is useful for projects that have many dependencies.
+The other advantage of Rush is the ability to orchestrate builds over a potentially infinite scale. It will even support building the artifacts in portions, which means it will run only the parts of the build process affected by the last change, thereby enhancing speed. It also incorporates some level of parallelization and task scheduling for efficient utilization of execution resources within the continuous integration/continuous delivery (CI/CD) pipelines, which is useful for projects that have many dependencies.
 
 With Rushe's workspace mode (which is also available in [pnpm](https://pnpm.io/)), dependency management gets even better as packages are locally linked, reducing the overhead of installing repeated packages in the storage system. Thus, it is suited for companies with extensive repositories that have hundreds of dependent packages.
 
 ### Strengths of Rush
-Rush is designed primarily for performance, dependency management, and consistency, thus making it appropriate for large-scale enterprise applications. It allows the smooth operation of complicated monorepos, which in turn consist of various back-end and front-end applications, shared libraries, and many teams all functioning at the same time. Rush connects to pnpm, which allows the monorepos management without installing a huge amount of dependency packages over `node_modules` folders persisting in each project.
+Rush is designed primarily for performance, dependency management, and consistency, thus making it appropriate for large-scale enterprise applications. It allows the smooth operation of complicated monorepos, which in turn consist of various back-end and front-end applications, shared libraries, and many teams all functioning at the same time. It connects to pnpm, which allows the monorepos management without installing a huge amount of dependency packages over `node_modules` folders persisting in each project.
 
 As an illustration, suppose there is a wide range of product offerings comprising applications such as web dashboards, back-office services in the form of APIs, and shared tools. In that case, Rush makes it possible to build, test, and release each one of them and their functional additions without repeating efforts or doing something unnecessary. The development guidelines quicken the pace of progression by allowing the build process only to apply to the sections that have been altered due to changes.
 
-Rush additionally leads in dependency management policies amongst other frameworks. Also, it is a policy that all the packages should include package dependencies within them which avoids the situation of a version drift where certain areas of the monorepo have inconsistent dependency versions. This aspect is one of the reasons why Rush is much loved in corporations where versioning and build expectance are mandatory.
+Rush additionally leads in dependency management policies amongst other frameworks. Also, it is a policy that all the packages should include package dependencies within them which avoids the situation of a version drift where certain areas of the monorepo have inconsistent dependency versions. This aspect is one of the reasons why it is much loved in corporations where versioning and build expectance are mandatory.
 
-‘Change files’ system is another exceptional facility that Rush offers. When any package is updated by developers, change files have to be created and included with the request describing what has changed and the reason for the changes. This is attached to a pull request, making sure accurate records are kept of any additions made for future releases, which compensates for the long hours put into writing code. This characteristic promotes the two values in a work environment - transparency and responsibility and is beneficial in environments where there is intense regulation or in big corporations.
+‘Change files’ system is another exceptional facility that it offers. When any package is updated by developers, change files have to be created and included with the request describing what has changed and the reason for the changes. This is attached to a pull request, making sure accurate records are kept of any additions made for future releases, which compensates for the long hours put into writing code. This characteristic promotes the two values in a work environment - transparency and responsibility and is beneficial in environments where there is intense regulation or in big corporations.
 
 ### Weaknesses of Rush
-Rush has many advantages, but it’s harder to learn than other tools such as Lerna or Turborepo. Since Rush is designed primarily for enterprise-grade management, smaller or less demanding applications may be deemed too complicated. Furthermore, the first stage may require more work since Rush tends to be very strict on the way dependencies and policies are managed. 
+Rush has many advantages, but it’s harder to learn than other tools such as Lerna or Turborepo. Since it is designed primarily for enterprise-grade management, smaller or less demanding applications may be deemed too complicated. Furthermore, the first stage may require more work since it tends to be very strict on the way dependencies and policies are managed. 
 
-Similarly, in terms of performance, Rush is tailored towards JavaScript and TypeScript-centric environments. It can manage a polyglot repository (a monorepo containing multiple languages); however, there are better tools for this, such as Bazel, which is designed to work in such diverse environments instead of polyglot repositories. 
-
-In addition, Rush needs tasks to be configured very well for it to make good use of parallelization. This configuration overhead may prove to be a burden for teams that are not used to working with fully optimized build pipelines.
+Similarly, in terms of performance, Rush is tailored towards JavaScript and TypeScript-centric environments. It can manage a polyglot repository (a monorepo containing multiple languages); however, there are better tools for this, such as Bazel, which is designed to work in such diverse environments instead of polyglot repositories. In addition, it needs tasks to be configured very well for it to make good use of parallelization. This configuration overhead may prove to be a burden for teams that are not used to working with fully optimized build pipelines.
 
 ### Comparison with Nx and Turborepo
-On the other hand, Rush is more appropriate for bigger, more complicated projects than Nx and Turborepo. Nx is centered around equipping developers with various elements like dependency graphs and generators, making it easier to use smaller teams. On the other side, Turborepo is all about caching and task pipeline performance optimization, with dependency management being somewhat loose, unlike Rush, where it is strict.
-
-Rush's most significant merit is its unbending arrangement and ability to maintain standardization. The organization, as the structure provides controlled versioning, step builds, and detailed dependency management, makes it even more favorable for big corporations or industries with stringent design and deployment processes in place.
+On the other hand, Rush is more appropriate for bigger, more complicated projects than Nx and Turborepo. Nx is centered around equipping developers with various elements like dependency graphs and generators, making it easier to use smaller teams. On the other side, Turborepo is all about caching and task pipeline performance optimization, with dependency management being somewhat loose, unlike Rush, where it is strict. It's most significant merit is its unbending arrangement and ability to maintain standardization. The organization, as the structure provides controlled versioning, step builds, and detailed dependency management, makes it even more favorable for big corporations or industries with stringent design and deployment processes in place.
 
 ### Ideal Use Cases for Rush
 Rush portrays itself as an optimal solution for big monorepos containing enterprise-level projects that are going to be run by many teams over a prolonged period. For instance, if an organization is developing a family of SaaS applications that consist of web apps, backend APIs, and mobile apps, Rush makes sure that all of their components work together consistently and efficiently.
@@ -599,7 +600,7 @@ Imagine you are in charge of a multiproduct SaaS platform, and several teams wit
 * [Auth](https://authjs.dev/) Library: A universal authentication library present in both the front and back-end services.
 * CLI Tool: A tool for deploying and maintaining the resource base.
 
-Therefore, in this case, Rush would be beneficial to help deploy this type of project in a monorepo with traditional versioning, several builds, and even a wheel depot of dependencies.
+Therefore, in this case, it would be beneficial to help deploy this type of project in a monorepo with traditional versioning, several builds, and even a wheel depot of dependencies.
 
 ### Step 1: Setting up the Monorepo
 Start the permission project by structuring it in the following manner:
@@ -650,8 +651,7 @@ In case the customer dashboard also needs the shared authentication library, inc
   }
 }
 ```
-
-Rush would take care of linking those packages correctly, ensuring that the most recent local versions are in use while developing.
+It would take care of linking those packages correctly, ensuring that the most recent local versions are in use while developing.
 
 ### Step 3: Building and Running the Project
 Rush can effectively support reusable builds—that is, a build process involves only modifications made since the last build. This is done for the benefit of keeping the CI pipeline quick.
@@ -664,7 +664,7 @@ rush build
 
 If only the [api-gateway](https://aws.amazon.com/api-gateway/) package was altered, Rush would know of this and rebuild that service only, saving a lot of time while developing and deploying the application.
 
-In addition, Rush allows you to run tests for many packages at the same time. For instance:
+In addition, it allows you to run tests for many packages at the same time. For instance:
 
 ```bash
 rush test
