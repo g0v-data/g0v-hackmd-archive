@@ -1,12 +1,8 @@
----
-tags:
----
-
 #  Setting Up Distributed Tracing in Angular with Jaeger and OpenTelemetry
-Monitoring performance over various services and identifying the bottlenecks in modern-day distributed systems is a challenging feat. However, distributed tracing solves the forwarding policies of requests through several services, simplifying the visualization and debugging of application profiling. For single-page applications (SPAs) such as Angular, in which the individual screen is constantly refreshed, distributed tracing is a prerequisite in helping analyze the effects of frontend interaction towards backend services. This guide will show you how to set up the tracing system in the Angular application through OpenTelemetry and Jaeger and implement distributed tracing as done in other systems. Upon completion, you will be proficient in tracing application interactions in Angular, including covering relevant spans and controlling the requests to the backend systems, which will be presented in Jaeger. Now let’s begin incorporating this fundamental toolkit into our Angular applications for greater insight!
+Monitoring performance over various services and identifying the bottlenecks in modern-day distributed systems is a challenging feat. However, distributed tracing solves the forwarding policies of requests through several services, simplifying the visualization and debugging of application profiling. For single-page applications (SPAs) such as Angular, in which the individual screen is constantly refreshed, distributed tracing is a prerequisite in helping analyze the effects of frontend interaction towards backend services. This guide will show you how to set up the tracing system in the Angular application through [OpenTelemetry](https://opentelemetry.io/) and [Jaeger](https://www.jaegertracing.io/) and implement distributed tracing as done in other systems. Upon completion, you will be proficient in tracing application interactions in [Angular](https://angular.dev/), including covering relevant spans and controlling the requests to the backend systems, which will be presented in Jaeger. Now let’s begin incorporating this fundamental toolkit into our Angular applications for greater insight!
 
 ## Prerequisites
-Before we start with setting up distributed tracking with Angular, there are a few important tools and configurations that you need. First, make sure you have a rudimentary Angular application created; it will be easier to explain tracing because you already know how the structure of Angular works. You will also need to have Node.js and npm set up because they are required for working with libraries that manage the dependencies and run the OpenTelemetry libraries.
+Before we start with setting up distributed tracking with Angular, there are a few important tools and configurations that you need. First, make sure you have a rudimentary Angular application created; it will be easier to explain tracing because you already know how the structure of Angular works. You will also need to have Node.js and npm set up because they are required for working with libraries that manage the dependencies and run the [OpenTelemetry libraries](https://opentelemetry.io/docs/concepts/instrumentation/libraries/).
 
 To gather and analyze the traces, we are going to use Jaeger, which is an open-source tool created for distributed tracing operations. You can choose to run Jaeger on your local machine through Docker for ease of installation or go for a hosted solution using the cloud-managed Jaeger instance. Finally, we are going to add some OpenTelemetry libraries meant to be used in Angular for tracing, instrumentation, and tapering of trace data to Jaeger. With these configurations applied, we are good to go with making changes to improve monitoring in your Angular application.
 
@@ -72,7 +68,7 @@ This command launches Jaeger in an “all-in-one” mode, which contains all nec
 To check that Jaeger is functioning as intended, one may examine the UI, which states that following the start of the trace dispatching application side, there is a section that contains several traces, the last few ones, sent by the client application. Further on, we will adjust OpenTelemetry in Angular to forward traces’ data to Jaeger, thus allowing for the end-to-end visibility of the whole application, frontend and backend communications included.
 
 ## 5. Integrating OpenTelemetry in Angular
-In order to capture and export traces from your Angular application, it is necessary to implement OpenTelemetry. This includes installing the following open telemetry packages in the former scenario along with configurations to ensure traces are sent and stored in Jaeger with their automatic instrumentation for typical actions like HTTP requests.
+To capture and export traces from your Angular application, it is necessary to implement OpenTelemetry. This includes installing the following open telemetry packages in the former scenario along with configurations to ensure traces are sent and stored in Jaeger with their automatic instrumentation for typical actions like HTTP requests.
 
 First, add to the dependencies of your Angular app the OpenTelemetry libraries:
 
@@ -189,7 +185,55 @@ After that, using your preferred browser, go to http://localhost:16686. and acce
 
 Select a certain trace so that you can see its characteristics. In the trace view, you will see the different spans that make up the operation, custom spans like fetchData or performOperation, and system-generated spans like HTTP request spans. Each span displays its duration together with its start time and any additional information; therefore, it would be straightforward to spot areas of latency or even where the bottleneck is in the trace.
 
-In addition, if you do not see traces, be sure to check your OpenTelemetry configuration, that Jaeger is up and running, and whether the OTLPTraceExporter URL is specified correctly. After this point, traces will function as they should, and you will have a fully functional tracing system that covers your Angular application from beginning to end, tracking its performance and resolving any problems that may arise with it.
+In addition, if you do not see traces, be sure to check your OpenTelemetry configuration, that Jaeger is up and running, and whether the `OTLPTraceExporter` URL is specified correctly. After this point, traces will function as they should, and you will have a fully functional tracing system that covers your Angular application from beginning to end, tracking its performance and resolving any problems that may arise with it.
 
 ## Advanced Configuration and Optimizations
+With fundamental tracing in place, the OpenTelemetry and Jaeger setup can be upgraded to manage traces more effectively, regulate the amount of information collected, and improve its operational capabilities. These are high-level configurations that assist in controlling the amount of traces that are collected and how they are exported in production situations, where it is highly desirable to minimize the negative effects caused by the system.
 
+One important aspect of optimization relates to the sampling strategy. OpenTelemetry, by default, collects traces of all the actions taken within the application; however, this may cause excessive data generation in applications with high usage. To deal with this, you can use a sampling rate, which is the percentage of requests that should be traced. For instance, at a 10% sampling rate, every tenth request is captured, thereby minimizing the data sent to Jaeger while providing an adequate sample. To do this, parameters have to be changed for Sampler during the initialization of the tracer provider.
+
+```typescript
+import { ParentBasedSampler, TraceIdRatioBasedSampler } from '@opentelemetry/sdk-trace-base';
+
+const provider = new WebTracerProvider({
+  sampler: new ParentBasedSampler(new TraceIdRatioBasedSampler(0.1)) // 10% sampling rate
+});
+```
+Another optimization is performed by imposing a limit on the number of spans sent to Jaeger, which minimizes the network overhead by sending trace information in bulk. This is done using OpenTelemetry’s `BatchSpanProcessor`, which allows spans to be collected in batches before being sent out, instead of each one being sent out in turn. To enable batching features, `SimpleSpanProcessor` has to be replaced with `BatchSpanProcessor`:
+
+```typescript
+import { BatchSpanProcessor } from '@opentelemetry/sdk-trace-base';
+
+provider.addSpanProcessor(new BatchSpanProcessor(exporter, {
+  maxQueueSize: 100,  // Maximum number of spans in a batch
+  scheduledDelayMillis: 5000  // Send spans every 5 seconds
+}));
+```
+Ultimately, it is possible to avoid exporting excessive trace data by avoiding low-priority spans or certain routes. This might be beneficial in case you have sections of your application that do not need tracing. For example, you can use your instrumentation configuration to define some conditional logic and not record certain spans.
+
+With these optimizations in place, the tracing setup becomes more efficient and capable of coping with production traffic while lessening the effect on performance. These are various configurations that allow meaningful and useful traces to be collected within your Angular app without excessive strain on Jaeger or the application as a whole.
+
+## Best Practices for Distributed Tracing in Angular
+In deploying distributed tracing, one must also consider the necessity of planning in such a way that allows for the maximum amount or minimum amount of tracer performance degradation depending on the specific business goals. There are a few Angular application-related best practices that can be followed, which make sure that your traces are informative and don’t pose too much burden on the performance.
+
+First, don’t strain the tracking by mapping every action and every route. As much as you would wish to trace anything and everything, concentrate on important user actions and relevant backend systems like major APIs or heavy-weight components. Too many traces may mean too much information, which is hard to draw insights from and expensive in Jaeger storage. Previous sections have pointed to the use of sampling as one of the solutions to the problem.
+
+The other further best practices include the appropriate use of span names and attributes. For instance, avoid using 'request’ or ‘operation’ as span names, which do not convey meaning. Instead, use span names that are meaningful and relate to specific actions, such as ‘fetchUserProfile’ or'makeOrder.’ Moreover, user-defined attributes such as user ID, route, or error code will also help in the improvement of the trace data, which will make it easier for users to solve problems when looking at spans in Jaeger.
+
+When monitoring user behavior, be careful not to record any personally identifiable information (PII). It is recommended to use only non-sensitive data in span attributes so as not to infringe on data privacy laws. If PII must be used for debugging, it is advisable to append it to a secure logging solution as opposed to tracing.
+
+Finally, pay attention and improve your tracking setup frequently. With the development of your application and the change in user behavior, change your spans, sampling rates, and instrumentation in order to revolve around the most important interactions and the performance you wish to measure. That way you will avoid excessive tracing in Angular and be able to get the required information without much performance and financial waste.
+
+## Troubleshooting Common Issues
+When you integrate distributed tracing in Angular, there might be challenges that may lead to traces not being produced or exported correctly. Below are the possible problems as well as possible suggestions to help you fix them easily.
+
+If you do not see traces in Jaeger, the first thing to do is check that the URL provided for the OTLPTraceExporter endpoint is correct and that Jaeger is already running and reachable. This can be tested by going on the Jaeger UI at http://localhost:16686, assuming the instance is running locally on this machine. Also, check things like policies and rules, such as firewall rules, so that OpenTelemetry in your Angular application is able to reach the Jaeger collector without issues.
+
+In case the spans are not found or are incomplete, make sure that all the required libraries are installed and that the instrumentation registration also contains the services that are expected to be traced. For instance, when the tracing of HTTP requests is not carried out, make sure that the HttpClientInstrumentation has been properly registered and that the tracing of certain routes or services has not been turned off accidentally.
+
+When including tracing features, sometimes issues with performance such as high latency or slow page load times are experienced, especially in situations where too many spans are created or traces are sent one after the other. Ensure that you use BatchSpanProcessor and not SimpleSpanProcessor in such cases since the former minimizes bandwidth usage by transmitting spans together in a single batch. Additionally, check your sampling rate to make sure that you are not running the risk of overloading the application with data that can compromise its performance.
+
+Lastly, suppose there are problems with sending trace context (for instance, there are obvious gaps between spans shown in Jaeger). In that case, once again make sure to use OpenTelemetry’s context API so that there are no asynchronous processes—such as sending HTTP requests or observables—for which the context is not supplied or made available. Periodic checks and testing of the system can assist in achieving the required objectives, which are smooth and effective tracing of the relevant activities so that the Angular app does not fail to serve its purpose of monitoring and debugging due to a lack of useful data.
+
+## Conclusion
+Protocols like OpenTelemetry and distribution systems like Jaeger provide greatly enhanced visibility in Angular applications to measure performance, fix issues, and understand user behavior across front-end and back-end systems. You have created complete tracing following this guide with the focus on minimization of resources used, and best practices for collecting the data have been implemented. Now with these components, your Angular application for performance measurement is ready, hence making it easier to keep the user experience intact and responsive.
