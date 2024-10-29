@@ -27,3 +27,26 @@
 6. MES model's common TABLEs：(1)WIP_TXN (2)WIP_LOT
 7. CHARG = RTNO
 8. 材料廠 PLANT_CODE: 1012
+
+	R_CWIP_01	DC2(4)	SCHEDULE	Z_Year	RTNO	收料到開DN(Test) [Test WIP 表]		
+	EC_CRM_T_WIP_STATUS	DC1(3)	SCHEDULE	TT_YEAR		收料到出貨(Assy) [Assy WIP 表]
+   
+    GRP_MM_T_INVENTORY	DC1(3)	PLANT	MATERIAL	RTNO	SLOC可判斷當下物料、成品等庫存量 (Bank) 				
+	GRP_MM_T_WAFERIC_INV	DC1(3)	PLANT	MATERIAL	RTNO	僅Wafer當下庫存量 (Bank)				
+	GRP_MM_T_TRANSACTION	DC1(3)	PLANT	MATERIAL	RTNO	物料於各倉別進出之歷史紀錄 (Bank)				
+
+	GRP_PP_T_ZOT20	DC1(3)	Z_SCHEDULE	Z_YEAR	WERKS	工單，製造成品紀錄	KUNNR客二碼	KONZS群組碼(客三碼)		
+	GRP_PP_T_ZOT22	DC1(3)	Z_SCHEDULE	Z_YEAR	WERKS	Order status = 10 建立，Lot資料 (20原料) [原料]			
+	GRP_PP_T_ZOT23	DC1(3)	Z_SCHEDULE	Z_YEAR	WERKS	Batch (投料) 資料 (22來源) [原料的batch屬性值]			
+	GRP_PP_T_ZOT25	DC1(3)				下線時 (Order status80) 建立，收費用，TurnKey記錄				
+	
+    GRP_SD_T_DN_HEADER	DC1(3)	F_DN			出貨(DN)主檔				
+	GRP_SD_T_DN_ITEM	DC1(3)	F_DN	F_DN_ITEM	F_SUB_LOT	出貨(DN)明細，出貨內容				
+	GRP_SD_T_DN_HEADER_ZLF4	DC1(3)	F_DN			出貨主檔,純ZLF4相關(入庫收費用的，假DN主檔資料)				
+	GRP_SD_T_DN_ITEM_ZLF4	DC1(3)	F_DN	F_DN_ITEM		出貨明細,純ZLF4相關(入庫收費用的，假DN細項資料)				
+	GRP_SD_T_PL_MST	DC1(3)	F_DN			包裝主檔data				
+	GRP_SD_T_PL_DTL	DC1(3)	F_DN	F_DN_ITEM		包裝明細，包裝data				
+	GRP_SD_T_BILLING_HEADER	DC1(3)	F_BILL_NO			帳單主檔				
+	GRP_SD_T_BILLING_ITEM	DC1(3)	F_BILL_NO		F_SUB_LOT	帳單項目明細				
+	GRP_SD_T_BILLING_CONDITION	DC1(3)	F_BILL_NO			帳單項目計價細項				
+
