@@ -7,7 +7,6 @@
 3. WIP 表：EC_CRM_T_WIP_STATUS (含Bank, WIP, FG Bank)
 4. WIP's Key Value：SCHEDULE + TT_YEAR
 5. Bank's Key Value：RTNO + PLANT + MATERIAL
-6. Asst's Bank TABLE：(1)TRSAC (2)INVENTORY (3)WAFERIC_INV
 
 * **Table TEST**
 
@@ -19,19 +18,27 @@
 
 * **Common TIPS**
 
-1. WIP 有可能代表兩種情況：(1) BANK + WIP +FG (2)WIP → 所以要問清楚
-2. INTERNAL Turnkey：A → A ; T → T
-3. EXTERNAL Turnkey：A → T
-4. MM model's SCHEDULE：RTNO + PLANT + MATERIAL (一開始和成品的 RTNO 會不同) → 就是 Bank 啦
-5. PP model's common TABLEs：(1)ZOT_20 (2)ZOT_22 (3)ZOT_23 (4)ZOT_25
-6. MES model's common TABLEs：(1)WIP_TXN (2)WIP_LOT
-7. CHARG = RTNO
-8. 材料廠 PLANT_CODE: 1012
+1. 大致上的流程：INTRA(未建工單) → DIE_BANK(建立工單) → WIP(進入製程) → FG BANK(入成品庫)
+2. WIP 有可能代表兩種情況：(1)BANK + WIP +FG (2)WIP → 所以要問清楚
+3. INTERNAL Turnkey：A → A ; T → T
+4. EXTERNAL Turnkey：A → T
+5. MM model's SCHEDULE：RTNO + PLANT + MATERIAL (一開始和成品的 RTNO 會不同) → 就是 Bank 啦
+6. MM model's common TABLEs：(1)TRANSACTION (2)INVENTORY (3)WAFERIC_INV
+7. PP model's common TABLEs：(1)ZOT_20 (2)ZOT_22 (3)ZOT_23 (4)ZOT_25
+8. MES model's common TABLEs：(1)WIP_TXN (2)WIP_LOT
+9. CHARG = RTNO
+10. 材料廠 PLANT_CODE: 1012
+
+
+
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| Text     | Text     | Text     | Text     | Text     | Text     |
 
 	R_CWIP_01	DC2(4)	SCHEDULE	Z_Year	RTNO	收料到開DN(Test) [Test WIP 表]		
 	EC_CRM_T_WIP_STATUS	DC1(3)	SCHEDULE	TT_YEAR		收料到出貨(Assy) [Assy WIP 表]
    
-    GRP_MM_T_INVENTORY	DC1(3)	PLANT	MATERIAL	RTNO	SLOC可判斷當下物料、成品等庫存量 (Bank) 				
+    GRP_MM_T_INVENTORY	DC1(3)	PLANT	MATERIAL	RTNO	SLOC可判斷當下物料、成品等目前的庫存量 (Bank) 				
 	GRP_MM_T_WAFERIC_INV	DC1(3)	PLANT	MATERIAL	RTNO	僅Wafer當下庫存量 (Bank)				
 	GRP_MM_T_TRANSACTION	DC1(3)	PLANT	MATERIAL	RTNO	物料於各倉別進出之歷史紀錄 (Bank)				
 
