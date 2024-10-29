@@ -10,24 +10,31 @@ python -m ipykernel install --user --name NLP --display-name “NLP py"
 ```
 # 主體程式碼
 ```
-import pandas as pd
 import numpy as np
+import pandas as pd
+import sqlite3
 from transformers import pipeline
-import matplotlib.pyplot as plt
-```
-```
+import time
+
 # 加载情感分析模型
-#sentiment_analyzer = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english")
-# 使用 RoBERTa 模型替换
-#sentiment_analyzer = pipeline("sentiment-analysis", model="cardiffnlp/twitter-roberta-base-sentiment")
 sentiment_analyzer = pipeline("sentiment-analysis", model="uer/roberta-base-finetuned-chinanews-chinese")
-```
-```
-# 读取新闻数据的前两行
-climate_data = pd.read_csv("climate_change.csv").head(20)  # 只取前两行数据
-#climate_data = pd.read_csv("climate_change.csv")
-#climate_data = climate_data.iloc[[50]] 
-# 定义分析函数
+
+# 设置数据库路径
+db_path = 'D:/SQLlite/udn.db'
+
+# 连接到数据库，设置超时时间
+conn = sqlite3.connect(db_path, timeout=10)
+cursor = conn.cursor()
+
+# 确保 `climate_change` 表中有 `sentiment` 和 `score` 列
+# 若没有这些列，可以取消注释下面的代码进行添加
+# cursor.execute("ALTER TABLE climate_change ADD COLUMN sentiment TEXT")
+# cursor.execute("ALTER TABLE climate_change ADD COLUMN score REAL")
+
+# 从数据库中读取 `climate_change` 表的全部数据
+climate_data = pd.read_sql_query("SELECT * FROM climate_change ", conn)
+
+# 定义情感分析函数
 def analyze_weighted_sentiment(text, max_length=512):
     chunks = [text[i:i+max_length] for i in range(0, len(text), max_length)]
     
@@ -37,7 +44,7 @@ def analyze_weighted_sentiment(text, max_length=512):
     for chunk in chunks:
         result = sentiment_analyzer(chunk, max_length=max_length, truncation=True)[0]
         score = result['score']
-        weight = score  # 以置信度作为权重
+        weight = score  # 使用置信度作为权重
         
         if result['label'] == 'POSITIVE':
             positive_scores.append(score * weight)
@@ -53,17 +60,32 @@ def analyze_weighted_sentiment(text, max_length=512):
     
     return dominant_sentiment, dominant_score
 
+# 测量情感分析的执行时间
+start_time = time.time()
 
-
-
-
-# 对指定行数据进行情感分析
+# 对数据进行情感分析
 climate_data[['sentiment', 'sentiment_score']] = climate_data['content'].apply(
     lambda x: analyze_weighted_sentiment(x)
 ).apply(pd.Series)
 
-# 查看结果
-print(climate_data[['content', 'sentiment', 'sentiment_score']])
+end_time = time.time()
+execution_time = end_time - start_time
+print(f"單次情緒分析執行時間: {execution_time:.4f} 秒")
+
+# 更新数据库的 sentiment 和 score 列
+for index, row in climate_data.iterrows():
+    cursor.execute('''
+        UPDATE climate_change
+        SET sentiment = ?, score = ?
+        WHERE rowid = ?
+    ''', (row['sentiment'], row['sentiment_score'], index + 1))
+
+# 提交更改并关闭连接
+conn.commit()
+conn.close()
+
+print("情緒分析結果已更新。")
+
 
 ```
 
