@@ -6,6 +6,10 @@ GA: UA-98468513-3
 description: Updated at 2020/5/7
 ---
 
+# Cofacts DB Mapping
+
+> https://github.com/cofacts/rumors-db/tree/master/schema
+
 - 🔑: field used in `_id` key; combinations must be unique within index.
 - Solid line: foreign key relation
 - Dotted line: cached field, or having interaction
@@ -264,6 +268,36 @@ graph mappings{
     updatedAt\l
   "]
   
+  cooccurrences[label="
+    𝐜𝐨𝐨𝐜𝐜𝐮𝐫𝐫𝐞𝐧𝐜𝐞𝐬
+    |
+    <id>articleIds 🔑\l
+    |
+    userId 🔑\l
+    appId 🔑\l
+    |
+    createdAt\l
+    updatedAt\l
+  "]
+  
+  airesponses[label="
+    𝐚𝐢𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐞𝐬
+    |
+    <id>docId\l
+    type\l
+    |
+    userId\l
+    appId\l
+    |
+    status\l
+    text\l
+    request\l
+    usage\l
+    |
+    createdAt\l
+    updatedAt\l
+  "]
+  
   
   articles:id -- replyrequests:id;
   articles:requests -- replyrequests:timestamps [style="dotted"];
@@ -282,5 +316,7 @@ graph mappings{
   replies:url -- urls:url;
   replies:title -- urls:title [style="dotted"];
   replies:summary -- urls:summary [style="dotted"];
+  articles:id -- cooccurrences:id;
+  articles:id -- airesponses:id;
 }
 ```
