@@ -2,7 +2,7 @@
 title: "g0v 參與者訪談(Eng.)"
 tags: 採訪共筆,hackpad,拉人更輕鬆
 ---
-# FtO 學生參與者訪談 - Kurumi (Eng.)
+# FtO 學生參與者訪談 - Starry & Fionna (Eng.)
 
 > [模板來源](https://g0v.hackpad.tw/dWAAwY8zPgP)
 > [g0v 參與者訪談](/Bs7yfmBARSGnHUB6PXkjDA?both)
@@ -15,12 +15,13 @@ CC BY 4.0 g0v contributors at (url)
 ```
 全文以上述授權釋出，如不同意請勿編寫
 
-訪談人：Vivian Wu, Yvonne Cho
-訪談對象：Kurumi Muto
-訪談時間：2024/7/25 11:00 – 12:00(GMT+8), via google meet
+訪談人：Vivian Wu
+訪談對象：Fionna Clarissa, 조벼리(Starry)
+訪談時間：2024/9/3 20:00 – 21:00(GMT+8), via google meet
 
 ## 採訪邀約
-2024/7/18-2024/7/25 via CfJ slack and with Saya's help(CfJ worker)
+2024/8/19 via FtO(in-person)
+
 
 ## 訪綱
 [Interview with CfJ Student Participants 訪綱](https://hackmd.io/@VDdOcvHKRDK80-R5I34F-w/SkmTU9AdC/edit)
@@ -31,8 +32,8 @@ CC BY 4.0 g0v contributors at (url)
 > For Participant Classification
 
 1. What is your current grade level?
-- 4th year, graduating next Mar
-- 開始於四月、畢業於三月，有gap year 一年所以目前是最後一年（大五）
+- Starry: Journalism 2nd grade, student reporter
+- Fionna: studied in KR for 2 yrs, visual communication design, finished master degree, now finding a job. 
 
 2. When did you start participating in CfJ projects or activities?
 - last fto (Korea), they have scholarship (flight, accommodation)
@@ -171,6 +172,6 @@ CC BY 4.0 g0v contributors at (url)
 
 ---
 # Infos
-- https://odhackathon.metro.tokyo.lg.jp/
-- https://www.code4japan.org/brigade/all
-- https://ccc.code4japan.org/
+- https://www.danbinews.com/news/articleView.html?idxno=27364
+- https://codefor.kr/posts/w9toRB
+- 
