@@ -32,36 +32,23 @@ CC BY 4.0 g0v contributors at (url)
 > For Participant Classification
 
 1. What is your current grade level?
-- Starry: Journalism 2nd grade, student reporter
-- Fionna: studied in KR for 2 yrs, visual communication design, finished master degree, now finding a job. 
+- Starry(S): Journalism 2nd grade, student reporter
+- Fionna(F): studied in KR for 2 yrs, visual communication design, finished master degree, now finding a job. 
 
 2. When did you start participating in CfJ projects or activities?
 - last fto (Korea), they have scholarship (flight, accommodation)
-- CfJ有獎學金給FtO in KR，去年有拿到
-- 日本人數大概有二人以上有拿到獎學金、四五個學生參加
+- CfJ provided FtO subsidy for Code for KR
 
-3. Which projects or activities are you primarily involved in?
-- 不是很積極參與、有時候在有時候不在
-- 在Code for Sake，PR to Fix it
-- not very active in CfJ
-- participation is on and on
-- project Sake (built the application, make a PR)
+3. How many members in your team? 7
 
-4. Do most of the projects involve coding?
-- yes, most of the ppl can code
-- the project all include
-- some professor is involved, maybe they cannot code? 
-
+4. Do you still want to continue the project?
+- F&S: haven't discussed much yet, but we would like to continue.
 
 ### PART 2. Point of Entry
 > Understanding Initial Contact and Participation
 
 5. How did you first come into contact with or learn about CfJ?
-- Waffle (https://waffle-waffle.org/) coding bootcamp program, participating time: when taking gap year, may 2022 - jul 2022. but stay in the community afterwards
-- slack has lots of programs for young people
-    - learnt HSS, HTML
-    - in coding camp, female program’s member
-- leadership is friend of Mamie san, so she join from it
+- FtO 
 
 6. What was the first activity you participated in? What motivated you to join?
 - Fto was the first hackathon - congress watch
