@@ -30,6 +30,17 @@
 8. CHARG = RTNO
 9. 材料廠 PLANT_CODE: 1012
 
+* **Turnkey**
+
+1. 須熟悉 ZOT20, ZOT22, ZOT23, ZOT25
+2. ISSU：指的是產品/物料的「挪動」 → 通常在溝通時的用法有兩種：(1)下線[ISSU] (2)出貨[GOOD ISSU]
+3. GOOD ISSU 通常就是指產品/物料離開 ASE
+4. Bank內的貨 → RT(某箱貨的意思) = BATCH = LOT
+5. ASSY / BUMPING 在 ORDER STATUS = 60 時會碰 SCHEDULE
+6. TEST 在 ORDER STATUS = 30 時會碰 SCHEDULE
+7. Create Lot 指的是 MES 開啟此道程序，但並未開始著手進行 WIP。(若開始進行前則為Start Lot )
+8. MM 特性質Table：(1)GRP_MM_T_ZASE_WP (2)GRP_MM_T_ZASE_FG (3)GRP_MM_T_ZASET_WP (4)GRP_MM_T_ZASET_FG
+9. 承8.，所有 MM 特性質 Table 的 Key 必須是 MATNR, WERKS, CHARG  (通常要抓最晚)
 
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
