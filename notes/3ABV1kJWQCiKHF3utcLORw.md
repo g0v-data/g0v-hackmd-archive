@@ -133,6 +133,16 @@ Prediction of the Length of the Next CPU Burst
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9db9a3534072dc61d234e9fbd3ee74d6.jpg)
 Example of Shortest-remaining-time-first
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_78cb8203a774dbb0e3b8414c62a01d12.PNG)
+**優先級排程（Priority Scheduling）**
+
+- 每個進程都會分配一個優先級數字（整數）。
+- CPU 會分配給優先級最高的進程（數字最小的整數表示最高優先級）。
+- 可以是 **搶占式** 或 **非搶占式**。
+- SJF 排程是一種特殊的優先級排程，其中優先級是預測的下一次 CPU 執行時間的倒數。
+- **問題**：饑餓（Starvation） – 低優先級的進程可能永遠無法執行。
+- **解決方案**：老化（Aging） – 隨著時間推移，提高進程的優先級。
+Example of RR with Time Quantum = 4
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_40b0338b2bf60ccbefac2869b398c920.PNG)
 
 **CPU 利用率（CPU Utilization）** 是衡量 CPU 在一段時間內被有效使用的程度，通常以百分比表示。這是一個重要的性能指標，用於評估系統資源的使用效率。
 
@@ -271,3 +281,49 @@ CPU 利用率可以通過以下公式計算：
 3. **I/O 操作**：需要進行大量 I/O 操作的進程可能會增加響應時間，因為系統需要等待這些操作完成。
 
 在設計和優化系統時，降低響應時間是提升用戶體驗和系統效率的一個重要目標。
+Time Quantum and Context Switch Time
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_95df64b6f7dec4c11bb6cea9b50a0e6f.PNG)
+Turnaround Time Varies With The Time Quantum
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0e343749e492247e7002da5dbde44638.PNG)
+
+**上課稍微有提到**
+評估 CPU 排程算法的常見方法有四種，每種方法針對不同情境，幫助分析算法的效率、性能和適用性。
+
+### 1. **模擬（Simulation）**
+   - 透過程式模擬算法的運行，分析其在不同情境下的行為。
+   - 通常使用隨機數生成模擬進程的到達時間、執行時間和 I/O 操作。
+   - 優點：靈活，可測試不同負載和條件，生成細緻的性能數據。
+   - 缺點：模擬設置可能偏離實際系統，且需要較高的運算資源。
+
+### 2. **排程模型分析（Queueing Models）**
+   - 利用排隊論模型來模擬進程在系統中的排隊和等待過程。
+   - 常用指標：平均等待時間、平均周轉時間、CPU 利用率等。
+   - 優點：能用數學模型直接分析系統性能，適合初步設計和算法比較。
+   - 缺點：假設條件簡化了現實場景的複雜性，可能不完全準確。
+
+### 3. **時間分析（Deterministic Modeling）**
+   - 使用一組固定的進程和已知的到達時間、執行時間進行分析。
+   - 通常計算不同算法下的平均等待時間、周轉時間等性能指標。
+   - 優點：結果精確，便於在標準情境下進行比較。
+   - 缺點：無法模擬系統中的隨機因素和動態行為。
+
+### 4. **實驗測試（Implementation Testing）**
+   - 將算法直接應用於操作系統或實際測試環境中，觀察其性能表現。
+   - 優點：結果最貼近真實系統，能直接驗證算法的實際效果。
+   - 缺點：耗費時間和資源，且在實際系統中切換算法可能有風險。
+
+### 總結
+- **模擬** 和 **排程模型分析** 更適合於設計階段的測試。
+- **時間分析** 和 **實驗測試** 適合進行精確驗證或真實環境中的實際測試。
+**實作（Implementation）**
+
+- 即使是模擬，也具有有限的準確性。
+- 可以直接實作新的排程器並在實際系統中測試。
+- 代價高、風險大。
+- 不同的環境條件各不相同。
+- 大多數靈活的排程器可以依照站點或系統需求進行調整。
+- 或者透過 API 來調整優先級。
+- 但環境差異仍然存在。
+Evaluation of CPU Schedulers by Simulation
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fd1f596c09212822f76febc12725e1d4.jpg)
+第五章有些內容必須要去看影片補充
