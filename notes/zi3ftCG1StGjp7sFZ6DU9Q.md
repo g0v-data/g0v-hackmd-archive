@@ -13,18 +13,21 @@ tags: vtaiwan
 ## 小小的分享
 - Josh 去美國參加研討會，看看有無有趣的經驗分享！
 - Peter 週一活動時與有參與過青年好政的人聊天，有聊到相當有趣的經驗
+- 
 
-## 1031 小聚活動
+## （原1031）1112 小聚活動
 :::info
 活動延期至11/12舉行！
 颱風來襲，大家注意安全！
 :::
+- 來看[議題簡報](https://docs.google.com/presentation/d/131Ae4cwKb81wYDg-E6LpBJ0snvFDJHdkUB51x5lus9M/edit#slide=id.p)！
 - 活動分工
     - 當天能夠出席協助
-        - 紀錄
-        - 主持
+        - 紀錄：
+        - 主持：
         - 行政
+        - 茶點：lily
     - 事後意見分析
-    - 
+        - 分析
 - 大家一起來玩 [polis](https://polis.tw/23hdpknnmh)新增意見！
 - 
