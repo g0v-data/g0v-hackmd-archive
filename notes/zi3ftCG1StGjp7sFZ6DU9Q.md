@@ -62,7 +62,10 @@ tags: vtaiwan
 - 大家一起來玩 [polis](https://polis.tw/23hdpknnmh)新增意見！
 - 議題小聚意見整理協作：
 1. 目標：將目前 polis 上有的意見放到 miro 上
-2. 步驟：(1) 打開 polis 後台，檢視平台上有的意見 (2) 先將意見先張貼到 miro 網頁上（連結：https://miro.com/welcomeonboard/SGdrYlREVGJjcEd0UVg1SmNiTDQ4MU92VVYwOVA1WWRLS2NVRW5aM2NPREtPTTJxbnRnMGwyelNad1dJOTBWeXwzNDU4NzY0NjAyNDk4MTEzMzc5fDI=?share_link_id=933032424017）（3) 建立連結
+2. 步驟：
+(1) 打開 polis 後台，檢視平台上有的意見 
+(2) 先將意見先張貼到 miro 網頁上（連結：https://miro.com/welcomeonboard/SGdrYlREVGJjcEd0UVg1SmNiTDQ4MU92VVYwOVA1WWRLS2NVRW5aM2NPREtPTTJxbnRnMGwyelNad1dJOTBWeXwzNDU4NzY0NjAyNDk4MTEzMzc5fDI=?share_link_id=933032424017）（3) 建立連結
+- 
 ## 1220 TWNIC 合作
 - [相關文件](https://drive.google.com/drive/u/0/folders/1usx2AgoPGzEEO0imI0bZHUmwU9EMy8HZ)
 - 目前主視覺的內容
@@ -70,3 +73,4 @@ tags: vtaiwan
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_10049df6fb82e0a60a57f80a53d91947.jpg)
 - 粉專圖
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_938eb8b603e978daac8df72673cc3d6b.jpg)
+- 歡迎
