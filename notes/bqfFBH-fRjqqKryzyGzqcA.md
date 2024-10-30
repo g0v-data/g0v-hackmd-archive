@@ -16,7 +16,7 @@ CC BY 4.0 g0v contributors at (url)
 全文以上述授權釋出，如不同意請勿編寫
 
 訪談人：Vivian Wu
-訪談對象：Fionna Clarissa, 조벼리(Starry)
+訪談對象：Fionna Clarissa, Byeo ri Cho(Starry)
 訪談時間：2024/9/3 20:00 – 21:00(GMT+8), via google meet
 
 ## 採訪邀約
@@ -39,7 +39,8 @@ CC BY 4.0 g0v contributors at (url)
 - last fto (Korea), they have scholarship (flight, accommodation)
 - CfJ provided FtO subsidy for Code for KR
 
-3. How many members in your team? 7
+3. How many members in your team? 
+- 7
 
 4. Do you still want to continue the project?
 - F&S: haven't discussed much yet, but we would like to continue.
@@ -47,118 +48,49 @@ CC BY 4.0 g0v contributors at (url)
 ### PART 2. Point of Entry
 > Understanding Initial Contact and Participation
 
-5. How did you first come into contact with or learn about CfJ?
-- FtO 
+5. How did you first come into contact with or learn about CfK?
+- F: Introduced by a professor from Culture and Visual Design Dept. who taking part in CoC.
+- S: Also acknoledged by a professor in video communication & user video resecher dept., who is close d to the FtO organiser.
 
-6. What was the first activity you participated in? What motivated you to join?
-- Fto was the first hackathon - congress watch
-    - using GPT model to summarize the video in TW congress 
-    - ppl w/ Ronny is very nice, the program is very inclusive
+6. Why did you attracted by the professors' suggestions?
+- F: I've joined hackathon once, it was fun. Also it is a good chance to know ppl from different background. What's more, this is my first time to visit JP.
+- S: Most people surrounded me is aobout journalism. Although I've never attend hackathons before, I am interested in the event cause it can let me meet people holding various backgrounds.
 
-7. As a newcomer, what do you think is the quickest way to understand an open-source community like CfJ and find projects that interest you?
-- join events really help
-- you can just see website for a list of projects
-- same things happening in JP by joining the event you can get know quickly.
-- with people’s help you boost the working mode?
+7. What kind of organization do you think CfK is?
+- F an organisation that have shared vision. Achieveing tasks that they care and good for societies. Which I think is quite simliar to the goal of FtO.
+- S: about data journalism, they sent important infos to citizens, for example public mask maps during covid. Similar to journalist 
 
-8. Where do newcomers from?
-- university: cfj programs for universities
-    - last year, big hackathons for Civic Tech Challenge Cup U-22  https://ccc.code4japan.org/ (annually, online)
-    - online hackathon, physically in Tokyo
-- Does cfj popular among univ students？
-    - actually not?
-    - usually learnt from other sources
+8. What’s your observation on the composition of student participants at CfK? (age, location, gender) What types of projects are most common at CfK?
+- very few in community generally, mostly office workers help with scholarship system
+- 13 KR ppls to FtO, CfJ community less than 100 ppl,  loose community , about 800 participants online but dunno they are active or not
+- dunno the sex balance in the community
 
-9. What is your main motivation for continuing to contribute to the projects or activities you are involved in?
-- interesting
-    - people share the philosophy that they want to do something for the community
-    - go to social events rather than hackathons
-    - code for japan summit (showcase)
+9. can you name some well known project in CfK? 
+- public mask map during covid, noticed by gov
 
-### PART 3.  Hackathons and Community Culture
+10. What are the biggest earnings from participating in FtO?
+- F: The expeiences and dimensions, I've got the chances to meet new people with diffent cultural backgrounds.
+- S: It was unique experience to meet people when we found languages is not barriers later.
+
+11. As a novice joining CfK/ FtO, what do you think how can they understand the organization and find projects that they are interested in?
+- Yes, we would like to join the event again.
+- F: First we need to thier motives therefore we can find the common interests and the issues we all care about. If you ever want to do sth, you can find partners to do together on social platforms.
+- S: My friends also got interests of participating FtO next year after reading the article I wrote. They also want to meet young people from other countries. 
+
+12. Are you satisfied with the progress of the project?
+- F: Satisfied, we've been developing with code, preparing for presentation.
+- S: The process was nice. Though I'm a bit upset for unable communicating with English, I still looking forward to Taiwan's FtO next year.
+
+### PART 3.  Sharing
 > Understanding the People in the CfJ Community
-10. What are your views on the CfJ community culture, including open-source, "Release early, release often," collaborative editing, and decentralization?
-- not very active, no further comment
+13. Have you heard about Civil tech in past?
+- Never
 
-11. Are there any regular events that CfJ often holds? 
-- fto
-- social event: CfJ summit
-- Civic Tech Challenge Cup U-22  https://ccc.code4japan.org/ 
-- outsource this to CfJ https://odhackathon.metro.tokyo.lg.jp/ hackathon using tokyo’s open data
+14. Is there any diffculties that you noticed when promoting civil tech movements or events in KR?
+- F Civil tech focus on coding and big data. Besides,  hackathons can focus on the project without coding, it can be other topics as well like proposing and collaborating.
 
-12. Are there many student participants in CfJ? Based on your observations, how do they generally participate? How is the overall participation (including the composition of participants, number of participants, age range, and locations)?
-- already working
-- people are mostly in same age as the founders and organizers
-- they all shared the same vision
-- join the community is fun
-- a lot less female presentation (japan’s problem, STEM female students are less)
-
-### PART 4.  Promotion and Community Management of CfJ
-13. Based on your observations, how do your friends, peers, and community members participate in or understand CfJ? What might be the reasons for this?
-- haven’t done many contribution
-- understand cfj as an opportunity for contributing
-- opportunity to contribute to society
-
-14. do you want to initiate your own project?
-- yes
-    - topic: birth control pill usage(about period)
-    - drop health data
-    - side effects
-
-15. Is participating in open-source communities like CfJ common in Japan? How is the level of participation?
-- I don’t think civic tech is common in Japan yet.
-- sometimes talk to friends, they don’t know civic 
-
-16. Do you think the CfJ community is attractive to students in your age group? Why or why not?
-- students usually don’t have chances to do actual, practical projects. cfj is a good one
-
-
-### PART 5. Others
-17. the project is all about locals, international, national?
-- if you want to know about gov data, every place way is different
-- code for narima https://www.code4japan.org/brigade/all 
-
-18. How do you feel about the open level of gov’s data between TW and JP
-- there's atmosphere that citizen shouldn’t talk about politics
-
-19. What's your starting point for the Civil Tech movement?
-- social issue
-
-20. Do many people in waffle have a technical background?
-- people joining don’t know how to code
-- waffle program is about empowering woman
-
-21. Ways of project participation
-- sake is very clear
-- Some weren't constructing that clear. Hence, discussing session is valued more than coding part. 
-
-22. Is there any ways that you perceived CfJ attract students?
-- there's no partnering with Universities
-- on social media (twitter)
-
-23. How do EE, CS or other majors of students think about spending their time during college periods?
-- some ppl do join hackathon very often 
-- leetcode streak for internship (tech fields? yep it’s a coding thing
-- part time 
-
-24. How do you feel during the hackathons held by g0v?
-- inclusive, diversity (age, women)
-- hearing about congress, share my experience?
-    - JP tourism of the lab work
-
-25. How do you feel about g0v? How to sign the event?
-- heard from a (Taiwanese) friend - Peter
-- directly went to venue and done in during the slot
-
-26. Is there any (active) student participant you can think about?
-- ゆう猫(Haruka Ono), and the other(name unknown)
-
-27. major and univ?
-- policy studies (Social Architecture)
-- Tsuda univ 
 
 ---
 # Infos
 - https://www.danbinews.com/news/articleView.html?idxno=27364
 - https://codefor.kr/posts/w9toRB
-- 
