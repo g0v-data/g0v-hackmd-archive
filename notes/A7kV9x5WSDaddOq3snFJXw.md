@@ -13,6 +13,7 @@
 
 1. COMPANY_NAME：1002 ; PLANT_CODE: 1021
 2. PP model's SCHEDULE： year(1) + week(2) + Cust_Code(2) + 流水A(2) + 流水B(1)
+ → **2000年、2010年、2020年 etc. → 年碼不為0，以A取代之**
 3. WIP 表：R_CWIP_01 (含Bank, WIP, FG Bank)
 4. WIP's Key Value：SCHEDULE + Z_YEAR + CUST_ID
 5. Bank's Key Value：SCHEDULE + Z_YEAR + CUST_ID
@@ -30,12 +31,13 @@
 8. CHARG = RTNO
 9. 材料廠 PLANT_CODE: 1012
 
+
 * **Turnkey**
 
 1. 須熟悉 ZOT20, ZOT22, ZOT23, ZOT25
 2. ISSU：指的是產品/物料的「挪動」 → 通常在溝通時的用法有兩種：(1)下線[ISSU] (2)出貨[GOOD ISSU]
 3. GOOD ISSU 通常就是指產品/物料離開 ASE
-4. Bank內的貨 → RT(某箱貨的意思) = BATCH = LOT
+4. Bank 內的貨 → RT(某箱貨的意思) = BATCH = LOT
 5. ASSY / BUMPING 在 ORDER STATUS = 60 時會碰 SCHEDULE
 6. TEST 在 ORDER STATUS = 30 時會碰 SCHEDULE
 7. Create Lot 指的是 MES 開啟此道程序，但並未開始著手進行 WIP。(若開始進行前則為Start Lot )

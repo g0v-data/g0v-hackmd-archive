@@ -1,0 +1,3 @@
+Hướng Dẫn Chơi Blackjack Cho Người Mới – Chiến Thuật Tăng Cơ Hội Thắng
+Blackjack là trò chơi đòi hỏi sự kết hợp giữa may mắn và chiến lược. Để tối ưu hóa tỷ lệ thắng, người chơi cần nắm rõ quy tắc, áp dụng kỹ thuật đếm bài, quản lý vốn hợp lý và đọc tình huống trong mỗi ván đấu. MB66 sẽ chia sẻ những bí quyết giúp bạn chơi Blackjack hiệu quả và tự tin hơn, nâng cao khả năng chiến thắng.
+https://mb66z.net/blackjack/
