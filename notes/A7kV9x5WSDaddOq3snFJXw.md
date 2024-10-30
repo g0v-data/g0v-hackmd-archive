@@ -7,6 +7,7 @@
 3. WIP 表：EC_CRM_T_WIP_STATUS (含Bank, WIP, FG Bank)
 4. WIP's Key Value：SCHEDULE + TT_YEAR
 5. Bank's Key Value：RTNO + PLANT + MATERIAL
+6. 大致上的流程：INTRA(Lot在Die Bank且未建工單) → DIE_BANK(Lot在Die Bank且已建工單) → WIP(Lot進入製程) → FG BANK(Lot入成品庫)
 
 * **Table TEST**
 
@@ -15,19 +16,19 @@
 3. WIP 表：R_CWIP_01 (含Bank, WIP, FG Bank)
 4. WIP's Key Value：SCHEDULE + Z_YEAR + CUST_ID
 5. Bank's Key Value：SCHEDULE + Z_YEAR + CUST_ID
+6. 大致上的流程：IN_TRA(Lot在018%倉，跨廠運送中) → UN_ISS(Lot在Die Bank) → ISS(Lot進入WIP) → TSTK(Lot在餘數架) → TDRP(Lot入成品庫)
 
 * **Common TIPS**
 
-1. 大致上的流程：INTRA(未建工單) → DIE_BANK(建立工單) → WIP(進入製程) → FG BANK(入成品庫)
-2. WIP 有可能代表兩種情況：(1)BANK + WIP +FG (2)WIP → 所以要問清楚
-3. INTERNAL Turnkey：A → A ; T → T
-4. EXTERNAL Turnkey：A → T
-5. MM model's SCHEDULE：RTNO + PLANT + MATERIAL (一開始和成品的 RTNO 會不同) → 就是 Bank 啦
-6. MM model's common TABLEs：(1)TRANSACTION (2)INVENTORY (3)WAFERIC_INV
-7. PP model's common TABLEs：(1)ZOT_20 (2)ZOT_22 (3)ZOT_23 (4)ZOT_25
-8. MES model's common TABLEs：(1)WIP_TXN (2)WIP_LOT
-9. CHARG = RTNO
-10. 材料廠 PLANT_CODE: 1012
+1. WIP 有可能代表兩種情況：(1)BANK + WIP +FG (2)WIP → 所以要問清楚
+2. INTERNAL Turnkey：A → A ; T → T
+3. EXTERNAL Turnkey：A → T
+4. MM model's SCHEDULE：RTNO + PLANT + MATERIAL (一開始和成品的 RTNO 會不同) → 就是 Bank 啦
+5. MM model's common TABLEs：(1)TRANSACTION (2)INVENTORY (3)WAFERIC_INV
+6. PP model's common TABLEs：(1)ZOT_20 (2)ZOT_22 (3)ZOT_23 (4)ZOT_25
+7. MES model's common TABLEs：(1)WIP_TXN (2)WIP_LOT
+8. CHARG = RTNO
+9. 材料廠 PLANT_CODE: 1012
 
 
 
