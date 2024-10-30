@@ -5,7 +5,24 @@
 
 **Mẫu giày da nam dự tiệc:**
 
+
 **[https://pad.fs.lmu.de/s/cH6tIwZSH](https://pad.fs.lmu.de/s/cH6tIwZSH)**  
+  
+**[https://hedgedoc.k8s.eonerc.rwth-aachen.de/s/3uWBOrYdE](https://hedgedoc.k8s.eonerc.rwth-aachen.de/s/3uWBOrYdE)**  
+  
+**[https://pad.ufc.tu-dortmund.de/s/L74YYK7-G](https://pad.ufc.tu-dortmund.de/s/L74YYK7-G)**  
+  
+**[https://hedgedoc.digillab.uni-augsburg.de/s/daumae_sd](https://hedgedoc.digillab.uni-augsburg.de/s/daumae_sd)**  
+  
+**[https://pad.stuve.uni-ulm.de/s/huYAV5k6c](https://pad.stuve.uni-ulm.de/s/huYAV5k6c)**  
+  
+**[https://md.isp.uni-luebeck.de/s/_4b4PIDbE](https://md.isp.uni-luebeck.de/s/_4b4PIDbE)**  
+  
+**[https://hedge.fachschaft.informatik.uni-kl.de/s/387D6MY5x](https://hedge.fachschaft.informatik.uni-kl.de/s/387D6MY5x)**  
+  
+**[https://doc.adminforge.de/s/S-Ki7vv6k](https://doc.adminforge.de/s/S-Ki7vv6k)**  
+  
+**[https://hedgedoc.eclair.ec-lyon.fr/s/7X9esFcyM](https://hedgedoc.eclair.ec-lyon.fr/s/7X9esFcyM)**
   
 
 ## Các Loại Giày Da Nam Phổ Biến Cho Dạ Tiệc

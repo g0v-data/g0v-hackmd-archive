@@ -68,6 +68,8 @@ https://docs.google.com/document/d/1utkRdk6NmCpTdSAU29naQa3GqGPVP7oBkseo6pAzen8/
 
 有見過考正苦工的Apps，可以帮你温習，但我未用過，請知道的人補充。
 
+
+
 * 科舉攻略, https://apps.apple.com/mo/app/%E7%A7%91%E8%88%89%E6%94%BB%E7%95%A5/id1184794848?l=en
 * 澳門考試幫手, https://apps.apple.com/mo/app/%E6%BE%B3%E9%96%80%E8%80%83%E8%A9%A6%E5%B9%AB%E6%89%8B/id1209073979?l=en
 * MUST JOB, https://apps.apple.com/mo/app/mustjobs/id1260181065
