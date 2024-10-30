@@ -52,6 +52,9 @@ https://www.facebook.com/groups/1199773780063992?multi_permalinks=91092187691194
 協尋，中研院學者為了珊瑚白化事件布放的監測儀器，特地於眺石附近放置測量溫度用的溫度串（包括有寫中研院的浮球、繩子、鐵鍊以及上面的溫度計）
 https://www.facebook.com/ytldylan/posts/pfbid024w4tEvWXFvrZZ8R69KAXaciV6A9L4eBWyehKNwzPU1BTh9WvBFuxS2yVaiUbXvuGl
 
+撿到，探空儀器，氣象資料蒐集，留言有提到，若是撿到，「非爆裂物，可自行處置。新品的儀器一個大約1萬元上下。」
+https://www.facebook.com/share/p/19puoDTvVH/
+
 撿到，宜蘭的船長在台灣東北部海域作業發現這個衛星浮標
 https://www.facebook.com/groups/437659989769965/posts/2253695958166350/
 
