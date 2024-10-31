@@ -144,9 +144,13 @@ http://dev.cofacts.tw/
 ## Badge 功能
 
 - 實作方向：badge ( https://g0v.hackmd.io/6tCmrXsyS3WEGgC_bMcd9w?#User-organization--badge )
-- 過往討論整理：
-
-
+  - 認證該使用者有參與過課程
+  - 無須追蹤 badge 擁有者成效等等
+  - 顯示上會較為顯眼
+  - 使用者若獲得多個 badge，可自選要呈現哪個 badge
+  - 直接改資料庫加入新 badge 資訊
+  - 由第三方打 Cofacts API 把人加進 badge，發 badge 時也提供 metadata
+- 過往討論整理：https://hackmd.io/ktxqGDX4S4iuBd1MoZqDmQ?#Cofacts-Editor-Organization-%E6%A9%9F%E5%88%B6
 
 ## Automatic spam removal
 
