@@ -5,21 +5,24 @@ description: 2024 夏日線上源力增能營：提案工作坊
 # 拉人更輕鬆專案（台大堉璘 YLL x g0v）
 
 ## 專案簡介
-拉人更輕鬆小組由三位參與堉璘臺大人才培育計畫的三位台大學生（國企三卓芸亦、資工三笪瑜庭、工管四吳宸維）組成，希望透過各種實作方式（訪談、問卷、參與觀察）了解年輕族群參與公民科技社群之契機與持續性。我們持續舉辦基礎建設黑客松（基礎松）優化 g0v 基礎建設，目前正與社群夥伴推行使官網視覺層級更明確的相關修改。
+拉人更輕鬆小組由三位參與堉璘臺大人才培育計畫的三位台大學生（國企三卓芸亦、資工三笪瑜庭、工管四吳宸維）組成。希望透過各種實作方式（訪談、問卷、參與觀察）了解年輕族群參與公民科技社群之契機與持續性。
 
-「拉人更輕鬆」專案希望透過實體講座、工作坊活動進行分享，目前正積極於高中與大學校園內舉辦公民科技社群 & 學生專案經驗分享會，邀請學生與社群專案團隊分享專案執行與社群參與經驗，希望邀請更多新參者進入 g0v ，使社群參與更容易。
+目前已於高中與大學校園舉辦 4 場以上公民科技社群 & 學生專案經驗分享講座 & 工作坊活動，也持續與社群夥伴推行使官網視覺層級更明確的相關修改。於實體活動中邀請學生團隊，分享專案與社群參與經驗，使更多新參者認識 g0v.tw 零時政府，使社群參與更容易。
 
 聯絡方式：#拉人更輕鬆 [@g0v slack](https://app.slack.com/huddle/T02G2SXKM/C07R2PMV7K2)
 
 ## 揪伙來做
 - 8 月工作坊：[2024 夏日線上源力增能營結業式 x 提案工作坊](https://g0v.hackmd.io/@jothon/H1_B6j-9R)
-- 10 月 2 場分享會：師大附中、北科大（可附Facebook 連結即可），或是把分享專案介紹、流程、照片開成一個新的hackmd doc（參考企劃書）
+- [10 月 2 場分享會：師大附中、北科大](https://www.facebook.com/share/p/UYmNcDF8ZNtEGQcc/)
 
 
 ## 基礎松
-[2024年10月6日 g0v infrath25n 第貳拾伍次基礎建設松](https://beta.hackfoldr.org/g0v-infras/https%253A%252F%252Fg0v.hackmd.io%252F%2540suryazze%252Frkg2BXKAR)
-[2024年4月20日 g0v infrath24n 第貳拾肆次基礎建設松](https://beta.hackfoldr.org/g0v-infras/https%253A%252F%252Fg0v.hackmd.io%252F%2540jothon%252Fg0v-infras-24)
-[拉人更輕鬆 - 專案進度回顧與未來目標](https://g0v.hackmd.io/s/BJaGHU5uR)
+- [2024年10月6日 g0v infrath25n 第貳拾伍次基礎建設松](https://beta.hackfoldr.org/g0v-infras/https%253A%252F%252Fg0v.hackmd.io%252F%2540suryazze%252Frkg2BXKAR)
+- [2024年4月20日 g0v infrath24n 第貳拾肆次基礎建設松](https://beta.hackfoldr.org/g0v-infras/https%253A%252F%252Fg0v.hackmd.io%252F%2540jothon%252Fg0v-infras-24)
+- [拉人更輕鬆 - 專案進度回顧與未來目標](https://g0v.hackmd.io/s/BJaGHU5uR)
+
+## FtO 學生訪談
+- [日本學生訪談(Kurumi, Yuri)](https://www.facebook.com/share/p/8hxvjBnzLguC2GgM/)
 
 ## 大松與 summit 參與
 放我們參與過的大松的頁面＆提案連結頁面或簡介內容（can copy from the google sheet embedded)
