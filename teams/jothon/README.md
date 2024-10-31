@@ -2,6 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [Hy9ilrj9C](../../notes/7Gz_csFQQzquBoY3eIfn6A.md) | 1-1 「g0v 台湾零時政府」とは何か？｜g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-15T16:47:30+08:00 | View mode |
+| [Sk9f2CxBn](../../notes/aqy-4gAESNi0uHlVxUHb-w.md) | 1-1 What is g0v? ｜ 公民科技專案手冊｜Civic Tech Project Handbook | 2023-05-16T18:33:53+08:00 | View mode |
 | [confkeng2020](../../notes/bLZZA8HlQcWZyjbgvRS6ig.md) | g0v 坑主小聚 / 坑主大補帖 | 2019-12-31T15:45:49+08:00 | View mode |
 | [g0vSNS](../../notes/hP_d7jkrR3yZulinnimL3Q.md) | g0v 社群活動＆專案宣傳指南 | 2024-10-28T15:36:40+08:00 | View mode |
 | [HJXRuIQxyl](../../notes/pg-nZhhxQteBaePLQn8O4g.md) | g0v hackath64n - 第陸拾參次黃金比例黑客松 | 2024-10-21T12:30:02+08:00 | View mode |
@@ -48,7 +50,6 @@
 | [SkIAori5R](../../notes/b3ksaJaFT-eCpVye0CT4vg.md) | 2-1 どのようにシビックテックコミュニティを立ち上げるか ｜g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-15T17:35:09+08:00 | View mode |
 | [H1WiYro5C](../../notes/SS4GWu-6QEWbyol9aBXI6A.md) | 1-2 g0vコミュニティの運営 ｜g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-15T17:25:45+08:00 | View mode |
 | [Hyi1urjqR](../../notes/RNxztA_FTfexzXQfBgQIxg.md) | はじめに ｜ g0v シビックテックプロジェクトとコミュニティの手引き｜Civic Tech Project Handbook | 2024-08-15T17:18:26+08:00 | View mode |
-| [Hy9ilrj9C](../../notes/7Gz_csFQQzquBoY3eIfn6A.md) | 1-1 「g0v 台湾零時政府」とは何か？｜g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-15T16:47:30+08:00 | View mode |
 | [community99-2407](../../notes/wONZvhHVSluE8IEq9x7n_Q.md) | g0v 社群每月九分鐘 - 2024/7 | 2024-07-01T14:23:28+08:00 | View mode |
 | [SJ_FsojdC](../../notes/r0vbhhJ5R6uKVLo5yXmf_A.md) | 語言盤點 | 2024-07-22T17:50:55+08:00 | View mode |
 | [S1fCA0ZOC](../../notes/8Qa19IlZS9aSQpPp2J9Z4g.md) | 2024.10/26-10/27 MOPCON｜評估申請攤位 | 2024-07-15T07:27:05+08:00 | View mode |
@@ -101,7 +102,6 @@
 | [BJUEUpbrn](../../notes/NjESgfpFR7qnEfc2IhYMIA.md) | 2-2 Elements for Developing Civic Tech Communities | 2023-05-17T11:12:46+08:00 | View mode |
 | [B1G_qG3R3](../../notes/mhzLgau-QwKjadKoS9uDxg.md) | 2-1 How to  Build a Civic Tech Community? | 2023-09-11T12:41:14+08:00 | View mode |
 | [r1GaBkbSn](../../notes/-aKy28lmQgWQTNLL_scomQ.md) | 1-2 How g0v works? | 2023-05-16T19:15:05+08:00 | View mode |
-| [Sk9f2CxBn](../../notes/aqy-4gAESNi0uHlVxUHb-w.md) | 1-1 What is g0v? ｜ 公民科技專案手冊｜Civic Tech Project Handbook | 2023-05-16T18:33:53+08:00 | View mode |
 | [rkuOO0-Sh](../../notes/k4yOPBVMTMupGlxxomtXQg.md) | Credit List | 2023-05-17T12:30:40+08:00 | View mode |
 | [HkEOYD_An](../../notes/uaZ8cbNgQsOj_FKp9yNTPQ.md) | 4-2 The Impact of East and South Asian Governments toward Civic Tech Development and the Relationship Between Them | 2023-09-08T17:29:15+08:00 | View mode |
 | [S1yyFPuCn](../../notes/40J7QJDWRzyyhyCD4foH0g.md) | 4-1 Regional Diversity and Variations in East and South Asia | 2023-09-08T17:26:46+08:00 | View mode |

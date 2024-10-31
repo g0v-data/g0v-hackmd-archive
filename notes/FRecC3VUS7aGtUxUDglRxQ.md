@@ -8,7 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- 線上出席：mrorz, bil, nonumpa, 4000, T, Conrad
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 - 今天風災影響會稍微晚點
 :::
@@ -40,34 +40,34 @@ Need a thorough test to see if anything is broken
 
 https://lin.ee/1QUzEX4nI
 
-- [ ] 應可送出「全新訊息」
-    - [ ] 問訊息來源時選擇「我自己打的」會被擋下。
-    - [ ] 選擇「整篇轉傳」後會詢問是否要送出訊息。
-    - [ ] 不同意送出訊息後可以收到感謝。
-    - [ ] 同意送出訊息後就會送出訊息，並得到：
-        - [ ] Cofacts article page 按鈕
-        - [ ] 寫理由的按鈕
-        - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
-        - [ ] 「分享到 Facebook」、「分享到 LINE」且可以正常運作
-    - [ ] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
-    - [ ] 可以再打開理由視窗，此時會載入上次填寫的理由。修改理由送出後，查看 article page 看理由是否有被送出。
+- [x] 應可送出「全新訊息」
+    - [x] 問訊息來源時選擇「我自己打的」會被擋下。
+    - [x] 選擇「整篇轉傳」後會詢問是否要送出訊息。
+    - [x] 不同意送出訊息後可以收到感謝。
+    - [x] 同意送出訊息後就會送出訊息，並得到：
+        - [x] Cofacts article page 按鈕
+        - [x] 寫理由的按鈕
+        - [x] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
+        - [x] 「分享到 Facebook」、「分享到 LINE」且可以正常運作
+    - [x] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
+    - [x] 可以再打開理由視窗，此時會載入上次填寫的理由。修改理由送出後，查看 article page 看理由是否有被送出。
 
-- [ ] 送出「沒回應」的舊訊息，應可送出新理由
-    - [ ] 文章的「N 人回報」應該仍然要 + 1（除非測試者已經針對該篇送過 reply request）。
-    - [ ] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
-    - [ ] 可以修改理由送出。查看 article page 看理由是否有被送出。
-    - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
+- [x] 送出「沒回應」的舊訊息，應可送出新理由
+    - [x] 文章的「N 人回報」應該仍然要 + 1（除非測試者已經針對該篇送過 reply request）。
+    - [x] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
+    - [x] 可以修改理由送出。查看 article page 看理由是否有被送出。
+    - [x] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
 
-- [ ] 送出「有回應」的舊訊息，應自動回傳回應
-    - [ ] 應列出訊息所有的回應
-    - [ ] 選擇回應之後可以幫回應 upvote
-    - [ ] 可以再次選擇 downvote
-    - [ ] 選完回應之後，還可以捲回去選其他回應
-    - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
+- [x] 送出「有回應」的舊訊息，應自動回傳回應
+    - [x] 應列出訊息所有的回應
+    - [x] 選擇回應之後可以幫回應 upvote
+    - [x] 可以再次選擇 downvote
+    - [x] 選完回應之後，還可以捲回去選其他回應
+    - [x] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
 
-- [ ] Rich menu 測試
-    - [ ] 「設定」更改後再次打開，應該會保留原本設定
-    - [ ] 「教學」可以觸發教學流程
+- [x] Rich menu 測試
+    - [x] 「設定」更改後再次打開，應該會保留原本設定
+    - [x] 「教學」可以觸發教學流程
 
 ##### ⛔️ Release Blockers
 ##### 未竟項目
@@ -76,56 +76,32 @@ https://lin.ee/1QUzEX4nI
 ##### Testing checklist
 http://dev.cofacts.tw/
 
-**未登入**下檢測：
-
-- [ ] Article list
-  - [ ] Filter works
-  - [ ] Sorting works
-  - [ ] Can go to article page
-- [ ] Replies list
-  - [ ] Filter works
-    - [ ] 不允許選擇 Replied by me
-  - [ ] Sorting works
-  - [ ] Can go to article page
-  - [ ] 不允許 upvote / downvote replies
-  - [ ] Can see vote reasons
-- [ ] Hoax for you
-  - [ ] Filter works
-  - [ ] Can go to article page
-- [ ] Article detail
-  - [ ] Can see similar messages
-  - [ ] Cannot submit, upvote, downvote reply request
-  - [ ] Cannot submit, upvote, downvote reply
-  - [ ] Cannot add, remove, upvote, downvote category
-- [ ] Search
-  - [ ] Can use global search to perform search
-  - [ ] Can use textarea in header to perform searchs
-     - Known issue: firefox 無法
-  - [ ] Can list searched articles
-    - [ ] Filter works
-    - [ ] Can go to article page
-  - [ ] Can list searched replies
 
 登入自有帳號後檢測：
-- [ ] Replies search page
-  - [ ] can upvote / downvote replies
-- [ ] Replies list
-  - [ ] 可選擇 Replied by me
-  - [ ] can upvote / downvote replies
-- [ ] Article detail
-  - [ ] Can submit, upvote, downvote reply request
-  - [ ] Can submit, remove own reply
-  - [ ] Can upvote, downvote other's article reply
-  - [ ] Can add, remove, upvote, downvote category
-- [ ] Can go to profile page on menu
-    - [ ] Can edit own name, bio, URL
-    - [ ] Can see own replies
-- [ ] Can logout
+- [x] Replies search page
+  - [x] can upvote / downvote replies
+- [x] Replies list
+  - [x] 可選擇 Replied by me
+  - [x] can upvote / downvote replies
+- [x] Article detail
+  - [x] Can submit, upvote, downvote reply request
+  - [x] Can submit, remove own reply
+  - [x] Can upvote, downvote other's article reply
+  - [x] Can add, remove, upvote, downvote category
+- [x] Can go to profile page on menu
+    - [x] Can edit own name, bio, URL
+    - [x] Can see own replies
+- [x] Can logout
 
 ##### ⛔️ Release Blockers
+No
 
 ##### 未竟項目
+No
 
+:::success
+找個深夜 release
+:::
 
 ### :eye: Under review
 
@@ -136,7 +112,12 @@ http://dev.cofacts.tw/
 - 整袋忘記帶 orz
   - 標語：立刻印了
   - 黏土：有存一些 (?)
-  - 網路：那天人不多，布卡
+  - 網路：那天人不多，不卡
+- 記者寫「我要查核闢謠」時，99 則回應 = 0 則回應
+  :::info
+  開票
+  沒有類似訊息的 0 = 99  
+  :::
 
 ## Open165
 - cronjob 壞掉 https://github.com/Open165/site/issues/33
@@ -179,5 +160,19 @@ http://dev.cofacts.tw/
 > 這個設計未來在自動 spam 移除計畫原訂的 pubsub（phase 1）自動指令執行（phase 2）完成後應該可以無痛接軌，變成任何能 merge PR 的人按下 merge 之後都能觸發 spam removal，擴大 spam 處理量能。
 >
 > [name=mrorz]
+
+- article 丟進 GPT [name=nonumpa]
+  - 很難控制說只回 true / false
+  - OpenAI structured output or Gemini function calling [name=mrorz]
+  - [few-shot prompting](https://www.promptingguide.ai/techniques/fewshot), 但就是 prompt 很多 [name=mrorz]
+- 想先串起來，之後再弄 prompt
+- PR：一個違規使用者開一個 PR [name=mrorz]
+  - 開 PR 之前檢查，開過的不要再開，close 掉的也不要再開（可能不是 spam 被我們 close 掉）[name=mrorz]
+
+## Langfuse
+
+- 可以觀察 prompt
+- Langfuse 架在 staging [name=mrorz]
+- 想要把 LLM feedback 直接用 Langfuse 做，但就是 rumors-api 要打 langfuse API 拿到 vote，不確定增加這個 dependency 有沒有比較好
 
 
