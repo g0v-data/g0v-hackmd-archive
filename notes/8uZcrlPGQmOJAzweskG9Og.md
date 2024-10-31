@@ -181,6 +181,10 @@ How to create AI street transformations
 步驟教學文件：https://docs.google.com/document/d/1a0tbTewG9JpfIOwRn-IiiPd3Zg-svyXUYeGieOcaLAI/edit
 洛杉磯河圖片案例來源 ：https://x.com/betterstreetsai/status/1661844363859701760
 
+### Adobe Photoshop 
+
+https://www.facebook.com/share/r/1CRLw3PvHQ/
+
 ### Leonardo 
 
 https://vocus.cc/article/6571751dfd89780001fdb51d
