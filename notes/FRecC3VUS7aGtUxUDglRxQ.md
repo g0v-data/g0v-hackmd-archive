@@ -171,8 +171,10 @@ No
 
 ## Langfuse
 
-- 可以觀察 prompt
-- Langfuse 架在 staging [name=mrorz]
+> [name=mrorz]
+
+- 可以觀察 prompt 的效果
+- Langfuse 架在 staging
 - 想要把 LLM feedback 直接用 Langfuse 做，但就是 rumors-api 要打 langfuse API 拿到 vote，不確定增加這個 dependency 有沒有比較好
 
 
