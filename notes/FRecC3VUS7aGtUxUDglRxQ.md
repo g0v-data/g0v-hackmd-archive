@@ -10,6 +10,7 @@ GA: UA-98468513-3
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
 - 線上出席：
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
+- 今天風災影響會稍微晚點
 :::
 
 ## :potable_water: Release pipeline
