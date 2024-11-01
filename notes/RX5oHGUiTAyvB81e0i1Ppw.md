@@ -1,0 +1,2 @@
+Progress Save Feature
+With the new save feature on run3.app, you’ll never lose your progress in [Run3](https://run3.app/) . This addition allows you to save and pick up right where you left off, making it easy to continue your adventure. It’s especially helpful for those intense, longer runs or challenging levels you want to conquer over multiple sessions. The save feature gives players more flexibility and a stress-free experience, ensuring you can enjoy every level at your own pace without starting from scratch each time. [run3.app](https://run3.app/
