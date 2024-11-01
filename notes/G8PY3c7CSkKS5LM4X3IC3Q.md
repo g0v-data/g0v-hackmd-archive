@@ -6,6 +6,9 @@ Email: xoilacm@gmail.com
 Website:
 <a href="https://xoilacm.cc/">https://xoilacm.cc/</a>
 #xoilac #xoilac_tv #xoilactv #xoilactructiepbongda
+Maps:
+<a href="https://maps.app.goo.gl/M98wMfLFcWaN1t5KA">https://maps.app.goo.gl/M98wMfLFcWaN1t5KA</a>
+Social:
 <a href="https://www.facebook.com/xoilacm/">https://www.facebook.com/xoilacm/</a>
 <a href="https://twitter.com/xoilacm">https://twitter.com/xoilacm</a>
 <a href="https://www.youtube.com/@xoilacm">https://www.youtube.com/@xoilacm</a>
@@ -44,19 +47,19 @@ Website:
 <a href="https://sketchfab.com/xoilacm">https://sketchfab.com/xoilacm</a>
 <a href="https://www.reverbnation.com/artist/xoilacm">https://www.reverbnation.com/artist/xoilacm</a>
 <a href="https://connect.garmin.com/modern/profile/c7a21921-f34b-4f95-8641-2c28dbf1ff3c">https://connect.garmin.com/modern/profile/c7a21921-f34b-4f95-8641-2c28dbf1ff3c</a>
-<a href="http://resurrection.bungie.org/forum/index.pl?profile=xoilacm">http://resurrection.bungie.org/forum/index.pl?profile=xoilacm</a>
+<a href="http://resurrection.bungie.org/forum/index.pl?profile=xoilacmcc">http://resurrection.bungie.org/forum/index.pl?profile=xoilacmcc</a>
 <a href="https://public.tableau.com/app/profile/xoilac.tv7451/vizzes">https://public.tableau.com/app/profile/xoilac.tv7451/vizzes</a>
 <a href="https://tvchrist.ning.com/profile/XoilacTV453">https://tvchrist.ning.com/profile/XoilacTV453</a>
 <a href="https://cdn.muvizu.com/Profile/xoilacm/Latest">https://cdn.muvizu.com/Profile/xoilacm/Latest</a>
 <a href="https://flipboard.com/@xoilacm/">https://flipboard.com/@xoilacm/</a>
 <a href="https://heylink.me/xoilacm/">https://heylink.me/xoilacm/</a>
-<a href="https://jsfiddle.net/xoilacm/kazft051/">https://jsfiddle.net/xoilacm/kazft051/</a>
+<a href="https://jsfiddle.net/xoilacm/hbnL62jt/1/">https://jsfiddle.net/xoilacm/hbnL62jt/1/</a>
 <a href="https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/833330">https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/833330</a>
 <a href="https://www.walkscore.com/people/110654055836/xoilac-tv">https://www.walkscore.com/people/110654055836/xoilac-tv</a>
 <a href="https://forum.melanoma.org/user/xoilacm/profile/">https://forum.melanoma.org/user/xoilacm/profile/</a>
 <a href="https://hackerone.com/xoilacm?type=user">https://hackerone.com/xoilacm?type=user</a>
 <a href="https://www.diigo.com/user/xoilacm">https://www.diigo.com/user/xoilacm</a>
-<a href="https://telegra.ph/Xoilac-TV-10-31">https://telegra.ph/Xoilac-TV-10-31</a>
+<a href="https://telegra.ph/Xoilac-TV-11-01">https://telegra.ph/Xoilac-TV-11-01</a>
 <a href="https://wakelet.com/@xoilacm">https://wakelet.com/@xoilacm</a>
 <a href="https://forum.acronis.com/it/user/746672">https://forum.acronis.com/it/user/746672</a>
 <a href="https://dreevoo.com/profile_info.php?pid=703561">https://dreevoo.com/profile_info.php?pid=703561</a>
@@ -67,7 +70,7 @@ Website:
 <a href="https://beacons.ai/xoilacm">https://beacons.ai/xoilacm</a>
 <a href="http://xoilacm.minitokyo.net/">http://xoilacm.minitokyo.net/</a>
 <a href="https://s.id/xoilacm">https://s.id/xoilacm</a>
-<a href="https://writexo.com/share/h7d2ob3n">https://writexo.com/share/h7d2ob3n</a>
+<a href="https://writexo.com/share/b2y47shy">https://writexo.com/share/b2y47shy</a>
 <a href="https://pbase.com/xoilacm">https://pbase.com/xoilacm</a>
 <a href="https://myanimelist.net/profile/xoilacm">https://myanimelist.net/profile/xoilacm</a>
 <a href="https://www.mindmeister.com/app/map/3494852945?t=mlVG1UjH22">https://www.mindmeister.com/app/map/3494852945?t=mlVG1UjH22</a>
@@ -160,7 +163,7 @@ Website:
 <a href="https://www.speedrun.com/users/xoilacm">https://www.speedrun.com/users/xoilacm</a>
 <a href="https://www.longisland.com/profile/xoilacm">https://www.longisland.com/profile/xoilacm</a>
 <a href="https://photoclub.canadiangeographic.ca/profile/21409804">https://photoclub.canadiangeographic.ca/profile/21409804</a>
-<a href="https://pastelink.net/n9p25t2m">https://pastelink.net/n9p25t2m</a>
+<a href="https://pastelink.net/79dgo433">https://pastelink.net/79dgo433</a>
 <a href="https://www.mountainproject.com/user/201944731/xoilac-tv">https://www.mountainproject.com/user/201944731/xoilac-tv</a>
 <a href="https://www.storeboard.com/xoilactv174">https://www.storeboard.com/xoilactv174</a>
 <a href="https://www.gta5-mods.com/users/xoilacm">https://www.gta5-mods.com/users/xoilacm</a>
@@ -206,7 +209,7 @@ Website:
 <a href="https://www.facer.io/u/xoilacm">https://www.facer.io/u/xoilacm</a>
 <a href="https://zumvu.com/xoilacm/">https://zumvu.com/xoilacm/</a>
 <a href="http://molbiol.ru/forums/index.php?showuser=1397104">http://molbiol.ru/forums/index.php?showuser=1397104</a>
-<a href="https://tuvan.bestmua.vn/dwqa-question/xoilac-tv-truc-tiep-bong-da-xoi-lac-tv-khong-quang-cao">https://tuvan.bestmua.vn/dwqa-question/xoilac-tv-truc-tiep-bong-da-xoi-lac-tv-khong-quang-cao</a>
+<a href="https://tuvan.bestmua.vn/dwqa-question/xoilac-tv-truc-tiep-bong-da-xoi-lac-tv-khong-quang-cao-2">https://tuvan.bestmua.vn/dwqa-question/xoilac-tv-truc-tiep-bong-da-xoi-lac-tv-khong-quang-cao-2</a>
 <a href="https://glose.com/u/xoilacm">https://glose.com/u/xoilacm</a>
 <a href="https://www.dibiz.com/minhphuc31082000">https://www.dibiz.com/minhphuc31082000</a>
 <a href="https://able2know.org/user/xoilacm/">https://able2know.org/user/xoilacm/</a>
@@ -229,13 +232,13 @@ Website:
 <a href="https://www.checkli.com/xoilacm">https://www.checkli.com/xoilacm</a>
 <a href="https://myapple.pl/users/476403-xoilac-tv">https://myapple.pl/users/476403-xoilac-tv</a>
 <a href="https://www.inventoridigiochi.it/membri/xoilacm/profile/">https://www.inventoridigiochi.it/membri/xoilacm/profile/</a>
-<a href="https://zb3.org/5fcqzhudk9">https://zb3.org/5fcqzhudk9</a>
+<a href="https://zb3.org/xoilacm/">https://zb3.org/xoilacm/</a>
 <a href="https://nhattao.com/members/user6616653.6616653/">https://nhattao.com/members/user6616653.6616653/</a>
 <a href="https://www.equinenow.com/farm/xoilac-tv-1167259.htm">https://www.equinenow.com/farm/xoilac-tv-1167259.htm</a>
 <a href="https://www.rctech.net/forum/members/xoilacm-414440.html">https://www.rctech.net/forum/members/xoilacm-414440.html</a>
 <a href="https://www.huntingnet.com/forum/members/xoilacm.html">https://www.huntingnet.com/forum/members/xoilacm.html</a>
 <a href="https://www.rcuniverse.com/forum/members/xoilacm.html">https://www.rcuniverse.com/forum/members/xoilacm.html</a>
-<a href="https://www.businesslistings.net.au/Xoilac_TV/Ho_Chi_Minh/Xoilac_TV/1060965.aspx">https://www.businesslistings.net.au/Xoilac_TV/Ho_Chi_Minh/Xoilac_TV/1060965.aspx</a>
+<a href="https://www.businesslistings.net.au/Xoilac_TV/Ho_Chi_Minh/Xoilac_TV/1061083.aspx">https://www.businesslistings.net.au/Xoilac_TV/Ho_Chi_Minh/Xoilac_TV/1061083.aspx</a>
 <a href="https://www.gamblingtherapy.org/forum/users/xoilacm/">https://www.gamblingtherapy.org/forum/users/xoilacm/</a>
 <a href="https://justpaste.it/u/xoilacm">https://justpaste.it/u/xoilacm</a>
 <a href="https://demo.wowonder.com/xoilacm">https://demo.wowonder.com/xoilacm</a>
@@ -322,13 +325,3 @@ Website:
 <a href="https://www.fitundgesund.at/profil/xoilacm">https://www.fitundgesund.at/profil/xoilacm</a>
 <a href="http://www.biblesupport.com/user/610401-xoilacm/">http://www.biblesupport.com/user/610401-xoilacm/</a>
 <a href="https://meetup.furryfederation.com/events/376ea916-69b8-4a3e-98c3-5d93051d00c5">https://meetup.furryfederation.com/events/376ea916-69b8-4a3e-98c3-5d93051d00c5</a>
-<a href="https://nmpeoplesrepublick.com/community/profile/xoilacm/">https://nmpeoplesrepublick.com/community/profile/xoilacm/</a>
-<a href="https://findaspring.org/members/xoilacm/">https://findaspring.org/members/xoilacm/</a>
-<a href="https://ingmac.ru/forum/?PAGE_NAME=profile_view&UID=61617">https://ingmac.ru/forum/?PAGE_NAME=profile_view&UID=61617</a>
-<a href="http://l-avt.ru/support/dialog/?PAGE_NAME=profile_view&UID=81108">http://l-avt.ru/support/dialog/?PAGE_NAME=profile_view&UID=81108</a>
-<a href="https://www.imagekind.com/MemberProfile.aspx?MID=351b4ced-47b4-499e-8a68-90dbfc86a0e4">https://www.imagekind.com/MemberProfile.aspx?MID=351b4ced-47b4-499e-8a68-90dbfc86a0e4</a>
-<a href="https://chothai24h.com/members/17096-xoilacm.html">https://chothai24h.com/members/17096-xoilacm.html</a>
-<a href="https://storyweaver.org.in/en/users/1016930">https://storyweaver.org.in/en/users/1016930</a>
-<a href="https://www.outlived.co.uk/author/xoilacm/">https://www.outlived.co.uk/author/xoilacm/</a>
-<a href=""></a>
-<a href="https://linkmix.co/30349781">https://linkmix.co/30349781</a>
