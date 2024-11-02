@@ -47,6 +47,20 @@ Ana = asks Vee questions, learns about AI
  
   
   
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 
 
