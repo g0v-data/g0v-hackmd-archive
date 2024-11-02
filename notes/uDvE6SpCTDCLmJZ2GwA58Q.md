@@ -87,14 +87,13 @@ tags: 新生流域
     - 1940 台北市公車路線圖 https://www.facebook.com/share/aUeANjUcrTVifzGx/
         - 公車照片 https://www.facebook.com/share/p/ubpFZ5weChXnGQ2t/
     - 1932 照片鳥瞰 臺灣神社 https://www.facebook.com/share/p/B8tYT1UVD3u4z5sn/
-    - 照片 https://www.facebook.com/share/p/6MDNVrM36K6KhbuM/
-    - 照片 https://www.facebook.com/share/p/ivdDxFZRiP231DZL/
+    - 照片，駐台美軍William Eggert 的C-130運輸機從松山機場往西起飛後到達現在花博公園美術園區(即天橋東邊)時由駕駛艙左側向東南方拍攝的。當時新生北路高架橋還沒建。照片內有德惠街雙城街口
+        - https://www.facebook.com/share/p/ivdDxFZRiP231DZL/
     - 照片 建國啤酒廠 https://www.facebook.com/share/rooSpYXJMWnnLBf8/
     - 重要 1948 大安橋 https://www.facebook.com/share/p/UX1KRHgiGQinhk3x/
     - 1959 復旦橋，敦化南北路與鐵路
         - https://www.facebook.com/share/p/ccUvBFhRaRHkJ3sq/
         - https://www.facebook.com/DigiSideEff/posts/pfbid08GY8QU7faTuxRf993LXTz4ybxRE7L8DozbRDXvS2z7BNCE3VcCxFWnF1h7CCKMgel
-    - 重要 照片 1.本物件為松江路空軍新生社附近拓築工程施工前照，畫面為土石路面，房屋跟電線杆也無規劃的座落在路面上，路上有些人走動及騎腳踏車。 2.空軍新生社所在地位於今臺北市八德路與新生南路口。日治時期此處為「植物米穀檢查所」，為植物檢查所和米穀檢查所這兩個單位的聯合辦公廳舍，是一棟鋼筋混凝土造的二層樓建築，於1937年竣工。戰後改為空軍新生社，在1950年到70年代是個非常亮麗的場所，空軍廣播電臺就在該地，裡面有非常著名的江浙餐廳，也是空軍官員住宿的旅館 https://www.facebook.com/share/p/y96MUAd9Vhh43hoK/
     - 重要 照片 1950 新生大排 仁愛路口附近 https://www.facebook.com/photo.php?fbid=2375408632496687&vanity=FormosaMuseum&slug=a.129976463706593
     - 重要 照片 1960 新生大排 https://www.facebook.com/FormosaMuseum/photos/a.129976463706593/4722026494501544/?type=3&locale=hi_IN
     - 重要 照片 1963 新生大排 https://memory.culture.tw/Home/Detail?Id=572348&IndexCode=online_metadata

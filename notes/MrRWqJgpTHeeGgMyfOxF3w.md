@@ -6,7 +6,8 @@ tags: 新生流域
 
 :::warning
 📄 定期將內容整理成簡報，方便應用
-https://docs.google.com/presentation/d/1kxHp8RYvB-xcQe0RjKKeWbi3vWuoanQLto1zVfYXkYg/edit
+- https://docs.google.com/presentation/d/1kxHp8RYvB-xcQe0RjKKeWbi3vWuoanQLto1zVfYXkYg/edit
+- [紙本填寫單印製檔案](https://docs.google.com/presentation/d/1_-AGteAM9LKeFlR-zql_G8dmZAAYCagPChgaGkSzeI0/edit?usp=sharing)
 :::
 
 另開網頁，看文件細節
