@@ -40,6 +40,14 @@ CPU Scheduling 是一個在作業系統中至關重要的功能，通過不同�
 指的是進程在執行 I/O 操作（如讀寫硬碟、傳輸數據、等待用戶輸入等）所經歷的時間段。在此期間，進程會停止使用 CPU，等待 I/O 操作完成。
 I/O 密集型任務（如文件讀寫、大量數據傳輸等）往往會有較長的 I/O burst。
 進程的執行通常是一系列的 CPU Burst 和 I/O Burst 交替進行的循環。例如，進程可能先進行一段 CPU 計算（CPU burst），接著等待數據輸入或輸出（I/O burst），完成後再進行下一段 CPU 計算，如此反覆進行。
+
+Basic Concepts
+- **透過多工處理獲得最大的CPU使用率**
+- **CPU–I/O突發週期**：程序的執行由CPU執行和I/O等待交替組成的週期
+   - CPU突發後接著I/O突發
+   - CPU突發的分佈是主要關注的重點
+  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_184b5dd48d3dd07102c634d6593df386.PNG)
+
 Histogram of CPU-burst Times
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7cffa13751f5aeef2f9581f271b7f8d9.PNG)
 **CPU 排程器**
@@ -353,4 +361,94 @@ Evaluation of CPU Schedulers by Simulation
    - 升級程序的判斷方法
    - 降級程序的判斷方法
    - 判斷程序在需要服務時將進入哪個佇列的方法
+多級回饋佇列的範例
+
+ 三個佇列：
+   - Q0 – 使用輪轉法（RR），時間量為8毫秒
+   - Q1 – 使用輪轉法（RR），時間量為16毫秒
+   - Q2 – 使用先到先服務（FCFS）
+
+ 排程流程：
+   - 新的作業進入佇列Q0，並以先到先服務（FCFS）方式處理
+      - 當作業獲得CPU時，將獲得8毫秒的執行時間
+      - 如果在8毫秒內未完成，則將作業移至佇列Q1
+
+   - 在Q1中，作業再次以先到先服務（FCFS）方式處理，並獲得額外的16毫秒執行時間
+      - 如果仍然未完成，則被搶佔並移至佇列Q2
+執行緒排程
+
+ 使用者層級執行緒和核心層級執行緒之間的區別
+ 要在CPU上運行，使用者層級的執行緒最終必須映射到相關的核心層級執行緒，雖然這種映射可能是間接的，並且可能使用輕量級程序（LWP, Light Weight Process）
+ 在多對一和多對多模型中，執行緒庫將使用者層級執行緒排程到LWP上運行
+ 這種排程被稱為進程爭用範疇（PCS, Process-Contention Scope），因為排程競爭發生在同一個進程內
+   - 通常由程式設置的優先級來完成
+ 核心層級執行緒被排程到可用的CPU上則屬於系統爭用範疇（SCS, System-Contention Scope）—此時所有執行緒在整個系統中競爭
+Pthread 排程
+
+ API允許在創建執行緒時指定使用PCS或SCS
+ `PTHREAD_SCOPE_PROCESS` 使用PCS排程執行緒
+ `PTHREAD_SCOPE_SYSTEM` 使用SCS排程執行緒
+ 可能會受操作系統限制——Linux和Mac OS X只允許`PTHREAD_SCOPE_SYSTEM`
+Pthread Scheduling API
+#include <pthread.h> 
+#include <stdio.h> 
+
+#define NUM_THREADS 5 
+
+int main(int argc, char *argv[]) { 
+    int i, scope;
+    pthread_t tid[NUM_THREADS]; 
+    pthread_attr_t attr; 
+
+    /* get the default attributes */ 
+    pthread_attr_init(&attr); 
+
+    /* first inquire on the current scope */
+    if (pthread_attr_getscope(&attr, &scope) != 0) 
+        fprintf(stderr, "Unable to get scheduling scope\n"); 
+    else { 
+        if (scope == PTHREAD_SCOPE_PROCESS) 
+            printf("PTHREAD_SCOPE_PROCESS\n"); 
+        else if (scope == PTHREAD_SCOPE_SYSTEM) 
+            printf("PTHREAD_SCOPE_SYSTEM\n"); 
+        else
+            fprintf(stderr, "Illegal scope value.\n"); 
+    }
+
+    /* Optional: Create threads */
+    for (i = 0; i < NUM_THREADS; i++) {
+        pthread_create(&tid[i], &attr, /* thread function */, NULL);
+    }
+
+    /* Destroy the attribute object */
+    pthread_attr_destroy(&attr);
+
+    /* Optional: Join threads */
+    for (i = 0; i < NUM_THREADS; i++) {
+        pthread_join(tid[i], NULL);
+    }
+
+    return 0; 
+}
+Multiple-Processor Scheduling
+當多個CPU可用時，CPU排程變得更加複雜
+
+ 在多處理器中，處理器為同質（相同的）處理器
+ 非對稱多處理（AMP, Asymmetric Multiprocessing）– 只有一個處理器訪問系統數據結構，減少了數據共享的需求
+ 對稱多處理（SMP, Symmetric Multiprocessing）– 每個處理器自我排程，所有進程在一個公共就緒佇列中，或者每個處理器有自己私有的就緒進程佇列
+   - 目前最為常見
+ 處理器親和性 – 進程對其當前運行的處理器具有親和性
+   - 軟性親和性（soft affinity）
+   - 硬性親和性（hard affinity）
+ 包括處理器集合在內的變體
+NUMA and CPU Scheduling
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a65566f61ceb6051045493d5f8149b8a.PNG)
+Multicore Processors
+近期趨勢是將多個處理器核心置於同一個實體晶片上
+
+ 更快且消耗更少的電力
+ 每個核心上的多執行緒技術也在增長
+ 利用記憶體停滯的時間，在等待記憶體檢索時繼續處理其他執行緒
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_041d7d7a53005075912121e8fb8c6c4f.PNG)
+
 第五章有些內容必須要去看影片補充
