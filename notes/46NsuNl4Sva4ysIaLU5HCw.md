@@ -76,4 +76,13 @@ tags: vTaiwan
 - 可以嘗試的方向：
     - 蹲在一個地方討論
 - 文獻：[Facilitators as culture change workers: advancing public participation and deliberation in local governance](https://www.tandfonline.com/doi/full/10.1080/03003930.2023.2190586)
-    - 
+    - facilitator 原來的意思是讓大家更易於做事情
+    - 除了主持對話空間外，更重要的是做讓大家更容易參與的政治工作
+- 大南科案例：創造以區域為單位，進行空汙合併模擬評估。
+    - 成功動員民間力量，並且利用公務體系的公務員撐出的空間，進行公私協力
+- 教訓：這些東西是磨出來的。
+- 如何找到一個方式，縫補起來
+### 問題
+- 為何不使用公投或者是公聽會等既有的方式？
+    - 其他國家（美國、歐洲、澳洲、香港）也都有相關案例
+    - 如何找到技術與資源，
