@@ -326,4 +326,31 @@ Turnaround Time Varies With The Time Quantum
 - 但環境差異仍然存在。
 Evaluation of CPU Schedulers by Simulation
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fd1f596c09212822f76febc12725e1d4.jpg)
+多級佇列
+
+ 將就緒佇列劃分為不同的佇列，例如：
+   - 前景（互動式）
+   - 背景（批次處理）
+
+ 每個程序永久屬於一個特定的佇列
+
+ 每個佇列都有自己的排程算法：
+   - 前景佇列使用RR（輪轉法）
+   - 背景佇列使用FCFS（先到先服務）
+
+ 需要在各佇列之間進行排程：
+   - 固定優先級排程（例如：先處理所有前景佇列，再處理背景佇列），但可能會導致飢餓問題。
+   - 時間片分配——每個佇列獲得一定的CPU時間，並在其內部進行排程；例如，分配80%給前景佇列，使用RR排程
+   - 分配20%給背景佇列，使用FCFS排程
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_42ca9f290a7fec688b5fcaae21f02711.PNG)
+多級回饋佇列
+
+ 一個程序可以在不同的佇列間移動；可以通過這種方式實現老化機制
+ 多級回饋佇列排程器的定義參數如下：
+
+   - 佇列的數量
+   - 每個佇列的排程算法
+   - 升級程序的判斷方法
+   - 降級程序的判斷方法
+   - 判斷程序在需要服務時將進入哪個佇列的方法
 第五章有些內容必須要去看影片補充
