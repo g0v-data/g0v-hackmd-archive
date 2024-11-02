@@ -96,16 +96,12 @@ tags: 新生流域
         - https://www.facebook.com/DigiSideEff/posts/pfbid08GY8QU7faTuxRf993LXTz4ybxRE7L8DozbRDXvS2z7BNCE3VcCxFWnF1h7CCKMgel
     - 重要 照片 1950 新生大排 仁愛路口附近 https://www.facebook.com/photo.php?fbid=2375408632496687&vanity=FormosaMuseum&slug=a.129976463706593
     - 重要 照片 1960 新生大排 https://www.facebook.com/FormosaMuseum/photos/a.129976463706593/4722026494501544/?type=3&locale=hi_IN
-    - 重要 照片 1963 新生大排 https://memory.culture.tw/Home/Detail?Id=572348&IndexCode=online_metadata
-    - 照片 新生大排 https://www.facebook.com/share/p/QLq2XpSUtU5hbZ8P/?mibextid=K35XfP
-    - 重要 照片 新生南路加蓋 https://memory.culture.tw/Home/Detail?Id=548886&IndexCode=online_metadata
     - 重要 照片 1965 安東街 霧裡薛圳 https://www.facebook.com/share/p/VTK2pBgvATxZ48Ck/
     - 照片 1964 敦化路 建築 https://www.facebook.com/share/p/dwAfRfRg5Wn3a3Fb/
     - 聖家堂 歷史 http://cl-design.com.tw/CL/image/web/catholic_web/about/brief_if.html
     - 照片 懷恩堂 https://memory.culture.tw/Home/Detail?Id=631088&IndexCode=online_metadata
     - 影片 56:46 段落，提到 北科大校門歷年移動，與大排有關 https://youtu.be/fyXjkOdDHUQ
     - 影片 01：05:29 有北科大校門水路照片 https://youtu.be/fyXjkOdDHUQ
-    - 影片 06:05 有北科大北側水路，特一號大排尚未興建 https://youtu.be/0tK0gkDIi54
     - 影片 01:55 台大鳥瞰https://youtu.be/fyXjkOdDHUQ
     - 照片 1953 新生國小前身三軍托兒所 https://www.facebook.com/share/whuZH4rg437vDpuk/
     - 重要 照片 1956 新生南路三段,海源冰店 便橋 https://m.mobile01.com/topicdetail.php?f=37&t=5053330
@@ -123,12 +119,10 @@ tags: 新生流域
     - 1959 空拍影片，有明顯的鐵道鐵軌 https://youtu.be/9i9Nr1WFmh4?si=6FC3bMSxs0eeAAp0&t=796
     - 基隆河圓山老照片 https://www.facebook.com/photo.php?fbid=255167153547365&set=a.186238740440207&type=3&mibextid=cr9u03
     - 照片 圓山站 https://www.facebook.com/share/p/j6MGKUv8YYS8HQ9u/
-    - 重要，照片，戰後1975年的台北市新生北路-公務員掃除髒亂活動 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577638452661/
-    - 照片 新生南京 附近，已有定位，此為 上色版本 https://www.facebook.com/share/fV484CbQSrRcRwDS/
+    - 重要，照片，戰後1975年的台北市新生北路(?)-公務員掃除髒亂活動，待確認地點位置，要對照斷面構造圖 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577638452661/
     - 照片 復興南路 安東街 https://www.facebook.com/share/p/BoA4deXgJfRvyX8w/
-    - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577631785995/
-    - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577645119327/
-    - 照片 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577645119327/
+    - 照片，有看到水閘門設施 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577631785995/
+    - 照片，汽車掉到大排內 https://www.facebook.com/Taiwan.River/photos/a.138998824543876/166577645119327/
     - 照片 光華橋 https://memory.culture.tw/Home/Detail?Id=2270370&IndexCode=online_metadata
     - 1966 台大保健中心 https://www.facebook.com/share/p/uGFcbTjikvFMbyUd/
     - 重要，1968 南京新生路口，照片 https://www.facebook.com/104339821634619/posts/pfbid02WJy6KE9khYPRbEzAdVZEwVHKdJhd8gHnmUWsVebJHU922x3jSrVSZ1A3sWge1QPHl/?mibextid=cr9u03
@@ -142,8 +136,6 @@ tags: 新生流域
     - 重要 照片，冰店與新生大排便橋，新生南路三段42號 
         - https://www.facebook.com/193313627448659/posts/pfbid02ZRijs3x5TmB4iEM83kRuG8NBRtjkXCXMD21Q6ju2p9BKRUaAxpNZxJTRvHTeQL8pl/
         - https://www.facebook.com/193313627448659/posts/pfbid02ZRijs3x5TmB4iEM83kRuG8NBRtjkXCXMD21Q6ju2p9BKRUaAxpNZxJTRvHTeQL8pl/?mibextid=cr9u03
-    - 19 南京新生 https://www.facebook.com/groups/1464346490494897/permalink/3172352329694296/?comment_id=3172415869687942&mibextid=S66gvF
-        - 留言串也有一張，建物與大排溝渠
     - 新生南路 廢棄電玩設備 https://memory.culture.tw/Home/Detail?Id=2272045&IndexCode=online_metadata
     - 中山女中 歷史 https://www.facebook.com/photo.php?fbid=914165563834754&set=a.530768725507775&type=3
     - 建國啤酒廠 歷史 https://youtu.be/_KhvJxQRXMg?si=S1wL3G0trCIlp6tQ
@@ -167,7 +159,6 @@ tags: 新生流域
         - https://www.wra10.gov.tw/cl.aspx?n=33600#lg=1&slide=20
     - 民權東路雙城街附近 https://www.facebook.com/groups/2840746989582243/permalink/3559003084423293/?comment_id=3559028367754098&reply_comment_id=3561050130885255&mibextid=S66gvF
     - 2009 新生高架橋修繕與通車 https://youtu.be/GHbVQPuPM3o
-    - 大同高中與長春國小交界設立水圳解說https://www.facebook.com/share/p/dUWN9ipNkRbQsF7c/
     - 圓山保齡球館 https://www.facebook.com/story.php?story_fbid=pfbid0KpH3ackA2iep9ZGL8moDwnRTWPx7RgTymnpkrXLGv8sTk8PMQ4YhT9kp4SGavS8Bl&id=747873617&mibextid=qC1gEa
     - 待確認 影片中 7:21 是否為新生北路地區 https://youtu.be/ok5qC4lQfNI
     - 線上地圖中，已有先標記出需要查找興建年份的建物 
@@ -185,7 +176,6 @@ tags: 新生流域
     - 影片 02:31:44 殷海光故居庭院水路 https://youtu.be/fyXjkOdDHUQ
     - 台大明達館附近的 1936 民宅照片 https://www.flickr.com/photos/ntuhistorygallery/2577465266/in/album-72157605606822637/
     - 濟南路，楊德昌故居 https://www.facebook.com/share/p/oXyAQfcL4JZCEUaP/
-    - 近期行動，北科大北側 https://www.facebook.com/groups/582154450196478/permalink/867944994950754/
     - 嘉興街403巷 
         - 照片地點位置推測https://maps.app.goo.gl/8xLW459sgMskiELG7
         - https://www.facebook.com/groups/582154450196478/posts/919837806428139/
