@@ -1,5 +1,6 @@
 # 朴希範
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9bd69aa06be5fa16cec52e955bbadcad.jpg)轉蛋/兔兔
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a88c0ea59d7447efbb32c16fa6e3d7fa.jpg)
+
 ## 基本資料
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_466f08d52653e2e62c692425f9a8e5f7.jpg)自繪
 
@@ -17,6 +18,7 @@
 * 臉上常帶笑，朋友大多認為他是溫柔的人，但其實他對很多事都是抱持著冷漠的態度與悲觀的想法。
 * 家裡有養兩隻貓，一隻叫達達，是布偶混曼赤肯；一隻叫琦琦，是美短。
 ## 服裝與配飾
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9bd69aa06be5fa16cec52e955bbadcad.jpg)轉蛋/兔兔(MK)
 > 日常1
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_27d8034c695a3aa08381746becff8de2.jpg)自繪
 
