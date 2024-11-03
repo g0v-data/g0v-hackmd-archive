@@ -275,7 +275,7 @@ A video thumbnail enables the viewer to get an overview of your video right away
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7f89613a9f05fff249fc566b7ec32210.gif)
 Source: Google.com
 
-If using Andriod, open the [YouTube Studio](https://studio.youtube.com/) app. Tap Content in the bottom menu. Choose a video to edit >> Tap the Edit icon >> Edit thumbnail. Choose an auto-generated thumbnail or tap Custom thumbnail to upload your image from your device. Tap SELECT, then after selecting, confirm the edit by tapping SAVE.
+If using Android, open the [YouTube Studio](https://studio.youtube.com/) app. Tap Content in the bottom menu. Choose a video to edit >> Tap the Edit icon >> Edit thumbnail. Choose an auto-generated thumbnail or tap Custom thumbnail to upload your image from your device. Tap SELECT, then after selecting, confirm the edit by tapping SAVE.
 
 If using iOS, open the YouTube Studio app, from the bottom menu tap on Content, and after that, select any particular video to make changes. Tap the Edit icon and select Edit thumbnail. You can choose one of the auto-generated thumbnails or tap Custom Thumbnail to upload any image from your device. After selecting, confirm by tapping SELECT; after that, tap SAVE to reflect the changes.
 
