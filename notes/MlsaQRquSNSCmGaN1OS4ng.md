@@ -22,4 +22,7 @@ tags: vtaiwan
 ## 1220 議題小聚
 
 
-## 1123 大ㄙㄨ
+## 1123 大松
+- 要提案什麼？
+- 要短講什麼？
+- [贊助資訊](https://docs.google.com/presentation/d/1a0fd6dyqfpK0tPFZCT4n3EE1cdPOVdVpU03KM5x4wgk/edit#slide=id.g3113f1c4ed1_0_3)確認
