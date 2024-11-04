@@ -8,7 +8,8 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- npo hub: bil, nonumpa, mrorz
+- 線上出席：T, Conrad
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -47,7 +48,7 @@ http://dev.cofacts.tw/
 ## CCPRIP
 
 ### [Infra] 虛擬主機打統編
-
+> https://g0v.hackmd.io/@cofacts/rd/https%3A%2F%2Fg0v.hackmd.io%2FBRsJOevWSbyUMBSZEVVWrA
 機器：
 - Production: Linode 16GB plan - 6vCPU, 96USD/mo
 - Staging: Vultr 4GB plan - 20USD/mo
@@ -66,11 +67,25 @@ http://dev.cofacts.tw/
     - Staging 不動
     - Production 找代理（Ronny 推薦零壹科技）開發票
 - 如果要搬家，搬到台灣 GCP 好像更好?
+    - 放台灣會變快
+    - SSH 的部分可以用 Google 的權限 (?)
+    - 但海纜斷掉可能還是不能用，因為 [Google Cloud IP 連線時會走美國](https://stackoverflow.com/questions/41988170/why-do-google-cloud-platform-static-ip-addresses-list-mountain-view-ca-in-rever?answertab=votes#tab-top) [name=nonumpa]
     - [Machine resource types](https://cloud.google.com/compute/docs/machine-resource), [Region availability](https://cloud.google.com/compute/docs/regions-zones#available)
     - [E2: 4vCPU, 16GB ram, 1-year committed use discount](https://cloud.google.com/products/calculator?hl=en&dl=CjhDaVEzTW1RMk16RmxNUzFoWldJMkxUUXhNakF0WW1ZMU1DMWpPRGhoTldKalpEZ3hNVGtRQVE9PRAIGiQzOTA0OEYxQi01OTUzLTRBREYtQkYwNy03ODBBN0UwQjU3MUQ): 75.70USD/mo 
     - [N2D: 4vCPU, 16GB ram, 1-year commutted use discount](https://cloud.google.com/products/calculator?hl=en&dl=CjhDaVJqTlRKaU9HRm1OUzA1TnpjMUxUUTJOalF0WVRabU5DMHlNREl5TXpZNE5tUTNZbUVRQVE9PRAIGiQzOTA0OEYxQi01OTUzLTRBREYtQkYwNy03ODBBN0UwQjU3MUQ): 92USD / mo
     - [C3D: 4vCPU, 16GB ram, 1-year commutted use discount](https://cloud.google.com/products/calculator?hl=en&dl=CjhDaVE1TW1ZM01qUmlNeTB6WVRWbExUUTBNR1V0T0dNeE5TMDNaVGN5WVRZMFpHSTBOV1lRQVE9PRAIGiQzOTA0OEYxQi01OTUzLTRBREYtQkYwNy03ODBBN0UwQjU3MUQ): 97.63USD/mo
+- CCPRIP Infra 機器 migration 流程可能就能簡化，不用所有東西都上比較貴的 cloud run [name=mrorz]
+  - Cloud Run 會省錢是在開開關關，但 production service 會一直保持開啟
 
+:::success
+先 Staging Vultr --> E2 Small 看狀況，測試重點：
+- 跑不跑得起來
+- SSH 管理
+  - 可能每個人都有資料夾 [name=nonumpa]
+    - 可能就讓每個人都能 su 成 docker
+- Maybe try [Container-optimized OS](https://cloud.google.com/container-optimized-os/docs/concepts/features-and-benefits)?
+  - 指令會不太一樣
+:::
 
 ### [Op] spam removal automation
 
@@ -84,13 +99,28 @@ http://dev.cofacts.tw/
 - https://github.com/cofacts/rumors-api/pull/337
 - https://github.com/cofacts/rumors-api/blob/master/ecosystem.config.js 裡的 [commandListener](https://github.com/cofacts/rumors-api/pull/337/files) 會去 subscribe admin 指令的 topic
 - 用 terraform 設定 google pubsub topic + schema https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/pubsub_topic 
-    - schema 可以放在 rumors-db；terraform 因為要讀 schema 所以也放 rumors-db
-        - 用 avro 寫 + [codegen 轉 typescript](https://github.com/ovotech/castle/tree/main/packages/avro-ts#readme)
+    - schema 可以放在 rumors-db （讓其他地方，如 github script 可以引用）；terraform 因為要讀 schema 所以也放 rumors-db
     - bq 也可以從自己寫的 script [轉成 terraform](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/bigquery_table.html)
-- schema
+    - Alternative: 原案 - schema 放 rumors-api，設定 pubsub 的指令寫在 README 就好
+      - 優點：簡單做
+      - 缺點：PubSub 的 type 被鎖在 rumors-api 裡，很難在其他地方（如 publish event 的 script）裡使用
+- schema definition
+  - 用 avro 寫
+  - [codegen 轉 typescript](https://github.com/ovotech/castle/tree/main/packages/avro-ts#readme) 然後 commit 進 repo
+  - 可以在 CI 呼叫 codegen 確保 type 有更新（若沒更新就 fail CI）
 
-### Phase 3 Automatic
+:::success
+- Event schema 放 rumors-db
+- Terraform 先不要，跟 BQ 一樣寫在 rumors-db 的 README 就好
+:::
+
+### Phase 3 Automatic spam detection
 > @nonumpa
+
+- https://ai.google.dev/gemini-api/docs/structured-output?lang=node
+- bot 產生 pr like: https://github.com/cofacts/rumors-db/pull/42 [name=nonumpa]
+- 可以用 `secrets.GITHUB_TOKEN` 用 Github Action 的身份在 github 上做事，一樣有 bot label
+  - 需要[用 `permissions`](https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/controlling-permissions-for-github_token) 設定 GITHUB_TOKEN 能做到什麼事 [name=mrorz]
 
 
 ## Badge 功能
