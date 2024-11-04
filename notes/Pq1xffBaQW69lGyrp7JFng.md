@@ -37,8 +37,8 @@ https://github.com/cofacts/rumors-api/pull/338/files
 http://dev.cofacts.tw/
 
 登入自有帳號後檢測：
-- [ ] Replies search page
-  - [ ] can upvote / downvote replies
+- [x] Replies search page
+  - [x] can upvote / downvote replies
 
 ##### ⛔️ Release Blockers
 
@@ -66,9 +66,10 @@ http://dev.cofacts.tw/
     - Staging 不動
     - Production 找代理（Ronny 推薦零壹科技）開發票
 - 如果要搬家，搬到台灣 GCP 好像更好?
-    - [Instance types](https://cloud.google.com/compute/docs/general-purpose-machines)
+    - [Machine resource types](https://cloud.google.com/compute/docs/machine-resource), [Region availability](https://cloud.google.com/compute/docs/regions-zones#available)
     - [E2: 4vCPU, 16GB ram, 1-year committed use discount](https://cloud.google.com/products/calculator?hl=en&dl=CjhDaVEzTW1RMk16RmxNUzFoWldJMkxUUXhNakF0WW1ZMU1DMWpPRGhoTldKalpEZ3hNVGtRQVE9PRAIGiQzOTA0OEYxQi01OTUzLTRBREYtQkYwNy03ODBBN0UwQjU3MUQ): 75.70USD/mo 
-    - [C2D: 4vCPU, 16GB ram, 1-year commutted use discount](https://cloud.google.com/products/calculator?hl=en&dl=CjhDaVE1TW1ZM01qUmlNeTB6WVRWbExUUTBNR1V0T0dNeE5TMDNaVGN5WVRZMFpHSTBOV1lRQVE9PRAIGiQzOTA0OEYxQi01OTUzLTRBREYtQkYwNy03ODBBN0UwQjU3MUQ): 97.63USD/mo
+    - [N2D: 4vCPU, 16GB ram, 1-year commutted use discount](https://cloud.google.com/products/calculator?hl=en&dl=CjhDaVJqTlRKaU9HRm1OUzA1TnpjMUxUUTJOalF0WVRabU5DMHlNREl5TXpZNE5tUTNZbUVRQVE9PRAIGiQzOTA0OEYxQi01OTUzLTRBREYtQkYwNy03ODBBN0UwQjU3MUQ): 92USD / mo
+    - [C3D: 4vCPU, 16GB ram, 1-year commutted use discount](https://cloud.google.com/products/calculator?hl=en&dl=CjhDaVE1TW1ZM01qUmlNeTB6WVRWbExUUTBNR1V0T0dNeE5TMDNaVGN5WVRZMFpHSTBOV1lRQVE9PRAIGiQzOTA0OEYxQi01OTUzLTRBREYtQkYwNy03ODBBN0UwQjU3MUQ): 97.63USD/mo
 
 
 ### [Op] spam removal automation
