@@ -78,7 +78,7 @@ http://dev.cofacts.tw/
   - Cloud Run 會省錢是在開開關關，但 production service 會一直保持開啟
 
 :::success
-先 Staging Vultr --> E2 Small 看狀況，測試重點：
+先 Staging Vultr --> [E2 Medium](https://cloud.google.com/products/calculator?hl=en&dl=CjhDaVJqT1RjMFltVmxZeTA1WkRoaUxUUmhNVFF0WWpWbU1pMWhaVE0yWTJWak5tWTVaaklRQVE9PRAIGiQzOTA0OEYxQi01OTUzLTRBREYtQkYwNy03ODBBN0UwQjU3MUQ) 看狀況，測試重點：
 - 跑不跑得起來
 - SSH 管理
   - 可能每個人都有資料夾 [name=nonumpa]
@@ -117,10 +117,10 @@ http://dev.cofacts.tw/
 ### Phase 3 Automatic spam detection
 > @nonumpa
 
-- https://ai.google.dev/gemini-api/docs/structured-output?lang=node
-- bot 產生 pr like: https://github.com/cofacts/rumors-db/pull/42 [name=nonumpa]
-- 可以用 `secrets.GITHUB_TOKEN` 用 Github Action 的身份在 github 上做事，一樣有 bot label
-  - 需要[用 `permissions`](https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/controlling-permissions-for-github_token) 設定 GITHUB_TOKEN 能做到什麼事 [name=mrorz]
+- 目前用 Gemini [structured-output](https://ai.google.dev/gemini-api/docs/structured-output?lang=node) 拿到程式可以使用的結果，之後要寫自動發 PR
+    - bot 產生 pr like: https://github.com/cofacts/rumors-db/pull/42 [name=nonumpa]
+    - 可以用 `secrets.GITHUB_TOKEN` 用 Github Action 的身份在 github 上做事，一樣有 bot label
+      - 需要[用 `permissions`](https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/controlling-permissions-for-github_token) 設定 GITHUB_TOKEN 能做到什麼事 [name=mrorz]
 
 
 ## Badge 功能
@@ -131,6 +131,10 @@ http://dev.cofacts.tw/
     - 針對 TFC 的 service account 設定 [topic-level](https://cloud.google.com/pubsub/docs/access-control) 的 Pub/Sub Publisher 權限
     - script 裡檢查「把人加上 badge」的 service account 是否有權限增添此 badge
 
+:::success
+和 EJ 聊聊這條路
+:::
+
 ## Langfuse
 
 > [name=mrorz]
@@ -140,3 +144,6 @@ http://dev.cofacts.tw/
     - 官方說這樣做[不是 production ready](https://langfuse.com/docs/deployment/local) 但我們其他服務也一直都這樣做 XD
     - 可能 pg data 的部分 mount 到 disk 而非 docker volume
 
+:::success
+Blocked by staging migrating to GCE
+:::
