@@ -69,6 +69,7 @@ http://dev.cofacts.tw/
 - 如果要搬家，搬到台灣 GCP 好像更好?
     - 放台灣會變快
     - SSH 的部分可以用 Google 的權限 (?)
+        - OS login [官方文件](https://cloud.google.com/compute/docs/oslogin)、[blog](https://medium.com/@kellenjohn175/how-to-guides-gcp-security-%E4%BB%A5-os-login-%E9%80%B2%E8%A1%8C%E8%A7%92%E8%89%B2%E7%99%BB%E5%85%A5%E7%9A%84%E6%AC%8A%E9%99%90%E6%8E%A7%E7%AE%A1-52e3c294b616)
     - 但海纜斷掉可能還是不能用，因為 [Google Cloud IP 連線時會走美國](https://stackoverflow.com/questions/41988170/why-do-google-cloud-platform-static-ip-addresses-list-mountain-view-ca-in-rever?answertab=votes#tab-top) [name=nonumpa]
     - [Machine resource types](https://cloud.google.com/compute/docs/machine-resource), [Region availability](https://cloud.google.com/compute/docs/regions-zones#available)
     - [E2: 4vCPU, 16GB ram, 1-year committed use discount](https://cloud.google.com/products/calculator?hl=en&dl=CjhDaVEzTW1RMk16RmxNUzFoWldJMkxUUXhNakF0WW1ZMU1DMWpPRGhoTldKalpEZ3hNVGtRQVE9PRAIGiQzOTA0OEYxQi01OTUzLTRBREYtQkYwNy03ODBBN0UwQjU3MUQ): 75.70USD/mo 

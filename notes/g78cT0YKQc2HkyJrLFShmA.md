@@ -74,8 +74,7 @@ https://docs.google.com/document/d/1utkRdk6NmCpTdSAU29naQa3GqGPVP7oBkseo6pAzen8/
 * 澳門考試幫手, https://apps.apple.com/mo/app/%E6%BE%B3%E9%96%80%E8%80%83%E8%A9%A6%E5%B9%AB%E6%89%8B/id1209073979?l=en
 * MUST JOB, https://apps.apple.com/mo/app/mustjobs/id1260181065
 >以上3個APP皆失效 [name=Guest Lowe]
-
-* 7天澳門統考APP
+>需另外尋覓
 
 《公務人員的招聘及甄選制度》審計報告
 https://www.ca.gov.mo/files/PA4119cn.pdf
