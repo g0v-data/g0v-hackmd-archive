@@ -1,6 +1,5 @@
 ---
 tags: 拉人更輕鬆, g0v分享會
-description: 2024 夏日線上源力增能營：提案工作坊
 ---
 # 拉人更輕鬆專案（台大堉璘 YLL x g0v）
 
@@ -9,7 +8,7 @@ description: 2024 夏日線上源力增能營：提案工作坊
 
 目前已於高中與大學校園舉辦 4 場以上公民科技社群 & 學生專案經驗分享講座 & 工作坊活動，也持續與社群夥伴推行使官網視覺層級更明確的相關修改。於實體活動中邀請學生團隊，分享專案與社群參與經驗，使更多新參者認識 g0v.tw 零時政府，使社群參與更容易。
 
-聯絡方式：#拉人更輕鬆 [@g0v slack](https://app.slack.com/huddle/T02G2SXKM/C07R2PMV7K2)
+聯絡方式：#拉人更輕鬆 [@g0v slack](https://g0v-tw.slack.com/archives/C07R2PMV7K2)
 
 ## 揪伙來做
 - 8 月工作坊：[2024 夏日線上源力增能營結業式 x 提案工作坊](https://g0v.hackmd.io/@jothon/H1_B6j-9R)
