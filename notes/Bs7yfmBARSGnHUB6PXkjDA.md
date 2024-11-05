@@ -1,6 +1,6 @@
 ---
 title: "g0v 參與者訪談"
-tags: 採訪共筆,hackpad
+tags: 採訪共筆,hackpad, 拉人更輕鬆
 ---
 # g0v 參與者訪談
 
