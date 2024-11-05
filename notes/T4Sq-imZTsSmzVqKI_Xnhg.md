@@ -43,6 +43,7 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 - 數位發展部，訂定子法
     - https://youtu.be/8n2I7VBR63A
 - 內政部警政署刑事警察局林書立科長
+    - https://www.facebook.com/LawXDrama/posts/pfbid02rm7WKp9pqFCfeEFjqycaiPSRhSYYjE8hFeKx9sAbfXjUWj8D2XU3GrNErLjgqzqQl
     - https://www.facebook.com/LawXDrama/posts/pfbid0upZ2zzhYvqNG5uarcX8gKXStzagAXgrvT9MiRsEXZZwztU56ftxZYhfXe1WyQVtWl
 - 探討
     - https://www.facebook.com/share/p/tP1CkmEWedV5GNfj/
