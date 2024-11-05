@@ -2,9 +2,9 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [HJXRuIQxyl](../../notes/pg-nZhhxQteBaePLQn8O4g.md) | g0v hackath64n - 第陸拾參次黃金比例黑客松 | 2024-10-21T12:30:02+08:00 | View mode |
 | [ctpbook_en](../../notes/RDqfChU1TayMGMF8RY3kiQ.md) | g0v Civic Tech Project & Community Handbook | 2023-05-16T19:48:10+08:00 | Book mode |
 | [ctpbook_jp](../../notes/CZqvO0aDQmGm2fEMBxMQKQ.md) | g0v シビックテックプロジェクトとコミュニティの手引き | 2024-07-24T10:56:37+08:00 | Book mode |
-| [HJXRuIQxyl](../../notes/pg-nZhhxQteBaePLQn8O4g.md) | g0v hackath64n - 第陸拾參次黃金比例黑客松 | 2024-10-21T12:30:02+08:00 | View mode |
 | [Hy9ilrj9C](../../notes/7Gz_csFQQzquBoY3eIfn6A.md) | 1-1 「g0v 台湾零時政府」とは何か？｜g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-15T16:47:30+08:00 | View mode |
 | [Sk9f2CxBn](../../notes/aqy-4gAESNi0uHlVxUHb-w.md) | 1-1 What is g0v? ｜ 公民科技專案手冊｜Civic Tech Project Handbook | 2023-05-16T18:33:53+08:00 | View mode |
 | [confkeng2020](../../notes/bLZZA8HlQcWZyjbgvRS6ig.md) | g0v 坑主小聚 / 坑主大補帖 | 2019-12-31T15:45:49+08:00 | View mode |

@@ -25,7 +25,8 @@ description: 2024 夏日線上源力增能營：提案工作坊
 - [日本學生訪談(Kurumi, Yuri)](https://www.facebook.com/share/p/8hxvjBnzLguC2GgM/)
 
 ## 大松與 summit 參與
-放我們參與過的大松的頁面＆提案連結頁面或簡介內容（can copy from the google sheet embedded)
+內容建置中
+（放我們參與過的大松的頁面＆提案連結頁面或簡介內容（can copy from the google sheet embedded)
 
 ## 籌備、進行中的活動
 ### 11/23 大松資金池活動
@@ -38,6 +39,5 @@ description: 2024 夏日線上源力增能營：提案工作坊
 
 
 ### 分享會規劃
-有再放 可以先空著
-
+內容建置中
 
