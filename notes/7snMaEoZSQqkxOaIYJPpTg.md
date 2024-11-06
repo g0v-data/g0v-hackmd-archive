@@ -13,7 +13,9 @@ tags: GIS　
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3e1b305899eadeff07c17ee9b94c0ed3.jpeg)
 
 
-- 消防署歸納火災成因，包含煙蒂：https://www.facebook.com/share/p/Bfyh7SE2T8pxtQUz/
+- 火災
+    - 消防署歸納火災成因，包含煙蒂：https://www.facebook.com/share/p/Bfyh7SE2T8pxtQUz/
+    - https://www.ctwant.com/article/374278/
 - 新北市環保局的探討：https://www.epd.ntpc.gov.tw/Article?catID=1988
     - 卡在水溝蓋上的數量最多，其次則為停車場和騎樓、商家門口
 - 違反廢棄物清理法案件管理資訊系統
