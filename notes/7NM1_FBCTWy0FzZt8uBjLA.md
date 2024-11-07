@@ -358,3 +358,58 @@ void wave1(int X)
 }
 
 </pre>
+__________
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5a4909368f369d1de747ba591e21bf70.png)
+1.5!,4!..
+2.0,1,2,3,5,8,13,21
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d5db2a62be3370b927b203e0b664efa3.png)
+<pre>
+
+#include<iostream>
+using namespace std;
+
+int S(int n)
+{
+	/*
+	int r=1;
+	for(int a=1;a<=n;a++)
+		r+=a
+	return r;
+	*/
+	if(n==1)
+		return 1;
+	else
+		return n*S(n-1);
+		//5!=5*4!=5*4*3!....一直向大int呼叫缺少的變數ex:4! 
+}
+
+int F(int n)
+{
+	if(n<=1)
+		return n;
+	return F(n-1)+F(n-2);//0,1,1,2,3,5,6,13,21
+}
+
+int main()
+{
+	cout<<S(5)<<endl;
+	cout<<S(10)<<endl;
+	
+	cout<<F(5)<<endl;
+	cout<<F(10)<<endl;
+	return 0;
+}
+</pre>
+_____
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_18c83b0380539b964368ccd51ca24743.png)
+<pre>
+
+int C(int m,int n)//c m取n =c(m-1)取n + c(m-1)取n-1 
+{
+	if(m==n)
+		return 1;
+	if(n==1)
+		return m;
+	return C(m-1,n)+C(m-1,n-1);
+}
+</pre>
