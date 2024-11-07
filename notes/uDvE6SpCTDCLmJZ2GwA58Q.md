@@ -250,6 +250,9 @@ tags: 新生流域
 
 ### 國內外經驗與借鏡案例
 - 荷蘭 https://www.facebook.com/share/fqNfvUUfvdLLehHg/
+- 丹麥 河流開蓋 改善水質 
+    - https://www.aarhusvand.com/cases/climate-adaption/aarhus-river-project/
+    - https://www.facebook.com/share/14PsvRY9QG/
 - 芝加哥 河流人工浮島 https://www.facebook.com/share/r/V43PRFoXfobp3er2/
 - 韓國 光電板結合自行車專用道 
     - https://www.facebook.com/share/tdvsKEtCv4RUgYmW/
