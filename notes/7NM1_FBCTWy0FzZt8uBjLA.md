@@ -297,3 +297,6 @@ int main()
 	cout<<g(5,3)<<endl<<g(2,10)<<endl;
 	return 0;//回傳 
 }</pre>
+____
+int main=void main
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8e253bccc70ec7a3d0b8271ced7028ce.png)
