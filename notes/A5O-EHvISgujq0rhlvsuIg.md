@@ -5,6 +5,8 @@ Vee = AI-chat-tool
 Ana = asks Vee questions, learns about AI
     -> impact on skilled labor, benefits of AI (explain: machine learning, robotics aka automation in manufacturing/surgery etc., Natural language processing: chatbots, content generation like image generators), human poem vs. ai poem
     
+    
+    
 # Slide 1: Introduction (2 minutes) *Vee*
 •	Definition of AI: Briefly explain artificial intelligence.
 •	Scope of the Presentation: Overview of how AI impacts skilled labor across various industries.
