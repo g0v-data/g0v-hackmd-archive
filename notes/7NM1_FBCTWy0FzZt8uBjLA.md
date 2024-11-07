@@ -300,3 +300,61 @@ int main()
 ____
 int main=void main
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8e253bccc70ec7a3d0b8271ced7028ce.png)
+_____
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0da1936d9d88032e0d8f86ab5928eac6.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_3a795231102f67f49ec497555290b9cc.png)
+//void裡面的變數名隨便寫
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7b7f7ea7b488817e66390da856f44c8d.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_731e07b76f372940fbf2ef05c1530fca.png)
+<pre>
+#include<iostream>
+using namespace std;
+
+void Case(int);
+void wave(int);
+void wave1(int);
+
+int main()
+{
+	int N;
+	cin>>N;//幾筆測資
+	for(int n=0;n<N;n++) 
+		Case(n);
+	
+	return 0;	
+} 
+
+void Case(int n)//每個三角形重複幾次 
+{
+	int A,F;
+	cin>>A>>F;
+	for(int f=0;f<F;f++)
+	{
+		wave(A);
+		cout<<endl;
+	}
+	
+}
+
+void wave(int A)//每個波印幾個符號 
+{
+	int a;
+	for(a=1;a<=A;a++)
+	{
+		wave1(a);
+	}
+	for(a=A-1;a>=1;a--)
+	{
+		wave1(a);
+	}
+}
+
+void wave1(int X)
+{
+	int x;
+	for(x=0;x<X;x++)
+		cout<<X;
+	cout<<endl;
+}
+
+</pre>
