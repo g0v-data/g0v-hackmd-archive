@@ -1,0 +1,91 @@
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0f36f646074e603325f03590f323b03f.jpeg)
+<a href="https://abc8.associates/">ABC8</a> là nền tảng giải trí trực tuyến đáng tin cậy, cung cấp cho người dùng nhiều lựa chọn trò chơi phong phú và hấp dẫn. Với giao diện dễ sử dụng, công nghệ bảo mật cao cấp và dịch vụ hỗ trợ tận tình, ABC8 cam kết mang đến một trải nghiệm giải trí an toàn, thú vị và tiện lợi.
+- Website: <a href="https://abc8.associates/">https://abc8.associates/</a>
+- SDT: 079.222.0660
+- Địa chỉ: 285 Trần Hưng Đạo, Đông Hoà, Dĩ An, Bình Dương, Vietnam
+- Email: contact@abc8.associates
+Hashtag: abc8#conggameabc8#trangchuabc8#sanhgameabc8#dangnhapabc8
+
+
+<a href="https://www.facebook.com/abc8associates/">https://www.facebook.com/abc8associates/</a>
+<a href="https://twitter.com/abc8associates">https://twitter.com/abc8associates</a>
+<a href="https://www.youtube.com/@abc8associates">https://www.youtube.com/@abc8associates</a>
+<a href="https://www.pinterest.com/abc8associates/">https://www.pinterest.com/abc8associates/</a>
+<a href="https://www.tumblr.com/abc8associates">https://www.tumblr.com/abc8associates</a>
+<a href="https://www.twitch.tv/abc8associates/about">https://www.twitch.tv/abc8associates/about</a>
+<a href="https://www.notebook.ai/users/936342">https://www.notebook.ai/users/936342</a>
+<a href="https://www.akaqa.com/question/q19192481645-Abc8">https://www.akaqa.com/question/q19192481645-Abc8</a>
+<a href="https://qiita.com/abc8associates">https://qiita.com/abc8associates</a>
+<a href="https://www.nintendo-master.com/profil/abc8associates">https://www.nintendo-master.com/profil/abc8associates</a>
+<a href="https://www.iniuria.us/forum/member.php?483261-abc8associates">https://www.iniuria.us/forum/member.php?483261-abc8associates</a>
+<a href="https://zb3.org/abc8associates/">https://zb3.org/abc8associates/</a>
+<a href="https://hubpages.com/@abc8associates">https://hubpages.com/@abc8associates</a>
+<a href="https://www.magcloud.com/user/abc8associates">https://www.magcloud.com/user/abc8associates</a>
+<a href="http://aldenfamilydentistry.com/UserProfile/tabid/57/userId/956014/Default.aspx">http://aldenfamilydentistry.com/UserProfile/tabid/57/userId/956014/Default.aspx</a>
+<a href="https://circleten.org/a/324122">https://circleten.org/a/324122</a>
+<a href="https://b.hatena.ne.jp/abc8associates/bookmark">https://b.hatena.ne.jp/abc8associates/bookmark</a>
+<a href="https://social.acadri.org/abc8associates">https://social.acadri.org/abc8associates</a>
+<a href="http://www.fanart-central.net/user/abc8associates/profile">http://www.fanart-central.net/user/abc8associates/profile</a>
+<a href="https://gifyu.com/abc8associates">https://gifyu.com/abc8associates</a>
+<a href="https://wmart.kz/forum/user/194474/">https://wmart.kz/forum/user/194474/</a>
+<a href="https://biiut.com/abc8associates">https://biiut.com/abc8associates</a>
+<a href="https://doselect.com/@1ad6c635544ea00b18c655d57">https://doselect.com/@1ad6c635544ea00b18c655d57</a>
+<a href="https://glamorouslengths.com/author/abc8associates/">https://glamorouslengths.com/author/abc8associates/</a>
+<a href="https://www.swap-bot.com/user:abc8associates">https://www.swap-bot.com/user:abc8associates</a>
+<a href="https://www.ilcirotano.it/annunci/author/abc8associates/">https://www.ilcirotano.it/annunci/author/abc8associates/</a>
+<a href="https://community.atlassian.com/t5/user/viewprofilepage/user-id/5640612">https://community.atlassian.com/t5/user/viewprofilepage/user-id/5640612</a>
+<a href="https://bit.ly/abc8associates">https://bit.ly/abc8associates</a>
+<a href="https://tinyurl.com/abc8associates">https://tinyurl.com/abc8associates</a>
+<a href="https://drivehud.com/forums/users/kodydetore9800/">https://drivehud.com/forums/users/kodydetore9800/</a>
+<a href="https://www.homepokergames.com/vbforum/member.php?u=119688">https://www.homepokergames.com/vbforum/member.php?u=119688</a>
+<a href="https://web.ggather.com/abc8associates">https://web.ggather.com/abc8associates</a>
+<a href="https://kaeuchi.jp/forums/users/abc8associates/">https://kaeuchi.jp/forums/users/abc8associates/</a>
+<a href="https://my.djtechtools.com/users/1462920">https://my.djtechtools.com/users/1462920</a>
+<a href="http://delphi.larsbo.org/user/abc8associates">http://delphi.larsbo.org/user/abc8associates</a>
+<a href="https://eternagame.org/players/424303">https://eternagame.org/players/424303</a>
+<a href="https://meetup.furryfederation.com/events/b677cded-a086-4b76-96fd-645a89a471b7">https://meetup.furryfederation.com/events/b677cded-a086-4b76-96fd-645a89a471b7</a>
+<a href="https://www.pixiv.net/en/users/111044403">https://www.pixiv.net/en/users/111044403</a>
+<a href="https://shapshare.com/abc8associates">https://shapshare.com/abc8associates</a>
+<a href="http://onlineboxing.net/forum/user/abc8associates">http://onlineboxing.net/forum/user/abc8associates</a>
+<a href="https://golbis.com/user/abc8associates/">https://golbis.com/user/abc8associates/</a>
+<a href="http://l-avt.ru/support/dialog/?PAGE_NAME=profile_view&UID=82092&backurl=%2Fsupport%2Fdialog%2F%3FPAGE_NAME%3Dprofile_view%26UID%3D75532">http://l-avt.ru/support/dialog/?PAGE_NAME=profile_view&UID=82092&backurl=%2Fsupport%2Fdialog%2F%3FPAGE_NAME%3Dprofile_view%26UID%3D75532</a>
+<a href="https://storyweaver.org.in/en/users/1020577">https://storyweaver.org.in/en/users/1020577</a>
+<a href="https://findaspring.org/members/abc8associates/">https://findaspring.org/members/abc8associates/</a>
+<a href="https://urlscan.io/result/158c2fda-6bf6-4748-8488-a2dfe7cc522f/">https://urlscan.io/result/158c2fda-6bf6-4748-8488-a2dfe7cc522f/</a>
+<a href="https://www.canadavisa.com/canada-immigration-discussion-board/members/abc8associates.1241985/">https://www.canadavisa.com/canada-immigration-discussion-board/members/abc8associates.1241985/</a>
+<a href="https://www.chaloke.com/forums/users/abc8associates/">https://www.chaloke.com/forums/users/abc8associates/</a>
+<a href="https://linkmix.co/30629061">https://linkmix.co/30629061</a>
+<a href="https://motion-gallery.net/users/666198">https://motion-gallery.net/users/666198</a>
+<a href="https://ingmac.ru/forum/?PAGE_NAME=profile_view&UID=63006">https://ingmac.ru/forum/?PAGE_NAME=profile_view&UID=63006</a>
+<a href="https://www.outlived.co.uk/author/abc8associates/">https://www.outlived.co.uk/author/abc8associates/</a>
+<a href="https://www.mycast.io/profiles/302372/username/abc8associates">https://www.mycast.io/profiles/302372/username/abc8associates</a>
+<a href="https://dongnairaovat.com/members/abc8associates.25313.html">https://dongnairaovat.com/members/abc8associates.25313.html</a>
+<a href="https://hiqy.in/abc8associates">https://hiqy.in/abc8associates</a>
+<a href="https://kemono.im/abc8associates/">https://kemono.im/abc8associates/</a>
+<a href="https://penposh.com/abc8associates">https://penposh.com/abc8associates</a>
+<a href="https://imgcredit.xyz/abc8associates">https://imgcredit.xyz/abc8associates</a>
+<a href="https://www.claimajob.com/profiles/5551412-abc8">https://www.claimajob.com/profiles/5551412-abc8</a>
+<a href="https://club.doctissimo.fr/abc8associates/">https://club.doctissimo.fr/abc8associates/</a>
+<a href="http://www.getjob.us/usa-jobs-view/job-posting-905913-ABC8.html">http://www.getjob.us/usa-jobs-view/job-posting-905913-ABC8.html</a>
+<a href="https://minecraftcommand.science/profile/abc8associates">https://minecraftcommand.science/profile/abc8associates</a>
+<a href="https://wiki.gta-zona.ru/index.php/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Abc8associates">https://wiki.gta-zona.ru/index.php/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Abc8associates</a>
+<a href="https://wiki.natlife.ru/index.php/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Abc8associates">https://wiki.natlife.ru/index.php/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Abc8associates</a>
+<a href="https://personaljournal.ca/abc8associates/">https://personaljournal.ca/abc8associates/</a>
+<a href="http://www.worldchampmambo.com/UserProfile/tabid/42/userId/405075/Default.aspx">http://www.worldchampmambo.com/UserProfile/tabid/42/userId/405075/Default.aspx</a>
+<a href="https://www.multichain.com/qa/user/abc8associates">https://www.multichain.com/qa/user/abc8associates</a>
+<a href="https://hackmd.okfn.de/s/rkb5jhsb1l">https://hackmd.okfn.de/s/rkb5jhsb1l</a>
+<a href="https://expathealthseoul.com/profile/abc8associates/">https://expathealthseoul.com/profile/abc8associates/</a>
+<a href="https://makersplace.com/kodydetore9800/gallery/collected">https://makersplace.com/kodydetore9800/gallery/collected</a>
+<a href="http://wiki.diamonds-crew.net/index.php?title=Benutzer_Diskussion:Abc8associates">http://wiki.diamonds-crew.net/index.php?title=Benutzer_Diskussion:Abc8associates</a>
+<a href="https://www.apelondts.org/Activity-Feed/My-Profile/UserId/41852">https://www.apelondts.org/Activity-Feed/My-Profile/UserId/41852</a>
+<a href="https://community.fyers.in/member/NcNhBpCIUb">https://community.fyers.in/member/NcNhBpCIUb</a>
+<a href="https://www.snipesocial.co.uk/abc8associates">https://www.snipesocial.co.uk/abc8associates</a>
+<a href="https://pytania.radnik.pl/uzytkownik/abc8associates/wall">https://pytania.radnik.pl/uzytkownik/abc8associates/wall</a>
+<a href="https://advpr.net/abc8associates">https://advpr.net/abc8associates</a>
+<a href="http://genina.com/user/editDone/4507477.page">http://genina.com/user/editDone/4507477.page</a>
+<a href="https://myanimeshelf.com/profile/abc8associates">https://myanimeshelf.com/profile/abc8associates</a>
+<a href="https://www.adsoftheworld.com/users/d0636b3d-9678-4333-b8cb-09f0dd4a47bf">https://www.adsoftheworld.com/users/d0636b3d-9678-4333-b8cb-09f0dd4a47bf</a>
+<a href="https://malt-orden.info/userinfo.php?uid=383241">https://malt-orden.info/userinfo.php?uid=383241</a>
+<a href="https://filesharingtalk.com/members/604505-abc8associates">https://filesharingtalk.com/members/604505-abc8associates</a>
+<a href="https://belgaumonline.com/profile/abc8associates/">https://belgaumonline.com/profile/abc8associates/</a>
+<a href="https://wefunder.com/abc8associates">https://wefunder.com/abc8associates</a>
