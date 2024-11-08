@@ -14,6 +14,8 @@
 slido code #2528843
     slido 連結：https://app.sli.do/event/aBLpZW2tB5jMD3PHtFSG7S/live/questions?clusterId=eu1
 回饋表單: https://forms.gle/n46EmufR1n6vGoaZ7
+今日活動照片
+
 
 ## 分享會議程
 18:30-18:45 g0v & 拉人更輕鬆專案簡介
