@@ -1,10 +1,10 @@
-<a href="https://xoilacvz.cc/">Xoilac TV</a> là một nền tảng trực tuyến chuyên cung cấp dịch vụ xem trực tiếp các sự kiện thể thao, đặc biệt là bóng đá. Người dùng có thể theo dõi các trận đấu, giải đấu nổi bật trên toàn thế giới với chất lượng hình ảnh tốt.
+<a href="https://xoilacvw.cc">Xoilac TV</a> là một nền tảng trực tuyến chuyên cung cấp dịch vụ xem trực tiếp các sự kiện thể thao, đặc biệt là bóng đá. Người dùng có thể theo dõi các trận đấu, giải đấu nổi bật trên toàn thế giới với chất lượng hình ảnh tốt.
 Thông tin liên hệ:
 Địa Chỉ: 148 Nguyễn Phước Tần, Hòa Thọ Đông, Cẩm Lệ, Đà Nẵng 550000, Việt Nam
 SĐT: 0945013724
 Email: xoilacvz.cc@gmail.com
 Website:
-<a href="https://xoilacvz.cc/">https://xoilacvz.cc/</a>
+<a href="https://xoilacvw.cc">https://xoilacvw.cc</a>
 #xoilac #xoilac_tv #xoilactv #xoilactructiepbongda
 <a href="https://www.facebook.com/xoilacvzcc/">https://www.facebook.com/xoilacvzcc/</a>
 <a href="https://twitter.com/xoilacvzcc">https://twitter.com/xoilacvzcc</a>
