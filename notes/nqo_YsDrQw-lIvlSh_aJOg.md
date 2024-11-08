@@ -1,4 +1,4 @@
-Trang FB88 cung cấp các thể loại trò chơi cá cược thịnh hành và đặc biệt nhất hiện nay, cập nhật thường xuyên mỗi tuần nhiều thể loại trò chơi mới được phát triển từ nhiều nước trên thế giới. Với phương châm luôn mang đến trải nghiệm tốt nhất đến khách hàng. Đến với FB88 bạn không phải là người chơi mà bạn chính là nhà đầu tư. Hãy truy cập trang chủ FB88 để khám phá và tìm ra bộ môn phù hợp với chính bạn, mở lối tài lộc ngay hôm nay.
+Trang [FB88](https://fb88av.com/) cung cấp các thể loại trò chơi cá cược thịnh hành và đặc biệt nhất hiện nay, cập nhật thường xuyên mỗi tuần nhiều thể loại trò chơi mới được phát triển từ nhiều nước trên thế giới. Với phương châm luôn mang đến trải nghiệm tốt nhất đến khách hàng. Đến với FB88 bạn không phải là người chơi mà bạn chính là nhà đầu tư. Hãy truy cập trang chủ FB88 để khám phá và tìm ra bộ môn phù hợp với chính bạn, mở lối tài lộc ngay hôm nay.
 Thông tin FB88:
 - Trang chủ FB88: https://fb88av.com/
 - Hotline cskh: 036 745 845
