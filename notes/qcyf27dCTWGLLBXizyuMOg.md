@@ -28,10 +28,11 @@ tags: 拉人更輕鬆, g0v分享會
 
 參與者對談 :speaking_head_in_silhouette:
 ---
-- `2024/10/03` [資金池討論　w/ FAB DAO](/GAkVDgKxQPiAdRC9NaHzbw)
-- `2024/10/11` [資金池討論　w/ FAB DAO & DeSci](/l7jWC3ulQGuT3RpXpFHvpg)
-- [FtO 學生參與者訪談 - Starry & Fionna (Eng.)](/bqfFBH-fRjqqKryzyGzqcA)
-- [FtO 學生參與者訪談 - Yuri (Eng.)](/rkhwcd4yT8SBsyzjEKo2Jg)
+- `2024/10/03` [資金池 - FAB DAO](/GAkVDgKxQPiAdRC9NaHzbw)
+- `2024/10/11` [資金池 - FAB DAO & DeSci](/l7jWC3ulQGuT3RpXpFHvpg)
+- `2024/09/03`[(Eng.) FtO 學生 - Starry & Fionna](/bqfFBH-fRjqqKryzyGzqcA)
+- `2024/07/25 & 09/01`[(Eng.) FtO 學生 - Yuri](/rkhwcd4yT8SBsyzjEKo2Jg)
+- `2024/07/25`[(Eng.) FtO 學生 - Kurumi](https://g0v.hackmd.io/@I7jUdrZWQYm898BxLxEzTg/SkIzR4HeJg#FtO-%E5%AD%B8%E7%94%9F%E5%8F%83%E8%88%87%E8%80%85%E8%A8%AA%E8%AB%87---Kurumi-Eng)
 - `粉專貼文` [訪談分享: Kurumi, Yuri](https://www.facebook.com/share/p/8hxvjBnzLguC2GgM/) [target=_blank]
 
 黑客松參與 :computer: 

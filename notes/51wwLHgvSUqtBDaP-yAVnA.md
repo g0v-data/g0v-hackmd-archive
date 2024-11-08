@@ -227,6 +227,8 @@ Another topic would be if we should treat [browser apps and backend apps](https:
         - AWS Cognito
             - JS SDK - https://github.com/aws-amplify/amplify-js/tree/main/packages/amazon-cognito-identity-js
         - [Cloudflare Zero Trust Identity](https://developers.cloudflare.com/cloudflare-one/identity/)
+            - 同時允許 One-time pin, 各種 IdPs, 以及 service token (limited)
+            - 50-user free
 - rumors-api
     - remove passport.js and social login
     - remove app-id related logic

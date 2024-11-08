@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Cofacts API access management](../notes/51wwLHgvSUqtBDaP-yAVnA.md) | 2024-11-08T12:00:51+08:00 | 2021-01-19T22:33:07+08:00 |
+| 1 | [Cofacts API access management](../notes/51wwLHgvSUqtBDaP-yAVnA.md) | 2024-11-08T12:06:07+08:00 | 2021-01-19T22:33:07+08:00 |
 | 2 | [20241104 會議記錄](../notes/Pq1xffBaQW69lGyrp7JFng.md) | 2024-11-05T11:29:57+08:00 | 2024-11-04T13:08:57+08:00 |
 | 3 | [20241031 會議記錄](../notes/FRecC3VUS7aGtUxUDglRxQ.md) | 2024-10-31T21:01:44+08:00 | 2024-10-31T11:50:32+08:00 |
 | 4 | [Cofacts DB Mapping](../notes/F1K20uFNSzivBPXsKdg30Q.md) | 2024-10-30T19:51:55+08:00 | 2020-05-07T16:37:21+08:00 |
