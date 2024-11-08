@@ -1,4 +1,5 @@
 # 1108 分享會共筆
+公民科技社群 & 自學生專案經驗分享會 with 星河計畫, 自學力, 書愛流動
 
 ## 活動簡介
 📍 地點：NPO HUB 2 樓小論壇空間（台北市中正區重慶南路三段 2 號）
@@ -11,11 +12,10 @@
 書愛流動：學生時期的我們都有過，學期初買了一堆參考書，學期末再全部拿去回收的經驗，其實不少書都是還是有使用價值的。大家有想過，除了回收外，還有哪些更永續的處理方式嗎? 書愛流動團隊希望建立一個二手學習用書交流平台，讓大家以交換，為不再需要的學習用書賦予新生機會，也減輕學生和家庭的學習成本。
 
 ## 相關連結
-slido code #2528843
-    slido 連結：https://app.sli.do/event/aBLpZW2tB5jMD3PHtFSG7S/live/questions?clusterId=eu1
+slido code #2528843、 [連結](https://app.sli.do/event/aBLpZW2tB5jMD3PHtFSG7S/live/questions?clusterId=eu1)
 回饋表單: https://forms.gle/n46EmufR1n6vGoaZ7
-今日活動照片
-
+今日活動照片：https://drive.google.com/drive/folders/1-Z7mT5M3NGUC_JChoFKN8BtK8AJi3MMY 
+活動錄影：https://drive.google.com/file/d/12N5fxgLBgdsNqksO7MLGaqoH4GQrialL/view?usp=sharing
 
 ## 分享會議程
 18:30-18:45 g0v & 拉人更輕鬆專案簡介

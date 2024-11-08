@@ -16,6 +16,7 @@ tags: 拉人更輕鬆, g0v分享會
 - `2024/08/31` [夏日線上源力增能營結業式 x 提案工作坊](/@jothon/H1_B6j-9R) 
 - `2024/08/31` `粉專貼文` [活動紀錄：源力增能營](https://www.facebook.com/share/p/dRbDUieeZM2VUHxT/) [target=_blank]
 - `2024/10` `粉專貼文` [活動紀錄：師大附中 & 北科大](https://www.facebook.com/share/p/UYmNcDF8ZNtEGQcc/) [target=_blank] 
+- `2024/11` `共筆` [活動紀錄：自學生 書愛流動 & 自學力 & 星河計畫](https://g0v.hackmd.io/8-A_6dbSTOuRdzymvd9Q0Q)
 
 基礎建設 :hammer:
 ---
