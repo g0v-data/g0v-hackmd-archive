@@ -2,3 +2,6 @@
 
 - [x] 新物件繼承MemberInfoRsp
 - [ ] 更新memberservice
+- [ ] reviewstatus 更改為前端字符
+- [ ] identity 更改為前端字符
+- [ ] status 更改為前端字符

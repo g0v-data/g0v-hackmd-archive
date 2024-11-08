@@ -126,6 +126,7 @@ Example: [LINE messaging API's signature](https://developers.line.biz/en/docs/me
     - [Max 50 service tokens](https://developers.cloudflare.com/cloudflare-one/account-limits/#:~:text=Service%20tokens%20count)
     - Token duration: min 1 year, max non-expiring
 - Access without service token: ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d36a8362a98c2fc155e2632e744342e8.png =x300)
+- Protected application (rumors-api) gets an [application token](https://developers.cloudflare.com/cloudflare-one/identity/authorization-cookie/application-token/#service-token-authentication) with `common_name` being the access client ID.
 
 :::info
 TBA:
