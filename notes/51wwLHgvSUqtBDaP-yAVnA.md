@@ -226,6 +226,7 @@ Another topic would be if we should treat [browser apps and backend apps](https:
                 - cookie 到期：5min ~ 2weeks
         - AWS Cognito
             - JS SDK - https://github.com/aws-amplify/amplify-js/tree/main/packages/amazon-cognito-identity-js
+        - [Cloudflare Zero Trust Identity](https://developers.cloudflare.com/cloudflare-one/identity/)
 - rumors-api
     - remove passport.js and social login
     - remove app-id related logic
