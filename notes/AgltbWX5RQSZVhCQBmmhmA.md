@@ -1,0 +1,4 @@
+<a href="https://nicshop.com/" rel="dofollow">Nicshop</a>  is your ultimate destination for a diverse selection of high-quality vaping products. Whether you're seeking disposable vapes, vape kits, e-liquids, or accessories, Nicshop offers an extensive range of brands and flavors to meet every preference. Designed for both beginners and experienced vapers, the site provides easy navigation and detailed product descriptions, helping you find exactly what you need. Enjoy competitive pricing, convenient shipping, and a commitment to quality and satisfaction with every purchase at Nicshop. 
+
+<br>
+<a href="https://nicshop.com/"><img style="display:block;margin-left:auto;margin-right:auto;" src="https://cdn11.bigcommerce.com/s-vux44hwuka/images/stencil/original/image-manager/20-to40-k-puff.jpg" alt="Nicshop"></a>
