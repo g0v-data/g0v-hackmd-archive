@@ -9,19 +9,22 @@ Ana = asks Vee questions, learns about AI
     
 # Slide 1: Introduction (2 minutes) *Vee*
 **Definition of AI:**
-* for the purposes of this presentation, ai, or artificial intelligence, refers to a neural network or an algorythm programmed to analyse and learn from a given set of data. 
+* AI, or Artificial Intelligence, refers to machines and computer systems designed to perform tasks that typically require human intelligence. These tasks include learning from data, recognizing patterns, understanding natural language, making decisions, and even solving problems. AI is essentially a way to simulate human cognitive abilities in machines, allowing them to perform functions with varying levels of autonomy.
+* These neural networks or algorythms are programmed to analyse and learn from a given set of data. 
 * Ai is capable of computing vast amounts of data with incredible percision to generate a requested response. 
 * it is heavily dependent on the proccessing power provided to it!
 *  It's speed, accuracy and overall capacity for computing relies on the amount of data it has access to and the compound processing capacity given to it 
     * i.e. the amount of requests/units of information it can process per unit time
     
-**Scope of the Presentation:** Overview of how AI impacts skilled labor across various industries.
+**Scope of the Presentation:** *Overview of how AI impacts skilled labor across various industries -> describe how ai impacts skilled labour, it's consequences, potential benefits and disadvantages.*
 
+Would you like me to help you find out how AI impacts skilled labour?
 
 
 # Slide 2: Historical Context (2 minutes) *Vee*
 •	Evolution of Labor: From manual labor to skilled professions.
 •	Past Technological Revolutions: Brief mention of previous disruptions (e.g., industrial revolution, automation).
+Long before the emerges of the modern human, labour had been an essential part of survival among large groups of anceint hunting-gathering primates. It is a general trend that in nature, animals with socially-oriented behaviours are largely more successful than of those who lead solitary lives, bees and ants are brilliant examples of this, every member of a hive or colony lives for the benefit of the group, which makes survival of every individual non-essential, prioritising efficiency and sustenance of the collective and it's growth. However, primates, in nature are far more complex organism, capable of far more complex operations. Thus, as the groups grew larger and developed new ways of acquisition of resources, labour division and organisation led to eventual appearance of primitive social structure and the emergence of the codependent connection of labour to social structuring that we still see today. For the majority of humanity's history, labour had remained primarily physical and reliant on skills such as crafting various items, gathering resources, etc. As such primitive groups grew larger, the need for organisation and division of labour had arisen, thereby creative the "administrative", more abstract kind of labour. the next large turnover of human labour happened within the last few centuries - primarily through industrial revolution, which for the first time in history saw the physical work done directly by humans cede towards the intellectual labor coming to be at the forefront of the civilisation due to automation of basic operations through machinery, new ways of generating energy, faster and more efficient ways of transportation and most importantly - increasingly complex technological and scientific advancements. At present, human society favours intellectual labour over physical almost in it's entirety, and now even the postion of overseeing machines and making executive decisions and calculations is being automated through ai 
 # Slide 3: AI Technologies Impacting Skilled Labor (3 minutes) *Vee*
 •	Machine Learning: How algorithms analyze data and make decisions.
 •	Robotics: Automation in manufacturing, surgery, etc.
