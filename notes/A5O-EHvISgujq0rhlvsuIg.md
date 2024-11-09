@@ -8,8 +8,17 @@ Ana = asks Vee questions, learns about AI
     
     
 # Slide 1: Introduction (2 minutes) *Vee*
-•	Definition of AI: Briefly explain artificial intelligence.
-•	Scope of the Presentation: Overview of how AI impacts skilled labor across various industries.
+**Definition of AI:**
+* for the purposes of this presentation, ai, or artificial intelligence, refers to a neural network or an algorythm programmed to analyse and learn from a given set of data. 
+* Ai is capable of computing vast amounts of data with incredible percision to generate a requested response. 
+* it is heavily dependent on the proccessing power provided to it!
+*  It's speed, accuracy and overall capacity for computing relies on the amount of data it has access to and the compound processing capacity given to it 
+    * i.e. the amount of requests/units of information it can process per unit time
+    
+**Scope of the Presentation:** Overview of how AI impacts skilled labor across various industries.
+
+
+
 # Slide 2: Historical Context (2 minutes) *Vee*
 •	Evolution of Labor: From manual labor to skilled professions.
 •	Past Technological Revolutions: Brief mention of previous disruptions (e.g., industrial revolution, automation).
