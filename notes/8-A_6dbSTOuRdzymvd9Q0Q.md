@@ -25,7 +25,10 @@ slido code #2528843、 [連結](https://app.sli.do/event/aBLpZW2tB5jMD3PHtFSG7S/
 21:00-21:30 工作坊與綜合討論
 
 ## 活動紀錄
+
 ### 書愛流動
+
+[簡報連結](https://www.canva.com/design/DAGVHGpMIbs/T0iF82UW4lCzS3kHu4vTIA/edit?utm_content=DAGVHGpMIbs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 1. 高二下開始自學，三人團隊（領導/發想者、網頁設計、宣傳）
 2. 困境：參與者、倉儲、運費
 3. 學習：領導團隊、社會實務、走出學校環境
