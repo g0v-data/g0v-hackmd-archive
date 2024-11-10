@@ -84,11 +84,33 @@ All and all, modern ai programs can be repurposed to be effective in almost any 
 
 
 
-# Slide 7: Case Studies (3 minutes) *Ana + Vee*
-•	Example 1: Manufacturing: Company using robotics to reduce labor costs.
-•	Example 2: Healthcare: AI diagnostics leading to job changes for radiologists.
-•	Example 3: Finance: Shift from human brokers to AI-driven trading platforms.
-* human poem vs. ai poem OR ai generated image vs real photo OR human art vs AI generated art
+
+# Slide 7: Statistics (3 minutes) *Ana + Vee*
+The expected evolvement of the workforce in the future:
+* proffesions most likely to lose their jobs to AI (WEF): 
+    1. Data entry clerks
+    3. Administrative secretaries
+    4. Accounting
+* about 2 Million manufacturing workers will be replaced **by 2025**, most of the jobs by robots but some by AI tools that we don't even know yet (according to: MIT/Boston University)
+* over 7.5 million data entry jobs will be lost **by 2027** (WEF)
+* 14% of the global workforce (375 million people) will be forced to change their career **by 2030** (McKinsey)
+    * this study did not yet consider AGI (Artificial Generated Intelligence) and needs to be updated
+* over 300 million jobs might be replaced by AI entirely (Goldman Sachs via BBC)
+    * that would be the equivalent of 1/4 of the work tasks in Europe and the US
+    * examples of professions that will probably face lower wages due to the competition that AGI-models create
+        * journalists
+        * writers
+        * photographers
+        * software developers
+        * uber driver
+
+Practically every job involves some tasks that are vulnerable to being automated by Al. Only a small minority of workers are totally unexposed to Al (ARXIV).
+
+
+*human poem vs. ai poem OR ai generated image vs real photo OR human art vs AI generated art*
+
+
+
 # Discussion 
 * Hypothesis / Question
 * open discussion
@@ -229,11 +251,9 @@ Unexpected Impact: We don’t know exactly how AI will change jobs in the future
 # NULLIFIED VER
 overview of how AI is replacing skilled jobs in different industries:
 
-1. Manufacturing: Robots in Factories
-Robots on Assembly Lines: In factories, AI-powered robots are now doing jobs like putting together parts, packing products, and checking quality. These tasks used to be done by people.
-Faster and Cheaper: Robots can work all day without breaks, making production faster and cheaper for companies.
-Job Changes: Some factory jobs are being replaced by robots, but new jobs are created for people who can program, operate, and fix these machines.
-2. Healthcare: AI for Diagnosing and Planning Treatments
+1. Manufacturing:
+
+3. Healthcare: AI for Diagnosing and Planning Treatments
 AI in Medical Scans: AI helps doctors by quickly and accurately analyzing medical scans like X-rays or MRIs. It can spot diseases like cancer earlier than humans sometimes can.
 Personalized Treatments: AI also helps create personalized treatment plans based on a patient’s unique medical history.
 Fewer Diagnostic Jobs: Some tasks that used to need human doctors or specialists can now be done by AI, but doctors still make the final decisions, so AI is more like an assistant.

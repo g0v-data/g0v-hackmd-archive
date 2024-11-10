@@ -12,6 +12,9 @@ https://www.facebook.com/share/p/wZ7du6VDn61YnadK/
 1976 加蓋照片
 https://time.udn.com/udntime/story/122835/7647810
 
+舊地圖
+https://www.facebook.com/share/p/15Juv8jpb8/
+
 南萬華寶興街上的堀仔頭水路小公園
 https://www.facebook.com/kuzitou
 https://www.facebook.com/share/p/VUF4CuvpyrmouCUv/

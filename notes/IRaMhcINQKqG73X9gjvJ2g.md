@@ -148,6 +148,32 @@ int main()
 </pre>
 ## 要先reverse and add 一次 再reverse檢查 這樣t(預設是0)=1 
 
+____
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ed583d894865072d58ca909b8a84d2a3.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_73637721f848784c7560ac1dc88ea401.png)
+<pre>
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	int t;
+	cin>>t;
+	while(t--)
+	{
+		int a,b;
+		cin>>a>>b;
+		if(b%a==0)
+			cout<<a<<" "<<b<<endl;
+		else
+			cout<<"-1"<<endl;
+	}
+	return 0;
+}
+
+</pre>
+
 
 
 

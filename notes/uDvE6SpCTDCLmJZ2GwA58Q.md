@@ -97,6 +97,8 @@ tags: 新生流域
     - 重要 照片 1950 新生大排 仁愛路口附近 https://www.facebook.com/photo.php?fbid=2375408632496687&vanity=FormosaMuseum&slug=a.129976463706593
     - 重要 照片 1960 新生大排 https://www.facebook.com/FormosaMuseum/photos/a.129976463706593/4722026494501544/?type=3&locale=hi_IN
     - 重要 照片 1965 安東街 霧裡薛圳 https://www.facebook.com/share/p/VTK2pBgvATxZ48Ck/
+    - 照片 圳路 復興北路？ https://www.facebook.com/share/p/19cmAfhpb5/
+        - https://m.facebook.com/groups/397196541387775/permalink/1198744387899649/
     - 照片 1964 敦化路 建築 https://www.facebook.com/share/p/dwAfRfRg5Wn3a3Fb/
     - 聖家堂 歷史 http://cl-design.com.tw/CL/image/web/catholic_web/about/brief_if.html
     - 照片 懷恩堂 https://memory.culture.tw/Home/Detail?Id=631088&IndexCode=online_metadata
