@@ -249,19 +249,13 @@ Unexpected Impact: We don’t know exactly how AI will change jobs in the future
 overview of how AI is replacing skilled jobs in different industries:
 
 1. Manufacturing:
-
+	1. efficiency : given the flexibility of ai and it's ability to flawlessly accomplishincredibly complex calculations in a matter of seconds (or less), as well as the widespread use of automated machinery operated/overseen by people, manufacturing aspects such as oversight of materials, any kind of measurements, assembly and creation of basic parts etc. are easily replaceable witth ai, which would drastically increase efficiency by eliminating the time needed to apply decisions or directions
+	2. individual workforce reduction: groups of workers responsible for various stages of manufactuing and different machines used, can be replaced with a small team of programmers responsible for setting up the ai and an emergency tech maintenance teams, which would reduce cost of employment and shorten the need for prolonged human involvement or hard/hazardous labour 
+	3. sorting : finding the necessary items/accounting for inventory or stock in a storage facility of any kind becomes a matter of simply requesting an ai to track an item wthin it's database 
+	4. overall output: ai-operated manufacturing facilities can function uninterruptedly day andd night, with consistent a
 3. Healthcare: AI for Diagnosing and Planning Treatments
-AI in Medical Scans: AI helps doctors by quickly and accurately analyzing medical scans like X-rays or MRIs. It can spot diseases like cancer earlier than humans sometimes can.
-Personalized Treatments: AI also helps create personalized treatment plans based on a patient’s unique medical history.
-Fewer Diagnostic Jobs: Some tasks that used to need human doctors or specialists can now be done by AI, but doctors still make the final decisions, so AI is more like an assistant.
 3. Finance: AI for Trading and Risk Assessment
-AI Trading: In finance, AI systems buy and sell stocks much faster than humans can. They analyze large amounts of financial data to make smart trades.
-Risk and Fraud Detection: AI helps banks assess risks and catch fraud by analyzing transactions and patterns.
-Fewer Finance Jobs: Some jobs in trading and data analysis are being replaced by AI, but there’s still a need for experts who can manage and improve these AI systems.
 4. Customer Service: Chatbots Instead of Human Agents
-Chatbots for Simple Queries: Companies use AI-powered chatbots to answer customer questions quickly and 24/7. They can handle a lot of basic tasks without needing a human.
-Personalized Responses: Chatbots can give personalized answers based on the customer’s past interactions.
-Fewer Human Agents: Many companies now need fewer customer service workers because chatbots can do most of the simpler tasks, though humans are still needed for more complex problems.
 
 
 
@@ -332,11 +326,6 @@ Learning New Skills: People will need to learn new skills to get these new jobs.
 3. Better Efficiency
 Faster and Smarter Work: Businesses will be able to get more work done because AI can handle the boring, repetitive tasks. This could lead to new ideas and products as people focus on more creative work.
 New Industries: AI might even create new industries and job opportunities that don’t exist yet.
-4. Risk of Job Loss and Inequality
-Bigger Wealth Gap: There’s a risk that AI will make rich people even richer, while some workers lose their jobs and struggle to find new work.
-Some Countries Might Fall Behind: Countries that don’t invest in AI technology might struggle economically compared to those that do.
-5. Need for Better Rules
-More Regulations: As AI becomes more important, there will need to be stronger rules to make sure it’s used safely and fairly. Governments and businesses will need to help workers who lose their jobs by offering training for new careers.
-Working with AI: The future will likely involve humans working together with AI, with AI doing routine tasks and people making important decisions and solving problems.
+4. 
+5. 
 6. Unpredictable Changes
-Unexpected Impact: We don’t know exactly how AI will change jobs in the future. Some industries will adjust better than others, and new technologies may create unexpected changes in the way we work.
