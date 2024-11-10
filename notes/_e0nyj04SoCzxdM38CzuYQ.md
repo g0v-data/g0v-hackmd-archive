@@ -130,9 +130,12 @@ http://dev.cofacts.tw/
 > 自動 spam 移除的「封鎖使用者」與發送 badge 的 API，都做成 GraphQL mutation 或 Open API ([feTS](https://the-guild.dev/openapi/fets))
 > 這些 API 直接用 Cloudflare Zero Trust 保護起來，必須持有 Cofacts 這裡另外交給呼叫者的 service token 才能存取（之前對 Cloudflare Zero Trust 的研究：https://g0v.hackmd.io/51wwLHgvSUqtBDaP-yAVnA#Alternative-Implement-using-Cloudflare-Zero-Trust）
 > 由於 Cofacts 這裡本來就有打算在 GraphQL API 這裡也用 api key 之類的機制保護起來的想法，想說先做在新的 endpoint 上試點，等較為熟練 + 時機成熟後再擴到大主要的 `/graphql` endpoint，好像也是個不錯的路徑。
-> 
+
+Docker ---> Cloudflare Tunnel --> 
 
 
 
 ## 「修改重發」功能
+
+
 
