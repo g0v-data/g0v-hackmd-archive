@@ -1,6 +1,6 @@
-<h1 dir="ltr" style="text-align: center;"><strong><span data-sheets-root="1">An Ho&agrave;ng</span></strong></h1>
-<p dir="ltr" style="text-align: center;"><span data-sheets-root="1"><img src="https://i.ibb.co/8n3XNHZ/ban-t.jpg" alt="ban-t" width="498" height="166" /></span></p>
-<p dir="ltr" style="text-align: center;"><a href="https://s6666.bid/author/anhoang/">An Ho&agrave;ng</a>&nbsp;l&agrave; đồng s&aacute;ng lập v&agrave; cố vấn t&agrave;i ch&iacute;nh của<a href="https://s6666.bid/">&nbsp;S6666</a>, đảm bảo sự minh bạch v&agrave; ổn định t&agrave;i ch&iacute;nh cho c&ocirc;ng ty. Với kiến thức s&acirc;u rộng trong ng&agrave;nh t&agrave;i ch&iacute;nh v&agrave; c&aacute; cược, anh g&oacute;p phần x&acirc;y dựng uy t&iacute;n cho S6666, tạo niềm tin vững chắc cho người chơi v&agrave; đối t&aacute;c.</p>
+<h1 dir="ltr" style="text-align: center;"><strong>An Ho&agrave;ng</strong></h1>
+<p dir="ltr" style="text-align: center;"><img src="https://i.ibb.co/8n3XNHZ/ban-t.jpg" alt="ban-t" width="498" height="166" /></p>
+<p dir="ltr" style="text-align: center;"><a href="https://s6666.bid/author/anhoang/">An Ho&agrave;ng</a>&nbsp;l&agrave; đồng s&aacute;ng lập v&agrave; cố vấn t&agrave;i ch&iacute;nh của&nbsp;<a href="https://s6666.bid/">S6666</a>, đảm bảo sự minh bạch v&agrave; ổn định t&agrave;i ch&iacute;nh cho c&ocirc;ng ty. Với kiến thức s&acirc;u rộng trong ng&agrave;nh t&agrave;i ch&iacute;nh v&agrave; c&aacute; cược, anh g&oacute;p phần x&acirc;y dựng uy t&iacute;n cho S6666, tạo niềm tin vững chắc cho người chơi v&agrave; đối t&aacute;c.</p>
 <p dir="ltr" style="text-align: center;">#s6666 #ceos6666 #authoranhoang #ceoanhoang&nbsp;</p>
 <p dir="ltr" style="text-align: center;"><strong>Th&ocirc;ng Tin Li&ecirc;n Hệ:&nbsp;</strong></p>
 <p dir="ltr" style="text-align: center;"><strong>Địa Chỉ:</strong>&nbsp;153 Tuệ Tĩnh,Quận Hai B&agrave; Trưng,H&agrave; Nội&nbsp;</p>
