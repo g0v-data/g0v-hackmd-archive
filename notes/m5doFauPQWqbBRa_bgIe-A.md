@@ -1,3 +1,7 @@
+---
+tags: jothon
+---
+
 # g0v 捐款追蹤碼
 
 [參考](https://neticrm.tw/resources/3784#a6)
