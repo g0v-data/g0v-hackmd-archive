@@ -41,3 +41,43 @@ int main()
 	return 0;
 }
 </pre>
+
+
+______
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8d4f378f74c41efa144a6f7cc21b4d48.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8e94e00e2894ac34c8d4a9d113a935af.png)
+<pre>
+#include<iostream>
+using namespace std;
+
+long long int calculate(int generation)
+{
+	if(generation==1)
+		return 1;
+	if(generation==2)
+		return 2;
+	long long int m=2;
+	long long int d=1;
+	long long int newm;
+	for(int i=3;i<=generation;i++)
+	{
+		newm=m+d;
+		d=m;
+		m=newm;
+	}
+	return newm;
+}
+
+int main()
+{
+	int generation;
+	while(cin>>generation)
+	{
+		if(generation==0)
+			break;
+		cout<<calculate(generation)<<endl;
+		
+	}
+	return 0;
+}
+</pre>
