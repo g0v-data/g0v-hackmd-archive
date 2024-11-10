@@ -81,3 +81,102 @@ int main()
 	return 0;
 }
 </pre>
+
+____![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b015358f543e8587259c825e5414e700.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_12fd8141225823304ae0f383a4119e8d.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_377aad09fbc2ff137577079b6df068b9.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e7bc861c026fdbdd8d050344108aef33.png)
+<pre>
+#include<iostream>
+using namespace std;
+
+
+bool symm(int num)
+{
+	int original=num;
+	int reverse=0;
+	while(num>0)
+	{
+		reverse=reverse*10+num%10;
+		num/=10;
+	}
+	return original==reverse;//成立即bool=true 
+}
+
+
+int reverse_and_add(int num)
+{
+	int reverse=0;
+	int original=num;
+	while(num>0)
+	{
+		reverse=reverse*10+num%10;
+		num/=10;		
+	}
+	return original+reverse;
+}
+
+
+void find(int num)
+{
+	int add=0;
+	
+	num = reverse_and_add(num);
+    add++;
+    
+	while(!symm(num))
+	{
+		num=reverse_and_add(num);
+		add++;
+	}
+	cout<<add<<" "<<num<<endl;
+}
+
+
+int main()
+{
+	int c;
+	cin>>c;
+	while(c--)
+	{
+		int A;
+		cin>>A;
+		find(A);
+	}
+	return 0;
+}
+</pre>
+## 要先reverse and add 一次 再reverse檢查 這樣t(預設是0)=1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
