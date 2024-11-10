@@ -217,9 +217,6 @@ Few Regulations: Right now, there aren’t many clear rules about how AI should 
 
 
 
-
-
-
 look at the future of AI replacing skilled jobs:
 
 1. More Jobs Done by AI
@@ -248,7 +245,7 @@ Unexpected Impact: We don’t know exactly how AI will change jobs in the future
 
 
 ---
-# NULLIFIED VER
+# Edited Version
 overview of how AI is replacing skilled jobs in different industries:
 
 1. Manufacturing:
