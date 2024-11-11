@@ -4,7 +4,7 @@ GA: UA-98468513-3
 ---
 
 
-20241110 會議記錄
+20241111 會議記錄
 =====
 
 :::info
@@ -131,7 +131,7 @@ http://dev.cofacts.tw/
 > 這些 API 直接用 Cloudflare Zero Trust 保護起來，必須持有 Cofacts 這裡另外交給呼叫者的 service token 才能存取（之前對 Cloudflare Zero Trust 的研究：https://g0v.hackmd.io/51wwLHgvSUqtBDaP-yAVnA#Alternative-Implement-using-Cloudflare-Zero-Trust）
 > 由於 Cofacts 這裡本來就有打算在 GraphQL API 這裡也用 api key 之類的機制保護起來的想法，想說先做在新的 endpoint 上試點，等較為熟練 + 時機成熟後再擴到大主要的 `/graphql` endpoint，好像也是個不錯的路徑。
 
-Docker ---> Cloudflare Tunnel --> 
+- rumors-api image --> [cloudflare tunnel](https://community.cloudflare.com/t/can-i-use-cloudflared-in-a-docker-compose-yml/407168/2) in docker-compose.yaml --> api.cofacts.tw
 
 
 
