@@ -196,9 +196,44 @@ int main()
 	return 0;
 }
 </pre>
+--------
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0cc2fefbb03e670445685ff3604111e4.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5c6fa4388cf3e7b7d23270e7f05fc414.png)
+<pre>
+
+#include<iostream>
+using namespace std;
 
 
+int find(int n)
+{
+	int total=0;
+	while(n!=0)
+	{
+		total+=n%10;
+		n/=10;
+	}
+	
+	if(total>=10)
+		return find(total);//注意是輸出結果 
+	else
+		return total;
+}
 
+
+int main()
+{
+	int n;
+	while(cin>>n)
+	{
+		if(n==0)
+			break;
+		cout<<find(n)<<endl;
+	}
+	return 0;
+}
+</pre>
+## 用while!=0挑數字
 
 
 
