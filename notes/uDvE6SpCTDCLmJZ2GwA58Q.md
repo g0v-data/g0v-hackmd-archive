@@ -18,9 +18,7 @@ tags: 新生流域
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1CdhA6uzy2euMGbMBCII5lEK-296XokkR&ehbc=2E312F" width=100% height="480"></iframe>
 
-### Todo
-
-當前與未來
+### 素材工作區：當前與未來
 - 新生南路水圳導覽活動 https://padlet.com/oht2023/oht-y3ft06hagz2ddi66
 - 中山北路菲律賓族裔生活街區 https://www.facebook.com/share/p/k6ZsETWejBeos2iX/
 - 捷運中和光復線，可能與新生大排重疊 https://www.facebook.com/share/p/vXxeA6Vs8Rm2yqcj/
@@ -39,7 +37,13 @@ tags: 新生流域
     - https://eng.water.gov.taipei/News_Content.aspx?n=4A8046A3D1F886F6&sms=2D72BAE25D4739AF&s=A4E62838557619CA
 - 台大管院附近的圍牆與舊水路 https://www.facebook.com/193313627448659/posts/pfbid0h84craT997K4CzBiimn8ZDoFN3kXNBNVtSjQP1aYMSkfAAkNvQ52XqyoS6TjZ5eTl/?mibextid=cr9u03
 
-歷史
+### 素材工作區：歷史素材與老照片
+
+#### FB 社團開一個歷史素材照片考究相簿 
+
+https://www.facebook.com/media/set?set=oa.409037272263694&type=3
+
+#### 歷史素材待指認並標記到地圖上
 - 大龍國小 考古遺址 https://www.facebook.com/share/p/ur8bQUwcWTGofBMi/
 - 大龍峒發現新石器時代的「訊塘埔文化遺址」
 - 歷史地圖https://www.facebook.com/share/p/ZHmx9jxcTKPgYpad/
@@ -96,6 +100,9 @@ tags: 新生流域
         - https://www.facebook.com/DigiSideEff/posts/pfbid08GY8QU7faTuxRf993LXTz4ybxRE7L8DozbRDXvS2z7BNCE3VcCxFWnF1h7CCKMgel
     - 重要 照片 1950 新生大排 仁愛路口附近 https://www.facebook.com/photo.php?fbid=2375408632496687&vanity=FormosaMuseum&slug=a.129976463706593
     - 重要 照片 1960 新生大排 https://www.facebook.com/FormosaMuseum/photos/a.129976463706593/4722026494501544/?type=3&locale=hi_IN
+    - 重要 照片 "1961台大新生南路側門塯公圳大溝前，背後是台大操場。" https://attach.mobile01.com/attach/201701/mobile01-fe216d16538e5c39f8c42b25e5673c13.jpg
+    - 重要 照片 "第二張是1963年" https://attach.mobile01.com/attach/201701/mobile01-671da6fed01e0f6c2ad3b0a867fc9439.jpg
+    - 重要 照片 新生南路?https://attach.mobile01.com/attach/201701/mobile01-87f2e6c61ab10ebbc764afb5d5ad74a0.jpg
     - 重要 照片 1965 安東街 霧裡薛圳 https://www.facebook.com/share/p/VTK2pBgvATxZ48Ck/
     - 重要 照片 安東街 圳路 https://www.facebook.com/share/p/17uSVRsafm/
         - 推測位置 安東街 5 號 https://maps.app.goo.gl/aMJYYRTntmvL5LPR8
@@ -110,12 +117,6 @@ tags: 新生流域
     - 照片 1953 新生國小前身三軍托兒所 https://www.facebook.com/share/whuZH4rg437vDpuk/
     - 重要 照片 1956 新生南路三段,海源冰店 便橋 https://m.mobile01.com/topicdetail.php?f=37&t=5053330
     - 新生北路 房舍 https://www.facebook.com/share/p/a6UWsAvP8GJV3tk3/
-    - 預計在 FB 社團開一個考究相簿 
-        - https://shulinkou.tripod.com/rlbenjo1.jpg
-        - https://www.mobile01.com/topicdetail.php?f=37&t=5053330
-        - https://matters.town/@tony100187/370090-%E5%B3%B6%E5%9C%96%E6%8B%BE%E5%BD%B1-01-%E5%8F%B0%E5%8C%97-%E5%A0%80%E5%B7%9D-1940-bafybeigmdjpg7no3sezpg2z45f3ytvfztqlar4ndqhlw7nx75jhzje6ski
-        - https://blog.udn.com/mobile/webman/22693317
-        - https://zh.m.wikipedia.org/zh-tw/File:Taipei_river_3.jpg
     - 照片 1957 基隆河與松山機場 https://www.facebook.com/photo?fbid=10156351515638618
     - 畫作 1985 顏水龍 基隆河畔 https://www.facebook.com/story.php?story_fbid=pfbid035synKUXtaaWfMzzndPsaVf75jUfdsbQDHzfwnEvd9hN66SBy6HUzrrhH4H8SNV2Yl&id=747873617
     - 1957-1958 影片 2:40、3:02、 https://youtu.be/D1-d3Pr8Teo
