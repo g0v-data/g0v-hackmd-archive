@@ -18,10 +18,14 @@ GA: UA-98468513-3
 ### :star: Released to production
 
 #### :electric_plug: API
-#### :globe_with_meridians: Site
-#### :robot_face: rumors-line-bot
+- Typescript admin script https://github.com/cofacts/rumors-api/releases/tag/release%2F20241107
 
 ### :rocket: Staging
+
+#### :electric_plug: API
+
+- https://github.com/cofacts/rumors-api/pull/351
+    - Regression of 
 
 #### :robot_face: rumors-line-bot
 
@@ -126,16 +130,52 @@ http://dev.cofacts.tw/
 本來自動 spam 移除的「封鎖某使用者」功能，是打算用 Google Pub/Sub 來避免開外部 API，使用 Google 帳號來管理誰能下該指令，但實作的過程覺得
 > - 開個 API 要要蓋 topic + subscription 感覺很囉唆
 > - 自動 spam 移除這個 use case 更像是 RPC 而非 message queue
+>
 > 所以想要 propose 一個新方式：
-> 自動 spam 移除的「封鎖使用者」與發送 badge 的 API，都做成 GraphQL mutation 或 Open API ([feTS](https://the-guild.dev/openapi/fets))
-> 這些 API 直接用 Cloudflare Zero Trust 保護起來，必須持有 Cofacts 這裡另外交給呼叫者的 service token 才能存取（之前對 Cloudflare Zero Trust 的研究：https://g0v.hackmd.io/51wwLHgvSUqtBDaP-yAVnA#Alternative-Implement-using-Cloudflare-Zero-Trust）
+> - 自動 spam 移除的「封鎖使用者」與發送 badge 的 API，都做成 GraphQL mutation 或 Open API ([feTS](https://the-guild.dev/openapi/fets))
+> - 這些 API 直接用 Cloudflare Zero Trust 保護起來，必須持有 Cofacts 這裡另外交給呼叫者的 service token 才能存取（之前對 Cloudflare Zero Trust 的研究：https://g0v.hackmd.io/51wwLHgvSUqtBDaP-yAVnA#Alternative-Implement-using-Cloudflare-Zero-Trust）
+>
 > 由於 Cofacts 這裡本來就有打算在 GraphQL API 這裡也用 api key 之類的機制保護起來的想法，想說先做在新的 endpoint 上試點，等較為熟練 + 時機成熟後再擴到大主要的 `/graphql` endpoint，好像也是個不錯的路徑。
+> [name=mrprz]
+>
+> badge 部分 可以來pilot這個沒問題 [name=EJ]
+> 我會偏好OpenAPI 這樣在ZeroTrust設特定endpoint需要service token會比較簡潔 [name=Alex2002]
+> 
+> 我這裡應該會直接讓 rumors-api 的 pm2 起另一台 nodejs http server 跑 OpenAPI
+然後直接用獨立的 admin-api.cofacts.tw 與 admin-dev-api.cofacts.tw 這兩個網域分別指到 production 與 staging 的 OpenAPI
+這樣要上 ZeroTrust 也不會影響現在的 api
+> [name=mrorz]
 
-- rumors-api image --> [cloudflare tunnel](https://community.cloudflare.com/t/can-i-use-cloudflared-in-a-docker-compose-yml/407168/2) in docker-compose.yaml --> api.cofacts.tw
-
-
+- rumors-api image --> [cloudflare tunnel](https://community.cloudflare.com/t/can-i-use-cloudflared-in-a-docker-compose-yml/407168/2) in docker-compose.yaml --> admin-api.cofacts.tw
+- Allow `cofacts.tw` emails & 
+- Admin API logs authorized user's JWT content (injected by Cloudflare) in console (and collect via GCP logging) --> audit logs
 
 ## 「修改重發」功能
 
+> 過去針對「編輯回應」有這些討論：https://g0v.hackmd.io/OC7BneJ3TEGJHge1hWV-0w#%E8%A8%8E%E8%AB%96%EF%BC%9A%E8%AE%93%E4%BD%9C%E8%80%85%E8%83%BD%E7%B7%A8%E8%BC%AF%E5%9B%9E%E6%87%89 （天啊 2020 年）
+>
+> 還開了[一張票](https://github.com/cofacts/rumors-api/issues/184)想要改 API，不外乎就是要解決
+> - 回應會被自己、被別人加到不同訊息下，此狀況下什麼樣的編輯算合理？
+> - 編輯後，針對舊文字的 feedback 怎麼辦？
+>
+> 因此，現在的 status quo 就是請使用者刪掉重發，這樣最單純。
+> 我覺得比起「編輯」，其實更容易做的是把「修改重發」自動化，也就是針對現有回應做出「更動」後，系統其實不會動原有的回應，而是
+> 1. 新增新的回應
+> 2. 把新的回應加到原有回應連結的訊息上（僅限作者自己加的）
+> 3. 把原有回應刪除（僅限作者自己加的）
+> 也就是現在查核協作者可以自行操作的動作，改成一鍵完成這樣。UX 細節如下：
+> - 回應作者在任何自己撰寫的回應上點擊「修改重發」，會被導向到該 reply 的 detail 頁面。
+> - reply detail 新增編輯模式，可修改「我認為」分類、內文與出處。
+> - 送出按鈕上面的用語為「修改重發」，前面說明文字簡述說，修改後的文案會同時套用到自己所連結的可疑訊息，也就是下方「此查核回應尚被用於以下的可疑訊息」列出的訊息中，由自己加的那些。
+> - 按下「修改重發」後，跳出彈窗列出那些會被套用的網傳訊息，以及確認按鈕。
+> - 按下確認後，彈窗顯示套用的進度，以及往新回應 detail 頁面的連結。
+>
+> 以上功能都可以用現有 API 做到，不用開新的欄位，只要改 rumors-site。
+> [name=mrorz]
 
 
+## 文宣
+
+- 在甦活有儲值
+    - 可以印這些 http://www.soho8d.com.tw/Form2/F101.aspx?scroll=1
+    - 可以印[衛生紙](http://www.soho8d.com.tw/Form2/F102.aspx?csubid=186)
