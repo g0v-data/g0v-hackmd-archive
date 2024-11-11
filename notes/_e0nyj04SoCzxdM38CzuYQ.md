@@ -147,3 +147,5 @@ Updated design doc: https://g0v.hackmd.io/BRsJOevWSbyUMBSZEVVWrA#Phase-2-Move-th
 - 在甦活有儲值
     - 可以印這些 http://www.soho8d.com.tw/Form2/F101.aspx?scroll=1
     - 可以印[衛生紙](http://www.soho8d.com.tw/Form2/F102.aspx?csubid=186)
+    - LOGO 貼紙
+    - 手拿布條
