@@ -161,19 +161,27 @@ Design doc 紀錄
 - 標 good first issue
 :::
 
-## 文宣
+## 文宣 / 印刷品
 
 - 在甦活有儲值
-    - 可以印這些 http://www.soho8d.com.tw/Form2/F101.aspx?scroll=1
-    - 可以印[衛生紙](http://www.soho8d.com.tw/Form2/F102.aspx?csubid=186)
-    - LOGO 貼紙 - 透明 http://www.soho8d.com.tw/Form2/F102.aspx?id=147
-    - Slogan 貼紙
-      - 脾氣糟的手機人
-      > 適時查核？
-      > ~~你是有捐錢膩~~
-      > 那你來查啊
-    - 手拿布條
-      - 攤位可用
-      - 60x150 10才
-      - 薄的 http://www.soho8d.com.tw/Form2/F102.aspx?id=557
-        - 畫布、帆布都太重
+  - 可以印這些 http://www.soho8d.com.tw/Form2/F101.aspx?scroll=1
+  - 可以印[衛生紙](http://www.soho8d.com.tw/Form2/F102.aspx?csubid=186)
+  - LOGO 貼紙 - 透明 http://www.soho8d.com.tw/Form2/F102.aspx?id=147
+  - Slogan 貼紙
+    - 脾氣糟的手機人
+    > 適時查核？
+    > ~~你是有捐錢膩~~
+    > 那你來查啊
+  - 手拿布條
+    - 攤位可用
+    - 60x150 10才
+    - 薄的 http://www.soho8d.com.tw/Form2/F102.aspx?id=557
+      - 畫布、帆布都太重
+  - 印春天 Cover photo 作為 banner
+    - [100~150dpi 即可](http://www.soho8d.com.tw/Form2/F102.aspx?id=557)
+
+:::success
+- 今年沒空，目標 RightsCon 前做完
+- 訂規格 --> 設計 --> 下單 --> 拿到東西
+- 明年看
+:::
