@@ -9,7 +9,8 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- NPO Hub 出席：Conrad, bil, mrorz
+- 線上出席：T, nonumpa, 4000
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -26,12 +27,6 @@ GA: UA-98468513-3
 
 - https://github.com/cofacts/rumors-api/pull/351
     - Regression of https://github.com/cofacts/rumors-api/pull/338/files
-
-### :eye: Under review
-
-## Badge 功能
-
-> EJ
 
 ## CCPRIP
 
@@ -100,6 +95,21 @@ GA: UA-98468513-3
 
 ### Phase 3 Automatic spam detection
 > @nonumpa
+> 
+
+pr preview
+
+https://github.com/nonumpa/UnityPluginSnippets/pull/2
+
+https://github.com/nonumpa/UnityPluginSnippets/pull/3
+
+- 指令直接打在 PR description 裡 OK
+- 不用表格
+- Sections:
+  - 使用者 + url
+  - List or table of 偵測到的內容 + 發布時間
+  - 違規樣態（用分類對應到固定的文案）
+  - 處置：原 footnote 內容
 
 ## [Infra] Migrate to GCE
 
@@ -117,6 +127,10 @@ Updated design doc: https://g0v.hackmd.io/BRsJOevWSbyUMBSZEVVWrA#Phase-2-Move-th
 - Connect with [auth proxy](https://cloud.google.com/sql/docs/mysql/connect-auth-proxy)
     - 現在 linode / vultr 就能用用看
     - 搬家之後資料仍然放 Cloud SQL，不會掉
+
+:::success
+Design doc 紀錄
+:::
 
 ## 「修改重發」功能
 
@@ -141,11 +155,25 @@ Updated design doc: https://g0v.hackmd.io/BRsJOevWSbyUMBSZEVVWrA#Phase-2-Move-th
 > 以上功能都可以用現有 API 做到，不用開新的欄位，只要改 rumors-site。
 > [name=mrorz]
 
+:::success
+- Figma mockup for edit UI + dialog
+- 開 rumos-site 的票放需求 & Figma
+- 標 good first issue
+:::
 
 ## 文宣
 
 - 在甦活有儲值
     - 可以印這些 http://www.soho8d.com.tw/Form2/F101.aspx?scroll=1
     - 可以印[衛生紙](http://www.soho8d.com.tw/Form2/F102.aspx?csubid=186)
-    - LOGO 貼紙
+    - LOGO 貼紙 - 透明 http://www.soho8d.com.tw/Form2/F102.aspx?id=147
+    - Slogan 貼紙
+      - 脾氣糟的手機人
+      > 適時查核？
+      > ~~你是有捐錢膩~~
+      > 那你來查啊
     - 手拿布條
+      - 攤位可用
+      - 60x150 10才
+      - 薄的 http://www.soho8d.com.tw/Form2/F102.aspx?id=557
+        - 畫布、帆布都太重
