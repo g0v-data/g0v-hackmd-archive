@@ -173,10 +173,29 @@ int main()
 }
 
 </pre>
+=============
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e65e9ec368d9a431b20036b9d18617cf.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_eb98c90fb79bacba6afed787c5e554f0.png)
+<pre>
 
+#include<iostream>
+using namespace std;
 
-
-
+int main()
+{
+	int a;
+	while(cin>>a)
+	{
+		if(a==0)
+			break;
+		else if(a<=100)
+			cout<<"f91("<<a<<") "<<"= "<<"91"<<endl;
+		else
+			cout<<"f91("<<a<<") "<<"= "<< a-10 <<endl;
+	}
+	return 0;
+}
+</pre>
 
 
 
