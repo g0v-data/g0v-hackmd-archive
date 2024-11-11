@@ -80,7 +80,7 @@ Benefits of Cloud Run:
   4. Production tw chatbot
   5. Production tw site
 
-
+:::spoiler 原始計畫（before 2024/11）
 #### Phase 2: move API sub-services into Cloud Run
 
 Steps include:
@@ -113,10 +113,29 @@ Note: GCP 發票
     - 但 Google cloud 銷售團隊也有直接寄信來聯繫這樣
 - 田中 https://tscloud.com.tw/product/gcp-billing
 - 宏庭 https://www.microfusion.cloud/news/google-cloud-billing/
+    :::info
+    Update: Cofacts 的 GCP 現在由 Cofacts 在 OCF 的捐款專戶支出，發票問題已經解決。
+    :::
 
-:::info
-Update: Cofacts 的 GCP 現在由 Cofacts 在 OCF 的捐款專戶支出，發票問題已經解決。
 :::
+
+
+#### Phase 2: Move the rest of services to GCE
+
+> Discussion: https://g0v.hackmd.io/Pq1xffBaQW69lGyrp7JFng#Infra-%E8%99%9B%E6%93%AC%E4%B8%BB%E6%A9%9F%E6%89%93%E7%B5%B1%E7%B7%A8
+
+Benefits
+- 台灣 instance, low latency & bandwidth
+    - IP 是國外，但 route 的時候應該還是走國內線路（anycast 技術）[name=ronny]
+    - Load balancer 與 GCP 管理可能無法登入 [name=ronny]
+- 用 Google 帳號管理 login：OS login [官方文件](https://cloud.google.com/compute/docs/oslogin)、[blog](https://medium.com/@kellenjohn175/how-to-guides-gcp-security-%E4%BB%A5-os-login-%E9%80%B2%E8%A1%8C%E8%A7%92%E8%89%B2%E7%99%BB%E5%85%A5%E7%9A%84%E6%AC%8A%E9%99%90%E6%8E%A7%E7%AE%A1-52e3c294b616)
+- 價錢沒比 VPS 貴很多
+
+計畫
+- [ ] Staging Vultr --> [E2 Medium](https://cloud.google.com/products/calculator?hl=en&dl=CjhDaVJqT1RjMFltVmxZeTA1WkRoaUxUUmhNVFF0WWpWbU1pMWhaVE0yWTJWak5tWTVaaklRQVE9PRAIGiQzOTA0OEYxQi01OTUzLTRBREYtQkYwNy03ODBBN0UwQjU3MUQ)
+    - 看看跑不跑得起來
+    - 摸索 SSH 登入管理、操作指令身份
+- [ ] Production Linode --> [C3D Standard 4](https://cloud.google.com/products/calculator?hl=en&dl=CjhDaVE1TW1ZM01qUmlNeTB6WVRWbExUUTBNR1V0T0dNeE5TMDNaVGN5WVRZMFpHSTBOV1lRQVE9PRAIGiQzOTA0OEYxQi01OTUzLTRBREYtQkYwNy03ODBBN0UwQjU3MUQ)
 
 ### DDoS defense with Cloudflare
 

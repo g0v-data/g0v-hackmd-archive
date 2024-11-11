@@ -29,9 +29,13 @@ GA: UA-98468513-3
 
 ### :eye: Under review
 
+## Badge 功能
+
+> EJ
+
 ## CCPRIP
 
-### [Op] 外部整合：external API
+### [Op] 外部整合：Admin API
 
 > 最近 Cofacts 有兩個與外部整合的功能：[自動 spam 移除](https://g0v.hackmd.io/@cofacts/rd/%2Fum7DyY_ESbu2LL78kLw3pg) 以及 Badge 發送功能，會需要「只有特定人能存取」的 API 需求
 本來自動 spam 移除的「封鎖某使用者」功能，是打算用 Google Pub/Sub 來避免開外部 API，使用 Google 帳號來管理誰能下該指令，但實作的過程覺得
@@ -73,11 +77,46 @@ GA: UA-98468513-3
     - POST `/moderation/blockedUser`: block a user (or update block info). Map to current `blockUser` script.
     - POST `/moderation/article/media`: replace the media of an article. Map to current `replaceMedia` script.
     - POST `/moderation/aiReply`: regenerate AI reply. Map to current `genAIReply` script.
-- `/badge` 系列：可發 badge 之組織持其 service token 存取
+- `/badge` 系列：可發 badge 之組織持其 service token 存取（僅供示意； 實際 endpoint 以 EJ 的 design doc 為準）
     - POST `/badge`: create or update badge
     - POST `/badge/user`: add a badge to the specified user
     - DELETE `/badge/user`: retract a badge from the specified user
 
+### [Op] spam removal automation
+
+
+> Design doc:  https://g0v.hackmd.io/@cofacts/rd/%2Fum7DyY_ESbu2LL78kLw3pg
+
+
+### Phase 1: Command ~~via Pub/Sub~~ via admin API
+
+> @mrorz
+
+- Rewrite https://github.com/cofacts/rumors-api/pull/337 to feTS server
+    - put server under `src/admin/index.ts`
+    - put moderation resolvers under `src/admin/moderation`
+- docker-compose: https://github.com/cofacts/rumors-deploy/pull/27/files
+- Update design doc to replace pubsub with API + cloudflared tunnel
+
+### Phase 3 Automatic spam detection
+> @nonumpa
+
+## [Infra] Migrate to GCE
+
+> https://g0v.hackmd.io/Pq1xffBaQW69lGyrp7JFng?both#Infra-%E8%99%9B%E6%93%AC%E4%B8%BB%E6%A9%9F%E6%89%93%E7%B5%B1%E7%B7%A8
+
+> Follow-up on migrating to GCE: 我發現 Container-Optimized OS 沒有 package manager、不能執行非 dockerized 的 script，也沒有內建的 dcoker-compose 感覺用起來很 hardcore
+> 我還是用普通的 debian 好了……XD
+> [name=mrorz]
+
+Updated design doc: https://g0v.hackmd.io/BRsJOevWSbyUMBSZEVVWrA#Phase-2-Move-the-rest-of-services-to-GCE
+
+## Langfuse
+
+- On GCE instance (dev or prd 機器) + 便宜的 [Google Cloud SQL](https://cloud.google.com/products/calculator?hl=en&dl=CjhDaVF6TVRFeFpHTTROaTA0TXprekxUUm1aVGd0T0ROak5pMW1PRGs1WTJReE56a3hNbUlRQVE9PRAHGiQ5QzU4RDlCRi1FOTg0LTQ4MzYtODJGRC05MTlEOUI0M0QxMjI)
+- Connect with [auth proxy](https://cloud.google.com/sql/docs/mysql/connect-auth-proxy)
+    - 現在 linode / vultr 就能用用看
+    - 搬家之後資料仍然放 Cloud SQL，不會掉
 
 ## 「修改重發」功能
 

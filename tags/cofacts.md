@@ -2,19 +2,19 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20241111 會議記錄](../notes/_e0nyj04SoCzxdM38CzuYQ.md) | 2024-11-11T15:42:22+08:00 | 2024-11-09T16:33:28+08:00 |
-| 2 | [Cofacts API access management](../notes/51wwLHgvSUqtBDaP-yAVnA.md) | 2024-11-08T14:15:08+08:00 | 2021-01-19T22:33:07+08:00 |
-| 3 | [20241104 會議記錄](../notes/Pq1xffBaQW69lGyrp7JFng.md) | 2024-11-05T11:29:57+08:00 | 2024-11-04T13:08:57+08:00 |
-| 4 | [20241031 會議記錄](../notes/FRecC3VUS7aGtUxUDglRxQ.md) | 2024-10-31T21:01:44+08:00 | 2024-10-31T11:50:32+08:00 |
-| 5 | [Cofacts DB Mapping](../notes/F1K20uFNSzivBPXsKdg30Q.md) | 2024-10-30T19:51:55+08:00 | 2020-05-07T16:37:21+08:00 |
-| 6 | [20241021 會議記錄](../notes/gSdjW2taRIWsT5EvMV6iPw.md) | 2024-10-27T13:53:04+08:00 | 2024-10-19T16:09:59+08:00 |
-| 7 | [20241007 會議記錄](../notes/8xZ5QdTqSDO9pKqmRwWMVw.md) | 2024-10-21T18:46:38+08:00 | 2024-10-07T01:02:59+08:00 |
-| 8 | [20240923 會議記錄](../notes/yV0cJFs4R4iQ--83MR7HEQ.md) | 2024-10-21T02:23:28+08:00 | 2024-09-23T00:44:11+08:00 |
-| 9 | [Cofacts / Open165 hackath63n 協作頁面](../notes/7UzK_kfzRWOcmJrXc7bxfA.md) | 2024-10-04T14:18:45+08:00 | 2024-09-27T00:58:41+08:00 |
-| 10 | [20240930 會議記錄](../notes/i1XNmK5_ShuBrkf3KHabcQ.md) | 2024-10-04T13:54:27+08:00 | 2024-09-30T00:22:14+08:00 |
-| 11 | [20240916 會議記錄](../notes/UHKMm7h_QIe5EB4Z0cGQ3g.md) | 2024-09-23T00:45:04+08:00 | 2024-09-15T14:46:48+08:00 |
-| 12 | [20240909 會議記錄](../notes/ksMifVOaTLCzI6QNw6Q-9A.md) | 2024-09-16T19:42:50+08:00 | 2024-09-08T16:31:30+08:00 |
-| 13 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-09-15T14:25:31+08:00 | 2022-08-05T10:46:53+08:00 |
+| 1 | [20241111 會議記錄](../notes/_e0nyj04SoCzxdM38CzuYQ.md) | 2024-11-11T16:52:18+08:00 | 2024-11-09T16:33:28+08:00 |
+| 2 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-11-11T16:41:44+08:00 | 2022-08-05T10:46:53+08:00 |
+| 3 | [Cofacts API access management](../notes/51wwLHgvSUqtBDaP-yAVnA.md) | 2024-11-08T14:15:08+08:00 | 2021-01-19T22:33:07+08:00 |
+| 4 | [20241104 會議記錄](../notes/Pq1xffBaQW69lGyrp7JFng.md) | 2024-11-05T11:29:57+08:00 | 2024-11-04T13:08:57+08:00 |
+| 5 | [20241031 會議記錄](../notes/FRecC3VUS7aGtUxUDglRxQ.md) | 2024-10-31T21:01:44+08:00 | 2024-10-31T11:50:32+08:00 |
+| 6 | [Cofacts DB Mapping](../notes/F1K20uFNSzivBPXsKdg30Q.md) | 2024-10-30T19:51:55+08:00 | 2020-05-07T16:37:21+08:00 |
+| 7 | [20241021 會議記錄](../notes/gSdjW2taRIWsT5EvMV6iPw.md) | 2024-10-27T13:53:04+08:00 | 2024-10-19T16:09:59+08:00 |
+| 8 | [20241007 會議記錄](../notes/8xZ5QdTqSDO9pKqmRwWMVw.md) | 2024-10-21T18:46:38+08:00 | 2024-10-07T01:02:59+08:00 |
+| 9 | [20240923 會議記錄](../notes/yV0cJFs4R4iQ--83MR7HEQ.md) | 2024-10-21T02:23:28+08:00 | 2024-09-23T00:44:11+08:00 |
+| 10 | [Cofacts / Open165 hackath63n 協作頁面](../notes/7UzK_kfzRWOcmJrXc7bxfA.md) | 2024-10-04T14:18:45+08:00 | 2024-09-27T00:58:41+08:00 |
+| 11 | [20240930 會議記錄](../notes/i1XNmK5_ShuBrkf3KHabcQ.md) | 2024-10-04T13:54:27+08:00 | 2024-09-30T00:22:14+08:00 |
+| 12 | [20240916 會議記錄](../notes/UHKMm7h_QIe5EB4Z0cGQ3g.md) | 2024-09-23T00:45:04+08:00 | 2024-09-15T14:46:48+08:00 |
+| 13 | [20240909 會議記錄](../notes/ksMifVOaTLCzI6QNw6Q-9A.md) | 2024-09-16T19:42:50+08:00 | 2024-09-08T16:31:30+08:00 |
 | 14 | [20240902 會議記錄](../notes/IrRBabPXQBOVQTjSNlIdwg.md) | 2024-09-09T10:07:08+08:00 | 2024-09-01T13:38:27+08:00 |
 | 15 | [20240826 會議記錄](../notes/XouQwVKZSRyGlVpivLSmBA.md) | 2024-08-26T20:33:59+08:00 | 2024-08-26T13:24:39+08:00 |
 | 16 | [20240821 會議記錄](../notes/bYvysQMGQPexpuAdcQamEQ.md) | 2024-08-21T20:36:19+08:00 | 2024-08-20T21:54:19+08:00 |
