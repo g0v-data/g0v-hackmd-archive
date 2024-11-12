@@ -5,7 +5,7 @@ tags: vtaiwan
 時間 Time ：19:00-20:30
 地點 Location ：線上 Online
 參與者 Participants: 
-線上參與連結 / Link：https://meet.jit.si/vTaiwa
+線上參與連結 / Link：https://meet.jit.si/vtaiwan
 :::success
 下週三（11/13) 小松暫停一次，討論事項會在
 :::

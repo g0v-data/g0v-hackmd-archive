@@ -1,0 +1,6 @@
+<h1 style="text-align: center;"><strong>Enhance Your Craft with LensDigital&rsquo;s Rotary Laser Engraver Solutions</strong></h1>
+<p><img src="https://i0.wp.com/lensdigital.com/wp-content/uploads/2024/08/full-grip-product-vew-01.png?fit=1920%2C1080&amp;ssl=1" width="458" height="258" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Laser engraving has never been easier or more versatile with LensDigital&rsquo;s PiBurn rotary attachments. The PiBurn laser rotary attachment seamlessly integrates with your laser engraver, enabling you to create detailed designs on cylindrical objects. From personalized glassware to unique metalwork, the PiBurn rotary provides precision and ease, making it an essential tool for any engraving enthusiast.</p>
+<p></p>
+<p>With the PiBurn 4.0 and PiBurn Grip rotary attachments, LensDigital pushes the boundaries of laser engraver technology. These attachments offer secure handling for a variety of materials, ensuring accuracy with every rotation. The <a href="https://lensdigital.com/product/piburn-grip/" target="_blank" rel="noopener"><strong>Grip laser</strong></a> function keeps objects in place, allowing users to produce professional-quality engravings effortlessly. Elevate your laser engraver with the trusted solutions from LensDigital.</p>
+<p></p>
