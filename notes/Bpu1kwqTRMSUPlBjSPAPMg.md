@@ -1,9 +1,9 @@
-NET88 luôn được lựa chọn hàng đầu khi các cược thủ Việt muốn trải nghiệm cá cược thể thao hay tham gia live casino. Với chất lượng sắc nét, dịch vụ phục vụ tận tình, trang chủ NET88 mang đến một trải nghiệm hài lòng tuyệt đối cho tất cả mọi thành viên. Đăng ký tài khoản ngay hôm nay để nhận 88K đến 888K trải nghiệm mọi trò chơi tại đây nhé.
+[NET88](https://net88.ae/) luôn được lựa chọn hàng đầu khi các cược thủ Việt muốn trải nghiệm cá cược thể thao hay tham gia live casino. Với chất lượng sắc nét, dịch vụ phục vụ tận tình, trang chủ NET88 mang đến một trải nghiệm hài lòng tuyệt đối cho tất cả mọi thành viên. Đăng ký tài khoản ngay hôm nay để nhận 88K đến 888K trải nghiệm mọi trò chơi tại đây nhé.
  
 Địa chỉ: Số 68 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Hồ Chí Minh 
 Phone: 0988666224 
 Email: net88ae@gmail.com 
-Website: http://new88.ae/ 
+Website: https://net88.ae/
 Hastags: #net88 #net88ae #nhacainet88 #linknet88
 https://3dwarehouse.sketchup.com/user/8e3fde18-99f0-4d2b-ab3f-01b3d8099187/NET88-AE
 https://heylink.me/net88ae/
