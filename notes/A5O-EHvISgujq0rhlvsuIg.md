@@ -69,7 +69,6 @@ Robotics combines AI with physical machines to perform tasks with precision and 
 
 
 
-
 # Slide 4: Industries Affected (4 minutes) *Ana*
 •	Manufacturing: Use of robots in assembly lines.
 •	Healthcare: AI in diagnostics and treatment planning.
@@ -111,7 +110,7 @@ The expected evolvement of the workforce in the future:
 * about 2 Million manufacturing workers will be replaced **by 2025**, most of the jobs by robots but some by AI tools that we don't even know yet (according to: MIT/Boston University)
 * over 7.5 million data entry jobs will be lost **by 2027** (WEF)
 * 14% of the global workforce (375 million people) will be forced to change their career **by 2030** (McKinsey)
-    * this study did not yet consider AGI (Artificial Generated Intelligence) and needs to be updated
+    * this study needs to be updated due to scientific developments
 * over 300 million jobs might be replaced by AI entirely (Goldman Sachs via BBC)
     * that would be the equivalent of 1/4 of the work tasks in Europe and the US
     * examples of professions that will probably face lower wages due to the competition that AGI-models create
@@ -137,6 +136,19 @@ In a future where AGI can perform any job more efficiently than humans, should w
 •	Job Transformation vs. Job Replacement: New roles emerging in AI oversight and maintenance.
 •	Continuous Learning: Importance of upskilling and reskilling.
 •	Collaboration between Humans and AI: Hybrid work environments.
+
+**Artificial General Intelligence (AGI)** is a form of artificial intelligence that has the capability to perform any intellectual task that a human can do, with the ability to generalize knowledge across different domains. Unlike narrow AI, which is specialized for specific tasks (like playing chess or recognizing faces), AGI possesses a generalized intelligence, allowing it to understand, learn, and apply knowledge in ways comparable to human cognitive abilities.
+
+**Key Characteristics of AGI**
+- Generalization: AGI can transfer knowledge and skills learned in one context to entirely different tasks or domains, just as humans can.
+- Adaptability: It can handle a wide variety of complex problems without needing retraining or reprogramming.
+- Autonomy: AGI systems can make independent decisions based on logic, reasoning, and an understanding of their environment.
+- Learning Capability: It can learn and improve its performance on new and unfamiliar tasks over time without extensive human intervention.
+
+**Current Status**
+AGI is still theoretical and does not yet exist. Today’s AI systems are examples of Narrow AI, which excel at specific tasks but lack the generalization and adaptability of AGI. Researchers are working toward AGI by advancing machine learning, neural networks, and cognitive modeling, but significant challenges remain.
+
+
 
 # Slide 9: Conclusion (2 minutes) ??
 •	Summary of Key Points: Impact on industries, benefits, challenges, and future prospects.
