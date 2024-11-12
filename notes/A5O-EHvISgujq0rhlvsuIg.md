@@ -38,6 +38,9 @@ The next major shift occurred with the Industrial Revolution in recent centuries
 
 At present, human society favours intellectual labour over physical almost in it's entirety. Additionally, businesses are adapting to the digital age that we live in, with a focus on automation, data analytics, and artificial intelligence. So now even the position of overseeing machines and making executive decisions and calculations is being automated through AI. 
 
+- machinery had begun aiding and replacing people in direct manual work ever since the industrial evolution
+- explanation: consistency and efficiency with which machines are able to operate 
+-  This tendency saw a drastic expansion at the start of the 21st century (the third industrial revolution), with the creation of the internet and worldwde-scale digitalisation and globalisation of trade creating an ever-increasing demand for mass-production. However, most of the machinery actively involved in labor, to this day, requires a human operator or supervisor, with applicable qualifications depending on the given field. However, with the rise of ai human involvement in machine operation may eventually become obsolete, outside of monitoring and occasional repairs. But what exactly enables ai to partially or completely replace a human operator? 
 
 
 # Slide 3: AI Technologies Impacting Skilled Labor (3 minutes) *Vee*
@@ -46,23 +49,25 @@ At present, human society favours intellectual labour over physical almost in it
 •	Natural Language Processing: Chatbots, content generation, etc.
 
 
-- machinery had begun aiding and replacing people in direct manual work ever since the industrial evolution
-- explanation: consistency and efficiency with which machines are able to operate 
--  This tendency saw a drastic expansion at the start of the 21st century (the third industrial revolution), with the creation of the internet and worldwde-scale digitalisation and globalisation of trade creating an ever-increasing demand for mass-production. However, most of the machinery actively involved in labor, to this day, requires a human operator or supervisor, with applicable qualifications depending on the given field. However, with the rise of ai human involvement in machine operation may eventually become obsolete, outside of monitoring and occasional repairs. But what exactly enables ai to partially or completely replace a human operator? 
-
-
 Until fairly recently, the possibility of ai replacing people entirely has been absolutely inconceivable, due to the many limitations of an algorythm-based ai, which is only capable of following pre-programmed pathways, give out pre-made answers or follow an already existing sequence. 
 However, within the last decade a new kind of ai has emerged: neuralnetworks. Neuralnetworks are ai programs that seek to immitate the function of the human brain, through extensive chains of "neurons", or "nodes" that guide it's decision-making process. In it's core, this kind of program, too, is an algorythm, however it's main focus is pattern recognition and matching a prompt that it is given with similiarities recorded within it's database. Because of this, programs based on this principle require massive amounts of data in order to function well, or at all, however, as mentioned prior another vital component to their operation is processing power - which enables them to actually do the calculation and recognize certain patterns. 
 Note, that ai DOES NOT CREATE anything new when giving a response, it is only able to utilise what is contained within it's database!
 Because of this, one may compare, for example, a chatbot, to an advanced search-engine, that compiles what it is able to find in it's memory and puts it into a response it deems best/most accurate to what is requested. 
 
-
-~~When it comes to automation, these bots, called "language models", definitely posses a degree of relevance. The limited capacity to imitate learning enables large languagemodels to be incredibly flexible when it comes to managing machinery, as an example in case of a malfunction, the ai can detect it, reference a previously recorded case of a similiar hinderance and in accordance with the results find a way to handle the situation until intervention is possible. One can also think of usage in information search: such as searching an expansive reserve of medical knowledge for specific facts, or enabling automated customer support in cases where the request is not complex or unexampled. 
-It is also worth to note that given the capacity for flawless calculation and ability to strictly follow a set command, means that a well-built languagemodel can complete complex calculations or tasks involving copius amounts of numbers under different categories.
-
+## Machine Learning: How algorithms analyze data and make decisions 
+Machine Learning, or ML, is a core part of AI that allows computers to learn from data and improve their performance over time without being explicitly programmed. Algorithms in ML identify patterns in large datasets, enabling them to make predictions or decisions. For example, ML powers recommendation systems on platforms like Netflix and Amazon, where it analyzes your preferences to suggest content or products tailored to you. Beyond entertainment, ML is used in critical areas like medical diagnostics, fraud detection, and financial forecasting. The more data these systems are exposed to, the smarter and more accurate they become.
 
 ChatGPT took an IQ-test with a result of 155
 -> higher result than 99.9% of the test takers had
+
+**Deep Learning:** A subset of ML that uses neural networks to process data in complex ways, enabling tasks like image and speech recognition.
+**Natural Language Processing (NLP):** Allows AI to understand and interact in human language, making applications like chatbots and translation tools possible.
+**Computer Vision:** Enables machines to interpret and make decisions based on visual inputs, like images or video feeds.
+
+## Robotics: Automation in manufacturing, surgery, etc. (45 seconds)
+Robotics combines AI with physical machines to perform tasks with precision and efficiency. In manufacturing, robots have revolutionized production lines, handling repetitive and hazardous tasks faster and more accurately than humans. This has boosted productivity while reducing workplace injuries. In medicine, robotic systems like the Da Vinci Surgical System assist surgeons in performing minimally invasive procedures with enhanced accuracy, resulting in faster recovery times for patients. Robotics is not just about efficiency; it’s about enabling capabilities that were once impossible for humans alone.
+
+
 
 
 # Slide 4: Industries Affected (4 minutes) *Ana*
@@ -126,10 +131,13 @@ Practically every job involves some tasks that are vulnerable to being automated
 # Discussion 
 In a future where AGI can perform any job more efficiently than humans, should we consider limiting its applications to protect human livelihoods, or is it time to fundamentally redefine what 'work' means in society?
 --> open discussion
+
+
 # Slide 8: Future Outlook (2 minutes) *Ana*
 •	Job Transformation vs. Job Replacement: New roles emerging in AI oversight and maintenance.
 •	Continuous Learning: Importance of upskilling and reskilling.
 •	Collaboration between Humans and AI: Hybrid work environments.
+
 # Slide 9: Conclusion (2 minutes) ??
 •	Summary of Key Points: Impact on industries, benefits, challenges, and future prospects.
 •	Call to Action: Encourage proactive adaptation to AI advancements.
