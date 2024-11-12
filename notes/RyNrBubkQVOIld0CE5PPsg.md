@@ -5,5 +5,5 @@
 目前狀態：
 1. 運用 tabula 轉換成文字格式 - https://github.com/kiang/moeaea.gov.tw/tree/master/raw/solar_tabula_csv
     * 因為原始資料大量使用合併儲存格，所以每一頁的第一行如果沒有上方框線就會被程式跳過，導致需要人工進行調整
-    * 
 2. 發現 DoEnergy 已經有完整資料，去信詢問能否釋出 - https://public.tableau.com/app/profile/doenergy/viz/1121001ver_17037355960920/2
+3. [在 data.gov.tw 提出請求](https://data.gov.tw/suggests/136911)
