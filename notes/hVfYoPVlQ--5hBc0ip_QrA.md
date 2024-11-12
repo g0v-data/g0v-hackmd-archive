@@ -5,6 +5,7 @@ tags: GIS
 # 環境演變歷程：文本蒐集
 
 待分類單則內容
+- 灘塗變化 https://www.facebook.com/share/p/1DXZa34BLV/
 - https://www.facebook.com/story.php?story_fbid=pfbid037EK5MobrhnRwtgiHHFnLYwvpWmEPNb4qyyyHUHhsjiyyTDArk6LRiLR51Rh3nWw9l&id=100002942372884
 - 8 萬年前的陸塊 https://www.facebook.com/story.php?story_fbid=pfbid02LPfrtEyPfNbE76VJgA3gqfiLjjTwQbbaZaH8ZQBhbsoNvtrPAsADq8bBQAHArYNol&id=617714802&mibextid=tejx2t
 
