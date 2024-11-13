@@ -1,9 +1,9 @@
-<p><a href="https://iwinff.com">IWIN68</a> là một cổng game đổi thưởng đẳng cấp và được bình chọn là một trong những nhà cái uy tín nhất tại thị trường châu Á. Với mục tiêu mang đến trải nghiệm giải trí đỉnh cao của sòng bạc thượng lưu “thứ thiệt”, iwin68 không ngừng phát triển và cải tiến các sản phẩm cược và dịch vụ hỗ trợ khách hàng.<p>
-<p>#Iwin68club #conggameiwin68club #iwinffcom #dangkyiwin68club #dangnhapiwin68club<p>
+<p><a href="https://iwinff.com">iwin club</a> - Cổng game đổi thưởng uy tín giành cho giới thượng lưu được bình chọn là 1 trong những cổng game bài xanh chín nhất thị trường Châu Á thời điểm hiện tại. <p>
+<p>#iwin #dangkyiwin #dangnhapiwin #linkiwin #trangchuiwin #iwinclub<p>
 <p>Thông tin liên hệ:<p>
-<p>- Địa chỉ: 163 Dương Đức Hiền, Hoà Minh, Liên Chiểu, Đà Nẵng, Việt Nam<p>
-<p>- Số Điện Thoại: 0778427910<p>
-<p>- Email: iwinff.com@gmail.com<p>
+<p>- Địa chỉ: 91A Hoàng Hoa Thám, Phường 6, Quận Bình Thạnh, Thành phố Hồ Chí Minh<p>
+<p>- Số Điện Thoại: 1-680-1868<p>
+<p>- Email: iwinff.com@iwinff.com<p>
 <p>- Website: <a href="https://iwinff.com">https://iwinff.com</a><p>
 <p>Socials:<p>
 <p>- <a href="https://www.facebook.com/iwinffcom/">https://www.facebook.com/iwinffcom/</a><p>
