@@ -23,3 +23,6 @@
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c805e79cfa5ff9b9943cc182a7c0d0e7.png =30%x)
 
 接下來要利用已有的表格生成standard ultimate life table協助後續的價格估算
+下圖是會用到的基本符號
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_378188414c7fec6d79bc16b49289ce56.jpg =40%x)
+
