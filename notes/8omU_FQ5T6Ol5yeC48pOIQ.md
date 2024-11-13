@@ -6,8 +6,6 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 [TOC]
 :::
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7acf80ff06ec82b16228fc36ef8a42aa.png)
-
 #### 常用連結
 https://tbb.apps.digiwincloud.com/index.html#/account/login
 7-Zip https://www.7-zip.org/a/7z2301-x64.exe
