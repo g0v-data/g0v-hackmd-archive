@@ -44,23 +44,20 @@ At present, human society favours intellectual labour over physical almost in it
 
 
 # Slide 3: AI Technologies Impacting Skilled Labor (3 minutes) *Vee*
-•	Machine Learning: How algorithms analyze data and make decisions.
-•	Robotics: Automation in manufacturing, surgery, etc.
-•	Natural Language Processing: Chatbots, content generation, etc.
-
-
+•	
 Until fairly recently, the possibility of ai replacing people entirely has been absolutely inconceivable, due to the many limitations of an algorythm-based ai, which is only capable of following pre-programmed pathways, give out pre-made answers or follow an already existing sequence. 
-However, within the last decade a new kind of ai has emerged: neuralnetworks. Neuralnetworks are ai programs that seek to immitate the function of the human brain, through extensive chains of "neurons", or "nodes" that guide it's decision-making process. In it's core, this kind of program, too, is an algorythm, however it's main focus is pattern recognition and matching a prompt that it is given with similiarities recorded within it's database. Because of this, programs based on this principle require massive amounts of data in order to function well, or at all, however, as mentioned prior another vital component to their operation is processing power - which enables them to actually do the calculation and recognize certain patterns. 
-Note, that ai DOES NOT CREATE anything new when giving a response, it is only able to utilise what is contained within it's database!
-Because of this, one may compare, for example, a chatbot, to an advanced search-engine, that compiles what it is able to find in it's memory and puts it into a response it deems best/most accurate to what is requested. 
+However, within the last decade a new kind of ai has emerged: 
 
 ## Machine Learning: How algorithms analyze data and make decisions 
-Machine Learning, or ML, is a core part of AI that allows computers to learn from data and improve their performance over time without being explicitly programmed. Algorithms in ML identify patterns in large datasets, enabling them to make predictions or decisions. For example, ML powers recommendation systems on platforms like Netflix and Amazon, where it analyzes your preferences to suggest content or products tailored to you. Beyond entertainment, ML is used in critical areas like medical diagnostics, fraud detection, and financial forecasting. The more data these systems are exposed to, the smarter and more accurate they become.
+**Machine Learning** is a core part of AI that allows computers to learn from data and improve their performance over time without being explicitly programmed. Algorithms in ML identify patterns in large datasets, enabling them to make predictions or decisions. For example, ML powers recommendation systems on platforms like Netflix and Amazon, where it analyzes your preferences to suggest content or products tailored to you. Beyond entertainment, ML is used in critical areas like medical diagnostics, fraud detection, and financial forecasting. The more data these systems are exposed to, the smarter and more accurate they become.
 
 ChatGPT took an IQ-test with a result of 155
 -> higher result than 99.9% of the test takers had
 
-**Deep Learning:** A subset of ML that uses neural networks to process data in complex ways, enabling tasks like image and speech recognition.
+**Deep Learning:** A subset of ML that uses neural networks to process data in complex ways, enabling tasks like image and speech recognition. 
+**Neuralnetworks** are ai programs that seek to immitate the function of the human brain, through extensive chains of "neurons", or "nodes" that guide it's decision-making process. In it's core, this kind of program, too, is an algorythm, however it's main focus is pattern recognition and matching a prompt that it is given with similiarities recorded within it's database. Because of this, programs based on this principle require massive amounts of data in order to function well, or at all, however, as mentioned prior another vital component to their operation is processing power - which enables them to actually do the calculation and recognize certain patterns. 
+Note, that ai DOES NOT CREATE anything new when giving a response, it is only able to utilise what is contained within it's database!
+Because of this, one may compare, for example, a chatbot, to an advanced search-engine, that compiles what it is able to find in it's memory and puts it into a response it deems best/most accurate to what is requested. 
 **Natural Language Processing (NLP):** Allows AI to understand and interact in human language, making applications like chatbots and translation tools possible.
 **Computer Vision:** Enables machines to interpret and make decisions based on visual inputs, like images or video feeds.
 
