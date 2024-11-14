@@ -503,3 +503,106 @@ void print(int c[])
 
 
 </pre>
+=======
+======
+========
+=======
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_814916fa4a6b1e21e4f97db05c639dee.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5acdc59a6d7c537e48b6ee11767fa48e.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_404aa0b127764d620786977e6bc74568.png)
+<pre>
+
+#include<iostream>
+using namespace std;
+
+
+void seperate(int n, int c[]);
+int isValid(int c[]);//1-> 0->wrong 
+int guess(int p[]);
+void match(int g,int a,int AB[]);
+
+int main()
+{
+	int your_ans,com_guess,com_AB[2],tmp_AB[2],i;
+	do{
+		cout<<"input your answer";
+		cin>>your_ans;
+	}while(isValid(your_answer)==0);//錯的話就再問一次 
+	
+	
+	int pool[10000],i;
+	for(i=0;i<10000;i++)
+		pool[i]=isValid(i);//對應 0,1位置 
+		
+	do{//可能的標一，不可能標0 
+		com_guess = guess(pool);
+		match(com_guess,your_ans,com_AB);//回傳幾a幾b 
+		cout<<com_guess<<":"<<com_AB[0]<<"A"<<com_AB[1]<<"B"<<endl;
+		//update pool
+		for(i=0;i<10000;i++)//殺不掉的 
+		{
+			if(pool[i]==1)
+			{
+				match(com_guess,u,tmp_AB);
+				if(tmp_AB[0]!=com_AB[0])||tmp_AB[1]!=com_AB[1])
+					pool[i]=0;	
+			}	
+		}
+		
+	}while(com_AB[0]!=4);//	猜到四a 之前 一直重複 
+		
+	return 0;
+}
+
+
+void seperate(int n, int c[])//分成四位數 
+{
+	c[0] = n/1000;
+	c[1] = n%1000/100;
+	c[2] = n%100/10;
+	c[3] = n%10;
+}
+
+int isValid(int n)
+{
+	if(n>10000||n<0)
+		return 0;
+	int d[4];
+	seperate(n,d);
+	if(d[0]==d[1]||d[0]==d[2]||d[0]==d[3]||d[1]==d[2]||d[1]==d[3]||d[3]==d[2])
+		return 0;
+	else
+		return 1;
+	
+}
+
+int guess(int p[])//optional
+{
+	int i = 0;
+	while(p[i]==0)
+		i++;
+	return i;
+}
+
+void match(int g, int a, int AB[])
+{
+	int gd[4],ad[4];
+	sep(g,gd);
+	sep(a,ad);
+	AB[0]=0;
+	AB[1]=0;
+	for(m=0;m<4;m++)
+	{
+		for(n=0;n<4;n++)
+		{
+			if(gd[m]==ad[n])
+			{
+				if(m=n)
+					AB[0]++;
+				else
+					AB[1]++;
+			}
+		}
+	}
+}
+</pre>
