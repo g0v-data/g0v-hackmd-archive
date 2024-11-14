@@ -414,3 +414,92 @@ int C(int m,int n)//c m取n =c(m-1)取n + c(m-1)取n-1
 }
 </pre>
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5a59bb22e34e59cb25d75ea6c04e8275.png)
+
+_____
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_94e06cc16b88666d9b5f11e106d5873b.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_72929871eb6916f51565645900e186db.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8afebfcdc3c7f63b00fb8c7a631c12c8.png)
+
+<pre>
+
+#include<iostream>
+#include<stdlib.h>//用在srand 
+#include<time.h>//用在srand:time 
+using namespace std;
+
+
+void initialize(int c[]);
+void wash(int c[]);
+void print(int c[]);
+
+
+int main()
+{
+	int cards[52],i;
+	srand(time(NULL));//使每次結果不一樣 
+	for(i=0;i<=52;i++)
+		cards[i]=i;//array 第一個是0 
+		initialize(cards);
+		wash(cards);
+		print(cards);
+	return 0;
+}
+
+void initialize(int c[]);
+{
+	int i;
+	for(i=0;i<52;i++)
+		c[i]=i;
+}
+
+void wash(int c[])
+{
+	int i,m,n,tmp;
+	for(i=0;i<1000;i++)//換1000次 
+	{
+		m = rand()%52;
+		n = rand()%52;
+		//c[m] <-> c[n] 
+		//隨機挑兩個互換 
+		tmp=c[m];
+		c[m]= c[n];
+		c[n]=tmp;
+	}
+}
+
+
+void print(int c[])
+{
+	int n,f,d;
+	for(int i=0;i<13;i++)
+	{
+		n=c[i];
+		f=n/13;//0~3
+		d=n%13+1;//1~13
+		if(f==0)
+			cout<<"square";
+		else if(f==1)
+			cout<<"heart";
+		else if(f==2)
+			cout<<"diamond";
+		else
+			cout<<"C";
+			
+		if(d==0)
+			cout<<"A";
+		else if(d==11)
+			cout<<"J";
+		else if(d==12)
+			cout<<"Q";
+		else if(d==13)
+			cout<<"K";
+		else
+			cout<<d;
+		cout<<" ";
+		
+	}
+}
+
+
+</pre>
