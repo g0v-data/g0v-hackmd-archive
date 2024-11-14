@@ -37,8 +37,27 @@
 然後這邊利率假設是2%(一般假設是5%但這不太符合台灣實際的利率)
 
 <center class="half">
-    <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_19bdf35b33578a582c89346c7069c1f5.png" width="202" />
-    <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cb43c47fcdf02b468b1e9bef733a3ecb.png" width="200" />
+    <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_19bdf35b33578a582c89346c7069c1f5.png" width="150" />
+    <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cb43c47fcdf02b468b1e9bef733a3ecb.png" width="148.5" />
 </center>
 
 接下來來弄10Ex
+從20歲開始到75歲（不是85歲）因為10Ex最少需要能活10年
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2b7be81b123d804bf337a4d782d7d792.png =30%x)
+
+有了這兩個基本的10年期的所有東西都能生成了
+所以這邊來把最重要的ax生出
+因為覺得丟一整張太佔版面剩下的基本上只會放部分截圖
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8373f27b6c28ea2ec6243fc471d7e86b.png =30%x)
+
+
+有了這三個變數已經可以生成終生的生命險了
+公式也很簡單 每年保費P = Ax/ax
+到這裡我打算先把介面完善一下
+如果能把這個結果展示出來後續也就是資料庫的擴增和公式的增加而已
+
+雛形大概是這樣
+輸入完年齡後按下計算保費就會跳出計算的結果
+(網站我是用flaskㄙㄨㄛ)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_dacdb3d87205316cc449a9ef2202e7bf.png)
+
