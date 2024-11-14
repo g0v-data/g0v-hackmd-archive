@@ -11,6 +11,9 @@
 ## 進度
 2024/11/11 張祐廷
 先用python連接到sql然後生出一個html
+非常的樸實 哈哈哈
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6012c600653b5cabd5480fee024d874e.png)
+
 
 2024/11/13 張祐廷
 因為政府提供的.xlsx資料會同時包含 全體國民 男性 女性 三個
@@ -26,3 +29,16 @@
 下圖是會用到的基本符號
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_378188414c7fec6d79bc16b49289ce56.jpg =40%x)
 
+2024/11/14
+嘗試了Ax理論上應該隨x增加趨近1
+但卻在A66之後開始變小
+測試後發現是最後一年85+因為那個+導致讀取不到
+增加條件後就可以了
+然後這邊利率假設是2%(一般假設是5%但這不太符合台灣實際的利率)
+
+<center class="half">
+    <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_19bdf35b33578a582c89346c7069c1f5.png" width="202" />
+    <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cb43c47fcdf02b468b1e9bef733a3ecb.png" width="200" />
+</center>
+
+接下來來弄10Ex
