@@ -413,3 +413,4 @@ int C(int m,int n)//c m取n =c(m-1)取n + c(m-1)取n-1
 	return C(m-1,n)+C(m-1,n-1);
 }
 </pre>
+
