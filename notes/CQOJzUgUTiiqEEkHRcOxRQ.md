@@ -58,6 +58,6 @@
 
 雛形大概是這樣
 輸入完年齡後按下計算保費就會跳出計算的結果
-(網站我是用flaskㄙㄨㄛ)
+(網站我是用flask還不太熟 要我電腦當伺服器開著才能運作 我之後可能用桌機當伺服器吧（學校的電不用錢哈哈）)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_dacdb3d87205316cc449a9ef2202e7bf.png)
 
