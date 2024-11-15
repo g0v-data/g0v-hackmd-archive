@@ -18,7 +18,7 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
 2. 於 g0v slack #sns 發文 ，貼上文章連結，並 tag reviewer 2-3 位（24 小時內文章上線需要 3 位）
 > Reviewer 請用[抽籤器](https://ronny.tw/g0v-sns/)抽出後，前 2-3 位即是該篇文章的 reviewer，請欲發文者 tag reviewer 
 3. 確認被抽中的 reviewer 看過無誤後，其中有 FB 權限的 reviewer 會幫忙貼上 FB 設定排程
-4. 到[編輯紀錄](https://docs.google.com/spreadsheets/d/1xyxYGKU7iia3xSu6rF9F6YCcXOcEqrFsI2RD493bAxE/edit#gid=1776966921)更新本次的 review 狀況
+4. 到[編輯紀錄](https://docs.google.com/spreadsheets/d/1xyxYGKU7iia3xSu6rF9F6YCcXOcEqrFsI2RD493bAxE/edit#gid=1776966921)更新本次的 review 狀況，或是 SNS Google Doc 內文中列出 reviewer
 
 ## 討論區
 - 【已有草案方案，再寫到相關的文件位置】已發出的 sns，想修改內文

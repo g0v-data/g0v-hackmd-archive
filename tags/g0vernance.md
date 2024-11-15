@@ -2,9 +2,9 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-10-22T21:01:55+08:00 | 2018-08-30T15:19:57+08:00 |
-| 2 | [拉人更輕鬆 -- 初步提案](../notes/3m0lSb-rQeiBuw2lhSK6FQ.md) | 2024-10-16T11:33:38+08:00 | 2024-03-10T19:33:46+08:00 |
-| 3 | [g0v SNS 社群治理機制](../notes/THKRsDsNRXGsa_0zFUn3Gw.md) | 2024-10-15T21:23:58+08:00 | 2019-07-06T08:21:31+08:00 |
+| 1 | [g0v SNS 社群治理機制](../notes/THKRsDsNRXGsa_0zFUn3Gw.md) | 2024-11-15T22:20:40+08:00 | 2019-07-06T08:21:31+08:00 |
+| 2 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-10-22T21:01:55+08:00 | 2018-08-30T15:19:57+08:00 |
+| 3 | [拉人更輕鬆 -- 初步提案](../notes/3m0lSb-rQeiBuw2lhSK6FQ.md) | 2024-10-16T11:33:38+08:00 | 2024-03-10T19:33:46+08:00 |
 | 4 | [g0v.tw 被當作詐騙網站舉例，用於事實查核與政府宣導](../notes/p-jr_r5tRLyQ1A7OUL1r9w.md) | 2024-10-02T20:58:35+08:00 | 2023-04-04T21:05:30+08:00 |
 | 5 | [g0v.tw 社群治理頁面／g0v community g0vernance directory](../notes/Ki8oBtnjTjitnyp84ckYbA.md) | 2024-07-21T10:17:39+08:00 | 2024-07-20T09:50:24+08:00 |
 | 6 | [g0v 短網址治理機制](../notes/u-UJk-4-TsOGFYwmT54CRA.md) | 2024-05-22T01:17:58+08:00 | 2024-05-21T23:31:08+08:00 |
