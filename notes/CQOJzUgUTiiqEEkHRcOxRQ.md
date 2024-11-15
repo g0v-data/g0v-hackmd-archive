@@ -9,13 +9,13 @@
 
 
 ## 進度
-2024/11/11 張祐廷
+11/11 張祐廷
 先用python連接到sql然後生出一個html
 非常的樸實 哈哈哈
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6012c600653b5cabd5480fee024d874e.png)
 
 
-2024/11/13 張祐廷
+11/13 張祐廷
 因為政府提供的.xlsx資料會同時包含 全體國民 男性 女性 三個
 只用一個表的的話會有看起來像重複三次
 所以進sql前會先寫個小code把他們拆開
@@ -29,7 +29,7 @@
 下圖是會用到的基本符號
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_378188414c7fec6d79bc16b49289ce56.jpg =40%x)
 
-2024/11/14
+11/14 張祐廷
 嘗試了Ax理論上應該隨x增加趨近1
 但卻在A66之後開始變小
 測試後發現是最後一年85+因為那個+導致讀取不到
@@ -40,6 +40,7 @@
     <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_19bdf35b33578a582c89346c7069c1f5.png" width="150" />
     <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_cb43c47fcdf02b468b1e9bef733a3ecb.png" width="148.5" />
 </center>
+
 
 接下來來弄10Ex
 從20歲開始到75歲（不是85歲）因為10Ex最少需要能活10年
@@ -61,3 +62,31 @@
 (網站我是用flask還不太熟 要我電腦當伺服器開著才能運作 我之後可能用桌機當伺服器吧（學校的電不用錢哈哈）)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_dacdb3d87205316cc449a9ef2202e7bf.png)
 
+11/16 張祐廷
+繼續弄常數
+Ax:10最左邊那排實作下來如果利率跟標準表一樣5%的話數值會非常接近代表數值是沒問題的
+<center class="half">
+    <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7e804f4fd6dd54cf1b7ee3fe22fe5afa.png" width="200"/>
+    <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_05f893394357b1fcff1ff95a612ee4d4.png" width="250"/>
+</center>
+
+<center class="half">
+    <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a56676b5b139a1e56cfc724df42fe528.png" width="200">
+    <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e9d769c9570fc0430966b0747d1b8ed6.png" width="250">
+</center>
+
+但台灣的利率通常是2%以下所以計算完會比原本超過30%
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5dc525b0a78f7b508b151974ec27fe1b.png =40%x)
+
+該有的常數都新增了
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a941e11638914dafa21e164efafc0236.png)
+
+這只是一個年度全體的生命表
+之後會有其他年度以及男性女性的差別
+近一步可能會有一些複合式的保險
+或是考量成本的部分這些
+不過等基礎功能完善再說
+接下來先把利用現有的資料製作
+5年10年20年期以及一輩子的生命險
+付款可以一次付或分5年10年20年
+（或許未來可以嵌入公式讓年限更彈性）
