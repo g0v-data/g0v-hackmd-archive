@@ -27,11 +27,11 @@
 → 成功進入後台API
 
 #### 缺點:
-路由如果有pathvatiable會較難比對(複雜)，或比對不完全，且此種路由是使用包含比對，若路由為 path/{uid} 這樣path/之後的內容都會通過。
+路由如果有pathvatiable會較難比對(複雜)，或比對不完全，且此種路由是使用包含比對，若路由為 path/{uid} 這樣path/之後的內容都會通過。20241113 commit : 20241113 弱掃用版本的內容
 
 
 ##### 執行:
-java backend 的 component中的 RegisteredPathsProvider 再啟動時會抓取所有的
+java backend 的 component中的 RegisteredPathsProvider 再啟動時會抓取所有的路徑，開啟這個需要配置 pathPattern (再config中的 webConfig 進行配置)，參考
 
 
 
