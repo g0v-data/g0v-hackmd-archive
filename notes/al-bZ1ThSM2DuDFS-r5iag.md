@@ -71,4 +71,8 @@ https://photos.app.goo.gl/XSHtpaX6tPithYhA8
 - 太陽能設施 https://www.facebook.com/share/r/sNafmWQrWQrJbJCJ/
 
 韓國案例
-https://www.facebook.com/share/p/2nmtFKQ15zLsQn1W/?
+https://www.facebook.com/share/p/2nmtFKQ15zLsQn1W/
+
+### 不一定有效
+
+https://www.facebook.com/share/p/1B19KN5zkp/
