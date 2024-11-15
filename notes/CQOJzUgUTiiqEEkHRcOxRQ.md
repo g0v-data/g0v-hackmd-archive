@@ -90,3 +90,9 @@ Ax:10最左邊那排實作下來如果利率跟標準表一樣5%的話數值會�
 5年10年20年期以及一輩子的生命險
 付款可以一次付或分5年10年20年
 （或許未來可以嵌入公式讓年限更彈性）
+
+大概是這樣
+<center>
+    <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_14b76077312a89932572d542c7951120.png" width="230"/>
+    <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6a074a07e988c060faf86e37dfefaf76.png" width="230"/>
+</center>
