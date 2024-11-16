@@ -53,3 +53,47 @@ int main()
 	return 0;
 }
 </pre>
+
+____
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b467861050e624d9f23c6576e883e5b7.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_18e63c7fa078c4c40b8f3de38a768dab.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_ee0c7ed9252941d750a599e65f4a4830.png)
+<pre>
+
+
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+int main()
+{
+	int c;
+	cin>>c;
+	while(c--)
+	{
+		int testcase,N;
+		cin>>testcase>>N;
+		while(testcase--)
+		{
+		
+			int x0,y0,x1,y1;
+			cin>>x0>>y0>>x1>>y1;
+			
+			if(x1==x0&&y1==y0)
+				cout<<"0"<<endl;
+			else if(abs(x1-x0)%2!=abs(y1-y0)%2)
+				cout<<"no move"<<endl;
+			else if(abs(x1-x0)%2==abs(y1-y0)%2)
+				{
+					if(abs(x1-x0)==abs(y1-y0))
+						cout<<"1"<<endl;
+					else
+						cout<<"2"<<endl;
+				}
+		}
+	}
+	return 0;
+}
+</pre>
+
+-----
