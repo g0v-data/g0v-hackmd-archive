@@ -97,3 +97,43 @@ int main()
 </pre>
 
 -----
+
+
+
+<pre>
+
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	int testcase;
+	int casenum =1;//他沒要求input要casenumber 
+	while(cin>>testcase)
+	{
+		int sequence[18];
+		for(int i=0;i<testcase;i++)
+			cin>>sequence[i];
+			
+			
+		long long int maxproduct=0;
+		for(int i=0;i<testcase;i++)
+		{
+			long long int product=1;
+			for(int j=i;j<testcase;j++)
+			{
+				product*=sequence[j];
+				maxproduct= max(maxproduct,product);
+			}
+		}
+		cout<<"Case #"<<casenum++<<": The maximum product is "<<maxproduct<<"."<<endl;
+		cout<<endl;
+	}
+	return 0;
+}
+
+
+
+
+</pre>
