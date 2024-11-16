@@ -2,7 +2,7 @@
 tags: 
 ---
 
-# 專案類型 / AI 應用
+# 專案數位解方 / AI 應用
 
 0 階
 0.5 階，demo
@@ -13,6 +13,8 @@ https://docs.google.com/spreadsheets/d/1P1sCLPAQP9hUwMFVGzneg9lAIFLoYe_arsmgdUy2
 
 # AI 應用
 
+本次分享專案 星河計畫，有運用 GPT 將 自學生經驗分享文章內容，產出該文章的 特點標籤，並將標籤存到 notion 資料表，便於查找自學經驗，共筆：https://g0v.hackmd.io/8-A_6dbSTOuRdzymvd9Q0Q
+
 手語生成式 AI
 https://www.facebook.com/watch/?v=828334065330478
 
@@ -22,5 +24,10 @@ https://drive.google.com/file/d/1LLbml8eFI_2xpOe1K2jNa18-f_hryJDM/view?fbclid=Iw
 歌詞歌曲生成，土石流
 https://www.facebook.com/share/p/15CRFJaVeP/
 
-# 推廣課程 / 計畫
+# 推廣課程 / 計畫 / 機構導入
+
+高職
 https://sites.google.com/view/ai4good
+
+慈濟
+https://www.facebook.com/share/19NwZAUDJo/
