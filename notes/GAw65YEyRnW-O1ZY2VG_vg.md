@@ -77,3 +77,9 @@ tags:
 (4) Open Green 打開綠生活 - 民眾參與都市環境改善：https://uro.gov.taipei/News_Content.aspx?n=FA7FC23C73028362&sms=5FD6DE9E4911B7AA&s=8DCC2C2832755EB6
 (5) 臺北市都市計畫研擬階段民眾參與執行手冊：https://reurl.cc/LW2rx7
  
+ 
+ 
+## 其他參考
+
+https://www.facebook.com/share/v/1DQvJJ5wsx/
+
