@@ -61,6 +61,7 @@ RS:
 
 ## 各次放輕松列表
 `Latest` 
+- [20241119 Rand0mTh14n 第拾肆次](/nIQitAjBSwC7JJxLQh2U6g)
 - [20241105 Rand0mTh13n 第拾參次](/3mwH4PpdS2W5RbpAGkM93Q)
 - [20241022 Rand0mTh12n 第拾貳次萬聖節屍鬼松](/S0-mGchPSyikuvmNUHS6RQ)
 - [20241008 Rand0mTh11n 第拾壹次](/eVgsxStlQx2GjN5duoEf9A)

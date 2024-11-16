@@ -54,3 +54,12 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 | 想做的事情 | 提案人稱呼 | 網址或附加內容 |
 | ---------- | ---------- | -------------- |
 | Example    | Nobody     | 範例           |
+
+## 筆記
+
+- 討論了有關於 g0v 社群動能下降的問題
+    - 學習 No Code 工具？
+    - 學習如何用 AI 寫程式？
+
+- g0v 大松是否需要轉型
+    - 是否需要與外部的社群合作
