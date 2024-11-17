@@ -24,6 +24,10 @@ https://drive.google.com/file/d/1LLbml8eFI_2xpOe1K2jNa18-f_hryJDM/view?fbclid=Iw
 歌詞歌曲生成，土石流
 https://www.facebook.com/share/p/15CRFJaVeP/
 
+法規
+https://www.facebook.com/share/184eXi3jQb/
+https://sch001.g0v.tw/dash/prj/PHRJpYi337MOiFzi5IWAyGNA9SjJRV
+
 # 推廣課程 / 計畫 / 機構導入
 
 高職

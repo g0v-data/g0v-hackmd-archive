@@ -310,6 +310,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - https://www.nairaland.com/4534180/photos-prove-japan-not-like/2
 - 曼谷 水道 https://www.facebook.com/share/r/w5uhhMfhv1TT3JAN/
 - 曼谷明渠地圖 https://www.facebook.com/share/p/hL5mVPasCLFbvxaR/
+- 泰國 建築內的水路營造 https://www.facebook.com/share/p/15L5UbbdPa/
 - 清邁 https://www.travelerluxe.com/article/desc/230009056
 - peru rimac river https://www.facebook.com/share/p/q68PjgtFNiSBAc8p/
 - 無車化方案的表現方法 Hamburgs famous Köhlbrand Bridge
