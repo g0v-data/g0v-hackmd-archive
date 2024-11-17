@@ -10,7 +10,7 @@ tags:
 - Github：https://github.com/SeanGau/city-collage/
 - 探討文件 https://g0v.hackmd.io/@chewei/joinplus/https%3A%2F%2Fg0v.hackmd.io%2F8uZcrlPGQmOJAzweskG9Og%3Fview
 
-## 已完成工作：2
+## 已完成工作：2024.07-2024.11
 - 7 月大松分享建置成果 https://youtu.be/_RfDuPrq9tU
 - 8 月
     - 徵求裝置測試 https://www.facebook.com/share/p/19vrRMPP9A/
