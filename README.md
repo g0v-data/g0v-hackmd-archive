@@ -2,7 +2,9 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 22020 | 2024-11-17T15:45:34+08:00 |
+| [cofacts](tags/cofacts.md) | 467 | 2024-11-17T16:46:47+08:00 |
+| [meeting note](tags/meeting%20note.md) | 290 | 2024-11-17T16:46:47+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 22032 | 2024-11-17T16:44:13+08:00 |
 | [Templates](tags/Templates.md) | 273 | 2024-11-17T12:28:40+08:00 |
 | [Book](tags/Book.md) | 176 | 2024-11-17T12:28:40+08:00 |
 | [rand0mth0n](tags/rand0mth0n.md) | 15 | 2024-11-16T21:26:03+08:00 |
@@ -26,8 +28,6 @@
 | [第貳拾陸次基礎建設松](tags/%E7%AC%AC%E8%B2%B3%E6%8B%BE%E9%99%B8%E6%AC%A1%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E6%9D%BE.md) | 1 | 2024-11-12T20:14:32+08:00 |
 | [g0v](tags/g0v.md) | 75 | 2024-11-12T20:14:32+08:00 |
 | [infrath26n](tags/infrath26n.md) | 1 | 2024-11-12T20:14:32+08:00 |
-| [cofacts](tags/cofacts.md) | 466 | 2024-11-11T21:05:12+08:00 |
-| [meeting note](tags/meeting%20note.md) | 289 | 2024-11-11T21:05:12+08:00 |
 | [security](tags/security.md) | 1 | 2024-11-11T16:41:44+08:00 |
 | [resilience](tags/resilience.md) | 34 | 2024-11-11T16:41:44+08:00 |
 | [資安](tags/%E8%B3%87%E5%AE%89.md) | 1 | 2024-11-11T16:41:44+08:00 |
