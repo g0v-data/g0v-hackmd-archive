@@ -35,3 +35,11 @@ https://sites.google.com/view/ai4good
 
 慈濟
 https://www.facebook.com/share/19NwZAUDJo/
+
+
+產品經理思維
+https://www.facebook.com/share/p/1B2BxKghWE/
+
+# 指引
+
+將 AI 技術發展進程納入考量
