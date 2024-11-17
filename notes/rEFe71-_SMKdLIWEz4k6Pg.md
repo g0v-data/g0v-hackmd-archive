@@ -267,3 +267,56 @@ int main()
 
 -------
 ------
+
+
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a962c2915303d1b0747ae4f558da69c3.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b92535fd60b5133f7fa6efbd6f1ed411.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5cb098bc14471fe0d7bf16c0dc9bbc1f.png)
+
+<pre>
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	int casenum;
+	cin>>casenum;
+	while(casenum--)
+	{
+		int priority[32]={0};//initialize
+		int ans=1;
+		int x,y;
+		cin>>x>>y;//instument,students
+		
+			for(int i=0;i<y;i++)
+			{
+				for(int j=0;j<x;j++)
+				{
+					int rank;
+					cin>>rank;
+					if(rank==1)//標記一 
+						priority[j]++;
+				}
+			}
+			
+			//檢查重複 
+			for(int j=0;j<x;j++)
+			{
+				if(priority[j]>0)
+					ans*=priority[j];
+				
+			}
+		
+		
+			cout<<ans<<endl;	
+		
+	
+	}
+	return 0;
+}
+
+</pre>
+
+## 記得initialize,注意x,y位置(看題目!)
