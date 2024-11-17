@@ -140,6 +140,48 @@ int main()
 }
 
 </pre>
+## 用long long
+從第一項開始往後每個都乘一次
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8f9fed159c5be0ebf4ed7352745b0218.png)
 
 ------
 ------
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a4d4b9765981932e29e21925c3d3849c.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d1d1488884f66b6fb516cb47fedcbdfa.png)
+<pre>
+
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+		
+	int went, return1,back;
+
+	while(cin>>went>>return1)
+	{
+		bool survive[1000]={false};
+		for(int i=1;i<=return1;i++)
+		{
+			cin>>back;
+			survive[back]=true;
+		}
+		if(went==return1)
+			cout<<"*"<<endl;
+		else
+		{
+			for(int a=1;a<=went;a++)
+			{
+				if(survive[a]==false)//!survive[a]
+					cout<<a<<" ";
+			}
+			cout<<endl;
+		}
+		
+	
+	}
+	return 0;
+}
+
+</pre>
