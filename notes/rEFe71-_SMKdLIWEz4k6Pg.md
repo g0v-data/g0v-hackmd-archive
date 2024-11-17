@@ -186,3 +186,84 @@ int main()
 
 </pre>
 ## 輸出完一次之後記得換行,下個output才會不同行
+-------
+---------
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_31c5290492a7cd7bb176855179a68ef2.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_37532ec834dd3c2db98ff87a3969cb4b.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_36cf34f16e56e453ae0b5a57193fd640.png)
+<pre>
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	int casenum;
+	cin>>casenum;
+	while(casenum--)
+	{
+		int testnum;
+		cin>>testnum;
+
+		int position[100];
+		for(int i=0;i<testnum;i++)
+		{
+			cin>>position[i];
+		}
+			
+		//array中 找最大最小 
+		int maxposition=position[0];
+		for(int a=0;a<testnum;a++)
+		{
+			if(position[a]>=maxposition)
+				maxposition = position[a];
+		}
+			
+		int minposition=position[0];
+		for(int a=0;a<testnum;a++)
+		{	
+			if(position[a]<=minposition)
+				minposition = position[a];
+		}
+			
+		cout<<(maxposition-minposition)*2<<endl;
+	
+	}
+	return 0;
+}
+
+</pre>
+## or use <algorithm>
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4f3ee1003dc405d5c27baca5ce004c7e.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7d604efb8637f2b0633bbf81e0ddf2fc.png)
+<pre>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+int main()
+{
+	int casenum;
+	cin>>casenum;
+	while(casenum--)
+	{
+		int testnum;
+		cin>>testnum;
+
+		int position[100];
+		for(int i=0;i<testnum;i++)
+		{
+			cin>>position[i];
+		}
+	
+		sort(position,position+testnum);//小到大排序 ***
+		cout<<(position[testnum-1]-position[0])*2<<endl;
+	}
+	return 0;
+}
+
+</pre>
+
+-------
+------
