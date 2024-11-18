@@ -122,3 +122,8 @@ Project 規劃：每個 repository 放一個 project
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1c2dbe55d303f5e2ec574f13cab5e4fe.png)
 
 之後有其他 relational DB 需求，可以放在同一個 instance
+
+## 小聚籌備
+
+大松可能會在 2 月（本週末確定）
+那小聚可以辦在 1 月
