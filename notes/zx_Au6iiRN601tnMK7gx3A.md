@@ -14,7 +14,8 @@ https://docs.google.com/presentation/d/1ZmQyeSRv_cY3NXtDPrz1IQDUT-C-EGbi/edit#sl
 ### M1: data prep 
 
 #### Schema
-- [ ] add badges for user  https://github.com/cofacts/rumors-db/pull/55/
+- [ ] add `badges` table for badges information (cofacts maintain)
+- [ ] add `badges` in `users` table
 
 #### Release
 

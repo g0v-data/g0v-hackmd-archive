@@ -59,6 +59,17 @@ Design doc updated as [last week's proposal](https://g0v.hackmd.io/_e0nyj04SoCzx
 
 #### Phase 3: Automated detection
 > nonumpa
+> 
+
+根據不重複發 pr、closed pr 之後不要再被偵測等需求，目前程式邏輯為：
+1. 每次撈 25 筆最新 replies，過濾掉已知使用者後再丟 Gemini
+2. pr 內會顯示最近十筆該使用者的 replies 做為要不要下架的更多參考依據
+
+討論：
+1. takedown 指令更新？knownuser 要存在哪裡？
+2. GitHub app owner transfer 
+
+
 
 ### [Infra] DDoS 帳單攻擊預防
 
