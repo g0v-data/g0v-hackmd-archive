@@ -22,6 +22,10 @@ GA: UA-98468513-3
 
 ### :rocket: Staging
 
+Admin API
+- https://github.com/cofacts/rumors-api/pull/337
+- https://github.com/cofacts/rumors-api/pull/352
+
 #### :electric_plug: API
 
 https://dev-admin-api.cofacts.tw/docs
@@ -67,9 +71,8 @@ Design doc updated as [last week's proposal](https://g0v.hackmd.io/_e0nyj04SoCzx
 Lessons learned by iHower: https://www.facebook.com/ihower/posts/pfbid02NSGjkquioV7TEq5GpTCRnK9uT38NDTqEgzT31x2w8hmTgF5GLZFKWXy3zPzT66sBl
 
 - ✅ 設定帳單提醒
-- [在 GCS bucket 前擋 Cloudflare](https://stackoverflow.com/a/35895422/1582110)：好像要[設定 load balancer]() 或把[整個 bucket 改名字](https://cloud.google.com/storage/docs/hosting-static-website-http)才能綁網域
-
-
+- [在 GCS bucket 前擋 Cloudflare](https://stackoverflow.com/a/35895422/1582110)：好像要[設定 load balancer](https://cloud.google.com/load-balancing/docs/https) 或把[整個 bucket 改名字](https://cloud.google.com/storage/docs/hosting-static-website-http)才能綁網域
+    - 直接把 GCS 的網址對外，即使是 signed URL 也是可能被攻擊 
 
 
 ## Langfuse
