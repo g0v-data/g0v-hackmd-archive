@@ -2,8 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [SyXIPNjj2](../../notes/CGTgTPFiTA-HM5KCc_nPeQ.md) | 第3次 g0v 矽谷灣區小聚行前通知 | 2023-08-05T10:43:23+08:00 | View mode |
 | [ByLR7VQkkx](../../notes/y1LQIW2BRe6oRRqBE0Sd0Q.md) | 2024.11.17 第 3 次 g0v 灣區小聚共筆 | 2024-10-09T06:35:57+08:00 | View mode |
+| [SyXIPNjj2](../../notes/CGTgTPFiTA-HM5KCc_nPeQ.md) | 第3次 g0v 矽谷灣區小聚行前通知 | 2023-08-05T10:43:23+08:00 | View mode |
 | [By0tJvDjn](../../notes/zogc13-2RIyIbojwyE8dgg.md) | g0v 矽谷灣區社群共筆 | 2023-08-02T12:45:58+08:00 | Book mode |
 | [Sk0Tgnqlp](../../notes/2nJV8dQHQ4u_R_I7Rll0fA.md) | 2023.10.21 第 1 次 g0v 灣區小聚共筆 | 2023-10-04T17:30:46+08:00 | Edit mode |
 | [B10xaAzE0](../../notes/KzDQAXWvRLCQFrtmC9DFXQ.md) | 2024.6.1 第 2 次 g0v 灣區小聚共筆 | 2024-05-28T12:26:30+08:00 | View mode |

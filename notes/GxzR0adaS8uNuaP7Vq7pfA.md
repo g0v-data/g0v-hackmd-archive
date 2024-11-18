@@ -34,7 +34,7 @@ https://dev-admin-api.cofacts.tw/docs
 
 ## Badge system design review
 
-> EJ
+> EJ (https://g0v.hackmd.io/zx_Au6iiRN601tnMK7gx3A?both)
 
 
 ## CCPRIP
