@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Badge System](../notes/zx_Au6iiRN601tnMK7gx3A.md) | 2024-11-18T19:43:44+08:00 | 2024-11-18T07:36:53+08:00 |
-| 2 | [20241118 會議記錄](../notes/GxzR0adaS8uNuaP7Vq7pfA.md) | 2024-11-18T19:12:52+08:00 | 2024-11-17T16:27:10+08:00 |
+| 1 | [20241118 會議記錄](../notes/GxzR0adaS8uNuaP7Vq7pfA.md) | 2024-11-18T20:52:27+08:00 | 2024-11-17T16:27:10+08:00 |
+| 2 | [Badge System](../notes/zx_Au6iiRN601tnMK7gx3A.md) | 2024-11-18T19:43:44+08:00 | 2024-11-18T07:36:53+08:00 |
 | 3 | [Cofacts user blocking mechanism](../notes/7lmvtxe5S_qsyQeoUsSyTw.md) | 2024-11-18T07:35:59+08:00 | 2024-11-18T07:35:59+08:00 |
 | 4 | [20241111 會議記錄](../notes/_e0nyj04SoCzxdM38CzuYQ.md) | 2024-11-11T21:05:12+08:00 | 2024-11-09T16:33:28+08:00 |
 | 5 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-11-11T16:41:44+08:00 | 2022-08-05T10:46:53+08:00 |

@@ -8,7 +8,8 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- NPO Hub: bil, nonumpa, mrorz
+- 線上出席：Alex, 品君, EJ
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -68,9 +69,15 @@ Design doc updated as [last week's proposal](https://g0v.hackmd.io/_e0nyj04SoCzx
 討論：
 1. takedown 指令更新？knownuser 要存在哪裡？mongodb?
 2. GitHub app owner transfer
-3. prompt 公開與否？
-4. 先 schedule 在 github action 上跑看看 
+    - 已 grant GH org admin [name=mrorz]
+    - NodeJS 呼叫 GH app 對 repo 做操作
+    - NodeJS script 本身要跑在 GH action 還是其他地方（cloud function / cloudrun）都可以
+4. prompt 公開與否？
+5. 先 schedule 在 github action 上跑看看 
 
+- takedown bot
+https://github.com/apps/takedown-bot
+- https://github.com/octokit/auth-app.js/
 
 
 ### [Infra] DDoS 帳單攻擊預防

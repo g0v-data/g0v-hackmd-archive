@@ -42,5 +42,5 @@ https://g0v.hackmd.io/@chewei/B14OsdWfi/
 ## 社群與專案基本工作
 - [Infra 專案基礎建設 💡](https://g0v.hackmd.io/WKs6CpdPQHaeg1SruJCshQ?view)
 - [Email 信箱管理](https://g0v.hackmd.io/Sj89HuMwSEqcUZImq4k27Q?view)
-- [PPT 工作用簡報 ✍](https://docs.google.com/presentation/d/1al9a3yW2BWimwr7vKzvQ4W3n4zd6YjKG_v1OhHo5DEA/edit?usp=sharing)
+- [PPT 工作用簡報 ✍](https://g0v.hackmd.io/X0EzAW2oRKO1EItXhc2e0Q?view)
 - [Files 雲端資料夾 📂](https://drive.google.com/drive/folders/1t6xizblGJAZTTZrLGRIHgN3ta6s_WCzB?usp=share_link)[target=_blank]
