@@ -7,7 +7,7 @@ Badge System
 ======
 
 ## Previous discussion
-https://docs.google.com/presentation/d/1ZmQyeSRv_cY3NXtDPrz1IQDUT-C-EGbi/edit#slide=id.p1
+https://docs.google.com/presentation/d/1YkJ76WEANq-SopKfgY8KQfLuNBVYKJp_/edit#slide=id.g317f579cd8a_0_0
 
 ## Milestones and progress
 
@@ -16,15 +16,13 @@ https://docs.google.com/presentation/d/1ZmQyeSRv_cY3NXtDPrz1IQDUT-C-EGbi/edit#sl
 #### Schema
 - [ ] add `badges` table for badges information (cofacts maintain)
 - [ ] add `badges` in `users` table
+https://github.com/cofacts/rumors-db/pull/74
+- [ ] attach badge display info for all user schema (TBD)
 
 #### Release
 
 Not yet
 - Working schema
-- Existing document fields are properly filled
-- New document fields are properly filled
-- Hidden reply rquests does not increase replyRequestCount
-- Hidden article reply feedback does not increase feedbackCount
 
 
 
@@ -34,15 +32,14 @@ Not yet
 
 - [ ]  add certification APIs for `/badge` for 3rd party orgnization to push update the badge holder's information
 control with Cloudflare zero trust 
-https://github.com/cofacts/rumors-api/pull/263
 
 
 
 #### Release
 
-- Block known violating users after release
-    - Blocked user will start having `isUserBlocked` cookie in their browser
-- API & website still gives hidden items as before
+Not yet
+- TBD
+
 
 ### M3: Frontend display
 

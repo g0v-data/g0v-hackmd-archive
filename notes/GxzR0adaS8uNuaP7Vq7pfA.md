@@ -66,8 +66,10 @@ Design doc updated as [last week's proposal](https://g0v.hackmd.io/_e0nyj04SoCzx
 2. pr 內會顯示最近十筆該使用者的 replies 做為要不要下架的更多參考依據
 
 討論：
-1. takedown 指令更新？knownuser 要存在哪裡？
-2. GitHub app owner transfer 
+1. takedown 指令更新？knownuser 要存在哪裡？mongodb?
+2. GitHub app owner transfer
+3. prompt 公開與否？
+4. 先 schedule 在 github action 上跑看看 
 
 
 
