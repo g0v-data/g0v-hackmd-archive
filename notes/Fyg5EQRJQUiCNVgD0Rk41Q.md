@@ -5,7 +5,7 @@ tags:
 # Collage 2024 推動歷程
 
 ## 專案介紹
-- 專案貢獻者：SeanGau, chewei
+- 專案貢獻者：SeanGau, chewei, 晉寶
 - 網站：https://collage.collective.tw/#
 - Github：https://github.com/SeanGau/city-collage/
 - 探討文件 https://g0v.hackmd.io/@chewei/joinplus/https%3A%2F%2Fg0v.hackmd.io%2F8uZcrlPGQmOJAzweskG9Og%3Fview
