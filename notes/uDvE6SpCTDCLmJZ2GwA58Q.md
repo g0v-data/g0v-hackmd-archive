@@ -219,6 +219,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
         - 推測位置：https://www.google.com/maps/@25.0514673,121.5648617,3a,90y,271.3h,87.19t/data=!3m6!1e1!3m4!1sDAbYVansNa9CyYzE-kpvoQ!2e0!7i16384!8i8192?authuser=0&entry=ttu
         - 照片：
     - 錦州橋 音符https://www.facebook.com/share/r/ow4XZzPy4VQ9XEXH/舞團
+    - 葉氏宗祠舊圍牆、受保護榕樹490 https://www.facebook.com/share/p/14WzG3UTvK/?
     - 照片 民國 50 年代 敦化仁愛圓環 https://www.facebook.com/share/p/1KP14oF3zi/
     - 淡水捷運線施工 台北車站附近 鳥瞰照片 https://www.facebook.com/share/p/1DUv647AoG/
     - 2006 年，中央車站規劃，有提到新生大排 https://photos.app.goo.gl/i96NdSink8XQyLTy8

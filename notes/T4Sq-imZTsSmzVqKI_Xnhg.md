@@ -39,6 +39,7 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
     - https://www.facebook.com/share/v/Jcp1JotpQed2MoJe/
     - https://www.facebook.com/share/v/YrhjGf8Gfu2t5QUD/
 - 自然人憑證 https://www.ettoday.net/news/20241115/2855760.htm
+- Eventbrite https://www.facebook.com/share/p/15GezeYHw5/
 
 ## 單位與機構
 - 數位發展部，訂定子法
