@@ -325,6 +325,11 @@ https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNDU5L2NrZmlsZS8xZmUwYT
 
 ## 南環段
 
+### 20241112 木柵地區空間策略工作坊活動 & 12 月論壇
+
+待補充內容
+
+### 相關法規與空間政策
 - 臺北市大眾運輸導向都市發展（TOD）專區 ※修訂臺北市大眾運輸導向可申請開發許可地區細部計畫案※   (計畫書下載) https://www.udd.gov.taipei/events/f3gxcu9-15932
 - 文山區多屬於第二級場站
     - 第二級場站：Y2、Y3、Y4
@@ -334,7 +339,7 @@ https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNDU5L2NrZmlsZS8xZmUwYT
     - https://udd.gov.taipei/assets/eBR3Zz1NUFFKUrm2btZHdq/attachs/1120814%E4%BF%AE%E6%AD%A3%E3%80%8C%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E7%9C%BE%E9%81%8B%E8%BC%B8%E5%B0%8E%E5%90%91%E5%8F%AF%E7%94%B3%E8%AB%8B%E9%96%8B%E7%99%BC%E8%A8%B1%E5%8F%AF%E5%9C%B0%E5%8D%80%E9%96%8B%E7%99%BC%E8%A8%B1%E5%8F%AF%E7%94%B3%E8%AB%8B%E6%B3%A8%E6%84%8F%E8%A6%81%E9%BB%9E%E3%80%8D.pdf
 :::info
 
-### 修訂臺北市大眾運輸導向可申請開發許可地區細部計畫案可申請開發許可地區容積獎勵規定
+#### 修訂臺北市大眾運輸導向可申請開發許可地區細部計畫案可申請開發許可地區容積獎勵規定
 
 1.核心區：以距離捷運場站或臺鐵場站出入口150 公尺範圍內。
 2.一般區：以距離捷運場站或臺鐵場站出入口超過 150 公尺至 500 公尺範圍內。
@@ -379,7 +384,7 @@ https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNDU5L2NrZmlsZS8xZmUwYT
 :::
 
 :::info
-### 臺北市大眾運輸導向可申請開發許可地區細部計畫案都市設計準則
+#### 臺北市大眾運輸導向可申請開發許可地區細部計畫案都市設計準則
 
 為促進地區公共環境品質的提升，並考量開發對環境可能產生之衝擊，依本案申請之基地，應配合本市 2050 淨零碳排政策目標，併同開發許可計畫提出低碳建築、節能減廢之建築構想說明，並依下列都市設計準則進行規劃設計，提送臺北市都市設計及土地使用開發許可審議委員會審議。
 
@@ -412,7 +417,7 @@ https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNDU5L2NrZmlsZS8xZmUwYT
 :::
 
 
-參考案例
+### 參考案例
 - 桃園市中路站 https://www.facebook.com/urbanplat/posts/pfbid0AEcvoD8HSmSxQmXVYhbmmzT2zKXr5NPztjnXpDYbFRGnEJa3f1gJ8Pc4mHZgAgRkl
 
 ## 綠運具
