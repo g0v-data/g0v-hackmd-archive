@@ -7,11 +7,8 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 :::
 
 #### 常用連結
-https://tbb.apps.digiwincloud.com/index.html#/account/login
 7-Zip https://www.7-zip.org/a/7z2301-x64.exe
 Chainlon 01Backup https://www.chainlon.net/1/01Backup.zip
-https://drive.google.com/uc?id=1e0quXt20XF8QZkpFgR4Wj-z1LYKLGrkM&export=download
-curl hhttp://192.168.5.49:8080/Temp/ShowKeyPlus.zip -o C:\02Temp\ShowKeyPlus.zip
 
 #### Windows標準安裝
     前置作業： (最好先備份一次當前系統)關閉防毒
@@ -76,18 +73,10 @@ del C:\users\\%username%\Downloads\ls.zip /q
 del C:\03users\\%username%\Downloads\ls.zip /q
 
 #### 以下尚未清理
-AcroRdrDC1900820071_zh_TW.exe /sAll
-FontPack1900820071_XtdAlf_Lang_DC.msi /quiet /norestart
-npp.exe /S
-
 Windows sysprep(重新封裝Windows以製作用戶端)
 Cd\windows\system32\sysprep
 Sysprep /generalize /shutdown /oobe
 
-#### 複製常用軟體或程式
-cd\01Backup\Tools
-copy P:\21.MIS\29ChainlonSoftware\TFG\TFG-Open.exe
-copy P:\21.MIS\01Backup\Bat\Reboot.exe
 #### 常用指令：
 顯示外部IP：curl ifconfig.me
 顯示內部IP：ipconfig | find /i "IPv4" | find /i "192.168."
@@ -96,7 +85,7 @@ cd\Program Files (x86)\TFG\Agent
 TFGInstallTool.exe -ForceUninstallMachineID
 安裝Rdm RS.msi /quiet
 設定Rdm C:\Windows\SysWOW64\rserver30\rserver3.exe /setup
-主機板可支援的最大記憶體上限：wmic memphysical get maxcapacity
+
 系統管理專用共同目錄(後面要加上密碼)：(視環境擇一使用)
 net use T: http://192.168.5.50/cy /u:admin
 net use T: \\192.168.5.50\cy /u:admin
@@ -110,9 +99,6 @@ schtasks /delete /tn "Adobe Acrobat Update Task" /f
 schtasks /delete /tn "OneDrive Per-Machine Standalone Update Task" /f
 reg delete "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AdobeARMservice" /f
 
-
-https://docs.google.com/spreadsheets/d/1LJ62xUzrUl3aX1xFNhoYd4pEslgml_j-LrRmXSZV45E/edit?usp=sharing
-
 chainlon Startup
 C:\Users\chainlon\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
@@ -120,11 +106,6 @@ All Users Desktop
 C:\Users\Public\Desktop
 
 All Users Desktop/Windows AD
-
-
-https://drive.google.com/file/d/1q5ZBUEutPBNNhGReOXYy5gFzlG4mpKNF/view
-https://ithelp.ithome.com.tw/questions/10151926
-https://dotblogs.com.tw/ghoseliang/2013/03/04/95113
 
 @net use N: \\d6.chainlon.net\02Public\21.MIS\29ChainlonSoftware\misrun
 區網速度測試
@@ -152,5 +133,3 @@ MAS 啟動授權，powershell run:
 irm https://massgrave.dev/get | iex
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_21760c94aa006b7dcd594944edab5210.png)
-
-https://massgrave.dev/genuine-installation-media.html

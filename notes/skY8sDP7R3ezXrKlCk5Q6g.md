@@ -1,0 +1,4 @@
+**Tính năng so bài tự động trong Mậu Binh Sunwin**
+Mậu Binh Sunwin có một tính năng rất tiện lợi là hệ thống so bài tự động. Sau khi người chơi đã hoàn tất việc sắp xếp bài, hệ thống sẽ tự động so bài giữa các chi mà không cần người chơi phải làm thủ công. Điều này giúp tiết kiệm thời gian và giảm thiểu sai sót trong quá trình so bài.
+Với tính năng này, người chơi có thể tập trung vào chiến thuật và quyết định cách sắp xếp bài sao cho hợp lý nhất. Các trận đấu sẽ diễn ra nhanh chóng, mượt mà và không bị gián đoạn. Đây là một trong những điểm mạnh giúp Mậu Binh Sunwin trở thành một trò chơi hấp dẫn và dễ chơi.
+Hệ thống so bài tự động cũng giúp người chơi yên tâm hơn khi tham gia các ván bài, vì nó đảm bảo rằng việc so sánh bài luôn chính xác và công bằng. Điều này tạo ra một sân chơi công bằng cho mọi người tham gia.
