@@ -54,3 +54,24 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 | 想做的事情 | 提案人稱呼 | 網址或附加內容 |
 | ---------- | ---------- | -------------- |
 | Example    | Nobody     | 範例           |
+
+
+## 筆記
+- UBI
+    - Tofus: JGP 算不算是一種 UBI 計畫？
+        - Ronny: 不太能算，因為 UBI 的給付必須是隨機的
+- 控制物價
+    - #vtaiwan-meetup
+    - 台灣到底有沒有在控制物價
+- 健保
+    - 原廠藥 vs 學名藥
+        - 原廠藥確實效果比較好
+        - Peter
+            - 原廠藥在公布學名藥的時候只有公布主要成分，佐劑的部分沒有公布
+    - Ronny: 台灣不鼓勵人民自主購買更好的藥
+        - Peter: 只能走專案，例如罕病
+
+
+## 12/24 耶誕趴
+- 交換議題？交換坑？
+- 12/31 放輕松移到 12/24

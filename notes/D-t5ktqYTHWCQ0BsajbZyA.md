@@ -2,7 +2,7 @@ richviet hay nhà cái Richviet là một thương hiệu nhà cái casino trự
 richviet, link_vào_richviet, game_bài_richviet, cổng_game_bài_richviet, game_bài_đổi_thưởng_richviet, #richviet #link_vao_richviet #game_bai_richviet #cong_game_bai_richviet #game_bai_doi_thuong_richviet
 Địa Chỉ : 60 Đường Lý Chính Thắng, Phường 8, Quận 3, Hồ Chí Minh, Vietnam
 GG MAP https://maps.app.goo.gl/u6xBLwjthQt1VsR99 
-Hotline : 0428118119
+Hotline : +842811881199
 GMail: nguyenthidieu24041976@gmail.com
 Website : richviet : https://richviet.org/
 Tên doanh nghiệp: Công ty cổ phần giải trí Richviet

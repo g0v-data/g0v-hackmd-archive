@@ -6,6 +6,9 @@ tags: vtaiwan
 地點 Location ：線上 Online
 線上參與連結 / Link：https://meet.jit.si/vTaiwan
 
+## 1119 放輕松
+- [議題小聚1119討論](/5-2JuTWiRty_ZYLvLGW8aw)
+
 ## 0919 會議記錄
 - 結論：
 - Action List: 

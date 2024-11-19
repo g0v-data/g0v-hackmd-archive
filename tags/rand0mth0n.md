@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v Rand0mth13n 第拾參次放輕松](../notes/3mwH4PpdS2W5RbpAGkM93Q.md) | 2024-11-16T21:26:03+08:00 | 2024-11-01T00:39:54+08:00 |
-| 2 | [g0v Rand0mth14n 第拾肆次放輕松](../notes/nIQitAjBSwC7JJxLQh2U6g.md) | 2024-11-16T20:34:36+08:00 | 2024-11-16T20:33:39+08:00 |
+| 1 | [g0v Rand0mth14n 第拾肆次放輕松](../notes/nIQitAjBSwC7JJxLQh2U6g.md) | 2024-11-19T21:24:37+08:00 | 2024-11-16T20:33:39+08:00 |
+| 2 | [g0v Rand0mth13n 第拾參次放輕松](../notes/3mwH4PpdS2W5RbpAGkM93Q.md) | 2024-11-16T21:26:03+08:00 | 2024-11-01T00:39:54+08:00 |
 | 3 | [g0v Rand0mth12n 第拾貳次放輕松暨萬聖節屍鬼松](../notes/S0-mGchPSyikuvmNUHS6RQ.md) | 2024-10-26T22:12:09+08:00 | 2024-10-20T21:52:18+08:00 |
 | 4 | [g0v Rand0mth11n 第拾壹次放輕松](../notes/eVgsxStlQx2GjN5duoEf9A.md) | 2024-10-07T15:39:24+08:00 | 2024-10-07T13:49:35+08:00 |
 | 5 | [Rand0mTh10n with g0v Jothon｜與揪松的第拾次放輕松](../notes/R781rLPjQqu5VNbyHTjZuw.md) | 2024-09-24T10:07:33+08:00 | 2024-09-22T16:28:28+08:00 |
