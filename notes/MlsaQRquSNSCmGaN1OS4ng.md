@@ -7,7 +7,7 @@ tags: vtaiwan
 參與者 Participants: 
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
 :::success
-下週三（11/13) 小松暫停一次，討論事項會在
+下週三（11/13) 小松暫停一次
 :::
 
 ## 自我介紹與新手導覽
