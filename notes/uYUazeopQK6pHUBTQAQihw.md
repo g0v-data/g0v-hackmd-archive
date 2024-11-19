@@ -19,7 +19,7 @@ tags: CY 零時監察院
     - 主要目標是要讓開放時程縮短，希望至少可以在選前就能看到大部份金流，而目前手段是先透過 join 平台連署，使得內政部必須要出面回應，進而推動內政部提出相關草案，再遊說立委加速立法。
 - 2024.05.05 開放政治獻金 - 回顧閃電講 https://youtu.be/FWmS_4kxnZ8?si=QhWLvxpiS39TGYEl&t=2421
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FWmS_4kxnZ8?si=QhWLvxpiS39TGYEl&amp;start=2421" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width=100% height="480" src="https://www.youtube.com/embed/FWmS_4kxnZ8?si=QhWLvxpiS39TGYEl&amp;start=2421" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 其他
 

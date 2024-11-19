@@ -72,9 +72,6 @@ https://www.facebook.com/TW.Voter.Guide/
 ## 開放政治獻金 - 立委政治獻金 💰 Open Political Money Records: Legislative Yuan Political Donations 💰
 https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/ryrT2aQdn/
 
-## 東亞國會美食地圖 😋 East Asian Legislators’ Food Map 😋
-https://g0v.hackmd.io/y_O_IpKrRxm6pG5rlO4enw?view
-
 ## 《立法院大小聲》app
 https://100.adi.gov.tw/ahvs1?id=94
 - iPhone: https://apps.apple.com/tw/app/id1604118355
@@ -148,10 +145,22 @@ https://g0v.hackmd.io/MLptSHziTzykwZR7TnEFWA
 - 佔領立法院 / 太陽花學運：CC 授權圖文影音 https://g0v.hackmd.io/vOQPj2qMTiSkE41SGepmDw
 - 反黑箱服貿立法院抗爭 - 國際新聞統整 https://g0v.hackmd.io/v9KWCUllTL-lFBclLhsRGg
 
-# 國外社群相關計畫
+# 各國的國會專案 / 國外社群相關計畫
+
+## 東亞國會美食地圖 😋 East Asian Legislators’ Food Map 😋
+
+Korea, Taiwan
+https://g0v.hackmd.io/y_O_IpKrRxm6pG5rlO4enw?view
+
+## 北加國會議員攻略
+g0v Slack 頻道 #us-norcal-congress-outreach
+
 ## 德國開放國會電視
 [Open Parliament TV in German](https://openparliament.tv/?lang=en)
 [Open Parliament TV in German Code](https://github.com/openparliamenttv)
+
+
+
 
 ---
 
