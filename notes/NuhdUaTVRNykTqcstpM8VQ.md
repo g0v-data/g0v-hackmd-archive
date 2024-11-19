@@ -53,6 +53,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #self-intro 歡迎來到 g0v-slack，這是自我介紹的頻道，可以讓大家認識你唷！Welcome to g0v slack! Please introduce yourself to g0v community :heart:
 #joinchannel-slack-頻道名稱彙整 提供各式各樣的頻道簡介，以及傳送門 G0v slack channels discussions.
 #awesome-g0v-projects 令人驚奇的零時政府。找專案，找提案，找共筆，找幫手 一站搞定
+#拉人更輕鬆 
 #jothon 揪松團相關活動討論（黑客松、基礎松）
 #fundraising-救松團-募款執行 
 #community99-社群九分鐘-撰寫工作頻道 
@@ -157,7 +158,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #tw-legal-datasets
 #hackact 修法協作器
 #call-liwei 立委咖電喂
-#tw-ly-and-council 新國會大代誌
+#ly g0v 國會松、立法院資料
 #刑法十八禁 對刑法上修到二十歲有興趣的朋友歡迎參與喔！
 #vtaiwan 法規與議題議論
 #holopolis	
@@ -167,6 +168,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #moda 想討論台灣已成立的數位發展部嗎
 #presidential 總統盃黑客松
 #us-taiwan-watch 美國台灣觀測站
+#us-norcal-congress-outreach 北加國會議員攻略
 #national-treasure 國家寶藏，號召志工一起深入世界各地的國家檔案局與圖書館，挖出台灣相關史料，並建立網路開放資料庫，供全民免費使用。This project aims to bring these documents within the sight of the public, so that everyone can forge their own stories that were never told before.
 #gender
 #herstory 東亞女性權力行動歷程書寫
