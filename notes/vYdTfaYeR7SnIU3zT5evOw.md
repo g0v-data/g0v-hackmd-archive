@@ -591,6 +591,12 @@ https://g0v.hackmd.io/I39BvrYBT3GIU399sZHeqg
 
 https://g0v.hackmd.io/b9I_UXYRQPuCSuAcR2xdOw?view
 
+## g0v bayarea (#g0v-siliconvalley)
+現在成員 (2024-11-19)
+
+co-founders: 
+https://g0v.hackmd.io/@bayarea/B1-RQ7P93/edit
+
 ## g0v 國際交流社群工作小組（g0v-intl）
 
 現在成員（2019-05-05）
