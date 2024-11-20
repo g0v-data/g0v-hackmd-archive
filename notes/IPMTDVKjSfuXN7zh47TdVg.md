@@ -15,7 +15,7 @@ tags: jothon
 * 熱奶茶（10L）Hot Milk Tea
 * 柳橙汁（10L）Orange Juice
 
-## 午餐 12:00
+## 午餐 12:00 Lunch
 * 【素 Vegetarian】時蔬炒麵 Stir-fried Seasonal Vegetables with Noodles
 * 【素 Vegetarian】清炒高麗 Stir-fried Cabbage
 * 【素 Vegetarian】三杯杏鮑菇 King Oyster Mushroom
