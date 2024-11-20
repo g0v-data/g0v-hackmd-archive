@@ -4,7 +4,7 @@ tags: vtaiwan
 # 1120小松
 時間 Time ：19:00-20:30
 地點 Location ：線上 Online
-參與者 Participants: peter, 翊婷, josh, tofus, T, 星辰代卸
+參與者 Participants: peter, 翊婷, josh, tofus, T, 星辰代卸, ronny 
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
@@ -58,13 +58,35 @@ tags: vtaiwan
     - 利用 Inform 小聚提前對齊並建立討論
         - 利用 slido 收集大家的意見
 - 沒有結構性地把大家
+- 後續推動議題的接口，比起行政會更接近立法部門或民主基金會。vTaiwan 作為公民團體來邀請不同黨派立場參與議案，可能會更容易。
 ### Todo list 
 - [文章共編](https://docs.google.com/document/d/1xydMkbbLABL47sDnfwXW8aFID50VZ-z_LVuseQiRw68/edit?usp=sharing)
     - 需要圖文小編 [name=peter]看看豆腐要不要跳坑
     - 有文就都好說 [name=tofus]
+        - 要給 tofus 檔案與設計師名字
 ## 1220 議題小聚
 - [polis 連結](https://polis.tw/6bh4u2zyti)
 - [KKtix 活動連結](https://vtaiwan.kktix.cc/events/vtaiwanmeetup-2)
+- 目標：讓大家討論是比較有結構性的，
+- 大家對於 AI 的發展與權利保障有不同的想像，是否分組比較好？
+    - 分組會有問題，需要更多的人力來做引導
+    - 如果是讓大家投票，按讚，來排序想要討論的議題，有一位人員來整理 miro 的意見。
+    - polis 意見徵集
+    - 整理
+    - slido 讓大家投票
+    - 討論
+        - 討論的過程有一個組織的方式：利用特定的 statement 從完全不同意到同意
+        - 實體的 spectrum，利用 1-5 
+    - miro 紀錄（派一個夥伴）（miro把共同編輯權限打開，這個會需要付費）
+    - 投票的話看看有沒有數位工具解決這個問題
+    - 思考看看當天的螢幕呈現的方式
+### 目前的討論流程
+- 18:30–19:00: Welcome and Introductions
+- 19:00–19:50: Deliberation (in-person and through digital platforms)
+- 19:50–20:05: Break (15 mins)
+- 20:05–20:15: Response & Clarification 
+- 20:15–20:45: Deliberation (in-person and through digital platforms)
+- 20:45–21:30: Wrap-up 
 
 ## 議題小聚討論
 - [議題小聚1119討論](/5-2JuTWiRty_ZYLvLGW8aw)
