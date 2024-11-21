@@ -8,7 +8,7 @@ tags: 國會松
 
 :::info
 參考來源 [g0v database - Project List](https://docs.google.com/spreadsheets/d/1C9-g1pvkfqBJbfkjPB0gvfBbBxVlWYJj6tTVwaI5_x8/edit#gid=0)
-歡迎加入 g0v Slack 頻道 #tw-ly-and-council
+歡迎加入 g0v Slack 頻道 #ly
 :::
 
 :::warning
@@ -78,6 +78,11 @@ https://100.adi.gov.tw/ahvs1?id=94
 - Android: https://play.google.com/store/apps/details?id=com.ccwatch
 - GitHub: https://github.com/denkeni/CCWatch
 - 黑客松首次提案（舊名為一生監督）：https://youtube.com/watch?v=WifUTX7pkMs
+
+## 建置定期更新的立委發言觀測儀表板與政治時事資料集
+* 本專案希望透過自動化技術整理、蒐集立法院會議的發言記錄，建立一個全面覆蓋台灣當前政治及社會議題的大規模資料集，作為開發本土政治大型語言模型（LLM）的基礎。同時應用LDA主題模型技術，本專案將分析各黨團、委員的關注焦點及熱門話題，並建立一個互動式儀表板，盡可能提升數據與模型的近用性與分析便利性。我們將透過定期更新，確保資料的時效與相關性。本專案的特點在於填補了繁體中文在政治社會時事領域下的語言模型與資料集空白，未來或可成為自然語言處理專家、政治統計學者及普通選民了解台灣國會及政治的重要基石。
+* https://g0v.hackmd.io/@jothon/AI-Grant/https%3A%2F%2Fg0v.hackmd.io%2F%40jothon%2FByw8qzWC0
+
 
 ## 專案發想
 
