@@ -1,0 +1,4 @@
+**Xì Dách tại Go88 – Từ dân gian đến trực tuyến**
+Xì Dách, trò chơi quen thuộc của người Việt, nay đã được Go88 chuyển thể thành phiên bản trực tuyến đầy hấp dẫn. Giao diện hiện đại cùng âm thanh sống động giúp người chơi đắm chìm trong từng ván bài. Điểm nổi bật là luật chơi vẫn giữ nguyên nét truyền thống nhưng được cải tiến phù hợp với môi trường online.
+Quy tắc xét bài tại Go88 được xây dựng một cách minh bạch, đảm bảo quyền lợi cho cả người chơi lẫn nhà cái. Nhà cái phải đạt ít nhất 16 điểm mới được xét bài, trong khi người chơi có quyền tự do quyết định. Điều này không chỉ tạo sự công bằng mà còn làm tăng tính chiến thuật.
+Với Go88, Xì Dách trở thành một trò chơi không chỉ để giải trí mà còn mang lại cảm giác thử thách và chiến thắng. Những cải tiến trong giao diện và luật chơi giúp người chơi dễ dàng làm quen và tận hưởng trọn vẹn trò chơi dân gian này.
