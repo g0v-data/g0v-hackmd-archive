@@ -619,3 +619,6 @@ void match(int g, int a, int AB[])
 - Always check buffer sizes
 - Use `strncpy()`, `strncat()`, `strncmp()` for length-limited operations
 - Ensure destination buffers are large enough to prevent buffer overflows
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a2012750b3c4bc505d9570f873897e6b.png)
+=======
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f3349be8673b21ededd0b3a4c852d152.png)
