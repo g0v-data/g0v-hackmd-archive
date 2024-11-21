@@ -1,7 +1,5 @@
-[77Bet](https://77betaz.net/) hiện được đánh giá là địa chỉ nhà cái uy tín Casino hàng đầu thị trường cá cược Việt Nam với hàng trăm sản phẩm trò chơi độc nhất. Hoạt động từ năm 2019 tới nay, 77 Bet đã có hàng trăm nghìn lượt truy cập mỗi ngày và ngày càng được biết đến rộng rãi tại Việt Nam.
-Thông tin liên hệ:
-Địa chỉ: 21 Đường số 2, An Lạc A, Bình Tân, Hồ Chí Minh, Việt Nam.
-Phone: 0396848877.
-Email: info@77betaz.net.
-Website: https://77betaz.net/
-#77bet #77betaz #77betaznet #77betaz_net #nhacai77bet #77betcasino
+78win hay thường được biết đến với 78Win.com là nhà cái cá cược trực tuyến uy tín hàng đầu tại Việt Nam và Châu Á. Đăng ký 78 Win Casino, tải APP chơi game bài, nổ hũ, bắn cá, tài xỉu, xổ số, xóc đĩa… cá cược thể thao thưởng lớn theo link 78win chính thức của đại lý 78win SG.
+Địa chỉ: 273 Trần Quý, Phường 4, Quận 11, Thành phố Hồ Chí Minh
+CSKH: 0839556110 
+Email: 78win01sg@gmail.com
+Website: https://78win.rip/
