@@ -606,3 +606,16 @@ void match(int g, int a, int AB[])
 	}
 }
 </pre>
+
+
+| Function | Prototype | Purpose | Return Value | Example | Header | Key Considerations |
+|----------|-----------|---------|--------------|---------|--------|---------------------|
+| `strlen()` | `size_t strlen(const char *str)` | Calculate string length | Number of characters in string | `strlen("Hello")` returns `5` | `<string.h>` | Excludes null terminator |
+| `strcpy()` | `char *strcpy(char *dest, const char *src)` | Copy one string to another | Pointer to destination string | `strcpy(dest, "Hello")` copies "Hello" to dest | `<string.h>` | No buffer size checking - risk of overflow |
+| `strcmp()` | `int strcmp(const char *str1, const char *str2)` | Compare two strings | 0 if equal, <0 if str1 < str2, >0 if str1 > str2 | `strcmp("hello", "world")` returns negative | `<string.h>` | Lexicographic comparison |
+| `strcat()` | `char *strcat(char *dest, const char *src)` | Concatenate (join) strings | Pointer to destination string | `strcat(dest, " World")` appends " World" | `<string.h>` | Assumes enough space in destination |
+
+**Safety Tips:**
+- Always check buffer sizes
+- Use `strncpy()`, `strncat()`, `strncmp()` for length-limited operations
+- Ensure destination buffers are large enough to prevent buffer overflows
