@@ -6,7 +6,7 @@ tags: cofacts
 
 :::info
 - g0v slack channel：#cofacts
-- [Proposal slides](https://docs.google.com/presentation/d/1HuEinyZqkE5WF0HuVFXznfaeMyLzN24ixAwUNxhIkqA/edit#slide=id.g28caf866bb2_1_0)
+- [Proposal slides](https://docs.google.com/presentation/d/121j3tU3ed5dAAquwJgTIq5MC6iI-t1oIXsDzQeJj96s/edit)
 - 坑主：bil & MrOrz (Johnson)
 :::
 
