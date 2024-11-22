@@ -10,7 +10,7 @@ Lisensi Resmi
 Beroperasi dengan lisensi resmi, Okeplay777 menjamin keadilan dalam setiap permainan. Sistem RNG (Random Number Generator) yang digunakan memastikan hasil permainan 100% acak dan tidak dapat dimanipulasi.
 
 Koleksi Game Berkualitas
-Sebagai server resmi, Okeplay777 menawarkan berbagai pilihan game dari provider ternama seperti Pragmatic Play, PG Soft, Habanero, Microgaming, dan banyak lagi. Mulai dari slot online, kasino langsung, hingga taruhan olahraga, semua tersedia dengan kualitas terbaik.
+Sebagai server resmi, Okeplay777 menawarkan berbagai pilihan game dari provider ternama seperti Pragmatic Play, PG Soft, Habanero, Microgaming, dan banyak lagi. Mulai dari [slot](https://unmovic.org/) online, kasino langsung, hingga taruhan olahraga, semua tersedia dengan kualitas terbaik.
 
 Pelayanan Bintang 5
 Tim layanan pelanggan Okeplay777 selalu siap membantu selama 24/7. Dengan respons cepat dan solusi profesional, pemain dapat mengandalkan dukungan penuh kapan saja mereka membutuhkan bantuan.
