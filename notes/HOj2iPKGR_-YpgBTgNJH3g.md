@@ -1,3 +1,5 @@
+# Babylon staking: Backing PoS security with Bitcoin market cap
+
 Within days of Babylon mainnet cap 2, 1.6 billion dollars [1] worth of BTC are staked. While Babylon promises sustainable yields from securing other chains, the rapid influx of Bitcoin maybe pushing the system yield engine to its limits. Are we witnessing the dawn of Bitcoin's Babylon DeFi summer, or the buildup to its most spectacular yield crash?
 
 
