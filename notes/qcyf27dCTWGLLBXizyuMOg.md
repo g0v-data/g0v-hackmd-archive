@@ -41,13 +41,12 @@ tags: 拉人更輕鬆, g0v分享會
 - [Facing the Ocean 2024](https://x.com/CodeforJapan/status/1825014870817087988) [target=_blank]
 - [summit: 學生參與者與他們的產地](/O-BwI5kCSVezlQAA_iaW6Q)
 - `YouTube` [summit: 學生參與公民科技社群的契機和持續性](https://www.youtube.com/watch?v=4ak_vRTFUqE) [target=_blank]
+- `YouTube` [大松：hackath64n — 中場短講 - 拉人更輕鬆：資金池](https://youtu.be/MVR7tOOXD8E?si=cGIWTi0yt2TvC-5R)
+- `YouTube` [大松：hackath64n — 提案 - 拉人更輕鬆](https://youtu.be/de5XSTFL-lA?si=UOwbBGcHZOApjJyB)
 - `YouTube` [大松：hackath63n — 提案 — g0v.tw 社群心得](https://www.youtube.com/watch?v=NW5kuiEtcV8) [target=_blank]
 - `YouTube` [大松：hackath61n — 提案 — 拉人更輕鬆](https://www.youtube.com/watch?v=V_5rn-1aQnk) [target=_blank]
 - `YouTube` [大松：hackath60n — 提案 — g0v 參與者輪廓初探](https://www.youtube.com/watch?v=wk2sE4ObS94) [target=_blank]
 - `粉專貼文` [新手教學：如何提案？](https://www.facebook.com/share/p/tA8EbJtsEBhiBr3Q/) [target=_blank]
-
-即將登場 :eyes:
----
 
 ### 11/23 大松資金池活動
 
@@ -57,3 +56,4 @@ tags: 拉人更輕鬆, g0v分享會
 此資金池專案發表會活動將與大松同時舉行，既使社群成員與提案團隊能在活動現場開展自己的專案，也能與 g0v 社群交流想法。新手與社群新參者更可以由現場加入特定專案，到達 g0v 參與者旅程地圖中的專案參與階段，或者也更積極考慮是否更積極延續在 g0v 社群之重要參與歷程。
 
 - [拉人更輕鬆專案資金池 QV 活動 Playbook](https://docs.google.com/document/d/1ZyUD7BF0z15pLaSEP0hHez1d9T95LlVNNVXdMhWioEY/edit?tab=t.0#heading=h.eu39zx68y11c) [target=_blank]
+- [投票結果](https://quadraticvote.radicalxchange.org/event?id=55963d66-12f9-44b5-80c5-c4fd2caac031) [target=_blank]

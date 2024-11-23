@@ -125,21 +125,9 @@ Landing Page Content
     - 相同網域的詐騙名稱
     - 相同內容的詐騙名稱
 
-## 今日成果
-
-### Cofacts
-
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d0dba2ce44b51a2ce69f768964bf8694.png)
-
-- Alex 檢視 Cloudflare 防火牆規則
-- murmur
-- Sam https://github.com/cofacts/rumors-site/issues/576#issuecomment-2381249260 , Weber, 得輝
-
-### Open165
-- Chloe, Sylvia, Tofus++
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_19427e2bc13e96d00dd4885444d32ff8.png)
-
 ## 本日成果
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aab4e2da576b5815fcae2fda438e0c68.png)
 
 - 與 Alex 討論如何預防[帳單攻擊](https://www.facebook.com/ihower/posts/pfbid02NSGjkquioV7TEq5GpTCRnK9uT38NDTqEgzT31x2w8hmTgF5GLZFKWXy3zPzT66sBl)
   - 考慮從 GCS 搬到 R2，R2 檔案下載（egress）不收費
