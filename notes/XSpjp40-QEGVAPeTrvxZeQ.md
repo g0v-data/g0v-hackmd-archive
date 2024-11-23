@@ -138,3 +138,25 @@ Landing Page Content
 ### Open165
 - Chloe, Sylvia, Tofus++
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_19427e2bc13e96d00dd4885444d32ff8.png)
+
+## 本日成果
+
+- 與 Alex 討論如何預防[帳單攻擊](https://www.facebook.com/ihower/posts/pfbid02NSGjkquioV7TEq5GpTCRnK9uT38NDTqEgzT31x2w8hmTgF5GLZFKWXy3zPzT66sBl)
+  - 考慮從 GCS 搬到 R2，R2 檔案下載（egress）不收費
+- belong112 修 bug https://github.com/cofacts/rumors-site/pull/581
+
+回應
+- Winston
+- KuKuKu
+- Charlène
+- Lin
+
+
+### DWeb
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7688091cab5b304f5910d85984f18e4d.png)
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_fa791ffeb59f9b91731a3a673ddd93ae.png)
+
+
+

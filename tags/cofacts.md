@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Cofacts / Open165 hackath64n 協作頁面](../notes/XSpjp40-QEGVAPeTrvxZeQ.md) | 2024-11-23T01:14:04+08:00 | 2024-11-23T00:48:30+08:00 |
+| 1 | [Cofacts / Open165 hackath64n 協作頁面](../notes/XSpjp40-QEGVAPeTrvxZeQ.md) | 2024-11-23T15:53:20+08:00 | 2024-11-23T00:48:30+08:00 |
 | 2 | [20241118 會議記錄](../notes/GxzR0adaS8uNuaP7Vq7pfA.md) | 2024-11-18T21:08:55+08:00 | 2024-11-17T16:27:10+08:00 |
 | 3 | [Badge System](../notes/zx_Au6iiRN601tnMK7gx3A.md) | 2024-11-18T19:43:44+08:00 | 2024-11-18T07:36:53+08:00 |
 | 4 | [Cofacts user blocking mechanism](../notes/7lmvtxe5S_qsyQeoUsSyTw.md) | 2024-11-18T07:35:59+08:00 | 2024-11-18T07:35:59+08:00 |
