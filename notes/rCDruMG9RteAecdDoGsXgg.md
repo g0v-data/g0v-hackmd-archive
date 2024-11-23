@@ -35,7 +35,7 @@ Giày Oxford là biểu tượng của sự thanh lịch và truyền thống. V
 
 **Xem thêm mẫu:**
 
-**[https://agro-forum.info/blogs/4337/Lam-the-nao-de-phoi-do-voi-giay-bet-mot](https://agro-forum.info/blogs/4337/Lam-the-nao-de-phoi-do-voi-giay-bet-mot)**  
+**[https://www.ps5-forum.de/members/90118/about](https://www.ps5-forum.de/members/90118/about)**  
   
 **[https://www.abettervietnam.org/forums/discussion/english-questions/giai-dap-thac-mac-co-nen-mua-giay-hang-hieu-cu-hay-khong](https://www.abettervietnam.org/forums/discussion/english-questions/giai-dap-thac-mac-co-nen-mua-giay-hang-hieu-cu-hay-khong)**  
   
@@ -49,7 +49,7 @@ Giày Oxford là biểu tượng của sự thanh lịch và truyền thống. V
   
 **[http://loolita.es/blogs/3371/Giay-da-bong-nam-Ve-sinh-va-bao-quan-nhu](http://loolita.es/blogs/3371/Giay-da-bong-nam-Ve-sinh-va-bao-quan-nhu)**  
   
-**[https://urbanmobilitycourses.eu/forums/users/donbmcmichael6152gmail-com/](https://urbanmobilitycourses.eu/forums/users/donbmcmichael6152gmail-com/)**  
+**[https://linksome.me/patricksgreen/](https://linksome.me/patricksgreen/)**  
   
 **[http://freihe.xobor.de/u3507_donbmcmichael.html](http://freihe.xobor.de/u3507_donbmcmichael.html)**  
   
