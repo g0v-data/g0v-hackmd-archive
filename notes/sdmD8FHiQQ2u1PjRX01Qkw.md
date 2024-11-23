@@ -28,3 +28,5 @@
 
 
 ## 相關資料
+
+- [史瓦帝尼王國經貿投資環境簡介一覽表](https://ws.mofa.gov.tw/001/Upload/402/relfile/20/480/0d7e57bf-0ac5-41a2-9a26-91556b60f808.pdf)
