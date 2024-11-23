@@ -7,6 +7,8 @@ tags: hackpad
 
 此區為[g0v 零時空汙觀測專案](https://g0v.hackmd.io/QeNRXR7XQQK7JU0vRrnEYA)的子分區，提供網站方面開發共筆
 
+⚠️2024/11/23更新：airmap.g0v.tw網站已停止運作，將申請釋放網域或轉靜態頁面
+
 ## 網站開發方向大綱
 
 
@@ -27,6 +29,8 @@ tags: hackpad
     - [**相關報導**](https://www.twreporter.org/a/air-pollution-honkong)**：**空氣品質變好了  香港做對的幾件事
 
 ## 網站目前開發狀態
+
+⚠️2024/11/23更新：本專案預計於2024/11/30終止airmap.g0v.tw網頁服務
 
 \[2018.12.29\] 網址遷移至g0v.tw- [https://v5.airmap.g0v.tw/#/map](https://v5.airmap.g0v.tw/#/map)
 github repo: [https://github.com/Aspertw/airmap-laravel](https://github.com/Aspertw/airmap-laravel)
