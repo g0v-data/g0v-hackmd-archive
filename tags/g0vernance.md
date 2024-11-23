@@ -2,18 +2,18 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-11-20T14:55:49+08:00 | 2018-08-30T15:19:57+08:00 |
-| 2 | [g0v SNS 社群治理機制](../notes/THKRsDsNRXGsa_0zFUn3Gw.md) | 2024-11-15T22:20:40+08:00 | 2019-07-06T08:21:31+08:00 |
-| 3 | [拉人更輕鬆 -- 初步提案](../notes/3m0lSb-rQeiBuw2lhSK6FQ.md) | 2024-10-16T11:33:38+08:00 | 2024-03-10T19:33:46+08:00 |
-| 4 | [g0v.tw 被當作詐騙網站舉例，用於事實查核與政府宣導](../notes/p-jr_r5tRLyQ1A7OUL1r9w.md) | 2024-10-02T20:58:35+08:00 | 2023-04-04T21:05:30+08:00 |
-| 5 | [g0v.tw 社群治理頁面／g0v community g0vernance directory](../notes/Ki8oBtnjTjitnyp84ckYbA.md) | 2024-07-21T10:17:39+08:00 | 2024-07-20T09:50:24+08:00 |
-| 6 | [g0v 短網址治理機制](../notes/u-UJk-4-TsOGFYwmT54CRA.md) | 2024-05-22T01:17:58+08:00 | 2024-05-21T23:31:08+08:00 |
-| 7 | [g0v domain 治理更新 20220312](../notes/6YxV7bP-QmixKkvPev7pmg.md) | 2024-05-22T01:17:50+08:00 | 2022-03-12T14:01:56+08:00 |
-| 8 | [g0v 行為守則 g0v Code of Conduct](../notes/XPzJRxsHT2CaOO5WZ5r-BA.md) | 2024-05-02T19:14:59+08:00 | 2017-08-21T11:57:16+08:00 |
-| 9 | [g0v slack 治理機制討論](../notes/rHe3Lfh_S3yhtRawnliSIg.md) | 2024-04-24T14:17:55+08:00 | 2021-03-16T14:12:06+08:00 |
-| 10 | [g0v 首頁社群治理機制](../notes/mZ-LeFr1QJ6CuO6R3eeHnw.md) | 2024-04-20T16:20:58+08:00 | 2023-03-04T15:16:37+08:00 |
-| 11 | [g0v github 社群規範討論](../notes/1wFAJoQeTrmw9pnjcqPkXg.md) | 2024-04-20T12:33:49+08:00 | 2020-01-18T14:02:29+08:00 |
-| 12 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2024-01-23T12:40:08+08:00 | 2022-09-13T16:41:15+08:00 |
+| 1 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2024-11-23T14:38:45+08:00 | 2022-09-13T16:41:15+08:00 |
+| 2 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-11-20T14:55:49+08:00 | 2018-08-30T15:19:57+08:00 |
+| 3 | [g0v SNS 社群治理機制](../notes/THKRsDsNRXGsa_0zFUn3Gw.md) | 2024-11-15T22:20:40+08:00 | 2019-07-06T08:21:31+08:00 |
+| 4 | [拉人更輕鬆 -- 初步提案](../notes/3m0lSb-rQeiBuw2lhSK6FQ.md) | 2024-10-16T11:33:38+08:00 | 2024-03-10T19:33:46+08:00 |
+| 5 | [g0v.tw 被當作詐騙網站舉例，用於事實查核與政府宣導](../notes/p-jr_r5tRLyQ1A7OUL1r9w.md) | 2024-10-02T20:58:35+08:00 | 2023-04-04T21:05:30+08:00 |
+| 6 | [g0v.tw 社群治理頁面／g0v community g0vernance directory](../notes/Ki8oBtnjTjitnyp84ckYbA.md) | 2024-07-21T10:17:39+08:00 | 2024-07-20T09:50:24+08:00 |
+| 7 | [g0v 短網址治理機制](../notes/u-UJk-4-TsOGFYwmT54CRA.md) | 2024-05-22T01:17:58+08:00 | 2024-05-21T23:31:08+08:00 |
+| 8 | [g0v domain 治理更新 20220312](../notes/6YxV7bP-QmixKkvPev7pmg.md) | 2024-05-22T01:17:50+08:00 | 2022-03-12T14:01:56+08:00 |
+| 9 | [g0v 行為守則 g0v Code of Conduct](../notes/XPzJRxsHT2CaOO5WZ5r-BA.md) | 2024-05-02T19:14:59+08:00 | 2017-08-21T11:57:16+08:00 |
+| 10 | [g0v slack 治理機制討論](../notes/rHe3Lfh_S3yhtRawnliSIg.md) | 2024-04-24T14:17:55+08:00 | 2021-03-16T14:12:06+08:00 |
+| 11 | [g0v 首頁社群治理機制](../notes/mZ-LeFr1QJ6CuO6R3eeHnw.md) | 2024-04-20T16:20:58+08:00 | 2023-03-04T15:16:37+08:00 |
+| 12 | [g0v github 社群規範討論](../notes/1wFAJoQeTrmw9pnjcqPkXg.md) | 2024-04-20T12:33:49+08:00 | 2020-01-18T14:02:29+08:00 |
 | 13 | [g0v Summit 工人群治理機制 / g0v Summit Working Group governance](../notes/c_mPhOsZQC6FHJiMl3BIhw.md) | 2024-01-16T19:37:56+08:00 | 2020-04-09T10:41:01+08:00 |
 | 14 | [g0v Slack 閱讀完畢的系統稱讚語句](../notes/N6bGxyqSRZaAnNSmBevZVg.md) | 2023-08-13T23:13:06+08:00 | 2023-08-06T18:19:54+08:00 |
 | 15 | [給記者、研究者、參訪團的採訪、拍攝建議事項／Recommendations for journalists, researchers & visitors contacting g0v](../notes/hgXdOpyZRPCK1HVBVGmIhA.md) | 2023-06-14T04:46:36+08:00 | 2018-10-09T08:54:01+08:00 |

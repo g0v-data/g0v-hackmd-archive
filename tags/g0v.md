@@ -2,17 +2,17 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-11-20T14:55:49+08:00 | 2018-08-30T15:19:57+08:00 |
-| 2 | [g0v infrath26n 第貳拾陸次基礎建設松](../notes/2nK9k1d7TEuhy_MEcTzqPQ.md) | 2024-11-12T20:14:32+08:00 | 2024-11-12T20:07:52+08:00 |
-| 3 | [g0v infrath25n 第貳拾伍次基礎建設松](../notes/1-oLvpPaQNGoC22_91Gogg.md) | 2024-10-07T01:20:42+08:00 | 2024-10-01T15:32:55+08:00 |
-| 4 | [與 g0v 社群參與者相關的影片拍攝、紀錄片拍攝](../notes/oImzjz2XTciqP3lnbwkgKw.md) | 2024-09-22T22:39:29+08:00 | 2019-12-07T02:56:51+08:00 |
-| 5 | [與 g0v 社群或專案相關聯的學術研究Academic research on g0v and community projects](../notes/tpWNQTFvSOS_ZrSt2MiPWg.md) | 2024-09-22T22:19:00+08:00 | 2016-01-09T02:45:16+08:00 |
-| 6 | [g0v.tw 社群治理頁面／g0v community g0vernance directory](../notes/Ki8oBtnjTjitnyp84ckYbA.md) | 2024-07-21T10:17:39+08:00 | 2024-07-20T09:50:24+08:00 |
-| 7 | [聊天頻道：Slack](../notes/PwJcrD23SBag6sg15epZMA.md) | 2024-05-02T09:57:14+08:00 | 2019-09-30T21:19:30+08:00 |
-| 8 | [什麼是共筆？如何共筆？](../notes/VH876EtGQhWW8ivUGp0IPA.md) | 2024-04-20T16:17:30+08:00 | 2019-09-30T21:19:34+08:00 |
-| 9 | [什麼是開源（Open Source）與開源精神？](../notes/vzpxgXrlQrCWHa_TiqiRuA.md) | 2024-04-04T18:18:42+08:00 | 2019-09-30T21:19:04+08:00 |
-| 10 | [g0v 社群參與心得分享](../notes/VdmAs1YgRVWV4ixaXPCdpg.md) | 2024-03-09T01:27:37+08:00 | 2019-11-29T15:12:10+08:00 |
-| 11 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2024-01-23T12:40:08+08:00 | 2022-09-13T16:41:15+08:00 |
+| 1 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2024-11-23T14:38:45+08:00 | 2022-09-13T16:41:15+08:00 |
+| 2 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-11-20T14:55:49+08:00 | 2018-08-30T15:19:57+08:00 |
+| 3 | [g0v infrath26n 第貳拾陸次基礎建設松](../notes/2nK9k1d7TEuhy_MEcTzqPQ.md) | 2024-11-12T20:14:32+08:00 | 2024-11-12T20:07:52+08:00 |
+| 4 | [g0v infrath25n 第貳拾伍次基礎建設松](../notes/1-oLvpPaQNGoC22_91Gogg.md) | 2024-10-07T01:20:42+08:00 | 2024-10-01T15:32:55+08:00 |
+| 5 | [與 g0v 社群參與者相關的影片拍攝、紀錄片拍攝](../notes/oImzjz2XTciqP3lnbwkgKw.md) | 2024-09-22T22:39:29+08:00 | 2019-12-07T02:56:51+08:00 |
+| 6 | [與 g0v 社群或專案相關聯的學術研究Academic research on g0v and community projects](../notes/tpWNQTFvSOS_ZrSt2MiPWg.md) | 2024-09-22T22:19:00+08:00 | 2016-01-09T02:45:16+08:00 |
+| 7 | [g0v.tw 社群治理頁面／g0v community g0vernance directory](../notes/Ki8oBtnjTjitnyp84ckYbA.md) | 2024-07-21T10:17:39+08:00 | 2024-07-20T09:50:24+08:00 |
+| 8 | [聊天頻道：Slack](../notes/PwJcrD23SBag6sg15epZMA.md) | 2024-05-02T09:57:14+08:00 | 2019-09-30T21:19:30+08:00 |
+| 9 | [什麼是共筆？如何共筆？](../notes/VH876EtGQhWW8ivUGp0IPA.md) | 2024-04-20T16:17:30+08:00 | 2019-09-30T21:19:34+08:00 |
+| 10 | [什麼是開源（Open Source）與開源精神？](../notes/vzpxgXrlQrCWHa_TiqiRuA.md) | 2024-04-04T18:18:42+08:00 | 2019-09-30T21:19:04+08:00 |
+| 11 | [g0v 社群參與心得分享](../notes/VdmAs1YgRVWV4ixaXPCdpg.md) | 2024-03-09T01:27:37+08:00 | 2019-11-29T15:12:10+08:00 |
 | 12 | [手把手安裝 g0v Slack App](../notes/fKrjZ3BlRfWmQ471wcSdBg.md) | 2023-11-21T15:28:00+08:00 | 2023-11-19T20:29:25+08:00 |
 | 13 | [g0v 社群數位資產永續機制](../notes/4CMXhe1sQvGAcGyU0yMxVQ.md) | 2023-11-08T19:43:56+08:00 | 2023-11-08T19:32:51+08:00 |
 | 14 | [g0v X Won](../notes/_iKE3UIrSVGiURARS5yvVA.md) | 2023-10-31T21:28:28+08:00 | 2023-10-30T16:52:37+08:00 |

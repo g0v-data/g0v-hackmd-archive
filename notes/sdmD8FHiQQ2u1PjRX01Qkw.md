@@ -1,5 +1,10 @@
 # 外交可以開源嗎?
 
+* Slack： g0v Slack Chanel [#opendiplomacy](https://g0v-tw.slack.com/archives/C08237VD9B7)
+* Slide ： [外交可以開源嗎?](https://docs.google.com/presentation/d/1hRDkrRWtU5XILRkbrBU4o4_UqR9XwHnw/edit#slide=id.p1)
+
+
+
 ## 背景
 
 
@@ -12,13 +17,14 @@
 - 當地不同非政府團體間的競合關係
 - 中華人民共和國與當地非政府團體間的關係，甚至批評台灣與當地腐敗政府合作
 - 當地實際的多元民眾與政府、非政府組織間的關係
-- 不滿的情緒會更容易被曝光（Negativity bias）
+- 不滿的情緒會更容易被曝光
+
+
 
 
 ## 可能可以做的事
 1.建立一個資料庫，收集當地跟台灣相關的事件新聞，或呈現出當地民眾對台灣的想法<br>
 2. 台灣對當地相關資源的資料庫，使當地民眾獲取台灣相關輔助資源，不用只透過政府、或單一第三方組織<br>
-3.
 
 
 ## 難易度
@@ -30,3 +36,10 @@
 ## 相關資料
 
 - [史瓦帝尼王國經貿投資環境簡介一覽表](https://ws.mofa.gov.tw/001/Upload/402/relfile/20/480/0d7e57bf-0ac5-41a2-9a26-91556b60f808.pdf)
+
+
+## 可用工具
+
+- Django 
+- Notion
+- Airtable

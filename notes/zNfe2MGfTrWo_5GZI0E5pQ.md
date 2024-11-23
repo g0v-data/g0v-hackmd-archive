@@ -253,3 +253,13 @@ Step 7 點擊「團隊成員」
 - 申請人 slack ID：chewei
 - 聯絡人 slack ID：chewei
 - 預計用於 Bookmode https://g0v.hackmd.io/@waytosafety/home
+
+### d2wg
+- 申請日期：20241123
+- 申請名稱：d2wg
+- 專案簡介：
+    - g0v 數位民主研究案工作小組 (Digital Democracy Working Group, D2WG)
+    - Slack 頻道：#d2wg
+    - 預計用於[專案共筆](https://g0v.hackmd.io/@summit2024/d2wg-book)與成果公布
+- 申請人 Slack ID：rschiang
+- 聯絡人 Slack ID：rschiang, chihao, Jason致昕, pm5
