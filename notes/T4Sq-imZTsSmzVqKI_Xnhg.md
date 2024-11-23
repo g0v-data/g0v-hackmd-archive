@@ -29,6 +29,9 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 - https://dlacp.gov.taipei/cp.aspx?n=2DE8CDCF6C2A7528
 - 7-11 https://help.shopmore.com.tw/#
 
+用 AI 來浪費詐騙集團時間
+- https://youtu.be/ZUDBAnOPXU0
+
 ## 個案經驗蒐集
 - 2024 專書 https://www.facebook.com/share/p/JnsrhB4d54j2AUGy/
 - 2024 電話，對方唸出完整正確的身分證字號 https://www.facebook.com/share/p/UAtnFG6hTJf2ya2H/
