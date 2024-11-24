@@ -3,6 +3,7 @@
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
 | [B1-RQ7P93](../../notes/KBdxyrw4T4KuljrnKbbLNg.md) | g0v 灣區社群治理相關討論＆會議記錄 | 2023-07-21T05:14:48+08:00 | Edit mode |
+| [HJ9kj4xX1x](../../notes/Y6M01zt9TEalRADmeCu5Lg.md) | g0v 灣區社群治理會議記錄區 | 2024-11-24T13:34:25+08:00 | Edit mode |
 | [ByLR7VQkkx](../../notes/y1LQIW2BRe6oRRqBE0Sd0Q.md) | 2024.11.17 第 3 次 g0v 灣區小聚共筆 | 2024-10-09T06:35:57+08:00 | View mode |
 | [Bk5ixv_NR](../../notes/ue3U5BskQom4harU8uhjsA.md) | 灣區圖書館臺灣書籍植入計畫 | 2024-06-01T16:49:37+08:00 | View mode |
 | [SyXIPNjj2](../../notes/CGTgTPFiTA-HM5KCc_nPeQ.md) | 第3次 g0v 矽谷灣區小聚行前通知 | 2023-08-05T10:43:23+08:00 | View mode |
