@@ -43,3 +43,7 @@ https://www.facebook.com/share/p/1B2BxKghWE/
 # 指引
 
 將 AI 技術發展進程納入考量
+
+AI產品與系統評測中心
+Artificial Intelligence Evaluation Center
+https://www.aiec.org.tw/
