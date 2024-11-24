@@ -14,6 +14,7 @@ tags: 公民參與
 開放政府行動方案 - 民間提案
 - 20240308 截止提案，提案區：https://join.gov.tw/policies/detail/cbba96d5-537e-4e3e-a18a-5ddc61fa8bfc
 - 20240308 已寄出至 icyang@ndc.gov.tw
+- 2024xxxx 公布結果並未入選
 - 發想
     - 舉例那些 Join 平台上的哪些案型
 
@@ -93,6 +94,7 @@ email: joinplus@googlegroups.com
 工作進度：
 - 20240308 截止提案，提案區：https://join.gov.tw/policies/detail/cbba96d5-537e-4e3e-a18a-5ddc61fa8bfc
 - 20240308 已提交
+- 2024xxxx 公布並未入選
 
 筆記區 
 - 提案方向
