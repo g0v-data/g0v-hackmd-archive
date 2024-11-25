@@ -1,5 +1,5 @@
 EFK
-一、主機
+一、正式上版主機
 1.下載最新fluent-bit的zip檔
 2.在正式機D:槽新增ProgramFiles\fluent-bit的資料夾
 3.將Fluent-bit.zip在此解壓所
