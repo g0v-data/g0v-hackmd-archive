@@ -114,3 +114,78 @@ int main()
 </pre>
 
 
+====
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_519d317b74c4733e17f0e2f10425e700.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_51c884ad0b3f8a34853e2e9ec6608de3.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_089df6be1676bb09ce3f201587e0bdc4.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_55dbfd05d9b90742b61fe9655b9a2b1a.png)
+<pre>
+
+#include <iostream>
+#include <string>
+#include <iomanip>
+using namespace std;
+
+int main()
+{
+	int n,k;
+	int p1,p2;
+	string m1,m2;
+	
+	bool space=false;
+	
+	while(cin>>n)
+	{
+		if(n==0)
+		{
+			break;
+		}
+		cin>>k;
+		int win[101]={0};
+		int total[101]={0};
+		for(int i=0;i<k*n*(n-1)/2;i++)
+		{
+			cin>>p1>>m1>>p2>>m2;
+			if((m1=="paper"&&m2=="rock")||(m1=="rock"&&m2=="scissors")||(m1=="scissors"&&m2=="paper"))
+			{
+				win[p1]++;
+				total[p1]++;
+				total[p2]++;
+			}
+			else if((m2=="paper"&&m1=="rock")||(m2=="rock"&&m1=="scissors")||(m2=="scissors"&&m1=="paper"))
+			{
+				win[p2]++;
+				total[p1]++;
+				total[p2]++; 
+			}
+			//else
+			//{
+			//	total[p1]++;
+			//	total[p2]++; 	
+			//}  平手不改變勝率 
+			
+		}
+		
+		if(space==true)
+		{
+			cout<<endl;
+		}
+		space=true;//第一筆之前不空行
+		for(int j=1;j<=n;j++)//輸出player 1~n 
+		{
+			if(total[j]==0)
+			{
+				cout<<"-"<<endl;
+			}
+			else
+			{
+				cout<<fixed<<setprecision(3)<<(float)win[j]/total[j]<<endl;
+			}
+
+		}
+		//cout<<endl;會使最後output後都空一行 
+	}
+	return 0;
+}
+
+</pre>
