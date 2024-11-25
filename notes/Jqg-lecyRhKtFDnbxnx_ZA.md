@@ -114,12 +114,23 @@ Cons
     - Double 資料存放費用 (GCS & Cloudflare) --> 但 cost 很少，即使乘二也不貴
     - 如果要下架圖片，要記得改 Cloudflare 這端的圖
       - 下架是否即時？[name=nonumpa]
-        - 不確定是否有 cache，但他都做成 R2 服務了
+        - 不確定是否有 cache，但他都做成 R2 服務了，應該知道我想更新某檔案 [name=mrorz]
 
+:::success
+記錄到 CCPRIP 的 infra layer
+:::
 
 ## 檢舉怪象
 
 - 「磨告」
+- 目前沒有搜集檢舉人 Email ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_695b3f7e97398b4508d893292f166598.png)
+- 是否有從 LINE 開 cofacts 網站檢舉的人？有的話，那瀏覽器不會有 google 帳號
+  - 網站 URL 檢舉可以加 `openExternalBrowser=1` 確認大家都是用瀏覽器檢舉 [name=mrorz]
+
+:::success
+已開啟 collect email addresses: Verified
+現在檢舉要先登入 Google
+:::
 
 ## Langfuse
 
