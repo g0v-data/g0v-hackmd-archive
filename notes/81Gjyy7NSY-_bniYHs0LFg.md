@@ -1,189 +1,315 @@
-Viva88
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_bca00e457d39593a76bff44a6535b111.jpg)
-Viva88, thương hiệu mới của Bong88, là nền tảng cá cược trực tuyến nổi bật với đa dạng sản phẩm như cá cược thể thao, casino, và slot online. Viva88 thu hút người chơi nhờ tỷ lệ kèo chuẩn, giao dịch thanh toán nhanh chóng, mang lại trải nghiệm cá cược chuyên nghiệp và tiện lợi.
+FB88
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d42dc3e310b11cad5e73d9b687d422da.jpg)
+FB88 là nhà cái cá cược trực tuyến uy tín hàng đầu tại Châu Á và Việt Nam. Với loạt sản phẩm cá cược đỉnh cao như Bóng đá, Casino, Xổ số, FB88 mang đến trải nghiệm giải trí tuyệt vời, cùng các chương trình khuyến mãi hấp dẫn. Tham gia ngay để tận hưởng dịch vụ chuyên nghiệp và tỷ lệ cược hấp dẫn!
 
-Tên Công Ty: Viva88
+Tên Công Ty: FB88
 
-Email: viva88tech@gmail.com
+Email: fb88science@gmail.com
 
-Địa chỉ: 83 Đường số 15, Bình Hưng Hoà, Bình Tân, Hồ Chí Minh 700000, Việt Nam
+Địa chỉ: Hem 125/29 Phan Văn Hớn, Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam
 
-Điện thoại: 0989555610
+Điện thoại: ̣̣0941234514
 
-Website: https://viva88.tech/
+Website: https://fb88.science/
 
 Zipcode: 70000
 
-Hashtags: #viva88tech #viva88
+Hashtags: #fb88science #fb88
 
-https://twitter.com/viva88tech
+https://twitter.com/fb88science
 
-https://www.youtube.com/@viva88tech
+https://www.youtube.com/@fb88science
 
-https://www.twitch.tv/viva88tech/about
+https://www.tumblr.com/fb88science
 
-https://gravatar.com/cheerfullyatomic91a027d80c
+https://www.youtube.com/@fb88science
 
-https://www.moshpyt.com/user/viva88tech
+https://gravatar.com/gleaming2453895665
 
-https://goodandbadpeople.com/0e6f05d17
+https://qiita.com/fb88science
 
-https://gitlab.aicrowd.com/viva882
+https://www.sidefx.com/profile/fb88science/
 
-https://www.2000fun.com/home-space-uid-4822663-do-profile-view-me.html
+https://skitterphoto.com/photographers/127623/fb88
 
-https://matters.town/@viva88tech
+https://www.snipesocial.co.uk/w388vncom
 
-https://pins.schuttrange.lu/profiles/viva88tech/activity?locale=en
+https://pubhtml5.com/homepage/gvprm/
 
-https://www.swap-bot.com/user:viva88tech
+https://os.mbed.com/users/fb88science/
 
-https://tealfeed.com/viva88tech
+https://homepage.ninja/fb88science
 
-https://ask-people.net/user/viva88tech
+https://www.pinterest.com/fb88science/
 
-https://hyvebook.com/viva88tech
+https://all4webs.com/fb88science/home.htm?15609=34437
 
-https://3ddd.ru/users/viva88tech
+https://awan.pro/forum/user/17780/
 
-https://audiomack.com/viva88tech
+https://www.speedrun.com/users/fb88science
 
-https://participa.santboi.cat/profiles/viva88tech/activity
+https://baskadia.com/user/eyrd
 
-https://barcelonadema-participa.cat/profiles/viva88tech/activity
+https://www.undrtone.com/fb88science
 
-https://participez.perigueux.fr/profiles/viva88tech/activity?locale=en
+http://www.askmap.net/location/7175011/vietnam/fb88science
 
-https://decidim.pontault-combault.fr/profiles/viva88tech/activity
+https://stocktwits.com/fb88science
 
-https://participa.tarragona.cat/profiles/viva88tech/activity
+https://www.brownbook.net/business/53291435/FB88/
 
-https://dialog.eslov.se/profiles/viva88tech/activity?locale=en
+https://participa.terrassa.cat/profiles/fb88science/activity
 
-https://decidim.opcions.coop/profiles/viva88tech/activity
+https://gitlab.vuhdo.io/fb88science
 
-https://www.shippingexplorer.net/en/user/vivatech/124559
+https://decidim.santcugat.cat/profiles/fb88science/activity
 
-https://chatterchat.com/viva88tech
+http://80.82.64.206/user/fb88science
 
-https://viva88tech.gallery.ru/
+http://emseyi.com/user/fb88science
 
-http://molbiol.ru/forums/index.php?showuser=1404500
+https://app.talkshoe.com/user/fb88science
 
-https://www.metooo.it/u/viva88tech
+https://app.geniusu.com/users/2559176
 
-https://www.podchaser.com/users/seithoba
+https://community.alexgyver.ru/members/fb88science.85990/#about
 
-https://careers.gita.org/profiles/5636482-viva88
+https://edabit.com/user/kKbxhsLvEJ8XExBS3
 
-https://www.mazafakas.com/user/profile/5173358
+https://dreevoo.com/profile.php?pid=714705
 
-https://businessbookmark.com/story3908342/viva88
+https://blender.community/fb8860/
 
-https://dirstop.com/story21246076/viva88
+https://topsitenet.com/profile/fb88science/1315982/
 
-https://mstdn.business/@viva88tech
+https://ferrariformula1.hu/tagok/fb88science/
 
-https://qa.laodongzu.com/?qa=user/viva88tech
+https://hackmd.okfn.de/s/HJH3uKZmkg
 
-https://www.wvhired.com/profiles/5636478-viva88
+https://justpaste.me/FRVy
 
-https://www.rcuniverse.com/forum/members/viva88tech.html
+https://transfur.com/Users/fb88science
 
-https://www.clickasnap.com/profile/viva88tech
+https://library.zortrax.com/members/fb88-20/
 
-http://www.haxorware.com/forums/member.php?action=profile&uid=310817
+https://lkc.hp.com/member/kohlmeyerbankhead41228#
 
-https://raovat.nhadat.vn/members/viva88tech-146377.html
+https://civitai.com/user/fb88science
 
-https://www.metooo.es/u/viva88tech
+https://postr.yruz.one/profile/fb88science
 
-https://macro.market/company/viva88-13
+https://activepages.com.au/profile/fb88science
 
-https://pad.hacc.space/s/k-xLm70sl
+https://kansabook.com/fb88science
 
-https://codimd.fiksel.info/s/4b6iYRuxU
+https://forum.tomedo.de/index.php/user/fb88science
 
-https://www.niftygateway.com/@viva88tech/
+https://www.vevioz.com/f8fef6410
 
-https://www.giantbomb.com/profile/viva88tech/
+http://www.decidimmataro.cat/profiles/fb88science/activity
 
-https://www.adsoftheworld.com/users/5a10d9a8-b1e0-414e-8f36-88c41bfd3196
+https://makeprojects.com/profile?activeTab=TabProjectBoards
 
-https://varecha.pravda.sk/profil/viva88tech/o-mne/
+https://www.imgcredit.xyz/fb88science
 
-https://makersplace.com/seithoba/about
+http://1ctv.cn/home.php?mod=space&uid=2971924
 
-https://doselect.com/@927c02c32bf95a3a0f8cca3f2
+https://matkafasi.com/user/fb88science
 
-https://comiko.net/u/2315139-viva88tech
+http://delphi.larsbo.org/user/fb88science
 
-https://pinshape.com/users/6161628-viva88tech#designs-tab-open
+https://git.project-hobbit.eu/kohlmeyerbankhead
 
-https://photoclub.canadiangeographic.ca/profile/21431368
+https://b.cari.com.my/home.php?mod=space&uid=3205050&do=profile
 
-https://www.fitday.com/fitness/forums/members/viva88tech.html
+http://www.so0912.com/home.php?mod=space&uid=2438075
 
-https://experiment.com/users/vviva886
+https://www.kosei-kankeisei.com/profile/kohlmeyerbankhead/profile
 
-https://www.giveawayoftheday.com/forums/profile/242297
+https://www.davidrio.com/profile/kohlmeyerbankhead/profile
 
-https://www.aicrowd.com/participants/viva88tech
+https://pad.hacc.space/s/_9Ki2uxiM
 
-https://www.huntingnet.com/forum/members/viva88tech.html
+https://codimd.fiksel.info/s/4hTILfzOQ
 
-https://zbato.com/u/2315139-viva88tech
+https://www.niftygateway.com/@fb88science/
 
-https://www.facer.io/u/viva88tech
+https://www.giantbomb.com/profile/fb88science/
 
-https://gitlab.com/seithoba
+https://varecha.pravda.sk/profil/fb88science/o-mne/
 
-https://conecta.club/profile/2100-viva88tech/
+https://makersplace.com/kohlmeyerbankhead/about
 
-https://allmyfaves.com/Viva88
+https://doselect.com/@90d0a8fc67a24715f041389c0
 
-https://scrapbox.io/viva88tech/viva88tech
+https://comiko.net/u/2317523-fb88science
 
-https://linkmix.co/31165235
+https://pinshape.com/users/6172067-fb88science#designs-tab-open
 
-https://doc.aquilenet.fr/s/6KnD58XCR
+https://photoclub.canadiangeographic.ca/profile/21432190
 
-https://www.exchangle.com/viva88tech
+https://www.fitday.com/fitness/forums/members/fb88science.html
 
-https://zzb.bz/viva88tech
+https://experiment.com/users/fb88science
 
-https://fyers.in/community/member/Y6TsyiTDnk
+https://www.giveawayoftheday.com/forums/profile/242570
 
-http://www.fanart-central.net/user/viva88tech/profile
+https://www.aicrowd.com/participants/fb88science
 
-https://www.nintendo-master.com/profil/viva88tech
+https://zbato.com/u/2317523-fb88science
 
-https://klotzlube.ru/forum/user/290690/
+https://www.facer.io/u/fb88science
 
-https://community.m5stack.com/user/viva88tech
+https://zb3.org/fb88science/fb88
 
-https://www.angrybirdsnest.com/members/viva88tech/profile/
+https://www.balatarin.com/users/fb88science
 
-https://www.algebra.com/tutors/aboutme.mpl?userid=viva88tech
+https://pad.fs.lmu.de/s/nRTEQkGR1
 
-https://www.criminalelement.com/members/viva88tech/profile/
+https://hubpages.com/@fb88science
 
-https://samkey.org/forum/member.php?311184-viva88tech
+https://xbato.com/u/2317523-fb88science
 
-https://vnvista.com/forums/member185127.html
+http://bbs.zhizhuyx.com/home.php?mod=space&uid=11858523
 
-https://shapshare.com/viva88tech
+https://ourairports.com/members/fb88science/
 
-https://www.producthunt.com/@viva88tech
+https://pad.fs.lmu.de/s/yj9rgb445
 
-https://apk.tw/space-uid-6744007.html
+https://7sky.life/members/fb88science/
 
-https://wibki.com/Viva88
+https://cadillacsociety.com/users/fb88science/#google_vignette
 
-https://www.ilcirotano.it/annunci/author/viva88tech/
+http://freestyler.ws/user/499611/fb88science
 
-https://www.ethiovisit.com/myplace/viva88tech
+https://illust.daysneo.com/illustrator/fb88science/
 
-https://g0v.hackmd.io/s/B15wjf0bye
+https://developers.maxon.net/forum/user/fb88science
 
-https://6giay.vn/members/viva88tech.106385/
+https://bioqoo.com/fb88science
+
+https://www.recepti.com/profile/view/112549
+
+https://forum.lexulous.com/user/fb88science
+
+https://makeagif.com/user/fb88science?ref=kltlEv
+
+https://advego.com/profile/fb88science/
+
+https://forum.aceinna.com/user/fb88science
+
+https://pad.stuve.uni-ulm.de/s/6bCpUCMkn
+
+https://akniga.org/profile/702780-fb88/
+
+https://3dexport.com/fb88science
+
+https://community.enrgtech.co.uk/forums/users/fb88science/
+
+https://hedgedoc.k8s.eonerc.rwth-aachen.de/s/xQnkT_vfN
+
+https://oyaschool.com/users/fb88science/
+
+https://doc.anagora.org/s/xBJ7uHCvQ
+
+https://skiomusic.com/fb88science
+
+https://rock8899.com/home.php?mod=space&uid=3177628
+
+https://www.collcard.com/fb88science
+
+https://about.me/fb88science/
+
+https://glitch.com/@fb88science
+
+https://theamberpost.com/member/fb88science
+
+https://londonchinese.com/home.php?mod=space&uid=495354
+
+https://medibang.com/author/26853821/
+
+https://d.cosx.org/u/fb88science
+
+https://recordsetter.com//user/fb88science
+
+https://www.sociomix.com/u/fb88222222222222/
+
+https://www.sideprojectors.com/user/profile/119992
+
+https://www.video-bookmark.com/bookmark/6506096/fb88/
+
+https://www.renderosity.com/users/id:1596674
+
+https://cofacts.tw/user/fb88science
+
+https://forum.citadel.one/user/fb88science
+
+https://gettogether.community/profile/253937/
+
+https://readthedocs.org/projects/fb88science/
+
+https://forum.skullgirlsmobile.com/members/fb88science.65235/#about
+
+https://www.proko.com/@fb88science/activity
+
+https://travel98.com/member/143969
+
+https://matters.town/@fb88science
+
+https://pins.schuttrange.lu/profiles/fb88science/activity?locale=en
+
+https://3ddd.ru/users/fb88science
+
+https://audiomack.com/fb88science
+
+https://participa.santboi.cat/profiles/fb88science/activity
+
+https://participez.perigueux.fr/profiles/fb88science/activity?locale=en
+
+https://decidim.pontault-combault.fr/profiles/fb88science/activity
+
+https://participa.tarragona.cat/profiles/fb88science/activity
+
+https://dialog.eslov.se/profiles/fb88science/activity?locale=en
+
+https://decidim.opcions.coop/profiles/fb88science/activity
+
+https://chatterchat.com/fb88science
+
+http://molbiol.ru/forums/index.php?showuser=1404776
+
+https://www.metooo.it/u/fb88science
+
+https://www.podchaser.com/users/kohlmeyerbankhead
+
+https://businessbookmark.com/story3914306/fb88
+
+https://dirstop.com/story21256678/fb88
+
+https://mstdn.business/@fb88science
+
+https://bootstrapbay.com/user/fb88science
+
+https://www.metooo.es/u/fb88science
+
+https://8tracks.com/fb88science
+
+https://storyweaver.org.in/en/users/1029109
+
+https://participez.nouvelle-aquitaine.fr/profiles/fb88_8/activity?locale=en
+
+https://www.codementor.io/@fb88614945
+
+https://atelierdevosidees.loiret.fr/profiles/fb88science/activity
+
+https://swaay.com/u/kohlmeyerbankhead/about/
+
+https://slackcommunity.com/u/m6j3km/#/about
+
+https://gitlab.freedesktop.org/fb88science
+
+https://participons.mauges-sur-loire.fr/profiles/fb88science/activity
+
+https://decidim.rezero.cat/profiles/fb88science/activity
+
+https://participacion.cabildofuer.es/profiles/fb88science/activity?locale=en

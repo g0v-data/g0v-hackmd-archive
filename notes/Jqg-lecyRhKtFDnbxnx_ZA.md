@@ -47,6 +47,23 @@ http://dev.cofacts.tw/
 
 ## CCPRIP
 
+### [Op] Automated spam removal
+
+> Design doc: https://g0v.hackmd.io/@cofacts/rd/%2Fum7DyY_ESbu2LL78kLw3pg
+
+
+#### Phase 1: Script execution automation
+> MrOrz
+
+https://github.com/cofacts/rumors-api/pull/352
+- Still debugging
+- 可以穩定重現、每次都死在相同的 test
+- PR 之外的 master 不會有此問題
+
+#### Phase 3: Automated detection
+> nonumpa
+
+
 ### [Infra] Downtime
 
 - 2024/11/24 17:23~18:50 疑似倒站 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e236f0a5cdf5065d4f7e16d654a95fc1.png)
@@ -94,7 +111,9 @@ Cons
 
 - 「磨告」
 
+## Langfuse
 
+Design doc: https://g0v.hackmd.io/@cofacts/rd/%2FccwZjCTnQ4-I5sPO1tuvFg
 
 ## 小聚籌備
 
