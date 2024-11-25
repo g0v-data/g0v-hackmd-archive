@@ -157,7 +157,7 @@ Design doc 紀錄
 
 :::success
 - Figma mockup for edit UI + dialog
-- 開 rumos-site 的票放需求 & Figma
+- 開 rumos-site 的票放需求 & Figma https://github.com/cofacts/rumors-site/issues/584
 - 標 good first issue
 :::
 

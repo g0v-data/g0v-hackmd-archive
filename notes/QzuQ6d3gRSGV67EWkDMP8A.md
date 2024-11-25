@@ -193,7 +193,7 @@ AR
 
 ## 背景及參考資料
 
-[hackath17n Bobby Tung的提案](https://g0v.hackpad.tw/Emoji-YPkxkHyGz97)
+[hackath17n Bobby Tung的提案](https://g0v.hackmd.io/AMuQlV4FT2C4VMIlhIHBag)
 [當時提出的emoji列表](https://docs.google.com/spreadsheets/d/1GHA0iy-OJsQ9BBiJXtffkCLjFbScYyVffrzQvmGs-wk/edit#gid=0)
 [https://www.taiwanemoji.com/](https://www.taiwanemoji.com/)
 via Stella [https://dribbble.com/shots/4264101-Attractions-in-Taiwan](https://dribbble.com/shots/4264101-Attractions-in-Taiwan)

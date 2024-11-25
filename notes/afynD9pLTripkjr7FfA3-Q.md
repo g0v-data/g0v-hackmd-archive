@@ -1,0 +1,4 @@
+**Cách đăng ký GO88 chỉ với vài bước đơn giản**
+Để bắt đầu hành trình tại GO88, bạn chỉ cần thực hiện vài thao tác cơ bản. Đầu tiên, hãy truy cập vào trang web chính thức hoặc ứng dụng GO88 qua đường dẫn uy tín. Sau đó, tìm và nhấp vào nút "Đăng ký" ở góc phải màn hình.
+Tại giao diện đăng ký, bạn cần điền các thông tin cá nhân cần thiết. Bao gồm số điện thoại hoặc email, tên đăng nhập, và mật khẩu. Hãy đảm bảo thông tin chính xác và phù hợp với yêu cầu của hệ thống để tránh gặp khó khăn khi xác thực.
+Khi hoàn tất, nhập mã xác minh được gửi qua SMS hoặc email để kích hoạt tài khoản. Sau đó, bạn đã sẵn sàng đăng nhập và trải nghiệm thế giới giải trí phong phú tại GO88. Nếu có bất kỳ vấn đề nào, hãy liên hệ bộ phận hỗ trợ để được giải đáp.

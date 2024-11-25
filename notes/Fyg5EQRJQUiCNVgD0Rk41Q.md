@@ -12,6 +12,7 @@ tags: joinplus
 
 ### 專案介紹簡報
 
+三分鐘介紹影片：https://youtu.be/BzEZNKJlSzc
 另開頁面：https://docs.google.com/presentation/d/1uilk4kIXIOhkbFiCUGSW690GvlJkI4hIwOsVlV1xE8o/edit
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKeUUPlwEIBG3eJcrqY0xdiuKwjn6iNqi_UHaiiCxGsIy_AQAvH_P_ovO1qEvB2CxoAvsQVRkM8wc3/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="460" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

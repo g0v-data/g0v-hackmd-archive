@@ -2,12 +2,12 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20241125 會議記錄](../notes/Jqg-lecyRhKtFDnbxnx_ZA.md) | 2024-11-25T14:54:23+08:00 | 2024-11-25T00:11:25+08:00 |
-| 2 | [Cofacts / Open165 hackath64n 協作頁面](../notes/XSpjp40-QEGVAPeTrvxZeQ.md) | 2024-11-23T16:20:05+08:00 | 2024-11-23T00:48:30+08:00 |
-| 3 | [20241118 會議記錄](../notes/GxzR0adaS8uNuaP7Vq7pfA.md) | 2024-11-18T21:08:55+08:00 | 2024-11-17T16:27:10+08:00 |
-| 4 | [Badge System](../notes/zx_Au6iiRN601tnMK7gx3A.md) | 2024-11-18T19:43:44+08:00 | 2024-11-18T07:36:53+08:00 |
-| 5 | [Cofacts user blocking mechanism](../notes/7lmvtxe5S_qsyQeoUsSyTw.md) | 2024-11-18T07:35:59+08:00 | 2024-11-18T07:35:59+08:00 |
-| 6 | [20241111 會議記錄](../notes/_e0nyj04SoCzxdM38CzuYQ.md) | 2024-11-11T21:05:12+08:00 | 2024-11-09T16:33:28+08:00 |
+| 1 | [20241111 會議記錄](../notes/_e0nyj04SoCzxdM38CzuYQ.md) | 2024-11-25T16:04:34+08:00 | 2024-11-09T16:33:28+08:00 |
+| 2 | [20241125 會議記錄](../notes/Jqg-lecyRhKtFDnbxnx_ZA.md) | 2024-11-25T14:54:23+08:00 | 2024-11-25T00:11:25+08:00 |
+| 3 | [Cofacts / Open165 hackath64n 協作頁面](../notes/XSpjp40-QEGVAPeTrvxZeQ.md) | 2024-11-23T16:20:05+08:00 | 2024-11-23T00:48:30+08:00 |
+| 4 | [20241118 會議記錄](../notes/GxzR0adaS8uNuaP7Vq7pfA.md) | 2024-11-18T21:08:55+08:00 | 2024-11-17T16:27:10+08:00 |
+| 5 | [Badge System](../notes/zx_Au6iiRN601tnMK7gx3A.md) | 2024-11-18T19:43:44+08:00 | 2024-11-18T07:36:53+08:00 |
+| 6 | [Cofacts user blocking mechanism](../notes/7lmvtxe5S_qsyQeoUsSyTw.md) | 2024-11-18T07:35:59+08:00 | 2024-11-18T07:35:59+08:00 |
 | 7 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-11-11T16:41:44+08:00 | 2022-08-05T10:46:53+08:00 |
 | 8 | [Cofacts API access management](../notes/51wwLHgvSUqtBDaP-yAVnA.md) | 2024-11-08T14:15:08+08:00 | 2021-01-19T22:33:07+08:00 |
 | 9 | [20241104 會議記錄](../notes/Pq1xffBaQW69lGyrp7JFng.md) | 2024-11-05T11:29:57+08:00 | 2024-11-04T13:08:57+08:00 |
