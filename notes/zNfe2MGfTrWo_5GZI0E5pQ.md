@@ -55,6 +55,7 @@ tags: g0vernance, g0v, hackmd
 - bayarea
 - pmpc
 - waytosafety
+- d2wg
 
 ## Team 的新增 / 修改設定 / 刪除機制
 - g0v HackMD 是擁有獨立的 Instance，所以 g0v HackMD 可以自行建立多個 Team；建立 Team 現在需要 Instance 的超級管理員權限。
@@ -252,7 +253,7 @@ Step 7 點擊「團隊成員」
 - slack channel #disaster-go
 - 申請人 slack ID：chewei
 - 聯絡人 slack ID：chewei
-- 預計用於 Bookmode https://g0v.hackmd.io/@waytosafety/home
+- 運用方法：https://g0v.hackmd.io/@waytosafety/home
 
 ### d2wg
 - 申請日期：20241123
@@ -263,3 +264,4 @@ Step 7 點擊「團隊成員」
     - 預計用於[專案共筆](https://g0v.hackmd.io/@summit2024/d2wg-book)與成果公布
 - 申請人 Slack ID：rschiang
 - 聯絡人 Slack ID：rschiang, chihao, Jason致昕, pm5
+- 運用方法：https://g0v.hackmd.io/@d2wg/book/

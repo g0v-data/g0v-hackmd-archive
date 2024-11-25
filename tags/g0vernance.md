@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2024-11-23T14:38:45+08:00 | 2022-09-13T16:41:15+08:00 |
+| 1 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2024-11-25T15:54:05+08:00 | 2022-09-13T16:41:15+08:00 |
 | 2 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2024-11-20T14:55:49+08:00 | 2018-08-30T15:19:57+08:00 |
 | 3 | [g0v SNS 社群治理機制](../notes/THKRsDsNRXGsa_0zFUn3Gw.md) | 2024-11-15T22:20:40+08:00 | 2019-07-06T08:21:31+08:00 |
 | 4 | [拉人更輕鬆 -- 初步提案](../notes/3m0lSb-rQeiBuw2lhSK6FQ.md) | 2024-10-16T11:33:38+08:00 | 2024-03-10T19:33:46+08:00 |
