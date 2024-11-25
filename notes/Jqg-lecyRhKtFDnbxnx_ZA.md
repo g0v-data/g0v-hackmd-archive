@@ -26,7 +26,7 @@ Admin API scaffold release https://github.com/cofacts/rumors-api/releases/tag/re
 
 #### :globe_with_meridians: Site
 
-- https://github.com/cofacts/rumors-site/pull/581
+- https://github.com/cofacts/rumors-site/pull/581 & https://github.com/cofacts/rumors-site/pull/583
 
 ##### Testing checklist
 http://dev.cofacts.tw/
@@ -48,6 +48,10 @@ http://dev.cofacts.tw/
 ## CCPRIP
 
 ### [Infra] Downtime
+
+- 2024/11/24 17:23~18:50 疑似倒站 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e236f0a5cdf5065d4f7e16d654a95fc1.png)
+- 2024/11/24 17:00 ~ 11/25 14:27 台灣 LINE bot 下線 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8fa43bd45c7b9cf4a11e3fe2b1d00ebd.png)
+- 2024/11/24 17:00~18:00 CPU & disk IO 很高 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_14551a3f290f76a90da425f0bbb53481.png)，應該是 memory ＆ swap 滿了
 
 :::info
 Record to https://hackmd.io/@cofacts/incidents
