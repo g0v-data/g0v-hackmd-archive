@@ -78,7 +78,7 @@ Lessons learned by iHower: https://www.facebook.com/ihower/posts/pfbid02NSGjkqui
 Thanks to @alex for proposing the idea!
 
 Pros
-- [No egress fee](https://developers.cloudflare.com/r2/pricing), class A & B operation 比 GCS 的便宜
+- [No egress fee](https://developers.cloudflare.com/r2/pricing) 而且 class A & B operation 比 GCS 的便宜
 - [Sippy](https://developers.cloudflare.com/r2/data-migration/sippy/) incremental migration
     - 可以先只改 rumors-api 輸出 URL 的部分，讓它輸出 R2 URL
 
@@ -93,3 +93,33 @@ Cons
 ## 檢舉怪象
 
 - 「磨告」
+
+
+
+## 小聚籌備
+
+- [ ] 日期：01/05 (日)   - 2025 skedda 還沒有被借走
+- [ ] 食物：
+- [ ] 場地：NPO Hub Foundry（大的那間)
+- [ ] 時間：
+	- 活動時間：14:00 - 17:00
+	- 時間分配
+        - 2:00 - 2:20 開場
+            - 影片
+            - Slido 暖身
+        - 2:20 - 2:40 引導註冊網站、介紹評價現有回應
+        - 2:40 - 2:50 實作評價
+        - 2:50 - 3:10 介紹補充資訊
+        - 3:10 - 3:40 實作補充資訊、自我介紹、休息
+        - 3:40 - 4:10 介紹撰寫新回應
+        - 4:10 - 4:40 實作撰寫新回應
+        - 4:40 - 5:00 介紹分類、RSS、合照
+- [ ] 投放目標：
+  - 推播日：
+  - 目標：雙北
+- [ ] KKTIX: https://cofacts.kktix.cc/events/cofactseditor45
+- [ ] 誰會來呢：bil,orz,nonumpa
+- [ ] 記得帶：貼紙、環保杯
+- [ ] LINE 文案： TikTok 上熱門到轉傳給 LINE 的影片說皮蛋在顯微鏡下都是會四處蠕動的寄生蟲，真的假的呀？這其實是一個合成過的影片，前半段雖然真的是把皮蛋切片放在載玻片並用顯微鏡觀察，但後半部有蟲蟲危機的片段卻是合成剪接後的結果。顯然眼見為憑並不為真。網路上許多影片圖片需要你的查證公開，就能幫助更多身邊的人。 Cofacts 真的假的 第 45 次志工查核工作坊需要你的加入，活動完全免費，請報名：
+- [ ] VOOM 發文
+- [ ] FB 發文
