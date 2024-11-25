@@ -8,8 +8,8 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- NPO Hub 出席：
-- 線上出席：
+- NPO Hub 出席：bil, mrorz, nonumpa
+- 線上出席：T
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -26,14 +26,14 @@ Admin API scaffold release https://github.com/cofacts/rumors-api/releases/tag/re
 
 #### :globe_with_meridians: Site
 
-- https://github.com/cofacts/rumors-site/pull/581 & https://github.com/cofacts/rumors-site/pull/583
+- https://github.com/cofacts/rumors-site/pull/581 & https://github.com/cofacts/rumors-site/pull/583 belong112
 
 ##### Testing checklist
 http://dev.cofacts.tw/
 
 檢查 feedback 是否為
-- 有文字的在前面，沒文字的在後面
-- 都有文字 or 都沒文字：新的在前面，舊的在後面
+- [x] 有文字的在前面，沒文字的在後面
+- [x] 都有文字 or 都沒文字：新的在前面，舊的在後面
 
 ### :eye: Under review
 
@@ -63,6 +63,13 @@ https://github.com/cofacts/rumors-api/pull/352
 #### Phase 3: Automated detection
 > nonumpa
 
+- gemini usage 要傳到 langfuse 才能算 token
+
+https://langfuse.cofacts.tw/project/cm3n1h0xu000mfdgamwhs63t2/traces/0c51f6d8-7146-4a2f-8d3a-3a3d4ae6d5ec?observation=518cc920-4cf4-4240-a30d-22f946c9c463
+- few shot reason 放在判斷前面，可以把為何是 or 不是的理由交代清楚一些，幫助 LLM 思考（chain of thought）
+- 格式：few shot 可以考慮直接使用 user / assistant。user 放 sample input, assistant 放 sample output
+- 如果真的不行，考慮放棄 JSON mode 看會不會變好 https://arxiv.org/abs/2408.02442
+- 先處理單則 OK
 
 ### [Infra] Downtime
 
@@ -106,6 +113,9 @@ Cons
 - 如果只用 sippy 而不是整個搬去 Cloudflare R2，會有以下兩個問題
     - Double 資料存放費用 (GCS & Cloudflare) --> 但 cost 很少，即使乘二也不貴
     - 如果要下架圖片，要記得改 Cloudflare 這端的圖
+      - 下架是否即時？[name=nonumpa]
+        - 不確定是否有 cache，但他都做成 R2 服務了
+
 
 ## 檢舉怪象
 
@@ -134,11 +144,11 @@ Design doc: https://g0v.hackmd.io/@cofacts/rd/%2FccwZjCTnQ4-I5sPO1tuvFg
         - 4:10 - 4:40 實作撰寫新回應
         - 4:40 - 5:00 介紹分類、RSS、合照
 - [ ] 投放目標：
-  - 推播日：
+  - 推播日：12/27 or 12/22
   - 目標：雙北
 - [ ] KKTIX: https://cofacts.kktix.cc/events/cofactseditor45
 - [ ] 誰會來呢：bil,orz,nonumpa
 - [ ] 記得帶：貼紙、環保杯
-- [ ] LINE 文案： TikTok 上熱門到轉傳給 LINE 的影片說皮蛋在顯微鏡下都是會四處蠕動的寄生蟲，真的假的呀？這其實是一個合成過的影片，前半段雖然真的是把皮蛋切片放在載玻片並用顯微鏡觀察，但後半部有蟲蟲危機的片段卻是合成剪接後的結果。顯然眼見為憑並不為真。網路上許多影片圖片需要你的查證公開，就能幫助更多身邊的人。 Cofacts 真的假的 第 45 次志工查核工作坊需要你的加入，活動完全免費，請報名：
+- [ ] LINE 文案： TikTok 上熱門到轉傳給 LINE 的影片說皮蛋在顯微鏡下都是會四處蠕動的寄生蟲，真的假的呀？這其實是一個合成過的影片，前半段雖然真的是把皮蛋切片放在載玻片並用顯微鏡觀察，但後半部有蟲蟲危機的片段卻是合成剪接後的結果。顯然眼見為憑並不為真。網路上許多影片圖片需要你的查證公開，就能幫助更多身邊的人。 Cofacts 真的假的 第 45 次志工查核工作坊需要你的加入，活動完全免費，（請自備電腦）最近的捷運站是中正紀念堂站，連結內報名：https://cofacts.kktix.cc/events/cofactseditor45
 - [ ] VOOM 發文
 - [ ] FB 發文
