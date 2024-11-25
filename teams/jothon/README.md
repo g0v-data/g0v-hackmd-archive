@@ -2,6 +2,9 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [community99](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2021-03-09T13:12:37+08:00 | Book mode |
+| [community99-2412](../../notes/T79_0-KXQNypm7A4MAGlQA.md) | g0v 社群每月九分鐘 - 2024/12 | 2024-11-25T12:49:11+08:00 | View mode |
+| [community99-2410](../../notes/-1pAdvsBTpuTSuKTFsxCEg.md) | g0v 社群每月九分鐘 - 2024/10 | 2024-11-25T12:40:19+08:00 | View mode |
 | [B16m5Gxup](../../notes/PpFHUj1bRuiluTQpLAuIeA.md) | 揪松團物資器材清單 | 2024-01-01T18:55:32+08:00 | View mode |
 | [confkeng2020](../../notes/bLZZA8HlQcWZyjbgvRS6ig.md) | g0v 坑主小聚 / 坑主大補帖 | 2019-12-31T15:45:49+08:00 | View mode |
 | [-g0v-Community-Hangout-40th](../../notes/gA7MMo-YQwe2FUctL7O64g.md) | 第參拾柒次 g0v 揪松團 松前哈拉 | 2024-10-21T17:15:23+08:00 | View mode |
@@ -31,7 +34,6 @@
 | [H1_B6j-9R](../../notes/nCOd0CmwSXKqdjjhA_JGFQ.md) | 2024 夏日線上源力增能營結業式 x 提案工作坊 | 2024-08-08T10:28:16+08:00 | View mode |
 | [community99-2408](../../notes/4fyefBWqRduk68-hREjytA.md) | g0v 社群每月九分鐘 - 2024/8 | 2024-08-06T11:43:26+08:00 | View mode |
 | [community99-2409](../../notes/nEmVgrXgSImdn_n5VisnyQ.md) | g0v 社群每月九分鐘 - 2024/9 | 2024-09-03T16:53:35+08:00 | View mode |
-| [community99](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2021-03-09T13:12:37+08:00 | Book mode |
 | [jothon2024](../../notes/8_z1xqCwQH-np8Zu9iBOkw.md) | g0v 揪松團 2024 年活動行事曆 | 2023-11-29T12:10:06+08:00 | View mode |
 | [AI_Grant_20240803](../../notes/15hJzFLZQxKJCklHuh6cSw.md) | GenAI @COSCUP 2024主題論壇與專案實作成果分享 | 2024-07-05T18:14:48+08:00 | View mode |
 | [Hyqx9lyK3](../../notes/7ipCcQRWSuifqjH2SfXy2w.md) | Crowdsourcing-oriented Project Template 群眾外包導向專案的模板 | 2023-07-02T21:21:54+08:00 | View mode |
