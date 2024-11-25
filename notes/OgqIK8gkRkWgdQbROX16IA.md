@@ -189,3 +189,36 @@ int main()
 }
 
 </pre>
+======
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d562f85c485c07938b4a3f064325ebc3.png)
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4d07fe7cd3fa4387cdb778f8f0791c7a.png)
+<pre>
+
+
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+int main()
+{
+	int casenum;
+	int t;
+	
+	cin>>casenum;
+	while(casenum--)
+	{
+		cin>>t;
+		int line[20000];
+		for(int i=0;i<t;i++)
+			cin>>line[i];
+			
+		sort(line,line+t);
+		int sum=0; //(1) 23 (4) 56
+		for(int j=t-3;j>=0;j=j-3)//j>=0!!!!!!
+			sum+=line[j];
+		cout<<sum<<endl;
+	}
+	return 0;
+
+}
+</pre>
