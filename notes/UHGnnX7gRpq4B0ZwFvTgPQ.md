@@ -1,10 +1,11 @@
-10/25 下午喝起來~~~
-請幫我填寫飲料項目
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6bd143a0afab3290d8a6c730fecb28bc.png)
+12/10~\茗鈺感謝季/ \50嵐飲料/
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4a4f014ff1eb398088a2c6438bb9ee60.jpg)
 
+請幫我填寫飲料項目
+編號不夠請自行增加
 
 |編號| 名字 | 品項 | 甜度 |冰度 |
-|1 |   |   |   |
+|1 |  廖濬哲 | 珍珠紅茶拿鐵  |  微糖 |去冰
 |2 |   |   |   |
 |3 |   |   |   |
 |4 |   |   |   |
@@ -18,3 +19,10 @@
 |12 |   |   |   |
 |13 |   |   |   |
 |14 |   |   |   |
+|15 |   |   |   |
+|16 |   |   |   |
+|17 |   |   |   |
+|18 |   |   |   |
+|19 |   |   |   |
+|20 |   |   |   |
+|21 |   |   |   |
