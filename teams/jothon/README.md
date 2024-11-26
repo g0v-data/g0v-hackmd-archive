@@ -2,6 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [SkCSLLoh6](../../notes/0_V7AdIHScOscBHTb4wmQw.md) | 2024 救松行動：基礎建設節流、開源募款推廣、「黑客松怎麼辦？」場務發想 | 2024-02-27T20:32:06+08:00 | View mode |
+| [ByN8AZ3wC](../../notes/C8xmxPHdSOCJaqO-410lxA.md) | 100 種貼紙的攜帶與佈置展示方法 | 2024-07-10T21:36:11+08:00 | View mode |
 | [confkeng2020](../../notes/bLZZA8HlQcWZyjbgvRS6ig.md) | g0v 坑主小聚 / 坑主大補帖 | 2019-12-31T15:45:49+08:00 | View mode |
 | [g0vSNS](../../notes/hP_d7jkrR3yZulinnimL3Q.md) | g0v 社群活動＆專案宣傳指南 | 2024-10-28T15:36:40+08:00 | View mode |
 | [B16m5Gxup](../../notes/PpFHUj1bRuiluTQpLAuIeA.md) | 揪松團物資器材清單 | 2024-01-01T18:55:32+08:00 | View mode |
@@ -40,9 +42,7 @@
 | [Hyqx9lyK3](../../notes/7ipCcQRWSuifqjH2SfXy2w.md) | Crowdsourcing-oriented Project Template 群眾外包導向專案的模板 | 2023-07-02T21:21:54+08:00 | View mode |
 | [SJug8WTLc](../../notes/a_sXd-DRSLmJhhd61sc_ag.md) | 如何提案？ 提案模板、引導式課程影片 | 2022-05-14T18:35:28+08:00 | View mode |
 | [BJpyGwNHR](../../notes/SGqKIBa9Rz-wB_AjJzEI_w.md) | 2024 夏日源力增能營簡介 | 2024-06-10T19:22:13+08:00 | View mode |
-| [SkCSLLoh6](../../notes/0_V7AdIHScOscBHTb4wmQw.md) | 2024 救松行動：基礎建設節流、開源募款推廣、「黑客松怎麼辦？」場務發想 | 2024-02-27T20:32:06+08:00 | View mode |
 | [rJ0zLEkq0](../../notes/o2V_tTkCRJ-XuB1AeCA1Lw.md) | 2024／9 大松命名 | 2024-08-06T13:35:18+08:00 | View mode |
-| [ByN8AZ3wC](../../notes/C8xmxPHdSOCJaqO-410lxA.md) | 100 種貼紙的攜帶與佈置展示方法 | 2024-07-10T21:36:11+08:00 | View mode |
 | [SyF9MN2PA](../../notes/xJ-lOiAyQOaDWc6cvCAt2g.md) | 關東旗器材組 - 輕量版方案 | 2024-07-11T00:10:57+08:00 | View mode |
 | [Sch001SSR2024](../../notes/Lujny-EOQCah1dtwyWml-w.md) | 零時小學校 2024 夏日源力增能營 | 2024-06-10T17:53:09+08:00 | Book mode |
 | [B19gusjcR](../../notes/NTksH_CFQxSdOMv6m54_0g.md) | 4-3：台湾、日本、韓国における若者のシビックテック参加状況 ｜ g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-16T00:08:17+08:00 | View mode |

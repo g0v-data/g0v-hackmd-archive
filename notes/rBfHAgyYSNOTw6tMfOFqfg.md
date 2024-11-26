@@ -21,6 +21,12 @@ https://www.facebook.com/watch/?v=828334065330478
 知識搬運機器人
 https://drive.google.com/file/d/1LLbml8eFI_2xpOe1K2jNa18-f_hryJDM/view?fbclid=IwY2xjawGhippleHRuA2FlbQIxMAABHVhrHnUf946zkGIK_TrRPPeAZaPSjgWR2MbTxhSyI9FwYumsTe1iUpHMGA_aem_KfjXSspo9fTElqwG8o8sTg
 
+nonprofit-helper 會務 E 化小幫手
+https://sch001.g0v.tw/dash/prj/PoKDYzo1cSWY31335KNAYVHZpgzjac
+
+rep0rter 專案
+https://g0v.hackmd.io/@Hawks/B13PRL8da
+
 歌詞歌曲生成，土石流
 https://www.facebook.com/share/p/15CRFJaVeP/
 
