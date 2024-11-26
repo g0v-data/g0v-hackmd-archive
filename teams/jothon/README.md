@@ -2,13 +2,14 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [confkeng2020](../../notes/bLZZA8HlQcWZyjbgvRS6ig.md) | g0v 坑主小聚 / 坑主大補帖 | 2019-12-31T15:45:49+08:00 | View mode |
+| [g0vSNS](../../notes/hP_d7jkrR3yZulinnimL3Q.md) | g0v 社群活動＆專案宣傳指南 | 2024-10-28T15:36:40+08:00 | View mode |
 | [B16m5Gxup](../../notes/PpFHUj1bRuiluTQpLAuIeA.md) | 揪松團物資器材清單 | 2024-01-01T18:55:32+08:00 | View mode |
 | [ry5TjRBhD](../../notes/hkqwwNqfQ9OPLIamC5QW-g.md) | g0v 賀年卡與賀年詞募集 | 2020-12-15T14:46:25+08:00 | View mode |
 | [rkAGALAUK](../../notes/LHLAPHxjTt6Spp5LJr_zew.md) | 黑客松百人場地場勘 | 2021-11-02T14:43:34+08:00 | View mode |
 | [community99](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2021-03-09T13:12:37+08:00 | Book mode |
 | [community99-2412](../../notes/T79_0-KXQNypm7A4MAGlQA.md) | g0v 社群每月九分鐘 - 2024/12 | 2024-11-25T12:49:11+08:00 | View mode |
 | [community99-2410](../../notes/-1pAdvsBTpuTSuKTFsxCEg.md) | g0v 社群每月九分鐘 - 2024/10 | 2024-11-25T12:40:19+08:00 | View mode |
-| [confkeng2020](../../notes/bLZZA8HlQcWZyjbgvRS6ig.md) | g0v 坑主小聚 / 坑主大補帖 | 2019-12-31T15:45:49+08:00 | View mode |
 | [-g0v-Community-Hangout-40th](../../notes/gA7MMo-YQwe2FUctL7O64g.md) | 第參拾柒次 g0v 揪松團 松前哈拉 | 2024-10-21T17:15:23+08:00 | View mode |
 | [HJXRuIQxyl](../../notes/pg-nZhhxQteBaePLQn8O4g.md) | g0v hackath64n - 第陸拾參次黃金比例黑客松 | 2024-10-21T12:30:02+08:00 | View mode |
 | [g0v-hackath64n](../../notes/TBJmPk9MTRioFcxtGZ6YMA.md) | g0v第陸拾肆次黃金比例黑客松共筆 | 2024-10-21T17:30:29+08:00 | Book mode |
@@ -19,7 +20,6 @@
 | [ctpbook_jp](../../notes/CZqvO0aDQmGm2fEMBxMQKQ.md) | g0v シビックテックプロジェクトとコミュニティの手引き | 2024-07-24T10:56:37+08:00 | Book mode |
 | [Hy9ilrj9C](../../notes/7Gz_csFQQzquBoY3eIfn6A.md) | 1-1 「g0v 台湾零時政府」とは何か？｜g0v シビックテックプロジェクトとコミュニティの手引き｜g0v Civic Tech Project & Community Handbook | 2024-08-15T16:47:30+08:00 | View mode |
 | [Sk9f2CxBn](../../notes/aqy-4gAESNi0uHlVxUHb-w.md) | 1-1 What is g0v? ｜ 公民科技專案手冊｜Civic Tech Project Handbook | 2023-05-16T18:33:53+08:00 | View mode |
-| [g0vSNS](../../notes/hP_d7jkrR3yZulinnimL3Q.md) | g0v 社群活動＆專案宣傳指南 | 2024-10-28T15:36:40+08:00 | View mode |
 | [HkfMTufJke](../../notes/qU9DNpqPTlWHk7pp3Siixg.md) | 2024／11 大松命名 | 2024-10-08T17:36:09+08:00 | View mode |
 | [g0v-Community-Hangout](../../notes/C6W5PiKYRlOBgLCd5-mTRA.md) | g0v 揪松團 松前哈拉 | 2024-08-28T13:30:53+08:00 | Book mode |
 | [g0v-hackath63n](../../notes/H8_4Va_ESKuqWDwCpV5URQ.md) | g0v第陸拾參次公民科技園遊會黑客松共筆 | 2024-08-29T14:36:00+08:00 | Book mode |
