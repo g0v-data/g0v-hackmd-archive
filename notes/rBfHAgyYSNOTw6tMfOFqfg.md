@@ -47,3 +47,6 @@ https://www.facebook.com/share/p/1B2BxKghWE/
 AI產品與系統評測中心
 Artificial Intelligence Evaluation Center
 https://www.aiec.org.tw/
+
+https://www.unesco.org/en/articles/open-data-ai-what-now
+聯合國教科文組織聊聊 Open Data 之餘 AI 的重要性的報告，裡面也有些未來他們的行動。
