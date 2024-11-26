@@ -30,6 +30,9 @@ https://g0v.hackmd.io/@Hawks/B13PRL8da
 歌詞歌曲生成，土石流
 https://www.facebook.com/share/p/15CRFJaVeP/
 
+
+教育行政人員使用 NotebookLM 整理法規
+https://www.facebook.com/tinywhite.lai/posts/pfbid02hnQmrqr82r3bJSCJEoCQc3Y7QYrcktKrB7wDpfsbkVqRaENPSS5NoqcFPti7keowl?locale=zh_TW
 法規
 https://www.facebook.com/share/184eXi3jQb/
 https://sch001.g0v.tw/dash/prj/PHRJpYi337MOiFzi5IWAyGNA9SjJRV
