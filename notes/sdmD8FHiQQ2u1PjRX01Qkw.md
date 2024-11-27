@@ -1,3 +1,7 @@
+---
+tags: 外交
+---
+
 # 外交可以開源嗎?
 
 * Slack： g0v Slack Chanel [#opendiplomacy](https://g0v-tw.slack.com/archives/C08237VD9B7)
