@@ -1,11 +1,18 @@
 # 外交可以開源嗎?
 
 * Slack： g0v Slack Chanel [#opendiplomacy](https://g0v-tw.slack.com/archives/C08237VD9B7)
-* Slide ： [外交可以開源嗎?](https://docs.google.com/presentation/d/1hRDkrRWtU5XILRkbrBU4o4_UqR9XwHnw/edit#slide=id.p1)
+* Slide ： [外交可以開源嗎?](https://docs.google.com/presentation/d/1hRDkrRWtU5XILRkbrBU4o4_UqR9XwHnw/edit#slide=id.p1) (2024.11.23)
 
 
 
-## 背景
+## 目的
+用公民科技的方式建立一種工具，讓公民可以看到兩國民眾之間的正面跟負面互動，然後可以討論如何更增加正面的效果，還有處理負面的問題。讓外交更透明、更民主，並且真正在兩國民間的層面建立友好關係。
+
+## 可能的型態
+1. 用資料庫收集當地跟台灣相關的事件新聞，或呈現出當地民眾對台灣的想法。<br>
+2. 台灣對當地相關資源的資料庫，使當地民眾獲取台灣相關輔助資源，不用只透過政府、或單一第三方組織。<br>
+3. 
+
 
 
 ## 1.利害關係
@@ -22,9 +29,7 @@
 
 
 
-## 可能可以做的事
-1.建立一個資料庫，收集當地跟台灣相關的事件新聞，或呈現出當地民眾對台灣的想法<br>
-2. 台灣對當地相關資源的資料庫，使當地民眾獲取台灣相關輔助資源，不用只透過政府、或單一第三方組織<br>
+
 
 
 ## 難易度
