@@ -29,6 +29,9 @@ tags: vtaiwan
     - 訪談專家（類似雨蒼烙人講）
         - 李易安（端傳媒記者）
         - 吳聰敏（《台灣經濟四百年史》作者）
+            - https://homepage.ntu.edu.tw/~ntut019/edu/edu.html
+        - 央行理事李怡庭
+            - [捕捉生活真實成本 央行理事 再倡房價納CPI](https://tw.stock.yahoo.com/news/%E6%8D%95%E6%8D%89%E7%94%9F%E6%B4%BB%E7%9C%9F%E5%AF%A6%E6%88%90%E6%9C%AC-%E5%A4%AE%E8%A1%8C%E7%90%86%E4%BA%8B-%E5%86%8D%E5%80%A1%E6%88%BF%E5%83%B9%E7%B4%8Dcpi-201000022.html)
 - vTaiwan 議題松
     - 類似數位韌性松的聚會
     - 邀請大家一起來討論
