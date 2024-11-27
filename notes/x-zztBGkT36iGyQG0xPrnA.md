@@ -48,7 +48,7 @@ tags: chatgpt
 - MediaTek_DaVinci 達哥，提案小幫手 https://www.facebook.com/share/p/oGyPHznZtJR1S7Yn/
 
 具體協力環節
-- 新聞工作流程 https://www.facebook.com/story.php?story_fbid=pfbid0gSsjZqnibSuVXTEkjjGHCj42husoiip7M5Fbhkk2TkvSWKcR5zVSt61hfcM5suYWl&id=100000133181724&mibextid=tejx2t
+- 整合蒐集：https://g0v.hackmd.io/@chewei/SyAypqs-yl?type=view
 - Rep0rter - g0v 零時記者 - 每日 g0v 大小事資訊推播 https://g0v.hackmd.io/@Hawks/B13PRL8da
 - 摘：用 chatGPT API 做的程式協助和教學工具的概念驗證的prototype，讓人工智慧自己寫基礎概念教學的書的一個概念驗證 https://www.facebook.com/groups/Taiwan.NLP/permalink/5564287160333096/
 

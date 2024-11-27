@@ -3,6 +3,12 @@ tags: 外交
 ---
 
 # 史瓦帝尼民間對台灣的批評
+[King Mswati’s Taiwan investor John Fan invades Gege,forcefully grabs land from elderly widows.
+](https://www.swazilandnews.co.za/fundza.php?nguyiphi=3859)
+[「為什麼台灣政府繼續支持獨裁者？」史瓦帝尼民權運動人士來台控訴
+](https://www.taisounds.com/news/content/71/87118)
+
+
 
 - 王室在人民間的觀感不佳
 - 台灣政府支持當地有外交的需求

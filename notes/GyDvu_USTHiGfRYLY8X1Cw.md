@@ -33,7 +33,7 @@ tags: 吉祥物
     - 首先在 [Airtable](https://g0v.hackmd.io/BVoegE1HRSWaohXMlKVcbQ) 建立文獻材料清冊
     - 接著預計嘗試歸納不同的研究成果，都有提出的共通課題、問題
 - (2) 從標案預算面向，來觀察吉祥物政策概況
-    - [標案關鍵字：吉祥物](https://ronnywang.github.io/pcc-viewer/search.html?query=吉祥物)
+    - [標案關鍵字：吉祥物](https://openfunltd.github.io/pcc-viewer/search.html?query=%E5%90%89%E7%A5%A5%E7%89%A9)
     - 依據政府採購網吉祥物相關標案平均一年約 2500-3000 萬元
     - 觀察消化中
 - (3) [歷年總統盃黑客松提案文字](https://g0v.hackmd.io/mLr14VN8TuiIgG6kKByD2A)
@@ -71,6 +71,7 @@ tags: 吉祥物
                 - [體系] 臺灣土地公信仰與傳奇特展圖錄 https://gpi.culture.tw/books/1009703979
                 - [個案] 土地公傳說及其形象研究，針對新北市中和區南山福德宮進行個案探討 https://auir.au.edu.tw/bitstream/987654321/4574/1/FH010059.pdf
 
+- [簡報-政策面的觀察與建議](https://docs.google.com/presentation/d/1mB_l-EMb_eByyYDAQu_cGowi2xAqvqwqfomJas1ZNRc/edit#slide=id.p)
 
 ## 已知課題
 
