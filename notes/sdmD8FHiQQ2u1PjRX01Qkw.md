@@ -19,8 +19,15 @@ tags: 外交
 4. 外交預算或資金流向的透明化工具，讓民眾可以檢視這些資源利用是否合理。(相關部門是否願意)
 
 
-## 外交問題案例
-[台灣與史瓦帝尼關係](https://g0v.hackmd.io/qNk8XocXQX60xXMwPab7Nw) 
+## 外交案例收集
+[印度移工議題](https://g0v.hackmd.io/hgfo-HnTQdmBaZhQWfhnHg)
+[史瓦帝尼民間對台灣的批評](https://g0v.hackmd.io/qNk8XocXQX60xXMwPab7Nw)
+[台灣與越南民間友誼增進](https://g0v.hackmd.io/GbPMdoOjQEio07gkSfP3gQ)
+[印尼家庭看護工工資議題](https://g0v.hackmd.io/XynlYHcDQAyAlcWfO5af_w)
+[反韓情緒的消弭](https://g0v.hackmd.io/TJhS91KwSAqv4rhmjv-BUQ)
+[台積電美國廠員工爭議](https://g0v.hackmd.io/8QJCIBcQTZ2pG4Ksn6_-mQ)
+
+
 
 
 ## 要考慮的問題
@@ -29,12 +36,10 @@ tags: 外交
 3. 可以做資訊公開為主,不加入太多觀點?
 4. 取得政府資訊的難度?
 5. 新聞看"邦交國眼中的台灣"比較容易著手?
-6. 如何讓民眾加入討論，如何讓台灣民眾與外國民眾一起
+6. 如何讓民眾加入討論，如何讓台灣民眾與外國民眾一起交流討論?
 
 
 ## 相關資料
-
-- [史瓦帝尼王國經貿投資環境簡介一覽表](https://ws.mofa.gov.tw/001/Upload/402/relfile/20/480/0d7e57bf-0ac5-41a2-9a26-91556b60f808.pdf)
 
 
 ## 可用工具
