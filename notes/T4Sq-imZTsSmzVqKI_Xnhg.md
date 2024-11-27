@@ -32,6 +32,9 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 用 AI 來浪費詐騙集團時間
 - https://youtu.be/ZUDBAnOPXU0
 
+摘自貼文：預防老年詐騙，原來可以去在地銀行、地政事務所，幫長輩登記身分證註記管控，若外匯交易會有提醒警示、匯款須通知緊急聯絡人，教人被詐騙時如何應對。
+- 　https://www.facebook.com/BlueWhiteSlippers/posts/pfbid0WTjSq8SkhYzhZA54zy6Nni2zk4oRrWGkkBpcEJo2Zhj6UztksHNA4vS8M1dMp9P5l
+
 ## 個案經驗蒐集
 - 2024 專書 https://www.facebook.com/share/p/JnsrhB4d54j2AUGy/
 - 2024 電話，對方唸出完整正確的身分證字號 https://www.facebook.com/share/p/UAtnFG6hTJf2ya2H/
