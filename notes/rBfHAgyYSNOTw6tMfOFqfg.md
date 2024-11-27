@@ -4,9 +4,7 @@ tags:
 
 # 專案數位解方 / AI 應用
 
-0 階
-0.5 階，demo
-1 階
+# 專案數位解方
 
 數位解方
 https://docs.google.com/spreadsheets/d/1P1sCLPAQP9hUwMFVGzneg9lAIFLoYe_arsmgdUy23FA/edit
@@ -45,17 +43,23 @@ https://sites.google.com/view/ai4good
 慈濟
 https://www.facebook.com/share/19NwZAUDJo/
 
-
 產品經理思維
 https://www.facebook.com/share/p/1B2BxKghWE/
 
+關於『生成式AI的使用行為』的學術研究調查問卷，主要希望透過本問卷了解個人使用生成式AI的動機以及探討後續使用行為
+https://www.facebook.com/groups/269013233204234/posts/8262619370510207/
+
 # 指引
 
-將 AI 技術發展進程納入考量
+將 AI 技術未來五年的發展進程納入考量
 
 AI產品與系統評測中心
 Artificial Intelligence Evaluation Center
 https://www.aiec.org.tw/
+
+AI與資安的相愛相殺：在體驗升級和隱藏威脅間共舞 by 葉崇文 趨勢科技 資深使用者體驗設計師
+阻力還是助力？AI助理其實很委屈 by 蔡宜成 中華電信  高級管理師 
+https://sites.google.com/gm.scu.edu.tw/20241206
 
 https://www.unesco.org/en/articles/open-data-ai-what-now
 聯合國教科文組織聊聊 Open Data 之餘 AI 的重要性的報告，裡面也有些未來他們的行動。
