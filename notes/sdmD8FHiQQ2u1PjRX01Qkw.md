@@ -1,5 +1,5 @@
 ---
-tags: 外交
+tags: 外交,opendiplomacy
 ---
 
 # 外交可以開源嗎?

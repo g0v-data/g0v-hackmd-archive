@@ -1,8 +1,10 @@
 ---
-tags: 外交
+tags: 外交,opendiplomacy
 ---
 
 # 史瓦帝尼民間對台灣的批評
+
+## 新聞案例：
 [King Mswati’s Taiwan investor John Fan invades Gege,forcefully grabs land from elderly widows.(姆斯瓦提國王的投資者約翰.范入侵格格鎮強奪土地)
 ](https://www.swazilandnews.co.za/fundza.php?nguyiphi=3859)
 [「為什麼台灣政府繼續支持獨裁者？」史瓦帝尼民權運動人士來台控訴
@@ -19,18 +21,18 @@ tags: 外交
 ](https://www.southernafricanherald.com/business/eswatini-denies-debt-trapped-by-taiwan)
 
 
-
-- 王室在人民間的觀感不佳
-- 台灣政府支持當地有外交的需求
-- 當地不同非政府團體間的競合關係
-- 中華人民共和國與當地非政府團體間的關係，甚至批評台灣與當地腐敗政府合作
-- 當地實際的多元民眾與政府、非政府組織間的關係
-- 不滿的情緒會更容易被曝光
-
-
+## 問題分析
+- 史國王室在人民間的觀感不佳，民主運動崛起，遭到鎮壓後有採取一些激烈手段
+- 史國也有派代表團去中國，台灣擔心如果不討好王室，史國有轉向中國的可能
+- 當地民主派與建制派對台灣的不同態度
+- 中國有可能有支持當地民主派（不確定），中國媒體批評台灣與史國腐敗政府合作，但中國真的關心史國民主派嗎？
+- 台灣政府與民間組織都有在史國社會提供資源，但這些援助多半跟史國政府合作，替史國王室做政績慈善，讓體制更鞏固
+- 史國民眾
 
 
 
+
+## 參考資料
  [史瓦帝尼王國經貿投資環境簡介一覽表](https://ws.mofa.gov.tw/001/Upload/402/relfile/20/480/0d7e57bf-0ac5-41a2-9a26-91556b60f808.pdf)
  
  [-回首頁](https://g0v.hackmd.io/sdmD8FHiQQ2u1PjRX01Qkw?view)
