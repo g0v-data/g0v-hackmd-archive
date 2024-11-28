@@ -2,10 +2,10 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 23395 | 2024-11-28T22:56:57+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 23405 | 2024-11-28T23:56:28+08:00 |
+| [外交](tags/%E5%A4%96%E4%BA%A4.md) | 18 | 2024-11-28T23:07:42+08:00 |
+| [opendiplomacy](tags/opendiplomacy.md) | 7 | 2024-11-28T23:07:42+08:00 |
 | [vtaiwan](tags/vtaiwan.md) | 77 | 2024-11-28T17:38:04+08:00 |
-| [外交](tags/%E5%A4%96%E4%BA%A4.md) | 18 | 2024-11-28T17:29:44+08:00 |
-| [opendiplomacy](tags/opendiplomacy.md) | 7 | 2024-11-28T17:29:44+08:00 |
 | [vTaiwan](tags/vTaiwan.md) | 101 | 2024-11-28T17:19:37+08:00 |
 | [hackathon](tags/hackathon.md) | 64 | 2024-11-28T11:15:10+08:00 |
 | [chatgpt](tags/chatgpt.md) | 5 | 2024-11-28T03:25:23+08:00 |
