@@ -24,7 +24,7 @@ tags: 外交,opendiplomacy
 [史瓦帝尼民間對台灣的批評](https://g0v.hackmd.io/qNk8XocXQX60xXMwPab7Nw)
 [台灣與越南民間友誼增進](https://g0v.hackmd.io/GbPMdoOjQEio07gkSfP3gQ)
 [印尼移工工資議題](https://g0v.hackmd.io/XynlYHcDQAyAlcWfO5af_w)
-[反韓情緒的消弭](https://g0v.hackmd.io/TJhS91KwSAqv4rhmjv-BUQ)
+[台灣人的韓國觀](https://g0v.hackmd.io/TJhS91KwSAqv4rhmjv-BUQ)
 [台積電美國廠員工爭議](https://g0v.hackmd.io/8QJCIBcQTZ2pG4Ksn6_-mQ)
 
 

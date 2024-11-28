@@ -1,3 +1,7 @@
+---
+tags:外交,opendiplomacy 
+---
+
 # 引進印度移工的議題
 
 [Indians in Taiwan saddened by online racism

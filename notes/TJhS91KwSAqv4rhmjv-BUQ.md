@@ -1,4 +1,9 @@
-# 反韓情緒的消弭
+---
+tags:外交,opendiplomacy
+---
+
+
+# 台灣人的韓國觀
 
 [【錯誤】網傳影片「韓國主播取笑台灣政府打詐」？
 ](https://tfc-taiwan.org.tw/articles/10863)

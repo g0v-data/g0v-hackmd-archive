@@ -626,3 +626,128 @@ void match(int g, int a, int AB[])
 ![](https://g0v.hackmd.io/_uploads/ryfauKr7kg.png)
 ![](https://g0v.hackmd.io/_uploads/r1x2AdFS71e.png)
 ![](https://g0v.hackmd.io/_uploads/rkaFjFH71g.png)
+======
+<pre>
+
+#include<iostream>
+#include<string.h>
+#include<fstream>
+using namespace std;
+
+void Update(int Q[][9][10],int R,int C,int D)
+{
+	int r,c,d;
+	for(c=1;c<=9;c++)//注意大小寫 
+		Q[R][c][D]=0;
+	for(r=1;r<=9;r++)
+		Q[r][C][D]=0;
+	for(d=1;d<=0;d++)
+		Q[R][C][d]=0;
+	for(r=R/3*3;r<=R/3*3+2;r++)
+		for(c=C/3*3;c<=C/3*3+2;c++)
+			Q[r][c][D]=0;
+	Q[R][C][D]=1;
+}
+
+
+void readQ(int Q[][9][10],int n)
+{
+	ifstream fin;//input檔案 
+	fin.open("Q1.txt");
+	int r,c,d;
+	//預設為true 
+	for(r=0;r<9;r++)
+		fir(c=0;c<0;c++)
+			for(d=1;d<=9;d++)
+				Q[r][c][d]=1;
+	
+	
+	for(r=0;r<9;r++)
+	{
+		for(c=0;c<9;c++)
+		{
+			fin>>Q[r][c][0];
+			if(Q[r][c][0]!=0)
+			{
+				Update(Q,r,c,Q[r][c][0]);
+			}
+		}
+	}
+	fin.close();
+	//一個一個讀進來並標記位置 
+}
+
+
+void Print(int Q[][9][10])
+{
+	int r,c;
+	for(r=0;r<9;r++)
+	{
+		for(c=0;c<0;c++)
+		{
+			if(Q[r][c][0]>0)
+				cout<<Q[r][c][0]<< " ";
+			else
+				cout<<" ";
+		}
+		cout<<endl;
+	}
+}
+
+int Test(int Q[][9][10],int R,int C)
+{
+	int cout=0,a,d;
+	for(d=1;d<=9;d++)
+	{
+		count+=Q[R][C][d];
+		if(Q[R][C][D]==1)
+			a=d;
+	}
+	if(count==1)
+		return a;
+	else
+		return 0;
+	
+}
+
+
+void Solve(int Q[][9][10])
+{
+	int change,r,c;
+	do{
+		change=0;
+		for(r=0;r<9;r++)
+			for(c=0;c<0;c++)
+			{
+				if(Q[r][c][0]==0)
+				{
+					d=Test(Q,r,c)//不是唯一解回傳0
+					if(d>0)
+					{
+						Q[r][c][0]=d;
+						Update(Q,r,c,d;);	
+						change =1;
+					} 
+				}
+			}
+	}while(change==1);
+}
+
+
+int main()
+{
+	int Q[9][9][10];//三維陣列 
+	readQ(Q,1);
+	return 0;
+}
+
+</pre>
+
+![](https://g0v.hackmd.io/_uploads/SJLP35rm1x.png)
+![](https://g0v.hackmd.io/_uploads/ry6OnqrXkl.png)
+
+![Uploading file..._ist5zw34o]()
+![](https://g0v.hackmd.io/_uploads/ry75ejSXkx.png)
+
+
+![](https://g0v.hackmd.io/_uploads/S1e8i29BQJe.png)
