@@ -1,5 +1,5 @@
 ---
-tags:外交,opendiplomacy
+tags: 外交,opendiplomacy
 ---
 
 

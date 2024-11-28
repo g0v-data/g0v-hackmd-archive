@@ -1,5 +1,5 @@
 ---
-tags:外交,opendiplomacy 
+tags: 外交,opendiplomacy 
 ---
 
 # 引進印度移工的議題

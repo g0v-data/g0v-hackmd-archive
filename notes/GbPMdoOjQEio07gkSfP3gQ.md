@@ -1,5 +1,5 @@
 ---
-tags:外交,opendiplomacy
+tags: 外交,opendiplomacy
 ---
 
 # 台灣與越南民間友誼增進
