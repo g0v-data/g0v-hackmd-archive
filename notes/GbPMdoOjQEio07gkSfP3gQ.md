@@ -3,8 +3,6 @@
 [台灣學生學習越南語的理由？「 好朋友的媽媽是越南人，希望可以跟他們一起講悄悄話」
 ](https://www.thenewslens.com/article/192013)
 
-[Người Việt xứ Đài còn bị phân biệt?(臺灣越南人還是被歧視？)
-](https://www.bbc.com/vietnamese/vietnam/2015/07/150730_nguoi_viet_o_dai_loan_blog)
 
 [從小說中看見越南 羅漪文搭起深度理解橋樑
 ](https://www.cna.com.tw/news/acul/202403310056.aspx)

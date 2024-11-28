@@ -10,7 +10,7 @@ tags: 外交
 [Spill-over victims: Still no compensation after 10 years(毒氣外洩受害者10年後仍未獲賠償)](https://www.pressreader.com/eswatini/times-of-eswatini/20230325/281672554192937?srsltid=AfmBOorlgmAL7wYfVYPbkcx8trFjUlwLyAqM7GZpCc1BurNja-NR0bpd)
 
 [Dirty Threads: Textile Industry Workers Speak Out Against Corruption's Impact on Livelihoods"
-(紡織業勞工控訴貪汙腐敗)](https://www.voazimbabwe.com/a/dirty-threads-textile-industry-workers-speak-out-against-corruption-s-impact-on-livelihoods-/7604238.html)
+(紡織業勞工控訴血汗工廠)](https://www.voazimbabwe.com/a/dirty-threads-textile-industry-workers-speak-out-against-corruption-s-impact-on-livelihoods-/7604238.html)
 
 [First Time in History! MJIB brought back two Taiwanese Convicts from Eswatini to Taiwan(調查局將走私犀牛角的台灣囚犯帶回台灣)
 ](https://www.mjib.gov.tw/news/Details/28/767)
