@@ -28,6 +28,7 @@ https://g0v.hackmd.io/mSnyMhZKQM2Zj1rb_rs_ng
 - 歷年台灣人於中國強迫失蹤案
     - https://www.facebook.com/story.php?story_fbid=pfbid02PmPSVF1SedBxiZJxLqYBZ4Cqq7S9PMVjkdTUQmhhjDqKSxN9vRo5HgLq4XdVD1tYl&id=697503134&mibextid=qC1gEa
 
+https://github.com/WeNeedHome/SummaryOfLoanSuspension 用 Github 統計 CN 爛尾樓停貸通知案數。
 
 可能的來源
 - 媒體新聞
