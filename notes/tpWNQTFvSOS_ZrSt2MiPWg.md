@@ -116,6 +116,15 @@ tags: 學術研究, cowork guideline, g0v, 開源協作手冊, 基礎建設,
     - Compared with the traditional citizen participation methods, the requirement of public license enables all citizens to share collective wisdom, and speed up the process of overall social improvement. Also, decentralization empowers g0v participants high degree of autonomy, and make participants contribute with enthusiasm. Collaboration reduces the cost of civic engagement and expand the scale of participation. However, there are also bottlenecks in the g0v community''s participation model. The durability of citizen participation is unknown. Many projects doesn’t meet what citizens need, therefore fail to exert their influence and make society better.
     - Although citizen participation in open source community is not yet a mature model, g0v as a pioneer in bringing open-source technology and collaboration mechanisms to the public domain, has not only awakened citizens'' awareness of political participation, but also urged government to open public data, collaborate with the people , and set a precedent for initiating the project.
 
+### Hackers Get Together：數位時代的知識交流空間 / The Knowledge Exchange Spaces in the Digital Age
+
+- 作者：陳姿妤
+- 關鍵詞：黑客松、實體空間、虛擬空間、知識交流、鄰近性、暫時性群聚
+- 論文網址：
+    - https://hdl.handle.net/11296/fqdkjm
+    - https://tdr.lib.ntu.edu.tw/bitstream/123456789/1289/1/ntu-107-1.pdf
+- 摘自內文：本研究的研究方法主要透過質性訪談與參與式觀察來瞭解黑客松的活動動態，以及行動者於活動當中的知識交流行為。在經驗研究的資料蒐集上，本研究首先進行二手資料的蒐集，透過 HackNTU、Hackathon Taiwan、g0v 零時政府各自的臉書粉絲專頁及官方網站的活動推播，整理相關活動訊息。
+
 ### 強化數位經濟法制及公民參與機制計畫
 - 研究人員：蕭博仁
 - https://www.grb.gov.tw/search/planDetail?id=12111552
@@ -393,7 +402,9 @@ https://www.journals.uchicago.edu/doi/abs/10.1086/730621
     - https://www.freiheit.org/publikation/examples-civic-tech-communities-governments-collaboration-around-world
 - 2024.07 書籍《多元宇宙：協作技術與民主的未來》
     - https://www.facebook.com/share/p/BrRrcbZbaSBWnZ6R/
-
+- 2024.10 書籍《次世代數位公民素養：不被AI 取代的資訊判讀》
+    - 補頁碼，零時小學校 & Tiff 有撰寫一篇文章，收錄於書中
+    - https://www.facebook.com/pangphuann/posts/pfbid0r35hLXwyhxUMme1HifSjeaYG2NzpNRy1JRttdX9DJDncPwhPFhoPkxsDVptufbmol
 
 
 ### [原始 hackpad 內容](https://g0v.hackpad.tw/1esFXAvr0U4)
