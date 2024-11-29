@@ -10,6 +10,7 @@ tags: 地圖化,環境資料自由整合,hackpad
 清楚明瞭的即時空汙動態追蹤，以此達到排汙監督的社會效益
 
 ⚠️2024/11/23更新：airmap.g0v.tw網站已停止運作，將申請釋放網域或轉靜態頁面
+⚠️2024/11/29更新：airmap.g0v.tw已申請轉址至專案hackfoldr頁面
 
 ### [專案完整hackfoldr](http://beta.hackfoldr.org/g0vairmap)
 
