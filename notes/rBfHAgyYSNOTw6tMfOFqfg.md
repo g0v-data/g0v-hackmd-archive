@@ -54,6 +54,9 @@ https://www.facebook.com/share/19NwZAUDJo/
 產品經理思維
 https://www.facebook.com/share/p/1B2BxKghWE/
 
+應用情境舉例
+https://www.facebook.com/share/p/18fx6VtrPk/
+
 關於『生成式AI的使用行為』的學術研究調查問卷，主要希望透過本問卷了解個人使用生成式AI的動機以及探討後續使用行為
 https://www.facebook.com/groups/269013233204234/posts/8262619370510207/
 
