@@ -68,3 +68,12 @@ Ronny: 國會松坑主，爬資料，開放國會
 Yi：對國會議題有興趣ㄉ前高中公民老師
 
 ## 共筆區
+- 下週 12月6日（五）和 12月7日(六) 也有一場 FNF 主辦的開放國會黑客松，對於更多國會知識感興趣並且想交流協作，可以到[這邊報名參與](https://www.freiheit.org/zh/global-innovation-hub-taipei/xiangrangguohuibiandegengtoumingmabaoming12yue6)
+- 本日相關網址
+    - [立法院議事及發言系統](https://lis.ly.gov.tw/lylgmeetc/lgmeetkm)
+    - [立法院議事暨公報資訊網](https://ppg.ly.gov.tw/ppg/)
+    - [LawDiff](https://openfunltd.github.io/law-diff/)
+    - [立委發言整理開放資料](https://huggingface.co/datasets/openfun/taiwan-legislator-transcript)
+    - [立法院議題研析](https://www.ly.gov.tw/Pages/SearchList.aspx?nodeid=6585)
+    - [立法議題研析整理完後資料](https://huggingface.co/datasets/openfun/taiwan-ly-law-research)
+    - [今日國會松連結](https://openfun.tw/1130/)
