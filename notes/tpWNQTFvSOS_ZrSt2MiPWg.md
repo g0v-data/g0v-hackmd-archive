@@ -287,7 +287,7 @@ tags: 學術研究, cowork guideline, g0v, 開源協作手冊, 基礎建設,
 ### 拼裝公民科技: 黑客、鄉民、與資料行動主義 Assembling Civic Technologies: Hackers, Netizens, and Data Activism
 - 作者：李梅君，中央研究院民族學研究所助研究員
 - 《科技、醫療與社會》第 35 期,頁 113-164,111 年 10 月出版
-- http://stmjournal.tw/%E9%A0%90%E5%88%8A%E6%96%87%E7%AB%A0-online-first
+- https://doi.org/10.6464/TJSSTM.202210_(35).0004
 
 ### From Interdisciplinary to Intercultural: A Cultural Exploration of Open Source Collaboration in g0v
 
@@ -365,7 +365,10 @@ https://www.journals.uchicago.edu/doi/abs/10.1086/730621
 - Abstract: From the discussion of “posttruth” in 2016 to the “infodemic” in 2020, online rumors seem to have become more rampant, harmful, and harder to be debunked. This article examines Cofacts, a Taiwan-based fact-checking service that combines a chatbot and a database of fact-checked responses provided by volunteers to help debunk rumors circulated on the messaging app LINE. I argue that Cofacts’s crowdsourcing approach joins what Donna Haraway calls embodied objectivity that insists on “the particularity and embodiment of all vision” to challenge the conventional fact-checking practice that presumes singularity, disembodied objectivity, and authority. Underpinning Cofacts’s fight against online rumors is the intergenerational conflicts that are ingrained in different life experiences, beliefs and values, and expectations of what a good life is. By taking up a technological solution that emphasizes openness, Cofacts opens a space for digital natives to contest what fact is and claim the power of speaking from their parents and the patriarchal society on the one hand and to forge new connections of care and reinitiate conversations that have been barred by the invisible walls of chat rooms and the widening gap of values and beliefs between generations on the other hand.
 - 中文摘要：從2016年「post-truth」的討論到2020年的「infodemic」，網絡謠言似乎變得更加猖獗、有害且難以駁斥。本文探討了Cofacts，一個台灣的事實查核服務，它結合了聊天機器人和由編輯志工提供的事實查核資料庫，來幫助查核在LINE上流傳的謠言。我主張，Cofacts的眾包方法結合了Donna Haraway所稱的即身客觀性 (embodied objectivity)，這種客觀性堅持，知識都有其視角與身體，從來就非普世皆同。透過群眾外包的事實查核機器人，Cofacts從而挑戰傳統事實查核中，認為事實是單一、客觀的並且具有權威的觀點。Cofacts誕生於台灣不同世代之間的衝突，這些衝突源於不同的生活經歷、信仰和價值觀，以及對美好生活的期望。通過採取強調開放性的技術解決方案，Cofacts為數位原住民打開新的政治空間，一方面他們可以在父家長的社會中爭奪對事實的話語權；另一方面，Cofacts的眾包方法也讓數位原住民之間建立新的關懷聯繫，並重新開始因同溫層和世代對立而被阻礙的世代對話。
 
+### g0v D2WG 數位民主研究案工作小組
 
+* 「公民科技促進數位民主發展之挑戰及政策建議」政策報告
+* https://g0v.hackmd.io/@d2wg/book
 
 ---
 ## 教科書 / 書本 / 出版
