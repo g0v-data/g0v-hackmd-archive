@@ -17,6 +17,14 @@ https://photos.app.goo.gl/AtkNoAMs5e2jGrmt5
         - 墊子所蒐集的相關灰燼碎屑，作為垃圾丟棄至焚化爐，避免流入自然水體
         - 墊子的名稱發想：墊到爆、墊爆
     - 街道鋪面清洗，尚能清除燒痕 https://www.facebook.com/liqingl3/posts/5669513776397904?comment_id=5726986753983939&reply_comment_id=5727007420648539&notif_id=1644146241419946&notif_t=comment_mention&ref=notif
+
+我們平常抗議如果潑漆或毀損路面（比較接近燃放鞭炮造成燒焦）會遇到的是截圖這條
+
+各項規範可參年放鞭炮小心違法傷荷包！哪些地點禁止施放？過年放鞭炮還要注意什麼？
+https://ynews.page.link/mZse3
+
+
+對策
     - 懸空吊掛方式燃放，減少造成公共鋪面污痕
     - 網友分享 日本鞭炮箱，把炮竹放在箱內後，點燃並蓋上 https://www.facebook.com/story.php?story_fbid=745201703633748&id=100044317759867&mibextid=tejx2t
 - 污痕灰燼的物質流向：自然水體
