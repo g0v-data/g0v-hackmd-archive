@@ -24,7 +24,7 @@ Admin API scaffold release https://github.com/cofacts/rumors-api/releases/tag/re
 
 ### :rocket: Staging
 
-#### :globe_with_meridians: Site
+#### :globe_with_meridians: Site4
 
 - https://github.com/cofacts/rumors-site/pull/581 & https://github.com/cofacts/rumors-site/pull/583 belong112
 
@@ -136,10 +136,7 @@ Cons
 
 Design doc: https://g0v.hackmd.io/@cofacts/rd/%2FccwZjCTnQ4-I5sPO1tuvFg
 
-## 小聚籌備
-
-- [ ] 日期：01/05 (日)   - 2025 skedda 還沒有被借走
-- [ ] 食物：
+4- [ ] 食物：
 - [ ] 場地：NPO Hub Foundry（大的那間)
 - [ ] 時間：
 	- 活動時間：14:00 - 17:00

@@ -2,7 +2,9 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 23799 | 2024-12-02T00:59:45+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 23804 | 2024-12-02T01:51:04+08:00 |
+| [cofacts](tags/cofacts.md) | 473 | 2024-12-02T01:34:54+08:00 |
+| [ meeting note](tags/%20meeting%20note.md) | 2 | 2024-12-02T01:34:54+08:00 |
 | [Rentea](tags/Rentea.md) | 196 | 2024-12-01T21:51:05+08:00 |
 | [ CoRent](tags/%20CoRent.md) | 1 | 2024-12-01T21:51:05+08:00 |
 | [GIS](tags/GIS.md) | 154 | 2024-12-01T11:26:00+08:00 |
@@ -31,10 +33,9 @@
 | [rand0mth0n](tags/rand0mth0n.md) | 16 | 2024-11-27T13:13:40+08:00 |
 | [Rand0mTh0n](tags/Rand0mTh0n.md) | 1 | 2024-11-27T13:12:18+08:00 |
 | [澳門](tags/%E6%BE%B3%E9%96%80.md) | 6 | 2024-11-27T01:05:41+08:00 |
-| [cofacts](tags/cofacts.md) | 472 | 2024-11-25T21:18:10+08:00 |
-| [meeting note](tags/meeting%20note.md) | 291 | 2024-11-25T21:18:10+08:00 |
 | [joinplus](tags/joinplus.md) | 3 | 2024-11-25T16:40:16+08:00 |
 | [救松](tags/%E6%95%91%E6%9D%BE.md) | 3 | 2024-11-25T16:06:09+08:00 |
+| [meeting note](tags/meeting%20note.md) | 290 | 2024-11-25T16:04:34+08:00 |
 | [g0vernance](tags/g0vernance.md) | 46 | 2024-11-25T15:54:05+08:00 |
 | [g0v](tags/g0v.md) | 74 | 2024-11-25T15:54:05+08:00 |
 | [hackmd](tags/hackmd.md) | 4 | 2024-11-25T15:54:05+08:00 |
