@@ -2,8 +2,10 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 23811 | 2024-12-02T04:14:58+08:00 |
-| [GIS](tags/GIS.md) | 154 | 2024-12-02T02:26:38+08:00 |
+| [GIS](tags/GIS.md) | 154 | 2024-12-02T06:22:35+08:00 |
+| [ 防災](tags/%20%E9%98%B2%E7%81%BD.md) | 1 | 2024-12-02T06:22:35+08:00 |
+| [ 民防](tags/%20%E6%B0%91%E9%98%B2.md) | 1 | 2024-12-02T06:22:35+08:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 23812 | 2024-12-02T06:15:14+08:00 |
 | [cofacts](tags/cofacts.md) | 473 | 2024-12-02T01:34:54+08:00 |
 | [ meeting note](tags/%20meeting%20note.md) | 2 | 2024-12-02T01:34:54+08:00 |
 | [Rentea](tags/Rentea.md) | 196 | 2024-12-01T21:51:05+08:00 |
@@ -77,7 +79,7 @@
 | [internet-shutdown](tags/internet-shutdown.md) | 33 | 2024-10-31T12:01:08+08:00 |
 | [digiresi](tags/digiresi.md) | 33 | 2024-10-31T12:01:08+08:00 |
 | [civil-defense](tags/civil-defense.md) | 43 | 2024-10-31T12:01:08+08:00 |
-| [民防](tags/%E6%B0%91%E9%98%B2.md) | 56 | 2024-10-31T12:01:08+08:00 |
+| [民防](tags/%E6%B0%91%E9%98%B2.md) | 55 | 2024-10-31T12:01:08+08:00 |
 | [數位韌性松](tags/%E6%95%B8%E4%BD%8D%E9%9F%8C%E6%80%A7%E6%9D%BE.md) | 43 | 2024-10-31T12:01:08+08:00 |
 | [DigiResiTh0n](tags/DigiResiTh0n.md) | 33 | 2024-10-31T12:01:08+08:00 |
 | [civil defense](tags/civil%20defense.md) | 17 | 2024-10-31T12:01:08+08:00 |
@@ -118,7 +120,6 @@
 | [都市農耕](tags/%E9%83%BD%E5%B8%82%E8%BE%B2%E8%80%95.md) | 55 | 2024-09-12T09:22:17+08:00 |
 | [預算](tags/%E9%A0%90%E7%AE%97.md) | 13 | 2024-09-06T21:59:05+08:00 |
 | [open spending](tags/open%20spending.md) | 2 | 2024-09-06T21:59:05+08:00 |
-| [防災](tags/%E9%98%B2%E7%81%BD.md) | 7 | 2024-09-04T10:30:20+08:00 |
 | [Issue-Mapping](tags/Issue-Mapping.md) | 7 | 2024-09-01T22:51:17+08:00 |
 | [Open Street Map](tags/Open%20Street%20Map.md) | 3 | 2024-09-01T22:51:17+08:00 |
 | [meshtastic](tags/meshtastic.md) | 7 | 2024-08-31T17:04:18+08:00 |
@@ -238,6 +239,7 @@
 | [nonprofit](tags/nonprofit.md) | 5 | 2024-03-25T14:17:35+08:00 |
 | [ngo](tags/ngo.md) | 12 | 2024-03-25T14:17:35+08:00 |
 | [nonprofits](tags/nonprofits.md) | 5 | 2024-03-25T14:17:35+08:00 |
+| [防災](tags/%E9%98%B2%E7%81%BD.md) | 6 | 2024-03-23T17:27:39+08:00 |
 | [localzine](tags/localzine.md) | 7 | 2024-03-22T21:47:24+08:00 |
 | [disinfo](tags/disinfo.md) | 46 | 2024-03-21T14:14:30+08:00 |
 | [HAPPY-DAO](tags/HAPPY-DAO.md) | 1 | 2024-03-20T09:10:42+08:00 |

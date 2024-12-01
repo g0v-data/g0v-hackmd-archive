@@ -565,6 +565,11 @@ APP
 
 https://www.facebook.com/pb.taipei/posts/pfbid02FiEowF9diMtB3S6crzsTH8QJDS2VV1E8bhnzdxovTQvhcwC6a43mL6N7mnWuFFwhl
 
+### 其他筆記
+
+探討醫院地下化政策
+https://www.facebook.com/share/p/15dXiUpahZ/
+
 
 ---
 
