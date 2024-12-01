@@ -88,6 +88,7 @@ https://g0v.hackmd.io/R_BhZDNNQ-C8CAoTJ58ZSg
 - 民間招募 居住議題受訪者
     - https://www.facebook.com/share/p/EUaAY84DR3go7Cvp/
 - 國家人權委員會「探究我國青年面對購（租）屋困境下之社會發展權衝擊及影響」之研究，[相關問卷](https://forms.gle/7nXYs9GdexktASdr7)
+- 探討年輕世代對共享居住動機及其居住偏好之研究 https://www.facebook.com/share/p/1KDRgYC4ZM/
 - 2022.05 巢運整理居住議題的民眾問卷回答，並提出倡議事項，[網址](https://www.facebook.com/271852885166/posts/10166188795430167/)
 - 2022.06 相信世代協會，扮演二房東與空間物業角色，[組織網站](https://binnextgen.org/team)，釋出[租屋數據報告](https://www.facebook.com/100000485930953/posts/8323735084319273/)
 - 2022.08 大學周邊租屋議題報導，[網址](https://www.facebook.com/1252342995/posts/pfbid0ETdvTGhP2mTqMraXKckY6Fw7ptJTGcMnLTVUobUptWivpZF35vsU1SUx3eUF8we3l/)
