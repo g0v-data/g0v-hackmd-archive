@@ -4,10 +4,17 @@ tags: 公民科學
 
 # 儀器觀察學院
 
-- 蒐集「邀請民眾回報儀器是否安好」、「海上海岸撿到一個神祕的儀器想詢問是誰的」、「儀器圖鑑」、「海上路上儀器觀察學院」等具體案例
+- 蒐集「邀請民眾回報儀器是否安好」、「海上海岸撿到一個神祕的儀器想詢問是誰的」、「協尋」、「儀器圖鑑」、「海上路上儀器觀察學院」等具體案例
 - 評估是否有需要建構互助、入口社團
+- 整理出有可能會被民眾發現的儀器圖鑑
+    - 固定不會移動
+        - 經緯度
+    - 非固定(海域漂流、溪流水域?)
+        - 預計出沒的範圍 polygon?
+- 儀器現場，也可能適合作為地區環境教育的場域
+    - 高鐵IoT邊坡監測-苗栗段 https://youtu.be/Z3up7O4Pw4o
 
-## 案例
+## 案例蒐集
 
 大安森林公園深井式地震觀測站
 https://photos.app.goo.gl/C68YqeqKCsZuhPq16
@@ -49,6 +56,9 @@ https://www.facebook.com/story.php?story_fbid=pfbid0q65zFHMMZ5pqGSH9Y2DhR2rfsbUy
 幫忙巡守，定點，在綠島的公館、石朗、大白沙的水下設置兩個隱蔽性魚類的收集棲地 FARMs, fish autonomous reef monitoring structure
 https://www.facebook.com/groups/1199773780063992?multi_permalinks=9109218769119414&hoisted_section_header_type=recently_seen
 
+協尋，水下錄音監測設備
+https://www.facebook.com/schonkopf/posts/pfbid032yGL7uiNqUyCditwCzMbtiYgW4ozkfVRDXStyZztrMdKkutUfNfsxST3QmyxvacDl
+
 協尋，中研院學者為了珊瑚白化事件布放的監測儀器，特地於眺石附近放置測量溫度用的溫度串（包括有寫中研院的浮球、繩子、鐵鍊以及上面的溫度計）
 https://www.facebook.com/ytldylan/posts/pfbid024w4tEvWXFvrZZ8R69KAXaciV6A9L4eBWyehKNwzPU1BTh9WvBFuxS2yVaiUbXvuGl
 
@@ -70,21 +80,10 @@ https://www.facebook.com/namr.gov.tw/posts/pfbid0qgw8wkuCaThhmuAif1f3ehAT4i8qPN3
 北極熊好奇戶外監測設施
 https://www.facebook.com/100053357980297/posts/pfbid03eKSXmgxcZYbgGEPoiJ98SdvQ6co1zPUKY9om1kszqLkZVUCkNcSXknybyp9LVDQl/?mibextid=cr9u03
 
-
+各類型氣象設備介紹
 https://www.facebook.com/100064277576496/posts/pfbid023enUVP5oi93tWe2JBFmwktCRvGxdEjXJkyNNFJg3ZMUpcSnJXmRWvqzhFQFFELtAl/
 
 三角點
 https://www.facebook.com/share/VuFEW77aFLp6GQka/
 一等水準點
 https://www.facebook.com/share/p/et5x4oT6qR7P6Hsq/
-
-## 發想
-
-整理出有可能會被民眾發現的儀器圖鑑
-- 固定不會移動
-    - 經緯度
-- 非固定(海域漂流、溪流水域?)
-    - 預計出沒的範圍 polygon?
-
-儀器現場，也可能適合作為地區環境教育的場域
-- 高鐵IoT邊坡監測-苗栗段 https://youtu.be/Z3up7O4Pw4o
