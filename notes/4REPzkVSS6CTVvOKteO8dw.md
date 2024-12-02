@@ -2,6 +2,7 @@
 ![](https://g0v.hackmd.io/_uploads/Sy8Xh997kg.png)
 
 ![](https://g0v.hackmd.io/_uploads/BJeEGh99Q1x.png)
+![](https://g0v.hackmd.io/_uploads/Sk0PTEsXyg.png)
 
 <pre>
 #include<iostream>
