@@ -203,3 +203,52 @@ int main()
 
 --------
 
+![](https://g0v.hackmd.io/_uploads/rkhUJwimkg.png)
+![](https://g0v.hackmd.io/_uploads/BkSd1vjQkl.png)
+![](https://g0v.hackmd.io/_uploads/SJfKJwjQyx.png)
+<pre>
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	float h,u,d,f;//一定要用float!!!!不然過不了!! 
+	while(cin>>h>>u>>d>>f)
+	{
+		if(h==0)
+			break;
+		
+		int i=0;
+		float sum=0;
+		float tired=f*u/100;
+		
+		while(true)//讓系統跑 
+		{
+			i++;// 第一天 
+			if(u>0)
+				sum+=u;
+			if(sum>h)
+			{ 
+				cout<<"success on day "<<i<<endl;
+				break;//用完就跳出去  
+			}//記得括號 
+			sum-=d;
+			if(sum<0)
+			{ 
+				cout<<"failure on day "<<i<<endl;
+				break;
+			}	
+			u-=tired;
+			if(u<=0)
+				u=0; 
+		}
+			
+	}
+	
+	return 0;
+}
+
+
+
+</pre>
