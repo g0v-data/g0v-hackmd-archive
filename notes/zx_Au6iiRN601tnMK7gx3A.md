@@ -14,14 +14,13 @@ https://docs.google.com/presentation/d/1YkJ76WEANq-SopKfgY8KQfLuNBVYKJp_/edit#sl
 ### M1: data prep 
 
 #### Schema
-- [ ] add `badges` table for badges information (cofacts maintain)
-- [ ] add `badges` in `users` table
+- [x] add `badges` table for badges information (cofacts maintain)
+- [x] add `badges` in `users` table
 https://github.com/cofacts/rumors-db/pull/74
-- [ ] attach badge display info for all user schema (TBD)
 
 #### Release
 
-Not yet
+
 - Working schema
 
 
@@ -30,9 +29,27 @@ Not yet
 
 #### API
 
+
+Implement the following endpoint using feTS & OpenAPI. The path hierarchy is designed for easier management using Cloudflare.
+
+- `/badge` series: designed for Cofacts automations, including
+    - POST `/badge/award`: for external source (i.e. TFC) to award a badge to a user through API.
+        - userId
+        - badgeId
+    - GET `/badges`: get badge list and it's information for front-end display.
+    - POST `/moderation/aiReply`: regenerate AI reply. Map to current `genAIReply` script.
+- `/badge` series: reserved for Badge operations (TBA)
+- Others: feTS provides `/docs` for Swagger UI, and `/openapi.json` for OpenAPI spec file.
+
+We log all access to the API to console. Fields to be included:
+- The invoked endpoint
+- `user` - who initiated the request. Can be:
+  - email, when [identity-based authentication](https://developers.cloudflare.com/cloudflare-one/identity/authorization-cookie/application-token/#identity-based-authentication) is used
+  - [Client ID of the service token](https://developers.cloudflare.com/cloudflare-one/identity/authorization-cookie/application-token/#service-token-authentication)
+- request payload
+
 - [ ]  add certification APIs for `/badge` for 3rd party orgnization to push update the badge holder's information
 control with Cloudflare zero trust 
-
 
 
 #### Release

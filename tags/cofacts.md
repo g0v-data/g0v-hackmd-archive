@@ -2,13 +2,13 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20241202 會議記錄](../notes/5-jQ-pWnT4iOEOos9t7Cyw.md) | 2024-12-02T01:34:54+08:00 | 2024-12-02T01:16:06+08:00 |
-| 2 | [20241125 會議記錄](../notes/Jqg-lecyRhKtFDnbxnx_ZA.md) | 2024-12-02T01:24:19+08:00 | 2024-11-25T00:11:25+08:00 |
-| 3 | [Cofacts / Open165 hackath64n 協作頁面](../notes/XSpjp40-QEGVAPeTrvxZeQ.md) | 2024-11-25T20:16:47+08:00 | 2024-11-23T00:48:30+08:00 |
-| 4 | [Langfuse LLM observability](../notes/ccwZjCTnQ4-I5sPO1tuvFg.md) | 2024-11-25T19:18:08+08:00 | 2024-11-25T19:10:28+08:00 |
-| 5 | [20241111 會議記錄](../notes/_e0nyj04SoCzxdM38CzuYQ.md) | 2024-11-25T16:04:34+08:00 | 2024-11-09T16:33:28+08:00 |
-| 6 | [20241118 會議記錄](../notes/GxzR0adaS8uNuaP7Vq7pfA.md) | 2024-11-18T21:08:55+08:00 | 2024-11-17T16:27:10+08:00 |
-| 7 | [Badge System](../notes/zx_Au6iiRN601tnMK7gx3A.md) | 2024-11-18T19:43:44+08:00 | 2024-11-18T07:36:53+08:00 |
+| 1 | [Badge System](../notes/zx_Au6iiRN601tnMK7gx3A.md) | 2024-12-02T17:56:14+08:00 | 2024-11-18T07:36:53+08:00 |
+| 2 | [20241202 會議記錄](../notes/5-jQ-pWnT4iOEOos9t7Cyw.md) | 2024-12-02T01:34:54+08:00 | 2024-12-02T01:16:06+08:00 |
+| 3 | [20241125 會議記錄](../notes/Jqg-lecyRhKtFDnbxnx_ZA.md) | 2024-12-02T01:24:19+08:00 | 2024-11-25T00:11:25+08:00 |
+| 4 | [Cofacts / Open165 hackath64n 協作頁面](../notes/XSpjp40-QEGVAPeTrvxZeQ.md) | 2024-11-25T20:16:47+08:00 | 2024-11-23T00:48:30+08:00 |
+| 5 | [Langfuse LLM observability](../notes/ccwZjCTnQ4-I5sPO1tuvFg.md) | 2024-11-25T19:18:08+08:00 | 2024-11-25T19:10:28+08:00 |
+| 6 | [20241111 會議記錄](../notes/_e0nyj04SoCzxdM38CzuYQ.md) | 2024-11-25T16:04:34+08:00 | 2024-11-09T16:33:28+08:00 |
+| 7 | [20241118 會議記錄](../notes/GxzR0adaS8uNuaP7Vq7pfA.md) | 2024-11-18T21:08:55+08:00 | 2024-11-17T16:27:10+08:00 |
 | 8 | [Cofacts user blocking mechanism](../notes/7lmvtxe5S_qsyQeoUsSyTw.md) | 2024-11-18T07:35:59+08:00 | 2024-11-18T07:35:59+08:00 |
 | 9 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-11-11T16:41:44+08:00 | 2022-08-05T10:46:53+08:00 |
 | 10 | [Cofacts API access management](../notes/51wwLHgvSUqtBDaP-yAVnA.md) | 2024-11-08T14:15:08+08:00 | 2021-01-19T22:33:07+08:00 |
