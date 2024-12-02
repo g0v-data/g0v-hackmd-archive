@@ -52,3 +52,55 @@ int main()
 </pre>
 ------
 ![](https://g0v.hackmd.io/_uploads/BkLlp9c7kl.png)
+![](https://g0v.hackmd.io/_uploads/HJl2Io39Xyl.png)
+![](https://g0v.hackmd.io/_uploads/SkSdihcQJe.png)
+<pre>
+
+
+//先設flag再決定有幾個
+#include<iostream>
+#include<string>
+using namespace std;
+
+int main()
+{
+	string baseone;//要讀input:一串測資  
+	string basetwo;//
+	int num;
+	char flag;
+	
+	while(cin>>baseone&&baseone!="~")//一個一個int讀 
+	{
+		if(baseone=="#")
+		{
+			num=0;
+			//轉十進位
+			for(int i=0;i<basetwo.length();i++)
+			{
+				if(i!=0)
+					num*=2;//除了第一位都成立 
+					
+				if(basetwo[i]=='1')
+					num+=1;	//if flag=0, 跳過累加 
+			} 
+			basetwo="";//重置 prepare for the next casenum 
+			cout<<num<<endl;
+		}
+		else if(baseone.length()==1)
+			flag='1'; //char用''
+		else if(baseone.length()==2)
+			flag='0';
+		else
+		{
+			for(int i=0;i<baseone.length()-2;i++)
+				basetwo +=flag;//不是直接加二 是加兩次11	
+		} 
+			
+		
+	}
+	return 0;
+}
+</pre>
+-------
+
+
