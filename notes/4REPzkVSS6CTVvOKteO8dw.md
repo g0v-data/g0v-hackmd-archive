@@ -139,3 +139,67 @@ int main()
 </pre>
 --------
 
+![](https://g0v.hackmd.io/_uploads/Hk4_lUj71l.png)
+![](https://g0v.hackmd.io/_uploads/SJgqgLimkl.png)
+![](https://g0v.hackmd.io/_uploads/HyAcgUsQ1x.png)
+<pre>
+
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	int casenum;
+	cin>>casenum;
+	while(casenum--)
+	{
+		int m,d;
+		cin>>m>>d;
+		//月份轉天數
+		m--;
+		while(m!=0)
+		{
+			if(m==1||m==3||m==5||m==7||m==8||m==10||m==12)
+			{
+				d+=31;
+				m--;	
+			}	
+			else if(m==4||m==6||m==9||m==11)
+			{
+				d+=30;
+				m--;
+			}
+			else if(m==2)
+			{
+				d+=28;
+				m--;
+			}
+		}
+		int sum;
+		sum=d%7;
+		
+		if(sum==0)
+			cout<<"Friday"<<endl;
+		if(sum==1)
+			cout<<"Saturday"<<endl;
+		if(sum==2)
+			cout<<"Sunday"<<endl;
+		if(sum==3)
+			cout<<"Monday"<<endl;
+		if(sum==4)
+			cout<<"Tuesday"<<endl;
+		if(sum==5)
+			cout<<"Wednesday"<<endl;
+		if(sum==6)
+			cout<<"Thursday"<<endl;		
+	}
+	return 0;
+}
+
+
+
+</pre>
+
+--------
+
