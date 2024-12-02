@@ -103,5 +103,39 @@ int main()
 }
 </pre>
 -------
+![](https://g0v.hackmd.io/_uploads/rkeF8ESjmkg.png)
+![](https://g0v.hackmd.io/_uploads/BkgowEHiX1x.png)
+<pre>
 
+#include<iostream>
+#include<string>
+using namespace std;
+
+int main()
+{
+	int casenum;
+	cin>>casenum;
+	while(casenum--)
+	{
+		string word;
+		cin>>word;
+		
+		if(word.length()==3)
+		{
+			if((word[0]=='t'&&word[1]=='w')||(word[1]=='w'&&word[2]=='o')||(word[0]=='t'&&word[2]=='o'))
+				cout<<"2"<<endl;
+			else 
+				cout<<"1"<<endl;
+		}
+		
+		if(word.length()==5)
+			cout<<"3"<<endl;
+			
+	}
+	return 0;
+}
+
+
+</pre>
+--------
 
