@@ -1,4 +1,4 @@
-#程式設計作業8
+# 程式設計作業8
 <pre>
 #include<iostream>
 using namespace std;
