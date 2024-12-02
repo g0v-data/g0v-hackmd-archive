@@ -1,0 +1,3 @@
+<p><strong>How Are Custom Guitar Bodies Designed and Crafted from Concept to Creation? Explore the Steps!</strong></p>
+<p>The design phase starts with a vision, often a collaboration between guitar designers, craftsmen, and musicians, to develop a guitar that meets specific aesthetic and sound specifications. See More <a href="https://spaces.hightail.com/space/uxL3ULijNG">Here</a>.</p>
+<p>&nbsp;</p>

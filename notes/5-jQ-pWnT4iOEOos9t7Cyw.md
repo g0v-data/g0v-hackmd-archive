@@ -9,7 +9,7 @@ GA: UA-98468513-3
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
 - NPO hub 出席：bil, nonumpa, mrorz
-- 線上出席：品君, T
+- 線上出席：品君, T, EJ
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -36,7 +36,8 @@ blockUser API
 > EJ
 
 - Lint pending https://github.com/cofacts/rumors-db/pull/74
-- The need of `issuer` field
+- The need of `issuer` field --> `issuers`
+- badge color --> border image to allow more flexible border setups
 
 ## CCPRIP
 
@@ -44,8 +45,6 @@ blockUser API
 
 - 有可疑使用者
 - 有 Cofacts 帳號但沒有什麼活動
-
-## CCPRIP
 
 ### [Op] Automated spam removal
 
@@ -66,7 +65,31 @@ blockUser API
 
 ## 小聚籌備
 
-- [ ] 日期：01/05 (日)   - 2025 skedda 還沒有被借走
+- [ ] 日期：01/05 (日)   - 已經訂好了
+- [ ] 食物：
+- [ ] 場地：NPO Hub Foundry（大的那間)
+- [ ] 時間：
+	- 活動時間：14:00 - 17:00
+	- 時間分配
+        - 2:00 - 2:20 開場
+            - 影片
+            - Slido 暖身
+        - 2:20 - 2:40 引導註冊網站、介紹評價現有回應
+        - 2:40 - 2:50 實作評價
+        - 2:50 - 3:10 介紹補充資訊
+        - 3:10 - 3:40 實作補充資訊、自我介紹、休息
+        - 3:40 - 4:10 介紹撰寫新回應
+        - 4:10 - 4:40 實作撰寫新回應
+        - 4:40 - 5:00 介紹分類、RSS、合照
+- [ ] 投放目標：
+  - 推播日：12/27 or 12/22
+  - 目標：雙北
+- [ ] KKTIX: https://cofacts.kktix.cc/events/cofactseditor45
+- [ ] 誰會來呢：bil,orz,nonumpa
+- [ ] 記得帶：貼紙、環保杯
+- [ ] LINE 文案： TikTok 上熱門到轉傳給 LINE 的影片說皮蛋在顯微鏡下都是會四處蠕動的寄生蟲，真的假的呀？這其實是一個合成過的影片，前半段雖然真的是把皮蛋切片放在載玻片並用顯微鏡觀察，但後半部有蟲蟲危機的片段卻是合成剪接後的結果。顯然眼見為憑並不為真。網路上許多影片圖片需要你的查證公開，就能幫助更多身邊的人。 Cofacts 真的假的 第 45 次志工查核工作坊需要你的加入，活動完全免費，（請自備電腦）最近的捷運站是中正紀念堂站，連結內報名：https://cofacts.kktix.cc/events/cofactseditor45
+- [ ] VOOM 發文
+- [ ] FB 發文
 
-
-
+## 12 月開會
+- 12/30 (一) 開會改成 1/2 (四)

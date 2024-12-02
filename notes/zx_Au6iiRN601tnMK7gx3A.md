@@ -17,6 +17,8 @@ https://docs.google.com/presentation/d/1YkJ76WEANq-SopKfgY8KQfLuNBVYKJp_/edit#sl
 - [x] add `badges` table for badges information (cofacts maintain)
 - [x] add `badges` in `users` table
 https://github.com/cofacts/rumors-db/pull/74
+- use `bordaerImage` instead of `color`
+
 
 #### Release
 
@@ -32,14 +34,17 @@ https://github.com/cofacts/rumors-db/pull/74
 
 Implement the following endpoint using feTS & OpenAPI. The path hierarchy is designed for easier management using Cloudflare.
 
-- `/badge` series: including
+- `/badge` series: 
     - POST `/badge/award`: for external source (i.e. TFC) to award a badge to a user through API.
         - `userId`
         - `badgeId`
-        - 
+        - verify `requeat-user-id` vs issuer in `badges`
 
-- [ ]  TBD - add issuer table for verify if the source match the authorized issuer.
+- add `issuers` to `badges` for verify if the source match the authorized issuer.
+    - `issuers` should be array of string , for OpenAPI or feTS will using different `request-user-id`. 
+    - change cofacts.cloudflare.com login id for EJ (to jhk482001@gmail.com)
 
+- badge image -> 200x200px is enough.
 
 #### Release
 
@@ -55,6 +60,7 @@ Not yet
 - [ ] User page badge display
 - [ ] User page badge list
 - [ ] rumor page user icon border
+- [ ] 改成用background with radius, allow to configure background image url 
 
 
 #### Release
