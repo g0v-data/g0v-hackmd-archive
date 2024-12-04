@@ -6,6 +6,12 @@ tags: vtaiwan
 地點 Location ：線上 Online
 線上參與連結 / Link：https://meet.jit.si/vTaiwan
 
+## 1204 會議討論
+- 12/20 議題小聚內容
+- 問題：
+    - 參與者要再增加
+    - Polis 互動程度要增加
+
 ## 1119 放輕松
 - [議題小聚1119討論](/5-2JuTWiRty_ZYLvLGW8aw)
 
