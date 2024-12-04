@@ -1,13 +1,13 @@
 <p style="text-align: center;"><strong>Nh&agrave; C&aacute;i Sin88 Sảnh Cược Trực Tuyến Đến Từ Singapore 2024</strong></p>
-<p style="text-align: center;"><a href="https://ibb.co/sghD686"><img src="https://i.ibb.co/L0MqJVJ/BAN-R-YTB.jpg" alt="BAN-R-YTB" width="501" height="282" border="0" /></a></p>
-<p dir="ltr" style="text-align: center;"><a href="https://nhacaiuytin.com.ph/sin88/">Sin88</a>&nbsp;l&agrave; nh&agrave; c&aacute;i c&aacute; cược đang trở th&agrave;nh điểm đến người tham gia nhiều hiện nay. Tại đ&acirc;y nổi bật với h&agrave;ng loạt dịch vụ đỉnh cao, chất lượng v&agrave; kho tr&ograve; chơi đa dạng. Truy cập ngay để nhận thưởng cực khủng!&nbsp;</p>
+<p style="text-align: center;"><a href="https://ibb.co/6NktcHk"><img src="https://i.ibb.co/1bkXYrk/bannn-rr-YTB.jpg" alt="bannn-rr-YTB" width="507" height="285" border="0" /></a></p>
+<p style="text-align: center;">&nbsp;<a href="https://nhacaiuytin.com.ph/sin88/">Sin88</a>&nbsp;l&agrave; nh&agrave; c&aacute;i c&aacute; cược đang trở th&agrave;nh điểm đến người tham gia nhiều hiện nay. Tại đ&acirc;y nổi bật với h&agrave;ng loạt dịch vụ đỉnh cao, chất lượng v&agrave; kho tr&ograve; chơi đa dạng. Truy cập ngay để nhận thưởng cực khủng!&nbsp;</p>
 <p dir="ltr" style="text-align: center;">#sin88 #nhacaisin88 #sin88casino&nbsp;</p>
 <p dir="ltr" style="text-align: center;"><strong>Th&ocirc;ng Tin Li&ecirc;n Hệ:</strong></p>
 <p dir="ltr" style="text-align: center;"><strong>- Địa Chỉ:</strong>&nbsp;6 Phạm Văn Bạch, Phường 15, T&acirc;n B&igrave;nh, Hồ Ch&iacute; Minh, Việt Nam&nbsp;</p>
-<p dir="ltr" style="text-align: center;">-&nbsp;<strong>Số Điện Thoại:</strong>&nbsp;0908031999&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><strong>- Số Điện Thoại:</strong>&nbsp;0908031999&nbsp;</p>
 <p dir="ltr" style="text-align: center;">-&nbsp;<strong>Email</strong>: nhacaisin88@gmail.com&nbsp;</p>
 <p dir="ltr" style="text-align: center;">-&nbsp;<strong>Website</strong>:&nbsp;<a href="https://nhacaiuytin.com.ph/sin88/">https://nhacaiuytin.com.ph/sin88/</a></p>
-<p style="text-align: center;"><a href="https://imgbb.com/"><img src="https://i.ibb.co/SXjj8yD/LOGO-200.jpg" alt="LOGO-200" border="0" /></a></p>
+<p style="text-align: center;"><a href="https://imgbb.com/"><img src="https://i.ibb.co/qDchfY5/LOGO-200.jpg" alt="LOGO-200" border="0" /></a></p>
 <p dir="ltr" style="text-align: center;"><strong>Social</strong>:&nbsp;</p>
 <p dir="ltr" style="text-align: center;"><a href="https://www.facebook.com/sin88casino/">https://www.facebook.com/sin88casino/</a></p>
 <p dir="ltr" style="text-align: center;"><a href="https://twitter.com/nhacaisin88com">https://twitter.com/nhacaisin88com</a></p>
@@ -59,4 +59,3 @@
 <p dir="ltr" style="text-align: center;"><a href="https://hashnode.com/@sin88casino">https://hashnode.com/@sin88casino</a></p>
 <p dir="ltr" style="text-align: center;"><a href="https://wakelet.com/@sin88casino">https://wakelet.com/@sin88casino</a></p>
 <p dir="ltr" style="text-align: center;"><a href="https://www.instapaper.com/p/sin88casino">https://www.instapaper.com/p/sin88casino</a></p>
-<p dir="ltr" style="text-align: center;">&nbsp;</p>
