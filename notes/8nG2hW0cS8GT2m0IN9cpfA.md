@@ -1,7 +1,7 @@
 # 1203小松
 時間 Time ：19:00-20:30
 地點 Location ：線上 Online
-參與者 Participants: Peter, T, Josh, 星辰代卸 
+參與者 Participants: Peter, T, Josh, 承哲 
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
@@ -21,8 +21,8 @@
 - 下一篇：針對回饋與檢討的紀錄，希望在12/20前完成
     - 回饋：表單
     - 檢討：之前共筆列的
-- 不論是在 polis 上面，或者是哪些意見，可以量化或視覺化的內容 [name=josh]
-    - 可以放圖表 [name=josh]
+- 不論是在 polis 上面，或者是哪些意見，可以量化或視覺化的內容 [name=Josh]
+    - 可以放圖表 [name=Josh]
     - 審議的結果很難被政策所採納，很多時候是審議的結果很難有一個量化的總結。
         - vTaiwan 的優勢：用數位的方式呈現意見，可以找出實質跟 actionable 的方向
 
@@ -30,24 +30,36 @@
 
 ## 議題小聚#2 準備
 - 事前宣傳
+    - 這週菜市場政治學
     - 目前26人報名
+        - 推定都是實體
     - 已經分享到
         - 司改會數位法小組志工團
         - g0v slack general 頻道
         - 公共事務培訓群組
     - 還可以分享的管道？
+- 線上參與？
+    - 統一報名，事前調查線上參加與實體參加
+    - 事前調查問卷
+        - 下週三（12/11)可以發出去
+        - 填完問卷後寫已經填答
+        - 線上/實體，沒有回覆推定線上
+        - 支不支持台灣對於人工智慧發展進行規範
+    - 現場問卷
+        - 沒有最低樣本數，要測 effect size 
 - 流程
-    - 是否可以在最後的時間，讓大家用 survey 的方式來做總結 [name=josh]
-        - 我覺得可以，不過要問什麼？ [name=peter]
+    - 是否可以在最後的時間，讓大家用 survey 的方式來做總結 [name=Josh]
+        - 我覺得可以，不過要問什麼？ [name=Peter]
         - 理想上的狀態是結合大家討論的議題，利用數位的方式，檢視大家在意見上變動的地方。
         - 如果大家更加堅定，或者是變動幅度很小的話，可以如何應對？
-            - 其實應該沒有問題 [name=josh]
+            - 其實應該沒有問題 [name=Josh]
         - 討論的過程中加上意見，成為一個更開放的意見。
         - [name=josh] 當天可以幫忙調整
-        - 會後表單建立 [name=星辰代卸] 與會過程中，建立回饋表單，內容要有，在討論之認為有怎麼樣的共識。針對小聚本身的審議。要順便收集活動舉辦的回饋。
+        - 會後表單建立 [name=承哲] 與會過程中，建立回饋表單，內容要有，在討論之認為有怎麼樣的共識。針對小聚本身的審議。要順便收集活動舉辦的回饋。
 - 這一次要錄音：
     - 生成逐字稿，利用 talk to the city 來錄音？
-    - 
+- 12/19 14:00-15:00 
+- 
 ## 今天的國際夥伴：Pivotes
 :::info
 Pivotes是在智利專門做審議的公民組織，長期都有在關心台灣數位民主的案例，前幾個月有邀請au過去演講，也發表過一篇關於台灣數位民主的完整報告。
@@ -60,5 +72,26 @@ Pivotes是在智利專門做審議的公民組織，長期都有在關心台灣�
     - Josh 
     - T
     - 承哲
+    - Thomas 
+    - 翊婷
 - Introduction of Pivotes
-    - ad
+    - advocacy center in Chile
+    - Inviting AU to Chile 
+    - Thinking vTaiwan can be applied to Chile
+    - Radical x Change contributing to the projects 
+- Three parts of vTaiwan 
+    - Coordinators in the government
+        - Jacklyn Tsai 
+        - AU 
+    - Researchers for the issues
+        - Institute of Information Industry
+    - vTaiwan community
+        - existing and trying to build the linkage between civic tech community and NGOs 
+- Some notes and reminders
+    - building the process based on the context 
+    - trust is the first priority
+    - making people 
+- Why polis?
+- How to use the information for the policy maker?
+    - write it down, try to find consensus, and making the proposal 
+    - 
