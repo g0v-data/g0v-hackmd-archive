@@ -75,7 +75,10 @@ https://www.facebook.com/605050693/posts/pfbid038MfJ3uCWfqQSSrGfdSM8MZt6KJFZXgXy
 ## 🔸 Economic 經濟手段
 
 - 抽砂、海底電纜損毀，先歸類在 Economic，主要是基於「經濟海域」
-- 待分類 https://cfcc.site.nthu.edu.tw/p/406-1203-251194,r7197.php
+- 待分類
+    - https://cfcc.site.nthu.edu.tw/p/406-1203-251194,r7197.php
+    - https://photos.app.goo.gl/2vbYoVmHfs8TX2xa9
+    - 中共海上灰色地帶行動
 
 ### 明確的事件
 

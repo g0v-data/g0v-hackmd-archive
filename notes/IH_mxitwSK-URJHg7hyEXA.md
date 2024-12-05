@@ -1,11 +1,12 @@
-<h1 dir="ltr" style="text-align: center;"><strong>Danh S&aacute;ch Trang C&aacute; Độ B&oacute;ng Đ&aacute; Uy T&iacute;n &amp; Kh&ocirc;ng Bao Giờ Bị Chặn</strong>&nbsp;</h1>
+<h1 dir="ltr" style="text-align: center;"><strong>Danh S&aacute;ch Trang C&aacute; Độ B&oacute;ng Đ&aacute; Uy T&iacute;n &amp; Kh&ocirc;ng Bao Giờ Bị Chặn</strong></h1>
+<p style="text-align: center;">&nbsp;</p>
 <p dir="ltr" style="text-align: center;"><img src="https://i.ibb.co/pzMnPKj/ban-t.jpg" alt="ban-t" width="501" height="167" /></p>
 <p dir="ltr" style="text-align: center;">Top&nbsp;<a href="https://trang-ca-do-bong-da.live/">trang c&aacute; độ b&oacute;ng đ&aacute;</a>&nbsp;uy t&iacute;n cho anh em đam m&ecirc; c&aacute; cược, tại những địa chỉ n&agrave;y, anh em c&oacute; thể y&ecirc;n t&acirc;m cược thả ga, kh&ocirc;ng lo bị chặn.</p>
 <p dir="ltr" style="text-align: center;">#trangcadobongda #webcadobongda #cadobongda #cadobongdalive</p>
 <p dir="ltr" style="text-align: center;"><strong>Th&ocirc;ng Tin Li&ecirc;n Hệ:</strong></p>
 <p dir="ltr" style="text-align: center;"><strong>- Địa Chỉ:</strong>&nbsp;6 Đ. Nguyễn Du, Binh Ho&agrave;, Thuận An, B&igrave;nh Dương</p>
 <p dir="ltr" style="text-align: center;"><strong>- Số Điện Thoại:</strong>&nbsp;0896337546&nbsp;</p>
-<p dir="ltr" style="text-align: center;"><strong>- Email:</strong>&nbsp;bj88.com.so@gmail.com&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><strong>- Email:</strong>&nbsp; trangcadobongdalive@gmail.com</p>
 <p dir="ltr" style="text-align: center;"><strong>- Website:</strong>&nbsp;<a href="https://trang-ca-do-bong-da.live/">https://trang-ca-do-bong-da.live/</a></p>
 <p dir="ltr" style="text-align: center;"><img src="https://i.ibb.co/qFsxHYh/200.jpg" alt="200" /></p>
 <p dir="ltr" style="text-align: center;">&nbsp;</p>
@@ -60,5 +61,3 @@
 <p dir="ltr" style="text-align: center;"><a href="https://hashnode.com/@trangcadobongdalive">https://hashnode.com/@trangcadobongdalive</a></p>
 <p dir="ltr" style="text-align: center;"><a href="https://taplink.cc/trangcadobongdalive">https://taplink.cc/trangcadobongdalive</a></p>
 <p dir="ltr" style="text-align: center;"><a href="https://wakelet.com/@trangcadobongdalive">https://wakelet.com/@trangcadobongdalive</a></p>
-<p style="text-align: center;">&nbsp;</p>
-<p dir="ltr">&nbsp;</p>

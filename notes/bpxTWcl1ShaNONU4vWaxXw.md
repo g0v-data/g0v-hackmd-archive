@@ -6,9 +6,12 @@ tags: China
 
 ## 中國經濟分析
 
-https://hao.cnyes.com/post/44587
+20230801 辜朝明：中國比1990年日本更艱難
 https://youtu.be/V8rCBb4GkC4
+https://hao.cnyes.com/post/44587
 
+20241123 當前中國的經濟困境與美中博弈講座
+https://youtu.be/m5rI6Qz4ODc
 
 ## Economic Impact of Engagement with Taiwan and China
 
@@ -26,7 +29,7 @@ https://www.wilsoncenter.org/event/economic-impact-engagement-taiwan-and-china
 
 ## 大陸委員會第47次諮詢委員會議，主題為「中國大陸對全球經濟影響力之觀察」
 
-與會諮詢委員之發言及討論重點請看
+與會諮詢委員之發言及討論重點
 https://gov.tw/EB8
 
 
