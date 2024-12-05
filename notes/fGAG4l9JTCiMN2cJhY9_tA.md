@@ -26,10 +26,5 @@ tags: jothon
 
 揪松完整物資列表
 -------------
-並非全數物資都提供外借
-* 延長線 x 4
-* 桌旗 x ?
-* 頸繩
-* 桌牌
-* 坑主臂章
-* 技能貼紙
+並非全數物資都提供外借，請見以下清單
+https://g0v.hackmd.io/PpFHUj1bRuiluTQpLAuIeA?view
