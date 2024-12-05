@@ -115,6 +115,11 @@ int main()
 
 
 ====
+
+//調換行
+//輸入for迴圈算輸贏total
+//最後格式輸出記得加float,for算每個player算贏的比例//記得算total的比例 
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_519d317b74c4733e17f0e2f10425e700.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_51c884ad0b3f8a34853e2e9ec6608de3.png)
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_089df6be1676bb09ce3f201587e0bdc4.png)
