@@ -1,5 +1,4 @@
-[U888](https://u888com.art/
-) là nhà cái uy tín, nổi bật với hệ thống cá cược trực tuyến hiện đại và đa dạng sản phẩm như cá cược thể thao, game bài, casino trực tuyến và slot game. Với giao diện thân thiện, tỷ lệ cược minh bạch và các chương trình khuyến mãi hấp dẫn, U888 là lựa chọn hàng đầu cho người chơi.
+[U888](https://u888com.art/) là nhà cái uy tín, nổi bật với hệ thống cá cược trực tuyến hiện đại và đa dạng sản phẩm như cá cược thể thao, game bài, casino trực tuyến và slot game. Với giao diện thân thiện, tỷ lệ cược minh bạch và các chương trình khuyến mãi hấp dẫn, U888 là lựa chọn hàng đầu cho người chơi.
 Thông tin liên hệ: 
 Website: https://u888com.art/
 Email: contact.u888comart@gmail.com
