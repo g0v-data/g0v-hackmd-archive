@@ -797,3 +797,217 @@ int main()
 }
 
 </pre>
+======
+
+-------
+![](https://g0v.hackmd.io/_uploads/BygBykkNyg.png)
+![](https://g0v.hackmd.io/_uploads/rJGIyky41x.png)
+![](https://g0v.hackmd.io/_uploads/S1xw1yyNkg.png)
+
+![](https://g0v.hackmd.io/_uploads/SyQOy1JV1g.png)
+![](https://g0v.hackmd.io/_uploads/H13Y1J1VJe.png)
+![](https://g0v.hackmd.io/_uploads/Hk6cykkEye.png)
+![](https://g0v.hackmd.io/_uploads/Byk7Gk1Nyx.png)
+<pre>
+#include<iostream>
+#include<fstream>
+#include<string.h>
+using namespace std;
+
+struct user{
+	char username[20];
+	char password[20];
+	int loginnum;
+	int XAXBwin;
+	int XAXBlose;
+	
+};//每個user的資料 
+
+bool checkusername(char u[])
+{
+	int flag;
+	
+	if(strlen(u)<3)
+		return false;
+	
+	for(int i=0;i<strlen(u);i++)
+	{
+		flag=0;
+		if(u[i]>='0'&&u[i]<='9')
+			flag=1;
+		if(u[i]>='a'&&u[i]<='z')
+			flag=1;
+		if(u[i]>='A'&&u[i]<='Z')
+			flag=1;
+		if(flag==0)
+			return false;
+	}
+	return true;
+}
+
+bool checkpassword(char p[])
+{
+	
+	int flag;
+	if(strlen(p)<3)
+  		return false;
+  
+ 	for(int i=0;i<strlen(p);i++)//檢查字元 
+ 	{
+  		flag=0;
+  	
+  		if(p[i]>='0'&&p[i]<='9')
+   			flag=1;
+   			vote[0]++;//記錄幾個0-9 
+  
+ 		if(p[i]>='a'&&p[i]<='z')
+   			flag=1;
+   			vote[1]++;
+   
+		if(p[i]>='A'&&p[i]<='Z')
+   			flag=1;
+   			vote[1]++;
+   
+ 		if(flag==0)
+   	  		return false; 
+ 	}
+ 	
+	if(vote[0]==0)
+  		return false;
+ 	if(vote[1]==0)
+  		return false; 
+ 	return true;
+}
+
+
+bool newuser(user users[],int *pno)//under constructed
+{
+	char username[20];
+	char password[20];
+	cahr password2[20];
+	fin>>username;//implement check code
+	
+	fin>>password;
+	
+	fin>>password2;
+	
+	if(strcom(password,password2)==0)
+	{
+	
+		strcpy(users[*pno].username,username);
+		strcpy(users[*pno].password,password);
+		users[*pno].login=1;
+		users[*pno].XAXBwin=0;
+		users[*pno].XAXBlose=0;
+		(*pno)++;
+		return true;
+	}
+	return false;
+}
+
+
+
+
+/*
+
+
+
+=======
+XAXB
+======
+
+
+=======
+chatroom code here
+=========
+*/
+
+
+
+void Chatroom_Main()
+{
+	//讀檔
+	ifstream fin;
+	//int user_num;
+	user users[100];
+	char tmp;
+	char username[20];
+	char password[20];
+	
+	
+	fin.open("userDB.text");
+	fin>>user_num;
+	for(un=0;un<user_num;un++)
+	{
+		//fin>>tmp;
+		//strcpy(users[un].username,tmp);
+		fin>>users[un].username;
+		fin>>users[un].password;
+		fin>>users[un].loginno;
+		fin>>users[un].XAXBwin;
+		fin>>users[un].XAXBlose;
+		
+	}
+	fin.close();
+	
+	//login
+	while(true)
+	{
+		cout<<"user name:";
+		fin.getline(username,20);
+		if(strcmp(username,"new")==0)
+		{
+			if(newuser(user,&user_num))
+			{
+				un=user_num-1;
+				break;
+			}
+			else
+				continue;//回到頭再問一次 
+			
+		}
+		cout<<"password:"
+		fin.getline(password,20);
+	
+		
+		if(checkusername(username)&&checkpassword(password))
+		{
+			for(un=0;un<user_num;un++)
+			{
+				if(strcmp(username,users[un].username)==0)
+					break;
+			}
+			
+			if(un==user_num)
+				cout<<"查無此人"<<endl;
+			else
+			{
+				if(strcmp(password,users[un].password)==0)
+					break;
+				else
+					cout<<"密碼錯誤"<<endl;
+			}
+		}
+	}
+	//login user==users[un]
+	user[un].loginnum++
+	int select;
+	do{
+		system("cls");
+		cout<<users[un].username<<"您好"<<endl;
+		cout<<"[1]XAXB"<<endl; 
+		cout<<"[2]聊天室"<<endl; 
+		cout<<"[3]XAXB"<<endl; 
+		cout<<"[4]XAXB"<<endl; 
+		cout<<"[5]XAXB"<<endl; 
+		cout<<"[0]離開系統"<<endl; 
+		cout<<"Please select:";
+		cin>>select;
+		if(select==2)
+			Chatroom_Main(users[un].username);
+	}while(select!=0)
+	//write users[0....user_num-1] to usersDB.txt
+	
+	return 0;
+}
+</pre>
