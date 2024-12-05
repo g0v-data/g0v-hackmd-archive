@@ -751,3 +751,49 @@ int main()
 
 
 ![](https://g0v.hackmd.io/_uploads/S1e8i29BQJe.png)
+------
+------
+------
+
+![](https://g0v.hackmd.io/_uploads/HylDX1A0X1g.png)
+
+<pre>
+#include<iostream>
+#include<fstream>
+#include<string.h>
+using namespace std;
+//先在路徑裡放一個 msg.txt
+//執行chatroom.exe兩次 
+int main()
+{
+	
+	ifstream fin;
+	ofstream fout;
+	char username[100]="def";
+	char str[1000];
+	char input[100];
+	
+	do{
+		system("cls");
+		fin.open("msg.txt");
+		char input[100];
+		while(fin.getline(str,500))
+			cout<<str<<endl;
+		fin.close();
+		//開讀檔 
+		
+		cout<<username<<":";
+		cin.getline(input,100);
+		
+		if(strcmp(input,"Exit")!=0 && strcmp(input," ")!=0)
+		{
+			fout.open("msg.txt",ios::app);
+			fout<<username<<":"<<input<<endl;
+			fout.close();
+		}
+	}while(strcmp(input,"Exit")!=0);
+	
+	return 0;
+}
+
+</pre>
