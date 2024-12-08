@@ -1,6 +1,8 @@
 # UVM
 
 # 1. UVM架構
+![](https://g0v.hackmd.io/_uploads/SJToammNyl.png)
+
 * transaction
 ```
 class my_transaction extends uvm_sequence_item;
@@ -100,14 +102,9 @@ endclass
 task my_driver::main_phase(uvm_phase phase);
    vif.data <= 8'b0;
    vif.valid <= 1'b0;
-   while(!vif.rst_n)
-      @(posedge vif.clk);
    while(1) begin
-       /*获取sequence*/
       seq_item_port.get_next_item(req);
-       /*驱动到DUT*/
       drive_one_pkt(req);
-       /*驱动结束*/
       seq_item_port.item_done();
    end
 endtask
@@ -115,7 +112,6 @@ endtask
 task my_driver::drive_one_pkt(my_transaction tr);
    byte unsigned     data_q[];
    int  data_size;
-   /*将数据打包到data_q中*/
    data_size = tr.pack_bytes(data_q) / 8; 
    `uvm_info("my_driver", "begin to drive one pkt", UVM_LOW);
    repeat(3) @(posedge vif.clk);
@@ -124,9 +120,7 @@ task my_driver::drive_one_pkt(my_transaction tr);
       vif.valid <= 1'b1;
       vif.data <= data_q[i]; 
    end
-
-   @(posedge vif.clk);
-   vif.valid <= 1'b0;
-   `uvm_info("my_driver", "end drive one pkt", UVM_LOW);
 endtask
 ```
+
+* monitr
