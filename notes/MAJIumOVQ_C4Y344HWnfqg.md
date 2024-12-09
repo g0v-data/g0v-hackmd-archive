@@ -1,5 +1,5 @@
 TG88 🥇 Link Vào Trang Chủ Nhà Cái TG88 Chính Thức
-<p><img src="https://pbs.twimg.com/profile_banners/1865587584199741440/1733625965/1500x500" alt="" width="600" height="233" /></p>
+
 <p><a href="https://tg88pro.com/">TG88</a> l&agrave; nh&agrave; c&aacute;i uy t&iacute;n được giới mộ điệu đ&aacute;nh gi&aacute; h&agrave;ng đầu hiện nay. Tại đ&acirc;y, anh em c&oacute; thể tận hưởng những sản phẩm c&aacute; cược đỉnh cao như: casino, thể thao, slotgame, l&ocirc; đề,...</p>
 <p>Website: <a href="https://tg88pro.com/">https://tg88pro.com/</a></p>
 <p>Điện Thoại: 0899180107</p>

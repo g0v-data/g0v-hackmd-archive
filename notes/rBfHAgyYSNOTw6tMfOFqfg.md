@@ -38,6 +38,7 @@ https://sch001.g0v.tw/dash/prj/PHRJpYi337MOiFzi5IWAyGNA9SjJRV
 ## 涉及影音生成
 
 手語生成式 AI
+https://youtu.be/wC26yRZ09FI
 https://www.facebook.com/watch/?v=828334065330478
 
 歌詞歌曲生成，土石流
