@@ -42,6 +42,11 @@ tags: cofacts, security, resilience, 資安, CCPRIP
   - downtime detection and recovery
   - block abnormal traffic
 - User account safety; avoid automatic account linking https://www.ory.sh/docs/kratos/social-signin/overview#dangers-of-automatic-account-linking
+- Avoid large GCP bill / GCS DDoS attack: move to Cloudflare R2
+    - Discussion: https://g0v.hackmd.io/Jqg-lecyRhKtFDnbxnx_ZA?view#Infra-DDoS-%E5%B8%B3%E5%96%AE%E6%94%BB%E6%93%8A%E9%A0%90%E9%98%B2
+    - [No egress fee](https://developers.cloudflare.com/r2/pricing) 而且 class A & B operation 比 GCS 的便宜
+    - [Sippy](https://developers.cloudflare.com/r2/data-migration/sippy/) incremental migration
+        - 可以先只改 rumors-api 輸出 URL 的部分，讓它輸出 R2 URL
 
 ### 現況
 
