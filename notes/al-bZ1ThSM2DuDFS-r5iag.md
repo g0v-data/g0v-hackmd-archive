@@ -54,6 +54,9 @@ https://photos.app.goo.gl/7thhtqW9mzkBupp77
 待確認，信義路 捷運電梯出口
 https://maps.app.goo.gl/WS2BQQumRhYcQU5t5?g_st=ic
 
+高雄捷運鳳山國中站出入口的玻璃設計了迷彩
+https://www.facebook.com/chtsai/posts/pfbid02APEMUd3MVejVqHnDFD17CaFpxBvQx57NQW12USBFG9CL3KWN9b8dP4n9Kpdfcwesl
+
 臺北市內湖區捷運劍南路站高架月台南下月台等候區玻璃，有貼但可能未達到防撞效果？
 https://photos.app.goo.gl/JLsjbgnTNt1g5jbE9
 
