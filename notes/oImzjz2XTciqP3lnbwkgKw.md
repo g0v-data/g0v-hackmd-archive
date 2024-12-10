@@ -132,5 +132,6 @@ https://www.youtube.com/watch?v=7238q4LM1nA&feature=youtu.b
 - 說明：新加坡亞洲電視台(CNA)的紀錄片團隊，紀錄片節目 Leadership Unlimited，第二集「FOSTERING FUTURE-READY LEADERSHIP」規劃在台灣拍攝相關內容。
 - 已知與社群相關的拍攝行程：2027.07 來台拍攝 vtaiwan 社群活動、7/20 大松活動
 - 相關共筆：https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/ByJkh1N8C
+- 播出成品：https://youtu.be/EF8vUFVfsSg?si=VjyD4ExdDYrMA9Xo&t=991
 
 ## 2025
