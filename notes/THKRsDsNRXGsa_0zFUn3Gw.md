@@ -20,6 +20,20 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
 3. 確認被抽中的 reviewer 看過無誤後，其中有 FB 權限的 reviewer 會幫忙貼上 FB 設定排程
 4. 到[編輯紀錄](https://docs.google.com/spreadsheets/d/1xyxYGKU7iia3xSu6rF9F6YCcXOcEqrFsI2RD493bAxE/edit#gid=1776966921)更新本次的 review 狀況，或是 SNS Google Doc 內文中列出 reviewer
 
+## 雲端硬碟
+
+使用 財團法人開放文化基金會 提供給 g0v 社群的雲端硬碟空間
+
+檔案目錄：
+- g0v SNS 編輯台
+- g0v SNS 編輯台 (archived)
+- 圖檔上傳區
+    - 提供申請者放圖檔
+    - 網址：https://drive.google.com/drive/folders/1iONs8RLBYFfjVlcgpIXF9MJFmRQir0ND?usp=sharing
+
+![](https://g0v.hackmd.io/_uploads/SJYYIyU41e.png)
+
+
 ## 討論區
 - 【已有草案方案，再寫到相關的文件位置】已發出的 sns，想修改內文
     - todo: 把 #sns 有蒐集到的流程建議，彙整至本頁面中
@@ -43,6 +57,7 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
     - Case: 
         - 20231122
             - https://g0v-slack-archive.g0v.ronny.tw/index/channel/CPKVDVD88/2023-11#ts-1700644906.904569
+
 ## 2024/10/15
 :::info
 **2024/10/15 更新**
