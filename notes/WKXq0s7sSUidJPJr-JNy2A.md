@@ -1,4 +1,4 @@
-HB88 là nhà cái trực tuyến hàng đầu, nổi bật với dịch vụ giải trí đa dạng như Casino, Game bài, Slot, Bắn cá, Xổ số và Thể thao. Với hàng ngàn tựa game hấp dẫn, HB88 mang đến cho người chơi trải nghiệm giải trí đẳng cấp và cơ hội nhận thưởng cực khủng!
+[HB88](https://hb88sg.net/) là nhà cái trực tuyến hàng đầu, nổi bật với dịch vụ giải trí đa dạng như Casino, Game bài, Slot, Bắn cá, Xổ số và Thể thao. Với hàng ngàn tựa game hấp dẫn, HB88 mang đến cho người chơi trải nghiệm giải trí đẳng cấp và cơ hội nhận thưởng cực khủng!
 Tên Công Ty: HB88
 Email: hb88sgnet@gmail.com
 Địa chỉ: 182/4 Đ. Lê Văn Sỹ, Phường 10, Phú Nhuận, Hồ Chí Minh, Việt Nam
