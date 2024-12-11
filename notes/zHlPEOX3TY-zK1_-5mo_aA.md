@@ -91,21 +91,65 @@ endclass
 
 ## uvm callback
 ```
-class my_driver extends uvm_driver#(my_transaction);
-    ......
-    `uvm_register_cb(my_driver, driver_base_callback)
-    virtual task run_phase(uvm_phase phase);
-        ......
-        forever begin
-            seq_item_port.get_next_item(req);
-            `uvm_info("DRV_RUN_PHASE", ("\n", "Driver now send the transaction \n", req.sprint()), UVM_MEDIUM)
-            
-            callback_task_or_function_01(); // 调用某个任务或函数对req进行一些处理
-            
-            ...... // 发送事务
-            
-            callback_task_or_function_02(); // 调用某个任务或函数对req进行后续处理
-        end
+class driver extends uvm_component;
+    `uvm_component_utils(driver)
+    `uvm_register_cb(driver,driver_callback)
+  
+    function new(string name, uvm_component parent);
+    super.new(name,parent);
+    endfunction
+  
+    task run_phase(uvm_phase phase);
+        uvm_do_callbacks(driver,driver_callback,pre_drive());
     endtask
 endclass
+
+class user_callback extends driver_callback;
+    `uvm_object_utils(user_callback)
+
+    function new(string name = "user_callback");
+        super.new(name);
+    endfunction
+
+    task pre_drive;
+        `uvm_info("USER_CALLBACK","Inside pre_drive method",UVM_LOW);
+    endtask
+endclass
+
+class user_callback_test extends basic_test;
+    user_callback callback_1;
+
+    `uvm_component_utils(user_callback_test)
+
+    function new(string name = "user_callback_test", uvm_component parent=null);
+        super.new(name,parent);
+    endfunction
+
+    function void build_phase(uvm_phase phase);
+        super.build_phase(phase);
+    callback_1 = user_callback::type_id::create("callback_1", this);
+
+    uvm_callbacks#(driver,driver_callback)::add(env.driv,callback_1);
+    endfunction
+endclass
 ```
+
+## sequence lib
+```
+class seq1 extends base_sequence;
+    `uvm_add_to_seq_lib(seq1, my_seq_lib); // 永久註冊
+
+class seq2 extends base_sequence;
+    `uvm_add_to_seq_lib(seq2, my_seq_lib);
+
+class my_seq_lib extends uvm_sequence_library #(my_data);
+   `uvm_object_utils (my_seq_lib)
+   `uvm_sequence_library_utils (my_seq_lib)
+
+   function new (string name="my_seq_lib");
+      super.new (name);
+      init_sequence_library();
+   endfunction
+endclass
+```
+根據設置算法產生並執行seq
