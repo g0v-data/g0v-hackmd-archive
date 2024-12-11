@@ -33,6 +33,8 @@ https://hackmd.io/@R55PsMJWQ1O6GkC4Y2f2Lw/rJUvcQvee
 https://www.facebook.com/149709432507383/posts/470359503775706
 「GG」專題，顧名思義是欲討論遊戲作為藝術創作形式或內容的議題。在這個臺灣討論仍屬少見的專題中，除了介紹像是經典的激浪派作品以及臺灣年輕藝術家等相關作品案例外，另外也介紹了相關遊戲的美學與論述基調的專書討論
 https://www.facebook.com/story.php?story_fbid=pfbid04t3J1NZBRMEhXCfBX5dGUB75LxKYbWfydgcsKaPnKnjXFEvsqVaLChjsmGeM3522l&id=461579253889110&mibextid=qC1gEa
+《自主世界：雲端封建時代的安那其法則》
+https://www.facebook.com/mashbean/posts/pfbid0215xC4KSStMNp4JnmGc37kkPUmQ9uMFRY2JVqYdJuLHReu4pARgFakjD16Yn5a2wKl
 
 #### 概念挪用
 Finite and Infinite Game: A Vision of  Life  as Play and Possibility, James Carse

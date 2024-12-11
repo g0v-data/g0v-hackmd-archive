@@ -17,7 +17,6 @@ tags: vTaiwan小松
 ## 1112 議題小聚 #1 結果上架
 - 目前議題小聚 #1 的結果已經上架到 Medium 上，[網址在此](https://medium.com/@vtaiwan.tw/vtaiwan-議題小聚-1-活動紀錄-66b74ab930e9)
 - 明天會發文宣傳，同時也會著手進行懶人包的製作
-- 
 
 ## 1220 議題小聚 #2 初步意見徵集與報告
 - 人滿啦！！！！
@@ -36,7 +35,7 @@ tags: vTaiwan小松
 - 目前分歧程度比較大的會是價值判斷層面，針對爭點的詢問，可以去詢問在什麼樣的情況下，會改變你的想法。 [name=T]
     - 基於什麼原因與在什麼樣的情況下，都是很好的方式。[name=peter]
     - 鼓勵參與者進行更多的對話。[name=T]
-- 加入分組討論的討論
+- 加入 spectrum 的討論
 - 流程
     - 18:30–19:00: Welcome and Introductions
     - 19:00–19:50: Deliberation (in-person and through digital platforms)
@@ -44,10 +43,16 @@ tags: vTaiwan小松
     - 20:05–20:15: Response & Clarification 
     - 20:15–20:45: Deliberation (in-person and through digital platforms)
     - 20:45–21:30: Wrap-up 
-- 目前規劃：以議題來進行分組？
-    - 在明確情境的情況下，比較適合討論
-    - 以最想
+- 請 josh 在下週
+- [1220 議題小聚#2討論共筆](/gdY0NQVhSfSlQmf3HDKkgg)
+- 可以利用 slido 觀察大家的意見轉變的方式
+    - 鼓勵大家聽進
 ### 一些 logistical 挑戰
 - 線上的參與者如何進行分組討論？
     - 線上參與者主要是旁聽＋互動方式
-    - 
+- 結論：下週三完成 mentimitor 的建置，來處理
+
+## 有幫助的工具雛形
+- 讓大家能夠即時視覺化不同的立場
+- 能夠紀錄轉變的過程
+-
