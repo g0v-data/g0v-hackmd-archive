@@ -18,5 +18,7 @@ tags: vTaiwan小松
 
 ## 1220 議題小聚 #2 初步意見徵集與報告
 - 人滿啦！！！！
+    - 處理方式：採取邀請制
+    - 
 - 初步報告很有趣，也剛好跟主題相關
 - https://polis.tw/report/r5fnfdeufrxkpmjru9ecj
