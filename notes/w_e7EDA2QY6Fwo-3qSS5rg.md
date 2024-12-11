@@ -10,6 +10,13 @@ tags: gen-z
 本文件中的所有內容均以 CC-BY 4.0 形式開放授權
 :::
 
+:::warning
+這是由 AI 生成的分析成果，僅供參考使用
+語言模型使用 Google Gemini
+
+每一個 h2 (##) 段落都是當下所輸入的 prompt
+:::
+
 基於逐字稿生成的 Podcast: https://notebooklm.google.com/notebook/a46d14df-5b65-40c0-9b62-161698b59fdd/audio
 
 本報告基於對 Blue、Green、Pink 和 Yellow 四位參與者的訪談，分析 Z 世代參與 g0v 社群的動機。每位參與者的敘述展現了他們個人旅程與參與方式的獨特洞察。
