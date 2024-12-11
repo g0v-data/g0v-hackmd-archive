@@ -4,7 +4,7 @@ tags: 國會松
 # 關於2024國會松
 
 ### 本共筆 QRCode
-https://s.g0v.tw/congressth0n
+https://s.g0v.tw/congressthon
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_855eda1d43b9514aa000812ffa921e3e.png)
         
 ### 回到初心
