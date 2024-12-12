@@ -361,9 +361,14 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - https://dig.taipei/Tpdig/Public/pipe3.html
     - https://3dgis.reac.taipei/sgwptools/reac/Apps/pipe.html
 
+### 議題討論
+
+- 探討：特一號大排的南段選址，是否因為「錦尋常小學校」校舍已完工，以及更早的臺北高等農林學校富田町校地，所以選擇緊貼著校舍西側挖出大排溝體？https://www.facebook.com/groups/582154450196478/posts/1116850220060229/
+
+
 ---
 
-## 議題探討筆記
+## 發展當代觀點
 
 - 流域觀點：以「流域」看待大排以及排水單元
     - 參考案例：中永和瓦磘溝，1997 不加蓋之後，可視為水岸空間營造階段，以及水質處理措施
