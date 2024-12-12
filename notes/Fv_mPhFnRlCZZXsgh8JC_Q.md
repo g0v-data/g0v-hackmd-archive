@@ -1,7 +1,7 @@
 Explore our diverse collection of apparel, including hoodies, t-shirts, sweatshirts, and sweatpants, all inspired by Noah Kahan's unique aesthetic. Each item is carefully designed to reflect his artistic vision and create a fashion statement that truly represents the Noah Kahan Official fandom.
 #noahkahan #noahkahanmerch #noahkahanshirt #noahkahanhoodie
 About Noah Kahan Store
-Website: https://noah-kahan.com/ 
+Website: https://shop-noahkahan.com/
 Mail: contact@noah-kahan.com
 Phone: +2149340548
 Address: 2860 Sonora Ln, Mesquite, TX 75181, United States
