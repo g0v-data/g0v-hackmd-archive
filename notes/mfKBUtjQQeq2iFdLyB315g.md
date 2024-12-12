@@ -9,6 +9,9 @@ image: https://raw.githubusercontent.com/g0v/style-guide/gh-pages/logo/png/g0v-l
 - [開放國會行動方案](/S7ayQ2mcSs2nRpDjx451og)
 - [國會松注意事項](/QGEtEn83Toy8n_aui13EXA)
 
+## 最新活動 👇
+- [20241222 第陸次國會松<br>🔥🔥🔥 報名中](https://g0vcongressthon.oen.tw/events/2pzDIxnrNncfXHqo9dkZ6VOu65s)[target=_blank]
+
 ## 歷次活動
 - [20241130 第伍次國會松](https://g0v.hackmd.io/@hRQQwB1RRValc_Fu0Awrmw/SJNsjztM1e)
 - [20241025 第肆次國會松](https://g0v-congress.kktix.cc/events/g0v-congress4n)
@@ -21,15 +24,18 @@ image: https://raw.githubusercontent.com/g0v/style-guide/gh-pages/logo/png/g0v-l
 
 ## 國會資料長怎樣
 - [立法院開放資料平台](https://data.ly.gov.tw/)[target=_blank]
-- [立法院 API](https://ly.govapi.tw/)
-- [公報冊、公報章](https://g0v.hackmd.io/00oYoI4YRCqrtf7pEXy6Nw)
-- [法條與法律沿革](https://g0v.hackmd.io/q5HjbeiQQYCKLZZYklV0Ag)
+- [透過 API 看資料](https://dataly.openfun.app)
+- [立法院 API](https://v2.ly.govapi.tw/)
+- [公報冊、公報章](https://g0v.hackmd.io/00oYoI4YRCqrtf7pEXy6Nw?view)
+- [法條與法律沿革](https://g0v.hackmd.io/q5HjbeiQQYCKLZZYklV0Ag?view)
 - [國會如何運作？](https://g0v.hackmd.io/MrJwX3PzSRGql0d5egpuyw?view)
-- [找國會資料經驗分享](/wpu8nBoKQM-KuHIPa13DoQ)
+- [找國會資料經驗分享](/wpu8nBoKQM-KuHIPa13DoQ?view)
+- [立法院資料數位工具研究報告](https://openfun.tw/ly-user-study/)
+
 
 ## 專案共筆區
-- [20240906 國會松討論](https://g0v.hackmd.io/5qBI6d2RQpe6T2WfWl1Vwg)
-- [2024 開放國會行動方案](/8uTwZDmoR_yHT_Z-ahUYWw)
+- [20240906 國會松討論](https://g0v.hackmd.io/5qBI6d2RQpe6T2WfWl1Vwg?view)
+- [2024 開放國會行動方案](/8uTwZDmoR_yHT_Z-ahUYWw?view)
 
 ## 捐款支持 g0v 社群
 
