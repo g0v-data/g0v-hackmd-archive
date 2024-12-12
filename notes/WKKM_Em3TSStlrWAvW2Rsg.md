@@ -242,7 +242,7 @@ Report a Non-Manufacturing Incident - ITNow (service-now.com)
 
 說是哪一台" " 
 
-哪個帳號" "要開遠端權限
+哪個帳號(username)" "要開遠端權限
 
 
 
