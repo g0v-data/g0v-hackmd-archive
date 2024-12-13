@@ -9,7 +9,7 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 #### 常用連結
 7-Zip https://www.7-zip.org/a/7z2301-x64.exe
 Chainlon 01Backup https://www.chainlon.net/1/01Backup.zip
-
+https://tw.bitwar.net/course/tips/3528.html
 #### Windows標準安裝
     前置作業： (最好先備份一次當前系統)關閉防毒
     自動安裝開始(要檢查，有缺的改用手動)：7-Zip、 OpenShell、Notepad++、01Backup(M1.bat+Dism全選清理硬碟)並刪除下載檔案
