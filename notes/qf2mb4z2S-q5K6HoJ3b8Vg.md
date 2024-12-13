@@ -46,10 +46,12 @@ g0v Slack #
 
 加入方式：https://g0v.hackmd.io/@jothon/joing0vslack
 
-## 專案串連
+## 專案串連、防禦術蒐集
 
-- 結合 cofact、open165 以防詐騙與私密影像外流防止為中心
-- Miffy 整理的追金流方法
+- 結合 cofact、open165 以防詐騙與私密影像外流防止為中心 https://g0v.hackmd.io/@mrorz/open165-proposal
+- Miffy 整理的追金流方法 https://xrex.io/zh/xrex-report-taiwan-nth-room-analysis/
+- Claire 撰寫《靠自己就能揭穿詐騙集團！2024 四款必學幣流追蹤工具全解析》https://xrex.io/zh/4-must-learn-crypto-flow-tracking-tools-for-2024-zh/
+- 詐騙方式及因應對策 - 蒐集共筆：https://g0v.hackmd.io/@chewei/HyO4P355C
 
 ## 活動流程
 
