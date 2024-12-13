@@ -10,7 +10,7 @@
 <p><a href="https://imgbb.com/"><img src="https://i.ibb.co/cCC4n11/300.jpg" alt="300" width="179" height="179" border="0" /></a></p>
 <p dir="ltr"><strong>Social</strong></p>
 <p dir="ltr"><a href="https://www.facebook.com/fv88comco/">https://www.facebook.com/fv88comco/</a></p>
-<p dir="ltr"><a href="https://twitter.com/fv88comcow">https://twitter.com/fv88comcow</a></p>
+<p dir="ltr"><a href="https://twitter.com/fv88comco">https://twitter.com/fv88comco</a></p>
 <p dir="ltr"><a href="https://www.youtube.com/@fv88comco">https://www.youtube.com/@fv88comco</a></p>
 <p dir="ltr"><a href="https://www.linkedin.com/in/fv88comco/">https://www.linkedin.com/in/fv88comco/</a></p>
 <p dir="ltr"><a href="https://www.pinterest.com/fv88comco/">https://www.pinterest.com/fv88comco/</a></p>

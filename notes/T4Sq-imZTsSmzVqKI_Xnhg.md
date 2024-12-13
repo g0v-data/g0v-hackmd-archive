@@ -21,6 +21,9 @@ iOS 版應用程式：https://apps.apple.com/tw/app/id6587570857
 徵文
 https://www.2024fsc-antiscam.com/event
 
+青春網戀模擬器
+https://youth-news.pts.org.tw/onlinedating/
+
 詐騙模擬器，總統盃黑客松的提案，待確認是否有公開網頁「我們與詐的距離」
 https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 
@@ -34,6 +37,12 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 
 摘自貼文：預防老年詐騙，原來可以去在地銀行、地政事務所，幫長輩登記身分證註記管控，若外匯交易會有提醒警示、匯款須通知緊急聯絡人，教人被詐騙時如何應對。
 - 　https://www.facebook.com/BlueWhiteSlippers/posts/pfbid0WTjSq8SkhYzhZA54zy6Nni2zk4oRrWGkkBpcEJo2Zhj6UztksHNA4vS8M1dMp9P5l
+
+## 議題社群
+
+網路黑魔法防禦松
+https://g0v.hackmd.io/qf2mb4z2S-q5K6HoJ3b8Vg
+
 
 ## 個案經驗蒐集
 - 2024 專書 https://www.facebook.com/share/p/JnsrhB4d54j2AUGy/
