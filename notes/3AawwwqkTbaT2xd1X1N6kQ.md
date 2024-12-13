@@ -1,0 +1,5 @@
+# Game Bài LIMO hướng dẫn 5 đôi thông và khả năng chặt bài
+5 đôi thông không chỉ là một bộ bài mạnh mà còn có khả năng chặt các tứ quý và đôi thông khác, tùy vào luật chơi. Điều này mang lại lợi thế lớn cho người chơi trong các vòng đấu. Tuy nhiên, cần lưu ý rằng 5 đôi thông không thể chặt được tứ quý 2, bộ bài mạnh nhất trong Tiến Lên.
+Người chơi cần đánh giá tình hình và thời điểm sử dụng 5 đôi thông để chặt bài hiệu quả nhất. Nếu không tận dụng đúng lúc, bạn có thể mất lượt hoặc làm lãng phí lợi thế. Đây là yếu tố cần cân nhắc kỹ trong quá trình chơi.
+Hiểu rõ quy định về chặt bài không chỉ giúp bạn tối ưu hóa chiến thuật mà còn tránh được những sai lầm khi sử dụng bộ bài mạnh như 5 đôi thông. Hãy chơi tỉnh táo và linh hoạt.
+Xem thêm thông tin tại: https://gamebaidoithuong.limo/5-doi-thong-co-toi-trang-khong/
