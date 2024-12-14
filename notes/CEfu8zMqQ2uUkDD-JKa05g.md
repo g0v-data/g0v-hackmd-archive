@@ -24,7 +24,7 @@ Số điện thoại chưa từng sử dụng để đăng ký tại Kubet.
 Tài khoản ngân hàng chưa từng được dùng cho bất kỳ tài khoản Kubet nào.
 Ảnh chụp 2 mặt của CMND hoặc Căn cước công dân.
 Các Bước Đăng Ký Tại Kubet
-Truy cập website chính thức của Kubet tại Cfp2020.us.
+Truy cập website chính thức của Kubet
 Nhấn nút "Đăng ký" trên giao diện trang chủ.
 Nhập số điện thoại và bấm "Gửi mã" để nhận mã xác thực.
 Sau khi hoàn thành các bước trên, bạn chỉ cần làm theo hướng dẫn để hoàn tất quá trình đăng ký. Chúc bạn may mắn và trải nghiệm những giây phút giải trí thú vị cùng Kubet!
