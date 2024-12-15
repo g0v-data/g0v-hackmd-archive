@@ -31,6 +31,7 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 - 「詐騙包裹退費自救聯盟」退費教學 https://www.facebook.com/share/p/EMchXKigV3jGpFv3/
 - https://dlacp.gov.taipei/cp.aspx?n=2DE8CDCF6C2A7528
 - 7-11 https://help.shopmore.com.tw/#
+- https://www.youtube.com/watch?v=t7T0TYA3Igs
 
 用 AI 來浪費詐騙集團時間
 - https://youtu.be/ZUDBAnOPXU0
