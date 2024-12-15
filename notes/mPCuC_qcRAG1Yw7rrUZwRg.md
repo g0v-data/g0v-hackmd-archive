@@ -512,6 +512,14 @@ tags: 新生流域
 
 ---
 
+## 抽水站參訪
+
+新生建國抽水站
+https://heo.gov.taipei/cp.aspx?n=B633386F82D007A1
+
+奇岩抽水站
+https://www.facebook.com/permalink.php?story_fbid=pfbid02yvgNXCBWwJ7tCytgeQBBpnSSFAomT4Vd8vuSvVa8Loet3LEGyk8rwtoV85ZVzrE1l&id=309561759711431&locale=zh_TW
+
 ## 活動類型：新生高架橋，路權申請
 
 - 蒐集歷年馬拉松與單車活動案例：https://docs.google.com/presentation/d/1al9a3yW2BWimwr7vKzvQ4W3n4zd6YjKG_v1OhHo5DEA/edit#slide=id.g21ef9e0fb03_0_28
