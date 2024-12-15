@@ -21,7 +21,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #general-en #general English version
 #general-ja #general Japanese version
 #general-ko #general Korean version
-#japanese 
+#japanese
 #tainan 台南討論群組！
 #kaohsiung 高雄討論群組！
 #taichung 台中討論群組！
@@ -29,6 +29,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #hualien 花蓮討論群組！
 #kinmen-金門 金門討論群組！
 #matsu 馬祖討論群組！
+#keelung-基隆
 #你不知道的小琉球 小琉球討論群組！Liuqiu
 #re-place 關於如何移住、回到故鄉，以及城市人如何與地方一起打造新故鄉的實踐
 #hk https://github.com/g0vhk-io
@@ -40,8 +41,6 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #australia 澳洲
 #north-america 想在美國協作的可以來這邊聊天喔！
 #g0v-siliconvalley g0v 矽谷灣區小聚
-#london-hacknight
-#london-proj-andover
 #deutschland-germany 德國與德語區
 #g0v-it https://github.com/g0v-it
 #london-dolphin-tank for anyone who was in that breakout group and wants to stay connected!
@@ -53,23 +52,24 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #self-intro 歡迎來到 g0v-slack，這是自我介紹的頻道，可以讓大家認識你唷！Welcome to g0v slack! Please introduce yourself to g0v community :heart:
 #joinchannel-slack-頻道名稱彙整 提供各式各樣的頻道簡介，以及傳送門 G0v slack channels discussions.
 #awesome-g0v-projects 令人驚奇的零時政府。找專案，找提案，找共筆，找幫手 一站搞定
-#拉人更輕鬆 
+#拉人更輕鬆
 #jothon 揪松團相關活動討論（黑客松、基礎松）
-#fundraising-救松團-募款執行 
-#community99-社群九分鐘-撰寫工作頻道 
+#fundraising-救松團-募款執行
+#community99-社群九分鐘-撰寫工作頻道
 #g0v-database-專案清單-基礎建設清單
 #translation 翻譯頻道 i18n + l10n—translate everything.
 #localization 社群翻譯語彙庫 (glossary)，從軟體在地化需求出發，收集個別社群成員、在各自筆譯／口譯／翻譯專案使用的詞彙前進，並希望收錄不只一個語言。
+#project-坑主大補帖
 #name 專案取名稱的互助頻道
 #rs語料庫 諧音梗交流
-#let-it-out 心情抒發頻道 🙂
+#let-it-out 心情抒發頻道 :slightly_smiling_face:
 #hello-world 致力於新參者的體驗流程
 #g0v-aibot g0v AI 機器人 aka 找專案分類帽
 #rep0rter 社群虛擬記者分享社群動態
 #passu-me 自動履歷製造機（with hello g0v）
 #g0vmentor 零時先輩
-#infras	社群基礎建設開發維護，一起來協力!
-#status	g0v 各網站的狀態通知頻道
+#infras 社群基礎建設開發維護，一起來協力!
+#status g0v 各網站的狀態通知頻道
 #g0v-domain g0v 網域大小事、網域申請
 #g0v-github g0v GitHub 大小事
 #g0v-ui 這是一個放 UI 的地方，有 github
@@ -77,20 +77,20 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #slack-apps
 #bridge 跨平台訊息流通工具
 #g0v-social 討論 Mastodon 伺服器
-#hackmd	HackMD 使用經驗與課題回報
+#hackmd HackMD 使用經驗與課題回報
 #g0vernance 討論社群治理
 #g0v-landing-page g0v.tw 網站社群治理，以及社群活動刊登至日曆的提案頻道
 #engaged-research 以 g0v 為主的學術研究
 #sns g0v sns 平台規範、發文討論區
-#news g0v news 
+#news g0v news
 #g0vpodcast g0v underground 零時電台
-#summit	g0v Summit 年會的公開頻道
+#summit g0v Summit 年會的公開頻道
 #10th-anniversary 十週年活動籌劃頻道
 #moztw-space 摩茲工寮社群空間 https://moztw.org/space/
 　
 #moedict 萌典、字典
 #amis 阿美語萌典
-#itaigi	愛台語 對漢字佮台羅誠熟手，做伙鬥校對巡喲
+#itaigi 愛台語 對漢字佮台羅誠熟手，做伙鬥校對巡喲
 #chhoetaigi ChhoeTaigi 台語辭典⁺
 #taiwanbooks 矽谷圖書館台灣書籍植入計畫
 #edu 零時小學校「開源協作與教育工作」主頻道
@@ -101,8 +101,8 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #edu-coteach CoTeach 教案資源共享平臺
 #edu-open CourseAPI 開放式課程資訊匯流學院
 #edu-lipoic Lipoic 是一個致力於整合與改善遠距授課與線上教室的教育平台，並讓學生能不受空間限制學習知識，老師能更便利地傳授知識，並且我們也熱衷於開放文化的精神，與我們一起翻轉教育吧！
-#open-student-org 
-#ez-shift 
+#open-student-org
+#ez-shift
 #edu-高中社團招商 社團招商與管理專案
 #edu-stressed 壓力排解平臺專案
 #edu-高中歷史筆記共筆 高中歷史筆記共筆
@@ -119,7 +119,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #edu-camp 零時小學校 營隊活動頻道
 #edu-sch001ing 零時小學校 講師與教案交流頻道
 #students
-#edu-open-stu-association 
+#edu-open-stu-association
 #edu-unicourse 大學課程資訊交流平臺
 #edu-ntu 臺大相關課程活動的頻道
 #edu-東吳大學車禍及租賃糾紛案件查找平台
@@ -129,13 +129,13 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #vue
 #linux-odyssey 互動式 Linux 指令學習網站
 #clickhouse
-#ai-learning 
+#ai-learning
 #llm4myhometown
-#opentaiwan-chatgpt 
+#opentaiwan-chatgpt
 #zen-gpt
 #coscup 開源人年會
 #obs 開源跨平台串流媒體和錄影程式 obs 技術交流頻道
-#band 零時樂團 🎼
+#band 零時樂團 :musical_score:
 #stayathome 宅在家的生活資訊
 #health 健康議題、健檢
 #psymap 心理健康資源
@@ -144,6 +144,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #g0vhiking for hiking affair
 #camping :camping: 全台露營區合法共 205 筆資料與線上地圖
 
+#d2wg 數位民主研究案工作小組 g0v Digital Democracy Working Group
 #ogp 關注台灣「開放政府行動方案」制定
 #pmpc-公共程式法治研析與推動 Public Money Public Code
 #open-moneyflow #金流百科（政治獻金、公投募集經費、標案、視覺化）
@@ -151,7 +152,6 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #electionsign2022 蒐集選舉看板
 #election-policy-tracker 候選人政見彙整平台
 選前大補帖，專案另有設置 Slack https://join.slack.com/t/taiwanvotingguide/shared_invite/zt-20t7r7oo3-KmgRaARq_1qHo1VECY8ssQ
-#election-timeline 選戰攻防大事記
 #pridewatch彩虹選民觀選指南 隨著每年的選舉將會逐步更新，歡迎提供使用者回饋、許願！
 #parliament 國會、立法院
 #law
@@ -161,6 +161,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #ly g0v 國會松、立法院資料
 #刑法十八禁 對刑法上修到二十歲有興趣的朋友歡迎參與喔！
 #vtaiwan 法規與議題議論
+#statement_proof-論證平台
 #holopolis	
 #london-polis
 #eid 晶片身分證
@@ -172,13 +173,13 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #national-treasure 國家寶藏，號召志工一起深入世界各地的國家檔案局與圖書館，挖出台灣相關史料，並建立網路開放資料庫，供全民免費使用。This project aims to bring these documents within the sight of the public, so that everyone can forge their own stories that were never told before.
 #gender
 #herstory 東亞女性權力行動歷程書寫
-#thinktank-info 國際智庫基本資料 csv 
+#thinktank-info 國際智庫基本資料 csv
 #inkrosetta 多語系圖卡
 #wikidatataiwan	Wikidata Taiwan 討論頻道
 #data 資料
 #crowdtribute-公民科學與群眾參與計畫
 #disinfo 不實訊息來源蒐整
-#cofacts 真的假的 ! 謠言查證 Linebot 💬 Cofacts is a collaborative system connecting instant messages and fact-check reports together. It’s a grass-root effort fighting mis/disinformation in Taiwan.
+#cofacts 真的假的 ! 謠言查證 Linebot :speech_balloon: Cofacts is a collaborative system connecting instant messages and fact-check reports together. It’s a grass-root effort fighting mis/disinformation in Taiwan.
 #115b 永續所得實驗室、永續捐贈議題
 #open-welfare 社會福利議題與資料
 #thaubing-esg 開放企業永續資料庫 - ESG 檢測器
@@ -215,9 +216,9 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #atak 探討 ATAK-CIV 手機軟體應用於防災、民防、戶外任務情境
 #mesh Meshtastic Taiwan Community 臺灣鏈網
 #disaster-go 任務化提升台灣防災準備
-#gis 地理資訊、地理資料 🌏 Geo-data
+#gis 地理資訊、地理資料 :earth_asia: Geo-data
 #energy 能源議題頻道
-#rentea	租屋資料與議題
+#rentea 租屋資料與議題
 #openlab-mapping Geographic Referencing for Technology Transfer via  Bioregional similarity. Aggregating and associative mapping data.
 #road-safety 人行道行走狀況群眾標註平台
 #ohshown 台灣黑熊通報平台 :bear:
@@ -233,14 +234,14 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #joinplus-關注公民參與的數位工具
 #carbon
 #river 河流與流域
-#super-agri 超農域，農藥查詢系統，南庄桐花松，農業資料與專案 🌾 Agriculture related projects
-#tree 遙測算樹、圖資找地、倡議種樹 🌳
+#super-agri 超農域，農藥查詢系統，南庄桐花松，農業資料與專案 :ear_of_rice: Agriculture related projects
+#tree 遙測算樹、圖資找地、倡議種樹 :deciduous_tree:
 #foodlessons 食食課課 從食物連結生活與文化
 #foodsharing_taiwan 推動食物分享
 #naturechats 咖啡閒聊 https://naturechats.com/
 #0art about art
-#吉祥物資料蒐集_マスコット_mascot 一起來建立吉祥物資料庫～目前已蒐集 1300 多個角色囉! 🌞
-#未來日誌 預測與推估內容的結構化 📈 future predictions
+#吉祥物資料蒐集_マスコット_mascot 一起來建立吉祥物資料庫～目前已蒐集 1300 多個角色囉! :sun_with_face:
+#未來日誌 預測與推估內容的結構化 :chart_with_upwards_trend: future predictions
 
 ## slack 頻道內容備份網址
 
@@ -267,7 +268,7 @@ https://g0v-slack-archive.g0v.ronny.tw
 ．中學資訊討論群 CISC Discord: https://discord.gg/cisc
 ．北臺灣學生資訊社群 Discord: https://discord.scint.org/
 ．中部高中電資社團聯合會議 Discord: https://discord.com/invite/neQ7QEUcqe
-．南臺灣學生資訊社群 Discord: https://discord.gg/6QW6gqhHQe 
+．南臺灣學生資訊社群 Discord: https://discord.gg/6QW6gqhHQe
 ．伴伴學 Discord: https://discord.gg/azQUs8Y2fY
 ．族語復振 Sowal no Formosa https://discord.gg/wSECrwgqhV
 
