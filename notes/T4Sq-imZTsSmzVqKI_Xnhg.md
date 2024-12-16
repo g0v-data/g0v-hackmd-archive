@@ -24,6 +24,9 @@ https://www.2024fsc-antiscam.com/event
 青春網戀模擬器
 https://youth-news.pts.org.tw/onlinedating/
 
+趨勢科技建立的互動網頁
+https://antiscam.com.tw/
+
 詐騙模擬器，總統盃黑客松的提案，待確認是否有公開網頁「我們與詐的距離」
 https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 
