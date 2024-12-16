@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [How dbt Labs demonstrates its inclusive value by correcting Taiwan in country list](../notes/MTJiGC49Qd6uQMKVM-2Zdw.md) | 2024-10-11T19:28:46+08:00 | 2024-01-25T12:05:06+08:00 |
-| 2 | [蒐集修改台灣標示的討論串](../notes/5YRoMhveTt-aXwH60T2NZg.md) | 2024-10-11T19:26:51+08:00 | 2017-01-23T16:14:01+08:00 |
-| 3 | [台灣軟體開發用語中英對照/Common slangs in software development in Taiwan](../notes/D1xTUQZyTLCZQY67dEh8Jg.md) | 2022-05-26T18:43:49+08:00 | 2022-01-11T15:54:31+08:00 |
-| 4 | [How we failed to make online deliberation tool, experience from sense.tw](../notes/WZtVDjlmS8qlaS61dqt9hQ.md) | 2019-10-25T01:31:49+08:00 | 2019-10-25T01:18:28+08:00 |
+| 1 | [How dbt Labs demonstrates its inclusive value by correcting Taiwan in country list](../notes/MTJiGC49Qd6uQMKVM-2Zdw.md) | 2024-10-11T11:28:46+00:00 | 2024-01-25T04:05:06+00:00 |
+| 2 | [蒐集修改台灣標示的討論串](../notes/5YRoMhveTt-aXwH60T2NZg.md) | 2024-10-11T11:26:51+00:00 | 2017-01-23T08:14:01+00:00 |
+| 3 | [台灣軟體開發用語中英對照/Common slangs in software development in Taiwan](../notes/D1xTUQZyTLCZQY67dEh8Jg.md) | 2022-05-26T10:43:49+00:00 | 2022-01-11T07:54:31+00:00 |
+| 4 | [How we failed to make online deliberation tool, experience from sense.tw](../notes/WZtVDjlmS8qlaS61dqt9hQ.md) | 2019-10-24T17:31:49+00:00 | 2019-10-24T17:18:28+00:00 |

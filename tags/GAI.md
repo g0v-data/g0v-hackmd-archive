@@ -2,5 +2,5 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [What's GAI](../notes/kqc8hBFQR7mStQdk0ws_ow.md) | 2024-07-03T14:55:20+08:00 | 2024-07-03T14:40:17+08:00 |
-| 2 | [Generative AI](../notes/-iHqrhdfQtOuG5-rCxfwFw.md) | 2024-07-03T14:50:32+08:00 | 2024-07-03T14:34:29+08:00 |
+| 1 | [What's GAI](../notes/kqc8hBFQR7mStQdk0ws_ow.md) | 2024-07-03T06:55:20+00:00 | 2024-07-03T06:40:17+00:00 |
+| 2 | [Generative AI](../notes/-iHqrhdfQtOuG5-rCxfwFw.md) | 2024-07-03T06:50:32+00:00 | 2024-07-03T06:34:29+00:00 |
