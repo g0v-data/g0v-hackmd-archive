@@ -62,6 +62,9 @@ https://www.youtube.com/watch?v=N3pMw21cfSE
 農村議題 夏耘
 https://www.facebook.com/1120711117945276/posts/pfbid07c6Vdq1wytPDmDAWi8B47iV84njvqW4VpdZLz9gDQyGzd9873gf7AH6Q174Ap18Dl/
 
+同心扶輪社
+https://www.facebook.com/share/p/15LCpf2dep/
+
 島內散步
 https://10thwalkintaiwancsr.walkin.tw/
 
