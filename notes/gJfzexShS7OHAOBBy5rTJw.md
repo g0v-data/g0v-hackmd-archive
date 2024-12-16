@@ -61,6 +61,8 @@ done
 關於此主題，相關探討文章
 - 政府適合辦什麼樣的黑客松？ 
     - https://etblue.blogspot.com/2021/05/government-and-hackathons.html
+- 2024 台南AI松後記
+    - https://hackmd.io/@tnstiger/rk-i7cu7Je
 
 ### 2024.07 開始整合語言專案與語料
 
