@@ -3,33 +3,61 @@ Chainlon2 展頌/臨時文字紀錄區，公開頁面、嚴禁機密資料
 :::
 快速網址：http://bit.ly/chainlon
 
+====2024/12/17善用AI完成會議整理====
+注意事項：1.每個音檔不要超過30分鐘，2.文字轉貼不要超過1000字，3.會議時注意分段可大幅提高成功率、避免錯誤，4.最後的報告要加上AI使用標記，例如：使用雅婷逐字稿
 
-	
 
 
+2024/12/17 資料
+P:\31開放交流區\AI-Meeting，包含音檔、簡報
+js1.m4a
+
+Google NotebookLM
+    https://notebooklm.google.com/
+
+雅婷逐字稿				
+    https://asr.yating.tw/
+    
+ChatGPT
+    https://chatgpt.com/
+    
+Gemini
+    https://gemini.google.com/
+
+Claude
+    https://claude.ai/new
 ====臨時記事結尾====
 
+
+====建議用AI工具====
+常用指令：
+請根據以下網站，以繁體中文說明該公司的產品
+為這個文字檔製作出條列式重點整理
+
+LLM模型效果比較：
+Gemini 1.5 Pro=notebooklm > Perplexity > Claude-3-Sonnet = GPT 4o-mini
+
+POE：結合多家GAI Bot，一站多用
+	 https://poe.com
+
+toolify.ai：AI網站和工具介紹
+	 https://www.toolify.ai/tw/
+
+Image-Gen：圖像生成
+	 https://pixlr.com/tw/image-generator/
+
+SUNO：音樂創作，無需專業音樂知識
+	 https://suno.com/
+
+Globe Explorer/結構式知識搜尋引擎
+    https://explorer.globe.engineer/
+    
+Xanswer/知識心智圖
+    https://www.xanswer.com
+    
+快速PPT/Gamma
+    https://gamma.app/zh-tw
 ==紀錄開始/Ken==
 
-溫室氣體盤查共通資料表    \\chainlon.net\cy\cy01\01跨廠作業區\011GHG\GHG-Base.xlsx
-廠區	資料連結
-台中	O:\01跨廠作業區\011GHG\11台中
-竹山	O:\01跨廠作業區\011GHG\12竹山
-竹山二	O:\01跨廠作業區\011GHG\13竹山二廠
-斗六	O:\01跨廠作業區\011GHG\14斗六
-斗三	O:\01跨廠作業區\011GHG\15斗三
-跨區	O:\01跨廠作業區\011GHG\Maps
-	(交通、運輸、通勤)
-
-準備項目
-1.共通資料表
-2.
-
-http://192.168.9.38:8080/iEMS/ 2024/7/31 jack
 
 
-取得所有工作表的名稱
-1.新建一個工作表，A1=1,A2=2，估計要取得多少工作表，就拉幾列
-2.公式/名稱管理器/新建，名稱自訂例如：ListSheets，範圍：預設，
-.『參照到』的內容要輸入參數值，內容=REPLACE(GET.WORKBOOK(1),1,FIND("]",GET.WORKBOOK(1)),"")，關閉
-3.B1=INDEX（ListSheets，A1），B1就是工作表名稱，往下持續直到錯誤出現
