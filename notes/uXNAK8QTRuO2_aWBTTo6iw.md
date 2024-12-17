@@ -4,20 +4,25 @@ Chainlon2 展頌/臨時文字紀錄區，公開頁面、嚴禁機密資料
 快速網址：http://bit.ly/chainlon
 
 ====2024/12/17善用AI完成會議整理====
-注意事項：1.每個音檔不要超過30分鐘，2.文字轉貼不要超過1000字，3.會議時注意分段可大幅提高成功率、避免錯誤，4.最後的報告要加上AI使用標記，例如：使用雅婷逐字稿
+注意事項：1.每個音檔不要超過30分鐘，2.文字轉貼不要超過1000字，3.會議時注意分段可大幅提高成功率、避免錯誤，4.最後的報告要加上AI使用標記，例如：本文使用Tactig、NotebookLM整理
 
+測試音檔/小檔案：
+https://www.nhi.gov.tw/ch/dl-22023-88a4e56f3d0447b5be6f8b162d0c5078-1.mp3
 
 
 2024/12/17 資料
 P:\31開放交流區\AI-Meeting，包含音檔、簡報
 js1.m4a
 
-Google NotebookLM
+Google NotebookLM/重點整理，包含文字、檔案、(會議)音檔
     https://notebooklm.google.com/
 
-雅婷逐字稿				
+雅婷逐字稿/(會議)語音轉文字				
     https://asr.yating.tw/
     
+subeasy/(會議)語音轉文字
+    https://www.subeasy.ai/zh-TW
+
 ChatGPT
     https://chatgpt.com/
     
