@@ -52,10 +52,24 @@ g0v Slack #
 
 ## 專案串連、防禦術蒐集
 
-- 結合 cofact、open165 以防詐騙與私密影像外流防止為中心 https://g0v.hackmd.io/@mrorz/open165-proposal
+### 降低詐騙網站曝光度
+- Open165 反詐筆記 - 詐騙網站公告搜尋引擎最佳化 https://g0v.hackmd.io/@mrorz/open165-proposal
+
+### 金流追蹤
 - Miffy 整理的追金流方法 https://xrex.io/zh/xrex-report-taiwan-nth-room-analysis/
 - Claire 撰寫《靠自己就能揭穿詐騙集團！2024 四款必學幣流追蹤工具全解析》https://xrex.io/zh/4-must-learn-crypto-flow-tracking-tools-for-2024-zh/
-- 詐騙方式及因應對策 - 蒐集共筆：https://g0v.hackmd.io/@chewei/HyO4P355C
+
+
+### 私密影像外流防止
+
+- 兒少，議題講者：臺北市中山分局偵查隊小隊長 洪晨鐘 https://www.facebook.com/share/p/19m8XXeJZj/
+
+### 可疑訊息查證
+- Cofacts 真的假的是一個透過群眾協作以及聊天機器人來做事實查核的可疑訊息查證平台，讓每一個不確定真假的訊息，都能透過群眾的共同努力，被好好檢視跟查核討論 https://cofacts.tw/
+
+### 待分類
+
+詐騙方式及因應對策 - 蒐集共筆：https://g0v.hackmd.io/@chewei/HyO4P355C
 
 ## 活動流程
 

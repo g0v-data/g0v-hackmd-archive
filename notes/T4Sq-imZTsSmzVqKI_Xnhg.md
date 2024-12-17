@@ -42,6 +42,10 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 摘自貼文：預防老年詐騙，原來可以去在地銀行、地政事務所，幫長輩登記身分證註記管控，若外匯交易會有提醒警示、匯款須通知緊急聯絡人，教人被詐騙時如何應對。
 - 　https://www.facebook.com/BlueWhiteSlippers/posts/pfbid0WTjSq8SkhYzhZA54zy6Nni2zk4oRrWGkkBpcEJo2Zhj6UztksHNA4vS8M1dMp9P5l
 
+科普頻道
+- https://youtu.be/1sM5OfLPQcQ
+
+
 ## 議題社群
 
 網路黑魔法防禦松
@@ -67,5 +71,6 @@ https://g0v.hackmd.io/qf2mb4z2S-q5K6HoJ3b8Vg
 - 內政部警政署刑事警察局林書立科長
     - https://www.facebook.com/LawXDrama/posts/pfbid02rm7WKp9pqFCfeEFjqycaiPSRhSYYjE8hFeKx9sAbfXjUWj8D2XU3GrNErLjgqzqQl
     - https://www.facebook.com/LawXDrama/posts/pfbid0upZ2zzhYvqNG5uarcX8gKXStzagAXgrvT9MiRsEXZZwztU56ftxZYhfXe1WyQVtWl
+- 臺北市中山分局偵查隊小隊長 洪晨鐘 https://www.facebook.com/share/p/19m8XXeJZj/
 - 探討
     - https://www.facebook.com/share/p/tP1CkmEWedV5GNfj/
