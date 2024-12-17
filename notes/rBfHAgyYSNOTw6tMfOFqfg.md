@@ -11,6 +11,9 @@ https://docs.google.com/spreadsheets/d/1P1sCLPAQP9hUwMFVGzneg9lAIFLoYe_arsmgdUy2
 
 # AI 應用
 
+教師提案成果：
+https://docs.google.com/presentation/d/12jmmN0e1Ige_bl_-CnyonIoKWe_F9H_4kS2PTVXkttM/edit#slide=id.g31d1fb839b7_1_0
+
 ## 文字資料彙整清理
 
 本次分享專案 星河計畫，有運用 GPT 將 自學生經驗分享文章內容，產出該文章的 特點標籤，並將標籤存到 notion 資料表，便於查找自學經驗，共筆：https://g0v.hackmd.io/8-A_6dbSTOuRdzymvd9Q0Q
