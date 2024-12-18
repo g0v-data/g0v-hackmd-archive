@@ -25,10 +25,15 @@ tags: vTaiwan
     - 明天場勘測試前會將 polis 結果整理上去
     - slido 結合製作也要進行
 - 能夠來幫忙的人手
-    - [name=josh] 線上確認連線與說話品質
+    - [name=josh] 線上確認連線、mentimeter 與說話品質
     - [name=peter] 主持
-    - [name=T] 錄音
+    - [name=T] 錄音 / 記錄
     - [name=eli] 拍照（？）
     - [name=yuting] 紀錄 / 控場
     - [name=翊婷] 控場
     - [name=tofus] 協助引導、提供意見
+- 回饋問卷
+    - 12/19 完成製作
+ 
+ ## vTaiwan on Github
+ - 
