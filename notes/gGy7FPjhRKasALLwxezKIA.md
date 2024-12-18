@@ -17,6 +17,7 @@ tags: vTaiwan
 - 目前議題小聚 #1 的結果已經上架到 Medium 上，[網址在此](https://medium.com/@vtaiwan.tw/vtaiwan-議題小聚-1-活動紀錄-66b74ab930e9)
 - 邀請豆腐製作了懶人包
     - [製作過程在此（YouTube）](https://youtu.be/NOcjD1I1_KQ?si=qOypcygCP-AkPLBV)
+- [懶人包連結](https://www.figma.com/design/KrLf8HnypqWKGQUHaQxH67/Tofus-and-his-g0v-graphics!?node-id=535-94&t=m3uDCn5N8ttLkfZV-1)
 
 ## 1220 小聚
 - [議題小聚會議紀錄](/-uPhyAjmTq-oYG5TsfOvhw)
@@ -27,7 +28,7 @@ tags: vTaiwan
     - [name=josh] 線上確認連線與說話品質
     - [name=peter] 主持
     - [name=T] 錄音
-    - [name=eli] 紀錄
+    - [name=eli] 拍照（？）
     - [name=yuting] 紀錄 / 控場
     - [name=翊婷] 控場
     - [name=tofus] 協助引導、提供意見
