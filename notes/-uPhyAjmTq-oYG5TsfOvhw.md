@@ -6,6 +6,21 @@ tags: vtaiwan
 地點 Location ：線上 Online
 線上參與連結 / Link：https://meet.jit.si/vTaiwan
 
+## 1218 小聚討論
+- 使用的 [ppt 檔案](https://docs.google.com/presentation/d/15-8RJeH-BpW4c4PeWc2b1t1MWnBsKwrLP-x6vN4dBVo/edit#slide=id.g3140c8e6234_0_0) 
+    - 明天場勘測試前會將 polis 結果整理上去
+    - slido 結合製作也要進行
+- 能夠來幫忙的人手
+    - [name=josh] 線上確認連線與說話品質
+    - [name=peter] 主持
+    - [name=T] 錄音
+    - [name=eli] 紀錄
+    - [name=yuting] 紀錄 / 控場
+    - [name=翊婷] 控場
+    - [name=tofus] 協助引導、提供意見
+- 場勘確認事項
+    - TWNIC 款項尚未入帳，是否明年處理
+    - 處
 ## 1204 會議討論
 - 12/20 議題小聚內容
 - 問題：
