@@ -96,3 +96,8 @@ Ax:10最左邊那排實作下來如果利率跟標準表一樣5%的話數值會�
     <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_14b76077312a89932572d542c7951120.png" width="230"/>
     <img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6a074a07e988c060faf86e37dfefaf76.png" width="230"/>
 </center>
+
+12/19 更新
+太久沒碰先熟悉一下內容
+然後把功能整理一下
+![](https://g0v.hackmd.io/_uploads/ryI_vr-B1e.png =30%x)
