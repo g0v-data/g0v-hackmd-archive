@@ -24,7 +24,7 @@ Gemini 1.5 Pro=notebooklm > Perplexity > Claude-3-Sonnet = GPT 4o-mini
 |Perplexity|Perplexity AI   |  https://www.perplexity.ai/|
 |Google NotebookLM|重點整理，包含文字、檔案、(會議)音檔|    https://notebooklm.google.com/|
 |toolify|AI網站和工具介紹|https://www.toolify.ai/tw/||
-|Image-Gen|圖像生成|https://pixlr.com/tw/image-generator/|
+|ideogram|圖像生成|https://ideogram.ai/|
 |SUNO|音樂創作，無需專業音樂知識|https://suno.com/|
 |Globe Explorer|結構式知識搜尋引擎|https://explorer.globe.engineer/|
 |Gamma|快速PPT|https://gamma.app/zh-tw|
