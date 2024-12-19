@@ -27,6 +27,9 @@ https://g0v.hackmd.io/@Hawks/B13PRL8da
 新聞工作流程 
 https://www.facebook.com/story.php?story_fbid=pfbid0gSsjZqnibSuVXTEkjjGHCj42husoiip7M5Fbhkk2TkvSWKcR5zVSt61hfcM5suYWl&id=100000133181724&mibextid=tejx2t
 
+書籍
+https://www.facebook.com/share/p/15QG6SUDKT/?
+
 ## 互動解答
 
 nonprofit-helper 會務 E 化小幫手
