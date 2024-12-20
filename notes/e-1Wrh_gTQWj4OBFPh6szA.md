@@ -12,6 +12,11 @@ tags: 救松
 
 # 一、大、小松改革
 
+## 大松 + 鼓勵獎金
+
+https://g0v.hackmd.io/g1g13Ak4TXOtk3jWMuCBnw?view
+
+
 ## 如何評估要不要辦大松？
 
 初步原則：40 天前決定
