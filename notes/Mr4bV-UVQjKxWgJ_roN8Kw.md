@@ -28,7 +28,7 @@ tags: privacy, new-safeID, administrative-appeal, relief, 行政訴訟, 救濟, 
 - 台灣數位權暨隱私保護推動協會
 - 台灣隱私保護推廣協會
 - 台灣隱私保護聯合會
-- 台灣數位公民協會
+- 台灣數位公民協會 （tofus ++)
 - ~~電子前鋒協會~~
 - 台灣隱加一隱私守護協會
 > 捷運上討論的結果XD [name=peter]
