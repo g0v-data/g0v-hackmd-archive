@@ -4,6 +4,9 @@ tags: Miffy, dadathon
 
 # 20250104 第0次網路黑魔法防禦松
 
+![](https://g0v.hackmd.io/_uploads/rkzkhpzH1x.png)
+> 主視覺詠唱者：Tofu
+
 ## 活動資訊
 時間：2025-01-04 (六) 13:00 ~ 17:00
 地點：NPOHub 
@@ -18,7 +21,7 @@ tags: Miffy, dadathon
 2. 防治網路詐騙、降低受害者研究
 3. 防治網路兒少色情或私密影像外流
 
-:::spoiler 活動簡介V2
+:::spoiler 活動簡介V2 by 仔魚、Peter
 
 ~~點子：以 Miffy 為中心的話
 「建立針對虛擬貨幣詐騙犯罪的專業培訓機制，提升相關人員偵辦能力」
