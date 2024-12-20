@@ -61,6 +61,7 @@ RS:
 
 ## 各次放輕松列表
 `Latest` 
+- [20241224 ChristmasTh0n 第零次聖誕松](/g9H8Gen9SjCevGQFKu673w)
 - [20241210 Rand0mTh15n 第拾伍次](/-YHAVW9TQqmH8RmepOXH_g)
 - [20241119 Rand0mTh14n 第拾肆次](/nIQitAjBSwC7JJxLQh2U6g)
 - [20241105 Rand0mTh13n 第拾參次](/3mwH4PpdS2W5RbpAGkM93Q)
