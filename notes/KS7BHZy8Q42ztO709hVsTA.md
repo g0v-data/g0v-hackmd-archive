@@ -22,4 +22,29 @@
 - [(西式合集餐廳) 慢慢bistro｜Bistro](https://maps.app.goo.gl/BmZTf7Az3U4BzRCB6)
 - [游記蟹殼黃｜Crab-Yellow Pastry](https://maps.app.goo.gl/k7muey1UqJ81bteY9)
 
+## 推薦者：YI
  
+https://maps.app.goo.gl/GsgnJw9QKbxwjDVN9?g_st=ic
+這間日本人開的很好吃～～～
+味增湯還可以續碗！
+https://maps.app.goo.gl/9xM4kfHSBKJD5A6z7?g_st=ic
+簡單吃吃的話林家乾麵也很不錯！
+https://maps.app.goo.gl/eJ3ASxdunfbtg14W6?g_st=ic
+以便當來說這家也不錯，主餐普普但配菜都蠻清淡健康又好吃的
+
+## 推薦者：ichieh
+
+這間是平價 subway 我記得燻鮭魚披薩之前買便宜又超大 之前辦活動都會叫就這間
+https://maps.app.goo.gl/wSUHKk2QEsCU1rp78
+
+養鍋也滿好吃的，但是要吃比較久ＸＤ
+
+福井麵疙瘩湯頭好喝
+
+https://maps.app.goo.gl/cvJsqp8Yqbsx57uB6
+虱目魚雖然贏不了台南，但是可以點一堆小東西，很爽
+
+金峰滷肉飯就是想吃滷肉飯很適合，而且滿快的
+
+https://maps.app.goo.gl/HH4cJdzMxfzi856X8
+生魚片好吃、味噌湯很大碗
