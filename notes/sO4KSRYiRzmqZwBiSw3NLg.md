@@ -12,13 +12,14 @@ https://drive.google.com/drive/folders/13rrzprPswRSWH9jqeeTt_H-h8O-dob-H
 ## 各種設計與圖像作品
 
 g0v Logo
-揪松團補網址
+https://drive.google.com/drive/folders/1tGm9PY5I6FJ0XF0THMyAaMgSe5z9r49_?usp=drive_link
 
-關東旗
-揪松團補網址
+大關東旗、桌上型關東旗
+- https://drive.google.com/drive/folders/1gWdw-RveU_sVEtg0AwA5E4De9IqVP4pa?usp=drive_link
+- (2024.12) chewei> 旗子的實體數量還很多 ! 建議不用再印製
 
 貼紙
-補 hackmd 網址
+https://g0v.hackmd.io/FiMmi2-bRsavQff8LZNvUQ
 
 專案或工作小組
 問問看
@@ -26,8 +27,8 @@ g0v Logo
 歷屆大松活動圖像
 揪松團整理
 
-賀年卡圖像
-揪松團整理
+賀年卡圖像 
+- 2019 開始 https://g0v.hackmd.io/@jothon/ry5TjRBhD?type=view
 
 tofus 的 Figma 檔案
 - [Tofus 的 g0v graphics](https://www.figma.com/community/file/1368615685578089975/tofus-and-his-g0v-graphics)
@@ -42,8 +43,7 @@ YI
 https://drive.google.com/drive/folders/1jl0OZK3FoG-UF_dNJkyCnsTI5NP8rZuz?usp=drive_link
 
 
-
 ## 照片類
 
 Flickr
-補網址
+https://www.flickr.com/photos/g0v/albums/
