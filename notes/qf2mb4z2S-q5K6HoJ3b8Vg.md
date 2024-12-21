@@ -12,10 +12,15 @@ tags: Miffy, dadathon
 ## 活動資訊
 時間：2025-01-04 (六) 13:00 ~ 17:00
 地點：NPOHub 
-地址：臺北市中正區重慶南路三段2號
-報名網址：https://g0v-jothon.kktix.cc/events/dadath0n
+地址：臺北市中正區重慶南路三段2號 
+Google Map：https://g.co/kgs/bdjrteH
+- 這個場地沒有停車場哦 ! 建議可以搭乘捷運到中正紀念堂站，步行約 10 分鐘
+- NPOHub 附近的餐飲店推薦清單：https://g0v.hackmd.io/@tofus/S1XacJxzA
+
+**報名網址：https://g0v-jothon.kktix.cc/events/dadath0n**
 
 活動簡介：
+
 網路充滿各種邪惡的黑魔法，兒少色情私密照片買賣、股市詐騙愛情詐騙。許多人深受這些黑魔法的傷害，我們勇敢而善良的朋友 Miffy 花了許多心力自學研究如何破解這些黑魔法，協助檢調利用技術查找金流，抓到許多邪惡的黑魔法師，這一場網路黑魔法防禦松，想邀請有興趣的朋友一起動手協作，共享知識，希望能將 Miffy 的精神傳承下去，保護更多人免於在網路上受害。
 
 本活動主要研究如下：
@@ -64,10 +69,11 @@ g0v Slack #
 - Miffy 整理的追金流方法 https://xrex.io/zh/xrex-report-taiwan-nth-room-analysis/
 - Claire 撰寫《靠自己就能揭穿詐騙集團！2024 四款必學幣流追蹤工具全解析》https://xrex.io/zh/4-must-learn-crypto-flow-tracking-tools-for-2024-zh/
 
-
 ### 私密影像外流防止
-
-- https://www.facebook.com/share/p/1XLbau46i9/
+- 專題報導：青春煉獄：網路獵騙性私密影像事件簿
+    - https://www.mirrormedia.mg/projects/image_based_sex_abuse_scam/
+    - https://feja.org.tw/68040/
+    - https://www.facebook.com/share/p/1XLbau46i9/
 - 兒少，議題講者：臺北市中山分局偵查隊小隊長 洪晨鐘 https://www.facebook.com/share/p/19m8XXeJZj/
 
 ### 可疑訊息查證

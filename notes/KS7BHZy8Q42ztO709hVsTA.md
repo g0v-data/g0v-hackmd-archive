@@ -1,4 +1,10 @@
+---
+tags: food,
+---
+
 # NPO Hub 附近的食物攻略！Foods Near NPO Hub
+
+提醒：留意週六日是否營業
 
 ## 由 PM5 提供｜Provided by PM5 
 - [正宗建中黑砂糖刨冰｜Shaved Ice with Black Sugar](https://maps.app.goo.gl/zwgFAL5Vs3doHtHq5)
