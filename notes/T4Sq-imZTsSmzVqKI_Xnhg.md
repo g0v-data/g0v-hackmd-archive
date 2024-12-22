@@ -4,7 +4,7 @@ tags: 詐騙
 
 # 詐騙因應對策
 
-## 個案經驗蒐集
+## 各種情境經驗蒐集
 - 2024 專書 https://www.facebook.com/share/p/JnsrhB4d54j2AUGy/
 - 2024 電話，對方唸出完整正確的身分證字號 https://www.facebook.com/share/p/UAtnFG6hTJf2ya2H/
 - 蒐集聲音資料 https://www.facebook.com/share/r/j1i8Lv4b52g6eicq/
@@ -14,6 +14,8 @@ tags: 詐騙
 - 廣告不實販售詐騙
     - https://www.facebook.com/share/v/Jcp1JotpQed2MoJe/
     - https://www.facebook.com/share/v/YrhjGf8Gfu2t5QUD/
+- 賣二手物品，遇到詐騙
+    - https://www.facebook.com/share/p/14gaAuUfWh/
 - 自然人憑證 https://www.ettoday.net/news/20241115/2855760.htm
 - Eventbrite https://www.facebook.com/share/p/15GezeYHw5/
 
