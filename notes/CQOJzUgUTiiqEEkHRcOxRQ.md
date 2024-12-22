@@ -133,3 +133,17 @@ Ax:10最左邊那排實作下來如果利率跟標準表一樣5%的話數值會�
 增加刪除table功能
 下面是刪除110_All後的database
 ![](https://g0v.hackmd.io/_uploads/ryv_SHrrJx.png =40%x)
+
+增加修改table裡面死亡機率功能
+![](https://g0v.hackmd.io/_uploads/SyxIdCHHH1e.png =40%x)
+
+到這邊我預期的基本功能大致都有了
+
+下面是可以再改進的部分不過我認為需求性不高的部分
+-main.py更完整的模組化
+-死亡機率範圍修改
+-一些不太重要的小bug
+
+最終介面
+![](https://g0v.hackmd.io/_uploads/Hk2S7USSJl.png =40%x)
+
