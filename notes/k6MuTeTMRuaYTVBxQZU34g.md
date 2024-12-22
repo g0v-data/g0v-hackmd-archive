@@ -59,6 +59,7 @@ Yi：對國會議題有興趣ㄉ前高中公民老師
 ## 共筆區
 - 立法院資訊新手指引 quiz
     - [共同編輯文件](https://docs.google.com/spreadsheets/d/14zedC4tK5UQBlvzQQnZYi09HxwfSmtjKEzgtb-osciQ/edit?gid=0#gid=0)
+    - [開箱 Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfQ6tZ6-moNzpBiyD3jlHa83CnKLsoe6frussswTKkylPKtkQ/viewform)
 
 
 - 國土計劃法 內政委員會，你要從立法院哪個地方找到？
@@ -66,8 +67,7 @@ Yi：對國會議題有興趣ㄉ前高中公民老師
     - 高金素梅/蘇巧慧
     - 王定宇/林憶君
 tips
-要看哪一組在內政委員會
+要看哪一組在內政委員會ㄉ招委（有排案權）
+他可以控制議程
 
 > 徐欣瑩/張宏陸
-
-## 今日小聚流水帳（基於共筆內容生成 by Tofus 的 ChatGPT）
