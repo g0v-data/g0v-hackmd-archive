@@ -117,3 +117,19 @@ Ax:10最左邊那排實作下來如果利率跟標準表一樣5%的話數值會�
 正常使用的話變成可以自由選擇付款年限(<保險時長)
 ![](https://g0v.hackmd.io/_uploads/SJRRUnbB1g.png =30%x)
 
+12/22 更新
+做了更多模組化的內容
+然後增加了使用者可以插入自己想用的table的功能（目前還會受限於格式）
+![](https://g0v.hackmd.io/_uploads/rkl7QREBBkl.png =40%x)
+
+插入完就可以選擇想使用的table
+
+![](https://g0v.hackmd.io/_uploads/HkZQm0EBHkl.png =40%x)
+
+使用新的table的輸出結果
+
+![](https://g0v.hackmd.io/_uploads/Hk4sWBBSkx.png =40%x)
+
+增加刪除table功能
+下面是刪除110_All後的database
+![](https://g0v.hackmd.io/_uploads/ryv_SHrrJx.png =40%x)
