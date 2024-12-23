@@ -26,6 +26,8 @@ tags: GIS
 - 臺北市文山區政治大學圖書館 
     - https://photos.app.goo.gl/1GLyi9YiZNQf99x78
     - https://www.nccu.edu.tw/p/406-1000-14524,r17.php?Lang=zh-tw
+- 臺北市政治大學公車候車亭
+    - https://www.facebook.com/share/p/185ETjYaXu/
 - 臺北市士林區建業路 7 號 https://photos.app.goo.gl/kCvv61Jbby4xhs7E9
 - 大雪山森林遊樂區遊客中心 https://www.facebook.com/groups/birdwindowcollision/posts/1367090184006435/
 - 觀霧遊客中心 https://www.facebook.com/share/p/ok24n2ZeVAYDhiNd/
