@@ -8,6 +8,8 @@
 * 動態規劃要有機率，基本上財務的沒有參數，無法進行預測
 * 財務的論文都是騙局
 * merchine learning最後都要用OR解
+* price不能用強化學習做，因為如果有參數，用DP跟用強化學習，用DP解快多了
+* 可以用AI做什麼決策？研究台積電用AI做什麼決策
 
 關鍵字
 1. reeinforcement learning
