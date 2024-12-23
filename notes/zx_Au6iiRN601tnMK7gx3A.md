@@ -48,7 +48,7 @@ Implement the following endpoint using feTS & OpenAPI. The path hierarchy is des
 
 #### Release
 
-Not yet
+
 - TBD
 
 
@@ -58,7 +58,10 @@ Not yet
 #### Website
 
 - [ ] User page badge display - components/ProfilePages/ProfilePages.js
-- [ ] rumor page user icon border - 
+- [ ] rumor page user icon border - AppLayout/Widgets/Avatar.js
+    - replies
+    - article (detail)
+    - 看理由
 - [ ] 改成用background with radius, allow to configure background image url 
 
 
