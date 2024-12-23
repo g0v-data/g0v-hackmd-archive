@@ -57,9 +57,8 @@ Not yet
 
 #### Website
 
-- [ ] User page badge display
-- [ ] User page badge list
-- [ ] rumor page user icon border
+- [ ] User page badge display - components/ProfilePages/ProfilePages.js
+- [ ] rumor page user icon border - 
 - [ ] 改成用background with radius, allow to configure background image url 
 
 

@@ -17,10 +17,10 @@ struct user{
 
 
 //checkusername是否valid 
-bool checkusername(char username[])
+bool checkusername(char u[])
 {
 	int flag;
-	if(strlen(u);<3)
+	if(strlen(u)<3)
 		return false;
 	for(int i=0;i<strlen(u);i++)
 	{
@@ -37,7 +37,7 @@ bool checkusername(char username[])
 	return true;	
 }
 //check password valid or not
-bool checkpassword(char password[])
+bool checkpassword(char p[])
 {
 	int flag,vote[2]={0};
 	if(strlen(p)<3)
@@ -120,58 +120,90 @@ bool newuser(user users[], int* pno) //使用者編號，共幾個使用者
 
 //=================XAXB game 
 
-void XAXB_Game(user& currentUser) {
-    int target[4], guess[4], A = 0, B = 0;
-    srand(time(0));
-    for (int i = 0; i < 4; i++) {
-        target[i] = rand() % 10;
-        for (int j = 0; j < i; j++) {
-            if (target[i] == target[j]) {
-                i--;
-                break;
+void sep(int n, int c[]) {
+    c[0] = n / 1000;
+    c[1] = n % 1000 / 100;
+    c[2] = n % 100 / 10;
+    c[3] = n % 10;
+}
+
+int isValid(int n) {
+    if (n >= 10000 || n < 0)
+        return 0;
+    int d[4];
+    sep(n, d);
+    if (d[0] == d[1] || d[0] == d[2] || d[0] == d[3] || d[1] == d[2] || d[1] == d[3] || d[2] == d[3])
+        return 0;
+    else
+        return 1;
+}
+
+int guess(int p[]) {
+    int i = 0;
+    while (p[i] == 0)
+        i++;
+    return i;
+}
+
+void match(int g, int a, int AB[]) {
+    int gd[4], ad[4], m, n;
+    sep(g, gd);
+    sep(a, ad);
+    AB[0] = 0;
+    AB[1] = 0;
+    for (m = 0; m < 4; m++) {
+        for (n = 0; n < 4; n++) {
+            if (gd[m] == ad[n]) {
+                if (m == n)
+                    AB[0]++;
+                else
+                    AB[1]++;
             }
         }
-    }
-
-    cout << "歡迎來到 XAXB 遊戲！\n請猜4位不重複的數字，輸入 Exit 結束遊戲。" << endl;
-    while (A != 4) {
-        A = 0;
-        B = 0;
-
-        string input;
-        cout << "請輸入猜測: ";
-        cin >> input;
-        if (input == "Exit") break;
-
-        if (input.length() != 4 || !isdigit(input[0])) {
-            cout << "輸入格式錯誤，請重新輸入！" << endl;
-            continue;
-        }
-
-        for (int i = 0; i < 4; i++) guess[i] = input[i] - '0';
-
-        for (int i = 0; i < 4; i++) {
-            if (guess[i] == target[i]) A++;
-            else {
-                for (int j = 0; j < 4; j++) {
-                    if (guess[i] == target[j]) B++;
-                }
-            }
-        }
-
-        cout << A << "A" << B << "B" << endl;
-    }
-
-    if (A == 4) {
-        cout << "恭喜猜對！遊戲結束。" << endl;
-        currentUser.XAXBwin++;
-    } else {
-        cout << "遊戲結束，目標數字是：";
-        for (int i = 0; i < 4; i++) cout << target[i];
-        cout << endl;
-        currentUser.XAXBlose++;
     }
 }
+
+void XAXB_Game(user& currentUser) 
+{
+    int you_ans, com_guess, com_AB[2], tmp_AB[2], i;
+    int pool[10000];
+    int attempts = 0;//chance
+    const int maxAttempts = 10;//chance
+
+    do {
+        cout << "!你只有十次機會! Please input your answer:";
+        cin >> you_ans;
+    } while (isValid(you_ans) == 0);
+
+    for (i = 0; i < 10000; i++)
+        pool[i] = isValid(i);
+
+    do {
+        com_guess = guess(pool);
+        match(com_guess, you_ans, com_AB);
+        cout << com_guess << ":" << com_AB[0] << "A" << com_AB[1] << "B" << endl;
+
+        for (i = 0; i < 10000; i++) {
+            if (pool[i] == 1) {
+                match(com_guess, i, tmp_AB);
+                if (tmp_AB[0] != com_AB[0] || tmp_AB[1] != com_AB[1])
+                    pool[i] = 0;
+            }
+        }
+		//chance
+        attempts++;
+        if (attempts >= maxAttempts) {
+            cout << "Game over! You've used all your attempts. The computer wins!" << endl;
+            currentUser.XAXBlose++;
+            return;
+        }
+
+    } while (com_AB[0] != 4);
+
+    cout << "Congratulations! you guessed computer's number in " << attempts << " attempts." << endl;
+    currentUser.XAXBwin++;
+}
+
  
 //=================
 
@@ -260,7 +292,7 @@ int main()
                 XAXB_Game(users[un]);
                 break;
             case 2:
-                Chatroom_Main(users[un].username);
+               // Chatroom_Main(users[un].username);
                 break;
             
         }
@@ -270,5 +302,6 @@ int main()
     //SaveUsers(users, user_no);
     return 0;
 }
+
 
 </pre>

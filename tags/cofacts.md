@@ -2,9 +2,9 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-12-09T05:51:33+00:00 | 2022-08-05T02:46:53+00:00 |
-| 2 | [20241202 會議記錄](../notes/5-jQ-pWnT4iOEOos9t7Cyw.md) | 2024-12-02T12:31:12+00:00 | 2024-12-01T17:16:06+00:00 |
-| 3 | [Badge System](../notes/zx_Au6iiRN601tnMK7gx3A.md) | 2024-12-02T12:21:22+00:00 | 2024-11-17T23:36:53+00:00 |
+| 1 | [Badge System](../notes/zx_Au6iiRN601tnMK7gx3A.md) | 2024-12-23T11:59:17+00:00 | 2024-11-17T23:36:53+00:00 |
+| 2 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-12-09T05:51:33+00:00 | 2022-08-05T02:46:53+00:00 |
+| 3 | [20241202 會議記錄](../notes/5-jQ-pWnT4iOEOos9t7Cyw.md) | 2024-12-02T12:31:12+00:00 | 2024-12-01T17:16:06+00:00 |
 | 4 | [20241125 會議記錄](../notes/Jqg-lecyRhKtFDnbxnx_ZA.md) | 2024-12-01T17:24:19+00:00 | 2024-11-24T16:11:25+00:00 |
 | 5 | [Cofacts / Open165 hackath64n 協作頁面](../notes/XSpjp40-QEGVAPeTrvxZeQ.md) | 2024-11-25T12:16:47+00:00 | 2024-11-22T16:48:30+00:00 |
 | 6 | [Langfuse LLM observability](../notes/ccwZjCTnQ4-I5sPO1tuvFg.md) | 2024-11-25T11:18:08+00:00 | 2024-11-25T11:10:28+00:00 |
