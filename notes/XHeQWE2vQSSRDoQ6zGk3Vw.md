@@ -164,49 +164,6 @@ void match(int g, int a, int AB[]) {
         }
     }
 }
-/*
-void XAXB_Game(user& currentUser) 
-{
-	
-    int you_ans, com_guess, com_AB[2], tmp_AB[2], i;
-    int pool[10000];
-    int attempts = 0;//chance
-    const int maxAttempts = 10;//chance
-
-    do {
-        cout << "!你只有十次機會! Please input your answer:";
-        cin >> you_ans;
-    } while (isValid(you_ans) == 0);
-
-    for (i = 0; i < 10000; i++)
-        pool[i] = isValid(i);
-
-    do {
-        com_guess = guess(pool);
-        match(com_guess, you_ans, com_AB);
-        cout << com_guess << ":" << com_AB[0] << "A" << com_AB[1] << "B" << endl;
-
-        for (i = 0; i < 10000; i++) {
-            if (pool[i] == 1) {
-                match(com_guess, i, tmp_AB);
-                if (tmp_AB[0] != com_AB[0] || tmp_AB[1] != com_AB[1])
-                    pool[i] = 0;
-            }
-        }
-		//chance
-        attempts++;
-        if (attempts >= maxAttempts) {
-            cout << "Game over! You've used all your attempts. The computer wins!" << endl;
-            currentUser.XAXBlose++;
-            return;
-        }
-
-    } while (com_AB[0] != 4);
-
-    cout << "Congratulations! you guessed computer's number in " << attempts << " attempts." << endl;
-    currentUser.XAXBwin++;
-}
-*/
 void XAXB_Game(user& currentUser) {
     int you_ans, com_ans;
     int you_AB[2] = {0, 0}, com_AB[2] = {0, 0};
@@ -289,9 +246,194 @@ void XAXB_Game(user& currentUser) {
 }
 
 
+//==================chatroom code=========================
+void Chatroom_Main(char username[])
+{
+	ifstream fin;
+	ofstream fout;
+	char str[1000];
+	char input[100];
+	do{
+		system("cls");
+		fin.open("msg.txt");
+		while(fin.getline(str,500))
+			cout << str << endl;
+		fin.close();
+		cout << username << ": ";
+		cin.getline(input,100);
+		if(strcmp(input,"Exit")!=0 && strcmp(input," ")!=0)
+		{
+			fout.open("msg.txt",ios::app);
+			fout<<username<< ": "<<input<<endl;
+			fout.close();
+		}
+	}while(strcmp(input,"Exit")!=0);
+}
 
+//===============數獨==========================================
+/*
+void Update(int Q[][9][10],int R,int C,int D)
+{
+	int r,c,d;
+	for(c=0;c<9;c++)
+		Q[R][c][D] = 0;
+	for(r=0;r<9;r++)
+		Q[r][C][D] = 0;
+	for(d=1;d<=9;d++)
+		Q[R][C][d] = 0;
+	for(r=R/3*3;r<=R/3*3+2;r++)
+		for(c=C/3*3;c<=C/3*3+2;c++)
+			Q[r][c][D] = 0;
+	Q[R][C][D] = 1;
+}
+*/
+void Update(int Q[][9][10], int R, int C, int D) 
+{
+    int r,c;
+
+    // 更新同一列
+    for (c = 0; c < 9; c++)
+        Q[R][c][D] = 0;
+
+    // 更新同一行
+    for (r = 0; r < 9; r++)
+        Q[r][C][D] = 0;
+
+    // 更新同一宮格
+    for (r = R / 3 * 3; r <= R / 3 * 3 + 2; r++)
+        for (c = C / 3 * 3; c <= C / 3 * 3 + 2; c++)
+            Q[r][c][D] = 0;
+
+    Q[R][C][0] = D; // 正確設定格子中的數字
+}
+void readQ(int Q[][9][10])
+{
+	ifstream fin;
+	fin.open("Q1.txt");
+	int r,c,d;
+	for(r=0;r<9;r++)
+		for(c=0;c<9;c++)
+			for(d=1;d<=9;d++)
+				Q[r][c][d] = 1;
+	for(r=0;r<9;r++)
+	{
+		for(c=0;c<9;c++)
+		{
+			fin >> Q[r][c][0];
+			if(Q[r][c][0]!=0)
+			{
+				Update(Q,r,c,Q[r][c][0]);
+			}
+		}
+	}
+	fin.close();
+}
+
+void Print(int Q[][9][10])
+{
+	int r,c;
+	for(r=0;r<9;r++)
+	{
+		if (r % 3 == 0 && r != 0) 
+            cout << "------+-------+------" << endl;
+		for(c=0;c<9;c++)
+		{
+			if (c % 3 == 0 && c != 0) 
+                cout << "| ";
+			if(Q[r][c][0]>0)
+				cout << Q[r][c][0] << " ";
+			else
+				cout << " . ";
+		} 
+		cout<<endl;
+	}
+}
+
+int Test(int Q[][9][10],int R,int C)
+{
+	int count=0, result=0;
+	for(int d=1;d<=9;d++)
+	{
+		if (Q[R][C][d] == 1) 
+		{
+            count++;
+            result = d;
+    	}
+	}
+	return count == 1 ? result : 0;
+}
+
+void Solve(int Q[][9][10])
+{
+	int change,r,c,d;
+	do
+	{
+		change = 0;
+		for(r=0;r<9;r++)
+			for(c=0;c<9;c++)
+			{
+				if(Q[r][c][0]==0)
+				{
+					d = Test(Q,r,c);
+					if(d>0)
+					{
+						Q[r][c][0] = d;
+						Update(Q,r,c,d);
+						change = 1;
+					}
+				}
+			}
+	}while(change==1);
+}
+
+void Sudoku_Main(char username[])
+{
+	int Q[9][9][10];
+	readQ(Q);
+	cout << "初始數獨盤面：" << endl;
+	Print(Q);
+	Solve(Q);
+	cout << "\n解後數獨盤面：" << endl;
+	Print(Q);
+	//return 0;
+}
  
-//=================
+//=========查詢個人資料==========================
+void Query_Main(user users[], int user_no, char username[]) 
+{
+    bool found = false;
+
+    // Iterate over the users to find the correct one
+    for (int un = 0; un < user_no; un++) 
+	{
+        if (strcmp(username, users[un].username) == 0) 
+		{
+            found = true;
+            // Print user's personal information
+            cout << "用戶名: " << users[un].username << endl;
+            cout << "登入次數: " << users[un].loginno << endl;
+            cout << "XAXB 勝場: " << users[un].XAXBwin << endl;
+            cout << "XAXB 輸場: " << users[un].XAXBlose << endl;
+            //break;
+        }
+    }
+
+    if (!found) 
+	{
+        cout << "用戶不存在！" << endl;
+    }
+    
+    int returnToMenu;
+    do {
+        cout << "輸入 0 返回主選單: ";
+        cin >> returnToMenu;
+    } while (returnToMenu != 0);
+}
+
+//=======================
+
+
+
 
 //整個程式架構 
 int main()
@@ -370,7 +512,7 @@ int main()
     do {
         system("cls");//清除前面畫面 
         cout << users[un].username << ", 您好！" << endl;
-        cout << "[1] XAXB 遊戲\n[2] 聊天室\n[[3] 隨機笑話生成器\n[4] 電腦解數獨[5]記憶遊戲\n[6]查詢個人資料\n[7]變更密碼\n[0] 離開系統" << endl;
+        cout << "[1] XAXB 遊戲\n[2] 聊天室\n[[3] 隨機笑話生成器\n[4] 電腦解數獨\n[5]記憶遊戲\n[6]查詢個人資料\n[7]變更密碼\n[0] 離開系統" << endl;
         cout << "請選擇: ";
         cin >> select;
         /*
@@ -386,7 +528,19 @@ int main()
                 XAXB_Game(users[un]);
                 break;
             case 2:
-               // Chatroom_Main(users[un].username);
+                Chatroom_Main(users[un].username);
+                break;
+            //case 3:
+            //    Joke_main(users[un].username);
+            //    break;
+            case 4:
+                Sudoku_Main(users[un].username);
+                break;
+            case 6:
+                Query_Main(users, user_no, users[un].username);
+                break;
+            case 7:
+            //    ChangePW_Main(users[un].username);
                 break;
                 
         }
