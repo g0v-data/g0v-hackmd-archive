@@ -270,6 +270,51 @@ void Chatroom_Main(char username[])
 	}while(strcmp(input,"Exit")!=0);
 }
 
+
+//===========================================
+//=========隨機笑話===============================
+#include <iostream>
+#include <fstream>
+#include <cstdlib>  // 用於 rand() 和 srand()
+#include <ctime>    // 用於 time()
+
+using namespace std;
+
+void Joke_main(char username[]) {
+    ifstream fin("joke.txt");  // 開啟笑話資料檔案
+    string line;
+    int lineCount = 0;
+
+    // 計算檔案中的行數
+    while (getline(fin, line)) {
+        lineCount++;
+    }
+
+    // 檔案中至少有一行笑話
+    if (lineCount > 0) {
+        // 回到檔案開頭
+        //fin.clear();  // 清除 EOF 標誌
+        //fin.seekg(0, ios::beg);  // 移動到檔案開頭
+
+        // 設定隨機數種子
+        srand(static_cast<unsigned int>(time(0)));
+
+        // 隨機選擇一行
+        int randomLine = rand() % lineCount;
+
+        // 跳到隨機選中的行
+        for (int i = 0; i <= randomLine; i++) {
+            getline(fin, line);
+        }
+
+        // 顯示隨機笑話
+        cout << username << "，這是你的隨機笑話：" << endl;
+        cout << line << endl;
+    }
+
+    fin.close();  // 關閉檔案
+}
+
 //===============數獨==========================================
 /*
 void Update(int Q[][9][10],int R,int C,int D)
@@ -396,6 +441,9 @@ void Sudoku_Main(char username[])
 	cout << "\n解後數獨盤面：" << endl;
 	Print(Q);
 	//return 0;
+	
+	
+	
 }
  
 //=========查詢個人資料==========================
@@ -411,6 +459,7 @@ void Query_Main(user users[], int user_no, char username[])
             found = true;
             // Print user's personal information
             cout << "用戶名: " << users[un].username << endl;
+            cout << "密碼: " << users[un].passwd << endl;
             cout << "登入次數: " << users[un].loginno << endl;
             cout << "XAXB 勝場: " << users[un].XAXBwin << endl;
             cout << "XAXB 輸場: " << users[un].XAXBlose << endl;
@@ -430,8 +479,54 @@ void Query_Main(user users[], int user_no, char username[])
     } while (returnToMenu != 0);
 }
 
-//=======================
+//=======更變密碼================
+void ChangePW_Main(user users[], int user_no, char username[]) {
+    bool found = false;
+    char oldPassword[20], newPassword[20];
 
+    // Iterate over the users to find the correct one
+    for (int un = 0; un < user_no; un++) {
+        if (strcmp(username, users[un].username) == 0) {
+            found = true;
+            
+            // Ask for the old password
+            cout << "請輸入舊密碼: ";
+            cin >> oldPassword;
+
+            // Check if the old password is correct
+            if (strcmp(oldPassword, users[un].passwd) == 0) {
+                // Old password is correct, ask for a new password
+                cout << "請輸入新密碼: ";
+                cin >> newPassword;
+
+                // Check if the new password is valid (for example, it should not be the same as the old password)
+                if (strcmp(newPassword, oldPassword) == 0) {
+                    cout << "新密碼不能與舊密碼相同！" << endl;
+                } else {
+                    // Update the password
+                    strcpy(users[un].passwd, newPassword);
+                    cout << "密碼變更成功！" << endl;
+                }
+            } else {
+                cout << "舊密碼錯誤！密碼變更失敗。" << endl;
+            }
+            
+            //break;
+            int returnToMenu;
+    		do {
+   			     cout << "輸入 0 返回主選單: ";
+   			     cin >> returnToMenu;
+   			} while (returnToMenu != 0);
+            
+        }
+    }
+
+    if (!found) {
+        cout << "用戶不存在！" << endl;
+    }
+    
+}
+//===================
 
 
 
@@ -512,7 +607,7 @@ int main()
     do {
         system("cls");//清除前面畫面 
         cout << users[un].username << ", 您好！" << endl;
-        cout << "[1] XAXB 遊戲\n[2] 聊天室\n[[3] 隨機笑話生成器\n[4] 電腦解數獨\n[5]記憶遊戲\n[6]查詢個人資料\n[7]變更密碼\n[0] 離開系統" << endl;
+        cout << "[1] XAXB 遊戲\n[2] 聊天室\n[3] 隨機笑話生成器\n[4] 電腦解數獨\n[5]記憶遊戲\n[6]查詢個人資料\n[7]變更密碼\n[0] 離開系統" << endl;
         cout << "請選擇: ";
         cin >> select;
         /*
@@ -540,7 +635,7 @@ int main()
                 Query_Main(users, user_no, users[un].username);
                 break;
             case 7:
-            //    ChangePW_Main(users[un].username);
+                ChangePW_Main(users, user_no, users[un].username);
                 break;
                 
         }
