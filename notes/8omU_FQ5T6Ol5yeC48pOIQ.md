@@ -7,6 +7,7 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 :::
 
 #### 常用連結
+O:\25資訊組\FPG\ERP\FPG.xlsx
 7-Zip https://www.7-zip.org/a/7z2301-x64.exe
 Chainlon 01Backup https://www.chainlon.net/1/01Backup.zip
 https://tw.bitwar.net/course/tips/3528.html
