@@ -50,5 +50,6 @@ Gemini 1.5 Pro=notebooklm > Perplexity > Claude-3-Sonnet = GPT 4o-mini
 產品2	2024/10	100	80
 產品3	2024/11	100	93
 
+企業管理 社群經營 公益活動 ESG
 
-
+可愛Q版風格，3D渲染圖像，一條白色的蛇和一隻淡黃色的兔子，兔子手持鞭炮，蛇望著兔子。背景是喜慶的紅色，上面有大文字"Happy Lunar New Year"加小文字"From Chain Yarn "
