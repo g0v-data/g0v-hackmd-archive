@@ -4,6 +4,8 @@
 #include <iostream>
 #include <fstream>  // 用fin: 要讀檔userDB //記得開關檔 
 #include <string.h>
+#include <cstdlib>
+#include<ctime>
 using namespace std;
 
 //個別user資料庫 
@@ -162,9 +164,10 @@ void match(int g, int a, int AB[]) {
         }
     }
 }
-
+/*
 void XAXB_Game(user& currentUser) 
 {
+	
     int you_ans, com_guess, com_AB[2], tmp_AB[2], i;
     int pool[10000];
     int attempts = 0;//chance
@@ -203,6 +206,89 @@ void XAXB_Game(user& currentUser)
     cout << "Congratulations! you guessed computer's number in " << attempts << " attempts." << endl;
     currentUser.XAXBwin++;
 }
+*/
+void XAXB_Game(user& currentUser) {
+    int you_ans, com_ans;
+    int you_AB[2] = {0, 0}, com_AB[2] = {0, 0};
+    int pool[10000] = {0};
+    int attempts = 0; // 用於追蹤總猜測次數
+    bool gameOver = false; // 遊戲結束標誌
+
+    // 玩家輸入自己的秘密數字
+    do {
+        cout << "請輸入一個四位數字，且每位數字不可重複（讓電腦猜）:";
+        cin >> you_ans;
+    } while (!isValid(you_ans));
+
+    // 設定電腦的隨機答案
+    srand(time(0));
+    do {
+        com_ans = rand() % 10000;
+    } while (!isValid(com_ans));
+
+    // 初始化數字池，用於電腦猜測
+    for (int i = 0; i < 10000; i++) {
+        pool[i] = isValid(i);
+    }
+
+    // 玩家和電腦輪流猜測
+    while (!gameOver) {
+        // 電腦猜測玩家的數字
+        int com_guess = guess(pool);
+        match(com_guess, you_ans, com_AB);
+        cout << "電腦猜測: " << com_guess << " => " << com_AB[0] << "A" << com_AB[1] << "B" << endl;
+
+        // 更新數字池
+        for (int i = 0; i < 10000; i++) {
+            if (pool[i] == 1) {
+                int tmp_AB[2];
+                match(com_guess, i, tmp_AB);
+                if (tmp_AB[0] != com_AB[0] || tmp_AB[1] != com_AB[1]) {
+                    pool[i] = 0;
+                }
+            }
+        }
+
+        // 檢查電腦是否猜中
+        if (com_AB[0] == 4) {
+            cout << "電腦成功猜中！電腦贏了！" << endl;
+            currentUser.XAXBlose++;
+            gameOver = true;
+            break;
+        }
+
+        // 玩家猜測電腦的數字
+        int you_guess;
+        do {
+            cout << "輪到你猜測電腦的數字:";
+            cin >> you_guess;
+        } while (!isValid(you_guess));
+
+        match(you_guess, com_ans, you_AB);
+        cout << "你的猜測: " << you_guess << " => " << you_AB[0] << "A" << you_AB[1] << "B" << endl;
+
+        // 檢查玩家是否猜中
+        if (you_AB[0] == 4) {
+            cout << "恭喜你！你成功猜中電腦的數字！你贏了！" << endl;
+            currentUser.XAXBwin++;
+            gameOver = true;
+            break;
+        }
+
+        // 次數累計
+        attempts++;
+        cout << "目前總猜測次數: " << attempts << endl;
+    }
+
+    // 等待玩家輸入0返回選單
+    int returnToMenu;
+    do {
+        cout << "遊戲結束！輸入 0 返回主選單: ";
+        cin >> returnToMenu;
+    } while (returnToMenu != 0);
+}
+
+
 
  
 //=================
@@ -218,7 +304,7 @@ int main()
     char passwd[20];
 
     // 從檔案讀取用戶資料
-    fin.open("userDB.txt");
+    fin.open("userDB.text.txt");
     //if (fin.is_open()) {
     fin >> user_no;
     for (un = 0; un < user_no; un++) 
@@ -260,7 +346,7 @@ int main()
                 if (strcmp(passwd, users[un].passwd) == 0) //密碼正確，登入數次加一 
 				{
                     users[un].loginno++;
-                    break;
+                    goto LOGIN_SUCCESS;
                 }
 				else //密碼錯誤 
 				{
@@ -277,6 +363,7 @@ int main()
 		//	break;
         
     }
+    LOGIN_SUCCESS:
 
     // 登入後選單
     int select;
@@ -286,22 +373,29 @@ int main()
         cout << "[1] XAXB 遊戲\n[2] 聊天室\n[[3] 隨機笑話生成器\n[4] 電腦解數獨[5]記憶遊戲\n[6]查詢個人資料\n[7]變更密碼\n[0] 離開系統" << endl;
         cout << "請選擇: ";
         cin >> select;
-
-        switch (select) {
+        /*
+        if(select==1)
+			XAXB_Game(users[un].username);
+		if(select==2)
+			Chatroom_Main(users[un].username);	
+		*/	
+		
+        switch (select) 
+		{
             case 1:
                 XAXB_Game(users[un]);
                 break;
             case 2:
                // Chatroom_Main(users[un].username);
                 break;
-            
+                
         }
+        
     } while (select != 0);
 
     // 保存用戶資料
     //SaveUsers(users, user_no);
     return 0;
 }
-
 
 </pre>
