@@ -6,6 +6,7 @@
 #include <string.h>
 #include <cstdlib>
 #include<ctime>
+#include <vector>
 using namespace std;
 
 //個別user資料庫 
@@ -273,12 +274,44 @@ void Chatroom_Main(char username[])
 
 //===========================================
 //=========隨機笑話===============================
-#include <iostream>
-#include <fstream>
-#include <cstdlib>  // 用於 rand() 和 srand()
-#include <ctime>    // 用於 time()
+
 
 using namespace std;
+
+void Joke_main(char username[]) {
+    ifstream fin("joke.txt");  // 開啟笑話資料檔案
+    if (!fin.is_open()) {
+        cout << "無法開啟笑話檔案！" << endl;
+        return;
+    }
+
+    vector<string> jokes;  // 用來儲存檔案中的笑話
+    string line;
+
+    // 讀取檔案中的每一行笑話並儲存到 vector 中
+    while (getline(fin, line)) {
+        jokes.push_back(line);
+    }
+
+    fin.close();  // 關閉檔案
+
+
+    // 設定隨機數種子
+    srand(static_cast<unsigned int>(time(0)));
+
+    int jokeIndex = rand() % jokes.size();
+
+    cout << username << "，這是你的隨機笑話：" << endl;
+    cout << jokes[jokeIndex] << endl;
+    
+    int returnToMenu;
+    do {
+        cout << "遊戲結束！輸入 0 返回主選單: ";
+        cin >> returnToMenu;
+    } while (returnToMenu != 0);
+}
+
+/*
 
 void Joke_main(char username[]) {
     ifstream fin("joke.txt");  // 開啟笑話資料檔案
@@ -293,8 +326,8 @@ void Joke_main(char username[]) {
     // 檔案中至少有一行笑話
     if (lineCount > 0) {
         // 回到檔案開頭
-        //fin.clear();  // 清除 EOF 標誌
-        //fin.seekg(0, ios::beg);  // 移動到檔案開頭
+        fin.clear();  // 清除 EOF 標誌
+        fin.seekg(0, ios::beg);  // 移動到檔案開頭
 
         // 設定隨機數種子
         srand(static_cast<unsigned int>(time(0)));
@@ -314,7 +347,7 @@ void Joke_main(char username[]) {
 
     fin.close();  // 關閉檔案
 }
-
+*/
 //===============數獨==========================================
 /*
 void Update(int Q[][9][10],int R,int C,int D)
@@ -625,9 +658,9 @@ int main()
             case 2:
                 Chatroom_Main(users[un].username);
                 break;
-            //case 3:
-            //    Joke_main(users[un].username);
-            //    break;
+            case 3:
+                Joke_main(users[un].username);
+                break;
             case 4:
                 Sudoku_Main(users[un].username);
                 break;
@@ -647,4 +680,61 @@ int main()
     return 0;
 }
 
+
 </pre>
+        
+為什麼電腦會憂鬱? 因為他有D槽
+
+水餃要去哪裡領? 當鋪 因為當舖領（dumpling）
+
+穿露背裝的原住民叫什麼? 後空番
+
+最會流汗的古代皇帝是誰?汗腺帝
+
+什麼東西可以攔電子?紅橙黃綠
+ 
+達文西密碼上面是什麼? 達文西帳號
+
+王一博在路上拉住一個陌生人的手，那個人會說什麼? 放手一搏！
+
+為什麼不能吃生鮭魚? 因為他會在你胃食道逆流
+
+什麼東西會卡在肺裡?  城市，因為City 卡肺（café）
+
+一個胖子掉進氫氧化鈉裡怎麼辦? 只能看他的皂化了
+
+為什麼神仙不能打手槍? 因為仙人掌有刺
+
+公雞最喜歡什麼品牌? MUJI
+
+14. 哪個殺手只講英文
+.
+銀翼殺手
+
+15. 奈米屌可以拿來幹嘛
+.
+幹細胞
+
+16. 那個古人最會游泳
+.
+孟嘗君，因為他仰式三千
+
+17. 東施效顰，那西施在幹嘛
+.
+吸濕排汗
+
+18. 小鹿斑比的哥哥是誰
+.
+大陸尋奇
+
+19. 為什麼孔子微積分很爛
+.
+因為他知其不可微而微之
+
+20. 為什麼山頂洞人不能吃起司
+.
+因為他們說食cheese die的人
+
+21. 美國(USA)的弟弟是誰
+.
+USB
