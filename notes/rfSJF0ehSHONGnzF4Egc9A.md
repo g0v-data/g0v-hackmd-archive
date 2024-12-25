@@ -204,7 +204,7 @@
 
 2. **存放位置 (Resides on Disk)：**  
    - 目錄結構和檔案一樣，都是存放在磁碟中的，確保它們在系統重新啟動後仍能被訪問。  
-
+https://hackmd.io/@Chang-Chia-Chi/OS-CH11
 ---
 
 ### **目錄操作 (Directory Operations)**  

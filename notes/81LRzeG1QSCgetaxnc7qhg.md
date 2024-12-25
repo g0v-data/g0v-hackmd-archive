@@ -8,8 +8,7 @@
 <p dir="ltr" style="text-align: center;"><strong>- Số Điện Thoại:</strong>&nbsp;0778446023</p>
 <p dir="ltr" style="text-align: center;"><strong>- Email:</strong>&nbsp;v9bet.lifestyle@gmail.com</p>
 <p dir="ltr" style="text-align: center;"><strong>- Website:</strong>&nbsp;<a href="https://v9bet.lifestyle/">https://v9bet.lifestyle/</a></p>
-<p dir="ltr" style="text-align: center;"><img src="https://pbs.twimg.com/profile_images/1871466362570412032/eYo3UxT3_400x400.jpg" alt="" width="200" height="200" /></p>
-<p dir="ltr" style="text-align: center;">&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img src="https://pbs.twimg.com/profile_images/1871466362570412032/eYo3UxT3_400x400.jpg" alt="" width="200" height="200" />&nbsp;</p>
 <p dir="ltr" style="text-align: center;"><strong>Social:&nbsp;</strong></p>
 <p dir="ltr" style="text-align: center;"><a href="https://www.facebook.com/v9betlifestyle/">https://www.facebook.com/v9betlifestyle/</a></p>
 <p dir="ltr" style="text-align: center;"><a href="https://www.youtube.com/@v9betlifestyle">https://www.youtube.com/@v9betlifestyle</a></p>
