@@ -68,6 +68,7 @@ g0v Slack #
 ### 金流追蹤
 - Miffy 整理的追金流方法 https://xrex.io/zh/xrex-report-taiwan-nth-room-analysis/
 - Claire 撰寫《靠自己就能揭穿詐騙集團！2024 四款必學幣流追蹤工具全解析》https://xrex.io/zh/4-must-learn-crypto-flow-tracking-tools-for-2024-zh/
+- 全球反詐騙組織 GASO https://www.globalantiscam.org/zh/about-us
 
 ### 私密影像外流防止
 - 專題報導：青春煉獄：網路獵騙性私密影像事件簿
