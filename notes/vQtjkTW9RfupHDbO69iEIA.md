@@ -1,5 +1,5 @@
 ---
-tags: FtO, g0v-intl
+tags: FtO, g0v-intl, RightsCon
 ---
 # 2024.12.26 FtO meeting
 

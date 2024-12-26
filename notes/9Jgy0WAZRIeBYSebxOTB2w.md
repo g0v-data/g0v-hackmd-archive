@@ -1,26 +1,12 @@
 ---
 tags: FtO, RightsCon, g0v-intl
 ---
-# FtO at RightsCon (RC) 2025
+# FtO session at RightsCon (RC) 2025
 
 ## RightsCon 2025
 Feb 24-27 2025, Taipei International Convention Center (TICC)
 
-## FtO engagement at RightsCon
-- Engagement
-    - Not just the program
-    - Things are happening more than a week
-    - RightsCon has the entire building
-    - AN coordination
-    - Plan anything helpful for programming
-- Ideas
-    - In-person FtO meeting before/during/after RC
-    - FtO hackathon in KH before RC
-    - Meetings with funders / other orgs at RC
-
-## FtO session at RightsCon
-
-### Todo list for speakers and facilitator
+## Todo list for speakers and facilitator
 
 - [x] Update session info ==must before Oct 13==
     - [x] Confirm speakers
@@ -54,14 +40,14 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
     - [ ] @nao
     - [x] @chihao - I live in Taipei :)
 
-### Timeline
+## Timeline
 
 - Jun 7: Proposal submitted
 - Aug 27: Session accepted
 - Oct: Program building, consistent communications with RightsCon team
 - Early Dec: Program schedule & room assignment
 
-### Session Format
+## Session Format
 
 - 60-min in-person dialogue
     - Everyone must be on-site
@@ -74,7 +60,7 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
     - how to continue FtO / future of FtO
 - Q&A (10 min)
 
-### Suggestions
+## Suggestions
 
 - Civil society
 - More a gathering, workshop, less presentation, conference
