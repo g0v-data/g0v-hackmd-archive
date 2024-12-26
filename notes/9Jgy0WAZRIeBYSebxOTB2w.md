@@ -37,14 +37,14 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
     - [x] Confirm preferred session date
 - [x] Make collab slides
     - https://docs.google.com/presentation/d/1Xv52LtF6xaQ-a12Ma_1L8GipqVfL1gMace6J6WAkZQo/edit#slide=id.p
-- [ ] Speakers must also register & get ticket
+- [x] Speakers must also register & get ticket
     - https://www.rightscon.org/registration/
     - early bird ends ==Dec 3==
     - chihao has the discount codes
         > There are 4 discount codes: 25%, 50%, 75%, 100%-off, 1 ticket each [name=chihao]
-    - [ ] @mami -25% - 24534RC25
-    - [ ] @eunsoo -50% or 75 - 24534RC50
-    - [ ] @klou -50% or 75 - 24534RC75
+    - [x] @mami -25% - 24534RC25
+    - [x] @eunsoo -50% or 75 - 24534RC50
+    - [x] @klou -50% or 75 - 24534RC75
     - [x] @nao -100% - 24534RC100
     - [x] @chihao
 - [ ] Plan travel + hotel early
