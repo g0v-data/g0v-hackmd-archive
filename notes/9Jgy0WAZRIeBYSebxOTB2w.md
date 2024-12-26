@@ -1,5 +1,5 @@
 ---
-tags: FtO, RightsCon
+tags: FtO, RightsCon, g0v-intl
 ---
 # FtO at RightsCon (RC) 2025
 
