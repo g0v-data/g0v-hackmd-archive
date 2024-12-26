@@ -2,7 +2,7 @@
 <p style="text-align: center;"><a href="https://ibb.co/nmrRVRY"><img src="https://i.ibb.co/c3JxpxZ/b-a-twii-1.jpg" alt="b-a-twii-1" width="502" height="168" border="0" /></a></p>
 <p dir="ltr" style="text-align: center;"><a href="https://bj88.engineering/">BJ88</a>&nbsp;l&agrave; địa chỉ c&aacute; cược h&agrave;ng đầu Việt Nam hiện nay với nhiều sản phẩm cực "ch&aacute;y" như: đ&aacute; g&agrave; thomo, thể thao, casino,... với tỷ lệ đổi thưởng cực cao.</p>
 <p dir="ltr" style="text-align: center;">#bj88 #nhacaibj88 #linkvaobj88 #trangchubj88 #bj88engineering</p>
-<p dir="ltr" style="text-align: center;">Th&ocirc;ng Tin Li&ecirc;n Hệ:</p>
+<p dir="ltr" style="text-align: center;"><strong>Th&ocirc;ng Tin Li&ecirc;n Hệ:</strong></p>
 <p dir="ltr" style="text-align: center;"><strong>- Địa Chỉ:</strong>&nbsp;88/13 Tru&ocirc;ng Tre, Linh Xu&acirc;n, Thủ Đức, Hồ Ch&iacute; Minh 700000</p>
 <p dir="ltr" style="text-align: center;">-&nbsp;<strong>Số Điện Thoại:</strong>&nbsp;0776677087</p>
 <p dir="ltr" style="text-align: center;">-&nbsp;<strong>Email</strong>: bj88.engineering@gmail.com</p>
