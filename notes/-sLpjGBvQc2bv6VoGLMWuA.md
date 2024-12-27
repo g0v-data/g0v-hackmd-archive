@@ -17,6 +17,6 @@ Hashtag: #sunwin, #sunwin_club, #cong_game_sunwin, #sun_win
 <a href="https://www.quora.com/profile/Sunwinmeganshank">https://www.quora.com/profile/Sunwinmeganshank</a>
 <a href="https://www.divephotoguide.com/user/sunwinmeganshank">https://www.divephotoguide.com/user/sunwinmeganshank</a>
 <a href="https://leetcode.com/u/sunwinmeganshank/">https://leetcode.com/u/sunwinmeganshank/</a>
-<a href="https://qooh.me/sunwinmeganshan">https://qooh.me/sunwinmeganshan</a>
+<a href="https://www.findit.com/nronggcpybyjlxf">https://www.findit.com/nronggcpybyjlxf</a>
 <a href="https://start.me/w/NGpOqp">https://start.me/w/NGpOqp</a>
-<a href="https://www.longisland.com/profile/sunwinmeganshank">https://www.longisland.com/profile/sunwinmeganshank</a>
+<a href="https://decidim.cunit.cat/profiles/sunwinmeganshank/">https://decidim.cunit.cat/profiles/sunwinmeganshank/</a>
