@@ -105,6 +105,7 @@ https://docs.google.com/presentation/d/1KKDka2cuJHT6N6IqTumfcjxBt0xhJIscwmv8R7Ad
 個人
 - 2001 桃芝颱風，大甲 https://youtu.be/367ppTEUolM
 - 李火增，天水街，淹水 https://www.gjtaiwan.com/new/?p=30379
+- 1970 桃園 東門溪 淹水 https://www.facebook.com/share/p/1DCdHXMkCM/
 
 個別書籍影像翻拍
 - 臺北市區改正之前一張淹水照片 https://photos.app.goo.gl/V5ik58LRdJLMgNuQA
