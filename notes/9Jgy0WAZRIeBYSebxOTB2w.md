@@ -3,11 +3,20 @@ tags: FtO, RightsCon, g0v-intl
 ---
 # FtO session at RightsCon (RC) 2025
 
-## RightsCon 2025
-Feb 24-27 2025, Taipei International Convention Center (TICC)
+## Info
+### Session I
+### RightsCon 2025
+- Feb 24-27 2025
+- Taipei International Convention Center (TICC)
 
 ## Todo list for speakers and facilitator
 
+- [ ] Plan travel + hotel early
+    - [ ] @mami - I live in Osaka/Tokyo and will go from KIX or HND
+    - [ ] @eunsoo
+    - [ ] @klou
+    - [ ] @nao
+    - [x] @chihao - I live in Taipei :)
 - [x] Update session info ==must before Oct 13==
     - [x] Confirm speakers
         - [x] Nao (Confirmed!)
@@ -33,12 +42,6 @@ Feb 24-27 2025, Taipei International Convention Center (TICC)
     - [x] @klou -50% or 75 - 24534RC75
     - [x] @nao -100% - 24534RC100
     - [x] @chihao
-- [ ] Plan travel + hotel early
-    - [ ] @mami - I live in Osaka/Tokyo and will go from KIX or HND
-    - [ ] @eunsoo
-    - [ ] @klou
-    - [ ] @nao
-    - [x] @chihao - I live in Taipei :)
 
 ## Timeline
 
