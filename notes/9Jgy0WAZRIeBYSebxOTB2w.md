@@ -1,12 +1,17 @@
 ---
 tags: FtO, RightsCon, g0v-intl
 ---
-# FtO session at RightsCon (RC) 2025
+# FtO session at RightsCon 2025
 
 ## Info
-### Session I
+### 5 Years Facing the Ocean: Advancing Rights to Information, Gender Equality, Youth Engagement in East-Asia
+
+- Time (tentative): Tuesday Feb 25
+
+
 ### RightsCon 2025
-- Feb 24-27 2025
+
+- Feb 25-27 2025
 - Taipei International Convention Center (TICC)
 
 ## Todo list for speakers and facilitator
