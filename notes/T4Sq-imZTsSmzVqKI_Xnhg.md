@@ -20,6 +20,7 @@ tags: 詐騙
 - Eventbrite https://www.facebook.com/share/p/15GezeYHw5/
 - 迷因幣詐騙
 https://ec.ltn.com.tw/article/breakingnews/4900354
+- 利用同情心與情感的詐騙。常見劇本：https://xrex.io/zh/xrex-anti-fraud-scamming-through-emotional-manipulation-zh/
 
 ## 專案
 
