@@ -56,7 +56,7 @@ Google Map：https://g.co/kgs/bdjrteH
 
 ## 專案頻道
 
-g0v Slack #
+g0v Slack #dada
 
 加入方式：https://g0v.hackmd.io/@jothon/joing0vslack
 
