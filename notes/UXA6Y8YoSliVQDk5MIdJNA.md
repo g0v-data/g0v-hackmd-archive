@@ -4,7 +4,7 @@ Cá cược thể thao trực tuyến luôn là một lĩnh vực thu hút rất
 
 ## Lý Do Nên Chọn Cá Cược Thể Thao Tại Kuwin
 
-Cổng game **[8kuwin.me](https://98win.green/)** không chỉ nổi bật nhờ vào giao diện đẹp mắt và dễ sử dụng mà còn bởi những tính năng chuyên nghiệp hỗ trợ người chơi cá cược thể thao một cách tối ưu. Đầu tiên, chúng tôi sẽ giới thiệu một số lý do khiến nền tảng này thu hút sự quan tâm của hàng triệu người chơi trên toàn thế giới.
+Cổng game **[8kuwin.me](https://8kuwin.me/)** không chỉ nổi bật nhờ vào giao diện đẹp mắt và dễ sử dụng mà còn bởi những tính năng chuyên nghiệp hỗ trợ người chơi cá cược thể thao một cách tối ưu. Đầu tiên, chúng tôi sẽ giới thiệu một số lý do khiến nền tảng này thu hút sự quan tâm của hàng triệu người chơi trên toàn thế giới.
 
 ### Giao Diện Thân Thiện và Dễ Dàng Dùng
 

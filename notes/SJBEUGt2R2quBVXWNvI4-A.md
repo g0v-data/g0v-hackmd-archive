@@ -4,7 +4,7 @@ Kuwin đang ngày càng trở thành một nhà cái cá cược trực tuyến 
 
 ## Quy Trình Rút Tiền Kuwin Đơn Giản
 
-[Kuwin](https://98win.green/) cung cấp nhiều phương thức rút tiền thuận tiện cho người chơi. Quy trình rút tiền tại nhà cái này khá đơn giản và nhanh chóng, nhưng để đảm bảo mọi việc diễn ra suôn sẻ, bạn cần thực hiện đúng các bước theo hướng dẫn sau:
+[Kuwin](https://8kuwin.me/) cung cấp nhiều phương thức rút tiền thuận tiện cho người chơi. Quy trình rút tiền tại nhà cái này khá đơn giản và nhanh chóng, nhưng để đảm bảo mọi việc diễn ra suôn sẻ, bạn cần thực hiện đúng các bước theo hướng dẫn sau:
 
 ### Đăng Nhập Vào Tài Khoản
 
