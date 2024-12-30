@@ -1,7 +1,7 @@
 
 Đăng ký tài khoản Ku11 nhanh chóng
 1. Cách đăng ký tài khoản Ku11 một cách nhanh chóng và đơn giản
-Để đăng ký tài khoản Ku11 một cách nhanh chóng, truy cập vào trang chính thức của <a href="https://ku11.fashion/">Ku11 </a> và chọn mục "Đăng ký".
+Để đăng ký tài khoản Ku11 một cách nhanh chóng, truy cập vào trang chính thức của Ku11  và chọn mục "Đăng ký".
 Sau đó, bạn sẽ được yêu cầu điền đầy đủ thông tin cá nhân như tên, số điện thoại, địa chỉ email và mật khẩu. Hãy chắc chắn rằng các thông tin bạn nhập vào là chính xác để tránh rắc rối sau này.
 Tiếp theo, bạn chỉ cần nhấn vào nút "Đăng ký" và chờ đợi xác nhận từ hệ thống. Sau khi xác nhận thành công, bạn đã có thể sử dụng tài khoản Ku11 để tham gia các trò chơi và cược trực tuyến.
 Đừng quên kiểm tra email để xác nhận đăng ký và nhận thông tin về các chương trình khuyến mãi và ưu đãi hấp dẫn từ Ku11.
@@ -25,13 +25,7 @@ Với những bước đơn giản trên, bạn sẽ có thể tạo tài khoả
 5. Chờ xác nhận từ hệ thống và sau đó bạn đã có thể đăng nhập vào tài khoản của mình.
 Với các bước đơn giản như vậy, bạn đã có thể sở hữu một tài khoản trên Ku11 để tham gia các trò chơi và dịch vụ giải trí trực tuyến.
 Hãy thử đăng ký ngay hôm nay để trải nghiệm những trò chơi hấp dẫn và thú vị trên Ku11!
-<a href="https://ku11.fashion/">Ku11 </a> là thương hiệu nhà cái cá cược trực tuyến số 1 hiện nay. Cung cấp kho trò chơi như: thể thao, casino trực tuyến, slot, xố số,... Với giao diện đẹp mắt cùng với chế độ bảo mật cao, Ku11 net đã thu hút lượng người chơi đông đảo hàng đầu Việt Nam.
 
-LIÊN HỆ
- Địa chỉ: 77A P. Thợ Nhuộm, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội
- Hotline: 0906296175
- Email: ku11fashion@gmail.com
-CEO Ku Văn Bet
 
 
 Đọc thêm: <a href="https://ku11.fashion/gioi-thieu/">giới thiệu ku11 uy tín</a>
