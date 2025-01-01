@@ -208,6 +208,9 @@ https://www.facebook.com/share/p/8EB4EtTNNQV419Ra/
 1951 花蓮地震，鐵軌變形
 https://www.facebook.com/share/p/G2k5cYgGTyRetwJp/
 
+1966 基隆 漁船躲避颱風
+https://www.facebook.com/share/p/1ApXwvuKgp/?mibextid=wwXIfr
+
 1990 銅門
 https://www.facebook.com/share/p/LoiwMXtS6ySBnJhC/
 
