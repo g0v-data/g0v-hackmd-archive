@@ -87,6 +87,9 @@ g0v Slack #dada
 
 ## 活動流程
 
+提案列表
+https://docs.google.com/spreadsheets/d/15A71Y4Gy4hi2PFwmAENdZojiZR12s1nulCNHKY2ZTjc/edit
+
 - 13:00-13:10 報到，認識場地
 - 13:10-13:30 今日活動說明
 - 13:30-16:30 工作時間
