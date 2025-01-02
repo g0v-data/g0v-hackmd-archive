@@ -21,6 +21,7 @@ tags: 詐騙
 - 迷因幣詐騙
 https://ec.ltn.com.tw/article/breakingnews/4900354
 - 利用同情心與情感的詐騙。常見劇本：https://xrex.io/zh/xrex-anti-fraud-scamming-through-emotional-manipulation-zh/
+- 收到莫名其妙的包裹： https://www.facebook.com/Translocal393/posts/pfbid02YLdjU25dJvT7aQybUyfD3S5d3DazK7ZAQKRsD4Fb4nsPh5FUJ5YWvFA7fKiNcHecl?locale=zh_TW
 
 ## 專案
 
@@ -62,6 +63,11 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 - https://dlacp.gov.taipei/cp.aspx?n=2DE8CDCF6C2A7528
 - 7-11 https://help.shopmore.com.tw/#
 - https://www.youtube.com/watch?v=t7T0TYA3Igs
+
+### 社區大學防詐騙課程
+
+- 2025 年北投社區大學課程，蠻有巧思結合生活場域與詐騙議題面向，參訪地方廣播電台認識電台詐騙、走訪臺灣銀行認識金融詐騙、走訪西門町認識援交詐騙、參觀司法院認識司法程序、走訪媽媽嘴咖啡店了解犯罪事件現場、走訪高齡社區認識高齡者的生活世界與受騙風險、走訪農禪寺洗滌身心靈
+    - https://bt.btcc.org.tw/course/m_course_detail.php?u=e07961ce10eb5fbc0bf22c7d05d218dc&fbclid=IwZXh0bgNhZW0CMTAAAR1OLlmjgYsEFuK-oS3wNTA1vBPVD2nRTHmcvwmhhsFWX7x2B0NsQu7fxRE_aem_03ARkAobHWDLz6XCTsMy0A
 
 ### 待分類
 
