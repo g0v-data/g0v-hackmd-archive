@@ -246,10 +246,15 @@ http://blog.g0v.tw => http://g0vtw.logdown.com/
 帳號：[g0vtw](https://twitter.com/g0vtw)
 管理員成員：clkao, ronnywang, b3ssle, ipa, chihao
 
-chihao 2022/2/28: [Twitter Teams](https://help.twitter.com/en/using-twitter/tweetdeck-teams) 功能分 3 級，需要進一步釐清權限
-- Owner: null
-- Admin: bess, clkao, ronnywang
-- Contributor: chihao, pm5
+~~chihao 2022/2/28: [Twitter Teams](https://help.twitter.com/en/using-twitter/tweetdeck-teams) 功能分 3 級，需要進一步釐清權限~~
+- ~~Owner: null~~
+- ~~Admin: bess, clkao, ronnywang~~
+- ~~Contributor: chihao, pm5~~
+Ronny 2025/1/2:
+- tweetdeck 已經失效多年，現在改用 delegate 功能
+    - 只能 5 個 delegate
+- owner: ronnywang, clkao
+- member: Yi, fanlan, tiff
 
 成立背景：clkao 開設
 使用方式：由 jothon & g0v-intl 共同經營，以發外文推為主
