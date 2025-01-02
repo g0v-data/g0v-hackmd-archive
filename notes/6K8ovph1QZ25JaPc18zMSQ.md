@@ -1,0 +1,6 @@
+<figure class="image" data-ckbox-resource-id="hdibFC_W4_hC">
+ <img src="https://ckbox.cloud/b2637e329908409a330e/assets/hdibFC_W4_hC/images/500.jpeg" width="500" height="177">
+   
+</figure>
+<span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">IOSBET telah menjadi salah satu bandar slot online terpercaya yang banyak diperbincangkan di dunia permainan slot online. Lihat selengkapnya&nbsp;</span></span><a style="text-decoration:none;" target="_blank" rel="noopener noreferrer" href="https://www.monsterjail.com"><span style="background-color:transparent;color:#1155cc;font-family:Arial,sans-serif;font-size:11pt;"><span style="-webkit-text-decoration-skip:none;font-style:normal;font-variant:normal;font-weight:400;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre-wrap;"><u>https://www.monsterjail.com</u></span></span></a><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">.</span></span>
+</p>

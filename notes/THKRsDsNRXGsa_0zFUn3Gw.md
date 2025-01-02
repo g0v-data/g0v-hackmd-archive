@@ -15,10 +15,11 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
 ## 發文流程
 
 1. 將欲發文章依照格式貼入[編輯台](https://docs.google.com/document/d/1e16R3Issef1qk0eyb3NyMN_4CLYt2kmq_Mt-ElWlVf4/edit#)
-2. 於 g0v slack #sns 發文 ，貼上文章連結，並 tag reviewer 2-3 位（24 小時內文章上線需要 3 位）
+2. 於 g0v slack #sns 發文 ，貼上文章連結，並 tag reviewer 2-3 位（24 小時內文章上線需要 3 位），也需要徵求 Editor 執行張貼發文工作
 > Reviewer 請用[抽籤器](https://ronny.tw/g0v-sns/)抽出後，前 2-3 位即是該篇文章的 reviewer，請欲發文者 tag reviewer 
-3. 確認被抽中的 reviewer 看過無誤後，其中有 FB 權限的 reviewer 會幫忙貼上 FB 設定排程
+3. 確認被抽中的 reviewer 進行內容檢視
 4. 到[編輯紀錄](https://docs.google.com/spreadsheets/d/1xyxYGKU7iia3xSu6rF9F6YCcXOcEqrFsI2RD493bAxE/edit#gid=1776966921)更新本次的 review 狀況，或是 SNS Google Doc 內文中列出 reviewer
+5. 由可以協助發文的 Editor (FB, IG, Twitter) 執行張貼發文
 
 ## 雲端硬碟
 
@@ -62,7 +63,9 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
 :::info
 **2024/10/15 更新**
 - FB 編輯名單：Ronny, 張智仁, Yi, Peace, Lisa, 大助, Tiff, tmonk, ipa, clkao, chihao, Vivian Wu
-- 新增 Vivian Wu [討論記錄](https://g0v-slack-archive.g0v.ronny.tw/index/channel/CPKVDVD88/2024-10#ts-1728464691.086339)
+    - 新增 Vivian Wu [討論記錄](https://g0v-slack-archive.g0v.ronny.tw/index/channel/CPKVDVD88/2024-10#ts-1728464691.086339)
+- [待確認] Twitter 編輯名單：clkao, ronnywang, tiff, yi, 繁嵐
+- [待確認] IG 編輯名單：ronnywang, tiff, chihao, Yi, 繁嵐
 :::
 
 ## 2023/10/15
@@ -87,7 +90,7 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
     - 在 [sns 編輯台](https://docs.google.com/document/d/1e16R3Issef1qk0eyb3NyMN_4CLYt2kmq_Mt-ElWlVf4/edit#heading=h.u8otrrmws50z) 增加 g0v.tw IG 帳號的欄位，若有人填寫，將協助發文，並轉發限動。
     - Editor 發文：
         - 流程：
-        (1) 若之後 review 完（reviewer 集滿兩位同意，或 24h 內發文需集滿三位 reviewer 同意），請 ==申請者== 在 slack 貼文下方，標註**三位職工**（@Tiff、@Ying、@YI HUANG）**或其他 Editor** 協助發文。
+        (1) 若之後 review 完（reviewer 集滿兩位同意，或 24h 內發文需集滿三位 reviewer 同意），請 ==申請者== 在 slack 貼文下方，標註**揪松職工**（@）**或其他 Editor** 協助發文。
         (2) 請確定協助發文的 Editor 在該篇 Slack 貼文下方留言，確保有人協助發文，也方便清楚認領發文的 Editor 是誰。
 **範例：Tiff 來發文**
         (3) 請 ==申請者== 在 [g0v SNS 治理紀錄 Submissions 分頁](https://docs.google.com/spreadsheets/d/1xyxYGKU7iia3xSu6rF9F6YCcXOcEqrFsI2RD493bAxE/edit#gid=1776966921) 除了記錄 reviewer 之外，也請記錄是由哪位職工或 Editor 發文。
