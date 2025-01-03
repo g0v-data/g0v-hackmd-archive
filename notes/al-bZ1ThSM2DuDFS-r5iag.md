@@ -32,6 +32,7 @@ tags: GIS
 - 大雪山森林遊樂區遊客中心 https://www.facebook.com/groups/birdwindowcollision/posts/1367090184006435/
 - 觀霧遊客中心 https://www.facebook.com/share/p/ok24n2ZeVAYDhiNd/
 - 阿里山 https://www.facebook.com/share/p/eAJscfGi1jRdzLMR/
+- 偉倫咖啡廳 https://www.facebook.com/share/p/19bvuSjmkj/
 - 中興大學 https://www.facebook.com/share/p/3xcNeh5V9TvbV9QH/
 - 臺南高鐵天橋 https://www.facebook.com/share/p/19Sry8gRZA/
 - 雄女 https://www.facebook.com/groups/birdwindowcollision/posts/1363931294322324/
