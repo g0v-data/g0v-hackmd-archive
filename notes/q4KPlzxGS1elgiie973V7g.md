@@ -1,4 +1,4 @@
-# 「區塊鏈到底是什麼」親友懶人包
+# 加密貨幣親友懶人包
 
 ![](https://g0v.hackmd.io/_uploads/Byun3P88Jx.png)
 https://dashing-semolina-70889e.netlify.app/
