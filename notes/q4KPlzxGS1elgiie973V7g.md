@@ -1,6 +1,10 @@
 # 「區塊鏈到底是什麼」親友懶人包
 
+![](https://g0v.hackmd.io/_uploads/Byun3P88Jx.png)
+https://dashing-semolina-70889e.netlify.app/
+
 坑主：Tofus
+特別感謝：k66, asuka
 
 ## 為什麼有這個專案？
 簡單來說就是因為身邊有一些大學生朋友跑來問我加密貨幣怎麼投資的時候，我都會問他們「所以你知道區塊鏈的運作原理嗎？」
@@ -102,3 +106,16 @@
     c. 避免輸入個資或其他敏感資訊
     d. 小香覺得沒辦法，就放棄了ＱＱ
 正確答案：d
+
+## 目前成果
+
+![](https://g0v.hackmd.io/_uploads/SJu8nDLL1x.png)
+https://dashing-semolina-70889e.netlify.app/
+
+![](https://g0v.hackmd.io/_uploads/Byun3P88Jx.png)
+
+![](https://g0v.hackmd.io/_uploads/S16a3vI81x.png)
+
+![](https://g0v.hackmd.io/_uploads/HJJbaPII1g.png)
+
+![](https://g0v.hackmd.io/_uploads/SyPm6wUUkl.png)

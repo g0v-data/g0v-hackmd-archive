@@ -1,7 +1,7 @@
-[789club hiện đang là cổng game đổi thưởng hàng đầu tại Việt Nam, thu hút cộng đồng đông đảo với hàng triệu người chơi cùng lúc. Nơi đây quy tụ rất nhiều trò chơi hấp dẫn như Tài Xỉu, Xóc Đĩa, Sicbo, Bắn Cá, Cá Cược Thể Thao, Lô Đề và nhiều tựa game khác. Với giao diện hiện đại, mượt mà cùng các tính năng đổi thưởng nhanh chóng, 789club cam kết mang đến trải nghiệm tuyệt vời cho mọi game thủ.
+<a href="https://12play.us/">12play</a>  – Thiên đường game bài đổi thưởng. Với kho game bài đa dạng và phong phú như game bài, bầu cua, tài xỉu, bắn cá … 12play sẽ đáp ứng mọi nhu cầu của bạn. Tham gia cộng đồng 12play để kết nối với hàng ngàn game thủ khác. Nạp rút nhanh chóng, an toàn và bảo mật tuyệt đối. Tham gia ngày để mang về những phần thưởng hấp dẫn.
 Thông tin liên hệ:
-Website: https://789club.menu/
-Địa chỉ: 77B Hoàng Văn Thụ, Phường 15, Phú Nhuận, Hồ Chí Minh, Việt Nam
-Phone: 0838443120
-Email: 789clubmenu@gmail.com
-#789club #789 #789clubmenu #game789club #tai789club](https://g0v.hackmd.io/s/rJVJtC4Ukg)
+Website: <a href="https://12play.us/">https://12play.us/</a>
+Địa chỉ: 332 Nguyễn trọng tuyển, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam
+Phone: 0388600217
+Email: contact@12play.us
+Hashtag: #12playus #12play #link12play #tai12play

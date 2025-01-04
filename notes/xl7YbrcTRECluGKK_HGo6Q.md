@@ -163,6 +163,8 @@ Already implemented in https://github.com/cofacts/open165/pull/9
   - 例：https://165.g0v.tw/host/cofacts.tw 
     - 整合文案與其他資訊，有機會在 165 公告前在這樣的頁面上提供詐騙資訊 [name=mrorz]
     - 目前設計上 165 公告的比例比較少
+    - 調整了一下 Figma![](https://g0v.hackmd.io/_uploads/S1cDEdIIJx.png)
+
 - Paul
   - https://165dashboard.tw/city-case-summary 這個是真實案例改寫的沒錯
   - 二次詐騙者的 IP?

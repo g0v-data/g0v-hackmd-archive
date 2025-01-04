@@ -23,7 +23,7 @@
          - 已人工爬出 2 個 Miffy 影片，並收錄至下方列表
 - g0v-design 第零次設計松 	2015/01/31 10:00(+0800)~18:00
   - [hackpad](https://g0v.hackpad.tw/g0v-design--7ndCfX4RoBm)
-  -［草擬](https://g0v.hackpad.tw/0qqoIcDMCLJ)
+    -［草擬](https://g0v.hackpad.tw/0qqoIcDMCLJ)
 - g0v.tw hackath11n | 台灣零時政府第拾壹次開放報禁黑客松 	2014/12/20 09:00(+0800)~18:00
     - [g0v.tw hackath11n | 台灣零時政府第拾壹次開放報禁黑客松(hackpad版本)](https://beta.hackfoldr.org/g0v-hackath11n) 
 - g0v Summit 2014 - Conference - VIP and Early Bird 	2014/11/08 09:00(+0800)~17:00
@@ -55,6 +55,10 @@
 
 ## 或許可以用的資源
 
--  [零時政府專案列表](https://tomliau33.github.io/G0vProjectList/)
+- [零時政府專案列表](https://tomliau33.github.io/G0vProjectList/)
+- [RONNY 大大的 GITHUB備份](https://github.com/g0v-data/g0v-hackmd-archive)
+- [Miffy's LinkedIn](https://www.linkedin.com/in/%E6%A2%85%E6%85%A7-%E9%99%B3-a75340181/)
 
--  [RONNY 大大的 GITHUB備份](https://github.com/g0v-data/g0v-hackmd-archive)
+
+## 其他發現
+- Hackpad 存檔頁面中有許多其他 hackpad 連結已失效，但是只要進入編輯模式，將網址從 "g0v.hackpad.com" 改成 "g0v.hackpad.tw"，它就復活了！
