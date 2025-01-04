@@ -2,7 +2,7 @@
 tags: cofacts, 詐騙, 165, open data, SEO
 ---
 
-# Open165 反詐騙 - 假網站公告搜尋引擎最佳化
+# Open165 反詐筆記 - 詐騙網站公告搜尋引擎最佳化
 
 ## 看到的問題
 
@@ -68,28 +68,44 @@ name detail 「OO 是詐騙嗎」tab 中可以放：
   - 也說明：無論有沒有拿回來，赴警局交付證物也是有幫助的
 
 ### Brainstorming
-- 「類似名字」、「類似網域」的 retrieval：
-    :::success
-    Already implemented in https://github.com/cofacts/open165/pull/9
-    :::
-  - 因為一定很多「投資」等常用字，用向量做或只用 term frequency 做效果一定爛。搜尋一定要用 TF-IDF 來避開常用字。
-  - D1 supports virtual tables for full-text search using SQLite’s FTS5 module [source](https://developers.cloudflare.com/d1/build-with-d1/import-export-data/); [discussion](https://community.cloudflare.com/t/d1-support-for-virtual-tables/607277)
-  - 其他支援 TF-IDF 的有：
-    - Zinc https://github.com/zincsearch/zincsearch?tab=readme-ov-file
-    - Quickwit https://github.com/quickwit-oss/quickwit
-      - 介紹人：https://grafbase.com/blog/serverless-search-in-rust
-    - Edgesearch https://github.com/wilsonzlin/edgesearch
-    - Comparisons: https://prabhatsharma.in/blog/in-search-of-a-search-engine-beyond-elasticsearch-introducing-zinc/
+
+#### 「類似名字」、「類似網域」的 retrieval：
+:::success
+Already implemented in https://github.com/cofacts/open165/pull/9
+:::
+- 因為一定很多「投資」等常用字，用向量做或只用 term frequency 做效果一定爛。搜尋一定要用 TF-IDF 來避開常用字。
+- D1 supports virtual tables for full-text search using SQLite’s FTS5 module [source](https://developers.cloudflare.com/d1/build-with-d1/import-export-data/); [discussion](https://community.cloudflare.com/t/d1-support-for-virtual-tables/607277)
+- 其他支援 TF-IDF 的有：
+  - Zinc https://github.com/zincsearch/zincsearch?tab=readme-ov-file
+  - Quickwit https://github.com/quickwit-oss/quickwit
+    - 介紹人：https://grafbase.com/blog/serverless-search-in-rust
+  - Edgesearch https://github.com/wilsonzlin/edgesearch
+  - Comparisons: https://prabhatsharma.in/blog/in-search-of-a-search-engine-beyond-elasticsearch-introducing-zinc/
+
+#### 網站內文
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e30bee122297094e19936f5953486131.png)
+
 - 紀錄詐騙網站截圖：某種網站外觀可能是詐騙常用的，所以會長很像
   - 若要做使用者站內搜尋功能（可能產生 not found case），也可以用截圖外觀比對
 - 紀錄詐騙網站原始碼：可能詐騙集團抄來抄去，用的都是同一套 library 組合等等
     - 很多都 SPA，或許可以用 headless browser 抓 JS 啟動完成後的 HTML，用全文檢索處理
+- 詐騙網站 server header fingerprint - 可能不同網域都連到同一台機器
+- DNS records: txt records and stuff
+  - 1.1.1.1 provides JSON API https://developers.cloudflare.com/1.1.1.1/other-ways-to-use-1.1.1.1/dns-in-google-sheets/ and https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/make-api-requests/
+
+#### 其他
+
 - 官方澄清：某些網站名稱是被冒用，如果他們有官方澄清，那麼可以放在「OO 是詐騙嗎」分頁裡
     - 可能需要 crowd source
-- 詐騙網站 server header fingerprint - 可能不同網域都連到同一台機器
 - WHOIS / OSINT recon solutions
   - [whoiser](https://github.com/LayeredStudio/whoiser) 與[似乎能在 Cloudflare Worker 上跑的 hack](https://www.pudn.com/Download/item/id/1699851202973721.html)
+  - 只用 Cloudflare worker 支援的東西跑 whois https://github.com/abersheeran/http-whois/
   - FinalRecon's [whois command](https://github.com/thewhiteh4t/FinalRecon/blob/master/modules/whois.py#L39-L58)
+- 可疑網站資料爬取
+    - 資料來源：[數位發展部數位產業署聲請詐騙網域名稱停止解析網址清單](https://data.gov.tw/dataset/165027)
+    - Cloudflare worker 應該還是能爬得到內容，存檔下來有助於偵測新網站
+    - 先用現有資料判斷詐團是否會重複利用同一個網站
 
 ### 其他內容
 
@@ -98,7 +114,58 @@ name detail 「OO 是詐騙嗎」tab 中可以放：
 - about 本專案
 - 想一個不會被誤會成政府的 site name 擺在左上角。如 Open165 民間反詐騙？
 
+### 防詐文案來源
+
+- https://www.pocket.tw//EDM/anti_fraud/index.htm
+- whoscall 防詐小學堂
+
 ## 目前進度
+
+### 2025/1/4 第零次網路黑魔法防禦松
+
+> 提案投影片
+> https://docs.google.com/presentation/d/1QCkxgPHj-9XW0i_CxvhEotkE8fLkEBHMgH6lEUlFuHk/edit
+
+
+#### Open165
+
+- Harry: NextJS
+- SunSec: 比對技術協助
+  - 二次詐騙 blog ID
+  - LINE ID
+  - 豬仔是人工跟受害者對話
+  - 截圖顯示詐騙長怎樣
+    - urlscan
+- 煒翔：第一次參加
+- 皇甫：
+- Jimmy: vector DB 可以幫忙
+- Claire
+  - Xrex 金流文章
+  - 詐騙文本彙整，劇本整理
+  - Deepfake Elon Musk，如果有中文的話很有幫助
+  - 有寫如何防範，但其實都差不多
+  - 反詐文案可以 cite Xrex
+- Lucien：視覺切版 https://www.figma.com/design/Fqcv6KODgXFWyyjj1Ru9er/Open165?node-id=106-449
+  - 希望加一個共感的方式，互動，知道自己被詐騙的比例
+- Alan：找找看詐騙的同夥
+  - Infodemic
+- Dong：
+  - 蒐集疑似網域
+  - 例：https://165.g0v.tw/host/cofacts.tw 
+    - 整合文案與其他資訊，有機會在 165 公告前在這樣的頁面上提供詐騙資訊 [name=mrorz]
+    - 目前設計上 165 公告的比例比較少
+
+
+#### 其他討論
+
+
+
+### 2024/10/4 大松
+
+> https://g0v.hackmd.io/7UzK_kfzRWOcmJrXc7bxfA?view#Open1651
+> Figma by Chloe, Sylvia, Tofus: https://www.figma.com/design/Fqcv6KODgXFWyyjj1Ru9er/Open165?node-id=106-449
+
+
 
 ### 2024/8/04 COSCUP
 - Designers in Tech - Open Source Design Workshop
