@@ -134,7 +134,7 @@ Already implemented in https://github.com/cofacts/open165/pull/9
   - 二次詐騙 blog ID
   - LINE ID
   - 豬仔是人工跟受害者對話
-  - 截圖顯示詐騙長怎樣
+  - Open165 可以試著用網站截圖，顯示詐騙長怎樣，與官方 165 區隔
     - urlscan
 - 煒翔：第一次參加
 - 皇甫：
@@ -145,15 +145,28 @@ Already implemented in https://github.com/cofacts/open165/pull/9
   - Deepfake Elon Musk，如果有中文的話很有幫助
   - 有寫如何防範，但其實都差不多
   - 反詐文案可以 cite Xrex
-- Lucien：視覺切版 https://www.figma.com/design/Fqcv6KODgXFWyyjj1Ru9er/Open165?node-id=106-449
-  - 希望加一個共感的方式，互動，知道自己被詐騙的比例
+    - 被詐騙要怎麼報警
+  - 受害者如何 google 到？
+    - 抽取關鍵字
+    - 詢問是怎麼搜尋進來的
+  - 社群
+- 瀧 Lucien：視覺切版 https://www.figma.com/design/Fqcv6KODgXFWyyjj1Ru9er/Open165?node-id=106-449
+  - 希望加一個共感的方式，互動，知道自己被詐騙的比例，對社群有興趣
+    - IG 影片 --> 把流量導進來
+  - 符合性：部分符合、完全符合等，文本 / 網域 等等
 - Alan：找找看詐騙的同夥
   - Infodemic
+  - 每天 AI 生成新文章
+  - https://infodemic.cc/zh-hant/stories?uncover=troll
 - Dong：
   - 蒐集疑似網域
   - 例：https://165.g0v.tw/host/cofacts.tw 
     - 整合文案與其他資訊，有機會在 165 公告前在這樣的頁面上提供詐騙資訊 [name=mrorz]
     - 目前設計上 165 公告的比例比較少
+- Paul
+  - https://165dashboard.tw/city-case-summary 這個是真實案例改寫的沒錯
+  - 二次詐騙者的 IP?
+  - 撈撈看 [name=mrorz]
 
 
 #### 其他討論
