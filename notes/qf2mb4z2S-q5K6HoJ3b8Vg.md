@@ -97,6 +97,17 @@ https://docs.google.com/spreadsheets/d/15A71Y4Gy4hi2PFwmAENdZojiZR12s1nulCNHKY2Z
 
 ## 活動共筆
 
+### 本日提案列表
 
+#### 打詐獵人團	
 
+#### Open165 - Open165
 
+#### 「區塊鏈到底是什麼」- 親友懶人包
+
+#### vTaiwan 議題小聚 - 詐騙怎麼辦-意見徵集
+
+[2024台灣網路報告](https://report.twnic.tw/2024/)
+[打詐新四法](https://www.moj.gov.tw/2204/2795/2796/210451/post)
+
+#### Miffy 光明使 - 爬梳/繼承 Miffy 的專案與溫度
