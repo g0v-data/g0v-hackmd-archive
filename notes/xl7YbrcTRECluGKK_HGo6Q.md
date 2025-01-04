@@ -155,9 +155,10 @@ Already implemented in https://github.com/cofacts/open165/pull/9
     - IG 影片 --> 把流量導進來
   - 符合性：部分符合、完全符合等，文本 / 網域 等等
 - Alan：找找看詐騙的同夥
-  - Infodemic
-  - 每天 AI 生成新文章
-  - https://infodemic.cc/zh-hant/stories?uncover=troll
+  - 介面可以參考：Infodemic 
+      -  https://infodemic.cc/zh-hant/stories?uncover=troll
+      -  類似 哪些農場文 -> 誰操作 -> 在什麼平台 etc. 
+  - 每天 AI 生成新文章：利用CICD每天生成，類似內容農場的做法
 - Dong：
   - 蒐集疑似網域
   - 例：https://165.g0v.tw/host/cofacts.tw 
