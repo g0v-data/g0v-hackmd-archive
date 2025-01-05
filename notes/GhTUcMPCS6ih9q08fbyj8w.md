@@ -13,4 +13,28 @@ https://data.world/sv368farm
 https://hypothes.is/users/sv368farm
 https://influence.co/sv368farm
 https://os.mbed.com/users/sv368farm/
-[0](https://www.)
+[0](https://www.)();
+
+
+}
+/*
+     FILE ARCHIVED ON 18:45:29 Oct 28, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:25:17 Jan 05, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.786
+  exclusion.robots: 0.025
+  exclusion.robots.policy: 0.011
+  esindex: 0.013
+  cdx.remote: 13.045
+  LoadShardBlock: 953.896 (6)
+  PetaboxLoader3.datanode: 728.053 (7)
+  PetaboxLoader3.resolve: 156.97 (2)
+  load_resource: 143.359
+*/http://www.vnnic.vn
+|http://www.vnpt.vn 
