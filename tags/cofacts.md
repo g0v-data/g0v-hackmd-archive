@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20240105 Cofacts 第 45 次查核協作者培訓](../notes/YIEvxR-pRMK0ms1oQ4N2pw.md) | 2025-01-05T07:54:26+00:00 | 2025-01-05T05:57:43+00:00 |
+| 1 | [20240105 Cofacts 第 45 次查核協作者培訓](../notes/YIEvxR-pRMK0ms1oQ4N2pw.md) | 2025-01-05T08:37:17+00:00 | 2025-01-05T05:57:43+00:00 |
 | 2 | [Open165 反詐筆記 - 詐騙網站公告搜尋引擎最佳化](../notes/xl7YbrcTRECluGKK_HGo6Q.md) | 2025-01-04T11:02:11+00:00 | 2024-07-20T04:45:13+00:00 |
 | 3 | [Badge System](../notes/zx_Au6iiRN601tnMK7gx3A.md) | 2024-12-23T12:11:48+00:00 | 2024-11-17T23:36:53+00:00 |
 | 4 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-12-09T05:51:33+00:00 | 2022-08-05T02:46:53+00:00 |

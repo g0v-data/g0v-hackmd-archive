@@ -18,12 +18,13 @@ Ali
 uienwt 
 紫晴
 希瑜
+艾可
 
 
 bil
 文武
 orz
-
+18人參與
 ![](https://g0v.hackmd.io/_uploads/SJMVg3vU1g.jpg)
 
 
@@ -203,3 +204,19 @@ bil:
 撰寫新回應
 判斷事實與意見
 呈現回應的形式
+
+找出事實跟陳述
+其他人可以透過不同的內容找到網路上其他的想法
+前面提到的飛彈洗地論
+可以把軍事專家的想法提供導讀
+
+破題
+
+讓協作者認為自己做得到
+讓更多人來參與來做
+20分鐘練習
+
+![](https://g0v.hackmd.io/_uploads/SkgKtW6PLJg.png)
+
+
+
