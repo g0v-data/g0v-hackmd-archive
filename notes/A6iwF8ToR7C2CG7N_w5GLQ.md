@@ -34,6 +34,11 @@ echo 'export PATH=$PATH:/opt/mssql-tools18/bin' >> ~/.bashrc
 source ~/.bashrc
 ```
 
+* 使用碩昱提供的sql建立初始DB:
+ `cd "/home/puhui/tingShen/"`
+*  上傳.sql 並使用docker 傳到容器內
+`docker cp INIT_ITRI_PUHUI.sql mssql2022:/tmp/INIT_ITRI_PUHUI.sql`
+
 
 
 
