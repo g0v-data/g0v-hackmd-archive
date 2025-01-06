@@ -24,7 +24,15 @@ docker run -e "ACCEPT_EULA=Y" \
    --user root \
    -d mcr.microsoft.com/mssql/server:2022-latest
 ```
+*  ### 針對sqlcmd 信任問題(憑證)  在後面加上-C即可以受信任身分使用
+`docker exec -it mssql2022 /opt/mssql-tools18/bin/sqlcmd -S localhost -U SA -P "RrB)syvZA8]tyDb5=1jZ" -C`
 
+* 新增mssql-tools18至路徑
+```
+touch ~/.bashrc
+echo 'export PATH=$PATH:/opt/mssql-tools18/bin' >> ~/.bashrc
+source ~/.bashrc
+```
 
 
 
