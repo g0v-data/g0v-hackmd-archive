@@ -4,7 +4,8 @@ View the book with "<i class="fa fa-book fa-fw"></i> Book Mode".
 
 https://fontawesome.com/v4/icon/thermometer-quarter
 
-
+MsSql 部屬
+---
 *參考網頁:
 https://learn.microsoft.com/zh-tw/sql/linux/quickstart-install-connect-docker?view=sql-server-ver16&tabs=cli&pivots=cs1-bash*
 
@@ -34,11 +35,21 @@ echo 'export PATH=$PATH:/opt/mssql-tools18/bin' >> ~/.bashrc
 source ~/.bashrc
 ```
 
-* 使用碩昱提供的sql建立初始DB:
- `cd "/home/puhui/tingShen/"`
+## 使用碩昱提供的sql建立初始DB:
+*  `cd "/home/puhui/tingShen/"`
 *  上傳.sql 並使用docker 傳到容器內
 `docker cp INIT_ITRI_PUHUI.sql mssql2022:/tmp/INIT_ITRI_PUHUI.sql`
 
+* 進入MSSQL容器內 執行SQL(上面有新增路徑可直接使用sqlcmd，根據不同的.sql內容，有些前面加上USE ITRI_PUHUI   GO  選擇DB)
+`sqlcmd -S localhost -U SA -P "RrB)syvZA8]tyDb5=1jZ" -i /tmp/INIT_ITRI_PUHUI.sql -C`
+
+.net網頁部署流程
+---
+1. 先使用 git clone或 git pull 下載
+2. 載好進入 04.SourceCode 資料夾並執行</br> `tar -cvf folder.tar .\ITRI_PUHUI` </br> 將 ITRI_PUHUI 資料夾打包成 folder.tar
+3. 上到mobaxterm，如果有ITRI_PUHUI資料夾，</br> 先執行`rm -rf ITRI_PUHUI/` 移除，</br> 在執行`tar -xvf folder.tar` 解壓縮
+4. 在mobaxterm上進入ITRI_PUHUI資料夾，上傳寫好的</br>deploy_ITRI_PUHUI.sh檔，再進入ITRI_PUHUI.Web更</br>換裡面的appsetting.jason檔
+5. 回到ITRI_PUHUI資料夾，執行`source deploy_ITRI_PUHUI.sh`部署
 
 
 
