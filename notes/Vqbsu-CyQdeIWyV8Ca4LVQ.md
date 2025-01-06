@@ -1,4 +1,4 @@
-Job3s - Địa chỉ uy tín giúp bạn tìm việc làm miễn phí, phù hợp nhất. Nơi kết nối nhà tuyển dụng với ứng viên hiệu quả 24h. Mang đến cơ hội tìm việc miễn phí cho tất cả ứng viên
+Job3s.com.vn - Địa chỉ uy tín giúp bạn tìm kiếm việc làm nhanh chóng, phù hợp nhất. Nơi kết nối nhà tuyển dụng với ứng viên hiệu quả 24h. Mang đến cơ hội việc làm cho tất cả ứng viên
 
 Công ty: 3S Group
 Mã số thuế: 0110244425
