@@ -38,10 +38,15 @@ Implement the following endpoint using feTS & OpenAPI. The path hierarchy is des
     - POST `/badge/award`: for external source (i.e. TFC) to award a badge to a user through API.
         - `userId`
         - `badgeId`
-        - verify `requeat-user-id` vs issuer in `badges`
+        - verify `request.userId` vs issuer in `badges`
 
 - add `issuers` to `badges` for verify if the source match the authorized issuer.
-    - `issuers` should be array of string , for OpenAPI or feTS will using different `request-user-id`. 
+    - Get currently logged in user or service token with `request.userId`
+      - Each handler function in feTS gets a `request` object
+      - On staging & production environment, `useAuth` middleware under `src/adm/util` reads the access token from Cloudflare Access and populates `request.userId`
+      - If the admin user is logged in as a user, email is set to `request.userId`
+      - If the admin API is accessed via service token, the ID of the service token is used as `request.userId`
+    - On each Badge, `issuers` should be array of string , for OpenAPI or feTS will using different `request.userId`. 
     - change cofacts.cloudflare.com login id for EJ (to jhk482001@gmail.com)
 
 - badge image -> 200x200px is enough.
