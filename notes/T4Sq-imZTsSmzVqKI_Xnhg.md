@@ -72,6 +72,8 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 ### 金流追蹤 $
 - Miffy 整理的追金流方法 https://xrex.io/zh/xrex-report-taiwan-nth-room-analysis/
 - Claire 撰寫《靠自己就能揭穿詐騙集團！2024 四款必學幣流追蹤工具全解析》https://xrex.io/zh/4-must-learn-crypto-flow-tracking-tools-for-2024-zh/
+- 幣安 2024 年反詐騙退款計畫年終報告
+    - https://www.binance.com/zh-TC/blog/all/8565376682770785375
 - 玄米>「虛擬資產反洗錢協會」這個組織，他們在去年底也有為警政單位教授「幣流分析」的課程
 
 ### 私密影像外流防止

@@ -26,7 +26,6 @@ Once you've created a project, use the terminal to navigate into it by running:
 ```bash
 cd pull-to-refresh-app
 ``` 
-
 In this directory, there is a `src` folder where one can put your source code files. Assets are placed in a folder named `public`, and other configuration files are also located here. What we just did was set the project up for development purposes.
 
 ###  Tailwind Installation and Integration
