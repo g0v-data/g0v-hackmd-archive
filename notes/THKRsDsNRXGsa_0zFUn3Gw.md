@@ -35,6 +35,30 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
 ![](https://g0v.hackmd.io/_uploads/SJYYIyU41e.png)
 
 
+## 新增 editor 的流程
+
+### 第一步：完成公告與確認
+
+### g0v FB
+
+1. 申請者，提供申請者的個人 FB 帳號到 g0v slack #sns 頻道
+2. tag 現有的 editor，由現有的 editor 增加
+
+### g0v IG
+
+1. 申請者，tag 現有的 g0v IG editor
+2. 7 位現有的 g0v IG editor，把 申請者加入到 #s
+
+
+### g0v Twitter/X
+
+只有五位名額
+
+申請者要先開啟 可以被委派
+
+
+
+
 ## 討論區
 - 【已有草案方案，再寫到相關的文件位置】已發出的 sns，想修改內文
     - todo: 把 #sns 有蒐集到的流程建議，彙整至本頁面中
