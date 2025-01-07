@@ -7,6 +7,8 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 :::
 
 #### 常用連結
+04-D4-C4-57-62-AD
+
 Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
 O:\25資訊組\FPG\ERP\FPG.xlsx
 7-Zip https://www.7-zip.org/a/7z2301-x64.exe
