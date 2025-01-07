@@ -9,6 +9,18 @@ tags: design,
 歡迎使用共用資料夾，存放檔案
 https://drive.google.com/drive/folders/13rrzprPswRSWH9jqeeTt_H-h8O-dob-H
 
+## 摺頁 / 出版品
+
+g0v 外文文宣，日文、英文
+Content Credit: Peter / Design Credit: Tofus,Peter
+https://docs.google.com/presentation/d/1EFaqJX_S0E25kmFXimrkP5yIX9VihLNbJkRJFmt8yiQ/edit?usp=sharing
+
+## 簡報
+
+「專案圖鑑」簡報檔案
+https://docs.google.com/presentation/d/1S4rWtCGAe99Vy_bLd6CjuHtAdrCYzN1k7TqhIrG-u5g/edit
+
+
 ## 各種設計與圖像作品
 
 g0v Logo
@@ -25,7 +37,7 @@ https://g0v.hackmd.io/FiMmi2-bRsavQff8LZNvUQ
 問問看
 
 歷屆大松活動圖像
-揪松團整理
+- 揪松團整理
 
 賀年卡圖像 
 - 2019 開始 https://g0v.hackmd.io/@jothon/ry5TjRBhD?type=view
