@@ -59,6 +59,12 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
         - 20231122
             - https://g0v-slack-archive.g0v.ronny.tw/index/channel/CPKVDVD88/2023-11#ts-1700644906.904569
 
+## 2025/1/7 更新 
+- FB 編輯名單： Ronny, 張智仁, Yi, Peace, Lisa, 大助, Tiff, tmonk, ipa, clkao, chihao, Vivian Wu, Chewei　 
+- Twitter 編輯名單：clkao, ronnywang, chewei, ying, 繁嵐
+- IG 編輯名單：ronnywang, tiff, ying, chihao
+:::
+
 ## 2024/10/15
 :::info
 **2024/10/15 更新**
@@ -95,13 +101,6 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
 **範例：Tiff 來發文**
         (3) 請 ==申請者== 在 [g0v SNS 治理紀錄 Submissions 分頁](https://docs.google.com/spreadsheets/d/1xyxYGKU7iia3xSu6rF9F6YCcXOcEqrFsI2RD493bAxE/edit#gid=1776966921) 除了記錄 reviewer 之外，也請記錄是由哪位職工或 Editor 發文。
       - 考量隨 summit 時間將近，宣傳需求會提升，因此建議 summit 貼文直接由 summit editor 發文（包含 fb、ig、twitter），可以發文的時間會更有彈性且更即時。
-
-:::info
-
-**2025/1/7 更新**
-- 陳宏學, 陳人和, Lisa Lin-Kuanyu, Chia-liang Kao, 瞿筱葳, 謝長恩, Tiff, Ying, Yi Huang, Ronny Wang, Chihao, Chewei,　 
-- Twitter 編輯名單：clkao, ronnywang, tiff, ying
-- IG 編輯名單：ronnywang, tiff, ying, chihao:::
 
 **2023/8/28 更新**
 - FB 編輯名單：陳宏學, 陳人和, Lisa Lin-Kuanyu, Chia-liang Kao, 瞿筱葳, 謝長恩, Tiff, Ying, Yi Huang, Ronny Wang, Chihao
