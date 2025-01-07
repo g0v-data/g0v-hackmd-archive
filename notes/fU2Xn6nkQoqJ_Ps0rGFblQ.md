@@ -1,5 +1,6 @@
 # 2025/01/07
 * 會員還原的時候名子與統編沒有還原
+* 補充說明:再/app/wwwroot/TES/files/下面建立LoginUpload資料夾並在其中新增test-pdf.pdf檔
 
 # 11/28 碩昱自動化測試
 - [x] 刪除會員API key從uuid修改為從email判斷 並提供給碩昱(12/5)
