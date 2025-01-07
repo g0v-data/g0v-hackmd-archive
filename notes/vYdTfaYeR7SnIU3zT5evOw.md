@@ -327,16 +327,23 @@ HackMD-API	https://g0v.hackmd.io/api/overview
 g0v hackmd 是擁有獨立的 instance，所以 g0v hackmd 可以自行建立多個 team；建立 team 現在需要 instance 的超級管理員權限。
 
 目前的 Team 名單 (持續更新)
+- 請見：https://g0v.hackmd.io/zNfe2MGfTrWo_5GZI0E5pQ?view#Team-%E5%90%8D%E5%96%AE-%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0
 - summit2018
 - jothon
 - summit2020
+- int
 - podcast
 - g10v
 - da0
 - disfactory
 - fto
 - cofacts
+- china
 - summit2024
+- bayarea
+- pmpc
+- waytosafety
+- d2wg
 
 ### Team 的新增 / 修改設定 / 刪除機制
 

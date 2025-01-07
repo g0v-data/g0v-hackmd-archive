@@ -265,3 +265,15 @@ Step 7 點擊「團隊成員」
 - 申請人 Slack ID：rschiang
 - 聯絡人 Slack ID：rschiang, chihao, Jason致昕, pm5
 - 運用方法：https://g0v.hackmd.io/@d2wg/book/
+
+### dada
+- 申請日期：20250107
+- 申請名稱：dada
+- 專案簡介：
+    - 網路黑魔法防禦松的主題社群
+    - 20250104 舉辦第一場小松活動：https://g0v-jothon.kktix.cc/events/dadath0n
+    - Slack 頻道：#dada
+    - 預計用於[專案共筆](https://g0v.hackmd.io/@dada/book)與成果公布
+- 申請人 Slack ID：chewei
+- 聯絡人 Slack ID：chewei
+- 運用方法：https://g0v.hackmd.io/@dada/book/
