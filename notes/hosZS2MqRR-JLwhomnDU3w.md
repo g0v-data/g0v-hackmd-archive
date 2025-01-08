@@ -109,6 +109,8 @@ bookmode: 書本模式，收納hackmd、gdoc等線上文件
 - 0媒：溝通實體世界與虛擬世界陰陽兩隔的觀落陰人士。
 - 零時先輩：Mentor [更多介紹](https://g0v.hackmd.io/@jothon/Hy4QIkXh5)
 - [光譜標準：G0V – 常陳四（獵犬座β）](https://zh.wikipedia.org/wiki/%E6%81%92%E6%98%9F%E5%85%89%E8%B0%B1)
+- 分零體：
+    - chewei 看到 ipa 分享 美國矽谷灣區社群小聚活動照片 https://g0v-slack-archive.g0v.ronny.tw/index/channel/C05CPF3DG1E/2024-11#ts-1732036294.443069
 
 ## 語錄
 
