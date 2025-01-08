@@ -73,6 +73,9 @@ Goal: post on FtO channel; decide before RC
 - TW: Digital Ministry
 - Fundraising discussions during RC
     - Code for All funders [?]
+        - National Endowment for Democracy(NED) 
+        - National Institute for Democracy（NID）
+        - ePanstwo Foundation (Fiscal Sponsor)
     - g0v Summit funders
         - Luminate [name=pm5]
     - Westminster Foundation for Dem (in Taipei)

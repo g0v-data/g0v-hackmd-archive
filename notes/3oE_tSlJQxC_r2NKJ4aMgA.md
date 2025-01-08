@@ -1,4 +1,4 @@
-<a href="https://kg88.gives/">KG88</a> là một nhà cái trực tuyến nổi bật trong lĩnh vực cá cược thể thao và game giải trí tại Việt Nam. Với nền tảng hiện đại, KG88 cung cấp cho người dùng nhiều loại hình cá cược đa dạng, bao gồm cá cược thể thao, casino trực tuyến, và các trò chơi điện tử hấp dẫn.
+> <a href="https://kg88.gives/">KG88</a> là một nhà cái trực tuyến nổi bật trong lĩnh vực cá cược thể thao và game giải trí tại Việt Nam. Với nền tảng hiện đại, KG88 cung cấp cho người dùng nhiều loại hình cá cược đa dạng, bao gồm cá cược thể thao, casino trực tuyến, và các trò chơi điện tử hấp dẫn.
 Thông tin liên hệ:
 Địa chỉ: 82 Đặng Văn Ngữ, Khuê Trung, Cẩm Lệ, Đà Nẵng, Việt Nam
 SĐT: 091 276 0451
