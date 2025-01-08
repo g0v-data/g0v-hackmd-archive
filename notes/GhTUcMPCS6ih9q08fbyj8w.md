@@ -1,4 +1,6 @@
-* 1. - [ https://www.Google.com.vn ] ```
+```
+
+```* 1. - [ https://www.Google.com.vn ] ```
 * 
 * ```SV368 là một trang web cá cược trực tuyến nổi tiếng với các dịch vụ cá cược thể thao, casino trực tuyến và đặc biệt là đá gà Thomo.
 * Thông tin chi tiết:
@@ -58,7 +60,7 @@
 * Trung Quốc , [ h ] tên chính thức là Cộng hòa Nhân dân Trung Hoa ( PRC ), [ i ] là một quốc gia ở Đông Á . Với dân số trên 1,4 tỷ người, đây là quốc gia đông dân thứ hai sau Ấn Độ , chiếm 17,4% dân số thế giới. Trung Quốc trải dài tương đương với năm múi giờ và có biên giới với mười bốn quốc gia trên đất liền [ j ] trên một diện tích gần 9,6 triệu kilômét vuông (3.700.000 dặm vuông), khiến nước này trở thành quốc gia lớn thứ ba theo tổng diện tích đất liền. [ k ] Đất nước này được chia thành 33 đơn vị hành chính cấp tỉnh : 22 tỉnh , [ l ] năm khu tự trị , bốn thành phố trực thuộc trung ương và hai đặc khu hành chính bán tự trị . Bắc Kinh là thủ đô của đất nước, trong khi Thượng Hải là thành phố đông dân nhất theo diện tích đô thị và là trung tâm tài chính lớn nhất .
 * 
 * Cộng hòa Nhân dân Trung Hoa
-* 中华人民共和国 ( tiếng Trung )
+*[[ 中华人民共和国 ( tiếng Trung )
 * Zhōnghuá Rénmín Gonghéguó  ( bính âm )
 * Cờ của Trung Quốc
 * Lá cờ
@@ -124,7 +126,7 @@
 * Giảm trung tính1.409.670.000 [ 9 ] ( thứ 2 )
 * • Tỉ trọng
 * 145 [ 10 ] /km 2 (375,5/dặm vuông) ( thứ 83 )
-* GDP  ( PPP )
+> * GDP  ( PPP )
 * ước tính năm 2024
 * • Tổng cộng
 * Tăng37,072 nghìn tỷ đô la [ f ] [ 11 ] ( 1st )
@@ -150,8 +152,8 @@
 * +852 (Hồng Kông)
 * +853 (Ma Cao)
 * Mã ISO 3166
-* CN
-* Tên miền Internet
+* <P {{{{  (CN.``>
+* Tên miền Inter[[~~~~net
 * .cn.Trung Quốc.Trung Quốc (đại lục)
 * .hk.香港(Hồng Kông)
 * .mo.Hàng hóa.澳門(Ma Cao)
