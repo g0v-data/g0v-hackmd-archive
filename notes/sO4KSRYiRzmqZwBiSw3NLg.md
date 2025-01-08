@@ -67,5 +67,8 @@ https://drive.google.com/drive/folders/1jl0OZK3FoG-UF_dNJkyCnsTI5NP8rZuz?usp=dri
 
 ## 照片類
 
-Flickr
+挑選過的照片，放在以下簡報中
+https://docs.google.com/presentation/d/1mgtbmHB9u0JeU3GAOL1ONXXJSmqDPaBTi8fo2ExgfLU/edit?usp=sharing
+
+Flickr 相簿
 https://www.flickr.com/photos/g0v/albums/
