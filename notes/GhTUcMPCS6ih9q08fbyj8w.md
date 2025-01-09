@@ -1,4 +1,4 @@
-1. ```
+* 1. > 1. ~~~~```</erf> ----> .cn
 
 ```* 1. - [ https://www.Google.com.vn ] ```
 * 
@@ -74,7 +74,7 @@
 * Bắc Kinh
 * 39°55′B 116°23′Đ
 * Thành phố lớn nhất theo ranh giới đô thị
-* Trùng Khánh [ '''a'''' ](/evVUJDMqQ5e0iNS4ukwIeQ)
+* Trùng Khánh [ '''a'''' ](/evVUJDMqQ5e0iNS4ukwIeQ) <p
 * Thành phố lớn nhất theo dân số đô thị
 * '''Thượng Hải'''
 * Ngôn ngữ chính thức
@@ -126,7 +126,8 @@
 * Giảm trung tính1.409.670.000 [ 9 ] ( thứ 2 )
 * • Tỉ trọng
 * 145 [ 10 ] /km 2 (375,5/dặm vuông) ( thứ 83 )
-> * GDP  ( PPP )
+* > * {{{<P.'''gov''' |[[ https://www.internet.gov.cn |{{{0}}} 
+ |   GDP  ( PPP )
 * ước tính năm 2024
 * • Tổng cộng
 * Tăng37,072 nghìn tỷ đô la [ f ] [ 11 ] ( 1st )
@@ -153,12 +154,12 @@
 * +853 (Ma Cao)
 * Mã ISO 3166
 * <P {{{{  (CN.``>
-* Tên miền Inter[[~~~~net
+* Tên miền Inter [[https://www.~~~~net]]
 * .cn.Trung Quốc.Trung Quốc (đại lục)
 * .hk.香港(Hồng Kông)
 * .mo.Hàng hóa.澳門(Ma Cao)
 * Trung Quốc được coi là một trong những cái nôi của nền văn minh : những cư dân đầu tiên của loài người trong khu vực đã đến đây vào thời kỳ đồ đá cũ . Vào cuối thiên niên kỷ thứ 2 trước Công nguyên, các quốc gia triều đại đầu tiên đã xuất hiện ở lưu vực sông Hoàng Hà . Thế kỷ thứ 8 đến thế kỷ thứ 3 trước Công nguyên chứng kiến sự sụp đổ trong quyền lực của nhà Chu , cùng với sự xuất hiện của các kỹ thuật hành chính và quân sự, văn học , triết học và sử học . Vào năm 221 trước Công nguyên, Trung Quốc đã thống nhất dưới thời một hoàng đế , mở ra hơn hai thiên niên kỷ của các triều đại đế quốc bao gồm Tần , Hán , Đường , Nguyên , Minh và Thanh . Với phát minh ra thuốc súng và giấy , sự ra đời của Con đường tơ lụa và việc xây dựng Vạn Lý Trường Thành , văn hóa Trung Quốc đã phát triển mạnh mẽ và ảnh hưởng mạnh mẽ đến cả các nước láng giềng và vùng đất xa hơn. Tuy nhiên, Trung Quốc bắt đầu nhượng lại một số phần của đất nước vào cuối thế kỷ 19 cho nhiều cường quốc châu Âu thông qua một loạt các hiệp ước bất bình đẳng .
-* 
+* </p/s [ {{{!}}}~~~~ ](https://)
 * Sau nhiều thập kỷ Trung Quốc nhà Thanh suy yếu, Cách mạng năm 1911 đã lật đổ triều đại nhà Thanh và chế độ quân chủ, và Trung Hoa Dân Quốc (ROC) được thành lập vào năm sau. Đất nước dưới chính quyền Bắc Dương mới thành lập không ổn định và cuối cùng bị chia cắt trong Thời đại quân phiệt , kết thúc khi Quốc dân đảng (KMT) tiến hành Chiến tranh Bắc phạt để thống nhất đất nước. Nội chiến Trung Quốc bắt đầu vào năm 1927, khi lực lượng KMT thanh trừng các thành viên của Đảng Cộng sản Trung Quốc (ĐCSTQ) đối thủ , những người đã tiến hành giao tranh lẻ tẻ chống lại chính quyền Quốc dân đảng do KMT lãnh đạo . Sau khi đất nước bị Đế quốc Nhật Bản xâm lược vào năm 1937, ĐCSTQ và KMT đã thành lập Mặt trận thống nhất thứ hai để chống lại Nhật Bản. Chiến tranh Trung-Nhật lần thứ hai cuối cùng đã kết thúc với chiến thắng của Trung Quốc; tuy nhiên, ĐCSTQ và KMT đã tiếp tục cuộc nội chiến của họ ngay sau khi chiến tranh kết thúc. Năm 1949, những người Cộng sản trỗi dậy đã thiết lập quyền kiểm soát đối với hầu hết đất nước, tuyên bố thành lập Cộng hòa Nhân dân Trung Hoa và buộc chính quyền Quốc dân đảng phải rút lui về đảo Đài Loan . Đất nước bị chia cắt, với cả hai bên đều tuyên bố là chính quyền hợp pháp duy nhất của Trung Quốc . Sau khi thực hiện cải cách ruộng đất , những nỗ lực tiếp theo của Cộng hòa Nhân dân Trung Hoa nhằm hiện thực hóa chủ nghĩa cộng sản đã thất bại: Đại nhảy vọt phần lớn chịu trách nhiệm cho Nạn đói lớn ở Trung Quốc kết thúc với hàng triệu người Trung Quốc đã chết, và Cách mạng Văn hóa sau đó là một thời kỳ hỗn loạn xã hội và đàn áp đặc trưng bởi chủ nghĩa dân túy Maoist . Sau sự chia rẽ Trung-Xô , Thông cáo Thượng Hải năm 1972 sẽ thúc đẩy bình thường hóa quan hệ với Hoa Kỳ . Các cải cách kinh tế bắt đầu vào năm 1978 đã đưa đất nước thoát khỏi nền kinh tế kế hoạch xã hội chủ nghĩa sang nền kinh tế thị trường tư bản chủ nghĩa ngày càng phát triển, thúc đẩy tăng trưởng kinh tế đáng kể. Phong trào tương ứng cho việc tăng cường dân chủ và tự do hóa đã bị đình trệ sau các cuộc biểu tình và vụ thảm sát tại Quảng trường Thiên An Môn năm 1989.
 * 
 * Trung Quốc là một nước cộng hòa xã hội chủ nghĩa một đảng thống nhất do ĐCSTQ lãnh đạo. Đây là một trong năm thành viên thường trực của Hội đồng Bảo an Liên hợp quốc ; đại diện của Trung Quốc tại Liên hợp quốc đã được đổi từ ROC thành PRC vào năm 1971. Đây là thành viên sáng lập của một số tổ chức đa phương và khu vực như AIIB , Quỹ Con đường tơ lụa , Ngân hàng Phát triển Mới và RCEP . Đây là thành viên của BRICS , G20 , APEC , SCO và Hội nghị thượng đỉnh Đông Á . Chiếm khoảng một phần năm nền kinh tế thế giới, nền kinh tế Trung Quốc là nền kinh tế lớn nhất thế giới theo GDP điều chỉnh theo PPP , nền kinh tế lớn thứ hai theo GDP danh nghĩa và là quốc gia giàu thứ hai , mặc dù xếp hạng thấp về các biện pháp dân chủ , nhân quyền và tự do tôn giáo . Quốc gia này là một trong những nền kinh tế lớn phát triển nhanh nhất và là nhà sản xuất và xuất khẩu lớn nhất thế giới , cũng như là nhà nhập khẩu lớn thứ hai . Trung Quốc là một quốc gia sở hữu vũ khí hạt nhân với quân đội thường trực lớn nhất thế giới tính theo quân số và ngân sách quốc phòng lớn thứ hai . Đây là một cường quốc và được mô tả là một siêu cường mới nổi . Trung Quốc nổi tiếng với nền ẩm thực và văn hóa, có 59 Di sản thế giới được UNESCO công nhận , đứng thứ hai trong số các quốc gia có số lượng này .
@@ -168,7 +169,7 @@
 * Bài viết chính: Tên gọi của Trung Quốc
 *  
 * Trung Quốc ( Quảng Đông ngày nay ), Mangi (nội địa Xanton ) và Cataio (nội địa Trung Quốc và Chequan , bao gồm cả thủ đô Cambalu , Xandu và một cây cầu đá cẩm thạch ) đều được thể hiện là các khu vực riêng biệt trên bản đồ năm 1570 này của Abraham Ortelius .
-* Từ "China" đã được sử dụng trong tiếng Anh từ thế kỷ 16; tuy nhiên, người Trung Quốc không sử dụng nó trong giai đoạn này. Nguồn gốc của nó đã được truy tìm qua tiếng Bồ Đào Nha , tiếng Mã Lai và tiếng Ba Tư trở lại từ tiếng Phạn Cīna , được sử dụng ở Ấn Độ cổ đại . [ 16 ] "China" xuất hiện trong bản dịch năm 1555 của Richard Eden [ m ] về nhật ký năm 1516 của nhà thám hiểm người Bồ Đào Nha Duarte Barbosa . [ n ] [ 16 ] Cách sử dụng của Barbosa bắt nguồn từ tiếng Ba Tư Chīn ( چین ), từ này lại bắt nguồn từ tiếng Phạn Cīna ( चीन ). [ 21 ] Cīna lần đầu tiên được sử dụng trong kinh sách Ấn Độ giáo ban đầu , bao gồm cả Mahabharata (thế kỷ thứ 5 trước Công nguyên) và Luật Manu (thế kỷ thứ 2 trước Công nguyên). [ 22 ] Năm 1655, Martino Martini gợi ý rằng từ China về cơ bản bắt nguồn từ tên của triều đại nhà Tần (221–206 TCN). [ 23 ] [ 22 ] Mặc dù việc sử dụng trong các nguồn tài liệu Ấn Độ có trước triều đại này, nhưng nguồn gốc này vẫn được đưa ra trong nhiều nguồn khác nhau. [ 24 ] Nguồn gốc của từ tiếng Phạn vẫn đang là vấn đề gây tranh cãi. [ 16 ] Các gợi ý thay thế bao gồm tên của Yelang và nhà nước Jing hoặc Chu. [ 22 ] [ 25 ]
+* Từ "China" đã được sử dụng trong tiếng Anh từ thế kỷ 16; tuy nhiên, người Trung Quốc không sử dụng nó trong giai đoạn này. Nguồn gốc của nó đã được truy tìm qua tiếng Bồ Đào Nha , tiếng Mã Lai và tiếng Ba Tư trở lại từ tiếng Phạn Cīna , được sử dụng ở Ấn Độ cổ đại . [ 16 ] "{{China}}}" xuất hiện trong bản dịch năm 1555 của Richard Eden [ m ] về nhật ký năm 1516 của nhà thám hiểm người Bồ Đào Nha Duarte Barbosa . [ n ] [ 16 ] Cách sử dụng của Barbosa bắt nguồn từ tiếng Ba Tư Chīn ( چین ), từ này lại bắt nguồn từ tiếng Phạn Cīna ( चीन ). [ 21 ] Cīna lần đầu tiên được sử dụng trong kinh sách Ấn Độ giáo ban đầu , bao gồm cả Mahabharata (thế kỷ thứ 5 trước Công nguyên) và Luật Manu (thế kỷ thứ 2 trước Công nguyên). [ 22 ] Năm 1655, Martino Martini gợi ý rằng từ China về cơ bản bắt nguồn từ tên của triều đại nhà Tần (221–206 TCN). [ 23 ] [ 22 ] Mặc dù việc sử dụng trong các nguồn tài liệu Ấn Độ có trước triều đại này, nhưng nguồn gốc này vẫn được đưa ra trong nhiều nguồn khác nhau. [ 24 ] Nguồn gốc của từ tiếng Phạn vẫn đang là vấn đề gây tranh cãi. [ 16 ] Các gợi ý thay thế bao gồm tên của Yelang và nhà nước Jing hoặc Chu. [ 22 ] [ 25 ]
 * 
 * Tên chính thức của nhà nước hiện đại là "Cộng hòa Nhân dân Trung Hoa" ( tiếng Trung giản thể :中华人民共和国; tiếng Trung phồn thể :中華人民共和國; bính âm : Zhōnghuá rénmín conghéguó ). Dạng viết tắt hơn là "Trung Quốc" (中国;中國; Zhōngguó ), từ zhōng ('trung tâm') và guó ('nhà nước'), một thuật ngữ được phát triển dưới triều đại Tây Chu để chỉ hoàng gia của nó . [ o ] [ p ] Nó được sử dụng trong các tài liệu chính thức như một từ đồng nghĩa với nhà nước dưới thời nhà Thanh . [ 28 ] Cái tên Zhongguo còn được dịch là 'Trung Quốc' trong tiếng Anh. [ 29 ] Trung Quốc đôi khi được gọi là " Trung Quốc đại lục " hoặc "Đại lục" khi phân biệt với Trung Hoa Dân quốc hoặc các Khu hành chính đặc biệt của Cộng hòa Nhân dân Trung Hoa . [ 30 ] [ 31 ] [ 32 ] [ 33 ]
 * 
