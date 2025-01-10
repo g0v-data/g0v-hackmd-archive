@@ -108,6 +108,9 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 - 內政部警政署刑事警察局林書立科長
     - https://www.facebook.com/LawXDrama/posts/pfbid02rm7WKp9pqFCfeEFjqycaiPSRhSYYjE8hFeKx9sAbfXjUWj8D2XU3GrNErLjgqzqQl
     - https://www.facebook.com/LawXDrama/posts/pfbid0upZ2zzhYvqNG5uarcX8gKXStzagAXgrvT9MiRsEXZZwztU56ftxZYhfXe1WyQVtWl
+- 刑偵第六大隊
+    - (公視新聞) 廣告公司投放詐騙廣告 
+https://youtu.be/YNITi71IA0o
 - 臺北市中山分局偵查隊小隊長 洪晨鐘 https://www.facebook.com/share/p/19m8XXeJZj/
 - 數位信任協會 https://dtatw.org/about_us/
 - 議題社群：網路黑魔法防禦松
