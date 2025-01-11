@@ -40,7 +40,7 @@ Chương trình này áp dụng cho tất cả người chơi mới, không phâ
 
 Với chương trình này, bạn sẽ nhận lại một phần số tiền đã tham gia cá cược, không phân biệt thắng hay thua. Tỷ lệ hoàn tiền sẽ được tính dựa trên tổng số tiền đặt cược trong tuần, đảm bảo bạn luôn có một khoản "phòng thân" để tiếp tục trải nghiệm.  
 
-Xem thêm: [https://8kbet25.com/tai-app-8kbet/](https://8kbet25.com/tai-app-8kbet/)
+Xem thêm: [https://8kbet25.com/dang-nhap-8kbet/](https://8kbet25.com/dang-nhap-8kbet/)
 
 #### Lợi ích vượt trội của chương trình  
 
