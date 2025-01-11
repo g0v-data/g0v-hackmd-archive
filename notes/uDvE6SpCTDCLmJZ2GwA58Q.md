@@ -297,6 +297,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
 - 輕軌與水景 https://www.facebook.com/share/r/oBtDv6wBgdAXerEf/
 - 新北市土城區捷運海山站，路線與溝渠共用https://maps.app.goo.gl/ovjV8CqnsbEceQou6?g_st=com.google.maps.preview.copy
 - 高雄鳳山曹公圳 https://www.facebook.com/share/v/FDkESqz7aWh5ov7r/
+- 高雄大寮 https://www.facebook.com/share/p/12GN6DhTUc8/?mibextid=wwXIfr
 - 法國波爾多 橋面提供都市活動 https://www.facebook.com/share/p/SbsQ4S9eARoPAVED/
 - 首爾 https://www.facebook.com/share/r/hKwdpAxP7r9UdQAZ/
 - 首爾 https://www.facebook.com/share/p/xeWmUtvbXrAoRbtj/
