@@ -5,6 +5,9 @@ tags:
 # chewei 推坑
 
 - [說明](https://g0v.hackmd.io/@chewei/HyKJ2E7L6)
+## 活動
+
+- [g0v 大松小松活動](https://g0v.hackmd.io/@jothon/event)
 
 ## 如何開始專案
 

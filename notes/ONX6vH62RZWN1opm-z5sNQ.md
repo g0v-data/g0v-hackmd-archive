@@ -4,7 +4,7 @@ Nhắc đến **8KBET**, chúng tôi không chỉ nói về một nhà cái cá 
 
 ## Tại Sao Nên Tham Gia Chương Trình Khuyến Mãi Tại 8KBET?  
 
-Chúng tôi hiểu rằng, khi lựa chọn một nhà cái, các chương trình khuyến mãi là yếu tố quan trọng giúp bạn quyết định. **[8K BET](https://8kbet25.com/)** không chỉ mang đến một nền tảng cá cược trực tuyến đẳng cấp mà còn là nơi hội tụ những ưu đãi giá trị dành cho mọi thành viên.  
+Chúng tôi hiểu rằng, khi lựa chọn một nhà cái, các chương trình khuyến mãi là yếu tố quan trọng giúp bạn quyết định. **[8KBET](https://8kbet25.com/)** không chỉ mang đến một nền tảng cá cược trực tuyến đẳng cấp mà còn là nơi hội tụ những ưu đãi giá trị dành cho mọi thành viên.  
 
 ### Ưu đãi đa dạng cho mọi người chơi  
 
