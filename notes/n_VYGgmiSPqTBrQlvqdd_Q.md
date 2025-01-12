@@ -149,6 +149,9 @@ GA: G-W8Q0KR6P4N
 - [g0v 蔬菜箱訂購資訊彙整 🥬](https://www.facebook.com/g0v.tw/posts/5612892468751993)[target=_blank]
 - [生活大小事 ✌ Good live under COVID-19](https://g0v.hackmd.io/@chewei/stayhome)[target=_blank]
 
+## 筆記區
+
+- 數位簡短介入 https://www.facebook.com/share/p/15oXkspQu2/
 
 
 ---
