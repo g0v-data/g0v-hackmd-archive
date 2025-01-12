@@ -1,4 +1,4 @@
-88CLB là đại lý chính thức và duy nhất đại diện cho nhà cái 69VN tại Việt Nam. Với vị thế là một trong những nhà cái hàng đầu Châu Á, 69VN COM tập trung đầu tư mạnh vào các sự kiện bóng đá lớn như Euro, Olympic và nhiều chương trình khuyến mãi hấp dẫn, mang đến cơ hội trải nghiệm cá cược thể thao đẳng cấp.
+88CLB là đại lý chính thức và duy nhất đại diện cho nhà cái 88CLB tại Việt Nam. Với vị thế là một trong những nhà cái hàng đầu Châu Á, 88CLB tập trung đầu tư mạnh vào các sự kiện bóng đá lớn như Euro, Olympic và nhiều chương trình khuyến mãi hấp dẫn, mang đến cơ hội trải nghiệm cá cược thể thao đẳng cấp.
 Tên Thương Hiệu: 88CLB
 Địa chỉ: 10/12 Phan Văn Hớn, Tân Thới Nhất, Quận 12, Hồ Chí Minh, Việt Nam
 Điện thoại: 0982749770
@@ -34,8 +34,9 @@ https://barcelonadema-participa.cat/profiles/88clbbclub/activity
 https://motion-gallery.net/users/689929
 https://www.dokkan-battle.fr/forums/users/88clbbclub/
 https://potofu.me/88clbbclub
-https://88clbbclub.seesaa.net/article/508100377.html?1735926100
 https://snippet.host/cycpxt
+https://ucgp.jujuy.edu.ar/profile/88clbbclub/
+https://rfc.stitcher.io/profile/88clbbclub
 https://decidim.santcugat.cat/profiles/88clbbclub/activity
 https://coub.com/88clbbclub
 https://www.intensedebate.com/people/88clbbclub
@@ -90,17 +91,6 @@ https://pc.poradna.net/users/880952354-88clbbclub
 https://www.equinenow.com/farm/88clb-1188398.htm
 https://forum.fakeidvendors.com/user/88clbbclub
 https://kktix.com/user/6870122
-https://88clbbclub.mystrikingly.com/
-https://88clbbclub.kktix.cc/
-https://677814bc26d7c.site123.me/
-https://88clb6.godaddysites.com/
-https://pandeyeriberto.wixsite.com/my-site-1
-https://88clbbclub.blogspot.com/2025/01/88clb.html
-https://88clbbclub.amebaownd.com/posts/56137039
-https://88clbbclub.therestaurant.jp/posts/56137043
-https://88clbbclub.shopinfo.jp/posts/56137047
-https://88clbbclub.storeinfo.jp/posts/56137049
-https://88clbbclub.theblog.me/posts/56137054
 https://www.wikidot.com/user:info/88clbb-club
 https://tooter.in/88clbbclub
 https://slidehtml5.com/homepage/fmln#About
@@ -122,8 +112,6 @@ https://robertsspaceindustries.com/citizens/88clbbclub
 https://fanclove.jp/profile/ORBgxyoa20
 https://macro.market/company/88clbb-club
 https://mangatoto.net/u/2395850-88clbbclub
-https://88clbbclub.themedia.jp/posts/56137055
-https://88clbbclub.localinfo.jp/posts/56137056
 https://forum.issabel.org/u/88clbbclub
 https://www.bitchute.com/channel/BSdWsX4CBjLD/
 http://snstheme.com/forums/users/88clbbclub/
@@ -164,4 +152,3 @@ https://linksta.cc/@88clbbclub
 https://www.silverstripe.org/ForumMemberProfile/show/201849
 https://www.battlecam.com/profile/info/4474072
 https://www.autickar.cz/user/profil/10592/
-https://88clbbclub-s-school.teachable.com/p/88clbbclub
