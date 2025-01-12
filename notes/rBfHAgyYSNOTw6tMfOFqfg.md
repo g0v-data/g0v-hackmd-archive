@@ -70,6 +70,9 @@ https://sites.google.com/view/ai4good
 慈濟
 https://www.facebook.com/share/19NwZAUDJo/
 
+教會
+https://www.facebook.com/events/3957211264564162/
+
 報導者
 https://www.twreporter.org/a/the-reporter-newsroom-ai-use-guideline?fbclid=IwZXh0bgNhZW0CMTEAAR2D0_b9v-tWcwKcs-icFIl7MUHqwDysWqgpdseTy09KFzNK4W5Enz56tds_aem_guImCFj0URqBvOyNcKVmsA
 
