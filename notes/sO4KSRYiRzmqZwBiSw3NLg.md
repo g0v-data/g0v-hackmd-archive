@@ -23,6 +23,9 @@ https://docs.google.com/presentation/d/1EFaqJX_S0E25kmFXimrkP5yIX9VihLNbJkRJFmt8
 g0v 外文文宣，英文
 https://docs.google.com/document/d/1cyIeXCSnnEPMprYJtCy-EmNsIuti4kxv/edit?usp=drive_link&ouid=115613229829145960960&rtpof=true&sd=true
 
+2025 摺頁 Passport to the g0v universe
+https://g0v.hackmd.io/8nYqYBChQliFk55hQlnP5Q?view
+
 ## 簡報
 
 「專案圖鑑」簡報檔案
