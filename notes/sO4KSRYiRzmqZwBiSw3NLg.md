@@ -1,5 +1,5 @@
 ---
-tags: design,
+tags: design, infra
 ---
 
 # 2012 年以來的 g0v 設計檔案大整理！

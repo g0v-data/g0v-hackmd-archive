@@ -1,3 +1,10 @@
+期刊
+* European Journal of Operational Research
+* International Journal of Production Economics
+* International Journal of Production Research
+* Computers & Industrial Engineering
+* IISE Transaction
+
 論文題目尋找
 
 * 不要看schedule，我們只看real time的決策，當下的決策
