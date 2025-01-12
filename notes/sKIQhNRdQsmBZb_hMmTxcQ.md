@@ -3,6 +3,8 @@ title: "g0v大中小松地點收集區 + 咖啡館情報"
 tags: 場地情報,hackpad
 ---
 
+# g0v大中小松地點收集區 + 咖啡館情報
+
 > [點此觀看原始內容](https://g0v.hackpad.tw/OvTuo0jGr51)
 
 moed1ct, g0v art1st, hackad0n, ... 各專案小松可考慮的地點
@@ -70,6 +72,7 @@ https://g0v.hackmd.io/LHLAPHxjTt6Spp5LJr_zew
 
 ## 中型松，需要投影的（50人以下）
 
+- NPOHub 聚落 https://g0v.hackmd.io/@jothon/NPOHub-rules
 - 捷運大安站
     - CLBC 社群贊助場地
         合作夥伴免費借用，一般社群便宜租用。180 x 60 cm 的 IBM 桌 x 6 張，有冷氣、網路、廚房、投影、洗手間，使用電腦 12 - 18 人，不使用電腦 20 人。
