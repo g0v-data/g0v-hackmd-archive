@@ -36,6 +36,8 @@ tags: privacy, new-safeID, administrative-appeal, relief, 行政訴訟, 救濟, 
 > 個人偏好「守護」勝於「保護」， 取其「守望相助」的意思[name=Bestian]
 - ~~開放個資基金會~~
 - 個資奪回作戰委員會
+- 臺灣人民隱私保護協會
+
 
 
 :::danger
