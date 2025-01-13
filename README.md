@@ -2,7 +2,9 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 29940 | 2025-01-13T12:52:24+00:00 |
+| [預算](tags/%E9%A0%90%E7%AE%97.md) | 13 | 2025-01-13T13:59:58+00:00 |
+| [open spending](tags/open%20spending.md) | 2 | 2025-01-13T13:59:58+00:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 29953 | 2025-01-13T13:58:51+00:00 |
 | [design](tags/design.md) | 4 | 2025-01-12T19:34:29+00:00 |
 | [ infra](tags/%20infra.md) | 1 | 2025-01-12T19:34:29+00:00 |
 | [場地情報](tags/%E5%A0%B4%E5%9C%B0%E6%83%85%E5%A0%B1.md) | 1 | 2025-01-12T15:10:57+00:00 |
@@ -162,8 +164,6 @@
 | [d2wg](tags/d2wg.md) | 1 | 2024-09-24T03:36:23+00:00 |
 | [disaster-prevention-pwa](tags/disaster-prevention-pwa.md) | 11 | 2024-09-21T08:22:53+00:00 |
 | [都市農耕](tags/%E9%83%BD%E5%B8%82%E8%BE%B2%E8%80%95.md) | 55 | 2024-09-12T01:22:17+00:00 |
-| [預算](tags/%E9%A0%90%E7%AE%97.md) | 13 | 2024-09-06T13:59:05+00:00 |
-| [open spending](tags/open%20spending.md) | 2 | 2024-09-06T13:59:05+00:00 |
 | [Issue-Mapping](tags/Issue-Mapping.md) | 7 | 2024-09-01T14:51:17+00:00 |
 | [Open Street Map](tags/Open%20Street%20Map.md) | 3 | 2024-09-01T14:51:17+00:00 |
 | [meshtastic](tags/meshtastic.md) | 7 | 2024-08-31T09:04:18+00:00 |
