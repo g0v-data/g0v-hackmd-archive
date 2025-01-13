@@ -154,7 +154,7 @@
 * +853 (Ma Cao)
 * Mã ISO 3166
 * <P {{{{  (CN.``>
-* Tên miền Inter [[https://www.~~~~net]]
+* Tên miền Inter [[https://www.khampha.com |](/wWloM5a3TW6bk9DrM_exvQ)]
 * .cn.Trung Quốc.Trung Quốc (đại lục)
 * .hk.香港(Hồng Kông)
 * .mo.Hàng hóa.澳門(Ma Cao)
