@@ -60,6 +60,9 @@ tags: g0v-anniversary
 ---
 - [4 月大松討論成果](https://g0v.hackmd.io/@k_gLcFP-S0OPYEjfnyoQgw/S1X2e307q#/)
 
+活動相簿
+---
+- [20221023 g0v 十週年生日趴 #零宇宙大爆炸](https://www.flickr.com/photos/g0v/albums/72177720303510242/)[target=_blank]
 
 參考連結
 ---

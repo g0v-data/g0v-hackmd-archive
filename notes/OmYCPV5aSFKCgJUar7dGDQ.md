@@ -65,6 +65,8 @@ tags: bridge
         - https://g0v.hackmd.io/0bHi9giDQN66h0HGAVp9aw
     - （其它可在這份文件上提議，在無 bridge 治理機制之前暫時於文件上討論決定）
 - 討論 bridge 治理機制
+- 筆記跨頻道訊息呈現結果與課題
+    - 20250112 圖文 https://g0v.hackmd.io/laSUbXSySQOqE2nbpB8QYQ?view
 
 ## Assorted ideas / 其它想法
 
