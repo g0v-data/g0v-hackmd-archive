@@ -16,6 +16,7 @@ https://docs.google.com/presentation/d/12jmmN0e1Ige_bl_-CnyonIoKWe_F9H_4kS2PTVXk
 
 ## 翻譯
 
+Line 的翻譯機器人
 https://www.facebook.com/share/p/1Asz4SaySK/
 
 ## 文字資料彙整清理
