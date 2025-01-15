@@ -69,3 +69,7 @@ tags: edu
 ## 職業災害
 
 https://g0v.hackmd.io/6U3Ip-5VQmyKXdfY8qUqtA?view
+
+## 新二代觀點 
+
+https://g0v.hackmd.io/q5meM1EoRxieGRC6XTHx4Q?view

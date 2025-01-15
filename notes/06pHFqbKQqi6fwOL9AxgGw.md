@@ -56,6 +56,9 @@ tags: Rentea, CoRent
 
 ## 室內裝修：延伸社團與觀點
 
+一份個案工作文件：從零到有的老屋翻新過程
+https://hackmd.io/@3D6-jrlCQqikzukSyOgF9g/SJzzMxE5i
+
 探討室內裝修與熱環境調適
 https://www.facebook.com/share/p/4Ai5THEVLzsu2Nds/
 

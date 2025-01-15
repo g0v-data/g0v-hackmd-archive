@@ -1,0 +1,3 @@
+<a href="https://bongdaso.red/">Bongdaso<a></a> một địa điểm cập nhật <a href="https://bongdaso.red/bang-xep-hang/">bảng xếp hạng</a> bóng đá mới nhất hiện nay. Giúp người hâm mộ theo dõi tình hình đội bóng, vị trí của đội bóng yêu thích ở từng giải đấu. Giúp anh em bet thủ theo dõi được phong độ đội bóng mà đưa ra các quyết định đúng đắn khi chơi cá cược. 
+Cung cấp thông tin về các giải đấu hàng đầu như BXH Ngoại hạng Anh, La Liga, Serie A, Bundesliga, Champions League. Với thông tin được cập nhật liên tục và trình bày rõ ràng, bảng xếp hạng tại Bongdaso là nguồn tham khảo đáng tin cậy cho mọi tín đồ bóng đá.
+Xem thêm: https://bongdaso.red/bang-xep-hang/
