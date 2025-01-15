@@ -581,6 +581,13 @@ https://docs.google.com/spreadsheets/d/1XC1UUo-DT0OPsrtRrp3nUpuRaCPJHgjizu7Tm_Vm
 20240502 文山社大工作坊的引導說明簡報與活動照片
 https://docs.google.com/presentation/d/1So9YIE00FmW6H1eENEVUIX4N2uyTMfGnDkdvzJSrNvs/edit
 
+### 木柵地區系列討論
+
+沿線訪談
+
+公民記者報導影片：捷運環南段衝擊木柵街區 盼轉型發展度過黑暗期
+https://www.peopo.org/news/797393
+
 
 ## 其他地區機制參考
 
