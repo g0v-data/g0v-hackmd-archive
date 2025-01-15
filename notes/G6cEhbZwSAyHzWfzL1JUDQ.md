@@ -1,7 +1,7 @@
 ---
 tags: vTaiwan
 ---
-# 0107小松
+# 0108 小松
 時間 Time ：19:00-20:30
 地點 Location ：線上 Online
 參與者 Participants: T、Peter、YuTing、翊婷、josh、NewClicker(出現一下XD)
