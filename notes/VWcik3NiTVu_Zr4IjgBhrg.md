@@ -8,6 +8,8 @@ tags: vTaiwan
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
 :::info
 下週小聚，調整至 1/23 週四晚上19:00-20:00
+peter:+1 
+
 :::
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
@@ -38,8 +40,9 @@ tags: vTaiwan
     - 第一場會先收集比較細節的意見，讓討論可以在後續場次上比較快速的聚焦。[name=yuting]
         - 例如上一次活動中就可以觀察到，大家同意不同意都會基於不同的原因。[name=yuting]
     - 12/20 的活動有注意到，大家會考量不同意見的前提與背景條件。[name=yuting]
-
-
+- 對於主題的想法：詐騙的議題 v.s AI？
+    - AI 的議題，討論的空間確實比較大 [name=josh]
+    - 討論是不是要跳青年好政計劃，但教育部KPI要求頗高 [name=peter]
 
 
 ## 1220 活動
@@ -58,7 +61,7 @@ tags: vTaiwan
     - 另一個提案：第一場是意見（分上下半場進行討論），第二場是行動 [name=josh]
         - 覺得不錯
     - 可以邀請專家或政府機關？
-    - 
+- 會議後會放入[議題小聚會議記錄]()
 
 ## 上週討論的事項
 - 現場共筆跟紀錄
@@ -77,3 +80,5 @@ tags: vTaiwan
 - polis 的 raw data 可以討論看看怎麼讓我們取得資料
     - 討論看看 api 的可能性[name=peter]
     - 自己 host 一個 [name=josh]
+
+

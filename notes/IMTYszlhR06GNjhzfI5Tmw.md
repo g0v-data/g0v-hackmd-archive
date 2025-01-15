@@ -1,0 +1,2 @@
+Theo dõi [bảng xếp hạng](https://7mvn.pro/bang-xep-hang/) của hàng loạt giải đấu tại [7M](https://7mvn.pro/). Cung cấp thông tin đầy đủ về BXH của các giải đấu lớn nhỏ như V League, Ngoại Hạng Anh, VĐQG Đức, La Liga Tây Ban Nha,…. Mọi thông tin đều chính xác được 7M sàn lọc và gửi tới quý vị khán giả.
+Xem thêm: https://7mvn.pro/bang-xep-hang/
