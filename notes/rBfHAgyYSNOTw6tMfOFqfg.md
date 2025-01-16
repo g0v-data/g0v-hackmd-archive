@@ -54,6 +54,10 @@ https://www.facebook.com/tinywhite.lai/posts/pfbid02hnQmrqr82r3bJSCJEoCQc3Y7QYrc
 https://www.facebook.com/share/184eXi3jQb/
 https://sch001.g0v.tw/dash/prj/PHRJpYi337MOiFzi5IWAyGNA9SjJRV
 
+醫護行政
+https://www.facebook.com/share/p/15e75K8GKF/
+
+
 ## 視聽通用溝通輔助
 
 https://www.facebook.com/share/15repbf7df/
