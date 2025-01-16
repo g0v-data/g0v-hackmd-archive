@@ -20,7 +20,15 @@
 9. 使用Context紀錄userRole，在context資料夾下的PermissionContext.js。
 10. 將context 用在 app.js 的 return 利用children的性質應包裹整個應用，以確保所有組件（包括 Navigation 和路由中的 element）都能使用 usePermission()。
 11. 移除6. 中的操作 ~~const userRole='maintainer'~~，<ProductList ~~userRole={userRole}~~></ProductList>
-12.
+12. 新增與調整canView，canEdit和其相應的import(之前的刪除)
+```
+import { usePermission } from '../../context/PermissionContext';
+
+const { hasPermission } = usePermission();
+const canView = hasPermission('product', 'view');
+const canEdit = hasPermission('product', 'edit');
+```
+13. 
 
 
 
