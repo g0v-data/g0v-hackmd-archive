@@ -1,4 +1,5 @@
-# 會員權限
+# 會員權限 
+###### 第2次開始時間(1/13號~)
 1. 新增 **navigationConfig.json**
 2. 在utils中的helper.js新增 `export function checkPermission(userRole, tag, action, navigationConfig)`
 3. Navigation.js 中 `import { checkPermission } from '../utils/helper';`
@@ -16,8 +17,10 @@
 <input className="form-check-input" type="checkbox" role="switch" id={`switch${data.uuid}`} checked={data.status === 1} onChange={handleChange} onClick={handleClick} />
 )}
 ```
-9.使用Context紀錄userRole，在context資料夾下的PermissionContext.js。
-10.將context 用在 app.js 的 return 利用children的性質應包裹整個應用，以確保所有組件（包括 Navigation 和路由中的 element）都能使用 usePermission()。
+9. 使用Context紀錄userRole，在context資料夾下的PermissionContext.js。
+10. 將context 用在 app.js 的 return 利用children的性質應包裹整個應用，以確保所有組件（包括 Navigation 和路由中的 element）都能使用 usePermission()。
+11. 移除6. 中的操作 ~~const userRole='maintainer'~~，<ProductList ~~userRole={userRole}~~></ProductList>
+12.
 
 
 
