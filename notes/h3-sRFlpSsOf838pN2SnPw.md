@@ -22,7 +22,7 @@ Chúng tôi hiểu rằng việc gửi hàng có thể là một phần quan tr�
 Dịch vụ tại đây không chỉ đơn thuần là vận chuyển hàng hóa, mà còn bao gồm các quy trình đóng gói, bảo quản hàng hóa và thủ tục giấy tờ cần thiết. 
 Đội ngũ nhân viên là những chuyên gia trong lĩnh vực vận chuyển, luôn tận tâm và chăm sóc hàng hóa của bạn như là của riêng mình.
 Với VietCargo, bạn có thể yên tâm gửi hàng đi Mỹ với sự đảm bảo về chất lượng và thời gian. Hãy để chúng tôi giúp bạn giải quyết mọi vấn đề hàng hóa một cách nhanh chóng và hiệu quả.
-Xem thêm tại đây:  https://www.google.com/maps/place//@11.6586936,106.6401792,2669m/data=!3m2!1e3!4b1?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D
+Xem thêm tại đây: https://www.google.com/maps/place/VietCargo+-+Ship+H%C3%A0ng+M%E1%BB%B9+Uy+T%C3%ADn/@10.794925,106.7163,17z/data=!3m1!4b1!4m6!3m5!1s0x3175290aeac67385:0xa267a29810c2b18e!8m2!3d10.794925!4d106.7188749!16s%2Fg%2F11f79l1_2_
 
 Thông tin liên hệ
 Mọi quan tâm cần tư vấn và hỗ trợ. Hãy liên hệ ngay với chúng tôi:
