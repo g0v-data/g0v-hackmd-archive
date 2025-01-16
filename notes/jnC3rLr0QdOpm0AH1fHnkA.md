@@ -34,4 +34,6 @@ https://drive.google.com/drive/folders/1IH2KLIrPsbS_wfrflFPClSdUbZJgTKBs?usp=sha
 Todo
 - 開 googlesheet
 - 把網頁內容拆分成結構化欄位，放入 googlesheet
-- 地圖視覺化
+- 地圖視覺化 (Google My Map, OpenStreetMap uMap)
+- 有詳細位置資訊，可以畫到OpenStreetMap上面
+- 建立Wikidata項目詳細加結構化資料
