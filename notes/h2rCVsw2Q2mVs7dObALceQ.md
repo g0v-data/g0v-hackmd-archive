@@ -17,4 +17,25 @@
 )}
 ```
 9.使用Context紀錄userRole，在context資料夾下的PermissionContext.js。
-10.將context 用在
+10.將context 用在 app.js 的 return 利用children的性質應包裹整個應用，以確保所有組件（包括 Navigation 和路由中的 element）都能使用 usePermission()。
+
+
+
+
+
+
+## VSCode 關閉但未輸入ctrl+C 關閉server
+* 停止Server方法:
+1. 開啟windows powershell
+2. 輸入`tasklist | findstr node` 查找 node 相關進程
+node.exe                     32672 Console                    1      9,136 K
+node.exe                     34592 Console                    1     41,032 K  
+在Console前的為PID 如32672與34592。
+3. 或是輸入 `netstat -ano | findstr :3000` 輸出為
+ TCP    0.0.0.0:3000           0.0.0.0:0              LISTENING       34592
+  TCP    127.0.0.1:3000         127.0.0.1:55707        ESTABLISHED     34592
+  TCP    127.0.0.1:3000         127.0.0.1:62844        ESTABLISHED     34592
+  TCP    127.0.0.1:55707        127.0.0.1:3000         ESTABLISHED     43944
+  TCP    127.0.0.1:62844        127.0.0.1:3000         ESTABLISHED     43944
+  最後面的是PID。
+4. 輸入`taskkill /PID <PID> /F` 刪除進程即可關閉server,如:`taskkill /PID 34592 /F`
