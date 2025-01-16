@@ -16,4 +16,4 @@
 <input className="form-check-input" type="checkbox" role="switch" id={`switch${data.uuid}`} checked={data.status === 1} onChange={handleChange} onClick={handleClick} />
 )}
 ```
-9.使用Context紀錄userRole，在context資料夾下的
+9.使用Context紀錄userRole，在context資料夾下的PermissionContext.js。
