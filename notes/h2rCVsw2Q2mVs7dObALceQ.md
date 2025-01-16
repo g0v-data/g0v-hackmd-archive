@@ -28,7 +28,8 @@ const { hasPermission } = usePermission();
 const canView = hasPermission('product', 'view');
 const canEdit = hasPermission('product', 'edit');
 ```
-13. 
+13. 修改spring PerfessionalService的verifiedMaintainSuper與verifiedMaintainSuperToken<br>將GeneralCode.Professional改成ProfessionalCode.Maintainer並新增對應的名稱與專人ID
+14. 後端從回傳成功響應，改成回傳專人身分。
 
 
 
