@@ -1,4 +1,4 @@
-<a href="https://j885a.com/">BET88</a> là nền tảng cá cược trực tuyến cung cấp đa dạng trò chơi như cá cược thể thao, casino, và slot. Với giao diện dễ sử dụng, người chơi có thể tham gia và nhận ưu đãi hấp dẫn một cách nhanh chóng và an toàn. Thông tin chi tiết: Website: <a href="https://j885a.com/">https://j885a.com/</a>
+<a href="https://bet88com.us/">BET88</a> là nền tảng cá cược trực tuyến cung cấp đa dạng trò chơi như cá cược thể thao, casino, và slot. Với giao diện dễ sử dụng, người chơi có thể tham gia và nhận ưu đãi hấp dẫn một cách nhanh chóng và an toàn. Thông tin chi tiết: Website: <a href="https://bet88com.us/">https://bet88com.us/</a>
 Địa chỉ: 25/2 Đ. Nguyễn Chí Thanh, Phường 9, Quận 5, Hồ Chí Minh, Việt Nam
 SDT: 0873 642 512
 Mail: info@bet88com.us
