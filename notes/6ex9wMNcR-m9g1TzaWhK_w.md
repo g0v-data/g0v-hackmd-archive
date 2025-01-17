@@ -6,7 +6,7 @@ Phone:0962555486
 Email :888bvncc@gmail.com
 Hashtags:#888b #88b #888bvncc #dangky888b #dangnhap888b
 
-href="https://www.pinterest.com/888bvncc/">https://www.pinterest.com/888bvncc/
+https://www.pinterest.com/888bvncc/
 
 https://twitter.com/888bvncc
 
@@ -480,6 +480,8 @@ https://webscountry.com/author/888bvncc-299830/
 
 https://kingranks.com/author/888bvncc-2126171/
 
+https://www.lingvolive.com/en-us/profile/e6ef5eef-a21e-4ee9-b41c-c63db5143c6f/translations
+
 https://www.hostboard.com/forums/members/888bvncc.html
 
 https://we-xpats.com/vi/member/20445/
@@ -619,9 +621,3 @@ https://www.sythe.org/members/888bvncc.1842668/
 https://myanimelist.net/profile/888bvncc
 
 https://golosknig.com/profile/888bvncc/
-
-https://www.fruitpickingjobs.com.au/forums/users/888bvncc/
-
-https://advego.com/profile/888bvncc/
-
-https://www.lingvolive.com/en-us/profile/e6ef5eef-a21e-4ee9-b41c-c63db5143c6f/translations
