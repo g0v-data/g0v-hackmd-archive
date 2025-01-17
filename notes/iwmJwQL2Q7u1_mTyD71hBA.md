@@ -1,0 +1,2 @@
+B52 là cổng game bài đổi thưởng đỉnh cao, nổi bật với hơn 50 trò chơi phong phú và công nghệ bảo mật hiện đại. Ra mắt từ năm 2016 dưới sự cấp phép của PAGCOR, B52 mang đến trải nghiệm giải trí chất lượng với giao diện HD sắc nét, thanh toán nhanh gọn và dịch vụ khách hàng hỗ trợ 24/7.
+Website: https://b52.studio/b52-blog/
