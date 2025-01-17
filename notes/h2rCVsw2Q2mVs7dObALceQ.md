@@ -55,7 +55,8 @@ if (!canView) {
 ```
 SwitchStatus新增canEdit
 `<SwitchStatus data={company} handleStatusChange={handleStatusChange} canEdit={canEdit}>`
-24. 
+24. 調整MemberList.js 同步驟23.
+25. 商品頁面分為Product.js與ProductList.js，先在Product.js加上"canView"與相關
 
 
 
