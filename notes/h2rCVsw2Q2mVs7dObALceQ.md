@@ -35,7 +35,9 @@ const canEdit = hasPermission('product', 'edit');
 
 
 
-
+### 問題
+    廠商列表 Company.js:172  Warning: Each child in a list should have a unique "key" prop.
+    
 
 
 ## VSCode 關閉但未輸入ctrl+C 關閉server
