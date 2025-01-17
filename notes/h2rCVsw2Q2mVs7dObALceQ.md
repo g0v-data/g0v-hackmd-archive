@@ -19,7 +19,7 @@
 ```
 9. 使用Context紀錄userRole，在context資料夾下的PermissionContext.js。
 10. 將context 用在 app.js 的 return 利用children的性質應包裹整個應用，以確保所有組件（包括 Navigation 和路由中的 element）都能使用 usePermission()。
-11. 移除6. 中的操作 ~~const userRole='maintainer'~~，<ProductList ~~userRole={userRole}~~></ProductList>
+11. 移除6. 中的操作 ~~const userRole='maintainer'~~，<ProductList ~~userRole={userRole}~~></ProductList>；移除4. 中的部分操作，<Navigation ~~ userRole={userRole}~~/>`
 12. 新增與調整canView，canEdit和其相應的import(之前的刪除)
 ```
 import { usePermission } from '../../context/PermissionContext';
@@ -30,6 +30,8 @@ const canEdit = hasPermission('product', 'edit');
 ```
 13. 修改spring PerfessionalService的verifiedMaintainSuper與verifiedMaintainSuperToken<br>將GeneralCode.Professional改成ProfessionalCode.Maintainer並新增對應的名稱與專人ID
 14. 後端從回傳成功響應，改成回傳專人身分。
+15. 宣告 `const tokenReturn = await verifiedToken();` 然後使用tokenReturn.data.result.idName取出後端API回傳值
+16. 
 
 
 
