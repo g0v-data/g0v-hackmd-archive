@@ -2,7 +2,7 @@
 
 <p>Một văn phòng được thiết kế và thi công chuyên nghiệp không chỉ tạo ấn tượng với đối tác mà còn nâng cao năng suất làm việc cho nhân viên. Nhưng làm thế nào để biết mức chi phí hợp lý? Hãy cùng ICADVietnam khám phá các yếu tố ảnh hưởng đến báo giá thi công nội thất văn phòng và những giải pháp giúp tối ưu hóa chi phí.</p>
 
-<p>Chi tiết tại:&nbsp;<a href="http://Báo giá thi công nội thất văn phòng">Báo giá thi công nội thất văn phòng</a></p>
+<p>Chi tiết tại: <a href="https://icadvietnam.vn/bao-gia-thi-cong-noi-that-van-phong-lam-viec/">Báo giá thi công nội thất văn phòng</a></p>
 
 <h2>Tầm Quan Trọng Của Việc Xác Định Báo Giá Thi Công Nội Thất</h2>
 
