@@ -6,7 +6,7 @@
 <h2>Qu’est-ce Qu’un Bonus Sans Dépôt ?</h2>
 <p>Un bonus sans dépôt, comme son nom l’indique, est une récompense offerte à un joueur sans qu’il ne soit tenu de faire un dépôt initial. En termes simples, c’est une manière pour le casino de montrer sa générosité tout en permettant aux amateurs de jeu de tester les fonctionnalités et la qualité du site sans engagement financier.</p>
 
-<p>Chez Fatboss Casino, ce bonus se matérialise sous la forme de 100 tours gratuits, répartis sur cinq jeux exceptionnels :</p>
+<p>Chez <a href="https://fat-boss.net/" target="_blank">fatboss</a> Casino, ce bonus se matérialise sous la forme de 100 tours gratuits, répartis sur cinq jeux exceptionnels :</p>
 <ul>
     <li><strong>Doge Life</strong></li>
     <li><strong>Whacked!</strong></li>

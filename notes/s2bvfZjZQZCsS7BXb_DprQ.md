@@ -1,0 +1,15 @@
+https://www.spigotmc.org/members/2ok9com.2205533/
+https://redfernelectronics.co.uk/forums/users/2ok9com/
+https://forum.dboglobal.to/wsc/index.php?user/86728-2ok9com/#about
+https://my.clickthecity.com/2ok9com
+http://fort-raevskiy.ru/community/profile/2ok9com/
+https://md.td00.de/s/4Z3c1DGm1
+https://doc.anagora.org/s/YecsSWRqb
+https://notes.bmcs.one/s/i2t1_RngC
+https://g0v.hackmd.io/s/SkG-fCDDJe
+https://hackmd.okfn.de/s/HkGVGAPvJl
+https://pad.karuka.tech/xekJfJU_R5SOvUUIg0XRMA/publish
+https://pad.fs.lmu.de/s/B348Gg8ck
+https://justpaste.me/YlvU5
+https://md.klykken.com/s/hxgT9agpb
+https://www.robot-forum.com/user/193535-2ok9com/

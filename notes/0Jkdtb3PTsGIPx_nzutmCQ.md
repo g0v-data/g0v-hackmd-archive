@@ -1,0 +1,3 @@
+[Bongdaso](https://bongdaso.red/) xin được gửi tới quý bạn đọc thông tin về các [cầu thủ bóng đá](https://bongdaso.red/cau-thu-bong-da/) hiện nay. Những ngôi sao hàng đầu thế giới như Lionel Messi, Erling Haaland, đến các tài năng trẻ triển vọng như Jude Bellingham hay Gavi chúng tôi đều có thông tin cụ thể để bạn theo dõi. 
+Cùng khám phá hành trình sự nghiệp, phong độ thi đấu, và những câu chuyện thú vị ngoài sân cỏ của họ, mang đến góc nhìn toàn diện về những nhân vật làm nên sức hút mãnh liệt của môn thể thao vua!
+Xem thêm: https://bongdaso.red/cau-thu-bong-da/
