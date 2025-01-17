@@ -46,6 +46,17 @@ return hasPermission(item.tag, 'view');
 }
 ```
 
+22. SwitchStatus.js 利用canEdit參數 在Return修改
+23. Company.js新增"canView"與"canEdit"，
+```
+if (!canView) {
+    return <div>您無權查看此頁面</div>;
+}
+```
+SwitchStatus新增canEdit
+`<SwitchStatus data={company} handleStatusChange={handleStatusChange} canEdit={canEdit}>`
+24. 
+
 
 
 ### 問題
