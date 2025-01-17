@@ -11,3 +11,6 @@ See 'docker run --help'.
 2.問題描述:2025/01/10使用許先生的puhui.tar從.net 7 升級成 .net 8 出現健康度問題 回傳500還503有點忘了。對外的口是在docker run時決定的所以GCP端口與防火牆應該沒事。docker logs 查看事有正常啟動。
 * 解法：查看https://learn.microsoft.com/zh-tw/aspnet/core/migration/70-80?view=aspnetcore-9.0&tabs=visual-studio .net 7 升級成 .net 8的技術文件 發現若使用默認阜號升級後將從80改為8080，使用docker logs確認確實啟動的阜號為8080，修改.sh中的docker run內部端口即正常啟動，當日下午開會與許先生敲定puhui.tar專案綁定阜號80，之後部署使用原來的.sh檔即可。
 (https://learn.microsoft.com/zh-tw/dotnet/core/compatibility/containers/8.0/aspnet-port)
+
+3. 問題描述:React專案出現 Company.js:172  Warning: Each child in a list should have a unique "key" prop.
+* 解法：由 map 生成的每個子項目，需要添加 key 屬性的元素，修改 `<tr key={member.id || index}> {/* 確保使用唯一的 key */} `或是 ` <tr key={member.id}> {/* 確保使用唯一的 key */}`

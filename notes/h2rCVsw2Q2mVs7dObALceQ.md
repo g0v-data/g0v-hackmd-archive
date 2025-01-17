@@ -31,12 +31,25 @@ const canEdit = hasPermission('product', 'edit');
 13. 修改spring PerfessionalService的verifiedMaintainSuper與verifiedMaintainSuperToken<br>將GeneralCode.Professional改成ProfessionalCode.Maintainer並新增對應的名稱與專人ID
 14. 後端從回傳成功響應，改成回傳專人身分。
 15. 宣告 `const tokenReturn = await verifiedToken();` 然後使用tokenReturn.data.result.idName取出後端API回傳值
-16. 
+16. 開始修改原始專案(上面的react 在個人部分測試)
+17. Company.js新增 key={member.id}處理 `Company.js:172  Warning: Each child in a list should have a unique "key" prop.`問題。
+18. 新增PermissionContext.js
+19. 將context 用在 app.js 的 return 
+20. 修改 Navigation.js
+21. 修改 Navigation.js中的visibleSubItems成
+```
+// 檢查該分類是否有至少一個可見的小分類
+const visibleSubItems = item.subItems.filter(subItem =>{
+ // checkPermission(userRole, item.tag, 'view', navigationConfig)
+const { hasPermission } = usePermission();
+return hasPermission(item.tag, 'view');
+}
+```
 
 
 
 ### 問題
-    廠商列表 Company.js:172  Warning: Each child in a list should have a unique "key" prop.
+    (已處理)廠商列表 Company.js:172  Warning: Each child in a list should have a unique "key" prop.
     
 
 
