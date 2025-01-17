@@ -27,7 +27,7 @@ An Toàn và Bảo Mật
 Với hệ thống bảo mật tiên tiến, TP88 cam kết bảo vệ thông tin cá nhân của người chơi và đảm bảo giao dịch luôn an toàn.
 Hỗ Trợ Khách Hàng Chuyên Nghiệp
 TP88 sở hữu một đội ngũ hỗ trợ khách hàng chuyên nghiệp, luôn sẵn sàng giải đáp mọi thắc mắc và hỗ trợ người chơi 24/7.
-Hướng Dẫn Thao Tác Tại TP88.Com
+Hướng Dẫn Thao Tác Tại TP88
 Để tham gia trải nghiệm các trò chơi hấp dẫn và có cơ hội giành chiến thắng lớn tại TP88, bạn cần thực hiện một số thao tác cơ bản sau:
 Đăng Ký Tài Khoản TP88
 Để bắt đầu, bạn cần đăng ký tài khoản tại TP88:
