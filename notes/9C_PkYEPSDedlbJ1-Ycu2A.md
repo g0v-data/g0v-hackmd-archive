@@ -1,0 +1,2 @@
+[Tỷ số bóng rổ](https://7mvn.pro/ty-so-bong-ro/) trực tuyến tại [7M](https://7mvn.pro/) cung cấp thông tin về trận bóng rổ theo thời gian thực, giúp bạn theo dõi mọi trận đấu từ NBA, EuroLeague, đến các giải đấu quốc tế khác . Không chỉ hiển thị điểm số, 7M còn mang đến thống kê chi tiết như số điểm từng hiệp, hiệu suất ném rổ
+Xem thêm: https://7mvn.pro/ty-so-bong-ro/
