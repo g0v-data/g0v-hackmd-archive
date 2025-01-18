@@ -10,9 +10,10 @@ image: https://raw.githubusercontent.com/g0v/style-guide/gh-pages/logo/png/g0v-l
 - [國會松注意事項](/QGEtEn83Toy8n_aui13EXA)
 
 ## 最新活動 👇
-- [20241222 第陸次國會松<br>🔥🔥🔥 報名中](https://g0vcongressthon.oen.tw/events/2pzDIxnrNncfXHqo9dkZ6VOu65s)[target=_blank]
+- [20250118 第柒次國會松](/g6M0JpcsRUy6zJo-5ISoYA)
 
 ## 歷次活動
+- [20250118 第柒次國會松](/g6M0JpcsRUy6zJo-5ISoYA)
 - [20241222 第陸次國會松](/k6MuTeTMRuaYTVBxQZU34g)
 - [20241130 第伍次國會松](https://g0v.hackmd.io/@hRQQwB1RRValc_Fu0Awrmw/SJNsjztM1e)
 - [20241025 第肆次國會松](https://g0v-congress.kktix.cc/events/g0v-congress4n)
