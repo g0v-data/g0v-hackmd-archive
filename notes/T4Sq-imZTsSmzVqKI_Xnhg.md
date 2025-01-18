@@ -101,6 +101,8 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 徵文
 - https://www.2024fsc-antiscam.com/event
 
+被綁架至詐騙園區，脫離後的心理輔導
+https://www.facebook.com/share/p/15dyuFMAC8/?mibextid=wwXIfr
 
 ## 單位與機構、社群
 - 數位發展部，訂定子法
@@ -117,6 +119,7 @@ https://youtu.be/YNITi71IA0o
 - 數位信任協會 https://dtatw.org/about_us/
 - 議題社群：網路黑魔法防禦松
     - https://g0v.hackmd.io/qf2mb4z2S-q5K6HoJ3b8Vg
+- Dcard 反詐騙板
 - 自媒體：游庭皓的財經皓角
     - https://www.youtube.com/watch?v=VM4QrHPwb_I&t=810s
     - https://www.facebook.com/share/p/tP1CkmEWedV5GNfj/
