@@ -1,4 +1,4 @@
-]SANVIP là một trong những cổng game đổi thưởng uy tín nhất Việt Nam với các trò chơi Game Bài, Nổ Hũ, Slot, Casino... Link Đăng Ký, Đăng Nhập nhận 100K.
+SANVIP là một trong những cổng game đổi thưởng uy tín nhất Việt Nam với các trò chơi Game Bài, Nổ Hũ, Slot, Casino... Link Đăng Ký, Đăng Nhập nhận 100K.
 Thông tin chi tiết:
 Website: https://sanvip.mba
 Địa chỉ: 38 Nguyễn Công Trứ, Phường 19, Bình Thạnh, Hồ Chí Minh
