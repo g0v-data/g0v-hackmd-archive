@@ -1,21 +1,18 @@
-[Đồng Phục Thành Công](https://) là công ty chuyên may đồng phục giá rẻ đảm bảo chất lượng. Các sản phẩm được sản xuất tại Đồng phục Thành công bao gồm : Đồng phục sơ mi, đồng phục văn phòng, đồng phục áo thun, đồng phục công nhân, bảo hộ lao động, đồng phục y tế, đồng phục bệnh viện. Đồng Phục Thành Công luôn nỗ lực tạo dựng mối quan hệ hợp tác tốt đẹp với các đối tác trên cơ sở mang lại lợi ích song phương, không ngừng phát triển hoạt động kinh doanh của mình, mang đến cho khách hàng sản phẩm từ dịch vụ may đồng phục giá rẻ với chất lượng tốt nhất. 
-Website: https://dongphucthanhcong.com
-Hotline: 0946752020 - 0982006906
-Địa chỉ: Số 28 Đường N4, Phường Hiệp Thành, Quận 12, TP.HCM
-#dongphuc #dongphucgiare #maydongphucgiare #dongphuchcm
-[![](https://g0v.hackmd.io/_uploads/SJxEKkHArye.jpg)
-](https://)
-Mạng xã hội: 
-https://www. tumblr.com/maydongphuctc 
-https://www.youtube.com/@maydongphuctc 
-https://www.pinterest.com/maydongphuctc/ 
-https://x.com/maydongphuctc 
-https://about.me/maydongphuctc
-https://vimeo.com/maydongphuctc 
-https://issuu.com/maydongphuctc 
-https: //gitlab.com/maydongphuctc 
-https://www.behance.net/maydongphuctc 
-https://heylink.me/dongphucthanhcong123 
-https://gitee.com/maydongphuctc 
-https://qiita.com/maydongphuctc 
-https://gravatar.com/maydongphuctc
+The Primrose 
+![](https://g0v.hackmd.io/_uploads/HkxNoUBcw1e.jpg)
+The Primrose provides Amazon buying guide information and shares the knowledge to perfect your favorite dishes.We offer in-depth information on cooking ingredients and helpful shopping tips.Here, you can discover the world of food,beverages,and useful products.Find easy,delicious dishes that the whole family will love without spending hours in the kitchen.
+![](https://g0v.hackmd.io/_uploads/rylxTIrqD1x.jpg)
+Website:https://www.theprimrose.net/home/
+Hotline: 0399051797
+Địa chỉ: Tan Loi Ward, Buon Ma Thuot City, Dak Lak
+Email: buithianhthao99@gmail.com
+#theprimrose .
+
+mang xa hoi
+https://www.facebook.com/anhthao.bmt
+https://x.com/theprimrose99
+https://www.youtube.com/channel/UCqwafR4LMMlk1xu1BnKXq1Q
+https://500px.com/p/theprimrose1234?view=photos
+https://vimeo.com/theprimrose1234
+https://www.tumblr.com/theprimrose1234
+https://www.pinterest.com/theprimrose99
