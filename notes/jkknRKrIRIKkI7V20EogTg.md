@@ -76,6 +76,8 @@ Staging 可能在睡覺，可以先用「教學」戳醒 chatbot
 
 ### Material
 
+https://drive.google.com/drive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
+
 - [ ] 局部上光 bil 名片
 - [ ] 文宣更新與印刷
   - [ ] 英文（achoo）
@@ -84,7 +86,10 @@ Staging 可能在睡覺，可以先用「教學」戳醒 chatbot
   - [ ] 豆腐版
   - 借放在 OCF 攤位 & 自己攤位上
 - [ ] 宣傳用：Logo 貼紙（透明 or 長的）
-  - [ ]「適時查核？那你來查呀」
+  - Soho 500 張起跳，算模 http://www.soho8d.com.tw/Form2/F102.aspx?id=147
+  - StickerHD：https://www.stickerhd.com/ ![](https://g0v.hackmd.io/_uploads/H1PwznoPye.png)
+
+  - [ ] 「適時查核？那你來查呀」
 
 ## Open165
 
