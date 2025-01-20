@@ -56,7 +56,8 @@ if (!canView) {
 SwitchStatus新增canEdit
 `<SwitchStatus data={company} handleStatusChange={handleStatusChange} canEdit={canEdit}>`
 24. 調整MemberList.js 同步驟23.
-25. 商品頁面分為Product.js與ProductList.js，先在Product.js加上"canView"與相關
+25. 商品頁面分為Product.js與ProductList.js，先在Product.js加上"canView"與相關ProductList.js加上canEdit相關
+26. 需求單頁面分為Pr.js與PrList.js，同25
 
 
 
@@ -80,3 +81,4 @@ node.exe                     34592 Console                    1     41,032 K
   TCP    127.0.0.1:62844        127.0.0.1:3000         ESTABLISHED     43944
   最後面的是PID。
 4. 輸入`taskkill /PID <PID> /F` 刪除進程即可關閉server,如:`taskkill /PID 34592 /F`
+
