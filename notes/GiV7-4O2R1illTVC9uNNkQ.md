@@ -1,5 +1,5 @@
 Cách thức hoạt động của cá cược thể thao tại HO88
-Cá cược thể thao là một trong những dịch vụ nổi bật tại <a href="https://https://ho88.online/">Ho88 </a>, thu hút hàng triệu người chơi tham gia mỗi ngày. Với một hệ thống cá cược được thiết kế dễ sử dụng và hiệu quả, HO88 cung cấp cho người chơi một trải nghiệm thể thao trực tuyến hấp dẫn, từ việc đặt cược đến thanh toán. Cùng tìm hiểu chi tiết về quy trình tham gia cá cược thể thao tại HO88, bao gồm các bước từ lúc bắt đầu cho đến khi hoàn thành giao dịch.
+Cá cược thể thao là một trong những dịch vụ nổi bật tại <a href="https://ho88.online/">Ho88 </a>, thu hút hàng triệu người chơi tham gia mỗi ngày. Với một hệ thống cá cược được thiết kế dễ sử dụng và hiệu quả, HO88 cung cấp cho người chơi một trải nghiệm thể thao trực tuyến hấp dẫn, từ việc đặt cược đến thanh toán. Cùng tìm hiểu chi tiết về quy trình tham gia cá cược thể thao tại HO88, bao gồm các bước từ lúc bắt đầu cho đến khi hoàn thành giao dịch.
 1. Đăng nhập và chọn môn thể thao
 Trước tiên, người chơi cần đăng nhập vào tài khoản HO88 của mình. Sau khi đăng nhập, bạn có thể dễ dàng truy cập vào mục Cá cược thể thao trên giao diện trang chủ. HO88 cung cấp một danh mục thể thao đa dạng để người chơi lựa chọn, bao gồm các môn thể thao phổ biến như:
 Bóng đá
