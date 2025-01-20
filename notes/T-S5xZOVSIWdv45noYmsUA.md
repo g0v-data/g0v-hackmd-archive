@@ -1,6 +1,6 @@
 ---
 title: "透析貪污判決--揭露與查詢網站"
-tags: Judical,hackpad
+tags: Judical, hackpad
 ---
 
 # 透析貪污判決--揭露與查詢網站

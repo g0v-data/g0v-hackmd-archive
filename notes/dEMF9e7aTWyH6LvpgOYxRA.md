@@ -1,3 +1,7 @@
+---
+tags: Miffy, 
+---
+
 # Miffy 光明使：爬梳/繼承 Miffy 的專案與溫度
 
 ## 活動列表
@@ -35,6 +39,7 @@
 
 
 ## Miffy 足跡
+
 ### Miffy寫過的報告
 
 2024 年 04 月 12 日
@@ -62,3 +67,17 @@
 
 ## 其他發現
 - Hackpad 存檔頁面中有許多其他 hackpad 連結已失效，但是只要進入編輯模式，將網址從 "g0v.hackpad.com" 改成 "g0v.hackpad.tw"，它就復活了！
+
+## 社群朋友的追思貼文
+
+Ipa
+https://www.facebook.com/ipa.chiu/posts/pfbid025omJosTmodSqHagvkXUoahEqnM6pMTrVH8MbMf96cZq9wHCNFJQi454KKtMVHBRHl
+
+
+## 貼紙企劃
+
+![](https://g0v.hackmd.io/_uploads/H1gFTeCsPkx.jpg)
+
+構想說明
+- 感謝上次參加 魔防松 的朋友，有將 Miffy 追思會的貼紙保留並攜帶至活動，我這邊將其剪裁成 黑客松 常見貼紙規格，未來也會於 g0v 黑客松分享
+- Miffy 回顧共筆，我們可以申請 ronnywang 開發的短網址，並且將短網址結合一句簡介話語，整合在每張貼紙的背後，提供 貼紙索取者，可以進一步查看瀏覽、共筆
