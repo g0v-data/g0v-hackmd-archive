@@ -5,8 +5,7 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 目錄
 [TOC]
 :::
-展頌資訊會議室
-https://join.skype.com/p2NkbssUvTC1
+
 #### 常用連結
 Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
 O:\25資訊組\FPG\ERP\FPG.xlsx
