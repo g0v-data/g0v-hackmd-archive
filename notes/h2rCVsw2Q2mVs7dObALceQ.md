@@ -58,6 +58,7 @@ SwitchStatus新增canEdit
 24. 調整MemberList.js 同步驟23.
 25. 商品頁面分為Product.js與ProductList.js，先在Product.js加上"canView"與相關ProductList.js加上canEdit相關
 26. 需求單頁面分為Pr.js與PrList.js，同25
+27. 
 
 
 

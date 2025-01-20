@@ -16,11 +16,16 @@ GA: UA-98468513-3
 
 ### :star: Released to production
 
-#### :electric_plug: API
+
 #### :globe_with_meridians: Site
 #### :robot_face: rumors-line-bot
 
 ### :rocket: Staging
+
+#### :electric_plug: API
+
+- Add langfuse integration https://github.com/cofacts/rumors-api/pull/355
+    - Use doc ID as trace ID so that we can attach scores later
 
 #### :robot_face: rumors-line-bot
 
