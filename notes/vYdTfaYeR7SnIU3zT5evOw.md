@@ -315,14 +315,10 @@ slack channel: #hackmd
 ### 備份、API
 
 🙏 感謝 Ronny 協助備份、建立 API
+- 備份：https://github.com/g0v-data/g0v-hackmd-archive
+- HackMD-API：https://g0v.hackmd.io/api/overview
 
-備份
-https://github.com/g0v-data/g0v-hackmd-archive
-
-HackMD-API	https://g0v.hackmd.io/api/overview
-
-
-### team 功能
+### Team 功能
 
 g0v hackmd 是擁有獨立的 instance，所以 g0v hackmd 可以自行建立多個 team；建立 team 現在需要 instance 的超級管理員權限。
 
@@ -397,6 +393,11 @@ HackMD 的主機維護，感謝 Jacky 協助。
 - 2022 開始，維運 g0v HackMD team 申請頁面與申請流程。
 - 不定期清理 untitled，超過一周以上未編輯（或僅有測試訊息）且無 Owner 的 Note，其餘不做更動。
 - 2024.06.08 正在撰寫關於違反 g0v CoC 行為守則，或屬於與開源精神無關的廣告內容，檢舉及處理機制初步方案，其中將需要超級管理員經手處理。
+
+### g0v.hackmd 工作待辦事項 
+
+歡迎跳坑 !
+https://g0v.hackmd.io/No2V3mO0RQiKsJz4o4Z3hQ?view
 
 ### g0v.hackmd 內容違規標準與因應措施（草稿中，歡迎共筆）
 
@@ -490,8 +491,7 @@ AWS
     - 社群貢獻點數
         - 揪松團在 2020 年 04 月有得到 AWS 一年的 3000USD 的 credit 贊助（[記錄](https://trello.com/c/eCpoDplo/1950-aws-credit-%E8%A8%98%E9%8C%84)），目前主要花費於 HackMD 主機上。
             - 例如 [Joinplus 專案社群](https://g0v.hackmd.io/@chewei/joinplus/) 貢獻 260.17USD credit 
-- 於 2024.04 獲得 HackMD 支持 🙏
-
+- 於 2024.04 獲得 HackMD 支持 🙏 減輕相關支出壓力
 
 
 ## g0v Flickr
