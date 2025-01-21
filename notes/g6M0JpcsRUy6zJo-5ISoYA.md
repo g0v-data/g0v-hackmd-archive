@@ -14,6 +14,10 @@ tags: 國會松
 1. 當您參與本活動，即代表您已經同意 [g0v 宣言](https://g0v.tw/intl/zh-TW/manifesto/zh-TW/) 並願意遵守 [行為守則 Code of Conduct](https://g0v.hackmd.io/s/COC)。
 :::
 
+# 講者簡報
+Ronny：[預算從主計總處產出再到審查通過的重重攻防戰](https://docs.google.com/presentation/d/1iPYMY1u2YhwE3t9y-HJUgqk88Rcow7mHINCe4f88KfQ/edit#slide=id.p) 
+
+皓中：[質詢的進化－承載愛與夢想的預算審查](https://drive.google.com/file/d/1tpM2M3j8ZuB1E542K_sda7GZLGrCIwWr/view?usp=drive_link)
 
 # 共筆區
 
