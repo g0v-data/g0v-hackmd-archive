@@ -5,7 +5,17 @@ The difference between compiling with -O0 and -O3 is that -O0 applies no optimiz
 
 | Compiler Optimization | Binary Size | Average Runtime |
 |-----------------------|-------------|-----------------|
-| `-O0`                 | 3.2 MB      | 1.25 seconds    |
-| `-O3`                 | 2.4 MB      | 0.85 seconds    |
+| `-O0`                 | 18k   | 0 seconds   |
+| `-O3`                 | 17k      | 0 seconds    |
 
 
+####quet2
+The difference in runtime for the second question might be less noticeable compared to the first, as the print operation might dominate the time consumed. However, -O3 will still likely be faster than -O0, even with the print statement.
+
+
+| Compiler Optimization | Binary Size | Average Runtime |
+
+|      `-O0`               |  174868         |100000000|
+   
+| `-O3`                 |    332650   |  100000000|
+ 
