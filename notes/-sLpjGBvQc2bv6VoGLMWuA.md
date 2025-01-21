@@ -16,8 +16,8 @@ Hastag: #shbet, #linkshbet, #trangchushbet, #casinoshbet, #dangnhapshbet, #dangk
 <a href="https://soundcloud.com/shbet29com1">https://soundcloud.com/shbet29com1</a>
 <a href="https://www.tumblr.com/shbet29com1">https://www.tumblr.com/shbet29com1</a>
 <a href="https://www.quora.com/profile/Shbet29-Com-Com">https://www.quora.com/profile/Shbet29-Com-Com</a>
-<a href="https://tvchrist.ning.com/profile/shbet29com">https://tvchrist.ning.com/profile/shbet29com</a>
-<a href="https://rebrand.ly/shbet29com1">https://rebrand.ly/shbet29com1</a>
-<a href="https://www.deviantart.com/shbet29com1">https://www.deviantart.com/shbet29com1</a>
-<a href="https://www.dailymotion.com/shbet29com1">https://www.dailymotion.com/shbet29com1</a>
-<a href="https://taylorhicks.ning.com/profile/shbet29com">https://taylorhicks.ning.com/profile/shbet29com</a>
+<a href="https://comicvine.gamespot.com/profile/shbet29com2/">https://comicvine.gamespot.com/profile/shbet29com2/</a>
+<a href="https://www.wikidot.com/user:info/shbet29com1">https://www.wikidot.com/user:info/shbet29com1</a>
+<a href="https://3dwarehouse.sketchup.com/by/shbet29com1">https://3dwarehouse.sketchup.com/by/shbet29com1</a>
+<a href="https://club.doctissimo.fr/shbet29com1/">https://club.doctissimo.fr/shbet29com1/</a>
+<a href="https://www.universe.com/users/shbet29-com-1H02J4">https://www.universe.com/users/shbet29-com-1H02J4</a>

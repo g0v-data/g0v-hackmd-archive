@@ -16,4 +16,5 @@ See 'docker run --help'.
 * 解法：由 map 生成的每個子項目，需要添加 key 屬性的元素，修改 `<tr key={member.id || index}> {/* 確保使用唯一的 key */} `或是 ` <tr key={member.id}> {/* 確保使用唯一的 key */}`
 
 4. 問題描述: CORS 相關的error 會長這樣 "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at $somesite"
-5. 問題描述:react-bootstrap 的 Accordion.Header對component 尤其是動態的支援是無效的(沒有炫ㄖ
+5. 問題描述:react-bootstrap 的 Accordion.Header對component 尤其是動態的支援是無效的(會無法渲染套件)，其在Header主要以放靜態資訊為主，body應該可以正常渲染套件。
+* 解法:
