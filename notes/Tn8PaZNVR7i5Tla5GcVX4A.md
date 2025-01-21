@@ -26,5 +26,9 @@ Papago 是 Naver 旗下的翻譯app。不僅操作介面簡單，而且不論打
 韓國防災避難據點
 https://g0v.hackmd.io/@chewei/waytosafety-home
 
+首爾的人權事件地景
+https://www.facebook.com/share/1Ai6GUY8BA/
+
+
 蒐集
 - 輪椅輔具出遊心得 https://www.facebook.com/share/p/15EJ6hnkJK/
