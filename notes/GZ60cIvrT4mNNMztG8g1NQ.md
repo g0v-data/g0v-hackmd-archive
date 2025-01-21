@@ -164,6 +164,11 @@ https://commons.wikimedia.org/w/index.php?search=%E7%81%BD+%E5%8F%B0%E7%81%A3&ti
 https://commutag.agawork.tw/dataset?id=5f1f91818237617934d8d168
 
 
+### 地震震災災損拍照上傳地圖 
+
+地圖系統由 kiang 建置
+https://tainan.olc.tw/p/earthquake0121/#
+
 ## 與個別創作者洽談，且採用接近非專屬授權跟非商業改作
 
 ### 與柯金源導演的合作方式
@@ -195,7 +200,6 @@ https://www.facebook.com/share/p/uGRNQ8RjfiK63pbL/?mibextid=K35XfP
 
 葛樂禮颱風 http://ustdc.blogspot.com/2008/06/typhoon-gloria-1963.html
 
-
 1905 梅山地震，收容
 https://www.facebook.com/share/p/t6ZMvLSHKKx1L59B/
 
@@ -222,3 +226,6 @@ https://www.facebook.com/permalink.php?story_fbid=pfbid02RE1FHfwUF2kdwayuBKyREXM
 
 1951 花蓮地震，鐵軌變形 
 https://www.facebook.com/share/p/3SHDUrb2Es6iE64h/
+
+20250121 地震
+https://www.facebook.com/chris.yuan.9/posts/pfbid02v2xr238PyMHZsHq6924AgVk19ff1jsxM4jJ7dGR6W6LaoGf47N4ZEyimWwqdCM3gl
