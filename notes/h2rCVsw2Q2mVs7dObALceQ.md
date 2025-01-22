@@ -58,7 +58,8 @@ SwitchStatus新增canEdit
 24. 調整MemberList.js 同步驟23.
 25. 商品頁面分為Product.js與ProductList.js，先在Product.js加上"canView"與相關ProductList.js加上canEdit相關
 26. 需求單頁面分為Pr.js與PrList.js，同25
-27. 將前面的canEdit相關移到SwitchStatus.js 這樣只要這邊有就好同時改回<SwitchStatus data={company} handleStatusChange={handleStatusChange} ~~canEdit={canEdit}~~>
+27. ~~將前面的canEdit相關移到SwitchStatus.js 這樣只要這邊有就好同時改回<SwitchStatus data={company} handleStatusChange={handleStatusChange} canEdit={canEdit}>~~ 還是需要知道哪裡來的，company product之類的，所以改回有canEdit={canEdit}
+28. Company.js 的 SwitchStatus 改名為SwitchCompanyStatus，他與另外五個SwitchStatus的來源不同
 
 
 

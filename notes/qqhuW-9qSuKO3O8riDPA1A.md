@@ -17,4 +17,4 @@ See 'docker run --help'.
 
 4. 問題描述: CORS 相關的error 會長這樣 "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at $somesite"
 5. 問題描述:react-bootstrap 的 Accordion.Header對component 尤其是動態的支援是無效的(會無法渲染套件)，其在Header主要以放靜態資訊為主，body應該可以正常渲染套件。
-* 解法:
+* 解法:其實可以，支援是有效的，是我的import檔案不同卻取相同名子。
