@@ -78,6 +78,7 @@ Goal: post on FtO channel; decide before RC
         - ePanstwo Foundation (Fiscal Sponsor)
     - g0v Summit funders
         - Luminate [name=pm5]
+        - Open Society Foundation (OSF)? [name=Nao]
     - Westminster Foundation for Dem (in Taipei)
     - Proton Foundation
     - FNF (in Taipei)
