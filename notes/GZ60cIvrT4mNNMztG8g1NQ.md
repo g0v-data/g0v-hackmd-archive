@@ -39,7 +39,13 @@ https://docs.google.com/presentation/d/1KKDka2cuJHT6N6IqTumfcjxBt0xhJIscwmv8R7Ad
 
 ## 史料影像
 
-### 討論案例舉例
+### 動態影像
+
+1964 白河地震
+https://youtu.be/HIDctI72T4o
+
+
+### 靜態照片
 
 「台湾地区災害写真／明治」影像網頁
 - 網頁建置單位：日本宮内庁 http://shoryobu.kunaicho.go.jp/
