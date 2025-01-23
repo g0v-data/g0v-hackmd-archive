@@ -117,6 +117,7 @@ https://www.facebook.com/share/p/15dyuFMAC8/?mibextid=wwXIfr
 https://youtu.be/YNITi71IA0o
 - 臺北市中山分局偵查隊小隊長 洪晨鐘 https://www.facebook.com/share/p/19m8XXeJZj/
 - 數位信任協會 https://dtatw.org/about_us/
+- 刑警台通新一集的討論：https://open.spotify.com/episode/6e1TBiepMBcG04TcVQDGqK
 - 議題社群：網路黑魔法防禦松
     - https://g0v.hackmd.io/qf2mb4z2S-q5K6HoJ3b8Vg
 - Dcard 反詐騙板
