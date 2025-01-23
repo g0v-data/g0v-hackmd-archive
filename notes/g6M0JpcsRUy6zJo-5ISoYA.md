@@ -21,6 +21,9 @@ Ronny：[預算從主計總處產出再到審查通過的重重攻防戰](https:
 
 # 共筆區
 
+淳恩
+https://www.facebook.com/share/p/1BJ9j8mo2g/
+
 ## Ronny
 
 - 每個部會要當作不同的個體，每個部會作風不同
