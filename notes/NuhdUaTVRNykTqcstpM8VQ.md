@@ -41,7 +41,9 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #australia 澳洲
 #north-america 想在美國協作的可以來這邊聊天喔！
 #g0v-siliconvalley g0v 矽谷灣區小聚
+#ukraine
 #deutschland-germany 德國與德語區
+#french-français
 #g0v-it https://github.com/g0v-it
 #intl 國際交流工作小組 g0v international、國際交流資訊都在這
 #facing-the-ocean Connected to Code for Korea & Code for Japan
@@ -54,6 +56,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #拉人更輕鬆
 #jothon 揪松團相關活動討論（黑客松、基礎松）
 #fundraising-救松團-募款執行
+#jothon-stall-擺攤
 #community99-社群九分鐘-撰寫工作頻道
 #g0v-database-專案清單-基礎建設清單
 #translation 翻譯頻道 i18n + l10n—translate everything.
@@ -86,6 +89,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #summit g0v Summit 年會的公開頻道
 #10th-anniversary 十週年活動籌劃頻道
 #moztw-space 摩茲工寮社群空間 https://moztw.org/space/
+#g0v-social creating g0v.social, a decentralized social network
 　
 #moedict 萌典、字典
 #amis 阿美語萌典
@@ -254,7 +258,6 @@ https://g0v-slack-archive.g0v.ronny.tw
 ．g0v 灣區社群: https://www.facebook.com/groups/824770435679041/
 
 ## 非 slack 的討論區：Discord
-．g0v-MARS 移民計劃 Discord: https://discord.gg/3XJVmscpfq
 ．【Cofacts 真的假的】Discord: https://discord.gg/mmZS9sZuau
 ．確診者足跡地圖 Discord: https://discord.gg/ePKuRGE9sF
 ．零時小學校 Discord: https://discord.gg/csDjWBbhvf
@@ -269,7 +272,13 @@ https://g0v-slack-archive.g0v.ronny.tw
 ．中部高中電資社團聯合會議 Discord: https://discord.com/invite/neQ7QEUcqe
 ．南臺灣學生資訊社群 Discord: https://discord.gg/6QW6gqhHQe
 ．伴伴學 Discord: https://discord.gg/azQUs8Y2fY
+
+---
+
+:::spoiler 似乎是已刪除了
+．g0v-MARS 移民計劃 Discord: https://discord.gg/3XJVmscpfq
 ．族語復振 Sowal no Formosa https://discord.gg/wSECrwgqhV
+:::
 
 ---
 
