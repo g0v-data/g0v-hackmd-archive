@@ -31,6 +31,7 @@ tags: 詐騙
 https://ec.ltn.com.tw/article/breakingnews/4900354
 - 利用同情心與情感的詐騙。常見劇本：https://xrex.io/zh/xrex-anti-fraud-scamming-through-emotional-manipulation-zh/
 - 收到莫名其妙的包裹： https://www.facebook.com/Translocal393/posts/pfbid02YLdjU25dJvT7aQybUyfD3S5d3DazK7ZAQKRsD4Fb4nsPh5FUJ5YWvFA7fKiNcHecl?locale=zh_TW
+- 受騙遭受人口販賣，緬甸詐騙園區 https://www.instagram.com/reel/DFM8NqUp9zH/?igsh=M2NqZHpsdWE3M3Nl
 
 ## 專案
 
