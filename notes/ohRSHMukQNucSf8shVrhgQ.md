@@ -1,11 +1,9 @@
 Trang [MM088](https://mmo88.net/) là điểm đến lý tưởng cho những ai tìm kiếm thông tin và đánh giá về các nhà cái uy tín trên thị trường. Với sứ mệnh mang đến cho người dùng cái nhìn tổng quan và chính xác về các nền tảng cá cược, MM088 không ngừng cập nhật các xu hướng mới nhất và thông tin khuyến mãi hấp dẫn. Tại đây, bạn sẽ tìm thấy những bài viết chất lượng, phân tích sâu sắc và đánh giá chi tiết về các nhà cái hàng đầu. Hãy truy cập MM088 để nắm bắt cơ hội và lựa chọn nhà cái uy tín và chất lượng trên thị trường.
 Thông tin về MMO88:
 - Trang Chủ MMO88: https://mmo88.net/
-- Email liên hệ MMO88: admin@okvip.com
-- Skype của MMO88: okvip.celen
-- WhatsApp: +32468184541
-- Discord: ThePornDude#1907
-- Google Chat: admin@okvip.com
+- Email liên hệ MMO88: mmo88.contact@gmail.com 
+- Skype của MMO88: mmo888.admin
+- Google Chat: admin@mmo88.com 
 - Trụ Sở Chính MMO88: 6 Mê Linh, Phường 19, Bình Thạnh, Hồ Chí Minh, Việt Nam
 - Hashtags: #mmo88 #mmo88.net #linktrangchummo88 #congthongtinmmo88 #thongtinnhacaiuytintaimmo88
 https://twitter.com/mmo88net
