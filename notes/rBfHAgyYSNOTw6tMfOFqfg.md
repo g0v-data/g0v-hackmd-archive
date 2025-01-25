@@ -85,6 +85,9 @@ https://www.facebook.com/events/3957211264564162/
 報導者
 https://www.twreporter.org/a/the-reporter-newsroom-ai-use-guideline?fbclid=IwZXh0bgNhZW0CMTEAAR2D0_b9v-tWcwKcs-icFIl7MUHqwDysWqgpdseTy09KFzNK4W5Enz56tds_aem_guImCFj0URqBvOyNcKVmsA
 
+台灣食品技師
+https://www.facebook.com/groups/407071349350303?multi_permalinks=9314983485225667&hoisted_section_header_type=recently_seen
+
 產品經理思維
 https://www.facebook.com/share/p/1B2BxKghWE/
 
