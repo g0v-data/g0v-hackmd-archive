@@ -81,7 +81,7 @@ https://drive.google.com/drive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
 
 - [x] 局部上光 bil 名片
   - 加中文「比鄰」小字
-- [ ] 更新英文版網站 news
+- [x] 更新英文版網站 news
 - [ ] 文宣更新與印刷
   - [ ] 英文（achoo）
     - 250 張起跳 http://www.soho8d.com.tw/Form2/F102.aspx?csubid=73

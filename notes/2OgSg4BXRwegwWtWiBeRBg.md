@@ -40,7 +40,9 @@ tags: China
 </font>
 
 
-待分類
+
+## 整體評估
+
 China Index - The First Cross-Regional Project to Measure and Visualize PRC’s Influence by Presenting Comparable Data.
 https://china-index.io/
 
@@ -185,6 +187,11 @@ http://cpc.people.com.cn/BIG5/n1/2022/0811/c64387-32499836.html
     - 3D 地圖https://www.facebook.com/share/p/Q329vZ5rnVdfRQCj/
 - 平潭島、東山島、海流 https://www.facebook.com/story.php?story_fbid=pfbid0XChNwVeU6TwjwtoPjdzjcrF2ivgK5kCxJQkQJHmn6Jma8B2XSSAHTkic2HHVnBXSl&id=100008337401408&mibextid=qC1gEa
 - https://pc.thread0.com/
+
+### 對臺澎金馬的軍演兵推
+
+臺灣本島沿海，總共有 14 個「紅色海灘」被匡列為共軍可能登陸點的海灘
+https://www.facebook.com/permalink.php?story_fbid=pfbid02sPJmb4QzxKfAPRjEwKcx6mFUXtkuSdFf1nLJ6hG4KCafupjnywUcwhLzvXRHGavMl&id=61554981061913
 
 ### 中國民間輿論
 
