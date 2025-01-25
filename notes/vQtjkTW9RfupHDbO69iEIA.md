@@ -21,7 +21,7 @@ tags: FtO, g0v-intl, RightsCon
 
 - When are everyone in Taiwan in Feb? [name=chihao]
     - Forever [name=chihao]
-    - 2/21 - 3/2 Nao
+    - 2/21 - 3/28 Nao
     - 2/21 - 2/28 Eunsoo
     - 2/21 - Mami
 - Jothon
