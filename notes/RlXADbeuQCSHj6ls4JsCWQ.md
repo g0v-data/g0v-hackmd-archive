@@ -1,12 +1,9 @@
 ![Screenshot_3](https://hackmd.io/_uploads/rynJCAlOJe.jpg)
-
-[TG777](https://tg777.promo/) is a leading online bookmaker, featuring a diverse game system such as sports betting, casino, fish shooting, and slot games. With a friendly interface, competitive odds and 24/7 support service, TG777 is committed to bringing players a high-quality entertainment experience, transparency and absolute safety in all transactions.
-Brand Name: TG777
-Address: 2436 Andrade, Santa Cruz, Manila, 1014 Metro Manila, Philippines
-Phone: 0917253446
+We have games to suit every player when playing Casino Online. Not only do we have hundreds of Casino games,we also offer many bonuses and promotions to our members.
+Adress :73 Main Ave, Cubao, Quezon City, 1109 Metro Manila, Philippines
+Phone : +639171172222
+Email: tg777.ong@gmail.com
 Website: https://tg777.promo/
-Email: tg777promo@gmail.com
-Zipcode: 700000
 Hashtag: #tg777promo #tg777
 
 https://x.com/tg777promo
