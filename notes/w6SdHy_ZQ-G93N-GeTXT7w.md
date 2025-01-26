@@ -26,5 +26,5 @@
  Ngoài ra, 8day còn được đánh giá cao về mức độ minh bạch và công bằng trong mỗi ván cược. Trò chơi được giám sát chặt chẽ và tính toán kỹ lưỡng để đảm bảo sự công bằng cho tất cả người chơi.
  
  Với 8day, việc đặt niềm tin vào một sự lựa chọn hàng đầu cho trải nghiệm cá cược an toàn và tin cậy không chỉ là quyết định đúng đắn mà còn là một trải nghiệm thú vị và đáng để khám phá."
- 8day](https://game8day.com/chinh-sach-bao-mat-8day/)
-Xem thêm: [Về chúng tôi 8day](https://game8day.com/ve-chung-toi-8day/)
+ 
+Xem thêm: [Tin tức 8day](https://game8day.com/tin-tuc-8day/)
