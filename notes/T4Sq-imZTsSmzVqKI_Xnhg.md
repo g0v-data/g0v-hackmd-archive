@@ -113,12 +113,14 @@ https://www.facebook.com/share/p/15dyuFMAC8/?mibextid=wwXIfr
 - 內政部警政署刑事警察局林書立科長
     - https://www.facebook.com/LawXDrama/posts/pfbid02rm7WKp9pqFCfeEFjqycaiPSRhSYYjE8hFeKx9sAbfXjUWj8D2XU3GrNErLjgqzqQl
     - https://www.facebook.com/LawXDrama/posts/pfbid0upZ2zzhYvqNG5uarcX8gKXStzagAXgrvT9MiRsEXZZwztU56ftxZYhfXe1WyQVtWl
+- 四位來賓名單
+    - https://www.instagram.com/p/DFKki_xPU9i/?igsh=MWk2bzBoNnJzcWw1cg==
 - 刑偵第六大隊
     - (公視新聞) 廣告公司投放詐騙廣告 
 https://youtu.be/YNITi71IA0o
 - 臺北市中山分局偵查隊小隊長 洪晨鐘 https://www.facebook.com/share/p/19m8XXeJZj/
 - 數位信任協會 https://dtatw.org/about_us/
-- 刑警台通新一集的討論：https://open.spotify.com/episode/6e1TBiepMBcG04TcVQDGqK
+- 刑警，台通新一集的討論：https://open.spotify.com/episode/6e1TBiepMBcG04TcVQDGqK
 - 議題社群：網路黑魔法防禦松
     - https://g0v.hackmd.io/qf2mb4z2S-q5K6HoJ3b8Vg
 - Dcard 反詐騙板
