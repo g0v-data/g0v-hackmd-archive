@@ -8,7 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：bil, mrorz, nonumpa
+- 線上出席：bil, mrorz, nonumpa, 4000
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -29,11 +29,11 @@ GA: UA-98468513-3
 
 https://lin.ee/1QUzEX4nI
 
-- [ ] 應可送出「全新影片訊息」並且讀到 AI 回應
-    - [ ] 可對 AI 回應 upvote / downvote
+- [x] 應可送出「全新影片訊息」並且讀到 AI 回應
+    - [x] 可對 AI 回應 upvote / downvote
 
-- [ ] 送出「沒回應」的舊影片訊息，可以看到 AI 回應
-    - [ ] 可對 AI 回應 upvote / downvote
+- [x] 送出「沒回應」的舊影片訊息，可以看到 AI 回應
+    - [x] 可對 AI 回應 upvote / downvote
 
 ##### ⛔️ Release Blockers
 ##### 未竟項目
@@ -43,19 +43,29 @@ https://lin.ee/1QUzEX4nI
 - Langfuse integration https://github.com/cofacts/rumors-site/pull/596
 - News update https://github.com/cofacts/rumors-site/pull/595
 
+預期行為
+- 任何 AI reply 都能 vote feedback
+- 但只有在 langfuse 有 trace 的新 AI reply 才會在 [score list](https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/scores) 有 trace name
+  - 就算 trace 不在 langfuse 上，也能用 trace ID 查找 AI response
+
 ##### Testing checklist
 http://dev.cofacts.tw/
 
 **未登入**下檢測：
 
-- [ ] 可對任何 AI 回應 upvote / downvote
+- [x] 可對任何 AI 回應 upvote / downvote
 
 ##### ⛔️ Release Blockers
 
-##### 未竟項目
-
+- [ ] Feedback dialog
+  - 沒打字應該 disable
+  - 送出後應該要感謝
 
 ### :eye: Under review
+
+Langfuse integration
+- https://github.com/cofacts/rumors-site/pull/596
+- https://github.com/cofacts/rumors-line-bot/pull/400
 
 
 ## RightsCon & Satelite Events
@@ -107,12 +117,11 @@ https://drive.google.com/drive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
   - [ ] 豆腐版
   - 借放在 OCF 攤位 & 自己攤位上
 - [ ] 宣傳用：Logo 貼紙（透明 or 長的）
+  - 透明 Logo + Cofacts
   - Soho 500 張起跳，算模 http://www.soho8d.com.tw/Form2/F102.aspx?id=147
   - Soho 數位標籤貼紙有透明版
-    - 50mm, 500 張透明 NTD 1650 http://www.soho8d.com.tw/Form2/F102.aspx?id=508
+    - 長方形, 500 張透明 NTD1484 http://www.soho8d.com.tw/Form2/F102.aspx?id=501
   - ~~StickerHD：https://www.stickerhd.com/ ![](https://g0v.hackmd.io/_uploads/H1PwznoPye.png)~~
-  - [ ] 「適時查核？那你來查呀」
-  - [ ] 「含有個人意見」
 - 投影片放在多頁的透明資料夾
 
 
