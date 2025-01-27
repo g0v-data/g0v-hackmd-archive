@@ -17,16 +17,13 @@ GA: UA-98468513-3
 ### :star: Released to production
 
 #### :electric_plug: API
-- https://github.com/cofacts/rumors-api/releases/tag/release%2F20250121
-- 
-
-
-#### :globe_with_meridians: Site
-#### :robot_face: rumors-line-bot
+- Langfuse integration https://github.com/cofacts/rumors-api/releases/tag/release%2F20250121
 
 ### :rocket: Staging
 
 #### :robot_face: rumors-line-bot
+
+- Langfuse integration https://github.com/cofacts/rumors-line-bot/pull/400
 
 ##### Testing checklist
 
@@ -65,6 +62,10 @@ https://lin.ee/1QUzEX4nI
 ##### 未竟項目
 
 #### :globe_with_meridians: Site
+
+- Langfuse integration https://github.com/cofacts/rumors-site/pull/596
+- News update https://github.com/cofacts/rumors-site/pull/595
+
 ##### Testing checklist
 http://dev.cofacts.tw/
 
