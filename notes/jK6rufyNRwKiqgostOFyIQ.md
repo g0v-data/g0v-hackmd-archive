@@ -44,6 +44,9 @@ https://github.com/WeNeedHome/SummaryOfLoanSuspension 用 Github 統計 CN 爛�
 
 ## 主題領域探討
 
+地方主義
+https://youtu.be/-SLxfqngEA8
+
 中國判決書
 https://www.facebook.com/100000509688340/posts/pfbid029NkctEZfJQnBpmPdYrQfgp6GeiRkU6UCPeqKkvPTjaDDXsnmAPeeMo2Eaiee9sPql/
 
