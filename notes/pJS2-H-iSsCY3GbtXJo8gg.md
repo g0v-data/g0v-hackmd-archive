@@ -27,9 +27,9 @@ Array: Elements are stored one after the other, so accessing and going through t
 Linked List: Each element points to the next, so you have to follow pointers, which makes it slower to go through.
 Main Difference: Arrays are faster to traverse because they’re stored in a single block of memory, while linked lists are slower due to scattered memory and the need to follow pointers.
 Measuring traversal times...
-Static array traversal time: 0 microseconds
+Static array traversal time: 14 microseconds
 Sum (array): 165075799
-Linked list traversal time: 0 microseconds
+Linked list traversal time: 19 microseconds
 Sum (linked list): 165168569
 
 ### ques5
