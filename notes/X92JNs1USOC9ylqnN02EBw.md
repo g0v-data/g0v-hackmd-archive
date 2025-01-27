@@ -57,7 +57,7 @@ http://dev.cofacts.tw/
 
 ##### ⛔️ Release Blockers
 
-- [ ] Feedback dialog
+- [x] Feedback dialog
   - 沒打字應該 disable
   - 送出後應該要感謝
 
