@@ -20,7 +20,7 @@ The difference in runtime for the second question might be less noticeable compa
 | `-O3`                 |    332650   |  100000000|
  
 ### ques3
-![](https://g0v.hackmd.io/_uploads/Hk8KOVH_Jx.png)
+![](https://g0v.hackmd.io/_uploads/HJLbN-LdJe.jpg)
 
 ### ques4
 Array: Elements are stored one after the other, so accessing and going through them is fast.
