@@ -3,7 +3,7 @@ Website: https://www.jayabaji.co/
 Phone Number: 00977-1-4233655 Zip Code: 33700
 PO Box 23 GF Lakeside Rd 15, Pokhara 33700, Nepal
 #jayabaji #jayabaji nepal #jayabaji casino
-Tham gia MXH
+Social
 https://x.com/JayabajiNepal
 https://www.youtube.com/@JayabajiCasino
 https://www.linkedin.com/in/jayabajinepal/
