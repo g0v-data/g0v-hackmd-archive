@@ -73,6 +73,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 建國啤酒廠 影片中有說明深水井 https://youtu.be/_zFV6AQF0jc
     - 八田與一 幸町住所 https://www.facebook.com/share/p/u4c9XGGv8MQVnF4s/
     - 文房 https://www.facebook.com/share/p/14P62Z5wSz/?mib
+    - 1925 遍路石佛 https://zh.m.wikipedia.org/zh-tw/%E5%8F%B0%E5%8C%97%E5%9B%9B%E5%9C%8B%E5%85%AB%E5%8D%81%E5%85%AB%E6%89%80%E9%9D%88%E5%A0%B4
     - 1933 臺北市大觀
         - https://www.facebook.com/photo?fbid=885845619797769&set=a.113042847078054
     - 延平基督教會，直轄市定古蹟 1937年創建
