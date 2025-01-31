@@ -1,0 +1,7 @@
+內觀運動（Vipassana movement）是現代緬甸上座部佛教的一個分支，強調透過「純粹觀智」（sukha-Vipassana）冥想，培養對三法印的洞察，以達到初果（入流）。自1950年代以來，該運動在全球廣泛流行，並在1970年代起在西方衍生出更注重禪定的正念運動。 ([en.wikipedia.org](https://en.wikipedia.org/wiki/Vipassana_movement?utm_source=chatgpt.com))
+
+19世紀時，受西方現代主義影響，緬甸上座部佛教開始復興冥想實踐。Ledi Sayadaw（雷迪禪師）基於註釋書，向在家眾普及內觀冥想，教授止禪（samatha），並強調修習四念處（satipatthana），以獲得對三法印的觀智，作為達到初果的主要途徑。20世紀，Mahasi Sayadaw（馬哈希禪師）進一步推廣「新緬甸四念處法」，使其在傳統上座部國家廣為人知。隨後，透過馬哈希禪師、S. N. Goenka（葛印卡）等緬甸老師的教導，內觀冥想在西方也獲得大量追隨者。此外，一些人也曾向泰國佛教老師學習，這些老師對註釋傳統持批判態度，強調止禪與觀禪的結合修習。 ([en.wikipedia.org](https://en.wikipedia.org/wiki/Vipassana_movement?utm_source=chatgpt.com))
+
+在美國，這種方法被稱為美國內觀運動或洞察冥想運動，相關機構包括洞察冥想協會（Insight Meditation Society）以及當代美國佛教老師，如Joseph Goldstein、Tara Brach、Gil Fronsdal、Sharon Salzberg、Ruth Denison、Shinzen Young和Jack Kornfield等。這些老師大多將嚴格的緬甸方法與泰國方法結合，並融入其他佛教和非佛教的理念與實踐，因為他們接受了更廣泛的訓練，對佛教資源持批判態度。儘管新緬甸方法嚴格基於上座部阿毗達摩和《清淨道論》，西方老師也傾向於基於個人經驗和經藏，以更文本批判的方式進行實踐。 ([en.wikipedia.org](https://en.wikipedia.org/wiki/Vipassana_movement?utm_source=chatgpt.com))
+
+自1980年代以來，內觀運動逐漸讓位於在世俗化的「正念」實踐，該實踐源自禪宗和內觀冥想，並已超越內觀冥想的受歡迎程度。在這種方法中，正念被理解為「透過有目的地、在當下、不加評判地專注所產生的覺知」，成為核心實踐，而非觀智。 ([en.wikipedia.org](https://en.wikipedia.org/wiki/Vipassana_movement?utm_source=chatgpt.com)) 
