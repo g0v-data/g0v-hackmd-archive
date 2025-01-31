@@ -269,7 +269,7 @@ https://g0v-slack-archive.g0v.ronny.tw
 ．Grapycal 圖形化程式語言 Discord: https://discord.com/invite/adNQcS42CT
 ．中學資訊討論群 CISC Discord: https://discord.gg/cisc
 ．北臺灣學生資訊社群 Discord: https://discord.scint.org/
-．中部高中電資社團聯合會議 Discord: https://discord.com/invite/neQ7QEUcqe
+．中部高中電資社團聯合會議 Discord: https://discord.com/invite/At7r54v94c
 ．南臺灣學生資訊社群 Discord: https://discord.gg/6QW6gqhHQe
 ．伴伴學 Discord: https://discord.gg/azQUs8Y2fY
 
