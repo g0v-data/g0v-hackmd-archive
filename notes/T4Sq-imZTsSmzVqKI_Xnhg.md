@@ -105,7 +105,11 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 - https://www.2024fsc-antiscam.com/event
 
 被綁架至詐騙園區，脫離後的心理輔導
-https://www.facebook.com/share/p/15dyuFMAC8/?mibextid=wwXIfr
+- https://www.facebook.com/share/p/15dyuFMAC8/?mibextid=wwXIfr
+
+國立中興大學圖書資訊學研究所碩士論文問卷，想知道您認為假訊息對於您使用公共圖書館資源的影響、對於公共圖書館提供的假訊息教育與素養教育資源和課程的瞭解，以及對於公共圖書館成為打擊假訊息有力管道的態度
+- https://forms.office.com/r/1mz0L21wbu
+- https://www.facebook.com/groups/269013233204234/posts/8601152416656899/?locale=zh_TW
 
 ## 單位與機構、社群
 - 數位發展部，訂定子法
