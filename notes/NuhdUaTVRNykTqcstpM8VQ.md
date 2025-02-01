@@ -28,6 +28,7 @@ Global & Local
 #taichung 台中討論群組！
 #nantou-南投 南投討論群組！
 #hualien 花蓮討論群組！
+#penghu-澎湖群島
 #kinmen-金門 金門討論群組！
 #matsu 馬祖討論群組！
 #keelung-基隆
