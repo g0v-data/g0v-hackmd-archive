@@ -16,7 +16,8 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 ## 以下是 g0v slack 頻道列表與簡介<br>》歡迎協助 (1) 提供中文簡短介紹、(2) 將簡介翻譯成英文 🙏
 
 :star2:  g0v slack 頻道傳送門
-　
+
+Global & Local
 #general 社群大廳，可以在這邊提出任何問題！ G0v City Hall / Plaza
 #general-en #general English version
 #general-ja #general Japanese version
@@ -32,8 +33,10 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #keelung-基隆
 #你不知道的小琉球 小琉球討論群組！Liuqiu
 #re-place 關於如何移住、回到故鄉，以及城市人如何與地方一起打造新故鄉的實踐
+#jothon-local-support-地方社群支持方案 support for local communities or initiatives 有相關想法與構想，歡迎到頻道討論 ~
 #hk https://github.com/g0vhk-io
 #hkpwparagliding 飛行傘計畫
+#myanmar
 #thai-ภาษาไทย 泰國與泰語
 #tiếngviệt-vietnam 越南與越語
 #nepali-नेपाली
@@ -49,19 +52,21 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #facing-the-ocean Connected to Code for Korea & Code for Japan
 #ig Internet / digital governance
 
+Infra / G0vernace
 #rand0m 歡迎自由灌水閒聊 :smile: Feel free to chat here.
 #self-intro 歡迎來到 g0v-slack，這是自我介紹的頻道，可以讓大家認識你唷！Welcome to g0v slack! Please introduce yourself to g0v community :heart:
 #joinchannel-slack-頻道名稱彙整 提供各式各樣的頻道簡介，以及傳送門 G0v slack channels discussions.
 #awesome-g0v-projects 令人驚奇的零時政府。找專案，找提案，找共筆，找幫手 一站搞定
+#project-坑主大補帖 協助坑主推展專案，整理相關執行經驗與建議
 #拉人更輕鬆
 #jothon 揪松團相關活動討論（黑客松、基礎松）
 #fundraising-救松團-募款執行
 #jothon-stall-擺攤
+#g0v-conservation-archive-文物保存
 #community99-社群九分鐘-撰寫工作頻道
 #g0v-database-專案清單-基礎建設清單
 #translation 翻譯頻道 i18n + l10n—translate everything.
 #localization 社群翻譯語彙庫 (glossary)，從軟體在地化需求出發，收集個別社群成員、在各自筆譯／口譯／翻譯專案使用的詞彙前進，並希望收錄不只一個語言。
-#project-坑主大補帖
 #name 專案取名稱的互助頻道
 #rs語料庫 諧音梗交流
 #let-it-out 心情抒發頻道 :slightly_smiling_face:
@@ -90,7 +95,8 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #10th-anniversary 十週年活動籌劃頻道
 #moztw-space 摩茲工寮社群空間 https://moztw.org/space/
 #g0v-social creating g0v.social, a decentralized social network
-　
+
+Edu / Learning / Health / Living
 #moedict 萌典、字典
 #amis 阿美語萌典
 #itaigi 愛台語 對漢字佮台羅誠熟手，做伙鬥校對巡喲
@@ -143,10 +149,12 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #health 健康議題、健檢
 #psymap 心理健康資源
 #psychmatch_public
+#adhd
 #fitness 動一動
 #g0vhiking for hiking affair
 #camping :camping: 全台露營區合法共 205 筆資料與線上地圖
 
+Open Gov & Projects
 #d2wg 數位民主研究案工作小組 g0v Digital Democracy Working Group
 #ogp 關注台灣「開放政府行動方案」制定
 #pmpc-公共程式法治研析與推動 Public Money Public Code
@@ -265,6 +273,7 @@ https://g0v-slack-archive.g0v.ronny.tw
 ．Lipoic 遠距授課與線上教室平台 Discord: https://discord.gg/ArKk54ajfr
 ．翻轉歷史! 用Minecraft RPG 學歷史吧! Discord: https://discord.gg/e6vhTq43gs
 ．綠洲計畫 - 特殊選才資訊&經驗分享平台 Discord: https://linktr.ee/lzgh2023
+．自學力 製學例 網站 https://www.ability-of-self-studying.tw/
 ．開源星手村 桌遊製作與推廣 Discord: https://discord.gg/SFY2JwdBr9
 ．Grapycal 圖形化程式語言 Discord: https://discord.com/invite/adNQcS42CT
 ．中學資訊討論群 CISC Discord: https://discord.gg/cisc
