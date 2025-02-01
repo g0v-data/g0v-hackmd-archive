@@ -31,6 +31,8 @@ https://g0v.hackmd.io/mSnyMhZKQM2Zj1rb_rs_ng
 https://github.com/WeNeedHome/SummaryOfLoanSuspension 用 Github 統計 CN 爛尾樓停貸通知案數。
 
 可能的來源
+- 國立清華大學當代中國研究中心
+    - https://www.facebook.com/nthucfcc
 - 媒體新聞
 - 維基百科
 - 異言網
