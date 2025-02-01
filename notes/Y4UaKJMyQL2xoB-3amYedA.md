@@ -1,5 +1,5 @@
 ---
-tags:
+tags: GIS, 
 ---
 
 # Japan
