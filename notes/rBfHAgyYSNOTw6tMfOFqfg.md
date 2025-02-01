@@ -71,6 +71,9 @@ https://www.facebook.com/watch/?v=828334065330478
 歌詞歌曲生成，土石流
 https://www.facebook.com/share/p/15CRFJaVeP/
 
+製作給嬰兒聆聽的歌曲
+https://www.facebook.com/share/v/19tpCh2Jki/
+
 # 推廣課程 / 計畫 / 機構導入
 
 高職
