@@ -41,6 +41,8 @@ https://ec.ltn.com.tw/article/breakingnews/4900354
     - https://g0v.hackmd.io/roo-89pnR6iouhm-xgLL3A
 - 建立中繼網頁，確保該網址不會遭到惡意使用
     - 案例：財政部電子申報繳稅服務網 https://g0v.hackmd.io/p-jr_r5tRLyQ1A7OUL1r9w
+- 快門手的 dataset
+    - https://github.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter
 
 ### 可疑訊息查證
 - Cofacts 真的假的是一個透過群眾協作以及聊天機器人來做事實查核的可疑訊息查證平台，讓每一個不確定真假的訊息，都能透過群眾的共同努力，被好好檢視跟查核討論 https://cofacts.tw/
