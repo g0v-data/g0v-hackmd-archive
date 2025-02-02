@@ -3,7 +3,7 @@
 tags: rand0mth0n, hackathon
 ---
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
-# g0v Rand0mth 18 n 第 拾捌 次放輕松
+# g0v Rand0mth18n 第拾捌次放輕松
 
 :::info
 [↩️ 回到籌備文件](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/BkKFt38ZR/https%3A%2F%2Fg0v.hackmd.io%2F%40B9Iwh2UoQuuqL3vJQFC5lw%2Ftofus-rand0mth0n)
@@ -56,37 +56,3 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 |範例|範例|範例|
 
 ## 筆記
-
-### 以下是報名表模板===
-
-近期小聚：
-
-【g0v Rand0mth 18 n 第 拾捌 次放輕松】  
-活動地點：NPO Hub 四樓廚房  
-活動地址：台北市中正區重慶南路三段2號4樓  
-活動時間：2025/02/04 週二晚上 7:00 - 9:00 ( 6:30 就可以入場囉)  
-活動共筆：s.g0v.tw/rand0mthon  
-
-Event Location: NPO Hub, 4F Kitchen Lab  
-Address: 4F, No. 2, Section 3, Chongqing South Road, Zhongzheng District, Taipei  
-Event Time: Tuesday, 2025/02/04, 7:00 PM - 9:00 PM (Entry starts at 6:30 PM)  
-Collaborative Note: s.g0v.tw/rand0mthon  
-
-### 以下是 slack 模板===
-
-下禮拜也有放輕松喔！  
-===  
-最近還好嗎？想要找人聊聊嗎，或是，純粹來找個地方做自己的事情  
-g0v 揪松團舉辦了放輕松 (社群小聚活動)，不設限內容，歡迎大家來參加！  
-
-https://forms.gle/Q662eutJcxcWTe5s6  
-【g0v Rand0mth 18 n 第 拾捌 次放輕松】  
-活動地點：NPO Hub 四樓廚房  
-活動地址：台北市中正區重慶南路三段2號4樓  
-活動時間：2025/02/04 週二晚上 7:00 - 9:00 ( 6:30 就可以入場囉)  
-活動共筆：s.g0v.tw/rand0mthon  
-
-Event Location: NPO Hub, 4F Kitchen Lab  
-Address: 4F, No. 2, Section 3, Chongqing South Road, Zhongzheng District, Taipei  
-Event Time: Tuesday, 2025/02/04, 7:00 PM - 9:00 PM (Entry starts at 6:30 PM)  
-Collaborative Note: s.g0v.tw/rand0mthon  
