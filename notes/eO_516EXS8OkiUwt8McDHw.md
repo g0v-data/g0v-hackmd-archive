@@ -1,4 +1,4 @@
-<a href="https://www.thesoulshattering.net/">NET88</a>là địa chỉ cá cược an toàn và uy tín, cung cấp nhiều trò chơi hấp dẫn như thể thao, casino, game bài và xổ số. Với bảo mật cao và thanh toán nhanh chóng, NET88 mang đến cơ hội thắng lớn và thưởng nóng mỗi ngày!
+<a href="https://www.thesoulshattering.net/">NET88</a> là địa chỉ cá cược an toàn và uy tín, cung cấp nhiều trò chơi hấp dẫn như thể thao, casino, game bài và xổ số. Với bảo mật cao và thanh toán nhanh chóng, NET88 mang đến cơ hội thắng lớn và thưởng nóng mỗi ngày!
 Thông tin chi tiết:
 Website: <a href="https://www.thesoulshattering.net/">https://www.thesoulshattering.net/</a>
 Địa chỉ: 112 P. Chùa Hàng, Hồ Nam, Lê Chân, Hải Phòng, Việt Nam
