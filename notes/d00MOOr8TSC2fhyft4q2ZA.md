@@ -1,4 +1,4 @@
-Otaku Stride – Where anime passion meets creative fashion. Design your personalized shoes with iconic characters and let your style speak for you!
+Oaku Stride – Where anime passion meets creative fashion. Design your personalized shoes with iconic characters and let your style speak for you!
 #OtakuStride #AnimeShoes #CustomAnimeMerch #3DPrintedShoes #AnimeLovers #FandomFashion
 Contact Us:
 Website: https://otakustride.com/ 
