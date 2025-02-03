@@ -90,6 +90,18 @@ https://lin.ee/1QUzEX4nI
 
 > Design doc: https://g0v.hackmd.io/@cofacts/rd/%2Fum7DyY_ESbu2LL78kLw3pg
 
+### [Comm] AI transcripts
+
+Experiments
+https://g0v.hackmd.io/@cofacts/rd/%2Fwkx286lmTDaFUpgRhnUawQ#Gemini-Experiments
+
+Todo items
+- 蒐集 test dataset 做 prompt engineering
+  - 聲音跟影像都沒啥字的
+  - 影片字幕跟聲音不一致
+  - 字幕跟影片聲音一致、語言相同
+  - 翻譯字幕
+  - 台語、法語
 
 ## AI reply feedbacks analysis
 
