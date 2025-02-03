@@ -75,8 +75,8 @@ https://lin.ee/1QUzEX4nI
 ##### ⛔️ Release Blockers
 ##### 未竟項目
 ### :eye: Under review
-- LINE bot https://github.com/cofacts/rumors-line-bot/pull/401
-- API (WIP) 
+- LINE bot - long response handling https://github.com/cofacts/rumors-line-bot/pull/401
+- API (WIP) - LLM transcript https://github.com/cofacts/rumors-api/pull/359
 
 
 ## Badge
@@ -92,6 +92,35 @@ https://lin.ee/1QUzEX4nI
 
 
 ## AI reply feedbacks analysis
+
+100+ responses on new AI responses
+- 23 downvotes out of 145 submissions
+    - 16% downvote, 84% upvote
+
+例子
+- 網傳黃仁勳公開信 https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/IOcctZQBYrjt7MSMA0tj
+    - 4 人覺得沒用，7 人覺得有用
+    - 其實重點是這是網傳黃仁勳公開信，內文分析沒啥幫助
+- 大 S 自動回應https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/1eevyZQBYrjt7MSM4mRy
+    - 1人覺得模稜兩可，給了負評
+    - 其他 5 人覺得有幫助，給了正評
+- AI 假影片賀歲 https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/7-dYk5QBYrjt7MSMmx_Q
+    - 語音辨識沒很準
+    - somehow 也有 2 人覺得有用 XD
+- 中天街訪 https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/Ted9oJQBYrjt7MSMljJG
+    - 1 人覺得有幫助、1 人覺得沒幫助
+    - 單純只有文字。沒有使用到影像部分（街訪 context）
+- 網傳研究報導 https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/nOcstpQBYrjt7MSM9ExB https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/POdjxpQBYrjt7MSMMWGm 、 詐騙回報 https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/DOfmw5QBYrjt7MSM3l0j 、 神秘截圖 https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/vOdpxZQBYrjt7MSMNl_k
+    - 1 人覺得沒幫助
+    - 但我覺得 AI 做得不錯⋯⋯
+
+----
+
+- 如果 AI 自動回應也用上 visual (改用 Gemini)，對 upvote 比率的提升可能有限
+    - 不確定 Gemini 本身是否比 gpt-3.5-turbo 好 [name=mrorz]
+    - 但 Gemini 可以開 Google search grounding，我也滿好奇是否有幫助 [name=mrorz]
+
+
 
 
 ## Communication

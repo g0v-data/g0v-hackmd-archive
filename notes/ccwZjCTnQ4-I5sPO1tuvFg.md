@@ -18,7 +18,10 @@ https://langfuse.cofacts.tw
 
 Record AI reply & transcripts.
 
-[TBA]
+:::success
+DONE: https://github.com/cofacts/rumors-api/pull/355
+:::
+
 
 ## rumors-line-bot
 
@@ -31,4 +34,6 @@ Use Langfuse to visualize 1-1 conversation between user and Cofacts bot
 - Record AI classifier result
 - [Optional] store prompt in Langfuse?
 
-[TBA]
+:::success
+DONE: https://github.com/cofacts/takedowns/pull/138/files
+:::

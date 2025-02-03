@@ -2,17 +2,17 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20250203 會議記錄](../notes/KBowSCYBR4aCWcSK-Q1k-w.md) | 2025-02-03T09:59:15+00:00 | 2025-02-03T04:47:19+00:00 |
-| 2 | [20250127 會議記錄](../notes/X92JNs1USOC9ylqnN02EBw.md) | 2025-01-27T14:35:41+00:00 | 2025-01-26T17:58:37+00:00 |
-| 3 | [20250120 會議記錄](../notes/jkknRKrIRIKkI7V20EogTg.md) | 2025-01-25T13:56:37+00:00 | 2025-01-20T04:33:57+00:00 |
-| 4 | [Badge System](../notes/zx_Au6iiRN601tnMK7gx3A.md) | 2025-01-20T12:02:44+00:00 | 2024-11-17T23:36:53+00:00 |
-| 5 | [20240105 Cofacts 第 45 次查核協作者培訓](../notes/YIEvxR-pRMK0ms1oQ4N2pw.md) | 2025-01-05T08:37:17+00:00 | 2025-01-05T05:57:43+00:00 |
-| 6 | [Open165 反詐筆記 - 詐騙網站公告搜尋引擎最佳化](../notes/xl7YbrcTRECluGKK_HGo6Q.md) | 2025-01-04T11:02:11+00:00 | 2024-07-20T04:45:13+00:00 |
-| 7 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-12-09T05:51:33+00:00 | 2022-08-05T02:46:53+00:00 |
-| 8 | [20241202 會議記錄](../notes/5-jQ-pWnT4iOEOos9t7Cyw.md) | 2024-12-02T12:31:12+00:00 | 2024-12-01T17:16:06+00:00 |
-| 9 | [20241125 會議記錄](../notes/Jqg-lecyRhKtFDnbxnx_ZA.md) | 2024-12-01T17:24:19+00:00 | 2024-11-24T16:11:25+00:00 |
-| 10 | [Cofacts / Open165 hackath64n 協作頁面](../notes/XSpjp40-QEGVAPeTrvxZeQ.md) | 2024-11-25T12:16:47+00:00 | 2024-11-22T16:48:30+00:00 |
-| 11 | [Langfuse LLM observability](../notes/ccwZjCTnQ4-I5sPO1tuvFg.md) | 2024-11-25T11:18:08+00:00 | 2024-11-25T11:10:28+00:00 |
+| 1 | [Langfuse LLM observability](../notes/ccwZjCTnQ4-I5sPO1tuvFg.md) | 2025-02-03T10:32:51+00:00 | 2024-11-25T11:10:28+00:00 |
+| 2 | [20250203 會議記錄](../notes/KBowSCYBR4aCWcSK-Q1k-w.md) | 2025-02-03T10:29:11+00:00 | 2025-02-03T04:47:19+00:00 |
+| 3 | [20250127 會議記錄](../notes/X92JNs1USOC9ylqnN02EBw.md) | 2025-01-27T14:35:41+00:00 | 2025-01-26T17:58:37+00:00 |
+| 4 | [20250120 會議記錄](../notes/jkknRKrIRIKkI7V20EogTg.md) | 2025-01-25T13:56:37+00:00 | 2025-01-20T04:33:57+00:00 |
+| 5 | [Badge System](../notes/zx_Au6iiRN601tnMK7gx3A.md) | 2025-01-20T12:02:44+00:00 | 2024-11-17T23:36:53+00:00 |
+| 6 | [20240105 Cofacts 第 45 次查核協作者培訓](../notes/YIEvxR-pRMK0ms1oQ4N2pw.md) | 2025-01-05T08:37:17+00:00 | 2025-01-05T05:57:43+00:00 |
+| 7 | [Open165 反詐筆記 - 詐騙網站公告搜尋引擎最佳化](../notes/xl7YbrcTRECluGKK_HGo6Q.md) | 2025-01-04T11:02:11+00:00 | 2024-07-20T04:45:13+00:00 |
+| 8 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2024-12-09T05:51:33+00:00 | 2022-08-05T02:46:53+00:00 |
+| 9 | [20241202 會議記錄](../notes/5-jQ-pWnT4iOEOos9t7Cyw.md) | 2024-12-02T12:31:12+00:00 | 2024-12-01T17:16:06+00:00 |
+| 10 | [20241125 會議記錄](../notes/Jqg-lecyRhKtFDnbxnx_ZA.md) | 2024-12-01T17:24:19+00:00 | 2024-11-24T16:11:25+00:00 |
+| 11 | [Cofacts / Open165 hackath64n 協作頁面](../notes/XSpjp40-QEGVAPeTrvxZeQ.md) | 2024-11-25T12:16:47+00:00 | 2024-11-22T16:48:30+00:00 |
 | 12 | [20241111 會議記錄](../notes/_e0nyj04SoCzxdM38CzuYQ.md) | 2024-11-25T08:04:34+00:00 | 2024-11-09T08:33:28+00:00 |
 | 13 | [20241118 會議記錄](../notes/GxzR0adaS8uNuaP7Vq7pfA.md) | 2024-11-18T13:08:55+00:00 | 2024-11-17T08:27:10+00:00 |
 | 14 | [Cofacts user blocking mechanism](../notes/7lmvtxe5S_qsyQeoUsSyTw.md) | 2024-11-17T23:35:59+00:00 | 2024-11-17T23:35:59+00:00 |
