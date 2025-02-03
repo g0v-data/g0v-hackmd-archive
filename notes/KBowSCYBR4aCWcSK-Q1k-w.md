@@ -125,6 +125,10 @@ Todo items
 
 ## AI reply feedbacks analysis
 
+:::warning
+沒時間，下週討論
+:::
+
 100+ responses on new AI responses
 - 23 downvotes out of 145 submissions
     - 16% downvote, 84% upvote
@@ -151,9 +155,6 @@ Todo items
 - 如果 AI 自動回應也用上 visual (改用 Gemini)，對 upvote 比率的提升可能有限
     - 不確定 Gemini 本身是否比 gpt-3.5-turbo 好 [name=mrorz]
     - 但 Gemini 可以開 Google search grounding，我也滿好奇是否有幫助 [name=mrorz]
-
-
-
 
 ## Communication
 
