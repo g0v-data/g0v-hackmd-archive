@@ -8,7 +8,8 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- NPO Hub 出席：bil, nonumpa, mrorz
+- 線上出席：T
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -48,41 +49,60 @@ https://github.com/cofacts/rumors-line-bot/releases/tag/release%2F20250127
 
 https://lin.ee/1QUzEX4nI
 
-- [ ] 應可送出「全新訊息」
-    - [ ] 選擇「整篇轉傳」後會詢問是否要送出訊息。
-    - [ ] 同意送出訊息後就會送出訊息，並得到：
-        - [ ] Cofacts article page 按鈕
-        - [ ] AI reply
-        - [ ] 寫理由的按鈕
-        - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
+- [x] 應可送出「全新訊息」
+    - [x] 選擇「整篇轉傳」後會詢問是否要送出訊息。
+    - [x] 同意送出訊息後就會送出訊息，並得到：
+        - [x] Cofacts article page 按鈕
+        - [x] AI reply
+        - [x] 寫理由的按鈕
+        - [x] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
 
-- [ ] 送出「沒回應」的舊訊息，應可顯示 AI reply
-    - [ ] 文章的「N 人回報」應該仍然要 + 1（除非測試者已經針對該篇送過 reply request）。
-    - [ ] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
-    - [ ] 可以修改理由送出。查看 article page 看理由是否有被送出。
-    - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
+- [x] 送出「沒回應」的舊訊息，應可顯示 AI reply
+    - [x] 文章的「N 人回報」應該仍然要 + 1（除非測試者已經針對該篇送過 reply request）。
+    - [x] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
+    - [x] 可以修改理由送出。查看 article page 看理由是否有被送出。
+    - [x] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
 
-- [ ] 送出「有回應」的舊訊息，應自動回傳回應
-    - [ ] 應列出訊息所有的回應
-    - [ ] 選擇回應之後可以幫回應 upvote
-    - [ ] 可以再次選擇 downvote
-    - [ ] 選完回應之後，還可以捲回去選其他回應
-    - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
+- [x] 送出「有回應」的舊訊息，應自動回傳回應
+    - [x] 應列出訊息所有的回應
+    - [x] 選擇回應之後可以幫回應 upvote
+    - [x] 可以再次選擇 downvote
+    - [x] 選完回應之後，還可以捲回去選其他回應
+    - [x] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
 
-- [ ] Rich menu 測試
-    - [ ] 「教學」可以觸發教學流程
+- [x] Rich menu 測試
+    - [x] 「教學」可以觸發教學流程
+
+:::success
+Wording 也無需調整
+
+2/5 Release if no issue in PR
+:::
 
 ##### ⛔️ Release Blockers
+
+無
+
 ##### 未竟項目
+
+![](https://g0v.hackmd.io/_uploads/BkKOUV0dkg.png =x500)
+- batch message queue 沒有在處理完畢時清掉 [name=mrorz]
+
+![](https://g0v.hackmd.io/_uploads/BJQTDVROJg.png =x800)
+  - 感覺是兩張圖有時間差，兩張圖一起的 search session ID 蓋掉了前面只有一張圖時的 session，所以「好，請繼續」失效了 [name=mrorz]
+    - 應該是以前遇到這種情形，會因為都默默分析所以不會有這件事，但現在會在分析前主動說「會花點時間」，所以這種「前一張在分析了，第二張才進來」的現象變得明顯 [name=mrorz]
+  - 「好、請繼續」跟下面的請問確實是同時出現的 [name=nonumpa]
+  - 理論上，下面的「請問這 2 則訊息」會吃掉前一則的「好，請繼續」選項。上面這個現象應該是 race condition [name=mrorz]
+
+:::info
+第一個問題開票
+第二個 race condition 可能解不了
+:::
+
 ### :eye: Under review
 - LINE bot - long response handling https://github.com/cofacts/rumors-line-bot/pull/401
 - API (WIP) - LLM transcript https://github.com/cofacts/rumors-api/pull/359
 
-
-## Badge
-
-> EJ
-> https://g0v.hackmd.io/@cofacts/rd/%2Fzx_Au6iiRN601tnMK7gx3A
 
 ## CCPRIP
 
