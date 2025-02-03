@@ -20,9 +20,14 @@ GA: UA-98468513-3
 #### :globe_with_meridians: Site
 #### :robot_face: rumors-line-bot
 
+https://github.com/cofacts/rumors-line-bot/releases/tag/release%2F20250127
+- AI reply feedbacks
+
 ### :rocket: Staging
 
 #### :robot_face: rumors-line-bot
+
+
 
 ##### Testing checklist
 
@@ -116,4 +121,12 @@ http://dev.cofacts.tw/
 
 
 ### :eye: Under review
+
+### AI reply feedbacks analysis
+
+
+
+## Communication
+
+- TES
 
