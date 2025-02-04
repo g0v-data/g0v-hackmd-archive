@@ -19,3 +19,8 @@ const routes = [
 4. 在sites-available/放Nginx 站點配置
 5. sites-enabled/ 符號連結(指令:`ln -s /etc/nginx/sites-available/maintain-web /etc/nginx/sites-enabled/`)
 6. 在 package.json 裡，homepage
+7. 
+
+
+
+# 核對0615test與maintain only 兩邊有部分檔案不同步
