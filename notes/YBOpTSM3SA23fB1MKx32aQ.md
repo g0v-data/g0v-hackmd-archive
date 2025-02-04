@@ -1,0 +1,10 @@
+Macrich Industry Co., Ltd.
+
+
+https://www.macricher.com/
+
+donna.zhang@macrich.cn
+
+WhatsApp: 0086 13517318555
+
+ROOM 1211-1215, 1ST BUILDING CHANGSHENG SHANGDONGQU CHEZHAN NORTH ROAD, FURONG DISTRICT, CHANGSHA, CHINA
