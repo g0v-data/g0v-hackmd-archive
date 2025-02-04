@@ -18,3 +18,4 @@ const routes = [
 3. 安裝nginx
 4. 在sites-available/放Nginx 站點配置
 5. sites-enabled/ 符號連結(指令:`ln -s /etc/nginx/sites-available/maintain-web /etc/nginx/sites-enabled/`)
+6. 在 package.json 裡，homepage
