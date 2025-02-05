@@ -5,7 +5,7 @@ Hotline: 0922248111
 #12play, #12playcasino, #link12play, #12playvietnam, #trangchu12play
 Tham gia MXH
 https://www.facebook.com/12playcasinovn/
-https://x.com/12playcasinovn
+https://x.com/12playcasivfdfnovn
 https://www.youtube.com/@12playcasinovn
 https://www.linkedin.com/in/12playcasinovn/
 https://www.pinterest.com/12playcasinovn/
