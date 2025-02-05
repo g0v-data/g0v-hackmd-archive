@@ -18,8 +18,7 @@ tags: vTaiwan
 - 5/16 (五）活動確定：AI 與教育的工作坊
     - 參與者：高中生、家長、老師
     - 對於人工智慧的了解的多樣性
-- 宇亭與老師發的新 paper
-    - 
+- 宇亭與老師發的 [Charting Competence: A Holistic Scale for Measuring Proficiency in Artificial Intelligence Literacy](https://journals.sagepub.com/doi/full/10.1177/07356331241261206)
 ## 1220 活動
 - [共編文件](https://docs.google.com/document/d/1kYIYbHdTctGBXrV-U3qivkzByV-uAxOAiS7fB_sGacU/edit?usp=sharing)
 - 感謝 T 成功生產出文字紀錄檔！
@@ -31,6 +30,8 @@ tags: vTaiwan
 - 上傳到雅婷只要幾分鐘就能跑完解析，大家也可以自行玩玩看，或是拿去測試其他轉錄工具~
 - ps. 已參考上次小松會議記錄的「轉錄工具」PPT，但 Good Type 免費版僅有每月 1.5 小時額度，所以不適用這次議題小聚。
 - [紀錄文件](https://docs.google.com/presentation/d/1bXoyr-b0jjirVQ4NgCn6J5-6QDOXibL8ktCmiqyVza8/edit#slide=id.p)
+### 上傳到 github 上了
+- 目前 mentimeter 的結果已經上傳到 github 上了！[看結果](https://github.com/v-taiwan/241220-AI-Regulation)
 
 ## 2/22 大松活動
 - [報名連結](https://kktix.com/events/g0v-hackath65n/registrations/new)
@@ -38,6 +39,7 @@ tags: vTaiwan
     - peter
     - 宇亭
 - 有先搶下一個提案，可以看看想要測試什麼東西
+    - 讓大家一起來整理論點
 
 ## 一個更好的討論格式
 - [Kialo](https://www.kialo.com/pro-life-vs-pro-choice-should-abortion-be-legal-5637) or [argdown](argdown.org) 
@@ -55,14 +57,21 @@ tags: vTaiwan
         - 目前是這樣沒有錯。[name=lin li]
 ### 如何與 mentimeter 做更好的連結？
 - 開一個共筆，讓大家可以簡單輸入意見，輸入後，大家可以整理出一個 argdown的應用，讓大家可以輸入意見後，能夠即時整理出意見。
-
-
-- 目標讓網路上的討論
+- 目標讓網路上的討論 [name=lin li]
     - 有樹狀論點
     - 有連結
-
-- 便利貼格式
-    - 論點：
-    - 理由：
-    - 連結：
+- 理想的目標是能夠自動生成前述的整理，讓大家不用思考 [name=josh]
+    - 同意 josh, 考量使用者友善的話，我們可能要針對不同的需求（快速了解、深入了解、發表意見）發想設計和進行測試 [name=宇亭]
+    - 有測試過用 AI 能不能做到[name=allen]
+        - 多層的論點目前的 LLM 沒有辦法做到的
+        - Notebook LM 可以做到兩層
+- 理想的格式：
+    - 便利貼格式
+        - 論點：
+        - 理由：
+        - 連結：
 - 是 ARE 論點結構
+- [polis 2.0 案例](https://tttc-turbo.web.app/report/taiwan-zh)
+    - 若可以讓現場討論的新論點直接新增到 poli2.0 當中最理想
+- 類似的服務還有 [sensemaking](https://github.com/Jigsaw-Code/sensemaking-tools)
+- 也有一個有趣的網站：[JAPAN CHOICE](https://japanchoice.jp/)
