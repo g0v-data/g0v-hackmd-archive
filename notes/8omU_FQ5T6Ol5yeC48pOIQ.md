@@ -141,3 +141,16 @@ MAS 啟動授權，powershell run:
 irm https://massgrave.dev/get | iex
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_21760c94aa006b7dcd594944edab5210.png)
+
+![Uploading file..._2qsfooucv]()
+1.開啟以上Log，看到Error，例如
+Error SYSPRP Package Microsoft.LanguageExperiencePackzh-TW_19041.12.27.0_neutral__8wekyb3d8bbwe was installed for a user, but not provisioned for all users. This package will not function properly in the sysprep image.
+2.Powershell中使用指令查詢系統當前的程式，匯出以方便文字搜尋
+get-appxpackage -allusers | select name, packagefullname
+3.在Powershell中使用指令移除這個有問題的程式
+remove-appxpackage -allusers -package "Microsoft.LanguageExperiencePackzh-TW_19041.12.27.0_neutral__8wekyb3d8bbwe"
+4.重新封裝sysprep
+5.保持Windows Update到最新
+
+
+remove-appxpackage -allusers -package "Microsoft.BingSearch_1.0.92.0_x64__8wekyb3d8bbwe"
