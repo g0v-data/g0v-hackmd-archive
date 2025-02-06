@@ -82,6 +82,8 @@ del C:\03users\\%username%\Downloads\ls.zip /q
 Windows sysprep(重新封裝Windows以製作用戶端)
 Cd\windows\system32\sysprep
 Sysprep /generalize /shutdown /oobe
+移除"所有內建APP"，使用前請三思。
+power shell：Get-AppXProvisionedPackage -online | Remove-AppxProvisionedPackage –online
 
 #### 常用指令：
 顯示外部IP：curl ifconfig.me
