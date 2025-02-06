@@ -1,0 +1,2 @@
+Baby Gear – Rent Cribs &amp; Strollers | Traveling Baby Company
+Traveling Baby provides parents with easy to carry, superior quality apparatus to accompany infants during trips. Look for strollers, car seats, cribs, carriers and lots of other products intended to be easy to use when a child is with you. Buy bassinets, blankets, toys, and other products designed for travel at amazing prices. Traveling Baby has everything that a baby will require whether in terms of safety, comfort or simple happiness during a family trip. 
