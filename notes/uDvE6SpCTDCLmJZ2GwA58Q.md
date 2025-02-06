@@ -105,11 +105,11 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 重要 照片 "1961台大新生南路側門塯公圳大溝前，背後是台大操場。" https://attach.mobile01.com/attach/201701/mobile01-fe216d16538e5c39f8c42b25e5673c13.jpg
     - 重要 照片 "第二張是1963年" https://attach.mobile01.com/attach/201701/mobile01-671da6fed01e0f6c2ad3b0a867fc9439.jpg
     - 重要 照片 新生南路?https://attach.mobile01.com/attach/201701/mobile01-87f2e6c61ab10ebbc764afb5d5ad74a0.jpg
-    - 重要 照片 有明渠 東區有 1970 年代空中俯瞰
-https://www.facebook.com/share/15xJDMpv4E/
+    - 重要 照片 有明渠 東區有 1970 年代空中俯瞰 https://www.facebook.com/share/15xJDMpv4E/
     - 重要 照片 1965 安東街 霧裡薛圳 https://www.facebook.com/share/p/VTK2pBgvATxZ48Ck/
     - 重要 照片 安東街 圳路 https://www.facebook.com/share/p/17uSVRsafm/
         - 推測位置 安東街 5 號 https://maps.app.goo.gl/aMJYYRTntmvL5LPR8
+    - 照片 1963 長安國小 https://www.facebook.com/share/p/18mXfWJ1fG/?
     - 照片 圳路 復興北路？ https://www.facebook.com/share/p/19cmAfhpb5/
         - https://m.facebook.com/groups/397196541387775/permalink/1198744387899649/
     - 照片 1964 敦化路 建築 https://www.facebook.com/share/p/dwAfRfRg5Wn3a3Fb/

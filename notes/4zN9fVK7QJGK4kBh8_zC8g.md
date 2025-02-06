@@ -3,7 +3,7 @@
 
 Với sự phát triển của công nghệ, việc chơi game bài online không còn xa lạ với người chơi. Tuy nhiên, việc lựa chọn một địa chỉ uy tín để tham gia trò chơi vẫn là vấn đề đáng quan tâm. Và Vi68 chính là lựa chọn hàng đầu cho bạn.
 
-Với hệ thống game bài đa dạng, từ Poker, Blackjack đến Xì tố, Phỏm, Tiến lên,.... Vi68 [vi68.clogo.org](vi68.clogo.org) mang đến cho người chơi những trải nghiệm độc đáo và hấp dẫn. Đồng thời, hệ thống bảo mật an toàn cao giúp bảo vệ thông tin cá nhân và tài khoản của người chơi.
+Với hệ thống game bài đa dạng, từ Poker, Blackjack đến Xì tố, Phỏm, Tiến lên,.... Vi68 [vi68.clogo.org](https://vi68.clogo.org) mang đến cho người chơi những trải nghiệm độc đáo và hấp dẫn. Đồng thời, hệ thống bảo mật an toàn cao giúp bảo vệ thông tin cá nhân và tài khoản của người chơi.
 
 Không chỉ vậy, Vi68 còn có chính sách hỗ trợ khách hàng 24/7, giúp người chơi giải đáp mọi thắc mắc và sự cố một cách nhanh chóng và chuyên nghiệp.
 
