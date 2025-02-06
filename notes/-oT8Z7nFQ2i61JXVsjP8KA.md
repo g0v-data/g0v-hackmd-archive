@@ -1,4 +1,4 @@
-Thông tin chi tiết: FB88 là nhà cái cung cấp các trò chơi cá cược uy tín nhận thưởng khủng. Link đăng kí, đăng nhập, tải app được cập nhật mỗi ngày tại trang chủ FB88
+Thông tin chi tiết: [FB88](https://fb88dkiu.com/) là nhà cái cung cấp các trò chơi cá cược uy tín nhận thưởng khủng. Link đăng kí, đăng nhập, tải app được cập nhật mỗi ngày tại trang chủ FB88
 Website: https://fb88dkiu.com/
 Địa chỉ: 332/42A Đ. Phan Văn Trị, Phường 11, Bình Thạnh, Hồ Chí Minh 70000, Việt Nam
 Phone: 0878566266
