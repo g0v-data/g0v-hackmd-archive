@@ -1,6 +1,8 @@
 ![](https://g0v.hackmd.io/_uploads/B1xMSJqqEye.jpg)
 <a href='https://babu88.fun/'>Babu88 </a>আপনার জন্য একটি বৈচিত্র্যময় ক্যাসিনো, ব্যাকার্যাট থেকে ব্ল্যাকজ্যাক, রুলেট এবং অন্যান্য অনেক আকর্ষণীয় গেমের সাথে সেরা বিনোদনের মুহূর্ত নিয়ে আসে। লাইভ ডিলারদের সাথে লাইভ ক্যাসিনোর অভিজ্ঞতা নিন এবং প্রাণবন্ত পরিবেশ অনুভব করুন। আপনি যদি ভাগ্য পছন্দ করেন, স্লট গেমস এবং ফিশ শুটিং এর বিকল্পগুলি মিস করা যাবে না। এছাড়াও, হর্স রেসিং এবং ক্র্যাশিং চেষ্টা করুন, যেখানে জেতার সুযোগ সবসময় আপনার জন্য অপেক্ষা করছে।
-<a href='https://babu88.fun/'>https://babu88.fun/</a>
+
+<a href='https://babu88.work/'>https://babu88.work/</a>
+
 <a href='https://x.com/babu88fun1'>https://x.com/babu88fun1</a>
 
 <a href='https://www.tumblr.com/babu88fun'>https://www.tumblr.com/babu88fun</a>
@@ -108,5 +110,4 @@
 <a href='https://starlight.academy/user/8406/babu88fun/'>https://starlight.academy/user/8406/babu88fun/</a>
 
 <a href='https://decidim.opcions.coop/profiles/babu88fun/activity'>https://decidim.opcions.coop/profiles/babu88fun/activity</a>
-
 
