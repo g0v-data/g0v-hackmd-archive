@@ -28,4 +28,4 @@ Với giao diện dễ sử dụng, tiện lợi và an toàn, 8xbet cam kết m
 
 Hãy tham gia 8xbet ngay hôm nay để không chỉ trải nghiệm những trò chơi hấp dẫn mà còn có cơ hội rinh ngay thưởng cực lớn. Đừng để cơ hội này trôi qua phía sau, hãy đăng ký và bắt đầu cuộc hành trình may mắn của bạn ngay hôm nay!
 "
-Xem ngay: [8xbet](https://8xbet1882.com/)
+Xem ngay: [8x bet](https://8xbet1882.com/)
