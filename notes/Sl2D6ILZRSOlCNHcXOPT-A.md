@@ -13,7 +13,7 @@ Với hệ thống bảo mật hiện đại này, người chơi có thể yên
 
 Chúng tôi sử dụng công nghệ mã hóa thông tin hàng đầu để đảm bảo rằng dữ liệu của người dùng không bị đánh cắp hoặc lộ ra ngoài. Ngoài ra, chúng tôi cũng thực hiện các biện pháp kiểm soát và giám sát nghiêm ngặt để ngăn chặn các hành vi xâm phạm bảo mật thông tin.
 
-Xem thêm: [8x bet](https://8xbet1882.com/)
+Xem thêm: [8xbet](https://8xbet1882.com/)
 
 Thông tin cá nhân của người dùng chỉ được sử dụng cho các mục đích cần thiết và được bảo quản một cách an toàn. Chúng tôi cam kết không tiết lộ thông tin cá nhân ra ngoài mà không có sự đồng ý của người dùng.
 

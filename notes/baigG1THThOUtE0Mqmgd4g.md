@@ -1,6 +1,6 @@
 98Win là cổng game hàng đầu với hệ thống cá cược đa dạng, từ thể thao đến casino và game bài đỉnh cao. Giao diện hiện đại, bảo mật tối ưu và tỷ lệ thưởng hấp dẫn, 98Win mang đến trải nghiệm giải trí đỉnh cao cho mọi game thủ!
 Thông tin chi tiết:
-Website: https://98win.soy
+Website: https://98win.vet
 Địa chỉ: 121 Ng. 180 P. Nguyễn Lương Bẳng, Quang Trung, Đống Đa, Hà Nội, Việt Nam
 Email: 98winsoy@gmail.com
 Phone: 0987001040
