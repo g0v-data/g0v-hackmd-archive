@@ -17,6 +17,6 @@ link to the [slide](https://docs.google.com/presentation/d/1Xv52LtF6xaQ-a12Ma_1L
 - Mami's part
     - Adding more recent cases
 - KLOU's part
-    - He will send to 
+    - He will send us a list of questions 
 
 - 5 mins to present slides
