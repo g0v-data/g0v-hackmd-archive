@@ -35,6 +35,9 @@ https://www.facebook.com/149709432507383/posts/470359503775706
 https://www.facebook.com/story.php?story_fbid=pfbid04t3J1NZBRMEhXCfBX5dGUB75LxKYbWfydgcsKaPnKnjXFEvsqVaLChjsmGeM3522l&id=461579253889110&mibextid=qC1gEa
 《自主世界：雲端封建時代的安那其法則》
 https://www.facebook.com/mashbean/posts/pfbid0215xC4KSStMNp4JnmGc37kkPUmQ9uMFRY2JVqYdJuLHReu4pARgFakjD16Yn5a2wKl
+電玩的本質
+https://facebook.com/events/s/%E4%B8%8D%E5%8F%AA%E6%98%AF%E9%81%8A%E6%88%B2%E4%BE%86%E4%B8%80%E5%A0%B4%E9%96%B1%E8%AE%80%E8%88%87%E9%9B%BB%E7%8E%A9%E7%9A%84%E5%A4%A7%E8%85%A6%E9%AB%94%E6%93%8D%E9%9B%BB%E7%8E%A9%E7%9A%84%E6%9C%AC%E8%B3%AA%E6%96%B0%E6%9B%B8%E5%88%86%E4%BA%AB%E6%9C%83/9087869114636229/
+
 
 #### 概念挪用
 Finite and Infinite Game: A Vision of  Life  as Play and Possibility, James Carse
