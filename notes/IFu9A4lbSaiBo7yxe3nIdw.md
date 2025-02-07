@@ -19,4 +19,4 @@ link to the [slide](https://docs.google.com/presentation/d/1Xv52LtF6xaQ-a12Ma_1L
 - KLOU's part
     - He will send to 
 
-- 5 mins to present siles
+- 5 mins to present slides
