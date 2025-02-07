@@ -123,3 +123,13 @@ https://sites.google.com/gm.scu.edu.tw/20241206
 
 https://www.unesco.org/en/articles/open-data-ai-what-now
 聯合國教科文組織聊聊 Open Data 之餘 AI 的重要性的報告，裡面也有些未來他們的行動。
+
+[United States Copyright Office]
+Copyright and Artificial Intelligence
+Part 2: Copyrightability
+A report of the Register of copyright 
+January 2025
+https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf
+討論串
+https://www.facebook.com/share/p/15pmKRG4sw/
+https://www.facebook.com/share/p/1ArPQnAnUz/
