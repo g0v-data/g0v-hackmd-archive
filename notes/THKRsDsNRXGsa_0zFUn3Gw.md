@@ -84,15 +84,19 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
             - https://g0v-slack-archive.g0v.ronny.tw/index/channel/CPKVDVD88/2023-11#ts-1700644906.904569
 
 ## 2025/1/14 更新
-新增揪松職工小夏
-- FB 編輯名單： Ronny, 張智仁, Yi, Peace, Lisa, 大助, Tiff, tmonk, ipa, clkao, chihao, Vivian Wu, Chewei, 小夏
-- Twitter 編輯名單：clkao, ronnywang, chewei, 繁嵐
-- IG 編輯名單：ronnywang, tiff, chihao
+- FB 編輯名單： Ronny, 張智仁, Yi, Peace, Lisa, 大助, Tiff, tmonk, ipa, clkao, chihao, Vivian Wu, Chewei, 小夏(1/14 新增)
+- IG 編輯名單：ronnywang, tiff, chihao, chewei
+- Twitter 編輯名單：限制五位
+    - clkao , ronnywang (帳號管理) 
+    - chewei, 
+    - 繁嵐 (Summit)
+    - 
+
 
 ## 2025/1/7 更新 
 - FB 編輯名單： Ronny, 張智仁, Yi, Peace, Lisa, 大助, Tiff, tmonk, ipa, clkao, chihao, Vivian Wu, Chewei　 
 - Twitter 編輯名單：clkao, ronnywang, chewei, 繁嵐
-- IG 編輯名單：ronnywang, tiff, chihao
+- IG 編輯名單：ronnywang, tiff, chihao, chewei
 :::
 
 ## 2024/10/15
