@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v SNS 社群治理機制](../notes/THKRsDsNRXGsa_0zFUn3Gw.md) | 2025-02-08T12:51:23+00:00 | 2019-07-06T00:21:31+00:00 |
+| 1 | [g0v SNS 社群治理機制](../notes/THKRsDsNRXGsa_0zFUn3Gw.md) | 2025-02-08T13:26:45+00:00 | 2019-07-06T00:21:31+00:00 |
 | 2 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2025-01-20T14:17:05+00:00 | 2018-08-30T07:19:57+00:00 |
 | 3 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2025-01-07T06:45:29+00:00 | 2022-09-13T08:41:15+00:00 |
 | 4 | [拉人更輕鬆 -- 初步提案](../notes/3m0lSb-rQeiBuw2lhSK6FQ.md) | 2024-10-16T03:33:38+00:00 | 2024-03-10T11:33:46+00:00 |

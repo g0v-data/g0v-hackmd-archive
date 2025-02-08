@@ -19,7 +19,7 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
 > Reviewer 請用[抽籤器](https://ronny.tw/g0v-sns/)抽出後，前 2-3 位即是該篇文章的 reviewer，請欲發文者 tag reviewer 
 3. 確認被抽中的 reviewer 進行內容檢視
 4. 到[編輯紀錄](https://docs.google.com/spreadsheets/d/1xyxYGKU7iia3xSu6rF9F6YCcXOcEqrFsI2RD493bAxE/edit#gid=1776966921)更新本次的 review 狀況，或是 SNS Google Doc 內文中列出 reviewer
-5. 由可以協助發文的 Editor (FB, IG, Twitter) 執行張貼發文
+5. 由可以協助發文的 Editor (FB, IG, Twitter) 執行張貼發文，名單請見文件下方
 
 ## 雲端硬碟
 
@@ -39,24 +39,22 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
 
 ### 第一步：完成公告與確認
 
-### g0v FB
+描述
+
+### g0v FB 新增流程
 
 1. 申請者，提供申請者的個人 FB 帳號到 g0v slack #sns 頻道
 2. tag 現有的 editor，由現有的 editor 增加
 
-### g0v IG
-
+### g0v IG 新增流程
+ 
 1. 申請者，tag 現有的 g0v IG editor
-2. 7 位現有的 g0v IG editor，把 申請者加入到 #s
+2. 現有的 g0v IG editor，把 申請者加入到 #sns-ig-editor 頻道
 
+### g0v Twitter/X 新增流程
 
-### g0v Twitter/X
-
-只有五位名額
-
-申請者要先開啟 可以被委派
-
-
+- 系統限制只有五位名額，不太能夠持續新增人員
+- 新的申請者，要先開啟自己的帳號中「可以被委派」的設定
 
 
 ## 討論區
