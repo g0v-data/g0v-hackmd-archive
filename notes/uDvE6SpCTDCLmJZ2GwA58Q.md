@@ -151,6 +151,8 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 1986 濟南路二段建築 https://www.facebook.com/share/p/1wZvvGufENk2PExN/
     - 1978 照片 https://www.facebook.com/story.php?story_fbid=pfbid0Ypt5RJbMoKdVWJHzibUm4C7wZVujBfCAyAqtvDqGZgUEuSvzoMMUaAHfW5p5CUsl&id=747873617&mibextid=qC1gEa
     - 重要 蟾蜍山 照片 水路 https://www.facebook.com/GongguanSettlements/photos/a.534107260039871/869062796544314/?type=3
+    - 重要 照片 台大校園鳥瞰
+        - https://www.facebook.com/kypeng.tunnelfish/posts/pfbid0eqybQkHxZQjzCL4JepvnM6UGVLwanrjRHK7fdjN5aStHEZ56YvZqbhzm4FTbuPBCl
     - 1970 美軍設施地圖
         - https://www.facebook.com/groups/582154450196478/permalink/919557983122788/
         - https://www.facebook.com/groups/582154450196478/posts/919557979789455/
