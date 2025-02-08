@@ -93,7 +93,7 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
             - 2025 日期：週一、週四、週五 10:00-16:00
         - Vivian Wu
         - Tiff
-        - 張智仁, Yi, Peace, Lisa, 大助, tmonk, ipa, clkao, chihao
+        - 智仁, Yi, Peace, Lisa, 大助, tmonk, ipa, clkao, chihao
     - 帳號管理任務：Ronny
 - IG 編輯名單：
     - 發文執行：
