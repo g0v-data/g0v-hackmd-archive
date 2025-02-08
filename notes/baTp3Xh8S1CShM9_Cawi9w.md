@@ -7,7 +7,7 @@ Na99 là một trong những sàn chơi đổi thưởng được đánh giá ca
 
 Ngoài ra, Na99 cũng được đánh giá cao về đa dạng sản phẩm game đổi thưởng, từ các trò chơi dân gian đến game hiện đại, đồng thời tự hào là sân chơi với tỷ lệ thanh toán cao, giúp người chơi có cơ hội kiếm lời nhanh chóng và hiệu quả.
 
-Xem thêm: [na99.clogo.org](https://na99.clogo.org)
+Xem thêm: na99.clogo.org
 
 Với tâm huyết và sứ mệnh phục vụ người chơi, Na99 liên tục nâng cao chất lượng dịch vụ, mang đến trải nghiệm chơi game đổi thưởng hoàn hảo nhất cho mọi thành viên tham gia.2. Trải nghiệm thú vị tại Na99 - Sân chơi đổi thưởng uy tín
 

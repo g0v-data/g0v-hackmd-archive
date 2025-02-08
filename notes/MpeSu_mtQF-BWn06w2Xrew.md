@@ -8,7 +8,7 @@ Khác với các platform khác, Na99 không chỉ tập trung vào một loại
 
 Đặc biệt, Na99 còn đi kèm với hệ thống đổi thưởng hấp dẫn, giúp người chơi có cơ hội nhận được những phần thưởng giá trị sau mỗi trận đấu. Với tính năng này, việc chơi game trở nên thú vị hơn bao giờ hết và người chơi có thể kiếm được những phần thưởng hấp dẫn chỉ trong vài cú click chuột.2. Khám phá sự đa dạng của trò chơi đổi thưởng trên Na99
 
-Xem thêm: [na99.clogo.org](https://na99.clogo.org)
+Xem thêm: na99.clogo.org
 
 Na99 là một trong những trang web cá cược uy tín và phổ biến hàng đầu hiện nay. Với sự đa dạng trong trò chơi đổi thưởng, người chơi sẽ được trải nghiệm những trò chơi độc đáo và hấp dẫn.
 
