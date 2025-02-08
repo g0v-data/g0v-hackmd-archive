@@ -3,7 +3,7 @@
 
 Game vi68 không chỉ là nơi giải trí mà còn là cơ hội cho bạn kiếm thêm thu nhập. Với hệ thống trò chơi đa dạng, đồ họa sống động và cơ hội nhận thưởng lớn, vi68 đem lại trải nghiệm tuyệt vời cho người chơi.
 
-Những game thủ tham gia vào vi68 không chỉ có cơ hội chiến thắng mà còn có cơ hội nhận được các phần quà giá trị. Hãy tham gia ngay để không bỏ lỡ cơ hội nhận tiền thưởng hấp dẫn từ game vi68 [vi68.clogo.org](https://vi68.clogo.org).
+Những game thủ tham gia vào vi68 không chỉ có cơ hội chiến thắng mà còn có cơ hội nhận được các phần quà giá trị. Hãy tham gia ngay để không bỏ lỡ cơ hội nhận tiền thưởng hấp dẫn từ game vi68 [vi68.clogo.org](http://vi68.clogo.org).
 
 Với giao diện đẹp mắt và trải nghiệm chơi game mượt mà, vi68 chắc chắn sẽ là nơi lý tưởng cho những ai đam mê game online. Hãy đăng ký ngay để trải nghiệm những trò chơi hấp dẫn và nhận thưởng lớn từ vi68.
 
