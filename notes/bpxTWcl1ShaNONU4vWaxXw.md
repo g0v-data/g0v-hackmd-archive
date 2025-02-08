@@ -4,6 +4,11 @@ tags: China
 
 # 中國與台灣關係，對於世界經濟的影響
 
+
+## 從「中國_國民黨與共產黨鬥爭／合作」的框架中理解臺灣歷史
+
+https://www.facebook.com/taiwan.interminds/posts/pfbid0K5VJj95vXwQJq686sPFFW5YDYhee18jefdoifSCTmvs4WsvkrZNXgWQWNNkYDJ93l?locale=zh_TW
+
 ## 中國經濟分析
 
 20230801 辜朝明：中國比1990年日本更艱難
