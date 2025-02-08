@@ -11,7 +11,7 @@ const routes = [
 
 問題:靜態檔案讀去異常
 解法:嘗試使用web server而非react的開發伺服器
-## 使用代理伺服器Nginx
+## 使用代理伺服器Nginx -在ubuntu中安裝
 1. 在react資料夾執行 `npm run build`,同資料夾會產生一個build資料夾
 
 
@@ -19,8 +19,47 @@ const routes = [
 4. 在sites-available/放Nginx 站點配置
 5. sites-enabled/ 符號連結(指令:`ln -s /etc/nginx/sites-available/maintain-web /etc/nginx/sites-enabled/`)
 6. 在 package.json 裡，homepage
-7. 
+7. nginx 有專用的docker 部屬環境 改直接部屬
+
+
+## 使用代理伺服器Nginx -直接使用docker的Nginx環境
+1. 
+2. Dockerfile，主要是將build文件夾內的資料複製到`/usr/share/nginx/html`，並更新`/etc/nginx/nginx.conf`
+```
+# 使用官方 Nginx 映像檔
+FROM nginx:latest
+
+# 設定工作目錄
+WORKDIR /usr/share/nginx/html
+
+# 清除預設 Nginx HTML 檔案
+RUN rm -rf ./*
+
+# 設定環境變量，防止在安裝時被詢問區域設置的問題
+ENV DEBIAN_FRONTEND=noninteractive
+# 更新軟件庫並安裝必要的軟件
+#新增nginx
+RUN apt-get update && apt-get install -y \
+    curl \
+    git \
+    gnupg \
+    build-essential \      
+    && rm -rf /var/lib/apt/lists/*
+
+# 複製 React Build 資料夾內容到 Nginx 伺服器目錄
+COPY build /usr/share/nginx/html
+# COPY .env /usr/share/nginx/html/.env
+
+# 複製自訂 Nginx 設定檔
+COPY nginx.conf /etc/nginx/nginx.conf
+
+# 暴露 3000 port
+EXPOSE 3000
+
+# 啟動 Nginx
+CMD ["nginx", "-g", "daemon off;"]
+```
 
 
 
-# 核對0615test與maintain only 兩邊有部分檔案不同步
+# 核對0615test與maintain only 兩邊有部分檔案不同步(已完成)
