@@ -3,7 +3,7 @@
 
 VI68 là một trong những địa chỉ cược uy tín và tin cậy dành cho các cược thủ lâu năm. Với hệ thống đa dạng các trò chơi cá cược như bóng đá, casino trực tuyến, xổ số và các trò chơi khác, VI68 đem đến cho người chơi trải nghiệm đầy thú vị và hấp dẫn.
 
-Được thành lập từ lâu, VI68 [vi68.clogo.org](https://vi68.clogo.org) đã xây dựng được uy tín và sự tin cậy từ phía người chơi. Với hệ thống thanh toán nhanh chóng, dễ dàng và an toàn, việc gửi và rút tiền trở nên đơn giản và tiện lợi.
+Được thành lập từ lâu, VI68 [vi68.clogo.org](http://vi68.clogo.org) đã xây dựng được uy tín và sự tin cậy từ phía người chơi. Với hệ thống thanh toán nhanh chóng, dễ dàng và an toàn, việc gửi và rút tiền trở nên đơn giản và tiện lợi.
 
 Ngoài ra, VI68 cũng luôn chú trọng đến khía cạnh an ninh thông tin của người chơi, đảm bảo rằng thông tin cá nhân và tài khoản của họ được bảo vệ cẩn thận.
 

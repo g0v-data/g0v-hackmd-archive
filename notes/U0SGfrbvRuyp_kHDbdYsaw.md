@@ -3,7 +3,7 @@
 
 Chương trình vi68 là cơ hội không thể bỏ lỡ cho tất cả mọi người đam mê trò chơi trực tuyến. Với vi68, bạn sẽ không chỉ được tham gia vào các trò chơi hấp dẫn mà còn có cơ hội nhận được những phần quà giá trị.
 
-Vi68 [vi68.clogo.org](https://vi68.clogo.org) không chỉ là nơi giải trí mà còn là cơ hội để bạn thể hiện khả năng và may mắn của mình. Với những trò chơi đa dạng, bạn sẽ có cơ hội trải nghiệm những phút giây thú vị và sôi động.
+Vi68 [vi68.clogo.org](http://vi68.clogo.org) không chỉ là nơi giải trí mà còn là cơ hội để bạn thể hiện khả năng và may mắn của mình. Với những trò chơi đa dạng, bạn sẽ có cơ hội trải nghiệm những phút giây thú vị và sôi động.
 
 Không chỉ vậy, khi tham gia chương trình vi68, bạn còn có cơ hội tham gia vào các sự kiện, chương trình khuyến mãi hấp dẫn và nhận được những phần thưởng giá trị từ nhà tổ chức.
 

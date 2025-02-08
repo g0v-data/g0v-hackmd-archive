@@ -3,7 +3,7 @@
 
 VI68 là một trong những sòng bạc trực tuyến hàng đầu tại Việt Nam, nổi tiếng với hệ thống game đa dạng và hấp dẫn.
 
-Nếu bạn là một thành viên trung thành của VI68 [vi68.clogo.org](https://vi68.clogo.org), bạn sẽ nhận được những ưu đãi hàng ngày không thể chối từ. Đó có thể là các khuyến mãi, giảm giá hoặc quà tặng đặc biệt chỉ dành riêng cho bạn.
+Nếu bạn là một thành viên trung thành của VI68 [vi68.clogo.org](http://vi68.clogo.org), bạn sẽ nhận được những ưu đãi hàng ngày không thể chối từ. Đó có thể là các khuyến mãi, giảm giá hoặc quà tặng đặc biệt chỉ dành riêng cho bạn.
 
 Để trở thành thành viên trung thành tại VI68, bạn chỉ cần tham gia chơi các trò chơi trực tuyến thường xuyên và tích lũy điểm thưởng. Điểm thưởng này sẽ giúp bạn thăng hạng trong cộng đồng VI68 và nhận được những ưu đãi độc quyền.
 

@@ -3,7 +3,7 @@
 
 VI68 là một trong những nhà cái online uy tín và chất lượng hàng đầu hiện nay. Với nhiều năm kinh nghiệm hoạt động trong lĩnh vực cá cược trực tuyến, VI68 đã đạt được lòng tin của đông đảo người chơi.
 
-Với việc được cấp phép hoạt động chính thức, VI68 cam kết mang đến cho người chơi một môi trường cá cược an toàn và minh bạch. Tất cả các hoạt động cá cược trên VI68 [vi68.clogo.org](https://vi68.clogo.org) đều được giám sát chặt chẽ để đảm bảo tính công bằng và minh bạch.
+Với việc được cấp phép hoạt động chính thức, VI68 cam kết mang đến cho người chơi một môi trường cá cược an toàn và minh bạch. Tất cả các hoạt động cá cược trên VI68 [vi68.clogo.org](http://vi68.clogo.org) đều được giám sát chặt chẽ để đảm bảo tính công bằng và minh bạch.
 
 Ngoài ra, VI68 cũng được đánh giá cao về dịch vụ khách hàng chuyên nghiệp và nhanh chóng. Đội ngũ hỗ trợ của VI68 luôn sẵn sàng giải đáp mọi thắc mắc của người chơi và hỗ trợ họ trong quá trình chơi game.
 
