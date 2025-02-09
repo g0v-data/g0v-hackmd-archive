@@ -4,7 +4,7 @@ tags: hackmd,
 
 # g0v.hackmd 工作待辦事項
 
-:::info
+:::success
 目錄
 [TOC]
 :::
@@ -40,3 +40,8 @@ https://g0v.hackmd.io/@hackpad-importer
 導致搬過來之後的文件，如果沒有辦法被關鍵字搜尋，會等於被封存了，且不知道有哪些文件，無法備延續內容的共筆
 
 前一階段是可以用 標題搜尋，來照到 hackpad 對應的 hackmd 接續內容共筆
+
+工作進度：
+- 20250210 揪松團 從後臺管理者方式，設定帳號密碼，登入 "@hackpad-importer" 這個帳號
+    - 初步先手動調整，部分 Miffy 相關的 hackmd 改為可公開搜尋
+

@@ -6,9 +6,9 @@ tags: Miffy,
 
 ## 活動列表
 ### Miffy曾經參與的g0v活動：
-1. [g0v.tw hackath11n | 台灣零時政府第拾壹次開放報禁黑客松(hackpad版本)](https://beta.hackfoldr.org/g0v-hackath11n)
-2. [g0v.tw hackath12n | 台灣零時政府第拾貳次不得宣傳罷免黑客松(hackpad版本)](https://beta.hackfoldr.org/g0v-hackath12n/http%253A%252F%252Fipa.logdown.com%252Fposts%252F166655-g0v-hackathon-nongeek)
-3. [g0v-design 第零次設計松](https://g0v.hackpad.tw/0qqoIcDMCLJ)
+1. [g0v.tw hackath11n | 台灣零時政府第拾壹次開放報禁黑客松(hackpad版本)](https://beta.hackfoldr.org/g0v-hackath11n) https://g0v.hackmd.io/qHIxDftjTiiOyq3qGLl-Rg?view
+2. [g0v.tw hackath12n | 台灣零時政府第拾貳次不得宣傳罷免黑客松(hackpad版本)](https://beta.hackfoldr.org/g0v-hackath12n/http%253A%252F%252Fipa.logdown.com%252Fposts%252F166655-g0v-hackathon-nongeek) https://g0v.hackmd.io/gNSBrEHyTsGh6iOfpTr9tg?view
+3. [g0v-design 第零次設計松](https://g0v.hackpad.tw/0qqoIcDMCLJ) https://g0v.hackmd.io/fyNfWObyQIaBQfSSz9juwg?view
 
 ### Miffy's KKTIX Event Date
 [page link](https://kktix.com/user/miffyc)
@@ -22,9 +22,12 @@ tags: Miffy,
 - g0v.tw hackath12n | 台灣零時政府第拾貳次不得宣傳罷免黑客松 	2015/02/14 09:00(+0800)~18:00
     - [g0v.tw hackath12n | 台灣零時政府第拾貳次不得宣傳罷免黑客松(hackpad版本)](https://beta.hackfoldr.org/g0v-hackath12n/http%253A%252F%252Fipa.logdown.com%252Fposts%252F166655-g0v-hackathon-nongeek) 
 - 第零次法律松 	2015/01/25 10:00(+0800)~18:00
+    - https://g0v.hackmd.io/Xs11-5LuR0C_rm4uSosD5A?view
     - [hackpad](https://g0v.hackpad.tw/jS8mZtWlSWo)
-       - [YT 影片列表](https://youtube.com/playlist?list=PLdwQWxpS513CSYKFDJ2JU5YPOlCjKm2WT&si=Xrx34BBoDkl-uqHO)
+    - [YT 影片列表](https://youtube.com/playlist?list=PLdwQWxpS513CSYKFDJ2JU5YPOlCjKm2WT&si=Xrx34BBoDkl-uqHO)
          - 已人工爬出 2 個 Miffy 影片，並收錄至下方列表
+- 義務律師陪偵平台
+    - https://g0v.hackmd.io/PfQDTxVASLGuSaz0dlfsMA?view
 - g0v-design 第零次設計松 	2015/01/31 10:00(+0800)~18:00
   - [hackpad](https://g0v.hackpad.tw/g0v-design--7ndCfX4RoBm)
     -［草擬](https://g0v.hackpad.tw/0qqoIcDMCLJ)
