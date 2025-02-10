@@ -117,11 +117,15 @@ http://dev.cofacts.tw/
 
 ### :eye: Under review
 
+
+## Communication 
+
+[SITCON 2025] 社群攤位申請邀約
+- 
+
+
 ## AI reply feedbacks analysis
 
-:::warning
-沒時間，下週討論
-:::
 
 100+ responses on new AI responses
 - 23 downvotes out of 145 submissions

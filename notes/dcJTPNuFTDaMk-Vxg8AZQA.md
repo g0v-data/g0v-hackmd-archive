@@ -10,3 +10,6 @@ tags:
 
 ⸝ဗီူ⸜
 
+毋任感荷
+
+gather g0ther
