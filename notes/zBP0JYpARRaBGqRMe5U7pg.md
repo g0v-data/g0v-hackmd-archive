@@ -60,6 +60,42 @@ EXPOSE 3000
 CMD ["nginx", "-g", "daemon off;"]
 ```
 
+微調deploy-maintain-web (sh檔)
+```
+#!/bin/bash
 
+NAME="maintain-web"
+PORT="3000"
+DOCKER_NETWORK="puhui-test"
+
+echo "removing folder build."
+rm -rf build
+
+echo "Unzip maintain-web-build.tar."
+tar -xvf maintain-web-build.tar
+
+if [[ -n $(docker ps -a -q -f "name=^$NAME$") ]]; then
+    docker stop $NAME
+    docker rm $NAME
+    docker rmi $NAME
+else
+    echo "container not exist."
+fi
+
+docker build -t $NAME . --no-cache
+
+echo "docker image build finished."
+
+docker run -d --network $DOCKER_NETWORK --ip 172.20.1.10 --name $NAME --restart always -p ${PORT}:${PORT} $NAME
+echo "docker run finished."
+
+REGISTRY_PATH="asia-east1-docker.pkg.dev/ida-puhui/puhui-docker-registry"
+docker tag $NAME:latest $REGISTRY_PATH/$NAME:latest
+docker push $REGISTRY_PATH/$NAME:latest
+echo "docker image push finished."
+
+docker system prune -a -f
+
+```
 
 # 核對0615test與maintain only 兩邊有部分檔案不同步(已完成)
