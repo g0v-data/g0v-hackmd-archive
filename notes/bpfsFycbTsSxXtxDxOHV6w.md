@@ -1,12 +1,11 @@
-Takumi
+Shanghai Huawei Welding & Cutting Machine Co., Ltd..
 
+https://www.chinaweldcut.com/
 
-https://www.takumijap.com/
+Email:info@huawei.sh.cn
 
-Call : +852-93308777
+Tel:+86-21-69597779
 
-Email: sales@takumijap.com
+shanghai, china
 
-ROOM 3,27/F.,HO KING COMMERCIAL CENTER, NO.2-16 FA YUEN STREET, MONG KOK, KOWLOON HK
-
-spark plug
+CNC cutting machine
