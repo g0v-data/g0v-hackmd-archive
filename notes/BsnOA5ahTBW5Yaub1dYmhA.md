@@ -121,7 +121,10 @@ http://dev.cofacts.tw/
 ## Communication 
 
 [SITCON 2025] 社群攤位申請邀約
-- 
+- 時間：2025 年 3 月 8 日禮拜六
+- 地點：中央研究院 人文社會科學館
+- 參與人數：約莫 1200 位
+- 受眾：90％ 為學生
 
 
 ## AI reply feedbacks analysis
