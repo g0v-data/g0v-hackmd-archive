@@ -25,6 +25,7 @@ tags: 詐騙
     - https://www.facebook.com/share/v/YrhjGf8Gfu2t5QUD/
 - 賣二手物品，遇到詐騙
     - https://www.facebook.com/share/p/14gaAuUfWh/
+- https://www.facebook.com/share/p/18TZqS1hrw/
 - 自然人憑證 https://www.ettoday.net/news/20241115/2855760.htm
 - Eventbrite https://www.facebook.com/share/p/15GezeYHw5/
 - 迷因幣詐騙
