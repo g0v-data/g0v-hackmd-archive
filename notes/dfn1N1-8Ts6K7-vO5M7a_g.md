@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">SLOT QRIS</h1>
+<h1 style="text-align: center;"><strong>SLOT QRIS</strong></h1>
 <p style="text-align: center;"><a href="https://ibb.co/GBy1FZS"><img src="https://i.ibb.co/QzLqXWw/bn-tw.jpg" alt="bn-tw" width="507" height="169" border="0" /></a></p>
-<p dir="ltr" style="text-align: center;">Bermain di Situs&nbsp;<a href="https://wearemultiplayer.com/">Slot Qris</a>&nbsp;Terbaik Tahun 2025 dengan Deposit hanya 10K, Rasakan Transaksi Mudah dan Instan!</p>
+<p dir="ltr" style="text-align: center;">Bermain di Situs&nbsp;Slot Qris&nbsp;Terbaik Tahun 2025 dengan Deposit hanya 10K, Rasakan Transaksi Mudah dan Instan!</p>
 <p dir="ltr" style="text-align: center;">#slotqris #slotdepositqris&nbsp;</p>
 <p dir="ltr" style="text-align: center;"><strong>Contact</strong></p>
 <p dir="ltr" style="text-align: center;">-&nbsp;<strong>Location</strong>: Jl. Abubakar Lambogo Lorong 1 No.4, RT.005/RW.06, Bara-Baraya Sel., Kec. Makassar, Kota Makassar, Sulawesi Selatan 90143, Indonesia</p>
