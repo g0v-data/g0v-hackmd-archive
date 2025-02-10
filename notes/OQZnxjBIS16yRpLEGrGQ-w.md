@@ -1,0 +1,6 @@
+<p><a href="https://lejive.com/">Hitclub</a> khẳng định vị thế của m&igrave;nh l&agrave; một cổng game trực tuyến h&agrave;ng đầu, nơi mang đến sự an to&agrave;n, uy t&iacute;n v&agrave; giải tr&iacute; hấp dẫn. Với hệ thống bảo mật ti&ecirc;n tiến c&ugrave;ng nhiều tựa game l&ocirc;i cuốn, Hitclub sẽ gi&uacute;p anh em tận hưởng niềm vui trọn vẹn trong từng v&aacute;n chơi!"Hitclub khẳng định vị thế của m&igrave;nh l&agrave; một cổng game trực tuyến h&agrave;ng đầu, nơi mang đến sự an to&agrave;n, uy t&iacute;n v&agrave; giải tr&iacute; hấp dẫn. Với hệ thống bảo mật ti&ecirc;n tiến c&ugrave;ng nhiều tựa game l&ocirc;i cuốn, Hitclub sẽ gi&uacute;p anh em tận hưởng niềm vui trọn vẹn trong từng v&aacute;n chơi!</p>
+<p>Địa chỉ: 183 Đ. Gia Ph&uacute;, Phường 3, Quận 6, Th&agrave;nh phố Hồ Ch&iacute; Minh, Việt Nam</p>
+<p>Email: <a href="mailto:hitclubrentals@gmail.com">hitclubrentals@gmail.com</a></p>
+<p>Hotline: 0862875127</p>
+<p>Website: <a href="https://lejive.com/">https://lejive.com/</a></p>
+<p>Hashtag: #hitclub, #hitclub_casino, #hitclubrentals</p>

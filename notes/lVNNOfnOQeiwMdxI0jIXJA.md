@@ -6,7 +6,7 @@ Tên Thương Hiệu: Vebo TV
 Điện thoại: 0929610610
 Website: https://vebotv2.com/
 Email: vebotv2.TCL@gmail.com
-Zipcode : 70000
+Zipcode : 70000zf
 Hashtag: #vebotv #vebotv2com #theothaodientu #bongda #bongdatructuyen #tructiepbongda #linkvebotv
 Social link:
 https://www.youtube.com/@vebotv2com
