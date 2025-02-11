@@ -26,6 +26,17 @@ tags: vTaiwan
 ### 上傳到 github 上了
 - 目前 mentimeter 的結果已經上傳到 github 上了！[看結果](https://github.com/v-taiwan/241220-AI-Regulation)
 
+## RightsCon 相關 side event
+- 目前 2/25 有一個 meetup w/ Chatham House 
+- 來自 slack 上的訊息，感覺可以聯繫一下
+:::info
+Hi all! I'm Emily, a user experience researcher at Jigsaw, a small unit within Google that conducts research and builds tools for the common good. My current research focuses on ways to improve online conversations and tools for scaling and making sense of public input from deliberations/deliberations, for example in our open sources sensemaking library, which vTaiwan leaders like Audrey Tang and others in the community have been experimenting with, as well as Polis (hi to 
+@dzn
+ who recommended this space!) https://github.com/Jigsaw-Code/sensemaking-tools/
+I'll be in Taipei at the end of the month for RightsCon and hoping to connect with some folks in the community while there. Will any of you all be there, or have any events/happenings to recommend? Thank you!
+:::
+- 有沒有想問 sensemaking 的問題或討論～
+
 ## 2/22 大松活動
 - [報名連結](https://kktix.com/events/g0v-hackath65n/registrations/new)
 - 出席
