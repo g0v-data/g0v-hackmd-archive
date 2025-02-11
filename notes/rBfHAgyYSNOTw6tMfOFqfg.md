@@ -115,6 +115,8 @@ https://reurl.cc/G5qEgZ
 金融業
 https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202406200001&dtable=News
 
+https://www.facebook.com/share/p/19z77xZs2h/?mibextid=wwXIfr
+
 AI產品與系統評測中心
 Artificial Intelligence Evaluation Center
 https://www.aiec.org.tw/
