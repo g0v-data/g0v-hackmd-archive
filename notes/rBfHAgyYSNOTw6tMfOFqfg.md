@@ -17,6 +17,8 @@ https://www.facebook.com/share/p/15pq28AxCC/
 教師提案成果：
 https://docs.google.com/presentation/d/12jmmN0e1Ige_bl_-CnyonIoKWe_F9H_4kS2PTVXkttM/edit#slide=id.g31d1fb839b7_1_0
 
+
+
 ## 翻譯
 
 Line 的翻譯機器人
@@ -132,4 +134,9 @@ January 2025
 https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf
 討論串
 https://www.facebook.com/share/p/15pmKRG4sw/
-https://www.facebook.com/share/p/1ArPQnAnUz/
+https://www.facebook.com/share/p/1ArPQnAnUz
+
+
+## 課程
+
+https://g0v.hackmd.io/trchTXbxQ8qa4p7RwF8Shw?view
