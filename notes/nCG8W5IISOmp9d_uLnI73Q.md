@@ -1,4 +1,4 @@
-Trải nghiệm cá cược đỉnh cao tại [88vv](https://88vv.money/ ), nơi hội tụ các trò chơi thể thao, casino trực tuyến chất lượng. Với tỷ lệ kèo hấp dẫn, rút tiền nhanh chóng và khuyến mãi liên tục, 88vv là điểm đến lý tưởng cho những ai đam mê cá cược trực tuyến.
+Nhà cái [88vv](https://88vv.money/ ) nổi bật với các sản phẩm cá cược thể thao, casino, và slot game hiện đại. Được cấp phép hoạt động hợp pháp, 88vv mang đến sân chơi công bằng, minh bạch cùng hệ thống bảo mật cao, đảm bảo quyền lợi tối đa cho người chơi.
 Website: https://88vv.money/ 
 Địa chỉ: 21 Đ. Lê Hồng Phong, Đông Khê, Ngô Quyền, Hải Phòng, Vietnam
 SDT: 0904073333
@@ -377,3 +377,33 @@ https://bulkwp.com/support-forums/users/88vvmoney
 https://www.chichi-pui.com/users/88vvmoney/
 https://a.pr-cy.ru/88vv.money/
 https://www.dotafire.com/profile/88vvmoney-152206?profilepage
+https://www.mtg-forum.de/user/110972-88vvmoney/
+https://www.notebook.ai/@88vvmoney
+https://qiita.com/88vvmoney
+https://zzb.bz/vUnua
+https://www.nintendo-master.com/profil/88vvmoney
+http://www.fanart-central.net/user/88vvmoney/profile
+https://www.hentai-foundry.com/user/88vvmoney/profile
+https://tudomuaban.com/chi-tiet-rao-vat/2471385/88vv---nha-cai-uy-tin-hang-dau-khuyen-mai-hap-dan-moi-ngay.html
+https://velog.io/@88vvmoney/about
+https://www.vid419.com/home.php?mod=space&uid=3409473
+https://www.yanyiku.cn/home.php?mod=space&uid=5293248
+https://rotorbuilds.com/profile/97087/
+https://moparwiki.win/wiki/User:88vvmoney
+https://clinfowiki.win/wiki/User:88vvmoney
+https://algowiki.win/wiki/User:88vvmoney
+https://timeoftheworld.date/wiki/User:88vvmoney
+https://humanlove.stream/wiki/User:88vvmoney
+https://digitaltibetan.win/wiki/User:88vvmoney
+https://funsilo.date/wiki/User:88vvmoney
+https://fkwiki.win/wiki/User:88vvmoney
+https://theflatearth.win/wiki/User:88vvmoney
+http://www.aunetads.com/view/item-2571106-88vv-Nh%C3%A0-C%C3%A1i-Uy-T%C3%ADn-H%C3%A0ng-%C4%90%E1%BA%A7u-Khuy%E1%BA%BFn-M%C3%A3i-H%E1%BA%A5p-D%E1%BA%ABn-M%E1%BB%97i-Ng%C3%A0y.html
+https://shenasname.ir/ask/user/88vvmoney
+https://ekonty.com/88vvmoney
+https://gifyu.com/88vvmoney
+https://www.chaloke.com/forums/users/88vvmoney/
+https://raovat.nhadat.vn/members/88vvmoney-165032.html
+https://gl.gta5-mods.com/users/88vvmoney
+https://drivehud.com/forums/users/phuongtata95/
+https://forums.wincustomize.com/user/7425414
