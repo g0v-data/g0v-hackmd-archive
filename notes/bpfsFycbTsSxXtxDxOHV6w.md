@@ -1,11 +1,11 @@
-Shanghai Huawei Welding & Cutting Machine Co., Ltd..
+Hunan Icemedal Refrigeration Equipment Co., Ltd.
 
-https://www.chinaweldcut.com/
+https://www.tubeicemachine.com/
 
-Email:info@huawei.sh.cn
+Tel : +86-073186397913
 
-Tel:+86-21-69597779
+Email : sale@icemedal.com
 
-shanghai, china
+Address : Building 13, The Future Zhihui Park,No. 90, south section of Dongliu Road, Changsha Economic and Technological Development Zone
 
-CNC cutting machine
+Tube Ice Machine
