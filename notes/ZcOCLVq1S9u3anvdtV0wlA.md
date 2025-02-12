@@ -92,6 +92,6 @@ I'll be in Taipei at the end of the month for RightsCon and hoping to connect wi
         - action list: 列出問題
         - 
     - 不管從工程師的角度思考（不要重複造輪子）或從研究者的角度思考（奠基於既有文獻發展研究），我覺得我們關注的議題在過去一定有很多人討論、嘗試過。剛好這次在台大辦，網路上支援獲得各種學術文獻。我自己覺得可以邀請大家幫忙蒐集文獻和建立筆記，讓 vTaiwan 社群的決策是基於科學實證的，在論述上會比較站得住腳。這部分我可以負責建立模板和 workflow，讓所有人都可以輕易上手。
-        - 或許可以更進一步討論利用 AI 
+        - 或許可以更進一步討論利用 AI 的可能性
         - 模板與 workflow 可以麻煩 [name=yuting]
-
+    - 試試看用 Argdown 來做討論的場合
