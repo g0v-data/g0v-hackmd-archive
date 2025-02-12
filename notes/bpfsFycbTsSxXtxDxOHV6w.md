@@ -1,11 +1,11 @@
-Hunan Icemedal Refrigeration Equipment Co., Ltd.
+Shanghai Baixin Packaging Materials Co., Ltd.
 
-https://www.tubeicemachine.com/
+https://en.shbxmat.com/
 
-Tel : +86-073186397913
++86 13337755173
 
-Email : sale@icemedal.com
+shanghai,china 
 
-Address : Building 13, The Future Zhihui Park,No. 90, south section of Dongliu Road, Changsha Economic and Technological Development Zone
+Vacuum seal marinade meat
+Pvc evoh thermoforming film
 
-Tube Ice Machine

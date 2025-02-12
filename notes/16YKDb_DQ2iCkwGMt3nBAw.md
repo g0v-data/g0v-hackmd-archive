@@ -178,4 +178,9 @@
 <p><br /><a href="https://forum.issabel.org/u/xvipcl">https://forum.issabel.org/u/xvipcl</a></p>
 <p><br /><a href="https://bootstrapbay.com/user/xvipcl">https://bootstrapbay.com/user/xvipcl</a></p>
 <p><br /><a href="https://secondstreet.ru/profile/xvipcl/">https://secondstreet.ru/profile/xvipcl/</a></p>
+<p><a href="https://www.planet-casio.com/Fr/compte/voir_profil.php?membre=xvipcl">https://www.planet-casio.com/Fr/compte/voir_profil.php?membre=xvipcl</a></p>
+<p><br /><a href="https://www.zeldaspeedruns.com/profiles/xvipcl">https://www.zeldaspeedruns.com/profiles/xvipcl</a></p>
+<p><br /><a href="https://www.hoaxbuster.com/redacteur/xvipcl">https://www.hoaxbuster.com/redacteur/xvipcl</a></p>
+<p><br /><a href="https://app.geniusu.com/users/2609254">https://app.geniusu.com/users/2609254</a></p>
+<p><br /><a href="http://emseyi.com/user/xvipcl">http://emseyi.com/user/xvipcl</a></p>
 <p>&nbsp;</p>
