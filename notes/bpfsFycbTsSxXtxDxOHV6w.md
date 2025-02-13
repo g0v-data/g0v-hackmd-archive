@@ -1,11 +1,11 @@
-Shanghai Baixin Packaging Materials Co., Ltd.
+Shanghai Neworld Fluid Machinery Co., Ltd
 
-https://en.shbxmat.com/
+https://www.neworld-cn.com/
 
-+86 13337755173
++86-21-61210155
 
-shanghai,china 
+info@neworld-cn.com
 
-Vacuum seal marinade meat
-Pvc evoh thermoforming film
+Room 2203 No 1199 Defu Road Jiading District Shanghai
 
+API 610 pump
