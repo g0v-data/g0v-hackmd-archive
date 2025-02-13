@@ -89,6 +89,7 @@ Example 1:
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+==python==
 ```
 class Solution(object):
     def twoSum(self, nums, target):
@@ -125,4 +126,143 @@ class Solution(object):
             if target - num in num_dict:
                 return [num_dict[target - num], i]
             num_dict[num] = i
+```
+
+## Merge Two Sorted Lists
+You are given the heads of two sorted linked lists list1 and list2.
+
+Merge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists.
+
+Return the head of the merged linked list.
+
+ 
+
+Example 1:
+
+
+Input: list1 = [1,2,4], list2 = [1,3,4]
+Output: [1,1,2,3,4,4]
+Example 2:
+
+Input: list1 = [], list2 = []
+Output: []
+Example 3:
+
+Input: list1 = [], list2 = [0]
+Output: [0]
+==C#==
+```
+public class Solution {
+    public ListNode MergeTwoLists(ListNode list1, ListNode list2) {
+        ListNode dummy=new ListNode(0);// 虛擬頭節點
+        ListNode prev=dummy;
+        ListNode p1=list1;
+        ListNode p2=list2;
+        while( p1!=null && p2!=null){ // 迴圈遍歷，合併兩個鏈結串列
+            if (p1.val<p2.val){
+                prev.next=p1;
+                p1=p1.next;
+            }
+            else{
+                prev.next=p2;
+                p2=p2.next;
+            }
+            prev=prev.next;
+        } 
+        prev.next = p1 != null ? p1 : p2;//進入最後階段時，p1 或 p2 可能為空，如果P1不是NULL，將P1加到最後，否則將P2加到最後
+        return dummy.next;
+    }
+}
+```
+==python==
+```
+# Definition for singly-linked list.
+# class ListNode(object):
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution(object):
+    def mergeTwoLists(self, list1, list2):
+        """
+        :type list1: Optional[ListNode]
+        :type list2: Optional[ListNode]
+        :rtype: Optional[ListNode]
+        """
+        dummy=prev=ListNode(0)
+        p1,p2=list1,list2
+        while p1 and p2:
+            if p1.val<p2.val:
+                prev.next=p1
+                p1=p1.next
+            else:
+                prev.next=p2
+                p2=p2.next
+            prev=prev.next
+        if p1:
+            prev.next=p1
+        else:
+            prev.next=p2
+        return dummy.next
+```
+## Palindrome Number
+Given an integer x, return true if x is a 
+palindrome
+, and false otherwise.
+
+ 
+
+Example 1:
+
+Input: x = 121
+Output: true
+Explanation: 121 reads as 121 from left to right and from right to left.
+Example 2:
+
+Input: x = -121
+Output: false
+Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+Example 3:
+
+Input: x = 10
+Output: false
+Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+==python==
+```
+class Solution(object):
+    def isPalindrome(self, x):
+        """
+        :type x: int
+        :rtype: bool
+        """
+        num=0
+        ori=x
+        if x<0:
+            return False
+        else:
+            while x!=0:
+                num=num*10+x%10
+                x=x//10
+            if ori==num:
+                return True
+            else:
+                return False
+```
+轉成string用法
+```
+class Solution(object):
+    def isPalindrome(self, x):
+        """
+        :type x: int
+        :rtype: bool
+        """
+        #num=0
+        #ori=x
+        if x<0:
+            return False
+        else:
+            x=str(x)
+            if x==x[::-1]:
+                return True
+            else:
+                return False
 ```
