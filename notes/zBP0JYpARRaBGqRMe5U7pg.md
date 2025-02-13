@@ -23,7 +23,7 @@ const routes = [
 
 
 ## 使用代理伺服器Nginx -直接使用docker的Nginx環境
-1. 
+1. homepage 與 pathURL皆為管理server靜態文件的位置
 2. Dockerfile，主要是將build文件夾內的資料複製到`/usr/share/nginx/html`，並更新`/etc/nginx/nginx.conf`
 ```
 # 使用官方 Nginx 映像檔
