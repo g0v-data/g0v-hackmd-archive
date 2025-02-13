@@ -266,3 +266,59 @@ class Solution(object):
             else:
                 return False
 ```
+## Search Insert Position
+Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
+
+You must write an algorithm with O(log n) runtime complexity.
+
+ 
+
+Example 1:
+
+Input: nums = [1,3,5,6], target = 5
+Output: 2
+Example 2:
+
+Input: nums = [1,3,5,6], target = 2
+Output: 1
+Example 3:
+
+Input: nums = [1,3,5,6], target = 7
+Output: 4
+==python==
+```
+class Solution(object):
+    def searchInsert(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
+        for i in range(len(nums)):
+            if nums[i]==target://找到對應位置
+                return i
+            elif target<nums[0]://目標比陣列裡的數都小
+                return 0
+            elif i<len(nums)-1 and nums[i]<target<nums[i+1]://目標可插入在陣列中
+                return i+1
+        return len(nums)//目標比陣列中數都大
+```
+==JAVA==
+```
+class Solution {
+    public int searchInsert(int[] nums, int target) {
+        int p1=0;
+        int p2=nums.length;
+        while(p1<p2){
+            int mid=(p1+p2)/2;
+            if(nums[mid]>=target){
+                p2=mid;
+            }
+            else if(nums[mid]<target){
+                p1=mid+1;
+            }
+        }
+        return p1;
+    }
+}
+```
