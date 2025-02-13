@@ -2,6 +2,7 @@ LeetCode-easy
 ===
 [toc]
 ## roman to integer
+:::info
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
 Symbol       Value
@@ -20,6 +21,7 @@ I can be placed before V (5) and X (10) to make 4 and 9.
 X can be placed before L (50) and C (100) to make 40 and 90. 
 C can be placed before D (500) and M (1000) to make 400 and 900.
 Given a roman numeral, convert it to an integer.
+:::
 ==python==
 
 ```
@@ -77,6 +79,7 @@ class Solution {
 }
 ```
 ## two sum
+:::info
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -90,6 +93,8 @@ Example 1:
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+:::
+
 ==python==
 ```
 class Solution(object):
@@ -130,6 +135,7 @@ class Solution(object):
 ```
 
 ## Merge Two Sorted Lists
+:::info
 You are given the heads of two sorted linked lists list1 and list2.
 
 Merge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists.
@@ -151,6 +157,8 @@ Example 3:
 
 Input: list1 = [], list2 = [0]
 Output: [0]
+:::
+
 ==C#==
 ```
 public class Solution {
@@ -206,6 +214,7 @@ class Solution(object):
         return dummy.next
 ```
 ## Palindrome Number
+:::info
 Given an integer x, return true if x is a 
 palindrome
 , and false otherwise.
@@ -227,6 +236,8 @@ Example 3:
 Input: x = 10
 Output: false
 Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+:::
+
 ==python==
 ```
 class Solution(object):
@@ -268,6 +279,7 @@ class Solution(object):
                 return False
 ```
 ## Search Insert Position
+:::info
 Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
 
 You must write an algorithm with O(log n) runtime complexity.
@@ -286,6 +298,8 @@ Example 3:
 
 Input: nums = [1,3,5,6], target = 7
 Output: 4
+:::
+
 ==python==
 ```
 class Solution(object):
