@@ -308,18 +308,18 @@ class Solution(object):
 ```
 class Solution {
     public int searchInsert(int[] nums, int target) {
-        int p1=0;
-        int p2=nums.length;
+        int p1=0;//頭
+        int p2=nums.length;//尾
         while(p1<p2){
-            int mid=(p1+p2)/2;
-            if(nums[mid]>=target){
-                p2=mid;
+            int mid=(p1+p2)/2;//從中間開始找
+            if(nums[mid]>=target){//如果大於target
+                p2=mid;//將尾改成mid
             }
-            else if(nums[mid]<target){
-                p1=mid+1;
+            else if(nums[mid]<target){//如果小於target
+                p1=mid+1;//將頭加1
             }
         }
-        return p1;
+        return p1;//回傳結果
     }
 }
 ```
