@@ -109,12 +109,16 @@ https://www.facebook.com/groups/269013233204234/posts/8262619370510207/
 
 將 AI 技術未來五年的發展進程納入考量
 
-公務機關
+公務機關使用生成式AI相關管理規範
 https://reurl.cc/G5qEgZ
 
 金融業
 https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202406200001&dtable=News
 
+大學校園因應生成式AI之指引及教學建議
+https://ethics.moe.edu.tw/resource/epaper/html/21/
+
+《哪些經濟任務是由人工智慧執行的？來自數百萬次 Claude 對話的證據》
 https://www.facebook.com/share/p/19z77xZs2h/?mibextid=wwXIfr
 
 AI產品與系統評測中心

@@ -1,52 +1,52 @@
-![](https://g0v.hackmd.io/_uploads/S1INQL2KJe.jpg)
-8US mở ra không gian giải trí sôi động với hàng loạt trò chơi từ slot, poker đến cá cược thể thao. Tại đây, may mắn và tài năng kết hợp, mang lại những khoảnh khắc phấn khích cùng cơ hội thắng lớn cho mọi người chơi.
+![](https://g0v.hackmd.io/_uploads/r1MrGq2Ykg.jpg)
+Zing88 không chỉ là điểm đến của những người đam mê cá cược, mà còn là nơi hội tụ của những tay chơi sành điệu. Với giao diện bắt mắt, thao tác nhanh gọn và sự đa dạng trong lựa chọn trò chơi, Zing88 đưa bạn vào một thế giới giải trí cá cược đầy màu sắc và thú vị.
 
-Website: https://8us.lat
+Website: https://zing88.one
 
-ĐC: 1913 Phạm Thế Hiển, Phường 6, Quận 8, TP Hồ Chí Minh
+ĐC: 238 Lê Văn Quới, Phường Bình Hưng Hòa A, Quận Bình Tân, TP Hồ Chí Minh
 
-SĐT: 0909 876 290
+SĐT: 0979 852 459
 
-Email: contact@8us.lat
+Email: contact@zing88.one
 
-Hastags: #8us #conggame8us #8uslat #casino #nohu #thethao #banca #xoso
+Hastags: #zing88 #nhacaizing88 #zing88one #casino #nohu #thethao #banca #xoso
 
-https://www.facebook.com/8uslat
+https://www.facebook.com/zing88one
 
-https://www.youtube.com/@8uslat
+https://www.youtube.com/@zing88one
 
-https://x.com/8uslat
+https://x.com/zing88one
 
-https://www.tumblr.com/8uslat
+https://www.tumblr.com/zing88one
 
-https://www.reddit.com/user/RegularCool2478/
+https://www.reddit.com/user/Sudden-Designer8191/
 
-https://gravatar.com/8uslat
+https://gravatar.com/zing88one
 
-https://band.us/band/97645531
+https://issuu.com/zing88one
 
-https://glose.com/u/8uslat
+https://www.reverbnation.com/zing88one
 
-https://500px.com/p/8uslat?view=photos
+https://www.instapaper.com/p/zing88one
 
-https://issuu.com/8uslat
+https://www.blogger.com/profile/12909253933601405994
 
-https://profile.hatena.ne.jp/uslat8/profile
+https://wakelet.com/@zing88one
 
-https://www.reverbnation.com/artist/c%E1%BB%95nggame8us
+https://www.multichain.com/qa/user/zing88one
 
-https://www.instapaper.com/p/8uslat
+https://www.myminifactory.com/users/zing88one
 
-https://www.blogger.com/profile/12561346612999028867
+https://starity.hu/profil/548235-zing88one/
 
-https://wakelet.com/@8uslat
+https://roomstyler.com/users/zing88one
 
-https://www.multichain.com/qa/user/8uslat
+https://link.space/@Zing88
 
-https://fileforum.com/profile/8uslat
+https://gifyu.com/zing88one
 
-https://www.myminifactory.com/users/8uslat
+https://www.mapleprimes.com/users/zing88one
 
-https://starity.hu/profil/548241-uslat8/
+https://hashnode.com/@zing88one
 
-https://leetcode.com/u/8uslat/
+https://public.tableau.com/app/profile/zing.88/vizzes
