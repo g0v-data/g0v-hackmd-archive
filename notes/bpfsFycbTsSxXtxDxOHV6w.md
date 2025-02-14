@@ -1,11 +1,11 @@
-Shanghai Neworld Fluid Machinery Co., Ltd
+Zhejiang Leinuo Textile Technology Co., Ltd.
 
-https://www.neworld-cn.com/
+https://www.leinuotechnology.com/
 
-+86-21-61210155
++86 13566273828
 
-info@neworld-cn.com
+zhs@leinuotechnology.com
 
-Room 2203 No 1199 Defu Road Jiading District Shanghai
+Zhuji City, Zhejiang Province,
 
-API 610 pump
+Zx socks knitting machine
