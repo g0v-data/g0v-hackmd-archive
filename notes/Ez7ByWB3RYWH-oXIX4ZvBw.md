@@ -56,3 +56,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 |範例|範例|範例|
 
 ## 筆記
+
+- 安妮在整理 g0v database 資料
+- 豆腐在思考要不要開發 g0v developer app
