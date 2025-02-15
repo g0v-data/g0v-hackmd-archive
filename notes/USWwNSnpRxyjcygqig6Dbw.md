@@ -43,6 +43,7 @@ tags: 國會松
 
 
 ## 賴沛蓮：國會審預算干 NGO 什麼事？預算提案如何成為公民團體ㄉ倡議武器！
+[簡報](https://drive.google.com/file/d/1fJdrkIVBNA1mO_X3QjSpqqQ14nixZp8m/view?usp=drive_link)
 
 違章工廠不能民眾訴訟且跨大量部會，僅能依靠檢舉，要把問題切細提交給不同部會。
 
