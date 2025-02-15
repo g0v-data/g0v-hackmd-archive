@@ -1,11 +1,11 @@
-Zhejiang Leinuo Textile Technology Co., Ltd.
+WANSHSIN SEIKOU (HUNAN) CO., LTD.
 
-https://www.leinuotechnology.com/
+https://www.wanshsindrive.com/
 
-+86 13566273828
++86-731-84221213
 
-zhs@leinuotechnology.com
+sales@wanshsin.com
 
-Zhuji City, Zhejiang Province,
+WANSHSIN Industrial Park, Ningxiang Hi-tech Zone, Changsha City, Hunan Province,
 
-Zx socks knitting machine
+Motor servo motor
