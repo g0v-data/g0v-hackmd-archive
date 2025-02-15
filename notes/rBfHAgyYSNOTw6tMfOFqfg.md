@@ -142,6 +142,9 @@ https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyri
 https://www.facebook.com/share/p/15pmKRG4sw/
 https://www.facebook.com/share/p/1ArPQnAnUz
 
+日本  AIセーフティ年次レポート2024
+National Status Report on AI Safety in Japan 2024
+https://aisi.go.jp/effort/effort_information/250207_3/
 
 ## 課程
 
