@@ -2,7 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 34294 | 2025-02-16T03:02:54+00:00 |
+| [gamification](tags/gamification.md) | 5 | 2025-02-16T05:33:23+00:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 34296 | 2025-02-16T05:31:55+00:00 |
 | [rand0mth0n](tags/rand0mth0n.md) | 18 | 2025-02-15T16:00:18+00:00 |
 | [ hackathon](tags/%20hackathon.md) | 3 | 2025-02-15T16:00:18+00:00 |
 | [hackathon](tags/hackathon.md) | 63 | 2025-02-15T15:42:45+00:00 |
@@ -30,7 +31,6 @@
 | [ g0v.news](tags/%20g0v.news.md) | 1 | 2025-02-08T13:26:45+00:00 |
 | [115B實驗室](tags/115B%E5%AF%A6%E9%A9%97%E5%AE%A4.md) | 11 | 2025-02-08T03:04:28+00:00 |
 | [ 永續所得實驗室](tags/%20%E6%B0%B8%E7%BA%8C%E6%89%80%E5%BE%97%E5%AF%A6%E9%A9%97%E5%AE%A4.md) | 1 | 2025-02-08T03:04:28+00:00 |
-| [gamification](tags/gamification.md) | 5 | 2025-02-07T18:19:47+00:00 |
 | [GIS](tags/GIS.md) | 157 | 2025-02-06T17:02:46+00:00 |
 | [cowork guideline](tags/cowork%20guideline.md) | 22 | 2025-02-01T13:27:36+00:00 |
 | [FtO](tags/FtO.md) | 75 | 2025-01-25T00:45:01+00:00 |

@@ -1,0 +1,7 @@
+Hướng Dẫn Cách Chơi Bài Tứ Sắc Hiệu Quả Cho Người Mới
+Bài Tứ Sắc trong [Yeu88](https://vip-bento.com/) là một trò chơi bài dân gian phổ biến tại Việt Nam, đặc biệt ở khu vực miền Trung và miền Nam. Trò chơi này có nguồn gốc từ Trung Quốc và mang nhiều nét tương đồng với Tổ Tôm của miền Bắc. Bộ bài Tứ Sắc gồm 112 quân, chia thành bốn màu khác nhau: đỏ, vàng, xanh và trắng. Các quân bài được chia thành bảy đạo quân: Tướng, Sĩ, Tượng, Xe, Pháo, Mã và Tốt. Cách chơi Tứ Sắc đòi hỏi người tham gia phải có sự tư duy, tính toán hợp lý để sắp xếp các lá bài thành những bộ chẵn hoặc bộ lẻ nhằm giành chiến thắng.
+Khi bắt đầu ván chơi, mỗi người chơi sẽ được chia 20 lá bài, riêng nhà cái sẽ được nhận thêm một lá. Các quân bài còn lại được đặt úp ở giữa bàn và gọi là Nọc. Trong quá trình chơi, người chơi phải sắp xếp bài theo các tổ hợp hợp lệ như Chẵn (từ hai đến bốn lá bài cùng màu và cùng cấp bậc), Lẻ (ba lá bài cùng màu theo thứ tự Tướng – Sĩ – Tượng hoặc Xe – Pháo – Mã), Khạp (ba lá giống nhau bốc được ngay từ đầu) hay Quàn (bốn lá giống nhau).
+Cách tính điểm trong Tứ Sắc dựa trên khái niệm lệnh, người có nhiều lệnh nhất sẽ giành chiến thắng. Một số trường hợp phổ biến như ba quân Tốt khác màu được tính một lệnh, bốn quân Tốt khác màu tính bốn lệnh, bộ chẵn được sáu lệnh, bộ lẻ một lệnh. Việc ghi nhớ và nhận diện các quân bài là điều quan trọng giúp người chơi có thể nắm vững chiến thuật và gia tăng cơ hội thắng cuộc.
+Xem thêm: https://vip-bento.com/bai-tu-sac-la-gi/
+Xem thêm: https://start.me/w/EGrr64
+Hashtag: #yeu88 #casinoyeu88 #nhacaiyeu88

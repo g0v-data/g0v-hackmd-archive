@@ -1,52 +1,31 @@
-![](https://g0v.hackmd.io/_uploads/r1MrGq2Ykg.jpg)
-Zing88 không chỉ là điểm đến của những người đam mê cá cược, mà còn là nơi hội tụ của những tay chơi sành điệu. Với giao diện bắt mắt, thao tác nhanh gọn và sự đa dạng trong lựa chọn trò chơi, Zing88 đưa bạn vào một thế giới giải trí cá cược đầy màu sắc và thú vị.
+![](https://g0v.hackmd.io/_uploads/SkqiWekqyl.jpg)
+<a href="https://mu88.foundation">Mu88</a> là nơi bạn có thể thử thách bản thân và nhận về những phần thưởng không giới hạn. Với hệ thống trò chơi phong phú và tỷ lệ thắng cao, Mu88 giúp bạn dễ dàng chiến thắng và khám phá thế giới giải trí đỉnh cao.
 
-Website: https://zing88.one
+Website: <a href="https://mu88.foundation">https://mu88.foundation</a>
+ĐC: 55c Tô Ngọc Vân, Thạnh Xuân, Quận 12, Hồ Chí Minh, Việt Nam       
+SĐT: 0977345789     
+Email: support@mu88.foundation   
+Hastags: #mu88 #nhacaimu88 #mu88foundation #casino #nohu #thethao #banca #xoso	
 
-ĐC: 238 Lê Văn Quới, Phường Bình Hưng Hòa A, Quận Bình Tân, TP Hồ Chí Minh
 
-SĐT: 0979 852 459
 
-Email: contact@zing88.one
-
-Hastags: #zing88 #nhacaizing88 #zing88one #casino #nohu #thethao #banca #xoso
-
-https://www.facebook.com/zing88one
-
-https://www.youtube.com/@zing88one
-
-https://x.com/zing88one
-
-https://www.tumblr.com/zing88one
-
-https://www.reddit.com/user/Sudden-Designer8191/
-
-https://gravatar.com/zing88one
-
-https://issuu.com/zing88one
-
-https://www.reverbnation.com/zing88one
-
-https://www.instapaper.com/p/zing88one
-
-https://www.blogger.com/profile/12909253933601405994
-
-https://wakelet.com/@zing88one
-
-https://www.multichain.com/qa/user/zing88one
-
-https://www.myminifactory.com/users/zing88one
-
-https://starity.hu/profil/548235-zing88one/
-
-https://roomstyler.com/users/zing88one
-
-https://link.space/@Zing88
-
-https://gifyu.com/zing88one
-
-https://www.mapleprimes.com/users/zing88one
-
-https://hashnode.com/@zing88one
-
-https://public.tableau.com/app/profile/zing.88/vizzes
+<a href="https://www.facebook.com/mu88foundation">https://www.facebook.com/mu88foundation</a>
+<a href="https://www.youtube.com/@mu88foundation">https://www.youtube.com/@mu88foundation</a>
+<a href="https://x.com/mu88foundation">https://x.com/mu88foundation</a>
+<a href="https://www.tumblr.com/mu88foundation">https://www.tumblr.com/mu88foundation</a>
+<a href="https://www.reddit.com/user/mu88foundation/">https://www.reddit.com/user/mu88foundation/</a>
+<a href="https://gravatar.com/mu88foundation">https://gravatar.com/mu88foundation</a>
+<a href="https://band.us/band/97666256">https://band.us/band/97666256</a>
+<a href="https://glose.com/u/mu88foundation">https://glose.com/u/mu88foundation</a>
+<a href="https://500px.com/p/mu88foundation?view=photos">https://500px.com/p/mu88foundation?view=photos</a>
+<a href="https://issuu.com/mu88foundation">https://issuu.com/mu88foundation</a>
+<a href="https://profile.hatena.ne.jp/mu88foundation/profile">https://profile.hatena.ne.jp/mu88foundation/profile</a>
+<a href="https://www.reverbnation.com/artist/mu8850">https://www.reverbnation.com/artist/mu8850</a>
+<a href="https://www.instapaper.com/p/mu88foundation">https://www.instapaper.com/p/mu88foundation</a>
+<a href="https://www.blogger.com/profile/02680049462580544003">https://www.blogger.com/profile/02680049462580544003</a>
+<a href="https://www.ilcirotano.it/annunci/author/mu88foundation/">https://www.ilcirotano.it/annunci/author/mu88foundation/</a>
+<a href="https://wakelet.com/@mu88foundation">https://wakelet.com/@mu88foundation</a>
+<a href="https://www.multichain.com/qa/user/mu88foundation">https://www.multichain.com/qa/user/mu88foundation</a>
+<a href="https://fileforum.com/profile/mu88foundation">https://fileforum.com/profile/mu88foundation</a>
+<a href="https://starity.hu/profil/549195-mu88foundation/">https://starity.hu/profil/549195-mu88foundation/</a>
+<a href="https://roomstyler.com/users/mu88foundation">https://roomstyler.com/users/mu88foundation</a>
