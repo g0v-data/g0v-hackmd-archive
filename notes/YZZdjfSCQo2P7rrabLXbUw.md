@@ -6,6 +6,9 @@
 [TOC]
 
 :::
+啟程
+https://yewenjing76.weebly.com/388992713823460---300502698927468-2185531243.html
+https://www.youtube.com/watch?v=sDGghk50ns0
 
 台灣小百岳
 https://catyc.pixnet.net/blog/post/63581416-%E5%8F%B0%E7%81%A3%E5%B0%8F%E7%99%BE%E5%B2%B3
