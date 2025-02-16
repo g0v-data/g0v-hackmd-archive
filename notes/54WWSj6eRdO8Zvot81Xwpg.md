@@ -71,6 +71,8 @@ tags: 人口推估,
     -  交通部運輸研究所，2004
 
 ### 信令人口
+- 探討
+    - https://www.facebook.com/JiasinYu/posts/pfbid02yn63pwHn7o1QmANPS6otzd951MShSGVTTvk7o6vdZZTJF7tw2t9qedJm6mgEz3Zql
 - 鄉鎮區層級線上地圖
     - https://medium.com/%E6%B1%9F%E6%98%8E%E5%AE%97-kiang/%E5%8F%B0%E7%81%A3%E4%BA%BA%E6%B5%81%E5%9C%B0%E5%9C%96%E5%88%9D%E6%AD%A5%E6%8E%A8%E5%87%BA-a9e9879a4ef6
 - 電信信令人口統計資料申請
