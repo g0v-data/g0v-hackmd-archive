@@ -67,6 +67,10 @@ https://www.facebook.com/share/p/15e75K8GKF/
 
 https://www.facebook.com/share/15repbf7df/
 
+
+藝評產製
+https://www.facebook.com/share/1A2jTimCgp/
+ 
 ## 涉及影音生成
 
 手語生成式 AI
