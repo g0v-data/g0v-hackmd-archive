@@ -4,7 +4,7 @@
 
 <h2>Ok9 &ndash; Nền Tảng Cá Cược Trực Tuyến Uy Tín</h2>
 
-<p>Ok9 là nhà cái cá cược trực tuyến cung cấp nhiều loại hình cá cược từ thể thao, casino, game bài cho đến các trò chơi ảo hấp dẫn. Được cấp phép hoạt động hợp pháp, Ok9 luôn cam kết mang đến môi trường cá cược minh bạch và an toàn cho người chơi.&nbsp;Website:&nbsp;<a href="https://ok9.solutions/">https://ok9.football/</a></p>
+<p>Ok9 là nhà cái cá cược trực tuyến cung cấp nhiều loại hình cá cược từ thể thao, casino, game bài cho đến các trò chơi ảo hấp dẫn. Được cấp phép hoạt động hợp pháp, Ok9 luôn cam kết mang đến môi trường cá cược minh bạch và an toàn cho người chơi.&nbsp;Website:&nbsp;<a href="https://ok9.football">https://ok9.football/</a></p>
 
 <h3>Giấy Phép Hoạt Động Minh Bạch, Đảm Bảo Quyền Lợi Người Chơi</h3>
 
