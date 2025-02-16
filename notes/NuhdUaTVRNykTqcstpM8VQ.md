@@ -17,7 +17,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 
 :star2:  g0v slack 頻道傳送門
 
-Global & Local
+### Global & Local
 #general 社群大廳，可以在這邊提出任何問題！ G0v City Hall / Plaza
 #general-en #general English version
 #general-ja #general Japanese version
@@ -53,14 +53,14 @@ Global & Local
 #facing-the-ocean Connected to Code for Korea & Code for Japan
 #ig Internet / digital governance
 
-Infra / G0vernace
+### Infra / G0vernace
 #rand0m 歡迎自由灌水閒聊 :smile: Feel free to chat here.
 #self-intro 歡迎來到 g0v-slack，這是自我介紹的頻道，可以讓大家認識你唷！Welcome to g0v slack! Please introduce yourself to g0v community :heart:
-#joinchannel-slack-頻道名稱彙整 提供各式各樣的頻道簡介，以及傳送門 G0v slack channels discussions.
+#joinchannel-slack-頻道名稱彙整 提供各式各樣的頻道簡介，以及傳送門 G0v slack channels portal.
 #awesome-g0v-projects 令人驚奇的零時政府。找專案，找提案，找共筆，找幫手 一站搞定
-#project-坑主大補帖 協助坑主推展專案，整理相關執行經驗與建議
+#project-坑主大補帖 協助坑主推展專案，整理相關執行經驗與建議 Assist project leaders in promoting their projects, organizing related execution experiences and suggestions
 #拉人更輕鬆
-#jothon 揪松團相關活動討論（黑客松、基礎松）
+#jothon 揪松團相關活動討論（黑客松、基礎松）https://jothon.g0v.tw/
 #fundraising-救松團-募款執行
 #jothon-stall-擺攤
 #g0v-conservation-archive-文物保存
@@ -68,41 +68,41 @@ Infra / G0vernace
 #g0v-database-專案清單-基礎建設清單
 #translation 翻譯頻道 i18n + l10n—translate everything.
 #localization 社群翻譯語彙庫 (glossary)，從軟體在地化需求出發，收集個別社群成員、在各自筆譯／口譯／翻譯專案使用的詞彙前進，並希望收錄不只一個語言。
-#name 專案取名稱的互助頻道
-#rs語料庫 諧音梗交流
+#name 專案取名稱的互助頻道 Channel for Project Naming
+#rs語料庫 諧音梗交流 Pun & Fun
 #let-it-out 心情抒發頻道 :slightly_smiling_face:
-#hello-world 致力於新參者的體驗流程
+#hello-world 致力於新參者的體驗流程 Dedicated to Newcomer Experience Flow
 #g0v-aibot g0v AI 機器人 aka 找專案分類帽
 #rep0rter 社群虛擬記者分享社群動態
 #passu-me 自動履歷製造機（with hello g0v）
 #g0vmentor 零時先輩
-#infras 社群基礎建設開發維護，一起來協力!
+#infras 社群基礎建設開發維護，一起來協力! Community Infrastructure Development & Maintenance
 #status g0v 各網站的狀態通知頻道
 #g0v-domain g0v 網域大小事、網域申請
 #g0v-github g0v GitHub 大小事
 #g0v-ui 這是一個放 UI 的地方，有 github
 #g0v-slack g0v slack 大小事、申請 APP、治理機制討論
 #slack-apps
-#bridge 跨平台訊息流通工具
+#bridge 跨平台訊息流通工具 Cross-Platform Information Flow Tools
 #g0v-social 討論 Mastodon 伺服器
 #hackmd HackMD 使用經驗與課題回報
-#g0vernance 討論社群治理
+#g0vernance 討論社群治理 Discussion on Community Governance
 #g0v-landing-page g0v.tw 網站社群治理，以及社群活動刊登至日曆的提案頻道
-#engaged-research 以 g0v 為主的學術研究
+#engaged-research 以 g0v 為主的學術研究 Academic research on g0v and community projects
 #sns g0v sns 平台規範、發文討論區
 #news g0v news
-#g0vpodcast g0v underground 零時電台
-#summit g0v Summit 年會的公開頻道
-#10th-anniversary 十週年活動籌劃頻道
+#g0vpodcast g0v underground 零時電台 https://linktr.ee/g0vpodcast
+#summit g0v Summit 年會的公開頻道 https://summit.g0v.tw/
+#10th-anniversary 十週年活動籌劃頻道 https://10th.g0v.tw/
 #moztw-space 摩茲工寮社群空間 https://moztw.org/space/
 #g0v-social creating g0v.social, a decentralized social network
 
-Edu / Learning / Health / Living
+### Edu / Learning / Health / Living
 #moedict 萌典、字典
 #amis 阿美語萌典
 #itaigi 愛台語 對漢字佮台羅誠熟手，做伙鬥校對巡喲
 #chhoetaigi ChhoeTaigi 台語辭典⁺
-#taiwanbooks 矽谷圖書館台灣書籍植入計畫
+#taiwanbooks 矽谷圖書館台灣書籍植入計畫 Silicon Valley Library Taiwan Book Insertion Project
 #edu 零時小學校「開源協作與教育工作」主頻道
 #edu-aray 公民科技貢獻者的專案與任務視覺化平台
 #edu-accomdemy 伴伴學社群頻道
@@ -155,9 +155,9 @@ Edu / Learning / Health / Living
 #g0vhiking for hiking affair
 #camping :camping: 全台露營區合法共 205 筆資料與線上地圖
 
-Open Gov & Projects
+### Open Gov & Projects
 #d2wg 數位民主研究案工作小組 g0v Digital Democracy Working Group
-#ogp 關注台灣「開放政府行動方案」制定
+#ogp 關注台灣「開放政府行動方案」制定 Focus on Taiwan's "Open Government Action Plan"
 #pmpc-公共程式法治研析與推動 Public Money Public Code
 #open-moneyflow #金流百科（政治獻金、公投募集經費、標案、視覺化）
 #vote 選舉相關的專案或想法
@@ -165,26 +165,26 @@ Open Gov & Projects
 #election-policy-tracker 候選人政見彙整平台
 選前大補帖，專案另有設置 Slack https://join.slack.com/t/taiwanvotingguide/shared_invite/zt-20t7r7oo3-KmgRaARq_1qHo1VECY8ssQ
 #pridewatch彩虹選民觀選指南 隨著每年的選舉將會逐步更新，歡迎提供使用者回饋、許願！
+#ly g0v 國會松、立法院資料 g0v Congress Hackathon, Legislative Yuan data
 #parliament 國會、立法院
 #law
 #tw-legal-datasets
 #hackact 修法協作器
 #call-liwei 立委咖電喂
-#ly g0v 國會松、立法院資料
 #刑法十八禁 對刑法上修到二十歲有興趣的朋友歡迎參與喔！
 #vtaiwan 法規與議題議論
 #statement_proof-論證平台
 #holopolis	
 #london-polis
 #eid 晶片身分證
-#privacy 關注個資隱私議題的頻道
+#privacy 關注個資隱私議題的頻道 Channel focusing on personal data privacy issues
 #moda 想討論台灣已成立的數位發展部嗎
 #presidential 總統盃黑客松
 #us-taiwan-watch 美國台灣觀測站
-#us-norcal-congress-outreach 北加國會議員攻略
+#us-norcal-congress-outreach 北加州國會議員攻略
 #national-treasure 國家寶藏，號召志工一起深入世界各地的國家檔案局與圖書館，挖出台灣相關史料，並建立網路開放資料庫，供全民免費使用。This project aims to bring these documents within the sight of the public, so that everyone can forge their own stories that were never told before.
 #gender
-#herstory 東亞女性權力行動歷程書寫
+#herstory 東亞女性權力行動歷程書寫 Documentation of East Asian women's empowerment movements
 #thinktank-info 國際智庫基本資料 csv
 #inkrosetta 多語系圖卡
 #wikidatataiwan	Wikidata Taiwan 討論頻道
