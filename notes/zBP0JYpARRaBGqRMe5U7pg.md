@@ -1,4 +1,6 @@
 # ccd轉址
+## 確認是不是中華電信問題
+下次如果掛了可以先看`:http://proxy.icantech.org.tw
 ## 來源判定
 router.js 進行來源網域判定與控制，如果是從`proxy.icantech.org.tw`近來，加上前綴`/icantech`如下
 ```
