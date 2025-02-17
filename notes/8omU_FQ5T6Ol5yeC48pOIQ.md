@@ -158,3 +158,4 @@ remove-appxpackage -allusers -package "Microsoft.BingSearch_1.0.92.0_x64__8wekyb
 滑鼠右鍵選單改為傳統，省得每次都要按Shift
 reg add HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32 /ve /f
 reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
+https://codeload.github.com/Raphire/Win11Debloat/zip/refs/heads/master

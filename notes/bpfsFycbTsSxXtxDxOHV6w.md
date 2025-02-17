@@ -1,11 +1,10 @@
-WANSHSIN SEIKOU (HUNAN) CO., LTD.
+Hunan Boyu Technology Co., Ltd.
 
-https://www.wanshsindrive.com/
+https://www.xk-lab.com/
 
-+86-731-84221213
++86 731 86393472
 
-sales@wanshsin.com
+cathy@xk-materials.com
 
-WANSHSIN Industrial Park, Ningxiang Hi-tech Zone, Changsha City, Hunan Province,
 
-Motor servo motor
+Aluminium titanium alloy
