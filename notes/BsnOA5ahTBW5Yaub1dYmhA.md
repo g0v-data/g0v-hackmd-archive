@@ -127,6 +127,7 @@ bil 不行
 
 ## RightsCon & Satelite Events
 
+
 - 2/22 (Sat) 大松：https://g0v-jothon.kktix.cc/events/g0v-hackath65n 
 - ~~2/24 (一) Side-event 17:00~18:00 比鄰演講~~ 取消
 - 2/25 (二) 9:00~10:00 NDI Panel
@@ -146,6 +147,7 @@ bil 不行
   - 工作坊 14:00 – 17:30 如何使用 Tor 避開審查並匿名瀏覽
   - 工作坊 18:00 – 19:00 如何使用 OONI 偵測與觀察網路審查狀況
   - 演講座 19:30 – 21:00 Tor 在網路監控的世界中捍衛個人線上隱私權
+- 2/23 (日) 3pm-6pm[【工作坊】打造韌性網路：動手實作「不需海纜」的網路](https://airtable.com/appWd48vvxh0VJS1D/shrLERQDlmu6j3jMz)
 - 2/26 (三) DWeb panel 10:15~11:15 (Promote 攤位)
 - 2/24~2/27 OCF＆司改會一起擺攤
 
