@@ -5,6 +5,10 @@
     *進行密碼重設與
 * 重設密碼(修改會員資料)
 
+#### 紀錄
+* 在**重設密碼通知信**，**進行密碼重設**(忘記密碼)與**修改會員資料**(重設密碼)中，加上**密碼最短使用期限**(1天)的驗證與限制(throw exception)
+* 目前忘記密碼與重設密碼(修改會員資料)皆存在同一個db中
+
 在前面加上:
 ```
 List<MemberChangePass> memberChangePassList = memberChangePassRepository.findByMemberIdOrderByChangePassTimeAsc(member);
