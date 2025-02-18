@@ -1,9 +1,20 @@
 # ATC8120
 
-Board: xxx.A
-CPU: xxx
+### 20250218
+Board: ATC8120 PCB Rev.A
+CPU: RPL
+Bring-up BIOS:MA82T001(9AADA001/MR72-022)
+Bring-up MCU:
 
-Bring-up BIOS:MA82T001
+GOP:
+
+GPIO Voltage:
+
+CLKREQ:
+
+USB_OC:
+
+XML:
 
 
 
