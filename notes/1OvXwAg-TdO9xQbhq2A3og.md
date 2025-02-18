@@ -19,7 +19,7 @@ U2
 U3
 PCIE
 SATA
-CLK
+ClkreqMapSRC
 
 SIO:
 COM1
