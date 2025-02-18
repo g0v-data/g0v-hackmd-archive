@@ -48,9 +48,27 @@
 # 士林系列
 餐廳
 ---
-- [小倉庫食研所](https://tenjo.tw/thecafeby3/)
-    - 這間我之前跟朋友來吃沒位子 說要定位
+- [小倉庫食研所](https://pfse64289.pixnet.net/blog/post/337732561)
+    - 這間我之前跟朋友來吃沒位子 說要訂位
     - 看評分很高~
+    
+- [Bremen不萊梅](https://tenjo.tw/bremen-shilin/)
+    - 後來我們選這間 還算普通
+    - 感覺是可以坐很久的店
+
+- [金孫韓廚 義大利麵(士林店)](https://niniyeh.com/goldenson/)
+    - 感覺交通方便
+    - 評分很高 品項很多 好像沒有甜點!
+
+- [珍心屋低卡甜品](https://www.instagram.com/sweethome0916/)
+    - 號稱低卡 可以多選幾樣
+    - 沒有位子的感覺 應該是只能外帶去士林官邸吃的樣子
+
+- [Porcini 普羅奇尼布丁甜點專門店](https://ifunny.blog/chitaka/)
+    - 好像是一間豬排店~
+    - 不過應該可以布丁外帶 印象說妳喜歡吃布丁
+
+
 
 
 景點
@@ -59,12 +77,45 @@
     - 要門票$$$
     - 開到三月初 不看可能沒機會囉
     - 覺得你如果喜歡拍照 應該不少照片可以拍
+    - 或者就旁邊天文館吧~
 
 - [士林官邸賞花](https://www.welcometw.com/%E5%A3%AB%E6%9E%97%E5%AE%98%E9%82%B8/)
     - 要門票$$$ 好像有些不用
     - 網站有幾個動物應該很好拍~
+    - 是一個走走走的行程
     
+# 忠孝新生
+餐廳
+---
+- [義大利米蘭手工窯烤披薩](https://www.welcometw.com/%E5%A3%AB%E6%9E%97%E5%AE%98%E9%82%B8/)
 
 
+
+
+
+
+景點
+---
+- [吉卜力展](https://supertaste.tvbs.com.tw/accessories/352016)
+    - 要門票$$$
+    - 應該也是個拍照的點 
+    - 不過怕人擠人啊~~~ 感覺場地不大QQ
+
+- [看啥小 – 微型藝術博物館](https://meet.eslite.com/tw/tc%E3%80%82/article/202501060001)
+    - 又找到的微型展 現在微型展這麼夯嗎 (上面的田中達也是有人推薦)
+    - 要門票$$$
+    - 感覺跟田中達也的差別是 風格比較多 因為作者多
+
+
+- [流浪蓋婭號 Wandering Gaia](https://www.instagram.com/cindywun/reel/DFFZsXnSA25/)
+    - 要門票
+    - 看起來是互動式展覽 還蠻有趣的
+    - 也是怕場地太小 不過他場次有比較多 可能還好
+
+- [榕錦時光生活園區] + [大安森林公園]
+    - 如果上面有沒有想去的 有這兩個參考
+    
+- [0km山物所](https://www.dalang.tw/0kmtaipei/)
+    - 偶然查到 覺得很酷備註一下 留紀錄 這個要排隊~ 可能要平日來
 
 ###### tags: `Templates` `Book`
