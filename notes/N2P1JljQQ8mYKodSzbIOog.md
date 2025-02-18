@@ -55,3 +55,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSfRhJJVBGD0zEaaSJDGCXhKMkyapvxzDmfQqlF2
 
 ## 筆記  
 
+- 整理法院觀察松的筆記
+    - [20250218 法庭觀察松](/_GKcnfHQTQWCN_zSAcUdew)
+- 折 g0v passport
+    - 順便蓋上鋼印
+- 聊中華民國的固有疆域???
+- 聊中國的教材
+    - 台灣教的中國地理比中國官方的教材教得多
