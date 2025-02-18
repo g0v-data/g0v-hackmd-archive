@@ -1,3 +1,5 @@
+# 行程!!!
+
 # 中正紀念堂系列
 
 
@@ -41,5 +43,28 @@
 - [植物園](https://www.youtube.com/watch?v=RcHy8_XEJXg)
     - 就是一個一直走路的概念
     - 看影片原來還有室內的，小時候印象荷花池跟餵魚而已
+
+
+# 士林系列
+餐廳
+---
+- [小倉庫食研所](https://tenjo.tw/thecafeby3/)
+    - 這間我之前跟朋友來吃沒位子 說要定位
+    - 看評分很高~
+
+
+景點
+---
+- [AI繪動的畫特展](https://natsuphil.com/taipei/ai-paintings/)
+    - 要門票$$$
+    - 開到三月初 不看可能沒機會囉
+    - 覺得你如果喜歡拍照 應該不少照片可以拍
+
+- [士林官邸賞花](https://www.welcometw.com/%E5%A3%AB%E6%9E%97%E5%AE%98%E9%82%B8/)
+    - 要門票$$$ 好像有些不用
+    - 網站有幾個動物應該很好拍~
+    
+
+
 
 ###### tags: `Templates` `Book`

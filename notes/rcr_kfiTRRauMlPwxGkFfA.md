@@ -87,13 +87,20 @@ HCY :
 - 生成工具 https://boxes.hackerspace-bamberg.de/
 - 能理解自製的過程, 成本和品質比 IKEA 好
 - 家具模組化 / 參數化設計
-- 
+
+
 
 ddio:
 - 考慮搬家的流程更細膩 (跟 2021 第一間房比)
 - 有小朋友後 很多零件想自己做。例如櫃體轉角做成圓角
-- 
 
+崔媽媽二房東報告
+https://www.tmm.org.tw/assets/upload/financial/28/1.pdf
+
+現代性的魅惑：修澤蘭與她的時代
+https://www.taaze.tw/products/11100892129.html
+
+伯爵新城 
 
 ---
 {%hackmd 1LO5rpavTiK4_cFrTouudg %}

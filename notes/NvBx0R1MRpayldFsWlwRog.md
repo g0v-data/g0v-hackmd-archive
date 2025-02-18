@@ -1,6 +1,4 @@
-"YallaShoot – Ikuti skor sepak bola langsung, pembaruan real-time, dan hasil pertandingan secara instan. Tetap terupdate dengan kejadian terbaru dari liga dan turnamen teratas di seluruh dunia, memastikan Anda tidak melewatkan momen penting dalam pertandingan.
-
-Kontak:
+"YallaShoot – Ikuti skor sepak bola langsung, p
 🌐 Website: https://yallashoot.watch/
 📍 Alamat: Jl. Mampang Prapatan XII 9-38, RT.11/RW.1, Tegal Parang, Kec. Mampang Prpt., Kota Jakarta Selatan, DKI Jakarta 12790, Indonesia
 📧 Email: yallashoot.watch@gmail.com
