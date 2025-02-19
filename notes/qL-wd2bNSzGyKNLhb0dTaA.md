@@ -80,6 +80,7 @@ https://lin.ee/1QUzEX4nI
 - 2/25 (二) 9:00~10:00 NDI Panel
 - 2/25 (二) 14:00 ~ 15:00 Cofacts 自己的 talk - ID # 23894 – “Crowd-sourced fact-checking in AI era - Lessons learned by Cofacts
   - 地點：South Lobby of the 2nd floor
+  - 投影片：https://docs.google.com/presentation/d/1_FGSKvgP2jh9o_22FhKSuDWLI-cu4lY3u95PL5lVb9o/edit
 - 2/26 (三) **早上**擺攤
 - 2/26 (三) 12:45-13:45 大平台 ~~(Promote 攤位)~~
 - 2/27 (四) 11:30~12:30
@@ -117,10 +118,9 @@ https://lin.ee/1QUzEX4nI
 - 不一定有電，延長線自備
 - 沒有推車與幫手，進場撤場都是手搬
 
+材料
 
-### Material
-
-https://drive.google.com/githubdrive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
+https://drive.google.com/drive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
 
 - [ ] CCC 的 Cofacts 遊戲
 - [x] 局部上光 bil 名片
@@ -132,19 +132,8 @@ https://drive.google.com/githubdrive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
     - 要更新 QR code
   - [ ] 豆腐版
   - 借放在 OCF 攤位 & 自己攤位上
-- [ ] 宣傳用：Logo 貼紙（透明 or 長的）
-  - Soho 數位標籤貼紙有透明版
-    - 長方形, 500 張透明 NTD1484 http://www.soho8d.com.tw/Form2/F102.aspx?id=501
-    - 6cmx2cm
-![](https://g0v.hackmd.io/_uploads/ryV7zLUYJe.jpg)
-![](https://g0v.hackmd.io/_uploads/SJlVldBUY1l.jpg)
-![](https://g0v.hackmd.io/_uploads/HyxqXM8UKkx.jpg)
-    - 喜歡白底 [name=bil]
-    - 建議左邊倒數第二個或左邊最後一個 [name=mroprz]
-    - 左邊倒數第二個在黑底比較不突兀 [name=T]
-    - 左邊倒數第二個 [name=nonumpa]
-
-- 投影片放在多頁的透明資料夾
+- [x] 宣傳用：Logo 貼紙（透明 or 長的）
+- [ ] 投影片放在多頁的透明資料夾
 
 ## 小聚籌備
 

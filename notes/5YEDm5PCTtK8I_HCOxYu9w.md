@@ -2,8 +2,9 @@
 tags: vtaiwan
 ---
 # 2024022大松共筆
-- 日期：2025年2月19日
+- 日期：2025年2月22日
 - 參與者簽到：
+- 線上連結：https://meet.jit.si/vtaiwan 
 
 ## vTaiwan 是什麼？
 
