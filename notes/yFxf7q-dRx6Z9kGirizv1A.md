@@ -62,15 +62,26 @@ tags: vtaiwan
     - 決定我們實體討論的議題
 - 或許可以嘗試使用 chrome 的 plug in [name=T]
     - 網頁 plug in 的優先度比 app 更高
-- 
-    
+- 其他工具：[lemmy](https://join-lemmy.org/)
+- 其他工具：[lesswrong](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
+    - 社群名稱：Effective Altruism
+### 新討論方式的開發 by Peter
+- 利用社群平台的貼文，整理大家的留言來做 argdown
+- 整理出意見（並刪除人頭帳戶的免洗評論）後，將其作為面對面討論的基礎
+- 在討論的過程中，利用 argdown 讓大家整理意見
+- 可以迅速整理出視覺化的結果
+
 ## 1220 活動
 - [共編文件](https://docs.google.com/document/d/1kYIYbHdTctGBXrV-U3qivkzByV-uAxOAiS7fB_sGacU/edit?usp=sharing)
 - 感謝 T 成功生產出文字紀錄檔！
 - [文字紀錄檔 Part1](https://asr.yating.tw/file?eid=ZLJU8u9jSOj+LYZWlgaoRSWgzkvcQcOaGA2m+qFiFR9bZzJbVLPgKABzqE5Eqoa6) 
+    - 雅婷逐字稿上已經有標記了～
     - [Google 共編](https://docs.google.com/spreadsheets/d/122ZKlvLuGaOLqs-4FXb4DjI5cww_MmZOafBsuli2WJU/edit?usp=sharing)
+        - 目前已經將時間點標記完成！（在備註欄）
 - [文字紀錄檔 Part2](https://asr.yating.tw/file?eid=OjofuTdhBPdlDnoF8+dUJteMHbKrinTGKt8J/IIwae/DD+21ZhRKd++BPY7tFY9W)
+    - 雅婷逐字稿上已經有標記了～
     - [Google 共編](https://docs.google.com/spreadsheets/d/1Wm8hL8ZnjfYvuoq2eFYOW7Nuqr4qpR2UplBhBnYLplQ/edit?usp=sharing)
+        - 目前已經將時間點標記完成！（在備註欄）
 - 以下是從原始錄影分離出來的[語音記錄檔](https://drive.google.com/drive/folders/1ymAbB8dqpweVd1W6ROlmW3GvurZ5ffTM?usp=sharing)
 - 上傳到雅婷只要幾分鐘就能跑完解析，大家也可以自行玩玩看，或是拿去測試其他轉錄工具~
 - ps. 已參考上次小松會議記錄的「轉錄工具」PPT，但 Good Type 免費版僅有每月 1.5 小時額度，所以不適用這次議題小聚。

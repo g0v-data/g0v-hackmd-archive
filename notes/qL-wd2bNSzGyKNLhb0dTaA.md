@@ -8,7 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- NPO Hub 出席
+- NPO Hub 出席：bil, nonumpa, mrorz
 - 線上出席：
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
@@ -37,28 +37,28 @@ New
 - LINE bot - long response handling https://github.com/cofacts/rumors-line-bot/pull/401
   - Fixed redis reply-token & batch handling
 
-
 ##### Testing checklist
 
 https://lin.ee/1QUzEX4nI
 
-- [ ] 應可送出「全新文字訊息」
-    - [ ] 同意送出訊息後就會送出訊息，並得到 AI reply
+- [x] 應可送出「全新文字訊息」
+    - [x] 同意送出訊息後就會送出訊息，並得到 AI reply
 - [ ] 應可送出「全新影音訊息」
     - [ ] 同意送出訊息後就會送出訊息，並得到 AI reply
-- [ ] 送出「沒回應」的舊訊息，應可顯示 AI reply
-- [ ] 送出「有回應」的舊訊息，應自動回傳回應
+- [x] 送出「沒回應」的舊訊息，應可顯示 AI reply
+- [x] 送出「有回應」的舊訊息，應自動回傳回應
 - [ ] 在 loading 時追加送訊息會發生什麼事？
+會三個彩色點點跑跑跑，問是不是同一個人傳的，送進資料庫。文字跟影音都會存在資料庫，會提供訊息很新（少於一分鐘），不要相信ＡＩreply [name=bil]
+- 如果使用者回答「是」就代表使用者說謊，或他沒看懂我們寫的訊息。不知道怎麼解 [name=mrorz]
 
 ##### ⛔️ Release Blockers
+2min Transcript 成功
+https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/jYguHpUBpiYdBld_-Fz9?observation=83701c5d-f96a-4419-af1c-131303391fdf
 
-##### 未竟項目
+但後續處理好像有問題
+![](https://g0v.hackmd.io/_uploads/Byhux8Q91l.png)
 
-## Badge
-
-> EJ
-> https://g0v.hackmd.io/@cofacts/rd/%2Fzx_Au6iiRN601tnMK7gx3A
-
+檔案來源：https://cofacts.tw/article/zueOBJUBYrjt7MSMFMVL
 
 ## CCPRIP
 
@@ -70,7 +70,8 @@ https://lin.ee/1QUzEX4nI
 ## 大松準備
 
 - Cofacts：整理爛爛的逐字稿，之後用 LLM transcript AI 一次處理？
-- Open165 沒空準備 ._.
+  - Canva 主視覺加時間，印出來 + QR code to Agenda
+- Open165 沒空準備 ._. --> 取消
 
 ## RightsCon & Satelite Events
 
@@ -130,6 +131,7 @@ https://drive.google.com/drive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
   - [x] 英文（achoo）
     - 250 張起跳 http://www.soho8d.com.tw/Form2/F102.aspx?csubid=73
     - 要更新 QR code
+    - 背面有疊影，需處理掉四色黑
   - [ ] 豆腐版
   - 借放在 OCF 攤位 & 自己攤位上
 - [x] 宣傳用：Logo 貼紙（透明 or 長的）
@@ -160,3 +162,9 @@ https://drive.google.com/drive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
 - [ ] 誰會來呢：bil,orz,nonumpa
 - [ ] 記得帶：貼紙、環保杯
 - [ ] LINE 文案： 
+
+## 3 月場地
+
+- 202
+  - 從樓梯上來
+
