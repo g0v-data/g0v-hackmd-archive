@@ -71,6 +71,7 @@ https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/jYguHpUBpiY
 
 - Cofacts：整理爛爛的逐字稿，之後用 LLM transcript AI 一次處理？
   - Canva 主視覺加時間，印出來 + QR code to Agenda
+  - 帶 logo 貼紙、傳單
 - Open165 沒空準備 ._. --> 取消
 
 ## RightsCon & Satelite Events
@@ -139,31 +140,10 @@ https://drive.google.com/drive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
 
 ## 小聚籌備
 
-- [x] 日期：01/05 (日)   - 已經訂好了
-- [ ] 食物：
-- [ ] 場地：NPO Hub Foundry（大的那間)
-- [ ] 時間：
-	- 活動時間：14:00 - 17:00
-	- 時間分配
-        - 2:00 - 2:20 開場
-            - 影片
-            - Slido 暖身
-        - 2:20 - 2:40 引導註冊網站、介紹評價現有回應
-        - 2:40 - 2:50 實作評價
-        - 2:50 - 3:10 介紹補充資訊
-        - 3:10 - 3:40 實作補充資訊、自我介紹、休息
-        - 3:40 - 4:10 介紹撰寫新回應
-        - 4:10 - 4:40 實作撰寫新回應
-        - 4:40 - 5:00 介紹分類、RSS、合照
-- [ ] 投放目標：
-  - 推播日：12/27 or 12/22
-  - 目標：雙北
-- [ ] KKTIX: https://cofacts.kktix.cc/events/cofactseditor45
-- [ ] 誰會來呢：bil,orz,nonumpa
-- [ ] 記得帶：貼紙、環保杯
-- [ ] LINE 文案： 
+3/29 大松，3 月不會有小聚
+bil hold 新北板橋志工聚會
 
-## 3 月場地
+## 3 月起場地
 
 - 202
   - 從樓梯上來
