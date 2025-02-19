@@ -2,6 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [cofacts](tags/cofacts.md) | 480 | 2025-02-19T05:59:41+00:00 |
+| [ meeting note](tags/%20meeting%20note.md) | 7 | 2025-02-19T05:59:41+00:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 34356 | 2025-02-19T04:56:14+00:00 |
 | [Templates](tags/Templates.md) | 282 | 2025-02-18T15:19:01+00:00 |
 | [Book](tags/Book.md) | 183 | 2025-02-18T15:19:01+00:00 |
@@ -10,8 +12,6 @@
 | [Rentea](tags/Rentea.md) | 196 | 2025-02-18T11:38:00+00:00 |
 | [vtaiwan](tags/vtaiwan.md) | 80 | 2025-02-17T06:17:14+00:00 |
 | [vTaiwan](tags/vTaiwan.md) | 111 | 2025-02-17T05:27:40+00:00 |
-| [cofacts](tags/cofacts.md) | 479 | 2025-02-17T03:10:17+00:00 |
-| [ meeting note](tags/%20meeting%20note.md) | 6 | 2025-02-17T03:10:17+00:00 |
 | [g0vernance](tags/g0vernance.md) | 46 | 2025-02-16T20:03:47+00:00 |
 | [cowork guideline](tags/cowork%20guideline.md) | 22 | 2025-02-16T17:12:37+00:00 |
 | [人口推估](tags/%E4%BA%BA%E5%8F%A3%E6%8E%A8%E4%BC%B0.md) | 1 | 2025-02-16T16:17:36+00:00 |
