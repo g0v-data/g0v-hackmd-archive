@@ -8,6 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
+- NPO Hub 出席
 - 線上出席：
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
@@ -25,10 +26,10 @@ https://cofacts.github.io/community-builder/#/analytics/setup
 Carried over from last week
 - Internet archive logging 
 - uploadMedia refactor 
-
-New
 - Gemini transcript https://github.com/cofacts/rumors-api/pull/359
 - Gemini model & location selection https://github.com/cofacts/rumors-api/pull/361
+
+New
 - Badge related API
 
 #### :robot_face: rumors-line-bot
@@ -47,6 +48,7 @@ https://lin.ee/1QUzEX4nI
     - [ ] 同意送出訊息後就會送出訊息，並得到 AI reply
 - [ ] 送出「沒回應」的舊訊息，應可顯示 AI reply
 - [ ] 送出「有回應」的舊訊息，應自動回傳回應
+- [ ] 在 loading 時追加送訊息會發生什麼事？
 
 ##### ⛔️ Release Blockers
 
@@ -64,13 +66,11 @@ https://lin.ee/1QUzEX4nI
 
 > Design doc: https://g0v.hackmd.io/@cofacts/rd/%2Fum7DyY_ESbu2LL78kLw3pg
 
-### [Comm] AI transcripts
-
-> Last week: https://github.com/cofacts/rumors-api/pull/361#issue-2839000967
 
 ## 大松準備
 
-## 小聚籌備？
+- Cofacts：整理爛爛的逐字稿，之後用 LLM transcript AI 一次處理？
+- Open165 沒空準備 ._.
 
 ## RightsCon & Satelite Events
 
@@ -146,4 +146,28 @@ https://drive.google.com/githubdrive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
 
 - 投影片放在多頁的透明資料夾
 
+## 小聚籌備
 
+- [x] 日期：01/05 (日)   - 已經訂好了
+- [ ] 食物：
+- [ ] 場地：NPO Hub Foundry（大的那間)
+- [ ] 時間：
+	- 活動時間：14:00 - 17:00
+	- 時間分配
+        - 2:00 - 2:20 開場
+            - 影片
+            - Slido 暖身
+        - 2:20 - 2:40 引導註冊網站、介紹評價現有回應
+        - 2:40 - 2:50 實作評價
+        - 2:50 - 3:10 介紹補充資訊
+        - 3:10 - 3:40 實作補充資訊、自我介紹、休息
+        - 3:40 - 4:10 介紹撰寫新回應
+        - 4:10 - 4:40 實作撰寫新回應
+        - 4:40 - 5:00 介紹分類、RSS、合照
+- [ ] 投放目標：
+  - 推播日：12/27 or 12/22
+  - 目標：雙北
+- [ ] KKTIX: https://cofacts.kktix.cc/events/cofactseditor45
+- [ ] 誰會來呢：bil,orz,nonumpa
+- [ ] 記得帶：貼紙、環保杯
+- [ ] LINE 文案： 

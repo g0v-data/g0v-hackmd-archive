@@ -27,3 +27,7 @@ equal measure
 pleasure 樂趣
 routine
 Overall
+
+Dictionary
+Wattpad
+bestdressed
