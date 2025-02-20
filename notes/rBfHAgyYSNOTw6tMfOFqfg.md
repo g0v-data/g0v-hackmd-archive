@@ -67,6 +67,10 @@ https://www.facebook.com/share/p/15e75K8GKF/
 
 https://www.facebook.com/share/15repbf7df/
 
+## 影音內容處理
+
+影片摘要
+https://www.facebook.com/share/p/186AQYaCST/?mibextid=wwXIfr
 
 藝評產製
 https://www.facebook.com/share/1A2jTimCgp/
