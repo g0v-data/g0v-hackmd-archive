@@ -38,7 +38,7 @@ To those who are unsure how they can contribute yet are very concerned about thi
 - Feb. 23 2025 Sun.
 - 1430 - 1800 (UTC+8)
 - Taipei Tech University
-    - 3F, 4th Academic Building(第四教學大樓), Campus map below, [Google Maps Navigation Link]()
+    - 3F, 4th Academic Building(第四教學大樓), Campus map below, [Google Maps Navigation Link](https://maps.app.goo.gl/Y2PdJjBNgD3ePAGQ8)
         - :::spoiler
           ![](https://chengpengtw-images-public.s3.ap-northeast-1.amazonaws.com/img/map_en-modified.png)
           :::
