@@ -60,6 +60,8 @@ https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/jYguHpUBpiY
 
 檔案來源：https://cofacts.tw/article/zueOBJUBYrjt7MSMFMVL
 
+> 補充：getcontent 的 token 是 5 分鐘過期 [name=nonumpa]
+
 ## CCPRIP
 
 ### [Op] Automated spam removal

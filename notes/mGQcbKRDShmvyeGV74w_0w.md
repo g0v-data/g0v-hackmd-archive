@@ -9,6 +9,11 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 g0v 數位韌性松 DigiResiTh0n 大全
 ===
 
+:::danger
+# 👈 Click the links on left side's [bookmarks](s.g0v.tw/resi), for latest event please refer to "[20250223 DigiResiThon x dweb](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/%2FPHauq5lBTaejHX-QUsHaSw)"
+:::
+
+
 ## [Introduction / Home Page](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home)
 台灣是個四面環海的島。連網網路需要依賴國際海纜，遇到天災（地震、颱風）人禍（拖底漁船、抽沙船破壞，戰爭封鎖...）都可能會造成台灣網路中斷。
 
@@ -29,6 +34,7 @@ We want to discuss measures for both governmental and civil department, that can
 各次小松
 ---
 `Latest` 
+- [20250223 DigiResiThon x dweb](/PHauq5lBTaejHX-QUsHaSw)
 - [20241031 DigiResiTh11n 第拾壹次](/3GFbzMscScSYuuRsVshbaw)
 - [20240921 DigiResiTh10n 第拾次](/uLwn1o0AQ-qikfUdyPVbrw)
 - [20240831 DigiResiTh9n 第玖次](/MouuawY4S5SRLtBYG1QIbQ)

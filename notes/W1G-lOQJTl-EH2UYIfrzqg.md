@@ -9,7 +9,11 @@ https://www.facebook.com/jsurp
 
 2025 日本の都市地理学研究，文本讀書會
 
-2024 鹿兒島縣町長交流
+東京地鐵
+https://www.facebook.com/share/1AF2rSrNKS/?mibextid=wwXIfr
 
-九州
+2024 鹿兒島縣町長交流
+補內容
+
+九州作為避難收容
 https://www.facebook.com/share/p/1682CYaEeV/
