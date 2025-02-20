@@ -5,11 +5,7 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 目錄
 [TOC]
 :::
-M220702
-Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz   2.50 GHz
-https://mobileappcommunicator.auth.microsoft.com/activatev2/597117129/SASPUBJPEAZ3FD086
 
-D8-9E-F3-03-EA-AF
 #### 常用連結
 Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
 O:\25資訊組\FPG\ERP\FPG.xlsx
