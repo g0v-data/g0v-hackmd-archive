@@ -1,10 +1,5 @@
-Hunan Boyu Technology Co., Ltd.
-
-https://www.xk-lab.com/
-
-+86 731 86393472
-
-cathy@xk-materials.com
-
-
-Aluminium titanium alloy
+https://www.kidsindoorplay.com/
++86-15858526929
+info@amirplay.com
+Xiaojingao Industry Zone, Qiaoxia, Yongjia, Zhejiang,China
+Park with trampoline
