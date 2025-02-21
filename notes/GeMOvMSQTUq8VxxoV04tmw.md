@@ -13,7 +13,7 @@ image: https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_525733c0
 
 - 時間 Time：2025/02/21 Fri.</font> 9pm - 10pm UTC +8
 - 地點 Place：線上會議室 Online Meeting Room **Jitsi** >>> https://meet.jit.si/g0vhala
-- 本期共筆：https://beta.hackfoldr.org/g0v-hackath64n/
+- 本期共筆：https://g0v.hackmd.io/@jothon/g0v-hackath65n/
 - 主辦 Organizers：[g0v jothon 零時政府揪松團](https://jothon.g0v.tw/)
 - 主持 Moderator：Peter
 
