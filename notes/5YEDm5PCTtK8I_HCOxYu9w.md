@@ -5,6 +5,7 @@ tags: vtaiwan
 - 日期：2025年2月22日
 - 參與者簽到：
 - 線上連結：https://meet.jit.si/vtaiwan 
+- 簡報連結：https://docs.google.com/presentation/d/1sF_sU3uG23S9pVo6ihZ7Fi5qccjUkhQ9u_-GebCPEWo/edit?usp=sharing 
 
 ## vTaiwan 是什麼？What is vTaiwan community?
 - vTaiwan 是一個 g0v 的社群專案，目前致力於探索應用數位工具於公共討論的可能性。我們每週三晚上 19:00-21:00 都會在線上進行討論，並不定期舉辦結合數位工具的實體討論活動。
