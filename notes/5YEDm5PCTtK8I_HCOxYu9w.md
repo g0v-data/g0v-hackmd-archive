@@ -52,6 +52,8 @@ tags: vtaiwan
 - 公/私部門目前合作的範圍、框架、模式
 - 現況的overview，詐騙發生的我比例、成功率、平均金額、樣態
 - 詐騙受害者的demographic
+    - TWNIC能否分享原始資料
+    - 我有一些問題意識，例如個人對制度的信任跟詐騙有沒有關；或是個人的社會支持
 
 ## simple survey @hackthon
 之後會更新到 [議題小聚#3 w/ TWNIC 面對網路詐騙，哪些還沒做？Combating Online Fraud – What Hasn't Been Done Yet?](/oNucqzRLQDCE7sK5JEZX1Q)
