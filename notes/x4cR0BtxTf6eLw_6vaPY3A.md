@@ -31,8 +31,8 @@
 
 | 服務 | 斷網耐受性 | 檢測紀錄 |
 | -------- | -------- | -------- |
-| Pchome 24 產品頁 | pass | [檢測紀錄](/5siiuEN1RAuFAI2H7l-phQ)
-| MoMo 產品頁 | pass | [檢測紀錄](/9JfXRBRbSV2wE3ULGIL-XA)
+| Pchome 24 產品頁 |  | [檢測紀錄](/5siiuEN1RAuFAI2H7l-phQ)
+| MoMo 產品頁 |  | [檢測紀錄](/9JfXRBRbSV2wE3ULGIL-XA)
 
 ---
 

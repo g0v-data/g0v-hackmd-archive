@@ -41,3 +41,23 @@ tags: vtaiwan
     - Discussion with [Professor Tao](https://dcat.nycu.edu.tw/en/members/陶振超/) on how to recruit a diverse group of participants
 ### 你可以幫忙的行動 What you can help?
 - 協作這邊請！/ Collaboration Needed! 協作共筆：[議題小聚#3 w/ TWNIC 面對網路詐騙，哪些還沒做？](/oNucqzRLQDCE7sK5JEZX1Q)
+
+
+
+
+## canon knowledge
+
+- 目前的法制框架，打詐四法在幹嘛
+- 公/私部門目前的做法
+- 公/私部門目前合作的範圍、框架、模式
+- 現況的overview，詐騙發生的我比例、成功率、平均金額、樣態
+- 詐騙受害者的demographic
+
+## simple survey @hackthon
+之後會更新到 [議題小聚#3 w/ TWNIC 面對網路詐騙，哪些還沒做？Combating Online Fraud – What Hasn't Been Done Yet?](/oNucqzRLQDCE7sK5JEZX1Q)
+- 打擊詐騙，應該由政府/私人部門主導
+- 我覺得詐騙問題有在改善/愈來愈嚴重
+- 我覺得我不可能成為詐騙受害者
+- 我覺得
+- 
+

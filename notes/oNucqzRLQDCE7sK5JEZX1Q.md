@@ -19,7 +19,8 @@ tags: vtaiwan
 A previous discussion took place at 20250104 Online Dark Arts Defense Hackathon 
 - 相關資料整理在這邊：[議題小聚討論-網路黑魔法防禦松](/_FMPlV_LQS-ZzRQL5t4tzg)
 - Relevant information has been compiled here: Issue Meetup Discussion – Online Dark Arts Defense Hackathon
-### 希望與大家討論 / Discussion Points
+### 希望與大家討論 / Discussion Points 
+- [給參與者的資料 primer]()
 - 有沒有其他對於公眾應對詐騙的研究？
 - Are there any other studies on how the public responds to fraud?
 - 有沒有數位平台因應詐騙政策的研究？
