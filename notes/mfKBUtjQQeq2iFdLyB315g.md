@@ -24,6 +24,8 @@ image: https://raw.githubusercontent.com/g0v/style-guide/gh-pages/logo/png/g0v-l
 - [20240601 第零次國會松](/saSDZK5zSJyWXP2GbZk07A)
 - [20171125 全球開放立法松](https://g0v.hackmd.io/s7qHh_0oRWegAAGzVNtJXQ)
 
+## 歷次錄影
+- [歷次直播錄影紀錄](https://g0v.hackmd.io/@tmonk/r1DoqE75Jx)
 
 ## 國會資料長怎樣
 - [立法院開放資料平台](https://data.ly.gov.tw/)[target=_blank]

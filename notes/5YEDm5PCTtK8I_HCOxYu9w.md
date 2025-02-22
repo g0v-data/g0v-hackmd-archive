@@ -1,11 +1,10 @@
 ---
 tags: vtaiwan
 ---
-# 2025022大松共筆
+# 2025022 大松共筆
 - 日期：2025年2月22日
 - 參與者簽到：
-- 線上連結：https://meet.jit.si/vtaiwan 
-- 簡報連結：https://docs.google.com/presentation/d/1sF_sU3uG23S9pVo6ihZ7Fi5qccjUkhQ9u_-GebCPEWo/edit?usp=sharing 
+- [大松簡報連結](https://docs.google.com/presentation/d/1sF_sU3uG23S9pVo6ihZ7Fi5qccjUkhQ9u_-GebCPEWo/edit?usp=sharing)
 
 ## vTaiwan 是什麼？What is vTaiwan community?
 - vTaiwan 是一個 g0v 的社群專案，目前致力於探索應用數位工具於公共討論的可能性。我們每週三晚上 19:00-21:00 都會在線上進行討論，並不定期舉辦結合數位工具的實體討論活動。
@@ -41,4 +40,4 @@ tags: vtaiwan
     - 與[陶振超教授](https://dcat.nycu.edu.tw/members/陶振超/)討論，如何招募多元的參與者
     - Discussion with [Professor Tao](https://dcat.nycu.edu.tw/en/members/陶振超/) on how to recruit a diverse group of participants
 ### 你可以幫忙的行動 What you can help?
-    - 協作這邊請！/ Collaboration Needed! 協作共筆：[議題小聚#3 w/ TWNIC 面對網路詐騙，哪些還沒做？](/oNucqzRLQDCE7sK5JEZX1Q)
+- 協作這邊請！/ Collaboration Needed! 協作共筆：[議題小聚#3 w/ TWNIC 面對網路詐騙，哪些還沒做？](/oNucqzRLQDCE7sK5JEZX1Q)
