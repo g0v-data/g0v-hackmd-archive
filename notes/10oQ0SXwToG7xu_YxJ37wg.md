@@ -201,7 +201,7 @@ Other thoughts
 
 https://drive.google.com/drive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
 
-- [ ] CCC 的 Cofacts 遊戲
+- [ ] CCC 的 Cofacts 遊戲 (結合台灣宮廟文化體驗+假資訊)
     - [ ] 台灣花布 + 流水席用紅桌布
     - [ ] 神明版乖乖 + 神桌背板 (A3)
     - [ ] 電子詩籤+籤筒 (遊戲題目)
@@ -212,7 +212,8 @@ https://drive.google.com/drive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
     - [ ] 延長線
     - [ ] USB 豆腐頭
     - [ ] 其他擺飾物 (台灣意象小物 : 春聯、小點心)
-    - [ ] 現場提供贊助Cofacts的帳戶或QRcode資訊 (不知道要放哪, 先列在這裡待會議討論。前情提要 : 在CCC有提供隨意Donate的箱子, 做為下次CCC擺攤的小額基金 )
+    - [ ] 遊戲說明牌
+    - [ ] 貢獻箱- 現場提供贊助Cofacts的帳戶或QRcode資訊 (不知道要放哪, 先列在這裡待會議討論。前情提要 : 在CCC有提供Donate箱, 做為下次CCC擺攤的籌備基金 )
 - [x] 局部上光 bil 名片
   - [x] 加中文「比鄰」小字
 - [x] 更新英文版網站 news
