@@ -129,8 +129,8 @@ Errors and mitigations
     - Proxy Read Timeout 100s
     - Proxy Write Timeout 30s
     - Not configurable in our account.
-    - Thus max process time through cloudflare endpoint is 100s + 30s (theoratically, not tsted):
-        - Before Proxy Read Timeout, send an arbitrary header to pass the 100s read timeout
+    - Thus max process time through cloudflare endpoint is 100s + 30s (theoratically, not tested):
+        - Before Proxy Read Timeout, send an arbitrary header to pass the 100s read timeout: https://github.com/cofacts/rumors-api/pull/362
         - Once the header is sent, we have 30s more before hitting proxy write timeout
 - nginx proxy
     - `proxy_read_timeout`: Default 60s; production already at 240s
