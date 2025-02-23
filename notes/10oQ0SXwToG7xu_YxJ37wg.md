@@ -148,7 +148,7 @@ https://drive.google.com/drive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
     - [ ] USB 豆腐頭
     - [ ] 其他擺飾物 (台灣意象小物 : 春聯、小點心)
     - [ ] 遊戲說明牌
-    - [ ] 貢獻箱- 現場提供贊助Cofacts的帳戶或QRcode資訊 (不知道要放哪, 先列在這裡待會議討論。前情提要 : 在CCC有提供Donate箱, 做為下次CCC擺攤的籌備基金 )
+    - [ ] 貢獻箱- 現場提供贊助Cofacts的帳戶或QRcode資訊 (不知道要放哪, 先列在這裡待會議討論。前情提要 : 在CCC有提供Donate箱, 做為下次CCC擺攤的籌備基金及購買禮品 )
 - [x] 局部上光 bil 名片
   - [x] 加中文「比鄰」小字
 - [x] 更新英文版網站 news
