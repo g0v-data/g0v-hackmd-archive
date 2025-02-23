@@ -25,6 +25,19 @@ strings garden.jpg | grep CTF
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_10f042265eff6516b146b5c687ca7461.png)
 
 - ANS:picoCTF{more_than_m33ts_the_3y3657BaB2C}
+### Scan Surprise
+- 掃描qrcode答案就出來了
+![](https://g0v.hackmd.io/_uploads/BycnO_Oqyx.png)
+- ans:picoCTF{p33k_@_b00_3f7cf1ae}
+
+### Secret of the Polyglot
+- This problem can be solved by just opening the file in different ways(題目提示用其他方式開)
+- 看到pn9下意識想到png
+![](https://g0v.hackmd.io/_uploads/r1eoX5Od5Jl.png)
+- 將副檔名改成png
+![](https://g0v.hackmd.io/_uploads/BJK59d_cJe.png)
+
+- ans:picoCTF{f1u3n7_1n_pn9_&_pdf_53b741d6}
 ## medium
 ### Matryoshka doll
 Matryoshka dolls are a set of wooden dolls of decreasing size placed one inside another. What's the final one? Image: this
