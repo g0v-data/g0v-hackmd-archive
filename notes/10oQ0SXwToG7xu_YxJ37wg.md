@@ -114,6 +114,20 @@ http://dev.cofacts.tw/
 
 ##### 未竟項目
 
+## LLM Transcript update
+
+Errors can come from:
+- Cloudflare
+    - 
+- nginx proxy
+    - `proxy_read_timeout`: Default 60s; production already at 240s
+        - Moved staging timeout from default to also 240s: 
+    - `proxy_send_timeout`: Defualt 60s; already bigger than Cloudflare's
+- rumors-api: ListArticles with transcript creation turned on
+    - 
+
+- 
+
 
 ### :eye: Under review
 
