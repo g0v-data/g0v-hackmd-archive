@@ -22,100 +22,34 @@ GA: UA-98468513-3
 
 ### :rocket: Staging
 
+Carried over from last week
+- Internet archive logging 
+- uploadMedia refactor 
+- Gemini transcript https://github.com/cofacts/rumors-api/pull/359
+- Gemini model & location selection https://github.com/cofacts/rumors-api/pull/361
+- Badge related API
+
+New
+- Header that bypasses Cloudflare proxy-read timeout mechanism (not tested) https://github.com/cofacts/rumors-api/pull/362
+
 #### :robot_face: rumors-line-bot
+
+Carried over from last week
+- LINE bot - long response handling https://github.com/cofacts/rumors-line-bot/pull/401
+  - Fixed redis reply-token & batch handling
 
 ##### Testing checklist
 
 https://lin.ee/1QUzEX4nI
 
-- [ ] 應可送出「全新訊息」
-    - [ ] 問訊息來源時選擇「我自己打的」會被擋下。
-    - [ ] 選擇「整篇轉傳」後會詢問是否要送出訊息。
-    - [ ] 不同意送出訊息後可以收到感謝。
-    - [ ] 同意送出訊息後就會送出訊息，並得到：
-        - [ ] Cofacts article page 按鈕
-        - [ ] 寫理由的按鈕
-        - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
-        - [ ] 「分享到 Facebook」、「分享到 LINE」且可以正常運作
-    - [ ] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
-    - [ ] 可以再打開理由視窗，此時會載入上次填寫的理由。修改理由送出後，查看 article page 看理由是否有被送出。
+- [ ] 應可送出「全新影音訊息」
+    - [ ] 同意送出訊息後就會送出訊息，並得到 AI reply
 
-- [ ] 送出「沒回應」的舊訊息，應可送出新理由
-    - [ ] 文章的「N 人回報」應該仍然要 + 1（除非測試者已經針對該篇送過 reply request）。
-    - [ ] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
-    - [ ] 可以修改理由送出。查看 article page 看理由是否有被送出。
-    - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
-
-- [ ] 送出「有回應」的舊訊息，應自動回傳回應
-    - [ ] 應列出訊息所有的回應
-    - [ ] 選擇回應之後可以幫回應 upvote
-    - [ ] 可以再次選擇 downvote
-    - [ ] 選完回應之後，還可以捲回去選其他回應
-    - [ ] （若沒開啟推播）應該要看到「開啟小鈴鐺」泡泡，且可打開 setting 頁面
-
-- [ ] Rich menu 測試
-    - [ ] 「設定」更改後再次打開，應該會保留原本設定
-    - [ ] 「教學」可以觸發教學流程
-
-##### ⛔️ Release Blockers
-##### 未竟項目
-
-#### :globe_with_meridians: Site
-##### Testing checklist
-http://dev.cofacts.tw/
-
-**未登入**下檢測：
-
-- [ ] Article list
-  - [ ] Filter works
-  - [ ] Sorting works
-  - [ ] Can go to article page
-- [ ] Replies list
-  - [ ] Filter works
-    - [ ] 不允許選擇 Replied by me
-  - [ ] Sorting works
-  - [ ] Can go to article page
-  - [ ] 不允許 upvote / downvote replies
-  - [ ] Can see vote reasons
-- [ ] Hoax for you
-  - [ ] Filter works
-  - [ ] Can go to article page
-- [ ] Article detail
-  - [ ] Can see similar messages
-  - [ ] Cannot submit, upvote, downvote reply request
-  - [ ] Cannot submit, upvote, downvote reply
-  - [ ] Cannot add, remove, upvote, downvote category
-- [ ] Search
-  - [ ] Can use global search to perform search
-  - [ ] Can use textarea in header to perform searchs
-     - Known issue: firefox 無法
-  - [ ] Can list searched articles
-    - [ ] Filter works
-    - [ ] Can go to article page
-  - [ ] Can list searched replies
-
-登入自有帳號後檢測：
-- [ ] Replies search page
-  - [ ] can upvote / downvote replies
-- [ ] Replies list
-  - [ ] 可選擇 Replied by me
-  - [ ] can upvote / downvote replies
-- [ ] Article detail
-  - [ ] Can submit, upvote, downvote reply request
-  - [ ] Can submit, remove own reply
-  - [ ] Can upvote, downvote other's article reply
-  - [ ] Can add, remove, upvote, downvote category
-- [ ] Can go to profile page on menu
-    - [ ] Can edit own name, bio, URL
-    - [ ] Can see own replies
-- [ ] Can logout
 
 ##### ⛔️ Release Blockers
 
 ##### 未竟項目
 ### :eye: Under review
-
-
 
 ## LLM Transcript update
 
@@ -124,18 +58,19 @@ Errors and mitigations
 - LINE bot
     - node-fetch connection ends prematurely
     - may be caused by Cloudflare, because no error comes from rumors-api
-    - causes infinite waiting on user side --> add error handing 
+    - causes infinite waiting on user side --> add error handing https://github.com/cofacts/rumors-line-bot/pull/403
 - [Cloudflare](https://developers.cloudflare.com/fundamentals/reference/connection-limits/#between-cloudflare-and-origin-server)
     - Proxy Read Timeout 100s
     - Proxy Write Timeout 30s
     - Not configurable in our account.
     - Thus max process time through cloudflare endpoint is 100s + 30s (theoratically, not tested):
         - Before Proxy Read Timeout, send an arbitrary header to pass the 100s read timeout: https://github.com/cofacts/rumors-api/pull/362
-        - Once the header is sent, we have 30s more before hitting proxy write timeout
+  - --> It is hard to find a video that needs to process for more than 100 seconds......
+    - Tried to use ffmpeg to stretch a video to 5 mins long (LINE upper limit). It's processed within 80 seconds.
 - nginx proxy
     - `proxy_read_timeout`: Default 60s; production already at 240s
         - Causing [504 errors](https://developers.cloudflare.com/support/troubleshooting/cloudflare-errors/troubleshooting-cloudflare-5xx-errors/#502504-from-your-origin-web-server)
-        - Moved staging timeout from default to also 240s: https://github.com/cofacts/rumors-deploy/pull/33
+        - ✅ Moved staging timeout from default to also 240s: https://github.com/cofacts/rumors-deploy/pull/33
     - `proxy_send_timeout`: Defualt 60s; already bigger than Cloudflare's write timeout.
 - rumors-api: `ListArticles` with transcript creation turned on
     - Weird error from Vertex AI SDK ![](https://g0v.hackmd.io/_uploads/SJyuoSd9ye.png)
@@ -148,7 +83,7 @@ Other thoughts
     - On LINE bot may set `API_URL` to `http://api:5000/graphql` so that it connects directly through docker-compose
         - `API_URL` is only used on NodeJS
         - LIFF calls `/graphql` on LINE bot server, and LINE bot server connects to rumors-api via NodeJS as well (w/ schema stitching)
-  --> Changed `API_URL` config near 2025/02/23 15:40 on production, LIFF & bot continued working, logging confirmed that requests come from docker network ![](https://g0v.hackmd.io/_uploads/r1ed5V8_c1e.png)
+  - --> ✅ Changed `API_URL` config near 2025/02/23 15:40 on production, LIFF & bot continued working, logging confirmed that requests come from docker network ![](https://g0v.hackmd.io/_uploads/r1ed5V8_c1e.png)
 
 
 ## RightsCon & Satelite Events
