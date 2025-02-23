@@ -63,9 +63,9 @@ Errors and mitigations
     - Proxy Read Timeout 100s
     - Proxy Write Timeout 30s
     - Not configurable in our account.
-    - Thus max process time through cloudflare endpoint is 100s + 30s (theoratically, not tested):
-        - Before Proxy Read Timeout, send an arbitrary header to pass the 100s read timeout: https://github.com/cofacts/rumors-api/pull/362
-  - --> It is hard to find a video that needs to process for more than 100 seconds......
+    - Before Proxy Read Timeout, send an arbitrary header to pass the 100s read timeout: https://github.com/cofacts/rumors-api/pull/362
+        - Tested by sleeping in POST /graphql; request still get cut on 100s even after a header is flushed on 90th second
+  - It is hard to find a video that needs to process for more than 100 seconds......
     - Tried to use ffmpeg to stretch a video to 5 mins long (LINE upper limit). It's processed within 80 seconds.
 - nginx proxy
     - `proxy_read_timeout`: Default 60s; production already at 240s

@@ -8,7 +8,7 @@ image: https://raw.githubusercontent.com/g0v/style-guide/gh-pages/logo/png/g0v-l
 - [g0v 國會相關專案](/aa3ckptzS-CKinhmKCO7rA)
 - [開放國會行動方案](/S7ayQ2mcSs2nRpDjx451og)
 - [國會松注意事項](/QGEtEn83Toy8n_aui13EXA)
-- [活動報名連結<ㄖ>訂閱 g0v 國會松的電子報 🔔](https://g0vcongressthon.oen.tw/)
+- [活動報名連結 &<br>訂閱 g0v 國會松電子報 🔔](https://g0vcongressthon.oen.tw/)
 
 ## 最新活動 👇
 - [20250215 第捌次國會松](/USWwNSnpRxyjcygqig6Dbw)
@@ -23,7 +23,7 @@ image: https://raw.githubusercontent.com/g0v/style-guide/gh-pages/logo/png/g0v-l
 - [20240803 第貳次國會松](/Irh3HZr-Sty_kmxKci7XaA)
 - [20240706 第壹次國會松](/mmc5c7aETOq9_VL_N1BgvQ)
 - [20240601 第零次國會松](/saSDZK5zSJyWXP2GbZk07A)
-- [20171125 全球開放立法松](https://g0v.hackmd.io/s7qHh_0oRWegAAGzVNtJXQ)
+- [20171125 全球開放立法松](https://g0v.hackmd.io/s7qHh_0oRWegAAGzVNtJXQ?view)
 
 ## 歷次錄影
 - [歷次直播錄影紀錄](https://g0v.hackmd.io/@tmonk/r1DoqE75Jx)
