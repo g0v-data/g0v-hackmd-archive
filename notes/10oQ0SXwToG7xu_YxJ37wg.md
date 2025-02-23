@@ -113,23 +113,43 @@ http://dev.cofacts.tw/
 ##### ⛔️ Release Blockers
 
 ##### 未竟項目
+### :eye: Under review
+
+
 
 ## LLM Transcript update
 
-Errors can come from:
-- Cloudflare
-    - 
+Errors and mitigations
+
+- LINE bot
+    - node-fetch connection ends prematurely
+    - may be caused by Cloudflare, because no error comes from rumors-api
+    - causes infinite waiting on user side --> add error handing 
+- [Cloudflare](https://developers.cloudflare.com/fundamentals/reference/connection-limits/#between-cloudflare-and-origin-server)
+    - Proxy Read Timeout 100s
+    - Proxy Write Timeout 30s
+    - Not configurable in our account.
+    - Thus max process time through cloudflare endpoint is 100s + 30s (theoratically, not tsted):
+        - Before Proxy Read Timeout, send an arbitrary header to pass the 100s read timeout
+        - Once the header is sent, we have 30s more before hitting proxy write timeout
 - nginx proxy
     - `proxy_read_timeout`: Default 60s; production already at 240s
-        - Moved staging timeout from default to also 240s: 
-    - `proxy_send_timeout`: Defualt 60s; already bigger than Cloudflare's
-- rumors-api: ListArticles with transcript creation turned on
-    - 
+        - Causing [504 errors](https://developers.cloudflare.com/support/troubleshooting/cloudflare-errors/troubleshooting-cloudflare-5xx-errors/#502504-from-your-origin-web-server)
+        - Moved staging timeout from default to also 240s: https://github.com/cofacts/rumors-deploy/pull/33
+    - `proxy_send_timeout`: Defualt 60s; already bigger than Cloudflare's write timeout.
+- rumors-api: `ListArticles` with transcript creation turned on
+    - Weird error from Vertex AI SDK ![](https://g0v.hackmd.io/_uploads/SJyuoSd9ye.png)
 
-- 
+Other thoughts
+- Suggestions from Gemini: https://gemini.google.com/share/ebad8b428ac9
+    - Many of them are total rewrite of the transfer protocol
+- Bypass both nginx and LINE bot using docker-compose network
+    - On production, TW LINE bot & API is in the same docker-compose network
+    - On LINE bot may set `API_URL` to `http://api:5000/graphql` so that it connects directly through docker-compose
+        - `API_URL` is only used on NodeJS
+        - LIFF calls `/graphql` on LINE bot server, and LINE bot server connects to rumors-api via NodeJS as well (w/ schema stitching)
+  --> Changed `API_URL` config near 2025/02/23 15:40 on production, LIFF & bot continued working, logging confirmed that requests come from docker network ![](https://g0v.hackmd.io/_uploads/r1ed5V8_c1e.png)
 
-
-### :eye: Under review
 
 ## RightsCon & Satelite Events
 
@@ -182,6 +202,17 @@ Errors can come from:
 https://drive.google.com/drive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
 
 - [ ] CCC 的 Cofacts 遊戲
+    - [ ] 台灣花布 + 流水席用紅桌布
+    - [ ] 神明版乖乖 + 神桌背板 (A3)
+    - [ ] 電子詩籤+籤筒 (遊戲題目)
+    - [ ] 題目感測裝置 (魔法陣/USB)+RBG 燈條 (USB)
+    - [ ] 螢光燈條 (USB)
+    - [ ] 筆電
+    - [ ] 遊戲作答按鈕裝置 (ABCD/Yes,No)
+    - [ ] 延長線
+    - [ ] USB 豆腐頭
+    - [ ] 其他擺飾物 (台灣意象小物 : 春聯、小點心)
+    - [ ] 現場提供贊助Cofacts的帳戶或QRcode資訊 (不知道要放哪, 先列在這裡待會議討論。前情提要 : 在CCC有提供隨意Donate的箱子, 做為下次CCC擺攤的小額基金 )
 - [x] 局部上光 bil 名片
   - [x] 加中文「比鄰」小字
 - [x] 更新英文版網站 news
