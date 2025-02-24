@@ -13,7 +13,14 @@ Disclaimer: This guide does not constitute any commercial advertisement but is a
 :::
 
 :::info
-點餐的訣竅：台灣飲料店可以去
+點餐的訣竅：台灣飲料店可以客製化冰量與糖量。
+Ordering Tip: In Taiwanese beverage shops, you can customize the ice and sugar levels.
+from 0%-100%
+0% Ice / sugar: 去冰 Qu bing /無糖 wu tang
+30% Ice / sugar: 微冰 wei bing /微糖 wei tang
+50% sugar: 半糖 / ban tang
+75%  Ice / sugar: 少冰 shao bing /少糖 shao tang
+100% Ice / sugar: 全冰 Quan bing / 全糖 Quan tang
 :::
 
 ## 春水堂 Chun Shui Tang $$$
