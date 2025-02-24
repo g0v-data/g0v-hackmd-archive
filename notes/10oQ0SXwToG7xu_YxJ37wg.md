@@ -51,6 +51,85 @@ https://lin.ee/1QUzEX4nI
 ##### 未竟項目
 ### :eye: Under review
 
+## RightsCon & Satelite Events
+
+
+- 2/22 (Sat) 大松：https://g0v-jothon.kktix.cc/events/g0v-hackath65n 
+- ~~2/24 (一) Side-event 17:00~18:00 比鄰演講~~ 取消
+- 2/25 (二) 9:00~10:00 NDI Panel
+- 2/25 (二) 14:00 ~ 15:00 Cofacts 自己的 talk - ID # 23894 – “Crowd-sourced fact-checking in AI era - Lessons learned by Cofacts
+  - 地點：South Lobby of the 2nd floor
+  - 投影片：https://docs.google.com/presentation/d/1_FGSKvgP2jh9o_22FhKSuDWLI-cu4lY3u95PL5lVb9o/edit
+- 2/26 (三) **早上**擺攤
+- 2/26 (三) 12:45-13:45 大平台 ~~(Promote 攤位)~~
+- 2/27 (四) 11:30~12:30
+  - NiemanLab / Panel Discussion / Challenge around deepfake detection
+- 2/27 (四) 12:45~13:45 ID # 25017 - Global Giants, Local Influence: The Role of International Social Media in Shaping National Discourse
+  - 地點：201E
+
+### Sessions we may participate
+
+- ~~[2/23 (日) OCF sattlelite event](https://ooni-research.ocf.tw/docs/blog/2025/02/rightscon25-tor-tails-ooni/)~~
+  - 活動日期：2025/02/23
+  - 工作坊 14:00 – 17:30 如何使用 Tor 避開審查並匿名瀏覽
+  - 工作坊 18:00 – 19:00 如何使用 OONI 偵測與觀察網路審查狀況
+  - 演講座 19:30 – 21:00 Tor 在網路監控的世界中捍衛個人線上隱私權
+- ~~2/23 (日) 3pm-6pm[【工作坊】打造韌性網路：動手實作「不需海纜」的網路](https://airtable.com/appWd48vvxh0VJS1D/shrLERQDlmu6j3jMz)~~
+- 2/26 (三) DWeb panel 10:15~11:15 (Promote 攤位)
+- 2/24~2/27 OCF＆司改會一起擺攤
+    - 在餐廳外面
+
+### 2/26 (三) 09:00~13:00 擺攤
+
+人
+- Johnson & Bil
+- Stella & Yutin
+
+時間
+- 8:30 ~ 9:00 設攤
+- 9:00 ~ 13:00 擺攤
+- 13:00 前必須撤收完畢
+
+空間
+- 3F Networking Lounge https://www.rightscon.org/venue2025/#floor3 / https://www.ticc.com.tw/wSite/vr360/index.html
+    - 16 號 ![](https://g0v.hackmd.io/_uploads/Hyl4CBKF5kl.png)
+
+- ~~先在 1F Help Desk 報到，才知道在哪個 booth~~ 已報到
+- 180 cm x 60 cm 桌子＋2 張折疊椅 ![](https://g0v.hackmd.io/_uploads/BJ8SItF9yx.png)
+- 牆上不能貼東西
+- 不一定有電，延長線自備
+- 沒有推車與幫手，進場撤場都是手搬
+
+材料
+
+https://drive.google.com/drive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
+
+- [ ] CCC 的 Cofacts 遊戲 (結合台灣宮廟文化體驗+假資訊)
+    - [ ] 台灣花布 + 流水席用紅桌布
+    - [ ] 神明版乖乖 + 神桌背板 (A3)
+    - [ ] 電子詩籤+籤筒 (遊戲題目)
+    - [ ] 題目感測裝置 (魔法陣/USB)+RBG 燈條 (USB)
+    - [ ] 螢光燈條 (USB)
+    - [ ] 筆電
+    - [ ] 遊戲作答按鈕裝置 (ABCD/Yes,No)
+    - [ ] 延長線
+    - [ ] USB 豆腐頭
+    - [ ] 其他擺飾物 (台灣意象小物 : 春聯、小點心)
+    - [ ] 遊戲說明牌
+    - [ ] 貢獻箱- 現場提供贊助Cofacts的帳戶或QRcode資訊 (不知道要放哪, 先列在這裡待會議討論。前情提要 : 在CCC有提供Donate箱, 做為下次CCC擺攤的籌備基金及購買禮品 )
+- [x] 局部上光 bil 名片
+  - [x] 加中文「比鄰」小字
+- [x] 更新英文版網站 news
+- [x] 文宣更新與印刷
+  - [x] 英文（achoo）
+    - 250 張起跳 http://www.soho8d.com.tw/Form2/F102.aspx?csubid=73
+    - 要更新 QR code
+    - 背面有疊影，需處理掉四色黑
+  - [ ] 豆腐版
+  - 借放在 OCF 攤位 & 自己攤位上
+- [x] 宣傳用：Logo 貼紙（透明 or 長的）
+- [ ] 投影片放在多頁的透明資料夾
+
 ## LLM Transcript update
 
 Errors and mitigations
@@ -85,80 +164,4 @@ Other thoughts
         - LIFF calls `/graphql` on LINE bot server, and LINE bot server connects to rumors-api via NodeJS as well (w/ schema stitching)
   - --> ✅ Changed `API_URL` config near 2025/02/23 15:40 on production, LIFF & bot continued working, logging confirmed that requests come from docker network ![](https://g0v.hackmd.io/_uploads/r1ed5V8_c1e.png)
 
-
-## RightsCon & Satelite Events
-
-
-- 2/22 (Sat) 大松：https://g0v-jothon.kktix.cc/events/g0v-hackath65n 
-- ~~2/24 (一) Side-event 17:00~18:00 比鄰演講~~ 取消
-- 2/25 (二) 9:00~10:00 NDI Panel
-- 2/25 (二) 14:00 ~ 15:00 Cofacts 自己的 talk - ID # 23894 – “Crowd-sourced fact-checking in AI era - Lessons learned by Cofacts
-  - 地點：South Lobby of the 2nd floor
-  - 投影片：https://docs.google.com/presentation/d/1_FGSKvgP2jh9o_22FhKSuDWLI-cu4lY3u95PL5lVb9o/edit
-- 2/26 (三) **早上**擺攤
-- 2/26 (三) 12:45-13:45 大平台 ~~(Promote 攤位)~~
-- 2/27 (四) 11:30~12:30
-  - NiemanLab / Panel Discussion / Challenge around deepfake detection
-- 2/27 (四) 12:45~13:45 ID # 25017 - Global Giants, Local Influence: The Role of International Social Media in Shaping National Discourse
-  - 地點：201E
-
-### Sessions we may participate
-
-- [2/23 (日) OCF sattlelite event](https://ooni-research.ocf.tw/docs/blog/2025/02/rightscon25-tor-tails-ooni/)
-  - 活動日期：2025/02/23
-  - 工作坊 14:00 – 17:30 如何使用 Tor 避開審查並匿名瀏覽
-  - 工作坊 18:00 – 19:00 如何使用 OONI 偵測與觀察網路審查狀況
-  - 演講座 19:30 – 21:00 Tor 在網路監控的世界中捍衛個人線上隱私權
-- 2/23 (日) 3pm-6pm[【工作坊】打造韌性網路：動手實作「不需海纜」的網路](https://airtable.com/appWd48vvxh0VJS1D/shrLERQDlmu6j3jMz)
-- 2/26 (三) DWeb panel 10:15~11:15 (Promote 攤位)
-- 2/24~2/27 OCF＆司改會一起擺攤
-
-### 2/26 (三) 09:00~13:00 擺攤
-
-人
-- Johnson & Bil
-- Stella & Yutin
-
-時間
-- 8:30 ~ 9:00 設攤
-- 9:00 ~ 13:00 擺攤
-
-空間
-- 3F Networking Lounge https://www.rightscon.org/venue2025/#floor3 / https://www.ticc.com.tw/wSite/vr360/index.html
-- 先在 1F Help Desk 報到，才知道在哪個 booth
-- 180 cm x 60 cm 桌子
-- 2 張折疊椅
-- 牆上不能貼東西
-- 不一定有電，延長線自備
-- 沒有推車與幫手，進場撤場都是手搬
-
-材料
-
-https://drive.google.com/drive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
-
-- [ ] CCC 的 Cofacts 遊戲 (結合台灣宮廟文化體驗+假資訊)
-    - [ ] 台灣花布 + 流水席用紅桌布
-    - [ ] 神明版乖乖 + 神桌背板 (A3)
-    - [ ] 電子詩籤+籤筒 (遊戲題目)
-    - [ ] 題目感測裝置 (魔法陣/USB)+RBG 燈條 (USB)
-    - [ ] 螢光燈條 (USB)
-    - [ ] 筆電
-    - [ ] 遊戲作答按鈕裝置 (ABCD/Yes,No)
-    - [ ] 延長線
-    - [ ] USB 豆腐頭
-    - [ ] 其他擺飾物 (台灣意象小物 : 春聯、小點心)
-    - [ ] 遊戲說明牌
-    - [ ] 貢獻箱- 現場提供贊助Cofacts的帳戶或QRcode資訊 (不知道要放哪, 先列在這裡待會議討論。前情提要 : 在CCC有提供Donate箱, 做為下次CCC擺攤的籌備基金及購買禮品 )
-- [x] 局部上光 bil 名片
-  - [x] 加中文「比鄰」小字
-- [x] 更新英文版網站 news
-- [x] 文宣更新與印刷
-  - [x] 英文（achoo）
-    - 250 張起跳 http://www.soho8d.com.tw/Form2/F102.aspx?csubid=73
-    - 要更新 QR code
-    - 背面有疊影，需處理掉四色黑
-  - [ ] 豆腐版
-  - 借放在 OCF 攤位 & 自己攤位上
-- [x] 宣傳用：Logo 貼紙（透明 or 長的）
-- [ ] 投影片放在多頁的透明資料夾
 
