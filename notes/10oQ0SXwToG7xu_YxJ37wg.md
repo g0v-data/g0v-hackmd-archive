@@ -8,7 +8,8 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- 線上出席：Yutin, nonumpa, T
+- NPO Hub: bil, mrorz
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -42,8 +43,8 @@ Carried over from last week
 
 https://lin.ee/1QUzEX4nI
 
-- [ ] 應可送出「全新影音訊息」
-    - [ ] 同意送出訊息後就會送出訊息，並得到 AI reply
+- [x] 應可送出「全新影音訊息」
+    - [x] 同意送出訊息後就會送出訊息，並得到 AI reply
 
 
 ##### ⛔️ Release Blockers
