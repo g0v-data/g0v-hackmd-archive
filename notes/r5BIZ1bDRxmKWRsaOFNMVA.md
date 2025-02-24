@@ -12,6 +12,9 @@ Taiwan is famous also for the origin of boba tea, and since we have many differe
 Disclaimer: This guide does not constitute any commercial advertisement but is a compilation of personal purchasing and usage experiences shared by community participants.
 :::
 
+:::info
+點餐的訣竅：台灣飲料店可以去
+:::
 
 ## 春水堂 Chun Shui Tang $$$
 ![](https://g0v.hackmd.io/_uploads/rkmuS3F9yg.png)
