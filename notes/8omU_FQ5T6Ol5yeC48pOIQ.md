@@ -97,39 +97,12 @@ Xcopy "P:\21.MIS\01Backup\" "C:\01Backup\" /s /e /y /i /h /d
 執行CMD管理員：
 powershell Start-Process cmd -verb runas
 #### 812用戶端環境
-echo 刪除JAVA版本升級檢查：
-reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Run" /v "SunJavaUpdateSched" /f
-schtasks /delete /tn "Adobe Acrobat Update Task" /f
-schtasks /delete /tn "OneDrive Per-Machine Standalone Update Task" /f
-reg delete "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AdobeARMservice" /f
-
 chainlon Startup
 C:\Users\chainlon\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
-
-All Users Desktop
-C:\Users\Public\Desktop
-
-All Users Desktop/Windows AD
 
 @net use N: \\d6.chainlon.net\02Public\21.MIS\29ChainlonSoftware\misrun
 區網速度測試
 https://totusoft.com/files/LAN_SpeedTest.exe
-區網速度測試目標
-竹山
-\\192.168.3.46\04Test
-斗三
-\\192.168.9.46\04Test
-\\192.168.9.152\erp
-
-
-cd\
-"C:\Program Files\7-Zip\7z.exe" x C:\CY.zip -oc:\ -y
-del C:\CY.zip /q
-cd\01Backup\tools
-m1.bat
-
-Services for NFS
-mount -o anon \\NFS_IP\NFS_share
 
 ### 暫存
 

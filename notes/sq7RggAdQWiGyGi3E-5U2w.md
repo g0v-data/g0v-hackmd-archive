@@ -51,4 +51,16 @@ cat _dolls.jpg-0.extracted/base_images/_2_c.jpg.extracted/base_images/_3_c.jpg.e
 ```
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f1594ead64702721af3b9a9f1c605ec9.png)
 - ans:picoCTF{4cf7ac000c3fb0fa96fb92722ffb2a32}
+
+### Packets Primer
+Download the packet capture file and use packet analysis software to find the flag.
+```
+wget https://artifacts.picoctf.net/c/194/network-dump.flag.pcap
+```
+```
+cat network-dump.flag.pcap
+```
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_dd16a9a3749b5813c6f35edd0fc3fb34.png)
+- 開啟wireshark，在tcp處按follow
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_888bc560c0a755fc8570b4dc4285a1dd.png)
 ## hard
