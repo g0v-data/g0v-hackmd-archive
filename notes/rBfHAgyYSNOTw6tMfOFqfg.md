@@ -109,6 +109,7 @@ https://www.facebook.com/share/p/1B2BxKghWE/
 
 建築
 https://www.facebook.com/share/p/15Ly1kQpUJ/
+https://www.youtube.com/live/POK7WC1xsUA?si=C_daLXqL4voI8dXb
 
 應用情境舉例
 https://www.facebook.com/share/p/18fx6VtrPk/
