@@ -33,6 +33,101 @@
 |  | iframe (Inline Frame) | 插入其他網頁 | `<iframe src="page.html"></iframe>` |
 | **HTML5 新技術** | Semantic Elements | 更語意化的標籤 | `<article>文章內容</article>` `<section>區塊</section>` |
 |  | 圖片標註 (Figure) | 圖片帶有標題 | `<figure><img src="image.jpg"><figcaption>說明</figcaption></figure>` |
-|  | 圖片標註 (Figure) | 圖片帶有標題 | `<figure><img src="image.jpg"><figcaption>說明</figcaption></figure>` |
+|  | 萬國碼| 中文字浮 | <meta charset="UTF-8"> |
 
 
+<pre>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>個人檔案</title>
+    <style>
+        img {
+            border-radius: 10%;
+            width: 150px;
+            height: 150px;
+            /*object-fit: cover;*/
+        }
+
+    </style>
+
+    <!-- style>/*css*/
+        body {
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        main {
+            max-width: 600px;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #e0e0e0;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        figure {
+            margin-top: 20px;
+        }
+        img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+        }
+        figcaption {
+            font-style: italic;
+            color: #555;
+        }
+    </style-->
+</head>
+<body>
+    <header>
+        <figure>
+            <img src="cars.jpg" alt="個人照片">
+            <figcaption>profile pic</figcaption>
+        </figure>
+
+        <h1>Ella Tso</h1>
+    </header>
+    
+    <main>
+        <section>
+            <h3>Basic INFO</h3>
+            <ul>
+                <li><strong>職業：</strong> 學生</li>
+                <li><strong>興趣：</strong> 旅行、編程、閱讀</li>
+                <li><strong>聯絡方式：</strong> ella@email.com</li>
+            </ul>
+        </section>
+        
+        <article>
+            <a href="https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TEmriK8wSDcxYPQSz0stSy1SSM_Py0tUSM8sS1WozC9VKC0AAANTDVU&q=never+gonna+give+you+up&rlz=1C1YTUH_zh-TWTW1023TW1023&oq=never+&gs_lcrp=EgZjaHJvbWUqBwgCEC4YgAQyBggAEEUYOTIPCAEQABgKGIMBGLEDGIAEMgcIAhAuGIAEMgcIAxAAGIAEMgwIBBAuGEMYgAQYigUyBwgFEC4YgAQyBwgGEC4YgAQyBggHEAUYQNIBCDQ2NzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8">🔗ABOUT ME</a>
+
+            <p>click the link to learn more...</p>
+        </article>
+        
+        
+    </main>
+</body>
+</html>
+
+
+</pre>
