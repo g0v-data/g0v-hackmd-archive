@@ -107,6 +107,9 @@ https://www.facebook.com/groups/407071349350303?multi_permalinks=931498348522566
 產品經理思維
 https://www.facebook.com/share/p/1B2BxKghWE/
 
+建築
+https://www.facebook.com/share/p/15Ly1kQpUJ/
+
 應用情境舉例
 https://www.facebook.com/share/p/18fx6VtrPk/
 
