@@ -1,7 +1,7 @@
 ---
 tags: bubble tea
 ---
-# 台灣手搖杯指南 Guidance for buying boba tea in Taiwan 
+# 🧋台灣手搖杯指南 Guidance for buying boba tea in Taiwan 
 
 台灣以珍珠奶茶聞名，而且有大量不同的飲料店。以下是相關的珍珠奶茶品牌與店家介紹，讓你可以依據喜好挑選珍珠奶茶。
 
@@ -83,7 +83,7 @@ from 0%-100%
 - Ideal for those who want to explore unique combinations of fruit flavors and toppings!
 - 推薦品項：草莓提拉米蘇、芝芝葡萄
 - Recommended items: Strawberry Tiramisu, Sesame Grape Milk Cap Tea.
-## 迷客夏 Milk shop $$
+## 迷客夏 Milksha $$
 ![](https://g0v.hackmd.io/_uploads/Skwja2K51e.png)
 ![](https://g0v.hackmd.io/_uploads/B19ja2Yckx.jpg)
 - 正如其名，鮮奶茶品項相當豐富與突出，如果你是牛奶愛好者，請不要錯過。
@@ -100,7 +100,7 @@ from 0%-100%
 - 適合想要隨手來上一杯的人
 - Ideal for those who want a convenient grab-and-go drink.
 - 推薦品項：
-## 一沐日 ancient holiday $$
+## 一沐日 a nice holiday $$
 ![](https://g0v.hackmd.io/_uploads/SJ_zy6YqJg.jpg)
 ![](https://g0v.hackmd.io/_uploads/SJezlpFcJx.jpg)
 - 台中發跡，致力於將台灣傳統文化融入珍珠奶茶，富有台灣味的飲料店
@@ -109,7 +109,7 @@ from 0%-100%
 - Ideal for those who want to experience Taiwanese culture through their drinks.
 - 推薦品項：逮丸奶茶
 - Recommended item: Taiwan milktea
-## 得正 Dejeng
+## 得正 Dejeng Oolong Tea Project
 ![](https://g0v.hackmd.io/_uploads/rklW-xaKcJl.jpg)
 ![](https://g0v.hackmd.io/_uploads/By7bxaKcke.jpg)
 - 以烏龍茶品項著名的台中飲料店。
