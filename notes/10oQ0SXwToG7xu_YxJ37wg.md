@@ -106,9 +106,9 @@ https://lin.ee/1QUzEX4nI
 https://drive.google.com/drive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
 
 - [ ] CCC 的 Cofacts 遊戲 (結合台灣宮廟文化體驗+假資訊)
-    - [ ] 台灣花布 + 流水席用紅桌布
-    - [ ] 神明版乖乖 + 神桌背板 (A3)
-    - [ ] 電子詩籤+籤筒 (遊戲題目)
+    - [x] 台灣花布 + 流水席用紅桌布
+    - [x] 神明版乖乖 + 神桌背板 (A3)
+    - [x] 電子詩籤+籤筒 (遊戲題目)
     - [ ] 題目感測裝置 (魔法陣/USB)+RBG 燈條 (USB)
     - [ ] 螢光燈條 (USB)
     - [ ] 筆電
