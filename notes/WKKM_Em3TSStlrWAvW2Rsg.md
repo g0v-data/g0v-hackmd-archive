@@ -181,6 +181,10 @@ Network MTB Support
 
 如果確認是網路線的問題就是找這位喔"Michael Chiang 江 俊良"
 
+你交叉測試一下看看 其他台原本可以連的網路線 接上這台是不是也可以連
+1.如果可以連 就是原本的網路線問題->找Michael Chiang 江 俊良
+2.不能連就是 就是電腦問題->找Jason
+
 
 MIT933I-0058B no need to install S1 (already check with Kenny Yap)
  
