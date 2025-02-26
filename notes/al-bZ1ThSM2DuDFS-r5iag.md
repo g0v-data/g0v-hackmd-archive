@@ -53,6 +53,15 @@ https://photos.app.goo.gl/scmJhfHfdSCASH3C6
 玻璃帷幕旁種植喬木
 https://www.facebook.com/share/p/MtLm81r3D9SoQ5jP/
 
+建築物
+https://photos.app.goo.gl/7gX1i25DB92uzed27
+
+臺大學新館餐廳玻璃
+https://photos.app.goo.gl/ZvfiZ172Xwd2hp3U6
+
+和平實驗小學
+https://photos.app.goo.gl/ZfnwwzyXKfx7T5dU8
+
 臺北市大安區頂好廣場捷運地面出口的玻璃，有部分窗貼樣式
 
 待確認，捷運善導寺站地面出口
