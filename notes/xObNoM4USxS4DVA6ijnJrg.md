@@ -3,57 +3,9 @@
 
 民間習慣以爐渣稱呼，因為覺得這是廢棄物；但許多官方單位堅持使用爐碴，也許是法規上仍然有再利用的空間，但學甲爐渣事件基本上就是在說爐渣任意傾倒、掩埋的情況。整理了一下目前公開資訊可以得知的事實
 
-2008/4/29 - 廢棄物清理法修法可做工程填地材料，但僅限於非農業用地
-2011/2/6 - 廢棄物清理法修法生效，爐渣不可作為工程填地材料，只能用在機場、道路、人行道、貨櫃場或停車場之鋪面工程基底層級配粒料原料
-2011/3/30 - 明祥馨公司取得再利用身份
-2015/08/11 - [嘉義縣調查站鎖定學甲大灣段農地進行開挖調查](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=875)，確認掩埋大量爐渣，當時[明祥馨公司共收受 64 萬噸爐渣，蘋果日報記者估計獲利近 2 億餘新台幣](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=872)
-2015/08/16 - [農糧署封存 69 噸稻米](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=870)，因為可能混有事發農地收割的稻米，確保不會流入市面
-2015/9/21 - 台南市環保局廢止明祥馨公司再利用身分,[20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
-2015/10/2 - [台南市政府依據違反廢清法開罰 6000](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTU5L3JlbGZpbGUvMTc1MTUvNzcwOTMwMS84OTMwYzk1Yy0zYTBjLTQzMDctOWRhMi04ZjQ1MDdiNGFjZWMucGRm&n=5a2455Sy6L6y5Zyw5aGr5Z%2bL54iQ56K05qGIUV9BLnBkZg%3d%3d&icon=.pdf)
-2015/11/18 - [台南市政府依據區域計畫法開罰 15 萬元](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTU5L3JlbGZpbGUvMTc1MTUvNzcwOTMwMS84OTMwYzk1Yy0zYTBjLTQzMDctOWRhMi04ZjQ1MDdiNGFjZWMucGRm&n=5a2455Sy6L6y5Zyw5aGr5Z%2bL54iQ56K05qGIUV9BLnBkZg%3d%3d&icon=.pdf)
-2016/10 - 明祥馨公司完成該農地 55265.5 公噸的清運工作, [20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
-2017/1 - 明祥馨公司停止營運，堆置爐渣 13.5 萬公噸由立德鑫公司承接，承諾每年去化 2.2 萬公噸, , [20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
-2017/5 - 立德鑫公司順利取得再利用身分，承接明祥馨公司所有業務, [20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
-2019/4/1 - 李新進里長具名檢舉該農地仍埋有爐渣，台南環保局認定已經清運完成未予處理, [20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
-2020/8/20 - TVBS 記者預告毒渣現形記專題影片，公開指出拍攝過程在現場就被提醒需要注意安全，也輾轉接到「關切」新聞電話(*6)
-2020/8/22 - 毒渣現形記》調查報導正式上線(*7)， ptt 網友 AirJordan 爆料台南市長黃偉哲臉書粉絲頁持續刪除爐渣事件相關言論(*8)
-2020/8/25 - 台南環保局證實鄰接農地仍有爐渣約 3.3 萬噸，行文要求明祥馨公司在 180 工作天內完成清運工作(*5)
-2020/9/3 - 時代力量陳椒華立委初次針對事件召開記者會，指出全程興業廠房下方也違法埋有爐渣(*9)
-2020/9/7 - 台南市環保局依法對明祥馨公司加重裁罰 7 萬 2000 元(*10)
-2020/9/11 - 時代力量陳椒華立委陪同李新進里長再次召開記者會(*11)，揭露學甲興業段多筆工業區土地也埋有爐渣，但 2019/4 向台南市政府檢舉未獲得處理， 2019/11 檢察官與台南市環保局進行會勘時環保局誤導檢察官說「工業區的不要緊」
-2020/9/14 - 台南市議會組成學甲區爐碴掩埋案專案調查小組，第 1 次前往現場勘查(*12)
-2020/9/16 - 民眾黨蔡壁如立委陪同江明宗開記者會，依據公開資料揭露學甲爐渣事件背後的政商關係，指出台南市長黃偉哲、明祥馨負責人郭再欽與民進黨台南黨部主委潘新傳是緊密的利益共同體(*13)
-2020/9/26 - 時代力量陳椒華立委會同相關單位現勘開挖 3 處學甲工業區土地，相關單位以未獲得土地所有權人同意並未進行正式檢驗，現場透過台南社大以手持設備檢驗有重金屬超標情況(*14)
-2020/10/7 - 時代力量陳椒華立委出示工業局公文說明明祥馨公司再利用產品不得作為工程填地材料(*15) 「自2010年8月6日修法後6個月起，無論農業用地或工業用地，皆不得以電弧爐煉鋼爐碴(石)作為填地材料；明祥馨爐碴再利用用途未包含工程填地材料；再利用用途產品為級配粒料者，也不得作為工程填地材料使用。」
-2020/10/7 - 臺南市政府環境保護局回應 "工業用地可否使用爐碴產品  請看清楚工業局之法令"(*16)
-2020/10/8 - 民進黨洪申翰立委提出 廢清法修法！禁止掩埋爐碴 等主張(*17)
-2020/10/8 - 時代力量陳椒華立委回應臺南市政府環境保護局(*18)
-2020/10/28 - 時代力量陳椒華立委公布 9/26 開挖工業地送驗結果，五個樣本用王水消化法檢測重金屬全量，發現鉻高達 1540 ~ 6080 mg/kg，超過土壤管制標準6~24倍，也遠超過當天以XRF快檢得知的濃度，另有銅鎳鋅也超過管制標準和監測標準，而清理中的大灣段農地鉻也高達 4590 mg/k(*19)
-2020/11/05 - 國民黨林燕祝議員針對本案質詢，環保局回應，109年9月18日至學甲區大灣段1737等6筆地號土地開挖，挖出廢布、廢塑膠等一般廢棄物，亦於109年10月7日函送台南地檢署偵辦(*20)
-2020/11/18 - 業者表示已全數清理完成，將提出清理成果報請查驗。(*21)
-2020/11/26 - 無黨籍陳昆和議員表示，學甲區興業段377地號及興業段805地號於11/26進行地下水採樣，預計7-10天的檢驗分析時間(*23)
-2020/11/30 - 時代力量陳椒華立委對外表示學甲工業區場址開挖也發現了爐碴，興業段61、240地號。(*22)
-2020/12/18 - 環保局會同臺南市議會、環保署、市政府農業局及地政局等單位至現場查證，該農地所在里里長亦全程在現場(*24)
-2021/01/04 - 採集 12 樣品中有 1 個的鉻超出土壤污染監測標準(191mg/Kg)(*25)
-2021/01/15 - 進行S02網格複驗(*26)
-2021/01/26 - S02網格覆驗結果合格(*26)
-2021/02/09 - 環保局認定改善完成(*26)
-2021/07/02 - 興業段805地號、同段377地號監測井地下水質監測結果正常(*27)
-2021/08/11 - 李新進里長提供照片給立法委員 陳椒華，說明興業段380地號滲出水有異(*28)
-2021/08/30 - 學甲工業區國有地遭埋爐碴案開挖及地下水監測(*29)
-2021/08/30 - 台南環保局回應表示低於地下水污染監測標準(*30)
-2021/11/16 - 學甲國有地爐碴案驗出鉻含量超標，環保署廢管處科長黎揚輝說：「看起來它是爐碴，就是煉鋼爐碴的東西，目前明顯違規的是違反廢棄物清理法39條的規定。」(*31)
-2022/05/19 - 監察委員林國明提案糾正臺南市政府(*32)
-2022/12/12 - 學甲農地爐渣案業者不法獲利21億 郭再欽等8人遭起訴(*33)
-2022/12/19 - 台南市議會專案報告「學甲、後壁爐碴案」(*34)
-2024/02/23 - 台南學甲爐渣案 監委提案彈劾黃偉哲5比7未通過(*35)
-2024/09/06 - 學甲爐碴案迄今只清三分之一　國有地尚有二千多噸未清(*36)
-2024/11/09 - [台南學甲爐碴未清完 表面水呈強鹼](https://udn.com/news/story/7326/8348101)
+已知有下面幾個地點
 
-
-綜合了上面的資訊，可以得知有下面幾個地點
-
-1. 2015 事件場址，已經完成清運，學甲大灣段 1754,1764,1769 農地
+1. 2015 事件場址，已經完成清運，學甲大灣段 1754,1764,1769 農地，但並未確實清查，導致 2020 事件再次爆發
 2. 2020 事件場址，已經完成清運，學甲大灣段 1746,1747,1748 農地
 3. 工業用地，表層再生產品、地底疑似埋有爐渣，學甲興業段 61-1,61-2,61-3
     * 發生期間 2015-2016
@@ -72,7 +24,7 @@
     * 面積 5634.66 平方公尺
     * 填埋深度 5 公尺
     * 填埋數量 42,260 公噸
-    * 清運中
+    * 清運中(2025-01-31)
 6. 被佔用國有地，上方廠房、地底疑似埋有爐渣，學甲興業段 804-2 工業地
     * 發生期間 2011-2013
     * 面積 2534.01 平方公尺
@@ -84,9 +36,10 @@
     * 面積 23524.43 平方公尺
     * 填埋深度 5.6 公尺
     * 填埋數量 197,605.21 公噸
-    * 已責令清理義務人辦理後續處置事宜
+    * 環保局依法要求清理義務人清理，惟考量該案址廠房係依合法程序興建之紡織工廠，故本案依法於爐碴未完成清理前要求清理義務人先行進行環境監測，倘未來爐碴挖除具可行時，需
+立即進行爐碴清理作業。
 
-位置分佈可以參考我製作的地圖 - https://tinyurl.com/y4jybbwq
+[位置分佈可以參考我製作的地圖](https://www.google.com/maps/d/u/0/viewer?mid=1wgCrhBhd5WkwM4lED2jYFbdLtjwWFeif)
 
 地圖上還可以看到動保園區預定地，目前只是剛完成遷葬的舊公墓土地，跟爐渣事件的關聯都還只是臆測，並未真的跟此次事件有具體連結；不過近期在地居民抗爭時副市長已經出面承諾會進行更多場址評估，但市長卻在這之後希望在地居民先允許施工，未來依據共識再決定是否收容流浪狗，這樣的轉換過程造成在地居民的不信任，加深跟爐渣事件連結的質疑與臆測。
 
@@ -94,53 +47,56 @@
 
 這些事件的源頭就是相關法規對於違法棄置的裁罰過於寬鬆，導致從製造到末端的處理都選擇便宜行事，許多再利用廠商早已熟悉法規漏洞成立人頭公司作為防火牆，目前卻仍看不到法規方面有好的進展。學甲爐渣事件雖然沒有直接造成作物污染的證據，但從李新進里長因為種植玉米發育不良進而發現埋有爐渣的過程，我們清楚感受到環保單位現行的 TCLP 檢驗方法離我們對食品安全的期待有很大落差；加上鄰近事件場址的將軍溪一直有底泥重金屬過高的問題，我擔心還有許多未爆彈存在。
 
-相關連結：
-1. [台南農地遭回填爐渣　環署急查](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=875)
-2. [爐渣農地重金屬超標　學者籲全面檢驗](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=872)
-3. [緊急查封69噸 爐渣米幸未上市](https://tw.appledaily.com/headline/20150816/RCMQ6B4ELPPW66QLSXMPKDIVEM/)
-4. [台南市環保局Q&A](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTU5L3JlbGZpbGUvMTc1MTUvNzcwOTMwMS84OTMwYzk1Yy0zYTBjLTQzMDctOWRhMi04ZjQ1MDdiNGFjZWMucGRm&n=5a2455Sy6L6y5Zyw5aGr5Z%2bL54iQ56K05qGIUV9BLnBkZg%3d%3d&icon=.pdf)
-5. 20190618 學甲區公所 函, 發文字號 所民字第1080424918號
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
-6. [TVBS 毒渣現形記專題預告](https://www.facebook.com/1287274464/videos/10217654562977676/)
-7. [《毒渣現形記》調查報導！直擊大廠假再利用真濫倒 看不見的台灣](https://www.youtube.com/watch?v=Mw6dp-TJABY)
-8. [[爆卦] 黃偉哲臉書回應避重就輕 絕口不提郭再欽](https://disp.cc/ptt/Gossiping/1VGGd52E)
-9. [立法委員 陳椒華 學甲爐碴，環保吃案 記者會](https://www.facebook.com/ironprofessorchan/posts/210880567047300)
-10. [學甲農地填埋爐碴案管控積極清理](https://web.tainan.gov.tw/epb/News_Content.aspx?n=15914&s=7709494)
-11. [立法委員 陳椒華 學甲貸款買地埋爐渣 無本生意賺很大 記者會](https://www.facebook.com/ironprofessorchan/posts/212947383507285)
-12. [建設委員會勘查「『學甲區爐碴掩埋案專案調查小組』第1次會」](https://www.tncc.gov.tw/page.asp?mainid=9E95AD50-0A05-438A-BE22-F85A6092C8FD)
-13. [立法委員 蔡壁如 垃圾不分藍綠？事業廢棄物危害食安！ 記者會](https://www.facebook.com/k.olc.tw/posts/1627420537431403)
-14. [立法委員 陳椒華 台南學甲爐碴案　9/26現勘及回應郭再欽聲明](https://www.facebook.com/ironprofessorchan/posts/217236973078326)
-15. [立法委員 陳椒華 學甲爐碴案　黃偉哲市長 你錯了！ 記者會](https://www.facebook.com/notes/%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1-%E9%99%B3%E6%A4%92%E8%8F%AF/%E5%AD%B8%E7%94%B2%E7%88%90%E7%A2%B4%E6%A1%88-%E9%BB%83%E5%81%89%E5%93%B2%E5%B8%82%E9%95%B7-%E4%BD%A0%E9%8C%AF%E4%BA%86/10217753444975216/)
-16. [工業用地可否使用爐碴產品  請看清楚工業局之法令](https://web.tainan.gov.tw/epb/News_Content.aspx?n=15914&s=7715760) , [備份](/RMdbmvPwSEmf9q7DoXmJfw)
-17. [立法委員 洪申翰 廢清法修法！禁止掩埋爐碴](https://www.facebook.com/hungsunhan/posts/227053042119333)
-18. [立法委員 陳椒華 回應台南市環保局「工業用地可否使用爐碴產品 請看清楚工業局之法令」](https://www.facebook.com/notes/%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1-%E9%99%B3%E6%A4%92%E8%8F%AF/%E5%9B%9E%E6%87%89%E5%8F%B0%E5%8D%97%E5%B8%82%E7%92%B0%E4%BF%9D%E5%B1%80%E5%B7%A5%E6%A5%AD%E7%94%A8%E5%9C%B0%E5%8F%AF%E5%90%A6%E4%BD%BF%E7%94%A8%E7%88%90%E7%A2%B4%E7%94%A2%E5%93%81-%E8%AB%8B%E7%9C%8B%E6%B8%85%E6%A5%9A%E5%B7%A5%E6%A5%AD%E5%B1%80%E4%B9%8B%E6%B3%95%E4%BB%A4/10217760144542701/)
-19. [立法委員 陳椒華 再追台南學甲爐碴案](https://www.facebook.com/ironprofessorchan/posts/225039518964738)
-20. [南市府回應市議員林燕祝關心校外補習班性侵案之處理、輔導及防止，長照服務特約簽訂單位及老人養護機構輔導稽查事宜、後壁區天九案及學甲區爐碴案件之處理等議題](https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=7726486)
-21. 臺南市政府環境保護局現勘學甲農地清運進度 1091118
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8143dfcdee824299f24f69d5b974acae.png)
-22. [重大發現！學甲工業區，今天開挖發現爐碴！](https://www.facebook.com/ironprofessorchan/posts/239466480855375)
-23. [學甲區興業段377地號及興業段805地號於11/26進行地下水採樣](https://www.facebook.com/permalink.php?story_fbid=240406297424772&id=114425630022840)
-24. [學甲農地爐碴案   環保局進場公開查證](https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=7734921)
-25. 臺南市學甲區大灣段 1746~1748、1765 地號查驗成果報告
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_eaffdb31306ff3d130ca70e0c534ff50.png)
-26. 農地驗證改善完成流程圖
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_335c8911d08ccb79a32f3fd564f8590d.png)
-27. 地下水重金屬監測結果
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0fb6108844c30abbac173f10f74f9558.png)
-28. [興業段380地號滲出水有異](https://www.facebook.com/ironprofessorchan/posts/401078241360864)
-29. [學甲工業區國有地遭埋爐碴案開挖及地下水監測](https://www.facebook.com/ironprofessorchan/posts/412063756928979)
-30. [環保局回應：陳椒華立委於110年8月30日至「學甲國有地（興業段804-2）遭埋爐碴案現勘一事](https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=7795841)
-31. [學甲國有地爐碴案驗出鉻含量超標 當地里長促市府開罰、清除](https://news.pts.org.tw/article/554199)
-32. [臺南市政府自100年4月1日核發明祥馨企業股份有限公司再利用機構許可後，怠於稽查監督其合法運作，致該市學甲區土地遭填埋大量爐碴，甚至於108年接獲陳情檢舉，竟誤認為104年間案件，肇至裁處權罹於時效，監察委員林國明提案糾正臺南市政府](https://www.cy.gov.tw/News_Content.aspx?n=125&sms=8912&s=23696)
-33. [學甲農地爐渣案業者不法獲利21億 郭再欽等8人遭起訴](https://www.tnc.moj.gov.tw/media/305099/%E9%83%ADoo%E9%81%95%E5%8F%8D%E5%BB%A2%E6%A3%84%E6%B8%85%E6%B3%95%E7%AD%89%E7%BD%AA%E5%AB%8C%E6%8F%90%E8%B5%B7%E5%85%AC%E8%A8%B4%E6%96%B0%E8%81%9E%E7%A8%BF.pdf?mediaDL=true)
-34. [20221219專案報告「學甲、後壁爐碴案」](https://www.youtube.com/watch?v=EXPoOGvw7HI)
-35. [台南學甲爐渣案 監委提案彈劾黃偉哲5比7未通過](https://www.cna.com.tw/news/aipl/202402230121.aspx)
-36. [學甲爐碴案迄今只清三分之一　國有地尚有二千多噸未清](https://www.facebook.com/story.php?story_fbid=122176307390188150&id=61555644527991)
+時間表
+2008/4/29 - 廢棄物清理法修法可做工程填地材料，但僅限於非農業用地
+2011/2/6 - 廢棄物清理法修法生效，爐渣不可作為工程填地材料，只能用在機場、道路、人行道、貨櫃場或停車場之鋪面工程基底層級配粒料原料
+2011/3/30 - 明祥馨公司取得再利用身份
+2015/08/11 - [嘉義縣調查站鎖定學甲大灣段農地進行開挖調查](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=875)，確認掩埋大量爐渣，當時[明祥馨公司共收受 64 萬噸爐渣，蘋果日報記者估計獲利近 2 億餘新台幣](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=872)
+2015/08/16 - [農糧署封存 69 噸稻米](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=870)，因為可能混有事發農地收割的稻米，確保不會流入市面
+2015/9/21 - 台南市環保局廢止明祥馨公司再利用身分,[20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
+2015/10/2 - [台南市政府依據違反廢清法開罰 6000](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTU5L3JlbGZpbGUvMTc1MTUvNzcwOTMwMS84OTMwYzk1Yy0zYTBjLTQzMDctOWRhMi04ZjQ1MDdiNGFjZWMucGRm&n=5a2455Sy6L6y5Zyw5aGr5Z%2bL54iQ56K05qGIUV9BLnBkZg%3d%3d&icon=.pdf)
+2015/11/18 - [台南市政府依據區域計畫法開罰 15 萬元](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTU5L3JlbGZpbGUvMTc1MTUvNzcwOTMwMS84OTMwYzk1Yy0zYTBjLTQzMDctOWRhMi04ZjQ1MDdiNGFjZWMucGRm&n=5a2455Sy6L6y5Zyw5aGr5Z%2bL54iQ56K05qGIUV9BLnBkZg%3d%3d&icon=.pdf)
+2016/10 - 明祥馨公司完成該農地 55265.5 公噸的清運工作, [20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
+2017/1 - 明祥馨公司停止營運，堆置爐渣 13.5 萬公噸由立德鑫公司承接，承諾每年去化 2.2 萬公噸, , [20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
+2017/5 - 立德鑫公司順利取得再利用身分，承接明祥馨公司所有業務, [20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
+2019/4/1 - 李新進里長具名檢舉該農地仍埋有爐渣，台南環保局認定已經清運完成未予處理, [20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
+2020/8/20 - [TVBS 記者預告毒渣現形記專題影片](https://www.facebook.com/1287274464/videos/10217654562977676/)，公開指出拍攝過程在現場就被提醒需要注意安全，也輾轉接到「關切」新聞電話
+2020/8/22 - [毒渣現形記》調查報導正式上線](https://www.youtube.com/watch?v=Mw6dp-TJABY)， ptt 網友 AirJordan 爆料[台南市長黃偉哲臉書粉絲頁持續刪除爐渣事件相關言論](https://disp.cc/ptt/Gossiping/1VGGd52E)
+2020/8/25 - 台南環保局證實鄰接農地仍有爐渣約 3.3 萬噸，行文要求明祥馨公司在 180 工作天內完成清運工作, [20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
+2020/9/3 - [時代力量陳椒華立委初次針對事件召開記者會，指出全程興業廠房下方也違法埋有爐渣](https://www.facebook.com/ironprofessorchan/posts/210880567047300)
+2020/9/7 - [台南市環保局依法對明祥馨公司加重裁罰 7 萬 2000 元](https://web.tainan.gov.tw/epb/News_Content.aspx?n=15914&s=7709494)
+2020/9/11 - [時代力量陳椒華立委陪同李新進里長再次召開記者會](https://www.facebook.com/ironprofessorchan/posts/212947383507285)，揭露學甲興業段多筆工業區土地也埋有爐渣，但 2019/4 向台南市政府檢舉未獲得處理， 2019/11 檢察官與台南市環保局進行會勘時環保局誤導檢察官說「工業區的不要緊」
+2020/9/14 - [台南市議會組成學甲區爐碴掩埋案專案調查小組，第 1 次前往現場勘查](https://www.tncc.gov.tw/page.asp?mainid=9E95AD50-0A05-438A-BE22-F85A6092C8FD)
+2020/9/16 - [民眾黨蔡壁如立委陪同江明宗開記者會，依據公開資料揭露學甲爐渣事件背後的政商關係，指出台南市長黃偉哲、明祥馨負責人郭再欽與民進黨台南黨部主委潘新傳是緊密的利益共同體](https://www.facebook.com/k.olc.tw/posts/1627420537431403)
+2020/9/26 - [時代力量陳椒華立委會同相關單位現勘開挖 3 處學甲工業區土地，相關單位以未獲得土地所有權人同意並未進行正式檢驗，現場透過台南社大以手持設備檢驗有重金屬超標情況](https://www.facebook.com/ironprofessorchan/posts/217236973078326)
+2020/10/7 - [時代力量陳椒華立委出示工業局公文說明明祥馨公司再利用產品不得作為工程填地材料](https://www.facebook.com/notes/%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1-%E9%99%B3%E6%A4%92%E8%8F%AF/%E5%AD%B8%E7%94%B2%E7%88%90%E7%A2%B4%E6%A1%88-%E9%BB%83%E5%81%89%E5%93%B2%E5%B8%82%E9%95%B7-%E4%BD%A0%E9%8C%AF%E4%BA%86/10217753444975216/) 「自2010年8月6日修法後6個月起，無論農業用地或工業用地，皆不得以電弧爐煉鋼爐碴(石)作為填地材料；明祥馨爐碴再利用用途未包含工程填地材料；再利用用途產品為級配粒料者，也不得作為工程填地材料使用。」
+2020/10/7 - [臺南市政府環境保護局回應 "工業用地可否使用爐碴產品  請看清楚工業局之法令"](https://web.tainan.gov.tw/epb/News_Content.aspx?n=15914&s=7715760), [備份](/RMdbmvPwSEmf9q7DoXmJfw)
+2020/10/8 - [民進黨洪申翰立委提出 廢清法修法！禁止掩埋爐碴 等主張](https://www.facebook.com/hungsunhan/posts/227053042119333)
+2020/10/8 - [時代力量陳椒華立委回應臺南市政府環境保護局](https://www.facebook.com/notes/%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1-%E9%99%B3%E6%A4%92%E8%8F%AF/%E5%9B%9E%E6%87%89%E5%8F%B0%E5%8D%97%E5%B8%82%E7%92%B0%E4%BF%9D%E5%B1%80%E5%B7%A5%E6%A5%AD%E7%94%A8%E5%9C%B0%E5%8F%AF%E5%90%A6%E4%BD%BF%E7%94%A8%E7%88%90%E7%A2%B4%E7%94%A2%E5%93%81-%E8%AB%8B%E7%9C%8B%E6%B8%85%E6%A5%9A%E5%B7%A5%E6%A5%AD%E5%B1%80%E4%B9%8B%E6%B3%95%E4%BB%A4/10217760144542701/)
+2020/10/28 - [時代力量陳椒華立委公布 9/26 開挖工業地送驗結果](https://www.facebook.com/ironprofessorchan/posts/225039518964738)，五個樣本用王水消化法檢測重金屬全量，發現鉻高達 1540 ~ 6080 mg/kg，超過土壤管制標準6~24倍，也遠超過當天以XRF快檢得知的濃度，另有銅鎳鋅也超過管制標準和監測標準，而清理中的大灣段農地鉻也高達 4590 mg/k
+2020/11/05 - 國民黨林燕祝議員針對本案質詢，[環保局回應，109年9月18日至學甲區大灣段1737等6筆地號土地開挖，挖出廢布、廢塑膠等一般廢棄物，亦於109年10月7日函送台南地檢署偵辦](https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=7726486)
+2020/11/18 - [業者表示已全數清理完成，將提出清理成果報請查驗。](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8143dfcdee824299f24f69d5b974acae.png)
+2020/11/26 - 無黨籍陳昆和議員表示，[學甲區興業段377地號及興業段805地號於11/26進行地下水採樣](https://www.facebook.com/permalink.php?story_fbid=240406297424772&id=114425630022840)，預計7-10天的檢驗分析時間
+2020/11/30 - [時代力量陳椒華立委對外表示學甲工業區場址開挖也發現了爐碴](https://www.facebook.com/ironprofessorchan/posts/239466480855375)，興業段61、240地號。
+2020/12/18 - [環保局會同臺南市議會、環保署、市政府農業局及地政局等單位至現場查證，該農地所在里里長亦全程在現場](https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=7734921)
+2021/01/04 - [採集 12 樣品中有 1 個的鉻超出土壤污染監測標準(191mg/Kg)](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_eaffdb31306ff3d130ca70e0c534ff50.png)
+2021/01/15 - 進行S02網格複驗
+2021/01/26 - S02網格覆驗結果合格
+2021/02/09 - [環保局認定改善完成](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_335c8911d08ccb79a32f3fd564f8590d.png)
+2021/07/02 - [興業段805地號、同段377地號監測井地下水質監測結果正常](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0fb6108844c30abbac173f10f74f9558.png)
+2021/08/11 - [李新進里長提供照片給立法委員 陳椒華，說明興業段380地號滲出水有異](https://www.facebook.com/ironprofessorchan/posts/401078241360864)
+2021/08/30 - [學甲工業區國有地遭埋爐碴案開挖及地下水監測](https://www.facebook.com/ironprofessorchan/posts/412063756928979)
+2021/08/30 - [台南環保局回應表示低於地下水污染監測標準](https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=7795841)
+2021/11/16 - [學甲國有地爐碴案驗出鉻含量超標](https://news.pts.org.tw/article/554199)，環保署廢管處科長黎揚輝說：「看起來它是爐碴，就是煉鋼爐碴的東西，目前明顯違規的是違反廢棄物清理法39條的規定。」(*31)
+2022/05/19 - [監察委員林國明提案糾正臺南市政府](https://www.cy.gov.tw/News_Content.aspx?n=125&sms=8912&s=23696)
+2022/12/12 - [學甲農地爐渣案業者不法獲利21億 郭再欽等8人遭起訴](https://www.tnc.moj.gov.tw/media/305099/%E9%83%ADoo%E9%81%95%E5%8F%8D%E5%BB%A2%E6%A3%84%E6%B8%85%E6%B3%95%E7%AD%89%E7%BD%AA%E5%AB%8C%E6%8F%90%E8%B5%B7%E5%85%AC%E8%A8%B4%E6%96%B0%E8%81%9E%E7%A8%BF.pdf?mediaDL=true)
+2022/12/19 - [台南市議會專案報告「學甲、後壁爐碴案」](https://www.youtube.com/watch?v=EXPoOGvw7HI)
+2024/02/23 - [台南學甲爐渣案 監委提案彈劾黃偉哲5比7未通過](https://www.cna.com.tw/news/aipl/202402230121.aspx)
+2024/09/06 - [學甲爐碴案迄今只清三分之一　國有地尚有二千多噸未清](https://www.facebook.com/story.php?story_fbid=122176307390188150&id=61555644527991)
+2024/11/09 - [台南學甲爐碴未清完 表面水呈強鹼](https://udn.com/news/story/7326/8348101)
+2025/02/13 - [環境部 部長彭啓明與台南市政府環境保護局 局長 許仁澤 podcast 討論](https://www.moenv.gov.tw/page/C4405EE8E0558CFC/f5ddd3f8-1725-4d36-9d52-19aa86dfe668)
 
-
-
----
-
+其他參考資料
 20190624 李新進里長陳情書
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_b5a497080f0d1fcc34775cc01a30799c.jpeg)
 
