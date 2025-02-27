@@ -6,15 +6,15 @@
 2008/4/29 - 廢棄物清理法修法可做工程填地材料，但僅限於非農業用地
 2011/2/6 - 廢棄物清理法修法生效，爐渣不可作為工程填地材料，只能用在機場、道路、人行道、貨櫃場或停車場之鋪面工程基底層級配粒料原料
 2011/3/30 - 明祥馨公司取得再利用身份
-2015/08/11 - 嘉義縣調查站鎖定學甲大灣段農地進行開挖調查(*1)，確認掩埋大量爐渣，當時明祥馨公司共收受 64 萬噸爐渣，蘋果日報記者估計獲利近 2 億餘新台幣(*2)
-2015/08/16 - 農糧署封存 69 噸稻米(*3)，因為可能混有事發農地收割的稻米，確保不會流入市面
-2015/9/21 - 台南市環保局廢止明祥馨公司再利用身分(*5)
-2015/10/2 - 台南市政府依據違反廢清法開罰 6000 (*4)
-2015/11/18 - 台南市政府依據區域計畫法開罰 15 萬元(*4)
-2016/10 - 明祥馨公司完成該農地 55265.5 公噸的清運工作(*5)
-2017/1 - 明祥馨公司停止營運，堆置爐渣 13.5 萬公噸由立德鑫公司承接，承諾每年去化 2.2 萬公噸(*5)
-2017/5 - 立德鑫公司順利取得再利用身分，承接明祥馨公司所有業務(*5)
-2019/4/1 - 李新進里長具名檢舉該農地仍埋有爐渣，台南環保局認定已經清運完成未予處理(*5)
+2015/08/11 - [嘉義縣調查站鎖定學甲大灣段農地進行開挖調查](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=875)，確認掩埋大量爐渣，當時[明祥馨公司共收受 64 萬噸爐渣，蘋果日報記者估計獲利近 2 億餘新台幣](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=872)
+2015/08/16 - [農糧署封存 69 噸稻米](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=870)，因為可能混有事發農地收割的稻米，確保不會流入市面
+2015/9/21 - 台南市環保局廢止明祥馨公司再利用身分,[20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
+2015/10/2 - [台南市政府依據違反廢清法開罰 6000](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTU5L3JlbGZpbGUvMTc1MTUvNzcwOTMwMS84OTMwYzk1Yy0zYTBjLTQzMDctOWRhMi04ZjQ1MDdiNGFjZWMucGRm&n=5a2455Sy6L6y5Zyw5aGr5Z%2bL54iQ56K05qGIUV9BLnBkZg%3d%3d&icon=.pdf)
+2015/11/18 - [台南市政府依據區域計畫法開罰 15 萬元](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTU5L3JlbGZpbGUvMTc1MTUvNzcwOTMwMS84OTMwYzk1Yy0zYTBjLTQzMDctOWRhMi04ZjQ1MDdiNGFjZWMucGRm&n=5a2455Sy6L6y5Zyw5aGr5Z%2bL54iQ56K05qGIUV9BLnBkZg%3d%3d&icon=.pdf)
+2016/10 - 明祥馨公司完成該農地 55265.5 公噸的清運工作, [20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
+2017/1 - 明祥馨公司停止營運，堆置爐渣 13.5 萬公噸由立德鑫公司承接，承諾每年去化 2.2 萬公噸, , [20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
+2017/5 - 立德鑫公司順利取得再利用身分，承接明祥馨公司所有業務, [20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
+2019/4/1 - 李新進里長具名檢舉該農地仍埋有爐渣，台南環保局認定已經清運完成未予處理, [20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
 2020/8/20 - TVBS 記者預告毒渣現形記專題影片，公開指出拍攝過程在現場就被提醒需要注意安全，也輾轉接到「關切」新聞電話(*6)
 2020/8/22 - 毒渣現形記》調查報導正式上線(*7)， ptt 網友 AirJordan 爆料台南市長黃偉哲臉書粉絲頁持續刪除爐渣事件相關言論(*8)
 2020/8/25 - 台南環保局證實鄰接農地仍有爐渣約 3.3 萬噸，行文要求明祥馨公司在 180 工作天內完成清運工作(*5)
@@ -48,6 +48,7 @@
 2022/12/19 - 台南市議會專案報告「學甲、後壁爐碴案」(*34)
 2024/02/23 - 台南學甲爐渣案 監委提案彈劾黃偉哲5比7未通過(*35)
 2024/09/06 - 學甲爐碴案迄今只清三分之一　國有地尚有二千多噸未清(*36)
+2024/11/09 - [台南學甲爐碴未清完 表面水呈強鹼](https://udn.com/news/story/7326/8348101)
 
 
 綜合了上面的資訊，可以得知有下面幾個地點
