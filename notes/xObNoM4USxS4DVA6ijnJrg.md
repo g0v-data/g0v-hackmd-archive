@@ -94,7 +94,7 @@
 2024/02/23 - [台南學甲爐渣案 監委提案彈劾黃偉哲5比7未通過](https://www.cna.com.tw/news/aipl/202402230121.aspx)
 2024/09/06 - [學甲爐碴案迄今只清三分之一　國有地尚有二千多噸未清](https://www.facebook.com/story.php?story_fbid=122176307390188150&id=61555644527991)
 2024/11/09 - [台南學甲爐碴未清完 表面水呈強鹼](https://udn.com/news/story/7326/8348101)
-2025/02/13 - [環境部 部長彭啓明與台南市政府環境保護局 局長 許仁澤 podcast 討論](https://www.moenv.gov.tw/page/C4405EE8E0558CFC/f5ddd3f8-1725-4d36-9d52-19aa86dfe668)
+2025/02/13 - [環境部 部長彭啓明與台南市政府環境保護局 局長 許仁澤 podcast 討論](https://www.moenv.gov.tw/page/C4405EE8E0558CFC/f5ddd3f8-1725-4d36-9d52-19aa86dfe668), [逐字](https://hackmd.io/@kiang/HJF5-wT5Je)
 
 其他參考資料
 20190624 李新進里長陳情書
