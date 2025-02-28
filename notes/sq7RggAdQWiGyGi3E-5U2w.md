@@ -38,6 +38,34 @@ strings garden.jpg | grep CTF
 ![](https://g0v.hackmd.io/_uploads/BJK59d_cJe.png)
 
 - ans:picoCTF{f1u3n7_1n_pn9_&_pdf_53b741d6}
+
+### Verify
+- 先查看有什麼檔案
+![](https://g0v.hackmd.io/_uploads/Skgr4KZJjJg.png)
+- 看一下checksum.txt，發現是一串像是經過sha256後的密文
+![](https://g0v.hackmd.io/_uploads/Sy0IFb1iyx.png)
+```
+5848768e56185707f76c1d74f34f4e03fb0573ecc1ca7b11238007226654bcda
+```
+- 依照提示`./decrypt.sh files/<file>`，告知我們要去files資料夾裡使用ls -R，發現很多檔案
+
+![](https://g0v.hackmd.io/_uploads/HkgnCYb1i1g.png)
+
+![](https://g0v.hackmd.io/_uploads/BJ1ZqZkjJl.png)
+
+- 應該是有某個檔案名稱sha256後，會是上面的密文
+- 透過指令找出該檔案
+![](https://g0v.hackmd.io/_uploads/B1eLIcbJjyl.png)
+```
+sha256sum files/* |grep 5848768e56185707f76c1d74f34f4e03fb0573ecc1ca7b11238007226654bcda
+```
+- 利用decrypt.sh進行解密
+```
+./decrypt.sh files/8eee7195
+```
+ans: picoCTF{trust_but_verify_8eee7195}
+    
+
 ## medium
 ### Matryoshka doll
 Matryoshka dolls are a set of wooden dolls of decreasing size placed one inside another. What's the final one? Image: this
