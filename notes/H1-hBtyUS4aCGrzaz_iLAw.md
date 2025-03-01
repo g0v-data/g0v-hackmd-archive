@@ -22,12 +22,16 @@ First mentioned in g0v Hackath60n
 
 ## 活動集結串
 
+### SITCON 2025 社群攤位
+
+
+
 ### 開放學生自治社群同樂會 - 當開源協作進入學生自治
 
-- Co-host: GDSC NDHU, GDSC NTNU
+- Host: GDSC NDHU
 - 2024/4/26 @ NPO Hub Taipei + Hybird
 - Organizer: [@yc97463](https://t.me/yc97463)
-- https://gdsc.community.dev/e/m4239z/
+- https://gdsc.community.dev/e/m4239z/ （已失效）
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a802c6cc15895bc2aeaf30e10cb61621.jpg)
 

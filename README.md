@@ -2,7 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 34541 | 2025-03-01T02:55:56+00:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 34542 | 2025-03-01T03:55:20+00:00 |
+| [open-student-org sogac-tw](tags/open-student-org%20sogac-tw.md) | 1 | 2025-03-01T03:52:21+00:00 |
 | [GIS](tags/GIS.md) | 157 | 2025-02-26T14:56:25+00:00 |
 | [vtaiwan](tags/vtaiwan.md) | 83 | 2025-02-26T11:50:48+00:00 |
 | [vTaiwan](tags/vTaiwan.md) | 111 | 2025-02-26T04:56:52+00:00 |
@@ -258,7 +259,6 @@
 | [whisper](tags/whisper.md) | 1 | 2024-04-20T11:09:05+00:00 |
 | [逐字稿](tags/%E9%80%90%E5%AD%97%E7%A8%BF.md) | 7 | 2024-04-20T11:09:05+00:00 |
 | [NTU](tags/NTU.md) | 1 | 2024-04-19T15:56:11+00:00 |
-| [open-student-org sogac-tw](tags/open-student-org%20sogac-tw.md) | 1 | 2024-04-16T02:07:28+00:00 |
 | [Hello](tags/Hello.md) | 1 | 2024-04-13T04:55:03+00:00 |
 | [Interview](tags/Interview.md) | 1 | 2024-04-10T09:20:55+00:00 |
 | [planning](tags/planning.md) | 44 | 2024-04-09T13:00:52+00:00 |
