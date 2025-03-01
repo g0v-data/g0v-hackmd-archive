@@ -25,7 +25,8 @@ First mentioned in g0v Hackath60n
 ### SITCON 2025 社群攤位
 
 :::success
-我們
+SITCON 2025 社群攤位籌辦共筆：
+https://hackmd.io/@SOGACtw/SITCON2025
 :::
 
 ### 開放學生自治社群同樂會 - 當開源協作進入學生自治
