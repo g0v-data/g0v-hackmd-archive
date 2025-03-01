@@ -1,6 +1,21 @@
 # General Skills
 [toc]
 ## easy
+### Commitment Issues
+I accidentally wrote the flag down. Good thing I deleted it!
+You download the challenge files here:
+[challenge.zip](https://artifacts.picoctf.net/c_titan/76/challenge.zip)
+- 解壓縮後，可以發現檔案都在drop-in資料夾裡
+![](https://g0v.hackmd.io/_uploads/BJkSGDxoye.png)
+- 有個message.txt，打開後寫TOP SECRET，很可疑
+![](https://g0v.hackmd.io/_uploads/H1C9zwejJl.png)
+- `git log`後，發現在e720dc26a1a55405fbdf4d338d465335c439fb3e這個ID有create flag
+![](https://g0v.hackmd.io/_uploads/BkCzNPljyx.png)
+
+- `git show e720dc26a1a55405fbdf4d338d465335c439fb3e `，找到flag了
+![](https://g0v.hackmd.io/_uploads/S1lT-vgiyx.png)
+ans:picoCTF{s@n1t1z3_7246792d}
+
 ### Binary Search
 從1~1000選十次數字，如果guess>target，則lower，guess<target，則higher，一開始先猜500，然後逐步縮小範圍
 ![](https://g0v.hackmd.io/_uploads/HyepF84_qJg.png)
