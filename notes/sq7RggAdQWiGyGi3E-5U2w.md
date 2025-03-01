@@ -64,7 +64,18 @@ sha256sum files/* |grep 5848768e56185707f76c1d74f34f4e03fb0573ecc1ca7b1123800722
 ./decrypt.sh files/8eee7195
 ```
 ans: picoCTF{trust_but_verify_8eee7195}
-    
+
+### CanYouSee
+How about some hide and seek?
+Download this file [here](https://artifacts.picoctf.net/c_titan/4/unknown.zip).
+- 使用exiftool對圖片進行分析，發現有一串亂文像是base 64
+```
+exiftool ukn_reality.jpg
+```
+![](https://g0v.hackmd.io/_uploads/H1cYOUliyg.png)
+- 丟去cyberchef進行解密
+![](https://g0v.hackmd.io/_uploads/B16ktUeoyl.png)
+- ans:picoCTF{ME74D47A_HIDD3N_deca06fb}
 
 ## medium
 ### Matryoshka doll

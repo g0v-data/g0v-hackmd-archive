@@ -97,6 +97,7 @@ https://www.facebook.com/share/v/19tpCh2Jki/
 https://sites.google.com/view/ai4good
 
 慈濟
+https://www.facebook.com/share/p/1B2h2fLv24/?mibextid=wwXIfr
 https://www.facebook.com/share/19NwZAUDJo/
 
 教會
