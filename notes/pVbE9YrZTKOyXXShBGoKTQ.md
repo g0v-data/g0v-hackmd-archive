@@ -1,6 +1,8 @@
 # General Skills
 [toc]
 ## easy
+### Collaborative Development
+picoCTF{t3@mw0rk_m@k3s_th3_dr3@m_w0rk_2c91ca76}
 ### Commitment Issues
 I accidentally wrote the flag down. Good thing I deleted it!
 You download the challenge files here:
