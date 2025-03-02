@@ -2,7 +2,7 @@
 tags: GIS, 防災, 民防
 ---
 
-# WaytoSafety 隨時隨地知道避難場所位置<br>Shelter Map (Taiwan, Japan, Korea)
+# WaytoSafety 隨時隨地知道避難場所位置<br>Shelter Map (Taiwan, Japan, Korea, HK)
 
 :::info
 Channel:
