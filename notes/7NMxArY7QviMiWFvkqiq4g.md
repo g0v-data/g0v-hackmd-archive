@@ -1,6 +1,6 @@
 # 軟體工程實務HW2
 
-> 作業說明：使用
+> 作業說明：UMLEditor有出現bug，根據指示、UseCase以及debugger
 
 ## 錯誤列表
 
@@ -50,4 +50,15 @@
 :::danger
 **問題說明**
 composite物件不會整個一起移動
+:::
+:::info
+
+1. 哪個case出問題：E.1
+2. 在哪個function出問題：UMLEditor\UMLEditor\Modes\SelectMode.OnMouseDrag()
+3. 根本原因：判斷執行Move()幾次的條件式是看shape的個數，導致已經合成為compositeObjects的只有最在陣列[0]的方框被執行
+:::
+:::success
+更改條件式
+![對的](https://g0v.hackmd.io/_uploads/HkRqzOWoyx.png)
+
 :::
