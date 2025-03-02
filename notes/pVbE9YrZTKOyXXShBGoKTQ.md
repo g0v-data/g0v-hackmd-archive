@@ -2,7 +2,31 @@
 [toc]
 ## easy
 ### Collaborative Development
-picoCTF{t3@mw0rk_m@k3s_th3_dr3@m_w0rk_2c91ca76}
+My team has been working very hard on new features for our flag printing program! I wonder how they'll work together?
+You can download the challenge files here:
+[challenge.zip](https://artifacts.picoctf.net/c_titan/176/challenge.zip)
+- Hint
+- git branch -a會讓你看到可用的分支
+- 如何將文件‘差異’帶到主分支？別忘了git config！
+- 合併衝突可能會很棘手！嘗試使用 nano、emacs 或 vim 等文字編輯器。
+```
+git branch -a //該命令將顯示四個可用分支，現在我們位於主分支
+```
+- 假設其他提交或更改是flag.py在另一個分支中，因為我們從第一個提示中得到了一些線索。
+![](https://g0v.hackmd.io/_uploads/HJoPdyMoye.png)
+
+![](https://g0v.hackmd.io/_uploads/BkxdcdkGsJx.png)
+
+- 要切換到不同的分支，使用git checkout，`git checkout feature/part-1`，下面以此類推
+![](https://g0v.hackmd.io/_uploads/HJgq3D1fo1l.png)
+
+![](https://g0v.hackmd.io/_uploads/SJWLPkMjyl.png)
+
+![](https://g0v.hackmd.io/_uploads/Sya5wkfikx.png)
+
+![](https://g0v.hackmd.io/_uploads/BJxowkGjJx.png)
+
+- ans:picoCTF{t3@mw0rk_m@k3s_th3_dr3@m_w0rk_2c91ca76}
 ### Commitment Issues
 I accidentally wrote the flag down. Good thing I deleted it!
 You download the challenge files here:

@@ -276,6 +276,8 @@ http://valuesatplay.org/game-tools
 http://scatjay.weebly.com/3541335542middot3856831558/-1
 GGJ 2017 多樣性成就（Diversifier）
 https://igdshare.org/comment/384#comment-384
+桌上遊戲設計的基石：機制百科全書
+https://www.facebook.com/share/p/1BoVWkFCNZ/
 針對「卡片遊戲」設計概述 
 http://www.slideshare.net/kunihideliao/ss-34010267
 【教學 - 簡單製作專屬於你的奇幻地圖】
