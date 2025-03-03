@@ -9,7 +9,7 @@ GA: UA-98468513-3
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
 - NPO Hub：bil, mrorz
-- 線上出席：
+- 線上出席：T
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -41,12 +41,21 @@ Same as last week, let's review experiments first
     - 2.0-flash 在遇到字幕不合 or 翻譯的時候，較可能會聽打+字幕並陳 
         - 假字幕https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/54b80adb-20a7-46a7-b155-0bc85618e283
         - 翻譯 https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/8987ddbd-2648-4c19-8216-9dfe869c4a7c?observation=5541c147-c185-4c36-9b0b-7427ec5cb11a （好像沒翻完）
-
+    - 還沒遇到 Gemini sensorship 的問題 or [recitation error](https://g0v.hackmd.io/wkx286lmTDaFUpgRhnUawQ?view#Gemini-Flash-15-Vertex-AI)
+- TODO
+  - add more test cases 重跑實驗
 
 ## RightsCon & Satelite Events 檢討
 
 - [x] 寄信：RSF、ASL19
 - [ ] 等來信：Google、採訪者
+  - 有一組不太講英文的日本
+- [ ] 波蘭智庫 NASK
+- 藝術家很棒
+  - g0v 社群藝術家可能比較容易 burn out
+  - 有人因為攤位而來要名片
+- 愛因斯坦貼紙很夯
+  - 爾康國外看不懂
 
 ## Communications
 
@@ -66,10 +75,19 @@ https://drive.google.com/drive/folders/1U-etbZSOiFzpXgOr0GtBxkwYKk666nni
   - [x] 中文（achoo）
     - 250 張起跳 http://www.soho8d.com.tw/Form2/F102.aspx?csubid=73
     - 要更新 QR code
-    - 背面有疊影，
+    - 背面有疊影 --> fix 四色黑問題
   - [ ] 「利用語言模型協助查證」傳單
   - [ ] 「查核志工募集」傳單
   - [ ] 豆腐版
+    - 再排 / figma
+  - [ ] 新北青年簡章 QR code 文宣
 - [ ] 宣傳用：Logo 貼紙（透明）
-- [ ] 投影片放在多頁的透明資料夾
+  - 川普貼紙
+- [ ] iPad
+
+## 大松
+- [ ] 台南好想
+- [ ] 要脫鞋，建議帶拖鞋
+
+
 
