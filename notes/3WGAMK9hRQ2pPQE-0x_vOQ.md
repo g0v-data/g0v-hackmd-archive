@@ -34,7 +34,13 @@ Same as last week, let's review experiments first
 - Dataset & experiments https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/datasets/cm7ri4we80004ql0bfu6lvtoi
 - Hallucination
     - ex: https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/16143cbf-02df-46cd-88e9-dd86b9cb81ab?observation=b0ab72fe-c7f2-4fe1-a53d-6398dbaf7a64 , https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/1dffcadb-2afb-436d-a108-3fe8bdc4d639?observation=988b5ef6-920d-4d79-8bcc-9dbf7ec504a4
-    - `finishReason: "MAX_TOKENS"``
+    - `finishReason: "MAX_TOKENS"`
+- Gemini-2.0-flash vs Gemini-1.5-Pro-002 ![](https://g0v.hackmd.io/_uploads/rJecNLCzj1e.png)
+    - 2.0-flash 更容易 hallucinate
+    - 2.0-flash is 1.5x slower
+    - 2.0-flash 在遇到字幕不合 or 翻譯的時候，較可能會聽打+字幕並陳 
+        - 假字幕https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/54b80adb-20a7-46a7-b155-0bc85618e283
+        - 翻譯 https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/8987ddbd-2648-4c19-8216-9dfe869c4a7c?observation=5541c147-c185-4c36-9b0b-7427ec5cb11a （好像沒翻完）
 
 
 ## RightsCon & Satelite Events 檢討
