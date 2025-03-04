@@ -86,6 +86,21 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 - [ ] 問有沒有本月壽星
 - [ ] 開一個專門給線上參與者 cowork 的 meeting room
 
+
+## 贊助者
+
+| 日期 | 項目 | 贊助者 | 備註 |
+| -------- | -------- | -------- | -------- |
+| 2024-12-06 Fri. | 大松資金池 | 大松資金池 |  | 
+
+## 數位韌性松基金
+
+| 日期 | 項目 | 支出 | 收入 | 結餘 | 經手人 | 備註 |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| 2025-02-23 Sun. | dweb 分擔一半 workshop 現場點心費 |  | + NTD 1,600.0 | NTD 7953.0 `Latest` | Paul |  | 
+| 2025-02-23 Sun. | DigiResiThon x dweb workshop 現場點心費 | - NTD 2929.0  |  | NTD 6353.0 | Paul | 41 人參與 | 
+| 2024-12-06 Fri. | 大松資金池 贊助 |  | + NTD 9282.0 | NTD 9282.0 | Paul |  | 
+
 ## archives
 
 <span style="background-image: linear-gradient(90deg,#337ab7,#fd8a8a 30%,#fd8c04,#a8d1d1,#9ea1d4 70%,#337ab7); background-clip: text; color: transparent;"><a style="color: inherit;" href="https://g0v.hackmd.io">test - <strong>讚</strong></a></span>

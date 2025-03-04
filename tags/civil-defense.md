@@ -11,36 +11,35 @@
 | 7 | [來寫一個小白都會用的Meshtastic App吧！開發日誌](../notes/RZrP72VXSKWtKt9kHlUnXQ.md) | 2024-08-31T09:04:18+00:00 | 2024-08-31T08:57:29+00:00 |
 | 8 | [來寫一個小白都會用的Meshtastic App吧！](../notes/llJ-2URzRfyeZ6nwNqPv5Q.md) | 2024-08-31T08:59:18+00:00 | 2024-08-31T05:59:19+00:00 |
 | 9 | [DigiResiTh8n 第捌次數位韌性松](../notes/H3ffGKZKSrmAAShdc2Cx9Q.md) | 2024-07-29T04:15:08+00:00 | 2024-07-26T10:50:40+00:00 |
-| 10 | [g0v DigiResiThon logistics](../notes/e6rWxnppQmuSpUxcoXzoHw.md) | 2024-07-16T11:55:00+00:00 | 2024-02-03T07:55:50+00:00 |
-| 11 | [數位服務/軟體離線替代品 selfhost alternatives](../notes/vMiVU4G2RqqbY0tVJ9YaRg.md) | 2024-06-15T08:30:54+00:00 | 2024-06-15T06:08:19+00:00 |
-| 12 | [DigiResiTh7n 第柒次數位韌性松](../notes/_WHs9N0eS3mzFHn5QzjvRg.md) | 2024-06-15T07:49:12+00:00 | 2024-05-31T02:26:14+00:00 |
-| 13 | [20240525 DigiResiTh6n 第陸次數位韌性松](../notes/CLbAeY3wTZCaLr-YCYqafw.md) | 2024-06-03T02:16:29+00:00 | 2024-05-18T02:21:20+00:00 |
-| 14 | [20240427 DigiResiTh5n 第伍次數位韌性松](../notes/ugNkTFLARwK4rmH7jCdO-g.md) | 2024-06-03T02:16:08+00:00 | 2024-04-08T07:58:50+00:00 |
-| 15 | [20240323 DigiResiTh4n 第肆次數位韌性松](../notes/qcDX1C5mTE24UcCUkfTthQ.md) | 2024-06-03T02:15:30+00:00 | 2024-03-10T06:34:37+00:00 |
-| 16 | [20240224 DigiResiTh3n 第參次數位韌性松](../notes/Xt7FoiZgTYq-7x20iNGN4A.md) | 2024-06-03T02:13:26+00:00 | 2024-01-20T08:35:50+00:00 |
-| 17 | [20240120 DigiResiTh2n 第貳次數位韌性松](../notes/iC-7ZtqJTqG75GxUY3aiAQ.md) | 2024-06-03T01:54:04+00:00 | 2024-01-09T10:38:34+00:00 |
-| 18 | [20231104 DigiResiTh0n 第零次數位韌性松](../notes/oyNRfe4lTuaZ5RbcPSS7TQ.md) | 2024-05-20T15:07:17+00:00 | 2023-10-21T07:19:19+00:00 |
-| 19 | [民防/防災相關證照](../notes/B-ky08JbR4-HD3lFDwynLQ.md) | 2024-05-16T02:53:14+00:00 | 2023-12-31T08:33:11+00:00 |
-| 20 | [Meshtastic / DigiResiThon](../notes/0bR8-LvHRMaNaR97YaXpnQ.md) | 2024-05-16T02:41:55+00:00 | 2023-12-30T07:20:27+00:00 |
-| 21 | [寫給對於還不熟悉 Meshtastic 的朋友 / DigiResiTh0n](../notes/V8ozO9RQS4ieWC1th3fleg.md) | 2024-04-27T08:52:55+00:00 | 2024-04-27T08:44:12+00:00 |
-| 22 | [台灣鏈網 Meshtastic / DigiResiTh0n](../notes/ZGuA7fUZQi-fbD06EenmGQ.md) | 2024-04-27T08:46:13+00:00 | 2024-04-27T08:13:59+00:00 |
-| 23 | [懶人包：購買後要如何設定 - 刷韌體 / DigiResiTh0n](../notes/BCNqWGEeRJms5A77oGewaw.md) | 2024-04-27T08:36:26+00:00 | 2024-04-27T08:30:11+00:00 |
-| 24 | [懶人包：我要如何購買 Meshtastic 裝置 / DigiResiTh0n](../notes/rW7Kbi7AR1uTMtuy8YAahA.md) | 2024-04-27T08:28:53+00:00 | 2024-04-27T08:23:11+00:00 |
-| 25 | [20231230 DigiResiTh1n 第壹次數位韌性松](../notes/mKkOC9PLSXi0GZg7uGm1xA.md) | 2024-04-27T05:30:37+00:00 | 2023-11-25T08:10:48+00:00 |
-| 26 | [g0v DigiResiThon 數位韌性松 募款模板](../notes/L0dLpQ_zTzGoNxeURzO2kw.md) | 2024-04-25T05:27:08+00:00 | 2024-02-21T02:13:46+00:00 |
-| 27 | [SaaS 韌性產品 self-host guide](../notes/9Z2EhRAFQq-jfsoixrwD5A.md) | 2024-03-23T09:02:05+00:00 | 2024-03-23T08:41:07+00:00 |
-| 28 | [g0v DigiResiTh0n Social Media Post Image Generation Prompts](../notes/PaNChj9XQ7ar_jVceu5ciQ.md) | 2024-03-10T08:26:31+00:00 | 2024-03-10T08:26:00+00:00 |
-| 29 | [g0v DigiResiThon 數位韌性松回 book mode 模板](../notes/VkctH3USQ-yoB6hw2s2D0Q.md) | 2024-03-10T06:57:57+00:00 | 2024-02-21T02:11:27+00:00 |
-| 30 | [災難時的通訊](../notes/dxFHfKK-Rj2BXd_J1gx1aQ.md) | 2024-02-24T08:37:02+00:00 | 2024-02-24T08:01:32+00:00 |
-| 31 | [災害時的交通](../notes/jxLUGcNUTwm0qNHl6GZvLg.md) | 2024-02-24T08:36:56+00:00 | 2024-02-24T08:01:58+00:00 |
-| 32 | [災害時保健](../notes/VXWnM_jqQMqPdd_H2HmzVw.md) | 2024-02-24T08:36:45+00:00 | 2024-02-24T08:14:50+00:00 |
-| 33 | [學習急救資訊](../notes/vbliKPdyQ12V7QfoR8YJPg.md) | 2024-02-24T08:36:16+00:00 | 2024-02-24T07:57:29+00:00 |
-| 34 | [預防通訊中斷](../notes/kh_Qh0WEQQ6kAbaFhvuEjQ.md) | 2024-02-24T08:36:09+00:00 | 2024-02-24T07:55:25+00:00 |
-| 35 | [了解避難位置](../notes/nRcyyTFNQLqIk1dYwccLCg.md) | 2024-02-24T08:35:49+00:00 | 2024-02-24T07:53:01+00:00 |
-| 36 | [準備救難包](../notes/Ojw57urwQ1O8Bs9NJH_NfA.md) | 2024-02-24T08:35:43+00:00 | 2024-02-24T08:13:28+00:00 |
-| 37 | [g0v DigiResiThon idea pool](../notes/PMiMLc-JT3yFrAs3CL6rzw.md) | 2024-02-24T08:06:18+00:00 | 2024-02-24T08:01:01+00:00 |
-| 38 | [數位韌性情境分級](../notes/SYTBWVohTyuCgPGUqfAl9g.md) | 2024-02-24T07:06:41+00:00 | 2023-12-09T02:29:54+00:00 |
-| 39 | [DigiResiThon 數位韌性松 bootstrapping](../notes/Qc8gsyY-Rn-4lXUA1gLH1g.md) | 2024-01-31T13:24:29+00:00 | 2023-12-30T08:19:42+00:00 |
-| 40 | [g0v 數位韌性松之  Digital Resiliency Firmware Update](../notes/Ex7L9ag7QfOnJXkwyz5iqg.md) | 2023-11-15T08:52:11+00:00 | 2023-11-04T05:49:47+00:00 |
-| 41 | [IG 不能動，還有什麼值得我心痛：為什麼要辦「假設網路斷光光」的 g0v 數位韌性黑客松](../notes/qkj6dwSFS0q8zpZO4-GxOQ.md) | 2023-11-08T14:54:28+00:00 | 2023-11-08T10:26:02+00:00 |
-| 42 | [韌性松場地路線圖及使用規定](../notes/9pwDPOXLTr6IJKiLofl3qg.md) | 2023-11-03T15:14:17+00:00 | 2023-11-03T14:51:11+00:00 |
+| 10 | [數位服務/軟體離線替代品 selfhost alternatives](../notes/vMiVU4G2RqqbY0tVJ9YaRg.md) | 2024-06-15T08:30:54+00:00 | 2024-06-15T06:08:19+00:00 |
+| 11 | [DigiResiTh7n 第柒次數位韌性松](../notes/_WHs9N0eS3mzFHn5QzjvRg.md) | 2024-06-15T07:49:12+00:00 | 2024-05-31T02:26:14+00:00 |
+| 12 | [20240525 DigiResiTh6n 第陸次數位韌性松](../notes/CLbAeY3wTZCaLr-YCYqafw.md) | 2024-06-03T02:16:29+00:00 | 2024-05-18T02:21:20+00:00 |
+| 13 | [20240427 DigiResiTh5n 第伍次數位韌性松](../notes/ugNkTFLARwK4rmH7jCdO-g.md) | 2024-06-03T02:16:08+00:00 | 2024-04-08T07:58:50+00:00 |
+| 14 | [20240323 DigiResiTh4n 第肆次數位韌性松](../notes/qcDX1C5mTE24UcCUkfTthQ.md) | 2024-06-03T02:15:30+00:00 | 2024-03-10T06:34:37+00:00 |
+| 15 | [20240224 DigiResiTh3n 第參次數位韌性松](../notes/Xt7FoiZgTYq-7x20iNGN4A.md) | 2024-06-03T02:13:26+00:00 | 2024-01-20T08:35:50+00:00 |
+| 16 | [20240120 DigiResiTh2n 第貳次數位韌性松](../notes/iC-7ZtqJTqG75GxUY3aiAQ.md) | 2024-06-03T01:54:04+00:00 | 2024-01-09T10:38:34+00:00 |
+| 17 | [20231104 DigiResiTh0n 第零次數位韌性松](../notes/oyNRfe4lTuaZ5RbcPSS7TQ.md) | 2024-05-20T15:07:17+00:00 | 2023-10-21T07:19:19+00:00 |
+| 18 | [民防/防災相關證照](../notes/B-ky08JbR4-HD3lFDwynLQ.md) | 2024-05-16T02:53:14+00:00 | 2023-12-31T08:33:11+00:00 |
+| 19 | [Meshtastic / DigiResiThon](../notes/0bR8-LvHRMaNaR97YaXpnQ.md) | 2024-05-16T02:41:55+00:00 | 2023-12-30T07:20:27+00:00 |
+| 20 | [寫給對於還不熟悉 Meshtastic 的朋友 / DigiResiTh0n](../notes/V8ozO9RQS4ieWC1th3fleg.md) | 2024-04-27T08:52:55+00:00 | 2024-04-27T08:44:12+00:00 |
+| 21 | [台灣鏈網 Meshtastic / DigiResiTh0n](../notes/ZGuA7fUZQi-fbD06EenmGQ.md) | 2024-04-27T08:46:13+00:00 | 2024-04-27T08:13:59+00:00 |
+| 22 | [懶人包：購買後要如何設定 - 刷韌體 / DigiResiTh0n](../notes/BCNqWGEeRJms5A77oGewaw.md) | 2024-04-27T08:36:26+00:00 | 2024-04-27T08:30:11+00:00 |
+| 23 | [懶人包：我要如何購買 Meshtastic 裝置 / DigiResiTh0n](../notes/rW7Kbi7AR1uTMtuy8YAahA.md) | 2024-04-27T08:28:53+00:00 | 2024-04-27T08:23:11+00:00 |
+| 24 | [20231230 DigiResiTh1n 第壹次數位韌性松](../notes/mKkOC9PLSXi0GZg7uGm1xA.md) | 2024-04-27T05:30:37+00:00 | 2023-11-25T08:10:48+00:00 |
+| 25 | [g0v DigiResiThon 數位韌性松 募款模板](../notes/L0dLpQ_zTzGoNxeURzO2kw.md) | 2024-04-25T05:27:08+00:00 | 2024-02-21T02:13:46+00:00 |
+| 26 | [SaaS 韌性產品 self-host guide](../notes/9Z2EhRAFQq-jfsoixrwD5A.md) | 2024-03-23T09:02:05+00:00 | 2024-03-23T08:41:07+00:00 |
+| 27 | [g0v DigiResiTh0n Social Media Post Image Generation Prompts](../notes/PaNChj9XQ7ar_jVceu5ciQ.md) | 2024-03-10T08:26:31+00:00 | 2024-03-10T08:26:00+00:00 |
+| 28 | [g0v DigiResiThon 數位韌性松回 book mode 模板](../notes/VkctH3USQ-yoB6hw2s2D0Q.md) | 2024-03-10T06:57:57+00:00 | 2024-02-21T02:11:27+00:00 |
+| 29 | [災難時的通訊](../notes/dxFHfKK-Rj2BXd_J1gx1aQ.md) | 2024-02-24T08:37:02+00:00 | 2024-02-24T08:01:32+00:00 |
+| 30 | [災害時的交通](../notes/jxLUGcNUTwm0qNHl6GZvLg.md) | 2024-02-24T08:36:56+00:00 | 2024-02-24T08:01:58+00:00 |
+| 31 | [災害時保健](../notes/VXWnM_jqQMqPdd_H2HmzVw.md) | 2024-02-24T08:36:45+00:00 | 2024-02-24T08:14:50+00:00 |
+| 32 | [學習急救資訊](../notes/vbliKPdyQ12V7QfoR8YJPg.md) | 2024-02-24T08:36:16+00:00 | 2024-02-24T07:57:29+00:00 |
+| 33 | [預防通訊中斷](../notes/kh_Qh0WEQQ6kAbaFhvuEjQ.md) | 2024-02-24T08:36:09+00:00 | 2024-02-24T07:55:25+00:00 |
+| 34 | [了解避難位置](../notes/nRcyyTFNQLqIk1dYwccLCg.md) | 2024-02-24T08:35:49+00:00 | 2024-02-24T07:53:01+00:00 |
+| 35 | [準備救難包](../notes/Ojw57urwQ1O8Bs9NJH_NfA.md) | 2024-02-24T08:35:43+00:00 | 2024-02-24T08:13:28+00:00 |
+| 36 | [g0v DigiResiThon idea pool](../notes/PMiMLc-JT3yFrAs3CL6rzw.md) | 2024-02-24T08:06:18+00:00 | 2024-02-24T08:01:01+00:00 |
+| 37 | [數位韌性情境分級](../notes/SYTBWVohTyuCgPGUqfAl9g.md) | 2024-02-24T07:06:41+00:00 | 2023-12-09T02:29:54+00:00 |
+| 38 | [DigiResiThon 數位韌性松 bootstrapping](../notes/Qc8gsyY-Rn-4lXUA1gLH1g.md) | 2024-01-31T13:24:29+00:00 | 2023-12-30T08:19:42+00:00 |
+| 39 | [g0v 數位韌性松之  Digital Resiliency Firmware Update](../notes/Ex7L9ag7QfOnJXkwyz5iqg.md) | 2023-11-15T08:52:11+00:00 | 2023-11-04T05:49:47+00:00 |
+| 40 | [IG 不能動，還有什麼值得我心痛：為什麼要辦「假設網路斷光光」的 g0v 數位韌性黑客松](../notes/qkj6dwSFS0q8zpZO4-GxOQ.md) | 2023-11-08T14:54:28+00:00 | 2023-11-08T10:26:02+00:00 |
+| 41 | [韌性松場地路線圖及使用規定](../notes/9pwDPOXLTr6IJKiLofl3qg.md) | 2023-11-03T15:14:17+00:00 | 2023-11-03T14:51:11+00:00 |
