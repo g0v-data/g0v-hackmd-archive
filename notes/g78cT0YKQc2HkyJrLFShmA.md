@@ -179,7 +179,6 @@ https://docs.google.com/document/d/1IhyVG3KncyizQ3sD2mPFytnpwN86X5JSOV9PjjyuU18/
 
 
 
-### 由報名開考直至面試之間有一段時間，在這段時間如果交給開考部門的履歷表有變化的話可以修改嗎(例如: 考多了幾張證照、碩士畢業或者進修證書等)?
 
 
 
