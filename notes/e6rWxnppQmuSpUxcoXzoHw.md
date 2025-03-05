@@ -33,7 +33,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 ## 確認下次活動時間前
 - [ ] 將前次參與紀錄放到 [g0v 社群 @ NPO Hub 小松果](/Yef7YTSZS5q52nLPdNgz2A)
 - [ ] 到頻道上確認大家下個月可以參與的時間（坑主有空的時間優先）
-- [ ] 和 jothon 職工確認 NPO Hub 4F 廚房是否有空位可以借用
+- [ ] 和 jothon 職工或志工確認 NPO Hub 二樓 202 或是 4F 廚房是否有空位可以借用
     - [ ] 確認後要填 [jothon NPO HUB 場地借用表單](https://docs.google.com/forms/d/e/1FAIpQLSee5Y9AX_uLjGpGwt3afsDJyrPJ_IHZnyMWggHgGMU05YHo-Q/viewform)
     - 以你們的觀點而言，本活動內容與開放文化的關聯性為何？
         :::spoiler
