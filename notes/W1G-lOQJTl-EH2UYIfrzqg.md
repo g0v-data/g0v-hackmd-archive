@@ -23,5 +23,7 @@ https://www.facebook.com/share/1AF2rSrNKS/?mibextid=wwXIfr
 2024 鹿兒島縣町長交流
 補內容
 
+https://rito.pref.aichi.jp/
+
 九州作為避難收容
 https://www.facebook.com/share/p/1682CYaEeV/
