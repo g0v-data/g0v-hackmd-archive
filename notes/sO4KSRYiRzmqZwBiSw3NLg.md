@@ -64,8 +64,10 @@ tofus 的 Figma 檔案
 - [g0v 十週年協作版](https://www.figma.com/community/file/1381987635727132701/g0v)
 - [g0v 棒球外套 草稿](https://www.figma.com/community/file/1267133585931031501/g0v-varsity-jacket)
 
-YI
+g0v 小插圖 CC-BY-SA Yi
 https://drive.google.com/drive/folders/1jl0OZK3FoG-UF_dNJkyCnsTI5NP8rZuz?usp=drive_link
+
+![](https://g0v.hackmd.io/_uploads/rklhanGIskx.png)
 
 
 ## 照片類
