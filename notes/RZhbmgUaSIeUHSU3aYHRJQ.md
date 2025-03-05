@@ -108,9 +108,13 @@ Josh分享[議題小聚#2「台灣的人工智慧應該如何規範？」報告�
 1. 在花蓮舉辦一場（資源到位應該沒有問題，唯一的問題：沒辦法連貫）
 - 目前 TWNIC 似乎很有興趣提供資源，有誰有興趣一起去花蓮玩嗎XD [name=peter]
 2. 多次性的意見對照/單次的意見對照（等翊婷文件弄好）
-- [相關文件](https://docs.google.com/document/d/1YqUPxgkiVcf8wie2RAK_bK7hVxl7Ywss3L87N7Wb9Ms/edit?usp=sharing)
+- [參與者招募計劃相關文件](https://docs.google.com/document/d/1YqUPxgkiVcf8wie2RAK_bK7hVxl7Ywss3L87N7Wb9Ms/edit?usp=sharing)
 3. 被詐騙過的人的資料庫（除了倫理與IRB問題外，我覺得社群沒有不可以做的地方）
-
+    - 會有額外的 IRB 問題
+    - 從 IRB 審查上來說，如果刻意招募的話，可能會有問題。
+- online offline 的招募會有差別？
+    - 大家都可以選擇 online / offline 
+    - 
 #### 4/2 種子意見
 - [種子意見內容](https://docs.google.com/spreadsheets/d/1xXjnptMcKItVa_9o83R2gnxp-zDwliWnJjNMCK3mW18/edit)
 - 是否有其他方式可以收集到更多元的種子意見？
