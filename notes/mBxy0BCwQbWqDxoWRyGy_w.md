@@ -2,6 +2,7 @@
 ## GCP
 * 到**網路端點群組** 新增網路端點群組與網路端點*test-webserver-newui*
 * 到load balancing(Network services)編輯puhui-client-lb
+* 
 * 在**轉送規則**新增:
     * 主機 - puhui.pasha.tw
     * 路徑 - /newUIUX/*
