@@ -1,6 +1,6 @@
 # 789Club - Sự lựa chọn hàng đầu cho người chơi cá cược tại Việt Nam
 
-<a href=" https://789bets.io/"> 789Club</a> là một trong những sàn cá cược uy tín và đáng tin cậy nhất tại Việt Nam hiện nay. Với hệ thống game đa dạng và phong phú, người chơi có thể tham gia cá cược trên nhiều lĩnh vực khác nhau như thể thao, casino trực tuyến, xổ số và các trò chơi mini.
+<a href=" https://789bets.io/"> 789BET</a> là một trong những sàn cá cược uy tín và đáng tin cậy nhất tại Việt Nam hiện nay. Với hệ thống game đa dạng và phong phú, người chơi có thể tham gia cá cược trên nhiều lĩnh vực khác nhau như thể thao, casino trực tuyến, xổ số và các trò chơi mini.
 
 Được hoạt động dưới sự giám sát của cơ quan quản lý chính thức, 789Club cam kết đảm bảo tính công bằng và minh bạch cho người chơi. Hệ thống thanh toán nhanh chóng và an toàn giúp người chơi trải nghiệm mượt mà và thuận lợi.
 

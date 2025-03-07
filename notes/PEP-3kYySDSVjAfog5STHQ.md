@@ -1,6 +1,6 @@
 # Chơi game bài trên 789club và nhận ngay tiền thưởng mỗi ngày!
 
-<a href=" https://789bets.io/"> 789Club</a> là một trong những trang web cá cược uy tín và phổ biến nhất hiện nay. Với đa dạng các trò chơi bài trực tuyến, người chơi có thể thỏa sức giải trí và đồng thời có cơ hội nhận được những phần thưởng hấp dẫn mỗi ngày. Không chỉ là một nơi để giải trí, 789club còn là điểm đến lý tưởng cho những ai muốn kiếm thêm thu nhập.
+<a href=" https://789bets.io/"> 789BET</a> là một trong những trang web cá cược uy tín và phổ biến nhất hiện nay. Với đa dạng các trò chơi bài trực tuyến, người chơi có thể thỏa sức giải trí và đồng thời có cơ hội nhận được những phần thưởng hấp dẫn mỗi ngày. Không chỉ là một nơi để giải trí, 789club còn là điểm đến lý tưởng cho những ai muốn kiếm thêm thu nhập.
 
 Với giao diện thân thiện và dễ sử dụng, việc tham gia chơi game bài trên 789club trở nên dễ dàng hơn bao giờ hết. Để nhận được tiền thưởng hàng ngày, người chơi chỉ cần tham gia các trò chơi yêu thích, tích lũy điểm thưởng và đổi chúng thành tiền mặt một cách nhanh chóng.
 
