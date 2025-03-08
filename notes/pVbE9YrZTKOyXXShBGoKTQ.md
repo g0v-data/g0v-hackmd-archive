@@ -102,6 +102,24 @@ ssh ctf-player@venus.picoctf.net -p 50273
 
 ###
 ## medium
+### dont-you-love-banners
+
+Can you abuse the banner?
+The server has been leaking some crucial information on tethys.picoctf.net 60485. Use the leaked information to get to the server.
+To connect to the running application use nc tethys.picoctf.net 61254. From the above information abuse the machine and find the flag in the /root directory.
+
+![](https://g0v.hackmd.io/_uploads/ryGp2pYs1x.png)
+
+![](https://g0v.hackmd.io/_uploads/rkUXa6Fiyl.png)
+![](https://g0v.hackmd.io/_uploads/rkO7aTts1x.png)
+
+![](https://g0v.hackmd.io/_uploads/SJfL66Foyl.png)
+
+![](https://g0v.hackmd.io/_uploads/SkgULT6Yokx.png)
+
+![](https://g0v.hackmd.io/_uploads/rJO8paYs1x.png)
+
+![](https://g0v.hackmd.io/_uploads/ByHd6TYj1e.png)
 
 ### Permissions
 Can you read files in the root file?
