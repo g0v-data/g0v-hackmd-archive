@@ -105,8 +105,8 @@ ssh ctf-player@venus.picoctf.net -p 50273
 ### dont-you-love-banners
 
 Can you abuse the banner?
-The server has been leaking some crucial information on tethys.picoctf.net 60485. Use the leaked information to get to the server.
-To connect to the running application use nc tethys.picoctf.net 61254. From the above information abuse the machine and find the flag in the /root directory.
+The server has been leaking some crucial information on tethys.picoctf.net 63856. Use the leaked information to get to the server.
+To connect to the running application use nc tethys.picoctf.net 54462. From the above information abuse the machine and find the flag in the /root directory.
 
 ![](https://g0v.hackmd.io/_uploads/ryGp2pYs1x.png)
 
@@ -121,6 +121,20 @@ To connect to the running application use nc tethys.picoctf.net 61254. From the 
 
 ![](https://g0v.hackmd.io/_uploads/ByHd6TYj1e.png)
 
+![](https://g0v.hackmd.io/_uploads/rJ59p6YoJx.png)
+
+```
+ with open("/home/player/banner", "r") as f:
+        print(f.read())
+```
+
+![](https://g0v.hackmd.io/_uploads/HyogAptjJx.png)
+
+![](https://g0v.hackmd.io/_uploads/SyCx0aFoye.png)
+
+![](https://g0v.hackmd.io/_uploads/By4bCpYiJx.png)
+ 
+ ans:picoCTF{b4nn3r_gr4bb1n9_su((3sfu11y_68ca8b23}
 ### Permissions
 Can you read files in the root file?
 Additional details will be available after launching your challenge instance.
