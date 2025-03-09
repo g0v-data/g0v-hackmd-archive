@@ -136,7 +136,7 @@ To connect to the running application use nc tethys.picoctf.net 54462. From the 
 - 重新連線便能取得flag
 ![](https://g0v.hackmd.io/_uploads/By4bCpYiJx.png)
  
- ans:picoCTF{b4nn3r_gr4bb1n9_su((3sfu11y_68ca8b23}
+- ans:picoCTF{b4nn3r_gr4bb1n9_su((3sfu11y_68ca8b23}
 ### Permissions
 Can you read files in the root file?
 Additional details will be available after launching your challenge instance.

@@ -78,6 +78,17 @@ exiftool ukn_reality.jpg
 - ans:picoCTF{ME74D47A_HIDD3N_deca06fb}
 
 ## medium
+
+### MSB
+This image passes LSB statistical analysis, but we can't help but think there must be something to the visual artifacts present in this image...
+Download the image [here](https://artifacts.picoctf.net/c/301/Ninja-and-Prince-Genji-Ukiyoe-Utagawa-Kunisada.flag.png)
+- 使用stegsolve對圖片進行處理
+![](https://g0v.hackmd.io/_uploads/ByzkP25jJx.png)
+- 將資料下載下來，然後搜尋pico，就能找到答案
+![](https://g0v.hackmd.io/_uploads/BJCWvn9jkx.png)
+
+
+- ans:picoCTF{15_y0ur_que57_qu1x071c_0r_h3r0 1c_3a219174}
 ### Matryoshka doll
 Matryoshka dolls are a set of wooden dolls of decreasing size placed one inside another. What's the final one? Image: this
 ```
