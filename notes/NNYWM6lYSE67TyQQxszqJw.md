@@ -144,4 +144,35 @@ This website can be rendered only by picobrowser, go and catch the flag! https:/
 - 重整後可在response的程式碼看到flag
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_6752a208c38a36adabc784fcf2f47bb8.png)
 - ans:picoCTF{p1c0_s3cr3t_ag3nt_e9b160d0}
+
+### Web Gauntlet
+- 看來是sql injection
+![](https://g0v.hackmd.io/_uploads/HkBAnJsokg.png)
+- 第一關要求不能有or
+![](https://g0v.hackmd.io/_uploads/HJIZTyioJl.png)
+- 輸入`admin'--`，密碼隨意
+ ![](https://g0v.hackmd.io/_uploads/SJHXpysi1x.png)
+
+- 第二關要求不能有or and like = --
+![](https://g0v.hackmd.io/_uploads/Skjv6JisJe.png)
+
+- 輸入`admin'/*`
+![](https://g0v.hackmd.io/_uploads/ryK5pJoo1g.png)
+
+- 第三關要求不能有or and = like > < --
+![](https://g0v.hackmd.io/_uploads/r1qAa1ojJg.png)
+
+- 一樣輸入`admin'/*`
+
+- 第四關要求不能有`or and = like > < -- admin`
+![](https://g0v.hackmd.io/_uploads/BJ57RyjjJl.png)
+- 第五關要求不能有`or and = like > < -- union admin`
+- 輸入`a'||'d'||'m'||'i'||'n'/*`
+![](https://g0v.hackmd.io/_uploads/Hkc41ljj1x.png)
+
+![](https://g0v.hackmd.io/_uploads/SyWiH1looJg.png)
+- 在filter.php最下面找到flag
+![](https://g0v.hackmd.io/_uploads/Syl6LyejsJe.png)
+
+- ans:picoCTF{y0u_m4d3_1t_a3ed4355668e74af0ecbb7496c8dd7c5}
 ## hard
