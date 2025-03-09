@@ -108,30 +108,32 @@ Can you abuse the banner?
 The server has been leaking some crucial information on tethys.picoctf.net 63856. Use the leaked information to get to the server.
 To connect to the running application use nc tethys.picoctf.net 54462. From the above information abuse the machine and find the flag in the /root directory.
 
+- 題目一開始講在`tethys.picoctf.net 63856`有洩漏一些資訊，連線過後發現了密碼
 ![](https://g0v.hackmd.io/_uploads/ryGp2pYs1x.png)
-
+- 接著連線到`tethys.picoctf.net 54462`，輸入密碼和答案後成功連線
 ![](https://g0v.hackmd.io/_uploads/rkUXa6Fiyl.png)
 ![](https://g0v.hackmd.io/_uploads/rkO7aTts1x.png)
-
+- 先查看當前目錄有什麼東西，發現有banner和text
 ![](https://g0v.hackmd.io/_uploads/SJfL66Foyl.png)
-
+- 查看banner
 ![](https://g0v.hackmd.io/_uploads/SkgULT6Yokx.png)
-
+- 查看text
 ![](https://g0v.hackmd.io/_uploads/rJO8paYs1x.png)
-
+- 題目提示`find the flag in the /root directory`，`cd /root`，看root有什麼，查看flag.txt發現權限不夠
 ![](https://g0v.hackmd.io/_uploads/ByHd6TYj1e.png)
 
+- 查看script.py，發現是一開始連線使用的py檔
 ![](https://g0v.hackmd.io/_uploads/rJ59p6YoJx.png)
-
+- 關鍵的是這部分，登入的時候會以root權限打開banner，那如果我建立符號連結，利用banner指向flag.txt，就能在一開始連線的時候知道flag了
 ```
  with open("/home/player/banner", "r") as f:
         print(f.read())
 ```
-
+- 刪除banner
 ![](https://g0v.hackmd.io/_uploads/HyogAptjJx.png)
-
+- 重新建立連結，`ln -s /root/flag.txt banner`
 ![](https://g0v.hackmd.io/_uploads/SyCx0aFoye.png)
-
+- 重新連線便能取得flag
 ![](https://g0v.hackmd.io/_uploads/By4bCpYiJx.png)
  
  ans:picoCTF{b4nn3r_gr4bb1n9_su((3sfu11y_68ca8b23}
