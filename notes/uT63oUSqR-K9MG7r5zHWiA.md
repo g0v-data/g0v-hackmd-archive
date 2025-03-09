@@ -66,4 +66,18 @@ What do the flags mean?
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c3fe6383daacf4a54270773a4dd4de10.png)
 - ans:PICOCTF{F1AG5AND5TUFF}
+
+### substitution1
+A second message has come in the mail, and it seems almost identical to the first one. Maybe the same thing will work again.
+Download the message [here](https://artifacts.picoctf.net/c/181/message.txt).
+
+- 這題要解替換式密碼
+![](https://g0v.hackmd.io/_uploads/HJ_iKzosyg.png)
+- 使用[quipqiup](https://quipqiup.com/)
+
+![](https://g0v.hackmd.io/_uploads/BJmgoGji1x.png)
+![](https://g0v.hackmd.io/_uploads/HygSejfojJg.png)
+
+
+
 ## hard
