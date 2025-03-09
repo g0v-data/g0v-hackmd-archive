@@ -78,6 +78,24 @@ Download the message [here](https://artifacts.picoctf.net/c/181/message.txt).
 ![](https://g0v.hackmd.io/_uploads/BJmgoGji1x.png)
 ![](https://g0v.hackmd.io/_uploads/HygSejfojJg.png)
 
+### Pixelated
+I have these 2 images, can you make a flag out of them? [scrambled1.png](https://mercury.picoctf.net/static/75e646e4ad19967ca1811f895fb40465/scrambled1.png) [scrambled2.png](https://mercury.picoctf.net/static/75e646e4ad19967ca1811f895fb40465/scrambled2.png)
 
+- 使用stegsolve，image combiner
+![](https://g0v.hackmd.io/_uploads/SJUhzXooJx.png)
 
+![](https://g0v.hackmd.io/_uploads/S10PMXiiJx.png)
+- ans:picoCTF{d562333d}
+
+### john_pollard
+Sometimes RSA [certificates](https://jupiter.challenges.picoctf.org/static/c882787a19ed5d627eea50f318d87ac5/cert) are breakable
+
+- 打開來是RSA簽章
+![](https://g0v.hackmd.io/_uploads/SkCWOQsjkg.png)
+
+- 利用[工具](https://redkestrel.co.uk/tools/decoder)進行DECODE，n=4966306421059967，n=p*q
+![](https://g0v.hackmd.io/_uploads/By4OOmoiJx.png)
+- [將n拆成兩個因子](https://factordb.com/index.php?query=4966306421059967)，可得到(73176001,67867967)
+![](https://g0v.hackmd.io/_uploads/rJ3xF7osyx.png)
+- ans:picoCTF{73176001,67867967}
 ## hard
