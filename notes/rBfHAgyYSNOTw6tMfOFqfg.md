@@ -62,6 +62,8 @@ https://sch001.g0v.tw/dash/prj/PHRJpYi337MOiFzi5IWAyGNA9SjJRV
 醫護行政
 https://www.facebook.com/share/p/15e75K8GKF/
 
+彙整政府文件，問答摘要
+https://youtu.be/D8wYpc4wgj8
 
 ## 視聽通用溝通輔助
 
