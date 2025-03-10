@@ -32,9 +32,17 @@ answerfamily-deploy_langfuse_clickhouse_data                       1            
 answerfamily-deploy_langfuse_clickhouse_logs                       1                   1.881GB
 ```
 
-Clickhouse logs to stderr when disk is full.
+Clickhouse logs to stderr when disk is full, which is captured by cloud logging:
 
 
-we can see log to determine when disk is full.
 
+Logs in volume:
+![](https://g0v.hackmd.io/_uploads/BJtgvbnj1x.png)
+- It is emitting log into logfile every second
+- Everyday is about the same
+
+Mitigation
+- `docker system prune` --> Frees 10+ GBs
+- Don't send stderr to cloud logging for Clickhouse
+- Investigate Clickhouse log
 
