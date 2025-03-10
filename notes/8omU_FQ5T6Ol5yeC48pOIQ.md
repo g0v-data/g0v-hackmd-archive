@@ -5,11 +5,7 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 目錄
 [TOC]
 :::
-https://www.iscom.com.tw/Prod/List?page=1&cateb_id=17&cates_id=70#headers
-VirtualES	華鉅		https://watchsnet.com/agreement/dataList/0/60
-ESG軟體			
-AI培訓大師 			https://www.iscloud360.com/Mall/Product/AI%E5%9F%B9%E8%A8%93%E5%A4%A7%E5%B8%AB-
-FormX.ai 	AI 文件擷取平台 		
+	
 
 docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE_URL=http://127.0.0.1:11434 --name open-webui --restart always ghcr.io/open-webui/open-webui:main
 #### 常用連結
