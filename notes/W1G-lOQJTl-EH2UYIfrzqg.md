@@ -16,6 +16,9 @@ https://kenzkenz.xsrv.jp/open-hinata/
 
 ## topic
 
+可視化法學
+https://www.lawvis.info/
+
 2025 日本の都市地理学研究，文本讀書會
 https://www.kokon.co.jp/smp/book/b642913.html
 
@@ -32,6 +35,9 @@ Tokyo
 https://minitokyo3d.com/
 東京地鐵
 https://www.facebook.com/share/1AF2rSrNKS/
+
+橫濱地區營造機制
+待補網址素材
 
 《NHK スペシャル震災 ビッグデータ》此書的網路素材
 https://g0v.hackmd.io/ZsAGMi_lRkC5oAgaOAd3jQ?view
