@@ -1,9 +1,7 @@
-BOBO Machine Co.,Ltd.
+Shanghai Huawei Welding & Cutting Machine Co., Ltd.
 
-https://bobomachine.com/
+https://www.chinaweldcut.com/
+Email:info@huawei.sh.cn
+Tel:+86-21-69597779
 
-CBD, Nantong , JiangSu, China
-+86-15962807500
-sotu@bobomachine.com
-
-Air Duct Machine
+CNC cutting machine
