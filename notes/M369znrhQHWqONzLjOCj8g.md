@@ -29,6 +29,10 @@ tags: GIS
 - 此方法有採用「網格」200 公尺乘以200公尺
     - 討論：預計先嘗試採用 polygon 成為 rawdata
 
+待了解進度：國家溫室氣體排放清冊土地使用與變遷碳匯計算與國土規劃策略應用計畫委託專業服務案
+- 標案資訊：https://openfunltd.github.io/pcc-viewer/search.html?query=%E5%9C%8B%E5%AE%B6%E6%BA%AB%E5%AE%A4%E6%B0%A3%E9%AB%94%E6%8E%92%E6%94%BE%E6%B8%85%E5%86%8A%E5%9C%9F%E5%9C%B0%E4%BD%BF%E7%94%A8%E8%88%87%E8%AE%8A%E9%81%B7%E7%A2%B3%E5%8C%AF%E8%A8%88%E7%AE%97%E8%88%87%E5%9C%8B%E5%9C%9F%E8%A6%8F%E5%8A%83%E7%AD%96%E7%95%A5%E6%87%89%E7%94%A8%E8%A8%88%E7%95%AB%E5%A7%94%E8%A8%97%E5%B0%88%E6%A5%AD%E6%9C%8D%E5%8B%99%E6%A1%88
+- https://www.facebook.com/TSAM20080509/posts/pfbid0rWLCXGxFXybbEwbSZRAmkMhTAMGCnsEi1k5nxycbE1RbqAkgz4BKT9Ag63WJK3qWl?locale=zh_TW
+
 ## 第一類：建築、植栽、土壤與水體二氧化碳排放
 
 ### 係數表：建物地貌單位面積每年碳排係數
