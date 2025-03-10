@@ -27,14 +27,26 @@ GA: UA-98468513-3
 
 Langfuse v3 clickhouse is taking up space:
 ```
+(2025/3/8 ~4PM)
 VOLUME NAME                                                        LINKS               SIZE
 answerfamily-deploy_langfuse_clickhouse_data                       1                   11.72GB
 answerfamily-deploy_langfuse_clickhouse_logs                       1                   1.881GB
 ```
 
+```
+(2025/3/10 ~7PM)
+VOLUME NAME                                                        LINKS               SIZE
+answerfamily-deploy_langfuse_clickhouse_data                       1                   14.14GB
+answerfamily-deploy_langfuse_clickhouse_logs                       1                   1.71GB
+```
+
+--> ~1GB per day......
+
 Clickhouse logs to stderr when disk is full, which is captured by cloud logging:
+![](https://g0v.hackmd.io/_uploads/rkO9Y42jkx.png)
+![](https://g0v.hackmd.io/_uploads/BkuXcE2ikg.png)
 
-
+Even after disk space is freed up, Clickhouse in docker would continue sending log to stderr until it is restarted
 
 Logs in volume:
 ![](https://g0v.hackmd.io/_uploads/BJtgvbnj1x.png)
