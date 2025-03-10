@@ -8,7 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- 線上出席：bil, nonumpa, T
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -17,8 +17,7 @@ GA: UA-98468513-3
 ### :star: Released to production
 
 #### :electric_plug: API
-
-- LLM transtript: https://github.com/cofacts/rumors-api/releases/tag/release%2F20250303
+- 3/3 晚間 LLM transtript: https://github.com/cofacts/rumors-api/releases/tag/release%2F20250303
 
 ## LLM transcript follow-up
 
@@ -85,24 +84,52 @@ Mitigation
     - Optimize storage usage https://github.com/orgs/langfuse/discussions/5687#discussioncomment-12323498
 - Logging issue
     - Don't send stderr to cloud logging for Clickhouse
-    - Investigate Clickhouse log
+    - Investigate Clickhouse log --> handle Clickhouse memory issue
+      - 是否是一啟動就在抱怨 memory
+      - 試著調整開給 clickhouse 的 memory
+
+## Spam removal 更新
+
+> https://cofacts.github.io/community-builder/#/editorworks?type=2&day=365&userId=gOhKQZUBYrjt7MSMEiku&showAll=1 這個外送茶沒被 LLM 抓出來耶 [name=mrorz]
+> comment 沒檢查 [name=nonumpa]
+> 發現這類型的詐騙訊息也有被送進 article 的，不確定是不是“正常” user 傳進來的
+https://cofacts.tw/article/ftick91dp54g [name=nonumpa]
+> Bingo
+https://cofacts.github.io/community-builder/#/editorworks?type=2&day=365&userId=j4S8C_VvVO5-QRczPhyOyfaL-VQU-D1BnonMpo7Ro2HWjjAIg&showAll=1 [name=mrorz]
+> 又出現了，他們好像很認真在巡邏喔？
+> ![](https://g0v.hackmd.io/_uploads/SkYBDUns1g.png)
+> [name=nonumpa]
+
+- article spam 偵測
+- blockUser script 會移除 article 嗎？會
 
 ## SITCON 學生計算機年會擺攤檢討
+
+![](https://g0v.hackmd.io/_uploads/BJmMtL3oJl.png)
+
 
 擺攤 for 年輕學生
 - 有大地遊戲：先加 Cofacts 好友才給蓋章（指向小戊傳單的 QR code）
   ![](https://g0v.hackmd.io/_uploads/SyZIeI2sJx.png)
-    - 小戊漫畫傳單非常有用
+    - 小戊漫畫傳單非常有用，可以指著漫畫講故事
+    - 有帶著做 tutorial 最後的「模擬送訊息進 Cofacts」
 - 摺頁傳單還是滿重要，應該加印
     - 被問到準確性問題，可以指著說明「會問有用程度」
     - 豆腐版印成 A3 字還是太小，站著的會眾看不清楚桌上的豆腐版傳單
     - 摺頁傳單上也有巨大 QR code，比小戊的大
+    - 但帶回家沒有太大用處，展覽時帶著一份就好 [name=bil]
+    - 可以印健豪 6 頁
 - 影響力傳單沒啥吸引力
+- 貼紙很有吸引力
+    - Logo 多切
+    - 貼紙要加印、加印時要加 Cofacts logo 在裡面 [name=bil]
 - 因為放大視野 & Oslo freedom forum 背板都有提 Cofacts 有用 AI，不少人來問用在哪裡
     - AI 回應傳單忘記帶，應該會很有用
     - 提到查核協作者培訓的機會不多
 - 看情況推新北志工
     - 「如果你有缺志工時數⋯⋯」
+- 影片：如果中間滿了，被擠到外面的人才會看
+- 要有水跟舒立效潤喉糖
 
 ## 大松
 - [ ] 台南好想
