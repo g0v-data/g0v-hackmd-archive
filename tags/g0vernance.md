@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v Slack 閱讀完畢的系統稱讚語句](../notes/N6bGxyqSRZaAnNSmBevZVg.md) | 2025-03-10T13:18:05+00:00 | 2023-08-06T10:19:54+00:00 |
+| 1 | [g0v Slack 閱讀完畢的系統稱讚語句](../notes/N6bGxyqSRZaAnNSmBevZVg.md) | 2025-03-12T13:35:45+00:00 | 2023-08-06T10:19:54+00:00 |
 | 2 | [g0v SNS 社群治理機制](../notes/THKRsDsNRXGsa_0zFUn3Gw.md) | 2025-03-01T14:37:00+00:00 | 2019-07-06T00:21:31+00:00 |
 | 3 | [g0v 行為守則 g0v Code of Conduct](../notes/XPzJRxsHT2CaOO5WZ5r-BA.md) | 2025-02-14T22:11:18+00:00 | 2017-08-21T03:57:16+00:00 |
 | 4 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2025-01-20T14:17:05+00:00 | 2018-08-30T07:19:57+00:00 |
