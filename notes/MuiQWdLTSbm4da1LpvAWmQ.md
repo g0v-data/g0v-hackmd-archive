@@ -9,11 +9,23 @@ tags: vtaiwan
 :::info
 本週活動預告
 邀請法國記者 Jean-Lou Fourquet 來分享他在做的平台（民主化演算法平台）[Tournesol](https://tournesol.app/)
+討論共筆：[20250312 Tournesol 團隊分享](/K0rHf4LwReaCchrW_m40hA) 
 :::
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 ### 自我介紹
-- 
+- Peter: NTU LAW, vTaiwan coordinator
+- Jean-Lou: journalist, YouTuber, Tournesol teammate 
+- Allen: app developer, vTaiwan participant
+- James: vote negative 
+- 翊婷：PHD on digital democracy 
+- Josh: PHD Student
+- Allison: high school student, international school 
+- T: g0v contributor, specially interested in cofacts and vTaiwan 
+- 承哲 / Shawn: Interaction design master student to be
+- Yuting: a HCI researcher, at NTU 
+- Tofus: design
+- Le: researcher in computer science, on cybersecurity / AI / digital democracy 
 ## 小小的分享
 - [Jigsaw 團隊訪談]
     - 受限於 NDA，把一些大綱內容摘要出來。
@@ -123,4 +135,12 @@ https://miro.com/app/board/uXjVLZs9XnE=/?share_link_id=22445569277
     - 可以來研究 [MCP](
 https://github.com/evalstate/mcp-miro) [name=tofus]
 - 比起硬要
-#### Argdown-
+
+#### Argdown-CodiMD
+- 已經有 build 出 local 的 CodiMD
+- 要加上 argdown 的 hilight.js
+- 預計可能 host 在 heroku 上面
+
+--- 
+## Tournesol.app
+https://tournesol.app/
