@@ -1,6 +1,6 @@
-"Welcome to Luxe Shoes
+Welcome to Luxe Shoes
 Top-rated Luxury Shoes Store
-In the fashion industry, luxury shoes are not just a symbol of status and taste but also a testament to the craftsmanship and innovation of designers."
+In the fashion industry, luxury shoes are not just a symbol of status and taste but also a testament to the craftsmanship and innovation of designers.
 Website:
 https://luxe-shoe.com/
 https://www.youtube.com/@luxeshoecom/about
