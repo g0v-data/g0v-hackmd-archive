@@ -4,14 +4,14 @@ image: https://raw.githubusercontent.com/g0v/style-guide/gh-pages/logo/png/g0v-l
 ---
 # g0v 國會松
 
-- [關於國會松](/Y6A2Ox-YRDS6ixtYw1BuoA?view)
-- [g0v 國會相關專案](/aa3ckptzS-CKinhmKCO7rA)
-- [開放國會行動方案](/S7ayQ2mcSs2nRpDjx451og)
+- [About g0v Congressth0n<br>關於國會松](/Y6A2Ox-YRDS6ixtYw1BuoA?view)
+- [Projects on LY<br>g0v 國會相關專案](/aa3ckptzS-CKinhmKCO7rA)
+- [2021-2024 Taiwan Open Parliament Action Plan<br>臺灣開放國會行動方案](/S7ayQ2mcSs2nRpDjx451og)
+- [Registration & Newsletter<br>g0v 國會松_活動報名連結<br>訂閱 g0v 國會松電子報 🔔](https://g0vcongressthon.oen.tw/)[target=_blank]
 - [國會松注意事項](/QGEtEn83Toy8n_aui13EXA)
-- [活動報名連結 &<br>訂閱 g0v 國會松電子報 🔔](https://g0vcongressthon.oen.tw/)
 
 ## 最新活動 👇
-- [20250215 第捌次國會松](/USWwNSnpRxyjcygqig6Dbw)
+- [20250316 第玖次國會松](https://g0vcongressthon.oen.tw/events/2ttCVK38tDOiog8URK6MWK6aQAU)[target=_blank]
 
 ## 歷次活動
 - [20250215 第捌次國會松](/USWwNSnpRxyjcygqig6Dbw)

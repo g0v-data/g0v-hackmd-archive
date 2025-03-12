@@ -3,6 +3,11 @@ tags: 國會松
 ---
 # 關於2024國會松
 
+### 2025.02.22 g0v 國會松籌辦經驗回顧分享影片
+
+<iframe width=100% height="390" src="https://www.youtube.com/embed/UIbzKmGZYP4?si=k-IDbnWOK33ZTn6K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ### 本共筆 QRCode
 https://s.g0v.tw/congressthon
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_855eda1d43b9514aa000812ffa921e3e.png)
@@ -41,8 +46,10 @@ g0v 是台灣的民主科技 R&D 場域，今年要來倉庫大整理。2024 g0v
 
 ### 行動吧！
 
-- [活動報名連結 & 訂閱 g0v 國會松的電子報 🔔](https://g0vcongressthon.oen.tw/)
+- [Registration & Newsletter g0v 國會松_活動報名連結 & 訂閱 g0v 國會松電子報 🔔](https://g0vcongressthon.oen.tw/)
+- [加入 g0v Slack 聊天頻道，立法院與國會資料主題頻道 👉 #ly](https://g0v.hackmd.io/@jothon/joing0vslack)
 - 共筆連結：https://s.g0v.tw/congressthon
+
 
 ----
 

@@ -15,6 +15,9 @@ tags: 公民科學
 4.  你認為與公民科學十分相關的領域，例如儀器自造、群眾募資、環境影響評估法的通過、部落自主運動...等等
 5.  浮現的討論，例如「科學」與「公民」的認定...
 
+2025.02.22
+<iframe width=100% height="450" src="https://www.youtube.com/embed/p34blwTIUo4?si=UicgKU5KJG23jlRV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width=100% height="450" src="https://www.youtube.com/embed/ikLSAemVUFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 常用工作連結
