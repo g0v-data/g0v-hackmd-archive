@@ -4,7 +4,7 @@ tags: vtaiwan
 # 0312 小松
 時間 Time ：19:00-20:00
 地點 Location ：線上 Online
-參與者 Participants: Peter
+參與者 Participants: Peter, Josh, 翊婷, yu-ting, 豆腐, james, 承哲, allison, 承哲
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
 :::info
 本週活動預告
@@ -13,6 +13,7 @@ tags: vtaiwan
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 ### 自我介紹
+- 
 ## 小小的分享
 - [Jigsaw 團隊訪談]
     - 受限於 NDA，把一些大綱內容摘要出來。
@@ -39,6 +40,20 @@ tags: vtaiwan
 - 強化整體設計的專業感與現代感
 :::
 - 成果：[figma 連結](https://www.figma.com/design/KrLf8HnypqWKGQUHaQxH67/Tofus-and-his-g0v-graphics!?node-id=213-59)
+### 討論
+- 原本的 logo 看不出設計理念，可以看得出來是兩個 V 交錯，期待可以看到V跟T的交錯，或者是 V 跟 Taiwan 的 logo 搭配在一起的設計 [name=T]
+    - 我是覺得用台灣圖形會有點不太俐落 [name=josh]
+- 分群的概念來設計 [name=allen]
+- 三個顏色拼成六角形 [name=承哲]
+- 我覺得設計理念非常好，很有意義，只是怕紅色加上太過對稱的形狀，會有點傳統中華風，想問問有沒有可能更年輕一點，不管是顏色或是形狀上做一點變異  [name=josh]
+- 而且形狀也是一個圓餅圖，表達意見比例，多重意義 [name=josh]
+- 可以將兩個章調整角度，可以看出來是不同的章 [name=allen]
+- 兩個章可以是不同顏色，凸顯不同意見的感覺 [name=josh]
+- 角度不要是 90 度，而是有一邊不用這麼對稱 [name=T]
+### 統整
+- 色塊 vs. 線條。
+- V 跟 T 的凸顯。
+- 不同意見的聚合。
 ## 1220 逐字稿與報告
 Josh分享[議題小聚#2「台灣的人工智慧應該如何規範？」報告書](https://docs.google.com/document/d/1kYIYbHdTctGBXrV-U3qivkzByV-uAxOAiS7fB_sGacU/edit?usp=sharing)
 - Josh: 逐字稿還不錯，感謝T跟Yu-Ting整理。已經盡量將內容精簡成報告，有很豐富的資料，但擔心報告太冗長。大家發言有很多很重要的內容，不想捨去刪除太多。或須得討論用Appendix參考資料的方式，去把審議過程的細節誠實呈現出來。
@@ -81,6 +96,31 @@ Josh分享[議題小聚#2「台灣的人工智慧應該如何規範？」報告�
 - online offline 的招募會有差別？
     - 大家都可以選擇 online / offline 
     - 
-#### 4/2 種子意見
+### 4/2 種子意見
 - [種子意見內容](https://docs.google.com/spreadsheets/d/1xXjnptMcKItVa_9o83R2gnxp-zDwliWnJjNMCK3mW18/edit)
 - 是否有其他方式可以收集到更多元的種子意見？
+
+## 利用 kialo 來做意見徵集的論點整理
+- 嘗試用 kialo 整理正反意見論點 [name=T]
+- 這一週我有嘗試用 Kialo 整理議題小聚的正反論點。發現 Kialo 功能不包含「中立」立場，所以改用 在 Miro 做初步整理，目前結果如下，今晚小松可以再跟大家做說明，有任何建議也歡迎提出~ :pray:
+    - 第1版參考 Kialo 的樹狀圖設計。
+    - 第2版進行改良，將相關的正反論點擺在一起，以方便觀看 (有點類似 Polis 將論點「群組」的概念)。
+    -  在 Miro 可觀看完整大圖：
+https://miro.com/app/board/uXjVLZs9XnE=/?share_link_id=22445569277
+### 設計重點
+- 中立意見放在中間
+- 意見中有部分同意與不同意的內容，以標色文字來標示
+- 箭頭：互相回應與爭論的內容
+- 第二版：將相關的立場分群
+
+### 問題
+- 想問一下，這個嘗試的目的是為了提供給沒有參與議題小聚的人理解當天的討論嗎？[name=yuting]
+    - 是其中之一，可以給參與當天的人進行回顧，另一個則是可以讓沒有參加的人可以跟上 [name=T]
+    - 甚至可以讓討論變得更 recursive [name=Peter]
+- 如何規模化或減少大家工作的時間？[name=josh] [name=yuting]
+    - 方法論的實驗 [name=T]
+- 是否可以利用自然語言處理，將意見向量化後放在不同的地方？[name=josh]
+    - 可以來研究 [MCP](
+https://github.com/evalstate/mcp-miro) [name=tofus]
+- 比起硬要
+#### Argdown-
