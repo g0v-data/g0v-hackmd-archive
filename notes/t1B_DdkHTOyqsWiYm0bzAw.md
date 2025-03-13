@@ -47,7 +47,8 @@ $ (echo; echo 'eval "$(/usr/local/bin/brew shellenv)"') >> /Users/APPLE/.profile
 - ``` ffmpeg -i input-file -ar 16000 -ac 1 -c:a pcm_s16le output.wav ```
     - 將目標影片檔案（或 mp3/m4a）轉換成純聲音 wave 檔
     - 把影片檔案（或 mp3/m4a）拉到「input-file」的地方（要把「input-file」刪掉）
-- ``` ./whisper.cpp/main -m ./whisper.cpp/models/ggml-medium.bin -l zh output.wav > output.txt ```
+- ``` ./whisper.cpp/build/bin/main -m ./whisper.cpp/models/ggml-medium.bin -l zh output.wav > output.txt ```
+- ``` ./whisper.cpp/build/bin/main -m ./whisper.cpp/models/ggml-large-v3.bin -l zh output.wav > output.txt ```
     - 使用 medium model 將 output.wav 轉成逐字稿，並存到 output.txt
     - 如果願意等久一點，可以把 ggml-medium 改成 ggml-large ，需要等更久但是結果會更精準
     - 如果要處理的不是中文的話，可以把 -l zh 改成 -l auto 自動判斷

@@ -5,8 +5,9 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 目錄
 [TOC]
 :::
-	
 
+    
+https://join.skype.com/p2NkbssUvTC1
 docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE_URL=http://127.0.0.1:11434 --name open-webui --restart always ghcr.io/open-webui/open-webui:main
 #### 常用連結
 Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
