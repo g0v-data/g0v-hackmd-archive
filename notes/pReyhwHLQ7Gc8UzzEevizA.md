@@ -1,7 +1,7 @@
 Khám phá cơ chế hoạt động của tủ hút ẩm máy ảnh 
 Tuỳ thuộc vào cấu tạo, dòng tủ, công nghệ hút ẩm sử dụng mà tủ chống ẩm có nguyên lý hoạt động khác nhau. Cụ thể như sau: 
 2.1 Với tủ hút ẩm dùng IC 
-Đây là công nghệ hút ẩm thông dụng hiện nay, được sử dụng trên nhiều loại tủ chống ẩm hiện đại. Cơ chế vận hành dựa trên công nghệ bán dẫn, hình thành môi trường hút khí ẩm từ trong tủ ra ngoài. 
+Đây là công nghệ hút ẩm thông dụng hiện nay, được sử dụng trên nhiều loại tủ chống ẩm hiện đại. Cơ chế vận hành dựa trên công nghệ bán dẫn, hôi trường hút khí ẩm từ trong tủ ra ngoài. 
 
 Khi tủ được cấp điện, IC sẽ hoạt động và khử hết không khí ẩm vào hộp ở phía sau tủ. Khi lượng ẩm gần đầy van sẽ mở để tống khí ẩm ra ngoài. 
 
