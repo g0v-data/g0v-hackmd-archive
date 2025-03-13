@@ -14,6 +14,8 @@ tags: 未來日誌
 
 討論類筆記
 - https://docs.google.com/spreadsheets/d/1I1GRbktwi_mNViZeUQvOyRPZfUz8HlZc4NkYyTK6cNA/edit
+- 紀念日及節日實施法
+    - https://lawtrace.tw/law/compare?source=meet:%E5%A7%94%E5%93%A1%E6%9C%83-11-3-15-4:01259
 
 其他參考
 - cronjob、Google calendar 自動化工具、用文字描述週期事件
