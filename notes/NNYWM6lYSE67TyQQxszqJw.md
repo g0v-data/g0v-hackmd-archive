@@ -62,6 +62,18 @@ There is some interesting information hidden around this site http://mercury.pic
 - ans:picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_35844447}
 
 ## medium
+### SOAP
+
+The web project was rushed and no security assessment was done. Can you read the /etc/passwd file?
+
+![](https://g0v.hackmd.io/_uploads/B13Xg-e2Je.png)
+
+![](https://g0v.hackmd.io/_uploads/Skm7WZgnkx.png)
+
+![](https://g0v.hackmd.io/_uploads/rke8Wblnye.png)
+
+![](https://g0v.hackmd.io/_uploads/Hye3D-Zghyl.png)
+
 ### Trickster
 - 打開後是一個要上傳png檔的網站
 ![](https://g0v.hackmd.io/_uploads/BydA7_dcye.png)
