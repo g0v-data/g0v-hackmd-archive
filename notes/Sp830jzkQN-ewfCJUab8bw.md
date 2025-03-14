@@ -68,6 +68,9 @@ https://www.facebook.com/share/p/19puoDTvVH/
 撿到，宜蘭的船長在台灣東北部海域作業發現這個衛星浮標
 https://www.facebook.com/groups/437659989769965/posts/2253695958166350/
 
+撿到，浮動迴聲測深儀
+https://www.facebook.com/share/p/16DqpskrVq/
+
 撿到，海域上的漂浮油管
 https://www.facebook.com/story.php?story_fbid=pfbid07fxxmunruhVYawt29xaG2cYsL4kXGE3fbnaDPoamKQ34zwvBDyqtCWRKwWKKeejkl&id=100064855503591&mibextid=tejx2t
 
