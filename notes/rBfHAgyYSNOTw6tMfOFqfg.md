@@ -69,6 +69,11 @@ https://youtu.be/D8wYpc4wgj8
 
 https://www.facebook.com/share/15repbf7df/
 
+## 地理資料面向
+
+提供描述文字，繪製出地理範圍
+https://www.facebook.com/share/r/15zB8zhUny/
+
 ## 影音內容處理
 
 影片摘要
