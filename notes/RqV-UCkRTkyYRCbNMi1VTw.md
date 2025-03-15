@@ -19,5 +19,14 @@ STP（Spanning Tree Protocol，生成樹協定）是一種 防止網路發生迴
 
 ![](https://g0v.hackmd.io/_uploads/Sy6J68fhJg.png)
 
-- SEGMENT
+- segment
 - CollisionDomain
+
+![](https://g0v.hackmd.io/_uploads/ryOSgPGhJe.png)
+選舉順序
+- 路徑
+- BID
+- PID
+- Port Number
+
+
