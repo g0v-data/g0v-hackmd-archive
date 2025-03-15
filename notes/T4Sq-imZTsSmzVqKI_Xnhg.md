@@ -46,8 +46,10 @@ https://ec.ltn.com.tw/article/breakingnews/4900354
 - 快門手的 dataset
     - https://github.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter
 
-### 可疑訊息查證
+### 可疑訊息查證 / 親友社會關係網絡
 - Cofacts 真的假的是一個透過群眾協作以及聊天機器人來做事實查核的可疑訊息查證平台，讓每一個不確定真假的訊息，都能透過群眾的共同努力，被好好檢視跟查核討論 https://cofacts.tw/
+- 【移？老娘開新房第4季第3集｜讓移工變成打擊詐騙的好幫手】
+    - https://www.facebook.com/tasat2003/posts/pfbid0qTisgCuwKozhjEGSTpuRfjPWa6r2gLen1DecANFVwmi8iKN5wgHXQPGNYvZLLtn4l
 
 ### 通報
 
@@ -91,6 +93,7 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
     - https://feja.org.tw/68040/
     - https://www.facebook.com/share/p/1XLbau46i9/
 - 兒少，議題講者：臺北市中山分局偵查隊小隊長 洪晨鐘 https://www.facebook.com/share/p/19m8XXeJZj/
+
 
 ### 待分類
 
