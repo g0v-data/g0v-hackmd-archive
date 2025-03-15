@@ -90,6 +90,8 @@ https://g0v.hackmd.io/R_BhZDNNQ-C8CAoTJ58ZSg
 居住經驗
 - 民間招募 居住議題受訪者
     - https://www.facebook.com/share/p/EUaAY84DR3go7Cvp/
+- 台灣住宅建築獎協會正在進行「當代居住行為與需求調查」，希望透過您的寶貴意見，深入了解當代人們的居住變化，為未來的住宅設計提供更好的方向！
+    - https://www.surveycake.com/s/d38M3
 - 國家人權委員會「探究我國青年面對購（租）屋困境下之社會發展權衝擊及影響」之研究，[相關問卷](https://forms.gle/7nXYs9GdexktASdr7)
 - 探討年輕世代對共享居住動機及其居住偏好之研究 https://www.facebook.com/share/p/1KDRgYC4ZM/
 - 2022.05 巢運整理居住議題的民眾問卷回答，並提出倡議事項，[網址](https://www.facebook.com/271852885166/posts/10166188795430167/)
