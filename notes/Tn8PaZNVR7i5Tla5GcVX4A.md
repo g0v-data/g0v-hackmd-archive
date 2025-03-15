@@ -1,8 +1,11 @@
 ---
-tags:
+tags: korea
 ---
 
 # 韓國
+
+
+## tour 
 
 todo 2024.12 首爾遊程筆記
 
@@ -32,3 +35,15 @@ https://www.facebook.com/share/1Ai6GUY8BA/
 
 蒐集
 - 輪椅輔具出遊心得 https://www.facebook.com/share/p/15EJ6hnkJK/
+
+
+## data
+
+逛到韓國 Korea Open Government License (공공누리)，還在嘗試理解這個與 CC 授權系統之間有沒有對應關係
+
+筆記文件
+https://g0v.hackmd.io/X-kuQPmORn27pzEqRS2qkw
+
+## society 
+
+https://g0v.hackmd.io/@jothon/ctpbook_en/%2FVXQrJQ89Sw2p7AsOA8JvLg

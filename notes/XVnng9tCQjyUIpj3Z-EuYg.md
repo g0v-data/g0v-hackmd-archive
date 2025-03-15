@@ -1,121 +1,17 @@
-VicClub là cổng game bài đổi thưởng hàng đầu châu Á, với đa dạng trò chơi từ bắn cá, nổ hũ, game bài, casino. VicClub có đội ngũ chăm sóc khách hàng 24/7 sẳn sàng hỗ trợ khách hàng
-Website: https://discman.io/
-Số điện thoại:  0589669866
-Địa chỉ: 222 Phan Văn Hân, Phường 17, Quận Bình Thạnh
-Hastag:  #VicClub, #cong_game_VicClub, #cacuoc_VicClub, #cadoVicClub, #linkVicClub, #trangchuVicClub, #nhacaiVicClub, #link_VicClub
-Website:https://discman.io/
-Twitter:https://x.com/discmanio
-Youtube:https://www.youtube.com/@pg88pe
-Pinterest:https://www.pinterest.com/discmanio/
-Gravatar:https://gravatar.com/discmanio
-https://www.youtube.com/@discmanio
-https://x.com/discmanio
-https://www.tumblr.com/discmanio
-https://flipboard.com/@discmanio/vicclub-v3hqsdj7y
-https://issuu.com/discmanio
-https://justpaste.it/f4uf7
-https://myspace.com/discmanio
-http://onlineboxing.net/jforum/user/edit/362418.page
-https://www.behance.net/vicclubtrangch
-https://www.pearltrees.com/discmanio
-https://www.trepup.com/@discmanio
-https://coub.com/3c4d243acee925c7679a
-https://www.metooo.io/u/67d52d433ad535736037b9a7
-https://profile.hatena.ne.jp/discmanio/
-https://hub.docker.com/u/discmanio
-https://www.twitch.tv/discmanio/about
-https://www.instapaper.com/p/15999881
-https://miarroba.com/discmanio
-https://qiita.com/discmanio
-https://letterboxd.com/discmanio/
-https://www.magcloud.com/user/discmanio
-https://wakelet.com/@discmanio
-https://fliphtml5.com/homepage/mesfk/vicclub/
-https://www.gta5-mods.com/users/discmanio
-https://app.talkshoe.com/user/discmanio
-https://www.pinterest.com/discmanio/
-https://pad.fs.lmu.de/s/UVdEAfgfL
-https://pad.stuvus.uni-stuttgart.de/s/-nOwh8fy7
-https://hedgedoc.k8s.eonerc.rwth-aachen.de/s/LzaOsDKWC
-https://leetcode.com/u/discmanio/
-https://hedgedoc.digillab.uni-augsburg.de/s/WjxfMBJN0
-https://rentry.co/h6osyhhe
-https://magic.ly/discmanio
-https://taylorhicks.ning.com/profile/VicClub
-https://triberr.com/discmanio
-https://play.eslgaming.com/player/20599979/
-https://developers.maxon.net/forum/user/discmanio
-https://hedgedoc.eclair.ec-lyon.fr/s/BQtoFIE3L
-https://pad.stuve.uni-ulm.de/s/jR32-9SFk
-https://stepik.org/users/1033800635/profile
-https://hedge.fachschaft.informatik.uni-kl.de/s/YDVSEfzh0
-http://duvidas.construfy.com.br/user/discmanio
-https://gravatar.com/rebelsoftly62116bdc27
-https://www.skool.com/@vicclub-trang-chu-5927
-https://oye.participer.lyon.fr/profiles/vicclub/activity
-https://www.pubpub.org/user/vicclub-pubpub
-https://hack.allmende.io/s/0ShDHhUkc
-https://ask.embedded-wizard.de/user/discmanio
-http://80.82.64.206/user/discmanio
-https://www.buzzbii.com/discmanio
-https://wibki.com/discmanio
-https://pad.coopaname.coop/s/fiA4vB6Dz
-https://500px.com/p/discmaniovn?view=photos
-https://connect.garmin.com/modern/profile/f9b59013-4c88-4d8e-a24f-58a8e75f542e
-https://www.babelcube.com/user/vicclub-furryfederation
-https://www.ilcirotano.it/annunci/author/discmanio/
-https://galleria.emotionflow.com/144414/profile.html
-https://www.vid419.com/home.php?mod=space&uid=3414549
-https://cointr.ee/discmanio
-https://thearticlesdirectory.co.uk/members/discmaniovn/
-https://jobs.westerncity.com/profiles/6247540-discmaniovn-gmail-com
-https://linksta.cc/@discmanio
-https://www.ohay.tv/profile/discmanio
-https://zenwriting.net/569nuhbuid
-https://heylink.me/discmanio
-http://jobboard.piasd.org/author/discmanio/
-https://fyers.in/community/member/ICSGynOJV9
-https://schoolido.lu/user/discmanio/
-http://psicolinguistica.letras.ufmg.br/wiki/index.php/Usu%C3%A1rio:Discmanio
-https://www.proarti.fr/account/discmanio
-https://community.m5stack.com/user/discmanio
-https://glitch.com/@discmaniovn
-https://travelwithme.social/discmanio
-https://wiki.prochipovan.ru/index.php/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Discmanio
-https://pad.darmstadt.social/s/3FtxK-tuO
-https://mozillabd.science/wiki/User:Discmanio
-https://www.ganjingworld.com/vi-VN/channel/1hgbts7fca36xoIavcuH7BxNQ12q0c?tab=about&subtabshowing=latest&subTab=all
-https://drill.lovesick.jp/drilldata/index.php?discmanio
-https://40th.jiuzhai.com/space-uid-3290053.html
-https://my.clickthecity.com/discmanio/likes
-https://www.rwaq.org/users/discmaniovn-20250315140439
-https://www.aoezone.net/members/discmanio.144282/#about
-https://cadillacsociety.com/users/discmanio/
-https://bulkwp.com/support-forums/users/discmanio/
-https://klotzlube.ru/forum/user/317104/
-https://findaspring.org/members/discmanio/
-https://huzzaz.com/collection/discmanio
-https://omiyou.com/discmanio
-https://www.mountainproject.com/user/202011238/vicclub-uhilhki
-https://www.yanyiku.cn/home.php?mod=space&uid=5486972
-https://www.theyeshivaworld.com/coffeeroom/users/discmanio
-https://www.bitsdujour.com/profiles/n9WUaA
-https://www.notebook.ai/users/1018810
-https://moparwiki.win/wiki/User:Discmanio
-https://cuchichi.es/author/discmanio/
-https://bandori.party/user/267873/discmanio/
-https://gitlab.com/discmanio
-https://www.nintendo-master.com/profil/discmanio
-https://www.pub100s.com/members/discmanio/profile/
-https://www.clickasnap.com/profile/discmanio
-https://blacksocially.com/discmanio
-https://videos.muvizu.com/Profile/discmanio/Latest
-https://kitsu.app/users/1578091
-https://www.fiskesnack.com/member/48280-discmanio
-https://olderworkers.com.au/author/discmaniovngmail-com/
-https://dreevoo.com/profile.php?pid=769227
-https://formulamasa.com/elearning/members/discmanio/?v=96b62e1dce57
-https://www.bondhuplus.com/discmanio
-https://zumvu.com/discmanio/
-http://www.haxorware.com/forums/member.php?action=profile&uid=366662
-https://www.blackhatprotools.info/member.php?223300-discmanio
+Top88 | tự hào là cổng game đổi thưởng đẳng cấp với hàng loạt trò chơi hấp dẫn. Hoạt động minh bạch, được cấp phép bởi cơ quan nhà nước, Top88 đặt trụ sở tại Swan Street, Manchester, Anh Quốc. Được đánh giá cao nhờ tỷ lệ trả thưởng vượt trội, mức phí thấp, và dịch vụ khách hàng hàng đầu.
+Website: https://bear-software.com/
+Số điện thoại: 0983342135
+Địa chỉ: 35 Đ. Calmette, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam
+Hastag: #top88, #nhacai_top88, #cacuoc_top88, #cadotop88, #linktop88, #trangchutop88, #nhacaitop88, #link_top88, #top88, #nha_cai_top88, #top88enet, #top88e_net
+
+Youtube : https://www.youtube.com/@bearsoftware1
+
+X : https://x.com/bearsoftware1
+
+Tumblr : https://www.tumblr.com/bearsoftware1
+
+Pinterest : https://www.pinterest.com/bearsoftware1
+
+Reddit : https://www.reddit.com/user/bearsoftware1
+
+Gravatar : https://gravatar.com/bearsoftware1
