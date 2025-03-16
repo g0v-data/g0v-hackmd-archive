@@ -56,3 +56,7 @@ https://www.facebook.com/shima.ame.lab
 九州作為大型戰爭的避難收容地區
 https://www.facebook.com/share/p/1682CYaEeV/
 
+COG2024【チャレンジ！！オープンガバナンス】市民と行政の新たな協働で進化を遂げる公共圏をめざす 東京大学公共政策大学院発の地域課題解決コンテスト9年目！
+日時：2025年3月16日　10時30分～18時15分
+https://park.itc.u-tokyo.ac.jp/padit/cog2024/
+https://peatix.com/event/4296712/
