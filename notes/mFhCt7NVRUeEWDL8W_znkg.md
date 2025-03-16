@@ -8,6 +8,11 @@ tags: 國會松
 :::danger
 # 快速連到本頁面網址：`s.g0v.tw/congressthon`
 :::
+![](https://g0v.hackmd.io/_uploads/Syl5Y3JE3kl.png)
+
+# 報名連結
+
+https://g0vcongressthon.oen.tw/events/2ttCVK38tDOiog8URK6MWK6aQAU
 
 :::success
 報名流程及注意事項
@@ -16,9 +21,6 @@ tags: 國會松
 3. 歡迎大家在本頁下方的「討論區」交流，寫下你對於講者簡報、直播影片的看法，互相學習、增廣見聞～
 :::
 
-# 報名連結
-
-https://g0vcongressthon.oen.tw/events/2ttCVK38tDOiog8URK6MWK6aQAU
 
 # 共筆區
 
