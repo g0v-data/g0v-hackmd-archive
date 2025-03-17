@@ -42,7 +42,34 @@ https://lin.ee/1QUzEX4nI
 
 > Design doc: https://g0v.hackmd.io/@cofacts/rd/%2Fum7DyY_ESbu2LL78kLw3pg
 
+https://github.com/cofacts/takedowns/pull/184
+
+- API & Body format
+- PR check
+- Take action after merge
+
 ### [Comm] LLM transcript
 
-Pricing update
+Pricing update: Still ~= 100USD per month
+
+![](https://g0v.hackmd.io/_uploads/ry8mjBShkl.png)
+
+Langfuse estimations are somehow larger ![](https://g0v.hackmd.io/_uploads/B1eAoHHn1e.png)
+
+## Langfuse update
+
+- Clickhouse: 把 clickhouse config 拉出來，關閉了一堆 log 也做了很多設定（參考 https://chatgpt.com/share/67d12291-0048-800b-9a9e-b0c7eae6e45c ）
+    - Turn off loggers in tables
+    - `max_concurrent_queries` to 4
+    - Lower `background_pool_size` and related pools
+    - Lower `mark_cache_size` to 128M
+    - `max_server_memory_usage_to_ram_ratio` to 0.5 (4GB * 0.5 = 2GB)
+- 在本機用 docker-compose `mem_limit: 2000m` 限制 clickhouse RAM --> 沒事
+- 在 staging 啟動 Clickhouse 就會噴 error 
+    > <Error> MergeTreeBackgroundExecutor: Exception while executing background task {...}: Code: 241. DB::Exception: (total) memory limit exceeded: would use 2.64 GiB (attempt to allocate chunk of 4361808 bytes), current RSS 1.48 GiB, maximum: 2.64 GiB. (MEMORY_LIMIT_EXCEEDED), Stack trace (when copying this message, always include the lines below):
+- 把 elasticsearch 先停掉、清掉 system tables 後重啟 clickhouse
+    - 沒有一直噴 error
+    - 好像好了
+    
+## Link to MyGoPen
 
