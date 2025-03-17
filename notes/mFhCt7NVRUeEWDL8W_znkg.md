@@ -24,4 +24,8 @@ https://g0vcongressthon.oen.tw/events/2ttCVK38tDOiog8URK6MWK6aQAU
 
 # 共筆區
 
+本次活動的影片：(待補充)
 
+網站的使用經驗回饋
+- 法案比較表的橫向閱讀開展
+- 等
