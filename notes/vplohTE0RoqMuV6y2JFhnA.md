@@ -8,7 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
+- 線上出席：bil, nonumpa, mrorz, T
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -22,12 +22,14 @@ GA: UA-98468513-3
 
 #### :robot_face: rumors-line-bot
 
+- https://github.com/cofacts/rumors-line-bot/pull/404
+
 ##### Testing checklist
 
 https://lin.ee/1QUzEX4nI
 
-- [ ] 應可送出「全新影片訊息」
-    - [ ] 同意送出訊息後就會送出訊息，並得到正常逐字稿
+- [x] 應可送出「全新影片訊息」
+    - [x] 同意送出訊息後就會送出訊息，並得到正常逐字稿
 
 ##### ⛔️ Release Blockers
 ##### 未竟項目
@@ -65,6 +67,7 @@ Langfuse estimations are somehow larger ![](https://g0v.hackmd.io/_uploads/B1eAo
     - Lower `mark_cache_size` to 128M
     - `max_server_memory_usage_to_ram_ratio` to 0.5 (4GB * 0.5 = 2GB)
 - 在本機用 docker-compose `mem_limit: 2000m` 限制 clickhouse RAM --> 沒事
+    - 空的 clickhouse 其實是可以運作在 2GB ram 的機器上
 - 在 staging 啟動 Clickhouse 就會噴 error 
     > <Error> MergeTreeBackgroundExecutor: Exception while executing background task {...}: Code: 241. DB::Exception: (total) memory limit exceeded: would use 2.64 GiB (attempt to allocate chunk of 4361808 bytes), current RSS 1.48 GiB, maximum: 2.64 GiB. (MEMORY_LIMIT_EXCEEDED), Stack trace (when copying this message, always include the lines below):
 - 把 elasticsearch 先停掉、清掉 system tables 後重啟 clickhouse
@@ -78,6 +81,7 @@ Langfuse estimations are somehow larger ![](https://g0v.hackmd.io/_uploads/B1eAo
 > 1. 這user分享到cofacts後，要如何刪除或編輯？
 > 2. user反應cofacts AI界面問是否分享案例，user當時單純想分享請cofacts幫忙查，但並沒有想要PO上網路，這部份cofacts是否可考慮在AI界面上說清楚"分享案例"的實際作為就是cofacts送上網，避免user將敏感資訊送上cofacts網路然後又沒有地方可以刪除或編輯
 > 3. MYGOPEN是cofacts客服？
+>
 > [name=robin]
 
 > 去年的討論 XD https://g0v.hackmd.io/@cofacts/meetings/%2FUaO0a5gETTeRTP8sH7NGlg#%E9%80%81%E5%87%BA%E8%A8%8A%E6%81%AF-wording 關於 2 的部分，後來我們改了送出訊息的流程，現在非常明確就是公開在網站上，也確定公開的意願
@@ -92,5 +96,17 @@ Langfuse estimations are somehow larger ![](https://g0v.hackmd.io/_uploads/B1eAo
 > 使用者不應該要不認真閱讀文字
 > [name=nonumpa]
 
+    
+:::info
+- 開票設計表單的部分
+- 考慮拿掉 MyGoPen 的連結
+:::
 
+## 小聚籌備
+
+3/29 大松
+
+4/20 (日) 2pm
+- OK: orz, nonumpa, bil
+- 辦在青職基地
     
