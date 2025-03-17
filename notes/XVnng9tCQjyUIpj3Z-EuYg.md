@@ -1,17 +1,16 @@
-Top88 | tự hào là cổng game đổi thưởng đẳng cấp với hàng loạt trò chơi hấp dẫn. Hoạt động minh bạch, được cấp phép bởi cơ quan nhà nước, Top88 đặt trụ sở tại Swan Street, Manchester, Anh Quốc. Được đánh giá cao nhờ tỷ lệ trả thưởng vượt trội, mức phí thấp, và dịch vụ khách hàng hàng đầu.
-Website: https://bear-software.com/
-Số điện thoại: 0983342135
-Địa chỉ: 35 Đ. Calmette, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam
-Hastag: #top88, #nhacai_top88, #cacuoc_top88, #cadotop88, #linktop88, #trangchutop88, #nhacaitop88, #link_top88, #top88, #nha_cai_top88, #top88enet, #top88e_net
+Nohu - NOHUWIN Trải nghiệm thế giới giải trí đỉnh cao tại Nohu với đa dạng trò chơi, khuyến mãi khủng, giao diện thân thiện và bảo mật tuyệt đối. Tham gia ngay!
+Website: http://nohu1.win/
+Số điện thoại: 0783225757
+Địa chỉ: 246 Phan Chu Trinh, An Cựu, Huế, Thành phố Huế, Việt Nam
+Hastag: #nohu #nhaccainohu, #nhaccai_nohu #linknohu
 
-Youtube : https://www.youtube.com/@bearsoftware1
+X : https://x.com/nohu1win
 
-X : https://x.com/bearsoftware1
+Youtube : https://www.youtube.com/@nohu1win
 
-Tumblr : https://www.tumblr.com/bearsoftware1
+Pinterest : https://www.pinterest.com/nohu1win
 
-Pinterest : https://www.pinterest.com/bearsoftware1
+Tumblr : https://www.tumblr.com/nohu1win
 
-Reddit : https://www.reddit.com/user/bearsoftware1
+Reddit : https://www.reddit.com/user/nohu1win/
 
-Gravatar : https://gravatar.com/bearsoftware1

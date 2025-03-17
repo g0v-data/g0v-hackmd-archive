@@ -1,3 +1,12 @@
+DA88 là một trong những nhà cái hàng đầu, mang đến cho người chơi một không gian cá cược an toàn và uy tín. Với nền tảng công nghệ hiện đại, HUBET cam kết cung cấp cho bạn trải nghiệm mượt mà và dễ dàng truy cập trên mọi thiết bị.
+Thương hiệu: Da88
+Website: https://da88.capital/
+Địa chỉ: 14 Nguyễn Trọng Lội, Phường 4, Tân Bình, Hồ Chí Minh, Việt Nam
+Email:contact@da88.capital
+Phone: 0919.396.898
+Hastags: #DA88 #nhacaiDa88 #trangchuDa88 
+
+
 https://x.com/da88capitalvn
 https://www.pinterest.com/da88capitalvn1/_profile/
 https://www.youtube.com/@da88capitalvn
