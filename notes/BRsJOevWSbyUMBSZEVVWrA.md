@@ -246,6 +246,7 @@ Can use Opentelemetry + Google cloud tracing
 - Project WTF - Widen The Funnel
     1. 認知到假訊息問題
         - DTL、IORG、假清、黑熊也在做
+        - [假訊息認知調查](https://feja.org.tw/77922/)：95% received fake news, 
     2. 使用 Cofacts LINE bot
         - 目前沒人其他人幫忙
         - 媒體露出
