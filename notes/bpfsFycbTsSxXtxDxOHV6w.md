@@ -1,8 +1,8 @@
-GreatWhip
+Zhuzhou Xingzhou Carbide Co., Ltd.
 
-https://www.onehelium.com/
-E-mail: info@grtsupply.com
-WhatsApp: +86 136 1298 2115
-Address: Room 3003, Tower 1, Poly Business Center, Shunde District, Foshan, Guangdong
+https://www.xzcarbide.com/
+Phone : +8613607332279
+E-mail: info@xzcarbide.com
+Address: Plant2, Changjiangnan Rd, Tianyuan Dist, Zhuzhou, CN.
 
-Helium gas tan
+Tungsten Carbide Wear Parts
