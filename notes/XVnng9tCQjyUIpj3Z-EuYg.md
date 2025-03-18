@@ -51,13 +51,7 @@ https://miarroba.com/nohuvip2
 https://letterboxd.com/nohuvip2/
 https://qiita.com/nohuvip2
 https://www.magcloud.com/user/nohuvip2
-https://medium.com/@nohu1vip/nohuvip2-e05e1ab5ad55
-
-
-
-
-
-
+https://medium.com/@noh
 
 
 
