@@ -1,8 +1,9 @@
-Zhuzhou Xingzhou Carbide Co., Ltd.
+Hunan Outai International Trading Co., Ltd.
 
-https://www.xzcarbide.com/
-Phone : +8613607332279
-E-mail: info@xzcarbide.com
-Address: Plant2, Changjiangnan Rd, Tianyuan Dist, Zhuzhou, CN.
+https://www.outiger.com/
+Tel: +86 15367935330
+Email: xiaoyaowushang0525@gmail.com
+Address: 2049, Block B, Shijing International Plaza, Kaiyuan East Road, Changsha County, Hunan Province, China
 
-Tungsten Carbide Wear Parts
+
+
