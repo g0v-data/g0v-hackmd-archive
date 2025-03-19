@@ -56,6 +56,7 @@ tags: vtaiwan
         - 除了瀏覽型的使用者，其他使用者有什麼需求
         - 為什麼會來訪網站
         - 在哪裡知道 vtaiwan 
+- 綜合大家的願景和使用者的需求後整理網站的資訊架構 [name=yuting]
 
 ## 目前確定的結論
 - 做一個 landing page 連結其他的功能
@@ -66,7 +67,7 @@ tags: vtaiwan
     - 想要了解 vTaiwan 的人需要知道的
         - vTaiwan 基本介紹
             - vTaiwan 的歷史
-            - 大事記：可以把現在已經Archive的議題變成時間軸之類的 [name=joey]
+            - 大事記：可以把現在已經 Archive 的議題變成時間軸之類的 [name=joey]
             - vTaiwan 的程序有何特殊之處？
         - 如何參與
         - vTaiwan FAQ 
@@ -77,12 +78,11 @@ tags: vtaiwan
             - 最近在處理的議題
             - 議題小聚的活動資訊
         - 其他專案的共筆連結
-    - 
+            - 專案案例資料表 airtable
 
 ## 待辦事項：
 - 於小松徵集大家的願景與功能 
-    - 
 - 希望利用一次大松來說明這件事。
-    - 3/29 的大松
+    - 3/29 的大松 https://g0v-jothon.kktix.cc/events/g0v-hackath66n
     - 可以擴充一下提案共筆，拿來投[資金池](https://g0v.hackmd.io/@jothon/20250329-bonus)
         - slides 

@@ -17,13 +17,11 @@ tags: vtaiwan
 - joey:現在在數位實中就讀高一！現在不太方便開麥，會以文字訊息的方式參與！三個關鍵字是：科技工具、議題探索、攝影 
 - T: 轉職前端工程師、對 cofacts 與 vtaiwan 有興趣
 - 宇亭：NTU RA 
+- Joshua
+- AN
 
-## 小小的分享
+## 網站改版 小小的分享
 - [vTaiwan 網站改版，啟動！](/Q3_hgovyRHusEq8-3nomPQ)
-
-## 網站
-- [網站改版](https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/S1V39jMnJx)
-- 
 
 ## 主視覺設計
 - [介紹影片](https://www.youtube.com/watch?v=d5wk8MBiYGk&ab_channel=TofusWang)
@@ -113,9 +111,16 @@ https://xeqidu-liqoxe.zeabur.app
     - miro board 的程序會需要標準化
 - 如果使用 AI 的工具，如何建立大家對於這個工具的信任很重要。[name=peter] [name=T]
 - 方向上可以是想一個流程，限縮 AI 幻覺的程度
-    - 其實可能不用 AI，而是整理從不同意到同意的不同陣營發言有哪些，就會蠻有效的。
-    - 
+    - 其實可能不用 AI，而是整理從不同意到同意的不同陣營發言有哪些，就會蠻有效的。[name=josh]
+- 相關案例：
+    - https://japanchoice.jp/polis/digital
+    - https://tttc-turbo.web.app/report/taiwan-zh
 ## 0402 議題小聚
 - 延期到五月
+- 希望可以招募
 - 議題小聚3（也是跟TWNIC合作）的1.第一輪種子意見 2.POLIS文案 目前都已經在這個[「TWNIC資料」資料夾](https://drive.google.com/drive/folders/1usx2AgoPGzEEO0imI0bZHUmwU9EMy8HZ?usp=share_link)
-
+- 今天有跟陶振超老師討論
+- [招募參與者規劃](https://docs.google.com/document/d/1Pm_u9L5jzJPLusZwTULFgB5nvmqof_FUeWVIX_yRSS0/edit?tab=t.0)
+- 如果是在 slack 招募的話：就不填寫抽樣的問卷
+- 隨機招募：例如 FB 廣告
+- 簡單版：https://viewpoints.xyz/
