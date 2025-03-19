@@ -10,10 +10,20 @@ tags: vtaiwan
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 ### 自我介紹
-
+- Peter：法律人、研究生、寫論文
+- 翊婷：phd 學生、做田野
+- tofus: 大學生、休學、改一下 vTaiwan 
+- chewei：揪松團志工 3/29 資金池計劃
+- joey:現在在數位實中就讀高一！現在不太方便開麥，會以文字訊息的方式參與！三個關鍵字是：科技工具、議題探索、攝影 
+- T: 轉職前端工程師、對 cofacts 與 vtaiwan 有興趣
+- 宇亭：NTU RA 
 
 ## 小小的分享
 - [vTaiwan 網站改版，啟動！](/Q3_hgovyRHusEq8-3nomPQ)
+
+## 網站
+- [網站改版](https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/S1V39jMnJx)
+- 
 
 ## 主視覺設計
 - [介紹影片](https://www.youtube.com/watch?v=d5wk8MBiYGk&ab_channel=TofusWang)
@@ -77,7 +87,35 @@ Josh分享[議題小聚#2「台灣的人工智慧應該如何規範？」報告�
 - 如果以議題小聚想要達到的目的，可能一個目標是 kialo 這樣的平台，可以視覺化裡面的不同意見。[name=T]
     - 可以具有擴充性
     - 不過議題小聚的討論如果是面對面討論，有的時候很難達到類似的效果。[name=josh]
-
+### 互動網頁 proposed by 承哲
+:::info
+在這幾次討論中有討論到，如何把議題聚的報告轉成容易給大家閱讀的狀態
+目前流程是這樣
+會議語音檔 + Mentimeter紀錄  -> AI 逐字稿 -> 報告書 -> T做出來的議題回應互動
+目前看起來比較可能用AI製作的部分是報告書產生議題回應互動
+除了會以行動裝置端製作之外
+想跟大家討論有哪些互動的方式
+有助於民眾去理解這次議題聚的討論
+理想上是 我們會慢慢摸出一個報告書固定會生成的互動內容
+以後只要把結構化的資料丟進去AI後 就能生成一個新的互動報告
+我想到的有：
+議題回應互動 （看起來可以串Miro MCP生成)
+投票結果變遷
+關鍵字分析
+下面是我簡單用報告書 丟進去Cursor後生成的網頁 看起來只要把網站架構指令完善
+應該就能產出一份還不錯的互動報告
+https://xeqidu-liqoxe.zeabur.app
+:::
+- 短期來說，感覺串 [miro網站](https://miro.com/app/board/uXjVLZs9XnE=/?share_link_id=364987444586) [name=T]
+    - 意見還是需要用人工整理
+    - 目前的做法是用雅婷逐字稿來抓內容
+- 如果程序是有結構的，能夠自動化處理的程度越高，越多人會想要用
+    - miro board 的程序會需要標準化
+- 如果使用 AI 的工具，如何建立大家對於這個工具的信任很重要。[name=peter] [name=T]
+- 方向上可以是想一個流程，限縮 AI 幻覺的程度
+    - 其實可能不用 AI，而是整理從不同意到同意的不同陣營發言有哪些，就會蠻有效的。
+    - 
 ## 0402 議題小聚
 - 延期到五月
-- 處理
+- 議題小聚3（也是跟TWNIC合作）的1.第一輪種子意見 2.POLIS文案 目前都已經在這個[「TWNIC資料」資料夾](https://drive.google.com/drive/folders/1usx2AgoPGzEEO0imI0bZHUmwU9EMy8HZ?usp=share_link)
+
