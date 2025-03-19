@@ -78,4 +78,4 @@
 * [林祐生(剴剴外婆友人)臉書](https://www.facebook.com/kevinlin3160/posts/pfbid0dLRybhBiErYSyVHEAcuXzsaMqHykgVnFPUHPTPLaWVYPqg9YMS1zRPeGntHoTyGRl)
 * 2022年兒童及少年保護個案人數計11,950人，受虐兒少性別以女性6,669人(占55.8%)較多，受虐兒少年齡則以「12-未滿15歲」3,073人(占25.7%)為最多，其次為「15-未滿18歲」2,701人(占22.6%)，另未滿6歲之受虐兒少亦有2,659人(占22.3%)。
 * [保母家「環境髒亂、瀰漫菸味」…剴剴案北市府報告出爐　劉彩萱虐童完整時序曝](https://ctinews.com/news/items/kYaDqYGNx9)
-* 
+* [【懶人包】凱凱疑遭劉姓保母姊妹凌虐死　「出養始末、虐待手法、案件時間」一次看懂](https://www.upmedia.mg/news_info.php?Type=24&SerialNo=226211)
