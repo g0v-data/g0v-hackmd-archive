@@ -22,6 +22,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #general-en #general English version
 #general-ja #general Japanese version
 #general-ko #general Korean version
+#korea
 #japanese
 #tainan 台南討論群組！
 #kaohsiung 高雄討論群組！

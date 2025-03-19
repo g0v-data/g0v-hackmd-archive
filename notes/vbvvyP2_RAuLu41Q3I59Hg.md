@@ -16,7 +16,7 @@ tags: vtaiwan
 - chewei：揪松團志工 3/29 資金池計劃
 - joey:現在在數位實中就讀高一！現在不太方便開麥，會以文字訊息的方式參與！三個關鍵字是：科技工具、議題探索、攝影 
 - T: 轉職前端工程師、對 cofacts 與 vtaiwan 有興趣
-- 宇亭：NTU RA 
+- 宇亭：NTU RA, HCI, 社會學, 前端
 - Joshua
 - AN
 

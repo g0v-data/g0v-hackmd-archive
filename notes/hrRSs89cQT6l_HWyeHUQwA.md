@@ -9,7 +9,7 @@ tags: 公有地大行動
 
 ## 活動
 
-- [2024 都市再生學苑議題小組](https://g0v.hackmd.io/HBZfoiCsQNOd2pItf-ye8A?view)
+- [2024-2025 街區營造願景](https://g0v.hackmd.io/HBZfoiCsQNOd2pItf-ye8A?view)
 - [20230922 文化大學課程分享](https://g0v.hackmd.io/cpxlketDS8-opsiv4Jjxhw?view)
 - [20230515 東吳大學課程分享](https://docs.google.com/presentation/d/1HDaX3WZbt0u2_ao0_McyFkZlw-MLW4qBTvC7LTBmPEQ/edit)
 - [20221020 社群活動](https://g0v.hackmd.io/unMrMO3KRe2tdd52JmybmQ)
