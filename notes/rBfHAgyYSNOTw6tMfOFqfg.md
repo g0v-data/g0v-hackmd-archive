@@ -68,6 +68,10 @@ https://www.facebook.com/share/p/15e75K8GKF/
 彙整政府文件，問答摘要
 https://youtu.be/D8wYpc4wgj8
 
+## 劇本創作
+
+https://www.facebook.com/share/p/15bgbpm69Q/?mibextid=wwXIfr
+
 ## 視聽通用溝通輔助
 
 https://www.facebook.com/share/15repbf7df/
