@@ -22,6 +22,15 @@ GitHub：
 - https://github.com/SeanGau/joinplus-collage
 :::
 
+:::warning 
+簡介影片
+<iframe width=100% height="315" src="https://www.youtube.com/embed/BzEZNKJlSzc?si=qyYjuUJ9w7jvZj-L&amp;start=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+簡報：https://docs.google.com/presentation/d/1uilk4kIXIOhkbFiCUGSW690GvlJkI4hIwOsVlV1xE8o/edit?usp=sharing
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKeUUPlwEIBG3eJcrqY0xdiuKwjn6iNqi_UHaiiCxGsIy_AQAvH_P_ovO1qEvB2CxoAvsQVRkM8wc3/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+:::
+
 ### 裝置測試
 
 #### 手機
