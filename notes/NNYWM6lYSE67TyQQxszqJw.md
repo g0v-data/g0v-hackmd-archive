@@ -82,11 +82,22 @@ There is some interesting information hidden around this site http://mercury.pic
 ![](https://g0v.hackmd.io/_uploads/BkeNOsKnJl.png)
 - ans:picoCTF{Pat!3nt_15_Th3_K3y_388d10f7}
 
+
 ### n0s4n1ty 1
 - 一位開發人員在網站上新增了個人資料圖片上傳功能。然而，實施是有缺陷的，這為你提供了一個機會。如果您選擇接受，您的任務是導航到提供的網頁並找到文件上傳區域。您的最終目標是找到位於/root目錄中的隱藏標誌。
 - 點進網站後，是一個要上傳檔案的網站
 ![](https://g0v.hackmd.io/_uploads/Skyt6ot21l.png)
-- 提示寫說
+- 提示寫說在遠端機器上獲得 shell，讓我想到Trickster這題，一樣要上傳檔案產生一個命令列介面，以便遠端在伺服器上執行命令，將之前的檔案上傳上去
+![](https://g0v.hackmd.io/_uploads/SyxkmJhYnJl.png)
+- 轉到http://standard-pizzas.picoctf.net:65471/uploads/PNG.png.php
+![](https://g0v.hackmd.io/_uploads/SJeNVJht3yl.png)
+- 輸入`ls -all`，能看到/root
+![](https://g0v.hackmd.io/_uploads/Bkx2Hk2Fnyx.png)
+- 輸入`sudo ls -all /root`，發現/root裡面有flag.txt
+![](https://g0v.hackmd.io/_uploads/BJe2uy3thJe.png)
+- 輸入`sudo cat /root/flag.txt`，取得flag!
+![](https://g0v.hackmd.io/_uploads/ry4iJnYnJe.png)
+
 - ans:picoCTF{wh47_c4n_u_d0_wPHP_8ca28f94}
 ## medium
 ### SOAP

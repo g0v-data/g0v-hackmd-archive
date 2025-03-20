@@ -77,6 +77,30 @@ exiftool ukn_reality.jpg
 ![](https://g0v.hackmd.io/_uploads/B16ktUeoyl.png)
 - ans:picoCTF{ME74D47A_HIDD3N_deca06fb}
 
+### Ph4nt0m 1ntrud3r
+- 提示
+    - 過濾您的資料包以縮小搜尋範圍。
+    - 攻擊及時進行。
+    - 時間至關重要
+- 打開封包後，看不出有什麼特別
+![](https://g0v.hackmd.io/_uploads/S1lKNKnKhJx.png)
+- 依照提示讓封包按照時間順序排好
+![](https://g0v.hackmd.io/_uploads/SylwPFhKhkl.png)
+- payload 包含類似 base64 的數據，從 5 號資料包開始它變成了 picoCTF base64
+![](https://g0v.hackmd.io/_uploads/r1GQ5hYnJe.png)
+
+```
+cGljb0NURg==
+ezF0X3c0cw==
+bnRfdGg0dA==
+XzM0c3lfdA==
+YmhfNHJfZQ==
+NWU4Yzc4ZA==
+fQ==
+```
+- Base64 解碼後，我們得到了flag
+- ans:picoCTF{1t_w4snt_th4t_34sy_tbh_4r_e5e8c78d}
+
 ## medium
 
 ### endianness-v2
