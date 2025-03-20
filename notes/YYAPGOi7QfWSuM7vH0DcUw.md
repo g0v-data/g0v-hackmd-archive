@@ -1,6 +1,6 @@
 ---
 title: "威斯康辛大學學生採訪：ipa"
-tags: 採訪共筆,hackpad
+tags: ipa, 採訪共筆, hackpad
 ---
 
 # 威斯康辛大學學生採訪：ipa

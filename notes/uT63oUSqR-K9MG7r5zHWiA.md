@@ -16,6 +16,33 @@ The numbers... what do they mean?
 - 英文排序位置剛好對應到圖片上的數字
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_86894d798f9dd82454c2fdb6ef956ab8.png)
 - ans:picoCTF{thenumbersmason}
+
+### hashcrack
+
+![](https://g0v.hackmd.io/_uploads/H1xyhhF2Jl.png)
+
+- 利用[網站](https://hashes.com/en/tools/hash_identifier)查詢是哪種雜湊
+![](https://g0v.hackmd.io/_uploads/ryvm2nYn1e.png)
+- [md5解密](https://10015.io/tools/md5-encrypt-decrypt)
+![](https://g0v.hackmd.io/_uploads/SyuKnhFh1e.png)
+
+![](https://g0v.hackmd.io/_uploads/rypjh2FnJe.png)
+
+![](https://g0v.hackmd.io/_uploads/S1en2ht2kg.png)
+- [sha1解密](https://10015.io/tools/sha1-encrypt-decrypt)
+![](https://g0v.hackmd.io/_uploads/HyoR32Y31x.png)
+
+![](https://g0v.hackmd.io/_uploads/SygWJTnYhyl.png)
+
+
+
+![](https://g0v.hackmd.io/_uploads/HJlO7phtnJl.png)
+- [sha256解密](https://10015.io/tools/sha256-encrypt-decrypt)
+![](https://g0v.hackmd.io/_uploads/Hy2N6nt2kl.png)
+
+![](https://g0v.hackmd.io/_uploads/rJlSa3Kh1x.png)
+
+- ans:picoCTF{UseStr0nG_h@shEs_&PaSswDs!_869e658e}
 ## medium
 ### Mind your Ps and Qs
 In RSA, a small e value can be problematic, but what about N? Can you decrypt this? values

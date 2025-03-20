@@ -45,3 +45,7 @@ https://g0v.hackmd.io/@hackpad-importer
 - 20250210 揪松團 從後臺管理者方式，設定帳號密碼，登入 "@hackpad-importer" 這個帳號
     - 初步先手動調整，部分 Miffy 相關的 hackmd 改為可公開搜尋
 
+## [詢問] 開設 Team 的權限
+- 20250321 揪松_chewei 這邊無法開設
+- 想請 Ronny 有空可以測試看看
+    - 想確認是不是我們都不能開設 Team 了
