@@ -61,6 +61,33 @@ There is some interesting information hidden around this site http://mercury.pic
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_deb4040da9c3167a47e21cf2ea76b716.png)
 - ans:picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_35844447}
 
+### Cookie Monster Secret Recipe
+- 在cookie資料庫中發現secret_recipe的值是一串經過base64加密的密文
+![](https://g0v.hackmd.io/_uploads/BkzW4sYhye.png)
+- 經過base64解碼，得出答案
+![](https://g0v.hackmd.io/_uploads/r1NkSjthJx.png)
+- ans:picoCTF{c00k1e_m0nster_l0ves_c00kies_DE7A5E76}
+
+### head-dump
+- 題目表示將探索一個 Web 應用程式並找到一個公開包含隱藏標誌的檔案的端點，該應用程式是一個簡單的部落格網站，您可以在其中閱讀有關各種主題的文章，包括有關 API 文件的文章。您的目標是探索應用程式並找到產生保存伺服器記憶體的檔案的端點，其中隱藏了一個秘密標誌。
+- 進入網站後，發現只有 API 文件的文章有連結
+![](https://g0v.hackmd.io/_uploads/HkCSDjY3yl.png)
+- 將診斷的頁面點開，可以看到網站連結出現get_heapdump，與題目名稱相同，看來方向是對的
+![](https://g0v.hackmd.io/_uploads/SkL2woKhke.png)
+- 點選嘗試一下並執行
+![](https://g0v.hackmd.io/_uploads/Bkm1dsY3yg.png)
+- 點選下載文件
+![](https://g0v.hackmd.io/_uploads/r1LMdoY2Jg.png)
+- 在文件裡發現flag
+![](https://g0v.hackmd.io/_uploads/BkeNOsKnJl.png)
+- ans:picoCTF{Pat!3nt_15_Th3_K3y_388d10f7}
+
+### n0s4n1ty 1
+- 一位開發人員在網站上新增了個人資料圖片上傳功能。然而，實施是有缺陷的，這為你提供了一個機會。如果您選擇接受，您的任務是導航到提供的網頁並找到文件上傳區域。您的最終目標是找到位於/root目錄中的隱藏標誌。
+- 點進網站後，是一個要上傳檔案的網站
+![](https://g0v.hackmd.io/_uploads/Skyt6ot21l.png)
+- 提示寫說
+- ans:picoCTF{wh47_c4n_u_d0_wPHP_8ca28f94}
 ## medium
 ### SOAP
 
