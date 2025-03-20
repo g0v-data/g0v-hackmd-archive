@@ -9,6 +9,8 @@ tags: GIS, 都市更新
     - 官網地圖：https://twur.cpami.gov.tw/zh/urban/area/0
     - 20201128 爬下更新地區 GIS 檔案 by Kiang
         - https://github.com/kiang/twur.cpami.gov.tw/tree/master/raw
+    - 議題：要如何知道該地區計畫有計畫書圖？
+        - https://g0v.hackmd.io/nL4fSlBfRmyMR9EMd6Wdgg?view
 - 更新事業
     - 官網地圖：https://twur.cpami.gov.tw/zh/urban/rebuild/
     - 20220905 爬下更新事業 GIS 檔案 by Vik 
