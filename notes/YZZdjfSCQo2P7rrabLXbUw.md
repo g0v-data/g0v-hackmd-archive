@@ -51,5 +51,3 @@ poki https://poki.com/zh#utm_source=redirect-en-zh
 #### Ken暫存
 RPA
 https://www.tibame.com/course/3904
-https://www.youtube.com/watch?v=0nfjB3ZvdnE&list=PL287PZ63qCjT7nllVwB2YdQAxRNpJ-gTl
-
