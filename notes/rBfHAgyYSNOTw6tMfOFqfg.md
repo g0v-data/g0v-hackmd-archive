@@ -89,9 +89,16 @@ https://www.facebook.com/share/p/186AQYaCST/?mibextid=wwXIfr
 藝評產製
 https://www.facebook.com/share/1A2jTimCgp/
 
+## 助理
+
+安排會議
+https://www.facebook.com/share/p/1Addn6PWbz/
+
 ## 單據拍照轉成表格文字
 
 https://www.facebook.com/share/r/15wpa3GnoT/
+
+
 
 ## 涉及影音生成
 
