@@ -9,6 +9,7 @@ tags:
 https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
 :::
 
+跳坑：吳, chewei, 
 
 ## Data 需要的資料集
 
@@ -20,7 +21,7 @@ https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
 - https://depart.moe.edu.tw/ed4500/News_Content.aspx?n=5A930C32CC6C3818&sms=91B3AAE8C6388B96&s=33128143574210DF&fbclid=IwY2xjawJKEohleHRuA2FlbQIxMAABHVxw1Je5gUogRsOQl30yL2tXD4xF_lKVfteRKMTqMccMQx6wvBTayeqZXQ_aem_fP4cQl1tMf0siIiACHBClg
 
 戶籍人口資料
-
+- 待補充
 
 已廢校的地點
 - 教育部國民中小學 整併後校園空間 活化再生案例，但是主題網站關閉了@_@ http://ssdelt.nhps.tp.edu.tw/
