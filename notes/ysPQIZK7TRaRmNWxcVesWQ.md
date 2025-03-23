@@ -1,5 +1,5 @@
 ---
-tags: 
+tags: 3166, iso3166, iso-3166, iso, country list, 國家
 ---
 
 # uso-3166 - Website with ISO-3166 alternatives
