@@ -110,7 +110,7 @@ Langfuse estimations are somehow larger ![](https://g0v.hackmd.io/_uploads/B1eAo
 - OK: orz, nonumpa, bil
 - 辦在青職基地
     
-4- [ ] 食物：
+- [ ] 食物：
 - [ ] 場地：新北市青年局青職基地
 - [ ] 時間：
 	- 活動時間：14:00 - 17:00
