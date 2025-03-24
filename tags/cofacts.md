@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20250317 會議記錄](../notes/vplohTE0RoqMuV6y2JFhnA.md) | 2025-03-17T12:31:54+00:00 | 2025-03-17T05:05:19+00:00 |
+| 1 | [20250317 會議記錄](../notes/vplohTE0RoqMuV6y2JFhnA.md) | 2025-03-24T04:23:33+00:00 | 2025-03-17T05:05:19+00:00 |
 | 2 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2025-03-17T07:05:48+00:00 | 2022-08-05T02:46:53+00:00 |
 | 3 | [20250105 Cofacts 第 45 次查核協作者培訓](../notes/YIEvxR-pRMK0ms1oQ4N2pw.md) | 2025-03-11T09:43:30+00:00 | 2025-01-05T05:57:43+00:00 |
 | 4 | [20250310 會議記錄](../notes/AvpmwuvvSGaWgHLf3sITdg.md) | 2025-03-10T12:25:01+00:00 | 2025-03-09T08:26:18+00:00 |
