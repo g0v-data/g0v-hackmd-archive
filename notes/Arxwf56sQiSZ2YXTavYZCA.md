@@ -52,3 +52,7 @@ tags: vtaiwan
 - 不同意見的聚合。
 ## 1220 逐字稿與報告
 Josh分享[議題小聚#2「台灣的人工智慧應該如何規範？」報告書](https://docs.google.com/document/d/1kYIYbHdTctGBXrV-U3qivkzByV-uAxOAiS7fB_sGacU/edit?usp=sharing)
+
+## 「探討及研究人工智慧對人權之影響」出席發言
+- 預計以[1220 議題小聚結果](https://docs.google.com/document/d/1kYIYbHdTctGBXrV-U3qivkzByV-uAxOAiS7fB_sGacU/edit?usp=sharing) 進行分享。
+- 建立共筆[3/31 監察院國家人權委員會分眾座談](/sfNZiShNRZCXURBF3ueVUg)
