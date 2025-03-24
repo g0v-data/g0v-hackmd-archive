@@ -98,7 +98,7 @@ Langfuse estimations are somehow larger ![](https://g0v.hackmd.io/_uploads/B1eAo
 
     
 :::info
-- 開票設計表單的部分
+- 開票設計表單的部分：https://github.com/cofacts/rumors-line-bot/issues/405
 - 考慮拿掉 MyGoPen 的連結
 :::
 
