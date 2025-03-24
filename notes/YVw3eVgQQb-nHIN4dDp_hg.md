@@ -29,8 +29,8 @@ Rentea 小聚源自於 [g0v 社群](https://g0v.tw/)，是以城市的居住議�
 
 ## 進行中的點子們
 
+- [Rentea 長租剛好 服務2.0](https://g0v.hackmd.io/@XfBQ4ReySuOmt6stnxIDIA/SJwxbBR21l)
 - [g0v Summit 社群軌意見收集](https://g0v.hackmd.io/PcWuQ3vXREqLAqrd0EQugg)
-- [眼底城市客座編輯](https://g0v.hackmd.io/vEI6DdfSQJaMqIzAjl7vrg)
 - [[**長租剛好**] 市場研究與服務提案](https://g0v.hackmd.io/@ddio/appropriate-rental-housing)
 - [租屋相關法規整理](https://g0v.hackmd.io/kgQvBVMgQhaVcvjrFZ6wmw?view)
 - [租出育兒宅](https://g0v.hackmd.io/@ddio-io/rebirth)
@@ -47,6 +47,7 @@ Rentea 小聚源自於 [g0v 社群](https://g0v.tw/)，是以城市的居住議�
 
 ## 已完成的點子們
 
+- [眼底城市客座編輯](https://g0v.hackmd.io/vEI6DdfSQJaMqIzAjl7vrg)
 - [參與者自介x新手教學](/11qUStBKTxudO1m8OUHBKQ#Rentea-Tuesday-參與者自介x新手教學)
 - [第一間房子提案](https://g0v.hackmd.io/@ddio/corent)
 - [找房練習](https://g0v.hackmd.io/@ddio/corent/https%3A%2F%2Fg0v.hackmd.io%2FlCHQ5Gk7TKKoz5pJdNwXJA)
