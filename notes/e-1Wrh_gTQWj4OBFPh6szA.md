@@ -226,6 +226,12 @@ https://g0v.hackmd.io/g1g13Ak4TXOtk3jWMuCBnw?view
 - 解任務： https://g0v.hackmd.io/@jothon/B1R8Famz2
 
 ### 常態的 Demo Day 與鼓勵獎助金
+
+歷次執行經驗整理文件
+https://g0v.hackmd.io/g1g13Ak4TXOtk3jWMuCBnw?view
+
+:::spoiler 討論筆記
+
 - 若依照每月捐款實收 5 萬元，假設年度收入為 60 萬
 - 支出
     - 軟硬體支出每年 27.7 萬
@@ -239,9 +245,14 @@ https://g0v.hackmd.io/g1g13Ak4TXOtk3jWMuCBnw?view
             - 1 萬元：60 人午茶餐飲
             - 場地用 NPOhub 二樓約 60 位實體，分兩間 一間 Demo 一間 hacking
     - 專案平常可借用小松場地
-
+:::
 
 ### 每年一場 線上黑客松
+
+全球時區交會黑客松，籌辦企劃
+https://g0v.hackmd.io/4Qv2c7FaS5ie19W5CnjpEw?view
+
+:::spoiler 討論筆記
 - 如何訂日期時間
     - https://www.worldtimebuddy.com/
     - +00 台灣時間若訂在 週日
@@ -257,6 +268,8 @@ https://g0v.hackmd.io/g1g13Ak4TXOtk3jWMuCBnw?view
     - 若要搭配 Gather Town
         - 免費版只能支援多少人：
         - 計價方式：
+:::
+
 
 ### NPOHub 中型黑客松 60-70 人
 - 注意 ! 2024.08 開始，揪松團採用單人座位方案，社群可用時數僅 25 小時
