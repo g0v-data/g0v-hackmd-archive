@@ -2,7 +2,7 @@
 
 https://hackmd.io/YXyG4ZIuQXiZ0Lf-tHtMQA
 
-> 2025/2/23 
+> 2025/2/23
 > Replace Pico with ipad for using eye-tracking in ios
 > then we will have both platform for eye-tracking
 ::: info
