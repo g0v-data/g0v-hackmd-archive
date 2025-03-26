@@ -170,5 +170,3 @@ vtaiwan-website/
 ├── tsconfig.json                       # TypeScript 配置檔案
 └── zeabur.json                         # Zeabur 部署配置檔案
 ```
-
-## 經費評估
