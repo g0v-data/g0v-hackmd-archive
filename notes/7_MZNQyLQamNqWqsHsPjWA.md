@@ -45,7 +45,15 @@ tags: jothon,
 ![](https://g0v.hackmd.io/_uploads/BkNBJU-6yx.jpg)
 
 ### （三）陪伴者的情境劇
-1. 
+1. 剛轉學(從體制學校到實驗學校團體)來的阿明，出現了不想上課以及學習計畫寫了沒做?
+
+Few minutes later
+
+
+2. 阿明：「我覺得這裡好無聊...」
+3. 阿明：「我也不知道...」」
+透過以上三題，完成陪伴阿明的情境對話
+
 ![](https://g0v.hackmd.io/_uploads/S1D-eLZp1e.jpg)
 ![](https://g0v.hackmd.io/_uploads/ryN-g8Wayg.jpg)
 ![](https://g0v.hackmd.io/_uploads/S1gZgLZ6Jg.jpg)

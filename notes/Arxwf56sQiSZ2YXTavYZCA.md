@@ -11,7 +11,10 @@ tags: vtaiwan
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 ### 自我介紹
 
-## 網站改版 小小的分享
+## 小小的分享
+- yu ting 找到的文章[AI-Driven Mediation Strategies for Audience Depolarisation in Online Debates]
+
+## 網站改版 
 - [vTaiwan 網站改版，啟動！](/Q3_hgovyRHusEq8-3nomPQ)
 
 ## 主視覺設計
