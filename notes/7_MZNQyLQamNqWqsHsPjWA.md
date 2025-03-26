@@ -1,7 +1,7 @@
 ---
 tags: jothon,
 ---
-# 20250309 下午 島島阿學教育社群聚會
+# 20250309 島島阿學學習社群交流活動
 ![](https://g0v.hackmd.io/_uploads/H1GP_zbpyl.jpg)
 
 
