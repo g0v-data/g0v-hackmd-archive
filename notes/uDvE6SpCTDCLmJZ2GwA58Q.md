@@ -88,6 +88,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 住宅 https://www.facebook.com/share/p/Nn41VWhUuaLkPzra/?mibextid=WC7FNe
     - 師大校區附近 舊照片 https://www.facebook.com/share/amDFgDNNDrzzKVZk/
     - 古莊里 農業時期照片 https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
+    - 日式房舍 活化使用 https://www.facebook.com/share/p/18MVUNa3pB/?mibextid=wwXIfr
     - 1933 水源地與新店溪照片 https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=483057&keyword=%E6%96%B0%E5%BA%97%E6%BA%AA&limit=24&offset=144&sort=relevance&order=desc&isFuzzyMode=false&query=%7B%22format%22:%22%E5%9C%96%E5%83%8F%22%7D&recOffset=156&fbclid=IwZXh0bgNhZW0CMTEAAR0DzJAa0ad6QHxw_u3IBiNJRhs6t9ghTNWgqfc0aTXSN5nL1lhadeneKSk_aem_kyVG8A54Mcm4Ow7gULXF3g
         - 2024 對照拍攝 https://www.facebook.com/share/gAPPsZdwJrEHVUR4/
     - 1940 台北市公車路線圖 https://www.facebook.com/share/aUeANjUcrTVifzGx/
