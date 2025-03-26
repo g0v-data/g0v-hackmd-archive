@@ -19,6 +19,11 @@ tags: jothon,
 
 ## 活動共筆
 ### （一）實驗教育/自主學習陪伴引導師培計劃討論
+![](https://g0v.hackmd.io/_uploads/HyV80r-Tyg.jpg)
+
+![](https://g0v.hackmd.io/_uploads/B1zOArZakg.jpg)
+
+
 1. 【Brain Storming】
 * 你希望引導者具備什麼特質?
 * 你期待他可以給你什麼支持?
@@ -35,8 +40,16 @@ tags: jothon,
 * b.引導師或教師對課程的統整
 
 ### （二）AI工具使用與Prompt使用
+每個人各自分享自己有在使用的AI工具以及心得，詳見以下照片與分類。
+
+![](https://g0v.hackmd.io/_uploads/BkNBJU-6yx.jpg)
 
 ### （三）陪伴者的情境劇
+1. 
+![](https://g0v.hackmd.io/_uploads/S1D-eLZp1e.jpg)
+![](https://g0v.hackmd.io/_uploads/ryN-g8Wayg.jpg)
+![](https://g0v.hackmd.io/_uploads/S1gZgLZ6Jg.jpg)
+![](https://g0v.hackmd.io/_uploads/rJgb-gUW61g.jpg)
 
 
 
