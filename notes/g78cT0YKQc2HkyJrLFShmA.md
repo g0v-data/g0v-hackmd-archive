@@ -231,7 +231,7 @@ https://docs.google.com/document/d/1IhyVG3KncyizQ3sD2mPFytnpwN86X5JSOV9PjjyuU18/
 
 其它：
 * 科大
-* 銀行<-呢個先系正。[人力資源需求及薪酬調查 - 銀行業, 統計局](https://www.dsec.gov.mo/zh-MO/Statistic?id=302)
+* 銀行<-呢個先系正。**「正你個頭，慘到乜咁。」**[人力資源需求及薪酬調查 - 銀行業, 統計局](https://www.dsec.gov.mo/zh-MO/Statistic?id=302)
 * 做老闆
 * 如果你知道仲有咩?請加上來
 
