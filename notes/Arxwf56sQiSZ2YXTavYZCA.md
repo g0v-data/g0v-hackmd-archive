@@ -111,7 +111,15 @@ Zoé Christoff、Petra Hendriks 與 Alex Lorson 敬上
 - 決定：邀請他們來交流，詢問他們更明確的合作方向。
 
 ## Argdown 推廣
-- 感覺可以以中配亞亞的事件來整理相關的討論 [name=peter]
+- 結論：
+    - 改變了對 TA 的想法，想從讓每個人都能夠使用，到只先測試願意使用 Markdown 在網路上討論的鄉民來做討論示範
+    - build 出了 CodiMD (HackMD 的 open source 版本)。
+- 接下來的目標：
+    - 做出討論示範
+    - 驗證「願意使用 Markdown 在網路上討論的鄉民（我給它個名字稱為 elite discusser）」的接受程度和意見
+- 感覺可以以或大罷免的事件來整理相關的討論 [name=peter]
+    - 議題可以是「支不支持取消亞亞的居留證」等等。
 - 希望利用類似 hackmd 的網站，讓大家來整理議題。[name=allen]
-- 週六大松 allen 可以提案，tofus 願意跳坑幫忙。
+    - [CodiMD](https://hackmd.io/c/codimd-documentation/%2Fs%2Fcodimd-documentation)
+- 週六大松 allen 可以考慮提案，tofus 願意跳坑幫忙。
 - 可以做一個最小可行方案 [name=T]
