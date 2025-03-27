@@ -21,12 +21,12 @@ Windows桌機或Android可用App或瀏覽器(Edge,Chrome,Firefox確認可用)
 [展頌CISCO會議室1(會議ID：22927617)](https://mt.chainlon.net/invited.sf?secret=FSqW0vWl.lz8tQL1qCE4zg&id=22927617)
 [展頌CISCO會議室2(會議ID：chainlonit)](https://mt.chainlon.net/invited.sf?secret=3R8kejuzQCRs2ZsoziFbKg&id=chainlonit)
 
-#### 視訊設備自我測試
-https://www.toolskk.com/webcam-mic-test
-
 #### Microsoft Teams(桌機可用瀏覽器免安裝，手機要安裝，都需要帳號，2025/3/27更新)
 展頌台中(管理員：chainlon01@outlook.com)：尚未重新設定
 展頌資訊專用(管理員：Ken)：https://teams.live.com/l/invite/FEAO5Ql1B_S9VJ5kQQ
+
+#### 視訊設備自我測試
+https://www.toolskk.com/webcam-mic-test
 
 #### Zoom(會議ID似乎會變，2023/7/3 更新)
 會議 ID：621 940 4586
