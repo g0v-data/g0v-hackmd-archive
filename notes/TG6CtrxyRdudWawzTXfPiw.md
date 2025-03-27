@@ -9,7 +9,7 @@ tags:
 https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
 :::
 
-跳坑：吳, chewei, 
+跳坑：明錡, chewei, 
 
 ## 今日任務
 
