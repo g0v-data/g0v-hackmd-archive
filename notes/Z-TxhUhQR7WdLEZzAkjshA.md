@@ -24,16 +24,9 @@ Windows桌機或Android可用App或瀏覽器(Edge,Chrome,Firefox確認可用)
 #### 視訊設備自我測試
 https://www.toolskk.com/webcam-mic-test
 
-#### Skype(桌機免安裝免帳號，手機要安裝)
-Ken Test:https://join.skype.com/u2jknneM5ZTc
-https://join.skype.com/u2jknneM5ZTc
-
-展頌群組(已停用) ：http://bit.ly/cy-meeting
-
-#### Microsoft Teams(桌機免安裝免帳號，手機要安裝)
-注意畫面下方…可以有其他顯示模式
-(台中會議室，帳號：chainlon01@outlook.com)
-https://teams.live.com/meet/9410178147926
+#### Microsoft Teams(桌機可用瀏覽器免安裝，手機要安裝，都需要帳號，2025/3/27更新)
+展頌台中(管理員：chainlon01@outlook.com)：尚未重新設定
+展頌資訊專用(管理員：Ken)：https://teams.live.com/l/invite/FEAO5Ql1B_S9VJ5kQQ
 
 #### Zoom(會議ID似乎會變，2023/7/3 更新)
 會議 ID：621 940 4586
