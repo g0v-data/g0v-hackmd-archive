@@ -15,7 +15,11 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 
 ## 以下是 g0v slack 頻道列表與簡介<br>》歡迎協助 (1) 提供中文簡短介紹、(2) 將簡介翻譯成英文 🙏
 
-:star2:  g0v slack 頻道傳送門
+:star2:  g0v Slack Channel Guide 頻道傳送門
+．Global & Local
+．Infra / G0vernace
+．Edu / Learning / Health / Living
+．Open Gov & Projects
 
 ### Global & Local
 #general 社群大廳，可以在這邊提出任何問題！ G0v City Hall / Plaza
@@ -24,6 +28,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #general-ko #general Korean version
 #korea
 #japanese
+#chiayi 嘉義
 #tainan 台南討論群組！
 #kaohsiung 高雄討論群組！
 #taichung 台中討論群組！
@@ -43,6 +48,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #tiếngviệt-vietnam 越南與越語
 #nepali-नेपाली
 #malaysia 馬來西亞
+#indonesia-印尼
 #australia 澳洲
 #north-america 想在美國協作的可以來這邊聊天喔！
 #g0v-siliconvalley g0v 矽谷灣區小聚
@@ -61,6 +67,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #awesome-g0v-projects 令人驚奇的零時政府。找專案，找提案，找共筆，找幫手 一站搞定
 #project-坑主大補帖 協助坑主推展專案，整理相關執行經驗與建議 Assist project leaders in promoting their projects, organizing related execution experiences and suggestions
 #拉人更輕鬆
+#g0v-taipei-npohub-2f-202 NPOHUB 大小事
 #jothon 揪松團相關活動討論（黑客松、基礎松）https://jothon.g0v.tw/
 #fundraising-救松團-募款執行
 #jothon-stall-擺攤
@@ -250,6 +257,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #river 河流與流域
 #super-agri 超農域，農藥查詢系統，南庄桐花松，農業資料與專案 :ear_of_rice: Agriculture related projects
 #tree 遙測算樹、圖資找地、倡議種樹 :deciduous_tree:
+#gf-tw 無麩質安全網 gluten free
 #foodlessons 食食課課 從食物連結生活與文化
 #foodsharing_taiwan 推動食物分享
 #naturechats 咖啡閒聊 https://naturechats.com/
@@ -280,6 +288,7 @@ https://g0v-slack-archive.g0v.ronny.tw
 ．開源星手村 桌遊製作與推廣 Discord: https://discord.gg/SFY2JwdBr9
 ．Grapycal 圖形化程式語言 Discord: https://discord.com/invite/adNQcS42CT
 ．中學資訊討論群 CISC Discord: https://discord.gg/cisc
+．Hack It 籌劃高中生的黑客松活動 https://discord.gg/u4z8EFR2gr
 ．北臺灣學生資訊社群 Discord: https://discord.scint.org/
 ．中部高中電資社團聯合會議 Discord: https://discord.com/invite/At7r54v94c
 ．南臺灣學生資訊社群 Discord: https://discord.gg/6QW6gqhHQe
