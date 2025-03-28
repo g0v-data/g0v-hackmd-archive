@@ -9,7 +9,13 @@ description: Fastest way to gen meme from g0v slack archive
 ---
 
 ![](https://g0v.hackmd.io/_uploads/Hkw5L44TJl.png)
-- 這張在台南放出來好棒😂！
+
+
+---
+
+g0v 使用 slack 分頻道聊天
+https://join.g0v.tw
+
 ---
 
 # g0v slack archive
@@ -27,10 +33,24 @@ https://g0v-slack-archive.g0v.ronny.tw/
 
 ---
 
+大概是這樣操作
+![](https://g0v.hackmd.io/_uploads/S1BSmH4T1e.gif)
+
+---
+
+也可以是認真的內容
+![](https://g0v.hackmd.io/_uploads/rJku1SN6kx.png)
+
+---
+
 還可以產生黑色的版本
-![](https://g0v.hackmd.io/_uploads/S1KOuV46ke.png)
+![](https://g0v.hackmd.io/_uploads/BJ_M6VNaye.png)
 
 ---
 
 等等記得投票資金池
 ![](https://g0v.hackmd.io/_uploads/HkgGvtEN6ye.png)
+
+---
+
+# Thanks
