@@ -9,7 +9,7 @@ tags:
 https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
 :::
 
-跳坑：明錡, chewei, 
+跳坑：明錡, chewei, Tiff
 
 ## 今日任務
 
@@ -24,6 +24,11 @@ https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
     - 廢校年份、經度、緯度
 
 ## Data 需要的資料集
+
+:::info
+共用資料集
+https://drive.google.com/drive/folders/1vccBs56aJ1RTBsA5NHZh-ESwwJYKq_01?usp=sharing
+:::
 
 全國學校地點資料
 - https://g0v.hackmd.io/kb9Sn5u0TZuvWwFbfgt3Hg

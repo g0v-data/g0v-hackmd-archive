@@ -4,11 +4,8 @@ tags: infras, meme, slack
 description: Fastest way to gen meme from g0v slack archive
 ---
 
-# g0v 的大家都很有才
-
----
-
-![](https://g0v.hackmd.io/_uploads/Hkw5L44TJl.png)
+# g0v Slack Archive 
+# 訊息迷因產生器
 
 
 ---
@@ -26,8 +23,12 @@ https://g0v-slack-archive.g0v.ronny.tw/
 
 ---
 
-# ＃RS 語料庫
-冷笑話集中 channel
+# g0v 的大家都很有才
+
+---
+
+# 看到很讚的回應，
+# 想分享？
 
 ---
 
@@ -61,6 +62,11 @@ https://g0v-slack-archive.g0v.ronny.tw/
 
 ---
 
+都到台南了
+![](https://g0v.hackmd.io/_uploads/Hkw5L44TJl.png)
+
+---
+
 也可以是認真的內容
 ![](https://g0v.hackmd.io/_uploads/rJku1SN6kx.png)
 
@@ -73,6 +79,11 @@ https://g0v-slack-archive.g0v.ronny.tw/
 
 等等記得投票資金池
 ![](https://g0v.hackmd.io/_uploads/HkgGvtEN6ye.png)
+
+---
+
+# ＃RS 語料庫
+冷笑話集中 channel
 
 ---
 

@@ -23,6 +23,7 @@ tags: GIS
 
 - (1) 有的話，請貼上資料集的網址
     - 臺北市各級學校分布圖(含國小.國中.高中職.特教學校.市立大專院校) https://data.gov.tw/dataset/121225
+    - 各級學校地理資訊及地區別統計查詢系統 https://stats.moe.gov.tw/edugissys/default.aspx
 - (2) 並且從中找到可以定位在地圖上的欄位，像是「地址」、「經度 longitude」、「緯度 latitude」、「座標數字」、「地號」
     - 經緯度
     - 地址
