@@ -14,12 +14,11 @@ https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
 [toc]
 :::
 
-跳坑：明錡, chewei, Tiff
+跳坑：明錡, chewei, yellowsoar, Tiff
 
 ## 今日任務
 
 使用學校基本統計資訊資料集，來看各學校的就學人口趨勢
-
 
 
 將已經廢校的名單，整理成資料集
@@ -41,6 +40,11 @@ https://drive.google.com/drive/folders/1vccBs56aJ1RTBsA5NHZh-ESwwJYKq_01?usp=sha
 歷年各學校就學人口資料
 - 學校基本統計資訊1998~2024 https://depart.moe.edu.tw/ed4500/News.aspx?n=5A930C32CC6C3818&page=1&PageSize=40&fbclid=IwY2xjawJKFblleHRuA2FlbQIxMAABHVxw1Je5gUogRsOQl30yL2tXD4xF_lKVfteRKMTqMccMQx6wvBTayeqZXQ_aem_fP4cQl1tMf0siIiACHBClg
 - https://depart.moe.edu.tw/ed4500/News_Content.aspx?n=5A930C32CC6C3818&sms=91B3AAE8C6388B96&s=33128143574210DF&fbclid=IwY2xjawJKEohleHRuA2FlbQIxMAABHVxw1Je5gUogRsOQl30yL2tXD4xF_lKVfteRKMTqMccMQx6wvBTayeqZXQ_aem_fP4cQl1tMf0siIiACHBClg
+
+原住民族地區
+- 盤點原住民族重點小學 csv https://airtable.com/appEy0jH7wgeFfcMY/shrjmzerb0sobb2oY/tblXkKfDdxXyZF61O/viw5fJFBCcmoPcCCu/recXkz9axQ5SY0TdY?blocks=hide
+- 台灣原住民族部落基礎資料庫(2021年6月) https://airtable.com/appEy0jH7wgeFfcMY/shrjmzerb0sobb2oY/tblXkKfDdxXyZF61O/viw5fJFBCcmoPcCCu/rec9WT7YbVpcnLlBh?blocks=hide
+- 教育部公布有關於原住民族學生資料地圖集 https://airtable.com/appEy0jH7wgeFfcMY/shrjmzerb0sobb2oY/tblXkKfDdxXyZF61O/viw5fJFBCcmoPcCCu/recyOUIQrPIHdqgp3?blocks=hide
 
 學區範圍
 - 臺北市可以看到的地理圖框 https://schooldistrict.tp.edu.tw/gis/index.jsp?school=%25E9%25BE%258D%25E5%25AE%2589%25E5%259C%258B%25E5%25B0%258F@undefined@undefined
