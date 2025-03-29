@@ -61,6 +61,8 @@ RS:
 
 ## 各次放輕松列表
 `Latest` 
+- [20240401 Rand0mTh22n 第貳拾貳次](/e3WKTTDtS9SCiofmB6qdtg)
+- [20240318 Rand0mTh21n 第貳拾壹次](/XApq04KhRLij31rveNXnfA)
 - [20240304 Rand0mTh20n 第貳拾次](/6WH6j-_bSISk01pHrmQCPA)
 - [20240218 Rand0mTh19n 第拾玖次放輕松](/N2P1JljQQ8mYKodSzbIOog)
 - [20240204 Rand0mTh18n 第拾捌次放輕松](/Ez7ByWB3RYWH-oXIX4ZvBw)
