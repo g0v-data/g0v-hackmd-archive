@@ -20,12 +20,20 @@ https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
 
 使用學校基本統計資訊資料集，來看各學校的就學人口趨勢
 
+找出有可能被廢校的學校
+- 小學、中學廢校的母法
+    [全國法規資料庫：公立國民小學及國民中學變更或停辦準則](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0070070)
+    [教育部主管法規查詢系統：公立國民小學及國民中學變更或停辦準則](https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001597)
+- 各縣市政府教育部門依據母法所制定的作業辦法/施行細則
+    
 
 將已經廢校的名單，整理成資料集
 - 用途？
     - 了解過往廢校的地點位置
 - 資料集欄位：
     - 廢校年份、經度、緯度
+
+
 
 ## Data 需要的資料集
 
