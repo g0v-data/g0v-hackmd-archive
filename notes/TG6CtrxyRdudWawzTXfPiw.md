@@ -58,6 +58,7 @@ https://drive.google.com/drive/folders/1vccBs56aJ1RTBsA5NHZh-ESwwJYKq_01?usp=sha
 - 臺北市可以看到的地理圖框 https://schooldistrict.tp.edu.tw/gis/index.jsp?school=%25E9%25BE%258D%25E5%25AE%2589%25E5%259C%258B%25E5%25B0%258F@undefined@undefined
 - 臺南市學區
     - http://std.tn.edu.tw/sis/anonyquery/SchoolDistrict.aspx
+    - kiang 做的視覺化 - https://tainan.olc.tw/p/school/
 
 戶籍人口資料
 - 社會經濟資料服務平台 https://segis.moi.gov.tw/STATCloud/Index 

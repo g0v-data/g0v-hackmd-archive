@@ -2,6 +2,8 @@
 
 [勞動部網站](https://announcement.mol.gov.tw/)公開了許多資料，不過礙於法規部份資料會有公告期間限制，意思是到期了就會下架，所以有嘗試備份資料，接下來希望針對備份的資料進一步去做應用。
 
+初步雛型： https://tainan.olc.tw/p/labor/
+
 資料專案： https://github.com/kiang/announcement.mol.gov.tw
 
 
