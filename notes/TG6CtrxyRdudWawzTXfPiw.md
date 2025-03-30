@@ -16,14 +16,16 @@ https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
 
 跳坑：明錡, chewei, yellowsoar, Tiff
 
-## 今日任務
+## 今日任務 (g0v Hackath66n)
 
 使用學校基本統計資訊資料集，來看各學校的就學人口趨勢
 
 找出有可能被廢校的學校
 - 小學、中學廢校的母法
-    [全國法規資料庫：公立國民小學及國民中學變更或停辦準則](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0070070)
-    [教育部主管法規查詢系統：公立國民小學及國民中學變更或停辦準則](https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001597)
+    - 全國法規資料庫：公立國民小學及國民中學變更或停辦準則
+        https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0070070
+    - 教育部主管法規查詢系統：公立國民小學及國民中學變更或停辦準則
+        https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001597
 - 各縣市政府教育部門依據母法所制定的作業辦法/施行細則
     
 
@@ -64,6 +66,8 @@ https://drive.google.com/drive/folders/1vccBs56aJ1RTBsA5NHZh-ESwwJYKq_01?usp=sha
 - 社會經濟資料服務平台 https://segis.moi.gov.tw/STATCloud/Index 
 
 已廢校的地點
+- 已經停辦的學校清單在教育部統計處的學校名錄頁面裡面可以找到資料
+    https://depart.moe.edu.tw/ed4500/News.aspx?n=63F5AB3D02A8BBAC&sms=1FF9979D10DBF9F3
 - 教育部國民中小學 整併後校園空間 活化再生案例，但是主題網站關閉了@_@ http://ssdelt.nhps.tp.edu.tw/
     - 教育部廢校活化網站 撤站之前的樣貌 https://web.archive.org/web/20221206201303/http://ssdelt.nhps.tp.edu.tw/
     - 國教署新聞稿頁面 https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=7E9E989F1DEFD729
