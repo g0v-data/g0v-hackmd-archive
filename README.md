@@ -2,7 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 34965 | 2025-03-31T08:59:39+00:00 |
+| [edu](tags/edu.md) | 149 | 2025-03-31T09:48:01+00:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 34964 | 2025-03-31T08:59:39+00:00 |
 | [rand0mth0n](tags/rand0mth0n.md) | 21 | 2025-03-29T15:52:07+00:00 |
 | [ hackathon](tags/%20hackathon.md) | 9 | 2025-03-29T15:52:07+00:00 |
 | [hackathon](tags/hackathon.md) | 62 | 2025-03-29T15:48:30+00:00 |
@@ -98,7 +99,6 @@
 | [ RightsCon](tags/%20RightsCon.md) | 6 | 2025-01-25T00:45:01+00:00 |
 | [ g0v](tags/%20g0v.md) | 4 | 2025-01-20T14:17:05+00:00 |
 | [Judical](tags/Judical.md) | 7 | 2025-01-20T13:54:40+00:00 |
-| [edu](tags/edu.md) | 148 | 2025-01-17T11:46:30+00:00 |
 | [Camping](tags/Camping.md) | 1 | 2025-01-15T06:37:37+00:00 |
 | [g0v-anniversary](tags/g0v-anniversary.md) | 61 | 2025-01-14T13:37:22+00:00 |
 | [bridge](tags/bridge.md) | 8 | 2025-01-14T13:24:28+00:00 |

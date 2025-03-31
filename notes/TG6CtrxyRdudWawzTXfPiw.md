@@ -1,5 +1,5 @@
 ---
-tags:
+tags: edu, 
 ---
 
 # 學校就學人口變化趨勢推測
@@ -15,6 +15,9 @@ https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
 :::
 
 跳坑：明錡, chewei, yellowsoar, Tiff
+討論請至：
+- g0v Slack #edu
+- FB 社團「零時小學校」
 
 ## 今日任務 (g0v Hackath66n)
 
@@ -50,6 +53,13 @@ https://drive.google.com/drive/folders/1vccBs56aJ1RTBsA5NHZh-ESwwJYKq_01?usp=sha
 歷年各學校就學人口資料
 - 學校基本統計資訊1998~2024 https://depart.moe.edu.tw/ed4500/News.aspx?n=5A930C32CC6C3818&page=1&PageSize=40&fbclid=IwY2xjawJKFblleHRuA2FlbQIxMAABHVxw1Je5gUogRsOQl30yL2tXD4xF_lKVfteRKMTqMccMQx6wvBTayeqZXQ_aem_fP4cQl1tMf0siIiACHBClg
 - https://depart.moe.edu.tw/ed4500/News_Content.aspx?n=5A930C32CC6C3818&sms=91B3AAE8C6388B96&s=33128143574210DF&fbclid=IwY2xjawJKEohleHRuA2FlbQIxMAABHVxw1Je5gUogRsOQl30yL2tXD4xF_lKVfteRKMTqMccMQx6wvBTayeqZXQ_aem_fP4cQl1tMf0siIiACHBClg
+
+關於「學校代碼」
+- https://depart.moe.edu.tw/ed4500/News.aspx?n=63F5AB3D02A8BBAC&sms=1FF9979D10DBF9F3
+- 這個頁面裡面也有解釋學校代碼的含義
+- 合併的學校會取得新的學校代碼，例如：「原澎湖縣立虎井國小(164612)→澎湖縣立馬公國小虎井分班(164601)」
+- 所以看起來學校代碼應該是可以當作 UID 的
+
 
 原住民族地區
 - 盤點原住民族重點小學 csv https://airtable.com/appEy0jH7wgeFfcMY/shrjmzerb0sobb2oY/tblXkKfDdxXyZF61O/viw5fJFBCcmoPcCCu/recXkz9axQ5SY0TdY?blocks=hide
