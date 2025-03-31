@@ -20,6 +20,7 @@ tags: GIS,
 - 民間自建蒐集清單 https://docs.google.com/spreadsheets/d/1IlK6XpIbnL6nW-UjGw363KcmzGNGmEAsAk0rs0qQuYc/edit?gid=0#gid=0
 - 公民科學與群眾參與計畫
     - https://g0v.hackmd.io/@chewei/crowdtribute/
+- [零時小學校] 數位解方策略及工具推薦 / 揉合公民權的公民科技專案策略https://g0v.hackmd.io/@jothon/intro/https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1P1sCLPAQP9hUwMFVGzneg9lAIFLoYe_arsmgdUy23FA%2Fedit
 - Todo 課題與風險討論，整合標的評估
 
 呈現資料應用服務
