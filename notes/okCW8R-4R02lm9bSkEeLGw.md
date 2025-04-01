@@ -1,6 +1,6 @@
 # 腦震盪 Concusion For iPad
 
-https://hackmd.io/YXyG4ZIuQXiZ0Lf-tHtMQA
+[hackmd](https://g0v.hackmd.io/okCW8R-4R02lm9bSkEeLGw?both)
 
 > 2025/2/23
 > Replace Pico with ipad for using eye-tracking in ios
