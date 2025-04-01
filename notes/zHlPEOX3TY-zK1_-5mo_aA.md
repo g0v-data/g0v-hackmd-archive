@@ -96,7 +96,7 @@ class driver extends uvm_component;
     `uvm_register_cb(driver,driver_callback)
   
     function new(string name, uvm_component parent);
-    super.new(name,parent);
+        super.new(name,parent);
     endfunction
   
     task run_phase(uvm_phase phase);
@@ -127,9 +127,9 @@ class user_callback_test extends basic_test;
 
     function void build_phase(uvm_phase phase);
         super.build_phase(phase);
-    callback_1 = user_callback::type_id::create("callback_1", this);
+        callback_1 = user_callback::type_id::create("callback_1", this);
 
-    uvm_callbacks#(driver,driver_callback)::add(env.driv,callback_1);
+        uvm_callbacks#(driver,driver_callback)::add(env.driv,callback_1);
     endfunction
 endclass
 ```
