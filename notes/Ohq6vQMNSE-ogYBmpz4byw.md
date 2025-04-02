@@ -1,17 +1,22 @@
 ---
-tags: Disfactory
+tags: Disfactory, 
 ---
 
-# 違章工廠回報系統第193次小聚
+# 違章工廠回報系統_持續通報與裁罰
 
 ###### tags: `Disfactory` `違章工廠` `違章工廠舉報系統`
 
 時間：20250402 19:30 (GMT+8)
 地點：地球公民基金會
 線上：https://meet.google.com/coc-vuaa-ykz
-小聚共筆：
-https://g0v.hackmd.io/9R4Wl1o6Q9eIJS8XCJFg_Q
+小聚共筆：https://g0v.hackmd.io/9R4Wl1o6Q9eIJS8XCJFg_Q
+- 違章工廠回報系統第192次小聚 20250305
+- 違章工廠回報系統第193次小聚 20250402
 
+:::info
+文件目錄
+[TOC]
+:::
 
 ## 參與者簽到
 實體
@@ -32,12 +37,9 @@ https://g0v.hackmd.io/9R4Wl1o6Q9eIJS8XCJFg_Q
 
 # [disfactory新提案](https://www.canva.com/design/DAGg17NISDA/zIM6iFSHSs5SH9HK-VftQw/view?utm_content=DAGg17NISDA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h49962145f6)
 
-
 ![](https://g0v.hackmd.io/_uploads/HJOPApHskl.png)
 
-
 **Challenge**: 非工廠（倉庫）已被裁罰的，需要有人去確認，讓連續裁罰的機制動起來（上圖右下角），在罰金壓力下才會做出改變恢復農用。
-
 
 peii:
 - 想要讓民眾協助確認被裁罰的農地上倉儲是否已經改善
@@ -46,14 +48,13 @@ peii:
 - 
 ![](https://g0v.hackmd.io/_uploads/Hk-tKi56kx.png)
 
-
 裁罰紀錄：來自國土署的 single source data
 違反非都市土地使用管制案件查處情形表
 - 按照地號
 - 目前只有流水號，還沒有專屬編號
 
+## 2025/03/05 三月小聚＿開展討論：案件狀態、使用者的動作、倡議效果
 
-### 三月小聚：
 ael:
 我建議的解法會是，直接在 disfactory.tw 上，在 `status` 的狀態，新增不同顏色的狀態（目前是`未處理`、`處理中`、`已斷電`、`已拆除`、`無法處理`），吸引點進地圖的使用者，協助回報農地上的倉儲是否已改善。或是有一個狀態是需要使用者協助確認有沒有改善（e.g. 工廠是否有確實停建、倉儲停止使用等等）
 
@@ -80,7 +81,7 @@ ael:
     - 最後有數據的話，就可以開記者會，也可以跟政府施壓
 
 
-## 2025/04/02 討論
+## 2025/04/02 資料串接技術釐清、檢視公部門裁罰資料集欄位
 
 SL：做 campaign page, 類似之前過年做的返鄉專案，看大家是否有特別關注的區域，可以導流過去
 
@@ -124,6 +125,7 @@ SL：做 campaign page, 類似之前過年做的返鄉專案，看大家是否�
     - 使用地的地目
     - 多筆地號同屬於一個案件
     - 本專案並不會處理「經現勘無違規情形者」(可能已改變地目..等)
+    - 區域計畫法可以按次裁罰
     - "申請納管中"
         - 有一個期限
             - 20220320 過後都不能納管，與工輔法有關
@@ -181,8 +183,14 @@ SL：做 campaign page, 類似之前過年做的返鄉專案，看大家是否�
 
 
 
+On GitHub
 
-## 春酒
+1. 要跟國土署討論的資料問題 @peii @swind @yellowsoar 
+2. 設計要盤點 status filter 和需要哪些資料狀態 @SL @peii https://github.com/Disfactory/Disfactory/issues/655
+3. 前端想升級的東西: 修 production deploy @yukai https://github.com/Disfactory/frontend/issues/183
+
+
+## 2025 年的春酒
 - 可能可以去金山？ @peii 會先排一個行程
 - 可能四五月的週間？
 
