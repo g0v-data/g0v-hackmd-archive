@@ -4,8 +4,11 @@ tags: vtaiwan
 # 20250402 小松
 時間 Time ：19:00-20:00
 地點 Location ：線上 Online
-參與者 Participants: Peter, Josh, Yuting, Allison, Allen, T, Joey 
+參與者 Participants: Peter, Josh, Yuting, Allison, Allen, T, Joey 翊婷
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
+
+![](https://g0v.hackmd.io/_uploads/HJZ-ajqayx.png)
+
 
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
@@ -46,11 +49,16 @@ tags: vtaiwan
 - 種子意見可以透過 AI 整理，讓說服力或者是其他條件相同 [name=josh]
     - 另一個可以加上 AI 的方向
     - 一開始生成其實也可以交給 AI，看看哪個時機點可以由 AI 介入。[name=T]
+    - 如果要讓 AI supported 的架構有標準化程序的話，可以有一個處理過的方向
+        - 有沒有建議的 prompt? 
+            - 有模糊的詞義解釋清楚
+            - 改寫成三句以內的話語
+        - 這些意見可以紀錄下來
 ### Action list 
 - 調整 polis 的內文說明
     - 已經調整好了 [name=peter]
-- 
-
+- 調整[種子意見](https://docs.google.com/spreadsheets/d/1xXjnptMcKItVa_9o83R2gnxp-zDwliWnJjNMCK3mW18/edit?gid=0#gid=0)  [name=T] [name=josh]
+    - 感覺下週也可以分享 [name=peter]
 
 ## 12/20 議題小聚報告討論與修改
 - [議題小聚#2「台灣的人工智慧應該如何規範？」報告書](https://docs.google.com/document/d/1kYIYbHdTctGBXrV-U3qivkzByV-uAxOAiS7fB_sGacU/edit?usp=sharing)
@@ -96,7 +104,7 @@ tags: vtaiwan
 - 可以使用 info.vtaiwan.tw 進行更新
 - 目前是使用 zeabur 
 - [目前成果影片](https://youtu.be/lb7OVJtkku4?si=64laepxixyWjh__l)
-- domain 是在 au 手上。
+- domain 好像是在 au 手上？[name=peter]
 :::success
 資金池有得到錢錢 4136 元～恭喜 tofus!!!!
 :::
@@ -106,4 +114,9 @@ tags: vtaiwan
 - 等完整的 demo 完成後，來約au 討論網域，預計四月第三周到第四週 [name=peter]
 
 ## Argdown 推廣
-https://allenlinli.notion.site/Argdown-OR-Kialoly-17f028ed171780959f60f98de6e43575?pvs=4
+- https://allenlinli.notion.site/Argdown-OR-Kialoly-17f028ed171780959f60f98de6e43575?pvs=4
+- 感覺可以丟到 g0v 社群上來做討論 [name=peter]
+- 或者是可以放到 threads 上來參與討論！[name=josh]
+- 兩個可以是平行的，可以用視覺化的方式來做編排 [name=T]
+    - 理想上這些討論，有沒有辦法用插件的方式，可以來進行討論
+    - 
