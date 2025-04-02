@@ -317,6 +317,7 @@ slack channel: #hackmd
 🙏 感謝 Ronny 協助備份、建立 API
 - 備份：https://github.com/g0v-data/g0v-hackmd-archive
 - HackMD-API：https://g0v.hackmd.io/api/overview
+- endpoint 在 https://g0v.hackmd.io/api/openAPI/v1
 
 ### Team 功能
 
@@ -384,7 +385,7 @@ HackMD 的主機維護，感謝 Jacky 協助。
 ### 超級管理員
 
 目前的超級管理員：
-- Jothon 揪松團：ipa, Ronny, CL, isabel, kirby, tiff, yi
+- Jothon 揪松團：ipa, Ronny, CL, isabel, kirby, tiff, yi, chewei, 小夏
 
 加入方式：待訂
 
@@ -394,7 +395,7 @@ HackMD 的主機維護，感謝 Jacky 協助。
 - 不定期清理 untitled，超過一周以上未編輯（或僅有測試訊息）且無 Owner 的 Note，其餘不做更動。
 - 2024.06.08 正在撰寫關於違反 g0v CoC 行為守則，或屬於與開源精神無關的廣告內容，檢舉及處理機制初步方案，其中將需要超級管理員經手處理。
 
-### g0v.hackmd 工作待辦事項 
+### [重要] g0v.hackmd 工作待辦事項 
 
 歡迎跳坑 !
 https://g0v.hackmd.io/No2V3mO0RQiKsJz4o4Z3hQ?view
