@@ -4,7 +4,7 @@ tags: vtaiwan
 # 20250402 小松
 時間 Time ：19:00-20:00
 地點 Location ：線上 Online
-參與者 Participants: yuting, peter, tofus, allen, T, allison pi
+參與者 Participants: 
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
 
 ## 自我介紹與新手導覽
