@@ -1,4 +1,8 @@
-# 面海松 2025 籌備（場地）
+# [停用] 面海松 2025 籌備（場地）
+
+:::warning
+本文件已停用，請改用[這份文件](https://docs.google.com/document/d/1s4sOfT8THP9AOs151ERuF7_-DEtRiXGnAXz4vOKNtSg/edit)
+:::
 
 ## 活動簡介
 

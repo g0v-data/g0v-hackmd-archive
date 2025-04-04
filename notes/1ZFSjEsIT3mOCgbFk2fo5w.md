@@ -2,10 +2,12 @@
 tags: vtaiwan 
 ---
 # vTaiwan 5/23 議題小聚
+
+
 :::info
-- 日期
-- 時間
-- 地點
+- 日期：2025/05/23
+- 時間：18:30-21:30
+- 地點：台灣網路資訊中心
 - 招募表單：https://docs.google.com/forms/d/e/1FAIpQLSfzEcTAfjOk4awaxlk_3J-ngbP-jx3atIc3AGIW-rB6G9fKcw/viewform 
 :::
 
