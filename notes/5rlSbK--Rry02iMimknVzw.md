@@ -51,3 +51,6 @@ tags: privacy, new-safeID, administrative-appeal, relief, 行政訴訟, 救濟, 
 :::success
 來看看急需訴訟代理人，[還在打行政訴訟的另一案（當事人與本案不同）](/Y9adWKkjQS2joVpc_gAMLQ)，歡迎自薦或推薦身旁對本案可能有興趣的法律人！敬請聯繫[本專案坑主 Paul](http://fb.com/paulpengtw)，也歡迎找我聊本案相關細節，有很多不方便寫出來的地方XD
 :::
+
+
+## 取得換發後身分證對各類日常生活事務之具體影響

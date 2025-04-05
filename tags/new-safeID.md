@@ -9,16 +9,14 @@
 | 5 | [申請換號行政救濟過程紀錄](../notes/Y9adWKkjQS2joVpc_gAMLQ.md) | 2023-11-22T04:25:02+00:00 | 2023-10-30T07:14:11+00:00 |
 | 6 | [nov-2023-司改會數位法小組分享](../notes/M9ge28WqRtuE1adN_dMItQ.md) | 2023-11-21T03:40:48+00:00 | 2023-11-20T11:51:59+00:00 |
 | 7 | [nov-2023-網路自由小聚分享](../notes/6C04xvm8QF-S-lrFL0rkZg.md) | 2023-11-16T12:03:57+00:00 | 2023-10-31T07:51:16+00:00 |
-| 8 | [換號成功過程紀錄](../notes/5rlSbK--Rry02iMimknVzw.md) | 2023-11-16T10:32:57+00:00 | 2023-10-30T08:20:19+00:00 |
-| 9 | [要背新的身分證字號好累喔🥵](../notes/AZv-RFEeRvuiXXJZY1Lr9Q.md) | 2023-10-31T07:59:44+00:00 | 2023-08-25T13:55:17+00:00 |
-| 10 | [申請換號訴願書](../notes/RnAgsiXVTGWdPF_l-hXvJQ.md) | 2023-10-31T04:07:05+00:00 | 2023-10-30T07:32:37+00:00 |
-| 11 | [申請換號行政訴訟起訴書](../notes/kvXyTur2QAChOnIRHDKa9Q.md) | 2023-10-31T04:06:48+00:00 | 2023-10-30T08:04:20+00:00 |
-| 12 | [change-num-application 申請換號](../notes/1ySkGkT4QXm1H--HL9F_rw.md) | 2023-10-30T08:52:04+00:00 | 2023-04-08T03:34:48+00:00 |
-| 13 | [new safeID 換掉我的身份證字號 教戰手冊](../notes/cUOhFMyFSpSn986ArG7TPg.md) | 2023-10-30T08:13:08+00:00 | 2023-08-26T02:59:09+00:00 |
-| 14 | [new safe ID anti-scam-material 宣導圖文影音](../notes/_xAVlL3ySGy0CAUty9PWcw.md) | 2023-07-01T08:50:12+00:00 | 2023-04-08T03:33:48+00:00 |
-| 15 | [new safeID join-platform-proposal 連署提案撰寫](../notes/DZ6Ja9GsSYGYvBRFFkjc5w.md) | 2023-07-01T08:10:24+00:00 | 2023-07-01T03:59:42+00:00 |
-| 16 | [new safeID have-i-been-pwned 換掉外洩的身分證字號](../notes/UwydOUDMR_uRWKGJf8jvGQ.md) | 2023-07-01T07:57:51+00:00 | 2023-06-19T12:40:56+00:00 |
-| 17 | [new safe ID ideal-scene-proposal 蒐集意見](../notes/eWBDgVJ7T6mDsp7FlOfbJg.md) | 2023-04-09T03:05:12+00:00 | 2023-04-08T03:25:55+00:00 |
-| 18 | [new safeID 換掉外洩的身分證字號 cross-organization-alignment](../notes/hRA2_MZnRuyTOFoVqaux8g.md) | 2023-04-08T03:36:58+00:00 | 2023-04-08T03:36:41+00:00 |
-| 19 | [new safeID／g0v 個資安全不放假：隱私之夜](../notes/9DeynfGDQ8Wd_sgK35gocQ.md) | 2023-04-02T01:23:01+00:00 | 2023-03-29T02:53:13+00:00 |
-| 20 | [new safeID／g0v 隱私之夜 2023-03-10](../notes/fCcig9VsSYODPPhdZiWoXg.md) | 2023-03-17T12:26:35+00:00 | 2023-03-10T08:57:47+00:00 |
+| 8 | [要背新的身分證字號好累喔🥵](../notes/AZv-RFEeRvuiXXJZY1Lr9Q.md) | 2023-10-31T07:59:44+00:00 | 2023-08-25T13:55:17+00:00 |
+| 9 | [申請換號訴願書](../notes/RnAgsiXVTGWdPF_l-hXvJQ.md) | 2023-10-31T04:07:05+00:00 | 2023-10-30T07:32:37+00:00 |
+| 10 | [申請換號行政訴訟起訴書](../notes/kvXyTur2QAChOnIRHDKa9Q.md) | 2023-10-31T04:06:48+00:00 | 2023-10-30T08:04:20+00:00 |
+| 11 | [new safeID 換掉我的身份證字號 教戰手冊](../notes/cUOhFMyFSpSn986ArG7TPg.md) | 2023-10-30T08:13:08+00:00 | 2023-08-26T02:59:09+00:00 |
+| 12 | [new safe ID anti-scam-material 宣導圖文影音](../notes/_xAVlL3ySGy0CAUty9PWcw.md) | 2023-07-01T08:50:12+00:00 | 2023-04-08T03:33:48+00:00 |
+| 13 | [new safeID join-platform-proposal 連署提案撰寫](../notes/DZ6Ja9GsSYGYvBRFFkjc5w.md) | 2023-07-01T08:10:24+00:00 | 2023-07-01T03:59:42+00:00 |
+| 14 | [new safeID have-i-been-pwned 換掉外洩的身分證字號](../notes/UwydOUDMR_uRWKGJf8jvGQ.md) | 2023-07-01T07:57:51+00:00 | 2023-06-19T12:40:56+00:00 |
+| 15 | [new safe ID ideal-scene-proposal 蒐集意見](../notes/eWBDgVJ7T6mDsp7FlOfbJg.md) | 2023-04-09T03:05:12+00:00 | 2023-04-08T03:25:55+00:00 |
+| 16 | [new safeID 換掉外洩的身分證字號 cross-organization-alignment](../notes/hRA2_MZnRuyTOFoVqaux8g.md) | 2023-04-08T03:36:58+00:00 | 2023-04-08T03:36:41+00:00 |
+| 17 | [new safeID／g0v 個資安全不放假：隱私之夜](../notes/9DeynfGDQ8Wd_sgK35gocQ.md) | 2023-04-02T01:23:01+00:00 | 2023-03-29T02:53:13+00:00 |
+| 18 | [new safeID／g0v 隱私之夜 2023-03-10](../notes/fCcig9VsSYODPPhdZiWoXg.md) | 2023-03-17T12:26:35+00:00 | 2023-03-10T08:57:47+00:00 |
