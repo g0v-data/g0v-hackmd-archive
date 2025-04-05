@@ -87,3 +87,8 @@ Hungry Pans 夯堡 寧波店
 南門鯓丼
 - https://maps.app.goo.gl/HH4cJdzMxfzi856X8
 - 生魚片好吃、味噌湯很大碗
+
+## 推薦者：YC
+虹品鍋貼水餃專賣店
+- https://maps.app.goo.gl/17rBb612pttmbhfs9
+- 大家都說CP值高
