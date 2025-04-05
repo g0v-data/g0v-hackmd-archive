@@ -6,9 +6,12 @@
 [TOC]
 
 :::
-啟程
-https://yewenjing76.weebly.com/388992713823460---300502698927468-2185531243.html
-https://www.youtube.com/watch?v=sDGghk50ns0
+Game H6/M8/U9/U10/X2 PRO
+Wii 模擬器
+Win32DiskImager
+
+https://dr3c.net/h6-gamebox/
+
 
 台灣小百岳
 https://catyc.pixnet.net/blog/post/63581416-%E5%8F%B0%E7%81%A3%E5%B0%8F%E7%99%BE%E5%B2%B3
