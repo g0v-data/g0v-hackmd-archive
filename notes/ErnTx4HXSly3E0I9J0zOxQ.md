@@ -615,6 +615,10 @@ https://visual.ly/community/Infographics/environment/walkable-mixed-use-neighbor
 - 針對古風里，創造連續行人路徑，將社區公共空間串聯，包含芒果香草園、龍泉市場、古風小白屋、雲泰小雅綠地
 - 針對泰順公園周邊，公園與泰順街36號之間道路改為不得汽車穿越，減少汽車過境車流
 
+### 臺北市松江南京捷運站與四個街廓
+
+https://www.facebook.com/MikLiu/posts/pfbid02ZbXdSetV7vgiMX8wVt4eQ1yHtzfFTHDD29Ae44YKWNgV6Jz85iNzi9xmuSVV28ZQl?locale=zh_TW
+
 ### 臺北市臺北城範圍
 
 https://www.facebook.com/share/p/NeQvryiM3v9u7EUG/
