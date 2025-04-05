@@ -7,7 +7,7 @@
 
 :::
 Game H6/M8/U9/U10/X2 PRO
-Wii 模擬器
+Wii 模擬器Dolphin
 Win32DiskImager
 
 https://dr3c.net/h6-gamebox/

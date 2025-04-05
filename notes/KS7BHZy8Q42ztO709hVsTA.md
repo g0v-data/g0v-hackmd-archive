@@ -6,6 +6,19 @@ tags: food,
 
 提醒：留意週六日是否營業
 
+## 活動餐飲
+
+披薩
+- Hungry Pans 夯堡 寧波店
+- 牯嶺街有 必勝客-南昌店
+
+胖老爹
+
+烤鴨
+
+飲料：
+- npohub 一樓咖博館
+
 ## 由 PM5 提供｜Provided by PM5 
 - [正宗建中黑砂糖刨冰｜Shaved Ice with Black Sugar](https://maps.app.goo.gl/zwgFAL5Vs3doHtHq5)
 
@@ -59,7 +72,6 @@ Hungry Pans 夯堡 寧波店
 - 虱目魚雖然贏不了台南，但是可以點一堆小東西，很爽
 
 金峰滷肉飯就是想吃滷肉飯很適合，而且滿快的
-- 2025 室內裝修中，開店日期？要查查看
 
 南門鯓丼
 - https://maps.app.goo.gl/HH4cJdzMxfzi856X8
