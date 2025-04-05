@@ -12,15 +12,26 @@ tags: food,
 - Hungry Pans 夯堡 寧波店
 - 牯嶺街有 必勝客-南昌店
 
-胖老爹
+炸雞
+- 胖老爹
 
-烤鴨
+肉類
+- 烤鴨
+
+素食：？
+
+無麩質：？
 
 飲料：
 - npohub 一樓咖博館
 
+
 ## 由 PM5 提供｜Provided by PM5 
 - [正宗建中黑砂糖刨冰｜Shaved Ice with Black Sugar](https://maps.app.goo.gl/zwgFAL5Vs3doHtHq5)
+
+## clkao 推薦 
+
+豆味行 https://maps.app.goo.gl/bojT1jbHKLcWBdYN9
 
 ## 由 yellowsoar 提供｜Provided by yellowsoar 
 
