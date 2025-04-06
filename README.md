@@ -2,6 +2,7 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [edu](tags/edu.md) | 149 | 2025-04-06T03:11:14+00:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 35017 | 2025-04-05T21:22:22+00:00 |
 | [keelung](tags/keelung.md) | 1 | 2025-04-05T17:51:39+00:00 |
 | [Templates](tags/Templates.md) | 284 | 2025-04-05T14:30:33+00:00 |
@@ -28,7 +29,6 @@
 | [ g0v](tags/%20g0v.md) | 4 | 2025-04-02T15:08:44+00:00 |
 | [Disfactory](tags/Disfactory.md) | 184 | 2025-04-02T13:11:27+00:00 |
 | [vTaiwan](tags/vTaiwan.md) | 111 | 2025-04-02T10:58:31+00:00 |
-| [edu](tags/edu.md) | 149 | 2025-03-31T09:48:01+00:00 |
 | [rand0mth0n](tags/rand0mth0n.md) | 21 | 2025-03-29T15:52:07+00:00 |
 | [ hackathon](tags/%20hackathon.md) | 9 | 2025-03-29T15:52:07+00:00 |
 | [hackathon](tags/hackathon.md) | 62 | 2025-03-29T15:48:30+00:00 |

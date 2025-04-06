@@ -65,6 +65,8 @@ https://drive.google.com/drive/folders/1vccBs56aJ1RTBsA5NHZh-ESwwJYKq_01?usp=sha
 - 盤點原住民族重點小學 csv https://airtable.com/appEy0jH7wgeFfcMY/shrjmzerb0sobb2oY/tblXkKfDdxXyZF61O/viw5fJFBCcmoPcCCu/recXkz9axQ5SY0TdY?blocks=hide
 - 台灣原住民族部落基礎資料庫(2021年6月) https://airtable.com/appEy0jH7wgeFfcMY/shrjmzerb0sobb2oY/tblXkKfDdxXyZF61O/viw5fJFBCcmoPcCCu/rec9WT7YbVpcnLlBh?blocks=hide
 - 教育部公布有關於原住民族學生資料地圖集 https://airtable.com/appEy0jH7wgeFfcMY/shrjmzerb0sobb2oY/tblXkKfDdxXyZF61O/viw5fJFBCcmoPcCCu/recyOUIQrPIHdqgp3?blocks=hide
+- 個別學校素材蒐集
+    - 花蓮縣萬榮國小，設立超過百年，目前雖然學生只有47名，老師加校長不到10人，但仍持續辦學 https://www.facebook.com/permalink.php?story_fbid=pfbid02e7xjC8o7fvkVZ6tg4hhrcaieeFcLw12JRaPU1pCRrrXFRpoxykor2vZW6F7bT1w8l&id=100051170178681
 
 學區範圍
 - 臺北市可以看到的地理圖框 https://schooldistrict.tp.edu.tw/gis/index.jsp?school=%25E9%25BE%258D%25E5%25AE%2589%25E5%259C%258B%25E5%25B0%258F@undefined@undefined
