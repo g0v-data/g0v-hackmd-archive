@@ -70,6 +70,8 @@ tags: 公有地大行動, 可能的空間, edu
         - [彰化縣大城鄉繼去年永光國小裁併後，建校62年的「頂庄國小」也將步入後塵](https://www.ettoday.net/amp/amp_news.php?news_id=1892059&from=fb_et_news)
         - 台中市東勢實驗高中舊校區
             - https://www.facebook.com/groups/368972756282/permalink/10157185998211283/
+        - 摘：曾經有2000多人的林業村，村內的「森榮國小」曾有400多位學生，全臺數一數二的林業聚落「林田山」
+            - https://www.facebook.com/share/p/1CEMvSdJvm/
     - 校園餘裕空間
         - http://ssdelt.nhps.tp.edu.tw/index.php?action=link
             - 臺北市的餘裕教室資訊查詢
