@@ -14,7 +14,7 @@ https://g0v.hackmd.io/@chewei/B14OsdWfi/
 - [新生流域「觀點便利貼」<br>歡迎線上填寫、瀏覽成果 ✍](https://g0v.hackmd.io/MrRWqJgpTHeeGgMyfOxF3w?view)
 - [(已結束)2023 四月至八月<br>戶外走讀與室內討論活動](https://g0v.hackmd.io/@chewei/S1tEhWp6j)
 - [(已結束)2023 十一月<br>戶外走讀與室內討論活動](https://g0v.hackmd.io/77MzJ59PQoScFkm4P4kYUw?view)
-- [(已結束)2024 一月至十一月<br>活動籌畫 🔥🔥🔥](https://g0v.hackmd.io/_HOgDAFaRYaoApQZJrwRNQ?view)
+- [(已結束)2024 一月至十一月<br>活動籌畫 🔥](https://g0v.hackmd.io/_HOgDAFaRYaoApQZJrwRNQ?view)
 - [2025 <br>活動籌畫 🔥🔥🔥](https://g0v.hackmd.io/T7mjTzRtTAukiDOZtUPXuw?view)
 - [Event 活動企劃彙整區 🏃‍♀️](https://g0v.hackmd.io/mPCuC_qcRAG1Yw7rrUZwRg?view)
 

@@ -2,7 +2,7 @@
 tags: edu, 
 ---
 
-# 學校就學人口變化趨勢推測
+# 學校就學人口變化趨勢推測 / 廢校預警
 
 :::info 方便分享共筆網址
 廢校預警 🚨 學校就學人口變化趨勢推測
@@ -19,6 +19,9 @@ https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
 - g0v Slack #edu
 - FB 社團「零時小學校」
 
+專案介紹影片：https://youtu.be/Int0d9_eLiA
+<iframe width=100% height="450" src="https://www.youtube.com/embed/Int0d9_eLiA?si=kWoXyKq5Y36YBiqp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 今日任務 (g0v Hackath66n)
 
 使用學校基本統計資訊資料集，來看各學校的就學人口趨勢
@@ -30,6 +33,7 @@ https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
     - 教育部主管法規查詢系統：公立國民小學及國民中學變更或停辦準則
         https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001597
 - 各縣市政府教育部門依據母法所制定的作業辦法/施行細則
+- 偏遠地區學校教育發展條例 https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001698
     
 
 將已經廢校的名單，整理成資料集
@@ -85,8 +89,7 @@ https://drive.google.com/drive/folders/1vccBs56aJ1RTBsA5NHZh-ESwwJYKq_01?usp=sha
     - 國教署新聞稿頁面 https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=7E9E989F1DEFD729
 - 民間文件：台灣廢校盤點與再生、餘裕空間活化機制 https://g0v.hackmd.io/sTanR4YKQNq45GjWinU_yg?view
 
-## 相關法規
-- 偏遠地區學校教育發展條例 https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001698
+
 
 
 

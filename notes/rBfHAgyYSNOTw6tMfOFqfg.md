@@ -150,6 +150,8 @@ https://www.facebook.com/groups/269013233204234/posts/8262619370510207/
 公務機關使用生成式AI相關管理規範
 https://reurl.cc/G5qEgZ
 
+【世界衛生組織關於人工智慧醫療的倫理與治理指引︰AI 醫療的關鍵倫理原則與其對台灣的啟示】全文連結：http://markliu.org/AImed.pdf
+
 金融業
 https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202406200001&dtable=News
 

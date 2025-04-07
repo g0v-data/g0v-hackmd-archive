@@ -17,7 +17,7 @@ tags: 新生流域
 
 ## 推動歷程
 
-- 20241120 水利松提案 https://www.facebook.com/share/15BwKwWjwL/
+- 20241120 水利松提案 https://www.facebook.com/groups/582154450196478/posts/1104421464636438/
 
 ## 提案說明
 
