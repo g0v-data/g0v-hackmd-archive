@@ -215,7 +215,7 @@ https://data.gov.hk/tc-data/dataset/hk-td-tis_15-road-network-v2
     - 留設區最窄處的寬度： 公尺
 
 ### 柏林 Wrangelstraße Falckensteinstraße
-- Google Map：
+- Google Map：https://maps.app.goo.gl/S4gufQCAk9qWASp97
 - 改造前，道路尺寸與車道數量
     - 可能要看歷史街景？
     - 南北向道路：
