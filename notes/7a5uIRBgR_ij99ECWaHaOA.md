@@ -1,6 +1,6 @@
 ---
 title: "圖書小幫手"
-tags: 書
+tags: book, 書
 ---
 
 # 圖書小幫手
@@ -44,16 +44,13 @@ https://www.facebook.com/144656692385834/posts/1160521500799343
 - 「TAAZE 借閱查詢」現有的網站: [http://www.taaze.tw/sing.html?pid=11100594041](http://www.taaze.tw/sing.html?pid=11100594041)
 
 當然這也可以擴充成網路書店比價，不過這不是我主要想解決的問題，也已經有網站(ex. findbook)做了這功能了。
-
 - 我看了第一句話「在逛圖書網站～（略）～one-click 借書或預約」看來是個「倉庫庫存管理」的概念。
 > 另問、二手書交換（交流）的概念要不要這裡提供？
 > [name=Michael_Li]
 
 - 掘冊，網友書評
     - https://www.facebook.com/%E6%8E%98%E5%86%8Aminebook-520762128359126/
-
 - Google Book Search 發佈預覽此書的 API [https://libraryview.me/2008/03/16/645/](https://libraryview.me/2008/03/16/645/)
-
 - 日本借書帳簿
     - https://www.facebook.com/yjnews/posts/2506385256099486
 

@@ -1,12 +1,11 @@
 ---
 title: "立院國會圖書館、資訊處會議"
-tags: hackpad
+tags: ly, hackpad
 ---
 
 # 立院國會圖書館、資訊處會議
 
 > [點此觀看原始內容](https://g0v.hackpad.tw/mw9wqz0Beay)
-
 
 立院群賢樓 2016-06-14 15:00
 1500~1620 國會圖書館
