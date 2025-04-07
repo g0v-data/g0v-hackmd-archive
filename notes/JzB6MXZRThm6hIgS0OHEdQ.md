@@ -121,6 +121,8 @@ https://tainan.olc.tw/p/shelter/
 - 桃園市新屋區，避難場所點位全區消失了，海上也找不到他們了
 - 忠孝新生捷運站有 36 個避難場所點位
 - 臺北市大安區大安運動中心，沒有資料
+    - 會挑這個運動中心，是因為 2024 年的社群勘誤成果，有找出 140 個經緯度錯誤的資料，包含這個大安運動中心，作為驗證抽檢，發現還是錯的
+    - 140 個經緯度錯誤的資料集比對成果：https://docs.google.com/spreadsheets/d/1l_Au7txDgsknhHKvhLksfSAzeMmSoaih3m4pMdqwrBU/edit
 
 
 ##### 消防防災e點通 APP - 避難收容處所
@@ -202,10 +204,10 @@ https://tainan.olc.tw/p/shelter/
     - 地圖工作歷程筆記
         - 20240221: "This app has exceeded its free usage quota. If you are the owner of the app, please activate a paid subscription, or the app will be deactivated on March 6th 2024." 免費版 Up to 500 views
         - 20240308 chewei 已再換一個 [地圖網址](https://app.awesome-table.com/-NsTj-d3gKaoZCgi28Xq/view) 
+        - 20250408 可能先確認 政府資料開放平台 有沒有重新上架新的資料集
 - 地圖所依據的資料集 Googlesheet：
     - https://docs.google.com/spreadsheets/d/1l_Au7txDgsknhHKvhLksfSAzeMmSoaih3m4pMdqwrBU/edit
 
-<iframe referrerpolicy="no-referrer-when-downgrade" height="600px" width="100%" style="border:none;" src="https://app.awesome-table.com/-NsTj-d3gKaoZCgi28Xq/view"></iframe>
 
 ---
 
