@@ -15,6 +15,7 @@ tags: web3
     - [name=mashbean]++
     - [name=星辰代卸]++
     - [name=A4/Amos]+(莫名刷到hackmd，可以亂入嗎？但胖子應該走超慢)
+        - 可以 [name=peter]
 
 ## 路線選擇
 - 三峽地區：鳶山，滿月圓，東眼山，五寮尖，熊空茶園 
@@ -25,6 +26,11 @@ tags: web3
 歡迎大家提供路線！
 :::
 
-## 
+## 相關活動
+### 山友證
+![](https://g0v.hackmd.io/_uploads/B1x4OD-01l.png)
+申請方式：在 slack 上私訊 peter，或者是
 - 活動中，努力是用web3工具？
 - 但要先run起來再說
+
+## 第一個
