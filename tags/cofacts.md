@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [和 AI 一起查《烏克蘭新兵僅受訓一日即被派往作戰》一文](../notes/gJQjNSD7QZaGN-aOlpZceQ.md) | 2025-04-07T12:58:23+00:00 | 2025-04-07T12:55:29+00:00 |
+| 1 | [和 AI 一起查《烏克蘭新兵僅受訓一日即被派往作戰》一文](../notes/gJQjNSD7QZaGN-aOlpZceQ.md) | 2025-04-07T13:03:06+00:00 | 2025-04-07T12:55:29+00:00 |
 | 2 | [Cofacts Hackath66n 協作頁面](../notes/V0VdLYytThuXr2A6nEgaYg.md) | 2025-03-29T08:12:18+00:00 | 2025-03-27T15:28:38+00:00 |
 | 3 | [20250317 會議記錄](../notes/vplohTE0RoqMuV6y2JFhnA.md) | 2025-03-24T06:46:59+00:00 | 2025-03-17T05:05:19+00:00 |
 | 4 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2025-03-17T07:05:48+00:00 | 2022-08-05T02:46:53+00:00 |
