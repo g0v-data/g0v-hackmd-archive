@@ -5,6 +5,11 @@ tags: g0v 文化部,hackpad
 
 # g0v 形象文件
 
+:::info
+上層文件：2012 年以來的 g0v 設計檔案大整理！
+https://g0v.hackmd.io/@tofus/Bkxv56f8C
+:::
+
 > [點此觀看原始內容](https://g0v.hackpad.tw/l15VqSBBocg)
 
 

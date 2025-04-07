@@ -9,7 +9,7 @@ tags: design, infra
 [TOC]
 :::
 
-## 共用資料夾
+## 共用資料夾 folder
 
 歡迎使用共用資料夾，存放檔案
 https://drive.google.com/drive/folders/13rrzprPswRSWH9jqeeTt_H-h8O-dob-H
@@ -26,7 +26,7 @@ https://docs.google.com/document/d/1cyIeXCSnnEPMprYJtCy-EmNsIuti4kxv/edit?usp=dr
 2025 摺頁 Passport to the g0v universe
 https://g0v.hackmd.io/8nYqYBChQliFk55hQlnP5Q?view
 
-## 簡報
+## 簡報 Slide
 
 「專案圖鑑」簡報檔案
 https://docs.google.com/presentation/d/1S4rWtCGAe99Vy_bLd6CjuHtAdrCYzN1k7TqhIrG-u5g/edit
@@ -34,7 +34,7 @@ https://docs.google.com/presentation/d/1S4rWtCGAe99Vy_bLd6CjuHtAdrCYzN1k7TqhIrG-
 日文簡報 by ky
 https://docs.google.com/presentation/d/15JBWzl_okFRPdzDnMKMOhjKw5K3_AwO5xmryKEAQvOk/edit#slide=id.g77f54c58e6_0_318
 
-## 各種設計與圖像作品
+## 各種設計與圖像作品 Illustration
 
 g0v Logo
 https://drive.google.com/drive/folders/1tGm9PY5I6FJ0XF0THMyAaMgSe5z9r49_?usp=drive_link
@@ -50,7 +50,11 @@ https://g0v.hackmd.io/FiMmi2-bRsavQff8LZNvUQ
 問問看
 
 歷屆大松活動圖像
-- 揪松團整理
+- https://jothon.g0v.tw/events/
+- todo 揪松團整理
+
+0與1的力量 by Tuiry
+- https://g0v.hackmd.io/v9xC2yaDSWSi9pucnz4zWQ?view
 
 賀年卡圖像 
 - 2019 開始 https://g0v.hackmd.io/@jothon/ry5TjRBhD?type=view
@@ -70,7 +74,7 @@ https://drive.google.com/drive/folders/1jl0OZK3FoG-UF_dNJkyCnsTI5NP8rZuz?usp=dri
 ![](https://g0v.hackmd.io/_uploads/rklhanGIskx.png)
 
 
-## 照片類
+## 照片類 Photo
 
 挑選過的照片，放在以下簡報中
 https://docs.google.com/presentation/d/1mgtbmHB9u0JeU3GAOL1ONXXJSmqDPaBTi8fo2ExgfLU/edit?usp=sharing
