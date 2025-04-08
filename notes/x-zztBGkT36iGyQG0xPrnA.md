@@ -29,6 +29,9 @@ tags: chatgpt
 - 需再詢問其想要的帳號圖像
     - 參考方式 https://www.facebook.com/story.php?story_fbid=pfbid029fkwqMkPdqA25ZLooSqpk1Gbs5c5gfMhyv2jrqb3XQxwp1uiZZeGohqh5q7goXyFl&id=100066394669485&mibextid=qC1gEa
 
+
+https://www.facebook.com/share/p/18raTbQevx/
+
 其他參考素材
 - ChatGPT 官方文件
     - https://openai.com/api/pricing/

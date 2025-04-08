@@ -29,7 +29,7 @@ Rentea 小聚源自於 [g0v 社群](https://g0v.tw/)，是以城市的居住議�
 
 ## 進行中的點子們
 
-- [Rentea 長租剛好 服務2.0](https://g0v.hackmd.io/@XfBQ4ReySuOmt6stnxIDIA/SJwxbBR21l)
+- [Rentea 長租剛好 服務2.0](https://g0v.hackmd.io/@ddio-io/rentea-rental-house-2-0/)
 - [g0v Summit 社群軌意見收集](https://g0v.hackmd.io/PcWuQ3vXREqLAqrd0EQugg)
 - [[**長租剛好**] 市場研究與服務提案](https://g0v.hackmd.io/@ddio/appropriate-rental-housing)
 - [租屋相關法規整理](https://g0v.hackmd.io/kgQvBVMgQhaVcvjrFZ6wmw?view)
