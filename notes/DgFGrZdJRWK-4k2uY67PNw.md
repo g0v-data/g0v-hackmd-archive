@@ -10,7 +10,7 @@
 
 ## 包租代管證照、房東租客溝通
 
-- []
+- [包租代管法規、公會權責整理](https://g0v.hackmd.io/8YxFlxSISTqt54GUrxbF0g)
 
 ## 未分類筆記
 
