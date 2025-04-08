@@ -110,7 +110,7 @@ https://atlas.geo.ntnu.edu.tw/
 
 2025.04 開始，又發現許多錯誤
 
-##### 待確認資料來源
+資料來源 - https://data.gov.tw/dataset/73242
 
 民間開發者 kiang 運用政府資料來源，建置地圖
 https://tainan.olc.tw/p/shelter/
