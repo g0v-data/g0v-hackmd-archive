@@ -4,15 +4,18 @@ tags:
 
 # 電梯增設 / 案例地圖
 
-待登載資料
-- 49 筆，私人住宅類 https://uro.gov.taipei/News.aspx?n=9639D4A96F49BAFC&sms=B462987B049EF0B0&_CSN=06344202CAE09649
-- 找找一些公共建築類
+## 待登載資料
+- 49 筆，臺北市私人住宅類 
+    - https://uro.gov.taipei/News.aspx?n=9639D4A96F49BAFC&sms=B462987B049EF0B0&_CSN=06344202CAE09649
+    - 圖卡資訊，要手動 key 出地址文字
+- 公共建築類，有蒐集到也可登載到地圖中
 
-已登載：
-- 社會局整宅、npohub
-
-案例地圖
+## 案例地圖
 https://maps.app.goo.gl/PcJbYYY2DPrkro5C6?g_st=ic
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1RUW9vRATt43_9s70gMfkX6CFC534jvs&ehbc=2E312F" width=100% height="480"></iframe>
+
+## 補充資訊
 
 相簿
 https://photos.app.goo.gl/MCLScATKMdYaDuYF9

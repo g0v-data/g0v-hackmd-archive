@@ -316,3 +316,5 @@ Michael審單之後轉給Jason->Jason填入資料->朝松填入線號->我配IP
 我目前是給Jason Kuo 郭 濮菘 [ CONT-Type2-WELL TAKE COMPUTER CO LTD ]處理喔 
 現在不用等我的mail了 直接找Jason
 我有教他怎麼開通了  他確認好防毒和安裝防毒後會直接開
+
+這幾台有空閒的可以讓我防毒升級嗎?  不用重開機
