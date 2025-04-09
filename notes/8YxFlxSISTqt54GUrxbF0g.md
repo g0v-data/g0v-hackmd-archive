@@ -5,7 +5,7 @@ tags: Rentea
 
 文件授權： [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.zh_TW)
 
-## 想問的問題
+## 基本問題    
 
 1. 包租代管證照的權力義務為何？
 2. 如果 Rentea 想要用代管角色，發起租屋實驗的話，是有可能靠行的嗎？對業者來說，風險是什麼？
