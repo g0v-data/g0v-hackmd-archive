@@ -7,6 +7,7 @@ tags: vtaiwan
 參與者 Participants: Tim, Allen, Peter, Joey, 翊婷, tofus 
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
 
+![](https://g0v.hackmd.io/_uploads/S1qJIyN01x.png)
 
 
 ## 自我介紹與新手導覽
@@ -31,9 +32,20 @@ tags: vtaiwan
 - 開個筆記，完成更多的共編，同時也可以徵集更多的使用者意見！
 - 找下一個議題：
     - 如何決定發起議題的門檻？
+- 每週或定時挑一個議題來整理？也可以用人或 AI 來找意見或產生論點[name=josh][name=peter]
+    - 從實踐找尋標準
+    - 種子論點：第一層
+    - 議題挑選：
+        - READR 大罷免
+            - 較難取得政治中立性
+        - 其他議題？
+            - 
 
 ## 5/23 議題小聚
 - [facebook貼文](https://www.facebook.com/vtaiwan.tw/posts/pfbid0Xua6ajGWgURbS3XGqU5vubpXwonnorrR3vCqsRiv2AAtu8DFYocb74q7wSkYFkTUl)
 - [報名表單](https://forms.gle/MLrDbFghTJuvLD4m7)
 - [polis 連結](https://polis.tw/87nnxrrj5d)
 ### 利用 AI 修飾意見
+
+## 網站
+- 
