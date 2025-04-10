@@ -2,11 +2,14 @@
 tags: vTaiwan小松
 ---
 
-# 1203小松
+# 1204小松
 時間 Time ：19:00-20:30
 地點 Location ：線上 Online
 參與者 Participants: Peter, T, Josh, 承哲 
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
+
+![](https://g0v.hackmd.io/_uploads/SkbrVv1S0kx.png)
+
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 ## 活動報告

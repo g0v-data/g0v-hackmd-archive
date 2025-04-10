@@ -9,6 +9,7 @@ tags: vtaiwan
 :::success
 下週三（11/13) 小松暫停一次
 :::
+![](https://g0v.hackmd.io/_uploads/BkF_DJBCye.png)
 
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)

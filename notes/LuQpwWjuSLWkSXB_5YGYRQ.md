@@ -7,6 +7,8 @@ tags: vtaiwan
 參與者 Participants: Josh, T
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
 
+
+
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 

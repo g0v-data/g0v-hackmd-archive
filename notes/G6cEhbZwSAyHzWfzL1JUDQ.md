@@ -9,6 +9,8 @@ tags: vTaiwan
 :::success
 祝大家新年快樂！
 :::
+![](https://g0v.hackmd.io/_uploads/Sys6IJr0kx.png)
+
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 

@@ -11,6 +11,10 @@ tags: vtaiwan
 邀請法國記者 Jean-Lou Fourquet 來分享他在做的平台（民主化演算法平台）[Tournesol](https://tournesol.app/)
 討論共筆：[20250312 Tournesol 團隊分享](/K0rHf4LwReaCchrW_m40hA) 
 :::
+
+![](https://g0v.hackmd.io/_uploads/HJewCr1HRJx.png)
+
+
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 ### 自我介紹

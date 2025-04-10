@@ -74,9 +74,7 @@ ARkit 當中有提供雙眼各自的位置以及看的方向，資料型態皆Ve
 ### 必定要常存的東西
 
 1. saveLocal(Prefab)：這用來存資料的
-2. brainbitcontroller：這會在main ui 時候設置為`DontDestroyOnLoad(GameObject.Find("BrainBitController"))`，
-
-> 這個寫法不是很好，你在開發的時候有遇到的話就知道了
+2. brainbitcontroller：這會在main ui 時候設置為`DontDestroyOnLoad(GameObject.Find("BrainBitController"))`
 
 ## ios build 過程
 

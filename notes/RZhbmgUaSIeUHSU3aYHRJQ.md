@@ -10,6 +10,10 @@ tags: vtaiwan
 下週活動預告
 邀請法國記者 Jean-Lou Fourquet 來分享他在做的平台（民主化演算法平台）[Tournesol](https://tournesol.app/)
 :::
+
+![](https://g0v.hackmd.io/_uploads/B1lm-LySA1g.png)
+
+
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 ### 自我介紹
