@@ -58,6 +58,8 @@ tags: 公有地大行動, 可能的空間, edu
         - 臺灣觀光學院
         - 高雄國際商工 https://www.facebook.com/1041234089255951/posts/5286478521398132/
         - https://youtu.be/IbtgyTrgRyg
+    - 已經停辦的學校清單在教育部統計處的學校名錄頁面裡面可以找到資料
+        - https://depart.moe.edu.tw/ed4500/News.aspx?n=63F5AB3D02A8BBAC&sms=1FF9979D10DBF9F3
     - 廢校等待活化
         - 全國待活化閒置校舍
             - http://ssdelt.nhps.tp.edu.tw/index.php?action=activation_data_n
