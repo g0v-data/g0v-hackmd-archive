@@ -1,6 +1,6 @@
 # Markdown quick start guide
 
-Welcome to HackMD! :tada:
+Welcome to HackMD! :tada: 
 
 This note will get you started on writing in Markdown in no time.
 
