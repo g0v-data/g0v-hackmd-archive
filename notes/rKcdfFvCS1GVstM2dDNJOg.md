@@ -29,6 +29,7 @@
 3. Sophie
 4. KC
 5. 小賴
+6. 小羽
 
 
 :warning:注意事項
@@ -38,11 +39,8 @@
     * 220V
     * 插座跟台灣一樣
     * 小心直接用台灣的吹風機110V的會爆炸.
-* 簽證 : 免, 2023/11/10-2024/5/10開放台灣人免簽入境泰國
-* 貨幣 : 
-    * 帶美金去
-    * [換幣教學](https://www.bigfang.tw/blog/post/40723645),在機場直接去 SuperRich 換
-    * 入境泰國海關會隨機抽查**每人身上須準備2萬泰銖**，每個家庭4萬泰銖。(等值貨幣即可，如美金、台幣等)。
+* 簽證 : 免
+* 貨幣 : 直接帶台幣去就可以, 大約 6K 到 10K, 面額最好是1K
 * 健康 : 吃的東西要小心, 比如生醃, 我會想在最一天去吃.
 * 通訊 : [eSIM, 購買網址](https://www.kkday.com/zh-tw/product/136927-esim-thailand-dtac-5g-7-10-days-unlimited-data)
 * 時差 : 比台灣慢一小時,也就是說曼谷早上10點, 臺灣時間則是早上11點.
@@ -99,16 +97,14 @@
 到機場的交通大家再討論
 :::
 
->### ==出發==
->> :airplane:飛機
->> 週三 2025-04-23 10:55
+>## ==出發== 
+>> ### :airplane:飛機 週三 2025-04-23 10:55 ~ 12:55 轉 14:55 ~ 17:30
 >> ![](https://g0v.hackmd.io/_uploads/rJd-5HLCke.png)
 >> :::spoiler 
->> 123
+>> 會在香港待二小時
 >> ::: 
->### ==回程==
->>:airplane:飛機
->> 周日 2024-04-29 11:50
+>### ==回程== 
+>> ### :airplane:飛機 周二 2024-04-29 11:50 ~ 16:45 轉 18:15 ~ 20:05
 >> ![](https://g0v.hackmd.io/_uploads/r1aU9r8Cye.png)
 >> :::spoiler 
 >> 123
@@ -132,32 +128,55 @@
 #### 4/23
 > 出發桃機,詳情看[上面](https://g0v.hackmd.io/P4WAFZYJTCqv412pBUPf-Q?both#%E5%87%BA%E7%99%BC)
 準備登機, 一整天的飛機~
+上船
 
-#### 4/25
+#### 4/24
 >Zodiac（小艇潛點）
 Elephant Head Rock（象頭岩）知名潛點
 Christmas Point（聖誕角）
 Namchai Bay（夜潛）
 
-#### 4/26
+#### 4/25
 > Koh Bon（兩支潛）
 Koh Tachai Pinnacle（塔差礁頂潛點，兩支潛）
 若水流太強，最後一支潛水改到 Koh Tachai Reef（塔差礁）進行日落潛
 
-#### 4/27
+#### 4/26
 >  Richelieu Rock（瑞奇流岩，兩支潛）知名潛點
 Pakkad Bay（帕卡灣）
 Ao Tao（夜潛）
 
-#### 4/28
+#### 4/27
 > Torinla（托林拉島）
 Richelieu Rock（再次兩支潛）
 前往飯店
 夜市
-打靶?
+
+#### 4/28
+> 打靶?
+
 
 #### 4/29
-> 準備一天的飛機
+> 準備空中飛人一天
+
+
+:shallow_pan_of_food: 吃吃喝喝
+---
+:::info
+[參考網址](https://kimiyo.tw/patong-beach/?utm_source=chatgpt.com)
+[參考URL](https://vocus.cc/article/67432a82fd89780001a99af4?utm_source=chatgpt.com)
+大家參考, 然後選擇去.
+:::
+1. [6號餐廳](https://maps.app.goo.gl/A1i6Ebi6ZdoZfaE78)
+    > 這家餐廳是芭東區的經典，提供道地的泰式料理，價格親民，深受遊客喜愛。
+3. [517 Fisherman Seafood Restaurant Patong](https://maps.app.goo.gl/gGwXayF2LxgyykYb6)
+    > 位於芭東海灘附近，這家海鮮餐廳由華人經營，提供多樣的海鮮選擇，包括皮皮蝦、龍蝦和螃蟹，營業至凌晨，適合夜貓子。
+4. [First seafood 第一海鲜](https://maps.app.goo.gl/L9umixK8dCofTDW58)
+    > 這家餐廳以新鮮的海鮮聞名，特別推薦皮皮蝦和菠蘿炒飯，菜單有中文翻譯，方便點餐。 
+5. [Bangla Night Market, 夜生活](https://maps.app.goo.gl/kBzNFZnu3hLRjKgK6)
+    > 夜生活的中心，酒吧、夜店林立，是體驗當地夜生活的好去處。 
+6. [Banzaan Fresh Market, 市場](https://maps.app.goo.gl/nbYtm4ifqqC1HYkm6)
+    > 這裡可以購買新鮮的海鮮，並請現場的餐廳代為烹調，享受地道的泰式海鮮大餐。
 
 
 :handbag:行李
@@ -168,7 +187,7 @@ Richelieu Rock（再次兩支潛）
 
 :::spoiler 展開~
 ### 基本文件和財務
-* 護照/身份證
+* **護照/身份證 最重要的了**
 * 簽證（如需要）
 * 電信租
 * 旅遊保險文件
