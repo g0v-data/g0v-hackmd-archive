@@ -28,6 +28,7 @@ https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
 
 Data 資料清點與清理
 - 整理專案執行過程中，所使用到的資料集種類，建立資料及目錄與索引
+    - https://docs.google.com/spreadsheets/d/16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik/edit
     - 註明各種資料集是否開放、資料可用度說明 (是否還需要清理、清理重點) 
 - 取用各項資料的 portal
 - 透過資料清理、資料分析、視覺化地圖網頁，來引動、策動、啟動
