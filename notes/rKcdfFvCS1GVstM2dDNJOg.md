@@ -28,7 +28,7 @@
 2. Hugo
 3. Sophie
 4. KC
-5. 小懶
+5. 小賴
 
 
 :warning:注意事項
@@ -99,74 +99,65 @@
 到機場的交通大家再討論
 :::
 
-
 >### ==出發==
 >> :airplane:飛機
->> 週三 2025-04-23 
->> ==**21:00 ~ 23:55**== (3小時 45分鐘) 
->> TPE 桃機 - BKK 曼谷 Thai VietJet Air VZ565
->> 
->> :car:交通車
->> 到桃園機場
->> ==18:00 松山區民生東路三段111號== 集合出發
->> :::spoiler 曼谷機場到飯店資訊
->> 曼谷機場到飯店 $723
->> The staff is hanging your name sign at “gate 3~4” (inside and next to the information counter). If you can’t find your driver, please contact the emergency number provided 24/7 Hotline: +86-18153312853 ；WhatsApp:+852 61588017 / +66-647961202 immediately.
->> ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c26b277bf6b8ee4cab782fc3f24b920b.png)
->> :::
+>> 週三 2025-04-23 10:55
+>> ![](https://g0v.hackmd.io/_uploads/rJd-5HLCke.png)
+>> :::spoiler 
+>> 123
+>> ::: 
 >### ==回程==
 >>:airplane:飛機
->> 周日 2024-04-28
->> ==**15:20 ~ 20:10**== (3小時 50分鐘)
->> BKK 曼谷 - TPE 桃機 Thai VietJet Air VZ564
-
+>> 周日 2024-04-29 11:50
+>> ![](https://g0v.hackmd.io/_uploads/r1aU9r8Cye.png)
+>> :::spoiler 
+>> 123
+>> ::: 
 
 :hotel:住宿
 ---
 :::info
-**選擇排名**
-主要價格會落在1千出頭, 然後看一下近一個月的評價, 會有泳池.
+基本 前幾天住船上 MV LITTLE PRINCESS LIVE ABOARD
+最後一晚 [La Vista Patong](https://maps.app.goo.gl/Mu3YJhXH28W9BrVV8) 看起來不錯, 有泳池.
 :::
-決定好了,就這家.
-1. [Hotel Icon Bangkok](https://maps.app.goo.gl/UTmC1n8oLa1J8mKk9 "bab")
-    : 4.2星 (1,001)·4 星级酒店, 頂樓有泳池跟bar.
-    
-
 
 :tada:活動
 ---
 :::info
 活動的部份大家都可以貼上來, 如果有想去的就揪團一起去.
+可能打靶, 逛個夜市
 :::
 
 ### 日行程
-#### 4/24
-> 下班直接出發去 桃機,詳情看[上面](https://g0v.hackmd.io/P4WAFZYJTCqv412pBUPf-Q?both#%E5%87%BA%E7%99%BC)
-準備登機
+#### 4/23
+> 出發桃機,詳情看[上面](https://g0v.hackmd.io/P4WAFZYJTCqv412pBUPf-Q?both#%E5%87%BA%E7%99%BC)
+準備登機, 一整天的飛機~
 
 #### 4/25
-> 飯店 check in
-> [北碧府 IG 網美景點一日遊＆死亡鐵路](https://s.klook.com/c/v3qlN0pE3x)
- **未預約** 17:00 晚餐 [空中酒吧 TRIBE Sky Beach Club](https://maps.app.goo.gl/6ZEnyMvcAb8HTQGB6)
- 
+>Zodiac（小艇潛點）
+Elephant Head Rock（象頭岩）知名潛點
+Christmas Point（聖誕角）
+Namchai Bay（夜潛）
+
 #### 4/26
-> 包車水上市場
-18:00 [喬德夜市](https://maps.app.goo.gl/JVMhKq8SGMV92Ut5A)
+> Koh Bon（兩支潛）
+Koh Tachai Pinnacle（塔差礁頂潛點，兩支潛）
+若水流太強，最後一支潛水改到 Koh Tachai Reef（塔差礁）進行日落潛
 
 #### 4/27
->  **未預約** 17:00 [SIROCCO SKY BAR 最後大丈夫景點](https://maps.app.goo.gl/T87HdfNK5yFC7RuCA)
->  12:00 午餐 [咖哩蟹肉](https://www.instagram.com/reel/C4-bVJCvnBb/?utm_source=ig_web_button_share_sheet)
->  晚餐 17:00 [map](https://maps.app.goo.gl/oSJoNEGJjfMr2MR38) [吞武里海鮮市場介紹](https://udn.com/news/story/120673/7044705) 
+>  Richelieu Rock（瑞奇流岩，兩支潛）知名潛點
+Pakkad Bay（帕卡灣）
+Ao Tao（夜潛）
 
 #### 4/28
-> A組可以在[Kingkaew seafood](https://maps.app.goo.gl/tvsMx87TD1TMysMA7) 吃
-> 12:00 A組準備回家~
-> 21:00 B組準備回家~
+> Torinla（托林拉島）
+Richelieu Rock（再次兩支潛）
+前往飯店
+夜市
+打靶?
 
 #### 4/29
->
-
-### 想去想吃願望清單
+> 準備一天的飛機
 
 
 :handbag:行李
