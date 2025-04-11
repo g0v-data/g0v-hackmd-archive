@@ -177,6 +177,11 @@ Richelieu Rock（再次兩支潛）
     > 夜生活的中心，酒吧、夜店林立，是體驗當地夜生活的好去處。 
 6. [Banzaan Fresh Market, 市場](https://maps.app.goo.gl/nbYtm4ifqqC1HYkm6)
     > 這裡可以購買新鮮的海鮮，並請現場的餐廳代為烹調，享受地道的泰式海鮮大餐。
+7. [Yona Beach Club](https://maps.app.goo.gl/o9W3UKNmDSXc3ysH8)
+    > 世界最大海上酒吧；要搭小船提前預約才能去的
+    > 船上有表演 有泳池 分分鐘出大片 東西也好吃
+    > 最後一班接駁船是16：00，這時去待一下就有日落了
+    > 感覺超 chill 可以去!
 
 
 :handbag:行李
