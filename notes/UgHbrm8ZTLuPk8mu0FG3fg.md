@@ -1,4 +1,4 @@
-# 2025 04/23-28（29）斯米蘭船宿
+# 2025 04/23-28（29）斯米蘭船宿ㄅ
 :::info
 [文件簡易教學](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book), [emoji](https://gist.github.com/rxaviers/7360908)
 > [name=Hugo Chiu]
