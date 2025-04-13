@@ -1,4 +1,4 @@
-# 2025 04/23-28（29）斯米蘭船宿ㄅ
+# 2025 04/23-28（29）斯米蘭船宿 Mv Little Princess Live Aboard
 :::info
 [文件簡易教學](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book), [emoji](https://gist.github.com/rxaviers/7360908)
 > [name=Hugo Chiu]
@@ -95,27 +95,36 @@
 ---
 :::info
 到機場的交通大家再討論
+請提早2小時在桃園機場第一航站的4號報到櫃檯（Check-in Counter）集合
 :::
 
 >## ==出發== 
 >> ### :airplane:飛機 週三 2025-04-23 10:55 ~ 12:55 轉 14:55 ~ 17:30
+>> 報到櫃檯 4
+>> :::spoiler
 >> ![](https://g0v.hackmd.io/_uploads/rJd-5HLCke.png)
->> :::spoiler 
->> 會在香港待二小時
+>> 
 >> ::: 
 >### ==回程== 
 >> ### :airplane:飛機 周二 2024-04-29 11:50 ~ 16:45 轉 18:15 ~ 20:05
->> ![](https://g0v.hackmd.io/_uploads/r1aU9r8Cye.png)
+>> 
 >> :::spoiler 
->> 123
+>> ![](https://g0v.hackmd.io/_uploads/r1aU9r8Cye.png)
+>> 
 >> ::: 
 
 :hotel:住宿
 ---
 :::info
-基本 前幾天住船上 MV LITTLE PRINCESS LIVE ABOARD
-最後一晚 [La Vista Patong](https://maps.app.goo.gl/Mu3YJhXH28W9BrVV8) 看起來不錯, 有泳池.
+船宿 [MV LITTLE PRINCESS LIVE ABOARD](https://www.freedomdive.com/en/diving_boat/mv-chao-ying-noi?srsltid=AfmBOorCnZpFLbmxZqWltv7BQ7OVzpI646xHIiXgXiLMnyPDBsQmWaPd)
+陸宿 [La Vista Patong](https://maps.app.goo.gl/Mu3YJhXH28W9BrVV8)
 :::
+4/23 ~ 27
+船宿詳情 [MV LITTLE PRINCESS LIVE ABOARD](https://www.freedomdive.com/en/diving_boat/mv-chao-ying-noi?srsltid=AfmBOorCnZpFLbmxZqWltv7BQ7OVzpI646xHIiXgXiLMnyPDBsQmWaPd)
+https://www.facebook.com/chaoyingnoi/
+https://www.facebook.com/chaoyingnoi/videos/574286745495758
+4/28
+陸宿詳情 [La Vista Patong](https://maps.app.goo.gl/Mu3YJhXH28W9BrVV8) 看起來不錯, 有泳池.
 
 :tada:活動
 ---
@@ -127,10 +136,29 @@
 ### 日行程
 #### 4/23
 > 出發桃機,詳情看[上面](https://g0v.hackmd.io/P4WAFZYJTCqv412pBUPf-Q?both#%E5%87%BA%E7%99%BC)
-準備登機, 一整天的飛機~
-上船
+08:55 我們在桃園機場第一航站的4號報到櫃檯（Check-in Counter）集合然後買酒~ 開始嗨起來
+10:55 起飛 12:55 抵達香港轉機
+14:45 起飛 17:30 抵達普吉島 當日機場/飯店接送(順便簡單購物)至港口登船。
+## 🗓 DAY 1（4/23）行程總覽
+
+| 時間   | 行程內容                                |
+|--------|-----------------------------------------|
+| 07:30  | 桃園機場集合，辦理登機手續               |
+| 10:55  | 國泰 CX489 出發 ✈️                        |
+| 13:00  | 抵達香港，等待轉機                       |
+| 14:45  | 再次起飛，前往普吉島                     |
+| 17:20  | 抵達普吉島機場                           |
+| 17:40  | 接送至港口登船（沿途簡單購物）             |
+
+
 
 #### 4/24
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
 >Zodiac（小艇潛點）
 Elephant Head Rock（象頭岩）知名潛點
 Christmas Point（聖誕角）
