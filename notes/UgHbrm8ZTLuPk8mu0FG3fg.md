@@ -1,12 +1,6 @@
-# 2025 04/23-28（29）斯米蘭船宿 Mv Little Princess Live Aboard 公主號
-:::info
-[文件簡易教學](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book), [emoji](https://gist.github.com/rxaviers/7360908)
-> [name=Hugo Chiu]
-:::
+# 2025 04/23-28（29）斯米蘭船宿 Mv Little Princess Live Aboard 小公主號
 
-
-:earth_asia: 旅程總覽
----
+## 一、:earth_asia: 旅程總覽
 :::info
 **📍 目的地：** [西密蘭群島](https://maps.app.goo.gl/Y1tq24CbXcuuHvtz5)，泰國  
 **🗓 旅行日期：** 2025/04/23 ～ 04/29  
@@ -22,8 +16,7 @@
 | 4/28（一） | 自由活動 | 芭東 Patong 市區探索、放鬆購物 |
 | 4/29（二） | 回國 | 普吉 → 香港 → 台灣（CX708／CX400） |
 
-:raised_hand: 我們的旅伴宣言
----
+## 二、:raised_hand: 我們的旅伴宣言
 :::success
 1. 不擺臭臉，不做情緒炸彈 🙅‍♂️  
 2. 自己沒排的行程，也一起用開放的心情參與 🧘‍♀️  
@@ -32,13 +25,13 @@
 5. 開開心心出門，平平安安回家 🛫🏠  
 :::
 
-:busts_in_silhouette: 隊員名單（共 6 人）
----
+## 三、:busts_in_silhouette: 隊員名單（共 6 人）
+:::info
+我們就是「海底乾杯小隊」！一起潛、一起吃、一起笑 🌊🍻
+:::
 Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
-> 我們就是「海底乾杯小隊」！一起潛、一起吃、一起笑 🌊🍻
 
-:warning: 注意事項
----
+## 四、:warning: 注意事項
 :::warning
 - **📘 護照：** ==有效期需超過 6 個月==
 - **⚡ 電壓：** 220V，插座與台灣相同，但 **台灣 110V 吹風機勿直接使用，會爆炸！**
@@ -83,8 +76,7 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
 - 建議投保旅遊保險，以防萬一
 :::
 
-:heavy_check_mark: 出發準備清單 TODO
----
+## 五、:heavy_check_mark: 出發準備清單 TODO
 :::info
 ✅ 必辦事項進度追蹤
 :::
@@ -96,12 +88,11 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
 - [ ] 🚐 機場接送（尚未確認）
 
 ### 📦 出發前一天提醒
-- [ ] 🎒 整理行李、確認裝備
+- [x] 🎒 整理行李、確認裝備
 
 
 
-:ticket:交通資訊
----
+## 六、:ticket:交通資訊
 :::info
 🚐 到機場的交通可另行討論  
 📍 報到櫃檯：桃園機場第一航廈 4 號報到櫃檯（可用航班號 > [查詢](https://www.taoyuan-airport.com/flight_depart?k=CX489&time=all)）
@@ -126,8 +117,7 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
 >> ::: 
 
 
-:hotel:住宿
----
+## 七、:hotel:住宿
 :::info
 **船宿：** [MV LITTLE PRINCESS LIVE ABOARD](https://www.freedomdive.com/en/diving_boat/mv-chao-ying-noi?srsltid=AfmBOorCnZpFLbmxZqWltv7BQ7OVzpI646xHIiXgXiLMnyPDBsQmWaPd)  
 **陸宿：** [La Vista Patong](https://maps.app.goo.gl/Mu3YJhXH28W9BrVV8)
@@ -143,9 +133,10 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
 - 備註：飯店看起來不錯，有泳池 🏊‍♂️
 
 
-## 🗓 日行程總覽
+## 八、🗓 日行程總覽
 
 ### 🗓 DAY 1（4/23）出發日 ✈️ 桃園 → 香港 → 普吉島
+:::info
 | 時間 | 活動內容 | 備註／潛點說明 |
 |---|---|---|
 | 🧳 08:55 | 桃園機場 T1 4 號櫃檯集合，買酒準備出發 🎉 | 詳情請見：[出發說明](https://g0v.hackmd.io/P4WAFZYJTCqv412pBUPf-Q?both#%E5%87%BA%E7%99%BC) |
@@ -154,10 +145,11 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
 | 🛫 14:45 | 國泰航空 CX771 再次起飛，前往普吉島 | - |
 | 🛬 17:30 | 抵達普吉島 | - |
 | 🚐 晚上 | 晚上 機場接送 → 港口登船（途中簡單購物） | - |
+:::
 
----
 
 ### 🐠 DAY 2（4/24）Similan 海域潛水日！
+:::info
 | 時間 | 活動內容 | 備註／潛點說明 |
 |---|---|---|
 | ⏰ 07:00 | Morning Call 起床 | 一天的潛水行程開始！ |
@@ -169,11 +161,11 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
 | ☕ 15:30 | 下午茶／點心 | 簡單補給 |
 | 🌙 18:00-19:00 | 第四次潛水（夜潛）– Namchai Bay（南柴灣） | 夜行性生物、螃蟹蝦類等 🔦 |
 | 🍽 19:30 | 晚餐 | 船上豐盛晚餐 ✨ 🍲 |
-
----
+:::
 
  
 ### 🐠 DAY 3（4/25）Koh Bon & Koh Tachai 潛水日！
+:::info
 | 時間 | 活動內容 | 備註／潛點說明 |
 |---|---|---|
 | ⏰ 06:00 | Morning Call 起床 | 潛水日 Day 3 開始！ |
@@ -185,10 +177,11 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
 | ☕ 15:00 | 下午茶／點心 | 潛水間補充能量 |
 | 🤿 17:00-18:00 | 第四次潛水 – Koh Tachai Pinnacle<br>※ 若水流過強則改至 Koh Tachai Reef（日落潛） | Pinnacle：水流強但魚群豐富<br>Reef（日落潛）：視野開闊，可見夜行性生物 🔦 |
 | 🍽 19:30 | 晚餐 | 船上熱騰騰晚餐 🍲 |
+:::
 
----
 
 ### 🐠 DAY 4（4/26）Richelieu Rock 經典潛點日！
+:::info
 | 時間 | 活動內容 | 備註／潛點說明 |
 |---|---|---|
 | ⏰ 06:00 | Morning Call 起床 | 潛水日 Day 4 開始！ |
@@ -200,10 +193,11 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
 | ☕ 15:00 | 下午茶／點心 | 補充熱量與水分 |
 | 🌙 17:00-18:00 | 第四次潛水（夜潛）– Ao Tao（奧陶灣） | 夜潛潛點，探索夜行性小生物與螃蟹蝦類 🔦 |
 | 🍽 19:30 | 晚餐 | 船上豐盛晚餐，回顧今日精彩潛點 ✨ |
+:::
 
----
 
 ### 🐠 DAY 5（4/27）Richelieu Rock 最終潛日 & 夜市行程
+:::info
 | 時間 | 活動內容 | 備註／潛點說明 |
 |---|---|---|
 | ⏰ 06:00 | Morning Call 起床 | 最後一天潛水日開始 |
@@ -215,20 +209,20 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
 | 🧼 下午 | 清洗裝備、下船準備 | 整理裝備並告別公主號 |
 | 🏨 傍晚 | 前往飯店入住 | 轉換陸地模式 🛏️ |
 | 🛍️ 19:30 | 夜市行程（自備泰銖） | 美食、購物、放鬆時光！ |
-
----
+:::
 
 ### 🏝️ DAY 6（4/28）自由行探索日（無潛水）
+:::info
 | 時間 | 活動內容 | 備註／說明 |
 |---|---|---|
 | 🍽 08:00 | 起床吃早餐 | 自由安排，放鬆緩衝 |
 | 🚐 09:30 | 前往飯店 – La Vista Patong | 專車接送 |
 | 🧳 上午 | 放行李 | 入住後稍作休息 |
 | 🗺️ 全天 | 自由活動 / 行程待安排 | 可選擇按摩、市區逛街、海灘放空等 |
-
----
+:::
 
 ### ✈️ DAY 7（4/29）平安回國
+:::info
 | 時間 | 活動內容 | 備註／說明 |
 |---|---|---|
 | ⏰ 08:00 | 起床、退房、飯店接送前往機場 | 建議提早出發 |
@@ -236,16 +230,18 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
 | 🛬 16:45 | 抵達香港機場 | 準備轉機回台 |
 | 🛫 18:15 | 搭機回台灣 | 國泰航空 CX400 |
 | 🏁 20:05 | 抵達桃園國際機場 | 本次旅程結束 ✨ |
+:::
 
 
+## 八、:shallow_pan_of_food: 吃吃喝喝討論
 
----
-:shallow_pan_of_food: 吃吃喝喝討論
----
 :::info
 [參考網址](https://kimiyo.tw/patong-beach/?utm_source=chatgpt.com)
 [參考URL](https://vocus.cc/article/67432a82fd89780001a99af4?utm_source=chatgpt.com)
 大家參考, 然後選擇去.
+生醃蝦（กุ้งแช่น้ำปลา）
+生醃螃蟹（ปูดอง）
+生醃貝類，如血蛤（หอยแครงดอง）
 :::
 1. [6號餐廳](https://maps.app.goo.gl/A1i6Ebi6ZdoZfaE78)
     > 這家餐廳是芭東區的經典，提供道地的泰式料理，價格親民，深受遊客喜愛。
@@ -257,15 +253,16 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
     > 夜生活的中心，酒吧、夜店林立，是體驗當地夜生活的好去處。 
 6. [Banzaan Fresh Market, 市場](https://maps.app.goo.gl/nbYtm4ifqqC1HYkm6)
     > 這裡可以購買新鮮的海鮮，並請現場的餐廳代為烹調，享受地道的泰式海鮮大餐。
+    > 這是芭東非常有名的傳統市場，在白天可以看到很多海鮮小攤，有些現場就有做生醃料理，或者可以買生蝦請現場攤販處理。
 7. [Yona Beach Club](https://maps.app.goo.gl/o9W3UKNmDSXc3ysH8)
     > 世界最大海上酒吧；要搭小船提前預約才能去的
     > 船上有表演 有泳池 分分鐘出大片 東西也好吃
     > 最後一班接駁船是16：00，這時去待一下就有日落了
     > 感覺超 chill 可以去!
+8. [No.9 2nd Restaurant](https://maps.app.goo.gl/u2nFwe6Anug1BM5A9)
+    > 這家雖然主打熟食，但也有人回報過他們提供新鮮蝦料理，建議你可以去試看看問問看是否能做生醃。
 
-
-:handbag:行李
----
+## 九、:handbag:行李
 :::info
  也就是要帶的東西, 各別看有要帶的才帶.
 :::
