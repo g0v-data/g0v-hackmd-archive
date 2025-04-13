@@ -1,5 +1,7 @@
 # 2025 04/23-28（29）斯米蘭船宿 Mv Little Princess Live Aboard 小公主號
 
+![](https://g0v.hackmd.io/_uploads/HyW0CyF01l.png)
+
 ## 一、:earth_asia: 旅程總覽
 :::info
 **📍 目的地：** [西密蘭群島](https://maps.app.goo.gl/Y1tq24CbXcuuHvtz5)，泰國  
@@ -12,8 +14,8 @@
 | 4/24（四） | 潛水 Day 1 | Zodiac（小艇潛點）、Elephant Head Rock（象頭岩）、Christmas Point（聖誕角）、Namchai Bay（南柴灣） |
 | 4/25（五） | 潛水 Day 2 | Koh Bon（龜島）、Koh Tachai Pinnacle（塔差礁頂）／Koh Tachai Reef（塔差礁） |
 | 4/26（六） | 潛水 Day 3 | Richelieu Rock（瑞奇流岩）、Pakkad Bay（帕卡灣）、Ao Tao（奧陶灣） |
-| 4/27（日） | 潛水 Day 4 → 下船 → 飯店 → 夜市 | Torinla Island（托林拉島）、Richelieu Rock（瑞奇流岩） |
-| 4/28（一） | 自由活動 | 芭東 Patong 市區探索、放鬆購物 |
+| 4/27（日） | 潛水 Day 4 | Torinla Island（托林拉島）、Richelieu Rock（瑞奇流岩） |
+| 4/28（一） | 下船 → 飯店 → 夜市自由活動 | 芭東 Patong 市區探索、放鬆購物 |
 | 4/29（二） | 回國 | 普吉 → 香港 → 台灣（CX708／CX400） |
 
 ## 二、:raised_hand: 我們的旅伴宣言
@@ -38,6 +40,7 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
 - **🛃 簽證：** 免簽，可直接入境
 - **💰 貨幣：** 建議直接帶台幣去換，約 6,000～10,000 元，面額最好為 1,000 元
 - **🧼 健康：** 飲食注意衛生，避免生醃、生水、生菜；若要嘗試建議最後一天再吃
+- **🧼 健康：** 個人藥品要記得帶暈船藥胃藥之類的。
 - **📶 通訊：** 建議使用 eSIM：[購買連結（KKDay）](https://www.kkday.com/zh-tw/product/136927-esim-thailand-dtac-5g-7-10-days-unlimited-data)
 - **🕐 時差：** 泰國比台灣慢 1 小時（例：曼谷 10:00 = 台灣 11:00）
 :::
@@ -130,14 +133,14 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
 
 ### 📅 4/28 陸宿（La Vista Patong）
 - 陸宿位置：[Google 地圖](https://maps.app.goo.gl/Mu3YJhXH28W9BrVV8)
-- 備註：飯店看起來不錯，有泳池 🏊‍♂️
+- 備註：飯店看起來不錯，有按摩浴缸
 
 
 ## 八、🗓 日行程總覽
 
 ### 🗓 DAY 1（4/23）出發日 ✈️ 桃園 → 香港 → 普吉島
 :::info
-| 時間 | 活動內容 | 備註／潛點說明 |
+| 時間 | 活動內容 | 備註／說明 |
 |---|---|---|
 | 🧳 08:55 | 桃園機場 T1 4 號櫃檯集合，買酒準備出發 🎉 | 詳情請見：[出發說明](https://g0v.hackmd.io/P4WAFZYJTCqv412pBUPf-Q?both#%E5%87%BA%E7%99%BC) |
 | 🛫 10:55 | 國泰航空 CX489 起飛 | 前往香港轉機 |
@@ -206,9 +209,9 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
 | 🤿 11:00-12:00 | 第二次潛水 – Richelieu Rock（瑞奇流岩） | 回訪經典潛點，從不同角度探索 |
 | 🍛 12:00 | 中餐 | 船上午餐 |
 | 🤿 14:00-15:00 | 第三次潛水 – Richelieu Rock（瑞奇流岩） | 最終潛，盡情享受水下最後時光！ |
-| 🧼 下午 | 清洗裝備、下船準備 | 整理裝備並告別公主號 |
-| 🏨 傍晚 | 前往飯店入住 | 轉換陸地模式 🛏️ |
+| 🧼 下午 | 清洗裝備 | - |
 | 🛍️ 19:30 | 夜市行程（自備泰銖） | 美食、購物、放鬆時光！ |
+| 🍛 21:30 | 時間暫定 回船上 | 美食、美酒、放鬆時光！ |
 :::
 
 ### 🏝️ DAY 6（4/28）自由行探索日（無潛水）
@@ -233,7 +236,7 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
 :::
 
 
-## 八、:shallow_pan_of_food: 吃吃喝喝討論
+## 九、:shallow_pan_of_food: 吃吃喝喝討論
 
 :::info
 [參考網址](https://kimiyo.tw/patong-beach/?utm_source=chatgpt.com)
@@ -262,14 +265,14 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
 8. [No.9 2nd Restaurant](https://maps.app.goo.gl/u2nFwe6Anug1BM5A9)
     > 這家雖然主打熟食，但也有人回報過他們提供新鮮蝦料理，建議你可以去試看看問問看是否能做生醃。
 
-## 九、:handbag:行李
+## 十、:handbag:行李
 :::info
  也就是要帶的東西, 各別看有要帶的才帶.
 :::
 
 :::spoiler 展開~
 ### 基本文件和財務
-* **護照/身份證 最重要的了**
+* ==護照/身份證 最重要的了==
 * 簽證（如需要）
 * 電信租
 * 旅遊保險文件
