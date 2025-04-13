@@ -39,6 +39,7 @@ Kenny ｜ Hugo ｜ Sophie ｜ KC ｜ 小賴 ｜ 小羽
 - **⚡ 電壓：** 220V，插座與台灣相同，但 **台灣 110V 吹風機勿直接使用，會爆炸！**
 - **🛃 簽證：** 免簽，可直接入境
 - **💰 貨幣：** 建議直接帶台幣去換，約 6,000～10,000 元，面額最好為 1,000 元
+- **💰 貨幣：** 這家換匯的剛好在飯店旁邊 [Krungsri 連結](https://maps.app.goo.gl/86L5NP1Cf8yht2cT9)
 - **🧼 健康：** 飲食注意衛生，避免生醃、生水、生菜；若要嘗試建議最後一天再吃
 - **🧼 健康：** 個人藥品要記得帶暈船藥胃藥之類的。
 - **📶 通訊：** 建議使用 eSIM：[購買連結（KKDay）](https://www.kkday.com/zh-tw/product/136927-esim-thailand-dtac-5g-7-10-days-unlimited-data)
