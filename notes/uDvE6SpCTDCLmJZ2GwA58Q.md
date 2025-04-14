@@ -440,6 +440,8 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
 - 水利處釋出雨水下水道主幹線
 - 臺北市雨水下水道資訊管理系統地圖
     - https://sewer.heo.gov.taipei/SEWER/Default
+- 雨水下水道測站位置，新生流域內有測站
+    - https://www.facebook.com/groups/582154450196478/posts/1208105894267994/
 - 議題討論：
     - 「舊水路」若與「雨水下水道」位置重疊，是否適合導入水環境營造措施
     - 箱涵若掀蓋，有什麼樣的考量
