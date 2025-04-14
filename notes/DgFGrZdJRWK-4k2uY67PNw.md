@@ -14,4 +14,6 @@
 
 ## 未分類筆記
 
+- [20250501 看房 & 專案基本方向](https://g0v.hackmd.io/gEoA6rwETI-3zP36vdBbXw)
+
 {%hackmd 1LO5rpavTiK4_cFrTouudg %}
