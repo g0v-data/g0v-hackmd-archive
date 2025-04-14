@@ -1,3 +1,7 @@
+---
+tags: Rentea
+---
+
 # 長租剛好 服務2.0
 
 文件授權： [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.zh_TW)
