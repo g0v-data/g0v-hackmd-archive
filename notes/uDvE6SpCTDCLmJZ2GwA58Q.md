@@ -94,6 +94,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 1940 台北市公車路線圖 https://www.facebook.com/share/aUeANjUcrTVifzGx/
         - 公車照片 https://www.facebook.com/share/p/ubpFZ5weChXnGQ2t/
     - 1932 照片鳥瞰 臺灣神社 https://www.facebook.com/share/p/B8tYT1UVD3u4z5sn/
+    - 晴園 https://www.facebook.com/share/1PqwQSziY1/?mibextid=wwXIfr
     - 照片，駐台美軍William Eggert 的C-130運輸機從松山機場往西起飛後到達現在花博公園美術園區(即天橋東邊)時由駕駛艙左側向東南方拍攝的。當時新生北路高架橋還沒建。照片內有德惠街雙城街口
         - https://www.facebook.com/share/p/ivdDxFZRiP231DZL/
     - 照片 建國啤酒廠 https://www.facebook.com/share/rooSpYXJMWnnLBf8/
