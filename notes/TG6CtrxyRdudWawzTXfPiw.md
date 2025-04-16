@@ -2,11 +2,20 @@
 tags: edu, 
 ---
 
-# 學校就學人口變化趨勢推測 / 廢校預警
+# 學校就學人口變化趨勢推測 / 廢校預警 / 校地校舍的未來
 
 :::info 方便分享共筆網址
-廢校預警 🚨 學校就學人口變化趨勢推測
+
+廢校預警 🚨 學校就學人口變化趨勢推測 🏫 校地校舍的未來
+
+工作文件 / 工作事項
 https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
+
+GitHub / Dataset 資料集
+https://github.com/g0v/small_school_renaissance
+
+g0v Slack 頻道
+#edu-school-學校存續議題
 :::
 
 :::warning
@@ -14,7 +23,7 @@ https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
 [toc]
 :::
 
-跳坑：明錡, chewei, yellowsoar, Tiff
+跳坑：明錡, chewei, yellowsoar, Tiff, 小夏, 
 討論請至：
 - g0v Slack #edu https://g0v.hackmd.io/@jothon/joing0vslack
 - FB 社團「零時小學校」https://www.facebook.com/groups/240879797438433
@@ -185,6 +194,11 @@ https://drive.google.com/drive/folders/1vccBs56aJ1RTBsA5NHZh-ESwwJYKq_01?usp=sha
 https://docs.google.com/presentation/d/1ayz3C60x4jnEabPkE1-2YZ3el2mVGoKxONKQnRHOHQ0/edit?usp=sharing
 
 ## Data 資料集
+
+:::info
+GitHub https://github.com/g0v/small_school_renaissance/
+:::
+
 
 全國學校地點資料
 - https://g0v.hackmd.io/kb9Sn5u0TZuvWwFbfgt3Hg
