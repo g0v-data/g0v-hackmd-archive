@@ -218,3 +218,15 @@ https://docs.google.com/presentation/d/1ayz3C60x4jnEabPkE1-2YZ3el2mVGoKxONKQnRHO
 - 社會經濟資料服務平台 https://segis.moi.gov.tw/STATCloud/Index 
 
 
+# 待整理的資訊
+
+## 偏遠地區相關學術研究
+
+- 偏遠地區國民中小學教育資料建置與教育生態分析研究
+    <https://srda.sinica.edu.tw/file/24a4cce9-96be-4257-b6e6-bb988ae7f0be>
+
+## 學校名單
+
+- 教育部國民及學前教育署/原住民族教育資訊網/學校名錄(單)
+    - 官網： <https://ieiw.k12ea.gov.tw/School/Index>
+    - OpenData: <https://data.gov.tw/dataset/162567>
