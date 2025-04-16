@@ -2,14 +2,14 @@
 tags: Disfactory, 
 ---
 
-# 違章工廠回報系統_持續通報與裁罰
+# 違章工廠回報系統_第194次小聚
 
 ###### tags: `Disfactory` `違章工廠` `違章工廠舉報系統`
 
-時間：20250402 19:30 (GMT+8)
+時間：20250416 19:30 (GMT+8)
 地點：地球公民基金會
 線上：https://meet.google.com/coc-vuaa-ykz
-小聚共筆：https://g0v.hackmd.io/9R4Wl1o6Q9eIJS8XCJFg_Q
+小聚共筆：https://g0v.hackmd.io/UPcHStg9RF6R8K7MiMFyKA
 - 違章工廠回報系統第192次小聚 20250305
 - 違章工廠回報系統第193次小聚 20250402
 
@@ -21,15 +21,10 @@ tags: Disfactory,
 ## 參與者簽到
 實體
 
-- yellowsoar
-- SL
-- peii
+
 
 線上：
 
-- Yukai
-- chewei
-- ael
 
 
 

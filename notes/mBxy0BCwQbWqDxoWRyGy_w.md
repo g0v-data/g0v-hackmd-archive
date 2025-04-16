@@ -3,7 +3,7 @@
 * 到**網路端點群組** 新增網路端點群組與網路端點*test-webserver-newui*
 * 到load balancing(Network services)編輯puhui-client-lb
 * 確認 NEG 建立完成
-   - 確認你建立的 NEG 是哪種類型（通常是 GCE_VM_IP_PORT、SERVERLESS、INTERNET_IP_PORT 等）。
+   - 確認你建立的 NEG 是哪種類型（通常是單一~NEG、 GCE_VM_IP_PORT、SERVERLESS、INTERNET_IP_PORT 等）。
    - 如果是用於 HTTP(S) 負載平衡器，通常會用「**區域性網路端點群組（Zonal NEG）**」。
 * 建立或編輯「後端服務（Backend Service）」
    - 前往 GCP Console → Network services → Load balancing。
