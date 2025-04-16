@@ -86,3 +86,31 @@ tags: vtaiwan
     - 3/29 的大松 https://g0v-jothon.kktix.cc/events/g0v-hackath66n
     - 可以擴充一下提案共筆，拿來投[資金池](https://g0v.hackmd.io/@jothon/20250329-bonus)
         - slides 
+
+## 4/16 小松討論
+### 網站管理
+- 在一個固定資料夾新增資料，然後 pull request 
+- 回到 github 的管理模式
+    - 各自更新，由有權限的管理者 pull request 
+    - 好處是可以轉讓權限，交接上比較方便
+- 可以開一個資料夾讓大家寫文章 / 更新活動資訊
+- 把共筆串 github
+
+### 網站上會出現的文章
+- 每週共筆
+    - 放在會議
+- 議題小聚紀錄文章
+    - 放在部落格
+- 參加活動紀錄文章
+    - 放在部落格
+- Insight 文章
+    - 放在部落格
+- 其他參與者的提案與結果
+    - 放在專案列表
+    
+### MCP 應用
+- 可能可以做的自動化應用
+    - [範例](https://github.com/yuna0x0/hackmd-mcp)
+
+### Action-list
+- 訂閱更新

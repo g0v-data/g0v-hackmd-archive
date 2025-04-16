@@ -47,6 +47,3 @@ tags: vtaiwan
 - [polis 連結](https://polis.tw/87nnxrrj5d)
 ### 利用 AI 修飾意見
 
-## 網站
-- 目前有一個預部署的[成果](https://vtaiwan.zeabur.app)
-- 
