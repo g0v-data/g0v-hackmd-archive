@@ -22,7 +22,7 @@ tags: Disfactory,
 
 ## 參與者簽到
 實體:
-oriyar, pei, SL, yukai, yellowsoar, kennyluck
+oriyar, pei, SL, yukai, yellowsoar, kennyluck, chewei
 
 線上：
 ael
@@ -62,8 +62,9 @@ peii:
 
 資料
 - 整理資料（土地資料查處名單）
-- - 與國土署溝通資料現有問題
+- 與國土署溝通資料現有問題
     - 資料內還是有不少案件「歷次查處情形」沒有標示日期
+    - 例如有寫 109 年排拆，但沒有後面的內容，今年已 114 年了
 
 設計
 - 調整現有平台設計
@@ -79,16 +80,17 @@ peii:
 - 串連前端後端
 
 
-
 On GitHub
 
 1. 要跟政府討論的資料問題 @peii @swind @yellowsoar 
 2. 設計要盤點 status filter 和需要哪些資料狀態 @SL @peii https://github.com/Disfactory/Disfactory/issues/655
 3. 前端想升級的東西: 修 production deploy @yukaii  https://github.com/Disfactory/frontend/issues/183
 
-### 目前用政府公開資料遇到的問題
+## 本次小聚紀錄
 
-### 
+
+
+### 考古目前各種回報狀態的資料欄位
 
 
 最原始後台 admin page 資料欄位設計：
@@ -107,3 +109,78 @@ gov_status:
 https://github.com/Disfactory/Disfactory/issues/389
 
 display_status: https://github.com/Disfactory/Disfactory/pull/410
+
+
+### 白板整理相關裁罰關係
+
+```mermaid
+stateDiagram-v2
+    state "尚未審查（A)" as A
+    state "已審查-不檢舉(O)" as O
+    state "已審查-需補件(P)" as P
+    state "已審查-待檢舉(Q)" as Q
+    state "已審查-已生成公文(X)" as X
+
+    A --> O
+    A --> Q
+    Q --> X
+    A --> P
+    P --> A
+```
+
+```mermaid
+flowchart TD
+    subgraph "裁罰（可獨立持續進行）"
+        direction LR
+        CF[首次裁罰] --> CR[再次裁罰] --> CR
+    end
+
+    subgraph "處理階段（線性狀態）"
+        direction LR
+        A[待處理] -->|需先裁罰| B[停工] --> C[停水停電] --> D[排程拆除] --> E[已拆除]
+    end
+
+    CF -.-> B
+```
+
+
+![](https://g0v.hackmd.io/_uploads/r1tQeVTCJx.png)
+
+違章工廠的處理順序
+
+```py
+cet_review_status_list = [
+    ("A", "尚未審查"),
+    ("O", "已審查-不檢舉"),
+    ("P", "已審查-需補件"),
+    ("Q", "已審查-待檢舉"),
+    ("X", "已審查-已生成公文"),
+]
+```
+
+- 待處理
+- 裁罰（可連續裁罰）
+- 停工
+- 停水停電
+- 排程拆除
+- 已拆除
+
+
+小結：連續金錢裁罰（地政或是都發）跟排拆（建管單位）是分開的流程，可以分開記 `status`
+
+但是連續裁罰的時間要怎麼記錄呢？
+需要整理到：https://github.com/Disfactory/Disfactory/issues/655
+
+
+### 目前用政府公開資料遇到的問題
+
+1. 希望每個案件都有獨立編號
+2. 有些資料有缺漏
+3. 歷次查處情形也怪怪的
+
+連續再裁罰相關的有哪些資料呢？ => 只有一份
+https://github.com/Disfactory/Disfactory/issues/656
+
+### 攝影計畫？
+
+等攝影師來聯繫 ~
