@@ -12,6 +12,11 @@ https://kenzkenz.xsrv.jp/open-hinata/
 ![](https://g0v.hackmd.io/_uploads/rJe8JQMUj1e.png)
 ![](https://g0v.hackmd.io/_uploads/r1ZI1mMLikx.png)
 
+「歴史地図（れきしちず）」平台運用Google地圖風格呈現 1800 至 1840 年左右（江戶時代後期）下的日本歷史地理 WebGIS
+WebGIS: https://rekichizu.jp/map/
+向量圖磚: https://mierune.github.io/rekichizu-data/tiles/v1/{z}/{x}/{y}.pbf
+圖磚樣式: https://mierune.github.io/rekichizu-style/styles/street/style.json
+
 ---
 
 ## topic

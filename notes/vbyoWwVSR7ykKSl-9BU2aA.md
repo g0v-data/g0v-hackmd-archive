@@ -1,3 +1,5 @@
+![](https://g0v.hackmd.io/_uploads/BJAurX00yg.jpg)
+
 Dafabet mang đến môi trường cá cược an toàn, chuyên nghiệp với nhiều trò chơi hấp dẫn. Tham gia ngay để tận hưởng ưu đãi khủng và hỗ trợ tận tâm từ đội ngũ chuyên gia. 
 Website: https://miatrade.net/ 
 
