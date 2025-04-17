@@ -186,7 +186,7 @@ Connect 累積行動團體網絡名單
 
 :::info
 共用資料夾，可以放工作檔案、簡報
-https://drive.google.com/drive/folders/1vccBs56aJ1RTBsA5NHZh-ESwwJYKq_01?usp=sharing
+https://drive.google.com/drive/folders/15tozJQMI0TLAms9mXgW_BjZYRdl3fWTo
 :::
 
 ## Slide 簡報
