@@ -45,22 +45,21 @@
 | 41 | [SaaS 韌性產品 self-host guide](../notes/9Z2EhRAFQq-jfsoixrwD5A.md) | 2024-03-23T09:02:05+00:00 | 2024-03-23T08:41:07+00:00 |
 | 42 | [g0v DigiResiTh0n Social Media Post Image Generation Prompts](../notes/PaNChj9XQ7ar_jVceu5ciQ.md) | 2024-03-10T08:26:31+00:00 | 2024-03-10T08:26:00+00:00 |
 | 43 | [g0v DigiResiThon 數位韌性松回 book mode 模板](../notes/VkctH3USQ-yoB6hw2s2D0Q.md) | 2024-03-10T06:57:57+00:00 | 2024-02-21T02:11:27+00:00 |
-| 44 | [g0v DigiResiThon idea pool](../notes/PMiMLc-JT3yFrAs3CL6rzw.md) | 2024-02-24T08:06:18+00:00 | 2024-02-24T08:01:01+00:00 |
-| 45 | [數位韌性情境分級](../notes/SYTBWVohTyuCgPGUqfAl9g.md) | 2024-02-24T07:06:41+00:00 | 2023-12-09T02:29:54+00:00 |
-| 46 | [大松小幫手指南](../notes/I60vO5PTQ322wu7wlLjiEg.md) | 2024-02-21T13:45:22+00:00 | 2023-12-05T03:29:15+00:00 |
-| 47 | [DigiResiThon 數位韌性松 bootstrapping](../notes/Qc8gsyY-Rn-4lXUA1gLH1g.md) | 2024-01-31T13:24:29+00:00 | 2023-12-30T08:19:42+00:00 |
-| 48 | [Google Meet 作為簡報投影 destination](../notes/L9OiaOhbSj2HGbuVcXtUIw.md) | 2023-12-31T09:30:40+00:00 | 2023-12-28T06:44:52+00:00 |
-| 49 | [將大松新手教學遊戲化實驗](../notes/BZ08fesJSVCVbPjxyYIjnw.md) | 2023-12-12T05:50:00+00:00 | 2023-12-10T04:23:35+00:00 |
-| 50 | [g0v 數位韌性松之  Digital Resiliency Firmware Update](../notes/Ex7L9ag7QfOnJXkwyz5iqg.md) | 2023-11-15T08:52:11+00:00 | 2023-11-04T05:49:47+00:00 |
-| 51 | [IG 不能動，還有什麼值得我心痛：為什麼要辦「假設網路斷光光」的 g0v 數位韌性黑客松](../notes/qkj6dwSFS0q8zpZO4-GxOQ.md) | 2023-11-08T14:54:28+00:00 | 2023-11-08T10:26:02+00:00 |
-| 52 | [韌性松場地路線圖及使用規定](../notes/9pwDPOXLTr6IJKiLofl3qg.md) | 2023-11-03T15:14:17+00:00 | 2023-11-03T14:51:11+00:00 |
-| 53 | [g0v hackath49n 台灣零時政府第肆拾玖次全糖去冰黑客松 x 2022 亞太社會創新高峰會 松後推坑](../notes/suE9Se1MR4uMZUp1TqZdxA.md) | 2022-05-10T19:42:18+00:00 | 2022-04-13T05:13:27+00:00 |
-| 54 | [g0v Hackath47n 第肆拾柒次板橋油庫口黑客松 松後推坑](../notes/19sw9ZEUQCyVaCnd3D8YWg.md) | 2021-12-20T18:57:52+00:00 | 2021-12-14T05:15:12+00:00 |
-| 55 | [萌典松 11/01 第二十四松 moed24ct](../notes/Bihe37E4SBqYNuXPN1G1aA.md) | 2020-11-01T09:57:47+00:00 | 2020-10-19T04:15:37+00:00 |
-| 56 | [萌典松 08/15 第二十三松 moed23ct](../notes/-KiPYTO3T96V-KJM_dRdyw.md) | 2020-10-19T04:31:52+00:00 | 2020-07-03T06:57:05+00:00 |
-| 57 | [0archive @ g0v-hackath37n](../notes/VS8C89GxQS68nWdNlAnqkg.md) | 2020-01-18T05:33:31+00:00 | 2019-12-02T12:58:24+00:00 |
-| 58 | [vTaiwan @ 五月大松](../notes/Pa_SGUyfSyKRtpf4T8EiNg.md) | 2019-06-09T00:25:04+00:00 | 2019-05-16T05:56:39+00:00 |
-| 59 | [g0v 專案資料庫補完計畫](../notes/EpU0aJihRfqPoCkdj67UEQ.md) | 2019-03-06T04:49:21+00:00 | 2019-03-05T07:23:45+00:00 |
-| 60 | [沒有人的新手村](../notes/4SlNIV95TuKP2bAzK7c9lw.md) | 2019-01-04T03:27:07+00:00 | 2018-11-22T09:33:19+00:00 |
-| 61 | [3/9 預定黑客松命名](../notes/1j8zcZQzQ1KzKlX1cqFIjQ.md) | 2018-12-07T12:54:48+00:00 | 2018-12-07T12:44:44+00:00 |
-| 62 | [[黑客松活動手冊] 行為守則](../notes/xfnqMnLZQIuYJraU2H7qYQ.md) | 2018-10-18T13:06:19+00:00 | 2014-06-15T17:55:34+00:00 |
+| 44 | [數位韌性情境分級](../notes/SYTBWVohTyuCgPGUqfAl9g.md) | 2024-02-24T07:06:41+00:00 | 2023-12-09T02:29:54+00:00 |
+| 45 | [大松小幫手指南](../notes/I60vO5PTQ322wu7wlLjiEg.md) | 2024-02-21T13:45:22+00:00 | 2023-12-05T03:29:15+00:00 |
+| 46 | [DigiResiThon 數位韌性松 bootstrapping](../notes/Qc8gsyY-Rn-4lXUA1gLH1g.md) | 2024-01-31T13:24:29+00:00 | 2023-12-30T08:19:42+00:00 |
+| 47 | [Google Meet 作為簡報投影 destination](../notes/L9OiaOhbSj2HGbuVcXtUIw.md) | 2023-12-31T09:30:40+00:00 | 2023-12-28T06:44:52+00:00 |
+| 48 | [將大松新手教學遊戲化實驗](../notes/BZ08fesJSVCVbPjxyYIjnw.md) | 2023-12-12T05:50:00+00:00 | 2023-12-10T04:23:35+00:00 |
+| 49 | [g0v 數位韌性松之  Digital Resiliency Firmware Update](../notes/Ex7L9ag7QfOnJXkwyz5iqg.md) | 2023-11-15T08:52:11+00:00 | 2023-11-04T05:49:47+00:00 |
+| 50 | [IG 不能動，還有什麼值得我心痛：為什麼要辦「假設網路斷光光」的 g0v 數位韌性黑客松](../notes/qkj6dwSFS0q8zpZO4-GxOQ.md) | 2023-11-08T14:54:28+00:00 | 2023-11-08T10:26:02+00:00 |
+| 51 | [韌性松場地路線圖及使用規定](../notes/9pwDPOXLTr6IJKiLofl3qg.md) | 2023-11-03T15:14:17+00:00 | 2023-11-03T14:51:11+00:00 |
+| 52 | [g0v hackath49n 台灣零時政府第肆拾玖次全糖去冰黑客松 x 2022 亞太社會創新高峰會 松後推坑](../notes/suE9Se1MR4uMZUp1TqZdxA.md) | 2022-05-10T19:42:18+00:00 | 2022-04-13T05:13:27+00:00 |
+| 53 | [g0v Hackath47n 第肆拾柒次板橋油庫口黑客松 松後推坑](../notes/19sw9ZEUQCyVaCnd3D8YWg.md) | 2021-12-20T18:57:52+00:00 | 2021-12-14T05:15:12+00:00 |
+| 54 | [萌典松 11/01 第二十四松 moed24ct](../notes/Bihe37E4SBqYNuXPN1G1aA.md) | 2020-11-01T09:57:47+00:00 | 2020-10-19T04:15:37+00:00 |
+| 55 | [萌典松 08/15 第二十三松 moed23ct](../notes/-KiPYTO3T96V-KJM_dRdyw.md) | 2020-10-19T04:31:52+00:00 | 2020-07-03T06:57:05+00:00 |
+| 56 | [0archive @ g0v-hackath37n](../notes/VS8C89GxQS68nWdNlAnqkg.md) | 2020-01-18T05:33:31+00:00 | 2019-12-02T12:58:24+00:00 |
+| 57 | [vTaiwan @ 五月大松](../notes/Pa_SGUyfSyKRtpf4T8EiNg.md) | 2019-06-09T00:25:04+00:00 | 2019-05-16T05:56:39+00:00 |
+| 58 | [g0v 專案資料庫補完計畫](../notes/EpU0aJihRfqPoCkdj67UEQ.md) | 2019-03-06T04:49:21+00:00 | 2019-03-05T07:23:45+00:00 |
+| 59 | [沒有人的新手村](../notes/4SlNIV95TuKP2bAzK7c9lw.md) | 2019-01-04T03:27:07+00:00 | 2018-11-22T09:33:19+00:00 |
+| 60 | [3/9 預定黑客松命名](../notes/1j8zcZQzQ1KzKlX1cqFIjQ.md) | 2018-12-07T12:54:48+00:00 | 2018-12-07T12:44:44+00:00 |
+| 61 | [[黑客松活動手冊] 行為守則](../notes/xfnqMnLZQIuYJraU2H7qYQ.md) | 2018-10-18T13:06:19+00:00 | 2014-06-15T17:55:34+00:00 |

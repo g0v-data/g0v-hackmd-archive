@@ -11,3 +11,6 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 ## 物資類
 - [name=irvin] 每次提醒參與者記得檢查自己家中的防災食物，如果快過期了就帶來跟大家分享
     - NPOHUB 可以有煮飯，防災食物 potluck！
+    - 防災物資清單
+        - https://g0v.hackmd.io/@irvin/emergency-shopping-list-zh
+        - https://hackmd.io/@Jerrychen445/ByeHJEgF3

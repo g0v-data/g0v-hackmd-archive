@@ -37,9 +37,8 @@
 | 33 | [預防通訊中斷](../notes/kh_Qh0WEQQ6kAbaFhvuEjQ.md) | 2024-02-24T08:36:09+00:00 | 2024-02-24T07:55:25+00:00 |
 | 34 | [了解避難位置](../notes/nRcyyTFNQLqIk1dYwccLCg.md) | 2024-02-24T08:35:49+00:00 | 2024-02-24T07:53:01+00:00 |
 | 35 | [準備救難包](../notes/Ojw57urwQ1O8Bs9NJH_NfA.md) | 2024-02-24T08:35:43+00:00 | 2024-02-24T08:13:28+00:00 |
-| 36 | [g0v DigiResiThon idea pool](../notes/PMiMLc-JT3yFrAs3CL6rzw.md) | 2024-02-24T08:06:18+00:00 | 2024-02-24T08:01:01+00:00 |
-| 37 | [數位韌性情境分級](../notes/SYTBWVohTyuCgPGUqfAl9g.md) | 2024-02-24T07:06:41+00:00 | 2023-12-09T02:29:54+00:00 |
-| 38 | [DigiResiThon 數位韌性松 bootstrapping](../notes/Qc8gsyY-Rn-4lXUA1gLH1g.md) | 2024-01-31T13:24:29+00:00 | 2023-12-30T08:19:42+00:00 |
-| 39 | [g0v 數位韌性松之  Digital Resiliency Firmware Update](../notes/Ex7L9ag7QfOnJXkwyz5iqg.md) | 2023-11-15T08:52:11+00:00 | 2023-11-04T05:49:47+00:00 |
-| 40 | [IG 不能動，還有什麼值得我心痛：為什麼要辦「假設網路斷光光」的 g0v 數位韌性黑客松](../notes/qkj6dwSFS0q8zpZO4-GxOQ.md) | 2023-11-08T14:54:28+00:00 | 2023-11-08T10:26:02+00:00 |
-| 41 | [韌性松場地路線圖及使用規定](../notes/9pwDPOXLTr6IJKiLofl3qg.md) | 2023-11-03T15:14:17+00:00 | 2023-11-03T14:51:11+00:00 |
+| 36 | [數位韌性情境分級](../notes/SYTBWVohTyuCgPGUqfAl9g.md) | 2024-02-24T07:06:41+00:00 | 2023-12-09T02:29:54+00:00 |
+| 37 | [DigiResiThon 數位韌性松 bootstrapping](../notes/Qc8gsyY-Rn-4lXUA1gLH1g.md) | 2024-01-31T13:24:29+00:00 | 2023-12-30T08:19:42+00:00 |
+| 38 | [g0v 數位韌性松之  Digital Resiliency Firmware Update](../notes/Ex7L9ag7QfOnJXkwyz5iqg.md) | 2023-11-15T08:52:11+00:00 | 2023-11-04T05:49:47+00:00 |
+| 39 | [IG 不能動，還有什麼值得我心痛：為什麼要辦「假設網路斷光光」的 g0v 數位韌性黑客松](../notes/qkj6dwSFS0q8zpZO4-GxOQ.md) | 2023-11-08T14:54:28+00:00 | 2023-11-08T10:26:02+00:00 |
+| 40 | [韌性松場地路線圖及使用規定](../notes/9pwDPOXLTr6IJKiLofl3qg.md) | 2023-11-03T15:14:17+00:00 | 2023-11-03T14:51:11+00:00 |

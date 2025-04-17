@@ -2,5 +2,4 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v DigiResiThon idea pool](../notes/PMiMLc-JT3yFrAs3CL6rzw.md) | 2024-02-24T08:06:18+00:00 | 2024-02-24T08:01:01+00:00 |
-| 2 | [農業新浪潮／企劃 idea pool](../notes/pLRjYN-wQeyUupNnOcwvww.md) | 2018-03-07T08:13:10+00:00 | 2014-07-13T03:21:18+00:00 |
+| 1 | [農業新浪潮／企劃 idea pool](../notes/pLRjYN-wQeyUupNnOcwvww.md) | 2018-03-07T08:13:10+00:00 | 2014-07-13T03:21:18+00:00 |
