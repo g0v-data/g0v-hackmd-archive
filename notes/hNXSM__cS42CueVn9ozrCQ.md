@@ -1,2 +1,9 @@
-Website: http://alfakher.es/
-Al Fakher is redefining everyday vaping with its premium line of e-liquids crafted for taste, performance, and satisfaction. Perfectly balancing bold flavors and smooth hits, Al Fakher appeals to all types of vapers—from casual puffers to flavor chasers. Their expertly mixed flavors range from fruity classics to exciting fusions that surprise and delight with every inhale. What sets Al Fakher apart is its unwavering focus on quality: clean ingredients, safe production, and consistent output. It’s the ideal brand for those who seek a reliable, rich, and enjoyable vape, every single time.
+https://jnrvapes.net/
+
+jnr vape
+
+For vapers looking for a reliable and convenient solution, JNR Vape delivers premium-quality disposable e-cigarettes that don't compromise on performance or flavor. 
+The JNR Vape device is designed to offer a smooth and satisfying vape, available in a variety of exciting flavors such as Mango Ice, Berry Fusion, and Menthol Mint. 
+These sleek and compact devices are ideal for both casual users and those who prefer a no-fuss vaping experience. With up to 600 puffs per device, 
+JNR Vape provides long-lasting enjoyment in an easy-to-use format. No refills, no complicated maintenance—simply enjoy the rich flavors and smooth
+ vapor at your convenience. Perfect for those who want quality vaping without the hassle, JNR Vape is a top choice for reliable and enjoyable experiences.
