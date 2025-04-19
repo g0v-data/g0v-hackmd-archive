@@ -13,12 +13,12 @@ Ngoài ra, Bảo Việt còn cung cấp rất nhiều gói bảo hiểm khác nh
 Thủ tục mua bảo hiểm du lịch nước ngoài
 Thủ tục [bán bảo hiểm du lịch nước ngoài](https://baoviettructuyen.vn/ban-bao-hiem-du-lich-nuoc-ngoai-id759.html), làm bảo hiểm tại Bảo Hiểm Bảo Việt rất nhanh chóng, đơn giản. Khách hàng có thể lựa chọn 1 trong 2 cách sau:
 Cách 1:
-Khách hàng gọi điện đến số điện thoại Hotline Bảo Việt trên website: baohiembaoviet.vn thông báo về việc tham gia bảo hiểm đồng thời cung cấp các thông tin cần thiết để làm bảo hiểm. Bảo Hiểm Bảo Việt sẽ tiến hành cấp chứng nhận bảo hiểm và mang đến tận nơi theo yêu cầu của khách hàng.
+Khách hàng gọi điện đến số điện thoại Hotline Bảo Việt trên website: baoviettructuyen.vn thông báo về việc tham gia bảo hiểm đồng thời cung cấp các thông tin cần thiết để làm bảo hiểm. Bảo Hiểm Bảo Việt sẽ tiến hành cấp chứng nhận bảo hiểm và mang đến tận nơi theo yêu cầu của khách hàng.
 Cách 2:
 Khách hàng gửi thông tin tham gia bảo hiểm vào email: baoviettructuyen@gmail.com như sau:
 Quý khách chụp trang thông tin cá nhân trên hộ chiếu và gửi vào email
 Quý khách cung cấp thêm thông tin Ngày đi, Ngày về? Số điện thoại liên hệ và Địa chỉ nhận bảo hiểm qua email
-Bảo Việt sẽ liên hệ lại báo phí và giao bảo hiểm tận nơi cho quý khách. Trường hợp cần bảo hiểm gấp, quý khách vui lòng liên hệ ngay Hotline trên website: baohiembaoviet.vn để được hỗ trợ tức thì. 
+Bảo Việt sẽ liên hệ lại báo phí và giao bảo hiểm tận nơi cho quý khách. Trường hợp cần bảo hiểm gấp, quý khách vui lòng liên hệ ngay Hotline trên website: baoviettructuyen.vn để được hỗ trợ tức thì. 
 Thông tin liên hệ
 Nếu cần đến văn phòng Bảo Việt để được tư vấn trực tiếp mời quý khách vui lòng đến địa chỉ sau:
 Phòng bảo hiểm số 12 – Tổng công ty bảo hiểm Bảo Việt – Công ty Bảo Việt Hà Nội

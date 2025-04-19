@@ -8,6 +8,8 @@ tags: vtaiwan
 - vTaiwan 專案於 2024 年 12 月 20 日舉行議題小聚，產出[紀錄報告](https://docs.google.com/document/d/1kYIYbHdTctGBXrV-U3qivkzByV-uAxOAiS7fB_sGacU/edit?usp=sharing) 
     - 預計以此作為發言內容
 
+![](https://g0v.hackmd.io/_uploads/rygYcfgb1ex.jpg)
+![](https://g0v.hackmd.io/_uploads/Hybt5MgZkle.jpg)
 
 ## 討論
 探討人工智慧對人權影響座談
