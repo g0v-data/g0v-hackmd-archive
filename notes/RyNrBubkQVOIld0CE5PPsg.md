@@ -1,3 +1,7 @@
+---
+tags: GIS
+---
+
 # 取得施工許可太陽光電案場
 
 經濟部能源署有開放 [取得電業設置發電設備工作許可證太陽光電案場土地地號](https://www.moeaea.gov.tw/ECW/populace/content/SubMenu.aspx?menu_id=23059) 資料，~~不過是以 pdf 格式~~，在提出請求後已經釋出 Excel/ODS 格式，希望能夠整理成乾淨可用的圖資。

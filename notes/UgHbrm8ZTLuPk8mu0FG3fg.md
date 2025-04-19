@@ -1,3 +1,7 @@
+---
+tags: Thai,
+---
+
 # 2025 04/23-28（29）斯米蘭船宿 Mv Little Princess Live Aboard 小公主號
 
 ![](https://g0v.hackmd.io/_uploads/HyW0CyF01l.png)

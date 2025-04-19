@@ -4,6 +4,10 @@ tags: 黑話,
 
 # 除了那些黑話，還有這些黑話！
 
+:::info
+本篇始於 2022 年
+:::
+
 社群黑話蒐集
 https://g0v.hackmd.io/hosZS2MqRR-JLwhomnDU3w
 

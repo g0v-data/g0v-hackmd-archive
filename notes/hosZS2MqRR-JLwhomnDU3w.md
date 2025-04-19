@@ -1,6 +1,5 @@
 ---
-title: "⭐ g0v 黑話及語錄"
-tags: 黑話, 新手教學, g0v , hackpad
+tags: 黑話, 新手教學, g0v, hackpad
 ---
 
 # ⭐ g0v 黑話及語錄
@@ -10,6 +9,9 @@ tags: 黑話, 新手教學, g0v , hackpad
 > 本文授權: CC0
 > [name=Chia-liang K]
 
+:::info
+本篇始於 2012 年
+:::
 
 ## 工具類
 
