@@ -1,10 +1,4 @@
-23Win tự hào là nhà cái uy tín, mang đến cho bạn những trò chơi đa dạng từ thể thao, casino đến game slot. Với giao dịch siêu tốc và tỷ lệ trả thưởng cao, 23Win giúp bạn dễ dàng giành chiến thắng và đổi thưởng nhanh chóng!
-
-Website: <a href="https://23wincom.us">https://23wincom.us</a>
-ĐC: 60 Hoàng Cầu, Đống Đa, Hà Nội, Việt Nam       
-SĐT: 0972 684 469     
-Email: 23wincomus@gmail.com   
-Hastags: #23win #23wincom #23_win #nhacai23win #thethao23win #casino23win #linkvao23win #trangchu23win
+23Wigchu23win
 
 
 <a href="https://www.facebook.com/23wincomus">https://www.facebook.com/23wincomus</a>
