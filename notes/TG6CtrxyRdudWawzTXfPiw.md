@@ -241,6 +241,15 @@ GitHub https://github.com/g0v/small_school_renaissance/
 
 ## 學校名單
 
-- 教育部國民及學前教育署/原住民族教育資訊網/學校名錄(單)
+- 原住民族學校
+    教育部國民及學前教育署/原住民族教育資訊網/學校名錄(單)
     - 官網： <https://ieiw.k12ea.gov.tw/School/Index>
     - OpenData: <https://data.gov.tw/dataset/162567>
+
+- 實驗教育學校
+    - 學校型態原住民族實驗教育學校名冊
+        - 官網： <https://ieiw.k12ea.gov.tw/School/Index>
+        - OpenData: <https://data.gov.tw/dataset/162568>
+
+- 非山非市學校名單
+    - 教育部國民及學前教育署： <https://www.k12ea.gov.tw/files/common_unit_id/c4faaee2-686f-47b2-9cc3-90be1e7603fb/doc/110至112學年度國民中小學非山非市學校名單.pdf>

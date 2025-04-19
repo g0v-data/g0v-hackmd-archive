@@ -24,6 +24,8 @@ tags: 新手教學, g0v
 ### 參考資料
 - [g0v 黑話語錄](https://g0v.hackmd.io/@hackpad-importer/r1wuthKi8m)
 - [g0v 官網](https://g0v.tw/)
+- g0v contributor Sam and the Taiwan Plus media team captured the g0v hackathon through film. 
+    - https://x.com/taiwanplusnews/status/1608991453753008128
 
 ### 如何貢獻
 :::warning

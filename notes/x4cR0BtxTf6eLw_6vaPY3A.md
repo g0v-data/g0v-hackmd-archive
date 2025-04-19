@@ -1,6 +1,8 @@
-# 民生數位服務韌性檢測
+---
+tags: digital-resilience, 數位韌性松, DigiResiTh0n
+---
 
-###### tags: digital-resilience, 數位韌性松, DigiResiTh0n
+# 民生數位服務韌性檢測
 
 > [License under CC0, No Rights Reserved](https://creativecommons.org/public-domain/cc0/)
 > 
@@ -51,17 +53,13 @@
 | OCF | Ｘ | [檢測紀錄](https://irvin.github.io/web-resilience-test-result/?url=ocf.tw)
 | SITCON | Ｘ | [檢測紀錄](https://irvin.github.io/web-resilience-test-result/?url=sitcon.org)
 
-
-
-
-
 ---
 
 ## a) 重要數位服務
 
 社群共同列舉民生上重要的數位服務，及基礎架構相關服務。
 
--> [重要民生網站與數位服務（與其替代品）](/lmNxS58KQOm5Rf-H4SbvSw)
+-> [重要民生網站與數位服務（與其替代品）](http://g0v.hackmd.io/lmNxS58KQOm5Rf-H4SbvSw)
 
 
 ## b) 服務韌性關鍵因素
@@ -83,7 +81,7 @@
 
 ## c) 韌性檢測步驟
 
-以 Pchome 產品頁 `https://24h.pchome.com.tw/prod/DCAYAD-A900BIAMV` 為例（[檢測過程紀錄](/5siiuEN1RAuFAI2H7l-phQ)）
+以 Pchome 產品頁 `https://24h.pchome.com.tw/prod/DCAYAD-A900BIAMV` 為例（[檢測過程紀錄](http://g0v.hackmd.io/5siiuEN1RAuFAI2H7l-phQ)）
 
 1. 先打開 adblock / adguard，把不必要的元素都預先擋掉
 2. 打開瀏覽器開發工具，停用快取，載入頁面
@@ -136,5 +134,51 @@
     
     b-2. 假設有 Anycast，如果該地理位置不在島內，可檢查「該服務是否是已知有台灣節點者」，如上述範例 hostname 為GCP，對照 [雲端平台--IaaS](https://g0v.hackmd.io/lmNxS58KQOm5Rf-H4SbvSw#雲端平台--IaaS)，確認其有台灣節點，則在「是否可及」內紀錄 `-`
         
-    c. 最終以 `X` 與 `-` 的數字評估該網頁的耐受度。以 [pchome 產品頁](/
-    ) 為例，共 7 個 `O` 位於境內、10 個 `-` 使用雲端服務可能有耐受性，沒有任何 `X` 非雲端的境外節點。
+    c. 最終以 `X` 與 `-` 的數字評估該網頁的耐受度。以 [pchome 產品頁](https://g0v.hackmd.io/5siiuEN1RAuFAI2H7l-phQ) 為例，共 7 個 `O` 位於境內、10 個 `-` 使用雲端服務可能有耐受性，沒有任何 `X` 非雲端的境外節點。
+
+## d) 自動化檢測工具
+
+https://github.com/irvin/digital-service-resilience
+
+### 安裝步驟
+```bash
+git clone https://github.com/irvin/digital-service-resilience.git
+cd digital-service-resilience
+npm install
+```
+
+### （optional）設定 IPinfo Token
+```bash
+export IPINFO_TOKEN=your_token_here  # Linux/Mac
+set IPINFO_TOKEN=your_token_here     # Windows CMD
+$env:IPINFO_TOKEN="your_token_here"  # Windows PowerShell
+```
+
+### 使用方式
+```bash
+npm check https://example.com
+node no-global-connection-check.js https://example.com
+```
+
+### 檢測結果說明
+- O：服務位於台灣境內
+- ?：使用具有台灣節點的雲端服務（如 Google Cloud、AWS 等）
+- X：位於境外且非雲端服務
+
+### 範例輸出
+```
+開始檢測網站: https://example.com
+收集到 X 個請求
+清理後剩餘 Y 個唯一域名
+
+檢測結果:
+-------------------
+境內服務 (O): 3
+雲端服務 (?): 5
+境外服務 (X): 1
+
+詳細資訊:
+example.com: O (TW (HiNet))
+cdn.example.com: - (US (GOOGLE))
+api.example.com: X (US (Amazon))
+```
