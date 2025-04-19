@@ -134,6 +134,8 @@ https://g0v.hackmd.io/Ylob5q1rR361wt6RIzYBSA
 g0v 數位韌性松 DigiResiTh0n
 https://g0v.hackmd.io/mGQcbKRDShmvyeGV74w_0w
 
+摘：因應氣候變遷與歐洲的水災頻傳，德國管制機構與公共廣電共同致力推出緊急預警的標準廣播規範，稱為ASA (Automatic Security Alert) 「自動啟動安全警示」功能　https://www.facebook.com/cmcheng11/posts/pfbid02fKD2Hx2hjZb1MELb3qD3kJGwoNqR2if2B8ueGEcxUiTMJNX96gYP6E2AsnvXHNARl
+
 馬祖斷網經驗 2023
 https://g0v.hackmd.io/A-LPXr1RTiSK_iUwJsJowg
 
@@ -163,7 +165,9 @@ https://www.facebook.com/story.php?story_fbid=pfbid02pXdN2QPnu6ufGP1mDhan1FADpF5
 提案簡述：此專案想解決的是「高中生對中國在侵犯台灣時，不了解實際狀況與應對方式」的問題。台海情勢一直處於緊張的狀態，我們常常討論共軍擾台、軍事危機等議題，但卻不了解敵軍會怎麼做，我們又該怎麼做。又因為對自己國家軍事的了解不足，而產生許多不必要的恐慌與擔憂。但考慮到本議題需要的內容專業性，我們打算以引導的方式，讓高中生主動去了解相關內容。因此我們想使用 LINE 的專業帳號，去製作一個小測驗，測驗完之後會再導入至我們製作的網頁。而網頁的內容主要會是可以參考的網站、新聞、影片等。
 提案網址：https://sch001.g0v.tw/dash/prj/PZPtAEs40bl7pESJ5TyC_O4NL1YYt6 
 
-2023 零時小學校有一個主題相關提案，待補上
+2023 零時小學校有一個主題相關提案
+https://sch001.g0v.tw/dash/prj/PoL5uzY3bFrLGG.P5nzCq1JV25eKoH
+
 
 ## 民防團體單位
 

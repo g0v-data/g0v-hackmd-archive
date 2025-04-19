@@ -14,3 +14,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
     - 防災物資清單
         - https://g0v.hackmd.io/@irvin/emergency-shopping-list-zh
         - https://hackmd.io/@Jerrychen445/ByeHJEgF3
+
+## 民防
+https://g0v.hackmd.io/@chewei/B1PZ7o8x5?type=view
+
