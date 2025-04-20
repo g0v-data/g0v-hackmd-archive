@@ -22,3 +22,11 @@ tags:
     - https://g0v.hackmd.io/dbwO37FhSjiKyptbioNnrw
 - 數位解方策略及工具推薦 / 揉合公民權的公民科技專案策略
     - https://docs.google.com/spreadsheets/d/1P1sCLPAQP9hUwMFVGzneg9lAIFLoYe_arsmgdUy23FA/edit
+
+## 觀點
+
+校地
+
+街道 流體
+- 降雨逕流，側溝
+- 停車位，進出、過境、駐足停放
