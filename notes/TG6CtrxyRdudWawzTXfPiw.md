@@ -14,8 +14,13 @@ https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
 GitHub / Dataset 資料集
 https://github.com/g0v/small_school_renaissance
 
-g0v Slack 頻道
-#edu-school-學校存續議題
+討論請至：
+- g0v Slack 頻道 #edu-school-學校存續議題
+- FB 社團: 零時小學校 Sch001 學習中心 https://www.facebook.com/groups/240879797438433
+
+討論素材相簿
+https://photos.app.goo.gl/AAG1nM1Wc5PKGcsp9
+
 :::
 
 :::warning
@@ -24,9 +29,6 @@ g0v Slack 頻道
 :::
 
 跳坑：明錡, chewei, yellowsoar, Tiff, 小夏, 
-討論請至：
-- g0v Slack #edu https://g0v.hackmd.io/@jothon/joing0vslack
-- FB 社團「零時小學校」https://www.facebook.com/groups/240879797438433
 
 專案介紹影片：https://youtu.be/Int0d9_eLiA
 <iframe width=100% height="450" src="https://www.youtube.com/embed/Int0d9_eLiA?si=kWoXyKq5Y36YBiqp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -215,6 +217,10 @@ GitHub https://github.com/g0v/small_school_renaissance/
 
 原住民族地區
 - 盤點原住民族重點小學 csv https://airtable.com/appEy0jH7wgeFfcMY/shrjmzerb0sobb2oY/tblXkKfDdxXyZF61O/viw5fJFBCcmoPcCCu/recXkz9axQ5SY0TdY?blocks=hide
+    - 地圖 https://www.google.com/maps/d/u/0/viewer?mid=1XST8W_wgSXo2qa5xP_pQAeENvoVbM7A&ll=24.17340168083134%2C120.11524999999997&z=7
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1XST8W_wgSXo2qa5xP_pQAeENvoVbM7A&ehbc=2E312F" width=100% height="480"></iframe>
+
 - 台灣原住民族部落基礎資料庫(2021年6月) https://airtable.com/appEy0jH7wgeFfcMY/shrjmzerb0sobb2oY/tblXkKfDdxXyZF61O/viw5fJFBCcmoPcCCu/rec9WT7YbVpcnLlBh?blocks=hide
 - 教育部公布有關於原住民族學生資料地圖集 https://airtable.com/appEy0jH7wgeFfcMY/shrjmzerb0sobb2oY/tblXkKfDdxXyZF61O/viw5fJFBCcmoPcCCu/recyOUIQrPIHdqgp3?blocks=hide
 - 個別學校素材蒐集
