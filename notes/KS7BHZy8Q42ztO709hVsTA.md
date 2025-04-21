@@ -27,8 +27,10 @@ tags: food,
 無麩質：？
 
 飲料：
-- npohub 一樓咖博館
+- npohub 一樓，咖博館-台北聚落店 https://www.facebook.com/KaBoGuan/
 > am8:30-pm6[name=Lucky Chen]
+> 可以談包場，包場費用可以折抵餐飲飲料費
+> 揪松預計詢問，再回報詢價結果
 
 
 ## 由 PM5 提供｜Provided by PM5 
