@@ -11,7 +11,7 @@ image: https://raw.githubusercontent.com/g0v/style-guide/gh-pages/logo/png/g0v-l
 - [國會松注意事項](/QGEtEn83Toy8n_aui13EXA)
 
 ## 最新活動 👇
-- [20250427 第拾次國會松](https://g0vcongressthon.oen.tw/events/2vcSlV4wScpMJ1W6jPiLnJbfhQr)
+- [20250427 第拾次國會松](https://g0vcongressthon.oen.tw/events/2vcSlV4wScpMJ1W6jPiLnJbfhQr)[target=_blank]
 
 ## 歷次活動
 - [20250316 第玖次國會松](/mFhCt7NVRUeEWDL8W_znkg)
