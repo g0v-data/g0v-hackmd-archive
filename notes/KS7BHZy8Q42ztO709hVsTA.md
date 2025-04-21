@@ -5,6 +5,7 @@ tags: food,
 # NPO Hub 附近的食物攻略！Foods Near NPO Hub
 
 提醒：留意週六日是否營業
+提醒：以下標注時間的來源為google map，有可能變動＆不準呦建議去之前可以打電話或fb ig（有的話）上問問
 
 ## 活動餐飲
 
@@ -125,3 +126,10 @@ https://maps.app.goo.gl/b2xWaZj7G9G16H8F8
 > am9-pm6:30[name=Lucky Chen]
 - https://maps.app.goo.gl/17rBb612pttmbhfs9
 - 大家都說CP值高
+
+
+## 推薦者：Lucky
+觀音亭素食
+am11-pm2:30, pm5-7:30
+CP值高100有找～
+https://maps.app.goo.gl/HNB4mqWSwLjhZXbm9
