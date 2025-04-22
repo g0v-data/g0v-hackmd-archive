@@ -290,23 +290,212 @@ app.mount('#my-planner')
 比較
 ```htmlembedded=
 <p> goto: <a href >{{plainLink}}</a></p> 純粹文字顯示
-<p> goto: <a href="plainLink">{{plainLink}}</a></p> 雖然有超連結
-但只是連結到字串 "plainLink"
+<p> goto: <a href="plainLink">{{plainLink}}</a></p> 雖然有超連結 但只是連結到字串 "plainLink"
 <p> goto: <a v-bind:href="plainLink">{{plainLink}}</a></p>
 正確寫法 連結到data bind
+```
 
+#### 呼叫方法
+```htmlembedded=
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+        <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+    </head>
+    <body>
+        <section id="my-planner">
+            <h2>Yearly plan</h2>
+            <p>{{primaryGoal}}</p>
+            <p> goto: <a v-bind:href="plainLink">{{plainLink}}</a></p>
+           <!-- <p> goto: <a href="plainLink">{{plainLink}}</a></p> -->
+           <p>{{3+3}}</p>
+           <p>{{ getNumber() }}</p>
+           <p>{{ outputMessage() }}</p>
+        </section>
+        <script src="app.js" async defer></script>
+    </body>
+</html>
+```
+{{}}內可以執行一些方法
+3+3 可以執行指令但不能做判斷式
+呼叫app的getNumber outputMessage 方法
+
+```javascript
+const app = Vue.createApp(
+    {
+        data: function () {
+            return {
+                primaryGoal: "Have a happy life!",
+                plainLink: "http://www.uuu.com.tw"
+            }
+        },
+        methods: {
+            getNumber() {
+                return 7
+            },
+            outputMessage: function () {
+                const number1 = Math.random();
+                if (number1 < 0.5) {
+                    return 'work hard'
+                } else {
+                    return 'work harder'
+                }
+            }
+        }
+    }
+)
+app.mount('#my-planner')
 
 ```
 
+#### 使用this存取變數 以及在裡面用html語法
+
+```htmlembedded=
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+        <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+    </head>
+    <body>
+        <section id="my-planner">
+            <h2>Yearly plan</h2>
+            <p> goto: <a v-bind:href="plainLink">{{plainLink}}</a></p>
+            <p>{{3+3}}</p>
+            <p>{{ getNumber() }}</p>
+            <p>{{ outputMessage() }}</p>
+            <p v-html="outputMessage()"></p>
+        </section>
+        <script src="app.js" async defer></script>
+    </body>
+</html>
+```
+
+```javascript
+const app = Vue.createApp(
+    {
+        data: function () {
+            return {
+                primaryGoal1: "Have a <em>happy</em> life!",
+                primaryGoal2: "Have a <em>health</em> body!",
+                primaryGoal3: "Have a <em>strong</em> mind!",
+                plainLink: "http://www.uuu.com.tw"
+            }
+        },
+        methods: {
+            getNumber() {
+                return 7
+            },
+            outputMessage: function () {
+                const number1 = Math.random();
+                if (number1 < 0.3) {
+                    return this.primaryGoal1
+                } else if (number1 < 0.6) {
+                    return this.primaryGoal2
+                } else {
+                    return this.primaryGoal3
+                }
+            }
+        }
+    }
+)
+app.mount('#my-planner')
+
+```
+直接用產出的文字會失敗，需要v-html
+![](https://g0v.hackmd.io/_uploads/BJxGU3NJll.png)
 
 
+#### 使用ON事件
+這個寫法不好 因為在html內使用的程式加減 建議挪去APP做事
+```htmlembedded=
+<!DOCTYPE html>
+<html>
 
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="app.js" async defer></script>
+</head>
 
+<body>
+    <section id="lab4">
+        <button v-on:click="counter1++">+1</button>
+        <button v-on:click="counter1--">-1</button>
+        <p>Result:{{counter1}}</p>
+    </section>
 
+</body>
 
+</html>
+```
 
+```javascript
+const app = Vue.createApp({
+    data(){
+        return {counter1:0}
+    }
+})
 
+app.mount('#lab4')
 
+```
+
+```htmlembedded=
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="app.js" async defer></script>
+</head>
+
+<body>
+    <section id="lab4">
+        <button v-on:click="increase1()">+1</button>
+        <button v-on:click="decrease1()">-1</button>
+        <p>[3]Result:{{counter1}}</p>
+    </section>
+
+</body>
+
+</html>
+```
+
+```javascript
+const app = Vue.createApp({
+    data(){
+        return {counter1:0}
+    }
+})
+
+app.mount('#lab4')
+
+```
 
 
 
