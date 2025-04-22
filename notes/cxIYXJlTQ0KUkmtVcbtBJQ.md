@@ -868,26 +868,305 @@ app.mount('#lab4')
 
 
  
+ 輸入和ENTER事件
+ ```htmlembedded=
+        <input type="text" v-on:input="setUrgent" 
+               v-on:keyup.enter="commitUrgent">
+        <p>current urgent issue:{{urgent}}</p>
+        <p>committed Urgent Issue:{{checkedUrgent}}</p>
+```
+ 
+<input type="text" v-on:input="setUrgent" v-on:keyup.enter="commitUrgent">
+
+是指輸入的時候觸發 setUrgent 方法
+然後按鈕按下ENTER後觸發commitUrgent 方法
+
+```javascript=
+const app = Vue.createApp({
+    methods: {
+        submitForm(e) {
+            console.log(e)
+            e.preventDefault()
+            alert('已經提交了')
+        },
+        submitForm2() {
+            alert('已經提交了2')
+        },
+        setTodo(event, greeting) {
+            this.todo = `${greeting},${event.target.value}`
+        },
+        increase(step) {
+            setTimeout(() => {
+                this.counter1 = this.counter1 + step
+            }, 100)
+
+        },
+        decrease(step) {
+            setTimeout(() => {
+                this.counter1 = this.counter1 - step
+            }, 100)
+        },
+        commitUrgent() {
+            this.checkedUrgent = this.urgent
+        },
+        setUrgent(e) {
+            this.urgent = e.target.value
+        }
+    },
+    data() {
+        return {
+            counter1: 0,
+            todo: '',
+            urgent: '',
+            checkedUrgent: ''
+        }
+    }
+})
+
+app.mount('#lab4')
+ ```
  
  
+ ```htmlembedded=
+ 
+ <!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="app.js" async defer></script>
+</head>
+
+<body>
+    <section id="lab4">
+        <button v-on:click="increase(1)">+1</button>
+        <button v-on:click="decrease(1)">-1</button>
+        <button v-on:click="increase(2)">+2</button>
+        <button v-on:click="decrease(2)">-2</button>
+        <button v-on:click.middle="increase(3)">+3</button>
+        <button v-on:click.middle="decrease(3)">-3</button>
+        <p>[3]Result:{{counter1}}</p>
+        <hr />
+        <input type="text" v-on:input="setTodo($event, 'I want to:')">
+        <p>What do you expect to do? {{todo}}</p>
+        <hr />
+        <form v-on:submit="submitForm">
+            <input type="text">
+            <button>log in</button>
+        </form>
+        <form v-on:submit.prevent="submitForm2">
+            <input type="text">
+            <button>Sign Up</button>
+        </form>
+        <hr />
+        <input type="text" v-on:input="setUrgent" v-on:keyup.enter="commitUrgent">
+        <p>current urgent issue:{{urgent}}</p>
+        <p>committed Urgent Issue:{{checkedUrgent}}</p>
+        <hr />
+        <p v-once>initial value={{counter2}}</p>
+        <p>current value={{counter2}}</p>
+
+        <button v-on:click="increase2(4)">+4</button>
+        <button v-on:click="decrease2(4)">-4</button>
+    </section>
+
+</body>
+
+</html>
+  ```
+ ```javascript=
+ const app = Vue.createApp({
+    methods: {
+        submitForm(e) {
+            console.log(e)
+            e.preventDefault()
+            alert('已經提交了')
+        },
+        submitForm2() {
+            alert('已經提交了2')
+        },
+        setTodo(event, greeting) {
+            this.todo = `${greeting},${event.target.value}`
+        },
+        increase(step) {
+            setTimeout(() => {
+                this.counter1 = this.counter1 + step
+            }, 100)
+
+        },
+        decrease(step) {
+            setTimeout(() => {
+                this.counter1 = this.counter1 - step
+            }, 100)
+        },
+        commitUrgent() {
+            this.checkedUrgent = this.urgent
+        },
+        setUrgent(e) {
+            this.urgent = e.target.value
+        },
+        increase2(step) {
+            this.counter2 = this.counter2 + step;
+        },
+        decrease2(step) {
+            this.counter2 -= step;
+        }
+    },
+    data() {
+        return {
+            counter1: 0,
+            todo: '',
+            urgent: '',
+            checkedUrgent: '',
+            counter2: 666
+        }
+    }
+})
+
+app.mount('#lab4')
+  ```
  
  
+✅什麼是 v-once？
+v-once 告訴 Vue：「這個元素只渲染一次，初次掛載時拿資料，之後即使資料變了，也不要更新它」。
+適合用在你只想顯示「初始資料」的情況，例如 loading 前的靜態畫面、初始狀態快照等等。
  
  
+  ```htmlembedded=
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+        <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    </head>
+    <body>
+        <section id="app">
+            <input type="text" v-on:input="setIssue">
+            <p>你要處理的是:{{issue}}</p>
+        </section>
+        
+        <script src="app.js" async defer></script>
+    </body>
+</html>
+ ```
  
+```javascript=
+   const app = Vue.createApp({
+    data() {
+        return {
+            issue: ""
+        }
+    },
+    methods: {
+        setIssue(event) {
+            this.issue = event.target.value
+        }
+    }
+})
+
+app.mount('#app')
+   ```
+   
+複習時間: 我的html呼叫setIssue沒有event傳入
+但app.js的第8行需要EVENT 為什麼這樣可以
+✅ Vue 的自動行為：事件物件會自動傳入
+
+但如果你的方法是
+```javascript=
+<!-- 這樣就不能自動傳 event，必須自己寫 $event -->
+<input @input="handleInput('hello')" /> <!-- 這裡 event 不會自動傳！ -->
+
+<!-- 正確的做法應該是 -->
+<input @input="handleInput($event, 'hello')" />
+```
  
+ #### 使用V-MODEL
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+```htmlembedded=
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</head>
+
+<body>
+    <section id="app">
+        <input type="text" v-bind:value="issue" v-on:input="setIssue">
+        <p>你要處理的是:{{issue}}</p>
+        <button v-on:click="resetIssue">clear issue</button>
+        <hr />
+        <input type="text" v-model="task">
+        <p>你的任務是:{{task}}</p>
+        <button v-on:click="resetTask">clear task</button>
+
+    </section>
+
+    <script src="app.js" async defer></script>
+</body>
+
+</html>
+```
+
+
+```javascript=
+const app = Vue.createApp({
+    data() {
+        return {
+            issue: "default issue",
+            task: 'learn vue'
+        }
+    },
+    methods: {
+        setIssue(event) {
+            this.issue = event.target.value
+        },
+        resetIssue() {
+            this.issue = ''
+        },
+        resetTask() {
+            this.task = 'learn vue'
+        }
+    }
+})
+
+app.mount('#app')
+```
+使用V-MODEL的好處就是不用自己在寫Set值的方法
+就是這麼乾淨俐落 ✨
+
+Vue 會自動幫你：
+綁定 input 的值（value）到 message
+監聽 input 事件
+在使用者輸入時自動更新 message 這個變數
+
+
+
+
+
+
+
+
+
+
+
 
 
 
