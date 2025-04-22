@@ -1,21 +1,120 @@
-# My first HackMD note (change me!)
+---
+tags: edu
+---
 
-###### tags: `Tag(change me!)`
+# Vue 上課4/22
 
-> This note is yours, feel free to play around.  :video_game: 
-> Type on the left :arrow_left: and see the rendered result on the right. :arrow_right: 
+### 安裝
 
-## :memo: Where do I start?
+```python
+1. 網路如果太慢, 陸續裝完即可
+npm install npm -g
+npm list -g
+npm install -g @vue/cli
+npm install -g serve
 
-### Step 1: Change the title and add a tag
+if hang, click ctrl+c
 
-- [x] Create my first HackMD note (this one!)
-- [ ] Change its title
-- [ ] Add a tag
+npm list -g
++-- @vue/cli@5.0.8
++-- npm@11.3.0
+`-- serve@14.2.4
 
-:rocket: 
+2. http://firebase.google.com/
+用gmail登入(即可)
 
-### Step 2: Write something in Markdown
+3. 安裝vscode extension
+Name: Vue - Official
+Id: Vue.volar
+Description: Language Support for Vue
+Version: 2.2.8
+Publisher: Vue
+VS Marketplace Link: https://marketplace.visualstudio.com/items/?itemName=Vue.volar
+
+
+Name: HTML Boilerplate
+Id: sidthesloth.html5-boilerplate
+Description: A basic HTML5 boilerplate snippet generator.
+Version: 1.1.1
+Publisher: sidthesloth
+VS Marketplace Link: https://marketplace.visualstudio.com/items/?itemName=sidthesloth.html5-boilerplate
+```
+
+### 創建第一個程式
+```htmlembedded=
+index.html
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <label for="plan">plan</label>
+        <input type="text" id="plan">
+        <button>Add a plan</button>
+        <ul>
+            <!--content will be added here-->
+        </ul>
+        <script src="app.js" async defer></script>
+    </body>
+</html>
+
+```
+
+```javascript=
+// get button
+const button1 = document.querySelector('button')
+const input1 = document.querySelector('input')
+const list1 = document.querySelector('ul')
+function addPlan() {
+    const v = input1.value
+    const i = document.createElement('li')
+    i.textContent = v
+    list1.appendChild(i)
+    input1.value=''
+}
+button1.addEventListener('click', addPlan) // function name, not exection result
+```
+```java 
+執行 找到cmd後 輸入
+serve .
+    
+記住要是cmd模式 而非Power Shell
+```
+
+
+### 創建第一個VUE程式
+```htmlembedded=
+index.html
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <label for="plan">plan</label>
+        <input type="text" id="plan">
+        <button>Add a plan</button>
+        <ul>
+            <!--content will be added here-->
+        </ul>
+        <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script> <!-- -->
+        <script src="app.js" async defer></script>
+    </body>
+</html>
+
+
+
 
 Let's try it out!
 Apply different styling to this paragraph:

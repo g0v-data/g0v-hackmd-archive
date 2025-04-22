@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v gl0ssary](../notes/uEgnPtg7SuS50xkpr4ZUwQ.md) | 2025-04-19T16:00:35+00:00 | 2025-03-23T14:50:34+00:00 |
+| 1 | [g0v gl0ssary](../notes/uEgnPtg7SuS50xkpr4ZUwQ.md) | 2025-04-22T02:41:52+00:00 | 2025-03-23T14:50:34+00:00 |
 | 2 | [⭐ g0v 黑話及語錄](../notes/hosZS2MqRR-JLwhomnDU3w.md) | 2025-04-19T15:58:23+00:00 | 2013-08-05T18:38:11+00:00 |
 | 3 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2025-04-02T15:08:44+00:00 | 2018-08-30T07:19:57+00:00 |
 | 4 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2025-01-07T06:45:29+00:00 | 2022-09-13T08:41:15+00:00 |

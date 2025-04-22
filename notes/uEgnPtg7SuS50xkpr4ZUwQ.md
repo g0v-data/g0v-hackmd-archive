@@ -47,3 +47,25 @@ tags: 新手教學, g0v
 :::
 
 ### 詞條
+
+
+揪團做專案的地方
+
+:::spoiler 應用於 LINE 對話
+
+揪團做專案的場域 ~
+
+有線上的頻道 (FB 社團、Slack訊息工具)，也會有實體活動，讓大家提案、現場揪人，主題不限，專案多數可能會與 資料應用 有關
+
+例如我最近參加一個 學校就學人口統計資料的探討專案，想了解 各學校 哪些人數可能越來越少了，討論學校的存續與轉型
+
+這裡有一個簡單的影片，介紹社群
+
+g0v contributor Sam and the 
+Taiwan Plus media team captured the g0v hackathon through film.
+
+https://x.com/taiwanplusnews/status/1608991453753008128
+
+![](https://g0v.hackmd.io/_uploads/SygK4-KNyxe.jpg)
+
+:::
