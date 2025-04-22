@@ -108,7 +108,64 @@ index.html
         <ul>
             <!--content will be added here-->
         </ul>
-        <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script> <!-- -->
+        <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script> <!-- 重要 IMPORT VUE的東西-->
+        <script src="app.js" async defer></script>
+    </body>
+</html>
+
+```
+
+```javascript
+Vue.createApp({
+    data() {
+        return {
+            plans: [],
+            value: ''
+        }
+    },
+    methods: {
+        addPlan(){
+            this.plans.push(this.value)
+        }
+    }
+}).mount('#myapp')
+
+Vue.createApp的結構().mount()
+初始化Option API
+data=> reactive 的Object
+methods=> 成員函數
+之後就會創造一個VUE物件
+
+```
+![](https://g0v.hackmd.io/_uploads/H1WVoKNklg.png)
+
+
+![](https://g0v.hackmd.io/_uploads/S1lEUstN1gx.png)
+
+```htmlembedded=
+index.html
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <div id="myapp">
+        <label for="plan">plan</label>
+        <input type="text" id="plan" v-model="value">
+        <button>Add a plan</button>
+        <ul>
+            <li v-for="plan in plans">{{plan}}</li>
+            <!--1lIO0-->
+            <!--content will be added here-->
+        </ul>
+        </div>
+        <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
         <script src="app.js" async defer></script>
     </body>
 </html>
