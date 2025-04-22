@@ -458,7 +458,7 @@ const app = Vue.createApp({
 app.mount('#lab4')
 
 ```
-
+比較好的寫法是方法放在app內
 ```htmlembedded=
 <!DOCTYPE html>
 <html>
@@ -488,16 +488,406 @@ app.mount('#lab4')
 
 ```javascript
 const app = Vue.createApp({
-    data(){
-        return {counter1:0}
+    methods: {
+        increase1() {
+            setTimeout(() => {
+                this.counter1 = this.counter1 + 1
+            }, 1000)
+
+        },
+        decrease1() {
+            this.counter1 = this.counter1 - 1
+        }
+    },
+    data() {
+        return { counter1: 0 }
     }
 })
 
 app.mount('#lab4')
 
 ```
+increase1 和 decrease1也可以傳入參數
 
 
+
+```htmlembedded=
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="app.js" async defer></script>
+</head>
+
+<body>
+    <section id="lab4">
+        <button v-on:click="increase(1)">+1</button>
+        <button v-on:click="decrease(1)">-1</button>
+        <button v-on:click="increase(2)">+2</button>
+        <button v-on:click="decrease(2)">-2</button>
+        <p>[3]Result:{{counter1}}</p>
+    </section>
+
+</body>
+
+</html>
+```
+
+```javascript
+const app = Vue.createApp({
+    methods: {
+        increase(step) {
+            setTimeout(() => {
+                this.counter1 = this.counter1 + step
+            }, 100)
+
+        },
+        decrease(step) {
+            setTimeout(() => {
+                this.counter1 = this.counter1 - step
+            }, 100)
+        }
+    },
+    data() {
+        return { counter1: 0 }
+    }
+})
+
+app.mount('#lab4')
+
+```
+#### 使用ON事件來聆聽input事件
+```htmlembedded=
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+</head>
+
+<body>
+    <section id="lab4">
+        <button v-on:click="increase(1)">+1</button>
+        <button v-on:click="decrease(1)">-1</button>
+        <button v-on:click="increase(2)">+2</button>
+        <button v-on:click="decrease(2)">-2</button>
+        <p>[3]Result:{{counter1}}</p>
+        <hr />
+        <input type="text" v-on:input="setTodo">
+        <p>What do you expect to do? {{todo}}</p>
+    </section>
+    <script src="app.js" async defer></script>
+</body>
+
+</html>
+```
+同樣todo為app的變數直接使用
+
+```javascript
+const app = Vue.createApp({
+    methods: {
+        setTodo(event) { 
+            this.todo = event.target.value
+        },
+        increase(step) {
+            setTimeout(() => {
+                this.counter1 = this.counter1 + step
+            }, 100)
+
+        },
+        decrease(step) {
+            setTimeout(() => {
+                this.counter1 = this.counter1 - step
+            }, 100)
+        }
+    },
+    data() {
+        return {
+            counter1: 0,
+            todo: ''
+        }
+    }
+})
+
+app.mount('#lab4')
+
+```
+event.target.value 是標準寫法
+event: 使用者觸發的事件物件（像是點擊、輸入等等）
+target: 事件發生的那個 DOM 元素（也就是哪個元素觸發了事件）
+value: 那個元素的「值」，例如 <input> 裡面的文字
+
+
+#### 傳入多個變數
+```htmlembedded=
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="app.js" async defer></script>
+</head>
+
+<body>
+    <section id="lab4">
+        <button v-on:click="increase(1)">+1</button>
+        <button v-on:click="decrease(1)">-1</button>
+        <button v-on:click="increase(2)">+2</button>
+        <button v-on:click="decrease(2)">-2</button>
+        <p>[3]Result:{{counter1}}</p>
+        <hr />
+        <input type="text" v-on:input="setTodo($event, 'I want to:')">
+        <p>What do you expect to do? {{todo}}</p>
+    </section>
+
+</body>
+
+</html>
+```
+這句話可以翻譯成：
+當使用者在這個輸入框打字時（input 事件），執行 setTodo 這個方法，並把兩個參數傳進去：
+$event：事件物件（包含觸發事件的元素、輸入的值等等）
+'I want to:'：你手動傳入的字串
+```javascript
+const app = Vue.createApp({
+    methods: {
+        setTodo(event, greeting) { 
+            this.todo = `${greeting},${event.target.value}`
+        },
+        increase(step) {
+            setTimeout(() => {
+                this.counter1 = this.counter1 + step
+            }, 100)
+
+        },
+        decrease(step) {
+            setTimeout(() => {
+                this.counter1 = this.counter1 - step
+            }, 100)
+        }
+    },
+    data() {
+        return {
+            counter1: 0,
+            todo: ''
+        }
+    }
+})
+
+app.mount('#lab4')
+
+```
+從 event.target.value 取得使用者輸入的文字
+把 greeting（你手動傳的字串）加在前面
+設定到 Vue 組件裡的 todo 變數
+
+
+#### FormSubmit
+
+```htmlembedded=
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="app.js" async defer></script>
+</head>
+
+<body>
+    <section id="lab4">
+        <button v-on:click="increase(1)">+1</button>
+        <button v-on:click="decrease(1)">-1</button>
+        <button v-on:click="increase(2)">+2</button>
+        <button v-on:click="decrease(2)">-2</button>
+        <p>[3]Result:{{counter1}}</p>
+        <hr />
+        <input type="text" v-on:input="setTodo($event, 'I want to:')">
+        <p>What do you expect to do? {{todo}}</p>
+        <hr />
+        <form v-on:submit="submitForm">
+            <input type="text">
+            <button>log in</button>
+        </form>
+    </section>
+
+</body>
+
+</html>
+```
+
+```javascript=
+const app = Vue.createApp({
+    methods: {
+        submitForm() {
+            alert('已經提交了')
+        },
+        setTodo(event, greeting) { 
+            this.todo = `${greeting},${event.target.value}`
+        },
+        increase(step) {
+            setTimeout(() => {
+                this.counter1 = this.counter1 + step
+            }, 100)
+
+        },
+        decrease(step) {
+            setTimeout(() => {
+                this.counter1 = this.counter1 - step
+            }, 100)
+        }
+    },
+    data() {
+        return {
+            counter1: 0,
+            todo: ''
+        }
+    }
+})
+
+app.mount('#lab4')
+
+```
+如果不想要重刷畫面 有
+  e.preventDefault()
+和<form v-on:submit.prevent="submitForm2"> 兩種方法
+
+
+```htmlembedded=
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="app.js" async defer></script>
+</head>
+
+<body>
+    <section id="lab4">
+        <button v-on:click="increase(1)">+1</button>
+        <button v-on:click="decrease(1)">-1</button>
+        <button v-on:click="increase(2)">+2</button>
+        <button v-on:click="decrease(2)">-2</button>
+        <p>[3]Result:{{counter1}}</p>
+        <hr />
+        <input type="text" v-on:input="setTodo($event, 'I want to:')">
+        <p>What do you expect to do? {{todo}}</p>
+        <hr />
+        <form v-on:submit="submitForm">
+            <input type="text">
+            <button>log in</button>
+        </form>
+        <form v-on:submit.prevent="submitForm2">
+            <input type="text">
+            <button>Sign Up</button>
+        </form>
+    </section>
+
+</body>
+
+</html>
+```
+
+```javascript=
+const app = Vue.createApp({
+    methods: {
+        submitForm(e) {
+            console.log(e)
+            e.preventDefault()
+            alert('已經提交了')
+        },
+        submitForm2() {
+            alert('已經提交了2')
+        },
+        setTodo(event, greeting) { 
+            this.todo = `${greeting},${event.target.value}`
+        },
+        increase(step) {
+            setTimeout(() => {
+                this.counter1 = this.counter1 + step
+            }, 100)
+
+        },
+        decrease(step) {
+            setTimeout(() => {
+                this.counter1 = this.counter1 - step
+            }, 100)
+        }
+    },
+    data() {
+        return {
+            counter1: 0,
+            todo: ''
+        }
+    }
+})
+
+app.mount('#lab4')
+
+```
+右鍵click事件
+```htmlembedded=
+       <button v-on:click="increase(1)">+1</button>
+        <button v-on:click="decrease(1)">-1</button>
+        <button v-on:click="increase(2)">+2</button>
+        <button v-on:click="decrease(2)">-2</button>
+        <button v-on:click.right="increase(3)">+3</button>
+        <button v-on:click.right="decrease(3)">-3</button>
+```
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
