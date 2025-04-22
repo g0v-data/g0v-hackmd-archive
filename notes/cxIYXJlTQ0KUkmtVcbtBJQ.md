@@ -88,29 +88,36 @@ serve .
 ```
 
 
-### 創建第一個VUE程式
+### 創建第一個VUE3程式
 ```htmlembedded=
 index.html
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
-    </head>
-    <body>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+    <div id="myapp">
         <label for="plan">plan</label>
-        <input type="text" id="plan">
-        <button>Add a plan</button>
+        <input type="text" id="plan" v-model="value">
+        <button v-on:click="addPlan">Add a plan</button>
         <ul>
+            <li v-for="plan in plans">{{plan}}</li>
+            <!--1lIO0-->
             <!--content will be added here-->
         </ul>
-        <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script> <!-- 重要 IMPORT VUE的東西-->
-        <script src="app.js" async defer></script>
-    </body>
+    </div>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="app.js" async defer></script>
+</body>
+
 </html>
 
 ```
@@ -142,35 +149,60 @@ methods=> 成員函數
 
 ![](https://g0v.hackmd.io/_uploads/S1lEUstN1gx.png)
 
+
+### 創建第一個VUE2程式
+HTML的寫法一樣 只是改src import的部分
+Create Vue的方式不同
+
 ```htmlembedded=
-index.html
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
-    </head>
-    <body>
-        <div id="myapp">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+    <div id="myapp">
         <label for="plan">plan</label>
         <input type="text" id="plan" v-model="value">
-        <button>Add a plan</button>
+        <button v-on:click="addPlan">Add a plan</button>
         <ul>
             <li v-for="plan in plans">{{plan}}</li>
             <!--1lIO0-->
             <!--content will be added here-->
         </ul>
-        </div>
-        <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-        <script src="app.js" async defer></script>
-    </body>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.7.16/dist/vue.js"></script>
+    <script src="app.js" async defer></script>
+</body>
+
 </html>
+```
 
+```javascript
+var vue = new Vue({
+    el: '#myapp',
+    data() {
+        return {
+            plans: [],
+            value: ''
+        }
+    },
+    methods: {
+        addPlan() {
+            this.plans.push(this.value)
+            this.value = ''
+        }
+    }
+})
 
+```
 
 
 Let's try it out!
