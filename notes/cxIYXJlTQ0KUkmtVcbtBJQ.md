@@ -205,6 +205,116 @@ var vue = new Vue({
 ```
 
 
+### VUE3 綁定變數名稱
+
+```htmlembedded=
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+        <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    </head>
+    <body>
+        <section id="my-planner">
+            <h2>Yearly plan</h2>
+            <p>{{primaryGoal}}</p>
+        </section>
+        <script src="app.js" async defer></script>
+    </body>
+</html>
+```
+
+```javascript
+const app = Vue.createApp(
+    {
+        data: function () {
+            return {
+                primaryGoal: "Have a happy life!"
+            }
+        }
+    }
+)
+app.mount('#my-planner')
+
+```
+在my-planner底下，建立VUE的時候回傳物件primaryGoal
+{{ }} VUE會看得懂
+
+#### 超連結
+
+
+```htmlembedded=
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+        <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+        <script src="app.js" async defer></script>
+    </head>
+    <body>
+        <section id="my-planner">
+            <h2>Yearly plan</h2>
+            <p>{{primaryGoal}}</p>
+            <p> goto: <a v-bind:href="plainLink">{{plainLink}}</a></p>
+        </section>
+        
+    </body>
+</html>
+```
+```javascript
+const app = Vue.createApp(
+    {
+        data: function () {
+            return {
+                primaryGoal: "Have a happy life!",
+                plainLink: "http://www.uuu.com.tw"
+            }
+        }
+    }
+)
+app.mount('#my-planner')
+
+```
+
+
+比較
+```htmlembedded=
+<p> goto: <a href >{{plainLink}}</a></p> 純粹文字顯示
+<p> goto: <a href="plainLink">{{plainLink}}</a></p> 雖然有超連結
+但只是連結到字串 "plainLink"
+<p> goto: <a v-bind:href="plainLink">{{plainLink}}</a></p>
+正確寫法 連結到data bind
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Let's try it out!
 Apply different styling to this paragraph:
 **HackMD gets everyone on the same page with Markdown.** ==Real-time collaborate on any documentation in markdown.== Capture fleeting ideas and formalize tribal knowledge.
