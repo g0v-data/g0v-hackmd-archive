@@ -47,7 +47,7 @@ tags: vtaiwan
     - 調查來看，登入確實會成為一個困擾
 - 但是依然
 - Kialo:權限控制不錯 [name=allen]
-    - 有分成四種不同的等級，管理內容上可以比較細緻
+    - 對外有分成四種不同的等級，管理內容上可以比較細緻(editor,  writer, suggester ,viewer)
         - https://support.kialo-edu.com/en/hc/participant-roles-and-permissions/
 - 希望可以透過 mastodon 來進行討論
     - mastodon 也有簡單的身份驗證。
@@ -73,4 +73,5 @@ tags: vtaiwan
 - 形式：
     - NPO HUB 空間聚會
         - 買黃龍莊、炸雞跟手搖飲？
+        - 備案：
 
