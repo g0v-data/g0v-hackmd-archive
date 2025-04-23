@@ -596,7 +596,7 @@ app.mount('#app')
 ### 怎樣不要隨意觸發
 假設文字旁邊多一個輸入視窗 我們想要保留數出視窗不要刪掉
 使用stop
-```htmlmixed!
+```htmlmixed=
 <!DOCTYPE html>
 <html>
 
@@ -639,7 +639,7 @@ app.mount('#app')
 ```
     
 ### 再次練習使用v-for讀取資料
-```htmlembedded!
+```htmlmixed=
 <ul>
             <li>
                 <h2>POOP</h2>
@@ -671,3 +671,79 @@ app.mount('#app')
             </li>
         </ul>
 ```
+但這樣點及按鈕時會有問題，因為click事件觸發時會統一進行(物件同樣)
+需要建立不同物件，故要學習使用Component
+    
+### Component的使用
+    
+```htmlembedded=
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <section id="app">
+        <ul>
+            <course-content></course-content>
+            <course-content></course-content>
+            <course-content></course-content>
+            <course-content></course-content>
+        </ul>
+    </section>
+    <script src="app.js" async defer></script>
+</body>
+
+</html>
+    
+```
+```javascript=
+const app = Vue.createApp({
+    data() {
+        return {
+            courses: [
+                { id: "POOP", name: "Python OOP", duration: 35 },
+                { id: "BDPY", name: "Python and big data", duration: 35 }
+            ],
+            detailsVisible: true
+        }
+    },
+    methods: {
+        toggleCourseDetail() {
+            this.detailsVisible = !this.detailsVisible
+        }
+    }
+})
+app.component("course-content", {
+    template: `
+<li>
+    <h2>{{course.id}}</h2>
+    <button @click="toggleCourseDetail">show details</button>
+    <ul v-if="detailsVisible">
+        <li>{{course.name}}</li>
+        <li>{{course.duration}}</li>
+    </ul>
+</li>
+    `,
+    data() {
+        return {
+            detailsVisible: true,
+            course: { id: "POOP", name: "Python OOP", duration: 35 }
+        }
+    },
+    methods: {
+        toggleCourseDetail() {
+            this.detailsVisible = !this.detailsVisible
+        }
+    }
+})
+app.mount('#app')
+
+```
+    
+### vue-cli
