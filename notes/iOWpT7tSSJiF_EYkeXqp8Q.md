@@ -525,3 +525,149 @@ app.mount('#app')
 ```
 這邊介紹了兩種用法 一種是一般迴圈一種是增強行迴圈
 兩種寫法各有不同
+
+    
+### 使用splice刪除陣列
+```htmlmixed=
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</head>
+
+<body>
+    <section id="app">
+        <input type="text" v-model="courseContext" />
+        <button @click="addCourse">add a course</button>
+
+        <p v-show="courses.length === 0">No course</p>
+        <ul v-show="courses.length > 0">
+            <li v-for="(c,idx) in courses"
+            @click="removeCourse(idx)">{{c}} at location {{idx}}</li>
+        </ul>
+        <hr/>
+        <ul>
+            <li v-for="v in {name:'poop',duration:35}">{{v}}</li>
+        </ul>
+        <hr/>
+        <ul>
+            <li v-for="(v,k) in {name:'poop',duration:35}">
+                key={{k}},value={{v}}</li>
+        </ul>
+
+    </section>
+    <script src="app.js" async defer></script>
+</body>
+
+</html>
+    
+```
+```javascript=
+const app = Vue.createApp({
+    data() {
+        return {
+            courses: [],
+            courseContext: ""
+        }
+    },
+    computed: {},
+    methods: {
+        addCourse() {
+            this.courses.push(this.courseContext)
+            this.courseContext = ""
+        },
+        removeCourse(idx) {
+            console.log(111);
+            this.courses.splice(idx, 1)
+        }
+    }
+})
+app.mount('#app')
+    
+```
+    
+### 怎樣不要隨意觸發
+假設文字旁邊多一個輸入視窗 我們想要保留數出視窗不要刪掉
+使用stop
+```htmlmixed!
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</head>
+
+<body>
+    <section id="app">
+        <input type="text" v-model="courseContext" />
+        <button @click="addCourse">add a course</button>
+
+        <p v-show="courses.length === 0">No course</p>
+        <ul v-show="courses.length > 0">
+            <li v-for="(c,idx) in courses"
+            @click="removeCourse(idx)">{{c}} at location {{idx}}
+        <input type="text" @click.stop/></li>
+        </ul>
+        <hr/>
+        <ul>
+            <li v-for="v in {name:'poop',duration:35}">{{v}}</li>
+        </ul>
+        <hr/>
+        <ul>
+            <li v-for="(v,k) in {name:'poop',duration:35}">
+                key={{k}},value={{v}}</li>
+        </ul>
+
+    </section>
+    <script src="app.js" async defer></script>
+</body>
+
+</html>
+```
+    
+### 再次練習使用v-for讀取資料
+```htmlembedded!
+<ul>
+            <li>
+                <h2>POOP</h2>
+                <button>show details</button>
+                <ul>
+                    <li>Python OOP</li>
+                    <li>35</li>
+                </ul>
+            </li>
+            <li>
+                <h2>BDPY</h2>
+                <button>show details</button>
+                <ul>
+                    <li>Python and big data</li>
+                    <li>35</li>
+                </ul>
+            </li>
+        </ul>
+    
+=>
+        <ul>
+            <li v-for="course in courses" :key="course.id">
+                <h2>{{course.id}}</h2>
+                <button @click="toggleCourseDetail">show details</button>
+                <ul v-if="detailsVisible">
+                    <li>{{course.name}}</li>
+                    <li>{{course.duration}}</li>
+                </ul>
+            </li>
+        </ul>
+```
