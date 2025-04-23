@@ -746,4 +746,82 @@ app.mount('#app')
 
 ```
     
-### vue-cli
+### vue-cli安裝
+```shell=
+vue create lab10_vue3_cli_component
+mirror (Y)
+Default vue3
+
+code lab10_vue3_cli_component
+npm run serve
+```
+    
+### vue-vite安裝
+```shell=
+cd C:\Users\Admin\Desktop\vue_lab_0422
+
+npm init vue@latest
+cd lab10_vue3_vite_component
+    
+```
+![](https://g0v.hackmd.io/_uploads/r1wq-XLJge.png)
+
+    
+![](https://g0v.hackmd.io/_uploads/Sye1pZmIklx.png)
+    
+### 創建第一個cli程式
+```javascript=
+<template>
+    <div>
+        <h1>課程簡介</h1>
+    </div>
+</template>
+
+<script>
+    export default {
+        
+    }
+</script>
+
+<style lang="scss" scoped>
+
+</style>
+    
+```
+同理可以新增Coomputeo的模式
+```javascript=
+新增CourseIntro.vue
+<template>
+    <div>
+        <h1>課程簡介</h1>
+    </div>
+</template>
+
+<script>
+    export default {
+        
+    }
+</script>
+
+<style lang="scss" scoped>
+
+</style>
+```
+改成這樣呼叫
+```javascript=
+      <h1>課程列表</h1>
+      <course-intro></course-intro>
+      <course-intro></course-intro>
+      <course-intro></course-intro>
+```
+main.js也需要修改
+```javascript=
+import { createApp } from 'vue'
+import App from './App.vue'
+import CourseIntro from './CourseIntro.vue'
+
+const app = createApp(App)
+app.component("course-intro", CourseIntro)
+app.mount("#app");
+```
+    
