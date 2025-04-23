@@ -824,4 +824,27 @@ const app = createApp(App)
 app.component("course-intro", CourseIntro)
 app.mount("#app");
 ```
-    
+```javascript=
+<template>
+  <div>
+      <h1>課程列表</h1>
+      <course-intro></course-intro>
+      <course-intro></course-intro>
+      <course-intro></course-intro>
+      <CourseIntro></CourseIntro>
+      <CourseIntro></CourseIntro>
+  </div>
+</template>
+
+<script>
+import CourseIntro from './components/CourseIntro.vue';
+
+  export default {
+      components:{CourseIntro}
+  }
+</script>
+
+<style lang="scss" scoped>
+
+</style>
+```

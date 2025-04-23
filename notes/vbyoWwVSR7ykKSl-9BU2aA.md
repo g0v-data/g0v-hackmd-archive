@@ -1,9 +1,9 @@
-Đừng để lỡ bất kỳ trận cầu nào vì không tìm được link xem! Xoilac Tv luôn sẵn sàng với link trực tiếp bóng đá mới nhất, cập nhật ngay trước giờ bóng lăn. Giao diện website đơn giản, dễ sử dụng, tối ưu trên mọi thiết bị giúp bạn theo dõi trận đấu yêu thích chỉ với một chạm. Đặc biệt, hệ thống truyền tải ổn định giúp xem bóng đá không gián đoạn, không văng, không giật – Xoilac Tv là người bạn đồng hành lý tưởng của mọi fan túc cầu.
-Website: https://xoilacz.ai/     
+Không cần đến quán café hay mua truyền hình trả phí, Xoilac Tv cho phép bạn xem trực tiếp bóng đá chất lượng cao ngay tại nhà. Dù là Cúp C1, Premier League hay World Cup, chỉ cần truy cập là bạn đã có trong tay link xem uy tín, mượt mà và hoàn toàn miễn phí. Không quảng cáo làm phiền, không gián đoạn, Xoilac Tv là nơi hội tụ của những trái tim yêu bóng đá, sẵn sàng sống trọn cùng từng pha bóng.
+Website: https://xoilacz.ca/
 Đia chỉ: 28 Võ Nguyên Giáp, Dư Hàng Kênh, Lê Chân, Hải Phòng, Việt Nam
 Điện thoại: 0365285678
-Email:xoilactvoffical@gmail.com 
-Hastag: #Xoilac Tv #TructiepBongDa #XemBongDaHD #LinkXemBongDa #BongDaOnline
+Email:xoilactvoffical@gmail.com
+Hastag: #Xoilac Tv #TructiepBongDa #XemBongDaHD #LinkXemBongDa #BongDaOnline 
 
 https://x.com/ceonguyentuanph
 https://www.pinterest.com/ceonguyentuanphong/_profile/
