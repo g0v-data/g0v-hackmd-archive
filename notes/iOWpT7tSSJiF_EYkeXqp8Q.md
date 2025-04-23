@@ -384,6 +384,144 @@ app.mount('#app')
 ```
     
 ![](https://g0v.hackmd.io/_uploads/r1g5aSJIylx.png)
-這樣的寫法不好需要computed幫忙
+這樣的寫法不好 需要computed幫忙
+    
+```javascript
+const app = Vue.createApp({
+    data() {
+        return {
+            div1Selected: false,
+            div2Selected: false,
+            div3Selected: false
+        }
+    },
+    methods: {
+        divSelect(divId) {
+            if (divId === 1) {
+                this.div1Selected = !this.div1Selected;
+            } else if (divId === 2) {
+                this.div2Selected = !this.div2Selected;
+            } else if (divId === 3) {
+                this.div3Selected = !this.div3Selected;
+            }
+        }
+    },
+    computed: {
+        div1Classes() {
+            return { is1Selected: this.div1Selected }
+        },
+        div2Classes() {
+            return { is2Selected: this.div2Selected }
+        },
+        div3Classes() {
+            return { is3Selected: this.div3Selected }
+        }
+    }
+})
 
+app.mount('#app')
+```
+    
 
+### v-if的用法
+```htmlembedded
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</head>
+
+<body>
+    <section id="app">
+        <input type="text" v-model="courseContext" />
+        <button @click="addCourse">add a course</button>
+
+        <p v-if="courses.length === 0">No course</p>
+        <ul v-else>
+            <li>course</li>
+        </ul>
+
+    </section>
+    <script src="app.js" async defer></script>
+</body>
+
+</html>
+    
+```
+```javascript
+const app = Vue.createApp({
+    data() {
+        return {
+            courses: [],
+            courseContext: ""
+        }
+    },
+    computed: {},
+    methods: {
+        addCourse() {
+            this.courses.push(this.courseContext)
+        }
+    }
+})
+app.mount('#app')
+```
+可以改用v-show
+```htmlembedded
+<p v-show="courses.length === 0">No course</p>
+        <ul v-show="courses.length > 0">
+            <li>course</li>
+        </ul>
+    
+```
+
+### v-for的用法
+
+```htmlmixed=
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</head>
+
+<body>
+    <section id="app">
+        <input type="text" v-model="courseContext" />
+        <button @click="addCourse">add a course</button>
+
+        <p v-show="courses.length === 0">No course</p>
+        <ul v-show="courses.length > 0">
+            <li v-for="(c,idx) in courses">{{c}} at location {{idx}}</li>
+        </ul>
+        <hr/>
+        <ul>
+            <li v-for="v in {name:'poop',duration:35}">{{v}}</li>
+        </ul>
+        <hr/>
+        <ul>
+            <li v-for="(v,k) in {name:'poop',duration:35}">
+                key={{k}},value={{v}}</li>
+        </ul>
+
+    </section>
+    <script src="app.js" async defer></script>
+</body>
+
+</html>
+    
+```
+這邊介紹了兩種用法 一種是一般迴圈一種是增強行迴圈
+兩種寫法各有不同
