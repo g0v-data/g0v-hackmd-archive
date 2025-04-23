@@ -55,6 +55,8 @@ https://g0v.hackmd.io/BIQ1jyGORoqzDJaLYnqnUg?view
     - 讓公務員颱風天不再崩潰｜里長回報 LINE bot 設計 & 公民提案經驗
         - demo 影片 https://www.youtube.com/watch?v=GieWnt8dWX4
         - https://g0v.news/libot-dev-e0f8942bee94
+    - 
+        - https://www.facebook.com/share/p/16eXwrBbZu/
     - 群眾標註
         - https://commutag.agawork.tw/
     - 評估：
