@@ -1,104 +1,112 @@
-# My first HackMD note (change me!)
+# Vue 上課4/23
 
-###### tags: `Tag(change me!)`
+### 效能不佳的方法
 
-> This note is yours, feel free to play around.  :video_game: 
-> Type on the left :arrow_left: and see the rendered result on the right. :arrow_right: 
 
-## :memo: Where do I start?
+```htmlembedded=
+<!DOCTYPE html>
+<html>
 
-### Step 1: Change the title and add a tag
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</head>
 
-- [x] Create my first HackMD note (this one!)
-- [ ] Change its title
-- [ ] Add a tag
+<body>
+    <section id="app">
+        <input type="text" v-bind:value="issue" v-on:input="setIssue">
+        <p>你要處理的是:{{issue}}</p>
+        <button v-on:click="resetIssue">clear issue</button>
+        <hr />
+        <input type="text" v-model="task">
+        <p>你的任務是:{{task}}</p>
+        <button v-on:click="resetTask">clear task</button>
+        <hr />
+        <p>counter:{{counter}}</p>
+        <button @click="increase">+1</button>
+        <hr />
+        <h3>顯示變數</h3>
+        <p>{{outputIssue()}}</p>
+    </section>
 
-:rocket: 
+    <script src="app.js" async defer></script>
+</body>
 
-### Step 2: Write something in Markdown
+</html>
 
-Let's try it out!
-Apply different styling to this paragraph:
-**HackMD gets everyone on the same page with Markdown.** ==Real-time collaborate on any documentation in markdown.== Capture fleeting ideas and formalize tribal knowledge.
-
-- [x] **Bold**
-- [ ] *Italic*
-- [ ] Super^script^
-- [ ] Sub~script~
-- [ ] ~~Crossed~~
-- [x] ==Highlight==
-
-:::info
-:bulb: **Hint:** You can also apply styling from the toolbar at the top :arrow_upper_left: of the editing area.
-
-![](https://i.imgur.com/Cnle9f9.png)
-:::
-
-> Drag-n-drop image from your file system to the editor to paste it!
-
-### Step 3: Invite your team to collaborate!
-
-Click on the <i class="fa fa-share-alt"></i> **Sharing** menu :arrow_upper_right: and invite your team to collaborate on this note!
-
-![permalink setting demo](https://i.imgur.com/PjUhQBB.gif)
-
-- [ ] Register and sign-in to HackMD (to use advanced features :tada: ) 
-- [ ] Set Permalink for this note
-- [ ] Copy and share the link with your team
-
-:::info
-:pushpin: Want to learn more? ➜ [HackMD Tutorials](https://hackmd.io/c/tutorials) 
-:::
-
----
-
-## BONUS: More cool ways to HackMD!
-
-- Table
-
-| Features          | Tutorials               |
-| ----------------- |:----------------------- |
-| GitHub Sync       | [:link:][GitHub-Sync]   |
-| Browser Extension | [:link:][HackMD-it]     |
-| Book Mode         | [:link:][Book-mode]     |
-| Slide Mode        | [:link:][Slide-mode]    | 
-| Share & Publish   | [:link:][Share-Publish] |
-
-[GitHub-Sync]: https://hackmd.io/c/tutorials/%2Fs%2Flink-with-github
-[HackMD-it]: https://hackmd.io/c/tutorials/%2Fs%2Fhackmd-it
-[Book-mode]: https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-create-book
-[Slide-mode]: https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-create-slide-deck
-[Share-Publish]: https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-publish-note
-
-- LaTeX for formulas
-
-$$
-x = {-b \pm \sqrt{b^2-4ac} \over 2a}
-$$
-
-- Code block with color and line numbers：
-```javascript=16
-var s = "JavaScript syntax highlighting";
-alert(s);
 ```
 
-- UML diagrams
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-Note left of Alice: Alice responds
-Alice->Bob: Where have you been?
+
+v-on:click 和 @click 的差別：
+
+✅ 兩者的功能完全一樣！
+它們都是 綁定點擊事件 的方法，差別只在於語法上的「簡寫與否」。
+```javascript=
+const app = Vue.createApp({
+    data() {
+        return {
+            issue: "default issue",
+            task: 'learn vue',
+            counter: 0
+        }
+    },
+    methods: {
+        setIssue(event) {
+            this.issue = event.target.value
+        },
+        resetIssue() {
+            this.issue = ''
+        },
+        resetTask() {
+            this.task = 'learn vue'
+        },
+        increase() {
+            this.counter += 1;
+        },
+        outputIssue() {
+            console.log("output called, issue=", this.issue)
+            if (this.issue === "") {
+                return "";
+            }
+            return "!!" + this.issue
+        }
+    }
+})
+
+app.mount('#app')
+
 ```
-- Auto-generated Table of Content
-[ToC]
+這邊的 outputIssue() 是一個函式調用，而不是像 {{ issue }} 這樣單純綁定變數。
 
-> Leave in-line comments! [color=#3b75c6]
+💡 Vue 的模板是 reactive 的
+每當 Vue 偵測到任何 依賴的資料有變動（例如 issue、counter 之類的）時，它就會重新執行 template 裡所有的函式調用，來重新渲染畫面。
 
-- Embed YouTube Videos
-
-{%youtube PJuNmlE74BQ %}
-
-> Put your cursor right behind an empty bracket {} :arrow_left: and see all your choices.
-
-- And MORE ➜ [HackMD Tutorials](https://hackmd.io/c/tutorials)
+🔁 所以發生了什麼？
+你按了 +1，呼叫了 increase()。
+counter 改變，Vue 偵測到資料變動。
+Vue 重新 render 整個 <section id="app">。
+在 render 過程中，會執行 {{ outputIssue() }}。
+所以你看到 console.log("output called, issue=", this.issue) 又印出來了！
+    
+再補充
+🔁 {{ outputIssue() }}：自動執行，因為是函式調用（函式被當成內容）
+🖱️ <button v-on:click="resetIssue">clear issue</button>：不會自動執行，因為是事件綁定
+    
+使用computed
+```javascript=
+    computed:{
+        outputIssue() {
+            console.log("格式化issue=", this.issue)
+            if (this.issue === "") {
+                return "";
+            }
+            return "!!" + this.issue
+        }
+    }
+vm
+```
