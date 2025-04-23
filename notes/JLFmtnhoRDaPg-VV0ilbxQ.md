@@ -59,7 +59,7 @@ Draft模式下只會顯示「embeded iFrame」
 
 ```
 
-### 4. 修改iframe
+### 4. 修改iFrame
 把剛剛複製到的iFrame程式碼中的src，複製到下方的src中
 ![](https://g0v.hackmd.io/_uploads/HJhvgF8yex.png)
 
@@ -75,4 +75,7 @@ Draft模式下只會顯示「embeded iFrame」
 </div>
 ```
 
-再將修改好的程式碼用
+### 5.貼上程式碼
+再將修改好的程式碼貼入HTML Block
+就可以看到活動頁面嵌在文章中了！
+![](https://g0v.hackmd.io/_uploads/Skg0jgFIygg.png)

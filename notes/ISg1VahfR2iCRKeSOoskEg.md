@@ -1,3 +1,7 @@
+---
+tags: carbon, agriculture, 
+---
+
 # 喝牛奶碳排比較
 
 - 鮮奶：每公斤 2.48E+0 kgCO₂e

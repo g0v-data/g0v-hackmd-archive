@@ -60,3 +60,4 @@ tags: GIS
 - 建築系所的畢業設計 https://www.facebook.com/story.php?story_fbid=pfbid0dwKsZeSvSqTPhEy3ZGaxvajaArZDwCV5hBqrzn9tF4X46mLvZNPTY4UaKEt5zkiGl&id=633358755&mibextid=qC1gEa
 - https://www.facebook.com/story.php?story_fbid=pfbid0bwNH6CgNDWRxaA5WNPxhwZEsHM59winjGCauvHmPKmbYW911dQFeLdE14xV151Hzl&id=667549782&mibextid=qC1gEa
 - 建築師考試 https://www.facebook.com/share/A2Mk9xsecsvFsezo/?mibextid=WC7FNe
+- 設計科系常見題目歸納：https://www.facebook.com/share/p/1EZhf513Gq/
