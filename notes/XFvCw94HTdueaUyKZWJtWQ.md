@@ -468,3 +468,140 @@ export default {
 }
 </style>
 ```
+
+### 比較原本的方法和mitt
+```javascript=
+      <button @click="toggleCurrent">emit Current</button>
+        <button @click="mittCurrent">mitt Current</button>
+
+emit工作原理要看上面的解說
+        toggleCurrent() {
+            this.$emit('toggle-current', this.id)
+        },
+            
+        mittCurrent() {
+            console.log("mitt send a event")
+            this.emitter.emit('toggle-current', this.id)
+        }
+```
+### 可以自己多定義emit的方法
+```javascript!
+export default {
+    //emits:['toggle-current'],
+    emits: {
+        "toggle-current": function (id) {
+            if (id) {
+                return true;
+            } else {
+                console.warn("id is missing")
+                return false;
+            }
+        }
+    },
+
+
+```
+
+### 新增元件按鈕實作
+
+```javascript=
+app.vue多了
+<new-course></new-course>
+然後再多一個
+import NewCourse from './components/NewCourse.vue';
+
+裡面是
+<template>
+    <form>
+        <div>
+            <label>id</label>
+            <input type="text"/>
+        </div>
+        <div>
+            <label>name</label>
+            <input type="text"/>
+        </div>
+        <div>
+            <label>duration</label>
+            <input type="text"/>
+        </div>
+        <div>
+            <button>Add a course</button>
+        </div>
+    </form>
+</template>
+
+<script>
+    export default {
+        
+    }
+</script>
+
+<style scoped>
+
+</style>
+```
+
+但這樣子很醜 可以針對from再給css
+```javascript=
+#app li, #app form {
+    width: 50%;
+    margin: 1rem auto;
+    max-width: 40rem;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 128, 0.26);
+}
+```
+先在NewCourse給定框架
+
+```javascript=
+<template>
+    <form>
+        <div>
+            <label>id</label>
+            <input type="text" />
+        </div>
+        <div>
+            <label>name</label>
+            <input type="text" />
+        </div>
+        <div>
+            <label>duration</label>
+            <input type="text" />
+        </div>
+        <div>
+            <button>Add a course</button>
+        </div>
+    </form>
+</template>
+
+<script>
+export default {
+    emits: ["add-course"],
+    data() {
+        return {
+            inputId: '',
+            inputName: '',
+            inputDuration: ''
+        }
+    },
+    methods: {
+        submitData() {
+            this.$emit("add-course", this.inputId, this.inputName, this.inputDuration)
+        }
+    }
+}
+</script>
+
+<style scoped></style>
+```
+
+同理可用alert確認傳入參數是否有近來
+```javascript=
+      submitData() {
+            alert(this.inputId + this.inputName + this.inputDuration)
+            this.$emit("add-course", this.inputId, this.inputName, this.inputDuration)
+        }
+```
+
