@@ -798,4 +798,91 @@ export default {
 ```
 
 ------------------
-### 
+### composition API
+
+第一個範例使用了 選項式 API (Options API)：
+```javascript=
+<template>
+    <div>
+        <h1>options ==> composition</h1>
+        <p>{{ userName }}</p>
+    </div>
+</template>
+
+<script>
+export default {
+    data() {
+        return {
+            userName: "Mark Ho"
+        }
+    }
+}
+</script>
+
+<style scoped></style>
+```
+第二個範例使用了 組合式 API (Composition API)，並透過 setup 函式來實現：
+setup 函式是組件邏輯的入口點。你可以在 setup 函式中定義並暴露組件所需的響應式資料、計算屬性、方法和生命週期鉤子。最後，你需要明確地回傳一個包含你想在模板中使用的值的物件。
+
+```javascript=
+<template>
+  <div>
+    <h1>(options) ==> composition</h1>
+    <p>{{ userName }}</p>
+  </div>
+</template>
+
+<script>
+export default {
+  setup () {
+    const userName = "Kevin Lee"
+    return { userName }
+  }
+}
+</script>
+
+<style lang="scss" scoped>
+
+</style>
+
+```
+
+ref 是 Vue 3 組合式 API 中一個非常重要的工具，它用於創建一個響應式的資料持有者
+```javascript=
+<template>
+    <div>
+        <h1>(options) ==> composition</h1>
+        <p>{{ userName }}</p>
+    </div>
+</template>
+
+<script>
+import {ref} from 'vue'
+export default {
+    setup() {
+
+        const userName = ref("Kevin Lee")
+        console.log("userName=", userName.value)
+        setTimeout(() => {
+            userName.value = "Min-Che Lee"
+            console.log("userName=", userName.value)
+        }, 5000)
+        return { userName }
+    }
+}
+</script>
+
+<style lang="scss" scoped></style>
+```
+
+1.import { ref } from 'vue'： 這行程式碼從 vue 模組中引入了 ref 函式。
+
+2.const userName = ref("Kevin Lee")：
+
+你呼叫了 ref 函式，並將初始值 "Kevin Lee" 傳遞給它。
+ref 函式會回傳一個物件，這個物件被賦值給 userName 變數。
+這個 userName 物件並不是直接儲存字串 "Kevin Lee"，而是擁有一個 .value 屬性，而這個 .value 屬性才是真正儲存 "Kevin Lee" 的地方。更重要的是，當 .value 的值發生改變時，所有在模板中綁定到 userName 的地方都會自動更新，這就是「響應式」的意義。
+console.log("userName=", userName.value)：
+
+3.這段程式碼設定了一個在 5 秒後執行的非同步操作。
+在回調函式中，你將 userName.value 的值修改為 "Min-Che Lee"。
