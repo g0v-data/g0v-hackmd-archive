@@ -1,4 +1,4 @@
-# Vue 上課4/23
+# Vue 上課4/24
 
 ### Import components
 
@@ -25,6 +25,7 @@ app.component("course-intro", CourseIntro)
 app.mount("#app");
 ```
 引用的時候CourseIntro吃到全局
+ContactInfo是局部
 ```javascript=
 <template>
   <div>
@@ -62,3 +63,129 @@ export default {
 }
 </style>
 ```
+
+
+在CourseIntro.vue的上方有li ul button的tag
+然後app.vue就會吃到
+
+```javascript=
+<template>
+    <li>
+        <h2>{{ course.id }}</h2>
+        <button @click="toggleCourseDetail">show details</button>
+        <ul v-if="detailsVisible">
+            <li>{{ course.name }}</li>
+            <li>{{ course.duration }}</li>
+        </ul>
+    </li>
+</template>
+
+<script>
+export default {
+    data() {
+        return {
+            detailsVisible: true,
+            course: { id: "POOP", name: "Python OOP", duration: 35 }
+        }
+    },
+    methods: {
+        toggleCourseDetail() {
+            this.detailsVisible = !this.detailsVisible
+        }
+    }
+}
+</script>
+
+<style lang="scss" scoped></style>
+```
+
+原本的資料大家都一樣用props幫忙SET值
+
+```javascript=
+<template>
+    <li>
+        <h2>{{ id }}</h2>
+        <button @click="toggleCourseDetail">show details</button>
+        <ul v-if="detailsVisible">
+            <li>{{ name }}</li>
+            <li>{{ duration }}</li>
+        </ul>
+    </li>
+</template>
+
+<script>
+export default {
+    props: ["id", "name", "duration"],
+    data() {
+        return {
+            detailsVisible: true,
+        }
+    },
+    methods: {
+        toggleCourseDetail() {
+            this.detailsVisible = !this.detailsVisible
+        }
+    }
+}
+</script>
+
+<style scoped></style>
+```
+
+![](https://g0v.hackmd.io/_uploads/Hk8R4XDJgx.png)
+
+    
+### Props 可以給型別跟檢核
+```javascript=
+props: { id: String, name: String, duration: Number, current: Boolean },
+```
+```javascript=
+<template>
+    <li>
+        <h2>{{ id }}--[isCurrent-->{{ isCurrent }}]</h2>
+        <p>[current -->{{ current }}]</p>
+        <button @click="toggleIsCurrent">toggle isCurrent</button>
+        <button @click="toggleCourseDetail">show details</button>
+        <ul v-if="detailsVisible">
+            <li>{{ name }}</li>
+            <li>{{ duration }}</li>
+        </ul>
+    </li>
+</template>
+
+<script>
+export default {
+    props: {
+        id: { type: String, required: true },
+        name: { type: String, required: true },
+        duration: {
+            type: String, required: true, validator: function (v) {
+                return parseInt(v) > 7;
+            }
+        }, current: { type: String, required: false, default: "false" }
+    },
+    data() {
+        return {
+            detailsVisible: true,
+            isCurrent: this.current // current是isCurrent的初始值
+        }
+    },
+    methods: {
+        toggleCourseDetail() {
+            this.detailsVisible = !this.detailsVisible
+        },
+        toggleIsCurrent() {
+            this.isCurrent = !this.isCurrent;
+        }
+    }
+}
+</script>
+
+<style scoped></style>
+```
+在app.vue中如果有人設定成5，會報錯
+```javascript=
+        <CourseIntro duration="5"></CourseIntro>
+```
+
+![](https://g0v.hackmd.io/_uploads/SyiFdXPyxg.png)

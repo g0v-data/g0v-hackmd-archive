@@ -848,3 +848,46 @@ import CourseIntro from './components/CourseIntro.vue';
 
 </style>
 ```
+    
+![](https://g0v.hackmd.io/_uploads/S1erD4Xvylg.png)
+
+### 使用props做設定資料值
+
+操作值js要用this存取
+在template可直接使用
+```javascript=
+<template>
+    <li>
+        <h2>{{ id }}--[isCurrent-->{{ isCurrent }}]</h2>
+        <p>[current -->{{ current }}]</p>
+        <button @click="toggleIsCurrent">toggle isCurrent</button>
+        <button @click="toggleCourseDetail">show details</button>
+        <ul v-if="detailsVisible">
+            <li>{{ name }}</li>
+            <li>{{ duration }}</li>
+        </ul>
+    </li>
+</template>
+
+<script>
+export default {
+    props: ["id", "name", "duration", "current"],
+    data() {
+        return {
+            detailsVisible: true,
+            isCurrent: this.current // current是isCurrent的初始值
+        }
+    },
+    methods: {
+        toggleCourseDetail() {
+            this.detailsVisible = !this.detailsVisible
+        },
+        toggleIsCurrent() {
+            this.isCurrent = !this.isCurrent;
+        }
+    }
+}
+</script>
+
+<style scoped></style>
+```
