@@ -605,3 +605,197 @@ export default {
         }
 ```
 
+綁定方法
+```javascript=
+    <new-course @add-course="addCourse"></new-course>
+```
+
+```javascript=
+<template>
+    <new-course @add-course="addCourse"></new-course>
+    <course-intro v-for="c in courses" :key="c.id" :id="c.id" :name="c.name" :duration="c.duration" :current="c.current"
+        @toggle-current="toggleCurrent">
+    </course-intro>
+    <hr />
+    <ContactInfo></ContactInfo>
+</template>
+
+<script>
+import CourseIntro from '@/components/CourseIntro.vue';
+import ContactInfo from '@/components/ContactInfo.vue';
+import NewCourse from './components/NewCourse.vue';
+
+export default {
+    created() {
+        console.log("App created, prepare mietter")
+        this.emitter.on("toggle-current", (idx) => {
+            console.log(`${idx} will change status`)
+            const c = this.courses.find(c => c.id === idx)
+            c.current = !c.current;
+        })
+    },
+    components: { CourseIntro, ContactInfo, NewCourse },
+    data() {
+        return {
+            courses: [
+                { id: "poop", name: "python oop", duration: 35, current: true },
+                { id: "bdpy", name: 'python and big data', duration: 35, current: false }
+            ]
+        }
+    },
+    methods: {
+        toggleCurrent(id) {
+            //alert(`toggle fired with id=${id}`)
+            const c = this.courses.find(c => c.id === id)
+            c.current = !c.current;
+            console.log(`now ${id} course current status:${c.current}`)
+        },
+        addCourse(id, name, duration) {
+            const newCourse = { id, name, duration, current: false }
+            this.courses.push(newCourse)
+        }
+    }
+}
+</script>
+
+<style>
+#app ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#app li,
+#app form {
+    width: 50%;
+    margin: 1rem auto;
+    max-width: 40rem;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 128, 0.26);
+}
+
+#app button {
+    font: inherit;
+    cursor: pointer;
+    border: 1px solid #FF0077;
+    background-color: #c0ffee;
+    color: black;
+}
+</style>
+```
+
+### 新增刪除方法
+先在CourseIntro.vue新增框架
+```javascript=
+
+        "delete-current": function (id) {
+
+            if (id) {
+
+                return true;
+
+            } else {
+
+                console.warn("id is missing");
+
+            }
+
+        }
+
+        deleteCourse() {
+
+            this.$emit("delete-current", this.id)
+
+        }
+```
+
+在app.vue呼叫 刪除該ID
+```javascript=
+       deleteCourse(id) {
+
+            this.courses = this.courses.filter((c) => c.id != id)
+
+        }
+```
+完整
+```javascript=
+<template>
+    <new-course @add-course="addCourse"></new-course>
+    <course-intro v-for="c in courses" :key="c.id" :id="c.id" :name="c.name" :duration="c.duration" :current="c.current"
+        @toggle-current="toggleCurrent" @delete-current="deleteCourse">
+    </course-intro>
+    <hr />
+    <ContactInfo></ContactInfo>
+</template>
+
+<script>
+import CourseIntro from '@/components/CourseIntro.vue';
+import ContactInfo from '@/components/ContactInfo.vue';
+import NewCourse from './components/NewCourse.vue';
+
+export default {
+    created() {
+        console.log("App created, prepare mietter")
+        this.emitter.on("toggle-current", (idx) => {
+            console.log(`${idx} will change status`)
+            const c = this.courses.find(c => c.id === idx)
+            c.current = !c.current;
+        })
+    },
+    components: { CourseIntro, ContactInfo, NewCourse },
+    data() {
+        return {
+            courses: [
+                { id: "poop", name: "python oop", duration: 35, current: true },
+                { id: "bdpy", name: 'python and big data', duration: 35, current: false }
+            ]
+        }
+    },
+    methods: {
+        toggleCurrent(id) {
+            //alert(`toggle fired with id=${id}`)
+            const c = this.courses.find(c => c.id === id)
+            c.current = !c.current;
+            console.log(`now ${id} course current status:${c.current}`)
+        },
+        addCourse(id, name, duration) {
+            const newCourse = { id, name, duration, current: false }
+            this.courses.push(newCourse)
+        },
+        deleteCourse(id) {
+            this.courses = this.courses.filter((c) => c.id != id)
+        }
+    }
+}
+</script>
+
+<style>
+#app ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#app li,
+#app form {
+    width: 50%;
+    margin: 1rem auto;
+    max-width: 40rem;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 128, 0.26);
+}
+
+#app button {
+    font: inherit;
+    cursor: pointer;
+    border: 1px solid #FF0077;
+    background-color: #c0ffee;
+    color: black;
+}
+</style>
+```
+
+------------------
+### 
