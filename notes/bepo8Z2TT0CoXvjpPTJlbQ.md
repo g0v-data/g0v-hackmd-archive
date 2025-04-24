@@ -1,5 +1,4 @@
 
-https://jnrvape.nl/
-jnr vape
-JNR Vape brengt gemak, kwaliteit en een uitzonderlijk aanbod van smaken samen in één slank en wegwerpbaar pakket. Ontworpen voor dampers onderweg, biedt JNR Vape een zorgeloze ervaring zonder dat bijvullen of ingewikkeld onderhoud nodig is. Elk apparaat is vooraf gevuld met hoogwaardig e-liquid, wat zorgt voor een soepele en consistente ervaring bij elke trek. Van tropische fruitmengsels tot verfrissende mintsmaken, JNR Vape heeft iets voor elke smaak. Met tot 600 trekkingen is het de perfecte keuze voor iedereen die op zoek is naar een langdurige, gebruiksvriendelijke optie voor dagelijks dampen. Of je nu nieuw bent in het dampen of een ervaren pro, JNR Vape zorgt ervoor dat elke sessie plezierig is, met zowel geweldige smaak als constante dampproductie. Met zijn draagbare ontwerp is JNR Vape jouw ideale wegwerpapparaat voor dampen onderweg
-
+https://pufftequila.net/
+Puff Azul
+Humo Azul Vape réunit simplicité, style et performances exceptionnelles dans un seul appareil jetable élégant. Conçu pour les vapoteurs qui veulent une option facile à utiliser et fiable, Humo Azul offre jusqu'à 600 bouffées de vapeur douce et riche avec chaque appareil. Que vous soyez novice en vapotage ou à la recherche d'une alternative plus pratique à votre installation habituelle, Azul Vape rend facile de profiter d'une expérience de vapotage satisfaisante en déplacement. Sa gamme de saveurs, allant du menthol rafraîchissant aux délices fruités, garantit qu'il y en a pour tous les palais. Sans besoin d'entretien ni de remplissage, Puff Azul est parfait pour ceux qui recherchent une expérience de vapotage sans souci sans compromettre la saveur ou la qualité.
