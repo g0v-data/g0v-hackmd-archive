@@ -189,3 +189,282 @@ export default {
 ```
 
 ![](https://g0v.hackmd.io/_uploads/SyiFdXPyxg.png)
+
+### 可以用v-for來傳遞資料
+
+```javascript=
+<template>
+  <div>
+      <h1>課程列表</h1>
+      <course-intro v-for="c in courses"
+      :key="c.id"
+      :id="c.id"
+      :name="c.name"
+      :duration="c.duration"
+      :current="c.current">
+      </course-intro>
+      <hr/>
+      <ContactInfo></ContactInfo>
+  </div>
+</template>
+
+<script>
+import CourseIntro from '@/components/CourseIntro.vue';
+import ContactInfo from '@/components/ContactInfo.vue';
+
+export default {
+  components: { CourseIntro, ContactInfo },
+  data() {
+      return {
+          courses: [
+              { id: "poop", name: "python oop", duration: 35, current: true },
+              { id: "bdpy", name: 'python and big data', duration: 35, current: false }
+          ]
+      }
+  }
+}
+</script>
+
+<style>
+#app ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#app li {
+  width: 50%;
+  margin: 1rem auto;
+  max-width: 40rem;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 128, 0.26);
+}
+
+#app button {
+  font: inherit;
+  cursor: pointer;
+  border: 1px solid #FF0077;
+  background-color: #c0ffee;
+  color: black;
+}
+</style>
+```
+
+### 在子元件的直無法改變 要用emit
+```javascript=
+  <div>
+      <h1>課程列表</h1>
+      <course-intro v-for="c in courses"
+      :key="c.id"
+      :id="c.id"
+      :name="c.name"
+      :duration="c.duration"
+      :current="c.current">
+      </course-intro>
+      <hr/>
+      <ContactInfo></ContactInfo>
+  </div>
+
+```
+雖然可以顯示 但子元件並無法改變 需使用emit事件觸發
+
+![](https://g0v.hackmd.io/_uploads/Hyl-nxVPkgl.png)
+
+1. 當點擊按鈕觸發時觸發click事件去做toggleIsCurrent
+2. 因為送了emit事件 會再去觸發toggle-current
+3. toggle-current設定會去用toggleCurrent
+4. toggleCurrent就會去改動
+5. 要注意toggleCurrent需要的傳入參數就是emit時要傳入的
+
+```javascript=
+<template>
+    <li>
+        <h2>{{ id }}--[isCurrent-->{{ current }}]</h2>
+        <button @click="toggleCurrent">toggle isCurrent</button>
+        <button @click="toggleCourseDetail">show details</button>
+        <ul v-if="detailsVisible">
+            <li>{{ name }}</li>
+            <li>{{ duration }}</li>
+        </ul>
+    </li>
+</template>
+
+<script>
+export default {
+    props: {
+        id: { type: String, required: true },
+        name: { type: String, required: true },
+        duration: {
+            type: Number, required: true, validator: function (v) {
+                return v > 7;
+            }
+        },
+        current: { type: Boolean, required: false, default: false }
+    },
+    data() {
+        return {
+            detailsVisible: true,
+        }
+    },
+    methods: {
+        toggleCourseDetail() {
+            this.detailsVisible = !this.detailsVisible
+        },
+        toggleCurrent() {
+            this.$emit('toggle-current', this.id)
+        }
+    }
+}
+</script>
+
+<style scoped></style>
+```
+
+```javascript=
+<template>
+  <div>
+      <h1>課程列表</h1>
+      <course-intro v-for="c in courses" :key="c.id" :id="c.id" :name="c.name" :duration="c.duration"
+          :current="c.current" @toggle-current="toggleCurrent">
+      </course-intro>
+      <hr />
+      <ContactInfo></ContactInfo>
+  </div>
+</template>
+
+<script>
+import CourseIntro from '@/components/CourseIntro.vue';
+import ContactInfo from '@/components/ContactInfo.vue';
+
+export default {
+  components: { CourseIntro, ContactInfo },
+  data() {
+      return {
+          courses: [
+              { id: "poop", name: "python oop", duration: 35, current: true },
+              { id: "bdpy", name: 'python and big data', duration: 35, current: false }
+          ]
+      }
+  },
+  methods: {
+      toggleCurrent(id) {
+          //alert(`toggle fired with id=${id}`)
+          const c = this.courses.find(c => c.id === id)
+          c.current = !c.current;
+          console.log(`now ${id} course current status:${c.current}`)
+      }
+  }
+}
+</script>
+
+<style>
+#app ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#app li {
+  width: 50%;
+  margin: 1rem auto;
+  max-width: 40rem;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 128, 0.26);
+}
+
+#app button {
+  font: inherit;
+  cursor: pointer;
+  border: 1px solid #FF0077;
+  background-color: #c0ffee;
+  color: black;
+}
+</style>
+```
+
+### 使用mitt
+![](https://g0v.hackmd.io/_uploads/rkFQvNwkxl.png)
+
+一個用來傳遞害修改物件的套驗
+需要再main.js初始
+```javascript=
+import { createApp } from 'vue'
+import App from './App.vue'
+
+import mitt from 'mitt'
+const emitter = mitt()
+const app = createApp(App)
+app.config.globalProperties.emitter = emitter;
+app.mount('#app')
+```
+
+```javascript=
+<template>
+  <div>
+      <h1>課程列表</h1>
+      <course-intro v-for="c in courses" :key="c.id" :id="c.id" :name="c.name" :duration="c.duration"
+          :current="c.current" @toggle-current="toggleCurrent">
+      </course-intro>
+      <hr />
+      <ContactInfo></ContactInfo>
+  </div>
+</template>
+
+<script>
+import CourseIntro from '@/components/CourseIntro.vue';
+import ContactInfo from '@/components/ContactInfo.vue';
+
+export default {
+  created() {
+      console.log("App created, prepare mietter")
+      this.emitter.on("togget-current", (idx) => {
+          console.log(`${idx} will change status`)
+      })
+  },
+  components: { CourseIntro, ContactInfo },
+  data() {
+      return {
+          courses: [
+              { id: "poop", name: "python oop", duration: 35, current: true },
+              { id: "bdpy", name: 'python and big data', duration: 35, current: false }
+          ]
+      }
+  },
+  methods: {
+      toggleCurrent(id) {
+          //alert(`toggle fired with id=${id}`)
+          const c = this.courses.find(c => c.id === id)
+          c.current = !c.current;
+          console.log(`now ${id} course current status:${c.current}`)
+      }
+  }
+}
+</script>
+
+<style>
+#app ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#app li {
+  width: 50%;
+  margin: 1rem auto;
+  max-width: 40rem;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 128, 0.26);
+}
+
+#app button {
+  font: inherit;
+  cursor: pointer;
+  border: 1px solid #FF0077;
+  background-color: #c0ffee;
+  color: black;
+}
+</style>
+```
