@@ -886,3 +886,146 @@ console.log("userName=", userName.value)：
 
 3.這段程式碼設定了一個在 5 秒後執行的非同步操作。
 在回調函式中，你將 userName.value 的值修改為 "Min-Che Lee"。
+
+
+### reactive
+對於單個基本類型值（例如數字、字串、布林值），通常使用 ref。
+對於物件或陣列，如果你希望直接響應式地存取和修改其屬性，那麼使用 reactive 會更方便。當你使用 ref 包裹一個物件或陣列時，你需要透過 .value 來存取這個物件或陣列本身，然後再操作其屬性或元素。
+
+### 沒用reactive
+```javascript=
+<template>
+    <div>
+        <h1>(options) ==> composition</h1>
+        <p>{{ userName }}</p>
+        <p>age={{ age }}</p>
+        <hr/>
+        <p>{{ course }}</p>
+    </div>
+</template>
+
+<script>
+import { ref } from 'vue'
+export default {
+    setup() {
+        const userName = ref("Kevin Lee")
+        const age = ref(19)
+        console.log("userName=", userName.value)
+        const course = {front:'vue',backend:'spring boot'}
+        const reactiveCourse = ref(course)
+        setTimeout(() => {
+            userName.value = "Min-Che Lee"
+            console.log("userName=", userName.value)
+            reactiveCourse.value.front = 'vue 3.5'
+            setTimeout(() => {
+                age.value += 1
+                reactiveCourse.value.backend = 'spring boot 3.4'
+            }, 3000)
+        }, 3000)
+        return { userName, age, course:reactiveCourse }
+    }
+}
+</script>
+
+<style lang="scss" scoped></style>
+```
+
+### 有用
+```javascript=
+<template>
+    <div>
+        <h1>(options) ==> composition</h1>
+        <p>{{ userName }}</p>
+        <p>age={{ age }}</p>
+        <hr />
+        <p>{{ course }}</p>
+        <p>不建議==>{{ course.front }}/{{ course.backend }}</p>
+        <p>not reactive==>{{ frontEndTech }}/{{ backEndTech }}</p>
+        <p>{{ instructor }}</p>
+        <p>{{ instructor.firstName }}/{{ instructor.lastName }}</p>
+    </div>
+</template>
+
+<script>
+import { ref, reactive } from 'vue'
+export default {
+    setup() {
+        const userName = ref("Kevin Lee")
+        const age = ref(19)
+        console.log("userName=", userName.value)
+        const course = { front: 'vue', backend: 'spring boot' }
+        const reactiveCourse = ref(course)
+        const instructor = { firstName: "Mark", lastName: "Ho" }
+        const reactiveInstructor = reactive(instructor)
+        setTimeout(() => {
+            userName.value = "Min-Che Lee"
+            console.log("userName=", userName.value)
+            reactiveCourse.value.front = 'vue 3.5'
+            reactiveInstructor.firstName = "Meng-Hang"
+            setTimeout(() => {
+                age.value += 1
+                reactiveCourse.value.backend = 'spring boot 3.4'
+                reactiveInstructor.lastName = "何"
+            }, 3000)
+        }, 3000)
+        return {
+            userName, age, course: reactiveCourse,
+            instructor: reactiveInstructor,
+            frontEndTech:reactiveCourse.value.front,
+            backEndTech:reactiveCourse.value.backend
+        }
+    }
+}
+</script>
+
+<style lang="scss" scoped></style>
+```
+
+### setup 和 setup script
+```
+<script setup> 是 Vue 3 推薦的組合式 API 使用方式，因為它提供了更簡潔、
+更符合直覺的語法，減少了樣板程式碼，並提高了開發效率。
+它在功能上與傳統的 setup 函式完全相同，只是在語法層面上進行了優化。
+在新的 Vue 3 專案中，通常會優先使用 <script setup>。
+```
+    
+```javascript=
+<template>
+    <div>
+        <h1>options ==> (composition) script setup</h1>
+        <p>{{ userName }}</p>
+        <p>age={{ age }}</p>
+        <hr />
+        <p>{{ reactiveCourse }}</p>
+        <p>不建議==>{{ reactiveCourse.front }}/{{ reactiveCourse.backend }}</p>
+        <p>{{ reactiveInstructor }}</p>
+        <p>{{ reactiveInstructor.firstName }}/{{ reactiveInstructor.lastName }}</p>
+
+    </div>
+</template>
+
+<script setup>
+import { ref, reactive } from 'vue'
+const userName = ref("Kevin Lee")
+const age = ref(19)
+console.log("userName=", userName.value)
+const course = { front: 'vue', backend: 'spring boot' }
+const reactiveCourse = ref(course)
+const instructor = { firstName: "Mark", lastName: "Ho" }
+const reactiveInstructor = reactive(instructor)
+setTimeout(() => {
+    userName.value = "Min-Che Lee"
+    console.log("userName=", userName.value)
+    reactiveCourse.value.front = 'vue 3.5'
+    reactiveInstructor.firstName = "Meng-Hang"
+    setTimeout(() => {
+        age.value += 1
+        reactiveCourse.value.backend = 'spring boot 3.4'
+        reactiveInstructor.lastName = "何"
+    }, 3000)
+}, 3000)
+
+</script>
+
+<style scoped></style>
+```
