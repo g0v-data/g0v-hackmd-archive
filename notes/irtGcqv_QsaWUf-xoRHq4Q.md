@@ -1,65 +1,29 @@
-Xoilac TV cung cấp nền tảng xem bóng đá trực tiếp đỉnh cao với tốc độ nhanh, không giật lag. Người xem có thể theo dõi mọi trận đấu lớn nhỏ như Ngoại Hạng Anh, La Liga, Cúp C1 hoàn toàn miễn phí. Giao diện dễ sử dụng, tương thích mọi thiết bị, giúp bạn không bỏ lỡ bất kỳ khoảnh khắc nào từ trái bóng lăn.
-Website: https://xoilac.media/
+Xoilac tv cung cấp dịch vụ xem bóng đá trực tuyến miễn phí, với chất lượng Full HD và tốc độ truyền tải nhanh chóng. Bạn có thể theo dõi các trận đấu hấp dẫn từ Ngoại Hạng Anh, Champions League, V-League và nhiều giải đấu khác. Giao diện dễ sử dụng và không quảng cáo, mang đến trải nghiệm xem mượt mà.
+Website: https://xoilac86.biz/
 Đia chỉ: 54 Đường 3B, Phong Phú, Bình Chánh, Hồ Chí Minh.
 Điện thoại: 0988488566
 Email:xoilactvznet@gmail.com
-Hastag:#Xoilac #XemBongDaTrucTuyen #TrucTiepBongDa #XoilacLive #BongDaFullHD #XemBongDaMienPhi
-https://xoilac.media/
-https://twitter.com/xoilacmedia
-https://www.youtube.com/@xoilacmedia
-https://www.pinterest.com/xoilacmedia/
-https://500px.com/p/xoilacmedia
-https://www.twitch.tv/xoilacmedia
-https://diigo.com/0zh461
-https://kitsu.app/users/1590407
-https://profile.sampo.ru/xoilacmedia
-https://easymeals.qodeinteractive.com/forums/users/xoilacmedia/
-https://rb.gy/yhjke4
-https://www.mymeetbook.com/xoilacmedia
-https://huzzaz.com/collection/xoilacmedia
-https://pad.hacc.space/s/1nu2fiR5A
-https://sketchfab.com/xoilacmedia1
-https://shorturl.at/Zqfal
-https://soctrip.com/personal-profile/knelia429135?Tab=About
-https://hedgedoc.envs.net/s/VwYsxZ_gE
-https://www.giveawayoftheday.com/forums/profile/495043
-https://skiomusic.com/xoilacmedia
-https://hedgedoc.louisgallet.fr/s/OlVe6RS92
-https://civitai.com/user/xoilacmedia
-https://www.behance.net/neliakaraman
-https://tinylink.info/10EPt
-https://gram.social/xoilacmedia
-https://hedgedoc.envs.net/s/l0T2Fk37L
-https://telescope.ac/xoilacmedia/b54sworn36fqnhna79quy6
-https://getinkspired.com/en/u/nelia-karaman-prabhakar-99419/
-https://md.ctdo.de/s/L0HsiuXmr
-https://files.fm/leopoldaramanprabhakar21995/info
-https://justpaste.me/7Qs4
-https://medium.com/@leopoldaramanprabhakar21995
-https://postheaven.net/5orfgfkqo8
-https://www.syncdocs.com/forums/profile/xoilacmedia
-https://www.remoteworker.co.uk/profiles/6489296-xoi-lac
-https://fairebruxellessamen.be/profiles/xoilacmedia/activity
-https://bulios.com/@xoilacmedia
-https://jeparticipe.soyaux.fr/profiles/xoilacmedia/activity
-https://beteiligung.amt-huettener-berge.de/profile/xoilacmedia/
-https://www.servinord.com/phpBB2/profile.php?mode=viewprofile&u=698759
-https://6giay.vn/members/xoilacmedia.140772/
-https://stemedhub.org/members/53790
-https://participa.sostrecivic.coop/profiles/xoilacmedia/activity
-https://tamilculture.com/user/xoi-lac
-https://forum.bee-link.com/home.php?mod=space&uid=384719
-https://www.clickasnap.com/profile/xoilacmedia
-https://decidim.derechoaljuego.digital/profiles/xoilacmedia/activity
-https://akniga.org/profile/946943-xoilacmedia/
-https://meadd.com/xoilacmedia/78850997
-https://source.coderefinery.org/xoilacmedia
-https://rotorbuilds.com/profile/120381/
-https://ask.embedded-wizard.de/user/xoilacmedia
-https://beteiligung.stadtlindau.de/profile/xoilacmedia/
-https://www.stylevore.com/user/xoilacmedia
-https://kansabook.com/xoilacmedia
-https://duvidas.construfy.com.br/user/xoilacmedia
-https://blog.kazakh-zerno.net/profile/xoilacmedia/
-https://anotepad.com/note/read/qdkk4bq5
-https://hacktivizm.org/members/xoilacmedia.40358/#about
+Hastag: #Xoilac86biz #TrucTiepBongDa #BongDaMienPhi #XemBongDaHD #LinkBongDaOnline
+https://xoilac86.biz/
+https://twitter.com/xoilac86biz
+https://www.youtube.com/@xoilac86biz
+https://www.pinterest.com/xoilac86biz/
+https://500px.com/p/xoilac86biz
+https://www.twitch.tv/xoilac86biz
+https://www.syncdocs.com/forums/profile/xoilac86biz
+https://www.remoteworker.co.uk/profiles/6489429-xoilac-86
+https://fairebruxellessamen.be/profiles/xoilac86biz/activity
+https://bulios.com/@xoilac86biz
+https://jeparticipe.soyaux.fr/profiles/xoilac86biz/activity
+https://www.servinord.com/phpBB2/profile.php?mode=viewprofile&u=698762
+https://participa.sostrecivic.coop/profiles/xoilac86biz/activity
+https://stemedhub.org/members/53795
+https://6giay.vn/members/xoilac86biz.140783/
+https://forum.bee-link.com/home.php?mod=space&uid=384737
+https://www.clickasnap.com/profile/xoilac86biz
+https://akniga.org/profile/947013-xoilac86biz/
+https://beteiligung.amt-huettener-berge.de/profile/xoilac86biz/
+https://backloggery.com/xoilac86biz
+https://decidim.derechoaljuego.digital/profiles/xoilac86biz/activity
+https://source.coderefinery.org/xoilac86biz
+https://beteiligung.stadtlindau.de/profile/xoilac86biz/
