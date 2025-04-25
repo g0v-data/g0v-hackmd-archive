@@ -859,3 +859,407 @@ export default {
 ### 安裝套件
     https://marketplace.visualstudio.com/items/?itemName=humao.rest-client
 然後去firebase 建立專案後加入DB取得URL
+有json後按下Send Request 插件就會幫你送請求
+```json=
+POST https://wei-vuedemo-default-rtdb.firebaseio.com//courses.json
+Content-Type: application/json
+
+{
+    "id":"POOP",
+    "name":"Python OOP",
+    "duration":35
+}
+### 
+PUT https://wei-vuedemo-default-rtdb.firebaseio.com/instructor/Mark.json
+Content-Type: application/json
+
+{
+    "name":"何孟翰",
+    "expertee":["Java","Python","ML"]
+}    
+```
+    
+用畫面來送請求
+```javascript=
+<template>
+  <p>post a course</p>
+  <button @click="send1">用fetch去作post</button>
+</template>
+
+<script>
+// 每個人換自己這個
+const URL1 = "https://wei-vuedemo-default-rtdb.firebaseio.com/instructor/courses.json";
+//const HEADER_TITLE = "Content-Type";
+const HEADER_VALUE = "application/json";
+export default {
+  data() {
+    return {
+      course: { id: "POOP", name: "Python OOP物件導向", duration: 36 },
+      courses: []
+    }
+  },
+  methods: {
+    send1() {
+      fetch(URL1, {
+        method: "POST",
+        headers: { "Content-Type": HEADER_VALUE },
+        body: JSON.stringify(this.course)
+      }).then(response => {
+        console.log("[1]response=", response)
+        if (response.ok) {
+          return response.json()
+        }
+      }).then(data => console.log("[2]response data=", data))
+    }
+  }
+}
+</script>
+
+<style scoped></style>
+
+```
+### import的問題
+```vue=
+import { axios } from "axios";
+import  axios  from "axios";
+
+差別是什麼
+```
+1. 預設匯出 (Default Export)
+如果一個模組使用預設匯出，你只需要簡單地 import 該模組，而不需要用 {} 包裹引入的內容。預設匯出通常是一個單一物件、函數、或類別。
+2. 命名匯出 (Named Export)
+如果一個模組使用命名匯出，那麼你必須使用 {} 來指定你要引入的具體內容。命名匯出允許你從同一個模組中導出多個變數、函數或類別。
+
+### 用axios打請求
+```javascript=
+<template>
+  <p>post a course</p>
+  <button @click="send1">用fetch去作post</button>
+  <button @click="send2">用axios去作post</button>
+</template>
+
+<script>
+// 每個人換自己這個
+//const HEADER_TITLE = "Content-Type";
+const HEADER_VALUE = "application/json";
+import axios from "axios";
+export default {
+  data() {
+    return {
+      course: { id: "POOP", name: "Python OOP", duration: 35 },
+      courses: []
+    }
+  },
+  methods: {
+    send1() {
+      fetch(URL1, {
+        method: "POST",
+        headers: { "Content-Type": HEADER_VALUE },
+        body: JSON.stringify(this.course)
+      }).then(response => {
+        console.log("[1]response=", response)
+        if (response.ok) {
+          return response.json()
+        }
+      }).then(data => console.log("[2]response data=", data))
+    },
+    send2() {
+      axios.post(URL1, this.course)
+        .then(r => {
+          console.log("axios reponse=", r)
+          if (r.status == 200) {
+            console.log("already get result", r.data)
+          }
+        })
+    }
+  }
+}
+</script>
+
+<style scoped></style>
+```
+    
+POST/GET方法
+```javascript=
+<template>
+  <ul>
+    <li v-for="course in courses" :key="course.id">
+      <p>{{ course.id }},{{ course.name }}/{{ course.duration }}</p>
+    </li>
+  </ul>
+  <p>post a course</p>
+  <button @click="send1">用fetch去作post</button>
+  <button @click="send2">用axios去作post</button>
+  <button @click="send3">用fetch去作get</button>
+</template>
+
+<script>
+// 每個人換自己這個
+const URL1 = "https://wei-vuedemo-default-rtdb.firebaseio.com/courses.json";
+//const HEADER_TITLE = "Content-Type";
+const HEADER_VALUE = "application/json";
+import axios from "axios";
+export default {
+  data() {
+    return {
+      course: { id: "POOP", name: "Python OOP", duration: 35 },
+      courses: []
+    }
+  },
+  methods: {
+    send1() {
+      fetch(URL1, {
+        method: "POST",
+        headers: { "Content-Type": HEADER_VALUE },
+        body: JSON.stringify(this.course)
+      }).then(response => {
+        console.log("[1]response=", response)
+        if (response.ok) {
+          return response.json()
+        }
+      }).then(data => console.log("[2]response data=", data))
+    },
+    send2() {
+      axios.post(URL1, this.course)
+        .then(r => {
+          console.log("axios reponse=", r)
+          if (r.status == 200) {
+            console.log("already get result", r.data)
+          }
+        })
+    },
+    send3() {
+      this.courses = []
+      fetch(URL1, {
+        method: "GET",
+        headers: { "Content-Type": HEADER_VALUE }
+      }).then(response => {
+        console.log("get status:", response.status)
+        if (response.ok) {
+          return response.json()
+        }
+      }).then(data => {
+        console.log("data=", data)
+        for (const record in data) {
+          console.log(record)
+          this.courses.push(data[record])
+        }
+      })
+    }
+  }
+}
+</script>
+
+<style scoped></style>
+```
+    
+### AXIOS的寫法
+```javascript=
+<template>
+  <ul>
+    <li v-for="course in courses" :key="course.id">
+      <p>{{ course.id }},{{ course.name }}/{{ course.duration }}</p>
+    </li>
+  </ul>
+  <p>post a course</p>
+  <button @click="send1">用fetch去作post</button>
+  <button @click="send2">用axios去作post</button>
+  <button @click="send3">用fetch去作get</button>
+  <button @click="send4">用axios去作get</button>
+</template>
+
+<script>
+// 每個人換自己這個
+const URL1 = "https://ucom2024-48c26-default-rtdb.firebaseio.com/courses.json";
+//const HEADER_TITLE = "Content-Type";
+const HEADER_VALUE = "application/json";
+import axios from "axios";
+export default {
+  mounted() {
+    this.send3()
+  },
+  data() {
+    return {
+      course: { id: "POOP", name: "Python OOP", duration: 35 },
+      courses: []
+    }
+  },
+  methods: {
+    send1() {
+      fetch(URL1, {
+        method: "POST",
+        headers: { "Content-Type": HEADER_VALUE },
+        body: JSON.stringify(this.course)
+      }).then(response => {
+        console.log("[1]response=", response)
+        if (response.ok) {
+          return response.json()
+        }
+      }).then(data => console.log("[2]response data=", data))
+    },
+    send2() {
+      axios.post(URL1, this.course)
+        .then(r => {
+          console.log("axios reponse=", r)
+          if (r.status == 200) {
+            console.log("already get result", r.data)
+          }
+        })
+    },
+    send3() {
+      this.courses = []
+      fetch(URL1, {
+        method: "GET",
+        headers: { "Content-Type": HEADER_VALUE }
+      }).then(response => {
+        console.log("get status:", response.status)
+        if (response.ok) {
+          return response.json()
+        }
+      }).then(data => {
+        console.log("data=", data)
+        for (const record in data) {
+          console.log(record)
+          this.courses.push(data[record])
+        }
+      })
+    },
+    send4() {
+      this.courses = []
+      axios.get(URL1)
+        .then(r => {
+          console.log("axios reponse=", r)
+          if (r.status == 200) {
+            //console.log("already get result", r.data)
+            return r.data
+          }
+        }).then(data => {
+          console.log(data)
+          for (const record in data) {
+            //console.log(record)
+            this.courses.push(data[record])
+          }
+        })
+
+    }
+  }
+}
+</script>
+
+<style scoped></style>
+```
+
+比較
+| **功能**                     | **第一段程式碼**                                                                                                     | **第二段程式碼**                                                                                                    |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| **新增課程（POST）**          | 使用 fetch 進行 POST 請求，將資料送到 Firebase。                                                                 | 使用 fetch 進行 POST 請求，將資料送到 Firebase。                                                                  |
+| **取得課程（GET）**          | 使用 fetch 進行 GET 請求，從 Firebase 取得課程資料。                                                               | 使用 fetch 進行 GET 請求，從 Firebase 取得課程資料。                                                               |
+| **新增課程（POST）使用 Axios** | 無使用 Axios，只使用 fetch。                                                                                           | 使用 axios 發送 POST 請求，將資料送到 Firebase。                                                                  |
+| **取得課程（GET）使用 Axios** | 無使用 Axios，只使用 fetch。                                                                                           | 使用 axios 發送 GET 請求，從 Firebase 取得課程資料。                                                                |
+| **自動取得資料**             | 無在 mounted 中自動呼叫 send3，必須手動點擊按鈕觸發 send3。                                                         | 在 mounted 中自動呼叫 send3，即組件加載完成後會自動從 Firebase 取得資料。                                          |
+| **課程資料顯示**             | 在取得資料後，手動把每個資料項目 push 到 courses 陣列中進行顯示。                                                     | 在取得資料後，手動把每個資料項目 push 到 courses 陣列中進行顯示。                                                 |
+| **錯誤處理**                 | 無錯誤處理機制，只有在 fetch 成功時回傳資料。                                                                         | 無錯誤處理機制，只有在 fetch 或 axios 成功時回傳資料。                                                           |
+| **按鈕設置**                 | 有 3 個按鈕：用fetch去作post, 用axios去作post, 用fetch去作get。                                                         | 有 4 個按鈕：用fetch去作post, 用axios去作post, 用fetch去作get, 用axios去作get。                                   |
+| **資料顯示方式**             | 顯示每個課程的 id, name 和 duration。                                                                                   | 顯示每個課程的 id, name 和 duration。                                                                                |
+
+### 多用If else
+```javascript!
+<template>
+  <h1 v-if="isLoading === true">Loading...</h1>
+  <div v-else>
+    <ul>
+      <li v-for="course in courses" :key="course.id">
+        <p>{{ course.id }},{{ course.name }}/{{ course.duration }}</p>
+      </li>
+    </ul>
+  </div>
+  <p>post a course</p>
+  <button @click="send1">用fetch去作post</button>
+  <button @click="send2">用axios去作post</button>
+  <button @click="send3">用fetch去作get</button>
+  <button @click="send4">用axios去作get</button>
+</template>
+
+<script>
+// 每個人換自己這個
+const URL1 = "https://ucom2024-48c26-default-rtdb.firebaseio.com/courses.json";
+//const HEADER_TITLE = "Content-Type";
+const HEADER_VALUE = "application/json";
+import axios from "axios";
+export default {
+  mounted() {
+    this.send4()
+  },
+  data() {
+    return {
+      course: { id: "POOP", name: "Python OOP", duration: 35 },
+      courses: [],
+      isLoading: false
+    }
+  },
+  methods: {
+    send1() {
+      fetch(URL1, {
+        method: "POST",
+        headers: { "Content-Type": HEADER_VALUE },
+        body: JSON.stringify(this.course)
+      }).then(response => {
+        console.log("[1]response=", response)
+        if (response.ok) {
+          return response.json()
+        }
+      }).then(data => console.log("[2]response data=", data))
+    },
+    send2() {
+      axios.post(URL1, this.course)
+        .then(r => {
+          console.log("axios reponse=", r)
+          if (r.status == 200) {
+            console.log("already get result", r.data)
+          }
+        })
+    },
+    send3() {
+      this.courses = []
+      fetch(URL1, {
+        method: "GET",
+        headers: { "Content-Type": HEADER_VALUE }
+      }).then(response => {
+        console.log("get status:", response.status)
+        if (response.ok) {
+          return response.json()
+        }
+      }).then(data => {
+        console.log("data=", data)
+        for (const record in data) {
+          console.log(record)
+          this.courses.push(data[record])
+        }
+      })
+    },
+    send4() {
+      this.isLoading = true
+      this.courses = []
+      axios.get(URL1)
+        .then(r => {
+          console.log("axios reponse=", r)
+          if (r.status == 200) {
+            //console.log("already get result", r.data)
+            return r.data
+          }
+        }).then(data => {
+          console.log(data)
+          for (const record in data) {
+            //console.log(record)
+            this.courses.push(data[record])
+          }
+          this.isLoading = false;
+        })
+
+    }
+  }
+}
+</script>
+
+<style scoped></style>
+```
