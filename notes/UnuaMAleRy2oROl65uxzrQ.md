@@ -852,4 +852,10 @@ export default {
 會在欄位 失去焦點（blur）時做檢查。
 如果是空的，就會提示錯誤訊息。
 類似「前端驗證」的初階做法。
-    
+
+-------------------
+
+### http
+### 安裝套件
+    https://marketplace.visualstudio.com/items/?itemName=humao.rest-client
+然後去firebase 建立專案後加入DB取得URL
