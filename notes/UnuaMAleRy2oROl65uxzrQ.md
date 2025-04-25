@@ -601,3 +601,255 @@ export default {
 
 <style lang="scss" scoped></style>
 ```
+
+### form
+
+```javascript=
+<template>
+    <form @submit.prevent="submitForm">
+        <label for="course-id">course id</label>
+        <input name="course-id" type="text" />
+        <br />
+        <label for="course-name">course name</label>
+        <input name="course-name" type="text" />
+        <br />
+        <label for="course-duration">course duraion</label>
+        <input name="course-duration" type="number" />
+        <br />
+        <label for="category">category</label>
+        <select id="category">
+            <option value="java">java</option>
+            <option value="C#">C#</option>
+            <option value="python">python</option>
+        </select>
+        <br />
+        <p>need equipment</p>
+        <input id="arduino" type="checkbox">
+        <label for="arduino">arduino</label>
+        <input id="webcam" type="checkbox">
+        <label for="webcam">webcam</label>
+        <input id="internet_access" type="checkbox">
+        <label for="internet_access">internet access</label>
+        <br />
+        <p>location</p>
+        <input id="taipei" type="radio" name="location">
+        <label for="taipei">taipei</label>
+        <input id="hsinchu" type="radio" name="location">
+        <label for="hsinchu">hsinchu</label>
+        <input id="taichung" type="radio" name="location">
+        <label for="taichung">taichung</label>
+        <input id="kaohsiung" type="radio" name="location">
+        <label for="kaohsiung">kaohsiung</label>
+
+        <br />
+        <button type="submit">Save</button>
+
+    </form>
+</template>
+
+<script>
+export default {
+    methods: {
+        submitForm() {
+            console.log("form submitted")
+        }
+    }
+}
+</script>
+
+<style scoped></style>
+```
+
+
+### form包值
+在 Vue 中，Vue 並不會自動幫你「打包整個 <form> 成物件」。
+你看到的 v-model 綁定，其實是你在 data() 裡自己定義的變數，Vue 幫你「資料雙向綁定」而已，但「打包成表單物件」這件事，還是要你手動寫。
+```javascript=
+<template>
+    <form @submit.prevent="submitForm">
+        <label for="course-id">course id</label>
+        <input name="course-id" type="text" v-model="courseId"/>
+        <br />
+        <label for="course-name">course name</label>
+        <input name="course-name" type="text" v-model="courseName"/>
+        <br />
+        <label for="course-duration">course duraion</label>
+        <input name="course-duration" type="number" v-model.number="courseDuration"/>
+        <br />
+        <label for="category">category</label>
+        <select id="category" v-model="category">
+            <option value="java">java</option>
+            <option value="C#">C#</option>
+            <option value="python">python</option>
+        </select>
+        <br />
+        <p>need equipment</p>
+        <input id="arduino" type="checkbox" value="arduino" v-model="equipment">
+        <label for="arduino">arduino</label>
+        <input id="webcam" type="checkbox" value="webcam" v-model="equipment">
+        <label for="webcam">webcam</label>
+        <input id="internet_access" type="checkbox" value="internet_access" v-model="equipment">
+        <label for="internet_access">internet access</label>
+        <br />
+        <p>location</p>
+        <input id="taipei" type="radio" name="location" value="taipei" v-model="location">
+        <label for="taipei">taipei</label>
+        <input id="hsinchu" type="radio" name="location" value="hsinchu" v-model="location">
+        <label for="hsinchu">hsinchu</label>
+        <input id="taichung" type="radio" name="location" value="taichung" v-model="location">
+        <label for="taichung">taichung</label>
+        <input id="kaohsiung" type="radio" name="location" value="kaohsiung" v-model="location">
+        <label for="kaohsiung">kaohsiung</label>
+
+        <br />
+        <button type="submit">Save</button>
+
+    </form>
+</template>
+
+<script>
+export default {
+    data() {
+        return {
+            courseId: "",
+            courseName: "",
+            courseDuration: null,
+            category: "java",
+            equipment: [],
+            location: "",
+            rememberMe: false
+
+        }
+    },
+    methods: {
+        submitForm() {
+            const course = {
+                id: this.courseId,
+                name: this.courseName,
+                duration: this.courseDuration,
+                category: this.category,
+                equipment: this.equipment,
+                location: this.location,
+                rememberMe: this.rememberMe
+            }
+            console.log("form submitted as:", course)
+            this.courseId = "";
+            this.courseName = "";
+            this.courseDuration = null;
+            this.category = "java";
+            this.equipment = [];
+            this.location = "";
+            this.rememberMe = false;
+        }
+    }
+}
+</script>
+
+<style scoped></style>
+```
+🧠 要怎麼「打包成物件」？
+你要自己在 methods.submitForm 裡整理好：
+如上面58~66行 
+
+### 多了驗證版本
+```javascript=
+<template>
+    <form @submit.prevent="submitForm">
+        <label for="course-id">course id</label>
+        <input name="course-id" type="text" v-model="courseId" @blur="validateId" />
+        <p v-if="idValid === 0">course id can not be empty</p>
+        <br />
+        <label for="course-name">course name</label>
+        <input name="course-name" type="text" v-model="courseName" />
+        <br />
+        <label for="course-duration">course duraion</label>
+        <input name="course-duration" type="number" v-model.number="courseDuration" />
+        <br />
+        <label for="category">category</label>
+        <select id="category" v-model="category">
+            <option value="java">java</option>
+            <option value="C#">C#</option>
+            <option value="python">python</option>
+        </select>
+        <br />
+        <p>need equipment</p>
+        <input id="arduino" type="checkbox" value="arduino" v-model="equipment">
+        <label for="arduino">arduino</label>
+        <input id="webcam" type="checkbox" value="webcam" v-model="equipment">
+        <label for="webcam">webcam</label>
+        <input id="internet_access" type="checkbox" value="internet_access" v-model="equipment">
+        <label for="internet_access">internet access</label>
+        <br />
+        <p>location</p>
+        <input id="taipei" type="radio" name="location" value="taipei" v-model="location">
+        <label for="taipei">taipei</label>
+        <input id="hsinchu" type="radio" name="location" value="hsinchu" v-model="location">
+        <label for="hsinchu">hsinchu</label>
+        <input id="taichung" type="radio" name="location" value="taichung" v-model="location">
+        <label for="taichung">taichung</label>
+        <input id="kaohsiung" type="radio" name="location" value="kaohsiung" v-model="location">
+        <label for="kaohsiung">kaohsiung</label>
+
+        <br />
+        <input type="checkbox" v-model="rememberMe" id="remember" />
+        <label for="remember">remember me</label>
+        <button type="submit">Save</button>
+
+    </form>
+</template>
+
+<script>
+export default {
+    data() {
+        return {
+            courseId: "",
+            courseName: "",
+            courseDuration: null,
+            category: "java",
+            equipment: [],
+            location: "",
+            rememberMe: false,
+            idValid: -1
+        }
+    },
+    methods: {
+        validateId() {
+            if (this.courseId.trim() === "") {
+                this.idValid = 0;
+            } else {
+                this.idValid = 1;
+            }
+        },
+        submitForm() {
+            const course = {
+                id: this.courseId,
+                name: this.courseName,
+                duration: this.courseDuration,
+                category: this.category,
+                equipment: this.equipment,
+                location: this.location,
+                rememberMe: this.rememberMe
+            }
+            console.log("form submitted as:", course)
+            this.courseId = "";
+            this.courseName = "";
+            this.courseDuration = null;
+            this.category = "java";
+            this.equipment = [];
+            this.location = "";
+            this.rememberMe = false;
+        }
+    }
+}
+</script>
+
+<style scoped></style>
+```
+```vue
+<input name="course-id" type="text" v-model="courseId" @blur="validateId" />
+<p v-if="idValid === 0">course id can not be empty</p>
+```
+會在欄位 失去焦點（blur）時做檢查。
+如果是空的，就會提示錯誤訊息。
+類似「前端驗證」的初階做法。
+    
