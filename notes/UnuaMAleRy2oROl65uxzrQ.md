@@ -507,3 +507,97 @@ export default {
 
 -------
 ### lifecycle
+這些是 Vue 3 中 生命週期鉤子（Lifecycle Hooks） 的一部分，通常用來控制元件在不同階段的行為。
+
+在 Vue 的生命週期中，元件會經歷從「創建」到「銷毀」的一系列階段，而這些鉤子函數會在特定的階段自動被調用。你提供的這些鉤子是與元件的創建與銷毀有關的生命週期鉤子。
+
+Options API	的寫法
+```javascript=
+<template>
+    <div>
+        <h1>Options API 元件</h1>
+        <p>{{ counter }}</p>
+        <button @click="increaseCounter">+1</button>
+    </div>
+</template>
+
+<script>
+export default {
+    data() {
+        return { counter: 0 }
+    },
+    methods: {
+        increaseCounter() {
+            console.log("before +1, counter=", this.counter)
+            this.counter += 1
+            console.log("after +1, counter=", this.counter)
+        }
+    },
+    beforeUpdate() {
+        console.log("before update has been called")
+    },
+    updated() {
+        console.log("component updated")
+    },
+    beforeCreate() {
+        console.log("component before created")
+    },
+    created() {
+        console.log("component created")
+    },
+    mounted() {
+        console.log("component mounted")
+    },
+    beforeUnmount() {
+        console.log("component will be removed")
+    },
+    unmounted() {
+        console.log("component removed")
+    }
+
+}
+</script>
+
+<style scoped></style>
+```
+
+Composition API的寫法
+```javascript=
+<template>
+    <div>
+        <h1>Composition元件</h1>
+        <p>{{ counter }}</p>
+        <button @click="increaseCounter">+1</button>
+    </div>
+</template>
+
+<script>
+import { onBeforeUnmount, onMounted, onUnmounted, ref, onBeforeUpdate, onUpdated } from 'vue'
+export default {
+    setup() {
+        const counter = ref(0)
+        function increaseCounter() {
+            console.log("[c]before update value")
+            counter.value += 1
+            console.log("[c]after update value")
+        }
+        onBeforeUpdate(()=>{console.log("[c]before update UI")})
+        onUpdated(()=>{console.log("[c]before update UI")})
+        console.log("[c]prepare composition api")
+        onMounted(() => {
+            console.log("[c]component mounted")
+        })
+        onBeforeUnmount(() => {
+            console.log("[c]component will be removed")
+        })
+        onUnmounted(() => {
+            console.log("[c]component removed")
+        })
+        return { counter, increaseCounter }
+    },
+
+}
+</script>
+
+<style lang="scss" scoped></style>
+```
