@@ -61,12 +61,12 @@ RS:
 
 ## 各次放輕松列表
 `Latest` 
-- [20240401 Rand0mTh22n 第貳拾貳次](/e3WKTTDtS9SCiofmB6qdtg)
-- [20240318 Rand0mTh21n 第貳拾壹次](/XApq04KhRLij31rveNXnfA)
-- [20240304 Rand0mTh20n 第貳拾次](/6WH6j-_bSISk01pHrmQCPA)
-- [20240218 Rand0mTh19n 第拾玖次放輕松](/N2P1JljQQ8mYKodSzbIOog)
-- [20240204 Rand0mTh18n 第拾捌次放輕松](/Ez7ByWB3RYWH-oXIX4ZvBw)
-- [20240107 Rand0mTh17n 第拾柒次放輕松](/A0c55nbZQIaw4I0oYjs1eg)
+- [20250401 Rand0mTh22n 第貳拾貳次](/e3WKTTDtS9SCiofmB6qdtg)
+- [20250318 Rand0mTh21n 第貳拾壹次](/XApq04KhRLij31rveNXnfA)
+- [20250304 Rand0mTh20n 第貳拾次](/6WH6j-_bSISk01pHrmQCPA)
+- [20250218 Rand0mTh19n 第拾玖次放輕松](/N2P1JljQQ8mYKodSzbIOog)
+- [20250204 Rand0mTh18n 第拾捌次放輕松](/Ez7ByWB3RYWH-oXIX4ZvBw)
+- [20250107 Rand0mTh17n 第拾柒次放輕松](/A0c55nbZQIaw4I0oYjs1eg)
 - [20241224 ChristmasTh0n 第零次聖誕松](/g9H8Gen9SjCevGQFKu673w)
 - [20241210 Rand0mTh15n 第拾伍次](/-YHAVW9TQqmH8RmepOXH_g)
 - [20241119 Rand0mTh14n 第拾肆次](/nIQitAjBSwC7JJxLQh2U6g)
@@ -88,7 +88,7 @@ RS:
 **幕後故事 Behind the Scene**
 
 (English below)
->g0v 的雙月大黑客松 12 年來，是一個數位公民廣場，在專業型社運團體之外，維持了一個公民協作空間，支撐著每一位「沒有人」，陪我們走過家鄉許多角落。
+>g0v 的雙月大黑客松首次於 2012 年 12 月舉辦至今，是一個數位公民廣場，在專業型社運團體之外，維持了一個公民協作空間，支撐著每一位「沒有人」，陪我們走過家鄉許多角落。
 >
 >在 g0v 大松，大家能夠彈性結社，也能運用科技提出解方，彼此學習，形成網絡，在危機不斷的台灣，集結「沒有人們」也成為公民的核心肌群。
 >
