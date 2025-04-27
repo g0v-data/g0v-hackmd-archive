@@ -27,7 +27,7 @@ https://g0vcongressthon.oen.tw/events/2vcSlV4wScpMJ1W6jPiLnJbfhQr
 | 提案名稱 | 提案人稱呼 | 提案網址或內容   |
 | -------- | ---------- | ---------------- |
 | 預決算資料庫 | Ronny | [投影片](https://docs.google.com/presentation/d/1-D5gl4LFG2A6zYvQfS2ObUnpk5YPoYj5JwAXsHrAv7I/edit#slide=id.p) |
-|地方預算整理計劃 | 靖緯 | [投影片](https://bit.ly/3YlptYS)、[試算表](https://docs.google.com/spreadsheets/d/1jo_R6Hap6lZI6Zpik1E6nmF26aPZTtjPlY6QWcCfTS4/edit?gid=522021817#gid=522021817)            |
+|地方預算整理計劃 | 靖緯 | [投影片](https://bit.ly/3YlptYS)、[協作試算表](https://docs.google.com/spreadsheets/d/1jo_R6Hap6lZI6Zpik1E6nmF26aPZTtjPlY6QWcCfTS4/edit?gid=522021817#gid=522021817)            |
 | (不是提案)READr 目前預算後續分享 |  Zoe     | [Github](https://github.com/readr-data/2025_budget/blob/main/README.md)           
 |地方政府預算總體檢：資料視覺化與科普| 靖豪 | [投影片](https://docs.google.com/presentation/d/1kEigvJ3Qn0DvlCEyEl1s5hsQU8F7xhNJCXx69MfuAmc/edit?usp=sharing)            |
 | 自由填寫 | 自由填寫   | 自由向下新增行列 |
