@@ -48,8 +48,27 @@ https://g0vcongressthon.oen.tw/events/2vcSlV4wScpMJ1W6jPiLnJbfhQr
 - Mao: 教師 
 - 西風: 教師/研究員
 - kennyluck: 生醫工程師&諮詢(#health)
+- chewei
+- Luphia: 智能會計、持續審計、政府公債
 
 ## 成果分享
 - [參與問卷](https://docs.google.com/forms/d/e/1FAIpQLSeeNTROgokK0YQ86eg1XRZC3TCWTHRhRYxu4wAfzG8EjhVl7g/viewform)
+
+- [廢校預警與縣市教育預算監督](https://g0v.hackmd.io/@chewei/r1s72oq2kl)
+    - 感謝 yellowsoar 整理全國學校就學人口，並且有推估  民國 130 年的學校就學人數
+        - 113年 全國 50 人以下小學 482 所
+        - 130年 全國 50 人以下小學 694 所
+        - 130年 全國 50 人以下小學增加 212 所
+        - 130年 全國 50 人以下小學增長率 30.5%
+    - 感謝 Tmonk 找到 全國學校經緯度資料
+    - 感謝 Lafin 曾建立全國學校及就學人口地圖 (原民學生有就讀)
+    - 探討 南投縣 的教育預算
+        - 114年度南投縣地方教育發展基金預算編列注意事項
+
+
+- [預決算資料庫成果分享](https://docs.google.com/presentation/d/1-D5gl4LFG2A6zYvQfS2ObUnpk5YPoYj5JwAXsHrAv7I/edit#slide=id.g356b4685c76_9_0)
+    - Can probably make a bookmarklet for `*.moj.gov.tw` web sites
+
+- [地方預算資料整理成果](https://docs.google.com/presentation/d/1YTGn7QD7xxOTg7386G2uU5FX857lS0YvRHccYZnOSFI/edit#slide=id.g3507b758dce_4_0)
 
 # 共筆區
