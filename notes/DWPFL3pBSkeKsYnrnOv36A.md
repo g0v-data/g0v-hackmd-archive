@@ -46,7 +46,7 @@ https://g0vcongressthon.oen.tw/events/2vcSlV4wScpMJ1W6jPiLnJbfhQr
 - Sophia:自律聯盟
 - Jocelyn:教育者
 - Mao: 教師 
-- 西風: 教師/研究員
+- favonia: 研究員
 - kennyluck: 生醫工程師&諮詢(#health)
 - chewei
 - Luphia: 智能會計、持續審計、政府公債
