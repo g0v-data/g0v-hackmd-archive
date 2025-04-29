@@ -5,7 +5,7 @@ tags: food,
 # NPO Hub 附近的食物攻略！Foods Near NPO Hub
 
 提醒：留意週六日是否營業
-提醒：以下標注時間的來源為google map，有可能變動＆不準呦建議去之前可以打電話或fb ig（有的話）上問問
+提醒：以下標注時間的來源為 google map，有可能變動＆不準呦建議去之前可以打電話或fb ig（有的話）上問問
 
 ## 活動餐飲
 
@@ -32,6 +32,15 @@ tags: food,
 > 可以談包場，包場費用可以折抵餐飲飲料費
 > 揪松預計詢問，再回報詢價結果
 
+水果切盤與果汁
+- 水母鋪 https://maps.app.goo.gl/gApmRxLxmCyzmcbE9
+
+## 清晨早餐
+
+- 金華 47
+    - 早上 5:00 有開，室內空間算大，座位多
+    - 有賣 雞腿 
+    - https://maps.app.goo.gl/ndXx85KgGXR2KVM59
 
 ## 由 PM5 提供｜Provided by PM5 
 - [正宗建中黑砂糖刨冰｜Shaved Ice with Black Sugar](https://maps.app.goo.gl/zwgFAL5Vs3doHtHq5)
