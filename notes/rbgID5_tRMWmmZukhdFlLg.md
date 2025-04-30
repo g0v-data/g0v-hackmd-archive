@@ -31,6 +31,7 @@ g0v 社群小松歡迎借用](https://g0v.hackmd.io/@jothon/NPOHub-rules)
 - 目前伺服器部署在東京。
 
 ## 結構性討論問卷調查
+- https://hackmd.io/5_fsKa5KTJusyroKIYCi-w?both
 - [問卷](https://docs.google.com/forms/d/e/1FAIpQLSetWsVMRU5W3JEV4Vm2gZugrbCtOEeoTFqHf_bFWVa2VXSYKA/viewform?usp=header)
     - 邀請大家花個五分鐘填寫。Argdown 應該未來還是會找場合應用。
 ### 討論
