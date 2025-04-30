@@ -8,6 +8,9 @@ tags: vtaiwan
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
 
 ![](https://g0v.hackmd.io/_uploads/BkN9qNYJxg.png)
+![](https://g0v.hackmd.io/_uploads/rkZQDhkleg.jpg)
+![](https://g0v.hackmd.io/_uploads/Hyzmvn1egx.jpg)
+
 
 ## 場地介紹
 - [g0v 台北社群空間 _ 場地租借規則
