@@ -19,6 +19,8 @@ g0v 社群小松歡迎借用](https://g0v.hackmd.io/@jothon/NPOHub-rules)
 ### 自我介紹
 
 ## 5/23 議題小聚
+![](https://g0v.hackmd.io/_uploads/Bye14G5kxgl.png)
+- polis 連結 (見上圖)
 - [facebook貼文](https://www.facebook.com/vtaiwan.tw/posts/pfbid0Xua6ajGWgURbS3XGqU5vubpXwonnorrR3vCqsRiv2AAtu8DFYocb74q7wSkYFkTUl)
 - [報名表單](https://forms.gle/MLrDbFghTJuvLD4m7)
 - [polis 連結](https://polis.tw/87nnxrrj5d)
@@ -31,6 +33,8 @@ g0v 社群小松歡迎借用](https://g0v.hackmd.io/@jothon/NPOHub-rules)
 - 目前伺服器部署在東京。
 
 ## 結構性討論問卷調查
+![](https://g0v.hackmd.io/_uploads/B1LOG9Jxle.png)
+
 - https://hackmd.io/5_fsKa5KTJusyroKIYCi-w?both
 - [問卷](https://docs.google.com/forms/d/e/1FAIpQLSetWsVMRU5W3JEV4Vm2gZugrbCtOEeoTFqHf_bFWVa2VXSYKA/viewform?usp=header)
     - 邀請大家花個五分鐘填寫。Argdown 應該未來還是會找場合應用。
