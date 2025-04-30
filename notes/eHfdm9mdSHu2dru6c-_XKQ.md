@@ -30,6 +30,7 @@ Google Map：https://maps.app.goo.gl/PLV5pZPm6cWh597G8
 - 8 小時，資料標記
 - 8 小時，參加 5/25 週日 g0v 黑客松，提案爭取獎金
     - 獎金都算您的~
+        - 獎金機制說明 https://g0v.hackmd.io/@jothon/Generation_Zero_Vestment
     - 遠距者~ 記得錄影提案哦 !
     - 實體場次報名頁面：https://g0v-jothon.kktix.cc/events/g0v-hackath67n
     - 提案時段請盡快填寫卡位：https://g0v.hackmd.io/@jothon/g0v-hackath67n/https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1aHc6Z_SftHvruqJH1uFgFwl-La9vMBS0f8gbkPoZS5g%2Fedit%3Fusp%3Dsharing

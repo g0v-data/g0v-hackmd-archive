@@ -9,6 +9,10 @@ tags: vtaiwan
 
 ![](https://g0v.hackmd.io/_uploads/BkN9qNYJxg.png)
 
+## 場地介紹
+- [g0v 台北社群空間 _ 場地租借規則
+g0v 社群小松歡迎借用](https://g0v.hackmd.io/@jothon/NPOHub-rules)
+- [g0v 揪松團](https://jothon.g0v.tw/)
 
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
