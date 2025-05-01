@@ -7,6 +7,5 @@ tags: FtO, g0v-intl
 
 ## 籌備
 
-- [場地](https://docs.google.com/document/d/1s4sOfT8THP9AOs151ERuF7_-DEtRiXGnAXz4vOKNtSg/edit)[target=_blank]
-- [議程](https://docs.google.com/document/d/1bRdKJ9aKrt4pr5xhSYhPpsviJtYsxxYAxUKOMSbOlo8/edit)[target=_blank]
+- [籌備文件](https://docs.google.com/document/d/1s4sOfT8THP9AOs151ERuF7_-DEtRiXGnAXz4vOKNtSg/edit)[target=_blank]
 
