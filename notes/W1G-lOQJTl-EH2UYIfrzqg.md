@@ -17,6 +17,9 @@ WebGIS: https://rekichizu.jp/map/
 向量圖磚: https://mierune.github.io/rekichizu-data/tiles/v1/{z}/{x}/{y}.pbf
 圖磚樣式: https://mierune.github.io/rekichizu-style/styles/street/style.json
 
+ゆるへと - 全国日帰り温泉 。銭湯マップ
+https://yuru-to.net/
+
 ---
 
 ## topic
