@@ -17,9 +17,6 @@ tags: 公有地大行動, 可能的空間, edu
 - 教育部所制定的《公立國民小學及國民中學合併或停辦準則》
 - 2016年，台灣由於少子化和國人不喜歡在虎年生子，新生入學人數創下史上新低，17.5 萬。新聞來源：[http://www.appledaily.com.tw/realtimenews/article/new/20160609/882678/](http://www.appledaily.com.tw/realtimenews/article/new/20160609/882678/)
 - 還有許多學校全校少於50人。又例如：澎湖兩個國小，有一所只有一名新生，另一所掛零。相關新聞 [http://bit.ly/2bUflQ5](http://bit.ly/2bUflQ5)
-- 這些因少子化而廢校或需減班的學校有多少？分布在哪邊？這些廢校的空間有被再利用或有任何重生計畫嗎？另，哪些學校面臨迷你學校處境，可能得要進行混齡教學？他們需要什麼樣的資源？
-   - https://www.facebook.com/100001008624031/posts/5439279586115608/
-- 廢校活化後維護管理新聞 [http://www.appledaily.com.tw/appledaily/article/headline/20130909/35281753/](http://www.appledaily.com.tw/appledaily/article/headline/20130909/35281753/)
 - 少子化衝擊校園，廢校不是終結手段
     - https://www.facebook.com/gordan.hsieh/posts/pfbid035diUfnuxWvThgVUMCVyFKT82moDe4bZMYjr88P4LCzv13UbJ2AzmPRsKBQ1Kfx1Fl
 - 探討講座
@@ -60,6 +57,13 @@ tags: 公有地大行動, 可能的空間, edu
         - https://youtu.be/IbtgyTrgRyg
     - 已經停辦的學校清單在教育部統計處的學校名錄頁面裡面可以找到資料
         - https://depart.moe.edu.tw/ed4500/News.aspx?n=63F5AB3D02A8BBAC&sms=1FF9979D10DBF9F3
+        - 每年的「異動一覽表」
+        - 個別訊息
+            - [彰化縣大城鄉繼去年永光國小裁併後，建校62年的「頂庄國小」也將步入後塵](https://www.ettoday.net/amp/amp_news.php?news_id=1892059&from=fb_et_news)
+            - 台中市東勢實驗高中舊校區
+                - https://www.facebook.com/groups/368972756282/permalink/10157185998211283/
+            - 摘：曾經有2000多人的林業村，村內的「森榮國小」曾有400多位學生，全臺數一數二的林業聚落「林田山」
+                - https://www.facebook.com/share/p/1CEMvSdJvm/
     - 廢校等待活化
         - 全國待活化閒置校舍
             - http://ssdelt.nhps.tp.edu.tw/index.php?action=activation_data_n
@@ -67,13 +71,8 @@ tags: 公有地大行動, 可能的空間, edu
             - http://ssdelt.nhps.tp.edu.tw/
         - 20230922 有民眾在資料開放平台詢問「全台廢棄國小數據」
             - https://data.gov.tw/suggests/136754
-        - 高級中等以下學校校舍資訊網(https://sbiw.k12ea.gov.tw/)網頁，提供待活化校舍空間之資料
-    - 個別訊息
-        - [彰化縣大城鄉繼去年永光國小裁併後，建校62年的「頂庄國小」也將步入後塵](https://www.ettoday.net/amp/amp_news.php?news_id=1892059&from=fb_et_news)
-        - 台中市東勢實驗高中舊校區
-            - https://www.facebook.com/groups/368972756282/permalink/10157185998211283/
-        - 摘：曾經有2000多人的林業村，村內的「森榮國小」曾有400多位學生，全臺數一數二的林業聚落「林田山」
-            - https://www.facebook.com/share/p/1CEMvSdJvm/
+        - 高級中等以下學校校舍資訊網，提供待活化校舍空間之資料
+            - https://sbiw.k12ea.gov.tw/
     - 校園餘裕空間
         - http://ssdelt.nhps.tp.edu.tw/index.php?action=link
             - 臺北市的餘裕教室資訊查詢
@@ -86,47 +85,43 @@ tags: 公有地大行動, 可能的空間, edu
             - 臺東縣校園空餘教室活化資源入口網 (資料建置中)
             - 澎湖縣所轄學校剩餘教室查詢
 
-- 已活化：廢校重生計畫或提案現況清點
-    - 教育部國民中小學 整併後校園空間 活化再生案例
-        - http://ssdelt.nhps.tp.edu.tw/
-        - 教育部廢校活化網站 撤站之前的樣貌 https://web.archive.org/web/20221206201303/http://ssdelt.nhps.tp.edu.tw/
-    - 新北市 https://www.facebook.com/share/v/TqRJYHufhj6Heeii/
-    - 新北市貢寮區吉林國小 https://wabay.tw/projects/kongaliao
-    - 台北市潭美國小舊址，東區社福園區
-        - https://www.facebook.com/NVCSeniorServicesCenter
-    - 基隆太平國小 
-        - https://www.facebook.com/613698249/posts/10158945292883250/
-    - 基隆社區大學
-        - https://www.facebook.com/624464343/posts/10159235407014344/
-    - 親子共學協會承租泰平國小
-        - [http://udn.com/news/story/7323/1942046](http://udn.com/news/story/7323/1942046)
-    - 生態豐富、景色宜人的兩湖荒地生態園地，是由合家歡協會提供，結合金山區三和國小兩湖分校舊址經營，並以此為基地的生態教育園區。
-        - https://www.tmitrail.org.tw/blog/1221
-    - 台灣農民組合協會進駐猴硐國小舊校區是依「新北市校園場地開放使用辦法」進駐成立「猴硐生態教育園區」
-        - [http://www.248.com.tw/?p=8845#more-8845](http://www.248.com.tw/?p=8845#more-8845)
-    - 新竹縣橫山鄉https://www.facebook.com/665294629/posts/pfbid0APPwSQdzYujh5dKar7zhrrpF7J5f8WfQyTcRQUzssxgxFXEgLZ8vheue5SYu9FMUl/
-    - https://www.sinopacfoundation.org.tw/sinopac_found/shop/2?fbclid=IwAR02grBknxnyzI6VYHikCnds9KBd2pVdYvGChxXI0PcEB0Vck0huB3DgSs8_aem_AQolVPFHAwJ8kHyxH7epism3W0XtnrX5bs4K28QNJRzEL0gBcebMcMjViPOiR4ZOEw0_dLH6YIL6iVLqNUIfgRfH
-    - 山貓森林，北河園區位於 1944 年設置的南河小學北河分校附近
-        - http://caretaichung.blogspot.com/2019/09/20190911.html
-    - 台東縣長濱鄉，廢校改建成的日照中心，亦是首座依循失智症需求而造的建築典範。建築設計處處為失智者著想，除了營造一個家的環境，從徘迴行為的園藝迴路空間設計、阿美族文化技藝學習、時序認知訓練、健康促進體適能訓練、走入式浴缸沐浴，還有貼心的狗醫生專區，都為讓長者能延緩老化。
-        - [https://donations.eden.org.tw/detail.php?detailId=JCUxODYjIQ==](https://donations.eden.org.tw/detail.php?detailId=JCUxODYjIQ==)
-    - 高雄市中心的大同國小，隔著操場，前方是國小師生上課的教室，而後方，同樣是教室的外觀下，已成為大同醫院社區健康發展中心所設置的日照中心──大同福樂學堂。
-        - [http://npost.tw/archives/41304](http://npost.tw/archives/41304)
-    - 多良
-        - https://www.facebook.com/559826236/posts/10157306282041237/?extid=in2qdxmdRFhCGzot&d=n
-    - 彰化縣芳苑
-        - https://www.facebook.com/1698290180442110/posts/2707291466208638/
-    - 嘉義
-        - https://news.ltn.com.tw/news/life/breakingnews/3944541
-    - 嘉義縣布袋鎮
-        - 阿公阿嬤們回到小時候的學校，重新當起同學，一起做早操、吃營養午餐，畫面真是太動人了！這裡是嘉義布袋菜舖社區的正義國小，已經廢校30年，學校本來變成治安死角還謠傳鬧鬼，經過社區十幾年來同心協力，終於收復了「失土」，重建為結合高齡長照和食農教育的園地！
-        - https://www.newsmarket.com.tw/blog/170967/
-    - 臺南白河區崎內國小，書法
-        - https://www.facebook.com/story.php?story_fbid=pfbid0qFSpfc1DkFTZJahA9KutRjt1Vq5wGnikrd6dN1Qu6D7CKdt37zEdnjtrfp4W5M5Dl&id=100064568987187&mibextid=qC1gEa
-    - 屏東南華校園
-        - https://www.shoppingdesign.com.tw/post/view/7602
-    - 臺東，廢校區，森林足球場
-        - https://www.zeczec.com/projects/forest-football-field
+## 已活化
+
+- [網站撤除了] 教育部國民中小學 整併後校園空間 活化再生案例
+    - http://ssdelt.nhps.tp.edu.tw/
+    - 教育部廢校活化網站 撤站之前的樣貌 https://web.archive.org/web/20221206201303/http://ssdelt.nhps.tp.edu.tw/
+- 非地點的素材，整理至以下文件
+    - 網址：https://docs.google.com/spreadsheets/d/16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik/edit?fbclid=IwY2xjawKCEVBleHRuA2FlbQIxMABicmlkETFEWWhaQ0M2VW5DUkdhZjN3AR61ta85rkiOPp5GZByyLi_7zOqbM1RKyxv6BLcfwtvPIaLXbhzC6MPvfIMeYw_aem_9PCnuLIRe6AtSnXzqYvDPw&gid=410399976#gid=410399976
+    - 素材類型：
+        - 找廢校校地的單位
+        - 修善校舍的企業公益計畫
+        - 個別學校的關係人口
+
+具體活化地點案例，標記到地圖上
+- 地圖彙整類型
+    - 第一種：廢校重生計畫或提案現況清點
+    - 第二種：部分校舍釋出給其他單位進駐使用
+- 新北市 https://www.facebook.com/share/v/TqRJYHufhj6Heeii/
+- 基隆太平國小 
+    - https://www.facebook.com/613698249/posts/10158945292883250/
+- 基隆社區大學
+    - https://www.facebook.com/624464343/posts/10159235407014344/
+- 親子共學協會承租泰平國小
+    - [http://udn.com/news/story/7323/1942046](http://udn.com/news/story/7323/1942046)
+- 生態豐富、景色宜人的兩湖荒地生態園地，是由合家歡協會提供，結合金山區三和國小兩湖分校舊址經營，並以此為基地的生態教育園區。
+    - https://www.tmitrail.org.tw/blog/1221
+- 台灣農民組合協會進駐猴硐國小舊校區是依「新北市校園場地開放使用辦法」進駐成立「猴硐生態教育園區」
+    - [http://www.248.com.tw/?p=8845#more-8845](http://www.248.com.tw/?p=8845#more-8845)
+- 新竹縣橫山鄉 
+    - https://www.facebook.com/665294629/posts/pfbid0APPwSQdzYujh5dKar7zhrrpF7J5f8WfQyTcRQUzssxgxFXEgLZ8vheue5SYu9FMUl/
+- 山貓森林，北河園區位於 1944 年設置的南河小學北河分校附近
+    - http://caretaichung.blogspot.com/2019/09/20190911.html
+- 台東縣長濱鄉，廢校改建成的日照中心，亦是首座依循失智症需求而造的建築典範。建築設計處處為失智者著想，除了營造一個家的環境，從徘迴行為的園藝迴路空間設計、阿美族文化技藝學習、時序認知訓練、健康促進體適能訓練、走入式浴缸沐浴，還有貼心的狗醫生專區，都為讓長者能延緩老化。
+    - [https://donations.eden.org.tw/detail.php?detailId=JCUxODYjIQ==](https://donations.eden.org.tw/detail.php?detailId=JCUxODYjIQ==)
+- 高雄市中心的大同國小，隔著操場，前方是國小師生上課的教室，而後方，同樣是教室的外觀下，已成為大同醫院社區健康發展中心所設置的日照中心──大同福樂學堂。
+    - [http://npost.tw/archives/41304](http://npost.tw/archives/41304)
+- 屏東南華校園
+    - https://www.shoppingdesign.com.tw/post/view/7602
 
 
 
