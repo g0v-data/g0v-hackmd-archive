@@ -151,6 +151,9 @@ tags: Rentea
 
 ![](https://g0v.hackmd.io/_uploads/BkRGT0-gxe.jpg)
 
+:::info
+[房間環景照連結](https://photos.app.goo.gl/7VwaQHABfSd69j4r8)
+:::
 
 1. 地下室與頂樓皆被一樓和最高樓鄰居完全佔用
 1. 有一面有裂縫的牆（廚房跟浴室之間），後續處理？

@@ -129,7 +129,122 @@ age tinyint
 
 ![](https://g0v.hackmd.io/_uploads/By09E1felg.png)
 
-5/1
+---
 
+
+## 5/1 表之間的關係(一對一、一對多、多對多)
+
+### 如果移除外鍵約束是否會造成兩張表的查詢差異?為什麼?
+
+不會，外鍵的約束只是為了保留資料的完整性而已
+
+### 如果沒有外鍵的約束會怎麼樣?
+
+他會讓我刪任何我想刪的資料，即使其他資料表中仍有依賴它的資料
+
+然後那個資料會變**孤兒資料**
+
+> `CREATE TABLE customer (
+id INT PRIMARY KEY auto_increment,
+name VARCHAR(20),
+phone char(10) not null
+);`
 > 
+
+> `CREATE TABLE student (
+id INT PRIMARY KEY auto_increment,
+class_name VARCHAR(20) not null,
+customer_id int unique,
+foreign key(customer_id) references customer(id)
+on delete cascade
+on update cascade
+);`
+> 
+![](https://g0v.hackmd.io/_uploads/SJ_YObGxge.png)
+
+> `show tables;`
+> 
+
+![](https://g0v.hackmd.io/_uploads/SJr9dbzexx.png)
+
+
+> - 插入 customer 表的四筆資料
+`INSERT INTO customer (name, phone) VALUES
+('張小明', '0912345678'),
+('李小華', '0923456789'),
+('王大雄', '0934567890'),
+('林美玲', '0945678901');`
+> 
+
+> - 插入 student 表的四筆資料
+`INSERT INTO student (class_name, customer_id) VALUES
+('資訊工程系', 1),
+('電機工程系', 2),
+('企業管理系', 3),
+('外國語文系', 4);`
+> 
+
+![](https://g0v.hackmd.io/_uploads/rklksd-fgee.png)
+
+
+> select * from customer;
 >
+ 
+
+> select * from student;
+> 
+![](https://g0v.hackmd.io/_uploads/B1FodZfegx.png)
+
+
+
+> select a.name, a.phone, b.class_name from customer a, student b where a.id=b.customer_id;
+> 
+
+![](https://g0v.hackmd.io/_uploads/Skegh_WMele.png)
+
+
+> `CREATE TABLE Publishers (
+publisher_id INT PRIMARY KEY,
+publisher_name VARCHAR(100)
+);`
+> 
+
+> `CREATE TABLE Books (
+book_id INT PRIMARY KEY,
+publisher_id INT,
+FOREIGN KEY (publisher_id) REFERENCES Publishers(publisher_id)
+on delete cascade
+on update cascade
+);`
+> 
+
+![image.png](attachment:578bf132-b330-4e76-a84a-93020bffa70b:c89ca6d2-f499-4177-b8a8-8e30bb3542c6.png)
+
+> - 插入 Publishers 表的兩筆資料
+`INSERT INTO Publishers (publisher_id, publisher_name) VALUES
+(1, '天下文化'),
+(2, '遠流出版');`
+> 
+
+> - 插入 Books 表的四筆資料
+`INSERT INTO Books (book_id, publisher_id) VALUES
+(101, 1),
+(102, 1),
+(103, 2),
+(104, 2);`
+> 
+
+![image.png](attachment:fef912bc-fb84-43ea-bf08-2345b722b9d3:7fb869fb-deb4-4226-b53f-d44b1085624e.png)
+
+
+    
+> `CREATE TABLE author (
+    id INT PRIMARY KEY auto_increment,
+    name VARCHAR(20)
+    );`
+    
+    
+> `CREATE TABLE book (
+    id INT PRIMARY KEY auto_increment,
+    name VARCHAR(20)
+    );`
