@@ -189,7 +189,10 @@ on update cascade
 
 > select * from customer;
 >
- 
+![](https://g0v.hackmd.io/_uploads/Bytx5Wzlel.png)
+
+
+
 
 > select * from student;
 > 
@@ -218,7 +221,7 @@ on update cascade
 );`
 > 
 
-![image.png](attachment:578bf132-b330-4e76-a84a-93020bffa70b:c89ca6d2-f499-4177-b8a8-8e30bb3542c6.png)
+![](https://g0v.hackmd.io/_uploads/B1gxb5Zzgxl.png)
 
 > - 插入 Publishers 表的兩筆資料
 `INSERT INTO Publishers (publisher_id, publisher_name) VALUES
