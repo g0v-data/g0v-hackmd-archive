@@ -117,9 +117,10 @@ Connect 累積行動團體網絡名單
 盤點廢校議題相關法規
 - 小學、中學廢校的母法
     - 全國法規資料庫：公立國民小學及國民中學變更或停辦準則
-        https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0070070
+        - https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0070070
     - 教育部主管法規查詢系統：公立國民小學及國民中學變更或停辦準則
-        https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001597
+        - https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001597
+        - 
 - 各縣市政府教育部門依據母法所制定的作業辦法/施行細則
 - 偏遠地區學校教育發展條例 https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001698
 - 原住民族教育法
