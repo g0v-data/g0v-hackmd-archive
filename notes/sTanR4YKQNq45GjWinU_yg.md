@@ -101,7 +101,6 @@ tags: 公有地大行動, 可能的空間, edu
 - 地圖彙整類型
     - 第一種：廢校重生計畫或提案現況清點
     - 第二種：部分校舍釋出給其他單位進駐使用
-- 新北市 https://www.facebook.com/share/v/TqRJYHufhj6Heeii/
 - 基隆太平國小 
     - https://www.facebook.com/613698249/posts/10158945292883250/
 - 基隆社區大學
@@ -114,14 +113,24 @@ tags: 公有地大行動, 可能的空間, edu
     - [http://www.248.com.tw/?p=8845#more-8845](http://www.248.com.tw/?p=8845#more-8845)
 - 新竹縣橫山鄉 
     - https://www.facebook.com/665294629/posts/pfbid0APPwSQdzYujh5dKar7zhrrpF7J5f8WfQyTcRQUzssxgxFXEgLZ8vheue5SYu9FMUl/
-- 山貓森林，北河園區位於 1944 年設置的南河小學北河分校附近
-    - http://caretaichung.blogspot.com/2019/09/20190911.html
 - 台東縣長濱鄉，廢校改建成的日照中心，亦是首座依循失智症需求而造的建築典範。建築設計處處為失智者著想，除了營造一個家的環境，從徘迴行為的園藝迴路空間設計、阿美族文化技藝學習、時序認知訓練、健康促進體適能訓練、走入式浴缸沐浴，還有貼心的狗醫生專區，都為讓長者能延緩老化。
     - [https://donations.eden.org.tw/detail.php?detailId=JCUxODYjIQ==](https://donations.eden.org.tw/detail.php?detailId=JCUxODYjIQ==)
 - 高雄市中心的大同國小，隔著操場，前方是國小師生上課的教室，而後方，同樣是教室的外觀下，已成為大同醫院社區健康發展中心所設置的日照中心──大同福樂學堂。
     - [http://npost.tw/archives/41304](http://npost.tw/archives/41304)
-- 屏東南華校園
-    - https://www.shoppingdesign.com.tw/post/view/7602
+
+## 校地活用的資料格式
+- 類型
+    - 全部校地活用
+        - 廢校後的校地
+            - 分班廢除
+            - 分校廢除
+        - 遷校後的校地
+    - 部分校地活用
+- 活用時間
+- 活化之後的使用
+    - 例如 無人機考場、、、等
+        - 選項化？
+        - 營業種類選單？
 
 
 
