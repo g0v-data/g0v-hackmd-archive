@@ -46,7 +46,7 @@ http://dev.cofacts.tw/
 ### [Op] Automatic takedown
 
 - 調整 CCPRIP 自動下架功能過濾邏輯
-- Code review [name=mrorz] (takedowns PR #203)
+- Code review [name=mrorz] (takedowns PR #203) -- Done
 
 ## Downtime
 
@@ -55,4 +55,8 @@ http://dev.cofacts.tw/
 
 ## Langfuse Clickhouse follow-up
 
-- Upgrade Clickhouse to 25.3 LTS
+Upgrade Clickhouse to 25.3 LTS
+- 從 25.1 升級到了 25.3
+- ttl config `finish_time_us + toRelativeSecondNum(1 * 3600)` 仍會造成此 error
+    > Illegal type UInt32 of argument of function toRelativeSecondNum. Should be Date, Date32, DateTime or DateTime64: While processing finish_time_us + toRelativeSecondNum(1 * 3600). (ILLEGAL_TYPE_OF_ARGUMENT)
+- ttl 修正為 `finish_date + INTERVAL 1 DAY DELETE` --> 沒問題
