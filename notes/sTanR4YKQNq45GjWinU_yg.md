@@ -85,11 +85,8 @@ tags: 公有地大行動, 可能的空間, edu
             - 臺東縣校園空餘教室活化資源入口網 (資料建置中)
             - 澎湖縣所轄學校剩餘教室查詢
 
-## 已活化
+## 個案待標記到 Google My Map 
 
-- [網站撤除了] 教育部國民中小學 整併後校園空間 活化再生案例
-    - http://ssdelt.nhps.tp.edu.tw/
-    - 教育部廢校活化網站 撤站之前的樣貌 https://web.archive.org/web/20221206201303/http://ssdelt.nhps.tp.edu.tw/
 - 非地點的素材，整理至以下文件
     - 網址：https://docs.google.com/spreadsheets/d/16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik/edit?fbclid=IwY2xjawKCEVBleHRuA2FlbQIxMABicmlkETFEWWhaQ0M2VW5DUkdhZjN3AR61ta85rkiOPp5GZByyLi_7zOqbM1RKyxv6BLcfwtvPIaLXbhzC6MPvfIMeYw_aem_9PCnuLIRe6AtSnXzqYvDPw&gid=410399976#gid=410399976
     - 素材類型：
@@ -98,11 +95,13 @@ tags: 公有地大行動, 可能的空間, edu
         - 個別學校的關係人口
 
 具體活化地點案例，標記到地圖上
+- https://maps.app.goo.gl/zrZRjUGzmKQhwhee7
 - 地圖彙整類型
     - 第一種：廢校重生計畫或提案現況清點
     - 第二種：部分校舍釋出給其他單位進駐使用
 - 基隆太平國小 
     - https://www.facebook.com/613698249/posts/10158945292883250/
+    - https://www.facebook.com/KLTPPS/
 - 基隆社區大學
     - https://www.facebook.com/624464343/posts/10159235407014344/
 - 親子共學協會承租泰平國小
@@ -117,6 +116,14 @@ tags: 公有地大行動, 可能的空間, edu
     - [https://donations.eden.org.tw/detail.php?detailId=JCUxODYjIQ==](https://donations.eden.org.tw/detail.php?detailId=JCUxODYjIQ==)
 - 高雄市中心的大同國小，隔著操場，前方是國小師生上課的教室，而後方，同樣是教室的外觀下，已成為大同醫院社區健康發展中心所設置的日照中心──大同福樂學堂。
     - [http://npost.tw/archives/41304](http://npost.tw/archives/41304)
+- 廢校後，校友發起紀念活動與出版 https://www.facebook.com/story.php?story_fbid=pfbid02t96P7bFjC1ERsMn84fZC2Jw52VdxRYr3qqtRz71RorPZrEJZE9NXu7oniHnJ9hFUl&id=1374796109&mibextid=qC1gEa
+- 屏東縣車城國小保力分校廢校後，縣府擬規劃做為住宿式長照機構 https://www.facebook.com/groups/1524648621188142/permalink/2818643638455294/
+- 生態教室這棟建築最早是由當地耆老與民眾集資興建，做為社區活動中心，因設雙連埤分校而交給縣府使用，少子化之後廢校，縣府多年來出租給荒野保護協會當生態教室
+https://www.facebook.com/100000363068857/posts/3983742031647860/
+- 高雄市七賢國中舊校地 https://www.facebook.com/story.php?story_fbid=pfbid0CBGbGpHKmkUeuekD5aHhM2FUnw3Ea13ogocjSrhUZZJD4F4mChbkMxVvcV2o2SExl&id=100001911006611&mibextid=tejx2t
+https://eyesonplace.net/2023/02/17/22485/
+- 東勢高工舊校區 https://www.facebook.com/wanyu.claire/photos/a.103179557816265/330941175040101/
+
 
 ## 校地活用的資料格式
 - 類型
@@ -132,31 +139,20 @@ tags: 公有地大行動, 可能的空間, edu
         - 選項化？
         - 營業種類選單？
 
-
-
-## 資料展示應用
-- 資訊圖表
-- 透過校舍地址，建立線上地圖，活化行政機制連結網頁
-
-## 其他
-
-- 日本廢校活化議題
-    - https://www.gov-online.go.jp/cam/haikou/list/
-    - https://digg.com/video/this-guy-lives-inside-an-abandoned-school-in-japan
+## 校園空間政策
+- [網站撤除了] 教育部國民中小學 整併後校園空間 活化再生案例
+    - http://ssdelt.nhps.tp.edu.tw/
+    - 教育部廢校活化網站 撤站之前的樣貌 https://web.archive.org/web/20221206201303/http://ssdelt.nhps.tp.edu.tw/
 - 校園美感設計實踐計畫
     - https://www.facebook.com/design.movement.on.campus/posts/741112403049962
 - 校園開放露營政策
     - https://today.line.me/tw/v2/article/WpLeZL
 - 校舍常用的樓層呈現圖格式
     - https://g0v.hackmd.io/4_ycufouSMGkWx1EbyIrhw
-
-# 待整理
+- 防災避難據點
 
 236所廢校轉型案例（如何盤出所有學校）
 https://www.ettoday.net/news/20180115/1092942.htm
-
-廢校後，校友發起紀念活動與出版
-https://www.facebook.com/story.php?story_fbid=pfbid02t96P7bFjC1ERsMn84fZC2Jw52VdxRYr3qqtRz71RorPZrEJZE9NXu7oniHnJ9hFUl&id=1374796109&mibextid=qC1gEa
 
 探討
 https://www.facebook.com/story.php?story_fbid=pfbid01NtPwGhoMnLr1BZT3UgaDWJUudaUYsrz2e74KepTyqqVaeEV1CxjMYfMq3EbdLRWl&id=100000169153701&mibextid=qC1gEa
@@ -167,24 +163,22 @@ https://formosarace.blogspot.com/2017/03/06.html
 活化閒置校舍作為高齡長照據點之研究
 https://ws.moi.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvT2xkRmlsZV9BYnJpX0dvdi9yZXNlYXJjaC8yNzgyLzE1NTU2NjQ5MjV4YTk3YTkucGRm&n=5rS75YyW6ZaS572u5qCh6IiN5L2c54K66auY6b2h6ZW354Wn5pOa6bue5LmL56CU56m2LnBkZg%3D%3D
 
-屏東縣車城國小保力分校廢校後，縣府擬規劃做為住宿式長照機構
-https://www.facebook.com/groups/1524648621188142/permalink/2818643638455294/
-
-生態教室這棟建築最早是由當地耆老與民眾集資興建，做為社區活動中心，因設雙連埤分校而交給縣府使用，少子化之後廢校，縣府多年來出租給荒野保護協會當生態教室
-https://www.facebook.com/100000363068857/posts/3983742031647860/
-
-基隆市 太平國小
-https://www.facebook.com/KLTPPS/
-
-東勢高工舊校區
-https://www.facebook.com/wanyu.claire/photos/a.103179557816265/330941175040101/
-
-發想：如果把每一年的全國學校進行比對，是否可得到類似於廢校的名單？以下是詢問 全國的學校分布位置資料 🏫 有進行一些蒐集與筆記，預計會在政府資料平台上詢問教育部統計處，能否常態釋出，因為 2021 年度，有網友曾詢問並成功取得單一年度資料且有 XY 座標，不過該資料並不是放在資料開放平台上，而是另一個不太知道在哪裡的網路空間
-https://g0v.hackmd.io/kb9Sn5u0TZuvWwFbfgt3Hg?view
-
 日照中心用地來源很多，設在私人土地、社福大樓、社會住宅裡面是大宗，目前僅1處已開設在學校（有照顧服務科的開南高中），另有3處規劃設在校園，包含已廢校的譚美國小與忠義國小，以及近來引發爭議、仍在使用中的芝山國小。
 https://m.facebook.com/story.php?story_fbid=pfbid0V4uuBW7UVrewGAxf2GB6NCFQ1RCAwkYdQ1i1RUA5JDVFBfdGTEzziiw8zmeSCohul&id=1646675415580324
 
-高雄市七賢國中舊校地
-https://www.facebook.com/story.php?story_fbid=pfbid0CBGbGpHKmkUeuekD5aHhM2FUnw3Ea13ogocjSrhUZZJD4F4mChbkMxVvcV2o2SExl&id=100001911006611&mibextid=tejx2t
-https://eyesonplace.net/2023/02/17/22485/
+## 資料展示應用
+- 資訊圖表
+- 透過校舍地址，建立線上地圖，活化行政機制連結網頁
+
+## 日本 公立学校の施設整備 
+- https://www.mext.go.jp/a_menu/shotou/zyosei/main11_a2.htm
+- 日本廢校活化議題
+    - https://www.gov-online.go.jp/cam/haikou/list/
+    - https://digg.com/video/this-guy-lives-inside-an-abandoned-school-in-japan
+
+
+
+
+
+
+
