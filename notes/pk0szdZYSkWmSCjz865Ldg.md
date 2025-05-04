@@ -71,8 +71,14 @@ urlscan.io integration
   - result 與截圖 API: 輸入 scan id 回傳 scan 資料
     - 範例網頁 https://urlscan.io/result/01969aae-df49-7768-b5f4-df2120f1e861/
     - 範例 API https://urlscan.io/api/v1/result/01969aae-df49-7768-b5f4-df2120f1e861/
-    - 可用資料：
-      - 
+    - 可用欄位：https://urlscan.io/docs/result/
+        - `page.ip`
+        - `page.title`
+        - `page.asn`
+        - `task.reportURL`
+        - `task.screenshotURL` --> 存到 cloudflare？
+        - `task.domURL` --> 可以載下來自己比對
+    - 但 similarity search 要 USD$1000/mo ![](https://g0v.hackmd.io/_uploads/r1lMlrzBell.png)
   - 搜尋：輸入 url 與其他東西，回傳搜尋結果
     - [可搜尋欄位](https://urlscan.io/docs/search/) 包含 URL 與 title
 
