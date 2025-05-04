@@ -18,6 +18,9 @@ https://hao.cnyes.com/post/44587
 20241123 當前中國的經濟困境與美中博弈講座
 https://youtu.be/m5rI6Qz4ODc
 
+許成鋼觀點
+https://g0v.hackmd.io/JlbeYf3QRI2pY02gOwIpkA?view
+
 ## Economic Impact of Engagement with Taiwan and China
 
 https://www.engagingtaiwan.ea.sinica.edu.tw/
