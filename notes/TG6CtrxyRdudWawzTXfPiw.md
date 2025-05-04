@@ -14,6 +14,14 @@ https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
 GitHub / Dataset 資料集
 https://github.com/g0v/small_school_renaissance
 
+地圖
+- 民國 130 年就學人口統計推估地圖 https://g0v.github.io/small_school_renaissance/
+- 個案探討地圖 https://maps.app.goo.gl/zrZRjUGzmKQhwhee7
+
+![](https://g0v.hackmd.io/_uploads/rJfCS-OVlxx.jpg)
+![](https://g0v.hackmd.io/_uploads/SyW0rbuVelx.jpg)
+
+
 討論請至：
 - g0v Slack 頻道 #edu-school-學校存續議題
 - FB 社團: 零時小學校 Sch001 學習中心 https://www.facebook.com/groups/240879797438433
