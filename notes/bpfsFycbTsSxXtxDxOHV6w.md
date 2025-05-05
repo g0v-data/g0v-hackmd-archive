@@ -1,7 +1,9 @@
-Hunan Zhengdi Biological Resources Development Co., Ltd.
+https://www.shkypumps.com/
 
-https://www.zdbiological.com/
-+86 731-89671600
-lilly.wang@zdbiological.com
-Lugu International Industrial Park, 229 Tongzipo West Road, Yuelu District, Changsha, Hunan, China 410205
+E-mail: annacho@kaiyuanpumps.com
 
+Moblie: +8617717593520
+
+WeChat / WhatsApp: +8613818435525
+
+Add: No.9699 Puwei Hwy, Fengxian District, Shanghai, 201417, China.

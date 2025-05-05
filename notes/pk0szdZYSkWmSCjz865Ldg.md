@@ -19,27 +19,13 @@ GA: UA-98468513-3
 
 #### :globe_with_meridians: Site
 
+- https://github.com/cofacts/rumors-site/releases/tag/release/20250429 Badge
+
 #### :robot_face: rumors-line-bot
 
 ### :rocket: Staging
 
-#### :globe_with_meridians: Site
-
-##### Testing checklist
-http://dev.cofacts.tw/
-
-**未登入**下檢測：
-
-- [ ] Replies list
-  - [ ] Nothing breaks
-
-##### ⛔️ Release Blockers
-
-##### 未竟項目
-
-- 行動版 Replies list 頭像右側空間過大 ([issue #603](https://github.com/cofacts/rumors-site/issues/603))
-
-### :eye: Under review
+- https://github.com/cofacts/takedowns/pull/203
 
 ## CCPRIP
 
@@ -102,3 +88,6 @@ Detail 頁面：
 首頁：
 最新 name 列表、url 列表、urlscan 結果
 
+
+## 大松
+- 5/25 (日) https://g0v-jothon.kktix.cc/events/g0v-hackath67n
