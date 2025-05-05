@@ -41,14 +41,22 @@ tags: cofacts, 詐騙, 165, open data, SEO
 
 Host detail 「OO 是詐騙嗎」tab 中可以放：
 - 165 公告列表（點擊名字可以連到 name detail），蓋棺論定是詐騙
+  - 「內政部警政署曾公告過 N 次，說 xxx.com 是詐騙：」
+  - 網站名稱、相關截圖、相關公告
 - WHOIS record - 分析網域多新
-- 列出類似網域
+- urlscan 上相同 IP 的網站有哪些：標題、URL、截圖、是否有 165 公告
+- 進行 or 重做 urlscan 分析
+- 類似網域 -「內政部警政署已公告過下面這些詐騙網站」
   - fake.idv, fake.xyz, fa0ke 算是「相似」
+  - show urlscan 截圖、日期、網域
 
 name detail 「OO 是詐騙嗎」tab 中可以放：
 - 165 網域與公告次數（點擊網域可以連到 host detail）
-- 列出類似名字
+- urlscan 上相同名字的網站有哪些：URL、截圖、是否有 165 公告
+- 進行 or 重做 urlscan 分析
+- 列出類似名字 - 「內政部警政署已公告過下面這些詐騙網站」
   - 「富達」、「富達投資」算是相似
+  - show urlscan 截圖、日期、名稱
 
 找不到的 case（網址、名稱）時，「OO 是詐騙嗎」tab 中可以放：
 > 找不到的 case 仍須顯示以下，方便 Fact checker 引用
@@ -82,6 +90,7 @@ Already implemented in https://github.com/cofacts/open165/pull/9
   - Edgesearch https://github.com/wilsonzlin/edgesearch
   - Comparisons: https://prabhatsharma.in/blog/in-search-of-a-search-engine-beyond-elasticsearch-introducing-zinc/
 
+
 #### 網站內文
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e30bee122297094e19936f5953486131.png)
@@ -100,12 +109,17 @@ Already implemented in https://github.com/cofacts/open165/pull/9
     - 可能需要 crowd source
 - WHOIS / OSINT recon solutions
   - [whoiser](https://github.com/LayeredStudio/whoiser) 與[似乎能在 Cloudflare Worker 上跑的 hack](https://www.pudn.com/Download/item/id/1699851202973721.html)
+    - 現在似乎可以直上 worker？
   - 只用 Cloudflare worker 支援的東西跑 whois https://github.com/abersheeran/http-whois/
   - FinalRecon's [whois command](https://github.com/thewhiteh4t/FinalRecon/blob/master/modules/whois.py#L39-L58)
 - 可疑網站資料爬取
     - 資料來源：[數位發展部數位產業署聲請詐騙網域名稱停止解析網址清單](https://data.gov.tw/dataset/165027)
     - Cloudflare worker 應該還是能爬得到內容，存檔下來有助於偵測新網站
     - 先用現有資料判斷詐團是否會重複利用同一個網站
+- urlscan：見 [2025/05/05 分析](https://g0v.hackmd.io/pk0szdZYSkWmSCjz865Ldg?view#Open165)，可提供
+  - 截圖
+  - DOM snapshot
+  - 查詢同 IP 的其他網頁
 
 ### 其他內容
 
