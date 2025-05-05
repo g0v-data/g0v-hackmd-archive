@@ -8,8 +8,8 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- NPO Hub:
-- 線上出席：
+- NPO Hub: bil, mrorz, nonumpa
+- 線上出席：Tim
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -38,6 +38,7 @@ GA: UA-98468513-3
 
 - Downtime 是否與 elasticsearch 太舊有關，並檢查 DB log 輸出。
 - 處理 2025/4/25 攻擊事件中的台灣 IP：加進黑名單、分析 pattern 看為啥會漏掉
+  - cofacts website 效率不高，每次 pageview 會有複數個 API call 導致看起來很多 request [name=mrorz]
 
 ## Langfuse Clickhouse follow-up
 
@@ -46,6 +47,33 @@ Upgrade Clickhouse to 25.3 LTS
 - ttl config `finish_time_us + toRelativeSecondNum(1 * 3600)` 仍會造成此 error
     > Illegal type UInt32 of argument of function toRelativeSecondNum. Should be Date, Date32, DateTime or DateTime64: While processing finish_time_us + toRelativeSecondNum(1 * 3600). (ILLEGAL_TYPE_OF_ARGUMENT)
 - ttl 修正為 `finish_date + INTERVAL 1 DAY DELETE` --> 沒問題
+
+clickhouse index 大小穩定
+```
+    ┌─database─┬─table────────────────────┬─total_size─┐
+ 1. │ default  │ observations             │ 14.87 MiB  │
+ 2. │ default  │ traces                   │ 10.58 MiB  │
+ 3. │ default  │ event_log                │ 6.43 MiB   │
+ 4. │ default  │ scores                   │ 521.96 KiB │
+ 5. │ system   │ opentelemetry_span_log   │ 317.54 KiB │
+ 6. │ system   │ query_metric_log         │ 137.81 KiB │
+ 7. │ system   │ query_log                │ 52.39 KiB  │
+ 8. │ system   │ processors_profile_log   │ 29.28 KiB  │
+ 9. │ system   │ part_log                 │ 17.86 KiB  │
+10. │ system   │ trace_log                │ 17.04 KiB  │
+11. │ system   │ query_views_log          │ 13.17 KiB  │
+12. │ system   │ text_log_0               │ 9.06 KiB   │
+13. │ default  │ dataset_runs_CIhUb       │ 5.07 KiB   │
+14. │ system   │ asynchronous_metric_log  │ 3.39 KiB   │
+15. │ system   │ opentelemetry_span_log_0 │ 1.09 KiB   │
+16. │ default  │ project_environments     │ 1.00 KiB   │
+17. │ default  │ schema_migrations        │ 641.00 B   │
+    └──────────┴──────────────────────────┴────────────┘
+```
+
+:::success
+處理完畢，結案
+:::
 
 ## Open165
 
@@ -66,7 +94,6 @@ urlscan.io integration
         - `task.reportURL`
         - `task.screenshotURL` --> 存到 cloudflare？
         - `task.domURL` --> 可以載下來自己比對
-    
   - 搜尋：輸入 url 與其他東西，回傳搜尋結果
     - [可搜尋欄位](https://urlscan.io/docs/search/) 包含 URL 與 title
 
@@ -76,7 +103,7 @@ urlscan.io integration
 - 拆開 title 與 URL 獨立成頁 (name detail 與 url detail)
 - 送進 Urlscan
 
-Ad hoc 來源：單一 URL --> 呈現 ne detail
+Ad hoc 來源：單一 URL --> 呈現 host detail
 Ad hoc 來源：單一名稱（ooo是真的嗎） --> 呈現 name detail
 
 
@@ -91,3 +118,10 @@ Detail 頁面：
 
 ## 大松
 - 5/25 (日) https://g0v-jothon.kktix.cc/events/g0v-hackath67n
+- 09:30(+0800) ~ 21:00(+0800)
+  - 要夜場嗎？ [name=bil]
+  - 看參與者，都沒有參與者了的話就離開 [name=mrorz]
+- 現場：bil, mrorz
+  - 吃這島
+- bil 需更新投影片：https://docs.google.com/presentation/d/10VRulY_MFMZK4wQNPN6Yjm8N8S9_wi-K1vUwelicwiQ/edit
+- 線上：nonumpa
