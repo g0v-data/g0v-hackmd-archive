@@ -8,4 +8,7 @@
 
 ### APP Group
 
-> 定義：用來將
+> 定義：使同個開發者開發的APP可以共享資料，屬於iOS一種服務
+
+實驗室的app group name是 `group.com.xrlab.labframe2023`
+理所當然的儲存路徑就會是
