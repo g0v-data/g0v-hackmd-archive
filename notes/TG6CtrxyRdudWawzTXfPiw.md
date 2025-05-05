@@ -137,7 +137,7 @@ Connect 累積行動團體網絡名單
 ### 廢校與地區轉型發展
 
 :::info
-跳坑：明錡, chewei,
+跳坑：chewei,
 :::
 
 將已經廢校的名單，整理成資料集
@@ -171,13 +171,13 @@ Connect 累積行動團體網絡名單
 ### 縣市教育治理政策情境
 
 :::info
-跳坑：明錡, 
+跳坑：
 :::
 
 #### 南投縣
 
 :::info
-跳坑：明錡, 
+跳坑：
 :::
 
 - 123
@@ -185,7 +185,7 @@ Connect 累積行動團體網絡名單
 #### 臺南市
 
 :::info
-跳坑：明錡, 
+跳坑：
 :::
 
 - 123
@@ -254,6 +254,8 @@ GitHub https://github.com/g0v/small_school_renaissance/
 - 偏遠地區國民中小學教育資料建置與教育生態分析研究
     <https://srda.sinica.edu.tw/file/24a4cce9-96be-4257-b6e6-bb988ae7f0be>
 
+- 《強制移住：臺灣高山原住民的分與離》◎葉高華 著 https://reurl.cc/x6oz4e
+
 ## 學校名單
 
 - 原住民族學校
@@ -268,3 +270,5 @@ GitHub https://github.com/g0v/small_school_renaissance/
 
 - 非山非市學校名單
     - 教育部國民及學前教育署： <https://www.k12ea.gov.tw/files/common_unit_id/c4faaee2-686f-47b2-9cc3-90be1e7603fb/doc/110至112學年度國民中小學非山非市學校名單.pdf>
+
+
