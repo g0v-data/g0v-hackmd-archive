@@ -1,20 +1,20 @@
 ---
-title: gather.town 使用說明
-tags: jothon online, jothon
+tags: jothon online, jothon, hackathon
 description: gather.town 使用說明
 ---
 
-# gather.town 使用說明
+# Gather / gather.town 使用說明
 :::info
-- http://gather.town
-是一個新創計畫，結合2D rpg & 視訊會議的功能
-- https://gather.town/app/ZxXxebIMnPHM4Bae/iis
-由 SeanGau 建置的中研院資訊所，開放自由進出，請愛惜環境隨手回收
-- 本篇共筆網址（歡迎分享）：https://g0v.hackmd.io/@SeanGau/S19eA4cK_
+
+Gather 是一個新創計畫，結合2D rpg & 視訊會議的功能
+
+g0v 社群常用地圖
+- 中研院資訊所一樓 https://gather.town/app/ZxXxebIMnPHM4Bae/iis
+    - 由 SeanGau 建置的中研院資訊所，開放自由進出，請愛惜環境隨手回收
+- 中研院資訊所一樓+大草地 https://app.gather.town/app/DWVbCODkTfRGgDPS/g0vjothon
+
+本篇共筆網址（歡迎分享）：https://g0v.hackmd.io/@SeanGau/S19eA4cK_
 :::
-
-<iframe src="https://gather.town/app/ZxXxebIMnPHM4Bae/iis" width="100%" height="670"></iframe>
-
 
 ## 使用教學（請使用電腦） [Eng. version](https://drive.google.com/file/d/19FPyfJhfHmS_chkpKenOpUbOybyE4bJT/view?usp=sharing)
 0. 使用電腦／筆電直接點擊主辦單位提供的會議室網址，不需安裝其他軟體。（建議使用 Chrome 瀏覽器）
@@ -79,17 +79,13 @@ description: gather.town 使用說明
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d673aa6aea5c2185937e0fefa7fc947d.png)
 
 
+---
 
-## 中文版操作手冊 https://bit.ly/3uFKAmW <br>by [陳政廷](https://www.facebook.com/benba.chen)
+## 地圖建置與應用案例
 
-## [gather town 地圖編輯資料收集](https://g0v.hackmd.io/@hKttibX8S5aUNZgfFl7QDw/By-JIZ8cu) by [蔡傻剛](https://www.facebook.com/yyykkyyykk)
-
-
-## 三維度 放到 GT
-
-case
-https://www.facebook.com/share/v/16GsXzL899/
-
-## Gather Town Taiwan User Group 交流社團
-
-https://www.facebook.com/groups/178816644148798
+- 中文版操作手冊 https://bit.ly/3uFKAmW <br>by [陳政廷](https://www.facebook.com/benba.chen)
+- [gather town 地圖編輯資料收集](https://g0v.hackmd.io/@hKttibX8S5aUNZgfFl7QDw/By-JIZ8cu) by [蔡傻剛](https://www.facebook.com/yyykkyyykk)
+- 三維度模型 放到 GT
+    - case https://www.facebook.com/share/v/16GsXzL899/
+- Gather Town Taiwan User Group 交流社團
+    - https://www.facebook.com/groups/178816644148798
