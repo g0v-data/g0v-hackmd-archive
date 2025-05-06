@@ -132,6 +132,7 @@ Already implemented in https://github.com/cofacts/open165/pull/9
 
 - https://www.pocket.tw//EDM/anti_fraud/index.htm
 - whoscall 防詐小學堂
+- 法務部111年反詐騙法治教育電子書 https://data.gov.tw/dataset/159067
 
 ### 其他名單來源
 
@@ -141,6 +142,13 @@ Already implemented in https://github.com/cofacts/open165/pull/9
 - https://165dashboard.tw/city-case-summary 真實案例
     https://github.com/Open165/165cases/ [name=jimmy++]
 - 快門手 dataset https://github.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter
+- TWNIC DNS RPZ1.0法院及行政命令攔阻域名清單（財團法人台灣網路資訊中心統計資料）
+    - https://data.gov.tw/dataset/165144
+    - 才 19 筆，最新在 2024/01
+- 數位發展部數位產業署聲請詐騙網域名稱停止解析網址清單
+    - https://data.gov.tw/dataset/165027
+    - 不定期更新，最新在 2025/3/31 但之前一個月都更新數次
+
 
 ## 目前進度
 
