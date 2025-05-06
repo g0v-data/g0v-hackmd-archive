@@ -30,17 +30,16 @@
 | 26 | [2022.4.19 與 COSCUP （Peter） 會議記錄](../notes/HOOyjMQMS1eLJU9zRQGtgw.md) | 2022-04-19T10:06:31+00:00 | 2022-04-19T08:25:10+00:00 |
 | 27 | [g0v-tw slack 備份記錄](../notes/JSpk8RJTRbq5vsxzP8kbYQ.md) | 2021-07-29T17:28:00+00:00 | 2018-03-13T14:38:33+00:00 |
 | 28 | [線上活動筆譯與口譯](../notes/AFMTuY6UQ6yt43FRju49Lg.md) | 2021-07-19T03:10:36+00:00 | 2021-07-18T16:34:04+00:00 |
-| 29 | [gather.town 使用說明](../notes/LmQMUuspQpeUQ2AhpMOU5Q.md) | 2021-07-15T07:54:51+00:00 | 2021-05-25T09:05:53+00:00 |
-| 30 | [「線上活動怎麼辦？」線上協作工作坊](../notes/iw5-ZxdgT-u6No5Egqi7nA.md) | 2021-06-23T12:13:00+00:00 | 2021-06-16T07:38:36+00:00 |
-| 31 | [g0v 揪松團募集 AWS Credits for [g0v.hackmd.io]](../notes/UWOd8cCQTPC9k03mgYGYqw.md) | 2021-04-22T06:23:54+00:00 | 2021-04-20T05:51:01+00:00 |
-| 32 | [揪松網資訊更新 - 2021 小改版](../notes/bexco-VATl24FO081qCAGg.md) | 2021-02-26T03:20:44+00:00 | 2020-07-20T08:42:56+00:00 |
-| 33 | [採訪－NPO聚落內的協力關係](../notes/bYkXS_rlTnazuJ26UQ5Fgg.md) | 2020-12-29T13:22:16+00:00 | 2020-12-20T15:15:24+00:00 |
-| 34 | [g0v 線上松經驗分享 \| Our experience of g0v hack from home hackathon](../notes/OEaERJUzTkOFovq8QfDABQ.md) | 2020-05-28T10:37:26+00:00 | 2020-03-19T14:21:55+00:00 |
-| 35 | [How to find g0vers at NPO Hub Taipei](../notes/c5M4QBvwTfKQWMTOmzVsDw.md) | 2020-01-15T15:05:34+00:00 | 2020-01-12T10:06:50+00:00 |
-| 36 | [FtO Tainan 2019 Task Tracker](../notes/bol_GphaRsa6Fm6PPu-Dkg.md) | 2019-12-20T08:51:29+00:00 | 2019-12-02T22:23:02+00:00 |
-| 37 | [g0ver @ Forum for Social Practice in Art/Media ‘Cultural Resistance in the Post-Open Data Age’](../notes/t7o3lljVRuKvX3hIVZpz0w.md) | 2019-12-15T15:41:33+00:00 | 2019-11-28T16:14:51+00:00 |
-| 38 | [Global LEAP 案例徵稿](../notes/RFoZI2h3RlefX6q5Clp-Ug.md) | 2019-12-09T08:48:02+00:00 | 2019-05-12T04:11:16+00:00 |
-| 39 | [11/12 社企流 Startup Night](../notes/zp--NxZqTDKcV3H_HzFHbQ.md) | 2019-11-12T12:43:05+00:00 | 2019-11-12T11:04:51+00:00 |
-| 40 | [社群議程 COSCUP 宣傳暖身](../notes/7Eyqpo9OTI-aVuYh_cBPmA.md) | 2019-06-07T14:33:43+00:00 | 2019-06-06T15:07:16+00:00 |
-| 41 | [COSCUP 社群議程宣傳](../notes/fvcTVY-zQDCfjtyikqUdVg.md) | 2019-06-07T13:46:41+00:00 | 2019-05-30T12:07:44+00:00 |
-| 42 | [Untitled](../notes/tR11gV6pQvaj79psLIo_pA.md) | 2019-05-23T07:37:15+00:00 | 2019-05-16T07:28:03+00:00 |
+| 29 | [「線上活動怎麼辦？」線上協作工作坊](../notes/iw5-ZxdgT-u6No5Egqi7nA.md) | 2021-06-23T12:13:00+00:00 | 2021-06-16T07:38:36+00:00 |
+| 30 | [g0v 揪松團募集 AWS Credits for [g0v.hackmd.io]](../notes/UWOd8cCQTPC9k03mgYGYqw.md) | 2021-04-22T06:23:54+00:00 | 2021-04-20T05:51:01+00:00 |
+| 31 | [揪松網資訊更新 - 2021 小改版](../notes/bexco-VATl24FO081qCAGg.md) | 2021-02-26T03:20:44+00:00 | 2020-07-20T08:42:56+00:00 |
+| 32 | [採訪－NPO聚落內的協力關係](../notes/bYkXS_rlTnazuJ26UQ5Fgg.md) | 2020-12-29T13:22:16+00:00 | 2020-12-20T15:15:24+00:00 |
+| 33 | [g0v 線上松經驗分享 \| Our experience of g0v hack from home hackathon](../notes/OEaERJUzTkOFovq8QfDABQ.md) | 2020-05-28T10:37:26+00:00 | 2020-03-19T14:21:55+00:00 |
+| 34 | [How to find g0vers at NPO Hub Taipei](../notes/c5M4QBvwTfKQWMTOmzVsDw.md) | 2020-01-15T15:05:34+00:00 | 2020-01-12T10:06:50+00:00 |
+| 35 | [FtO Tainan 2019 Task Tracker](../notes/bol_GphaRsa6Fm6PPu-Dkg.md) | 2019-12-20T08:51:29+00:00 | 2019-12-02T22:23:02+00:00 |
+| 36 | [g0ver @ Forum for Social Practice in Art/Media ‘Cultural Resistance in the Post-Open Data Age’](../notes/t7o3lljVRuKvX3hIVZpz0w.md) | 2019-12-15T15:41:33+00:00 | 2019-11-28T16:14:51+00:00 |
+| 37 | [Global LEAP 案例徵稿](../notes/RFoZI2h3RlefX6q5Clp-Ug.md) | 2019-12-09T08:48:02+00:00 | 2019-05-12T04:11:16+00:00 |
+| 38 | [11/12 社企流 Startup Night](../notes/zp--NxZqTDKcV3H_HzFHbQ.md) | 2019-11-12T12:43:05+00:00 | 2019-11-12T11:04:51+00:00 |
+| 39 | [社群議程 COSCUP 宣傳暖身](../notes/7Eyqpo9OTI-aVuYh_cBPmA.md) | 2019-06-07T14:33:43+00:00 | 2019-06-06T15:07:16+00:00 |
+| 40 | [COSCUP 社群議程宣傳](../notes/fvcTVY-zQDCfjtyikqUdVg.md) | 2019-06-07T13:46:41+00:00 | 2019-05-30T12:07:44+00:00 |
+| 41 | [Untitled](../notes/tR11gV6pQvaj79psLIo_pA.md) | 2019-05-23T07:37:15+00:00 | 2019-05-16T07:28:03+00:00 |

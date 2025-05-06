@@ -85,6 +85,11 @@ description: gather.town 使用說明
 ## [gather town 地圖編輯資料收集](https://g0v.hackmd.io/@hKttibX8S5aUNZgfFl7QDw/By-JIZ8cu) by [蔡傻剛](https://www.facebook.com/yyykkyyykk)
 
 
-# Gather Town Taiwan User Group 交流社團
+## 三維度 放到 GT
+
+case
+https://www.facebook.com/share/v/16GsXzL899/
+
+## Gather Town Taiwan User Group 交流社團
 
 https://www.facebook.com/groups/178816644148798

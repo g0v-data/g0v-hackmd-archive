@@ -38,6 +38,9 @@ https://ec.ltn.com.tw/article/breakingnews/4900354
 ## 專案
 
 ### 降低詐騙網站曝光度
+- 非金管會核准之證券期貨業者及商品警示專區
+    - https://3434.twsa.org.tw/
+    - 本專區警示資料為截至目前已發現未經金管會核准之業者或商品，可能未含括所有未經金管會核准業者或商品。為保障您自身權益，如有投資理財需求，請點選下列合法業者或商品網站名單，並洽詢業者提供服務。
 - Open165 反詐筆記 - 詐騙網站公告搜尋引擎最佳化 https://g0v.hackmd.io/@mrorz/open165-proposal
     - https://g0v.hackmd.io/xl7YbrcTRECluGKK_HGo6Q
     - https://g0v.hackmd.io/roo-89pnR6iouhm-xgLL3A
@@ -132,6 +135,12 @@ https://youtu.be/YNITi71IA0o
 - 臺北市中山分局偵查隊小隊長 洪晨鐘 https://www.facebook.com/share/p/19m8XXeJZj/
 - 數位信任協會 https://dtatw.org/about_us/
 - 刑警，台通新一集的討論：https://open.spotify.com/episode/6e1TBiepMBcG04TcVQDGqK
+- 江彥生博士，是中央研究院社會學研究所研究員，他的研究興趣在社會網絡、社會心理學、實驗方法等領域。這次演講內容，是他第一次走出學術象牙塔，與政府執法單位合作，利用社會網絡分析的方法，解析台灣海上犯罪活動的共犯生態。
+    - https://youtu.be/T1TCjez7AlU
+- 張伊君小姐，是國立臺灣大學資訊管理博士候選人，目前任職於內政部刑事警察局。她將機器學習、社會網絡分析等方法，應用於組織犯罪偵察上。舉凡像是詐騙集團、走私集團等犯罪，都是她曾涉獵、研究的案例。
+    - https://youtu.be/T1TCjez7AlU?si=y2_yQSFOxdlz2uMs&t=3088
+- 翁韡先生，為海巡署科技鑑識科科長，近來致力於推動「智慧辦案」，利用大數據分析方法，將海巡署的辦案偵察模式，從傳統的單一個案視野，提升到罪犯網絡、跨國集團的層次，期待新的科技與更廣的視野，有助於精準打擊犯罪。
+    - https://youtu.be/T1TCjez7AlU?si=znveMHsZylg6oyoK&t=2174
 - 議題社群：網路黑魔法防禦松
     - https://g0v.hackmd.io/qf2mb4z2S-q5K6HoJ3b8Vg
 - Dcard 反詐騙板

@@ -681,6 +681,7 @@ https://www.facebook.com/asgis/posts/1421775321166125
 https://www.facebook.com/limareports/posts/964927127004627
 近期台大相關課程 
 https://www.facebook.com/ntucis/posts/896559983830404
+清代台灣人群分類版圖與治理部署 https://youtu.be/C-N-TJqg6I8
 清代臺灣的移民開發與社會 Immigration,cultivation and Society in Qing Taiwan 
 https://nol2.aca.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=103%2051400&class=&dpt_code=P180&ser_no=19016&semester=107-2&lang=CH
 清領以前的台灣市鎮
