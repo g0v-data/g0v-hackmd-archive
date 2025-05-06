@@ -133,6 +133,15 @@ Already implemented in https://github.com/cofacts/open165/pull/9
 - https://www.pocket.tw//EDM/anti_fraud/index.htm
 - whoscall 防詐小學堂
 
+### 其他名單來源
+
+- 非金管會核准之證券期貨業者及商品警示專區
+    https://3434.twsa.org.tw/
+    本專區警示資料為截至目前已發現未經金管會核准之業者或商品，可能未含括所有未經金管會核准業者或商品。為保障您自身權益，如有投資理財需求，請點選下列合法業者或商品網站名單，並洽詢業者提供服務。
+- https://165dashboard.tw/city-case-summary 真實案例
+    https://github.com/Open165/165cases/ [name=jimmy++]
+- 快門手 dataset https://github.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter
+
 ## 目前進度
 
 ### 2025/1/4 第零次網路黑魔法防禦松
