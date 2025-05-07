@@ -124,6 +124,8 @@ https://www.facebook.com/100000363068857/posts/3983742031647860/
 https://eyesonplace.net/2023/02/17/22485/
 - 東勢高工舊校區 https://www.facebook.com/wanyu.claire/photos/a.103179557816265/330941175040101/
 
+日本案例
+- 日本youtuber 買下學校，進行群眾募資改造學校 https://youtu.be/Nps6IxY4HF8
 
 ## 校地活用的資料格式
 - 類型
