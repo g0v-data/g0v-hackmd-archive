@@ -74,3 +74,7 @@ Allen 的更新分享:
 - 做了台灣資安門神
     - https://chatgpt.com/g/g-6813a15f1ab08191aa17f1c2f9963ee8-zi-an-men-shen-zhe-ruan-ti-ke-yi-yong-ma-tai-wan-men-shen-wei-tai-wan-ren-de-zi-xun-an-quan-guo-fang-an-quan-ba-guan
     - 目前看來相當地有效
+
+
+## 提案：參與公民科技試驗場域
+
