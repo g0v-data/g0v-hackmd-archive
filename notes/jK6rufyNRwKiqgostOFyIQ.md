@@ -8,7 +8,12 @@ tags: China
 
 https://g0v.hackmd.io/mSnyMhZKQM2Zj1rb_rs_ng
 
-## 個別事件
+
+## 戶籍制與土地國有制
+
+https://youtu.be/ZxCh_5qkZBg
+
+## 事件
 
 - 八九民運與六四事件 https://youtube.com/playlist?list=PLMz2drMiwMyaR6rb7kAu95fkveXzsEdqK&si=ZzRyuQr5iFiH1sdJ
 - 孫志剛事件
@@ -28,8 +33,8 @@ https://g0v.hackmd.io/mSnyMhZKQM2Zj1rb_rs_ng
     - https://theinitium.com/article/20190125-notes-forensic-architecture/
 - 歷年台灣人於中國強迫失蹤案
     - https://www.facebook.com/story.php?story_fbid=pfbid02PmPSVF1SedBxiZJxLqYBZ4Cqq7S9PMVjkdTUQmhhjDqKSxN9vRo5HgLq4XdVD1tYl&id=697503134&mibextid=qC1gEa
-
-https://github.com/WeNeedHome/SummaryOfLoanSuspension 用 Github 統計 CN 爛尾樓停貸通知案數。
+- https://github.com/WeNeedHome/SummaryOfLoanSuspension 
+    - 用 Github 統計 CN 爛尾樓停貸通知案數。
 
 可能的來源
 - 國立清華大學當代中國研究中心
