@@ -1,9 +1,10 @@
-https://www.shkypumps.com/
+https://www.jwell-group.com/
 
-E-mail: annacho@kaiyuanpumps.com
+Telephone:
++86-13916825715
 
-Moblie: +8617717593520
+Email:
+salnaa@jwell.cn
 
-WeChat / WhatsApp: +8613818435525
-
-Add: No.9699 Puwei Hwy, Fengxian District, Shanghai, 201417, China.
+Address:
+Changzhou： No. 118 Shangshang Road, Zhongguancun Development Zone, Liyang City, Changzhou City, Jiangsu Province
