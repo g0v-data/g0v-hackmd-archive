@@ -12,6 +12,11 @@ tags: vtaiwan
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 ### 自我介紹
 
+## 小小的分享
+- 與 Prof. Taddei 見面，討論
+    - [vTaiwan x Prof.Francios Taddei](/gcFMYistRviGGoERCctU-Q)
+- 朝日新聞訪問
+
 ## 5/23 議題小聚
 ![](https://g0v.hackmd.io/_uploads/Bye14G5kxgl.png)
 - polis 連結 (見上圖)
