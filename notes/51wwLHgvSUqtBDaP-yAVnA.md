@@ -17,7 +17,7 @@ However, this is not an easy task -- given the fact that we do have public clien
 
 (圖: rumors-api <> app server <> browser / LINE server / scripts, etc)
 
-existing 1st party apps / clients
+Existing 1st party apps / clients
 - rumors-ai: secret
 - rumors-site: id + domain
 - community-builder: (id + domain)
@@ -25,11 +25,22 @@ existing 1st party apps / clients
 - rumors-fb-bot: secret
 - 檢舉表單: (can use secret)
 
-to be added:
+To be added:
 - meiyu: secret
 - drmessage: secret
 
+Traffic can go from
+- cofacts-api.g0v.tw: Go through A record, NOT defended by Cloudflare
+- api.cofacts.tw: Go through and defended by Cloudflare
+- Directly within docker network: Production LINE bot, for better file transfer
+
 ## Server-to-server communication
+
+Dispatch Cloudflare Service tokens to 
+
+
+
+:::spoiler Old proposal
 
 (圖：backend apps <> rumors-api)
 
@@ -50,6 +61,7 @@ Refactor [checkHeader](https://github.com/cofacts/rumors-api/blob/master/src/che
 
 - As-is: hard-coded if-else and environment variables
 - To-be: loop through a config YAML file that is bind-mounted to the container.
+
 
 ```
 ---
@@ -128,18 +140,13 @@ Example: [LINE messaging API's signature](https://developers.line.biz/en/docs/me
 - Access without service token: ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d36a8362a98c2fc155e2632e744342e8.png =x300)
 - Protected application (rumors-api) gets an [application token](https://developers.cloudflare.com/cloudflare-one/identity/authorization-cookie/application-token/#service-token-authentication) with `common_name` being the access client ID.
 
-:::info
-TBA:
-- Usage logging
-- Detailed access control on service tokens
-:::
-
 
 ## Rollout
 
 Implement & deploy w/ "development frontend" & "development backend" fallback: ASAP
 Remove "development *end" fallback on production: end of Feb 2021
 
+:::
 
 ## Browser <> API
 

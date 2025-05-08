@@ -2,32 +2,32 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Open165 反詐筆記 - 詐騙網站公告搜尋引擎最佳化](../notes/xl7YbrcTRECluGKK_HGo6Q.md) | 2025-05-06T09:12:27+00:00 | 2024-07-20T04:45:13+00:00 |
-| 2 | [20250512 會議記錄](../notes/4gx_3uFUTHSYB853Fcgmlg.md) | 2025-05-05T12:35:23+00:00 | 2025-05-05T12:34:58+00:00 |
-| 3 | [20250505 會議記錄](../notes/pk0szdZYSkWmSCjz865Ldg.md) | 2025-05-05T12:32:31+00:00 | 2025-04-28T13:03:06+00:00 |
-| 4 | [20250317 會議記錄](../notes/vplohTE0RoqMuV6y2JFhnA.md) | 2025-04-27T17:33:57+00:00 | 2025-03-17T05:05:19+00:00 |
-| 5 | [和 AI 一起查《烏克蘭新兵僅受訓一日即被派往作戰》一文](../notes/gJQjNSD7QZaGN-aOlpZceQ.md) | 2025-04-07T13:03:06+00:00 | 2025-04-07T12:55:29+00:00 |
-| 6 | [Cofacts Hackath66n 協作頁面](../notes/V0VdLYytThuXr2A6nEgaYg.md) | 2025-03-29T08:12:18+00:00 | 2025-03-27T15:28:38+00:00 |
-| 7 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2025-03-17T07:05:48+00:00 | 2022-08-05T02:46:53+00:00 |
-| 8 | [20250105 Cofacts 第 45 次查核協作者培訓](../notes/YIEvxR-pRMK0ms1oQ4N2pw.md) | 2025-03-11T09:43:30+00:00 | 2025-01-05T05:57:43+00:00 |
-| 9 | [20250310 會議記錄](../notes/AvpmwuvvSGaWgHLf3sITdg.md) | 2025-03-10T12:25:01+00:00 | 2025-03-09T08:26:18+00:00 |
-| 10 | [20250303 會議記錄](../notes/3WGAMK9hRQ2pPQE-0x_vOQ.md) | 2025-03-06T07:09:42+00:00 | 2025-03-03T05:30:21+00:00 |
-| 11 | [20250224 會議記錄](../notes/10oQ0SXwToG7xu_YxJ37wg.md) | 2025-02-25T15:40:15+00:00 | 2025-02-23T04:16:36+00:00 |
-| 12 | [Cofacts Hackath65n 協作頁面](../notes/htq1g_woQ9mD7Oya1QNBGw.md) | 2025-02-22T03:53:33+00:00 | 2025-02-22T03:40:45+00:00 |
-| 13 | [20250219 會議記錄](../notes/qL-wd2bNSzGyKNLhb0dTaA.md) | 2025-02-20T01:28:35+00:00 | 2025-02-19T05:55:28+00:00 |
-| 14 | [20250210 會議記錄](../notes/BsnOA5ahTBW5Yaub1dYmhA.md) | 2025-02-17T03:10:17+00:00 | 2025-02-09T15:20:57+00:00 |
-| 15 | [20250203 會議記錄](../notes/KBowSCYBR4aCWcSK-Q1k-w.md) | 2025-02-03T13:02:27+00:00 | 2025-02-03T04:47:19+00:00 |
-| 16 | [Langfuse LLM observability](../notes/ccwZjCTnQ4-I5sPO1tuvFg.md) | 2025-02-03T10:32:51+00:00 | 2024-11-25T11:10:28+00:00 |
-| 17 | [20250127 會議記錄](../notes/X92JNs1USOC9ylqnN02EBw.md) | 2025-01-27T14:35:41+00:00 | 2025-01-26T17:58:37+00:00 |
-| 18 | [20250120 會議記錄](../notes/jkknRKrIRIKkI7V20EogTg.md) | 2025-01-25T13:56:37+00:00 | 2025-01-20T04:33:57+00:00 |
-| 19 | [Badge System](../notes/zx_Au6iiRN601tnMK7gx3A.md) | 2025-01-20T12:02:44+00:00 | 2024-11-17T23:36:53+00:00 |
-| 20 | [20241202 會議記錄](../notes/5-jQ-pWnT4iOEOos9t7Cyw.md) | 2024-12-02T12:31:12+00:00 | 2024-12-01T17:16:06+00:00 |
-| 21 | [20241125 會議記錄](../notes/Jqg-lecyRhKtFDnbxnx_ZA.md) | 2024-12-01T17:24:19+00:00 | 2024-11-24T16:11:25+00:00 |
-| 22 | [Cofacts / Open165 hackath64n 協作頁面](../notes/XSpjp40-QEGVAPeTrvxZeQ.md) | 2024-11-25T12:16:47+00:00 | 2024-11-22T16:48:30+00:00 |
-| 23 | [20241111 會議記錄](../notes/_e0nyj04SoCzxdM38CzuYQ.md) | 2024-11-25T08:04:34+00:00 | 2024-11-09T08:33:28+00:00 |
-| 24 | [20241118 會議記錄](../notes/GxzR0adaS8uNuaP7Vq7pfA.md) | 2024-11-18T13:08:55+00:00 | 2024-11-17T08:27:10+00:00 |
-| 25 | [Cofacts user blocking mechanism](../notes/7lmvtxe5S_qsyQeoUsSyTw.md) | 2024-11-17T23:35:59+00:00 | 2024-11-17T23:35:59+00:00 |
-| 26 | [Cofacts API access management](../notes/51wwLHgvSUqtBDaP-yAVnA.md) | 2024-11-08T06:15:08+00:00 | 2021-01-19T14:33:07+00:00 |
+| 1 | [Cofacts API access management](../notes/51wwLHgvSUqtBDaP-yAVnA.md) | 2025-05-08T15:57:51+00:00 | 2021-01-19T14:33:07+00:00 |
+| 2 | [Open165 反詐筆記 - 詐騙網站公告搜尋引擎最佳化](../notes/xl7YbrcTRECluGKK_HGo6Q.md) | 2025-05-06T09:12:27+00:00 | 2024-07-20T04:45:13+00:00 |
+| 3 | [20250512 會議記錄](../notes/4gx_3uFUTHSYB853Fcgmlg.md) | 2025-05-05T12:35:23+00:00 | 2025-05-05T12:34:58+00:00 |
+| 4 | [20250505 會議記錄](../notes/pk0szdZYSkWmSCjz865Ldg.md) | 2025-05-05T12:32:31+00:00 | 2025-04-28T13:03:06+00:00 |
+| 5 | [20250317 會議記錄](../notes/vplohTE0RoqMuV6y2JFhnA.md) | 2025-04-27T17:33:57+00:00 | 2025-03-17T05:05:19+00:00 |
+| 6 | [和 AI 一起查《烏克蘭新兵僅受訓一日即被派往作戰》一文](../notes/gJQjNSD7QZaGN-aOlpZceQ.md) | 2025-04-07T13:03:06+00:00 | 2025-04-07T12:55:29+00:00 |
+| 7 | [Cofacts Hackath66n 協作頁面](../notes/V0VdLYytThuXr2A6nEgaYg.md) | 2025-03-29T08:12:18+00:00 | 2025-03-27T15:28:38+00:00 |
+| 8 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2025-03-17T07:05:48+00:00 | 2022-08-05T02:46:53+00:00 |
+| 9 | [20250105 Cofacts 第 45 次查核協作者培訓](../notes/YIEvxR-pRMK0ms1oQ4N2pw.md) | 2025-03-11T09:43:30+00:00 | 2025-01-05T05:57:43+00:00 |
+| 10 | [20250310 會議記錄](../notes/AvpmwuvvSGaWgHLf3sITdg.md) | 2025-03-10T12:25:01+00:00 | 2025-03-09T08:26:18+00:00 |
+| 11 | [20250303 會議記錄](../notes/3WGAMK9hRQ2pPQE-0x_vOQ.md) | 2025-03-06T07:09:42+00:00 | 2025-03-03T05:30:21+00:00 |
+| 12 | [20250224 會議記錄](../notes/10oQ0SXwToG7xu_YxJ37wg.md) | 2025-02-25T15:40:15+00:00 | 2025-02-23T04:16:36+00:00 |
+| 13 | [Cofacts Hackath65n 協作頁面](../notes/htq1g_woQ9mD7Oya1QNBGw.md) | 2025-02-22T03:53:33+00:00 | 2025-02-22T03:40:45+00:00 |
+| 14 | [20250219 會議記錄](../notes/qL-wd2bNSzGyKNLhb0dTaA.md) | 2025-02-20T01:28:35+00:00 | 2025-02-19T05:55:28+00:00 |
+| 15 | [20250210 會議記錄](../notes/BsnOA5ahTBW5Yaub1dYmhA.md) | 2025-02-17T03:10:17+00:00 | 2025-02-09T15:20:57+00:00 |
+| 16 | [20250203 會議記錄](../notes/KBowSCYBR4aCWcSK-Q1k-w.md) | 2025-02-03T13:02:27+00:00 | 2025-02-03T04:47:19+00:00 |
+| 17 | [Langfuse LLM observability](../notes/ccwZjCTnQ4-I5sPO1tuvFg.md) | 2025-02-03T10:32:51+00:00 | 2024-11-25T11:10:28+00:00 |
+| 18 | [20250127 會議記錄](../notes/X92JNs1USOC9ylqnN02EBw.md) | 2025-01-27T14:35:41+00:00 | 2025-01-26T17:58:37+00:00 |
+| 19 | [20250120 會議記錄](../notes/jkknRKrIRIKkI7V20EogTg.md) | 2025-01-25T13:56:37+00:00 | 2025-01-20T04:33:57+00:00 |
+| 20 | [Badge System](../notes/zx_Au6iiRN601tnMK7gx3A.md) | 2025-01-20T12:02:44+00:00 | 2024-11-17T23:36:53+00:00 |
+| 21 | [20241202 會議記錄](../notes/5-jQ-pWnT4iOEOos9t7Cyw.md) | 2024-12-02T12:31:12+00:00 | 2024-12-01T17:16:06+00:00 |
+| 22 | [20241125 會議記錄](../notes/Jqg-lecyRhKtFDnbxnx_ZA.md) | 2024-12-01T17:24:19+00:00 | 2024-11-24T16:11:25+00:00 |
+| 23 | [Cofacts / Open165 hackath64n 協作頁面](../notes/XSpjp40-QEGVAPeTrvxZeQ.md) | 2024-11-25T12:16:47+00:00 | 2024-11-22T16:48:30+00:00 |
+| 24 | [20241111 會議記錄](../notes/_e0nyj04SoCzxdM38CzuYQ.md) | 2024-11-25T08:04:34+00:00 | 2024-11-09T08:33:28+00:00 |
+| 25 | [20241118 會議記錄](../notes/GxzR0adaS8uNuaP7Vq7pfA.md) | 2024-11-18T13:08:55+00:00 | 2024-11-17T08:27:10+00:00 |
+| 26 | [Cofacts user blocking mechanism](../notes/7lmvtxe5S_qsyQeoUsSyTw.md) | 2024-11-17T23:35:59+00:00 | 2024-11-17T23:35:59+00:00 |
 | 27 | [20241104 會議記錄](../notes/Pq1xffBaQW69lGyrp7JFng.md) | 2024-11-05T03:29:57+00:00 | 2024-11-04T05:08:57+00:00 |
 | 28 | [20241031 會議記錄](../notes/FRecC3VUS7aGtUxUDglRxQ.md) | 2024-10-31T13:01:44+00:00 | 2024-10-31T03:50:32+00:00 |
 | 29 | [Cofacts DB Mapping](../notes/F1K20uFNSzivBPXsKdg30Q.md) | 2024-10-30T11:51:55+00:00 | 2020-05-07T08:37:21+00:00 |
