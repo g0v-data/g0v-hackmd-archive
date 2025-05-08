@@ -18,11 +18,11 @@ However, this is not an easy task -- given the fact that we do have public clien
 (圖: rumors-api <> app server <> browser / LINE server / scripts, etc)
 
 Existing 1st party apps / clients
-- rumors-ai: secret
+- ~~rumors-ai: secret~~
 - rumors-site: id + domain
 - community-builder: (id + domain)
 - rumors-line-bot: secret, proxied GraphQL (LIFF), analytics Google sheet script
-- rumors-fb-bot: secret
+- ~~rumors-fb-bot: secret~~
 - 檢舉表單: (can use secret)
 
 To be added:
@@ -36,9 +36,22 @@ Traffic can go from
 
 ## Server-to-server communication
 
-Dispatch Cloudflare Service tokens to 
+### Traffic management
 
+- Announce change to 301 redirect `cofacts-api.g0v.tw` and `cofacts.g0v.tw` to `cofacts.tw` domains
+- Apply 301 redirect ([sample](https://github.com/g0v/domain/blob/8890ddde14f49e83addd79bdf0c5c4288fdf6eec/g0v.dev/g0v.dev.json#L6))
 
+### Service token
+Dispatch Cloudflare Service tokens to:
+- Cofacts site
+- Cofacts LINE bot
+- 3rd party applications
+  - Meiyu
+  - Dr.Message
+  - LINE 訊息查證
+  - TFC: 已經有了一把 service token，可重複使用
+
+Other researchers: can [use snapshot on HuggingFace](https://github.com/cofacts/opendata/issues/24)
 
 :::spoiler Old proposal
 

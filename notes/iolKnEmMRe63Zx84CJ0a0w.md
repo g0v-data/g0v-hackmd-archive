@@ -1,0 +1,17 @@
+The reason demons are powerful is because they are accustomed to hiding behind the disguise of justice.
+
+It's like when people sacrifice their beliefs and principles for desire - knowing that stealing is wrong, but feeling it's acceptable to steal in order to save someone. Knowing that killing is wrong, but believing it's justified to eliminate people of different religions in the name of one's own faith...
+These thoughts that persuade us to abandon our principles are actions that feed dark power.
+
+Many forms of black magic or dark powers originate from people wanting to satisfy their inner insecurities. It's because of inner fear and anxiety, hoping to compensate for that insecurity through the fastest methods, that people try every way to rationalize everything, and desires extend from this. Sometimes, desire also hides in simple comparative statements, such as: "I want to be better than them" or "My faith is more important than anyone else's."
+
+So if you want to avoid becoming corrupted in the process, the best method is to learn self-reflection and to honestly face all your emotions. Whether positive or negative energy, both can form independently existing energy entities through continuous feeding. When this energy begins to exceed our own energy, it's very likely to affect our minds. This is why it's important to periodically examine your original intentions and check your desires, because this will help us stay on the right track as much as possible, preventing such energy from controlling our lives.
+
+Any energy, when fed long-term, will become an independently existing force. It's not only bad people who develop dark powers - as long as too much fear and desire exist in the heart, corruption can happen in an instant. Just as when people habitually use comparative terms like "I (want to be) better than you," desire is hidden within, and this is the main source that feeds black magic or dark power. Once our minds are influenced by dark power, we forget our original intentions and achieve that goal at all costs. 
+You might even convince yourself that everything you do is to achieve that "kind" or "righteous" purpose. I've said that dark power tends to hide behind justice, just as many people kill in the name of defending religion, which is also a result of dark power development.
+
+However, just as this energy can be fed, it can also be canceled. Unless the energy has grown powerful enough to exist independently, under normal circumstances, any energy entity will not exist for more than three to seven days without continuous feeding.
+
+Dark power not only affects spiritual practitioners but is also a process everyone goes through in life. Because no one is absolutely good, and no one will be permanently dark, as long as you learn to self-reflect regularly, you can naturally prevent yourself from being easily influenced by this kind of energy. 
+
+The reason I share this topic with everyone is that I hope you won't have any fear of them, because they are like any energy in the universe - without continuous energy feeding, they have no substantial influence. As long as we develop the habit of examining ourselves, listening to our words, and reviewing our actions, we won't be manipulated by this power.

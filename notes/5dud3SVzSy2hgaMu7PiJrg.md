@@ -72,7 +72,58 @@ sqlmap -u "http://target.com/page.php?id=1" --dump-all --batch --threads=10 --ra
 sqlmap -u "http://target.com/profile.php?id=1" --cookie="PHPSESSID=abcd1234" --dump-all
 ```
 ### nmap
+基礎掃描
+```
+nmap 192.168.1.1
+```
+掃描指定的埠（port）
+```
+nmap -p 80,443,3306 192.168.1.1 #指定特定 port
+nmap -p- 192.168.1.1 #掃描所有 65535 個 TCP 埠
+```
+服務與版本偵測
+```
+nmap -sV 192.168.1.1 #嘗試偵測開放 port 的服務類型與版本（如 Apache 2.4.46）
+```
+作業系統偵測
+```
+nmap -O 192.168.1.1 #偵測目標主機的作業系統（例如 Linux、Windows）
+```
+快速掃描常見埠
+```
+nmap -F 192.168.1.1 #掃描 nmap 預設清單中的最常見 100 埠。
+```
+偵測主機是否存活
+```
+nmap -sn 192.168.1.0/24 #僅 ping 掃描，不進行 port 掃描。
+```
+跳過 ping，直接掃描
+```
+nmap -Pn 192.168.1.1 
+```
+進階偵測模式
+```
+nmap -A 192.168.1.1 #結合 OS 掃描、版本、指令碼、traceroute
+```
+開放的 port
+
+該 port 所屬服務名稱與版本（如 Apache 2.4）
+
+作業系統類型（如 Windows 10）
+
+執行預設指令碼（如抓 HTTP title、檢查 TLS 設定）
+
+網路 hop 資訊（像 traceroute）
 ### John the Ripper
+基本破解（字典模式）
+```
+john --wordlist=rockyou.txt hash.txt
+```
+
+查看破解結果
+```
+john --show hash.txt #顯示已破解的帳密結果（格式為 使用者:密碼）
+```
 ### Hydra
 ### Netcat 
 
