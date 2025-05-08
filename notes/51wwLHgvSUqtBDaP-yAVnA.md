@@ -42,7 +42,11 @@ Traffic can go from
 - Apply 301 redirect ([sample](https://github.com/g0v/domain/blob/8890ddde14f49e83addd79bdf0c5c4288fdf6eec/g0v.dev/g0v.dev.json#L6))
 
 ### Service token
+
+Cloudflare has a upper limit of 50 service tokens.
+
 Dispatch Cloudflare Service tokens to:
+- Cofacts automation (takedown) --> already there
 - Cofacts site
 - Cofacts LINE bot
 - 3rd party applications
@@ -52,6 +56,22 @@ Dispatch Cloudflare Service tokens to:
   - TFC: 已經有了一把 service token，可重複使用
 
 Other researchers: can [use snapshot on HuggingFace](https://github.com/cofacts/opendata/issues/24)
+
+Service token is required to access:
+- api.cofacts.tw/graphql
+- dev-api.cofacts.tw/graphql
+  - Can bypass everyone
+  - Or set "allowed" rule, which requires user to login
+    - --> takes up one of 50 user seat; seat expire in 1 month
+
+
+### Mapping to `appId`
+
+- Cofacts API translates [`cf-access-jwt-assertion` header](https://developers.cloudflare.com/cloudflare-one/identity/authorization-cookie/validating-json/#verify-the-jwt-manually) from Cloudflare to corresponding `appId`.
+- The header is [a JWT](https://developers.cloudflare.com/cloudflare-one/identity/authorization-cookie/application-token/) whose `common_name` is the Client ID of the service token.
+- We can maintain a JSON or YAML config to map these service token Client ID to appId in Cofacts DB.
+- We can refer to https://github.com/cofacts/rumors-api/blob/master/src/adm/util.ts for service JWT decode logic.
+- On staging environment where we allow requests with no service tokens, we map the activity to the same special appId `DEVELOPMENT_BACKEND`
 
 :::spoiler Old proposal
 
@@ -158,7 +178,6 @@ Example: [LINE messaging API's signature](https://developers.line.biz/en/docs/me
 
 Implement & deploy w/ "development frontend" & "development backend" fallback: ASAP
 Remove "development *end" fallback on production: end of Feb 2021
-
 :::
 
 ## Browser <> API
