@@ -124,6 +124,30 @@ john --wordlist=rockyou.txt hash.txt
 ```
 john --show hash.txt #顯示已破解的帳密結果（格式為 使用者:密碼）
 ```
+識別 hash 類型(john --list=formats)
+```
+john --wordlist=rockyou.txt --formats=raw-md5 hash.txt
+john --wordlist=rockyou.txt --formats=crypt hash.txt
+```
+
+![](https://g0v.hackmd.io/_uploads/SJlOHIP9exx.png)
+
+### hash-identifier
+`sudo apt install hash-identifier`
+開啟工具
+```
+hash-identifier
+```
+貼上你的 hash
+```
+5f4dcc3b5aa765d61d8327deb882cf99
+```
+觀看分析結果
+```
+Possible Hashs:
+[+] MD5
+[+] Domain Cached Credentials
+```
 ### Hydra
 ### Netcat 
 
