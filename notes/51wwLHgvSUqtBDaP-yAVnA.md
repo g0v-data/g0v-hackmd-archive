@@ -38,8 +38,10 @@ Traffic can go from
 
 ### Traffic management
 
-- Announce change to 301 redirect `cofacts-api.g0v.tw` and `cofacts.g0v.tw` to `cofacts.tw` domains
-- Apply 301 redirect ([sample](https://github.com/g0v/domain/blob/8890ddde14f49e83addd79bdf0c5c4288fdf6eec/g0v.dev/g0v.dev.json#L6))
+Redirect all traffic from `cofacts-api.g0v.tw` to `api.cofacts.tw`; and `cofacts.g0v.tw` to `cofacts.tw`
+- don't need to manage g0v domains
+- all traffic on Cloudflare
+- can hide IP
 
 ### Service token
 
@@ -57,12 +59,14 @@ Dispatch Cloudflare Service tokens to:
 
 Other researchers: can [use snapshot on HuggingFace](https://github.com/cofacts/opendata/issues/24)
 
-Service token is required to access:
+Servers need to use service token to access:
 - api.cofacts.tw/graphql
 - dev-api.cofacts.tw/graphql
-  - Can bypass everyone
-  - Or set "allowed" rule, which requires user to login
-    - --> takes up one of 50 user seat; seat expire in 1 month
+
+We can still allow direct browser access to GraphQL (GraphiQL) after then "login"
+- This is achieved by setting an "allowed" Cloudflare policy for "everyone"
+- User will be prompted a login screen, but anyone can access
+    - each successful login takes up one of 50 user seat; seat expire in 1 month
 
 
 ### Mapping to `appId`
@@ -172,12 +176,6 @@ Example: [LINE messaging API's signature](https://developers.line.biz/en/docs/me
     - Token duration: min 1 year, max non-expiring
 - Access without service token: ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d36a8362a98c2fc155e2632e744342e8.png =x300)
 - Protected application (rumors-api) gets an [application token](https://developers.cloudflare.com/cloudflare-one/identity/authorization-cookie/application-token/#service-token-authentication) with `common_name` being the access client ID.
-
-
-## Rollout
-
-Implement & deploy w/ "development frontend" & "development backend" fallback: ASAP
-Remove "development *end" fallback on production: end of Feb 2021
 :::
 
 ## Browser <> API
@@ -189,6 +187,8 @@ Remove "development *end" fallback on production: end of Feb 2021
     - 即使不擋也可以觀察狀況 [name=bil]
     - 用 bot 爬網站之類的違反使用者條款 [name=orz]
 - 可以看 query? 因為網站只會做某些 query [name=orz]
+
+:::spoiler Previous proposals
 
 ### Limiting exposed API
 
@@ -205,13 +205,11 @@ Cofacts website can limit the access of exposed API with React server components
     - Rewrite API fetching using persisted operations or server components
     - Login mechanism? https://www.cloudflare.com/products/zero-trust/access/
 
-:::danger
-Blocker of React server components
+#### Blocker of React server components
 
 - Material-UI is not compatible with Next.JS 13 app directory: https://github.com/mui/material-ui/issues/34905
     - Can mark Material UI as client-side, but have FOUC
 - Not sure if GraphQL requests are properly [deduped on server components](https://beta.nextjs.org/docs/data-fetching/fundamentals#automatic-fetch-request-deduping)
-:::
 
 ### Proxy issue: passing login cookie around
 
@@ -222,14 +220,30 @@ Blocker of React server components
     - set-cookie from API server will be proxied to the browser
 - change redirect URI from api.cofacts.tw to `cofacts.tw/api/`
 
+:::
 
-### Alternative: Treating all apps equal
+### No more "browser apps"
 
-Another topic would be if we should treat [browser apps and backend apps](https://g0v.hackmd.io/ZcoUOX_-RQSkJyl5xz4_Zg#Identifying-the-app-and-user) equally -- that is, 
+We will remove the concept of [browser apps](https://g0v.hackmd.io/ZcoUOX_-RQSkJyl5xz4_Zg#Identifying-the-app-and-user) -- at the end of the day, only "backend apps" (with service token auth) are allowed.
+
+For rumors-site:
 - Cofacts website manages its own user
-    - Cofacts API login / registration endpoints can be removed
+    - Cofacts API login / registration endpoints moved to rumors-site
+    - Cofacts website needs a database (MongoDB or CloudSQL) for users
+    - Social login related keys should be removed from rumors-db
 - Cofacts website users are treated also as [backend app users](https://g0v.hackmd.io/ZcoUOX_-RQSkJyl5xz4_Zg#Backend-app-user-%E7%9A%84%E9%9C%80%E6%B1%82).
-    - `cofacts.tw/users?id=xxx` can still use app user id; it searches database and resolve to real id ()
+    - `cofacts.tw/users?id=xxx` can still use app user id; it searches database and resolve to real id
+- Cofacts website talks to API using service token.
+    - Short term: spin up an rumors-api proxy under `/api`, the proxy talks to rumors-api via service token
+    - Long term: use server action to do GraphQL, so no public access to full GraphQL server --> eliminates GraphQL complex query attack
+
+For community builder:
+- cofacts.github.io/community-builder should redirect user (with javascript) to a new Cloudflare domain
+  - host the static site on Cloudflare workers?
+- Directly apply auth policy that allows anyone (it takes up Cloudflare zero trust user seats, but seats expire in 1 month) to access
+  - rumors-api can allow authenticated people
+
+:::spoiler Auth service choice
 - rumors-site
     - Nextauth
     - Ory kratos endpoints for login session (cookie) and social logins
@@ -272,3 +286,20 @@ Another topic would be if we should treat [browser apps and backend apps](https:
 - rumors-api
     - remove passport.js and social login
     - remove app-id related logic
+:::
+
+## Rollout plan
+
+1. Traffic management
+    - Announce change to 301 redirect `cofacts-api.g0v.tw` and `cofacts.g0v.tw` to `cofacts.tw` domains
+    - Apply 301 redirect ([sample](https://github.com/g0v/domain/blob/8890ddde14f49e83addd79bdf0c5c4288fdf6eec/g0v.dev/g0v.dev.json#L6))
+
+2. Implement service token ID --> appId logic
+    - Apply to Cofacts services first
+    - Then send to downstream and ask them to change
+    - We still allow people to bypass service token for now
+
+3. Setup API proxy for rumors-site and community-builder
+
+
+4. Remove service token bypass
