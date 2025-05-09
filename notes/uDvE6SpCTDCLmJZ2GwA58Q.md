@@ -246,6 +246,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
             - 東側沿線，？年以前就存在的樹木
         - 地圖：https://www.google.com/maps/d/viewer?mid=1bXRCRxkLjHqOs5gHOSMzxNRIQ31GYx8
     - 為什麼取名「新生」？
+        - 討論：https://www.facebook.com/share/p/1KvLHF68nX/?mibextid=wwXIfr
     - 尚未加蓋的新生北路的水路，好像是有機會看到水面倒影中的圓山？新生南路，可能在大安森林公園段，可以映射蟾蜍山？
     - 龍瑛宗 是否有描繪臺北內水的作品？https://zh.m.wikipedia.org/zh-tw/%E9%BE%8D%E7%91%9B%E5%AE%97
     - 基隆河舊河道表演藝術中心開挖相關探討 https://www.facebook.com/story.php?story_fbid=pfbid0aUxwbGiNNZ4z7jHotZYARv8uBZ1q3gfHEDzsYzXgdnuqGJwg3zyPJbpMQXZDBzRPl&id=100000270465918&mibextid=WC7FNe
@@ -279,6 +280,8 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
 - 中國 光電結合車用鋪面與高架橋 https://www.facebook.com/share/p/2FThbaUX28Vp85Ay/
 - THE END OF THE CENTRAL FREEWAY IN HAYES VALLEY
     - https://hoodline.com/2015/08/the-end-of-the-central-freeway-in-hayes-valley/
+- 日本東京開蓋構想
+    - https://www.facebook.com/share/1PE9MoZVp7/?mibextid=wwXIfr
 - 日本 排水上方軌道運輸 chiba https://www.facebook.com/share/r/toAmi3j7E4LSJjw9/
 - Victoria 高架橋加掛自行車道 https://www.facebook.com/share/v/mmx3dpbGH4YF5fRA/ https://www.facebook.com/share/v/33Ja8u164HrnmEro/
 - 曼谷 Hop Park, Green Pop-up Hop into the Greeniverse / Shma Company Limited https://www.archdaily.com/1020099/hop-park-green-pop-up-hop-into-the-greeniverse-shma-company-limited
