@@ -45,7 +45,8 @@ tags: food, 無麩質,
 
 
 - 相關專案（歡迎補充）
-nope
+
+https://github.com/bestian/gf-tw
 
 - 授權方式
 CC-BY
@@ -54,9 +55,12 @@ CC-BY
 使用者或是由廠商提供的資料,再進行篩選
 
 - 專案目前狀態
-目前使用google表單的方式在FB台灣無麩質社團收集無麩質產品以及提供無麩質食品的餐廳資料,目前收集資料的速度緩慢
-https://forms.gle/1sTXBo7RhUEdCc2B8
-https://forms.gle/AyVWfDtKTfJgmTLbA
+
+這是地圖呈現樣稿；
+https://gf-tw.pages.dev/
+
+這是重新蒐集的表單(目前暫時無需登入即可上傳資料到firebase, 未來如果需要做權限管理再說)：
+https://gf-tw.pages.dev/collaborate
 
 - 利益揭露
 無
@@ -86,7 +90,7 @@ https://forms.gle/AyVWfDtKTfJgmTLbA
 
 協作工具
 
-    github repo：
+    github repo：https://github.com/bestian/gf-tw
 
     hackfoldr 工作資料夾網址：
 
