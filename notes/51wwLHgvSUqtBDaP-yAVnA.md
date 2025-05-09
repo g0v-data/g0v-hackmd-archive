@@ -293,13 +293,23 @@ For community builder:
 1. Traffic management
     - Announce change to 301 redirect `cofacts-api.g0v.tw` and `cofacts.g0v.tw` to `cofacts.tw` domains
     - Apply 301 redirect ([sample](https://github.com/g0v/domain/blob/8890ddde14f49e83addd79bdf0c5c4288fdf6eec/g0v.dev/g0v.dev.json#L6))
+    - 至此，所有流量均可由 cloudflare 掌控
 
 2. Implement service token ID --> appId logic
     - Apply to Cofacts services first
     - Then send to downstream and ask them to change
     - We still allow people to bypass service token for now
+    - 至此，當匿名流量過高，我們可以暫時拒絕無 service token 的 traffic，網站無法使用但 LINE bot 仍然可查詢
 
-3. Setup API proxy for rumors-site and community-builder
+3. Migrate social login to rumors-site and its DB
+    - 大工程（可能只比重寫網站小）
+    - 可合併 user query 與一般 query，減少 request 數
+    - API auth logic 簡化
+    - 可實作較為安全的登入後才連結其他 social platform 之功能
 
+4. Setup API proxy for rumors-site and community-builder
+    - 至此，所有 client 應該都用 token 與 API 溝通了
 
-4. Remove service token bypass
+5. Remove service token bypass
+    - API 很難被打壞，因為根本沒辦法直連 API
+    - 但即使如此，DDoS 網站本身應該還是會爛掉
