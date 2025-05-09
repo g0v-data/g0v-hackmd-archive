@@ -41,3 +41,9 @@ GA: UA-98468513-3
 ## Open165
 
 ## 其他
+
+### Google Cloud 來信要求升級 Gemini
+- 我們用 gemini-1.5-pro-002 可以到 9/24
+- Gemini 最近版本出很勤，覺得可以再等
+![](https://g0v.hackmd.io/_uploads/rkxPw8koggg.png)
+
