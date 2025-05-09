@@ -226,7 +226,7 @@ https://docs.google.com/document/d/1IhyVG3KncyizQ3sD2mPFytnpwN86X5JSOV9PjjyuU18/
 * 金融管理局，https://www.amcm.gov.mo/zh-hant/about-amcm/recruitment?type=recruitment-6 好似仲要系人手去交表，好鬼麻煩，同以前政府一樣，超級浪費時間
 * 市政署，https://www.iam.gov.mo/c/recruit/ 
 * 旅遊學院，好似就來可以自己開考，依家呢一刻就未知，https://www.ift.edu.mo/zh-cht/visitors/job-vacancies
-* 貿促局，https://www.ipim.gov.mo/zh-hant/recruitment/recruitment-notice/
+* 招商局(前貿促局)，https://www.ipim.gov.mo/zh-hant/recruitment/recruitment-notice/
 * 澳門基金會, https://www.fmac.org.mo/page/recruitment
 * 科學技術發展基金
 * 民航局
