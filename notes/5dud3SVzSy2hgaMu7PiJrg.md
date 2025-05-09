@@ -148,6 +148,26 @@ Possible Hashs:
 [+] MD5
 [+] Domain Cached Credentials
 ```
+### sslscan
+```
+sudo apt update
+sudo apt install sslscan
+```
+掃描指定主機與預設 SSL 埠（443）
+```
+sslscan example.com
+```
+指定 IP 和 Port
+```
+sslscan 192.168.1.10:8443
+```
+沒有使用 SSL/TLS 時你可以做的事
+![](https://g0v.hackmd.io/_uploads/rJ3gHxoxgx.png)
+
+### [curl](https://feifei.tw/deep-dive-into-curl/)
+用來與各種網路協定（最常見的是 HTTP/HTTPS）互動
+![](https://g0v.hackmd.io/_uploads/rJlOFHeilxg.png)
+
 ### Hydra
 ### Netcat 
 
