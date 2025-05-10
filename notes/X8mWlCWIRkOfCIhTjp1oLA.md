@@ -74,8 +74,6 @@ https://youtu.be/AyZcbFMyCLI
 https://www.facebook.com/share/p/8QFfGDPyTnuj3ywu/
 https://www.facebook.com/share/v/QKNqdAvtoNMxatcy/
 
-迪化街巷弄
-https://www.facebook.com/share/p/3urMddvQehBJJJ2B/
  
 三重
 https://www.facebook.com/groups/twroadclub/permalink/2350197128493382/
