@@ -84,8 +84,6 @@ https://maps.app.goo.gl/eSPnX2CRzHaiWBBU7?g_st=ic
 
 迪化街巷弄
 https://www.facebook.com/share/p/3urMddvQehBJJJ2B/
-
-土城海山路，捷運站與公園之間道路無車化
  
 三重
 https://www.facebook.com/groups/twroadclub/permalink/2350197128493382/
@@ -156,11 +154,16 @@ https://www.facebook.com/100064848694500/posts/pfbid034vi93Rhx9tqwoKiMRiNb8CQpf4
 彰化縣 台1線 189-190.5
 https://www.facebook.com/share/psQ6akS1i5M4rDVn/
 
+大埔路施作示範友善人行道
+https://www.facebook.com/CHreporter2020/posts/pfbid08nJz9YcEdQoVFiF5aJu5vAoMWkPjHa2NygQKF3Yg9HW5A3vEZrQGXQuAgPfiRLp4l?locale=zh_TW
+
 雲林斗六
 https://www.facebook.com/100063760886799/posts/pfbid02KgiKRT3mAruj36EeMgqmLwvH5Ehbf2gxaPxpY5N4ybeej9Ac6xnMfPn9Q9wLnbF3l/?mibextid=cr9u03
 
 臺南北門
 https://www.facebook.com/share/p/2ivg8vaxYD9c6GwS/
+
+臺南 健康路 https://www.facebook.com/share/p/1BNs5gWKAu/
 
 台南佳里
 https://www.facebook.com/share/p/JtiniXMdqyYaMDSx/
@@ -168,8 +171,15 @@ https://www.facebook.com/share/p/JtiniXMdqyYaMDSx/
 臺南甲頂路
 https://www.facebook.com/share/p/h5gocvfmDXVpetHy/
 
+各處圓環
+https://www.facebook.com/share/v/15XVGHYYFP/
+
 台南歸仁圓環
 https://www.facebook.com/100092995934211/posts/pfbid0SssWXfSJEk71SV8wjzx2ngeWoywQ27PJcYg5fb5Ca2uNZhMe6ieus8KdgFxUjTjNl/
+
+台南玉井 圓環
+https://www.facebook.com/share/p/182mVPFTFg/
+https://news.ltn.com.tw/news/life/breakingnews/4855951
 
 台南孔廟 拆除同向分隔島
 https://www.facebook.com/share/p/SAxiq31oKaNQ8kSX/?mibextid=WC7FNe
@@ -177,7 +187,7 @@ https://www.facebook.com/share/p/SAxiq31oKaNQ8kSX/?mibextid=WC7FNe
 高雄「標線型圓環」，位在三多商圈的文橫三路與廣西路和南天街2條道路交會處的多叉路口
 https://www.facebook.com/share/r/buYYpFyFWVwSXd1h/
 https://news.pts.org.tw/article/682762
-
+瑞福路與崗山南街路口再設第2處標線圓環
 
 高雄崗山中街
 https://www.facebook.com/photo.php?fbid=722690190049674&set=a.288952580090106&type=3
@@ -205,6 +215,9 @@ https://www.facebook.com/share/p/RuDoJfXxfwBN1USV/
 
 高雄裕誠路
 https://www.facebook.com/100049204915573/posts/pfbid0HfSFgXqCQ8sQ5X6eRdasMnr8PFXcgvEpknirTqsQiQnmZ3m7ZeR9c9fiQEh7nywTl/?mibextid=cr9u03
+
+青年路
+https://www.facebook.com/share/p/19u3Z5iPFG/?mibextid=wwXIfr
 
 瑞恩街
 高雄建昌路巷弄
@@ -243,6 +256,8 @@ https://www.facebook.com/story.php?story_fbid=pfbid032t9nZTjR44Lw5LvFkqWP3arcfKf
 
 東港 行人庇護島
 https://www.facebook.com/share/p/cKfUkuXLe4d3abui/
+
+
 
 ### 有了改造後地點的經緯度，可以延伸製作
 
@@ -293,8 +308,14 @@ https://tw.news.yahoo.com/%E8%A1%8C%E4%BA%BA%E5%9C%B0%E7%8D%84-%E6%B1%BD%E8%BB%8
 多地點，寧靜巷弄
 https://www.facebook.com/groups/twroadclub/permalink/2432209236958837/
 
+待確認
+https://www.facebook.com/share/p/15eWhdSKoZ/
+
 淡水
 https://www.facebook.com/story.php?story_fbid=pfbid02a98uUtA3KiWtHBvnrDZQW8DnHNJxFQEZ9PAAaFxAgqWozZxJekenT98mpdHLB1N6l&id=100063883987874&mibextid=qC1gEa
+
+淡水
+https://www.facebook.com/share/p/1DxeqQ8NyC/?mibextid=wwXIfr
 
 新莊
 https://www.facebook.com/groups/twroadclub/permalink/2407835422729552/
@@ -337,11 +358,20 @@ https://www.facebook.com/share/p/85Lq4B3ibxDPH1wS/
 
 新生南路，處理：公車專用道，同向分隔島，箱涵，人行道水路(已有案例：臺大、北科大、桃園水秀)
 
+新生南路和平路口
+https://www.facebook.com/share/p/17vjWyE6tB/
+
 
 臺北市
 https://www.facebook.com/story.php?story_fbid=pfbid02Cv3vb5X2thkBcZkuVA1XJGrChsjZ4VfgHSF3ZrUxGv2QHn6QjECm7B7A89My5YFXl&id=100083351706758&mibextid=qC1gEa
 
+公館圓環
+https://www.facebook.com/share/p/16LbkkNP15/?mibextid=wwXIfr
+
 廣州林德街口與六和和平街口 https://peoplenudgeplatform.wixsite.com/hq-te/post/【專業人士試辦課程】高雄場課程回顧
+
+西園路306巷
+https://www.facebook.com/share/p/1DSFZtzk7N/?
 
 汐止
 https://www.facebook.com/rexizhi/posts/pfbid0WMEGKvWCBbeD1dDA2QpWcyq5D7nxXWWnZjzj63ZUp4xYVFVy9n5XKJUTfmzCVivyl?locale=zh_TW
@@ -369,16 +399,34 @@ https://www.facebook.com/100064994161787/posts/pfbid0d3PRURrdjfZCP9QFpA4hd2HMQ58
 桃園市桃園區中正路
 https://www.facebook.com/share/p/71cr29GAKnNFuaxu/
 
+桃園忠勇路
+https://www.facebook.com/share/1MH5Nv8Ns1/
+
+航空城
+https://www.facebook.com/share/v/18bMMkKqo4/?mibextid=wwXIfr
+
 中壢
 https://www.facebook.com/100049204915573/posts/pfbid05UarMKSgK9kEQCAzzqosoJ5HkmDgc56GDCfdLePBdxPBjbDbk34MoBVHJiQ9nx5Kl/
 
+中壢 
+https://www.facebook.com/share/19MURSNy7C/
+
 中壢，行穿線被高架橋墩阻隔
 https://www.facebook.com/share/cgEL3MF287HV6wzy/
+
+中原大學
+https://www.facebook.com/share/p/155WzndR4Y/
 
 銘佑69街7414弄和龍川二街的十字路口車流量大但並沒有設置紅綠燈和斑馬線
 https://sch001.g0v.tw/dash/prj/PYT0Zh11Dx0fE99.57SCnBr.FZPRb8
 > [name=Ying：嗯？有這街嗎？（銘佑69街7414）本來想看一下長怎樣但 google 搜不到]
 > 我留言問問看專案團隊是否有地點經緯度可提供
+
+桃園 同德五街
+https://www.facebook.com/share/p/19WDWaYhg6/
+
+中壢中北路
+https://www.facebook.com/share/p/19WEsJTX7G/?mibextid=WC7FNe
 
 桃園市蘆竹區忠孝西路桃園街口至中正路口的人行道標線完善之後又被塗消掉
 
@@ -402,6 +450,9 @@ https://www.facebook.com/100064848694500/posts/pfbid02P1YrjWqM4RhQfVzs9NDHcLFM3M
 
 新竹 龍山東路 圓環
 https://www.facebook.com/share/x7UeUm4rVQJRz4K1/
+
+新竹高中
+https://www.facebook.com/share/19Y8G3x9yX/?
 
 新竹
 https://www.facebook.com/story.php?story_fbid=pfbid0YHMSn8SxNPH1jTX1XWETbs6J151cBW8TYoZj6aiEudZ2cL1Px5gMLCoztb67PCeyl&id=100049204915573&mibextid=qC1gEa
@@ -497,11 +548,17 @@ https://www.facebook.com/share/p/NXPAL2zBooXD7C6R/
 彰化 中華西路 曉陽路
 https://www.facebook.com/share/HjdDxYmUP6fw9Xut/?mibextid=WC7FNe
 
+彰美路
+https://www.facebook.com/permalink.php?story_fbid=pfbid0wmeD5MnSf2arBKCNxchuai7GEFNFCaS2kJy3TguUTB5gkBZdHPy5bfSTXaz8KBHWl&id=61566165458960&locale=zh_TW
+
 彰化市三角公園
 https://www.facebook.com/ReTWRoad/photos/a.144368764239959/294776699199164/?type=3&mibextid=0cALme
 
 彰化市彰南路0k(中山路口)~3k(中彰路口)辦理交通改善
 https://www.facebook.com/watch/?v=642928451144026
+
+彰化大村
+https://www.facebook.com/share/1A4wk8pB1Q/?mibextid=wwXIfr
 
 彰化縣永靖鄉瑚璉路多福路口
 https://www.facebook.com/share/xjrxPQUt8hkEiRvv/
@@ -547,6 +604,9 @@ https://www.facebook.com/photo.php?fbid=992418499074971&set=a.601575628159262&ty
 
 臺南高鐵附近，行穿線沒有斜坡進入實體人行道
 https://www.facebook.com/story.php?story_fbid=10160372095968462&id=536028461
+
+學甲
+https://www.facebook.com/share/15TiDSRf57/
 
 臺南圓環 湯德章
 https://www.facebook.com/share/WmQcSEXdK1PpbKuH/
@@ -640,11 +700,17 @@ https://www.facebook.com/share/p/Lttd1rtdL6cxXAXv/
 高雄市三民路
 https://www.facebook.com/100063689095329/posts/pfbid0eUBgBK7PYiy8Znz7CKnXwjZgQMdxhGy3vU3FZaik1UkqE6UrA7qyf1wrnXjNjxfgl/?mibextid=cr9u03
 
+高雄三民區
+https://www.facebook.com/share/p/15xFcZuNfL/?
+
 高雄河堤南路
 https://www.facebook.com/share/p/qeufqGexrRSQKT9S/
 
 高雄福壽宮附近的行穿線被阻隔
 https://www.facebook.com/share/p/LhNVDiKvxHvst2v4/
+
+高雄七賢
+https://www.facebook.com/share/p/15WCeM1zr5/
 
 高雄左營明潭路-環山路口
 https://www.facebook.com/groups/525658186189949/posts/713914577364308/
@@ -664,6 +730,15 @@ https://www.facebook.com/VisionZeroTW/posts/pfbid02tJBn3AkmVnzzhatzhwqqW5ZGZXKTU
 
 屏東民生路
 https://www.facebook.com/story.php?story_fbid=pfbid0je8YUrGjx8ScowFEzw7W6yhRPXCNBFoo83ES3uc6rTFwpLPk3rKQRZXZz7MtKwtTl&id=100063883987874&mibextid=qC1gEa
+
+東港嘉新路
+https://www.facebook.com/share/1Eoczs4U9V/?mibextid=wwXIfr
+
+東港 公車轉運站
+https://www.facebook.com/share/p/18DoMQdXCP/
+
+小琉球
+https://www.facebook.com/share/p/1A2mMXemRG/?mibextid=wwXIfr
 
 花蓮
 https://www.facebook.com/groups/525658186189949/permalink/610180067737760/
