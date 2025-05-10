@@ -88,16 +88,22 @@ https://gf-tw.pages.dev/collaborate
     實作細節（非技術背景可跳填）
 
 
-協作工具
+### 協作工具
 
-    github repo：https://github.com/bestian/gf-tw
+- github repo：https://github.com/bestian/gf-tw
 
-    hackfoldr 工作資料夾網址：
+- hackfoldr 工作資料夾網址：
 
-    google drive 共用資料夾網址：
+- google drive 共用資料夾網址：
 
 
-進度與 to-do
+### 進度與 to-do
+
+- https://github.com/bestian/gf-tw/issues
+
+---
+
+
 
    10/28小團隊討論先收集資料
    目前使用google表單的方式在FB台灣無麩質社團收集無麩質產品以及提供無麩質食品的餐廳資料,目前收集資料的速度緩慢
