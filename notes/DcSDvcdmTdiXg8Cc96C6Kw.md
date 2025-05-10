@@ -8,7 +8,6 @@ tags: GIS, 都市更新
 https://www.facebook.com/share/p/1LSewn31tS/
 
 ## 待登載資料
-- 補一個，金山南路二段159巷30號也是有增建電梯
 - 49 筆，臺北市私人住宅類 
     - https://uro.gov.taipei/News.aspx?n=9639D4A96F49BAFC&sms=B462987B049EF0B0&_CSN=06344202CAE09649
     - 圖卡資訊，要手動 key 出地址文字
