@@ -254,7 +254,7 @@ GitHub https://github.com/g0v/small_school_renaissance/
 - 偏遠地區國民中小學教育資料建置與教育生態分析研究
     <https://srda.sinica.edu.tw/file/24a4cce9-96be-4257-b6e6-bb988ae7f0be>
 
-- 《強制移住：臺灣高山原住民的分與離》◎葉高華 著 https://reurl.cc/x6oz4e
+- 《強制移住：臺灣高山原住民的分與離》葉高華 著 https://reurl.cc/x6oz4e
 
 ## 學校名單
 
