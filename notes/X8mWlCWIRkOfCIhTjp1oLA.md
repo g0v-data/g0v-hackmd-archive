@@ -83,12 +83,6 @@ https://www.facebook.com/groups/twroadclub/permalink/2350197128493382/
 新北三重環河南路跟中正南路口有個實體分隔島 島的四周圍都有劃設人行空間 最外圍還插滿了棒棒糖 很少看到實體分隔島有如此的設計
 https://www.facebook.com/share/p/FuxSy8Nk9C9jdRCp/
 
-桃園市中壢，中山路延平路路口改善
-https://www.facebook.com/groups/twroadclub/permalink/2527761100736983/?mibextid=S66gvF
-
-桃園市育達，人行道
-https://www.facebook.com/groups/twroadclub/permalink/2520774578102302/?mibextid=S66gvF
-
 桃園中壢
 https://www.facebook.com/share/p/52oZhVzZ4rkZVhet/
 
