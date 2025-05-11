@@ -89,14 +89,9 @@ https://tyenews.com/2023/10/437249/?mibextid=Zxz2cZ&fbclid=IwAR1EAUrfvudOgq7nLJu
 減速臺
 https://www.facebook.com/groups/twroadclub/permalink/2510126345833792/?mibextid=S66gvF
 
-桃園火車站
-https://www.facebook.com/story.php?story_fbid=pfbid036AbYU8LoEYg2fzk9hP1KeaHeVr3Z95oAQRNAKyNLuQtA2ywvkUTmj5APRjPSUjSrl&id=100049204915573&mibextid=cr9u03
-
 竹東鎮仁愛路
 https://www.facebook.com/zhudongtownship/posts/pfbid0CVUk4EKhmEgEQLL4JBiAmHR7EqA5zSv1zWiC3rH4BtngavPiJ4LjPeiEy3YSkFJcl
 
-苗栗
-https://www.facebook.com/100064848694500/posts/pfbid02enmfYJVwvBRcR2p4Ka94BnWeEHj8ogNFFSvngVfdrXZfiGEgZehM7fLmYK749R62l/?mibextid=cr9u03
 
 台中 黎明路 左轉車道
 https://www.facebook.com/share/v/nqSVvzoXyfmST95V/
@@ -105,9 +100,6 @@ https://www.facebook.com/share/v/nqSVvzoXyfmST95V/
 https://www.facebook.com/share/p/mdSMy3YNyFH5buPK/
 
 東海的漢翔路
-
-臺中烏日
-https://www.facebook.com/share/p/UXEJYahXCEVZbd3j/
 
 
 南投縣竹山鎮台三線，行人庇護島工程，森竹加油站前已完工（尚未更新，但已更新附近[其他工程](https://news.ltn.com.tw/news/Nantou/paper/1582651)）
@@ -129,16 +121,11 @@ https://www.facebook.com/share/psQ6akS1i5M4rDVn/
 大埔路施作示範友善人行道
 https://www.facebook.com/CHreporter2020/posts/pfbid08nJz9YcEdQoVFiF5aJu5vAoMWkPjHa2NygQKF3Yg9HW5A3vEZrQGXQuAgPfiRLp4l?locale=zh_TW
 
-雲林斗六
-https://www.facebook.com/100063760886799/posts/pfbid02KgiKRT3mAruj36EeMgqmLwvH5Ehbf2gxaPxpY5N4ybeej9Ac6xnMfPn9Q9wLnbF3l/?mibextid=cr9u03
 
 臺南北門
 https://www.facebook.com/share/p/2ivg8vaxYD9c6GwS/
 
 臺南 健康路 https://www.facebook.com/share/p/1BNs5gWKAu/
-
-台南佳里
-https://www.facebook.com/share/p/JtiniXMdqyYaMDSx/
 
 臺南甲頂路
 https://www.facebook.com/share/p/h5gocvfmDXVpetHy/
@@ -213,13 +200,6 @@ https://www.facebook.com/story.php?story_fbid=pfbid0kEdA3VBVjWniyJ7ytY68Xfb7Etap
 
 高雄文橫廣西路口社區圓環
 https://www.facebook.com/share/p/fXk64Cjy9qSgRA7h/
-
-
-屏東圓環
-https://www.facebook.com/100049204915573/posts/pfbid02EhbvNViDHVbhuyWusVEJYACV3mF6RM2zxZREbELLeRff76N986meDLLgfiEgxTJQl/
-
-加裝軟桿
-https://www.facebook.com/story.php?story_fbid=pfbid032t9nZTjR44Lw5LvFkqWP3arcfKfL4PfrHvocjzqCQBnxdCKpgNuDD2DZENjeccPnl&id=100049204915573&mibextid=qC1gEa
 
 東港 行人庇護島
 https://www.facebook.com/share/p/cKfUkuXLe4d3abui/
