@@ -11,7 +11,8 @@ Wii 模擬器Dolphin
 Win32DiskImager
 
 https://dr3c.net/h6-gamebox/
-
+擋廣告
+https://adguard.com/zh_tw/welcome.html?utm_campaign=home&utm_medium=license_activation&utm_source=android
 
 台灣小百岳
 https://catyc.pixnet.net/blog/post/63581416-%E5%8F%B0%E7%81%A3%E5%B0%8F%E7%99%BE%E5%B2%B3
@@ -27,6 +28,8 @@ https://web.jsps.kh.edu.tw/googlegame/
 
 
 #### 常用連結
+連播DoraA夢
+https://www.youtube.com/live/dgAEF2ppKg8?si=p-si6O8N2AbKzfVa
 打字練習1    https://worldofkeyboards.com/bopomofo
 打字練習2    https://typing.tw
 國字筆順    https://stroke-order.learningweb.moe.edu.tw/home.do?lang=zh_TW
