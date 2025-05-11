@@ -1,4 +1,4 @@
+https://bangkingvape.net/
 
-https://pufftequila.net/
-Puff Azul
-Humo Azul Vape réunit simplicité, style et performances exceptionnelles dans un seul appareil jetable élégant. Conçu pour les vapoteurs qui veulent une option facile à utiliser et fiable, Humo Azul offre jusqu'à 600 bouffées de vapeur douce et riche avec chaque appareil. Que vous soyez novice en vapotage ou à la recherche d'une alternative plus pratique à votre installation habituelle, Azul Vape rend facile de profiter d'une expérience de vapotage satisfaisante en déplacement. Sa gamme de saveurs, allant du menthol rafraîchissant aux délices fruités, garantit qu'il y en a pour tous les palais. Sans besoin d'entretien ni de remplissage, Puff Azul est parfait pour ceux qui recherchent une expérience de vapotage sans souci sans compromettre la saveur ou la qualité.
+Bang King is a leading vape brand specializing in disposable devices that provide vapers with a flavorful and convenient experience. With its extensive selection of flavors and intuitive design, Bang King makes vaping easy, enjoyable, and accessible to all. These high-performance vapes are crafted for smooth, consistent hits, ensuring a satisfying experience with every use. Whether you are just starting your vaping journey or are a seasoned enthusiast, Bang King offers a seamless and enjoyable vaping option for everyone.
+
