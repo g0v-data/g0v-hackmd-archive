@@ -5,15 +5,22 @@ tags: bubble tea
 
 台灣以珍珠奶茶聞名，而且有大量不同的飲料店。以下是相關的珍珠奶茶品牌與店家介紹，讓你可以依據喜好挑選珍珠奶茶。
 
+台湾と言えば、タピオカミルクティー🧋ですね！現地には本当にたくさんのタピオカ店があるので、何を選べばいいかわからなくなってしまうと思います。そこで私は、台湾タピオカガイドを執筆しました。
+
 Taiwan is famous also for the origin of boba tea, and since we have many different stores and brands, it might be confusing for you to choose. Therefore I wrote this guidance for your reference.
 
 :::warning
 聲明：本指南不構成任何商業廣告，而是由社群參與者協助基於個人的購買與使用經驗的分享。
+このガイドはプロモーションや報告を含みません。個人の意見に基づくお勧めになります
+
 Disclaimer: This guide does not constitute any commercial advertisement but is a compilation of personal purchasing and usage experiences shared by community participants.
 :::
 
 :::info
 點餐的訣竅：台灣飲料店可以客製化冰量與糖量。
+
+台湾のタピオカ店では氷の量と甘さのレベルを選択できます。私（胡桃）の感覚ですが、甘さ100%だととても甘いので、甘党でなければ甘さレベルは下げたほうがいいです。
+
 Ordering Tip: In Taiwanese beverage shops, you can customize the ice and sugar levels.
 from 0%-100%
 0% Ice / sugar: 去冰 Qu bing /無糖 wu tang
@@ -23,26 +30,28 @@ from 0%-100%
 100% Ice / sugar: 全冰 Quan bing / 全糖 Quan tang
 :::
 
-## 春水堂 Chun Shui Tang $$$
+## 春水堂 チュンスイタン　Chun Shui Tang $$$
 ![](https://g0v.hackmd.io/_uploads/rkmuS3F9yg.png)
 ![](https://g0v.hackmd.io/_uploads/SJpsS3tqJe.jpg)
 - 台灣最早的珍珠奶茶店之一，將原先的泡沫紅茶結合傳統冰品的 topping，發展出珍珠奶茶。除了飲料外，部分分店也提供台灣傳統餐食。
+- 日本では新宿ルミネエスト地下や原宿にあります。
 - One of Taiwan's earliest bubble tea shops, it combined the original foam black tea with traditional shaved ice toppings to create bubble tea. In addition to beverages, some locations also serve traditional Taiwanese dishes.
 - 適合想要尋找珍珠奶茶起源，或者是想要一起享受餐點的人，不過價位比其他店家還高。
 - It is ideal for those looking to explore the origins of bubble tea or enjoy a meal together. However, the prices are higher compared to other shops.
 - 推薦品項：珍珠奶茶
 - Recommended item: Bubble tea.
-## 50嵐 C-TEA $
+## 50嵐 ウーシューラン　C-TEA $
 ![](https://g0v.hackmd.io/_uploads/BJbL83Kc1e.jpg)
 
 ![](https://g0v.hackmd.io/_uploads/HkePtUht5kl.jpg)
 - 分店最多的飲料店，在國外也有很多分店。創造許多獨特的飲品，例如在紅茶中加入冰淇淋。價格實惠。
+- 日本にはありません。
 - The beverage shop with the most branches, including many international locations. It has created numerous unique drinks, such as adding ice cream to black tea. The prices are affordable.
 - 適合想要嘗試不同配料的人。
 - Ideal for those who want to explore different toppings and flavors.
 - 推薦品項：冰淇淋紅茶、重焙烏龍拿鐵
 - Recommended items: Ice Cream Black Tea, Roasted Oolong Latte.
-## 天仁茗茶 TENREN's Tea $$
+## 天仁茗茶 ティエンニンミンチャ　TENREN's Tea $$
 ![](https://g0v.hackmd.io/_uploads/B1vId3Yc1g.png)
 
 ![](https://g0v.hackmd.io/_uploads/HyqOu2F51x.jpg)
@@ -62,12 +71,13 @@ from 0%-100%
 - Ideal for those who enjoy innovation and want to try something different.
 - 推薦品項：濃乳茶、紅柚翡翠。
 - Recommended items: Rich Milk Tea, Ruby Grapefruit Green Tea.
-## 都可 Coco $
+## 都可 ココトカ　Coco $
 ![](https://g0v.hackmd.io/_uploads/r1Un52tqJx.jpg)
 
 ![](https://g0v.hackmd.io/_uploads/ryeBBohFqJe.jpg)
 
 - 價格實惠，品項多樣。如果想要享受豐富的配料，都可是你的不二選擇。都可也在大英博物館門口設有分店XD 
+- 日本には高田馬場などにあります。
 - Affordable prices and a diverse menu. If you love a variety of toppings, this is the perfect choice for you. They even have a store right outside the British Museum!
 - 適合想以實惠價格享受豐富味覺感受的人！
 - Ideal for those who want to enjoy a rich taste experience at an affordable price!
