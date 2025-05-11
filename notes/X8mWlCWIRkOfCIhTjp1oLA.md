@@ -92,9 +92,6 @@ https://tyenews.com/2023/10/437249/?mibextid=Zxz2cZ&fbclid=IwAR1EAUrfvudOgq7nLJu
 減速臺
 https://www.facebook.com/groups/twroadclub/permalink/2510126345833792/?mibextid=S66gvF
 
-桃園 永豐路
-https://www.facebook.com/100069591429765/posts/pfbid04a5eCjw62Lqkct43pmtCBC8pXcpyoTBQPhHvfnxdosP1V6Pmo7Vxbe7fsoz5esvNl/
-
 桃園火車站
 https://www.facebook.com/story.php?story_fbid=pfbid036AbYU8LoEYg2fzk9hP1KeaHeVr3Z95oAQRNAKyNLuQtA2ywvkUTmj5APRjPSUjSrl&id=100049204915573&mibextid=cr9u03
 
@@ -224,11 +221,6 @@ https://www.facebook.com/share/p/fXk64Cjy9qSgRA7h/
 屏東圓環
 https://www.facebook.com/100049204915573/posts/pfbid02EhbvNViDHVbhuyWusVEJYACV3mF6RM2zxZREbELLeRff76N986meDLLgfiEgxTJQl/
 
-
-潮州圓環
-https://www.facebook.com/story.php?story_fbid=pfbid027Md8XAh57C1xDKUvdAraAtBJy2xVNW9wg4m6nMcwcDCHB25Txo7dv4Un5JKXiD1Tl&id=100049204915573&mibextid=qC1gEa
-【潮州圓環新設交通標線惹議 現勘後決議續行2個月再調整】
-https://bit.ly/3npN8YZ
 加裝軟桿
 https://www.facebook.com/story.php?story_fbid=pfbid032t9nZTjR44Lw5LvFkqWP3arcfKfL4PfrHvocjzqCQBnxdCKpgNuDD2DZENjeccPnl&id=100049204915573&mibextid=qC1gEa
 

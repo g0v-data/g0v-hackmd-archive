@@ -44,9 +44,13 @@ tags: 新生流域
 https://www.facebook.com/media/set?set=oa.409037272263694&type=3
 
 #### 歷史素材待指認並標記到地圖上
+
+
 - 大龍國小 考古遺址 https://www.facebook.com/share/p/ur8bQUwcWTGofBMi/
 - 大龍峒發現新石器時代的「訊塘埔文化遺址」
-- 歷史地圖https://www.facebook.com/share/p/ZHmx9jxcTKPgYpad/
+- 歷史地圖 https://www.facebook.com/share/p/ZHmx9jxcTKPgYpad/
+
+
 - 重劃區
     - https://www.facebook.com/groups/582154450196478/posts/852093193202601/
     - https://epaper.land.gov.taipei/Item/Detail/%E5%B9%B3%E5%9D%87%E5%9C%B0%E6%AC%8A%E5%9F%BA%E9%87%91%E3%80%81%E9%87%8D%E5%8A%83%E7%9B%88%E9%A4%98%E6%AC%BE%E5%9F%BA%E9%87%91%E5%A4%A7%E4%B8%8D%E5%90%8C
@@ -57,13 +61,16 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
         - https://easymap.land.moi.gov.tw/W10Web/Normal
 - 道路各段開闢的 polygon 開闢年代
     - 例如忠孝東路、基隆路
-- 評估是否數化
-    - 新生大排興建前的時期的水路概況
-        - 可挑選 1904 日治二萬分之一台灣堡圖(明治版)	
+- [重要] 評估數化新生大排興建前的時期的水路概況
+    - 可挑選 1904 日治二萬分之一台灣堡圖(明治版)	
+
+單筆素材
 - 待查找老照片位置、標記、歷史素材
     - 太古巢 河邊舊址 https://youtu.be/eRaDSA-qaxk
     - 東門護城河溝 https://www.facebook.com/105231068229012/photos/a.105265611558891/312616044157179/?type=3&mibextid=cr9u03
-    - 臺北賓館 水池 https://www.facebook.com/share/p/Bd6WttVngBiUjYdz/
+    - 大浪泵溪 
+        - https://www.facebook.com/share/p/ki8m7BEEv2vCjkP8/
+        - https://www.facebook.com/share/p/JCAALx7RaBHAmkNm/
     - 大正町照片，似乎是有溝渠？
         - http://whatagodday.blogspot.com/2023/05/2023_16.html
     - 臺北給水工事設計報告書，臺灣總督府公文類纂
@@ -82,14 +89,6 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 1938 照片 現今 中正國小 https://www.facebook.com/share/p/e6cWnonp5iqfq8UW/
     - 照片，莒光路 93 巷，https://www.facebook.com/share/p/RYrsD7EgmGJxZFCY/
     - 延吉街241巷15號（陳永成宅）陳永成公廳 https://www.facebook.com/photo.php?fbid=10150261926963618&id=747873617&set=a.10151834790708618&mibextid=qC1gEa
-    - 大浪泵溪 https://www.facebook.com/share/p/ki8m7BEEv2vCjkP8/
-        - https://www.facebook.com/share/p/JCAALx7RaBHAmkNm/
-    - 1900 照片，北門與護城河 https://www.facebook.com/share/p/QXoJXgeDdtwuDSAu/
-    - 1930 古亭市場 http://linchunsheng.blogspot.com/2011/02/blog-post_05.html
-    - 住宅 https://www.facebook.com/share/p/Nn41VWhUuaLkPzra/?mibextid=WC7FNe
-    - 師大校區附近 舊照片 https://www.facebook.com/share/amDFgDNNDrzzKVZk/
-    - 古莊里 農業時期照片 https://photos.app.goo.gl/Lzzpiu6ryQoGXQNv7
-    - 日式房舍 活化使用 https://www.facebook.com/share/p/18MVUNa3pB/?mibextid=wwXIfr
     - 1933 水源地與新店溪照片 https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=483057&keyword=%E6%96%B0%E5%BA%97%E6%BA%AA&limit=24&offset=144&sort=relevance&order=desc&isFuzzyMode=false&query=%7B%22format%22:%22%E5%9C%96%E5%83%8F%22%7D&recOffset=156&fbclid=IwZXh0bgNhZW0CMTEAAR0DzJAa0ad6QHxw_u3IBiNJRhs6t9ghTNWgqfc0aTXSN5nL1lhadeneKSk_aem_kyVG8A54Mcm4Ow7gULXF3g
         - 2024 對照拍攝 https://www.facebook.com/share/gAPPsZdwJrEHVUR4/
     - 1940 台北市公車路線圖 https://www.facebook.com/share/aUeANjUcrTVifzGx/
@@ -121,7 +120,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 照片 懷恩堂 https://memory.culture.tw/Home/Detail?Id=631088&IndexCode=online_metadata
     - 影片 56:46 段落，提到 北科大校門歷年移動，與大排有關 https://youtu.be/fyXjkOdDHUQ
     - 影片 01：05:29 有北科大校門水路照片 https://youtu.be/fyXjkOdDHUQ
-    - 影片 01:55 台大鳥瞰https://youtu.be/fyXjkOdDHUQ
+    - 影片 01:55 台大鳥瞰 https://youtu.be/fyXjkOdDHUQ
     - 照片 1953 新生國小前身三軍托兒所 https://www.facebook.com/share/whuZH4rg437vDpuk/
     - 重要 照片 1956 新生南路三段,海源冰店 便橋 https://m.mobile01.com/topicdetail.php?f=37&t=5053330
     - 新生北路 房舍 https://www.facebook.com/share/p/a6UWsAvP8GJV3tk3/
@@ -179,7 +178,6 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 2009 新生高架橋修繕與通車 https://youtu.be/GHbVQPuPM3o
     - 圓山保齡球館 https://www.facebook.com/story.php?story_fbid=pfbid0KpH3ackA2iep9ZGL8moDwnRTWPx7RgTymnpkrXLGv8sTk8PMQ4YhT9kp4SGavS8Bl&id=747873617&mibextid=qC1gEa
     - 待確認 影片中 7:21 是否為新生北路地區 https://youtu.be/ok5qC4lQfNI
-    - 線上地圖中，已有先標記出需要查找興建年份的建物 
     - 南京東路解說牌 
         - http://classic-blog.udn.com/webman/23384882
     - 陳茂通故居 https://youtu.be/6AeKzDIdeh4
@@ -187,11 +185,9 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
         - https://www.facebook.com/story.php?story_fbid=pfbid0iAANmJENsDwgsJZ3AGZpzxxjj6fGMne2irsqmXQ5mKRt4qdWNkbdHGNeFwE6A3CCl&id=100064688648904&mibextid=qC1gEa
     - 追尋都市史之足跡：臺北「近代都市」之構成，書中有談到特一號大排 
         - https://tm.ncl.edu.tw/article?u=022_001_00000045&lang=chn
-    - http://163.29.38.114/DaanRead2013/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/%E7%91%A0%E5%85%AC%E5%9C%B3%E7%BE%8E%E9%BA%97%E8%AE%8A%E8%BA%AB%E4%B8%89%E6%AD%A5%E6%9B%B2.pdf
     - 新生南大排斷面防空壕點 https://www.xuite.net/blog/cst125kimo105/twblog/168260920 
     - 影片 19:11 仁愛圓環上空 https://youtu.be/1c27mFay6eI
     - 影片 4:03 松山機場上空 https://youtu.be/1c27mFay6eI
-    - 影片 02:31:44 殷海光故居庭院水路 https://youtu.be/fyXjkOdDHUQ
     - 台大明達館附近的 1936 民宅照片 https://www.flickr.com/photos/ntuhistorygallery/2577465266/in/album-72157605606822637/
     - 濟南路，楊德昌故居 https://www.facebook.com/share/p/oXyAQfcL4JZCEUaP/
     - 嘉興街403巷 
