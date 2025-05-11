@@ -144,6 +144,9 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
         - https://www.facebook.com/ZhangZheSheng/photos/a.10152144402114531/10152335556574531/
     - 南門市場 https://www.facebook.com/story.php?story_fbid=pfbid06SiBHainaz16WCRPd8wksEm1cJjaxbHNwjfAg4cdKmmxZQLvdXP5MGHJMbisTJnVl&id=100066441370310
     - 敦化北路照片https://www.facebook.com/photo.php?fbid=10150903561658618
+    - 1961 敦化南路示範國民住宅計劃
+        - https://www.facebook.com/photo/?fbid=6850263598390831&set=a.460224687394786
+        - https://www.facebook.com/photo/?fbid=6850263558390835&set=a.460224687394786
     - 1975-1976 敦化南路與林安泰古厝 https://www.facebook.com/share/p/YSscboMCyni5K3SU/
     - 19 照片敦化南路一段187巷大樓興建 https://www.facebook.com/share/VpgAXY2kP1VHQYee/
     - 重要 照片，冰店與新生大排便橋，新生南路三段42號 
@@ -196,6 +199,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
         - https://www.facebook.com/groups/582154450196478/posts/919837806428139/
     - 六張犁福德宮 https://www.facebook.com/share/r/LwR8K7V9oGYEo4p2/
     - 1984 照片 瑠公圳第一幹線 https://www.facebook.com/share/15HMgto9j4/
+    - 1984 大安國宅 https://www.facebook.com/photo/?fbid=6850263741724150&set=a.460224687394786
     - 找 安和路 路名由來，安河？
     - https://gpi.culture.tw/books/3911000005
     - http://www.artofwar-tw.org/bboard/viewtopic.php?t=16454&start=390
@@ -204,7 +208,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - https://www.facebook.com/groups/582154450196478/posts/745578033854118/
     - https://www.facebook.com/groups/582154450196478/posts/745578573854064/
     - http://www.artofwar-tw.org/bboard/viewtopic.php?t=16454&start=15
-    - 螢橋火車站，照片https://www.facebook.com/share/p/aS6dRMY34fTDcjLF/
+    - 螢橋火車站，照片 https://www.facebook.com/share/p/aS6dRMY34fTDcjLF/
     - 南大同，鍾肇政 文學作品 
         - https://www.facebook.com/story.php?story_fbid=pfbid02yTiKeryup9QmD4gyH5GV7eyW4khLyrW4JyBXPwjtNyucRr1fx453e1i55BBPGUj8l&id=100063860644340&mibextid=qC1gEa
     - 中山橋 https://youtu.be/bTe7QXPkC8w
