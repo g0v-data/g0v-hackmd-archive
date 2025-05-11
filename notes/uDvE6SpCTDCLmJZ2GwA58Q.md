@@ -43,29 +43,26 @@ tags: 新生流域
 
 https://www.facebook.com/media/set?set=oa.409037272263694&type=3
 
-#### 歷史素材待指認並標記到地圖上
-
-
-- 大龍國小 考古遺址 https://www.facebook.com/share/p/ur8bQUwcWTGofBMi/
-- 大龍峒發現新石器時代的「訊塘埔文化遺址」
-- 歷史地圖 https://www.facebook.com/share/p/ZHmx9jxcTKPgYpad/
-
-
-- 重劃區
-    - https://www.facebook.com/groups/582154450196478/posts/852093193202601/
-    - https://epaper.land.gov.taipei/Item/Detail/%E5%B9%B3%E5%9D%87%E5%9C%B0%E6%AC%8A%E5%9F%BA%E9%87%91%E3%80%81%E9%87%8D%E5%8A%83%E7%9B%88%E9%A4%98%E6%AC%BE%E5%9F%BA%E9%87%91%E5%A4%A7%E4%B8%8D%E5%90%8C
-    - 市區改正範圍、臺北城內市區計畫、城外南方市區計畫、東門
-        - 劃出範圍？
-    - 日治時期的重劃區：1937 御成町重劃區、1938 幸町重劃區、1939 敕使街道沿線重劃區、1942 第三高女附近重劃區、1943 水道町重劃區、1943 三張犁道路沿線重劃區，翻拍來源《臺北市近代都市之建構》
-    - 國民政府時期的重劃區，可以查詢線上地圖　
-        - https://easymap.land.moi.gov.tw/W10Web/Normal
-- 道路各段開闢的 polygon 開闢年代
-    - 例如忠孝東路、基隆路
+#### 整體系統型的素材
 - [重要] 評估數化新生大排興建前的時期的水路概況
     - 可挑選 1904 日治二萬分之一台灣堡圖(明治版)	
+- 重劃區
+    - 主要蒐集貼文 https://www.facebook.com/groups/582154450196478/posts/852093193202601/
+    - 第一階段：市區改正範圍、臺北城內市區計畫、城外南方市區計畫、東門
+        - 劃出範圍？
+    - 第二階段：日治時期的重劃區：1937 御成町重劃區、1938 幸町重劃區、1939 敕使街道沿線重劃區、1942 第三高女附近重劃區、1943 水道町重劃區、1943 三張犁道路沿線重劃區，翻拍來源《臺北市近代都市之建構》，請見貼文
+    - 第三階段：國民政府時期的重劃區，可以查詢線上地圖　
+        - https://easymap.land.moi.gov.tw/W10Web/Normal
+        - 介紹平均地權基金、重劃抵費地基金　
+            - https://epaper.land.gov.taipei/Item/Detail/%E5%B9%B3%E5%9D%87%E5%9C%B0%E6%AC%8A%E5%9F%BA%E9%87%91%E3%80%81%E9%87%8D%E5%8A%83%E7%9B%88%E9%A4%98%E6%AC%BE%E5%9F%BA%E9%87%91%E5%A4%A7%E4%B8%8D%E5%90%8C
+- 道路各段開闢的 polygon 開闢年代
+    - 例如忠孝東路、基隆路
 
-單筆素材
+#### 單筆素材
 - 待查找老照片位置、標記、歷史素材
+    - 大龍國小 考古遺址 https://www.facebook.com/share/p/ur8bQUwcWTGofBMi/
+    - 大龍峒發現新石器時代的「訊塘埔文化遺址」
+    - 歷史地圖 https://www.facebook.com/share/p/ZHmx9jxcTKPgYpad/
     - 太古巢 河邊舊址 https://youtu.be/eRaDSA-qaxk
     - 東門護城河溝 https://www.facebook.com/105231068229012/photos/a.105265611558891/312616044157179/?type=3&mibextid=cr9u03
     - 大浪泵溪 
@@ -94,7 +91,6 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 1940 台北市公車路線圖 https://www.facebook.com/share/aUeANjUcrTVifzGx/
         - 公車照片 https://www.facebook.com/share/p/ubpFZ5weChXnGQ2t/
     - 1932 照片鳥瞰 臺灣神社 https://www.facebook.com/share/p/B8tYT1UVD3u4z5sn/
-    - 晴園 https://www.facebook.com/share/1PqwQSziY1/?mibextid=wwXIfr
     - 照片，駐台美軍William Eggert 的C-130運輸機從松山機場往西起飛後到達現在花博公園美術園區(即天橋東邊)時由駕駛艙左側向東南方拍攝的。當時新生北路高架橋還沒建。照片內有德惠街雙城街口
         - https://www.facebook.com/share/p/ivdDxFZRiP231DZL/
     - 照片 建國啤酒廠 https://www.facebook.com/share/rooSpYXJMWnnLBf8/

@@ -81,9 +81,6 @@ https://www.facebook.com/groups/twroadclub/permalink/2350197128493382/
 新北三重環河南路跟中正南路口有個實體分隔島 島的四周圍都有劃設人行空間 最外圍還插滿了棒棒糖 很少看到實體分隔島有如此的設計
 https://www.facebook.com/share/p/FuxSy8Nk9C9jdRCp/
 
-桃園中壢
-https://www.facebook.com/share/p/52oZhVzZ4rkZVhet/
-
 
 桃園市中壢區減速臺
 https://tyenews.com/2023/10/437249/?mibextid=Zxz2cZ&fbclid=IwAR1EAUrfvudOgq7nLJumJtRVV_uBCLPpT_wOaIItl_ULopl2YyVJMjogJUA_aem_AYvw5ONgfuJ_ky1bdSXVztRPQg_sd2Sa3HruChGNDAi4YUckfur_mTEIeFunHUjPFds
@@ -749,6 +746,8 @@ https://www.facebook.com/TaiwanTrafficSafeAssociation/posts/pfbid0cCWCvPLmdDYqjw
 - 112年度人本道路網站建置案 https://ronnywang.github.io/pcc-viewer/tender.html?unit_id=3.1.2&job_number=112-G201-0101-0000-4210&date=20230605&filename=BDM-1-70308134
 - 112年度「人行道系統維運計畫」 https://ronnywang.github.io/pcc-viewer/tender.html?unit_id=3.1.2&job_number=112-G201-0101-0000-4240&date=20230617&filename=BDM-1-70318422
 - 市區綠道路認證評估作業前期規劃 https://ronnywang.github.io/pcc-viewer/tender.html?unit_id=3.1.2&job_number=112-G201-0101-0000-4270&date=20230626&filename=BDM-1-70322575
+- 內政部國土管理署人本度陸資訊網 https://myway.nlma.gov.tw/index.php
+  - 主要業務連接有已完成案例
 
 
 ### 交通部
