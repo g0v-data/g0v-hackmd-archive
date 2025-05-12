@@ -74,10 +74,6 @@ https://youtu.be/AyZcbFMyCLI
 https://www.facebook.com/share/p/8QFfGDPyTnuj3ywu/
 https://www.facebook.com/share/v/QKNqdAvtoNMxatcy/
 
- 
-三重
-https://www.facebook.com/groups/twroadclub/permalink/2350197128493382/
-
 新北三重環河南路跟中正南路口有個實體分隔島 島的四周圍都有劃設人行空間 最外圍還插滿了棒棒糖 很少看到實體分隔島有如此的設計
 https://www.facebook.com/share/p/FuxSy8Nk9C9jdRCp/
 
@@ -191,6 +187,9 @@ https://www.facebook.com/story.php?story_fbid=pfbid0kEdA3VBVjWniyJ7ytY68Xfb7Etap
 
 東港 行人庇護島
 https://www.facebook.com/share/p/cKfUkuXLe4d3abui/
+
+東港 朝隆路
+https://www.facebook.com/watch/?v=972544735089428
 
 
 
