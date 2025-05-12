@@ -1,61 +1,44 @@
-[Alo88](http://alo8838.com) hoạt động hợp pháp dưới sự giám sát của tổ chức cá cược quốc tế, bảo đảm sự công bằng và minh bạch trong mọi trò chơi.
-Địa chỉ: 222 Đại lộ Bình Dương, Phú Hoà, Thủ Dầu Một, Bình Dương
-SĐT: 0937468277
-Website: http://alo8838.com
-Người sáng lập/CEO: Nguyễn Tuấn Long
-Các dịch vụ cung cấp: Cá cược thể thao, lô đề, casino live
-Điểm nổi bật: Tốc độ thanh toán chỉ 3 giây, tích hợp AI soi kèo
-Hastag: #Alo88 #NhàCáiUyTín #Alo88_2025 #Alo88casino
-Social
-https://alo8838.pixnet.net/blog/post/183380227
-https://www.bark.com/en/gb/company/alo88/kw288y/
-https://www.band.us/@alo8838
-https://qna.habr.com/user/alo8838
-https://www.threadless.com/@alo8838/activity
-https://linkr.bio/alo8838
-https://alo8838.tistory.com/1
-https://jsfiddle.net/alo8838/f06emx5k/
-https://pub41.bravenet.com/forum/static/show.php?usernum=3501574107&frmid=26&msgid=979760&cmd=show
-https://s.id/alo8838
-https://lit.link/en/alo8838
-https://devpost.com/evilppman851
-https://vc.ru/id4903506
-https://diigo.com/0zmf2l
-https://qiita.com/alo8838
-https://md.darmstadt.ccc.de/s/NA1FqUJ_z
-https://3dwarehouse.sketchup.com/by/alo8838
-https://website.informer.com/alo8838.com
-https://anyflip.com/homepage/citty
-https://www.iconfinder.com/user/alo8838
-https://lu.ma/user/alo8838
-https://www.themoviedb.org/u/alo8838
-https://wakelet.com/@alo8838
-https://hashnode.com/@alo8838
-https://coolors.co/u/alo8838
-https://www.magcloud.com/user/alo8838
-https://www.skool.com/@alo-com-3185
-https://codeberg.org/alo8838
-https://www.storenvy.com/alo8838
-https://crowdin.com/project/alo8838
-https://www.instapaper.com/p/alo8838
-https://forum.acronis.com/user/825026
-https://leetcode.com/u/alo8838/
-https://jali.me/alo8838
-https://club.doctissimo.fr/alo8838/
-https://muckrack.com/alo88-com/bio
-https://www.podchaser.com/users/alo8838
-https://pubhtml5.com/homepage/ggsco/
-https://www.beatstars.com/alo8838
-https://hackmd.io/@alo8838/SJtg5r3eee
-https://www.bitchute.com/channel/AzB0EfQumu02/#channel-about
-https://odysee.com/@Alo88:3c6cf4507f169853077ca986a5948e1939ffd577?view=about
-https://mez.ink/alo8838
-https://forum.codeigniter.com/member.php?action=profile&uid=167351
-https://pbase.com/alo8838
-https://solo.to/alo8838
-http://forum.446.s1.nabble.com/Alo88-td44253.html
-https://slides.com/alo8838/alo88/
-https://www.zerohedge.com/user/SWyydF6Kn1XcxyLKKos991f6vxl1
-https://alo8838.hashnode.dev/
-https://www.plurk.com/alo8838
-https://community.dynamics.com/profile/?userid=274eee14-792d-f011-8c4e-6045bdd33780
+<a href="https://8day.taxi/">8day</a> là nhà cái trực tuyến lý tưởng cho cược thủ Việt, nổi bật với tỷ lệ kèo hấp dẫn, bảo mật tuyệt đối và khuyến mãi lên tới 150% cho thành viên mới. Tham gia ngay để không bỏ lỡ cơ hội làm giàu mỗi ngày.
+Địa chỉ: Ngh. 83/14 Đ. Tân Triều, Tân Triều, Thanh Trì, Hà Nội, Việt Nam
+SĐT: 0915873825
+Website:<a href="https://8day.taxi/">https://8day.taxi/</a>
+Người sáng lập/CEO: Klaus Hồ
+Các dịch vụ cung cấp: Casino online, quay hũ đổi thưởng, cá cược thể thao, bắn cá đổi thưởng, 
+Điểm khác biệt: Tặng thưởng theo cấp VIP, app siêu nhẹ dưới 20MB
+Hastag: #8day #8daytaxi #8daycom #nhacai8day #trangchu8day #8dayclub #8daypro
+Social: 
+<a href="https://www.facebook.com/8daytaxi/">https://www.facebook.com/8daytaxi/</a>
+<a href="https://www.youtube.com/@8daytaxi">https://www.youtube.com/@8daytaxi</a>
+<a href=""></a>
+<a href="https://www.pinterest.com/8daytaxi/">https://www.pinterest.com/8daytaxi/</a>
+<a href="https://www.reddit.com/user/ResponsibleSearch185/">https://www.reddit.com/user/ResponsibleSearch185/</a>
+<a href="https://x.com/8daytaxi">https://x.com/8daytaxi</a>
+<a href="https://www.tumblr.com/8daytaxi">https://www.tumblr.com/8daytaxi</a>
+<a href="https://www.behance.net/8daytaxi">https://www.behance.net/8daytaxi</a>
+<a href="https://www.flickr.com/photos/202791372@N06/54508915919/in/dateposted/">https://www.flickr.com/photos/202791372@N06/54508915919/in/dateposted/</a>
+<a href="https://soundcloud.com/8daytaxi">https://soundcloud.com/8daytaxi</a>
+<a href="https://sites.google.com/view/8daytaxi/home">https://sites.google.com/view/8daytaxi/home</a>
+<a href="https://www.twitch.tv/8daytaxi/about">https://www.twitch.tv/8daytaxi/about</a>
+<a href=""></a>
+<a href="https://issuu.com/8daytaxi">https://issuu.com/8daytaxi</a>
+<a href="https://www.producthunt.com/@8daytaxi">https://www.producthunt.com/@8daytaxi</a>
+<a href="https://500px.com/p/8daytaxi">https://500px.com/p/8daytaxi</a>
+<a href="https://about.me/taxi8day">https://about.me/taxi8day</a>
+<a href=""></a>
+<a href="https://github.com/8daytaxi">https://github.com/8daytaxi</a>
+<a href="https://8daytaxi.wixsite.com/8day">https://8daytaxi.wixsite.com/8day</a>
+<a href="https://8daytaxi.wordpress.com/">https://8daytaxi.wordpress.com/</a>
+<a href="https://8daytaxi.bandcamp.com/album/8day">https://8daytaxi.bandcamp.com/album/8day</a>
+<a href=""></a>
+<a href="https://plaza.rakuten.co.jp/8daytaxi/diary/202505100000/">https://plaza.rakuten.co.jp/8daytaxi/diary/202505100000/</a>
+<a href="https://pixabay.com/users/8daytaxi-50200160/">https://pixabay.com/users/8daytaxi-50200160/</a>
+<a href="https://gitlab.com/8daytaxi">https://gitlab.com/8daytaxi</a>
+<a href="https://www.pexels.com/@8day-taxi-2152085658/">https://www.pexels.com/@8day-taxi-2152085658/</a>
+<a href="https://scholar.google.com/citations?user=Z2drx9gAAAAJ&hl=vi">https://scholar.google.com/citations?user=Z2drx9gAAAAJ&hl=vi</a>
+<a href=""></a>
+<a href="https://linktr.ee/8daytaxi">https://linktr.ee/8daytaxi</a>
+
+
+
+
+
