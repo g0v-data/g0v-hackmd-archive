@@ -88,6 +88,8 @@ https://www.ca.gov.mo/files/PA4119cn.pdf
 ## 佛系Q&A
 有咩問題，係呢度寫，時間到了，自然會有人回答你。或者去[澳門公務員Secrets](https://www.facebook.com/CivilServantSectets.macau) (已停止更新) 提問，都可以使用放大鏡搜尋過往相關的話題。又或者到呢度睇下收集的問題：[正苦工問題集](https://docs.google.com/document/d/1CMnw_J-lqW1LoAESxu-IrGieoqcqd14K9kXrRzfVHUY/edit?usp=sharing)。
 
+### 想問一下，如果已接受咗一個局嘅Offer，可以在未入職時接受第二個局嘅offer 然後唔要第一個局的offer嗎？
+
 ### 想問一下，成績有效期兩年，120個人排位，全部有補位嘅情況係唔係好罕有？
 
 睇時勢，睇職級。但考完，不如就忘左佢，繼續努力。
