@@ -29,6 +29,15 @@ Takedown:
 
 ### [Op] Automatic takedown
 
+> Nonumpa
+
+### [Op] API access management
+
+https://g0v.hackmd.io/@cofacts/rd/%2F51wwLHgvSUqtBDaP-yAVnA
+
+- Review Rollout plan
+- 做到 2?
+
 ### [Comm] Cofacts.ai
 
 New initialtive - https://g0v.hackmd.io/mU8qi721RZeAQ9PDfj7XRA?view#Cofactsai

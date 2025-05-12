@@ -186,8 +186,6 @@ https://youtu.be/poXjq435604
 
 https://www.facebook.com/share/p/JS85yvMgCu9GCwaF/
 
-高雄市 巷弄圓環
-https://www.facebook.com/ReTWRoad/posts/pfbid02U2NsTaL1ENFsBF9vaYtdRe8sS4GXcRxxT95n45dpF1A4Nq4SP2QuD7cEFmfkESPJl
 
 高雄市圓環
 https://www.facebook.com/share/cZDtADU7JQcdMt8G/
@@ -197,9 +195,6 @@ https://www.facebook.com/story.php?story_fbid=pfbid0oW43sNAbPJN7ZvaF25nQXCJ2SkDT
 
 左營，計畫道路調整，搭配既有圓環
 https://www.facebook.com/story.php?story_fbid=pfbid0kEdA3VBVjWniyJ7ytY68Xfb7EtaphhwxeQrc46Bt3VfxcgDyGxpz3UZRjSdC91uql&id=100000571470160&mibextid=qC1gEa
-
-高雄文橫廣西路口社區圓環
-https://www.facebook.com/share/p/fXk64Cjy9qSgRA7h/
 
 東港 行人庇護島
 https://www.facebook.com/share/p/cKfUkuXLe4d3abui/
