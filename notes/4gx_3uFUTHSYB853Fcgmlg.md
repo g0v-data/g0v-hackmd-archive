@@ -25,33 +25,51 @@ Takedown:
 
 > EJ
 
+- API Enhancement:
+
+    - Revoke badge for the user : DELETE /badge/award
+        ```
+        { 
+            "userId": "ZLcNiZIBDfH0hhhZCB-7",
+            "badgeId": "BYiaQZQBpiYdBld_UVwg"
+        }
+        ```
+        
+- UI/UX Enhancement: 
+    - user profile page UX enhance (change cursor on the badge name).
+    - add badge rewarded metadata section in the pop up, and only visible to the user.
+
+
+
 ## CCPRIP
 
 ### [Op] Automatic takedown
 
 > Nonumpa
 
-### [Op] API access management
-
-https://g0v.hackmd.io/@cofacts/rd/%2F51wwLHgvSUqtBDaP-yAVnA
-
-- Review Rollout plan
-- 做到 2?
-
 ### [Comm] Cofacts.ai
 
 New initialtive - https://g0v.hackmd.io/mU8qi721RZeAQ9PDfj7XRA?view#Cofactsai
 
 
-## Downtime
+### [Op] API access management
+
+https://g0v.hackmd.io/@cofacts/rd/%2F51wwLHgvSUqtBDaP-yAVnA
+
+- Review Rollout plan
+- 做到 step 2?
 
 ## Langfuse Clickhouse follow-up
 
+- Langfuse trace 列表會一直噴 error [name=mrorz]
+    - server log: ServerErrorHandler: Poco::Exception. Code: 1000, e.code() = 0, No thread available, Stack trace
+    - `max_connections` 從 16 --> 64 有改善
+
+
 ## Open165
 
+- 還沒畫圖 [name=mrorz]
 
-
-## 其他
 
 ### Google Cloud 來信要求升級 Gemini
 - 我們用 gemini-1.5-pro-002 可以到 9/24
