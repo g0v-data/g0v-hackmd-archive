@@ -30,18 +30,84 @@ See 'docker run --help'.
     ```
     HttpHeaders headers = new HttpHeaders();
     headers.setContentType(MediaType.APPLICATION_JSON);
-    HttpEntity<LinepushIndividual> entity = new HttpEntity<>(request物件,headers);
+    HttpEntity<request物件型態> entity = new HttpEntity<>(request物件,headers);
     ResponseEntity<res泛型結構物件<res物件DTO>> response = restTemplate.exchange(
         		url,
         		HttpMethod.POST,
         		entity,
         		new ParameterizedTypeReference<res泛型結構物件<res物件DTO>>() {});
     ```
-    如果沒有res泛型結構物件，
+    如果沒有res泛型結構物件，下面以回傳格式為byte[]舉例
     ```
     ResponseEntity<byte[]> response = restTemplate.exchange(
         		url,
         		HttpMethod.POST,
         		entity,
         		byte[].class);
+    ```
+    4.要確認是不是在request時格式錯誤或是jason轉譯失敗，可使用下面方法測試
+    ```
+    ObjectMapper mapper = new ObjectMapper();
+        try {
+			System.out.println("JSON payload: {}"+ mapper.writeValueAsString(request物件));
+		} catch (JsonProcessingException e) {
+			e.printStackTrace();
+		}
+    ```
+    5.下面為兩個restTemplate範例
+    ```
+    @Bean
+    public RestTemplate restTemplate(RestTemplateBuilder builder) {
+        return builder
+            .messageConverters(new MappingJackson2HttpMessageConverter())
+            .additionalInterceptors((request, body, execution) -> {
+            	System.out.println("Request URI: {}"+ request.getURI());
+            	System.out.println("Request Body: {}"+ new String(body, StandardCharsets.UTF_8));
+                return execution.execute(request, body);
+            })
+            .build();
+    }
+    ```
+    ```
+    @Bean("restTemplateDebug")
+    public RestTemplate restTemplateDebug() {
+        // 用 Buffering 包起來，允許 response body 被讀多次（攔截器可用）
+        RestTemplate restTemplate = new RestTemplate(
+            new BufferingClientHttpRequestFactory(new SimpleClientHttpRequestFactory())
+        );
+
+        // 加入攔截器
+        restTemplate.getInterceptors().add((request, body, execution) -> {
+        	System.out.println("➡️ Request URI: {}"+ request.getURI());
+        	System.out.println("➡️ Request Headers: {}"+ request.getHeaders());
+        	System.out.println("➡️ Request Body: {}"+ new String(body, StandardCharsets.UTF_8));
+
+            ClientHttpResponse response = execution.execute(request, body);
+
+            // 讀取 response body（一次性）
+            byte[] responseBody = response.getBody().readAllBytes();
+            String responseBodyStr = new String(responseBody, StandardCharsets.UTF_8);
+
+            System.out.println("⬅️ Response Status: {}"+ response.getStatusCode());
+            System.out.println("⬅️ Response Headers: {}"+ response.getHeaders());
+            System.out.println("⬅️ Response Body: {}"+ responseBodyStr);
+
+            // 包成新的 response 傳回（回填 body）
+            return new ClientHttpResponse() {
+                @Override public HttpStatusCode getStatusCode() throws IOException { return response.getStatusCode(); }
+                @Override public String getStatusText() throws IOException { return response.getStatusText(); }
+                @Override public void close() { response.close(); }
+                @Override public InputStream getBody() { return new ByteArrayInputStream(responseBody); }
+                @Override public HttpHeaders getHeaders() { return response.getHeaders(); }
+            };
+        });
+
+        return restTemplate;
+    }
+    ```
+    6.如果有多的restTemplate 可以命名Bean並在呼叫時使用Qualifier
+    ```
+    @Autowired
+	@Qualifier("Bean名稱")
+	private RestTemplate restTemplate;
     ```
