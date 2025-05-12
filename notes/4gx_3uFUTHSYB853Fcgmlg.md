@@ -30,6 +30,10 @@ GA: UA-98468513-3
 
 ### :rocket: Staging
 
+## Badge
+
+> EJ
+
 ## CCPRIP
 
 ### [Op] Automatic takedown

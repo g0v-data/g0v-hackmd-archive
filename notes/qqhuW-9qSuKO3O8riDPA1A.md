@@ -21,3 +21,27 @@ See 'docker run --help'.
 
 6. 問題描述: **如果docker部屬正常，但是結束後持續重啟**
 *解法:很高的機率是配製檔.config/.jason 出現格式錯誤(多或少逗點之類的)，如果有配置檔檢查指令，優先檢查其格式
+
+7. 問題描述:使用java restTemplate 呼叫API失敗
+* 解法:
+    1.call API 時使用 MappingJackson2HttpMessageConverter() 轉成jason
+    2.查看response如果 status是數字代表不是使用HttpStatus，如果是字串，如:success 或 error，才是
+    3.API呼叫方法
+    ```
+    HttpHeaders headers = new HttpHeaders();
+    headers.setContentType(MediaType.APPLICATION_JSON);
+    HttpEntity<LinepushIndividual> entity = new HttpEntity<>(request物件,headers);
+    ResponseEntity<res泛型結構物件<res物件DTO>> response = restTemplate.exchange(
+        		url,
+        		HttpMethod.POST,
+        		entity,
+        		new ParameterizedTypeReference<res泛型結構物件<res物件DTO>>() {});
+    ```
+    如果沒有res泛型結構物件，
+    ```
+    ResponseEntity<byte[]> response = restTemplate.exchange(
+        		url,
+        		HttpMethod.POST,
+        		entity,
+        		byte[].class);
+    ```
