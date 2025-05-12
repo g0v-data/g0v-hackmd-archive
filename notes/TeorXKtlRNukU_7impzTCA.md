@@ -1,9 +1,9 @@
 # Frankly坦白說
 
 ## 簡介
-Frankly 是由哈佛大學 Berkman Klein Center 的 Applied Social Media Lab 所開發的開源線上討論平台，旨在促進建設性的對話與協作決策。該平台目前處於封閉測試階段，並已於 2025 年 4 月正式開源，採用 AGPL-3.0 授權。
+[Frankly](https://github.com/berkmancenter/frankly) 是由哈佛大學 Berkman Klein Center 的 Applied Social Media Lab 所開發的開源線上討論平台，旨在促進建設性的對話與協作決策。該平台目前處於封閉測試階段，並已於 2025 年 4 月正式開源，採用 AGPL-3.0 授權。
 
-目前由au和bestian等協作者中文化中
+目前線上是英文版，中文化正處理當中。
 
 ## 概念
 
@@ -47,3 +47,27 @@ https://chatgpt.com/share/682264b3-31ac-800b-b356-cbc9e4bd9d38
 1. Frankly 的Github repo：https://github.com/berkmancenter/frankly
 2. au申請的測試空間(Beta 版, 可以在上面開事件來試行即時對話)：https://app.frankly.org/space/wi0cczgdIejvSIVdQIsI
 3. 中文化翻譯用，au的fork：https://github.com/audreyt/frankly
+
+
+## 如何參與：
+
+1. 加入測試空間(註冊帳號再按follow應該就能加入了)：
+https://app.frankly.org/space/wi0cczgdIejvSIVdQIsI
+
+
+2. 創建即時會議(event)：
+
+想試著用Frankly開會嗎? 在測試空間中，按"Create an Event"即可發起活動，邀約視訊會議了。
+
+目前上面的模版有：
+ * 小型即時會議：不必分組，類似google meet開會
+ * (可以自由創建更大型的會議) 
+
+3. 協助翻譯：https://github.com/audreyt/frankly/tree/i18n-fix
+目前翻譯用的分支是i18n-fix，可以fork、發PL來協助加速翻譯。
+
+note: i18n-fix分支只做翻譯，不動功能。協助翻譯的注意事項，請見：https://github.com/audreyt/frankly/discussions/21
+
+
+
+
