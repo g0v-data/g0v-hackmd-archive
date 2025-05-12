@@ -89,13 +89,6 @@ https://tyenews.com/2023/10/437249/?mibextid=Zxz2cZ&fbclid=IwAR1EAUrfvudOgq7nLJu
 減速臺
 https://www.facebook.com/groups/twroadclub/permalink/2510126345833792/?mibextid=S66gvF
 
-竹東鎮仁愛路
-https://www.facebook.com/zhudongtownship/posts/pfbid0CVUk4EKhmEgEQLL4JBiAmHR7EqA5zSv1zWiC3rH4BtngavPiJ4LjPeiEy3YSkFJcl
-
-
-台中 黎明路 左轉車道
-https://www.facebook.com/share/v/nqSVvzoXyfmST95V/
-
 臺中 南屯 圓環
 https://www.facebook.com/share/p/mdSMy3YNyFH5buPK/
 

@@ -8,8 +8,8 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- NPO Hub:
-- 線上出席：
+- NPO Hub: bil, mrorz
+- 線上出席：nonumpa, Tim, EJ
 - Gather Town: https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -26,7 +26,6 @@ Takedown:
 > EJ
 
 - API Enhancement:
-
     - Revoke badge for the user : DELETE /badge/award
         ```
         { 
@@ -38,7 +37,6 @@ Takedown:
 - UI/UX Enhancement: 
     - user profile page UX enhance (change cursor on the badge name).
     - add badge rewarded metadata section in the pop up, and only visible to the user.
-
 
 
 ## CCPRIP
@@ -61,9 +59,43 @@ Takedown:
 - nonumpa (2025-05-06): Pull request opened: #210 fix: codeowners exclude root files, test and .github folders [https://github.com/cofacts/takedowns/pull/210]
 - nonumpa (2025-05-05): Pull request closed: #192 Implement Article & Reply Request detection [https://github.com/cofacts/takedowns/issues/192]
 
+---
+
+- 找到一些訊息符合原本設想的 spam，但訊息應該要結合送出頻率才能判斷是否是 spam
+  - 真實使用者也會傳 spam [name=nonumpa]
+  - 但有些人會隔一年傳那一類的
+    - 也無法排除是正常使用者 [name=mrorz]
+- 感覺要把訊息放在一起看，偵測機制會變麻煩 [name=mrorz]
+  - Reply request & reply 要判斷頻率嗎 [name=nonumpa]
+  - 現在停的好像只有 article，主要會誤判的大多是 article [name=mrorz]
+  - 之前有遇到使用者誤用，在 reply 與 reply request 貼 spam，但只有一次[name=nonumpa]
+  - 那所有偵測都判斷發文頻率，實作也比較乾淨 [name=mrorz]
+- 在 cofacts/takedown 開票追蹤：take frequency into account when detecting spam 
+
+
 ### [Comm] Cofacts.ai
 
 New initialtive - https://g0v.hackmd.io/mU8qi721RZeAQ9PDfj7XRA?view#Cofactsai
+
+- Tim: 跟 UI 設計、核心功能有哪些需要更新
+- 完整功能查到一個段落之後，可以用個按鈕送到 cofacts.tw
+- 現在 deep research 太長 [name=bil]
+- 可以預覽 + 再縮短，system prompt 可以設計 [name=mrorz]
+- 可能要限制字數 [name=Tim]
+- 開放的時候會有個 cofacts.tw 會外連到 cofacts.ai。如果做成客服視窗那種會不會比較能對應到 cofacts 原本的內容 [name=Tim]
+  - 我自己發現我在查核的時候，幾乎不會回到 cofacts.tw 看，會很專心在對話視窗 [name=mrorz]
+  - 可以把類似訊息、現有回應等都載入 agent
+- 是否要揭露是 cofacts.ai 寫的 [name=Tim]
+  - 我目前 tend to 不要顯示，因為我希望使用者付全責，等於是使用者認可這裡的每一個字都是自己嘴巴講出來這樣 [name=mrorz]
+
+---
+
+- 不太喜歡式窗型，對話需要比較多空間 [name=bil]
+- 因為人都要看過。cofacts.ai 提供靈感。看過文字的人對文字負責。[name=bil]
+  - 至於要不要顯示這是 cofacts.ai 鑄造出來的，可寫可不寫。[name=bil]
+
+---
+
 
 ### [Op] API access management
 
@@ -73,6 +105,7 @@ https://g0v.hackmd.io/@cofacts/rd/%2F51wwLHgvSUqtBDaP-yAVnA
   - cofacts-api.g0v.tw 等 g0v domain 沒辦法被 Cloudflare 管理，因為那是 g0v 的
 - Review Rollout plan
 - 做到 step 2?
+  - OK
 
 ## Langfuse Clickhouse follow-up
 
