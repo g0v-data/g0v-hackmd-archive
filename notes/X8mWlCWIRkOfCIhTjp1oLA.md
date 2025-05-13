@@ -113,17 +113,8 @@ https://www.facebook.com/photo.php?fbid=722690190049674&set=a.288952580090106&ty
 高雄博愛路自行車道
 https://www.facebook.com/share/p/3bUvsmQ1x6XGt9qH/
 
-高雄大寮，光明萬丹路口
-https://www.facebook.com/share/p/3zXUNgxkmjw2bBuD/
-
 高雄市新堀江五福二路玉竹三街行穿線中央分隔島敲除已完成啟用
 https://www.facebook.com/groups/525658186189949/permalink/642717687817331/
-
-高雄中正路
-https://www.facebook.com/100049204915573/posts/pfbid0Bof7fvUHsF983W3Hv9hNakhsupMi6Vz5kgD6qBkofYHrsnHyJGhmn3kGqpUCFkFxl/?mibextid=cr9u03
-
-高雄裕誠路
-https://www.facebook.com/100049204915573/posts/pfbid0HfSFgXqCQ8sQ5X6eRdasMnr8PFXcgvEpknirTqsQiQnmZ3m7ZeR9c9fiQEh7nywTl/?mibextid=cr9u03
 
 瑞恩街
 高雄建昌路巷弄
