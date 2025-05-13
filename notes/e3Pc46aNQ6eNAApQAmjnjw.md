@@ -9,6 +9,7 @@
   `wget --mirror --convert-links --adjust-extension --page-requisites --no-parent http://example.org`
 
 2. [HTTrack Website Copier](https://www.httrack.com/)
+3. [Heritrix](https://github.com/internetarchive/heritrix3)
 
 ## 靜態頁面產生器
 
