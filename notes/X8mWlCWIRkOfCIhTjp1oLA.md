@@ -85,9 +85,6 @@ https://tyenews.com/2023/10/437249/?mibextid=Zxz2cZ&fbclid=IwAR1EAUrfvudOgq7nLJu
 減速臺
 https://www.facebook.com/groups/twroadclub/permalink/2510126345833792/?mibextid=S66gvF
 
-臺中 南屯 圓環
-https://www.facebook.com/share/p/mdSMy3YNyFH5buPK/
-
 東海的漢翔路
 
 
@@ -98,13 +95,6 @@ https://www.facebook.com/story.php?story_fbid=pfbid02utyrcd79SjzBog5NHUZe9mKM6wC
 
 南投
 https://www.facebook.com/groups/twroadclub/permalink/2459857794193981/
-
-彰化縣 台1線 189-190.5
-https://www.facebook.com/share/psQ6akS1i5M4rDVn/
-
-大埔路施作示範友善人行道
-https://www.facebook.com/CHreporter2020/posts/pfbid08nJz9YcEdQoVFiF5aJu5vAoMWkPjHa2NygQKF3Yg9HW5A3vEZrQGXQuAgPfiRLp4l?locale=zh_TW
-
 
 臺南北門
 https://www.facebook.com/share/p/2ivg8vaxYD9c6GwS/
@@ -147,12 +137,6 @@ https://www.facebook.com/groups/525658186189949/permalink/642717687817331/
 高雄中正路
 https://www.facebook.com/100049204915573/posts/pfbid0Bof7fvUHsF983W3Hv9hNakhsupMi6Vz5kgD6qBkofYHrsnHyJGhmn3kGqpUCFkFxl/?mibextid=cr9u03
 
-高雄五福路
-https://www.facebook.com/1372178538/posts/pfbid02Xy5sNAEFAyxqmMtnv3xX15uF7cikarHeRq1xkgw6ASyK7tBXGvoqotSW2HccYUVkl/?mibextid=cr9u03
-
-中華五福無號誌圓環
-https://www.facebook.com/watch/?v=3414014128919498
-
 高雄裕誠路
 https://www.facebook.com/100049204915573/posts/pfbid0HfSFgXqCQ8sQ5X6eRdasMnr8PFXcgvEpknirTqsQiQnmZ3m7ZeR9c9fiQEh7nywTl/?mibextid=cr9u03
 
@@ -166,10 +150,6 @@ https://www.facebook.com/100049204915573/posts/pfbid0yp66yyER2BefdQeyqxsoqigD5As
 https://youtu.be/poXjq435604
 
 https://www.facebook.com/share/p/JS85yvMgCu9GCwaF/
-
-
-高雄市圓環
-https://www.facebook.com/share/cZDtADU7JQcdMt8G/
 
 左營，計畫道路調整，搭配既有圓環
 https://www.facebook.com/story.php?story_fbid=pfbid0kEdA3VBVjWniyJ7ytY68Xfb7EtaphhwxeQrc46Bt3VfxcgDyGxpz3UZRjSdC91uql&id=100000571470160&mibextid=qC1gEa
