@@ -99,8 +99,6 @@ https://www.facebook.com/groups/twroadclub/permalink/2459857794193981/
 臺南北門
 https://www.facebook.com/share/p/2ivg8vaxYD9c6GwS/
 
-臺南 健康路 https://www.facebook.com/share/p/1BNs5gWKAu/
-
 臺南甲頂路
 https://www.facebook.com/share/p/h5gocvfmDXVpetHy/
 
