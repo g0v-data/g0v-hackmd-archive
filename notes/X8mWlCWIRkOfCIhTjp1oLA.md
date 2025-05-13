@@ -99,11 +99,6 @@ https://www.facebook.com/story.php?story_fbid=pfbid02utyrcd79SjzBog5NHUZe9mKM6wC
 南投
 https://www.facebook.com/groups/twroadclub/permalink/2459857794193981/
 
-彰化縣和美
-https://www.facebook.com/100064848694500/posts/pfbid034o3uSvGYRLSBcVc9t9NgNtctrXNNY6DCaBnDJoJkwden3revpjYk9JVdDrEZaSwCl/
-和美
-https://www.facebook.com/100064848694500/posts/pfbid034vi93Rhx9tqwoKiMRiNb8CQpf4GPGnQ2e1Piby4TQX2d9T4v645GA5R3F9o7E1npl/
-
 彰化縣 台1線 189-190.5
 https://www.facebook.com/share/psQ6akS1i5M4rDVn/
 
@@ -185,7 +180,8 @@ https://www.facebook.com/share/p/cKfUkuXLe4d3abui/
 東港 朝隆路
 https://www.facebook.com/watch/?v=972544735089428
 
-桃園龍潭
+桃園龍潭北龍路
+https://www.facebook.com/100063503749374/posts/%E5%8C%97%E9%BE%8D%E8%B7%AF%E7%9A%84%E4%BA%BA%E8%A1%8C%E9%81%93%E7%8F%BE%E5%9C%A8%E5%B7%B2%E7%B6%93%E5%B0%87%E8%BF%91%E5%88%B0%E4%BA%86%E5%B0%BE%E8%81%B2%E7%9A%84%E9%9A%8E%E6%AE%B5%E5%BE%9E%E4%B9%8B%E5%89%8D%E4%B8%80%E4%B8%8A%E4%B8%80%E4%B8%8B%E7%9A%84%E9%81%93%E8%B7%AF%E4%BB%A5%E5%8F%8A%E5%BA%97%E5%AE%B6%E5%89%8D%E9%9D%A2%E9%8A%9C%E6%8E%A5%E4%B8%8D%E8%B5%B7%E4%BE%86%E7%9A%84%E4%BA%BA%E8%A1%8C%E9%81%93%E7%8F%BE%E5%9C%A8%E5%85%A8%E9%83%A8%E7%9A%84%E4%BA%BA%E8%A1%8C%E9%81%93%E5%B9%B3%E6%95%B4%E9%A0%86%E6%9A%A2%E5%BE%9E%E9%A0%AD%E8%B2%AB%E7%A9%BF%E5%88%B0%E5%B0%BE%E5%85%A8%E9%83%A8%E6%9A%A2%E9%80%9A%E6%8E%A5%E4%B8%8B%E4%BE%86%E5%B0%B1%E6%98%AF%E4%BA%BA%E8%A1%8C%E9%81%93%E4%B8%8A%E7%9A%84%E9%A1%8F%E8%89%B2%E7%B4%8B/1087371790056269/
 
 
 
