@@ -118,11 +118,6 @@ https://www.facebook.com/groups/525658186189949/permalink/642717687817331/
 
 瑞恩街
 高雄建昌路巷弄
-高雄瑞隆路 
-https://www.facebook.com/100049204915573/posts/pfbid0yp66yyER2BefdQeyqxsoqigD5AsVWMb3Xez8APqjBTJ6ajj9YBymbZmoJsw7iAT7l/
-https://youtu.be/poXjq435604
-
-https://www.facebook.com/share/p/JS85yvMgCu9GCwaF/
 
 左營，計畫道路調整，搭配既有圓環
 https://www.facebook.com/story.php?story_fbid=pfbid0kEdA3VBVjWniyJ7ytY68Xfb7EtaphhwxeQrc46Bt3VfxcgDyGxpz3UZRjSdC91uql&id=100000571470160&mibextid=qC1gEa
