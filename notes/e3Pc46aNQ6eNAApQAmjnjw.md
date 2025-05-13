@@ -20,6 +20,8 @@
 ## 託管
 
 1. [Github Pages](https://pages.github.com/)
-   因為 Github 在開發社群的普及，這個延伸的網站託管服務也累積了龐大的使用者群，已經是個很成熟的服務，只是在台灣尚未落地，遇到國際頻寬塞車時網站服務效能也會打折扣。個別網站容量上限為 10GB。
+   因為 Github 在開發社群的普及，這個延伸的網站託管服務也累積了龐大的使用者群，已經是個很成熟的服務，只是在台灣尚未落地，遇到國際頻寬塞車時網站服務效能也會打折扣。個別網站容量上限為 10GB ，個別 commit 太多異動會被拒絕 push ，佈署時間超過 10 分鐘也會直接被中斷而持續佈署失敗。
 2. [Cloudflare Pages](https://pages.cloudflare.com/)
    以服務速度著稱，只是個別網站只接受最多 20000 個頁面。
+3. [Google Cloud Storage buckets](https://cloud.google.com/storage/docs/buckets)
+   試著傳送到台灣(asia-east1)伺服器， 8.3GB/542674 個檔案，傳輸費用 2.69USD ，每月每 GB 會收取 0.02 USD 費用，網路使用另計。 gcloud console 有提供 rsync 功能只傳輸異動部份，還算方便。
