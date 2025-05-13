@@ -158,9 +158,6 @@ https://www.facebook.com/1372178538/posts/pfbid02Xy5sNAEFAyxqmMtnv3xX15uF7cikarH
 中華五福無號誌圓環
 https://www.facebook.com/watch/?v=3414014128919498
 
-高雄橋標線
-https://www.facebook.com/share/p/RuDoJfXxfwBN1USV/
-
 高雄裕誠路
 https://www.facebook.com/100049204915573/posts/pfbid0HfSFgXqCQ8sQ5X6eRdasMnr8PFXcgvEpknirTqsQiQnmZ3m7ZeR9c9fiQEh7nywTl/?mibextid=cr9u03
 
@@ -179,9 +176,6 @@ https://www.facebook.com/share/p/JS85yvMgCu9GCwaF/
 高雄市圓環
 https://www.facebook.com/share/cZDtADU7JQcdMt8G/
 
-高雄市中正路道路設計，高雄捷運橘線，十幾年前捷運在施工時，上面的道路一併重新設計，「左轉附加車道」、「停車彎」、「轉角外推」、「設施帶」還有「人行道」
-https://www.facebook.com/story.php?story_fbid=pfbid0oW43sNAbPJN7ZvaF25nQXCJ2SkDTYAn6BKETYVj3h87FiM26cYaQeyH54RweRC4Hl&id=100049204915573&mibextid=cr9u03
-
 左營，計畫道路調整，搭配既有圓環
 https://www.facebook.com/story.php?story_fbid=pfbid0kEdA3VBVjWniyJ7ytY68Xfb7EtaphhwxeQrc46Bt3VfxcgDyGxpz3UZRjSdC91uql&id=100000571470160&mibextid=qC1gEa
 
@@ -190,6 +184,8 @@ https://www.facebook.com/share/p/cKfUkuXLe4d3abui/
 
 東港 朝隆路
 https://www.facebook.com/watch/?v=972544735089428
+
+桃園龍潭
 
 
 
