@@ -1,4 +1,6 @@
-https://bangkingvape.net/
-
-Bang King is a leading vape brand specializing in disposable devices that provide vapers with a flavorful and convenient experience. With its extensive selection of flavors and intuitive design, Bang King makes vaping easy, enjoyable, and accessible to all. These high-performance vapes are crafted for smooth, consistent hits, ensuring a satisfying experience with every use. Whether you are just starting your vaping journey or are a seasoned enthusiast, Bang King offers a seamless and enjoyable vaping option for everyone.
-
+https://bangking.it/
+Bang King è un marchio leader nel vaping, specializzato in dispositivi monouso che offrono un'esperienza gustosa e comoda. Con una vasta 
+selezione di sapori e un design intuitivo, Bang King rende il vaping facile, piacevole e accessibile a tutti. Questi dispositivi ad alte
+ prestazioni sono progettati per garantire tiri morbidi e costanti, assicurando un'esperienza soddisfacente ad ogni utilizzo. Che tu sia 
+nuovo nel mondo del vaping o un appassionato esperto, Bang King offre una scelta di vaping fluida e piacevole per tutti.
+Email: support@bangking.it
