@@ -96,21 +96,8 @@ https://www.facebook.com/story.php?story_fbid=pfbid02utyrcd79SjzBog5NHUZe9mKM6wC
 南投
 https://www.facebook.com/groups/twroadclub/permalink/2459857794193981/
 
-臺南北門
-https://www.facebook.com/share/p/2ivg8vaxYD9c6GwS/
-
-臺南甲頂路
-https://www.facebook.com/share/p/h5gocvfmDXVpetHy/
-
 各處圓環
 https://www.facebook.com/share/v/15XVGHYYFP/
-
-台南歸仁圓環
-https://www.facebook.com/100092995934211/posts/pfbid0SssWXfSJEk71SV8wjzx2ngeWoywQ27PJcYg5fb5Ca2uNZhMe6ieus8KdgFxUjTjNl/
-
-台南玉井 圓環
-https://www.facebook.com/share/p/182mVPFTFg/
-https://news.ltn.com.tw/news/life/breakingnews/4855951
 
 台南孔廟 拆除同向分隔島
 https://www.facebook.com/share/p/SAxiq31oKaNQ8kSX/?mibextid=WC7FNe
@@ -137,9 +124,6 @@ https://www.facebook.com/100049204915573/posts/pfbid0Bof7fvUHsF983W3Hv9hNakhsupM
 
 高雄裕誠路
 https://www.facebook.com/100049204915573/posts/pfbid0HfSFgXqCQ8sQ5X6eRdasMnr8PFXcgvEpknirTqsQiQnmZ3m7ZeR9c9fiQEh7nywTl/?mibextid=cr9u03
-
-青年路
-https://www.facebook.com/share/p/19u3Z5iPFG/?mibextid=wwXIfr
 
 瑞恩街
 高雄建昌路巷弄
