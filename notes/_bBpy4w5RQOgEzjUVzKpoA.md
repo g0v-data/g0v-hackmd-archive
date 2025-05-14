@@ -74,7 +74,9 @@ tags: 公民科學
 - 蒐集 社區大學 結合 主題計畫 的經驗
     - 臺南社區大學，有使用 iNaturalist
         - https://www.facebook.com/page/112422655489343/search/?q=iNaturalist
-        - 台江分校 https://www.facebook.com/taikangcampus/photos/a.302105676824223/1423308961370550/
+        - 台江分校 
+            - https://www.facebook.com/taikangcampus/photos/a.302105676824223/1423308961370550/
+            - https://www.facebook.com/watch?v=549073624679365&locale=zh_TW
     - 新莊社區大學，濕地服務隊的植物調查結合 iNaturalist
         - https://www.inaturalist.org/projects/bfaabfa2-d755-4413-86c4-5e1bbc499991
         - 特點歸納：針對明確的長期認養範圍，建立生物資料
