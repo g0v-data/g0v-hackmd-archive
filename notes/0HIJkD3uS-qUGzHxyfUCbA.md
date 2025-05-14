@@ -4,23 +4,97 @@ tags: vtaiwan
 # 20250514 小松
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants:
+參與者 Participants: Peter, Bestian, 
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
+![](https://g0v.hackmd.io/_uploads/Hk70NWfbeg.png)
 
-
+:::info
+下一次 g0v 黑客松
+[沙發很好 sofa so good 黑客松](https://g0v.hackmd.io/@jothon/g0v-hackath67n/https%3A%2F%2Fg0v.hackmd.io%2FKvzHayP4SPqXRhtrn2QH0w%3Fview)
+歡迎報名參加！！！
+:::
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 ### 自我介紹
+今天又有新人來玩～所以可以重啟自我介紹
+- Peter: 台灣大學法研所學生，大三開始參與 g0v 與 vTaiwan 
+- Bestian: 
+    - 參與 g0v 緣起：太陽花學運時發現需要[公民記者證產生器](https://g0v.github.io/reporter/#/)，當時資深的社群參與者都累倒了，於是在家非同步的把產生器做出了，用vue改版後還在線上
+    - 目前主要是自學家長
+    - 在自主學習促進會擔任資促長
+    - [自學入口頁](https://map.alearn.org.tw/)
+    - 在frankly參與翻譯，和au在frankly上的[線上測驗空間](https://app.frankly.org/space/wi0cczgdIejvSIVdQIsI)
+- Tim
+    - 之前是資料工程師，近期轉職前端
+    - 參與專案： vTaiwan, cofacts
+    - 希望把cofacts事實查核和vTaiwan的議題討論功能做整合
+    - 目前先比較現有的線上討論工具 (如 [Kialo](https://www.kialo-edu.com/))，是否適用或有待改進
+    - [Kialo 範例:2021核四公投辯論報告](https://www.kialo-edu.com/p/602c2b8d-af74-48f9-84dd-e6f4444006f6/459312)
+- Josh 
+    - 在瑞士做博士研究，對於民主體系的程序如何做數位輔助是有興趣的。
+    - vTaiwan 程序可以如何標準化
+    - 時間有限
+    - 理想很多，希望有時間實現
 
+- Allison 
+    - I am a high school schooler in an international school in Taiwan, interested in majoring in buisness and economics. 
 ## 小小的分享
+- bestian 正在 fork 的專案 Frankly 
+    - 上位概念：[對話網絡](https://www.youtube.com/watch?v=z6w97FDoA0k&cc_load_policy=1)
 - 如何閱讀 Polis 資料來做樹狀圖 [name=josh]
 - 專案管理
     - [加入連結](https://www.notion.so/team/10656834-429c-8136-b570-004216c84ea4/join)
     - [專案管理頁面](https://www.notion.so/vTaiwan-1f056834429c80a3b210edffe8840910?pvs=4)
+    - 目前專案
+        - ARE系統與議題討論
+        - vTaiwan 101 問答
+        - 網站重新設計
+        - vTaiwan 議題小聚
     - 目前的進度
         - 邀請大家一起來共同參與工作與討論
         - 對於專案管理與非同步協作的感想
-- bestian 正在 fork 的專案：[對話網絡](https://www.youtube.com/watch?v=z6w97FDoA0k&cc_load_policy=1)
+
+
+## Frankly 與對話網路的概念
+### 對話網路
+- [對話網絡](https://www.youtube.com/watch?v=z6w97FDoA0k&cc_load_policy=1)
+    - 簡報原作者：Dev K Roy 
+- 希望解決的問題：大規模的人一起進行討論的可能性
+    - 目前的社群媒體讓網路上產生不同的部落，不同的意見並不能夠交流
+- 對話網路希望重建大家的連結。
+    - 角色：
+        - 引導師
+        - 對話設計師
+        - 彙整師
+### Frankly 工具
+- [測試用的 space](https://app.frankly.org/space/wi0cczgdIejvSIVdQIsI)
+- Frankly 可以在即時會議中，看到大家的會議內容
+- 人工智慧出現之後的分工
+    - 人類可以擔任引導師與參與者
+    - 人工智慧可以擔任對話設計師與彙整師
+    - 人類主導，人工智慧輔助
+- 從社群媒體網路走向社群對話網路
+    - 共鳴取代社群媒體上的爆紅
+- 形式：
+    - 面對面
+    - 線上視訊
+    - 專用 app
+- 分享
+    - 可以傳播到線上資料庫
+    - 個人 app 
+    - 其他的互動式公共討論
+- [github](https://github.com/berkmancenter/frankly)
+### 討論
+- Frankly 是可以將參與者丟到不同的分組裡面，可以將意見比較不同的人放到同一組。[name=bestian]
+- 是否有相關的報告與文字說明 [name=josh]
+    - 有的，在[about Frankly](https://frankly.org/)這邊
+    - 開源，正在測試
+- 或許可以利用測試空間，邀請大家開一個空間一起來討論
+- 與[史丹佛的線上審議平台(stanford online deliberation platform）](https://deliberation.stanford.edu/tools-and-resources/online-deliberation-platform) 很像
+    - 跟 frankly 的出發點可能不太一樣
+- 是否有什麼期待？或者是希望可以怎麼使用？
+    - 可以透過線上投票可以分組，讓大家可以建立更有意義的討論
+    - 
 
 ## 5/23 議題小聚
 ![](https://g0v.hackmd.io/_uploads/Bye14G5kxgl.png)
