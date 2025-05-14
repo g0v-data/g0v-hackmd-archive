@@ -19,14 +19,16 @@ tags: vtaiwan
 今天又有新人來玩～所以可以重啟自我介紹
 - Peter: 台灣大學法研所學生，大三開始參與 g0v 與 vTaiwan 
 - Bestian: 
-    - 參與 g0v 緣起：太陽花學運時發現需要[公民記者證產生器](https://g0v.github.io/reporter/#/)，當時資深的社群參與者都累倒了，於是在家非同步的把產生器做出了，用vue改版後還在線上
+    - 參與 g0v 緣起：太陽花學運時發現需要[公民記者證產生器](https://g0v.github.io/reporter/#/)，當時資深的社群參與者都累倒了，於是在家非同步的把產生器做出來，用vue改版後還在線上
     - 目前主要是自學家長
-    - 在自主學習促進會擔任資促長
+    - 全端，主要寫Vue.js和cloudFlare Worker
+    - 在[自主學習促進會](https://www.alearn.org.tw)擔任資訊長
     - [自學入口頁](https://map.alearn.org.tw/)
     - 在frankly參與翻譯，和au在frankly上的[線上測驗空間](https://app.frankly.org/space/wi0cczgdIejvSIVdQIsI)
+    - 
 - Tim
     - 之前是資料工程師，近期轉職前端
-    - 參與專案： vTaiwan, cofacts
+    - 參與專案： vTaiwan, [cofacts](https://cofacts.tw/)
     - 希望把cofacts事實查核和vTaiwan的議題討論功能做整合
     - 目前先比較現有的線上討論工具 (如 [Kialo](https://www.kialo-edu.com/))，是否適用或有待改進
     - [Kialo 範例:2021核四公投辯論報告](https://www.kialo-edu.com/p/602c2b8d-af74-48f9-84dd-e6f4444006f6/459312)
@@ -39,7 +41,7 @@ tags: vtaiwan
 - Allison 
     - I am a high school schooler in an international school in Taiwan, interested in majoring in buisness and economics. 
 ## 小小的分享
-- bestian 正在 fork 的專案 Frankly 
+- bestian 正在參與au fork 的專案 Frankly 的中文化
     - 上位概念：[對話網絡](https://www.youtube.com/watch?v=z6w97FDoA0k&cc_load_policy=1)
 - 如何閱讀 Polis 資料來做樹狀圖 [name=josh]
 - 專案管理
@@ -58,7 +60,7 @@ tags: vtaiwan
 ## Frankly 與對話網路的概念
 ### 對話網路
 - [對話網絡](https://www.youtube.com/watch?v=z6w97FDoA0k&cc_load_policy=1)
-    - 簡報原作者：Dev K Roy 
+    - 簡報原作者：Deb K Roy 
 - 希望解決的問題：大規模的人一起進行討論的可能性
     - 目前的社群媒體讓網路上產生不同的部落，不同的意見並不能夠交流
 - 對話網路希望重建大家的連結。
