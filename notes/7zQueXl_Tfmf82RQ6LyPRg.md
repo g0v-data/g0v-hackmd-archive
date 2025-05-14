@@ -86,12 +86,15 @@ https://goo.gl/maps/A573xDMLcejm3pX39
 手押台車
 https://www.facebook.com/groups/tcmcu.rail/permalink/6209024002546037/
 
-
 1927
 https://www.facebook.com/groups/boo15212004/permalink/3597512696929813/
 
 1934 年地圖
 https://www.facebook.com/193577570812069/posts/1590294037807075/
+
+1953年 1：150000台糖鐵道網圖
+https://www.facebook.com/groups/TSRTPCR/posts/9759692370733306/
+https://gis.sinica.edu.tw/showwmts/index.php?s=tileserver&l=TM150K_1953&fbclid=IwY2xjawKRTKhleHRuA2FlbQIxMABicmlkETFoWDM0dUIwZWdxTU1wQURLAR4pSRVxf8010qLPfNFluJiIymvmU-F4RVun0Ywf4PgME2YbdOhzkN908p2sCQ_aem_bygKmK3pNvcfp5TliMN4rQ
 
 1978 年臺糖鐵道平面、分佈圖
 https://www.facebook.com/100000140451245/posts/1974497915898204/
