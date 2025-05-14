@@ -6,8 +6,8 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 [TOC]
 :::
 https://www.youtube.com/watch?v=vZXD3-SAnkE&t=107s
-https://join.skype.com/p2NkbssUvTC1
-docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE_URL=http://127.0.0.1:11434 --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+
+https://app.powerbi.com/groups/ea74a80c-0759-4de3-9a85-0c6d4c165b59/reports/9510db41-7352-4d9e-8444-795b93f36382/c5baaebd74dec3548c54?experience=power-bi
 #### 常用連結
 Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
 O:\25資訊組\FPG\ERP\FPG.xlsx
