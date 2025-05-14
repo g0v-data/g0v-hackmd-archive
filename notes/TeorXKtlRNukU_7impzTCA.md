@@ -9,6 +9,11 @@ tags: Frankly, vtaiwan
 
 目前線上是英文版，中文化正處理當中。
 
+## 影片介紹：何謂對話網絡(Conversation Networks)?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z6w97FDoA0k" frameborder="0" allowfullscreen></iframe>
+
+
 ## 概念
 
 民主社會的公民討論，當人數多到一個程度的時候，很難即時進行。
