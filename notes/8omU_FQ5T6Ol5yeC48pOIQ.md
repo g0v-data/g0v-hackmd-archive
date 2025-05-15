@@ -141,4 +141,7 @@ https://codeload.github.com/Raphire/Win11Debloat/zip/refs/heads/master
 三、智慧工廠先不談，至少作到一眼決策
 能耗、生產進度、供應鍊協同
 
+隱藏和禁用Win10系統自帶的｢立即開會
+https://allinfa.com/zh-tw/hide-close-win10-meet-now.html
 
+https://www.autohotkey.com/
