@@ -46,6 +46,11 @@ https://photos.app.goo.gl/AAG1nM1Wc5PKGcsp9
 ### 專案切入角度
 
 Data 資料清點與清理
+- 【歡迎跳坑自己的家鄉縣市】建立「全國分班分校名單」，沒找到全國整批資料，教育部學校代碼也沒有幫分班分校建立代碼
+    - 已整理：南投縣、雲林縣、彰化縣 
+    - 歡迎跳坑各縣市，請整理於以下 google sheet 「全國分班分校名單」檔案 https://docs.google.com/spreadsheets/d/16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik/edit?gid=1977442313#gid=1977442313
+    - 資料用途：
+        - 例如 雲林縣口湖鄉縣立文光國小學生總數為 202 人，實際上是由三個地方所加總，文光國小本校校區 + 湖口分校校區 + 過港分校校區，全國就學人口統計數字並沒有提供各分校校區的學生人數
 - 整理專案執行過程中，所使用到的資料集種類，建立資料及目錄與索引
     - https://docs.google.com/spreadsheets/d/16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik/edit
     - 註明各種資料集是否開放、資料可用度說明 (是否還需要清理、清理重點) 
