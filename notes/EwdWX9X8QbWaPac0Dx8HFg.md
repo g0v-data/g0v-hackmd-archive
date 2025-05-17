@@ -17,6 +17,7 @@ MODEL_ID="gemini-2.0-flash"
 GENERATE_CONTENT_API="streamGenerateContent"
 
 cat << EOF > request.json
+//將這段丟到body
 {
     "contents": [
       {
@@ -48,6 +49,7 @@ cat << EOF > request.json
       "responseMimeType": "text/plain",
     },
 }
+//到這
 EOF
 
 curl \
@@ -60,7 +62,13 @@ curl \
 ![](https://g0v.hackmd.io/_uploads/SkxJmIiB-ll.png)
 - 將網址和body(按override)進行編輯後按send
 
+- 到line manager創建商用帳號
+- 點選建立
+![](https://g0v.hackmd.io/_uploads/Hyl0tHG8-le.png)
+- 輸入帳戶資訊
+![](https://g0v.hackmd.io/_uploads/SklqjSfIWle.png)
 
+- 建立好後再去line develope，ㄉ
 
 https://colab.research.google.com/drive/1urAkhBgKHuQo0sHJZ2ItQQtAIOFW6jLc#scrollTo=xu4fXN189Jm1
 - 回來line devolper 的 message api將webhook貼上

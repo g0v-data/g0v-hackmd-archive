@@ -26,6 +26,7 @@ https://www.facebook.com/share/p/1HRg52u6tk/
 - 臺大鄭江樓二樓，臨樹冠處
 - 臺大生技中心 https://www.facebook.com/share/p/5ZY1ZsrWa5qg1fTF/
 - 第一銀行https://www.facebook.com/share/p/12L2mpkEKZj/
+- https://www.facebook.com/share/p/1J57b3Soxp/?mibextid=wwXIfr
 - 臺北市中山區南京東路二段108號，捷運出入口的大面積玻璃 https://www.facebook.com/groups/birdwindowcollision/posts/1272829130099208/
 - 捷運站 https://www.facebook.com/share/p/edJrJrgeJt8i2nJK/
 - 愛明眼科 https://www.facebook.com/groups/birdwindowcollision/posts/1273161673399287/
