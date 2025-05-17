@@ -54,11 +54,8 @@ Data 資料清點與清理
 - 整理專案執行過程中，所使用到的資料集種類，建立資料及目錄與索引
     - https://docs.google.com/spreadsheets/d/16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik/edit
     - 註明各種資料集是否開放、資料可用度說明 (是否還需要清理、清理重點) 
-- 取用各項資料的 portal
-- 透過資料清理、資料分析、視覺化地圖網頁，來引動、策動、啟動
-- 就學人口統計變化趨勢
-    - 近三年的人數
-    - 採用學校總人數 100 人、50 人、30 人
+- 歷年已廢校地點
+    - 先登載到 Google My Map 的
 
 Reform 評估校地與校舍使用
 - 災害防救觀點
