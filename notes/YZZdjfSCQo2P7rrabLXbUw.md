@@ -6,13 +6,6 @@
 [TOC]
 
 :::
-mysql -h 伺服器名稱 -u 使用者帳號 -p使用者密碼 資料庫名稱 < 含路徑的SQL指令檔 > 輸出位置.csv
-SQL指令檔：
-SELECT * FROM 表名 
-INTO OUTFILE '/輸出位置.csv'
-FIELDS TERMINATED BY ','
-ENCLOSED BY '"'
-LINES TERMINATED BY '\n';
 
 
 https://dr3c.net/h6-gamebox/
