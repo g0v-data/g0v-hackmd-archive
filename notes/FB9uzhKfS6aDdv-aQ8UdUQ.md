@@ -20,11 +20,26 @@ tags:
 - 原則庫與判斷式
 :::
 
+### 用時程框列預計推展
+
+2025 - 2030
+2030 - 2035
+2035 - 2040
+2040 - 2045
+2045 - 2050
+
+https://docs.google.com/spreadsheets/d/159U9SfK4Tg5Tlet4qx8YRo_G0QKKLUfwjZz0qkcVVBU/edit?gid=1031226472#gid=103122647
+
+
 ## 參考
 - 打字與滑鼠點點點 txt & click 也可以開始的專案工作方式
     - https://g0v.hackmd.io/dbwO37FhSjiKyptbioNnrw
 - 數位解方策略及工具推薦 / 揉合公民權的公民科技專案策略
     - https://docs.google.com/spreadsheets/d/1P1sCLPAQP9hUwMFVGzneg9lAIFLoYe_arsmgdUy23FA/edit
+
+
+
+
 
 ## 待建構
 
