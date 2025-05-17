@@ -47,14 +47,17 @@ Host detail 「OO 是詐騙嗎」tab 中可以放：
 - urlscan 上相同 IP 的網站有哪些：標題、URL、截圖、是否有 165 公告
 - 進行 or 重做 urlscan 分析
 - 類似網域 -「內政部警政署已公告過下面這些詐騙網站」
+  - 除了 host，還可以用此 host 用過、165 公告的名字去搜
   - fake.idv, fake.xyz, fa0ke 算是「相似」
   - show urlscan 截圖、日期、網域
+    - 注意：若詐騙使用 tw 網域，在 165 公告前就會被停止解析，urlscan 也抓不到
 
 name detail 「OO 是詐騙嗎」tab 中可以放：
 - 165 網域與公告次數（點擊網域可以連到 host detail）
 - urlscan 上相同名字的網站有哪些：URL、截圖、是否有 165 公告
 - 進行 or 重做 urlscan 分析
 - 列出類似名字 - 「內政部警政署已公告過下面這些詐騙網站」
+  - 除了 name，還可以用 165 公告過的 host 去搜
   - 「富達」、「富達投資」算是相似
   - show urlscan 截圖、日期、名稱
 

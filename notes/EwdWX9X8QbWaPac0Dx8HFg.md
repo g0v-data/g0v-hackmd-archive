@@ -59,3 +59,9 @@ curl \
 - 丟到[hoppscotch](https://hoppscotch.io/)
 ![](https://g0v.hackmd.io/_uploads/SkxJmIiB-ll.png)
 - 將網址和body(按override)進行編輯後按send
+
+
+
+https://colab.research.google.com/drive/1urAkhBgKHuQo0sHJZ2ItQQtAIOFW6jLc#scrollTo=xu4fXN189Jm1
+- 回來line devolper 的 message api將webhook貼上
+![](https://g0v.hackmd.io/_uploads/BJeH_4nBWlx.png)
