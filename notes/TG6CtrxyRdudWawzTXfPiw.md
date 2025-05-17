@@ -24,6 +24,7 @@ https://github.com/g0v/small_school_renaissance
 
 討論請至：
 - g0v Slack 頻道 #edu-school-學校存續議題
+https://g0v-tw.slack.com/archives/C08NDP85ASF
 - FB 社團: 零時小學校 Sch001 學習中心 https://www.facebook.com/groups/240879797438433
 
 討論素材相簿
