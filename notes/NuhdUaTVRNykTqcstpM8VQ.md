@@ -73,6 +73,8 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #拉人更輕鬆
 #g0v-taipei-npohub-2f-202 NPOHUB 大小事
 #jothon 揪松團相關活動討論（黑客松、基礎松）https://jothon.g0v.tw/
+#jothon-online-雲端活動籌辦 蒐集線上活動籌辦事務
+#jothon-local-support-地方社群支持方案
 #fundraising-救松團-募款執行
 #passp0rt 社群護照
 #jothon-stall-擺攤
@@ -103,6 +105,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #g0v-landing-page g0v.tw 網站社群治理，以及社群活動刊登至日曆的提案頻道
 #engaged-research 以 g0v 為主的學術研究 Academic research on g0v and community projects
 #sns g0v sns 平台規範、發文討論區
+#jothon-media-ig-fb-line-newsletter 揪松團的 SNS 與受眾溝通
 #news g0v news
 #g0vpodcast g0v underground 零時電台 https://linktr.ee/g0vpodcast
 #summit g0v Summit 年會的公開頻道 https://summit.g0v.tw/
@@ -162,6 +165,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #band 零時樂團 :musical_score:
 #stayathome 宅在家的生活資訊
 #health 健康議題、健檢
+#open-nhi-smartcard-agent 非官方健保卡讀卡機元件開發計劃
 #psymap 心理健康資源
 #psychmatch_public
 #adhd
@@ -231,6 +235,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #da0-zkp 跟以太坊的PSE合作，講零知識證明
 #da0-g0v-ars-electronica 討論 2023 林茲電子藝術節奧地利辦黑客松
 #chih0 這是一個關注數位科技如何應用於「場所營造」（place-making）的小坑洞。名字是日文「地方」之意，常見於台灣也很熟悉的「地方創生」（ちほうそうせい, chihō sōsei）。
+#localization 軟體在地化．翻譯詞彙庫計畫
 #middle2 middle2 是一個開放原始碼的 PaaS 平台
 #indieveloper 推廣自架伺服器
 #awshackathon AWS 使用者交流頻道
@@ -275,7 +280,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #吉祥物資料蒐集_マスコット_mascot 一起來建立吉祥物資料庫～目前已蒐集 1300 多個角色囉! :sun_with_face:
 #未來日誌 預測與推估內容的結構化 :chart_with_upwards_trend: future predictions
 
-## slack 頻道內容備份網址
+## slack 頻道內容備份網址 (感謝 Ronny :祈禱:)
 
 https://g0v-slack-archive.g0v.ronny.tw
 
