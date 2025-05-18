@@ -32,6 +32,8 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #tainan 台南討論群組！
 #kaohsiung 高雄討論群組！
 #taichung 台中討論群組！
+#changhua-彰化 彰化討論群組！
+#yunlin-雲林 雲林討論群組！
 #nantou-南投 南投討論群組！
 #hualien 花蓮討論群組！
 #penghu-澎湖群島
@@ -47,7 +49,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #thai-ภาษาไทย 泰國與泰語
 #tiếngviệt-vietnam 越南與越語
 #nepali-नेपाली
-#malaysia 馬來西亞
+#malaysia-馬來西亞
 #indonesia-印尼
 #australia 澳洲
 #north-america 想在美國協作的可以來這邊聊天喔！
@@ -55,6 +57,8 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #ukraine
 #deutschland-germany 德國與德語區
 #french-français
+#uk
+#israeli-palestinian-conflict
 #g0v-it https://github.com/g0v-it
 #intl 國際交流工作小組 g0v international、國際交流資訊都在這
 #facing-the-ocean Connected to Code for Korea & Code for Japan
@@ -70,6 +74,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #g0v-taipei-npohub-2f-202 NPOHUB 大小事
 #jothon 揪松團相關活動討論（黑客松、基礎松）https://jothon.g0v.tw/
 #fundraising-救松團-募款執行
+#passp0rt 社群護照
 #jothon-stall-擺攤
 #g0v-conservation-archive-文物保存
 #community99-社群九分鐘-撰寫工作頻道
@@ -111,6 +116,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #itaigi 愛台語 對漢字佮台羅誠熟手，做伙鬥校對巡喲
 #chhoetaigi ChhoeTaigi 台語辭典⁺
 #taiwanbooks 矽谷圖書館台灣書籍植入計畫 Silicon Valley Library Taiwan Book Insertion Project
+#edu-school-學校存續議題 民國 130 年的全國小學生人數推估湧現地圖，推估未來學校就學人口，探討校地轉型與民主辦學 A map projecting the distribution of Taiwan’s elementary school population in 2040 
 #edu 零時小學校「開源協作與教育工作」主頻道
 #edu-aray 公民科技貢獻者的專案與任務視覺化平台
 #edu-accomdemy 伴伴學社群頻道
@@ -119,7 +125,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #edu-coteach CoTeach 教案資源共享平臺
 #edu-open CourseAPI 開放式課程資訊匯流學院
 #edu-lipoic Lipoic 是一個致力於整合與改善遠距授課與線上教室的教育平台，並讓學生能不受空間限制學習知識，老師能更便利地傳授知識，並且我們也熱衷於開放文化的精神，與我們一起翻轉教育吧！
-#open-student-org
+#open-student-org 討論各校學生自治組織經驗
 #ez-shift
 #edu-高中社團招商 社團招商與管理專案
 #edu-stressed 壓力排解平臺專案
@@ -179,6 +185,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #tw-legal-datasets
 #hackact 修法協作器
 #call-liwei 立委咖電喂
+#councilor-service
 #support-recall 請支援造冊_立委罷免
 #刑法十八禁 對刑法上修到二十歲有興趣的朋友歡迎參與喔！
 #vtaiwan 法規與議題議論
@@ -199,8 +206,10 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #wikidatataiwan	Wikidata Taiwan 討論頻道
 #data 資料
 #crowdtribute-公民科學與群眾參與計畫
+#dada 網路黑魔法防禦術（Defence Against the Dark Arts），對抗詐騙的討論頻道，頻道名稱取自於哈利波特小說中霍格華茲的學校科目。
 #disinfo 不實訊息來源蒐整
 #cofacts 真的假的 ! 謠言查證 Linebot :speech_balloon: Cofacts is a collaborative system connecting instant messages and fact-check reports together. It’s a grass-root effort fighting mis/disinformation in Taiwan.
+#social-engineering-act
 #115b 永續所得實驗室、永續捐贈議題
 #open-welfare 社會福利議題與資料
 #thaubing-esg 開放企業永續資料庫 - ESG 檢測器
@@ -215,7 +224,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #da0-shoutout 是 incentivize g0v 的演進，做 organic 貢獻系統
 #da0-global-comms 在做公共財與 DAO 的 podcast
 #da0-learning 每月持續有讀書會
-##arm0ry 在做 web3 的任務獎勵系統
+#arm0ry 在做 web3 的任務獎勵系統
 #da0-coordinate 在奠定 da0 的基礎設施
 #da0-dml 是跟 dark matter labs 在AI上的初期對話
 #da0-desci 在gov自治組織中參與全球去中心化科學浪潮，介紹探索去中心化科學的可能
@@ -232,6 +241,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #vaxxtw 疫苗預約的導流網站
 #reopen 疫情解封後指引
 #civil-defense 民防
+#us-wartime-connection
 #adiz_alerts 台灣防空識別區專案
 #cd-t-time 民防下午茶
 #atak 探討 ATAK-CIV 手機軟體應用於防災、民防、戶外任務情境
@@ -293,6 +303,7 @@ https://g0v-slack-archive.g0v.ronny.tw
 ．中部高中電資社團聯合會議 Discord: https://discord.com/invite/At7r54v94c
 ．南臺灣學生資訊社群 Discord: https://discord.gg/6QW6gqhHQe
 ．伴伴學 Discord: https://discord.gg/azQUs8Y2fY
+．Code for Korea Discord https://discord.gg/xNNvfhJUV5
 
 ---
 
