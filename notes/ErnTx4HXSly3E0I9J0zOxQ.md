@@ -39,7 +39,21 @@ https://www.facebook.com/groups/474536628587982
 另開簡報
 https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X5cE/edit
 
-## 20240720 歡迎來查路口寬度 !
+
+## 【對策】斜向路徑
+
+- 美國用語 Diverter
+    - Urban Street Design Guide https://nacto.org/publication/urban-street-design-guide/
+    - 社團討論串：https://www.facebook.com/groups/474536628587982/posts/524452793596365
+- 歐洲用語 Modale Filter
+    - https://de.wikipedia.org/wiki/Modale_Filter#
+- 臺灣用語 路口對角封閉設施
+    - 臺北市《交通道路設計手冊》有提到路口斜向與橫向阻隔車流的設置構想
+        - https://www.facebook.com/groups/474536628587982/permalink/623587027016274/
+    - 社團討論串：
+
+
+### 歡迎來查路口寬度 !
 
 歡迎來幫忙用 Google 地圖，計算世界各地已施作巷弄車流轉向的路口寬度，已知案例：巴塞隆納、維也納、柏林、Leipzig、Münster、Potsdam、西雅圖
 案例線上地圖：https://maps.app.goo.gl/X4C3X5fb5rMY1q5C6
@@ -457,6 +471,9 @@ https://drive.google.com/drive/folders/1pw-JHthK5d7pyJ4MhRUBrkCFQoVAbBTv?usp=sha
 
 2024.06.29 針對臺北市建國中學-古亭站-南門市場，探討方案與公車路線的衝度
 - https://www.facebook.com/groups/474536628587982/posts/480887367952908/
+
+
+
 
 ## 繪製步驟
 
