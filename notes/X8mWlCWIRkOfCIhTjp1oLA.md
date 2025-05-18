@@ -194,12 +194,6 @@ https://www.facebook.com/story.php?story_fbid=pfbid02a98uUtA3KiWtHBvnrDZQW8DnHNJ
 淡水
 https://www.facebook.com/share/p/1DxeqQ8NyC/?mibextid=wwXIfr
 
-新莊
-https://www.facebook.com/groups/twroadclub/permalink/2407835422729552/
-
-新莊思源路
-https://www.facebook.com/groups/twroadclub/permalink/2421897987989962/
-
 北投
 https://www.facebook.com/groups/815378651829887/permalink/6546008165433545/?mibextid=tejx2t
 
