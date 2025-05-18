@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20250514 小松](../notes/0HIJkD3uS-qUGzHxyfUCbA.md) | 2025-05-14T14:40:59+00:00 | 2025-05-12T11:23:23+00:00 |
-| 2 | [vTaiwan 的 Ghost 要怎麼管理](../notes/FEbWXWWVTgOrSqG0n4wDeg.md) | 2025-05-08T01:51:04+00:00 | 2025-04-30T11:55:44+00:00 |
+| 1 | [vTaiwan 的 Ghost 要怎麼管理](../notes/FEbWXWWVTgOrSqG0n4wDeg.md) | 2025-05-18T03:32:53+00:00 | 2025-04-30T11:55:44+00:00 |
+| 2 | [20250514 小松](../notes/0HIJkD3uS-qUGzHxyfUCbA.md) | 2025-05-14T14:40:59+00:00 | 2025-05-12T11:23:23+00:00 |
 | 3 | [20250507 小松](../notes/1vR2SO0zRvekUQ1jNnWkQQ.md) | 2025-05-07T12:12:13+00:00 | 2025-05-06T14:40:27+00:00 |
 | 4 | [vTaiwan x Prof.Francios Taddei](../notes/gcFMYistRviGGoERCctU-Q.md) | 2025-05-07T03:29:50+00:00 | 2025-05-07T03:28:21+00:00 |
 | 5 | [20250430 小松](../notes/rbgID5_tRMWmmZukhdFlLg.md) | 2025-04-30T14:43:37+00:00 | 2025-04-25T16:37:21+00:00 |

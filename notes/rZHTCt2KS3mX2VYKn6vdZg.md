@@ -11,6 +11,7 @@
 - **National Interest**：[What America Can Learn from Taiwan’s Digital Democracy](https://nationalinterest.org/feature/what-america-can-learn-taiwan%E2%80%99s-digital-democracy-35572) 
 - **ITMediaビジネス**：[真っ先に変えるべきは日本人の「思考」　オードリー・タンが貫く「透明性」と「多様性」](https://www.itmedia.co.jp/business/articles/2105/31/news039_4.html)
 - **PRESIDENT Online**：[なぜ日本の野党は｢誰からも相手にされない問題追及｣しかできないのか](https://president.jp/articles/-/40675?page=2)
+- **TechOrange**：[用 XY 軸區分台灣民意！行政院強力工具「vTaiwan」，了解你是不是少數派 | TechOrange 科技報橘](https://buzzorange.com/techorange/2019/04/23/democracy-internet/)
 
 ## Case Study
 - **CrowdLaw**：[vTaiwan Democracy as A Work in Progress](https://congress.crowd.law/case-vtaiwan.html)
