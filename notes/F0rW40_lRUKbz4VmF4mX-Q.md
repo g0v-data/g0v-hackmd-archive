@@ -81,7 +81,7 @@ Discussion around a potential investment scam message, comparing it to 165 cases
 - 辦在青職基地
 - [ ] 食物：
 - [ ] 場地：新北市青年局青職基地
-- [ ] 時間：
+- [ ] 時間：13:00 擺桌子場佈
 	- 活動時間：14:00 - 17:00
 	- 時間分配
         - 2:00 - 2:20 開場

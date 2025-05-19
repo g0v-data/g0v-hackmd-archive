@@ -98,6 +98,7 @@ tags: 公有地大行動, 可能的空間, edu
     - https://www.facebook.com/KLTPPS/
 - 基隆社區大學
     - https://www.facebook.com/624464343/posts/10159235407014344/
+- 金門 http://sonnoy.blogspot.com/2013/05/blog-post_27.html?m=1
 - 親子共學協會承租泰平國小
     - [http://udn.com/news/story/7323/1942046](http://udn.com/news/story/7323/1942046)
 - 生態豐富、景色宜人的兩湖荒地生態園地，是由合家歡協會提供，結合金山區三和國小兩湖分校舊址經營，並以此為基地的生態教育園區。
