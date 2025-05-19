@@ -134,6 +134,11 @@ https://www.facebook.com/100063503749374/posts/%E5%8C%97%E9%BE%8D%E8%B7%AF%E7%9A
 高雄三民區大昌一路302巷
 https://www.facebook.com/story.php?story_fbid=706472412349723&id=100089609110714&mibextid=wwXIfr&rdid=rQ24L100VGVe7BfL#
 
+師大路
+https://www.threads.com/@unseen_frames_/post/DJvVEsqzHfi?xmt=AQF0IKVYSIKe7_JVE3D2hNbl734AsF_e0xez_0eQ_due2A
+
+https://www.facebook.com/share/p/1R7Q5nw7Nd/?mibextid=wwXIfr
+
 
 
 ### 有了改造後地點的經緯度，可以延伸製作
