@@ -53,6 +53,13 @@ Discussion around a potential investment scam message, comparing it to 165 cases
 - "mrorz@g0v-tw先壓一個回應，如果他們再回，我再仔細針對它做一個新的回應
   然後移除其餘詐騙回應"
 
+發現一個 LINEbot「快門手反詐騙查詢」，接了很多資料來源
+- https://www.dcard.tw/@shutterhouboy/post/257437733
+- [github repository](https://github.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter)
+- https://gitlab.jackyhou.idv.tw/houboyjacky/adblock/-/blob/master/AI_Setting_for_Gemini.txt?ref_type=heads
+- [fx110](https://xujia.fx110.com/falsebroker/list/1/0/0) 資料集
+- [Tony Ney](https://www.facebook.com/groups/1141798046611751/user/100001471821039/) 資料集
+
 ## 大松籌備
 
 - Reminder about participating in the 5/25 hackathon and evaluating the venue.

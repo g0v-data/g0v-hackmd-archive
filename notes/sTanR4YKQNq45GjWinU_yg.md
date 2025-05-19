@@ -58,12 +58,6 @@ tags: 公有地大行動, 可能的空間, edu
     - 已經停辦的學校清單在教育部統計處的學校名錄頁面裡面可以找到資料
         - https://depart.moe.edu.tw/ed4500/News.aspx?n=63F5AB3D02A8BBAC&sms=1FF9979D10DBF9F3
         - 每年的「異動一覽表」
-        - 個別訊息
-            - [彰化縣大城鄉繼去年永光國小裁併後，建校62年的「頂庄國小」也將步入後塵](https://www.ettoday.net/amp/amp_news.php?news_id=1892059&from=fb_et_news)
-            - 台中市東勢實驗高中舊校區
-                - https://www.facebook.com/groups/368972756282/permalink/10157185998211283/
-            - 摘：曾經有2000多人的林業村，村內的「森榮國小」曾有400多位學生，全臺數一數二的林業聚落「林田山」
-                - https://www.facebook.com/share/p/1CEMvSdJvm/
     - 廢校等待活化
         - 全國待活化閒置校舍
             - http://ssdelt.nhps.tp.edu.tw/index.php?action=activation_data_n
@@ -120,6 +114,9 @@ tags: 公有地大行動, 可能的空間, edu
 - 屏東縣車城國小保力分校廢校後，縣府擬規劃做為住宿式長照機構 https://www.facebook.com/groups/1524648621188142/permalink/2818643638455294/
 - 生態教室這棟建築最早是由當地耆老與民眾集資興建，做為社區活動中心，因設雙連埤分校而交給縣府使用，少子化之後廢校，縣府多年來出租給荒野保護協會當生態教室
 https://www.facebook.com/100000363068857/posts/3983742031647860/
+- 彰化縣大城鄉繼去年永光國小裁併後，建校62年的「頂庄國小」也將步入後塵 https://www.ettoday.net/amp/amp_news.php?news_id=1892059&from=fb_et_news
+- 台中市東勢實驗高中舊校區 https://www.facebook.com/groups/368972756282/permalink/10157185998211283/
+- 摘：曾經有2000多人的林業村，村內的「森榮國小」曾有400多位學生，全臺數一數二的林業聚落「林田山」 https://www.facebook.com/share/p/1CEMvSdJvm/
 - 高雄市七賢國中舊校地 https://www.facebook.com/story.php?story_fbid=pfbid0CBGbGpHKmkUeuekD5aHhM2FUnw3Ea13ogocjSrhUZZJD4F4mChbkMxVvcV2o2SExl&id=100001911006611&mibextid=tejx2t
 https://eyesonplace.net/2023/02/17/22485/
 - 東勢高工舊校區 https://www.facebook.com/wanyu.claire/photos/a.103179557816265/330941175040101/
