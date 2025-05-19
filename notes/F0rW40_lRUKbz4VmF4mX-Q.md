@@ -8,8 +8,8 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- NPO Hub:
-- 線上出席：
+- NPO Hub: bil, mrorz, nonumpa
+- 線上出席：Tim
 - Gather Town: https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -26,6 +26,11 @@ https://github.com/cofacts/rumors-line-bot/releases/tag/release%2F20250516
 ## 謠言惑眾獎
 
 中獎人出爐
+還沒人開訊息
+
+:::success
+Report to Robin
+:::
 
 ## Scam message Discussions
 
@@ -71,11 +76,18 @@ Discussion around a potential investment scam message, comparing it to 165 cases
 ### Open165
 
 - 來不及 QQ [name=mrorz]
+- 先 skip
 
 ### Cofacts
 
+和平常一樣
 
-### 小聚籌備
+## 6 月開會
+
+- 6/2: MrOrz, bil 不行
+- 6/4
+
+## 小聚籌備
 06/15 (日) 2pm - 5 pm 
 - OK: 
 - 辦在青職基地
@@ -95,7 +107,7 @@ Discussion around a potential investment scam message, comparing it to 165 cases
         - 4:10 - 4:40 實作撰寫新回應
         - 4:40 - 5:00 介紹分類、RSS、合照
 - [ ] 投放目標：
-  - 推播日：06/03
+  - 推播日：06/03（5/26 設定）
   - 目標：雙北
 - [ ] KKTIX: https://cofacts.kktix.cc/events/cofactseditor47
 - [ ] 誰會來呢： 
