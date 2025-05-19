@@ -278,9 +278,6 @@ https://www.facebook.com/share/p/71cr29GAKnNFuaxu/
 桃園忠勇路
 https://www.facebook.com/share/1MH5Nv8Ns1/
 
-航空城
-https://www.facebook.com/share/v/18bMMkKqo4/?mibextid=wwXIfr
-
 中壢
 https://www.facebook.com/100049204915573/posts/pfbid05UarMKSgK9kEQCAzzqosoJ5HkmDgc56GDCfdLePBdxPBjbDbk34MoBVHJiQ9nx5Kl/
 
@@ -618,9 +615,6 @@ https://www.facebook.com/share/p/1A2mMXemRG/?mibextid=wwXIfr
 
 花蓮
 https://www.facebook.com/groups/525658186189949/permalink/610180067737760/
-
-吉安
-https://www.facebook.com/groups/twroadclub/permalink/2512464878933272/
 
 花東縱谷公路
 https://www.facebook.com/story.php?story_fbid=pfbid0iUVer7dzSnURqrvYDny3XRDCggvPNbiutoAVDweaXE9dDtnvETu6oMmwcNk5uiRHl&id=100049204915573&mibextid=tejx2t
