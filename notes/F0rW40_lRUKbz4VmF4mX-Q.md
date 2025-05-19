@@ -11,10 +11,6 @@ GA: UA-98468513-3
 - NPO Hub:
 - 線上出席：
 - Gather Town: https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
-:::{.donotprint}
-<!-- 把上週的放到 follow up -->
-<!-- 本週的放最上面，notion API 進度 -->
-<!-- release pipeline -->
 :::
 
 ## :glowing_star: Follow up
@@ -26,4 +22,11 @@ GA: UA-98468513-3
 ### :star: Released to production
 
 
-## Discussion
+## 大松籌備
+
+### Open165
+
+- 來不及 QQ [name=mrorz]
+
+### Cofacts
+
