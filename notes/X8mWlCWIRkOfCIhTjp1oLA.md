@@ -107,9 +107,6 @@ https://www.facebook.com/share/r/buYYpFyFWVwSXd1h/
 https://news.pts.org.tw/article/682762
 瑞福路與崗山南街路口再設第2處標線圓環
 
-高雄崗山中街
-https://www.facebook.com/photo.php?fbid=722690190049674&set=a.288952580090106&type=3
-
 高雄博愛路自行車道
 https://www.facebook.com/share/p/3bUvsmQ1x6XGt9qH/
 
@@ -261,10 +258,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfYkLzzPquePO9WQeC1bNXoOUztPfaVAvs3H_j0
 
 樹林
 https://www.facebook.com/share/p/2QHB42YiR2eKRsZK/
-
-
-鶯歌
-https://www.facebook.com/story.php?story_fbid=pfbid02zMBD4khZejvwrvR4FCrjCRamQG8xqid1nbFPVzhMKKn7EEJfsSJADKDRe2DrbaKxl&id=100049204915573
+https://www.facebook.com/share/p/18AWJvPCNh/?mibextid=wwXIfr
 
 鶯歌
 https://www.facebook.com/ntcecea/posts/pfbid02r5j1y8mf8Fgf1Fyhe3hgiAt19E7iXDknRMrwPEXeGeQhdUNecDaCVZ6EEfSNCrtol
@@ -287,9 +281,6 @@ https://www.facebook.com/share/19MURSNy7C/
 中壢，行穿線被高架橋墩阻隔
 https://www.facebook.com/share/cgEL3MF287HV6wzy/
 
-中原大學
-https://www.facebook.com/share/p/155WzndR4Y/
-
 銘佑69街7414弄和龍川二街的十字路口車流量大但並沒有設置紅綠燈和斑馬線
 https://sch001.g0v.tw/dash/prj/PYT0Zh11Dx0fE99.57SCnBr.FZPRb8
 > [name=Ying：嗯？有這街嗎？（銘佑69街7414）本來想看一下長怎樣但 google 搜不到]
@@ -297,9 +288,6 @@ https://sch001.g0v.tw/dash/prj/PYT0Zh11Dx0fE99.57SCnBr.FZPRb8
 
 桃園 同德五街
 https://www.facebook.com/share/p/19WDWaYhg6/
-
-中壢中北路
-https://www.facebook.com/share/p/19WEsJTX7G/?mibextid=WC7FNe
 
 桃園市蘆竹區忠孝西路桃園街口至中正路口的人行道標線完善之後又被塗消掉
 
@@ -335,6 +323,8 @@ https://www.facebook.com/story.php?story_fbid=pfbid02iTXbmiAz5kSRfp8Ghrhw9HYmPaz
 
 竹科
 https://www.facebook.com/story.php?story_fbid=pfbid0f5gG9cuHDydSUq1H8HSXzPGgdMikkPbwmDEEyuQVdpSNdAUdNdrMKdVH5FzK7Wyal&id=100044581802789&mibextid=tejx2t
+
+https://dep-traffic.hccg.gov.tw/ch/home.jsp?id=19&parentpath=0,3&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=202505060008&t=MunicipalNews&mserno=201601300038
 
 新竹縣
 https://www.facebook.com/groups/streetobservation/permalink/653490636701533/
