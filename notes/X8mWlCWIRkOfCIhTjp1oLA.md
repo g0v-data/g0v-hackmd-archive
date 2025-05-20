@@ -303,12 +303,6 @@ https://www.facebook.com/share/p/19WEsJTX7G/?mibextid=WC7FNe
 
 桃園市蘆竹區忠孝西路桃園街口至中正路口的人行道標線完善之後又被塗消掉
 
-桃園市大溪區
-https://www.facebook.com/story.php?story_fbid=pfbid014g6YmgaY6cTgTxaMP3DDGmRpJgL3mSmB5QgnjhBQHSbrQyropDywwA8yVU9EVyfl&id=100083131440923&mibextid=qC1gEa
-
-桃園市復興區
-https://www.facebook.com/story.php?story_fbid=pfbid014g6YmgaY6cTgTxaMP3DDGmRpJgL3mSmB5QgnjhBQHSbrQyropDywwA8yVU9EVyfl&id=100083131440923&mibextid=qC1gEa
-
 新竹圓環
 https://www.facebook.com/story.php?story_fbid=pfbid0eMaAHuR46wWBrmxAxbB42w5XpYf35TZaKK7esL5Lt1BqpbZxhFpaSCKZSaPAC49Ql&id=100063883987874&mibextid=qC1gEa
 
