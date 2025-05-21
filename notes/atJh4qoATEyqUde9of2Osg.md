@@ -4,9 +4,9 @@ tags: vtaiwan
 # 20250521 小松
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants: Peter, 
+參與者 Participants: 
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
-![](https://g0v.hackmd.io/_uploads/Hk70NWfbeg.png)
+
 
 :::info
 下一次 g0v 黑客松
@@ -18,7 +18,20 @@ tags: vtaiwan
 
 ## 小小的分享
 - 議題小聚 polis 結果＋來做樹狀圖
+    - 目前完成的 [簡報檔案](https://docs.google.com/presentation/d/1PMW2vmXN47rRvsDKwRAg6mn1SwJD4loWu5NavGmAoSY/edit?usp=sharing)
+    - 想要一起來做 polis 分析
+    - 目前分歧程度最高的幾個意見
+        - 反詐騙工作應主要由企業自願執行，政府應減少在此領域的強制性規範。**
+        - 社交媒體平台應實施實名驗證機制，以減少詐騙帳號的創建與使用。
+        - 政府應設立基金，為詐騙受害者提供財務賠償。*
+        - 預防詐騙主要是個人責任，民眾應自行提高警覺而非期待機構賠償。*
+        - 反詐騙策略與行動應由政府主導規劃與執行，而非依賴企業自行決定。**
+        - 政府應授權電信業者過濾可疑境外通訊，即使這可能影響少數合法通訊。
+        - 保護用戶隱私和匿名表達權利比實施實名制防詐騙更為重要。
+        - 開發個人化反詐騙工具的效益超過對個人資料使用的隱私顧慮。
 - mentimeter
+    - [目前架設好的連結](https://www.mentimeter.com/app/presentation/alhprqx2kc5xxc1un27spogy1bhy2m8d/edit?source=share-invite-modal)
+        - 上一次的架構非常實用！
 
 ## 5/23 議題小聚
 ![](https://g0v.hackmd.io/_uploads/Bye14G5kxgl.png)
