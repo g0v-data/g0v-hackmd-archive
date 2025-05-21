@@ -60,6 +60,13 @@ tags: vtaiwan
         - 著重於解決方案而非僅描述問題
         - 保持中立表達，不假設共同價值觀
         - 每一個意見都是獨立分開的意見
+### 現場分工
+- 主持人 [name=peter]
+- 助理主持人 [name=yiting]
+- 線上意見 [name=yuting]
+- 參與者報到 [name=承哲]
+- 參與者報到 [name=tofus]
+- 場
 
 ## 網站
 - [vTaiwan 網站改版，啟動！](/Q3_hgovyRHusEq8-3nomPQ)
