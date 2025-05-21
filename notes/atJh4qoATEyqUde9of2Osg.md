@@ -4,7 +4,7 @@ tags: vtaiwan
 # 20250521 小松
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants: Peter, Bestian, 
+參與者 Participants: Peter, 
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
 ![](https://g0v.hackmd.io/_uploads/Hk70NWfbeg.png)
 
@@ -58,4 +58,4 @@ tags: vtaiwan
     - https://allenlinli.notion.site/Zeabur-1eb028ed1717808a88a1d2a35b770011?pvs=4
 
 ## Frankly 討論
-- 目前好像有看到 josh 在辦活動？
+- 目前有看到 josh 在辦活動：(5/30 下午 7:00私有建築外觀管制：市容美化vs產權自由的台灣難題 - 於Frankly坦白說：測試空間，網址：https://app.frankly.org/share/space/wi0cczgdIejvSIVdQIsI/discuss/6S8hijWc0dXG2Q5mSv2E/ITrOnHDeJMGZTrsn1cDM?b=781431) 
