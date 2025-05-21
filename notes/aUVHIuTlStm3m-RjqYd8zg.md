@@ -4,6 +4,14 @@ tags:
 
 # Green Infra Discussion _ 2025.05
 
+:::info
+[TOC]
+:::
+
+# Case study 
+
+### City of Vincent (Norfolk Street) Norfolk St & Burt St 
+
 ![](https://g0v.hackmd.io/_uploads/HylHBkFsZxg.jpg)
 
 ![](https://g0v.hackmd.io/_uploads/HyggwMYi-ll.png)
@@ -19,45 +27,105 @@ https://maps.app.goo.gl/KRpLADwPtXuDmPCH8
 Safe Active Streets Pilot Program
 https://www.transport.wa.gov.au/activetransport/safe-active-streets-pilot-program.asp
 
-## Taipei
+# Taipei
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFlj1yOCE-p6MJNVG6MtP6y85fqgnCoK9O4hSg28XSA6E7Y5KRIXUnHhf7SjgJOv2ME0lbc2tlTL2C/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ![](https://g0v.hackmd.io/_uploads/ByxgAEFs-gx.png)
+![](https://g0v.hackmd.io/_uploads/S1Z-5tsZgg.png)
 
 
-20250524 Sat. Travel itinerary map
+## 20250524 Sat. Travel itinerary online-map
+
 https://maps.app.goo.gl/CwhGzCxeusGb71S4A
 
-## 大安森林公園與潛在風廊
+## Strategic Typology of Park and Green Spaces: Park as Cool Island + Wind Corridor + Human-Centered Block Regeneration
 
-Da'an Forest Park and Potential Wind Corridors
+![](https://g0v.hackmd.io/_uploads/BJUqOtsWlg.png)
+
+
+### 大安森林公園與潛在風廊 Da'an Forest Park and Potential Wind Corridors (Prevailing Summer Easterly Winds)
+
 https://youtu.be/t683KekYiyw?si=gE0a8VAHG1BktRjw&t=173
 
 ![](https://g0v.hackmd.io/_uploads/SkPxLtj-xx.png)
 
-
 <iframe width=100% height="480" src="https://www.youtube.com/embed/t683KekYiyw?si=gE0a8VAHG1BktRjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### 新生南路水圳意象
+### 新生南路水圳意象 Canal Greenway
 https://youtu.be/0FpZ4EH-1E8
 <iframe width=100% height="480" src="https://www.youtube.com/embed/0FpZ4EH-1E8?si=o6BNq9lHUAppqCt5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### 永春陂濕地公園
+
+
+## Strategic Typology of Park and Green Spaces: Hydrological Green Corridor from Mountains to Urban Areas
+
+![](https://g0v.hackmd.io/_uploads/H1hd_Yo-eg.png)
+
+
+
+### 永春陂濕地公園 Yongchunpi Weltand Park
 
 ![](https://g0v.hackmd.io/_uploads/ByxpdXFoblg.png)
 
 https://youtu.be/opZ187K2dAA
 https://youtu.be/cDwnytN7Pso?si=JoIP0HhiFeLnPDhE&t=174
 
-### 廣慈園區
+### 廣慈園區 Kuang Tzu Po Ai Public House Development Project
 
 https://maps.app.goo.gl/8bdKaR4GwtDuHVCX6
 
-### 市府廣場
+
+## Strategic Typology of Park and Green Spaces: Integrated Parks across Urban Blocks
+
+![](https://g0v.hackmd.io/_uploads/BJgBFutjbxg.png)
+
+
+### 市府廣場 Taipei City Hall Plaza Reform
+
+![](https://g0v.hackmd.io/_uploads/SJr5ecj-le.png)
 
 https://maps.app.goo.gl/wzHWe7GD2K1jBGBM8
 
-### 東區與夏日盛行東風
+### 東區與夏日盛行東風 East District Urban Regeneration and Prevailing Summer Easterly Winds
 
-East District Urban Regeneration and Prevailing Summer Easterly Winds
+![](https://g0v.hackmd.io/_uploads/B1EAgcoZeg.png)
 
 https://www.google.com/maps/@25.0399639,121.5797198,740a,35y,269.95h,74.3t/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoASAFQAw%3D%3D
+
+
+## Strategic Typology of Park and Green Spaces: Revitalization of Basin River Living Circles
+
+![](https://g0v.hackmd.io/_uploads/Bk5w3FoWxe.png)
+
+![](https://g0v.hackmd.io/_uploads/Bkl3Il5i-ex.png)
+
+
+## Strategic Typology of Park and Green Spaces: Transformation of Elevated Road Corridors
+
+![](https://g0v.hackmd.io/_uploads/r1LP3Fo-lx.png)
+
+![](https://g0v.hackmd.io/_uploads/H1lGjJ5j-le.png)
+
+![](https://g0v.hackmd.io/_uploads/HkyBxqjZxl.png)
+
+Marathon
+https://www.facebook.com/share/p/fPKGmCi128QRCQiW/
+
+![](https://g0v.hackmd.io/_uploads/rJPWx5sZgx.png)
+
+
+高架道路型式及街谷環境條件對都市微氣候影響之研究―以臺北市新生高架道路為例
+A Study on the Influence of Viaduct Types and Street Canyon Environmental Conditions on Urban Microclimate with Taipei XinSheng Expressway
+
+https://www.facebook.com/groups/582154450196478/permalink/1012516907160228/
+
+---
+
+END
+
+---
+
+:::info
+[TOC]
+:::
