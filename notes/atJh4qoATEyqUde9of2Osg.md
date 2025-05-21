@@ -78,7 +78,7 @@ tags: vtaiwan
 - 主持人 [name=peter]
 - 助理主持人 [name=yiting]
 - 線上意見 [name=yuting]
-- 參與者報到、場地佈置 [name=承哲]、 [name=Tim]、[name=james]
+- 參與者報到、場地佈置 [name=承哲]、 [name=Tim]、[name=james]、[name=A4]
 - 攝影 [name=tofus]
 工作人員一樣有車馬費
 ### 動態意見更新
