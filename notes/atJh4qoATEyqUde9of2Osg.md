@@ -21,14 +21,14 @@ tags: vtaiwan
     - 目前完成的 [簡報檔案](https://docs.google.com/presentation/d/1PMW2vmXN47rRvsDKwRAg6mn1SwJD4loWu5NavGmAoSY/edit?usp=sharing)
     - 想要一起來做 polis 分析
     - 目前分歧程度最高的幾個意見
-        - 反詐騙工作應主要由企業自願執行，政府應減少在此領域的強制性規範。**
-        - 社交媒體平台應實施實名驗證機制，以減少詐騙帳號的創建與使用。
-        - 政府應設立基金，為詐騙受害者提供財務賠償。*
-        - 預防詐騙主要是個人責任，民眾應自行提高警覺而非期待機構賠償。*
-        - 反詐騙策略與行動應由政府主導規劃與執行，而非依賴企業自行決定。**
-        - 政府應授權電信業者過濾可疑境外通訊，即使這可能影響少數合法通訊。
-        - 保護用戶隱私和匿名表達權利比實施實名制防詐騙更為重要。
-        - 開發個人化反詐騙工具的效益超過對個人資料使用的隱私顧慮。
+        - 1. 反詐騙工作應主要由企業自願執行，政府應減少在此領域的強制性規範。**
+        - 2. 社交媒體平台應實施實名驗證機制，以減少詐騙帳號的創建與使用。
+        - 3. 政府應設立基金，為詐騙受害者提供財務賠償。*
+        - 4. 預防詐騙主要是個人責任，民眾應自行提高警覺而非期待機構賠償。*
+        - 5. 反詐騙策略與行動應由政府主導規劃與執行，而非依賴企業自行決定。**
+        - 6. 政府應授權電信業者過濾可疑境外通訊，即使這可能影響少數合法通訊。
+        - 7. 保護用戶隱私和匿名表達權利比實施實名制防詐騙更為重要。
+        ~~- 8.開發個人化反詐騙工具的效益超過對個人資料使用的隱私顧慮。~~
 - mentimeter
     - [目前架設好的連結](https://www.mentimeter.com/app/presentation/alhprqx2kc5xxc1un27spogy1bhy2m8d/edit?source=share-invite-modal)
         - 上一次的架構非常實用！
@@ -60,6 +60,20 @@ tags: vtaiwan
         - 著重於解決方案而非僅描述問題
         - 保持中立表達，不假設共同價值觀
         - 每一個意見都是獨立分開的意見
+### 相關敘述
+- 參與者上傳的無關敘述要有更好的治理機制
+    - 在後台設置上必須 No comments shown without moderator approval。
+### polis 樹狀圖
+- 樹狀圖的意義？
+    - 是否能夠進一步進行分組討論？
+        - 線上與線下混合的情況
+- 幫助參與者得到意見的 Overview [name=peter]
+#### 步驟
+- 找出讓每一個組突出的論述
+- 利用分組較為乾淨（回應）
+#### polis decision builder 
+- Josh 開發的！超厲害！
+- 目前在測試中
 ### 現場分工
 - 主持人 [name=peter]
 - 助理主持人 [name=yiting]
@@ -67,7 +81,10 @@ tags: vtaiwan
 - 參與者報到、場地佈置 [name=承哲]、 [name=Tim]、[name=james]
 - 攝影 [name=tofus]
 工作人員一樣有車馬費
-
+### 動態意見更新
+- 感覺可以在第一輪同意 / 不同意的投票後，得出新的意見
+- 在每一個意見的兩輪投票之間，可以新增一個意見的頁面
+    - 作為 AI 更新這個 statement
 ## 網站
 - [vTaiwan 網站改版，啟動！](/Q3_hgovyRHusEq8-3nomPQ)
 - 目前有一個預部署的[成果](https://vtaiwan.zeabur.app)
@@ -79,5 +96,7 @@ tags: vtaiwan
 - bestian查詢了用[CloudFlare pages](https://pages.cloudflare.com/)步署astro網站的適配性：Astro 預設就是產出靜態 HTML 檔案，非常適合部署在像 Cloudflare Pages 這樣的 CDN 靜態網站平台。[詳細對話請見此](https://chatgpt.com/share/682dabeb-bcb4-800b-8ecb-f695539d74fa)
 
 ## Frankly 討論
+- 議題小聚活動結束後，可以辦一個這樣的活動
 - 目前有看到 josh 在辦活動：(5/30 下午 7:00私有建築外觀管制：市容美化vs產權自由的台灣難題 - 於Frankly坦白說：測試空間，網址：https://app.frankly.org/share/space/wi0cczgdIejvSIVdQIsI/discuss/6S8hijWc0dXG2Q5mSv2E/ITrOnHDeJMGZTrsn1cDM?b=781431) 
-- bestian查到了一個大型討論用的意見整合工具，或許值得測試：[Sensemaker](https://jigsaw-code.github.io/sensemaking-tools)，使用簡介如下：https://chatgpt.com/share/682daa4d-17d8-800b-ac04-096c08a23bb2
+- bestian查到了一個大型討論用的意見整合工具，或許值得測試：[Sensemaker](https://jigsaw-code.github.io/sensemaking-tools)，
+    - [使用簡介](https://chatgpt.com/share/682daa4d-17d8-800b-ac04-096c08a23bb2)
