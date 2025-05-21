@@ -1,5 +1,5 @@
 ---
-tags: urban,
+tags: GIS,
 ---
 
 # Green Infra Discussion _ 2025.05
@@ -113,19 +113,17 @@ Nvidia's Taiwan headquarters will be located in Beitou-Shilin, Taipei. The photo
 
 ![](https://g0v.hackmd.io/_uploads/H1lGjJ5j-le.png)
 
-![](https://g0v.hackmd.io/_uploads/HkyBxqjZxl.png)
-
 Marathon
 https://www.facebook.com/share/p/fPKGmCi128QRCQiW/
 
-![](https://g0v.hackmd.io/_uploads/rJPWx5sZgx.png)
+![](https://g0v.hackmd.io/_uploads/HkyBxqjZxl.png)
 
 
 高架道路型式及街谷環境條件對都市微氣候影響之研究―以臺北市新生高架道路為例
 A Study on the Influence of Viaduct Types and Street Canyon Environmental Conditions on Urban Microclimate with Taipei XinSheng Expressway
-
 https://www.facebook.com/groups/582154450196478/permalink/1012516907160228/
 
+![](https://g0v.hackmd.io/_uploads/rJPWx5sZgx.png)
 
 # Case study 
 
