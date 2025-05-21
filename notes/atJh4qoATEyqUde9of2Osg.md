@@ -76,6 +76,8 @@ tags: vtaiwan
 - 目前伺服器部署在東京。
 - Allen查詢了 Zeabur 背景
     - https://allenlinli.notion.site/Zeabur-1eb028ed1717808a88a1d2a35b770011?pvs=4
+- bestian查詢了用[CloudFlare pages](https://pages.cloudflare.com/)步署astro網站的適配性：Astro 預設就是產出靜態 HTML 檔案，非常適合部署在像 Cloudflare Pages 這樣的 CDN 靜態網站平台。[詳細對話請見此](https://chatgpt.com/share/682dabeb-bcb4-800b-8ecb-f695539d74fa)
 
 ## Frankly 討論
 - 目前有看到 josh 在辦活動：(5/30 下午 7:00私有建築外觀管制：市容美化vs產權自由的台灣難題 - 於Frankly坦白說：測試空間，網址：https://app.frankly.org/share/space/wi0cczgdIejvSIVdQIsI/discuss/6S8hijWc0dXG2Q5mSv2E/ITrOnHDeJMGZTrsn1cDM?b=781431) 
+- bestian查到了一個大型討論用的意見整合工具，或許值得測試：[Sensemaker](https://jigsaw-code.github.io/sensemaking-tools)，使用簡介如下：https://chatgpt.com/share/682daa4d-17d8-800b-ac04-096c08a23bb2
