@@ -438,8 +438,8 @@ https://www.facebook.com/groups/twroadclub/posts/1972893492890416/
 https://www.facebook.com/share/wBiL3HgPM9eN9XpZ/
 
 彰化市中華西路/曉陽路
+台中市霧峰區中潭公路/中正路(立法院民主議政園區(臺灣省議會紀念園區))
 https://www.facebook.com/100049204915573/posts/pfbid0U538Q2mrd7CVBURitvLhASHM9oRQwLLpWQG1bVHM7YLagry7LXnQqYwo7NibsYmwl/?mibextid=cr9u03
-
 https://www.facebook.com/100064542675965/posts/pfbid0t1KNv3tDaLoprUUtFfAtBCyPpWRvT4R6K4uLctfEz27pLLKWF9om9jw8gfVwYkBml/?mibextid=cr9u03
 
 臺南市七股區
@@ -457,11 +457,10 @@ https://www.facebook.com/share/MaSgKZqayN8zzFor/?mibextid=WC7FNe
 佳里
 https://www.facebook.com/photo.php?fbid=992418499074971&set=a.601575628159262&type=3&mibextid=WC7FNe
 
-臺南高鐵附近，行穿線沒有斜坡進入實體人行道
+臺南高鐵附近，行穿線沒有斜坡進入實體人行道(街景顯示已改善)
 https://www.facebook.com/story.php?story_fbid=10160372095968462&id=536028461
-
-學甲
-https://www.facebook.com/share/15TiDSRf57/
+街景
+https://maps.app.goo.gl/qyoG22DfARQtqJur9
 
 臺南圓環 湯德章
 https://www.facebook.com/share/WmQcSEXdK1PpbKuH/
@@ -592,8 +591,6 @@ https://www.facebook.com/share/1Eoczs4U9V/?mibextid=wwXIfr
 東港 公車轉運站
 https://www.facebook.com/share/p/18DoMQdXCP/
 
-小琉球
-https://www.facebook.com/share/p/1A2mMXemRG/?mibextid=wwXIfr
 
 花蓮
 https://www.facebook.com/groups/525658186189949/permalink/610180067737760/
