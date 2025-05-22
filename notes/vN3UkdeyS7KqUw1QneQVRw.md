@@ -88,7 +88,7 @@ Everything rely on internet infra will gone.
 
 ![](https://hackmd.io/_uploads/ByfXRz9blg.jpg)
 
-note: 扣除直接與對岸相連的 3 條海纜，總共有 8 個海纜系統將台灣連接到全球的網際網路。另外有 6 條海纜連接台灣本島與離島。光在今年，臺馬2號，臺彭3號就兩次被中國權宜船「意外」破壞。其中臺彭3號就發生在 rightscon 期間，也是我國第一次抓到當事船
+note: 扣除直接與對岸相連的 3 條海纜，總共有 8 個海纜系統將台灣連接到全球的網際網路。另外有 6 條海纜連接台灣本島與離島。光在今年，臺馬2號，臺澎3號就兩次被中國權宜船「意外」破壞。其中臺澎3號就發生在 rightscon 期間，也是我國第一次抓到當事船
 
 ----
 
@@ -124,7 +124,7 @@ source  https://www.youtube.com/watch?v=NXroXYzXLX0
 
 ![](https://g0v.hackmd.io/_uploads/H1DghIWJxe.png)
 
-note: 破壞臺彭三號的「宏泰輪」航跡, Z字型漂流兩天之後，在海纜「事故」後，才加速要離開
+note: 破壞臺澎三號的「宏泰輪」航跡, Z字型漂流兩天之後，在海纜「事故」後，才加速要離開
 
 ----
 
@@ -163,7 +163,7 @@ note: 海纜很貴，破壞很便宜, 破壞海纜只需要一艘破船一隻錨
 
 - Low-earth orbit satallite 低軌衛星：實用化需要數百至數千顆衛星 thousands of sat to be work
 - Geo orbit satallite 同步軌道衛星：頻寬低、延遲高 slow and low brandwith 
-- New cables 新海纜：十億起跳 cost 10M+
+- New cables 新海纜：十億起跳 cost 10M+USD
 - Landing stations 海纜站
 
 <!-- 數發部編列 5.3 億預算，被砍了 3 億
