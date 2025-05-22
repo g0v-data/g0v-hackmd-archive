@@ -316,13 +316,16 @@ https://fb.watch/kGC-s0SlCw/
 https://www.facebook.com/story.php?story_fbid=pfbid02iTXbmiAz5kSRfp8Ghrhw9HYmPazgjWw2CmVsSpAzfQVK955hqUcLAtpV7hsBeQUTl&id=100044187741586&mibextid=qC1gEa
 
 竹科
-https://www.facebook.com/story.php?story_fbid=pfbid0f5gG9cuHDydSUq1H8HSXzPGgdMikkPbwmDEEyuQVdpSNdAUdNdrMKdVH5FzK7Wyal&id=100044581802789&mibextid=tejx2t
-
 https://dep-traffic.hccg.gov.tw/ch/home.jsp?id=19&parentpath=0,3&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=202505060008&t=MunicipalNews&mserno=201601300038
 
 新竹縣
 https://www.facebook.com/groups/streetobservation/permalink/653490636701533/
 https://goo.gl/maps/QEDGFhNVHE6JXVvAA
+(錯的)
+https://maps.app.goo.gl/xr6tN8ymyQKHrWT37
+隊的
+https://www.cna.com.tw/postwrite/chi/357789
+新聞
 
 新竹縣
 https://www.facebook.com/100043971317246/posts/pfbid028fq5fVTBp8q2jhQhsP1ecWknCxminf4pXuGd5QkMgbZvF4Lz3LN8unNVW9uFUmnZl/?mibextid=cr9u03
@@ -434,8 +437,9 @@ https://www.facebook.com/groups/twroadclub/posts/1972893492890416/
 中山一路，八德一路
 https://www.facebook.com/share/wBiL3HgPM9eN9XpZ/
 
-待查詢具體位置
+彰化市中華西路/曉陽路
 https://www.facebook.com/100049204915573/posts/pfbid0U538Q2mrd7CVBURitvLhASHM9oRQwLLpWQG1bVHM7YLagry7LXnQqYwo7NibsYmwl/?mibextid=cr9u03
+
 https://www.facebook.com/100064542675965/posts/pfbid0t1KNv3tDaLoprUUtFfAtBCyPpWRvT4R6K4uLctfEz27pLLKWF9om9jw8gfVwYkBml/?mibextid=cr9u03
 
 臺南市七股區

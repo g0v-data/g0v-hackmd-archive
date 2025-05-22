@@ -8,6 +8,7 @@ tags: GIS,
 [TOC]
 :::
 
+https://meet.google.com/qnb-xnub-wtj
 
 # Taipei
 
