@@ -11,6 +11,9 @@ tags: digital-resilience, 數位韌性松, DigiResiTh0n
 
 [g0v.hackmd.io/@irvin/cable-dark](https://g0v.hackmd.io/@irvin/cable-dark)
 
+問題收集共筆
+https://g0v.hackmd.io/@irvin/cable-questions/edit
+
 ---
 
 ## Irvin Chen
@@ -30,8 +33,7 @@ https://www.submarinecablemap.com/country/taiwan
 
 ![](https://hackmd.io/_uploads/S1OpC_NZxx.png)
 
-note: 10 cables (inc. 2 to Chi
-na)
+note: 10 cables (inc. 2 to China)
 
 ----
 
@@ -66,7 +68,7 @@ src: https://github.com/irvin/digital-service-resilience?tab=readme-ov-file#韌�
 | 國防部 | ？ |
 | 總統府 | Ｏ |
 | 內政部警政署防空避難專區 | Ｏ |
-| G0v | Ｘ |
+| g0v | Ｘ |
 | OCF | Ｘ |
 | SITCON | Ｘ |
 
