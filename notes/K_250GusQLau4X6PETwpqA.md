@@ -81,6 +81,10 @@ tags: 吉祥物, AI
 溫泉
 - 「麒麟尿」原來是指白河關子嶺的泥漿溫泉 https://news.ltn.com.tw/news/life/breakingnews/2266374
 
+
+山區
+- 安地斯山區 https://www.facebook.com/share/p/14wNUAGzBo/
+
 農田
 - Make Land Smile, Start From Taiwan ｜ 讓土地微笑，從台灣開始。
     - https://www.facebook.com/groups/156400945104551/permalink/595230964554878/
