@@ -19,11 +19,13 @@ https://meet.google.com/qnb-xnub-wtj
 
 
 
-## 20250524 Sat. Travel itinerary online-map
+## 20250524 Sat. Travel itinerary online-map / Strategic Typology of Park and Green Spaces
 
 https://maps.app.goo.gl/CwhGzCxeusGb71S4A
 
-## Strategic Typology of Park and Green Spaces: Park as Cool Island + Wind Corridor + Human-Centered Block Regeneration 公園冷島+風廊+街區人本核心再造
+Strategic Typology of Park and Green Spaces：
+
+## (1) Park as Cool Island + Wind Corridor + Human-Centered Block Regeneration 公園冷島+風廊+街區人本核心再造
 
 ![](https://g0v.hackmd.io/_uploads/BJUqOtsWlg.png)
 
@@ -42,7 +44,7 @@ https://youtu.be/0FpZ4EH-1E8
 
 
 
-## Strategic Typology of Park and Green Spaces: Hydrological Green Corridor from Mountains to Urban Areas 依山至市區的水文綠軸帶
+## (2) Hydrological Green Corridor from Mountains to Urban Areas 依山至市區的水文綠軸帶
 
 ![](https://g0v.hackmd.io/_uploads/H1hd_Yo-eg.png)
 
@@ -60,7 +62,7 @@ https://youtu.be/cDwnytN7Pso?si=JoIP0HhiFeLnPDhE&t=174
 https://maps.app.goo.gl/8bdKaR4GwtDuHVCX6
 
 
-## Strategic Typology of Park and Green Spaces: Integrated Parks across Urban Blocks 跨街廓整合園區
+## (3) Integrated Parks across Urban Blocks 跨街廓整合園區
 
 ![](https://g0v.hackmd.io/_uploads/BJgBFutjbxg.png)
 
@@ -82,7 +84,11 @@ https://www.google.com/maps/@25.0399639,121.5797198,740a,35y,269.95h,74.3t/data=
 https://formosarace.blogspot.com/2016/06/blog-post_27.html
 https://www.airitilibrary.com/Article/Detail/U0001-1703202113393400
 
-## Strategic Typology of Park and Green Spaces: Integrated Environmental Development Strategies for Industrial Parks 產業園區整體環境營造對策
+![](https://g0v.hackmd.io/_uploads/H1ggipbCble.png)
+![](https://g0v.hackmd.io/_uploads/BybgsTZRZxl.png)
+
+
+## (4) Integrated Environmental Development Strategies for Industrial Parks 產業園區整體環境營造對策
 
 ### Neihu Technology Park
 https://youtu.be/590dmxfvMY0
@@ -105,15 +111,14 @@ Nvidia's Taiwan headquarters will be located in Beitou-Shilin, Taipei. The photo
 ![](https://g0v.hackmd.io/_uploads/HJeTrzsoWex.png)
 
 
-
-## Strategic Typology of Park and Green Spaces: Revitalization of Basin River Living Circles 盆地河流生活圈再造
+## (5) Revitalization of Basin River Living Circles 盆地河流生活圈再造
 
 ![](https://g0v.hackmd.io/_uploads/Bk5w3FoWxe.png)
 
 ![](https://g0v.hackmd.io/_uploads/Bkl3Il5i-ex.png)
 
 
-## Strategic Typology of Park and Green Spaces: Transformation of Elevated Road Corridors 高架橋軸帶轉型
+## (6) Transformation of Elevated Road Corridors 高架橋軸帶轉型
 
 ![](https://g0v.hackmd.io/_uploads/r1LP3Fo-lx.png)
 
