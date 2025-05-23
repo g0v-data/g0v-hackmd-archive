@@ -77,6 +77,11 @@ https://maps.app.goo.gl/wzHWe7GD2K1jBGBM8
 
 https://www.google.com/maps/@25.0399639,121.5797198,740a,35y,269.95h,74.3t/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoASAFQAw%3D%3D
 
+### Taipei Western Gateway Project
+
+https://formosarace.blogspot.com/2016/06/blog-post_27.html
+https://www.airitilibrary.com/Article/Detail/U0001-1703202113393400
+
 ## Strategic Typology of Park and Green Spaces: Integrated Environmental Development Strategies for Industrial Parks 產業園區整體環境營造對策
 
 ### Neihu Technology Park
