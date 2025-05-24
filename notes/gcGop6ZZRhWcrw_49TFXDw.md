@@ -36,19 +36,19 @@ g0v 零時政府揪松團是 g0v 社群的工作小組之一，負責籌辦 g0v 
 
 1. <font color=#D60202>如果你不希望被拍照、或是以任何形式入鏡，請務必配戴「紅色頸繩」（頸繩可於報到處領取）</font>。如果你剛好是媒體，請避免拍攝配戴紅色頸繩（意即：不願被拍攝）的活動參加者畫面，如無法避免拍到他們，請協助後製，遮蔽他們的畫面。
 2. 現場提供飲料餐點，請自備環保餐具（杯子、餐具、餐盒），減少免洗餐具用量
-3. **疫情期間，歷經波折，請大家共同珍惜好不容易訂到的實體場地，因爲名額有限，「NO SHOW」不出席會損害其他人出席的機會，若真的不克出席，請記得到 KKTIX 取消票券，將機會讓給其他人。**
+3. 因爲名額有限，「NO SHOW」不出席會損害其他人出席的機會，若真的不克出席，請記得到 KKTIX 取消票券，將機會讓給其他人。**
 4. <font color=#D60202>無論是新手在活動中遇到困難＆有問題的地方，或是**有任何活動參加者遇到騷擾＆不愉快的事情，請讓揪松團知道**，揪松團職工將在活動現場穿**黃色背心**。</font>
 5. 請大家使用大松活動的 wifi（帳號是 g0v hackathon，密碼寫在會場白板上），不要使用院內 guest 網路喔！
 
 ### 本次大松專案
 
-https://docs.google.com/spreadsheets/d/1rtqJHmMlrIYSm3let_yYYXKQpHpazDY5ImoJWLDY6FU/edit?usp=sharing
+[提案列表與流程](https://g0v.hackmd.io/@jothon/g0v-hackath67n/https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1aHc6Z_SftHvruqJH1uFgFwl-La9vMBS0f8gbkPoZS5g%2Fedit%3Fusp%3Dsharing)
 
 ## 特別感謝
 
 ### 大松之友贊助單位
 :::warning
-感謝 **💎鈦金大松之友 vTaiwan** 贊助本次大松。
+感謝 鑽石大松之友 **綠沙發 GreenSofa** 贊助本次大松。
 g0v 雙月黑客松開放大眾免費參與，歡迎個人、組織、企業加入大松之友的行列贊助負責揪大松的 g0v 揪松團，讓我們有經費可以持續在 g0v 社群推動開源專案。
 
 ▍更詳細的贊助與回饋方案，請見：[g0v 大松之友贊助方案 介紹＆說明](https://drive.google.com/drive/folders/1zC8yKEjg22kPeW5Y1Lyg3UVsPgj0XK2G?usp=drive_link)
@@ -64,7 +64,8 @@ g0v 雙月黑客松開放大眾免費參與，歡迎個人、組織、企業加�
 :::
 ## 與會簽到與三個關鍵字 Sign & 3 keywords
 - Peter
-
+- Pichu
+- Hau
 
 
 ## 本次大松的提案小筆記 Proposal's note for Hackathon
