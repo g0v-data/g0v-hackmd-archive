@@ -1,19 +1,19 @@
 ---
-title: 第肆拾壹次 g0v 揪松團 松前哈拉
+title: 第肆拾貳次 g0v 揪松團 松前哈拉
 tags: hackathon,松前哈拉
 image: https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_525733c051ba8c0ee06fd160a17561de
 ---
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
-# 第肆拾壹次 g0v 揪松團 松前哈拉 41st Community Hangout
+# 第肆拾貳次 g0v 揪松團 松前哈拉 42nd Community Hangout
 *為大松暖身的前夜線上趴！*
 
 ![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_db175c9dc2047fae0b8e2c46f4134096)
 
 ## 活動資訊 Info
 
-- 時間 Time：2025/02/21 Fri.</font> 9pm - 10pm UTC +8
+- 時間 Time：2025/05/24 Sat.</font> 9pm - 10pm UTC +8
 - 地點 Place：線上會議室 Online Meeting Room **Jitsi** >>> https://meet.jit.si/g0vhala
-- 本期共筆：https://g0v.hackmd.io/@jothon/g0v-hackath65n/
+- 本期共筆：https://g0v.hackmd.io/@jothon/g0v-hackath67n/
 - 主辦 Organizers：[g0v jothon 零時政府揪松團](https://jothon.g0v.tw/)
 - 主持 Moderator：Peter
 
@@ -64,7 +64,7 @@ g0v 雙月黑客松開放大眾免費參與，歡迎個人、組織、企業加�
 :::
 ## 與會簽到與三個關鍵字 Sign & 3 keywords
 - Peter
-- Mavis
+
 
 
 ## 本次大松的提案小筆記 Proposal's note for Hackathon
@@ -74,7 +74,6 @@ g0v 雙月黑客松開放大眾免費參與，歡迎個人、組織、企業加�
 
 ## 下次松前哈拉 Next Hangout
 
-- [2024 揪松團活動行事曆](https://g0v.hackmd.io/@jothon/jothon2024)
 
 ## 參考資料 Ref
 - 揪松 Trello：https://trello.com/b/f8gWnjeC/g0v-jothon-organizer
