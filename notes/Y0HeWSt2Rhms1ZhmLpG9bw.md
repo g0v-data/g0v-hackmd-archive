@@ -1,0 +1,1 @@
+Trying to trade CS2 skins without knowing about patterns or float values felt like guesswork. I eventually found a site where those details are broken down simply and honestly. The page https://dmarket.com/cs2-wiki/ gave me a clearer idea of how to spot good skins and avoid losing money. Since then, I’ve been much more confident trading.
