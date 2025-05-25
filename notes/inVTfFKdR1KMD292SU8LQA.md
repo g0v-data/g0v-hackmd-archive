@@ -66,6 +66,10 @@ Email: n0bodyrecall@gmail.com （第二碼是數字 0）（nobodyrecall 已被�
 Slack: [#recall](https://g0v-tw.slack.com/archives/C08TFAVQQBZ) （給 g0v 參與者，作為專案管理主要聯絡管道）
 Signal: https://signal.group/#CjQKIPvux2UHInZge_YEXWYAZGRxzEFv4cHjai7LoeDrDiyPEhAsoJFD3HTqU_JasedTcaJg （主要給非 g0v 原生參與者於專案期間之聯絡。考量便利及隱私，採用易安裝及註冊的 signal 作為平台。將於指南定稿後解散）
 
+## 工作資料夾
+Google drive: https://drive.google.com/drive/folders/123jrbBmpsZCpdisFUmEpLCZtoPyUcq5Q?usp=drive_link
+（應參與者有保持隱私考量，資料夾將進行編輯權限管理，請來信至 n0bodyrecall@gmail.com 自介及索取權限）
+
 ## 要找的人
 - n0body
     - 會打字，願意幫忙整理資料
