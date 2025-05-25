@@ -1,7 +1,7 @@
 ---
 tags: vTaiwan小松
 ---
-# 1101小松 1101 Meetup 
+# 20231101 vTaiwan 小黑客松
 參與連結 / Links：https://meet.jit.si/vTaiwan
 參與者簽到 / Participants：peter, bruno, eli,vienna, tzu sheng, deger
 本週議題 / Issues：

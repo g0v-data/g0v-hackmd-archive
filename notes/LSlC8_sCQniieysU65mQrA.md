@@ -1,7 +1,7 @@
 ---
 tags: vTaiwan小松
 ---
-# 1213 小松
+# 20231213 vTaiwan 小黑客松
 時間：20231206 19:00-21:00
 參與連結 / Links：https://meet.jit.si/vTaiwan
 參與者簽到：

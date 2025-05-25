@@ -1,9 +1,9 @@
 ---
 tags: vTaiwan小松
 ---
-# [0726]vTaiwan小黑客松
+# 20230726 vTaiwan 小黑客松
 
-時間：{2023/07/26} 週三 19:00-21:00
+時間：2023/07/26 週三 19:00-21:00
 地點：online
 出席：
 線上組：allen,peter,shu,mglee,ronny,淳任,

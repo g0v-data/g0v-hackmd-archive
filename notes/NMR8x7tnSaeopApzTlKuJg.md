@@ -1,7 +1,7 @@
 ---
-tags: vtaiwan 
+tags: vTaiwan 
 ---
-# 1016小松
+# 20241016小松
 
 時間 Time ：19:00-20:30
 地點 Location ：線上 Online

@@ -80,7 +80,7 @@ Google drive: https://drive.google.com/drive/folders/123jrbBmpsZCpdisFUmEpLCZtoP
 - 完成[對所有人的專案介紹](https://docs.google.com/document/d/1z8Y_2M_qROSEOqhZhNgbD3mxh6jMzcZMR5atwZRbLu8)
 - 完成[可直接複製的宣傳文字](https://docs.google.com/document/d/1u2lyWqByEgzLflgDrbgG9s9inbl31HE_WIWI6witoXQ)
 - 補充了一部份的聯絡清單
-- 獲得轉網址 note.ba4.tw
+- 獲得轉網址 note.4ba.tw
 
 ### 下一步
 - 7 月大松投稿

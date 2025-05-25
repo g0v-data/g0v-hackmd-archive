@@ -1,7 +1,7 @@
 ---
-tags: vTaiwan 
+tags: vTaiwan小松
 ---
-# 20240124小松
+# 20240124 vTaiwan 小黑客松
 - 時間：19:00-21:00
 - 地點：社會創新中心
 - 參與者：Peter shu erica josh tzu-sheng

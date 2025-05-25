@@ -1,7 +1,7 @@
 ---
 tags: vTaiwan小松
 ---
-# 1129小松
+# 20231129 vTaiwan 小黑客松
 參與連結 / Links：https://meet.jit.si/vTaiwan
 參與者簽到 / Participants：peter、eli、tzu-sheng、josh、宛真
 本週議題 / Issues：

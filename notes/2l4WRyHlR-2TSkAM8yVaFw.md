@@ -1,7 +1,7 @@
 ---
 tags: vTaiwan小松
 ---
-# 1025小松
+# 20231025 vTaiwan 小黑客松
 
 參與連結：https://meet.jit.si/vTaiwan 
 參與者簽到：peter, josh, eli, teemo

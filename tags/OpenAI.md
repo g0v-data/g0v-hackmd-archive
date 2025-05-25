@@ -18,10 +18,4 @@
 | 14 | [發文用的治理機制](../notes/WR_eOd12Rn6H-ljFo-q3GQ.md) | 2023-07-22T11:52:12+00:00 | 2023-07-22T11:51:04+00:00 |
 | 15 | [專案計畫文件：vTaiwan and Chatham House: Bridging the Recursive Public](../notes/Fk3IqyVHT-q7kIMaVlVLMg.md) | 2023-07-21T14:00:23+00:00 | 2023-07-21T13:56:06+00:00 |
 | 16 | [[20230719] vTaiwan 小黑客松](../notes/35yAn0VvS7uPDZPFDv8r1g.md) | 2023-07-19T15:21:11+00:00 | 2023-07-18T15:51:19+00:00 |
-| 17 | [{20230719} vTaiwan 小黑客松](../notes/sDZxHEUgS6-BWYynnNootQ.md) | 2023-07-19T12:46:42+00:00 | 2023-07-18T15:46:43+00:00 |
-| 18 | [{20230628} vTaiwan 小黑客松](../notes/xkye2NxJTTGRXm1pdRWBCg.md) | 2023-07-05T12:37:46+00:00 | 2023-06-26T20:38:30+00:00 |
-| 19 | [{20230621} vTaiwan 小黑客松](../notes/QIc63Gr9SNGExMN-3e9w7w.md) | 2023-06-21T17:07:30+00:00 | 2023-06-19T13:41:38+00:00 |
-| 20 | [{20230614} vTaiwan 小黑客松](../notes/9539BGNoStK3OFVAO5ZQew.md) | 2023-06-14T13:05:29+00:00 | 2023-06-13T07:56:15+00:00 |
-| 21 | [{20230608} vTaiwan 延伸討論](../notes/ZTdQZrBcQD2fdLmIOH4SRQ.md) | 2023-06-11T13:28:35+00:00 | 2023-06-08T11:51:41+00:00 |
-| 22 | [AI  vTaiwan 專案主頁](../notes/xFAlXDN9Q5-d-zrw6PTD3Q.md) | 2023-06-07T13:08:25+00:00 | 2023-06-07T12:32:32+00:00 |
-| 23 | [{20230607} vTaiwan 小黑客松](../notes/T4RRx5WSRdiZDrYu9NApqg.md) | 2023-06-07T12:34:32+00:00 | 2023-06-05T12:35:11+00:00 |
+| 17 | [AI  vTaiwan 專案主頁](../notes/xFAlXDN9Q5-d-zrw6PTD3Q.md) | 2023-06-07T13:08:25+00:00 | 2023-06-07T12:32:32+00:00 |

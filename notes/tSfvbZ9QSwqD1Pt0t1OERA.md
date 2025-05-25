@@ -1,7 +1,7 @@
 ---
 tags: vTaiwan小松
 ---
-# 1115 vTaiwan 小松
+# 20231115 vTaiwan 小黑客松
 參與連結 / Links：https://meet.jit.si/vTaiwan
 參與者簽到 / Participants：
 本週議題 / Issues：

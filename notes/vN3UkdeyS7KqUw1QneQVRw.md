@@ -181,6 +181,18 @@ note: 海纜很貴，破壞很便宜, 破壞海纜只需要一艘破船一隻錨
 <!-- - agreement6 vessels 海纜維修船只有 50 艘，台灣有合作的只有 6 艘（South East Asia and Indian Ocean Cable Maintenance Agreement, SEAIOCMA）、橫濱區海纜維護協議（Yokohama Zone Cable Maintenance Agreement） -->
 <!-- ，前瞻建設預算補助 2 億 -->
 
+---
+
+## Landing stations is also a fragile point
+
+source: https://www.cna.com.tw/news/aipl/202501100035.aspx
+
+![](https://g0v.hackmd.io/_uploads/SyNi6LgGlx.jpg)
+
+Note: 
+
+登陸點位於淡水、八里、頭城、枋山、大武、金門
+
 ----
 
 ## The only way is backup and backup?!

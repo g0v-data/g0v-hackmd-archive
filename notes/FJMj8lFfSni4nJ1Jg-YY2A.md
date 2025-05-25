@@ -1,7 +1,7 @@
 ---
-tags: vtaiwan 
+tags: vTaiwan 
 ---
-# 1129小松
+# 20241129小松
 時間 Time ：19:00-20:30
 地點 Location ：線上 Online
 參與者 Participants: Peter, T 

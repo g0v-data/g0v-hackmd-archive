@@ -1,7 +1,7 @@
 ---
-tags: vTaiwan 
+tags: vTaiwan小松
 ---
-# 20240221小松
+# 20240221 vTaiwan 小黑客松
 時間：19:00-21:00
 地點：線上
 參與者：peter, shu, crystal, eli, 

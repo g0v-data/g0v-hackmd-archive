@@ -1,9 +1,9 @@
 ---
 tags: vTaiwan小松
 ---
-# [0823]vTaiwan小黑客松
+# 20230823 vTaiwan 小黑客松
 
-時間：{2023/08/23} 週三 19:00-21:00
+時間：2023/08/23 週三 19:00-21:00
 地點：[社會創新實驗中心](https://goo.gl/maps/V9YwARCbETFNc4oh7) 2F 202 會議室
 出席：peter, paul, Mariah Thronton, sky, ronny, shu
 線上組：

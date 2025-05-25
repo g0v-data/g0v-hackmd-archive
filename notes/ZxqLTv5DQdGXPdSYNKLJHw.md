@@ -1,7 +1,7 @@
 ---
-tags: vTaiwan 
+tags: vTaiwan小松 
 ---
-# 20240110小松
+# 20240110 vTaiwan 小黑客松
 時間 / Time：20240103 19:00-21:00
 地點 / Location ：無實體，線上
 報名連結：無

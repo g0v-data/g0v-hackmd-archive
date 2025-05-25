@@ -1,9 +1,9 @@
 ---
 tags: vTaiwan小松
 ---
-# [0809]vTaiwan小黑客松
+# 20230809 vTaiwan 小黑客松
 
-時間：{2023/08/09} 週三 19:00-21:00
+時間：2023/08/09 週三 19:00-21:00
 地點：online
 出席：Shu, Peter, Patcon, Sophie, 薰衣草, lesley, 謝一誼
 線上組：
