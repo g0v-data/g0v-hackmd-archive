@@ -1,0 +1,2 @@
+When I finally got serious about meal prepping and batch cooking at home, I needed a table that could handle heavy cutting, hot pans, and constant cleanup. I went through a few cheap surfaces that either stained or wobbled after a few weeks. What changed everything was finding a proper steel table here: https://www.amgoodsupply.com/stainless-steel-work-tables/ steel table. It’s heavy-duty without taking up too much space, and cleaning it takes seconds. Definitely worth it if your kitchen’s more than just for microwaving.
+
