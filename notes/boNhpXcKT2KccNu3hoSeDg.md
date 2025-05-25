@@ -63,6 +63,8 @@ https://cofacts.g0v.tw/hoax-for-you
 
 ## 協作
 
+![](https://g0v.hackmd.io/_uploads/Syiv4txMee.png)
+
 查核
 - uienwt
 - Pichu
@@ -71,6 +73,7 @@ https://cofacts.g0v.tw/hoax-for-you
 - Charlène
 - crystal ii
 
-Cofacts infrastructure
-- 檢視 swap 設定
-- Debug docker seccomp settings
+Cofacts infrastructure：檢視 swap 設定、docker seccomp settings
+
+- 土撥鼠
+- Pichu
