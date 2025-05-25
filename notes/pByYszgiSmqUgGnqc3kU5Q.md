@@ -1,7 +1,7 @@
 ---
-tags: vtaiwan 
+tags: vTaiwan 
 ---
-# 0710小松
+# 20240710小松
 時間 Time ：19:00-21:00
 地點 Location ：線上 Online
 參與者 Participants：Peter, Josh, YuTing, Ronny

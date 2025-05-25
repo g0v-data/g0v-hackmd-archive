@@ -1,7 +1,7 @@
 ---
-tags: vtaiwan 
+tags: vTaiwan 
 ---
-# 0821小松
+# 200240821小松
 時間 Time ：19:00-20:30
 地點 Location ：線上 Online
 參與者 Participants：Yuting, Peter, Josh, Tzu Sheng, T 

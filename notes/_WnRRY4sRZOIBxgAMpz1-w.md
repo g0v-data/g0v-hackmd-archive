@@ -6,7 +6,7 @@ title: g0mesh - README
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
-# g0mesh - slack 無法在台灣連線時的備案
+# g0mesh 電信局 - slack 無法在台灣連線時的備案
 
 {%hackmd VkctH3USQ-yoB6hw2s2D0Q %}
 
@@ -16,6 +16,12 @@ title: g0mesh - README
 
 - [g0mesh quickstart](/2p681378QaypIOy1NVj2aw)
 - we're also looking for people who likes to operate LoRa backbone!
+
+# 現有 meshtastic 網路的問題
+- Typically formed spontaneously for temporary needs, often created by independent users without coordination
+- Minimal planning for coverage optimization or redundancy
+
+# Our Community Backbone
 
 
 
@@ -39,6 +45,7 @@ title: g0mesh - README
 # 25 may 代購
 - 五根天線 [name=Sean]
 - 四台 heltech ESP32 [name=yellowsoar]
+- 要給 teemo 相關團購資料 [name=teemo]
 ---
 [Back to the top](#)
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}

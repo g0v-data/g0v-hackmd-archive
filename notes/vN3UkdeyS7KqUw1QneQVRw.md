@@ -87,7 +87,7 @@ Everything rely on internet infra will gone.
 
 ---
 
-## Curent status (since 2025)
+## Curent status (2025/1~)
 
 ![](https://g0v.hackmd.io/_uploads/BkMQ3VExfex.png)
 
@@ -101,7 +101,7 @@ source: https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-tai
 
 ![20250212115800-6a695557a077052f75298106c11f527b-desktop](https://hackmd.io/_uploads/B1EgfFNZgl.jpg)
 
-note: 台灣與馬祖之間的兩條海纜為例，2018-2023 六年之間，遭中國底拖網漁船、Sand Dredger 抽砂船破壞 27 次
+note: 台灣與馬祖之間的兩條海纜為例，2018-2023 六年之間，遭中國底拖網漁船、Sand Dredger 抽砂船破壞 27 次；2019- ，有 36次海纜遭外國船隻破壞的事件
 
 ---
 

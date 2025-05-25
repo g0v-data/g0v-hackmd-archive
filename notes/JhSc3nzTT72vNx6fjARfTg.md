@@ -1,7 +1,7 @@
 ---
 tags: vTaiwan 
 ---
-# 0117 vTaiwan for All
+# 20240117 vTaiwan for All
 - 時間：19:00-21:00
 - 地點：[摩茲工寮](https://maps.app.goo.gl/ffVv5CtSSH9tp2mp8) 100台北市中正區八德路一段94號3樓
 - 講者：Peter/ Madeline

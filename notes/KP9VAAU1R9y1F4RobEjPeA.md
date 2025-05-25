@@ -1,7 +1,7 @@
 ---
-tags: vtaiwan 
+tags: vTaiwan 
 ---
-# 0814 vTaiwan在倫敦實體活動共筆
+# 20240814 vTaiwan在倫敦實體活動共筆
 本共筆為 8/14  的小松果
 日期：8/14（三）
 時間 Time ：19:00-21:00

@@ -1,8 +1,7 @@
 ---
-tags: vtaiwan 
+tags: vTaiwan 
 ---
-# 0918小松
-
+# 20240918小松
 時間 Time ：19:00-20:30
 地點 Location ：線上 Online
 參與者 Participants：

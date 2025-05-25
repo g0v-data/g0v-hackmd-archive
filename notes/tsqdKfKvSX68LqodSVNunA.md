@@ -1,7 +1,7 @@
 ---
-tags: vtaiwan 
+tags: vTaiwan 
 ---
-# 0619 小松
+# 20240619 小松
 時間 Time ：19:00-21:00
 地點 Location ：線上 Online
 參與者 Participants：yuting, peter 

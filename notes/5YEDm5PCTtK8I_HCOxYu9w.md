@@ -1,7 +1,7 @@
 ---
-tags: vtaiwan
+tags: vTaiwan
 ---
-# 2025022 大松共筆
+# 20250222 大松共筆
 - 日期：2025年2月22日
 - 參與者簽到：
 - [大松簡報連結](https://docs.google.com/presentation/d/1sF_sU3uG23S9pVo6ihZ7Fi5qccjUkhQ9u_-GebCPEWo/edit?usp=sharing)

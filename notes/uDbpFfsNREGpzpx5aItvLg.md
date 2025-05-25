@@ -1,7 +1,7 @@
 ---
-tags: vtaiwan
+tags: vTaiwan
 ---
-# 0417小松
+# 20240417小松
 時間：19:00-21:00
 地點：線上
 參與者：josh, eli, peter
