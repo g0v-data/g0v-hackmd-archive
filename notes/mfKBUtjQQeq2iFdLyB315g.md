@@ -12,13 +12,14 @@ image: https://raw.githubusercontent.com/g0v/style-guide/gh-pages/logo/png/g0v-l
 
 
 ## 歷次活動
-- [`NEW` 20250427 第拾次國會松](https://g0v.hackmd.io/@hRQQwB1RRValc_Fu0Awrmw/Sy8w_Vjklx)
+- [`NEW` 20250525 第拾壹次國會松](/52coL7ZIRFijKxDoXmKOkg)
+- [20250427 第拾次國會松](https://g0v.hackmd.io/@hRQQwB1RRValc_Fu0Awrmw/Sy8w_Vjklx)
 - [20250316 第玖次國會松](/mFhCt7NVRUeEWDL8W_znkg)
 - [20250215 第捌次國會松](/USWwNSnpRxyjcygqig6Dbw)
 - [20250118 第柒次國會松](/g6M0JpcsRUy6zJo-5ISoYA)
 - [20241222 第陸次國會松](/k6MuTeTMRuaYTVBxQZU34g)
 - [20241130 第伍次國會松](https://g0v.hackmd.io/@hRQQwB1RRValc_Fu0Awrmw/SJNsjztM1e)
-- [20241025 第肆次國會松](https://g0v-congress.kktix.cc/events/g0v-congress4n)
+- [20241025 第肆次國會松](https://g0v-congress.kktix.cc/events/g0v-congress4n)[target=_blank]
 - [20240921 第參次國會松](https://g0v.hackmd.io/@hRQQwB1RRValc_Fu0Awrmw/B1nEijjp0)
 - [20240803 第貳次國會松](/Irh3HZr-Sty_kmxKci7XaA)
 - [20240706 第壹次國會松](/mmc5c7aETOq9_VL_N1BgvQ)
