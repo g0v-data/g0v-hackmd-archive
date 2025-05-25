@@ -1,7 +1,7 @@
 ---
-tags: vTaiwan 
+tags: vTaiwan小松
 ---
-# 20240501 vTaiwan 小松
+# 20240501 vTaiwan 小黑客松
 
 時間：19:00-21:00
 地點：實體＋線上

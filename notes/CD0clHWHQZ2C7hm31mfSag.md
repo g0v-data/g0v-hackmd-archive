@@ -1,7 +1,7 @@
 ---
-tags: vTaiwan 
+tags: vTaiwan小松
 ---
-# 20240726 小松
+# 20240726 vTaiwan 小黑客松
 本共筆為 7/26 的小松果
 時間 Time ：14:00-16:00
 地點 Location ：[NPO HUB](https://g.co/kgs/ZYBr5BL) 4F 社群廚房

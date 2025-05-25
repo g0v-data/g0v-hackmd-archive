@@ -1,7 +1,7 @@
 ---
-tags: vTaiwan 
+tags: vTaiwan小松
 ---
-# 20250423 小松
+# 20250423 vTaiwan 小黑客松
 時間 Time ：19:00-20:00
 地點 Location ：線上 Online
 參與者 Participants: 翊婷、tofus、T、蔡承哲、宇亭、peter、james、allison ni、allen

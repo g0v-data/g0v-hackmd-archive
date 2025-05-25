@@ -1,7 +1,7 @@
 ---
-tags: vTaiwan 
+tags: vTaiwan小松
 ---
-# 20250507 小松
+# 20250507 vTaiwan 小黑客松
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
 參與者 Participants: T, Peter, A4, Josh, 宇亭, Allen

@@ -40,7 +40,8 @@ title: g0mesh - README
 - 自動更新金鑰的機制
     - 只更新 subkey 也可以，admin 之間只要有 root key 即可
 - signal coverage map (heat map/singal entropy)
-- 
+- bridge between slack and meshtastic
+- 把 general 的頻道加入 qr code 放出來
 
 # 25 may 代購
 - 五根天線 [name=Sean]

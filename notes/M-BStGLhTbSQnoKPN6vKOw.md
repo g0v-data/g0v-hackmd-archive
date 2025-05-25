@@ -1,7 +1,7 @@
 ---
-tags: vTaiwan 
+tags: vTaiwan小松
 ---
-# 20240904小松
+# 20240904 vTaiwan 小黑客松
 時間 Time ：19:00-20:30
 地點 Location ：線上 Online
 參與者 Participants：josh, peter, eli,翊婷, lily, yu-ting, ronny

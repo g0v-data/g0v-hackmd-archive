@@ -1,7 +1,7 @@
 ---
-tags: vTaiwan 
+tags: vTaiwan小松
 ---
-# 20250430 小松
+# 20250430 vTaiwan 小黑客松
 時間 Time ：19:00-20:00
 地點 Location ：[NPO HUB](https://g.co/kgs/x84cYo3)
 參與者 Participants: 

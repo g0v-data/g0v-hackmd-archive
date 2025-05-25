@@ -1,7 +1,7 @@
 ---
-tags: vTaiwan
+tags: vTaiwan小松
 ---
-# 0312 小松
+# 20250312 vTaiwan 小黑客松
 時間 Time ：19:00-20:00
 地點 Location ：線上 Online
 參與者 Participants: Peter, Josh, 翊婷, yu-ting, 豆腐, james, 承哲, allison, 承哲

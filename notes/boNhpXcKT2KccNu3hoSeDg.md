@@ -62,3 +62,15 @@ https://cofacts.g0v.tw/hoax-for-you
 :::
 
 ## 協作
+
+查核
+- uienwt
+- Pichu
+- Hsuan
+- Lin
+- Charlène
+- crystal ii
+
+Cofacts infrastructure
+- 檢視 swap 設定
+- Debug docker seccomp settings
