@@ -5,9 +5,9 @@ tags: digital-resilience, 數位韌性松, DigiResiTh0n
 # 海纜斷光會怎樣？
 ## When Submarine Cables Go Dark: Examining the Web Services Resilience Amid Global Internet Disruptions
 
-@網路自由小聚 
+@g0v hackath67n
 
-2025/5/22
+2025/5/25
 
 [g0v.hackmd.io/@irvin/cable-dark](https://g0v.hackmd.io/@irvin/cable-dark)
 
