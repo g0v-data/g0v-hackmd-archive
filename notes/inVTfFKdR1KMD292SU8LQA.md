@@ -81,8 +81,12 @@ Google drive: https://drive.google.com/drive/folders/123jrbBmpsZCpdisFUmEpLCZtoP
 - 完成[可直接複製的宣傳文字](https://docs.google.com/document/d/1u2lyWqByEgzLflgDrbgG9s9inbl31HE_WIWI6witoXQ)
 - 補充了一部份的聯絡清單
 
+### 下一步
+- 7 月大松投稿
+- 認同這個專案的精神，請將 [可直接複製的宣傳文字](https://docs.google.com/document/d/1u2lyWqByEgzLflgDrbgG9s9inbl31HE_WIWI6witoXQ)，貼給您認為(可能)可以提供罷免經驗的對象。透過大家的人際信任網，讓更多罷免活動參與者加入提供經驗的行列！
+
 ### 感謝本日貢獻者
-- Amos(A4)
+- A4
 - Iting
 - RW
 - 為然

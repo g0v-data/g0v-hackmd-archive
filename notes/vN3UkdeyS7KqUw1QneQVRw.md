@@ -150,6 +150,20 @@ note: 一月時的「順興39」航跡,從12/5一路晃到1/3，後來得手後�
 
 ---
 
+## Natual Disaster
+
+source: https://medium.com/vincent-chen/台灣海纜-submarine-cable-概況及備援機制-3e47ea550fd6
+
+2006/12/26 恆春大地震
+
+震央附近發生大規模海底山崩，影響網路與語音電話  
+只剩北向 APCN 2 ＆ 法新歐亞三號（SEA-ME-WE 3）
+
+![](https://g0v.hackmd.io/_uploads/H1gHQbSlGgx.jpg)
+
+
+---
+
 ## Expensive & hard to fix, cheap and easy to break 
 
 ![](https://hackmd.io/_uploads/rJh6_o4bge.jpg)

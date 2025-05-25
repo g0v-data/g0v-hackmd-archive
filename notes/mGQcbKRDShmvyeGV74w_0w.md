@@ -50,6 +50,7 @@ We want to discuss measures for both governmental and civil department, that can
 
 數位韌性專案們
 ---
+- [g0mesh](/_WnRRY4sRZOIBxgAMpz1-w)
 - [全台防災/防空避難所大統整](https://g0v.hackmd.io/UNg_8F3FTuynAwbV7flp-w)
 - [WaytoSafety 隨時隨地知道避難場所位置 / 臺灣資料勘誤 / 香港日本韓國資料彙整](https://g0v.hackmd.io/@waytosafety/home/)
 - [重要數位服務韌性檢測及其替代品](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A)
