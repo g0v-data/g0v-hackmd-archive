@@ -74,3 +74,17 @@ Google drive: https://drive.google.com/drive/folders/123jrbBmpsZCpdisFUmEpLCZtoP
 - n0body
     - 會打字，願意幫忙整理資料
     - 會聯絡，認識更多參與者，願意將訊息擴散出去的人
+
+
+## 5/25 成果
+- 完成[對所有人的專案介紹](https://docs.google.com/document/d/1z8Y_2M_qROSEOqhZhNgbD3mxh6jMzcZMR5atwZRbLu8)
+- 完成[可直接複製的宣傳文字](https://docs.google.com/document/d/1u2lyWqByEgzLflgDrbgG9s9inbl31HE_WIWI6witoXQ)
+- 補充了一部份的聯絡清單
+
+### 感謝本日貢獻者
+- Amos(A4)
+- Iting
+- RW
+- 為然
+- [謝晉凡](mailto:g0v@topo.tw)
+ 

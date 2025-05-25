@@ -35,6 +35,7 @@ https://www.submarinecablemap.com/country/taiwan
 
 note: 10 cables (inc. 2 to China)
 
+<!--
 ----
 
 ## How it connect us 台日間的連線
@@ -42,6 +43,8 @@ note: 10 cables (inc. 2 to China)
 ![](https://hackmd.io/_uploads/HJ-jTZc-gg.jpg)
 
 note: 7 cables
+
+-->
 
 ---
 
@@ -86,7 +89,7 @@ Everything rely on internet infra will gone.
 
 ## Curent status (since 2025)
 
-![](https://hackmd.io/_uploads/ByfXRz9blg.jpg)
+![](https://g0v.hackmd.io/_uploads/BkMQ3VExfex.png)
 
 note: 扣除直接與對岸相連的 3 條海纜，總共有 8 個海纜系統將台灣連接到全球的網際網路。另外有 6 條海纜連接台灣本島與離島。光在今年，臺馬2號，臺澎3號就兩次被中國權宜船「意外」破壞。其中臺澎3號就發生在 rightscon 期間，也是我國第一次抓到當事船
 
@@ -102,7 +105,9 @@ note: 台灣與馬祖之間的兩條海纜為例，2018-2023 六年之間，遭�
 
 ---
 
-## Weapenize cable “incidents” 
+## Weapenize “cable incidents” 
+
+Ancient Tradition, Fresh Experience
 
 source: https://www.twreporter.org/a/damaged-undersea-cables-in-europe-baltic-sea
 
@@ -114,7 +119,12 @@ source: https://www.twreporter.org/a/damaged-undersea-cables-in-europe-baltic-se
 - 2024/11/15-19 Swiden-Lithuania-German-Finland cable 瑞典-立陶宛-德國-芬蘭
 - 2024/12/25 Finland-Estonia 芬蘭-愛沙尼亞
  
-note: 2023/10 新新北極熊號 - 從現場離開到聖彼得堡，並在事發地點遺留一個船錨，超過一百公里的拖痕；2024/11 伊鵬三號 180km been monitored by navy around but cannot do investment on International waters without china' consense。過去170年，從未有人想過海纜會被蓄意破壞，作為戰爭與灰色侵擾手段
+Note: 
+
+2023/10 新新北極熊號 - 從現場離開到聖彼得堡，並在事發地點遺留一個船錨，超過一百公里的拖痕；2024/11 伊鵬三號 180km been monitored by navy around but cannot do investment on International waters without china' consense。
+
+過去170年，作為戰爭與灰色侵擾手段；1989 年美西戰爭，美國海軍中尉卡麥隆．溫斯洛（Lt Cameron Winslow）切斷古巴海域的電報電纜，試圖干擾西班牙的通訊網絡
+
 
 ----
 
@@ -259,22 +269,15 @@ policy suggestions for government
 
 ## Q1: Japan?
 
-- country with many many islands
-- 
-
+- country situation - country with many islands
 - J Alert
-
----
-
 
 ## Q2: Can Japan Help?
 
-- Taiwan - Japan microwave loop
-- low-orbit sat. land station
-- 
+- Taiwan-(Yonaguni)-Japan microwave link?
+- low-orbit sat. ground station
 
 ---
-
 
 ## progress & contact 目前進度
 
