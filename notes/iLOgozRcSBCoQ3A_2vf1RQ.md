@@ -55,6 +55,8 @@
     - 試看覓 [tshì khuànn-māi](https://sutian.moe.edu.tw/zh-hant/poosiu/poosiu/147/%E8%A6%93/)：試吃環節可用這個詞當單元名稱
     - 
 
+> 是不是該想一下午夜十二點前要安排什麼環節？[name=RS]
+
 ## 籌備
 - 可行性研究
 - 提前試菜
