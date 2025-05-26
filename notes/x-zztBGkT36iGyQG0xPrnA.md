@@ -1,5 +1,5 @@
 ---
-tags: chatgpt
+tags: LLM, chatgpt
 ---
 
 # LLM & g0v : LLM 如何參與社群、協力專案開發？
