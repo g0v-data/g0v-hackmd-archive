@@ -23,6 +23,10 @@ GA: UA-98468513-3
 
 協作：https://g0v.hackmd.io/@cofacts/meetings/%2F%40mrorz%2Fry8K7jdblg
 
+- beta.cofacts.ai
+    - staging machine -- Cloudflare tunnel -- Cloudflare Access (Cofacts moderators only) -- Internet
+    - Blocked by hackmd API
+
 ## 小聚籌備
 06/15 (日) 2pm - 5 pm 
 - OK: 
