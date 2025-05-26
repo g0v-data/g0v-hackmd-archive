@@ -24,8 +24,24 @@ GA: UA-98468513-3
 協作：https://g0v.hackmd.io/@cofacts/meetings/%2F%40mrorz%2Fry8K7jdblg
 
 - beta.cofacts.ai
-    - staging machine -- Cloudflare tunnel -- Cloudflare Access (Cofacts moderators only) -- Internet
-    - Blocked by hackmd API
+  - staging machine -- Cloudflare tunnel -- Cloudflare Access (Cofacts moderators only) -- Internet
+  - Blocked by hackmd API ![](https://g0v.hackmd.io/_uploads/SyUm_K-fee.png)
+- Open165
+  - Discussed with 網址變青蛙
+    - M will try vercel + Cloudflare
+    - 交流想法與資訊（urlscan、whois 等）
+    - 避免 block each other，我們各自開發但可互相交流資訊
+  - Open165 refactor
+    - Github workflow --> Cloudflare workflow
+      - [Open165/worker] Pull request opened: #5 feat: migrate 165 site sync to Cloudflare Workflows by MrOrz
+      - [Open165/site] Pull request opened: #37 Migrate database update to Cloudflare Worker by MrOrz
+  - Open165 TODOs
+    1. schema 也移動到 worker 來管
+    2. worker 裡建立子 workflow
+       - host --> urlscan --> 存 DB
+       - host --> whois --> 存 DB
+       - DB --> 某種資料交換格式 for 下游 application?
+    3. Website display
 
 ## 小聚籌備
 06/15 (日) 2pm - 5 pm 
