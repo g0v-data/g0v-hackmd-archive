@@ -1,33 +1,20 @@
-GENIPTV is IPTV service provider that offers access to a wide variety of TV channels, movies, and on-demand content via the internet. GENIPTV support all devices and offer a flexible, seamless viewing experience by enabling users to stream TV channels, movies, and other content on various platforms.website:https://geniptv.store
+Profesionāli Skursteņslauķa Pakalpojumi - SIA Dūmanis
 
-https://x.com/geniptvstore
-https://www.youtube.com/@geniptvstore
-https://www.pinterest.com/geniptvstore/
-https://vimeo.com/geniptvstore
-https://www.tumblr.com/geniptvstore
-https://gravatar.com/geniptvstore
-https://www.twitch.tv/geniptvstore/about
-https://www.reddit.com/user/geniptvstore/
-https://500px.com/p/geniptvstore?view=photos
-https://about.me/geniptvstore
-https://hub.docker.com/u/geniptvstore
-https://transfur.com/Users/geniptvstore
-https://tap.bio/@geniptvstore
-https://motion-gallery.net/users/685970
-https://www.adpost.com/u/geniptv8/
-https://decidim.santcugat.cat/profiles/geniptvstore/activity
-https://bikeindex.org/users/geniptvstore
-https://www.equinenow.com/farm/geniptv-store.htm
-https://rotorbuilds.com/profile/84779/
-https://web.ggather.com/geniptvstore
-https://potofu.me/geniptvstore
-https://www.dokkan-battle.fr/forums/users/geniptvstore/
-https://rfc.stitcher.io/profile/geniptvstore
-https://comicspace.jp/profile/geniptv8
-https://barcelonadema-participa.cat/profiles/geniptvstore/activity
-https://pixelfed.uno/i/web/profile/777170318969118289
-https://www.remoteworker.co.uk/profiles/5789824-geniptv-store-geniptv-store
-https://linkbio.co/6122413clWMbS
-https://decidim.pontault-combault.fr/profiles/geniptvstore/activity
-https://allmyfaves.com/geniptv?tab=geniptvstore
+Mūsu sertificētā un pieredzējušā komanda nodrošina visaptverošu skursteņu, dūmkanālu un ventilācijas sistēmu uzturēšanu atbilstoši normatīvajiem standartiem un drošības prasībām. Mēs piedāvājam pakalpojumus, kas aptver rūpīgu tīrīšanu, apkopi, remonta un uzstādīšanas darbus, kā arī drošības inspekcijas, lai jūsu īpašums vienmēr būtu drošs un efektīvi apsildāms.
+
+Mans mērķis ir nodrošināt klientiem augstākās kvalitātes pakalpojumus, rūpējoties par viņu mājokļu un uzņēmumu drošību.
+
+Nodrošiniet sava mājokļa drošību un siltumu ar sertificētu skursteņslauķi Rudolfu. Piedāvājam skursteņu tīrīšanas, remonta un ventilācijas pakalpojumus ar rūpīgu pieeju. Uzticieties SIA Dūmanis. Rezervējiet pakalpojumu jau šodien!
+
+Sertificēts Skursteņslauķis
+Es esmu sertificēts skursteņslauķis un ugunsdrošības speciālists ar padziļinātām zināšanām dūmvadu un ventilācijas sistēmu drošībā. Esmu pabeidzis profesionālās pilnveides izglītības programmu "Siltuma, gāzes un ūdens tehnoloģija, apkures un gaisa sistēmu apkalpošana", kas sniedz plašas zināšanas par apkures un ventilācijas sistēmu darbību un uzturēšanu.
+
+Papildus tam GASO ir piešķīris man kvalifikāciju "Gazificētu objektu dūmvadu (dūmkanālu) un ventilācijas kanālu pārbaudes un ekspluatācijas speciālists", kas apliecina manu kompetenci gāzes sistēmu drošības pārbaudēs un uzturēšanā.
+
+
+KĀ KAISLĪGS UN SERTIFICĒTS SKURSTEŅSLAUĶIS, ES, RUDOLFS, ESMU APŅĒMIES NODROŠINĀT, LAI JŪSU MĀJA BŪTU DROŠA, SILTA UN ATBILSTU NEPIECIEŠAMAJIEM UGUNSDROŠĪBAS NOTEIKUMIEM. AR PERSONISKU PIEEJU, PATIESU ENTUZIASMU PAR SAVU DARBU UN MAZU, UZTICĪGU KOMANDU MĒS PIEDĀVĀJAM PILNU SKURSTEŅU UN VENTILĀCIJAS PAKALPOJUMU KLĀSTU VISĀ LATVIJĀ, NODROŠINOT PROFESIONĀLU RŪPĪBU PAR JŪSU APKURES SISTĒMĀM UN GARANTĒJOT, KA JŪSU MĀJA IR GAN KOMFORTABLA, GAN DROŠA. SIA DŪMANIS JŪSU RĪCĪBĀ.
+
+Phone: +371 24007700
+
+Email: info@skurstenis.lv
 
