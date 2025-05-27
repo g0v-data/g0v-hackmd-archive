@@ -1,4 +1,4 @@
-Profesionāli Skursteņslauķa Pakalpojumi - SIA Dūmanis
+**Profesionāli Skursteņslauķa Pakalpojumi - SIA Dūmanis**
 
 Mūsu sertificētā un pieredzējušā komanda nodrošina visaptverošu skursteņu, dūmkanālu un ventilācijas sistēmu uzturēšanu atbilstoši normatīvajiem standartiem un drošības prasībām. Mēs piedāvājam pakalpojumus, kas aptver rūpīgu tīrīšanu, apkopi, remonta un uzstādīšanas darbus, kā arī drošības inspekcijas, lai jūsu īpašums vienmēr būtu drošs un efektīvi apsildāms.
 
@@ -6,8 +6,8 @@ Mans mērķis ir nodrošināt klientiem augstākās kvalitātes pakalpojumus, r�
 
 Nodrošiniet sava mājokļa drošību un siltumu ar sertificētu skursteņslauķi Rudolfu. Piedāvājam skursteņu tīrīšanas, remonta un ventilācijas pakalpojumus ar rūpīgu pieeju. Uzticieties SIA Dūmanis. Rezervējiet pakalpojumu jau šodien!
 
-Sertificēts Skursteņslauķis
-Es esmu sertificēts skursteņslauķis un ugunsdrošības speciālists ar padziļinātām zināšanām dūmvadu un ventilācijas sistēmu drošībā. Esmu pabeidzis profesionālās pilnveides izglītības programmu "Siltuma, gāzes un ūdens tehnoloģija, apkures un gaisa sistēmu apkalpošana", kas sniedz plašas zināšanas par apkures un ventilācijas sistēmu darbību un uzturēšanu.
+**Sertificēts Skursteņslauķis**
+Es esmu [sertificēts skursteņslauķis](https://www.skurstenis.lv/lv/) un ugunsdrošības speciālists ar padziļinātām zināšanām dūmvadu un ventilācijas sistēmu drošībā. Esmu pabeidzis profesionālās pilnveides izglītības programmu "Siltuma, gāzes un ūdens tehnoloģija, apkures un gaisa sistēmu apkalpošana", kas sniedz plašas zināšanas par apkures un ventilācijas sistēmu darbību un uzturēšanu.
 
 Papildus tam GASO ir piešķīris man kvalifikāciju "Gazificētu objektu dūmvadu (dūmkanālu) un ventilācijas kanālu pārbaudes un ekspluatācijas speciālists", kas apliecina manu kompetenci gāzes sistēmu drošības pārbaudēs un uzturēšanā.
 
