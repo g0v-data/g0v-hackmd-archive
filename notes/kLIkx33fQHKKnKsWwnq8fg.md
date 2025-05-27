@@ -1,0 +1,2 @@
+I always assumed skin condition didn’t matter much, but after some trades went poorly, I knew I had to learn more. While browsing, I came across https://dmarket.com/cs2-wiki/ where they explain how wear affects not just looks but price. This site broke down the complicated terms into simple points, making it easier to identify valuable skins versus ones to skip. It changed how I approach buying and selling, helping me protect my investment and make more thoughtful choices.
+
