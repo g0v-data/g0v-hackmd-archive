@@ -4,6 +4,8 @@ tags: digital-resilience, 數位韌性松, DigiResiTh0n
 
 # 海纜斷光會怎樣？那些必須找出答案的問題(共筆)
 
+> 活動簡報 https://g0v.hackmd.io/vN3UkdeyS7KqUw1QneQVRw?view
+
 ## 網路自由小聚 2025/5/22
 
 
