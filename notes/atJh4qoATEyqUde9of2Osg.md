@@ -7,6 +7,8 @@ tags: vTaiwan小松
 參與者 Participants: 
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
 
+![](https://g0v.hackmd.io/_uploads/rJ0YppMMlx.png)
+
 
 :::info
 下一次 g0v 黑客松
