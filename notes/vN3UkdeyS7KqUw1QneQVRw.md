@@ -35,7 +35,6 @@ https://www.submarinecablemap.com/country/taiwan
 
 note: 10 cables (inc. 2 to China)
 
-<!--
 ----
 
 ## How it connect us 台日間的連線
@@ -43,8 +42,6 @@ note: 10 cables (inc. 2 to China)
 ![](https://hackmd.io/_uploads/HJ-jTZc-gg.jpg)
 
 note: 7 cables
-
--->
 
 ---
 
