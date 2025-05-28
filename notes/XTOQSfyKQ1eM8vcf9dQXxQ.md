@@ -38,17 +38,20 @@ tags: vTaiwan小松
 
 ## 專案管理
 - 目前使用 notion 進行 [notion 連結](https://www.notion.so/team/10656834-429c-8136-b570-004216c84ea4/join)
-- 目前遇到的問題：免費版只能十個人編輯。
+- 目前遇到的問題：notion免費版只能十個人編輯。
+- 未來潛在的問題：notion和網站開發用的Github的議題沒有直接整合。[name=bestian]
 
 ### 替代方案
-- bestian 有提出 Github Project
+- bestian 有提出 Github Project，並以程式把notion上的任務先複製了一份，上[g0v/vTaiwan project(請提供Github帳號即可開協作權限)](https://github.com/orgs/g0v/projects/2/views/1)[name=bestian]
+
+
     - 整合版本控制與專案進度：專案與 Issues、Pull Requests 自動連動，讓開發進度與代碼變更保持一致，有助於追蹤任務來源與實作結果。
     - 彈性規劃與視覺化看板：提供看板（Kanban）、表格（Table）等多種視圖，可自由自訂欄位與篩選條件，適合不同規模與流程的團隊使用。
     - 可免費使用：不需付費可享有完整功能。
-- 還沒時間仔細玩 Github Project，但感覺可以試試看[name=peter]
-    - 光是免費就可以享有完整功能就非常吸引我。
+- 還沒時間仔細玩 [Github Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)，但感覺可以試試看[name=peter]
+    - 光是免費就可以享有完整功能就非常吸引我。[name=peter]
 
-## Frankly 空間
+## Frankly 坦白說測試空間
 - [vTaiwan Frankly 空間：對話工具的可能性](/i2uTLlqcSzm6w-3akHfjLA)
 - 是否有人願意跳坑，來試試看辦一場小規模的線上討論會？
 - 議題？
