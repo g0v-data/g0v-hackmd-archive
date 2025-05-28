@@ -124,6 +124,23 @@ peii: 應該還算滿高的。 14 間自拆。自拆有些東西可以回收的�
 所以看能不能 12 月 alpha 可以完成囉！
 
 
+Milestone 1 (6-7 月)
+- Data flow mapping
+- User research
+- Scope
+- Disfactory repo health check(?)
+- Any new recruitment needed?
+
+Milestone 2 (8-11 月)
+- Data pipeline preparation
+- UI/UX design
+- Feature development
+- User testing
+
+Milestone 4 (12-1 月)
+- Soft launch
+
+
 
 ### 下次小聚目標
 
