@@ -78,6 +78,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 八田與一 幸町住所 https://www.facebook.com/share/p/u4c9XGGv8MQVnF4s/
     - 文房 https://www.facebook.com/share/p/14P62Z5wSz/?mib
     - 1925 遍路石佛 https://zh.m.wikipedia.org/zh-tw/%E5%8F%B0%E5%8C%97%E5%9B%9B%E5%9C%8B%E5%85%AB%E5%8D%81%E5%85%AB%E6%89%80%E9%9D%88%E5%A0%B4
+    - 1928 待登載至流域歷程變遷地圖，應該可以用 點位 方式，至少標記「1928 年此處為共同墓地」的方式 https://www.facebook.com/share/p/15n9yi7qg8/
     - 1933 帝大氣象建築 https://www.facebook.com/share/16WdJFGkNP/?mibextid=wwXIfr
     - 1933 臺北市大觀
         - https://www.facebook.com/photo?fbid=885845619797769&set=a.113042847078054
@@ -144,6 +145,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
         - https://www.facebook.com/photo/?fbid=6850263558390835&set=a.460224687394786
     - 1975-1976 敦化南路與林安泰古厝 https://www.facebook.com/share/p/YSscboMCyni5K3SU/
     - 19 照片敦化南路一段187巷大樓興建 https://www.facebook.com/share/VpgAXY2kP1VHQYee/
+    - 照片 師大北側校區 https://www.facebook.com/share/p/15xy7xF3HE/?mibextid=wwXIfr
     - 重要 照片，冰店與新生大排便橋，新生南路三段42號 
         - https://www.facebook.com/193313627448659/posts/pfbid02ZRijs3x5TmB4iEM83kRuG8NBRtjkXCXMD21Q6ju2p9BKRUaAxpNZxJTRvHTeQL8pl/
         - https://www.facebook.com/193313627448659/posts/pfbid02ZRijs3x5TmB4iEM83kRuG8NBRtjkXCXMD21Q6ju2p9BKRUaAxpNZxJTRvHTeQL8pl/?mibextid=cr9u03
