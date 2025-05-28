@@ -6,8 +6,12 @@ tags: vTaiwan小松
 地點 Location ：線上 Online
 參與者 Participants: peter, anan, josh, allison, Tim, 承哲, 宇亭, tofus, bestian 
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
+![](https://g0v.hackmd.io/_uploads/B1eE-iuEMll.png)
 
-
+:::info
+下週因為 peter 要去美國出差，小聚共筆還是會架設好，但不一定會出席～
+歡迎大家一起上線討論！
+:::
 
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
@@ -46,10 +50,11 @@ Bestian: 非營利組織自主學習促進會資訊長，Frankly翻譯，新的v
             - 上一次會前後問同樣的問題，似乎也有影響到大家改變意見的比率。[name=josh]
                 - 上一次有改變的點比較明確，這一次有改變的點比較不明確 [name=宇亭]
             - 是否會跟命題的具體程度有關？[name=tim]
+                - 上一次的命題比較模糊，這一次的命題比較明確
             - 每次議題小聚討論的議題數量? 5題以下較好
         - 想要討論的點：人工智慧的極限
         - 總結：
-            - ㄒㄧㄥ
+            - 形式、設計議題的方式都會影響到討論方式與程度
     - [結果紀錄文章連結](https://docs.google.com/document/d/1pYy9CkRDDG4AkixVVM00XrtPSML1tWWjh-TTRm-C4kY/edit?usp=sharing)
     - [照片集合地](https://drive.google.com/drive/folders/1kAq6jgYA1kXHLNtaj5uhQ1GiIRIbTujJ)
 - 豆腐的視覺模板
