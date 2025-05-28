@@ -20,11 +20,11 @@ Peter: 台大法研所 vTaiwan 坑主
 Anan: 阿南 旁聽
 Josh: Josh 人在瑞士做研究，在vTaiwan設計程序
 Allison: highschooler future lawer
-Tim: 轉職網頁工程師中 cofacts vTaiwan 想作兩者的結合
+Tim: 轉職網頁工程師中 cofacts vTaiwan 想做兩者的結合
 承哲: 星辰代卸 心理系
 宇亭: HCI, 對如何在線上空間促進公共參與/議題討論感興趣，工作不忙時會參與活動
 Tofus: 設計師～
-Bestian: 非營利組織自主學習促進會資訊長，Frankly翻譯，新的vTaiwan社群參與者
+Bestian: 非營利組織自主學習促進會資訊長，Frankly翻譯，新的vTaiwan社群參與者，有在教程式，[bestian的網路工坊](https://www.bestian.tw/)
 
 
 ## 小小的分享
@@ -101,11 +101,11 @@ Bestian: 非營利組織自主學習促進會資訊長，Frankly翻譯，新的v
     - 個別
     - 需要聯繫至少一個 owner，將人加入 project 名單，
         - 要成為 [g0v 成員](https://github.com/orgs/g0v/people)
-        - Peter:Jia-wei-cui
-        - Josh: joshuay1
-        - 承哲：crayon3shawn | crayon3shawn@gmail.com
-        - yuting: ytchen7749 / yutingchen7749@gmail.com
-        - anan:shianan815@gmail.com
+        - Peter:Jia-wei-cui - g0v memeber邀請信已發，請查收  [name=bestian]
+        - Josh: joshuay1 - 已邀入vTaiwan Project [name=bestian]
+        - 承哲：crayon3shawn | crayon3shawn@gmail.com - 已邀入vTaiwan Project [name=bestian]
+        - yuting: ytchen7749 / yutingchen7749@gmail.com - 已邀入vTaiwan Project [name=bestian]
+        - anan:shianan815@gmail.com - g0v memeber邀請信已發，請查收  [name=bestian]
 ## 審議小聚程序想法
 - 樹狀圖分組
     - 分組先，再看仔細分析
