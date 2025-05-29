@@ -601,12 +601,6 @@ https://www.facebook.com/story.php?story_fbid=pfbid0iUVer7dzSnURqrvYDny3XRDCggvP
 臺東縣多良 公車站
 https://www.facebook.com/story.php?story_fbid=pfbid0WXbpCeNTFjeeeme5LDG7L3XqgJ4CfH5kpTwcZJBJjWiDteVtScwSLffcX5BsTUL2l&id=100044140104250&mibextid=qC1gEa
 
-台11 八桑安段
-https://www.facebook.com/story.php?story_fbid=pfbid0rCw7GVqqzQ5VECc6A82HdbWMgkKBvbcjqCxuAFL6vp9sRJGLsaXmZepHUASJS17Sl&id=100063883987874&mibextid=qC1gEa
-
-蘭嶼
-https://www.facebook.com/share/p/1awTFwkJy1sYhpq2/
-
 待拆分：此貼文有提到許多路口
 https://www.facebook.com/TaiwanTrafficSafeAssociation/posts/pfbid0cCWCvPLmdDYqjwmJp5ytcQm3FcRSw8fic3W65kqqUFYXfjX4sp5nL7CtzF3Bcz5Kl
 
