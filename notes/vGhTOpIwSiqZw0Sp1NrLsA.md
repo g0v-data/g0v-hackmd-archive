@@ -32,3 +32,6 @@
 傳送點
 
 調色：slider調整明暗度(V)、飽和度(S)
+
+switch mode 是用來看是不是再MR
+playermovement是怎麼做
