@@ -576,20 +576,8 @@ https://www.facebook.com/story.php?story_fbid=pfbid0dBwcknbUZ87xdbXcxzKgxeKccGUS
 哈瑪星
 https://www.facebook.com/100089609110714/posts/pfbid02nNL6ah36wKsg2rJPHUcsfbCKBtThHZBGAgAGanG8brYBgLp3Mej5iqUib6iQ2sD5l/?mibextid=cr9u03
 
-中山大學校園內
-https://www.facebook.com/share/p/f987NTJUrRWiaCKL/
-
 "高雄農16就是這樣，裕誠路至今依然沒有人行道" 出自以下討論區
 https://www.facebook.com/VisionZeroTW/posts/pfbid02tJBn3AkmVnzzhatzhwqqW5ZGZXKTUCxtcAkoHuVjS16tAfHycX1ft5kUj2Avqqifl
-
-屏東民生路
-https://www.facebook.com/story.php?story_fbid=pfbid0je8YUrGjx8ScowFEzw7W6yhRPXCNBFoo83ES3uc6rTFwpLPk3rKQRZXZz7MtKwtTl&id=100063883987874&mibextid=qC1gEa
-
-東港嘉新路
-https://www.facebook.com/share/1Eoczs4U9V/?mibextid=wwXIfr
-
-東港 公車轉運站
-https://www.facebook.com/share/p/18DoMQdXCP/
 
 待拆分：此貼文有提到許多路口
 https://www.facebook.com/TaiwanTrafficSafeAssociation/posts/pfbid0cCWCvPLmdDYqjwmJp5ytcQm3FcRSw8fic3W65kqqUFYXfjX4sp5nL7CtzF3Bcz5Kl
