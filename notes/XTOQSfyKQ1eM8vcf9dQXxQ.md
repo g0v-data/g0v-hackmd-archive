@@ -101,7 +101,7 @@ Bestian: 非營利組織自主學習促進會資訊長，Frankly翻譯，新的v
     - 個別
     - 需要聯繫至少一個 owner，將人加入 project 名單，
         - 要成為 [g0v 成員](https://github.com/orgs/g0v/people)
-        - Peter:Jia-wei-cui - g0v memeber邀請信已發，請查收  [name=bestian]
+        - Peter:Jia-wei-cui - 已邀入vTaiwan Project  [name=bestian]
         - Josh: joshuay1 - 已邀入vTaiwan Project [name=bestian]
         - 承哲：crayon3shawn | crayon3shawn@gmail.com - 已邀入vTaiwan Project [name=bestian]
         - yuting: ytchen7749 / yutingchen7749@gmail.com - 已邀入vTaiwan Project [name=bestian]

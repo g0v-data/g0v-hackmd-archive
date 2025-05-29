@@ -18,6 +18,7 @@ tags: 詐騙
     - https://www.facebook.com/junehao/posts/pfbid035MSGFaA7XGUanXDz2pBR3XSzJ2iWidsAkcwemmbAD5zEyKmrLYNFdAF8gikGwprZl
 - 蒐集聲音資料 https://www.facebook.com/share/r/j1i8Lv4b52g6eicq/
 - 民生用電詐騙案件例如：欠費未繳或假冒收款帳號
+- https://www.facebook.com/share/p/1Fe2VNepsS/
 - 公益義剪詐騙，蒐集受騙者的帳戶 https://www.facebook.com/share/p/DF8HKy7tH7cTEdnT/
 - 徵求公民調查行動的名義蒐集個人資料的詐騙 https://www.facebook.com/share/p/18GQxjWoG2/
 - https://www.facebook.com/share/p/14tPNUkBSw/
