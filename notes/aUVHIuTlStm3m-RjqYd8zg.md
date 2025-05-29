@@ -8,8 +8,6 @@ tags: GIS,
 [TOC]
 :::
 
-https://meet.google.com/qnb-xnub-wtj
-
 # Taipei
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFlj1yOCE-p6MJNVG6MtP6y85fqgnCoK9O4hSg28XSA6E7Y5KRIXUnHhf7SjgJOv2ME0lbc2tlTL2C/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

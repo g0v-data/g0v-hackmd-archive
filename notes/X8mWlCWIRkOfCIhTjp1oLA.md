@@ -591,16 +591,6 @@ https://www.facebook.com/share/1Eoczs4U9V/?mibextid=wwXIfr
 東港 公車轉運站
 https://www.facebook.com/share/p/18DoMQdXCP/
 
-
-花蓮
-https://www.facebook.com/groups/525658186189949/permalink/610180067737760/
-
-花東縱谷公路
-https://www.facebook.com/story.php?story_fbid=pfbid0iUVer7dzSnURqrvYDny3XRDCggvPNbiutoAVDweaXE9dDtnvETu6oMmwcNk5uiRHl&id=100049204915573&mibextid=tejx2t
-
-臺東縣多良 公車站
-https://www.facebook.com/story.php?story_fbid=pfbid0WXbpCeNTFjeeeme5LDG7L3XqgJ4CfH5kpTwcZJBJjWiDteVtScwSLffcX5BsTUL2l&id=100044140104250&mibextid=qC1gEa
-
 待拆分：此貼文有提到許多路口
 https://www.facebook.com/TaiwanTrafficSafeAssociation/posts/pfbid0cCWCvPLmdDYqjwmJp5ytcQm3FcRSw8fic3W65kqqUFYXfjX4sp5nL7CtzF3Bcz5Kl
 
