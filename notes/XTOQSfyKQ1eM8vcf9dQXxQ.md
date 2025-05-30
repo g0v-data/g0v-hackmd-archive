@@ -66,6 +66,7 @@ Bestian: 非營利組織自主學習促進會資訊長，Frankly翻譯，新的v
 - 說不定Polis相關的問題(異常行為導至AI分組偏誤)可以提成Github議題，回饋給[polis專案]( https://github.com/compdemocracy/polis
     )讓他們參考改良?[name=bestian]
 
+- 議題"建議自動分析異常行為導至的AI分組偏誤"已提交：請見[此議題](https://github.com/compdemocracy/polis/issues/2025) [name=bestian]
 
 ## 主視覺更新
 - facebook、IG、twitter 要一併更換
