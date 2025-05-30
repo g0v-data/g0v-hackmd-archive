@@ -56,7 +56,8 @@ Data 資料清點與清理
     - https://docs.google.com/spreadsheets/d/16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik/edit
     - 註明各種資料集是否開放、資料可用度說明 (是否還需要清理、清理重點) 
 - 歷年已廢校地點
-    - 先登載到 Google My Map 的
+    - 先登載到 Google My Map 
+    - 工作文件：https://g0v.hackmd.io/@hackpad-importer/BJ-xeloFsLm
 
 Reform 評估校地與校舍使用
 - 災害防救觀點
