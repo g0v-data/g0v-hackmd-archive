@@ -99,6 +99,7 @@ tags: 公有地大行動, 可能的空間, edu
     - https://www.facebook.com/KLTPPS/
 - 基隆社區大學
     - https://www.facebook.com/624464343/posts/10159235407014344/
+- 南港修德國小，藝響空間
 - 金門 http://sonnoy.blogspot.com/2013/05/blog-post_27.html?m=1
 - 親子共學協會承租泰平國小
     - [http://udn.com/news/story/7323/1942046](http://udn.com/news/story/7323/1942046)
