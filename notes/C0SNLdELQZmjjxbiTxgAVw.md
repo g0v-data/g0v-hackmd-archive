@@ -3,7 +3,7 @@
 Making a deposit on JILIBET Deposit is quick and easy. First, log in to your account and head over to the deposit section. From there, you&#39;ll see a variety of payment options, such as bank transfers, e-wallets, and other popular methods. Select the payment method that works best for you. After choosing, simply follow the on-screen instructions to complete your deposit. Once done, your funds will be credited to your Jilibet account shortly, ready for you to enjoy your favorite games.</p>
 
 <p>Q2: Are my deposit transactions secure on JILIBET Deposit?<br />
-Absolutely! <a href="https://jilibet888.com.ph/deposit.html">JILIBET Deposit</a> prioritizes the safety and security of all its players. The platform uses state-of-the-art encryption technology to ensure that your deposit details are protected. Whether you&rsquo;re using bank transfers or e-wallets, you can trust that your financial information is kept safe.</p>
+Absolutely! <a href="https://jilibet-play.com/deposit.html">JILIBET Deposit</a> prioritizes the safety and security of all its players. The platform uses state-of-the-art encryption technology to ensure that your deposit details are protected. Whether you&rsquo;re using bank transfers or e-wallets, you can trust that your financial information is kept safe.</p>
 
 <p>Q3: Can I deposit funds using different currencies?<br />
 Absolutely! Jilibet makes it easy for players from all over the world by supporting deposits in multiple currencies. Depending on the payment method you choose, you can deposit in your local currency, making the process more convenient. This eliminates the hassle of currency conversions and ensures that you won&rsquo;t incur any unnecessary fees, offering a seamless experience for all players.</p>
