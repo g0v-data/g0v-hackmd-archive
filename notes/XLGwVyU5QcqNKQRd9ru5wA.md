@@ -1,5 +1,5 @@
-Players can use W88 Indi alternate links to log in easily via alternative portals 
-W88 Indi is committed to seamless online entertainment. 
+W88 Indi offers attractive welcome bonuses and free credits to players on their first deposit. 
+W88 Indi offers attractive free welcome bonus for new members. 
 #w88, #w88indi, #w88india, #W88W88indi, #w88gambling
 Contact Us:
 Website: https://www.w88indi.com/  

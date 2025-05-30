@@ -568,10 +568,7 @@ https://www.facebook.com/share/p/15WCeM1zr5/
 
 高雄左營明潭路-環山路口
 https://www.facebook.com/groups/525658186189949/posts/713914577364308/
-20231221 也標記至地圖中
-
-高雄中山八德
-https://www.facebook.com/story.php?story_fbid=pfbid0dBwcknbUZ87xdbXcxzKgxeKccGUS3xBYkrvmgE4YXK3fAijgDhfVbM5832Yx3zUel&id=100049204915573&mibextid=cr9u03
+20231221 也標記至地圖中(地圖已標示)
 
 哈瑪星
 https://www.facebook.com/100089609110714/posts/pfbid02nNL6ah36wKsg2rJPHUcsfbCKBtThHZBGAgAGanG8brYBgLp3Mej5iqUib6iQ2sD5l/?mibextid=cr9u03
