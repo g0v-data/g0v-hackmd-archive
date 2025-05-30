@@ -557,15 +557,6 @@ https://www.facebook.com/100063689095329/posts/pfbid0eUBgBK7PYiy8Znz7CKnXwjZgQMd
 高雄三民區
 https://www.facebook.com/share/p/15xFcZuNfL/?
 
-高雄河堤南路
-https://www.facebook.com/share/p/qeufqGexrRSQKT9S/
-
-高雄福壽宮附近的行穿線被阻隔
-https://www.facebook.com/share/p/LhNVDiKvxHvst2v4/
-
-高雄七賢
-https://www.facebook.com/share/p/15WCeM1zr5/
-
 高雄左營明潭路-環山路口
 https://www.facebook.com/groups/525658186189949/posts/713914577364308/
 20231221 也標記至地圖中(地圖已標示)
