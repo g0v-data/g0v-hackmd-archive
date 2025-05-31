@@ -9,19 +9,20 @@ Nature _ Area / Organization _ Society
 ## 需要建構詮釋地景構成、存續情境決策
 
 大尺度產業分工下的地方
-例如高雄毛豆
+- 例如高雄毛豆
+- https://g0v.hackmd.io/NvOW-IGPR3aXjD4g1NHMoQ?view
 
-校地與就學人口推估 
-
-街道 流體
-- 降雨逕流，側溝
-- 停車位，進出、過境、駐足停放
+校地與就學人口推估 https://g0v.hackmd.io/@chewei/r1s72oq2kl
 
 臺北盆地環境分區與綠色基盤對策
-- 臺北街廓 
 - https://g0v.hackmd.io/@chewei/20250523
+- 臺北街廓 
+- https://www.facebook.com/groups/474536628587982
+- 街道 流體
+    - 降雨逕流，側溝
+    - 停車位，進出、過境、駐足停放
 
-未來日誌
+未來日誌 https://g0v.hackmd.io/@chewei/SJ2W6Ct_c/
 
 時光地景探討
 https://docs.google.com/document/d/1UnulKzX8hnkRpz7L4E51xJthYrJn_ENXIYoj3WgXjKk/edit?tab=t.0#heading=h.8y53btwynq8l

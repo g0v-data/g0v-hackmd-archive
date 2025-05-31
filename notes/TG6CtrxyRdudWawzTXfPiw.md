@@ -37,10 +37,11 @@ https://photos.app.goo.gl/AAG1nM1Wc5PKGcsp9
 [toc]
 :::
 
-跳坑：明錡, chewei, yellowsoar, Tiff, 小夏, 
+跳坑：明錡, chewei, yellowsoar, Tiff, 小夏, Tmonk, 
 
-專案介紹影片：https://youtu.be/Int0d9_eLiA
-<iframe width=100% height="450" src="https://www.youtube.com/embed/Int0d9_eLiA?si=kWoXyKq5Y36YBiqp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+專案介紹影片：https://youtu.be/6UyYrYeWFks
+
+<iframe width=100% height="480" src="https://www.youtube.com/embed/6UyYrYeWFks?si=pIkQ82TWTMmDJUJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 近期任務
 
