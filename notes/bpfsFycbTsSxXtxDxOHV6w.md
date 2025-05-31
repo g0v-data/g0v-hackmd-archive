@@ -1,10 +1,7 @@
-https://www.jwell-group.com/
+https://www.gemengamusement.com/
+Tel / WhatsApp / 
++86-18957730861
 
-Telephone:
-+86-13916825715
+E-Mail:info@gomengplay.com
 
-Email:
-salnaa@jwell.cn
-
-Address:
-Changzhou： No. 118 Shangshang Road, Zhongguancun Development Zone, Liyang City, Changzhou City, Jiangsu Province
+Add:Yangwan Industrial Zone, Wenzhou, Zhejiang 325106
