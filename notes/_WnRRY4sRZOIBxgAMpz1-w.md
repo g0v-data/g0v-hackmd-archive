@@ -46,7 +46,8 @@ title: g0mesh - README
 # 25 may 代購
 - 五根天線 [name=Sean]
 - 四台 heltech ESP32 [name=yellowsoar]
-- 要給 teemo 相關團購資料 [name=teemo]
+<del>- 要給 teemo 相關團購資料 [name=teemo]</del>
+
 ---
 [Back to the top](#)
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
