@@ -39,6 +39,9 @@ tags: 吉祥物, AI
     - 2014年，紐西蘭國會通過尤瑞瓦拉法案，令該國第4大國家公園——尤瑞瓦拉法國家公園（Te Urewera National Park）也在法律上被確認為生命體  
         - https://theinitium.com/article/20170316-dailynews-New-Zealand-River/
 
+
+- 待查找，河流 https://www.facebook.com/share/p/15aTgVEfv7/?mibextid=wwXIfr
+
 #### India
 - Uttarakhand HC declares Ganga, Yamuna living entities, gives them legal rights 
     - http://www.hindustantimes.com/india-news/uttarakhand-hc-says-ganga-is-india-s-first-living-entity-grants-it-rights-equal-to-humans/story-VoI6DOG71fyMDihg5BuGCL.html
