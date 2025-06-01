@@ -93,9 +93,6 @@ https://www.facebook.com/groups/twroadclub/permalink/2510126345833792/?mibextid=
 南投
 https://www.facebook.com/groups/twroadclub/permalink/2459857794193981/
 
-各處圓環
-https://www.facebook.com/share/v/15XVGHYYFP/
-
 台南孔廟 拆除同向分隔島
 https://www.facebook.com/share/p/SAxiq31oKaNQ8kSX/?mibextid=WC7FNe
 
