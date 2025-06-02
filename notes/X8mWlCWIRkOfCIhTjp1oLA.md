@@ -121,6 +121,9 @@ https://www.threads.com/@unseen_frames_/post/DJvVEsqzHfi?xmt=AQF0IKVYSIKe7_JVE3D
 
 https://www.facebook.com/share/p/1R7Q5nw7Nd/?mibextid=wwXIfr
 
+花蓮 中山路
+https://www.facebook.com/story.php?story_fbid=1081156217163162&id=100058063810788&mibextid=wwXIfr&rdid=D2XnijX9JGv9LgDq#
+
 
 
 ### 有了改造後地點的經緯度，可以延伸製作
