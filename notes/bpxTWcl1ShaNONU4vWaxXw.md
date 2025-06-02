@@ -21,6 +21,9 @@ https://youtu.be/m5rI6Qz4ODc
 許成鋼觀點
 https://g0v.hackmd.io/JlbeYf3QRI2pY02gOwIpkA?view
 
+《鍍金的鳥籠：中國的高科技發展與控制政治》
+https://drive.google.com/file/d/1JFSII3HOpAr9sh6_f7YDNDNcANL26krP/view?usp=drivesdk
+
 ## Economic Impact of Engagement with Taiwan and China
 
 https://www.engagingtaiwan.ea.sinica.edu.tw/
