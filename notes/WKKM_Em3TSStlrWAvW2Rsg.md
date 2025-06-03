@@ -318,3 +318,14 @@ Michael審單之後轉給Jason->Jason填入資料->朝松填入線號->我配IP
 我有教他怎麼開通了  他確認好防毒和安裝防毒後會直接開
 
 這幾台有空閒的可以讓我防毒升級嗎?  不用重開機
+
+
+給你的標籤印表機名稱"TAICLABEL20"
+ 
+1.用"TAICLABEL20"這名稱去申請網路線  單子 : https://micron.service-now.com/itnow?id=sc_cat_item&sys_id=5a203b2d1b8fe810645c7735cc4bcbe4
+ 
+2.自行確認連到哪組IP(10.34.45.187), 在開單給MTB_NETWORK_L2 請他們幫你FIX IP  (須提供印表機名稱 和 這台對應到的IP) 單子 :  Report a Non-Manufacturing Incident
+Report a Non-Manufacturing Incident - ITNow (service-now.com) ->請備註要轉給MTB_NETWORK_L2
+ 
+3.等FIX完 在開單給我請我上 Printer Server 以下SOP給您參考 
+Label Printer setup (SOP).docx
