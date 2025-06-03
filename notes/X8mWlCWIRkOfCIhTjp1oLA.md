@@ -254,12 +254,6 @@ https://www.facebook.com/ntcecea/posts/pfbid02r5j1y8mf8Fgf1Fyhe3hgiAt19E7iXDknRM
 鶯歌
 https://www.facebook.com/100064994161787/posts/pfbid0d3PRURrdjfZCP9QFpA4hd2HMQ58hBX2feotHYn1sJk8fM1XRi4LNHsRfgkBFjUqEl/
 
-桃園市桃園區中正路
-https://www.facebook.com/share/p/71cr29GAKnNFuaxu/
-
-桃園忠勇路
-https://www.facebook.com/share/1MH5Nv8Ns1/
-
 中壢
 https://www.facebook.com/100049204915573/posts/pfbid05UarMKSgK9kEQCAzzqosoJ5HkmDgc56GDCfdLePBdxPBjbDbk34MoBVHJiQ9nx5Kl/
 
@@ -563,6 +557,9 @@ https://www.facebook.com/VisionZeroTW/posts/pfbid02tJBn3AkmVnzzhatzhwqqW5ZGZXKTU
 
 待拆分：此貼文有提到許多路口
 https://www.facebook.com/TaiwanTrafficSafeAssociation/posts/pfbid0cCWCvPLmdDYqjwmJp5ytcQm3FcRSw8fic3W65kqqUFYXfjX4sp5nL7CtzF3Bcz5Kl
+
+高雄 國隆路 工作坊
+https://www.facebook.com/share/p/1ALHMhVBoi/?mibextid=wwXIfr
 
 
 ## 政策蒐集
