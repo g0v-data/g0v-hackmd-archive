@@ -268,9 +268,6 @@ https://sch001.g0v.tw/dash/prj/PYT0Zh11Dx0fE99.57SCnBr.FZPRb8
 > [name=Ying：嗯？有這街嗎？（銘佑69街7414）本來想看一下長怎樣但 google 搜不到]
 > 我留言問問看專案團隊是否有地點經緯度可提供
 
-桃園 同德五街
-https://www.facebook.com/share/p/19WDWaYhg6/
-
 桃園市蘆竹區忠孝西路桃園街口至中正路口的人行道標線完善之後又被塗消掉
 
 新竹圓環
