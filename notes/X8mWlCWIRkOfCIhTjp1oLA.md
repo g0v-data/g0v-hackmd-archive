@@ -124,6 +124,8 @@ https://www.facebook.com/share/p/1R7Q5nw7Nd/?mibextid=wwXIfr
 花蓮 中山路
 https://www.facebook.com/story.php?story_fbid=1081156217163162&id=100058063810788&mibextid=wwXIfr&rdid=D2XnijX9JGv9LgDq#
 
+桃園多處改造完成路段
+https://www.facebook.com/share/p/12JTBGBzTDg/?mibextid=wwXIfr
 
 
 ### 有了改造後地點的經緯度，可以延伸製作
@@ -528,19 +530,6 @@ https://www.facebook.com/groups/1961173117467361/permalink/3449766275274697/
 
 街區連續人行道的推論演算方式，探討一個個案「高雄捷運後驛站至高雄醫學大學之間的街區」
 https://www.facebook.com/share/pb4ruhhMgAVGBb7o/
-
-高雄，建工路與大昌路
-https://www.facebook.com/story.php?story_fbid=pfbid0KWd4RF8Rg898VsNU9Ank4m54pPM3UCL56AM8Ke7Dh1MGvahbdwuHX1sYP4wXZaWxl&id=100049204915573&mibextid=qC1gEa
-
-高雄市前鎮瑞隆路
-https://www.facebook.com/story.php?story_fbid=pfbid0c3DJgTPuvQMDywiL9aZDM59RLC2BC2mdVDQKfYAqEpha1Xpaqz3oxcBqoWxEiW4bl&id=100049204915573&mibextid=tejx2t
-https://www.facebook.com/share/p/Lttd1rtdL6cxXAXv/
-
-高雄市三民路
-https://www.facebook.com/100063689095329/posts/pfbid0eUBgBK7PYiy8Znz7CKnXwjZgQMdxhGy3vU3FZaik1UkqE6UrA7qyf1wrnXjNjxfgl/?mibextid=cr9u03
-
-高雄三民區
-https://www.facebook.com/share/p/15xFcZuNfL/?
 
 高雄左營明潭路-環山路口
 https://www.facebook.com/groups/525658186189949/posts/713914577364308/
