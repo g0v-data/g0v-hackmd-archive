@@ -126,6 +126,7 @@ tags: GIS
     - https://www.facebook.com/100000066795897/posts/2376926948986175/
 - 大巨蛋反光
     - https://www.facebook.com/119767/posts/10105229514847122/
+- 東西曬同時ˊ發生 https://www.facebook.com/share/1aqypeWmAv/
 - 垃圾車到底為什麼要用《給愛麗絲》這首歌？
     - [https://youtu.be/Yq9USBDkR48](https://youtu.be/Yq9USBDkR48)
 - 人行道的鋪面混入細玻璃材料，有閃爍效果
