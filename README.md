@@ -2,6 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [cofacts](tags/cofacts.md) | 493 | 2025-06-04T05:04:34+00:00 |
+| [ meeting note](tags/%20meeting%20note.md) | 16 | 2025-06-04T05:04:34+00:00 |
 | [GIS](tags/GIS.md) | 164 | 2025-06-03T18:31:11+00:00 |
 | [vTaiwan小松](tags/vTaiwan%E5%B0%8F%E6%9D%BE.md) | 327 | 2025-06-03T17:17:50+00:00 |
 | [vtaiwan](tags/vtaiwan.md) | 59 | 2025-06-03T17:16:37+00:00 |
@@ -31,8 +33,6 @@
 | [新書發表會](tags/%E6%96%B0%E6%9B%B8%E7%99%BC%E8%A1%A8%E6%9C%83.md) | 1 | 2025-05-27T02:56:42+00:00 |
 | [LLM](tags/LLM.md) | 2 | 2025-05-26T15:01:18+00:00 |
 | [ chatgpt](tags/%20chatgpt.md) | 1 | 2025-05-26T15:01:18+00:00 |
-| [cofacts](tags/cofacts.md) | 493 | 2025-05-26T12:32:07+00:00 |
-| [ meeting note](tags/%20meeting%20note.md) | 16 | 2025-05-26T12:32:07+00:00 |
 | [ CAI](tags/%20CAI.md) | 6 | 2025-05-25T09:30:30+00:00 |
 | [ ruleAI](tags/%20ruleAI.md) | 6 | 2025-05-25T09:30:30+00:00 |
 | [ OpenAI](tags/%20OpenAI.md) | 6 | 2025-05-25T09:30:30+00:00 |

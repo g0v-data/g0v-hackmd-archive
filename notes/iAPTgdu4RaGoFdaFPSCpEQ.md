@@ -3,7 +3,7 @@ tags: cofacts, meeting note
 GA: UA-98468513-3
 ---
 
-下次會議記錄
+20250604 會議記錄
 =====
 
 :::info
