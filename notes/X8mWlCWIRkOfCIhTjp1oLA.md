@@ -509,12 +509,6 @@ https://www.facebook.com/share/q47C8UqHDB5yJZJm/
 台南市 公車站設在快車道，但無行穿線可以到達
 ? 找地點或網路素材
 
-岡山
-https://www.facebook.com/100049204915573/posts/pfbid031wom8LvRAUoHMGQ3LTErC74U7hS7BBgdmRPiF8Vjn3mij4XKW5PE98kpr8c5ZrCLl/
-
-岡山 台1線
-https://www.facebook.com/share/p/bX4VXBBrpaNERtBE/
-
 仁武
 https://www.facebook.com/share/p/rtCTVEucPfp5AD3N/
 
