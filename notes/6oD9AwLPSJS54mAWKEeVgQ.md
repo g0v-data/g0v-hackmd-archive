@@ -1,6 +1,6 @@
 Experience the most professional and advanced online gaming platform at jilibet. Join us and download our app to place your bets at the highly respected jilibet casino.
 
-https://jilibet888.com.ph/
+https://jilibet-play.com/
 (+63)550 031 2685
 E-Mail: help@jilibet.bet
 GX4W+FHH, Parañaque, Kalakhang Maynila, Philippines
