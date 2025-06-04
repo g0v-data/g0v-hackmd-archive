@@ -8,14 +8,15 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- NPO Hub: bil, nonumpa, mrorz
-- 線上出席：
+- NPO Hub: bil, mrorz
+- 線上出席：nonumpa
 - Gather Town: https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
 ## 本次會議待追蹤項目
 
-*   **謠言惑眾獎**: MyGoPen 會提供新的名單。
+*   **謠言惑眾獎**: ~~MyGoPen 會提供新的名單。~~
+    *   沒發出去的就留用到明年，今年 case closed
 *   **大松檢討**: 九月考慮在高雄或台南舉辦面海松，希望邀請 OpenDream 工程師或設計師。
 *   **beta.cofacts.ai**: staging machine 環境設定 (Cloudflare tunnel, Access)。
 *   **Open165 重構**: Open165 重構相關 PR (Open165/worker #5, Open165/site #37) 已開啟，但尚未測試。
@@ -24,22 +25,26 @@ GA: UA-98468513-3
 
 ## Badge
 - **[cofacts/rumors-site]** Pull request opened: #605 update cursor for the badge name span (https://github.com/cofacts/rumors-site/pull/605) by jhk482001 (日期: 2025-05-27)
-
 - **[cofacts/rumors-api]** Pull request opened: #367 add revoke badge for the user API (https://github.com/cofacts/rumors-api/pull/367) by jhk482001 (日期: 2025-06-03)
 
 ## CCPRIP
 
 ### [Op] Info security
-- 資安
+- 資安 https://drive.google.com/drive/folders/1VqjAa9vxmaaXvtqhT9CmycndUBrs0r2w
+- Actionable itemL 把 cofacts 用的服務改用 cofacts.tw email，避免使用個人 gmail
+    - 範圍：https://docs.google.com/document/d/17teNyv46rml0bTLOkEjB20r7jLJbUl-xHukL14eZ57k/edit?tab=t.0
+    1. johnson 先用 cofacts email 取得服務的管理者權限
+    2. johnson invite 大家的 cofacts.tw email
+    3. johnson 移除非 cofacts.tw email access
 
 ### [Comm] Takedown
 https://github.com/cofacts/takedowns/pull/235#issuecomment-2914564221
-
 
 ## 小聚籌備
 06/15 (日) 2pm - 5 pm 
 - OK: 
 - 辦在青職基地
+- Actionable item：需要行前通知提醒是否要取消
 - [ ] 食物：
 - [ ] 場地：新北市青年局青職基地
 - [ ] 時間：13:00 擺桌子場佈
@@ -61,7 +66,9 @@ https://github.com/cofacts/takedowns/pull/235#issuecomment-2914564221
 - [ ] KKTIX: https://cofacts.kktix.cc/events/cofactseditor47
 - [ ] 誰會來呢： 
 - [ ] 記得帶：貼紙、不太環保杯
-- [ ] LINE 文案： Cofacts 真的假的 第 47 次志工查核工作坊需要你的加入，活動完全免費，（請自備電腦）06/15(日)下午，地點青職基地，最近的捷運站是捷運板橋站1號出口，連結內報名：https://cofacts.kktix.cc/events/cofactseditor46
+- [ ] LINE 文案： Cofacts 真的假的 第 47 次志工查核工作坊需要你的加入，活動完全免費，（請自備電腦）06/15(日)下午，地點青職基地，最近的捷運站是捷運板橋站1號出口，連結內報名：https://cofacts.kktix.cc/events/cofactseditor47
 - [ ] VOOM 發文
 - [ ] FB 發文
 
+## 6/9 開會
+- 全線上 20:00
