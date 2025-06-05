@@ -11,6 +11,15 @@
 
 ## 梅田 Hands
 
+> 大丸梅田店 11F https://maps.app.goo.gl/hhQvNPVbmCdBY1LA6
+
+防災專區
+- 長期保存食：多種口味的飯、飯糰、餅乾、果凍、羊羹、料理包、水、麵包罐頭等等
+- 電器：懷中電燈、太陽能板、行動電源、水蠟燭等等
+- 衛生：行動廁所、乾洗髮、濕紙巾、水桶等等
+- 安全：鞋子、軟墊、頭盔、手套、保暖毯、哨子等等
+- 其他：加水就能煮沸的袋子、多種附內容物的避難包
+
 ![](https://g0v.hackmd.io/_uploads/SyxzIMhAGle.jpg)
 ![](https://g0v.hackmd.io/_uploads/ryxZ8zhAMlg.jpg)
 ![](https://g0v.hackmd.io/_uploads/BJZ-UGhRMgg.jpg)
@@ -18,13 +27,15 @@
 
 ## 梅田 Yodobashi
 
+> https://maps.app.goo.gl/bEjRk6BaMG3mYvDc7 
+
 ![](https://g0v.hackmd.io/_uploads/S1G68WnCfgl.jpg)
 ![](https://g0v.hackmd.io/_uploads/ryT8b30fgx.jpg)
 ![](https://g0v.hackmd.io/_uploads/ry0UbnAMxl.jpg)
 ![](https://g0v.hackmd.io/_uploads/r1xiUWnCzel.jpg)
 ![](https://g0v.hackmd.io/_uploads/HJQaLbnAGxl.jpg)
 
-收音機區
+收音機區：手搖收音機等
 ![](https://g0v.hackmd.io/_uploads/rJlaIb3RMxg.jpg)
 
 
@@ -35,7 +46,7 @@
 防災專區
 - 長期保存食：罐頭麵包、能量果凍、調理包、餅乾、羊羹
 - 電器：收音機、太陽能燈
-- 衛生用品：行動廁所、毛巾、
+- 衛生用品：行動廁所、毛巾、乾洗髮
 ![](https://g0v.hackmd.io/_uploads/r1eEk20zlx.jpg)
 ![](https://g0v.hackmd.io/_uploads/SkZlEynRzlx.jpg)
 
