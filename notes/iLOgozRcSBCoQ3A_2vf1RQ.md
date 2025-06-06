@@ -53,9 +53,13 @@
     - 看松（台語音似跨松）：回顧 2025 年 g0v 的各種松
     - crocodile song：鱷魚歌，簡稱 corc-song
     - 試看覓 [tshì khuànn-māi](https://sutian.moe.edu.tw/zh-hant/poosiu/poosiu/147/%E8%A6%93/)：試吃環節可用這個詞當單元名稱
-    - 
+- 交換可頌
+    - 請參與者準備一個可頌，在現場進行交換儀式
+    - 看看誰帶來的可頌最有創意
 
 > 是不是該想一下午夜十二點前要安排什麼環節？[name=RS]
+
+> 聖誕節交換禮物，跨年松交換可頌？[name=Dong]
 
 ## 籌備
 - 可行性研究
