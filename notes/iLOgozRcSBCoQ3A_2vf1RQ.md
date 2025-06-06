@@ -69,3 +69,9 @@
 
 
 ## 待辦
+
+## 參考資料
+- [邪惡可頌---各地可頌比一比](https://www.businesstoday.com.tw/article/category/80730/post/201906120037/)
+    ::: spoiler
+    ![](https://g0v.hackmd.io/_uploads/SktRDbemll.jpg)
+    :::
