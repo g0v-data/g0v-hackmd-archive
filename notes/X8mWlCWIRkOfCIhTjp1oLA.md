@@ -467,12 +467,6 @@ https://www.facebook.com/watch?v=950240829364406
 博愛國小
 https://www.facebook.com/events/894503588982526?view=permalink&id=898450861921132
 
-北區民德國中
-https://www.facebook.com/100063582707007/posts/pfbid0na6J1u4D6yZey9mBhWYbHfKw6zofFdj63obfNstzn1Nm3J535QtzQebCbn3RVRTtl/
-
-西門路成功路，路口行穿線
-https://www.facebook.com/share/v/Tdv58CeGGuw3cSfH/
-
 臺南市東區裕永路 平實路
 https://www.facebook.com/100083131440923/posts/pfbid034MGDkL3QcoDjjR1HjLi7Pz3nuv1b8TwQZDrF3cXzo8ra7Napt8jbqQBurF3J2q8Jl/
 
