@@ -155,6 +155,10 @@ https://reurl.cc/G5qEgZ
 金融業
 https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202406200001&dtable=News
 
+
+法律行業
+https://www.facebook.com/share/p/191BS7CnZU/
+
 大學校園因應生成式AI之指引及教學建議
 https://ethics.moe.edu.tw/resource/epaper/html/21/
 
