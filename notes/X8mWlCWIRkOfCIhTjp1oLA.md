@@ -207,12 +207,6 @@ https://photos.app.goo.gl/v9tphz4mPN47Hcxq6
 松江詩園北側巷弄應評估無車化
 https://photos.app.goo.gl/WtcWuB9EveTdFedB8
 
-台北市八德路218巷 [相關新聞](https://news.housefun.com.tw/news/article/895373366989.html)
-https://news.housefun.com.tw/news/article/895373366989.html
-
-永吉路30巷
-https://www.facebook.com/story.php?story_fbid=pfbid02QPLecuwRuFJwqwUP14wMnLpSUPMAAcS6ExES8A4tPAFtXNDzhAnLMn6VCCeGfwdEl&id=100064600095954&mibextid=qC1gEa
-
 市政府站附近、西門站附近
 https://www.facebook.com/story.php?story_fbid=pfbid02uK1JgiPijcc2pMzqqPz8n8m6rCRNMXLwxEA2QJ8TynxyJc9GEqxgp7VvH1ANSrAHl&id=100063509899206&mibextid=qC1gEa
 
@@ -508,13 +502,6 @@ https://www.facebook.com/share/q47C8UqHDB5yJZJm/
 
 台南市 公車站設在快車道，但無行穿線可以到達
 ? 找地點或網路素材
-
-仁武
-https://www.facebook.com/share/p/rtCTVEucPfp5AD3N/
-
-高雄市中山凱旋路口
-https://www.facebook.com/share/Deg9dVaDYNMZcUCi/?mibextid=WC7FNe
-
 
 台1線 民生東路、和生路一段
 https://www.facebook.com/share/p/bX4VXBBrpaNERtBE/
