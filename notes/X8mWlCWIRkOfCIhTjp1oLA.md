@@ -396,21 +396,6 @@ https://www.facebook.com/share/nQV1MjrfnfGFFMDP/
 https://www.facebook.com/share/p/pWF928rbKwFJBmtJ/
 https://www.facebook.com/share/p/Af5hpPrvk6dAZR2i/
 
-南投中興新村
-https://www.facebook.com/story.php?story_fbid=pfbid0korrQ5zYKfaga1gMJzHVGdvTn26Aj8ierjQ6H7Do8wVZLA4JM5zPZZFUQP3KeAy7l&id=100063883987874&mibextid=qC1gEa
-
-雲林 斗南建國路大同路口
-https://www.facebook.com/share/Zc2AnL5piZDFKzrt/
-
-嘉義縣中正大學
-https://www.facebook.com/share/p/AUgEqhdGwCEYJ74V/
-
-嘉義市 林森東路 嘉義大學林森校區～興華中學
-https://www.facebook.com/groups/twroadclub/posts/1972893492890416/
-
-中山一路，八德一路
-https://www.facebook.com/share/wBiL3HgPM9eN9XpZ/
-
 彰化市中華西路/曉陽路
 台中市霧峰區中潭公路/中正路(立法院民主議政園區(臺灣省議會紀念園區))
 https://www.facebook.com/100049204915573/posts/pfbid0U538Q2mrd7CVBURitvLhASHM9oRQwLLpWQG1bVHM7YLagry7LXnQqYwo7NibsYmwl/?mibextid=cr9u03
@@ -463,9 +448,6 @@ https://www.facebook.com/story.php?story_fbid=pfbid0mAPsr4zyaC6zqib8faKA1WsoTYvt
 
 在台南東區後甲國中這個路口，雖然對比改善前好很多，但有成功大學的同學反應，庇護島的方向設計有問題，我透過影片轉述他對於路口設計的建議
 https://www.facebook.com/watch?v=950240829364406
-
-博愛國小
-https://www.facebook.com/events/894503588982526?view=permalink&id=898450861921132
 
 臺南市東區裕永路 平實路
 https://www.facebook.com/100083131440923/posts/pfbid034MGDkL3QcoDjjR1HjLi7Pz3nuv1b8TwQZDrF3cXzo8ra7Napt8jbqQBurF3J2q8Jl/
