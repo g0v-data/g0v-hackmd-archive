@@ -242,19 +242,12 @@ https://docs.google.com/forms/d/e/1FAIpQLSfYkLzzPquePO9WQeC1bNXoOUztPfaVAvs3H_j0
 
 樹林
 https://www.facebook.com/share/p/2QHB42YiR2eKRsZK/
-https://www.facebook.com/share/p/18AWJvPCNh/?mibextid=wwXIfr
 
 鶯歌
 https://www.facebook.com/ntcecea/posts/pfbid02r5j1y8mf8Fgf1Fyhe3hgiAt19E7iXDknRMrwPEXeGeQhdUNecDaCVZ6EEfSNCrtol
 
 鶯歌
 https://www.facebook.com/100064994161787/posts/pfbid0d3PRURrdjfZCP9QFpA4hd2HMQ58hBX2feotHYn1sJk8fM1XRi4LNHsRfgkBFjUqEl/
-
-中壢
-https://www.facebook.com/100049204915573/posts/pfbid05UarMKSgK9kEQCAzzqosoJ5HkmDgc56GDCfdLePBdxPBjbDbk34MoBVHJiQ9nx5Kl/
-
-中壢 
-https://www.facebook.com/share/19MURSNy7C/
 
 中壢，行穿線被高架橋墩阻隔
 https://www.facebook.com/share/cgEL3MF287HV6wzy/
@@ -479,15 +472,6 @@ https://www.facebook.com/100063582707007/posts/pfbid0na6J1u4D6yZey9mBhWYbHfKw6zo
 
 西門路成功路，路口行穿線
 https://www.facebook.com/share/v/Tdv58CeGGuw3cSfH/
-
-永華路二段
-https://www.facebook.com/share/p/brK1SAt4b9DyDDvU/
-
-小東路與東和路
-https://www.facebook.com/story.php?story_fbid=pfbid02itmun7JTKGZ8nYgWAs2Hk9WPsj9qjVAjWjd5V8vQAxnVEF1YMzNy59QRssp9QHzxl&id=100049204915573&mibextid=qC1gEa
-
-新興新信中華路
-https://www.facebook.com/100064848694500/posts/pfbid0LCXVDpntrMUgRyk8q1TtQYiQjeuXSFXepRhpDS1vQwVr3hZnnnd5iMhuNG36wWCel/?mibextid=cr9u03
 
 臺南市東區裕永路 平實路
 https://www.facebook.com/100083131440923/posts/pfbid034MGDkL3QcoDjjR1HjLi7Pz3nuv1b8TwQZDrF3cXzo8ra7Napt8jbqQBurF3J2q8Jl/

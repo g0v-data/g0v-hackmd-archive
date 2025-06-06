@@ -19,8 +19,6 @@ Còn trong trường hợp ngân sách hạn hẹp, nhu cầu chà rửa diện 
 
 Lựa chọn máy phù hợp không chỉ phát huy tối đa công năng mà còn giảm thiểu chi phí tối đa, tránh lãng phí không cần thiết. 
 
-Đặt mua máy đánh sàn giá rẻ: http://yenphat.vn/may-cha-san
-
 2.2 Mua máy của thương hiệu nổi tiếng, có xuất xứ rõ ràng
 Trên thị trường có rất nhiều hãng máy chà sàn nhà xưởng ra đời, đáp ứng nhu cầu ngày càng tăng của người dùng. 
 
