@@ -61,6 +61,7 @@ tags: cofacts, security, resilience, 資安, CCPRIP
 - Elasticsrarch > 8
   - current 6 does not run on Apple Silicon https://stackoverflow.com/questions/68877644/how-to-run-elasticsearch-6-on-an-apple-silicon-mac
   - enables vector search
+- [Ditigal asset management](https://docs.google.com/document/d/17teNyv46rml0bTLOkEjB20r7jLJbUl-xHukL14eZ57k/edit)
 
 #### Phase 1: rumors-site & rumors-line-bot 上 Google cloud run
 
