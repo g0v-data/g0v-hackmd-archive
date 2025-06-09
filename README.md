@@ -2,10 +2,10 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [cofacts](tags/cofacts.md) | 495 | 2025-06-09T12:19:05+00:00 |
+| [ meeting note](tags/%20meeting%20note.md) | 18 | 2025-06-09T12:19:05+00:00 |
 | [LLM](tags/LLM.md) | 2 | 2025-06-09T11:50:29+00:00 |
 | [ chatgpt](tags/%20chatgpt.md) | 1 | 2025-06-09T11:50:29+00:00 |
-| [cofacts](tags/cofacts.md) | 494 | 2025-06-09T11:26:26+00:00 |
-| [ meeting note](tags/%20meeting%20note.md) | 17 | 2025-06-09T11:26:26+00:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 35436 | 2025-06-09T10:52:43+00:00 |
 | [ security](tags/%20security.md) | 1 | 2025-06-09T05:53:59+00:00 |
 | [ resilience](tags/%20resilience.md) | 7 | 2025-06-09T05:53:59+00:00 |

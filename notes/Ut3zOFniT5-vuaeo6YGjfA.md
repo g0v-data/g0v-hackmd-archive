@@ -8,8 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- NPO Hub:
-- 線上出席：
+- 線上出席：bil, nonumpa, 4000, mrorz
 - Gather Town: https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -27,7 +26,7 @@ GA: UA-98468513-3
 
 - Background migrations all resolved ![](https://g0v.hackmd.io/_uploads/r1ebwAW4Xle.png)
     - 先前最後一個 task 一直卡住，可能是未知原因下他的 lock 沒 release
-    - restart container 重跑就好了
+    - restart worker container 重跑就好了
 - 3.56.0 --> 3.66.1 ![](https://g0v.hackmd.io/_uploads/r1JMZMEXlg.png)
     - LLM-as-a-Judge 與 Playground 功能變成免費的 https://langfuse.com/blog/2025-06-04-open-sourcing-langfuse-product
 
@@ -35,7 +34,7 @@ GA: UA-98468513-3
 ## 小聚 rundown
 
 - 週六早上
-    - [x] KKTIX 行前通知：提醒時間、使用電腦而非手機
+    - [ ] KKTIX 行前通知：提醒時間、使用電腦而非手機
     > Hello 你好，
 	>
 	> 本週日就是 6 月 15 日查核志工培訓囉！
@@ -71,9 +70,12 @@ GA: UA-98468513-3
     - [ ] Wifi 機 - mrorz
         - [ ] rt-ax57 go
         - [ ] 電源線
-- 13:00 - 場佈 https://www.youth.ntpc.gov.tw/static/VRview/ys/07/index.html
+    - [ ] 多帶一條 type-c 公公線 for dongle 的電
+    - [ ] 備用 wifi 機 [name=nonumpa]
+- 13:00 - 場佈 [排法](https://g0v.hackmd.io/0rzXk22PQZ2g5aswKIAXdw?view)
+  - 桌子一邊 4 張椅子
   - [ ] 簽到（問飲料）
-  - [ ] 排桌子椅子
+  - [ ] 排桌子椅子 
   - [ ] 投影位置？
   - [ ] 麥克風
   - [ ] 延長線佈置
