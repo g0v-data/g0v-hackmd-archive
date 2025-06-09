@@ -23,6 +23,15 @@ GA: UA-98468513-3
     *   Johnson 移除非 cofacts.tw email access
 *   **小聚籌備 (06/15)**: 確認食物、投放目標設定 (06/03 推播，目標雙北)、KKTix 活動頁面、LINE 文案、VOOM 發文、FB 發文、攜帶物品 (貼紙、不太環保杯)。
 
+## Langfuse update
+
+- Background migrations all resolved ![](https://g0v.hackmd.io/_uploads/r1ebwAW4Xle.png)
+    - 先前最後一個 task 一直卡住，可能是未知原因下他的 lock 沒 release
+    - restart container 重跑就好了
+- 3.56.0 --> 3.66.1 ![](https://g0v.hackmd.io/_uploads/r1JMZMEXlg.png)
+    - LLM-as-a-Judge 與 Playground 功能變成免費的 https://langfuse.com/blog/2025-06-04-open-sourcing-langfuse-product
+
+
 ## 小聚 rundown
 
 - 週六早上

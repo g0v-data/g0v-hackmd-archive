@@ -2,8 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [cofacts](tags/cofacts.md) | 494 | 2025-06-09T05:56:34+00:00 |
-| [ meeting note](tags/%20meeting%20note.md) | 17 | 2025-06-09T05:56:34+00:00 |
+| [cofacts](tags/cofacts.md) | 494 | 2025-06-09T07:49:28+00:00 |
+| [ meeting note](tags/%20meeting%20note.md) | 17 | 2025-06-09T07:49:28+00:00 |
 | [ security](tags/%20security.md) | 1 | 2025-06-09T05:53:59+00:00 |
 | [ resilience](tags/%20resilience.md) | 7 | 2025-06-09T05:53:59+00:00 |
 | [ 資安](tags/%20%E8%B3%87%E5%AE%89.md) | 1 | 2025-06-09T05:53:59+00:00 |
