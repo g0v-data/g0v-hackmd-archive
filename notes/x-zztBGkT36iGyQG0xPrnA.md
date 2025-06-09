@@ -55,6 +55,10 @@ https://www.facebook.com/share/p/18raTbQevx/
 - Rep0rter - g0v 零時記者 - 每日 g0v 大小事資訊推播 https://g0v.hackmd.io/@Hawks/B13PRL8da
 - 摘：用 chatGPT API 做的程式協助和教學工具的概念驗證的prototype，讓人工智慧自己寫基礎概念教學的書的一個概念驗證 https://www.facebook.com/groups/Taiwan.NLP/permalink/5564287160333096/
 
+### 親臨現場並自主移動
+
+評估能否透過 Double 3 這款設備，由 LLM 控制？ 
+https://g0v.hackmd.io/@jothon/robot
 
 ## 使用 LLM 聊聊 g0v
 

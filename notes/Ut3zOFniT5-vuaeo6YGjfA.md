@@ -56,21 +56,21 @@ GA: UA-98468513-3
 	> 那麼明天見囉😊
 	>
 	> 比鄰敬上
-    - [x] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
-	- [x] 準備 Slido `#cofacts`
-		- [x] 放投影片網址
+    - [ ] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
+	- [ ] 準備 Slido `#cofacts`
+		- [ ] 放投影片網址
 - 當日準備 / 攜帶
     - [ ] 樓下用的標語 - bil
-    - [x] 貼紙 - orz, bil
-    - [x] 黏土 - orz
+    - [ ] 貼紙 - orz, bil
+    - [ ] 黏土 - orz
     - [ ] 手板 - bil
     - [ ] 講義 - bil
     - [ ] 一次性杯子 - bil
     - [ ] 延長線 - bil / mrorz
         - 比鄰有三條
     - [ ] Wifi 機 - mrorz
-        - [x] rt-ax57 go
-        - [x] 電源線
+        - [ ] rt-ax57 go
+        - [ ] 電源線
 - 13:00 - 場佈 https://www.youth.ntpc.gov.tw/static/VRview/ys/07/index.html
   - [ ] 簽到（問飲料）
   - [ ] 排桌子椅子

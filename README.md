@@ -2,9 +2,11 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [LLM](tags/LLM.md) | 2 | 2025-06-09T11:50:29+00:00 |
+| [ chatgpt](tags/%20chatgpt.md) | 1 | 2025-06-09T11:50:29+00:00 |
+| [cofacts](tags/cofacts.md) | 494 | 2025-06-09T11:26:26+00:00 |
+| [ meeting note](tags/%20meeting%20note.md) | 17 | 2025-06-09T11:26:26+00:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 35436 | 2025-06-09T10:52:43+00:00 |
-| [cofacts](tags/cofacts.md) | 494 | 2025-06-09T07:49:28+00:00 |
-| [ meeting note](tags/%20meeting%20note.md) | 17 | 2025-06-09T07:49:28+00:00 |
 | [ security](tags/%20security.md) | 1 | 2025-06-09T05:53:59+00:00 |
 | [ resilience](tags/%20resilience.md) | 7 | 2025-06-09T05:53:59+00:00 |
 | [ 資安](tags/%20%E8%B3%87%E5%AE%89.md) | 1 | 2025-06-09T05:53:59+00:00 |
@@ -36,8 +38,6 @@
 | [china](tags/china.md) | 4 | 2025-05-28T17:48:45+00:00 |
 | [Disfactory](tags/Disfactory.md) | 186 | 2025-05-28T14:15:11+00:00 |
 | [新書發表會](tags/%E6%96%B0%E6%9B%B8%E7%99%BC%E8%A1%A8%E6%9C%83.md) | 1 | 2025-05-27T02:56:42+00:00 |
-| [LLM](tags/LLM.md) | 2 | 2025-05-26T15:01:18+00:00 |
-| [ chatgpt](tags/%20chatgpt.md) | 1 | 2025-05-26T15:01:18+00:00 |
 | [ CAI](tags/%20CAI.md) | 6 | 2025-05-25T09:30:30+00:00 |
 | [ ruleAI](tags/%20ruleAI.md) | 6 | 2025-05-25T09:30:30+00:00 |
 | [ OpenAI](tags/%20OpenAI.md) | 6 | 2025-05-25T09:30:30+00:00 |
