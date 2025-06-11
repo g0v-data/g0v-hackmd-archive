@@ -22,6 +22,9 @@ tags: vTaiwan小松
 > G0V好像只有Github社群，並沒有一個自己的cloudFlare帳號
 > [name=bestian]
 
+> 上週五和tofus連線，把部落格功能做成登入後可以post文章了[name=bestian]
+
+後續的架站優先順序，請在[此Github議題](https://github.com/g0v/vtaiwan-neo/issues/5)討論
 
 ## 主視覺更新
 - facebook、IG、twitter 要一併更換
