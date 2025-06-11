@@ -274,9 +274,6 @@ https://www.facebook.com/100064848694500/posts/pfbid02P1YrjWqM4RhQfVzs9NDHcLFM3M
 新竹 龍山東路 圓環
 https://www.facebook.com/share/x7UeUm4rVQJRz4K1/
 
-新竹高中
-https://www.facebook.com/share/19Y8G3x9yX/?
-
 新竹
 https://www.facebook.com/story.php?story_fbid=pfbid0YHMSn8SxNPH1jTX1XWETbs6J151cBW8TYoZj6aiEudZ2cL1Px5gMLCoztb67PCeyl&id=100049204915573&mibextid=qC1gEa
 
@@ -434,17 +431,12 @@ https://www.facebook.com/story.php?story_fbid=pfbid02hVwr1qy7J6mWwn6Mmd62h9bFmh2
 臺南市永康區中華路至大橋火車站
 https://www.facebook.com/story.php?story_fbid=pfbid02mCEHZmb3nTTg7JkbL1tohDHKUs1nzrqpCJVMBiszDK3wHnJMWVXB6UXRhCT1ZZ5Rl&id=100010143949091&mibextid=qC1gEa
 
-臺南育平路附近
-https://www.facebook.com/groups/525658186189949/permalink/607759104646523/
-
 臺南開元派出所
 https://www.facebook.com/story.php?story_fbid=pfbid0usmhJSdaCH3CbbQBLisr7aqah8GsMKxqAnf3wg4za8gy7Kr6JGDCnyQTXDQjejtVl&id=100063582707007&mibextid=qC1gEa
 
 臺南
 https://www.facebook.com/ReTWRoad/posts/pfbid0UJT52uYQMNFTuyRCKiB7i2mXiqFakPbqrh2ZFgnrUbdKibSFX7HJztTJe73EW3oNl?locale=zh_TW
 
-新營區開元路與長榮路路口
-https://www.facebook.com/story.php?story_fbid=pfbid0mAPsr4zyaC6zqib8faKA1WsoTYvtc25DbRGnNpebfeCfCyVmShQ9besg8GuzPvCBl&id=100049204915573&mibextid=cr9u03
 
 在台南東區後甲國中這個路口，雖然對比改善前好很多，但有成功大學的同學反應，庇護島的方向設計有問題，我透過影片轉述他對於路口設計的建議
 https://www.facebook.com/watch?v=950240829364406
