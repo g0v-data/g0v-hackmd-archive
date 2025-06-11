@@ -12,6 +12,9 @@ CC BY 4.0 International by g0v contributors
 節目已在加拿大播出囉！
 https://www.facebook.com/517380721/posts/10164417810035722/
 
+公開影片
+https://youtu.be/AY292ifYAXk
+
 這是 youtube 上釋出的影片，VPN 換成加拿大才能瀏覽
 https://youtu.be/tpf2wcZvn1o
 

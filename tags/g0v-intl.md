@@ -2,50 +2,50 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [On Archive...](../notes/6gw5b3qfTi6V1Kq98PEvzg.md) | 2024-12-29T14:41:32+00:00 | 2024-12-26T06:12:36+00:00 |
-| 2 | [g0v international 2025](../notes/UZQWq1VxSGud57A-jh59JQ.md) | 2024-12-26T07:41:52+00:00 | 2024-12-26T07:14:10+00:00 |
-| 3 | [公民科技及數位韌性行動計畫](../notes/ydJMEy7UTSSALoPmEDHx9A.md) | 2024-09-24T03:36:23+00:00 | 2024-09-22T09:15:57+00:00 |
-| 4 | [Emergency Response (Typhoon & Earthquake) - FtO Yokohama 2024](../notes/-D9nwbtiQxSsznSxR5lXjA.md) | 2024-08-15T13:23:15+00:00 | 2024-08-13T01:38:37+00:00 |
-| 5 | [FtO Yokohama 2024](../notes/VCTm63nQQl6Rh3r_yKjmbw.md) | 2024-08-14T11:48:16+00:00 | 2024-03-20T03:12:07+00:00 |
-| 6 | [面海松 2024 橫濱 - 行前信草稿](../notes/0MdhUWv4Tmi0yuChvWkMAA.md) | 2024-08-14T00:57:35+00:00 | 2024-08-14T00:24:17+00:00 |
-| 7 | [20240802 FtO organizers meeting notes](../notes/apxOePQERnOOLOip0MWKcA.md) | 2024-08-08T02:57:53+00:00 | 2024-08-02T05:21:22+00:00 |
-| 8 | [20240711 FtO organizers meeting notes](../notes/cBlGALc0Thit6GKWGC2XeA.md) | 2024-07-26T09:21:38+00:00 | 2024-07-08T07:07:01+00:00 |
-| 9 | [20240620 FtO organizers meeting notes](../notes/-m5VjKW0Sm6_SDAgWjwf2Q.md) | 2024-06-20T08:06:50+00:00 | 2024-06-20T07:51:05+00:00 |
-| 10 | [20240523 FtO organizers meeting notes](../notes/r1UffrFgTwWhsTUFybi6ig.md) | 2024-05-27T06:33:56+00:00 | 2024-05-14T04:25:30+00:00 |
-| 11 | [(Canceled) Meetup with g0vers hosted by 浩志會: Growing public mind in the age of individuals.](../notes/amGF_30tRee8tcVVzurTAw.md) | 2024-05-20T03:12:24+00:00 | 2024-04-30T06:54:38+00:00 |
-| 12 | [20240505 FtO organizers meeting notes](../notes/sNsttr8kTC2PLl9Ahr09vQ.md) | 2024-05-14T04:29:11+00:00 | 2024-05-05T09:45:31+00:00 |
-| 13 | [2nd Code for Korea Conference - Happy Happy, Hack Gathering!](../notes/UKjeROzlTyWAf4tTehgU0Q.md) | 2024-03-08T19:20:36+00:00 | 2023-10-24T00:38:27+00:00 |
-| 14 | [g0ver @ 科技 × 民主治理 閉門國際工作坊](../notes/VuPySokuT5qNxZYjFJ8PCA.md) | 2023-09-15T05:15:41+00:00 | 2023-09-11T23:32:47+00:00 |
-| 15 | [g0v talk in TRANSFORMATION conference 2021](../notes/L36QWVuLSbaueT_xBCxMbw.md) | 2023-09-14T07:20:47+00:00 | 2021-03-31T11:59:30+00:00 |
-| 16 | [re:publica 20 session proposal](../notes/3_jW0KIJSSWa1PaKgdGSpg.md) | 2023-09-14T07:20:41+00:00 | 2019-10-22T13:58:35+00:00 |
-| 17 | [Northeastern University x g0vers: Join the event on July 7!](../notes/npo4WZX2R9ao-V-O6ikHhg.md) | 2023-06-21T00:30:34+00:00 | 2023-05-29T06:54:35+00:00 |
-| 18 | [Recommended readings](../notes/1ZVsXSOuSyWG_403nXe8ew.md) | 2023-06-14T04:35:41+00:00 | 2023-06-14T04:35:17+00:00 |
-| 19 | [FtO Jeju 2023](../notes/8xxkO_0ZQqm-ZeA7909V5g.md) | 2023-06-11T02:36:32+00:00 | 2023-04-27T02:37:34+00:00 |
-| 20 | [FtO Jeju 2023 交通補助申請辦法](../notes/MqZLm3TbRJSHxibWj0KgSg.md) | 2023-06-11T00:18:10+00:00 | 2023-02-25T07:22:08+00:00 |
-| 21 | [FtO Jeju 2023 Organizer Meetings](../notes/LYlwU_gTSDSIv9svfsoxwA.md) | 2023-06-08T23:19:54+00:00 | 2019-12-22T02:10:59+00:00 |
-| 22 | [FtO Jeju 2023 confirmation email draft (send by 5/17)](../notes/nOGYAaooQdWOjdpy-H8hcw.md) | 2023-05-24T03:00:34+00:00 | 2023-05-10T03:50:21+00:00 |
-| 23 | [FtO Jeju SNS posts](../notes/3k4Xb0iHQNa7tkJxeYJSKg.md) | 2023-05-17T23:16:09+00:00 | 2023-05-17T23:15:50+00:00 |
-| 24 | [FtO Jeju 2023 Confirmation Letter 確認信](../notes/apSvzCclRVOsk1tYNYZUlg.md) | 2023-04-27T02:04:06+00:00 | 2023-04-26T13:40:22+00:00 |
-| 25 | [Untitled](../notes/7e9lqIkURHuK-Zkb-EZI0g.md) | 2022-10-01T11:05:33+00:00 | 2022-10-01T10:31:54+00:00 |
-| 26 | [g0v international monthly meetings](../notes/c9aHOmzvTTiS2IiG4h18Kg.md) | 2022-10-01T10:54:11+00:00 | 2022-04-06T05:20:34+00:00 |
-| 27 | [2022 11th World Movement for Democracy (WMD) Global Assembly in Taipei](../notes/fokzrLrrSYGpzzXNRIb1YQ.md) | 2022-10-01T10:47:35+00:00 | 2022-06-15T00:07:27+00:00 |
-| 28 | [開放當責的「數位治理」](../notes/xicOVvKPTAiA1XyPm9eq0Q.md) | 2022-02-14T01:37:18+00:00 | 2022-01-25T02:02:37+00:00 |
-| 29 | [FtO Happy New Year 2022!](../notes/pEYuv6D3QMO1qqJHiuCA_A.md) | 2022-01-25T02:02:56+00:00 | 2022-01-12T03:25:01+00:00 |
-| 30 | [FtO Anywhere 2020-1: Civic Hacking for Public Health](../notes/EskHKmTwQ_yIlfp1PsRdwQ.md) | 2021-09-13T23:24:17+00:00 | 2020-03-17T14:49:41+00:00 |
-| 31 | [The Nerds Are Facing the Ocean](../notes/Div8ftAqQm6FfDnec4Iw3w.md) | 2021-08-29T10:54:14+00:00 | 2021-08-29T10:43:43+00:00 |
-| 32 | [OSINT](../notes/R-PQ49N6QFKgnn9q9oZHVw.md) | 2021-08-26T01:14:16+00:00 | 2021-07-19T00:08:31+00:00 |
-| 33 | [國際交流 guidelines](../notes/_ryNAF4mRQOCSWzzwwYhRw.md) | 2021-03-31T02:02:40+00:00 | 2021-03-31T01:56:52+00:00 |
-| 34 | [NDI is looking to set up a physical meetup regarding its INFOtegrity workshops and potentially expand partnerships with the civic tech(hacking) community(ies) in Taiwan](../notes/ytc7kzKpSC--f_XAFn6CcA.md) | 2021-03-29T12:51:31+00:00 | 2021-03-13T03:25:02+00:00 |
-| 35 | [FNF is looking for g0vers for their online seminar: “Safeguarding Freedom in the Digital Sphere” to discuss with international activists how citizens and communities can positively engage online with the government](../notes/-g3tT3XETRqIQ2toyhxOcQ.md) | 2021-03-24T01:41:39+00:00 | 2021-03-11T09:47:20+00:00 |
-| 36 | [NDI: Looking for a consultant to setup INFO/tegrity workshops](../notes/g07Qtj8xRyKjwI4z35TpXA.md) | 2021-02-24T04:18:43+00:00 | 2021-02-23T06:03:21+00:00 |
-| 37 | [2021 Projects](../notes/JJtQZOtoRCCy4KqBvJvT1A.md) | 2020-12-28T18:17:44+00:00 | 2020-12-22T07:30:29+00:00 |
-| 38 | [Code for All Equity & Inclusion Project 後記與討論](../notes/Uj1riABTRrmq2gn5lTNPRg.md) | 2020-12-20T07:41:02+00:00 | 2020-12-19T04:57:29+00:00 |
-| 39 | [Facing the Ocean (FtO) Tainan 2020](../notes/gfJcMC9sSIuacvFUWK9seg.md) | 2020-12-14T20:05:33+00:00 | 2020-12-03T01:03:29+00:00 |
-| 40 | [FtO (2019 & 2020) - what have we done together and learned from each other?](../notes/Cir7yKp1SPmyZzm8JyxBiQ.md) | 2020-12-04T06:54:55+00:00 | 2020-07-31T09:01:24+00:00 |
-| 41 | [FtO Tainan 面海松･台南 2020 × 午營咖啡 a break cafe × g0v Summit 2020](../notes/7G5LQbjJQT2PTmHLZhuR8Q.md) | 2020-12-02T01:56:16+00:00 | 2020-03-09T14:57:07+00:00 |
-| 42 | [每月社群大小事 What’s happening in g0v](../notes/JoNZjrU9TjO6oR5OcJ0Dng.md) | 2020-11-17T05:46:40+00:00 | 2019-07-05T00:02:01+00:00 |
-| 43 | [FtO web drinking](../notes/1tQBCK7GRB2PgH6YH5Kidw.md) | 2020-11-10T09:45:12+00:00 | 2020-11-06T11:07:32+00:00 |
-| 44 | [g0vers × “The Life-Sized City,” a documentary film](../notes/o6FWLdzNSy6-Eo0IJJo0aw.md) | 2020-09-24T21:41:17+00:00 | 2019-09-26T13:05:46+00:00 |
+| 1 | [g0vers × “The Life-Sized City,” a documentary film](../notes/o6FWLdzNSy6-Eo0IJJo0aw.md) | 2025-06-11T03:06:01+00:00 | 2019-09-26T13:05:46+00:00 |
+| 2 | [On Archive...](../notes/6gw5b3qfTi6V1Kq98PEvzg.md) | 2024-12-29T14:41:32+00:00 | 2024-12-26T06:12:36+00:00 |
+| 3 | [g0v international 2025](../notes/UZQWq1VxSGud57A-jh59JQ.md) | 2024-12-26T07:41:52+00:00 | 2024-12-26T07:14:10+00:00 |
+| 4 | [公民科技及數位韌性行動計畫](../notes/ydJMEy7UTSSALoPmEDHx9A.md) | 2024-09-24T03:36:23+00:00 | 2024-09-22T09:15:57+00:00 |
+| 5 | [Emergency Response (Typhoon & Earthquake) - FtO Yokohama 2024](../notes/-D9nwbtiQxSsznSxR5lXjA.md) | 2024-08-15T13:23:15+00:00 | 2024-08-13T01:38:37+00:00 |
+| 6 | [FtO Yokohama 2024](../notes/VCTm63nQQl6Rh3r_yKjmbw.md) | 2024-08-14T11:48:16+00:00 | 2024-03-20T03:12:07+00:00 |
+| 7 | [面海松 2024 橫濱 - 行前信草稿](../notes/0MdhUWv4Tmi0yuChvWkMAA.md) | 2024-08-14T00:57:35+00:00 | 2024-08-14T00:24:17+00:00 |
+| 8 | [20240802 FtO organizers meeting notes](../notes/apxOePQERnOOLOip0MWKcA.md) | 2024-08-08T02:57:53+00:00 | 2024-08-02T05:21:22+00:00 |
+| 9 | [20240711 FtO organizers meeting notes](../notes/cBlGALc0Thit6GKWGC2XeA.md) | 2024-07-26T09:21:38+00:00 | 2024-07-08T07:07:01+00:00 |
+| 10 | [20240620 FtO organizers meeting notes](../notes/-m5VjKW0Sm6_SDAgWjwf2Q.md) | 2024-06-20T08:06:50+00:00 | 2024-06-20T07:51:05+00:00 |
+| 11 | [20240523 FtO organizers meeting notes](../notes/r1UffrFgTwWhsTUFybi6ig.md) | 2024-05-27T06:33:56+00:00 | 2024-05-14T04:25:30+00:00 |
+| 12 | [(Canceled) Meetup with g0vers hosted by 浩志會: Growing public mind in the age of individuals.](../notes/amGF_30tRee8tcVVzurTAw.md) | 2024-05-20T03:12:24+00:00 | 2024-04-30T06:54:38+00:00 |
+| 13 | [20240505 FtO organizers meeting notes](../notes/sNsttr8kTC2PLl9Ahr09vQ.md) | 2024-05-14T04:29:11+00:00 | 2024-05-05T09:45:31+00:00 |
+| 14 | [2nd Code for Korea Conference - Happy Happy, Hack Gathering!](../notes/UKjeROzlTyWAf4tTehgU0Q.md) | 2024-03-08T19:20:36+00:00 | 2023-10-24T00:38:27+00:00 |
+| 15 | [g0ver @ 科技 × 民主治理 閉門國際工作坊](../notes/VuPySokuT5qNxZYjFJ8PCA.md) | 2023-09-15T05:15:41+00:00 | 2023-09-11T23:32:47+00:00 |
+| 16 | [g0v talk in TRANSFORMATION conference 2021](../notes/L36QWVuLSbaueT_xBCxMbw.md) | 2023-09-14T07:20:47+00:00 | 2021-03-31T11:59:30+00:00 |
+| 17 | [re:publica 20 session proposal](../notes/3_jW0KIJSSWa1PaKgdGSpg.md) | 2023-09-14T07:20:41+00:00 | 2019-10-22T13:58:35+00:00 |
+| 18 | [Northeastern University x g0vers: Join the event on July 7!](../notes/npo4WZX2R9ao-V-O6ikHhg.md) | 2023-06-21T00:30:34+00:00 | 2023-05-29T06:54:35+00:00 |
+| 19 | [Recommended readings](../notes/1ZVsXSOuSyWG_403nXe8ew.md) | 2023-06-14T04:35:41+00:00 | 2023-06-14T04:35:17+00:00 |
+| 20 | [FtO Jeju 2023](../notes/8xxkO_0ZQqm-ZeA7909V5g.md) | 2023-06-11T02:36:32+00:00 | 2023-04-27T02:37:34+00:00 |
+| 21 | [FtO Jeju 2023 交通補助申請辦法](../notes/MqZLm3TbRJSHxibWj0KgSg.md) | 2023-06-11T00:18:10+00:00 | 2023-02-25T07:22:08+00:00 |
+| 22 | [FtO Jeju 2023 Organizer Meetings](../notes/LYlwU_gTSDSIv9svfsoxwA.md) | 2023-06-08T23:19:54+00:00 | 2019-12-22T02:10:59+00:00 |
+| 23 | [FtO Jeju 2023 confirmation email draft (send by 5/17)](../notes/nOGYAaooQdWOjdpy-H8hcw.md) | 2023-05-24T03:00:34+00:00 | 2023-05-10T03:50:21+00:00 |
+| 24 | [FtO Jeju SNS posts](../notes/3k4Xb0iHQNa7tkJxeYJSKg.md) | 2023-05-17T23:16:09+00:00 | 2023-05-17T23:15:50+00:00 |
+| 25 | [FtO Jeju 2023 Confirmation Letter 確認信](../notes/apSvzCclRVOsk1tYNYZUlg.md) | 2023-04-27T02:04:06+00:00 | 2023-04-26T13:40:22+00:00 |
+| 26 | [Untitled](../notes/7e9lqIkURHuK-Zkb-EZI0g.md) | 2022-10-01T11:05:33+00:00 | 2022-10-01T10:31:54+00:00 |
+| 27 | [g0v international monthly meetings](../notes/c9aHOmzvTTiS2IiG4h18Kg.md) | 2022-10-01T10:54:11+00:00 | 2022-04-06T05:20:34+00:00 |
+| 28 | [2022 11th World Movement for Democracy (WMD) Global Assembly in Taipei](../notes/fokzrLrrSYGpzzXNRIb1YQ.md) | 2022-10-01T10:47:35+00:00 | 2022-06-15T00:07:27+00:00 |
+| 29 | [開放當責的「數位治理」](../notes/xicOVvKPTAiA1XyPm9eq0Q.md) | 2022-02-14T01:37:18+00:00 | 2022-01-25T02:02:37+00:00 |
+| 30 | [FtO Happy New Year 2022!](../notes/pEYuv6D3QMO1qqJHiuCA_A.md) | 2022-01-25T02:02:56+00:00 | 2022-01-12T03:25:01+00:00 |
+| 31 | [FtO Anywhere 2020-1: Civic Hacking for Public Health](../notes/EskHKmTwQ_yIlfp1PsRdwQ.md) | 2021-09-13T23:24:17+00:00 | 2020-03-17T14:49:41+00:00 |
+| 32 | [The Nerds Are Facing the Ocean](../notes/Div8ftAqQm6FfDnec4Iw3w.md) | 2021-08-29T10:54:14+00:00 | 2021-08-29T10:43:43+00:00 |
+| 33 | [OSINT](../notes/R-PQ49N6QFKgnn9q9oZHVw.md) | 2021-08-26T01:14:16+00:00 | 2021-07-19T00:08:31+00:00 |
+| 34 | [國際交流 guidelines](../notes/_ryNAF4mRQOCSWzzwwYhRw.md) | 2021-03-31T02:02:40+00:00 | 2021-03-31T01:56:52+00:00 |
+| 35 | [NDI is looking to set up a physical meetup regarding its INFOtegrity workshops and potentially expand partnerships with the civic tech(hacking) community(ies) in Taiwan](../notes/ytc7kzKpSC--f_XAFn6CcA.md) | 2021-03-29T12:51:31+00:00 | 2021-03-13T03:25:02+00:00 |
+| 36 | [FNF is looking for g0vers for their online seminar: “Safeguarding Freedom in the Digital Sphere” to discuss with international activists how citizens and communities can positively engage online with the government](../notes/-g3tT3XETRqIQ2toyhxOcQ.md) | 2021-03-24T01:41:39+00:00 | 2021-03-11T09:47:20+00:00 |
+| 37 | [NDI: Looking for a consultant to setup INFO/tegrity workshops](../notes/g07Qtj8xRyKjwI4z35TpXA.md) | 2021-02-24T04:18:43+00:00 | 2021-02-23T06:03:21+00:00 |
+| 38 | [2021 Projects](../notes/JJtQZOtoRCCy4KqBvJvT1A.md) | 2020-12-28T18:17:44+00:00 | 2020-12-22T07:30:29+00:00 |
+| 39 | [Code for All Equity & Inclusion Project 後記與討論](../notes/Uj1riABTRrmq2gn5lTNPRg.md) | 2020-12-20T07:41:02+00:00 | 2020-12-19T04:57:29+00:00 |
+| 40 | [Facing the Ocean (FtO) Tainan 2020](../notes/gfJcMC9sSIuacvFUWK9seg.md) | 2020-12-14T20:05:33+00:00 | 2020-12-03T01:03:29+00:00 |
+| 41 | [FtO (2019 & 2020) - what have we done together and learned from each other?](../notes/Cir7yKp1SPmyZzm8JyxBiQ.md) | 2020-12-04T06:54:55+00:00 | 2020-07-31T09:01:24+00:00 |
+| 42 | [FtO Tainan 面海松･台南 2020 × 午營咖啡 a break cafe × g0v Summit 2020](../notes/7G5LQbjJQT2PTmHLZhuR8Q.md) | 2020-12-02T01:56:16+00:00 | 2020-03-09T14:57:07+00:00 |
+| 43 | [每月社群大小事 What’s happening in g0v](../notes/JoNZjrU9TjO6oR5OcJ0Dng.md) | 2020-11-17T05:46:40+00:00 | 2019-07-05T00:02:01+00:00 |
+| 44 | [FtO web drinking](../notes/1tQBCK7GRB2PgH6YH5Kidw.md) | 2020-11-10T09:45:12+00:00 | 2020-11-06T11:07:32+00:00 |
 | 45 | [g0v.py / g0vernance.txt](../notes/sH9ltkJ7SySZvhMguvODzA.md) | 2020-09-01T13:58:05+00:00 | 2020-08-14T12:17:56+00:00 |
 | 46 | [g0v international 2021](../notes/mLgZGs-oTV6WRhvvaH3wRw.md) | 2020-08-31T02:29:01+00:00 | 2020-06-18T08:34:38+00:00 |
 | 47 | [g0vers @ Rethinking Politics through Social Innovation](../notes/PT_OZpKRTIyU3J8jZqWWPA.md) | 2020-08-27T05:43:02+00:00 | 2020-08-12T09:40:39+00:00 |
