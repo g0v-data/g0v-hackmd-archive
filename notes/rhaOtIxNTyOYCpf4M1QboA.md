@@ -83,6 +83,14 @@ Bestain:任何時間都可以。因為要等他們中文化部署不知道要等
 Peter:我發現宇亭有上來。總結今天會議討論中：下次討論Github 網站製作時間六點半會議先開始；共筆更新讓新參加友善，到時也請新參者阿南Anan幫忙看看，也會和豆腐要視覺.....已經取得錄音檔和逐字稿會邀請大家一起來協作....我發現最近我自己要調整一下，因為工作忙，要找時間投入專案。今天告一段落，如有疑問，請在 slack丟上來。（請 Peter再自行整理補充）
 
 
+#### (會後update網站最新情況)
+
+已用純Vue框架複刻整個專案，並重新部署，以解決框架層級的bug
+https://github.com/g0v/vue.vTaiwan-neo
+
+> [name = bestian]
+
+
 ## 自我介紹與新手導覽
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 ### 自我介紹
