@@ -351,14 +351,8 @@ https://www.facebook.com/story.php?story_fbid=pfbid05n7TrcSQUczHzHxVVfTDwwPs1Sm9
 台中
 https://www.facebook.com/share/p/hVuK6G8XkjKd46Uh/
 
-台中沙鹿
-https://www.facebook.com/story.php?story_fbid=pfbid02oee6BHQGDYMTx6eCSt8UFg2ZER1fB42g6uskBzdKiKwJekTh2oZR2N5FxshXJeYFl&id=100091972310150&mibextid=qC1gEa
-
 台中西屯龍井
 https://www.facebook.com/100083131440923/posts/pfbid026vZgX1NoSSJqPwhaTEj69r5dhHDd5JajTa2NzEJAvWkkZsE1kWLMrnmsKTUA6Fzyl/?mibextid=cr9u03
-
-台中豐原車站
-https://www.facebook.com/100010540774873/posts/pfbid02pWaVhtp7a78DE54cUiXEk6tRHMBM12XJNDwBH2qnaKpJrCXuPSfSM6r5aZgaibEal/
 
 臺中市清水區中山路
 https://www.facebook.com/share/p/PzwiRdy5t61WRBH5/
