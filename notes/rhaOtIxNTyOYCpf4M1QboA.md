@@ -88,7 +88,7 @@ Peter:我發現宇亭有上來。總結今天會議討論中：下次討論Githu
 已用純Vue框架複刻整個專案，並重新部署，以解決框架層級的bug
 https://github.com/g0v/vue.vTaiwan-neo
 
-> [name = bestian]
+> [name=bestian]
 
 
 ## 自我介紹與新手導覽
