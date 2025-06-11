@@ -4,8 +4,9 @@ tags: vTaiwan小松
 # 20250611 vTaiwan 小黑客松
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants: Peter, Bestian, Joey, Tim, Yuting, Anan
+參與者 Participants: Peter, Bestian, Joey, Tim, Yuting, 阿南Anan
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
+![](https://g0v.hackmd.io/_uploads/ryIoggwmgx.png)
 
 今日會議討論：
 7:01分花蓮地震 
@@ -79,14 +80,7 @@ Tim:Bestian覺得何時內部測試較好？
 
 Bestain:任何時間都可以。因為要等他們中文化部署不知道要等到何時。但是核心功能都已經完成了。所以才會有 close beta讓大家測。
 
-Peter:我發現宇亭有上來。總結今天會議討論中：下次討論Github 網站製作時間六點半會議先開始；共筆更新讓新參加友善，也請阿南幫忙看ㄎ....
-
-
-
-
-
-
-
+Peter:我發現宇亭有上來。總結今天會議討論中：下次討論Github 網站製作時間六點半會議先開始；共筆更新讓新參加友善，到時也請新參者阿南Anan幫忙看看，也會和豆腐要視覺.....已經取得錄音檔和逐字稿會邀請大家一起來協作....我發現最近我自己要調整一下，因為工作忙，要找時間投入專案。今天告一段落，如有疑問，請在 slack丟上來。（請 Peter再自行整理補充）
 
 
 ## 自我介紹與新手導覽
