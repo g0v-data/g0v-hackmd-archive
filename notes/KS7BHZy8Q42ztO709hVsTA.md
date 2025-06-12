@@ -212,3 +212,7 @@ ichieh> 金峰滷肉飯就是想吃滷肉飯很適合，而且滿快的
 - https://maps.app.goo.gl/HNB4mqWSwLjhZXbm9
 
 
+## 生活用品
+
+藥局
+
