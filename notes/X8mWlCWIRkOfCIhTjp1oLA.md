@@ -412,13 +412,8 @@ https://www.facebook.com/story.php?story_fbid=10160372095968462&id=536028461
 街景
 https://maps.app.goo.gl/qyoG22DfARQtqJur9
 
-臺南圓環 湯德章
-https://www.facebook.com/share/WmQcSEXdK1PpbKuH/
-https://www.facebook.com/story.php?story_fbid=pfbid02VzU6EfVoy2wUnQAKVFazizuWEncBqwvmV9pcAWaPTtBhrD3mETN7WMsSWhpPAH6Gl&id=100064848694500&mibextid=qC1gEa
 
-臺南 成功路忠義路口
-https://www.facebook.com/story.php?story_fbid=pfbid0j8Q1eCmQ2SR2WwaneBr6dBJVxgqNM5w5PXxghXZmRxiqS6T4YRq7HAqEpQVAEG1sl&id=100049204915573&mibextid=qC1gEa
-
+臺南
 成功路忠義路口至中成路口
 https://www.facebook.com/story.php?story_fbid=pfbid02hVwr1qy7J6mWwn6Mmd62h9bFmh2ex3iVQ3EMoRqdEiZNpLqnkwYR4LtfkDoWNSJsl&id=100049204915573&mibextid=qC1gEa
 
