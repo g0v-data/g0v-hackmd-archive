@@ -107,6 +107,7 @@ Bestian: 非營利組織自主學習促進會資訊長，Frankly翻譯，新的v
         - 承哲：crayon3shawn | crayon3shawn@gmail.com - 已邀入vTaiwan Project [name=bestian]
         - yuting: ytchen7749 / yutingchen7749@gmail.com - 已邀入vTaiwan Project [name=bestian]
         - anan: shianan815 / shianan815@gmail.com - 已邀入vTaiwan Project  [name=bestian]
+        - Joey: fish0117 / 已發g0v member邀請，待確認同意後，再邀入team, project和repo
         
 ## 審議小聚程序想法
 - 樹狀圖分組
