@@ -1,30 +1,48 @@
-Trang web https://www.falconsgrup.com/ hiện đã die web, ngừng hoạt động sau thời gian phát bóng đá lậu không bản quyền gây ảnh hưởng xấu đến ngành thể thao. Việc trang web không còn hoạt động giúp giảm thiểu tình trạng vi phạm bản quyền và bảo vệ người xem khỏi những rủi ro tiềm ẩn từ các nguồn không uy tín.
+Trang web https://www.falconsgrup.com/ bị phát hiện thao túng kết quả tìm kiếm để lừa đảo người dùng, đồng thời phát sóng bóng đá lậu không có bản quyền. Hành động này ảnh hưởng nghiêm trọng đến quyền lợi người xem và vi phạm pháp luật. Người dùng cần cảnh giác, tránh truy cập và ủng hộ các nguồn phát sóng hợp pháp, uy tín để bảo vệ bản thân.
 Website: https://www.falconsgrup.com/
 Địa chỉ: 67/7 KP6, Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam, 700000
 SĐT: 0982654879
 Email: costumeideazone@gmail.com
-Hastags: #FalconsgrupDieweb #PhátBóngĐáLậu #GianLậnTrựcTuyến #ViPhạmBảnQuyền
+Hastags: #FalconsgrupThaoTúng #PhátBóngĐáLậu #GianLậnTrựcTuyến #ViPhạmBảnQuyền
 https://www.falconsgrup.com/
-https://x.com/falconsgrup8
-https://www.pinterest.com/falconsgrup8/
-https://www.twitch.tv/falconsgrup8/about
-https://www.tumblr.com/falconsgrup8
-https://www.youtube.com/@falconsgrup8
-https://decidim.rezero.cat/profiles/falconsgrup8/activity
-https://participa.favb.cat/profiles/falconsgrup8/activity
-https://uiverse.io/profile/falconsgru_9837
-https://aiplanet.com/profile/falconsgrup8
-https://pumpyoursound.com/u/user/1502168
-https://poipiku.com/11833164/
-https://ask-people.net/3674/falconsgrupcom-die-web
-https://sarah30.com/users/falconsgrup8
-https://pixelfed.uno/falconsgrup8
-https://app.readthedocs.org/profiles/falconsgrup8/
-https://www.proko.com/@falconsgrup8/activity
-http://bbs.sdhuifa.com/home.php?mod=space&uid=866632
-https://londonchinese.com/home.php?mod=space&uid=589115&do=profile
-http://palangshim.com/space-uid-4101502.html
-https://www.mikocon.com/home.php?mod=space&uid=249077
-https://bbs.mofang.com.tw/home.php?mod=space&uid=2039542
-http://simp.ly/p/7r9jWQ
+https://x.com/falconsgrup9
+https://www.pinterest.com/falconsgrup9/
+https://www.twitch.tv/falconsgrup9/about
+https://www.tumblr.com/falconsgrup9
+https://www.youtube.com/@falconsgrup9
+https://ko-fi.com/falconsgrup9
+https://www.myminifactory.com/users/falconsgrup9
+https://monopinion.namur.be/profiles/falconsgrup9/activity
+https://www.weddingbee.com/members/falconsgrup9/
+https://eo-college.org/members/falconsgrup9/
+https://www.akaqa.com/question/q19192554753-Falconsgrupcom-thao-tng-kt-qu-tm-kim
+https://www.udrpsearch.com/user/falconsgrup9
+https://coderwall.com/falconsgrupcom thao túng kết quả tìm kiếm
+https://cofacts.tw/user/falconsgrup9
+https://www.pearltrees.com/falconsgrup9/item720385068
+https://syosetu.org/?mode=url_jump&url=https://www.falconsgrup.com/
+https://www.pdc.edu/?URL=https://www.falconsgrup.com/
+http://www.webclap.com/php/jump.php?url=https://www.falconsgrup.com/
+https://entre-vos-mains.alsace.eu/profiles/falconsgrup9/activity
+https://www.depechemode.cz/?URL=https://www.falconsgrup.com/
+https://participation.bordeaux.fr/profiles/falconsgrup9/activity
+https://www.techinasia.com/profile/falconsgrupcom-thao-tung-ket-qua-tim-kiem
+https://atelierdevosidees.loiret.fr/profiles/falconsgrup9/activity
+https://onlyfans.com/falconsgrup9
+https://participer.loire-atlantique.fr/profiles/falconsgrup9/activity
+https://www.syncdocs.com/forums/profile/falconsgrup9
+https://www.remoteworker.co.uk/profiles/6757484-falconsgrupcom-thao-tung-k-t-qu-tim-ki-m
+https://www.servinord.com/phpBB2/profile.php?mode=viewprofile&u=711090
+https://fairebruxellessamen.be/profiles/falconsgrup9/activity
+https://bulios.com/@falconsgrup9
+https://www.directorylib.com/domain/falconsgrup.com
+https://zimexapp.co.zw/falconsgrup9
+https://offroadjunk.com/questions/index.php?qa=user&qa_1=falconsgrup9
+https://participa.sostrecivic.coop/profiles/falconsgrup9/activity
+https://www.kekogram.com/falconsgrup9
+https://expatguidekorea.com/profile/falconsgrup9
+https://beteiligung.amt-huettener-berge.de/profile/falconsgrup9/
+https://savelist.co/profile/users/falconsgrup9
+https://waappitalk.com/falconsgrup9
+https://www.noifias.it/falconsgrup9
 
