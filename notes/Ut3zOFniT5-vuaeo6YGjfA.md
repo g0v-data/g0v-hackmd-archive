@@ -55,22 +55,22 @@ GA: UA-98468513-3
 	> 那麼明天見囉😊
 	>
 	> 比鄰敬上
-    - [ ] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
-	- [ ] 準備 Slido `#cofacts`
-		- [ ] 放投影片網址
+    - [x] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
+	- [x] 準備 Slido `#cofacts`
+		- [x] 放投影片網址
 - 當日準備 / 攜帶
     - [ ] 樓下用的標語 - bil
-    - [ ] 貼紙 - orz, bil
-    - [ ] 黏土 - orz
+    - [x] 貼紙 - orz, bil
+    - [x] 黏土 - orz
     - [ ] 手板 - bil
     - [ ] 講義 - bil
     - [ ] 一次性杯子 - bil
     - [ ] 延長線 - bil / mrorz
         - 比鄰有三條
-    - [ ] Wifi 機 - mrorz
-        - [ ] rt-ax57 go
-        - [ ] 電源線
-    - [ ] 多帶一條 type-c 公公線 for dongle 的電
+    - [x] Wifi 機 - mrorz
+        - [x] rt-ax57 go
+        - [x] 電源線
+    - [x] 多帶一條 type-c 公公線 for dongle 的電
     - [ ] 備用 wifi 機 [name=nonumpa]
 - 13:00 - 場佈 [排法](https://g0v.hackmd.io/0rzXk22PQZ2g5aswKIAXdw?view)
   - 桌子一邊 4 張椅子

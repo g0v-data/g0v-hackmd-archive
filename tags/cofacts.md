@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20250609 會議記錄](../notes/Ut3zOFniT5-vuaeo6YGjfA.md) | 2025-06-14T08:46:00+00:00 | 2025-06-04T12:48:49+00:00 |
+| 1 | [20250609 會議記錄](../notes/Ut3zOFniT5-vuaeo6YGjfA.md) | 2025-06-15T03:56:59+00:00 | 2025-06-04T12:48:49+00:00 |
 | 2 | [20250616 會議記錄](../notes/9IEjq11XSwCyES_VFn8JEg.md) | 2025-06-09T12:19:05+00:00 | 2025-06-09T12:19:05+00:00 |
 | 3 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2025-06-09T05:53:59+00:00 | 2022-08-05T02:46:53+00:00 |
 | 4 | [20250604 會議記錄](../notes/iAPTgdu4RaGoFdaFPSCpEQ.md) | 2025-06-04T12:42:25+00:00 | 2025-05-26T12:32:07+00:00 |
