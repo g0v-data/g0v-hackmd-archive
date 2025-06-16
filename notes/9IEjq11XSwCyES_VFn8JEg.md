@@ -16,6 +16,23 @@ GA: UA-98468513-3
 
 *   **Open165 重構**: Open165 重構相關 PR 已開啟，待測試。TODOs: 將 DB schema 移動到 worker 管理、在 worker 中建立子 workflow、建立資料交換格式、Website display。
 *   **資訊安全**: cofacts 用的服務改用 cofacts.tw email。Johnson 將協助取得管理者權限、邀請大家使用 cofacts.tw email，並移除其他非 cofacts.tw email 的權限。
-*   **小聚籌備 (06/15)**: 確認行前通知、開場材料、Slido。準備當日攜帶物品與場佈。
 
-## 會議記錄
+## Open165
+
+- 先手動停掉了 site 的 Github workflow 避免 race condition https://github.com/Open165/site/actions
+- Cloudflare 有一直執行，但剛好上週都沒更新。6/16 20:00 執行結果：
+- 因為跑 test 那些其實都會需要 DB schema，會先發 PR 之後下一個 PR 處理 DB schema
+
+## CCPRIP
+
+### [Op] Takedowns
+
+- 1 個 true positive, 3 個 false positive
+
+## 小聚檢討
+
+> 小松果：https://g0v.hackmd.io/y4-U7ZZ1SGOtYL1gXgoBWg?view
+
+
+
+
