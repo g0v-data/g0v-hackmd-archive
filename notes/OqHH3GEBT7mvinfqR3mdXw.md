@@ -4,7 +4,19 @@ tag： wifi、bluetooth
 
 people(member)、device(IDFV)、資料型態
 
-## 註冊流程
+::: info
+iOS平台有許多關於權限問題要處理，以防開發者們不會用，故寫這份以提供後面的人
+:::
+
+:::warning
+你若是開發iOS APP必須有開發者帳號，這實驗室有提供，可以去實驗室wiki找
+:::
+
+## 安裝
+
+## 註冊
+
+iOS 開發的時候會需要辨認你的APP
 
 ## 設計流程
 
