@@ -68,4 +68,5 @@ GA: UA-98468513-3
   - 10/26 用[行天宮小樹屋](https://thehapp.com/space/267) 1F capacity=24人且偏擠 [name=bil]
   - 看看 11/1 青職基地 [name=mrorz]
 - 1228 期末感恩茶會
+  - 要再查一下
 

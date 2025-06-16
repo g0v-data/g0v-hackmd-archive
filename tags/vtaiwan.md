@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [vTaiwan 網站更新後的治理機制](../notes/HxWF11d4Tz-AfHb3yjwQKg.md) | 2025-06-16T09:15:52+00:00 | 2025-06-16T06:18:25+00:00 |
-| 2 | [FNF AI 用於數位公民參與共筆](../notes/nJUYukWFSWuEsG-XQalHcA.md) | 2025-06-03T17:16:37+00:00 | 2025-06-03T17:12:28+00:00 |
+| 1 | [FNF AI 用於數位公民參與共筆](../notes/nJUYukWFSWuEsG-XQalHcA.md) | 2025-06-16T13:15:49+00:00 | 2025-06-03T17:12:28+00:00 |
+| 2 | [vTaiwan 網站更新後的治理機制](../notes/HxWF11d4Tz-AfHb3yjwQKg.md) | 2025-06-16T09:15:52+00:00 | 2025-06-16T06:18:25+00:00 |
 | 3 | [vTaiwan 的 Ghost 要怎麼管理](../notes/FEbWXWWVTgOrSqG0n4wDeg.md) | 2025-05-18T03:32:53+00:00 | 2025-04-30T11:55:44+00:00 |
 | 4 | [vTaiwan x Prof.Francios Taddei](../notes/gcFMYistRviGGoERCctU-Q.md) | 2025-05-07T03:29:50+00:00 | 2025-05-07T03:28:21+00:00 |
 | 5 | [vTaiwan標準化流程](../notes/1mTkWp_MS0KBXkmCNYKjxA.md) | 2025-04-30T12:21:28+00:00 | 2025-04-30T12:18:26+00:00 |
