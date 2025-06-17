@@ -30,8 +30,6 @@ tags: LLM, chatgpt
     - 參考方式 https://www.facebook.com/story.php?story_fbid=pfbid029fkwqMkPdqA25ZLooSqpk1Gbs5c5gfMhyv2jrqb3XQxwp1uiZZeGohqh5q7goXyFl&id=100066394669485&mibextid=qC1gEa
 
 
-https://www.facebook.com/share/p/18raTbQevx/
-
 其他參考素材
 - ChatGPT 官方文件
     - https://openai.com/api/pricing/
@@ -40,6 +38,7 @@ https://www.facebook.com/share/p/18raTbQevx/
         - …The first plugins have been created by Expedia, FiscalNote, Instacart, KAYAK, Klarna, Milo, OpenTable, Shopify, Slack, Speak, Wolfram, and Zapier.
 - Socrates => S0crates, s0crates
 - 相簿，蒐集相關回答截圖 https://photos.app.goo.gl/TBQqZbAWEGmi9mKm6
+- 〈解鎖 AI 黑盒子：用「合成民族誌」深入理解人工智慧〉https://www.facebook.com/share/p/18raTbQevx/
 
 ### 具體應用
 
@@ -55,10 +54,12 @@ https://www.facebook.com/share/p/18raTbQevx/
 - Rep0rter - g0v 零時記者 - 每日 g0v 大小事資訊推播 https://g0v.hackmd.io/@Hawks/B13PRL8da
 - 摘：用 chatGPT API 做的程式協助和教學工具的概念驗證的prototype，讓人工智慧自己寫基礎概念教學的書的一個概念驗證 https://www.facebook.com/groups/Taiwan.NLP/permalink/5564287160333096/
 
-### 親臨現場並自主移動
+### [歡迎跳坑測試] LLM 親臨現場並自主移動　🔥🔥🔥
 
-評估能否透過 Double 3 這款設備，由 LLM 控制？ 
-https://g0v.hackmd.io/@jothon/robot
+坑：如何讓 LLM 自行控制 Double 3 遠端親臨機器人，人類與機器一起散步
+- 工作文件：https://g0v.hackmd.io/@jothon/robot
+- 6/27 之前，可以來測試設備，目前有一台設備在 g0v 台北社群空間
+- 7/13 g0v 每週散步黑客松，當天暫定 宜蘭頭城遠距控一台、美國灣區遠距控一台、LLM 控一台
 
 ## 使用 LLM 聊聊 g0v
 

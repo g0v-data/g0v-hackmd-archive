@@ -2,6 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [LLM](tags/LLM.md) | 2 | 2025-06-17T09:27:20+00:00 |
+| [ chatgpt](tags/%20chatgpt.md) | 1 | 2025-06-17T09:27:20+00:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 35456 | 2025-06-17T07:39:50+00:00 |
 | [vtaiwan](tags/vtaiwan.md) | 60 | 2025-06-16T13:15:49+00:00 |
 | [cofacts](tags/cofacts.md) | 496 | 2025-06-16T13:07:37+00:00 |
@@ -18,8 +20,6 @@
 | [food](tags/food.md) | 2 | 2025-06-12T09:05:46+00:00 |
 | [g0v-intl](tags/g0v-intl.md) | 124 | 2025-06-11T03:06:01+00:00 |
 | [ documentary](tags/%20documentary.md) | 1 | 2025-06-11T03:06:01+00:00 |
-| [LLM](tags/LLM.md) | 2 | 2025-06-09T11:50:29+00:00 |
-| [ chatgpt](tags/%20chatgpt.md) | 1 | 2025-06-09T11:50:29+00:00 |
 | [ security](tags/%20security.md) | 1 | 2025-06-09T05:53:59+00:00 |
 | [ resilience](tags/%20resilience.md) | 7 | 2025-06-09T05:53:59+00:00 |
 | [ 資安](tags/%20%E8%B3%87%E5%AE%89.md) | 1 | 2025-06-09T05:53:59+00:00 |
