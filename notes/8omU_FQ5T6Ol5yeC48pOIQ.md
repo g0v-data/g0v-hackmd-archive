@@ -148,3 +148,9 @@ https://codeload.github.com/Raphire/Win11Debloat/zip/refs/heads/master
 https://allinfa.com/zh-tw/hide-close-win10-meet-now.html
 
 https://www.autohotkey.com/
+![](https://g0v.hackmd.io/_uploads/ry-8PPI0Xex.png)
+![](https://g0v.hackmd.io/_uploads/HkwvPUC7gx.png)
+![](https://g0v.hackmd.io/_uploads/ryz8vDUCQxl.png)
+![](https://g0v.hackmd.io/_uploads/HklIvPLAQxx.png)
+![](https://g0v.hackmd.io/_uploads/rkm8ww80mex.png)
+![](https://g0v.hackmd.io/_uploads/BkxDwD8A7gx.png)
