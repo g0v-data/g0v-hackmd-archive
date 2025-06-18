@@ -180,15 +180,6 @@ https://www.facebook.com/groups/twroadclub/permalink/2432209236958837/
 待確認
 https://www.facebook.com/share/p/15eWhdSKoZ/
 
-淡水
-https://www.facebook.com/share/p/1DxeqQ8NyC/?mibextid=wwXIfr
-
-北投
-https://www.facebook.com/groups/815378651829887/permalink/6546008165433545/?mibextid=tejx2t
-
-北投圓環
-https://www.facebook.com/100063582226461/posts/pfbid02McrN7Y6a9ckWg3WCbmtTW1vXEuVKmb5Ug5AJjKqyxUNkF5wTzvFRKaAwz84B1ATLl/
-
 內湖
 https://www.facebook.com/share/p/JbMb9CfTF9ogpWzZ/
 
