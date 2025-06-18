@@ -62,12 +62,17 @@ We want to discuss measures for both governmental and civil department, that can
 
 ## 自主應變
 - [全台防災/防空避難所大統整](https://g0v.hackmd.io/UNg_8F3FTuynAwbV7flp-w)
-- [WaytoSafety 隨時隨地知道避難場所位置 / 臺灣資料勘誤 / 香港日本韓國資料彙整](https://g0v.hackmd.io/@waytosafety/home/)
 - [離線防災資訊資料庫](/0E3O29reTPSItud6rcupag)
+- [WaytoSafety 隨時隨地知道避難場所位置 / 臺灣資料勘誤 / 香港日本韓國資料彙整](https://g0v.hackmd.io/@waytosafety/home/)
+- [人在美國的緊急應變指南](https://tw-us.cc/)
 
 ## 理解台海衝突機制
+- [中國軍事體系與灰色侵略模式](https://g0v.hackmd.io/Bo2u7eEcQg6pOuEoOPCADQ?view)
 - [兵推場次資訊蒐集：防災情境、台海衝突](https://g0v.hackmd.io/@chewei/rJL2Dwz3n)
-- [蒐集民防相關素材資源](https://g0v.hackmd.io/Bo2u7eEcQg6pOuEoOPCADQ?view)
+
+## 各國民防經驗蒐集
+- [烏克蘭 / 立陶宛](https://g0v.hackmd.io/i_sEMhdFT1i7Hc0-PYy8zA?view)
+
 
 歷史上的野生災害資訊整合平台
 ---

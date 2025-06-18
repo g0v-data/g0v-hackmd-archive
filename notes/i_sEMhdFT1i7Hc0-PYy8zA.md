@@ -2,7 +2,14 @@
 tags: Ukraine
 ---
 
-# 烏克蘭民防
+# 各國民防經驗蒐集
+
+:::info
+目錄
+[TOC]
+:::
+
+## 烏克蘭民防
 
 國防手冊
 https://www.facebook.com/media/set/?set=a.940819910638484&type=3&mibextid=ncKXMA
@@ -40,7 +47,21 @@ https://www.twreporter.org/a/russian-invasion-of-ukraine-2022-military-reform
 戰情 3D 報導平台
 https://www.facebook.com/story.php?story_fbid=pfbid04N9TaJXypMYfhupSPz6ZFiUEPQYxWXtNx1Huc4ZNZ1N3bMAKJWoh1QwMWu1syNgPl&id=130017733712220&mibextid=tejx2t
 
+PUBLIC INTEREST JOURNALISM LAB 
+THE RECKONING PROJECT: UKRAINE TESTIFIES
+https://www.journlab.online/en
+Examples and Introduction of Resilience Resistance Projects
+https://youtu.be/XDhF6_57amM
+Q&A Session After the Video Screening
+https://youtu.be/USURCv8nqWs
+Building Resilience Through Social Networks
+https://youtu.be/BON9rP_meY0
 
-## 重建
+### 重建
 
 https://www.facebook.com/story.php?story_fbid=pfbid0ZFJbtQxvNxmE2eNqP4MG8Jx5TZR6SKdM2LoRe7iYrRg3Du8zKj7FBYcKk9MbtdTQl&id=517380721&mibextid=qC1gEa
+
+
+## 立陶宛
+
+https://www.facebook.com/story.php?story_fbid=pfbid02Caa3FC8PCpELANipYm8Ux1Tdw75F5VZkztCAXHoXohC6Sj7YRYLjgkysnELghBxtl&id=100064633964309&mibextid=qC1gEa
