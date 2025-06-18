@@ -119,7 +119,7 @@ tags: vTaiwan小松
 - +1 [name=josh]
 
 ## 網站更新討論
-> 這裡是 vTaiwan 網站更新的討論，目前設定年底可以
+> 這裡是 vTaiwan 網站更新的討論，目前設定年底可以把完整功能上線，
 - 網站協作的連結 https://github.com/g0v/vue.vTaiwan-neo/discussions/10
 - 網站 Cloudflare 連結： https://vTaiwan.pages.dev/
 - 目前網站已經在 cloudfare 上線了，不過上面有很多樣稿。因為有標註是樣稿，上去看的人應該是不會混淆。
@@ -127,11 +127,13 @@ tags: vTaiwan小松
     - +1 [name=peter]
     - +1 [name=shuyang] Github 帳號 ＠shuyanglin
     - +1 [name=josh]
-- 有興趣來協作 vTaiwan 網站的話，可以把 github 帳號打在底下
-    - 範例：
-    - bestian : Github帳號bestian
+- 有興趣來協作 vTaiwan 網站的話，可以把 github 帳號打在底下（範例：- bestian : Github帳號bestian）
+    - shuyang: Github 帳號 ＠shuyanglin
+    - Tim: Github帳號：techgeek12124@gmail.com
 - 內容管理員的任務：更新靜態內容
--
+
 ## Frankly 測試
 > Frankly 是一個開源的線上平台，可以用來進行線上審議
 - [測試用的 space](https://app.frankly.org/space/wi0cczgdIejvSIVdQIsI)
+- 今天晚上的測試空間：https://app.frankly.org/share/space/wi0cczgdIejvSIVdQIsI/discuss/6S8hijWc0dXG2Q5mSv2E/xr4ZIaM7n9s8MpF5fboA?b=350474
+- 
