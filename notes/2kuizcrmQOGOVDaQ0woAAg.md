@@ -48,7 +48,7 @@ RS:
 
 ### [前來放輕鬆的你可能會需要的東西 Things you might need when attending g0v Rand0mTh0n](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
 
-### [下次放輕松的共筆 ](/RuhCfavuRkKWYL63Gv9wQg)
+### [放輕松的共筆 ](/RuhCfavuRkKWYL63Gv9wQg)
 
 📍 參與者人類本體 participant itself
 📍 食物 food
@@ -59,7 +59,7 @@ RS:
 ---
 - [NPO Hub 附近的食物攻略！ Foods Near NPO Hub](/KS7BHZy8Q42ztO709hVsTA)
 
-## 各次放輕松列表
+## 放輕松共筆
 `Latest` 
 - [20250401 Rand0mTh22n 第貳拾貳次](/e3WKTTDtS9SCiofmB6qdtg)
 - [20250318 Rand0mTh21n 第貳拾壹次](/XApq04KhRLij31rveNXnfA)
