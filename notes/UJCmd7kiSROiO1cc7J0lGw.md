@@ -1,7 +1,7 @@
 ---
 tags: FtO, g0v-intl
 ---
-# FtO Kaohsiung (KH) 2025 · 面海松 2025 在高雄
+# FtO KH 2025 · 面海松 2025 在高雄
 
 ## ==For Organizers==
 
@@ -10,7 +10,7 @@ tags: FtO, g0v-intl
 
 ## Basic Info
 - 🗓 Dates: September 13-14
-- 📍 Location: Kaohsiung, Taiwan
+- 📍 Location: Kaohsiung (KH), Taiwan
 - 🏯 Venue: TBD
 
 :::warning
