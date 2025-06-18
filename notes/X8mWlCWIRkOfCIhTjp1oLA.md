@@ -181,9 +181,6 @@ https://www.facebook.com/groups/twroadclub/permalink/2432209236958837/
 https://www.facebook.com/share/p/15eWhdSKoZ/
 
 淡水
-https://www.facebook.com/story.php?story_fbid=pfbid02a98uUtA3KiWtHBvnrDZQW8DnHNJxFQEZ9PAAaFxAgqWozZxJekenT98mpdHLB1N6l&id=100063883987874&mibextid=qC1gEa
-
-淡水
 https://www.facebook.com/share/p/1DxeqQ8NyC/?mibextid=wwXIfr
 
 北投
