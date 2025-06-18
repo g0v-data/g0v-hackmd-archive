@@ -48,8 +48,6 @@ RS:
 
 ### [前來放輕鬆的你可能會需要的東西 Things you might need when attending g0v Rand0mTh0n](https://g0v.hackmd.io/@B9Iwh2UoQuuqL3vJQFC5lw/rand0mth0n)
 
-### [放輕松的共筆 ](/RuhCfavuRkKWYL63Gv9wQg)
-
 📍 參與者人類本體 participant itself
 📍 食物 food
 📍 一顆願意交流，且願意遵守 [g0v 宣言](https://g0v.tw/intl/zh-TW/manifesto/zh-TW/) 並願意遵守 [行為守則 Code of Conduct](https://g0v.hackmd.io/s/COC) 的心 A heart that is onwilling to communicate, and is willing to abide by the g0v Manifesto and the Code of Conduct.
@@ -59,8 +57,9 @@ RS:
 ---
 - [NPO Hub 附近的食物攻略！ Foods Near NPO Hub](/KS7BHZy8Q42ztO709hVsTA)
 
-## 放輕松共筆
+## 放輕松共筆 Collaborative Note
 `Latest` 
+- [放輕松共筆 Collaborative Note](https://g0v.hackmd.io/O7ojSf4_RTyA8No-HchURQ?view)
 - [20250401 Rand0mTh22n 第貳拾貳次](/e3WKTTDtS9SCiofmB6qdtg)
 - [20250318 Rand0mTh21n 第貳拾壹次](/XApq04KhRLij31rveNXnfA)
 - [20250304 Rand0mTh20n 第貳拾次](/6WH6j-_bSISk01pHrmQCPA)
@@ -100,7 +99,7 @@ RS:
 
 12 年來，g0v 已經舉辦了 60 餘次的 g0v 雙月黑客松，作為數位公民聚集的廣場。Tofus 跟揪松團的社群朋友們想要在 g0v summit 過後作出一點不一樣的嘗試
 
-受到「 g0v summit 放輕松」以及「da0 c0w0rk (by Yian)」的啟發，Tofus 發現，提升聚集的頻率有助於提升對 g0v 感興趣的朋友參與進來的機會
+受到「g0v summit 放輕松」以及「da0 c0w0rk (by Yian)」的啟發，Tofus 發現，提升聚集的頻率有助於提升對 g0v 感興趣的朋友參與進來的機會
 
 例如 Solana 基金會的朋友曾在 2023 年的此時造訪台灣，當月並沒有舉辦大松，但他們還是透過參與 da0 c0w0rk，接觸 g0v 的朋友，並因此對於 g0v 社群有了初步的認識
 
