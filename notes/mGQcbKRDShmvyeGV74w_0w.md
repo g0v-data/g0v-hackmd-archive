@@ -50,14 +50,24 @@ We want to discuss measures for both governmental and civil department, that can
 
 數位韌性專案們
 ---
-- [g0mesh](/_WnRRY4sRZOIBxgAMpz1-w)
-- [全台防災/防空避難所大統整](https://g0v.hackmd.io/UNg_8F3FTuynAwbV7flp-w)
-- [WaytoSafety 隨時隨地知道避難場所位置 / 臺灣資料勘誤 / 香港日本韓國資料彙整](https://g0v.hackmd.io/@waytosafety/home/)
+
+## 數位韌性情境分級
+- [數位韌性情境分級(wip)](https://g0v.hackmd.io/SYTBWVohTyuCgPGUqfAl9g)
 - [重要數位服務韌性檢測及其替代品](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A)
+
+## 通訊
+- [g0mesh](/_WnRRY4sRZOIBxgAMpz1-w)
 - [台灣鏈網 Meshtastic](/ZGuA7fUZQi-fbD06EenmGQ)
 - [Meshtastic as Citizen Network](https://g0v.hackmd.io/0bR8-LvHRMaNaR97YaXpnQ)
-- [數位韌性情境分級(wip)](https://g0v.hackmd.io/SYTBWVohTyuCgPGUqfAl9g)
+
+## 自主應變
+- [全台防災/防空避難所大統整](https://g0v.hackmd.io/UNg_8F3FTuynAwbV7flp-w)
+- [WaytoSafety 隨時隨地知道避難場所位置 / 臺灣資料勘誤 / 香港日本韓國資料彙整](https://g0v.hackmd.io/@waytosafety/home/)
 - [離線防災資訊資料庫](/0E3O29reTPSItud6rcupag)
+
+## 理解台海衝突機制
+- [兵推場次資訊蒐集：防災情境、台海衝突](https://g0v.hackmd.io/@chewei/rJL2Dwz3n)
+- [蒐集民防相關素材資源](https://g0v.hackmd.io/Bo2u7eEcQg6pOuEoOPCADQ?view)
 
 歷史上的野生災害資訊整合平台
 ---

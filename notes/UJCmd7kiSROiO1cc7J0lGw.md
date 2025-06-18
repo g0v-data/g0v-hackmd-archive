@@ -9,7 +9,7 @@ tags: FtO, g0v-intl
 - [Welcome Slides](https://docs.google.com/presentation/d/192uozQ1F4zC_RXdkVfzGGYkQ2BHLjy2EI9fwuM5SQR4/edit)
 
 ## Basic Info
-- 🗓 Dates: September 13-14
+- 🗓 Dates: September 12-14
 - 📍 Location: Kaohsiung (KH), Taiwan
 - 🏯 Venue: TBD
 

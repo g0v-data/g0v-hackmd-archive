@@ -15,21 +15,51 @@ tags: 民防
 
 ## 軍情
 
+### 中國人民解放軍體系
+
 中國人民解放軍基地及設施 (海軍、空軍、戰略支援部隊、重要戰訓基地及核心軍事機關)
 https://goo.gl/maps/QXXWAE7PjJoqRmmN6
 社團討論串
 https://www.facebook.com/groups/1039896299354539/permalink/4624338414243625/
 
+### 灰色侵略模式 / 兵推場次資訊
+
+China 灰色侵略模式
+https://g0v.hackmd.io/@china/book/https%3A%2F%2Fg0v.hackmd.io%2F2OgSg4BXRwegwWtWiBeRBg
+
+《台海情勢儀表板》是結合官方軍事資料、能夠持續更新的地圖儀表板，以下有製作經驗分享文章
+https://www.facebook.com/share/p/15c42cDvcF/
+
+台海風險網頁
+https://crossstraitanalytics.com/taiwan-risk-index
+
 臺灣防空識別區快訊
 g0v slack #adiz_alerts
 https://g0v.hackmd.io/@tmonk/Bkff8k5qv/
 
-China 
-https://g0v.hackmd.io/@china/book/https%3A%2F%2Fg0v.hackmd.io%2F2OgSg4BXRwegwWtWiBeRBg
+摘自網頁：模擬2030年，當台灣遭遇來自各方面的網路攻擊、電子戰與破壞活動，玩家將扮演紅隊（攻擊方）或藍隊（防禦方）的資安戰略專家，通過團隊合作與策略決策，實戰演練網路攻防，並深入分析並討論如何在未來資源與技術的支持下，加強台灣的資安防護和基礎設施韌性。
+https://cybersec.ithome.com.tw/2025/warGame
+
+兵推場次資訊蒐集：防災情境、台海戰爭
+https://g0v.hackmd.io/@chewei/rJL2Dwz3n?type=view
+
+YouTube 指認潛在登陸地點與路線 (其中以台北盆地來說，淡水河是一個通廊)
+https://youtu.be/rrd7Yj7Ec40
+
+動畫解說，在軍事營區週邊，由裝載無人機貨車發起的攻擊機制
+https://youtu.be/mrFshcqeea8
+
+20250516 美國國會「美中戰略競爭特別委員會」（House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party），因應台海戰爭危機進行一場聽證會《遏止威脅升高下的衝突：防止中共侵略台灣》（Deterrence Amid Rising Tensions: Preventing CCP Aggression on Taiwan）
+媒體報導文章：https://sunrisemedium.com/p/755/us-congress-hearing-taiwan-deterrence-2025
+
 
 ## 回顧過往的戰時政體與課題 / 近期軍民關係
 
-### 早期
+### 歷史與早期
+
+140 年前的清法戰爭，軍隊登陸、經貿封鎖 .. 臺史博舉辦回顧展覽
+- https://www.facebook.com/share/p/1CSB7CBm4R/
+- 線上環景：https://vr.nmth.gov.tw/TheSino-FrenchWar/
 
 專題名稱：抗戰時期「西南運輸處」與「軍統局」的競合 
 摘：西南運輸處業務一再受挫，除與戰局息息相關外，也與主事者解決之道不當有關。當時國民政府總是以成立新機關解決眼前問題，標準的頭痛醫頭，卻無法裁撤事權相關的舊機關，導致事權不明，疊床架屋，各機關各自為政，進行協調也只是紙上用兵。此外，專業人才難求，和戰時主官兼任情形嚴重，遇事難以兼顧，是政府行政失當的重要原因。
@@ -69,7 +99,7 @@ https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0070015
 論災害防救法強制撤離規定之困境—以我國土石流災害疏散撤離體制為例
 https://www.facebook.com/hsinyu.shan/posts/pfbid02aK1ZBFkTzSUwqDro9PtHDnx3oYA9o4zbDBk39XWddYpDNNM1c7MquKZFb9NqbLY1l
 
-### 概覽
+### 民防整備
 
 公民行動指南
 https://watchout.tw/projects/civilguide
@@ -109,7 +139,6 @@ https://g0v.hackmd.io/@waytosafety/home/
 如何找到自己所在的村里避難地圖，推廣網頁
 https://www.safetaiwan.com/blogs/disaster-prevention-column/evacuation-map
 
-
 ### 維生系統與物資
 
 自來水系統
@@ -131,13 +160,19 @@ https://g0v.hackmd.io/Ylob5q1rR361wt6RIzYBSA
 
 ### 網際網路與通訊狀況
 
+海纜動態
+https://smc.peering.tw/
+
+馬祖斷網經驗 2023
+https://g0v.hackmd.io/A-LPXr1RTiSK_iUwJsJowg
+
+澎湖斷纜事件宣判
+https://www.bbc.com/zhongwen/articles/cdd2jjjn9n4o/trad
+
 g0v 數位韌性松 DigiResiTh0n
 https://g0v.hackmd.io/mGQcbKRDShmvyeGV74w_0w
 
 摘：因應氣候變遷與歐洲的水災頻傳，德國管制機構與公共廣電共同致力推出緊急預警的標準廣播規範，稱為ASA (Automatic Security Alert) 「自動啟動安全警示」功能　https://www.facebook.com/cmcheng11/posts/pfbid02fKD2Hx2hjZb1MELb3qD3kJGwoNqR2if2B8ueGEcxUiTMJNX96gYP6E2AsnvXHNARl
-
-馬祖斷網經驗 2023
-https://g0v.hackmd.io/A-LPXr1RTiSK_iUwJsJowg
 
 網路自由小聚 2022.12.22 討論題目：戰時網路
 活動共筆文件
@@ -151,6 +186,11 @@ https://docs.google.com/document/d/1WTUEo19rWgSt3mZYNKlHhjE8w6kFQ6w9CY9BiDBRq2U/
 網路中斷黑客松
 https://coscup.org/2023/zh-TW/session/FYPKL9
 https://www.facebook.com/ddioibb/posts/pfbid0352FCkdAe8YbyDanQrXZNEsc4zsQjtHHduzvAHbXc5vcU2fnbhxLXbPJi9Et48dN6l
+
+### 海外支援網絡
+
+人在美國，也能成為台灣的堅實後盾。本站是為「身在美國的台灣人」打造的緊急應變指南。
+https://tw-us.cc/
 
 ### 提案構想
 
