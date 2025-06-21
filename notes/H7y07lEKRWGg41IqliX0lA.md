@@ -18,6 +18,11 @@ https://www.facebook.com/localresearch/posts/pfbid02winic8vt6v4X8KbJdHyciKLKPJvH
 ZONG 嚨來共
 https://www.facebook.com/share/18bmeYE39E/
 
+市長給問嗎（2014-2018）
+> 算嗎？XD [name=chihao]
+- https://www.facebook.com/watchout.tw/photos/a.276078935883660/380769795414573/?type=3 (2014)
+- https://www.facebook.com/watchout.tw/videos/987581368066743 (2018)
+
 ## 發想
 
 這是什麼意思
