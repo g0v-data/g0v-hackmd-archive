@@ -39,13 +39,15 @@ tags: vtaiwan
 
 - 在公共政策或社群討論中，若意見是由 AI 協助生成或修改，是否應該揭露？若要揭露，應該揭露到什麼程度？[name=阿南]
 
-- 如何增進現有[Join平台](https://join.gov.tw/)上已連署通過之案件，對行政院和立法院的實質影響力，避免實質擱置？[name=bestian]
+- 公民社群與台灣政府如何合作，增進現有[Join平台](https://join.gov.tw/)上已連署通過之案件，對行政院和立法院的實質影響力，避免實質擱置？[name=bestian]
     - 案例：2023年，自主學習促進會發起「[向下延伸補助國中小自學生，落實不同社經背景家庭參與實驗教育之機會平等](https://join.gov.tw/idea/detail/cd1f42dd-f8ce-40f1-b63e-a4be079a0473)」線上連署並成功得到5354位網友具名連署，通過連署門檻，而實行細則在立法院遲遲未訂，致使目前國中小非學校型態實驗教育家庭仍未得到政府補助。
+    - [ChatGPT建議的可討論方向](https://chatgpt.com/share/6859c123-5d54-800b-899a-9f9fbd4a46a7)
     
 - 歡迎大家新增提案：明確的使用情境，案例
 
 ## 想要嘗試的東西
 > 針對審議的內容，
+> 用[Polis](https://polis.tw/) 串 [Sensemaking Tools](https://jigsaw-code.github.io/sensemaking-tools)來整理Polis的結果產出有感的文本 [name=bestian]
 
 ## 時程
 - 7 月舉辦審議活動
