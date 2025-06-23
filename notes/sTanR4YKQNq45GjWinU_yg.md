@@ -94,6 +94,7 @@ tags: 公有地大行動, 可能的空間, edu
     - 第一種：廢校重生計畫或提案現況清點
     - 第二種：部分校舍釋出給其他單位進駐使用
 - 優先登載「失去的小學」部落格，已踏查的地點 http://angelabeetle16.blogspot.com/
+- 廢校名單 https://www.yaojuichung.com/DynamicContent/LSD/lsd_article/lsd_03_article_05.pdf
 - 基隆太平國小 
     - https://www.facebook.com/613698249/posts/10158945292883250/
     - https://www.facebook.com/KLTPPS/
