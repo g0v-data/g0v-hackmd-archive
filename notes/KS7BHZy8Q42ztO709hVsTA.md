@@ -45,7 +45,8 @@ tags: food,
     - am11-am3[name=Lucky Chen]
 
 肉類
-- 烤鴨
+- 萬香台式烤鴨
+    - 但不便宜，不一定適合活動餐飲
 
 素食：？
 
@@ -55,7 +56,7 @@ tags: food,
 飲料：
 - npohub 一樓，咖博館-台北聚落店 https://www.facebook.com/KaBoGuan/
     - am8:30-pm6[name=Lucky Chen]
-    - 揪松> 可以談包場，包場費用可以折抵餐飲飲料費，5/25 有包場並訂購飲料及早餐 (熱壓吐司)
+    - 揪松團> 可以談包場，包場費用可以折抵餐飲飲料費，5/25 有包場並訂購飲料及早餐 (熱壓吐司)
 
 ## 清晨早餐 / 凌晨宵夜
 
@@ -167,9 +168,10 @@ tags: food,
 - YI> 以便當來說這家也不錯，主餐普普但配菜都蠻清淡健康又好吃的
 
 Hungry Pans 夯堡 寧波店
+- https://maps.app.goo.gl/wSUHKk2QEsCU1rp78
 - 週日am8-pm9[name=Lucky Chen]
 - ichieh> 這間是平價 subway 我記得燻鮭魚披薩之前買便宜又超大 之前辦活動都會叫就這間
-- https://maps.app.goo.gl/wSUHKk2QEsCU1rp78
+- chewei> 有看過雞腿披薩，一整隻雞腿在披薩上面
 
 養鍋
 - ichieh> 養鍋也滿好吃的，但是要吃比較久ＸＤ
@@ -186,7 +188,7 @@ Hungry Pans 夯堡 寧波店
 - ichieh> 虱目魚雖然贏不了台南，但是可以點一堆小東西，很爽
 
 金峰滷肉飯
-ichieh> 金峰滷肉飯就是想吃滷肉飯很適合，而且滿快的
+- ichieh> 金峰滷肉飯就是想吃滷肉飯很適合，而且滿快的
 - am11-pm11[name=Lucky Chen]
 
 南門鯓丼
@@ -198,6 +200,10 @@ ichieh> 金峰滷肉飯就是想吃滷肉飯很適合，而且滿快的
 - am9-pm6:30[name=Lucky Chen]
 - https://maps.app.goo.gl/17rBb612pttmbhfs9
 - YC> 大家都說CP值高
+
+鍾圓環肉羹
+- https://maps.app.goo.gl/aT7fE6JSJkRkh8fr7
+- chewei> 就不用等，很快 ... 離 NPOHUB 很近 ...
 
 本味
 - https://g.co/kgs/PR3RbrR
@@ -227,4 +233,6 @@ ichieh> 金峰滷肉飯就是想吃滷肉飯很適合，而且滿快的
 
 ## 藝廊、機構空間
 
-https://photos.app.goo.gl/6wkvVQv2mTVT93Qo8
+- 曾偉昌_個人藝廊
+    - 照片：https://photos.app.goo.gl/6wkvVQv2mTVT93Qo8
+    - 地址：重慶南路三段7號 https://g.co/kgs/xV5CYwu
