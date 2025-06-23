@@ -62,6 +62,7 @@ http://dev.cofacts.tw/
 
 - 影片比較久 [name=bil]
 - 會有 error [name=bil] ![](https://g0v.hackmd.io/_uploads/BJdbrTIExg.png =x400)
+  - 20:11: 
 - 單傳影片會出現對話視窗，沒有反應 [name=nonumpa]
 ![](https://g0v.hackmd.io/_uploads/BJvdSTUVlg.png =x400)
   - 看沒反應，再傳訊息，會變成是不是同一個人傳的 [name=nonumpa]
