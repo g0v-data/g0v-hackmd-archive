@@ -45,6 +45,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #jothon-local-support-地方社群支持方案 support for local communities or initiatives 有相關想法與構想，歡迎到頻道討論 ~
 #hk https://github.com/g0vhk-io
 #hkpwparagliding 飛行傘計畫
+#china
 #myanmar
 #thai-ภาษาไทย 泰國與泰語
 #tiếngviệt-vietnam 越南與越語
@@ -54,6 +55,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #australia 澳洲
 #north-america 想在美國協作的可以來這邊聊天喔！
 #g0v-siliconvalley g0v 矽谷灣區小聚
+#russia
 #ukraine
 #deutschland-germany 德國與德語區
 #french-français
@@ -71,6 +73,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #awesome-g0v-projects 令人驚奇的零時政府。找專案，找提案，找共筆，找幫手 一站搞定
 #project-坑主大補帖 協助坑主推展專案，整理相關執行經驗與建議 Assist project leaders in promoting their projects, organizing related execution experiences and suggestions
 #拉人更輕鬆
+#rand0mthon_放輕松
 #g0v-taipei-npohub-2f-202 NPOHUB 大小事
 #jothon 揪松團相關活動討論（黑客松、基礎松）https://jothon.g0v.tw/
 #jothon-online-雲端活動籌辦 蒐集線上活動籌辦事務
@@ -156,6 +159,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #vue
 #linux-odyssey 互動式 Linux 指令學習網站
 #clickhouse
+#robot
 #ai-learning
 #llm4myhometown
 #opentaiwan-chatgpt

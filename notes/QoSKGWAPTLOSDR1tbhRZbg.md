@@ -25,7 +25,7 @@ Chosun Ilbo's claims are clearly false. The KCC explicitly stated in the press r
 
 I will ask Chosun Ilbo: What is the basis for claiming that Parti inflated personnel costs by double? Aside from reprinting the KCC's press release and distorting it, what investigation did you conduct to verify the claim of double inflation of personnel costs? Did you consider the potential stigma that expressions like "double inflation of personnel costs" could impose on the parties involved while writing the article?
 
-Parti determined the personnel costs for the project based on the criteria presented by the KCC and the Viewer Media Foundation. Furthermore, all personnel costs calculated according to the criteria were fully paid to the activists within their actual salaries. After the project concluded, Parti submitted a settlement report containing details of the personnel cost payments, and no issues were raised. Throughout the audit, Parti continuously clarified that "the determination of personnel costs was made according to the criteria, and all personnel costs were paid as actual salaries." However, the KCC ignored this. If Chosun Ilbo had investigated these details, would they have been able to mention terms like "double inflation of personnel costs"?
+Parti determined the personnel costs for the project based on the criteria presented by the KCC and the Viewer Media Foundation. Furthermore, all personnel costs calculated according to the criteria were fully paid to the people involved. The assumption that these funds were used for anything other than salary is false. After the project concluded, Parti submitted a financial report containing details of the personnel cost payments, and no issues were raised. Throughout the audit, Parti continuously clarified that "the determination of personnel costs was made according to the criteria, and all personnel costs were paid as actual salaries." However, the KCC ignored this. If Chosun Ilbo had investigated these details, would they have been able to mention terms like "double inflation of personnel costs"?
 
 Recently, after it became known that the KCC imposed fines on Parti, criticisms such as "targeted audit" and "hasty administration" have emerged. The KCC's audit results and press release explicitly mention the "fact-checking project," and it was a well-known fact that this project involved FactCheckNet and others. If the media outlets, including Chosun Ilbo, that merely reprinted the KCC's press release had guaranteed the right of reply to Parti even once and attempted to investigate, such criticisms would have arisen much earlier.
 
@@ -38,7 +38,7 @@ Parti Requests Correction from Media, Including Chosun Ilbo, for Distorting the 
     Media that unilaterally reprinted claims without investigation must ensure correction and right of reply.
     Chosun Ilbo reported clear falsehoods not found in the KCC's press release.
 
-The social cooperative Parti (Chairman Kwon Oh-hyun) has requested a right of reply report from media outlets that reported the KCC's fact-checking project audit results without investigation. They demanded that Chosun Ilbo, which reported false information not included in the KCC's press release, correct the distorted report, stating that if a correction is not made, they will have no choice but to hold legal responsibility.
+The social cooperative Parti (Director Kwon Ohyeon) has requested a right of reply report from media outlets that reported the KCC's fact-checking project audit results without investigation. They demanded that Chosun Ilbo, which reported false information not included in the KCC's press release, correct the distorted report, stating that if a correction is not made, they will have no choice but to hold legal responsibility.
 
 The media outlets that Parti is requesting a right of reply from include Chosun Ilbo, KBS, Yonhap News TV, and SBS. These outlets reported the content of the KCC's press release, titled "KCC Announces Audit Results of the Fact-Checking Project," on January 18, 2024, without verifying the claims.
 
@@ -50,7 +50,7 @@ Furthermore, Parti pointed out that "Chosun Ilbo, KBS, Yonhap News TV, SBS, Free
 
 Parti has communicated to the media that reported the information to ensure the right of reply. In particular, they demanded a correction from Chosun Ilbo, which reported information not found in the press release, asking, "What is the basis for claiming that Parti inflated personnel costs by double?" They warned that if no correction is made, they will pursue legal action.
 
-Kwon Oh-hyun, Chairman of the social cooperative Parti, stated, "The KCC conducted the audit unilaterally, and Parti's explanations were not reflected at all. Nevertheless, the KCC's audit results were conveyed to various media outlets. It is only right to guarantee proper rights of reply and correct distorted reports," urging the media to ensure the right of reply and issue corrections.
+Kwon Ohyeon, Director of the social cooperative Parti, stated, "The KCC conducted the audit unilaterally, and Parti's explanations were not reflected at all. Nevertheless, the KCC's audit results were conveyed to various media outlets. It is only right to guarantee proper rights of reply and correct distorted reports," urging the media to ensure the right of reply and issue corrections.
 
 ## Card News
 
@@ -64,7 +64,7 @@ Please inform those around you about the targeted audit and unjust actions taken
 
 Although the regime has changed, the world remains the same. Please join together to normalize it.
 
-### Support Parti in Creating a Digital Citizen Square
+### Support Parti
 
 👉 https://campaigns.do/donate
 
