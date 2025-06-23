@@ -36,6 +36,7 @@ tags: 新生流域,
 ## 福德洋圳南幹線
 - https://maps.app.goo.gl/4r9F9NZpAkK2zGop6
 - https://tsccsorg.wordpress.com/%E7%A6%8F%E5%BE%B7%E6%B4%8B%E5%9C%B3/
+- https://www.facebook.com/share/p/1LxdNh3MBs/
 
 ## 水綠再營造案例：雖然基地未必座落於舊水路遺線上，但呼應鄰街的週邊水圳進行水綠環境營造
 - 臺大新生南路側水路 (呼應 1933 年堀川特一號大排_後來轉為箱涵在道路下方)
