@@ -1,5 +1,5 @@
 ---
-tags: 公民科學
+tags: 公民科學, LASS
 ---
 
 # 儀器觀察學院
@@ -29,6 +29,9 @@ https://www.facebook.com/photo.php?fbid=644344807705078&id=100063886924126&set=a
 大屯火山地區連續觀測站
 https://www.facebook.com/groups/Show.YMSNP/permalink/1348987395647856/?mibextid=S66gvF
 
+MiDAS米崙地震工作站
+https://www.facebook.com/tsoren.wu/posts/pfbid0QX5FQY9okyfZD5sUs4ZcaVdYmvk9cGpeSjT3FNT7xRisXZjFQUXz5wKYdkt5XXmNl
+
 坡地監測
 https://www.facebook.com/story.php?story_fbid=pfbid02gsSbSdfjoqkWSr6ZYnpt2FkHAL5uxWp8x6Gr9D4QeeM3mTPSy8q1zLwEysceJaETl&id=100064753841028&mibextid=tejx2t
 https://www.facebook.com/groups/401930356585921/permalink/6331987863580111/
@@ -46,6 +49,9 @@ https://www.facebook.com/groups/718089658359103
 
 【FB 社團】地震，Taiwan Earthquake Research Center (TEC) 台灣地震科學中心 FB 社團
 https://www.facebook.com/groups/655046344513665
+
+各地港口駐守在碼頭邊的白色儀器箱潮位站
+https://www.facebook.com/share/p/1FEdDSheSQ/
 
 雲林
 https://www.facebook.com/share/yrPhEd5iHNMHnYXm/
