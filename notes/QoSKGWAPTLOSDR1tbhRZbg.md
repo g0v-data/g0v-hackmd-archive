@@ -68,3 +68,144 @@ Although the regime has changed, the world remains the same. Please join togethe
 
 👉 https://campaigns.do/donate
 
+
+# ChatGPT's Deep Research for Parti's situation
+
+## Overview
+The South Korean civic tech group Parti (빠띠) has actively promoted citizen-driven fact-checking initiatives. One of its leading projects was the FactCheckNet (팩트체크넷), launched in 2020 as an open platform where citizens and professional media collaborated to verify misinformation.
+
+However, after a change in government, the Korea Communications Commission (KCC) accused the project of political bias and misuse of public funds. Under pressure from budget cuts and audits, the platform was shut down in early 2023. Parti is now continuing fact-checking activities on its own platform—Digital Civic Square (디지털시민광장)—in preparation for the 2025 presidential election.
+
+In parallel, KCC decided to impose heavy penalties on Parti, including an order to return subsidies and pay substantial fines. Parti has condemned these measures as "clear oppression."
+
+## FactCheckNet and Other Related Projects
+### FactCheckNet (팩트체크넷)
+- Launched in November 2020 as a citizen-participatory fact-checking platform.
+
+- Co-funded and operated by Parti, the Korean Journalists Association, the Broadcasting Reporters Federation, and the PD Association.
+
+- Enabled citizens to propose questionable claims for journalists and experts to investigate together.
+
+- Provided education programs, contests, and research support.
+
+- Participating media included Newstapa, NewsTof, Yonhap News, KBS, MBC, YTN, MBN, and others.
+
+- Served as a repository of verified content and developed tools like AI-based verification and deepfake detection.
+
+### 2025 Presidential Election Fact-Check Project
+After FactCheckNet's termination, Parti independently launched a new fact-checking project via its Digital Civic Square to engage citizens in checking suspicious political information spreading on YouTube and social media.
+
+- Volunteers were recruited as “citizen fact-checkers.”
+
+- Aimed to foster a culture of public verification outside of mainstream media.
+
+- The project continues the philosophy of collaborative fact-checking from FactCheckNet’s legacy.
+
+## Rise and Fall of FactCheckNet
+- Originally initiated under the Moon Jae-in administration, supported by government budget.
+
+- Emphasized editorial neutrality and aimed to verify misinformation across political lines.
+
+- Achieved recognition from KCC as an “outstanding project.”
+
+## Political Shift and Shutdown
+- After the conservative administration came to power in 2022, criticism grew:
+
+    - The ruling party, People Power Party, called it a "left-leaning" initiative.
+
+    - Claimed media involved were mostly progressive or public, excluding conservative voices.
+
+    - Pushed through steep budget cuts:
+
+        - ₩2.74 billion in 2021 → ₩1.74 billion in 2022 → ₩610 million in 2023.
+
+- On January 25, 2023, the board decided to dissolve the foundation, officially ending the service on February 28, 2023.
+
+- Despite the closure, groups like Newstapa and Parti declared they would continue citizen-based fact-checking independently.
+
+## Audit, Financial Issues, and Penalties
+### KCC Audit Findings
+A large-scale audit by KCC (late 2023 – early 2024) alleged several issues:
+
+- Misuse of funds: Overestimated salaries for IT engineers and unauthorized budget allocations.
+
+- Improper vendor selection: Suggested that certain partner organizations (e.g., Parti) were pre-selected.
+
+- Ownership dispute: App ownership was given to an external group, contrary to the original agreement.
+
+KCC responded with:
+
+- Severe warnings to the media foundation's director.
+
+- Referral of responsible officials for disciplinary actions and criminal investigation.
+
+- Demand for reimbursement and damages.
+
+Critics labeled this a "targeted audit" influenced by political motivations, especially since multiple media organizations aligned with the previous administration were audited and had leaders removed.
+
+### Penalties on Parti
+- In February 2024, KCC ordered a refund of about ₩180 million.
+
+- On April 16, 2024, they imposed a ₩566 million fine on Parti (3x the refund amount).
+
+- Parti's total liability: ₩750 million (approx. $560,000 USD).
+
+KCC defended this as legal enforcement based on the audit, but Parti:
+
+- Argued the total aid they received was only ₩400 million.
+
+- Claimed the fines were "excessive and politically motivated."
+
+- Filed a lawsuit and injunction to halt enforcement.
+
+KCC simultaneously announced a new fact-checking platform for 2024, replacing Parti’s model with a multi-vendor, more government-managed system.
+
+## Public and Media Reactions
+### Progressive Media & Civil Society
+- Outlets like Hankyoreh, Media Today, and OhmyNews criticized the government:
+
+    - Called the audit "a political attack" and "retaliation."
+
+    - Suggested it undermined democracy and freedom of expression.
+
+    - Civil society warned of a “chilling effect” on public watchdog functions.
+
+### Conservative Media & Ruling Party
+- Chosun Ilbo and Newspim echoed the ruling party’s stance:
+
+    - Argued that FactCheckNet wasted taxpayer money.
+
+    - Denounced the project as biased and lacking transparency.
+
+    - Called for full investigation and overhaul of fact-checking systems.
+
+Public opinion remained deeply divided along political lines.
+
+### Parti's Response and Continued Advocacy
+- In a joint 2023 statement, Parti and the foundation stressed:
+
+    - Their independence and dedication to civic collaboration.
+
+    - Fact-checking was a public good, not a political tool.
+
+- Parti chair Kwon Oh-hyun (권오현) called the penalties “clear oppression.”
+
+- Announced intent to fight through administrative litigation.
+
+- Called for public support, asserting:
+
+> “The suppression of fact-checking culture is a regression of democracy.”
+
+Several civic organizations issued formal letters urging KCC to rescind the penalties and reevaluate the project.
+
+## Conclusion
+Despite intense political pressure, Parti remains committed to its mission of "digital democracy through civic action." The FactCheckNet saga reveals both the potential and fragility of civic tech in polarized societies. Moving forward, Parti must:
+
+- Build a more sustainable funding model,
+
+- Secure nonpartisan institutional support,
+
+- Continue fostering a resilient civic ecosystem.
+
+This case offers critical insight into the global challenges of public accountability and democratic innovation in the digital age.
+
