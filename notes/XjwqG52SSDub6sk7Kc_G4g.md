@@ -4,8 +4,40 @@ tags: vTaiwan小松
 # 20250625 vTaiwan 小黑客松
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants: Peter, 阿南, bestian Tang, josh, shu, tofus, 翊婷, Allison
+參與者 Participants:  Peter, 釋阿南Anan, Tim,Yu-Ting,Joey,新朋友Fides
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
+
+1：今日邊討論邊建立「AI 用於數位公民參與經驗共筆」共筆：https://g0v.hackmd.io/nJUYukWFSWuEsG-XQalHcA
+2：TFGA的討論：希望今天可以決定日期和議題，先想問大家可以來幫忙的意願和時間。
+Peter：（Peter先講述一遍上次大家提出的五個主題）。TFGA進行的方式會和議題小聚一樣，禮拜天會有一次電話會議。
+
+Tim:想問一下Bestian的主題為何不適合？
+
+Peter:因為對方（Sponsor）會希望是和網路治理有關，Peter和Yiting討論的結果是Bestian提出的比較偏向公共政策和政府落實，但是不代表不能在議題小聚討論。
+
+Tim:和 這次ＴＦＧＡ是和網路治理比較有關，而和join的公共政策政府落實是有差異的是嗎，那我了解了..
+
+Peter:Yuting貼的言論審查機制和判斷準則的這個主題，蠻有趣的。今日有新朋友 Fides
+
+Yuting:我提得主要是社群平台如何透過ＡＩ做內容審查和管制，會引響到大家發表的權利，有兩三個可以延續上次議題小聚的討論，更細微的應用情境和案例。
+
+Peter：預設大家會有一票投給自己，所以等一下會問大家另一票要投給誰。先問 Joey，今天本來就要討論，那今天沒有出席的人就代表
+
+Tim:[AI 吉卜力商業利用的相關爭議]我認為可能是網路散播的面向。我講的言論自由是指 Yuting這個提案.....
+
+Peter:Yuting你是否有跟Yiting翊婷設計討論過流程或討論的題目？
+
+Yuting:我們目前沒有定案...流程和上次沒有太大差別，但會希望有更嚴謹的前後測...
+
+
+Ｐeter:目前看來會是這三個題目在做最終的決定，..那要怎麼決定呢？
+
+Tim:可能可以請長期參與者Josh來決定？
+
+
+
+
+
 ::: success
 ## 專案儀表板：目前 vTaiwan 社群在進行的事情 
 以下是 vTaiwan 目前正在進行的幾個不同的專案！如果有興趣，可以在取得共筆編輯權限後+1，或者是
@@ -44,13 +76,11 @@ tags: vTaiwan小松
 ### 自我介紹
 > 如果今天的小松有新手加入，我們就會進行自我介紹。以三個關鍵字介紹自己。像是我就會說：我是 peter，我的三個關鍵字是 vTaiwan、法律研究生、AI。
 - peter：我的三個關鍵字是 vTaiwan、法律研究生、AI。
-- Shu: 三個關鍵字是：設計、vTaiwan、AI審議
-- Tofus: 三個關鍵字是：休學生、設計、vTaiwan主視覺
-- Josh: 關注審議與投票的程序設計
-- 阿南: 可以幫忙github程式維護、對vTaiwan審議很有興趣、想潛水、近幾年會三不五時出現在新加坡、倫敦、與台灣三地。
-- Bestian: 自主學習、全端工程、牙痛
-- 翊婷：政治學博士生。政治學、實驗、畢業。
-- allison：Three keywords are high school student, sleep deprived and economics 
+- Tim: vTaiwan, cofacts, 轉職成 web 工程師
+- YuTing: vTaiwan, HCI(human computer interaction), AI
+- 阿南：github, 觀察（觀察新事物）, 飛機
+- fides: post-capitalism, web3
+- Joey: 議題探索、科技工具研究、攝影 
 
 ## 小小的分享
 > 這裏是讓大家分享近況與有趣專案及想法的地方。如果你有任何有趣的想法想要分享，也可以把你的想法貼在這邊！
@@ -106,9 +136,12 @@ tags: vTaiwan小松
 - 公民社群與台灣政府如何合作，增進現有[Join平台](https://join.gov.tw/)上已連署通過之案件，對行政院和立法院的實質影響力，避免實質擱置？[name=bestian]
     - 案例：2023年，自主學習促進會發起「[向下延伸補助國中小自學生，落實不同社經背景家庭參與實驗教育之機會平等](https://join.gov.tw/idea/detail/cd1f42dd-f8ce-40f1-b63e-a4be079a0473)」線上連署並成功得到5354位網友具名連署，通過連署門檻，而實行細則在立法院遲遲未訂，致使目前國中小非學校型態實驗教育家庭仍未得到政府補助。
     - [ChatGPT建議的可討論方向](https://chatgpt.com/share/6859c123-5d54-800b-899a-9f9fbd4a46a7)
+- AI 在教育領域的應用（包含：輔助學生書寫作業、教師批改作業與教學的界線在哪裡等等） [name=Joey]
+    - 可保留到下次議題小聚
 
 ### Action List
 - 確認主題與日期
+
 ## 議題小聚
 > 議題小聚是 vTaiwan 社群從 2024 年開始發起的一個系列活動，希望藉由使用數位工具，以及與 NGO 的合作，來促進大家對於公共議題的討論，同時也探索數位工具應用於公共討論中的可能性。坑主是 [name=peter] [name=yi-ting lien]
 ### 5/23 議題小聚活動紀錄

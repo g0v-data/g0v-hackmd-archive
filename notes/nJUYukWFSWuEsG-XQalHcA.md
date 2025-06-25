@@ -30,3 +30,33 @@ LLMs currently analyse these Polis clusters to understand the reasoning behind d
 **Learning:** Future developments focus on realising our vision for enhanced information-gathering before participation begins. We're exploring AI agents that could autonomously research policy questions and interactive LLM-based documents that would allow citizens to explore issues through conversation-style interfaces. These envisioned tools would strengthen the preparation phase, ensuring participants arrive at both Polis voting and face-to-face discussions with robust understanding of technical details and broader context.
 
 Human validation ensures democratic accountability, particularly around AI-generated summaries. The most critical oversight occurs when AI systems summarise both the Polis cluster analysis and subsequent face-to-face conversations. Participants vote on these summaries to verify they accurately capture what different opinion camps actually believe and what was genuinely discussed, ensuring AI cannot misrepresent human voices.
+
+### Peter 
+1. 核心還是在參與者對於人工智慧工具的信任上。
+    - 最近一篇在 reddit 網路論壇上測試人工智慧與人類生成結果的研究引發的爭議帶出了這個議題背後的爭議。
+3. 作為審議主持人，發現在審議討論的過程中其實還是有需要人類投入的。
+5. 人工智慧在整理資料與彙整資訊上，具有讓審議的過程變得更即時與動態的潛力（可以現場即時結合參與者提出的意見，進行修正
+
+### Anan 
+1. 請人工智慧生成或者是產出的意見，是否需要註明？如果不揭露，是否會讓他人誤以為是其他真人的意見？
+2. 如果大量意見來自 AI，決策者是否會失去對參與品質的信任？
+3. 3. 參與門檻與公平性
+    * 有人因語言或表達能力差，需要靠 AI 才能參與。揭露會讓他們被標籤嗎？
+    * 有錢人可用 GPT-4，沒錢的只能用免費版本，這樣是否不公平？
+4. 具體揭露方式
+    * 是否應該在論壇留言或問卷回饋上設置「是否使用 AI 協助」的勾選？
+    * 是否應設計技術性自動偵測 AI 文本的機制？（如 spam check）
+
+### Yu ting
+1. 與人工智慧互動確實會影響人類的意見。不過目前的研究都是聚焦在審議場合之外。
+    - 實驗：利用一段文字，標註有 AI 以及由人類生成，看看受試者對於這段文字的反應是什麼。
+3. 審議的過程中有很多很難標準化的內容，或許可以透過準實驗的方式來討論我們想要討論的變項。
+    - 如果要做實驗的話，參與者的背景與主題上可能也都要控制。
+
+### Tim
+1. AI 可以應用的地方：
+    - 討論 (實體 or 線上) → [對話逐字稿] → [重點摘要 (爭點 or 共識)] 
+2. 對於 AI 的揭露是可以做，也可以不做的
+3. 從上一次議題小聚的經驗來看，由 AI 來提供基本素材（將討論內容轉成逐字稿），再由人類來檢查，檢查後再來餵給 AI進行重點摘要的內容，可以節省人力。
+4. 目標是讓討論能夠延續，甚至是持續修正。
+5. 對於是否要揭露，在意的是錯誤能不能夠被修正的機制，因為人跟 AI 都有可能犯罪，藉由設計機制來做錯誤修正，是比較重要。

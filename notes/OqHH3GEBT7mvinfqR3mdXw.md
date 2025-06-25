@@ -26,3 +26,7 @@ iOS 開發的時候會需要辨認你的APP都是用identifier，啟用 **APP Gr
 ![操](https://g0v.hackmd.io/_uploads/BkvdrWhXle.png)
 
 ![](https://g0v.hackmd.io/_uploads/rJxWsrbhQeg.png)
+
+## url scheme
+xrlab-{productname}://
+xrlab-{productname}://?{參數1}={值1}&{參數2}={值2}...
