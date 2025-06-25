@@ -183,9 +183,6 @@ https://www.facebook.com/groups/twroadclub/permalink/2432209236958837/
 待確認
 https://www.facebook.com/share/p/15eWhdSKoZ/
 
-內湖
-https://www.facebook.com/share/p/JbMb9CfTF9ogpWzZ/
-
 林森北民生路口
 https://www.facebook.com/share/p/25D3C6MW9jGAXAmW/
 
@@ -220,11 +217,6 @@ https://www.facebook.com/share/p/16LbkkNP15/?mibextid=wwXIfr
 
 西園路306巷
 https://www.facebook.com/share/p/1DSFZtzk7N/?
-
-汐止
-https://www.facebook.com/rexizhi/posts/pfbid0WMEGKvWCBbeD1dDA2QpWcyq5D7nxXWWnZjzj63ZUp4xYVFVy9n5XKJUTfmzCVivyl?locale=zh_TW
-
-
 
 中和 景平路
 https://www.facebook.com/share/p/QykA5Q8qhkRoqHR6/
@@ -347,9 +339,6 @@ https://www.facebook.com/100083131440923/posts/pfbid026vZgX1NoSSJqPwhaTEj69r5dhH
 
 臺中市清水區中山路
 https://www.facebook.com/share/p/PzwiRdy5t61WRBH5/
-
-南投土城國小
-https://www.facebook.com/share/v/iGaX1p4TEVngHpXo/
 
 彰師大附近 進德路標線改造工作坊
 https://www.facebook.com/share/p/kmQB4qVtSRErc1Mw/
