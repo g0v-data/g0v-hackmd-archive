@@ -13,3 +13,9 @@ chewei> 測試 讓 LLM 控制 double 3 可移動機器人
 - https://www.facebook.com/groups/jothon.sch001/posts/1251744639685272
 - https://g0v.hackmd.io/@jothon/robot
 
+台灣黑熊影像辨識專題
+- Python 
+- 介紹 g0v Slack #ohshwan 頻道
+
+軟體工程師的職能光譜
+
