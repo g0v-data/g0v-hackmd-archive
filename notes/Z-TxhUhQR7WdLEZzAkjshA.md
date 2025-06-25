@@ -13,6 +13,7 @@
 (黃吉祿)https://meet.google.com/cup-xvnz-uog
 (羅堂國)https://meet.google.com/pga-bzti-ppi
 (斗三廠)https://meet.google.com/ctb-jjiu-ept
+(慧穩)https://meet.google.com/jmz-bfyg-ikh
 
 #### CISCO
 :bulb:參加，不是登入，不須安裝，記得輸入暱稱，蘋果系統請用Chrome、Safari
