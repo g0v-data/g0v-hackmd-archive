@@ -6,6 +6,7 @@ tags: vTaiwan小松
 地點 Location ：線上 Online
 參與者 Participants:  Peter, 釋阿南Anan, Tim,Yu-Ting,Joey,新朋友Fides
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
+參考資料：TFGA企劃書https://docs.google.com/document/d/1UfsMGqsvY-TgUkIOeo7IfsWD_GphcjqDoO97R6cvHnE/edit?tab=t.0#heading=h.xjg3kp3jjpfh
 
 1：今日邊討論邊建立「AI 用於數位公民參與經驗共筆」共筆：https://g0v.hackmd.io/nJUYukWFSWuEsG-XQalHcA
 
@@ -13,6 +14,8 @@ tags: vTaiwan小松
 Peter：（Peter先講述一遍上次大家提出的五個主題）。TFGA進行的方式會和議題小聚一樣，禮拜天會有一次電話會議。
 
 Tim:想先問一下Bestian提的主題不適合的原因是？
+
+～沒有參加小聚的翊婷想補充～我非常非常喜歡Bestian的提案！甚至就是我的博士論文想要回答的問題之一。只是當初TFGA申請這筆網路研究經費時有寫一個proposal（連結有附上共筆中歡迎大家參考），所以雖然討論方式很彈性，但討論主題還是不能偏離企劃書太多。這一題我個人認為比較偏向一個「政策問題」（關於公眾意見諮詢機制的設計優劣），而不是一個單純的網路政策問題。不過這是我個人的想法，完全歡迎大家看過企劃書之後一起思考討論有沒有符合～然後我私心希望之後小聚還有機會討論這一題！
 
 Peter:主要是TFGA（Sponsor）會希望是和網路治理相關，Peter和Yiting翊婷討論的結果是Bestian提出的比較偏向公共政策和政府落實，但是不代表不能在議題小聚討論。
 
