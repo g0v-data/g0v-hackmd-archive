@@ -75,16 +75,16 @@ tags: food,
 ## 冰 / 豆花 / 甜點
 
 [正宗建中黑砂糖刨冰｜Shaved Ice with Black Sugar](https://maps.app.goo.gl/zwgFAL5Vs3doHtHq5)
-- am11:30-pm6[name=Lucky Chen]
+- am11:30-pm6 [name=Lucky Chen]
 - PM5 推薦
 
 豆味行 
 - 南昌路上 https://maps.app.goo.gl/bojT1jbHKLcWBdYN9
-- 週日休息Q[name=Lucky Chen]
+- 週日休息Q [name=Lucky Chen]
 - clkao 推薦 
 
 [(甜點) 生活在他方｜Sweets](https://maps.app.goo.gl/5N7juD8iDYn6BkMw6)
-- am9:30-pm10[name=Lucky Chen]
+- am9:30-pm10 [name=Lucky Chen]
 - 不切片的整模蛋糕清單 
     - https://reurl.cc/ze14o7
     - 要提早預訂
@@ -94,74 +94,74 @@ tags: food,
 ## 午餐 / 晚餐
 
 - [秘魯烤雞 Polleria｜Peruvian grilled chicken](https://maps.app.goo.gl/VeQb4nf29gNNXU6Z6)
-- am11-pm8:30[name=Lucky Chen]
+- am11-pm8:30 [name=Lucky Chen]
 - yellowsoar 推薦
 
 [(乾咖哩) Ebisu 咖哩｜Dried curry](https://maps.app.goo.gl/EZ4Gw6ZHB5q85Nnk8)
-- am11-pm2:30, pm5-7:30[name=Lucky Chen]
+- am11-pm2:30, pm5-7:30 [name=Lucky Chen]
 - yellowsoar 推薦
 
 [(濕咖哩) 原味咖哩屋｜Wet curry](https://maps.app.goo.gl/GN2jrmjqsnipKy7X9)
-- 週日休息Q[name=Lucky Chen]
+- 週日休息Q [name=Lucky Chen]
 - yellowsoar 推薦
 
 [(麻辣鴨血) 懿品小珍｜Spicy duck-blood pudding](https://maps.app.goo.gl/pe3MiHm1vEA9aXjKA)
-- 週日休息Q[name=Lucky Chen]
+- 週日休息Q [name=Lucky Chen]
 - yellowsoar 推薦
 
 [(台式簡餐) 一品食棧｜Taiwanese set meal](https://maps.app.goo.gl/FCCTukBMGKzz1vbA6)
-- g地圖標記永久歇業[name=Lucky Chen]
+- g地圖標記永久歇業 [name=Lucky Chen]
 - yellowsoar 推薦
 
 [(小籠湯包) 黄龍莊｜Xiaolongbao](https://maps.app.goo.gl/xzHxBuzpiRCyQ63x7)
-- am10-pm8:30[name=Lucky Chen]
+- am10-pm8:30 [name=Lucky Chen]
 - 日本語　https://www.taipeinavi.com/food/822/
 - yellowsoar 推薦
 - chewei> 日本朋友來訪社群空間的話，可以約聚餐於此
 
 [(韓式) 韓華屋｜Korean dish](https://maps.app.goo.gl/Hcca6CVJRgJJasUy8)
-- 週日休息Q[name=Lucky Chen]
+- 週日休息Q [name=Lucky Chen]
 - yellowsoar 推薦
 
 [(越南河粉) 阿麗｜Pho](https://maps.app.goo.gl/pXh4nz4Kg3Mhjh1V8)
-- am11-pm9[name=Lucky Chen]
+- am11-pm9 [name=Lucky Chen]
 - yellowsoar 推薦
 
 [(炒飯) 國賓炒飯｜Fried rice](https://maps.app.goo.gl/cDbVLymmggbPxtCy7)
-- am10:30-pm7[name=Lucky Chen]
+- am10:30-pm7 [name=Lucky Chen]
 - yellowsoar 推薦
 
 [(韓國餃子館) 安安小館｜Korean dumpling](https://maps.app.goo.gl/2xFB5BWZ1m6wCGBz9)
-- 週日休息Q[name=Lucky Chen]
+- 週日休息Q [name=Lucky Chen]
 - yellowsoar 推薦
 
 [金泰刀削小廚｜ Knife-shaved noodles](https://maps.app.goo.gl/roV2w8j9TAvHYCwM8)
-- am11-pm2, pm5-9[name=Lucky Chen]
+- am11-pm2, pm5-9 [name=Lucky Chen]
 - yellowsoar 推薦
 
 [(韓式便當) 以雪爾｜Korean bento](https://maps.app.goo.gl/a9C32xGbzNidTXmbA)
-- 週日休息Q[name=Lucky Chen]
+- 週日休息Q [name=Lucky Chen]
 - yellowsoar 推薦
 
 [(雲泰料理) 滇味泰廚｜Yunnan-Thai cuisine](https://maps.app.goo.gl/HKuqUKi4MJUBvX8w6)
-- am11-pm2, pm5-9[name=Lucky Chen]
+- am11-pm2, pm5-9 [name=Lucky Chen]
 - yellowsoar 推薦
 
 [(西式合集餐廳) 慢慢bistro｜Bistro](https://maps.app.goo.gl/BmZTf7Az3U4BzRCB6)
-- am11:30-pm9[name=Lucky Chen]
+- am11:30-pm9 [name=Lucky Chen]
 - yellowsoar 推薦
 
 [游記蟹殼黃｜Crab-Yellow Pastry](https://maps.app.goo.gl/k7muey1UqJ81bteY9)
-- 週日休息Q[name=Lucky Chen]
+- 週日休息Q [name=Lucky Chen]
 - yellowsoar 推薦
 
 由紀 
-- 中午~pm6:30[name=Lucky Chen]
+- 中午~pm6:30 [name=Lucky Chen]
 - https://maps.app.goo.gl/GsgnJw9QKbxwjDVN9?g_st=ic
 - YI> 這間日本人開的很好吃～～～ 味增湯還可以續碗！
 
 林家乾麵
-- am6-pm2[name=Lucky Chen]
+- am6-pm2 [name=Lucky Chen]
 - https://maps.app.goo.gl/9xM4kfHSBKJD5A6z7?g_st=ic
 - YI> 簡單吃吃的話林家乾麵也很不錯！
 
