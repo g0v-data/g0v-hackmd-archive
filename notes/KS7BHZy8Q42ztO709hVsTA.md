@@ -34,15 +34,15 @@ tags: food,
 
 披薩
 - Hungry Pans 夯堡 寧波店
-    - 週日am8-pm9[name=Lucky Chen]
+    - 週日am8-pm9 [name=Lucky Chen]
     - 特別的餐點
         - 雞腿披薩，披薩上面有一隻完整的雞腿 ...
 - 牯嶺街有 必勝客-南昌店
-    - am11-pm10[name=Lucky Chen]
+    - am11-pm10 [name=Lucky Chen]
 
 炸雞
 - 胖老爹美式炸雞 中正重慶店
-    - am11-am3[name=Lucky Chen]
+    - am11-am3 [name=Lucky Chen]
 
 肉類
 - 萬香台式烤鴨
@@ -55,7 +55,7 @@ tags: food,
 
 飲料：
 - npohub 一樓，咖博館-台北聚落店 https://www.facebook.com/KaBoGuan/
-    - am8:30-pm6[name=Lucky Chen]
+    - am8:30-pm6 [name=Lucky Chen]
     - 揪松團> 可以談包場，包場費用可以折抵餐飲飲料費，5/25 有包場並訂購飲料及早餐 (熱壓吐司)
 
 ## 清晨早餐 / 凌晨宵夜
@@ -166,41 +166,41 @@ tags: food,
 - YI> 簡單吃吃的話林家乾麵也很不錯！
 
 拎刀躁咖便當
-- am10:30-pm7:30[name=Lucky Chen]
+- am10:30-pm7:30 [name=Lucky Chen]
 - https://maps.app.goo.gl/eJ3ASxdunfbtg14W6?g_st=ic
 - YI> 以便當來說這家也不錯，主餐普普但配菜都蠻清淡健康又好吃的
 
 Hungry Pans 夯堡 寧波店
 - https://maps.app.goo.gl/wSUHKk2QEsCU1rp78
-- 週日am8-pm9[name=Lucky Chen]
+- 週日am8-pm9 [name=Lucky Chen]
 - ichieh> 這間是平價 subway 我記得燻鮭魚披薩之前買便宜又超大 之前辦活動都會叫就這間
 - chewei> 有看過雞腿披薩，一整隻雞腿在披薩上面
 
 養鍋
 - ichieh> 養鍋也滿好吃的，但是要吃比較久ＸＤ
-- am11-pm9[name=Lucky Chen]
+- am11-pm9 [name=Lucky Chen]
 - https://maps.app.goo.gl/b2xWaZj7G9G16H8F8
 
 福井
-- 週日休息Q[name=Lucky Chen]
+- 週日休息Q [name=Lucky Chen]
 - ichieh> 福井麵疙瘩湯頭好喝
 
 享之饌南昌店 台南虱目魚
-- am11-pm8:30[name=Lucky Chen]
+- am11-pm8:30 [name=Lucky Chen]
 - https://maps.app.goo.gl/cvJsqp8Yqbsx57uB6
 - ichieh> 虱目魚雖然贏不了台南，但是可以點一堆小東西，很爽
 
 金峰滷肉飯
 - ichieh> 金峰滷肉飯就是想吃滷肉飯很適合，而且滿快的
-- am11-pm11[name=Lucky Chen]
+- am11-pm11 [name=Lucky Chen]
 
 南門鯓丼
-- am11:30-pm2, pm5-8:30[name=Lucky Chen]
+- am11:30-pm2, pm5-8:30 [name=Lucky Chen]
 - https://maps.app.goo.gl/HH4cJdzMxfzi856X8
 - ichieh> 生魚片好吃、味噌湯很大碗
 
 虹品鍋貼水餃專賣店
-- am9-pm6:30[name=Lucky Chen]
+- am9-pm6:30 [name=Lucky Chen]
 - https://maps.app.goo.gl/17rBb612pttmbhfs9
 - YC> 大家都說CP值高
 
