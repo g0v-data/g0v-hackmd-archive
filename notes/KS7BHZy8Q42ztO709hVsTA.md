@@ -85,6 +85,9 @@ tags: food,
 
 [(甜點) 生活在他方｜Sweets](https://maps.app.goo.gl/5N7juD8iDYn6BkMw6)
 - am9:30-pm10[name=Lucky Chen]
+- 不切片的整模蛋糕清單 
+    - https://reurl.cc/ze14o7
+    - 要提早預訂
 - yellowsoar 推薦
 - chewei +1 千層小蛋糕
 
