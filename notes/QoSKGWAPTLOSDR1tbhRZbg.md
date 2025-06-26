@@ -74,9 +74,9 @@ Although the regime has changed, the world remains the same. Please join togethe
 ## Overview
 The South Korean civic tech group Parti (빠띠) has actively promoted citizen-driven fact-checking initiatives. One of its leading projects was the FactCheckNet (팩트체크넷), launched in 2020 as an open platform where citizens and professional media collaborated to verify misinformation.
 
-However, after a change in government, the Korea Communications Commission (KCC) accused the project of political bias and misuse of public funds. Under pressure from budget cuts and audits, the platform was shut down in early 2023. Parti is now continuing fact-checking activities on its own platform—Digital Civic Square (디지털시민광장)—in preparation for the 2025 presidential election.
+However, after a change in government, the Korea Communications Commission (KCC) accused the project of political bias and misuse of public funds. Under pressure from budget cuts and audits, [the platform was shut down in early 2023](https://v.daum.net/v/8LARFTsbEJ#:~:text=%EB%AA%BB%ED%95%98%EB%8A%94%20%EB%8D%B0%20%EB%8C%80%ED%95%B4%20%EC%82%AC%EA%B3%BC%20%EB%A7%90%EC%94%80%EB%93%9C%EB%A6%B0%EB%8B%A4%E2%80%9D%EA%B3%A0,%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94%2028%EC%9D%BC%20%EC%A0%95%EC%98%A4%EC%97%90%20%EC%A2%85%EB%A3%8C%EB%90%A0%20%EC%98%88%EC%A0%95%EC%9D%B4%EB%8B%A4). Parti is now continuing fact-checking activities on its own platform—Digital Civic Square (디지털시민광장)—in preparation for the 2025 presidential election.
 
-In parallel, KCC decided to impose heavy penalties on Parti, including an order to return subsidies and pay substantial fines. Parti has condemned these measures as "targeted oppression."
+In parallel, KCC decided to impose heavy penalties on Parti, including an order to return subsidies and pay substantial fines. [Parti has condemned these measures as "targeted oppression."](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003137718#:~:text=%EA%B7%B8%EB%8A%94%20,%EA%B3%A0%20%EB%A7%90%ED%96%88%EB%8B%A4)
 
 ## FactCheckNet and Other Related Projects
 ### FactCheckNet (팩트체크넷)
@@ -102,7 +102,7 @@ After FactCheckNet's termination, Parti independently launched a new fact-checki
 
 ### Political shift and shutdown
 - After the conservative administration came to power in 2022, criticism grew:
-    - The ruling party, People Power Party, called it a "left-leaning" initiative.
+    - The ruling party, People Power Party, called it a ["left-leaning" initiative.](https://www.newspim.com/news/view/20231004000756#:~:text=match%20at%20L435%20%EC%B5%9C%20%EB%B6%80%EB%8C%80%EB%B3%80%EC%9D%B8%EC%9D%80,%EA%B3%A0%20%EA%BC%AC%EC%A7%91%EC%97%88%EB%8B%A4)
     - Claimed media involved were mostly progressive or public, excluding conservative voices.
     - Pushed through steep budget cuts:
         - ₩2.74 billion in 2021 → ₩1.74 billion in 2022 → ₩610 million in 2023.
@@ -128,7 +128,7 @@ KCC responded with:
 Critics labeled this a "targeted audit" influenced by political motivations, especially since multiple media organizations aligned with the previous administration were audited and had leaders removed.
 (add media links)
 
-### Penalties on Parti
+### [Penalties on Parti](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003137718#:~:text=%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EC%9C%84%EC%9B%90%ED%9A%8C,7%EC%96%B5%205000%EC%97%AC%EB%A7%8C%20%EC%9B%90%EC%9D%84%20%EB%B6%80%EB%8B%B4%ED%95%B4%EC%95%BC%20%ED%95%9C%EB%8B%A4)
 - In February 2024, KCC ordered a refund of about ₩180 million.
 - On April 16, 2024, they imposed a ₩566 million fine on Parti (3x the refund amount).
 - Parti's total liability: ₩750 million (approx. $560,000 USD).
