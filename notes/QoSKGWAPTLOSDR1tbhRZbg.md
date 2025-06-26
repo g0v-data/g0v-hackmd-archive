@@ -102,13 +102,10 @@ After FactCheckNet's termination, Parti independently launched a new fact-checki
 
 ### Political shift and shutdown
 - After the conservative administration came to power in 2022, criticism grew:
-
     - The ruling party, People Power Party, called it a "left-leaning" initiative.
     - Claimed media involved were mostly progressive or public, excluding conservative voices.
     - Pushed through steep budget cuts:
-
         - ₩2.74 billion in 2021 → ₩1.74 billion in 2022 → ₩610 million in 2023.
-
 - On January 25, 2023, the board decided to dissolve the foundation, officially ending the service on February 28, 2023.
 - Despite the closure, groups like Newstapa and Parti declared they would continue citizen-based fact-checking independently.
 
