@@ -69,7 +69,7 @@ Although the regime has changed, the world remains the same. Please join togethe
 👉 https://campaigns.do/donate
 
 
-# ChatGPT's Deep Research for Parti's situation
+# More Information on the Context
 
 ## Overview
 The South Korean civic tech group Parti (빠띠) has actively promoted citizen-driven fact-checking initiatives. One of its leading projects was the FactCheckNet (팩트체크넷), launched in 2020 as an open platform where citizens and professional media collaborated to verify misinformation.
@@ -81,47 +81,35 @@ In parallel, KCC decided to impose heavy penalties on Parti, including an order 
 ## FactCheckNet and Other Related Projects
 ### FactCheckNet (팩트체크넷)
 - Launched in November 2020 as a citizen-participatory fact-checking platform.
-
 - Co-funded and operated by Parti, the Korean Journalists Association, the Broadcasting Reporters Federation, and the PD Association.
-
 - Enabled citizens to propose questionable claims for journalists and experts to investigate together.
-
 - Provided education programs, contests, and research support.
-
 - Participating media included Newstapa, NewsTof, Yonhap News, KBS, MBC, YTN, MBN, and others.
-
 - Served as a repository of verified content and developed tools like AI-based verification and deepfake detection.
 
 ### 2025 Presidential Election Fact-Check Project
 After FactCheckNet's termination, Parti independently launched a new fact-checking project via its Digital Civic Square to engage citizens in checking suspicious political information spreading on YouTube and social media.
 
 - Volunteers were recruited as “citizen fact-checkers.”
-
 - Aimed to foster a culture of public verification outside of mainstream media.
-
 - The project continues the philosophy of collaborative fact-checking from FactCheckNet’s legacy.
 
 ## Short History of FactCheckNet
 ### How it began
 - Originally initiated under the Moon Jae-in administration, supported by government budget.
-
 - Emphasized editorial neutrality and aimed to verify misinformation across political lines.
-
 - Achieved recognition from KCC as an “outstanding project.”
 
 ### Political shift and shutdown
 - After the conservative administration came to power in 2022, criticism grew:
 
     - The ruling party, People Power Party, called it a "left-leaning" initiative.
-
     - Claimed media involved were mostly progressive or public, excluding conservative voices.
-
     - Pushed through steep budget cuts:
 
         - ₩2.74 billion in 2021 → ₩1.74 billion in 2022 → ₩610 million in 2023.
 
 - On January 25, 2023, the board decided to dissolve the foundation, officially ending the service on February 28, 2023.
-
 - Despite the closure, groups like Newstapa and Parti declared they would continue citizen-based fact-checking independently.
 
 (add Links to media articles reporting about this)
@@ -177,9 +165,8 @@ KCC simultaneously announced a new fact-checking platform for 2024, replacing Pa
 - In a joint 2023 statement, Parti and the foundation stressed:
 
     - Their independence and dedication to civic collaboration.
-    - Fact-checking was a public good, not a political tool.
+    - Fact-checking was a public good, not a political tool. (add media links)
 
-- Parti chair Kwon Oh-hyun (권오현) called the penalties “clear oppression.”
 - Announced intent to fight through administrative litigation.
 - Called for public support, asserting:
 
