@@ -4,12 +4,17 @@ tags: GIS
 
 # [持續更新] Issue-Mapping 蒐集案例
 
+:::info
+目錄
+[TOC]
+:::
+
 摘：Our World in Data，將重要研究及資料群聚進行整理，集眾人之力來解決人類生活的迫切問題，包括貧窮、疾病、飢餓、氣候變遷、戰爭、生存風險，以及資源分配不平等。
 https://www.facebook.com/groups/odtwn/permalink/3551443634870029/
 
-尺度：全球
+# 尺度：全球
 
-天文 / 氣候 / 氣象 / 氣體 / 溫室氣體議題
+## 天文 / 氣候 / 氣象 / 氣體 / 溫室氣體議題
 天文與太空設施
 http://heavens-above.com/
 衛星位置
@@ -92,8 +97,7 @@ http://www.indcmap.com/#/tw
 Explore Changing Global Emissions through Interactive Maps
 https://www.wri.org/blog/2014/09/explore-changing-global-emissions-through-interactive-maps
 
-
-海洋 / 水體
+## 海洋 / 水體
 This is a beta release of the Blue Earth Data platform. The Blue Earth Data platform has been developed by Deltares as a free, web-based application to support the study and sharing of integrated water and subsoil-related data. The platform provides indicative data, which is primarily intended for professional specialists and researchers.
 https://blueearthdata.org/
 海洋垃圾互動式的地圖視覺化 (一個點代表 20kg)
@@ -137,8 +141,7 @@ The Global Flood Awareness System (GloFAS)
 https://confluence.ecmwf.int/display/CEMS/GloFAS+versioning+system
 https://www.facebook.com/story.php?story_fbid=pfbid02qLQpVsFSKFEm3HiySYguWpHSedZ7mtgrr31Nfvmy7K6Mev6cdGQAvJMof6JcdPmwl&id=100000212960177&mibextid=tejx2t
 
-
-地質 / 板塊 / 地形
+## 地質 / 板塊 / 地形
 EarthViewer
 http://www.hhmi.org/biointeractive/earthviewer-online-and-downloadable-version
 What did Earth look like 250 million years ago? Or 1 billion years ago? Or 4.5 billion years ago? What was the climate like in the deep past? Find the answers with EarthViewer, an interactive tool for exploring the science of Earth's deep history. From molten mass to snowball earth, EarthViewer lets you see continents grow and shift as you scroll through billions of years. Additional layers let you and your students explore changes in atmospheric composition, temperature, biodiversity, day length, and solar luminosity over deep time.
@@ -165,7 +168,7 @@ data sets 找 aster，其實 srtm 也是地形
 3D Visualization of Europe with EU-DEM
 https://arcg.is/1zz9e8
 
-土地使用 / 土壤
+## 土地使用 / 土壤 / 建築
 Landuse Map
 https://www.facebook.com/geog.an.mod/posts/452243804899302
 https://viewer.esa-worldcover.org/worldcover/
@@ -210,7 +213,7 @@ https://www.facebook.com/story.php?story_fbid=pfbid02EYSbGXWAVPyAaxjipFdEJVPGEb5
 Dark Sky Place
 https://www.darksky.org/our-work/conservation/idsp/finder/
 
-保護區 / 森林 / 農業
+## 保護區 / 森林 / 農業
 Nature Map Explorer 
 針對生物多樣性和生態系統服務，提供整合性、互動性的全球地圖。
 https://explorer.naturemap.earth/about
@@ -234,7 +237,7 @@ https://web.croplands.org/home
 有機農業
 https://www.facebook.com/ifoam.organic/photos/a.1410791649179273.1073741833.1393735517551553/2041497359442029/
 
-生物
+## 生物
 iNaturalist
 https://www.inaturalist.org/
 https://e-info.org.tw/node/215237
@@ -244,7 +247,7 @@ http://globeofbirdmigration.com/
 https://mapsengine.google.com/map/u/0/viewer?mid=zhQkwRnSnjCw.kbqeP6jqD3Lc
 這是一張曾經向日本太地買過鯨豚、間接成為太地屠殺海豚幫兇的海洋公園或水族館名單，把亞洲區地圖拉近放大之後會發現，遠雄海洋公園列名在其中
 
-災害風險 
+## 災害風險 
 Global Hazards Atlas
 http://atlas.pdc.org/atlas/
 A Global Landslide Potential Map That Updates Every 30 Minutes
@@ -255,7 +258,7 @@ https://gwis.jrc.ec.europa.eu/static/gwis_current_situation/public/index.html
 監測全球近即時的火災資訊資源管理系統 (FIRMS) 
 https://www.facebook.com/RiChiTech/posts/pfbid033n8ov7RTgeTgrJ3sSUYb31XygA8ELMjB2ke6o6Sr72K3A6VFdffgntETv1j22TcDl
 
-能源設施 / 基礎設施
+## 能源設施 / 基礎設施
 Open Infrastructure Map https://openinframap.org
 全球煤電互動查詢地圖
 https://www.carbonbrief.org/mapped-worlds-coal-power-plants
@@ -313,7 +316,7 @@ http://www.nature.com/nature/journal/v513/n7517/full/nature13717.html
 國家公園步道巡守通報系統
 http://140.109.160.184/ushahidi/main
 
-人口
+## 人口
 「ourworldindata.org」是一個透過資料視覺化了解世界的網頁平台，其中囊括了人口、保建、能源、環境等十來項上百類的資料集，全部使用 CC-BY-SA 創用授權
 https://ourworldindata.org/
 人口金字塔
@@ -343,7 +346,7 @@ http://www.visualcapitalist.com/map-worlds-borders-by-age/
 實際的國家大小比較，網頁工具
 https://www.thetruesize.com/
 
-社會經濟 / 物流 / 生活狀況
+## 社會經濟 / 物流 / 生活狀況
 For the first time ever, we can quantify economic resilience and the impact of a local economic shock on the production of specific sectors across the planet.
 https://eurekalert.org/pub_releases/2019-04/cshv-se041519.php
 https://www.csh.ac.at/economic-resilience-growth-recovery-prediction/
@@ -369,8 +372,9 @@ TasteAtlas is an encyclopedia of flavors, a world atlas of traditional dishes, l
 https://www.tasteatlas.com/search
 
 
-文化活動 / 訊息
+## 歷史地圖 / 文化活動 / 訊息
 世界歷史地圖套疊
+https://www.oldmapsonline.org/en
 https://docusky.org.tw/DocuSky/DocuTools/DocuGIS/
 Native Land Digital 原住民族生活地圖
 https://native-land.ca/
@@ -399,7 +403,7 @@ Culturomics 2.0
 http://firstmonday.org/ojs/index.php/fm/article/view/3663/3040
 Forecasting large–scale human behavior using global news media tone in time and space. News is increasingly being produced and consumed online, supplanting print and broadcast to represent nearly half of the news monitored across the world today by Western intelligence agencies. Recent literature has suggested that computational analysis of large text archives can yield novel insights to the functioning of society, including predicting future economic events. Applying tone and geographic analysis to a 30–year worldwide news archive, global news tone is found to have forecasted the revolutions in Tunisia, Egypt, and Libya, including the removal of Egyptian President Mubarak, predicted the stability of Saudi Arabia (at least through May 2011), estimated Osama Bin Laden’s likely hiding place as a 200–kilometer radius in Northern Pakistan that includes Abbotabad, and offered a new look at the world’s cultural affiliations. Along the way, common assertions about the news, such as “news is becoming more negative” and “American news portrays a U.S.–centric view of the world” are found to have merit.
 
-疫病
+## 疫病
 Ebola 
 https://data.hdx.rwlabs.org/ebola
 MERS 
@@ -412,7 +416,7 @@ http://www.pathomap.org/about/
 2019-nCoV（武漢肺炎）全球疫情地圖 Global Cases GIS Dashboard 
 https://hackmd.io/@billy3321/2019-nCoV
 
-世界衝突 / 平權 / 究責
+## 世界衝突 / 平權 / 究責
  Is Peace Possible
 http://www.ispeacepossible.com/introMap.asp
 Liveuamap 世界衝突新聞資訊
@@ -430,7 +434,7 @@ https://www.newyorker.com/culture/culture-desk/mapping-massacres
 蒐集關注於極權擴張的專案，部分專案使用地圖圖台方式呈現
 https://g0v.hackmd.io/7q0DFJNwQferSOOVwS7erw?view
 
-促進公民參與 / 行政創新
+## 促進公民參與 / 行政創新
 The Civic Tech Field Guide , Sharing knowledge and productively growing the field
 https://civictech.guide/
 Observatory for Public Sector Innovation - map
@@ -439,9 +443,7 @@ How can maps act as platforms for civic exchange? Let’s discuss case studies i
 https://cfasummit2014.pathable.com/mobile/meetings/228684
 
 
-
-
-尺度：城市 / 地區
+# 尺度：城市 / 地區
 Data Portals 
 http://dataportals.org/
 A Comprehensive List of Open Data Portals from Around the World
@@ -529,9 +531,10 @@ Dashboard http://citydashboard.org/london/
 窗花地圖
 https://www.tcyd.gov.taipei/News_Content.aspx?n=E4E2DCA91817195D&sms=D2E0850417A69077&s=A7C4F7800C1B4DFF&fbclid=IwAR3IDNk3qlG8kmZEwu4LAPEntRPvagG9oDRSxkRaLYXlQb-COk13SiaeOM8
 
-工具類
+# 工具類
 
-時間軸 / 地理輔助過程展示
+## 時間軸 / 地理輔助過程展示
+
 國家史 / 地區史，變動歷程簡要回顧案例
 https://docs.google.com/document/d/1k47KKBaPHZD0B_PaMUMu-erYQ-T45jzTPHKunkn3p-M/edit#heading=h.wb65lewwy3ay
 A network framework of cultural history
@@ -546,8 +549,7 @@ https://www.youtube.com/watch?v=lcMntFlk6LU
 「紐約計程車司機的一天」地圖資料視覺化 
 http://nyctaxi.herokuapp.com/
 
-工具
-蒐集頁面
+## 工具蒐集頁面
 https://g0v.hackpad.tw/EJfaf9C5gaT
 http://www.synthicity.com/
 The GeoCanvas platform is our initial release of technology, and provides users with incredibly simple and fast 3D data visualization for exploring their cities and regions.
@@ -595,7 +597,7 @@ MapIt http://mapit.mysociety.org/
 MapIt was written back in 2003 as a postcode lookup to power the original mySociety sites such asWriteToThem. Over time it gained features such as point lookup (for FixMyStreet), and when Ordnance Survey data became freely available in 2010, it was rewritten and made public for the whole UK. Versions have appeared in other countries, such as Norway, and in 2012 we released a global version based on OpenStreetMap data.
 室內定位：http://indoo.rs/ - It didn't take long since it was founded in 2010 for “indoo.rs” to become the indoor positioning and navigation technology leader. We believe that indoor (In-Location) is the next evolutionary milestone for the positioning and navigation industry. For this reason, we work day in day out to “get indoor location-based services available on every device”.  
 
-整合實境的遊戲 / 企劃訓練
+## 整合實境的遊戲 / 企劃訓練
 すごい災害訓練DECO - 地域の想定される震災の規模・内容を知る サバイバルスキルを学ぶ 基礎的なファーストエイドや医療サポーターとしてのスキルを学ぶ 地域コミュニティを知る 災害時のリーダーシップやチーム構築について学ぶ IC T スキルを高める
 http://sugoisaigaikunren.org
 世界防災・減災ハッカソン 2/8(土)-9(日) 
@@ -606,14 +608,14 @@ Geocaching 非官方中文討論區 http://www.geocaching.com.tw/forum/index.php
 Run An Empire，把實體環境結合進虛擬的圈地遊戲，只要你輸入住家所在地，它就會把附近的地圖算進遊戲的範圍，你只要帶著手機在住家附近跑一圈，這塊地就歸你所有，作為你的領土，不過如果有其他玩家繞過你的領土，這塊地馬上就會變成他的。為了要擴大新領地和維護舊領土，建立自己的帝國，你勢必得時不時的親自「巡視」，才能把地都圈成自己的，成為遊戲排行榜的冠軍。http://www.biosmonthly.com/contactd.php?id=4598
 During play testing we identified two common player behaviours – some wanted to hunt down as many different objects as possible, and some wanted feel a sense of connection and ownership over one, or two, particular objects.We built inter-object variety into the mechanic to reward the exploring players – post boxes would tend to ask questions about correspondence with friends; bus stops would ask about travel; bridges would ask about boats and river life.http://panstudio.co.uk/folio/hello-lamp-post/
 
-
-待分類
+## 待分類
 Let’s Build an Open Zoning Data Standard https://andrewsalzberg.wordpress.com/2013/02/22/lets-build-an-open-zoning-data-standard/
 http://www.lowyinstitute.org/global-diplomacy-index/
 https://www.staridasgeography.gr/
 
 
-工作討論區
+---
+# 工作討論區
 
 TODOs
 
@@ -628,8 +630,6 @@ Issue Mapping
 主題類別：
 技術方案：
 推動單位或機構：
-
-
 
 
 
