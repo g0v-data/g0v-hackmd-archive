@@ -110,6 +110,8 @@ tags: 公有地大行動, 可能的空間, edu
     - [http://www.248.com.tw/?p=8845#more-8845](http://www.248.com.tw/?p=8845#more-8845)
 - 新竹縣橫山鄉 
     - https://www.facebook.com/665294629/posts/pfbid0APPwSQdzYujh5dKar7zhrrpF7J5f8WfQyTcRQUzssxgxFXEgLZ8vheue5SYu9FMUl/
+- 臺南市新營區新橋國小
+    - https://www.facebook.com/share/v/1DvKMzjewD/
 - 台東縣長濱鄉，廢校改建成的日照中心，亦是首座依循失智症需求而造的建築典範。建築設計處處為失智者著想，除了營造一個家的環境，從徘迴行為的園藝迴路空間設計、阿美族文化技藝學習、時序認知訓練、健康促進體適能訓練、走入式浴缸沐浴，還有貼心的狗醫生專區，都為讓長者能延緩老化。
     - [https://donations.eden.org.tw/detail.php?detailId=JCUxODYjIQ==](https://donations.eden.org.tw/detail.php?detailId=JCUxODYjIQ==)
 - 高雄市中心的大同國小，隔著操場，前方是國小師生上課的教室，而後方，同樣是教室的外觀下，已成為大同醫院社區健康發展中心所設置的日照中心──大同福樂學堂。
