@@ -30,6 +30,8 @@ https://www.facebook.com/share/v/15p7HWGoN5/
 Line 的翻譯機器人
 https://www.facebook.com/share/p/1Asz4SaySK/
 
+
+
 ## 文字資料彙整清理
 
 本次分享專案 星河計畫，有運用 GPT 將 自學生經驗分享文章內容，產出該文章的 特點標籤，並將標籤存到 notion 資料表，便於查找自學經驗，共筆：https://g0v.hackmd.io/8-A_6dbSTOuRdzymvd9Q0Q
@@ -83,6 +85,11 @@ https://www.facebook.com/share/15repbf7df/
 
 提供描述文字，繪製出地理範圍
 https://www.facebook.com/share/r/15zB8zhUny/
+
+## 影片上字幕
+
+字幕檔製作大解放！Google AI Studio + Gemini 一步到位，輕鬆搞定 YouTube 影片字幕
+https://cychen59.blogspot.com/2025/06/google-ai-studio-gemini-youtube.html
 
 ## 影音內容處理
 
