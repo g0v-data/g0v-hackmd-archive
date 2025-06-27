@@ -30,6 +30,20 @@ tags: 都市農耕
 - 日本
     - https://m.facebook.com/story.php?story_fbid=pfbid02txoc3579yrm9HxfbZ6Tj4NdrR1Z8v9RndnhRqaw6QJGZoPUUmiSamw9zUou64yALl&id=143709675693636
     - https://fb.watch/gzBm7a7S7E/
+    - 表參道商業大樓6樓星巴克外的屋頂花園有都市農園
+        - UFC 小型農園 @ 表原之森
+        - URBAN FARMERS CLUB（城市農夫俱樂部）
+        - Cultivate the Future（耕耘未來）
+        - 表原蔬菜之森
+        - 自 2018 年春季起
+        - 誕生於表原之森的小小菜園
+        - 這是一塊由都市型農業「都市農耕（Urban Farming）」活用大樓屋頂與空地等區域作為農園或田地所打造的空間，實際由特定非營利活動法人「城市農夫俱樂部」所營運推動。
+        - 這片菜園中栽種了許多的「育ち」（成長）。
+        - 我們從讓當地孩子們參與種植體驗的教育項目開始，讓這座城市中的人們逐漸參與並了解都市農業。
+        - 在這裡，大家一同耕作、種菜、收穫並享用自己栽種的蔬菜。
+        - 這些活動促進了人與人之間的連結，讓這座城市誕生出新的社區關係。
+        - 透過今後的推廣活動與產品開發，不僅是提升農業技術，我們希望這塊田地能夠成為更多「育ち」（成長）的起點，讓更多人參與其中。我們相信這將能帶來更豐富美好的未來。
+        - 主辦單位：東急不動產｜Kewpie｜伊藤園
 - 德國，廣場
     - https://www.facebook.com/share/p/2v8uGQYoMKdrEayn/
     - https://www.luebeck-tourismus.de/altstadt/poi/uebergangsgarten
