@@ -1,3 +1,7 @@
+---
+tags: korea, 
+---
+
 # Parti's official statement to the claims of Korea Communications Commission
 
 https://coop.campaigns.do/posts/xlto82G
