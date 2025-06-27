@@ -54,7 +54,7 @@ https://ec.ltn.com.tw/article/breakingnews/4900354
 - Cofacts 真的假的是一個透過群眾協作以及聊天機器人來做事實查核的可疑訊息查證平台，讓每一個不確定真假的訊息，都能透過群眾的共同努力，被好好檢視跟查核討論 https://cofacts.tw/
 - 【移？老娘開新房第4季第3集｜讓移工變成打擊詐騙的好幫手】
     - https://www.facebook.com/tasat2003/posts/pfbid0qTisgCuwKozhjEGSTpuRfjPWa6r2gLen1DecANFVwmi8iKN5wgHXQPGNYvZLLtn4l
-
+- 悠遊卡 https://www.facebook.com/share/p/1Adtg5Wbd9/
 ### 通報
 
 - 數發部《網路詐騙通報查詢網》App 
