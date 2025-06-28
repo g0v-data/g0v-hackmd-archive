@@ -1,4 +1,4 @@
-![](https://g0v.hackmd.io/_uploads/S1i2Z_s4ex.png)
+
 ![](https://g0v.hackmd.io/_uploads/rk8h-uiNgg.jpg)
 
 [5679](https://5679.co.com/) thường xuyên tổ chức sự kiện tặng thưởng, quay số trúng thưởng và phát code miễn phí cho hội viên. Bạn có thể nhận thêm quà hàng tuần khi tham gia chơi đều đặn. Tất cả chỉ có tại 5679 – nền tảng cá cược thân thiện và uy tín.
