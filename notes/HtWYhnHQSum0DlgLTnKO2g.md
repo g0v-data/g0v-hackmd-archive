@@ -45,13 +45,20 @@ GA: UA-98468513-3
 
 ##### ⛔️ Release Blockers
 
-## 其他分享
+## CCPRIP
 
-## :writing_hand: 新增議題
+### Transcript
+
+> - [20250219 error](https://g0v.hackmd.io/qL-wd2bNSzGyKNLhb0dTaA#%E2%9B%94%EF%B8%8F-Release-Blockers)
+> - [20250224 各種分析](https://g0v.hackmd.io/10oQ0SXwToG7xu_YxJ37wg#LLM-Transcript-update)
+
 
 ## :speech_balloon: 討論
 
 ## :white_check_mark: 結論
+
+
+
 
 ## :calendar: Next meeting
 
