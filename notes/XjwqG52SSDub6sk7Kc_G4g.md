@@ -154,7 +154,7 @@ Peter:我會再問Yiting翊婷 和 Josh。現在來討論時間，阿南七月�
     - 場地：
         - MPO HUB g0v 社群空間（暫定）
     - 有興趣來玩的話，在下面＋＋
-    ＋1[name=阿南Anan]
+    ＋1[name=阿南Anan] -1 ( 8/1行程有變，不在台灣 ）
     
     - 主題：三選一
         - [AI 吉卜力商業利用的相關爭議](https://www.dcard.tw/f/mood/p/258576183?cid=824C97FA-F86C-4163-8970-4A5732468ED7)
