@@ -35,7 +35,7 @@ https://www.youtube.com/live/dgAEF2ppKg8?si=p-si6O8N2AbKzfVa
 麥塊經典板  https://www.crazygames.com/game/minecraft-classic
 https://poki.com/zh#
 poki https://poki.com/zh#utm_source=redirect-en-zh
-Draw To Smash    https://poki.com/zh/g/draw-to-smash-logic-puzzle
+happy-glass    https://poki.com/zh/g/happy-glass
 遊戲網站    https://www.crazygames.com
 遊戲網站    https://cn.game-game.com
 遊戲天堂    https://www.i-gamer.net/
