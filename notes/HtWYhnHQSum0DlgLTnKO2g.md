@@ -61,8 +61,6 @@ GA: UA-98468513-3
 
 ## CCPRIP
 
-
-
 ## :speech_balloon: 討論
 
 ## :white_check_mark: 結論
