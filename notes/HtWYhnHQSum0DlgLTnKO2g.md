@@ -9,6 +9,7 @@ GA: UA-98468513-3
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
 - 線上出席：
+- NPO Hub 出席：bil, mrorz, nonumpa
 - Gather Town: https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -19,7 +20,6 @@ GA: UA-98468513-3
 * **資訊安全**: Johnson 將協助取得管理者權限、邀請大家使用 cofacts.tw email，並移除其他非 cofacts.tw email 的權限。
     * 尚無更新
 * **小聚場地預定**: 確定小樹屋的時間（十月）。
-* **期末感恩茶會場地預定**: 確定 12/28 期末感恩茶會的場地及細節。
 * **Release pipeline - Site**: 影片問題 (影片比較久、會有 error、單傳影片沒有反應)。
   > - [20250219 error](https://g0v.hackmd.io/qL-wd2bNSzGyKNLhb0dTaA#%E2%9B%94%EF%B8%8F-Release-Blockers)
   > - [20250224 各種分析](https://g0v.hackmd.io/10oQ0SXwToG7xu_YxJ37wg#LLM-Transcript-update)
@@ -46,17 +46,18 @@ GA: UA-98468513-3
 
 ##### Testing checklist
 
-- [ ] 應可送出「全新影片訊息」
+- [x] 應可送出「全新影片訊息」
   - 需 < 32MB
   - 處理超過 100 秒會壞掉，正常現象；production 可以超過 100 秒
+  - 3 分鐘的影片處理得久一點，但結果不錯 [name=bil]
+  - 剛好「好、請繼續」和「要送出新訊息」的詢問在同時出現，log 看起來是巧合 [name=nonumpa]
 
 ##### ⛔️ Release Blockers
+
 ##### 未竟項目
 
-#### :globe_with_meridians: Site
-##### Testing checklist
-
-##### ⛔️ Release Blockers
+- Optional: staging 限制太多的話，可以考慮 staging LINE bot 也拉回到 staging server 裡處理
+  - 這樣就能跟 production 一樣，設定成直接走 docker network 不過 cloudflare [name=mrorz]
 
 ## CCPRIP
 

@@ -2,8 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [cofacts](tags/cofacts.md) | 497 | 2025-06-30T10:05:31+00:00 |
-| [ meeting note](tags/%20meeting%20note.md) | 20 | 2025-06-30T10:05:31+00:00 |
+| [cofacts](tags/cofacts.md) | 498 | 2025-06-30T12:45:46+00:00 |
+| [ meeting note](tags/%20meeting%20note.md) | 21 | 2025-06-30T12:45:46+00:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 35497 | 2025-06-30T10:03:18+00:00 |
 | [vTaiwan小松](tags/vTaiwan%E5%B0%8F%E6%9D%BE.md) | 330 | 2025-06-29T14:50:04+00:00 |
 | [txt](tags/txt.md) | 1 | 2025-06-29T13:34:19+00:00 |
