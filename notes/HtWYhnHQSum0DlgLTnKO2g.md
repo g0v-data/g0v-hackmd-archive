@@ -28,8 +28,6 @@ GA: UA-98468513-3
 * **CCPRIP - Analytics**: 解決 Opendata article trend, article 超過 100MB 問題、LINE Bot menu & notification usage 壞掉的表。
     * 尚無更新
 
-* **大松籌備**: 填寫 https://g0v.hackmd.io/@jothon/g0v-hackath68n/https%3A%2F%2Fg0v.hackmd.io%2Fs%2FSOC。
-
 ## :potable_water: Release pipeline
 
 ### :star: Released to production
@@ -39,7 +37,7 @@ GA: UA-98468513-3
 #### :electric_plug: API
 
 - GraphiQL https://github.com/cofacts/rumors-api/pull/372
-- 6/23
+- 6/23 carry over
   - https://github.com/cofacts/rumors-api/pull/369
   - https://github.com/cofacts/rumors-api/pull/370
   - https://github.com/cofacts/rumors-api/pull/371
@@ -62,7 +60,7 @@ GA: UA-98468513-3
 
 ## CCPRIP
 
-### LLM based category & new `worker` repository
+### [Comm] LLM based category & new `worker` repository
 
 - 想實作在新 repo https://github.com/cofacts/worker
 - 用 cloudflare workflow 週期性地呼叫 API 處理
@@ -82,11 +80,16 @@ GA: UA-98468513-3
         - cost
         - accuracy & confusion matrix
 
-### cofacts.ai
+### [Comm] cofacts.ai
 
 > https://g0v.hackmd.io/@cofacts/rd/%2FmU8qi721RZeAQ9PDfj7XRA#Functionality
 
-mrorz@g0v-tw 發現 Gemini API 可以直接讀取 URL context，這樣就不用自己爬下來再餵給他 <https://ai.google.dev/gemini-api/docs/url-context>
+> mrorz@g0v-tw 發現 Gemini API 可以直接讀取 URL context，這樣就不用自己爬下來再餵給他 <https://ai.google.dev/gemini-api/docs/url-context>
+
+- 這樣其實就能先做 groundness check agent
+- 查訊息是否有出處 back 其文字，跟查特定回應文字是否有出處 back 其文字，都很方便
+- 本來還想說是不是要先弄個 archivebox 啥的去處理 URL fetch，但 gemini API 有內建 tool 很完美，這樣只要準備 prompt 就好
+- 可以直接做進 beta.cofacts.ai
 
 
 ## :calendar: Next meeting
