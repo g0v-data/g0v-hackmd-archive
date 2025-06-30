@@ -242,21 +242,6 @@ https://sch001.g0v.tw/dash/prj/PYT0Zh11Dx0fE99.57SCnBr.FZPRb8
 
 桃園市蘆竹區忠孝西路桃園街口至中正路口的人行道標線完善之後又被塗消掉
 
-新竹圓環
-https://www.facebook.com/story.php?story_fbid=pfbid0eMaAHuR46wWBrmxAxbB42w5XpYf35TZaKK7esL5Lt1BqpbZxhFpaSCKZSaPAC49Ql&id=100063883987874&mibextid=qC1gEa
-
-新竹市 北大路民生路
-https://www.facebook.com/share/p/bJDRpRk8v7HsLbeB/
-
-新竹 圓環標線
-https://www.facebook.com/share/hteyC1xFimiJurss/?
-
-新竹
-https://www.facebook.com/100064848694500/posts/pfbid02P1YrjWqM4RhQfVzs9NDHcLFM3MAAEv9FHpGd3qTgXJiwNEfge1s2gsguxqegrTzFl/
-
-新竹 龍山東路 圓環
-https://www.facebook.com/share/x7UeUm4rVQJRz4K1/
-
 新竹
 https://www.facebook.com/story.php?story_fbid=pfbid0YHMSn8SxNPH1jTX1XWETbs6J151cBW8TYoZj6aiEudZ2cL1Px5gMLCoztb67PCeyl&id=100049204915573&mibextid=qC1gEa
 
