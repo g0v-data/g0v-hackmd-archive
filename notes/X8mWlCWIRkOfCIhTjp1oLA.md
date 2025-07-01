@@ -266,16 +266,6 @@ https://maps.app.goo.gl/xr6tN8ymyQKHrWT37
 https://www.cna.com.tw/postwrite/chi/357789
 新聞
 
-新竹縣
-https://www.facebook.com/100043971317246/posts/pfbid028fq5fVTBp8q2jhQhsP1ecWknCxminf4pXuGd5QkMgbZvF4Lz3LN8unNVW9uFUmnZl/?mibextid=cr9u03
-
-苗栗
-https://www.facebook.com/story.php?story_fbid=pfbid0PeX7b3dXG5EHyNmj4XQtaAxrZTorGsoQ4VJ9ApgGHCn3YtsJA5BbmD16bDHvuejnl&id=100064848694500&mibextid=qC1gEa
-
-後龍西濱
-https://www.facebook.com/story.php?story_fbid=pfbid0AR1NLQ2AkBvgJNa9DHyBiSdWSqiYSghfcMuS3o8TsTJkK5MReCXNnsByMPb5oT92l&id=100044140104250&mibextid=qC1gEa
-https://www.facebook.com/story.php?story_fbid=pfbid0oYXBroe3GLhRmY9jizXFdWBfnrDHUU1n58eq2wF71acc2sQvSdf5meBZRqVR1LGnl&id=100044140104250&mibextid=qC1gEa
-
 112年臺中市騎樓整平專案工程委託設計監造技術服務案
 (一)優先施作路段(路段長約 13,600 公尺)
 1、北區:雙十路一段(精武路至錦南街),兩側總長約 1,760 公尺。
