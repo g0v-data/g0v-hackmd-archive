@@ -64,3 +64,62 @@ Human validation ensures democratic accountability, particularly around AI-gener
 3. 從上一次議題小聚的經驗來看，由 AI 來提供基本素材（將討論內容轉成逐字稿），再由人類來檢查，檢查後再來餵給 AI進行重點摘要的內容，可以節省人力。
 4. 目標是讓討論能夠延續，甚至是持續修正。
 5. 對於是否要揭露，在意的是錯誤能不能夠被修正的機制，因為人跟 AI 都有可能犯罪，藉由設計機制來做錯誤修正，是比較重要。
+
+### 
+
+General questions (context)
+Tell us about your role in the local government and in the process of public engagement/participatory democracy .....
+
+How many people work in your organization (approximately) ?* (How many people (in full time equivalent) inside your organization work on the platform, to design it, maintain it, support discussions, analyze the data, etc.?)
+
+
+For how long have you been involved in …..
+Community;
+Who are the end users, how do they interact with AI…. 
+How do you ensure broad and equitable access to the platform, especially for marginalized or digitally excluded groups?
+Have you observed differences in participation across demographics (age, gender, location, digital literacy)?
+What languages or accessibility features are supported?
+What is the size of your community/constituent i.e. number of people in target audience? *
+
+
+
+Platform questions
+What motivated your organization to use an AI-enabled digital participation tool /incorporate AI tools and digital participation platforms into your participatory programs?
+How did you select the AI and digital tools used in your programs?
+Were the tools custom-built, adapted from existing platforms, or commercially available?
+What features or capabilities (AI or otherwise) were most critical when choosing or designing these tools?
+Who configured and set up the platform for you?
+Describe potential opportunities and challenges in using AI in digital participation platforms and programs, including: 
+Technical and ethical considerations
+Adapting for biases in underlying data
+Equity and inclusion considerations.
+When to translate content
+Can you describe how the platform works in practice? (E.g., how citizens interact with it, what kind of input it collects.)
+ What types of data or feedback are you collecting through these platforms?
+ How is AI used in processing or analyzing participant contributions?
+How do you communicate how AI is being used to the public?
+
+
+What measures are in place to ensure the transparency of algorithms and decision-making processes?
+How do you handle data privacy and consent from participants?
+Expertise: Do you have the expertise to the platform internally or did you hire external support?
+Cost questions?? 
+
+
+Benefits & Impact questions 
+What benefits for the government have you seen from public participation in general? From the participatory democracy method (e.g citizen assemblies, participatory budgeting, public consultation, participatory policymaking etc) specifically? 
+What advice would you give other governments that are debating whether to implement digital participation? Have you faced any challenges that others should be aware of?
+What benefits have online options added to the process? 
+Possible prompt question: How has the online platform changed the relationship between the local government and residents?
+What have you done to ensure the online PD process is inclusive?
+Can you share any tangible outcomes or policy changes that resulted from citizen input gathered via these tools?
+
+
+Have there been any unexpected findings or impacts?
+What metrics or indicators are you using to evaluate the success or effectiveness of the program?
+
+Challenges  & lessons learned
+
+What have been the biggest challenges in implementing AI-enabled participation platforms?
+Were there any ethical, technical, or political issues that emerged?
+What lessons have you learned that would be useful for others considering similar approaches?

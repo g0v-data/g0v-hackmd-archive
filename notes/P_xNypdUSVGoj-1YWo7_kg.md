@@ -4,8 +4,11 @@ tags: vTaiwan小松
 # 20250702 vTaiwan 小黑客松
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants:  Peter, 釋阿南Anan, Tim, Yu-Ting, Joey, Bestian, 新朋友Fides
+參與者 Participants:  Peter, 釋阿南Anan, Tim, Yu-Ting, 翊婷, Bestian, Josh
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
+
+![](https://g0v.hackmd.io/_uploads/H1imkjMBeg.png)
+
 
 ::: success
 ## 專案儀表板：目前 vTaiwan 社群在進行的事情 
@@ -49,11 +52,13 @@ tags: vTaiwan小松
 
 ## 小小的分享
 > 這裏是讓大家分享近況與有趣專案及想法的地方。如果你有任何有趣的想法想要分享，也可以把你的想法貼在這邊！
+### AI 用於數位公民參與經驗共筆
 - [AI 用於數位公民參與經驗共筆](/nJUYukWFSWuEsG-XQalHcA)
-    - 上週與 People Powered 的 Melissa 開會討論過了，會開一個[共用文件](https://docs.google.com/document/d/17n2dw18hA2UQzFBNMQ6kaPKSdYubRchOTPrlVmg_PHY/edit?)。
->[name=peter]
+    - 第一種參與方式：如果你有想要講的東西，也可以直接新增在hackMD共筆上 [name=peter]
+    - 上週與 People Powered 的 Melissa 開會討論過了，會開一個[共用文件](https://docs.google.com/document/d/17n2dw18hA2UQzFBNMQ6kaPKSdYubRchOTPrlVmg_PHY/edit?)。[name=peter]
+        - 第二種參與方式：如果想要參與編輯這份文件的話，可以在slack上私訊 peter gmail，peter 會給予你權限
 
-
+### 自架即時轉錄分軌音訊
 - [自架即時轉錄分軌音訊](https://github.com/g0v/vue.vTaiwan-neo/issues/42)
 > [name=Bestian]
 
@@ -107,25 +112,53 @@ tags: vTaiwan小松
 
 > 由於目前「[專案](https://vtaiwan.pages.dev/projects)」是由內容管理員以靜態資料的方式管理，需要討論「創建提案」介面要採取以下哪一種方案？[name=bestian]
 
-> 1. 是一個說明文，說明需參與vTaiwan線上會議並認領內容管理員，方可創建提案？
+> 1. 是一個說明文，說明需參與vTaiwan線上會議並認領內容管理員，方可創建提案？ (採用1方案)
 > 2. 改為用Firebase資料庫，像blog一樣，任何登入的使用者都可以創建提案？
 
 [議題41](https://github.com/g0v/vue.vTaiwan-neo/issues/41)
 
 ### Action List 
 1. [確認Twitter連結:議題27](https://github.com/g0v/vue.vTaiwan-neo/issues/27)
+    - 正確的位置是 https://x.com/v_taiwan 
 2. [主視覺更新文案撰寫:議題22](https://github.com/g0v/vue.vTaiwan-neo/issues/22)
-
+    - 我這週五前完成～[name=peter]
 
 ## 議題小聚
-- [議題小聚#3 後續場次規劃](https://docs.google.com/document/d/1DrdMgYeAdRQVaNJBcHBsnc7OrfF3S8V6inGdSrvFIK0/edit?tab=t.0)
+### 議題小聚#3 後續場次規劃
+- 有種子意見的文件：[議題小聚#3 後續場次規劃](https://docs.google.com/document/d/1DrdMgYeAdRQVaNJBcHBsnc7OrfF3S8V6inGdSrvFIK0/edit?tab=t.0)
+    - 歡迎大家幫忙加註！
 - 翊婷想要分享的內容：
     - 1.經過跟TWNIC協調，對方希望議題小聚#3 follow up 場能安排在 8/1(五) 1830-2130，剛好又遇到TFGA場需要延後（到8/11-8/14之間），想提議就辦在8/1～
-    - 2.議題小聚#3 follow up 場polis的種子意見
-見上面連結～
-    - 3.想拜託大家一起來公共政策參與平台註冊！（需要認證台灣手機號碼跟email）＋附議一個議案
-連結：https://join.gov.tw/idea/detail/b0306373-42f3-4174-8f39-14d1ef5cb4b4#endorses
+    - 2.議題小聚#3 follow up 場polis的種子意見：見上面連結～
+    - 3.想拜託大家一起來公共政策參與平台註冊！（需要認證台灣手機號碼跟email）＋附議[一個議案連結](https://join.gov.tw/idea/detail/b0306373-42f3-4174-8f39-14d1ef5cb4b4#endorses)
+        - 60 天內要達到5000個附議會是蠻有挑戰性的。
+- 翊婷研究的主題：想要比較 e-petition 與 vTaiwan 的機制的差異。
+    - 希望在理想情況下，能夠看到有關詐騙的 e-petition 的發言
+- 要達到 5000 人附議，可能要在社群上協助擴散：join 平台本身沒有 go viral 的機制
+- 或許可以討論看看 vTaiwan 與 join 平台的討論
+- join平台目前缺少線上審議的過程，可能是它沒有充份發揮的原因
+    - 動員之後的政策效能感會是一個問題。
+    - 
+- 案例：要求自學生補助從高中延伸到國中小
+    - 行動頁：https://www.alearn.org.tw/action
+    - join 平台頁面https://join.gov.tw/idea/detail/cd1f42dd-f8ce-40f1-b63e-a4be079a0473
+#### Action List
+- 種子意見的部分
+    - 是否要讓大家新增意見？
+        - 如果要讓大家新增意見的話，可能要考慮意見是否會過於發散 [name=josh]
+        - 如果要讓大家新增意見的話，未來可以實驗用[sensemaking-tools](https://jigsaw-code.github.io/sensemaking-tools)來讓大量發散的意見被整理成有意義的大要  [name=bestian]
+            - 可以將 Polis 生成的意見整理成有意義的大綱
+            - 
+- 人數與互動的方式可以納入考量
+- 想要參加活動的話，也可以在底下+1
+    - +1 [name=peter]
+    - 
 
 ### TFGA 活動合作
-- 日期
-- 議題
+- 原訂日期：8/1，希望可以延後。
+- 議題：言論自由與 AI 管制的實際案例
+        - +1 [name=peter]
+        - +1 [name=bestian]
+- 一個想法：AI 能不能幫大家代理討論？審議開外掛小實驗 [name=Josh]
+- 希望在 7/13 的大松前，可以做好準備，在大松上可以跟大家進行討論～
+- 8/4 (一)晚上空間
