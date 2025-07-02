@@ -18,4 +18,9 @@ chewei> 測試 讓 LLM 控制 double 3 可移動機器人
 - 介紹 g0v Slack #ohshwan 頻道
 
 軟體工程師的職能光譜
+- 補照片？
 
+[線上活動] 7/7 週一晚上 20:00-21:00 [災害潛勢與文化物] 素材資料標記進度討論，歡迎參加
+- https://www.facebook.com/events/2402534916845704/
+- 專案共筆與資料表：https://g0v.hackmd.io/@chewei/CultureandRisk/
+- 參加者：chewei,
