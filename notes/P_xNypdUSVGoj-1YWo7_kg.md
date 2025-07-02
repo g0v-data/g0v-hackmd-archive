@@ -4,7 +4,7 @@ tags: vTaiwan小松
 # 20250702 vTaiwan 小黑客松
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants:  Peter, 釋阿南Anan, Tim,Yu-Ting,Joey,新朋友Fides
+參與者 Participants:  Peter, 釋阿南Anan, Tim, Yu-Ting, Joey, Bestian, 新朋友Fides
 線上參與連結 / Link：https://meet.jit.si/vtaiwan
 
 ::: success
@@ -46,18 +46,75 @@ tags: vTaiwan小松
 ### 自我介紹
 
 
+
 ## 小小的分享
 > 這裏是讓大家分享近況與有趣專案及想法的地方。如果你有任何有趣的想法想要分享，也可以把你的想法貼在這邊！
 - [AI 用於數位公民參與經驗共筆](/nJUYukWFSWuEsG-XQalHcA)
-    - 上週與 People Powered 的 Melissa 開會討論過了，
+    - 上週與 People Powered 的 Melissa 開會討論過了，會開一個[共用文件](https://docs.google.com/document/d/17n2dw18hA2UQzFBNMQ6kaPKSdYubRchOTPrlVmg_PHY/edit?)。
+>[name=peter]
+
+
+- [自架即時轉錄分軌音訊](https://github.com/g0v/vue.vTaiwan-neo/issues/42)
+> [name=Bestian]
+
 
 ## 新網站建置
 > 這邊討論的是 vTaiwan 的網站更新，本週會在 18:30 開始進行討論 [name=peter]
 ### 進度更新
+1. 線上視訊逐字稿轉錄可以實測了。等在原本的空間連上線之後，約好後請再至[https://vtaiwan.pages.dev/meetups/](https://vtaiwan.pages.dev/meetups/)
+
+> 先Google登入，再點選"即時會議(beta)"即可參與實測[name=bestian]
+
+#### debug list
+- debug: 需要加入音訊源枚舉的功能
+- 英文字太長會跑版
+- 在行動版的 safari 上容易點到別的東西，於是會跳出去。
+
+
+[下午02:19:25] Bestian: 測試一下測試一下 現在我在講中文
+
+[下午06:39:12] Bestian: 字幕志願者
+
+[下午06:39:27] 崔家瑋: 我現在有按了 雖然它按的話是它只會轉入我這邊發出的聲音嗎 還是說 是 看得出來 好好的是它轉入之後的檔案會放在哪裡 還有檔案怎麼管理
+
+[下午06:39:53] Bestian: AI可能聽錯
+
+[下午06:41:59] 崔家瑋: 那不然我來確認看看好了 就是我現在已經按了這樣子 然後感覺上來講可能耳機收音的部分也要選一下 就是可能不同耳機的收音有差別 但是它是直接抓到網站上我覺得蠻酷的 因為大家可以手動就直接加進來 然後它其實跟Jitsi的界面蠻像的
+
+[下午06:42:30] Bestian: 我現在把耳機拔掉 再講話應該就可以聽得到了
+
+[下午06:45:45] anan shi: 測試 測試一下 對 我按紫色了 我按紫色 可是我是用那個 要按新針手動逐字稿嗎 不用 測試 測試 謝謝 我按紫色 亂賺
+
+[下午06:45:46] Bestian: 可能跟背景音有關系 背景音比較小的時候比較聽得清楚
+
+[下午06:47:12] Bestian: https://developers.cloudflare.com/workers-ai/models/whisper-large-v3-turbo/
+
+[下午06:48:41] Bestian: 看起來還有兩個瑕疵 一個是音訊源不能枚舉 第二個是英文字太長了的時候會跑板 等到這個修好之後 說不定就可以實際上來使用
+
+[下午06:50:58] anan shi: 用手機瀏覽器，很容易點到其他連結就會跳出會議室
+
+[下午06:52:29] anan shi: 好 好
+
+[下午06:55:51] Yu-Ting Chen: 這個是已經開始一陣子了嗎 還是因為 哦所以我再按一次 它才會這樣子嗎 我再按一次
+
+[下午06:56:26] Bestian: 那這樣我們先回本來的Jitsi
+
+
+
+
 
 ### 討論事項
 
+> 由於目前「[專案](https://vtaiwan.pages.dev/projects)」是由內容管理員以靜態資料的方式管理，需要討論「創建提案」介面要採取以下哪一種方案？[name=bestian]
+
+> 1. 是一個說明文，說明需參與vTaiwan線上會議並認領內容管理員，方可創建提案？
+> 2. 改為用Firebase資料庫，像blog一樣，任何登入的使用者都可以創建提案？
+
+[議題41](https://github.com/g0v/vue.vTaiwan-neo/issues/41)
+
 ### Action List 
+1. [確認Twitter連結:議題27](https://github.com/g0v/vue.vTaiwan-neo/issues/27)
+2. [主視覺更新文案撰寫:議題22](https://github.com/g0v/vue.vTaiwan-neo/issues/22)
 
 
 ## 議題小聚
