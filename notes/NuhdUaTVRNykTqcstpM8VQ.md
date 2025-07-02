@@ -31,6 +31,8 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #chiayi 嘉義
 #tainan 台南討論群組！
 #kaohsiung 高雄討論群組！
+#pingtung-屏東 屏東討論群組！
+#你不知道的小琉球 小琉球討論群組！Liuqiu
 #taichung 台中討論群組！
 #changhua-彰化 彰化討論群組！
 #yunlin-雲林 雲林討論群組！
@@ -40,7 +42,6 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #kinmen-金門 金門討論群組！
 #matsu 馬祖討論群組！
 #keelung-基隆
-#你不知道的小琉球 小琉球討論群組！Liuqiu
 #re-place 關於如何移住、回到故鄉，以及城市人如何與地方一起打造新故鄉的實踐
 #jothon-local-support-地方社群支持方案 support for local communities or initiatives 有相關想法與構想，歡迎到頻道討論 ~
 #hk https://github.com/g0vhk-io
