@@ -63,9 +63,12 @@ tags: vTaiwan小松
 ## 議題小聚
 - [議題小聚#3 後續場次規劃](https://docs.google.com/document/d/1DrdMgYeAdRQVaNJBcHBsnc7OrfF3S8V6inGdSrvFIK0/edit?tab=t.0)
 - 翊婷想要分享的內容：
-    - 1.TFGA跟議題小聚三Follow up場的日期
-    - 2.議題小聚三follow up 場POLIS的種子意見
-    - 3.想拜託大家一起來公共政策參與平台註冊跟附議一個議案😅😂😂😂
+    - 1.經過跟TWNIC協調，對方希望議題小聚#3 follow up 場能安排在 8/1(五) 1830-2130，剛好又遇到TFGA場需要延後（到8/11-8/14之間），想提議就辦在8/1～
+    - 2.議題小聚#3 follow up 場polis的種子意見
+見上面連結～
+    - 3.想拜託大家一起來公共政策參與平台註冊！（需要認證台灣手機號碼跟email）＋附議一個議案
+連結：https://join.gov.tw/idea/detail/b0306373-42f3-4174-8f39-14d1ef5cb4b4#endorses
 
 ### TFGA 活動合作
-- 
+- 日期
+- 議題
