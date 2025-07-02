@@ -135,6 +135,7 @@ Dear Mark,
 
 Best regards,
 KW Chen
+
 ------------------------------------
 
 SOC的廠商
@@ -144,12 +145,14 @@ Dear CS,
 想請問 IP 13.229.3[.]203 是否為惡意，謝謝
 
 Best regards,
-ㄜ
+KW Chen
+
 ------------------------------------
 
 假設需要轉派看到這個就可轉派
 172.30.x.x CL Cheng 轉派
 Kaka Tian （大主管) ,Comer Hao （user） ,Jingbin Wang (infra server) 昆山
+
 CL Cheng 上海
 
 Patrick Song 昆山 （user）
