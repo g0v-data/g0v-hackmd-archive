@@ -62,6 +62,10 @@ tags: vTaiwan小松
 - [自架即時轉錄分軌音訊](https://github.com/g0v/vue.vTaiwan-neo/issues/42)
 > [name=Bestian]
 
+測試報告https://
+
+
+
 
 ## 新網站建置
 > 這邊討論的是 vTaiwan 的網站更新，本週會在 18:30 開始進行討論 [name=peter]
