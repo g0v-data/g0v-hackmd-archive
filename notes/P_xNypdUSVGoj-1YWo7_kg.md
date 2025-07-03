@@ -34,7 +34,7 @@ tags: vTaiwan小松
     - 目前正在測試一個新的線上會議
 7. 如果想要提案怎麼辦？
     - 目前的 vTaiwan 很歡迎與數位工具相關的公共討論！
-    - 如果想要成為協作者或者是貢獻者，我們正在努力讓說明更清楚，介面更友善！
+- [ ]     - 如果想要成為協作者或者是貢獻者，我們正在努力讓說明更清楚，介面更友善！
 :::
 
 ## 自我介紹與新手導覽
@@ -62,7 +62,8 @@ tags: vTaiwan小松
 - [自架即時轉錄分軌音訊](https://github.com/g0v/vue.vTaiwan-neo/issues/42)
 > [name=Bestian]
 
-測試報告https://
+- [測試報告](https://github.com/g0v/vue.vTaiwan-neo/issues/42#issuecomment-3031958775)
+> [name=阿南Anan]
 
 
 
