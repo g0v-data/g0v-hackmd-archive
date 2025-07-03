@@ -434,7 +434,7 @@ https://www.facebook.com/share/p/19Fsaehm3g/?mibextid=wwXIfr
 
 2023 有釋出，補名稱與網址
 
-### 營建署
+### 國土署(營建署)
 
 - 2022 總統盃黑客松專案-街道醫生 
     - 簡報：https://presidential-hackathon.taiwan.gov.tw/upload/files/%E8%A1%97%E9%81%93%E9%86%AB%E7%94%9F.pdf
@@ -447,6 +447,8 @@ https://www.facebook.com/share/p/19Fsaehm3g/?mibextid=wwXIfr
 - 市區綠道路認證評估作業前期規劃 https://ronnywang.github.io/pcc-viewer/tender.html?unit_id=3.1.2&job_number=112-G201-0101-0000-4270&date=20230626&filename=BDM-1-70322575
 - 內政部國土管理署人本度陸資訊網 https://myway.nlma.gov.tw/index.php
   - 主要業務連接有已完成案例
+-街道醫生網站
+https://www.drstreet.net/
 
 
 ### 交通部
