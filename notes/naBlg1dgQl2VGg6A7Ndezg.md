@@ -1,10 +1,11 @@
 # vTaiwan視訊自動逐字稿生成與校對說明
 
-## 工程圖(old)
+## 工程圖(new)
 
-![](https://g0v.hackmd.io/_uploads/rkgLaAh4Nee.jpg)
+![](https://g0v.hackmd.io/_uploads/Byn9WaHHxg.jpg)
 
-### 目前狀態和上圖的主要異動：
+
+### 目前狀態：
 
 1. 取消JaaS的字幕服務
 2. 改為自架轉錄分軌音訊和後端轉錄服務
