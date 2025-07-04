@@ -201,9 +201,6 @@ https://www.facebook.com/share/p/17vjWyE6tB/
 臺北市
 https://www.facebook.com/story.php?story_fbid=pfbid02Cv3vb5X2thkBcZkuVA1XJGrChsjZ4VfgHSF3ZrUxGv2QHn6QjECm7B7A89My5YFXl&id=100083351706758&mibextid=qC1gEa
 
-公館圓環
-https://www.facebook.com/share/p/16LbkkNP15/?mibextid=wwXIfr
-
 廣州林德街口與六和和平街口 https://peoplenudgeplatform.wixsite.com/hq-te/post/【專業人士試辦課程】高雄場課程回顧
 
 西園路306巷
