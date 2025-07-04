@@ -183,15 +183,6 @@ https://www.facebook.com/groups/twroadclub/permalink/2432209236958837/
 待確認
 https://www.facebook.com/share/p/15eWhdSKoZ/
 
-林森北民生路口
-https://www.facebook.com/share/p/25D3C6MW9jGAXAmW/
-
-臺北市新生北路
-https://photos.app.goo.gl/1x4pL48W8Maa8Trh8
-
-臺北市伊通街
-https://photos.app.goo.gl/v9tphz4mPN47Hcxq6
-
 松江詩園北側巷弄應評估無車化
 https://photos.app.goo.gl/WtcWuB9EveTdFedB8
 
