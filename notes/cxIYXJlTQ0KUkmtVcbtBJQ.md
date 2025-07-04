@@ -412,6 +412,7 @@ app.mount('#my-planner')
 
 ```
 直接用產出的文字會失敗，需要v-html
+
 ![](https://g0v.hackmd.io/_uploads/BJxGU3NJll.png)
 
 
