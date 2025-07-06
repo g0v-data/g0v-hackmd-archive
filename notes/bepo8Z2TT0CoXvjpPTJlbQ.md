@@ -1,2 +1,3 @@
-https://puffvapsolo.it
-Nei Paesi Bassi, Vapsolo è apprezzato per il suo equilibrio tra prezzo conveniente e buone prestazioni. I suoi dispositivi spesso includono batterie ricaricabili, schermi informativi e strutture resistenti alle perdite, caratteristiche che li rendono pratici e affidabili. Per negozi e clienti, Vapsolo rappresenta una scelta sicura che rispetta gli standard europei di qualità e sicurezza. Grazie ai suoi aromi intensi e ai dispositivi facili da usare, il marchio continua a crescere in popolarità tra i vapers occasionali e abituali.
+https://vaperstore.es/
+
+En Vaper Store, el vapeo es más que un hábito: es una experiencia. Nuestros vapers desechables están pensados para quienes buscan estilo, simplicidad y sabor en un solo dispositivo. Con diseños atractivos, sabores intensos y una facilidad de uso total, nuestros productos son ideales para quienes quieren disfrutar al máximo sin complicarse.
