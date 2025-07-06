@@ -6,6 +6,8 @@
 [TOC]
 
 :::
+https://badtimestories.golden-slash.com/
+
 麥塊電影
 https://www.youtube.com/watch?v=-M49xbDIhZ4
 
