@@ -8,8 +8,7 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@mrorz/cofacts-meeting-notes/)
-- 線上出席：
-- NPO Hub 出席：
+- 線上出席：mrorz, bil, nonumpa
 - Gather Town: https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -29,24 +28,39 @@ GA: UA-98468513-3
 ## :potable_water: Release pipeline
 
 ### :star: Released to production
+- https://github.com/cofacts/rumors-api/releases/tag/release%2F20250702
+  - GraphIQL
+  - Gen AI SDK & new transcript model
+- https://github.com/cofacts/rumors-site/releases/tag/release%2F20250702 Badge related
 
-### :rocket: Staging
+## 2025/7/2 倒站
 
-#### :electric_plug: API
+Downtime: 2025/7/2 20:24~21:10 共 46 分鐘
 
-#### :robot_face: rumors-line-bot
+- **2025-07-02 13:10** mrorz：url-resolver 不會用超過 1GB，這次問題應該是 url-resolver 卡住，重開 url-resolver 之後就解掉了
+- **2025-07-02 13:08** mrorz：正常了
+- **2025-07-02 13:07** mrorz：然後 restart url-resolver
+- **2025-07-02 13:05** mrorz：先 `docker-compose restart db`
+- **2025-07-02 13:02** mrorz：docker stats 卡死
+- **2025-07-02 13:01** mrorz：Cloudflare traffic 看起來正常
+- **2025-07-02 12:59** mrorz：Load 34 很辛苦捏
+- **2025-07-02 12:57** mrorz：倒站了囧
+- **2025-07-02 12:24**: Cofacts monitor 🚨@g0v-tw 回報 line-bot.cofacts.tw 狀態不健康 (HTTP timeout)
 
-##### Testing checklist
+## Planned changes to Github repositories
+### Claude Code Action
 
-##### ⛔️ Release Blockers
+想在每個 github repo 加上 [claude code action](https://github.com/anthropics/claude-code-action)
+- 可以 `@claude` 讓 AI 產 code 發 branch
+  - Claude Github Action 沒有修改 workflow file 與開 Pull Request 的權限，這部分要手動
+  - [Jules](https://jules.google.com/) 適合 ad-hoc task，Claude Code 能跟 github issue 整合很棒
+- 連接到 Vertex AI 算在 Cofacts GCP 帳上
 
-##### 未竟項目
+### adk-agents 移動到 cofacts 下
 
-## CCPRIP
+- 已經 deploy 在 beta.cofacts.ai
+- 放在 ㄑㄟbeta-ai
 
-### [Comm] LLM based category & new `worker` repository
-
-### [Comm] cofacts.ai
 
 ## :calendar: Next meeting
 
