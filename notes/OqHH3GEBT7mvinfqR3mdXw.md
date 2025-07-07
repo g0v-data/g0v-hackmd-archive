@@ -30,3 +30,4 @@ iOS 開發的時候會需要辨認你的APP都是用identifier，啟用 **APP Gr
 ## url scheme
 xrlab-{productname}://
 xrlab-{productname}://?{參數1}={值1}&{參數2}={值2}...
+你的productname不能有 `_`之類
