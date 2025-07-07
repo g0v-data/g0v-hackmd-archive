@@ -5,7 +5,8 @@ tags: vtaiwan
 # 「Sensemaking-Tools意見彙整工具」使用說明
 
 
-* 官方說明文：https://github.com/Jigsaw-Code/sensemaking-tools/?tab=readme-ov-file
+* 官方說明文：https://jigsaw-code.github.io/sensemaking-tools/
+* 開源程式庫：https://github.com/Jigsaw-Code/sensemaking-tools/?tab=readme-ov-file
 
 
 ## Sensemaking-Tools是什麼？：
@@ -33,7 +34,7 @@ tags: vtaiwan
 
 ### 1. 準備輸入資料
 
-1. 下載專案的.zip檔或clone它到近端電腦上：(網址:https://github.com/Jigsaw-Code/sensemaking-tools)
+1. clone專案它到近端電腦上：(網址:https://github.com/Jigsaw-Code/sensemaking-tools)
 
 2. 從Plois匯出所有意見及統計資料，可能會是一個.json檔案
 
