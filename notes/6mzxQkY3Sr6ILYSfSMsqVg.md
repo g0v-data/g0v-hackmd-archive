@@ -1,0 +1,86 @@
+---
+tags: vtaiwan
+---
+
+# 「Sensemaking-Tools意見彙整工具」使用說明
+
+
+* 官方說明文：https://github.com/Jigsaw-Code/sensemaking-tools/?tab=readme-ov-file
+
+
+## Sensemaking-Tools是什麼？：
+
+* [Polis城邦](https://polis.tw/)意見徵集工具，當意見項目多且有類似或接近重覆的大量意見時，不容易從海量資料中用肉眼看出有意義的結果。
+
+* [Sensemaking-Tools意見彙整工具](https://github.com/Jigsaw-Code/sensemaking-tools) 透過Google 的 AI 服務，可以用來分析大數據，產生有意義的結果，包含主要共同點和主要意見分岐等。
+
+
+## Sensemaking-Tools的需要什麼輸入資料(Input)？：
+
+
+
+## Sensemaking-Tools可以輸入什麼結果(Output)？：
+
+1. HTML網頁(這應該是最直觀有利閱讀的輸出)
+2. JSON Object
+3. CSV檔
+
+
+## 如何安裝與執行Sensemaking-Tools？：
+
+
+您需要：
+
+### 1. 準備輸入資料
+
+1. 下載專案的.zip檔或clone它到近端電腦上：(網址:https://github.com/Jigsaw-Code/sensemaking-tools)
+
+2. 從Plois匯出所有意見及統計資料，可能會是一個.json檔案
+
+3. 請chatGPT幫忙把.json轉成.csv檔案，使用如下對話指令：
+
+``` bash
+
+請幫我把以下的JSON轉成.csv，欄位格式範例如下：
+
+comment-id,comment_text,votes,agrees,disagrees,passes,a-votes,a-agree-count,a-disagree-count,a-pass-count,b-votes,b-agree-count,b-disagree-count,b-pass-count
+0,"this is a test.",1,1,0,0,0,0,0,0,1,1,0,0
+
+```
+
+
+
+4. 下載結果，命名為comments.csv，放入近端電腦上，sensemaking-tools這個目錄，也就是專案根目錄。
+
+
+
+### 2. 註冊一個綁定付費帳號的google cloud Project，並啟用[VertexAI](https://cloud.google.com/vertex-ai?hl=zh_tw)
+
+1. https://cloud.google.com/
+2. https://cloud.google.com/vertex-ai?hl=zh_tw
+3. 安裝GCloud CLI
+
+(細節待補...)
+
+### 3. 執行分析，並生成網頁檔
+
+    
+1. 先登入google could CLI
+
+``` cloud auth login ```
+
+
+2. 在專案根目錄，執行:
+```gcloud config set project <your project name here>```
+```gcloud auth application-default login```
+
+
+3. 在專案根目錄，執行：
+
+```npx ts-node ./library/runner-cli/runner.ts -i ./comments.csv -o output -v sensemaking-tools-project```
+
+可以生成文字版的網頁
+
+
+
+
