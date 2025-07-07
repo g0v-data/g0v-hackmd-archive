@@ -23,4 +23,8 @@ chewei> 測試 讓 LLM 控制 double 3 可移動機器人
 [線上活動] 7/7 週一晚上 20:00-21:00 [災害潛勢與文化物] 素材資料標記進度討論，歡迎參加
 - https://www.facebook.com/events/2402534916845704/
 - 專案共筆與資料表：https://g0v.hackmd.io/@chewei/CultureandRisk/
-- 參加者：chewei,
+- 參加者：chewei,介瑋, ManQ
+
+vTaiwan 宣傳一下邀請大家一起附議～
+建立防詐協作責任等級制度：促進企業與政府共構信任網絡
+https://join.gov.tw/idea/detail/8e17b12e-2c8a-45d4-a55b-660fb654fa83
