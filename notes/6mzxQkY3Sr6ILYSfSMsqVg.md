@@ -18,11 +18,11 @@ tags: vtaiwan
 
 ## Sensemaking-Tools的需要什麼輸入資料(Input)？：
 
-
+* 具有特定欄位的CSV檔
 
 ## Sensemaking-Tools可以輸入什麼結果(Output)？：
 
-1. HTML網頁(這應該是最直觀有利閱讀的輸出)
+1. HTML網頁(推薦。這應該是最直觀有利閱讀的輸出)
 2. JSON Object
 3. CSV檔
 
@@ -34,9 +34,17 @@ tags: vtaiwan
 
 ### 1. 準備輸入資料
 
-1. clone專案它到近端電腦上：(網址:https://github.com/Jigsaw-Code/sensemaking-tools)
 
-2. 從Plois匯出所有意見及統計資料，可能會是一個.json檔案
+1. 進入Plois的報告頁report page，開啟開發者模式，找到用 GET /api/v3/comments 回來的 JSON 。
+
+    * 開發者模式選「網路」> 「全部」>「回應」
+    * 過濾器打上「/api/v3/comments」
+    * 重新載入頁面，會找到唯一一個JSON格式的資料，就是它
+
+![](https://g0v.hackmd.io/_uploads/S1rc6zjHeg.png)
+
+
+2. 把它存進電腦，命名為comments.json
 
 3. 請chatGPT幫忙把.json轉成.csv檔案，使用如下對話指令：
 
@@ -51,6 +59,8 @@ comment-id,comment_text,votes,agrees,disagrees,passes,a-votes,a-agree-count,a-di
 
 
 
+3. clone專案到近端電腦上：(網址:https://github.com/Jigsaw-Code/sensemaking-tools)
+
 4. 下載結果，命名為comments.csv，放入近端電腦上，sensemaking-tools這個目錄，也就是專案根目錄。
 
 
@@ -59,28 +69,26 @@ comment-id,comment_text,votes,agrees,disagrees,passes,a-votes,a-agree-count,a-di
 
 1. https://cloud.google.com/
 2. https://cloud.google.com/vertex-ai?hl=zh_tw
-3. 安裝GCloud CLI
-
-(細節待補...)
+3. 安裝GCloud CLI，可參考此[官方說明](https://cloud.google.com/sdk/docs/install)或此[chatGPT對話](https://chatgpt.com/share/686d9ede-7960-800b-a265-cc446f4b4edc)
 
 ### 3. 執行分析，並生成網頁檔
 
     
-1. 先登入google could CLI
+1. 先登入google could CLI：
 
-``` cloud auth login ```
+    ``` cloud auth login ```
 
 
-2. 在專案根目錄，執行:
-```gcloud config set project <your project name here>```
-```gcloud auth application-default login```
+2. 在專案根目錄，執行：
+    ```gcloud config set project <your project name here>```
+    ```gcloud auth application-default login```
 
 
 3. 在專案根目錄，執行：
 
-```npx ts-node ./library/runner-cli/runner.ts -i ./comments.csv -o output -v sensemaking-tools-project```
+    ```npx ts-node ./library/runner-cli/runner.ts -i ./comments.csv -o output -v sensemaking-tools-project```
 
-可以生成文字版的網頁
+即可生成文字版的統整報告網頁了！
 
 
 
