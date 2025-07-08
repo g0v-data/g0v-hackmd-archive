@@ -1,7 +1,7 @@
 ---
 tags: vTaiwan小松
 ---
-# 20250708 vTaiwan 小黑客松
+# 20250709 vTaiwan 小黑客松
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
 參與者 Participants:
