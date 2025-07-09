@@ -59,4 +59,32 @@ https://meet.jit.si/vtaiwan
 
 ## 0713 大松 Action 
 > 因為本週就是[g0v 大松](https://g0v.hackmd.io/@jothon/g0v-hackath68n/https%3A%2F%2Fg0v.hackmd.io%2FKvzHayP4SPqXRhtrn2QH0w%3Fview)，因此我們想要討論這一次提案要做些什麼？
-- 
+### 大松統計：
+- 有誰會來大松～
+    - +1 [name=peter]
+- 有誰可以線上參與～
+
+### 我們要做什麼？
+- 目前我們報名了一個提案與一個八分鐘短講
+- 目前在提案部分，我們希望來徵集 TFGA 議題小聚的意見內容。在這一次的 TFGA 議題小聚中，我們希望測試看看參與者是否會覺得 AI 生成的意見更具有說服力。
+- TFGA 議題小聚的主題：言論自由與社群媒體利用 AI 管制的實際案例
+    - 希望能夠區分出言論自由的界線
+- 活動日期：8/4 禮拜一
+
+## TFGA 活動合作
+> 這是一個與[Tech for Good Asia](https://www.techforgood.asia)，一個關注亞洲數位與科技人權的組織有關的專案。坑主是[name=yi-ting lien]，目標是藉由數位工具輔助的審議活動，討論人工智慧與網路治理議題。歡迎一起加入討論。
+- [vtaiwan x Tech for Good Asia 合作](/PdvNjkLlSd-WytXN_otWbQ)
+- 原訂日期：8/1，希望可以延後。
+- 議題：言論自由與 AI 管制的實際案例
+        - +1 [name=peter]
+        - +1 [name=bestian]
+- 一個想法：AI 能不能幫大家代理討論？審議開外掛小實驗 [name=Josh]
+- 希望在 7/13 的大松前，可以做好準備，在大松上可以跟大家進行討論～
+- 8/4 (一)晚上空間
+
+## Action List 
+### 網站相關
+- vTaiwan 行事曆
+- 主視覺更新發文
+- vTaiwan 網站治理機制討論
+- 網路ˋㄓ
