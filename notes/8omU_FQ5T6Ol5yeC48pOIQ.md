@@ -5,7 +5,10 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 目錄
 [TOC]
 :::
+羅堂國
 https://www.icpdas.com/tw/product/guide+Remote__I_O__Module__and__Unit+Ethernet__I_O__Modules+OPC__UA__I_O__Module
+
+https://docs.google.com/spreadsheets/d/1AleplrAH4HGNnTiqVKgLnLNWfUJTvi3Y/edit?usp=sharing&ouid=103316880077716122371&rtpof=true&sd=true
 
 https://app.powerbi.com/groups/ea74a80c-0759-4de3-9a85-0c6d4c165b59/reports/9510db41-7352-4d9e-8444-795b93f36382/c5baaebd74dec3548c54?experience=power-bi
 #### 常用連結
