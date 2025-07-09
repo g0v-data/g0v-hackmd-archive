@@ -114,7 +114,7 @@ https://meet.jit.si/vtaiwan
 
 ## 記錄
 
-逐字稿檢視
+[逐字稿檢視連結](https://vtaiwan.pages.dev/transcription_detail/20250709)
 
 AI生成的摘要：
 
