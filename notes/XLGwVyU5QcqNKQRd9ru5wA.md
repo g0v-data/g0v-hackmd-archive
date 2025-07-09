@@ -1,5 +1,5 @@
-Log in to W88 Indi and choose the offer you like to receive attractive free credit immediately.
-3 outstanding promotions at W88 Indi for new Indian members.
+ Get W88 Indi Free Credit ₹250 immediately after phone verification – attractive bonus exclusively for new members.  
+W88 Indi gives away ₹250 free to new members who verify their phone number!
 #w88, #w88indi, #w88india, #W88W88indi, #w88gambling
 Contact Us:
 Website: https://www.w88indi.com/  
