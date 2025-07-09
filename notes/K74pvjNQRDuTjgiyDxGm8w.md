@@ -5,7 +5,12 @@ tags: vTaiwan小松
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
 參與者 Participants:
-線上參與連結 / Link：https://meet.jit.si/vtaiwan
+線上參與連結 / Link：
+https://vtaiwan.pages.dev/jitsi
+(請用Google登入以啟用完整轉錄功能)
+
+備用視訊連結：
+https://meet.jit.si/vtaiwan
 
 ::: success
 ## 專案儀表板：目前 vTaiwan 社群在進行的事情 
