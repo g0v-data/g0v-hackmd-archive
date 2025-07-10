@@ -35,6 +35,8 @@ https://youtu.be/ZxCh_5qkZBg
     - https://www.facebook.com/story.php?story_fbid=pfbid02PmPSVF1SedBxiZJxLqYBZ4Cqq7S9PMVjkdTUQmhhjDqKSxN9vRo5HgLq4XdVD1tYl&id=697503134&mibextid=qC1gEa
 - https://github.com/WeNeedHome/SummaryOfLoanSuspension 
     - 用 Github 統計 CN 爛尾樓停貸通知案數。
+- 人權律師遭到跟蹤
+    - https://youtube.com/shorts/ttuARKUAY5g
 
 可能的來源
 - 國立清華大學當代中國研究中心
