@@ -38,6 +38,11 @@ Contributing content **means that you agree to waive your copyright and release 
 - [丹娜斯風災復原  志工需求表 `僅供檢視 民間`
 ](https://docs.google.com/spreadsheets/d/1mjJcVNJY-_UkwZpDBxV3g7vKtpt6pvssd809sRz7pWc/edit?usp=sharing)
 - [台南市志願服務網 `NGO`](https://gudate.com/view.php?new_sn=3132&view_menu=0&view_menu_title=1&sales_sn=)[target=_blank] 
+
+> 建議您若要到當地協助擔任志工，請先評估個人體力能否負擔工作。當地停電、網路不通，最好有行動電源、下載離線地圖或紙本地圖。電線桿倒塌請繞道而行。盡量自理交通工具與餐食，避免造成當地負擔。
+
+> akira178.feng莫拉克風災志工經驗分享：請穿著布鞋、透氣衣物、雨鞋、雨衣、防割手套、乾糧（或巧克力）、手機防水套、帽子（漁夫帽或是棒球帽都可以）、換洗乾淨衣物一套、毛巾、一罐1000ml飲用水、燈光照明
+注意事項⚠️請告知親人朋友你的行蹤+聯絡方式請勿落單（災區狀況不明）
 ## 物資需求
 - [物資徵求與提供 `民間 僅供檢視`](https://docs.google.com/spreadsheets/d/1h8lqK0AEnz5Tse0HL3ZAD7sqXAp13w_-fW-XwYxPG6s/edit?usp=sharing)
 ## 狀況回報
