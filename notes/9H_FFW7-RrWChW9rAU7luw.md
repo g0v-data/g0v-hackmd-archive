@@ -47,7 +47,9 @@ Contributing content **means that you agree to waive your copyright and release 
 注意事項⚠️請告知親人朋友你的行蹤+聯絡方式請勿落單（災區狀況不明）
 ## 物資需求
 - [物資徵求與提供 `民間 僅供檢視`](https://docs.google.com/spreadsheets/d/1h8lqK0AEnz5Tse0HL3ZAD7sqXAp13w_-fW-XwYxPG6s/edit?usp=sharing)
+
 ## 狀況回報
 - [災情案件資料地圖](https://tainan.olc.tw/p/emic/)
-> 資料來源包含 119、1999 等通報，[資料集](https://data.gov.tw/dataset/12851)
-- [災情物資需求儀表板 - 社群網站彙整 - QSearch](https://lookerstudio.google.com/u/0/reporting/b2dad519-ed5c-4d19-9f7e-06a32309c01c/page/xy1QF?fbclid=IwY2xjawLd2axleHRuA2FlbQIxMQABHn7mbjIf-uD3SytcnH9KpjxGqLzLQNyWbaMQ0gUNbv1KBslKc8pM3QJSNZne_aem_RIQi89d68EY6qj1ZIrPoWg)
+    > 資料來源包含 119、1999 等通報，[資料集](https://data.gov.tw/dataset/12851)
+- [災情物資需求儀表板 - QSearch](https://lookerstudio.google.com/u/0/reporting/b2dad519-ed5c-4d19-9f7e-06a32309c01c/page/xy1QF)[target=_blank]
+    > FB / Threads 貼文經 NLP 與語意分析處理、AI 分類
