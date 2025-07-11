@@ -14,6 +14,14 @@ Our partner—People Powered is collecting best practices of digital participati
 - 你可以直接在下面打上你想要給出的建議。
 - 如果你的建議牽涉到特定的情境，建議好好說明相關的情境。
 
+## 問卷連結：
+- 後來從People Powered 收到的問卷連結如下：https://docs.google.com/document/d/17n2dw18hA2UQzFBNMQ6kaPKSdYubRchOTPrlVmg_PHY/edit?usp=sharing
+### 回答問卷時，想到的有趣問題
+- How do you communicate how AI is being used to the public?
+- What measures are in place to ensure the transparency of algorithms and decision-making processes?
+- How do you handle data privacy and consent from participants?
+- Expertise: Do you have the expertise to the platform internally or did you hire external support?
+- Cost questions
 
 ## 意見收集區
 ### Joshua Yang: 

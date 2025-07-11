@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [「Sensemaking-Tools意見彙整工具」使用說明](../notes/6mzxQkY3Sr6ILYSfSMsqVg.md) | 2025-07-08T22:44:48+00:00 | 2025-07-07T01:59:56+00:00 |
-| 2 | [AI 用於數位公民參與經驗共筆](../notes/nJUYukWFSWuEsG-XQalHcA.md) | 2025-07-02T11:58:07+00:00 | 2025-06-03T17:12:28+00:00 |
+| 1 | [AI 用於數位公民參與經驗共筆](../notes/nJUYukWFSWuEsG-XQalHcA.md) | 2025-07-11T15:43:15+00:00 | 2025-06-03T17:12:28+00:00 |
+| 2 | [「Sensemaking-Tools意見彙整工具」使用說明](../notes/6mzxQkY3Sr6ILYSfSMsqVg.md) | 2025-07-08T22:44:48+00:00 | 2025-07-07T01:59:56+00:00 |
 | 3 | [vtaiwan x Tech for Good Asia 合作](../notes/PdvNjkLlSd-WytXN_otWbQ.md) | 2025-06-25T12:03:38+00:00 | 2025-04-16T11:27:45+00:00 |
 | 4 | [vTaiwan 網站更新後的治理機制](../notes/HxWF11d4Tz-AfHb3yjwQKg.md) | 2025-06-16T09:15:52+00:00 | 2025-06-16T06:18:25+00:00 |
 | 5 | [vTaiwan 的 Ghost 要怎麼管理](../notes/FEbWXWWVTgOrSqG0n4wDeg.md) | 2025-05-18T03:32:53+00:00 | 2025-04-30T11:55:44+00:00 |
