@@ -30,12 +30,12 @@ Contributing content **means that you agree to waive your copyright and release 
 ## 停電狀況
 - [停電地圖 `made by kiang`](https://tainan.olc.tw/p/emic/taipower.html)
 ## 停水狀況
-- [台水官網](https://web.water.gov.tw/wateroff/)
+- [台水官網](https://web.water.gov.tw/wateroff/)[target=_blank] 
 ## 志工人力徵求
+- [需求地點人力及聯絡人彙整 `可編輯 民間`](https://docs.google.com/spreadsheets/d/e/2PACX-1vTc2YK21IJPMz4vgWNz6zPkIyH9XkxGfY_PsVxbLYdZzXMDXKkPUxEelYq1x0fDmYDgw1nZscrSpPi3/pubhtml)
 - [丹娜斯風災復原  志工需求表 `僅供檢視 民間`
 ](https://docs.google.com/spreadsheets/d/1mjJcVNJY-_UkwZpDBxV3g7vKtpt6pvssd809sRz7pWc/edit?usp=sharing)
-- [需求地點人力及聯絡人彙整 `可編輯 民間`](https://docs.google.com/spreadsheets/d/11oHoyUdKxTD-Pv8sCaC9ruyi1Ut3t6r0-hFgfm4Gdmc/edit?usp=sharing)
-- [台南市志願服務網 `NGO`](https://gudate.com/view.php?new_sn=3132&view_menu=0&view_menu_title=1&sales_sn=)
+- [台南市志願服務網 `NGO`](https://gudate.com/view.php?new_sn=3132&view_menu=0&view_menu_title=1&sales_sn=)[target=_blank] 
 ## 物資需求
 - [物資徵求與提供 `民間 僅供檢視`](https://docs.google.com/spreadsheets/d/1h8lqK0AEnz5Tse0HL3ZAD7sqXAp13w_-fW-XwYxPG6s/edit?usp=sharing)
 ## 狀況回報
