@@ -28,10 +28,12 @@ Contributing content **means that you agree to waive your copyright and release 
 * [首頁<br>Homepage](https://g0v.hackmd.io/@ichieh/2025Danas)
 
 ## 停電狀況
+- [台電官網](https://service.taipower.com.tw/psvs1/)
 - [停電地圖](https://tainan.olc.tw/p/emic/taipower.html)
 ## 停水狀況
 - [台水官網](https://web.water.gov.tw/wateroff/)[target=_blank] 
 - [停水地圖](https://tainan.olc.tw/p/wateroff/)
+
 ## 志工人力徵求
 - [需求地點人力及聯絡人彙整 `可編輯 民間`](https://docs.google.com/spreadsheets/d/e/2PACX-1vTc2YK21IJPMz4vgWNz6zPkIyH9XkxGfY_PsVxbLYdZzXMDXKkPUxEelYq1x0fDmYDgw1nZscrSpPi3/pubhtml)
 - [需援助與恢復環境之村里狀況與聯繫方式 `僅供檢視 民間`](https://docs.google.com/spreadsheets/d/1IknRWOT-UaS_D91oJUEUEJci3a59_DuZ/edit?usp=sharing&ouid=113986703648754979218&rtpof=true&sd=true)
@@ -48,3 +50,4 @@ Contributing content **means that you agree to waive your copyright and release 
 ## 狀況回報
 - [災情案件資料地圖](https://tainan.olc.tw/p/emic/)
 > 資料來源包含 119、1999 等通報，[資料集](https://data.gov.tw/dataset/12851)
+- [災情物資需求儀表板 - 社群網站彙整 - QSearch](https://lookerstudio.google.com/u/0/reporting/b2dad519-ed5c-4d19-9f7e-06a32309c01c/page/xy1QF?fbclid=IwY2xjawLd2axleHRuA2FlbQIxMQABHn7mbjIf-uD3SytcnH9KpjxGqLzLQNyWbaMQ0gUNbv1KBslKc8pM3QJSNZne_aem_RIQi89d68EY6qj1ZIrPoWg)
