@@ -34,6 +34,7 @@ Contributing content **means that you agree to waive your copyright and release 
 - [停水地圖](https://tainan.olc.tw/p/wateroff/)
 ## 志工人力徵求
 - [需求地點人力及聯絡人彙整 `可編輯 民間`](https://docs.google.com/spreadsheets/d/e/2PACX-1vTc2YK21IJPMz4vgWNz6zPkIyH9XkxGfY_PsVxbLYdZzXMDXKkPUxEelYq1x0fDmYDgw1nZscrSpPi3/pubhtml)
+- [需援助與恢復環境之村里狀況與聯繫方式 `僅供檢視 民間`](https://docs.google.com/spreadsheets/d/1IknRWOT-UaS_D91oJUEUEJci3a59_DuZ/edit?usp=sharing&ouid=113986703648754979218&rtpof=true&sd=true)
 - [丹娜斯風災復原  志工需求表 `僅供檢視 民間`
 ](https://docs.google.com/spreadsheets/d/1mjJcVNJY-_UkwZpDBxV3g7vKtpt6pvssd809sRz7pWc/edit?usp=sharing)
 - [台南市志願服務網 `NGO`](https://gudate.com/view.php?new_sn=3132&view_menu=0&view_menu_title=1&sales_sn=)[target=_blank] 
