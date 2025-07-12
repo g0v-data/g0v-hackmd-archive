@@ -267,6 +267,7 @@ GitHub https://github.com/g0v/small_school_renaissance/
     教育部國民及學前教育署/原住民族教育資訊網/學校名錄(單)
     - 官網： <https://ieiw.k12ea.gov.tw/School/Index>
     - OpenData: <https://data.gov.tw/dataset/162567>
+    - 地址+經緯度(google map查詢) <https://docs.google.com/spreadsheets/d/1jv5n7SViMDAH-s91fgd6dQCvuKzBw3VR/edit?usp=sharing&ouid=117409746054058070911&rtpof=true&sd=true>
 
 - 實驗教育學校
     - 學校型態原住民族實驗教育學校名冊

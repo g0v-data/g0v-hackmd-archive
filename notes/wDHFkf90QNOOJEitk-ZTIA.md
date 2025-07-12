@@ -36,7 +36,7 @@
 - 忘記幾樓
 - 電器：行動電源、太陽能板、收音機
 - 長期保存食
-- 衛生安全：
+- 衛生安全用品
 ![](https://g0v.hackmd.io/_uploads/S1G68WnCfgl.jpg)
 ![](https://g0v.hackmd.io/_uploads/ryT8b30fgx.jpg)
 ![](https://g0v.hackmd.io/_uploads/ry0UbnAMxl.jpg)
@@ -60,10 +60,12 @@
 - 長期保存食：飯、飯糰
 ![](https://g0v.hackmd.io/_uploads/SyglV13Afle.jpg)
 
-## 難波 Hands
+## 難波 Loft
+
+> Namba Parks https://maps.app.goo.gl/eX6Uro1URw6bVeM2A
 
 ![](https://g0v.hackmd.io/_uploads/By-UM3CGlg.jpg)
 
 ## 沒有防災物資的地方
 
-
+- 
