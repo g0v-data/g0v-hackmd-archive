@@ -2,8 +2,14 @@
 
 ###### tags: 防災 日本 防災グッズ
 
+
+## 罐頭麵包
+楓糖丹麥麵包
 ![](https://g0v.hackmd.io/_uploads/Bkxdm2Afge.jpg)
 ![](https://g0v.hackmd.io/_uploads/HJ-fdQ2Rzex.jpg)
+
+## Sunsoaker 太陽能板
+¥13,750 
 ![](https://g0v.hackmd.io/_uploads/Sylb_mn0zll.jpg)
 ![](https://g0v.hackmd.io/_uploads/Sk4_XnCfee.jpg)
 ![](https://g0v.hackmd.io/_uploads/ByXQumhRzxe.jpg)
