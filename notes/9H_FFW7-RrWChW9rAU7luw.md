@@ -36,7 +36,7 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ## 志工人力徵求
 - [需求地點人力及聯絡人彙整 `可編輯 民間`](https://docs.google.com/spreadsheets/d/e/2PACX-1vTc2YK21IJPMz4vgWNz6zPkIyH9XkxGfY_PsVxbLYdZzXMDXKkPUxEelYq1x0fDmYDgw1nZscrSpPi3/pubhtml)
-- [需援助與恢復環境之村里狀況與聯繫方式 `僅供檢視 民間`](https://docs.google.com/spreadsheets/d/1IknRWOT-UaS_D91oJUEUEJci3a59_DuZ/edit?usp=sharing&ouid=113986703648754979218&rtpof=true&sd=true)
+- [災情物資需求儀表板 - QSearch](https://lookerstudio.google.com/u/0/reporting/b2dad519-ed5c-4d19-9f7e-06a32309c01c/page/xy1QF)[target=_blank]
 - [丹娜斯風災復原  志工需求表 `僅供檢視 民間`
 ](https://docs.google.com/spreadsheets/d/1mjJcVNJY-_UkwZpDBxV3g7vKtpt6pvssd809sRz7pWc/edit?usp=sharing)
 - [台南市志願服務網 `NGO`](https://gudate.com/view.php?new_sn=3132&view_menu=0&view_menu_title=1&sales_sn=)[target=_blank] 
@@ -45,11 +45,8 @@ Contributing content **means that you agree to waive your copyright and release 
 
 > akira178.feng莫拉克風災志工經驗分享：請穿著布鞋、透氣衣物、雨鞋、雨衣、防割手套、乾糧（或巧克力）、手機防水套、帽子（漁夫帽或是棒球帽都可以）、換洗乾淨衣物一套、毛巾、一罐1000ml飲用水、燈光照明
 注意事項⚠️請告知親人朋友你的行蹤+聯絡方式請勿落單（災區狀況不明）
-## 物資需求
-- [物資徵求與提供 `民間 僅供檢視`](https://docs.google.com/spreadsheets/d/1h8lqK0AEnz5Tse0HL3ZAD7sqXAp13w_-fW-XwYxPG6s/edit?usp=sharing)
 
 ## 狀況回報
 - [災情案件資料地圖](https://tainan.olc.tw/p/emic/)
-    > 資料來源包含 119、1999 等通報，[資料集](https://data.gov.tw/dataset/12851)
-- [災情物資需求儀表板 - QSearch](https://lookerstudio.google.com/u/0/reporting/b2dad519-ed5c-4d19-9f7e-06a32309c01c/page/xy1QF)[target=_blank]
-    > FB / Threads 貼文經 NLP 與語意分析處理、AI 分類
+
+> 資料來源包含 119、1999 等通報，[資料集](https://data.gov.tw/dataset/12851)
