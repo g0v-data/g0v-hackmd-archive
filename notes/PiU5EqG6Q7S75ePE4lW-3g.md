@@ -6,6 +6,7 @@ tags: vTaiwan
 地點 Location ：實體 [NPO Hub](https://share.google/Pwm91ePESdw1FxeKM)
 參與者 Participants:
 [本次大松共筆](https://g0v.hackmd.io/@jothon/g0v-hackath68n/https%3A%2F%2Fg0v.hackmd.io%2FKvzHayP4SPqXRhtrn2QH0w%3Fview)
+[提案簡報]()
 ::: success
 ## 專案儀表板：目前 vTaiwan 社群在進行的事情 
 以下是 vTaiwan 目前正在進行的幾個不同的專案！如果有興趣，可以在取得共筆編輯權限後+1，或者是
@@ -62,6 +63,10 @@ tags: vTaiwan
     - 本次民主審議活動，邀請你一起來思考：我們希望平台如何對待不實資訊與仇恨言論？政府是否應介入監督？人工智慧是否能成為可信的內容守門人？透過你的參與，讓我們共同為台灣的數位公共空間，建構更具透明性與正當性的未來規則。
 - 如果你對這個議題小聚的活動感興趣，你可以透過以下的行動為專案做出貢獻！
     - 在左邊的 slido 連結中:point_right: [參與意見徵集！ ](https://app.sli.do/event/opef4YVjJ4CHQS9bJG61Jp)
+        - 在提供意見時，可以思考：
+            - AI 内容審查出錯時，平台應負什麼責任？政府要怎麼介入？
+            - 我們可以怎麼設計透明、公正且能保障言論自由的審查科技？
+            - 實際案例給了我們哪些警示？要如何防範類似事件再發？
     - 協助搜尋平台利用人工智慧進行人工智慧進行管制的新聞、報告或討論素材，並且新增到這個連結中：https://docs.google.com/document/d/1bzzZLPdyyUMe1QTzYyPLobiBwUpU6JNyqPZarZ5F-bg/edit?usp=sharing 
 
 

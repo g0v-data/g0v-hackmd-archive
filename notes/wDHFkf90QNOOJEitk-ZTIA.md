@@ -27,17 +27,21 @@
 
 ## 梅田 Yodobashi
 
-> https://maps.app.goo.gl/bEjRk6BaMG3mYvDc7 
+> 整棟的 3C 賣場 https://maps.app.goo.gl/bEjRk6BaMG3mYvDc7 
 
+較低樓層的消費性電子區：手搖收音機等
+![](https://g0v.hackmd.io/_uploads/rJlaIb3RMxg.jpg)
+
+防災物品專區
+- 忘記幾樓
+- 電器：行動電源、太陽能板、收音機
+- 長期保存食
+- 衛生安全：
 ![](https://g0v.hackmd.io/_uploads/S1G68WnCfgl.jpg)
 ![](https://g0v.hackmd.io/_uploads/ryT8b30fgx.jpg)
 ![](https://g0v.hackmd.io/_uploads/ry0UbnAMxl.jpg)
 ![](https://g0v.hackmd.io/_uploads/r1xiUWnCzel.jpg)
 ![](https://g0v.hackmd.io/_uploads/HJQaLbnAGxl.jpg)
-
-收音機區：手搖收音機等
-![](https://g0v.hackmd.io/_uploads/rJlaIb3RMxg.jpg)
-
 
 ## 梅田 Loft
 
