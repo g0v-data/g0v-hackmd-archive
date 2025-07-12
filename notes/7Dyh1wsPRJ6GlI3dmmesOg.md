@@ -3,9 +3,9 @@
 ###### tags: 防災 日本 防災グッズ
 
 
-## 罐頭麵包
+## イザメシ　メープルデニッシュ
 
-楓糖丹麥麵包
+¥650
 
 ![](https://g0v.hackmd.io/_uploads/Bkxdm2Afge.jpg =x400) ![](https://g0v.hackmd.io/_uploads/HJ-fdQ2Rzex.jpg =x400)
 
@@ -25,15 +25,19 @@
 
 ![](https://g0v.hackmd.io/_uploads/S1Qdm3Czxl.jpg =x600)
 
-## RISOTTa ガパオ リゾッタ
+## RISOTTa ガパオ リゾッタ 燉飯
+
+¥490
 ![](https://g0v.hackmd.io/_uploads/SkMmu73AMeg.jpg =x400)
 
 ## Onisi 飯糰
+
 ¥298
 要掃 QR code 看完影片才比較知道要怎麼吃
-![](https://g0v.hackmd.io/_uploads/SkpttZg8gl.png)
+![](https://g0v.hackmd.io/_uploads/SkpttZg8gl.png =x400)
 
 ## Emergency cookie
+
 還好。
 
 ![](https://g0v.hackmd.io/_uploads/Sy7zd73Afgl.jpg =x400) ![](https://g0v.hackmd.io/_uploads/rkeG_Q20Mxg.jpg =x400)
@@ -45,23 +49,35 @@
 
 ## ぽけっトイレ 口袋廁所
 
+¥438
+
 ![](https://g0v.hackmd.io/_uploads/HJYbJfg8gx.png =x400) ![](https://g0v.hackmd.io/_uploads/rkxT4kGe8xl.png =x400)
 
 
 ## 防寒保溫毯
 
+
 ![](https://g0v.hackmd.io/_uploads/r1Bt1Mg8gx.png =x400) ![](https://g0v.hackmd.io/_uploads/SklYYkzg8gg.png =x400)
 
 ## ZABUPON (充氣軟墊)
+
+¥330
 
 ![](https://g0v.hackmd.io/_uploads/HJieVfxLxx.png =x400) ![](https://g0v.hackmd.io/_uploads/S1qzEflUgl.png =x400)
 
 
 ## AQUMO CANDLE
 
-![](https://g0v.hackmd.io/_uploads/r1Mi4MeIxg.png =x400)![](https://g0v.hackmd.io/_uploads/r1SjNGeLxx.png =x400)
+¥1,060
+
+![](https://g0v.hackmd.io/_uploads/r1Mi4MeIxg.png =x400) ![](https://g0v.hackmd.io/_uploads/r1SjNGeLxx.png =x400)
+
+## 不用水的指套牙刷
+
+¥550
 
 
+![](https://g0v.hackmd.io/_uploads/B1eqNBGxIxx.png =x400) ![](https://g0v.hackmd.io/_uploads/S1eESSfl8el.png =x400)
 
 ## 配好的防災包系列
 
