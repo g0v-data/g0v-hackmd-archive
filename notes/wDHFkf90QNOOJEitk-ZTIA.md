@@ -64,8 +64,12 @@
 
 > Namba Parks https://maps.app.goo.gl/eX6Uro1URw6bVeM2A
 
+只有一小櫃，每個種類都放一點點，選項不多。
+
 ![](https://g0v.hackmd.io/_uploads/By-UM3CGlg.jpg)
 
 ## 沒有防災物資的地方
 
+- Hands be 難波：Hands be 比較偏文具店，Hands 才有百貨。
+- 大創：露營用品區有些會與防災物品重疊（如野炊、照明）。但這種就不用到日本找了。
 - 
