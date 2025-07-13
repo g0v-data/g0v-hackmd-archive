@@ -9,18 +9,36 @@ tags: summit, summit2026
 
 - 時間：2025年7月13日 10:00
 - 地點：NPO Hub 二樓（g0v hackath68n）
-- 參與者：
+- 參與者：RS、球魚，Hou
 
-### [提案簡報](https://speakerdeck.com/rschiang/g0v-summit-2026-kickstart)
+### [提案簡報](https://speakRSerdeck.com/rschiang/g0v-summit-2026-kickstart)
 
 ### 開坑
 
 - 是不是要預抓工作？
 - 寫concept note?
+- 感覺如果是以社群為主的話，可以在今天大松現場先接觸不同的社群或專案，邀請他們先來卡位，底下收一些可以接觸的專案 [name=peter]
+    - cofacts
+    - 綠盟 thumbing-esg
+    - meshtastics
+    - 島島阿學
+    - 國會松
+    - 公務員的公民科技營
+- 需要 keynote speaker 嗎？
 
 ### 討論
 
-- 
+- 上次討論回顧
+    - 為什麼叫做反客為主，以及不是~~北海岸昆布鍋~~
+    - 交誼廳可以辦辦桌（pān-toh）和卡啦OK
+    - 連結圈外公民團體
+- 今天要做什麼
+  - 球魚：我們是不是先抓規模？
+      - 規模：人數大概 500 ~ 700 人？（大松三倍）
+      - 工作人員：以去年推估大概 80 人
+  - 預算：
+      - 工作人員衣服 400 + 兩日餐費 500 + 交通補助約 350(約29000)
+      - 住宿 1700 間／兩人 × 35
 
 ## -0.5籌
 

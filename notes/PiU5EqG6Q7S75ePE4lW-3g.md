@@ -12,6 +12,7 @@ tags: vTaiwan
 以下是 vTaiwan 目前正在進行的幾個不同的專案！如果有興趣，可以在取得共筆編輯權限後+1，或者是
 1. [vTaiwan議題小聚](/GUe0KXMsQBC-6KTIUPBVnA)
     - 適合對審議、公共討論有興趣的人加入
+    - 審議階段成果提案在[JOIN平台](https://join.gov.tw/idea/detail/8e17b12e-2c8a-45d4-a55b-660fb654fa83)，歡迎來附議，9/1以前過5000附議，就能被政府回覆！
     - 活動咖的最愛
     - 如果有公民團體與組織想要合作也可以看過來！
     - 目前也在進行 [AI 用於數位公民參與經驗](/nJUYukWFSWuEsG-XQalHcA) 的收集！
