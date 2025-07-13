@@ -58,6 +58,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #g0v-siliconvalley g0v 矽谷灣區小聚
 #russia
 #ukraine
+#netherlands_荷蘭
 #deutschland-germany 德國與德語區
 #french-français
 #uk
@@ -129,6 +130,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #edu-accomdemy 伴伴學社群頻道
 #edu-幸福存摺 小草書屋的「幸福存摺」專案
 #edu-daodao 島島阿學 slack 網址：https://bit.ly/3yg5cFi
+#edu-自學生經驗匯流_人工智慧版
 #edu-coteach CoTeach 教案資源共享平臺
 #edu-open CourseAPI 開放式課程資訊匯流學院
 #edu-lipoic Lipoic 是一個致力於整合與改善遠距授課與線上教室的教育平台，並讓學生能不受空間限制學習知識，老師能更便利地傳授知識，並且我們也熱衷於開放文化的精神，與我們一起翻轉教育吧！
@@ -251,12 +253,14 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #vaxxtw 疫苗預約的導流網站
 #reopen 疫情解封後指引
 #civil-defense 民防
+#united-front 對台統戰資料庫
 #us-wartime-connection
 #adiz_alerts 台灣防空識別區專案
 #cd-t-time 民防下午茶
 #atak 探討 ATAK-CIV 手機軟體應用於防災、民防、戶外任務情境
 #mesh Meshtastic Taiwan Community 臺灣鏈網
 #disaster-go 任務化提升台灣防災準備
+#心家園
 #gis 地理資訊、地理資料 :earth_asia: Geo-data
 #energy 能源議題頻道
 #rentea 租屋資料與議題
