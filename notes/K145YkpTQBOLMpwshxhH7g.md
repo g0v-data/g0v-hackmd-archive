@@ -5,14 +5,30 @@ tags: summit, summit2026
 
 # g0v Summit 2026 啟動會議
 
+## 0籌(?)
 
-# -0.5籌
+- 時間：2025年7月13日 10:00
+- 地點：NPO Hub 二樓（g0v hackath68n）
+- 參與者：
+
+### [提案簡報](https://speakerdeck.com/rschiang/g0v-summit-2026-kickstart)
+
+### 開坑
+
+- 是不是要預抓工作？
+- 寫concept note?
+
+### 討論
+
+- 
+
+## -0.5籌
 
 - 時間：2025年06月24日 19:00
 - 地點：NPO Hub 二樓
 - 參與者：RS、Dong、pm5、Hou、Peter
 
-## 所以有要辦嗎？
+### 所以有要辦嗎？
 
 - RS
     - 一定辦得起來，只是要辦什麼
@@ -87,7 +103,7 @@ tags: summit, summit2026
         - > 借場地的人可以堅持自己只有借場地(*ﾟ∀ﾟ) [name=pm5]
     - RS 可以幫忙跑場地
 
-## 想像
+### 想像
 
 （亂記）
 
@@ -95,7 +111,7 @@ tags: summit, summit2026
 - 後罷免
 - D-1 年
 
-### 主題
+#### 主題
 
 - 美軍環太平洋軍演的那個代號是什麼？
 - （開始在白板發想）
@@ -111,7 +127,7 @@ tags: summit, summit2026
     - （原本是形容詞但意外的討喜就留了下來）
 - 之後可以再細部著墨主題措辭
 
-### 時間
+#### 時間
 
 - 2026/5 總統就職兩週年？
 - 2026/11 底縣市長選舉
@@ -122,30 +138,30 @@ tags: summit, summit2026
     - 5/23–24
     - 先去問問場地跟住宿
 
-### 其他
+#### 其他
 
 - 開設 #summit-2026 頻道（完成）
 - 7 月大松提案（完成）
 
 散會（21:30）
 
-# -1籌 
+## -1籌 
 
 - 時間：2025年05月25日 11:40
 - 地點：NPO Hub 二樓
 - 參與者：Allen、Bestian、Dong、bayarea
 
-## 還有人要辦 Summit 嗎？
+### 還有人要辦 Summit 嗎？
 - [name=Allen] 沒有人想要辦的 Summit 還算 g0v Summit 嗎？
     - [name=Dong] 所以要先統計有人想要辦/參與Summit嗎？
     - [name=RS] 我覺得Summit很有趣
 - [name=Allen] 要辦 Summit 有什麼資格？缺什麼？
-## Summit 是如何開始的？
+### Summit 是如何開始的？
 
-## 現在辦 Summit 要怎麼開始？
+### 現在辦 Summit 要怎麼開始？
 - 有人說要當總召就可以嗎？
 
-## 要問大家的問題？
+### 要問大家的問題？
 - 你有參加過 g0v Summit 嗎？
     - 有
         - 對於你來說， Summit 是什麼樣的存在？
@@ -202,5 +218,5 @@ tags: summit, summit2026
     - 如果邀請無法參與現場的人以遠端參與呢？ https://app.gather.town/
 
 
-# Summit 籌備文件入口
+## Summit 籌備文件入口
 - [Summit 2024 籌備文件](https://g0v.hackmd.io/@summit2024/book/%2FImDuJ2MwSh2Cmia0WyWinA)

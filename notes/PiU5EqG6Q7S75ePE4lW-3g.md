@@ -16,7 +16,7 @@ tags: vTaiwan
     - 如果有公民團體與組織想要合作也可以看過來！
     - 目前也在進行 [AI 用於數位公民參與經驗](/nJUYukWFSWuEsG-XQalHcA) 的收集！
 2. [vtaiwan x Tech for Good Asia 合作](/PdvNjkLlSd-WytXN_otWbQ) 計畫
-    - 預計會討論人工智慧相關議題
+    - 預計會討論人工智慧或網路治理相關議題
     - 需要研究與分析人才
     - 想要貢獻議題或意見這邊請
 3. [vTaiwan 網站改版，啟動！](/Q3_hgovyRHusEq8-3nomPQ)
