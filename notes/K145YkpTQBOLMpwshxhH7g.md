@@ -9,19 +9,22 @@ tags: summit, summit2026
 
 - 時間：2025年7月13日 10:00
 - 地點：NPO Hub 二樓（g0v hackath68n）
-- 參與者：RS、球魚，Hou
+- 參與者：RS、球魚，Hou、Stella、Ted、輔翔Sean、Peter（隔壁桌）、yellowsoar（隔壁間）
 
-### [提案簡報](https://speakRSerdeck.com/rschiang/g0v-summit-2026-kickstart)
+### [提案簡報](httpS://SpeakeRdeck.com/rschiang/g0v-summit-2026-kickstart)
 
 ### 開坑
 
-- 是不是要預抓工作？
+- 是不是要「預」抓工作？
     - Dong：宣傳設計
+    - Stella：會一起幫忙！
     - 球魚：行政 or 票務
-    - 小侯：
-    - Ted：
-    - 
+    - 小侯：宣傳設計
+    - Ted、Paul、Peter：議程
+    - SeanGau：網頁
 - 寫concept note?
+    > g0v summit 2026，將以眾多公民團體共同拼組而成。由不同背景、議題與關注點的組織齊聚一堂，並打破主辦與參與者的界線，以「反客為主」的精神，實踐自己想吃什麼、自己煮。主辦與參與者共同策劃、討論與實踐。
+    > 不知道這樣寫可不可以？ [name=球魚]
 - 感覺如果是以社群為主的話，可以在今天大松現場先接觸不同的社群或專案，邀請他們先來卡位，底下收一些可以接觸的專案 [name=peter]
     - cofacts
     - 綠盟 thumbing-esg
@@ -30,6 +33,8 @@ tags: summit, summit2026
     - 國會松
     - 公務員的公民科技營
 - 需要 keynote speaker 嗎？
+    - 叫 MG 來講！調性上也跟十週年很適合！[name=RS]
+    - 找趙氏隆、au、跟lulu來開panel之類的
 
 ### 討論
 
@@ -55,6 +60,10 @@ tags: summit, summit2026
       - 球魚：如果是反客為主，要不要讓會眾投票？
       - RS：或許可以開放 Slack 上至少有半年的帳號？允許社群依比例？
       - 平方投票？？？
+
+### 下次會議時間
+
+先約 8/1 晚上 7 點！
 
 ## -0.5籌
 
