@@ -21,4 +21,11 @@
     color: #fff;
     text-shadow: 0 1px 0.15em rgba(0,0,0,.2);
 }
+.summary h1::after {
+    content: '反客為主';
+    display: block;
+    font-size: 0.618em;
+    color: rgba(0,0,0,.15);
+    text-shadow: none;
+}
 </style>
