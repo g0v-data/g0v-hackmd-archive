@@ -6,7 +6,7 @@ tags: cofacts
 
 :::info
 - g0v slack channel：#cofacts
-- [Proposal slides](https://docs.google.com/presentation/d/10VRulY_MFMZK4wQNPN6Yjm8N8S9_wi-K1vUwelicwiQ)
+- [Proposal slides](https://docs.google.com/presentation/d/1Hh2dJ2Sa-IlRZYTGOjXT6n-3vp3DRuGSwSoVR9nkNyY/edit)
 - 坑主：bil & MrOrz (Johnson)
 - 場地：2F 廁所旁邊
 :::
