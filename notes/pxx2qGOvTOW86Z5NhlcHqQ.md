@@ -12,3 +12,6 @@ https://www.facebook.com/BuyDirectlyFromFarmers/posts/pfbid02UMKspd8XYiayAyS3tiX
 
 風吹過的田｜災後農產支持行動
 https://www.facebook.com/profile.php?id=61578044650503
+
+購買農產支持台南後壁區的[臺灣璞育文教發展協會](https://www.facebook.com/share/1BLbPTH6Ch/)課輔據點重建 
+https://lihi.cc/TK2FI
