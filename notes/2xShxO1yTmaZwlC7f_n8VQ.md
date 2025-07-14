@@ -1,3 +1,6 @@
+---
+tags: food,
+---
 
 # 高雄美食地圖 for 面海松 Kaohsiung Foodie Map for FtO 2025 
 
