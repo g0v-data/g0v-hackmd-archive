@@ -9,3 +9,6 @@ https://www.facebook.com/coFishland/posts/pfbid02zzwRjSx8cn7qFwLamkZUAyuoyX45vcj
 
 直接跟農夫買
 https://www.facebook.com/BuyDirectlyFromFarmers/posts/pfbid02UMKspd8XYiayAyS3tiXs73yfYhKndtQPiN5j8QKu6ezHmYQDiqPMpdUg3ow8LCFhl
+
+風吹過的田｜災後農產支持行動
+https://www.facebook.com/profile.php?id=61578044650503
