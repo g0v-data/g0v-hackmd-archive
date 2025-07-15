@@ -8,7 +8,8 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 9點關機：
 schtasks /Create /TN "Shutdown" /TR "shutdown /s /t 0" /SC DAILY /ST 21:00 /RU SYSTEM /RL HIGHEST /F
 
-https://www.icpdas.com/tw/product/guide+Remote__I_O__Module__and__Unit+Ethernet__I_O__Modules+OPC__UA__I_O__Module
+Windows 閒置 10 分鐘自動鎖定
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v InactivityTimeoutSecs /t REG_DWORD /d 600 /f
 
 https://app.powerbi.com/groups/ea74a80c-0759-4de3-9a85-0c6d4c165b59/reports/9510db41-7352-4d9e-8444-795b93f36382/c5baaebd74dec3548c54?experience=power-bi
 #### 常用連結
