@@ -8,6 +8,7 @@ tags: vTaiwan小松
 線上參與連結 / Link：Peter, Bestian, Joey, Tim, 翊婷
 https://vtaiwan.pages.dev/jitsi
 (請用Google登入以啟用完整轉錄功能)
+![](https://g0v.hackmd.io/_uploads/rJpdheS8gx.png)
 
 備用視訊連結：
 https://meet.jit.si/vtaiwan

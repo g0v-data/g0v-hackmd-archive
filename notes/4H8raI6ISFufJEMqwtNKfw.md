@@ -16,7 +16,7 @@
 </ul>
 
 <h2>Licence Et Régulation De Casino Olympe</h2>
-<p>La licence de Casino Olympe est un élément fondamental dans la perception de sa fiabilité. Accordée par la Curaçao Gaming Authority sous le numéro OGL/2024/826/0339, cette licence offre une régulation claire au sein d’une juridiction bien connue dans l’univers du jeu en ligne.</p>
+<p>La licence de <a href="https://olympe-casinos.fr/" target="_blank">casino olympe</a> est un élément fondamental dans la perception de sa fiabilité. Accordée par la Curaçao Gaming Authority sous le numéro OGL/2024/826/0339, cette licence offre une régulation claire au sein d’une juridiction bien connue dans l’univers du jeu en ligne.</p>
 
 <p>La Curaçao Gaming Authority supervise l’exploitation de la plateforme, garantissant aux joueurs une expérience sécurisée, notamment par le recours à un générateur de nombres aléatoires (RNG) conforme aux standards internationaux. La validité de cette licence ne dispose pas d’une date précise d’expiration communiquée, renforçant ainsi une continuité dans la transparence et la légalité de la plateforme.</p>
 
