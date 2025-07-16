@@ -15,11 +15,11 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 
 ## 以下是 g0v slack 頻道列表與簡介<br>》歡迎協助 (1) 提供中文簡短介紹、(2) 將簡介翻譯成英文 🙏
 
-:star2:  g0v Slack Channel Guide 頻道傳送門
-．Global & Local
-．Infra / G0vernace
-．Edu / Learning / Health / Living
-．Open Gov & Projects
+g0v Slack Channel Guide 頻道傳送門
+．Global & Local：44 個頻道
+．Infra / G0vernacel：48 個頻道
+．Edu / Learning / Health / Livingl：60+ 個頻道
+．Open Gov & Projects：105+ 個頻道
 
 ### Global & Local
 #general 社群大廳，可以在這邊提出任何問題！ G0v City Hall / Plaza
@@ -119,6 +119,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 #g0v-social creating g0v.social, a decentralized social network
 
 ### Edu / Learning / Health / Living
+#幼兒發展調查資料庫
 #moedict 萌典、字典
 #amis 阿美語萌典
 #itaigi 愛台語 對漢字佮台羅誠熟手，做伙鬥校對巡喲

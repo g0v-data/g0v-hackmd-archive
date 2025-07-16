@@ -5,12 +5,13 @@ tags: vTaiwan小松
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
 參與者 Participants:
-線上參與連結 / Link：Peter, Bestian, Joey, Tim, 翊婷
+線上參與連結 / Link：Peter, Bestian, Joey, Tim, 翊婷，Anan, Shu
 https://vtaiwan.pages.dev/jitsi
 (請用Google登入以啟用完整轉錄功能)
 
 備用視訊連結：
 https://meet.jit.si/vtaiwan
+![](https://g0v.hackmd.io/_uploads/SkLMGfr8gx.png)
 
 ::: success
 ## 專案儀表板：目前 vTaiwan 社群在進行的事情 
@@ -58,7 +59,11 @@ https://meet.jit.si/vtaiwan
 ## 網站更新進度
 - 新增了 discourse 的功能
 - 新功能：讓網站的內容管理者可以編輯與監修人工智慧轉錄的摘要。
-- 
+
+### 新發現！可以拿到 polis 的原始資料了！
+- https://g0v.hackmd.io/6mzxQkY3Sr6ILYSfSMsqVg
+> 可以拿到每個意見底下的贊成反對人數，但不會拿到個別人投的票[name=bestian]
+
     
 ### Action List
 - 新增垃圾文利用 discourse 進行 SEO 的動作。 [name=peter]
@@ -66,5 +71,39 @@ https://meet.jit.si/vtaiwan
 - 確認 vTaiwan 是否有 imgur 帳號以存放網站的圖片。[name=peter]
 - 開一個新的 issue 來處理串接 Polis.tw 到網站上的可行性。[name=peter]
 
-## 0804 議題小聚活動相關討論
-- 
+
+## 0801 議題小聚活動相關討論
+- 更新：目前 polis 與 google 表單都已經安排好。
+- 行政上的變動安排：
+    - 19:00 開始
+    - 餐食的部分改成 洪瑞珍，目的是減少垃圾量。預算的支應會來自台灣網路資訊中心（TWNIC）
+    - 給參與者的車馬費提升到 1200 元，預算的支應會來自台灣網路資訊中心（TWNIC）
+- 這一次活動的特殊性：
+    - 透過兩次的審議，
+    - 上一次的活動是公開的，這一次的活動是延續上一次的活動，所以是 closed meeting
+- 8/1 活動出席狀況
+    - +1 [name=peter]
+    - +1 [name=yi-ting]
+    - +1 [name=阿南Anan]
+- 如果有 polis report 的話可以幫忙處理 [name=bestian]
+- 8/4 會有線上會議！
+
+### Action List 
+- 確認 vTaiwan 社群參與者的出席狀況
+
+
+### 會議轉錄記錄
+
+
+轉錄到的逐字稿：
+
+https://vtaiwan.pages.dev/transcription_detail/20250716
+
+
+
+Bestian 講述了他們的網站原本使用 Discourse 作為討論區，但是想要增加網站的續續性，所以決定使用同一個 Discourse 來整合。他們試圖將原本的網站內容串接到 Discourse 上，並且可以透過關鍵字搜尋討論主題。他們也討論了 Discourse 與原本網站的討論區的關係，以及如何處理垃圾文件的問題。最後，Peter提到了 Discourse 的封鎖功能，並討論了如何處理被封鎖的使用者。
+
+Yi-Ting介紹8/1議題小聚延續場的進行方式。
+
+[Peter的講述](https://docs.google.com/document/d/17n2dw18hA2UQzFBNMQ6kaPKSdYubRchOTPrlVmg_PHY/edit?pli=1&tab=t.0#heading=h.7083thss4cav)
+
