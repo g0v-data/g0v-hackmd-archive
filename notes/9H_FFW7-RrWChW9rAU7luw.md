@@ -51,6 +51,8 @@ Contributing content **means that you agree to waive your copyright and release 
 
 > 資料來源包含 119、1999 等通報，[資料集](https://data.gov.tw/dataset/12851)
 
+- [屋瓦修復需求調查](https://www.newsmarket.com.tw/blog/224847/)
+
 # 支持農漁產品與觀光產業
 
 - [支持農漁產品 / 觀光產業](https://g0v.hackmd.io/pxx2qGOvTOW86Z5NhlcHqQ?view)
