@@ -51,7 +51,7 @@ tags: food,
 | ------------------ | ---------------------------- | ------------------------------ | --- |
 | koou coffee | 803007高雄市鹽埕區新樂街117號2樓  |一樓是日本酒專賣店，二樓是日本酒為主題的咖啡廳 | https://share.google/2e7Z5MdwsQbR87EzD  |
 |  阿婆仔冰   | 803高雄市鹽埕區七賢三路150號 | 傳承多年的刨冰店，料多實在 | https://share.google/ffNiW09i46ZxH2L1o |
-
+|  一盞咖啡  | 802高雄市苓雅區復興二路49巷9號 |開到半夜12點的咖啡廳。大家都推布丁或奶酪，雖然好像偏甜。  | https://share.google/OS7cPVw3BqAObmyGz |
 ### 酒吧 Bar 
 
 | 店名  Name     | 地址     Address | 說明      Note   | Google Map    |
