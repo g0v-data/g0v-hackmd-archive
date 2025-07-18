@@ -74,6 +74,7 @@
     * [LIVE 剴剴案今四度開庭 場外民眾舉牌聲援](https://www.youtube.com/watch?v=WUC3_CyB4M4)
     * [劉姓保母姊妹涉虐死男童剴剴 北院開庭逾200人集結高呼不得假釋](https://www.cna.com.tw/news/asoc/202503190220.aspx)
 * 20250513 剴剴案宣判
+    * [判決書](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPDM,113%2c%e5%9c%8b%e5%af%a9%e8%a8%b4%2c1%2c20250513%2c9)
     * [剴剴遭保母姊妹虐死案宣判 姊姊無期徒刑、妹妹判刑18年](https://news.pts.org.tw/article/750931)
 * 20250718 剴剴條款法案三讀通過
     * [朝野共識虐童致死「判死刑」　「剴剴條款」1爭議條文陷分歧](https://www.ettoday.net/news/20250718/2998684.htm)
