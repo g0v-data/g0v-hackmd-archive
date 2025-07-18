@@ -388,6 +388,11 @@ https://www.journals.uchicago.edu/doi/abs/10.1086/730621
 * 「公民科技促進數位民主發展之挑戰及政策建議」政策報告
 * https://g0v.hackmd.io/@d2wg/book
 
+### g0v 研究_徵受訪者 by Sam
+
+說明文件：https://g0v.hackmd.io/@5jPm6t3mSECMQeN0oYLaMA/BkffhrnVge?type=view
+
+
 ---
 ## 教科書 / 書本 / 出版
 ### Schoolbook 教科書中曾出現 g0v 社群或專案的內容

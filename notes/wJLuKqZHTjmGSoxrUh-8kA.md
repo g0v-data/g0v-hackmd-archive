@@ -73,6 +73,11 @@
     * [剴剴案四度開庭 賈永婕聲援落淚：無法想像有這樣的惡魔](https://udn.com/news/story/7321/8618294)
     * [LIVE 剴剴案今四度開庭 場外民眾舉牌聲援](https://www.youtube.com/watch?v=WUC3_CyB4M4)
     * [劉姓保母姊妹涉虐死男童剴剴 北院開庭逾200人集結高呼不得假釋](https://www.cna.com.tw/news/asoc/202503190220.aspx)
+* 20250513 剴剴案宣判
+    * [剴剴遭保母姊妹虐死案宣判 姊姊無期徒刑、妹妹判刑18年](https://news.pts.org.tw/article/750931)
+* 20250718 剴剴條款法案三讀通過
+    * [朝野共識虐童致死「判死刑」　「剴剴條款」1爭議條文陷分歧](https://www.ettoday.net/news/20250718/2998684.htm)
+    * [「剴剴條款」三讀通過！虐殺7歲以下童最重死刑 45綠委反對](https://udn.com/news/story/6656/8880976)
 
 參考資料：
 * [林祐生(剴剴外婆友人)臉書](https://www.facebook.com/kevinlin3160/posts/pfbid0dLRybhBiErYSyVHEAcuXzsaMqHykgVnFPUHPTPLaWVYPqg9YMS1zRPeGntHoTyGRl)
