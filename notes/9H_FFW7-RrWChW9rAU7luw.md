@@ -37,6 +37,9 @@ Contributing content **means that you agree to waive your copyright and release 
 ## 志工人力徵求
 - [需求地點人力及聯絡人彙整 `可編輯 民間`](https://docs.google.com/spreadsheets/d/e/2PACX-1vTc2YK21IJPMz4vgWNz6zPkIyH9XkxGfY_PsVxbLYdZzXMDXKkPUxEelYq1x0fDmYDgw1nZscrSpPi3/pubhtml)
 - [災情物資需求儀表板 - QSearch](https://lookerstudio.google.com/u/0/reporting/b2dad519-ed5c-4d19-9f7e-06a32309c01c/page/xy1QF)[target=_blank]
+
+> 太空袋、米袋 民間捐助經驗 https://www.facebook.com/share/16hY9LoRhN/
+
 - [丹娜斯風災復原  志工需求表 `僅供檢視 民間`
 ](https://docs.google.com/spreadsheets/d/1mjJcVNJY-_UkwZpDBxV3g7vKtpt6pvssd809sRz7pWc/edit?usp=sharing)
 - [台南市志願服務網 `NGO`](https://gudate.com/view.php?new_sn=3132&view_menu=0&view_menu_title=1&sales_sn=)[target=_blank] 
