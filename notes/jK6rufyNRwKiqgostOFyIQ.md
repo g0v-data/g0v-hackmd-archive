@@ -51,6 +51,8 @@ https://youtu.be/ZxCh_5qkZBg
 呈現方式
 - 時間地圖?
 
+稀土礦場
+- https://youtu.be/w88jqiXa_PE
 
 ## 主題領域探討
 
