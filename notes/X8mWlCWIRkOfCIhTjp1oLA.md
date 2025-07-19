@@ -233,27 +233,12 @@ https://sch001.g0v.tw/dash/prj/PYT0Zh11Dx0fE99.57SCnBr.FZPRb8
 
 桃園市蘆竹區忠孝西路桃園街口至中正路口的人行道標線完善之後又被塗消掉
 
-新竹
-https://www.facebook.com/story.php?story_fbid=pfbid0YHMSn8SxNPH1jTX1XWETbs6J151cBW8TYoZj6aiEudZ2cL1Px5gMLCoztb67PCeyl&id=100049204915573&mibextid=qC1gEa
-
-新竹光復路一段
-https://www.facebook.com/share/p/Tn33id7Yr3vB1uFv/
-
-新竹建功路，小型圓環案例參考
-https://fb.watch/kGC-s0SlCw/
-
-竹東路
-https://www.facebook.com/story.php?story_fbid=pfbid02iTXbmiAz5kSRfp8Ghrhw9HYmPazgjWw2CmVsSpAzfQVK955hqUcLAtpV7hsBeQUTl&id=100044187741586&mibextid=qC1gEa
-
-竹科
-https://dep-traffic.hccg.gov.tw/ch/home.jsp?id=19&parentpath=0,3&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=202505060008&t=MunicipalNews&mserno=201601300038
-
 新竹縣
 https://www.facebook.com/groups/streetobservation/permalink/653490636701533/
 https://goo.gl/maps/QEDGFhNVHE6JXVvAA
 (錯的)
 https://maps.app.goo.gl/xr6tN8ymyQKHrWT37
-隊的
+對的
 https://www.cna.com.tw/postwrite/chi/357789
 新聞
 
