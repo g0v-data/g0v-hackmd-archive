@@ -24,6 +24,8 @@ https://g0v.hackmd.io/Lb0B2IYyRuC_GXgfmejjCA
 322服貿廣場松：整合現場後勤的物資訊流
 https://g0v.hackmd.io/ZTX1YNZJRO-Z-JDc89oYpw
 
+大量交織 FB 社團
+https://www.facebook.com/share/g/1BHVLyi5y6/
 
 ## 社會各界的方案蒐集
 
