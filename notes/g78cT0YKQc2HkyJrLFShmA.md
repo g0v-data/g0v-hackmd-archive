@@ -1,6 +1,10 @@
 # 點考澳門公務員
 ###### tags: `澳門`
 
+:::warning
+【過時】因為法律法規會因應需求而進行更改，此篇內容未必一直都正確及適用！
+:::
+
 :::success
 【歡迎協作】如果呢篇文有幫到你，而又有野你見到呢篇文冇記錄，希望你可以入來加埋上去。歡迎發佈，編輯，重製。如果見到有錯，都請幫手修改者comment。
 :::
@@ -11,10 +15,6 @@
 
 :::warning
 【請勿破壞】請勿惡意破壞文章內容。
-:::
-
-:::warning
-【可能過時】因為法律法規會因應需求而進行更改，此篇內容未必一直都正確及適用！
 :::
 
 > 冇要求一定要點協作，我不太會刪除你寫的內容，但可能會整理下樣式，太亂的話，文章就會變得難睇。想表逹意見的話可以使用Comment功能，先按右上角支筆，再按文章段落右上角的對話小icon後就會系右手边跳出comment的框框。又或者使用呢段文的樣式，系段落開頭加 > 結尾加上 [ name = 我的名字 ]  [name=johnshao]
@@ -691,11 +691,6 @@ Google Sheet 範本：https://docs.google.com/spreadsheets/d/1i4Kq8Cl1fxQP1vJ4IP
 
 如果你考到，即使已經入左職，我都建議你keep住考多一年兩年。如果你一入職就停左，你就會變得被動，當自己發覺個部門唔適合自己時，就冇機會轉。當你過一段時間，大致了解左部門的人事同文化，覺得適合自己，可以長做，就停落來唔再考。
 
-我會建議你去睇下台灣柯文哲的書，[有用資訊](#有用資訊)里面有，想成為/身為公務員，你系需要有理念。
-
->「如果你要跑得快的話，那應該一個人跑；
-　可是你要走得遠的話，大家要一起前進。」
- 　　 　　 　　 　　 　　  　　- - 柯文哲
 
 還有需要練習看長篇文章，比如是[報導者](https://www.twreporter.org/)和[端傳媒](https://theinitium.com/)的深度報導。還有國際和外媒的資訊，特別是[華爾街日報](https://cn.wsj.com/zh-hant)，[BBC](https://www.bbc.com/zhongwen/trad)和[紐約時報](https://cn.nytimes.com/zh-hant/)。看不懂英文，也可以看中文版。
 
@@ -958,7 +953,6 @@ tbc
 
 2020年，經過新型肺炎一疫之後，退休基金會提供除填紙申請以外的方法。~~建議一定要申請~~由2020年9月27日電子政務法生效後，唔使申請都可以使用。不多做介紹，詳見：[轉換易](https://www.fp.gov.mo/eswitching/cp_drp_eswitching_introduction.aspx), [電子轉換時間](https://www.fp.gov.mo/eswitching/cp_drp_eswitching_important_date.aspx), 退休基金會
 
->個人意見(僅供參考)：投資產品有風險，而且系一定有，佢唔會長期/短期一定升/一定跌，都唔會因為你系長期投資，少做操作，而冇左個風險，最終升值或者保值。再來風險本身就系變動的，在風險變到高的時期無法做避險操作系幾痛苦？只有親身經歷過的人先會知。投資操作系必要的，而且系最重要的避險方式。所以建議你去學習何為投資，點樣投資，最重要系點樣令自己不會蝕到受唔住先，再來如何有收益？再來如何有低收益？再來如何有高收益？而且要點做？做唔做到？。再來，思索公積金的強制規則，做出經思考過後相對應的決定，絕不可以直接將人地過往在其它地方的方法直接套在這里。即使你投資港股幾勁都好，系呢度，你一個月先做一次操作，仲要一年得4次。就算你識預知未來都冇用，個期就唔到，就系冇得比你做操作。
 
 詳細規定：[公務人員公積金制度](https://bo.io.gov.mo/bo/i/2006/35/lei08_cn.asp)或者[退休基金會網站](https://www.fp.gov.mo)
 
@@ -1041,7 +1035,6 @@ TBC
 
 除了認識表面的條文文字，都應該了解條文背後的涵義，立法時的環境和目的。有能力的話，更加應該要去學習法律與個人、社會、經濟、歷史、文化、普世價值之間的關係。
 
-最後，我都建議你去睇書，[柯文哲的書](#有用資訊)。
 
 [公務人員培訓課程](https://www.safp.gov.mo/safptc/training/index.htm)
 
@@ -1431,18 +1424,6 @@ https://www.dsf.gov.mo/asset/asset_houseallocate.aspx?lang=zh, 公務員房屋�
 * [統一管理制度 - 行政公職局]( https://concurso-uni.safp.gov.mo/)
 * [公務人員職程制度]( http://carreira.safp.gov.mo/index.html)
 * [公務人員管理及服務平台（G2E）](https://g2e.gov.mo/zh-hant/)
-* 
-* [柯P模式 : 柯文哲的SOP跟你想的不一樣](https://webpac.library.gov.mo/client/zh_TW/webpac/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:502068/one?qu=%E6%9F%AFP%E6%A8%A1%E5%BC%8F+%3A+%E6%9F%AF%E6%96%87%E5%93%B2%E7%9A%84SOP%E8%B7%9F%E4%BD%A0%E6%83%B3%E7%9A%84%E4%B8%8D%E4%B8%80%E6%A8%A3&te=ILS)
-* [改變成真 : 柯文哲的城市進化論](https://webpac.library.gov.mo/client/zh_TW/webpac/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:481884/one?qu=%E6%94%B9%E8%AE%8A%E6%88%90%E7%9C%9F+%3A+%E6%9F%AF%E6%96%87%E5%93%B2%E7%9A%84%E5%9F%8E%E5%B8%82%E9%80%B2%E5%8C%96%E8%AB%96&te=ILS)
-* [白色的力量 - 柯文哲 : 我改變不了四季的變化,只能讓其盡善盡美](https://webpac.library.gov.mo/client/zh_TW/webpac/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:481099/one?qu=%E7%99%BD%E8%89%B2%E7%9A%84%E5%8A%9B%E9%87%8F&qu=-&qu=%E6%9F%AF%E6%96%87%E5%93%B2+%3A+%E6%88%91%E6%94%B9%E8%AE%8A%E4%B8%8D%E4%BA%86%E5%9B%9B%E5%AD%A3%E7%9A%84%E8%AE%8A%E5%8C%96%2C%E5%8F%AA%E8%83%BD%E8%AE%93%E5%85%B6%E7%9B%A1%E5%96%84%E7%9B%A1%E7%BE%8E&te=ILS)
-* [白色力量. 4 : 光榮城市 : 柯文哲的進步價值](https://webpac.library.gov.mo/client/en_US/webpac/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:585869/one?qu=9789576580086&te=ILS)
-* [生死之間：柯文哲從醫療現場到政治戰場的修練](https://webpac.library.gov.mo/client/en_US/webpac/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:587120/one?qu=9789864777075&te=ILS&fbclid=IwAR3h7_7ClDPyelRICdiXsCZH11Jz-3ChaSoX522wUOVfCoTvXSWQkfl7fbc)
-* [生死之間2︰葉克膜的故事](https://readmoo.com/book/210165962000101)
-* [人生十堂課(音頻課) (有聲書)](https://www.books.com.tw/products/E070000536?sloc=main)
-* [柯P管理學：價值，領導，創新](https://readmoo.com/book/210242541000101)
-* [柯文哲的台灣筆記](https://readmoo.com/book/210301411000101)
-* [漫畫柯文哲](https://readmoo.com/book/210300834000101)
-* [自由與平等之間](https://readmoo.com/book/210239552000101)
 
 ## 相關法例
 * [第87/89/M號法令核准的《澳門公共行政工作人員通則》](https://bo.io.gov.mo/bo/i/89/51/estatuto_cn.asp)
