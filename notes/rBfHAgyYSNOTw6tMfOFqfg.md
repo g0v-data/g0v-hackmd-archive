@@ -18,7 +18,7 @@ https://www.facebook.com/share/p/15pq28AxCC/
 https://docs.google.com/presentation/d/12jmmN0e1Ige_bl_-CnyonIoKWe_F9H_4kS2PTVXkttM/edit#slide=id.g31d1fb839b7_1_0
 
 AI 應用提案模板
-
+https://g0v.hackmd.io/rywMmJtrSNa1w_pmsUJgzw?view
 
 ## 修圖片
 

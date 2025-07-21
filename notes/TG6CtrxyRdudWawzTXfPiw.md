@@ -37,7 +37,7 @@ https://photos.app.goo.gl/AAG1nM1Wc5PKGcsp9
 [toc]
 :::
 
-跳坑：明錡, chewei, yellowsoar, Tiff, 小夏, Tmonk,蔡阿薛Eden 
+跳坑：明錡, chewei, yellowsoar, Tiff, 小夏, Tmonk, 蔡阿薛Eden 
 
 專案介紹影片：https://youtu.be/6UyYrYeWFks
 
