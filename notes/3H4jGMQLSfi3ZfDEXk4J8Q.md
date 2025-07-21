@@ -24,6 +24,8 @@ GA: UA-98468513-3
 *   **rumors-site PR #608**: [chingweih] 修復後下週測試
 *   **url-resolver 重構**: See issue https://github.com/cofacts/rumors-api/issues/374
 
+## 來自 Discord 頻道
+
 ### notable-events
 - **會議時間變更**
   - `mrorz@g0v-tw` 宣布本週會議改至週二 7/22 20:00。
@@ -51,5 +53,16 @@ GA: UA-98468513-3
   - `MrOrz` 針對此 PR 提出 review，指出直接顯示 URL 可能導致排版過寬，建議限制顯示的 URL 數量或實作更緊湊的顯示方式。
   - `gemini-code-assist[bot]` 則點出程式碼中潛在的 crash 風險，因 `hyperlinks` prop 可能包含 `null` 值。
   - PR 連結: https://github.com/cofacts/rumors-site/pull/608
+
+---
+
+Classifier
+- https://github.com/cofacts/worker/pull/1
+- 有點 over-engineer?
+    - 拆步驟一次處理很多 article 要做很多事，單一 article 要分類會簡單很多
+    - batch processing 會花數分鐘到數小時不等（24hr 內完成），改 prompt 重測也很花時間
+    - batch processing 可以享半價優惠，但本來分類的 cost 就不大
+- 分數不對，如 title emoji 導致 ID 對不到 https://langfuse.cofacts.tw/project/cmc6kvvfg0003lr08sbchn986/traces/7c8b9eed-b2e1-4b77-8314-4b18a92461f4
+    - 已經試著移除部分「AI only」category
 
 ## :calendar: Next meeting
