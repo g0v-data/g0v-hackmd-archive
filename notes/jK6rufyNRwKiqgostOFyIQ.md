@@ -54,6 +54,9 @@ https://youtu.be/ZxCh_5qkZBg
 稀土礦場
 - https://youtu.be/w88jqiXa_PE
 
+宜居指南
+- https://yiju.city/china
+
 ## 主題領域探討
 
 地方主義
