@@ -20,3 +20,5 @@ tags: river,
 ---
 
 活動簡報：https://docs.google.com/presentation/d/1U81unl6hM2XIowA16YuOORr3eELlBa-X3NgHCDNWDOc/edit?usp=sharing
+
+討論過程內容：https://photos.app.goo.gl/BkExorCmKiko1tis9
