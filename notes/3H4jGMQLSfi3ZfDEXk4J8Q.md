@@ -16,19 +16,20 @@ GA: UA-98468513-3
 
 *   **[bil]** IT Matters 社會影響力獎報名
 *   **[mrorz]** 回信 joyharvest
+    - 已完成
 *   **[Johnson]** 資訊安全權限設定
+    * 未完成
 *   **CCPRIP - Analytics**: Opendata trend & LINE Bot usage 報表問題
+    * 未完成  
 *   **cofacts.ai**: Groundness Check agent 實作
+    * 未完成 
 *   **Claude Code Action**: 連接到 Vertex AI
-*   **下次大松場地**: 優先考慮 forum
+    * 未完成 
 *   **rumors-site PR #608**: [chingweih] 修復後下週測試
+    * 尚未看到 
 *   **url-resolver 重構**: See issue https://github.com/cofacts/rumors-api/issues/374
 
 ## 來自 Discord 頻道
-
-### notable-events
-- **會議時間變更**
-  - `mrorz@g0v-tw` 宣布本週會議改至週二 7/22 20:00。
 
 ### general
 - **日本 AI 不實訊息反制策略分享**
