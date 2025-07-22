@@ -56,7 +56,7 @@ GA: UA-98468513-3
 
 ---
 
-Classifier
+## Classifier
 - https://github.com/cofacts/worker/pull/1
 - 有點 over-engineer?
     - 拆步驟一次處理很多 article 要做很多事，單一 article 要分類會簡單很多
