@@ -9,6 +9,9 @@ tags:
 股份漁鄉
 https://www.facebook.com/coFishland/posts/pfbid02zzwRjSx8cn7qFwLamkZUAyuoyX45vcjEJht4poqHa9h2kBsx68WdZNgnAQ1eMV4Sl
 
+
+https://www.facebook.com/share/v/1CJLcPt4b1/
+
 直接跟農夫買
 https://www.facebook.com/BuyDirectlyFromFarmers/posts/pfbid02UMKspd8XYiayAyS3tiXs73yfYhKndtQPiN5j8QKu6ezHmYQDiqPMpdUg3ow8LCFhl
 
