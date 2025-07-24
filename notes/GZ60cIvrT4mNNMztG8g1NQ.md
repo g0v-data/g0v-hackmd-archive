@@ -202,6 +202,9 @@ https://www.facebook.com/share/p/uGRNQ8RjfiK63pbL/?mibextid=K35XfPm2BggnwpGriG8C
 202406 台南積水
 https://www.facebook.com/share/R1WMrWm8EEhePdLs/?mibextid=WC7FNe
 
+20250724 台南運河漲潮水位高過路面
+https://www.facebook.com/watch?v=1280844743395356
+
 內湖淹水老照片
 https://www.facebook.com/share/p/uGRNQ8RjfiK63pbL/?mibextid=K35XfP
 
