@@ -256,50 +256,12 @@ https://www.cna.com.tw/postwrite/chi/357789
 10、南屯區:向心南路(文心南五路一段至文心南二路),兩側總長度約 860 公尺。
 https://drive.google.com/file/d/1KjYATFfLsVqLIIB_lWQM4pg0HHFo-i_S/view?usp=drive_link
 
-台中台灣大道民權路口
+台中台灣大道民權路口（有鎖內容看不到）
 https://www.facebook.com/100094870554841/posts/pfbid02L2FDr2UhHa5djfBe49ZAsXwfEXwrCK21JsCrxAAWUNN3d92PiumxbEm2D7MCVopVl/?mibextid=cr9u03
-
-臺中市東海大學
-https://www.facebook.com/share/p/Xv5krVmQcWnhHmMz/
-
-臺中綠川東街
-https://www.facebook.com/share/vMJCfGRLuhAXRXrD/
-
-台中市西區
-https://www.facebook.com/story.php?story_fbid=pfbid02cGTTrgsjGjyisCKYYT8yp3uidGks1WHuLp7Lerxs592cMAcSAHiN19gk9YVbfK8Zl&id=100083131440923&mibextid=qC1gEa
-
-台中 博物館路
-https://www.facebook.com/share/p/6qaS7dwJBcHvdCGk/?
-
-臺中女中
-https://www.facebook.com/share/p/tzbriGNaQ7dt7oQN/
-
-台中市進化北路人行道
-https://www.facebook.com/story.php?story_fbid=pfbid08UD9JSy1KWjoEesuobwQe41AmX83fzC8WkytjShL1CtGtoxCEVfYf3aprx4nzeBml&id=100063883987874&mibextid=qC1gEa
-
-
-
-台中大里區
-https://www.facebook.com/story.php?story_fbid=pfbid05n7TrcSQUczHzHxVVfTDwwPs1Sm9PD2p7cvA4TAD4YSFbe9G1N8xkYUom8FtYuHWl&id=100064984772380&mibextid=qC1gEa
-
-台中
-https://www.facebook.com/share/p/hVuK6G8XkjKd46Uh/
-
-台中西屯龍井
-https://www.facebook.com/100083131440923/posts/pfbid026vZgX1NoSSJqPwhaTEj69r5dhHDd5JajTa2NzEJAvWkkZsE1kWLMrnmsKTUA6Fzyl/?mibextid=cr9u03
-
-臺中市清水區中山路
-https://www.facebook.com/share/p/PzwiRdy5t61WRBH5/
 
 彰師大附近 進德路標線改造工作坊
 https://www.facebook.com/share/p/kmQB4qVtSRErc1Mw/
 https://www.facebook.com/share/p/NXPAL2zBooXD7C6R/
-
-彰化 中華西路 曉陽路
-https://www.facebook.com/share/HjdDxYmUP6fw9Xut/?mibextid=WC7FNe
-
-彰美路
-https://www.facebook.com/permalink.php?story_fbid=pfbid0wmeD5MnSf2arBKCNxchuai7GEFNFCaS2kJy3TguUTB5gkBZdHPy5bfSTXaz8KBHWl&id=61566165458960&locale=zh_TW
 
 彰化市三角公園
 https://www.facebook.com/ReTWRoad/photos/a.144368764239959/294776699199164/?type=3&mibextid=0cALme
