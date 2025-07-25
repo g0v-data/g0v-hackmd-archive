@@ -8,6 +8,10 @@ Nature _ Area / Organization _ Society
 
 ## 需要建構詮釋地景構成、存續情境決策
 
+2025 TODO 素材整理：https://g0v.hackmd.io/@chewei/km
+
+---
+
 大尺度產業分工下的地方
 - 例如高雄毛豆
 - https://g0v.hackmd.io/NvOW-IGPR3aXjD4g1NHMoQ?view
@@ -27,7 +31,7 @@ Nature _ Area / Organization _ Society
 時光地景探討
 https://docs.google.com/document/d/1UnulKzX8hnkRpz7L4E51xJthYrJn_ENXIYoj3WgXjKk/edit?tab=t.0#heading=h.8y53btwynq8l
 
-空間場域類 case 整理
+
 
 ## 民主機制本身的演化，以及適用、尚不適用、尚待應用的情境場域
 
