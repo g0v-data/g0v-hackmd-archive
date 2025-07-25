@@ -7,12 +7,17 @@ tags: GIS
 素材清單瀏覽網址：https://airtable.com/appgQS9kWDYmv6B1m/shrLzNUO7o3ylpgXv
 
 ## TODO
-- 20240621 改為非公開編輯權限
-- 已納入架構，持續登載資料
-    - 馬祖關係人口的素材
-    - XR / VR / AR 案例
-        - https://g0v.hackmd.io/@chewei/xr/
-        - https://airtable.com/appgQS9kWDYmv6B1m/shrDsktaE6KfcWmzR
-    - 2025.07.25 歷年廢併校清單，約 400 筆
-- 預計納入
-    - https://docs.google.com/spreadsheets/d/16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik/edit
+- 20240621 改為非公開編輯權限 
+- [已納入架構，持續登載資料] 馬祖關係人口的素材
+- [已納入架構，持續登載資料] XR / VR / AR 案例
+    - https://g0v.hackmd.io/@chewei/xr/
+    - https://airtable.com/appgQS9kWDYmv6B1m/shrDsktaE6KfcWmzR
+- 2025.07.25 納入
+    - 歷年廢併校清單，約 400 筆
+    - 國小清單，約 2700 筆
+    - 分校分班，66 筆
+- 2025.07.26  [已納入架構，持續登載資料] 書籍整理、檔案文件整理
+    - https://g0v.hackmd.io/@chewei/km
+
+
+

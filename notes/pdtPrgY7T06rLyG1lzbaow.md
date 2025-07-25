@@ -2,7 +2,7 @@
 tags:
 ---
 
-# 書籍整理
+# 書籍整理、檔案文件整理
 
 :::info
 工作文件：https://g0v.hackmd.io/@chewei/km
@@ -22,7 +22,9 @@ tags:
     - 要如何也同時納入
         - 蒐集地理地區屬性的議題素材 https://g0v.hackmd.io/@chewei/B1dMDlWZc
         - 國際發展歷程文本 https://g0v.hackmd.io/@chewei/Thinktankinfo/
+- 20250726 評估納入地理地區屬性的議題素材清單 Airtable 
+    - https://g0v.hackmd.io/@chewei/B1dMDlWZc
 
 其他
-- 相關架構 https://docs.google.com/spreadsheets/d/11Cp3egGmTRjp1MSY_0m4SRCd6sgkI8fTetmZNZ1kFSM/edit
+- 論文與文獻管理：找、存、拆、查、組、用、推薦 https://docs.google.com/spreadsheets/d/11Cp3egGmTRjp1MSY_0m4SRCd6sgkI8fTetmZNZ1kFSM/edit
 

@@ -1,10 +1,10 @@
 ---
 tags: g0v-siliconvalley
 ---
-#  2025.06.14 第 6 次 g0v 灣區小聚共筆
+#  2025.08.02 第 6 次 g0v 灣區小聚共筆
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
-- 時間：2025/06/14 週六 14:00-18:00
+- 時間：2025/08/02 週六 14:00-18:00
 - 地點：Stanford University [停車與教室地圖](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F559299339%2F561761291079%2F1%2Foriginal.20230720-232518?h=2000&w=720&auto=format%2Ccompress&q=75&sharp=10&s=517bdc38e53d54b9fc068ce31e0e8d40) [target=_blank]
 - 主持人：
 
