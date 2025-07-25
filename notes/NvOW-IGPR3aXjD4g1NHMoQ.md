@@ -13,5 +13,6 @@ tags: GIS
     - XR / VR / AR 案例
         - https://g0v.hackmd.io/@chewei/xr/
         - https://airtable.com/appgQS9kWDYmv6B1m/shrDsktaE6KfcWmzR
+    - 2025.07.25 歷年廢併校清單，約 400 筆
 - 預計納入
     - https://docs.google.com/spreadsheets/d/16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik/edit
