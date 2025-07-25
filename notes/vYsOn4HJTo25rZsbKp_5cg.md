@@ -38,10 +38,10 @@ https://g0v.hackmd.io/@chewei/B14OsdWfi/
 - [1:1000 微縮臺北盆地公園 🌳](https://g0v.hackmd.io/FC2y9qpoT7myqcdWolXHJg?view)
 
 ## 鄰接流域
-- [鄰接流域：淡水河迪化街集水範圍](https://g0v.hackmd.io/ZPM0tCs8Qc2R_i4fwlOSCA?view)
-- [鄰接流域：西藏路集水範圍](https://g0v.hackmd.io/z_KOU4UtRnSVTr5Vrj_wtA?view)
-- [鄰接流域：玉成抽水站範圍](https://g0v.hackmd.io/b3AUrLzrR4WyNR-NS2pJYw?view)
-- [鄰接流域：民生社區集水範圍](https://g0v.hackmd.io/HibaEuXTSYWo_3b9fqKk6Q?view)
+- [淡水河與迪化街集水範圍](https://g0v.hackmd.io/ZPM0tCs8Qc2R_i4fwlOSCA?view)
+- [新店溪與西藏路集水範圍](https://g0v.hackmd.io/z_KOU4UtRnSVTr5Vrj_wtA?view)
+- [基隆河與玉成抽水站範圍](https://g0v.hackmd.io/b3AUrLzrR4WyNR-NS2pJYw?view)
+- [基隆河與民生社區集水範圍](https://g0v.hackmd.io/HibaEuXTSYWo_3b9fqKk6Q?view)
 
 ## 社群與專案基本工作
 - [Infra 專案基礎建設 💡](https://g0v.hackmd.io/WKs6CpdPQHaeg1SruJCshQ?view)

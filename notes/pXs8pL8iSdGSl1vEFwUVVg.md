@@ -4,6 +4,8 @@ tags: 新生流域,
 
 # 數化 1916~1940 年的歷史地圖水域
 
+## 圖幅
+
 圖台
 https://gissrv4.sinica.edu.tw/gis/taipei.aspx
 
@@ -18,3 +20,7 @@ https://gissrv4.sinica.edu.tw/gis/taipei.aspx
 1939 瑠公水利組合區域圖，這套已有數化成果
 1940 水道圖
 1940 實測圖
+
+## 步驟
+
+- 用中研院歷史 GIS 圖臺描繪並下載 KML？
