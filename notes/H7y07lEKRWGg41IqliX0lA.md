@@ -4,6 +4,10 @@ tags: name,
 
 # 媒體議題節目名稱取名方式，口語流
 
+:::info
+上層文件：https://docs.google.com/document/d/1Rk78cjbeeEyp9dZVWdXG5dpDQhveeVS5ankYD3KwXbQ/edit?tab=t.0
+:::
+
 ## 實際案例
 
 不好意思請問一下

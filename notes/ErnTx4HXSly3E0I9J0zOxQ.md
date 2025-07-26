@@ -624,6 +624,18 @@ https://visual.ly/community/Infographics/environment/walkable-mixed-use-neighbor
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c4d910dc9f4c2d1bcfc8eb6ecbcec03b.jpg)
 :::
 
+### 臺北市中山區行天宮捷運站4號出口，松錦公園、松江市場 
+
+討論串：https://www.facebook.com/groups/474536628587982/posts/739555275419448/
+
+### 臺北市松江南京捷運站與四個街廓
+
+https://www.facebook.com/MikLiu/posts/pfbid02ZbXdSetV7vgiMX8wVt4eQ1yHtzfFTHDD29Ae44YKWNgV6Jz85iNzi9xmuSVV28ZQl
+
+### 臺北市捷運四站所圍塑的街區
+
+討論串：https://www.facebook.com/groups/474536628587982/posts/725430420165267/
+
 ### 臺北市臺師大街區【和平東路-羅斯福路-新生南路】
 - 優先處理溫州街全段人車衝突路口數量降低
 - 針對大學里，兩處公園及水綠空間，結合斜向連續型行人路徑，將路口對街的徒步空間相連，溫州街45巷水圳與大學公園，台電魚木與溫州公園
@@ -631,10 +643,6 @@ https://visual.ly/community/Infographics/environment/walkable-mixed-use-neighbor
 - 針對古莊里，機關用地與古莊公園透過無車巷弄將地面層徒步空間整合
 - 針對古風里，創造連續行人路徑，將社區公共空間串聯，包含芒果香草園、龍泉市場、古風小白屋、雲泰小雅綠地
 - 針對泰順公園周邊，公園與泰順街36號之間道路改為不得汽車穿越，減少汽車過境車流
-
-### 臺北市松江南京捷運站與四個街廓
-
-https://www.facebook.com/MikLiu/posts/pfbid02ZbXdSetV7vgiMX8wVt4eQ1yHtzfFTHDD29Ae44YKWNgV6Jz85iNzi9xmuSVV28ZQl?locale=zh_TW
 
 ### 臺北市臺北城範圍
 
@@ -748,8 +756,6 @@ Through Traffic 過境車流
     - 可能會變成重複
     - 以實際街廓狀態來看，產權分佈與決策傾向、對於機能的設定，視為能創造街廓特色的來源
 
-
-
 溝通文宣
 - 一起來當「街區設計師」「街區連結師」「生活連結師」
 - 一條「社區慢跑路線」不用封街... 
@@ -798,6 +804,8 @@ Through Traffic 過境車流
     - 每一個街區街廓營造良好的行人系統，各個街區共組成城市與區域整體
 - DPU
     - District Path Unit 
+- City Blocks, Local Pulse 
+    - by ChatGPT
 
 #### 中文
 - 主軸是形塑出街區內，可以感到安心、放心、人走的路
