@@ -23,6 +23,10 @@ https://www.facebook.com/share/18bmeYE39E/
 - https://www.facebook.com/watchout.tw/photos/a.276078935883660/380769795414573/?type=3 (2014)
 - https://www.facebook.com/watchout.tw/videos/987581368066743 (2018)
 
+聽起來很科學
+https://www.facebook.com/share/v/1Bem93ejrU/
+
+
 ## 發想
 
 這是什麼意思
@@ -30,5 +34,6 @@ https://www.facebook.com/share/18bmeYE39E/
 總的來講
 我想說的是
 這樣也可以
-說實在話
+說實在話、講實在話
 說真的
+

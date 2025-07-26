@@ -19,3 +19,8 @@ QA 階段，提到 民主化 路徑的選擇
 https://bostonreviewofbooks.substack.com/p/f93
 https://www.sanmin.com.tw/product/index/014111974
 https://www.sanmin.com.tw/product/index/014134362
+
+---
+
+待對照
+- 書名：《鄉土社會的終結──東亞地區的殖民管治和土地政策》作者： 張瑞威、松原健太郎、許佩賢、林欣宜、夏思義（Patrick H. Hase）、吳密察、林文凱、李榮昊、科大衛（David Faure） https://press.ntu.edu.tw/tw/publish/show.php?act=book&refer=ntup_book01436
