@@ -107,7 +107,7 @@ https://g0v.hackmd.io/R_BhZDNNQ-C8CAoTJ58ZSg
 - 大學生居住模式從宿舍轉換到外單獨租屋三個月後對孤獨感的影響探討 https://www.facebook.com/share/1AU7rw3EQ3/
 - 2023.12.26 [25個台北租屋故事 被剝奪的居住尊嚴/聯合報](https://feja-award.s3.amazonaws.com/2024/nomination/1/12/shortlist/12030/index.html)
 - 2024.11.05 [小宅化如何影響租屋市場？小宅多、租金漲愈多？5年400萬筆租屋數據全解析/報導者](https://www.twreporter.org/a/data-reporter-era-of-small-sized-housing-unit-impact-on-rental-housing-market)
-
+- 113年教育部青年發展署「青年好政-Let’s Talk」計畫－居住正義主題，協作共創與成果交流會結論追蹤報告。 https://youthhub.yda.gov.tw/news/detail?id=158
 
 倡議方式案例
 - 紐約民間團體針對租屋，發起的資料專案（該地點的歷史租金）、租客權益工具，[相關網址](https://www.facebook.com/story.php?story_fbid=pfbid0cJ9dT2CLNU2x2dhDfsdgp7spPPFvwJmHEHbrvEmnWDJCFFagaHw6pB7heut2fdgPl&id=1509819323)
