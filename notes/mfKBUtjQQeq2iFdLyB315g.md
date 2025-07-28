@@ -35,6 +35,7 @@ image: https://raw.githubusercontent.com/g0v/style-guide/gh-pages/logo/png/g0v-l
 - [立法院開放資料平台](https://data.ly.gov.tw/)[target=_blank]
 - [透過 API 看資料](https://dataly.openfun.app)
 - [立法院 API](https://v2.ly.govapi.tw/)
+- [介紹 立法院 API _ 簡報](https://docs.google.com/presentation/d/1M3qeQOrfaTEGiRRG3thiA-f-vtQmrIXcQGSi0mcjuLg/edit?slide=id.p#slide=id.p)
 - [公報冊、公報章](https://g0v.hackmd.io/00oYoI4YRCqrtf7pEXy6Nw?view)
 - [法條與法律沿革](https://g0v.hackmd.io/q5HjbeiQQYCKLZZYklV0Ag?view)
 - [國會如何運作？](https://g0v.hackmd.io/MrJwX3PzSRGql0d5egpuyw?view)
