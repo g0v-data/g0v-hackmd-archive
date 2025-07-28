@@ -5,11 +5,14 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 目錄
 [TOC]
 :::
+
+https://www.businessweekly.com.tw/careers/blog/3018365
+
 9點關機：
 schtasks /Create /TN "Shutdown" /TR "shutdown /s /t 0" /SC DAILY /ST 21:00 /RU SYSTEM /RL HIGHEST /F
 
-Windows 閒置 10 分鐘自動鎖定
-reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v InactivityTimeoutSecs /t REG_DWORD /d 600 /f
+Windows 閒置 30 分鐘自動鎖定
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v InactivityTimeoutSecs /t REG_DWORD /d 1800 /f
 
 https://app.powerbi.com/groups/ea74a80c-0759-4de3-9a85-0c6d4c165b59/reports/9510db41-7352-4d9e-8444-795b93f36382/c5baaebd74dec3548c54?experience=power-bi
 #### 常用連結
@@ -152,9 +155,3 @@ https://codeload.github.com/Raphire/Win11Debloat/zip/refs/heads/master
 https://allinfa.com/zh-tw/hide-close-win10-meet-now.html
 
 https://www.autohotkey.com/
-![](https://g0v.hackmd.io/_uploads/ry-8PPI0Xex.png)
-![](https://g0v.hackmd.io/_uploads/HkwvPUC7gx.png)
-![](https://g0v.hackmd.io/_uploads/ryz8vDUCQxl.png)
-![](https://g0v.hackmd.io/_uploads/HklIvPLAQxx.png)
-![](https://g0v.hackmd.io/_uploads/rkm8ww80mex.png)
-![](https://g0v.hackmd.io/_uploads/BkxDwD8A7gx.png)
