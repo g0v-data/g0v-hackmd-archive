@@ -21,6 +21,8 @@ https://g0vcongressthon.oen.tw/events/2zid03kau2NZtpLPjFPnJkGkZhq
 :::
 ## 講者簡報
 ### 選罷法的今生前世 power by LawTrace
+[簡報](https://docs.google.com/presentation/d/1XAVG1cy79lpoED1vlagp6WkX0iwGS7lRgcnEjUr_JHs/edit?usp=drive_link) 以及簡報中提到整理的 [spreadsheet](https://docs.google.com/spreadsheets/d/1q8hQAx4hZtk4n9XUj3RBVmKfFj_ioSHh_1xSiZDpAqo/edit?usp=drive_link) （授權 CC0）
+
 ## 成果分享
 ### LawTrace 實戰講座來了
 網址：https://lawtrace.tw/

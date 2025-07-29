@@ -1,13 +1,11 @@
-GOOD88
-
-VIN88 là trang web cá cược trực tuyến được đăng ký hợp pháp tại Costa Rica, nổi bật với đa dạng và chất lượng trong các trò chơi. Chúng tôi cam kết mang đến trải nghiệm giải trí an toàn và đáng tin cậy, từ cá cược thể thao đến sòng bạc và game đổi thưởng hấp dẫn.
-Tên doanh nghiệp: VIN88
+<a href="https://thelondonweddingcompany.co.uk/">8s</a> là trang web cá cược trực tuyến được đăng ký hợp pháp tại Costa Rica, nổi bật với đa dạng và chất lượng trong các trò chơi. Chúng tôi cam kết mang đến trải nghiệm giải trí an toàn và đáng tin cậy, từ cá cược thể thao đến sòng bạc và game đổi thưởng hấp dẫn.
+Tên doanh nghiệp: 8s
 Địa chỉ: 38/9 Hồ Đắc Di, Tây Thạnh, Tân Phú, Hồ Chí Minh, Việt Nam
 Điện thoại: 0977223372
-Email: vin88@gmail.com
+Email: good888host@gmail.com
 Website: https://thelondonweddingcompany.co.uk/
 Post code :700000
-#vin88
+#8s
 
 https://twitter.com/good888host
 https://vimeo.com/good888host
