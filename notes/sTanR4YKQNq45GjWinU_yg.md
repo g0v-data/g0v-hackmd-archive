@@ -50,36 +50,43 @@ tags: 公有地大行動, 可能的空間, edu
     - 狀態
         - 廢校後空間閒置
         - 已活化
-- 彙整資料
-    - 私校退場的校產地
-        - 臺灣觀光學院
-        - 高雄國際商工 https://www.facebook.com/1041234089255951/posts/5286478521398132/
-        - https://youtu.be/IbtgyTrgRyg
-    - 已經停辦的學校清單在教育部統計處的學校名錄頁面裡面可以找到資料
-        - https://depart.moe.edu.tw/ed4500/News.aspx?n=63F5AB3D02A8BBAC&sms=1FF9979D10DBF9F3
-        - 每年的「異動一覽表」
-    - 廢校等待活化
-        - 全國待活化閒置校舍
-            - http://ssdelt.nhps.tp.edu.tw/index.php?action=activation_data_n
-        - 國民中小學校園空間活化再生資源網
-            - http://ssdelt.nhps.tp.edu.tw/
-        - 20230922 有民眾在資料開放平台詢問「全台廢棄國小數據」
-            - https://data.gov.tw/suggests/136754
-        - 高級中等以下學校校舍資訊網，提供待活化校舍空間之資料
-            - https://sbiw.k12ea.gov.tw/
-    - 校園餘裕空間
-        - http://ssdelt.nhps.tp.edu.tw/index.php?action=link
-            - 臺北市的餘裕教室資訊查詢
-                - 臺北市校園餘裕空間，網頁中有一份可會勘清單，這個似乎是沒有在財政局的閒置空間查詢平台上，可能是行政樣態不同，餘裕空間也代表整體學校還有營運，不過法源都是依照《臺北市市有公用房地提供使用辦法》https://www.doe.gov.taipei/News.aspx?n=014F31463F0A3BD5&sms=69B4E6B26379EE4E；http://bit.ly/39xIfls
-            - 嘉義縣政府教育處活化校區
-            - 臺南市校園空間活化網
-            - 高雄市校園空間活化網
-            - 屏東縣的餘裕教室資訊查詢
-            - 宜蘭縣政府教育處閒置校舍活化網
-            - 臺東縣校園空餘教室活化資源入口網 (資料建置中)
-            - 澎湖縣所轄學校剩餘教室查詢
 
-## 個案待標記到 Google My Map 
+
+## 資料集
+
+https://github.com/g0v/small_school_renaissance/issues/6
+
+
+### 待彙整資料
+- 私校退場的校產地
+     - 臺灣觀光學院
+     - 高雄國際商工 https://www.facebook.com/1041234089255951/posts/5286478521398132/
+        - https://youtu.be/IbtgyTrgRyg
+- 已經停辦的學校清單在教育部統計處的學校名錄頁面裡面可以找到資料
+    - https://depart.moe.edu.tw/ed4500/News.aspx?n=63F5AB3D02A8BBAC&sms=1FF9979D10DBF9F3
+        - 每年的「異動一覽表」
+- 廢校等待活化
+    - 全國待活化閒置校舍
+            - http://ssdelt.nhps.tp.edu.tw/index.php?action=activation_data_n
+    - 國民中小學校園空間活化再生資源網
+            - http://ssdelt.nhps.tp.edu.tw/
+    - 20230922 有民眾在資料開放平台詢問「全台廢棄國小數據」
+            - https://data.gov.tw/suggests/136754
+    - 高級中等以下學校校舍資訊網，提供待活化校舍空間之資料
+            - https://sbiw.k12ea.gov.tw/
+- 校園餘裕空間
+    - http://ssdelt.nhps.tp.edu.tw/index.php?action=link
+        - 臺北市的餘裕教室資訊查詢
+            - 臺北市校園餘裕空間，網頁中有一份可會勘清單，這個似乎是沒有在財政局的閒置空間查詢平台上，可能是行政樣態不同，餘裕空間也代表整體學校還有營運，不過法源都是依照《臺北市市有公用房地提供使用辦法》https://www.doe.gov.taipei/News.aspx?n=014F31463F0A3BD5&sms=69B4E6B26379EE4E；http://bit.ly/39xIfls
+        - 嘉義縣政府教育處活化校區
+        - 臺南市校園空間活化網
+        - 高雄市校園空間活化網
+        - 屏東縣的餘裕教室資訊查詢
+        - 宜蘭縣政府教育處閒置校舍活化網
+        - 臺東縣校園空餘教室活化資源入口網 (資料建置中)
+        - 澎湖縣所轄學校剩餘教室查詢
+
+### 個案待標記到 Airtable
 
 - 非地點的素材，整理至以下文件
     - 網址：https://docs.google.com/spreadsheets/d/16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik/edit?fbclid=IwY2xjawKCEVBleHRuA2FlbQIxMABicmlkETFEWWhaQ0M2VW5DUkdhZjN3AR61ta85rkiOPp5GZByyLi_7zOqbM1RKyxv6BLcfwtvPIaLXbhzC6MPvfIMeYw_aem_9PCnuLIRe6AtSnXzqYvDPw&gid=410399976#gid=410399976
