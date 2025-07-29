@@ -15,14 +15,28 @@ GA: UA-98468513-3
 ## 本次會議待追蹤項目 (由 2025/07/22 會議記錄結案)
 
 *   **[bil]** IT Matters 社會影響力獎報名
-*   **[Johnson]** 資訊安全權限設定
-*   **CCPRIP - Analytics**: Opendata trend & LINE Bot usage 報表問題
-*   **cofacts.ai**: Groundness Check agent 實作
-*   **Claude Code Action**: 連接到 Vertex AI
-*   **[mrorz]** rumors-site PR #608: deploy 到 staging，供下週測試
-*   **[nonumpa, mrorz]** LLM based Topic Classifier: 修復 bug 並確認 benchmark
+*   **[Johnson]** 資訊安全權限設定 - not yet
+*   **CCPRIP - Analytics**: Opendata trend & LINE Bot usage 報表問題 - not yet
+*   **cofacts.ai**: Groundness Check agent 實作 - 本次有更新
+*   **Claude Code Action**: 連接到 Vertex AI - not yet, 先用 Jules 吧
+*   **[nonumpa, mrorz]** LLM based Topic Classifier: 修復 bug 並確認 benchmark - not yet
 *   **[mrorz]** url-resolver 重構: 更新 issue comment 並處理重複 issue
     * 已經 consolidate 到一張票：https://github.com/cofacts/rumors-api/issues/373
+
+## :potable_water: Release pipeline
+
+### :rocket: Staging
+
+#### :globe_with_meridians: Site
+
+https://github.com/cofacts/rumors-site/pull/609
+
+- 測測看手機 / 電腦撰寫查核回應
+- 測測看按 bullet point / number 是否符合預期
+
+##### Release Blocker
+
+##### 未竟項目
 
 ## Github Activities
 
@@ -61,3 +75,33 @@ GA: UA-98468513-3
 - https://beta.cofacts.ai/dev-ui/?app=cofacts_ai
 - https://g0v.hackmd.io/mU8qi721RZeAQ9PDfj7XRA#Use-cases-and-usage
 - Milestones & M0 plan
+
+## 小聚籌備
+08/17 (日) 2pm - 5 pm 
+- OK: 
+- 辦在青職基地
+- [ ] 食物：
+- [ ] 場地：新北市青年局青職基地
+- [ ] 時間：13:00 擺桌子場佈
+	- 活動時間：14:00 - 17:00
+	- 時間分配
+        - 2:00 - 2:20 開場
+            - 影片
+            - Slido 暖身
+        - 2:20 - 2:40 引導註冊網站、介紹評價現有回應
+        - 2:40 - 2:50 實作評價
+        - 2:50 - 3:10 介紹補充資訊
+        - 3:10 - 3:40 實作補充資訊、自我介紹、休息
+        - 3:40 - 4:10 介紹撰寫新回應
+        - 4:10 - 4:40 實作撰寫新回應
+        - 4:40 - 5:00 介紹分類、RSS、合照
+- [ ] 投放目標：
+  - 推播日：08/03（7/29 設定）
+  - 目標：雙北
+- [ ] KKTIX: https://cofacts.kktix.cc/events/cofactseditor48
+- [ ] 誰會來呢： 
+- [ ] 記得帶：貼紙、不太環保杯 (bil)
+- [ ] LINE 文案： Cofacts 真的假的 第 48 次志工查核工作坊需要你的加入，活動完全免費，（請自備電腦）06/15(日)下午，地點青職基地，最近的捷運站是捷運板橋站1號出口，連結內報名：https://cofacts.kktix.cc/events/cofactseditor48
+- [ ] VOOM 發文
+- [ ] FB 發文
+
