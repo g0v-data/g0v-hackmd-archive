@@ -19,6 +19,8 @@ https://g0vcongressthon.oen.tw/events/2zid03kau2NZtpLPjFPnJkGkZhq
 2. 本次活動有部分直播影片經講者同意，上傳到 Youtube，歡迎大家收看！
 3. 歡迎大家在本頁下方的「討論區」交流，寫下你對於講者簡報、直播影片的看法，互相學習、增廣見聞～
 :::
+## 講者簡報
+### 選罷法的今生前世 power by LawTrace
 ## 成果分享
 ### LawTrace 實戰講座來了
 網址：https://lawtrace.tw/

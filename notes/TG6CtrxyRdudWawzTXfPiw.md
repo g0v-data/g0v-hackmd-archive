@@ -2,7 +2,7 @@
 tags: edu, 
 ---
 
-# 學校就學人口變化趨勢推測 / 廢校預警 / 校地校舍的未來
+# 地理資料：全國國小就學人數推估 / 分校分班清單資料 / 歷年廢併校國小清單資料
 
 :::info 方便分享共筆網址
 
@@ -22,7 +22,8 @@ https://github.com/g0v/small_school_renaissance
 ![](https://g0v.hackmd.io/_uploads/SyW0rbuVelx.jpg)
 
 
-討論請至：
+聯繫我們：
+- 專案聯繫信箱：reschool@googlegroups.com
 - g0v Slack 頻道 #edu-school-學校存續議題
 https://g0v-tw.slack.com/archives/C08NDP85ASF
 - FB 社團: 零時小學校 Sch001 學習中心 https://www.facebook.com/groups/240879797438433
