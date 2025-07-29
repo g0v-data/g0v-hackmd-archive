@@ -8,7 +8,7 @@ GA: UA-98468513-3
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
 - 線上出席：bil, mrorz, nonumpa
-- 實體出席：
+- 實體出席：Tim
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
@@ -109,8 +109,18 @@ Action item --> CCPRIP infra layer
 - https://beta.cofacts.ai/dev-ui/?app=cofacts_ai
 - https://g0v.hackmd.io/mU8qi721RZeAQ9PDfj7XRA#Use-cases-and-usage
 - Milestones & M0 plan
+- proofreader 會不會影響使用者心情，發現原來自己在其他地方會這樣被套路 [name=nonumpa]
+  - 那代表他要成長了 XD [name=mrorz]
+  - 模擬多立場這個之前雨蒼有分享過國外案例，用來讓使用者做換位思考 or 突破同溫層 [name=mrorz]
+  - 希望未來做得更精細，例如從支持者會看的內容爬東西進到 prompt 裡，建立 AI 對該陣營支持者「所感知的事實」的認知，也讓 AI 模擬他們的語氣講話 [name=mrorz]
+
+## 下次開會
+
+8/5 (二)
 
 ## 小聚籌備
+> Carry over to next week
+
 08/17 (日) 2pm - 5 pm 
 - OK: 
 - 辦在青職基地
@@ -135,11 +145,12 @@ Action item --> CCPRIP infra layer
 - [ ] KKTIX: https://cofacts.kktix.cc/events/cofactseditor48
 - [ ] 誰會來呢： 
 - [ ] 記得帶：貼紙、不太環保杯 (bil)
-- [ ] LINE 文案： Cofacts 真的假的 第 48 次志工查核工作坊需要你的加入，活動完全免費，（請自備電腦）06/15(日)下午，地點青職基地，最近的捷運站是捷運板橋站1號出口，連結內報名：https://cofacts.kktix.cc/events/cofactseditor48
+- [ ] LINE 文案： Cofacts 真的假的 第 48 次志工查核工作坊需要你的加入，活動完全免費，（請自備電腦）08/17(日)下午，地點青職基地，最近的捷運站是捷運板橋站1號出口，連結內報名：https://cofacts.kktix.cc/events/cofactseditor48
 - [ ] VOOM 發文
 - [ ] FB 發文
 
 ## Gather Town
+> Carry over to next week
 
 https://support.gather.town/hc/en-us/articles/39590892978196-Understanding-Gather-s-pricing-changes-2025
 
