@@ -6,7 +6,7 @@ tags: vTaiwan,
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
 參與者 Participants:
-線上參與連結 / Link：Peter, Bestian, Joey, Tim, 翊婷，Anan, Shu
+線上參與連結 / Link：Peter, Bestian, Joey, Tim, 翊婷，Anan, allen, yu-ting
 https://vtaiwan.pages.dev/jitsi
 (請用Google登入以啟用完整轉錄功能)
 
@@ -55,13 +55,13 @@ https://meet.jit.si/vtaiwan
 - Jigsaw 之前的訪談報告出來了！
     - [報告：已經上傳到 vTaiwan 雲端](https://drive.google.com/file/d/14yK2FQgWDMliwaioK96ljaVWl729GPh5/view?usp=sharing)
 
-## 議題小聚3接力場
+## 議題小聚#3接力場
 - 相關準備：
     - Mentimeter: https://www.menti.com/al84npq6iix2
     - Google slides: 
     - Polis: https://polis.tw/report/r2hmx9cryksjav5x5fsym 
 - 目前看到的問題：
-    - 敘述蠻少的，要在開放環節討論更多更具體的政策
+    - 敘述蠻少的，要在開放環節討論更多更具體的政策 [name=peter]
     - 
 - 議題小聚三 接力場的進度
     - 1) 希望大家可以來現場幫忙，很需要一個人跟我一起當車馬費小天使（工作內容：核對參與者勞報單所填地址是否跟身分證背面地址相同），希望今天小聚可以確認能出席的人～～
@@ -96,7 +96,35 @@ polis 投票截圖
 身分證正反面照片（僅供核對用）
 ※ 若您未參加 5/23 的第一場審議，即使有報名此次活動，也恕無法提供車馬費補助，敬請見諒。
 :::
+- 工作人員集合時間與地點
+    - 工作人員五點多接近六點前到，地址：台灣網路資訊中心 八德路四段123號三樓會議室
+- 如何驗證線上確定有全程參與的人員？翊婷會確認 
+- issue:錄影錄不到全部參與者姓名
+- [[polis](https://polis.tw/report/r2hmx9cryksjav5x5fsym )]分析：除了分歧點討論，可否討論一些具體有進展的東西？例如最近的新聞可以拿來討論。參與者都是限定範圍的人，可否讓大家都要交staetment。可以討論出很具體的讓政府去...。
+    - Meta 最近的新聞：6/30 meta被數發部罰了1500萬
+    - 五口自殺的案件
+    - 金融犯罪平台的行動
+    - 
+-  如何設計一個有效的協作機制會是我們這一次討論的目標
+    -  既有機制（法律、具體行動、不足的地方）：Peter會先行解釋
+    -  具體案例：五口自殺 / meta 被罰
+        -  用比較開放的意見來詢問
+    - 邀請大家一起來思考不同階段的協作機制
+        - 同時能夠在打擊詐騙的過程中兼顧權利保障、隱私（奠基於上一次的討論結論上的內容
+        - 在上一次的結論上，建立一個 action list
+- 透過 Mentimeter 來收集問題？
+    - 如果使用 mentimeter 的話，針對QA只能回答一次？可能無法持續不斷針對該道題目回應。要草擬一個方案的話，就要來來回回好幾次討論。也許要用回 Miro。
+    - mentimeter可以收集意見：每個人寫兩三句話 -> 餵進llm生成-> 投票決定 ->就可以把想法寫進提案。（“llm”和“人”輪番介入）
 
+- 上一次 mentimeter的連結[https://menti.com/al84npq6iix2]
+- htts
+
+
+
+### Action list
+- 整理上一次討論，的 ppt
+- 建立 miro 
+- 
 
 ## 議題小聚#4 (與Tech for Good Asia合作)
 - 8/4 要在原訂日期舉辦的話，可能能量會有點不足，可能可以先做一個 pilot 場或者是線上聚會？[name=peter]
@@ -107,7 +135,10 @@ polis 投票截圖
 ## 未來的議題小聚 #N
 -  議題小聚#4之後其實好像沒有新的規劃了（？）
 -  想申請TWNIC grant來繼續研究sense making這個概念，還有AI在審議的應用
--  翊婷可以自告奮勇當寫TWNIC grant proposal的坑主 ，只是接下來回英國之後可能也會有點頻寬不足，希望可以求大家一起集思廣益，還有一起注意行政要求的部分(例如：需要附上登記證明，所以可能要跟g0v借名）grant
+-  翊婷可以自告奮勇當寫TWNIC grant proposal的坑主 ，只是接下來回英國之後可能也會有點頻寬不足，希望可以求大家一起集思廣益，還有一起注意行政要求的部分(例如：需要附上組織登記證明，所以可能要跟g0v借名？希望可以確認行政上我們都符合資格再來寫申請！）
 -  申請是 9/30截止: https://blog.twnic.tw/2025/06/27/31638/
+
+
+
 
 
