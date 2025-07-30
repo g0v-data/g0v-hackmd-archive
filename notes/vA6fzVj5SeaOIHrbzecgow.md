@@ -12,6 +12,7 @@ https://vtaiwan.pages.dev/jitsi
 
 備用視訊連結：
 https://meet.jit.si/vtaiwan
+![](https://g0v.hackmd.io/_uploads/B1qZjhDwgg.png)
 
 ::: success
 ## 專案儀表板：目前 vTaiwan 社群在進行的事情 
