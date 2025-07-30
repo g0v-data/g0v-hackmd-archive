@@ -9,6 +9,9 @@ tags: infras,  基礎建設, g0v
 
 歡迎大家自行將適合的內容整理進相關分類！
 
+:::info
+清單：https://docs.google.com/spreadsheets/d/1C9-g1pvkfqBJbfkjPB0gvfBbBxVlWYJj6tTVwaI5_x8/edit
+:::
 
 ## License
 
