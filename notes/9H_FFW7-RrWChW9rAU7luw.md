@@ -50,7 +50,7 @@ Contributing content **means that you agree to waive your copyright and release 
 注意事項⚠️請告知親人朋友你的行蹤+聯絡方式請勿落單（災區狀況不明）
 
 ## 狀況回報
-- [災情案件資料地圖](https://tainan.olc.tw/p/emic/)
+- [災情案件資料地圖](https://kiang.github.io/portal2.emic.gov.tw/event/2025danas/)
 
 > 資料來源包含 119、1999 等通報，[資料集](https://data.gov.tw/dataset/12851)
 
