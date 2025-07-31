@@ -35,6 +35,7 @@ https://web.jsps.kh.edu.tw/googlegame/
 
 
 #### 常用連結
+https://poki.com/zh/g/kiwi-clicker
 連播DoraA夢
 https://www.youtube.com/live/dgAEF2ppKg8?si=p-si6O8N2AbKzfVa
 打字練習1    https://worldofkeyboards.com/bopomofo
