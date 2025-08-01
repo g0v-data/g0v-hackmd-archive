@@ -48,6 +48,7 @@ https://www.facebook.com/share/p/1HRg52u6tk/
 - 高雄第一科大 https://www.facebook.com/share/p/98hopTiDhYum8D5T/
 - 雙峰國小 https://www.facebook.com/share/p/epS4odFVrmZXjsdk/
 - 小琉球 https://www.facebook.com/share/p/1CLngQAQ7R/
+- 台泥 https://www.facebook.com/share/p/16wzr82ivP/?mibextid=wwXIfr
 - 香港 https://www.facebook.com/HKWBCCG/posts/pfbid0FqxJ7z9RyjLkfQDq5tLSjVCcgdaWM1ZNQDqcraMo98hn4p9hRQn9z8Bb2udMM9kol
 
 ## 有類似但並非針對防鳥撞擊，有改善機會
