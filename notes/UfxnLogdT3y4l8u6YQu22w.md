@@ -1,9 +1,8 @@
 ::: success
-20250801 vTaiwan 與合作夥伴財團法人台灣網路資訊中心共同舉辦
-議題小聚#3(面對網路詐騙哪些還沒做？)現場觀察共筆
+20250801 vTaiwan(用數位科技做審議討論)與合作夥伴財團法人台灣網路資訊中心共同舉辦議題小聚#3[面對網路詐騙哪些還沒做？]現場觀察共筆
 會議時間：2025.08.01 19:00-21:30
 會議地點：台灣網路資訊中心
-現場工作人員：Peter 翊婷 YuTing 阿南Anan 台灣網路資訊中心序平
+現場工作人員：Peter、翊婷、YuTing、阿南Anan、台灣網路資訊中心序平
 ::: 
 
 ## 按照時間軸人工紀錄現場狀況（逐字稿將會由 Teams 產出）
@@ -169,18 +168,85 @@
 
 :::
 
-
-現場照片匯集
+21:03 Peter:「現在整理出來的四個行動方案，我們投票決定，哪一個要深入討論」
+:::info
+![](https://g0v.hackmd.io/_uploads/SJVUs4qwxg.png)
+:::
+21:05 Peter
 :::danger
-![](https://g0v.hackmd.io/_uploads/ryeQV9E9Pex.jpg)
-![](https://g0v.hackmd.io/_uploads/HkbQN9N5wel.jpg)
-![](https://g0v.hackmd.io/_uploads/HJQQ4545wlx.jpg)
-![](https://g0v.hackmd.io/_uploads/SJGmN9N5wxl.jpg)
-![](https://g0v.hackmd.io/_uploads/SJEV549Deg.jpg)
-![](https://g0v.hackmd.io/_uploads/Syz4EqEqvgl.jpg)
-![](https://g0v.hackmd.io/_uploads/Byl4EcVcPxl.jpg)
-![](https://g0v.hackmd.io/_uploads/HJ-EEqN9Pxx.jpg)
-![](https://g0v.hackmd.io/_uploads/H14P545vgl.jpg)
+![](https://g0v.hackmd.io/_uploads/H1gFyh49wxx.png)
+:::info
+![](https://g0v.hackmd.io/_uploads/BkQ03EqDll.png)
+:::
+21:11 Peter 邀請大家基於「建立基本安全網」分享
+21:12 現場參與者6第一次分享：韓國電影《金派特工隊》～從源頭遏止：大嬸透過自救伸張了正義
+21:13 主持人Peter繼續邀請大家分享
+21:15 AI整理節國 行動方案#3:阻斷源頭
+:::danger
+![](https://g0v.hackmd.io/_uploads/H1Z70EcDgl.png)
+:::
+21:17 請大家投票
+:::info
+![](https://g0v.hackmd.io/_uploads/Syg6vA49wee.png)
+:::
+21:18 Peter請大家在以後的會議上可以提出實際可執行的方案
+:::info
+![](https://g0v.hackmd.io/_uploads/H1sRCVcDel.png)(不是實際最終投票結果)
+:::
+21:22 Peter：「針對這個行動方案還有哪一些看法」非常強烈的鼓勵大家發表意見，公開表達自己的看法
+21:25 Teams線上參與者發表意見中
+21:27
+:::info
+![](https://g0v.hackmd.io/_uploads/rkeoYer5Dxl.png)(圖示不是現場最終結果)
+
+:::
+21:27 主持人法律系學生Peter補充「最低刑度」知識點
+21:28
+:::info
+![](https://g0v.hackmd.io/_uploads/HksVZH9Dxx.png)(圖示不是現場最終結果)
+:::
+------三階段（輪）討論到尾聲------
+21:30 主持人說明最後一頁：請大家提供意見
+:::info
+![](https://g0v.hackmd.io/_uploads/ryxJkMHcDeg.png)
+
+![](https://g0v.hackmd.io/_uploads/rJPeGH9wlx.png)
+
+:::
+
+
+
+## 現場照片匯集
+:::warning
+
+
+| ![](https://g0v.hackmd.io/_uploads/ryeQV9E9Pex.jpg) | ![](https://g0v.hackmd.io/_uploads/HkbQN9N5wel.jpg) | ![](https://g0v.hackmd.io/_uploads/HJQQ4545wlx.jpg) |
+| -------- | -------- | -------- |
+|![](https://g0v.hackmd.io/_uploads/SJGmN9N5wxl.jpg)   | ![](https://g0v.hackmd.io/_uploads/SJEV549Deg.jpg)    | ![](https://g0v.hackmd.io/_uploads/Syz4EqEqvgl.jpg)     |
+
+
+
+
+
+
+
+
+
+
+
+
+|![](https://g0v.hackmd.io/_uploads/Byl4EcVcPxl.jpg) | ![](https://g0v.hackmd.io/_uploads/HJ-EEqN9Pxx.jpg) | ![](https://g0v.hackmd.io/_uploads/H14P545vgl.jpg) |
+| -------- | -------- | -------- |
+| ![](https://g0v.hackmd.io/_uploads/H14P545vgl.jpg)   |![](https://g0v.hackmd.io/_uploads/SkT_hE5vxe.jpg)    | ![](https://g0v.hackmd.io/_uploads/SJZa_3E9Pxx.jpg)  
+
+
+|![](https://g0v.hackmd.io/_uploads/BkxpO3E5Pee.jpg) | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+   |
+
+
+
 
 
 :::
