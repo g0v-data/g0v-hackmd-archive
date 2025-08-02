@@ -161,6 +161,8 @@ polis 投票截圖
 - 整理上一次討論，的 ppt
 - 建立 miro 
 - 準備好 chatgpt 
+### 議題小聚#3現場人工觀察紀錄
+https://g0v.hackmd.io/@Anan/Byj_OG5Dle
 
 ## 議題小聚#4 (與Tech for Good Asia合作)
 - 8/4 要在原訂日期舉辦的話，可能能量會有點不足，可能可以先做一個 pilot 場或者是線上聚會？[name=peter]
