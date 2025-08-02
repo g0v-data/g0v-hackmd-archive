@@ -3,9 +3,10 @@
 會議時間：2025.08.01 19:00-21:30
 會議地點：台灣網路資訊中心
 現場工作人員：Peter、翊婷、YuTing、阿南Anan、台灣網路資訊中心序平
+遠端小精靈：Josh
 ::: 
 
-## 按照時間軸人工紀錄現場狀況（逐字稿將會由 Teams 產出）
+## 按照時間軸人工紀錄現場狀況（逐字稿將會由 Teams會議軟體另行 產出）
 
 17:30: Peter、翊婷、台灣網路資訊中心序平 已經在現場預演
 
@@ -39,7 +40,7 @@
 ::: info
 ![](https://g0v.hackmd.io/_uploads/BJzA4m9Pex.jpg)
 
-19:28 大家投票：「現在每個人有一百點，你覺得，你會行合分配打大行動的比重」
+19:28 大家投票：「現在每個人有一百點，你覺得，你會如何分配打詐大行動的比重」
 ::: info
 ![](https://g0v.hackmd.io/_uploads/B1luWImcPxg.jpg)
 :::
@@ -83,7 +84,7 @@
 
 20:01 Peter請大家投票決定哪一個要深入討論？
 ::: info
-![](https://g0v.hackmd.io/_uploads/SJAR3Qqvll.png)（圖示不是最終投票結果）
+![](https://g0v.hackmd.io/_uploads/SJAR3Qqvll.png)（所示圖表不是最終結果）
 :::
 20:03 「防詐表現透明化和評比機制」票數最高
 
@@ -123,7 +124,7 @@
 :::
 20:31 Peter:「現在整理出來的四個行動方案，我們投票決定，哪一個要深入討論」
 ::: info
-![](https://g0v.hackmd.io/_uploads/BJbCeVEcPex.png)（圖表截圖不是會議當時最終結果）
+![](https://g0v.hackmd.io/_uploads/BJbCeVEcPex.png)（所示圖表不是最終結果）
 :::
 20:35 關於行動方案最高票的細節設計討論：
 :::danger
@@ -151,66 +152,66 @@
 
 20:49 繼續觀看投票結果：投票終於過半了，Peter請大家盡快送出投票結果
 :::info
-![](https://g0v.hackmd.io/_uploads/HylSbO49vgg.png)
+![](https://g0v.hackmd.io/_uploads/HylSbO49vgg.png)（所示圖表不是最終結果）
 :::
 
 20:50 Peter:「針對這個行動方案還有哪一些看法想討論嗎？」邀請大家拿麥克風舉手分享中（目前線上線下無人舉手）
 
 :::info
-![](https://g0v.hackmd.io/_uploads/SJgJ6dN5vxl.png)
+![](https://g0v.hackmd.io/_uploads/SJgJ6dN5vxl.png)（所示圖表不是最終結果）
 :::
 
 --- 進入最後一階段討論---
 
 20:55 Peter:「如何避免更多的人投入詐騙？提出行動方案或政策」
 :::info
-![](https://g0v.hackmd.io/_uploads/H1h7cN9Dxe.png)
+![](https://g0v.hackmd.io/_uploads/H1h7cN9Dxe.png)（所示圖表不是最終結果）
 
 :::
 
 21:03 Peter:「現在整理出來的四個行動方案，我們投票決定，哪一個要深入討論」
 :::info
-![](https://g0v.hackmd.io/_uploads/SJVUs4qwxg.png)
+![](https://g0v.hackmd.io/_uploads/SJVUs4qwxg.png)（所示圖表不是最終結果）
 :::
 21:05 Peter
 :::danger
-![](https://g0v.hackmd.io/_uploads/H1gFyh49wxx.png)
+![](https://g0v.hackmd.io/_uploads/H1gFyh49wxx.png)（所示圖表不是最終結果）
 :::info
-![](https://g0v.hackmd.io/_uploads/BkQ03EqDll.png)
+![](https://g0v.hackmd.io/_uploads/BkQ03EqDll.png)（所示圖表不是最終結果）
 :::
 21:11 Peter 邀請大家基於「建立基本安全網」分享
 21:12 現場參與者6第一次分享：韓國電影《金派特工隊》～從源頭遏止：大嬸透過自救伸張了正義
 21:13 主持人Peter繼續邀請大家分享
 21:15 AI整理節國 行動方案#3:阻斷源頭
 :::danger
-![](https://g0v.hackmd.io/_uploads/H1Z70EcDgl.png)
+![](https://g0v.hackmd.io/_uploads/H1Z70EcDgl.png)（所示圖表不是最終結果）
 :::
 21:17 請大家投票
 :::info
-![](https://g0v.hackmd.io/_uploads/Syg6vA49wee.png)
+![](https://g0v.hackmd.io/_uploads/Syg6vA49wee.png)（所示圖表不是最終結果）
 :::
 21:18 Peter請大家在以後的會議上可以提出實際可執行的方案
 :::info
-![](https://g0v.hackmd.io/_uploads/H1sRCVcDel.png)(不是實際最終投票結果)
+![](https://g0v.hackmd.io/_uploads/H1sRCVcDel.png)（所示圖表不是最終結果）
 :::
 21:22 Peter：「針對這個行動方案還有哪一些看法」非常強烈的鼓勵大家發表意見，公開表達自己的看法
 21:25 Teams線上參與者發表意見中
 21:27
 :::info
-![](https://g0v.hackmd.io/_uploads/rkeoYer5Dxl.png)(圖示不是現場最終結果)
+![](https://g0v.hackmd.io/_uploads/rkeoYer5Dxl.png)（所示圖表不是最終結果）
 
 :::
 21:27 主持人法律系學生Peter補充「最低刑度」知識點
 21:28
 :::info
-![](https://g0v.hackmd.io/_uploads/HksVZH9Dxx.png)(圖示不是現場最終結果)
+![](https://g0v.hackmd.io/_uploads/HksVZH9Dxx.png)（所示圖表不是最終結果）
 :::
 ------三階段（輪）討論到尾聲------
 21:30 主持人說明最後一頁：請大家提供意見
 :::info
-![](https://g0v.hackmd.io/_uploads/ryxJkMHcDeg.png)
+![](https://g0v.hackmd.io/_uploads/ryxJkMHcDeg.png)（所示圖表不是最終結果）
 
-![](https://g0v.hackmd.io/_uploads/rJPeGH9wlx.png)
+![](https://g0v.hackmd.io/_uploads/rJPeGH9wlx.png)（所示圖表不是最終結果）
 
 :::
 
@@ -238,12 +239,7 @@
 |![](https://g0v.hackmd.io/_uploads/Byl4EcVcPxl.jpg) | ![](https://g0v.hackmd.io/_uploads/HJ-EEqN9Pxx.jpg) | ![](https://g0v.hackmd.io/_uploads/H14P545vgl.jpg) |
 | -------- | -------- | -------- |
 | ![](https://g0v.hackmd.io/_uploads/H14P545vgl.jpg)   |![](https://g0v.hackmd.io/_uploads/SkT_hE5vxe.jpg)    | ![](https://g0v.hackmd.io/_uploads/SJZa_3E9Pxx.jpg)  
-
-
-|![](https://g0v.hackmd.io/_uploads/BkxpO3E5Pee.jpg) | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-   |
+![](https://g0v.hackmd.io/_uploads/BkxpO3E5Pee.jpg)
 
 
 
