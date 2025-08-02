@@ -241,3 +241,6 @@ https://www.facebook.com/share/p/3SHDUrb2Es6iE64h/
 https://www.facebook.com/chris.yuan.9/posts/pfbid02v2xr238PyMHZsHq6924AgVk19ff1jsxM4jJ7dGR6W6LaoGf47N4ZEyimWwqdCM3gl
 https://www.facebook.com/story.php?story_fbid=pfbid031wtDTedptoBvP3sbms786nUKEYzEquCje44PP47BgaRshZr8ug8TzurcoD4onUZdl&id=1414624017&mibextid=wwXIfr
 https://www.facebook.com/share/p/1Br2KmrYyU/
+
+20250801 降雨
+https://www.facebook.com/share/v/16f5wiSKkL/
