@@ -30,8 +30,6 @@ https://www.facebook.com/share/v/15p7HWGoN5/
 Line 的翻譯機器人
 https://www.facebook.com/share/p/1Asz4SaySK/
 
-
-
 ## 文字資料彙整清理
 
 本次分享專案 星河計畫，有運用 GPT 將 自學生經驗分享文章內容，產出該文章的 特點標籤，並將標籤存到 notion 資料表，便於查找自學經驗，共筆：https://g0v.hackmd.io/8-A_6dbSTOuRdzymvd9Q0Q
@@ -72,6 +70,11 @@ https://www.facebook.com/share/p/15e75K8GKF/
 
 彙整政府文件，問答摘要
 https://youtu.be/D8wYpc4wgj8
+
+## 新聞企劃
+
+「AI助教」與「影音秘笈」提升敘事力－－《生命力新聞》的教學實驗 https://bit.ly/45aUl0I
+陳老師的分享貼文 https://www.facebook.com/share/p/1FzPyBKBEf/
 
 ## 劇本創作
 
