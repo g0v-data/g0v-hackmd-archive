@@ -57,6 +57,10 @@ comment-id,comment_text,votes,agrees,disagrees,passes,a-votes,a-agree-count,a-di
 
 ```
 
+4. 目前只接受英文內容。請chatGPT幫忙把內容翻譯成英文：「把內容翻譯為英文，欄位和格式不變」。
+
+
+
 
 
 3. clone專案到近端電腦上：(網址:https://github.com/Jigsaw-Code/sensemaking-tools)
@@ -67,24 +71,28 @@ comment-id,comment_text,votes,agrees,disagrees,passes,a-votes,a-agree-count,a-di
 
 ### 2. 註冊一個綁定付費帳號的google cloud Project，並啟用[VertexAI](https://cloud.google.com/vertex-ai?hl=zh_tw)
 
-1. https://cloud.google.com/
-2. https://cloud.google.com/vertex-ai?hl=zh_tw
-3. 安裝GCloud CLI，可參考此[官方說明](https://cloud.google.com/sdk/docs/install)或此[chatGPT對話](https://chatgpt.com/share/686d9ede-7960-800b-a265-cc446f4b4edc)
+1. 設定模型為gemini-2.5-pro
+2. https://cloud.google.com/
+3. https://cloud.google.com/vertex-ai?hl=zh_tw
+4. 安裝GCloud CLI，可參考此[官方說明](https://cloud.google.com/sdk/docs/install)或此[chatGPT對話](https://chatgpt.com/share/686d9ede-7960-800b-a265-cc446f4b4edc)
 
 ### 3. 執行分析，並生成網頁檔
 
     
 1. 先登入google could CLI：
 
-    ``` cloud auth login ```
+    ``` gcloud auth login ```
 
 
 2. 在專案根目錄，執行：
-    ```gcloud config set project <your project name here>```
+    ```gcloud config set project <your project id here>```
     ```gcloud auth application-default login```
 
 
 3. 在專案根目錄，執行：
+    ```npm install```
+    
+4. 在專案根目錄，執行：
 
     ```npx ts-node ./library/runner-cli/runner.ts -i ./comments.csv -o output -v sensemaking-tools-project```
 
