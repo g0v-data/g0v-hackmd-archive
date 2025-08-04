@@ -20,8 +20,16 @@ GA: UA-98468513-3
 *   **cofacts.ai**: Groundness Check agent 實作
 *   **Claude Code Action**: 連接到 Vertex AI
 *   **[nonumpa, mrorz]** LLM based Topic Classifier: 修復 bug 並確認 benchmark
-*   **小聚籌備 (08/17)**
-*   **Gather Town 方案變更**
+
+
+## :potable_water: Release pipeline
+
+### :star: Released to production
+
+#### :globe_with_meridians: Site
+
+https://github.com/cofacts/rumors-site/releases/tag/release%2F20250805
+
 
 ## 小聚籌備
 
