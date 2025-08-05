@@ -114,6 +114,8 @@ https://g0v.hackmd.io/R_BhZDNNQ-C8CAoTJ58ZSg
 
 租金地圖、租屋平台網站
 - 租金地圖：https://map.hiroommates.tw/
+- 臺北_大學租金地圖 by 地政局
+    - https://www.facebook.com/share/p/1BBoTsiF9m/
 - 如何使用機器學習提高房仲業潛在成交率？資料處理面基本心法(附Python程式碼)
     - https://tmrmds.co/article-mds-operation/27211/
 
