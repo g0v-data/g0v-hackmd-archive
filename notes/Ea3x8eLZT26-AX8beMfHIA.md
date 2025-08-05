@@ -23,3 +23,7 @@
 
 ## 你所觀察或認為的g0v 現階段及過去不同時間點的挑戰（若有）
 同上
+
+## 什麼樣的專案適合開放社群
+
+https://etblue.blogspot.com/2018/10/claire-g0v-summit-2018.html
