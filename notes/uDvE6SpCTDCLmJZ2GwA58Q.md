@@ -95,6 +95,8 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 1932 照片鳥瞰 臺灣神社 https://www.facebook.com/share/p/B8tYT1UVD3u4z5sn/
     - 照片，駐台美軍William Eggert 的C-130運輸機從松山機場往西起飛後到達現在花博公園美術園區(即天橋東邊)時由駕駛艙左側向東南方拍攝的。當時新生北路高架橋還沒建。照片內有德惠街雙城街口
         - https://www.facebook.com/share/p/ivdDxFZRiP231DZL/
+    - 雙連陂 孓遺 探討
+        - https://www.facebook.com/share/p/1E9rnmtNyW/?mibextid=wwXIfr
     - 照片 建國啤酒廠 https://www.facebook.com/share/rooSpYXJMWnnLBf8/
     - 重要 1948 大安橋 https://www.facebook.com/share/p/UX1KRHgiGQinhk3x/
     - 1959 復旦橋，敦化南北路與鐵路
