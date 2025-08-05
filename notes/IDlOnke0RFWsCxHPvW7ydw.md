@@ -30,6 +30,18 @@ GA: UA-98468513-3
 
 https://github.com/cofacts/rumors-site/releases/tag/release%2F20250805
 
+## Github Activities
+
+- cofacts/takedown **[PR#251 fix: migrate to GitHub advanced search API to resolve deprecation warning ](https://github.com/cofacts/takedowns/pull/251)**
+    - refactor: remove article detection code to fix lint error [#250](https://github.com/cofacts/takedowns/pull/250)
+    - fix security vulnerabilities in dependencies [#249](https://github.com/cofacts/takedowns/pull/249)
+
+可以先不改，只是會一直有 warning
+https://github.blog/changelog/2025-03-06-github-issues-projects-api-support-for-issues-advanced-search-and-more/
+
+> Note that on September 4, 2025, all issue queries will use advanced search by default. This means that after this date:
+> 
+> - You will no longer need to use the advanced_search parameter for the REST API.
 
 ## 小聚籌備
 
@@ -69,4 +81,3 @@ https://support.gather.town/hc/en-us/articles/39590892978196-Understanding-Gathe
 
 
 - 截圖起來做紀念 [name=bil]
-
