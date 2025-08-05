@@ -2,8 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [cofacts](tags/cofacts.md) | 502 | 2025-08-05T10:39:10+00:00 |
-| [ meeting note](tags/%20meeting%20note.md) | 24 | 2025-08-05T10:39:10+00:00 |
+| [cofacts](tags/cofacts.md) | 502 | 2025-08-05T12:54:08+00:00 |
+| [ meeting note](tags/%20meeting%20note.md) | 24 | 2025-08-05T12:54:08+00:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 35652 | 2025-08-05T10:16:34+00:00 |
 | [Rentea](tags/Rentea.md) | 202 | 2025-08-05T09:28:44+00:00 |
 | [ CoRent](tags/%20CoRent.md) | 1 | 2025-08-05T09:28:44+00:00 |

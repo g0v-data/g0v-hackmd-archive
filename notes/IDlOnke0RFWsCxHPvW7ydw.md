@@ -7,20 +7,26 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- 線上出席：
-- 實體出席：
+- 線上出席：Tim
+- 實體出席：bil, nonumpa, mrorz
 - https://gather.town/app/z3x18KQFgZCX8MeZ/cofacts
 :::
 
 ## 本次會議待追蹤項目 (由 2025/07/29 會議記錄結案)
 
-*   **[bil]** IT Matters 社會影響力獎報名
 *   **[Johnson]** 資訊安全權限設定
+    * 尚未更新
 *   **CCPRIP - Analytics**: Opendata trend & LINE Bot usage 報表問題
+    * 尚未更新
 *   **cofacts.ai**: Groundness Check agent 實作
+    - TODO 如下
+    - 移除「對查核熟悉者」的 prompt，讓他多做點檢查
+    - Community note "provide more context" 概念
+    - connect to Langfuse
 *   **Claude Code Action**: 連接到 Vertex AI
+    * 尚未更新
 *   **[nonumpa, mrorz]** LLM based Topic Classifier: 修復 bug 並確認 benchmark
-
+    * 尚未更新
 
 ## :potable_water: Release pipeline
 
@@ -43,10 +49,20 @@ https://github.blog/changelog/2025-03-06-github-issues-projects-api-support-for-
 > 
 > - You will no longer need to use the advanced_search parameter for the REST API.
 
+## DDoS 紀錄
+
+**08/04**: 服務發生數次不穩，`mrorz` 推測可能是 DDoS 攻擊，並觀察到網站記憶體與 CPU 用量異常。
+> mrorz@g0v-tw: "誰大半夜在 DDoS ._."
+> ![](https://g0v.hackmd.io/_uploads/r1DvYuyOgg.png)
+> mrorz@g0v-tw: "網站佔了 3.6GB 並不正常"
+> 攻擊標的：https://cofacts.tw/article/q4rzs4g3m6yf
+
+Downtime: 02:50AM~02:55AM
+
 ## 小聚籌備
 
 08/17 (日) 2pm - 5 pm 
-- OK: 
+- OK: bil, mrorz
 - 辦在青職基地
 - [ ] 食物：
 - [ ] 場地：新北市青年局青職基地
@@ -63,14 +79,14 @@ https://github.blog/changelog/2025-03-06-github-issues-projects-api-support-for-
         - 3:40 - 4:10 介紹撰寫新回應
         - 4:10 - 4:40 實作撰寫新回應
         - 4:40 - 5:00 介紹分類、RSS、合照
-- [ ] 投放目標：
-  - 推播日：08/03（7/29 設定）
+- [x] 投放目標：
+  - 推播日：08/07（08/05 設定）
   - 目標：雙北
 - [ ] KKTIX: https://cofacts.kktix.cc/events/cofactseditor48
 - [ ] 誰會來呢： 
 - [ ] 記得帶：貼紙、不太環保杯 (bil)
-- [ ] LINE 文案： Cofacts 真的假的 第 48 次志工查核工作坊需要你的加入，活動完全免費，（請自備電腦）08/17(日)下午，地點青職基地，最近的捷運站是捷運板橋站1號出口，連結內報名：https://cofacts.kktix.cc/events/cofactseditor48
-- [ ] VOOM 發文
+- [x] LINE 文案： 全民普發現金1萬元的假訊息在網路上默默發酵，詐騙集團設置假網站偽裝成政府的網域、假藉發錢要你輸入信用卡號，都是假的！！保護家人，Cofacts 真的假的 第 48 次志工查核工作坊需要你的加入，活動完全免費，（請自備電腦）08/17(日)下午，地點青職基地，最近的捷運站是捷運板橋站1號出口，連結內報名：https://cofacts.kktix.cc/events/cofactseditor48
+- [x] VOOM 發文
 - [ ] FB 發文
 
 ## Gather Town
@@ -79,5 +95,14 @@ https://support.gather.town/hc/en-us/articles/39590892978196-Understanding-Gathe
 
 > If you do not upgrade before September 15th, 2025, you will no longer have access to your space after that date. If you upgrade after September 15th, 2025, you’ll pay the new price of $15/user/month or $12/user month billed annually.
 
-
 - 截圖起來做紀念 [name=bil]
+- 改用 Google meet: https://meet.google.com/mrz-dgrd-pri
+
+![](https://g0v.hackmd.io/_uploads/B1elAuydxx.png)
+
+![](https://g0v.hackmd.io/_uploads/rJl-JAuJOxe.png)
+
+![](https://g0v.hackmd.io/_uploads/Bkg0eAdyOgl.png)
+
+影片：https://drive.google.com/file/d/14kWjNUZs-FTwe9YUgvdBvDXs1O_ENl99/view?usp=sharing
+
