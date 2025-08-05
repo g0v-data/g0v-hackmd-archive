@@ -71,7 +71,7 @@ comment-id,comment_text,votes,agrees,disagrees,passes,a-votes,a-agree-count,a-di
 
 ### 2. 註冊一個綁定付費帳號的google cloud Project，並啟用[VertexAI](https://cloud.google.com/vertex-ai?hl=zh_tw)
 
-1. 設定模型為gemini-2.5-pro
+1. 需購買模型：gemini-2.5-pro
 2. https://cloud.google.com/
 3. https://cloud.google.com/vertex-ai?hl=zh_tw
 4. 安裝GCloud CLI，可參考此[官方說明](https://cloud.google.com/sdk/docs/install)或此[chatGPT對話](https://chatgpt.com/share/686d9ede-7960-800b-a265-cc446f4b4edc)
@@ -94,7 +94,7 @@ comment-id,comment_text,votes,agrees,disagrees,passes,a-votes,a-agree-count,a-di
     
 4. 在專案根目錄，執行：
 
-    ```npx ts-node ./library/runner-cli/runner.ts -i ./comments.csv -o output -v sensemaking-tools-project```
+    ```npx ts-node ./library/runner-cli/runner.ts --outputBasename out --vertexProject "{Your_Project_ID}" --inputFile "comments.csv"```
 
 即可生成文字版的統整報告網頁了！
 
