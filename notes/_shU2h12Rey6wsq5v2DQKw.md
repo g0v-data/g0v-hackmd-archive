@@ -11,6 +11,7 @@
 ![](https://g0v.hackmd.io/_uploads/BJcLRNg_xx.png)
 
 STM32 Nucleo USB 驅動程式：https://www.st.com/stm32nucleo
+(若沒裝USB驅動，某USB裝置會顯示為Unkown)
 
 ![](https://g0v.hackmd.io/_uploads/r1fZlBgdee.png)
 

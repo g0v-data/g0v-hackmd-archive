@@ -166,6 +166,9 @@ https://www.facebook.com/groups/269013233204234/posts/8262619370510207/
 
 將 AI 技術未來五年的發展進程納入考量
 
+數位發產部數位產業署、台灣人工智慧學校合作，日前發佈「Al產業人才認定指引」。這份指引有助於理解「AI人才」的樣貌，而各類人才所對應的能力、認證、學校科系學生職涯發展路徑，終於有比較明確的圖像。下載網址：
+https://moda.gov.tw/ADI/services/publications/16938
+
 公務機關使用生成式AI相關管理規範
 https://reurl.cc/G5qEgZ
 
