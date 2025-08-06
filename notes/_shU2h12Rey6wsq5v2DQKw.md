@@ -23,3 +23,7 @@ STM32 Nucleo USB 驅動程式：https://www.st.com/stm32nucleo
 
 ![](https://g0v.hackmd.io/_uploads/BkNmQceOgg.png)
 
+Solder Bridges (SBxx) 焊點短接，改變電路功能
+ON （接通）：焊錫將兩端相連 → 導通
+OFF（斷開）：不焊或去除焊錫 → 不導通
+

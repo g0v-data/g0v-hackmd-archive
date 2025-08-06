@@ -78,3 +78,22 @@ AI自動摘要大綱 CC0 無爭議
 ### 自我介紹
 
 ## 小小的分享
+- Jigsaw 之前的訪談報告出來了！
+    - [報告：已經上傳到 vTaiwan 雲端](https://drive.google.com/file/d/14yK2FQgWDMliwaioK96ljaVWl729GPh5/view?usp=sharing)
+## 08/11 議題小聚分享
+> 這是下週一（8/11) 會舉辦的線上活動，坑主是 [name=peter]跟 [name=翊婷]
+- 題目 follow [vtaiwan x Tech for Good Asia 合作](/PdvNjkLlSd-WytXN_otWbQ) 的決定，討論社群媒體利用 AI 審查的問題！
+- 目前推廣資訊如下：
+::: info
+AI時代的言論審查：誰在決定我們能說什麼？
+
+大家好，我是數位審議社群 vTaiwan 的貢獻者 Peter。近期社群與國際組織 Tech for Good Asia 合作，獲得台灣網路資訊中心贊助，希望舉辦一場審議討論。而近期臉書等社群媒體對於內容與使用者帳號的處理政策爭議頻頻，我們希望邀請大家一起來討論！
+面對社群媒體內容暴增，AI 已經成為平台審查言論的主要力量。但這樣的機器判斷，真的公平嗎？合法的聲音會不會被誤刪？有心人又如何鑽漏洞？ 我們邀請你一同來參與討論：深入了解AI審查背後的機制、限制與挑戰，思考如何在守護自由與安全之間找到平衡。 公民參與，從認識現狀開始。一起為言論自由發聲，推動更透明、更有公正的社群規則！
+如果想要在下週一（8/11）晚上一起來參加線上討論，歡迎透過以下連結報名：
+https://docs.google.com/forms/d/e/1FAIpQLScWjHK_L0GeukenhiBXrUgJMrpTTq_BrbD9R_9B8EYDgnrkzA/viewform?usp=sharing&ouid=109285301638612449877 
+
+歡迎大家一同發聲，從線上的意見徵集開始！
+https://polis.tw/8v6yhdzbuf 
+:::
+- polis report: https://polis.tw/report/r8wrnmhydrkbb6rcperui 
+- 預計採取 mentimeter 進行討論
