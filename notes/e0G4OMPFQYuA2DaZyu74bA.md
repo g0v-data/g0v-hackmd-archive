@@ -48,6 +48,7 @@ vTaiwan 相關資料整理 vTaiwan related materials
 
 專案紀錄 Past Projects 
 ---
+- [2025TWNIC研究提案](/7Fo3M_qRR2CMQc6q08YwlQ)
 - [vTaiwan in TicTEC 2024](/_fWuILaRSv-h3FQsXSLxaQ)
 - [vTaiwan人工智慧基本法](/xwfZ2MrqTPGHQJVz9Y5sUQ)
 - [vTaiwan—AI—人權](https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/DIforAIvTaiwanxChatham)

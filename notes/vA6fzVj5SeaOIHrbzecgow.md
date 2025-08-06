@@ -175,6 +175,7 @@ https://g0v.hackmd.io/@Anan/Byj_OG5Dle
 -  想申請TWNIC grant來繼續研究sense making這個概念，還有AI在審議的應用
 -  翊婷可以自告奮勇當寫TWNIC grant proposal的坑主 ，只是接下來回英國之後可能也會有點頻寬不足，希望可以求大家一起集思廣益，還有一起注意行政要求的部分(例如：需要附上組織登記證明，所以可能要跟g0v借名？希望可以確認行政上我們都符合資格再來寫申請！）
 -  申請是 9/30截止: https://blog.twnic.tw/2025/06/27/31638/
+-  申請TWNIC grant的提案共筆->https://g0v.hackmd.io/@tmonk/rJHYWR9S4/%2F7Fo3M_qRR2CMQc6q08YwlQ?type=book
 
 
 
