@@ -19,3 +19,7 @@ STM32 Nucleo USB 驅動程式：https://www.st.com/stm32nucleo
 
 ![](https://g0v.hackmd.io/_uploads/HkMubHldgx.png)
 
+![](https://g0v.hackmd.io/_uploads/SkJbhKgdgg.png)
+
+![](https://g0v.hackmd.io/_uploads/BkNmQceOgg.png)
+
