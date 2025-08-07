@@ -90,6 +90,8 @@ https://airtable.com/app0GbmiOD7CJjsB7/shr2h6A39iNjN1AZE/tbl20Btjdj9O8K0Cy/viwX4
 近日國防部因演訓需求，無預警將美濃、旗山、內門、杉林等劃為無人機禁飛區，民用空拍機、農用植保機都無法作業，讓正值產季的農民急翻天。
 https://www.newsmarket.com.tw/blog/223562/
 
+戰時勞動
+https://www.facebook.com/share/p/1AtPAhqbwA/
 
 ## 民防事務
 
