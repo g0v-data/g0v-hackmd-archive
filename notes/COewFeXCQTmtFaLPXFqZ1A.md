@@ -8,6 +8,18 @@ tags: asia, Thai, GIS
 [TOC]
 :::
 
+# TODO
+
+公民科技專案與社群手冊｜有各國相關內容段落
+https://g0v.hackmd.io/@jothon/ctpbook/
+
+# Dataset
+
+## Shelter Map
+
+WaytoSafety _ Shelter Map (Taiwan, Japan, Korea, HK)
+https://g0v.hackmd.io/@chewei/waytosafety-home
+
 # 越南
 
 https://www.facebook.com/rtivietnam
