@@ -18,7 +18,10 @@ tags: 公有地大行動
 
 
 ## 大安區_臺師大街區
-- https://g0v.hackmd.io/@chewei/campus_district/
+- FB 討論社團：
+    - 臺北市城南三角形「古亭-大安森林公園-公館」街區討論社團
+    - https://www.facebook.com/groups/1533007384338240
+- 文件：https://g0v.hackmd.io/@chewei/campus_district/
 - 主題
     - 🌳 水綠街道與風的走廊
     - 👋 穿越時代的學習路徑

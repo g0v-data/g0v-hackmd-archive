@@ -3,6 +3,11 @@ tags: g0vernance, SNS, g0v.news
 ---
 # g0v SNS 社群治理機制
 
+:::info
+文件目錄
+[TOC]
+:::
+
 ## 動機
 以 g0v 為名的媒體平台們，也許可以有個一致的發文流程。
 
@@ -80,39 +85,42 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
     - Case: 
         - 20231122
             - https://g0v-slack-archive.g0v.ronny.tw/index/channel/CPKVDVD88/2023-11#ts-1700644906.904569
+- 20250807 提議討論【是否建立 g0v Threads】
+    - 請至 g0v Slack #sns 頻道討論與提供意見
+    - 緣起：
+        - ael 詢問是否有 g0v Threads 帳號
+        - chewei 轉貼至 g0v Slack #sns 頻道，「是否建立 g0v Threads？」邀請成員討論與提供意見
 
-## 2025/02/08 更新
+---
+
+## 2025/08/06 更新
 :::info
 - FB 編輯名單：
-    - 發文執行：
-        - chewei
-        - 小夏 (1/14 新增)
-            - 社群兼職職工，僅於每週上班時段受理發文
-            - 2025 日期：週一、週四、週五 10:00-16:00
+    - 發文執行志工：
+        - chewei (揪松團)
         - Vivian Wu
         - Tiff
-        - 智仁, Yi, Lisa, 大助, tmonk, ipa, clkao, chihao
+        - 智仁, Yi, Lisa (ky), 大助, tmonk, ipa, clkao, chihao, 小夏
     - 帳號管理任務：Ronny
 - IG 編輯名單：
     - 發文執行：
         - chewei (揪松團)
-        - 揪松團建議新增一位兼職職工
-        - Tiff
         - chihao (g0v Intl)
+        - Tiff
+        - 小夏
     - 帳號管理任務：ronnywang
 - Twitter 編輯名單：限制五位
     - 發文執行
         - chewei (揪松團)
-        - 揪松團建議新增一位兼職職工
         - 繁嵐 (Summit)
     - 帳號管理任務：clkao, ronnywang
 :::
 
 ## 2025/1/7 更新 
 :::info
-- FB 編輯名單： Ronny, 張智仁, Yi, Peace, Lisa, 大助, Tiff, tmonk, ipa, clkao, chihao, Vivian Wu, Chewei　 
+- FB 編輯名單： Ronny, 張智仁, Yi, Peace, Lisa, 大助, Tiff, tmonk, ipa, clkao, chihao, Vivian Wu, 小夏, Chewei　 
 - Twitter 編輯名單：clkao, ronnywang, chewei, 繁嵐
-- IG 編輯名單：ronnywang, tiff, chihao, chewei
+- IG 編輯名單：ronnywang, tiff, chihao, 小夏, chewei
 :::
 
 ## 2024/10/15
