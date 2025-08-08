@@ -46,6 +46,7 @@ https://www.facebook.com/share/p/1HRg52u6tk/
 - 臺南高鐵天橋 https://www.facebook.com/share/p/19Sry8gRZA/
 - 雄女 https://www.facebook.com/groups/birdwindowcollision/posts/1363931294322324/
 - 高雄第一科大 https://www.facebook.com/share/p/98hopTiDhYum8D5T/
+- 和平電廠 https://www.facebook.com/share/p/19TDBu9zs4/
 - 雙峰國小 https://www.facebook.com/share/p/epS4odFVrmZXjsdk/
 - 小琉球 https://www.facebook.com/share/p/1CLngQAQ7R/
 - 台泥 https://www.facebook.com/share/p/16wzr82ivP/?mibextid=wwXIfr
