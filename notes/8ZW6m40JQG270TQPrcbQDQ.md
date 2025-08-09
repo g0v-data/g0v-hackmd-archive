@@ -33,5 +33,4 @@ https://forms.gle/xHmHS6sYwHj95gES6
 
 ## 海報
 ### A3 直式 CMYK
-![](https://g0v.hackmd.io/_uploads/HkEebitPel.png)
-
+![](https://g0v.hackmd.io/_uploads/SJUYZu4ugl.png)
