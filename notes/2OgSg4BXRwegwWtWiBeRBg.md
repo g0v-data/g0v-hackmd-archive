@@ -186,14 +186,16 @@ http://cpc.people.com.cn/BIG5/n1/2022/0811/c64387-32499836.html
 - 中國人民解放軍基地及設施 (持續更新)
     - http://umap.openstreetmap.fr/en/map/by_77487#5/32.713/101.997
     - https://www.google.com/maps/d/u/0/viewer?hl=zh-TW&fbclid=IwAR0XCsInnQshdhv0MpUbu0e2xWydIXlfX6Zc89htiXCNfE20UXCyBsqmEFI&mid=19Q8BraU1Nmnk23TzMb5rhXFuIAnOpTTq&fs=e&s=cl
-        - 似乎關起來了？
-    - 作者出書：
-        - https://www.facebook.com/share/p/1A42kKnnYk/
+    - 作者出書：https://www.facebook.com/share/p/1A42kKnnYk/
+
+![](https://g0v.hackmd.io/_uploads/BkpsaANdgl.png)
+
 - FB 社團：影像情報分析IMINT https://www.facebook.com/groups/1039896299354539/
-- 中國地理圖資(行政區、DTM) 
-    - https://www.facebook.com/groups/600385406707053/permalink/6028507193894820/
-    - 3D 地圖https://www.facebook.com/share/p/Q329vZ5rnVdfRQCj/
 - 平潭島、東山島、海流 https://www.facebook.com/story.php?story_fbid=pfbid0XChNwVeU6TwjwtoPjdzjcrF2ivgK5kCxJQkQJHmn6Jma8B2XSSAHTkic2HHVnBXSl&id=100008337401408&mibextid=qC1gEa
+
+### 中國地理圖資(行政區、DTM) 
+- https://www.facebook.com/groups/600385406707053/permalink/6028507193894820/
+- 3D 地圖 https://www.facebook.com/share/p/Q329vZ5rnVdfRQCj/
 - https://pc.thread0.com/
 
 ### 對臺澎金馬的軍演兵推
