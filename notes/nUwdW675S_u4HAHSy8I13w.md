@@ -11,7 +11,7 @@ tags: vTaiwan,
 時間 Time ：18:30 - 20:00
 地點 Location ：線上 Online
 參與者 Participants：
-線上參與連結：
+線上參與連結：Bestian,翊婷Yi-Ting,Tim,阿南Anan
 https://vtaiwan.pages.dev/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
 
