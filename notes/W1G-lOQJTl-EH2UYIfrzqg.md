@@ -58,6 +58,8 @@ https://g0v.hackmd.io/@chewei/waytosafety-home
 
 2024 鹿兒島縣町長交流
 https://maps.app.goo.gl/qEqYau321AVMRCv16
+2025 災害
+https://www.facebook.com/share/p/17C2gc5jm9/
 
 離島
 https://rito.pref.aichi.jp/
