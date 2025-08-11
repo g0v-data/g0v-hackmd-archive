@@ -1,7 +1,7 @@
 :::success
 AI、社群媒體與言論審查：vTaiwan x TFGA 線上討論與意見徵集 線上即時紀錄
 
-:date: 時間：8/11（今天）19:00－21:00（GMT+8）
+:date: 時間：8/1119:00－21:00（GMT+8）
 :round_pushpin: 地點：線上會議
 主要連結：https://vtaiwan.pages.dev/jitsi
 備用連結：https://meet.jit.si/vtaiwan
@@ -57,7 +57,7 @@ AI 在社群媒體的言論審查現況與挑戰
  ![](https://g0v.hackmd.io/_uploads/H1sCdLP_el.png)
 :::
 
-- 19:50 Bestian發言： Rost....組織 防止兒少性剝削.....黑箱ＡＩ
+- 19:50 Bestian發言： 可以區別如ROOST組織，由許多社群和公司協力打造的防止兒少性剝削影像的第三方服務和單一公司自己的黑箱ＡＩ。
 - 19:51 主持人Peter：不應概論，而應該檢視是哪種機制的AI工具。
 - 19:52 如沒意見，開始進行討論。主持人Peter念出「肥宅的留言」
 - 19:52 進行數位工具的討論:www.menti.com
