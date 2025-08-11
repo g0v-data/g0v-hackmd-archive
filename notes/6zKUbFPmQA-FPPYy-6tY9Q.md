@@ -257,7 +257,7 @@ Bestian says:被誤刪和誤停權的帳號的人的權益，如何保障，也�
 
 Bestian
 Bestian says:如果是要防止兒少性剝削影像等，平台可以尋求公平公正第三方的服務，如ROOST（Robust Open Online Safety Tools），而非自己做黑箱AI來審貼文
-~~~
+
 詐騙如果也有類似的第三方服務，可以降低誤判，也避免防詐措施無限上綱 
 
 19:44
@@ -476,9 +476,6 @@ Bestian says:感謝主持人和所有參與的朋友
 
 Bestian says:謝謝 
 
-21:02
-
-Type a message
 
 :::
 

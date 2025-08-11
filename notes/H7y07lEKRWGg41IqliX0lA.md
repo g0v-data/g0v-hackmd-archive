@@ -30,6 +30,8 @@ https://www.facebook.com/share/18bmeYE39E/
 聽起來很科學
 https://www.facebook.com/share/v/1Bem93ejrU/
 
+我了解你的明白
+https://www.facebook.com/share/1CLgqZ8mX2/
 
 ## 發想
 
@@ -40,4 +42,5 @@ https://www.facebook.com/share/v/1Bem93ejrU/
 這樣也可以
 說實在話、講實在話
 說真的
+嚴格來說
 
