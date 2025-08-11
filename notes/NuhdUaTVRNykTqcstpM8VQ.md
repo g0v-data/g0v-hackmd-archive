@@ -41,7 +41,7 @@ g0v Slack Channel Guide 頻道傳送門
 #penghu-澎湖群島
 #kinmen-金門 金門討論群組！
 #matsu 馬祖討論群組！
-#keelung-基隆
+#keelung 基隆討論群組
 #re-place 關於如何移住、回到故鄉，以及城市人如何與地方一起打造新故鄉的實踐
 #jothon-local-support-地方社群支持方案 support for local communities or initiatives 有相關想法與構想，歡迎到頻道討論 ~
 #hk https://github.com/g0vhk-io
