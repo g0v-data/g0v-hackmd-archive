@@ -1,9 +1,9 @@
 ---
 title: g0v Summit 2026 啟動會議記錄
-tags: summit, summit2026
+tags: summit, summit2026, 會議記錄
 ---
 
-# g0v Summit 2026 啟動會議
+# g0v Summit 2026 啟動會議們
 
 ## 1 籌
 

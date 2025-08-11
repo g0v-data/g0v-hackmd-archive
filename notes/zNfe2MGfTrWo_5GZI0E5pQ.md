@@ -7,6 +7,8 @@ tags: g0vernance, g0v, hackmd
 :::info
 - HackMD 治理文件：https://g0v.hackmd.io/vYdTfaYeR7SnIU3zT5evOw?view#g0v-HackMD
 - HackMD 討論頻道：slack channel: #hackmd
+文件目錄
+[TOC]
 :::
 
 ## Team 功能介紹與應用特點
@@ -63,6 +65,11 @@ tags: g0vernance, g0v, hackmd
 - g0v HackMD 是擁有獨立的 Instance，所以 g0v HackMD 可以自行建立多個 Team；建立 Team 現在需要 Instance 的超級管理員權限。
 - 2022.9.3 新增草案，待修訂、討論、通過 [name=chihao]
 - 2022.9.13 揪松例會討論試行
+- 20250811 技術課題
+    - 建立團隊
+        - Jacky> 之後有需要開團隊的話，跟你 (chewei) 一樣有權限的人也可以從 dashboard -> Team 的右上角 New team 來建立團隊，這個跟你在 Overview 那邊的建立團隊是不同流程
+    - 已建立的團隊，如何「新增成員」？
+        - 待確認
 
 ### Team 提案群體的權利與義務
 - 提案群體的資格，必須是多人的專案，多人的工作小組。
