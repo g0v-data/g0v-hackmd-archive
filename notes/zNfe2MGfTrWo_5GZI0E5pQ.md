@@ -56,6 +56,8 @@ tags: g0vernance, g0v, hackmd
 - pmpc
 - waytosafety
 - d2wg
+- dada
+- summit2026
 
 ## Team 的新增 / 修改設定 / 刪除機制
 - g0v HackMD 是擁有獨立的 Instance，所以 g0v HackMD 可以自行建立多個 Team；建立 Team 現在需要 Instance 的超級管理員權限。
@@ -277,3 +279,10 @@ Step 7 點擊「團隊成員」
 - 申請人 Slack ID：chewei
 - 聯絡人 Slack ID：chewei
 - 運用方法：https://g0v.hackmd.io/@dada/book/
+
+### summit2026
+- 申請日期：20250811
+- 專案簡介：g0v Summit 2026 (`#summit-2026`)
+- 申請人 slack ID：rschiang
+- 聯絡人 slack ID：rschiang, pm5, ballfish, chewei
+- 運用方法：https://g0v.hackmd.io/@rschiang/summit2026-book/
