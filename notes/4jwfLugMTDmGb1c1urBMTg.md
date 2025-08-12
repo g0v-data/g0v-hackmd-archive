@@ -26,8 +26,10 @@ GA: UA-98468513-3
 *   **Claude Code Action**: 連接到 Vertex AI
     * Sample: https://github.com/cofacts/rumors-api/pull/375/files
     * Apply to others
-        * rumors-site: action 已經有 service account 
+        * rumors-site: action 已經有 service account, 但權限不對（用來 deploy 的，預設[沒 predict role](https://github.com/cofacts/rumors-site/actions/runs/16904423637/job/47890765372#logs)）
         * 其他還要設定 service accunt
+        * 想要開一個專門用來放在 Github organization 裡 call vertex ai 的 service account
+            * Role: [Vertex AI Platform Express User](https://cloud.google.com/vertex-ai/docs/general/access-control#aiplatform.expressUser), or any other role with just `aiplatform.endpoints.predict`
 *   **[nonumpa, mrorz]** LLM based Topic Classifier: 修復 bug 並確認 benchmark
 *   **小聚籌備**:
     *   [ ] 準備食物
