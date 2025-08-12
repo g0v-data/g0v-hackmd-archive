@@ -50,7 +50,6 @@ https://www.facebook.com/share/p/15QG6SUDKT/?
 
 https://www.facebook.com/share/15iwfX47x3/
 
-
 ## 互動解答
 
 健保代碼
@@ -110,8 +109,6 @@ https://www.facebook.com/share/p/1Addn6PWbz/
 ## 單據拍照轉成表格文字
 
 https://www.facebook.com/share/r/15wpa3GnoT/
-
-
 
 ## 涉及影音生成
 
@@ -211,6 +208,11 @@ https://www.facebook.com/share/p/1ArPQnAnUz
 日本  AIセーフティ年次レポート2024
 National Status Report on AI Safety in Japan 2024
 https://aisi.go.jp/effort/effort_information/250207_3/
+
+
+## 檢視團隊 AI 文化
+
+https://www.facebook.com/share/p/16y7yG1AGB/
 
 ## 課程
 

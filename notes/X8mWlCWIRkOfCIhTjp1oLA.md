@@ -116,6 +116,9 @@ https://www.facebook.com/share/p/cKfUkuXLe4d3abui/
 高雄三民區大昌一路302巷
 https://www.facebook.com/story.php?story_fbid=706472412349723&id=100089609110714&mibextid=wwXIfr&rdid=rQ24L100VGVe7BfL#
 
+高雄中山大學
+https://www.facebook.com/share/p/1K8xoPTuSW/?mibextid=wwXIfr
+
 師大路
 https://www.threads.com/@unseen_frames_/post/DJvVEsqzHfi?xmt=AQF0IKVYSIKe7_JVE3D2hNbl734AsF_e0xez_0eQ_due2A
 
@@ -355,6 +358,9 @@ https://www.facebook.com/100089609110714/posts/pfbid02nNL6ah36wKsg2rJPHUcsfbCKBt
 
 "高雄農16就是這樣，裕誠路至今依然沒有人行道" 出自以下討論區
 https://www.facebook.com/VisionZeroTW/posts/pfbid02tJBn3AkmVnzzhatzhwqqW5ZGZXKTUCxtcAkoHuVjS16tAfHycX1ft5kUj2Avqqifl
+
+高雄中山大學
+https://www.facebook.com/share/p/15x8EGb76T/?mibextid=wwXIfr
 
 待拆分：此貼文有提到許多路口
 https://www.facebook.com/TaiwanTrafficSafeAssociation/posts/pfbid0cCWCvPLmdDYqjwmJp5ytcQm3FcRSw8fic3W65kqqUFYXfjX4sp5nL7CtzF3Bcz5Kl
