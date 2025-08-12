@@ -329,3 +329,9 @@ Report a Non-Manufacturing Incident - ITNow (service-now.com) ->請備註要轉�
  
 3.等FIX完 在開單給我請我上 Printer Server 以下SOP給您參考 
 Label Printer setup (SOP).docx
+
+
+如果要換白貼紙(跨廠區使用)
+可以把原因發mail給MTB_FS_Admin_L2 & Steve Lin 林 禹橋
+和CC給你們的M2
+就可到It2go換貼紙喔
