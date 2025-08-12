@@ -38,6 +38,7 @@ tags: summit, summit2026, 會議記錄
 - 翻譯（？
     - 這次會有嗎？
     - 可以考慮用 UDTalk
+    - 任翔有分享一個直播翻譯工具 https://youtu.be/DbcNRg9q7UA
 - 攝影/設備
     - 月太
 
@@ -118,7 +119,7 @@ tags: summit, summit2026, 會議記錄
     - 公務員的公民科技營
 - 需要 keynote speaker 嗎？
     - 叫 MG 來講！調性上也跟十週年很適合！[name=RS]
-    - 找趙氏隆、au、跟lulu來開panel之類的
+    - 找趙式隆 (臺北市資訊局局長)、au、跟 lulu 來開 panel 之類的
 
 ### 討論
 
