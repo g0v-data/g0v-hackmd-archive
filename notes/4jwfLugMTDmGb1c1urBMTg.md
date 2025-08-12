@@ -26,6 +26,8 @@ GA: UA-98468513-3
 *   **Claude Code Action**: 連接到 Vertex AI
     * Sample: https://github.com/cofacts/rumors-api/pull/375/files
     * Apply to others
+        * rumors-site: action 已經有 service account 
+        * 其他還要設定 service accunt
 *   **[nonumpa, mrorz]** LLM based Topic Classifier: 修復 bug 並確認 benchmark
 *   **小聚籌備**:
     *   [ ] 準備食物
@@ -38,7 +40,7 @@ GA: UA-98468513-3
 ## url-resolver update
 
 新想法：[用 Gemini + URL Context tool](https://github.com/cofacts/rumors-api/issues/373#issuecomment-3177644376)
-- 請 AI 做個 branch 看看
+- 請 AI [做個 branch 看看](https://github.com/cofacts/rumors-api/pull/377)
 - Follow-up:
     - 跑實驗
     - 看要不要把 url-resolver 的 unfurl 拉到這裡來做
