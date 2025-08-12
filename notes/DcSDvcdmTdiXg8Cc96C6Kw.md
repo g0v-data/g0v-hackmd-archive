@@ -8,9 +8,11 @@ tags: GIS, 都市更新
 https://www.facebook.com/share/p/1LSewn31tS/
 
 ## 待登載資料
-- 49 筆，臺北市私人住宅類 
+- 49 筆，臺北市私人住宅類，簡易程序-增設電梯（套餐B） 
     - https://uro.gov.taipei/News.aspx?n=9639D4A96F49BAFC&sms=B462987B049EF0B0&_CSN=06344202CAE09649
     - 圖卡資訊，要手動 key 出地址文字
+- 4 筆，臺北市私人住宅類，都市更新整建維護事業計畫案（套餐A）
+    - https://uro.gov.taipei/News_Photo.aspx?n=9639D4A96F49BAFC&sms=B462987B049EF0B0&_CSN=DC0A24D2F2E63F3A&page=1&PageSize=20
 - 公共建築類，有蒐集到也可登載到地圖中
 
 ## 案例地圖

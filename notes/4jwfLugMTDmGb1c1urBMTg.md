@@ -7,8 +7,8 @@ GA: UA-98468513-3
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- 線上出席：
-- 實體出席：
+- 線上出席：nonumpa
+- 實體出席：bil, mrorz
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
@@ -20,23 +20,25 @@ GA: UA-98468513-3
     * Not yet
 *   **cofacts.ai**: Groundness Check agent 實作
     * Update on proposals
-    * Deep research implementation: https://github.com/google/adk-samples/blob/main/python/agents/gemini-fullstack/app/agent.py
-    * Langfuse integration: 參考 https://github.com/langfuse/langfuse/issues/6588#issuecomment-3056208403 override `run_sse` endpoint
-    * If async tools are in separate traces, apply this https://github.com/langfuse/langfuse/issues/8216#issuecomment-3176792995
+      * 團隊介紹
+      * 補充資料：screenshot + 英文介紹 as an early proof-of-concept
+    * 相關資訊
+      * Deep research implementation: https://github.com/google/adk-samples/blob/main/python/agents/gemini-fullstack/app/agent.py
+      * Langfuse integration: 參考 https://github.com/langfuse/langfuse/issues/6588#issuecomment-3056208403 override `run_sse` endpoint
+      * If async tools are in separate traces, apply this https://github.com/langfuse/langfuse/issues/8216#issuecomment-3176792995
+      * 整理到 RD 文件 or https://github.com/cofacts/beta-ai/ issue
 *   **Claude Code Action**: 連接到 Vertex AI
     * Sample: https://github.com/cofacts/rumors-api/pull/375/files
     * Apply to others
         * rumors-site: action 已經有 service account, 但權限不對（用來 deploy 的，預設[沒 predict role](https://github.com/cofacts/rumors-site/actions/runs/16904423637/job/47890765372#logs)）
         * 其他還要設定 service accunt
         * 想要開一個專門用來放在 Github organization 裡 call vertex ai 的 service account
-            * Role: [Vertex AI Platform Express User](https://cloud.google.com/vertex-ai/docs/general/access-control#aiplatform.expressUser), or any other role with just `aiplatform.endpoints.predict`
+            * Role: [Vertex AI Platform Express User](https://cloud.google.com/vertex-ai/docs/general/access-control#aiplatform.expressUser), or any other role with just `aiplatform.endpoints.predict` permission
 *   **[nonumpa, mrorz]** LLM based Topic Classifier: 修復 bug 並確認 benchmark
 *   **小聚籌備**:
-    *   [ ] 準備食物
-    *   [ ] 發布 VOOM 貼文
-    *   [ ] 發布 FB 貼文
-    *   [ ] [bil] 記得帶貼紙與杯子
-    *   [ ] [bil] 截圖 Gather Town 做紀念
+    *   [x] 發布 VOOM 貼文
+    *   [x] 發布 FB 貼文
+
 
 
 ## url-resolver update
@@ -60,10 +62,11 @@ GA: UA-98468513-3
 - **時間**: 大多數人遲到，開場影片很重要。
 - **時間分配**:
     - 評價環節可以再縮短。
+      - 10 分鐘已經不能再短啦，包含下課 [name=mrorz]
     - 自我介紹環節很重要。
 - **網路**: 現場網路順暢。
 
-> 報名現況https://cofacts.kktix.cc/events/cofactseditor48
+> 報名現況 https://cofacts.kktix.cc/events/cofactseditor48
 
 ## 小聚 rundown
 
@@ -72,11 +75,11 @@ GA: UA-98468513-3
     - [ ] KKTIX 行前通知：提醒時間、使用電腦而非手機
     > Hello 你好，
 	>
-	> 本週日就是 6 月 15 日查核志工培訓囉！
+	> 本週日就是 08 月 17 日查核志工培訓囉！
 	>
 	> 志工培訓需要大量查詢資料，請自備筆電 💻 與充電器 🔌 並帶著愉快的心情來參加。帶順手的平板也可以的！如果願意協助編修影片逐字稿，請自備耳機唷🎧！
 	>
-	> 🕒 時間：06/15（日）14:00 - 17:00
+	> 🕒 時間：08/17（日）14:00 - 17:00
 	> 📍 地點：新北市青年局青職基地2樓 / 新北市板橋區民權路170號2樓(近板橋捷運站)
 	> 
 	> 費用全免，會很準時開始。若不克前往，記得取消報名 :)
@@ -106,9 +109,10 @@ GA: UA-98468513-3
         - [ ] rt-ax57 go
         - [ ] 電源線
     - [ ] 多帶一條 type-c 公公線 for dongle 的電
-    - [ ] 備用 wifi 機 [name=nonumpa]
-- 13:00 - 場佈 [排法](https://g0v.hackmd.io/0rzXk22PQZ2g5aswKIAXdw?view)
+    - ~~[ ] 備用 wifi 機 [name=nonumpa]~~ 人少不用
+- 13:00 - 場佈 [排法](https://docs.google.com/drawings/d/1yyAbWFmCC16Ur0lEf7m3szZVZ7en1rSpXx8BHlyrcN0/edit)
   - 桌子一邊 4 張椅子
+  - 工人先把下面兩張桌子佔起來 + 移走椅子，參與者自然就會坐到螢幕前
   - [ ] 簽到（問飲料）
   - [ ] 排桌子椅子 
   - [ ] 投影位置？
