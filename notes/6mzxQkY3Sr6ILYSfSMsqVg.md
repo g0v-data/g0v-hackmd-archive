@@ -10,6 +10,9 @@ tags: vtaiwan
 * 開源程式庫(實驗版)：https://github.com/bestian/sensemaking-tools/
 
 
+note:實驗版要切換至`new-feature-open-router`分支
+
+
 ## SenseMaker是什麼？：
 
 * [SenseMaker意見彙整器](https://github.com/Jigsaw-Code/sensemaking-tools) 透過Google 的 AI 服務，可以用來分析大數據，產生有意義的結果，包含主要共同點和主要意見分岐等。
@@ -97,7 +100,7 @@ comment-id,comment_text,votes,agrees,disagrees,passes,a-votes,a-agree-count,a-di
 
 1. 需儲值(體驗的話，先存5美金 = 150台幣就夠用許多次了。)
 2. 儲值後取得API KEY
-3. 將/library/.env.example檔，複製並更名為.env檔
+3. 將.env.example檔，複製並更名為.env檔
 4. 把.env中OPENROUTER_API_KEY欄位之值，改為你的API KEY
 
 
@@ -116,15 +119,22 @@ comment-id,comment_text,votes,agrees,disagrees,passes,a-votes,a-agree-count,a-di
 
 在終端機專案根目錄，執行：
 
-```cd library```
-
-再執行：
 
 ```bash
-npx ts-node examples/tutorial.ts
+npx ts-node ./library/examples/tutorial.ts
 ```
 
 即可於終端機顯示出生成的意見彙整分析報告(Markdown格式)內容了！
+
+
+2在根目錄，執行
+
+```
+npx ts-node ./library/runner-cli/runner_openrouter.ts \
+  --outputBasename out \
+  --inputFile "./files/comments.csv" \
+  --additionalContext "Description of the conversation"
+  ```
 
 
 ---
