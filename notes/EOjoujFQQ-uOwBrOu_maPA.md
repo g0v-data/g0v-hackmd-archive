@@ -7,7 +7,7 @@ tags: vTaiwan,
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Bestian,
+參與者 Participants：Bestian, Josh, 阿南Anan
 線上參與連結：
 https://vtaiwan.pages.dev/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -48,6 +48,45 @@ https://vtaiwan.pages.dev/jitsi
 
 ### 08/11 議題小聚回顧
 
+https://g0v.hackmd.io/@Anan/BkZbLrD_eg
+Anan提問Josh：上次議題小聚3有關人名都沒有寫出，和但共筆4紀錄共筆時，有一些暱稱或名字（沒有姓）有寫上，會不會不太適合？
+Josh回覆：
+
+
+Josh 提到：Bestian您可以這一兩個月整理最近的做jitsi和自架轉錄後端工程與討論心得。例如轉錄工具開發等等。以後有人要做類似工具時，就可以看到 vTaiwan 的工程心得。Ａnan和 Tim針對參與這幾次議題小聚的經驗也可以寫下來。
+
+Bestian： 謝謝josh提出「留下紀錄可讓後人省不少力氣。」
+
+Bestian:要不要大家看一下 TWNIC研究提案的內容，看有沒有人有興趣做這個PM?現在計劃大致生成完畢，但還缺少人，可能提不出去....
+
+Josh:翊婷怎麼看這個計劃？...
+
+Bestian:翊婷說她沒有做PM的經驗..工程上.....
+
+Josh:我看了她之前的單位做的計劃，感覺上PM門檻不需要很高....
+
+Bestian：我有寫了ＰＭ的需求，不一定是業界的專家，但要會 ....
+
+Josh:會是多長的專案？
+
+Bestian:我是估一年，但不知道 Twnic可否接受一年？
+
+Josh:這個專案最後會想要達成什麼樣的效果？
+Bestian:sense maker已經很成熟，但有兩點：模型目前只有 gemini pro，但如果換成 chatgpt 開源模型，成本會少非常多這是第一個，第二個是語言限制的部分，現在的sensemaker輸出輸入都是英文，無法讀取中文資料的輸入，會需要多一層中文翻譯，但如果我們做成多語言的輸入輸出對台灣使用者就會好很多。
+
+阿南Ａnan:
+
+Josh:像 polis 的 input 有幾百個 statements，sensemaker就可以細分做大綱。審議過程中比較容易做量化的報告，可以呈現給政府公共單位快速找到大家的意見。
+
+阿南Ａnan:ㄟ
+
+
+
+
+
+
+
+
 
 
 ## 行政事項(略，請Peter再補充共筆或私訊)：
@@ -78,3 +117,5 @@ PM：待徵求(???)(人才需求：熟悉Github專案管理、會基本的node.j
 1. 轉錄功能提升實作結果與測試。【新增功能】線上即時顯示目前誰按下紫色麥克風並正在發言。
 2. 標註創用授權(逐字稿:CC-BY-SA, AI大綱：CC0)
 3. 是否要提前取代舊站？(原訂12月底，或可9月底就上線) https://vtaiwan.tw
+
+
