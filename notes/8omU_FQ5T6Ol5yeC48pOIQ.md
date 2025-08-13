@@ -6,7 +6,7 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 [TOC]
 :::
 
-https://www.businessweekly.com.tw/careers/blog/3018365
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v InactivityTimeoutSecs /t REG_DWORD /d 1800 /f
 
 9點關機：
 schtasks /Create /TN "Shutdown" /TR "shutdown /s /t 0" /SC DAILY /ST 21:00 /RU SYSTEM /RL HIGHEST /F

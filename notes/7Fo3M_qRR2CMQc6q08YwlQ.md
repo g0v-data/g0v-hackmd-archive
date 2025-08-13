@@ -15,7 +15,7 @@ TWNIC徵件主頁： https://twgrants.tw/introduction.html
 
 
 坑主：Yi-Ting Lien
-PM：(???)
+PM：(???)(人才需求：熟悉Github專案管理、會基本的node.js、熟悉Polis、能執行手動測試)
 工程師：Bestian、(???)
 助手：阿南Anan、(???)
 專案顧問：(???)

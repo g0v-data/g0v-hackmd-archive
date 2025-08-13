@@ -69,7 +69,7 @@ https://vtaiwan.pages.dev/jitsi
 
 
 坑主：Yi-Ting Lien
-PM：(待徵求???)
+PM：待徵求(???)(人才需求：熟悉Github專案管理、會基本的node.js、熟悉Polis、能執行手動測試)
 工程師：Bestian、(???)
 助手：阿南Anan、(???)
 專案顧問：(???)
