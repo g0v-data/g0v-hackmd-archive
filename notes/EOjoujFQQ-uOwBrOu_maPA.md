@@ -5,11 +5,9 @@ tags: vTaiwan,
 # 20250813小松
 
 
-
-
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：
+參與者 Participants：Bestian,
 線上參與連結：
 https://vtaiwan.pages.dev/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -52,11 +50,9 @@ https://vtaiwan.pages.dev/jitsi
 
 
 
-## 行政事項：
+## 行政事項(略，請Peter再補充共筆或私訊)：
 
 1. 請問 JaaS 升級的報帳程序 - by Bestian
-
-
 
 
 
@@ -76,3 +72,9 @@ PM：待徵求(???)(人才需求：熟悉Github專案管理、會基本的node.j
 > 專案顧問可能人選：Jisaw Sensemaker母專案的Head of Product & Engineering: Angelo Carino或請他推薦的人選 [name=Bestian]
 
 
+
+## 網站相關：
+
+1. 轉錄功能提升實作結果與測試。【新增功能】線上即時顯示目前誰按下紫色麥克風並正在發言。
+2. 標註創用授權(逐字稿:CC-BY-SA, AI大綱：CC0)
+3. 是否要提前取代舊站？(原訂12月底，或可9月底就上線) https://vtaiwan.tw

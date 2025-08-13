@@ -117,7 +117,7 @@ comment-id,comment_text,votes,agrees,disagrees,passes,a-votes,a-agree-count,a-di
 
 * 實驗版(推薦)：
 
-在終端機專案根目錄，執行：
+1. 在終端機專案根目錄，執行：
 
 
 ```bash
@@ -127,7 +127,7 @@ npx ts-node ./library/examples/tutorial.ts
 即可於終端機顯示出生成的意見彙整分析報告(Markdown格式)內容了！
 
 
-2在根目錄，執行
+2. 在根目錄，執行
 
 ```
 npx ts-node ./library/runner-cli/runner_openrouter.ts \
@@ -135,6 +135,7 @@ npx ts-node ./library/runner-cli/runner_openrouter.ts \
   --inputFile "./files/comments.csv" \
   --additionalContext "Description of the conversation"
   ```
+即可於終端機顯示出生成的意見彙整分析報告(.HTML, .JSON, .CSV)內容了！
 
 
 ---
