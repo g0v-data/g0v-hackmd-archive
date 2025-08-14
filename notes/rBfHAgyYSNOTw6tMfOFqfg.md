@@ -75,6 +75,9 @@ https://youtu.be/D8wYpc4wgj8
 「AI助教」與「影音秘笈」提升敘事力－－《生命力新聞》的教學實驗 https://bit.ly/45aUl0I
 陳老師的分享貼文 https://www.facebook.com/share/p/1FzPyBKBEf/
 
+併稿 中央社
+https://www.facebook.com/share/p/1aLyuehztY/
+
 ## 劇本創作
 
 https://www.facebook.com/share/p/15bgbpm69Q/?mibextid=wwXIfr
