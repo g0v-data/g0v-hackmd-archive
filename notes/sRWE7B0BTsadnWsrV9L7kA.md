@@ -203,6 +203,7 @@ Gerald L., Thompson and Sten, Thore. Computational Economics: Economic Modeling 
     - [http://www.googleguide.com/calculator.html](http://www.googleguide.com/calculator.html)
 - NVDA 無障礙數學報讀
     - [https://goo.gl/spS2X4](https://goo.gl/spS2X4)
+    - https://www.facebook.com/share/1AqzxdhAK9/
 - 用 Google docs 寫數學公式
     - [https://www.playpcesor.com/2016/01/google-docs-word.html](https://www.playpcesor.com/2016/01/google-docs-word.html)
 
