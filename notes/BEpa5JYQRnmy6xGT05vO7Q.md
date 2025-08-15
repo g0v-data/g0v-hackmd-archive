@@ -21,6 +21,9 @@ tags: 新生流域,
 - 臺灣大學校內水路營造 (至少包含 水工所旁、醉月湖南側等地點，相關地點請見線上地圖)
 
 ## 瑠公圳第一幹線
+- 沿瑠公圳第一幹線旁，民族實中校園水綠環境營造 
+    - https://heo.gov.taipei/cp.aspx?n=BFFA093635CE9249
+    - 民族實中規劃設計說明頁面 https://heo.gov.taipei/cp.aspx?n=1C8AA761A8ACE58A
 - 永齡生醫工程館旁圳道 https://maps.app.goo.gl/s8TppYYsE9HCQFpo9
 - 瑠公圳第一幹線_興雅派線，沿線的松菸園區內圳道 https://maps.app.goo.gl/zekd1qCbwyoHvixi9
 
