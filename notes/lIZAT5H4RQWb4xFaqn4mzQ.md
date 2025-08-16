@@ -2,12 +2,15 @@
 tags: 生態綠領就業
 ---
 
-# 20240501 生態綠領業記者會
+# 20240501 生態綠領就業倡議記者會
 
 ## 媒體報導
 
 [公共電視] 民團籲開創生態綠領就業機會 減無謂建設投資永續
 https://news.pts.org.tw/article/692969
+https://youtu.be/Gluq11Pl5jI
+台語台 https://youtu.be/Md5-D2jAM7c
+客家新聞 https://youtu.be/dME2rhIa0cw
 
 [環境資訊協會] 國家投入綠領工作只重綠能、交通？ 環團呼籲勿忘「生態綠領就業」
 https://e-info.org.tw/node/239024
