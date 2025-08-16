@@ -21,6 +21,8 @@ https://www.facebook.com/share/p/1HRg52u6tk/
 
 ## 具體案例蒐集，之後可以標記到地圖上
 
+
+- 基隆 海科館 https://www.facebook.com/share/p/1E3tB4UgaB/
 - 雙峰國小 https://www.facebook.com/share/p/1ArLM6t3gS/
 - 臺北市大安區國立臺灣大學思亮館國際會議廳玻璃、共同教學館的側邊走廊 https://www.facebook.com/groups/birdwindowcollision/posts/981724549209669/
 - 臺大鄭江樓二樓，臨樹冠處

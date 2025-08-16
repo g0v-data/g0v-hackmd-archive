@@ -216,6 +216,7 @@ https://aisi.go.jp/effort/effort_information/250207_3/
 ## 檢視團隊 AI 文化
 
 https://www.facebook.com/share/p/16y7yG1AGB/
+https://www.facebook.com/share/p/17AcvnUFJw/
 
 ## 課程
 
