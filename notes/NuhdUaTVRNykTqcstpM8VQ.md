@@ -16,7 +16,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 ## 以下是 g0v slack 頻道列表與簡介<br>》歡迎協助 (1) 提供中文簡短介紹、(2) 將簡介翻譯成英文 🙏
 
 g0v Slack Channel Guide 頻道傳送門
-．Global & Local：44 個頻道
+．Global & Local：46 個頻道
 ．Infra / G0vernacel：48 個頻道
 ．Edu / Learning / Health / Livingl：60+ 個頻道
 ．Open Gov & Projects：105+ 個頻道
@@ -57,6 +57,7 @@ g0v Slack Channel Guide 頻道傳送門
 #australia 澳洲
 #north-america 想在美國協作的可以來這邊聊天喔！
 #g0v-siliconvalley g0v 矽谷灣區小聚
+#brazil
 #russia
 #ukraine
 #netherlands_荷蘭
@@ -110,6 +111,7 @@ g0v Slack Channel Guide 頻道傳送門
 #g0vernance 討論社群治理 Discussion on Community Governance
 #g0v-landing-page g0v.tw 網站社群治理，以及社群活動刊登至日曆的提案頻道
 #engaged-research 以 g0v 為主的學術研究 Academic research on g0v and community projects
+#g0v-social creating g0v.social, a decentralized social network
 #sns g0v sns 平台規範、發文討論區
 #jothon-media-ig-fb-line-newsletter 揪松團的 SNS 與受眾溝通
 #news g0v news
@@ -117,7 +119,6 @@ g0v Slack Channel Guide 頻道傳送門
 #summit g0v Summit 年會的公開頻道 https://summit.g0v.tw/
 #10th-anniversary 十週年活動籌劃頻道 https://10th.g0v.tw/
 #moztw-space 摩茲工寮社群空間 https://moztw.org/space/
-#g0v-social creating g0v.social, a decentralized social network
 
 ### Edu / Learning / Health / Living
 #幼兒發展調查資料庫
@@ -179,6 +180,7 @@ g0v Slack Channel Guide 頻道傳送門
 #psymap 心理健康資源
 #psychmatch_public
 #adhd
+#buddist
 #fitness 動一動
 #g0vhiking for hiking affair
 #camping :camping: 全台露營區合法共 205 筆資料與線上地圖
