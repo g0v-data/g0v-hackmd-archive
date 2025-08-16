@@ -38,6 +38,7 @@ g0v Slack Channel Guide 頻道傳送門
 #yunlin-雲林 雲林討論群組！
 #nantou-南投 南投討論群組！
 #hualien 花蓮討論群組！
+#taitung-台東
 #penghu-澎湖群島
 #kinmen-金門 金門討論群組！
 #matsu 馬祖討論群組！
@@ -173,6 +174,7 @@ g0v Slack Channel Guide 頻道傳送門
 #band 零時樂團 :musical_score:
 #stayathome 宅在家的生活資訊
 #health 健康議題、健檢
+#medicineeasy 藥品仿單易讀化
 #open-nhi-smartcard-agent 非官方健保卡讀卡機元件開發計劃
 #psymap 心理健康資源
 #psychmatch_public
@@ -277,6 +279,7 @@ g0v Slack Channel Guide 頻道傳送門
 #taisugar-railway 糖業鐵路產業地景
 #urbancode 都市計畫 / 都委會會議記錄資料庫
 #poponfire-公有地大行動 公有土地資料與地圖 Public Land Data
+#心家園_臨時住宅與永久屋_資料庫
 #joinplus-關注公民參與的數位工具
 #carbon
 #river 河流與流域
