@@ -105,10 +105,10 @@ GA: UA-98468513-3
     - [ ] 一次性杯子 - bil
     - [ ] 延長線 - bil / mrorz
         - 比鄰有三條
-    - [ ] Wifi 機 - mrorz
-        - [ ] rt-ax57 go
-        - [ ] 電源線
-    - [ ] 多帶一條 type-c 公公線 for dongle 的電
+    - [x] Wifi 機 - mrorz
+        - [x] rt-ax57 go
+        - [x] 電源線
+    - [x] 多帶一條 type-c 公公線 for dongle 的電
     - ~~[ ] 備用 wifi 機 [name=nonumpa]~~ 人少不用
 - 13:00 - 場佈 [排法](https://docs.google.com/drawings/d/1yyAbWFmCC16Ur0lEf7m3szZVZ7en1rSpXx8BHlyrcN0/edit)
   - 桌子一邊 4 張椅子
