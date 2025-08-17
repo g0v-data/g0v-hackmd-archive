@@ -2,8 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [cofacts](tags/cofacts.md) | 503 | 2025-08-17T04:18:03+00:00 |
-| [ meeting note](tags/%20meeting%20note.md) | 25 | 2025-08-17T04:18:03+00:00 |
+| [cofacts](tags/cofacts.md) | 503 | 2025-08-17T05:44:02+00:00 |
+| [ meeting note](tags/%20meeting%20note.md) | 25 | 2025-08-17T05:44:02+00:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 35679 | 2025-08-17T02:51:36+00:00 |
 | [vTaiwan](tags/vTaiwan.md) | 104 | 2025-08-17T00:12:05+00:00 |
 | [g0v-siliconvalley](tags/g0v-siliconvalley.md) | 3 | 2025-08-16T22:22:57+00:00 |

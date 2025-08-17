@@ -113,24 +113,24 @@ GA: UA-98468513-3
 - 13:00 - 場佈 [排法](https://docs.google.com/drawings/d/1yyAbWFmCC16Ur0lEf7m3szZVZ7en1rSpXx8BHlyrcN0/edit)
   - 桌子一邊 4 張椅子
   - 工人先把下面兩張桌子佔起來 + 移走椅子，參與者自然就會坐到螢幕前
-  - [ ] 簽到（問飲料）
-  - [ ] 排桌子椅子 
-  - [ ] 投影位置？
-  - [ ] 麥克風
-  - [ ] 延長線佈置
-  - [ ] 門口黏引導牌
-  - [ ] WIFI
+  - [x] 簽到（問飲料）
+  - [x] 排桌子椅子 
+  - [x] 投影位置？
+  - [x] 麥克風
+  - [x] 延長線佈置
+  - [x] 門口黏引導牌
+  - [x] WIFI
       - [ ] 佈機，手機 USB 選擇網路分享，等待白燈亮
       - [ ] 用 ASUS Device Discovery 確認可連線到 ASUS
   - [ ] 投影的電腦用 google chrome 開好
-    - [ ] Google Chrome tab: [投影片](https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit)
+    - [x] Google Chrome tab: [投影片](https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit)
     - [ ] Google Chrome tab: [Bignum](https://cofacts.github.io/community-builder/#/bignum/setup)
-- [ ] browser tabs
-    - [ ] Google Chrome tab: [KKTIX](https://cofacts.kktix.cc/events/cofactseditor47)
-    - [ ] Google Chrome tab: [Slido admin](https://admin.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/polls)
-    - [ ] Google Chrome tab: [Slido](https://wall.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/?section=215e56d0-a002-4b7e-9bf0-c58acbacc9bf)
-    - [ ] Google Chrome tab: [開場影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs)
-    - [ ] BGM
+- [x] browser tabs
+    - [x] Google Chrome tab: [KKTIX](https://cofacts.kktix.cc/events/cofactseditor47)
+    - [x] Google Chrome tab: [Slido admin](https://admin.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/polls)
+    - [x] Google Chrome tab: [Slido](https://wall.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/?section=215e56d0-a002-4b7e-9bf0-c58acbacc9bf)
+    - [x] Google Chrome tab: [開場影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs)
+    - [x] BGM
     - [ ] Analytics
 - 14:00 - 14:20 開場
     - 放[長影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs) 8min
