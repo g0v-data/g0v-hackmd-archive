@@ -42,3 +42,4 @@ Slack 名稱
 - RS
 - chewei，訪談內容：https://g0v.hackmd.io/abJX1NrwRUynQ0wkE7u6fA?view
 - ael（線上）
+- Lucky（9月後可）
