@@ -21,7 +21,6 @@ chewei> 測試 讓 LLM 控制 double 3 可移動機器人
 - 補照片
 
 
-
 [線上活動] 7/7 週一晚上 20:00-21:00 [災害潛勢與文化物] 素材資料標記進度討論，歡迎參加
 - https://www.facebook.com/events/2402534916845704/
 - 專案共筆與資料表：https://g0v.hackmd.io/@chewei/CultureandRisk/
@@ -33,3 +32,6 @@ https://join.gov.tw/idea/detail/8e17b12e-2c8a-45d4-a55b-660fb654fa83
 
 [線上活動] 7/21 週一晚上 20:00-21:00 AI 共學課程交流時段
 https://g0v.hackmd.io/@jothon/Sch001courses/https%3A%2F%2Fg0v.hackmd.io%2Fu_WlftE-TreiWR59Jyr07w%3Fview
+
+藥品仿單易讀化
+https://g0v.hackmd.io/@jothon/ai/https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1PhQpjHt4NEoQl6MgumW7TKA0AKrBzercOUTVStAV5S8%2Fedit%3Fusp%3Dsharing
