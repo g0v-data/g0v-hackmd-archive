@@ -77,10 +77,12 @@ Cloudflare: system unhealthy --> Discord #alerts + g0v Slack
   - 2 次 API memory
   - 1 次網站 memory
   - 2 次是 url-resolver memory
+  - 2 次自行復原，員瑛不明
 - 能不能看到 cpu/memory 趨勢圖? [name=nonumpa]
 - 看 log 數量在掛掉的當下跟以往差不多 [name=nonumpa]
 - Memory (實體、虛擬) 已經在極限，只要有一個突然超過，就會導致 Load 超高 [NAME]
-- API 
+- API 很謎，理論上應該是 site / db / url-resolver 在忙 [name=mrorz]
+- 繼續修 url-resolver [name=mrorz]
 
 #### 2025-08-17 01:40 UTC
 
