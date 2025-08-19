@@ -67,6 +67,10 @@ tags: 新生流域
 ### 儀器類
 - chewei 有三台風速計
 
+### 戶外走訪導覽器材物件
+
+https://g0v.hackmd.io/7KE-OtLOSCarSXY1ENJwOA?view
+
 
 ## 活動類型：踏查活動
 
