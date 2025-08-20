@@ -7,6 +7,7 @@ tags: GIS,
 ## map / data
 https://maps.gsi.go.jp/vector/
 https://mapcompare.jp/
+https://rekichizu.jp/
 https://kenzkenz.xsrv.jp/open-hinata/
 
 ![](https://g0v.hackmd.io/_uploads/rJe8JQMUj1e.png)
@@ -49,6 +50,7 @@ https://www.facebook.com/share/1AF2rSrNKS/
 
 橫濱地區營造機制
 待補網址素材
+https://eyesonplace.net/2017/11/29/7004/
 
 《NHK スペシャル震災 ビッグデータ》此書的網路素材
 https://g0v.hackmd.io/ZsAGMi_lRkC5oAgaOAd3jQ?view
