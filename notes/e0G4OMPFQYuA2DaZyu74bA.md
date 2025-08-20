@@ -10,6 +10,7 @@ vTaiwan 工作組 Working Group
 - [vTaiwan 活動日程表](/QS1fVOHaQv69wAOw3psZeg)
 - [對外介紹：一起vTaiwan!](https://docs.google.com/presentation/d/1nAEBAbF7dTW0itIMp2JX-yapf6N3sILowZ721zZTTaQ/edit?usp=sharing)
 - [vTaiwan 網站](https://vtaiwan.tw/)
+- [開發中的vTaiwan新網站](https://vtaiwan.pages.dev)
 - [vTaiwan info page](http://info.vtaiwan.tw/)
 
 

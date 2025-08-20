@@ -66,17 +66,22 @@ https://vtaiwan.pages.dev/jitsi
 ## TWNIC提案：
 
 徵件官網： https://twgrants.tw/
+
+需要有人認領「最後整理完稿交件提案」的工作。
+> 請問坑主Yi-Ting有空嗎? 或是由PM Josh來接手呢? [name=bestian]
+
+
 共筆頁：https://g0v.hackmd.io/@tmonk/rJHYWR9S4/%2F7Fo3M_qRR2CMQc6q08YwlQ?type=book
 
-### 目前此坑的情況：
 
+### 目前情況
 
 坑主：Yi-Ting Lien
-PM：待徵求(???)(人才需求：熟悉Github專案管理、會基本的node.js、熟悉Polis、能執行手動測試)(可能人選 Josh)
+PM：(???)(人才需求：熟悉Github專案管理、會基本的node.js、熟悉Polis、能執行手動測試) (可能人選 Josh)
+
 工程師：Bestian、(???)
 助手：阿南Anan、(???)
 專案顧問：(???)
-> 專案顧問可能人選：Jisaw Sensemaker母專案的Head of Product & Engineering: Angelo Carino或請他推薦的人選 [name=Bestian]
-
+> 專案顧問可能人選：待詢問上游 [name=Bestian]
 
 
