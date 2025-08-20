@@ -18,8 +18,8 @@ TWNIC徵件主頁： https://twgrants.tw/introduction.html
 PM：(???)(人才需求：熟悉Github專案管理、會基本的node.js、熟悉Polis、能執行手動測試) (可能人選 Josh)
 
 工程師：Bestian、(???)
-助手：阿南Anan、(???)
-專案顧問：(???)
+助手：阿南Anan、Peter
+專案顧問：
 > 專案顧問可能人選：已發信 [name=Bestian]
 
 
