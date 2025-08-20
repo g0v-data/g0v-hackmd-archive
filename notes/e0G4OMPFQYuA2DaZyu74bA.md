@@ -87,6 +87,7 @@ community governance
 
 2025 小松紀錄 2025 Weekly Meetup
 ----
+- [20250820小松](/yu-2AAlFSPOb3cs87VuFeA)
 - [20250813小松](/EOjoujFQQ-uOwBrOu_maPA)
 - [20250806小松](/nUwdW675S_u4HAHSy8I13w)
 - [20250730小松](/vA6fzVj5SeaOIHrbzecgow)

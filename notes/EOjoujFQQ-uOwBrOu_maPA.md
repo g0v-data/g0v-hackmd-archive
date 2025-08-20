@@ -7,7 +7,7 @@ tags: vTaiwan,
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Bestian, Josh, 阿南Anan
+參與者 Participants：Bestian, Josh, 阿南Anan, Tim
 線上參與連結：
 https://vtaiwan.pages.dev/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
