@@ -47,19 +47,15 @@ https://vtaiwan.pages.dev/jitsi
 ## 小小的分享：
 
 
+> 用一筆'Share your views on generative AI' [Polis 正式資料](https://pol.is/topicMapNarrativeReport/r3nhe9auvzhr36dwaytsk)，gpt-oss-120b模型跑SenseMaker出的初步結果分享(note:原專案只能用效果類似卻貴50倍的Gemini-2.5-Pro跑)：https://github.com/bestian/sensemaking-tools/discussions/21
+>  [name=Bestian]
+
 
 ## 網站相關：
 
-1. 轉錄程式已更新為push to start, push to stop。
+1. 轉錄程式已更新為[push to start, push to stop](https://github.com/g0v/vue.vTaiwan-neo/issues/85)。
 2. 收到連結過期回報，已更新info上的連結，原始碼位置 https://github.com/g0v/info.vtaiwan.tw
 3. 其他...
-
-
-
-
-## 行政事項(略，請Peter再補充共筆或私訊)：
-
-1. 請問 JaaS 升級的報帳程序 - by Bestian
 
 
 
@@ -67,14 +63,12 @@ https://vtaiwan.pages.dev/jitsi
 
 徵件官網： https://twgrants.tw/
 
-需要有人認領「最後整理完稿交件提案」的工作。
-> 請問坑主Yi-Ting有空嗎? 或是由PM Josh來接手呢? [name=bestian]
-
 
 共筆頁：https://g0v.hackmd.io/@tmonk/rJHYWR9S4/%2F7Fo3M_qRR2CMQc6q08YwlQ?type=book
 
 
 ### 目前情況
+
 
 坑主：Yi-Ting Lien
 PM：(???)(人才需求：熟悉Github專案管理、會基本的node.js、熟悉Polis、能執行手動測試) (可能人選 Josh)
@@ -82,6 +76,10 @@ PM：(???)(人才需求：熟悉Github專案管理、會基本的node.js、熟�
 工程師：Bestian、(???)
 助手：阿南Anan、(???)
 專案顧問：(???)
-> 專案顧問可能人選：待詢問上游 [name=Bestian]
+> 專案顧問可能人選：已發信詢問上游 [name=Bestian]
 
 
+### 待討論
+
+1. 請問vTaiwan 是用開放文化基金會OCF的名義申請嗎？或是其他名義？
+2. 需要有人認領「最後整理完稿交件提案」的工作。
