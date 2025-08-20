@@ -7,7 +7,7 @@ tags: vTaiwan,
 
 時間 Time ：18:30 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：
+參與者 Participants：Bestian Tim 阿南Anan Peter
 線上參與連結：
 https://vtaiwan.pages.dev/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -46,9 +46,16 @@ https://vtaiwan.pages.dev/jitsi
 
 ## 小小的分享：
 
+1. 如果想試跑開發中的SenseMaker，這裡有中文使用說明：https://g0v.hackmd.io/@tmonk/rJHYWR9S4/https%3A%2F%2Fg0v.hackmd.io%2F6mzxQkY3Sr6ILYSfSMsqVg%3Fview?type=book
 
-> 用一筆'Share your views on generative AI' [Polis 正式資料](https://pol.is/topicMapNarrativeReport/r3nhe9auvzhr36dwaytsk)，gpt-oss-120b模型跑SenseMaker出的初步結果分享(note:原專案只能用效果類似卻貴50倍的Gemini-2.5-Pro跑)：https://github.com/bestian/sensemaking-tools/discussions/21
+
+2. 用一筆'Share your views on generative AI' [Polis 正式資料](https://pol.is/topicMapNarrativeReport/r3nhe9auvzhr36dwaytsk)，gpt-oss-120b模型跑SenseMaker出的結果初步分享(note:原專案只能用效果差不多卻貴50倍的Gemini-2.5-Pro跑)：https://github.com/bestian/sensemaking-tools/discussions/21
+
+![](https://g0v.hackmd.io/_uploads/BylXKMm7Klg.png)
+
 >  [name=Bestian]
+
+
 
 
 ## 網站相關：
