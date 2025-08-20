@@ -7,10 +7,12 @@ tags: vTaiwan,
 
 時間 Time ：18:30 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Bestian,Tim 阿南Anan,Peter,Josh
+參與者 Participants：Bestian,Tim 阿南Anan,Peter,Josh(按照上線順序)
 線上參與連結：
 https://vtaiwan.pages.dev/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
+
+![](https://g0v.hackmd.io/_uploads/r1lfppH7txl.png)
 
 
 ::: success
@@ -62,7 +64,7 @@ https://vtaiwan.pages.dev/jitsi
 
 
 ### 翊婷的連署經驗：
-透過公廟來突破同溫層
+透過宮廟來突破同溫層
 比較適合推廣的概念：兼顧數位議題和生活
 
 ### Sensemaker
@@ -98,10 +100,10 @@ https://vtaiwan.pages.dev/jitsi
 
 
 坑主：Yi-Ting Lien
-PM：(???)(人才需求：熟悉Github專案管理、會基本的node.js、熟悉Polis、能執行手動測試) (可能人選 Josh)
+PM：(???)(人才需求：熟悉Github專案管理、會基本的node.js、熟悉Polis、能執行手動測試) (可能人選： Josh,Josh即將會開始動手寫專案)
 
 工程師：Bestian、(???)
-助手：阿南Anan、(???)
+助手：阿南Anan、Peter (???)
 專案顧問：(???)
 > 專案顧問可能人選：已發信詢問上游 [name=Bestian]
 如果要找很有想法的教授我可以找Michiel Bakker或是Cesar Hidalgo
@@ -114,10 +116,11 @@ PM：(???)(人才需求：熟悉Github專案管理、會基本的node.js、熟�
 
 
 ## 手動紀錄 
-- [name=阿南]
+- [name=阿南] :pencil: 
+
 Peter:對Jigsaw相關報導https://www.forbes.com/sites/richardnieva/2025/08/14/inside-googles-plan-to-use-ai-to-survey-americans-on-their-political-views/
 說明。環評或相關程序，Jigsaw就是在做這個事情。方法論，美國組織 Democracy Next 和另外組織 People Powered 做調查和使用工具。這是目前國內外幾個團隊在做的事情。
-Democracy的方法論只煞帶討論的一些技巧，People power是在做工具。
+Democracy Next的方法論的一些技巧，People powered是在做工具。
 今年七月的報告（Jigsaw相關報導說明）。想要建造開源的科技可以讓大規模的...幫大家做值化的意見分析工具。他們找到來自六大洲的審議參與者，台灣就找到 Peter一人，從議題小聚的過程中，流程設計的部分，整個高品質審議的來源。他們也同時檢視了目前的科技工具，可以如何讓大家處理更大規模討論的意見。對於科技應用來講，要有更多的工具融入，和更多的科技支援。
 他們提到說：審議會產生三個不同的結果：三個英文字（要問peter是哪三個: delibrative)，從大家討論過程中，訂出不同目標和相關案例。審議討論過程非常多樣，所以分成三個不同面向是合理的。
 更能促進相關討論，有一些不同的技巧。讓大家如何繼續的往前進。他們找到最大的funding是，目前需要不同的平台，且這些平台不是專為審議而做的。所以「有一個專門工具專門為了審議」這到底是「 」還是「」？也不能依賴工具。
@@ -150,7 +153,7 @@ Bestian:我是覺得從社群媒體用hashtag 做意見徵集。因為我最近�
 
 
 
-Peter:但可能會有假帳號問題。Yi-ting的議題突破五千人附議了。Yi-ting找到覺明法師動員信眾做附議連署。文案在這裡
+Peter:但可能會有假帳號問題。Yi-ting的議題突破五千人附議了。Yi-ting找到覺明法師動員信眾做附議連署。文案在這裡 :arrow_heading_down: 
 
 :::success
 常住眾等們大家吉祥
@@ -183,7 +186,7 @@ https://lin.ee/bV0BhDD
 💪祈願大家盡力護持防詐善行，為國家社會盡一份心力，功德無量，阿彌陀佛！ 
 :::
 
-Peter:某種方式 vTaiwan也是可以參考拿來用的方式（運用公廟的方式），在宮廟辦審議活動。另外 twnic 若凡律師想要在花蓮辦議題小聚，拉到花蓮市。
+Peter:某種方式 vTaiwan也是可以參考拿來用的方式（運用宮廟的方式），在宮廟辦審議活動。另外 twnic 若凡律師想要在花蓮辦議題小聚，拉到花蓮市。
 
 Josh:也可以。也許不應該長年在台北。
 
@@ -196,7 +199,7 @@ Josh:也可以。也許不應該長年在台北。
 :::warning
 Josh分享的Talk to the city可產生審議報告：
 https://github.com/AIObjectives/talk-to-the-city-reports
-要收費，且沒有更新了。
+但要收費，且沒有更新了。
 
 :::
 
@@ -207,12 +210,16 @@ Bestian目前在改良開發的sensemaking tool ，加上了1:中文化，和2 �
 
 
 :::info
-Josh:之前有跟大家提到說在瑞士這邊有一個那個APP 是就是等於說是 呃讓讓公民去學習這些議題 就是它是一個互動性的教育的APP 然後在審議之前 就大家就要去透過這APP去做一些學程 然後才能參加這個審議 那這個APP呢 我跟他們就是談到就是說中文化的這個 然後他雖然不是目前不是open source 但是他就說可以開放這個access給我們 就是分享給我們 然後讓我們去做中文化 所以就是說 這件事情是可以做 然後我們就可以有自己的一個version 如果可以要嘗試的話 可以搞不好可以下一次來嘗試看這個 可不可以拿來做下一次 一體小聚的 的一個大家學習的方式
+Josh:之前有跟大家提到說在瑞士這邊有一個那個APP，就是等於說是讓讓公民去學習這些議題 就是它是一個互動性的教育的APP。然後在審議之前 就大家就要去透過這APP去做一些學程，然後才能參加這個審議。那這個APP呢 我跟他們就是談到就是說中文化的這個 ，然後他雖然不是目前不是open source，但是他就說可以開放這個access給我們，就是分享給我們，然後讓我們去做中文化。所以就是說這件事情是可以做，然後我們就可以有自己的一個version，如果可以要嘗試的話，搞不好可以下一次來嘗試看這個？可不可以拿來做下一次議題小聚的一個大家學習的方式？
 :::
 
 :::success
 vTaiwan blogs
 https://vtaiwan.pages.dev/blogs
+
+TodoList:
+- [ ] https://github.com/g0v/vue.vTaiwan-neo/issues/90
+- [ ] https://github.com/g0v/vue.vTaiwan-neo/issues/89
 :::
 
 :::danger
@@ -220,16 +227,16 @@ Twnic新專案討論是否參與:
 - 2025TWNIC研究提案
 https://g0v.hackmd.io/@tmonk/rJHYWR9S4/%2F7Fo3M_qRR2CMQc6q08YwlQ?type=book
 - SenseMaker應用與改良
-https://g0v.hackmd.io/@tmonk/rJHYWR9S4/%2F7Fo3M_qRR2CMQc6q08YwlQ?type=book
-
+https://g0v.hackmd.io/@tmonk/rJHYWR9S4/https%3A%2F%2Fg0v.hackmd.io%2F6mzxQkY3Sr6ILYSfSMsqVg%3Fview?type=book
 :::
 :::success
 除了大量的Twnic新專案討論可看會議逐字稿。另外
-ToDoList:
 
--問一下 shuYang的意願？ 
--也問一下 yi-ting翊婷的意願？
--Josh九月中開始才會比較有空，但Josh九月初就會開始動筆寫
+
+ToDoList:
+- [ ] -問一下 ShuYang的意願？ 
+- [ ] -也問一下 Yi-Ting翊婷的意願？
+- [x] -Josh九月中開始才會比較有空，但Josh九月初就會開始動筆寫
 
 :::
 
