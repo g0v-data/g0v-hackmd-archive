@@ -41,7 +41,7 @@ note:實驗版要切換至`new-feature-open-router`分支
 
 ### 1. 準備輸入資料
 
-1. 先clone專案到近端電腦上
+0. 先clone專案到近端電腦上
 
 * 開發中的實驗版網址(推薦)：https://github.com/bestian/sensemaking-tools 
 
@@ -49,9 +49,9 @@ note:實驗版要切換至`new-feature-open-router`分支
 
 * 穩定版網址: https://github.com/Jigsaw-Code/sensemaking-tools 
 
+#### 對poliw.tw的報告
 
-
-2. 進入Plois的報告頁report page，開啟開發者模式，找到用 GET /api/v3/comments 回來的 JSON 。
+1. 進入Plois的報告頁report page，開啟開發者模式，找到用 GET /api/v3/comments 回來的 JSON 。
 
     * 開發者模式選「網路」> 「全部」>「回應」
     * 過濾器打上「/api/v3/comments」
@@ -60,102 +60,26 @@ note:實驗版要切換至`new-feature-open-router`分支
 ![](https://g0v.hackmd.io/_uploads/S1rc6zjHeg.png)
 
 
-3. 把它存進電腦，命名為comments.json
+2. 把它存進電腦，命名為comments.json
 
-4. (把json轉換成格式正確的csv, 方法1) 用開源軟體
+3. (把json轉換成格式正確的csv, 方法1) 用開源軟體
 
 * 安裝[json-2-csv-cli套件](https://github.com/mrodrig/json-2-csv-cli)
 
 * json2csv polis_report.json -o comments_row.csv
 
-* copy以下的python程式碼，存成csv_converter.py
-
-```
-import csv
-import sys
-
-def convert_csv(input_file, output_file):
-    """
-    轉換CSV資料格式
-    輸入：原始CSV包含 tid, txt, agree_count, disagree_count, pass_count 等欄位
-    輸出：轉換後的CSV包含 comment-id, comment_text, votes, agrees, disagrees 等欄位
-    """
-    
-    with open(input_file, 'r', encoding='utf-8') as infile, \
-         open(output_file, 'w', encoding='utf-8', newline='') as outfile:
-        
-        # 讀取原始CSV
-        reader = csv.DictReader(infile)
-        
-        # 定義輸出欄位
-        fieldnames = [
-            'comment-id', 'comment_text', 'votes', 'agrees', 'disagrees', 'passes',
-            'a-votes', 'a-agree-count', 'a-disagree-count', 'a-pass-count',
-            'b-votes', 'b-agree-count', 'b-disagree-count', 'b-pass-count'
-        ]
-        
-        writer = csv.DictWriter(outfile, fieldnames=fieldnames)
-        writer.writeheader()
-        
-        for row in reader:
-            # 計算votes (agree_count + disagree_count)
-            agree_count = int(row.get('agree_count', 0))
-            disagree_count = int(row.get('disagree_count', 0))
-            pass_count = int(row.get('pass_count', 0))
-            votes = agree_count + disagree_count
-            
-            # 創建新行資料
-            new_row = {
-                'comment-id': row.get('tid', ''),
-                'comment_text': row.get('txt', ''),
-                'votes': votes,
-                'agrees': agree_count,
-                'disagrees': disagree_count,
-                'passes': pass_count,
-                'a-votes': votes,  # 假設a-votes等於總votes
-                'a-agree-count': agree_count,
-                'a-disagree-count': disagree_count,
-                'a-pass-count': pass_count,
-                'b-votes': 0,  # 根據範例，b相關欄位設為0
-                'b-agree-count': 0,
-                'b-disagree-count': 0,
-                'b-pass-count': 0
-            }
-            
-            writer.writerow(new_row)
-
-def main():
-    if len(sys.argv) != 3:
-        print("使用方法: python csv_converter.py <輸入檔案> <輸出檔案>")
-        print("例如: python csv_converter.py input.csv output.csv")
-        sys.exit(1)
-    
-    input_file = sys.argv[1]
-    output_file = sys.argv[2]
-    
-    try:
-        convert_csv(input_file, output_file)
-        print(f"轉換完成！輸出檔案：{output_file}")
-    except FileNotFoundError:
-        print(f"錯誤：找不到輸入檔案 {input_file}")
-    except Exception as e:
-        print(f"轉換過程中發生錯誤：{e}")
-
-if __name__ == "__main__":
-    main()
-```
+* 執行[csv_converter.py](https://github.com/bestian/sensemaking-tools/blob/new-feature-multilang/polis_csv_fixer/csv_converter.py)
 
 
 * 
 ```bash
-python3 csv_converter.py comments_raw.csv comments.csv
+python3 ./polis_csv_fizer/csv_converter.py ./files/comments_raw.csv ./files/comments.csv
 ```
 
 * 取得格式正確的comments.csv，可以餵給SenseMaker了!
 
 
-
-4. (把json轉換成格式正確的csv, 方法2, 由chatGPT工作, 非開源) 請chatGPT幫忙把.json轉成.csv檔案，使用如下對話指令：
+3. (把json轉換成格式正確的csv, 方法2, 由chatGPT工作, 非開源) 請chatGPT幫忙把.json轉成.csv檔案，使用如下對話指令：
 
 ``` bash
 
@@ -166,9 +90,31 @@ comment-id,comment_text,votes,agrees,disagrees,passes,a-votes,a-agree-count,a-di
 
 ```
 
-5. 下載結果，命名為comments.csv，放入近端電腦上的正確目錄
+4. 下載結果，命名為comments.csv，放入近端電腦上的正確目錄
 
-#### 目錄位置
+
+
+---
+
+#### 對pol.is的報告
+
+1. 從報告頁導出comments有關的csv檔，改名為comments_raw.csv
+
+
+2. 執行[csv_converter_new.py](https://github.com/bestian/sensemaking-tools/blob/new-feature-multilang/polis_csv_fixer/csv_converter_new.py)
+
+```bash
+python3 ./polis_csv_fizer/csv_converter_new.py ./files/comments_raw.csv
+```
+
+* 再改名 comments_realdata_fixed.csv 為 comments.csv
+
+
+* 取得格式正確的comments.csv，可以餵給SenseMaker了!
+
+
+
+#### 報告存檔目錄位置
 
 * 實驗版(推薦)： sensemaking-tools/files這個目錄(請自行創建/files目錄)
 
@@ -176,19 +122,9 @@ comment-id,comment_text,votes,agrees,disagrees,passes,a-votes,a-agree-count,a-di
 * 穩定版：sensemaking-tools這個目錄(即專案根目錄)。
 
 
-6. 語言支援
-
-* 實驗版(推薦)：可接受中文輸入內容。不必再翻譯。
-
 ---
 
-* 穩定版：目前只接受英文輸入內容。請chatGPT幫忙把comments.csv內容翻譯成英文：「把內容翻譯為英文，欄位和格式不變」。
-
-
-
-
 ### 2 註冊AI模型後端服務帳戶
-
 
 
 * 實驗版(推薦)：請註冊一個open router帳號，並取得API KEY
