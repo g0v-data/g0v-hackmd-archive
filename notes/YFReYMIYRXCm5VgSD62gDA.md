@@ -3,7 +3,7 @@ tags: japan,
 ---
 
 
-# Broad-Lisning ( <-> broadcast ) tool from dd2030.org Japan.
+# Broad-Listening ( <-> broadcast ) tool from dd2030.org Japan.
 
 In Japan, We dd2030.org build broad-lisning tool from T3C( Talk-To-The-City ).
 
