@@ -14,6 +14,7 @@ tags: 詐騙
 - 2024 電話，對方唸出完整正確的身分證字號 
     - https://www.facebook.com/share/p/UAtnFG6hTJf2ya2H/
     - https://www.facebook.com/share/p/1VjhjeDNe6/
+- Line 帳號被盜 https://www.facebook.com/share/p/1GDCWtGu2v/?mibextid=wwXIfr
 - 摘：用戶若來信、來電要求停用兩階段認證，請再三查證是用戶本人，否則可能踏入釣魚/詐騙/駭客陷阱。尤其管理員與用戶若沒有私交更容易被誆騙，因為管理員不一定有空、有管道查證。
     - https://www.facebook.com/junehao/posts/pfbid035MSGFaA7XGUanXDz2pBR3XSzJ2iWidsAkcwemmbAD5zEyKmrLYNFdAF8gikGwprZl
 - 蒐集聲音資料 https://www.facebook.com/share/r/j1i8Lv4b52g6eicq/
