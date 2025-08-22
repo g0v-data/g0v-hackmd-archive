@@ -326,9 +326,6 @@ https://www.facebook.com/ReTWRoad/posts/pfbid0UJT52uYQMNFTuyRCKiB7i2mXiqFakPbqrh
 在台南東區後甲國中這個路口，雖然對比改善前好很多，但有成功大學的同學反應，庇護島的方向設計有問題，我透過影片轉述他對於路口設計的建議
 https://www.facebook.com/watch?v=950240829364406
 
-臺南市東區裕永路 平實路
-https://www.facebook.com/100083131440923/posts/pfbid034MGDkL3QcoDjjR1HjLi7Pz3nuv1b8TwQZDrF3cXzo8ra7Napt8jbqQBurF3J2q8Jl/
-
 臺南多處待拆分
 https://www.facebook.com/story.php?story_fbid=pfbid04v1S5XCPXu7vZdJZeMbVesjYHuqDuH4TopHUa7dNqAtKsvr9sYsR5qgJRdRFrXgdl&id=100049204915573&mibextid=qC1gEa
 
