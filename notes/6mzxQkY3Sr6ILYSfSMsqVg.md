@@ -2,7 +2,7 @@
 tags: vtaiwan
 ---
 
-# 「SenseMaker意見彙整器」使用說明
+# 「SenseMaker意見綜整器」使用說明
 
 
 * 官方說明文：https://jigsaw-code.github.io/sensemaking-tools/
@@ -15,7 +15,7 @@ note:實驗版要切換至`new-feature-open-router`分支
 
 ## SenseMaker是什麼？：
 
-* [SenseMaker意見彙整器](https://github.com/Jigsaw-Code/sensemaking-tools) 透過Google 的 AI 服務，可以用來分析大數據，產生有意義的結果，包含主要共同點和主要意見分岐等。
+* [SenseMaker意見綜整器](https://github.com/Jigsaw-Code/sensemaking-tools) 透過Google 的 AI 服務，可以用來分析大數據，產生有意義的結果，包含主要共同點和主要意見分岐等。
 
 ## SenseMaker可以解決什麼問題？：
 
@@ -166,7 +166,7 @@ npx ts-node ./library/runner-cli/runner_openrouter.ts \
   --inputFile "./files/comments.csv" \
   --additionalContext "Description of the conversation"
   ```
-即可於終端機顯示出生成的意見彙整分析報告(.HTML, .JSON, .CSV)內容了！
+即可於終端機顯示出生成的意見彙整分析報告(.md, .HTML, .JSON, .CSV)內容了！
 
 
 ---
@@ -190,7 +190,7 @@ npx ts-node ./library/runner-cli/runner_openrouter.ts \
 
     ```npx ts-node ./library/runner-cli/runner.ts --outputBasename out --vertexProject "{Your_Project_ID}" --inputFile "comments.csv"```
 
-即可生成文字版的意見彙整報告(html格式)網頁了！
+即可生成文字版的意見彙整報告(.md, .HTML, .JSON, .CSV)內容了！
 
 
 
