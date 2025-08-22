@@ -77,14 +77,6 @@ https://www.facebook.com/share/v/QKNqdAvtoNMxatcy/
 新北三重環河南路跟中正南路口有個實體分隔島 島的四周圍都有劃設人行空間 最外圍還插滿了棒棒糖 很少看到實體分隔島有如此的設計
 https://www.facebook.com/share/p/FuxSy8Nk9C9jdRCp/
 
-
-桃園市中壢區減速臺
-https://tyenews.com/2023/10/437249/?mibextid=Zxz2cZ&fbclid=IwAR1EAUrfvudOgq7nLJumJtRVV_uBCLPpT_wOaIItl_ULopl2YyVJMjogJUA_aem_AYvw5ONgfuJ_ky1bdSXVztRPQg_sd2Sa3HruChGNDAi4YUckfur_mTEIeFunHUjPFds
-
-
-減速臺
-https://www.facebook.com/groups/twroadclub/permalink/2510126345833792/?mibextid=S66gvF
-
 東海的漢翔路
 
 
@@ -271,9 +263,6 @@ https://www.facebook.com/ReTWRoad/photos/a.144368764239959/294776699199164/?type
 
 彰化市彰南路0k(中山路口)~3k(中彰路口)辦理交通改善
 https://www.facebook.com/watch/?v=642928451144026
-
-彰化大村
-https://www.facebook.com/share/1A4wk8pB1Q/?mibextid=wwXIfr
 
 彰化縣永靖鄉瑚璉路多福路口
 https://www.facebook.com/share/xjrxPQUt8hkEiRvv/
