@@ -15,11 +15,16 @@ TWNIC徵件主頁： https://twgrants.tw/introduction.html
 
 
 坑主：Yi-Ting Lien
+
 PM：[Josh](https://github.com/joshuay1)
 
 工程師：[Bestian](https://github.com/bestian)
 助手：[阿南Anan](https://github.com/shianan815)、[Peter](https://github.com/Jia-wei-cui)
 專案顧問：Jigsaw團隊()
+
+
+> To Josh: 請問正式提案上我們是否需要附真實姓名? 如果需要附的話我ok [name=bestian]
+
 
 
 ---
