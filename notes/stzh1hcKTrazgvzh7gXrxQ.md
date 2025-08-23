@@ -21,6 +21,10 @@ tags: GIS, river,
 
 - 了解本刊物中各個企劃案例，案例中的專業知識領域關聯
 
+- 渠道影片 
+    - 其中一個景象，很像是書中的一處改造構想
+    - https://www.facebook.com/share/v/1J52vKJGic/
+
 ## 其他
 
 - [http://www.theguardian.com/cities/2015/mar/11/river-hunter-sao-paulo-lost-waterways-failing-megacity](http://www.theguardian.com/cities/2015/mar/11/river-hunter-sao-paulo-lost-waterways-failing-megacity)
