@@ -16,6 +16,8 @@ note:實驗版要切換至`new-feature-open-router`分支
 ## SenseMaker是什麼？：
 
 * [SenseMaker意見綜整器](https://github.com/Jigsaw-Code/sensemaking-tools) 透過Google 的 AI 服務，可以用來分析大數據，產生有意義的結果，包含主要共同點和主要意見分岐等。
+* 這是[一則23頁的報告實例(中譯版)](https://docs.google.com/document/d/14nBRvseptZd0XX1itfqaeHrEOaTrywoE2UcC9DMRJjk/edit?tab=t.0)，主題是'Share your views on generative AI'，包括：*356 條聲明和8,005 票*
+
 
 ## SenseMaker可以解決什麼問題？：
 
