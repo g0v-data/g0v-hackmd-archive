@@ -217,6 +217,7 @@ https://aisi.go.jp/effort/effort_information/250207_3/
 
 https://www.facebook.com/share/p/16y7yG1AGB/
 https://www.facebook.com/share/p/17AcvnUFJw/
+https://www.facebook.com/share/p/1EvdZ3be2M/
 
 
 看到一篇談 AI 導入程度
