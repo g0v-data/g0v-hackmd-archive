@@ -62,20 +62,20 @@ note:實驗版要切換至`new-feature-open-router`分支
 ![](https://g0v.hackmd.io/_uploads/S1rc6zjHeg.png)
 
 
-2. 把它存進電腦，命名為comments.json
+2. 把它存進電腦，命名為polis_report.json
 
 3. (把json轉換成格式正確的csv, 方法1) 用開源軟體
 
 * 安裝[json-2-csv-cli套件](https://github.com/mrodrig/json-2-csv-cli)
 
-* json2csv polis_report.json -o comments_row.csv
+* json2csv polis_report.json -o comments_raw.csv
 
 * 執行[csv_converter.py](https://github.com/bestian/sensemaking-tools/blob/new-feature-multilang/polis_csv_fixer/csv_converter.py)
 
 
 * 
 ```bash
-python3 ./polis_csv_fizer/csv_converter.py ./files/comments_raw.csv ./files/comments.csv
+python3 ./polis_csv_fixer/csv_converter.py ./files/comments_raw.csv ./files/comments.csv
 ```
 
 * 取得格式正確的comments.csv，可以餵給SenseMaker了!
