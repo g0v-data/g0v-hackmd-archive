@@ -218,6 +218,10 @@ https://aisi.go.jp/effort/effort_information/250207_3/
 https://www.facebook.com/share/p/16y7yG1AGB/
 https://www.facebook.com/share/p/17AcvnUFJw/
 
+
+看到一篇談 AI 導入程度
+https://www.facebook.com/share/p/16roNk8otn/
+
 ## 課程
 
 https://g0v.hackmd.io/trchTXbxQ8qa4p7RwF8Shw?view
