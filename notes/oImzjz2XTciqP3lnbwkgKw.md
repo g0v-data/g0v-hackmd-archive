@@ -123,6 +123,11 @@ https://www.youtube.com/watch?v=7238q4LM1nA&feature=youtu.b
 剪輯成果：
 - ?
 
+### Taiwan Plus media
+
+🎥 g0v contributor Sam and the Taiwan Plus media team captured the g0v hackathon through film.
+- https://x.com/taiwanplusnews/status/1608991453753008128
+
 ## 2023
 
 ## 2024
@@ -135,6 +140,9 @@ https://www.youtube.com/watch?v=7238q4LM1nA&feature=youtu.b
 - 播出成品：https://youtu.be/EF8vUFVfsSg?si=VjyD4ExdDYrMA9Xo&t=991
 
 ## 2025
+
+### TIPF 台灣國際攝影節 & 民主與攝影《民主路上許多小蟲蟲》_ 攝影師「Xhin Mania 卓杜信」與 g0v 社群專案合作 
+https://g0v.hackmd.io/7TONekHaRBS4mr6lzdxlHw?view
 
 ### 澳洲紀錄片團隊
 

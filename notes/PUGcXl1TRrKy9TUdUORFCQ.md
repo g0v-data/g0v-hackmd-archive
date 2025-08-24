@@ -119,32 +119,50 @@ tags: GIS
 
 ### 台北不思議
 
+待分類
+- 摘：捷運台北車站地下有個鳥頭人，被日人列入台北七大不可思議之一，其他六大到底是什麼呢？如果七大不可思議是由台灣人自己撰寫的當代怪談，又會是如何呢？於是我們開始蒐集有如台北犬之島、義莊葬儀社等等相關故事。
+    - https://www.zeczec.com/projects/taitokchi
+
+社會實驗
 - 台北車站室內的一樓大廳黑白格，人們聚會在黑色或白色？
     - 瑞典賽格爾廣場 Sergels torg 的地面是大三角型
     - https://www.facebook.com/227519997334681/posts/1408189915934344/
 - 台北車站大迷宮
     - https://www.facebook.com/100000066795897/posts/2376926948986175/
-- 大巨蛋反光
-    - https://www.facebook.com/119767/posts/10105229514847122/
-- 東西曬同時ˊ發生 https://www.facebook.com/share/1aqypeWmAv/
 - 垃圾車到底為什麼要用《給愛麗絲》這首歌？
     - [https://youtu.be/Yq9USBDkR48](https://youtu.be/Yq9USBDkR48)
+
+陽光、光影
+- 日晷街道，也包含日落懸日觀景街道，有蒐集
+    https://www.facebook.com/groups/474536628587982/posts/785380414170267/
+- 大巨蛋反光
+    - https://www.facebook.com/119767/posts/10105229514847122/
+- 東西曬同時發生 https://www.facebook.com/share/1aqypeWmAv/
 - 人行道的鋪面混入細玻璃材料，有閃爍效果
--【預報彩虹】文化大學的彩虹獲得金氏世界紀錄後，又突破推出彩虹預報
-http://faculty.pccu.edu.tw/~zkx/rnbfmd.html
-浪濤雲 https://www.facebook.com/100000036732441/posts/3726941007317087/
+
+天空
+- 【預報彩虹】文化大學的彩虹獲得金氏世界紀錄後，又突破推出彩虹預報 http://faculty.pccu.edu.tw/~zkx/rnbfmd.html
+- 浪濤雲 https://www.facebook.com/100000036732441/posts/3726941007317087/
 - 台北上下顛倒的高空風場
     - [https://www.facebook.com/ming010/posts/10203890868430234](https://www.facebook.com/ming010/posts/10203890868430234)
 - 北投雲海 https://www.facebook.com/100007030560426/posts/2544020802508914/
 - 飛機巷 https://www.facebook.com/1778150650/posts/10205806518240324/
+
+水路
 - 新生大排 船
+    - 20190217 三腳渡碼頭至林森抽水站，新生大排遊覽-360環拍影片 https://www.youtube.com/playlist?list=PL8S8TWn0JpEiOl1qeJKBDmRriU1M2KKSG
+    - https://g0v.hackmd.io/@chewei/xinsheng-watershed/
+
+移動
 - 大度路 飆車？
-- 卡住大巴士 https://www.facebook.com/100000432932151/posts/3025618217462580?d=n&sfns=mo
+- 橋梁卡住大巴士 https://www.facebook.com/100000432932151/posts/3025618217462580?d=n&sfns=mo
+
+物質流動，日夜
 - 派報產業，所使用的都市空間、派報時間(凌晨..)、分佈據點...等
 - 瑞士導演妮可富格勒（Nicole Vogele）因為某次在台北迷路，看見了很多人工作到半夜，那種日常性觸動了她，萌生想記錄的念頭。
     - https://www.facebook.com/pts.viewpoint/posts/10158559942889276
-- 摘：捷運台北車站地下有個鳥頭人，被日人列入台北七大不可思議之一，其他六大到底是什麼呢？如果七大不可思議是由台灣人自己撰寫的當代怪談，又會是如何呢？於是我們開始蒐集有如台北犬之島、義莊葬儀社等等相關故事。
-    - https://www.zeczec.com/projects/taitokchi
+
+構築
 - 超過 100 年的 綠屋頂 ! 自來水園區內的淨水池
         - https://docs.google.com/presentation/d/1mhrHS0iFxxK8r5UL91G0PhS1pMWMEcftz3Q70N296oU/edit?fbclid=IwZXh0bgNhZW0CMTAAAR1TgQJxh-kJjS6nfEKup2Z62Gdy2kkDEnGj0cUy_Et79Nd0bqyDYgqcv7c_aem_ATKUilhTZ7dX5BCYO1OqRDWmswpYx7chOdyoMHT5jhiPP1BZBL2ADGQmag0ti3jAScbpcVr1UfSgT0vIt_7CZsRk#slide=id.g25ce6831a57_0_0
 - 下大雨，把都市污染沖出
