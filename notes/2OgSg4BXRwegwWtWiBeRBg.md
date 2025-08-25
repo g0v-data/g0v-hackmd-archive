@@ -200,8 +200,8 @@ http://cpc.people.com.cn/BIG5/n1/2022/0811/c64387-32499836.html
 
 ### 對臺澎金馬的軍演兵推
 
-臺灣本島沿海，總共有 14 個「紅色海灘」被匡列為共軍可能登陸點的海灘
-https://www.facebook.com/permalink.php?story_fbid=pfbid02sPJmb4QzxKfAPRjEwKcx6mFUXtkuSdFf1nLJ6hG4KCafupjnywUcwhLzvXRHGavMl&id=61554981061913
+蒐集文件
+https://g0v.hackmd.io/Bo2u7eEcQg6pOuEoOPCADQ?view#%E7%81%B0%E8%89%B2%E4%BE%B5%E7%95%A5%E6%A8%A1%E5%BC%8F--%E5%85%B5%E6%8E%A8%E5%A0%B4%E6%AC%A1%E8%B3%87%E8%A8%8A
 
 ### 中國民間輿論
 

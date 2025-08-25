@@ -23,12 +23,5 @@ https://www.facebook.com/frankfuhyuan.shih/posts/10223295464711607
 
 ## 軍事兵推
 
-台海，12海哩
-https://www.facebook.com/share/p/1P2CjpSvde/
-https://www.facebook.com/share/p/17EFbLoUkS/
-
-2023 台海戰爭兵推
-https://www.instagram.com/reel/DLphbeLzvyz/
-
-東南亞各國
-https://www.facebook.com/share/p/1Amwob6CAK/
+蒐集文件
+https://g0v.hackmd.io/Bo2u7eEcQg6pOuEoOPCADQ?view#%E7%81%B0%E8%89%B2%E4%BE%B5%E7%95%A5%E6%A8%A1%E5%BC%8F--%E5%85%B5%E6%8E%A8%E5%A0%B4%E6%AC%A1%E8%B3%87%E8%A8%8A

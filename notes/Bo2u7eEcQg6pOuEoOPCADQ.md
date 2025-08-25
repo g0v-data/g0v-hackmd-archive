@@ -43,6 +43,9 @@ https://cybersec.ithome.com.tw/2025/warGame
 兵推場次資訊蒐集：防災情境、台海戰爭
 https://g0v.hackmd.io/@chewei/rJL2Dwz3n?type=view
 
+臺灣本島沿海，總共有 14 個「紅色海灘」被匡列為共軍可能登陸點的海灘
+https://www.facebook.com/permalink.php?story_fbid=pfbid02sPJmb4QzxKfAPRjEwKcx6mFUXtkuSdFf1nLJ6hG4KCafupjnywUcwhLzvXRHGavMl&id=61554981061913
+
 YouTube 指認潛在登陸地點與路線 (其中以台北盆地來說，淡水河是一個通廊)
 https://youtu.be/rrd7Yj7Ec40
 
@@ -52,6 +55,21 @@ https://youtu.be/mrFshcqeea8
 20250516 美國國會「美中戰略競爭特別委員會」（House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party），因應台海戰爭危機進行一場聽證會《遏止威脅升高下的衝突：防止中共侵略台灣》（Deterrence Amid Rising Tensions: Preventing CCP Aggression on Taiwan）
 媒體報導文章：https://sunrisemedium.com/p/755/us-congress-hearing-taiwan-deterrence-2025
 
+Lights Out? Wargaming a Chinese Blockade of Taiwan
+https://www.csis.org/analysis/lights-out-wargaming-chinese-blockade-taiwan
+
+台海，12海哩
+https://www.facebook.com/share/p/1P2CjpSvde/
+https://www.facebook.com/share/p/17EFbLoUkS/
+
+2023 台海戰爭兵推
+https://www.instagram.com/reel/DLphbeLzvyz/
+
+東南亞各國
+https://www.facebook.com/share/p/1Amwob6CAK/
+
+其他：災害應變兵推
+https://g0v.hackmd.io/1gFLsAufSuaSY6meOThf_g?view#%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E5%85%B5%E6%8E%A8 
 
 ## 回顧過往的戰時政體與課題 / 近期軍民關係
 
