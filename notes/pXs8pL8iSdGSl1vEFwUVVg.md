@@ -9,6 +9,7 @@ tags: 新生流域,
 圖台
 https://gissrv4.sinica.edu.tw/gis/taipei.aspx
 
+1911 年糖廠敷地圖，似乎有繪製出廠區南側的水路 https://www.facebook.com/share/p/Y3tVDuRMsfvyiiut/
 1916 臺北市街平面圖
 1919 臺北市街全圖
 1921 日治二萬五千分之一地形圖
@@ -20,6 +21,7 @@ https://gissrv4.sinica.edu.tw/gis/taipei.aspx
 1939 瑠公水利組合區域圖，這套已有數化成果
 1940 水道圖
 1940 實測圖
+
 
 ## 步驟
 
