@@ -1,5 +1,5 @@
 
-# 當AI成為內容守門人，社群平台如何畫出言論自由的界線？-Polis意見綜整
+# 當AI成為內容守門人，社群平台如何畫出言論自由的界線？-Polis X SenseMaker意見綜整
 
 由SenseMaker實驗中的中文模式和gpt-oss-120模型生成
 原始報告出處：https://polis.tw/report/r8wrnmhydrkbb6rcperui
