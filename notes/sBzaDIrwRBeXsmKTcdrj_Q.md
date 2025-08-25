@@ -25,7 +25,7 @@ tags: 公民科學
 - [2023 NASA 黑客松 - 參賽共筆](https://g0v.hackmd.io/PzL7_DMhSTCfioZRV62laA?view)
 - [微任務 / 通勤時間解任務](https://g0v.hackmd.io/6cjJ1VBSTRWtv5Acv15I4Q)
 - [籌備發想-衛星影像標記工具 🔥](https://g0v.hackmd.io/_TMl3ub7SNi5FyJi_QjX8A)
-- [籌備發想-路上儀器觀察學院 🔥](https://g0v.hackmd.io/Sp830jzkQN-ewfCJUab8bw)
+- [籌備發想-儀器觀察學院 🔥](https://g0v.hackmd.io/Sp830jzkQN-ewfCJUab8bw)
 - [籌備發想-微氣候風環境公民科學](https://g0v.hackmd.io/S5OvMD1nQpuPVE55TUP7gg)
 - [2022 德國公民科學策略白皮書<br>整理與翻譯 🔥](https://g0v.hackmd.io/iqk5VvkyRfCrD6tm1vfgQg)
 - [wikidata 資料庫內的公民科學](https://g0v.hackmd.io/D6C-WYlbRSSVs-OoFXNjZg)

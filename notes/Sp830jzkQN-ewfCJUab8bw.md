@@ -64,6 +64,7 @@ https://www.facebook.com/groups/1199773780063992?multi_permalinks=91092187691194
 
 協尋，水下錄音監測設備
 https://www.facebook.com/schonkopf/posts/pfbid032yGL7uiNqUyCditwCzMbtiYgW4ozkfVRDXStyZztrMdKkutUfNfsxST3QmyxvacDl
+https://www.facebook.com/share/p/1CD2zt4QLh/
 
 協尋，中研院學者為了珊瑚白化事件布放的監測儀器，特地於眺石附近放置測量溫度用的溫度串（包括有寫中研院的浮球、繩子、鐵鍊以及上面的溫度計）
 https://www.facebook.com/ytldylan/posts/pfbid024w4tEvWXFvrZZ8R69KAXaciV6A9L4eBWyehKNwzPU1BTh9WvBFuxS2yVaiUbXvuGl

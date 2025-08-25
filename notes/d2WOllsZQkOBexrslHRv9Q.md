@@ -16,3 +16,17 @@
 *   **[nonumpa, mrorz]** LLM based Topic Classifier: 追蹤 bug 修復與 benchmark 結果
 *   **url-resolver update**: 追蹤 Gemini 實驗、unfurl 整合與結果融合，並修復記憶體問題
 *   **[mrorz]** 確認 Johnson 家是否還有中文講義
+
+
+## CCPRIP
+### [Infra]
+
+### [Comm] url context tool 實驗結果
+
+> Gemini API URL context: https://ai.google.dev/gemini-api/docs/url-context
+
+
+### [Comm] Youtube on Gemeni 實驗結果
+
+> Gemini API youtube support: https://ai.google.dev/gemini-api/docs/video-understanding#youtube
+
