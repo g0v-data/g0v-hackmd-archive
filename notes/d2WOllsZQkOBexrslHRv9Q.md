@@ -21,12 +21,15 @@
 ## CCPRIP
 ### [Infra]
 
-### [Comm] url context tool 實驗結果
+### [Comm] url context tool experiment result
 
 > Gemini API URL context: https://ai.google.dev/gemini-api/docs/url-context
 
+Conclusion
 
-### [Comm] Youtube on Gemeni 實驗結果
+### [Comm] Youtube on Gemini experiment result
 
-> Gemini API youtube support: https://ai.google.dev/gemini-api/docs/video-understanding#youtube
+- Gemini API youtube support: https://ai.google.dev/gemini-api/docs/video-understanding#youtube
+    - A feature since [March 2025](https://ai.google.dev/gemini-api/docs/changelog#03-12-2025)
 
+#### Adopt this to Cofacts?

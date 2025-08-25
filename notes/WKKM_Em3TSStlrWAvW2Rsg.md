@@ -335,3 +335,12 @@ Label Printer setup (SOP).docx
 可以把原因發mail給MTB_FS_Admin_L2 & Steve Lin 林 禹橋
 和CC給你們的M2
 就可到It2go換貼紙喔
+
+
+Hi 您好，
+
+我們最近在測試 GOUI 升級到 Windows 11，
+想問一下，您那邊的幾台機器能不能借我們其中一台來試升級看看？
+
+預計升級應該不會有問題～
+先謝謝您的幫忙！
