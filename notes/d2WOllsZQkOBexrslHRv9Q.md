@@ -3,7 +3,7 @@
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
 - 線上出席：
-- 實體出席：
+- 實體出席：bil, Helen, nonumpa, mrorz
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
@@ -17,6 +17,7 @@ No updates
 *   **[nonumpa, mrorz]** LLM based Topic Classifier: 追蹤 bug 修復與 benchmark 結果
 *   **[mrorz]** 確認 Johnson 家是否還有中文講義
     * 我忘記看了⋯⋯
+    * 英文講義夠多 [name=bil]
 
 Have updates (detail in the upcoming sections)
 *   **url-resolver update**: 追蹤 Gemini 實驗、unfurl 整合與結果融合，並修復記憶體問題
@@ -24,9 +25,16 @@ Have updates (detail in the upcoming sections)
 
 ## CCPRIP
 ### [Infra] Service issue
->  - `Cofacts monitor 🚨@g0v-tw` 多次發出 api.cofacts.tw, cofacts.tw, line-botx.cofacts.tw 等服務不穩定的警告。
+>  - `Cofacts monitor 🚨@g0v-tw` 多次發出 api.cofacts.tw, cofacts.tw, line-bot.cofacts.tw 等服務不穩定的警告。
 >  - `nonumpa` 回報服務在 2025-08-23 約 10:50 掛掉，13:30 恢復，但 linebot 需要手動重啟。
 
+- 不知為何 line-bot 不會自己起來
+  - 發現是 rumors-deploy 裡 line-bot-zh 沒有 restart https://github.com/cofacts/rumors-deploy/blob/master/docker-compose.production.yml#L131-L146
+  - collab-server & langfuse 也沒 restart，要補
+
+:::success
+Done in https://github.com/cofacts/rumors-deploy/pull/36
+:::
 
 ### [Comm] url context tool experiment result
 
@@ -65,6 +73,19 @@ Have updates (detail in the upcoming sections)
 ---
 
 Discussions
+- url context tool 似乎是運作在 Google 的頁庫存檔，所以有機會爬到已經下架的東西
+  - 被擋住的可能就抓不到？[name=mrorz]
+- 還可以再試的：google drive 連結 / link to PDF  [name=mrorz]
+- 做成混合的 [name=nonumpa]
+  - Default gemini
+  - retry 再改用 url-resolver
+  - Cloudflare workflow: gemini + Cloudflare browser rendering + combine the two results
+  - 多開寫入 `urls` index 的 Admin API [name=mrorz]
+  - Cloudflare workflow 要在 ListArticle 等待比較困難 [name=mrorz]
+
+:::info
+TODO: 在 https://github.com/cofacts/worker/ 開票紀錄以上實作想法
+:::
 
 ### [Comm] Youtube on Gemini experiment result
 
@@ -74,6 +95,10 @@ Discussions
 
 How to integrate to Cofacts?
 - 1 article can have multiple Youtube video links
+    - 篇幅 + 混著文字訊息的原因，不適合像影片 / 圖片 article 那樣整個 show 出來 [name=mrorz]
+    - 放進 `urls` 的 summary
 - Should be indexed? 
+    - 放 summary 就會 match 得到 [name=mrorz]
     - Indexed in Cofacts only, or allow search engine to scrape (public)?
+      - 紙
 - Should allow edit?
