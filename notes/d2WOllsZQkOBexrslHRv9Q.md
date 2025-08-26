@@ -9,7 +9,7 @@
 
 ## 本次會議待追蹤項目 (由 2025/08/19 會議記錄結案)
 
-No update
+No updates
 *   **[Johnson]** 資訊安全權限設定
 *   **CCPRIP - Analytics**: Opendata trend & LINE Bot usage 报表問題
 *   **cofacts.ai**: Groundness Check agent 實作 (追蹤提案與文件)
@@ -18,7 +18,7 @@ No update
 *   **[mrorz]** 確認 Johnson 家是否還有中文講義
     * 我忘記看了⋯⋯
 
-Has updates 
+Have updates (detail in the upcoming sections)
 *   **url-resolver update**: 追蹤 Gemini 實驗、unfurl 整合與結果融合，並修復記憶體問題
 
 
