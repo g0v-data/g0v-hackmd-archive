@@ -16,7 +16,7 @@
 
 ## 既有 ESG 檢測儀架構
 
-> [nname=ddio]
+> [name=ddio]
 > 這塊 ddio 會來填
 
 ## 參考資料
