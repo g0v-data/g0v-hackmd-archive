@@ -201,6 +201,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 1984 照片 瑠公圳第一幹線 https://www.facebook.com/share/15HMgto9j4/
     - 1984 大安國宅 https://www.facebook.com/photo/?fbid=6850263741724150&set=a.460224687394786
     - 師大誠溪 照片 重要 https://www.facebook.com/share/1A4mWki2ea/?mibextid=wwXIfr
+    - 1990 泰順街 水圳 加蓋 https://www.facebook.com/share/p/16kibwyrFf/?mibextid=wwXIfr
     - 照片 1988 松江路淹水 https://www.facebook.com/share/p/1CBQ3bJTsv/
     - 找 安和路 路名由來，安河？
     - https://gpi.culture.tw/books/3911000005
