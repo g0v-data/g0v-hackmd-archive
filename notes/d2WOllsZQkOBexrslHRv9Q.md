@@ -24,7 +24,7 @@ Have updates (detail in the upcoming sections)
 
 ## CCPRIP
 ### [Infra] Service issue
->  - `Cofacts monitor 🚨@g0v-tw` 多次發出 api.cofacts.tw, cofacts.tw, line-bot.cofacts.tw 等服務不穩定的警告。
+>  - `Cofacts monitor 🚨@g0v-tw` 多次發出 api.cofacts.tw, cofacts.tw, line-botx.cofacts.tw 等服務不穩定的警告。
 >  - `nonumpa` 回報服務在 2025-08-23 約 10:50 掛掉，13:30 恢復，但 linebot 需要手動重啟。
 
 
