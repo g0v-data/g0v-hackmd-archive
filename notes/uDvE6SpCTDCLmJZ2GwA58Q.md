@@ -46,7 +46,8 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
 #### 整體系統型的素材
 - [重要] 評估數化新生大排興建前的時期的水路概況
     - 可挑選 1904 日治二萬分之一台灣堡圖(明治版)	
-- 重劃區
+    - 工作文件 https://g0v.hackmd.io/@chewei/xinsheng-watershed/https%3A%2F%2Fg0v.hackmd.io%2FpXs8pL8iSdGSl1vEFwUVVg%3Fview
+- [重要] 重劃區
     - 主要蒐集貼文 https://www.facebook.com/groups/582154450196478/posts/852093193202601/
     - 第一階段：市區改正範圍、臺北城內市區計畫、城外南方市區計畫、東門
         - 劃出範圍？
@@ -62,6 +63,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
 - 待查找老照片位置、標記、歷史素材
     - 大龍國小 考古遺址 https://www.facebook.com/share/p/ur8bQUwcWTGofBMi/
     - 大龍峒發現新石器時代的「訊塘埔文化遺址」
+    - 平埔族各社 https://www.facebook.com/share/p/173j7No9B5/?mibextid=wwXIfr
     - 歷史地圖 https://www.facebook.com/share/p/ZHmx9jxcTKPgYpad/
     - 太古巢 河邊舊址 https://youtu.be/eRaDSA-qaxk
     - 東門護城河溝 https://www.facebook.com/105231068229012/photos/a.105265611558891/312616044157179/?type=3&mibextid=cr9u03
