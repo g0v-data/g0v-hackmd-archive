@@ -32,7 +32,10 @@ Have updates (detail in the upcoming sections)
 
 > Gemini API URL context: https://ai.google.dev/gemini-api/docs/url-context
 
-Conclusion
+#### Threads
+
+https://langfuse.cofacts.tw/project/cm3e6a2190001fdga2ruendgd/traces/dfbaaefd-9f8f-4ecb-9957-b2cf253ae822?timestamp=2025-08-24T16:51:07.394Z&display=details
+
 
 ### [Comm] Youtube on Gemini experiment result
 
