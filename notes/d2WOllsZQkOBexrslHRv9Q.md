@@ -96,9 +96,26 @@ TODO: 在 https://github.com/cofacts/worker/ 開票紀錄以上實作想法
 How to integrate to Cofacts?
 - 1 article can have multiple Youtube video links
     - 篇幅 + 混著文字訊息的原因，不適合像影片 / 圖片 article 那樣整個 show 出來 [name=mrorz]
-    - 放進 `urls` 的 summary
+    - 放進 `urls` 的 summary，接在 url-resolver 爬到的 video description 下面
+    - 在網站上 show 在 URL preview 處，preview 可以用按鈕展開全文 ![](https://g0v.hackmd.io/_uploads/Skmmx4oKxl.png)
 - Should be indexed? 
     - 放 summary 就會 match 得到 [name=mrorz]
     - Indexed in Cofacts only, or allow search engine to scrape (public)?
-      - 紙
+      - 怕有 youtuber 聲稱提供逐字稿會降低他們流量
+      - 如果只讓查核協作者可以看逐字稿，應該就還好（Google 也會搜尋不到就是了）
 - Should allow edit?
+    - 不用吧 [name=bil]
+
+:::success
+一樣放在 worker 裡，跟前述 url resolver 放同一張票
+因為是在處理 URL 時遇到 youtube 的特殊處理
+:::
+
+## 開會時間
+
+- 9/1 (一) 20:00 實體
+- 9/8 (一) 20:00 線上
+- 9/16 (二) 20:00 實體
+- 9/23 (二) 取消會議
+- 9/30 (二) 20:00實體
+
