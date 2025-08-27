@@ -17,6 +17,10 @@ tags: 詐騙
 - Line 帳號被盜 https://www.facebook.com/share/p/1GDCWtGu2v/?mibextid=wwXIfr
 - 摘：用戶若來信、來電要求停用兩階段認證，請再三查證是用戶本人，否則可能踏入釣魚/詐騙/駭客陷阱。尤其管理員與用戶若沒有私交更容易被誆騙，因為管理員不一定有空、有管道查證。
     - https://www.facebook.com/junehao/posts/pfbid035MSGFaA7XGUanXDz2pBR3XSzJ2iWidsAkcwemmbAD5zEyKmrLYNFdAF8gikGwprZl
+- 先以假網站騙被害人中獎要繳手續費，再冒用他人身分，以台灣PAY訂購10張高鐵商務票，生成付款碼後，將條碼傳給被害人，騙說是付中獎的手續費，被害人在不知情情況下買了高鐵票，車手再到櫃台退票拿現金
+    - https://news.cts.com.tw/cts/general/202508/202508272507092.html 
+    - 高鐵也有公告暫停台灣pay付款了 
+        - https://www.thsrc.com.tw/ArticleContent/04030b4c-f45a-47e8-bd62-5c84f4288681
 - 蒐集聲音資料 https://www.facebook.com/share/r/j1i8Lv4b52g6eicq/
 - 民生用電詐騙案件例如：欠費未繳或假冒收款帳號
 - https://www.facebook.com/share/p/1Fe2VNepsS/
