@@ -106,8 +106,8 @@ PM：(???)(人才需求：熟悉Github專案管理、會基本的node.js、熟�
 助手：阿南Anan、Peter (???)
 專案顧問：(???)
 > 專案顧問可能人選：已發信詢問上游 [name=Bestian]
-如果要找很有想法的教授我可以找Michiel Bakker或是Cesar Hidalgo
-
+> 如果要找很有想法的教授我可以找Michiel Bakker或是Cesar Hidalgo [name=Peter]
+> 
 ### 待討論
 
 1. 請問vTaiwan 是用開放文化基金會OCF的名義申請嗎？或是其他名義？

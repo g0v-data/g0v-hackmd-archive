@@ -3,16 +3,14 @@
 tags: vTaiwan,
 ---
 
-# 20250820小松
+# 20250827小松
 
-時間 Time ：18:30 - 20:00
+時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Bestian,Tim 阿南Anan,Peter,Josh(按照上線順序)
+參與者 Participants：
 線上參與連結：
 https://vtaiwan.pages.dev/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
-
-![](https://g0v.hackmd.io/_uploads/r1lfppH7txl.png)
 
 
 ::: success
@@ -46,7 +44,7 @@ https://vtaiwan.pages.dev/jitsi
 ## 自我介紹：
 
 
-### 小小的分享：
+## 小小的分享：
 - Jigsaw 共同撰寫報告
 - People powered 訪談報告更新
 - 8/31 本週日即將舉行 AI 與身心障礙者的討論
@@ -56,3 +54,28 @@ https://vtaiwan.pages.dev/jitsi
 ## 0811 線上審議後續討論
 - 全線上審議活動的好處與壞處？
 - 除了網路與背景音等問題外，有哪些流程可以再來做調整？
+
+
+## TWNIC 提案
+
+徵件官網： https://twgrants.tw/
+
+共筆頁：https://g0v.hackmd.io/@tmonk/rJHYWR9S4/%2F7Fo3M_qRR2CMQc6q08YwlQ?type=book
+
+
+### 目前情況
+
+
+坑主：Yi-Ting Lien
+PM：Josh(即將會開始動手寫專案)
+
+工程師：Bestian、(???)
+助手：阿南Anan、Peter (???)
+專案顧問：(???)
+> 專案顧問可能人選：已發信詢問上游 [name=Bestian]
+> 如果要找很有想法的教授我可以找Michiel Bakker或是Cesar Hidalgo [name=Peter]
+
+### 待討論
+
+1. 請問vTaiwan 是用開放文化基金會OCF的名義申請嗎？或是其他名義？
+2. 需要有人認領「最後整理完稿交件提案」的工作。(Josh ok 嗎?)
