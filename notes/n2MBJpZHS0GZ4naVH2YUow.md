@@ -7,7 +7,7 @@ tags: vTaiwan,
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：
+參與者 Participants：Bestian, 
 線上參與連結：
 https://vtaiwan.pages.dev/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -49,6 +49,7 @@ https://vtaiwan.pages.dev/jitsi
 - People powered 訪談報告更新
 - 8/31 本週日即將舉行 AI 與身心障礙者的討論
 
+- Agora Citizen 最近多語言實作加入了正體中文 https://agoracitizen.network/
 
 
 ## 0811 線上審議後續討論
@@ -73,7 +74,7 @@ PM：Josh(即將會開始動手寫專案)
 助手：阿南Anan、Peter (???)
 專案顧問：(???)
 > 專案顧問可能人選：已發信詢問上游 [name=Bestian]
-> 如果要找很有想法的教授我可以找Michiel Bakker或是Cesar Hidalgo [name=Peter]
+> 如果要找很有想法的教授我可以找Michiel Bakker或是Cesar Hidalgo [name=Josh]
 
 ### 待討論
 
