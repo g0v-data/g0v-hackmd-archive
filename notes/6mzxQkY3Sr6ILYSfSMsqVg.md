@@ -129,7 +129,7 @@ python3 ./polis_csv_fizer/csv_converter_new.py ./files/comments_raw.csv
 ### 2 註冊AI模型後端服務帳戶
 
 
-* 實驗版(推薦)：請註冊一個open router帳號，並取得API KEY
+* 實驗版(推薦)：請註冊一個[open router](https://openrouter.ai/)帳號，並取得API KEY
 
 1. 需儲值(體驗的話，先存5美金 = 150台幣就夠用許多次了。)
 2. 儲值後取得API KEY
