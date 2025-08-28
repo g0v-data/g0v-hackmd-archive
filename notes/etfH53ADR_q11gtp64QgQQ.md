@@ -35,3 +35,25 @@ Building 到 iOS裝置上要透過xcode
 ![drive](https://g0v.hackmd.io/_uploads/r1UvcSTYgl.png)
 
 將檔案下載或是搬到Mac後，解壓縮出來會是這張圖
+![圖片](https://g0v.hackmd.io/_uploads/r1soUP6Ygg.png)
+打開.xcodeproj
+接下來會是這張圖
+![xcode](https://g0v.hackmd.io/_uploads/rJqkPPpKxl.png)
+
+![device](https://g0v.hackmd.io/_uploads/S1lvqOPTFex.png)
+如果要建置可以直接Product->Archive
+![d](https://g0v.hackmd.io/_uploads/By59_DTFge.png)
+上圖是可以讓你選擇要安裝在哪台裝置上(記得插線)
+![d](https://g0v.hackmd.io/_uploads/r169_v6Yxg.png)
+這個記得打勾，然後選擇圖片中那個名字(這個帳號有買apple 開發者帳號)
+
+> ![type](https://g0v.hackmd.io/_uploads/S1xgcPaFgx.png)
+> 要選這個
+
+## TroubleShooting
+
+:::info
+歡迎補充
+:::
+
+1. 選chen yu yang也沒過->帳號過期了 找負責人購買(wiki有帳密)
