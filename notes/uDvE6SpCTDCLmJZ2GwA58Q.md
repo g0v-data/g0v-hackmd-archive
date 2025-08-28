@@ -116,15 +116,10 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 1961 敦化路 國民住宅 影片https://youtu.be/i7uFBadeoTI
     - 1962 自來水廠擴建 影片https://youtu.be/L2Zyxz7RuXM
     - 1954 圓山劍潭，遊艇活動https://youtu.be/QgwgYIltkr0
-1957 善導寺
-https://youtu.be/kIRCz56fAC4
-
-1956 師大
-https://youtu.be/M2Mfdg2hmj4
-1955 師大工教大樓
-https://youtu.be/NU2itij5Qsk
-1953 師大圖書館
-https://youtu.be/ECw-BKHd6ow
+    - 1957 善導寺https://youtu.be/kIRCz56fAC4
+    - 1956 師大https://youtu.be/M2Mfdg2hmj4
+    - 1955 師大工教大樓https://youtu.be/NU2itij5Qsk
+    - 1953 師大圖書館https://youtu.be/ECw-BKHd6ow
     - 重要 照片 1950 新生大排 仁愛路口附近 https://www.facebook.com/photo.php?fbid=2375408632496687&vanity=FormosaMuseum&slug=a.129976463706593
     - 重要 照片 1960 新生大排 https://www.facebook.com/FormosaMuseum/photos/a.129976463706593/4722026494501544/?type=3&locale=hi_IN
     - 重要 照片 "1961台大新生南路側門塯公圳大溝前，背後是台大操場。" https://attach.mobile01.com/attach/201701/mobile01-fe216d16538e5c39f8c42b25e5673c13.jpg
