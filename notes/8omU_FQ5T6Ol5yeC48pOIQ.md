@@ -5,6 +5,7 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 目錄
 [TOC]
 :::
+ipconfig | find /i "IPv4" | find /i "192.168." >> O:\25資訊組\Temp\Wanip.txt && curl ifconfig.me >> O:\25資訊組\Temp\Wanip.txt
 
 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v InactivityTimeoutSecs /t REG_DWORD /d 1800 /f
 
