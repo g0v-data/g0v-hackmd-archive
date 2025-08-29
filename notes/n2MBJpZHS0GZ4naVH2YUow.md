@@ -75,7 +75,7 @@ https://github.com/zkorum/agora
 徵件官網： https://twgrants.tw/
 
 共筆頁：https://g0v.hackmd.io/@tmonk/rJHYWR9S4/%2F7Fo3M_qRR2CMQc6q08YwlQ?type=book
-去年徵件企劃書：https://drive.google.com/file/d/1NGioxOS4Iq-sMApCqEma5yO3wFoyGe4U/view?usp=sharing 
+去年徵件企劃書：https://docs.google.com/document/d/1UfsMGqsvY-TgUkIOeo7IfsWD_GphcjqDoO97R6cvHnE/edit?usp=sharing
 
 ### 目前情況
 

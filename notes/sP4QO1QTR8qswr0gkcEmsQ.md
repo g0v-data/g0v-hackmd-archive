@@ -1,217 +1,161 @@
-![](https://g0v.hackmd.io/_uploads/BygB5MCtgg.jpg)
-365JL is a trusted online gambling site in the Philippines, offering a safe, fair, and exciting betting experience with countless rewards.
+![](https://g0v.hackmd.io/_uploads/S1eDdlrk5el.jpg)
+SHBET là một thương hiệu giải trí trực tuyến nổi bật, cung cấp kho game đa dạng từ cá cược thể thao, casino live, bắn cá đến slot game hấp dẫn. Với công nghệ hiện đại, tốc độ giao dịch nhanh chóng và hệ thống bảo mật an toàn, SHBET mang đến cho người chơi trải nghiệm công bằng, minh bạch và trọn vẹn niềm vui giải trí.
 
-Website: https://365jl.net.ph/
+THÔNG TIN CHI TIẾT:
 
-Address: 2226 Ipil St, Santa Cruz, Manila, Metro Manila, Philippines
+Website: https://shbet68.net/
+Địa chỉ: 1039 Đ. Nguyễn Thị Minh Khai, Tân Bình, Dĩ An, Bình Dương, Việt Nam
+Email: shbet68net@gmail.com
+Hotline: 09147702190
 
-Zipcode: 1014
+https://twitter.com/shbet68net
 
-Gmail: support@365jl.net.ph
+https://www.youtube.com/@shbet68net
 
-Hashtag: #365jl #365jlph #365jlcasino #365jlcom #365jlvip
+https://500px.com/p/shbet68net
 
+https://www.tumblr.com/shbet68net
 
-https://www.facebook.com/365jlnetph/
+https://www.twitch.tv/shbet68net/about
 
-https://twitter.com/365jlnetph
+https://www.pinterest.com/shbet68net/
 
-https://www.youtube.com/@365jlnetph
+https://uae.enrollbusiness.com/BusinessProfile/7514311/SHBET
 
-https://500px.com/p/365jlnetph
+https://www.huntingnet.com/forum/members/shbet68net.html
 
-https://www.tumblr.com/365jlnetph
+https://www.rcuniverse.com/forum/members/shbet68net.html
 
-https://www.twitch.tv/365jlnetph/about
+https://www.rctech.net/forum/members/shbet68net-499692.html
 
-https://www.pinterest.com/365jlnetph/
+https://hn.enrollbusiness.com/BusinessProfile/7514311/SHBET
 
-https://cloutapps.com/365jlnetph
+https://sv.enrollbusiness.com/BusinessProfile/7514311/SHBET
 
-https://git.forum.ircam.fr/365jlnetph
+https://eurls.live/profile/shbet68net
 
-https://xoops.ec-cube.net/userinfo.php?uid=321891
+https://tap.bio/@shbet68net
 
-https://www.speedway-world.pl/forum/member.php?action=profile&uid=405581
+https://blender.community/nhacaishbet15/
 
-https://www.bandlab.com/365jlnetph
+https://selficlub.com/shbet68net
 
-https://monopinion.namur.be/profiles/365jlnetph/activity
+https://xtremepape.rs/members/shbet68net.580150/#about
 
-https://prosinrefgi.wixsite.com/pmbpf/profile/365jlnetph/profile
+https://www.facer.io/u/shbet68net
 
-https://hukukevi.net/user/365jlnetph
+https://theafricavoice.com/profile/shbet68net
 
-https://allmyfaves.com/365jlnetph
+https://listium.com/@shbet68net
 
-https://www.fintact.io/user/365jlnetph
+https://roomstyler.com/users/shbet68net
 
-https://qooh.me/365jlnetph
+https://decidem.primariatm.ro/profiles/shbet68net/activity
 
-https://www.dermandar.com/user/365jlnetph/
+https://www.yourquote.in/shbet-d1b24/quotes
 
-https://doodleordie.com/profile/jlnetph365
+https://www.tripline.net/shbet68net
 
-https://civitai.com/user/365jlnetph
+https://www.telerik.com/forums/profile/f5ed59d5-8118-4884-93f2-dd03af703a5d
 
-http://www.askmap.net/location/7524164/philippines/365jl
+https://www.exchangle.com/shbet68net
 
-https://www.giveawayoftheday.com/forums/profile/1156575
+https://www.invelos.com/UserProfile.aspx?alias=shbet68net
 
-https://www.faceparty.com/365jlnetph
+https://www.upcarta.com/profile/shbet68net
 
-https://experiment.com/users/365jlnetph
+https://www.babelcube.com/user/nha-cai-shbet-104
 
-https://www.metooo.io/u/365jlnetph
+https://topsitenet.com/profile/shbet68net/1458880/
 
-https://my.archdaily.com/us/@365jl
+https://www.multichain.com/qa/user/shbet68net
 
-https://javabyab.com/user/365jlnetph
+https://beteiligung.stadtlindau.de/profile/shbet68net/
 
-https://www.slideserve.com/365jlnetph
+https://feyenoord.supporters.nl/profiel/101330/shbet68net
 
-https://www.friend007.com/365jlnetph
+https://routinehub.co/user/shbet68net
 
-https://medium.com/@365jlnetph
+http://genina.com/user/editDone/4965308.page
 
-https://anyflip.com/homepage/dzxmb/preview#About
+https://md.kokakiwi.net/s/IcoZRvbOd
 
-https://www.renderosity.com/users/id:1769713
+https://malt-orden.info/userinfo.php?uid=414941
 
-https://www.speedrun.com/fr-FR/users/365jlnetph
+http://web.symbol.rs/forum/member.php?action=profile&uid=1175576
 
-https://www.fitday.com/fitness/forums/members/365jlnetph.html
+https://www.trackyserver.com/profile/188978
 
-https://konsumencerdas.id/forum/user/365jlnetph
+https://wefunder.com/nhcishbet30
 
-https://os.mbed.com/users/365jlnetph/
+https://belgaumonline.com/profile/shbet68net/
 
-https://startupxplore.com/en/person/365jl
+https://www.vnbadminton.com/members/shbet68net.97845/
 
-https://freeicons.io/profile/815991
+https://tooter.in/shbet68net
 
-https://substance3d.adobe.com/community-assets/profile/org.adobe.user:3B3E21D768AFF8220A495C8D@AdobeID
+https://spiderum.com/nguoi-dung/shbet68net
 
-https://socialgem.net/365jlnetph
+https://theexplorers.com/user?id=11f03784-ac41-4856-8ac0-bc20f5296aaa
 
-https://www.happycampersmontessori.com/group/mysite-231-group/discussion/830eb639-dd02-4c0c-83fe-134d51e47aa4
+https://www.yumpu.com/user/shbet68net
 
-https://www.socialbookmarkssite.com/bookmark/6051375/365jl/
+https://4fund.com/profile/nha-cai-shbet-7691
 
-https://vocal.media/authors/365-jl
+https://securityheaders.com/?q=https%3A%2F%2Fshbet68.net%2F&followRedirects=on
 
-https://www.ixawiki.com/link.php?url=https://365jl.net.ph/
+https://www.wattpad.com/user/shbet68net
 
-http://www.webclap.com/php/jump.php?url=https://365jl.net.ph/
+https://www.vevioz.com/shbet68net
 
-https://ca.enrollbusiness.com/BusinessProfile/7510676/365JL
+https://wpfr.net/support/utilisateurs/shbet68net/
 
-https://www.behance.net/365jlnetph
+https://iglinks.io/laurarios23425837-awi
 
-https://tapas.io/365jlnetph
+https://www.gaiaonline.com/profiles/shbet68net/50554620/
 
-https://365jlcasino.website3.me/
+https://aiplanet.com/profile/shbet68net
 
-https://tutorialslink.com/member/365JLundefined/68335
+https://www.mapleprimes.com/users/shbet68net
 
-https://gravatar.com/365jlnetph
+https://www.dday.it/profilo/shbet68net
 
-https://www.openstreetmap.org/user/365jlnetph
+https://bresdel.com/shbet68net
 
-https://profile.hatena.ne.jp/jlnetph365/
+https://www.blackhatprotools.info/member.php?246642-shbet68net
 
-https://twitback.com/365jlnetph
+https://www.niftygateway.com/@shbet68net/
 
-https://issuu.com/365jlnetph
+http://www.daojianchina.com/home.php?mod=space&uid=379204
 
-https://disqus.com/by/365jlnetph/about/
+https://www.aicrowd.com/participants/shbet68net
 
-https://www.pubpub.org/user/365jl-casino-2
+https://blueprintue.com/profile/shbet68net/
 
-https://about.me/jlnetph365
+https://www.jointcorners.com/shbet68net
 
-https://www.mixcloud.com/365jlnetph/
+https://dapp.orvium.io/profile/nha-cai%20-shbet-1275
 
-https://www.zazzle.com.au/mbr/238617971228517194
+https://peatix.com/user/27675928/view
 
-https://au.localbook.org/user/profile/365jl
+https://rapidapi.com/user/laurarios23425837
 
-https://www.producthunt.com/@365jlnetph
+https://phijkchu.com/a/shbet68net/video-channels
 
-https://www.freelistingaustralia.com/listings/365jl
+https://jobs.landscapeindustrycareers.org/profiles/7103493-shbet
 
-https://3ddd.ru/users/365jlnetph
+https://classificados.acheiusa.com/profile/dVJFMUJZVTRCdTVNbHlJcDFxbld0UT09
 
-https://365jl.mypixieset.com/
+https://estar.jp/users/1905385882
 
-https://www.decidim.barcelona/profiles/365jlnetph/activity
+https://meta.decidim.org/profiles/shbet68net/activity
 
-https://pixabay.com/users/52007610/
+https://matkafasi.com/user/shbet68net
 
-https://app.readthedocs.org/profiles/365jlnetph/
+https://pixelfed.uno/i/web/profile/867035404590038815
 
-https://www.reverbnation.com/artist/365jlnetph
+https://link.space/@shbet68net
 
-https://sketchfab.com/365jlnetph
+https://www.4shared.com/u/wgPyF7LG/laurarios23425837.html
 
-https://chyoa.com/user/365jlnetph
-
-https://advego.com/profile/365jlnetph/
-
-https://gitlab.aicrowd.com/365jlnetph
-
-https://gitlab.vuhdo.io/365jlnetph
-
-https://www.bikemap.net/en/u/365jlnetph/routes/created/
-
-https://letterboxd.com/365jlnetph/
-
-https://community.wibutler.com/user/365jlnetph
-
-https://lamsn.com/home.php?mod=space&uid=1295221
-
-https://www.smitefire.com/profile/365jlnetph-226646?profilepage
-
-https://raovat.nhadat.vn/members/365jlnetph-228903.html
-
-https://givestar.io/profile/745ed671-6d76-4c68-8aac-2ee0992e007e
-
-https://learn.cipmikejachapter.org/members/365jlnetph/
-
-https://gt.enrollbusiness.com/BusinessProfile/7510676/365JL-Acampo-CA
-
-https://jobs.njota.org/profiles/7097428-365jl
-
-https://gitconnected.com/365jlnetph
-
-https://www.sociomix.com/u/365jl/
-
-http://www.activewin.com/user.asp?Action=Read&UserIndex=4789552&redir=&redirname=Forums
-
-https://forums.megalith-games.com/member.php?action=profile&uid=1413015
-
-http://palangshim.com/space-uid-4447239.html
-
-https://www.mymeetbook.com/365jlnetph
-
-https://construim.fedaia.org/profiles/365jlnetph/activity
-
-https://golosknig.com/profile/365jlnetph/
-
-https://phatwalletforums.com/user/365jlnetph
-
-https://www.dotafire.com/profile/365jlnetph-196414?profilepage
-
-https://freeimage.host/365jlnetph
-
-https://www.mobafire.com/profile/365jlnetph-1208832?profilepage
-
-https://bbs.theviko.com/home.php?mod=space&uid=3928106
-
-https://jobs.westerncity.com/profiles/7097573-365jl
-
-https://forum.aceinna.com/user/365jlnetph
-
-https://hker2uk.com/home.php?mod=space&uid=4847987
-
-https://jobs.windomnews.com/profiles/7097575-365jl
+http://freestyler.ws/user/575147/shbet68net
