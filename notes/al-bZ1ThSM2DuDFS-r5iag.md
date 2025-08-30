@@ -41,6 +41,8 @@ https://www.facebook.com/share/p/1HRg52u6tk/
 - 臺北市士林區建業路 7 號 https://photos.app.goo.gl/kCvv61Jbby4xhs7E9
 - 陽明交通大學靠近門口的守仁樓
     - https://www.facebook.com/Hsieh310101/posts/pfbid0DAnsqqyuue7d5UcvPCrH5Yv2hfdkS7fS56x3Zo2UvodLjbcVkKjLsV6fbXwXeAcLl?locale=zh_TW
+- 宜蘭縣南澳
+    - https://www.facebook.com/share/p/1E3jFSEEvG/
 - 大雪山森林遊樂區遊客中心 https://www.facebook.com/groups/birdwindowcollision/posts/1367090184006435/
 - 觀霧遊客中心 https://www.facebook.com/share/p/ok24n2ZeVAYDhiNd/
 - 阿里山 https://www.facebook.com/share/p/eAJscfGi1jRdzLMR/
