@@ -224,3 +224,10 @@ https://www.facebook.com/605797332/posts/10155948075302333/
 
 基因社會學觀點
 https://www.facebook.com/story.php?story_fbid=pfbid0Xt6ZTnNAhYsukS7REASVBB9MVzv7c9VNrcUcFt8ujH44wNyBEEDevyMoAjU8AwLml&id=100057534007361&mibextid=qC1gEa
+
+人口推估與防災
+- https://www.ncdr.nat.gov.tw/Epaper/MessageView?itemid=5065&mid=39
+- 提案探討：如何不要秒滅兩萬人 (大台北地區)提案影片
+- https://youtu.be/QdKNurap3io
+- https://docs.google.com/presentation/d/1v19LXTU8bQZGZ44oRc1OPHEAn4q43q0V0hGL5QlfUKU/edit?usp=sharing
+- https://g0v.hackmd.io/1z9fpW2fSnepVYR4QSOupA?view
