@@ -95,4 +95,11 @@ tags: GIS
 ---
 
 萬隆景美
-https://www.facebook.com/mao.isle/posts/pfbid02pe66UJafuYg1MsH2Hj91AypncNg7jDQFPsGagj3y7B6NYrNwdGw9YjBMcBP8u2Yjl
+- https://www.facebook.com/mao.isle/posts/pfbid02pe66UJafuYg1MsH2Hj91AypncNg7jDQFPsGagj3y7B6NYrNwdGw9YjBMcBP8u2Yjl
+
+興隆萬芳
+- 木柵線捷運站與環狀線站站點之間
+
+Todo
+- 九月底舉辦一場晚上交流會工作坊
+- 宣傳：第一場工作坊參加者
