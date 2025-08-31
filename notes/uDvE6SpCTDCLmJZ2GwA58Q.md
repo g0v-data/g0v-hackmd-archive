@@ -59,6 +59,11 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
 - 道路各段開闢的 polygon 開闢年代
     - 例如忠孝東路、基隆路
 
+
+其他：各年代的代表影片
+- 1933 持攝影機的男人https://youtu.be/rYGYp46o1ng?si=YG3-Rq02L2ebQjmL
+- 1964 台北 https://youtu.be/svBswabhxjQ?si=sE9pE5yXENAJWayG
+
 #### 單筆素材
 - 待查找老照片位置、標記、歷史素材
     - 大龍國小 考古遺址 https://www.facebook.com/share/p/ur8bQUwcWTGofBMi/
