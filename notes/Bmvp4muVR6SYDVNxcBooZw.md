@@ -26,8 +26,15 @@
 
 ### [Infra, Op] 備援
 
-- 
+- 聯外中斷後的狀況
+    - 海外使用者：
+    - 國內使用者：連接非常有限，但仍有透過國內網路進行查證的需求
 - cofacts.tw 網域備援
+    - Elasticsearch: 2 clusters across region? （不確定怎麼做）
+    - GCS / Cloudflare: dual region?
+    - API / web / line bot: 可能得搬到不知道哪裡
+        - cloud run 會有 long connection 會斷掉的問題
+- 維運工程師問題
 
 ## Sharings
 
