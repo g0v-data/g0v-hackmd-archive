@@ -36,5 +36,6 @@ https://g0v.hackmd.io/@jothon/Sch001courses/https%3A%2F%2Fg0v.hackmd.io%2Fu_Wlft
 藥品仿單易讀化
 https://g0v.hackmd.io/@jothon/ai/https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1PhQpjHt4NEoQl6MgumW7TKA0AKrBzercOUTVStAV5S8%2Fedit%3Fusp%3Dsharing
 
-chewei> 寫總統盃黑客松提案，校地創生
-https://docs.google.com/document/d/1fKuMTAMswE8wUy9xmfNCKhkqKo-5Kt81EoWVjLok3Bw/edit
+chewei> 寫總統盃黑客松提案，ReSchool 校地創生正循環
+- 歡迎加入 g0v Slack #edu-school-學校存續議題
+- https://presidential-hackathon.taiwan.gov.tw/forms/w/Proposallist2025.aspx
