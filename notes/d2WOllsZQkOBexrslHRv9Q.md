@@ -85,6 +85,7 @@ Discussions
 
 :::info
 TODO: 在 https://github.com/cofacts/worker/ 開票紀錄以上實作想法
+--> https://github.com/cofacts/worker/issues/2
 :::
 
 ### [Comm] Youtube on Gemini experiment result
