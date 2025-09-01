@@ -9,13 +9,19 @@
 
 ## 本次會議待追蹤項目 (由 2025/08/26 會議記錄結案)
 
+No Updates:
 *   **[Johnson]** 資訊安全權限設定
 *   **CCPRIP - Analytics**: Opendata trend & LINE Bot usage 報表問題
 *   **cofacts.ai**: Groundness Check agent 實作 (追蹤提案與文件)
 *   **[nonumpa, mrorz]** LLM based Topic Classifier: 追蹤 bug 修復與 benchmark 結果
+
+Updates:
 *   **[mrorz]** 確認 Johnson 家是否還有中文講義
+    * 9/13 面海松需攜帶 
 *   **url-resolver update**: Implement Hybrid URL Content Resolver with Gemini and Video Understanding (https://github.com/cofacts/worker/issues/2)
     - 9/1 根據會議結論，建立了新的 Issue #2，計畫整合 Gemini API 來強化 URL 解析與影片內容理解的功能。
+    - Should have a design doc first
+    - break down to rumors-api after design review
 
 
 ## CCPRIP
@@ -70,5 +76,10 @@
 By MrOrz
 - 9/9
 - 9/17 Cofacts 跟「字幕由 Amara.org 社群提供」說再見
+    - scenario : video + audio --> text
+    - model comparison
+    - $$
+    - latency
+
 
 

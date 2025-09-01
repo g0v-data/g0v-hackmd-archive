@@ -20,7 +20,6 @@ chewei> 測試 讓 LLM 控制 double 3 可移動機器人
 軟體工程師的職能光譜
 - 補照片
 
-
 [線上活動] 7/7 週一晚上 20:00-21:00 [災害潛勢與文化物] 素材資料標記進度討論
 - https://www.facebook.com/events/2402534916845704/
 - 專案共筆與資料表：https://g0v.hackmd.io/@chewei/CultureandRisk/
@@ -43,3 +42,6 @@ chewei> 寫總統盃黑客松提案，ReSchool 校地創生正循環
 
 chewei> 寫 9 月份揪松團電子報
 - 歡迎加入 g0v Slack #jothon
+
+Cofacts 每週小聚
+- https://cofacts.tw/
