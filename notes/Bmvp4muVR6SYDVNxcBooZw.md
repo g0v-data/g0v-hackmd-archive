@@ -3,7 +3,7 @@
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
 - 線上出席：
-- 實體出席：
+- 實體出席：bil, Helen, mrorz
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
@@ -57,6 +57,13 @@
     - API / web / line bot: 可能得搬到不知道哪裡
         - cloud run 會有 long connection 會斷掉的問題
 - 維運工程師問題
+
+### [Comm] AI 逐字稿 Gemini 升級
+
+> 先前實驗 
+
+- Gemini 再次來信提醒 On September 24, 2025: Gemini 1.5 Pro 002, Gemini 1.5 Flash 002 will be discontinued.
+- 7/2 改好了 https://github.com/cofacts/rumors-api/pull/371 而且確定已經沒有 Gemini 1.5 pro 的 request ![](https://g0v.hackmd.io/_uploads/S1ZmTebQqee.png)
 
 ## Sharings
 

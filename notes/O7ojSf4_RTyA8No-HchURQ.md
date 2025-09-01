@@ -39,3 +39,7 @@ https://g0v.hackmd.io/@jothon/ai/https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F
 chewei> 寫總統盃黑客松提案，ReSchool 校地創生正循環
 - 歡迎加入 g0v Slack #edu-school-學校存續議題
 - https://presidential-hackathon.taiwan.gov.tw/forms/w/Proposallist2025.aspx
+- 工作文件：https://g0v.hackmd.io/@chewei/r1s72oq2kl
+
+chewei> 寫 9 月份揪松團電子報
+- 歡迎加入 g0v Slack #jothon
