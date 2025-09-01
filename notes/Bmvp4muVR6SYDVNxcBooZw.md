@@ -24,6 +24,28 @@
 - **rumors-deploy PR: [Fix: Add restart:always policy to services](https://github.com/cofacts/rumors-deploy/pull/36)**
   - 8/26 會議後，為了解決服務不會自動重啟的問題，建立了 PR #36，為 `line-bot-zh`, `collab-server`, `langfuse` 等服務加上 `restart: always` 策略，並已合併。
 
+### [Infra] 管理 API domain
+
+2025/9/1 下午倒站
+- 3:53PM 無法存取
+- 6:13 狀況 ![](https://g0v.hackmd.io/_uploads/B1bw2gX9ee.png)
+- 6:23PM 重開 API 後恢復
+- 看 API + nginx log 發現大多是打到 cofacts-api.g0v.tw 的 request ![](https://g0v.hackmd.io/_uploads/H1SF3x79ge.png)
+- Cloudflare rate limit 無法管理 cofacts-api.g0v.tw 的 request
+
+#### api.cofacts.tw 流量
+沒有太大波動，在 100K~200K 之間（nginx, rumors-api 合計）
+![](https://g0v.hackmd.io/_uploads/SJXNieQclg.png)
+
+#### cofacts-api.g0v.tw 流量
+離尖峰差異大，在 60K~300K 之間規律跳動（nginx, rumors-api 合計）
+![](https://g0v.hackmd.io/_uploads/B1AnixQcgg.png)
+
+建議：
+執行並持續追蹤 [5/12 會議](https://g0v.hackmd.io/4gx_3uFUTHSYB853Fcgmlg?view#Op-API-access-management)中提議的 Cofacts API access management 第一步
+預期效果：至少 rate limit 會讓流量 smooth 一點
+
+
 ### [Infra, Op] 備援
 
 - 聯外中斷後的狀況
