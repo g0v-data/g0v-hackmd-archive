@@ -2,8 +2,13 @@
 tags: vtaiwan
 ---
 
-# 「SenseMaker意見綜整器」使用說明
+# 「SenseMaker意見綜整器」使用說明(V1)
 
+## 重要：面海松請看新版的[使用說明V2](https://g0v.hackmd.io/vjYMEjYqRmGfYc0hScQkWg)
+
+
+
+---
 
 * 官方說明文：https://jigsaw-code.github.io/sensemaking-tools/
 * 開源程式庫：https://github.com/Jigsaw-Code/sensemaking-tools/
