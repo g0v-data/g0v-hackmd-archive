@@ -82,6 +82,9 @@ https://www.facebook.com/share/p/1aLyuehztY/
 
 https://www.facebook.com/share/p/15bgbpm69Q/?mibextid=wwXIfr
 
+
+
+
 ## 視聽通用溝通輔助
 
 https://www.facebook.com/share/15repbf7df/
