@@ -1,8 +1,6 @@
-
 ---
-tags: vTaiwan,
+tags: vTaiwan
 ---
-
 # 20250827小松
 
 時間 Time ：19:00 - 20:00
