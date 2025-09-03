@@ -45,13 +45,15 @@ tags: vtaiwan
 
 ## 前置準備2：導出Polis.tw的原始意見資料
 
+*(建議使用Chrome瀏覽器)*
+
 1. 進入[polis.tw](https://polis.tw)的報告頁report page
 
 ![](https://g0v.hackmd.io/_uploads/rkim4eS5gl.png)
 
 
 
-2. 開啟開發者模式，找到用 GET /api/v3/comments 回來的 JSON 。
+2. 開啟[開發者模式](https://developer.chrome.com/docs/devtools/open?hl=zh-tw)，找到用 GET /api/v3/comments 回來的 JSON 。
 
     * 開發者模式選「網路」> 「全部」>「回應」
     * 過濾器打上「/api/v3/comments」
