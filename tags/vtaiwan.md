@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [「SenseMaker意見綜整器」使用說明(V2)](../notes/vjYMEjYqRmGfYc0hScQkWg.md) | 2025-09-02T22:59:50+00:00 | 2025-09-02T22:30:28+00:00 |
-| 2 | [「SenseMaker意見綜整器」使用說明(V1)](../notes/6mzxQkY3Sr6ILYSfSMsqVg.md) | 2025-09-02T22:31:49+00:00 | 2025-07-07T01:59:56+00:00 |
+| 1 | [「SenseMaker意見綜整器」使用說明(V1)](../notes/6mzxQkY3Sr6ILYSfSMsqVg.md) | 2025-09-02T23:39:04+00:00 | 2025-07-07T01:59:56+00:00 |
+| 2 | [「SenseMaker意見綜整器」使用說明(V2)](../notes/vjYMEjYqRmGfYc0hScQkWg.md) | 2025-09-02T23:29:05+00:00 | 2025-09-02T22:30:28+00:00 |
 | 3 | [AI 用於數位公民參與經驗共筆](../notes/nJUYukWFSWuEsG-XQalHcA.md) | 2025-07-11T15:43:15+00:00 | 2025-06-03T17:12:28+00:00 |
 | 4 | [vtaiwan x Tech for Good Asia 合作](../notes/PdvNjkLlSd-WytXN_otWbQ.md) | 2025-06-25T12:03:38+00:00 | 2025-04-16T11:27:45+00:00 |
 | 5 | [vTaiwan 網站更新後的治理機制](../notes/HxWF11d4Tz-AfHb3yjwQKg.md) | 2025-06-16T09:15:52+00:00 | 2025-06-16T06:18:25+00:00 |
