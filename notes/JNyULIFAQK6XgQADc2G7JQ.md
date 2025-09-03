@@ -5,15 +5,23 @@ tags: vtaiwan
 # 「Agora Citizen公民審議平台」使用說明(V1)
 
 主網站： https://agoracitizen.network/
-支持語言：
+官方介紹影片：https://www.youtube.com/watch?v=1SxIkA96FyA
+支持語言：英文、西班牙文、法文、簡體中文、繁體中文、日文、阿拉伯文(增加中...)
 
-![](https://g0v.hackmd.io/_uploads/BJNJmUBqxg.png)
 
 
 ## Agora的字源
 
 這個新的公民審議平台的命名，源自古希臘的市民廣場[Agora](
 https://en.wikipedia.org/wiki/Agora?wprov=sfti1#Ancient_Agora_of_Athens)，那也是古雅典哲人蘇格拉底常去跟大家對話討論的地方。
+
+
+## 焦點
+
+以往民主政治有很大的一個難題，就是當人數變多的時候要進行直接民主的公民審議、綜合整理大家的意見就幾乎不可能做到，所以政治上有所謂的寡頭鐵律，也就是民主在大規模的國家層次，難免成為代議士的少數統治。
+
+Agora Citizen是一個試圖突破質疑限制的非同步公民審議平台。
+
 
 
 ## 概念
@@ -34,33 +42,81 @@ https://en.wikipedia.org/wiki/Agora?wprov=sfti1#Ancient_Agora_of_Athens)，那�
 ## 上手使用
 
 
+主網站： https://agoracitizen.network/
+![](https://g0v.hackmd.io/_uploads/BydufvHcxg.png)
+
+0. 點擊"Try the MVP"開始使用
+
 ### 1. 註冊帳號
 
+1. 點擊右上角"登入"按鈕
+![](https://g0v.hackmd.io/_uploads/Hyg0GDHcxx.png)
 
+
+2. 點擊"註冊"按鈕
+![](https://g0v.hackmd.io/_uploads/HJ-ubmPHqel.png =x350)
+
+3. 看完說明請點擊"箭頭"下一步
+![](https://g0v.hackmd.io/_uploads/rkxIn7vr5ex.png =x150)
 
 ### 2. 手機認證
 
+1. 點選"使用手機號驗證"
+
+![](https://g0v.hackmd.io/_uploads/SkGH4wBqlg.png =x200)
 
 
-### 3. 參與議題
+2. 輸入手機號碼之後，點選"箭頭"
 
+![](https://g0v.hackmd.io/_uploads/SJGKEvH5ll.png =x350)
+
+3. 輸入驗證碼，就能完成認證
+
+
+### 3. 填基本資料
+
+1. 進入之後，系統會先請你輸入你的使用者名稱，注意只能使用小寫的英文、阿拉伯數字和底線。
+
+2. 接著系統會請你選擇你會的語言。
+
+3. 然後，系統會請你選擇你關心的主題類別，例如藝術與文化之類的，可複選。
+
+### 4. 參與議題
+
+1. 先點擊進入一個議題
+
+![](https://g0v.hackmd.io/_uploads/HJKbIvHqlx.png)
+
+2. 往下捲動，會看到許多意見
+
+3. 可以使用翻譯軟體，如[Google翻譯](https://translate.google.com/)來協助翻譯並理解意見的內容
 
 
 #### 投票
 
+1. 針對每個意見，你可以以投票同意、不同意、跳過。
 
-
-#### 發表陳述
-
-
-
-
-### 4. 看分析報告
+2. 投完票之後，就可以看到其他人的投票數量和比例，一開始不顯示是為了避免影響獨立思考判斷。
 
 
 
 
+#### 看分析報告
 
+1. 每一個對話有兩個分頁，一個是意見，一個是分析。
+
+2. 點擊分頁的標籤可以切換分頁
+![](https://g0v.hackmd.io/_uploads/SknSwvHqll.png)
+
+
+
+#### 發表意見
+
+
+
+### 5. 發起議題
+
+1. 按左下角的「開始對話」即可發起新議題
 
 
 
