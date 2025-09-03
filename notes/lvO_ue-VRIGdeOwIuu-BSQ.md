@@ -46,16 +46,28 @@ https://vtaiwan.pages.dev/jitsi
 - 更加 AI 感的全國青年會議
     - 可能會使用一些工具，例如 mentimeter 或者是
     - 有哪些工具想要提案使用也可以提出！
-        - 感覺 agora 也可以推薦看看
+        - 感覺 Agora 也可以推薦看看
+> [name=Peter]
+
+
+
 - People Powered 訪談後續
-    - 
 
-## 面海松計畫：邀請大家一起來玩 sense making!
-- bestian 制作的 [說明共筆](https://g0v.hackmd.io/vjYMEjYqRmGfYc0hScQkWg?view)
+> [name=Peter]
+
+## 面海松計畫：邀請大家一起來玩 SenseMaker!
+- bestian 制作的 [SenseMaker Web UI說明共筆V2](https://g0v.hackmd.io/vjYMEjYqRmGfYc0hScQkWg?view)
 - 幫忙
-
+> [name=Peter]
 
 ## Tech for Good Asia 專案後續
 
 
 ## TWNIC 專案計畫
+
+
+
+## Agora Citizen 工具試推
+
+- [Agora 中文簡介與使用說明V1](https://g0v.hackmd.io/JNyULIFAQK6XgQADc2G7JQ?view)寫好了，請幫忙檢閱一下，謝謝~ 
+> [name=Bestian]
