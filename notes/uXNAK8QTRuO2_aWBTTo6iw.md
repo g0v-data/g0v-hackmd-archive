@@ -1,5 +1,5 @@
 :::danger
-Chainlon 展頌臨時文字紀錄區，公開頁面、嚴禁機密資料，快速網址：http://bit.ly/chainlon
+Chainlon 展頌臨時文字紀錄區，公開頁面、嚴禁機密資料，快速網址：https://bit.ly/chainlon
 :::
 :::warning
 目錄
@@ -36,20 +36,23 @@ Gemini 1.5 Pro=notebooklm > Perplexity > Claude-3-Sonnet = GPT 4o-mini
 變聲器		https://voice.ai/
 音樂創作		https://suno.com/
 #### 以下為臨時紀錄區/展頌同仁/嚴禁機密資訊
-嘗試用以下文字，問你的AI機器人(注意：請同時打開所有關聯GAI才能比較)：
-請提供紡織原料中的”CPL”，一年內價格走勢，逐月呈現，美元計算
-如何在Google表單中，輸入二個地點的地址，自動換算距離https://docs.google.com/spreadsheets/d/1iyJalH8fid_TfIxxy4_hJb05Bk8-bWUU7qtC_LMYg9I/edit?gid=1046628128#gid=1046628128
-請摘要『張忠謀自傳上冊、下冊』這本書的內容
-詢問excel問題，K2:V2，共有12欄，每欄有不同數值，計算W2的值，W2=K2:V2的總平均，但是排除最大值和最小值
-請為我查詢 lenovo 原廠 server  換修零件之後的保固計算方式
-請根據以下公司，查詢出統一編號、股票代號，並以列表呈現(輸入多個公司名稱)
-請安排台中一日遊，公車(自行開車)，特色景點，不要購物
-請以視覺化圖表分析以下數據
-產品	月份	產量	銷量
-產品1	2024/9	100	95
-產品2	2024/10	100	80
-產品3	2024/11	100	93
+@echo off
+@chcp 65001
+@ECHO 關機倒數10秒，按Y延後關機30分鐘，按N或不理會將立即關機
+@CHOICE /t 10 /d n
+@IF ERRORLEVEL 2 GOTO N
+@IF ERRORLEVEL 1 GOTO Y
+@GOTO end
+:Y
+@ECHO 30分鐘後強制關機
+@timeout /t 1800
+@shutdown /f /s /t 0
+@GOTO end
+:N
+@ECHO 10秒後強制關機
+@timeout /t 10
+@shutdown /f /s /t 0
+@GOTO end
+:end
 
-企業管理 社群經營 公益活動 ESG
-
-可愛Q版風格，3D渲染圖像，一條白色的蛇和一隻淡黃色的兔子，兔子手持鞭炮，蛇望著兔子。背景是喜慶的紅色，上面有大文字"Happy Lunar New Year"加小文字"From Chain Yarn "
+shutdown /f /s /t 0 --> shutdown /f /p
