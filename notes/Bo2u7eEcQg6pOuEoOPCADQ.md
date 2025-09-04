@@ -43,6 +43,8 @@ https://cybersec.ithome.com.tw/2025/warGame
 兵推場次資訊蒐集：防災情境、台海戰爭
 https://g0v.hackmd.io/@chewei/rJL2Dwz3n?type=view
 
+https://youtu.be/4E943TsA-bw
+
 臺灣本島沿海，總共有 14 個「紅色海灘」被匡列為共軍可能登陸點的海灘
 https://www.facebook.com/permalink.php?story_fbid=pfbid02sPJmb4QzxKfAPRjEwKcx6mFUXtkuSdFf1nLJ6hG4KCafupjnywUcwhLzvXRHGavMl&id=61554981061913
 
