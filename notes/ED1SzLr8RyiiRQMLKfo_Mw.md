@@ -228,7 +228,7 @@ How the West got China wrong? The Economist 2018
 共同撰書
 分享經驗
 
-## 其他筆記
+## 其他筆記 / 出版
 
 八次危機：中國式經濟危機和應對
 https://www.books.com.tw/products/0010632516
@@ -238,3 +238,17 @@ https://youtu.be/Qri2Sx216Ds
 
 許成鋼觀點
 https://youtu.be/pqh6nFKWB7k
+
+Ideology and Organization in Communist China 
+Franz Schurmann 1968 
+https://en.wikipedia.org/wiki/Ideology_and_Organization_in_Communist_China
+https://michaelharrison.org.uk/wp-content/uploads/2022/06/Ideology-and-Organization-in-Communist-China-Franz-Schurmann.pdf
+
+The Organizational Weapon: A Study of Bolshevik Strategy and Tactics
+Philip Selznick 
+https://www.tenlong.com.tw/products/9781610278300?list_name=c-management-leadership
+
+The Party’s Interests Come First: The Life of Xi Zhongxun, Father of Xi Jinping
+Joseph Torigian 唐志學
+https://josephtorigian.com/
+https://www.american.edu/sis/faculty/torigian.cfm
