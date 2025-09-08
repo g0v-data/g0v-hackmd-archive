@@ -22,6 +22,7 @@ Updates:
     - Should have a design doc first
     - break down to rumors-api after design review
 *   **Cofacts API access management**: 執行並持續追蹤 [5/12 會議](https://g0v.hackmd.io/4gx_3uFUTHSYB853Fcgmlg?view#Op-API-access-management)中提議的 Cofacts API access management 第一步
+    
 
 ## 系統狀況
 
@@ -64,3 +65,50 @@ Updates:
   - Pull Request: https://github.com/cofacts/takedowns/pull/256
   - 處理了由 Takedown Bot 自動建立的 spam user 移除請求。
 
+## CCPRIP
+
+### [Op] cofacts/devops-manual
+- 把 docker-compose.yaml 改寫成沒有 secret 的版本，讓 AI 方便讀
+  - https://github.com/cofacts/rumors-deploy/issues/37
+- Private Github Repository
+  - Format: markdown files
+  - 人 or coding agent 能來管理 Cofacts infra
+- 把 Cofacts 的 infra 記下來
+  - README.md
+    - onboard 新的 devops 要設定什麼、給哪些權限
+    - 先 checkout cofacts 的 repo
+    - 各 Cofacts repository 簡介
+    - 文件的 table of contents
+  - Linode.md
+    - ssh config
+    - 放 authorized keys
+    - server 上的資料夾結構
+    - Cronjob
+    - rumors-deploy & docker-compose 介紹、與實際機器上的差異
+  - Cloudflare.md: MCP
+    - 一些已知設定（MCP 拉下來存著）
+  - GCP.md:
+    - Google cloud logging
+    - cloud run（gcloud 指令）
+  - Backup / recovery
+    - GCS multimedia
+    - GCS Elasticsearch snapshot (weekly)
+      - Credentials
+    - Linode Elasticsearch
+    - Opendata repo https://github.com/cofacts/opendata/blob/master/CONTRIBUTING.md
+  - Analytics
+    - BigQuery (LINE)
+    - Google Anlaytics (Website, LIFF)
+    - Looker studio (/analytics)
+
+## 9/13 面海松
+
+攜帶
+- [ ] Cofacts 黃色傳單（華語 + 英語）[name=mrorz]
+- [ ] Cofacts Logo 貼紙 [name=mrorz]
+
+做
+* [ ] 設定 cofacts-api 的 303 redirect 並找 Ronny approve [name=mrorz]
+  * [ ] 跟 AI 一起寫 cofacts/devops-manual [name=mrorz]
+* [ ]  [Implement Hybrid URL Content Resolver with Gemini and Video Understanding](https://github.com/cofacts/worker/issues/2)
+* [ ] 準備十月小聚，小樹屋 [name=bil]
