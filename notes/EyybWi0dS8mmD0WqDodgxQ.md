@@ -1,3 +1,6 @@
+---
+tags: FtO, g0v-intl
+---
 # Saturday Night Hang for Organizers
 
 - Paramount Bar 百樂門酒館 https://www.facebook.com/paramount.bar/

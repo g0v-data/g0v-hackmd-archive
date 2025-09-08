@@ -1,5 +1,5 @@
 ---
-tags: intl, Code for Japan
+tags: Code for Japan, g0v-intl
 ---
 # Code for Japan Summit 2025 投稿
 

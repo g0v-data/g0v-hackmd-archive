@@ -1,5 +1,5 @@
 ---
-tags: FtO
+tags: FtO, g0v-intl
 ---
 # FtO KH 2025 Promotional Material 宣傳素材
 
