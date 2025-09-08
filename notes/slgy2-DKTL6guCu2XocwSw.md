@@ -1,3 +1,6 @@
+---
+tags: intl, Code for Japan
+---
 # Code for Japan Summit 2025 投稿
 
 ## Call for Proposal 2025/9/14 週日 23:59 截止
