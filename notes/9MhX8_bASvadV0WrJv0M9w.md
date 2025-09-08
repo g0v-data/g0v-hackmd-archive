@@ -1,4 +1,4 @@
-Gemwin là cổng game giải trí đa dạng, mang đến cho người chơi trải nghiệm phong phú từ các trò chơi dân gian đến hiện đại. Với giao diện thân thiện, dễ sử dụng, Gemwin không chỉ tạo ra một sân chơi lôi cuốn mà còn cam kết đảm bảo tính minh bạch và công bằng trong từng ván chơi.
+Gemwin là cổng game giải trí đa dạng, mang đến cho người chơi trải nghiệm phong phú từ các trò chơi dân gian đến hiện đại. Vớ,kli giao diện thân thiện, dễ sử dụng, Gemwin không chỉ tạo ra một sân chơi lôi cuốn mà còn cam kết đảm bảo tính minh bạch và công bằng trong từng ván chơi.
 link website: http://kodorra.com/
 Địa chỉ: ĐỊA CHỈ: 16/2 Hương Điền, Phước Tân, Nha Trang, Khánh Hòa
 SĐT: 0813167785

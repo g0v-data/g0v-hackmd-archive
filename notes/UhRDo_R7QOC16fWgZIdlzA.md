@@ -2,8 +2,7 @@
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- 線上出席：
-- 實體出席：
+- 線上出席：bil, nonumpa
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
@@ -64,3 +63,4 @@ Updates:
 - **[cofacts/takedowns] Takedown spam user Pepi Lopian p1DeDpkBkYc0K64ECXPG**
   - Pull Request: https://github.com/cofacts/takedowns/pull/256
   - 處理了由 Takedown Bot 自動建立的 spam user 移除請求。
+
