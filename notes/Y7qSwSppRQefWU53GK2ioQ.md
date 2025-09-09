@@ -62,6 +62,11 @@ https://www.facebook.com/story.php?story_fbid=pfbid02uZRGc4BNEsptdJrCDfpUzsBonM5
 都市議題 Urbanology Online
 http://www.bmwguggenheimlab.org/urbanologyonline
 
+AI 使用 
+- [情境測驗] ✨AI 是你的好朋友嗎？https://ooopenlab.cc/quiz/ObrzOME4l3PZ2qZNqMai
+- [情境測驗] ✨辦公室簡報危機：https://ooopenlab.cc/quiz/UAHFaxixC9eR1quUeIjz
+- ✨教材索取與合作連結：https://forms.gle/WVMaS8ATL4mLwmCJ7
+
 ## 找心理測驗企劃工具
 
 CC授權小幫手，有 github

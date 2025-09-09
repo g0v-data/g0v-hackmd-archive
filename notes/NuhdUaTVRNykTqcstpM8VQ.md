@@ -84,7 +84,7 @@ g0v Slack Channel Guide 頻道傳送門
 #jothon-local-support-地方社群支持方案
 #fundraising-救松團-募款執行
 #passp0rt 社群護照
-#jothon-stall-擺攤
+#booth-擺攤 申請擺攤、出攤協力
 #g0v-conservation-archive-文物保存
 #community99-社群九分鐘-撰寫工作頻道
 #g0v-database-專案清單-基礎建設清單
