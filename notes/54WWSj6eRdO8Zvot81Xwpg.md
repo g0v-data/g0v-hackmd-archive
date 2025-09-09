@@ -97,8 +97,11 @@ https://youtu.be/GucJ0lKmccw
         - 3.欄位格式、代碼等與母體資料相同，相較於統計資料，可更自由地進行各類交叉運算。
 - 電信信令人口統計應用指標查詢系統
     - https://semap.moi.gov.tw/STATSIGNAL/
-- 臺北市手機信令推估人口的應用探討
-    - https://tuic.gov.taipei/zh/works/mobile
+- 臺北市
+    - 250 公尺網格
+        - https://g0v.hackmd.io/sxYmXwiDTtq4Im0YqTFTCQ?view
+    - 臺北市手機信令推估人口的應用探討
+        - https://tuic.gov.taipei/zh/works/mobile
 - 運用信令大數據資料與抽樣調查方法推估人口參數之研究
     - https://hdl.handle.net/11296/apz46r
     - 摘要：
