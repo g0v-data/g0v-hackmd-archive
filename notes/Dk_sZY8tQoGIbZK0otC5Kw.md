@@ -84,18 +84,18 @@ https://g0v.hackmd.io/@Anan/BkZbLrD_eg
 
 
 
-人力逐字稿(練習專注使用）
+人力逐字稿(練習專注使用）:
 
 Peter:有討論工具，上禮拜 agora有比較大問題：
-1要驗證才能發表意見（要提供個人資料參與程度會降低，所以join平台大家意願不高），viewpoint fyz分析大家＆統計資料上的參考，也不能滿足大家需要。
+1要驗證才能發表意見（要提供個人資料參與程度會降低，所以join平台大家意願不高），viewpoint xyz分析大家＆統計資料上的參考，也不能滿足大家需要。
 2（？不知道是什麼）
 明天想把面海松的簡報處理好：一個提案（邀約大家來使用sensemaker，Peter可能會在Bestian開的 sense maker共筆英文版並製作成簡報)， 一個短講。
-今天語速語氣有變化，因為崖子手術恢復中，希望有幫助阿南可以記錄的比較清楚。ＸＤ
+今天語速語氣有變化，因為牙齒手術恢復中，希望有幫助阿南可以記錄的比較清楚。ＸＤ
 另外會定調面海松：就是針對 agora還有其他工具來做測試。會準備禮物邀請大家一起來玩（AI 和 詐騙題目），Josh上線了。
 
-Josh:剛剛Peter是否有解釋針對 agora 和 viewpoint的嘗試？
+Josh:剛剛Peter是否有解釋針對 Agora 和 Viewpoint的嘗試？
 
-Bestian:有 ，剛Ｐ有說 agora有兩個問題對單一意見的徵集是不利的，Viewpoint不能和？？整合？
+Bestian:有，剛Peter有說 Agora有兩個問題對單一意見的徵集是不利的，Viewpoint不能和？？整合？
 
 Josh:想問 Bestian，上星期五在探索 agora的主題性好像是在Agora，那 Bestian你是參與他們的討論，如果今天 Vtaiwan可以變成主題變成Vtaiwan的系統平台嗎？但如果是單一題目的嘗試是在agora的平台，那就變成是參與他們的討論？是嗎？
 
@@ -107,21 +107,21 @@ Josh:是否 vtaiwan 可以 fork agora比較理想？
 Bestia：fork成本比較高，但我有聽到 agora說可以把 agora討論 嵌入到 vtaiwan的網站，但是底層還是在 agora上。
 
 
-Josh:另外是現字ㄞ vtaiwan操作方式，目前有很多單一議題出現，且有持續性，但最大問題還是參與程度，能夠收集到一百個意見就算很厲害了。所以 參與的門檻就變得很重要，如果要變成以徵集大家意見為目的，討論學習審議是在實體空間操作，那目前agora要登入的程序就比較不適合 vtaiwan目前的方式。目前操作 polis的結果，那不知道未來要如何做取捨。
+Josh:另外是現字ㄞ vTaiwan操作方式，目前有很多單一議題出現，且有持續性，但最大問題還是參與程度，能夠收集到一百個意見就算很厲害了。所以 參與的門檻就變得很重要，如果要變成以徵集大家意見為目的，討論學習審議是在實體空間操作，那目前agora要登入的程序就比較不適合 vTaiwan目前的方式。目前操作 polis的結果，那不知道未來要如何做取捨。
 
 
 Bestian:目前polis.tw 和 pol.is兩站，有分群和 sensemaker功能，這是試試看用 pol.is也沒有什麼不好。
 
 
-Josh:說明一下為何 vTiwan使用 Pol.is ：很長時間pol.is沒有更新，要 csv檔案還要寫信給維護管理者，沒辦法要到data。之前 polis.tw是數發部在管理，要 csv很容易，但後來數發部也沒有在維護 polis.tw了。目前操作後台是有新功能，當作這次來試試看。可能最後只有 sensemaking有新的結果。不知道 Bestian認為要是用他們的sensemakeing還是我們的 sensemaker?
+Josh:說明一下為何 vTaiwan使用 Pol.is ：很長時間pol.is沒有更新，要 csv檔案還要寫信給維護管理者，沒辦法要到data。之前 polis.tw是數發部在管理，要 csv很容易，但後來數發部也沒有在維護 polis.tw了。目前操作後台是有新功能，當作這次來試試看。可能最後只有 sensemaking有新的結果。不知道 Bestian認為要是用他們的sensemakeing還是我們的 sensemaker?
 
 Bestian:pol.is目前更新已經可以自己下載 csv了。
 
-Josh:太好了。之前都不行，現在發現他們已經把 raw  data裝回來了
+Josh:太好了。之前都不行，現在發現他們已經把 raw data裝回來了
 
 Peter:不知道是不是拿到經費。之前發現很多人拿 pol.is做意見徵集。
 
-Peter:上週討論就是用 viewpoint syz，看 Josh要不要.....?
+Peter:上週討論就是用 viewpoint xyz，看 Josh要不要.....?
 
 Josh:我的想法這次還是用 pol.is，因為 Bestian說 viewpoint(?還是 agora?)沒辦法對接 sensemaking....
 
