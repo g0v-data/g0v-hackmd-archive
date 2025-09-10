@@ -53,6 +53,9 @@ https://youtu.be/HIDctI72T4o
 - 利用制限：全部利用 (ただし複製物)
     - 研判參考：著作物が自由に使える場合は？https://www.cric.or.jp/qa/hajime/hajime7.html
 
+臺北市 1904 水災
+https://www.facebook.com/share/p/1RXhQbgro8/
+
 臺南西市場 1911 年風災後原木造市場遭摧毀的景象照片
 - 影像建置單位：Lafayette Digital Repository https://ldr.lafayette.edu/about
 - 圖片來源：《臺灣寫真帖》第1卷第7集，1915。圖片取自 http://digital.lafayette.edu/collections/eastasia/cpw-shashinkai/ts0210
