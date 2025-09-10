@@ -88,6 +88,7 @@ community governance
 
 2025 小松紀錄 2025 Weekly Meetup
 ----
+- [vTaiwan in Facing the Ocean 2025](/QQeA5m3ATrK-Luqm3GdlKQ)
 - [20250910小松](/Dk_sZY8tQoGIbZK0otC5Kw)
 - [20250903小松](/lvO_ue-VRIGdeOwIuu-BSQ)
 - [20250827小松](/n2MBJpZHS0GZ4naVH2YUow)

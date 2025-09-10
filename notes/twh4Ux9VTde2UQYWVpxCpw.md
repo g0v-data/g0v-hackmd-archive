@@ -22,8 +22,8 @@ https://www.igf.org.tw/twigf-2025/2025-agenda/10822-2/
 
 1. 現行海纜狀況：台灣現行對外 12 個系統 / 16 條纜線（後續更新詳細清單），目前故障狀態
 
-https://smc.peering.tw
-https://www.submarinecablemap.com/country/taiwan
+- https://smc.peering.tw
+- https://www.submarinecablemap.com/country/taiwan
 
 2. 介紹與會來賓
 
