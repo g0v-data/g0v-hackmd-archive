@@ -58,7 +58,7 @@ tags: 公有地大行動
 ### 市有閒置空間整合查詢平台 ⛳
 
 - [臺北市市有閒置空間查詢平台<br>庫存頁面](https://web.archive.org/web/20200517084338/https://www.reformspace.taipei/)
-- [政策最新網址](https://propertyspace.gov.taipei/)[target=_blank]
+- [臺北市市產活化整合平台<br>庫存頁面](https://web.archive.org/web/20240414112359/https://propertyspace.gov.taipei/)[target=_blank]
 - [臺北市：推動歷程記錄文件](https://g0v.hackmd.io/WN_QBpNpQtO1oxd_r4IIjQ)
 - [基隆市：推動歷程記錄文件](https://g0v.hackmd.io/kXgIY_KzQN2uOhMYQW-JQw)
 
