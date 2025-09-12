@@ -71,6 +71,9 @@ This version is mainly for Peter to use at FtO 2025 Kaohsiung  on September 13�
 *(建議使用Chrome瀏覽器)(It is recommended to use the Chrome browser)*
 
 1. 進入[polis.tw](https://polis.tw)的報告頁report page
+    - Go to the polis.tw report page
+    - polis.tw のレポートページにアクセス
+    - polis.tw 보고서 페이지에 접속
 
 ![](https://g0v.hackmd.io/_uploads/rkim4eS5gl.png)
 
@@ -82,19 +85,40 @@ This version is mainly for Peter to use at FtO 2025 Kaohsiung  on September 13�
     * 過濾器打上「/api/v3/comments」
     * 重新載入頁面
     * 會找到唯一一個JSON格式的資料，就是它
-
+- Open Developer Tools, and locate the JSON returned by GET /api/v3/comments.
+    - In Developer Tools, select “Network” > “All” > “Response”
+    - Enter “/api/v3/comments” in the filter
+    - Reload the page
+    - You will find the only JSON file — that’s the one
+- 開発者ツール を開き、GET /api/v3/comments で返された JSON を探す。
+    - 開発者ツールで「ネットワーク」>「すべて」>「レスポンス」を選択
+    - フィルターに「/api/v3/comments」と入力
+    - ページを再読み込み
+    - 唯一の JSON データが見つかる — それが対象
+- 개발자 도구를 열고, GET /api/v3/comments 요청으로 반환된 JSON을 찾기.
+    - 개발자 도구에서 “네트워크” > “전체” > “응답” 선택
+    - 필터에 “/api/v3/comments” 입력
+    - 페이지 새로고침
+    - 하나뿐인 JSON 데이터를 찾을 수 있음 — 그것이 대상
 ![](https://g0v.hackmd.io/_uploads/S1rc6zjHeg.png)
 
 
 3. 把它全選複製
-
+    - Select and copy the entire content
+    - それを全選択してコピーする
+    - 전체를 선택하여 복사
 4. 在電腦中開新檔案，命名為polis_report.json
-
-
+    - Create a new file on your computer, and name it polis_report.json
+    - パソコンで新しいファイルを作成し、polis_report.json という名前を付ける
+    - 컴퓨터에서 새 파일을 만들고 polis_report.json 이라고 이름 지정
 5. 把剛才複製的全文貼上
-
+    - Paste the copied content into the file
+    - コピーした全文を貼り付ける
+    - 방금 복사한 전체 내용을 붙여넣기
 6. 檢核: 您可以額外用[JSON Lint網路工具](https://jsonlint.com/)，把全文貼上，以檢查您的JSON有無漏掉的部分？(有漏掉的部分，格式不完整就無法生成報告)
-
+    - Validation: You may use the JSON Lint online tool to paste the content and check whether your JSON is complete. (If any part is missing, the incomplete format will prevent the report from being generated.)
+    - 検証：追加で JSON Lintオンラインツール を利用し、全文を貼り付けて JSON が欠落していないか確認する。（欠落部分があると形式が不完全となり、レポートを生成できない）
+    - 검증: JSON Lint 온라인 도구를 사용하여 전체 내용을 붙여넣고 JSON에 누락된 부분이 없는지 확인 가능 (누락이 있으면 형식이 불완전하여 보고서를 생성할 수 없음)
 
 
 ## 重頭戲：上傳資料給Sensemaker
@@ -131,29 +155,29 @@ This version is mainly for Peter to use at FtO 2025 Kaohsiung  on September 13�
 6. 會有一則警語提醒模型有不穩定性
     - A warning message will appear reminding you of the model’s instability
     - モデルの不安定性について警告メッセージが表示される
-    - 
+    - 모델의 불안정성에 대한 경고 메시지가 표시됨
 
 ![](https://g0v.hackmd.io/_uploads/BJ1nPeH5lg.png)
 
 7. 重試模式可以自由選擇(建議是使用預設的「正常模式」)
     - Retry mode can be freely chosen (recommended to use the default “Normal Mode”)
     - リトライモードは自由に選択可能（デフォルトの「通常モード」を推奨）
-    - 
+    - 재시도 모드는 자유롭게 선택 가능 (기본값인 “정상 모드” 권장)
 
 8. 按「選擇檔案」把前置準備的polis_report.json上傳
     - Click “Choose File” to upload the polis_report.json prepared earlier
     - 「ファイルを選択」をクリックし、事前準備した polis_report.json をアップロードする
-    - 
+    - 파일 선택”을 눌러 사전 준비한 polis_report.json 업로드
 
 9. 按「開始分析」鈕
     - Click the “Start Analysis” button
     - 「分析開始」ボタンをクリックする
-    - 
+    - “분석 시작” 버튼 클릭
 
 10. 靜候5~25分鐘(視資料量大小而異)，就可以看到報告
     - Wait 5–25 minutes (depending on the data size) to see the report
     - 5〜25分待つ（データ量によって異なる）と、レポートが表示される
-    - 
+    - 5~25분 대기 (데이터 양에 따라 다름) 후 보고서 확인 가능
 
 ![](https://g0v.hackmd.io/_uploads/ByaRtgH9ee.png)
 
@@ -161,6 +185,7 @@ This version is mainly for Peter to use at FtO 2025 Kaohsiung  on September 13�
 11. 報告出來後，下方會多一個「下載Markdown」按鈕，按下去即可下載報告(markdown格式)到電腦中
     - Once the report is generated, a “Download Markdown” button will appear below. Click it to download the report (in Markdown format) to your computer.
     - レポートが生成された後、下部に「Markdownをダウンロード」ボタンが表示される。それをクリックしてレポート（Markdown形式）をPCにダウンロードする。
+    - 보고서가 생성된 후, 하단에 “Markdown 다운로드” 버튼이 추가됨. 클릭하면 보고서(Markdown 형식)를 PC에 다운로드할 수 있음.
 
 
 
