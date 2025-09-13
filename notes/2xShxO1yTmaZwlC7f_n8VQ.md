@@ -28,8 +28,8 @@ tags: food,
 | 店名  Name                                          | 地址     Address               | 說明      Note                                                                                         | Google Map                                |
 | --------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------ | ----------------------------------------- |
 | [興隆居傳統早點美食 Xinglongju Traditional Breakfast](https://share.google/R13UIxhJWKeTGlbim) | 800高雄市新興區復興一路25號    | 以包子、豆漿與飯糰聞名的早餐店 A breakfast shop famous for its steamed buns, soy milk, and rice balls. | https://share.google/iQDUhS5WfNBcgvIex    |
-| [老江紅茶牛奶  Lao Jiang Milk Tea & Black Tea / Lao Chiang Milk & Tea ](https://https://maps.app.goo.gl/vD1bRWAWMt9wHZLK9)              | 802高雄市苓雅區三多三路214-3號 | 以蛋餅、吐司系列的餐點，以及香醇濃厚的鮮奶茶聞名的早餐店 24小時營業 A breakfast shop famous for its egg pancakes, toast varieties, and rich, flavorful milk tea. 24H  | https://maps.app.goo.gl/FqiZimpnq5eKFsp46 |
-| [田記豆漿  Tien-Ji Soy Milk / Tien Ji Traditional Soy Milk Breakfast](https://https://maps.app.goo.gl/sajRCFFi7ixaNsyx9)                   | 803高雄市鹽埕區新樂街75之3號   | 位在捷運站附近，以蛋餅與燒餅聞名的早餐店 A breakfast shop located near the MRT station, famous for its egg pancakes and baked flatbreads. | https://share.google/3yijP7bDodDFvaV3g    |
+| [老江紅茶牛奶  Lao Jiang Milk Tea & Black Tea / Lao Chiang Milk & Tea ](https://maps.app.goo.gl/vD1bRWAWMt9wHZLK9)              | 802高雄市苓雅區三多三路214-3號 | 以蛋餅、吐司系列的餐點，以及香醇濃厚的鮮奶茶聞名的早餐店 24小時營業 A breakfast shop famous for its egg pancakes, toast varieties, and rich, flavorful milk tea. 24H  | https://maps.app.goo.gl/FqiZimpnq5eKFsp46 |
+| [田記豆漿  Tien-Ji Soy Milk / Tien Ji Traditional Soy Milk Breakfast](https://maps.app.goo.gl/sajRCFFi7ixaNsyx9)                   | 803高雄市鹽埕區新樂街75之3號   | 位在捷運站附近，以蛋餅與燒餅聞名的早餐店 A breakfast shop located near the MRT station, famous for its egg pancakes and baked flatbreads. | https://share.google/3yijP7bDodDFvaV3g    |
 
 
 ### 午餐 Lunch 
