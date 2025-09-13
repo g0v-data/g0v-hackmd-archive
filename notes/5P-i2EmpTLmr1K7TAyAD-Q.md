@@ -1,5 +1,5 @@
 ---
-tags:
+tags: RS, 
 ---
 
 # 諧音_探討素材
@@ -12,6 +12,10 @@ https://www.facebook.com/share/p/1CAFgm6C2x/
 《為什麼台灣充滿了諧音梗？》人類學研究觀點
 https://guavanthropology.tw/article/7073
 
+和諧 vs 諧音
+河蟹 vs 協因
+Suppression vs Synergy
+
 ## 機制
 
 觀察本頻道案例，蠻多是透過「縮頭字」或是「換一種唸法」的方式，來得到「同音換字」諧音梗結果
@@ -21,3 +25,5 @@ https://guavanthropology.tw/article/7073
 
 相關筆記
 https://docs.google.com/document/d/1Rk78cjbeeEyp9dZVWdXG5dpDQhveeVS5ankYD3KwXbQ/edit?tab=t.0#heading=h.1t9bfxu3gj2b
+
+
