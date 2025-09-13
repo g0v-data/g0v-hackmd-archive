@@ -10,6 +10,7 @@ https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
 - 提案簡報 Presentation: https://docs.google.com/presentation/d/1-TRkdhn1ngJ0NhPdOWhiKUhaHvd9C9_3L7YlgExu71A/edit?usp=sharing 
 
+
 ## Sensemaker Testing
 - 我們的目標：希望邀請使用者一起來玩玩看 sensemaker，一起來測試用 AI 分析大規模的意見是否準確，並且看看可以應用在哪些場景之中。
     - Our goal: We would like to invite users to try out Sensemaker, to test whether AI can accurately analyze large-scale opinions, and to explore in which scenarios it can be applied.
@@ -41,7 +42,7 @@ https://www.vtaiwan.tw/jitsi
 
 ## Process of Handling the Uber Issue through Pol.is + vTaiwan
 
-| **步驟 / Step**                                              | **中文 / Chinese**                                                                                                                   | **English**                                                                                                                                                                                                                                                                                                                                       |
+| **步驟 / Step**                                              | **中文 / Madarin**                                                                                                                   | **English**                                                                                                                                                                                                                                                                                                                                       |
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **議題啟動 / Issue Launch**                                    | 約在 2015 年，Uber 的運營模式與合法性問題在臺灣引起爭議。政府受到社會壓力，要處理新型載客服務模式的法規調整問題。vTaiwan 將 Uber 納入首批「共享經濟 / 新型交通服務」檢討案件。([compdemocracy.org][3])    | Around 2015, Uber’s business model and legality became a hot issue in Taiwan. The government faced public pressure to address regulatory gaps for these emerging ride-hailing services. vTaiwan identified Uber as one of the first cases under the “sharing economy/new transportation services” category. ([compdemocracy.org][3])            |
 | **線上民意徵集 / Online Public Input via Pol.is**                | vTaiwan 團隊進行為期四週的 Pol.is 線上互動，開放乘客、Uber 駕駛、計程車駕駛與其他相關利害人參與討論 UberX 模式。([blog.pol.is][4])                                         | The vTaiwan team conducted a four-week Pol.is interaction, allowing passengers, Uber drivers, taxi drivers, and other stakeholders to share views on the UberX model. ([blog.pol.is][4])                                                                                                                                                        |
