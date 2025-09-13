@@ -25,9 +25,9 @@ This version is mainly for Peter to use at FtO 2025 Kaohsiung  on September 13�
 
 ## 如何上手使用SenseMaker？How to get started with SenseMaker?
 
-- 方法不只一種，本文介紹的是透過Web UI，快速上傳資料並生成報告的方法：
-    - There is more than one way. This article introduces the method of using the Web UI to quickly upload data and generate a report:
-    - 方法は一つではありません。本稿で紹介するのは、Web UI を通じてデータを素早くアップロードし、レポートを生成する方法です。
+- 方法不只一種，本文介紹的是透過[Web UI](https://github.com/g0v/sensemaker-frontend)，快速上傳資料並生成報告的方法：
+    - There is more than one way. This article introduces the method of using the [Web UI](https://github.com/g0v/sensemaker-frontend) to quickly upload data and generate a report:
+    - 方法は一つではありません。本稿で紹介するのは、[Web UI](https://github.com/g0v/sensemaker-frontend) を通じてデータを素早くアップロードし、レポートを生成する方法です。
     - 방법은 하나만 있는 것이 아닙니다. 본문에서 소개하는 것은 Web UI를 통해 데이터를 빠르게 업로드하고 보고서를 생성하는 방법입니다.
 
 
@@ -66,9 +66,12 @@ This version is mainly for Peter to use at FtO 2025 Kaohsiung  on September 13�
 
 
 
-## 前置準備2：導出Polis.tw的原始意見資料 Preparation 2: Export the raw opinion data from Polis.tw.
+## 前置準備2：導出 polis.tw 或 pol.is 的原始意見資料 Preparation 2: Export the raw opinion data from polis.tw or pol.is.
 
-*(建議使用Chrome瀏覽器)(It is recommended to use the Chrome browser)*
+*(note1: 如果您的徵集是用 pol.is，可以直接導出報告頁的comments.csv來使用)(If your collection uses pol.is, you can directly export the comments.csv file from the report page for use.)*
+
+*(note2: 以下導出 polis.tw 原始資料的操作。建議使用Chrome瀏覽器)(The following steps explain how to export the raw data from polis.tw. It is recommended to use the Chrome browser.)*
+
 
 1. 進入[polis.tw](https://polis.tw)的報告頁report page
     - Go to the polis.tw report page
@@ -85,17 +88,17 @@ This version is mainly for Peter to use at FtO 2025 Kaohsiung  on September 13�
     * 過濾器打上「/api/v3/comments」
     * 重新載入頁面
     * 會找到唯一一個JSON格式的資料，就是它
-- Open Developer Tools, and locate the JSON returned by GET /api/v3/comments.
+- Open [Developer Tools](https://developer.chrome.com/docs/devtools/open), and locate the JSON returned by GET /api/v3/comments.
     - In Developer Tools, select “Network” > “All” > “Response”
     - Enter “/api/v3/comments” in the filter
     - Reload the page
     - You will find the only JSON file — that’s the one
-- 開発者ツール を開き、GET /api/v3/comments で返された JSON を探す。
+- [開発者ツール を](https://developer.chrome.com/docs/devtools/open?hl=ja)開き、GET /api/v3/comments で返された JSON を探す。
     - 開発者ツールで「ネットワーク」>「すべて」>「レスポンス」を選択
     - フィルターに「/api/v3/comments」と入力
     - ページを再読み込み
     - 唯一の JSON データが見つかる — それが対象
-- 개발자 도구를 열고, GET /api/v3/comments 요청으로 반환된 JSON을 찾기.
+- [개발자 도구를](https://developer.chrome.com/docs/devtools/open?hl=ko) 열고, GET /api/v3/comments 요청으로 반환된 JSON을 찾기.
     - 개발자 도구에서 “네트워크” > “전체” > “응답” 선택
     - 필터에 “/api/v3/comments” 입력
     - 페이지 새로고침
@@ -116,9 +119,9 @@ This version is mainly for Peter to use at FtO 2025 Kaohsiung  on September 13�
     - コピーした全文を貼り付ける
     - 방금 복사한 전체 내용을 붙여넣기
 6. 檢核: 您可以額外用[JSON Lint網路工具](https://jsonlint.com/)，把全文貼上，以檢查您的JSON有無漏掉的部分？(有漏掉的部分，格式不完整就無法生成報告)
-    - Validation: You may use the JSON Lint online tool to paste the content and check whether your JSON is complete. (If any part is missing, the incomplete format will prevent the report from being generated.)
-    - 検証：追加で JSON Lintオンラインツール を利用し、全文を貼り付けて JSON が欠落していないか確認する。（欠落部分があると形式が不完全となり、レポートを生成できない）
-    - 검증: JSON Lint 온라인 도구를 사용하여 전체 내용을 붙여넣고 JSON에 누락된 부분이 없는지 확인 가능 (누락이 있으면 형식이 불완전하여 보고서를 생성할 수 없음)
+    - Validation: You may use the [JSON Lint online tool](https://jsonlint.com/) to paste the content and check whether your JSON is complete. (If any part is missing, the incomplete format will prevent the report from being generated.)
+    - 検証：追加で [JSON Lint](https://jsonlint.com/)オンラインツール を利用し、全文を貼り付けて JSON が欠落していないか確認する。（欠落部分があると形式が不完全となり、レポートを生成できない）
+    - 검증: [JSON Lint](https://jsonlint.com/) 온라인 도구를 사용하여 전체 내용을 붙여넣고 JSON에 누락된 부분이 없는지 확인 가능 (누락이 있으면 형식이 불완전하여 보고서를 생성할 수 없음)
 
 
 ## 重頭戲：上傳資料給Sensemaker
