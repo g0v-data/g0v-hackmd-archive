@@ -23,6 +23,6 @@ https://www.vtaiwan.tw/jitsi
     - Please refer to the following instructions and give it a try!
     - 以下の使用説明を参考にして、一緒に試してみましょう！
     - 아래 사용 설명을 참고하시고, 함께 해봐요!
-- [SenseMaker使用說明 Instruction V2](https://g0v.hackmd.io/vjYMEjYqRmGfYc0hScQkWg?both)
+- [SenseMaker使用說明 Instruction V2](https://g0v.hackmd.io/vjYMEjYqRmGfYc0hScQkWg?view)
 
 ## Opinion Gathering 
