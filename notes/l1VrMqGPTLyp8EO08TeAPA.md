@@ -7,8 +7,14 @@
 
 ## 可能的資料來源 Possible Data Sources
 
-- 各業者官網 Official Website
-- [政府資料開放平台](https://data.gov.tw/)
+- 各業者官網 Respective Official Websites
+- [政府資料開放平台 Open Data Platform](https://data.gov.tw/)
+- [全資料地圖 All the Places](https://alltheplaces.xyz/)
+    - 看起來是 WikiData 相關專案
+    - 注意事項 Caveats：
+        - 銀行分行跟 ATM 會列在一起，要特別用 `amenity=atm` 篩選
+        - 部分品牌爬蟲不會標示 `_tw`（例如永豐銀行 `bank_sinopac`），整理銀行列表時需要手動處理
+    - [共編分類 Categorization Collab](https://docs.google.com/spreadsheets/d/1SCzLBIPhkLy701dzY4MLu1OyPK0APh0xMC-NBDyDZdo/edit)
 
 ## 圖層許願 Data Wishlist
 
