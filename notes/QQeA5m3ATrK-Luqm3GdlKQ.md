@@ -27,8 +27,7 @@ https://www.vtaiwan.tw/jitsi
 
 # 歷史案例研究 Historical Case Study
 
-詳細說明：https://hackmd.io/Os5_JBm_RPiWBnZ8v9EpFQ?view
-For Detail: https://hackmd.io/Os5_JBm_RPiWBnZ8v9EpFQ?view
+[詳細說明/For Detail](https://hackmd.io/Os5_JBm_RPiWBnZ8v9EpFQ?view)
 
 ### Reports
 
