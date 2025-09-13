@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [「SenseMaker意見綜整器」使用說明(V2)](../notes/vjYMEjYqRmGfYc0hScQkWg.md) | 2025-09-13T08:33:42+00:00 | 2025-09-02T22:30:28+00:00 |
-| 2 | [vTaiwan in Facing the Ocean 2025](../notes/QQeA5m3ATrK-Luqm3GdlKQ.md) | 2025-09-12T23:51:47+00:00 | 2025-09-10T11:06:26+00:00 |
+| 1 | [vTaiwan in Facing the Ocean 2025](../notes/QQeA5m3ATrK-Luqm3GdlKQ.md) | 2025-09-13T19:56:34+00:00 | 2025-09-10T11:06:26+00:00 |
+| 2 | [「SenseMaker意見綜整器」使用說明(V2)](../notes/vjYMEjYqRmGfYc0hScQkWg.md) | 2025-09-13T08:33:42+00:00 | 2025-09-02T22:30:28+00:00 |
 | 3 | [「Agora Citizen公民審議平台」使用說明(V1)](../notes/JNyULIFAQK6XgQADc2G7JQ.md) | 2025-09-04T06:51:53+00:00 | 2025-09-03T05:19:34+00:00 |
 | 4 | [「SenseMaker意見綜整器」使用說明(V1)](../notes/6mzxQkY3Sr6ILYSfSMsqVg.md) | 2025-09-02T23:39:04+00:00 | 2025-07-07T01:59:56+00:00 |
 | 5 | [AI 用於數位公民參與經驗共筆](../notes/nJUYukWFSWuEsG-XQalHcA.md) | 2025-07-11T15:43:15+00:00 | 2025-06-03T17:12:28+00:00 |
