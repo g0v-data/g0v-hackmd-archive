@@ -21,12 +21,15 @@
 - 公共電話 Public Telephone
     - [CHT Wi-Fi熱點查詢](https://www.cht.com.tw/home/cht/service/hotspotfinder)的查詢欄可以選公共電話亭。
     - [提供一卡通付費之中華電信公共電話位置資訊](https://www.i-pass.com.tw/CKPackage/files/ChtPublicTelephoneInfo160411.pdf)
+    - [開放街圖公共電話位置資訊](https://overpass-turbo.eu/s/2bzS)
 - 飲水機 Water Fountain
     - [奉茶行動APP](https://www.circuplus.org/water-refill-map/) 
+    - [開放街圖飲水源資訊](https://overpass-turbo.eu/s/2bzY)
 - 公共廁所 Public Toilet
   - 雲林
     - 資料來源 Data Source：[在雲林的無障礙廁所清單](https://data.gov.tw/dataset/174494)
     - 格式 Format：XLSX, CSV, XML, JSON
+  - [開放街圖廁所資訊](https://overpass-turbo.eu/s/2bzZ)
 - 郵局 Post Office
   - 資料來源 Data Source：[郵局全國營業據點](https://data.gov.tw/dataset/5950)
   - 格式 Format：CSV
