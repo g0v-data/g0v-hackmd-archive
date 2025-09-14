@@ -20,3 +20,17 @@
 *   **[mrorz]** 著手進行 `cofacts/devops-manual` 的撰寫。
 *   **[mrorz]** 設定 cofacts-api 的 303 redirect。
 *   **[bil]** 準備十月小聚，預定小樹屋。
+
+
+## 0914 downtime
+
+db 17:26 左右出現 gc 的 log
+db 剛好在 21:17 重啟
+https://cloudlogging.app.goo.gl/1WSpg5rRY6ETY9HH9
+
+### Linode
+![](https://g0v.hackmd.io/_uploads/SJICDKEsle.png)
+
+19:10 load 下降
+19:40 load 又開始變高
+
