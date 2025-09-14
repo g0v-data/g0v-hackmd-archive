@@ -1,323 +1,327 @@
-![](https://g0v.hackmd.io/_uploads/S1je6gVsgg.jpg)
-Đánh bài là trò chơi dân gian phổ biến, gồm nhiều biến thể như tiến lên, phỏm, poker hay blackjack. Trò chơi này vừa mang tính giải trí, vừa đòi hỏi sự tính toán, chiến lược và may mắn trong từng ván bài.
+![](https://g0v.hackmd.io/_uploads/rkSa24Eoxe.jpg)
+Tài xỉu là trò chơi gieo súc xắc có nguồn gốc châu Á, dựa vào tổng điểm của ba viên xúc xắc để phân định thắng thua. Luật chơi đơn giản, dễ hiểu nhưng vẫn hấp dẫn, kịch tính và giàu yếu tố may rủi.
 
-Website : https://danhbai.cc/
+Website : https://taixiu.in/
 
-Địa chỉ : 73 Ông Ích Khiêm, Đà Nẵng, Việt Nam
+Địa chỉ : 888 Nguyễn Văn Thoại, Đà Nẵng, Việt Nam
 
-Phone : +84982914404
+Phone : +84971936220
 
-Email : danhbaicc@support.com
+Email : taixiuin@support.com
 
-Hashtags : #danh_bai #bai_phom #bai_tien_len #bai_xi_to #bai_lieng
+Hashtags : #tai_xiu #tai_xiu_online #tai_xiu_an_tien #nha_cai_tai_xiu
 
 
-https://www.facebook.com/danhbaicc/
+https://www.facebook.com/taixiuin/
 
-https://twitter.com/danhbaicc
+https://twitter.com/taixiuin
 
-https://www.youtube.com/@danhbaicc
+https://www.youtube.com/@taixiuin
 
-https://500px.com/p/danhbaicc
+https://500px.com/p/taixiuin
 
-https://www.tumblr.com/danhbaicc
+https://www.tumblr.com/taixiuin
 
-https://www.twitch.tv/danhbaicc/about
+https://www.twitch.tv/taixiuin/about
 
-https://www.pinterest.com/danhbaicc/
+https://www.pinterest.com/taixiuin/
 
-https://linkgenie.net/danhbaicc
+https://www.bigoven.com/user/tixu1
 
-https://vocal.media/authors/danh-bai-3o24no0dak
+https://cloutapps.com/taixiuin
 
-https://boss.why3s.cc/boss/home.php?mod=space&uid=231367
+https://monopinion.namur.be/profiles/taixiuin/activity
 
-https://cloutapps.com/danhbaicc
+https://git.forum.ircam.fr/taixiuin
 
-https://monopinion.namur.be/profiles/danhbaicc/activity
+https://www.speedway-world.pl/forum/member.php?action=profile&uid=407393
 
-https://git.forum.ircam.fr/danhbaicc
+https://www.bandlab.com/taixiuin
 
-https://xoops.ec-cube.net/userinfo.php?uid=323419
+https://xoops.ec-cube.net/userinfo.php?uid=323433
 
-https://www.speedway-world.pl/forum/member.php?action=profile&uid=407382
+https://prosinrefgi.wixsite.com/pmbpf/profile/taixiuin/profile
 
-https://www.bandlab.com/danhbaicc
+https://www.ixawiki.com/link.php?url=https://taixiu.in/
 
-https://prosinrefgi.wixsite.com/pmbpf/profile/danhbaicc/profile
+https://hukukevi.net/user/taixiuin
 
-https://hukukevi.net/user/danhbaicc
+https://www.socialbookmarkssite.com/bookmark/6067865/t-i-x-u/
 
-https://qooh.me/danhbaicc
+https://www.fintact.io/user/taixiuin
 
-https://www.fintact.io/user/danhbaicc
+https://www.chordie.com/forum/profile.php?id=2387696
 
-https://www.chordie.com/forum/profile.php?id=2387641
+https://qooh.me/taixiuin
 
-https://www.ixawiki.com/link.php?url=https://danhbai.cc/
+https://civitai.com/user/taixiuin
 
-https://allmyfaves.com/danhbaicc
+http://www.askmap.net/location/7537574/vietnam/t%C3%A0i-x%E1%BB%89u
 
-https://civitai.com/user/danhbaicc
+https://allmyfaves.com/taixiuin
 
-https://www.socialbookmarkssite.com/bookmark/6067819/nh-b-i/
+https://www.dermandar.com/user/taixiuin/
 
-https://www.dermandar.com/user/danhbaicc/
+https://doodleordie.com/profile/taixiuin
 
-http://www.askmap.net/location/7537464/vietnam/%C4%91%C3%A1nh-b%C3%A0i
+https://www.giveawayoftheday.com/forums/profile/1192116
 
-https://doodleordie.com/profile/danhbaicc
+https://www.faceparty.com/taixiuin1
 
-https://www.giveawayoftheday.com/forums/profile/1191872
+https://experiment.com/users/taixiuin
 
-https://my.archdaily.com/us/@danh-bai-5
+https://javabyab.com/user/taixiuin
 
-https://www.faceparty.com/danhbaicc
+https://my.archdaily.com/us/@tai-xiu-44
 
-https://experiment.com/users/danhbaicc
+https://www.friend007.com/taixiuin
 
-https://javabyab.com/user/danhbaicc
+https://www.slideserve.com/taixiuin
 
-https://www.bigoven.com/user/danhbaicc
+https://medium.com/@taixiuin
 
-https://www.slideserve.com/danhbaicc
+https://anyflip.com/homepage/qwklr/preview#About
 
-https://www.friend007.com/danhbaicc
+http://www.webclap.com/php/jump.php?url=https://taixiu.in/
 
-https://medium.com/@danhbaicc
+https://www.speedrun.com/fr-FR/users/taixiuin
 
-https://anyflip.com/homepage/hymldd/preview#About
+https://www.fitday.com/fitness/forums/members/taixiuin.html
 
-http://www.webclap.com/php/jump.php?url=https://danhbai.cc/
+https://www.renderosity.com/users/id:1776176
 
-https://www.speedrun.com/fr-FR/users/danhbaicc
+https://www.heavyironjobs.com/profiles/7171725-tai-x-u
 
-https://www.renderosity.com/users/id:1776126
+https://www.intensedebate.com/people/taixiuin1
 
-https://www.fitday.com/fitness/forums/members/danhbaicc.html
+https://culturesbook.com/1757839891787467_44396
 
-https://ve.enrollbusiness.com/BusinessProfile/7556018/%C4%90%C3%A1nh-B%C3%A0i-San-Pedro-Carch%C3%A1-Alta-Verapaz
+https://www.callupcontact.com/b/businessprofile/Ti_Xu/9799139
 
-https://www.yumpu.com/user/danhbaicc
+https://freeicons.io/profile/823452
 
-https://4fund.com/profile/danh-bai-864299
+https://startupxplore.com/en/person/tai-xu-14
 
-https://securityheaders.com/?q=https%3A%2F%2Fdanhbai.cc%2F&followRedirects=on
+https://substance3d.adobe.com/community-assets/profile/org.adobe.user:780E22EC68C674E30A495E2A@AdobeID
 
-https://www.wattpad.com/user/danhbaicc
+https://startupxplore.com/en/person/tai-xu-14
 
-https://m.wibki.com/danhbaicc
+https://pxhere.com/vi/photographer/4754966
 
-https://www.vevioz.com/danhbaicc
+https://hackmd.io/@taixiuin/taixiuin
 
-https://wpfr.net/support/utilisateurs/danhbaicc/
+https://www.remoteworker.co.uk/profiles/7171671-tai-x-u
 
-https://iglinks.io/trieugiang781q-akz
+https://pantip.com/profile/9047972
 
-https://www.gaiaonline.com/profiles/danhbaicc/50561138/
+https://drill.lovesick.jp/drilldata/index.php?taixiuin
 
-https://aiplanet.com/profile/danhbaicc
+https://leetcode.com/u/taixiuin/
 
-https://www.mapleprimes.com/users/danhbaicc
+https://www.mindmeister.com/users/channel/127220476
 
-https://www.dday.it/profilo/danhbaicc
+https://www.globalbusinesslisting.org/t-i-xu
 
-https://bresdel.com/danhbaicc
+https://comicvine.gamespot.com/profile/taixiuin/
 
-https://www.blackhatprotools.info/member.php?248898-danhbaicc
+https://boss.why3s.cc/boss/home.php?mod=space&uid=231382
 
-https://www.niftygateway.com/@danhbaicc/
+https://allods.my.games/forum/index.php?page=User&userID=199336
 
-http://www.daojianchina.com/home.php?mod=space&uid=407138
+https://ilm.iou.edu.gm/members/taixiuin/
 
-https://www.aicrowd.com/participants/danhbaicc
+https://www.bitsdujour.com/profiles/C0XlkP
 
-https://blueprintue.com/profile/danhbaicc/
+http://www.taixiuin.builderspot.com/index.html
 
-https://wibki.com/danhbaicc
+https://eo-college.org/members/taixiuin/
 
-https://videos.muvizu.com/Profile/danhbaicc/Latest/
+https://www.passes.com/taixiuin
 
-https://www.jointcorners.com/danhbaicc
+https://scrapbox.io/taixiuin/T%C3%A0i_X%E1%BB%89u
 
-https://dapp.orvium.io/profile/%C4%91anh--bai
+https://www.behance.net/taixiuin
 
-https://peatix.com/user/27782748/view
+https://tapas.io/taixiuin
 
-https://rapidapi.com/user/trieugiang781q
+https://tixu92.website3.me/
 
-https://phijkchu.com/a/danhbaicc/video-channels
+https://tutorialslink.com/member/T%C3%83%C2%A0iX%C3%A1%C2%BB%C2%89uundefined/69851
 
-https://jobs.landscapeindustrycareers.org/profiles/7170503-danh-bai
+https://gravatar.com/taixiuin
 
-https://classificados.acheiusa.com/profile/Njh4dEpKMUJ1ZlpDWVdvWnFvMmNLQT09
+https://www.openstreetmap.org/user/taixiuin
 
-https://estar.jp/users/1910363682
+https://profile.hatena.ne.jp/taixiuin/
 
-https://meta.decidim.org/profiles/danhbaicc/activity
+https://twitback.com/taixiuin
 
-https://matkafasi.com/user/danhbaicc
+https://issuu.com/taixiuin
 
-https://pixelfed.uno/i/web/profile/872680196368211436
+https://disqus.com/by/taixiuin/about/
 
-https://link.space/@danhbaicc
+https://www.pubpub.org/user/tai-xiu-239
 
-https://www.4shared.com/u/U6NfUHqe/trieugiang781q.html
+https://about.me/taixiuin
 
-http://freestyler.ws/user/579336/danhbaicc
+https://www.mixcloud.com/taixiuin/
 
-https://jali.me/danhbaicc
+https://www.zazzle.com.au/mbr/238108800891766998
 
-https://www.zophar.net/forums/index.php?members/danhbaicc.122199/#about
+https://au.localbook.org/user/profile/tixu
 
-https://740171.8b.io/
+https://www.producthunt.com/@taixiuin
 
-https://unityroom.com/users/bqrj39m2eugpwnkcf4lt
+https://www.freelistingaustralia.com/listings/tai-xiu
 
-https://decidim.santcugat.cat/profiles/danhbaicc/activity
+https://3ddd.ru/users/taixiuin
 
-https://confengine.com/user/danhbaicc
+https://www.bunyipclassifieds.com.au/australia/%C4%91%C3%A0-n%E1%BA%B5ng/adult-education%C2%A0/t%C3%A0i-x%E1%BB%89u
 
-https://www.silverstripe.org/ForumMemberProfile/show/265407
+https://taixiu5.mypixieset.com/
 
-https://biolinky.co/danhbaicc
+https://www.decidim.barcelona/profiles/taixiuin/activity
 
-https://whyp.it/users/107858/danhbaicc
+https://pixabay.com/users/52278648/
 
-https://youbiz.com/profile/danhbaicc/
+https://www.yumpu.com/user/taixiuin
 
-http://phpbt.online.fr/profile.php?mode=view&uid=65743
+https://4fund.com/profile/tai-x%E1%BB%89u-590884
 
-https://bbs.airav.cc/home.php?mod=space&uid=3942839
+https://securityheaders.com/?q=https%3A%2F%2Ftaixiu.in%2F&followRedirects=on
 
-https://linktr.ee/danhbaicc
+https://www.wattpad.com/user/taixiuin
 
-https://pastebin.com/u/danhbaicc
+https://m.wibki.com/taixiuin
 
-https://www.malikmobile.com/danhbaicc
+https://www.vevioz.com/taixiuin
 
-https://travelwithme.social/danhbaicc
+https://wpfr.net/support/utilisateurs/taixiuin/
 
-https://expatguidekorea.com/profile/danhbaicc/
+https://iglinks.io/tranthaophan6046-jgz
 
-https://www.foriio.com/danhbaicc
+https://www.gaiaonline.com/profiles/taixiuin/50561254/
 
-https://www.circleme.com/danhbaicc
+https://aiplanet.com/profile/taixiuin
 
-https://bluegrasstoday.com/directories/dashboard/reviews/danhbaicc/
+https://www.mapleprimes.com/users/taixiuin
 
-https://gram.social/danhbaicc
+https://www.dday.it/profilo/taixiuin
 
-https://magic.ly/danhbaicc
+https://bresdel.com/taixiuin
 
-https://slidehtml5.com/homepage/rwmg#About
+https://www.blackhatprotools.info/member.php?248948-taixiuin
 
-https://wirtube.de/a/danhbaicc/video-channels
+https://www.niftygateway.com/@taixiuin/
 
-https://www.aseeralkotb.com/en/profiles/danhbaicc
+http://www.daojianchina.com/home.php?mod=space&uid=407784
 
-https://bbs.mofang.com.tw/home.php?mod=space&uid=2181128
+https://www.aicrowd.com/participants/taixiuin
 
-https://jobs.suncommunitynews.com/profiles/7170824-danh-bai
+https://blueprintue.com/profile/taixiuin/
 
-https://lifeinsys.com/user/danhbaicc
+https://wibki.com/taixiuin
 
-https://www.wvhired.com/profiles/7170832-danh-bai
+https://www.jointcorners.com/taixiuin
 
-https://sfx.thelazy.net/users/u/danhbaicc/
+https://dapp.orvium.io/profile/tai--xiu-2159
 
-https://www.mateball.com/danhbaicc
+https://peatix.com/user/27784427/view
 
-https://www.investagrams.com/Profile/danhbaicc
+https://rapidapi.com/user/tranthaophan6046
 
-https://openlibrary.org/people/danhbaicc
+https://phijkchu.com/a/taixiuin/video-channels
 
-https://www.behance.net/danhbaicc
+https://jobs.landscapeindustrycareers.org/profiles/7171634-tai-x-u
 
-https://tapas.io/danhbaicc
+https://classificados.acheiusa.com/profile/cE9ha1lod0tFeitJUXU3aktrZkJ3UT09
 
-https://nhbi64.website3.me/
+https://estar.jp/users/1910436187
 
-https://gravatar.com/danhbaicc
+https://meta.decidim.org/profiles/taixiuin/activity
 
-https://www.openstreetmap.org/user/danhbaicc
+https://matkafasi.com/user/taixiuin
 
-https://profile.hatena.ne.jp/danhbaicc/
+https://pixelfed.uno/i/web/profile/872762075344786570
 
-https://twitback.com/danhbaicc
+https://link.space/@taixiuin
 
-https://issuu.com/danhbaicc
+https://www.4shared.com/u/xY5CQvwd/tranthaophan6046.html
 
-https://disqus.com/by/danhbaicc/about/
+http://freestyler.ws/user/579438/taixiuin
 
-https://www.pubpub.org/user/danh-bai-24
+https://jali.me/taixiuin
 
-https://about.me/danhbaicc
+https://www.zophar.net/forums/index.php?members/taixiuin.122209/#about
 
-https://www.mixcloud.com/danhbaicc/
+https://740206.8b.io/
 
-https://www.zazzle.com.au/mbr/238947794506370021
+https://unityroom.com/users/si7op51mgu0fqh6kz9lr
 
-https://au.localbook.org/user/profile/nhbi
+https://decidim.santcugat.cat/profiles/taixiuin/activity
 
-https://www.producthunt.com/@danhbaicc
+https://in.enrollbusiness.com/BusinessProfile/7556158/T%C3%A0i%20X%E1%BB%89u
 
-https://www.freelistingaustralia.com/listings/djanh-bai
+https://www.walkscore.com/people/316021483530/t%C3%A0i-x%E1%BB%89u
 
-https://3ddd.ru/users/danhbaicc
+https://www.montessorijobsuk.co.uk/author/taixiuin/
 
-https://www.bunyipclassifieds.com.au/australia/%C4%91%C3%A0-n%E1%BA%B5ng/adult-education%C2%A0/%C4%91%C3%A1nh-b%C3%A0i
+https://clearvoice.com/cv/TiXu19
 
-https://danhbai93.mypixieset.com/
+https://wakelet.com/@taixiuin
 
-https://www.decidim.barcelona/profiles/danhbaicc/activity
+https://dreevoo.com/profile_info.php?pid=866206
 
-https://pixabay.com/users/52276495/
+https://dreevoo.com/profile_info.php?pid=866206
 
-https://gettogether.community/profile/389904/
+https://www.instapaper.com/p/taixiuin
 
-https://app.readthedocs.org/profiles/danhbaicc/
+https://input.scs.community/s/SEZXuvjNA
 
-https://www.reverbnation.com/artist/danhbaicc
+https://www.chichi-pui.com/users/taixiuin/
 
-https://sketchfab.com/danhbaicc
+https://hedgedoc.digillab.uni-augsburg.de/s/zvZBUq_kP
 
-https://cdn.muvizu.com/Profile/danhbaicc/Latest
+http://www.jbt4.com/home.php?mod=space&uid=8643948
 
-https://chyoa.com/user/danhbaicc
+https://myanimelist.net/profile/taixiuin
 
-https://advego.com/profile/danhbaicc/
+https://social1776.com/taixiuin
 
-https://gitlab.aicrowd.com/danhbaicc
+https://cinderella.pro/user/224280/taixiuin/
 
-https://gitlab.vuhdo.io/danhbaicc
+https://www.bondhuplus.com/taixiuin
 
-https://www.bikemap.net/en/u/danhbaicc/routes/created/
+https://www.papercall.io/speakers/taixiuin
 
-https://letterboxd.com/danhbaicc/
+https://www.longisland.com/profile/taixiuin
 
-https://community.wibutler.com/user/danhbaicc
+https://pad.degrowth.net/s/MYBJnTvkW
 
-https://lamsn.com/home.php?mod=space&uid=1342962
+https://cuchichi.es/author/taixiuin/
 
-https://www.smitefire.com/profile/danhbaicc-229023?profilepage
+https://www.giantbomb.com/profile/taixiuin/
 
-https://raovat.nhadat.vn/members/danhbaicc-233636.html
+https://us.enrollbusiness.com/BusinessProfile/7556158/T%C3%A0i%20X%E1%BB%89u
 
-https://givestar.io/profile/d3700aa2-2b4a-4a88-bc95-6f647346fdd8
+https://spinninrecords.com/profile/taixiuin
 
-https://learn.cipmikejachapter.org/members/danhbaicc/
+https://akniga.org/profile/1199317-ti-xiu/
 
-https://gt.enrollbusiness.com/BusinessProfile/7556018/%C4%90%C3%A1nh%20B%C3%A0i
+https://my.archdaily.cn/cn/@tai-xiu-44
 
-https://jobs.njota.org/profiles/7170984-danh-bai
+https://writexo.com/share/pqg28gy
 
-https://gitconnected.com/danhbaicc
+https://www.udrpsearch.com/user/taixiuin
 
-https://www.sociomix.com/u/-nh-b-i/
+https://heylink.me/taixiuin/
 
-http://www.activewin.com/user.asp?Action=Read&UserIndex=4792281&redir=&redirname=Forums
+https://linkgenie.net/taixiuin
 
-https://forums.megalith-games.com/member.php?action=profile&uid=1415343
+https://www.furaffinity.net/user/taixiuin
 
-http://palangshim.com/space-uid-4502092.html
+https://vocal.media/authors/tai-xiu-yb2cpy0dd8
+
+https://hedgedoc.eclair.ec-lyon.fr/s/IYxJrCX_f
+
+https://buyandsellhair.com/author/taixiuin/
