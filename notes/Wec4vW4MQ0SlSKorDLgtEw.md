@@ -51,7 +51,7 @@ similar rules exist in Korea - if one tweaked bluetooth keyboards, the keyboards
     
     
 2. Digital government (procurement for cloud services) 
-   Initiative for all governments including local governments to store important data in government cloud. 
+   Initiative for all governments  including local governments to store important data in government cloud. 
    Digital Agency has negotiated collective contracts for cloud services provieders such as AWS, MS, Google and Oracle. 
    But local governments need to sign another contract, it makes them difficult to find out how much other local governments paid.Some kind of Collective Procurement Project may help. 
    
