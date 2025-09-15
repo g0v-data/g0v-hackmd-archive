@@ -16,7 +16,7 @@
 
 ### Updates
 *   **[mrorz]** 準備面海松要用的中文講義、Cofacts 傳單與貼紙。
-    *   Done；攜帶的十數張英文講義發光了，
+    *   攜帶的十數張英文講義發光了（家裡還有）
 *   **[mrorz]** 撰寫混合式 URL resolver 的設計文件 (Ref: [worker#2](https://github.com/cofacts/worker/issues/2))。
 *   **[mrorz]** 著手進行 `cofacts/devops-manual` 的撰寫。
     *   要先把 env-files 移出去才能寫
