@@ -45,3 +45,7 @@ chewei> 寫 9 月份揪松團電子報
 
 Cofacts 每週小聚
 - https://cofacts.tw/
+
+有朋友分享 ChatGPT 使用經驗
+
+數位實中師生聚會
