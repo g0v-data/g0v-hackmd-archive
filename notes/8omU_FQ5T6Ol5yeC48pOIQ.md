@@ -5,7 +5,7 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 目錄
 [TOC]
 :::
-New-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\Personalization" -Name LockScreenImage -Value "C:\01Backup\Tools\lockscreen.jpg" -PropertyType String -Force
+[New-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\Personalization" -Name LockScreenImage -Value "C:\01Backup\Tools\lockscreen.jpg" -PropertyType String -Force](https://chainlon-my.sharepoint.com/:o:/g/personal/meeting_chainlon_net/EoV2aw0_b7VKvx231JwTa1sBxjVRSTShjEWiH-SVlsZJFg?email=ken542014%40hotmail.com&e=5%3aPlX5F9&sharingv2=true&fromShare=true&at=9)
 
 
 ipconfig | find /i "IPv4" | find /i "192.168." >> O:\25資訊組\Temp\Wanip.txt && curl ifconfig.me >> O:\25資訊組\Temp\Wanip.txt
