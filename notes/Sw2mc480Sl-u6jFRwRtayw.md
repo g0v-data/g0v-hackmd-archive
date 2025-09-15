@@ -95,6 +95,8 @@ tags: GIS,
             - たばこ販売店と眼科との70cmの隙間に設置した高さ4.5mのスクリーンにスタジオでセット撮影した「挟まる人」たちをバックプロジェクションにより投影する作品。道路越しの東京ミッドタウン側からは、建物に挟まれた人々が自らの置かれた閉塞状況に対峙する様子が実在するかに見える。
     - 藝術作品
         - https://www.facebook.com/reel/819424099047832
+    - 彩繪側牆，開窗可以看到彩繪成果
+        - https://www.facebook.com/share/v/1GACwY393z/?mibextid=wwXIfr
     - 2011 Redball Project Taipei (剝皮寮)
         - https://www.flickr.com/photos/saycheer/4526243226
 - 都柏林案例，屋簷雨水導流，結合盆栽綠化
