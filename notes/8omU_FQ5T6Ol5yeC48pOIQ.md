@@ -5,7 +5,7 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 目錄
 [TOC]
 :::
-https://chainlon-my.sharepoint.com/:o:/g/personal/meeting_chainlon_net/EoV2aw0_b7VKvx231JwTa1sB8V1BSgPw3wVlN9qdn44nrg?e=WHXYr9
+Remove-AppxPackage -Package NotepadPlusPlus_1.0.0.0_neutral__7njy0v32s6xk6
 
 ipconfig | find /i "IPv4" | find /i "192.168." >> O:\25資訊組\Temp\Wanip.txt && curl ifconfig.me >> O:\25資訊組\Temp\Wanip.txt
 
