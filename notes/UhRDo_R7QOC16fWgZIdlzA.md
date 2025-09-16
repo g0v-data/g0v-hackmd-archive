@@ -105,8 +105,8 @@ Updates:
 ## 9/13 面海松
 
 攜帶
-- [ ] Cofacts 黃色傳單（華語 + 英語）[name=mrorz]
-- [ ] Cofacts Logo 貼紙 [name=mrorz]
+- [x] Cofacts 黃色傳單（華語 + 英語）[name=mrorz]
+- [x] Cofacts Logo 貼紙 [name=mrorz]
 
 做
 * [ ] 設定 cofacts-api 的 303 redirect 並找 Ronny approve [name=mrorz]
