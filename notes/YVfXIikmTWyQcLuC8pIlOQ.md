@@ -5,7 +5,7 @@ tags: FtO
 
 ## 1. Wrapping up
 - Logistics support
-- Set up shared google photo album
+- Set up [shared google photo album](https://photos.google.com/share/AF1QipP525t2DkCTcYefU8U0BwbpChrJ4VAbArrks-h9Jts-VNyg9QaviY7NI3SPY16M5w?key=VFRGaGl5cHB3YnZJd1hQSUJPUmNvLUF3LXRsMUtn)
 - Support for Sung and ichieh to collect receipts and return boarding passes
 - 
 
