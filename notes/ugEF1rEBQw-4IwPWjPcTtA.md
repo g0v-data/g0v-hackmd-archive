@@ -2,6 +2,7 @@
 
 :::info
 - [所有會議記錄](https://gov.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
+- NPO Hub 出席：bil, Helen, mrorz
 - 線上出席：
 - https://meet.google.com/mrz-dgrd-pri
 :::
@@ -52,3 +53,11 @@ https://cloudlogging.app.goo.gl/1WSpg5rRY6ETY9HH9
 
 ### [cofacts/takedowns](https://github.com/cofacts/takedowns)
 - Several spam users were taken down.
+
+## Communication
+
+### Generative AI 小聚
+https://docs.google.com/presentation/d/18NGr_DCACysX_yi3IhqRAIlWZ9uPFpsX4Ju2HGZKNF0/edit
+
+### Legal Email
+
