@@ -24,9 +24,10 @@ PM：[Josh](https://github.com/joshuay1)
 
 
 > To Josh: 請問正式提案上我們是否需要附真實姓名? 如果需要附的話我ok [name=bestian]
+> To Bestian：需要 [name=josh]
 
 
-
+> To Bestian：目前這個草稿相對強調SenseMaker的對接跟多語化，但是對於TWNIC的重點或是vTaiwan來說，不管是我們敘述的方式，或是整個project來說，我覺得都需要一個更廣更實用的大方向。像是一個一條龍vTaiwan從頭到尾的系統（平台）[name=josh]
 ---
 
 ## **2025 TWNIC 研究計畫申請書(草稿共筆中)**
