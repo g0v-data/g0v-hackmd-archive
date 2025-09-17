@@ -4,6 +4,11 @@
 
 ## 專案簡介 Project Intro
 
+### 目標
+
+### 為什麼叫做這個名字 Naming
+
+<ruby lang="nan-tw">地<rt>ち</rt>図<rt>tôo</rt></ruby> + <ruby lang="nan-tw">地<rt>tē</rt>圖<rt>tôo</rt></ruby>
 
 ## 可能的資料來源 Possible Data Sources
 
@@ -53,5 +58,4 @@
     - TDX 可以取得，像是[台南](https://tdx.transportdata.tw/api/basic/v2/Bike/Station/City/Tainan?%24format=JSON)
 - 廟宇
     - [台灣宗教地圖](https://kiang.github.io/religions/)
-
 
