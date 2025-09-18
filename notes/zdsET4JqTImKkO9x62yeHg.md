@@ -4,6 +4,10 @@ tags: summit2024
 # 電子報專區
 
 - [各期電子報 archive](https://us21.campaign-archive.com/home/?u=5f2da7dc5b32fcf00c4e26170&id=cf109d5e52)
+
+
+* 第四期英文版
+https://mailchi.mp/a42fee9c547e/vol1-12686321
 ---
 
 ### 素材

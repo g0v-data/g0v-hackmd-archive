@@ -2,37 +2,37 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [進度追蹤 ＆ 待辦事項](../notes/PoEpN2w_Q8S_UXw6j5OF-w.md) | 2024-08-13T13:19:54+00:00 | 2024-07-30T11:23:04+00:00 |
-| 2 | [240813 Rand0mTh7n 放輕松討論](../notes/HwKeGtKcR3abz1czOKCDTg.md) | 2024-08-13T13:17:24+00:00 | 2024-08-13T11:14:42+00:00 |
-| 3 | [頁面資訊](../notes/PbPDc5O0TQ6HrkQxeE2feQ.md) | 2024-08-13T12:38:50+00:00 | 2024-07-30T12:46:44+00:00 |
-| 4 | [Summit 紀念品消化計畫](../notes/EpieA_lvSM664y5CrTNuvA.md) | 2024-08-13T11:15:08+00:00 | 2024-07-30T11:01:45+00:00 |
-| 5 | [20240801 宣傳組設計開源迷你松](../notes/uRiNDPLORH23praaVfGz3g.md) | 2024-08-01T10:06:07+00:00 | 2024-08-01T07:17:46+00:00 |
-| 6 | [240730 Rand0mTh6n 放輕松討論](../notes/cxBnkrv9TIKDSsHgCletkQ.md) | 2024-07-30T13:07:04+00:00 | 2024-07-30T11:10:46+00:00 |
-| 7 | [簡介](../notes/JXeFGfs3QTixAj0qBqRt7Q.md) | 2024-07-30T12:21:42+00:00 | 2024-07-16T11:37:48+00:00 |
-| 8 | [240720 大松討論](../notes/RV2UYqHnThC_PBQH113P0A.md) | 2024-07-30T11:15:37+00:00 | 2024-07-30T11:06:24+00:00 |
-| 9 | [20231031會議](../notes/_ybO889DST25ln5wqLFmBg.md) | 2024-07-30T10:59:49+00:00 | 2023-10-31T08:17:25+00:00 |
-| 10 | [20231107會議](../notes/mIA8ZHMgTLWNJBVhxSJOUA.md) | 2024-07-30T10:59:44+00:00 | 2023-10-31T14:53:10+00:00 |
-| 11 | [20231205會議](../notes/Ce5KZqULSn2RCaSn9RdBXw.md) | 2024-07-30T10:59:39+00:00 | 2023-12-03T15:03:03+00:00 |
-| 12 | [合作伙伴 FB 貼文](../notes/QsHNK6WHT467RFly0i0rjw.md) | 2024-06-06T05:43:46+00:00 | 2024-05-13T12:19:04+00:00 |
-| 13 | [媒體小組傳承筆記](../notes/WdGzWnHtSPWx2GqPSaSzZA.md) | 2024-05-17T06:23:40+00:00 | 2024-05-05T04:27:23+00:00 |
-| 14 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-05-08T09:07:51+00:00 | 2024-04-09T07:38:54+00:00 |
-| 15 | [開放工作坊2 Unconference2 性暴力&未成年應該"完全"在網路被消失嗎？ Sexual violence & Underage Should be disappeared on the internet](../notes/biMTfDmbSHWKxT-pCXDg_A.md) | 2024-05-05T06:43:44+00:00 | 2024-04-13T09:01:38+00:00 |
-| 16 | [Summit 2024 登記預算與請款辦法](../notes/BneF56PWQxms79e_LfQnpw.md) | 2024-05-04T15:15:27+00:00 | 2023-12-26T13:17:53+00:00 |
-| 17 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-05-04T14:15:41+00:00 | 2024-04-11T12:55:35+00:00 |
-| 18 | [g0v Summit 2024 紀錄組資料彙整](../notes/zw5vd5TTRQO64itD5CeJmw.md) | 2024-05-02T06:38:03+00:00 | 2024-04-27T12:58:29+00:00 |
-| 19 | [志工證明文字](../notes/NmqckFY7R4mP49a3ZrqHYQ.md) | 2024-05-02T06:23:40+00:00 | 2024-05-02T06:14:21+00:00 |
-| 20 | [台灣維基媒體協會研究案請紀錄組協助拍照事項](../notes/vOx8PGuqQFCqrlsT71Bzgg.md) | 2024-05-02T05:19:10+00:00 | 2024-04-28T07:34:58+00:00 |
-| 21 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-30T13:29:01+00:00 | 2023-12-09T04:53:41+00:00 |
-| 22 | [交誼廳](../notes/1EBumToYQSGBmY_JgwwyqA.md) | 2024-04-30T07:09:42+00:00 | 2024-04-30T07:05:11+00:00 |
-| 23 | [媒體小組筆記](../notes/jvTv4tEIRvG402qbanP6KA.md) | 2024-04-26T14:37:53+00:00 | 2023-09-15T14:08:59+00:00 |
-| 24 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-04-26T13:04:25+00:00 | 2023-11-03T12:10:41+00:00 |
-| 25 | [g0v Summit 2024 公務人員學習時數登錄](../notes/XvXXZstbQ8aqcbO8wYXYtg.md) | 2024-04-25T12:11:37+00:00 | 2024-04-24T11:54:36+00:00 |
-| 26 | [用科技協助基層發聲，解決公民問題 Leverage technology to amplify grassroots voices and address civic challenges.](../notes/tn3wbGzNTYmYef2YMXdcZw.md) | 2024-04-25T09:15:39+00:00 | 2024-04-13T08:41:32+00:00 |
-| 27 | [社群攤位排程](../notes/PT5Dm1i8TvGhdC0ZRwNLmA.md) | 2024-04-25T00:55:40+00:00 | 2024-04-24T16:00:47+00:00 |
-| 28 | [台灣維基媒體協會「公民科技促進數位民主之資訊發展研析與推動」研究計畫於 g0v Summit 2024 資料蒐集說明](../notes/7rsNc50ySy2EBW6cEL403w.md) | 2024-04-23T16:15:43+00:00 | 2024-04-23T05:52:36+00:00 |
-| 29 | [公民社會、科技平台，如何協作？ How do civil society organizations and tech platforms collaborate?](../notes/wGgiZFEwSnmLrkuPiB4XGQ.md) | 2024-04-23T05:52:28+00:00 | 2024-04-13T15:36:35+00:00 |
-| 30 | [基調座談 – 全球民主倒退中的東亞公民科技社群：台、日、韓三國對話](../notes/1s4iT1NQTluytpHMPa2cNQ.md) | 2024-04-22T14:11:33+00:00 | 2024-03-26T00:18:26+00:00 |
-| 31 | [電子報專區](../notes/zdsET4JqTImKkO9x62yeHg.md) | 2024-04-22T02:13:21+00:00 | 2023-11-11T06:38:14+00:00 |
+| 1 | [電子報專區](../notes/zdsET4JqTImKkO9x62yeHg.md) | 2025-09-18T13:41:19+00:00 | 2023-11-11T06:38:14+00:00 |
+| 2 | [進度追蹤 ＆ 待辦事項](../notes/PoEpN2w_Q8S_UXw6j5OF-w.md) | 2024-08-13T13:19:54+00:00 | 2024-07-30T11:23:04+00:00 |
+| 3 | [240813 Rand0mTh7n 放輕松討論](../notes/HwKeGtKcR3abz1czOKCDTg.md) | 2024-08-13T13:17:24+00:00 | 2024-08-13T11:14:42+00:00 |
+| 4 | [頁面資訊](../notes/PbPDc5O0TQ6HrkQxeE2feQ.md) | 2024-08-13T12:38:50+00:00 | 2024-07-30T12:46:44+00:00 |
+| 5 | [Summit 紀念品消化計畫](../notes/EpieA_lvSM664y5CrTNuvA.md) | 2024-08-13T11:15:08+00:00 | 2024-07-30T11:01:45+00:00 |
+| 6 | [20240801 宣傳組設計開源迷你松](../notes/uRiNDPLORH23praaVfGz3g.md) | 2024-08-01T10:06:07+00:00 | 2024-08-01T07:17:46+00:00 |
+| 7 | [240730 Rand0mTh6n 放輕松討論](../notes/cxBnkrv9TIKDSsHgCletkQ.md) | 2024-07-30T13:07:04+00:00 | 2024-07-30T11:10:46+00:00 |
+| 8 | [簡介](../notes/JXeFGfs3QTixAj0qBqRt7Q.md) | 2024-07-30T12:21:42+00:00 | 2024-07-16T11:37:48+00:00 |
+| 9 | [240720 大松討論](../notes/RV2UYqHnThC_PBQH113P0A.md) | 2024-07-30T11:15:37+00:00 | 2024-07-30T11:06:24+00:00 |
+| 10 | [20231031會議](../notes/_ybO889DST25ln5wqLFmBg.md) | 2024-07-30T10:59:49+00:00 | 2023-10-31T08:17:25+00:00 |
+| 11 | [20231107會議](../notes/mIA8ZHMgTLWNJBVhxSJOUA.md) | 2024-07-30T10:59:44+00:00 | 2023-10-31T14:53:10+00:00 |
+| 12 | [20231205會議](../notes/Ce5KZqULSn2RCaSn9RdBXw.md) | 2024-07-30T10:59:39+00:00 | 2023-12-03T15:03:03+00:00 |
+| 13 | [合作伙伴 FB 貼文](../notes/QsHNK6WHT467RFly0i0rjw.md) | 2024-06-06T05:43:46+00:00 | 2024-05-13T12:19:04+00:00 |
+| 14 | [媒體小組傳承筆記](../notes/WdGzWnHtSPWx2GqPSaSzZA.md) | 2024-05-17T06:23:40+00:00 | 2024-05-05T04:27:23+00:00 |
+| 15 | [g0v Summit 2024 紀錄組](../notes/PtCHjBvFRtyxzuDvCilrdQ.md) | 2024-05-08T09:07:51+00:00 | 2024-04-09T07:38:54+00:00 |
+| 16 | [開放工作坊2 Unconference2 性暴力&未成年應該"完全"在網路被消失嗎？ Sexual violence & Underage Should be disappeared on the internet](../notes/biMTfDmbSHWKxT-pCXDg_A.md) | 2024-05-05T06:43:44+00:00 | 2024-04-13T09:01:38+00:00 |
+| 17 | [Summit 2024 登記預算與請款辦法](../notes/BneF56PWQxms79e_LfQnpw.md) | 2024-05-04T15:15:27+00:00 | 2023-12-26T13:17:53+00:00 |
+| 18 | [新聞媒體採訪基本注意事項 General reminders for the press — g0v Summit 2024 【不斷更新 rolling update】](../notes/KLAvaSwhRkWFrQ3KJPGYwQ.md) | 2024-05-04T14:15:41+00:00 | 2024-04-11T12:55:35+00:00 |
+| 19 | [g0v Summit 2024 紀錄組資料彙整](../notes/zw5vd5TTRQO64itD5CeJmw.md) | 2024-05-02T06:38:03+00:00 | 2024-04-27T12:58:29+00:00 |
+| 20 | [志工證明文字](../notes/NmqckFY7R4mP49a3ZrqHYQ.md) | 2024-05-02T06:23:40+00:00 | 2024-05-02T06:14:21+00:00 |
+| 21 | [台灣維基媒體協會研究案請紀錄組協助拍照事項](../notes/vOx8PGuqQFCqrlsT71Bzgg.md) | 2024-05-02T05:19:10+00:00 | 2024-04-28T07:34:58+00:00 |
+| 22 | [Press Kit 媒體素材區](../notes/-RhR5m71QieB9U4Xexisbw.md) | 2024-04-30T13:29:01+00:00 | 2023-12-09T04:53:41+00:00 |
+| 23 | [交誼廳](../notes/1EBumToYQSGBmY_JgwwyqA.md) | 2024-04-30T07:09:42+00:00 | 2024-04-30T07:05:11+00:00 |
+| 24 | [媒體小組筆記](../notes/jvTv4tEIRvG402qbanP6KA.md) | 2024-04-26T14:37:53+00:00 | 2023-09-15T14:08:59+00:00 |
+| 25 | [設計小組會議紀錄](../notes/P8QeEdU5T0uT50sOzg1NeA.md) | 2024-04-26T13:04:25+00:00 | 2023-11-03T12:10:41+00:00 |
+| 26 | [g0v Summit 2024 公務人員學習時數登錄](../notes/XvXXZstbQ8aqcbO8wYXYtg.md) | 2024-04-25T12:11:37+00:00 | 2024-04-24T11:54:36+00:00 |
+| 27 | [用科技協助基層發聲，解決公民問題 Leverage technology to amplify grassroots voices and address civic challenges.](../notes/tn3wbGzNTYmYef2YMXdcZw.md) | 2024-04-25T09:15:39+00:00 | 2024-04-13T08:41:32+00:00 |
+| 28 | [社群攤位排程](../notes/PT5Dm1i8TvGhdC0ZRwNLmA.md) | 2024-04-25T00:55:40+00:00 | 2024-04-24T16:00:47+00:00 |
+| 29 | [台灣維基媒體協會「公民科技促進數位民主之資訊發展研析與推動」研究計畫於 g0v Summit 2024 資料蒐集說明](../notes/7rsNc50ySy2EBW6cEL403w.md) | 2024-04-23T16:15:43+00:00 | 2024-04-23T05:52:36+00:00 |
+| 30 | [公民社會、科技平台，如何協作？ How do civil society organizations and tech platforms collaborate?](../notes/wGgiZFEwSnmLrkuPiB4XGQ.md) | 2024-04-23T05:52:28+00:00 | 2024-04-13T15:36:35+00:00 |
+| 31 | [基調座談 – 全球民主倒退中的東亞公民科技社群：台、日、韓三國對話](../notes/1s4iT1NQTluytpHMPa2cNQ.md) | 2024-04-22T14:11:33+00:00 | 2024-03-26T00:18:26+00:00 |
 | 32 | [場佈設計筆記](../notes/-YB5siwcQy2DyIgSlAZs-w.md) | 2024-04-20T12:17:09+00:00 | 2024-03-07T04:47:57+00:00 |
 | 33 | [場務助理](../notes/yheBZPRvSpmGXfsQ1AUkGA.md) | 2024-04-19T04:18:48+00:00 | 2024-04-09T05:31:01+00:00 |
 | 34 | [g0v Summit 2024 直播錄影技術細節提醒](../notes/nCHWJ35ORM6cz5mf3QZF-w.md) | 2024-04-19T03:55:23+00:00 | 2024-04-19T01:03:25+00:00 |
