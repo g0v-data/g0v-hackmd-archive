@@ -5,7 +5,7 @@ tags: summit2024
 
 - [各期電子報 archive](https://us21.campaign-archive.com/home/?u=5f2da7dc5b32fcf00c4e26170&id=cf109d5e52)
 
-第一期：十一月刊－回顧2020年（中文版）
+第一期：十一月刊－回顧2020年summit（中文版）
 https://mailchi.mp/56f46d8b0906/vol1
 
 第二期：十二月刊－回顧歷屆summit主題（中文版）
