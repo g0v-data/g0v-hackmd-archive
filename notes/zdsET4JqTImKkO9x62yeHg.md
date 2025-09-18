@@ -5,9 +5,53 @@ tags: summit2024
 
 - [各期電子報 archive](https://us21.campaign-archive.com/home/?u=5f2da7dc5b32fcf00c4e26170&id=cf109d5e52)
 
+第一期：十一月刊－回顧2020年（中文版）
+https://mailchi.mp/56f46d8b0906/vol1
 
-* 第四期英文版
+第二期：十二月刊－回顧歷屆summit主題（中文版）
+https://mailchi.mp/bace0af3c8a6/vol1-12669628
+
+第二期：十二月刊－回顧歷屆summit主題（英文版）
+https://mailchi.mp/cb0e97181b61/vol1-12672132
+
+第三期：一月刊－回顧歷屆summit參與者組成（中文版）
+https://mailchi.mp/3579277769a0/vol1-12679952
+
+第三期：一月刊－回顧歷屆summit參與者組成（英文版）
+https://mailchi.mp/c49ac71daad8/vol1-12679972
+
+第四期：Keynote Speaker介紹（中文版）
+https://mailchi.mp/88d1910eb6c0/vol1-12686320
+
+第四期：Keynote Speaker介紹（英文版）
 https://mailchi.mp/a42fee9c547e/vol1-12686321
+
+第五期：全活動一覽（中文版）
+https://mailchi.mp/62f3d5ba295c/vol1-12690973
+
+第五期：全活動一覽（英文版）
+https://mailchi.mp/594840b87c0a/vol1-12690974
+
+第六期：行前通知（中文版）
+https://mailchi.mp/5be546056691/vol1-12694376
+
+第六期：行前通知（英文版）
+https://mailchi.mp/07658753193d/vol1-12693989
+
+第七期：活動回顧（中+英）
+https://mailchi.mp/c77cdb4faa34/vol1-12694531
+
+－
+
+給大專院校、各縣市局處的徵稿訊息
+https://mailchi.mp/66f8f591bd12/enkzg4tab7
+
+給曾經投稿者(中文)：g0v Summit 2024 Call for Proposals
+https://mailchi.mp/d7d961230ef6/g0v-summit-2024-call-for-proposals-12662328
+
+給曾經投稿者(英文)：g0v Summit 2024 Call for Proposals
+https://mailchi.mp/b7936a6500eb/g0v-summit-2024-call-for-proposals
+
 ---
 
 ### 素材
