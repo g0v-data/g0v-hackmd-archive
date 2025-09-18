@@ -101,9 +101,6 @@ NAC:每年有三天到DC做國會倡議的camp，從美國各地招人去教大�
 分享簡報：
     
 
-```
-
-
 ## 活動贊助＆本次志工
 - 場地贊助：Tiffany、Stanford 哲學社
 - 食物贊助：
@@ -111,3 +108,5 @@ NAC:每年有三天到DC做國會倡議的camp，從美國各地招人去教大�
 
 
 ## 本次照片
+
+https://www.facebook.com/share/p/1AqyrkoP78/
