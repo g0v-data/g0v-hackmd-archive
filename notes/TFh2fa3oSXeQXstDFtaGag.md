@@ -17,6 +17,7 @@ https://www.google.com/maps/d/edit?mid=1aFMHm0EAtRgxFf7Wgg3dhSQkgMkfgT4&usp=shar
 
 徹底再現三萬年前航海 學古人從台灣划到日本沖繩 https://dq.yam.com/post/9978
 蘭嶼達悟族 2025 年秋天將勇渡巴丹島 https://photos.app.goo.gl/YXMfQVNQifobUq6q6
+1654 荷蘭人北部調查 https://www.facebook.com/share/p/19wzbpAG1N/
 1697 郁永河《裨海紀遊》 https://photos.app.goo.gl/1zDiwTNRDtMeyhBU7
 1817—1883 吳子光 https://taicool.ith.sinica.edu.tw/browse-ebook.html?id=EB0000000036；https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%AD%90%E5%85%89
 1865 必麒麟與馬雅各 https://photos.app.goo.gl/m1Fyye2Z3WUMr45U6
