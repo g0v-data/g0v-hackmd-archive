@@ -23,6 +23,8 @@ https://www.google.com/maps/d/edit?mid=1aFMHm0EAtRgxFf7Wgg3dhSQkgMkfgT4&usp=shar
 1871 湯姆生與馬雅各 https://photos.app.goo.gl/m1Fyye2Z3WUMr45U6
 馬偕 https://photos.app.goo.gl/af7M1gur7tMVrDdj7
 胡傳 (胡適父親) https://photos.app.goo.gl/saRc1kAhxZdpAagx6
+？
+https://www.facebook.com/share/p/17Vj6BV74F/
 巴爾頓與濱野彌四郎 https://photos.app.goo.gl/AVFicc4LwHX3tbsD7
 伊能嘉矩 https://photos.app.goo.gl/amrUaB3sHfCMUDVG8
 森丑之助 https://photos.app.goo.gl/ha15KLuqbdZBNbePA
