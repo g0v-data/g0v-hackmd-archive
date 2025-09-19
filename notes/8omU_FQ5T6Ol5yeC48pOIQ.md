@@ -169,11 +169,17 @@ https://www.autohotkey.com/
 	2. 確認並修改電腦名稱、IP(特殊使用者) 須完成電腦盤點登記、電腦名稱修改、IP指派
 		O:\25資訊組\網路硬體設備\ComputerList.xlsx
 3. 設定本機帳號：C:\01Backup\Bat\Y1.bat
-	@echo off
-set /p pwd=Type password:
+@echo off
+set /p pwd1=Type password:
 net user administrator /active:no
-net user admin %pwd%
-net user chainlon %pwd%	
+net user admin %pwd1%
+net user chainlon %pwd1%
+set /p pwd2=Type password:
+@net user "assets" %pwd2% /add
+@net user "assets" %pwd2%
+@net user "assets" /expires:never
+@net localgroup administrators "assets" /add
+@wmic useraccount where name="assets" set PasswordExpires=False
 重新開機再次確認
 
 
