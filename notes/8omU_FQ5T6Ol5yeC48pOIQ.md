@@ -166,29 +166,37 @@ https://www.autohotkey.com/
 五、安裝到新電腦，使用異機還原
 開始安裝：登入為chainlon，無密碼，僅須以下小修改
 	1. m2.bat、AppMgmt移除市集(屬於個人用戶的設定，可忽略，這帳號不重要)
-	2. 確認並修改電腦名稱、IP，重新開機再次確認
+	2. 確認並修改電腦名稱、IP(特殊使用者) 須完成電腦盤點登記、電腦名稱修改、IP指派
 		O:\25資訊組\網路硬體設備\ComputerList.xlsx
 3. 設定本機帳號：C:\01Backup\Bat\Y1.bat
 	@echo off
 set /p pwd=Type password:
 net user administrator /active:no
 net user admin %pwd%
-net user chainlon %pwd%
+net user chainlon %pwd%	
+重新開機再次確認
+
 
 
 六、加入網域
-1. 加入網域C:\01Backup\Bat\Y3.bat
-
-2. 帳號設定AD
-1.	
-2.	
-3.	重新開機，以使用者身份登入開始作業，有管理員權限，可自由個人化電腦，重新登入後自動退出管理員身份。(Local2AD.bat請修改參數再執行，包含此命令)
-
-
+1. 加入網域C:\01Backup\Bat\Y2.bat
 @chcp 65001
 @SET /P ans1=請輸入網域管理員帳號(格式：僅需輸入ID)：
-powershell add-computer -Credential chainlon\%ans1% -DomainName chainlon.net
-net localgroup "administrators" /add "chainlon\41"
-@SET /P ans2=請輸入操作本電腦之網域使用者帳號：
-net localgroup "administrators" /add "chainlon\%ans2%"
-echo 已新增帳號 %ans2%" 為本機管理員，請登出重新登入開始使用者設定
+@powershell add-computer -Credential chainlon\%ans1% -DomainName chainlon.net
+@net localgroup "administrators" /add "chainlon\41"
+@net localgroup "administrators" /add "chainlon\domain users"
+@echo 注意：一般網域用戶已成為本機管理員，請登出重新登入開始使用者設定
+2. 重新開機，以使用者身份登入開始作業，有管理員權限，可自由個人化電腦
+
+七、額外補充安裝
+1.	安裝附加軟體(TFG,Office…)
+2.	安裝驅動程式、印表機
+3.	將一般網域用戶離開本機管理員
+@net localgroup "administrators" /delete "chainlon\domain users"
+4.	其他項目交由使用者自行安裝，重新登出後即無管理權限
+
+八、管理注意
+1.是否需要固定IP：DHCP Server保留區，新增該電腦名稱、MAC、IP
+2.資產管理掃描是否正常
+3.該電腦網域使用者不可以有管理員權限
+4.該電腦遠端桌面僅允許特定IP連入、特定用戶
