@@ -1,3 +1,7 @@
+---
+tags: GIS,
+---
+
 # ZUTÔOMAYO 通用地圖
 
 ## [提案簡報 Proposal](https://drive.google.com/file/d/1t0rDIByIFoHjIHMZH7EzGJ5PwmjnFsfy/view)

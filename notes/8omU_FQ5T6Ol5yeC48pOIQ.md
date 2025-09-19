@@ -5,6 +5,9 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 目錄
 [TOC]
 :::
+robocopy O: G:\CY01 /mir /XD DfsrPrivate Z9-準備刪除
+robocopy P: G:\CY02 /mir /XD __DFSR_DIAGNOSTICS_TEST_FOLDER__ DfsrPrivate
+
 https://chainlon-my.sharepoint.com/:o:/g/personal/meeting_chainlon_net/EoV2aw0_b7VKvx231JwTa1sBxjVRSTShjEWiH-SVlsZJFg?e=wb9yeY
 
 Remove-AppxPackage -Package NotepadPlusPlus_1.0.0.0_neutral__7njy0v32s6xk6
