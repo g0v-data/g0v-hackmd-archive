@@ -90,6 +90,9 @@ https://m.facebook.com/story.php?story_fbid=pfbid027ydWLceBcoDuuFQbvoXGRGsWDs6BY
 布袋 新年數鳥
 https://www.facebook.com/story.php?story_fbid=pfbid0qxYTQJ6mn3bz7rAEpHF3mq8593ZRCr8bJ4ny4TN81mxBuf4FRBFugFT4NmyrPMngl&id=1361847671&mibextid=qC1gEa
 
+公民科學 ebird 鳥類調查，分佈位置
+https://www.facebook.com/share/p/17UAwVUcvX/?mibextid=wwXIfr
+
 臺南新藝獎
 https://www.accupass.com/event/2202100541427266533190%E2%80%8B
 
