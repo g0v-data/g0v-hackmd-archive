@@ -163,3 +163,32 @@ https://allinfa.com/zh-tw/hide-close-win10-meet-now.html
 
 https://www.autohotkey.com/
 
+五、安裝到新電腦，使用異機還原
+開始安裝：登入為chainlon，無密碼，僅須以下小修改
+	1. m2.bat、AppMgmt移除市集(屬於個人用戶的設定，可忽略，這帳號不重要)
+	2. 確認並修改電腦名稱、IP，重新開機再次確認
+		O:\25資訊組\網路硬體設備\ComputerList.xlsx
+3. 設定本機帳號：C:\01Backup\Bat\Y1.bat
+	@echo off
+set /p pwd=Type password:
+net user administrator /active:no
+net user admin %pwd%
+net user chainlon %pwd%
+
+
+六、加入網域
+1. 加入網域C:\01Backup\Bat\Y3.bat
+
+2. 帳號設定AD
+1.	
+2.	
+3.	重新開機，以使用者身份登入開始作業，有管理員權限，可自由個人化電腦，重新登入後自動退出管理員身份。(Local2AD.bat請修改參數再執行，包含此命令)
+
+
+@chcp 65001
+@SET /P ans1=請輸入網域管理員帳號(格式：僅需輸入ID)：
+powershell add-computer -Credential chainlon\%ans1% -DomainName chainlon.net
+net localgroup "administrators" /add "chainlon\41"
+@SET /P ans2=請輸入操作本電腦之網域使用者帳號：
+net localgroup "administrators" /add "chainlon\%ans2%"
+echo 已新增帳號 %ans2%" 為本機管理員，請登出重新登入開始使用者設定
