@@ -7,7 +7,7 @@ title: g0v Summit 2026 社群帳號與審稿流程
 
 
 :::danger
-草稿參考自 [Summit 2024社群帳號與審稿流程](https://g0v.hackmd.io/@summit2026/HkWVYxvKlx/https%3A%2F%2Fg0v.hackmd.io%2FkxB7G4b_Q_ioacuD4MSGmg)，待組員討論確認後開始進行
+草稿參考自 [Summit 2024社群帳號與審稿流程](https://g0v.hackmd.io/@summit2026/HkWVYxvKlx/https%3A%2F%2Fg0v.hackmd.io%2FkxB7G4b_Q_ioacuD4MSGmg)，待組內確認後調整細節
 :::
 
 # 社群帳號與審稿流程
