@@ -20,10 +20,26 @@ https://www.igf.org.tw/twigf-2025/2025-agenda/10822-2/
 
 ## 主持人引言
 
-1. 現行海纜狀況：台灣現行對外 12 個系統 / 16 條纜線（後續更新詳細清單），目前故障狀態
+1. 現行海纜狀況：
+台灣現行對外 12 個系統 / 16 條纜線（後續更新詳細清單），目前故障狀態
 
 - https://smc.peering.tw
 - https://www.submarinecablemap.com/country/taiwan
+
+
+APCN-2
+Asia Pacific Gateway (APG)
+Cross-Straits Cable Network (CSCN)
+EAC-C2C
+FASTER
+FLAG North Asia Loop/REACH North Asia Loop
+New Cross Pacific (NCP) Cable System
+ORCA2027
+Pacific Light Cable Network (PLCN)
+Southeast Asia-Japan Cable 2 (SJC2)
+Taiwan Strait Express-1 (TSE-1)
+Topaz
+Trans-Pacific Express (TPE)
 
 2. 介紹與會來賓
 
