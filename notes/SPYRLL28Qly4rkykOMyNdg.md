@@ -78,6 +78,27 @@
 
 ---
 
+## 開源專案
+
+前端專案(開發中)：
+https://github.com/vneverz/streettrees_frontend
 
 
+後端專案(待開發)：
+https://github.com/vneverz/streettrees_backend
 
+
+---
+
+## 人力需求：
+
+
+1. 前端工程(Vue)
+2. 後端工程(cloudFlare R2+D1)
+
+--- 
+
+## 說明文件：
+
+1. VueJS: https://vuejs.org/
+2. cloudFlare: https://www.cloudflare.com/zh-tw/
