@@ -31,6 +31,9 @@ https://www.facebook.com/769119156821767/posts/1569433683456973/
 群眾募資
 https://www.facebook.com/617368160/posts/10158548561588161/
 
+眼底城事 
+https://www.facebook.com/share/p/1Zvc4qrFct/
+
 國教院 樂學網
 https://stv.naer.edu.tw/about/index.jsp
 
