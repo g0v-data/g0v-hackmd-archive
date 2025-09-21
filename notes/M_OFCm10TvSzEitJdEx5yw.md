@@ -73,7 +73,14 @@ tags: 021up, voting
 
 ## 需要夥伴
 
-
-
+- 意見分享為主
+- 未來
+    - community
+    - vibe coder
+    - vibe designer
+    - n8n
 
 ## 聯絡方式
+
+- [g0v slack #021up](https://g0v-tw.slack.com/archives/C09G5MLA527)
+- [021up Telegram](https://t.me/tg_021up/73)
