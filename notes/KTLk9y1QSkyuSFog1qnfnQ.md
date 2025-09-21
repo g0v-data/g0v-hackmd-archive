@@ -44,6 +44,11 @@ g0v 社群已經走過 13 年。一路以來，社群的特色是「開放參與
 **「中手」概念來自於 Wikidata Taiwan 的 Allen**
 
 
+### 相關影音
+
+
+[如何在AI浪潮下協力學習？](https://www.youtube.com/watch?v=VLbXTg0PjHk)
+
 
 ### 討論
 

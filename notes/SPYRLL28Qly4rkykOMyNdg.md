@@ -102,3 +102,7 @@ https://github.com/vneverz/streettrees-backend
 
 1. VueJS: https://vuejs.org/
 2. cloudFlare: https://www.cloudflare.com/zh-tw/
+
+## 路由
+GET&POST
+https://streettrees-backend.vneverz.workers.dev/trees
