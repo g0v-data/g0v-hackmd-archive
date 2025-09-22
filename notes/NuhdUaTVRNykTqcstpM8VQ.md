@@ -17,7 +17,7 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 
 g0v Slack Channel Guide 頻道傳送門
 ．Global & Local：46 個頻道
-．Infra / G0vernacel：48 個頻道
+．Infra / G0vernace：48 個頻道
 ．Edu / Learning / Health / Livingl：60+ 個頻道
 ．Open Gov & Projects：105+ 個頻道
 
@@ -43,11 +43,15 @@ g0v Slack Channel Guide 頻道傳送門
 #kinmen-金門 金門討論群組！
 #matsu 馬祖討論群組！
 #keelung 基隆討論群組
-#re-place 關於如何移住、回到故鄉，以及城市人如何與地方一起打造新故鄉的實踐
+#newtaipei_新北市
+#taoyuan-桃園
+#re-place 關於如何移住、回到故鄉，以及城市人如何與地方一起打造新故鄉的實踐 / 頻道有很多關注宜蘭的朋友
 #jothon-local-support-地方社群支持方案 support for local communities or initiatives 有相關想法與構想，歡迎到頻道討論 ~
+#asia-civic-tech
 #hk https://github.com/g0vhk-io
 #hkpwparagliding 飛行傘計畫
 #china
+#india
 #myanmar
 #thai-ภาษาไทย 泰國與泰語
 #tiếngviệt-vietnam 越南與越語
@@ -281,9 +285,10 @@ g0v Slack Channel Guide 頻道傳送門
 #taisugar-railway 糖業鐵路產業地景
 #urbancode 都市計畫 / 都委會會議記錄資料庫
 #poponfire-公有地大行動 公有土地資料與地圖 Public Land Data
-#心家園_臨時住宅與永久屋_資料庫
+#心家園_臨時住宅與永久屋_資料庫 
 #joinplus-關注公民參與的數位工具
 #carbon
+#marine-debris 討論海洋廢棄物
 #river 河流與流域
 #super-agri 超農域，農藥查詢系統，南庄桐花松，農業資料與專案 :ear_of_rice: Agriculture related projects
 #tree 遙測算樹、圖資找地、倡議種樹 :deciduous_tree:
