@@ -55,10 +55,10 @@
 時間表
 2008/4/29 - 廢棄物清理法修法可做工程填地材料，但僅限於非農業用地
 2011/2/6 - 廢棄物清理法修法生效，爐渣不可作為工程填地材料，只能用在機場、道路、人行道、貨櫃場或停車場之鋪面工程基底層級配粒料原料
-2011/3/30 - 明祥馨公司取得再利用身份
+2011/04/01 - 明祥馨公司成為「公告可直接再利用之基本金屬製造業在電弧爐煉鋼製程所產生之氧化碴（石）（代碼K-1209）或還原碴（石）（代碼 R-1210）」之再利用機構，並產製水泥原料、水泥製品原料、非結構性混凝土粒料原料、瀝青混凝土粒料原料等再利用後產品。(104年3月9日府環事字第1040238674號函)
 2015/08/11 - [嘉義縣調查站鎖定學甲大灣段農地進行開挖調查](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=875)，確認掩埋大量爐渣，當時[明祥馨公司共收受 64 萬噸爐渣，蘋果日報記者估計獲利近 2 億餘新台幣](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=872)
 2015/08/16 - [農糧署封存 69 噸稻米](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=870)，因為可能混有事發農地收割的稻米，確保不會流入市面
-2015/9/21 - 台南市環保局廢止明祥馨公司再利用身分,[20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
+2015/9/21 - 台南市環保局廢止明祥馨公司再利用身分,[20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)，違法推置之爐渣廢棄物估算為581629.519公噸，其等不法所得約在1,564,583,406元。
 2015/10/2 - [台南市政府依據違反廢清法開罰 6000](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTU5L3JlbGZpbGUvMTc1MTUvNzcwOTMwMS84OTMwYzk1Yy0zYTBjLTQzMDctOWRhMi04ZjQ1MDdiNGFjZWMucGRm&n=5a2455Sy6L6y5Zyw5aGr5Z%2bL54iQ56K05qGIUV9BLnBkZg%3d%3d&icon=.pdf)
 2015/11/18 - [台南市政府依據區域計畫法開罰 15 萬元](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTU5L3JlbGZpbGUvMTc1MTUvNzcwOTMwMS84OTMwYzk1Yy0zYTBjLTQzMDctOWRhMi04ZjQ1MDdiNGFjZWMucGRm&n=5a2455Sy6L6y5Zyw5aGr5Z%2bL54iQ56K05qGIUV9BLnBkZg%3d%3d&icon=.pdf)
 2016/10 - 明祥馨公司完成該農地 55265.5 公噸的清運工作, [20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)
@@ -73,6 +73,7 @@
 2020/9/11 - [時代力量陳椒華立委陪同李新進里長再次召開記者會](https://www.facebook.com/ironprofessorchan/posts/212947383507285)，揭露學甲興業段多筆工業區土地也埋有爐渣，但 2019/4 向台南市政府檢舉未獲得處理， 2019/11 檢察官與台南市環保局進行會勘時環保局誤導檢察官說「工業區的不要緊」
 2020/9/14 - [台南市議會組成學甲區爐碴掩埋案專案調查小組，第 1 次前往現場勘查](https://www.tncc.gov.tw/page.asp?mainid=9E95AD50-0A05-438A-BE22-F85A6092C8FD)
 2020/9/16 - [民眾黨蔡壁如立委陪同江明宗開記者會，依據公開資料揭露學甲爐渣事件背後的政商關係，指出台南市長黃偉哲、明祥馨負責人郭再欽與民進黨台南黨部主委潘新傳是緊密的利益共同體](https://www.facebook.com/k.olc.tw/posts/1627420537431403)
+2020/09/17 - 臺灣臺南地方檢察署檢察官於109年9月17日會同内政部警政署保安警察第七總隊第三大隊、法務部調查局臺南市調查處、改制前行政院環境保護署環境督察總隊南區環境督察大隊南區督察大隊及被告等單位，至臺市學甲區興業段工業用地進行現勘及調查時，發現學甲區興業段380、381、387、388、516、517、519、520、521、526、527、530、802、803、804、804-1、804-2地號土地，大量違法填埋明祥馨公司未去化爐碴或爐碴再利用後產品。
 2020/9/26 - [時代力量陳椒華立委會同相關單位現勘開挖 3 處學甲工業區土地，相關單位以未獲得土地所有權人同意並未進行正式檢驗，現場透過台南社大以手持設備檢驗有重金屬超標情況](https://www.facebook.com/ironprofessorchan/posts/217236973078326)
 2020/10/7 - [時代力量陳椒華立委出示工業局公文說明明祥馨公司再利用產品不得作為工程填地材料](https://www.facebook.com/notes/%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1-%E9%99%B3%E6%A4%92%E8%8F%AF/%E5%AD%B8%E7%94%B2%E7%88%90%E7%A2%B4%E6%A1%88-%E9%BB%83%E5%81%89%E5%93%B2%E5%B8%82%E9%95%B7-%E4%BD%A0%E9%8C%AF%E4%BA%86/10217753444975216/) 「自2010年8月6日修法後6個月起，無論農業用地或工業用地，皆不得以電弧爐煉鋼爐碴(石)作為填地材料；明祥馨爐碴再利用用途未包含工程填地材料；再利用用途產品為級配粒料者，也不得作為工程填地材料使用。」
 2020/10/7 - [臺南市政府環境保護局回應 "工業用地可否使用爐碴產品  請看清楚工業局之法令"](https://web.tainan.gov.tw/epb/News_Content.aspx?n=15914&s=7715760), [備份](/RMdbmvPwSEmf9q7DoXmJfw)
@@ -96,10 +97,12 @@
 2022/05/19 - [監察委員林國明提案糾正臺南市政府](https://www.cy.gov.tw/News_Content.aspx?n=125&sms=8912&s=23696)
 2022/12/12 - [學甲農地爐渣案業者不法獲利21億 郭再欽等8人遭起訴](https://www.tnc.moj.gov.tw/media/305099/%E9%83%ADoo%E9%81%95%E5%8F%8D%E5%BB%A2%E6%A3%84%E6%B8%85%E6%B3%95%E7%AD%89%E7%BD%AA%E5%AB%8C%E6%8F%90%E8%B5%B7%E5%85%AC%E8%A8%B4%E6%96%B0%E8%81%9E%E7%A8%BF.pdf?mediaDL=true)
 2022/12/19 - [台南市議會專案報告「學甲、後壁爐碴案」](https://www.youtube.com/watch?v=EXPoOGvw7HI)
+2023/06/21 - 環事字第112007225A號函命明样馨公司、郭再欽及魏如筠於112年7月10日前提送處置計畫書
 2024/02/23 - [台南學甲爐渣案 監委提案彈劾黃偉哲5比7未通過](https://www.cna.com.tw/news/aipl/202402230121.aspx)
 2024/09/06 - [學甲爐碴案迄今只清三分之一　國有地尚有二千多噸未清](https://www.facebook.com/story.php?story_fbid=122176307390188150&id=61555644527991)
 2024/11/09 - [台南學甲爐碴未清完 表面水呈強鹼](https://udn.com/news/story/7326/8348101)
 2025/02/13 - [環境部 部長彭啓明與台南市政府環境保護局 局長 許仁澤 podcast 討論](https://www.moenv.gov.tw/page/C4405EE8E0558CFC/f5ddd3f8-1725-4d36-9d52-19aa86dfe668), [逐字](https://hackmd.io/@kiang/HJF5-wT5Je)
+2025/03/24 - [郭再欽聲請解除扣押之命令遭駁回](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TNDM,114%2c%e8%81%b2%2c53%2c20250324%2c1)
 
 其他參考資料
 20190624 李新進里長陳情書
