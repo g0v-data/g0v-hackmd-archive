@@ -59,6 +59,7 @@ https://youtu.be/mrFshcqeea8
 
 Lights Out? Wargaming a Chinese Blockade of Taiwan
 https://www.csis.org/analysis/lights-out-wargaming-chinese-blockade-taiwan
+https://www.youtube.com/live/-kD308CGn-o
 
 台海，12海哩
 https://www.facebook.com/share/p/1P2CjpSvde/
