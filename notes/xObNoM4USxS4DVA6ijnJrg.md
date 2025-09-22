@@ -56,8 +56,11 @@
 2008/4/29 - 廢棄物清理法修法可做工程填地材料，但僅限於非農業用地
 2011/2/6 - 廢棄物清理法修法生效，爐渣不可作為工程填地材料，只能用在機場、道路、人行道、貨櫃場或停車場之鋪面工程基底層級配粒料原料
 2011/04/01 - 明祥馨公司成為「公告可直接再利用之基本金屬製造業在電弧爐煉鋼製程所產生之氧化碴（石）（代碼K-1209）或還原碴（石）（代碼 R-1210）」之再利用機構，並產製水泥原料、水泥製品原料、非結構性混凝土粒料原料、瀝青混凝土粒料原料等再利用後產品。(104年3月9日府環事字第1040238674號函)
+2013/04/30 - [謝財旺議員市政總質詢---控訴學甲區魚塭遭掩埋不明廢棄物](https://www.tncc.gov.tw/2019/tnccp/ccp_03a.asp?cid=1D23AB73-4AE2-4B4C-91DC-623BBFA86CDF)
+2015/07/12 - 農民林富順於爐渣掩埋處租田種稻，收割濕稻穀後，賣給將軍區萬國稻穀廠，負責人黃信升說27公噸濕稻穀已流向嘉義縣三合豐碾米廠
 2015/08/11 - [嘉義縣調查站鎖定學甲大灣段農地進行開挖調查](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=875)，確認掩埋大量爐渣，當時[明祥馨公司共收受 64 萬噸爐渣，蘋果日報記者估計獲利近 2 億餘新台幣](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=872)
 2015/08/16 - [農糧署封存 69 噸稻米](https://nature.tncomu.tw/modules/tadnews/pda.php?nsn=870)，因為可能混有事發農地收割的稻米，確保不會流入市面
+2015/08/17 - [市議員林燕祝、林美燕、曾培雅召開記者會，去年種向日葵憂流向](https://news.ltn.com.tw/news/politics/breakingnews/1414776)，出身學甲區的市議員謝財旺在兩年前就曾提出質詢，指稱傳言有人在學甲區大量購買土地，疑似掩埋爐渣，並向市府檢舉違法傾倒爐渣一事，但卻沒有下文。
 2015/9/21 - 台南市環保局廢止明祥馨公司再利用身分,[20190618 學甲區公所 函, 發文字號 所民字第1080424918號](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f10e612092516ccc97b94590d680fe87.jpg)，違法推置之爐渣廢棄物估算為581629.519公噸，其等不法所得約在1,564,583,406元。
 2015/10/2 - [台南市政府依據違反廢清法開罰 6000](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTU5L3JlbGZpbGUvMTc1MTUvNzcwOTMwMS84OTMwYzk1Yy0zYTBjLTQzMDctOWRhMi04ZjQ1MDdiNGFjZWMucGRm&n=5a2455Sy6L6y5Zyw5aGr5Z%2bL54iQ56K05qGIUV9BLnBkZg%3d%3d&icon=.pdf)
 2015/11/18 - [台南市政府依據區域計畫法開罰 15 萬元](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTU5L3JlbGZpbGUvMTc1MTUvNzcwOTMwMS84OTMwYzk1Yy0zYTBjLTQzMDctOWRhMi04ZjQ1MDdiNGFjZWMucGRm&n=5a2455Sy6L6y5Zyw5aGr5Z%2bL54iQ56K05qGIUV9BLnBkZg%3d%3d&icon=.pdf)
