@@ -13,6 +13,11 @@ https://maps.app.goo.gl/S2vwgLF4RRtdKJ1B8
 編輯網址：
 https://www.google.com/maps/d/edit?mid=1aFMHm0EAtRgxFf7Wgg3dhSQkgMkfgT4&usp=sharing
 
+## 參考
+
+日本『完全踏査  古代の道』（武部健一著/吉川弘文館）用 QGIS 套疊
+https://www.facebook.com/groups/196846977135110?multi_permalinks=3156766061143172
+
 ## 待登載區
 
 徹底再現三萬年前航海 學古人從台灣划到日本沖繩 https://dq.yam.com/post/9978
