@@ -45,5 +45,8 @@ https://www.vtaiwan.tw/jitsi
 ## TFGA 專案下一步
 - 希望吸引大家來填寫問卷
 
-## TWNIC Grant 
-- 
+## TWNIC 提案申請
+- OCF 目前確定可以協助，我們需要整理好要填寫的內容於 2025/09/25 提供給 OCF 
+    - 工作信件已發
+- 申請相關資料：https://drive.google.com/drive/folders/1pi_9BnNZe2BOPzLS3LDuqN2mP61wNI68?usp=share_link
+- 目前的提案共筆：https://g0v.hackmd.io/@tmonk/rJHYWR9S4/%2F7Fo3M_qRR2CMQc6q08YwlQ?type=book 
