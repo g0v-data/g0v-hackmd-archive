@@ -11,6 +11,8 @@
 
 ## 寶可夢中心
 平日不用整理券 我想去跟快龍拍照~~~~~ 看看你有沒有也喜歡什麼娃娃可以買
+![](https://g0v.hackmd.io/_uploads/S13tLHe2le.png)
+
 
 ## 搭藍線去龍山寺
 捷運時間16分鐘~~
@@ -50,3 +52,21 @@ https://theroomlife.com/umkt/
 ![](https://g0v.hackmd.io/_uploads/BJFseHx2lg.png)
 
 別人好會拍~
+
+
+我本來想找地瓜球 但有一間不知道幾點開 夜市很多 但評價超低 應該很可怕QQ
+
+
+## 飯後
+
+想說就去逛逛三創~
+
+https://www.instagram.com/p/DOqVIfMki1D/
+這個到10/6
+
+https://www.instagram.com/p/DOnt_OjD_Yf/
+這個到9/29
+
+
+https://www.instagram.com/reel/DNe3EAPJ4dM/
+也是有賣潮牌鞋可以看看 (不過稍微看感覺風格太前衛!)
