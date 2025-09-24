@@ -72,8 +72,9 @@ Contributing content **means that you agree to waive your copyright and release 
 
 --- 
 ## 💪給能幫忙的人<br>For Those Who Can Provide Assistance
-**⚠️目前以救援為主，物資請稍待~~~**
-[救援資源平台整核中，請先留資訊，方便收物資再通知！](https://www.facebook.com/share/p/17LXb7uwvX/)
+**⚠️請詳閱當地需求與收送方式**
+* [FATA'AN物資運送處](https://www.facebook.com/share/p/1GfxJdDQx8/)
+* [馬太鞍長老教會](https://www.facebook.com/share/p/176pqwTz62/)
 
 ## 其他資訊💡<br>Other Info
 
