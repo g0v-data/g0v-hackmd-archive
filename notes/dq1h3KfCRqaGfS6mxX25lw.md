@@ -1,7 +1,7 @@
 ---
 title: "2025-09-23 花蓮馬太鞍溪堰塞湖溢流災情整合平台"
 tags: 災情整合平台, 花蓮, 馬太鞍溪, 堰塞湖 
-image: 
+image: https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250811/1600x1200_wmkn_15916841909_202508100064000000.jpg
 description: 本平台非政府官方所設，所有內容僅供參考，歡迎共筆。
 ---
 
@@ -25,9 +25,9 @@ This platform is NOT endorsed NOR maintained by the government officials, **all 
 Contributing content **means that you agree to waive your copyright and release your content to the Public Domain** under *the full extent of the law*.
 :::
 
-* [首頁<br>Homepage](https://g0v.hackmd.io/@yitzu/Matai-anQuakeLake)
+* [首頁<br>Homepage](https://g0v.hackmd.io/@yitzu/Fata-an_BarrierLake)
  
-## 置頂📌<br>Pinned
+## 📌置頂<br>
 * [🆘Fata’an部落網絡急救小組](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)
 * [💻馬太鞍溪堰塞湖及時監測面板：](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)
 

@@ -8,7 +8,7 @@ tags: vTaiwan
 參與者 Participants：
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
-![](https://g0v.hackmd.io/_uploads/rk4PUmOixg.png)
+
 
 
 ::: success
@@ -39,14 +39,20 @@ https://www.vtaiwan.tw/jitsi
 :::
 
 ## 小小的分享
-- 首爾 GPA 見聞
+- [首爾 GPA 見聞](https://app.heptabase.com/w/3dadf3068d993bf1aff81863c41714675ae7c4ea536bb890a36e476c230bc0ef)
+- 與一位研究者 Carlo 聯繫上，他是來自瑞典的博士後研究員，十月會來台灣清華大學開展針對大規模公民參與的研究。目前預定明天會跟他一起討論：
+    - 研究論著：
+        - [1] https://link.springer.com/chapter/10.1007/978-3-031-93739-2_14
+        - [2] https://medium.com/@carlo.michaelis/evocracy-thinking-democracy-from-scratch-657a0293c070
+        - [3] https://www.youtube.com/@DemocracyInnovatorsPodcast
 
-
-## TFGA 專案下一步
-- 希望吸引大家來填寫問卷
 
 ## TWNIC 提案申請
 - OCF 目前確定可以協助，我們需要整理好要填寫的內容於 2025/09/25 提供給 OCF 
     - 工作信件已發
 - 申請相關資料：https://drive.google.com/drive/folders/1pi_9BnNZe2BOPzLS3LDuqN2mP61wNI68?usp=share_link
 - 目前的提案共筆：https://g0v.hackmd.io/@tmonk/rJHYWR9S4/%2F7Fo3M_qRR2CMQc6q08YwlQ?type=book 
+
+## TFGA 專案下一步
+- 希望吸引大家來填寫問卷
+- 問卷連結
