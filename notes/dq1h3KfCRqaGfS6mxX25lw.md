@@ -32,13 +32,12 @@ Contributing content **means that you agree to waive your copyright and release 
 ---
 ## 💡 關於馬太鞍溪堰塞湖，說明與資訊 Info
 
-* [馬太鞍溪堰塞湖壩體114.9.24更新](https://www.facebook.com/watch/?ref=saved&v=1863772707895866)
+* [馬太鞍溪堰塞湖壩體114.9.24更新](https://www.facebook.com/watch/?ref=saved&v=1863772707895866)：內有影片說明
 * [馬太鞍溪堰塞湖監測紀實](https://arcg.is/1rqL110) ：內有「應變作為時間軸」
 * [農業部林業及自然保育署](https://www.forest.gov.tw/ForestNews?q=%e9%a6%ac%e5%a4%aa%e9%9e%8d&ca2=2025-07-01) ：馬太鞍溪堰塞湖近期應變資訊（顯示 2025.7 起資訊）
 * [NCDR WATCH](https://watch.ncdr.nat.gov.tw/watch_barrier_map_v2)
 
 ---
-
 
 ## 📢 狀況回報
 ### [EMIC災情地圖](https://tainan.olc.tw/p/emic/)
@@ -52,9 +51,8 @@ Contributing content **means that you agree to waive your copyright and release 
         * 北上>>從台東北上的路線，走台11海線
         　　>>玉長>走193到光復
 
-### 停電狀況
+### 停電停水狀況
 * [停電地圖](https://tainan.olc.tw/p/emic/taipower.html)
-### 停水狀況
 * [停水地圖](https://tainan.olc.tw/p/wateroff/)
 
 ---
@@ -80,7 +78,10 @@ Contributing content **means that you agree to waive your copyright and release 
 --- 
 ## 💪 給能幫忙的人<br>For Those Who Can Provide Assistance
 **⚠️ 請詳閱當地需求與收送方式**
-* [財團法人賑災基金會](https://www.facebook.com/photo?fbid=1347497900079317&set=a.519537112875404/) `(賴清德總統臉書，勸募時間 9/25-10/24)`
+### 捐款
+* [財團法人賑災基金會](https://www.facebook.com/photo?fbid=1347497900079317&set=a.519537112875404/) `(賴清德總統臉書公布，勸募時間 9/25-10/24)`
+* [衛福部啟動四種捐款管道](https://www.cna.com.tw/news/ahel/202509240379.aspx) `(中央社9/24報導，除賑災基金會還有 Line Pay、超商捐款、海外捐款等管道)`
+### 物資
 * [FATA'AN物資運送處](https://www.facebook.com/share/p/1GfxJdDQx8/) `(9/24 22:00更新暫緩募集)`
 * [馬太鞍長老教會](https://www.facebook.com/share/p/176pqwTz62/)`(9/24 22:00更新暫緩募集)`
 * [慈濟招募清掃志工](https://www.facebook.com/watch?v=1253051549925969)
@@ -88,9 +89,12 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ---
 ## 📎 社群/媒體報導
+### 社群媒體
 * [跟著小飛玩/臉書](https://www.facebook.com/watch/?v=10029680930469607)：9/1 發文，「今年夏天，花蓮萬榮的馬太鞍溪谷形成了一個巨大的堰塞湖。
 * [海人/臉書](https://www.facebook.com/cgubear)：持續更新相關資訊
 * [翻轉地理教室/臉書](https://www.facebook.com/flippingGEO/posts/pfbid02Qsez7duMc6AWqqgpPA5U1wsfRgD8B1Wc1Rkx3wVy2CdeGvzWd2xth21aSXuKbnArl) ：堰塞湖科普，及台灣堰塞湖資訊
+
+### 媒體報導
 * [中央社報導](https://www.cna.com.tw/news/aipl/202509240263.aspx?utm_medium=app&utm_source=cna.app&utm_campaign=inapp_share&fbclid=IwY2xjawNBP2VleHRuA2FlbQIxMABicmlkETE4M0hTRTg1QldmODVWSXF1AR7KH1sWXgqqvd0hgVa5E13oBmeSeZZ49xarEhFt0cVBoYy4S4XY2MXNUT2LXw_aem_1-JcEkkpy3pH98DI7kCBMw)：劉世芳2週前委託監控馬太鞍溪堰塞湖　李鴻源：若沒做傷亡難想像
 * [中央社報導](https://www.cna.com.tw/news/ahel/202509245005.aspx)：馬太鞍溪堰塞湖釀災為何不先施工引流？堰塞湖形成原因與處置方式一文看懂
 * [天下雜誌報導](https://www.cw.com.tw/article/5137539)：花蓮光復洪災》馬太鞍堰塞湖成因、最新災情與影響一次看
