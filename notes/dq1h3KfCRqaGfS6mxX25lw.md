@@ -65,6 +65,7 @@ Contributing content **means that you agree to waive your copyright and release 
 	* 時間：9/25(四)~26(五) 11:00~16:00 (動態調整)
 	* 地點：馬太鞍教會
 	* 如果有行動不變的長輩，也可以與楊曉君0919-230-356連絡協助處理。
+* [衛福部應變措施與資源](https://www.facebook.com/mohw.gov.tw/posts/pfbid0oc3LoTxpKGaEAUGtQTzaidp9mJtSCBRK2vK7PeZDFxaCQy6pUJuptJqALcfJAFoQl)：洗腎、孕婦、急救、安置、社工、防疫等資源
 
 ### 安置空間 
 * 避難所&聯絡窗口
@@ -87,7 +88,8 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ---
 ## 📎 社群/媒體報導
-* [跟著小飛玩臉書](https://www.facebook.com/watch/?v=10029680930469607)：9/1 發文，「今年夏天，花蓮萬榮的馬太鞍溪谷形成了一個巨大的堰塞湖。
+* [跟著小飛玩/臉書](https://www.facebook.com/watch/?v=10029680930469607)：9/1 發文，「今年夏天，花蓮萬榮的馬太鞍溪谷形成了一個巨大的堰塞湖。
+* [海人/臉書](https://www.facebook.com/cgubear)：持續更新相關資訊
 * [中央社報導](https://www.cna.com.tw/news/ahel/202509245005.aspx)：馬太鞍溪堰塞湖釀災為何不先施工引流？堰塞湖形成原因與處置方式一文看懂
 * [天下雜誌報導](https://www.cw.com.tw/article/5137539)：花蓮光復洪災》馬太鞍堰塞湖成因、最新災情與影響一次看
 
