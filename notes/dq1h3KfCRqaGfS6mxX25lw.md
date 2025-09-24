@@ -35,11 +35,13 @@ Contributing content **means that you agree to waive your copyright and release 
 ---
 ## 狀況回報
 ### 停電狀況
-* 
+* [停電地圖](https://tainan.olc.tw/p/emic/taipower.html)
 ### 停水狀況
-* 
+* [停水地圖](https://tainan.olc.tw/p/wateroff/)
 ### 交通狀況
-* 
+*
+### 災情
+* [EMIC災情](https://tainan.olc.tw/p/emic/)
 
 --- 
 ## 給能幫忙的人💪<br>For Those Who Can Provide Assistance
