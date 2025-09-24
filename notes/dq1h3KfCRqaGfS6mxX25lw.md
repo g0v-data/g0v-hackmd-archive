@@ -7,16 +7,9 @@ description: 本平台非政府官方所設，所有內容僅供參考，歡迎�
 
 # 2025-09-23 <br>花蓮馬太鞍溪堰塞湖溢流災情整合平台 <br>
 
-:::info
-分享專用網址：
-
-本平台基於 [HackMD](https://hackmd.io) 的書本模式 (Book Mode)，編輯方式請參閱 [Book example - HackMD](https://hackmd.io/book-example) 以及目錄下方之教學
-
-點擊上方左右側的<span style="padding: 1px 1.5px 3px 3.5px; background: white; border-radius: 5px; margin: 0px 4px;"><i class="fa fa-pencil fa-fw"></i></span>開始進行編輯
-:::
 
 :::warning
-本平台非政府官方所設，**所有內容僅供參考**。  
+本平台由 g0v 社群參與者所設，非政府官方網站，**所有內容僅供參考**。  
 This platform is NOT endorsed NOR maintained by the government officials, **all contents are only for reference purposes**.
 :::
 
@@ -34,7 +27,17 @@ Contributing content **means that you agree to waive your copyright and release 
 <iframe width="100%" height="520" frameborder="0" src="https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake?fbclid=IwY2xjawNAjchleHRuA2FlbQIxMQABHr9tBc8zwYVP4N5oqyiu_5O_gpC0D-nHwA6tV8xZPQWGITVl8K5EaeWCe6UB_aem_LnJVRr2QWtenzCz8L8sOSA" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ---
-## 📢狀況回報
+
+## 💡 關於馬太鞍溪堰塞湖，說明與資訊 Info
+
+* [馬太鞍溪堰塞湖壩體114.9.24更新](https://www.facebook.com/watch/?ref=saved&v=1863772707895866)
+* [馬太鞍溪堰塞湖監測紀實](https://arcg.is/1rqL110)
+* [NCDR WATCH](https://watch.ncdr.nat.gov.tw/watch_barrier_map_v2)
+
+
+
+
+## 📢 狀況回報
 ### [EMIC災情地圖](https://tainan.olc.tw/p/emic/)
  
 ### 交通狀況 
@@ -52,7 +55,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * [停水地圖](https://tainan.olc.tw/p/wateroff/)
 
 ---
-## 👪給當地居民<br>
+## 👪 給當地居民<br>
 
 ### 醫療資源
 * 門諾醫院醫療站 @馬太鞍教會
@@ -71,17 +74,31 @@ Contributing content **means that you agree to waive your copyright and release 
 * [民間提供住宿清單](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)
 
 --- 
-## 💪給能幫忙的人<br>For Those Who Can Provide Assistance
-**⚠️請詳閱當地需求與收送方式**
+## 💪 給能幫忙的人<br>For Those Who Can Provide Assistance
+**⚠️ 請詳閱當地需求與收送方式**
+* [財團法人賑災基金會](https://www.facebook.com/photo?fbid=1347497900079317&set=a.519537112875404/) `(賴清德總統臉書，勸募時間 9/25-10/24)`
 * [FATA'AN物資運送處](https://www.facebook.com/share/p/1GfxJdDQx8/) `(9/24 22:00更新暫緩募集)`
 * [馬太鞍長老教會](https://www.facebook.com/share/p/176pqwTz62/)`(9/24 22:00更新暫緩募集)`
-
-## 其他資訊💡<br>Other Info
-
-* [馬太鞍溪堰塞湖監測紀實](https://arcg.is/1rqL110)
-* [NCDR WATCH](https://watch.ncdr.nat.gov.tw/watch_barrier_map_v2)
+* [慈濟招募清掃志工](https://www.facebook.com/watch?v=1253051549925969)
 
 
+---
+## 📎 社群/媒體報導
+* [跟著小飛玩臉書](https://www.facebook.com/watch/?v=10029680930469607)：9/1 發文，「今年夏天，花蓮萬榮的馬太鞍溪谷形成了一個巨大的堰塞湖。
+* [中央社報導](https://www.cna.com.tw/news/ahel/202509245005.aspx)：馬太鞍溪堰塞湖釀災為何不先施工引流？堰塞湖形成原因與處置方式一文看懂
+
+
+--- 
+
+## ✏️ 給願意共筆的人
+
+:::info
+分享專用網址：
+
+本平台基於 [HackMD](https://hackmd.io) 的書本模式 (Book Mode)，編輯方式請參閱 [Book example - HackMD](https://hackmd.io/book-example) 以及目錄下方之教學
+
+點擊上方左右側的<span style="padding: 1px 1.5px 3px 3.5px; background: white; border-radius: 5px; margin: 0px 4px;"><i class="fa fa-pencil fa-fw"></i></span>開始進行編輯
+:::
 
 ## 平台使用說明📖<br>HOWTOs
 * [HackMD 超快速上手](https://hackmd.io/s/HJ2oHHXfX)
