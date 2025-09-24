@@ -28,16 +28,17 @@ Contributing content **means that you agree to waive your copyright and release 
 * [首頁<br>Homepage](https://g0v.hackmd.io/@yitzu/Matai-anQuakeLake)
  
 ## 置頂📌<br>Pinned
-* [Fata’an部落網絡急救小組🆘](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)
-* [馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake?fbclid=IwY2xjawNAjchleHRuA2FlbQIxMQABHr9tBc8zwYVP4N5oqyiu_5O_gpC0D-nHwA6tV8xZPQWGITVl8K5EaeWCe6UB_aem_LnJVRr2QWtenzCz8L8sOSA)
+* [🆘Fata’an部落網絡急救小組](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)
+* [💻馬太鞍溪堰塞湖及時監測面板：](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)
 
+<iframe width="100%" height="520" frameborder="0" src="https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake?fbclid=IwY2xjawNAjchleHRuA2FlbQIxMQABHr9tBc8zwYVP4N5oqyiu_5O_gpC0D-nHwA6tV8xZPQWGITVl8K5EaeWCe6UB_aem_LnJVRr2QWtenzCz8L8sOSA" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ---
 ## 狀況回報
-* [災情地圖](https://tainan.olc.tw/p/emic/)
+### [EMIC災情地圖](https://tainan.olc.tw/p/emic/)
  
 ### 交通狀況 
-⚠️**非救災需求，請立即離開光復鄉！**
+**🚨非救災需求，請立即離開光復鄉！**
 * 光復鄉
     * 火車：鳳林=瑞穗間8時起恢復正常行車。(詳情看依[台鐵公告](https://wooo.tw/pG59AkT)為主)
     * 公路：
@@ -50,25 +51,34 @@ Contributing content **means that you agree to waive your copyright and release 
 ### 停水狀況
 * [停水地圖](https://tainan.olc.tw/p/wateroff/)
 
-### 災情
-* [EMIC災情](https://tainan.olc.tw/p/emic/)
+---
+## 給當地居民👪<br>
+
+### 醫療資源
+* 門諾醫院醫療站 @馬太鞍教會
+	* 時間：9/25(四)~26(五) 11:00~16:00 (動態調整)
+	* 地點：馬太鞍教會
+	* 如果有行動不變的長輩，也可以與楊曉君0919-230-356連絡協助處理。
+
+### 安置空間 
+* 避難所&聯絡窗口
+    * [馬太鞍長老教會](https://maps.app.goo.gl/aYTmRxdrpSYMrh1j8)--蔡智輝代表 0919-965-120
+    * [糖廠管理員室後面的親子館](https://maps.app.goo.gl/u73Qb1SoS7M3Lfk38)--曾秀琴  0955-514994
+    * [光復國小](https://maps.app.goo.gl/fk8eUc8TAMfpqWLk6)--梁家瑋 0930-265-833
+    * [大進國小](https://maps.app.goo.gl/Jg3Q2fZuWG9qc7Zw6)--葛小姐 0976-095-302
+
+
+* [民間提供住宿清單](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)
 
 --- 
 ## 給能幫忙的人💪<br>For Those Who Can Provide Assistance
-* 
-
-
-## 媒體資源工具包🎨📷📹<br>Media Resource Kit<br><small>這邊用來整理一些*可以再次使用*的媒體素材，**請務必在[合理使用(fair use)](https://zh.wikipedia.org/wiki/%E5%90%88%E7%90%86%E4%BD%BF%E7%94%A8)的範圍內尊重素材持有人的權益**</small>
-
-
-
+**⚠️目前以救援為主，物資請稍待~~~**
+[救援資源平台整核中，請先留資訊，方便收物資再通知！](https://www.facebook.com/share/p/17LXb7uwvX/)
 
 ## 其他資訊💡<br>Other Info
 
 * [馬太鞍溪堰塞湖監測紀實](https://arcg.is/1rqL110)
-* 
-
-## 媒體報導📺📰<br>Press Coverage
+* [NCDR WATCH](https://watch.ncdr.nat.gov.tw/watch_barrier_map_v2)
 
 
 
