@@ -90,6 +90,8 @@ Contributing content **means that you agree to waive your copyright and release 
 ## 📎 社群/媒體報導
 * [跟著小飛玩/臉書](https://www.facebook.com/watch/?v=10029680930469607)：9/1 發文，「今年夏天，花蓮萬榮的馬太鞍溪谷形成了一個巨大的堰塞湖。
 * [海人/臉書](https://www.facebook.com/cgubear)：持續更新相關資訊
+* [翻轉地理教室/臉書](https://www.facebook.com/flippingGEO/posts/pfbid02Qsez7duMc6AWqqgpPA5U1wsfRgD8B1Wc1Rkx3wVy2CdeGvzWd2xth21aSXuKbnArl) ：堰塞湖科普，及台灣堰塞湖資訊
+* [中央社報導](https://www.cna.com.tw/news/aipl/202509240263.aspx?utm_medium=app&utm_source=cna.app&utm_campaign=inapp_share&fbclid=IwY2xjawNBP2VleHRuA2FlbQIxMABicmlkETE4M0hTRTg1QldmODVWSXF1AR7KH1sWXgqqvd0hgVa5E13oBmeSeZZ49xarEhFt0cVBoYy4S4XY2MXNUT2LXw_aem_1-JcEkkpy3pH98DI7kCBMw)：劉世芳2週前委託監控馬太鞍溪堰塞湖　李鴻源：若沒做傷亡難想像
 * [中央社報導](https://www.cna.com.tw/news/ahel/202509245005.aspx)：馬太鞍溪堰塞湖釀災為何不先施工引流？堰塞湖形成原因與處置方式一文看懂
 * [天下雜誌報導](https://www.cw.com.tw/article/5137539)：花蓮光復洪災》馬太鞍堰塞湖成因、最新災情與影響一次看
 
