@@ -34,7 +34,7 @@ Contributing content **means that you agree to waive your copyright and release 
 <iframe width="100%" height="520" frameborder="0" src="https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake?fbclid=IwY2xjawNAjchleHRuA2FlbQIxMQABHr9tBc8zwYVP4N5oqyiu_5O_gpC0D-nHwA6tV8xZPQWGITVl8K5EaeWCe6UB_aem_LnJVRr2QWtenzCz8L8sOSA" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ---
-## 狀況回報
+## 📢狀況回報
 ### [EMIC災情地圖](https://tainan.olc.tw/p/emic/)
  
 ### 交通狀況 
@@ -52,7 +52,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * [停水地圖](https://tainan.olc.tw/p/wateroff/)
 
 ---
-## 給當地居民👪<br>
+## 👪給當地居民<br>
 
 ### 醫療資源
 * 門諾醫院醫療站 @馬太鞍教會
@@ -71,7 +71,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * [民間提供住宿清單](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)
 
 --- 
-## 給能幫忙的人💪<br>For Those Who Can Provide Assistance
+## 💪給能幫忙的人<br>For Those Who Can Provide Assistance
 **⚠️目前以救援為主，物資請稍待~~~**
 [救援資源平台整核中，請先留資訊，方便收物資再通知！](https://www.facebook.com/share/p/17LXb7uwvX/)
 
