@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Bestian、Tofus、Peter、Josh、翊婷、YuTing Tim、Anan阿南
+參與者 Participants：Bestian、Tofus、Peter、Josh、翊婷、YuTing、 Tim、Anan阿南
  https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
 
@@ -65,7 +65,7 @@ tags: vTaiwan
 - 目前會把意見散布出去
 
 
-手動逐字稿：
+## 手動逐字稿：
 
 Peter:討論申請提案，先跟大家講一下目前行政狀況：ＯＣＦ不能代表 vTaiwan，會由 李柏鋒......的什麼組織來處理。目前 Josh（要擴大） 和 Bestian（只想著重在 sensemaker，若太大，考慮退出)
 意見不同。
