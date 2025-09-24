@@ -9,7 +9,7 @@ description: 本平台非政府官方所設，所有內容僅供參考，歡迎�
 
 
 :::warning
-本平台由 g0v 社群參與者所設，非政府官方網站，**所有內容僅供參考**。  
+本平台由 g0v 社群參與者所設，非政府官方網站，**所有內容僅供參考**，歡迎共筆更新。  
 This platform is NOT endorsed NOR maintained by the government officials, **all contents are only for reference purposes**.
 :::
 
@@ -21,20 +21,23 @@ Contributing content **means that you agree to waive your copyright and release 
 * [首頁<br>Homepage](https://g0v.hackmd.io/@yitzu/Fata-an_BarrierLake)
  
 ## 📌置頂<br>
+
+
+
 * [🆘Fata’an部落網絡急救小組](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)
 * [💻馬太鞍溪堰塞湖及時監測面板：](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)
 
 <iframe width="100%" height="520" frameborder="0" src="https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake?fbclid=IwY2xjawNAjchleHRuA2FlbQIxMQABHr9tBc8zwYVP4N5oqyiu_5O_gpC0D-nHwA6tV8xZPQWGITVl8K5EaeWCe6UB_aem_LnJVRr2QWtenzCz8L8sOSA" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ---
-
 ## 💡 關於馬太鞍溪堰塞湖，說明與資訊 Info
 
 * [馬太鞍溪堰塞湖壩體114.9.24更新](https://www.facebook.com/watch/?ref=saved&v=1863772707895866)
-* [馬太鞍溪堰塞湖監測紀實](https://arcg.is/1rqL110)
+* [馬太鞍溪堰塞湖監測紀實](https://arcg.is/1rqL110) ：內有「應變作為時間軸」
+* [農業部林業及自然保育署](https://www.forest.gov.tw/ForestNews?q=%e9%a6%ac%e5%a4%aa%e9%9e%8d&ca2=2025-07-01) ：馬太鞍溪堰塞湖近期應變資訊（顯示 2025.7 起資訊）
 * [NCDR WATCH](https://watch.ncdr.nat.gov.tw/watch_barrier_map_v2)
 
-
+---
 
 
 ## 📢 狀況回報
@@ -86,7 +89,7 @@ Contributing content **means that you agree to waive your copyright and release 
 ## 📎 社群/媒體報導
 * [跟著小飛玩臉書](https://www.facebook.com/watch/?v=10029680930469607)：9/1 發文，「今年夏天，花蓮萬榮的馬太鞍溪谷形成了一個巨大的堰塞湖。
 * [中央社報導](https://www.cna.com.tw/news/ahel/202509245005.aspx)：馬太鞍溪堰塞湖釀災為何不先施工引流？堰塞湖形成原因與處置方式一文看懂
-
+* [天下雜誌報導](https://www.cw.com.tw/article/5137539)：花蓮光復洪災》馬太鞍堰塞湖成因、最新災情與影響一次看
 
 --- 
 
