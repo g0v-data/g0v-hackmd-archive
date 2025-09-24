@@ -2,7 +2,6 @@
 tags: 021up, voting
 ---
 
-
 # 021up（共學社群）｜2025.09.21｜g0v大松
 
 
@@ -12,6 +11,8 @@ tags: 021up, voting
 > 
 > 離開熟悉的地方與領域，在變化中探索新的可能。而在這條路上，最重要的不是一個人能走多快，而是彼此的支持與共學，讓每一次的嘗試，都能化為共同前行的力量。
 
+## 介紹影片
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pL6Er6KoVt8?si=QaMipNX9nEGSiXo1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## 目前內容
