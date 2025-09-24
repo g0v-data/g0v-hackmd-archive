@@ -27,19 +27,29 @@ Contributing content **means that you agree to waive your copyright and release 
 
 * [首頁<br>Homepage](https://g0v.hackmd.io/@yitzu/Matai-anQuakeLake)
  
-
-
 ## 置頂📌<br>Pinned
-* 
+* [Fata’an部落網絡急救小組🆘](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)
+* [馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake?fbclid=IwY2xjawNAjchleHRuA2FlbQIxMQABHr9tBc8zwYVP4N5oqyiu_5O_gpC0D-nHwA6tV8xZPQWGITVl8K5EaeWCe6UB_aem_LnJVRr2QWtenzCz8L8sOSA)
+
 
 ---
 ## 狀況回報
+* [災情地圖](https://tainan.olc.tw/p/emic/)
+ 
+### 交通狀況 
+⚠️**非救災需求，請立即離開光復鄉！**
+* 光復鄉
+    * 火車：鳳林=瑞穗間8時起恢復正常行車。(詳情看依[台鐵公告](https://wooo.tw/pG59AkT)為主)
+    * 公路：
+        * 南下>>花蓮南下到鳳林劍英大橋轉進193線到光復
+        * 北上>>從台東北上的路線，走台11海線
+        　　>>玉長>走193到光復
+
 ### 停電狀況
 * [停電地圖](https://tainan.olc.tw/p/emic/taipower.html)
 ### 停水狀況
 * [停水地圖](https://tainan.olc.tw/p/wateroff/)
-### 交通狀況
-*
+
 ### 災情
 * [EMIC災情](https://tainan.olc.tw/p/emic/)
 
