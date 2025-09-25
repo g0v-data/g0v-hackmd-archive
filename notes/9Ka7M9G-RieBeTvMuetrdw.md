@@ -38,7 +38,7 @@ title: g0v Summit 2026 社群帳號與審稿流程
     - 文案負責人至宣傳組[社群媒體發文](https://drive.google.com/drive/folders/15uRvhC0aKfkr8fpPRmqQ78x5fsjiNVgd?usp=sharing)資料夾，將文案模板建立副本，並按照格式更改檔名（MMDD_文案主旨）
 2. 按照需求撰寫文案與製作配圖
 3. 撰寫完成後，進行組內 review
-    - 發訊息至 Slack 宣傳組頻道（`#summit-2024-media`）請求夥伴 review
+    - 發訊息至 Slack 宣傳組頻道（`#summit-2026-media`）請求夥伴 review
     - reviewer 給出編輯建議與註解後，在文件中的「審稿人」欄位署名
 4. 準備進行文案發佈
     - 發佈至 g0v SNS 需要遵循 [g0v SNS 社群治理機制](/@chihao/Hkm9tPaxr)
