@@ -57,17 +57,48 @@ Contributing content **means that you agree to waive your copyright and release 
 7-ELEVEN的ibon、全家便利商店的FamiPort機台、萊爾富的Life-ET、OKmart的OK．go，點選「馬太鞍溪堰塞湖災害專案」。
     * **匯款**：
         民眾若想捐款，賑災專戶捐款戶名為財團法人賑災基金會。銀行名稱為土地銀行長春分行（005）。銀行帳號為102-005-201-966。
+        
+        
 
 
+* [財團法人台灣基督長老教會宣教基金會](https://donate.pct.org.tw/Storeservice.aspx?SSID=D2019081901) `(在備註寫：花蓮光復鄉洪災)`
 
 
 
 ### 物資
 * <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02ARaSUN4sJLkrwW98kiaoszGCZtEK6mur7jzDJZ3ppFmUTbqoQvWg8ceqEBQYHqkil&id=61551033993595" target="_blank">FATA'AN物資運送處</a> `(9/24 22:00更新暫緩募集)`
 * <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0364yQaNTzYeYcFfsq7NWzaWbBzthQ3es2Zkq5rwrSSckkkCNmQ8y4kFKR2Reu78EQl&id=61551033993595" target="_blank">馬太鞍長老教會</a>`(9/24 22:00更新暫緩募集)`
+* [FATA'AN部落 物資負責人](https://www.facebook.com/permalink.php?story_fbid=122257086650034466&id=61551033993595)（目前限親送）
+    * 王 0981-042-045
+    * 宋 0975-180-730
+
+* [天主教會花蓮教區富田天主堂、天主教善牧基金會](https://www.facebook.com/yang.li.zhou.553496/posts/32477166835215489) (請先聯繫確認募集狀況)
+聯絡人員:張神父、電話:0905-356177
+聯絡人員:曾小姐、電話:0926-290128
+收受地址:花蓮縣光復鄉富田一街16號
+收件人:富田天主堂物資應變小組
+
 ### 人力
 * [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)　`（花蓮縣議員楊美華發起的媒合)`
 * <a href="https://www.facebook.com/watch?v=1253051549925969" target="_blank">慈濟招募清掃志工</a> | [報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) 
+* [打掃志工徵求](https://www.facebook.com/DibusILAI/posts/10161875637406717) 
+    * 馬太鞍長老教會
+蔡代表 0919-965-120
+曾村長 0928-295-892
+王村長 0936-573-056
+    * 糖廠管理員室後面的親子館
+曾小姐 0955-514-994
+    * 光復國小
+梁 0930-265-833
+    * 大進國小
+葛小姐 0976-095-302
+    * 年齡階層 總幹事 0960-514-994
+
+
+* [無事先聯繫臨時來幫忙的人](https://www.facebook.com/muhhua/posts/10162020486870745)
+    * 建議搭火車來，步行可及的有火車站門口 慈濟慈善基金會 https://tzuchi.info/86fn5c （line群可加入）
+    * 收容中心大進國小：花蓮縣卓溪鄉新女力公益協會
+
 ---
 
 ## 📢 狀況回報
@@ -85,6 +116,10 @@ Contributing content **means that you agree to waive your copyright and release 
 ### 停電停水狀況
 * [停電地圖](https://tainan.olc.tw/p/emic/taipower.html)
 * [停水地圖](https://tainan.olc.tw/p/wateroff/)
+
+### 找人
+* [光復糖廠醫療站傷病患名冊](https://www.hl.gov.tw/ysh/News_Content.aspx?n=41177&sms=28955&s=194364)
+* [樺加沙颱風光復鄉撤離收容名冊](https://www.hl.gov.tw/ysh/News_Content.aspx?n=41177&sms=28955&s=194365)
 
 ---
 ## 👪 給當地居民<br>
