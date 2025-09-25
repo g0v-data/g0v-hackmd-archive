@@ -180,11 +180,10 @@ https://reurl.cc/G5qEgZ
 
 【世界衛生組織關於人工智慧醫療的倫理與治理指引︰AI 醫療的關鍵倫理原則與其對台灣的啟示】全文連結：http://markliu.org/AImed.pdf
 
-金融業
+金管會，金融業
 https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202406200001&dtable=News
 
-
-法律行業
+法律行業，美國亞利桑那大學法學院圖書館精心彙整的《ChatGPT and Generative AI Legal Research Guide》正式上線
 https://www.facebook.com/share/p/191BS7CnZU/
 
 大學校園因應生成式AI之指引及教學建議

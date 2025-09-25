@@ -77,12 +77,12 @@ Contributing content **means that you agree to waive your copyright and release 
 * <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0364yQaNTzYeYcFfsq7NWzaWbBzthQ3es2Zkq5rwrSSckkkCNmQ8y4kFKR2Reu78EQl&id=61551033993595" target="_blank">馬太鞍長老教會</a>`(9/24 22:00更新暫緩募集)`
 
 
-* 
 * [天主教會花蓮教區富田天主堂、天主教善牧基金會](https://www.facebook.com/yang.li.zhou.553496/posts/32477166835215489) (請先聯繫確認募集狀況)
 聯絡人員:張神父、電話:0905-356177
 聯絡人員:曾小姐、電話:0926-290128
 收受地址:花蓮縣光復鄉富田一街16號
 收件人:富田天主堂物資應變小組
+- [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview?fbclid=IwRlRTSANB-DhjbGNrA0HIRGV4dG4DYWVtAjExAAEeHTAkJL4-nMy8Bi82UqCWrFfwVKpprQt71dhU7ELpSpTxLGPYw69MGDD5KVs_aem_fCqhdWsyHarZZDaGrdPV1Q#gid=0)
 
 ### 人力
 * [支援災後清理工作注意事項](https://www.facebook.com/share/p/1CHSzB9w6R/)
@@ -128,13 +128,38 @@ Contributing content **means that you agree to waive your copyright and release 
 * [停電地圖](https://tainan.olc.tw/p/emic/taipower.html)
 * [停水地圖](https://tainan.olc.tw/p/wateroff/)
 
-### 找人
-* [光復糖廠醫療站傷病患名冊](https://www.hl.gov.tw/ysh/News_Content.aspx?n=41177&sms=28955&s=194364)
-* [樺加沙颱風光復鄉撤離收容名冊](https://www.hl.gov.tw/ysh/News_Content.aspx?n=41177&sms=28955&s=194365)
 
 ---
 ## 👪 給當地居民<br>
 
+### 救助金、慰問金
+* [南山人壽慰問金](https://www.facebook.com/xu.shi.an.342099/posts/25009353401990111)
+    * 保戶：
+        * 不幸身故保戶每人10萬元
+        * 加護病房保戶每人6萬元
+        * 一般病房保戶每人2萬元
+    * 非保戶(身故、受傷)
+        * 不幸身故非保戶每人5萬元
+        * 加護病房非保戶每人3萬元
+        * 一般病房非保戶每人1萬元
+     * 聯繫方式：臉書私訊 or 24小時免付費客服電話 ：0800-020-060
+
+* [桃園受災戶1萬元生活扶助金＆原青返鄉救災交通住宿補助](https://www.facebook.com/SanCheng624/posts/1559803942175499)
+    * 扶助金領取條件：設籍桃園的原住民族人，若本人、配偶或三親等親屬家戶為受災戶，因災害衝擊導致工作受影響、家戶生計陷入困境者。
+    * 返鄉救災交通住宿補助：
+桃園市政府原住民族行政局原住民福利科(03)3322101 # 6686馬社工督導、# 6687楊社工
+
+* [台北市受災戶家屬扶助金](https://www.facebook.com/chiangwanan/posts/1348543136635640) 
+    * [申請窗口：各區公所原住民服務台](https://www.facebook.com/Taipei.IPC/posts/1234440555392066)
+
+### 日常需求
+* [大進國小兒童關懷中心（臨時托兒）](https://www.facebook.com/WorldVisionTW/posts/1294180626076255)`(請協助更新托兒限制和時間)`
+* [處方藥品（健保卡遺失）](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559)
+ 花蓮光復糖廠=>服務時間：09/24-10/09； 09:00-17:30
+  馬太鞍教會=> 服務時間：09/24-09/29；09:00-16:00
+  大全村活動中心=>服務時間：09/24-09/30；09:30-16:00
+  虎爺溫泉渡假莊園=>服務時間：09/26下午16:00-17:30、09/27-09/30；10:00-12:00
+*  [太巴塱基督長老教會](https://www.facebook.com/permalink.php?story_fbid=pfbid023Yk1uTR2jU6L2S42wXxv6HZ9ngiS8iMJGg14kgLbaaMcnLgJCnmfJbF6f8fAF7YYl&id=100064822535445)：9/25上午提供早餐（物資有限，請自備購物袋）
 
 ### 醫療資源
 * 門諾醫院醫療站 @馬太鞍教會
@@ -143,8 +168,6 @@ Contributing content **means that you agree to waive your copyright and release 
 	* 如果有行動不變的長輩，也可以與楊曉君0919-230-356連絡協助處理。
 * <a href="https://www.facebook.com/mohw.gov.tw/posts/pfbid0oc3LoTxpKGaEAUGtQTzaidp9mJtSCBRK2vK7PeZDFxaCQy6pUJuptJqALcfJAFoQl" target="_blank">衛福部應變措施與資源</a>：洗腎、孕婦、急救、安置、社工、防疫等資源
 
-### 日常需求
-* [太巴塱基督長老教會](https://www.facebook.com/permalink.php?story_fbid=pfbid023Yk1uTR2jU6L2S42wXxv6HZ9ngiS8iMJGg14kgLbaaMcnLgJCnmfJbF6f8fAF7YYl&id=100064822535445)：9/25上午提供早餐（物資有限，請自備購物袋）
 
 ### 安置空間 
 * 避難所&聯絡窗口
@@ -155,11 +178,11 @@ Contributing content **means that you agree to waive your copyright and release 
 
 * [民間提供住宿清單](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)
 
-### 其他
-* [設籍桃園桃園市1萬元生活扶助金＆原青返鄉救災交通住宿補助](https://www.facebook.com/SanCheng624/posts/1559803942175499)
-    * 扶助金領取條件：設籍桃園的原住民族人，若本人、配偶或三親等親屬家戶為受災戶，因災害衝擊導致工作受影響、家戶生計陷入困境者。
-    * 返鄉救災交通住宿補助：
-桃園市政府原住民族行政局原住民福利科(03)3322101 # 6686馬社工督導、# 6687楊社工
+
+
+### 找人
+* [光復糖廠醫療站傷病患名冊](https://www.hl.gov.tw/ysh/News_Content.aspx?n=41177&sms=28955&s=194364)
+* [樺加沙颱風光復鄉撤離收容名冊](https://www.hl.gov.tw/ysh/News_Content.aspx?n=41177&sms=28955&s=194365)
 
 
 ---
@@ -200,3 +223,5 @@ Contributing content **means that you agree to waive your copyright and release 
 * [g0v.tw 後勤中心（FB）](https://www.facebook.com/groups/g0v.general/) [target=_blank]
 * [HackMD](https://hackmd.io/) [target=_blank]
 * [以及付出己力的「無名英雄」<br>...and every "nobody"](https://g0v.tw)
+
+
