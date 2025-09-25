@@ -27,6 +27,7 @@ tags: GIS
 - 20240707 苗栗縣西山垃圾掩埋場火災 https://www.facebook.com/share/p/zwTsp1aY9xCya6x9/
 - 大漢溪，右岸十．六公里處土城河岸 https://news.ltn.com.tw/news/local/paper/963556
 - 全興海堤 https://www.facebook.com/share/p/jsbkZfUUPwcfP3Pf/
+- 花蓮縣光復鄉，2025 年馬太鞍溪堰塞湖溢流後，大量泥水將溪畔垃圾掩埋場的垃圾沖出 https://www.facebook.com/reel/1131998935700098
 
 
 
