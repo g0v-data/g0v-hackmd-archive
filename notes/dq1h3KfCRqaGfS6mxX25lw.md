@@ -40,7 +40,7 @@ Contributing content **means that you agree to waive your copyright and release 
 
 --- 
 ## 💪 給能幫忙的人💪 <br>For Those Who Can Provide Assistance
-**⚠️ 請詳閱當地需求與收送方式**
+**⚠️ 物資請詳閱當地需求與收送方式**
 ### 捐款
 * <a href="https://www.facebook.com/photo?fbid=1347497900079317&set=a.519537112875404/" target="_blank">財團法人賑災基金會</a> `(賴清德總統臉書公布，勸募時間 9/25-10/24)`
 * [衛福部啟動四種捐款管道](https://www.cna.com.tw/news/ahel/202509240379.aspx) `(中央社9/24報導，除賑災基金會還有 Line Pay、超商捐款、海外捐款等管道)`
