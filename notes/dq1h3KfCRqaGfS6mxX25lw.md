@@ -48,8 +48,8 @@ Contributing content **means that you agree to waive your copyright and release 
 * <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02ARaSUN4sJLkrwW98kiaoszGCZtEK6mur7jzDJZ3ppFmUTbqoQvWg8ceqEBQYHqkil&id=61551033993595" target="_blank">FATA'AN物資運送處</a> `(9/24 22:00更新暫緩募集)`
 * <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0364yQaNTzYeYcFfsq7NWzaWbBzthQ3es2Zkq5rwrSSckkkCNmQ8y4kFKR2Reu78EQl&id=61551033993595" target="_blank">馬太鞍長老教會</a>`(9/24 22:00更新暫緩募集)`
 ### 人力
-* [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)　`（轉自海人臉書)`
-* <a href="https://www.facebook.com/watch?v=1253051549925969" target="_blank">慈濟招募清掃志工</a>
+* [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)　`（花蓮縣議員楊美華發起的媒合)`
+* <a href="https://www.facebook.com/watch?v=1253051549925969" target="_blank">慈濟招募清掃志工</a> | [報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) 
 ---
 
 ## 📢 狀況回報
@@ -79,14 +79,14 @@ Contributing content **means that you agree to waive your copyright and release 
 * <a href="https://www.facebook.com/mohw.gov.tw/posts/pfbid0oc3LoTxpKGaEAUGtQTzaidp9mJtSCBRK2vK7PeZDFxaCQy6pUJuptJqALcfJAFoQl" target="_blank">衛福部應變措施與資源</a>：洗腎、孕婦、急救、安置、社工、防疫等資源
 
 ### 日常需求
-*[太巴塱基督長老教會]
+* [太巴塱基督長老教會](https://www.facebook.com/permalink.php?story_fbid=pfbid023Yk1uTR2jU6L2S42wXxv6HZ9ngiS8iMJGg14kgLbaaMcnLgJCnmfJbF6f8fAF7YYl&id=100064822535445)：9/25上午提供早餐（物資有限，請自備購物袋）
 
 ### 安置空間 
 * 避難所&聯絡窗口
-    * [馬太鞍長老教會](https://maps.app.goo.gl/aYTmRxdrpSYMrh1j8)--蔡智輝代表 0919-965-120
-    * [糖廠管理員室後面的親子館](https://maps.app.goo.gl/u73Qb1SoS7M3Lfk38)--曾秀琴  0955-514994
-    * [光復國小](https://maps.app.goo.gl/fk8eUc8TAMfpqWLk6)--梁家瑋 0930-265-833
-    * [大進國小](https://maps.app.goo.gl/Jg3Q2fZuWG9qc7Zw6)--葛小姐 0976-095-302
+    * [馬太鞍長老教會](https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4715.011743749367!2d121.42632689999999!3d23.675416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3468b2be480ac817%3A0x2c3f4075af85c9ef!2sFata&#39;an%20Presbyterian%20Church!5e1!3m2!1sen!2stw!4v1758765694172!5m2!1sen!2stw)--蔡智輝代表 0919-965-120
+    * [糖廠管理員室後面的親子館](https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4715.606875756216!2d121.4215679!3d23.658916599999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3468b2caef8bc4a5%3A0xe9c258d991de281f!2sHualien%20Sugar%20Museum!5e1!3m2!1sen!2stw!4v1758765762879!5m2!1sen!2stw)--曾秀琴  0955-514994
+    * [光復國小](https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9430.166344019655!2d121.4244926!3d23.6734363!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3468b2be88558f75%3A0x6164e6824d878780!2z6Iqx6JOu57ij5YWJ5b6p6YSJ5YWJ5b6p5ZyL5rCR5bCP5a24!5e1!3m2!1sen!2stw!4v1758765790523!5m2!1sen!2stw)--梁家瑋 0930-265-833
+    * [大進國小](https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1207233.8635493675!2d120.2656174!3d23.6547451!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346f4d001fb18b95%3A0xa886690f21cf50b2!2sHualianxianguangfuxiangdajin%20Elementary%20School!5e1!3m2!1sen!2stw!4v1758765816252!5m2!1sen!2stw)--葛小姐 0976-095-302
 
 
 * [民間提供住宿清單](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)
@@ -97,14 +97,14 @@ Contributing content **means that you agree to waive your copyright and release 
 ---
 ## 📎 社群/媒體報導
 ### 社群媒體
-* [跟著小飛玩/臉書](https://www.facebook.com/watch/?v=10029680930469607)：9/1 發文，「今年夏天，花蓮萬榮的馬太鞍溪谷形成了一個巨大的堰塞湖。
-* [海人/臉書](https://www.facebook.com/cgubear)：持續更新相關資訊
-* [翻轉地理教室/臉書](https://www.facebook.com/flippingGEO/posts/pfbid02Qsez7duMc6AWqqgpPA5U1wsfRgD8B1Wc1Rkx3wVy2CdeGvzWd2xth21aSXuKbnArl) ：堰塞湖科普，及台灣堰塞湖資訊
+* <a href="https://www.facebook.com/watch/?v=10029680930469607" target="_blank">跟著小飛玩/臉書</a>：9/1 發文，「今年夏天，花蓮萬榮的馬太鞍溪谷形成了一個巨大的堰塞湖。
+* <a href="https://www.facebook.com/cgubear" target="_blank">海人/臉書</a>：持續更新相關資訊
+* <a href="https://www.facebook.com/flippingGEO/posts/pfbid02Qsez7duMc6AWqqgpPA5U1wsfRgD8B1Wc1Rkx3wVy2CdeGvzWd2xth21aSXuKbnArl" target="_blank">翻轉地理教室/臉書</a> ：堰塞湖科普，及台灣堰塞湖資訊
 
 ### 媒體報導
-* [中央社報導](https://www.cna.com.tw/news/aipl/202509240263.aspx?utm_medium=app&utm_source=cna.app&utm_campaign=inapp_share&fbclid=IwY2xjawNBP2VleHRuA2FlbQIxMABicmlkETE4M0hTRTg1QldmODVWSXF1AR7KH1sWXgqqvd0hgVa5E13oBmeSeZZ49xarEhFt0cVBoYy4S4XY2MXNUT2LXw_aem_1-JcEkkpy3pH98DI7kCBMw)：劉世芳2週前委託監控馬太鞍溪堰塞湖　李鴻源：若沒做傷亡難想像
-* [中央社報導](https://www.cna.com.tw/news/ahel/202509245005.aspx)：馬太鞍溪堰塞湖釀災為何不先施工引流？堰塞湖形成原因與處置方式一文看懂
-* [天下雜誌報導](https://www.cw.com.tw/article/5137539)：花蓮光復洪災》馬太鞍堰塞湖成因、最新災情與影響一次看
+* <a href="https://www.cna.com.tw/news/aipl/202509240263.aspx" target="_blank">中央社報導</a>：劉世芳2週前委託監控馬太鞍溪堰塞湖　李鴻源：若沒做傷亡難想像
+* <a href="https://www.cna.com.tw/news/ahel/202509245005.aspx" target="_blank">中央社報導</a>：馬太鞍溪堰塞湖釀災為何不先施工引流？堰塞湖形成原因與處置方式一文看懂
+* <a href="https://www.cw.com.tw/article/5137539" target="_blank">天下雜誌報導</a>：花蓮光復洪災》馬太鞍堰塞湖成因、最新災情與影響一次看
 
 --- 
 
