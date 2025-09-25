@@ -45,7 +45,6 @@ Contributing content **means that you agree to waive your copyright and release 
 ### 捐款
 * <a href="https://www.facebook.com/photo?fbid=1347945503367890&set=a.519537112875404" target="_blank">就團法人賑災基金會</a> `(賴清德總統臉書公布，勸募時間 9/25-10/24)`
 * [衛福部啟動四種捐款管道](https://www.cna.com.tw/news/ahel/202509240379.aspx)`（中央社9/24報導，除賑災基金會還有 Line Pay、超商捐款、海外捐款等管道）`
-
     * **海外**
         SWIFT CODE：「LBOTTWTP102」
         NAME：「Taiwan Foundation for Disaster Relief」
@@ -59,24 +58,17 @@ Contributing content **means that you agree to waive your copyright and release 
 7-ELEVEN的ibon、全家便利商店的FamiPort機台、萊爾富的Life-ET、OKmart的OK．go，點選「馬太鞍溪堰塞湖災害專案」。
     * **匯款**：
         民眾若想捐款，賑災專戶捐款戶名為財團法人賑災基金會。銀行名稱為土地銀行長春分行（005）。銀行帳號為102-005-201-966。
-        
-        
-
-
 * [財團法人台灣基督長老教會宣教基金會](https://donate.pct.org.tw/Storeservice.aspx?SSID=D2019081901) `(在備註寫：花蓮光復鄉洪災)`
 
 
 
 ### 物資
 * [花蓮玉里。阿強西瓜 ](https://www.facebook.com/YuliXigua)[光復物資統整登記表](https://docs.google.com/spreadsheets/d/1ADTYJFxWcvK0XJgJmwWFvG_PSGf3mutAmPk2iExGqVg/edit?gid=0#gid=0) `(9/26 00:00更新暫緩募集)`
-
 * <a href="https://www.facebook.com/permalink.php?story_fbid=122257086650034466&id=61551033993595" target="_blank">FATA'AN物資運送處</a> ` (9/25 12:54更新暫緩募集)`
     * FATA'AN部落物資負責人(限親送)
         * 王 0981-042-045
         * 宋 0975-180-730
 * <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0364yQaNTzYeYcFfsq7NWzaWbBzthQ3es2Zkq5rwrSSckkkCNmQ8y4kFKR2Reu78EQl&id=61551033993595" target="_blank">馬太鞍長老教會</a>`(9/24 22:00更新暫緩募集)`
-
-
 * [天主教會花蓮教區富田天主堂、天主教善牧基金會](https://www.facebook.com/yang.li.zhou.553496/posts/32477166835215489) (請先聯繫確認募集狀況)
 聯絡人員:張神父、電話:0905-356177
 聯絡人員:曾小姐、電話:0926-290128
@@ -104,8 +96,6 @@ Contributing content **means that you agree to waive your copyright and release 
     * 阿陶莫部落
         黃建桐村長 | 0910-374-519
         鄭敏芳 | 0988-126-74
-
-
 * [無事先聯繫臨時來幫忙的人](https://www.facebook.com/muhhua/posts/10162020486870745)
     * 建議搭火車來，步行可及的有火車站門口 慈濟慈善基金會 https://tzuchi.info/86fn5c （line群可加入）
     * 收容中心大進國小：花蓮縣卓溪鄉新女力公益協會
