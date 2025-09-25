@@ -24,8 +24,10 @@ Contributing content **means that you agree to waive your copyright and release 
 
 
 
-* [🆘Fata’an部落網絡急救小組](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)
-* [💻馬太鞍溪堰塞湖及時監測面板：](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)
+
+* ‼️ [Fata'an年祭臉書：9/26凌晨1時，水蔓延中！](https://www.facebook.com/61551033993595/videos/1213970073814900) `<堰塞湖危機尚未解除，請至避難所>`
+* [🆘 Fata’an部落網絡急救小組](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)`<內有收容所、民間提供住宿清單>`
+* [💻 馬太鞍溪堰塞湖及時監測面板：](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)
 
 <iframe width="100%" height="520" frameborder="0" src="https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
@@ -113,7 +115,6 @@ Contributing content **means that you agree to waive your copyright and release 
         * 南下>>花蓮南下到鳳林劍英大橋轉進193線到光復
         * 北上>>從台東北上的路線，走台11海線
         　　>>玉長>走193到光復
-
 ### 停電停水狀況
 * [停電地圖](https://tainan.olc.tw/p/emic/taipower.html)
 * [停水地圖](https://tainan.olc.tw/p/wateroff/)
