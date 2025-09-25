@@ -66,11 +66,11 @@ Contributing content **means that you agree to waive your copyright and release 
 
 
 ### 物資
-* <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02ARaSUN4sJLkrwW98kiaoszGCZtEK6mur7jzDJZ3ppFmUTbqoQvWg8ceqEBQYHqkil&id=61551033993595" target="_blank">FATA'AN物資運送處</a> `(9/24 22:00更新暫緩募集)`
+* <a href="https://www.facebook.com/permalink.php?story_fbid=122257086650034466&id=61551033993595" target="_blank">FATA'AN物資運送處</a> ` (9/25 12:54更新暫緩募集)`
+    * FATA'AN部落物資負責人(限親送)
+        * 王 0981-042-045
+        * 宋 0975-180-730
 * <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0364yQaNTzYeYcFfsq7NWzaWbBzthQ3es2Zkq5rwrSSckkkCNmQ8y4kFKR2Reu78EQl&id=61551033993595" target="_blank">馬太鞍長老教會</a>`(9/24 22:00更新暫緩募集)`
-* [FATA'AN部落 物資負責人](https://www.facebook.com/permalink.php?story_fbid=122257086650034466&id=61551033993595)（目前限親送）
-    * 王 0981-042-045
-    * 宋 0975-180-730
 
 * [天主教會花蓮教區富田天主堂、天主教善牧基金會](https://www.facebook.com/yang.li.zhou.553496/posts/32477166835215489) (請先聯繫確認募集狀況)
 聯絡人員:張神父、電話:0905-356177
@@ -79,20 +79,25 @@ Contributing content **means that you agree to waive your copyright and release 
 收件人:富田天主堂物資應變小組
 
 ### 人力
+* [支援災後清理工作注意事項](https://www.facebook.com/share/p/1CHSzB9w6R/)
 * [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)　`（花蓮縣議員楊美華發起的媒合)`
 * <a href="https://www.facebook.com/watch?v=1253051549925969" target="_blank">慈濟招募清掃志工</a> | [報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) 
-* [打掃志工徵求](https://www.facebook.com/DibusILAI/posts/10161875637406717) 
+*  [壯闊台灣-運送物資與災後復原志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform)
+* [打掃志工聯絡窗口](https://www.facebook.com/DibusILAI/posts/10161875637406717) 
     * 馬太鞍長老教會
-蔡代表 0919-965-120
-曾村長 0928-295-892
-王村長 0936-573-056
+蔡代表 | 0919-965-120
+曾村長 | 0928-295-892
+王村長 | 0936-573-056
     * 糖廠管理員室後面的親子館
-曾小姐 0955-514-994
+曾小姐 | 0955-514-994
     * 光復國小
-梁 0930-265-833
+梁 | 0930-265-833
     * 大進國小
-葛小姐 0976-095-302
-    * 年齡階層 總幹事 0960-514-994
+葛小姐 | 0976-095-302
+    * 年齡階層 總幹事 | 0960-514-994
+    * 阿陶莫部落
+        黃建桐村長 | 0910-374-519
+        鄭敏芳 | 0988-126-74
 
 
 * [無事先聯繫臨時來幫忙的人](https://www.facebook.com/muhhua/posts/10162020486870745)
@@ -152,6 +157,7 @@ Contributing content **means that you agree to waive your copyright and release 
 ### 社群媒體
 * <a href="https://www.facebook.com/watch/?v=10029680930469607" target="_blank">跟著小飛玩/臉書</a>：9/1 發文，「今年夏天，花蓮萬榮的馬太鞍溪谷形成了一個巨大的堰塞湖。
 * <a href="https://www.facebook.com/cgubear" target="_blank">海人/臉書</a>：持續更新相關資訊
+* <a href="https://www.facebook.com/OceanChefAlvin" target="_blank">海洋主廚 愛爾文/臉書</a>：持續更新相關資訊
 * <a href="https://www.facebook.com/flippingGEO/posts/pfbid02Qsez7duMc6AWqqgpPA5U1wsfRgD8B1Wc1Rkx3wVy2CdeGvzWd2xth21aSXuKbnArl" target="_blank">翻轉地理教室/臉書</a> ：堰塞湖科普，及台灣堰塞湖資訊
 
 ### 媒體報導
