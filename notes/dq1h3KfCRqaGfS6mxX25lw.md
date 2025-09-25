@@ -27,16 +27,29 @@ Contributing content **means that you agree to waive your copyright and release 
 * [🆘Fata’an部落網絡急救小組](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)
 * [💻馬太鞍溪堰塞湖及時監測面板：](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)
 
-<iframe width="100%" height="520" frameborder="0" src="https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake?fbclid=IwY2xjawNAjchleHRuA2FlbQIxMQABHr9tBc8zwYVP4N5oqyiu_5O_gpC0D-nHwA6tV8xZPQWGITVl8K5EaeWCe6UB_aem_LnJVRr2QWtenzCz8L8sOSA" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width="100%" height="520" frameborder="0" src="https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ---
 ## 💡 關於馬太鞍溪堰塞湖，說明與資訊 Info
 
-* [馬太鞍溪堰塞湖壩體114.9.24更新](https://www.facebook.com/watch/?ref=saved&v=1863772707895866)：內有影片說明
+* <a href="https://www.facebook.com/watch/?v=1863772707895866" target="_blank">馬太鞍溪堰塞湖壩體114.9.24更新</a>：內有影片說明
 * [馬太鞍溪堰塞湖監測紀實](https://arcg.is/1rqL110) ：內有「應變作為時間軸」
-* [農業部林業及自然保育署](https://www.forest.gov.tw/ForestNews?q=%e9%a6%ac%e5%a4%aa%e9%9e%8d&ca2=2025-07-01) ：馬太鞍溪堰塞湖近期應變資訊（顯示 2025.7 起資訊）
+* <a href="https://www.forest.gov.tw/ForestNews?q=%e9%a6%ac%e5%a4%aa%e9%9e%8d&ca2=2025-07-01" target="_blank">農業部林業及自然保育署</a> ：馬太鞍溪堰塞湖近期應變資訊（顯示 2025.7 起資訊）
 * [NCDR WATCH](https://watch.ncdr.nat.gov.tw/watch_barrier_map_v2)
 
+
+--- 
+## 💪 給能幫忙的人💪 <br>For Those Who Can Provide Assistance
+**⚠️ 請詳閱當地需求與收送方式**
+### 捐款
+* <a href="https://www.facebook.com/photo?fbid=1347497900079317&set=a.519537112875404/" target="_blank">財團法人賑災基金會</a> `(賴清德總統臉書公布，勸募時間 9/25-10/24)`
+* [衛福部啟動四種捐款管道](https://www.cna.com.tw/news/ahel/202509240379.aspx) `(中央社9/24報導，除賑災基金會還有 Line Pay、超商捐款、海外捐款等管道)`
+### 物資
+* <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02ARaSUN4sJLkrwW98kiaoszGCZtEK6mur7jzDJZ3ppFmUTbqoQvWg8ceqEBQYHqkil&id=61551033993595" target="_blank">FATA'AN物資運送處</a> `(9/24 22:00更新暫緩募集)`
+* <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0364yQaNTzYeYcFfsq7NWzaWbBzthQ3es2Zkq5rwrSSckkkCNmQ8y4kFKR2Reu78EQl&id=61551033993595" target="_blank">馬太鞍長老教會</a>`(9/24 22:00更新暫緩募集)`
+### 人力
+* [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)　`（轉自海人臉書)`
+* <a href="https://www.facebook.com/watch?v=1253051549925969" target="_blank">慈濟招募清掃志工</a>
 ---
 
 ## 📢 狀況回報
@@ -45,7 +58,7 @@ Contributing content **means that you agree to waive your copyright and release 
 ### 交通狀況 
 **🚨非救災需求，請立即離開光復鄉！**
 * 光復鄉
-    * 火車：鳳林=瑞穗間8時起恢復正常行車。(詳情看依[台鐵公告](https://wooo.tw/pG59AkT)為主)
+    * 火車：鳳林=瑞穗間8時起恢復正常行車。(詳情看依<a href="https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29972cea501997901306830df" target="_blank">台鐵公告</a>為主)
     * 公路：
         * 南下>>花蓮南下到鳳林劍英大橋轉進193線到光復
         * 北上>>從台東北上的路線，走台11海線
@@ -63,7 +76,10 @@ Contributing content **means that you agree to waive your copyright and release 
 	* 時間：9/25(四)~26(五) 11:00~16:00 (動態調整)
 	* 地點：馬太鞍教會
 	* 如果有行動不變的長輩，也可以與楊曉君0919-230-356連絡協助處理。
-* [衛福部應變措施與資源](https://www.facebook.com/mohw.gov.tw/posts/pfbid0oc3LoTxpKGaEAUGtQTzaidp9mJtSCBRK2vK7PeZDFxaCQy6pUJuptJqALcfJAFoQl)：洗腎、孕婦、急救、安置、社工、防疫等資源
+* <a href="https://www.facebook.com/mohw.gov.tw/posts/pfbid0oc3LoTxpKGaEAUGtQTzaidp9mJtSCBRK2vK7PeZDFxaCQy6pUJuptJqALcfJAFoQl" target="_blank">衛福部應變措施與資源</a>：洗腎、孕婦、急救、安置、社工、防疫等資源
+
+### 日常需求
+*[太巴塱基督長老教會]
 
 ### 安置空間 
 * 避難所&聯絡窗口
@@ -75,16 +91,7 @@ Contributing content **means that you agree to waive your copyright and release 
 
 * [民間提供住宿清單](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)
 
---- 
-## 💪 給能幫忙的人<br>For Those Who Can Provide Assistance
-**⚠️ 請詳閱當地需求與收送方式**
-### 捐款
-* [財團法人賑災基金會](https://www.facebook.com/photo?fbid=1347497900079317&set=a.519537112875404/) `(賴清德總統臉書公布，勸募時間 9/25-10/24)`
-* [衛福部啟動四種捐款管道](https://www.cna.com.tw/news/ahel/202509240379.aspx) `(中央社9/24報導，除賑災基金會還有 Line Pay、超商捐款、海外捐款等管道)`
-### 物資
-* [FATA'AN物資運送處](https://www.facebook.com/share/p/1GfxJdDQx8/) `(9/24 22:00更新暫緩募集)`
-* [馬太鞍長老教會](https://www.facebook.com/share/p/176pqwTz62/)`(9/24 22:00更新暫緩募集)`
-* [慈濟招募清掃志工](https://www.facebook.com/watch?v=1253051549925969)
+
 
 
 ---
