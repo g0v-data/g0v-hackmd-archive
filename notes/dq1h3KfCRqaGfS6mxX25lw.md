@@ -44,6 +44,24 @@ Contributing content **means that you agree to waive your copyright and release 
 ### 捐款
 * <a href="https://www.facebook.com/photo?fbid=1347497900079317&set=a.519537112875404/" target="_blank">財團法人賑災基金會</a> `(賴清德總統臉書公布，勸募時間 9/25-10/24)`
 * [衛福部啟動四種捐款管道](https://www.cna.com.tw/news/ahel/202509240379.aspx) `(中央社9/24報導，除賑災基金會還有 Line Pay、超商捐款、海外捐款等管道)`
+    * **海外**
+        SWIFT CODE：「LBOTTWTP102」
+        NAME：「Taiwan Foundation for Disaster Relief」
+        Account NO.：「102-005-201-966」
+        BANK NAME：「LAND BANK OF TAIWAN CHANGCHUEN BRANCH」
+        ADDRESS：「No. 156, Changchun Rd., Zhongshan District, Taipei City 10459, Taiwan(R.O.C.)」
+    * **LINEPAY**
+  LINE Pay 主頁>「愛心捐款」平台>「馬太鞍溪堰塞湖災害專案」
+        (可選擇已綁定的中國信託商業銀行、台北富邦銀行、聯邦銀行及台新銀行信用卡、簽帳金融卡進行捐款，也可選用LINE POINTS點數支付完成捐款。)
+    * **現金**
+7-ELEVEN的ibon、全家便利商店的FamiPort機台、萊爾富的Life-ET、OKmart的OK．go，點選「馬太鞍溪堰塞湖災害專案」。
+    * **匯款**：
+        民眾若想捐款，賑災專戶捐款戶名為財團法人賑災基金會。銀行名稱為土地銀行長春分行（005）。銀行帳號為102-005-201-966。
+
+
+
+
+
 ### 物資
 * <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02ARaSUN4sJLkrwW98kiaoszGCZtEK6mur7jzDJZ3ppFmUTbqoQvWg8ceqEBQYHqkil&id=61551033993595" target="_blank">FATA'AN物資運送處</a> `(9/24 22:00更新暫緩募集)`
 * <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0364yQaNTzYeYcFfsq7NWzaWbBzthQ3es2Zkq5rwrSSckkkCNmQ8y4kFKR2Reu78EQl&id=61551033993595" target="_blank">馬太鞍長老教會</a>`(9/24 22:00更新暫緩募集)`
