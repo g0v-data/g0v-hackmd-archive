@@ -12,6 +12,7 @@ image: https://raw.githubusercontent.com/g0v/style-guide/gh-pages/logo/png/g0v-l
 
 
 ## 歷次活動
+- [20250927 第拾伍次國會松<br>115年全國總預算讀書會](https://g0vcongressthon.oen.tw/events/32ofPVXprsZDh4TqqPajuuOEeum)[target=_blank]
 - [20250726 第拾參次國會松](/P7qxY8hVTDOd2GBmH-WWrA)
 - [20250614 第拾貳次國會松](https://g0vcongressthon.oen.tw/events/2yBlKenBlqD7LNyo3HzFprGHQ9o)[target=_blank]
 - [20250525 第拾壹次國會松](/52coL7ZIRFijKxDoXmKOkg)
