@@ -146,7 +146,7 @@ Contributing content **means that you agree to waive your copyright and release 
     * [馬太鞍長老教會](https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4715.011743749367!2d121.42632689999999!3d23.675416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3468b2be480ac817%3A0x2c3f4075af85c9ef!2sFata&#39;an%20Presbyterian%20Church!5e1!3m2!1sen!2stw!4v1758765694172!5m2!1sen!2stw)--蔡智輝代表 0919-965-120
     * [糖廠管理員室後面的親子館](https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4715.606875756216!2d121.4215679!3d23.658916599999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3468b2caef8bc4a5%3A0xe9c258d991de281f!2sHualien%20Sugar%20Museum!5e1!3m2!1sen!2stw!4v1758765762879!5m2!1sen!2stw)--曾秀琴  0955-514994
     * [光復國小](https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9430.166344019655!2d121.4244926!3d23.6734363!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3468b2be88558f75%3A0x6164e6824d878780!2z6Iqx6JOu57ij5YWJ5b6p6YSJ5YWJ5b6p5ZyL5rCR5bCP5a24!5e1!3m2!1sen!2stw!4v1758765790523!5m2!1sen!2stw)--梁家瑋 0930-265-833
-    * [大進國小](https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1207233.8635493675!2d120.2656174!3d23.6547451!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346f4d001fb18b95%3A0xa886690f21cf50b2!2sHualianxianguangfuxiangdajin%20Elementary%20School!5e1!3m2!1sen!2stw!4v1758765816252!5m2!1sen!2stw)--葛小姐 0976-095-302
+    * [大進國小(含兒童關懷服務中心)](https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1207233.8635493675!2d120.2656174!3d23.6547451!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346f4d001fb18b95%3A0xa886690f21cf50b2!2sHualianxianguangfuxiangdajin%20Elementary%20School!5e1!3m2!1sen!2stw!4v1758765816252!5m2!1sen!2stw)--葛小姐 0976-095-302
 
 * [民間提供住宿清單](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)
 
