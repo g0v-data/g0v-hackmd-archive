@@ -68,12 +68,16 @@ Contributing content **means that you agree to waive your copyright and release 
 
 
 ### 物資
+* [花蓮玉里。阿強西瓜 ](https://www.facebook.com/YuliXigua)[光復物資統整登記表](https://docs.google.com/spreadsheets/d/1ADTYJFxWcvK0XJgJmwWFvG_PSGf3mutAmPk2iExGqVg/edit?gid=0#gid=0) `(9/26 00:00更新暫緩募集)`
+
 * <a href="https://www.facebook.com/permalink.php?story_fbid=122257086650034466&id=61551033993595" target="_blank">FATA'AN物資運送處</a> ` (9/25 12:54更新暫緩募集)`
     * FATA'AN部落物資負責人(限親送)
         * 王 0981-042-045
         * 宋 0975-180-730
 * <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0364yQaNTzYeYcFfsq7NWzaWbBzthQ3es2Zkq5rwrSSckkkCNmQ8y4kFKR2Reu78EQl&id=61551033993595" target="_blank">馬太鞍長老教會</a>`(9/24 22:00更新暫緩募集)`
 
+
+* 
 * [天主教會花蓮教區富田天主堂、天主教善牧基金會](https://www.facebook.com/yang.li.zhou.553496/posts/32477166835215489) (請先聯繫確認募集狀況)
 聯絡人員:張神父、電話:0905-356177
 聯絡人員:曾小姐、電話:0926-290128
@@ -131,6 +135,7 @@ Contributing content **means that you agree to waive your copyright and release 
 ---
 ## 👪 給當地居民<br>
 
+
 ### 醫療資源
 * 門諾醫院醫療站 @馬太鞍教會
 	* 時間：9/25(四)~26(五) 11:00~16:00 (動態調整)
@@ -149,6 +154,12 @@ Contributing content **means that you agree to waive your copyright and release 
     * [大進國小(含兒童關懷服務中心)](https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1207233.8635493675!2d120.2656174!3d23.6547451!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346f4d001fb18b95%3A0xa886690f21cf50b2!2sHualianxianguangfuxiangdajin%20Elementary%20School!5e1!3m2!1sen!2stw!4v1758765816252!5m2!1sen!2stw)--葛小姐 0976-095-302
 
 * [民間提供住宿清單](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)
+
+### 其他
+* [設籍桃園桃園市1萬元生活扶助金＆原青返鄉救災交通住宿補助](https://www.facebook.com/SanCheng624/posts/1559803942175499)
+    * 扶助金領取條件：設籍桃園的原住民族人，若本人、配偶或三親等親屬家戶為受災戶，因災害衝擊導致工作受影響、家戶生計陷入困境者。
+    * 返鄉救災交通住宿補助：
+桃園市政府原住民族行政局原住民福利科(03)3322101 # 6686馬社工督導、# 6687楊社工
 
 
 ---
