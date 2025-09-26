@@ -21,10 +21,11 @@ Contributing content **means that you agree to waive your copyright and release 
 * [首頁<br>Homepage](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)
  
 ## 📌置頂<br> 
-* ‼️[Fata'an年祭臉書：9/26凌晨1時，水蔓延中！](https://www.facebook.com/61551033993595/videos/1213970073814900) [target=_blank] `<堰塞湖危機尚未解除，請至避難所>`
+* **‼️馬太鞍溪目前河床已被泥沙填滿，只要稍有雨勢河水就可能漫流至街道，隨時有可能必須撤退！！**`<堰塞湖危機尚未解除，請隨時保持警覺>`
 * [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)
 　👉如有新資訊，歡迎至討論串留言：[俞凱倫/臉書](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
 * [🆘 Fata’an部落網絡急救小組](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)`<內有收容所、民間提供住宿清單>`
+* [] (https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview?fbclid=IwY2xjawNByERleHRuA2FlbQIxMQABHh0wJCS-PpzMvAYvNlKglqxX8FSqaa0Le9XYVOxC6UqU8Sxj2MOvTBgw-Slb_aem_fCqhdWsyHarZZDaGrdPV1Q&gid=979403745#gid=0)
 * [💻 馬太鞍溪堰塞湖及時監測面板：](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)
 
 ---
@@ -38,23 +39,26 @@ Contributing content **means that you agree to waive your copyright and release 
 
 --- 
 ## 💪 給能幫忙的人💪 <br>For Those Who Can Provide Assistance
-**⚠️請詳閱當地需求**
 
-### 民間資訊統整
-
-* [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview) 
+### 鍵盤支援
+* 民間資訊統整
+    * [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview) 
 （多個分頁，包含各單位資訊，與需求物資、志工及募款更新）
-－－願意協助資訊彙整，請聯絡 [@audery1011
+👉願意協助資訊彙整，請聯絡 [@audery1011
 ](https://www.threads.com/@audery1011/post/DO-g_8DCbIH) [target=_blank]
+    * g0v [花蓮馬太鞍溪堰塞湖溢流災情整合平台](https://g0v.hackmd.io/dq1h3KfCRqaGfS6mxX25lw?both)
+    👉點擊上方左右側的<span style="padding: 1px 1.5px 3px 3.5px; background: white; border-radius: 5px; margin: 0px 4px;"><i class="fa fa-pencil fa-fw"></i></span>開始進行編輯
 
 ### 人力
-**⚠️注意自身安全、自備裝備，切勿造成災區負擔**
-支援災後清理工作的注意事項
-[裝備](https://www.facebook.com/100064553895535/posts/1204663885028730/) [target=_blank]
-* [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)　`（花蓮縣議員楊美華發起的媒合)`
-* [慈濟招募清掃志工](https://www.facebook.com/watch?v=1253051549925969) [target=_blank] | [報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) 
-*  [壯闊台灣-運送物資與災後復原志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform)
-* [打掃志工聯絡窗口](https://www.facebook.com/DibusILAI/posts/10161875637406717) [target=_blank]
+**⚠️注意自身安全、自備裝備，切勿造成災區負擔!**
+**⚠️請先閱讀支援災後清理工作的[注意事項](https://g0v.hackmd.io/@yitzu/rkBzt5Qheg)**
+* 組織號召
+    * [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)　`（花蓮縣議員楊美華發起的媒合)`
+    * [慈濟招募清掃志工](https://www.facebook.com/watch?v=1253051549925969) [target=_blank] | [報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) 
+    *  壯闊台灣-運送物資與災後復原 | [志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform)
+    *  花蓮縣卓溪鄉新女力公益協會 | [志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform)
+
+* 部落當地[打掃志工聯絡窗口](https://www.facebook.com/DibusILAI/posts/10161875637406717) [target=_blank]
     * 馬太鞍長老教會
 蔡代表 | 0919-965-120
 曾村長 | 0928-295-892
@@ -69,6 +73,7 @@ Contributing content **means that you agree to waive your copyright and release 
     * 阿陶莫部落
         黃建桐村長 | 0910-374-519
         鄭敏芳 | 0988-126-74
+    * 小草工作室 | 林明謙 [私訊](https://www.facebook.com/share/p/1ARbHd7vLg/)
 * [無事先聯繫臨時來幫忙的人](https://www.facebook.com/muhhua/posts/10162020486870745) [target=_blank]
     * 建議搭火車來，步行可及的有火車站門口 慈濟慈善基金會 [（line群可加入）](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) [target=_blank]
     * 收容中心大進國小：花蓮縣卓溪鄉新女力公益協會
@@ -183,7 +188,8 @@ Contributing content **means that you agree to waive your copyright and release 
 ### 找人
 * [光復糖廠醫療站傷病患名冊](https://www.hl.gov.tw/ysh/News_Content.aspx?n=41177&sms=28955&s=194364)
 * [樺加沙颱風光復鄉撤離收容名冊](https://www.hl.gov.tw/ysh/News_Content.aspx?n=41177&sms=28955&s=194365)
-
+* [罹難者家屬籌組0923光復自救會](
+https://www.threads.com/@meow_0814/post/DPAw8O0E3Qn?xmt=AQF0ePKaiMadxiXWp6l5bn5h1FMYAkqBMLzPYXaX2RGAug&slof=1)：留言聯絡 0973509393 陳先生
 
 ---
 ## 📎 社群/媒體報導
@@ -198,6 +204,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * <a href="https://www.cna.com.tw/news/aipl/202509240263.aspx" target="_blank">中央社報導</a>：劉世芳2週前委託監控馬太鞍溪堰塞湖　李鴻源：若沒做傷亡難想像
 * <a href="https://www.cna.com.tw/news/ahel/202509245005.aspx" target="_blank">中央社報導</a>：馬太鞍溪堰塞湖釀災為何不先施工引流？堰塞湖形成原因與處置方式一文看懂
 * <a href="https://www.cw.com.tw/article/5137539" target="_blank">天下雜誌報導</a>：花蓮光復洪災》馬太鞍堰塞湖成因、最新災情與影響一次看
+* [路透社報導](https://www.reuters.com/business/environment/taiwan-revises-down-super-typhoon-ragasa-death-toll-14-33-missing-2025-09-24/)：Taiwan looks for missing after Super Typhoon Ragasa, questions persist on evacuations
 
 --- 
 
