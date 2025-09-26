@@ -44,6 +44,9 @@ Contributing content **means that you agree to waive your copyright and release 
 ## 💪 給能幫忙的人💪 <br>For Those Who Can Provide Assistance
 **⚠️ 物資請詳閱當地需求與收送方式**
 
+### [光復救災資源整合地圖](https://www.google.com/maps/d/u/0/viewer?ll=23.668359443372623%2C121.42914186751092&z=13&mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) 
+* 如有新資訊，歡迎至討論串留言：[俞凱倫/臉書](https://www.facebook.com/share/p/1BE1BJKDAH/) 
+
 ### 捐款
 * <a href="https://www.facebook.com/photo?fbid=1347945503367890&set=a.519537112875404" target="_blank">就團法人賑災基金會</a> `(賴清德總統臉書公布，勸募時間 9/25-10/24)`
 * [衛福部啟動四種捐款管道](https://www.cna.com.tw/news/ahel/202509240379.aspx)`（中央社9/24報導，除賑災基金會還有 Line Pay、超商捐款、海外捐款等管道）`
@@ -106,6 +109,7 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ## 📢 狀況回報
 ### [EMIC災情地圖](https://tainan.olc.tw/p/emic/)
+### [中央災害應變中心](https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83)：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
  
 ### 交通狀況 
 **🚨非救災需求，請立即離開光復鄉！**
@@ -181,7 +185,8 @@ Contributing content **means that you agree to waive your copyright and release 
 ### 社群媒體
 * <a href="https://www.facebook.com/watch/?v=10029680930469607" target="_blank">跟著小飛玩/臉書</a>：9/1 發文，「今年夏天，花蓮萬榮的馬太鞍溪谷形成了一個巨大的堰塞湖。
 * <a href="https://www.facebook.com/cgubear" target="_blank">海人/臉書</a>：持續更新相關資訊
-* <a href="https://www.facebook.com/OceanChefAlvin" target="_blank">海洋主廚 愛爾文/臉書</a>：持續更新相關資訊
+* <a href="https://www.facebook.com/share/p/19U97Z5oR7/">海洋主廚 愛爾文/臉書</a>：9/24發文，光復現況圖說
+* <a href="https://www.facebook.com/share/v/1CxocKMaJc/">GeoLab空間資訊實驗室/臉書</a>：9/25發文，馬太鞍堰塞湖 災後衛星影像對比動畫
 * <a href="https://www.facebook.com/flippingGEO/posts/pfbid02Qsez7duMc6AWqqgpPA5U1wsfRgD8B1Wc1Rkx3wVy2CdeGvzWd2xth21aSXuKbnArl" target="_blank">翻轉地理教室/臉書</a> ：堰塞湖科普，及台灣堰塞湖資訊
 
 ### 媒體報導
