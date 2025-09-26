@@ -21,7 +21,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * [首頁<br>Homepage](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)
  
 ## 📌置頂<br> 
-* **‼️馬太鞍溪河床已被泥沙填滿，只要稍有雨勢，河水就可能漫流至街道，隨時有可能必須撤退！！**`<堰塞湖危機尚未解除，請隨時保持警覺>`
+**‼️馬太鞍溪河床已被泥沙填滿，只要稍有雨勢，河水就可能漫流至街道，隨時有可能必須撤退！！**`<堰塞湖危機尚未解除，請隨時保持警覺>`
 * [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)
 　👉(如有新資訊，歡迎至討論串留言：[俞凱倫/臉書](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl))[target=_blank]
 * [🆘 Fata’an部落網絡急救小組](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)`<內有收容所、民間提供住宿清單>`
