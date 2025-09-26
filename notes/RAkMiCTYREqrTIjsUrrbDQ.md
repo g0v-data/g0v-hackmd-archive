@@ -15,9 +15,17 @@ description: 本平台非政府官方所設，所有內容僅供參考，歡迎�
 
 
 ### 個人裝備：
+
+  <img style="display:block;margin:20px auto;padding:1px;border:1px #eee;width:100%;" src="https://scontent.fkhh4-2.fna.fbcdn.net/v/t39.30808-6/555050617_4012947222353371_1388727716819917652_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Y6bueOHdp9cQ7kNvwHxIWIc&_nc_oc=Adkx2MHTHWXeBOpK3LKyFKIK7VfEVqr7UPmmErPjm2EeWVGv5YzEsPoRghUl75BiqZev62X3qTB_DYyq9lAxXxDC&_nc_zt=23&_nc_ht=scontent.fkhh4-2.fna&_nc_gid=okKtPEMkV2A9CO_XGXp5Dw&oh=00_Afab8lhm4CO8td30VbTiwPmKXS9TB_UKgglZGWxYM5bfaQ&oe=68DC7CE6" />
+  <figcaption style="text-align:center;font-size:0.9em;color:#666;">圖片來源：<a href="https://www.facebook.com/share/p/17G7HwzNtz/" target="_blank">https://www.facebook.com/share/p/17G7HwzNtz/</a>，下文裝備更詳細</figcaption>
+</figure>
+
+
 * 個人防護
-    * 防護手套（厚布或橡膠材質）
+    * 遮陽帽、頭巾
     * 防塵口罩
+    * 排汗衣、快乾長褲
+    * 防護手套（厚布或橡膠材質）
     * 防滑雨鞋或工作靴
     * 安全護目鏡（視現場情況而定）
     * 頭燈、備用電池(至少三組)
@@ -26,14 +34,17 @@ description: 本平台非政府官方所設，所有內容僅供參考，歡迎�
     * 快乾材質非棉麻換洗衣物(不要帶太多衣物行李，基地沒地方放）
 * 其他
     * 個人餐具碗筷（減少在災區使用一次性餐具）
+    * 水與乾糧（照顧自己，減少災區物資消耗）
     * 個人藥物&醫藥防護包：優碘、酒精、OK繃、外用抗生素（軟膏或粉狀）、個人抗過敏藥物
 
 
 ### 清理工具：
-* 鐵鍬 / 鋤頭 / 鏟子（主要用於清理泥沙和瓦礫）
+* 方鍬 / 鋤頭 / 十字鎬／鏟子／高壓水槍
+` （很多泥巴乾了，圓鍬不好用，要先用十字鎬、方鍬把泥巴弄鬆）` 
 * 撬棍
 * 鋸子（手鋸或鏈鋸）
 * 鐵鎚（用於拆除工作）
+* 水桶（倒泥巴、裝水）
 * 大型垃圾袋 / 集裝袋
 * 大型垃圾桶（臨時堆置廢棄物）
 * 清潔劑 / 消毒水
