@@ -61,6 +61,7 @@ Contributing content **means that you agree to waive your copyright and release 
     *  壯闊台灣-運送物資與災後復原 | [志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform)
     *  花蓮縣卓溪鄉新女力公益協會 | [志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform)
     * 法鼓山花蓮精舍 | [清淤志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSdfVDDNyRwhJWMxnj-0YdzKdvhybRLuq3JF_xap4j9sk4yykg/viewform)
+    * 中華基督教救助協會 ｜[清淤志工填表](https://docs.google.com/forms/d/e/1FAIpQLSd-bWszIOn3YJJUh8dt0f8eRXOf5OPtRIXTz2fSfESnf0fZng/viewform)
 
 * 部落當地[打掃志工聯絡窗口](https://www.facebook.com/DibusILAI/posts/10161875637406717) [target=_blank]
     * 馬太鞍長老教會
