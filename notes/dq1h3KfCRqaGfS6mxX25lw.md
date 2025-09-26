@@ -42,46 +42,18 @@ Contributing content **means that you agree to waive your copyright and release 
 
 --- 
 ## 💪 給能幫忙的人💪 <br>For Those Who Can Provide Assistance
-**⚠️ 物資請詳閱當地需求與收送方式**
+**⚠️請詳閱當地需求**
 
-### [光復救災資源整合地圖](https://www.google.com/maps/d/u/0/viewer?ll=23.668359443372623%2C121.42914186751092&z=13&mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) 
-* 如有新資訊，歡迎至討論串留言：[俞凱倫/臉書](https://www.facebook.com/share/p/1BE1BJKDAH/) 
-
-### 捐款
-* <a href="https://www.facebook.com/photo?fbid=1347945503367890&set=a.519537112875404" target="_blank">就團法人賑災基金會</a> `(賴清德總統臉書公布，勸募時間 9/25-10/24)`
-* [衛福部啟動四種捐款管道](https://www.cna.com.tw/news/ahel/202509240379.aspx)`（中央社9/24報導，除賑災基金會還有 Line Pay、超商捐款、海外捐款等管道）`
-    * **海外**
-        SWIFT CODE：「LBOTTWTP102」
-        NAME：「Taiwan Foundation for Disaster Relief」
-        Account NO.：「102-005-201-966」
-        BANK NAME：「LAND BANK OF TAIWAN CHANGCHUEN BRANCH」
-        ADDRESS：「No. 156, Changchun Rd., Zhongshan District, Taipei City 10459, Taiwan(R.O.C.)」
-    * **LINEPAY**
-  LINE Pay 主頁>「愛心捐款」平台>「馬太鞍溪堰塞湖災害專案」
-        (可選擇已綁定的中國信託商業銀行、台北富邦銀行、聯邦銀行及台新銀行信用卡、簽帳金融卡進行捐款，也可選用LINE POINTS點數支付完成捐款。)
-    * **現金**
-7-ELEVEN的ibon、全家便利商店的FamiPort機台、萊爾富的Life-ET、OKmart的OK．go，點選「馬太鞍溪堰塞湖災害專案」。
-    * **匯款**：
-        民眾若想捐款，賑災專戶捐款戶名為財團法人賑災基金會。銀行名稱為土地銀行長春分行（005）。銀行帳號為102-005-201-966。
-* [財團法人台灣基督長老教會宣教基金會](https://donate.pct.org.tw/Storeservice.aspx?SSID=D2019081901) `(在備註寫：花蓮光復鄉洪災)`
-
-
-
-### 物資
-* [花蓮玉里。阿強西瓜 ](https://www.facebook.com/YuliXigua)[光復物資統整登記表](https://docs.google.com/spreadsheets/d/1ADTYJFxWcvK0XJgJmwWFvG_PSGf3mutAmPk2iExGqVg/edit?gid=0#gid=0) `(9/26 00:00更新暫緩募集)`
-* <a href="https://www.facebook.com/permalink.php?story_fbid=122257086650034466&id=61551033993595" target="_blank">FATA'AN物資運送處</a> ` (9/25 12:54更新暫緩募集)`
-    * FATA'AN部落物資負責人(限親送)
-        * 王 0981-042-045
-        * 宋 0975-180-730
-* <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0364yQaNTzYeYcFfsq7NWzaWbBzthQ3es2Zkq5rwrSSckkkCNmQ8y4kFKR2Reu78EQl&id=61551033993595" target="_blank">馬太鞍長老教會</a>`(9/24 22:00更新暫緩募集)`
-* [天主教會花蓮教區富田天主堂、天主教善牧基金會](https://www.facebook.com/yang.li.zhou.553496/posts/32477166835215489) (請先聯繫確認募集狀況)
-聯絡人員:張神父、電話:0905-356177
-聯絡人員:曾小姐、電話:0926-290128
-收受地址:花蓮縣光復鄉富田一街16號
-收件人:富田天主堂物資應變小組
-- [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview?fbclid=IwRlRTSANB-DhjbGNrA0HIRGV4dG4DYWVtAjExAAEeHTAkJL4-nMy8Bi82UqCWrFfwVKpprQt71dhU7ELpSpTxLGPYw69MGDD5KVs_aem_fCqhdWsyHarZZDaGrdPV1Q#gid=0)
+### 民間資訊統整
+* [光復救災資源整合地圖](https://www.google.com/maps/d/u/0/viewer?ll=23.668359443372623%2C121.42914186751092&z=13&mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) 
+－－如有新資訊，歡迎至討論串留言：[俞凱倫/臉書](https://www.facebook.com/share/p/1BE1BJKDAH/) 
+* [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview?fbclid=IwRlRTSANB-DhjbGNrA0HIRGV4dG4DYWVtAjExAAEeHTAkJL4-nMy8Bi82UqCWrFfwVKpprQt71dhU7ELpSpTxLGPYw69MGDD5KVs_aem_fCqhdWsyHarZZDaGrdPV1Q#gid=0) 
+（多個分頁，包含各單位資訊，與需求物資、志工及募款更新）
+－－願意協助資訊彙整，請聯絡 [@audery1011
+](https://www.threads.com/@audery1011/post/DO-g_8DCbIH)
 
 ### 人力
+**⚠️注意自身安全、**
 * [支援災後清理工作注意事項](https://www.facebook.com/share/12D5FjZSeSd/)
 * [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)　`（花蓮縣議員楊美華發起的媒合)`
 * <a href="https://www.facebook.com/watch?v=1253051549925969" target="_blank">慈濟招募清掃志工</a> | [報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) 
@@ -104,6 +76,41 @@ Contributing content **means that you agree to waive your copyright and release 
 * [無事先聯繫臨時來幫忙的人](https://www.facebook.com/muhhua/posts/10162020486870745)
     * 建議搭火車來，步行可及的有火車站門口 慈濟慈善基金會 https://tzuchi.info/86fn5c （line群可加入）
     * 收容中心大進國小：花蓮縣卓溪鄉新女力公益協會
+
+### 捐款
+* <a href="https://www.facebook.com/photo?fbid=1347945503367890&set=a.519537112875404" target="_blank">財團法人賑災基金會</a> `(賴清德總統臉書公布，勸募時間 9/25-10/24，與下方衛福部為同一資訊)`
+* [衛福部啟動四種捐款管道](https://www.cna.com.tw/news/ahel/202509240379.aspx)`（中央社9/24報導，除賑災基金會還有 Line Pay、超商捐款、海外捐款等管道）`
+    * **海外**
+        SWIFT CODE：「LBOTTWTP102」
+        NAME：「Taiwan Foundation for Disaster Relief」
+        Account NO.：「102-005-201-966」
+        BANK NAME：「LAND BANK OF TAIWAN CHANGCHUEN BRANCH」
+        ADDRESS：「No. 156, Changchun Rd., Zhongshan District, Taipei City 10459, Taiwan(R.O.C.)」
+    * **LINEPAY**
+  LINE Pay 主頁>「愛心捐款」平台>「馬太鞍溪堰塞湖災害專案」
+        (可選擇已綁定的中國信託商業銀行、台北富邦銀行、聯邦銀行及台新銀行信用卡、簽帳金融卡進行捐款，也可選用LINE POINTS點數支付完成捐款。)
+    * **現金**
+7-ELEVEN的ibon、全家便利商店的FamiPort機台、萊爾富的Life-ET、OKmart的OK．go，點選「馬太鞍溪堰塞湖災害專案」。
+    * **匯款**：
+        民眾若想捐款，賑災專戶捐款戶名為財團法人賑災基金會。銀行名稱為土地銀行長春分行（005）。銀行帳號為102-005-201-966。
+* [財團法人台灣基督長老教會宣教基金會](https://donate.pct.org.tw/Storeservice.aspx?SSID=D2019081901) `(在備註寫：花蓮光復鄉洪災)`
+
+
+
+### 物資
+**⚠️請詳閱當地需求與收送方式**
+* [花蓮玉里。阿強西瓜 ](https://www.facebook.com/YuliXigua)[光復物資統整登記表](https://docs.google.com/spreadsheets/d/1ADTYJFxWcvK0XJgJmwWFvG_PSGf3mutAmPk2iExGqVg/edit?gid=0#gid=0) `(9/26 00:00更新暫緩募集)`
+* <a href="https://www.facebook.com/permalink.php?story_fbid=122257086650034466&id=61551033993595" target="_blank">FATA'AN物資運送處</a> ` (9/25 12:54更新暫緩募集)`
+    * FATA'AN部落物資負責人(限親送)
+        * 王 0981-042-045
+        * 宋 0975-180-730
+* <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0364yQaNTzYeYcFfsq7NWzaWbBzthQ3es2Zkq5rwrSSckkkCNmQ8y4kFKR2Reu78EQl&id=61551033993595" target="_blank">馬太鞍長老教會</a>`(9/24 22:00更新暫緩募集)`
+* [天主教會花蓮教區富田天主堂、天主教善牧基金會](https://www.facebook.com/yang.li.zhou.553496/posts/32477166835215489) (請先聯繫確認募集狀況)
+聯絡人員:張神父、電話:0905-356177
+聯絡人員:曾小姐、電話:0926-290128
+收受地址:花蓮縣光復鄉富田一街16號
+收件人:富田天主堂物資應變小組
+
 
 ---
 
