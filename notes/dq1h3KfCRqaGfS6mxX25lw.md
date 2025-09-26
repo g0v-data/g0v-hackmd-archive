@@ -21,12 +21,12 @@ Contributing content **means that you agree to waive your copyright and release 
 * [首頁<br>Homepage](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)
  
 ## 📌置頂<br> 
-* **‼️馬太鞍溪目前河床已被泥沙填滿，只要稍有雨勢河水就可能漫流至街道，隨時有可能必須撤退！！**`<堰塞湖危機尚未解除，請隨時保持警覺>`
+* **‼️馬太鞍溪河床已被泥沙填滿，只要稍有雨勢，河水就可能漫流至街道，隨時有可能必須撤退！！**`<堰塞湖危機尚未解除，請隨時保持警覺>`
 * [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)
-　👉如有新資訊，歡迎至討論串留言：[俞凱倫/臉書](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
+　👉(如有新資訊，歡迎至討論串留言：[俞凱倫/臉書](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl))[target=_blank]
 * [🆘 Fata’an部落網絡急救小組](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)`<內有收容所、民間提供住宿清單>`
-* [] (https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview?fbclid=IwY2xjawNByERleHRuA2FlbQIxMQABHh0wJCS-PpzMvAYvNlKglqxX8FSqaa0Le9XYVOxC6UqU8Sxj2MOvTBgw-Slb_aem_fCqhdWsyHarZZDaGrdPV1Q&gid=979403745#gid=0)
-* [💻 馬太鞍溪堰塞湖及時監測面板：](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)
+* [📖花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview?fbclid=IwY2xjawNByERleHRuA2FlbQIxMQABHh0wJCS-PpzMvAYvNlKglqxX8FSqaa0Le9XYVOxC6UqU8Sxj2MOvTBgw-Slb_aem_fCqhdWsyHarZZDaGrdPV1Q&gid=979403745#gid=0)`<多個分頁，包含收容所、尋人、志工、各單位等資訊>`
+* [🖥️馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)
 
 ---
 ## 💡 關於馬太鞍溪堰塞湖，說明與資訊 Info
@@ -205,7 +205,8 @@ https://www.threads.com/@meow_0814/post/DPAw8O0E3Qn?xmt=AQF0ePKaiMadxiXWp6l5bn5h
 * <a href="https://www.cna.com.tw/news/ahel/202509245005.aspx" target="_blank">中央社報導</a>：馬太鞍溪堰塞湖釀災為何不先施工引流？堰塞湖形成原因與處置方式一文看懂
 * <a href="https://www.cw.com.tw/article/5137539" target="_blank">天下雜誌報導</a>：花蓮光復洪災》馬太鞍堰塞湖成因、最新災情與影響一次看
 * [路透社報導](https://www.reuters.com/business/environment/taiwan-revises-down-super-typhoon-ragasa-death-toll-14-33-missing-2025-09-24/)：Taiwan looks for missing after Super Typhoon Ragasa, questions persist on evacuations
-
+* [路透社圖像專題報導](https://www.reuters.com/graphics/ASIA-WEATHER/TAIWAN/znvnngwlmvl/)：How heavy rainfall led to a lake bursting in Taiwan
+* [中央社報導](https://www.cna.com.tw/news/aipl/202509250218.aspx)：馬太鞍溪堰塞湖釀災內政部還原通報時序　9/21提供花蓮縣府撤離名單
 --- 
 
 ## ✏️ 給願意共筆的人

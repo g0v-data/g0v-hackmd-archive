@@ -39,6 +39,7 @@ https://www.facebook.com/share/p/17Vj6BV74F/
 鳥居龍藏 https://photos.app.goo.gl/HPjbAgxSZpBHvZCt6
 鹿野忠雄 https://g0v.hackmd.io/d7LoE2oHQFCYalTEWrt4aw?view
 賴和
+故宮文物
 1955「自由中國號」從基隆出發，途經釣魚台、沖繩、橫濱，最後跨越太平洋，抵達美國舊金山，創下臺灣第一艘木造帆船橫渡太平洋的紀錄 https://www.facebook.com/chunfu.lai/posts/10214230629634704
 
 北海岸
