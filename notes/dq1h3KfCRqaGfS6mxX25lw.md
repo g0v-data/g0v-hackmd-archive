@@ -18,25 +18,21 @@ This platform is NOT endorsed NOR maintained by the government officials, **all 
 Contributing content **means that you agree to waive your copyright and release your content to the Public Domain** under *the full extent of the law*.
 :::
 
-* [首頁<br>Homepage](https://g0v.hackmd.io/@yitzu/Fata-an_BarrierLake)
+* [首頁<br>Homepage](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)
  
-## 📌置頂<br>
-
-
-
-
-* ‼️ [Fata'an年祭臉書：9/26凌晨1時，水蔓延中！](https://www.facebook.com/61551033993595/videos/1213970073814900) `<堰塞湖危機尚未解除，請至避難所>`
+## 📌置頂<br> 
+* ‼️[Fata'an年祭臉書：9/26凌晨1時，水蔓延中！](https://www.facebook.com/61551033993595/videos/1213970073814900) [target=_blank] `<堰塞湖危機尚未解除，請至避難所>`
+* [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)
+　👉如有新資訊，歡迎至討論串留言：[俞凱倫/臉書](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
 * [🆘 Fata’an部落網絡急救小組](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)`<內有收容所、民間提供住宿清單>`
 * [💻 馬太鞍溪堰塞湖及時監測面板：](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)
-
-<iframe width="100%" height="520" frameborder="0" src="https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ---
 ## 💡 關於馬太鞍溪堰塞湖，說明與資訊 Info
 
-* <a href="https://www.facebook.com/watch/?v=1863772707895866" target="_blank">馬太鞍溪堰塞湖壩體114.9.24更新</a>：內有影片說明
-* [馬太鞍溪堰塞湖監測紀實](https://arcg.is/1rqL110) ：內有「應變作為時間軸」
-* <a href="https://www.forest.gov.tw/ForestNews?q=%e9%a6%ac%e5%a4%aa%e9%9e%8d&ca2=2025-07-01" target="_blank">農業部林業及自然保育署</a> ：馬太鞍溪堰塞湖近期應變資訊（顯示 2025.7 起資訊）
+* [馬太鞍溪堰塞湖壩體114.9.24更新](https://www.facebook.com/watch/?v=1863772707895866) [target=_blank]：內有影片說明
+* [馬太鞍溪堰塞湖監測紀實](https://storymaps.arcgis.com/stories/5864cf7ed3b54f83a5247f3f9b39bec2) ：內有「應變作為時間軸」
+* [農業部林業及自然保育署](https://www.forest.gov.tw/ForestNews?q=%e9%a6%ac%e5%a4%aa%e9%9e%8d&ca2=2025-07-01) [target=_blank] ：馬太鞍溪堰塞湖近期應變資訊（顯示 2025.7 起資訊）
 * [NCDR WATCH](https://watch.ncdr.nat.gov.tw/watch_barrier_map_v2)
 
 
@@ -45,20 +41,20 @@ Contributing content **means that you agree to waive your copyright and release 
 **⚠️請詳閱當地需求**
 
 ### 民間資訊統整
-* [光復救災資源整合地圖](https://www.google.com/maps/d/u/0/viewer?ll=23.668359443372623%2C121.42914186751092&z=13&mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) 
-－－如有新資訊，歡迎至討論串留言：[俞凱倫/臉書](https://www.facebook.com/share/p/1BE1BJKDAH/) 
-* [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview?fbclid=IwRlRTSANB-DhjbGNrA0HIRGV4dG4DYWVtAjExAAEeHTAkJL4-nMy8Bi82UqCWrFfwVKpprQt71dhU7ELpSpTxLGPYw69MGDD5KVs_aem_fCqhdWsyHarZZDaGrdPV1Q#gid=0) 
+
+* [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview) 
 （多個分頁，包含各單位資訊，與需求物資、志工及募款更新）
 －－願意協助資訊彙整，請聯絡 [@audery1011
-](https://www.threads.com/@audery1011/post/DO-g_8DCbIH)
+](https://www.threads.com/@audery1011/post/DO-g_8DCbIH) [target=_blank]
 
 ### 人力
-**⚠️注意自身安全、**
-* [支援災後清理工作注意事項](https://www.facebook.com/share/12D5FjZSeSd/)
+**⚠️注意自身安全、自備裝備，切勿造成災區負擔**
+支援災後清理工作的注意事項
+[裝備](https://www.facebook.com/100064553895535/posts/1204663885028730/) [target=_blank]
 * [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)　`（花蓮縣議員楊美華發起的媒合)`
-* <a href="https://www.facebook.com/watch?v=1253051549925969" target="_blank">慈濟招募清掃志工</a> | [報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) 
+* [慈濟招募清掃志工](https://www.facebook.com/watch?v=1253051549925969) [target=_blank] | [報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) 
 *  [壯闊台灣-運送物資與災後復原志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform)
-* [打掃志工聯絡窗口](https://www.facebook.com/DibusILAI/posts/10161875637406717) 
+* [打掃志工聯絡窗口](https://www.facebook.com/DibusILAI/posts/10161875637406717) [target=_blank]
     * 馬太鞍長老教會
 蔡代表 | 0919-965-120
 曾村長 | 0928-295-892
@@ -73,8 +69,8 @@ Contributing content **means that you agree to waive your copyright and release 
     * 阿陶莫部落
         黃建桐村長 | 0910-374-519
         鄭敏芳 | 0988-126-74
-* [無事先聯繫臨時來幫忙的人](https://www.facebook.com/muhhua/posts/10162020486870745)
-    * 建議搭火車來，步行可及的有火車站門口 慈濟慈善基金會 https://tzuchi.info/86fn5c （line群可加入）
+* [無事先聯繫臨時來幫忙的人](https://www.facebook.com/muhhua/posts/10162020486870745) [target=_blank]
+    * 建議搭火車來，步行可及的有火車站門口 慈濟慈善基金會 [（line群可加入）](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) [target=_blank]
     * 收容中心大進國小：花蓮縣卓溪鄉新女力公益協會
 
 ### 捐款
@@ -99,13 +95,13 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ### 物資
 **⚠️請詳閱當地需求與收送方式**
-* [花蓮玉里。阿強西瓜 ](https://www.facebook.com/YuliXigua)[光復物資統整登記表](https://docs.google.com/spreadsheets/d/1ADTYJFxWcvK0XJgJmwWFvG_PSGf3mutAmPk2iExGqVg/edit?gid=0#gid=0) `(9/26 00:00更新暫緩募集)`
+* [花蓮玉里。阿強西瓜](https://www.facebook.com/YuliXigua) [target=_blank] [光復物資統整登記表](https://docs.google.com/spreadsheets/d/1ADTYJFxWcvK0XJgJmwWFvG_PSGf3mutAmPk2iExGqVg/edit?gid=0#gid=0) `(9/26 00:00更新暫緩募集)`
 * <a href="https://www.facebook.com/permalink.php?story_fbid=122257086650034466&id=61551033993595" target="_blank">FATA'AN物資運送處</a> ` (9/25 12:54更新暫緩募集)`
     * FATA'AN部落物資負責人(限親送)
         * 王 0981-042-045
         * 宋 0975-180-730
-* <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0364yQaNTzYeYcFfsq7NWzaWbBzthQ3es2Zkq5rwrSSckkkCNmQ8y4kFKR2Reu78EQl&id=61551033993595" target="_blank">馬太鞍長老教會</a>`(9/24 22:00更新暫緩募集)`
-* [天主教會花蓮教區富田天主堂、天主教善牧基金會](https://www.facebook.com/yang.li.zhou.553496/posts/32477166835215489) (請先聯繫確認募集狀況)
+* [馬太鞍長老教會](https://www.facebook.com/permalink.php?story_fbid=pfbid0364yQaNTzYeYcFfsq7NWzaWbBzthQ3es2Zkq5rwrSSckkkCNmQ8y4kFKR2Reu78EQl&id=61551033993595) [target=_blank]`(9/24 22:00更新暫緩募集)`
+* [天主教會花蓮教區富田天主堂、天主教善牧基金會](https://www.facebook.com/yang.li.zhou.553496/posts/32477166835215489) [target=_blank] (請先聯繫確認募集狀況)
 聯絡人員:張神父、電話:0905-356177
 聯絡人員:曾小姐、電話:0926-290128
 收受地址:花蓮縣光復鄉富田一街16號
@@ -116,12 +112,14 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ## 📢 狀況回報
 ### [EMIC災情地圖](https://tainan.olc.tw/p/emic/)
-### [中央災害應變中心](https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83)：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
+### [中央災害應變中心](https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83) [target=_blank]：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
  
 ### 交通狀況 
 **🚨非救災需求，請立即離開光復鄉！**
-* 光復鄉
-    * 火車：鳳林=瑞穗間8時起恢復正常行車。(詳情看依<a href="https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29972cea501997901306830df" target="_blank">台鐵公告</a>為主)
+* 光復鄉(**目前車輛擁塞，除非必要，盡可能搭乘火車前往**)`(9/26更新)`
+    * 火車：
+        * 鳳林=瑞穗間恢復正常行車。(詳情看依[台鐵公告](https://www.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29972cea501997901306830df) [target=_blank]為主)
+        * 台鐵因應協助災後復原[加開班次資訊](https://tip.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac2998206660199840e19c20431&page=0) [target=_blank]
     * 公路：
         * 南下>>花蓮南下到鳳林劍英大橋轉進193線到光復
         * 北上>>從台東北上的路線，走台11海線
@@ -135,7 +133,7 @@ Contributing content **means that you agree to waive your copyright and release 
 ## 👪 給當地居民<br>
 
 ### 救助金、慰問金
-* [南山人壽慰問金](https://www.facebook.com/xu.shi.an.342099/posts/25009353401990111)
+* [南山人壽慰問金](https://www.facebook.com/xu.shi.an.342099/posts/25009353401990111) [target=_blank]
     * 保戶：
         * 不幸身故保戶每人10萬元
         * 加護病房保戶每人6萬元
@@ -146,29 +144,29 @@ Contributing content **means that you agree to waive your copyright and release 
         * 一般病房非保戶每人1萬元
      * 聯繫方式：臉書私訊 or 24小時免付費客服電話 ：0800-020-060
 
-* [桃園受災戶1萬元生活扶助金＆原青返鄉救災交通住宿補助](https://www.facebook.com/SanCheng624/posts/1559803942175499)
+* [桃園受災戶1萬元生活扶助金＆原青返鄉救災交通住宿補助](https://www.facebook.com/SanCheng624/posts/1559803942175499) [target=_blank]
     * 扶助金領取條件：設籍桃園的原住民族人，若本人、配偶或三親等親屬家戶為受災戶，因災害衝擊導致工作受影響、家戶生計陷入困境者。
     * 返鄉救災交通住宿補助：
 桃園市政府原住民族行政局原住民福利科(03)3322101 # 6686馬社工督導、# 6687楊社工
 
-* [台北市受災戶家屬扶助金](https://www.facebook.com/chiangwanan/posts/1348543136635640) 
-    * [申請窗口：各區公所原住民服務台](https://www.facebook.com/Taipei.IPC/posts/1234440555392066)
+* [台北市受災戶家屬扶助金](https://www.facebook.com/chiangwanan/posts/1348543136635640) [target=_blank]
+    * [申請窗口：各區公所原住民服務台](https://www.facebook.com/Taipei.IPC/posts/1234440555392066) [target=_blank]
 
 ### 日常需求
-* [大進國小兒童關懷中心（臨時托兒）](https://www.facebook.com/WorldVisionTW/posts/1294180626076255)`(請協助更新托兒限制和時間)`
-* [處方藥品（健保卡遺失）](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559)
+* [大進國小兒童關懷中心（臨時托兒）](https://www.facebook.com/WorldVisionTW/posts/1294180626076255) [target=_blank]`(請協助更新托兒限制和時間)`
+* [處方藥品（健保卡遺失）](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559) [target=_blank]
  花蓮光復糖廠=>服務時間：09/24-10/09； 09:00-17:30
   馬太鞍教會=> 服務時間：09/24-09/29；09:00-16:00
   大全村活動中心=>服務時間：09/24-09/30；09:30-16:00
   虎爺溫泉渡假莊園=>服務時間：09/26下午16:00-17:30、09/27-09/30；10:00-12:00
-*  [太巴塱基督長老教會](https://www.facebook.com/permalink.php?story_fbid=pfbid023Yk1uTR2jU6L2S42wXxv6HZ9ngiS8iMJGg14kgLbaaMcnLgJCnmfJbF6f8fAF7YYl&id=100064822535445)：9/25上午提供早餐（物資有限，請自備購物袋）
+*  [太巴塱基督長老教會](https://www.facebook.com/permalink.php?story_fbid=pfbid023Yk1uTR2jU6L2S42wXxv6HZ9ngiS8iMJGg14kgLbaaMcnLgJCnmfJbF6f8fAF7YYl&id=100064822535445) [target=_blank]：9/25上午提供早餐（物資有限，請自備購物袋）
 
 ### 醫療資源
 * 門諾醫院醫療站 @馬太鞍教會
 	* 時間：9/25(四)~26(五) 11:00~16:00 (動態調整)
 	* 地點：馬太鞍教會
 	* 如果有行動不變的長輩，也可以與楊曉君0919-230-356連絡協助處理。
-* <a href="https://www.facebook.com/mohw.gov.tw/posts/pfbid0oc3LoTxpKGaEAUGtQTzaidp9mJtSCBRK2vK7PeZDFxaCQy6pUJuptJqALcfJAFoQl" target="_blank">衛福部應變措施與資源</a>：洗腎、孕婦、急救、安置、社工、防疫等資源
+* [衛福部應變措施與資源](https://www.facebook.com/mohw.gov.tw/posts/pfbid0oc3LoTxpKGaEAUGtQTzaidp9mJtSCBRK2vK7PeZDFxaCQy6pUJuptJqALcfJAFoQl) [target=_blank]：洗腎、孕婦、急救、安置、社工、防疫等資源
 
 
 ### 安置空間 
