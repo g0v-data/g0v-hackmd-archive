@@ -18,16 +18,17 @@ This platform is NOT endorsed NOR maintained by the government officials, **all 
 Contributing content **means that you agree to waive your copyright and release your content to the Public Domain** under *the full extent of the law*.
 :::
 
-* [首頁<br>Homepage](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)
+* [首頁<br>Homepage](https://g0v.hackmd.io/@yitzu/Fata-an_BarrierLake)
  
 ## 📌置頂<br> 
 **‼️馬太鞍溪河床已被泥沙填滿，只要稍有雨勢，河水就可能漫流至街道，隨時有可能必須撤退！！**`<堰塞湖危機尚未解除，請隨時保持警覺>`
-* [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)
-　👉如有新資訊，歡迎至討論串留言：[俞凱倫/臉書](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl)[target=_blank]
 * [🆘 Fata’an部落網絡急救小組](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)`<內有收容所、民間提供住宿清單>`
 * [📖花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview?fbclid=IwY2xjawNByERleHRuA2FlbQIxMQABHh0wJCS-PpzMvAYvNlKglqxX8FSqaa0Le9XYVOxC6UqU8Sxj2MOvTBgw-Slb_aem_fCqhdWsyHarZZDaGrdPV1Q&gid=979403745#gid=0)`<多個分頁，包含收容所、尋人、志工、各單位等資訊>`
+* [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)[target=_blank]
+　👉如有新資訊，歡迎至討論串留言：[俞凱倫/臉書](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl)
 * [📖花蓮馬太鞍溪堰塞湖災害救援懶人包](https://hackmd.io/@DPPinfo/H1jdGQM2eg#0923-%E8%8A%B1%E8%93%AE%E9%A6%AC%E5%A4%AA%E9%9E%8D%E6%BA%AA%E5%A0%B0%E5%A1%9E%E6%B9%96%E7%81%BD%E5%AE%B3%E6%95%91%E6%8F%B4%E6%87%B6%E4%BA%BA%E5%8C%85)`<彙整官方、民進黨資訊>`
 * [🖥️馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)
+
 
 
 ---
@@ -84,7 +85,6 @@ Contributing content **means that you agree to waive your copyright and release 
 * [無事先聯繫臨時來幫忙的人](https://www.facebook.com/muhhua/posts/10162020486870745) [target=_blank]
     * 建議搭火車來，步行可及的有火車站門口 慈濟慈善基金會 [（line群可加入）](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) [target=_blank]
     * 收容中心大進國小：花蓮縣卓溪鄉新女力公益協會
-    * 
 
 ### 捐款
 * <a href="https://www.facebook.com/photo?fbid=1347945503367890&set=a.519537112875404" target="_blank">財團法人賑災基金會</a> `(賴清德總統臉書公布，勸募時間 9/25-10/24，與下方衛福部為同一資訊)`

@@ -418,6 +418,7 @@ https://tainan.olc.tw/p/shelter/
     - 接著需要判斷餘震期間，仍可判斷為安全的運動場館室內
     - 情況較穩定後，可選擇前往 收容處所
 - 例如土石流災害預警，通常是預先開始撤離
+- 花蓮縣堰塞湖離範圍，包含避難據點 https://www.facebook.com/share/p/1GVMswe9xH/
 - 例如核子事故，應該是尋找遮蔽空間
     - 集結地點，會再透過巴士車輛載離 https://www.facebook.com/share/p/UkV6xaLM9CEBTR1T/
 - Figuregrounder：http://hanshack.com/figuregrounder/
