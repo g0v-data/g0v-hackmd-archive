@@ -25,7 +25,8 @@ Contributing content **means that you agree to waive your copyright and release 
 * [🆘 Fata’an部落網絡急救小組](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)`<內有收容所、民間提供住宿清單>`
 * [📖花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview?fbclid=IwY2xjawNByERleHRuA2FlbQIxMQABHh0wJCS-PpzMvAYvNlKglqxX8FSqaa0Le9XYVOxC6UqU8Sxj2MOvTBgw-Slb_aem_fCqhdWsyHarZZDaGrdPV1Q&gid=979403745#gid=0)`<多個分頁，包含收容所、尋人、志工、各單位等資訊>`
 * [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)[target=_blank]
-　👉如有新資訊，歡迎至討論串留言：[俞凱倫/臉書](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl)
+　👉9/27更新：如有新資訊，請填寫回報表單（https://reurl.cc/ZN3RQ3）
+ （原：歡迎至討論串留言：[俞凱倫/臉書](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl)
 * [🖥️馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)
 
 
@@ -46,7 +47,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * 民間資訊統整
     * [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview) 
 （多個分頁，包含各單位資訊，與需求物資、志工及募款更新）
-👉願意協助資訊彙整，請聯絡 [@audery1011
+👉9/27更新：已開放全面共編（原：願意協助資訊彙整，請聯絡 [@audery1011
 ](https://www.threads.com/@audery1011/post/DO-g_8DCbIH) [target=_blank]
     * g0v [花蓮馬太鞍溪堰塞湖溢流災情整合平台](https://g0v.hackmd.io/dq1h3KfCRqaGfS6mxX25lw?both)
     👉點擊上方左右側的<span style="padding: 1px 1.5px 3px 3.5px; background: white; border-radius: 5px; margin: 0px 4px;"><i class="fa fa-pencil fa-fw"></i></span>開始進行編輯
