@@ -43,17 +43,33 @@ description: 本平台非政府官方所設，所有內容僅供參考，歡迎�
     * 小型挖土機 / 推土機（用於處理大規模瓦礫或道路障礙）
     * 發電機（若當地電力尚未恢復）
 
-### 志工號召資訊：
+## 志工需求資訊：
 
-團體號召
-* 楊華美議員服務處 | [清運志工招募+災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)
-* 壯闊台灣-運送物資與災後復原 | [志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform)
+### 團體號召
+* 楊華美議員服務處 9/25~10/3 | [清運志工招募+災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)
+* 壯闊台灣-運送物資與災後復原 9/29~9/30 | [志工報名](https://docs.google.com/forms/d/e/1FAIpQLSePxr9sYC1iFLsY6FelYr02MN3QjujyM_pNyAyVkfCr2M1Vxw/viewform)
 
-* 花蓮縣卓溪鄉新女力公益協會
+* 花蓮縣卓溪鄉新女力公益協會 9/25~10/5 | [志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform)
 * 芥菜種會 9/25~10/3 10:00~17:00 | [志工報名表](https://docs.google.com/forms/d/e/1FAIpQLSeUsJVNHRhDtGf6h2H323mVRTHl-8TCkkT6IAQxFrIC_PaJ9A/viewform)
-* [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)　`（花蓮縣議員楊美華發起的媒合)`
-    * [慈濟招募清掃志工](https://www.facebook.com/watch?v=1253051549925969) [target=_blank] | [報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) 
-    *  壯闊台灣-運送物資與災後復原 | [志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform)
-    *  花蓮縣卓溪鄉新女力公益協會 | [志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform)
+* 慈濟 9/25~9/29 9:00~17:00 | [報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) 
 
-:::
+### 部落or個人號召
+* 小草野生工作室 | 林明謙 [私訊](https://www.facebook.com/share/p/1ARbHd7vLg/)
+* 馬太鞍長老教會
+蔡代表 | 0919-965-120
+曾村長 | 0928-295-892
+王村長 | 0936-573-056
+
+* 糖廠管理員室後面的親子館
+曾小姐 | 0955-514-994
+* 光復國小
+梁 | 0930-265-833
+* 大進國小
+葛小姐 | 0976-095-302
+* 年齡階層 總幹事 | 0960-514-994
+* 阿陶莫部落
+黃建桐村長 | 0910-374-519
+鄭敏芳 | 0988-126-74
+
+{%hackmd RAkMiCTYREqrTIjsUrrbDQ?view#%E5%BF%97%E5%B7%A5%E9%9C%80%E6%B1%82%E8%B3%87%E8%A8%8A%EF%BC%9A1 %}
+RAkMiCTYREqrTIjsUrrbDQ?view#%E5%BF%97%E5%B7%A5%E9%9C%80%E6%B1%82%E8%B3%87%E8%A8%8A%EF%BC%9A1

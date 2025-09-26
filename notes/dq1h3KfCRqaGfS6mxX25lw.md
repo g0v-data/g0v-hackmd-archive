@@ -52,11 +52,15 @@ Contributing content **means that you agree to waive your copyright and release 
 ### 人力
 **⚠️注意自身安全、自備裝備，切勿造成災區負擔!**
 **⚠️請先閱讀支援災後清理工作的[注意事項](https://g0v.hackmd.io/@yitzu/rkBzt5Qheg)**
+
 * 組織號召
+
+
     * [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)　`（花蓮縣議員楊美華發起的媒合)`
     * [慈濟招募清掃志工](https://www.facebook.com/watch?v=1253051549925969) [target=_blank] | [報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) 
     *  壯闊台灣-運送物資與災後復原 | [志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform)
     *  花蓮縣卓溪鄉新女力公益協會 | [志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform)
+    * 法鼓山花蓮精舍 | [清淤志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSdfVDDNyRwhJWMxnj-0YdzKdvhybRLuq3JF_xap4j9sk4yykg/viewform)
 
 * 部落當地[打掃志工聯絡窗口](https://www.facebook.com/DibusILAI/posts/10161875637406717) [target=_blank]
     * 馬太鞍長老教會
@@ -73,7 +77,7 @@ Contributing content **means that you agree to waive your copyright and release 
     * 阿陶莫部落
         黃建桐村長 | 0910-374-519
         鄭敏芳 | 0988-126-74
-    * 小草工作室 | 林明謙 [私訊](https://www.facebook.com/share/p/1ARbHd7vLg/)
+    * 小草野生工作室 | 林明謙 [私訊](https://www.facebook.com/share/p/1ARbHd7vLg/)
 * [無事先聯繫臨時來幫忙的人](https://www.facebook.com/muhhua/posts/10162020486870745) [target=_blank]
     * 建議搭火車來，步行可及的有火車站門口 慈濟慈善基金會 [（line群可加入）](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) [target=_blank]
     * 收容中心大進國小：花蓮縣卓溪鄉新女力公益協會
@@ -172,7 +176,12 @@ Contributing content **means that you agree to waive your copyright and release 
 	* 地點：馬太鞍教會
 	* 如果有行動不變的長輩，也可以與楊曉君0919-230-356連絡協助處理。
 * [衛福部應變措施與資源](https://www.facebook.com/mohw.gov.tw/posts/pfbid0oc3LoTxpKGaEAUGtQTzaidp9mJtSCBRK2vK7PeZDFxaCQy6pUJuptJqALcfJAFoQl) [target=_blank]：洗腎、孕婦、急救、安置、社工、防疫等資源
-
+* 收容中心醫療站
+    * 花蓮光復糖廠 ｜ 9/24～10/0909:00-17:30
+    * 馬太鞍教會 ｜ 9/24～9/29 09:00-16:00
+    * 大全村活動中心 ｜ 9/24～9/30 09:30-16:00
+    * 虎爺溫泉渡假莊園 ｜ 9/27～9/30 10:00-12:00
+* 災害藥品諮詢專線：03-8224750 (花蓮縣衛生局)
 
 ### 安置空間 
 * 避難所&聯絡窗口
