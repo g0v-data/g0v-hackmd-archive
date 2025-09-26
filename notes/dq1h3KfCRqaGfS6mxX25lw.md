@@ -79,7 +79,7 @@ Contributing content **means that you agree to waive your copyright and release 
 - [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview?fbclid=IwRlRTSANB-DhjbGNrA0HIRGV4dG4DYWVtAjExAAEeHTAkJL4-nMy8Bi82UqCWrFfwVKpprQt71dhU7ELpSpTxLGPYw69MGDD5KVs_aem_fCqhdWsyHarZZDaGrdPV1Q#gid=0)
 
 ### 人力
-* [支援災後清理工作注意事項](https://www.facebook.com/share/p/1CHSzB9w6R/)
+* [支援災後清理工作注意事項](https://www.facebook.com/share/12D5FjZSeSd/)
 * [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)　`（花蓮縣議員楊美華發起的媒合)`
 * <a href="https://www.facebook.com/watch?v=1253051549925969" target="_blank">慈濟招募清掃志工</a> | [報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) 
 *  [壯闊台灣-運送物資與災後復原志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform)
