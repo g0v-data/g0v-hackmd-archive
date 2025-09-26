@@ -65,7 +65,7 @@ https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitati
 * 組織號召
     * [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)　`（花蓮縣議員楊美華發起的媒合)`
     * [慈濟招募清掃志工](https://www.facebook.com/watch?v=1253051549925969) [target=_blank] | [報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) 
-    *  壯闊台灣-運送物資與災後復原 | [志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform)
+    *  壯闊台灣-運送物資與災後復原 | [志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform) `9/26（五）15:00 前報名截止`
     *  花蓮縣卓溪鄉新女力公益協會 | [新公告](https://www.facebook.com/share/p/176MQ86gJg/)直接加入[Line志工群組](https://line.me/ti/g/e8Jhmc2RrU) |[志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform)
     * 法鼓山花蓮精舍 | [清淤志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSdfVDDNyRwhJWMxnj-0YdzKdvhybRLuq3JF_xap4j9sk4yykg/viewform)
     * 中華基督教救助協會 ｜[清淤志工填表](https://docs.google.com/forms/d/e/1FAIpQLSd-bWszIOn3YJJUh8dt0f8eRXOf5OPtRIXTz2fSfESnf0fZng/viewform)
