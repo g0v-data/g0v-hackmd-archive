@@ -50,14 +50,14 @@ Contributing content **means that you agree to waive your copyright and release 
 ](https://www.threads.com/@audery1011/post/DO-g_8DCbIH) [target=_blank]
     * g0v [花蓮馬太鞍溪堰塞湖溢流災情整合平台](https://g0v.hackmd.io/dq1h3KfCRqaGfS6mxX25lw?both)
     👉點擊上方左右側的<span style="padding: 1px 1.5px 3px 3.5px; background: white; border-radius: 5px; margin: 0px 4px;"><i class="fa fa-pencil fa-fw"></i></span>開始進行編輯
+    * * [De-Jounge Tseng](https://www.facebook.com/share/p/1Cs9zcNw7o/) ｜ [災後需求地圖](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fviewer%3Fmid%3D1z3Lh3pKucPyjFiq-OVOQeAAJ_Y3viQk%26ll%3D25.0411430697939%252C121.50900250000002%26z%3D13%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExZ2MwaGhPcmw1VDBlYVNCVAEeR_Vyo3zZk33d-8A0nlT7SjnKkVrcNhj66QURdi0sMlKtPTbx6qPA34ljRvA_aem_BgvwCisKDOqy9teU3L5FkQ&h=AT3ldHVoOduKBs34l2TIg2G0pkN8Sj0aMpsFsH78cFMqm2kDN0rwLsWvLOwI0yVxkxPxetp-oeMvP51_1EvETiDbC5rx1gc2NziDwtHsN_oQHpeYOdn_O4hayHt5J2yyGECU5r9qORYovhAlp3Z0SqMlOeipjsZP&__tn__=-UK-R&c[0]=AT2lBtbdtTM8DUDrfImPjHyVIHbu3uq9bdMJVCty4Iu8V2khyykO7FM5_B0XHO0VXYrwzCSuTe3v_oKZWrWIfZfIKmcSQrKNZiYeThAwaRKDnas-W1vQ7fqSOeXPgdEnOXuBwRGZB4X0a-wOVlYmFXgl)`（目前需求表單與地圖仍需手動匯入，希望召集各路英雄好漢一起完成自動化流程!)`
 
 ### 人力
 **⚠️注意自身安全、自備裝備，切勿造成災區負擔!**
 **⚠️請先閱讀支援災後清理工作的[注意事項](https://g0v.hackmd.io/@yitzu/rkBzt5Qheg)**
 
+
 * 組織號召
-
-
     * [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)　`（花蓮縣議員楊美華發起的媒合)`
     * [慈濟招募清掃志工](https://www.facebook.com/watch?v=1253051549925969) [target=_blank] | [報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) 
     *  壯闊台灣-運送物資與災後復原 | [志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform)
@@ -84,6 +84,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * [無事先聯繫臨時來幫忙的人](https://www.facebook.com/muhhua/posts/10162020486870745) [target=_blank]
     * 建議搭火車來，步行可及的有火車站門口 慈濟慈善基金會 [（line群可加入）](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) [target=_blank]
     * 收容中心大進國小：花蓮縣卓溪鄉新女力公益協會
+    * 
 
 ### 捐款
 * <a href="https://www.facebook.com/photo?fbid=1347945503367890&set=a.519537112875404" target="_blank">財團法人賑災基金會</a> `(賴清德總統臉書公布，勸募時間 9/25-10/24，與下方衛福部為同一資訊)`
@@ -144,7 +145,9 @@ Contributing content **means that you agree to waive your copyright and release 
 ---
 ## 👪 給當地居民<br>
 ### 需求回報
-* [花蓮縣卓溪鄉新女力公益協會｜光復災區需求回報 Line 社群](https://line.me/ti/g2/sB3ozsYjzDffc2AZ_QIBQCRtBdXhOSFW26zszw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default&fbclid=IwY2xjawNDXGhleHRuA2FlbQIxMABicmlkETFHN0JuSUVudzA1RW5UZjUzAR5QuPztYuxUug0v6dPzEwDjilVzT0IGFzAFSecOQWnLVPbFnR3rGSh8NaEfiQ_aem__ttEPx6npUe_WiWjUNaZXA) [target=_blank]
+* [花蓮縣卓溪鄉新女力公益協會](https://www.facebook.com/share/p/1D11YJx7KK/)｜[光復災區需求回報 Line 社群](https://line.me/ti/g2/sB3ozsYjzDffc2AZ_QIBQCRtBdXhOSFW26zszw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default&fbclid=IwY2xjawNDXGhleHRuA2FlbQIxMABicmlkETFHN0JuSUVudzA1RW5UZjUzAR5QuPztYuxUug0v6dPzEwDjilVzT0IGFzAFSecOQWnLVPbFnR3rGSh8NaEfiQ_aem__ttEPx6npUe_WiWjUNaZXA) [target=_blank]
+* [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)　`（花蓮縣議員楊美華發起的媒合)`
+* [De-Jounge Tseng](https://www.facebook.com/share/p/1Cs9zcNw7o/) ｜ [災後需求登記表](https://docs.google.com/forms/d/e/1FAIpQLSfSCPx7hX0Na7sPbUfucjKSCqttAH0lug2QBK3OARdE5nGlew/viewform?fbclid=IwY2xjawNDamZleHRuA2FlbQIxMABicmlkETFnYzBoaE9ybDVUMGVhU0JUAR7i7llPhQzD5GiSkMEVsrS05eVWtNg_MyIv74NPUErhoowzxVOailKd_Uyr4A_aem_0Hh9PyoHDXPKhUM9s8JjWA)`（目前需求表單與地圖仍需手動匯入，希望召集各路英雄好漢一起完成自動化流程!)`
 ### 救助金、慰問金
 * [南山人壽慰問金](https://www.facebook.com/xu.shi.an.342099/posts/25009353401990111) [target=_blank]
     * 保戶：
