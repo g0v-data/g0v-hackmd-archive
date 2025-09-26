@@ -50,8 +50,10 @@ description: 本平台非政府官方所設，所有內容僅供參考，歡迎�
     * 個人藥物&醫藥防護包：優碘、酒精、OK繃、外用抗生素（軟膏或粉狀）、個人抗過敏藥物`（簡單傷口照護）`
     * 緩解肌肉疲勞的用品
 
+以上彙整自 [花蓮光復鄉-救災物資募集資訊總表「志工指南」](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?gid=1576860409#gid=1576860409)
+
 ### 物資整理工具：
-（）
+（[9/26更新：光復國小已成為新的物資集散地，缺人手整理](https://www.threads.com/@fishhead_insane/post/DPEeN38kncF)）
 * 剪刀、美工刀
 * 大膠帶數個
 * 麥克筆
