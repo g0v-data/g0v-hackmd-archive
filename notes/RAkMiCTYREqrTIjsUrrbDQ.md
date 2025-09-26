@@ -17,7 +17,7 @@ description: 本平台非政府官方所設，所有內容僅供參考，歡迎�
 
 ### 心理準備：
    * 大量志工短期湧入，可能不會有太多準備好的資訊與流程。
-   * 現場發生摩擦與爭執，記得不要咎責要當責。
+   * 現場發生摩擦與爭執，記得不要咎責，要當責。
    * 可能遇到動物屍體，味道會比較重。
 
 以上摘錄自網友心得：[Chuang Mua](https://www.facebook.com/share/p/1B9jU43FAb/)、[@1991_andfan](https://www.threads.com/@1991_andfan)
