@@ -143,7 +143,9 @@ https://line.me/ti/g2/gNNwamqenP9lV5jJHFVvIC2SYJOWrPbwJNMLXA)[target=_blank]　
   LINE Pay 主頁>「愛心捐款」平台>「馬太鞍溪堰塞湖災害專案」
         (可選擇已綁定的中國信託商業銀行、台北富邦銀行、聯邦銀行及台新銀行信用卡、簽帳金融卡進行捐款，也可選用LINE POINTS點數支付完成捐款。)
     * **現金**
-7-ELEVEN的ibon、全家便利商店的FamiPort機台、萊爾富的Life-ET、OKmart的OK．go，點選「關懷花蓮光復洪災」或「馬太鞍溪堰塞湖災害專案」。
+7-ELEVEN的ibon、全家便利商店的FamiPort機台、萊爾富的Life-ET、OKmart的OK．go，點選「關懷花蓮光復洪災」或「馬太鞍溪堰塞湖災害專案」。（如不需捐款收據，可勾選「不需捐款收據」，即免填個資）
+
+
     * **匯款**：
         民眾若想捐款，賑災專戶捐款戶名為財團法人賑災基金會。銀行名稱為土地銀行長春分行（005）。銀行帳號為102-005-201-966。
 * [財團法人台灣基督長老教會宣教基金會](https://donate.pct.org.tw/Storeservice.aspx?SSID=D2019081901)[target=_blank] `(在備註寫：花蓮光復鄉洪災)`
