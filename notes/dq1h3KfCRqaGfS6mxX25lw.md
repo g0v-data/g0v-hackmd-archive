@@ -22,18 +22,20 @@ Contributing content **means that you agree to waive your copyright and release 
 ## 📌置頂
 **‼️馬太鞍溪河床已被泥沙填滿，只要稍有雨勢，河水就可能漫流至街道，隨時有可能必須撤退！！**
 `<堰塞湖危機尚未解除，請隨時保持警覺>`
-1. [🗺️EMIC災情地圖](https://tainan.olc.tw/p/emic/) --- *江明宗 製作*
-2. [花蓮縣政府最新消息](https://www.hl.gov.tw/ysh/News.aspx?n=41177&sms=28955)[target=_blank] --- *花蓮縣政府*
-    * 內有死亡失聯撤離收容名冊以及**交通管制公告**等
-3. [🖥️馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)[target=_blank] --- *農業部林業及自然保育署*
+1. ℹ️ [馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)[target=_blank] --- *農業部林業及自然保育署*
     * 目前災區仍有風險，請注意自身安全
     * ⚠️監視器影片可能不即時
+2. ℹ️ [花蓮縣政府最新消息](https://www.hl.gov.tw/ysh/News.aspx?n=41177&sms=28955)[target=_blank] --- *花蓮縣政府*
+    * 內有死亡失聯撤離收容名冊以及**交通管制公告**等
+3. ℹ️ [EMIC災情地圖](https://tainan.olc.tw/p/emic/) --- *江明宗 製作*
+
 
 ### 災民需求 X 志工前往
 
-1. [📖**花蓮光復鄉-救災物資募集資訊總表** 👉推薦以這個為主](https://reurl.cc/QaqLKZ)[target=_blank]`<多分頁資訊，包含收容所、尋人、志工、各單位等>` 
+1.🪏 [花蓮光復鄉-救災物資募集資訊總表](https://reurl.cc/QaqLKZ)[target=_blank] 
+    （多分頁資訊，包含收容所、尋人、志工、各單位等）
     > 9/27開放共編｜目前編輯人數過多，部分工具可能無法使用。
-2. [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)[target=_blank] --- *光復救災資訊整合-[遠端志工群 Discord](https://discord.gg/CzVxptZP)[target=_blank]*
+2.🪏 [救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)[target=_blank] --- *光復救災資訊整合-[遠端志工群 Discord](https://discord.gg/CzVxptZP)[target=_blank]*
     * 新資訊，請填寫[回報表單](https://forms.gle/2o3bW4DrHmmEGwPJ8)[target=_blank]！`<9/27 18:48 更新>`
 
 ### 馬太鞍天氣預報
@@ -47,25 +49,23 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ### 鍵盤支援
 * 資訊統整
-    * [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?usp=sharing) [target=_blank] --- [擁有者@audery1011](https://www.threads.com/@audery1011)
+    * [💻 花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?usp=sharing) [target=_blank] --- [擁有者@audery1011](https://www.threads.com/@audery1011)
 （多個分頁，包含各單位資訊，與需求物資、志工及募款更新）
 　👉9/27更新：已開放全面共編
-    * g0v [花蓮馬太鞍溪堰塞湖溢流災情整合平台（這份文件）](https://g0v.hackmd.io/dq1h3KfCRqaGfS6mxX25lw?both)
-　👉可直接共編，點擊網頁上方的🖋開始進行編輯
-    * [光復救災資訊整合網](https://sites.google.com/view/guangfu250923)[target=_blank] 
+    * [💻 光復救災資訊整合網](https://sites.google.com/view/guangfu250923)[target=_blank] 
     　👉可直接共編，點擊網頁上方的🖋開始進行編輯
-    * [民間資訊團 Line 社群](
+    * [💻 民間資訊團 Line 社群](
 https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)：拼車、接駁、網路及現場資訊整合
-    * [🆘 Fata’an部落網絡急救小組 (更新較不即時)](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)[target=_blank] `<待搜救、收容名單、民間提供災民住宿清單>` 
+    * [💻 Fata’an部落網絡急救小組 (更新較不即時)](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)[target=_blank] `<待搜救、收容名單、民間提供災民住宿清單>` 
 
 * 地圖回報
-    * [🗺️花蓮光復救災地圖](https://tainan.olc.tw/p/guangfu250923/)---[江明宗](https://www.facebook.com/share/p/1BcgMUgPyY/)
+    * [🗺️ 花蓮光復救災地圖](https://tainan.olc.tw/p/guangfu250923/)---[江明宗](https://www.facebook.com/share/p/1BcgMUgPyY/)
 👉直接定位並點選地圖「填寫救災資訊表單」，回報
          * 需要志工
          * 需要物資
          * 提供洗澡
          * 提供住宿
-    * [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) --- [俞凱倫](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
+    * [🗺️ 救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) --- [俞凱倫](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
 👉9/27更新：填寫 [表單回報](https://forms.gle/2o3bW4DrHmmEGwPJ8)
          * 避難所/物資站/災區內志工住宿
          * 需志工協助區域(自備救援工具)
@@ -76,8 +76,8 @@ https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitati
          * 物資接收轉運站(接受捐贈中)
          * 急需人手-阿多莫部落
          * 往返災區-可通行路線
-    *  [🗺️災後需求地圖](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fviewer%3Fmid%3D1z3Lh3pKucPyjFiq-OVOQeAAJ_Y3viQk%26ll%3D25.0411430697939%252C121.50900250000002%26z%3D13%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExZ2MwaGhPcmw1VDBlYVNCVAEeR_Vyo3zZk33d-8A0nlT7SjnKkVrcNhj66QURdi0sMlKtPTbx6qPA34ljRvA_aem_BgvwCisKDOqy9teU3L5FkQ&h=AT3ldHVoOduKBs34l2TIg2G0pkN8Sj0aMpsFsH78cFMqm2kDN0rwLsWvLOwI0yVxkxPxetp-oeMvP51_1EvETiDbC5rx1gc2NziDwtHsN_oQHpeYOdn_O4hayHt5J2yyGECU5r9qORYovhAlp3Z0SqMlOeipjsZP&__tn__=-UK-R&c[0]=AT2lBtbdtTM8DUDrfImPjHyVIHbu3uq9bdMJVCty4Iu8V2khyykO7FM5_B0XHO0VXYrwzCSuTe3v_oKZWrWIfZfIKmcSQrKNZiYeThAwaRKDnas-W1vQ7fqSOeXPgdEnOXuBwRGZB4X0a-wOVlYmFXgl)[target=_blank] --- [De-Jounge Tseng](https://www.facebook.com/share/p/1Cs9zcNw7o/) `［與 花蓮光復救災地圖 整合中］`
-    * [🗺️花蓮光復 災區內 詳細攻略地圖](https://pse.is/86gbbr)---[@ida.kuo](https://reurl.cc/gYAMVL)
+    *  [🗺️ 災後需求地圖](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fviewer%3Fmid%3D1z3Lh3pKucPyjFiq-OVOQeAAJ_Y3viQk%26ll%3D25.0411430697939%252C121.50900250000002%26z%3D13%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExZ2MwaGhPcmw1VDBlYVNCVAEeR_Vyo3zZk33d-8A0nlT7SjnKkVrcNhj66QURdi0sMlKtPTbx6qPA34ljRvA_aem_BgvwCisKDOqy9teU3L5FkQ&h=AT3ldHVoOduKBs34l2TIg2G0pkN8Sj0aMpsFsH78cFMqm2kDN0rwLsWvLOwI0yVxkxPxetp-oeMvP51_1EvETiDbC5rx1gc2NziDwtHsN_oQHpeYOdn_O4hayHt5J2yyGECU5r9qORYovhAlp3Z0SqMlOeipjsZP&__tn__=-UK-R&c[0]=AT2lBtbdtTM8DUDrfImPjHyVIHbu3uq9bdMJVCty4Iu8V2khyykO7FM5_B0XHO0VXYrwzCSuTe3v_oKZWrWIfZfIKmcSQrKNZiYeThAwaRKDnas-W1vQ7fqSOeXPgdEnOXuBwRGZB4X0a-wOVlYmFXgl)[target=_blank] --- [De-Jounge Tseng](https://www.facebook.com/share/p/1Cs9zcNw7o/) `［與 花蓮光復救災地圖 整合中］`
+    * [🗺️ 花蓮光復 災區內 詳細攻略地圖](https://pse.is/86gbbr)---[@ida.kuo](https://reurl.cc/gYAMVL)
 👉填寫 [表單回報](https://reurl.cc/gYAMVL)
 
 
