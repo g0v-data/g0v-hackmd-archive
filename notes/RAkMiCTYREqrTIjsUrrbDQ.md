@@ -77,24 +77,6 @@ description: 本平台非政府官方所設，所有內容僅供參考，歡迎�
 
 ## 志工需求資訊：
 
-:::info
-9/27 9:00更新
-
-1 光復車站出站志工 請優先往 
-光復國中、光復國小、光復高職
-林森路 敦厚路 需清理 協助搬運
-
-2往阿陶莫 
-請在光復車站出站 優先搭乘軍卡 
-
-3 開車的直接停任意火車站 上區間車  再進光復
-
-4接駁車 路線
-4-1 市區外圍 光中 光小 光復高職 優先
-4-2 市區往糖廠 
-4-3 市區往太巴塱 
-:::
-
 ### 團體號召
 * 楊華美議員服務處 9/25~10/3 | [清運志工招募+災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)
 * 壯闊台灣-運送物資與災後復原 9/29~9/30 | [志工報名](https://docs.google.com/forms/d/e/1FAIpQLSePxr9sYC1iFLsY6FelYr02MN3QjujyM_pNyAyVkfCr2M1Vxw/viewform)

@@ -22,33 +22,38 @@ Contributing content **means that you agree to waive your copyright and release 
 ## 📌置頂
 **‼️馬太鞍溪河床已被泥沙填滿，只要稍有雨勢，河水就可能漫流至街道，隨時有可能必須撤退！！**
 `<堰塞湖危機尚未解除，請隨時保持警覺>`
-1. [📖**花蓮光復鄉-救災物資募集資訊總表** 👉推薦以這個為主](https://reurl.cc/QaqLKZ)[target=_blank]`<多分頁資訊，包含收容所、尋人、志工、各單位等>`
+1. [📖**花蓮光復鄉-救災物資募集資訊總表** 👉推薦以這個為主](https://reurl.cc/QaqLKZ)[target=_blank]`<多分頁資訊，包含收容所、尋人、志工、各單位等>` 
     > 9/27開放共編｜目前編輯人數過多，部分工具可能無法使用。
 2. [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)[target=_blank] --- *光復救災資訊整合-[遠端志工群 Discord](https://discord.gg/CzVxptZP)[target=_blank]*
     * 新資訊，請填寫[回報表單](https://forms.gle/2o3bW4DrHmmEGwPJ8)[target=_blank]！`<9/27 18:48 更新>`
-3. [【樺加沙】慈濟清掃動員 Line 社群](
-https://line.me/ti/g2/gNNwamqenP9lV5jJHFVvIC2SYJOWrPbwJNMLXA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)[target=_blank]
-    > 人數眾多，請先看筆記本!!
+
 4. [🗺️EMIC災情地圖](https://tainan.olc.tw/p/emic/) --- *江明宗 製作*
 5. [花蓮縣政府最新消息](https://www.hl.gov.tw/ysh/News.aspx?n=41177&sms=28955)[target=_blank] --- *花蓮縣政府*
-    * 內有死亡失聯撤離收容名冊
+    * 內有死亡失聯撤離收容名冊以及**交通管制公告**等
 6. [🖥️馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)[target=_blank] --- *農業部林業及自然保育署*
     * 目前災區仍有風險，請注意自身安全
+    * ⚠️監視器影片可能不即時
 
 ### 目前還缺？
 
-* [缺人](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview?usp=sharing#gid=1543717444)[target=_blank] 9/27 17:00 --- 資訊總表
+* [缺人清淤](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview?usp=sharing#gid=1543717444)[target=_blank] 9/27 17:00 --- 資訊總表
 
+### 馬太鞍天氣預報
+
+* https://www.cwa.gov.tw/V8/C/L/Tribes/Tribes.html?PID=012-1001507A02
+![](https://g0v.hackmd.io/_uploads/rykJHDBhgl.png)
+* 日出時間： 05:45 日落時間：17:46
+    * 請注意回程車票[訂購](https://www.railway.gov.tw/tra-tip-web/tip/tip001/tip123/query)[target=_blank]
 --- 
 ## 💪 給能幫忙的人💪 For Those Who Can Provide Assistance
 
 ### 鍵盤支援
 * 資訊統整
-    * [花蓮光復鄉-救災物資募集資訊總表](https://reurl.cc/QaqLKZ) [target=_blank]
+    * [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/e/2PACX-1vSkZXVsa3H3y7RYjMPwWORO7svT7fzbpyMMukqcevZ9OpqA1gtYnS_klQw9mDuSIFgH8nnbtW3c6tms/pubhtml) [target=_blank]
 （多個分頁，包含各單位資訊，與需求物資、志工及募款更新）
 　👉9/27更新：已開放全面共編
     * g0v [花蓮馬太鞍溪堰塞湖溢流災情整合平台(這份文件)](https://g0v.hackmd.io/dq1h3KfCRqaGfS6mxX25lw?both)
-    * [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)[target=_blank] -- [俞凱倫/臉書](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) 
+    * [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) -- [俞凱倫/臉書](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
 　👉9/27更新：如有新資訊，請填寫 [回報表單](https://forms.gle/2o3bW4DrHmmEGwPJ8)
     *  [🗺️災後需求地圖](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fviewer%3Fmid%3D1z3Lh3pKucPyjFiq-OVOQeAAJ_Y3viQk%26ll%3D25.0411430697939%252C121.50900250000002%26z%3D13%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExZ2MwaGhPcmw1VDBlYVNCVAEeR_Vyo3zZk33d-8A0nlT7SjnKkVrcNhj66QURdi0sMlKtPTbx6qPA34ljRvA_aem_BgvwCisKDOqy9teU3L5FkQ&h=AT3ldHVoOduKBs34l2TIg2G0pkN8Sj0aMpsFsH78cFMqm2kDN0rwLsWvLOwI0yVxkxPxetp-oeMvP51_1EvETiDbC5rx1gc2NziDwtHsN_oQHpeYOdn_O4hayHt5J2yyGECU5r9qORYovhAlp3Z0SqMlOeipjsZP&__tn__=-UK-R&c[0]=AT2lBtbdtTM8DUDrfImPjHyVIHbu3uq9bdMJVCty4Iu8V2khyykO7FM5_B0XHO0VXYrwzCSuTe3v_oKZWrWIfZfIKmcSQrKNZiYeThAwaRKDnas-W1vQ7fqSOeXPgdEnOXuBwRGZB4X0a-wOVlYmFXgl)[target=_blank] --- [De-Jounge Tseng](https://www.facebook.com/share/p/1Cs9zcNw7o/) `（目前需求表單與地圖仍需手動匯入，希望召集各路英雄好漢一起完成自動化流程!)`
     * [民間資訊團 Line 社群](
@@ -66,8 +71,11 @@ https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitati
 
 
 * 組織號召
-    * [資訊總表-加入大型團隊資訊 👉推薦以這個為主](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?gid=174046522#gid=174046522)[target=_blank]
+[資訊總表-加入大型團隊資訊 👉推薦以這個為主](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?gid=174046522#gid=174046522)[target=_blank]
     * [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)[target=_blank]　`（花蓮縣議員楊華美發起的媒合)`
+    * [【樺加沙】慈濟清掃動員 Line 社群](
+https://line.me/ti/g2/gNNwamqenP9lV5jJHFVvIC2SYJOWrPbwJNMLXA)[target=_blank]　｜　[第二群](https://line.me/ti/g2/FHyunbFvM3MK98DkLTEd3KfQea2in4Y5XnjDBA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)[target=_blank]
+        > 人數眾多，請先看筆記本!! 
     * [慈濟志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform)[target=_blank] --- [慈濟招募清掃志工](https://www.facebook.com/watch?v=1253051549925969) [target=_blank] 
     *  花蓮縣卓溪鄉新女力公益協會 | [新公告](https://www.facebook.com/share/p/176MQ86gJg/)[target=_blank]直接加入[Line志工群組(9/27 17:06 連結失效!!)](https://line.me/ti/g/e8Jhmc2RrU)[target=_blank] |[志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform)[target=_blank]
     * [法鼓山清淤志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSdfVDDNyRwhJWMxnj-0YdzKdvhybRLuq3JF_xap4j9sk4yykg/viewform)[target=_blank] --- 法鼓山花蓮精舍
@@ -141,23 +149,6 @@ https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitati
            - [大進街替代導航路線](https://maps.app.goo.gl/B6C2JeH6PCFsFJ8LA)
            - [民治街替代導航路線](https://maps.app.goo.gl/pbbRXjQzzmGaMMyZA)
 
-:::info
-9/27 9:00更新
-
-1 光復車站出站志工 請優先往 
-光復國中、光復國小、光復高職、林森路、敦厚路，需清理 協助搬運
-
-2往阿陶莫 
-請在光復車站出站 優先搭乘軍卡 
-
-3 開車的直接停任意火車站 上區間車  再進光復
-
-4接駁車 路線
-4-1 市區外圍 光中 光小 光復高職 優先
-4-2 市區往糖廠 
-4-3 市區往太巴塱 
-:::
-
 ### 停電停水狀況
 * [停電地圖](https://tainan.olc.tw/p/emic/taipower.html)[target=_blank]
 * [停水地圖](https://tainan.olc.tw/p/wateroff/)[target=_blank]
@@ -225,7 +216,7 @@ https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitati
 
 
 
-### 找人
+### 失聯尋人
 * [光復糖廠醫療站傷病患名冊 上版日期：114-09-24](https://www.hl.gov.tw/ysh/News_Content.aspx?n=41177&sms=28955&s=194364)[target=_blank]
 * [樺加沙颱風光復鄉撤離收容名冊](https://www.hl.gov.tw/ysh/News_Content.aspx?n=41177&sms=28955&s=194365)[target=_blank]
 * [罹難者家屬籌組0923光復自救會](
