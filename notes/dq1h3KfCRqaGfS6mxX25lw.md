@@ -54,7 +54,7 @@ Contributing content **means that you agree to waive your copyright and release 
     * [De-Jounge Tseng](https://www.facebook.com/share/p/1Cs9zcNw7o/) ｜ [災後需求地圖](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fviewer%3Fmid%3D1z3Lh3pKucPyjFiq-OVOQeAAJ_Y3viQk%26ll%3D25.0411430697939%252C121.50900250000002%26z%3D13%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExZ2MwaGhPcmw1VDBlYVNCVAEeR_Vyo3zZk33d-8A0nlT7SjnKkVrcNhj66QURdi0sMlKtPTbx6qPA34ljRvA_aem_BgvwCisKDOqy9teU3L5FkQ&h=AT3ldHVoOduKBs34l2TIg2G0pkN8Sj0aMpsFsH78cFMqm2kDN0rwLsWvLOwI0yVxkxPxetp-oeMvP51_1EvETiDbC5rx1gc2NziDwtHsN_oQHpeYOdn_O4hayHt5J2yyGECU5r9qORYovhAlp3Z0SqMlOeipjsZP&__tn__=-UK-R&c[0]=AT2lBtbdtTM8DUDrfImPjHyVIHbu3uq9bdMJVCty4Iu8V2khyykO7FM5_B0XHO0VXYrwzCSuTe3v_oKZWrWIfZfIKmcSQrKNZiYeThAwaRKDnas-W1vQ7fqSOeXPgdEnOXuBwRGZB4X0a-wOVlYmFXgl)`（目前需求表單與地圖仍需手動匯入，希望召集各路英雄好漢一起完成自動化流程!)`
     * [民間資訊團 Line 社群](
 https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)：拼車、接駁、網路及現場資訊整合
-    * [志工指南（志工需求資訊整合）](https://sites.google.com/view/disaster-response-real-time/%E8%A1%A8%E5%96%AE%E6%95%B4%E5%90%88%E5%8D%80)
+    * [志工指南](https://sites.google.com/view/disaster-response-real-time/%E8%A1%A8%E5%96%AE%E6%95%B4%E5%90%88%E5%8D%80)
 
 
 ### 人力
@@ -65,10 +65,11 @@ https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitati
 * 組織號召
     * [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)　`（花蓮縣議員楊美華發起的媒合)`
     * [慈濟招募清掃志工](https://www.facebook.com/watch?v=1253051549925969) [target=_blank] | [報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) 
-    *  壯闊台灣-運送物資與災後復原 | [志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform) `9/26（五）15:00 前報名截止`
+    *  壯闊台灣-運送物資與災後復原 | [志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform) （`9/26（五）15:00 前報名截止`）
     *  花蓮縣卓溪鄉新女力公益協會 | [新公告](https://www.facebook.com/share/p/176MQ86gJg/)直接加入[Line志工群組](https://line.me/ti/g/e8Jhmc2RrU) |[志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform)
     * 法鼓山花蓮精舍 | [清淤志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSdfVDDNyRwhJWMxnj-0YdzKdvhybRLuq3JF_xap4j9sk4yykg/viewform)
     * 中華基督教救助協會 ｜[清淤志工填表](https://docs.google.com/forms/d/e/1FAIpQLSd-bWszIOn3YJJUh8dt0f8eRXOf5OPtRIXTz2fSfESnf0fZng/viewform)
+    * 黑熊學院 ｜ [志工意願登記表](https://hqt6bch6.r.ap-northeast-1.awstrack.me/L0/https:%2F%2Fforms.gle%2FtsiSNPTFhAhRQXRq9/1/0106019986b8d1d8-b8a4fa45-3392-4aca-892c-75b21ece4a4f-000000/y9xViOz4Nnl8G0FjZEcn3-oCMks=230)（`這份表單是「第一階段」的意願登記，當地方有具體需求、且時間與任務確定後，黑熊會聯繫名單中的志工，進行下一步的聯繫與工作任務安排。`）
 
 * 部落當地[打掃志工聯絡窗口](https://www.facebook.com/DibusILAI/posts/10161875637406717) [target=_blank]
     * 馬太鞍長老教會
