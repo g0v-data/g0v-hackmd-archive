@@ -7,7 +7,8 @@ tags: 國會松
 :::danger
 # 快速連到本頁面網址：`s.g0v.tw/congressthon`
 :::
-![](https://static-assets.oen.tw/images/img-2zicTEe3BjzfeXudangCFkMY4Ui.jpg)
+![](https://g0v.hackmd.io/_uploads/BJldv-Sngx.png)
+
 
 
 # 報名連結
