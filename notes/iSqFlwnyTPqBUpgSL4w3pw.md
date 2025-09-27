@@ -5,7 +5,7 @@ tags: 國會松
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
 :::danger
-# 快速連到本頁面網址：`s.g0v.tw/congressthon`
+# 快速連到本頁面網址：[`s.g0v.tw/congressthon`](s.g0v.tw/congressthon)
 :::
 ![](https://g0v.hackmd.io/_uploads/BJldv-Sngx.png)
 

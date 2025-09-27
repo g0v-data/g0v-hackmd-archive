@@ -54,7 +54,9 @@ Contributing content **means that you agree to waive your copyright and release 
     * [De-Jounge Tseng](https://www.facebook.com/share/p/1Cs9zcNw7o/) ｜ [災後需求地圖](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fviewer%3Fmid%3D1z3Lh3pKucPyjFiq-OVOQeAAJ_Y3viQk%26ll%3D25.0411430697939%252C121.50900250000002%26z%3D13%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExZ2MwaGhPcmw1VDBlYVNCVAEeR_Vyo3zZk33d-8A0nlT7SjnKkVrcNhj66QURdi0sMlKtPTbx6qPA34ljRvA_aem_BgvwCisKDOqy9teU3L5FkQ&h=AT3ldHVoOduKBs34l2TIg2G0pkN8Sj0aMpsFsH78cFMqm2kDN0rwLsWvLOwI0yVxkxPxetp-oeMvP51_1EvETiDbC5rx1gc2NziDwtHsN_oQHpeYOdn_O4hayHt5J2yyGECU5r9qORYovhAlp3Z0SqMlOeipjsZP&__tn__=-UK-R&c[0]=AT2lBtbdtTM8DUDrfImPjHyVIHbu3uq9bdMJVCty4Iu8V2khyykO7FM5_B0XHO0VXYrwzCSuTe3v_oKZWrWIfZfIKmcSQrKNZiYeThAwaRKDnas-W1vQ7fqSOeXPgdEnOXuBwRGZB4X0a-wOVlYmFXgl)`（目前需求表單與地圖仍需手動匯入，希望召集各路英雄好漢一起完成自動化流程!)`
     * [民間資訊團 Line 社群](
 https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)：拼車、接駁、網路及現場資訊整合
-    * [志工指南](https://sites.google.com/view/disaster-response-real-time/%E8%A1%A8%E5%96%AE%E6%95%B4%E5%90%88%E5%8D%80) `<網頁炸裂中>`
+    * [志工指南](https://sites.google.com/view/guangfu250923) `<網頁改址已修復＿250927 15:47>`
+    *  [志工可能會用到的阿美語](https://portaly.cc/amisitokay/pages/fataan)
+      （ [錄製者的 threads](https://www.threads.com/@amisitokay/post/DPGDvJbEXdD?xmt=AQF0F517M9jvkt-HjjZULENv8PcQu9p7cwMHhb7EFOrhA&slof=1)：若有其他需求可留言敲碗試試看）
 
 
 ### 人力
@@ -87,9 +89,6 @@ https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitati
         黃建桐村長 | 0910-374-519
         鄭敏芳 | 0988-126-74
     * 小草野生工作室 | 林明謙 [私訊](https://www.facebook.com/share/p/1ARbHd7vLg/)
-* [無事先聯繫臨時來幫忙的人](https://www.facebook.com/muhhua/posts/10162020486870745) [target=_blank]
-    * 建議搭火車來，步行可及的有火車站門口 慈濟慈善基金會 [（line群可加入）](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) [target=_blank]
-    * 收容中心大進國小：花蓮縣卓溪鄉新女力公益協會
 
 ### 捐款
 * <a href="https://www.facebook.com/photo?fbid=1347945503367890&set=a.519537112875404" target="_blank">財團法人賑災基金會</a> `(賴清德總統臉書公布，勸募時間 9/25-10/24，與下方衛福部為同一資訊)`
