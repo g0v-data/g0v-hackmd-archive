@@ -145,6 +145,24 @@ https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitati
         * [鳳林分局提供光復市區替代導航路線以避開救災車輛與重災區](https://www.facebook.com/share/p/179M9gPRBK/?mibextid=wwXIfr)
            - [大進街替代導航路線](https://maps.app.goo.gl/B6C2JeH6PCFsFJ8LA)
            - [民治街替代導航路線](https://maps.app.goo.gl/pbbRXjQzzmGaMMyZA)
+
+:::info
+9/27 9:00更新
+
+1 光復車站出站志工 請優先往 
+光復國中、光復國小、光復高職、林森路、敦厚路，需清理 協助搬運
+
+2往阿陶莫 
+請在光復車站出站 優先搭乘軍卡 
+
+3 開車的直接停任意火車站 上區間車  再進光復
+
+4接駁車 路線
+4-1 市區外圍 光中 光小 光復高職 優先
+4-2 市區往糖廠 
+4-3 市區往太巴塱 
+:::
+
 ### 停電停水狀況
 * [停電地圖](https://tainan.olc.tw/p/emic/taipower.html)
 * [停水地圖](https://tainan.olc.tw/p/wateroff/)
