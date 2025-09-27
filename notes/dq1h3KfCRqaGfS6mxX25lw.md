@@ -142,6 +142,9 @@ https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitati
         * 南下>>花蓮南下到鳳林劍英大橋轉進193線到光復
         * 北上>>從台東北上的路線，走台11海線
         　　>>玉長>走193到光復
+        * [鳳林分局提供光復市區替代導航路線以避開救災車輛與重災區](https://www.facebook.com/share/p/179M9gPRBK/?mibextid=wwXIfr)
+           - [大進街替代導航路線](https://maps.app.goo.gl/B6C2JeH6PCFsFJ8LA)
+           - [民治街替代導航路線](https://maps.app.goo.gl/pbbRXjQzzmGaMMyZA)
 ### 停電停水狀況
 * [停電地圖](https://tainan.olc.tw/p/emic/taipower.html)
 * [停水地圖](https://tainan.olc.tw/p/wateroff/)
