@@ -17,7 +17,7 @@ This platform is NOT endorsed NOR maintained by the government officials, **all 
 Contributing content **means that you agree to waive your copyright and release your content to the Public Domain** under *the full extent of the law*.
 :::
 
-* [🏠︎首頁 Homepage](https://g0v.hackmd.io/@yitzu/Fata-an_BarrierLake)
+* [🏠︎首頁 Homepage](https://g0v.hackmd.io/@yitzu/Fata-an_BarrierLake) （短網址：https://bit.ly/g0v_fataan)
  
 ## 📌置頂
 **‼️馬太鞍溪河床已被泥沙填滿，只要稍有雨勢，河水就可能漫流至街道，隨時有可能必須撤退！！**
@@ -143,7 +143,7 @@ https://line.me/ti/g2/gNNwamqenP9lV5jJHFVvIC2SYJOWrPbwJNMLXA)[target=_blank]　
   LINE Pay 主頁>「愛心捐款」平台>「馬太鞍溪堰塞湖災害專案」
         (可選擇已綁定的中國信託商業銀行、台北富邦銀行、聯邦銀行及台新銀行信用卡、簽帳金融卡進行捐款，也可選用LINE POINTS點數支付完成捐款。)
     * **現金**
-7-ELEVEN的ibon、全家便利商店的FamiPort機台、萊爾富的Life-ET、OKmart的OK．go，點選「馬太鞍溪堰塞湖災害專案」。
+7-ELEVEN的ibon、全家便利商店的FamiPort機台、萊爾富的Life-ET、OKmart的OK．go，點選「關懷花蓮光復洪災」或「馬太鞍溪堰塞湖災害專案」。
     * **匯款**：
         民眾若想捐款，賑災專戶捐款戶名為財團法人賑災基金會。銀行名稱為土地銀行長春分行（005）。銀行帳號為102-005-201-966。
 * [財團法人台灣基督長老教會宣教基金會](https://donate.pct.org.tw/Storeservice.aspx?SSID=D2019081901)[target=_blank] `(在備註寫：花蓮光復鄉洪災)`
