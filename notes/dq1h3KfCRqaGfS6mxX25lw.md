@@ -17,19 +17,22 @@ This platform is NOT endorsed NOR maintained by the government officials, **all 
 Contributing content **means that you agree to waive your copyright and release your content to the Public Domain** under *the full extent of the law*.
 :::
 
-* [首頁 Homepage](https://g0v.hackmd.io/@yitzu/Fata-an_BarrierLake)
+* [🏠︎首頁 Homepage](https://g0v.hackmd.io/@yitzu/Fata-an_BarrierLake)
  
 ## 📌置頂
 **‼️馬太鞍溪河床已被泥沙填滿，只要稍有雨勢，河水就可能漫流至街道，隨時有可能必須撤退！！**
 `<堰塞湖危機尚未解除，請隨時保持警覺>`
 1. [📖**花蓮光復鄉-救災物資募集資訊總表** 👉推薦以這個為主](https://reurl.cc/QaqLKZ)[target=_blank]`<多分頁資訊，包含收容所、尋人、志工、各單位等>`
     > 9/27開放共編｜目前編輯人數過多，部分工具可能無法使用。
-2. [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)[target=_blank] --- *光復救災資訊整合-遠端志工群 Discord*
+2. [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)[target=_blank] --- *光復救災資訊整合-[遠端志工群 Discord](https://discord.gg/CzVxptZP)[target=_blank]*
     * 新資訊，請填寫[回報表單](https://forms.gle/2o3bW4DrHmmEGwPJ8)[target=_blank]！`<9/27 18:48 更新>`
-3. [🗺️EMIC災情地圖](https://tainan.olc.tw/p/emic/) --- *江明宗 製作*
-4. [花蓮縣政府最新消息](https://www.hl.gov.tw/ysh/News.aspx?n=41177&sms=28955)[target=_blank] --- *花蓮縣政府*
+3. [【樺加沙】慈濟清掃動員 Line 社群](
+https://line.me/ti/g2/gNNwamqenP9lV5jJHFVvIC2SYJOWrPbwJNMLXA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)[target=_blank]
+    > 人數眾多，請先看筆記本!!
+4. [🗺️EMIC災情地圖](https://tainan.olc.tw/p/emic/) --- *江明宗 製作*
+5. [花蓮縣政府最新消息](https://www.hl.gov.tw/ysh/News.aspx?n=41177&sms=28955)[target=_blank] --- *花蓮縣政府*
     * 內有死亡失聯撤離收容名冊
-5. [🖥️馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)[target=_blank] --- *農業部林業及自然保育署*
+6. [🖥️馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)[target=_blank] --- *農業部林業及自然保育署*
     * 目前災區仍有風險，請注意自身安全
 
 ### 目前還缺？
