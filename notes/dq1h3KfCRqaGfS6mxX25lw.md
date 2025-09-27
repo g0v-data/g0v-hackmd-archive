@@ -54,10 +54,11 @@ Contributing content **means that you agree to waive your copyright and release 
     * [De-Jounge Tseng](https://www.facebook.com/share/p/1Cs9zcNw7o/) ｜ [災後需求地圖](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fviewer%3Fmid%3D1z3Lh3pKucPyjFiq-OVOQeAAJ_Y3viQk%26ll%3D25.0411430697939%252C121.50900250000002%26z%3D13%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExZ2MwaGhPcmw1VDBlYVNCVAEeR_Vyo3zZk33d-8A0nlT7SjnKkVrcNhj66QURdi0sMlKtPTbx6qPA34ljRvA_aem_BgvwCisKDOqy9teU3L5FkQ&h=AT3ldHVoOduKBs34l2TIg2G0pkN8Sj0aMpsFsH78cFMqm2kDN0rwLsWvLOwI0yVxkxPxetp-oeMvP51_1EvETiDbC5rx1gc2NziDwtHsN_oQHpeYOdn_O4hayHt5J2yyGECU5r9qORYovhAlp3Z0SqMlOeipjsZP&__tn__=-UK-R&c[0]=AT2lBtbdtTM8DUDrfImPjHyVIHbu3uq9bdMJVCty4Iu8V2khyykO7FM5_B0XHO0VXYrwzCSuTe3v_oKZWrWIfZfIKmcSQrKNZiYeThAwaRKDnas-W1vQ7fqSOeXPgdEnOXuBwRGZB4X0a-wOVlYmFXgl)`（目前需求表單與地圖仍需手動匯入，希望召集各路英雄好漢一起完成自動化流程!)`
     * [民間資訊團 Line 社群](
 https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)：拼車、接駁、網路及現場資訊整合
-    * [志工指南](https://sites.google.com/view/guangfu250923) `<網頁改址已修復＿250927 15:47>`
-    *  [志工可能會用到的阿美語](https://portaly.cc/amisitokay/pages/fataan)
-      （ [錄製者的 threads](https://www.threads.com/@amisitokay/post/DPGDvJbEXdD?xmt=AQF0F517M9jvkt-HjjZULENv8PcQu9p7cwMHhb7EFOrhA&slof=1)：若有其他需求可留言敲碗試試看）
+    * [志工指南](https://lihi2.me/2foGG) `<網頁改址已修復＿250927 17:00 reviewed>`
 
+* 志工可能會用到的阿美語：
+    * [amisitokay 錄製](https://portaly.cc/amisitokay/pages/fataan)（*[amisitokay 的 threads](https://www.threads.com/@amisitokay/post/DPGDvJbEXdD?xmt=AQF0Drg5eOcpp0G1fF6HdNvjBp1BZRgFAGBPQRWkYwkZbw&slof=1)*）
+    * [langodlin 錄製](https://drive.google.com/drive/folders/1zNkjHPAcuhqOhk_9Y4HGTbh8k6CAI1Hn)（*[langodlin 的 threads](https://www.threads.com/@langodlin/post/DPGRppUEzl7?xmt=AQF0vTj-jTF5GGD_u35xsdbZwbkJLwX00RZPcRzOo1--mQ&slof=1)*）
 
 ### 人力
 **⚠️注意自身安全、自備裝備，切勿造成災區負擔！**
@@ -123,7 +124,7 @@ https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitati
 聯絡人員:曾小姐、電話:0926-290128
 收受地址:花蓮縣光復鄉富田一街16號
 收件人:富田天主堂物資應變小組
-
+* 
 
 ---
 
@@ -237,6 +238,9 @@ https://www.threads.com/@meow_0814/post/DPAw8O0E3Qn?xmt=AQF0ePKaiMadxiXWp6l5bn5h
 ## 💡其他資訊
 * [花蓮馬太鞍溪堰塞湖災害救援懶人包](https://hackmd.io/@DPPinfo/H1jdGQM2eg#0923-%E8%8A%B1%E8%93%AE%E9%A6%AC%E5%A4%AA%E9%9E%8D%E6%BA%AA%E5%A0%B0%E5%A1%9E%E6%B9%96%E7%81%BD%E5%AE%B3%E6%95%91%E6%8F%B4%E6%87%B6%E4%BA%BA%E5%8C%85)`<彙整官方、民進黨資訊>`
 * [🖥️農村水保署_BigGIS圖台](https://gis.ardswc.gov.tw/map/)`<開設馬太鞍堰塞湖專區，除匯入2025/9/25 最新的災後航照影像及Pleiades衛星影像，亦整合地址、地籍圖等資料>`
+* 志工可能會用到的阿美語：
+    * [amisitokay 錄製](https://portaly.cc/amisitokay/pages/fataan)（*[amisitokay 的 threads](https://www.threads.com/@amisitokay/post/DPGDvJbEXdD?xmt=AQF0Drg5eOcpp0G1fF6HdNvjBp1BZRgFAGBPQRWkYwkZbw&slof=1)*）
+    * [langodlin 錄製](https://drive.google.com/drive/folders/1zNkjHPAcuhqOhk_9Y4HGTbh8k6CAI1Hn)（*[langodlin 的 threads](https://www.threads.com/@langodlin/post/DPGRppUEzl7?xmt=AQF0vTj-jTF5GGD_u35xsdbZwbkJLwX00RZPcRzOo1--mQ&slof=1)*）
 
 ---
 ## 📎 社群/媒體報導
@@ -247,6 +251,7 @@ https://www.threads.com/@meow_0814/post/DPAw8O0E3Qn?xmt=AQF0ePKaiMadxiXWp6l5bn5h
 * <a href="https://www.facebook.com/share/v/1CxocKMaJc/">GeoLab空間資訊實驗室/臉書</a>：9/25發文，馬太鞍堰塞湖 災後衛星影像對比動畫
 * <a href="https://www.facebook.com/flippingGEO/posts/pfbid02Qsez7duMc6AWqqgpPA5U1wsfRgD8B1Wc1Rkx3wVy2CdeGvzWd2xth21aSXuKbnArl" target="_blank">翻轉地理教室/臉書</a> ：堰塞湖科普，及台灣堰塞湖資訊
 
+
 ### 媒體報導
 * <a href="https://www.cna.com.tw/news/aipl/202509240263.aspx" target="_blank">中央社報導</a>：劉世芳2週前委託監控馬太鞍溪堰塞湖　李鴻源：若沒做傷亡難想像
 * <a href="https://www.cna.com.tw/news/ahel/202509245005.aspx" target="_blank">中央社報導</a>：馬太鞍溪堰塞湖釀災為何不先施工引流？堰塞湖形成原因與處置方式一文看懂
@@ -254,6 +259,8 @@ https://www.threads.com/@meow_0814/post/DPAw8O0E3Qn?xmt=AQF0ePKaiMadxiXWp6l5bn5h
 * [路透社報導](https://www.reuters.com/business/environment/taiwan-revises-down-super-typhoon-ragasa-death-toll-14-33-missing-2025-09-24/)：Taiwan looks for missing after Super Typhoon Ragasa, questions persist on evacuations
 * [路透社圖像專題報導](https://www.reuters.com/graphics/ASIA-WEATHER/TAIWAN/znvnngwlmvl/)：How heavy rainfall led to a lake bursting in Taiwan
 * [中央社報導](https://www.cna.com.tw/news/aipl/202509250218.aspx)：馬太鞍溪堰塞湖釀災內政部還原通報時序　9/21提供花蓮縣府撤離名單
+* [報導者報導](https://www.twreporter.org/a/mataian-creek-barrier-lake)：災區現場觀察＋地圖套疊還原
+馬太鞍溪堰塞湖溢流潰壩15死：從監測、防災宣導到撤離，如何記取教訓？
 --- 
 
 ## ✏️ 給願意共筆的人
