@@ -34,9 +34,9 @@ Contributing content **means that you agree to waive your copyright and release 
     * 目前災區仍有風險，請注意自身安全
     * ⚠️監視器影片可能不即時
 
-### 目前還缺？
+### 災民需求 X 志工前往
 
-* [缺人清淤](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview?usp=sharing#gid=1543717444)[target=_blank] 9/27 17:00 --- 資訊總表
+* [資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview?usp=sharing#gid=1543717444)[target=_blank] 
 
 ### 馬太鞍天氣預報
 
@@ -49,17 +49,36 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ### 鍵盤支援
 * 資訊統整
-    * [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/e/2PACX-1vSkZXVsa3H3y7RYjMPwWORO7svT7fzbpyMMukqcevZ9OpqA1gtYnS_klQw9mDuSIFgH8nnbtW3c6tms/pubhtml) [target=_blank]
+    * [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?usp=sharing) [target=_blank] --- [擁有者@audery1011](https://www.threads.com/@audery1011)
 （多個分頁，包含各單位資訊，與需求物資、志工及募款更新）
 　👉9/27更新：已開放全面共編
-    * g0v [花蓮馬太鞍溪堰塞湖溢流災情整合平台(這份文件)](https://g0v.hackmd.io/dq1h3KfCRqaGfS6mxX25lw?both)
-    * [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) -- [俞凱倫/臉書](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
-　👉9/27更新：如有新資訊，請填寫 [回報表單](https://forms.gle/2o3bW4DrHmmEGwPJ8)
-    *  [🗺️災後需求地圖](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fviewer%3Fmid%3D1z3Lh3pKucPyjFiq-OVOQeAAJ_Y3viQk%26ll%3D25.0411430697939%252C121.50900250000002%26z%3D13%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExZ2MwaGhPcmw1VDBlYVNCVAEeR_Vyo3zZk33d-8A0nlT7SjnKkVrcNhj66QURdi0sMlKtPTbx6qPA34ljRvA_aem_BgvwCisKDOqy9teU3L5FkQ&h=AT3ldHVoOduKBs34l2TIg2G0pkN8Sj0aMpsFsH78cFMqm2kDN0rwLsWvLOwI0yVxkxPxetp-oeMvP51_1EvETiDbC5rx1gc2NziDwtHsN_oQHpeYOdn_O4hayHt5J2yyGECU5r9qORYovhAlp3Z0SqMlOeipjsZP&__tn__=-UK-R&c[0]=AT2lBtbdtTM8DUDrfImPjHyVIHbu3uq9bdMJVCty4Iu8V2khyykO7FM5_B0XHO0VXYrwzCSuTe3v_oKZWrWIfZfIKmcSQrKNZiYeThAwaRKDnas-W1vQ7fqSOeXPgdEnOXuBwRGZB4X0a-wOVlYmFXgl)[target=_blank] --- [De-Jounge Tseng](https://www.facebook.com/share/p/1Cs9zcNw7o/) `（目前需求表單與地圖仍需手動匯入，希望召集各路英雄好漢一起完成自動化流程!)`
+    * g0v [花蓮馬太鞍溪堰塞湖溢流災情整合平台（這份文件）](https://g0v.hackmd.io/dq1h3KfCRqaGfS6mxX25lw?both)
+　👉可直接共編，點擊網頁上方的🖋開始進行編輯
+    * [光復救災資訊整合網](https://sites.google.com/view/guangfu250923)[target=_blank] 
+
+    * [🆘 Fata’an部落網絡急救小組 (更新較不即時)](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)[target=_blank] `<待搜救、收容名單、民間提供災民住宿清單>` 
+
+* 地圖回報
+    * [花蓮光復救災地圖](https://tainan.olc.tw/p/guangfu250923/)---[江明宗](https://www.facebook.com/share/p/1BcgMUgPyY/)
+👉直接定位並點選地圖「填寫救災資訊表單」，回報
+         * 需要志工
+         * 需要物資
+         * 提供洗澡
+         * 提供住宿
+    * [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) --- [俞凱倫](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
+👉9/27更新：填寫 [表單回報](https://forms.gle/2o3bW4DrHmmEGwPJ8)
+         * 避難所/物資站/災區內志工住宿
+         * 需志工協助區域(自備救援工具)
+         * 交通管制資訊
+         * 醫療站、幼兒物資、心理健康服務
+         * 臨時供水站/洗手間
+         * 返鄉青年&志工住宿
+         * 物資接收轉運站(接受捐贈中)
+         * 急需人手-阿多莫部落
+         * 往返災區-可通行路線
+    *  [🗺️災後需求地圖](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fviewer%3Fmid%3D1z3Lh3pKucPyjFiq-OVOQeAAJ_Y3viQk%26ll%3D25.0411430697939%252C121.50900250000002%26z%3D13%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExZ2MwaGhPcmw1VDBlYVNCVAEeR_Vyo3zZk33d-8A0nlT7SjnKkVrcNhj66QURdi0sMlKtPTbx6qPA34ljRvA_aem_BgvwCisKDOqy9teU3L5FkQ&h=AT3ldHVoOduKBs34l2TIg2G0pkN8Sj0aMpsFsH78cFMqm2kDN0rwLsWvLOwI0yVxkxPxetp-oeMvP51_1EvETiDbC5rx1gc2NziDwtHsN_oQHpeYOdn_O4hayHt5J2yyGECU5r9qORYovhAlp3Z0SqMlOeipjsZP&__tn__=-UK-R&c[0]=AT2lBtbdtTM8DUDrfImPjHyVIHbu3uq9bdMJVCty4Iu8V2khyykO7FM5_B0XHO0VXYrwzCSuTe3v_oKZWrWIfZfIKmcSQrKNZiYeThAwaRKDnas-W1vQ7fqSOeXPgdEnOXuBwRGZB4X0a-wOVlYmFXgl)[target=_blank] --- [De-Jounge Tseng](https://www.facebook.com/share/p/1Cs9zcNw7o/) `［已與花蓮光復救災地圖整合］`
     * [民間資訊團 Line 社群](
 https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)：拼車、接駁、網路及現場資訊整合
-    * [志工指南 https://lihi2.me/2foGG](https://sites.google.com/view/guangfu250923)[target=_blank] `<09/27 17:00 reviewed>`
-    * [🆘 Fata’an部落網絡急救小組 (更新比較不即時)](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)[target=_blank] `<待搜救、收容名單、民間提供災民住宿清單>` 
 
 * 志工可能會用到的阿美語：
     * [amisitokay 錄製](https://portaly.cc/amisitokay/pages/fataan)[target=_blank]（*[amisitokay 的 threads](https://www.threads.com/@amisitokay/post/DPGDvJbEXdD?xmt=AQF0Drg5eOcpp0G1fF6HdNvjBp1BZRgFAGBPQRWkYwkZbw&slof=1)[target=_blank]*）
@@ -73,15 +92,16 @@ https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitati
 * 組織號召
 [資訊總表-加入大型團隊資訊 👉推薦以這個為主](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?gid=174046522#gid=174046522)[target=_blank]
     * [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)[target=_blank]　`（花蓮縣議員楊華美發起的媒合)`
-    * [【樺加沙】慈濟清掃動員 Line 社群](
-https://line.me/ti/g2/gNNwamqenP9lV5jJHFVvIC2SYJOWrPbwJNMLXA)[target=_blank]　｜　[第二群](https://line.me/ti/g2/FHyunbFvM3MK98DkLTEd3KfQea2in4Y5XnjDBA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)[target=_blank]
-        > 人數眾多，請先看筆記本!! 
-    * [慈濟志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform)[target=_blank] --- [慈濟招募清掃志工](https://www.facebook.com/watch?v=1253051549925969) [target=_blank] 
-    *  花蓮縣卓溪鄉新女力公益協會 | [新公告](https://www.facebook.com/share/p/176MQ86gJg/)[target=_blank]直接加入[Line志工群組(9/27 17:06 連結失效!!)](https://line.me/ti/g/e8Jhmc2RrU)[target=_blank] |[志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform)[target=_blank]
-    * [法鼓山清淤志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSdfVDDNyRwhJWMxnj-0YdzKdvhybRLuq3JF_xap4j9sk4yykg/viewform)[target=_blank] --- 法鼓山花蓮精舍
-    * [中華基督教清淤志工填表](https://docs.google.com/forms/d/e/1FAIpQLSd-bWszIOn3YJJUh8dt0f8eRXOf5OPtRIXTz2fSfESnf0fZng/viewform)[target=_blank] --- 中華基督教救助協會
-    *  [志工意願登記表](https://hqt6bch6.r.ap-northeast-1.awstrack.me/L0/https:%2F%2Fforms.gle%2FtsiSNPTFhAhRQXRq9/1/0106019986b8d1d8-b8a4fa45-3392-4aca-892c-75b21ece4a4f-000000/y9xViOz4Nnl8G0FjZEcn3-oCMks=230)[target=_blank] （`這份表單是「第一階段」的意願登記，當地方有具體需求、且時間與任務確定後，黑熊會聯繫名單中的志工，進行下一步的聯繫與工作任務安排。`） --- 黑熊學院
-    *  壯闊台灣-運送物資與災後復原 | [志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform)[target=_blank]
+    * [慈濟志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform)[target=_blank] --- [資訊來源](https://www.facebook.com/watch?v=1253051549925969) [target=_blank] 
+        * [【樺加沙】慈濟清掃動員 Line 社群](
+https://line.me/ti/g2/gNNwamqenP9lV5jJHFVvIC2SYJOWrPbwJNMLXA)[target=_blank]　
+        * [第二群](https://line.me/ti/g2/FHyunbFvM3MK98DkLTEd3KfQea2in4Y5XnjDBA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)[target=_blank]
+           > 人數眾多，請先看筆記本!!
+    *  花蓮縣卓溪鄉新女力公益協會 [新公告](https://www.facebook.com/share/p/176MQ86gJg/)[target=_blank]直接加入[Line志工群組](https://line.me/ti/g/e8Jhmc2RrU)[target=_blank] | [志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform)[target=_blank]
+    * [法鼓山花蓮精舍 清淤志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSdfVDDNyRwhJWMxnj-0YdzKdvhybRLuq3JF_xap4j9sk4yykg/viewform)[target=_blank] 
+    * [中華基督教救助協會 清淤志工填表](https://docs.google.com/forms/d/e/1FAIpQLSd-bWszIOn3YJJUh8dt0f8eRXOf5OPtRIXTz2fSfESnf0fZng/viewform)[target=_blank] 
+    * 10/01-10/10 |  [黑熊學院 災後復原志工意願登記表](https://hqt6bch6.r.ap-northeast-1.awstrack.me/L0/https:%2F%2Fforms.gle%2FtsiSNPTFhAhRQXRq9/1/0106019986b8d1d8-b8a4fa45-3392-4aca-892c-75b21ece4a4f-000000/y9xViOz4Nnl8G0FjZEcn3-oCMks=230)[target=_blank] `（這份表單是「第一階段」的意願登記，當地方有具體需求、會在 Line 群進行下一步的安排）` 
+    *  9/29-9/30 | [壯闊台灣 災後復原志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform)[target=_blank]
 
 * 部落當地 [打掃志工聯絡窗口](https://www.facebook.com/DibusILAI/posts/10161875637406717) [target=_blank]
     * 馬太鞍長老教會
@@ -212,7 +232,7 @@ https://line.me/ti/g2/gNNwamqenP9lV5jJHFVvIC2SYJOWrPbwJNMLXA)[target=_blank]　�
     * [光復國小](https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9430.166344019655!2d121.4244926!3d23.6734363!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3468b2be88558f75%3A0x6164e6824d878780!2z6Iqx6JOu57ij5YWJ5b6p6YSJ5YWJ5b6p5ZyL5rCR5bCP5a24!5e1!3m2!1sen!2stw!4v1758765790523!5m2!1sen!2stw)[target=_blank] --梁家瑋 0930-265-833
     * [大進國小(含兒童關懷服務中心)](https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1207233.8635493675!2d120.2656174!3d23.6547451!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346f4d001fb18b95%3A0xa886690f21cf50b2!2sHualianxianguangfuxiangdajin%20Elementary%20School!5e1!3m2!1sen!2stw!4v1758765816252!5m2!1sen!2stw)[target=_blank] --葛小姐 0976-095-302
 
-* [民間提供住宿清單](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)[target=_blank]
+* [民間提供住宿清單---Fata’an部落整理](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)[target=_blank]
 
 
 
@@ -225,9 +245,6 @@ https://www.threads.com/@meow_0814/post/DPAw8O0E3Qn?xmt=AQF0ePKaiMadxiXWp6l5bn5h
 ## 💡其他資訊
 * [花蓮馬太鞍溪堰塞湖災害救援懶人包](https://hackmd.io/@DPPinfo/H1jdGQM2eg#0923-%E8%8A%B1%E8%93%AE%E9%A6%AC%E5%A4%AA%E9%9E%8D%E6%BA%AA%E5%A0%B0%E5%A1%9E%E6%B9%96%E7%81%BD%E5%AE%B3%E6%95%91%E6%8F%B4%E6%87%B6%E4%BA%BA%E5%8C%85)`<彙整官方、民進黨資訊>`
 * [🖥️農村水保署_BigGIS圖台](https://gis.ardswc.gov.tw/map/)`<開設馬太鞍堰塞湖專區，除匯入2025/9/25 最新的災後航照影像及Pleiades衛星影像，亦整合地址、地籍圖等資料>`
-* 志工可能會用到的阿美語：
-    * [amisitokay 錄製](https://portaly.cc/amisitokay/pages/fataan)（*[amisitokay 的 threads](https://www.threads.com/@amisitokay/post/DPGDvJbEXdD?xmt=AQF0Drg5eOcpp0G1fF6HdNvjBp1BZRgFAGBPQRWkYwkZbw&slof=1)*）
-    * [langodlin 錄製](https://drive.google.com/drive/folders/1zNkjHPAcuhqOhk_9Y4HGTbh8k6CAI1Hn)（*[langodlin 的 threads](https://www.threads.com/@langodlin/post/DPGRppUEzl7?xmt=AQF0vTj-jTF5GGD_u35xsdbZwbkJLwX00RZPcRzOo1--mQ&slof=1)*）
 *  <a href="https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83" target="_blank">中央災害應變中心</a>：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
 
 
