@@ -23,12 +23,12 @@ Contributing content **means that you agree to waive your copyright and release 
 ## 📌置頂<br> 
 **‼️馬太鞍溪河床已被泥沙填滿，只要稍有雨勢，河水就可能漫流至街道，隨時有可能必須撤退！！**`<堰塞湖危機尚未解除，請隨時保持警覺>`
 * [🆘 Fata’an部落網絡急救小組](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing)`<內有收容所、民間提供住宿清單>`
-* [📖花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview?fbclid=IwY2xjawNByERleHRuA2FlbQIxMQABHh0wJCS-PpzMvAYvNlKglqxX8FSqaa0Le9XYVOxC6UqU8Sxj2MOvTBgw-Slb_aem_fCqhdWsyHarZZDaGrdPV1Q&gid=979403745#gid=0)`<多個分頁，包含收容所、尋人、志工、各單位等資訊>`
+* [📖花蓮光復鄉-救災物資募集資訊總表](https://reurl.cc/QaqLKZ)`<多個分頁，包含收容所、尋人、志工、各單位等資訊>`
+　👉9/27更新：已開放全面共編
 * [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)[target=_blank]
-　👉9/27更新：如有新資訊，請填寫回報表單（https://reurl.cc/ZN3RQ3）
- （原：歡迎至討論串留言：[俞凱倫/臉書](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl)
+　👉9/27更新：如有新資訊，請填寫 [回報表單](https://reurl.cc/ZN3RQ3)
 * [🖥️馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)
-
+* [🖥️農村水保署_BigGIS圖台](https://gis.ardswc.gov.tw/map/)`<開設馬太鞍堰塞湖專區，除匯入2025/9/25 最新的災後航照影像及Pleiades衛星影像，亦整合地址、地籍圖等資料>`
 
 
 ---
@@ -45,12 +45,13 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ### 鍵盤支援
 * 民間資訊統整
-    * [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/htmlview) 
+    * [@audery1011](https://www.threads.com/@audery1011/post/DO-g_8DCbIH)｜ [花蓮光復鄉-救災物資募集資訊總表](https://reurl.cc/QaqLKZ) 
 （多個分頁，包含各單位資訊，與需求物資、志工及募款更新）
-👉9/27更新：已開放全面共編（原：願意協助資訊彙整，請聯絡 [@audery1011
-](https://www.threads.com/@audery1011/post/DO-g_8DCbIH) [target=_blank]
+　👉9/27更新：已開放全面共編
     * g0v [花蓮馬太鞍溪堰塞湖溢流災情整合平台](https://g0v.hackmd.io/dq1h3KfCRqaGfS6mxX25lw?both)
-    👉點擊上方左右側的<span style="padding: 1px 1.5px 3px 3.5px; background: white; border-radius: 5px; margin: 0px 4px;"><i class="fa fa-pencil fa-fw"></i></span>開始進行編輯
+　👉點擊上方左右側的<span style="padding: 1px 1.5px 3px 3.5px; background: white; border-radius: 5px; margin: 0px 4px;"><i class="fa fa-pencil fa-fw"></i></span>開始進行編輯
+    * [俞凱倫/臉書](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) ｜ [🗺️救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)[target=_blank]
+　👉9/27更新：如有新資訊，請填寫 [回報表單](https://reurl.cc/ZN3RQ3)
     * [De-Jounge Tseng](https://www.facebook.com/share/p/1Cs9zcNw7o/) ｜ [災後需求地圖](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fviewer%3Fmid%3D1z3Lh3pKucPyjFiq-OVOQeAAJ_Y3viQk%26ll%3D25.0411430697939%252C121.50900250000002%26z%3D13%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExZ2MwaGhPcmw1VDBlYVNCVAEeR_Vyo3zZk33d-8A0nlT7SjnKkVrcNhj66QURdi0sMlKtPTbx6qPA34ljRvA_aem_BgvwCisKDOqy9teU3L5FkQ&h=AT3ldHVoOduKBs34l2TIg2G0pkN8Sj0aMpsFsH78cFMqm2kDN0rwLsWvLOwI0yVxkxPxetp-oeMvP51_1EvETiDbC5rx1gc2NziDwtHsN_oQHpeYOdn_O4hayHt5J2yyGECU5r9qORYovhAlp3Z0SqMlOeipjsZP&__tn__=-UK-R&c[0]=AT2lBtbdtTM8DUDrfImPjHyVIHbu3uq9bdMJVCty4Iu8V2khyykO7FM5_B0XHO0VXYrwzCSuTe3v_oKZWrWIfZfIKmcSQrKNZiYeThAwaRKDnas-W1vQ7fqSOeXPgdEnOXuBwRGZB4X0a-wOVlYmFXgl)`（目前需求表單與地圖仍需手動匯入，希望召集各路英雄好漢一起完成自動化流程!)`
     * [民間資訊團 Line 社群](
 https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)：拼車、接駁、網路及現場資訊整合
