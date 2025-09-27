@@ -5,6 +5,8 @@ image: https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250811/1600x1200_wmkn_1591
 description: 本平台非政府官方所設，所有內容僅供參考，歡迎共筆。
 ---
 
+[災情整合平台連結](https://g0v.hackmd.io/@yitzu/Fata-an_BarrierLake/https%3A%2F%2Fg0v.hackmd.io%2F%40yitzu%2FFata-an_BarrierLake)
+
 # 2025-09-23 <br>花蓮馬太鞍溪堰塞湖溢流-災後清理工作 <br>
 :::info
 1. **盡量避免個人前往**，請與有組織的單位報名，或與當地取得聯繫再行前往。
