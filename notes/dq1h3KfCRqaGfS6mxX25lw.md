@@ -31,7 +31,8 @@ Contributing content **means that you agree to waive your copyright and release 
 
 
 ### 災民需求 X 志工前往 
- ‼️[救災注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️ 
+ ‼️[救災行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️ 
+
 * 🪏 [光復救災資訊整合網](https://sites.google.com/view/guangfu250923)[target=_blank] --- [林于立@g0v後勤中心分享](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/)[target=_blank]
     * 志工行前須知、必備物品、需要協助區域、志工line群等
 * 🪏 [花蓮光復鄉-救災物資募集資訊總表](https://reurl.cc/QaqLKZ)[target=_blank]
@@ -52,7 +53,7 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ### 鍵盤支援
 * 資訊統整
-    *  [💻  g0v 花蓮馬太鞍溪堰塞湖溢流災情整合平台(這份文件)](https://g0v.hackmd.io/dq1h3KfCRqaGfS6mxX25lw?both) --- [加入g0v slack可進行討論](https://g0v-tw.slack.com/join/shared_invite/zt-3bkxxa67k-okdoIWoZkGbX4q~U3C_cNA#/shared-invite/email)[target=_blank]
+    *  [💻  g0v 花蓮馬太鞍溪堰塞湖溢流災情整合平台(本份文件)](https://g0v.hackmd.io/dq1h3KfCRqaGfS6mxX25lw?both) --- [加入g0v slack可進行討論](https://g0v-tw.slack.com/join/shared_invite/zt-3bkxxa67k-okdoIWoZkGbX4q~U3C_cNA#/shared-invite/email)[target=_blank]
 　👉可直接共編，點擊網頁上方的🖋開始進行編輯   
     * [💻 光復救災資訊整合網](https://sites.google.com/view/guangfu250923)[target=_blank] --- [林于立@g0v後勤中心分享](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/)[target=_blank]
     　👉可直接共編，點擊網頁上方的🖋開始進行編輯
@@ -96,8 +97,10 @@ https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitati
 **⚠️請先閱讀支援災後清理工作的 [注意事項](https://g0v.hackmd.io/@yitzu/rkBzt5Qheg)**
 
 
-* 組織號召
-    * [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?gid=174046522#gid=174046522)[target=_blank]`（內有各大型團隊報名資訊 👉可由此開始）`
+* 官方成立與資訊總表
+    *  [行政院中央前進協調所](https://www.facebook.com/moea.gov.tw/posts/pfbid02tZoxmDMCVs8g6vDoBxPXsZ5BCSmvbFbwXrswJhHkKPf7XeFGXxykhMhWgEsLQ5bJl)[target=_blank] `👉未加入其他組織請參考`
+    * [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?gid=174046522#gid=174046522)[target=_blank]`👉內有各大型團隊報名資訊`
+* 各組織資訊
     * [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform)[target=_blank]　`（花蓮縣議員楊華美發起的媒合)`
     * [慈濟志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform)[target=_blank] --- [資訊來源](https://www.facebook.com/watch?v=1253051549925969) [target=_blank] 
         * [【樺加沙】慈濟清掃動員 Line 社群](
