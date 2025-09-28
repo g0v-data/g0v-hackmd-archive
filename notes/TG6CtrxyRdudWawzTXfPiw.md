@@ -54,12 +54,19 @@ Data 資料清點與清理
     - 歡迎跳坑各縣市，請整理於以下 google sheet 「全國分班分校名單」檔案 https://docs.google.com/spreadsheets/d/16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik/edit?gid=1977442313#gid=1977442313
     - 資料用途：
         - 例如 雲林縣口湖鄉縣立文光國小學生總數為 202 人，實際上是由三個地方所加總，文光國小本校校區 + 湖口分校校區 + 過港分校校區，全國就學人口統計數字並沒有提供各分校校區的學生人數
-- 整理專案執行過程中，所使用到的資料集種類，建立資料及目錄與索引
-    - https://docs.google.com/spreadsheets/d/16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik/edit
-    - 註明各種資料集是否開放、資料可用度說明 (是否還需要清理、清理重點) 
 - 歷年已廢校地點
     - 先登載到 Google My Map 
     - 工作文件：https://g0v.hackmd.io/@hackpad-importer/BJ-xeloFsLm
+- 學區
+    - 學區有鄰界，網路上沒查到 鄰界 GIS
+    - 可能要用 門牌 拼湊出來大概的鄰界範圍
+        - https://addressrs.moi.gov.tw/address/index.cfm?city_id=64000
+- 最小統計分區
+    - 基本上還是會跨里界
+    - 可能沒辦法乾淨俐落的把 最小統計分區 Grouping 給學區 (里界、鄰界的邊界組合)
+- 整理專案執行過程中，所使用到的資料集種類，建立資料及目錄與索引
+    - https://docs.google.com/spreadsheets/d/16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik/edit
+    - 註明各種資料集是否開放、資料可用度說明 (是否還需要清理、清理重點) 
 
 Population Projection
 - 教育部製作_各教育階段學生數預測報告 https://g0v.hackmd.io/nrFF3PNXTEWWtH2HxgxeGw?view
