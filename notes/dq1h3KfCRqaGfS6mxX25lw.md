@@ -50,7 +50,7 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ### 馬太鞍天氣預報
 
-* [原鄉部落 - 馬太鞍 | 交通部中央氣象署<br><small>日出時間： 05:45 日落時間：17:46</small>](https://www.cwa.gov.tw/V8/C/L/Tribes/Tribes.html?PID=012-1001507A02)
+* [原鄉部落 - 馬太鞍 | 交通部中央氣象署<br><small>日出時間： 05:45 日落時間：17:45</small>](https://www.cwa.gov.tw/V8/C/L/Tribes/Tribes.html?PID=012-1001507A02)[target=_blank]
   ![](https://g0v.hackmd.io/_uploads/rykJHDBhgl.png)
     * [請注意訂購回程車票](https://www.railway.gov.tw/tra-tip-web/tip/tip001/tip123/query)[target=_blank]
 
@@ -155,6 +155,7 @@ https://line.me/ti/g2/gNNwamqenP9lV5jJHFVvIC2SYJOWrPbwJNMLXA)[target=_blank]　
     * **匯款**：
         民眾若想捐款，賑災專戶捐款戶名為財團法人賑災基金會。銀行名稱為土地銀行長春分行（005）。銀行帳號為102-005-201-966。
 * [財團法人台灣基督長老教會宣教基金會](https://donate.pct.org.tw/Storeservice.aspx?SSID=D2019081901)[target=_blank] `(在備註寫：花蓮光復鄉洪災)`
+* [「Pising彼心書店」支持調查表](https://www.facebook.com/share/19kehepHFs/)[target=_blank]
 
 
 
@@ -295,6 +296,9 @@ https://www.threads.com/@meow_0814/post/DPAw8O0E3Qn?xmt=AQF0ePKaiMadxiXWp6l5bn5h
 * <a href="https://www.facebook.com/share/p/19U97Z5oR7/">海洋主廚 愛爾文/臉書</a>：9/24發文，光復現況圖說
 * <a href="https://www.facebook.com/share/v/1CxocKMaJc/">GeoLab空間資訊實驗室/臉書</a>：9/25發文，馬太鞍堰塞湖 災後衛星影像對比動畫
 * <a href="https://www.facebook.com/flippingGEO/posts/pfbid02Qsez7duMc6AWqqgpPA5U1wsfRgD8B1Wc1Rkx3wVy2CdeGvzWd2xth21aSXuKbnArl" target="_blank">翻轉地理教室/臉書</a> ：堰塞湖科普，及台灣堰塞湖資訊
+* 地區環境變遷歷程梳理：[1898 年、1924 年、1962 年馬太鞍沖積扇環境地貌回顧](https://www.facebook.com/theericel/posts/pfbid03eeDnZdRetjpfzDWJ9h4qNsDPEqZ4yPPLrv3rX6B55Ni5jmNCBzi2dfvGcQwioDNl)
+* [司法救濟倡議](https://www.facebook.com/kjtsay/posts/pfbid02kRodiX2MvWdKQhL4TYfKKgGgHNDqdf8PVgU5kASDSepjNLCC7oXbbNCnxUBmzN6Pl)
+
 
 
 ### 媒體報導
@@ -306,6 +310,8 @@ https://www.threads.com/@meow_0814/post/DPAw8O0E3Qn?xmt=AQF0ePKaiMadxiXWp6l5bn5h
 * [中央社報導](https://www.cna.com.tw/news/aipl/202509250218.aspx)：馬太鞍溪堰塞湖釀災內政部還原通報時序　9/21提供花蓮縣府撤離名單
 * [報導者報導](https://www.twreporter.org/a/mataian-creek-barrier-lake)：災區現場觀察＋地圖套疊還原
 馬太鞍溪堰塞湖溢流潰壩15死：從監測、防災宣導到撤離，如何記取教訓？
+
+
 --- 
 
 ## ✏️ 給願意共筆的人

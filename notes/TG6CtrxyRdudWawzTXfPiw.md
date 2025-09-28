@@ -19,7 +19,6 @@ https://github.com/g0v/small_school_renaissance
 - 個案探討地圖 https://maps.app.goo.gl/zrZRjUGzmKQhwhee7
 
 ![](https://g0v.hackmd.io/_uploads/rJfCS-OVlxx.jpg)
-![](https://g0v.hackmd.io/_uploads/SyW0rbuVelx.jpg)
 
 
 聯繫我們：
@@ -38,7 +37,8 @@ https://photos.app.goo.gl/AAG1nM1Wc5PKGcsp9
 [toc]
 :::
 
-跳坑：明錡, chewei, yellowsoar, Tiff, 小夏, Tmonk, 蔡阿薛Eden 
+跳坑：明錡, chewei, yellowsoar, Tiff, 小夏, Tmonk, 蔡阿薛Eden,
+總統盃黑客松成員：chewei, yellowsoar, 簡老師, 守傑, Klye, Ronny, 郭博勝, 
 
 專案介紹影片：https://youtu.be/6UyYrYeWFks
 
@@ -174,35 +174,28 @@ Connect 累積行動團體網絡名單
 - 地方創生
 - ...等
 
-
-
-
-
 ### 縣市教育治理政策情境
 
 :::info
-跳坑：
+跳坑：chewei, 
 :::
 
 #### 高雄市
-
-chewei, 
+- 2025 總統盃黑客松，有開展與 高雄市教育局的交流合作
 
 #### 南投縣
-
-:::info
-跳坑：
-:::
-
-- 123
+- 預計於 10 月底，chewei 聯繫 張力亞老師
+    - https://www.facebook.com/share/p/1FizvRtwo7/
 
 #### 臺南市
+- 預計於 10 月底，chewei 聯繫 台南新芽
 
-:::info
-跳坑：
-:::
 
-- 123
+#### 嘉義縣
+
+
+#### 雲林縣
+
 
 
 ---
