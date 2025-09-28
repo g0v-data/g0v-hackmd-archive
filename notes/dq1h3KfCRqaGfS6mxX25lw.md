@@ -267,7 +267,7 @@ https://www.threads.com/@meow_0814/post/DPAw8O0E3Qn?xmt=AQF0ePKaiMadxiXWp6l5bn5h
 * [馬太鞍溪堰塞湖監測紀實](https://storymaps.arcgis.com/stories/5864cf7ed3b54f83a5247f3f9b39bec2)  [target=_blank] ：內有「應變作為時間軸」 -- 東華大學NDHU強韌防災團隊
 * [農業部林業及自然保育署](https://www.forest.gov.tw/ForestNews?q=%e9%a6%ac%e5%a4%aa%e9%9e%8d&ca2=2025-07-01) [target=_blank] ：馬太鞍溪堰塞湖近期應變資訊（顯示 2025.7 起資訊）
 * [NCDR WATCH](https://watch.ncdr.nat.gov.tw/watch_barrier_map_v2)[target=_blank]
-*[物理治療師ZM](https://www.threads.com/@zm_health_fitness/post/DPGjRv6EsLB?xmt=AQF0mtw4TncghOPHrQh_bLaiCTuvZP1-_aalZ6ADrM34wA&slof=1):如何使用圓鍬更順手
+* [物理治療師ZM](https://www.threads.com/@zm_health_fitness/post/DPGjRv6EsLB?xmt=AQF0mtw4TncghOPHrQh_bLaiCTuvZP1-_aalZ6ADrM34wA&slof=1):如何使用圓鍬更順手
 
 ---
 ## 📎 社群/媒體報導
