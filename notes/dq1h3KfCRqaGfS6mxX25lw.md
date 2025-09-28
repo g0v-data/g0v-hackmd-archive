@@ -25,6 +25,7 @@ Contributing content **means that you agree to waive your copyright and release 
 
 **‼️馬太鞍溪河床已被泥沙填滿，只要稍有雨勢，河水就可能漫流至街道，隨時有可能必須撤退！！**
 `<堰塞湖危機尚未解除，請隨時保持警覺>`
+* 無語音警報臺海嘯警報音符為鳴5秒，停5秒，反覆9遍(共85秒)，解除警報音符為一長聲90 秒。 --- [來源，自由時報轉中央災害應變中心](https://news.ltn.com.tw/news/life/breakingnews/5193607?utm_source=yahoonews&utm_medium=referral&utm_campaign=yahoonews_original)[target=_blank]
 ![](https://g0v.hackmd.io/_uploads/Hy0cTrL3eg.png)
 
 * ℹ️ [花蓮縣政府最新消息<br><small>--- *花蓮縣政府*</small>](https://www.hl.gov.tw/ysh/News.aspx?n=41177&sms=28955)[target=_blank]
