@@ -197,7 +197,16 @@ https://line.me/ti/g2/gNNwamqenP9lV5jJHFVvIC2SYJOWrPbwJNMLXA)[target=_blank]　
 
 ### 救助金、慰問金
 
+#### 行政院
+* [行政院旅宿安置補助](https://www.facebook.com/share/p/1Cg2mZZdXR/)[target=_blank] 
+    * 對象：花蓮公設及原住民處列冊收容所收容之災民。
+    * 每人每日最高補助 2,000 元，預計補助 7 天，最多可再延長7天。
+    * 住宿期限至 114年10月底前。
+    * 住宿電話：0975-275-130（旅館公會窗口）
+    * 補助詢問：衛福部 1957 專線
+
 #### 保險公司
+* 正在遷移至主頁面：[2025-09-23 花蓮馬太鞍溪堰塞湖溢流災情相關保險公司理賠暨慰問金資訊](https://g0v.hackmd.io/@alllen/BJ-A9TGL3ge)
 * [南山人壽慰問金](https://www.facebook.com/xu.shi.an.342099/posts/25009353401990111) [target=_blank]
     * 保戶：
         * 不幸身故保戶每人10萬元
@@ -234,11 +243,18 @@ https://line.me/ti/g2/gNNwamqenP9lV5jJHFVvIC2SYJOWrPbwJNMLXA)[target=_blank]　
             * 如果有行動不變的長輩，也可以與楊曉君 0919-230-356 連絡協助處理。
     * 大全村活動中心 [G🗺️](https://maps.app.goo.gl/sCHYTaFwLmP91b289)[target=_blank] ｜ 9/24～9/30 09:30-16:00 --- [花蓮縣衛生局](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559)[target=_blank]
     * 虎爺溫泉渡假莊園 [G🗺️](https://maps.app.goo.gl/cnZRHDiRAzgWrniW9)[target=_blank] ｜ 9/27～9/30 10:00-12:00 --- [花蓮縣衛生局](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559)[target=_blank]
-* [衛福部應變措施與資源](https://www.facebook.com/mohw.gov.tw/posts/pfbid0oc3LoTxpKGaEAUGtQTzaidp9mJtSCBRK2vK7PeZDFxaCQy6pUJuptJqALcfJAFoQl) [target=_blank]：洗腎、孕婦、急救、安置、社工、防疫等資源
+* 臨時醫療站
+    * 光復糖廠救護站 [G🗺️](https://maps.app.goo.gl/MQ1r5VSYkt7wL61E6)[target=_blank] 08:00~21:00 --- [國軍花蓮總醫院](https://www.facebook.com/share/p/19dyAPjTtY/)
+    * 光復車站救護站 [G🗺️](https://maps.app.goo.gl/nXRC57UYXFLqDAe79)[target=_blank]  全天候診 --- [國軍花蓮總醫院](https://www.facebook.com/share/p/19dyAPjTtY/)
+    * 鳳林國小救護站 [G🗺️](https://maps.app.goo.gl/qDqqCNsCM5VtgHeu6)[target=_blank]  08:00~21:00 --- [國軍花蓮總醫院](https://www.facebook.com/share/p/19dyAPjTtY/)
+    * 瑞穗國中救護站 [G🗺️](https://maps.app.goo.gl/R9YeFuDCzUGcgmqD6)[target=_blank]  08:00~21:00 --- [國軍花蓮總醫院](https://www.facebook.com/share/p/19dyAPjTtY/)
+* [衛福部應變措施與資源] (https://www.facebook.com/mohw.gov.tw/posts/pfbid0oc3LoTxpKGaEAUGtQTzaidp9mJtSCBRK2vK7PeZDFxaCQy6pUJuptJqALcfJAFoQl) [target=_blank]：洗腎、孕婦、急救、安置、社工、防疫等資源
 * 災害藥品諮詢專線：03-8224750 (花蓮縣衛生局)  --- [花蓮縣衛生局](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559)[target=_blank]
 * 安心關懷站：花蓮縣心理師在大進國小 [G🗺️](https://share.google/0HSnvEhEqSYyH7ZPI)[target=_blank] 駐點，提供心理諮商協助。 --- [款款心理師/Samuelson](https://www.threads.com/@psychologistsamuelson/post/DPGMsDrD3S3?xmt=AQF0aPH40ihZGlHP2zwJZmkWfWQvf7r82CXP0G3I5_k8XA&slof=1)
 
 ### 安置空間 
+* [行政院旅宿安置機制](https://www.facebook.com/share/p/1Cg2mZZdXR/)[target=_blank] --住宿電話：0975-275-130（旅館公會窗口）
+    * 每人每日最高補助 2,000 元，預計補助 7 天，最多可再延長7天。(補助詢問：衛福部 1957 專線)
 * 避難所&聯絡窗口
     * [馬太鞍長老教會](https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4715.011743749367!2d121.42632689999999!3d23.675416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3468b2be480ac817%3A0x2c3f4075af85c9ef!2sFata&#39;an%20Presbyterian%20Church!5e1!3m2!1sen!2stw!4v1758765694172!5m2!1sen!2stw)[target=_blank] --蔡智輝代表 0919-965-120
     * [糖廠管理員室後面的親子館](https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4715.606875756216!2d121.4215679!3d23.658916599999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3468b2caef8bc4a5%3A0xe9c258d991de281f!2sHualien%20Sugar%20Museum!5e1!3m2!1sen!2stw!4v1758765762879!5m2!1sen!2stw)[target=_blank] --曾秀琴  0955-514994
