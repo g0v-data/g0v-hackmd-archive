@@ -25,7 +25,8 @@ Contributing content **means that you agree to waive your copyright and release 
 
 **‼️馬太鞍溪河床已被泥沙填滿，只要稍有雨勢，河水就可能漫流至街道，隨時有可能必須撤退！！**
 `<堰塞湖危機尚未解除，請隨時保持警覺>`
-* 無語音警報臺海嘯警報音符為鳴5秒，停5秒，反覆9遍(共85秒)，解除警報音符為一長聲90 秒。 --- [來源，自由時報轉中央災害應變中心](https://news.ltn.com.tw/news/life/breakingnews/5193607?utm_source=yahoonews&utm_medium=referral&utm_campaign=yahoonews_original)[target=_blank]
+* 現場暫以**海嘯警報**，即時提醒居民與志工。
+* 海嘯警報音符為鳴5秒，停5秒，反覆9遍(共85秒)，解除警報音符為一長聲90 秒。 --- [來源，內政部](https://www.facebook.com/share/p/17WbrLqRzE/)[target=_blank]
 ![](https://g0v.hackmd.io/_uploads/Hy0cTrL3eg.png)
 
 * ℹ️ [花蓮縣政府馬太鞍專區<br><small>--- *花蓮縣政府*</small>](https://www.hl.gov.tw/ysh/)[target=_blank]
@@ -57,7 +58,6 @@ Contributing content **means that you agree to waive your copyright and release 
 ## 💪 給能幫忙的人💪 For Those Who Can Provide Assistance
 
 ### 鍵盤支援
-
 * 資訊統整
     *  [💻  g0v 花蓮馬太鞍溪堰塞湖溢流災情整合平台(本份文件)](https://g0v.hackmd.io/dq1h3KfCRqaGfS6mxX25lw?both) --- [加入g0v slack可進行討論](https://g0v-tw.slack.com/join/shared_invite/zt-3bkxxa67k-okdoIWoZkGbX4q~U3C_cNA#/shared-invite/email)[target=_blank]
 　👉可直接共編，點擊網頁上方的🖋開始進行編輯   
@@ -102,7 +102,7 @@ https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA?utm_source=invitati
 **⚠️注意自身安全、自備裝備，切勿造成災區負擔！**
 **⚠️請先閱讀支援災後清理工作的 [注意事項](https://g0v.hackmd.io/@yitzu/rkBzt5Qheg)**
 
-
+* [接駁車資訊](https://docs.google.com/spreadsheets/d/1YAKX2_FK4yWojReU6kwI16tVAEyJ0BxU/edit?gid=1603419519#gid=1603419519) -- 交通部
 * 官方成立與資訊總表
     *  [行政院中央前進協調所](https://www.facebook.com/moea.gov.tw/posts/pfbid02tZoxmDMCVs8g6vDoBxPXsZ5BCSmvbFbwXrswJhHkKPf7XeFGXxykhMhWgEsLQ5bJl)[target=_blank] `👉未加入其他組織請參考`
     * [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?gid=174046522#gid=174046522)[target=_blank]`👉內有各大型團隊報名資訊`
