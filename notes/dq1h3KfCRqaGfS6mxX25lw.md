@@ -28,7 +28,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * 無語音警報臺海嘯警報音符為鳴5秒，停5秒，反覆9遍(共85秒)，解除警報音符為一長聲90 秒。 --- [來源，自由時報轉中央災害應變中心](https://news.ltn.com.tw/news/life/breakingnews/5193607?utm_source=yahoonews&utm_medium=referral&utm_campaign=yahoonews_original)[target=_blank]
 ![](https://g0v.hackmd.io/_uploads/Hy0cTrL3eg.png)
 
-* ℹ️ [花蓮縣政府最新消息<br><small>--- *花蓮縣政府*</small>](https://www.hl.gov.tw/ysh/News.aspx?n=41177&sms=28955)[target=_blank]
+* ℹ️ [花蓮縣政府馬太鞍專區<br><small>--- *花蓮縣政府*</small>](https://www.hl.gov.tw/ysh/)[target=_blank]
     * 內有死亡失聯撤離收容名冊以及**交通管制公告**等
 * ℹ️ [EMIC災情地圖<br><small> --- *江明宗 製作*</small>](https://tainan.olc.tw/p/emic/)
 
@@ -296,7 +296,7 @@ https://www.threads.com/@meow_0814/post/DPAw8O0E3Qn?xmt=AQF0ePKaiMadxiXWp6l5bn5h
 * <a href="https://www.facebook.com/share/p/19U97Z5oR7/">海洋主廚 愛爾文/臉書</a>：9/24發文，光復現況圖說
 * <a href="https://www.facebook.com/share/v/1CxocKMaJc/">GeoLab空間資訊實驗室/臉書</a>：9/25發文，馬太鞍堰塞湖 災後衛星影像對比動畫
 * <a href="https://www.facebook.com/flippingGEO/posts/pfbid02Qsez7duMc6AWqqgpPA5U1wsfRgD8B1Wc1Rkx3wVy2CdeGvzWd2xth21aSXuKbnArl" target="_blank">翻轉地理教室/臉書</a> ：堰塞湖科普，及台灣堰塞湖資訊
-* 地區環境變遷歷程梳理：[1898 年、1924 年、1962 年馬太鞍沖積扇環境地貌回顧](https://www.facebook.com/theericel/posts/pfbid03eeDnZdRetjpfzDWJ9h4qNsDPEqZ4yPPLrv3rX6B55Ni5jmNCBzi2dfvGcQwioDNl)
+* 地區環境變遷歷程梳理：[1898 年、1924 年、1962 年馬太鞍沖積扇環境地貌回顧](https://www.facebook.com/theericel/posts/pfbid03eeDnZdRetjpfzDWJ9h4qNsDPEqZ4yPPLrv3rX6B55Ni5jmNCBzi2dfvGcQwioDNl)、[舊河道指認](https://www.facebook.com/snowram/posts/pfbid021J24zZv6zTGnZzL4rhNRPKemhf3igzc9GdGJSEue2eLvyqSwAqXocMRaCXsyuLCVl)
 * [司法救濟倡議](https://www.facebook.com/kjtsay/posts/pfbid02kRodiX2MvWdKQhL4TYfKKgGgHNDqdf8PVgU5kASDSepjNLCC7oXbbNCnxUBmzN6Pl)
 
 

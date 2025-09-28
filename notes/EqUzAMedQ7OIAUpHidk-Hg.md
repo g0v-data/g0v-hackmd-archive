@@ -209,6 +209,8 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
     - 臺灣氾濫平原地形變遷資料庫之建置，已完成臺灣堡圖、臺灣地形圖（東部陸測部地形圖、高屏昭和修測版臺灣地形圖）與政府公開資料之水利署河道圖層、內政部地政司公開LiDAR DEM 進行整合。歷史圖資數化成果包括主要流路（面符號）、次要流路（面符號）、地形崖（線符號）與堤防（線符號）。已建置完成的河流包括全數26 條中央管河川之主、支流；91 條縣市管河川中北部、西部之25 條；以及歷史圖資上西南海岸之水體（如魚塭）範圍。
 - 從歷史航照與地圖追尋台灣河流身世 
     - https://www.facebook.com/101NAPCU/videos/458284418240039/
+- 以「馬太鞍溪」近百年的變遷來看，近代在沖積扇進行束水築堤，支流舊河道市區化，可能也並非其「健康、理想」的河川樣貌？2025 年發生上游堰塞湖溢流，導致下游支流舊河道湧入溢流泥水
+    - https://www.facebook.com/theericel/posts/pfbid03eeDnZdRetjpfzDWJ9h4qNsDPEqZ4yPPLrv3rX6B55Ni5jmNCBzi2dfvGcQwioDNl
 
 地質與水文
 - https://www.facebook.com/339919013202175/posts/345145029346240/
