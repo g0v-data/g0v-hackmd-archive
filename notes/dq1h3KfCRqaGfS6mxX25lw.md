@@ -17,31 +17,35 @@ This platform is NOT endorsed NOR maintained by the government officials, **all 
 Contributing content **means that you agree to waive your copyright and release your content to the Public Domain** under *the full extent of the law*.
 :::
 
-* [🏠︎首頁 Homepage](https://g0v.hackmd.io/@yitzu/Fata-an_BarrierLake) （短網址：https://bit.ly/g0v_fataan)
+* [🏠︎首頁 Homepage](https://g0v.hackmd.io/@yitzu/Fata-an_BarrierLake)  
+  <small>（短網址：https://bit.ly/g0v_fataan)</small>
 * [🔗跨網站對接平台](https://beta.hackfoldr.org/hualien) [target=_blank]
  
 ## 📌置頂
+
 **‼️馬太鞍溪河床已被泥沙填滿，只要稍有雨勢，河水就可能漫流至街道，隨時有可能必須撤退！！**
 `<堰塞湖危機尚未解除，請隨時保持警覺>`
-*  ℹ️ [馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)[target=_blank] --- *農業部林業及自然保育署*
-    * 目前災區仍有風險，請注意自身安全
-    * ⚠️監視器影片可能不即時
-* ℹ️ [花蓮縣政府最新消息](https://www.hl.gov.tw/ysh/News.aspx?n=41177&sms=28955)[target=_blank] --- *花蓮縣政府*
+![](https://g0v.hackmd.io/_uploads/Hy0cTrL3eg.png)
+
+* ℹ️ [花蓮縣政府最新消息<br><small>--- *花蓮縣政府*</small>](https://www.hl.gov.tw/ysh/News.aspx?n=41177&sms=28955)[target=_blank]
     * 內有死亡失聯撤離收容名冊以及**交通管制公告**等
-* ℹ️ [EMIC災情地圖](https://tainan.olc.tw/p/emic/) --- *江明宗 製作*
+* ℹ️ [EMIC災情地圖<br><small> --- *江明宗 製作*</small>](https://tainan.olc.tw/p/emic/)
 
 
 ### 災民需求 X 志工前往 
  ‼️[救災行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️ 
 
-* 🪏 [光復救災資訊整合網](https://sites.google.com/view/guangfu250923)[target=_blank] --- [林于立@g0v後勤中心分享](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/)[target=_blank]
+* [🪏 光復救災資訊整合網<br><small> --- 林于立@g0v後勤中心分享</small>](https://sites.google.com/view/guangfu250923)[target=_blank]
+    * [Facebook 社團貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/)
     * 志工行前須知、必備物品、需要協助區域、志工line群等
-* 🪏 [花蓮光復鄉-救災物資募集資訊總表](https://reurl.cc/QaqLKZ)[target=_blank] --- [audery1011發起編輯](https://www.threads.com/@audery1011)[target=_blank]
+* [🪏 花蓮光復鄉-救災物資募集資訊總表<br><small> --- audery1011發起編輯</small>](https://reurl.cc/QaqLKZ)[target=_blank]
+    * [作者 Threads 頁面](https://www.threads.com/@audery1011)[target=_blank]
     * 多分頁資訊，包含收容所、尋人、志工、各單位等
     * 9/27開放共編｜目前編輯人數過多，部分工具可能無法使用。
-* 🪏 [救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)[target=_blank] ---  [俞凱倫](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
-    *  光復救災資訊整合-[遠端志工群 Discord](https://discord.gg/CzVxptZP)[target=_blank]
-    * 新資訊，請填寫[回報表單](https://forms.gle/2o3bW4DrHmmEGwPJ8)[target=_blank]！`<9/27 18:48 更新>`
+* [🪏 救災資源整合地圖<br><small> ---  俞凱倫</small>](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)[target=_blank]
+    * [作者 Facebook 貼文](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
+    * [光復救災資訊整合-遠端志工群 Discord](https://discord.gg/CzVxptZP)[target=_blank]
+    * [新資訊請填寫回報表單！](https://forms.gle/2o3bW4DrHmmEGwPJ8)[target=_blank]
 
 ### 馬太鞍天氣預報
 
@@ -167,6 +171,9 @@ https://line.me/ti/g2/gNNwamqenP9lV5jJHFVvIC2SYJOWrPbwJNMLXA)[target=_blank]　
 
 ## 📢 狀況回報
 
+*  ℹ️ [馬太鞍溪堰塞湖及時監測面板<br><small> --- *農業部林業及自然保育署*</small>](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake)[target=_blank]
+    * 目前災區仍有風險，請注意自身安全
+    * ⚠️監視器影片可能不即時
  
 ### 交通狀況 
 **🚨非救災需求，請立即離開光復鄉！**
