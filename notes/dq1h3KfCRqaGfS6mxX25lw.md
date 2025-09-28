@@ -18,6 +18,7 @@ Contributing content **means that you agree to waive your copyright and release 
 :::
 
 * [🏠︎首頁 Homepage](https://g0v.hackmd.io/@yitzu/Fata-an_BarrierLake) （短網址：https://bit.ly/g0v_fataan)
+* [🔗跨網站對接平台](https://beta.hackfoldr.org/hualien) [target=_blank]
  
 ## 📌置頂
 **‼️馬太鞍溪河床已被泥沙填滿，只要稍有雨勢，河水就可能漫流至街道，隨時有可能必須撤退！！**
@@ -35,7 +36,7 @@ Contributing content **means that you agree to waive your copyright and release 
 
 * 🪏 [光復救災資訊整合網](https://sites.google.com/view/guangfu250923)[target=_blank] --- [林于立@g0v後勤中心分享](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/)[target=_blank]
     * 志工行前須知、必備物品、需要協助區域、志工line群等
-* 🪏 [花蓮光復鄉-救災物資募集資訊總表](https://reurl.cc/QaqLKZ)[target=_blank]
+* 🪏 [花蓮光復鄉-救災物資募集資訊總表](https://reurl.cc/QaqLKZ)[target=_blank] --- [audery1011發起編輯](https://www.threads.com/@audery1011)[target=_blank]
     * 多分頁資訊，包含收容所、尋人、志工、各單位等
     * 9/27開放共編｜目前編輯人數過多，部分工具可能無法使用。
 * 🪏 [救災資源整合地圖](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)[target=_blank] ---  [俞凱倫](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
@@ -57,7 +58,7 @@ Contributing content **means that you agree to waive your copyright and release 
 　👉可直接共編，點擊網頁上方的🖋開始進行編輯   
     * [💻 光復救災資訊整合網](https://sites.google.com/view/guangfu250923)[target=_blank] --- [林于立@g0v後勤中心分享](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/)[target=_blank]
     　👉可直接共編，點擊網頁上方的🖋開始進行編輯
-     * [💻 花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?usp=sharing)[target=_blank] --- [擁有者@audery1011](https://www.threads.com/@audery1011)
+     * [💻 花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?usp=sharing)[target=_blank] --- [audery1011發起編輯](https://www.threads.com/@audery1011)[target=_blank]
 （多個分頁，包含各單位資訊，與需求物資、志工及募款更新）
 　👉9/27更新：已開放全面共編
     * [💻 民間資訊團 Line 社群](
