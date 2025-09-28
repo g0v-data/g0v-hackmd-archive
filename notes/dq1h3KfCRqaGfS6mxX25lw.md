@@ -45,18 +45,18 @@ Contributing content **means that you agree to waive your copyright and release 
 * [🪏 救災資源整合地圖<br><small> ---  俞凱倫</small>](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)[target=_blank]
     * [作者 Facebook 貼文](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
     * [光復救災資訊整合-遠端志工群 Discord](https://discord.gg/CzVxptZP)[target=_blank]
-    * [新資訊請填寫回報表單！](https://forms.gle/2o3bW4DrHmmEGwPJ8)[target=_blank]
+    * [新資訊請填寫回報表單！<br>`<9/27 18:48 更新>`](https://forms.gle/2o3bW4DrHmmEGwPJ8)[target=_blank]
 
 ### 馬太鞍天氣預報
 
-* https://www.cwa.gov.tw/V8/C/L/Tribes/Tribes.html?PID=012-1001507A02
-![](https://g0v.hackmd.io/_uploads/rykJHDBhgl.png)
-* 日出時間： 05:45 日落時間：17:46
-    * 請注意回程車票[訂購](https://www.railway.gov.tw/tra-tip-web/tip/tip001/tip123/query)[target=_blank]
---- 
+* [原鄉部落 - 馬太鞍 | 交通部中央氣象署<br><small>日出時間： 05:45 日落時間：17:46</small>](https://www.cwa.gov.tw/V8/C/L/Tribes/Tribes.html?PID=012-1001507A02)
+  ![](https://g0v.hackmd.io/_uploads/rykJHDBhgl.png)
+    * [請注意訂購回程車票](https://www.railway.gov.tw/tra-tip-web/tip/tip001/tip123/query)[target=_blank]
+
 ## 💪 給能幫忙的人💪 For Those Who Can Provide Assistance
 
 ### 鍵盤支援
+
 * 資訊統整
     *  [💻  g0v 花蓮馬太鞍溪堰塞湖溢流災情整合平台(本份文件)](https://g0v.hackmd.io/dq1h3KfCRqaGfS6mxX25lw?both) --- [加入g0v slack可進行討論](https://g0v-tw.slack.com/join/shared_invite/zt-3bkxxa67k-okdoIWoZkGbX4q~U3C_cNA#/shared-invite/email)[target=_blank]
 　👉可直接共編，點擊網頁上方的🖋開始進行編輯   
