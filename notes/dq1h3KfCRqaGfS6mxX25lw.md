@@ -38,7 +38,7 @@ Contributing content **means that you agree to waive your copyright and release 
 *  [🪏 光復救災資訊整合網<br><small> --- 林于立@g0v後勤中心分享</small>](https://sites.google.com/view/guangfu250923) [target=_blank]
     * [Facebook 社團貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/) [target=_blank]
     * 志工行前須知、必備物品、需要協助區域、志工line群等
-* [🪏 花蓮光復鄉-救災志工/物資募集資訊總表<br><small> --- audery1011發起編輯</small>](https://reurl.cc/QaqLKZ) [target=_blank]
+* [🪏 花蓮光復鄉-救災志工/物資募集資訊總表 (09/29 23:46 無法存取) <br><small> --- audery1011</small>](https://reurl.cc/QaqLKZ) [target=_blank]
     * [發起人 Threads 頁面](https://www.threads.com/@audery1011) [target=_blank]
     * 多分頁資訊，包含收容所、尋人、志工、各單位等
     * 9/27開放共編｜目前編輯人數過多，部分工具可能無法使用。
