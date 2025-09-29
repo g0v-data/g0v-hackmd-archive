@@ -109,6 +109,8 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 照片 建國啤酒廠 https://www.facebook.com/share/rooSpYXJMWnnLBf8/
     - 重要 1948 大安橋 https://www.facebook.com/share/p/UX1KRHgiGQinhk3x/
     - 重要照片 新莊 可看出農村農田實際景象 https://www.facebook.com/story.php?story_fbid=1923299404469840&id=100064365595004
+    - 三軍育幼院成立於民國43年，由蔣方良創辦，位於現在金華國中旁的的新生國小現址，原來屬聯勤，後配合台北市都市計劃，遷南港，更名為財團法人國光慈善基金會附設私立三軍幼兒園。https://www.facebook.com/share/p/1A69QrWBBu/?mibextid=wwXIfr
+    - 照片 八德路新生北路口 https://www.facebook.com/share/p/196oTUH2om/?mibextid=wwXIfr
     - 1959 復旦橋，敦化南北路與鐵路
         - https://www.facebook.com/share/p/ccUvBFhRaRHkJ3sq/
         - https://www.facebook.com/DigiSideEff/posts/pfbid08GY8QU7faTuxRf993LXTz4ybxRE7L8DozbRDXvS2z7BNCE3VcCxFWnF1h7CCKMgel
