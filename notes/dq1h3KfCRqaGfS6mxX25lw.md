@@ -30,6 +30,7 @@ Contributing content **means that you agree to waive your copyright and release 
   ![](https://g0v.hackmd.io/_uploads/Hy0cTrL3eg.png =x300)
 * [ℹ️ 花蓮縣政府馬太鞍專區<br><small>--- *花蓮縣政府*</small>](https://www.hl.gov.tw/ysh/) [target=_blank]
     * 內有死亡失聯撤離收容名冊以及**交通管制公告**等
+    * [花蓮縣政府臉書粉絲團](https://www.facebook.com/hlgov)[target=_blank]
 * [ℹ️ EMIC災情地圖<br><small> --- *江明宗 製作*</small>](https://tainan.olc.tw/p/emic/)
 
 ## 災民需求 X 志工前往（‼️[救災行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️ ）
@@ -79,6 +80,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * [🗺️ 花蓮光復 災區內 詳細攻略地圖<br><small> --- @ida.kuo</small>](https://www.google.com/maps/d/u/1/viewer?hl=zh-TW&mid=1rH9sGuSh-Oqzcrtj7wgaenDWDOfHH-c&ll=23.79589192204333%2C121.4612344595703&z=11) [target=_blank]
     * [Threads 貼文](https://www.threads.com/@ida.kuo/post/DO_Kd4Ak06F?xmt=AQF0sz2R3HBhKh4qkjT2ymSDOZoJKLmzEe8dDW45y9lh-Q) [target=_blank]
 * [🗺️流動廁所分布地圖<br><small> --- 昭昭</small>](https://www.google.com/maps/d/u/0/viewer?mid=1hvkIGwDBe9ehupEHxY6KzVSTuLWsGfU&ll=23.669659711573825%2C121.44137006173119&z=15) [target=_blank]
+* [Dashboard](https://hualien-help.base44.app/DisasterRelief)[target=_blank] --- [name=Christina Cheng] [link](https://www.threads.com/@christinacheng01/post/DPLJI8uCarN)[target=_blank]
 * [:speaking_head_in_silhouette: 志工可能會用到的阿美語<br><small> --- amisitokay 錄製</small>](https://portaly.cc/amisitokay/pages/fataan) [target=_blank]
     * [amisitokay 的 threads](https://www.threads.com/@amisitokay/post/DPGDvJbEXdD?xmt=AQF0Drg5eOcpp0G1fF6HdNvjBp1BZRgFAGBPQRWkYwkZbw&slof=1) [target=_blank]
 * [:speaking_head_in_silhouette: 志工可能會用到的阿美語<br><small> --- langodlin 錄製</small>](https://drive.google.com/drive/folders/1zNkjHPAcuhqOhk_9Y4HGTbh8k6CAI1Hn) [target=_blank]
@@ -102,6 +104,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * [慈濟志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) [target=_blank]`資訊來源 https://www.facebook.com/watch?v=1253051549925969`
 * [慈濟清掃動員 Line 社群](https://line.me/ti/g2/gNNwamqenP9lV5jJHFVvIC2SYJOWrPbwJNMLXA) [target=_blank]
     * [慈濟清掃動員 第二群](https://line.me/ti/g2/FHyunbFvM3MK98DkLTEd3KfQea2in4Y5XnjDBA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default) [target=_blank]`人數眾多，請先看筆記本!!`
+    * [鏟子超人行動指南](https://sites.google.com/view/guangfugogo/)[target=_blank] --- [name=慈濟鏟子超人幕後團隊]
 * [花蓮縣卓溪鄉新女力公益協會 新公告](https://www.facebook.com/share/p/176MQ86gJg/) [target=_blank]
 * [花蓮縣議員 志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform) [target=_blank]
 * [法鼓山花蓮精舍 清淤志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSdfVDDNyRwhJWMxnj-0YdzKdvhybRLuq3JF_xap4j9sk4yykg/viewform) [target=_blank] 
@@ -267,7 +270,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * [衛福部應變措施與資源<br><small>洗腎、孕婦、急救、安置、社工、防疫等資源</small>](https://www.facebook.com/mohw.gov.tw/posts/pfbid0oc3LoTxpKGaEAUGtQTzaidp9mJtSCBRK2vK7PeZDFxaCQy6pUJuptJqALcfJAFoQl) [target=_blank]
 * [災害藥品諮詢專線：03-8224750<br><small> --- 花蓮縣衛生局</small>](tel:+88638224750)
     * [Facebook 貼文](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559) [target=_blank]
-* [G🗺️ 安心關懷站：花蓮縣心理師在大進國小<br><small>駐點，提供心理諮商協助</small>](https://share.google/0HSnvEhEqSYyH7ZPI) [target=_blank]
+* [G🗺️ 安心關懷站：花蓮縣心理師遷移至光復醫療站駐點，提供心理諮商協助。原大進國小仍暫時提供心理諮商協助。](https://share.google/0HSnvEhEqSYyH7ZPI) [target=_blank]
     * [款款心理師/Samuelson](https://www.threads.com/@psychologistsamuelson/post/DPGMsDrD3S3?xmt=AQF0aPH40ihZGlHP2zwJZmkWfWQvf7r82CXP0G3I5_k8XA&slof=1) [target=_blank]
 
 ### 安置空間、避難所&聯絡窗口
