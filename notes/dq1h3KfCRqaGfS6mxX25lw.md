@@ -36,7 +36,7 @@ Contributing content **means that you agree to waive your copyright and release 
 ## 災民需求 X 志工前往
  ‼️[救災行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️ 
 
-* [🪏 光復救災資訊整合網<br><small> --- 林于立@g0v後勤中心分享</small>](https://sites.google.com/view/guangfu250923)[target=_blank]
+*  [🪏 光復救災資訊整合網<br><small> --- 林于立@g0v後勤中心分享</small>](https://sites.google.com/view/guangfu250923)[target=_blank]
     * [Facebook 社團貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/)
     * 志工行前須知、必備物品、需要協助區域、志工line群等
 * [🪏 花蓮光復鄉-救災志工/物資募集資訊總表<br><small> --- audery1011發起編輯</small>](https://reurl.cc/QaqLKZ)[target=_blank]
@@ -47,7 +47,8 @@ Contributing content **means that you agree to waive your copyright and release 
     * [作者 Facebook 貼文](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
     * [光復救災資訊整合-遠端志工群 Discord](https://discord.gg/CzVxptZP)[target=_blank]
     * [新資訊請填寫回報表單！<br>`<9/27 18:48 更新>`](https://forms.gle/2o3bW4DrHmmEGwPJ8)[target=_blank]
-* [🪏 鏟子英雄-花蓮颱風救援隊接<br><small> --- 郭亭鹽]( https://shovel-heroes.com/)[target=_blank] --- 
+* [🪏 鏟子英雄-花蓮颱風救援隊接<br><small> --- 郭亭妍</small>]( https://shovel-heroes.com/)[target=_blank] 
+    * [使用說明影片](https://youtu.be/mxBT1B2x3as)[target=_blank] 
 ## 馬太鞍天氣預報
 
 * [原鄉部落 - 馬太鞍 | 交通部中央氣象署<br><small>日出時間： 05:45 日落時間：17:44</small>](https://www.cwa.gov.tw/V8/C/L/Tribes/Tribes.html?PID=012-1001507A02)[target=_blank]
