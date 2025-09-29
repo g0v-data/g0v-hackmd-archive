@@ -87,6 +87,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 文房 https://www.facebook.com/share/p/14P62Z5wSz/?mib
     - 數化 1916~1940 年的歷史地圖水域 https://g0v.hackmd.io/pXs8pL8iSdGSl1vEFwUVVg?view
     - 1925 遍路石佛 https://zh.m.wikipedia.org/zh-tw/%E5%8F%B0%E5%8C%97%E5%9B%9B%E5%9C%8B%E5%85%AB%E5%8D%81%E5%85%AB%E6%89%80%E9%9D%88%E5%A0%B4
+    -新生北 火葬場，有煙囪 https://www.facebook.com/share/p/1P3gzoHDoG/?mibextid=wwXIfr
     - 1928 待登載至流域歷程變遷地圖，應該可以用 點位 方式，至少標記「1928 年此處為共同墓地」的方式 https://www.facebook.com/share/p/15n9yi7qg8/
     - 1933 帝大氣象建築 https://www.facebook.com/share/16WdJFGkNP/?mibextid=wwXIfr
     - 1933 臺北市大觀

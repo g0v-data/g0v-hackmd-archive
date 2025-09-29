@@ -28,6 +28,8 @@ Contributing content **means that you agree to waive your copyright and release 
 * 現場暫以**海嘯警報**，即時提醒居民與志工。
 * [海嘯警報音符為鳴5秒，停5秒，反覆9遍(共85秒)，解除警報音符為一長聲90 秒。<br><small>--- 來源，內政部</small>](https://www.facebook.com/share/p/17WbrLqRzE/) [target=_blank]
   ![](https://g0v.hackmd.io/_uploads/Hy0cTrL3eg.png =x300)
+* [ℹ️ 全民防災e點通 | 馬太鞍溪堰塞湖專區<br><small>-- 內政部消防署</small>](https://bear.emic.gov.tw/MY2/disasterInfo/99393)[target=_blank]
+    * 應變處置報告、情資研判資料、預警簡訊等
 * [ℹ️ 花蓮縣政府馬太鞍專區<br><small>--- *花蓮縣政府*</small>](https://www.hl.gov.tw/ysh/) [target=_blank]
     * 內有死亡失聯撤離收容名冊以及**交通管制公告**等
     * [花蓮縣政府臉書粉絲團](https://www.facebook.com/hlgov)[target=_blank]
