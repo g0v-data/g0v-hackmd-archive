@@ -101,10 +101,9 @@ Contributing content **means that you agree to waive your copyright and release 
 * [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform) [target=_blank]　`花蓮縣議員楊華美發起的媒合`
 * [慈濟志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) [target=_blank]`資訊來源 https://www.facebook.com/watch?v=1253051549925969`
 * [慈濟清掃動員 Line 社群](https://line.me/ti/g2/gNNwamqenP9lV5jJHFVvIC2SYJOWrPbwJNMLXA) [target=_blank]
-* [慈濟清掃動員 第二群](https://line.me/ti/g2/FHyunbFvM3MK98DkLTEd3KfQea2in4Y5XnjDBA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default) [target=_blank]`人數眾多，請先看筆記本!!`
+    * [慈濟清掃動員 第二群](https://line.me/ti/g2/FHyunbFvM3MK98DkLTEd3KfQea2in4Y5XnjDBA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default) [target=_blank]`人數眾多，請先看筆記本!!`
 * [花蓮縣卓溪鄉新女力公益協會 新公告](https://www.facebook.com/share/p/176MQ86gJg/) [target=_blank]
-* [花蓮縣卓溪鄉新女力公益協會 直接加入 Line志工群組](https://line.me/ti/g/e8Jhmc2RrU) [target=_blank]
-* [花蓮縣卓溪鄉新女力公益協會 志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform) [target=_blank]
+* [花蓮縣議員 志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform) [target=_blank]
 * [法鼓山花蓮精舍 清淤志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSdfVDDNyRwhJWMxnj-0YdzKdvhybRLuq3JF_xap4j9sk4yykg/viewform) [target=_blank] 
 * [中華基督教救助協會 清淤志工填表](https://docs.google.com/forms/d/e/1FAIpQLSd-bWszIOn3YJJUh8dt0f8eRXOf5OPtRIXTz2fSfESnf0fZng/viewform) [target=_blank] 
 * [10/01-10/10 黑熊學院 災後復原志工意願登記表](https://hqt6bch6.r.ap-northeast-1.awstrack.me/L0/https:%2F%2Fforms.gle%2FtsiSNPTFhAhRQXRq9/1/0106019986b8d1d8-b8a4fa45-3392-4aca-892c-75b21ece4a4f-000000/y9xViOz4Nnl8G0FjZEcn3-oCMks=230) [target=_blank] `這份表單是「第一階段」的意願登記，當地方有具體需求、會在 Line 群進行下一步的安排` 
