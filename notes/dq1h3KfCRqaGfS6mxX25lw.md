@@ -42,6 +42,7 @@ Contributing content **means that you agree to waive your copyright and release 
     * [發起人 Threads 頁面](https://www.threads.com/@audery1011) [target=_blank]
     * 多分頁資訊，包含收容所、尋人、志工、各單位等
     * 9/27開放共編｜目前編輯人數過多，部分工具可能無法使用。
+    * [副本](https://docs.google.com/spreadsheets/d/1rAzzxNM9Vz3y4wU09uAqnAOxGqOkXTNIvnvWUOcDvu4/edit?gid=1457345354#gid=1457345354) [target=_blank]
 * [🪏 救災資源整合地圖<br><small> ---  俞凱倫</small>](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) [target=_blank]
     * [發起人 Facebook 貼文](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
     * [光復救災資訊整合-遠端志工群 Discord](https://discord.gg/CzVxptZP) [target=_blank]
