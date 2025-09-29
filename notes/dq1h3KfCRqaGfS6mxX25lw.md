@@ -84,14 +84,16 @@ Contributing content **means that you agree to waive your copyright and release 
 * [:speaking_head_in_silhouette: 志工可能會用到的阿美語<br><small> --- langodlin 錄製</small>](https://drive.google.com/drive/folders/1zNkjHPAcuhqOhk_9Y4HGTbh8k6CAI1Hn) [target=_blank]
     * [langodlin 的 threads](https://www.threads.com/@langodlin/post/DPGRppUEzl7?xmt=AQF0vTj-jTF5GGD_u35xsdbZwbkJLwX00RZPcRzOo1--mQ&slof=1) [target=_blank]
 
-## 💪 人力 💪<br>⚠️注意自身安全、自備裝備，切勿造成災區負擔！<br>⚠️請先閱讀支援災後清理工作的 [注意事項](https://g0v.hackmd.io/@yitzu/rkBzt5Qheg)
+## 💪 人力 💪<br>⚠️注意自身安全、自備裝備，切勿造成災區負擔！
 
+* [⚠️請先閱讀支援災後清理工作的 注意事項](https://g0v.hackmd.io/@yitzu/rkBzt5Qheg)
 * [接駁車資訊](https://docs.google.com/spreadsheets/d/1YAKX2_FK4yWojReU6kwI16tVAEyJ0BxU/edit?gid=1603419519#gid=1603419519)`交通部`
 * [物理治療師ZM<br>如何使用圓鍬更順手](https://www.threads.com/@zm_health_fitness/post/DPGjRv6EsLB?xmt=AQF0mtw4TncghOPHrQh_bLaiCTuvZP1-_aalZ6ADrM34wA&slof=1) [target=_blank]
 
 ### 官方成立與資訊總表
 
 * [行政院中央前進協調所](https://www.facebook.com/moea.gov.tw/posts/pfbid02tZoxmDMCVs8g6vDoBxPXsZ5BCSmvbFbwXrswJhHkKPf7XeFGXxykhMhWgEsLQ5bJl) [target=_blank] `👉未加入其他組織請參考`
+    * [馬太鞍鏟子超人志工群](https://line.me/ti/g2/fbzCCdqkrqolFPvNsOLwUSA9WOaq2VVrdzODug?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)[target=_blank] --- 前進協調所
 * [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?gid=174046522#gid=174046522) [target=_blank]`👉內有各大型團隊報名資訊`
 
 ### 各組織資訊
@@ -241,26 +243,33 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ### 醫療資源
 
-* 收容中心醫療站
-    * [G🗺️ 花蓮光復糖廠<br><small>9/24～10/09 09:00-17:30 --- 花蓮縣衛生局</small>](https://maps.app.goo.gl/MQ1r5VSYkt7wL61E6) [target=_blank]
-        * [Facebook 貼文](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559) [target=_blank]
-    * [G🗺️ 馬太鞍教會<br><small>9/24～9/29 09:00-16:00 --- 花蓮縣衛生局</small>](https://maps.app.goo.gl/r4cPG32odzfq7qCv9) [target=_blank]
-        * [來源 Facebook 貼文](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559) [target=_blank]
-        * 門諾醫院醫療站 @馬太鞍教會
-            * 時間：9/25(四)~26(五) 11:00~16:00 (動態調整)
-            * 地點：馬太鞍教會
-            * 如果有行動不便的長輩，也可以[與楊曉君 0919-230-356 連絡](tel:+886919230356)協助處理。
-    * [G🗺️ 大全村活動中心](https://maps.app.goo.gl/sCHYTaFwLmP91b289) [target=_blank] ｜ 9/24～9/30 09:30-16:00 --- [花蓮縣衛生局](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559) [target=_blank]
-    * [G🗺️ 虎爺溫泉渡假莊園](https://maps.app.goo.gl/cnZRHDiRAzgWrniW9) [target=_blank] ｜ 9/27～9/30 10:00-12:00 --- [花蓮縣衛生局](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559) [target=_blank]
-* 臨時醫療站
-    * [G🗺️ 光復糖廠救護站](https://maps.app.goo.gl/MQ1r5VSYkt7wL61E6) [target=_blank] 08:00~21:00 --- [國軍花蓮總醫院](https://www.facebook.com/share/p/19dyAPjTtY/)
-    * [G🗺️ 光復車站救護站](https://maps.app.goo.gl/nXRC57UYXFLqDAe79) [target=_blank]  全天候診 --- [國軍花蓮總醫院](https://www.facebook.com/share/p/19dyAPjTtY/)
-    * [G🗺️ 鳳林國小救護站](https://maps.app.goo.gl/qDqqCNsCM5VtgHeu6) [target=_blank]  08:00~21:00 --- [國軍花蓮總醫院](https://www.facebook.com/share/p/19dyAPjTtY/)
-    * [G🗺️ 瑞穗國中救護站](https://maps.app.goo.gl/R9YeFuDCzUGcgmqD6) [target=_blank]  08:00~21:00 --- [國軍花蓮總醫院](https://www.facebook.com/share/p/19dyAPjTtY/)
+#### 收容中心醫療站
+* [G🗺️ 花蓮光復糖廠<br><small>9/24～10/09 09:00-17:30 --- 花蓮縣衛生局</small>](https://maps.app.goo.gl/MQ1r5VSYkt7wL61E6) [target=_blank]
+    * [來源 Facebook 貼文](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559) [target=_blank]
+* [G🗺️ 馬太鞍教會<br><small>9/24～9/29 09:00-16:00 --- 花蓮縣衛生局</small>](https://maps.app.goo.gl/r4cPG32odzfq7qCv9) [target=_blank]
+    * [來源 Facebook 貼文](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559) [target=_blank]
+    * 門諾醫院醫療站 @馬太鞍教會
+        * 時間：9/25(四)~26(五) 11:00~16:00 (動態調整)
+        * 地點：馬太鞍教會
+        * 如果有行動不便的長輩，也可以[與楊曉君 0919-230-356 連絡](tel:+886919230356)協助處理。
+* [G🗺️ 大全村活動中心<br><small>9/24～9/30 09:30-16:00</small>](https://maps.app.goo.gl/sCHYTaFwLmP91b289) [target=_blank] 
+    * [來源 Facebook 貼文](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559) [target=_blank]
+* [G🗺️ 虎爺溫泉渡假莊園<br><small>9/27～9/30 10:00-12:00</small>](https://maps.app.goo.gl/cnZRHDiRAzgWrniW9) [target=_blank]
+    * [來源 Facebook 貼文](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559) [target=_blank]
+
+#### 臨時醫療站
+* [G🗺️ 光復糖廠救護站](https://maps.app.goo.gl/MQ1r5VSYkt7wL61E6) [target=_blank] 08:00~21:00 --- [國軍花蓮總醫院](https://www.facebook.com/share/p/19dyAPjTtY/)
+* [G🗺️ 光復車站救護站](https://maps.app.goo.gl/nXRC57UYXFLqDAe79) [target=_blank]  全天候診 --- [國軍花蓮總醫院](https://www.facebook.com/share/p/19dyAPjTtY/)
+* [G🗺️ 鳳林國小救護站](https://maps.app.goo.gl/qDqqCNsCM5VtgHeu6) [target=_blank]  08:00~21:00 --- [國軍花蓮總醫院](https://www.facebook.com/share/p/19dyAPjTtY/)
+* [G🗺️ 瑞穗國中救護站](https://maps.app.goo.gl/R9YeFuDCzUGcgmqD6) [target=_blank]  08:00~21:00 --- [國軍花蓮總醫院](https://www.facebook.com/share/p/19dyAPjTtY/)
+
+#### 其他
+
 * [衛福部應變措施與資源<br><small>洗腎、孕婦、急救、安置、社工、防疫等資源</small>](https://www.facebook.com/mohw.gov.tw/posts/pfbid0oc3LoTxpKGaEAUGtQTzaidp9mJtSCBRK2vK7PeZDFxaCQy6pUJuptJqALcfJAFoQl) [target=_blank]
 * [災害藥品諮詢專線：03-8224750<br><small> --- 花蓮縣衛生局</small>](tel:+88638224750)
     * [Facebook 貼文](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559) [target=_blank]
-* [G🗺️ 安心關懷站：花蓮縣心理師在大進國小](https://share.google/0HSnvEhEqSYyH7ZPI) [target=_blank] 駐點，提供心理諮商協助。 --- [款款心理師/Samuelson](https://www.threads.com/@psychologistsamuelson/post/DPGMsDrD3S3?xmt=AQF0aPH40ihZGlHP2zwJZmkWfWQvf7r82CXP0G3I5_k8XA&slof=1)
+* [G🗺️ 安心關懷站：花蓮縣心理師在大進國小<br><small>駐點，提供心理諮商協助</small>](https://share.google/0HSnvEhEqSYyH7ZPI) [target=_blank]
+    * [款款心理師/Samuelson](https://www.threads.com/@psychologistsamuelson/post/DPGMsDrD3S3?xmt=AQF0aPH40ihZGlHP2zwJZmkWfWQvf7r82CXP0G3I5_k8XA&slof=1) [target=_blank]
 
 ### 安置空間、避難所&聯絡窗口
 
