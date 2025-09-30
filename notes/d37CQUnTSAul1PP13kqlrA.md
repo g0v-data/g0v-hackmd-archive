@@ -70,6 +70,9 @@ https://public.utaipei.edu.tw/p/405-1066-125395,c59.php?Lang=zh-tw
         - 例如：新店溪守護聯盟
         - 早年的佃權水利社會
 
+上一場工作坊的討論內容
+https://photos.app.goo.gl/BkExorCmKiko1tis9
+
 舉例討論：
 - 誰會先推論積水
     - 淹水潛勢推估
