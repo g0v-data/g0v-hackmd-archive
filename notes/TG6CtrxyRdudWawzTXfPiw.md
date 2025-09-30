@@ -179,7 +179,12 @@ Connect 累積行動團體網絡名單
 - 新市鎮 (但無明確的產業就業人口引入)
     - 例如淡海新市鎮
 - 地方創生
-- ...等
+- 國土署生活地景框繪結果
+- 部落傳統領域、原保地
+    - https://www.cip.gov.tw/zh-tw/news/data-list/9A8362871EA0BBFF/7BC58CB745833C26AE9B30328A2228A5-info.html
+    - https://gis.ardswc.gov.tw/news/map/303
+- 林業事業區 https://www.facebook.com/share/p/16xAHyUTgG/
+
 
 ### 縣市教育治理政策情境
 
