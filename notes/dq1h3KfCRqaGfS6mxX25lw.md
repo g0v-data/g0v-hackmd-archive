@@ -273,8 +273,8 @@ Contributing content **means that you agree to waive your copyright and release 
 * [衛福部應變措施與資源<br><small>洗腎、孕婦、急救、安置、社工、防疫等資源</small>](https://www.facebook.com/mohw.gov.tw/posts/pfbid0oc3LoTxpKGaEAUGtQTzaidp9mJtSCBRK2vK7PeZDFxaCQy6pUJuptJqALcfJAFoQl) [target=_blank]
 * [災害藥品諮詢專線：03-8224750<br><small> --- 花蓮縣衛生局</small>](tel:+88638224750)
     * [Facebook 貼文](https://www.facebook.com/permalink.php?story_fbid=1092244666415303&id=100068893402559) [target=_blank]
-* [G🗺️ 安心關懷站：花蓮縣心理師遷移至光復醫療站駐點，提供心理諮商協助。原大進國小仍暫時提供心理諮商協助。](https://share.google/0HSnvEhEqSYyH7ZPI) [target=_blank]
-    * [款款心理師/Samuelson](https://www.threads.com/@psychologistsamuelson/post/DPGMsDrD3S3?xmt=AQF0aPH40ihZGlHP2zwJZmkWfWQvf7r82CXP0G3I5_k8XA&slof=1) [target=_blank]
+* [G🗺️ 安心關懷站：花蓮縣心理師遷移至光復站駐點，提供心理諮商協助。原大進國小仍暫時提供心理諮商協助。](https://share.google/0HSnvEhEqSYyH7ZPI) [target=_blank]
+    * [款款心理師/Samuelson（2025/09/30 更新）](https://www.threads.com/@psychologistsamuelson/post/DPI_D9Dj8nr?xmt=AQF0aPH40ihZGlHP2zwJZmkWfWQvf7r82CXP0G3I5_k8XA) [target=_blank]
 
 ### 安置空間、避難所&聯絡窗口
 
