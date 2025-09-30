@@ -1,3 +1,5 @@
+# <i>0916</i> 10月小聚場地、url-resolver downtime、Vertex AI 連接、env file 分離、法律信件回應
+
 # 20250916 會議記錄
 
 :::info
