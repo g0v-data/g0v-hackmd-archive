@@ -31,6 +31,7 @@
         > 有幾間確實因為內部調整無法租用，但也可能之後忽然開通，小樹屋不願回應具體時程。如果有急用建議先找其他空間，但確實是沒有人租的。
 *   **[mrorz]** url-resolver 從每日 4am 重啟 --> 每小時 5 分時重啟
 *   **[bil]** 團購網法律信件，由 bil 寫初版
+    * Sent
 
 ## 小聚籌備
 
@@ -42,8 +43,9 @@
 捷運台北車站 5 分鐘
 臺北市中正區忠孝西路一段50號 B3樓-B303房
 合歡分館位於台北車站Z區地下街 Z2 出口日藥本舖旁邊
+
 - [ ] 食物：
-- [ ] 場地：
+- [ ] 場地：小樹屋｜合歡 B303
 - [ ] 時間：
 	- 活動時間：14:00 - 17:00
 	- 時間分配
@@ -58,25 +60,51 @@
         - 4:10 - 4:40 實作撰寫新回應
         - 4:40 - 5:00 介紹分類、RSS、合照
 - [ ] 投放目標：
-  - 推播日：
-  - 目標：雙北
-- [ ] KKTIX: 
+  - 推播日：10/8
+  - 目標：北北基桃（因為在台北車站易達性佳）
+- [ ] KKTIX: https://cofacts.kktix.cc/events/cofactseditor49
 - [ ] 誰會來呢： 
 - [ ] 記得帶：貼紙、不太環保杯 (bil)
 - [ ] LINE 文案：
 - [ ] VOOM 發文
 - [ ] FB 發文
 
+:::info
+- 更新 kktix (https://cofacts.kktix.cc/events/cofactseditor49)
+- 訂[小樹屋](https://thehapp.com/space/571) 13:30 ~ 17:00
+:::
+
+
 ## Downtime
 
+偶發 downtime 但不知道為何
+> 有一次進去 restart url-resolver, memory usage 太高
+> 感覺上次設定的一小時重開一次 url-resolver 滿有效的
+> [name=nonumpa]
+
+:::success
+Action item: mrorz 寫新 url-resolver design doc https://github.com/cofacts/worker/issues/2
+:::
+
 ## Takedowns
+
+- 多個自動 takedown 偵測
+  - false negative: https://cofacts.github.io/community-builder/#/editorworks?showAll=1&day=365&userId=w4BYXJkB29ocKseuMgNo
+
+:::info
+mrorz 稍晚手動處理
+:::
 
 ## Communications
 
 - RightsCon: The Investigator, the Verifier, and the Proofreader: Fighting Disinfo with a Multi-Agent AI Crew
-- 採訪？
+- Jane on Friday
 
 ## 10 月開會時間
+
+- 週二晚上 8pm 
+
+## 專題 expectation
 
 
 
