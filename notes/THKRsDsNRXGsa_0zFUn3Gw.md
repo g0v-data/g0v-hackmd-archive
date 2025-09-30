@@ -93,6 +93,15 @@ g0v 為開放社群，在媒體平台上的貼文，提供「所有」參與者�
 
 ---
 
+## 2025/09/30 新增 Threads
+
+- 網址：https://www.threads.com/@g0v.tw/
+- 由 g0v IG 建立
+- 發文規則與 IG, FB, X 一樣，走 SNS 治理機制
+    - 9/30 張貼第一篇串文：https://www.threads.com/@g0v.tw/post/DPOj7Z9EwaV
+- 若要進行互動留言，也會是視同發文，走 SNS 治理機制
+    - 但還沒試過，不確定如何進行
+
 ## 2025/08/06 更新
 :::info
 - FB 編輯名單：

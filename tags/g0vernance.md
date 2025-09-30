@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2025-08-11T10:56:57+00:00 | 2022-09-13T08:41:15+00:00 |
-| 2 | [g0v SNS 社群治理機制](../notes/THKRsDsNRXGsa_0zFUn3Gw.md) | 2025-08-07T13:09:29+00:00 | 2019-07-06T00:21:31+00:00 |
+| 1 | [g0v SNS 社群治理機制](../notes/THKRsDsNRXGsa_0zFUn3Gw.md) | 2025-09-30T13:19:42+00:00 | 2019-07-06T00:21:31+00:00 |
+| 2 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2025-08-11T10:56:57+00:00 | 2022-09-13T08:41:15+00:00 |
 | 3 | [g0v 行為守則 g0v Code of Conduct](../notes/XPzJRxsHT2CaOO5WZ5r-BA.md) | 2025-06-21T02:01:16+00:00 | 2017-08-21T03:57:16+00:00 |
 | 4 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2025-04-02T15:08:44+00:00 | 2018-08-30T07:19:57+00:00 |
 | 5 | [g0v Slack 閱讀完畢的系統稱讚語句](../notes/N6bGxyqSRZaAnNSmBevZVg.md) | 2025-03-13T12:11:10+00:00 | 2023-08-06T10:19:54+00:00 |

@@ -53,7 +53,10 @@ Contributing content **means that you agree to waive your copyright and release 
     * [Discord](https://discord.com/channels/1421342926801469675/1421342927367438411) [target=_blank]
     * [使用說明影片](https://youtu.be/mxBT1B2x3as) [target=_blank] 
 * [QSearch 彙整災害救援資訊](https://www.qsearch.cc/disaster/) [target=_blank]
-
+* [水電報修 Google 表單連結（災戶用）](https://forms.gle/gNRG4ZxF2vkCrgbo6)[target=_blank] 
+    * 轉貼自 LINE 群組「光復救災水電修繕小組（全台民間自發）」的 記事本
+* [水電修繕志工 Google 表單連結（技師用）](https://forms.gle/Xx2pbSzztQTK3YsS9) [target=_blank] 
+    * 轉貼自 LINE 群組「光復救災水電修繕小組（全台民間自發）」的 記事本
 
 ## 馬太鞍天氣預報
 
