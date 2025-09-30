@@ -44,7 +44,6 @@ tags: 新生流域,
 https://www.facebook.com/media/set?set=oa.409037272263694&type=3
 
 #### 整體系統型的素材
-- 朱崙福聚宮 https://www.facebook.com/share/p/1CRRMSwK5P/?mibextid=wwXIfr
 - [重要] 評估數化新生大排興建前的時期的水路概況
     - 可挑選 1904 日治二萬分之一台灣堡圖(明治版)	
     - 工作文件 https://g0v.hackmd.io/@chewei/xinsheng-watershed/https%3A%2F%2Fg0v.hackmd.io%2FpXs8pL8iSdGSl1vEFwUVVg%3Fview
@@ -59,10 +58,12 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
             - https://epaper.land.gov.taipei/Item/Detail/%E5%B9%B3%E5%9D%87%E5%9C%B0%E6%AC%8A%E5%9F%BA%E9%87%91%E3%80%81%E9%87%8D%E5%8A%83%E7%9B%88%E9%A4%98%E6%AC%BE%E5%9F%BA%E9%87%91%E5%A4%A7%E4%B8%8D%E5%90%8C
 - 道路各段開闢的 polygon 開闢年代
     - 例如忠孝東路、基隆路
+- 歷史上的長距離路徑或航線 
+    - https://g0v.hackmd.io/TFh2fa3oSXeQXstDFtaGag?view
 
 
 其他：各年代的代表影片
-- 1933 持攝影機的男人https://youtu.be/rYGYp46o1ng?si=YG3-Rq02L2ebQjmL
+- 1933 持攝影機的男人 https://youtu.be/rYGYp46o1ng?si=YG3-Rq02L2ebQjmL
 - 1964 台北 https://youtu.be/svBswabhxjQ?si=sE9pE5yXENAJWayG
 
 #### 單筆素材
@@ -85,9 +86,8 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 建國啤酒廠 影片中有說明深水井 https://youtu.be/_zFV6AQF0jc
     - 八田與一 幸町住所 https://www.facebook.com/share/p/u4c9XGGv8MQVnF4s/
     - 文房 https://www.facebook.com/share/p/14P62Z5wSz/?mib
-    - 數化 1916~1940 年的歷史地圖水域 https://g0v.hackmd.io/pXs8pL8iSdGSl1vEFwUVVg?view
+    - 朱崙福聚宮 https://www.facebook.com/share/p/1CRRMSwK5P/
     - 1925 遍路石佛 https://zh.m.wikipedia.org/zh-tw/%E5%8F%B0%E5%8C%97%E5%9B%9B%E5%9C%8B%E5%85%AB%E5%8D%81%E5%85%AB%E6%89%80%E9%9D%88%E5%A0%B4
-    -新生北 火葬場，有煙囪 https://www.facebook.com/share/p/1P3gzoHDoG/?mibextid=wwXIfr
     - 1928 待登載至流域歷程變遷地圖，應該可以用 點位 方式，至少標記「1928 年此處為共同墓地」的方式 https://www.facebook.com/share/p/15n9yi7qg8/
     - 1933 帝大氣象建築 https://www.facebook.com/share/16WdJFGkNP/?mibextid=wwXIfr
     - 1933 臺北市大觀

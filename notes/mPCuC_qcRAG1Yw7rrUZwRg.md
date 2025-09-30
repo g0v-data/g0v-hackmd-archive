@@ -452,6 +452,10 @@ https://g0v.hackmd.io/7KE-OtLOSCarSXY1ENJwOA?view
         - 提供議題社團網址，邀請參加者加入
         - 填寫聯絡信箱，日後寄送聯絡信件
 
+### 水環境治理推廣工作坊
+
+- 企劃文件：https://g0v.hackmd.io/d37CQUnTSAul1PP13kqlrA?view
+
 
 ### 接洽合作單位意願
 

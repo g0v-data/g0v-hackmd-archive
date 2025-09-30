@@ -109,7 +109,7 @@ Updates:
 - [x] Cofacts Logo 貼紙 [name=mrorz]
 
 做
-* [ ] 設定 cofacts-api 的 303 redirect 並找 Ronny approve [name=mrorz]
+* [x] 設定 cofacts-api 的 303 redirect 並找 Ronny approve [name=mrorz]
   * [ ] 跟 AI 一起寫 cofacts/devops-manual [name=mrorz]
 * [ ]  [Implement Hybrid URL Content Resolver with Gemini and Video Understanding](https://github.com/cofacts/worker/issues/2)
 * [ ] 準備十月小聚，小樹屋 [name=bil]
