@@ -1,0 +1,43 @@
+---
+tags: g0v-intl
+---
+# 關於 Code for Taiwan 近期相關資訊（2025 年 9 月）
+
+- #rand0m [討論串](https://g0v-tw.slack.com/archives/CGU1SLHNH/p1758077819577779) [name=chihao]
+- 面海松週五晚的 welcome party 時，數位遊牧協會的 KK 好像有提到他想要復活 code for taiwan ，我不太確定過去的 code for taiwan 是不是跟 KK 有關 [name=ronny]
+- Code for Tomorrow [粉專](https://www.facebook.com/CodeForTomorrow/)建立日期：2012 年 6 月 25 日
+    - Code for tomorrow 是 [Schee 徐子涵](https://www.watchinese.com/article/2013/9827) [name=irvin]
+- Code for Taiwan [粉專](https://www.facebook.com/CFTcodefortaiwan)建立日期：2014 年 5 月 29 日
+- 經 A4 詢問後 KK 回覆 [name=KK]
+    - 粉專原本是 alpha camp 的 bernard 經營，前幾天已轉交給新籌辦團隊了
+    - 階段任務就是復活它
+    - 團隊是全志工
+    - 聯絡窗口：可以直接私訊粉專
+- KK 於 g0v Slack 發言
+    - Code for Taiwan 源自於 Alpha Camp 的 Bernard
+        - 在 2014 年因應 Alpha Camp 創立
+        - 但是因為當時沒心力經營
+        - 只有成立粉專導引了一些追蹤後就停滯
+    - 今年因為接觸了 g0v, CfJ, CfK 的大家後
+        - 一時興起去找了 Bernard 聊聊這塊的後續
+        - 也在上上週完成了粉專等名字的交接
+        - 預計在今年十月重新復活！
+    - Code for Taiwan 與 g0v 一樣是非營利公益性質組織
+        - 不同的是並非以專案為主，而是以教育學習為主
+        - 以「普及程式思維」為主軸，推廣至非城市區域
+    - 跟 CfK 一樣採委員會制（無總招、無主席）
+        - 目前有四位 organizers（Michael, KK, Duncan, Kenji）
+        - 都是熱血工程師，喜歡參與社群
+    - Code for Taiwan 活動
+        - 線上小聚：暫定每月第三個星期三
+        - 實體 Summit：暫定 12/5 嘉義縣舉辦
+    - 歡迎大家給我們指點與支持
+        - 特別 highlight g0v 給我們的啟發
+        - 也歡迎想來加入 organizer 的跟我們說～
+    - 官網：https://codefortaiwan.org
+    - IG: https://www.instagram.com/code4tw/
+    - FB: https://www.facebook.com/CFTcodefortaiwan
+- KK
+    - 台灣數位遊牧者協會（TDNA）理事長徐愷
+    - 於 2025 年 6 月間首次接觸面海松台灣主辦人，提出希望贊助 2025 年面海松
+    - 經主辦人討論確認邀請 TDNA 贊助 2025 年面海松晚宴
