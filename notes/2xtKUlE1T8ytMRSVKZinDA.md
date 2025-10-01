@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants： Peter, Bestian
+參與者 Participants： Peter, Bestian, 
  https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
 
@@ -84,9 +84,17 @@ tags: vTaiwan
     - 找到不同立場的人共同在乎的議題 [name=bestian]
     - 如果直接把polis徵集連結寫在災情整合平台的共筆頁上呢?
     - 或許第一波轉發可以先在g0v slack [#hualien頻道](https://g0v-tw.slack.com/archives/C044J653KLL)? 上面應該比較多是認真的人 
-    - [討論等級金字塔](https://forum.ettoday.net/news/1241384) [name=tim]
+    - [論述分等金字塔](https://forum.ettoday.net/news/1241384) [name=tim]
     - 鏟子英雄爭議串，議題設定可以參考其論述
 https://www.threads.com/@jaja.rifuci/post/DPO9EkiEka7 [name=tim]
 
 - [2025-09-23 花蓮馬太鞍溪堰塞湖溢流災情整合平台](https://g0v.hackmd.io/@yitzu/Fata-an_BarrierLake/https%3A%2F%2Fg0v.hackmd.io%2F%40yitzu%2FFata-an_BarrierLake)
-- 
+
+## Post-vTaiwan fireside-chat 
+時間 Time ：20:00 - 20:30
+地點 Location ：線上 Online
+參與者 Participants： Peter, Dino, Maurice, Josh, Carlo
+ https://www.vtaiwan.tw/jitsi
+(請用Google登入以參與視訊並啟用轉錄功能)
+### Question for vTaiwan 
+- vTaiwan origin, history, right now, 
