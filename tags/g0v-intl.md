@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [關於 Code for Taiwan 近期相關資訊（2025 年 9 月）](../notes/O5Gm4M_pRImCS53WP0Vplg.md) | 2025-09-29T23:58:01+00:00 | 2025-09-29T23:42:10+00:00 |
+| 1 | [關於 Code for Taiwan 近期相關資訊](../notes/O5Gm4M_pRImCS53WP0Vplg.md) | 2025-10-01T00:11:24+00:00 | 2025-09-29T23:42:10+00:00 |
 | 2 | [g0vers × “The Life-Sized City,” a documentary film](../notes/o6FWLdzNSy6-Eo0IJJo0aw.md) | 2025-06-11T03:06:01+00:00 | 2019-09-26T13:05:46+00:00 |
 | 3 | [On Archive...](../notes/6gw5b3qfTi6V1Kq98PEvzg.md) | 2024-12-29T14:41:32+00:00 | 2024-12-26T06:12:36+00:00 |
 | 4 | [g0v international 2025](../notes/UZQWq1VxSGud57A-jh59JQ.md) | 2024-12-26T07:41:52+00:00 | 2024-12-26T07:14:10+00:00 |
