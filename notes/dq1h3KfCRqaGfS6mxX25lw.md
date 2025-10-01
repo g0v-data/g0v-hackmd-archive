@@ -25,7 +25,7 @@ Contributing content **means that you agree to waive your copyright and release 
 
 **‼️馬太鞍溪河床已被泥沙填滿，只要稍有雨勢，河水就可能漫流至街道，隨時有可能必須撤退！！**
 `<堰塞湖危機尚未解除，請隨時保持警覺>`
-* 現場暫以**海嘯警報**，即時提醒居民與志工。
+* 現場暫以**警報音**，即時提醒居民與志工。
 * [海嘯警報音符為鳴5秒，停5秒，反覆9遍(共85秒)，解除警報音符為一長聲90 秒。<br><small>--- 來源，內政部</small>](https://www.facebook.com/share/p/17WbrLqRzE/) [target=_blank]
   ![](https://g0v.hackmd.io/_uploads/Hy0cTrL3eg.png =x300)
 * [ℹ️ 全民防災e點通 | 馬太鞍溪堰塞湖專區<br><small>-- 內政部消防署</small>](https://bear.emic.gov.tw/MY2/disasterInfo/99393)[target=_blank]

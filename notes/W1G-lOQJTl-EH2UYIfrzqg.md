@@ -18,6 +18,9 @@ WebGIS: https://rekichizu.jp/map/
 向量圖磚: https://mierune.github.io/rekichizu-data/tiles/v1/{z}/{x}/{y}.pbf
 圖磚樣式: https://mierune.github.io/rekichizu-style/styles/street/style.json
 
+從幕末到現代的札幌歷史互動地圖
+https://x.com/chizutodesign/status/1973198762463121887
+
 ゆるへと - 全国日帰り温泉 。銭湯マップ
 https://yuru-to.net/
 
