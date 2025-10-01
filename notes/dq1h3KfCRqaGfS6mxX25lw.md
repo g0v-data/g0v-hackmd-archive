@@ -49,7 +49,7 @@ Contributing content **means that you agree to waive your copyright and release 
     * [發起人 Facebook 貼文](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
     * [光復救災資訊整合-遠端志工群 Discord](https://discord.gg/CzVxptZP) [target=_blank]
     * [新資訊請填寫回報表單！<br>`<9/27 18:48 更新>`](https://forms.gle/2o3bW4DrHmmEGwPJ8) [target=_blank]
-* [🪏 鏟子英雄-花蓮颱風救援隊接<br><small>志工與物資媒合，使用 Google 登入。</br>--- 郭亭妍 Tanya-小妍 | 鏟子英雄</small>](https://shovel-heroes.com/) [target=_blank]
+* [🪏 鏟子英雄-花蓮颱風救援隊接 (10/01 16:44 暫時關閉中)<br><small>志工與物資媒合，使用 Google 登入。</br>--- 郭亭妍 Tanya-小妍 | 鏟子英雄</small>](https://shovel-heroes.com/) [target=_blank]
     * [Discord](https://discord.com/channels/1421342926801469675/1421342927367438411) [target=_blank]
     * [使用說明影片](https://youtu.be/mxBT1B2x3as) [target=_blank] 
 * [QSearch 彙整災害救援資訊](https://www.qsearch.cc/disaster/) [target=_blank]
