@@ -95,6 +95,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * [🗺️ 花蓮光復 災區內 詳細攻略地圖<br><small> --- @ida.kuo</small>](https://www.google.com/maps/d/u/1/viewer?hl=zh-TW&mid=1rH9sGuSh-Oqzcrtj7wgaenDWDOfHH-c&ll=23.79589192204333%2C121.4612344595703&z=11) [target=_blank]
     * [Threads 貼文](https://www.threads.com/@ida.kuo/post/DO_Kd4Ak06F?xmt=AQF0sz2R3HBhKh4qkjT2ymSDOZoJKLmzEe8dDW45y9lh-Q) [target=_blank]
 * [🗺️流動廁所分布地圖<br><small> --- 昭昭</small>](https://www.google.com/maps/d/u/0/viewer?mid=1hvkIGwDBe9ehupEHxY6KzVSTuLWsGfU&ll=23.669659711573825%2C121.44137006173119&z=15) [target=_blank]
+* [光復救災小蜜蜂](https://gf-bee.ngrok.app/available)[target=_blank] --- ???
 * [Dashboard](https://hualien-help.base44.app/DisasterRelief)[target=_blank] --- [name=Christina Cheng] [link](https://www.threads.com/@christinacheng01/post/DPLJI8uCarN)[target=_blank]
 * [:speaking_head_in_silhouette: 志工可能會用到的阿美語<br><small> --- amisitokay 錄製</small>](https://portaly.cc/amisitokay/pages/fataan) [target=_blank]
     * [amisitokay 的 threads](https://www.threads.com/@amisitokay/post/DPGDvJbEXdD?xmt=AQF0Drg5eOcpp0G1fF6HdNvjBp1BZRgFAGBPQRWkYwkZbw&slof=1) [target=_blank]

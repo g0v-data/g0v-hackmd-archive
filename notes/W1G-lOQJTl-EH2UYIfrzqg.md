@@ -24,6 +24,10 @@ https://x.com/chizutodesign/status/1973198762463121887
 ゆるへと - 全国日帰り温泉 。銭湯マップ
 https://yuru-to.net/
 
+導讀題目：日本「以地形、地質相關主題圖推估全國各地土砂災害發生風險方法之探討」文獻導讀
+https://youtu.be/-8xAg4wEWL4
+https://tech.ardswc.gov.tw/Seminar/SeminarDiscussion
+
 ---
 
 ## topic
