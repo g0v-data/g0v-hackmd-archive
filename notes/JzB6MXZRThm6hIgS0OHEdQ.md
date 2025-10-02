@@ -582,6 +582,9 @@ APP
 
 ### Issue 多種語言翻譯課題
 
+水保署建立的五語詞彙：中英日泰越
+- https://tech.ardswc.gov.tw/Education/EducationVocabulary
+
 日本釋出的「避難指示等に関する多言語辞書（14か国語）」文件
 - 下載網址：https://www.soumu.go.jp/menu_seisaku/kokumin/jyohonanminzero/index.html
 - 線上瀏覽 (檔案日期 20240118)：https://docs.google.com/spreadsheets/d/16mJKMmLcNQ5z3NtuB3wqD-UbHn8OkHW1/edit?usp=sharing&ouid=115613229829145960960&rtpof=true&sd=true
