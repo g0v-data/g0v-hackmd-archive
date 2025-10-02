@@ -15,6 +15,7 @@ tags: 都市農耕
 
 
 2022.11 過後待新增單則內容 
+- 新加坡大學內 “Nasi Ulam Forest Garden: A Living Lab” https://www.facebook.com/nus.aki/posts/pfbid02gqaMBA6TMzkCxwXXhgVUbzws24R3pLpAcrzYRYpoEthUce45eTx63R381UXJhFFl?locale=zh_TW
 - 香港 https://www.facebook.com/share/MsycXFCYhwwwKedT/
 - 香港「在高樓都市當農夫的意義？」彭文輝教授(Professor Mathew Pryor)主講
     - 連結網址：https://fb.watch/gxyOODP9S9/

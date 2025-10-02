@@ -50,7 +50,7 @@ Contributing content **means that you agree to waive your copyright and release 
     * [發起人 Facebook 貼文](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
     * [光復救災資訊整合-遠端志工群 Discord](https://discord.gg/CzVxptZP) [target=_blank]
     * [新資訊請填寫回報表單！<br>`<9/27 18:48 更新>`](https://forms.gle/2o3bW4DrHmmEGwPJ8) [target=_blank]
-* [🪏 鏟子英雄-花蓮颱風救援隊接 (10/01 16:44 暫時關閉中)<br><small>志工與物資媒合，使用 Google 登入。</br>--- 郭亭妍 Tanya-小妍 | 鏟子英雄</small>](https://shovel-heroes.com/) [target=_blank]
+* [🪏 鏟子英雄-花蓮颱風救援隊接<br><small>志工與物資媒合，使用 Google 登入。</br>--- 郭亭妍 Tanya-小妍 | 鏟子英雄</small>](https://shovel-heroes.com/) [target=_blank]
     * [Discord](https://discord.com/channels/1421342926801469675/1421342927367438411) [target=_blank]
     * [使用說明影片](https://youtu.be/mxBT1B2x3as) [target=_blank] 
 * [QSearch 彙整災害救援資訊](https://www.qsearch.cc/disaster/) [target=_blank]
@@ -61,15 +61,16 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ## 意見徵集
 
-* [Polis意見徵集](https://pol.is/4fxd6ehrfj) [target=_blank]
-* [即時結果報告](
-https://pol.is/report/r89seayfre3aha6vybrav) [target=_blank]
+* 花蓮救災爭議之後：未來台灣救災程序與資訊流通如何改進？——公民意見徵集 --- [name=vTaiwan] 
+    * [Polis意見徵集](https://pol.is/4fxd6ehrfj) [target=_blank]
+    * [即時結果報告](
+    https://pol.is/report/r89seayfre3aha6vybrav) [target=_blank]
 
 ## 馬太鞍天氣預報
 
-* [原鄉部落 - 馬太鞍 | 交通部中央氣象署<br><small>日出時間： 05:46 日落時間：17:43</small>](https://www.cwa.gov.tw/V8/C/L/Tribes/Tribes.html?PID=012-1001507A02) [target=_blank]
-![](https://g0v.hackmd.io/_uploads/SkgXJeuYnxx.png=x200)
-
+* [原鄉部落 - 馬太鞍 | 交通部中央氣象署<br><small>日出時間： 05:47 日落時間：17:40</small>](https://www.cwa.gov.tw/V8/C/L/Tribes/Tribes.html?PID=012-1001507A02) [target=_blank]
+* ![](https://g0v.hackmd.io/_uploads/B1gnw6X2nll.png)
+10/06 星期一也是假日。
     * [請注意訂購回程車票](https://www.railway.gov.tw/tra-tip-web/tip/tip001/tip123/query) [target=_blank]
 
 ## 💪 給能幫忙的人<br>For Those Who Can Provide Assistance
@@ -126,6 +127,7 @@ https://pol.is/report/r89seayfre3aha6vybrav) [target=_blank]
 * [10/01-10/10 黑熊學院 災後復原志工意願登記表](https://hqt6bch6.r.ap-northeast-1.awstrack.me/L0/https:%2F%2Fforms.gle%2FtsiSNPTFhAhRQXRq9/1/0106019986b8d1d8-b8a4fa45-3392-4aca-892c-75b21ece4a4f-000000/y9xViOz4Nnl8G0FjZEcn3-oCMks=230) [target=_blank] `這份表單是「第一階段」的意願登記，當地方有具體需求、會在 Line 群進行下一步的安排` 
 * [9/29-9/30 壯闊台灣 災後復原志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform) [target=_blank]
 * [基督教芥菜種會 社區老師/陪伴老師-參與意願調查](https://forms.gle/VS72bm7ucvXvv3ji9)
+* [小光故事屋（光復鄉孩子的秘密基地）招募陪伴志工](https://www.facebook.com/jovi.wu/posts/pfbid02N9xh8a6uGy6HgFSBt769bZuggdRVo8rtjpc3dQ3Fpj9XKafiNwCGPzo4saraUUmZl)
 
 ### 部落當地
 
@@ -333,6 +335,7 @@ https://pol.is/report/r89seayfre3aha6vybrav) [target=_blank]
 * <a href="https://www.facebook.com/flippingGEO/posts/pfbid02Qsez7duMc6AWqqgpPA5U1wsfRgD8B1Wc1Rkx3wVy2CdeGvzWd2xth21aSXuKbnArl" target="_blank">翻轉地理教室/臉書</a> ：堰塞湖科普，及台灣堰塞湖資訊
 * 地區環境變遷歷程梳理：[1898 年、1924 年、1962 年馬太鞍沖積扇環境地貌回顧](https://www.facebook.com/theericel/posts/pfbid03eeDnZdRetjpfzDWJ9h4qNsDPEqZ4yPPLrv3rX6B55Ni5jmNCBzi2dfvGcQwioDNl)、[舊河道指認](https://www.facebook.com/snowram/posts/pfbid021J24zZv6zTGnZzL4rhNRPKemhf3igzc9GdGJSEue2eLvyqSwAqXocMRaCXsyuLCVl)
 * [司法救濟倡議](https://www.facebook.com/kjtsay/posts/pfbid02kRodiX2MvWdKQhL4TYfKKgGgHNDqdf8PVgU5kASDSepjNLCC7oXbbNCnxUBmzN6Pl)
+* [部落復原重建倡議](https://g0v.hackmd.io/i3H7DBfgTM27eFHLhjsA1A?view)
 
 ### 媒體報導
 * <a href="https://www.cna.com.tw/news/aipl/202509240263.aspx" target="_blank">中央社報導</a>：劉世芳2週前委託監控馬太鞍溪堰塞湖　李鴻源：若沒做傷亡難想像
