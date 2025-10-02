@@ -17,8 +17,10 @@
 
 ### 議題
 
-- [審議會的支持功能](/IpIg65ASR8iC_bkAj9zQTA)
-- [組課平台](/AIzLCAYLRQa0IuM0EsuOPQ)
+- [審議會的支持功能相關](/IpIg65ASR8iC_bkAj9zQTA)
+- [有些實驗教育機構掛羊頭賣狗肉](/Nsg89ynLSsSDidVeDvrHOg)
+- [國中小非學校實驗教育無政府經費支持](/szI49vrkRQSBHeMVIiZTtA)
+- [組課平台相關](/AIzLCAYLRQa0IuM0EsuOPQ)
 
 
 
