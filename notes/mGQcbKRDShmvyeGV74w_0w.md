@@ -52,8 +52,8 @@ We want to discuss measures for both governmental and civil department, that can
 ---
 
 ## 數位韌性情境分級
-- [數位韌性情境分級(wip)](https://g0v.hackmd.io/SYTBWVohTyuCgPGUqfAl9g)
-- [重要數位服務韌性檢測及其替代品](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A)
+- [數位韌性情境分級(wip)](https://g0v.hackmd.io/SYTBWVohTyuCgPGUqfAl9g?view)
+- [重要數位服務韌性檢測及其替代品](https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A?view)
 
 ## 通訊
 - [g0mesh](/_WnRRY4sRZOIBxgAMpz1-w)
