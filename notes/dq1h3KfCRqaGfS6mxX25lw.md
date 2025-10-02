@@ -59,6 +59,12 @@ Contributing content **means that you agree to waive your copyright and release 
 * [水電修繕志工 Google 表單連結（技師用）](https://forms.gle/Xx2pbSzztQTK3YsS9) [target=_blank] 
     * 轉貼自 LINE 群組「光復救災水電修繕小組（全台民間自發）」的 記事本
 
+## 意見徵集
+
+* [Polis意見徵集](https://pol.is/4fxd6ehrfj) [target=_blank]
+* [即時結果報告](
+https://pol.is/report/r89seayfre3aha6vybrav) [target=_blank]
+
 ## 馬太鞍天氣預報
 
 * [原鄉部落 - 馬太鞍 | 交通部中央氣象署<br><small>日出時間： 05:46 日落時間：17:43</small>](https://www.cwa.gov.tw/V8/C/L/Tribes/Tribes.html?PID=012-1001507A02) [target=_blank]
