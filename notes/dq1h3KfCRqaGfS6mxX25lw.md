@@ -50,13 +50,6 @@ Contributing content **means that you agree to waive your copyright and release 
 * [QSearch 彙整災害救援資訊](https://www.qsearch.cc/disaster/) [target=_blank]
     * AI自動彙整，請自行確認資訊正確性
 
-## 意見徵集
-
-* 花蓮救災爭議之後：未來台灣救災程序與資訊流通如何改進？——公民意見徵集 --- [name=vTaiwan] 
-    * [Polis意見徵集](https://pol.is/4fxd6ehrfj) [target=_blank]
-    * [即時結果報告](
-    https://pol.is/report/r89seayfre3aha6vybrav) [target=_blank]
-
 ## 馬太鞍天氣預報
 
 * [原鄉部落 - 馬太鞍 | 交通部中央氣象署<br><small>日出時間： 05:47 日落時間：17:40</small>](https://www.cwa.gov.tw/V8/C/L/Tribes/Tribes.html?PID=012-1001507A02) [target=_blank]
@@ -77,11 +70,11 @@ Contributing content **means that you agree to waive your copyright and release 
     * [發起人 Facebook 貼文](https://www.facebook.com/share/p/1BcgMUgPyY/)
 * [🗺️ 救災資源整合地圖<br><small>避難所/物資站/災區內志工住宿、需志工協助區域(自備救援工具)、交通管制資訊、醫療站、幼兒物資、心理健康服務、臨時供水站/洗手間、返鄉青年&志工住宿、物資接收轉運站(接受捐贈中)、急需人手-阿多莫部落<br>--- 俞凱倫</small>](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)
     * [發起人 Facebook 貼文](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
-    * [回報表單（👉10/3 新增『人力』與『物資』需求媒合網）](https://forms.gle/2o3bW4DrHmmEGwPJ8)
+    * [回報表單 👉10/3 新增『人力』與『物資』需求媒合網](https://forms.gle/2o3bW4DrHmmEGwPJ8)
 
 * [🗺️流動廁所分布地圖<br><small> --- 昭昭</small>](https://www.google.com/maps/d/u/0/viewer?mid=1hvkIGwDBe9ehupEHxY6KzVSTuLWsGfU&ll=23.669659711573825%2C121.44137006173119&z=15) [target=_blank]
 * [光復救災小蜜蜂](https://gf-bee.ngrok.app/available)[target=_blank] --- ???
-* [Dashboard](https://hualien-help.base44.app/DisasterRelief)[target=_blank] --- [name=Christina Cheng] [link](https://www.threads.com/@christinacheng01/post/DPLJI8uCarN)[target=_blank]
+
 * [:speaking_head_in_silhouette: 志工可能會用到的阿美語<br><small> --- amisitokay 錄製</small>](https://portaly.cc/amisitokay/pages/fataan) [target=_blank]
     * [amisitokay 的 threads](https://www.threads.com/@amisitokay/post/DPGDvJbEXdD?xmt=AQF0Drg5eOcpp0G1fF6HdNvjBp1BZRgFAGBPQRWkYwkZbw&slof=1) [target=_blank]
 * [:speaking_head_in_silhouette: 志工可能會用到的阿美語<br><small> --- langodlin 錄製</small>](https://drive.google.com/drive/folders/1zNkjHPAcuhqOhk_9Y4HGTbh8k6CAI1Hn) [target=_blank]
@@ -302,6 +295,12 @@ Contributing content **means that you agree to waive your copyright and release 
 * [🖥️農村水保署_BigGIS圖台](https://gis.ardswc.gov.tw/map/)`<開設馬太鞍堰塞湖專區，除匯入2025/9/25 最新的災後航照影像及Pleiades衛星影像，亦整合地址、地籍圖等資料>`
 *  <a href="https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83" target="_blank">中央災害應變中心</a>：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
 
+## 意見徵集
+
+* 花蓮救災爭議之後：未來台灣救災程序與資訊流通如何改進？——公民意見徵集 --- [name=vTaiwan] 
+    * [Polis意見徵集](https://pol.is/4fxd6ehrfj) [target=_blank]
+    * [即時結果報告](    https://pol.is/report/r89seayfre3aha6vybrav) [target=_blank]
+
 
 ---
 ## 💡 舊平台 Backup
@@ -323,6 +322,8 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ### 已無即時資訊
 * [💻 Fata’an部落網絡急救小組 (9/25已停止更新)](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing) [target=_blank] `<待搜救、收容名單、民間提供災民住宿清單>`
+
+* [花蓮颱風救援儀表板儀錶板](https://hualien-help.base44.app/DisasterRelief)[target=_blank] --- [name=Christina Cheng] [link](https://www.threads.com/@christinacheng01/post/DPLJI8uCarN)[target=_blank]
 
 * [🪏 鏟子英雄-花蓮颱風救援隊接<br><small>(志工與物資媒合，使用 Google 登入。)</br>--- 郭亭妍 Tanya-小妍 | 鏟子英雄</small>](https://shovel-heroes.com/) [target=_blank]
     * [Discord](https://discord.com/channels/1421342926801469675/1421342927367438411) [target=_blank]
