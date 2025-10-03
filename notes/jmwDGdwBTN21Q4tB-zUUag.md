@@ -23,7 +23,7 @@
     * [2025/10/01 停止更新](https://www.threads.com/@guangfu._assistance.info/post/DPRbhYykn9d)
 * [鏟子英雄](https://shovel-heroes.com/)
     * [開發者](https://www.threads.com/@tanya.kuo/post/DPPxhTJEqhW)
-    * [Github](https://github.com/tanyakuo/shovel-heroes)
+    * [Github](https://github.com/shovel-heroes-org/shovel-heroes)
     * [操作介紹](https://youtu.be/mxBT1B2x3as)
 > [name=pichuchen] 故事是這一樣，鏟英那邊東西有做起來，本來是要和光復資訊接，但是鏟英那邊只有他一個人(真的很猛)，所以不完全能接住光復志工這邊的需求，鏟英一開始有Google Login，後來因為實際測試發現壞掉了(在Discord會議視訊會議時發生的慘案)，所以後來判斷就拿掉吧，因為一開始在Google Sheet 上的資料基本上也是全公開，實際上註冊應該是過base44.app就是了
 * [光復防災 FAQ](https://guangfufaq.vercel.app/)
