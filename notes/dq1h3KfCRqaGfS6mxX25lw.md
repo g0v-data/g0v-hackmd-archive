@@ -38,7 +38,7 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ## 災民需求 X 志工前往（‼️[救災行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️ ）
 
-*  [🪏 光復救災資訊整合網<br><small> --- 林于立@g0v後勤中心分享</small>](https://sites.google.com/view/guangfu250923) [target=_blank]
+* [🪏 光復救災資訊整合網<br><small> --- 林于立@g0v後勤中心分享</small>](https://sites.google.com/view/guangfu250923) [target=_blank]
     * [Facebook 社團貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/) [target=_blank]
     * 志工行前須知、必備物品、需要協助區域、志工line群、物資媒合、人力媒合等
 * [🪏 花蓮光復鄉-救災志工/物資募集資訊總表 <br><small> --- audery1011</small>](https://reurl.cc/QaqLKZ) [target=_blank]
@@ -81,7 +81,7 @@ Contributing content **means that you agree to waive your copyright and release 
     *  [加入g0v slack可進行討論](https://g0v-tw.slack.com/join/shared_invite/zt-3bkxxa67k-okdoIWoZkGbX4q~U3C_cNA#/shared-invite/email) [target=_blank]
 * [💻 光復救災資訊整合網<br><small>👉可直接共編，點擊網頁上方的🖋開始進行編輯<br> --- 林于立@g0v後勤中心分享</small>](https://sites.google.com/view/guangfu250923) [target=_blank]
     * [Facebook 貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/) [target=_blank]
- * [💻 花蓮光復鄉-救災物資募集資訊總表<br><small>（多個分頁，包含各單位資訊，與需求物資、志工及募款更新）<br> 👉9/27更新：已開放全面共編<br> --- audery1011發起編輯</small>](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?usp=sharing)
+ * [💻 花蓮光復鄉-救災物資募集資訊總表<br><small>（已停止更新）<br> 👉9/27更新：已開放全面共編<br> --- audery1011發起編輯</small>](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?usp=sharing)
      * [發起人 Threads 頁面](https://www.threads.com/@audery1011) [target=_blank]
 * [💻 民間資訊團 Line 社群<br><small>拼車、接駁、網路及現場資訊整合</small>](https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA)
 * [💻 Fata’an部落網絡急救小組 (更新較不即時)](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing) [target=_blank] `<待搜救、收容名單、民間提供災民住宿清單>` 
@@ -316,6 +316,9 @@ Contributing content **means that you agree to waive your copyright and release 
 * [花蓮馬太鞍溪堰塞湖災害救援懶人包](https://hackmd.io/@DPPinfo/H1jdGQM2eg#0923-%E8%8A%B1%E8%93%AE%E9%A6%AC%E5%A4%AA%E9%9E%8D%E6%BA%AA%E5%A0%B0%E5%A1%9E%E6%B9%96%E7%81%BD%E5%AE%B3%E6%95%91%E6%8F%B4%E6%87%B6%E4%BA%BA%E5%8C%85)`<彙整官方、民進黨資訊>`
 * [🖥️農村水保署_BigGIS圖台](https://gis.ardswc.gov.tw/map/)`<開設馬太鞍堰塞湖專區，除匯入2025/9/25 最新的災後航照影像及Pleiades衛星影像，亦整合地址、地籍圖等資料>`
 *  <a href="https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83" target="_blank">中央災害應變中心</a>：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
+---
+
+
 
 ---
 
