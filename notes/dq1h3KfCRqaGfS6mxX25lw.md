@@ -72,7 +72,6 @@ Contributing content **means that you agree to waive your copyright and release 
     * [回報表單 👉10/3 新增『人力』與『物資』需求媒合網](https://forms.gle/2o3bW4DrHmmEGwPJ8)
 
 * [🗺️流動廁所分布地圖<br><small> --- 昭昭</small>](https://www.google.com/maps/d/u/0/viewer?mid=1hvkIGwDBe9ehupEHxY6KzVSTuLWsGfU&ll=23.669659711573825%2C121.44137006173119&z=15) [target=_blank]
-* [光復救災小蜜蜂](https://gf-bee.ngrok.app/available)[target=_blank] --- ???
 
 * [:speaking_head_in_silhouette: 志工可能會用到的阿美語<br><small> --- amisitokay 錄製</small>](https://portaly.cc/amisitokay/pages/fataan) [target=_blank]
     * [amisitokay 的 threads](https://www.threads.com/@amisitokay/post/DPGDvJbEXdD?xmt=AQF0Drg5eOcpp0G1fF6HdNvjBp1BZRgFAGBPQRWkYwkZbw&slof=1) [target=_blank]
@@ -191,9 +190,10 @@ Contributing content **means that you agree to waive your copyright and release 
 
 * [花蓮縣卓溪鄉新女力公益協會](https://www.facebook.com/share/p/1D11YJx7KK/) [target=_blank]
 * [光復災區需求回報Line社群](https://line.me/ti/g2/sB3ozsYjzDffc2AZ_QIBQCRtBdXhOSFW26zszw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default&fbclid=IwY2xjawNDXGhleHRuA2FlbQIxMABicmlkETFHN0JuSUVudzA1RW5UZjUzAR5QuPztYuxUug0v6dPzEwDjilVzT0IGFzAFSecOQWnLVPbFnR3rGSh8NaEfiQ_aem__ttEPx6npUe_WiWjUNaZXA) [target=_blank]
+* [光復救災小蜜蜂](https://gf-bee.ngrok.app/available)
 * [災戶清志工運需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform) [target=_blank]　`<花蓮縣議員楊美華發起的媒合>`
-* [需要小幫手](https://www.facebook.com/share/p/1Cs9zcNw7o/) [target=_blank]
-* [災後需求登記表](https://docs.google.com/forms/d/e/1FAIpQLSfSCPx7hX0Na7sPbUfucjKSCqttAH0lug2QBK3OARdE5nGlew/viewform?fbclid=IwY2xjawNDamZleHRuA2FlbQIxMABicmlkETFnYzBoaE9ybDVUMGVhU0JUAR7i7llPhQzD5GiSkMEVsrS05eVWtNg_MyIv74NPUErhoowzxVOailKd_Uyr4A_aem_0Hh9PyoHDXPKhUM9s8JjWA) [target=_blank] `<De-Jounge Tseng 發起製作>`
+* [災後需求登記表](https://www.facebook.com/share/p/1Cs9zcNw7o/) [target=_blank]`<10/1 停止更新，改由以花蓮光復救災地圖回報>`
+
 
 
 ### 救助金、慰問金
