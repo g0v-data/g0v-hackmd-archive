@@ -53,3 +53,10 @@
     * [作者](https://www.facebook.com/yuyenchanghua/posts/pfbid0hKAztzsVWUGj7KWCZpjY76CqiC77Z6baaS3ANRvS5kmDPZ8pKYgKVPA3eMkH9eTWl)
 
 > [name=yuyenchanghua] 很多時候，不是沒有人願意幫忙，而是一些偏僻、狹窄小巷裡的住戶，無人知曉他們需要支援。因此，我和幾位夥伴沿路拿紙筆紀錄狀況，並製作了一份「花蓮光復鄉家戶受災情形」，希望能夠提供志工參考，快速掌握各家戶的需求狀況。
+
+* [guangfu250923-map](https://guangfu250923-map.pttapp.cc/map.html)
+  * [GitHub](https://github.com/Sam-nnnn/Hualian-Typhoon-Frontend-HTML)
+
+* [花蓮光復災損與失物招領地圖](https://tainan.olc.tw/p/guangfu250923_lost/)
+  * [Github](https://github.com/kiang/tainan.olc.tw/tree/master/docs/p/guangfu250923_lost)
+> [name=Howie] 馬太鞍溪堰塞湖事件造成許多人的家園被沙土掩埋，現在又遇到一個難題，各種財產損失申報行政程序中，會要求救災前、中、後的照片、報損車子需要車牌等等，導致許多程序因此卡住，因此希望透過大家的力量一起找到這些照片或是遺失物
