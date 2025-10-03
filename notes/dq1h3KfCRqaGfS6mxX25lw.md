@@ -34,7 +34,6 @@ Contributing content **means that you agree to waive your copyright and release 
 * [ℹ️ 花蓮縣政府馬太鞍專區<br><small>--- *花蓮縣政府*</small>](https://www.hl.gov.tw/ysh/) [target=_blank]
     * 內有死亡失聯撤離收容名冊以及**交通管制公告**等
     * [花蓮縣政府臉書粉絲團](https://www.facebook.com/hlgov)[target=_blank]
-* [ℹ️ EMIC災情地圖<br><small> --- *江明宗 製作*</small>](https://tainan.olc.tw/p/emic/)
 
 ## 災民需求 X 志工前往（‼️[救災行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️ ）
 
@@ -82,28 +81,28 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ## 💪 人力 💪<br>⚠️注意自身安全、自備裝備，切勿造成災區負擔！
 
-* [⚠️請先閱讀支援災後清理工作的 注意事項](https://g0v.hackmd.io/@yitzu/rkBzt5Qheg)
+* [‼️請先閱讀支援災後清理工作的 注意事項](https://g0v.hackmd.io/@yitzu/rkBzt5Qheg)
 * [接駁車資訊](https://docs.google.com/spreadsheets/d/1YAKX2_FK4yWojReU6kwI16tVAEyJ0BxU/edit?gid=1603419519#gid=1603419519)`交通部`
 * [物理治療師ZM<br>如何使用圓鍬更順手](https://www.threads.com/@zm_health_fitness/post/DPGjRv6EsLB?xmt=AQF0mtw4TncghOPHrQh_bLaiCTuvZP1-_aalZ6ADrM34wA&slof=1) [target=_blank]
 
 ### 官方成立與資訊總表
 
 * [行政院中央前進協調所](https://www.facebook.com/moea.gov.tw/posts/pfbid02tZoxmDMCVs8g6vDoBxPXsZ5BCSmvbFbwXrswJhHkKPf7XeFGXxykhMhWgEsLQ5bJl) [target=_blank] `👉未加入其他組織請參考`
-    * [馬太鞍鏟子超人志工群](https://line.me/ti/g2/fbzCCdqkrqolFPvNsOLwUSA9WOaq2VVrdzODug?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)[target=_blank] --- 前進協調所
-* [花蓮光復鄉-救災物資募集資訊總表](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?gid=174046522#gid=174046522) [target=_blank]`👉內有各大型團隊報名資訊`
+* [馬太鞍鏟子超人志工群](https://line.me/ti/g2/fbzCCdqkrqolFPvNsOLwUSA9WOaq2VVrdzODug?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)[target=_blank] --- 前進協調所
+
 
 ### 各組織資訊
 
-* [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform) [target=_blank]　`花蓮縣議員楊華美發起的媒合`
-* [慈濟志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) [target=_blank]`資訊來源 https://www.facebook.com/watch?v=1253051549925969`
-* [慈濟清掃動員 Line 社群](https://line.me/ti/g2/gNNwamqenP9lV5jJHFVvIC2SYJOWrPbwJNMLXA) [target=_blank]
-    * [慈濟清掃動員 第二群](https://line.me/ti/g2/FHyunbFvM3MK98DkLTEd3KfQea2in4Y5XnjDBA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default) [target=_blank]`人數眾多，請先看筆記本!!`
+* [清運志工招募＋災戶需求填表 --- 花蓮縣議員楊華美發起的媒合](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform) [target=_blank] <br>*[<10/3暫停媒合>](https://www.facebook.com/share/p/1MFxvkanjC/)*
+
+* [慈濟志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) [target=_blank]*`<9/30 停止招募>`*
     * [鏟子超人行動指南](https://sites.google.com/view/guangfugogo/)[target=_blank] --- [name=慈濟鏟子超人幕後團隊]
-* [花蓮縣卓溪鄉新女力公益協會 新公告](https://www.facebook.com/share/p/176MQ86gJg/) [target=_blank]
-* [花蓮縣議員 志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform) [target=_blank]
-* [法鼓山花蓮精舍 清淤志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSdfVDDNyRwhJWMxnj-0YdzKdvhybRLuq3JF_xap4j9sk4yykg/viewform) [target=_blank] 
-* [中華基督教救助協會 清淤志工填表](https://docs.google.com/forms/d/e/1FAIpQLSd-bWszIOn3YJJUh8dt0f8eRXOf5OPtRIXTz2fSfESnf0fZng/viewform) [target=_blank] 
-* [10/01-10/10 黑熊學院 災後復原志工意願登記表](https://hqt6bch6.r.ap-northeast-1.awstrack.me/L0/https:%2F%2Fforms.gle%2FtsiSNPTFhAhRQXRq9/1/0106019986b8d1d8-b8a4fa45-3392-4aca-892c-75b21ece4a4f-000000/y9xViOz4Nnl8G0FjZEcn3-oCMks=230) [target=_blank] `這份表單是「第一階段」的意願登記，當地方有具體需求、會在 Line 群進行下一步的安排` 
+* [花蓮縣卓溪鄉新女力公益協會](https://www.facebook.com/share/p/1CtZ896nVq/) [target=_blank]
+    * [10/3~12 第二階段志工招募（物資組）](https://docs.google.com/forms/d/e/1FAIpQLSdKpgJMQRC0jLUmp2nGhpF4GL_ALesXjsgI6igzQ0f3QEt_SA/viewform)
+* [花蓮縣議員 志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform) [target=_blank] *`<已停止招募>`*
+* [法鼓山花蓮精舍 --- 10/4~5 打掃志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSdfVDDNyRwhJWMxnj-0YdzKdvhybRLuq3JF_xap4j9sk4yykg/viewform) [target=_blank] 
+* [中華基督教救助協會 --- 10/1起僅徵求大於10人團隊志工](https://docs.google.com/forms/d/e/1FAIpQLSd-bWszIOn3YJJUh8dt0f8eRXOf5OPtRIXTz2fSfESnf0fZng/viewform) [target=_blank] 
+* [10/01-10/10 黑熊學院 災後復原志工意願登記表](https://hqt6bch6.r.ap-northeast-1.awstrack.me/L0/https:%2F%2Fforms.gle%2FtsiSNPTFhAhRQXRq9/1/0106019986b8d1d8-b8a4fa45-3392-4aca-892c-75b21ece4a4f-000000/y9xViOz4Nnl8G0FjZEcn3-oCMks=230) [target=_blank] `<停止召募>` 
 * [9/29-9/30 壯闊台灣 災後復原志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform) [target=_blank]
 * [基督教芥菜種會 社區老師/陪伴老師-參與意願調查](https://forms.gle/VS72bm7ucvXvv3ji9)
 * [小光故事屋（光復鄉孩子的秘密基地）招募陪伴志工](https://www.facebook.com/jovi.wu/posts/pfbid02N9xh8a6uGy6HgFSBt769bZuggdRVo8rtjpc3dQ3Fpj9XKafiNwCGPzo4saraUUmZl)
@@ -161,6 +160,7 @@ Contributing content **means that you agree to waive your copyright and release 
 ---
 
 ## 📢 狀況回報
+* [ℹ️ EMIC災情地圖<br><small> --- *江明宗 製作*</small>](https://tainan.olc.tw/p/emic/)
 
 *  [ℹ️ 馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake) [target=_blank]`農業部林業及自然保育署`
     * 目前災區仍有風險，請注意自身安全
