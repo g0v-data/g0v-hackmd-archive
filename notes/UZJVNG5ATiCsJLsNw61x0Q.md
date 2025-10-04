@@ -8,7 +8,7 @@
 
 This island nation has pioneered a unique, bottom-up approach where highly proactive civic tech communities—such as g0v and Cofacts—collaborate directly with the government to shape digital policy and enhance public services. This approach not only strengthens democratic participation and transparency but also offers a vital framework for safeguarding digital rights and responding to complex global challenges.
 
-## [Who is the Digital Democracy Team (TW)?](https://g0v.hackmd.io/@ichieh/rJlEK8C3xg)
+### [Who is the Digital Democracy Team (TW)?](https://g0v.hackmd.io/@ichieh/rJlEK8C3xg)
 
 ## What We Do: Civic Tech and Open Government
 
@@ -35,6 +35,6 @@ Civic tech refers to the use of technology by citizens, civil society, and gover
 
 This handbook serves as a living guide and reference for anyone interested in civic tech, open governance, and collaborative innovation. It captures lessons, methodologies, and case studies from g0v’s many experiments and projects. Whether you’re a citizen, public servant, technologist, or curious newcomer, this handbook helps you understand how civic tech operates in practice—and offers actionable ideas you can adapt to your own context. Dive in to explore how technology, community, and governance can come together to empower civic participation and build more open societies.
 
-## More you should know
+## More you should know....
 Explore how East Asia’s civic tech communities in Taiwan, Japan, and South Korea are reshaping digital governance and strengthening democracy. [This study in 2024](https://drive.google.com/file/d/1qqTHSBa4MseM6iA0Z8AltkYIwsacWKjI/view?usp=drive_link) by Digital Democracy Team combines fieldwork and interviews to show how citizen-driven innovation is influencing policy, participation, and public-private collaboration.
 
