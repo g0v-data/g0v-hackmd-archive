@@ -54,7 +54,7 @@ description: 本平台非政府官方所設，所有內容僅供參考，歡迎�
     * 個人藥物&醫藥防護包：個人常備藥、創傷處置(新黴素軟膏、紗布、3M 防水貼、網狀繃帶、醫用膠帶、生理食鹽水)、棉花棒、OK繃`（泥土內多尖銳物，割傷照護）`
     * 緩解肌肉疲勞的用品
 
-以上彙整自 [花蓮光復鄉-救災物資募集資訊總表「志工指南」](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?gid=1576860409#gid=1576860409)
+-- -- 以上彙整自 [花蓮光復鄉-救災物資募集資訊總表「志工指南」](https://docs.google.com/spreadsheets/d/1-3ULX-Kadj-E_e-Wdr6OLrZDg-4TcLAAbE63U2rndDk/edit?gid=1576860409#gid=1576860409)
 
 ### 物資整理工具：
 * 剪刀、美工刀
