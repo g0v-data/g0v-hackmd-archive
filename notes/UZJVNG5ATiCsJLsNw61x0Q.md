@@ -2,13 +2,16 @@
 
 ![](https://g0v.hackmd.io/_uploads/SyexQtB02lg.png)
 
-- [Homepage](https://g0v.hackmd.io/@ichieh/rkvol98olx)
+[TOC]
 
 **Taiwan has cemented its status as a global exemplar of digital governance and a living laboratory for civic technology.**
 
 This island nation has pioneered a unique, bottom-up approach where highly proactive civic tech communities—such as g0v and Cofacts—collaborate directly with the government to shape digital policy and enhance public services. This approach not only strengthens democratic participation and transparency but also offers a vital framework for safeguarding digital rights and responding to complex global challenges.
 
-### [Who is the Digital Democracy Team (TW)?](https://g0v.hackmd.io/@ichieh/rJlEK8C3xg)
+## Who is the Digital Democracy Team (TW)?
+The Digital Democracy Team is a working group formed by contributors from Taiwan’s civic tech community "[g0v](https://g0v.tw/intl/en/)" (gov-zero) together with diverse partners committed to open source, open data, and open government.
+Besides core contributors from g0v, the Digital Democracy Team is supported by Wikimedia Taiwan, which sustains our operations, and works closely with advisors from journalism, open technology organizations, and civil society groups that monitor city councils and advocate for transparency.
+Bringing these communities together, the Digital Democracy Team acts as a collaborative hub to advance civic technology and strengthen **democratic participation in Taiwan and across the region, especially East Asia.**
 
 ## What We Do: Civic Tech and Open Government
 
