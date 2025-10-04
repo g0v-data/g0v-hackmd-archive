@@ -18,7 +18,7 @@ Contributing content **means that you agree to waive your copyright and release 
 :::
 
 * [🏠︎首頁 Homepage](https://g0v.hackmd.io/@yitzu/Fata-an_BarrierLake)  
-  <small>（短網址：https://bit.ly/g0v_fataan)</small>
+  <small>（短網址：[`s.g0v.tw/fataan`](s.g0v.tw/fataan))</small>
 * [🔗跨網站對接平台](https://beta.hackfoldr.org/hualien) [target=_blank]
 
 
@@ -48,6 +48,9 @@ Contributing content **means that you agree to waive your copyright and release 
 
 * [QSearch 彙整災害救援資訊](https://www.qsearch.cc/disaster/) [target=_blank]
     * AI自動彙整，請自行確認資訊正確性
+
+* [光復救災小蜜蜂](https://gf-bee.ngrok.app/available) --- ???
+
 
 ## 馬太鞍天氣預報
 
