@@ -38,13 +38,15 @@ Contributing content **means that you agree to waive your copyright and release 
 ## 災民需求 X 志工前往（‼️[救災行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️ ）
 
 * [🪏 光復救災資訊整合網<br><small> --- 林于立@g0v後勤中心分享</small>](https://sites.google.com/view/guangfu250923) [target=_blank]
+    * [光復救災資訊整合-遠端志工群 Discord](https://discord.gg/CzVxptZP) 
     * [Facebook 社團貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/) [target=_blank]
     * 志工行前須知、必備物品、需要協助區域、志工line群、物資媒合、人力媒合等
 
 * [🪏 救災資源整合地圖<br><small> --- 俞凱倫</small>](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) [target=_blank]
     * [發起人 Facebook 貼文](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
-    * [光復救災資訊整合-遠端志工群 Discord](https://discord.gg/CzVxptZP) [target=_blank]
-    * [新資訊請填寫回報表單！<br>`<9/27 18:48 更新>`](https://forms.gle/2o3bW4DrHmmEGwPJ8) [target=_blank]
+    [target=_blank]
+    * 全人工更新
+    * [新資訊請填寫回報表單！<br>`<10/05 12:28 已關閉>`](https://forms.gle/2o3bW4DrHmmEGwPJ8) [target=_blank]
 
 * [QSearch 彙整災害救援資訊](https://www.qsearch.cc/disaster/) [target=_blank]
     * AI自動彙整，請自行確認資訊正確性
