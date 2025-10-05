@@ -56,8 +56,8 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ## 馬太鞍天氣預報
 
-* [原鄉部落 - 馬太鞍 | 交通部中央氣象署<br><small>日出時間： 05:47 日落時間：17:40</small>](https://www.cwa.gov.tw/V8/C/L/Tribes/Tribes.html?PID=012-1001507A02) [target=_blank]
-* ![](https://g0v.hackmd.io/_uploads/B1gnw6X2nll.png)
+* [原鄉部落 - 馬太鞍 | 交通部中央氣象署<br><small>日出時間： 05:48 日落時間：17:38</small>](https://www.cwa.gov.tw/V8/C/L/Tribes/Tribes.html?PID=012-1001507A02) [target=_blank]
+* ![](https://g0v.hackmd.io/_uploads/rk47Bokpxl.png)
 10/06 星期一也是假日。
     * [請注意訂購回程車票](https://www.railway.gov.tw/tra-tip-web/tip/tip001/tip123/query) [target=_blank]
 
@@ -69,12 +69,13 @@ Contributing content **means that you agree to waive your copyright and release 
     *  [加入g0v slack #hulien頻道 可進行討論](https://g0v-tw.slack.com/join/shared_invite/zt-3bkxxa67k-okdoIWoZkGbX4q~U3C_cNA#/shared-invite/email) [target=_blank]
 * [💻 光復救災資訊整合網<br><small>👉可直接共編，點擊網頁上方的🖋開始進行編輯<br> --- 林于立@g0v後勤中心分享</small>](https://sites.google.com/view/guangfu250923) [target=_blank]
     * [Facebook 貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/) [target=_blank]
+    * [回報表單 👉10/3 新增『人力』與『物資』需求媒合網 (10/05 15:57 關閉中)](https://forms.gle/2o3bW4DrHmmEGwPJ8)
  
 * [🗺️ 花蓮光復救災地圖<br><small>（需要志工、需要物資、提供洗澡、提供住宿）<br>👉直接定位並點選地圖「填寫救災資訊表單」，回報<br>---江明宗</small>](https://tainan.olc.tw/p/guangfu250923/)
     * [發起人 Facebook 貼文](https://www.facebook.com/share/p/1BcgMUgPyY/)
 * [🗺️ 救災資源整合地圖<br><small>避難所/物資站/災區內志工住宿、需志工協助區域(自備救援工具)、交通管制資訊、醫療站、幼兒物資、心理健康服務、臨時供水站/洗手間、返鄉青年&志工住宿、物資接收轉運站(接受捐贈中)、急需人手-阿多莫部落<br>--- 俞凱倫</small>](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)
     * [發起人 Facebook 貼文](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
-    * [回報表單 👉10/3 新增『人力』與『物資』需求媒合網](https://forms.gle/2o3bW4DrHmmEGwPJ8)
+    
 
 * [🗺️流動廁所分布地圖<br><small> --- 昭昭</small>](https://www.google.com/maps/d/u/0/viewer?mid=1hvkIGwDBe9ehupEHxY6KzVSTuLWsGfU&ll=23.669659711573825%2C121.44137006173119&z=15) [target=_blank]
 
