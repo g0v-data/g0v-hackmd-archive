@@ -38,7 +38,7 @@ Contributing content **means that you agree to waive your copyright and release 
 ## 災民需求 X 志工前往（‼️[救災行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️ ）
 
 * [🪏 光復救災資訊整合網<br><small> --- 林于立@g0v後勤中心分享</small>](https://sites.google.com/view/guangfu250923) [target=_blank]
-    * [光復救災資訊整合-遠端志工群 Discord](https://discord.gg/CzVxptZP) 
+    * [光復救災資訊整合-遠端志工群 Discord](https://discord.gg/NddqmheZ) 
     * [Facebook 社團貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/) [target=_blank]
     * 志工行前須知、必備物品、需要協助區域、志工line群、物資媒合、人力媒合等
 

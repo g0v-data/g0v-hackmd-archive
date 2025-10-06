@@ -158,7 +158,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 重要 照片 1956 新生南路三段,海源冰店 便橋 https://m.mobile01.com/topicdetail.php?f=37&t=5053330
     - 新生北路 房舍 https://www.facebook.com/share/p/a6UWsAvP8GJV3tk3/
     - 照片 1957 基隆河與松山機場 https://www.facebook.com/photo?fbid=10156351515638618
-    - 照片
+    - 照片 1975 仁愛保齡球館 https://www.facebook.com/share/p/17TDFt4Xwf/?mibextid=wwXIfr
     - 畫作 1985 顏水龍 基隆河畔 https://www.facebook.com/story.php?story_fbid=pfbid035synKUXtaaWfMzzndPsaVf75jUfdsbQDHzfwnEvd9hN66SBy6HUzrrhH4H8SNV2Yl&id=747873617
     - 1957-1958 影片 2:40、3:02、 https://youtu.be/D1-d3Pr8Teo
     - 1957 中山北路與新生北路與圓山，照片 0:52 秒 https://youtu.be/vZ9pms6ND2M
