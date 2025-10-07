@@ -94,6 +94,7 @@ Contributing content **means that you agree to waive your copyright and release 
 
 * [行政院中央前進協調所](https://www.facebook.com/moea.gov.tw/posts/pfbid02tZoxmDMCVs8g6vDoBxPXsZ5BCSmvbFbwXrswJhHkKPf7XeFGXxykhMhWgEsLQ5bJl) [target=_blank] `👉未加入其他組織請參考`
     * [馬太鞍鏟子超人志工群](https://line.me/ti/g2/fbzCCdqkrqolFPvNsOLwUSA9WOaq2VVrdzODug?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)[target=_blank] --- 前進協調所
+*   <a href="https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83" target="_blank">中央災害應變中心</a>：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
 
 
 ### 各組織資訊
@@ -295,7 +296,7 @@ Contributing content **means that you agree to waive your copyright and release 
 
 * [花蓮馬太鞍溪堰塞湖災害救援懶人包](https://hackmd.io/@DPPinfo/H1jdGQM2eg#0923-%E8%8A%B1%E8%93%AE%E9%A6%AC%E5%A4%AA%E9%9E%8D%E6%BA%AA%E5%A0%B0%E5%A1%9E%E6%B9%96%E7%81%BD%E5%AE%B3%E6%95%91%E6%8F%B4%E6%87%B6%E4%BA%BA%E5%8C%85)`<彙整官方、民進黨資訊>`
 * [🖥️農村水保署_BigGIS圖台](https://gis.ardswc.gov.tw/map/)`<開設馬太鞍堰塞湖專區，除匯入2025/9/25 最新的災後航照影像及Pleiades衛星影像，亦整合地址、地籍圖等資料>`
-*  <a href="https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83" target="_blank">中央災害應變中心</a>：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
+
 
 ## 意見徵集
 

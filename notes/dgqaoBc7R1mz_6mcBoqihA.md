@@ -8,6 +8,7 @@ tags: vTaiwan
 參與者 Participants：
 線上參與連結 Online Participation Link: https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
+活動報名連結：https://luma.com/jfwmy23l 
 
 
 ::: success
@@ -38,3 +39,19 @@ tags: vTaiwan
 :::
 
 ## 活動介紹與緣起 Introduction of the event 
+### vTaiwan 社群介紹 Introduction of vTaiwan 
+- vTaiwan 社群目前由一群熱衷於探索與研究數位工具應用於大規模政策參與的志願者共同營運，其前身為台灣政府與 g0v 零時政府合作的公民科技專案，曾經利用數位工具完成多次大規模的公眾參與。後來因為疫情與其他因素專案曾經沉寂，不過在 2023 年社群成功參與 OpenAI 的 Democratic Input to AI 計畫，重新恢復活動。現在的 vTaiwan 社群持續與 NGO 合作，透過數位工具的應用，結合審議民主討論，期待能夠找到新的審議討論與意見徵集方式。目前社群每週三晚上都會舉辦線上聚會，也會不定期舉辦實體活動。本次的實體活動便是其中一例。
+
+## 講者介紹 Speaker Info 
+### Carlo Michaelis from [Open Evocracy](https://openevocracy.org)
+- Carlo Michaelis 是 Open Evocracy 的創辦人與研究者，長期關注如何運用數位科技來強化民主治理。他的工作結合了 集體智慧（collective intelligence） 與 人工智慧（AI） 的研究，專注於設計能支撐 大規模審議式決策 的平台與工具，讓更多公民能以更公平、透明且具包容性的方式參與公共議題。他也曾與政府、非營利組織與學術社群合作，推動跨國與跨領域的民主創新實驗，持續探索科技如何協助社會在快速變動的時代中作出更有韌性的決策。
+- Carlo Michaelis is the founder and researcher behind Open Evocracy, with a long-standing focus on leveraging digital technologies to strengthen democratic governance. His work bridges collective intelligence and artificial intelligence, concentrating on the design of platforms and tools that enable large-scale deliberative decision making and broaden civic participation in fair, transparent, and inclusive ways. He has collaborated with governments, non-profits, and academic communities to advance cross-border and interdisciplinary democratic innovation, continually exploring how technology can help societies make more resilient decisions in a rapidly changing world.
+
+### Peter Cui from [vTaiwan](vtaiwan.tw)
+- Peter 目前擔任 vTaiwan 社群的社群協調人，長期投入於數位民主與公民科技的實踐。他與 vTaiwan 社群共同推動多場議題小聚與跨領域協作，致力於透過科技工具與開放討論，創造更廣泛與多元的公共參與。2023 年，他帶領 vTaiwan 獲得 OpenAI Democratic Input to AI 計畫的國際獎助金，開啟台灣首次聚焦人工智慧治理的跨利害關係人審議討論；2024 年起，他更與台灣網路資訊中心（TWNIC）合作，舉辦一系列結合 AI、網路治理與數位人權的 deliberation 活動。他同時也是多項國際合作計畫的參與者，持續推動台灣與國際社群在數位民主、AI 治理與公民參與上的交流與實驗。
+- Cui Jia Wei is the community coordinator of vTaiwan, actively engaged in digital democracy and civic technology initiatives. With the vTaiwan community, he has organized numerous issue-based meetups and cross-sector collaborations, leveraging digital tools and open dialogue to foster inclusive public participation. In 2023, he led vTaiwan to secure international support from the OpenAI Democratic Input to AI program, launching Taiwan’s first multi-stakeholder deliberation on AI governance. Since 2024, he has collaborated with the Taiwan Network Information Center (TWNIC) to host a series of deliberations on AI, internet governance, and digital rights. He also participates in international projects, advancing Taiwan’s role in global conversations on digital democracy, AI governance, and civic participation.
+
+## 分享內容
+
+
+## 討論 Discussion
