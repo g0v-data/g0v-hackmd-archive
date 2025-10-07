@@ -355,9 +355,11 @@ Contributing content **means that you agree to waive your copyright and release 
 * <a href="https://www.facebook.com/share/p/19U97Z5oR7/">海洋主廚 愛爾文/臉書</a>：9/24發文，光復現況圖說
 * <a href="https://www.facebook.com/share/v/1CxocKMaJc/">GeoLab空間資訊實驗室/臉書</a>：9/25發文，馬太鞍堰塞湖 災後衛星影像對比動畫
 * <a href="https://www.facebook.com/flippingGEO/posts/pfbid02Qsez7duMc6AWqqgpPA5U1wsfRgD8B1Wc1Rkx3wVy2CdeGvzWd2xth21aSXuKbnArl" target="_blank">翻轉地理教室/臉書</a> ：堰塞湖科普，及台灣堰塞湖資訊
-* 地區環境變遷歷程梳理：[1898 年、1924 年、1962 年馬太鞍沖積扇環境地貌回顧](https://www.facebook.com/theericel/posts/pfbid03eeDnZdRetjpfzDWJ9h4qNsDPEqZ4yPPLrv3rX6B55Ni5jmNCBzi2dfvGcQwioDNl)、[舊河道指認](https://www.facebook.com/snowram/posts/pfbid021J24zZv6zTGnZzL4rhNRPKemhf3igzc9GdGJSEue2eLvyqSwAqXocMRaCXsyuLCVl)
-* [司法救濟倡議](https://www.facebook.com/kjtsay/posts/pfbid02kRodiX2MvWdKQhL4TYfKKgGgHNDqdf8PVgU5kASDSepjNLCC7oXbbNCnxUBmzN6Pl)
+* [地區環境變遷歷程梳理 1898 年、1924 年、1962 年馬太鞍沖積扇環境地貌回顧](https://www.facebook.com/theericel/posts/pfbid03eeDnZdRetjpfzDWJ9h4qNsDPEqZ4yPPLrv3rX6B55Ni5jmNCBzi2dfvGcQwioDNl)[target=_blank]
+* [舊河道指認](https://www.facebook.com/snowram/posts/pfbid021J24zZv6zTGnZzL4rhNRPKemhf3igzc9GdGJSEue2eLvyqSwAqXocMRaCXsyuLCVl)[target=_blank]
+* [司法救濟倡議](https://www.facebook.com/kjtsay/posts/pfbid02kRodiX2MvWdKQhL4TYfKKgGgHNDqdf8PVgU5kASDSepjNLCC7oXbbNCnxUBmzN6Pl)[target=_blank]
 * [部落復原重建倡議](https://g0v.hackmd.io/i3H7DBfgTM27eFHLhjsA1A?view)
+* [民間發起_花蓮光復鄉馬太鞍溪堰塞湖溢流天災心理創傷預防與治療計畫](https://www.facebook.com/guo.jia.ying.179588/posts/pfbid0f4fsMviifU3zenjGfyr2HpRFrivf7BG1RnG4x3HHozddywC1JLweREJ73s9mQP61l)[target=_blank]
 
 ### 媒體報導
 * <a href="https://www.cna.com.tw/news/aipl/202509240263.aspx" target="_blank">中央社報導</a>：劉世芳2週前委託監控馬太鞍溪堰塞湖　李鴻源：若沒做傷亡難想像
