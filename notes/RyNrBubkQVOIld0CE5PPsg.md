@@ -59,3 +59,7 @@ tags: GIS
     "solar_lat": "23.241559746873"
 }
 ```
+
+其他已知政府端應用：
+* [太陽光電案場資訊揭露](https://public.revo.org.tw/GraphicWeb)
+* [漁電共生環社檢核](https://www.sfea.org.tw/SfeaMap/)
