@@ -2,8 +2,7 @@
 
 :::info
 - [所有會議記錄](https://gov.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
-- 線上出席：
+- NPO Hub 出席：bil, mrorz, nonumpa, geopeper, Justin, Joe, Yuyu
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
@@ -11,24 +10,35 @@
 
 *   **[Johnson]** 資訊安全權限設定
 *   **CCPRIP - Analytics**: Opendata trend & LINE Bot usage 報表問題
-*   **cofacts.ai**: Groundness Check agent 實作 (追蹤提案與文件)
 *   **[nonumpa, mrorz]** LLM based Topic Classifier: 追蹤 bug 修復與 benchmark 結果
 *   **[mrorz]** `cofacts/devops-manual` 撰寫進度。
 *   **[mrorz]** 新 URL resolver 設計文件進度 (https://github.com/cofacts/worker/issues/2)。
+*   **cofacts.ai**: Groundness Check agent 實作 (追蹤提案與文件)
+    *   ADK <> Langfuse 應該先做 https://github.com/cofacts/beta-ai/issues/6
+    *   出處都是 hallucinate 的
 *   **[mrorz]** 手動處理自動 takedown 的 false negative 案例。
     *   Done
+
+## Cloudflare Alert 與網站 downtime
+
+- CPU * Disk I/O 有飆起來，但工程師看的時候都是好的
+- bil 有遇到網站（新舊）都 load 不起來的狀況
+- nonumpa 建議裝 cAdvisor
+  - 前面可以擋 Cloudflare tunnel [name=mrorz]
+  - 發現 cAdvisor WebUI 只有 10 分鐘的紀錄 https://blog.darkthread.net/blog/cadvisor-prometheus-grafana/
+- Linode Metrics![](https://g0v.hackmd.io/_uploads/HJ0uftMTex.png)
+
+
 
 ## 小聚籌備
 
 10/26 (日) 2pm - 5 pm 
-小樹屋｜合歡 B303
-捷運台北車站 5 分鐘
-臺北市中正區忠孝西路一段50號 B3樓-B303房
-合歡分館位於台北車站Z區地下街 Z2 出口日藥本舖旁邊
+
+---
 
 - [ ] 食物：
-- [ ] 場地：小樹屋｜合歡 B303 ![](https://g0v.hackmd.io/_uploads/rkkZc8Gpee.png)
-- [ ] 時間：
+- [ ] 場地：小樹屋 紅豆杉 201
+- [x] 時間：
 	- 活動時間：14:00 - 17:00
 	- 時間分配
         - 2:00 - 2:20 開場
@@ -42,17 +52,17 @@
         - 4:10 - 4:40 實作撰寫新回應
         - 4:40 - 4:50 介紹分類、RSS、合照
         - 4:50 - 5:00 場復、離開
-- [ ] 投放目標：
+- [x] 投放目標：
   - 推播日：10/8
-  - 目標：北北基桃（因為在台北車站易達性佳）
-- [ ] KKTIX: https://cofacts.kktix.cc/events/cofactseditor49
-- [ ] 誰會來呢： 
+  - 目標：北北基桃
+- [x] KKTIX: https://cofacts.kktix.cc/events/cofactseditor49
+- [x] 誰會來呢： bil, mrorz, nonumpa, geopeper, Justin, Joe, Helen
 - [ ] 記得帶：貼紙、不太環保杯 (bil)
-- [ ] LINE 文案：
+- [x] LINE richmenu
+- [x] LINE 文案：
 - [ ] VOOM 發文
 - [ ] FB 發文
 
 :::info
-- 更新 kktix (https://cofacts.kktix.cc/events/cofactseditor49)
-- 訂[小樹屋](https://thehapp.com/space/571) 13:30 ~ 17:00: done
+- 小樹屋重訂 13:00 ~ 17:00
 :::
