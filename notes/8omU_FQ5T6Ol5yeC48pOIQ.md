@@ -6,7 +6,6 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 [TOC]
 :::
 
-
 #### 常用連結
 Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
 O:\25資訊組\FPG\ERP\FPG.xlsx
@@ -52,6 +51,25 @@ reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v MenuShowDelay /t REG_SZ /d 
 9點關機：
 schtasks /Create /TN "Shutdown" /TR "shutdown /s /t 0" /SC DAILY /ST 21:00 /RU SYSTEM /RL HIGHEST /F
 ```
+
+#### Windows標準安裝
+```
+curl https://www.chainlon.net/1/7z.msi -o C:\users\\%username%\Downloads\7z.msi
+curl https://www.chainlon.net/1/OpenShell.exe -o C:\users\\%username%\Downloads\OpenShell.exe
+curl https://www.chainlon.net/1/npp.exe -o C:\users\\%username%\Downloads\npp.exe
+C:\users\\%username%\Downloads\7z.msi /quiet
+timeout 5
+C:\users\\%username%\Downloads\OpenShell.exe /qb START_MENU_FOLDER=0
+timeout 5
+C:\users\\%username%\Downloads\npp.exe /S
+timeout 5
+del C:\users\\%username%\Downloads\7z.msi /q
+del C:\users\\%username%\Downloads\npp.exe /q
+timeout 5
+del C:\users\\%username%\Downloads\OpenShell.exe /q
+```
+
+
 #### 812用戶端環境
 chainlon Startup
 C:\Users\chainlon\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup

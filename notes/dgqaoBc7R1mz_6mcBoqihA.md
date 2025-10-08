@@ -52,6 +52,10 @@ tags: vTaiwan
 - Cui Jia Wei is the community coordinator of vTaiwan, actively engaged in digital democracy and civic technology initiatives. With the vTaiwan community, he has organized numerous issue-based meetups and cross-sector collaborations, leveraging digital tools and open dialogue to foster inclusive public participation. In 2023, he led vTaiwan to secure international support from the OpenAI Democratic Input to AI program, launching Taiwan’s first multi-stakeholder deliberation on AI governance. Since 2024, he has collaborated with the Taiwan Network Information Center (TWNIC) to host a series of deliberations on AI, internet governance, and digital rights. He also participates in international projects, advancing Taiwan’s role in global conversations on digital democracy, AI governance, and civic participation.
 
 ## 分享內容
+### Open Evocracy
+- https://presentation.evocracy.org/vtaiwan.html
+
+### vTaiwan 
 
 
 ## 討論 Discussion
