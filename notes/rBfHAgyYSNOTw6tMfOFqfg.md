@@ -11,6 +11,14 @@ https://docs.google.com/spreadsheets/d/1P1sCLPAQP9hUwMFVGzneg9lAIFLoYe_arsmgdUy2
 
 # AI 應用
 
+演講影片 AI時代：機會與挑戰｜113-2 人文與科技的對話
+主講人：簡立峰（前中央研究院資訊科學研究所 副所長）
+https://youtu.be/b36XzNi23Yw
+
+<iframe width=100% height="480" src="https://www.youtube.com/embed/b36XzNi23Yw?si=DI9lhlDBV5QrV0nA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 給非工程師的程式開發入門課
 https://www.facebook.com/share/p/15pq28AxCC/
 

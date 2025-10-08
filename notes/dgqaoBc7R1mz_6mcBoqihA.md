@@ -9,6 +9,7 @@ tags: vTaiwan
 線上參與連結 Online Participation Link: https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
 活動報名連結：https://luma.com/jfwmy23l 
+![](https://g0v.hackmd.io/_uploads/B1Fvkl4pxe.jpg)
 
 
 ::: success
