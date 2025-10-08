@@ -539,6 +539,9 @@ https://docs.google.com/presentation/d/1rJBbNrMqwZ4zNmLKl5d7wymVaTraKaBV5juR6PML
 
 ## 水綠環境
 
+師大地理系製作的地形特徵圖，有探討過新店木柵地區，以下是地形特徵圖台網址
+https://atlas.geo.ntnu.edu.tw/platform/?mapname=Muzha
+
 指南溪護岸改造
 https://heo.gov.taipei/cp.aspx?n=165C129DDE416166
 
@@ -549,6 +552,8 @@ https://www.geo.gov.taipei/News_Content.aspx?n=1C2986DF71D12359&sms=59AD6E6606F6
 都市綠地與健康
 公衛研究，補網址
 
+濕地水綠環境，木柵公園萃湖
+盤點地圖網址：https://maps.app.goo.gl/Hjhje9sgCNwjaC9p7
 
 ## 文山區萬和里情境
 

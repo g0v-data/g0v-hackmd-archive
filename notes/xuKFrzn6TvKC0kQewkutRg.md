@@ -15,11 +15,11 @@ tags: 公有地大行動,公有資產
 
 ### 抵換與盤查 / 淨零
 - [議題架構 Mirro](https://miro.com/app/board/o9J_ku6fMqU=/)[target=_blank]
-- [💡 抵換專案](https://g0v.hackmd.io/pgIgqhfrTyS_rq499etHpg)
-- [🔍 碳足跡盤查：網頁工具](https://g0v.hackmd.io/2DVvnPb_SHqRj2l9pH6UXQ)
-- [🔍 碳足跡盤查：公眾活動](https://g0v.hackmd.io/C_ahv5eITMO9RmbHPi-siQ)
-- [⚙️ 減碳措施知識庫](https://g0v.hackmd.io/s-Vt_9U5SSyCsOyyG3aoDQ)
-- [💻 環保署碳議題網站課題](https://g0v.hackmd.io/ma6SeZCJTtKYJAUk_fiwSw)
+- [💡 抵換專案](https://g0v.hackmd.io/pgIgqhfrTyS_rq499etHpg?view)
+- [🔍 碳足跡盤查：網頁工具](https://g0v.hackmd.io/2DVvnPb_SHqRj2l9pH6UXQ?view)
+- [🔍 碳足跡盤查：公眾活動](https://g0v.hackmd.io/C_ahv5eITMO9RmbHPi-siQ?view)
+- [⚙️ 減碳措施知識庫](https://g0v.hackmd.io/s-Vt_9U5SSyCsOyyG3aoDQ?view)
+- [💻 環保署碳議題網站課題](https://g0v.hackmd.io/ma6SeZCJTtKYJAUk_fiwSw?view)
 - [工作：淨零路徑政策文件<br>PDF 改製為 hackmd](https://g0v.hackmd.io/xGjiyqZ4T56UbYyjt3G-iA)
 - [工作：自然碳匯 - 政策文件涉及圖資盤點](https://g0v.hackmd.io/lIh1g-MLTh29oHgIUD1_YA?view)
 
