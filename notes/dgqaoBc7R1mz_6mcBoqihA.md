@@ -56,6 +56,7 @@ tags: vTaiwan
 - https://presentation.evocracy.org/vtaiwan.html
 
 ### vTaiwan 
+- https://docs.google.com/presentation/d/1yTwszHcPyjKTwv_3d6RDIDxvQfdOU_Uof2gZzs2MEBc/edit?usp=sharing
 
 
 ## 討論 Discussion
