@@ -7,6 +7,7 @@
     * [新架構](https://github.com/carolchu1208/Hualian-Typhoon-Rescue-Site-Backend-Team/tree/main)
     * [後端Github](https://github.com/PichuChen/guangfu250923)
         * 使用 Github Copilot 協作
+    * [光復超人](https://gf250923.org/map)
 * [2025-09-23 花蓮馬太鞍溪堰塞湖溢流災情整合平台](https://g0v.hackmd.io/@yitzu/Fata-an_BarrierLake/)
 * [花蓮光復救災資訊地圖](https://tainan.olc.tw/p/guangfu250923/)
     * [Github](https://github.com/kiang/tainan.olc.tw/tree/master/docs/p/guangfu250923)
@@ -64,3 +65,5 @@
 * [花蓮救災協調平台](https://go.homi.cc/)
 
 * [清淤計畫 光復地圖](https://www.geo.ong/guangfu)
+* [即時災難救援協調平台](https://relief-aid.vercel.app/)
+* 
