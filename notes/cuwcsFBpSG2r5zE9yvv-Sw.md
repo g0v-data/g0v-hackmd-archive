@@ -27,6 +27,7 @@ tags: river,
     - 我是覺得可以融入 新店溪 的角度來撰寫，來理解 "台北城 -> 城南" 的自然邊界
     - 整體地形有大河階
         - 和平東路南側，到河岸
+        - https://www.facebook.com/share/p/19cWHAt2tt/
         - https://gis.rchss.sinica.edu.tw/ISTIS/tools/program/GE_Profile/GE_Profile_Intro.pdf
     - 平埔族社在河岸，1896 獨木舟的老照片
     - 加蚋仔農業聚落，南萬華的古井
