@@ -38,6 +38,11 @@ https://www.facebook.com/share/v/15p7HWGoN5/
 Line 的翻譯機器人
 https://www.facebook.com/share/p/1Asz4SaySK/
 
+## 開發票
+
+開發票
+https://www.facebook.com/neltseng/posts/pfbid02S3vKdmmQnqMAV4JP5Ky22AhKfWuCVBJj9M44QJgFUkpA8TswtMt8WzSD9KMfzCafl
+
 ## 文字資料彙整清理
 
 本次分享專案 星河計畫，有運用 GPT 將 自學生經驗分享文章內容，產出該文章的 特點標籤，並將標籤存到 notion 資料表，便於查找自學經驗，共筆：https://g0v.hackmd.io/8-A_6dbSTOuRdzymvd9Q0Q
@@ -89,8 +94,6 @@ https://www.facebook.com/share/p/1aLyuehztY/
 ## 劇本創作
 
 https://www.facebook.com/share/p/15bgbpm69Q/?mibextid=wwXIfr
-
-
 
 
 ## 視聽通用溝通輔助
