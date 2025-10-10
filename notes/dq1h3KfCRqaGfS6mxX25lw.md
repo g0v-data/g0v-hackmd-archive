@@ -56,8 +56,8 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ## 馬太鞍天氣預報
 
-* [原鄉部落 - 馬太鞍 | 交通部中央氣象署<br><small>日出時間： 05:48 日落時間：17:38</small>](https://www.cwa.gov.tw/V8/C/L/Tribes/Tribes.html?PID=012-1001507A02) [target=_blank]
-* ![](https://g0v.hackmd.io/_uploads/rk47Bokpxl.png)
+* [原鄉部落 - 馬太鞍 | 交通部中央氣象署<br><small>日出時間： 05:49 日落時間：17:33</small>](https://www.cwa.gov.tw/V8/C/L/Tribes/Tribes.html?PID=012-1001507A02) [target=_blank]
+* ![](https://g0v.hackmd.io/_uploads/H1UvowLplg.png)
 10/06 星期一也是假日。
     * [請注意訂購回程車票](https://www.railway.gov.tw/tra-tip-web/tip/tip001/tip123/query) [target=_blank]
 
@@ -198,6 +198,8 @@ Contributing content **means that you agree to waive your copyright and release 
 * [花蓮縣卓溪鄉新女力公益協會](https://www.facebook.com/share/p/1D11YJx7KK/) [target=_blank]
 * [光復災區需求回報Line社群](https://line.me/ti/g2/sB3ozsYjzDffc2AZ_QIBQCRtBdXhOSFW26zszw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default&fbclid=IwY2xjawNDXGhleHRuA2FlbQIxMABicmlkETFHN0JuSUVudzA1RW5UZjUzAR5QuPztYuxUug0v6dPzEwDjilVzT0IGFzAFSecOQWnLVPbFnR3rGSh8NaEfiQ_aem__ttEPx6npUe_WiWjUNaZXA) [target=_blank]
 * [光復救災小蜜蜂](https://gf-bee.ngrok.app/available)
+* [馬太鞍救災回報 Line Bot](https://lin.ee/gfozcn1)[target=_blank]
+    * [花蓮災害回報系統](https://hualien-care.sen-taiwan.club/Reports/Submit)[target=_blank]
 * [災戶清志工運需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform) [target=_blank]　`<花蓮縣議員楊美華發起的媒合>`
 * [災後需求登記表](https://www.facebook.com/share/p/1Cs9zcNw7o/) [target=_blank]`<10/1 停止更新，改由以花蓮光復救災地圖回報>`
 
