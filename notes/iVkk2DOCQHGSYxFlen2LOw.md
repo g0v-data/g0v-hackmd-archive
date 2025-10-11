@@ -88,7 +88,7 @@ Once designs are complete, we can make ibon print files so everyone can easily p
 * 歐洲研究發現，性別自決確實有效。
 * 性別認同不是家家酒
 * 法官表示：「現代法治社會之當然常識，此不因性別傾向及性別認同之不同而有所異」
-    https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=CTDM,112%2c%e8%81%b2%2c1020%2c20231018%2c1
+    [連結](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=CTDM,112%2c%e8%81%b2%2c1020%2c20231018%2c1)[target=_blank]
     臺灣橋頭地方法院 112 年度聲字第 1020 號刑事裁定
 * 他們意思是叫我去上女廁？
 * 他們意思是叫我去上男廁？
