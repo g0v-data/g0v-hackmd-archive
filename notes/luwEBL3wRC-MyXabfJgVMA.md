@@ -2,7 +2,7 @@
 tags: 新生流域
 ---
 
-# 建立「內水流域環境營造工作指引」
+# 建立「內水流域環境營造工作指引」/ 都市內水流域儀表板、流域擬人化 AI
 
 :::warning
 目錄
@@ -34,3 +34,18 @@ https://drive.google.com/drive/folders/1j9dktnyptoonpFwJ1SJOhyyza9WWsUx4?usp=sha
 個案經驗
 - 新生流域社群推動近況：臺北市新生大排排水系統，屬於市區重要的雨水下水道主幹線，其位置大致沿著新生南北路路廊分布，此排水路徑所形成的集水範圍，由北到南涉及中山區、大安區、中正區、信義區等行政區，集水範圍約 20.8 平方公里。這段長度約 6.5 公里的通廊空間，包含著排水系統、平面道路、高架橋、抽水站設施等多元功能；另東側系統長度約 3 公里，包含排水箱涵與公園綠地、道路等。百年前的排水路所形成至今的通廊空間，肩負著城市水文、交通路廊、道路綠資源等多種功能角色。由民間個人所組成的「臺北新生流域網絡」社群，持續推動：(1) 彙整流域議題、當代資料、文史素材 (2) 舉辦各段踏查、拜訪活動、議題討論 (3) 發展城市水路及水環境營造的行動方案。
 - 新北市瓦磘溝
+
+
+## 都市內水流域儀表板、流域擬人化 AI
+
+
+臺北市新生流域 的資料夾 / 簡報 / 文獻
+https://drive.google.com/drive/folders/1t6xizblGJAZTTZrLGRIHgN3ta6s_WCzB?usp=sharing
+hackmd 共筆 / 流域活動企劃
+https://g0v.hackmd.io/@chewei/xinsheng-watershed
+Google My Map 地圖 / 集水範圍 / 歷史素材的地點
+https://goo.gl/maps/BM1KwtabJYzQRaU9A
+Airtable 關係團體名單
+https://airtable.com/appMn8RbwnnayUwP6/shraNUu1ERv1gvUVp
+FB 社團
+https://www.facebook.com/groups/582154450196478
