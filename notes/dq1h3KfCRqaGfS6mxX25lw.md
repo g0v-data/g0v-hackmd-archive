@@ -171,7 +171,13 @@ Contributing content **means that you agree to waive your copyright and release 
 ### 交通狀況
 
 **🚨非救災需求，請立即離開光復鄉！**
-* 光復鄉 **目前車輛擁塞，除非必要，盡可能搭乘火車前往**`(9/26更新)`
+* [臺九線馬太鞍溪橋便道已於10/10下午3時正式開放5噸以下車輛通車通行](https://www.facebook.com/share/p/16JxkJRZ4i/)`<10/11更新>`
+    * 為配合交通動線調整，原縣道193線「每日7時至16時南往北車輛管制」措施，將自 10月11日起取消管制。
+    * 新制重點：
+        * 193線除救災及公務車外，禁止甲、乙類大客車及逾21公噸大貨車通行。
+        * 一般小型車與機車可正常通行。
+        * 行經193線請減速慢行、遵守交通標誌，遇救災車輛請禮讓通行，共同維護安全。
+
 * 火車：
     * 全線正常行車。(詳情以[台鐵公告](https://tip.railway.gov.tw/tra-tip-web/tip) [target=_blank]為主)
     * 台鐵因應協助災後復原[加開班次資訊](https://tip.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29987767a01999839ff075cc5&page=0) [target=_blank]
