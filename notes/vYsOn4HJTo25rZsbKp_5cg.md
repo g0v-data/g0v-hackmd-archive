@@ -12,7 +12,8 @@ https://g0v.hackmd.io/@chewei/B14OsdWfi/
 
 ## 近期活動資訊 Event
 - [新生流域「觀點便利貼」<br>歡迎線上填寫、瀏覽成果 ✍](https://g0v.hackmd.io/MrRWqJgpTHeeGgMyfOxF3w?view)
-- [2025 <br>活動籌畫 🔥🔥🔥](https://g0v.hackmd.io/T7mjTzRtTAukiDOZtUPXuw?view)
+- [2025/11/02 週日上下午<br>新生流域公民論壇<br>🔥🔥🔥](https://g0v.hackmd.io/@chewei/20251102)
+- [2025 <br>活動籌畫](https://g0v.hackmd.io/T7mjTzRtTAukiDOZtUPXuw?view)
 - [Event 活動企劃構想彙整區 🏃‍♀️](https://g0v.hackmd.io/mPCuC_qcRAG1Yw7rrUZwRg?view)
 
 ### 已結束活動
