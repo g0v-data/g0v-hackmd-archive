@@ -3,17 +3,39 @@
 
 ## 前言
 
-10/24 晚上六點半在 228 公園是熱線舉辦的跨性別遊行。
-跨性別遊行在台北同志遊行的前夜，除了炒熱氣氛外，同時也放大跨性別者的能見度。
+10 月 24 日晚上六點半，在 228 公園將舉辦由熱線主辦的跨性別遊行。
+跨性別遊行在台北同志遊行的前一晚舉行，不僅能炒熱氣氛，也能讓跨性別者的能見度被放大。
 
-同性戀在一個社會的人口比例自然而言應該約 3% ，跨性別應該約 0.7% ，因此應該存在 1:4 ~ 1:5 之間，但是從過往市集攤位的比例而言，對於跨性別者的能見度應該可以更被放大。
+同性戀在人口中的比例大約為 3%，而跨性別約為 0.7%，兩者應該存在 1:4 到 1:5 的比例。然而從以往市集攤位的比例來看，跨性別者的能見度仍有提升的空間。
 
-「找不到廠商」不是理由，假體先生、Rebloom 這些都是可以讓社群知道的廠商。
-或者是相關的 NGO，例如 WPath、TAMA 這些學會也都可以在現場傳達「我們的跨性別醫學已經離開在診間檢查內褲」的時代的訊息。別忘了三分之一跨性別者在取得證明前曾有私自使用處方藥物的經驗，這種不信任的關係也是我們應該去改善的不是嗎？
+「找不到廠商」不是理由。像是假體先生、Rebloom 等品牌，都是社群可以認識、支持的廠商。
+另外，也有像 WPath、TAMA 這類的 NGO 或學會，能夠在現場傳遞一個重要訊息：「我們的跨性別醫學，已經走出了在診間檢查內褲的時代。」
+別忘了，約有三分之一的跨性別者在取得證明前，曾經有自行使用處方藥物的經驗。這種不信任的關係，正是我們應該共同努力改善的部分，不是嗎？
 
-這邊我提供了一些標語，台灣跨性別者的議題不是只有法定性別承認取消手術要件一項，非二元性別承認、健保歧視等等的議題也是重要的，但是我的手只有兩隻，所以歡迎大家找到自己認同的標語，把訴求帶到現場，歡迎大家把這篇文章傳到各個跨性別群組，也歡迎大家新增應該被聽見的訴求，以及徵求可以設計手牌的朋朋，把設計稿做完之後變成 ibon 檔案讓大家當天可以列印攜帶。
+這裡我提供了一些標語範例。
+台灣跨性別的議題不僅止於「取消手術要件的法定性別承認」，非二元性別的承認、健保歧視等問題也同樣重要。
+但我的手只有兩隻，所以歡迎大家挑選自己認同的標語，把訴求帶到現場。
+也歡迎大家把這篇文章分享到各個跨性別群組，新增應該被聽見的訴求，或徵求能設計手牌的朋友。
+等設計完成後，做成 ibon 檔案，讓大家當天可以列印攜帶。
 
+At 6:30 PM on October 24, the Trans March organized by Hotline will take place at 228 Peace Memorial Park.
+Held on the eve of the Taiwan Pride Parade, the Trans March not only builds momentum for Pride weekend but also amplifies the visibility of transgender people.
 
+Roughly 3% of the population identifies as gay or lesbian, and about 0.7% as transgender — a ratio of around 1:4 to 1:5.
+However, judging from the proportion of booths in past community fairs, transgender visibility still has plenty of room to grow.
+
+“Not being able to find vendors” is not an excuse.
+Brands like Mr. Implants and Rebloom are well-known and can easily be included to support the community.
+Similarly, NGOs and professional associations such as WPath and TAMA could also attend, helping to convey this crucial message:
+“Our transgender healthcare has moved beyond the outdated era of ‘checking what’s inside one’s underwear.’”
+Let’s not forget that about one-third of transgender people have self-medicated with prescription drugs before obtaining medical certification — a sign of mistrust that we should work together to change.
+
+Here are some sample slogans.
+Transgender issues in Taiwan go far beyond removing surgical requirements for legal gender recognition.
+Recognition for nonbinary people and the fight against discrimination in healthcare are equally important.
+But I only have two hands, so I welcome everyone to find slogans they resonate with and bring them to the event.
+Please share this message across transgender communities, suggest additional demands that deserve to be heard, or help design hand signs.
+Once designs are complete, we can make ibon print files so everyone can easily print and bring them on the day of the march.
 
 ## 標語們
 
@@ -91,7 +113,11 @@
 * 性別認同存在於大腦深處，與生俱來，難以被改變的。
 * 如果要閹割才能上廁所，那為什麼偷拍狂不用
 * 你以為他們只反對沒手術的，其實手術了他們照樣攻擊
-* 要求跨性別者傷害身體才能認同其性別認同**就是反跨**
+* 要求傷害身體才能認同其性別**就是反跨**
+* 非洲有女性割禮，台灣有強制摘除
+
+
+
 
 ### 健保第 51 條
 
@@ -129,7 +155,7 @@
 
 * 也許你每天都在捷運上看過跨性別，只是你不知道而已
 * 那些說「認得出來」的人，失誤率大概五成。
-* 那些說性別定義很簡單的，看看
+* 那些說性別定義很簡單的，看看**川普性別**定義吧
 
 * 在談論性別之前，首先我們都是人
 * No Self ID 網站就是假訊息網站 
