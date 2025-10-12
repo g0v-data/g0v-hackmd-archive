@@ -11,6 +11,7 @@ tags: vTaiwan
 活動報名連結：https://luma.com/jfwmy23l 
 ![](https://g0v.hackmd.io/_uploads/B1Fvkl4pxe.jpg)
 
+本週實體小松錄影：https://drive.google.com/file/d/11QcQ__ZI5UI9pQZ8eF0bOZEFxCvpT22s/view?usp=sharing 
 
 ::: success
 ## 專案儀表板：目前 vTaiwan 社群在進行的事情 
