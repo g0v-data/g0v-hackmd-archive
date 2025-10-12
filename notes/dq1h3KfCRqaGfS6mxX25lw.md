@@ -226,6 +226,10 @@ Contributing content **means that you agree to waive your copyright and release 
 ### 救助金、慰問金
 
 #### 行政院
+* [行政院災後慰助服務站一站式服務](https://www.facebook.com/share/p/1A9W6Ru4iK/)
+    * 服務時間：10/7~10/12 每日8:00~17:00
+    * 地點：花蓮縣光復鄉中正路一段132號(中華電信光復服務中心)
+    * 慰助金服務專線：02-77028028
 
 * [行政院旅宿安置補助](https://www.facebook.com/share/p/1Cg2mZZdXR/) [target=_blank] 
     * 對象：花蓮公設及原住民處列冊收容所收容之災民。
@@ -326,8 +330,11 @@ Contributing content **means that you agree to waive your copyright and release 
     * [即時結果報告](    https://pol.is/report/r89seayfre3aha6vybrav) [target=_blank]
 
 ### 居民x政府對話
-* 
-* [第二次災區應變說明及最新緊急應變疏散計畫](--- [name=Fata'an部落] 
+* [10/3 縣府與部落-面對面記者會](https://www.facebook.com/share/p/1GpgAWBhgL/)---[name=Fata'an部落]
+    * [直播連結](https://www.facebook.com/share/v/1A8xdQHB4M/) 
+* [10/7【我有話要說】-- 原民會、原民處xFata'an部落有約](https://www.facebook.com/share/p/1G7YzEgZQe/)--- [name=Fata'an部落] 
+
+* [10/14第二次災區應變說明及最新緊急應變疏散計畫](https://www.facebook.com/share/p/16VsQnwmKm/)--- [name=Fata'an部落] 
 
 ---
 ## 🗃️舊平台 Backup
