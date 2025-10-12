@@ -53,6 +53,11 @@ Contributing content **means that you agree to waive your copyright and release 
 
 * [光復救災小蜜蜂](https://gf-bee.ngrok.app/available) --- ???
 
+* [🪏 光復救災資源整合APP（一站式適用於手機版）](https://pse.is/8848hc) <br><small> --- 陳弼群</small>
+    * 公告資訊、救援地圖、災民專區（避難安置點/醫療站/物資站/住宿資訊/救助補助金/尋人啟事/災民需求）、志工專區（志工指南/志工媒合/住宿資訊/交工共乘/我要配送/洗澡點/醫療加水站)、物資專區（物資需求/我要捐贈）
+    * 全人工更新（彙整多方資料來源）
+    * 資訊僅供參考，真實需求與現場狀況請依當地公告為準。
+
 
 
 
@@ -77,7 +82,10 @@ Contributing content **means that you agree to waive your copyright and release 
     * [發起人 Facebook 貼文](https://www.facebook.com/share/p/1BcgMUgPyY/)
 * [🗺️ 救災資源整合地圖<br><small>避難所/物資站/災區內志工住宿、需志工協助區域(自備救援工具)、交通管制資訊、醫療站、幼兒物資、心理健康服務、臨時供水站/洗手間、返鄉青年&志工住宿、物資接收轉運站(接受捐贈中)、急需人手-阿多莫部落<br>--- 俞凱倫</small>](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)
     * [發起人 Facebook 貼文](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
-    
+
+
+* [📱光復救災資源整合APP（一站式適用於手機版）<br><small>公告資訊、救援地圖、災民專區（避難安置點/醫療站/物資站/住宿資訊/救助補助金/尋人啟事/災民需求）、志工專區（志工指南/志工媒合/住宿資訊/交工共乘/我要配送/洗澡點/醫療加水站)、物資專區（物資需求/我要捐贈）<br>--- 陳弼群</small>](https://pse.is/8848hc)
+
 
 * [🗺️流動廁所分布地圖<br><small> --- 昭昭</small>](https://www.google.com/maps/d/u/0/viewer?mid=1hvkIGwDBe9ehupEHxY6KzVSTuLWsGfU&ll=23.669659711573825%2C121.44137006173119&z=15) [target=_blank]
 
@@ -85,6 +93,8 @@ Contributing content **means that you agree to waive your copyright and release 
     * [amisitokay 的 threads](https://www.threads.com/@amisitokay/post/DPGDvJbEXdD?xmt=AQF0Drg5eOcpp0G1fF6HdNvjBp1BZRgFAGBPQRWkYwkZbw&slof=1) [target=_blank]
 * [:speaking_head_in_silhouette: 志工可能會用到的阿美語<br><small> --- langodlin 錄製</small>](https://drive.google.com/drive/folders/1zNkjHPAcuhqOhk_9Y4HGTbh8k6CAI1Hn) [target=_blank]
     * [langodlin 的 threads](https://www.threads.com/@langodlin/post/DPGRppUEzl7?xmt=AQF0vTj-jTF5GGD_u35xsdbZwbkJLwX00RZPcRzOo1--mQ&slof=1) [target=_blank]
+
+
 
 ## 💪 人力 💪<br>⚠️注意自身安全、自備裝備，切勿造成災區負擔！
 
