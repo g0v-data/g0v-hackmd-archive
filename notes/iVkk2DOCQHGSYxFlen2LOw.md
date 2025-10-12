@@ -1,5 +1,8 @@
 # 跨性別遊行標語
 
+![](https://g0v.hackmd.io/_uploads/rJAod-K6xg.png)
+Cover photo credit Trasek ry
+
 
 ## 前言
 
