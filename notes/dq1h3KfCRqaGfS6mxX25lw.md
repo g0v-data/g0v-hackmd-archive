@@ -26,31 +26,25 @@ Contributing content **means that you agree to waive your copyright and release 
 
 **‼️馬太鞍溪河床已被泥沙填滿，只要稍有雨勢，河水就可能漫流至街道，隨時有可能必須撤退！！**
 `<堰塞湖危機尚未解除，請隨時保持警覺>`
-* 現場暫以**警報音**，即時提醒居民與志工。
-* [海嘯警報音符為鳴5秒，停5秒，反覆9遍(共85秒)，解除警報音符為一長聲90 秒。<br><small>--- 來源，內政部</small>](https://www.facebook.com/share/p/17WbrLqRzE/) [target=_blank]
+* [📢災區現場會以**警報音**，即時提醒居民與志工。](https://www.facebook.com/share/p/17WbrLqRzE/)[target=_blank]
+`<海嘯警報音符為鳴5秒，停5秒，反覆9遍(共85秒)，解除警報音符為一長聲90 秒>` <small>--- 來源，內政部</small>
   ![](https://g0v.hackmd.io/_uploads/Hy0cTrL3eg.png =x300)
-* [ℹ️ 全民防災e點通 | 馬太鞍溪堰塞湖專區<br><small>-- 內政部消防署</small>](https://bear.emic.gov.tw/MY2/disasterInfo/99393)[target=_blank]
+* [ℹ️ 全民防災e點通 | 馬太鞍溪堰塞湖專區 <small>-- 內政部消防署</small>](https://bear.emic.gov.tw/MY2/disasterInfo/99393)[target=_blank]
     * 應變處置報告、各部會投入事項、情資研判資料、預警簡訊等
-* [ℹ️ 花蓮縣政府馬太鞍專區<br><small>--- *花蓮縣政府*</small>](https://www.hl.gov.tw/ysh/) [target=_blank]
+* [ℹ️ 花蓮縣政府馬太鞍專區 <small>--- *花蓮縣政府*</small>](https://www.hl.gov.tw/ysh/) [target=_blank]
     * 內有死亡失聯撤離收容名冊以及**交通管制公告**等
     * [花蓮縣政府臉書粉絲團](https://www.facebook.com/hlgov)[target=_blank]
 
 ## 災民需求 X 志工前往（‼️[救災行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️ ）
 
-* [🪏 光復超人(前光復救災資訊整合網)<br><small> --- 林于立@g0v後勤中心分享</small>](https://gf250923.org) [target=_blank]
-    * [光復救災資訊整合-遠端志工群 Discord](https://discord.gg/NddqmheZ) 
+* [光復超人(前光復救災資訊整合網)<small> --- 林于立@g0v後勤中心分享</small>](https://gf250923.org) [target=_blank]
     * [Facebook 社團貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/) [target=_blank]
-    * 志工行前須知、必備物品、需要協助區域、志工line群、物資媒合、人力媒合等
+    * 現場地圖、居民協助、物資媒合、人力媒合......等資訊
 
-* [光復救災小蜜蜂](https://gf-bee.ngrok.app/available) 
+* [🐝光復救災小蜜蜂](https://gf-bee.ngrok.app/available) 
     * 災區運送物資，除特殊功能志工或醫療需求以外載人只出不進。
     * 網站申請需求，後台小幫手媒合小蜜蜂，媒合率高。
 
-* `<10/13停更>`[🪏 救災資源整合地圖<br><small> --- 俞凱倫</small>](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) [target=_blank]
-    * [發起人 Facebook 貼文](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
-    [target=_blank]
-    * 全人工更新
-    * [新資訊請填寫回報表單！<br>`<10/05 12:28 已關閉>`](https://forms.gle/2o3bW4DrHmmEGwPJ8) [target=_blank]
 
 * [QSearch 彙整災害救援資訊](https://www.qsearch.cc/disaster/) [target=_blank]
     * AI自動彙整，請自行確認資訊正確性
@@ -333,19 +327,25 @@ Contributing content **means that you agree to waive your copyright and release 
 ---
 ## 🗃️舊平台 Backup
 ### 已關閉或整併
-* [🪏 花蓮光復鄉-救災志工/物資募集資訊總表 <br><small></small>](https://reurl.cc/QaqLKZ) [target=_blank]　`<表單已關閉>`
+* `<10/13停更>`[🪏 救災資源整合地圖 <small> --- 俞凱倫</small>](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) [target=_blank]
+    * [發起人 Facebook 貼文](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
+    [target=_blank]
+    * 全人工更新
+    * `<10/05 12:28 已關閉>`[新資訊請填寫回報表單！](https://forms.gle/2o3bW4DrHmmEGwPJ8) [target=_blank]
+
+* `<表單已關閉>`[🪏 花蓮光復鄉-救災志工/物資募集資訊總表 <small></small>](https://reurl.cc/QaqLKZ) [target=_blank]
     * [發起人 Threads 頁面](https://www.threads.com/@audery1011) [target=_blank]
     * 多分頁資訊，包含收容所、尋人、志工、各單位等
     * 9/27開放共編｜目前編輯人數過多，部分工具可能無法使用。
     * [副本](https://docs.google.com/spreadsheets/d/1rAzzxNM9Vz3y4wU09uAqnAOxGqOkXTNIvnvWUOcDvu4/edit?gid=1457345354#gid=1457345354) [target=_blank]
 
-* [🗺️ 災後需求地圖 <br> --- De-Jounge Tseng](https://www.google.com/maps/d/viewer?mid=1z3Lh3pKucPyjFiq-OVOQeAAJ_Y3viQk&ll=25.0411430697939%2C121.50900250000002&z=13) [target=_blank]`<10/1 停止更新，改由以花蓮光復救災地圖回報>`
+* `<10/1 改以救災資源整合地圖回報>`[🗺️ 災後需求地圖 <small> --- De-Jounge Tseng</small>](https://www.google.com/maps/d/viewer?mid=1z3Lh3pKucPyjFiq-OVOQeAAJ_Y3viQk&ll=25.0411430697939%2C121.50900250000002&z=13) [target=_blank]
     * [發起人 Facebook 貼文](https://www.facebook.com/share/p/1Cs9zcNw7o/)
 
-* [水電報修 Google 表單連結（災戶用）](https://forms.gle/gNRG4ZxF2vkCrgbo6)[target=_blank]  `<表單已關閉>`
+* `<表單已關閉>`[水電報修 Google 表單連結（災戶用）](https://forms.gle/gNRG4ZxF2vkCrgbo6)[target=_blank]  
     * 轉貼自 LINE 群組「光復救災水電修繕小組（全台民間自發）」的 記事本
 
-* [水電修繕志工 Google 表單連結（技師用）](https://forms.gle/Xx2pbSzztQTK3YsS9) [target=_blank] `<表單已關閉>`
+* `<表單已關閉>`[水電修繕志工 Google 表單連結（技師用）](https://forms.gle/Xx2pbSzztQTK3YsS9) [target=_blank]
     * 轉貼自 LINE 群組「光復救災水電修繕小組（全台民間自發）」的 記事本
 
 ### 已無即時資訊
@@ -362,8 +362,6 @@ Contributing content **means that you agree to waive your copyright and release 
 * [💻 民間資訊團 Line 社群<br><small>拼車、接駁、網路及現場資訊整合</small>](https://line.me/ti/g2/RBQui9B01TU9u5fnru_3KCS9J4BuvZInmkO7DA)
 
 
-
-
 ---
 
 ## 💡 關於馬太鞍溪堰塞湖的說明與資訊 Info
@@ -371,6 +369,8 @@ Contributing content **means that you agree to waive your copyright and release 
 * [馬太鞍溪堰塞湖監測紀實<br><small>內有「應變作為時間軸」<br>-- 東華大學NDHU強韌防災團隊</small>](https://storymaps.arcgis.com/stories/5864cf7ed3b54f83a5247f3f9b39bec2)  [target=_blank]
 * [農業部林業及自然保育署<br><small>馬太鞍溪堰塞湖近期應變資訊（顯示 2025.7 起資訊）</small>](https://www.forest.gov.tw/ForestNews?q=%e9%a6%ac%e5%a4%aa%e9%9e%8d&ca2=2025-07-01) [target=_blank]
 * [NCDR WATCH](https://watch.ncdr.nat.gov.tw/watch_barrier_map_v2) [target=_blank]
+* [花蓮馬太鞍溪堰塞湖災害救援懶人包](https://hackmd.io/@DPPinfo/H1jdGQM2eg#0923-%E8%8A%B1%E8%93%AE%E9%A6%AC%E5%A4%AA%E9%9E%8D%E6%BA%AA%E5%A0%B0%E5%A1%9E%E6%B9%96%E7%81%BD%E5%AE%B3%E6%95%91%E6%8F%B4%E6%87%B6%E4%BA%BA%E5%8C%85)`<彙整官方、民進黨資訊>`
+* [🖥️農村水保署_BigGIS圖台](https://gis.ardswc.gov.tw/map/)`<開設馬太鞍堰塞湖專區，除匯入2025/9/25 最新的災後航照影像及Pleiades衛星影像，亦整合地址、地籍圖等資料>`
 
 ---
 
