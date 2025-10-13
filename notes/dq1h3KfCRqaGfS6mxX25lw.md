@@ -37,12 +37,16 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ## 災民需求 X 志工前往（‼️[救災行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️ ）
 
-* [🪏 光復救災資訊整合網<br><small> --- 林于立@g0v後勤中心分享</small>](https://gf250923.org) [target=_blank]
+* [🪏 光復超人(前光復救災資訊整合網)<br><small> --- 林于立@g0v後勤中心分享</small>](https://gf250923.org) [target=_blank]
     * [光復救災資訊整合-遠端志工群 Discord](https://discord.gg/NddqmheZ) 
     * [Facebook 社團貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/) [target=_blank]
     * 志工行前須知、必備物品、需要協助區域、志工line群、物資媒合、人力媒合等
 
-* [🪏 救災資源整合地圖<br><small> --- 俞凱倫</small>](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) [target=_blank]
+* [光復救災小蜜蜂](https://gf-bee.ngrok.app/available) 
+    * 災區運送物資，除特殊功能志工或醫療需求以外載人只出不進。
+    * 網站申請需求，後台小幫手媒合小蜜蜂，媒合率高。
+
+* `<10/13停更>`[🪏 救災資源整合地圖<br><small> --- 俞凱倫</small>](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) [target=_blank]
     * [發起人 Facebook 貼文](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
     [target=_blank]
     * 全人工更新
@@ -51,22 +55,12 @@ Contributing content **means that you agree to waive your copyright and release 
 * [QSearch 彙整災害救援資訊](https://www.qsearch.cc/disaster/) [target=_blank]
     * AI自動彙整，請自行確認資訊正確性
 
-* [光復救災小蜜蜂](https://gf-bee.ngrok.app/available) --- ???
 
 * [🪏 光復救災資源整合APP（一站式適用於手機版）](https://pse.is/8848hc) <br><small> --- 陳弼群</small>
     * 公告資訊、救援地圖、災民專區（避難安置點/醫療站/物資站/住宿資訊/救助補助金/尋人啟事/災民需求）、志工專區（志工指南/志工媒合/住宿資訊/交工共乘/我要配送/洗澡點/醫療加水站)、物資專區（物資需求/我要捐贈）
     * 全人工更新（彙整多方資料來源）
     * 資訊僅供參考，真實需求與現場狀況請依當地公告為準。
 
-
-
-
-## 馬太鞍天氣預報
-
-* [原鄉部落 - 馬太鞍 | 交通部中央氣象署<br><small>日出時間： 05:49 日落時間：17:33</small>](https://www.cwa.gov.tw/V8/C/L/Tribes/Tribes.html?PID=012-1001507A02) [target=_blank]
-* ![](https://g0v.hackmd.io/_uploads/H1UvowLplg.png)
-10/06 星期一也是假日。
-    * [請注意訂購回程車票](https://www.railway.gov.tw/tra-tip-web/tip/tip001/tip123/query) [target=_blank]
 
 ## 💪 給能幫忙的人<br>For Those Who Can Provide Assistance
 
