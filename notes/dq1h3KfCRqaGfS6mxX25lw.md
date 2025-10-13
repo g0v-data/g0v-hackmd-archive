@@ -41,7 +41,7 @@ Contributing content **means that you agree to waive your copyright and release 
     * [Facebook 社團貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/) [target=_blank]
     * 現場地圖、居民協助、物資媒合、人力媒合......等資訊
 
-* [🐝光復救災小蜜蜂](https://gf-bee.ngrok.app/available) 
+* [🐝光復救災小蜜蜂](https://gf-bee.ngrok.app/available) <small> --- [gfbee@threads </small>](https://www.threads.com/@gfbee_20251001)
     * 災區運送物資，除特殊功能志工或醫療需求以外載人只出不進。
     * 網站申請需求，後台小幫手媒合小蜜蜂，媒合率高。
 
@@ -50,7 +50,7 @@ Contributing content **means that you agree to waive your copyright and release 
     * AI自動彙整，請自行確認資訊正確性
 
 
-* [🪏 光復救災資源整合APP（一站式適用於手機版）](https://pse.is/8848hc) <br><small> --- 陳弼群</small>
+* [🪏 光復救災資源整合APP（一站式適用於手機版）](https://pse.is/8848hc) <small> --- 陳弼群</small>
     * 公告資訊、救援地圖、災民專區（避難安置點/醫療站/物資站/住宿資訊/救助補助金/尋人啟事/災民需求）、志工專區（志工指南/志工媒合/住宿資訊/交工共乘/我要配送/洗澡點/醫療加水站)、物資專區（物資需求/我要捐贈）
     * 全人工更新（彙整多方資料來源）
     * 資訊僅供參考，真實需求與現場狀況請依當地公告為準。
@@ -62,7 +62,7 @@ Contributing content **means that you agree to waive your copyright and release 
 
 *  [💻 g0v 花蓮馬太鞍溪堰塞湖溢流災情整合平台(本份文件)<br><small>👉可直接共編，點擊網頁上方的🖋開始進行編輯</small>](https://g0v.hackmd.io/dq1h3KfCRqaGfS6mxX25lw?view)
     *  [加入g0v slack #hulien頻道 可進行討論](https://g0v-tw.slack.com/join/shared_invite/zt-3bkxxa67k-okdoIWoZkGbX4q~U3C_cNA#/shared-invite/email) [target=_blank]
-* [💻 光復救災資訊整合網<br><small> --- 林于立@g0v後勤中心分享</small>](https://sites.google.com/view/guangfu250923) [target=_blank]
+* [💻 光復救災資訊整合網 <small> --- 林于立@g0v後勤中心分享</small>](https://sites.google.com/view/guangfu250923) [target=_blank]
     * [Facebook 貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/) [target=_blank]
     * [回報表單 👉10/3 新增『人力』與『物資』需求媒合網 (10/05 15:57 關閉中)](https://forms.gle/2o3bW4DrHmmEGwPJ8)
  
