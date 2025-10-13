@@ -111,10 +111,45 @@
 ### 職業限制
 需要考慮是否自始違反就業服務法？
 
-### 租屋限制
-租屋限制為契約自由。
+### 住宿部分
 
-* 小提醒，一開始就「限女」的房東，性別意識通常不會好到哪去。
+### 一般租屋限制
+
+* 租屋限制為契約自由。
+
+#### 參考資料
+
+* https://www.ptt.cc/bbs/WomenTalk/M.1686248669.A.95F.html
+* https://www.rencotaiwan.com/post/genderrestrictions#:~:text=%E5%8F%B0%E7%81%A3%E7%9B%AE%E5%89%8D%E4%B8%A6%E6%B2%92%E6%9C%89%E6%98%8E%E6%96%87,%E4%BD%BF%E7%94%A8%E5%B1%85%E4%BD%8F%E7%A9%BA%E9%96%93%E7%9A%84%E5%8E%9F%E5%89%87%E3%80%82
+* https://www.dcard.tw/f/talk/p/232890282
+* https://tw.news.yahoo.com/%E7%A7%9F%E9%87%910%E5%85%83%E8%97%8F%E9%99%B7%E9%98%B1-%E6%88%BF%E6%9D%B1%E6%8B%9B%E7%A7%9F%E9%99%90%E5%A5%B3%E6%80%A7-%E5%96%8A-%E6%9C%89%E8%A6%AA%E5%AF%86%E9%97%9C%E4%BF%82%E5%8F%AF%E5%85%8D%E5%AE%B6%E4%BA%8B-%E6%83%B9%E8%AD%B0%E9%81%AD%E4%B8%8B%E6%9E%B6-070319419.html
+
+
+### 學生宿舍
+* 學生宿舍參考
+    * [大專院校學生入住宿舍性別友善處理原則](https://www.gender.edu.tw/web/upload/news/%E5%A4%A7%E5%B0%88%E6%A0%A1%E9%99%A2%E5%AD%B8%E7%94%9F%E5%85%A5%E4%BD%8F%E5%AE%BF%E8%88%8D%E6%80%A7%E5%88%A5%E5%8F%8B%E5%96%84%E8%99%95%E7%90%86%E5%8E%9F%E5%89%87.pdf)[target=_blank]
+    * [高級中等學校學生入住宿舍性別友善處理原則](https://www.ssvs.tp.edu.tw/var/file/0/1000/img/894957591.pdf)[target=_blank]
+* 學校應盡力維護跨性別學生的隱私，相關資訊之揭露應尊重學生個人意願。
+* 各校自行規定
+    * 學校宜有跨性別學生入住宿舍之相關規定，並依照性別平等教育法之精神，經蒐集學生代表意見之程序制訂校內相關政策，公告周知並加以教育推廣。
+* 直接提供單人房也是方法 
+    * 曾經遇過打呼過度大聲的學長，最後中央大學決定排單人房給他
+
+
+
+### 監獄制度
+監獄入監前會進行身體檢查，根據檢查結果進行安全評估調整，現況下大部分會安排入單人房
+
+* 獨居房為主
+    * 收容處所應將受收容人以男女區隔方式收容之；收容處所發現性別變更之受收容人，得依其證件所示性別，個別收容於獨居房間。
+    * https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0080130&flno=3
+
+#### 參考資料
+* https://tsiwra.org.tw/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7%E5%8F%97%E5%88%91%E4%BA%BA%EF%BC%8F%E6%94%B6%E5%AE%B9%E4%BA%BA%E9%9D%A2%E5%B0%8D%E7%9A%84%E6%8C%91%E6%88%B0%E8%88%87%E5%88%B6%E5%BA%A6%E5%95%8F%E9%A1%8C/
+* https://hivstorymedia.org/2025/04/29/swtalktgw/
+* https://legalaidnyc.org/zh-TW/%E5%BE%97%E5%88%B0%E5%B9%AB%E5%8A%A9/%E4%BF%9D%E9%87%8B%E7%9B%A3%E7%A6%81/%E9%97%9C%E6%96%BC%E8%B7%A8%E6%80%A7%E5%88%A5%E5%9C%A8%E5%9B%9A%E4%BA%BA%E5%A3%AB%E7%9A%84%E5%BE%85%E9%81%87%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B/
+* 羈押法第三條、看守所對羈押之被告，應按其性別嚴為分界。 https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=I0040005&flno=3
+* 監獄行刑法第五條 監獄對收容之受刑人，應按其性別嚴為分界。 https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=I0040001&flno=5
 
 ### 性別角色分工
 
@@ -143,7 +178,15 @@
 #### 乳房篩檢
 * 考慮跨性別男性與女性補助
 
+### 生活空間
 
+#### 溫泉
+
+* 可以比照日本，裸湯部分下體沒有外觀近似不得進入
+    * 實質上為長期使用賀爾蒙要件
+* 公共泡湯似乎目前為止都是穿著泳衣，沒有裸湯，應該比較沒有爭議。
+    * [行政院「性別變更要件法制化及立法建議」研究案](https://twgra.org/wp-content/uploads/2024/06/%E8%A1%8C%E6%94%BF%E9%99%A2%E3%80%8C%E6%80%A7%E5%88%A5%E8%AE%8A%E6%9B%B4%E8%A6%81%E4%BB%B6%E6%B3%95%E5%88%B6%E5%8C%96%E5%8F%8A%E7%AB%8B%E6%B3%95%E5%BB%BA%E8%AD%B0%E3%80%8D%E7%A0%94%E7%A9%B6%E6%A1%88.pdf)[target=_blank]
+    * 
 
 ---
 ## 無關議題
