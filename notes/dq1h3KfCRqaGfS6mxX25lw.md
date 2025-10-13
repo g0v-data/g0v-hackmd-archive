@@ -103,7 +103,7 @@ Contributing content **means that you agree to waive your copyright and release 
 *   <a href="https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83" target="_blank">中央災害應變中心</a>：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
 
 
-### 各組織資訊
+### 各組織招募
 
 * *[<10/3暫停媒合>](https://www.facebook.com/share/p/1MFxvkanjC/)* [清運志工招募＋災戶需求填表 : 花蓮縣議員楊華美發起的媒合](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform) [target=_blank]
 * *`<9/30 停止招募>`* [慈濟志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) [target=_blank]
