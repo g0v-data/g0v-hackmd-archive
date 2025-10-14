@@ -80,11 +80,11 @@ Benefits of Cloud Run:
     - 可以用 redis cloud, free 30MB / 100MB for 5usd/mo (no HA) ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_53e030a0192a5b4d5d2996ab29ec64d9.png)
     - 如果一定要架在台灣 --> [自己開台 GCE instance 來 host](https://www.reddit.com/r/googlecloud/comments/s5an9g/cheap_temporary_memory_alternative_for/)
 - Order
-  1. Staging site
-  2. Production en & ja site
-  3. Staging chatbot 
+  1. Staging site :heavy_check_mark: 
+  2. Production en & ja site  :heavy_check_mark: 
+  3. Staging chatbot  :heavy_check_mark: 
   4. Production tw chatbot
-  5. Production tw site
+  5. Production tw site  :heavy_check_mark:  (2025/10/14)
 
 :::spoiler 原始計畫（before 2024/11）
 #### Phase 2: move API sub-services into Cloud Run
@@ -95,16 +95,16 @@ Steps include:
     - 不管 server / client communication
 - rumors-api 轉為 monorepo of:
     - Application API (GraphQL)
-    - URL resolver ~~(tRPC)~~ 改寫成 Cloudflare workflow https://github.com/cofacts/rumors-api/issues/373
-        - ~~即現有 url-resolver 改 tRPC~~
-        - ~~看看有沒有機會 request 來才啟動 browser（stateless）- https://cloud.google.com/blog/topics/developers-practitioners/taking-screenshots-web-pages-cloud-run-jobs-workflows-and-eventarc~~
-        - ~~傳大 HTML string 的 performance~~
+    - URL resolver (tRPC)
+        - 即現有 url-resolver 改 tRPC
+        - 看看有沒有機會 request 來才啟動 browser（stateless）- https://cloud.google.com/blog/topics/developers-practitioners/taking-screenshots-web-pages-cloud-run-jobs-workflows-and-eventarc
+        - 傳大 HTML string 的 performance
             - Can implement [data transformers](https://trpc.io/docs/server/data-transformers)
             - https://pouyae.medium.com/sia-an-ultra-fast-serializer-in-pure-javascript-394a5c2166b8
     - Media manager (tRPC)
         - 實作轉檔邏輯、進行轉檔
-- ~~tRPC components 上 Cloud Run~~
-    - ~~Authentication: https://lynn.zone/blog/trpc-service-to-service-on-cloud-run/~~
+- tRPC components 上 Cloud Run
+    - Authentication: https://lynn.zone/blog/trpc-service-to-service-on-cloud-run/
     - 觀察 Cloud run latency、cost
     - 觀察 Linode 下降多少 load
 
@@ -122,7 +122,6 @@ Note: GCP 發票
     :::info
     Update: Cofacts 的 GCP 現在由 Cofacts 在 OCF 的捐款專戶支出，發票問題已經解決。
     :::
-
 :::
 
 
@@ -143,8 +142,7 @@ Benefits
     - 摸索 SSH 登入管理、操作指令身份
 - [ ] Production Linode --> [C3D Standard 4](https://cloud.google.com/products/calculator?hl=en&dl=CjhDaVE1TW1ZM01qUmlNeTB6WVRWbExUUTBNR1V0T0dNeE5TMDNaVGN5WVRZMFpHSTBOV1lRQVE9PRAIGiQzOTA0OEYxQi01OTUzLTRBREYtQkYwNy03ODBBN0UwQjU3MUQ)
 
-### DDoS defense with Cloudflare
-
+### DDoS defense with Cloudflare :heavy_check_mark: 
 
 Website :heavy_check_mark: 
 - Use cloudflare firewall
@@ -154,9 +152,9 @@ Website :heavy_check_mark:
 - Done in 2025/9/13 https://g0v.hackmd.io/@cofacts/meetings/%2FugEF1rEBQw-4IwPWjPcTtA
 
 API
-- **Deprecate cofacts-api.g0v.tw**
+- **Deprecate cofacts-api.g0v.tw** :heavy_check_mark: 
     - [2025/9/1 決議執行](https://g0v.hackmd.io/@cofacts/meetings/%2FBmvp4muVR6SYDVNxcBooZw)
-    - 
+    - 9/2 去信溝通會在 9/13 將 cofacts-api.g0v.tw 303 redirect 到 api.cofacts.tw 並以 Cloudflare 管理流量
 - API access management (see Op layer)
 
 ### Logging and monitoring

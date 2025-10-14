@@ -20,3 +20,14 @@
 ## 小聚籌備
 *   **[bil]** 食物、不太環保杯、場地預訂確認
 *   **[Justin]** VOOM and FB 發文
+
+## CCPRIP
+
+### [Infra] Migrate to Cloudrun
+
+> Ref: https://g0v.hackmd.io/BRsJOevWSbyUMBSZEVVWrA?view#Phase-1-rumors-site-amp-rumors-line-bot-%E4%B8%8A-Google-cloud-run
+> 20240603 預測 tw site cost ~= 78USD/mo - https://g0v.hackmd.io/fj-DahVuTDKZSsqF6dy8Rg#Infra-Migrate-to-Cloudrun
+>
+
+- 2025/10/14 3am~4am 搬移 cofacts.tw 到 cloudrun
+
