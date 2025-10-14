@@ -95,16 +95,16 @@ Steps include:
     - 不管 server / client communication
 - rumors-api 轉為 monorepo of:
     - Application API (GraphQL)
-    - URL resolver (tRPC)
-        - 即現有 url-resolver 改 tRPC
-        - 看看有沒有機會 request 來才啟動 browser（stateless）- https://cloud.google.com/blog/topics/developers-practitioners/taking-screenshots-web-pages-cloud-run-jobs-workflows-and-eventarc
-        - 傳大 HTML string 的 performance
+    - URL resolver ~~(tRPC)~~ 改寫成 Cloudflare workflow https://github.com/cofacts/rumors-api/issues/373
+        - ~~即現有 url-resolver 改 tRPC~~
+        - ~~看看有沒有機會 request 來才啟動 browser（stateless）- https://cloud.google.com/blog/topics/developers-practitioners/taking-screenshots-web-pages-cloud-run-jobs-workflows-and-eventarc~~
+        - ~~傳大 HTML string 的 performance~~
             - Can implement [data transformers](https://trpc.io/docs/server/data-transformers)
             - https://pouyae.medium.com/sia-an-ultra-fast-serializer-in-pure-javascript-394a5c2166b8
     - Media manager (tRPC)
         - 實作轉檔邏輯、進行轉檔
-- tRPC components 上 Cloud Run
-    - Authentication: https://lynn.zone/blog/trpc-service-to-service-on-cloud-run/
+- ~~tRPC components 上 Cloud Run~~
+    - ~~Authentication: https://lynn.zone/blog/trpc-service-to-service-on-cloud-run/~~
     - 觀察 Cloud run latency、cost
     - 觀察 Linode 下降多少 load
 
@@ -151,10 +151,12 @@ Website :heavy_check_mark:
   > - cofacts.tw--> Cloudflare --> Cofacts website
   > - cofacts.g0v.tw--> nginx w/ HTTPS --> 301 cofacts.tw --> Cloudflare --> Cofacts website
 - If 301 redirect floods nginx, try using another 301 redirect service that supports custom domain
-- Done in 2025/
+- Done in 2025/9/13 https://g0v.hackmd.io/@cofacts/meetings/%2FugEF1rEBQw-4IwPWjPcTtA
 
 API
 - **Deprecate cofacts-api.g0v.tw**
+    - [2025/9/1 決議執行](https://g0v.hackmd.io/@cofacts/meetings/%2FBmvp4muVR6SYDVNxcBooZw)
+    - 
 - API access management (see Op layer)
 
 ### Logging and monitoring

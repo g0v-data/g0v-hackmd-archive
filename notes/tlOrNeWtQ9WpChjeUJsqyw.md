@@ -197,3 +197,11 @@
 ### 平等法
 
 ### 性別友善廁所
+
+---
+
+### 核實文專區
+
+
+#### 未核實
+* https://www.facebook.com/do.you.want.a.lecture.from.hell/posts/pfbid03oAnM5HrrpSdy8vgXbF1otbttHeSa6qHc9k1XFwo9FNJPnrJtbsT1rR73sdxexogl
