@@ -323,6 +323,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * [10/7【我有話要說】-- 原民會、原民處xFata'an部落有約](https://www.facebook.com/share/p/1G7YzEgZQe/)--- [name=Fata'an部落] 
 
 * [10/14第二次災區應變說明及最新緊急應變疏散計畫](https://www.facebook.com/share/p/16VsQnwmKm/)--- [name=Fata'an部落] 
+* 
 
 ---
 ## 🗃️舊平台 Backup
