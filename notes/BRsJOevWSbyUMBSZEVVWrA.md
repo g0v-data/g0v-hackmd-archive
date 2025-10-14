@@ -145,11 +145,13 @@ Benefits
 
 ### DDoS defense with Cloudflare
 
-Website
+
+Website :heavy_check_mark: 
 - Use cloudflare firewall
   > - cofacts.tw--> Cloudflare --> Cofacts website
   > - cofacts.g0v.tw--> nginx w/ HTTPS --> 301 cofacts.tw --> Cloudflare --> Cofacts website
 - If 301 redirect floods nginx, try using another 301 redirect service that supports custom domain
+- Done in 2025/
 
 API
 - **Deprecate cofacts-api.g0v.tw**
