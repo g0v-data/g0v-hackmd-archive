@@ -30,4 +30,9 @@
 >
 
 - 2025/10/14 3am~4am 搬移 cofacts.tw 到 cloudrun
+- Cloud Run cost increase ![](https://g0v.hackmd.io/_uploads/r15_ziopxg.png)
 
+
+## 來信
+
+- https://cofacts.tw/article/2fS7y4oBAjOeMOkl_Ljg
