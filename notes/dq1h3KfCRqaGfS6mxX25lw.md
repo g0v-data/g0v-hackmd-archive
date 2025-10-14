@@ -62,7 +62,7 @@ Contributing content **means that you agree to waive your copyright and release 
 
 *  [💻 g0v 花蓮馬太鞍溪堰塞湖溢流災情整合平台(本份文件)<br><small>👉可直接共編，點擊網頁上方的🖋開始進行編輯</small>](https://g0v.hackmd.io/dq1h3KfCRqaGfS6mxX25lw?view)
     *  [加入g0v slack #hulien頻道 可進行討論](https://g0v-tw.slack.com/join/shared_invite/zt-3bkxxa67k-okdoIWoZkGbX4q~U3C_cNA#/shared-invite/email) [target=_blank]
-* [💻 光復救災資訊整合網 <small> --- 林于立@g0v後勤中心分享</small>](https://sites.google.com/view/guangfu250923) [target=_blank]
+* [💻 光復超人(原光復救災資訊整合網） <small> --- 林于立@g0v後勤中心分享</small>](https://sites.google.com/view/guangfu250923) [target=_blank]
     * [Facebook 貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/) [target=_blank]
     * [回報表單 👉10/3 新增『人力』與『物資』需求媒合網 (10/05 15:57 關閉中)](https://forms.gle/2o3bW4DrHmmEGwPJ8)
  
@@ -98,7 +98,6 @@ Contributing content **means that you agree to waive your copyright and release 
 
 
 ### 各組織招募
-
 * *[<10/3暫停媒合>](https://www.facebook.com/share/p/1MFxvkanjC/)* [清運志工招募＋災戶需求填表 : 花蓮縣議員楊華美發起的媒合](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform) [target=_blank]
 * *`<9/30 停止招募>`* [慈濟志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) [target=_blank]
     * [鏟子超人行動指南](https://sites.google.com/view/guangfugogo/)[target=_blank] --- [name=慈濟鏟子超人幕後團隊]
