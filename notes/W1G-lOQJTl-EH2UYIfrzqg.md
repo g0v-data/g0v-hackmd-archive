@@ -1,10 +1,10 @@
 ---
-tags: GIS,
+tags: GIS, japan, 
 ---
 
-# 日本地理空間規劃類內容
+# Japan 日本地理空間規劃類內容
 
-## map / data
+## Map / Data
 https://maps.gsi.go.jp/vector/
 https://mapcompare.jp/
 https://rekichizu.jp/
@@ -30,7 +30,7 @@ https://tech.ardswc.gov.tw/Seminar/SeminarDiscussion
 
 ---
 
-## topic
+## Topic / Area
 
 可視化法學
 https://www.lawvis.info/
@@ -50,14 +50,18 @@ https://www.chuko.co.jp/laclef/2024/12/150828.html
 https://www.facebook.com/share/p/1B97La8Urf/
 
 Tokyo
-https://minitokyo3d.com/
-https://l.facebook.com/l.php?u=https%3A%2F%2Finfo.tokyo-digitaltwin.metro.tokyo.lg.jp%2F3dmodel%2F%3Ffbclid%3DIwY2xjawI_Mh1leHRuA2FlbQIxMQABHUmL8WtSKSc8A26dc457c8mUvavesV5lrI4Ro9IFyxfiAL0auCMXlG-WxA_aem_k4dQa_dP0NNSlWDKea71zw&h=AT2GMqdH6AP7Q0LHdHcg6UncjrgdI_34XFVcIv6dIMbxaGYDKUl38shBAW71L3GKfVxS_LERHvFQmA_L2KZhAqBMxnJWIKjW7ObZrgbV4vuBeORFwlwEId-PkapaZPRvfRSIY7oC5WmO&s=1
-東京地鐵
-https://www.facebook.com/share/1AF2rSrNKS/
+- https://minitokyo3d.com/
+- Tokyo Digital Twin 3D Viewer
+    - https://info.tokyo-digitaltwin.metro.tokyo.lg.jp/3dmodel/
+- 東京地鐵 https://www.facebook.com/share/1AF2rSrNKS/
 
-橫濱地區營造機制
-待補網址素材
-https://eyesonplace.net/2017/11/29/7004/
+東京都世田谷區
+- https://g0v.hackmd.io/V2ZWE3VBRe-DyOiFRaeysg?view
+
+橫濱地區營造機制、地區規劃
+- https://eyesonplace.net/2017/11/29/7004/
+- https://tw.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/suishin/minnade/areaplan/pl-ninteibo.html
+
 
 《NHK スペシャル震災 ビッグデータ》此書的網路素材
 https://g0v.hackmd.io/ZsAGMi_lRkC5oAgaOAd3jQ?view
@@ -65,14 +69,16 @@ https://g0v.hackmd.io/ZsAGMi_lRkC5oAgaOAd3jQ?view
 WaytoSafety 隨時隨地知道避難場所位置 Shelter Map (Taiwan, Japan, Korea, HK)
 https://g0v.hackmd.io/@chewei/waytosafety-home
 
-2024 鹿兒島縣町長交流
-https://maps.app.goo.gl/qEqYau321AVMRCv16
-2025 災害
-https://www.facebook.com/share/p/17C2gc5jm9/
+京都
+- https://g0v.hackmd.io/pctpoYVFSSm_o8Kydk4NwQ?view
+
+鹿兒島縣
+- 2024 鹿兒島縣町長交流 https://maps.app.goo.gl/qEqYau321AVMRCv16
+- 2025 災害 https://www.facebook.com/share/p/17C2gc5jm9/
 
 離島
-https://rito.pref.aichi.jp/
-https://www.facebook.com/shima.ame.lab
+- https://rito.pref.aichi.jp/
+- https://www.facebook.com/shima.ame.lab
 
 九州作為大型戰爭的避難收容地區
 https://www.facebook.com/share/p/1682CYaEeV/
