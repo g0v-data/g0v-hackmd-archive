@@ -4,6 +4,10 @@ tags: river,
 
 # 新店溪水環境探討
 
+:::success
+上層文件：https://g0v.hackmd.io/@chewei/xinsheng-watershed/
+:::
+
 ## 20250717 民間工作坊場次
 
 當天活動討論過程與內容：https://photos.app.goo.gl/BkExorCmKiko1tis9
@@ -52,7 +56,7 @@ https://public.utaipei.edu.tw/p/405-1066-125395,c59.php?Lang=zh-tw
     - 筆電
     - 延長線
 
-## 內容
+## 內容初擬
 
 主軸一：
 - 若依循當前的模式會碰壁，本次希望開展一些繞行而開展的治理樣貌與願景
@@ -83,7 +87,7 @@ https://public.utaipei.edu.tw/p/405-1066-125395,c59.php?Lang=zh-tw
 - 臺北城，半島，跨河，板橋
 
 主題延伸討論：
-- 馬太鞍溪的環境變遷歷史
+- 以馬太鞍溪的環境變遷歷史為例
 - 歷史變化
     - 我是覺得可以融入 新店溪 的角度來撰寫，來理解 "台北城 -> 城南" 的自然邊界
     - 整體地形有大河階
@@ -99,7 +103,6 @@ https://public.utaipei.edu.tw/p/405-1066-125395,c59.php?Lang=zh-tw
     - 川端橋，中正橋修繕
     - 廈川玖肆（川端藝會所）
 - 河流兩側視角觀點 https://g0v.hackmd.io/@chewei/20250523
-
 
 環境系統
 - 全台流域，河川類型
