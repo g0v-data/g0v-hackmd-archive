@@ -189,6 +189,8 @@ https://moda.gov.tw/ADI/services/publications/16938
 公務機關使用生成式AI相關管理規範
 https://reurl.cc/G5qEgZ
 
+Governing with Artificial Intelligence The State of Play and Way Forward in Core Government Functions https://www.oecd.org/en/publications/governing-with-artificial-intelligence_795de142-en.html
+
 【世界衛生組織關於人工智慧醫療的倫理與治理指引︰AI 醫療的關鍵倫理原則與其對台灣的啟示】全文連結：http://markliu.org/AImed.pdf
 
 金管會，金融業
