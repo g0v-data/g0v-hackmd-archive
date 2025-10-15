@@ -67,7 +67,8 @@ tags: vTaiwan
 
 
 ## 轉錄逐字稿與AI大綱
-
+- 逐字稿轉錄：MacWhisper + large V3 Turbo。
+- 有請 cursor AI 來轉換繁體與簡體。
 
 ### 逐字稿詳情
 https://www.vtaiwan.tw/transcription_detail/20251008
@@ -92,7 +93,7 @@ https://www.vtaiwan.tw/transcription_detail/20251008
    - 提及會議中會有線上與線下同步參與的安排。
 
 4. **參與者自我介紹（部分）**
-   - 有參與者簡短說明自己來自英國，持有綠碼，因家庭與學業因素來台。
+   - 有參與者簡短說明自己來自英國，持有，因家庭與學業因素來台。
    - 另一位參與者說明在倫敦、牛津、大學等地的學術背景與活動經驗。
 
 5. **社群空間與資源說明（開始）**
