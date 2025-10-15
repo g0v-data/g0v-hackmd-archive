@@ -31,10 +31,9 @@ Contributing content **means that you agree to waive your copyright and release 
   ![](https://g0v.hackmd.io/_uploads/Hy0cTrL3eg.png =x300)
 * [ℹ️ 全民防災e點通 | 馬太鞍溪堰塞湖專區 <small>-- 內政部消防署</small>](https://bear.emic.gov.tw/MY2/disasterInfo/99393)[target=_blank]
     * 應變處置報告、各部會投入事項、情資研判資料、預警簡訊等
-* [ℹ️ 花蓮縣政府馬太鞍專區 <small>--- *花蓮縣政府*</small>](https://www.hl.gov.tw/ysh/) [target=_blank]
-    * 內有死亡失聯撤離收容名冊以及**交通管制公告**等
-    * [花蓮縣政府臉書粉絲團](https://www.facebook.com/hlgov)[target=_blank]
-
+* [ℹ️ 中央前進協調所「花蓮光復鄉災後復原」記者會 <small>--- *行政院*</small>](https://www.facebook.com/ey.gov.tw/live_videos) [target=_blank]
+    * 每天10:00記者會公告最新進度
+    
 ## 災民需求 X 志工前往（‼️[救災行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️ ）
 
 * [光復超人(前光復救災資訊整合網)<small> --- 林于立@g0v後勤中心分享</small>](https://gf250923.org) [target=_blank]
@@ -84,17 +83,20 @@ Contributing content **means that you agree to waive your copyright and release 
 
 
 
-## 💪 人力 💪<br>⚠️注意自身安全、自備裝備，切勿造成災區負擔！
+## 💪 人力 <br>⚠️注意自身安全、自備裝備，切勿造成災區負擔！
 
-* [‼️請先閱讀支援災後清理工作的 注意事項](https://g0v.hackmd.io/@yitzu/rkBzt5Qheg)
-* [接駁車資訊](https://docs.google.com/spreadsheets/d/1YAKX2_FK4yWojReU6kwI16tVAEyJ0BxU/edit?gid=1603419519#gid=1603419519)`交通部`
+* [‼️請先閱讀支援災後清理工作的 注意事項‼️](https://g0v.hackmd.io/@yitzu/rkBzt5Qheg)
 * [物理治療師ZM<br>如何使用圓鍬更順手](https://www.threads.com/@zm_health_fitness/post/DPGjRv6EsLB?xmt=AQF0mtw4TncghOPHrQh_bLaiCTuvZP1-_aalZ6ADrM34wA&slof=1) [target=_blank]
 
-### 官方成立與資訊總表
 
-* [行政院中央前進協調所](https://www.facebook.com/moea.gov.tw/posts/pfbid02tZoxmDMCVs8g6vDoBxPXsZ5BCSmvbFbwXrswJhHkKPf7XeFGXxykhMhWgEsLQ5bJl) [target=_blank] `👉未加入其他組織請參考`
-    * [馬太鞍鏟子超人志工群](https://line.me/ti/g2/fbzCCdqkrqolFPvNsOLwUSA9WOaq2VVrdzODug?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)[target=_blank] --- 前進協調所
-*   <a href="https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83" target="_blank">中央災害應變中心</a>：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
+### 官方資訊
+* `<10/10行政院公布>`[中央替個別志工投保](https://www.facebook.com/share/p/165iWzc8pT/)
+    * 投保地點：光復車站正門口左手邊100公尺大帳棚區`掃QR code投保` 
+    * 即日起，每日8:00~16:00
+
+* `<交通部>`[接駁車資訊](https://docs.google.com/spreadsheets/d/1YAKX2_FK4yWojReU6kwI16tVAEyJ0BxU/edit?gid=1603419519#gid=1603419519)
+
+*   <a  href="https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83" target="_blank">中央災害應變中心</a>：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
 
 
 ### 各組織招募
@@ -304,7 +306,9 @@ Contributing content **means that you agree to waive your copyright and release 
     * [留言聯絡 0973509393 陳先生](tel:+886973509393)
 
 ## 💡其他資訊
-
+* [ℹ️ 花蓮縣政府馬太鞍專區 <small>--- *花蓮縣政府*</small>](https://www.hl.gov.tw/ysh/) [target=_blank]
+    * 內有死亡失聯撤離收容名冊以及**交通管制公告**等
+    * [花蓮縣政府臉書粉絲團](https://www.facebook.com/hlgov)[target=_blank]
 * [花蓮馬太鞍溪堰塞湖災害救援懶人包](https://hackmd.io/@DPPinfo/H1jdGQM2eg#0923-%E8%8A%B1%E8%93%AE%E9%A6%AC%E5%A4%AA%E9%9E%8D%E6%BA%AA%E5%A0%B0%E5%A1%9E%E6%B9%96%E7%81%BD%E5%AE%B3%E6%95%91%E6%8F%B4%E6%87%B6%E4%BA%BA%E5%8C%85)`<彙整官方、民進黨資訊>`
 * [🖥️農村水保署_BigGIS圖台](https://gis.ardswc.gov.tw/map/)`<開設馬太鞍堰塞湖專區，除匯入2025/9/25 最新的災後航照影像及Pleiades衛星影像，亦整合地址、地籍圖等資料>`
 
