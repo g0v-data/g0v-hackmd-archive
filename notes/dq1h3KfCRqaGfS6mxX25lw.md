@@ -34,7 +34,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * [ℹ️ 中央前進協調所「花蓮光復鄉災後復原」記者會 <small>--- *行政院*</small>](https://www.facebook.com/ey.gov.tw/live_videos) [target=_blank]
     * 每天10:00記者會公告最新進度
     
-## 災民需求 X 志工前往（‼️[救災行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️ ）
+## 🤝🏻災民需求 X 志工前往（‼️[行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️ ）
 
 * [光復超人(前光復救災資訊整合網)<small> --- 林于立@g0v後勤中心分享</small>](https://gf250923.org) [target=_blank]
     * [Facebook 社團貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/) [target=_blank]
@@ -45,17 +45,11 @@ Contributing content **means that you agree to waive your copyright and release 
     * 網站申請需求，後台小幫手媒合小蜜蜂，媒合率高。
 
 
-* [QSearch 彙整災害救援資訊](https://www.qsearch.cc/disaster/) [target=_blank]
-    * AI自動彙整，請自行確認資訊正確性
+* [QSearch 彙整災害救援資訊](https://www.qsearch.cc/disaster/) [target=_blank] <small> --- **AI自動彙整，請自行確認資訊正確性** </small> 
 
 
-* [🪏 光復救災資源整合APP（一站式適用於手機版）](https://pse.is/8848hc) <small> --- 陳弼群</small>
-    * 公告資訊、救援地圖、災民專區（避難安置點/醫療站/物資站/住宿資訊/救助補助金/尋人啟事/災民需求）、志工專區（志工指南/志工媒合/住宿資訊/交工共乘/我要配送/洗澡點/醫療加水站)、物資專區（物資需求/我要捐贈）
-    * 全人工更新（彙整多方資料來源）
-    * 資訊僅供參考，真實需求與現場狀況請依當地公告為準。
 
-
-## 💪 給能幫忙的人<br>For Those Who Can Provide Assistance
+## 💪給能幫忙的人<br>For Those Who Can Provide Assistance
 
 ### 鍵盤支援（資訊統整、地圖回報）
 
@@ -67,11 +61,6 @@ Contributing content **means that you agree to waive your copyright and release 
  
 * [🗺️ 花蓮光復救災地圖<br><small>（需要志工、需要物資、提供洗澡、提供住宿）<br>👉直接定位並點選地圖「填寫救災資訊表單」，回報<br>---江明宗</small>](https://tainan.olc.tw/p/guangfu250923/)
     * [發起人 Facebook 貼文](https://www.facebook.com/share/p/1BcgMUgPyY/)
-* [🗺️ 救災資源整合地圖<br><small>避難所/物資站/災區內志工住宿、需志工協助區域(自備救援工具)、交通管制資訊、醫療站、幼兒物資、心理健康服務、臨時供水站/洗手間、返鄉青年&志工住宿、物資接收轉運站(接受捐贈中)、急需人手-阿多莫部落<br>--- 俞凱倫</small>](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8)
-    * [發起人 Facebook 貼文](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
-
-
-* [📱光復救災資源整合APP（一站式適用於手機版）<br><small>公告資訊、救援地圖、災民專區（避難安置點/醫療站/物資站/住宿資訊/救助補助金/尋人啟事/災民需求）、志工專區（志工指南/志工媒合/住宿資訊/交工共乘/我要配送/洗澡點/醫療加水站)、物資專區（物資需求/我要捐贈）<br>--- 陳弼群</small>](https://pse.is/8848hc)
 
 
 * [🗺️流動廁所分布地圖<br><small> --- 昭昭</small>](https://www.google.com/maps/d/u/0/viewer?mid=1hvkIGwDBe9ehupEHxY6KzVSTuLWsGfU&ll=23.669659711573825%2C121.44137006173119&z=15) [target=_blank]
@@ -83,13 +72,13 @@ Contributing content **means that you agree to waive your copyright and release 
 
 
 
-## 💪 人力 <br>⚠️注意自身安全、自備裝備，切勿造成災區負擔！
+### 人力 <br>⚠️注意自身安全、自備裝備，切勿造成災區負擔！
 
 * [‼️請先閱讀支援災後清理工作的 注意事項‼️](https://g0v.hackmd.io/@yitzu/rkBzt5Qheg)
 * [物理治療師ZM<br>如何使用圓鍬更順手](https://www.threads.com/@zm_health_fitness/post/DPGjRv6EsLB?xmt=AQF0mtw4TncghOPHrQh_bLaiCTuvZP1-_aalZ6ADrM34wA&slof=1) [target=_blank]
 
 
-### 官方資訊
+#### 官方資訊
 * `<10/10行政院公布>`[中央替個別志工投保](https://www.facebook.com/share/p/165iWzc8pT/)
     * 投保地點：光復車站正門口左手邊100公尺大帳棚區`掃QR code投保` 
     * 即日起，每日8:00~16:00
@@ -99,20 +88,22 @@ Contributing content **means that you agree to waive your copyright and release 
 *   <a  href="https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83" target="_blank">中央災害應變中心</a>：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
 
 
-### 各組織招募
-* *[<10/3暫停媒合>](https://www.facebook.com/share/p/1MFxvkanjC/)* [清運志工招募＋災戶需求填表 : 花蓮縣議員楊華美發起的媒合](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform) [target=_blank]
+#### 各組織招募
+* [法鼓山花蓮精舍 <small> --- 10/16~17打掃志工報名填表 </small>](https://docs.google.com/forms/d/e/1FAIpQLSdfVDDNyRwhJWMxnj-0YdzKdvhybRLuq3JF_xap4j9sk4yykg/viewform) [target=_blank]
+* [小光故事屋（光復鄉孩子的秘密基地）招募陪伴志工](https://www.facebook.com/jovi.wu/posts/pfbid02N9xh8a6uGy6HgFSBt769bZuggdRVo8rtjpc3dQ3Fpj9XKafiNwCGPzo4saraUUmZl)
+
+* [`<10/3暫停媒合>`](https://www.facebook.com/share/p/1MFxvkanjC/) [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform) [target=_blank] --- [name=花蓮縣議員楊華美發起的媒合]
 * *`<9/30 停止招募>`* [慈濟志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) [target=_blank]
     * [鏟子超人行動指南](https://sites.google.com/view/guangfugogo/)[target=_blank] --- [name=慈濟鏟子超人幕後團隊]
-* [花蓮縣卓溪鄉新女力公益協會](https://www.facebook.com/share/p/1CtZ896nVq/) [target=_blank] <br> --- [10/3~12 第二階段志工招募（物資組）](https://docs.google.com/forms/d/e/1FAIpQLSdKpgJMQRC0jLUmp2nGhpF4GL_ALesXjsgI6igzQ0f3QEt_SA/viewform)
+* [`<10/12行動結束>`](https://www.facebook.com/share/p/17M18kugnt/)[花蓮縣卓溪鄉新女力公益協會](https://www.facebook.com/share/p/1CtZ896nVq/) [target=_blank] <small> --- [10/3~12 第二階段志工招募（物資組）</small>](https://docs.google.com/forms/d/e/1FAIpQLSdKpgJMQRC0jLUmp2nGhpF4GL_ALesXjsgI6igzQ0f3QEt_SA/viewform)
 * *`<已停止招募>`*[花蓮縣議員 志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform) [target=_blank] 
-* [法鼓山花蓮精舍 <br>--- 10/4~5 打掃志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSdfVDDNyRwhJWMxnj-0YdzKdvhybRLuq3JF_xap4j9sk4yykg/viewform) [target=_blank] 
-* [中華基督教救助協會 <br> --- 10/1起僅徵求大於10人團隊志工](https://docs.google.com/forms/d/e/1FAIpQLSd-bWszIOn3YJJUh8dt0f8eRXOf5OPtRIXTz2fSfESnf0fZng/viewform) [target=_blank] 
+ 
+* [`<10/11行動結束>`](https://www.facebook.com/share/p/1JFYYQkkqv/)[中華基督教救助協會 <small> --- (10/1起僅徵求大於10人團隊志工)</small>](https://docs.google.com/forms/d/e/1FAIpQLSd-bWszIOn3YJJUh8dt0f8eRXOf5OPtRIXTz2fSfESnf0fZng/viewform) [target=_blank] 
 * `<停止召募>`[10/01-10/10 黑熊學院 災後復原志工意願登記表](https://hqt6bch6.r.ap-northeast-1.awstrack.me/L0/https:%2F%2Fforms.gle%2FtsiSNPTFhAhRQXRq9/1/0106019986b8d1d8-b8a4fa45-3392-4aca-892c-75b21ece4a4f-000000/y9xViOz4Nnl8G0FjZEcn3-oCMks=230) [target=_blank] 
 * `<停止召募>`[9/29-9/30 壯闊台灣 災後復原志工填表](https://docs.google.com/forms/d/e/1FAIpQLScEs07epETC0xInagfKXcaaRKEK_jxlOYvAAfpVgJes1jgOug/viewform) [target=_blank]
 * `<10月已滿>`[基督教芥菜種會 社區老師/陪伴老師-參與意願調查](https://forms.gle/VS72bm7ucvXvv3ji9)
-* [小光故事屋（光復鄉孩子的秘密基地）招募陪伴志工](https://www.facebook.com/jovi.wu/posts/pfbid02N9xh8a6uGy6HgFSBt769bZuggdRVo8rtjpc3dQ3Fpj9XKafiNwCGPzo4saraUUmZl)
 
-### 部落當地
+#### 部落當地
 
 * [部落當地 打掃志工聯絡窗口](https://www.facebook.com/DibusILAI/posts/10161875637406717) [target=_blank]
 * [馬太鞍長老教會](#)
@@ -131,7 +122,7 @@ Contributing content **means that you agree to waive your copyright and release 
     * [鄭敏芳 | 0988-126-744](tel:+886988126744)
 * [小草野生工作室 | 林明謙 私訊](https://www.facebook.com/share/p/1ARbHd7vLg/) [target=_blank]
 
-## 捐款
+### 捐款
 * <a href="https://www.facebook.com/photo?fbid=1347945503367890&set=a.519537112875404" target="_blank">財團法人賑災基金會</a> `賴清德總統臉書公布，勸募時間 9/25-10/24，與下方衛福部為同一資訊`
 * [衛福部啟動四種捐款管道](https://www.cna.com.tw/news/ahel/202509240379.aspx) [target=_blank]`中央社9/24報導，除賑災基金會還有 Line Pay、超商捐款、海外捐款等管道`
     * **海外**
@@ -151,7 +142,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * [財團法人台灣基督長老教會宣教基金會](https://donate.pct.org.tw/Storeservice.aspx?SSID=D2019081901) [target=_blank]`在備註寫：花蓮光復鄉洪災`
 * [Pising 彼心書店 支持調查表](https://www.facebook.com/share/19kehepHFs/) [target=_blank]
 
-## 物資
+### 物資
 **⚠️請詳閱當地需求與收送方式<br> --- 僅[花蓮縣卓溪鄉新女力公益協會](https://www.facebook.com/profile.php?id=61553589570040)仍接收物資，其餘目前暫無需求～** *`<10/3 現場資訊>`*
 * [光復物資統整登記表](https://docs.google.com/spreadsheets/d/1ADTYJFxWcvK0XJgJmwWFvG_PSGf3mutAmPk2iExGqVg/edit?gid=0#gid=0) [target=_blank] `9/27 02:15更新-暫緩募集`
 * [花蓮玉里。阿強西瓜](https://www.facebook.com/YuliXigua) [target=_blank]`9/26 00:00更新-暫緩募集`
@@ -313,7 +304,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * [🖥️農村水保署_BigGIS圖台](https://gis.ardswc.gov.tw/map/)`<開設馬太鞍堰塞湖專區，除匯入2025/9/25 最新的災後航照影像及Pleiades衛星影像，亦整合地址、地籍圖等資料>`
 
 
-## 後續行動
+## 🏃🏼後續行動
 
 ### 意見徵集
 * 花蓮救災爭議之後：未來台灣救災程序與資訊流通如何改進？——公民意見徵集 --- [name=vTaiwan] 
@@ -332,11 +323,6 @@ Contributing content **means that you agree to waive your copyright and release 
 ---
 ## 🗃️舊平台 Backup
 ### 已關閉或整併
-* `<10/13停更>`[🪏 救災資源整合地圖 <small> --- 俞凱倫</small>](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) [target=_blank]
-    * [發起人 Facebook 貼文](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
-    [target=_blank]
-    * 全人工更新
-    * `<10/05 12:28 已關閉>`[新資訊請填寫回報表單！](https://forms.gle/2o3bW4DrHmmEGwPJ8) [target=_blank]
 
 * `<表單已關閉>`[🪏 花蓮光復鄉-救災志工/物資募集資訊總表 <small></small>](https://reurl.cc/QaqLKZ) [target=_blank]
     * [發起人 Threads 頁面](https://www.threads.com/@audery1011) [target=_blank]
@@ -353,8 +339,19 @@ Contributing content **means that you agree to waive your copyright and release 
 * `<表單已關閉>`[水電修繕志工 Google 表單連結（技師用）](https://forms.gle/Xx2pbSzztQTK3YsS9) [target=_blank]
     * 轉貼自 LINE 群組「光復救災水電修繕小組（全台民間自發）」的 記事本
 
+* `<已關閉>`[光復救災資源整合APP（一站式適用於手機版）](https://pse.is/8848hc) <small> --- 陳弼群</small>
+    * 公告資訊、救援地圖、災民專區（避難安置點/醫療站/物資站/住宿資訊/救助補助金/尋人啟事/災民需求）、志工專區（志工指南/志工媒合/住宿資訊/交工共乘/我要配送/洗澡點/醫療加水站)、物資專區（物資需求/我要捐贈）
+    * 全人工更新（彙整多方資料來源）
+    * 資訊僅供參考，真實需求與現場狀況請依當地公告為準。
+
 ### 已無即時資訊
-* [💻 Fata’an部落網絡急救小組 (9/25已停止更新)](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing) [target=_blank] `<待搜救、收容名單、民間提供災民住宿清單>`
+* `<10/13停更>`[🪏 救災資源整合地圖 <small> --- 俞凱倫</small>](https://www.google.com/maps/d/embed?mid=1qOHK91tv68NacIN1GVTDYKn10ojb-t8) [target=_blank]
+    * [發起人 Facebook 貼文](https://www.facebook.com/yu.kai.lun.307641/posts/pfbid02H7PBgWQmcsG2avaazJ4RzWRHzJJRTABcNVo6BeskJaVjRGq9njgHtWx3cCUq2Ddfl) [target=_blank]
+    [target=_blank]
+    * 全人工更新
+    * `<10/05 12:28 已關閉>`[新資訊請填寫回報表單！](https://forms.gle/2o3bW4DrHmmEGwPJ8) [target=_blank]
+* `<9/25停更>` [Fata’an部落網絡急救小組 (9/25已停止更新)](https://docs.google.com/spreadsheets/d/10vWTILapG1wPlfJeyI_8-RfrB7j4tYA7lagnXft4mfU/edit?usp=sharing) [target=_blank] 
+    * 待搜救、收容名單、民間提供災民住宿清單
 * [花蓮颱風救援儀表板](https://hualien-help.base44.app/DisasterRelief)[target=_blank] --- [name=Christina Cheng] [link](https://www.threads.com/@christinacheng01/post/DPLJI8uCarN)[target=_blank]
 * [🪏 鏟子英雄-花蓮颱風救援隊接<br><small>(志工與物資媒合)</br>--- 郭亭妍 Tanya-小妍 | 鏟子英雄</small>](https://shovel-heroes.com/) [target=_blank]
     * [Discord](https://discord.com/channels/1421342926801469675/1421342927367438411) [target=_blank]

@@ -313,11 +313,11 @@ https://www.facebook.com/story.php?story_fbid=pfbid02mCEHZmb3nTTg7JkbL1tohDHKUs1
 臺南開元派出所
 https://www.facebook.com/story.php?story_fbid=pfbid0usmhJSdaCH3CbbQBLisr7aqah8GsMKxqAnf3wg4za8gy7Kr6JGDCnyQTXDQjejtVl&id=100063582707007&mibextid=qC1gEa
 
-臺南
+臺南(貼文圖為日本街景)
 https://www.facebook.com/ReTWRoad/posts/pfbid0UJT52uYQMNFTuyRCKiB7i2mXiqFakPbqrh2ZFgnrUbdKibSFX7HJztTJe73EW3oNl?locale=zh_TW
 
 
-在台南東區後甲國中這個路口，雖然對比改善前好很多，但有成功大學的同學反應，庇護島的方向設計有問題，我透過影片轉述他對於路口設計的建議
+在台南東區後甲國中這個路口，雖然對比改善前好很多，但有成功大學的同學反應，庇護島的方向設計有問題，我透過影片轉述他對於路口設計的建議(已登載於地圖)
 https://www.facebook.com/watch?v=950240829364406
 
 臺南多處待拆分
@@ -333,9 +333,6 @@ https://www.facebook.com/share/q47C8UqHDB5yJZJm/
 
 台1線 民生東路、和生路一段
 https://www.facebook.com/share/p/bX4VXBBrpaNERtBE/
-
-後勁國小週邊
-https://www.facebook.com/groups/1961173117467361/permalink/3449766275274697/
 
 街區連續人行道的推論演算方式，探討一個個案「高雄捷運後驛站至高雄醫學大學之間的街區」
 https://www.facebook.com/share/pb4ruhhMgAVGBb7o/
