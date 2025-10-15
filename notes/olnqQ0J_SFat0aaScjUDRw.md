@@ -9,7 +9,8 @@ tags: 防災, 災害, architecture
 待整理素材
 - https://g0v.github.io/lysayit/speech.html?id=LCIDC01_1116401_00006#line-416
 - 2025 馬太鞍部落復原重建倡議 https://g0v.hackmd.io/i3H7DBfgTM27eFHLhjsA1A?view 
-- 司馬限重建案https://www.facebook.com/1755830610/posts/pfbid02p4EtjcZLXoDraZosKqHDGxdo9u4g1BVpwCrkRmdF14ckVZPe6FymZZi32riQcFYSl/?d=n&mibextid=qC1gEa
+- 司馬限重建
+- https://www.facebook.com/1755830610/posts/pfbid02p4EtjcZLXoDraZosKqHDGxdo9u4g1BVpwCrkRmdF14ckVZPe6FymZZi32riQcFYSl/?d=n&mibextid=qC1gEa
 - 「從不當迫遷談空間政治與適足政治權」https://youtu.be/uELfnxnvQgI
 - https://www.facebook.com/story.php?story_fbid=pfbid0THpFms2HScJSPsbXp7h3UnbUM5nYXDDkTJb2YiFA7wZJsLD6khRHQ7oBFEe45GAvl&id=100091318715016&mibextid=tejx2t
 - 朴子新吉庄，因水災而遷村興建 https://www.facebook.com/story.php?story_fbid=pfbid023T9Y8BPdt1TE6Rt5tRRm1GfeXsWGGTsY6JmotSNLMk8wC5zXyZvbHRGCTZ7TuDgBl&id=100050414203173&mibextid=qC1gEa

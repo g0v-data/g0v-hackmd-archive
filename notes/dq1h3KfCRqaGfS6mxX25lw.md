@@ -306,7 +306,7 @@ Contributing content **means that you agree to waive your copyright and release 
     * [留言聯絡 0973509393 陳先生](tel:+886973509393)
 
 ## 💡其他資訊
-* [ℹ️ 花蓮縣政府馬太鞍專區 <small>--- *花蓮縣政府*</small>](https://www.hl.gov.tw/ysh/) [target=_blank]
+* [花蓮縣政府馬太鞍專區 <small>--- *花蓮縣政府*</small>](https://www.hl.gov.tw/ysh/) [target=_blank]
     * 內有死亡失聯撤離收容名冊以及**交通管制公告**等
     * [花蓮縣政府臉書粉絲團](https://www.facebook.com/hlgov)[target=_blank]
 * [花蓮馬太鞍溪堰塞湖災害救援懶人包](https://hackmd.io/@DPPinfo/H1jdGQM2eg#0923-%E8%8A%B1%E8%93%AE%E9%A6%AC%E5%A4%AA%E9%9E%8D%E6%BA%AA%E5%A0%B0%E5%A1%9E%E6%B9%96%E7%81%BD%E5%AE%B3%E6%95%91%E6%8F%B4%E6%87%B6%E4%BA%BA%E5%8C%85)`<彙整官方、民進黨資訊>`
