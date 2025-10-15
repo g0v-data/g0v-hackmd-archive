@@ -205,3 +205,4 @@
 
 #### 未核實
 * https://www.facebook.com/do.you.want.a.lecture.from.hell/posts/pfbid03oAnM5HrrpSdy8vgXbF1otbttHeSa6qHc9k1XFwo9FNJPnrJtbsT1rR73sdxexogl
+* https://www.threads.com/@aur0404/post/DP01qZpkq8x
