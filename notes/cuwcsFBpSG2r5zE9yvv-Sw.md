@@ -125,6 +125,7 @@ https://public.utaipei.edu.tw/p/405-1066-125395,c59.php?Lang=zh-tw
 
 邀請 任翔 分享
 - 「大學生建立流域儀表板、流域擬人化 AI」與 Vibe Coding 工具
+- https://river-watcher.collective.tw
 
 資料治理 / 分析技術
 - People
