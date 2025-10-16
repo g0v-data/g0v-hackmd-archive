@@ -17,6 +17,10 @@ tags: japan,
         - 參考：https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%88%97%E8%A1%A8
     - 區內有277個町丁，是東京23區中最多的一區。
 
+影片
+- https://www.youtube.com/playlist?list=PLjBlyKwAdyCU8zO_cuPj8LbhFrJLZUJeh&jct=-lU7Z0OV8_MK550PiYlhag
+
+
 TODO
 - 開一個 Google My Map
 
