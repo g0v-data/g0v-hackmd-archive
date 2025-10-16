@@ -33,7 +33,10 @@ Contributing content **means that you agree to waive your copyright and release 
     * 應變處置報告、各部會投入事項、情資研判資料、預警簡訊等
 * [ℹ️ 中央前進協調所「花蓮光復鄉災後復原」記者會 <small>--- *行政院*</small>](https://www.facebook.com/ey.gov.tw/live_videos) [target=_blank]
     * 每天10:00記者會公告最新進度
-    
+
+## 風神颱風緊急應變事項
+* 🆕`<10/16發布>`[1012劃定之警戒區內各村里避難參考路線](https://arcg.is/08bmiq0) --- [name=NDHU強韌防災團隊]
+
 ## 🤝🏻災民需求 X 志工前往（‼️[行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️ ）
 
 * [光復超人(前光復救災資訊整合網)<small> --- 林于立@g0v後勤中心分享</small>](https://gf250923.org) [target=_blank]
