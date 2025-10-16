@@ -5,6 +5,32 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 目錄
 [TOC]
 :::
+E:\Public\21Software	T:\21Software
+E:\Public\22MicroSoft	T:\22MicroSoft
+E:\Public\23ISO			T:\23ISO
+E:\Public\24Tools		T:\24Tools
+E:\Public\25OS_IMG		T:\25OS_IMG
+Public
+\\192.168.5.51\f$\Public		E:\Public
+
+CY
+
+D:\11Ken\Outlook\	ken.chainlon.net	/home/32Outlook/
+D:\11Ken\Outlook\	J:\NAS_Backup\Homes\ken.luo\32Outlook
+FTP PM 192.168.5.157	/Web/data/	D:\Web\PM\data\
+FTP	192.168.5.46	/CY01/25資訊組/WebService/展頌VCF/	D:\Web\vcf\
+
+```
+@robocopy "\192.168.5.51\f$\Public" "E:\Public"  /mir /r:1 /w:3
+@robocopy "E:\Public\21Software" "T:\21Software"  /mir /r:1 /w:3
+@robocopy "E:\Public\22MicroSoft" "T:\22MicroSoft"  /mir /r:1 /w:3
+@robocopy "E:\Public\23ISO" "T:\23ISO"  /mir /r:1 /w:3
+@robocopy "E:\Public\24Tools" "T:\24Tools"  /mir /r:1 /w:3
+@robocopy "E:\Public\25OS_IMG" "T:\25OS_IMG"  /mir /r:1 /w:3
+@robocopy "D:\11Ken\Outlook\" "J:\NAS_Backup\Homes\ken.luo\32Outlook"
+``` 
+
+
 
 #### 常用連結
 Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
