@@ -15,6 +15,9 @@ tags: 防災, 災害, architecture
 - 金門古寧頭戰役災民安置 https://www.facebook.com/story.php?story_fbid=pfbid02214MyY5n5CNLxDjpjztF3xTzHGSTk7w4iBWjpiFq3pQkKntYJKaF8JiRFwepj2eRl&id=100002217764583&mibextid=qC1gEa
 - 待登載 https://www.tf4dr.org/domestics/1
 - 石門水庫工程 移民新村 https://www.facebook.com/share/p/1AGrZbzzF8/
+- 舊社
+    - https://photos.app.goo.gl/x143m17kke5mrPou8
+    - 強制移住
 - [較耗時] 對照 hackpad 內容，把這邊沒有的內容搬到 hackmd https://g0v.hackpad.tw/jEoiuMS44dD
 
 ---
