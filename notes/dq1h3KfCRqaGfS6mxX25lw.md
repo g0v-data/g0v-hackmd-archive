@@ -28,7 +28,8 @@ Contributing content **means that you agree to waive your copyright and release 
 `<堰塞湖危機尚未解除，請隨時保持警覺>`
 * [📢災區現場會以**警報音**，即時提醒居民與志工。](https://www.facebook.com/share/p/17WbrLqRzE/)[target=_blank]
 `<海嘯警報音符為鳴5秒，停5秒，反覆9遍(共85秒)，解除警報音符為一長聲90 秒>` <small>--- 來源，內政部</small>
-  ![](https://g0v.hackmd.io/_uploads/Hy0cTrL3eg.png =x300)
+  ![](https://g0v.hackmd.io/_uploads/S1ljDDcATxe.png =30%x)
+
 * [ℹ️ 全民防災e點通 | 馬太鞍溪堰塞湖專區 <small>-- 內政部消防署</small>](https://bear.emic.gov.tw/MY2/disasterInfo/99393)[target=_blank]
     * 應變處置報告、各部會投入事項、情資研判資料、預警簡訊等
 * [ℹ️ 中央前進協調所「花蓮光復鄉災後復原」記者會 <small>--- *行政院*</small>](https://www.facebook.com/ey.gov.tw/live_videos) [target=_blank]
