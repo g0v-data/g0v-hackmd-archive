@@ -30,7 +30,7 @@ https://www.facebook.com/groups/582154450196478/posts/903378741407379/
 
 2024 臺北市政府將針對「中正區及萬華區」提出城市降溫計畫
 
-2025 新店溪探討
+2025 新店溪水環境探討
 https://g0v.hackmd.io/cuwcsFBpSG2r5zE9yvv-Sw?view
 
 ## 2024.08 中正社區大學籌辦探討地區水圳紋理的活動
