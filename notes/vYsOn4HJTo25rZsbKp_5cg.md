@@ -22,6 +22,7 @@ https://g0v.hackmd.io/@chewei/B14OsdWfi/
 - [(已結束)2024 一月至十一月<br>活動籌畫](https://g0v.hackmd.io/_HOgDAFaRYaoApQZJrwRNQ?view)
 - [(已結束)2023 十一月<br>戶外走讀與室內討論活動](https://g0v.hackmd.io/77MzJ59PQoScFkm4P4kYUw?view)
 - [(已結束)2023 四月至八月<br>戶外走讀與室內討論活動](https://g0v.hackmd.io/@chewei/S1tEhWp6j)
+- [20190217 基隆河三腳渡碼頭登船➡︎進入新生大排溝底航行➡︎至光華商場北側的林森抽水站折返<br>👁️‍🗨️ 搭船遊覽環景影片紀錄](https://g0v.hackmd.io/jyO4Hf3GS_6ZWqMWRS1ZCw?view)
 
 ## 議題探討
 - [建立<br>「內水流域環境營造工作指引」<br>都市內水流域儀表板<br>流域擬人化 AI](https://g0v.hackmd.io/luwEBL3wRC-MyXabfJgVMA?view)
