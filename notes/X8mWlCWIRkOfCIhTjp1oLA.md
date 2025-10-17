@@ -92,11 +92,6 @@ https://www.facebook.com/share/p/1K8xoPTuSW/?mibextid=wwXIfr
 花蓮 中山路
 https://www.facebook.com/story.php?story_fbid=1081156217163162&id=100058063810788&mibextid=wwXIfr&rdid=D2XnijX9JGv9LgDq#
 
-桃園多處改造完成路段
-https://www.facebook.com/share/p/12JTBGBzTDg/?mibextid=wwXIfr
-
-桃園後站
-https://www.facebook.com/share/p/19LcoH5HuY/?mibextid=wwXIfr
 
 
 ### 有了改造後地點的經緯度，可以延伸製作
@@ -178,10 +173,6 @@ https://www.facebook.com/share/p/1DSFZtzk7N/?
 
 【車流動線改善】#新北 #環河路 X #中山路 口
 https://www.facebook.com/share/p/14DeBSYoUm9
-
-中和 景平路
-https://www.facebook.com/share/p/QykA5Q8qhkRoqHR6/
-https://docs.google.com/forms/d/e/1FAIpQLSfYkLzzPquePO9WQeC1bNXoOUztPfaVAvs3H_j0MR7Y-lgDtA/viewform
 
 
 樹林
