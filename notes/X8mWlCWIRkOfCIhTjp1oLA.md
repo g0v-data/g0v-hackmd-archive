@@ -70,10 +70,6 @@ https://photos.app.goo.gl/PothcgShgdY5ThrB8
 宜蘭 無號誌路口改善
 https://youtu.be/AyZcbFMyCLI
 
-臺北 忠誠路士東路路口
-https://www.facebook.com/share/p/8QFfGDPyTnuj3ywu/
-https://www.facebook.com/share/v/QKNqdAvtoNMxatcy/
-
 新北三重環河南路跟中正南路口有個實體分隔島 島的四周圍都有劃設人行空間 最外圍還插滿了棒棒糖 很少看到實體分隔島有如此的設計
 https://www.facebook.com/share/p/FuxSy8Nk9C9jdRCp/
 
@@ -99,14 +95,8 @@ https://www.facebook.com/groups/525658186189949/permalink/642717687817331/
 瑞恩街
 高雄建昌路巷弄
 
-左營，計畫道路調整，搭配既有圓環
-https://www.facebook.com/story.php?story_fbid=pfbid0kEdA3VBVjWniyJ7ytY68Xfb7EtaphhwxeQrc46Bt3VfxcgDyGxpz3UZRjSdC91uql&id=100000571470160&mibextid=qC1gEa
-
-東港 行人庇護島
+東港 行人庇護島(鎖住看不到)
 https://www.facebook.com/share/p/cKfUkuXLe4d3abui/
-
-高雄三民區大昌一路302巷
-https://www.facebook.com/story.php?story_fbid=706472412349723&id=100089609110714&mibextid=wwXIfr&rdid=rQ24L100VGVe7BfL#
 
 高雄中山大學
 https://www.facebook.com/share/p/1K8xoPTuSW/?mibextid=wwXIfr
@@ -355,9 +345,6 @@ https://www.facebook.com/TaiwanTrafficSafeAssociation/posts/pfbid0cCWCvPLmdDYqjw
 
 高雄 國隆路 工作坊
 https://www.facebook.com/share/p/1ALHMhVBoi/?mibextid=wwXIfr
-
-高雄 河堤國小 工作坊
-https://www.facebook.com/share/p/19Fsaehm3g/?mibextid=wwXIfr
 
 
 ## 政策蒐集
