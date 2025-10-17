@@ -81,16 +81,7 @@ https://www.facebook.com/share/p/FuxSy8Nk9C9jdRCp/
 南投
 https://www.facebook.com/groups/twroadclub/permalink/2459857794193981/
 
-台南孔廟 拆除同向分隔島
-https://www.facebook.com/share/p/SAxiq31oKaNQ8kSX/?mibextid=WC7FNe
-
-高雄「標線型圓環」，位在三多商圈的文橫三路與廣西路和南天街2條道路交會處的多叉路口
-https://www.facebook.com/share/r/buYYpFyFWVwSXd1h/
-https://news.pts.org.tw/article/682762
 瑞福路與崗山南街路口再設第2處標線圓環
-
-高雄市新堀江五福二路玉竹三街行穿線中央分隔島敲除已完成啟用
-https://www.facebook.com/groups/525658186189949/permalink/642717687817331/
 
 瑞恩街
 高雄建昌路巷弄
