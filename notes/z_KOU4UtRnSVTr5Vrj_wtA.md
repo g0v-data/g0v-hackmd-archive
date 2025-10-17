@@ -11,36 +11,23 @@ tags: GIS,
 [TOC]
 :::
 
-## 環境變遷歷程素材蒐集
 
-追溯城南水文化故事 / 自來水園區 / 小觀音山 / 寶藏巖
-https://docs.google.com/presentation/d/1mhrHS0iFxxK8r5UL91G0PhS1pMWMEcftz3Q70N296oU/edit
+## 近年活動
 
-1950 年代地圖
-https://www.facebook.com/share/p/wZ7du6VDn61YnadK/
+### 南萬華寶興街上的堀仔頭水路小公園保存與營造
 
-1976 加蓋照片
-https://time.udn.com/udntime/story/122835/7647810
-
-舊地圖
-https://www.facebook.com/share/p/15Juv8jpb8/
-
-南萬華寶興街上的堀仔頭水路小公園
 https://www.facebook.com/kuzitou
 https://www.facebook.com/share/p/VUF4CuvpyrmouCUv/
 
-20170603-04 客家公園地區舊水路踏查與後續行動方向
+### 20170603-04 客家公園地區舊水路踏查與後續行動方向
+
 踏查相簿網址：https://goo.gl/photos/duT3G1YVZBANoZNFA
 歷史地圖：https://goo.gl/YkcMqg
 線上地圖：https://goo.gl/LfE2No
 
-20240104 路過西藏路路口，看到箱涵施作過程拍照
-https://maps.app.goo.gl/htc3TL9Eo8pGidYH6
-https://www.facebook.com/groups/582154450196478/posts/903378741407379/
+### 2024 臺北市政府將針對「中正區及萬華區」提出城市降溫計畫
 
-2024 臺北市政府將針對「中正區及萬華區」提出城市降溫計畫
-
-## 近年活動
+補市府公布內容
 
 ### 2024.08 中正社區大學籌辦探討地區水圳紋理的活動
 
@@ -89,7 +76,8 @@ https://www.facebook.com/groups/582154450196478/posts/903378741407379/
     - 詢問社大是否有空間改造的照片
 - 操作網站：https://collage.collective.tw/
 
-### 2025 新店溪水環境探討 萬華社大
+### 2025 萬華社大籌辦新店溪水環境相關探討活動
 
+萬華社大籌辦流域工作坊、臺北市立大學公共事務系講座
 https://g0v.hackmd.io/cuwcsFBpSG2r5zE9yvv-Sw?view
 
