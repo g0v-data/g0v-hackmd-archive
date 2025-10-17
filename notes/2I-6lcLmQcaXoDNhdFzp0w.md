@@ -50,6 +50,7 @@ tags: 都市農耕
     - https://www.luebeck-tourismus.de/altstadt/poi/uebergangsgarten
 - 德國，策劃讓民眾來種植
     - https://www.facebook.com/share/p/iyLbYk9k6Ky7x98v/
+- 布達佩斯 https://www.facebook.com/share/p/1AGSmqTbkZ/
 - 加拿大 超市屋頂農耕
     - https://www.upworthy.com/amp/canadian-grocery-store-sells-produce-from-ooftop-garden-2646202425
 - 加拿大 住宅 屋頂農園
