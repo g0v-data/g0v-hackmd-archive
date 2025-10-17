@@ -70,9 +70,6 @@ https://photos.app.goo.gl/PothcgShgdY5ThrB8
 宜蘭 無號誌路口改善
 https://youtu.be/AyZcbFMyCLI
 
-新北三重環河南路跟中正南路口有個實體分隔島 島的四周圍都有劃設人行空間 最外圍還插滿了棒棒糖 很少看到實體分隔島有如此的設計
-https://www.facebook.com/share/p/FuxSy8Nk9C9jdRCp/
-
 東海的漢翔路
 
 
@@ -91,11 +88,6 @@ https://www.facebook.com/share/p/cKfUkuXLe4d3abui/
 
 高雄中山大學
 https://www.facebook.com/share/p/1K8xoPTuSW/?mibextid=wwXIfr
-
-師大路
-https://www.threads.com/@unseen_frames_/post/DJvVEsqzHfi?xmt=AQF0IKVYSIKe7_JVE3D2hNbl734AsF_e0xez_0eQ_due2A
-
-https://www.facebook.com/share/p/1R7Q5nw7Nd/?mibextid=wwXIfr
 
 花蓮 中山路
 https://www.facebook.com/story.php?story_fbid=1081156217163162&id=100058063810788&mibextid=wwXIfr&rdid=D2XnijX9JGv9LgDq#
