@@ -250,17 +250,8 @@ https://www.facebook.com/100094870554841/posts/pfbid02L2FDr2UhHa5djfBe49ZAsXwfEX
 https://www.facebook.com/share/p/kmQB4qVtSRErc1Mw/
 https://www.facebook.com/share/p/NXPAL2zBooXD7C6R/
 
-彰化市三角公園
-https://www.facebook.com/ReTWRoad/photos/a.144368764239959/294776699199164/?type=3&mibextid=0cALme
-
 彰化市彰南路0k(中山路口)~3k(中彰路口)辦理交通改善
 https://www.facebook.com/watch/?v=642928451144026
-
-彰化市陳稜路
-https://www.facebook.com/share/p/16XDBot8np/?mibextid=wwXIfr
-
-彰化縣永靖鄉瑚璉路多福路口
-https://www.facebook.com/share/xjrxPQUt8hkEiRvv/
 
 彰化和美六岔路口
 https://www.facebook.com/share/nQV1MjrfnfGFFMDP/
@@ -300,8 +291,6 @@ https://www.facebook.com/story.php?story_fbid=pfbid02hVwr1qy7J6mWwn6Mmd62h9bFmh2
 臺南市永康區中華路至大橋火車站
 https://www.facebook.com/story.php?story_fbid=pfbid02mCEHZmb3nTTg7JkbL1tohDHKUs1nzrqpCJVMBiszDK3wHnJMWVXB6UXRhCT1ZZ5Rl&id=100010143949091&mibextid=qC1gEa
 
-臺南開元派出所
-https://www.facebook.com/story.php?story_fbid=pfbid0usmhJSdaCH3CbbQBLisr7aqah8GsMKxqAnf3wg4za8gy7Kr6JGDCnyQTXDQjejtVl&id=100063582707007&mibextid=qC1gEa
 
 臺南(貼文圖為日本街景)
 https://www.facebook.com/ReTWRoad/posts/pfbid0UJT52uYQMNFTuyRCKiB7i2mXiqFakPbqrh2ZFgnrUbdKibSFX7HJztTJe73EW3oNl?locale=zh_TW
@@ -315,14 +304,9 @@ https://www.facebook.com/story.php?story_fbid=pfbid04v1S5XCPXu7vZdJZeMbVesjYHuqD
 
 台南市善化區大成陸橋標線問題，快車道+機慢車專用道配置但一樣寬，導致下橋右轉汽車容易在快車道右轉，是否應評估改為快慢車道
 
-台南市
-https://www.facebook.com/share/q47C8UqHDB5yJZJm/
-
 台南市 公車站設在快車道，但無行穿線可以到達
 ? 找地點或網路素材
 
-台1線 民生東路、和生路一段
-https://www.facebook.com/share/p/bX4VXBBrpaNERtBE/
 
 街區連續人行道的推論演算方式，探討一個個案「高雄捷運後驛站至高雄醫學大學之間的街區」
 https://www.facebook.com/share/pb4ruhhMgAVGBb7o/
@@ -331,20 +315,11 @@ https://www.facebook.com/share/pb4ruhhMgAVGBb7o/
 https://www.facebook.com/groups/525658186189949/posts/713914577364308/
 20231221 也標記至地圖中(地圖已標示)
 
-哈瑪星
-https://www.facebook.com/100089609110714/posts/pfbid02nNL6ah36wKsg2rJPHUcsfbCKBtThHZBGAgAGanG8brYBgLp3Mej5iqUib6iQ2sD5l/?mibextid=cr9u03
-
 "高雄農16就是這樣，裕誠路至今依然沒有人行道" 出自以下討論區
 https://www.facebook.com/VisionZeroTW/posts/pfbid02tJBn3AkmVnzzhatzhwqqW5ZGZXKTUCxtcAkoHuVjS16tAfHycX1ft5kUj2Avqqifl
 
-高雄中山大學
-https://www.facebook.com/share/p/15x8EGb76T/?mibextid=wwXIfr
-
 待拆分：此貼文有提到許多路口
 https://www.facebook.com/TaiwanTrafficSafeAssociation/posts/pfbid0cCWCvPLmdDYqjwmJp5ytcQm3FcRSw8fic3W65kqqUFYXfjX4sp5nL7CtzF3Bcz5Kl
-
-高雄 國隆路 工作坊
-https://www.facebook.com/share/p/1ALHMhVBoi/?mibextid=wwXIfr
 
 
 ## 政策蒐集
