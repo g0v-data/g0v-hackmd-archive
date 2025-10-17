@@ -269,12 +269,6 @@ https://www.facebook.com/share/p/ZXY2yoB74hJPS2Yy/
 新營圓環
 https://www.facebook.com/share/p/6RQwiRH21rutXmMZ/
 
-臺南市佳里
-https://www.facebook.com/share/MaSgKZqayN8zzFor/?mibextid=WC7FNe
-
-佳里
-https://www.facebook.com/photo.php?fbid=992418499074971&set=a.601575628159262&type=3&mibextid=WC7FNe
-
 臺南高鐵附近，行穿線沒有斜坡進入實體人行道(街景顯示已改善)
 https://www.facebook.com/story.php?story_fbid=10160372095968462&id=536028461
 街景
