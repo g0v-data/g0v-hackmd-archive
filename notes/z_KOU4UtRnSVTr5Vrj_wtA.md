@@ -1,10 +1,20 @@
 ---
-tags: GIS
+tags: GIS, 
 ---
 
-# 臺北市西藏路流域 / 雙園抽水站排水系統
+# 臺北市新店溪與西藏路雙園抽水站排水系統
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_61f0bbfa836418e5068b9bc2540664a7.png)
 
+:::info
+文件目錄
+[TOC]
+:::
+
+## 環境變遷歷程素材蒐集
+
+追溯城南水文化故事 / 自來水園區 / 小觀音山 / 寶藏巖
+https://docs.google.com/presentation/d/1mhrHS0iFxxK8r5UL91G0PhS1pMWMEcftz3Q70N296oU/edit
 
 1950 年代地圖
 https://www.facebook.com/share/p/wZ7du6VDn61YnadK/
@@ -30,10 +40,9 @@ https://www.facebook.com/groups/582154450196478/posts/903378741407379/
 
 2024 臺北市政府將針對「中正區及萬華區」提出城市降溫計畫
 
-2025 新店溪水環境探討
-https://g0v.hackmd.io/cuwcsFBpSG2r5zE9yvv-Sw?view
+## 近年活動
 
-## 2024.08 中正社區大學籌辦探討地區水圳紋理的活動
+### 2024.08 中正社區大學籌辦探討地區水圳紋理的活動
 
 走讀路線
 - 8/29，高傳棋老師的導覽路線：小南門→博愛路→植物園→南海路→三元街→汀州路→詔安街
@@ -79,3 +88,8 @@ https://g0v.hackmd.io/cuwcsFBpSG2r5zE9yvv-Sw?view
     - 活動過程中可以請參加者指認想要改造的地點，並進行拍照
     - 詢問社大是否有空間改造的照片
 - 操作網站：https://collage.collective.tw/
+
+### 2025 新店溪水環境探討 萬華社大
+
+https://g0v.hackmd.io/cuwcsFBpSG2r5zE9yvv-Sw?view
+
