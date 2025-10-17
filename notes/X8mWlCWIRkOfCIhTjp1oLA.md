@@ -250,9 +250,6 @@ https://www.facebook.com/100094870554841/posts/pfbid02L2FDr2UhHa5djfBe49ZAsXwfEX
 https://www.facebook.com/share/p/kmQB4qVtSRErc1Mw/
 https://www.facebook.com/share/p/NXPAL2zBooXD7C6R/
 
-彰化市彰南路0k(中山路口)~3k(中彰路口)辦理交通改善
-https://www.facebook.com/watch/?v=642928451144026
-
 彰化和美六岔路口
 https://www.facebook.com/share/nQV1MjrfnfGFFMDP/
 https://www.facebook.com/share/p/pWF928rbKwFJBmtJ/
@@ -282,15 +279,6 @@ https://www.facebook.com/photo.php?fbid=992418499074971&set=a.601575628159262&ty
 https://www.facebook.com/story.php?story_fbid=10160372095968462&id=536028461
 街景
 https://maps.app.goo.gl/qyoG22DfARQtqJur9
-
-
-臺南
-成功路忠義路口至中成路口
-https://www.facebook.com/story.php?story_fbid=pfbid02hVwr1qy7J6mWwn6Mmd62h9bFmh2ex3iVQ3EMoRqdEiZNpLqnkwYR4LtfkDoWNSJsl&id=100049204915573&mibextid=qC1gEa
-
-臺南市永康區中華路至大橋火車站
-https://www.facebook.com/story.php?story_fbid=pfbid02mCEHZmb3nTTg7JkbL1tohDHKUs1nzrqpCJVMBiszDK3wHnJMWVXB6UXRhCT1ZZ5Rl&id=100010143949091&mibextid=qC1gEa
-
 
 臺南(貼文圖為日本街景)
 https://www.facebook.com/ReTWRoad/posts/pfbid0UJT52uYQMNFTuyRCKiB7i2mXiqFakPbqrh2ZFgnrUbdKibSFX7HJztTJe73EW3oNl?locale=zh_TW
