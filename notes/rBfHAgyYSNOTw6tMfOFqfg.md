@@ -61,6 +61,8 @@ https://www.facebook.com/share/p/15QG6SUDKT/?
 
 ## 出考題
 
+https://kentxchang.blogspot.com/2025/10/blog-post_18.html
+
 https://www.facebook.com/share/15iwfX47x3/
 
 ## 互動解答

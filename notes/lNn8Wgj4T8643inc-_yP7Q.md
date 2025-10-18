@@ -99,6 +99,8 @@ tags: Open Data,環境
         - https://www.cool3c.com/article/123435
     - SJC2
         - https://udn.com/news/story/7240/3032604
+    - 民間建置「海纜動態地圖」https://smc.peering.tw/
+    - 數位發展部_海纜狀況更新頁面 https://moda.gov.tw/major-policies/submarine-cable-fault-1140919/1737
 - 可於下列網站查詢海況系統即時預警資訊：
     - 災害情資網 http://eocdss.ncdr.nat.gov.tw/ncdrwebv2/
     - 天氣與氣候監測網 https://watch.ncdr.nat.gov.tw/watch_wlwav.aspx
