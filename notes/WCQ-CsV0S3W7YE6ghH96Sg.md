@@ -1,4 +1,4 @@
-Kadınların İlhamla Buluştuğu Dijital Alan – Kadinicin.com
+Kadınların İlhamla Buluştuğu Dijital Alan – [Kadinicin.com](https://www.kadinicin.com/)
 
 Her kadının kendi hikayesini bulabileceği, öğrenebileceği ve ilham alabileceği bir yaşam rehberi: Kadın İçin. Moda, güzellik, kişisel gelişim, sağlık, ilişki ve yaşam tarzı konularında hazırlanan güncel ve güvenilir içeriklerle kadınların hayatına dokunur.
 
