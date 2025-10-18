@@ -20,6 +20,7 @@ tags: 新生流域,
 
 ### 素材工作區：當前與未來
 - 新生南路水圳導覽活動 https://padlet.com/oht2023/oht-y3ft06hagz2ddi66
+- 氣候變遷調適工作坊https://www.facebook.com/share/p/19WjFowPyP/?mibextid=wwXIfr
 - 中山北路菲律賓族裔生活街區 https://www.facebook.com/share/p/k6ZsETWejBeos2iX/
 - 捷運中和光復線，可能與新生大排重疊 https://www.facebook.com/share/p/vXxeA6Vs8Rm2yqcj/
 - 標記 20xx 林務局國土綠網三個生態熱區（北端-水域、大安森林公園-水鳥、南端-植被）
