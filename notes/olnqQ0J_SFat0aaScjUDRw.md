@@ -9,6 +9,7 @@ tags: 防災, 災害, architecture
 - 2025 馬太鞍部落復原重建倡議 https://g0v.hackmd.io/i3H7DBfgTM27eFHLhjsA1A?view 
 - 司馬限重建
 - https://www.facebook.com/1755830610/posts/pfbid02p4EtjcZLXoDraZosKqHDGxdo9u4g1BVpwCrkRmdF14ckVZPe6FymZZi32riQcFYSl/?d=n&mibextid=qC1gEa
+- 南投仁愛鄉瑞岩部落、翠巒部落 https://www.facebook.com/share/1BMYN2xzai/?mibextid=wwXIfr
 - 「從不當迫遷談空間政治與適足政治權」https://youtu.be/uELfnxnvQgI
 - https://www.facebook.com/story.php?story_fbid=pfbid0THpFms2HScJSPsbXp7h3UnbUM5nYXDDkTJb2YiFA7wZJsLD6khRHQ7oBFEe45GAvl&id=100091318715016&mibextid=tejx2t
 - 朴子新吉庄，因水災而遷村興建 https://www.facebook.com/story.php?story_fbid=pfbid023T9Y8BPdt1TE6Rt5tRRm1GfeXsWGGTsY6JmotSNLMk8wC5zXyZvbHRGCTZ7TuDgBl&id=100050414203173&mibextid=qC1gEa
