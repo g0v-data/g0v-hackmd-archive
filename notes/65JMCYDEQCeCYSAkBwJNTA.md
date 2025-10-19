@@ -50,13 +50,14 @@ We need a solution that does not perform worse than the current ElasticSearch on
 
 ### Solutions and alternatives
 
-#### Elasticsearch v8
+#### Elasticsearch v9
 
 > Previous research: https://g0v.hackmd.io/aJqHn8f5QGuBDLSMH_EinA#Systems-supporting-vector-search
 
 - [Semantic search with Inference API](https://www.elastic.co/guide/en/elasticsearch/reference/8.12/semantic-search-inference.html) (with built-in `query_vector_builder`; can use raw query vector instead)
 - [Dense vector](https://www.elastic.co/guide/en/elasticsearch/reference/8.12/dense-vector.html) and [kNN search](https://www.elastic.co/guide/en/elasticsearch/reference/8.12/search-search.html#search-api-knn)
 - Can `highlight` anyways
+- Use [reindex from remote cluster](https://www.elastic.co/guide/en/elasticsearch/reference/8.19/reindex-upgrade-remote.html)
 
 #### PostgreSQL
 
