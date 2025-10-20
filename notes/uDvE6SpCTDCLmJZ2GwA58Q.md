@@ -147,6 +147,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 重要 照片 1965 安東街 霧裡薛圳 https://www.facebook.com/share/p/VTK2pBgvATxZ48Ck/
     - 重要 照片 安東街 圳路 https://www.facebook.com/share/p/17uSVRsafm/
         - 推測位置 安東街 5 號 https://maps.app.goo.gl/aMJYYRTntmvL5LPR8
+    - 談東區 https://www.vpin.club/player/vpin/a1c24a6d-3e5a-44f8-83fa-bc6def5ed443?fbclid=IwRlRTSANjaKxleHRuA2FlbQIxMQABHvOcoloA_7HvLBPXTmkGfR8QP0_8j2rHR92EFZS2eNU7ea_GmntJ7eQaagNY_aem_E78P8-scoLTBxW18A34GyA
     - 描述 葛樂禮 https://www.facebook.com/share/p/1BrDK1V3pK/?mibextid=wwXIfr
     - 照片 1963 長安國小 https://www.facebook.com/share/p/18mXfWJ1fG/?
     - 照片 圳路 復興北路？ https://www.facebook.com/share/p/19cmAfhpb5/
