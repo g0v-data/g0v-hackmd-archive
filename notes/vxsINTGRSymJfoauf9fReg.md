@@ -2,7 +2,8 @@
 
 :::info
 - [所有會議記錄](https://gov.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
+- NPO Hub 出席：bil, mrorz, geopeper, Justin, Joe, Yuyu
+- 線上出席：nonumpa, helen
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
@@ -22,7 +23,7 @@
 - **cofacts.ai**: Groundness Check agent 實作 (追蹤提案與文件)
 - **[mrorz]** cAdvisor 研究與安裝
 
-### Langfuse 停止運作
+### Langfuse 停止運作 & 升級
 - **mrorz@g0v-tw** 發現 Langfuse 自 10/2 起就沒有收到 rumors-api 和 takedown 的資料，原因是 langfuse-worker 和 redis 的連線斷開了。
 
 > **mrorz@g0v-tw**:
@@ -33,9 +34,17 @@
 > 查了一下，10/2 開始 langfuse-worker 和 redis 的連線斷開了
 > 應該是這個緣故
 
+Mitigation: redis 增加 restart: always
+
+----
+
+Langfuse 從 3.66 升級到 3.119
+- UI 在 evaluation 有不少新功能
+
 ## 服務穩定性 (Server Alerts)
 
 - **Cloudflare** 持續回報 `cofacts.tw` 和 `api.cofacts.tw` 服務不穩定，出現多起 HTTP timeout 和 5xx 錯誤。
+- 頻率：10/19 一日 12 次，其他日子一天 1~3 次
 
 ## 開發與程式碼庫活動 (GitHub Activities)
 
