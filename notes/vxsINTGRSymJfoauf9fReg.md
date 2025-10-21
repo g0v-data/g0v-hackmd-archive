@@ -22,4 +22,31 @@
 - **cofacts.ai**: Groundness Check agent 實作 (追蹤提案與文件)
 - **[mrorz]** cAdvisor 研究與安裝
 
-## 本週新增
+### Langfuse 停止運作
+- **mrorz@g0v-tw** 發現 Langfuse 自 10/2 起就沒有收到 rumors-api 和 takedown 的資料，原因是 langfuse-worker 和 redis 的連線斷開了。
+
+> **mrorz@g0v-tw**:
+> Cofacts 的 Langfuse 在 10/2 之後就收不到東西了 QQ
+> rumors-api 和 takedown 都是，我還沒想到為啥
+
+> **mrorz@g0v-tw**:
+> 查了一下，10/2 開始 langfuse-worker 和 redis 的連線斷開了
+> 應該是這個緣故
+
+## 服務穩定性 (Server Alerts)
+
+- **Cloudflare** 持續回報 `cofacts.tw` 和 `api.cofacts.tw` 服務不穩定，出現多起 HTTP timeout 和 5xx 錯誤。
+
+## 開發與程式碼庫活動 (GitHub Activities)
+
+### 處理詐騙與垃圾訊息
+- 持續進行垃圾訊息與詐騙使用者的下架作業，相關 pull requests 皆已完成。
+  - [Add 2025/10/16 financial scam report detailing removal of fraudulent image](https://github.com/cofacts/takedowns/pull/270)
+  - [Takedown spam user 優質外約+gleezy：k66099 C14Yp5cBfs35m9MiCypf](https://github.com/cofacts/takedowns/pull/272)
+  - [Takedown spam user 五益 5cBJ8pkBWwAUNc5b-3gz](https://github.com/cofacts/takedowns/pull/271)
+  - [Create 1014-privacy.md](https://github.com/cofacts/takedowns/pull/269)
+  - [Takedown spam user Lei Meng lbEh4ZkBFga8s_Raiu76](https://github.com/cofacts/takedowns/pull/268)
+
+### URL Resolver 效能問題
+- `rumors-api` 的 [追蹤 URL Resolver 效能問題與重構](https://github.com/cofacts/rumors-api/issues/373) 已關閉，後續將由 [worker repo](https://github.com/cofacts/worker/issues/2) 的新計畫取代。
+
