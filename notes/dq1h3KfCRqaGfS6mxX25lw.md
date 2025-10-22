@@ -36,19 +36,25 @@ Contributing content **means that you agree to waive your copyright and release 
     * 每天10:00記者會公告最新進度
 
 ## 風神颱風緊急應變事項
+* ‼️**10/18 14:00~17:00 撤離演習時間，禁止志工進入災區**
 * 🆕`<10/16發布>`[1012劃定之警戒區內各村里避難參考路線](https://arcg.is/08bmiq0) --- [name=NDHU強韌防災團隊]
 
-## 🤝🏻災民需求 X 志工前往（‼️[行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️ ）
+## 🤝🏻災民需求 X 志工前往（‼️[行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️）
 
 * [光復超人(前光復救災資訊整合網)<small> --- 林于立@g0v後勤中心分享</small>](https://gf250923.org) [target=_blank]
     * [Facebook 社團貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/) [target=_blank]
     * 現場地圖、居民協助、物資媒合、人力媒合......等資訊
 
 * [🐝光復救災小蜜蜂](https://gf-bee.ngrok.app/available) <small> --- [gfbee@threads </small>](https://www.threads.com/@gfbee_20251001)
-    * 災區運送物資，除特殊功能志工或醫療需求以外載人只出不進。
-    * 網站申請需求，後台小幫手媒合小蜜蜂，媒合率高。
+    * 10/22(三)平台派送恢復運作
+        * 🕤服務時間：早上7點~晚上6點
+        * 🛵服務項目：（以下為優先順序）
+        1.緊急醫療需求人員/物資
+        2.午/晚餐便當
+        3.一般物資
+        4.人員載送
 
-
+    * 如果在當地或即將前往有意願擔任蜜蜂，歡迎加入[蜜蜂報到line群](https://line.me/ti/g2/rgfkoDknfW2F8kvxz6F_HnfJh1oH2V2Ow323HQ) --- `(入群暱稱格式：姓名_支援日期_車種備註)`
 * [QSearch 彙整災害救援資訊](https://www.qsearch.cc/disaster/) [target=_blank] <small> --- **AI自動彙整，請自行確認資訊正確性** </small> 
 
 
@@ -58,6 +64,8 @@ Contributing content **means that you agree to waive your copyright and release 
 ### 鍵盤支援（資訊統整、地圖回報）
 
 *  [💻 g0v 花蓮馬太鞍溪堰塞湖溢流災情整合平台(本份文件)<br><small>👉可直接共編，點擊網頁上方的🖋開始進行編輯</small>](https://g0v.hackmd.io/dq1h3KfCRqaGfS6mxX25lw?view)
+
+* 
     *  [加入g0v slack #hulien頻道 可進行討論](https://g0v-tw.slack.com/join/shared_invite/zt-3bkxxa67k-okdoIWoZkGbX4q~U3C_cNA#/shared-invite/email) [target=_blank]
 * [💻 光復超人(原光復救災資訊整合網） <small> --- 林于立@g0v後勤中心分享</small>](https://sites.google.com/view/guangfu250923) [target=_blank]
     * [Facebook 貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/) [target=_blank]
@@ -83,12 +91,12 @@ Contributing content **means that you agree to waive your copyright and release 
 
 
 #### 官方資訊
-* `<10/10行政院公布>`[中央替個別志工投保](https://www.facebook.com/share/p/165iWzc8pT/)
-    * 投保地點：光復車站正門口左手邊100公尺大帳棚區`掃QR code投保` 
+* [中央替個別志工投保](https://www.facebook.com/share/p/165iWzc8pT/) <small> --- [name=10/10行政院公布]
+    * 投保地點：光復車站正門口左手邊100公尺大帳棚區 --- `<掃QR code投保>` 
     * 即日起，每日8:00~16:00
 
-* `<交通部>`[接駁車資訊](https://docs.google.com/spreadsheets/d/1YAKX2_FK4yWojReU6kwI16tVAEyJ0BxU/edit?gid=1603419519#gid=1603419519)
-
+* [接駁車資訊](https://docs.google.com/spreadsheets/d/1YAKX2_FK4yWojReU6kwI16tVAEyJ0BxU/edit?gid=1603419519#gid=1603419519) --- [name=交通部]
+    
 *   <a  href="https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83" target="_blank">中央災害應變中心</a>：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
 
 

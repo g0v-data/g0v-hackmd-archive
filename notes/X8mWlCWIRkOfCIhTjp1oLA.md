@@ -154,9 +154,6 @@ https://www.facebook.com/share/p/85Lq4B3ibxDPH1wS/
 
 新生南路，處理：公車專用道，同向分隔島，箱涵，人行道水路(已有案例：臺大、北科大、桃園水秀)
 
-新生南路和平路口
-https://www.facebook.com/share/p/17vjWyE6tB/
-
 
 臺北市
 https://www.facebook.com/story.php?story_fbid=pfbid02Cv3vb5X2thkBcZkuVA1XJGrChsjZ4VfgHSF3ZrUxGv2QHn6QjECm7B7A89My5YFXl&id=100083351706758&mibextid=qC1gEa
