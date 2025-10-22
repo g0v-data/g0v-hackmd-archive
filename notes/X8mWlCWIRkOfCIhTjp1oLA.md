@@ -143,11 +143,6 @@ https://tw.news.yahoo.com/%E8%A1%8C%E4%BA%BA%E5%9C%B0%E7%8D%84-%E6%B1%BD%E8%BB%8
 多地點，寧靜巷弄
 https://www.facebook.com/groups/twroadclub/permalink/2432209236958837/
 
-待確認
-https://www.facebook.com/share/p/15eWhdSKoZ/
-
-民生社區圓環 https://www.facebook.com/share/p/1BU3bXkDHQ/?mibextid=wwXIfr
-
 松江詩園北側巷弄應評估無車化
 https://photos.app.goo.gl/WtcWuB9EveTdFedB8
 
@@ -233,12 +228,6 @@ https://www.facebook.com/share/p/Af5hpPrvk6dAZR2i/
 台中市霧峰區中潭公路/中正路(立法院民主議政園區(臺灣省議會紀念園區))
 https://www.facebook.com/100049204915573/posts/pfbid0U538Q2mrd7CVBURitvLhASHM9oRQwLLpWQG1bVHM7YLagry7LXnQqYwo7NibsYmwl/?mibextid=cr9u03
 https://www.facebook.com/100064542675965/posts/pfbid0t1KNv3tDaLoprUUtFfAtBCyPpWRvT4R6K4uLctfEz27pLLKWF9om9jw8gfVwYkBml/?mibextid=cr9u03
-
-臺南市七股區
-https://www.facebook.com/share/wVXNw1v2UhdUK8Ev/
-
-仁德交流道
-https://www.facebook.com/share/p/ZXY2yoB74hJPS2Yy/
 
 新營圓環
 https://www.facebook.com/share/p/6RQwiRH21rutXmMZ/
