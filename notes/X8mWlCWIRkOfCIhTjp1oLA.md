@@ -166,10 +166,6 @@ https://www.facebook.com/story.php?story_fbid=pfbid02Cv3vb5X2thkBcZkuVA1XJGrChsj
 西園路306巷
 https://www.facebook.com/share/p/1DSFZtzk7N/?
 
-【車流動線改善】#新北 #環河路 X #中山路 口
-https://www.facebook.com/share/p/14DeBSYoUm9
-
-
 樹林
 https://www.facebook.com/share/p/2QHB42YiR2eKRsZK/
 
@@ -215,14 +211,9 @@ https://drive.google.com/file/d/1KjYATFfLsVqLIIB_lWQM4pg0HHFo-i_S/view?usp=drive
 台中台灣大道民權路口（有鎖內容看不到）
 https://www.facebook.com/100094870554841/posts/pfbid02L2FDr2UhHa5djfBe49ZAsXwfEXwrCK21JsCrxAAWUNN3d92PiumxbEm2D7MCVopVl/?mibextid=cr9u03
 
-彰師大附近 進德路標線改造工作坊
-https://www.facebook.com/share/p/kmQB4qVtSRErc1Mw/
+彰師大附近 進德路標線改造工作坊（有鎖內容看不到）
 https://www.facebook.com/share/p/NXPAL2zBooXD7C6R/
 
-彰化和美六岔路口
-https://www.facebook.com/share/nQV1MjrfnfGFFMDP/
-https://www.facebook.com/share/p/pWF928rbKwFJBmtJ/
-https://www.facebook.com/share/p/Af5hpPrvk6dAZR2i/
 
 彰化市中華西路/曉陽路
 台中市霧峰區中潭公路/中正路(立法院民主議政園區(臺灣省議會紀念園區))
