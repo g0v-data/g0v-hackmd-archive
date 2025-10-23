@@ -229,9 +229,12 @@ Contributing content **means that you agree to waive your copyright and release 
     * 住宿期限至 114年10月底前。
     * 住宿電話：0975-275-130（旅館公會窗口）
     * 補助詢問：衛福部 1957 專線
-
+#### 其他部會
+* [農業部農田果園補助](https://www.agriharvest.tw/archives/129151)
+    
+    
+    
 #### 保險公司
-
 * [2025-09-23 花蓮馬太鞍溪堰塞湖溢流災情相關保險公司聯絡暨慰問金資訊](https://g0v.hackmd.io/@alllen/BJ-A9TGL3ge)
 
 簡易摘要：
