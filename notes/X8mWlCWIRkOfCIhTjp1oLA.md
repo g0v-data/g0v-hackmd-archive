@@ -166,7 +166,8 @@ https://www.facebook.com/100064994161787/posts/pfbid0d3PRURrdjfZCP9QFpA4hd2HMQ58
 銘佑69街7414弄和龍川二街的十字路口車流量大但並沒有設置紅綠燈和斑馬線
 https://sch001.g0v.tw/dash/prj/PYT0Zh11Dx0fE99.57SCnBr.FZPRb8
 > [name=Ying：嗯？有這街嗎？（銘佑69街7414）本來想看一下長怎樣但 google 搜不到]
-> 我留言問問看專案團隊是否有地點經緯度可提供
+> 我留言問問看專案團隊是否有地點經緯度可提供(未回覆)
+> 找不到，只有龍川二街(yiyiwang)
 
 桃園市蘆竹區忠孝西路桃園街口至中正路口的人行道標線完善之後又被塗消掉
 
@@ -197,7 +198,7 @@ https://www.facebook.com/ReTWRoad/posts/pfbid0UJT52uYQMNFTuyRCKiB7i2mXiqFakPbqrh
 在台南東區後甲國中這個路口，雖然對比改善前好很多，但有成功大學的同學反應，庇護島的方向設計有問題，我透過影片轉述他對於路口設計的建議(已登載於地圖)
 https://www.facebook.com/watch?v=950240829364406
 
-臺南多處待拆分
+臺南多處待拆分(地標資訊不清楚)
 https://www.facebook.com/story.php?story_fbid=pfbid04v1S5XCPXu7vZdJZeMbVesjYHuqDuH4TopHUa7dNqAtKsvr9sYsR5qgJRdRFrXgdl&id=100049204915573&mibextid=qC1gEa
 
 台南市善化區大成陸橋標線問題，快車道+機慢車專用道配置但一樣寬，導致下橋右轉汽車容易在快車道右轉，是否應評估改為快慢車道
@@ -213,7 +214,7 @@ https://www.facebook.com/share/pb4ruhhMgAVGBb7o/
 https://www.facebook.com/groups/525658186189949/posts/713914577364308/
 20231221 也標記至地圖中(地圖已標示)
 
-"高雄農16就是這樣，裕誠路至今依然沒有人行道" 出自以下討論區
+"高雄農16就是這樣，裕誠路至今依然沒有人行道" 出自以下討論區(已刪留言?)
 https://www.facebook.com/VisionZeroTW/posts/pfbid02tJBn3AkmVnzzhatzhwqqW5ZGZXKTUCxtcAkoHuVjS16tAfHycX1ft5kUj2Avqqifl
 
 
