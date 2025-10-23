@@ -35,7 +35,7 @@ Contributing content **means that you agree to waive your copyright and release 
 * [ℹ️ 中央前進協調所「花蓮光復鄉災後復原」記者會 <small>--- *行政院*</small>](https://www.facebook.com/ey.gov.tw/live_videos) [target=_blank]
     * 每天10:00記者會公告最新進度
 
-## 風神颱風緊急應變事項
+### 風神颱風緊急應變事項
 * ‼️**10/18 14:00~17:00 撤離演習時間，禁止志工進入災區**
 * 🆕`<10/16發布>`[1012劃定之警戒區內各村里避難參考路線](https://arcg.is/08bmiq0) --- [name=NDHU強韌防災團隊]
 
@@ -91,14 +91,13 @@ Contributing content **means that you agree to waive your copyright and release 
 
 
 #### 官方資訊
-* [中央替個別志工投保](https://www.facebook.com/share/p/165iWzc8pT/) <small> --- [name=10/10行政院公布]
+* [中央替個別志工投保](https://www.facebook.com/share/p/165iWzc8pT/) --- [name=10/10行政院公布]
     * 投保地點：光復車站正門口左手邊100公尺大帳棚區 --- `<掃QR code投保>` 
     * 即日起，每日8:00~16:00
-
+    
 * [接駁車資訊](https://docs.google.com/spreadsheets/d/1YAKX2_FK4yWojReU6kwI16tVAEyJ0BxU/edit?gid=1603419519#gid=1603419519) --- [name=交通部]
     
-*   <a  href="https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83" target="_blank">中央災害應變中心</a>：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
-
+* [中央災害應變中心](https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83)：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
 
 #### 各組織招募
 * [法鼓山花蓮精舍 <small> --- 10/16~17打掃志工報名填表 </small>](https://docs.google.com/forms/d/e/1FAIpQLSdfVDDNyRwhJWMxnj-0YdzKdvhybRLuq3JF_xap4j9sk4yykg/viewform) [target=_blank]
