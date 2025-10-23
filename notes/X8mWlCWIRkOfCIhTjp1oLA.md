@@ -211,20 +211,6 @@ https://www.facebook.com/100094870554841/posts/pfbid02L2FDr2UhHa5djfBe49ZAsXwfEX
 彰師大附近 進德路標線改造工作坊（有鎖內容看不到）
 https://www.facebook.com/share/p/NXPAL2zBooXD7C6R/
 
-
-彰化市中華西路/曉陽路
-台中市霧峰區中潭公路/中正路(立法院民主議政園區(臺灣省議會紀念園區))
-https://www.facebook.com/100049204915573/posts/pfbid0U538Q2mrd7CVBURitvLhASHM9oRQwLLpWQG1bVHM7YLagry7LXnQqYwo7NibsYmwl/?mibextid=cr9u03
-https://www.facebook.com/100064542675965/posts/pfbid0t1KNv3tDaLoprUUtFfAtBCyPpWRvT4R6K4uLctfEz27pLLKWF9om9jw8gfVwYkBml/?mibextid=cr9u03
-
-新營圓環
-https://www.facebook.com/share/p/6RQwiRH21rutXmMZ/
-
-臺南高鐵附近，行穿線沒有斜坡進入實體人行道(街景顯示已改善)
-https://www.facebook.com/story.php?story_fbid=10160372095968462&id=536028461
-街景
-https://maps.app.goo.gl/qyoG22DfARQtqJur9
-
 臺南(貼文圖為日本街景)
 https://www.facebook.com/ReTWRoad/posts/pfbid0UJT52uYQMNFTuyRCKiB7i2mXiqFakPbqrh2ZFgnrUbdKibSFX7HJztTJe73EW3oNl?locale=zh_TW
 
