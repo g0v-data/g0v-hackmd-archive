@@ -251,9 +251,6 @@ https://www.facebook.com/groups/525658186189949/posts/713914577364308/
 "高雄農16就是這樣，裕誠路至今依然沒有人行道" 出自以下討論區
 https://www.facebook.com/VisionZeroTW/posts/pfbid02tJBn3AkmVnzzhatzhwqqW5ZGZXKTUCxtcAkoHuVjS16tAfHycX1ft5kUj2Avqqifl
 
-待拆分：此貼文有提到許多路口
-https://www.facebook.com/TaiwanTrafficSafeAssociation/posts/pfbid0cCWCvPLmdDYqjwmJp5ytcQm3FcRSw8fic3W65kqqUFYXfjX4sp5nL7CtzF3Bcz5Kl
-
 
 ## 政策蒐集
 
