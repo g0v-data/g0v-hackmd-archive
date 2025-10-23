@@ -5,19 +5,28 @@
 目錄
 [TOC]
 
-
-
 :::
-https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-18-3-81-release/google-play-services-18-3-81-000700-257258062-android-apk-download/
+1292現金紅利+2063積點
+https://www.gopower.tw/search.php?kind=3&kw=&pa=1&s=1&page=44
+
+現金積點/現金紅利-成功 KITTY抗菌英式直笛 台灣製 正版授權
+https://www.gopower.tw/goodsview.php?g_id=10087
+現金積點/現金紅利-AKWATEK USB充插兩用智能觸控檯燈
+https://www.gopower.tw/goodsview.php?g_id=09083
+現金積點/現金紅利-理想PERFECT 日式不沾黑金鋼方形煎鍋24cm-電磁爐可用
+https://www.gopower.tw/goodsview.php?g_id=08516
+現金積點/現金紅利-成功SUCCESS 成人平花直排輪(不含護具)
+https://www.gopower.tw/goodsview.php?g_id=10121
+現金積點/現金紅利-OKMART100元現金抵用券
+https://www.gopower.tw/goodsview.php?g_id=Z0204
+現金積點/現金紅利-德國雙人 雙面抗菌砧板(附不織布提袋)
+https://www.gopower.tw/goodsview.php?g_id=13124
 
 https://brushbattle.io/#440635 邀請馬
-
-https://badtimestories.golden-slash.com/
 
 麥塊電影
 https://www.youtube.com/watch?v=-M49xbDIhZ4
 
-https://dr3c.net/h6-gamebox/
 擋廣告
 https://adguard.com/zh_tw/welcome.html?utm_campaign=home&utm_medium=license_activation&utm_source=android
 
