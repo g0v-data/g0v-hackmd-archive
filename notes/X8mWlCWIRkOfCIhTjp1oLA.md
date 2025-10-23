@@ -140,14 +140,11 @@ https://www.facebook.com/share/Qsmip7mmVDMdKftD/?mibextid=WC7FNe
 新聞整理2022/11-2023/02行人事故整理包一覽
 https://tw.news.yahoo.com/%E8%A1%8C%E4%BA%BA%E5%9C%B0%E7%8D%84-%E6%B1%BD%E8%BB%8A-%E7%A6%AE%E8%AE%93-081034694.html
 
-多地點，寧靜巷弄
+多地點，寧靜巷弄(已標註於地圖)
 https://www.facebook.com/groups/twroadclub/permalink/2432209236958837/
 
 松江詩園北側巷弄應評估無車化
 https://photos.app.goo.gl/WtcWuB9EveTdFedB8
-
-市政府站附近、西門站附近
-https://www.facebook.com/story.php?story_fbid=pfbid02uK1JgiPijcc2pMzqqPz8n8m6rCRNMXLwxEA2QJ8TynxyJc9GEqxgp7VvH1ANSrAHl&id=100063509899206&mibextid=qC1gEa
 
 立法院周邊
 https://www.facebook.com/share/p/85Lq4B3ibxDPH1wS/
@@ -172,15 +169,6 @@ https://sch001.g0v.tw/dash/prj/PYT0Zh11Dx0fE99.57SCnBr.FZPRb8
 > 我留言問問看專案團隊是否有地點經緯度可提供
 
 桃園市蘆竹區忠孝西路桃園街口至中正路口的人行道標線完善之後又被塗消掉
-
-新竹縣
-https://www.facebook.com/groups/streetobservation/permalink/653490636701533/
-https://goo.gl/maps/QEDGFhNVHE6JXVvAA
-(錯的)
-https://maps.app.goo.gl/xr6tN8ymyQKHrWT37
-對的
-https://www.cna.com.tw/postwrite/chi/357789
-新聞
 
 112年臺中市騎樓整平專案工程委託設計監造技術服務案
 (一)優先施作路段(路段長約 13,600 公尺)
