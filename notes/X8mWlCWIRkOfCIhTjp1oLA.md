@@ -154,17 +154,10 @@ https://www.facebook.com/share/p/85Lq4B3ibxDPH1wS/
 
 新生南路，處理：公車專用道，同向分隔島，箱涵，人行道水路(已有案例：臺大、北科大、桃園水秀)
 
-
-臺北市
-https://www.facebook.com/story.php?story_fbid=pfbid02Cv3vb5X2thkBcZkuVA1XJGrChsjZ4VfgHSF3ZrUxGv2QHn6QjECm7B7A89My5YFXl&id=100083351706758&mibextid=qC1gEa
-
 廣州林德街口與六和和平街口 https://peoplenudgeplatform.wixsite.com/hq-te/post/【專業人士試辦課程】高雄場課程回顧
 
 西園路306巷
 https://www.facebook.com/share/p/1DSFZtzk7N/?
-
-樹林
-https://www.facebook.com/share/p/2QHB42YiR2eKRsZK/
 
 鶯歌
 https://www.facebook.com/ntcecea/posts/pfbid02r5j1y8mf8Fgf1Fyhe3hgiAt19E7iXDknRMrwPEXeGeQhdUNecDaCVZ6EEfSNCrtol
@@ -172,8 +165,6 @@ https://www.facebook.com/ntcecea/posts/pfbid02r5j1y8mf8Fgf1Fyhe3hgiAt19E7iXDknRM
 鶯歌
 https://www.facebook.com/100064994161787/posts/pfbid0d3PRURrdjfZCP9QFpA4hd2HMQ58hBX2feotHYn1sJk8fM1XRi4LNHsRfgkBFjUqEl/
 
-中壢，行穿線被高架橋墩阻隔
-https://www.facebook.com/share/cgEL3MF287HV6wzy/
 
 銘佑69街7414弄和龍川二街的十字路口車流量大但並沒有設置紅綠燈和斑馬線
 https://sch001.g0v.tw/dash/prj/PYT0Zh11Dx0fE99.57SCnBr.FZPRb8
