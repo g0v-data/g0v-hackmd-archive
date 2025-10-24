@@ -9,12 +9,7 @@
 1292現金紅利+2063積點
 https://www.gopower.tw/search.php?kind=3&kw=&pa=1&s=1&page=44
 
-現金積點/現金紅利-成功 KITTY抗菌英式直笛 台灣製 正版授權
-https://www.gopower.tw/goodsview.php?g_id=10087
-現金積點/現金紅利-AKWATEK USB充插兩用智能觸控檯燈
-https://www.gopower.tw/goodsview.php?g_id=09083
-現金積點/現金紅利-理想PERFECT 日式不沾黑金鋼方形煎鍋24cm-電磁爐可用
-https://www.gopower.tw/goodsview.php?g_id=08516
+
 現金積點/現金紅利-成功SUCCESS 成人平花直排輪(不含護具)
 https://www.gopower.tw/goodsview.php?g_id=10121
 現金積點/現金紅利-OKMART100元現金抵用券
