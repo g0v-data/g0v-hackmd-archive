@@ -59,6 +59,7 @@ We want to discuss measures for both governmental and civil department, that can
 - [g0mesh](/_WnRRY4sRZOIBxgAMpz1-w)
 - [台灣鏈網 Meshtastic](/ZGuA7fUZQi-fbD06EenmGQ)
 - [Meshtastic as Citizen Network](https://g0v.hackmd.io/0bR8-LvHRMaNaR97YaXpnQ)
+- [p2p 通訊服務測試](/@irvin/p2p-chat)
 
 ## 自主應變
 - [全台防災/防空避難所大統整](https://g0v.hackmd.io/UNg_8F3FTuynAwbV7flp-w)
