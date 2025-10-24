@@ -9,9 +9,8 @@
 1292現金紅利+2063積點
 https://www.gopower.tw/search.php?kind=3&kw=&pa=1&s=1&page=44
 
-
-現金積點/現金紅利-成功SUCCESS 成人平花直排輪(不含護具)
-https://www.gopower.tw/goodsview.php?g_id=10121
+超級瑪利歐 與樂高 路易吉 一起冒險
+https://www.gopower.tw/goodsview.php?g_id=18927
 現金積點/現金紅利-OKMART100元現金抵用券
 https://www.gopower.tw/goodsview.php?g_id=Z0204
 現金積點/現金紅利-德國雙人 雙面抗菌砧板(附不織布提袋)
