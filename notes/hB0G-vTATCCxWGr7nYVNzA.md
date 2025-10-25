@@ -25,17 +25,26 @@ tags: g0v-siliconvalley
 ## 筆記協作區
 
 開場介紹：
-🙋‍♂️分享人：
-🔑簡報連結：
+🙋‍♂️分享人：亦白
+🔑簡報連結：https://docs.google.com/presentation/d/1IkFXSdwO3uoAx8XMAS7e6LA2YhkANuBkqDZFQGmuzpg/edit?slide=id.g334ec5484c6_0_19#slide=id.g334ec5484c6_0_19
+
+
+公民精神，行動主義，開源的
+
 
 ### [本日提案表](https://docs.google.com/spreadsheets/d/1pR-3msxdMoWUFm6-ig-URKroqWk4QVBp3iXRTreI-Hw/edit?usp=sharing)
 ```
 計時1人5分鐘
 ```
+
+
 ### 參加者自我介紹
 ```
 計時 1 人 30 秒
 ```
+
+SansWord: Binary Search, Punk Rock, FAPA
+
 
 ### 短講
 ```
@@ -44,7 +53,10 @@ tags: g0v-siliconvalley
 #### 短講1   
 分享簡報：
 #### 短講2   
-分享簡報：
+FAPA 國會遊說營體驗 - NAC 101
+分享簡報： [2025FAPA NAC](https://docs.google.com/presentation/d/1kZR-JJrWEWLJ9fJBE5PuPWaX4Y2-O23DzzUh65F5pC4/edit?slide=id.p#slide=id.p)
+
+
 #### 短講3   
 分享簡報：
 #### 短講4   
