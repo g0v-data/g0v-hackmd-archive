@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20251026 Cofacts 小松果](../notes/9xF-mWbbRz-Rq-uWh-gCMQ.md) | 2025-10-26T06:59:01+00:00 | 2025-10-26T01:53:14+00:00 |
+| 1 | [20251026 Cofacts 小松果](../notes/9xF-mWbbRz-Rq-uWh-gCMQ.md) | 2025-10-26T07:59:53+00:00 | 2025-10-26T01:53:14+00:00 |
 | 2 | [API & Database enhancements](../notes/65JMCYDEQCeCYSAkBwJNTA.md) | 2025-10-19T18:03:00+00:00 | 2024-01-31T10:23:41+00:00 |
 | 3 | [20250930 會議記錄](../notes/7aAhrPosRa-RZLY5fI1dFA.md) | 2025-10-14T12:12:43+00:00 | 2025-09-30T07:43:15+00:00 |
 | 4 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2025-10-14T06:25:52+00:00 | 2022-08-05T02:46:53+00:00 |
