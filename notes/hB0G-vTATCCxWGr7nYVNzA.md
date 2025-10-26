@@ -69,9 +69,11 @@ Carol: Gen-AI 的 multi-agent testing. 找工作中, AI 或 data scientist 相�
 ```
 #### 短講1   
 分享簡報：
+[光復超人網站 QR code 的網址](https://qrto.org/VnQFJc)
 #### 短講2   
 FAPA 國會遊說營體驗 - NAC 101
 分享簡報： [2025FAPA NAC](https://docs.google.com/presentation/d/1kZR-JJrWEWLJ9fJBE5PuPWaX4Y2-O23DzzUh65F5pC4/edit?slide=id.p#slide=id.p)
+https://ppt.cc/fCCqYx
 
 
 #### 短講3   
