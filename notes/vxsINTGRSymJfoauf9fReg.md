@@ -117,22 +117,22 @@ Langfuse 從 3.66 升級到 3.119
   - ~~桌子一邊 4 張椅子~~
   - [ ] 簽到（問飲料）
   - [ ] 排桌子椅子 
-  - [ ] 投影位置？
+  - [x] 投影位置？
   - [ ] 麥克風
   - [ ] 延長線佈置
   - [ ] 門口黏引導牌
-  - [ ] WIFI
-      - [ ] 佈機，手機 USB 選擇網路分享，等待白燈亮
+  - [x] WIFI
+      - [x] 佈機，手機 USB 選擇網路分享，等待白燈亮
       - [ ] 用 ASUS Device Discovery 確認可連線到 ASUS
-  - [ ] 投影的電腦用 google chrome 開好
-    - [ ] Google Chrome tab: [投影片](https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit)
+  - [x] 投影的電腦用 google chrome 開好
+    - [x] Google Chrome tab: [投影片](https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit)
     - [ ] Google Chrome tab: [Bignum](https://cofacts.github.io/community-builder/#/bignum/setup)
 - [ ] browser tabs
-    - [ ] Google Chrome tab: [KKTIX](https://cofacts.kktix.cc/events/cofactseditor49)
-    - [ ] Google Chrome tab: [Slido admin](https://admin.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/polls)
-    - [ ] Google Chrome tab: [Slido](https://wall.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/?section=215e56d0-a002-4b7e-9bf0-c58acbacc9bf)
-    - [ ] Google Chrome tab: [開場影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs)
-    - [ ] BGM
+    - [x] Google Chrome tab: [KKTIX](https://cofacts.kktix.cc/events/cofactseditor49)
+    - [x] Google Chrome tab: [Slido admin](https://admin.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/polls)
+    - [x] Google Chrome tab: [Slido](https://wall.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/?section=215e56d0-a002-4b7e-9bf0-c58acbacc9bf)
+    - [x] Google Chrome tab: [開場影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs)
+    - [x] BGM
     - [ ] Analytics
 - 14:00 - 14:20 開場
     - 放[長影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs) 8min
