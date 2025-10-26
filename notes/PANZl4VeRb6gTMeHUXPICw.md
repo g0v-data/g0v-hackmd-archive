@@ -31,10 +31,21 @@ tags: summit2026, program, programming, summit, 議程, 議程組
 ### 第五步：開分頁
 - 開啟一個新的瀏覽器分頁，註冊 [GitLab](https://about.gitlab.com/)帳號（待辦事項追蹤都在這裡）
     - 註冊帳號完成後，並把你的 GitLab 帳號貼到[工作人員登錄表單](https://forms.gle/s2q2oWZhY3WZov1KA)的「GitLab 帳號」欄位
+    - **然後把整份 [工作人員登錄表單](https://forms.gle/s2q2oWZhY3WZov1KA) 填完並送出
 - :::spoiler __神秘小按鈕（真的不行點啦）__
      - 如果不熟悉 GitLab，可以參考[操作說明](https://g0v.hackmd.io/LaSFLboNTum2IjmzQ94G-Q?view)，或等之後開會組長會跟你介紹怎麼用
   :::
 ### 第六步：下載 App
+- 首先先打開電腦版的 Discord（安裝或瀏覽器登入皆可），並登入你的 Discord 帳號
+    - :::spoiler 打開並登入後點開這裏
+        1. 點選齒輪標誌
+        ![](https://g0v.hackmd.io/_uploads/HkeAs15i0gg.png)
+        2. 點選「通知」欄位
+        ![](https://g0v.hackmd.io/_uploads/SkxZve5oRee.png)
+        3. 調整兩個通知，分別為「啟用桌面通知」和「不活躍時限推播通知」改為「1分」
+        ![](https://g0v.hackmd.io/_uploads/Sy5xWciRge.png)
+
+      :::
 - 我們要暫時打開一下手機，找出你會隨身攜帶的手機
     - 下載 Discord App
     - 下載完成後，登入 Discord App
