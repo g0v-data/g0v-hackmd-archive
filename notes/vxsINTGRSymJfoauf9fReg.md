@@ -74,7 +74,7 @@ Langfuse 從 3.66 升級到 3.119
 ## 小聚 rundown
 
 - 週六早上
-    - [ ] KKTIX 行前通知：提醒時間、使用電腦而非手機
+    - [x] KKTIX 行前通知：提醒時間、使用電腦而非手機
     > Hello 你好，
 	>
 	> 本週日就是 10 月 26 日查核志工培訓囉！
@@ -99,13 +99,13 @@ Langfuse 從 3.66 升級到 3.119
 	- [ ] 準備 Slido `#cofacts`
 		- [ ] 放投影片網址
 - 當日準備 / 攜帶
-    - [ ] 樓下用的標語 - bil
+    - [x] 樓下用的標語 - bil
     - [x] 貼紙 - orz, bil
-    - [ ] 黏土 - orz
-    - [ ] 手板 - bil
-    - [ ] 講義 - bil
-    - [ ] 一次性杯子 - bil
-    - [ ] 延長線 - bil / mrorz
+    - [x] 黏土 - orz
+    - [x] 手板 - bil
+    - [x] 講義 - bil
+    - [x] 一次性杯子 - bil
+    - [x] 延長線 - bil / mrorz
         - 比鄰有 3 條
         - 場地有 2 條
     - [ ] Wifi 機 - mrorz
@@ -128,7 +128,7 @@ Langfuse 從 3.66 升級到 3.119
     - [ ] Google Chrome tab: [投影片](https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit)
     - [ ] Google Chrome tab: [Bignum](https://cofacts.github.io/community-builder/#/bignum/setup)
 - [ ] browser tabs
-    - [ ] Google Chrome tab: [KKTIX](https://cofacts.kktix.cc/events/cofactseditor47)
+    - [ ] Google Chrome tab: [KKTIX](https://cofacts.kktix.cc/events/cofactseditor49)
     - [ ] Google Chrome tab: [Slido admin](https://admin.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/polls)
     - [ ] Google Chrome tab: [Slido](https://wall.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/?section=215e56d0-a002-4b7e-9bf0-c58acbacc9bf)
     - [ ] Google Chrome tab: [開場影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs)
