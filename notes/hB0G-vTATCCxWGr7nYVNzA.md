@@ -68,17 +68,30 @@ Carol: Gen-AI 的 multi-agent testing. 找工作中, AI 或 data scientist 相�
 計時1人8分鐘
 ```
 #### 短講1   
+
+光復超人
 分享簡報：
 [光復超人網站 QR code 的網址](https://qrto.org/VnQFJc)
+
 #### 短講2   
 FAPA 國會遊說營體驗 - NAC 101
 分享簡報： [2025FAPA NAC](https://docs.google.com/presentation/d/1kZR-JJrWEWLJ9fJBE5PuPWaX4Y2-O23DzzUh65F5pC4/edit?slide=id.p#slide=id.p)
 https://ppt.cc/fCCqYx
 
 
-#### 短講3   
+#### 短講3  
+報導者
+光復的報導
+福衛八號十一月要用spaceX發射啦～ 
+https://www.tasa.org.tw/zh-TW/missions/detail/FORMOSAT-8
+
 分享簡報：
 #### 短講4   
+小蜜蜂平台
+工程師x1 配發志工x~20 
+完成了兩千多單！！
+https://gf-bee.ngrok.app/available?brid=nmhT4huTcSzmq5afFhpYOw
+
 分享簡報：
 
 ### 成果分享
