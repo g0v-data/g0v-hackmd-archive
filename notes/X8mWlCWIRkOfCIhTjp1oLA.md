@@ -143,11 +143,13 @@ https://tw.news.yahoo.com/%E8%A1%8C%E4%BA%BA%E5%9C%B0%E7%8D%84-%E6%B1%BD%E8%BB%8
 多地點，寧靜巷弄(已標註於地圖)
 https://www.facebook.com/groups/twroadclub/permalink/2432209236958837/
 
-松江詩園北側巷弄應評估無車化
+松江詩園北側巷弄應評估無車化(已標註於地圖)
 https://photos.app.goo.gl/WtcWuB9EveTdFedB8
+> [現今左側大樓已建成，並有地下車道，是因為這邊車流量本來就很小嗎?還是旁邊松江路84巷可取代其功能?]
 
 立法院周邊
 https://www.facebook.com/share/p/85Lq4B3ibxDPH1wS/
+> [這是交通議題遊行嗎?]
 
 新生南路，處理：公車專用道，同向分隔島，箱涵，人行道水路(已有案例：臺大、北科大、桃園水秀)
 
@@ -155,13 +157,6 @@ https://www.facebook.com/share/p/85Lq4B3ibxDPH1wS/
 
 西園路306巷
 https://www.facebook.com/share/p/1DSFZtzk7N/?
-
-鶯歌
-https://www.facebook.com/ntcecea/posts/pfbid02r5j1y8mf8Fgf1Fyhe3hgiAt19E7iXDknRMrwPEXeGeQhdUNecDaCVZ6EEfSNCrtol
-
-鶯歌
-https://www.facebook.com/100064994161787/posts/pfbid0d3PRURrdjfZCP9QFpA4hd2HMQ58hBX2feotHYn1sJk8fM1XRi4LNHsRfgkBFjUqEl/
-
 
 銘佑69街7414弄和龍川二街的十字路口車流量大但並沒有設置紅綠燈和斑馬線
 https://sch001.g0v.tw/dash/prj/PYT0Zh11Dx0fE99.57SCnBr.FZPRb8
