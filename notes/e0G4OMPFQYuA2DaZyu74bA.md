@@ -9,9 +9,9 @@ vTaiwan 工作組 Working Group
 - [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 - [vTaiwan 活動日程表](/QS1fVOHaQv69wAOw3psZeg)
 - [對外介紹：一起vTaiwan!](https://docs.google.com/presentation/d/1nAEBAbF7dTW0itIMp2JX-yapf6N3sILowZ721zZTTaQ/edit?usp=sharing)
-- [vTaiwan 網站](https://vtaiwan.tw/)
-- [開發中的vTaiwan新網站](https://vtaiwan.pages.dev)
 - [vTaiwan info page](http://info.vtaiwan.tw/)
+- [vTaiwan 網站(2025更新版)](https://vtaiwan.tw/)
+- [如何將新議題貼上 vTaiwan 網站](https://g0v.hackmd.io/ii9WceeaRsSJP93CnHkQlA)
 
 
 vTaiwan 相關資料整理 vTaiwan related materials
