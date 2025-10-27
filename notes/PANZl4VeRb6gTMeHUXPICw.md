@@ -50,7 +50,7 @@ tags: summit2026, program, programming, summit, 議程, 議程組
         4. 靜置電腦版的 Discord 等待醃漬入味
       :::
 2. 我們要暫時打開一下手機，找出你最常隨身攜帶的手機
-    - 下載 Discord App
+    - 下載 [Discord App](https://discord.com/download)
     - 下載完成後，打開 Discord App，並允許 Discord 發送通知
     - 登入 Discord App
 3. 點組長給你的連結，加入議程組 Discord 伺服器（這是**主要**議程組所有閒聊、討論、開會的聊天軟體）
