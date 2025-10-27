@@ -130,7 +130,7 @@ https://www.facebook.com/groups/537936816220741?multi_permalinks=728701913464577
 街廓內連續型人行道潛力位置指認
 https://g0v.hackmd.io/ErnTx4HXSly3E0I9J0zOxQ?edit
 
-民間團體發起紀念與倡議活動，於曾發生重大行人傷亡事故的路口進行
+民間團體發起紀念與倡議活動，於曾發生重大行人傷亡事故的路口進行(已標註於地圖)
 https://www.facebook.com/story.php?story_fbid=pfbid02Jqb3jWLwz5RhkWUXrzdSRfpNwZnWyrs5m1Qzxmk2TSYpLfDcupKzKuhJRx9k19AHl&id=100066932890833&mibextid=qC1gEa
 
 蠻多地點
