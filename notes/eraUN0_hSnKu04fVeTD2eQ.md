@@ -280,6 +280,7 @@ https://www.facebook.com/130017733712220/posts/1892407967473179/
 Digital Attack Map
 http://www.digitalattackmap.com/
 http://map.norsecorp.com/
+資料中心地圖（Data Center Map）https://www.datacentermap.com
 世界燈塔地圖 
 https://goo.gl/YKSVmv
 汪洋中的船隻 
