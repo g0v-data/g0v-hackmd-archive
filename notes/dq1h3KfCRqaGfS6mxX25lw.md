@@ -32,8 +32,8 @@ Contributing content **means that you agree to waive your copyright and release 
 
 * [馬太鞍溪附近CCTV即時影像](https://www.twipcam.com/api/v1/query-cam-list-by-coordinate?lat=23.685257108985574&lon=121.42447544265308)
     * 馬太鞍溪便橋CCTV
-    ![](https://c01.twipcam.com/cam/snapshot/wra-002612.jpg =50%x)
-
+    ![](https://c02.twipcam.com/cam/proxy.php?id=wra-002612&t=0.9899623804603984 =50%x)
+    
 
 
 *  [ℹ️ 馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake) [target=_blank]`農業部林業及自然保育署`
