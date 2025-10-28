@@ -20,7 +20,18 @@
 *   **[mrorz]** cAdvisor 研究與安裝
 *   **[Infra]** ElasticSearch v9 reindex 研究
 *   **[Infra]** Linode --> Compute Engine 降載計畫
-*   **[小聚]** KKTIX 行前通知、Slido、[投影片](https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit)更新
 
-### 本週
-*   ...
+
+
+
+## Github Activities
+
+* **New Comment on Pull Request**: MrOrz 在 [cofacts/takedowns#273](https://github.com/cofacts/takedowns/pull/273#issuecomment-3449981323) 中回覆：「我無法判斷 ._.」
+* **New Pull Request**: [cofacts/takedowns#273 Takedown spam user Ben Chen 3sBVH5oBWwAUNc5biMBl](https://github.com/cofacts/takedowns/pull/273)
+* **New Comment on Issue**: chennjustin 在 [cofacts/rumors-site#308](https://github.com/cofacts/rumors-site/issues/308#issuecomment-3435287314) 中詢問：「Is this issue be fixed successfully？」
+
+
+## 小聚檢討
+
+> 小松果 https://g0v.hackmd.io/9xF-mWbbRz-Rq-uWh-gCMQ
+
