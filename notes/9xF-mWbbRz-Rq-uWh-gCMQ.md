@@ -55,7 +55,6 @@ https://cofacts.kktix.cc/events/cofactseditor49
   - 補充資訊確實是線索比較好，不過也可能有來自 LINE 使用者對這則訊息的想法 [name=mrorz]
   - 意見目前用字數去擋
 
-
 QA
 * 有人問說這個平台是貼了一個訊息後 完全是靠人工回應，但以前的認知是會有AI幫我們查證
 
