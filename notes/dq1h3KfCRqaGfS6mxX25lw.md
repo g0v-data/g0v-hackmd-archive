@@ -30,14 +30,12 @@ Contributing content **means that you agree to waive your copyright and release 
 `<海嘯警報音符為鳴5秒，停5秒，反覆9遍(共85秒)，解除警報音符為一長聲90 秒>` <small>--- 來源，內政部</small>
   ![](https://g0v.hackmd.io/_uploads/S1ljDDcATxe.png =30%x)
 
-* [ℹ️ 全民防災e點通 | 馬太鞍溪堰塞湖專區 <small>-- 內政部消防署</small>](https://bear.emic.gov.tw/MY2/disasterInfo/99393)[target=_blank]
-    * 應變處置報告、各部會投入事項、情資研判資料、預警簡訊等
-* [ℹ️ 中央前進協調所「花蓮光復鄉災後復原」記者會 <small>--- *行政院*</small>](https://www.facebook.com/ey.gov.tw/live_videos) [target=_blank]
-    * 每天10:00記者會公告最新進度
+*  [ℹ️ 馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake) [target=_blank]`農業部林業及自然保育署`
+    * 目前災區仍有風險，請注意自身安全
+    * ⚠️監視器影片可能不即時
 
-### 風神颱風緊急應變事項
-* ‼️**10/18 14:00~17:00 撤離演習時間，禁止志工進入災區**
-* 🆕`<10/16發布>`[1012劃定之警戒區內各村里避難參考路線](https://arcg.is/08bmiq0) --- [name=NDHU強韌防災團隊]
+
+* ~~‼️**10/18 14:00~17:00 撤離演習時間，禁止志工進入災區**~~
 
 ## 🤝🏻災民需求 X 志工前往（‼️[行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️）
 
@@ -167,14 +165,15 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ## 📢 狀況回報
 * [ℹ️ EMIC災情地圖<br><small> --- *江明宗 製作*</small>](https://tainan.olc.tw/p/emic/)
-*  [ℹ️ 馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake) [target=_blank]`農業部林業及自然保育署`
-    * 目前災區仍有風險，請注意自身安全
-    * ⚠️監視器影片可能不即時
+
 
 ### 交通狀況
 
 **🚨非救災需求，請立即離開光復鄉！**
-* [臺九線馬太鞍溪橋便道已於10/10下午3時正式開放5噸以下車輛通車通行](https://www.facebook.com/share/p/16JxkJRZ4i/)`<10/11更新>`
+* [10/27因應上游降雨影響，馬太鞍溪橋臨時便道不排除預警性封閉](https://www.thb.gov.tw/News_Content_Table.aspx?n=7839&s=283631)
+    ![](https://g0v.hackmd.io/_uploads/rye81LCpCgx.png =30%x)
+
+* [台9線馬太鞍溪橋便道已於10/10下午3時正式開放5噸以下車輛通車通行](https://www.facebook.com/share/p/16JxkJRZ4i/)`<10/11更新>`
     * 為配合交通動線調整，原縣道193線「每日7時至16時南往北車輛管制」措施，將自 10月11日起取消管制。
     * 新制重點：
         * 193線除救災及公務車外，禁止甲、乙類大客車及逾21公噸大貨車通行。
@@ -183,7 +182,7 @@ Contributing content **means that you agree to waive your copyright and release 
 
 * 火車：
     * 全線正常行車。(詳情以[台鐵公告](https://tip.railway.gov.tw/tra-tip-web/tip) [target=_blank]為主)
-    * 台鐵因應協助災後復原[加開班次資訊](https://tip.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29987767a01999839ff075cc5&page=0) [target=_blank]
+    * `<10/15止>`台鐵因應協助災後復原[加開班次資訊](https://tip.railway.gov.tw/tra-tip-web/tip/tip009/tip911/newsDtl?newsNo=8ae4cac29987767a01999839ff075cc5&page=0) [target=_blank] 
 * 公路：
     * 南下>>花蓮南下到鳳林劍英大橋轉進193線到光復
     * 北上>>從台東北上的路線，走台11海線
@@ -317,6 +316,12 @@ Contributing content **means that you agree to waive your copyright and release 
 * [花蓮馬太鞍溪堰塞湖災害救援懶人包](https://hackmd.io/@DPPinfo/H1jdGQM2eg#0923-%E8%8A%B1%E8%93%AE%E9%A6%AC%E5%A4%AA%E9%9E%8D%E6%BA%AA%E5%A0%B0%E5%A1%9E%E6%B9%96%E7%81%BD%E5%AE%B3%E6%95%91%E6%8F%B4%E6%87%B6%E4%BA%BA%E5%8C%85)`<彙整官方、民進黨資訊>`
 * [🖥️農村水保署_BigGIS圖台](https://gis.ardswc.gov.tw/map/)`<開設馬太鞍堰塞湖專區，除匯入2025/9/25 最新的災後航照影像及Pleiades衛星影像，亦整合地址、地籍圖等資料>`
 
+* [ℹ️ 全民防災e點通 | 馬太鞍溪堰塞湖專區 <small>-- 內政部消防署</small>](https://bear.emic.gov.tw/MY2/disasterInfo/99393)[target=_blank]
+    * 應變處置報告、各部會投入事項、情資研判資料、預警簡訊等
+* `<10/22止>`[ℹ️ 中央前進協調所「花蓮光復鄉災後復原」記者會 <small>--- *行政院*</small>](https://www.facebook.com/ey.gov.tw/live_videos) [target=_blank]
+    * 每天10:00記者會公告最新進度 
+
+* 🆕`<10/16更新>`[1012劃定之警戒區內各村里避難參考路線](https://arcg.is/08bmiq0) --- [name=NDHU強韌防災團隊]
 
 ## 🏃🏼後續行動
 
