@@ -30,6 +30,12 @@ Contributing content **means that you agree to waive your copyright and release 
 `<海嘯警報音符為鳴5秒，停5秒，反覆9遍(共85秒)，解除警報音符為一長聲90 秒>` <small>--- 來源，內政部</small>
   ![](https://g0v.hackmd.io/_uploads/S1ljDDcATxe.png =30%x)
 
+* [馬太鞍溪附近CCTV即時影像](https://www.twipcam.com/api/v1/query-cam-list-by-coordinate?lat=23.685257108985574&lon=121.42447544265308)
+    * 馬太鞍溪便橋CCTV
+    ![](https://c01.twipcam.com/cam/snapshot/wra-002612.jpg =50%x)
+
+
+
 *  [ℹ️ 馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake) [target=_blank]`農業部林業及自然保育署`
     * 目前災區仍有風險，請注意自身安全
     * ⚠️監視器影片可能不即時
