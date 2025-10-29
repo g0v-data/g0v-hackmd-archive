@@ -5,10 +5,10 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：
+參與者 Participants： Peter, Bestian, Anan阿南, Josh, Yu-Ting, Yi-Ting, Tim
  https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
-
+![](https://g0v.hackmd.io/_uploads/rJhUrFky-e.png)
 
 ::: success
 ## 專案儀表板：目前 vTaiwan 社群在進行的事情 
@@ -54,7 +54,7 @@ tags: vTaiwan
 - 核心觀察：引導者實務尤其重要
     - 流程設計至關重要：引導者一致認為：流程設計（process design）勝過單純工具選擇。換言之，在進入房間或線上會議前就必須明確「我們想要達成什麼」再反推設計。他們提醒：如果只是用工具但流程目標、動線、參與者預備、信任機制沒處理好，可能反而削弱對話的質量。
     - 報告區分了三種典型的對話／群體引導流程，便於技術設計參考：
-        - 轉型型（Transformative）：重在參與者或群體的內在變化／學習／關係修復。決策不是主目標。
+        - 變革型（Transformative）：重在參與者或群體的內在變化／學習／關係修復。決策不是主目標。
         - 生成型（Generative）：重在蒐集想法、創意、意見。尚未至即刻決策階段。
         - 審議型（Deliberative）：重在來到共識或做出決定／建議。
     - 指出：在實務中往往是這三者交錯、串接（例如先 Transformative 再 Generative 再 Deliberative）—報告將之比作「發散-收斂（double-diamond）」模式。
@@ -116,7 +116,7 @@ tags: vTaiwan
 ## 人工逐字稿（不負責任手打紀錄）：
 Peter:我分享的部分盎到比較後面，這週要討論的議題優先：Bestian要不要先分享網站說明文？
 
-Bestian：OK，簡單帶大家柳懶一下將議題提到vtaiwan流程：議題是放在 talk.vtaiwan建立貼文打上標題（只打標題不會出現到網站，所以要多一個小空白鍵和 ＸＸＯＯ，加上分類？ 封面圖可以另外建立後，微調圖檔大小後， ）->才 可以在vtaiwan看到。
+Bestian：OK，簡單帶大家瀏覽一下將議題提到vtaiwan流程：議題是放在 talk.vtaiwan建立貼文打上標題（只打標題不會出現到網站，所以要多一個小空白鍵和 ＸＸＯＯ，加上分類？ 封面圖可以另外建立後，微調圖檔大小後， ）->才 可以在vtaiwan看到。
 
 Josh:謝謝Bestian建立，我覺得這件事還蠻重要的，因為每次要做時就會忘記。雖然你說分類要設成meta，但是我找設定時就是找不到。
 
@@ -143,69 +143,104 @@ Josh:我有收到通知了。
 Peter:那Josh再試試看。
 
 Bestian：我是把文件放在 hackmd vtaiwan。從留言議題->議程->（記錄每個時間軸
+:::success
 ![](https://g0v.hackmd.io/_uploads/S1g2U_1yZg.png)
-
+:::
 那我如何上架的報告到這裡告一段落。
 
 Peter:接下來要說的是模擬市民部分。Josh要介紹一下嗎？可以介紹一下成果部分。因為我主要負責行政。
 
 Josh:我補充一下脈絡：時空背景是 twnic想探討的是：「如何可以大規模的審議？」最後想說最後一個月要趕deadline時想說可否用實驗性的方式做這個是請，就想用 ai代理人方式看可否代表大家做這件事。用 google表單做一個問卷調查，google表單給出的資料再去設定角色-->餵給 150個 Ai來做討論
+:::success
 
+:::
 ![](https://g0v.hackmd.io/_uploads/S1lsdw_11bl.png)
-平常vtaiwan做審議時 20-40歲男性，那這次性別和年齡就比較平均。分佈的地理位置也蠻廣的。請大家寫三個關鍵字，也蠻多元的。怎麼介紹你自己也都很不一樣。怎麼描述你的政治立場。讓Ai去抓他們的政治立場和想法，可以模擬出這個人在這個議題怎麼思考。蠻意外的大部分人說不關係政治......。大家可以設定自己代理人暱稱。![](https://g0v.hackmd.io/_uploads/r1q-d_J1bg.png)
+:::
+平常vtaiwan做審議時 20-40歲男性，那這次性別和年齡就比較平均。分佈的地理位置也蠻廣的。請大家寫三個關鍵字，也蠻多元的。怎麼介紹你自己也都很不一樣。怎麼描述你的政治立場。讓Ai去抓他們的政治立場和想法，可以模擬出這個人在這個議題怎麼思考。蠻意外的大部分人說不關係政治......。大家可以設定自己代理人暱稱。
+:::success
+![](https://g0v.hackmd.io/_uploads/r1q-d_J1bg.png)
+:::
 量化的東西比較難餵給AI。所以不斷地讓他們寫一些東西餵給ＡＩ。
 ![](https://g0v.hackmd.io/_uploads/SyxEdO11Wx.png)
 
 
-技術上要怎樣設定代理人討論![](https://g0v.hackmd.io/_uploads/r1gr5ud1kZe.png)
+技術上要怎樣設定代理人討論
+:::success
+![](https://g0v.hackmd.io/_uploads/r1gr5ud1kZe.png)
+:::
 和設定整個架構，發現一個很大的缺點，是讓設計者太大的權力。
 在跑的時候是用 python去呼叫 Api，是虛擬的跑，做了一個虛擬好看的介面。
 
+:::success
 ![](https://g0v.hackmd.io/_uploads/rkxHh_d1kZx.png)
+:::
 
 像是問說：你喜歡川普嗎？ 會呼叫api的角色去回答這個問題，
+:::success
 ![](https://g0v.hackmd.io/_uploads/S1xZkFu1Jbx.png)
+:::
 
 其他一百七十個問卷的代理人，就不知道是呼叫哪個角色。
 
-翊婷覺得她很正確的被代理到了。![](https://g0v.hackmd.io/_uploads/BysGFdyJZl.png)
+翊婷覺得她很正確的被代理到了。
+:::success
+![](https://g0v.hackmd.io/_uploads/BysGFdyJZl.png)
+:::
 
 我可以把這個東西放到 github讓大家玩玩看。
 
 例如：我可以挑幾個人來參與討論：
+:::success
 ![](https://g0v.hackmd.io/_uploads/HkMStOyJ-g.png)
+:::
 
-prompt的長度有一定的長度限制，![](https://g0v.hackmd.io/_uploads/H1xPF_1ybe.png)
+prompt的長度有一定的長度限制，
+:::success
+![](https://g0v.hackmd.io/_uploads/H1xPF_1ybe.png)
+:::
 持續對話後，長度會太長。所以我就限定對話次數。
+
+:::success
 ![](https://g0v.hackmd.io/_uploads/ByZFtu1yZl.png)
+:::
 就會發現他們（指不同的ＡＩ代理人？）會彼此呼應。
 
 
 Peter:現場審議經驗，大家也會.....，大家會選擇性回應自己有興趣的意見。
 
-Josh:......這次審議討論是在講 AI審查，討論這個議題，對於設定不太理想。因為這個議題蠻 細的，感覺上沒有太多爭議。我是把大家分成四個人的小組，討論兩輪，最後 moderate在做總結。設定的方式有一個評分，怎麼評分分成四組![](https://g0v.hackmd.io/_uploads/Bk3O5dyJZe.png)
+Josh:......這次審議討論是在講 AI審查，討論這個議題，對於設定不太理想。因為這個議題蠻 細的，感覺上沒有太多爭議。我是把大家分成四個人的小組，討論兩輪，最後 moderate在做總結。設定的方式有一個評分，怎麼評分分成四組
+:::success
+![](https://g0v.hackmd.io/_uploads/Bk3O5dyJZe.png)
+:::
 
-我設定：「有人比較相信AI，有人比較不相信ＡＩ」，也看不出有多大的差別啦。我發現 ＡＩ自己很 focus的一點是「台灣的多元語言這一點」，![](https://g0v.hackmd.io/_uploads/B1Aac_1k-x.png)
+我設定：「有人比較相信AI，有人比較不相信ＡＩ」，也看不出有多大的差別啦。我發現 ＡＩ自己很 focus的一點是「台灣的多元語言這一點」，
+:::success
+![](https://g0v.hackmd.io/_uploads/B1Aac_1k-x.png)
+:::
 
 
 Peter:我在想多元語言這一點，我猜會不會 openai 在訓練模型時，把這個偏好融合到模型了，然後再融合到這個Josh設定的ＡＩ代理人了。之後看能否調整模型參數？
 
 Josh:我認為這是有困難的。我設定十是設定「尊種文化多樣性」，我猜測是否他們對這個尊重多元文化比較敏感。
-
+:::success
 ![](https://g0v.hackmd.io/_uploads/rJJ8oOyJbg.png)
+:::
 另外是有七道題目，請大家評分（如上圖），人在這個民調裡面好像沒有太強烈的想法。community是第一名，大家最不相信的不是ＡＩ，是更不相信海外的審查員。蠻好玩的。用ＡＩ代理人去做這個調查，ＡＩ比ＡＩ更相信人類，或是人類審查員。但是用台灣人類去做這個調查是更不相信海外的審查員。
 
 Yi-Ting文字表示：
 Yu-Ting Chen says:我覺得很有趣～ 
 Yu-Ting Chen says:我晚一點再看 document 
-
+:::success
 ![](https://g0v.hackmd.io/_uploads/S1Km3uyyZe.png)
+:::
 
 
 Peter:審議過程當中，從大家一起討論過程中了解彼此不同看法，創造連結和共同學習。如果用ＡＩ帶理人，這個（從大家一起討論過程中了解彼此不同看法，創造連結和共同學習）就不能被重現。過於極化的限制的情況時，也許就可以用這種ＡＩ代理人的方式。
 
 Josh:你們看第一段，如下圖
+:::success
 ![](https://g0v.hackmd.io/_uploads/SkHFnuy1be.png)
+:::
 審議的意義在哪裡？如果意義是人類交換意見，那用ＡＩ帶理人方式...
 假如政府今天有一個問題，但沒辦法做民調，但他需要一個快速地收集和試水溫，可能僅此於此。
 ＡＩ的 立場如果改變了，ＡＩ有沒有可能去跟主人講，主人可否表達同意不同意。那這樣是否就有一種可能性「人類也可以學習到」。但目前還是蠻抽象的。
@@ -222,40 +257,51 @@ Peter:目前看起來要解決這個問題是：讓 host 和 ai agent...另外�
 Bestian says:大規模即時審議，Frankly平台設計是專注在這件事上，把參與者分成小組來進行。 
 
 Bestian says:或許Frankly分組邏輯，把立場有差異的人分在一組，可以用在其他的分組情境上? 
+:::success
 ![](https://g0v.hackmd.io/_uploads/HJgfCdyyZx.png)
+:::
 
 
 Josh: 理想上假設依Polis的分組方式從投票資料，分成ＡＢＣ三組，讓相同立場的人先討論，知道自己的立場是什麼以後，因為有些人對自己的立場並不清楚，透過和立場相近的人討論可以更清楚自己的論點。第二輪後，再讓不同立場的人交互討論。
 
 
 Peter:最近的 google Jigsaw團隊的報告，現在是 final版本
-
+:::success
 ![](https://g0v.hackmd.io/_uploads/SJgDFA_JyWl.png)
+:::
 
 
 崔家瑋 says:
 https://services.google.com/fh/files/blogs/jigsaw_facilitation_in_the_ai_era.pdf
 
 負責寫報告的人有跟他約了一次吃飯和訪談，問我要不要當...，後來就跟各國的審議工作者（如下圖）一起做這件事。
+:::success
 ![](https://g0v.hackmd.io/_uploads/SygQRRuyJbg.png)
+:::
 如果明年我們有拿到 twnic經費，就可以拿這份報告來......，
-
+:::success
 ![](https://g0v.hackmd.io/_uploads/S1-Z1FyyZg.png)
+:::
 
 Bestian says:請問這份報告的網址是可公開的嗎?>>Peter說可以公開。
 
 Peter:Peter飛快地介紹下圖這份報告。
+:::success
 ![](https://g0v.hackmd.io/_uploads/rJJvktkk-l.png)
+:::
 目前很多審議工作者不喜歡用工具來取代，比較喜歡用工具增強審議。
 各國審議工作者都用這些工具做拼接。去年開始用技術工具後，有以下問題：對工具的信任度、和數位工具的落差、要開發後續工具（用ＡＩ擴大可及性）
 
 Josh: 像Bestian之前做的SenseMaker工具中文化。
 
 Peter:另外一個圖示的設計（跨語言），在外籍移工或是 Josh所在的瑞士可以嘗試。比較是動態的呈現。即使理解的部分。
-
+:::success
 ![](https://g0v.hackmd.io/_uploads/BycdeYyybl.png)
+:::
 表情判別部分：日本人表示開心和歐美人或是歐洲人彼此之間也非常不一樣。
+:::success
 ![](https://g0v.hackmd.io/_uploads/SkQRgFJyZg.png)
+:::
 像Josh講的流程設計變得非常重要。
 
 
@@ -267,12 +313,114 @@ Bestian says:最近在看Talk to the City，它的功能似乎是看逐字稿或
 
 Josh says:但是他們是事後做分析是吧？ 
 
+Bestian says:是事後分析，但LLM夠快的話也可能可以在討論中間生成報告。 
+👍
+:::success
 ![](https://g0v.hackmd.io/_uploads/SyXAZK1J-g.png)
+:::
 
+Peter:明天下午兩點，英國的....有一個活動。
+:::success
+![](https://g0v.hackmd.io/_uploads/HJbbMF1JZe.png)
+:::
 
-
-
+另外是哈佛.....
+:::success
+![](https://g0v.hackmd.io/_uploads/rkMYEYk1Zx.png)
+:::
+大合照截圖
+:::success
+![](https://g0v.hackmd.io/_uploads/rJgi8GYykbl.png)
+:::
 
 
 
 ## 轉錄逐字稿及AI摘要
+
+### 轉錄逐字稿詳情：
+https://vtaiwan.tw/transcription_detail/20251029
+
+
+
+### AI摘要
+
+**會議重點整理（正體中文）**
+
+---
+
+## 一、vTaiwan網站 / talk.vtaiwan.tw 相關操作要點  
+1. **議題建立流程**  
+   - 後台位於 `talk.vtaiwan.tw`，欲在 vTaiwan網站上顯示議題必先在 `talk.vtaiwan.tw` 建立對應貼文。  
+   - 標題後必須加 **空白鍵 + 英文/數字組合**（如 `標題 abc123`），才能產生可點擊的連結。  
+
+2. **標籤與分類**  
+   - 預設為「討論中」的標籤會被排到 `news`，不會顯示在前端。  
+   - 需將 **標籤改為其他**（或移除），**分類選擇 `meta`**，才能讓議題出現在網站上。  
+
+3. **封面圖**  
+   - 可使用 AI 產圖或繪圖軟體，完成後需 **調整檔案大小**（建議在 EMB 內），確保符合上傳限制。  
+
+4. **權限問題**  
+   - **`meta` 分類** 需 **管理員權限**（talk.vtaiwan.tw 管理員）方可設定。  
+   - 若一般使用者無法新增此分類，需先提升為管理員或請已有管理員協助設定。  
+
+5. **議程更新方式**  
+   - 透過留言方式更新議程階段（如「意見徵集 → 草案送院」），系統會自動記錄時間軸與相關連結。  
+
+6. **文件與說明**  
+   - 操作說明與範例已放置於 talk.vtaiwan.tw HackMD `book`（「talk.vtaiwan.tw 2025 更新版」）下方。  
+
+---
+
+## 二、AI 代理人（代理討論）討論要點  
+| 發言人 | 主題 | 重點 |
+|------|------|------|
+| **Josh** | AI 代理人的機制與風險 | - 透過 AI 代理人收集問卷，可提升參與者多元性。<br>- 角色設定以 **質化描述** 為主，較易讓 LLM 理解。<br>- 代理人設定權力大，可能影響討論結果，需警惕。 |
+| **Josh** | 自建 Python 代理程式 | - 本地環境跑的 Python 程式，允許自訂角色特質與回應。<br>- 計畫開源至 GitHub，API key 改為參數式輸入。 |
+| **Peter** | 代理人回顧歷史對話 | - 代理人目前會回應所有前置訊息，但人類不會記完整脈絡，需設計「記憶截斷」或「重點摘要」機制。 |
+| **崔家瑋** | 模型偏好與文化多樣性 | - OpenAI 在模型訓練時提升文化多樣性優先權，會影響代理人的行為。<br>- 未來可考慮使用開源模型（如 OpenAI‑Wait）自行調整參數。 |
+| **Joshua Yang** | 代理人與民意調查發現 | - AI 最不信任「AI 本身」，最信任「人類」與「社群 AI」；對海外審查員較敏感。<br>- 觀察到台灣語境對 AI 的不信任較低，對外部文化敏感度較高。 |
+| **Joshua Yang** | 代理人與審議的可能性 | - 代理人可用於快速探測民眾意見、測試「水溫」。<br>- 若代理人能回饋給人類（如「我已改變立場」），可形成雙向學習。 |
+| **Peter** | AI 代理審議的角色 | - AI 代理審議不取代真人審議，提供跨時空、遠距參與的可能。 |
+| **Bestian** | 事後分析工具「Talk to the City」 | - 能將逐字稿等資料自動化分析共識、爭議點，若 LLM 速度足夠，也可在討論中即時生成報告。 |
+
+---
+
+## 三、審議流程與工具設計（Google Jigsaw 報告）  
+1. **審議類型三分法**  
+   - **Transformative**：促進關係修復與重建。  
+   - **Generative**：發散性意見收集、腦力激盪。  
+   - **Deliberative**：形成共識與決策建議。  
+
+2. **現況觀察**  
+   - 多數審議工作者不願 **自動化或取代** 審議，而是希望 **增強** 工作（如提升意見萃取率、精細化筆記）。  
+   - 常用 **非專為審議設計的工具**，透過 **拼接多種工具** 來完成流程。  
+
+3. **主要挑戰**  
+   - **信任**：參與者對 AI 產出、數位工具的可信度需透過校驗機制提升。  
+   - **可及性**：網路、裝置、語言障礙會限制參與；需多語言、離線或低帶寬方案。  
+   - **情緒 AI**：臉部情緒辨識準確度與文化差異問題，需慎用。  
+
+4. **未來發展方向（報告建議）**  
+   - **AI 擴大可及性**：多語言翻譯、適配不同裝置與網路條件。  
+   - **工具中文化**：本土化說明、介面、語料庫。  
+   - **跨語言通知／招募**：針對外籍移工、跨國議題的多語言參與管道。  
+   - **動態學習與即時視覺化**：即時呈現討論走向、情緒、關鍵字雲等。  
+   - **情緒／情境預測**：謹慎使用於政策情境模擬，避免偏見與文化誤判。  
+   - **透明、可交互的最終報告**：將討論資料自動整理成易讀、可追溯的多方報告（如 SenseMaker 風格）。  
+
+---
+
+## 四、其他相關資訊與行事提醒  
+- **Google Jigsaw 報告**：《Facilitation in the AI Era: A Community Roadmap for Technologies to Support Practitioners》  
+  - 下載連結：<https://services.google.com/fh/files/blogs/jigsaw_facilitation_in_the_ai_era.pdf>  
+
+- **即將舉辦的線上分享**  
+  - 時間：明晚（台灣時間）20:00 / 瑞士時間 14:00（約相差 6‑7 小時）。  
+  - 主題：Harvard Kennedy School 數位公共建設相關報告與討論。  
+
+- **工具參考**  
+  - **Talk to the City**：事後分析平台，支援逐字稿、共識/爭議點自動化萃取。  
+    - 網站：<https://talktothe.city/>  
+
+- **會議結語**：拍攝合照、開鏡頭與否視個人方便；若無法參與線上討論，可於下週再回顧會議筆記與分享文件。  
