@@ -14,6 +14,9 @@ https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
 GitHub / Dataset 資料集
 https://github.com/g0v/small_school_renaissance
 
+展示
+https://sites.google.com/view/reschool/
+
 地圖
 - 民國 130 年就學人口統計推估地圖 https://g0v.github.io/small_school_renaissance/
 - 個案探討地圖 https://maps.app.goo.gl/zrZRjUGzmKQhwhee7
