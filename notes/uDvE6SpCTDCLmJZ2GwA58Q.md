@@ -314,6 +314,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
 
 ### 國內外經驗與借鏡案例
 - 芝玉路 https://www.facebook.com/share/p/1DHPffuNha/?mibextid=wwXIfr
+- 高雄中學仿降雨的澆灌 https://www.facebook.com/share/r/1DRYdGuZiH/?mibextid=wwXIfr
 - 荷蘭 https://www.facebook.com/share/fqNfvUUfvdLLehHg/
 - 丹麥 河流開蓋 改善水質 
     - https://www.aarhusvand.com/cases/climate-adaption/aarhus-river-project/

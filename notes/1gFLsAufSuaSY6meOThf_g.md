@@ -18,6 +18,9 @@ https://www.facebook.com/jumount/posts/pfbid02NbX3gHgDJKovFTG2kCynLrFp2NkMEkdfCL
 臺南市永康區復國里
 https://www.facebook.com/groups/bousaiTW/permalink/2605406503106219/
 
+高雄市長鼓山區社福機構防災兵推
+https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=9950&n=30177&sms=9942
+
 替代醫療場所（Alternative Care Site）規劃的工作坊
 https://www.facebook.com/frankfuhyuan.shih/posts/10223295464711607
 

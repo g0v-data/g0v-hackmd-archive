@@ -11,6 +11,9 @@ tags: g0vernance, 詐騙
 
 
 ## 歷次誤用狀況：網站
+- 202510
+    - 刊載單位：人二 FB 粉專
+    - 討論串：https://www.facebook.com/share/p/16V1nZCgnk/
 - 202403
     - 刊載單位；自由時報
     - https://news.ltn.com.tw/news/society/paper/1633651
@@ -52,6 +55,11 @@ tags: g0vernance, 詐騙
 
 ### 建立中繼網頁，確保該網址不會遭到惡意使用
 - 案例：財政部電子申報繳稅服務網 https://tax.nat.gov.tw/ 與 https://tax.nat.g0v.tw/ 
+
+![](https://g0v.hackmd.io/_uploads/BJlsLT71Zx.png)
+
+
+
 - 相關發想規劃：g0v shadowcat 影子政府網站 https://g0v.hackmd.io/GD2adjxpQ3-v-5N_WIj22g
 
 ### 撰寫 sns 
