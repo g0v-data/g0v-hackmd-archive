@@ -28,3 +28,24 @@ TODO
 - 太子堂二・三丁目地区
     - https://www.city.setagaya.lg.jp/02202/3990.html
     - 太子堂二・三丁目地区地区街づくり計画 計画図 https://www.city.setagaya.lg.jp/documents/3990/keikakuzu17.pdf
+
+## 交流提到的內容
+
+https://www.cttaiwan.moda.gov.tw/
+https://sdc-rdec.tainan.gov.tw/
+https://health-reservation.tainan.gov.tw/
+https://health-examination.tncghb.gov.tw/
+https://aithon2024.goodideas-studio.com/topic-list/
+
+https://opengov.tainan.gov.tw/budget
+https://budget.openfun.app/
+
+https://aiacademy.tw/good-ai-2025/
+https://www.tahr.org.tw/cases/NHID
+https://www.ecpat.org.tw/
+https://dtatw.org/about_us/
+
+https://docs.google.com/document/d/1cWdfTZGRfvwnCr_gO-0UYQt56zstog3F/edit
+
+第一個專案，挑選民生有感
+尚可半年至一年內完成
