@@ -30,8 +30,8 @@ tags: 新生流域,
 ## 活動筆記，歡迎共筆
 
 ![](https://g0v.hackmd.io/_uploads/ByxCvOoN1bx.jpg)
+![](https://g0v.hackmd.io/_uploads/Syxx6jsNk-e.png)
 
-![](https://g0v.hackmd.io/_uploads/S1edsjiNkZl.png)
 
 分析方法
 - 有詢問交通局，當時花博期間新生高架橋修繕的交通流量紀錄
@@ -41,6 +41,8 @@ tags: 新生流域,
 
 部分不通車的方案
 - 方案：保留劍潭到民族東路的橋體，在民族東路以北設置上下橋區域，保留濱江引道
+
+![](https://g0v.hackmd.io/_uploads/S1edsjiNkZl.png)
 
 不通車段的探討
 - 民族東路以南的空間方案構想列舉：
