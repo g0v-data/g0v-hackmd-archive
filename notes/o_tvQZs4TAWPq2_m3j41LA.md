@@ -19,6 +19,9 @@ https://cyberisland.teldap.tw/P/qAttzEfujii
 https://www.facebook.com/groups/582154450196478/posts/770044471407474/
 :::
 
+20250427 
+https://www.facebook.com/groups/582154450196478/posts/1217542253324358/
+
 新生高架路跑過程視角的影片
 https://www.youtube.com/watch?v=r6qJVBRziWE&list=PLjBlyKwAdyCVlUz5gARhas4CRQh9zNLhv
 20240908 
