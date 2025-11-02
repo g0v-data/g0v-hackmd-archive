@@ -279,6 +279,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 2006 年，中央車站規劃，有提到新生大排 https://photos.app.goo.gl/i96NdSink8XQyLTy8
     - 圓山站捷運廊道下方的公共藝術 https://www.facebook.com/janus.wu.7/posts/pfbid02dXTFPwe5JMmJC8WviiMR3S4uBJN9S4WjHVLqCtFzS3d4SZpHfiAn89TY2ESWnTwvl
     - 建國高架下方的 育成庇護園區 https://ycipay.eoffering.org.tw/contents/project_ct?page=1&p_id=59&utm_source=cffb&utm_medium=a&utm_campaign=green&fbclid=IwAR2UiO-9aPDu9_Nujq-qCHbqqnGECsWzf8f98G-7bqNCv2EVep5va_4R8ms_aem_AUNh6_aGpS8EtJCWZk_l4vr9iKPaCLVCIvkiSdXW6HVt3krlCP0HRmJc7zpc3tZUpQc
+    - 台師大街區 舒適度探討 網頁 https://sites.google.com/view/citycomfortlab/home
     - 針對「新生北路一段」無高架橋段，查找加現況樹木
         - 是否屬於行道樹？
         - 農航所歷史航照推估樹齡
