@@ -23,10 +23,12 @@ tags: 詐騙
         - https://www.thsrc.com.tw/ArticleContent/04030b4c-f45a-47e8-bd62-5c84f4288681
 - 蒐集聲音資料 https://www.facebook.com/share/r/j1i8Lv4b52g6eicq/
 - 民生用電詐騙案件例如：欠費未繳或假冒收款帳號
-- https://www.facebook.com/share/p/1Fe2VNepsS/
+- 謊稱民眾資料遭冒用，向民眾蒐集個資
+    - https://www.facebook.com/share/p/1Fe2VNepsS/
 - 公益義剪詐騙，蒐集受騙者的帳戶 https://www.facebook.com/share/p/DF8HKy7tH7cTEdnT/
 - 徵求公民調查行動的名義蒐集個人資料的詐騙 https://www.facebook.com/share/p/18GQxjWoG2/
-- https://www.facebook.com/share/p/14tPNUkBSw/
+- 謊稱中 2000 萬樂透要發每人 1000 元紅包，的詐騙
+    - https://www.facebook.com/share/p/14tPNUkBSw/
 - 廣告不實販售詐騙
     - https://www.facebook.com/share/v/Jcp1JotpQed2MoJe/
     - https://www.facebook.com/share/v/YrhjGf8Gfu2t5QUD/
@@ -52,6 +54,7 @@ https://ec.ltn.com.tw/article/breakingnews/4900354
     - https://g0v.hackmd.io/roo-89pnR6iouhm-xgLL3A
 - 建立中繼網頁，確保該網址不會遭到惡意使用
     - 案例：財政部電子申報繳稅服務網 https://g0v.hackmd.io/p-jr_r5tRLyQ1A7OUL1r9w
+    - 案例：https://g0v.github.io/10000.g0v.tw/
 - 快門手的 dataset
     - https://github.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter
 
@@ -66,6 +69,7 @@ https://ec.ltn.com.tw/article/breakingnews/4900354
     - https://www.facebook.com/yijing1/posts/pfbid0UpgpicMR1Pr4F3deKDBdLRpT51BqSyUzYDeo3KmKxY6qYRB6BuUNRUH5wRg5TQGdl
     - Android 版 App：https://play.google.com/store/apps/details?id=com.fraud.buster.prod
     - iOS 版應用程式：https://apps.apple.com/tw/app/id6587570857
+    - 網頁：https://fraudbuster.digiat.org.tw/accessibility/index
 
 ### 模擬器
 
