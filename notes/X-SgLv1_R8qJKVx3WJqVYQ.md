@@ -4,6 +4,8 @@ tags: infras,  基礎建設, g0v
 
 # 開發中基礎建設
 
+介紹影片：https://youtu.be/t_e1LzcHNR4
+
 ## 即時翻譯
 :::info
 https://github.com/g0v/realtime_transcribe
