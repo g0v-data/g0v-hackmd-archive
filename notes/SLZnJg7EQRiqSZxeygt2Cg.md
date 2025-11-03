@@ -4,6 +4,9 @@ tags: economy,
 
 # 社會經濟探討
 
+
+https://www.facebook.com/share/p/1BdmGh83i1/
+
 演講：台灣社會「不公平」在哪裡？
 影片：https://youtu.be/_DBRW-8yhZg
 講者：朱敬一
