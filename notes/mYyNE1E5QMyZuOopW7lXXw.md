@@ -66,7 +66,7 @@ soft time : critical task 必保持最高priority
 interrupt latency 指的是interrupt到達CPU直到ISR開始的這段時間
 dispatch latency 用圖來解釋
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5f401e5febce35ff98379173c3b5d0e8.png)
-
+[](https://)
 
 ## 6.7 Operating-System Example 
 ### 6.7.1 Linux Scheduling 
