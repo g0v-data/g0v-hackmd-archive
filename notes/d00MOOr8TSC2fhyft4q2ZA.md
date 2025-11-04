@@ -1,4 +1,4 @@
-Rikvip là minh chứng cho sự uy tín và bền vững trong ngành game đổi thưởng. Suốt hơn 10 năm hoạt động, Rikvip luôn duy trì chất lượng vượt trội và bảo mật tối đa. Người chơi luôn an tâm tận hưởng mọi khoảnh khắc tại đây.
+[Rikvip](https://rikvip68.eu.com) là minh chứng cho sự uy tín và bền vững trong ngành game đổi thưởng. Suốt hơn 10 năm hoạt động, Rikvip luôn duy trì chất lượng vượt trội và bảo mật tối đa. Người chơi luôn an tâm tận hưởng mọi khoảnh khắc tại đây.
 Địa chỉ: 29 Lê Duẩn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam
 SĐT: 0748222229
 Website: https://rikvip68.eu.com
