@@ -343,7 +343,9 @@ Contributing content **means that you agree to waive your copyright and release 
 
 * [10/14第二次災區應變說明及最新緊急應變疏散計畫](https://www.facebook.com/share/p/16VsQnwmKm/)--- [name=Fata'an部落] 
     * [直播連絡](https://www.facebook.com/61551033993595/videos/700426075801072)
-    
+
+### 中央/縣府相關會議
+* [11/4花蓮馬太鞍溪堰塞湖災後重建特別條例草案<small>---立法院第4會期第7次會議</small>](https://www.youtube.com/watch?v=iTw0EXtr2dY)    
 
 ---
 ## 🗃️舊平台 Backup
