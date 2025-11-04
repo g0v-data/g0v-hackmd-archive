@@ -20,9 +20,22 @@
 *   **[nonumpa, mrorz]** LLM based Topic Classifier: 追蹤 bug 修復與 benchmark 結果
 *   **[mrorz]** `cofacts/devops-manual` 撰寫進度。
 *   **[mrorz]** 新 URL resolver 設計文件進度 (https://github.com/cofacts/worker/issues/2)。
+    *  確認大方向：
+    *  workflow input:
+      *  一個字串 （裡面自行抽取 URL）
+      *  完成後要打的 admin api payload
+    *  workflow output 是 hyperlink array 打進 cofacts admin api，填進 articles 或 replies doc 的 hyperlinks array
+    *  urls index 整個搬走: 資料存 cloudflare R2，可作為 cache
 *   **[cofacts.ai]** Groundness Check agent 實作 (追蹤提案與文件)
 *   **[mrorz]** cAdvisor 研究與安裝
 *   **[Infra]** ElasticSearch v9 reindex 研究
 *   **[Infra]** Linode --> Compute Engine 降載計畫
 
 
+
+### ＮＧＯ擺攤
+世界人權日 市集擺攤
+國家人權博物館 景美園區
+互動遊戲或是介紹讓民眾闖關（蓋印章嗎？沒有確認）
+12/06 (六)10:00 - 17:00
+各位同學有空嗎？
