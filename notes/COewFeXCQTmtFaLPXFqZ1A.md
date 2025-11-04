@@ -115,6 +115,14 @@ Discord https://discord.com/invite/3FfT5kXFkY
 TMUSO 北醫大海外醫療服務團
 https://www.facebook.com/story.php?story_fbid=pfbid02VCGahrGJS3zdmosjxhXSXJmZ8vRyFTx7NLuHqqZFohcyapTxF6qwo8ATCCrLUg6Ul&id=100064690928605
 
+# Japan
+https://g0v.hackmd.io/@chewei/Japan/
+
+
+# Korea
+
+https://data.seoul.go.kr/SeoulRtd/
+
 # China
 
 https://g0v.hackmd.io/@china/book
