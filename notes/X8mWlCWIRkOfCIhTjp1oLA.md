@@ -92,7 +92,7 @@ https://www.facebook.com/share/p/1K8xoPTuSW/?mibextid=wwXIfr
 花蓮 中山路
 https://www.facebook.com/story.php?story_fbid=1081156217163162&id=100058063810788&mibextid=wwXIfr&rdid=D2XnijX9JGv9LgDq#
 
-桃園市
+桃園市(已登載至地圖)
 https://www.facebook.com/share/p/16a53KM1CU/?mibextid=wwXIfr
 
 
