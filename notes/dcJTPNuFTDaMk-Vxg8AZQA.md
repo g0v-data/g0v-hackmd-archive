@@ -42,3 +42,9 @@ gather g0ther
 (*ˇωˇ*人)
 
 https://www.threads.com/@npm_south/post/DLbnhKxpYCz
+
+
+┏━━━━━━━━━━━━━━━━━┓
+　✸　標題文字 ✸
+┗━━━━━━━━━━━━━━━━━┛
+https://www.facebook.com/share/p/17byvuNops/
