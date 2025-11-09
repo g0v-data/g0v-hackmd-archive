@@ -238,6 +238,7 @@ https://www.facebook.com/share/p/1ArPQnAnUz
 National Status Report on AI Safety in Japan 2024
 https://aisi.go.jp/effort/effort_information/250207_3/
 
+ISO 42119-2:2025 人工智慧系統測試標準
 
 ## 檢視團隊 AI 文化
 
