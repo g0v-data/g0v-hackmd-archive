@@ -13,6 +13,7 @@ https://www.facebook.com/share/p/1LSewn31tS/
     - 圖卡資訊，要手動 key 出地址文字
 - 4 筆，臺北市私人住宅類，都市更新整建維護事業計畫案（套餐A）
     - https://uro.gov.taipei/News_Photo.aspx?n=9639D4A96F49BAFC&sms=B462987B049EF0B0&_CSN=DC0A24D2F2E63F3A&page=1&PageSize=20
+- 萬華 https://www.facebook.com/share/p/1A4A9fBEfu/
 - 台北東區老公寓變電梯華廈
 https://www.wealth.com.tw/articles/c95b77d0-4f60-4e30-af0a-7709d3ef9631?utm_source=facebook.com&utm_medium=fanpage
 - 公共建築類，有蒐集到也可登載到地圖中
