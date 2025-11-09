@@ -38,7 +38,11 @@ https://www.facebook.com/share/p/17Vj6BV74F/
 森丑之助 https://photos.app.goo.gl/ha15KLuqbdZBNbePA
 鳥居龍藏 https://photos.app.goo.gl/HPjbAgxSZpBHvZCt6
 鹿野忠雄 https://g0v.hackmd.io/d7LoE2oHQFCYalTEWrt4aw?view
-賴和
+
+賴和 
+https://cowrite30.com/2024/05/20/raknus2024-05/
+https://www.hakkatv.org.tw/series/1624270016501151
+
 故宮文物路線
 https://zh.wikipedia.org/zh-tw/%E5%9B%BD%E5%AE%9D%E5%8D%97%E8%BF%81
 https://www.npm.gov.tw/Articles.aspx?sno=03012532&l=1
