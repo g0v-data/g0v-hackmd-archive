@@ -16,6 +16,7 @@ https://www.facebook.com/share/p/1LSewn31tS/
 - 萬華 https://www.facebook.com/share/p/1A4A9fBEfu/
 - 台北東區老公寓變電梯華廈
 https://www.wealth.com.tw/articles/c95b77d0-4f60-4e30-af0a-7709d3ef9631?utm_source=facebook.com&utm_medium=fanpage
+- 中山區新興社宅
 - 公共建築類，有蒐集到也可登載到地圖中
 
 ## 案例地圖
