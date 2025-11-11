@@ -24,30 +24,21 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ## 📌置頂
 
-**‼️馬太鞍溪河床已被泥沙填滿，只要稍有雨勢，河水就可能漫流至街道，隨時有可能必須撤退！！**
-`<堰塞湖危機尚未解除，請隨時保持警覺>`
-* [📢災區現場會以**警報音**，即時提醒居民與志工。](https://www.facebook.com/share/p/17WbrLqRzE/)[target=_blank]
-`<海嘯警報音符為鳴5秒，停5秒，反覆9遍(共85秒)，解除警報音符為一長聲90 秒>` <small>--- 來源，內政部</small>
+**‼️馬太鞍溪堰塞湖11/10已達到紅色警戒紅色緊戒，花蓮3鄉鎮強制撤離‼️** 
+
+* [📢災區現場除細胞簡訊，亦會以類似海嘯的**警報音**，即時提醒居民與志工。](https://www.facebook.com/share/p/17WbrLqRzE/)[target=_blank]
+`<警報音符為鳴5秒，停5秒，反覆9遍(共85秒)，解除警報音符為一長聲90 秒>` <small>--- 來源，內政部</small>
   ![](https://g0v.hackmd.io/_uploads/S1ljDDcATxe.png =30%x)
 
 * [馬太鞍溪附近CCTV即時影像](https://www.twipcam.com/api/v1/query-cam-list-by-coordinate?lat=23.685257108985574&lon=121.42447544265308)
-    * 馬太鞍溪便橋CCTV
+    * 馬太鞍溪便橋CCTV `<11/11便道已被沖毀>`
     ![](https://c02.twipcam.com/cam/proxy.php?id=wra-002612&t=0.9899623804603984 =50%x)
     
-
-
 *  [ℹ️ 馬太鞍溪堰塞湖及時監測面板](https://www.iiicloud.com.tw/FarmlandQlakenew/BarrierLake) [target=_blank]`農業部林業及自然保育署`
     * 目前災區仍有風險，請注意自身安全
     * ⚠️監視器影片可能不即時
 
-
-* ~~‼️**10/18 14:00~17:00 撤離演習時間，禁止志工進入災區**~~
-
 ## 🤝🏻災民需求 X 志工前往（‼️[行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️）
-
-* [光復超人(前光復救災資訊整合網)<small> --- 林于立@g0v後勤中心分享</small>](https://gf250923.org) [target=_blank]
-    * [Facebook 社團貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/) [target=_blank]
-    * 現場地圖、居民協助、物資媒合、人力媒合......等資訊
 
 * [🐝光復救災小蜜蜂](https://gf-bee.ngrok.app/available) <small> --- [gfbee@threads </small>](https://www.threads.com/@gfbee_20251001)
     * 10/22(三)平台派送恢復運作
@@ -175,7 +166,12 @@ Contributing content **means that you agree to waive your copyright and release 
 
 ### 交通狀況
 
-**🚨非救災需求，請立即離開光復鄉！**
+**🚨鳳凰颱風來襲，紅色警戒，請立即離開光復鄉！**
+
+* **11/11馬太鞍溪便橋已被沖毀**
+    * [馬太鞍溪附近CCTV即時影像](https://www.twipcam.com/api/v1/query-cam-list-by-coordinate?lat=23.685257108985574&lon=121.42447544265308)
+    ![](https://c02.twipcam.com/cam/proxy.php?id=wra-002612&t=0.9899623804603984 =50%x)
+    
 * [10/27因應上游降雨影響，馬太鞍溪橋臨時便道不排除預警性封閉](https://www.thb.gov.tw/News_Content_Table.aspx?n=7839&s=283631)
     ![](https://g0v.hackmd.io/_uploads/rye81LCpCgx.png =30%x)
 
@@ -208,7 +204,9 @@ Contributing content **means that you agree to waive your copyright and release 
 ## 👪 給當地居民
 
 ### 需求回報
-
+* [光復超人(前光復救災資訊整合網)<small> --- 林于立@g0v後勤中心分享</small>](https://gf250923.org) [target=_blank]
+    * [Facebook 社團貼文](https://www.facebook.com/groups/g0v.general/posts/24553497514299990/) [target=_blank]
+    * 居民協助資訊
 * [花蓮縣卓溪鄉新女力公益協會](https://www.facebook.com/share/p/1D11YJx7KK/) [target=_blank]
 * [光復災區需求回報Line社群](https://line.me/ti/g2/sB3ozsYjzDffc2AZ_QIBQCRtBdXhOSFW26zszw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default&fbclid=IwY2xjawNDXGhleHRuA2FlbQIxMABicmlkETFHN0JuSUVudzA1RW5UZjUzAR5QuPztYuxUug0v6dPzEwDjilVzT0IGFzAFSecOQWnLVPbFnR3rGSh8NaEfiQ_aem__ttEPx6npUe_WiWjUNaZXA) [target=_blank]
 * [光復救災小蜜蜂](https://gf-bee.ngrok.app/available)
