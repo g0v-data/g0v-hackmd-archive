@@ -41,9 +41,8 @@ Contributing content **means that you agree to waive your copyright and release 
 ## 🤝🏻災民需求 X 志工前往（‼️[行前注意事項](https://g0v.hackmd.io/RAkMiCTYREqrTIjsUrrbDQ?view)‼️）
 
 * [🐝光復救災小蜜蜂](https://gf-bee.ngrok.app/available) <small> --- [gfbee@threads </small>](https://www.threads.com/@gfbee_20251001)
-    * 10/22(三)平台派送恢復運作
-        * 🕤服務時間：早上7點~晚上6點
-        * 🛵服務項目：（以下為優先順序）
+    * 🕤服務時間：早上7點~晚上6點
+    * 🛵服務項目：（以下為優先順序）
         1.緊急醫療需求人員/物資
         2.午/晚餐便當
         3.一般物資
@@ -55,6 +54,14 @@ Contributing content **means that you agree to waive your copyright and release 
 
 
 ## 💪給能幫忙的人<br>For Those Who Can Provide Assistance
+* [🗺️流動廁所分布地圖<br><small> --- 昭昭</small>](https://www.google.com/maps/d/u/0/viewer?mid=1hvkIGwDBe9ehupEHxY6KzVSTuLWsGfU&ll=23.669659711573825%2C121.44137006173119&z=15) [target=_blank]
+* [:speaking_head_in_silhouette: 志工可能會用到的阿美語<br><small> --- amisitokay 錄製</small>](https://portaly.cc/amisitokay/pages/fataan) [target=_blank]
+    * [amisitokay 的 threads](https://www.threads.com/@amisitokay/post/DPGDvJbEXdD?xmt=AQF0Drg5eOcpp0G1fF6HdNvjBp1BZRgFAGBPQRWkYwkZbw&slof=1) [target=_blank]
+* [:speaking_head_in_silhouette: 志工可能會用到的阿美語<br><small> --- langodlin 錄製</small>](https://drive.google.com/drive/folders/1zNkjHPAcuhqOhk_9Y4HGTbh8k6CAI1Hn) [target=_blank]
+    * [langodlin 的 threads](https://www.threads.com/@langodlin/post/DPGRppUEzl7?xmt=AQF0vTj-jTF5GGD_u35xsdbZwbkJLwX00RZPcRzOo1--mQ&slof=1) [target=_blank]
+
+
+
 
 ### 鍵盤支援（資訊統整、地圖回報）
 
@@ -68,19 +75,10 @@ Contributing content **means that you agree to waive your copyright and release 
     * [發起人 Facebook 貼文](https://www.facebook.com/share/p/1BcgMUgPyY/)
 
 
-* [🗺️流動廁所分布地圖<br><small> --- 昭昭</small>](https://www.google.com/maps/d/u/0/viewer?mid=1hvkIGwDBe9ehupEHxY6KzVSTuLWsGfU&ll=23.669659711573825%2C121.44137006173119&z=15) [target=_blank]
-
-* [:speaking_head_in_silhouette: 志工可能會用到的阿美語<br><small> --- amisitokay 錄製</small>](https://portaly.cc/amisitokay/pages/fataan) [target=_blank]
-    * [amisitokay 的 threads](https://www.threads.com/@amisitokay/post/DPGDvJbEXdD?xmt=AQF0Drg5eOcpp0G1fF6HdNvjBp1BZRgFAGBPQRWkYwkZbw&slof=1) [target=_blank]
-* [:speaking_head_in_silhouette: 志工可能會用到的阿美語<br><small> --- langodlin 錄製</small>](https://drive.google.com/drive/folders/1zNkjHPAcuhqOhk_9Y4HGTbh8k6CAI1Hn) [target=_blank]
-    * [langodlin 的 threads](https://www.threads.com/@langodlin/post/DPGRppUEzl7?xmt=AQF0vTj-jTF5GGD_u35xsdbZwbkJLwX00RZPcRzOo1--mQ&slof=1) [target=_blank]
-
-
-
 ### 人力 <br>⚠️注意自身安全、自備裝備，切勿造成災區負擔！
 
 * [‼️請先閱讀支援災後清理工作的 注意事項‼️](https://g0v.hackmd.io/@yitzu/rkBzt5Qheg)
-* [物理治療師ZM<br>如何使用圓鍬更順手](https://www.threads.com/@zm_health_fitness/post/DPGjRv6EsLB?xmt=AQF0mtw4TncghOPHrQh_bLaiCTuvZP1-_aalZ6ADrM34wA&slof=1) [target=_blank]
+* [物理治療師ZM - 如何使用圓鍬更順手](https://www.threads.com/@zm_health_fitness/post/DPGjRv6EsLB?xmt=AQF0mtw4TncghOPHrQh_bLaiCTuvZP1-_aalZ6ADrM34wA&slof=1) [target=_blank]
 
 
 #### 官方資訊
@@ -93,14 +91,14 @@ Contributing content **means that you agree to waive your copyright and release 
 * [中央災害應變中心](https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83)：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
 
 #### 各組織招募
-* [法鼓山花蓮精舍 <small> --- 10/16~17打掃志工報名填表 </small>](https://docs.google.com/forms/d/e/1FAIpQLSdfVDDNyRwhJWMxnj-0YdzKdvhybRLuq3JF_xap4j9sk4yykg/viewform) [target=_blank]
+* `<暫停召募>`[法鼓山花蓮精舍 <small> --- 10/16~17打掃志工報名填表 </small>](https://docs.google.com/forms/d/e/1FAIpQLSdfVDDNyRwhJWMxnj-0YdzKdvhybRLuq3JF_xap4j9sk4yykg/viewform) [target=_blank]
 * [小光故事屋（光復鄉孩子的秘密基地）招募陪伴志工](https://www.facebook.com/jovi.wu/posts/pfbid02N9xh8a6uGy6HgFSBt769bZuggdRVo8rtjpc3dQ3Fpj9XKafiNwCGPzo4saraUUmZl)
 
 * [`<10/3暫停媒合>`](https://www.facebook.com/share/p/1MFxvkanjC/) [清運志工招募＋災戶需求填表](https://docs.google.com/forms/d/e/1FAIpQLSc2EuJgYjlAYnnPVytAUjWJRLBAyB9kVg69FUzyxw3SsnzNPA/viewform) [target=_blank] --- [name=花蓮縣議員楊華美發起的媒合]
 * *`<9/30 停止招募>`* [慈濟志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSe2_ksrAAv5rzi0Xq2PDj1Qq3AEr3JdaEvM9ZKU0TVA0p1sTw/viewform) [target=_blank]
     * [鏟子超人行動指南](https://sites.google.com/view/guangfugogo/)[target=_blank] --- [name=慈濟鏟子超人幕後團隊]
 * [`<10/12行動結束>`](https://www.facebook.com/share/p/17M18kugnt/)[花蓮縣卓溪鄉新女力公益協會](https://www.facebook.com/share/p/1CtZ896nVq/) [target=_blank] <small> --- [10/3~12 第二階段志工招募（物資組）</small>](https://docs.google.com/forms/d/e/1FAIpQLSdKpgJMQRC0jLUmp2nGhpF4GL_ALesXjsgI6igzQ0f3QEt_SA/viewform)
-* *`<已停止招募>`*[花蓮縣議員 志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform) [target=_blank] 
+* *`<停止招募>`*[花蓮縣議員 志工報名填表](https://docs.google.com/forms/d/e/1FAIpQLSfrKYOdSuf8Ccmo6fwbBMQX2sdxPgA7IOSlWnYLFn3Q62f-CA/viewform) [target=_blank] 
  
 * [`<10/11行動結束>`](https://www.facebook.com/share/p/1JFYYQkkqv/)[中華基督教救助協會 <small> --- (10/1起僅徵求大於10人團隊志工)</small>](https://docs.google.com/forms/d/e/1FAIpQLSd-bWszIOn3YJJUh8dt0f8eRXOf5OPtRIXTz2fSfESnf0fZng/viewform) [target=_blank] 
 * `<停止召募>`[10/01-10/10 黑熊學院 災後復原志工意願登記表](https://hqt6bch6.r.ap-northeast-1.awstrack.me/L0/https:%2F%2Fforms.gle%2FtsiSNPTFhAhRQXRq9/1/0106019986b8d1d8-b8a4fa45-3392-4aca-892c-75b21ece4a4f-000000/y9xViOz4Nnl8G0FjZEcn3-oCMks=230) [target=_blank] 
@@ -147,7 +145,9 @@ Contributing content **means that you agree to waive your copyright and release 
 * [Pising 彼心書店 支持調查表](https://www.facebook.com/share/19kehepHFs/) [target=_blank]
 
 ### 物資
-**⚠️請詳閱當地需求與收送方式<br> --- 僅[花蓮縣卓溪鄉新女力公益協會](https://www.facebook.com/profile.php?id=61553589570040)仍接收物資，其餘目前暫無需求～** *`<10/3 現場資訊>`*
+⚠️請詳閱當地需求與收送方式
+
+* [花蓮縣卓溪鄉新女力公益協會](https://www.facebook.com/profile.php?id=61553589570040)
 * [光復物資統整登記表](https://docs.google.com/spreadsheets/d/1ADTYJFxWcvK0XJgJmwWFvG_PSGf3mutAmPk2iExGqVg/edit?gid=0#gid=0) [target=_blank] `9/27 02:15更新-暫緩募集`
 * [花蓮玉里。阿強西瓜](https://www.facebook.com/YuliXigua) [target=_blank]`9/26 00:00更新-暫緩募集`
 * [FATA'AN物資運送處](https://www.facebook.com/permalink.php?story_fbid=122257086650034466&id=61551033993595)`9/25 12:54更新-暫緩募集`
