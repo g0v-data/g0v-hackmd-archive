@@ -6,13 +6,13 @@
 
 
 ### 11/11
-- [ ] 1.上傳src，寫readme
-- [ ] 2.改HDMI順序
+- [x] 1.上傳src，寫readme
+- [x] 2.改HDMI順序
   HDMI1(DDIB)+HDMI2(DDIC)
   HDMI1(DDIB)+VGA(DDIA)
   HDMI2(DDIC)+VGA(DDIA)
   HDMI1(DDIB)
   HDMI2(DDIC)
   VGA(DDIA)
-- [ ] 3.SATA資訊標記tray1(對應sata 0-3), tray2(對應sata4-7)
-- [ ] 4.修改SMBIOS: PN, BN
+- [ ] 3.SATA資訊標記tray2(對應右邊sata 0-3), tray1(對應左邊sata4-7)
+- [x] 4.修改SMBIOS: PN, BN
