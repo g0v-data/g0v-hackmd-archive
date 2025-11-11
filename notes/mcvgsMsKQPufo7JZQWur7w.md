@@ -14,4 +14,4 @@
   HDMI1(DDIB)
   HDMI2(DDIC)
   VGA(DDIA)
-3.
+3.SATA資訊標記tray1(對應sata 0-3), tray2(對應sata4-7)
