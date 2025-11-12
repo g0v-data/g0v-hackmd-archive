@@ -32,8 +32,12 @@ tags: vTaiwan
 
 ### 3️⃣ 設定分類為「meta」
 
+*note: this step需要talk.vtaiwan.tw的管理員權限，若無管理員權限，可先完成後面的steps，再聯絡管理員來改分類為meta*
+
 只有將分類設定為 **meta**，
 貼文才會顯示在主網站的首頁或議題列表中。
+
+
 
 ---
 

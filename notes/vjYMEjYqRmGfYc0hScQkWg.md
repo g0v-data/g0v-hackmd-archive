@@ -9,7 +9,7 @@ This version is mainly for Peter to use at FtO 2025 Kaohsiung  on September 13�
 이 버전은 2025년 9월 13일부터 14일까지 피터가 가오슝 FtO 2025 에서 사용하기 위한 것입니다.
 
 ## FtO 2025 Feedback
-- Hal Seki San 蠻有興趣的，不過他很好奇能否用在 Code for Japan 的 Decidim 上（例如將 Decidim 的資料導出之後，輸入進 Sensemaker）。
+- Hal Seki San 蠻有興趣的，不過他很好奇能否用在 Code for Japan 的 [Decidim](https://decidim.org/) 上（例如將 Decidim 的資料導出之後，輸入進 Sensemaker）。
     - 他會介紹一位名古屋工業大學的[白松竣](https://www.srmt.nitech.ac.jp/~siramatu/)教授，研究領域也是生成式人工智慧用於意見徵集，之後可以交流
 
 ## SenseMaker是什麼？
