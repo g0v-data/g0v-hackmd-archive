@@ -14,5 +14,15 @@
   HDMI1(DDIB)
   HDMI2(DDIC)
   VGA(DDIA)
-- [ ] 3.SATA資訊標記tray2(對應右邊sata 0-3), tray1(對應左邊sata4-7)
+- [x] 3.SATA資訊標記tray2(對應右邊sata 0-3), tray1(對應左邊sata4-7)
 - [x] 4.修改SMBIOS: PN, BN
+
+
+### 11/12
+ATC8120
+- [ ] 1.MA82T032轉MA82-003，發PLM
+
+ROK5520
+- [ ] 1.新增PXE功能
+- [ ] 2.更正MCU版號
+- [ ] 3.移除跟MCU的FAN溝通
