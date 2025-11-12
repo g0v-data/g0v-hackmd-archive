@@ -1,12 +1,14 @@
 # rROK5520
 
 ### 11/10
-- [ ] 1.有些CPU的HDMI畫面出不來
+- [x] 1.CPU(Q659 221E BTL)的HDMI畫面出不來->應是BIOS GOP CHILD DEVICE問題，MR52T002已解決
 - [ ] 2.進OS出現I219裝置(ROK5520無I219)
 
 
 ### 11/11
-- [x] 1.上傳src，寫readme
+- [x] 1.MR52T001上傳src，寫readme
+
+MR52T00
 - [x] 2.改HDMI順序
   HDMI1(DDIB)+HDMI2(DDIC)
   HDMI1(DDIB)+VGA(DDIA)

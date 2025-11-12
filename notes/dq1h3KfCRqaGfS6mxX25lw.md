@@ -312,25 +312,21 @@ Contributing content **means that you agree to waive your copyright and release 
     * [留言聯絡 0973509393 陳先生](tel:+886973509393)
 
 ## 💡其他資訊
-* [花蓮縣政府馬太鞍專區 <small>--- *花蓮縣政府*</small>](https://www.hl.gov.tw/ysh/) [target=_blank]
-    * 內有死亡失聯撤離收容名冊以及**交通管制公告**等
-    * [花蓮縣政府臉書粉絲團](https://www.facebook.com/hlgov)[target=_blank]
-* [花蓮馬太鞍溪堰塞湖災害救援懶人包](https://hackmd.io/@DPPinfo/H1jdGQM2eg#0923-%E8%8A%B1%E8%93%AE%E9%A6%AC%E5%A4%AA%E9%9E%8D%E6%BA%AA%E5%A0%B0%E5%A1%9E%E6%B9%96%E7%81%BD%E5%AE%B3%E6%95%91%E6%8F%B4%E6%87%B6%E4%BA%BA%E5%8C%85)`<彙整官方、民進黨資訊>`
+
+* [強韌台灣-大規模風災震災整備協作計畫](https://resiliencetw.notion.site/) --- [name=NDHU強韌防災團隊]
+
 * [🖥️農村水保署_BigGIS圖台](https://gis.ardswc.gov.tw/map/)`<開設馬太鞍堰塞湖專區，除匯入2025/9/25 最新的災後航照影像及Pleiades衛星影像，亦整合地址、地籍圖等資料>`
 
-* [ℹ️ 全民防災e點通 | 馬太鞍溪堰塞湖專區 <small>-- 內政部消防署</small>](https://bear.emic.gov.tw/MY2/disasterInfo/99393)[target=_blank]
-    * 應變處置報告、各部會投入事項、情資研判資料、預警簡訊等
-* `<10/22止>`[ℹ️ 中央前進協調所「花蓮光復鄉災後復原」記者會 <small>--- *行政院*</small>](https://www.facebook.com/ey.gov.tw/live_videos) [target=_blank]
-    * 每天10:00記者會公告最新進度 
 
-* 🆕`<10/16更新>`[1012劃定之警戒區內各村里避難參考路線](https://arcg.is/08bmiq0) --- [name=NDHU強韌防災團隊]
+
 
 ## 🏃🏼後續行動
 
-### 意見徵集
+### 討論&意見徵集
 * 花蓮救災爭議之後：未來台灣救災程序與資訊流通如何改進？——公民意見徵集 --- [name=vTaiwan] 
     * [Polis意見徵集](https://pol.is/4fxd6ehrfj) [target=_blank]
     * [即時結果報告](    https://pol.is/report/r89seayfre3aha6vybrav) [target=_blank]
+* [花蓮馬太鞍溪堰塞湖溢流災情資訊創作整理](https://g0v.hackmd.io/@kiang/Fata-an_BarrierLake-casestudies) --- [name=江明宗] 
 
 ### 居民x政府對話
 * [10/3 縣府與部落-面對面記者會](https://www.facebook.com/share/p/1GpgAWBhgL/)---[name=Fata'an部落]
@@ -390,12 +386,28 @@ Contributing content **means that you agree to waive your copyright and release 
 ---
 
 ## 💡 關於馬太鞍溪堰塞湖的說明與資訊 Info
+* [花蓮縣政府馬太鞍專區 <small>--- *花蓮縣政府*</small>](https://www.hl.gov.tw/ysh/) [target=_blank]
+    * 內有死亡失聯撤離收容名冊以及**交通管制公告**等
+    * [花蓮縣政府臉書粉絲團](https://www.facebook.com/hlgov)[target=_blank]
+
+* [ℹ️ 全民防災e點通 | 馬太鞍溪堰塞湖專區 <small>-- 內政部消防署</small>](https://bear.emic.gov.tw/MY2/disasterInfo/hsitory/99393/2014374846)[target=_blank]
+    * 應變處置報告、各部會投入事項、情資研判資料、預警簡訊等
+
 * [馬太鞍溪堰塞湖壩體114.9.24更新<br><small>內有影片說明<br> -- 林業及自然保育署 </small>](https://www.facebook.com/watch/?v=1863772707895866) [target=_blank]
+
 * [馬太鞍溪堰塞湖監測紀實<br><small>內有「應變作為時間軸」<br>-- 東華大學NDHU強韌防災團隊</small>](https://storymaps.arcgis.com/stories/5864cf7ed3b54f83a5247f3f9b39bec2)  [target=_blank]
+
 * [農業部林業及自然保育署<br><small>馬太鞍溪堰塞湖近期應變資訊（顯示 2025.7 起資訊）</small>](https://www.forest.gov.tw/ForestNews?q=%e9%a6%ac%e5%a4%aa%e9%9e%8d&ca2=2025-07-01) [target=_blank]
-* [NCDR WATCH](https://watch.ncdr.nat.gov.tw/watch_barrier_map_v2) [target=_blank]
+
+
+* [NCDR WATCH-馬太鞍溪監測](https://watch.ncdr.nat.gov.tw/watch_barrier_map_v2) [target=_blank]
+
 * [花蓮馬太鞍溪堰塞湖災害救援懶人包](https://hackmd.io/@DPPinfo/H1jdGQM2eg#0923-%E8%8A%B1%E8%93%AE%E9%A6%AC%E5%A4%AA%E9%9E%8D%E6%BA%AA%E5%A0%B0%E5%A1%9E%E6%B9%96%E7%81%BD%E5%AE%B3%E6%95%91%E6%8F%B4%E6%87%B6%E4%BA%BA%E5%8C%85)`<彙整官方、民進黨資訊>`
-* [🖥️農村水保署_BigGIS圖台](https://gis.ardswc.gov.tw/map/)`<開設馬太鞍堰塞湖專區，除匯入2025/9/25 最新的災後航照影像及Pleiades衛星影像，亦整合地址、地籍圖等資料>`
+
+* `<10/22止>`[ℹ️ 中央前進協調所「花蓮光復鄉災後復原」記者會 <small>--- *行政院*</small>](https://www.facebook.com/ey.gov.tw/live_videos) [target=_blank]
+    * 每天10:00記者會公告最新進度 
+
+* 🆕`<10/16更新>`[1012劃定之警戒區內各村里避難參考路線](https://arcg.is/08bmiq0) --- [name=NDHU強韌防災團隊]
 
 ---
 
