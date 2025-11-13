@@ -333,7 +333,9 @@ Contributing content **means that you agree to waive your copyright and release 
 
 * [全民防災e點通](https://bear.emic.gov.tw/MY2/home)--- [name=內政部消防署]
 
-* [中央災害應變中心](https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83)：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
+* [災害情資網] (https://eocdss.ncdr.nat.gov.tw/web) --- [name=NCDR]
+
+* [中央災害應變中心YT](https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83)：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
 
 * [🖥️農村水保署_BigGIS圖台](https://gis.ardswc.gov.tw/map/)
     * P.S. 開設馬太鞍堰塞湖專區，匯入2025/9/25 最新的災後航照影像及Pleiades衛星影像，亦整合地址、地籍圖等資料*
