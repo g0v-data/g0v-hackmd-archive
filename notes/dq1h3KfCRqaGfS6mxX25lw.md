@@ -325,7 +325,6 @@ Contributing content **means that you agree to waive your copyright and release 
 * [11/4花蓮馬太鞍溪堰塞湖災後重建特別條例草案<small>---立法院第4會期第7次會議</small>](https://www.youtube.com/watch?v=iTw0EXtr2dY)    
 ## 💡其他資訊
 
-
 ### 災防平台/資訊
 * [ℹ️ EMIC災情地圖](https://tainan.olc.tw/p/emic/) --- [name=江明宗]
 
@@ -333,7 +332,11 @@ Contributing content **means that you agree to waive your copyright and release 
 
 * [全民防災e點通](https://bear.emic.gov.tw/MY2/home)--- [name=內政部消防署]
 
-* [災害情資網] (https://eocdss.ncdr.nat.gov.tw/web) --- [name=NCDR]
+* [災害情資網](https://eocdss.ncdr.nat.gov.tw/web) --- [name=NCDR]
+
+* [防災資訊網](https://fhy.wra.gov.tw/fhyv2/)--- [name=經濟部水利署]
+
+* [中央災害應變中心會報](https://cdprc.ey.gov.tw/)[name=行政院]
 
 * [中央災害應變中心YT](https://www.youtube.com/@%E4%B8%AD%E5%A4%AE%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E4%B8%AD%E5%BF%83)：直播，樺加沙颱風中央災害應變中心工作會報暨情資研判會議
 
