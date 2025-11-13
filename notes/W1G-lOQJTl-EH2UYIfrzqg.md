@@ -69,8 +69,9 @@ https://g0v.hackmd.io/ZsAGMi_lRkC5oAgaOAd3jQ?view
 WaytoSafety 隨時隨地知道避難場所位置 Shelter Map (Taiwan, Japan, Korea, HK)
 https://g0v.hackmd.io/@chewei/waytosafety-home
 
-京都
+兵庫縣 / 大阪 / 京都
 - https://g0v.hackmd.io/pctpoYVFSSm_o8Kydk4NwQ?view
+
 
 鹿兒島縣
 - 2024 鹿兒島縣町長交流 https://maps.app.goo.gl/qEqYau321AVMRCv16
