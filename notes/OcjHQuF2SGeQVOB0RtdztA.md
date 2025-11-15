@@ -17,3 +17,5 @@ tags: 國會松
 ### 解決方案：OCR Bot 是什麼？實務上如何使用？
 
 ### 動手實作：大家一起來使用 OCR Bot！
+
+https://budget.openfun.app
