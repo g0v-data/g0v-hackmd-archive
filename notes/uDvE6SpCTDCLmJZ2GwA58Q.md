@@ -103,7 +103,8 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
         - https://www.facebook.com/SimhoYang/posts/pfbid0X3Z3FFtD5nKNDsRKDCGCNoam2Vmjh3qz1j3PfWpiNf94bTGvchaGSb5KveCn7niSl
     - 1938 照片 現今 中正國小 https://www.facebook.com/share/p/e6cWnonp5iqfq8UW/
     - 照片，莒光路 93 巷，https://www.facebook.com/share/p/RYrsD7EgmGJxZFCY/
-    - 延吉街241巷15號（陳永成宅）陳永成公廳 https://www.facebook.com/photo.php?fbid=10150261926963618&id=747873617&set=a.10151834790708618&mibextid=qC1gEa
+    - 延吉街241巷15號（陳永成宅）陳永成公廳 https://www.facebook.com/photo.php?fbid=10150261926963618&id=747873617&set=a.10151834790708618&mibextid=qC1gE
+    - 1933 帝大 氣象研究單位 https://www.facebook.com/share/17pkRHiHF9/?mibextid=wwXI
     - 1933 水源地與新店溪照片 https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=483057&keyword=%E6%96%B0%E5%BA%97%E6%BA%AA&limit=24&offset=144&sort=relevance&order=desc&isFuzzyMode=false&query=%7B%22format%22:%22%E5%9C%96%E5%83%8F%22%7D&recOffset=156&fbclid=IwZXh0bgNhZW0CMTEAAR0DzJAa0ad6QHxw_u3IBiNJRhs6t9ghTNWgqfc0aTXSN5nL1lhadeneKSk_aem_kyVG8A54Mcm4Ow7gULXF3g
         - 2024 對照拍攝 https://www.facebook.com/share/gAPPsZdwJrEHVUR4/
     - 1940 台北市公車路線圖 https://www.facebook.com/share/aUeANjUcrTVifzGx/
