@@ -138,6 +138,7 @@ https://www.facebook.com/share/r/15wpa3GnoT/
 手語生成式 AI
 https://youtu.be/wC26yRZ09FI
 https://www.facebook.com/watch/?v=828334065330478
+https://www.facebook.com/share/v/1BmYn9w2kR/
 
 歌詞歌曲生成，土石流
 https://www.facebook.com/share/p/15CRFJaVeP/
