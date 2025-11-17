@@ -36,8 +36,8 @@ ROK5520
 =>11/13發MR52T004
 
 ### 11/14
-- [ ] 1.新增Graphic Fan SMT 在HWM
+- [x] 1.新增Graphic Fan SMT 在HWM
 
 ### 11/17
-- [ ] 1.完成Graphic Fan SMT 在HWM
+- [x] 1.完成Graphic Fan SMT 在HWM
 =>11/17 
