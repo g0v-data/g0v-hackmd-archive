@@ -93,6 +93,10 @@ https://youtu.be/D8wYpc4wgj8
 併稿 中央社
 https://www.facebook.com/share/p/1aLyuehztY/
 
+
+新聞配音
+https://www.facebook.com/share/v/14NVB17ZGoe/
+
 ## 劇本創作
 
 https://www.facebook.com/share/p/15bgbpm69Q/?mibextid=wwXIfr
