@@ -36,5 +36,8 @@ ROK5520
 =>11/13發MR52T004
 
 ### 11/14
-- [ ] 1.新增Graphic Fan，硬體無拉線溫度來源，無SMF功能，僅可讀轉速與設定manual pwm
-2.
+- [ ] 1.新增Graphic Fan SMT 在HWM
+
+### 11/17
+- [ ] 1.完成Graphic Fan SMT 在HWM
+=>11/17 
