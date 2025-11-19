@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants： Bestian, Tim, Peter,Anan阿南,Yitzu ,Chen,Josh
+參與者 Participants： Bestian, 
 
  https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -40,3 +40,23 @@ tags: vTaiwan
 :::
 
 ## 小小的分享：
+
+
+
+
+## 上週議題延續
+
+* [vTaiwan網站blog連medium的可能性](https://github.com/g0v/vue.vTaiwan-neo/issues/116)
+
+* sensemaker web UI前端專案
+https://github.com/g0v/sensemaker-frontend
+
+
+## 1123g0v費波那契數列黑客松
+
+https://jothon.g0v.tw/
+
+
+## 上週會議記錄與AI大綱
+
+https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/Bkxd93ZeZl#%E8%BD%89%E9%8C%84%E9%80%90%E5%AD%97%E7%A8%BF%E8%88%87AI%E5%A4%A7%E7%B6%B1
