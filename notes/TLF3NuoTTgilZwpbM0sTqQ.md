@@ -1,7 +1,7 @@
 ---
 tags: vTaiwan
 ---
-# 20251112 小松
+# 20251119 小松
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
@@ -10,7 +10,6 @@ tags: vTaiwan
  https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
 
-![](https://g0v.hackmd.io/_uploads/BJf8DxMeZx.png)
 
 ::: success
 ## 專案儀表板：目前 vTaiwan 社群在進行的事情 
