@@ -175,6 +175,58 @@ Yi-Ting：沒關係我可以把當時的紀錄找出來你就會記得了。
 
 
 
+## 轉錄逐字稿與AI大綱
+
+
+### 轉錄逐字稿詳情
+
+https://www.vtaiwan.tw/transcription_detail/20251119
+
+
+### AI大綱
+> 這次AI有點幻覺，手動校正了不少[name=Bestian]
+
+## 1️⃣ 會議小結  
+| 時間 | 主要議題 | 結論 / 待辦 |
+|------|----------|-------------|
+| **V‑Taiwan → Medium API** | Josh 先前提過把 V‑Taiwan 網站的內容以 Medium API 把文章轉發。 | 已取得共識，先把需求寫到 Issue，暫時不急於開發。 |
+| **SenseMaker 前端 (Vue 3)** | 介紹 repo 結構、i18n、路由、部署流程（push → Vercel 自動部署）。 | 已給 Team 讀寫權限，大家可以直接 clone、edit、push。 |
+| **UI 小毛病** | 1️⃣ 按鈕文字顏色（白底白字）<br>2️⃣ 檔案上傳按鈕顏色/文字不易辨識<br>3️⃣ 上傳成功後的狀態提示（灰底）<br>4️⃣ 缺少 **OpenRouter 註冊說明** 連結 | 把對應 issue 建好，標上 `good first issue`，讓新手先練手。 |
+| **API 金鑰設定流程** | 需要先去 OpenRouter 註冊 → 取得 API‑Key → 填入設定頁面。 | 需求：在首頁（或設定頁）加上 **「OpenRouter 註冊教學」** 超連結。 |
+| **黑客松（11/23）** | 目標：<br>・修正 UI 小問題<br>・新增使用說明（OpenRouter 註冊、API Key 輸入）<br>・把 repo 佈署到 cloudFlare（已自動） |  |
+
+
+---
+
+## 2️⃣ 目前卡片（Issues）概覽
+| Issue # | 標題 | 類別 | 優先度 | 提議者 |
+|---------|------|------|--------|-----------|
+| 1 | **檔案上傳按鈕樣式/文字**（灰底看不見檔名） | UI | 高 | Bestian |
+| 2 | **文字與截圖導覽 | Docs | 中 | Tim |
+| 3 | **首頁加上 OpenRouter 註冊說明連結** | Docs | 中 | Josh |
+
+
+---
+
+## 3️⃣ Model‑Adapter 設計 (固定用OpenRouter，因實務障礙，暫不考慮開發切換Open AI KEY的功能延伸)
+
+### 3.1 為什麼要抽象化？  
+- **可插拔**：未來想換模型（例：Claude、Gemini）不需要改前端邏輯。  
+
+### 3.2 主要障礙  
+
+| # | 主要障礙 | 影響範圍 | 
+|---|------|----------|
+| 1 | **gpt‑oss‑120b 無法直接使用 OpenAI Chat Completion** | 後端 API 呼叫 | 
+
+
+---
+
+## 總結與下一步
+
+1. **UI 小毛病**（顏色、上傳提示）也同樣列在 Issue，先把 `src/components/` 的 CSS 改成 Tailwind `bg-primary-600` 等，確保所有文字在亮色背景上可見。  
+2. **文件/說明**：在 `README.md` 加入 **OpenRouter 註冊教學** (link + 步驟圖)；在首頁 `Home.vue` 加 `OpenRouter 註冊說明` 超連結。  
+3. **黑客松**：在黑客松上協作修UI
 
 
 
