@@ -158,7 +158,7 @@ Twnic有表達很希望可以繼續跟vtaiwan合作。
 Josh:因為我們有再提一個 proposal嗎？他們是想跟vtaiwan還是 Teach for Taiwan合作？
 
 
-Yi-Ting:......各種不同專案是各自獨立的，不會互相影響
+Yi-Ting:TFT的部分我不太清楚，不過TWnIC grant各種不同專案是各自獨立的，不會互相影響
 
 Josh:接下來的議題小聚要再提出來了，不然空檔好像有點久。有兩次討論的過程...
 
