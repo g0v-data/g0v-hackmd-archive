@@ -545,10 +545,6 @@ Information Management Track | Sep 2024 - Present
 
 ## 🎯 Current Focus & Interests
 
-### Active Projects
-- 🏆 **MABe Kaggle Competition**: Mouse behavior detection (Top 5% leaderboard)
-- 🌐 **Portfolio Website**: Advanced React site with 3D graphics and particle systems
-- 🔐 **Cryptography Challenges**: Multi-layer encryption implementations
 
 ### Research Interests
 - **AI for Public Good**: Smart cities, transportation optimization, sustainability
