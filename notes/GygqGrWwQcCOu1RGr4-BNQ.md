@@ -1,7 +1,7 @@
 # Ella Tso | Portfolio
 
 :::info
-**AI/ML Engineer · Full-Stack Developer · Student Entrepreneur**
+**AI/ML · Full-Stack Developer · Student Entrepreneur**
 
 🎓 National Yang Ming Chiao Tung University | Information Management & Finance  
 📍 Hsinchu, Taiwan  
@@ -21,8 +21,8 @@
 | **Mei-Chu Hackathon 2025** | 🥈 2nd Place (Maker Track) | Sep 2025 |
 | **Hult Prize 2025** | 🌏 Global Top 5% / Taiwan Top 19 | May 2025 |
 | **IDEA FinTech 2025** | 🏁 Quarter-Finalist (Top 8) | June 2025 |
-| **Global AI Hackathon** | 🤝 MIT Sloan AI Club Co-host | Aug 2025 |
-| **Raise Ur Hack** | 🗼 Palais du Louvre, Paris | July 2025 |
+| **Global AI Hackathon**( MIT Sloan AI Club Co-host) | participant | Aug 2025 |
+| **Raise Ur Hack**( Palais du Louvre, Paris) | participant | July 2025 |
 
 ---
 
@@ -31,25 +31,92 @@
 ### 1. GLIDE - AI Traffic Coordination System
 **Mei-Chu Hackathon 2025 | 2nd Place, Maker Track**
 
-![GLIDE Dashboard](https://via.placeholder.com/800x400/4A90E2/ffffff?text=GLIDE+Traffic+Optimization+Dashboard)
+
+![GLIDE Dashboard](https://g0v.hackmd.io/_uploads/H1gtPqznxbe.png)
+![](https://g0v.hackmd.io/_uploads/HyEtcMngZx.png)
+
 
 **The Challenge**  
-Urban traffic congestion and inefficient signal coordination cause massive delays, fuel waste, and safety concerns. Traditional fixed-timing signals cannot adapt to real-time traffic patterns.
+Urban traffic congestion in Taipei costs the city an estimated $2.3 billion annually in lost productivity and increased emissions. Traditional traffic light systems operate on fixed timing schedules, unable to adapt to:
+
+Peak hour congestion with 60%+ longer commute times
+Bus bunching causing irregular service and passenger frustration
+Emergency vehicle delays - average 3-5 minutes lost at intersections
+Pedestrian safety concerns - especially for elderly crossing major arterials
+
+The core problem: Static traffic control cannot handle dynamic, real-world complexity. We needed an intelligent system that could coordinate multi-intersection traffic in real-time while prioritizing safety and efficiency.
 
 **Our Solution**  
-An AI-powered traffic coordination system using reinforcement learning to dynamically optimize multiple intersections simultaneously.
+GLIDE (Green Light Intelligent Dynamic Engine) is an AI-powered traffic coordination system that uses multi-agent deep reinforcement learning to optimize urban traffic flow across multiple intersections simultaneously.
+Core Innovation: Four Integrated Algorithms
+
+🌊 Green Wave Optimization
+
+DQN-based adaptive signal timing
+Coordinates 5+ consecutive intersections
+Reduces stops by up to 40% during rush hour
+
+
+👥 Pedestrian-Adaptive Crossing
+
+Computer vision for real-time crowd detection
+Dynamic crossing time allocation (elderly support)
+Safety-first priority with smart pre-emptive signals
+
+
+🚌 Bus Coordination & Anti-Bunching
+
+Real-time headway monitoring
+Predictive hold/release strategies
+Maintains 180s target headway (±30s accuracy)
+
+
+🚑 Emergency Vehicle Priority
+
+500m advance detection system
+Automatic green corridor creation
+30s average time saved per intersection
+
+
+
 
 **Tech Stack**
 ```
-Frontend:  React.js + TailwindCSS + real-time visualization
-Backend:   FastAPI + Python
-AI Model:  SUMO-RL (Reinforcement Learning)
-Data:      Hsinchu County Open Data
+AI/ML Core
+
+PyTorch - Deep learning framework
+Stable-Baselines3 - Multi-agent DQN implementation
+OpenAI Gym - Custom traffic environment
+
+Traffic Simulation
+
+SUMO (Simulation of Urban MObility) - Microscopic traffic simulator
+TraCI API - Real-time control interface
+SUMO-RL - Reinforcement learning integration
+
+Backend
+
+Python 3.9+ - Core logic
+FastAPI - REST API services
+WebSocket - Real-time data streaming
+
+Frontend
+
+React 18 - UI framework
+TypeScript - Type-safe development
+Chart.js - Real-time data visualization
+Tailwind CSS - Responsive design
+
+DevOps
+
+Docker - Containerization
+GitHub Actions - CI/CD pipeline
+pytest - Automated testing
 ```
 
 **Key Results**
 - ✅ **30% improvement** in simulated corridor flow
-- ✅ **91% better** traffic progression rates
+- ✅ **28% throughput** during peak hours
 - ✅ **62% reduction** in vehicle stops
 - ✅ Prioritized pedestrian safety in algorithm design
 - 🏆 **Recognition from Hsinchu County Transportation Bureau**
@@ -62,20 +129,24 @@ Data:      Hsinchu County Open Data
 
 **Impact & Recognition**  
 > Received recognition from the Hsinchu County Transportation Bureau and Youth Department Director for its potential public value.
+![](https://g0v.hackmd.io/_uploads/Byyj5f3gZl.png)
 
 **Technical Deep Dive**
 - **State Space**: Queue length, waiting time, pedestrian requests, real-time density
 - **Action Space**: Phase switching decisions
 - **Reward Function**: Safety-first + corridor efficiency optimization
 
-[View Demo](#) | [GitHub Repo](#)
+[GitHub Repo](https://github.com/ellatso/meichuhackathonteam8/blob/main/README.md)
 
 ---
 
 ### 2. DevNewsCopilot - AI Tech News Assistant
 **Raise Ur Hack @ Palais du Louvre | July 2025**
 
-![DevNewsCopilot Interface](https://via.placeholder.com/800x400/6C5CE7/ffffff?text=DevNewsCopilot+Interface)
+![](https://g0v.hackmd.io/_uploads/SkxphTzhgbx.png)
+![](https://g0v.hackmd.io/_uploads/rJVa6z2x-x.png)
+![](https://g0v.hackmd.io/_uploads/BJ_aTz3e-l.png)
+
 
 **The Problem**  
 Developers are overwhelmed with tech news but lack time to filter relevant, actionable information. They need concise updates with ready-to-use code snippets.
@@ -105,14 +176,16 @@ AI:        Multi-agent workflow (search/summarize/generate)
 **Design Philosophy**
 > "Information should be effortless to consume. We eliminated every unnecessary click, every extra scroll, every moment of confusion."
 
-[Live Demo](#) | [GitHub](#)
+[GitHub Repo](https://github.com/nosheen/DevNews-Copilot-Blackbox.ai)
 
 ---
 
 ### 3. PsyMuse - Voice-Interactive 3D AI Coach
 **Global AI Hackathon (MIT Sloan AI Club) | August 2025**
 
-![PsyMuse Avatar](https://via.placeholder.com/800x400/00B894/ffffff?text=3D+Avatar+with+Real-time+Lipsync)
+![](https://g0v.hackmd.io/_uploads/HkxINAz3xbg.png)
+![](https://g0v.hackmd.io/_uploads/B1TECG2x-e.png)
+
 
 **The Vision**  
 Health and sports coaching requires high engagement and personal connection. Traditional apps lack the immersive, conversational experience users need.
@@ -146,14 +219,18 @@ Worked with teammates across 3 continents, mastering asynchronous communication 
 **Taiwan Application Potential**  
 > "This technology can be adapted for mental health support, educational tutoring, and elderly care - critical needs in Taiwan's aging society."
 
-[Demo Video](#) | [Technical Blog](#)
+ [Technical Blog](https://github.com/tawab2001/activemind)
 
 ---
 
 ### 4. Carbon Wallet - ESG Behavioral Reward Platform
 **Hult Prize 2025 | Global Top 5%, Taiwan Top 19**
 
-![Carbon Wallet Design](https://via.placeholder.com/800x400/FD79A8/ffffff?text=Carbon+Wallet+UI+Design)
+![](https://g0v.hackmd.io/_uploads/SJf0Az3eWx.png)
+![](https://g0v.hackmd.io/_uploads/B1wRRGhlWe.png)
+![](https://g0v.hackmd.io/_uploads/H1xpACMhlbx.png)
+![](https://g0v.hackmd.io/_uploads/rJ3yJ73gbx.png)
+
 
 **The Problem**  
 People know about carbon reduction but lack continuous motivation and credible feedback mechanisms. Businesses struggle with ESG data collection and reporting.
@@ -194,14 +271,17 @@ Advanced through Taiwan regional to global top 5% among 10,000+ teams worldwide.
 **Taiwan Impact Potential**
 > "Partnering with campuses, shopping districts, and local governments to create 'carbon reduction = rewards' demonstration zones across Taiwan."
 
-[Pitch Deck](#) | [Figma Prototype](#)
 
 ---
 
 ### 5. SME Credit Scoring Platform
 **IDEA FinTech 2025 | Quarter-Finalist (Top 8)**
 
-![Credit Scoring Dashboard](https://via.placeholder.com/800x400/A29BFE/ffffff?text=Alternative+Data+Credit+Scoring)
+![](https://g0v.hackmd.io/_uploads/H1ZYjJm3g-x.png)
+![](https://g0v.hackmd.io/_uploads/S1Who172gWl.png)
+![](https://g0v.hackmd.io/_uploads/SydkgXhlZg.png)
+![](https://g0v.hackmd.io/_uploads/Sk5elXhl-l.png)
+
 
 **The Problem**  
 Small and medium enterprises (SMEs) face financing inequality due to insufficient traditional credit data. Banks lack tools for transparent, explainable risk assessment.
@@ -243,7 +323,6 @@ shap_values = explainer.shap_values(X_test)
 shap.force_plot(explainer.expected_value, shap_values[0], X_test.iloc[0])
 ```
 
-[Technical Documentation](#) | [Business Plan](#)
 
 ---
 
