@@ -284,10 +284,161 @@ Advanced through Taiwan regional to global top 5% among 10,000+ teams worldwide.
 
 
 **The Problem**  
-Small and medium enterprises (SMEs) face financing inequality due to insufficient traditional credit data. Banks lack tools for transparent, explainable risk assessment.
+SMEs are “thin-file” and invisible to traditional banks
+
+Banks still rely heavily on financial statements, collateral and past bank lending history.
+
+Many digital / platform SMEs (e-commerce merchants, delivery shops, LINE Pay merchants, etc.) have strong cash flow but very little collateral or formal credit history, so they are systematically under-served.
+
+Data is fragmented across platforms and cannot be used for credit
+
+Real operating data lives in silos: LINE Pay, e-commerce platforms, logistics providers, e-invoice systems, POS, etc.
+
+No unified way for an SME to consent, aggregate and “convert” this behavior data into a standardized, machine-readable credit profile.
+
+Credit decisions are opaque and static
+
+SMEs usually only see “approved / rejected” without understanding why they were rejected or which indicators dragged their score down.
+
+Once rejected, there is no clear roadmap to “build credit” over time; limits and pricing rarely adjust as the SME improves.
+
+No cross-institution risk-sharing or real-time blacklisting
+
+Late payments or defaults are often visible only to the lender who was hit.
+
+Other lenders cannot easily check a tamper-proof history before lending, which leads to over-borrowing, repeated defaults, and mispriced risk.
 
 **The Solution**  
-An alternative-data-driven credit evaluation platform using non-traditional data sources.
+An AI + blockchain–based SME credit infrastructure that turns real operating data into explainable credit scores, writes key events on Polygon, and uses smart contracts to automate lending decisions and network-wide risk sharing.
+
+**1. Data + AI Credit Engine (System Architecture)**
+
+Consent-based data aggregation from SME platforms
+SME logs in and authorizes our platform to access 
+data from:
+```
+LINE Pay merchant APIs
+E-commerce platforms (e.g., PChome)
+Government e-invoice / POS records
+Logistics and delivery data, etc.
+```
+These streams are transformed into features describing the SME’s business health and payment behavior.
+
+Machine-learning credit scoring with explainability (LightGBM + SHAP)
+
+A LightGBM model predicts probability of default and outputs a credit score (0–100).
+
+Features include: recent revenue trends, cash-flow volatility, repayment history, customer concentration, etc.
+
+SHAP analysis shows which factors raised or lowered the score (e.g., “Your 30-day revenue growth added +12 points; frequent late payments subtracted −20”).
+
+This gives the SME a transparent “credit health report” instead of a black box decision.
+
+From score to lending offer
+
+Based on the credit score and risk band, the system automatically proposes:
+
+Maximum loan amount
+
+Interest rate range
+
+Repayment tenor and structure (e.g., installment vs. bullet)
+
+Lenders see both the score and the explanation, helping them price risk and select borrowers.
+
+**2. Blockchain Layer – Polygon + On-chain ID**
+
+Use Polygon public chain as the settlement and registry layer
+
+EVM-compatible, low fees, finality (no rollback), and easy to integrate with existing DeFi / NFT / insurance / KYC ecosystems.
+
+On-chain identity & claims (ERC-734 / 735)
+
+Each SME gets an Onchain ID.
+
+Claims (hashed, privacy-preserving) can be attached to this ID:
+
+Credit score snapshots
+
+Repayment / delinquency events
+
+“Black list” flags or severe default marks
+
+Only hashes / claims are on-chain; raw data stays off-chain but can be referenced and verified.
+
+Stablecoin flow and tokenized assets
+
+Loans can be funded in stablecoins such as USDT / USDC.
+
+On-chain records tie together: SME → smart contract → lender → stablecoin transfers → exchange / off-ramp, forming a transparent audit trail.
+
+**3. Smart Contract Lending Logic (Credit Rules & Risk Federation)**
+
+Smart-contract decision tree for loan applications
+
+When an SME applies for a loan, the contract checks:
+
+Registered?
+
+No → Reject
+
+Yes → Check KYC
+
+KYC passed?
+
+No → Reject
+
+Yes → Check blacklist / bad history
+
+Any severe black history?
+
+Yes → Permanent rejection
+
+No → Use current credit score to decide:
+
+Score 85–100 → Approve
+
+Score 0–84 → Reject
+
+Dynamic credit score update rules (behavior-driven)
+
+Normal, on-time repayment: +5 points
+
+Late payment: −10 points
+
+Serious default (>30 days overdue): −20 points + black mark
+
+Inactivity decay: −10% if no activity for 6 months
+
+Black-mark rule: once tagged, the score drops to zero and the SME becomes permanently ineligible.
+
+On-chain risk-sharing mechanism
+
+When a default or serious delinquency occurs:
+
+The event is automatically written on-chain via the smart contract.
+
+All participating institutions see the updated status in real time.
+
+Future lenders can automatically decline or tighten terms based on this shared history.
+
+Auto-adjusting credit lines and pricing
+
+At any time, the current score is recalculated as:
+
+Previous score
+± behavior adjustments (repayments / delinquencies)
+± time decay
+
+Crossing certain thresholds triggers:
+
+Increase / decrease of credit limit
+
+Interest rate adjustment
+
+Changes in disbursement conditions (e.g., partial disbursement, stricter covenants).
+
+Good borrowers are rewarded with better terms; risky behavior is penalized quickly and visibly.
 
 **Tech Stack**
 ```
@@ -445,7 +596,7 @@ Information Management Track | Sep 2024 - Present
 ## 📫 Let's Connect
 
 I'm actively seeking **international opportunities** in:
-- 🎓 Bachelor internships in AI/ML or full-stack development
+- 🎓 Bachelor internships in AI/ML or full-stack development 
 - 🚀 Startup accelerator programs
 - 🌏 Cross-border collaboration projects
 - 🤝 Research opportunities in AI for social good
@@ -477,14 +628,12 @@ I'm actively seeking **international opportunities** in:
 - [SME Credit Platform](#) - Alternative data credit scoring
 
 ### Competition Results
-- [Mei-Chu Hackathon Certificate](#)
-- [Hult Prize Advancement](#)
-- [IDEA FinTech Finals](#)
+- Mei-Chu Hackathon Certificate
+- Hult Prize Advancement
+- IDEA FinTech Finals
 
 ### Additional Materials
-- [Full Resume (PDF)](#)
-- [Recommendation Letters](#)
-- [Academic Transcript](#)
+- [Full Resume (PDF)](https://drive.google.com/file/d/1qHaBGEUrSZ2aKX_NwGj3VTlu7hhatNGy/view?usp=sharing)
 
 ---
 
@@ -492,11 +641,10 @@ I'm actively seeking **international opportunities** in:
 **Open to Opportunities**
 
 I'm currently exploring:
-- Summer 2025 internships in AI/ML engineering
+- Summer/winter 2026 internships in AI/ML engineering
 - International accelerator programs
 - Research collaboration in smart cities & sustainability
 
-**Available**: June - August 2025
 
 📩 Feel free to reach out: ella.tso.cc@gmail.com
 :::
