@@ -43,6 +43,8 @@ https://www.facebook.com/share/p/1HRg52u6tk/
     - https://www.facebook.com/Hsieh310101/posts/pfbid0DAnsqqyuue7d5UcvPCrH5Yv2hfdkS7fS56x3Zo2UvodLjbcVkKjLsV6fbXwXeAcLl?locale=zh_TW
 - 宜蘭縣南澳
     - https://www.facebook.com/share/p/1E3jFSEEvG/
+- 石梯坪 公車候車亭 
+    - https://www.facebook.com/share/p/16Rd1wggo5/
 - 大雪山森林遊樂區遊客中心 https://www.facebook.com/groups/birdwindowcollision/posts/1367090184006435/
 - 觀霧遊客中心 https://www.facebook.com/share/p/ok24n2ZeVAYDhiNd/
 - 阿里山 https://www.facebook.com/share/p/eAJscfGi1jRdzLMR/
