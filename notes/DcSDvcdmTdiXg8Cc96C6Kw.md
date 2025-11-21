@@ -24,14 +24,24 @@ https://maps.app.goo.gl/PcJbYYY2DPrkro5C6?g_st=ic
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1RUW9vRATt43_9s70gMfkX6CFC534jvs&ehbc=2E312F" width=100% height="480"></iframe>
 
+
+## 文件
+
+- 文件
+    - https://www-ws.gov.taipei/001/Upload/845/relfile/0/125557/286db5c8-3d85-4d81-8bf7-f911a433c237.pdf
+
 ## 補充資訊
 
 相簿
 https://photos.app.goo.gl/MCLScATKMdYaDuYF9
 
-
 https://www.villagetaipei.net/Post?PId=15210&fbclid=IwZnRzaAMy4T9leHRuA2FlbQIxMQABHglMFwGqFMoCOs-gkeGv3UHbxOVI4L1B5eYZbIxkL6moAt3jMs2GFY8HZYLK_aem_GrDNMRRhVM_-w8kMSiE3tQ
 
+
+## 組織
+
+社團法人台灣公寓增建電梯智能宅協會
+https://www.facebook.com/profile.php?id=100095326853230
 
 ## 不用電梯如何到二樓以上？
 - 吉林路機車公寓 https://zh.wikipedia.org/zh-tw/%E5%90%89%E6%9E%97%E8%B7%AF%E6%A9%9F%E8%BB%8A%E9%81%93%E5%85%AC%E5%AF%93
