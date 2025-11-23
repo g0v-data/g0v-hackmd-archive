@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Cofacts Hackath70n 協作頁面](../notes/YfGHcY92TtWEC_dXCN6QhQ.md) | 2025-11-23T07:51:28+00:00 | 2025-11-23T07:02:10+00:00 |
+| 1 | [Cofacts Hackath70n 協作頁面](../notes/YfGHcY92TtWEC_dXCN6QhQ.md) | 2025-11-23T08:15:34+00:00 | 2025-11-23T07:02:10+00:00 |
 | 2 | [20251026 Cofacts 小松果](../notes/9xF-mWbbRz-Rq-uWh-gCMQ.md) | 2025-10-28T13:00:21+00:00 | 2025-10-26T01:53:14+00:00 |
 | 3 | [API & Database enhancements](../notes/65JMCYDEQCeCYSAkBwJNTA.md) | 2025-10-19T18:03:00+00:00 | 2024-01-31T10:23:41+00:00 |
 | 4 | [20250930 會議記錄](../notes/7aAhrPosRa-RZLY5fI1dFA.md) | 2025-10-14T12:12:43+00:00 | 2025-09-30T07:43:15+00:00 |

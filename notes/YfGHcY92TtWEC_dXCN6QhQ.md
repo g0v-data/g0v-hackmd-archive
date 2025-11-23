@@ -65,7 +65,9 @@ https://cofacts.g0v.tw/hoax-for-you
 
 > fix: Issue #603 [Justin++]
 https://github.com/cofacts/rumors-site/pull/612
+
+
 > Upgrade nodejs version for easier development [Justin++]
 https://github.com/cofacts/rumors-site/pull/613
 
-Joe++ for looking at issue 
+Joe++ for looking at issue backlogs
