@@ -48,6 +48,8 @@ https://zh.wikipedia.org/zh-tw/%E5%9B%BD%E5%AE%9D%E5%8D%97%E8%BF%81
 https://www.npm.gov.tw/Articles.aspx?sno=03012532&l=1
 1955「自由中國號」從基隆出發，途經釣魚台、沖繩、橫濱，最後跨越太平洋，抵達美國舊金山，創下臺灣第一艘木造帆船橫渡太平洋的紀錄 https://www.facebook.com/chunfu.lai/posts/10214230629634704
 
+鮑克蘭 https://g0v.hackmd.io/l2M5U45ITXKvQknpU7hMcg?view
+
 北海岸
 https://www.facebook.com/share/p/15xaBdVUQ5/
 2025 徒步環島
