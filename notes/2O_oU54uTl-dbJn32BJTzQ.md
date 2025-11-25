@@ -46,7 +46,8 @@
 
 ### Review pending
 
-
+https://github.com/cofacts/rumors-site/pull/615 
+- mrorz 要 code review
 
 ### :rocket: Staging
 
