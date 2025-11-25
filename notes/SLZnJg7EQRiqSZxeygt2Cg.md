@@ -20,5 +20,7 @@ https://www.ios.sinica.edu.tw/book.php?id=20
 
 https://www.upmedia.mg/news_info.php?Type=2&SerialNo=163136&fbclid=IwZnRzaAMYNBRleHRuA2FlbQIxMQABHmYEpE7-AbrqWTxY7k5uCPCLvaxQ7WnaGvQU7xPM-Ie6x2S2wNyjGb3GOnsJ_aem_eo-X7EbdRRzL3A2dHGSOUw
 
+https://www.facebook.com/share/p/1DuG6cJxBi/
+
 移工築起的地下社會：跨國勞動在臺灣 Underground Lives: Stories Untold for Migrant Workers in Taiwan
 https://www.facebook.com/yungta.chien/posts/pfbid02WMfAsdk9GuBVgHN6SipYNKyGB8afabGGYFqLczDs6XMwRwWFWyn27WuSs7rvaVVNl
