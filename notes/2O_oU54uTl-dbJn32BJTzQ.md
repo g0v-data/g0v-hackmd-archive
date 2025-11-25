@@ -103,6 +103,17 @@ https://dev.cofacts.tw (手機版＆桌面版)
 
 ### [Infra] ElasticSearch v9 reindex 研究 
 
+試著 v6 直接 reindex 到 v9，除了 OOM 外目前還沒看到其他問題
+- v9 container 至少要配置 2g
+- v6 container 可能要配置 2g 以上，分次轉換可能可以解決 OOM 問題
+
+TODOs
+- 檢查轉換完之後有沒有什麼格式不相容的問題
+- 檢查 api, db 要不要改 code
+
+migration 計畫
+- Option 1: (downtime 較長) production 直接 v9 載入預先轉換完的 snapshot，剩下的資料再用 reindex 補回來
+- Option 2: (downtime 較短) 直接在另一台機器起一個 v9，用換 ip/domain 的方式切換
 
 ### url-resolver & classifier
 
