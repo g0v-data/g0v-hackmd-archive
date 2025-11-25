@@ -2,8 +2,8 @@
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
-- 線上出席：
+- NPO Hub 出席：bil, Justin, Joe, yuyu, geopepper, mrorz
+- 線上出席：nonumpa
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
@@ -44,7 +44,12 @@
 
 ## :potable_water: Release pipeline
 
+### Review pending
+
+
+
 ### :rocket: Staging
+
 
 #### :globe_with_meridians: Site
 
@@ -58,15 +63,38 @@ lancatlin++
 https://dev.cofacts.tw (手機版＆桌面版)
 
 登入前檢測
-- [ ] 手機檢視有回應過的訊息 --> 回應頭像與旁邊的使用者名稱等資訊有合適的間距
-- [ ] 桌機檢視有回應過的訊息 --> 回應頭像與旁邊的使用者名稱等資訊有合適的間距
+- [x] 手機檢視有回應過的訊息 --> 回應頭像與旁邊的使用者名稱等資訊有合適的間距
+- [x] 桌機檢視有回應過的訊息 --> 回應頭像與旁邊的使用者名稱等資訊有合適的間距
 
 登入後檢測
-- [ ] 按讚或倒讚後，再按一下可以收回
+- [x] 按讚或倒讚後，再按一下可以收回
     - comment 會被消掉
+
+
+##### 未竟項目
+- bil: 
+  - iOS 上 upvote / downvote / 收回 時票數不會立刻更新
+    - 要重新整理才能同步
+    - iphone 13 可以
+  - 但其他人沒有遇到
+- Mac 上 upvote / downvote / 收回 後，切換並給 comment 後 comment 不會立刻更新
+  - ![](https://g0v.hackmd.io/_uploads/SyMhymQbWe.png)
+  - Steps to reproduce
+    1. upvote + comment
+    2. 打開 feedback dialog 確認 comment 在 upvote 處
+    3. downvote + comment
+    4. 打開 feedback dialog
+  - Expected: feedback dialog 上，downvote tab 應該要有剛才的 downvote comment
+  - Actual: feedback dialog 上，comment 仍是舊的
+  - 可能的 root cause Feedback dialog 裡的 comment 在載入一次之後就會一直 cache 住，直到重新整理畫面
+  - 開票處理
+
 
 ## 大松檢討
 > https://g0v.hackmd.io/YfGHcY92TtWEC_dXCN6QhQ?view
+
+- Summit 在 5/23, 5/24 by RS
+  - Cofacts 可以考慮投短講（參與其他人的 panel 之類）
 
 ## 小聚籌備
 
@@ -88,13 +116,14 @@ https://dev.cofacts.tw (手機版＆桌面版)
         - 3:40 - 4:10 介紹撰寫新回應
         - 4:10 - 4:40 實作撰寫新回應
         - 4:40 - 5:00 介紹分類、RSS、合照
-- [ ] 投放目標：
+- [x] 投放目標：
   - 推播日：12/07（11/21 或是 11/25 設定）
-  - 目標：雙北
-- [ ] KKTIX: https://cofacts.kktix.cc/events/cofactseditor50
+  - 目標：雙北桃園
+- [x] KKTIX: https://cofacts.kktix.cc/events/cofactseditor50
+- [x] Rich menu 開啟「報名中」版本
 - [ ] 誰會來呢： 
 - [ ] 記得帶：貼紙、不太環保杯 (bil)
-- [ ] LINE 文案： Youtube 上有很多白袍醫師面對鏡頭講話的影片，但其實都是假的，他們都是生成式ＡＩ做出來的假人跟假內容。讓我們一起保護家人，Cofacts 真的假的 第 50 次志工查核工作坊需要你的加入，活動完全免費，（請自備電腦）12/07(日)下午，地點青職基地，最近的捷運站是捷運板橋站1號出口，結束後還可以去歡樂耶誕城！！連結內報名：https://cofacts.kktix.cc/events/cofactseditor50
+- [x] LINE 文案： Youtube 上有很多白袍醫師面對鏡頭講話的影片，但其實都是假的，他們都是生成式ＡＩ做出來的假人跟假內容。讓我們一起保護家人，Cofacts 真的假的 第 50 次志工查核工作坊需要你的加入，活動完全免費，（請自備電腦）12/07(日)下午，地點青職基地，最近的捷運站是捷運板橋站1號出口，結束後還可以去歡樂耶誕城！！連結內報名：https://cofacts.kktix.cc/events/cofactseditor50
 - [ ] VOOM 發文
 - [ ] FB 發文
 
@@ -103,7 +132,7 @@ https://dev.cofacts.tw (手機版＆桌面版)
 
 ### [Infra] ElasticSearch v9 reindex 研究 
 
-試著 v6 直接 reindex 到 v9，除了 OOM 外目前還沒看到其他問題
+試著 v6 直接 reindex 到 v9，執行 30  分鐘後 OOM，目前還沒看到其他問題
 - v9 container 至少要配置 2g
 - v6 container 可能要配置 2g 以上，分次轉換可能可以解決 OOM 問題
 
@@ -116,4 +145,6 @@ migration 計畫
 - Option 2: (downtime 較短) 直接在另一台機器起一個 v9，用換 ip/domain 的方式切換
 
 ### url-resolver & classifier
+
+https://github.com/cofacts/worker/pull/3/files
 
