@@ -5,7 +5,8 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants： 
+參與者 Participants： Peter、Bestian、Josh、Yi-Ting翊婷
+、Tim、Yitzu Chen、Anan阿南
 
 
 https://www.vtaiwan.tw/jitsi
@@ -116,6 +117,7 @@ https://www.vtaiwan.tw/jitsi
             - yi-ting (線上)
             - yitzu (實體、線上) 
             - bestian (線上)
+            - Anan阿南 (線上)
 #### 討論
 > 之前討論與 join 平台合作的議題～https://g0v.hackmd.io/@aPX46l3cTnCLGYYFJv8mfg/HymUYv0mU
  
