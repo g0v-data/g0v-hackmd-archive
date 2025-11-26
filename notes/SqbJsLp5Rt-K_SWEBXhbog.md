@@ -1,13 +1,13 @@
 ---
 tags: vTaiwan
 ---
-# 20251125 小松
+# 20251126 小松
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants： Bestian, Anan阿南,Tim,Josh,Yi-Ting,
+參與者 Participants： 
 
- ![](https://g0v.hackmd.io/_uploads/BJK3xEjxZl.png)
+
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
 
@@ -75,3 +75,15 @@ https://www.vtaiwan.tw/jitsi
     - 討論資料開放利用的可能性。
 
 ## 上週大松報告
+
+### 提案主題：SenseMaker意見綜整器前端改良
+
+- [當天的簡報檔](https://docs.google.com/presentation/d/1tR5f1ItG2xMKxc_N1YwkUx1o73sMHdQgLoyThjaG_WI/edit?usp=sharing)
+
+- [當天提案短講錄影 - Bestian](https://www.youtube.com/live/IaAB7nFNen4?t=2010s)
+
+- [當天成果發表短講錄影 - 由數發部家翎接手報告](https://www.youtube.com/live/IaAB7nFNen4?t=22980s)
+
+- 專案成果：[https://make.vtaiwan.tw](https://make.vtaiwan.tw)
+
+- 
