@@ -56,6 +56,15 @@ ROK5520
 
 ### 11/26
 nROK6231-ICO MV23W033
+- [x] BIOS: Secure boot RSA 8192 keys (2025/3/7 已提供客戶, 客戶無回應)
+- [ ] 改成CN5 slot to M.2 Key B, 支援5G FN990A28-HP
+- [ ] 改成CN7 slot to mPCIe, 支援Wi-Fi WLE7002 x 1, disable pin 改1.8V (是否要上Wi-Fi,待客戶確認)
+- [ ] 移除不需要的IO
+- [ ] RTC battery 改成super cap, 供電時間3天,需做新小板 (供電時間待客戶確認
+
+
+
+
 
 
 
