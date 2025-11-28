@@ -27,6 +27,8 @@
 :bulb:桌機可用瀏覽器免安裝免帳號，手機要安裝或登入微軟帳號，2025/5/16更新
 商務版(管理員：meeting@chainlon.net)：https://bit.ly/cy-meet2
 ![](https://g0v.hackmd.io/_uploads/B1bsE44Zxl.png)
+教育訓練專用(管理員：meeting@chainlon.net):
+https://teams.microsoft.com/meet/4755693985475?p=bzI7xqzO78eu8EHWrP
 免費版(管理員：Ken)：https://teams.live.com/l/invite/FEAO5Ql1B_S9VJ5kQQ
 
 #### 視訊設備自我測試
