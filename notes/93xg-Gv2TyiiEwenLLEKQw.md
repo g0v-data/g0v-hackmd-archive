@@ -31,6 +31,7 @@ CC BY 4.0 by g0v contributors
 - 專案的起源故事，能否與 專案資料庫 結合
     - John 整理過「專案、github 帳號、youtube 影片」對應成果 https://chunyenhuang.github.io/awesome-g0v-projects/#/
     - g0v database https://docs.google.com/spreadsheets/d/1C9-g1pvkfqBJbfkjPB0gvfBbBxVlWYJj6tTVwaI5_x8/edit
+    - 幫每個專案做一份簡報 https://docs.google.com/presentation/d/1S4rWtCGAe99Vy_bLd6CjuHtAdrCYzN1k7TqhIrG-u5g/edit
     - 成就系統 https://badge.g0v.tw/
 - 故事文本，支援機器人更了解社群 
     - g0v AI 機器人 aka 找專案分類帽 https://g0v.hackmd.io/yOmr3hf7RDypNnAWRnw2gQ?view

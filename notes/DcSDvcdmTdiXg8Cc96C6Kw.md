@@ -43,5 +43,8 @@ https://www.villagetaipei.net/Post?PId=15210&fbclid=IwZnRzaAMy4T9leHRuA2FlbQIxMQ
 社團法人台灣公寓增建電梯智能宅協會
 https://www.facebook.com/profile.php?id=100095326853230
 
+電梯效率研究
+https://www.facebook.com/share/p/17Pk51a3Yi/
+
 ## 不用電梯如何到二樓以上？
 - 吉林路機車公寓 https://zh.wikipedia.org/zh-tw/%E5%90%89%E6%9E%97%E8%B7%AF%E6%A9%9F%E8%BB%8A%E9%81%93%E5%85%AC%E5%AF%93
