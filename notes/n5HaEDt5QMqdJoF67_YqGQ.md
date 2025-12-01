@@ -6,6 +6,9 @@ Crafted with love by:
 - [name=EG]
 - [name=Yuting]
 
+:::danger
+- ==投票截止日：2025 年 12 月 05 日 12:00 (UTC+8) ==
+:::
 
 ## 概念一：「當體制太遠，就把椅子搬進來」
 
@@ -33,12 +36,38 @@ Crafted with love by:
 ### 變體
 
 #### 設計變體一 by EG
-![](https://g0v.hackmd.io/_uploads/SJRF_xoZWx.png)
+:::info
+認同此提案請在此處 +1
+- [name=nobody] +1
+:::
 
+:::warning
+針對此提案的感想請在此處留言 →
+- 我覺得 blablabla [name=nobody] 
+:::
+![](https://g0v.hackmd.io/_uploads/SJRF_xoZWx.png)
+:::info
+認同此提案請在此處 +1
+- [name=nobody] +1
+:::
+
+:::warning
+針對此提案的感想請在此處留言 →
+- 我覺得 blablabla [name=nobody] 
+:::
 ![](https://g0v.hackmd.io/_uploads/SJlB5dxsbbe.png)
 
 
 #### 設計變體二 by Yuting
+:::info
+認同此提案請在此處 +1
+- [name=nobody] +1
+:::
+
+:::warning
+針對此提案的感想請在此處留言 →
+- 我覺得 blablabla [name=nobody] 
+:::
 ![](https://g0v.hackmd.io/_uploads/S1x3ROxs--x.png)
 
 ![](https://g0v.hackmd.io/_uploads/r1V1Klj-Wg.png)
@@ -57,10 +86,18 @@ Crafted with love by:
 
 臺灣歌手羅大佑在其所作的歌曲《大家免著驚》（詞：李坤城、羅大佑／曲：羅大佑）中提到：「黑輪、香腸、豆花踏入大廟埕，就像八仙過海來各展名聲。」對權力空間的轉化與公眾近用現象有相當篇幅的描述。
 
-:::warning
+:::success
 Notice from EG: 目前第二款圖片是由ＡＩ生成的，如果選擇此版，我會再重新翻繪成素材使用～～（上面的文字也可以修改）
 :::
+:::info
+認同此提案請在此處 +1
+- [name=nobody] +1
+:::
 
+:::warning
+針對此提案的感想請在此處留言 →
+- 我覺得 blablabla [name=nobody] 
+:::
 ![](https://g0v.hackmd.io/_uploads/S1Kw9esZbe.png)
 
 ![](https://g0v.hackmd.io/_uploads/rkxldceoZZl.png)
