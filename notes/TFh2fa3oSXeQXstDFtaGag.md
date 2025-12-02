@@ -22,6 +22,7 @@ https://www.facebook.com/groups/196846977135110?multi_permalinks=315676606114317
 
 徹底再現三萬年前航海 學古人從台灣划到日本沖繩 https://dq.yam.com/post/9978
 蘭嶼達悟族 2025 年秋天將勇渡巴丹島 https://photos.app.goo.gl/YXMfQVNQifobUq6q6
+海岸阿美族神話中，祖先的遷徙路徑 https://www.facebook.com/share/1GFGoJpvaE/
 北部泰雅移動路徑
 1654 荷蘭人北部調查 https://www.facebook.com/share/p/19wzbpAG1N/
 1697 郁永河《裨海紀遊》 https://photos.app.goo.gl/1zDiwTNRDtMeyhBU7

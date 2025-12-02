@@ -32,11 +32,39 @@
 
 
 # 桃園仙草嘉年華 10:30~16:00 
-## *如果不好逛~可以提早回去早點去華泰跟中壢吃甜點
+## 如果不好逛~可以提早回去早點去華泰跟中壢吃甜點
+FB有人在上週花還沒開 也許週五就好多了~
+
+⭐今年展區主要分為仙草花區、波斯菊區、酪農區(稻草圈)、花草區(需要上觀景台看才美)和 美食市集區
+
+
+![](https://g0v.hackmd.io/_uploads/rkTYUK3-Ze.png)
+
+
+我們這天應該沒活動 就是四個展區走走 老實說感覺2-3小時就會走完了~~~~
 
 
 
+![](https://g0v.hackmd.io/_uploads/ry1g-YhW-x.png)
 
+你看人家拍得好讚 A5的仙境時光號
+
+![](https://g0v.hackmd.io/_uploads/Syl0KBFh-Wl.png)
+
+附近的只有左下角那個可以去 說是附近也是走路過去26分鐘 不一定要去QQ 只是看風景
+
+![](https://g0v.hackmd.io/_uploads/SJpcUYhbWx.png)
+
+A5的紫城農場是比較近的了~
+
+然後回程可以走走富岡老街(應該只是看建築 跟基隆差不多)
+
+## 萬一比較早的回程的景點  埔心農場
+好像又可以餵食了!!! 我們晚點去只要半價~
+不過感覺這個逛兩兩小時會有點小可惜~
+![](https://g0v.hackmd.io/_uploads/rJI4KFnZ-g.png)
+
+![](https://g0v.hackmd.io/_uploads/BJd9FtnWWg.png)
 
 
 
