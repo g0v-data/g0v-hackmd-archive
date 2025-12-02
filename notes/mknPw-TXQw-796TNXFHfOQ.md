@@ -2,10 +2,26 @@
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
+- NPO Hub 出席：bil, Justin, Joe, yuyu, geopepper, mrorz, nonumpa
 - 線上出席：
 - https://meet.google.com/mrz-dgrd-pri
 :::
+
+## :potable_water: Release pipeline
+
+### :star: Released to production
+
+#### :globe_with_meridians: Site
+
+https://github.com/cofacts/rumors-site/releases/tag/release%2F20251126
+
+### :rocket: Staging
+
+
+#### :globe_with_meridians: Site
+
+https://github.com/cofacts/rumors-site/pull/617 [yuyu++]
+
 
 ## 上次會議
 *   **[mrorz]** Code review `rumors-site` PR #615 (https://github.com/cofacts/rumors-site/pull/615)
@@ -13,8 +29,13 @@
 *   **[Infra]** ElasticSearch v9 reindex 研究進度
 *   **12/07 小聚籌備**
 
+## Code for Japan summit
 
-### 演講分享
+- 往年好像有錄影 https://youtube.com/@codeforjapansummit853?si=pB_xqJCqqXnBx0sn ，不確定這次是否會放
+- Digital Public Goods 申請 https://unicef.github.io/publicgoods-accelerator-guide/about-dpgs/what-is-a-dpg/
+
+
+## 演講分享
 * **mglee@g0v-tw** 分享了兩場關於假訊息與 Cofacts 的演講：
     > 12/4 & 12/10 分別在中山社會創新研究所和政大創新國際學院有兩場演講，這次會主講假訊息跟 Cofacts的案例。中山的是中文演講；政大的是英文演講。跟你們分享！
 
