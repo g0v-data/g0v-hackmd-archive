@@ -63,6 +63,46 @@ nROK6231-ICO MV23W033
 - [ ] RTC battery 改成super cap, 供電時間3天,需做新小板 (供電時間待客戶確認
 
 
+### 12/02
+- [ ] Possibility to upgrade Boot FW from within host Linux OS (without using external programmer). 
+
+- [x] TPM 2.0 support  
+
+- [x] Shall have 8192-bits encryption keys for Secure Boot
+
+- [ ] Support for booting only signed OS bootloader 
+
+- [x] Boot console on UART (115200 baud) 
+
+- [ ] All USB, PCIe and SATA interfaces shall be enumerated the same even if some modules/hardware are not inserted/detected. 
+
+- [ ] If a device module connected to USB is powered off and the same or another one is inserted and powered on, then the OS needs to be able to detect it (on the same interface as previous) 
+
+- [ ] Boot order prioritization:  USB, mSATA, 2.5" SATA
+
+- [ ] Virtualization support VT-x should be enabled
+
+- [ ] Virtualization support VT-d should be enabled
+
+- [x] BIOS menu using UART only, booth for console output and as a keyboard input.
+
+- [x] It shall be possible to read the FRU/DMI information from within the OS, e.g., by using ‘dmidecode’  
+
+- [ ] Saving settings to BIOS shall not rely on RTC Battery 
+
+- [ ] Pre-BIOS WDT shall issue a system reset if the unit does not reach BIOS stage (not a hard requirement)
+
+- [ ] Pre-OS boot WDT shall  issue a system reset if the unit is not able find a bootable device or if for any other reason it can not boot an OS
+
+- [ ] The Pre-OS boot WDT time shall be configurable, and the setting shall be persistant and saved between power cycles.
+
+- [ ] Active WDTs shall be disabled when entering BIOS menu.
+
+- [ ] In OS Intel WDT shall be able to pinged/petted using standard Intel iTCO_WDT driver in Linux kernel
+
+- [ ] In OS WDT time shall be configurable, and the setting shall be persistant and saved between power cycles.
+
+- [ ] BIOS default values shall be agreed between supplier and client before production
 
 
 
