@@ -69,6 +69,10 @@ tags: 吉祥物, AI
 - 巴拿馬
     - 摘：2023 年 3 月巴拿馬總統簽署項新法律，「將允許任何巴拿馬公民為海龜發聲，並合法地保護牠們的生存。」身為發起人的海洋保育生物學家 Callie Veelenturf 提到，「若做出侵犯海龜權利的行為能透過這項法律，我們能讓政府、企業或公眾承擔起法律責任。」https://www.seinsights.asia/article/9506
 
+## 歐洲
+
+- 德國民間提案：https://youtube.com/shorts/HqcouHfHQ_8?si=pI5MqYhSmvvXDTDR
+
 ## 無法定權利
 
 海洋
