@@ -1,4 +1,4 @@
-# 12/5 桃園一日遊
+# 12/5 桃園一日遊 + 12/6 輔大聖誕節
 
 
 ## 搭火車
@@ -93,3 +93,42 @@ https://www.instagram.com/reels/DRjXinSDxgR/
 
 活動時間：每日16:30-20:00整點及半點飄雪
 地點：第二噴水池廣場
+
+
+# 輔大聖誕節
+
+輔大出站搭638~~~ 下泰山巖~~ 一路往回走 生態園區一定要去 其他隨意
+
+## 溝仔墘老街
+好像就是逛逛古物的地方 說有個百年古井
+![](https://g0v.hackmd.io/_uploads/S1kAJXyzWe.png)
+
+旁邊小吃紅豆餅休息QQ
+不過有一間麵線說排隊美食 全興大腸蚵仔麵線
+想吃的話~ 你不吃大腸可以點清麵線 小碗$35試試看
+
+## 明志書院
+這我好像還好 不過來都來了(x
+
+![](https://g0v.hackmd.io/_uploads/BJxJxb7kGbe.png)
+
+## 敢部隊指揮部碉堡遺址
+這個好像有點陰涼 看當天狀況要不要去 就一個簡單的碉堡
+
+![](https://g0v.hackmd.io/_uploads/SkccZ7JG-e.png)
+
+
+
+
+## 泰山 應化大排生態園區
+可以餵魚~~~
+
+![](https://g0v.hackmd.io/_uploads/rylr1qfJf-l.png)
+
+若想餵魚的話，往裡走一些就能看見自動飼料販賣機，投幣一枚、飼料一包，就來享受當魚兒主人的快感吧
+
+![](https://g0v.hackmd.io/_uploads/rJnlnMJGbg.png)
+
+眼睛~~~
+
+然後坐車回輔大或是走回輔大
