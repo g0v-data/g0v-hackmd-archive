@@ -6,16 +6,10 @@
 [TOC]
 
 :::
-https://www.crazygames.com/game/ball-block-maze
-1292現金紅利+2063積點
-https://www.gopower.tw/search.php?kind=3&kw=&pa=1&s=1&page=44
-
-超級瑪利歐 與樂高 路易吉 一起冒險
-https://www.gopower.tw/goodsview.php?g_id=18927
-現金積點/現金紅利-OKMART100元現金抵用券
-https://www.gopower.tw/goodsview.php?g_id=Z0204
-現金積點/現金紅利-德國雙人 雙面抗菌砧板(附不織布提袋)
-https://www.gopower.tw/goodsview.php?g_id=13124
+翰林國中英語七上課本.pdf
+https://website.hle.com.tw/market/jr/%E6%95%99%E6%9D%90/%E6%95%99%E6%9D%90%E6%A8%A3%E6%9B%B8/%E7%BF%B0%E6%9E%97%E5%9C%8B%E4%B8%AD%E8%8B%B1%E8%AA%9E%E4%B8%83%E4%B8%8A%E8%AA%B2%E6%9C%AC.pdf
+單字卡
+https://quizlet.com/tw/606710364/112%E4%BD%B3%E9%9F%B3%E7%BF%B0%E6%9E%97%E5%9C%8B%E4%B8%AD%E8%8B%B1%E8%AA%9Ebook-1_7%E4%B8%8Au3_%E5%96%AE%E5%AD%97%E5%85%A8-flash-cards/
 
 https://brushbattle.io/#440635 邀請馬
 
