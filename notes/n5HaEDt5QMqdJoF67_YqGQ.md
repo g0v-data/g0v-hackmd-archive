@@ -38,12 +38,12 @@ Crafted with love by:
 #### 設計變體一 by EG
 :::info
 認同此提案請在此處 +1
-- [name=nobody] +1
+- [name=RS] +1
 :::
 
 :::warning
 針對此提案的感想請在此處留言 →
-- 我覺得 blablabla [name=nobody] 
+- 我覺得這個提案很有手作感！而且感覺餐盤上也可以擺上不同的料理，推推！ [name=RS] 
 :::
 ![](https://g0v.hackmd.io/_uploads/SJRF_xoZWx.png)
 :::info
