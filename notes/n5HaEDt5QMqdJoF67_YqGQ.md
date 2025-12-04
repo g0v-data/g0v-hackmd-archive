@@ -43,9 +43,10 @@ Crafted with love by:
 
 :::warning
 針對此提案的感想請在此處留言 →
-- 我覺得這個提案很有手作感！而且感覺餐盤上也可以擺上不同的料理，推推！ [name=RS] 
+- 我覺得這個提案很有手作感！而且感覺餐盤上也可以擺上不同的料理，推推XD [name=RS] 
 :::
 ![](https://g0v.hackmd.io/_uploads/SJRF_xoZWx.png)
+
 :::info
 認同此提案請在此處 +1
 - [name=nobody] +1
@@ -61,12 +62,15 @@ Crafted with love by:
 #### 設計變體二 by Yuting
 :::info
 認同此提案請在此處 +1
-- [name=nobody] +1
+- [name=RS] +1
 :::
 
 :::warning
 針對此提案的感想請在此處留言 →
-- 我覺得 blablabla [name=nobody] 
+- ~~可以都選嗎~~ [name=RS] 
+    - 覺得變體一很適合文宣，變體二很適合網頁（已經可以想像水平捲動、有不同長扁椅子隨機出現的樣子了） 
+    - 如果做成向量弄出參數，感覺可以導出成可變字體、然後讓網頁自動去生成不同長短、寬窄、顏色的椅子！
+- 
 :::
 ![](https://g0v.hackmd.io/_uploads/S1x3ROxs--x.png)
 
@@ -96,7 +100,7 @@ Notice from EG: 目前第二款圖片是由ＡＩ生成的，如果選擇此版�
 
 :::warning
 針對此提案的感想請在此處留言 →
-- 我覺得 blablabla [name=nobody] 
+- 我很喜歡這案的視覺效果，有類似版畫的感覺！概念上比較擔心的可能只有政治商品化的暗示會有一點點不好處理，但可以想像文宣製作或是套色明信片走這個風格！ [name=RS] 
 :::
 ![](https://g0v.hackmd.io/_uploads/S1Kw9esZbe.png)
 
