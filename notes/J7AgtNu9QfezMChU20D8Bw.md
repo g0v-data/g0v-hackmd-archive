@@ -33,6 +33,8 @@ tags: localzine
 - 文創大淡水地區全紀錄
     - [http://tamsui.dils.tku.edu.tw/wiki/index.php/Metro\_Tamsui\_Memory\_of\_Cultural\_Creative\_Heritage](http://tamsui.dils.tku.edu.tw/wiki/index.php/Metro_Tamsui_Memory_of_Cultural_Creative_Heritage)
     - [http://events.tku.edu.tw/FocusDetail.cshtml?sn=1406](http://events.tku.edu.tw/FocusDetail.cshtml?sn=1406)
+- 嘉義市志
+    - https://photos.app.goo.gl/FD2FkmvHK4o8ag167
 - [臺南(府城)編年史](https://www.ptt.cc/bbs/TW-history/M.1426162163.A.B11.html)
 - 士林大事記及歷史文獻目錄彙編
     - [http://refbook.ncl.edu.tw/tmrwFront/cp.action?xmlId=0000304636&dtdId=000021](http://refbook.ncl.edu.tw/tmrwFront/cp.action?xmlId=0000304636&dtdId=000021)
