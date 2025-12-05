@@ -85,7 +85,8 @@ TODO: 看看 Cloudflare healthcheck 是否有什麼可以調整的
 	> 志工培訓需要大量查詢資料，請自備筆電 💻 與充電器 🔌 並帶著愉快的心情來參加。帶順手的平板也可以的！如果願意協助編修影片逐字稿，請自備耳機唷🎧！
 	>
 	> 🕒 時間：12/07（日）14:00 - 17:00
-	> 📍 地點：新北市青年局青職基地2樓 / 新北市板橋區民權路170號2樓(近板橋捷運站)
+	> 📍 地點：新北市青年局青職基地1樓 / 新北市板橋區民權路170號1樓(近板橋捷運站)
+(請注意：活動場地變成一樓囉！！比鄰會在一樓等大家。)
 	> 
 	> 費用全免，會很準時開始。若不克前往，記得取消報名 :)
 	> 
@@ -130,7 +131,7 @@ TODO: 看看 Cloudflare healthcheck 是否有什麼可以調整的
     - [ ] Google Chrome tab: [投影片](https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit)
     - [ ] Google Chrome tab: [Bignum](https://cofacts.github.io/community-builder/#/bignum/setup)
 - [ ] browser tabs
-    - [ ] Google Chrome tab: [KKTIX](https://cofacts.kktix.cc/events/cofactseditor47)
+    - [ ] Google Chrome tab: [KKTIX](https://cofacts.kktix.cc/events/cofactseditor50)
     - [ ] Google Chrome tab: [Slido admin](https://admin.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/polls)
     - [ ] Google Chrome tab: [Slido](https://wall.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/?section=215e56d0-a002-4b7e-9bf0-c58acbacc9bf)
     - [ ] Google Chrome tab: [開場影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs)
