@@ -77,7 +77,7 @@ TODO: 看看 Cloudflare healthcheck 是否有什麼可以調整的
 ## 小聚 rundown
 
 - 週六早上
-    - [ ] KKTIX 行前通知：提醒時間、使用電腦而非手機
+    - [x] KKTIX 行前通知：提醒時間、使用電腦而非手機
     > Hello 你好，
 	>
 	> 本週日就是 12 月 7 日查核志工培訓囉！
@@ -99,9 +99,9 @@ TODO: 看看 Cloudflare healthcheck 是否有什麼可以調整的
 	> 那麼明天見囉😊
 	>
 	> 比鄰敬上
-    - [ ] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
-	- [ ] 準備 Slido `#cofacts`
-		- [ ] 放投影片網址
+    - [x] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
+	- [x] 準備 Slido `#cofacts`
+		- [x] 放投影片網址
 - 當日準備 / 攜帶
     - [ ] 樓下用的標語 - bil
     - [ ] 貼紙 - orz, bil
@@ -109,12 +109,12 @@ TODO: 看看 Cloudflare healthcheck 是否有什麼可以調整的
     - [ ] 手板 - bil
     - [ ] 講義 - bil
     - [ ] 一次性杯子 - bil
-    - [ ] 延長線 - bil / mrorz
+    - [x] 延長線 - bil / mrorz
         - 比鄰有三條
     - [ ] Wifi 機 - mrorz
         - [ ] rt-ax57 go
         - [ ] 電源線
-    - [ ] 多帶一條 type-c 公公線 for dongle 的電
+    - [x] 多帶一條 type-c 公公線 for dongle 的電
     - [ ] 備用 wifi 機 [name=nonumpa]
 - 13:00 - 場佈 [排法](https://g0v.hackmd.io/9IEjq11XSwCyES_VFn8JEg#%E5%B0%8F%E8%81%9A%E6%AA%A2%E8%A8%8E)
   - 桌子一邊 4 張椅子

@@ -39,6 +39,7 @@ Crafted with love by:
 :::info
 認同此提案請在此處 +1
 - [name=RS] +1
+- [name=Terry] +1
 :::
 
 :::warning
