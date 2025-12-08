@@ -34,7 +34,6 @@ https://drive.google.com/drive/folders/15kQmlgdwP4xd6VLS8dTrefuSug8gsV76?usp=dri
 https://us21.campaign-archive.com/home/?u=5f2da7dc5b32fcf00c4e26170&id=cf109d5e52
 
 
-
 ## 歷屆 g0v Summit 報導
 * [Summit 2020 媒體曝光紀錄](https://g0v.hackmd.io/R2ihvYvUTA6HbYQKELSTvw)
 
