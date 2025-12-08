@@ -9,18 +9,20 @@ Chainlon 展頌臨時文字紀錄區，公開頁面、嚴禁機密資料，快�
 #### 生成式人工智慧(GAI)的具體應用相關網址
 
 
-| 平胎名稱 | 用途說明 | 網址 |
+| 平台名稱 | 用途說明 | 網址 |
 | -------- | -------- | -------- |
 | POE AI| AI整合平台| https://poe.com| 
+| ChatGPT| OpenAI GAI| https://chatgpt.com/| 
 | Copilot| 微軟GAI| https://copilot.microsoft.com/| 
-| Claude| Google GAI| https://claude.ai/|
+| Gemini| Google GAI| https://copilot.microsoft.com/| 
+| Claude| 程式撰寫 GAI| https://claude.ai/|
 | Grok| X(Twitter) GAI| https://grok.com/|
 | Perplexity| Perplexity AI| https://www.perplexity.ai/| 
 | Google NotebookLM| 資料匯整總結 、語音轉檔 、OCR，強大的個人知識庫| https://notebooklm.google.com/| 
 | toolify| AI網站和工具介紹| https://www.toolify.ai/tw/| 
 | Globe Explorer| 結構式知識搜尋引擎| https://explorer.globe.engineer/| 
 | Gamma| 快速PPT| https://gamma.app/zh-tw| 
-| Gitmind| 快速PPT| https://gitmind.com/| 
+| Gitmind| 知識心智圖(中國)| https://gitmind.com/| 
 | Xanswer| 知識心智圖(中國)| https://www.xanswer.com| 
 
 
@@ -45,7 +47,14 @@ Chainlon 展頌臨時文字紀錄區，公開頁面、嚴禁機密資料，快�
 
 #### 以下為臨時紀錄區/展頌同仁/嚴禁機密資訊
 
-RAG 用提示詞
+#### AI課程範例
+測試檔案:P:\12教育訓練\41資訊\411AI\測試資料1210
+
+1. 根據資料快速產生視覺化圖表比對
+Prompt：「根據以下每月銷售資料，請幫我生成一張折線圖，顯示2024年1月至10月的銷售趨勢，並標出最高與最低銷售月份。」 資料格式：
+月份：1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月  銷售額（萬元）：120, 135, 150, 145, 160, 170, 165, 180, 175, 190
+
+2. 資料檢索RAG
 
 你是一個公司內部規範專家，負責協助員工檢索公司內部規範文件並提供精準回答。  
 - 僅根據提供的文件內容回答，不要自行編造。  
@@ -53,7 +62,36 @@ RAG 用提示詞
 - 回答要簡潔明確，並以繁體中文撰寫。  
 - 在可能的情況下，引用文件內容（可加上章節或條款編號），幫助使用者確認規範來源。  
 固定用繁體中文進行回答
-RAG 問題
-1.財產管理辦法的文件編號
-2.內部重大資訊處理作業程序的目的
 
+RAG 問題
+    1.財產管理辦法的文件編號
+    2.內部重大資訊處理作業程序的目的
+    3.財產管理辦法的內容
+    
+3. 製作試算表、萃取、文字提取 (OCR)
+    1.製成表格
+    2.提取文字
+4. AI搜尋、研究
+Prompt： 
+    1.2025生成式AI衝擊傳統產業
+    2.企業導入生成式AI的成本與回收期怎麼估算
+    3.針對紡織產業導入AI優勢及建議項目
+    4.統整研究報告
+5. Excel公式撰寫、修正錯誤公式
+Prompt： 
+    1.我有一份EXCEL資料表，其中一個資料欄的資料內容有該資料第一碼為B、G、E我要如何讓這些資料在報表中分別顯示為B變為竹山、G變為斗三、E變為斗原
+    
+    2.產品大類 = SWITCH( TRUE(), LEFT(W11070GDIC1[產品類別], 1) = “A”, “原絲”, LEFT(W11070GDIC1[產品類別], 1) = “B”, “ATY”, LEFT(W11070GDIC1[產品類別], 1) = “C”, “粒子”, LEFT(W11070GDIC1[產品類別], 1) = “T”, “DTY”, “Null” ) 轉換成Excel公式資料位於B資料列
+6. 文件重點統整
+7. 寫程式
+    Prompt：
+    1.撰寫一個HTML格式的倒數計時小鬧鐘，只要我輸入任何數字，就表示為倒數計時的秒數，開始倒數計時並呈現秒數的倒數計時，時間歸零時在當前瀏覽器視窗呈現高度『時間到』文字，並有一個『確定』按鍵，直到我按『確定』，結束該作業。
+    範例： https://claude.ai/share/f3b1fea7-0489-469c-8ad6-d74e2bede017
+
+    2.CMD指令，簡易鬧鐘，輸入時間後，時間到時桌面台彈出提醒 如:下午4:20
+    範例： https://chatgpt.com/share/6926c5ba-cf24-8009-9b94-87c31e58e3a5
+
+9. 簡報生成
+10. 心智圖
+    撰寫一篇2025美國關稅對台紡織業衝擊文案，針對紡織原料生產
+    以Yaml格式呈現xmind心智圖
