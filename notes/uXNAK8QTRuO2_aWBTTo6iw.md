@@ -14,6 +14,7 @@ Chainlon 展頌臨時文字紀錄區，公開頁面、嚴禁機密資料，快�
 | POE AI| AI整合平台| https://poe.com| 
 | Copilot| 微軟GAI| https://copilot.microsoft.com/| 
 | Claude| Google GAI| https://claude.ai/|
+| Grok| X(Twitter) GAI| https://grok.com/|
 | Perplexity| Perplexity AI| https://www.perplexity.ai/| 
 | Google NotebookLM| 資料匯整總結 、語音轉檔 、OCR，強大的個人知識庫| https://notebooklm.google.com/| 
 | toolify| AI網站和工具介紹| https://www.toolify.ai/tw/| 
