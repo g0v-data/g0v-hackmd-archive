@@ -83,7 +83,8 @@ Prompt：
     
     2.產品大類 = SWITCH( TRUE(), LEFT(W11070GDIC1[產品類別], 1) = “A”, “原絲”, LEFT(W11070GDIC1[產品類別], 1) = “B”, “ATY”, LEFT(W11070GDIC1[產品類別], 1) = “C”, “粒子”, LEFT(W11070GDIC1[產品類別], 1) = “T”, “DTY”, “Null” ) 轉換成Excel公式資料位於B資料列
 6. 文件重點統整
-7. 寫程式
+    https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/ 翻譯統整此網站重點
+8. 寫程式
     Prompt：
     1.撰寫一個HTML格式的倒數計時小鬧鐘，只要我輸入任何數字，就表示為倒數計時的秒數，開始倒數計時並呈現秒數的倒數計時，時間歸零時在當前瀏覽器視窗呈現高度『時間到』文字，並有一個『確定』按鍵，直到我按『確定』，結束該作業。
     範例： https://claude.ai/share/f3b1fea7-0489-469c-8ad6-d74e2bede017
@@ -92,6 +93,11 @@ Prompt：
     範例： https://chatgpt.com/share/6926c5ba-cf24-8009-9b94-87c31e58e3a5
 
 9. 簡報生成
-10. 心智圖
+    Prompt：
+    撰寫一篇2025美國關稅對台紡織業衝擊
+    寫給：台灣紡織業者、產業策略決策者與貿易/供應鏈管理主管(中文(台灣))
+    語氣：專業、分析性、具策略性(語氣沉睡、重點清晰，兼具數據與實務建議)
+
+11. 心智圖
     撰寫一篇2025美國關稅對台紡織業衝擊文案，針對紡織原料生產
     以Yaml格式呈現xmind心智圖
