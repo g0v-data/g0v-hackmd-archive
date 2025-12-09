@@ -188,6 +188,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
         - https://www.facebook.com/photo/?fbid=6850263558390835&set=a.460224687394786
     - 1975-1976 敦化南路與林安泰古厝 https://www.facebook.com/share/p/YSscboMCyni5K3SU/
     - 19 照片敦化南路一段187巷大樓興建 https://www.facebook.com/share/VpgAXY2kP1VHQYee/
+    - 棒球場，七號公園 球場 https://www.facebook.com/share/p/1U26Ji8Bm1/?mibextid=wwXIfr
     - 1976 興建前 中正紀念堂 照片 https://www.facebook.com/share/p/1FeMuGyNXV/?mibextid=wwXIfr
     - 照片 師大北側校區 https://www.facebook.com/share/p/15xy7xF3HE/?mibextid=wwXIfr
     - 重要 照片，冰店與新生大排便橋，新生南路三段42號 
