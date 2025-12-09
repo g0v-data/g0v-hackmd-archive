@@ -132,3 +132,5 @@ source size 改小 就好了
       - 若夠小，可以直接在同一台 production 上開 DB 做 reindex，省去 snapshot restore 到 local 以及 snapshot 回 production 的時間
       - docker-compose 裡只給 2GB RAM 也能跑
 3. 上 staging
+
+社創實習期末報告連結：https://www.canva.com/design/DAG6vvtCGFI/J8qrimG4BonGBVos0JR4hw/edit
