@@ -1,5 +1,6 @@
 # Cofacts 第 50 次查核協作者培訓
 
+![](https://g0v.hackmd.io/_uploads/SkefLxdBzZe.png)
 
 
 謝謝 nonumpa架設網路 ++
@@ -27,6 +28,8 @@ Ali
  - 大多數人都很順利，有問題的都是關於網路
  - 感覺對於查核回應的好壞大家都有個還不錯的 sense
  - 有些參與者直接開始到查核回應的階段，但大家的回應都有參考具公信力的資料來源，算是順利
+
+![](https://g0v.hackmd.io/_uploads/SkldoZdBzbl.png)
 
 
 介紹訊息搭配
