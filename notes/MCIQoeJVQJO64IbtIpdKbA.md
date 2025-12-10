@@ -47,7 +47,9 @@ https://www.vtaiwan.tw/jitsi
 ### Josh 分享
 #### Audrey Tang 來到蘇村分享
 - 公民健身房 civic gym 
-#### 模擬是ㄇ
+#### 模擬市民大會連結
+- https://joshuay1.github.io/vtaiwan_agent_democracy/#/referendum
+  
 
 ### TWNIC 徵件計畫
 ![](https://g0v.hackmd.io/_uploads/SyoK208GWx.png)
@@ -141,6 +143,8 @@ https://github.com/g0v/vtaiwan-transcription-worker/issues/12
 - 確認想要關注的面向
     - 會影響到利害關係人與組織
     - 不同需求的民防使用者 ex:育兒家庭、身心障礙、慢性病……
+    - 一些適合launch的題目？
+        - HIV+
 - 實體討論的流程
 - 想要找到的利害關係人
 #### 行政面
@@ -179,5 +183,57 @@ https://github.com/g0v/vtaiwan-transcription-worker/issues/12
 ## 近期上線專案
 
 1. [https://make.vtaiwan.tw/](https://make.vtaiwan.tw/)
-2. [https://github.com/joshuay1/vtaiwan_agent_democracy](https://github.com/joshuay1/vtaiwan_agent_democracy) > [前端DEMO頁](https://joshuay1.github.io/vtaiwan_agent_democracy/#/about)
+2. [https://github.com/joshuay1/vtaiwan_agent_democracy](https://github.com/joshuay1/vtaiwan_agent_democracy) > [前端DEMO頁](https://joshuay1.github.io/vtaiwan_agent_democracy/#/about) > [前端結果DEMO頁](https://joshuay1.github.io/vtaiwan_agent_democracy/#/referendum)
 
+
+
+## 轉錄逐字稿AI大綱
+
+### 逐字稿詳情
+
+https://www.vtaiwan.tw/transcription_detail/20251210
+
+### AI大綱(簡單手動校誤)
+
+## 主要議題整理  
+
+### 1. 近期專案與資金狀況  
+| 項目 | 內容 | 後續行動 |
+|------|------|----------|
+| **TWNIC 徵件計畫** | 落選，無法繼續使用原先經費。 | 另尋教育部或其他公部門補助，做議題小聚。 |
+| **青年發展公共參與補助** | 仍有可用經費，可支援明年議題小聚。 | 先彙整可支配金額，提出申請。 |
+| **vTaiwan轉錄系統在日本的分享** | 測試日文語音轉錄失敗（只能支援中/英）。 | - 前端加入「語言選擇」參數<br>- 後端接受多語言參數<br>- 若急需，可讓日方自行 Fork 改寫。 |
+| **勞報單 / 發票核銷** | 臉書廣告屬境外服務，稅率較高，建議走個人勞報單。 | 與 OCF、議庭確認費用類別與核銷方式。 |
+| **預算概況** | – 會議、場地、媒體宣傳約 10 萬台幣<br>– 若無參與費，成本可降至 2 萬以內 | 依活動規模調整預算，逐項列出費用明細。 |
+
+### 2. 參與國際會議取得的資訊
+| 會議 | 重要收穫 | 相關資源 |
+|------|----------|----------|
+| **Code for Japan 高峰會** (上上週) | 1. UNESCO‑DPG（Digital Public Goods）團隊介紹<br>2. UNICEF 旗下創投基金（≈ 4100 萬美金 + 8 BTC + 2792 ETH）<br>3. 數位公共財定義（2019 UN SDG）與三大標準：<br> - 開源 (Open‑Source)<br> - 符合 SDG 目標<br> - 不造成負面環境/社會影響 | 會議紀錄已貼於共筆 |
+| **Digital Public Goods Alliance** | 成員 51 組織、226 個專案，推廣開源 AI、資料、標準等。 | 可考慮申請加入或合作，提升本地開源項目曝光度。 |
+
+### 3. 內部協作與工具需求
+| 需求 | 推薦工具/方案 | 說明 |
+|------|----------------|------|
+| **線上意見徵集與審議** | - **Mentimeter**<br>- **Polis**（具 Moderation 功能） | 用於多階段工作坊：<br>1️⃣ 意見收集與共識形成<br>2️⃣ 協作制定解決方案 |
+| **議題小聚/研討會** | 1. **vTaiwan 討論平台**（提供「投票、討論、結果彙整」）<br>2. **SenseMaker**（分析質性回饋） | 依實務需求結合 Mentimeter/Polis，產出結構化報告。 |
+| **多語言轉錄** | 前端語言選單 + 後端動態語言參數（支援日文、英、中文） | 目前僅支援中文，預計 2–3 週內完成開發。 |
+| **AI 代理人模擬市民大會** | **vTaiwan‑Agent‑Democracy**（GitHub 專案）<br>Demo: <https://joshuay1.github.io/vtaiwan_agent_democracy/> | 以 AI 產生意見、測試民主流程，非關鍵但可作為實驗素材。 |
+
+### 4. 活動與聚會安排
+| 活動 | 時間/地點 | 參與對象 | 行動項目 |
+|------|----------|----------|----------|
+| **年末聚餐** | 12 月底–1 月初（具體日期待投票） | 全體成員、近期貢獻者 | - 調查可出席時間<br>- 公告聚餐地點（g0v 辦公室、Summit 會議室、或外部場地） |
+| **議題小聚（公共參與）** | 2025 年初（待確定） | 青年發展、公共參與相關單位 | - 確認預算（約 2–10 萬）<br>- 申請教育部或其他補助 |
+| **防災/民防工作坊** | 待定 | 民防、災害相關NGO、醫療協會 | - 探討使用 Polis/Mentimeter 進行利害關係人共筆<br>- 可能合作單位：FNF、熱潮民主協會、Summit、vTaiwan |
+| **Make‑vTaiwan（make.vtaiwan.tw）** | 持續維運 | 社群、政策制定者 | - 討論「如何以 Pol.is 進行意見徵集、導出資料」<br>- 產出操作手冊供其他組織引用 |
+
+### 5. 重要決策與待辦清單
+1. **預算清理**  
+2. **日文轉錄功能**：開發語言參數功能。  
+3. **資金來源調查**：  
+   - 問詢 青發署、FNF、NPO Hub 是否願意共同出資。  
+   - 若使用政府資金，彙整「顧慮點」供決策會議審議。  
+4. **年末聚餐投票**：完成時間/地點投票，並在群組公告。  
+5. **防災工作坊提案**：Eli 與崔家瑋負責草擬合作框架（工具、參與者、預算），下周提交給全體審閱。  
+6. **AI 代理人實驗**：將 vTaiwan‑Agent‑Democracy Demo 整理成使用說明，供未來工作坊示範。  

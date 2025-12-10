@@ -49,3 +49,13 @@ Cofacts 每週小聚
 有朋友分享 ChatGPT 使用經驗
 
 數位實中師生聚會
+- yu & friends
+
+立法院預算資料討論
+- Ronny, Zoe, 
+
+討論「公民科技及數位工具應用指南與支持網絡」執行構想
+- 工作文件：https://g0v.hackmd.io/@jothon/guide
+- chewei, Ronny
+
+

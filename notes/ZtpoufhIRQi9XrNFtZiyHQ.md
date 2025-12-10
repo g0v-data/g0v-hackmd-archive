@@ -45,9 +45,17 @@
 ## 多元宇宙清單
 
 - 糖友
-    - 糖尿病照護學會
+    - 糖尿病學會
+    - [Effects of the October 2023 war on diabetes treatment and medication adherence in Gaza](https://www.emro.who.int/emhj-volume-31-2025/volume-31-issue-4/effects-of-the-october-2023-war-on-diabetes-treatment-and-medication-adherence-in-gaza.html)
+    - [War in Ukraine and barriers to diabetes care
+](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00480-9/fulltext)
 - 育兒家庭
 - 各種慢性病
 - 腎友
+- HIV+
+    - [UNAIDS:ENSURING THE HIV RESPONSE AND HEALTHCARE STABILITY:
+FROM CRISIS TO PROSPECTIVE RECOVERY](https://www.unaids.org/sites/default/files/2025-02/Ukraine-SitRep.pdf)
+    - [Outcome of HIV patients on ART during the war and siege in a tertiary hospital in Northern Ethiopia: a cross-sectional study](https://www.nature.com/articles/s41598-025-90848-w)
 - 障礙者
+- 常見精神症狀（Common Mental Disorders, CMDs）
 - 寵物家庭
