@@ -24,6 +24,7 @@ Chainlon 展頌臨時文字紀錄區，公開頁面、嚴禁機密資料，快�
 | Gamma| 快速PPT| https://gamma.app/zh-tw| 
 | Gitmind| 知識心智圖(中國)| https://gitmind.com/| 
 | Xanswer| 知識心智圖(中國)| https://www.xanswer.com| 
+| leonardo| 圖片生成| https://leonardo.ai/| 
 
 
 
@@ -100,7 +101,7 @@ Prompt：
     撰寫一篇2025美國關稅對台紡織業衝擊文案，針對紡織原料生產
     以Yaml格式呈現xmind心智圖
     
-#### 簽到表
+#### 簽到表(2025/12/10生成式AI進階應用，可簽署時間請洽講師)
 https://forms.gle/7kC7vjYdAhjZfeFd9
 ![](https://g0v.hackmd.io/_uploads/H1xyWBLzbx.jpg)
 
