@@ -113,6 +113,7 @@ https://www.facebook.com/share/p/1RXhQbgro8/
 
 個人
 - 2001 桃芝颱風，大甲 https://youtu.be/367ppTEUolM
+- 921 https://www.facebook.com/share/p/1DTXCfkumY/
 - 李火增，天水街，淹水 https://www.gjtaiwan.com/new/?p=30379
 - 1970 桃園 東門溪 淹水 https://www.facebook.com/share/p/1DCdHXMkCM/
 
