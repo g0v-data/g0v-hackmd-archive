@@ -219,6 +219,12 @@ Hungry Pans 夯堡 寧波店
 - 推薦者：Lucky CP值高100有找～
 - https://maps.app.goo.gl/HNB4mqWSwLjhZXbm9
 
+## 宴請
+
+聚聚_臺菜
+- 一人1200元
+- 整體座位，分兩桌，一桌 8 人
+- 無固定菜單，但應該可以詢問討論
 
 ## 藥局與生活用品
 
