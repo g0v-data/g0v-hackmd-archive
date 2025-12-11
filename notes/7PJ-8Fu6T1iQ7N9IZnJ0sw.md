@@ -13,6 +13,10 @@ tags: 預算,open spending
 - https://openbudgets.eu/tools/
 - 韓國 Ministry of Economy and Finance Open Fiscal Data 平台
 https://www.openfiscaldata.go.kr/op/en/index
+- 菲律賓 預算探討
+    - https://www.facebook.com/share/p/1BxJUp3Ux6/
+    - https://visualizations.bettergov.ph/budget
+    - https://transparency.bettergov.ph/budget
 - 文章講述菲律賓一位記者開發 AI 機器人來幫助大家更了解國家預算，菲律賓記者 Jaemark Tordecilla 自行研發名叫 COA Beat Assistant 的自訂 GPT，幫助菲律賓的調查記者快速解讀由菲國稽核委員會 COA 發布的政府稽核報告。
     - https://www.mirrordaily.news/story/6434
 - https://www.usaspending.gov/explorer/agency
