@@ -20,7 +20,7 @@ tags: g0vernance
 Owner: clkao, gugod, yhsiang
 Admin: acechen, au, grass, ipawei, caasi, hlb, nfsnfs, ronnywang
 
-現有 App 名單如下：
+現有 App 名單如下： (以下內容在 hackmd 上不會再更新，請參考 [Spreadsheet](https://docs.google.com/spreadsheets/d/1xg6Cb28J7IYTwonrqqBR2mQ2V1dqP3K-K9dZgLmy4mQ/edit?gid=342719512#gid=342719512))
 * awesome-g0v-projects
     * 功能：在 #awesome-g0v-projects 頻道有 awesomeg0vprojects 帳號
     * 申請人：John Huang

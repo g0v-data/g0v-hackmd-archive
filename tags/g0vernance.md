@@ -2,16 +2,16 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v.tw 被當作詐騙網站舉例，用於事實查核與政府宣導](../notes/p-jr_r5tRLyQ1A7OUL1r9w.md) | 2025-11-03T12:35:20+00:00 | 2023-04-04T13:05:30+00:00 |
-| 2 | [g0v SNS 社群治理機制](../notes/THKRsDsNRXGsa_0zFUn3Gw.md) | 2025-09-30T13:19:42+00:00 | 2019-07-06T00:21:31+00:00 |
-| 3 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2025-08-11T10:56:57+00:00 | 2022-09-13T08:41:15+00:00 |
-| 4 | [g0v 行為守則 g0v Code of Conduct](../notes/XPzJRxsHT2CaOO5WZ5r-BA.md) | 2025-06-21T02:01:16+00:00 | 2017-08-21T03:57:16+00:00 |
-| 5 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2025-04-02T15:08:44+00:00 | 2018-08-30T07:19:57+00:00 |
-| 6 | [g0v Slack 閱讀完畢的系統稱讚語句](../notes/N6bGxyqSRZaAnNSmBevZVg.md) | 2025-03-13T12:11:10+00:00 | 2023-08-06T10:19:54+00:00 |
-| 7 | [g0v.tw 社群治理頁面／g0v community g0vernance directory](../notes/Ki8oBtnjTjitnyp84ckYbA.md) | 2024-07-21T02:17:39+00:00 | 2024-07-20T01:50:24+00:00 |
-| 8 | [g0v 短網址治理機制](../notes/u-UJk-4-TsOGFYwmT54CRA.md) | 2024-05-21T17:17:58+00:00 | 2024-05-21T15:31:08+00:00 |
-| 9 | [g0v domain 治理更新 20220312](../notes/6YxV7bP-QmixKkvPev7pmg.md) | 2024-05-21T17:17:50+00:00 | 2022-03-12T06:01:56+00:00 |
-| 10 | [g0v slack 治理機制討論](../notes/rHe3Lfh_S3yhtRawnliSIg.md) | 2024-04-24T06:17:55+00:00 | 2021-03-16T06:12:06+00:00 |
+| 1 | [g0v slack 治理機制討論](../notes/rHe3Lfh_S3yhtRawnliSIg.md) | 2025-12-13T15:18:35+00:00 | 2021-03-16T06:12:06+00:00 |
+| 2 | [g0v.tw 被當作詐騙網站舉例，用於事實查核與政府宣導](../notes/p-jr_r5tRLyQ1A7OUL1r9w.md) | 2025-11-03T12:35:20+00:00 | 2023-04-04T13:05:30+00:00 |
+| 3 | [g0v SNS 社群治理機制](../notes/THKRsDsNRXGsa_0zFUn3Gw.md) | 2025-09-30T13:19:42+00:00 | 2019-07-06T00:21:31+00:00 |
+| 4 | [g0v HackMD team 申請頁面](../notes/zNfe2MGfTrWo_5GZI0E5pQ.md) | 2025-08-11T10:56:57+00:00 | 2022-09-13T08:41:15+00:00 |
+| 5 | [g0v 行為守則 g0v Code of Conduct](../notes/XPzJRxsHT2CaOO5WZ5r-BA.md) | 2025-06-21T02:01:16+00:00 | 2017-08-21T03:57:16+00:00 |
+| 6 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2025-04-02T15:08:44+00:00 | 2018-08-30T07:19:57+00:00 |
+| 7 | [g0v Slack 閱讀完畢的系統稱讚語句](../notes/N6bGxyqSRZaAnNSmBevZVg.md) | 2025-03-13T12:11:10+00:00 | 2023-08-06T10:19:54+00:00 |
+| 8 | [g0v.tw 社群治理頁面／g0v community g0vernance directory](../notes/Ki8oBtnjTjitnyp84ckYbA.md) | 2024-07-21T02:17:39+00:00 | 2024-07-20T01:50:24+00:00 |
+| 9 | [g0v 短網址治理機制](../notes/u-UJk-4-TsOGFYwmT54CRA.md) | 2024-05-21T17:17:58+00:00 | 2024-05-21T15:31:08+00:00 |
+| 10 | [g0v domain 治理更新 20220312](../notes/6YxV7bP-QmixKkvPev7pmg.md) | 2024-05-21T17:17:50+00:00 | 2022-03-12T06:01:56+00:00 |
 | 11 | [g0v 首頁社群治理機制](../notes/mZ-LeFr1QJ6CuO6R3eeHnw.md) | 2024-04-20T08:20:58+00:00 | 2023-03-04T07:16:37+00:00 |
 | 12 | [g0v github 社群規範討論](../notes/1wFAJoQeTrmw9pnjcqPkXg.md) | 2024-04-20T04:33:49+00:00 | 2020-01-18T06:02:29+00:00 |
 | 13 | [g0v Summit 工人群治理機制 / g0v Summit Working Group governance](../notes/c_mPhOsZQC6FHJiMl3BIhw.md) | 2024-01-16T11:37:56+00:00 | 2020-04-09T02:41:01+00:00 |
