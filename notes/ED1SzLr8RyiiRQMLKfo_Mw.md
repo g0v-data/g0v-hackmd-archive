@@ -232,6 +232,8 @@ How the West got China wrong? The Economist 2018
 
 八次危機：中國式經濟危機和應對
 https://www.books.com.tw/products/0010632516
+財政
+https://youtu.be/toI_UYpNtic
 
 回顧元代以降的行省劃分採取統治目的，劃分方式影響民國初期聯省自治的基礎條件
 https://youtu.be/Qri2Sx216Ds
@@ -239,6 +241,8 @@ https://youtu.be/Qri2Sx216Ds
 許成鋼觀點
 https://youtu.be/pqh6nFKWB7k
 https://youtube.com/playlist?list=PLAa_VvKySQ8b2VdW12-OGpwf37TKiOyVf&si=fqKzTGZrNMBdy2T-
+
+
 
 Ideology and Organization in Communist China 
 Franz Schurmann 1968 
