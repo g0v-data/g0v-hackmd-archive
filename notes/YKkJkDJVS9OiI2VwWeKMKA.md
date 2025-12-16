@@ -2,7 +2,7 @@
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
+- NPO Hub 出席：bil, mrorz
 - 線上出席：
 - https://meet.google.com/mrz-dgrd-pri
 :::
@@ -17,6 +17,12 @@
 - fix: Redirect to new user profile URL after the user removes their slug settings #563 by @YUHUIYI in [#615](https://github.com/cofacts/rumors-site/pull/615)
 
 Test if changing URL slug does not redirect user to correct place.
+
+
+:::success
+Can release without issue
+:::
+
 
 
 ## :eyes: 上次會議跟進事項
@@ -34,8 +40,6 @@ Test if changing URL slug does not redirect user to correct place.
     - Error on 12/14 only
     - From LINE: the error was true. ![](https://g0v.hackmd.io/_uploads/BygD9GsAMbe.png)
 
-
-
 ## Pull Request Reviews
 
 - **cofacts/beta-ai#11: Update ADK to 1.21**
@@ -45,3 +49,6 @@ Test if changing URL slug does not redirect user to correct place.
 - **cofacts/rumors-site#615: fix: Redirect to new user profile URL after the user removes their slug settings #563**
   - `MrOrz` submitted a review.
   - https://github.com/cofacts/rumors-site/pull/615#pullrequestreview-3557292962
+
+
+
