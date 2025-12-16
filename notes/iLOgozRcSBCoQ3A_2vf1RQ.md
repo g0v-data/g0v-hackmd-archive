@@ -60,6 +60,9 @@ tags: 2025 跨年松,
     ![](https://g0v.hackmd.io/_uploads/SktRDbemll.jpg)
     :::
 - [網好評推爆！台北必吃8間「可頌專賣店」推薦：法式麵包店、人氣咖啡廳都入榜！外酥內軟、爆餡口感太幸福！ － COOL SIS 酷女孩](https://coolsis.cool-style.com.tw/life-style/food/38991)
+- 麥當勞也有可頌
+    - [原味可頌：值得您細細品味的金黃可頌！](https://www.mcdonalds.com/tw/zh-tw/product/croissant.html)
+    - [巧克力榛果可頌](https://www.mcdonalds.com/tw/zh-tw/product/croissant-chocolate.html)
 
 ## 活動內容發想
 - 做正常的可頌
