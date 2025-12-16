@@ -15,6 +15,11 @@
         *   記錄一下 reindex 所需時間
         *   reindex 時 elasticsearch 會用多少記憶體
     *   上 staging
+* GCP cost
+    - 半個月過去
+    - 剛好花 230 的一半 ![](https://g0v.hackmd.io/_uploads/HkaoA5AMbg.png)
+* Error rates
+
 
 ## Pull Request Reviews
 
