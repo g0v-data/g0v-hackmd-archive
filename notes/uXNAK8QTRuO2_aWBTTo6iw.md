@@ -45,62 +45,63 @@ Chainlon 展頌臨時文字紀錄區，公開頁面、嚴禁機密資料，快�
 
 
 
-#### AI課程範例
+#### AI課程範例12/16
 簡報檔案:P:\12教育訓練\41資訊\411AI\AI04-Ken .pptx
-測試檔案:P:\12教育訓練\41資訊\411AI\AI課程教材1210
+測試檔案:P:\12教育訓練\41資訊\411AI\AI課程教材1217
 
-1. 根據資料快速產生視覺化圖表比對
+1. GEM 活動邀請函撰寫
+🎯 角色與目標
+你是一位專業的活動策劃與公關專家，專門負責根據使用者提供的資訊，自動撰寫出格式標準、語氣正式且充滿吸引力的活動邀請信。你的目標是提供一封可以直接複製貼上使用的完美信件。開始對話時要求使用者列出處理流程與要求
+⚙️ 處理流程與要求
+資訊獲取 (Input Gathering):
+你必須先確認使用者已提供了以下六項必要資訊：
+A. 邀請對象姓名
+B. 活動時間 (日期與時段)
+C. 活動地點
+D. 活動名稱 (主旨)
+E. 活動目的 (簡介活動價值)
+F. 製成語言 (中文/英文等)
+如果缺少任何一項，必須禮貌地詢問使用者補齊該項資訊，然後再繼續。
+信件結構 (Letter Structure):
+信件應包含以下標準部分，並使用 Markdown 格式呈現：
+【主旨 (Subject Line)】：簡潔有力，包含活動名稱和日期。
+【稱謂 (Salutation)】：正式且尊敬。
+【開場 (Opening)】：表達榮幸與問候。
+【活動核心介紹 (Event Pitch)】：重點突出活動名稱、目的和對被邀請人的價值。
+【細節資訊 (Logistics)】：使用項目列表 (Bullet Points) 清晰列出 時間 和 地點。
+【行動呼籲 (Call to Action - RSVP)】：鼓勵出席，並清楚告知回覆或報名方式。
+【結尾與署名 (Closing and Signature)】：專業的致謝與期待，並預留署名空間。
+寫作風格 (Tone and Style):
+語氣： 專業、熱情、誠摯、正式。
+長度： 保持在 4-6 個中等長度的段落，易於閱讀。
+語言： 嚴格遵循使用者指定的 製成語言 進行撰寫。
+📝 輸出格式 (Output Format)
+請將最終生成的邀請信放在一個 Markdown 的程式碼區塊 (Code Block) 中，這樣使用者可以輕鬆地一鍵複製。
+2. 引導式學習
+我有一份EXCEL資料表，其中一個資料欄的資料內容有該資料第一碼為B、G、E我要如何讓這些資料在報表中分別顯示為B變為竹山、G變為斗三、E變為斗原
+3. 動態檢視
+https://gemini.google.com/share/1239e6bc1106
 Prompt：「根據以下每月銷售資料，請幫我生成一張折線圖，顯示2024年1月至10月的銷售趨勢，並標出最高與最低銷售月份。」 資料格式：
 月份：1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月  銷售額（萬元）：120, 135, 150, 145, 160, 170, 165, 180, 175, 190
+https://gemini.google.com/share/19e7965673ba
 
-2. 資料檢索RAG
+4. 圖片生成：
+Prompt：紡織紗線商業產品平面拍攝、柔光棚拍、乾淨背景、精緻質感、產品核心特寫、電商級視覺、極簡高級風
+5. Google NoteBookLM/文件內容比對
+    P:\12教育訓練\41資訊\411AI\FileTest\檔案比對
+https://notebooklm.google.com/notebook/ca32b745-d73c-46c2-97db-75828fbe9fe4
+6. Google NoteBookLM/文件(影片)簡化、消化大量文件
+測試檔案連結:https://ai.wharton.upenn.edu/wp-content/uploads/2025/10/2025-Wharton-GBK-AI-Adoption-Report_Full-Report.pdf
+範例連結：https://notebooklm.google.com/notebook/56e5c1cf-e34d-430c-bac4-3161f6178901
+7. Google NoteBookLM/文件合規性檢查
+測試檔案：P:\12教育訓練\41資訊\411AI\AI課程教材1217
+範例連結：https://notebooklm.google.com/notebook/e903394b-c99c-46f7-80d2-737f6c0bf963
 
-你是一個公司內部規範專家，負責協助員工檢索公司內部規範文件並提供精準回答。  
-- 僅根據提供的文件內容回答，不要自行編造。  
-- 如果文件中沒有相關資訊，請明確回覆「文件中未找到相關規範」。  
-- 回答要簡潔明確，並以繁體中文撰寫。  
-- 在可能的情況下，引用文件內容（可加上章節或條款編號），幫助使用者確認規範來源。  
-固定用繁體中文進行回答
 
-RAG 問題
-    1.財產管理辦法的文件編號
-    2.內部重大資訊處理作業程序的目的
-    3.財產管理辦法的內容
-    
-3. 製作試算表、萃取、文字提取 (OCR)
-    1.製成表格
-    2.提取文字
-4. AI搜尋、研究
-Prompt： 
-    1.2025生成式AI衝擊傳統產業
-    2.企業導入生成式AI的成本與回收期怎麼估算
-    3.針對紡織產業導入AI優勢及建議項目
-    4.統整研究報告
-5. Excel公式撰寫、修正錯誤公式
-Prompt： 
-    1.我有一份EXCEL資料表，其中一個資料欄的資料內容有該資料第一碼為B、G、E我要如何讓這些資料在報表中分別顯示為B變為竹山、G變為斗三、E變為斗原
-    
-    2.產品大類 = SWITCH( TRUE(), LEFT(W11070GDIC1[產品類別], 1) = “A”, “原絲”, LEFT(W11070GDIC1[產品類別], 1) = “B”, “ATY”, LEFT(W11070GDIC1[產品類別], 1) = “C”, “粒子”, LEFT(W11070GDIC1[產品類別], 1) = “T”, “DTY”, “Null” ) 轉換成Excel公式資料位於B資料列
-6. 文件重點統整
-    https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/ 翻譯統整此網站重點
-8. 寫程式
-    Prompt：
-    1.撰寫一個HTML格式的倒數計時小鬧鐘，只要我輸入任何數字，就表示為倒數計時的秒數，開始倒數計時並呈現秒數的倒數計時，時間歸零時在當前瀏覽器視窗呈現高度『時間到』文字，並有一個『確定』按鍵，直到我按『確定』，結束該作業。
-    範例： https://claude.ai/share/f3b1fea7-0489-469c-8ad6-d74e2bede017
+9. NoteBookLM/文件索引問答(RAG)
 
-    2.CMD指令，簡易鬧鐘，輸入時間後，時間到時桌面台彈出提醒 如:下午4:20
-    範例： https://chatgpt.com/share/6926c5ba-cf24-8009-9b94-87c31e58e3a5
 
-9. 簡報生成
-    Prompt：
-    撰寫一篇2025美國關稅對台紡織業衝擊
-    寫給：台灣紡織業者、產業策略決策者與貿易/供應鏈管理主管(中文(台灣))
-    語氣：專業、分析性、具策略性(語氣沉睡、重點清晰，兼具數據與實務建議)
 
-11. 心智圖
-    撰寫一篇2025美國關稅對台紡織業衝擊文案，針對紡織原料生產
-    以Yaml格式呈現xmind心智圖
-    
 #### 簽到表(2025/12/10生成式AI進階應用，可簽署時間請洽講師)
 https://forms.gle/7kC7vjYdAhjZfeFd9
 ![](https://g0v.hackmd.io/_uploads/H1xyWBLzbx.jpg)

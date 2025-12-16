@@ -7,6 +7,18 @@
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
+## :potable_water: Release pipeline
+
+### :rocket: Staging
+
+#### :globe_with_meridians: Site
+
+- Update package-lock.json and package.json for node version and cross-env by @chennjustin in [#620](https://github.com/cofacts/rumors-site/pull/620)
+- fix: Redirect to new user profile URL after the user removes their slug settings #563 by @YUHUIYI in [#615](https://github.com/cofacts/rumors-site/pull/615)
+
+Test if changing URL slug does not redirect user to correct place.
+
+
 ## :eyes: 上次會議跟進事項
 
 *   **[Epic] Elasticsearch Migration**
@@ -19,6 +31,9 @@
     - 半個月過去
     - 剛好花 230 的一半 ![](https://g0v.hackmd.io/_uploads/HkaoA5AMbg.png)
 * Error rates
+    - Error on 12/14 only
+    - From LINE: the error was true. ![](https://g0v.hackmd.io/_uploads/BygD9GsAMbe.png)
+
 
 
 ## Pull Request Reviews
@@ -30,21 +45,3 @@
 - **cofacts/rumors-site#615: fix: Redirect to new user profile URL after the user removes their slug settings #563**
   - `MrOrz` submitted a review.
   - https://github.com/cofacts/rumors-site/pull/615#pullrequestreview-3557292962
-
-### New Comments on Pull Requests
-
-- **cofacts/beta-ai#11: Update ADK to 1.21**
-  - `gemini-code-assist[bot]` commented: "The `uv.lock` file has not been updated to reflect this dependency change..."
-  - https://github.com/cofacts/beta-ai/pull/11#discussion_r2621838493
-
-- **cofacts/rumors-site#615: fix: Redirect to new user profile URL after the user removes their slug settings #563**
-  - `coveralls` commented with a coverage report.
-  - https://github.com/cofacts/rumors-site/pull/615#issuecomment-3632179780
-
-### New Comments on Issues
-
-- **cofacts/beta-ai#10: Update ADK to 1.21**
-  - `claude[bot]` commented: "Claude Code is working..."
-  - https://github.com/cofacts/beta-ai/issues/10#issuecomment-3658714576
-  - `MrOrz` commented: "@claude please help implement this"
-  - https://github.com/cofacts/beta-ai/issues/10#issuecomment-3658714259
