@@ -51,6 +51,16 @@ tags: 2025 跨年松,
 * 請注意：在準備進入倒數的時候，大家要把可頌立起來！
 * 以上內容如與其他習俗雷同，那就雷同
 
+## 哪裡可以買到可頌？
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1h30n-L0jOqpTw8q6TaEQEcPwCExvt-A&ehbc=2E312F" width="100%" height="600"></iframe>
+
+### 參考資料
+- [邪惡可頌---各地可頌比一比](https://www.businesstoday.com.tw/article/category/80730/post/201906120037/)
+    ::: spoiler
+    ![](https://g0v.hackmd.io/_uploads/SktRDbemll.jpg)
+    :::
+- [網好評推爆！台北必吃8間「可頌專賣店」推薦：法式麵包店、人氣咖啡廳都入榜！外酥內軟、爆餡口感太幸福！ － COOL SIS 酷女孩](https://coolsis.cool-style.com.tw/life-style/food/38991)
+
 ## 活動內容發想
 - 做正常的可頌
     - 可頌食譜 
@@ -110,13 +120,6 @@ tags: 2025 跨年松,
 - 可行性研究
 - 提前試菜
 - 購買食材
+- 音樂點播
+    - 想許願串燒卡啦OK點播系統！ [name=RS]
 
-
-
-## 待辦
-
-## 參考資料
-- [邪惡可頌---各地可頌比一比](https://www.businesstoday.com.tw/article/category/80730/post/201906120037/)
-    ::: spoiler
-    ![](https://g0v.hackmd.io/_uploads/SktRDbemll.jpg)
-    :::
