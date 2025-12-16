@@ -4,5 +4,11 @@ tags: image, health,
 
 # 開放授權圖庫
 
-醫療長照主題
-https://event-health.udn.com/campaign/newmedicaltw-205
+長照醫療主題
+- https://event-health.udn.com/campaign/newmedicaltw-205
+- 內容方向
+    - 關於健康促進、運動維持、自主生活與醫療挑戰。
+    - 記錄長者在社區、家庭、人際網絡中的互動與支持。
+    - 探索不同世代在生活、照護、文化上的交會與學習。
+    - 聚焦住宅、公共空間、交通與照護設施的改善與挑戰。
+    - 記錄社會各界為高齡未來做出的制度與社會創新努力。

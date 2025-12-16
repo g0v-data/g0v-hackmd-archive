@@ -27,6 +27,11 @@ https://www.facebook.com/groups/1039896299354539/permalink/4624338414243625/
 China 灰色侵略模式
 https://g0v.hackmd.io/@china/book/https%3A%2F%2Fg0v.hackmd.io%2F2OgSg4BXRwegwWtWiBeRBg
 
+中共對台統戰資料庫
+https://youtu.be/FYD9BizI0wU
+https://docs.google.com/document/d/1r9eL9PyDHWqYbyFJKD4EzUauPBkmHCaF9lrXJeN9OA4/edit
+https://docs.google.com/presentation/d/1XYJPZayTT0HH7GJtb5nCrmjmOzKyzmxX/edit
+
 《台海情勢儀表板》是結合官方軍事資料、能夠持續更新的地圖儀表板，以下有製作經驗分享文章
 https://www.facebook.com/share/p/15c42cDvcF/
 

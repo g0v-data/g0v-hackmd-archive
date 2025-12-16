@@ -73,6 +73,7 @@ We want to discuss measures for both governmental and civil department, that can
 
 ## 各國民防經驗蒐集
 - [烏克蘭 / 立陶宛](https://g0v.hackmd.io/i_sEMhdFT1i7Hc0-PYy8zA?view)
+- [防衛松_講座紀錄](https://defense.tw/)
 
 
 歷史上的野生災害資訊整合平台
