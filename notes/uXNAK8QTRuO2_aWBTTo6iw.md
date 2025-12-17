@@ -14,7 +14,7 @@ Chainlon 展頌臨時文字紀錄區，公開頁面、嚴禁機密資料，快�
 | POE AI| AI整合平台| https://poe.com| 
 | ChatGPT| OpenAI GAI| https://chatgpt.com/| 
 | Copilot| 微軟GAI| https://copilot.microsoft.com/| 
-| Gemini| Google GAI| https://copilot.microsoft.com/| 
+| Gemini| Google GAI| https://gemini.google.com/| 
 | Claude| 程式撰寫 GAI| https://claude.ai/|
 | Grok| X(Twitter) GAI| https://grok.com/|
 | Perplexity| Perplexity AI| https://www.perplexity.ai/| 
