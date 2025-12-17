@@ -12,7 +12,8 @@ tags: vTaiwan
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
 
-上週（12/02）小松請假
+上週（12/03）小松請假
+![](https://g0v.hackmd.io/_uploads/SkxXO6blQbg.png)
 
 
 ::: success
