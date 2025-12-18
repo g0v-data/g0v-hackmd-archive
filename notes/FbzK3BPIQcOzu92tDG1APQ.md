@@ -1,56 +1,42 @@
-<p><a href="https://max88d.com/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">Max88</span></u></a><span style="color:#212121ff;font-size:11pt;font-family:Lato;">&nbsp;ph&aacute;t triển hệ sinh th&aacute;i c&aacute; cược trực tuyến với casino, slot v&agrave; bắn c&aacute; đa dạng. Website tối ưu hiệu suất, bảo mật tốt v&agrave; giao diện th&acirc;n thiện. Trải nghiệm ổn định cho người chơi l&acirc;u d&agrave;i.</span></p>
+<p><a href="https://789pi.net/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">789P</span></u></a><span style="color:#212121ff;font-size:11pt;font-family:Lato;">&nbsp;ph&aacute;t triển nền tảng c&aacute; cược trực tuyến với casino, slot v&agrave; thể thao hấp dẫn. Website c&oacute; tốc độ ổn định, giao diện dễ sử dụng v&agrave; bảo mật cao. Đ&aacute;p ứng tốt nhu cầu giải tr&iacute; hằng ng&agrave;y.</span></p>
 <p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Th&ocirc;ng tin li&ecirc;n hệ:</span></p>
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Thương hiệu: Max88</span></p>
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Website:</span><a href="https://max88d.com/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">&nbsp;https://max88d.com/</span></u></a></p>
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Email: contact@max88d.com</span></p>
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Số điện thoại: 0979 678 234</span></p>
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Địa chỉ: 45 L&ecirc; Văn Sỹ, Quận 3, TP. Hồ Ch&iacute; Minh, Việt Nam</span></p>
+<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Thương hiệu: 789P</span></p>
+<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Website:</span><a href="https://789pi.net/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">&nbsp;https://789pi.net/</span></u></a></p>
+<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Email: contact@789pi.net</span></p>
+<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Số điện thoại: 0975 456 789</span></p>
+<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Địa chỉ: 23 L&ecirc; Duẩn, Quận 1, TP. Hồ Ch&iacute; Minh, Việt Nam</span></p>
 <p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Zipcode: 700000</span></p>
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Hashtag: #Max88 #Casino_Max88 #Betting_Max88 #Game_Max88 #Max88_Online&nbsp;</span></p>
-<p><a href="https://www.youtube.com/@max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.youtube.com/@max88dcom</span></u></a></p>
-<p><a href="https://vimeo.com/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://vimeo.com/max88dcom</span></u></a></p>
-<p><a href="https://www.pinterest.com/max88dcom1/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.pinterest.com/max88dcom1/</span></u></a></p>
-<p><a href="https://500px.com/p/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://500px.com/p/max88dcom</span></u></a></p>
-<p><a href="https://gravatar.com/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://gravatar.com/max88dcom</span></u></a></p>
-<p><a href="https://www.twitch.tv/max88dcom/about"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.twitch.tv/max88dcom/about</span></u></a></p>
-<p><a href="https://www.reddit.com/user/max88dcom/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.reddit.com/user/max88dcom/</span></u></a></p>
-<p><a href="https://www.tumblr.com/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.tumblr.com/max88dcom</span></u></a></p>
-<p><a href="https://about.me/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://about.me/max88dcom</span></u></a></p>
-<p><a href="https://forum.skullgirlsmobile.com/members/max88dcom.173077/#about"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://forum.skullgirlsmobile.com/members/max88dcom.173077/#about</span></u></a></p>
-<p><a href="https://talk.plesk.com/members/maxdcom.473539/#about"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://talk.plesk.com/members/maxdcom.473539/#about</span></u></a></p>
-<p><a href="https://www.openstreetmap.org/user/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.openstreetmap.org/user/max88dcom</span></u></a></p>
-<p><a href="https://www.upcarta.com/profile/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.upcarta.com/profile/max88dcom</span></u></a></p>
-<p><a href="https://aetherlink.app/users/7407316004243800064"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://aetherlink.app/users/7407316004243800064</span></u></a></p>
-<p><a href="https://participez.perigueux.fr/profiles/max88dcom/activity?locale=en"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://participez.perigueux.fr/profiles/max88dcom/activity?locale=en</span></u></a></p>
-<p><a href="http://www.askmap.net/location/7644418/vi%E1%BB%87t-nam/max88d-com"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">http://www.askmap.net/location/7644418/vi%E1%BB%87t-nam/max88d-com</span></u></a></p>
-<p><a href="https://www.40billion.com/profile/220989138"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.40billion.com/profile/220989138</span></u></a></p>
-<p><a href="https://transfur.com/Users/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://transfur.com/Users/max88dcom</span></u></a></p>
-<p><a href="https://huzzaz.com/user/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://huzzaz.com/user/max88dcom</span></u></a></p>
-<p><a href="https://bookmeter.com/users/linkages/google/callback?state=HCr3cHTYDaxDWO01aRSy&code=4%2F0ATX87lPLAVM47CrpHTKZ-Qixs_vmSKzrYiEFZwNUz6YgVuJRk9N9kZ2jc6ql9s95xxO1cw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://bookmeter.com/users/linkages/google/callback?state=HCr3cHTYDaxDWO01aRSy&amp;code=4%2F0ATX87lPLAVM47CrpHTKZ-Qixs_vmSKzrYiEFZwNUz6YgVuJRk9N9kZ2jc6ql9s95xxO1cw&amp;scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&amp;authuser=0&amp;prompt=consent</span></u></a></p>
-<p><a href="http://forum.vodobox.com/profile.php?section=personal&id=52097"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">http://forum.vodobox.com/profile.php?section=personal&amp;id=52097</span></u></a></p>
-<p><a href="https://syosetu.org/?mode=url_jump&url=https://max88d.com/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://syosetu.org/?mode=url_jump&amp;url=https://max88d.com/</span></u></a></p>
-<p><a href="http://activewin.com/user.asp?Action=Read&UserIndex=4811671&redir=&redirname=Forums"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">http://activewin.com/user.asp?Action=Read&amp;UserIndex=4811671&amp;redir=&amp;redirname=Forums</span></u></a></p>
-<p><a href="https://instapaper.com/u/folder/5292504/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://instapaper.com/u/folder/5292504/max88dcom</span></u></a></p>
-<p><a href="https://www.notebook.ai/users/1218249"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.notebook.ai/users/1218249</span></u></a></p>
-<p><a href="https://www.myminifactory.com/users/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.myminifactory.com/users/max88dcom</span></u></a></p>
-<p><a href="https://www.canadavideocompanies.ca/author/max88dcom/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.canadavideocompanies.ca/author/max88dcom/</span></u></a></p>
-<p><a href="https://dreevoo.com/profile_info.php?pid=919502"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://dreevoo.com/profile_info.php?pid=919502</span></u></a></p>
-<p><a href="https://routinehub.co/user/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://routinehub.co/user/max88dcom</span></u></a></p>
-<p><a href="https://www.longisland.com/profile/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.longisland.com/profile/max88dcom</span></u></a></p>
-<p><a href="https://www.giveawayoftheday.com/forums/profile/1516085"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.giveawayoftheday.com/forums/profile/1516085</span></u></a></p>
-<p><a href="https://pastebin.com/u/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://pastebin.com/u/max88dcom</span></u></a></p>
-<p><a href="https://gov.trava.finance/user/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://gov.trava.finance/user/max88dcom</span></u></a></p>
-<p><a href="https://es.stylevore.com/user/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://es.stylevore.com/user/max88dcom</span></u></a></p>
-<p><a href="https://community.m5stack.com/user/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://community.m5stack.com/user/max88dcom</span></u></a></p>
-<p><a href="https://community.alexgyver.ru/members/max88dcom.147010/#about"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://community.alexgyver.ru/members/max88dcom.147010/#about</span></u></a></p>
-<p><a href="https://participacion.cabildofuer.es/profiles/max88dcom/activity?locale=en"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://participacion.cabildofuer.es/profiles/max88dcom/activity?locale=en</span></u></a></p>
-<p><a href="https://hker2uk.com/home.php?mod=space&uid=5187073"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://hker2uk.com/home.php?mod=space&amp;uid=5187073</span></u></a></p>
-<p><a href="https://www.vnbadminton.com/members/max88d-com.120880/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.vnbadminton.com/members/max88d-com.120880/</span></u></a></p>
-<p><a href="https://www.weddingbee.com/members/max88dcom/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.weddingbee.com/members/max88dcom/</span></u></a></p>
-<p><a href="https://zumvu.com/max88dcom/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://zumvu.com/max88dcom/</span></u></a></p>
-<p><a href="https://phatwalletforums.com/user/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://phatwalletforums.com/user/max88dcom</span></u></a></p>
-<p><a href="https://ask.mallaky.com/?qa=user/max88dcomvn"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://ask.mallaky.com/?qa=user/max88dcomvn</span></u></a></p>
-<p><a href="https://qna.habr.com/user/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://qna.habr.com/user/max88dcom</span></u></a></p>
-<p><a href="https://ofuse.me/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://ofuse.me/max88dcom</span></u></a></p>
-<p><a href="https://www.annuncigratuititalia.it/author/max88dcom/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.annuncigratuititalia.it/author/max88dcom/</span></u></a></p>
-<p><a href="https://www.stylevore.com/user/max88dcom"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.stylevore.com/user/max88dcom</span></u></a></p>
+<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Hashtag: #789p #Casino_789p #Betting_789p #Game_789p #789p_Online&nbsp;</span></p>
+<p><a href="https://x.com/789pinet"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://x.com/789pinet</span></u></a></p>
+<p><a href="https://www.youtube.com/@789pinet"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.youtube.com/@789pinet</span></u></a></p>
+<p><a href="https://vimeo.com/789pinet"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://vimeo.com/789pinet</span></u></a></p>
+<p><a href="https://www.pinterest.com/789pinet/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.pinterest.com/789pinet/</span></u></a></p>
+<p><a href="https://500px.com/p/789pinet?view=photos"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://500px.com/p/789pinet?view=photos</span></u></a></p>
+<p><a href="https://gravatar.com/789pinet"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://gravatar.com/789pinet</span></u></a></p>
+<p><a href="https://www.twitch.tv/789pinet/about"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.twitch.tv/789pinet/about</span></u></a></p>
+<p><a href="https://www.reddit.com/user/789pinet/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.reddit.com/user/789pinet/</span></u></a></p>
+<p><a href="https://www.tumblr.com/789pinet"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.tumblr.com/789pinet</span></u></a></p>
+<p><a href="https://about.me/789pinet"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://about.me/789pinet</span></u></a></p>
+<p><a href="https://www.magcloud.com/user/789pinet"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.magcloud.com/user/789pinet</span></u></a></p>
+<p><a href="https://bbs.airav.cc/home.php?mod=space&uid=4256500"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://bbs.airav.cc/home.php?mod=space&amp;uid=4256500</span></u></a></p>
+<p><a href="http://artutor.teiemt.gr/el/user/789pinet/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">http://artutor.teiemt.gr/el/user/789pinet/</span></u></a></p>
+<p><a href="https://activepages.com.au/profile/789pinet"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://activepages.com.au/profile/789pinet</span></u></a></p>
+<p><a href="https://www.notebook.ai/users/1218343"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.notebook.ai/users/1218343</span></u></a></p>
+<p><a href="https://instapaper.com/u/folder/5292555/789pinet"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://instapaper.com/u/folder/5292555/789pinet</span></u></a></p>
+<p><a href="https://www.myminifactory.com/users/789pinet"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.myminifactory.com/users/789pinet</span></u></a></p>
+<p><a href="https://www.giveawayoftheday.com/forums/profile/1516286"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.giveawayoftheday.com/forums/profile/1516286</span></u></a></p>
+<p><a href="https://www.canadavideocompanies.ca/author/789pinet/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.canadavideocompanies.ca/author/789pinet/</span></u></a></p>
+<p><a href="https://routinehub.co/user/789pinet"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://routinehub.co/user/789pinet</span></u></a></p>
+<p><a href="https://www.longisland.com/profile/789pinet"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.longisland.com/profile/789pinet</span></u></a></p>
+<p><a href="https://www.speedrun.com/users/789pinet"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.speedrun.com/users/789pinet</span></u></a></p>
+<p><a href="https://dreevoo.com/profile_info.php?pid=919690"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://dreevoo.com/profile_info.php?pid=919690</span></u></a></p>
+<p><a href="https://community.alexgyver.ru/members/789pinet.147045/#about"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://community.alexgyver.ru/members/789pinet.147045/#about</span></u></a></p>
+<p><a href="https://community.m5stack.com/user/789pinet"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://community.m5stack.com/user/789pinet</span></u></a></p>
+<p><a href="http://wvhired.com/profiles/7634491-789pi-net"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">wvhired.com/profiles/7634491-789pi-net</span></u></a></p>
+<p><a href="https://jobs.suncommunitynews.com/profiles/7634509-789pi-net"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://jobs.suncommunitynews.com/profiles/7634509-789pi-net</span></u></a></p>
+<p><a href="https://jobs.westerncity.com/profiles/7634497-789pi-net"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://jobs.westerncity.com/profiles/7634497-789pi-net</span></u></a></p>
+<p><a href="https://jobs.landscapeindustrycareers.org/profiles/7634506-789pi-net"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://jobs.landscapeindustrycareers.org/profiles/7634506-789pi-net</span></u></a></p>
+<p><a href="https://jobs.njota.org/profiles/7634505-789pi-net"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://jobs.njota.org/profiles/7634505-789pi-net</span></u></a></p>
+<p><a href="https://www.play56.net/home.php?mod=space&uid=5879259"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.play56.net/home.php?mod=space&amp;uid=5879259</span></u></a></p>
+<p><a href="https://dongnairaovat.com/members/789pinet.61381.html"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://dongnairaovat.com/members/789pinet.61381.html</span></u></a></p>
+<p><a href="https://blooder.net/789pinet"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://blooder.net/789pinet</span></u></a></p>
