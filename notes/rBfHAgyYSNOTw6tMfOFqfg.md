@@ -183,6 +183,8 @@ https://www.youtube.com/live/POK7WC1xsUA?si=C_daLXqL4voI8dXb
 人機協作新時代-AI在坡地防災與水土保持之應用及展望 (陳振宇)
 https://youtu.be/yGHiAgE1CPw
 
+醫院
+https://www.ithome.com.tw/news/172898
 醫學
 https://www.facebook.com/share/1CGuoE34dN/?mibextid=wwXIfr
 
