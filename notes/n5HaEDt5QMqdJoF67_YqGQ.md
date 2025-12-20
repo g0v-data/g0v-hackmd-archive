@@ -1,3 +1,10 @@
+---
+tags: 宣傳組, 設計小組, summit2026
+title: g0v Summit 2026 主視覺投票 2nd round
+---
+
+<div style="font-weight: bold; "><img src="https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d73b3ea8ed15d74a3b555ac8b5d88a84.png" style="width: auto; height: 2em;">2026 宣傳組</div>
+
 # 主視覺投票 2nd round
 
 以下是 Summit 2026 設計小組根據 [主視覺提案、投票 1st round](https://g0v.hackmd.io/@summit2026/main-visual-proposal)中的投票結果打磨出來的提案

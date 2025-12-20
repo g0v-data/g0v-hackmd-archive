@@ -1,5 +1,6 @@
 ---
-tags: summit2026
+tags: 宣傳組, 設計小組, summit2026
+title: 20251125 設計組第貳次會議
 ---
 
 {%hackmd @summit2026/stylesheet %}
