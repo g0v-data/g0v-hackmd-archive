@@ -46,6 +46,9 @@ https://www.facebook.com/share/p/hdKmdEa3KjtYmJ5v/
 探討「馬拉松的生理與病生理」（Physiology and Pathophysiology of Marathon Running）
 https://www.facebook.com/hemodialysis.taiwan/posts/pfbid02ZoHh7FwtYBDrwZxEhxYQhDuHn958V9NfNUCafc74nveB3qzhaxqXdMksvGVao8qVl
 
+海報商品
+https://www.facebook.com/share/1BfpNfuNZ3/?mibextid=wwXIfr
+
 ## 發想
 
 臺北市路跑活動執行審核計畫
