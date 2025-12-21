@@ -49,7 +49,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
 | 日本採購防災物資分享 | Irvin | |
-| 數位韌性批次檢測 | Irvin | |
+| 數位韌性批次檢測 | Irvin | [github](https://github.com/irvin/web-resilience-test-result/) |
 | MeshBridge | Sean | [github](https://github.com/SCWhite/MeshBridge) |
 | Offline.Wiki | Tzutung | [github](https://github.com/b97607044/vessels), [website](https://www.tzutung.com/arts/offline.wiki) |
 | insert content here | insert name here | insert content here |
