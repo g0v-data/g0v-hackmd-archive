@@ -50,8 +50,8 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | --- | --- | --- |
 | 日本採購防災物資分享 | Irvin | |
 | 數位韌性批次檢測 | Irvin | |
-| insert content here | insert name here | insert content here |
-| insert content here | insert name here | insert content here |
+| MeshBridge | Sean | [github](https://github.com/SCWhite/MeshBridge) |
+| Offline.Wiki | Tzutung | [github](https://github.com/b97607044/vessels), [website](https://www.tzutung.com/arts/offline.wiki) |
 | insert content here | insert name here | insert content here |
 | insert content here | insert name here | insert content here |
 | insert content here | insert name here | insert content here |
@@ -61,7 +61,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 ## 簽名區
 來者何人，留下名稱！（請自由留下自己的暱稱或稱呼）
 
-Irvin、
+Irvin、Sean
 
 ---
 [Back to the top](#)
