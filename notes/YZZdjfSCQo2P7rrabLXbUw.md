@@ -6,8 +6,9 @@
 [TOC]
 
 :::
-翰林國中英語七上課本.pdf
-https://website.hle.com.tw/market/jr/%E6%95%99%E6%9D%90/%E6%95%99%E6%9D%90%E6%A8%A3%E6%9B%B8/%E7%BF%B0%E6%9E%97%E5%9C%8B%E4%B8%AD%E8%8B%B1%E8%AA%9E%E4%B8%83%E4%B8%8A%E8%AA%B2%E6%9C%AC.pdf
+https://www.youtube.com/watch?v=KbBY2mQ7_v0
+
+
 單字卡
 https://quizlet.com/tw/606710364/112%E4%BD%B3%E9%9F%B3%E7%BF%B0%E6%9E%97%E5%9C%8B%E4%B8%AD%E8%8B%B1%E8%AA%9Ebook-1_7%E4%B8%8Au3_%E5%96%AE%E5%AD%97%E5%85%A8-flash-cards/
 
