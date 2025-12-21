@@ -6,16 +6,11 @@
 [TOC]
 
 :::
-https://www.youtube.com/watch?v=KbBY2mQ7_v0
-
 
 單字卡
 https://quizlet.com/tw/606710364/112%E4%BD%B3%E9%9F%B3%E7%BF%B0%E6%9E%97%E5%9C%8B%E4%B8%AD%E8%8B%B1%E8%AA%9Ebook-1_7%E4%B8%8Au3_%E5%96%AE%E5%AD%97%E5%85%A8-flash-cards/
 
 https://brushbattle.io/#440635 邀請馬
-
-麥塊電影
-https://www.youtube.com/watch?v=-M49xbDIhZ4
 
 擋廣告
 https://adguard.com/zh_tw/welcome.html?utm_campaign=home&utm_medium=license_activation&utm_source=android
