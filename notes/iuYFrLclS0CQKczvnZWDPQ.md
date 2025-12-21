@@ -1,7 +1,7 @@
 ---
 tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense,
 image: https://chengpengtw-images-public.s3.ap-northeast-1.amazonaws.com/img/11th+hackathon_1200600_by-paulpengtw-CCBYSA4.0.png
-title: DigiResiTh11n 第拾壹次數位韌性松
+title: DigiResiTh12n 第拾貳次數位韌性松
 ---
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
@@ -30,7 +30,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 - 提前加入線上聊天室！
     - 加入 [Slack 線上討論區](https://g0v.hackmd.io/fKrjZ3BlRfWmQ471wcSdBg) (辦帳號超快超簡單）
     - 安裝好後再點[ #civil-defense 頻道](https://app.slack.com/client/T02G2SXKM/C056EHM42B1)
-- [大合照！（連結待補）]()
+- [大合照！](https://www.flickr.com/photos/irvin/54997150964/)
 - [簡介數位韌性松資訊](https://gamma.app/public/-k2mshk2q40b53ck)
 :::
 
