@@ -4,7 +4,7 @@ title: 20251125 設計組第貳次會議
 ---
 
 {%hackmd @summit2026/stylesheet %}
-<header><span class="summit-logo">g0v Summit</span>2026 宣傳組</header>
+<header><span class="summit-logo">g0v Summit</span>2026 設計小組</header>
 
 # 20251125 設計組第貳次會議
 
