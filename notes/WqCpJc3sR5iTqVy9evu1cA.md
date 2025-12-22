@@ -12,15 +12,6 @@ tags: summit2024
 - 預算：根據[g0v Summit 2020 整體規劃](https://docs.google.com/spreadsheets/d/1JpVZsWG7nPHEnkj3qRLR0_85sTZ6Q2ZxRFjT_phaTAU/edit#gid=1020995757)，共分兩種紀念品，高價紀念品預算為250元，低價紀念品預算則為100元。
 - **投稿已於12/1 23:59截止**
 
-## 2026 提案區（提案開放中）
-:::info
-投稿文字模板：
- 1. [紀念品名](紀念品連結) [name=投稿者的名字]
-    :::spoiler 參考圖
-    ~~請把參考圖貼在這裡！~~
-    :::
-:::
-
 ## 2024 提案區(提案已截止)
 :::info
 投稿文字模板：

@@ -39,6 +39,8 @@ https://www.facebook.com/share/p/17Vj6BV74F/
 森丑之助 https://photos.app.goo.gl/ha15KLuqbdZBNbePA
 鳥居龍藏 https://photos.app.goo.gl/HPjbAgxSZpBHvZCt6
 鹿野忠雄 https://g0v.hackmd.io/d7LoE2oHQFCYalTEWrt4aw?view
+川上瀧彌
+https://www.facebook.com/share/p/1F76Vzgvaq/
 江阿讓-樟腦產業
 https://www.facebook.com/share/1AbUFLsehz/
 賴和 
