@@ -102,6 +102,8 @@ https://youtu.be/GucJ0lKmccw
         - https://g0v.hackmd.io/sxYmXwiDTtq4Im0YqTFTCQ?view
     - 臺北市手機信令推估人口的應用探討
         - https://tuic.gov.taipei/zh/works/mobile
+    - 從電信信令人流結果探究臺北市日間活動人口統計，臺北市政府主計處 中華民國 114 年 9 月
+        - https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzY3L3JlbGZpbGUvNDUwMDAvOTQ3ODcyMy9kZTYxNTUyMy00MTIyLTQwNGEtYmE5ZS1lMDNhNWRiNTNiZmUucGRm&n=MTE0MDXlvp7pm7vkv6Hkv6Hku6TkurrmtYHntZDmnpzmjqLnqbboh7rljJfluILml6XplpPmtLvli5Xkurrlj6PntbHoqIgucGRm&icon=.pdf
 - 運用信令大數據資料與抽樣調查方法推估人口參數之研究
     - https://hdl.handle.net/11296/apz46r
     - 摘要：
