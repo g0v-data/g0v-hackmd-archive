@@ -23,7 +23,10 @@ tags: 新生流域, GIS
 - GRB
 - 碩博士論文
 
+
 發想筆記
+- 住宅商家
+    - https://www.facebook.com/share/p/1B2cj7stj9/
 - 人造物碎屑
 - 鞭炮 https://g0v.hackmd.io/YbqYYu48Sgupjbw4EWAd8Q?view
 - 菸蒂 https://g0v.hackmd.io/7snMaEoZSQqkxOaIYJPpTg

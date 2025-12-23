@@ -1,5 +1,12 @@
 # 20251223 會議記錄
 
+:::info
+- [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
+- NPO Hub 出席：mrorz, bil, nonumpa
+- 線上出席：
+- https://meet.google.com/mrz-dgrd-pri
+:::
+
 ## :eyes: 上次會議跟進事項
 
 *   **[Epic] Elasticsearch Migration**
@@ -9,8 +16,9 @@
         *   reindex 時 elasticsearch 會用多少記憶體
     *   上 staging
     *   Note: 似乎可以考慮 Elasticsearch: hosted elasticsearch on Google cloud https://www.elastic.co/partners/google-cloud
-	- pricing table: https://cloud.elastic.co/cloud-pricing-table?
-	- calculator: https://console.qa.cld.elstc.co/pricing/
+        - pricing table: https://cloud.elastic.co/cloud-pricing-table?
+        - calculator: https://console.qa.cld.elstc.co/pricing/
+        - 先在其他地方試試看 [name=nonumpa]++
 * GCP cost
     - 持續監控
     - 目前花了 184USD, forecast 280USD (怎麼算的？) ![](https://g0v.hackmd.io/_uploads/BkSHEbdXWl.png)
@@ -38,6 +46,11 @@ LINE:
 ## 活動
 
 - 12/28 14:00 Cofacts 期末感恩茶會 @ 青職基地
+- 下次大松：2026/1/25 @ 高雄
+- 下次小聚：只能在 2/7 or 2/8
+  - 再晚就春節了
+  - 青職基地場地 availability：只剩 2/8 (日) 2F 有空
+  - --> 2/8 （日）
 
 ## 開發活動 (Github Activities)
 
