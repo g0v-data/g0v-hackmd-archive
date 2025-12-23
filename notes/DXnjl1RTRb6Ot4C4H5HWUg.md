@@ -8,8 +8,13 @@
         *   記錄一下 reindex 所需時間
         *   reindex 時 elasticsearch 會用多少記憶體
     *   上 staging
+    *   Note: 似乎可以考慮 Elasticsearch: hosted elasticsearch on Google cloud https://www.elastic.co/partners/google-cloud
+	- pricing table: https://cloud.elastic.co/cloud-pricing-table?
+	- calculator: https://console.qa.cld.elstc.co/pricing/
 * GCP cost
     - 持續監控
+    - 目前花了 184USD, forecast 280USD (怎麼算的？) ![](https://g0v.hackmd.io/_uploads/BkSHEbdXWl.png)
+
 
 ## 綜合討論 (General)
 

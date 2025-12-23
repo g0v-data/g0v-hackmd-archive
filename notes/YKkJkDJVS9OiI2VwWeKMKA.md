@@ -18,12 +18,9 @@
 
 Test if changing URL slug does not redirect user to correct place.
 
-
 :::success
 Can release without issue --> done on 2025/12/16
 :::
-
-
 
 ## :eyes: 上次會議跟進事項
 

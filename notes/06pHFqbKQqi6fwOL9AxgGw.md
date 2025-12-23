@@ -108,6 +108,10 @@ https://g0v.hackmd.io/R_BhZDNNQ-C8CAoTJ58ZSg
 - 2023.12.26 [25個台北租屋故事 被剝奪的居住尊嚴/聯合報](https://feja-award.s3.amazonaws.com/2024/nomination/1/12/shortlist/12030/index.html)
 - 2024.11.05 [小宅化如何影響租屋市場？小宅多、租金漲愈多？5年400萬筆租屋數據全解析/報導者](https://www.twreporter.org/a/data-reporter-era-of-small-sized-housing-unit-impact-on-rental-housing-market)
 - 113年教育部青年發展署「青年好政-Let’s Talk」計畫－居住正義主題，協作共創與成果交流會結論追蹤報告。 https://youthhub.yda.gov.tw/news/detail?id=158
+- 租屋模擬網頁
+    - https://rentlife-3d-simulator.web.app
+    - prompt：製作一個支援 RWD 的 3D 租房互動網頁。 核心功能： (1) 使用者輸入薪資與租房條件，即時計算生活費與快樂指數。 (2) 勾選家具設備，即時連動 3D 模型顯示/隱藏。 (3) 整合勞動部最低工資限制與台電分段計價資訊。
+    - https://www.threads.com/@ordinary_all/post/DRXZ_rsj3mw?xmt=AQF0lw9mgd-6ng8X3GCQcfDQYcbpbjpQH8WK-WVZaUzrNeFZAlJ9kN7K7TS86RRXI9Pz4y8&slof=1
 
 倡議方式案例
 - 紐約民間團體針對租屋，發起的資料專案（該地點的歷史租金）、租客權益工具，[相關網址](https://www.facebook.com/story.php?story_fbid=pfbid0cJ9dT2CLNU2x2dhDfsdgp7spPPFvwJmHEHbrvEmnWDJCFFagaHw6pB7heut2fdgPl&id=1509819323)

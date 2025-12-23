@@ -112,6 +112,8 @@ Steps include:
 #### Phase 3: Elasticsearch & API 上 google cloud
 
 - Elasticsearch: hosted elasticsearch on Google cloud https://www.elastic.co/partners/google-cloud
+	- pricing table: https://cloud.elastic.co/cloud-pricing-table?
+	- calculator: https://console.qa.cld.elstc.co/pricing/
 - API: cloud run?
 
 Note: GCP 發票

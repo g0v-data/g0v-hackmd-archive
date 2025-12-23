@@ -2,12 +2,12 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [20250805 會議記錄](../notes/IDlOnke0RFWsCxHPvW7ydw.md) | 2025-11-25T10:03:09+00:00 | 2025-07-29T17:32:22+00:00 |
-| 2 | [Cofacts Hackath70n 協作頁面](../notes/YfGHcY92TtWEC_dXCN6QhQ.md) | 2025-11-23T08:15:34+00:00 | 2025-11-23T07:02:10+00:00 |
-| 3 | [20251026 Cofacts 小松果](../notes/9xF-mWbbRz-Rq-uWh-gCMQ.md) | 2025-10-28T13:00:21+00:00 | 2025-10-26T01:53:14+00:00 |
-| 4 | [API & Database enhancements](../notes/65JMCYDEQCeCYSAkBwJNTA.md) | 2025-10-19T18:03:00+00:00 | 2024-01-31T10:23:41+00:00 |
-| 5 | [20250930 會議記錄](../notes/7aAhrPosRa-RZLY5fI1dFA.md) | 2025-10-14T12:12:43+00:00 | 2025-09-30T07:43:15+00:00 |
-| 6 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2025-10-14T06:25:52+00:00 | 2022-08-05T02:46:53+00:00 |
+| 1 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2025-12-23T11:52:05+00:00 | 2022-08-05T02:46:53+00:00 |
+| 2 | [20250805 會議記錄](../notes/IDlOnke0RFWsCxHPvW7ydw.md) | 2025-11-25T10:03:09+00:00 | 2025-07-29T17:32:22+00:00 |
+| 3 | [Cofacts Hackath70n 協作頁面](../notes/YfGHcY92TtWEC_dXCN6QhQ.md) | 2025-11-23T08:15:34+00:00 | 2025-11-23T07:02:10+00:00 |
+| 4 | [20251026 Cofacts 小松果](../notes/9xF-mWbbRz-Rq-uWh-gCMQ.md) | 2025-10-28T13:00:21+00:00 | 2025-10-26T01:53:14+00:00 |
+| 5 | [API & Database enhancements](../notes/65JMCYDEQCeCYSAkBwJNTA.md) | 2025-10-19T18:03:00+00:00 | 2024-01-31T10:23:41+00:00 |
+| 6 | [20250930 會議記錄](../notes/7aAhrPosRa-RZLY5fI1dFA.md) | 2025-10-14T12:12:43+00:00 | 2025-09-30T07:43:15+00:00 |
 | 7 | [20250916 會議記錄](../notes/ugEF1rEBQw-4IwPWjPcTtA.md) | 2025-09-30T16:59:23+00:00 | 2025-09-08T13:08:35+00:00 |
 | 8 | [20250908 會議記錄](../notes/UhRDo_R7QOC16fWgZIdlzA.md) | 2025-09-30T16:59:19+00:00 | 2025-09-01T12:45:18+00:00 |
 | 9 | [20250812 會議記錄](../notes/4jwfLugMTDmGb1c1urBMTg.md) | 2025-08-17T05:44:02+00:00 | 2025-08-11T20:04:44+00:00 |
