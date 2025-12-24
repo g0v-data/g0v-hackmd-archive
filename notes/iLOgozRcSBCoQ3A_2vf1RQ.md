@@ -63,6 +63,7 @@ tags: 2025 跨年松,
 - 麥當勞也有可頌
     - [原味可頌：值得您細細品味的金黃可頌！](https://www.mcdonalds.com/tw/zh-tw/product/croissant.html)
     - [巧克力榛果可頌](https://www.mcdonalds.com/tw/zh-tw/product/croissant-chocolate.html)
+- 可頌蒐集相簿https://photos.app.goo.gl/9ejfDU91sQpn6bom7
 
 ## 活動內容發想
 - 做正常的可頌
@@ -112,6 +113,8 @@ tags: 2025 跨年松,
 > 是不是該想一下午夜十二點前要安排什麼環節？[name=RS]
 
 > 聖誕節交換禮物，跨年松交換可頌？[name=Dong]
+
+對獎捐款發票 (發票在香油箱裡面)
 
 ## 籌備
 - 蒐集想參加的人對活動有什麼期待

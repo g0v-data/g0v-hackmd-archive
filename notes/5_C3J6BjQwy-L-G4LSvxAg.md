@@ -105,11 +105,11 @@ class Solution(object):
         :rtype: List[int]
         """
         for i in range(len(nums)):
-            if i+1<len(nums):
-                a=nums[i]
+            if i+1<len(nums)://確保不會超出len
+                a=nums[i]//設初始值
                 for j in range(i+1,len(nums)):
-                    if(a+nums[j]==target):
-                        return i,j
+                    if(a+nums[j]==target)://檢查相加是否等於target
+                        return i,j//回傳位置
         
 ```
 ```
@@ -128,10 +128,12 @@ class Solution(object):
         :rtype: List[int]
         """
         num_dict = {}
+        //enumberate=>nums=[1,2,3]=>enumerate(nums)=[(0, 1), (1, 2), (2, 3)]
+        //前面是位置，後面是值
         for i, num in enumerate(nums):
-            if target - num in num_dict:
-                return [num_dict[target - num], i]
-            num_dict[num] = i
+            if target - num in num_dict://發現有該值
+                return [num_dict[target - num], i]//回傳補數的值以及當前位置
+            num_dict[num] = i//存該值的位置
 ```
 
 ## Merge Two Sorted Lists
@@ -269,11 +271,11 @@ class Solution(object):
         """
         #num=0
         #ori=x
-        if x<0:
+        if x<0://負數相反一定錯
             return False
-        else:
+        else://正數轉成string
             x=str(x)
-            if x==x[::-1]:
+            if x==x[::-1]://與反轉後的字做比對
                 return True
             else:
                 return False
@@ -309,6 +311,7 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
+        //只要找到符合的就會return 跳出function
         for i in range(len(nums)):
             if nums[i]==target://找到對應位置
                 return i
