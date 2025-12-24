@@ -84,7 +84,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
         - http://whatagodday.blogspot.com/2023/05/2023_16.html
     - 臺北給水工事設計報告書，臺灣總督府公文類纂
         - 鑽井位置？
-    - 19 建中 繪畫
+    - 19xx 建中 繪畫 陳植棋https://www.facebook.com/share/1DhYeDM3aD/?mibextid=wwXIfr
     - 1911 「臺北市街洪水浸水圖(1913)」，地圖比例尺為1/10,000。該地圖是臺灣總督府淡水河洪水調查附圖第11號，紀錄明治44年（1911）9月1日及大正元年（1912）8月29日兩次強颱造成當時臺北市街大淹水的災情；可以標記比較代表性的位置，印象中台北車站附近 (最深)，以及古亭 (比較靠近新生流域集水區)
         - https://gis.rchss.sinica.edu.tw/mapclub_20250218/
         - https://south.cwa.gov.tw/inner/NqkP1636680979lcfJ
@@ -97,6 +97,8 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 水道課研究中心 孫立人官邸 https://www.facebook.com/share/v/1FYp5h7qUa/?mibextid=wwXIfr
     - 1925 遍路石佛 https://zh.m.wikipedia.org/zh-tw/%E5%8F%B0%E5%8C%97%E5%9B%9B%E5%9C%8B%E5%85%AB%E5%8D%81%E5%85%AB%E6%89%80%E9%9D%88%E5%A0%B4
     - 1928 待登載至流域歷程變遷地圖，應該可以用 點位 方式，至少標記「1928 年此處為共同墓地」的方式 https://www.facebook.com/share/p/15n9yi7qg8/
+    - 1929 大稻埕 水路 繪畫 https://www.facebook.com/share/17vc6kLWTf/?mibextid=wwXIfr
+    - [重要] 1930 水源地 可能是汀州路水路 畫作 https://www.facebook.com/share/1BE2skJHAV/?mibextid=wwXIfr
     - 1933 帝大氣象建築 https://www.facebook.com/share/16WdJFGkNP/?mibextid=wwXIfr
     - 1933 臺北市大觀
         - https://www.facebook.com/photo?fbid=885845619797769&set=a.113042847078054
