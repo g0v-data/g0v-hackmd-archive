@@ -340,3 +340,58 @@ class Solution {
     }
 }
 ```
+## Missing number
+:::info
+Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
+
+ 
+
+Example 1:
+
+Input: nums = [3,0,1]
+
+Output: 2
+
+Explanation:
+
+n = 3 since there are 3 numbers, so all numbers are in the range [0,3]. 2 is the missing number in the range since it does not appear in nums.
+:::
+
+```
+class Solution(object):
+    def missingNumber(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        第一版:用for迴圈慢慢找
+        # s=set(nums)
+        # for i in range(len(nums)+1):
+        #     if i not in s:
+        #         return i
+        第二版:用總和公式加總，就能找到缺少的數字
+        n=len(nums)
+        return n*(n+1)//2-sum(nums)
+```
+## find the duplicate number
+:::info
+給定一個整數數組，其中nums包含的 n + 1整數都在給定的範圍內[1, n]（包含該範圍）。
+
+陣列中只有一個重複的數字nums，回傳這個重複的數字。
+
+你必須在不修改數組的情況下nums ，僅使用常數額外空間來解決該問題。
+:::
+```
+class Solution(object):
+    def findDuplicate(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        check=set() //建立一個空集合，用來存「出現過的數字」
+        for i in nums:
+            if i in check://找到重複的數就回傳
+                return i  
+            else://沒找到就存進check
+                check.add(i)
+```
