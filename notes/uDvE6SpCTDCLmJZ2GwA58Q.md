@@ -84,6 +84,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
         - http://whatagodday.blogspot.com/2023/05/2023_16.html
     - 臺北給水工事設計報告書，臺灣總督府公文類纂
         - 鑽井位置？
+    - 19 建中 繪畫
     - 1911 「臺北市街洪水浸水圖(1913)」，地圖比例尺為1/10,000。該地圖是臺灣總督府淡水河洪水調查附圖第11號，紀錄明治44年（1911）9月1日及大正元年（1912）8月29日兩次強颱造成當時臺北市街大淹水的災情；可以標記比較代表性的位置，印象中台北車站附近 (最深)，以及古亭 (比較靠近新生流域集水區)
         - https://gis.rchss.sinica.edu.tw/mapclub_20250218/
         - https://south.cwa.gov.tw/inner/NqkP1636680979lcfJ
