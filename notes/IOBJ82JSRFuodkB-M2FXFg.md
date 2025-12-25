@@ -7,11 +7,16 @@ tags: g0v idea pool,hackpad
 Consumers Social Responsibility 責任消費
 Socially Responsible Investment (SRI) 社會責任投資
 
+https://g0v.hackmd.io/IOBJ82JSRFuodkB-M2FXFg?view
+
 ## 專案工作方向討論：歡迎共筆！
 
 - chewei> 把已蒐集的標章與機制整理成欄位型資料集，把共筆頁面內容，整理成「表格」，例如用 airtable 整理，可參考這個[資料整理案例](https://airtable.com/shrJwHQ3VYSb27i4o)
 
-
+:::warning
+目錄
+[TOC]
+:::
 
 ---
 ## 【蒐集】觀點闡述
@@ -155,6 +160,7 @@ https://www.facebook.com/102148684925063/posts/124457699360828/
 
 ### 餐飲
 
+- https://www.facebook.com/share/17QWTVeMox/
 - 綠色餐廳
     - [https://docs.google.com/spreadsheets/d/1KfiG\_kRTrXfF0yecJVgtoBJMORA1\_21o1hiYJBFpo44/edit](https://docs.google.com/spreadsheets/d/1KfiG_kRTrXfF0yecJVgtoBJMORA1_21o1hiYJBFpo44/edit)
 -https://www.facebook.com/1289677511067054/posts/3570816622953120/
