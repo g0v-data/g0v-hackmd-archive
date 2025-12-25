@@ -157,6 +157,9 @@ https://www.facebook.com/share/p/16yXDRCJAs/
 
 # 推廣課程 / 計畫 / 機構導入
 
+教育部 國小
+https://www.facebook.com/share/p/1BjX3qnLN2/
+
 高職
 https://sites.google.com/view/ai4good
 
