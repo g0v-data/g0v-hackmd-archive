@@ -32,6 +32,14 @@ https://yuru-to.net/
 https://youtu.be/-8xAg4wEWL4
 https://tech.ardswc.gov.tw/Seminar/SeminarDiscussion
 
+這是OH3(open-hinata3)與即時天氣整合的「AI災難風險診斷」。
+雨雲雷達kikicle(危害分佈)數據收集並整合當地危害人口組成進行AI分析。 【
+圖像實例] ・雨勢稍大 ・山泥傾瀉 ・淹水 ・淹水:往後資訊留意→AI 立即分析「一定要小心山泥傾瀉及淹水」
+風險評估在任何時間點。 現場判斷、市政疏散協助、地方防災作業。
+ 重要 此功能為參考資訊。 一律遵循官方疏散指示和疏散決定的建議。
+按右鍵 → AI 風險診斷
+https://kenzkenz.xsrv.jp/open-hinata3/
+
 ---
 
 ## Topic / Area
