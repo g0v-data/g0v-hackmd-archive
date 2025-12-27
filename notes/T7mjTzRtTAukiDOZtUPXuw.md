@@ -142,5 +142,5 @@ https://www.facebook.com/groups/582154450196478/posts/1390934909318424/
 簡報與文件
 https://docs.google.com/presentation/d/1FCmD0ioQzY74SXkk5aTVE5cDvZbnnIv6aXbeWJjAX_Q/edit?usp=sharing
 
-
 意涵詮釋「另一種生活型態」，移動觀、環境觀
+流動
