@@ -9,4 +9,6 @@ tags: GIS, china,
 中國人民解放軍基地及設施
 https://www.google.com/maps/d/u/0/viewer?hl=zh-TW&fbclid=IwAR0XCsInnQshdhv0MpUbu0e2xWydIXlfX6Zc89htiXCNfE20UXCyBsqmEFI&mid=19Q8BraU1Nmnk23TzMb5rhXFuIAnOpTTq&fs=e&s=cl
 
+央視第七台軍事台釋出的影像
+https://youtu.be/CH749a17wIQ?si=LjONipOIdrzBd_v6
 
