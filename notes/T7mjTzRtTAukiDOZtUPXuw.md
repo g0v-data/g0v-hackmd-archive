@@ -130,3 +130,12 @@ tags: 新生流域,
             - 其他老照片影像紀錄資料
         - 新生大排作為基隆河支流，也是水質影響的來源之一
         - 新生高架橋影響新生北路地面層空氣流通，相關研究論文分析結果與現場對照
+
+## 20251227
+
+簡報與文件
+https://docs.google.com/presentation/d/1FCmD0ioQzY74SXkk5aTVE5cDvZbnnIv6aXbeWJjAX_Q/edit?usp=sharing
+
+
+
+意涵詮釋「另一種生活型態」，移動觀、環境觀
