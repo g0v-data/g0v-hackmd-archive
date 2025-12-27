@@ -4,8 +4,10 @@ tags:
 
 # 20260125【ReSchool 校地創生專案工作坊】桌次內容
 
-專案工作網址：https://linktr.ee/reschool.tw
-活動報名：https://g0v-jothon.kktix.cc/events/g0v-hackath71n
+- 專案工作網址：https://linktr.ee/reschool.tw
+- 高雄場地活動報名：https://g0v-jothon.kktix.cc/events/g0v-hackath71n
+- 若 1/25 週日不方便到高雄實體參加的話，我可以開線上會議室，歡迎預留時間參加，Google Meet 網址：https://meet.google.com/rva-yjfv-mny
+
 
 ## 14:00-15:00 討論議題一：ReSchool 校地創生資料集清單說明與蒐集更多資料需求
 

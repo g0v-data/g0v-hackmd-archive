@@ -1,9 +1,8 @@
 ---
-title: "防災開放資料應用典範"
-tags: hackpad
+tags: disaster,
 ---
 
-# 防災開放資料應用典範
+# 防災開放資料應用案例蒐集
 
 > [http://hackfoldr.org/OpenGeoData](http://hackfoldr.org/OpenGeoData)
 
@@ -301,6 +300,9 @@ tags: hackpad
 ### 【Response 應變】
 
 已知災害即將發生/預警/緊急避難/救難/救援/臨時安置/暫時安頓
+
+The Joint Decision Model (JDM)
+https://m.facebook.com/story.php?story_fbid=10161983516426666&id=624581665
 
 - 地震應變所需空間資訊與精度關係表
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_55de961d01d148cde23795c1679c0c56.jpg)
