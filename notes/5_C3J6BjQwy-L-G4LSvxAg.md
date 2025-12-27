@@ -395,3 +395,34 @@ class Solution(object):
             else://沒找到就存進check
                 check.add(i)
 ```
+
+## Valid Parentheses
+:::info
+Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
+An input string is valid if:
+
+Open brackets must be closed by the same type of brackets.
+Open brackets must be closed in the correct order.
+Every close bracket has a corresponding open bracket of the same type.
+:::
+```
+//用stack的方法去解，把數值一一放進
+class Solution(object):
+    def isValid(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        stack=[]
+        mapping={')':'(','}':'{',']':'['}
+        for char in s:
+            if char in mapping.values()://先把( { [ 放進stack
+                stack.append(char)
+            elif char in mapping: 然後開始找)}]
+                if not stack:如果stack是空的，回傳false
+                    return False
+                elif mapping[char] != stack.pop()://如果下一個值跟目前stack的top不是同一對，回傳false
+                    return False
+        return not stack
+```
