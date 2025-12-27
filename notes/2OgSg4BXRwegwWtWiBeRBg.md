@@ -187,11 +187,18 @@ http://cpc.people.com.cn/BIG5/n1/2022/0811/c64387-32499836.html
     - http://umap.openstreetmap.fr/en/map/by_77487#5/32.713/101.997
     - https://www.google.com/maps/d/u/0/viewer?hl=zh-TW&fbclid=IwAR0XCsInnQshdhv0MpUbu0e2xWydIXlfX6Zc89htiXCNfE20UXCyBsqmEFI&mid=19Q8BraU1Nmnk23TzMb5rhXFuIAnOpTTq&fs=e&s=cl
     - 作者出書：https://www.facebook.com/share/p/1A42kKnnYk/
+    - 依據央視第七台軍事台釋出的影像 https://youtu.be/CH749a17wIQ
+    - 專案構想：已知設施座標的衛星圖歷年比對追蹤https://g0v.hackmd.io/SntroZg1RRCkL6mi-gfVFw?view
 
 ![](https://g0v.hackmd.io/_uploads/BkpsaANdgl.png)
 
 - FB 社團：影像情報分析IMINT https://www.facebook.com/groups/1039896299354539/
 - 平潭島、東山島、海流 https://www.facebook.com/story.php?story_fbid=pfbid0XChNwVeU6TwjwtoPjdzjcrF2ivgK5kCxJQkQJHmn6Jma8B2XSSAHTkic2HHVnBXSl&id=100008337401408&mibextid=qC1gEa
+
+2025年中國軍力報告 by 美國
+Report to Congress on Military and Security Developments Involving the People’s Republic of China 2025
+https://media.defense.gov/2025/Dec/23/2003849070/-1/-1/1/ANNUAL-REPORT-TO-CONGRESS-MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA-2025.PDF
+
 
 ### 中國地理圖資(行政區、DTM) 
 - https://www.facebook.com/groups/600385406707053/permalink/6028507193894820/

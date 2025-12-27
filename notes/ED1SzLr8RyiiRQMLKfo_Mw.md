@@ -257,3 +257,8 @@ The Party’s Interests Come First: The Life of Xi Zhongxun, Father of Xi Jinpin
 Joseph Torigian 唐志學
 https://josephtorigian.com/
 https://www.american.edu/sis/faculty/torigian.cfm
+
+China after Communism: Preparing for a Post-CCP China | Hudson Institute
+https://www.hudson.org/politics-government/china-after-communism-preparing-post-ccp-china-miles-yu
+https://vocus.cc/article/689e7753fd89780001414e7c
+https://youtu.be/8kN7tKjmct0
