@@ -188,6 +188,7 @@ http://cpc.people.com.cn/BIG5/n1/2022/0811/c64387-32499836.html
     - https://www.google.com/maps/d/u/0/viewer?hl=zh-TW&fbclid=IwAR0XCsInnQshdhv0MpUbu0e2xWydIXlfX6Zc89htiXCNfE20UXCyBsqmEFI&mid=19Q8BraU1Nmnk23TzMb5rhXFuIAnOpTTq&fs=e&s=cl
     - 作者出書：https://www.facebook.com/share/p/1A42kKnnYk/
     - 依據央視第七台軍事台釋出的影像 https://youtu.be/CH749a17wIQ
+    - 作者 QA https://youtu.be/F_ganfwY_so
     - 專案構想：已知設施座標的衛星圖歷年比對追蹤https://g0v.hackmd.io/SntroZg1RRCkL6mi-gfVFw?view
 
 ![](https://g0v.hackmd.io/_uploads/BkpsaANdgl.png)
