@@ -10,7 +10,7 @@ Xin lỗi, nếu bạn vẫn đang chơi trên các máy tính cũ kỹ với gi
 - Nổ hũ liên tục: Tuần trước, một thành viên ở Cần Thơ đã giành được jackpot 2.8 tỷ từ con game Avengers, với các bức ảnh của các nhóm  
 - Đội ngũ quản lý toàn bộ người Việt, chửi nhau bằng tiếng Việt cũng được, hỗ trợ ngọt như đường và không sử dụng bot trả lời copy-paste.
 
-CHơn nữa, chương trình "Nạp 1 ăn 3 lần liên tiếp" đang được **<a href="https://e28bet.vip/">E28bet</a>** cung cấp rất hấp dẫn. Chương trình này chỉ có hiệu lực đến ngày 31 tháng 12 năm 2025:  
+CHơn nữa, chương trình "Nạp 1 ăn 3 lần liên tiếp" đang được **E28bet** cung cấp rất hấp dẫn. Chương trình này chỉ có hiệu lực đến ngày 31 tháng 12 năm 2025:  
 **Nạp lần 1 → tặng thêm 100%** 
 Thắng và rút được lần 1 → lần nạp 2 tặng thêm 20%  
 Thắng tiếp và rút được lần 2 → lần nạp 3 tặng thêm 10%  
