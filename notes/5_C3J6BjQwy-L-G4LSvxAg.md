@@ -424,5 +424,8 @@ class Solution(object):
                     return False
                 elif mapping[char] != stack.pop()://如果下一個值跟目前stack的top不是同一對，回傳false
                     return False
+        
         return not stack
+        #如果 stack 是空的，就回傳 True；
+        #如果 stack 裡還有東西，就回傳 False。
 ```
