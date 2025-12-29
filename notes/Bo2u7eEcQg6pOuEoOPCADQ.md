@@ -2,7 +2,7 @@
 tags: 民防
 ---
 
-# 民防資料 / 社群專案 / 議題探討
+# 民防資料 / 民間專案 / 議題探討
 
 :::info
 討論區：g0v slack #civil-defense 頻道
@@ -147,6 +147,12 @@ https://fb.watch/bPJuueW5Rj/
 
 講座：日常生活轉為戰時生活的生存之道
 https://g0v.hackmd.io/U3Yb1Xc0Rr6bKewv9Ip9mg?view
+
+台灣安全地帶指南 Taiwan Safety Zone Guide
+- 互動式地圖 × 台灣安全情報平台Interactive Map × Taiwan Safety Intelligence Platform
+- 透過地圖展現與情境分析，協助您了解潛在的地區風險、防災知識、以及合適的物資準備。Explore regional risks, disaster prep, and supply guides through an interactive map and scenario analysis.
+- https://taiwansafetyzone.com/
+    - https://www.facebook.com/100063963876690/posts/1196107739198011/
 
 ### 役政
 

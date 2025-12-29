@@ -25,6 +25,8 @@ https://youtu.be/GucJ0lKmccw
     - [http://iknow.stpi.narl.org.tw/Post/Files/policy/2012/policy\_12\_037_2.pdf](http://iknow.stpi.narl.org.tw/Post/Files/policy/2012/policy_12_037_2.pdf)
 - 人口儀表板 by Hsieh M.F.
     - https://www.facebook.com/groups/odtwn/posts/7147107305303626/
+- 原民人口計算
+    - https://www.facebook.com/share/p/17zUZFAVB1/
 
 ### 空間計畫
 

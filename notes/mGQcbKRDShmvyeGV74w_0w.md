@@ -89,7 +89,7 @@ We want to discuss measures for both governmental and civil department, that can
 
 Other
 ---
-- [idea pool 提點子](/PMiMLc-JT3yFrAs3CL6rzw)
+- [idea pool 提點子 / 民防議題蒐集](/PMiMLc-JT3yFrAs3CL6rzw)
 - [民防相關證照](/B-ky08JbR4-HD3lFDwynLQ)
 - [基建 logistics of DigiResiTh0n](/e6rWxnppQmuSpUxcoXzoHw)
 
