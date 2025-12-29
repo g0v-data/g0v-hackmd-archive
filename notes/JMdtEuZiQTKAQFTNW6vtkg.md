@@ -2,7 +2,7 @@
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：bil, mrorz
+- NPO Hub 出席：bil, mrorz, nonumpa
 - 線上出席：
 - https://meet.google.com/mrz-dgrd-pri
 :::
@@ -10,7 +10,28 @@
 ## :eyes: 上次會議跟進事項
 
 - [nonumpa] 試用 Google Cloud 上的 Hosted Elasticsearch
-- GCP cost 監控
+	- 改 API 發現要升級 node 20+，升級到 node 24 [name=nonumpa]
+	- ES 升級要改很多
+	- 有遇到 security 是 critical 的 package，但因為都是 breaking change 所以先放著
+	- 可以只跑一個檔案，確認是否可以執行，可以的話會比較有信心 [name=mrorz] 
+- GCP cost 監控 ![](https://g0v.hackmd.io/_uploads/HySca1g4Zl.png)
+	- Budget 改 250
+	- TODO: 研究 cloud logging 為啥會暴增 ![](https://g0v.hackmd.io/_uploads/HkxHlle4-l.png)
+		- 確認是否和 cofacts.tw production 改 cloud run 有關
+		- 確認 cost 細向：ingestion? storage?
+		- Solution：log sink 到他處？
+	- 發現怪 log [name=nonumpa] ![](https://g0v.hackmd.io/_uploads/HJSdEeeE-l.png)
+		- Rate limiting rule "Block known hinet threat actor @A"
+			- Rule 觸發： ![](https://g0v.hackmd.io/_uploads/BkBx8lxVWl.png)
+		- 但 SSR 應該總是 node-fetch，除非 node-fetch 升級後 header 有改？
+			- [2025/11/26](https://github.com/cofacts/rumors-site/releases/tag/release%2F20251126) release node upgrade
+			- Logging 也是在那天開始有 cost
+			- 目前只看得到 11/29 以後的 log，一直都有「又是你」
+			- User agent 改成 node 了
+			    - ![](https://g0v.hackmd.io/_uploads/rklcKPegVbl.png)
+			    - node 18 後開始改用內建的 fetch (網站是從 node 16 改成 24)
+			    - 先改成 does not contain `node`
+
 
 ## 伺服器穩定度
 
@@ -97,7 +118,7 @@
     - Cloudflare R2 https://g0v.hackmd.io/@cofacts/meetings/%2FJqg-lecyRhKtFDnbxnx_ZA#Possible-Solution-GCS-bucket---gt-Cloudflare-R2 搭配 Cloudflare video / images？
 - 網站用 TailwindCSS 改寫？
     - 移除 CSS-in-JS 可以簡化啟動流程 https://g0v.hackmd.io/@cofacts/rd/%2F%40cofacts%2FHJ_O1Xhhs#Ideas
-    - 子龍 figma: 
+    - 子龍 Mooon C 2023 Oct figma: https://www.figma.com/design/nFFi6c8ennXV8CxeF58Asl/Confact?node-id=0-1&p=f&t=27jepKYsqBCCkD72-0
 - Cofacts analytics: Opendata trend & LINE Bot usage 報表問題
 - Devops manual
 - cAdvisor 研究與安裝
