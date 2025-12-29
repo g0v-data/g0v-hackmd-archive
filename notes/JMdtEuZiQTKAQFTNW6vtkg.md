@@ -30,7 +30,7 @@
 			- User agent 改成 node 了
 			    - ![](https://g0v.hackmd.io/_uploads/rklcKPegVbl.png)
 			    - node 18 後開始改用內建的 fetch (網站是從 node 16 改成 24)
-			    - 先改成 does not contain `node`
+			    - 先改成 does not contain `node` [name=nonumpa]++
 
 
 ## 伺服器穩定度
