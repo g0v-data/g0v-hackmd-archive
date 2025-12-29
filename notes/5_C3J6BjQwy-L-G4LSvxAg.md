@@ -127,13 +127,13 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        num_dict = {}
+        num_dict = {}#dictonary {key:value}
         //enumberate=>nums=[1,2,3]=>enumerate(nums)=[(0, 1), (1, 2), (2, 3)]
         //前面是位置，後面是值
         for i, num in enumerate(nums):
-            if target - num in num_dict://發現有該值
-                return [num_dict[target - num], i]//回傳補數的值以及當前位置
-            num_dict[num] = i//存該值的位置
+            if target - num in num_dict:#發現有該值
+                return [num_dict[target - num], i]#回傳補數的值以及當前位置
+            num_dict[num] = i#存該值的位置 {2:0}
 ```
 
 ## Merge Two Sorted Lists
@@ -428,4 +428,44 @@ class Solution(object):
         return not stack
         #如果 stack 是空的，就回傳 True；
         #如果 stack 裡還有東西，就回傳 False。
+```
+## Largest Perimeter Triangle
+:::info
+Given an integer array nums, return the largest perimeter of a triangle with a non-zero area, formed from three of these lengths. If it is impossible to form any triangle of a non-zero area, return 0.
+
+ 
+
+Example 1:
+
+Input: nums = [2,1,2]
+Output: 5
+Explanation: You can form a triangle with three side lengths: 1, 2, and 2.
+Example 2:
+
+Input: nums = [1,2,1,10]
+Output: 0
+Explanation: 
+You cannot use the side lengths 1, 1, and 2 to form a triangle.
+You cannot use the side lengths 1, 1, and 10 to form a triangle.
+You cannot use the side lengths 1, 2, and 10 to form a triangle.
+As we cannot use any three side lengths to form a triangle of non-zero area, we return 0.
+:::
+```
+class Solution(object):
+    def largestPerimeter(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        #三角形成立條件
+        # a ≤ b ≤ c
+        # a + b > c
+        
+        nums.sort()#三角形題目要先排序
+        # 然後分別進行排序，檢查是否符合條件
+        for i in range(len(nums) - 1, 1, -1):
+            a, b, c = nums[i - 2], nums[i - 1], nums[i]
+            if a + b > c:   # triangle condition
+                return a + b + c
+        return 0 #沒有符合則回傳0
 ```
