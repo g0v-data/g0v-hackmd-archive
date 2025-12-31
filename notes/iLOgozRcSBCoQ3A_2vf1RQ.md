@@ -25,6 +25,7 @@ tags: 2025 跨年松,
 報名簽到：
 - Dong
 - MrOrz
+- SeanGau
 :::
 
 ## 活動推廣文

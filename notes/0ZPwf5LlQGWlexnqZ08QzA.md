@@ -24,4 +24,29 @@ Linux:
 ![](https://g0v.hackmd.io/_uploads/ryBMIPzN-x.png)
 
 ## Build
+Windows:
+```
+.\repo.bat build
+```
+
+
+Linux:
+```
+./repo.sh build
+```
+
+
+
 ## Launch
+Windows:
+```
+.\repo.bat launch
+```
+
+
+Linux:
+```
+./repo.sh launch
+```
+![](https://g0v.hackmd.io/_uploads/B1g5M6wfE-l.png)
+
