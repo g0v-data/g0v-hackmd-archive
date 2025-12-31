@@ -182,6 +182,10 @@ https://www.facebook.com/groups/407071349350303?multi_permalinks=931498348522566
 產品經理思維
 https://www.facebook.com/share/p/1B2BxKghWE/
 
+
+Linkedin
+https://www.facebook.com/share/p/17rTpUskGF/?mibextid=wwXIfr
+
 建築
 https://www.facebook.com/share/p/15Ly1kQpUJ/
 https://www.youtube.com/live/POK7WC1xsUA?si=C_daLXqL4voI8dXb
