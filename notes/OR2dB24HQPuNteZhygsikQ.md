@@ -121,6 +121,9 @@ TODO
     - https://www.facebook.com/story.php?story_fbid=pfbid0YD3e7ZWhvpTZJRdkjTr7FJjRFQ4AtTQy89uKrfDkanBfG4C8RqEba62r5dd2SJJrl&id=100032555500325&mibextid=tejx2t
     - 淡海新市鎮焚化爐用地變更
 
+### 私校退場
+
+https://youtu.be/A1CIL-9tolo
 
 
 
