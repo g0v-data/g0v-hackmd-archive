@@ -70,7 +70,7 @@ tags: 2025 跨年松,
 - 麥當勞也有可頌
     - [原味可頌：值得您細細品味的金黃可頌！](https://www.mcdonalds.com/tw/zh-tw/product/croissant.html)
     - [巧克力榛果可頌](https://www.mcdonalds.com/tw/zh-tw/product/croissant-chocolate.html)
-- 可頌蒐集相簿https://photos.app.goo.gl/9ejfDU91sQpn6bom7
+- 可頌蒐集相簿 https://photos.app.goo.gl/9ejfDU91sQpn6bom7
 
 ## 活動內容發想
 - 做正常的可頌
