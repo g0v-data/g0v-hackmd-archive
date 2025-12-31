@@ -169,6 +169,9 @@ https://sch001.g0v.tw/dash/prj/PYT0Zh11Dx0fE99.57SCnBr.FZPRb8
 
 桃園市蘆竹區忠孝西路桃園街口至中正路口的人行道標線完善之後又被塗消掉
 
+臺中
+https://www.threads.com/@chill_yi.io/post/DS6uPa4CQK5?xmt=AQF08podHYiYi18WCSeQe6GrdGcogcEcKsifTN297pwX1J_AxDmK_oAijbrI8CIJM9o79dyS&slof=1
+
 112年臺中市騎樓整平專案工程委託設計監造技術服務案
 (一)優先施作路段(路段長約 13,600 公尺)
 1、北區:雙十路一段(精武路至錦南街),兩側總長約 1,760 公尺。

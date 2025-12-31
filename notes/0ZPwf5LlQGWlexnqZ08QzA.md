@@ -6,10 +6,15 @@ download:https://github.com/NVIDIA-Omniverse/kit-app-template
 
 ==驅動程式需求==
 [安裝驅動程式](https://www.nvidia.com/zh-tw/drivers/details/258684/)
-Driver Branch:最低R535，570.00–573.39會有問題不能用
-Driver 類型:Studio
-CUDA:12.x
-==開啟「初始畫面」會吃多少 GPU？==
+![](https://g0v.hackmd.io/_uploads/B1g5M6wfE-l.png)
+
+* Driver Branch:最低R535，570.00–573.39會有問題不能用
+* Driver 類型:Studio
+* CUDA:12.x
+
+==開啟「初始畫面」會吃多少資源？==(使用顯卡為RTX A2000)
+![](https://g0v.hackmd.io/_uploads/ryhfOiMNbe.png)
+
 
 ## Clone the Repository
 ```
@@ -46,7 +51,7 @@ Linux:
 
 
 
-## Launch
+## Launch(每次要開啟Omniverse時，下這個指令，會開啟初始畫面)
 Windows:
 ```
 .\repo.bat launch
@@ -60,7 +65,7 @@ Linux:
 ```
 ./repo.sh launch
 ```
-![](https://g0v.hackmd.io/_uploads/B1g5M6wfE-l.png)
+
 
 ## 初始畫面
 ![](https://g0v.hackmd.io/_uploads/HkxnH9Oz4-g.png)
