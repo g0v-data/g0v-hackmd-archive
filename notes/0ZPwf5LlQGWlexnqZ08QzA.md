@@ -3,10 +3,6 @@
 
 download:https://github.com/NVIDIA-Omniverse/kit-app-template
 ## 限制
-==可以使用的顯卡類型==
-
-RTX 消費卡	:RTX 2060 / 3060 / 4090	
-RTX 專業卡	:RTX A2000 / A4000 / A6000	
 
 ==驅動程式需求==
 [安裝驅動程式](https://www.nvidia.com/zh-tw/drivers/details/258684/)

@@ -26,6 +26,10 @@ tags: 2025 跨年松,
 - Dong
 - MrOrz
 - SeanGau
+- RS
+- Ronnywang
+- 石獅
+- 
 :::
 
 ## 活動推廣文
@@ -118,8 +122,10 @@ tags: 2025 跨年松,
 > 聖誕節交換禮物，跨年松交換可頌？[name=Dong]
 
 * 對獎捐款發票 (發票在香油箱裡面)
+    * 沒中QAQ 全部槓龜QAQ [name=SeanGau]
 
 * 幫忙折summit的海報（YC感謝你們）
+    * 折完了！謝謝 YC 的可頌！[name=Dong]
 
 * 來寫「北車大廳黑客松暨公民科技園遊會」活動企劃，用於申請臺北車站大廳公益活動審查，[工作文件](https://g0v.hackmd.io/IBFiBf3KSIK3h6TEuW7j-A?view)，跳坑：chewei, 
 
