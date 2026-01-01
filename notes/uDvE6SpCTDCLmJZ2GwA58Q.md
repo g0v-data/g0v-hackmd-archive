@@ -74,12 +74,15 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 大龍國小 考古遺址 https://www.facebook.com/share/p/ur8bQUwcWTGofBMi/
     - 大龍峒發現新石器時代的「訊塘埔文化遺址」
     - 平埔族各社 https://www.facebook.com/share/p/173j7No9B5/?mibextid=wwXIfr
+    - 《諸羅縣誌》山川總圖北部。影像來源：維基百科
     - 歷史地圖 https://www.facebook.com/share/p/ZHmx9jxcTKPgYpad/
     - 太古巢 河邊舊址 https://youtu.be/eRaDSA-qaxk
     - 東門護城河溝 https://www.facebook.com/105231068229012/photos/a.105265611558891/312616044157179/?type=3&mibextid=cr9u03
     - 大浪泵溪 
         - https://www.facebook.com/share/p/ki8m7BEEv2vCjkP8/
         - https://www.facebook.com/share/p/JCAALx7RaBHAmkNm/
+    - 北門與城牆 https://www.facebook.com/share/p/1HTwS5vhCA/?mibextid=wwXIfr
+    - 小南門 https://www.facebook.com/share/p/14Qs1mjMPeb/?mibextid=wwXIfr費
     - 大正町照片，似乎是有溝渠？
         - http://whatagodday.blogspot.com/2023/05/2023_16.html
     - 臺北給水工事設計報告書，臺灣總督府公文類纂
