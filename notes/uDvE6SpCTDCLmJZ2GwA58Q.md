@@ -137,6 +137,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 1963 道路似乎有溝渠https://youtu.be/pVQQuBZDl-w
     - 1946 道路有溝渠https://youtu.be/Ga9ZeMnj-zQ
     - 1956 螢橋https://youtu.be/Ww6Ci2spKu4
+    - 大台北瓦斯公司開工影片 https://youtube.com/shorts/c6nIn6u1vSA?si=6m2x_5nf1CpHRT-W
     - 1961 敦化路 國民住宅 影片https://youtu.be/i7uFBadeoTI
     - 1962 自來水廠擴建 影片https://youtu.be/L2Zyxz7RuXM
     - 1954 圓山劍潭，遊艇活動https://youtu.be/QgwgYIltkr0
