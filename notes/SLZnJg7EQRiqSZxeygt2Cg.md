@@ -4,6 +4,9 @@ tags: economy,
 
 # 社會經濟探討
 
+經濟史
+https://youtu.be/SaOMX9K2DPc
+
 
 https://www.facebook.com/share/p/1BdmGh83i1/
 
