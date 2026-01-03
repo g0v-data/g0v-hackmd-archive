@@ -4,6 +4,10 @@ tags: GIS, japan,
 
 # Japan 日本地理空間規劃類內容
 
+:::success
+[TOC]
+:::
+
 ## Map / Data
 https://maps.gsi.go.jp/vector/
 https://mapcompare.jp/
@@ -61,6 +65,19 @@ https://www.chuko.co.jp/laclef/2024/12/150828.html
 
 https://www.facebook.com/share/p/1B97La8Urf/
 
+《NHK スペシャル震災 ビッグデータ》此書的網路素材
+https://g0v.hackmd.io/ZsAGMi_lRkC5oAgaOAd3jQ?view
+
+WaytoSafety 隨時隨地知道避難場所位置 Shelter Map (Taiwan, Japan, Korea, HK)
+https://g0v.hackmd.io/@chewei/waytosafety-home
+
+COG2024【チャレンジ！！オープンガバナンス】市民と行政の新たな協働で進化を遂げる公共圏をめざす 東京大学公共政策大学院発の地域課題解決コンテスト9年目！
+日時：2025年3月16日　10時30分～18時15分
+https://park.itc.u-tokyo.ac.jp/padit/cog2024/
+https://peatix.com/event/4296712/
+
+### 東京 / 橫濱
+
 Tokyo
 - https://minitokyo3d.com/
 - Tokyo Digital Twin 3D Viewer
@@ -75,17 +92,16 @@ Tokyo
 - https://eyesonplace.net/2017/11/29/7004/
 - https://tw.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/suishin/minnade/areaplan/pl-ninteibo.html
 
+### 兵庫縣 / 大阪 / 京都
 
-《NHK スペシャル震災 ビッグデータ》此書的網路素材
-https://g0v.hackmd.io/ZsAGMi_lRkC5oAgaOAd3jQ?view
-
-WaytoSafety 隨時隨地知道避難場所位置 Shelter Map (Taiwan, Japan, Korea, HK)
-https://g0v.hackmd.io/@chewei/waytosafety-home
-
-兵庫縣 / 大阪 / 京都
 - https://g0v.hackmd.io/pctpoYVFSSm_o8Kydk4NwQ?view
 
-九州 森林 https://q-fn.org/
+### 九州 / 島嶼
+
+九州介紹
+https://youtu.be/5yvq_CQ05yY
+
+九州森林 https://q-fn.org/
 
 鹿兒島縣
 - 2024 鹿兒島縣町長交流 https://maps.app.goo.gl/qEqYau321AVMRCv16
@@ -99,7 +115,3 @@ https://g0v.hackmd.io/@chewei/waytosafety-home
 九州作為大型戰爭的避難收容地區
 https://www.facebook.com/share/p/1682CYaEeV/
 
-COG2024【チャレンジ！！オープンガバナンス】市民と行政の新たな協働で進化を遂げる公共圏をめざす 東京大学公共政策大学院発の地域課題解決コンテスト9年目！
-日時：2025年3月16日　10時30分～18時15分
-https://park.itc.u-tokyo.ac.jp/padit/cog2024/
-https://peatix.com/event/4296712/
