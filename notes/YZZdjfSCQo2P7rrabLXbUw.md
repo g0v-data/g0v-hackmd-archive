@@ -6,11 +6,27 @@
 [TOC]
 
 :::
+#### 日本環球影城自由行規劃
+1.可否跨日，準備安排二日
+2.快速通關卷可否跨日
+3.快速通關卷要選擇想玩的項目
+【2026大阪環球影城】最新攻略：https://vivianexplore.tw/universal-studio-japan/
+東其剛的瘋狂礦車
+馬力歐賽車
+飛天翼龍
+耀西冒險
+手環*2
+
+
+門票價格等級：https://www.usj.co.jp/ticket/common/studiopass/price-calendar.html?spm=Activity.SectionCollapse.Link&clickId=07c4f8293c
+京阪神環球影城5天4夜行程 https://kimiyo.tw/kansai-trip4/
+詳細活動，超級任天堂等 https://vocus.cc/article/655c5374fd89780001bb1262
+
 
 單字卡
 https://quizlet.com/tw/606710364/112%E4%BD%B3%E9%9F%B3%E7%BF%B0%E6%9E%97%E5%9C%8B%E4%B8%AD%E8%8B%B1%E8%AA%9Ebook-1_7%E4%B8%8Au3_%E5%96%AE%E5%AD%97%E5%85%A8-flash-cards/
 
-https://brushbattle.io/#440635 邀請馬
+畫圖猜圖/邀請馬：https://brushbattle.io/#440635
 
 擋廣告
 https://adguard.com/zh_tw/welcome.html?utm_campaign=home&utm_medium=license_activation&utm_source=android
@@ -22,10 +38,7 @@ Google 遊戲
 https://web.jsps.kh.edu.tw/googlegame/
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0ee72ad82c31f2befbc519c9493b9761.png)
 
-#### 日本環球影城自由行規劃
-門票價格等級：https://www.usj.co.jp/ticket/common/studiopass/price-calendar.html?spm=Activity.SectionCollapse.Link&clickId=07c4f8293c
-京阪神環球影城5天4夜行程 https://kimiyo.tw/kansai-trip4/
-詳細活動，超級任天堂等 https://vocus.cc/article/655c5374fd89780001bb1262
+
 
 
 #### 常用連結
