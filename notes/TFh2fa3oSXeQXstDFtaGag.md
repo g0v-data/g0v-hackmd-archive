@@ -28,6 +28,7 @@ https://www.facebook.com/groups/196846977135110?multi_permalinks=315676606114317
 1697 郁永河《裨海紀遊》 https://photos.app.goo.gl/1zDiwTNRDtMeyhBU7
 17xx 貝紐夫斯基 宜蘭 https://www.facebook.com/share/p/1C5vABaCA8/
 1817—1883 吳子光 https://taicool.ith.sinica.edu.tw/browse-ebook.html?id=EB0000000036；https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%AD%90%E5%85%89
+1851 西鄉隆盛，宜蘭 https://www.taiwanembassy.org/jpfuk/post/8697.html
 1865 必麒麟與馬雅各 https://photos.app.goo.gl/m1Fyye2Z3WUMr45U6
 1866 必麒麟 https://photos.app.goo.gl/m1Fyye2Z3WUMr45U6
 1871 湯姆生與馬雅各 https://photos.app.goo.gl/m1Fyye2Z3WUMr45U6

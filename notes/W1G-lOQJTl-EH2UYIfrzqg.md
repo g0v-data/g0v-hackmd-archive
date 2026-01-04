@@ -100,6 +100,8 @@ Tokyo
 
 九州介紹
 https://youtu.be/5yvq_CQ05yY
+日本時代，九州人在台；1851 西鄉隆盛 至宜蘭
+https://www.taiwanembassy.org/jpfuk/post/8697.html
 
 九州森林 https://q-fn.org/
 
