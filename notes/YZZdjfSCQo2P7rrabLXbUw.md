@@ -7,6 +7,7 @@
 
 :::
 #### 日本環球影城自由行規劃
+https://www.youtube.com/watch?v=9ebsj1Gc6I4
 快速通關卷要選擇想玩的項目
 【2026大阪環球影城】最新攻略：https://vivianexplore.tw/universal-studio-japan/
 超級任天堂世界/馬力歐賽車
