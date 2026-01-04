@@ -96,7 +96,7 @@ Tokyo
 
 - https://g0v.hackmd.io/pctpoYVFSSm_o8Kydk4NwQ?view
 
-### 九州 / 島嶼
+### 九州 / 沖繩 / 島嶼
 
 九州介紹
 https://youtu.be/5yvq_CQ05yY
@@ -109,6 +109,9 @@ https://www.taiwanembassy.org/jpfuk/post/8697.html
 - 2024 鹿兒島縣町長交流 https://maps.app.goo.gl/qEqYau321AVMRCv16
 - 2025 災害 https://www.facebook.com/share/p/17C2gc5jm9/
 - 電影，聚焦離島緊急醫療 https://www.facebook.com/share/1XjGEgozYL/
+
+沖繩
+https://youtu.be/rylRtFqR4R8
 
 離島
 - https://rito.pref.aichi.jp/
