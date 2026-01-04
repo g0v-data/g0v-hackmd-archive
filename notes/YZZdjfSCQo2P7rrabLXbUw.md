@@ -7,24 +7,24 @@
 
 :::
 #### 日本環球影城自由行規劃
+https://www.youtube.com/watch?v=jbv9R_-a_nc
 https://www.youtube.com/watch?v=9ebsj1Gc6I4
-快速通關卷要選擇想玩的項目
-【2026大阪環球影城】最新攻略：https://vivianexplore.tw/universal-studio-japan/
-超級任天堂世界/馬力歐賽車
  能量手環*2
-咚奇剛國度/咚奇剛的瘋狂礦車/耀西冒險
 
-侏儸紀公園/飛天翼龍/侏儸紀公園乘船遊
-
-小小兵瘋狂乘車遊
-
-快速通關 4	包含設施	適合族群
-Minecart & Fun	咚奇剛、瑪利歐、哈利波特、侏儸紀公園-乘船遊/大白鯊（擇一）	想玩「咚奇剛國度」+「超級任天堂世界」
-
-快速通關5沒有咚奇剛瘋狂礦車
-![](https://g0v.hackmd.io/_uploads/r1xz2BPPEWe.png)
-
-
+|遊樂設施 / 快速通關4|Minecart & Fun|Minecart & Jurassic Park-可能選擇|
+| -------- | -------- | -------- |
+|瑪利歐賽車庫巴的挑戰書（含超級任天堂世界入園保證）|1|排隊|
+|耀西的冒險（含超級任天堂世界入園保證）||1|
+|咚奇剛的瘋狂礦車（含超級任天堂世界入園保證）|1|1|
+|鷹馬的飛行（含哈利波特魔法世界入園保證）|||
+|哈利波特禁忌之旅（含哈利波特魔法世界入園保證）|1||
+|名偵探柯南4-D現場表演秀|||
+|好萊塢美夢乘車遊|||
+|大白鯊|2選1|可能不選|
+|侏儸紀公園 – 乘船遊|2選1|可能選擇|
+|小小兵瘋狂乘車遊||1|
+|小小兵瘋狂任務：成為大壞蛋之路|||
+	
 門票價格等級：https://www.usj.co.jp/ticket/common/studiopass/price-calendar.html?spm=Activity.SectionCollapse.Link&clickId=07c4f8293c
 京阪神環球影城5天4夜行程 https://kimiyo.tw/kansai-trip4/
 詳細活動，超級任天堂等 https://vocus.cc/article/655c5374fd89780001bb1262

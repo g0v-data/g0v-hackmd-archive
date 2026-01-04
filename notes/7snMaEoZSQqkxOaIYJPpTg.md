@@ -38,6 +38,7 @@ tags: GIS　
         - https://www.facebook.com/feds32/posts/pfbid023mQDHFpXJV4X26UW9Qz7uKkcEEZjLdRrcAdonigNhnXuCW1zxoY8FCYEjeEgxKtfl
         - https://www.facebook.com/share/p/Bfz3FwnzL6yqsavw/
     - https://x.com/taiwanplusnews/status/1737835322774315165
+    - https://www.facebook.com/share/p/17DXz8fTZu/?mibextid=wwXIfr
 - 二手菸問題：https://g0v.hackmd.io/aOL8RqaOSReV-k1JIsuLyg
 - 構想
     - 機制提案：https://presidential-hackathon.net/bgid_detail.php?id=2&gid=0&nid=3358
