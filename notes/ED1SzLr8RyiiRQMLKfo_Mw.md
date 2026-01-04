@@ -239,6 +239,7 @@ https://youtu.be/toI_UYpNtic
 https://youtu.be/Qri2Sx216Ds
 
 許成鋼觀點
+https://youtu.be/uBGMVzYGZao
 https://youtu.be/pqh6nFKWB7k
 https://youtube.com/playlist?list=PLAa_VvKySQ8b2VdW12-OGpwf37TKiOyVf&si=fqKzTGZrNMBdy2T-
 
