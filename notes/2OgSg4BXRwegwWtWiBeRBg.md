@@ -200,6 +200,8 @@ http://cpc.people.com.cn/BIG5/n1/2022/0811/c64387-32499836.html
 Report to Congress on Military and Security Developments Involving the People’s Republic of China 2025
 https://media.defense.gov/2025/Dec/23/2003849070/-1/-1/1/ANNUAL-REPORT-TO-CONGRESS-MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA-2025.PDF
 
+中國南海戰略感知
+https://www.scspi.org/
 
 ### 中國地理圖資(行政區、DTM) 
 - https://www.facebook.com/groups/600385406707053/permalink/6028507193894820/
