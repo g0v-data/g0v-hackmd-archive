@@ -7,9 +7,7 @@
 
 :::
 #### 日本環球影城自由行規劃
-1.可否跨日，準備安排二日
-2.快速通關卷可否跨日
-3.快速通關卷要選擇想玩的項目
+快速通關卷要選擇想玩的項目
 【2026大阪環球影城】最新攻略：https://vivianexplore.tw/universal-studio-japan/
 超級任天堂世界/馬力歐賽車
  能量手環*2
@@ -23,6 +21,7 @@
 Minecart & Fun	咚奇剛、瑪利歐、哈利波特、侏儸紀公園-乘船遊/大白鯊（擇一）	想玩「咚奇剛國度」+「超級任天堂世界」
 
 快速通關5沒有咚奇剛瘋狂礦車
+![](https://g0v.hackmd.io/_uploads/r1xz2BPPEWe.png)
 
 
 門票價格等級：https://www.usj.co.jp/ticket/common/studiopass/price-calendar.html?spm=Activity.SectionCollapse.Link&clickId=07c4f8293c
