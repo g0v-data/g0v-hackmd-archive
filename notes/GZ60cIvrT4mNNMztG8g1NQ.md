@@ -116,6 +116,7 @@ https://www.facebook.com/share/p/1RXhQbgro8/
 - 921 https://www.facebook.com/share/p/1DTXCfkumY/
 - 李火增，天水街，淹水 https://www.gjtaiwan.com/new/?p=30379
 - 1970 桃園 東門溪 淹水 https://www.facebook.com/share/p/1DCdHXMkCM/
+- 1986 陽明山馬槽溪 https://www.facebook.com/share/182zUggTA1/?mibextid=wwXIfr
 
 個別書籍影像翻拍
 - 臺北市區改正之前一張淹水照片 https://photos.app.goo.gl/V5ik58LRdJLMgNuQA
