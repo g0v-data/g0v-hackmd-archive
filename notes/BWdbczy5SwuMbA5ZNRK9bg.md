@@ -9,7 +9,10 @@
 
 ## :eyes: 上次會議跟進事項
 
-- [x] 研究 cloud logging 為啥會暴增 ![](https://g0v.hackmd.io/_uploads/S1g2qYUc4Zx.png)
+- [x] 研究 cloud logging 為啥會暴增
+	- 2025/11/26 release node-fetch upgrade, which updates the user-agent string
+	- 2025/12/29 updated Cloudflare rate limiting rule conditions
+	- ![](https://g0v.hackmd.io/_uploads/ryexNJD9VZl.png)
 
 
 ## 專案進度與討論摘要
@@ -47,15 +50,26 @@
 - Staging 上的服務也從 answerfamily-deploy 改成用 rumors-deploy 啟動
 - 建立 https://github.com/cofacts/devops
 
+Example usage
+- 問 server 現在如何
+- 問 log 狀況 ![](https://g0v.hackmd.io/_uploads/S1g2qYUc4Zx.png)
+- 寫好 cloudflare 文件之後：
+    - 分析流量與被攻擊狀況
+    - 畫系統相依圖（cloudflare 上有服務 mapping；rumors-deploy 上）
+- 加上 analytics 說明（bigquery, Google analytics 等等）: 可以詢問流量 
+
 TODO
+- 改 README.md 只留下每個檔案在幹嘛
+    - 介紹說這份文件是讓人和 coding agent 能協同管理 Cofacts deployment 用的
+    - 詢問範例
+    - 介紹文件結構：Getting access, setup & 其他
 - 寫 AGENTS.md 放幾點：
 	- 原則：簡潔、不寫常識、專注在 Cofacts 專有的設定與架構
-	- 介紹文件結構：Getting access, setup & 其他
 	- 當使用者發問時，可以預設使用者已經完成所有文件的 Getting access & setup 過程；如果遇到問題，才回頭檢視 setup 有沒有做完全。
 	- 介紹怎麼撰寫與維護這些 markdown file（移除 update.md）：
 		- 先看文件針對服務現狀寫了哪些敘述
 		- 連進服務裡看看那些敘述是否還符合文件敘述
 		- 如果發現文件與現狀不同，詢問使用者應該怎麼處理
 		- 如果有新發現，也詢問使用者
-- 
+- 其他想法？
 
