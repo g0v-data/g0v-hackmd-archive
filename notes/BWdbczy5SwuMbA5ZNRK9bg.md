@@ -71,5 +71,7 @@ TODO
 		- 連進服務裡看看那些敘述是否還符合文件敘述
 		- 如果發現文件與現狀不同，詢問使用者應該怎麼處理
 		- 如果有新發現，也詢問使用者
+- 加入 Github claude workflow
+	- https://github.com/cofacts/rumors-site/blob/master/.github/workflows/build-and-push.yml#L100-L103
 - 其他想法？
 
