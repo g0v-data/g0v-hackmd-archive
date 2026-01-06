@@ -2,8 +2,8 @@
 
 :::info
 - [所有會議記錄](httpss://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
-- 線上出席：
+- NPO Hub 出席：bil, mrorz, alfred
+- 線上出席：nonumpa, Chris
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
@@ -72,6 +72,10 @@ TODO
 		- 如果發現文件與現狀不同，詢問使用者應該怎麼處理
 		- 如果有新發現，也詢問使用者
 - 加入 Github claude workflow
-	- https://github.com/cofacts/rumors-site/blob/master/.github/workflows/build-and-push.yml#L100-L103
+	- open issue & `@claude` to collect information
+	- Authenticate to Google using [workload identity provider](https://github.com/cofacts/rumors-site/blob/master/.github/workflows/build-and-push.yml#L100-L103)
+	- Cloudflare & VPS: 不確定怎麼做
 - 其他想法？
+	> https://github.com/pranshuparmar/witr Why is this running? [name=Chris]
+	> 因應害怕 rm 的風險，我現在用保哥的 https://github.com/doggy8088/better-rm ，它取代系統的 rm，它會擋一些已知重要的目錄不可刪，而允許刪除的檔案，它會改移到垃圾筒，因此可以事後復原 [name=Chris]
 
