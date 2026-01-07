@@ -86,6 +86,10 @@ community governance
 - [vTaiwan年末討論](https://g0v.hackpad.tw/20181212-vTaiwan--ICWJfkrm2EN)
 - [vTaiwan 個人資料處理政策與同意書](https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/H1zyE09L6)
 
+2026 小松紀錄 2026 Weekly Meetup
+----
+- [20260107小松](/tGT-EDegQFyq96amJ2yjPA)
+
 2025 小松紀錄 2025 Weekly Meetup
 ----
 - [20251217小松](/OVdE6lMyQEWQ0yHoIAS-PQ)

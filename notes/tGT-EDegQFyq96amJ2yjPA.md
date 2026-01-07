@@ -1,7 +1,7 @@
 ---
 tags: vTaiwan
 ---
-# 20251217 小松
+# 20250107 小松
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
@@ -40,24 +40,21 @@ https://www.vtaiwan.tw/jitsi
 :::
 
 ## 小小的分享：
-- Peter 跟翊婷入選[2026台灣網路學院網路領導人才培訓營](https://twnic.tw/blog/contents.php?id=40&lang=zh-tw)
-    - ICANN / IETF / APNIC 
-- [青年志工中心年度培力](https://docs.google.com/presentation/d/1hZ1_FCx3TZp5PrEYNiu6GdUoS-UxCsEbwWriiuTefqQ/edit?usp=sharing)
-    - 手把手帶青年志工玩 polis 
+### vTaiwan 2026 想要做的事情！
+- 繼續辦議題小聚！
+- 更新網站部落格與文章！
+- 接觸更多元的組織與議題！
+- 與國發會接觸與討論合作！
 
-## 拜會國發會
-- 信件本週把信件定稿，聯繫專員
+### 教育電台錄音分享
+- 2026 1/8 Peter 會前往教育廣播電台錄音
+- [創青宅急便](https://www.ner.gov.tw/program/5a83f4eac5fd8a01e2df01a1)
+- 會討論
+    - 
 
 
-## 近期在 vTaiwan 頻道討論的文章
-- [The AI democracy debate is weirdly narrow](https://www.programmablemutter.com/p/the-ai-democracy-debate-is-weirdly)
-- 繼續營運 [name=翊婷]
+## vTaiwan 年末聚會
 
-## 新的議題小聚
-- 與 TWNIC 的合作
-- 確定會辦新的活動
-- 新的思考方向：以政策為主題還是以事件為主題 [name=翊婷]
-    - 比較抽象 / 比較具體 [name=peter]
-- 在建立審議與收集意見的過程也要特別留意 [name=tim]
-- 接觸對象與多元意見的問題：要確認可以如何接觸倒比較多元的意見。同時也要注意意見中夾雜極端情緒、不實資訊
-    - 如何設定與執行規則？[name=peter]
+
+
+## 有沒有其他想做的事情？
