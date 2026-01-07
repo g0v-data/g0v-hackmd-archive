@@ -91,11 +91,11 @@ https://www.vtaiwan.tw/jitsi
         - 做一個開源軟體
             - 幫助人們分析脆上的輿情，讓使用者自己在 zeabur 上部署服務，自己用多少花多少 :D
             - https://www.threads.com/@ray.realms/post/DNuX-sC5LXb
+            - 關於開發的活動請找 Tofus
+                - tofus@zeabur.com
 
 ## vTaiwan 年末聚會
 - 原先的聚會時間過期了，目前會找其他時間
 - 大家1/21那週有空嗎
-- 
-
-
-## 有沒有其他想做的事情？
+- 暫定1/23 （五）晚上
+    - 
