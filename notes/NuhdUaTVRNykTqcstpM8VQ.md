@@ -16,10 +16,10 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 ## 以下是 g0v slack 頻道列表與簡介<br>》歡迎協助 (1) 提供中文簡短介紹、(2) 將簡介翻譯成英文 🙏
 
 g0v Slack Channel Guide 頻道傳送門
-．Global & Local：46 個頻道
-．Infra / G0vernace：48 個頻道
+．Global & Local：50+ 個頻道
+．Infra / G0vernace：50+ 個頻道
 ．Edu / Learning / Health / Livingl：60+ 個頻道
-．Open Gov & Projects：105+ 個頻道
+．Open Gov & Projects：100+ 個頻道
 
 ### Global & Local
 #general 社群大廳，可以在這邊提出任何問題！ G0v City Hall / Plaza
@@ -51,6 +51,7 @@ g0v Slack Channel Guide 頻道傳送門
 #hk https://github.com/g0vhk-io
 #hkpwparagliding 飛行傘計畫
 #china
+#philippines_filipinos_菲律賓地理與文化
 #india
 #myanmar
 #thai-ภาษาไทย 泰國與泰語
@@ -59,6 +60,8 @@ g0v Slack Channel Guide 頻道傳送門
 #malaysia-馬來西亞
 #indonesia-印尼
 #australia 澳洲
+#newzealand_紐西蘭 
+#pacific_太平洋
 #north-america 想在美國協作的可以來這邊聊天喔！
 #g0v-siliconvalley g0v 矽谷灣區小聚
 #brazil
@@ -168,15 +171,18 @@ g0v Slack Channel Guide 頻道傳送門
 #frontend-tech
 #vue
 #linux-odyssey 互動式 Linux 指令學習網站
-#clickhouse
+#clickhouse 
+#functional-thursday 函數式程式設計 (Functional Programming) 交流社群，每月舉辦活動哦 !
 #robot
 #ai-learning
 #llm4myhometown
 #opentaiwan-chatgpt
 #zen-gpt
 #coscup 開源人年會
+#hackit 由青少年打造的創意程式社群 https://www.hackit.tw/zh-TW
 #obs 開源跨平台串流媒體和錄影程式 obs 技術交流頻道
 #band 零時樂團 :musical_score:
+#hepai-harmony-ai 結合人工智慧（AI）與音樂理論的和聲學分析應用程式
 #stayathome 宅在家的生活資訊
 #health 健康議題、健檢
 #medicineeasy 藥品仿單易讀化
@@ -269,7 +275,7 @@ g0v Slack Channel Guide 頻道傳送門
 #atak 探討 ATAK-CIV 手機軟體應用於防災、民防、戶外任務情境
 #mesh Meshtastic Taiwan Community 臺灣鏈網
 #disaster-go 任務化提升台灣防災準備
-#心家園
+#心家園_災害復原重建 
 #gis 地理資訊、地理資料 :earth_asia: Geo-data
 #energy 能源議題頻道
 #rentea 租屋資料與議題
@@ -285,14 +291,15 @@ g0v Slack Channel Guide 頻道傳送門
 #taisugar-railway 糖業鐵路產業地景
 #urbancode 都市計畫 / 都委會會議記錄資料庫
 #poponfire-公有地大行動 公有土地資料與地圖 Public Land Data
-#心家園_臨時住宅與永久屋_資料庫 
 #joinplus-關注公民參與的數位工具
 #carbon
+#ocean
 #marine-debris 討論海洋廢棄物
 #river 河流與流域
 #super-agri 超農域，農藥查詢系統，南庄桐花松，農業資料與專案 :ear_of_rice: Agriculture related projects
 #tree 遙測算樹、圖資找地、倡議種樹 :deciduous_tree:
 #food
+#glutenfreetw
 #gf-tw 無麩質安全網 gluten free
 #foodlessons 食食課課 從食物連結生活與文化
 #foodsharing_taiwan 推動食物分享
@@ -301,7 +308,7 @@ g0v Slack Channel Guide 頻道傳送門
 #吉祥物資料蒐集_マスコット_mascot 一起來建立吉祥物資料庫～目前已蒐集 1300 多個角色囉! :sun_with_face:
 #未來日誌 預測與推估內容的結構化 :chart_with_upwards_trend: future predictions
 
-## slack 頻道內容備份網址 (感謝 Ronny :祈禱:)
+## slack 頻道內容備份網址 (感謝 Ronny !)
 
 https://g0v-slack-archive.g0v.ronny.tw
 
@@ -313,11 +320,10 @@ https://g0v-slack-archive.g0v.ronny.tw
 ．g0v 灣區社群: https://www.facebook.com/groups/824770435679041/
 
 ## 非 slack 的討論區：Discord
-．Code for Taiwan Discord：https://discord.com/invite/pRFjDXeFyv
 ．【Cofacts 真的假的】Discord: https://discord.gg/mmZS9sZuau
 ．確診者足跡地圖 Discord: https://discord.gg/ePKuRGE9sF
-
-零時小學校 Discord: https://discord.gg/csDjWBbhvf
+．零時小學校 Discord: https://discord.gg/csDjWBbhvf
+．島島阿學 Discord: https://discord.com/invite/2NbQ7cu6jH
 ．UniCourse 大學課程資訊交流平臺 Discord: https://discord.gg/VtFzwAdrXF
 ．Lipoic 遠距授課與線上教室平台 Discord: https://discord.gg/ArKk54ajfr
 ．翻轉歷史! 用Minecraft RPG 學歷史吧! Discord: https://discord.gg/e6vhTq43gs
@@ -331,6 +337,7 @@ https://g0v-slack-archive.g0v.ronny.tw
 ．中部高中電資社團聯合會議 Discord: https://discord.com/invite/At7r54v94c
 ．南臺灣學生資訊社群 Discord: https://discord.gg/6QW6gqhHQe
 ．伴伴學 Discord: https://discord.gg/azQUs8Y2fY
+．Code for Taiwan Discord：https://discord.com/invite/pRFjDXeFyv
 ．Code for Korea Discord https://discord.gg/xNNvfhJUV5
 
 ---
