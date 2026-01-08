@@ -117,7 +117,7 @@ g0v Slack Channel Guide 頻道傳送門
 #engaged-research 以 g0v 為主的學術研究 Academic research on g0v and community projects
 #g0v-social creating g0v.social, a decentralized social network
 #sns g0v sns 平台規範、發文討論區
-#jothon-media-ig-fb-line-newsletter 揪松團的 SNS 與受眾溝通
+#jothon-media-sns-ig-fb-line-newsletter 揪松團的 SNS 與受眾溝通
 #news g0v news
 #g0vpodcast g0v underground 零時電台 https://linktr.ee/g0vpodcast
 #summit g0v Summit 年會的公開頻道 https://summit.g0v.tw/
@@ -313,9 +313,11 @@ https://g0v-slack-archive.g0v.ronny.tw
 ．g0v 灣區社群: https://www.facebook.com/groups/824770435679041/
 
 ## 非 slack 的討論區：Discord
+．Code for Taiwan Discord：https://discord.com/invite/pRFjDXeFyv
 ．【Cofacts 真的假的】Discord: https://discord.gg/mmZS9sZuau
 ．確診者足跡地圖 Discord: https://discord.gg/ePKuRGE9sF
-．零時小學校 Discord: https://discord.gg/csDjWBbhvf
+
+零時小學校 Discord: https://discord.gg/csDjWBbhvf
 ．UniCourse 大學課程資訊交流平臺 Discord: https://discord.gg/VtFzwAdrXF
 ．Lipoic 遠距授課與線上教室平台 Discord: https://discord.gg/ArKk54ajfr
 ．翻轉歷史! 用Minecraft RPG 學歷史吧! Discord: https://discord.gg/e6vhTq43gs
