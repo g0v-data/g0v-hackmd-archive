@@ -58,6 +58,7 @@ https://www.npm.gov.tw/Articles.aspx?sno=03012532&l=1
 
 北海岸
 https://www.facebook.com/share/p/15xaBdVUQ5/
-2025 徒步環島
-2025 火車環島
+徒步環島 https://www.facebook.com/share/p/1CK1fohbPV/
+火車環島
+https://www.facebook.com/share/p/1DVz6XwY6s/
 
