@@ -5,21 +5,6 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 目錄
 [TOC]
 :::
-set acc1=你的帳號
-set pw1=你的密碼
-powershell -Command "Add-Computer -DomainName 'chainlon.net' -Credential (New-Object System.Management.Automation.PSCredential('chainlon\%acc1%', (ConvertTo-SecureString '%pw1%' -AsPlainText -Force)))
-
-```
-@robocopy "\192.168.5.51\f$\Public" "E:\Public"  /mir /r:1 /w:3
-@robocopy "E:\Public\21Software" "T:\21Software"  /mir /r:1 /w:3
-@robocopy "E:\Public\22MicroSoft" "T:\22MicroSoft"  /mir /r:1 /w:3
-@robocopy "E:\Public\23ISO" "T:\23ISO"  /mir /r:1 /w:3
-@robocopy "E:\Public\24Tools" "T:\24Tools"  /mir /r:1 /w:3
-@robocopy "E:\Public\25OS_IMG" "T:\25OS_IMG"  /mir /r:1 /w:3
-@robocopy "D:\11Ken\Outlook\" "J:\NAS_Backup\Homes\ken.luo\32Outlook"
-``` 
-
-
 
 #### 常用連結
 Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
