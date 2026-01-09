@@ -117,6 +117,7 @@ https://g0v.hackmd.io/R_BhZDNNQ-C8CAoTJ58ZSg
 - 紐約民間團體針對租屋，發起的資料專案（該地點的歷史租金）、租客權益工具，[相關網址](https://www.facebook.com/story.php?story_fbid=pfbid0cJ9dT2CLNU2x2dhDfsdgp7spPPFvwJmHEHbrvEmnWDJCFFagaHw6pB7heut2fdgPl&id=1509819323)
 
 租金地圖、租屋平台網站
+- 內政部租金地圖 https://moisagis.moi.gov.tw/rent/?fbclid=IwRlRTSAPN3vdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEefPnTAcFKQsNEXe5NdC0_-GbCA6xXiasPf5x4OzD8SgxXMEWonJ4G9aLzVqs_aem_FdEKA_XAk4ZQ_UF4Oyld_g
 - 租金地圖：https://map.hiroommates.tw/
 - 臺北_大學租金地圖 by 地政局
     - https://www.facebook.com/share/p/1BBoTsiF9m/
