@@ -5,10 +5,9 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 目錄
 [TOC]
 :::
-@echo Windows 安裝 .NET 3.5，請先掛載Windows ISO，以下指令ISO位於D:
-@準備好之後再繼續
-@pause
-@Dism.exe /online /enable-feature /featurename:NetFX3 /All /LimitAccess /Source:"D:\sources\sxs")
+set acc1=你的帳號
+set pw1=你的密碼
+powershell -Command "Add-Computer -DomainName 'chainlon.net' -Credential (New-Object System.Management.Automation.PSCredential('chainlon\%acc1%', (ConvertTo-SecureString '%pw1%' -AsPlainText -Force)))
 
 ```
 @robocopy "\192.168.5.51\f$\Public" "E:\Public"  /mir /r:1 /w:3
