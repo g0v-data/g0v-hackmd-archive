@@ -6,7 +6,7 @@ title: DigiResiTh13n 第拾參次數位韌性松
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
-# 20260118（暫） DigiResiTh13n 第拾參次數位韌性松
+# 20260118 DigiResiTh13n 第拾參次數位韌性松
 
 {%hackmd VkctH3USQ-yoB6hw2s2D0Q %}
 

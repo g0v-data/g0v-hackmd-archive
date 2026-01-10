@@ -14,7 +14,7 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 - ❌ 基於本棟建物為多個單位共同使用，無法攜帶寵物進入 NPO HUB，請見諒。
 - ⚠ **維護場地整潔**
     - 廁所衛生紙請丟入馬桶。
-    - 垃圾確實分類。
+    - 垃圾不能丟在走廊，垃圾確實分類，廚餘請自行帶走。
 
 ### 行為守則
 - ⚠ 當次活動全體參與者須同意並遵守 [g0v 宣言](https://g0v.tw/intl/zh-TW/manifesto/zh-TW/) 與 [行為守則 Code of Conduct](https://g0v.hackmd.io/s/COC)。
@@ -25,6 +25,15 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 ## 場地路線圖
 :::
 
+### 二樓
+
+咖博館門口左側，一樓的騎樓，有樓梯可以到二樓
+
+
+
+
+---
+:::spoiler 其他
 ### 4F 廚房怎麼去
 [How to find g0vers at NPO Hub Taipei ? ENGLISH ver.](https://g0v.hackmd.io/c5M4QBvwTfKQWMTOmzVsDw) `by chihao`
 
@@ -38,4 +47,4 @@ tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense
 
 ### NPO HUB 4 樓平面圖
 ![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_b57d83f5a6a43403acab74e077a90b2d)
-
+:::

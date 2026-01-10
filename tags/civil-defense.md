@@ -41,4 +41,3 @@
 | 37 | [DigiResiThon 數位韌性松 bootstrapping](../notes/Qc8gsyY-Rn-4lXUA1gLH1g.md) | 2024-01-31T13:24:29+00:00 | 2023-12-30T08:19:42+00:00 |
 | 38 | [g0v 數位韌性松之  Digital Resiliency Firmware Update](../notes/Ex7L9ag7QfOnJXkwyz5iqg.md) | 2023-11-15T08:52:11+00:00 | 2023-11-04T05:49:47+00:00 |
 | 39 | [IG 不能動，還有什麼值得我心痛：為什麼要辦「假設網路斷光光」的 g0v 數位韌性黑客松](../notes/qkj6dwSFS0q8zpZO4-GxOQ.md) | 2023-11-08T14:54:28+00:00 | 2023-11-08T10:26:02+00:00 |
-| 40 | [韌性松場地路線圖及使用規定](../notes/9pwDPOXLTr6IJKiLofl3qg.md) | 2023-11-03T15:14:17+00:00 | 2023-11-03T14:51:11+00:00 |
