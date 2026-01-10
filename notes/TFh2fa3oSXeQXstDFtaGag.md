@@ -13,6 +13,10 @@ https://maps.app.goo.gl/S2vwgLF4RRtdKJ1B8
 編輯網址：
 https://www.google.com/maps/d/edit?mid=1aFMHm0EAtRgxFf7Wgg3dhSQkgMkfgT4&usp=sharing
 
+---
+圖片素材蒐集相簿
+https://photos.app.goo.gl/yAvFyHfF4hNMnY6r6
+
 ## 參考
 
 日本『完全踏査  古代の道』（武部健一著/吉川弘文館）用 QGIS 套疊
@@ -41,6 +45,7 @@ https://www.facebook.com/share/p/17Vj6BV74F/
 森丑之助 https://photos.app.goo.gl/ha15KLuqbdZBNbePA
 鳥居龍藏 https://photos.app.goo.gl/HPjbAgxSZpBHvZCt6
 鹿野忠雄 https://g0v.hackmd.io/d7LoE2oHQFCYalTEWrt4aw?view
+1921 英領北婆羅洲政廳理民官魯特（Edward Owen Rutter, 1889-1944），於1921年4月3日至11日在臺灣做由南到北的旅行，前後九天 https://www.thenewslens.com/article/83104
 川上瀧彌
 https://www.facebook.com/share/p/1F76Vzgvaq/
 江阿讓-樟腦產業
