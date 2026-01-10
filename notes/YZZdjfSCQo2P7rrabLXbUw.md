@@ -59,6 +59,8 @@ https://www.youtube.com/live/dgAEF2ppKg8?si=p-si6O8N2AbKzfVa
 https://poki.com/zh#
 poki https://poki.com/zh#utm_source=redirect-en-zh
 happy-glass    https://poki.com/zh/g/happy-glass
+https://doodles.google/
+
 遊戲網站    https://www.crazygames.com
 遊戲網站    https://cn.game-game.com
 遊戲天堂    https://www.i-gamer.net/
