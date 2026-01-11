@@ -41,6 +41,7 @@ https://www.facebook.com/groups/196846977135110?multi_permalinks=315676606114317
 ？
 https://www.facebook.com/share/p/17Vj6BV74F/
 巴爾頓與濱野彌四郎 https://photos.app.goo.gl/AVFicc4LwHX3tbsD7
+1916 五月，臺灣旅行記 (摘自 臺灣修學旅行報告書，原著：中華民國福建省立甲種農業學校學生 邱文鸞、劉範徵、謝鳴珂；黃育智編譯)
 伊能嘉矩 https://photos.app.goo.gl/amrUaB3sHfCMUDVG8
 森丑之助 https://photos.app.goo.gl/ha15KLuqbdZBNbePA
 鳥居龍藏 https://photos.app.goo.gl/HPjbAgxSZpBHvZCt6
