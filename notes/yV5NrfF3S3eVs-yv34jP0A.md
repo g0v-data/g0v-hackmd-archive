@@ -6,8 +6,6 @@ tags: g0v-siliconvalley
 
 - 時間：2026/01/24 週六 14:00-18:00
 - 地點：Startup Island TAIWAN - Silicon Valley Hub
- [停車與教室地圖](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F559299339%2F561761291079%2F1%2Foriginal.20230720-232518?h=2000&w=720&auto=format%2Ccompress&q=75&sharp=10&s=517bdc38e53d54b9fc068ce31e0e8d40) [target=_blank]
-- 主持人：
 
 
 
@@ -82,7 +80,7 @@ tags: g0v-siliconvalley
 
 
 ## 活動贊助＆本次志工
-- 場地贊助：Tiffany、Stanford 哲學社
+- 場地贊助：Startup Island TAIWAN - Silicon Valley Hub
 - 食物贊助：
 - 協作志工：
 
