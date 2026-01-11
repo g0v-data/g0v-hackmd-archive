@@ -48,6 +48,7 @@ https://www.facebook.com/share/p/17Vj6BV74F/
 鳥居龍藏 https://photos.app.goo.gl/HPjbAgxSZpBHvZCt6
 鹿野忠雄 https://g0v.hackmd.io/d7LoE2oHQFCYalTEWrt4aw?view
 1921 英領北婆羅洲政廳理民官魯特（Edward Owen Rutter, 1889-1944），於1921年4月3日至11日在臺灣做由南到北的旅行，前後九天 https://www.thenewslens.com/article/83104
+1923 Harry Alverson Franck，旅程：1923年10月中到11月底
 川上瀧彌
 https://www.facebook.com/share/p/1F76Vzgvaq/
 江阿讓-樟腦產業
