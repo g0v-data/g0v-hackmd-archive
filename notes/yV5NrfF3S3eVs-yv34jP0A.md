@@ -5,7 +5,7 @@ tags: g0v-siliconvalley
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
 - 時間：2026/01/24 週六 14:00-18:00
-- 地點：Startup Island TAIWAN - Silicon Valley Hub
+- 地點：Jen-Hsun Huang Engineering Center 475 Via Ortega 3rd Floor, Stanford, CA 94305
 
 
 
