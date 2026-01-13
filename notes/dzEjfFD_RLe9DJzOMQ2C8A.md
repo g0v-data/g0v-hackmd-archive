@@ -17,7 +17,7 @@ title: DigiResiTh13n 第拾參次數位韌性松
 :::success
 報名流程及注意事項
 1. 當您參與本活動，即代表您已經同意 [g0v 宣言](https://g0v.tw/intl/zh-TW/manifesto/zh-TW/) 並願意遵守 [行為守則 Code of Conduct](https://g0v.hackmd.io/s/COC)。
-2. 若欲報名活動，請直接在 [KKTIX 報名連結](https://g0v-digiresi.kktix.cc/events/digiresith12n) 逕行報名
+2. 若欲報名活動，請直接在 [KKTIX 報名連結](https://g0v-digiresi.kktix.cc/events/digiresith13n) 逕行報名
 :::
 
 :::warning
@@ -48,8 +48,8 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
-| insert content here | insert name here | insert content here |
-| insert content here | insert name here | insert content here |
+| 冷接光纖 | insert name here | insert content here |
+| 海纜檢測 | Irvin | insert content here |
 | insert content here | insert name here | insert content here |
 | insert content here | insert name here | insert content here |
 | insert content here | insert name here | insert content here |
