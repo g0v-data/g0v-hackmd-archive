@@ -9,8 +9,8 @@
 
 ## :eyes: 上次會議跟進事項
 
-- [ ] Devops manual: Update README.md
-- [ ] Devops manual: Create AGENTS.md
+- [x] Devops manual: Update README.md
+- [x] Devops manual: Create AGENTS.md
 - [ ] Devops manual: Add Github Claude workflow
 
 ## 專案進度與討論摘要
@@ -25,11 +25,4 @@
     > 看起來仍然是 url-resolver 使用太多 RAM 使系統 RAM 超過臨界
     > SSH 進去重開 url resolver 之後狀況解除
     > 工程方向仍是把 url-resolver 搬出去
-
-### GitHub
-- [cofacts/takedowns] Privacy takedown notice 新增與關閉
-  - [Add 2024/07/22 privacy takedown notice](https://github.com/cofacts/takedowns/pull/279)
-- [cofacts/rumors-deploy]
-  - [Use env_file instead of environment in docker-compose files](https://github.com/cofacts/rumors-deploy/issues/37)
-  - [Move all environment variables to dedicated env files](https://github.com/cofacts/rumors-deploy/pull/38)
 
