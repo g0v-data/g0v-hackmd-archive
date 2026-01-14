@@ -5,7 +5,9 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants： 
+參與者 Participants： Peter, Tim, 
+![](https://g0v.hackmd.io/_uploads/B1xwg3grBZl.png)
+![](https://g0v.hackmd.io/_uploads/Bkwl2eHB-l.png)
 
 
 https://www.vtaiwan.tw/jitsi
@@ -40,3 +42,28 @@ https://www.vtaiwan.tw/jitsi
 :::
 
 ## 小小的分享：
+### 上週完成的事情：
+- 前往國立教育廣播電台「創青宅急便」節目，錄製分享。分享 vTaiwan 社群的經營經驗
+
+
+## 投稿 g0v Summit 
+- 主題？
+- 分享的內容？
+- 下週會有一個草稿
+
+
+## 下一步的行動
+### 與國發會法制協調組約一個會議
+- 討論看看把部分 join 平台的資料開放讓社群利用的可能性
+- 約在過年之後來一次實體的拜訪
+- 拜訪會跟大家討論
+
+### Eli 民防手冊審議方向
+
+### 今年跟 TWNIC 合作的內容 w/ 翊婷
+
+## 更新
+- Agora 的平台有整合 sensemaker 的功能了！
+    -  https://github.com/g0v/sensemaker-frontend/issues/48 
+- 接下來也要許願更多新的功能
+- 

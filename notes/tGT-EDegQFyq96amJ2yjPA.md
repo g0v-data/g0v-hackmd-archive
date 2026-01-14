@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants： 
+參與者 Participants： Peter, Josh, Tofus, Tim 
 
 
 https://www.vtaiwan.tw/jitsi
