@@ -20,7 +20,8 @@ https://photos.app.goo.gl/yAvFyHfF4hNMnY6r6
 ## 參考
 
 日本『完全踏査  古代の道』（武部健一著/吉川弘文館）用 QGIS 套疊
-https://www.facebook.com/groups/196846977135110?multi_permalinks=3156766061143172
+https://www.facebook.com/groups/chizutochimei/posts/3154692704683841/
+https://www.facebook.com/groups/chizutochimei/posts/3156766061143172/
 
 ## 待登載區
 
@@ -44,9 +45,14 @@ https://www.facebook.com/groups/196846977135110?multi_permalinks=315676606114317
 巴爾頓與濱野彌四郎 https://photos.app.goo.gl/AVFicc4LwHX3tbsD7
 伊能嘉矩 https://photos.app.goo.gl/amrUaB3sHfCMUDVG8
 
+1912 賴和與杜聰明，從台北走到彰化
+- https://g0v.hackmd.io/rZcXZzpGQmWxguNhbCogPQ?view
+
 1912 農曆正月初三，施景琛，來台考察，福州、廈門、淡水，三個星期，撰寫鯤瀛日記，訪問辜顯榮；1949 來台，1955 病逝臺灣
+
 1916 五月，臺灣旅行記 (摘自 臺灣修學旅行報告書，原著：中華民國福建省立甲種農業學校學生 邱文鸞、劉範徵、謝鳴珂；黃育智編譯)
-1916-1919 Alice Josephine Ballantine Kirjassoff，臺灣專題首度登上《國家地理雜誌》，是這篇1920年3月號的專題文章〈福爾摩沙．美麗之島〉。作者的外交官夫婿馬克斯．柯潔索夫在1916至1919年間擔任美國駐臺北領事，這篇報導在兩人離臺後刊登。由於作者的身分，以及柯潔索夫領事與臺灣總督府官員的良好關係，因此她能夠從日本官方取得許多資料與第一手影像圖檔。可惜不久後柯潔索夫夫婦在1923年9月的關東大地震中英年早逝，《國家地理雜誌》對於日治時期臺灣的報導幾乎就此絕響，直至1945年才刊登愛麗絲的外交官哥哥約瑟夫．包蘭亭（Joseph W. Ballantine）所寫二戰期間臺灣的相關報導。 https://www.books.com.tw/products/0010808391
+
+1916-1919 Alice Josephine Ballantine Kirjassoff，臺灣專題首度登上《國家地理雜誌》，是這篇1920年3月號的專題文章〈福爾摩沙．美麗之島〉。作者的外交官夫婿馬克斯．柯潔索夫在1916至1919年間擔任美國駐臺北領事，這篇報導在兩人離臺後刊登。由於作者的身分，以及柯潔索夫領事與臺灣總督府官員的良好關係，因此她能夠從日本官方取得許多資料與第一手影像圖檔。可惜不久後柯潔索夫夫婦在1923年9月的關東大地震中英年早逝，《國家地理雜誌》對於日治時期臺灣的報導幾乎就此絕響，直至1945年才刊登愛麗絲的外交官哥哥約瑟夫．包蘭亭（Joseph W. Ballantine）所寫二戰期間臺灣的相關報導。　https://www.books.com.tw/products/0010808391
 
 1899-19XX 森丑之助 https://photos.app.goo.gl/ha15KLuqbdZBNbePA
 鳥居龍藏 https://photos.app.goo.gl/HPjbAgxSZpBHvZCt6
@@ -58,9 +64,7 @@ https://www.facebook.com/groups/196846977135110?multi_permalinks=315676606114317
 
 川上瀧彌 https://www.facebook.com/share/p/1F76Vzgvaq/
 江阿讓-樟腦產業 https://www.facebook.com/share/1AbUFLsehz/
-賴和 
-- https://cowrite30.com/2024/05/20/raknus2024-05/
-- https://www.hakkatv.org.tw/series/1624270016501151
+
 
 故宮文物路線
 - https://zh.wikipedia.org/zh-tw/%E5%9B%BD%E5%AE%9D%E5%8D%97%E8%BF%81

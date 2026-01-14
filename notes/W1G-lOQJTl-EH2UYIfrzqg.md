@@ -22,6 +22,10 @@ WebGIS: https://rekichizu.jp/map/
 向量圖磚: https://mierune.github.io/rekichizu-data/tiles/v1/{z}/{x}/{y}.pbf
 圖磚樣式: https://mierune.github.io/rekichizu-style/styles/street/style.json
 
+日本『完全踏査  古代の道』（武部健一著/吉川弘文館）用 QGIS 套疊
+https://www.facebook.com/groups/chizutochimei/posts/3154692704683841/
+https://www.facebook.com/groups/chizutochimei/posts/3156766061143172/
+
 從幕末到現代的札幌歷史互動地圖
 https://x.com/chizutodesign/status/1973198762463121887
 
