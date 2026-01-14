@@ -26,21 +26,29 @@ https://www.facebook.com/groups/chizutochimei/posts/3156766061143172/
 ## 待登載區
 
 徹底再現三萬年前航海 學古人從台灣划到日本沖繩 https://dq.yam.com/post/9978
+
 蘭嶼達悟族 2025 年秋天將勇渡巴丹島 https://photos.app.goo.gl/YXMfQVNQifobUq6q6
 
 海岸阿美族神話中，祖先的遷徙路徑 https://www.facebook.com/share/1GFGoJpvaE/
+
 北部泰雅移動路徑
 
-1603 陳第，本為古北口遊擊將軍，後解甲歸田，回到福建福州連江。陰曆萬曆三十年尾（陽曆1603年初），明朝將軍沈有容為了去驅逐假倭而發兵至今台灣安平外海，邀請陳第隨從。事後，陳第將當時約二十多天的經歷（萬曆三十年十二月七日即1603年1月18日出征、十日即1月21日抵達、三十除夕即2月10日離開），告知其好友陳學伊，陳學伊認為此事不可無記，力勸其記錄為文，作成〈東番記〉一文，文中可能亦收錄有沈有容出征前秘密招聘漁人所收集有關台灣的情報，收錄在沈有容輯《閩海贈言》一書中。當時也有人質疑，海寇盤據東番，而東番不屬中國，沒理由在版圖以外用兵，陳第也為文幫沈有容辯解。
+1603 陳第，本為古北口遊擊將軍，後解甲歸田，回到福建福州連江。陰曆萬曆三十年尾（陽曆1603年初），明朝將軍沈有容為了去驅逐假倭而發兵至今台灣安平外海，邀請陳第隨從。事後，陳第將當時約二十多天的經歷（萬曆三十年十二月七日即1603年1月18日出征、十日即1月21日抵達、三十除夕即2月10日離開），告知其好友陳學伊，陳學伊認為此事不可無記，力勸其記錄為文，作成〈東番記〉一文，文中可能亦收錄有沈有容出征前秘密招聘漁人所收集有關台灣的情報，收錄在沈有容輯《閩海贈言》一書中。當時也有人質疑，海寇盤據東番，而東番不屬中國，沒理由在版圖以外用兵，陳第也為文幫沈有容辯解。https://zh.wikipedia.org/zh-tw/%E6%9D%B1%E7%95%AA%E8%A8%98
 
 1654 荷蘭人北部調查 https://www.facebook.com/share/p/19wzbpAG1N/
+
 1697 郁永河《裨海紀遊》 https://photos.app.goo.gl/1zDiwTNRDtMeyhBU7
+
 17xx 貝紐夫斯基 宜蘭 https://www.facebook.com/share/p/1C5vABaCA8/
+
 1817—1883 吳子光 https://taicool.ith.sinica.edu.tw/browse-ebook.html?id=EB0000000036；https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%AD%90%E5%85%89
+
 1851 西鄉隆盛，宜蘭 https://www.taiwanembassy.org/jpfuk/post/8697.html
+
 1865 必麒麟與馬雅各 https://photos.app.goo.gl/m1Fyye2Z3WUMr45U6
 1866 必麒麟 https://photos.app.goo.gl/m1Fyye2Z3WUMr45U6
 1871 湯姆生與馬雅各 https://photos.app.goo.gl/m1Fyye2Z3WUMr45U6
+
 馬偕 https://photos.app.goo.gl/af7M1gur7tMVrDdj7
 胡傳 (胡適父親) https://photos.app.goo.gl/saRc1kAhxZdpAagx6
 
