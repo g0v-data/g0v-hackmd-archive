@@ -325,6 +325,8 @@ Hackfoldr [http://hackfoldr.org/gxv](http://hackfoldr.org/gxv)
 - [周永康案關係圖](http://datanews.caixin.com/2014/zhoushicailu/) by [财新数据新闻与可视化实验室 | Data Journalism & Visualization Lab](http://datanews.blog.caixin.com/)
 - 海航及关联人物／公司在美房产分布图和列表
     - [http://chinadigitaltimes.net/chinese/2017/08/%E6%B5%B7%E8%88%AA%E5%8F%8A%E5%85%B3%E8%81%94%E4%BA%BA%E7%89%A9%EF%BC%8F%E5%85%AC%E5%8F%B8%E5%9C%A8%E7%BE%8E/](http://chinadigitaltimes.net/chinese/2017/08/%E6%B5%B7%E8%88%AA%E5%8F%8A%E5%85%B3%E8%81%94%E4%BA%BA%E7%89%A9%EF%BC%8F%E5%85%AC%E5%8F%B8%E5%9C%A8%E7%BE%8E/)
+- KK 園區
+    - https://www.facebook.com/share/p/1BCob5KRye/?mibextid=wwXIfr
 
 亞洲
 - [SINGAPORE’S STRAITS CHINESE BANKING FAMILIES 新加坡海峡华人银行家族](http://thehearttruths.com/2014/09/10/singapores-straits-chinese-banking-families-%e6%96%b0%e5%8a%a0%e5%9d%a1%e6%b5%b7%e5%b3%a1%e5%8d%8e%e4%ba%ba%e9%93%b6%e8%a1%8c%e5%ae%b6%e6%97%8f/) (Roy Ngerng Yi Ling 鄞义林製作)
