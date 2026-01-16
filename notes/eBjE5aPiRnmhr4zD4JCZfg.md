@@ -25,3 +25,9 @@ tags: 都市農耕
 :::
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1U8yp4SZZn81OqXad1ztdObHf2is&hl=en_US&ehbc=2E312F" width=100% height="500"></iframe>
+
+---
+
+## 工作討論串
+
+https://www.facebook.com/groups/851321448229543/posts/7658113624216924/

@@ -84,10 +84,11 @@ tags: 都市農耕
 ## 各縣市市區農耕經驗，社區農園，生活農耕，高齡者，醫院院區，屋頂農耕..等
 - How does public participation influence food-production in urban gardens? A Case Study of ‘Garden City’ in Taipei, Taiwan
     - https://edepot.wur.nl/518999
-    - Lin, Chia-Ju
     - 2020
+    - Lin, Chia-Ju
 - Governing urban gardens for resilient cities: Examining the ‘Garden City Initiative’ in Taipei
     - https://journals.sagepub.com/doi/abs/10.1177/0042098018778671
+    - 2018
     - Jeffrey Hou
     - 摘要：隨著對糧食安全和氣候適應問題的關注不斷上升，城市園藝和城市農業已成為全球城市復原力方面日益突出的議程。在東亞，近年來出現了各種各樣的舉措，得到了不同程度的製度性支持。本文重點介紹台北的案例。該城市近年來發動了充滿活力的都市農業運動。我們探討了台北新的“田園城市倡議”的持續成果，該舉措支持建立包括社區田園、屋頂田園和學校田園在內的城市田園。根據2014年至2017年期間在初期倡導、規劃和實施階段的訪談和參與者觀察，本研究考察了該計劃的背景、政府和非政府主體的參與、以及計劃的持續實施。基於調查結果，本文進一步思考了這些舉措對面臨當代環境、政治和社會挑戰的城市治理實踐的影響。台北案例提出了一種模式，其中，政策的製定和實施可能需要體制內和民間社會中各種主體和組織的機會主義行動。這種嘗試可能需要對現有官僚結構進行策略性調整，同時調動其優勢和資源，而不是進行劇烈的變革或立即進行機構重組。此外，儘管民間社會組織發揮了關鍵作用，但台北案例還顯示出相當大的公共部門投資。這與主流的新自由主義治理模式不同，在其他地方，後者往往與城市田園計劃聯繫在一起。
 - Edible Garden Initiative of Taipei City
@@ -96,17 +97,17 @@ tags: 都市農耕
     - Authors: Wan-Yu Shih, Erich Hellmer, Anina Hartung
 - Integration of knowledge systems in urban farming initiatives: insight from Taipei Garden City
     - https://link.springer.com/article/10.1007/s11625-022-01196-x
-    - Leslie Mabon, Wan-Yu Shih & Sue-Ching Jou
     - 2022
+    - Leslie Mabon, Wan-Yu Shih & Sue-Ching Jou
     - https://www.facebook.com/story.php?story_fbid=pfbid029U9uybAjf21aquzHRgVWzNmicPh29YWKGTBfHNZ3DCcX9Xjvja3H3KCuLsgHrhgYl&id=1277154167
 - How Does Urban Farming Benefit Participants? Two Case Studies of the Garden City Initiative in Taipei
     - https://www.mdpi.com/2073-445X/12/1/55
     - 2023
 - Exploring the Potential Contributions of Urban Agriculture in Building Resilient Taipei
     - https://www.researchgate.net/publication/292526913_Exploring_the_Potential_Contributions_of_Urban_Agriculture_in_Building_Resilient_Taipei
-https://www.researchgate.net/profile/Yun_Tsui_Chang/publications
-    - Yun-Tsui Chang
+    - https://www.researchgate.net/profile/Yun_Tsui_Chang/publications
     - 2015
+    - Yun-Tsui Chang
 - 土地遠距連接、治理與都市永續性-都市藍綠基盤之治理及其遠距連接
     - 2019
     - https://www.grb.gov.tw/search/planDetail?id=12377009
