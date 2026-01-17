@@ -1,6 +1,79 @@
 LeetCode-easy
 ===
 [toc]
+# Linked List
+## Linked List Cycle
+:::info
+Given head, the head of a linked list, determine if the linked list has a cycle in it.
+
+There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer. Internally, pos is used to denote the index of the node that tail's next pointer is connected to. Note that pos is not passed as a parameter.
+
+Return true if there is a cycle in the linked list. Otherwise, return false.
+![](https://g0v.hackmd.io/_uploads/BJx3M2gYBZl.png)
+
+![](https://g0v.hackmd.io/_uploads/SJxCznxYS-g.png)
+
+:::
+```
+使用龜兔賽跑的原理證明listnode有circle，slow為烏龜，每次移動一步，fast為兔子，每次移動兩步，如果fast==slow時，代表listnode有circle
+class Solution(object):
+    def hasCycle(self, head):
+        """
+        :type head: ListNode
+        :rtype: bool
+        """
+        slow=head #設slow和fast為開頭
+        fast=head
+        while fast and fast.next : #要確保fast 、fast.next存在
+            slow=slow.next #移動一步
+            fast=fast.next.next #移動兩步
+            if slow==fast: #如果fast==slow時，代表listnode有circle
+                return True
+        return False #如果fast!=slow時，回傳false
+```
+# Two Pointers
+## Valid Palindrome
+:::info
+A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+
+Given a string s, return true if it is a palindrome, or false otherwise.
+
+ 
+
+Example 1:
+
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
+Explanation: "amanaplanacanalpanama" is a palindrome.
+Example 2:
+
+Input: s = "race a car"
+Output: false
+Explanation: "raceacar" is not a palindrome.
+Example 3:
+
+Input: s = " "
+Output: true
+Explanation: s is an empty string "" after removing non-alphanumeric characters.
+Since an empty string reads the same forward and backward, it is a palindrome.
+:::
+```
+class Solution(object):
+    def isPalindrome(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        # s.replace(" ", "")去除前面的，用後面那格替代
+        result = re.sub(r"[^a-zA-Z0-9]", "", s) #先去除掉特殊字符和空格
+        result=result.lower() # 轉小寫
+        return result==result[::-1] #比對該str是否為回文
+        # change=result
+        # if result==change:
+        #     return True
+        # else:
+        #     return False
+```
 ## roman to integer
 :::info
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
