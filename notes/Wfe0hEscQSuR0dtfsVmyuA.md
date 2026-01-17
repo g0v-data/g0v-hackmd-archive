@@ -22,4 +22,8 @@ tags: 國會松
     - [各縣市預算書](https://www.dgbas.gov.tw/News_hyperlink.aspx?n=3783&sms=11499)
     - [全國預算開放資料](/s5I15NJ2SiStYrhvew3F9A) 國會松開放資料
 
+
 ## ▍講題：使用者研究報告：地方預算與查找－－使用狀況與開發設計考量
+
+
+- [預算使用者研究分享簡報](https://docs.google.com/presentation/d/1V5GkX5R5u7nIo4UbsEOR7OP3FvqejMq9mw8YwqYnTZ4/edit?usp=sharing)
