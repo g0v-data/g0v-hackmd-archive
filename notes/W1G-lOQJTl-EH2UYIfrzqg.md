@@ -22,6 +22,9 @@ WebGIS: https://rekichizu.jp/map/
 向量圖磚: https://mierune.github.io/rekichizu-data/tiles/v1/{z}/{x}/{y}.pbf
 圖磚樣式: https://mierune.github.io/rekichizu-style/styles/street/style.json
 
+地名點資料轉化為面資料
+https://www.facebook.com/share/p/1W6ynSQDW3/
+
 日本『完全踏査  古代の道』（武部健一著/吉川弘文館）用 QGIS 套疊
 https://www.facebook.com/groups/chizutochimei/posts/3154692704683841/
 https://www.facebook.com/groups/chizutochimei/posts/3156766061143172/
