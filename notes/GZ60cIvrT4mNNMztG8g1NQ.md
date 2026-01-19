@@ -242,6 +242,9 @@ https://www.facebook.com/permalink.php?story_fbid=pfbid02RE1FHfwUF2kdwayuBKyREXM
 1951 花蓮地震，鐵軌變形 
 https://www.facebook.com/share/p/3SHDUrb2Es6iE64h/
 
+臺北市新生戲院火災影片
+https://www.facebook.com/share/v/1CwMsp4dqY/?mibextid=wwXIfr
+
 20250121 地震
 https://www.facebook.com/chris.yuan.9/posts/pfbid02v2xr238PyMHZsHq6924AgVk19ff1jsxM4jJ7dGR6W6LaoGf47N4ZEyimWwqdCM3gl
 https://www.facebook.com/story.php?story_fbid=pfbid031wtDTedptoBvP3sbms786nUKEYzEquCje44PP47BgaRshZr8ug8TzurcoD4onUZdl&id=1414624017&mibextid=wwXIfr
