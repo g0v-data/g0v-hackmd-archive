@@ -36,7 +36,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 ## 時間地點
 
-- Jan 18 2025 (SUN)
+- Mar 8 2026 (SUN)
 - 13:00 - 17:00（UTC+8）
 - [g0v Taipei Community Hub / g0v 台北社群空間](https://maps.app.goo.gl/o3nAyuSrNshZgW1aA) 2F
     - 請從 1F 咖啡店 __旁邊__ 的入口上樓
