@@ -1,39 +1,72 @@
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">MIK Nam An Kh&aacute;nh l&agrave; dự &aacute;n tổ hợp căn hộ chung cư cao cấp ph&iacute;a T&acirc;y H&agrave; Nội do MIK Group ph&aacute;t triển. MIK Nam An Kh&aacute;nh l&agrave; bản giao hưởng của khởi đầu cuộc sống hạnh ph&uacute;c, nơi mỗi ph&uacute;t gi&acirc;y trở về nh&agrave; l&agrave; khoảnh kh&aacute;c b&igrave;nh y&ecirc;n trọn vẹn, nối d&agrave;i những trải nghiệm bất tận v&agrave; ng&acirc;n vang giai điệu của một cuộc sống hạnh ph&uacute;c tr&ograve;n đầy.</span></p>
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Website :</span><a href="https://miknamankhanh.vn/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">&nbsp;https://miknamankhanh.vn/</span></u></a></p>
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">TH&Ocirc;NG TIN TỔNG QUAN</span></p>
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">T&ecirc;n dự &aacute;n: MIK Nam An Kh&aacute;nh.</span></p>
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Chủ đầu tư: MIK Group.</span></p>
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Vị tr&iacute;: X&atilde; An Kh&aacute;nh, TP. H&agrave; Nội, Việt Nam.</span></p>
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Tổng diện t&iacute;ch: 40.000 m2.</span></p>
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Diện t&iacute;ch x&acirc;y dựng: 21000 m2.</span></p>
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Tổng diện t&iacute;ch x&acirc;y dựng: 421.000 m2.</span></p>
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Mật độ x&acirc;y dựng: 40%.</span></p>
-<p><span style="color:#212121ff;font-size:11pt;font-family:Lato;">Quy m&ocirc;: 6 T&ograve;a th&aacute;p cao 31-40 tầng, 7 tầng khối đế.&nbsp;</span></p>
-<p><a href="https://x.com/miknamankhanh"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://x.com/miknamankhanh</span></u></a></p>
-<p><a href="https://www.youtube.com/@miknamankhanh"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.youtube.com/@miknamankhanh</span></u></a></p>
-<p><a href="https://vimeo.com/miknamankhanh"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://vimeo.com/miknamankhanh</span></u></a></p>
-<p><a href="https://www.pinterest.com/miknamankhanh/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.pinterest.com/miknamankhanh/</span></u></a></p>
-<p><a href="https://500px.com/p/miknamankhanh?view=photos"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://500px.com/p/miknamankhanh?view=photos</span></u></a></p>
-<p><a href="https://gravatar.com/miknamankhanh"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://gravatar.com/miknamankhanh</span></u></a></p>
-<p><a href="https://www.twitch.tv/miknamankhanh/about"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.twitch.tv/miknamankhanh/about</span></u></a></p>
-<p><a href="https://www.reddit.com/user/miknamankhanh/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.reddit.com/user/miknamankhanh/</span></u></a></p>
-<p><a href="https://www.tumblr.com/miknamankhanh"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.tumblr.com/miknamankhanh</span></u></a></p>
-<p><a href="https://about.me/miknamankhanh"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://about.me/miknamankhanh</span></u></a></p>
-<p><a href="https://www.wvhired.com/profiles/7784512-d-an-mik-nam-an-khanh"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.wvhired.com/profiles/7784512-d-an-mik-nam-an-khanh</span></u></a></p>
-<p><a href="https://jobs.westerncity.com/profiles/7784516-d-an-mik-nam-an-khanh"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://jobs.westerncity.com/profiles/7784516-d-an-mik-nam-an-khanh</span></u></a></p>
-<p><a href="https://jobs.njota.org/employers/3978047-miknamankhanh"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://jobs.njota.org/employers/3978047-miknamankhanh</span></u></a></p>
-<p><a href="https://careers.mntech.org/profiles/7784521-d-an-mik-nam-an-khanh"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://careers.mntech.org/profiles/7784521-d-an-mik-nam-an-khanh</span></u></a></p>
-<p><a href="https://jobs.landscapeindustrycareers.org/profiles/7784526-d-an-mik-nam-an-khanh"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://jobs.landscapeindustrycareers.org/profiles/7784526-d-an-mik-nam-an-khanh</span></u></a></p>
-<p><a href="https://undrtone.com/miknamankhanh"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://undrtone.com/miknamankhanh</span></u></a></p>
-<p><a href="https://www.play56.net/home.php?mod=space&uid=5940285"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.play56.net/home.php?mod=space&amp;uid=5940285</span></u></a></p>
-<p><a href="https://dongnairaovat.com/members/miknamankhanh.65879.html"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://dongnairaovat.com/members/miknamankhanh.65879.html</span></u></a></p>
-<p><a href="https://blooder.net/miknamankhanh"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://blooder.net/miknamankhanh</span></u></a></p>
-<p><a href="https://onlinesequencer.net/members/243512"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://onlinesequencer.net/members/243512</span></u></a></p>
-<p><a href="https://iplogger.org/logger/ZPNn54Z4uP2s/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://iplogger.org/logger/ZPNn54Z4uP2s/</span></u></a></p>
-<p><a href="https://participez.perigueux.fr/profiles/miknamankhanh/activity?locale=en"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://participez.perigueux.fr/profiles/miknamankhanh/activity?locale=en</span></u></a></p>
-<p><a href="https://nhattao.com/members/user6903927.6903927/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://nhattao.com/members/user6903927.6903927/</span></u></a></p>
-<p><a href="https://bbs.airav.cc/home.php?mod=space&uid=4319515"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://bbs.airav.cc/home.php?mod=space&amp;uid=4319515</span></u></a></p>
-<p><a href="https://www.magcloud.com/user/miknamankhanh"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://www.magcloud.com/user/miknamankhanh</span></u></a></p>
-<p><a href="https://luma.com/user/miknamankhanh"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://luma.com/user/miknamankhanh</span></u></a></p>
-<p><a href="http://artutor.teiemt.gr/el/user/miknamankhanh/"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">http://artutor.teiemt.gr/el/user/miknamankhanh/</span></u></a></p>
-<p><a href="https://activepages.com.au/profile/miknamankhanh"><u><span style="color:#006580ff;font-size:11pt;font-family:Lato;">https://activepages.com.au/profile/miknamankhanh</span></u></a></p>
+<p><a href="https://naijamatta.com/8svina05"><u>https://naijamatta.com/8svina05</u></a></p>
+<p><a href="https://walling.app/WojKqdVf4aUWEfTOnh12/-"><u>https://walling.app/WojKqdVf4aUWEfTOnh12/-</u></a></p>
+<p><a href="https://www.rwaq.org/users/levelsbackservice-20260119103745"><u>https://www.rwaq.org/users/levelsbackservice-20260119103745</u></a></p>
+<p><a href="https://socialsocial.social/user/8svina05/"><u>https://socialsocial.social/user/8svina05/</u></a></p>
+<p><a href="http://vintagemachinery.org/members/detail.aspx?id=154789"><u>http://vintagemachinery.org/members/detail.aspx?id=154789</u></a></p>
+<p><a href="https://www.exchangle.com/8svina05"><u>https://www.exchangle.com/8svina05</u></a></p>
+<p><a href="https://poipiku.com/13044145/"><u>https://poipiku.com/13044145/</u></a></p>
+<p><a href="https://schoolido.lu/user/8svina05/"><u>https://schoolido.lu/user/8svina05/</u></a></p>
+<p><a href="https://www.facer.io/u/8svina05"><u>https://www.facer.io/u/8svina05</u></a></p>
+<p><a href="https://phijkchu.com/a/8svina05/video-channels"><u>https://phijkchu.com/a/8svina05/video-channels</u></a></p>
+<p><a href="https://www.maanation.com/8svina05"><u>https://www.maanation.com/8svina05</u></a></p>
+<p><a href="https://www.designspiration.com/8svina05/saves/"><u>https://www.designspiration.com/8svina05/saves/</u></a></p>
+<p><a href="https://www.invelos.com/UserProfile.aspx?alias=8svina05"><u>https://www.invelos.com/UserProfile.aspx?alias=8svina05</u></a></p>
+<p><a href="https://band.us/band/101311691/post/1"><u>https://band.us/band/101311691/post/1</u></a></p>
+<p><a href="http://worldchampmambo.com/UserProfile/tabid/42/userId/471790/Default.aspx"><u>http://worldchampmambo.com/UserProfile/tabid/42/userId/471790/Default.aspx</u></a></p>
+<p><a href="https://pastebin.com/u/8svina05"><u>https://pastebin.com/u/8svina05</u></a></p>
+<p><a href="https://aphorismsgalore.com/users/8svina05"><u>https://aphorismsgalore.com/users/8svina05</u></a></p>
+<p><a href="https://www.betmma.tips/mma_handicapper.php?ID=171956"><u>https://www.betmma.tips/mma_handicapper.php?ID=171956</u></a></p>
+<p><a href="https://routinehub.co/user/8svina05"><u>https://routinehub.co/user/8svina05</u></a></p>
+<p><a href="https://www.aseeralkotb.com/en/profiles/8svina05"><u>https://www.aseeralkotb.com/en/profiles/8svina05</u></a></p>
+<p><a href="https://www.friend007.com/8svina05"><u>https://www.friend007.com/8svina05</u></a></p>
+<p><a href="https://defence.pk/members/8svina05.229187/"><u>https://defence.pk/members/8svina05.229187/</u></a></p>
+<p><a href="https://en.islcollective.com/portfolio/12819159"><u>https://en.islcollective.com/portfolio/12819159</u></a></p>
+<p><a href="https://pictureinbottle.com/r/8svina05"><u>https://pictureinbottle.com/r/8svina05</u></a></p>
+<p><a href="https://doselect.com/@e0c77be1560a5270854615a4d"><u>https://doselect.com/@e0c77be1560a5270854615a4d</u></a></p>
+<p><a href="https://fanclove.jp/profile/vMBjzGRlBe"><u>https://fanclove.jp/profile/vMBjzGRlBe</u></a></p>
+<p><a href="https://makeagif.com/user/8svina05?ref=CBcx30"><u>https://makeagif.com/user/8svina05?ref=CBcx30</u></a></p>
+<p><a href="https://forum.westeroscraft.com/members/8svina05.43463/#about"><u>https://forum.westeroscraft.com/members/8svina05.43463/#about</u></a></p>
+<p><a href="https://www.blockdit.com/8svina05"><u>https://www.blockdit.com/8svina05</u></a></p>
+<p><a href="https://velog.io/@8svina05/posts"><u>https://velog.io/@8svina05/posts</u></a></p>
+<p><a href="https://protocol.ooo/ja/users/8svina05"><u>https://protocol.ooo/ja/users/8svina05</u></a></p>
+<p><a href="https://novel.daysneo.com/author/8svina05/"><u>https://novel.daysneo.com/author/8svina05/</u></a></p>
+<p><a href="https://rapidapi.com/user/8svina05"><u>https://rapidapi.com/user/8svina05</u></a></p>
+<p><a href="https://illust.daysneo.com/illustrator/8svina05/"><u>https://illust.daysneo.com/illustrator/8svina05/</u></a></p>
+<p><a href="https://crowdsourcer.io/profile/H1ABBZLk"><u>https://crowdsourcer.io/profile/H1ABBZLk</u></a></p>
+<p><a href="https://www.growkudos.com/profile/8s_vina_4"><u>https://www.growkudos.com/profile/8s_vina_4</u></a></p>
+<p><a href="https://hi-fi-forum.net/profile/1105353"><u>https://hi-fi-forum.net/profile/1105353</u></a></p>
+<p><a href="https://participation.u-bordeaux.fr/profiles/8svina05/timeline"><u>https://participation.u-bordeaux.fr/profiles/8svina05/timeline</u></a></p>
+<p><a href="https://web.bikemap.net/u/8svina05"><u>https://web.bikemap.net/u/8svina05</u></a></p>
+<p><a href="https://participationcitoyenne.rillieuxlapape.fr/profiles/8svina05/activity"><u>https://participationcitoyenne.rillieuxlapape.fr/profiles/8svina05/activity</u></a></p>
+<p><a href="https://trakteer.id/8svina05"><u>https://trakteer.id/8svina05</u></a></p>
+<p><a href="https://bbs.airav.cc/home.php?mod=space&amp;username=8svina05"><u>https://bbs.airav.cc/home.php?mod=space&amp;username=8svina05</u></a></p>
+<p><a href="https://securityheaders.com/?q=factfitiouss.in.net%2F&amp;followRedirects=on"><u>https://securityheaders.com/?q=factfitiouss.in.net%2F&amp;followRedirects=on</u></a></p>
+<p><a href="https://substance3d.adobe.com/community-assets/profile/org.adobe.user:5FCB2268696DE7880A495E61@AdobeID"><u>https://substance3d.adobe.com/community-assets/profile/org.adobe.user:5FCB2268696DE7880A495E61@AdobeID</u></a></p>
+<p><a href="https://aiplanet.com/profile/8svina05"><u>https://aiplanet.com/profile/8svina05</u></a></p>
+<p><a href="https://zumvu.com/8svina05/"><u>https://zumvu.com/8svina05/</u></a></p>
+<p><a href="https://www.vnbadminton.com/members/8s-vina.60557/"><u>https://www.vnbadminton.com/members/8s-vina.60557/</u></a></p>
+<p><a href="https://transfur.com/Users/svina805"><u>https://transfur.com/Users/svina805</u></a></p>
+<p><a href="https://pastelink.net/0u3j9sgj"><u>https://pastelink.net/0u3j9sgj</u></a></p>
+<p><a href="https://vozer.net/members/8svina05.82214/"><u>https://vozer.net/members/8svina05.82214/</u></a></p>
+<p><a href="https://www.longisland.com/profile/8svina05"><u>https://www.longisland.com/profile/8svina05</u></a></p>
+<p><a href="https://ofuse.me/8svina05"><u>https://ofuse.me/8svina05</u></a></p>
+<p><a href="https://www.moshpyt.com/user/8svina05"><u>https://www.moshpyt.com/user/8svina05</u></a></p>
+<p><a href="https://undrtone.com/8svina05"><u>https://undrtone.com/8svina05</u></a></p>
+<p><a href="https://secondstreet.ru/profile/8svina05/"><u>https://secondstreet.ru/profile/8svina05/</u></a></p>
+<p><a href="https://phatwalletforums.com/user/8svina05"><u>https://phatwalletforums.com/user/8svina05</u></a></p>
+<p><a href="https://www.haikudeck.com/presentations/8svina05"><u>https://www.haikudeck.com/presentations/8svina05</u></a></p>
+<p><a href="https://hangoutshelp.net/user/8svina05"><u>https://hangoutshelp.net/user/8svina05</u></a></p>
+<p><a href="https://fairebruxellessamen.be/profiles/8svina05/activity"><u>https://fairebruxellessamen.be/profiles/8svina05/activity</u></a></p>
+<p><a href="https://www.investagrams.com/Profile/8svina05"><u>https://www.investagrams.com/Profile/8svina05</u></a></p>
+<p><a href="https://cinderella.pro/user/257061/8svina05/"><u>https://cinderella.pro/user/257061/8svina05/</u></a></p>
+<p><a href="https://www.upcarta.com/profile/8svina05"><u>https://www.upcarta.com/profile/8svina05</u></a></p>
+<p><a href="http://fort-raevskiy.ru/community/account/8svina05/"><u>http://fort-raevskiy.ru/community/account/8svina05/</u></a></p>
+<p><a href="https://www.newdirectionchildcarefacility.com/profile/levelsbackservice71748/profile"><u>https://www.newdirectionchildcarefacility.com/profile/levelsbackservice71748/profile</u></a></p>
+<p><a href="https://www.equinenow.com/farm/8s-vina-1299536.htm"><u>https://www.equinenow.com/farm/8s-vina-1299536.htm</u></a></p>
+<p><a href="https://freeicons.io/profile/882713"><u>https://freeicons.io/profile/882713</u></a></p>
+<p><a href="https://cgmood.com/8svina05"><u>https://cgmood.com/8svina05</u></a></p>
+<p><a href="https://www.skypixel.com/users/djiuser-ggoaf3tysluo"><u>https://www.skypixel.com/users/djiuser-ggoaf3tysluo</u></a></p>
+<p><a href="https://lifeinsys.com/user/8svina05"><u>https://lifeinsys.com/user/8svina05</u></a></p>
+<p><a href="https://bioimagingcore.be/q2a/user/8svina05"><u>https://bioimagingcore.be/q2a/user/8svina05</u></a></p>
+<p><a href="https://tealfeed.com/svina05"><u>https://tealfeed.com/svina05</u></a></p>
+<p><a 
