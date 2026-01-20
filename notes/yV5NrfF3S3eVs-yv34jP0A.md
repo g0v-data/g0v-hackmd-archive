@@ -1,7 +1,7 @@
 ---
 tags: g0v-siliconvalley
 ---
-#  2026.01.2 第 8 次 g0v 灣區小聚共筆
+#  2026.01.24 第 8 次 g0v 灣區小聚共筆
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
 - 時間：2026/01/24 週六 14:00-18:00
