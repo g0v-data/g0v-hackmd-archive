@@ -15,8 +15,15 @@
 
 ## Meshtastic
 
+> 設定：https://www.facebook.com/share/p/1Hftn51U3N/
+
 - 設定 app 與裝置連線
 - 約定通訊頻道與方式
 - 實地測試
 
+USER 按鈕長按是確認/MENU，按一下是導覽(靈敏度好像有點低？常常按一下不會動)
 
+### App
+
+App 與 mesh 藍芽配對時，mesh 上會顯示配對密碼
+藍芽連線後會自動 sync 時間，utc0
