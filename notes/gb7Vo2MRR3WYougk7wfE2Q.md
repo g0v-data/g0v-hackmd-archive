@@ -88,6 +88,8 @@
 
 ## 韌性
 
+https://g0v.hackmd.io/6fWdUufOTJ6njaEe_vrZJg
+
 - 電池
     - 可以接哪些電器
     - 市電充電速度

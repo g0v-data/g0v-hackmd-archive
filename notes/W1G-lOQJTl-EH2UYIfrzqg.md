@@ -51,6 +51,11 @@ https://tech.ardswc.gov.tw/Seminar/SeminarDiscussion
 按右鍵 → AI 風險診斷
 https://kenzkenz.xsrv.jp/open-hinata3/
 
+
+RESAS 地域経済分析システム（Regional Economy Society Analyzing System）
+https://resas.go.jp/
+https://www.gyoseiq.co.jp/institute/login.php
+
 ---
 
 ## Topic / Area
