@@ -33,6 +33,12 @@ tags: Rentea
    2. 社群在聊什麼，成員有誰
 1. 分散式工具分享
 2. 可復原的租屋 DIY 、一起裝潢你的租屋吧 -> 也可以合作、收費？
+   - 可以拿 ddio 新家來實驗/POC [name=ddio]
+4. 第一間房子持續維運！ [name=ddio]
+   1. 好不容易和房東建立起的信任關係，希望可以繼續維持下去
+   2. 用類似代管的方式，讓房客也成為社群參與者
+5. tmonk 的房子招租、代管 [name=ddio]
+   - aka [長租剛好 2.0](https://g0v.hackmd.io/@ddio-io/rentea-rental-house-2-0/https%3A%2F%2Fg0v.hackmd.io%2F%40PNNNN%2FSJwxbBR21l%23Rentea-%25E9%2595%25B7%25E7%25A7%259F%25E5%2589%259B%25E5%25A5%25BD-%25E6%259C%258D%25E5%258B%259920)
 
 ## 補充資料
 
