@@ -16,8 +16,26 @@
 ## Meshtastic
 
 > 設定：https://www.facebook.com/share/p/1Hftn51U3N/
+> [Modem 模式](https://www.facebook.com/groups/meshtastictw/posts/753684390374089/)：Medium Fast（MF），Frequency Slot：1
 
-- 設定 app 與裝置連線
+### Heltec V4 裝置
+1. 解開背後螺絲打開背蓋，放進電池（注意正負極）![](https://g0v.hackmd.io/_uploads/rJVmeVTSbl.png)
+2. 按下電池後即會開機；可以先長按按側邊 PWR 按鈕，把機器關掉
+3. （Optional：把夾子裝上背蓋後）裝回背蓋
+4. 長按 PWR 開機；RST 重開機
+5. 長按 USER 進入選單
+6. 進入 Set the LoRA region：短按 USER 到出現 `TW` 之後，長按 USER 選擇
+7. 自動重開，進入主要畫面
+
+### 手機
+1. 安裝 App
+	- Android app https://meshtastic.org/docs/category/android-app/
+	- Apple app https://meshtastic.org/docs/category/apple-apps/
+2. 打開 App 將一開始的權限設定完成後，點開「連線」Tab，用藍芽
+
+
+### TODO
+
 - 約定通訊頻道與方式
 - 實地測試
 
