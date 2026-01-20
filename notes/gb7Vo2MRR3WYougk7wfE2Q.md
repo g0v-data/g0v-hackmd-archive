@@ -2,7 +2,7 @@
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
+- NPO Hub 出席：bil, nonumpa, mroprz
 - 線上出席：
 - https://meet.google.com/mrz-dgrd-pri
 :::
@@ -16,9 +16,11 @@
 ### #general
 - **Production 環境伺服器記憶體耗盡事件 (2026-01-16)**
   - `mrorz` 回報在 1/16 早上 9:35 - 9:45 發生 production server記憶體(16GB)與Swap(4GB)被 Elasticsearch process 佔滿，導致 OOM killer 把 Elasticsearch process 砍掉。`url-resolver` 在手動重啟後恢復正常。
+![](https://g0v.hackmd.io/_uploads/H11SGlTB-g.png)
+
 - **OCR 功能異常與修復 (2026-01-18)**
   - `mrorz` 提到 OCR 功能從 2026/1/1 開始壞掉，導致圖片和影片沒有逐字稿，影響比對功能。
-  > mrorz@g0v-tw: 1 月初開始，圖片和影片全都沒有逐字稿，這樣比對功能應該是壞的
+    > mrorz@g0v-tw: 1 月初開始，圖片和影片全都沒有逐字稿，這樣比對功能應該是壞的 ![](https://g0v.hackmd.io/_uploads/rJk6Geprbx.png)
   - 問題已在 1/18 17:42 修復，原因是 `GCS credential` 的變數名稱不小心改錯。
 
 ### #server-alerts
@@ -38,6 +40,10 @@
   - PR #378: [feat: Add admin handler for generating AI transcripts for media articles](https://github.com/cofacts/rumors-api/pull/378)
     - 這個 PR 應該是為了解決 OCR 功能異常期間，沒有產生逐字稿的文章。
 
+### cofacts/devops
+
+- Cloudflare: 紀錄現況
+- Analytics: 教 agent 怎麼從 API 與 elasticsearch 撈資料
 
 ## :potable_water: Release pipeline
 
@@ -76,7 +82,7 @@
   - 目標：雙北
 - [x] KKTIX: https://cofacts.kktix.cc/events/cofactseditor51
 - [ ] 記得帶：貼紙、不太環保杯 (bil)
-- [ ] LINE 文案：「俄羅斯總統女兒腦腫瘤血破裂，求助台灣女婿向台積電求援，經台積電台大醫院聯手開刀診治救回成功🏆」這是生成式ＡＩ做出來的假內容。動手闢謠，讓我們一起保護家人，Cofacts 真的假的 第 51 次志工查核工作坊需要你的加入，活動完全免費，（請自備電腦）02/08(日)下午，地點青職基地，最近的捷運站是捷運板橋站1號出口。連結內報名：https://cofacts.kktix.cc/events/cofactseditor51
+- [x] LINE 文案：「俄羅斯總統女兒腦腫瘤血破裂，求助台灣女婿向台積電求援，經台積電台大醫院聯手開刀診治救回成功🏆」這是生成式ＡＩ做出來的假內容。動手闢謠，讓我們一起保護家人，Cofacts 真的假的 第 51 次志工查核工作坊需要你的加入，活動完全免費，（請自備電腦）02/08(日)下午，地點青職基地，最近的捷運站是捷運板橋站1號出口。連結內報名：https://cofacts.kktix.cc/events/cofactseditor51
 - [ ] VOOM 發文
 - [ ] FB 發文
 
@@ -91,3 +97,9 @@
     - 設定 app 與裝置連線
     - 約定通訊頻道與方式
     - 實地測試
+## 大松
+要去ㄇ？
+[高雄](https://g0v.hackmd.io/@jothon/g0v-hackath71n/https%3A%2F%2Fg0v.hackmd.io%2FKvzHayP4SPqXRhtrn2QH0w%3Fview?fbclid=IwY2xjawPcURpleHRuA2FlbQIxMABicmlkETFOcVNhb2I2S1RKS1NudXlUc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHr-4gghuGYqA7zg5DYG-Xj3AYnA1kT4Cy_Pw6aYfSVjo9B591qnyJ9M4mDgi_aem__j1aTm4stI-a9LgEaya8fg)
+01/25 (日) 10:30-17:30
+
+> 結論：留在台北 XD
