@@ -29,6 +29,8 @@
 6. 進入 Set the LoRA region：短按 USER 到出現 `TW` 之後，長按 USER 選擇
    ![](https://g0v.hackmd.io/_uploads/rkAwGraSZg.png =x200)
 7. 自動重開，進入主要畫面
+   ![](https://g0v.hackmd.io/_uploads/S1lUd7HaHbx.png =x200)
+
 
 ### 手機
 1. 安裝 App
@@ -36,12 +38,19 @@
 	- Apple app https://meshtastic.org/docs/category/apple-apps/
 2. 打開 App 將一開始的權限設定完成後，點開「連線」Tab，開啟藍芽
 3. 點擊 Heltec V4 螢幕上顯示的裝置名稱
-4. 輸入 Heltec V4 螢幕上顯示的配對密碼
+5. 輸入 Heltec V4 螢幕上顯示的配對密碼
+   ![](https://g0v.hackmd.io/_uploads/r1lv9VB6H-l.png =x300) ![](https://g0v.hackmd.io/_uploads/S1RMNHpHWe.png =x300)
+
 
 ### 在手機上完成 Heltec 設定
 
 > Source: https://www.facebook.com/share/p/1Hftn51U3N/
 1. 用手機掃描 QRcode 它會幫你完成基本頻率的設定（Medium Fast、Slot 1、加入台灣頻道） ![](https://g0v.hackmd.io/_uploads/SJ7VDE6SWg.png =x200)
+   - 使用 QRcode 設定後，會出現四個頻道，以下解釋各個頻道的用途
+      - MediumFast：預設頻道。這個是 Meshtastic 內建的預設頻道，此頻道的內容沒有加密，因此大家通常也不會用這頻道講話。
+      - SignalTest：測試頻道，讓大家隨意測試使用，各種機器人也會在此回應大家的測試。
+      - MeshTW：討論頻道。不過由於和平時期不太會有事情需要在上面討論，所以這裡面平常沒什麼對話。iOS 用戶在掃描 QRcode 之後有高機率不會出現這個頻道，請手動把它加入。頻道名稱：MeshTW。金鑰長度：256。金鑰：isDhHrNpJPlGX3GBJBX6kjuK7KQNp4Z0M7OTDpnX5N4=
+      - Emergency!：緊急頻道。當需要透過 Meshtastic 求救時請使用這個頻道。若沒有緊急需求，則不要隨意在此頻道內發言。
 		- 接受後 Heltec 會重新開機
 2. 接下來進入 Meshtastic app 設定頁，一起完成基本設定
     - 用戶設定→幫自己的裝置取一個好記的名字吧！這樣不論是自己看、或是其他人識別，都會比亂碼來的好記。做完以後並儲存設定。
@@ -52,6 +61,7 @@
 			 儲存、等待機器重開
 		2. 點選畫面左下角的圖示，進到發訊息的畫面，選擇「SignalTest」，輸入 @ab newbie 並發送
 		3. 如果有成功，你會看到一個名為 8780 的機器人重複你剛剛說的 @ab newbie
+       ![](https://g0v.hackmd.io/_uploads/Syl9ZLHTBWe.png =x500)
 	  4. 如果重複試了三次都沒有收到機器人的回應，可以回到上一步檢查設定是否正確。如果檢查不出來哪裡有問題，把以上設定的畫面截圖或錄影，傳送到 [Meshtastic Taiwan 社團](https://www.facebook.com/groups/meshtastictw) 的聊天室中讓大家幫你看看
 4. 改用 LoRa 發訊息測試
 		1. 設定關閉 MQTT
