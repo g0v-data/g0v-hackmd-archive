@@ -24,20 +24,22 @@ tags: Rentea
    > ddio 平日中午有彈性很多
 2. 每季/半年找個地方出去玩
    - 來 ddio 家的工地玩！ [name=ddio]
+       - 想去看工地！ [name=YC]
    - 逛展覽也很棒，需要有人糾團
 3. 專案部份，用平日中午 + 非同步溝通 [name=ddio]
-1. 一起做官網 [name=ddio]
+4. 一起做官網 [name=ddio]
+   - 雖然目前我毫無技術力，但想嘗試看看！ [name=YC]
    1. 各專案最近在做啥，要解決什麼問題 -> 從 slack + hackmd + ?? 收集資訊
    2. 轉貼社群相關文章、報導 -> 從 slack 討論轉摘要，給 Rentea 立場的見解
    3. 讓新參者、搜尋引擎認識我們
    2. 社群在聊什麼，成員有誰
-1. 分散式工具分享
-2. 可復原的租屋 DIY 、一起裝潢你的租屋吧 -> 也可以合作、收費？
+5. 分散式工具分享
+6. 可復原的租屋 DIY 、一起裝潢你的租屋吧 -> 也可以合作、收費？
    - 可以拿 ddio 新家來實驗/POC [name=ddio]
-4. 第一間房子持續維運！ [name=ddio]
+7. 第一間房子持續維運！ [name=ddio]
    1. 好不容易和房東建立起的信任關係，希望可以繼續維持下去
    2. 用類似代管的方式，讓房客也成為社群參與者
-5. tmonk 的房子招租、代管 [name=ddio]
+8. tmonk 的房子招租、代管 [name=ddio]
    - aka [長租剛好 2.0](https://g0v.hackmd.io/@ddio-io/rentea-rental-house-2-0/https%3A%2F%2Fg0v.hackmd.io%2F%40PNNNN%2FSJwxbBR21l%23Rentea-%25E9%2595%25B7%25E7%25A7%259F%25E5%2589%259B%25E5%25A5%25BD-%25E6%259C%258D%25E5%258B%259920)
 
 ## 補充資料
