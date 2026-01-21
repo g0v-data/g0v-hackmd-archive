@@ -124,6 +124,7 @@ https://www.taiwanembassy.org/jpfuk/post/8697.html
 
 沖繩
 https://youtu.be/rylRtFqR4R8
+https://www.facebook.com/share/p/1GgpPnLBzw/?mibextid=wwXIfr
 
 離島
 - https://rito.pref.aichi.jp/
