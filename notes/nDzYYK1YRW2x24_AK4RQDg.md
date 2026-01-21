@@ -66,4 +66,5 @@ https://www.vtaiwan.tw/jitsi
 - Agora 的平台有整合 sensemaker 的功能了！
     -  https://github.com/g0v/sensemaker-frontend/issues/48 
 - 接下來也要許願更多新的功能
+- Bestian 
 - 
