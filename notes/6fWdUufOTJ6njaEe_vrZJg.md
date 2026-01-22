@@ -80,6 +80,7 @@
 ### TODO
 
 - 約定通訊頻道與方式
+	-  [How Meshtastic Channels Actually Work (They're Not Frequencies)](https://www.youtube.com/watch?v=wUqr6skhVCw)
 - 實地測試
 
 ### Hardware 
