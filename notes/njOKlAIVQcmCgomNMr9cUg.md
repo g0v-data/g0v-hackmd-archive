@@ -33,6 +33,8 @@ tags: 憲庭加好友
 
 ## 二、協作區
 ### Part 1: 憲法回顧日 On This Day （歷史高光組）
+#### 🎯 ToDo: 釋憲案收集整理 --> 呈現成timeline網頁（或其他）
+#### 🎯 資料收集區：
 1.  整理[公民課本照片檔案](https://photos.google.com/share/AF1QipN2fd1VoUb6EK6FPTNXhkUlqzrXZjbsAhkLlU8pKZkJZte-pch6uZB7e9fTheCVuQ?key=Y2J1MVhCc1hna0N3OUpnNmszbE5ZSE5hN1RUazdn)，梳理出亮點釋憲案
 1. 整理憲法老師提供的亮點釋憲案（連結內容待補）
      * 臺灣民主化的推手：釋261（國會全面改選）
@@ -54,10 +56,11 @@ tags: 憲庭加好友
      * 待補
      
 
- 
+ ---
  
 ### Part 2: 憲庭熱搜榜 Trending Now （輿論收集組）
-####  連結收集：
+#### 🎯 ToDo: 連結收集 --> 呈現成網頁
+#### 🎯 資料收集區：
 * 憲法法庭（請補）
      * 114年憲判字第1號判決摘要
 * 立法院（請補）
