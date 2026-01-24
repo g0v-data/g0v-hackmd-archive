@@ -16,8 +16,7 @@ tags: japan,
 和平島，曾有琉球人聚落
 北臺
 
----
-當代交通
+## 當代交通
 
 基隆到石桓島
 https://www.funliday.com/posts/okinawa-ishigaki-yaimaline/
@@ -26,3 +25,8 @@ https://www.funliday.com/posts/okinawa-ishigaki-yaimaline/
 https://www.suao.gov.tw/News_Content.aspx?n=12210&s=180033
 宜蘭，八重山諸島，沖繩
 https://vacation.eztravel.com.tw/pkgfrn/p/FRN0000020475
+
+## 文化圈研究
+
+文化圈研究
+https://www.facebook.com/share/p/1DXkZYuNVF/
