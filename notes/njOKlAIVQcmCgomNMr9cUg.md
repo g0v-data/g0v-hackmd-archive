@@ -76,7 +76,9 @@ tags: 憲庭加好友
      * [家事法官臉書](https://www.facebook.com/judgeandlawyer/posts/pfbid02hGBLrAvhu98FPzoaTHf4L86q3rM7JByCVVP1Aweor5aRTcvmuYKvgsfnr7tbJBeal)
          
  * NGO：司改會、法白、經民連（請補）
-https://www.facebook.com/reel/1702284921181677
+     * 司改會：短片 https://www.facebook.com/reel/1702284921181677
+     * [司改會《大法官，給個說法》](https://jrf-tw.gitbooks.io/justices_give_an_explanation_1/content/)電子書
+
 * 媒體/網路媒體：
     * [七七x蘇子喬](https://www.youtube.com/watch?v=1MwllsLYBZU)
     * 
