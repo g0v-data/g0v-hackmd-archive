@@ -81,4 +81,18 @@ tags: 憲庭加好友
 
 * 媒體/網路媒體：
     * [七七x蘇子喬](https://www.youtube.com/watch?v=1MwllsLYBZU)
-    * 
+
+#### Entities Data Models：
+* 積案
+    * 提案方: 人民、法官(還有哪些)
+    * 權力保障類型：訴訟權、基本權力(有哪些?)
+* 憲判
+
+
+
+#### Data Source
+
+- [公開書狀一覽](https://cons.judicial.gov.tw/docdata.aspx?fid=5265)
+    - 需分類
+- 
+

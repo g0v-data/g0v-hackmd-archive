@@ -33,7 +33,7 @@ tags: g0v-siliconvalley
 
 ### [本日提案表](https://docs.google.com/spreadsheets/d/1uGOLdew8UrSvElJGnBAAT7RNJMOIfPyqKAfzB4jbz6I/edit?usp=drivesdk)
 ```
-計時1人5分鐘
+
 ```
 
 
@@ -41,16 +41,40 @@ tags: g0v-siliconvalley
 ```
 計時 1 人 30 秒
 ```
-
+Tim: 軟體工程師；過去參加過台灣黑客松
+Anne：參加台灣相關社會議題關注活動
+Sansword:棒針編織；預算審查提案（2025）
+CL:start-up founder
+Emily:自閉症研究；網球
+Amber:軟體工程師；新接觸公共議題；鉤針編織
+Gina:高中就到美國；增進對台灣的認識；半導體
+Ipa:一年半前來美國；文化相關工作者；訪父記作者；大罷免之後，還可以做什麼？ （--> 憲法法庭）
+Ben:剛完成博士班；量子物理
+亦白：swing dance；動物福利
 
 
 計時1人5分鐘
 #### 提案1   憲法法庭專案
 分享簡報：https://docs.google.com/document/d/1JcBxsGY7ygGGCXAEdWkt-2EGqQyvYBybAwLd0RFJJPQ/edit?usp=drivesdk
 
+專案目標：作一個網站，有固定連結，集體降低理解以下議題門檻
+1. 了解現在的討論：整理憲法法庭討論，聚焦憲法法庭癱瘓與爭議
 
-#### 提案2
+2. 了解憲法法庭曾經為我們做了什麼：整理公民課本，對齊共識
+- 整理釋憲highlights,故事化
+- 整理憲法教授提供的資料
+
+3. 了解憲法法庭若無法釋憲，對未來的影響：理解與日常生活息息相關
+
+
+![](https://g0v.hackmd.io/_uploads/HJB9opMLWe.png)
+
+#### 提案2 
 分享簡報：
+
+![](https://g0v.hackmd.io/_uploads/S1KuaaMUbg.jpg)
+
+
 
 #### 提案3   
 分享簡報：
