@@ -25,7 +25,7 @@ tags: g0v-siliconvalley
 
 開場介紹：
 🙋‍♂️分享人：亦白
-🔑簡報連結：
+🔑簡報連結：https://docs.google.com/presentation/d/1IkFXSdwO3uoAx8XMAS7e6LA2YhkANuBkqDZFQGmuzpg/edit?slide=id.g334ec5484c6_0_19#slide=id.g334ec5484c6_0_19
 
 
 公民精神，行動主義，開源的
@@ -45,8 +45,8 @@ tags: g0v-siliconvalley
 
 
 計時1人5分鐘
-#### 提案1   
-分享簡報：
+#### 提案1   憲法法庭專案
+分享簡報：https://docs.google.com/document/d/1JcBxsGY7ygGGCXAEdWkt-2EGqQyvYBybAwLd0RFJJPQ/edit?usp=drivesdk
 
 
 #### 提案2
@@ -64,12 +64,12 @@ tags: g0v-siliconvalley
 ```
 計時1人8分鐘
 ```
-#### 短講1   
+#### 短講1   從台灣資訊環境的挑戰，談FactLink的誕生
+官網：https://www.facebook.com/profile.php?id=61582453956975
 
 
-
-#### 短講2   
-
+#### 短講2   g0v Summit 從投緣到投稿
+內容影片：https://drive.google.com/file/d/1R6ePsky9SwQ7Vbiv-QztFo5rced_eBHI/view?usp=drivesdk
 
 #### 短講3  
 
