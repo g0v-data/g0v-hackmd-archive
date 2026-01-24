@@ -9,8 +9,8 @@ tags: cofacts, meshtastic, heltec, 電池, 太陽能
 - ~~說明書~~ 沒有這種東西
 - 英文說明影片 https://www.youtube.com/watch?v=3jLYIIXbzEQ
 - 可以接哪些電器
-	- 電腦+螢幕+
-	- try 吹風機 [name=mrorz]
+	- 電腦+螢幕+燈+喇叭+一堆電器
+	- 400W 小吹風機 [name=mrorz]
 - Check light：要按住
 - 市電充電速度
 
