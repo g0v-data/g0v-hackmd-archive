@@ -27,3 +27,6 @@ tags:
 ．依前述需求，相關技術端方案討論
 :::
 
+
+https://etalk.naer.edu.tw/discussion/single/eventThemeEduSn/2/eventSubSession/32
+
