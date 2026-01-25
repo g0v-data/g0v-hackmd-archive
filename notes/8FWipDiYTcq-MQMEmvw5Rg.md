@@ -17,12 +17,11 @@ A4
 ## 投稿內容
 
 標題 Title
-- 麻瓜大躍進 - AI 賦能麻瓜的貢獻方式演進
+- 麻瓜大躍進：AI 時代的貢獻模式新演化  |  The Great Muggle Leap: The New Evolution of Contribution in the AI Era
 
 摘要 Summary
-- 「有了 AI 之後，非工程師參與 g0v 的經驗，有如農奴翻身當地主，掌握了生產力的工具，才真的有真實貢獻的體驗。」這是一位社群夥伴的心聲，也是許多「麻瓜」的共同感受。
-- 生成式 AI 的出現，正在改變公民科技社群的協作模式。過去非工程師背景的參與者，貢獻多侷限於文書撰寫、美術設計、專業知識提供或行政處理；如今透過 AI 賦能，開始能跨越技術門檻，深入參與程式開發、網頁維護、資料處理等技術性工作。同時，專案坑主也因 AI 工具的輔助，得以承擔更多元的任務，降低對工程師的依賴。
-- 本議程希望匯集多位透過 AI 工具加深專案參與的夥伴，分享各自的實戰經驗與心路歷程，探討這波「麻瓜大躍進」如何重新定義社群中的角色分工，以及 AI 賦能為公民科技帶來的新可能。
+- 生成式 AI 的浪潮正重塑公民科技的參與格局。過去非工程師背景的夥伴，多半在專案中扮演文字、設計或行政支援角色；如今藉由 AI 工具的協助，他們能夠突破技術門檻，主動參與資料處理、介面維護與原型開發。這場「麻瓜大躍進」讓更多人真正體驗到「能動性」與「貢獻感」的重生。本議程將邀請多位藉由 AI 強化參與的社群夥伴，分享他們如何透過工具重新定義角色分工、改變協作模式，並反思 AI 賦能在公民科技場域中的潛力與限制。當每個人都能「施展魔法」，公民科技社群又該如何重新想像協作與信任？
+- The rise of generative AI is transforming how people participate in civic tech. In the past, non-engineers mainly contributed through writing, design, or administrative tasks. With AI-powered tools, they can now cross technical barriers to join coding, data handling, and project maintenance. This “Great Muggle Leap” has reignited a true sense of agency and contribution among community members. This session brings together contributors who have embraced AI in their civic tech practice to share how these tools reshape teamwork, redefine roles, and expand what collaboration can mean. When everyone gains the power to “cast spells,” how might civic tech communities reimagine trust, coordination, and creativity?
 
 投稿者 / 投稿單位名稱與介紹
 - A4
@@ -52,16 +51,17 @@ A4
 
 
 您的提案想回應的問題或領域是什麼？ What question(s) or field(s) does your proposal aim to address?
-- 公民科技社群中的技術門檻與參與落差：非工程師背景的參與者長期面臨「想貢獻但不知如何下手」的困境，導致社群貢獻過度集中於少數工程師。
-- AI 工具對開源協作模式的影響：生成式 AI 正在改變軟體開發與協作的方式，這對強調「沒有人」精神的 g0v 社群帶來什麼機會與挑戰？
-- 社群角色分工的重新定義：當「麻瓜」也能寫程式、維護網頁，傳統的坑主/工程師/非技術貢獻者的分工是否需要調整？
-- 降低參與門檻的實踐經驗：如何有效運用 AI 工具來賦能更多人參與公民科技專案？
+- 本提案關注 AI 技術普及後，公民科技社群中「參與門檻」與「角色分工」的變化。非工程師背景的參與者，過去常面臨「想貢獻卻不知如何下手」的困境，導致貢獻集中於少數工程師。生成式 AI 的出現，正改變開源協作與軟體開發的方式，也挑戰著 g0v 社群強調的「沒有人」精神。當「麻瓜」能夠透過 AI 工具參與資料處理、原型開發與維護工作，傳統的坑主、工程師、非技術貢獻者分工亦需重新定義。本提案希望探討 AI 賦能如何降低參與門檻，並分享實際經驗，促進更多元、協作性的公民科技參與模式。
+
+- This proposal addresses how the democratization of AI is reshaping participation and role distribution in civic tech communities. Non-engineers have long faced the dilemma of wanting to contribute but lacking technical entry points, resulting in concentrated contributions among a few developers. With the rise of generative AI, open collaboration and civic hacking are evolving—challenging g0v’s ethos of “nobody” leadership. As “muggles” begin using AI tools to join coding, data, and maintenance workflows, traditional roles such as project leads, engineers, and non-technical contributors may need redefinition. This session explores how AI can lower barriers to entry and shares practical experiences that foster more inclusive and collaborative civic tech participation.
 
 目標受眾 Target Audience
-- 不會寫 code 的公民社群參與者
+- 主要對象為沒有軟體工程背景，但希望參與公民科技或開源專案的社群成員。他們或許不會寫程式，卻能藉由本議程了解如何運用 AI 工具更深入地參與協作與貢獻，並重新思考自己在 AI 時代能扮演的角色與創造的價值。
+
+- This session is intended for community members without a software engineering background who are interested in contributing to civic tech or open-source projects. While they may not write code, they will discover how AI tools can help them take a more active role in collaboration and contribution, and reflect on the roles and value they can bring in the age of AI.
 
 建議先備知識 Recommended Prerequisites
-- 大概瞭解公民科技專案的運作模式
+- 大概了解公民科技專案的運作模式 Gain a general understanding of how civic tech projects operate.
 
 相關專案資訊連結 Related Works or Projects
 - https://g0v.hackmd.io/8FWipDiYTcq-MQMEmvw5Rg

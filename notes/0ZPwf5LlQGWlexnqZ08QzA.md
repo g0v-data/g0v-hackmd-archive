@@ -86,7 +86,7 @@ pip install -U torch==2.7.0 torchvision==0.22.0 --index-url https://download.pyt
 ```
 pip install "isaacsim[all,extscache]==5.1.0" --extra-index-url https://pypi.nvidia.com
 ```
-## Verifying the Isaac Sim installation
+## [Verifying the Isaac Sim installation](https://isaac-sim.github.io/IsaacLab/main/source/setup/installation/pip_installation.html#verifying-the-isaac-sim-installation)
 - Make sure that your virtual environment is activated (if applicable)
 
 - Check that the simulator runs as expected:
@@ -96,6 +96,44 @@ isaacsim
 - 打開後，點選隨機一個內建的範例場景，點選Open With New Edit Layer，嘗試儲存
 
 ![](https://g0v.hackmd.io/_uploads/ryEgTDQLbg.png)
+
+
+## [安裝Isaac Lab](https://isaac-sim.github.io/IsaacLab/main/source/setup/installation/pip_installation.html#installing-isaac-lab)
+- Cloning Isaac Lab:Clone the Isaac Lab repository into your project’s workspace
+```
+git clone https://github.com/isaac-sim/IsaacLab.git
+```
+- install
+```
+cd IsaacLab
+```
+```
+isaaclab.bat --install
+```
+- Verifying the Isaac Lab installation
+```
+isaaclab.bat -p scripts\tutorials\00_sim\create_empty.py
+```
+## [workstation install](https://docs.isaacsim.omniverse.nvidia.com/latest/installation/install_workstation.html)
+
+- [Download Isaac Sim](https://docs.isaacsim.omniverse.nvidia.com/latest/installation/download.html)，下載windows版本的
+![](https://g0v.hackmd.io/_uploads/Hkg70RFm8-g.png)
+
+- 離開conda環境
+```
+conda deactivate
+```
+![](https://g0v.hackmd.io/_uploads/Skf1TFQI-l.png)
+
+```
+mkdir C:\isaacsim
+cd ./Downloads/
+tar -xvzf "isaac-sim-standalone-5.1.0-windows-x86_64.zip" -C C:\isaacsim
+cd C:\isaacsim
+post_install.bat
+isaac-sim.selector.bat
+```
+![](https://g0v.hackmd.io/_uploads/Sk58W5QI-e.png)
 
 ## Clone the Repository
 ```
