@@ -24,14 +24,14 @@ type: slide
 
 ---
 
-
+![](https://g0v.hackmd.io/_uploads/SJVT_-78Zl.png)
 
 ---
 
 ## 今天可以做：
 - 看看目前的資料集，見[資料與網站](https://g0v.hackmd.io/zkWf3uJDQA6mp7FfqzfIsQ?both#%E8%B3%87%E6%96%99_%E5%85%AC%E6%B0%91%E7%A7%91%E6%8A%80%E5%B0%88%E6%A1%88)區塊
 - 一起填寫 [Civic Tech Guide TW 大表](https://docs.google.com/spreadsheets/d/1gfzDYC1G-wDRC6k2S4ebOzaag_Razja9pJccwRaEVHc/edit?gid=1878947869#gid=1878947869)
-- 來聊聊
+- 來聊聊「做專案」這件事
 
 ---
 
@@ -50,4 +50,4 @@ type: slide
 \\\\\slack 頻道///
 #g0v-database-專案清單-基礎建設清單
 
-- 坑主：[name=chewei]
+- 坑主：[name=chewei]、[name=Dong]
