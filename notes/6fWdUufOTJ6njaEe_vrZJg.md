@@ -6,18 +6,50 @@ tags: cofacts, meshtastic, heltec, 電池, 太陽能
 
 ## 電池
 
-- ~~說明書~~ 沒有這種東西
-- 英文說明影片 https://www.youtube.com/watch?v=3jLYIIXbzEQ
+### iSolar SB600
+- [Spec](https://www.isolars.com.tw/zh-TW/products/600w%E8%A1%8C%E5%8B%95%E5%85%85%E9%9B%BB%E7%AB%99):
+	- 600W AC output
+	- 300W AC input
+	- 電力 500Wh
+- ~~說明書~~ 只有英文說明影片 https://www.youtube.com/watch?v=3jLYIIXbzEQ
 - 可以接哪些電器
-	- 電腦+螢幕+燈+喇叭+一堆電器
-	- 400W 小吹風機 [name=mrorz]
+	- 電腦+螢幕+燈+喇叭+一堆電器：80W 以內，可用 6 小時
+    ![](https://g0v.hackmd.io/_uploads/BJU-28m8Ze.png =x200)
+	- 400W 小吹風機 [name=mrorz] 可用
+	- 600W 快煮鍋
+	- 微波爐：定頻微波爐會使用約 1200W，微波爐會自動熄滅，且會電池進入過載保護狀態（顯示 OVERLOADED 燈）。
 - Check light：要按住
 - 市電充電速度
+	- 理論：1.8 hr 完全充滿
+	- 實測：任意家用插座 1.5 hr 後即顯示 100%、input 瓦數歸零停止充電 [name=mrorz]
+
+### iSolar SB200
+- [Spec](https://www.isolars.com.tw/zh-TW/products/200w-%E8%BC%95%E4%BE%BF%E8%A1%8C%E5%8B%95%E5%85%85%E9%9B%BB%E7%AB%99%E5%8F%AF%E6%90%AD%E9%85%8D%E5%A4%AA%E9%99%BD%E8%83%BD%E6%9D%BF%E4%BD%BF%E7%94%A8)
+	- 200W AC output
+	- 36W DC input (15V 2.4A)
+	- 電力 155Wh
+- 可以接哪些電器
+	- 投影機 + 充電，可用於行動投影最新訊息或指示用 ![](https://g0v.hackmd.io/_uploads/SJcLXDmU-g.png =x200)
+	- 投影機 + 筆電：使用 50 分鐘 
+- 注意處
+	- 接上帶有喇叭的電器（如投影機），會有明顯電流聲，但不影響使用
+- 市電充電速度
+	- 理論：4.3hr（只有 DC input）
+	- 實測：
+
 
 ## 太陽能板
 
-- 是否可以幫電池充電
-- 什麼樣的天氣可以提供多少電、要充多久
+- [Spec](https://www.isolars.com.tw/zh-TW/products/125w-%E8%BC%95%E5%9E%8B%E5%8F%AF%E6%8A%98%E7%96%8A%E5%A4%AA%E9%99%BD%E8%83%BD%E6%9D%BF)
+	- Pmax: 125W
+- 實驗：[name=mrorz] ![](https://g0v.hackmd.io/_uploads/HJgHCDw7UZe.png =x200) ![](https://g0v.hackmd.io/_uploads/HkTyuP7UZl.png =x200)
+	- 時間：2026/1/25 12:00 左右
+	- 溫度：攝氏 24 度有風
+	- Cloud Type: Altocumulus / Ac（高積雲）
+	- Cloud Cover: 7/8 ![](https://g0v.hackmd.io/_uploads/Hy-W_vXUbg.png =x200)
+	- Light: Diffuse
+	- Solar input: 20W~40W
+		- 若以 30W 平均、發電 5 小時計，僅能充 150 Wh，是 500Wh 電池的 30%
 
 ## Meshtastic
 

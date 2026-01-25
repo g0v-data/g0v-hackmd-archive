@@ -53,6 +53,46 @@ download:https://github.com/NVIDIA-Omniverse/kit-app-template
 Invoke-WebRequest -Uri "https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe" -OutFile ".\Miniconda3-latest-Windows-x86_64.exe"
 ```
 
+- 點開miniconda
+![](https://g0v.hackmd.io/_uploads/SkpknLQ8-e.png)
+
+![](https://g0v.hackmd.io/_uploads/ByWfh8X8bg.png)
+- 打開系統內容，點擊環境變數
+![](https://g0v.hackmd.io/_uploads/rk-B72IXUZg.png)
+- 點path，按編輯
+![](https://g0v.hackmd.io/_uploads/H1MPhUQUZx.png)
+- 新增下面三條路徑
+![](https://g0v.hackmd.io/_uploads/B1gd53ImI-g.png)
+- 打開powershell，輸入`conda --version`，檢查版本
+![](https://g0v.hackmd.io/_uploads/B1elk6U7L-e.png)
+## [安裝](https://isaac-sim.github.io/IsaacLab/main/source/setup/installation/pip_installation.html)
+```
+conda create -n env_isaaclab python=3.11
+```
+```
+conda init
+```
+- 執行完後關掉powershell，重開一個輸入
+```
+conda activate env_isaaclab
+```
+![](https://g0v.hackmd.io/_uploads/Skg1LCL7LWx.png)
+
+- Install a CUDA-enabled PyTorch build that matches your system architecture:
+```
+pip install -U torch==2.7.0 torchvision==0.22.0 --index-url https://download.pytorch.org/whl/cu128
+```
+- Install Isaac Sim pip packages:
+```
+pip install "isaacsim[all,extscache]==5.1.0" --extra-index-url https://pypi.nvidia.com
+```
+## Verifying the Isaac Sim installation
+- Make sure that your virtual environment is activated (if applicable)
+
+- Check that the simulator runs as expected:
+```
+isaacsim
+```
 ## Clone the Repository
 ```
 git clone https://github.com/NVIDIA-Omniverse/kit-app-template.git
