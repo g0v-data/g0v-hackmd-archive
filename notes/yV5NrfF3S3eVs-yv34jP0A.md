@@ -83,26 +83,30 @@ Ben:剛完成博士班；量子物理
     
 ### 成果分享
 
-CL：網站架設
+CL：網站架設（sperpowers）
 Ben:將現有的憲法法庭釋字案整理成一個spreadsheet
 https://docs.google.com/spreadsheets/d/1zGGB3OOJ3ErcAqeqaqiAdOT59lXNvHpciZy6XTxiDtA/edit?gid=0#gid=0
 亦白：整理Ipa提供的所有公民課本中的釋字號，可以接著整理成類似上述spreadsheet格式。
-Sansword:整理可以了解更多憲法法庭的資訊來源
-
+Sansword:整理可以了解更多憲法法庭的資訊來源。希望能讓人了解憲法法庭是如何運作。還需要哪些專業背景人士的加入協作。
 Amber and Gina:
 藉由認識夥伴，以及相互交流了解憲法法庭的議題，產生興趣，想了解更多。
 
 ### 短講
 ```
-計時1人8分鐘
+1人8分鐘
 ```
 #### 短講1   從台灣資訊環境的挑戰，談FactLink的誕生
 官網：https://www.facebook.com/profile.php?id=61582453956975
+背景：事實查核中心--> [factlink](https://www.factlink.tw/)
+資訊環境不會一成不變：資訊操弄越來越了解台灣、另類資訊生態圈（如新媒體）、AI、防線出現破口
+[Asia FactCheck Lab](https://www.rfa.org/english/fact-check/)
+keywords: AI, OSINT, 資訊操弄
 
 
 #### 短講2   g0v Summit 從投緣到投稿
 內容影片：https://drive.google.com/file/d/1R6ePsky9SwQ7Vbiv-QztFo5rced_eBHI/view?usp=drivesdk
-
+2026主題：反客為主
+三大軸線：（開放透明，自主隱私）、（思辨監督，韌性連結）、（民間草根）
 #### 短講3  
 
 #### 短講4   
