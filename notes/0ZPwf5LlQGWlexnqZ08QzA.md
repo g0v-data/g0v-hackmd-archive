@@ -16,6 +16,43 @@ download:https://github.com/NVIDIA-Omniverse/kit-app-template
 ![](https://g0v.hackmd.io/_uploads/ryhfOiMNbe.png)
 
 
+## 各系統適合的driver
+![](https://g0v.hackmd.io/_uploads/HJPnzIm8-e.png)
+[nvidia driver 580.88 連結](https://www.nvidia.com/zh-tw/geforce/drivers/results/251260/)
+```
+選自訂
+```
+![](https://g0v.hackmd.io/_uploads/Byev1NIQ8-l.png)
+```
+勾選執行全新安裝
+```
+![](https://g0v.hackmd.io/_uploads/HyeNVVUm8bx.png)
+
+
+```
+安裝完後，按win+r，輸入regedit
+```
+
+![](https://g0v.hackmd.io/_uploads/rJIEUIX8Zx.png)
+
+
+```
+找到電腦\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem
+```
+![](https://g0v.hackmd.io/_uploads/ByxMXDU7LZx.png)
+
+```
+點開longpathenable，輸入1
+```
+![](https://g0v.hackmd.io/_uploads/HyDKw87LZx.png)
+
+
+- [安裝miniconda(powershell)](https://www.anaconda.com/docs/getting-started/miniconda/install#powershell)
+
+```
+Invoke-WebRequest -Uri "https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe" -OutFile ".\Miniconda3-latest-Windows-x86_64.exe"
+```
+
 ## Clone the Repository
 ```
 git clone https://github.com/NVIDIA-Omniverse/kit-app-template.git
