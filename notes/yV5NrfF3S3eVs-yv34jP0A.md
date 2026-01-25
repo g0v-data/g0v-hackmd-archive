@@ -83,6 +83,14 @@ Ben:剛完成博士班；量子物理
     
 ### 成果分享
 
+CL：網站架設
+Ben:將現有的憲法法庭釋字案整理成一個spreadsheet
+https://docs.google.com/spreadsheets/d/1zGGB3OOJ3ErcAqeqaqiAdOT59lXNvHpciZy6XTxiDtA/edit?gid=0#gid=0
+亦白：整理Ipa提供的所有公民課本中的釋字號，可以接著整理成類似上述spreadsheet格式。
+Sansword:整理可以了解更多憲法法庭的資訊來源
+
+Amber and Gina:
+藉由認識夥伴，以及相互交流了解憲法法庭的議題，產生興趣，想了解更多。
 
 ### 短講
 ```
