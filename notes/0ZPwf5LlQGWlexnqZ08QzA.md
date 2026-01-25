@@ -93,6 +93,10 @@ pip install "isaacsim[all,extscache]==5.1.0" --extra-index-url https://pypi.nvid
 ```
 isaacsim
 ```
+- 打開後，點選隨機一個內建的範例場景，點選Open With New Edit Layer，嘗試儲存
+
+![](https://g0v.hackmd.io/_uploads/ryEgTDQLbg.png)
+
 ## Clone the Repository
 ```
 git clone https://github.com/NVIDIA-Omniverse/kit-app-template.git
