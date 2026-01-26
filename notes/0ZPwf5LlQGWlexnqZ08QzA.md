@@ -135,7 +135,8 @@ isaac-sim.selector.bat
 ```
 ![](https://g0v.hackmd.io/_uploads/Sk58W5QI-e.png)
 
-## Clone the Repository
+-------------------------------------------------
+## Clone the Repository(no)
 ```
 git clone https://github.com/NVIDIA-Omniverse/kit-app-template.git
 ```
