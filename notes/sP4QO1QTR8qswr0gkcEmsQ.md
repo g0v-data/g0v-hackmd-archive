@@ -1,234 +1,225 @@
-O8 Casino là thương hiệu casino online hướng tới người dùng Việt Nam, cung cấp đầy đủ các sản phẩm như slot game, live casino, cá cược thể thao và game trực tuyến. Với giao diện thân thiện, tốc độ xử lý nhanh và hệ thống bảo mật nhiều lớp, O8 mang đến trải nghiệm chơi game an toàn, mượt mà trên mọi thiết bị. Đội ngũ hỗ trợ hoạt động 24/7, đảm bảo người chơi luôn được phục vụ kịp thời và chuyên nghiệp.
+Taya777 operates as a PAGCOR-licensed platform in the Philippines with JILI slots, Evolution live casino, and GCash/Maya deposits starting at PHP 100.
 
-Website: https://o8.movie/
+Location: Quezon City, Metro Manila, Philippines
 
-Address: 128 Nguyễn Văn Linh, Phường Tân Phong, Quận 7, TP. Hồ Chí Minh, Việt Nam
+Hotline: +63 968 592 9925
 
-Phone: 028 7308 0088
+Official Website: https://taya7771.ph/
 
-Email: support@o8.movie
+Email: support@taya7771.ph
 
-#o8 #o8_movie #o8movie #nhacaio8 #o8casino
+Hashtag: #taya777 #taya777ph #taya777official #taya777casino #taya777platform #taya777philippines
 
 
-https://twitter.com/o8movie
+https://twitter.com/taya7771ph
 
-https://www.youtube.com/@o8movie1
+https://www.youtube.com/@taya7771ph
 
-https://500px.com/p/o8movie
+https://500px.com/p/taya7771ph
 
-https://www.tumblr.com/o8movie
+https://www.tumblr.com/taya7771ph
 
-https://www.twitch.tv/o8movie/about
+https://www.twitch.tv/taya7771ph/about
 
-https://www.pinterest.com/o8movie/
+https://www.pinterest.com/taya7771ph/
 
-https://secondstreet.ru/profile/o8movie/
+https://x.com/taya7771ph
 
-https://medibang.com/author/27654871/
+https://www.youtube.com/@taya7771ph
 
-https://swag.live/en/user/69773bbe48853919305cd1bc
+https://www.twitch.tv/taya7771ph
 
-https://code.antopie.org/o8movie
+https://500px.com/p/taya7771ph
 
-https://www.deafvideo.tv/vlogger/o8movie
+https://www.tumblr.com/taya7771ph
 
-https://cointr.ee/o8movie
+https://www.pinterest.com/taya7771ph/
 
-https://b.cari.com.my/home.php?mod=space&uid=3374345&do=profile
+https://tawk.to/taya7771ph
 
-https://www.syncdocs.com/forums/profile/o8movie
+http://69786b942770e.site123.me
 
-https://dialog.eslov.se/profiles/o8movie/activity?locale=en
+https://www.behance.net/taya777official
 
-https://hcgdietinfo.com/hcgdietforums/members/o8movie/
+https://github.com/taya7771ph/taya7771ph
 
-https://coub.com/o8movie1
+https://gravatar.com/taya7771ph
 
-https://app.talkshoe.com/user/o8movie
+https://taya777official.website3.me/
 
-https://www.myminifactory.com/users/o8movie
+https://tutorialslink.com/member/Taya777undefined/86369
 
-https://pumpyoursound.com/u/user/1575971
+https://ok.ru/profile/910412754909/pphotos/979271286749
 
-https://activepages.com.au/profile/o8movie
+https://hashnode.com/@taya7771ph
 
-https://cofacts.tw/user/o8movie
+https://www.ameba.jp/profile/general/taya7771ph/
 
-https://learningapps.org/display?v=pf6kvigfk26
+https://mygamedb.com/profile/taya7771ph
 
-https://tesera.ru/user/o8movie
+https://issuu.com/taya7771ph
 
-https://transfur.com/Users/o8movie
+https://disqus.com/by/disqus_R3vhZEYJlw/about/
 
-https://3dwarehouse.sketchup.com/by/o8movie
+https://www.deviantart.com/taya7771ph
 
-https://community.m5stack.com/user/o8movie
+https://www.mixcloud.com/taya7771ph/
 
-https://talkmarkets.com/member/o8movie/
+https://www.band.us/band/101398573/post
 
-https://healingxchange.ning.com/profile/O8
+https://profile.hatena.ne.jp/taya7771ph/
 
-https://iplogger.org/tr/logger/kQsm5Iso5Q1s/
+https://swaay.com/u/hckrsonline75/about/
 
-https://theamberpost.com/member/o8movie
+https://www.bunyipclassifieds.com.au/pro/20260127180310
 
-https://fortunetelleroracle.com/profile/o8movie
+https://pixabay.com/users/54387265/
 
-https://website.informer.com/o8.movie
+https://taya77757.mypixieset.com/
 
-https://boldomatic.com/view/writer/o8movie
+https://www.play56.net/home.php?mod=space&uid=5953349
 
-http://www.ssnote.net/users/o8movie
+https://app.readthedocs.org/profiles/taya7771ph/
 
-https://app.hellothematic.com/creator/profile/1113152
+https://www.decidim.barcelona/profiles/taya7771ph/activity
 
-https://potofu.me/o8movie
+https://participacion.cabildofuer.es/profiles/taya7771ph/activity?locale=en
 
-https://sketchersunited.org/users/301020
+https://gitlab.aicrowd.com/taya7771ph
 
-https://www.mikocon.com/home.php?mod=space&uid=278232
+https://www.reverbnation.com/artist/taya7771ph
 
-https://techplanet.today/member/o8movie
+https://cdn.muvizu.com/Profile/taya7771ph/Latest
 
-https://protospielsouth.com/user/112119
+https://www.bikemap.net/en/u/taya7771ph/
 
-https://urlscan.io/result/019bf9e2-406a-7556-ad00-cd8a18148ce5/
+https://lamsn.com/home.php?mod=space&uid=1744749
 
-https://linkin.bio/o8movie
+https://www.freelistingaustralia.com/listings/taya777-3
 
-https://www.maanation.com/o8movie
+https://www.vid419.com/home.php?mod=space&uid=3469831
 
-https://www.nintendo-master.com/profil/o8movie
+https://amaz0ns.com/forums/users/taya7771ph/
 
-https://circleten.org/a/392149?postTypeId=whatsNew
+https://jobs.windomnews.com/profiles/7822640-taya777
 
-https://bitspower.com/support/user/o8movie
+https://jobs.westerncity.com/profiles/7822607-taya777
 
-https://allmylinks.com/o8movie
+https://forum.aceinna.com/user/taya7771ph
 
-http://forum.vodobox.com/profile.php?section=personal&id=59279
+https://forums.megalith-games.com/member.php?action=profile&uid=1438164
 
-https://tamilculture.com/user/o8-movie
+https://bbs.theviko.com/home.php?mod=space&uid=4407546
 
-http://www.dungdong.com/home.php?mod=space&uid=3303594&do=profile
+https://golosknig.com/profile/taya7771ph/
 
-https://3dtoday.ru/blogs/o8movie
+http://palangshim.com/space-uid-4909190.html
 
-http://forum.cncprovn.com/members/410882-o8movie
+http://www.activewin.com/user.asp?Action=Read&UserIndex=4821424&redir=&redirname=Forums
 
-https://reactos.org/forum/memberlist.php?mode=viewprofile&u=181987
+https://raovat.nhadat.vn/members/taya7771ph-282122.html
 
-https://forum.index.hu/User/UserDescription?u=2184195
+https://gitlab.vuhdo.io/taya7771ph
 
-https://connect.garmin.com/app/profile/5f95b6d2-d73a-45cc-bd86-78a3a92a8a01
+https://au.trustpilot.com/review/taya7771.ph
 
-https://tawk.to/9ca687c99f4fcbb4d94e7e7661491e6feb9690f2
+https://hker2uk.com/home.php?mod=space&uid=5290586
 
-http://69776b088165f.site123.me
+https://freeimage.host/taya7771ph
 
-https://www.behance.net/o8movie
+https://www.mymeetbook.com/taya7771ph
 
-https://github.com/o8movie/O8
+https://www.chichi-pui.com/users/taya7771ph/
 
-https://ok.ru/profile/910427299013/pphotos/960427392965
+https://www.walkscore.com/people/197865395600/taya777
 
-https://o8movie.website3.me/
+https://www.blockdit.com/taya7771ph
 
-https://tutorialslink.com/member/O8undefined/86271
+https://www.aipictors.com/users/a014c8f4-f36c-5149-3224-52d02980ced9
 
-https://gravatar.com/o8movie
+https://www.udrpsearch.com/user/taya7771ph
 
-https://hashnode.com/@o8movie
+https://biiut.com/taya7771ph
 
-https://www.ameba.jp/profile/general/o8movie/
+https://profile.sampo.ru/taya7771ph
 
-https://mygamedb.com/profile/o8movie
+https://heylink.me/taya7771ph/
 
-https://issuu.com/o8movie
+https://leetcode.com/u/taya7771ph/
 
-https://disqus.com/by/disqus_Ksx9uto9yt/about/
+https://www.xiuwushidai.com/home.php?mod=space&uid=2555487
 
-https://www.deviantart.com/o8movie
+https://phatwalletforums.com/user/taya7771ph
 
-https://www.mixcloud.com/o8movie/
+https://akniga.org/profile/1384386-taya777/
 
-https://profile.hatena.ne.jp/o8movie/
+https://wakelet.com/@taya7771ph
 
-https://www.band.us/band/101390760/post
+https://paidforarticles.in/author/taya7771ph
 
-https://swaay.com/u/jullyxd1250/about/
+https://www.instapaper.com/p/taya7771ph
 
-https://www.bunyipclassifieds.com.au/pro/20260126235855
+https://dreevoo.com/profile_info.php?pid=1012141
 
-https://pixabay.com/users/54375924/
+https://devfolio.co/@taya7771ph
 
-https://www.decidim.barcelona/profiles/o8movie/activity
+http://www.muzikspace.com/profiledetails.aspx?profileid=124120
 
-https://o8movie.mypixieset.com/
+https://us.enrollbusiness.com/BusinessProfile/7707493/Taya777
 
-https://www.play56.net/home.php?mod=space&uid=5951126
+http://www.jbt4.com/home.php?mod=space&uid=8663446
 
-https://app.readthedocs.org/profiles/o8movie/
+https://construim.fedaia.org/profiles/taya7771ph/activity
 
-https://participacion.cabildofuer.es/profiles/o8movie/activity
+https://www.xibeiwujin.com/home.php?mod=space&uid=2299082&do=profile&from=space
 
-https://www.reverbnation.com/artist/o8movie
+https://worth.forumforyou.it/website-worth-calculator/de/cost/taya7771.ph/
 
-https://gitlab.aicrowd.com/o8movie
+https://www.investagrams.com/Profile/taya7771ph
 
-https://www.bikemap.net/en/u/o8movie/
+https://www.designspiration.com/taya7771ph/saves/
 
-https://amaz0ns.com/forums/users/o8movie/
+https://www.brownbook.net/business/54736852/taya777
 
-https://lamsn.com/home.php?mod=space&uid=1742481
+https://socialgem.net/taya7771ph
 
-https://cdn.muvizu.com/Profile/o8movie/Latest
+http://www.stes.tyc.edu.tw/xoops/modules/profile/userinfo.php?uid=3877397
 
-https://www.freelistingaustralia.com/listings/o8
+https://www.intensedebate.com/people/taya7771ph1
 
-https://au.trustpilot.com/review/o8.movie
+https://jobs.lajobsportal.org/profiles/7823059-taya777
 
-https://gitlab.vuhdo.io/o8movie
+https://www.heavyironjobs.com/profiles/7823052-taya777
 
-https://www.vid419.com/home.php?mod=space&uid=3469692
+https://www.stylevore.com/user/taya7771ph
 
-https://raovat.nhadat.vn/members/o8movie-281887.html
+https://www.skool.com/@taya-official-2816
 
-http://www.activewin.com/user.asp?Action=Read&UserIndex=4821271&redir=&redirname=Forums
+https://stocktwits.com/taya7771ph
 
-http://palangshim.com/space-uid-4906945.html
+https://decidim.calafell.cat/profiles/taya7771ph/activity
 
-https://forums.megalith-games.com/member.php?action=profile&uid=1438033
+https://hostndobezi.com/taya7771ph
 
-https://golosknig.com/profile/o8movie/
+https://startupxplore.com/en/person/taya7771ph
 
-https://www.mymeetbook.com/o8movie
+https://onespotsocial.com/taya7771ph
 
-https://bbs.theviko.com/home.php?mod=space&uid=4406323
+https://www.fitlynk.com/afab35100
 
-https://jobs.westerncity.com/profiles/7819385-o8
+https://www.scener.com/@taya7771ph
 
-https://forum.aceinna.com/user/o8movie
+https://kyourc.com/1769506714582082_159966
 
-https://hker2uk.com/home.php?mod=space&uid=5288254
+https://doodleordie.com/profile/taya7771ph
 
-https://jobs.windomnews.com/profiles/7819398-o8
+https://www.callupcontact.com/b/businessprofile/Taya777/9951125
 
-https://freeimage.host/o8movie
+https://pxhere.com/vi/photographer/4899542
 
-https://phatwalletforums.com/user/o8movie
+https://freeicons.io/profile/886867
 
-https://construim.fedaia.org/profiles/o8movie/activity
+https://www.symbaloo.com/home/mix/13ePQX4bJW
 
-https://www.xibeiwujin.com/home.php?mod=space&uid=2298961&do=profile&from=space
+https://substance3d.adobe.com/community-assets/profile/org.adobe.user:2C27226669786BB10A495EEF@AdobeID
 
-https://us.enrollbusiness.com/BusinessProfile/7706813/O8
-
-http://www.jbt4.com/home.php?mod=space&uid=8663322
-
-https://www.chichi-pui.com/users/o8movie/
-
-https://www.walkscore.com/people/174639815020/o8
-
-https://www.blockdit.com/o8movie
