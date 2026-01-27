@@ -122,6 +122,7 @@ https://www.taiwanembassy.org/jpfuk/post/8697.html
 - 2025 災害 https://www.facebook.com/share/p/17C2gc5jm9/
 - 電影，聚焦離島緊急醫療 https://www.facebook.com/share/1XjGEgozYL/
 - 薩摩會議 https://www.facebook.com/share/p/1BgrsEQxhV/
+- 甑島 https://www.facebook.com/share/p/1AogbzWUxy/
 
 沖繩
 https://youtu.be/rylRtFqR4R8
