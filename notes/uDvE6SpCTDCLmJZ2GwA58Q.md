@@ -81,6 +81,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 大浪泵溪 
         - https://www.facebook.com/share/p/ki8m7BEEv2vCjkP8/
         - https://www.facebook.com/share/p/JCAALx7RaBHAmkNm/
+    - 陳德星 https://www.facebook.com/share/p/1C235deAAY/?mibextid=wwXIfr
     - 北門與城牆 https://www.facebook.com/share/p/1HTwS5vhCA/?mibextid=wwXIfr
     - 小南門 https://www.facebook.com/share/p/14Qs1mjMPeb/?mibextid=wwXIfr費
     - 大正町照片，似乎是有溝渠？

@@ -55,7 +55,7 @@ tags: cofacts, meshtastic, heltec, 電池, 太陽能
 
 ## Meshtastic
 
-
+> https://heltec.cashier.ecpay.com.tw/product/000000000869165
 > [Modem 模式](https://www.facebook.com/groups/meshtastictw/posts/753684390374089/)：Medium Fast（MF），Frequency Slot：1
 
 ### Heltec V4 裝置
@@ -182,4 +182,9 @@ tags: cofacts, meshtastic, heltec, 電池, 太陽能
 	- 第一次停電會比較猝不及防，但之後會有輪流供電 [name=bil]
 	- 飲食三天的話電可能也是
 	- 初次攻擊大多是凌晨 3am（防衛最薄弱）[name=alfred]
-
+- Alternative: 無線電
+	- HF 台北到高雄（地形允許的話）[name=alfred]
+	- 考個執照 (三級 --> 二級，一級需要持有無線電一年)
+	- 可以先買無線電，考完執照直接去電檢
+	- 最便宜：https://24h.pchome.com.tw/prod/DMAECB-A900JJ7Y3
+	- 但比較推 Motorola
