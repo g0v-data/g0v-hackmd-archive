@@ -119,6 +119,7 @@ tags: cofacts, meshtastic, heltec, 電池, 太陽能
 
 - 約定通訊頻道與方式
 	-  [How Meshtastic Channels Actually Work (They're Not Frequencies)](https://www.youtube.com/watch?v=wUqr6skhVCw)
+	-  [Set Up Private Meshtastic Channels](https://www.youtube.com/watch?v=egAZP4KKHNo)
 - 實地測試
 
 ### Hardware 
