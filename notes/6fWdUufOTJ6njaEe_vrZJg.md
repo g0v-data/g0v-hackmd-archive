@@ -18,10 +18,12 @@ tags: cofacts, meshtastic, heltec, 電池, 太陽能
 	- 400W 小吹風機 [name=mrorz] 可用
 	- 600W 快煮鍋
 	- 微波爐：定頻微波爐會使用約 1200W，微波爐會自動熄滅，且會電池進入過載保護狀態（顯示 OVERLOADED 燈）。
+		- 微波爐是 pulse wave modulation [name=alfred]
 - Check light：要按住
 - 市電充電速度
 	- 理論：1.8 hr 完全充滿
 	- 實測：任意家用插座 1.5 hr 後即顯示 100%、input 瓦數歸零停止充電 [name=mrorz]
+	- 實測：從 66% 到 95% 大約 20~30 分鐘，但是卡在 95% 5分鐘以上(輸入顯示維持在 300 W)，不知道發生什麼事 [name=nonumpa]
 
 ### iSolar SB200
 - [Spec](https://www.isolars.com.tw/zh-TW/products/200w-%E8%BC%95%E4%BE%BF%E8%A1%8C%E5%8B%95%E5%85%85%E9%9B%BB%E7%AB%99%E5%8F%AF%E6%90%AD%E9%85%8D%E5%A4%AA%E9%99%BD%E8%83%BD%E6%9D%BF%E4%BD%BF%E7%94%A8)
@@ -168,3 +170,16 @@ tags: cofacts, meshtastic, heltec, 電池, 太陽能
 	- 要能充得進電池的太陽能板，即使是可以折疊的可攜型充電板，體積也相當大
 	- 台灣北部天候不穩定，發電效率不佳
 	- 輪流供電的時間即可讓電池充飽
+	- 發電機：[name=ed]
+		- 2000~5000 NTD 二手
+		- 穩定、瓦數大
+		- 缺點：噪音、熱源、汽油儲存（半年以上要加穩定劑）
+		- Honda 保養比較好
+- 可以考慮鉛酸電池 + 逆變器 [name=alfred]
+	- powerbank 比較小、方便
+	- 鉛酸電池：二手要找內電阻檢測器、逆變器 power output
+- 要設定需要撐多久 [name=ed]
+	- 第一次停電會比較猝不及防，但之後會有輪流供電 [name=bil]
+	- 飲食三天的話電可能也是
+	- 初次攻擊大多是凌晨 3am（防衛最薄弱）[name=alfred]
+

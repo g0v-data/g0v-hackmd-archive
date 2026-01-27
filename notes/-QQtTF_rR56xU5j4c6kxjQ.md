@@ -9,9 +9,8 @@
 
 ## :eyes: 上次會議跟進事項
 
-- [ ] Devops manual: Add Github Claude workflow
 - [ ] 將 url-resolver 搬離主機
-- [ ] 小聚籌備：投放目標、VOOM/FB 發文
+- [x] 小聚籌備：投放目標、VOOM/FB 發文
 
 ## :potable_water: Release pipeline
 
@@ -85,4 +84,9 @@ https://g0v.hackmd.io/6fWdUufOTJ6njaEe_vrZJg
 - [x] LINE 文案：「俄羅斯總統女兒腦腫瘤血破裂，求助台灣女婿向台積電求援，經台積電台大醫院聯手開刀診治救回成功🏆」這是生成式ＡＩ做出來的假內容。動手闢謠，讓我們一起保護家人，Cofacts 真的假的 第 51 次志工查核工作坊需要你的加入，活動完全免費，（請自備電腦）02/08(日)下午，地點青職基地，最近的捷運站是捷運板橋站1號出口。連結內報名：https://cofacts.kktix.cc/events/cofactseditor51
 - [ ] VOOM 發文
 - [ ] FB 發文
+
+## 下週開會
+
+2/4 (三) 嗎
+- Change to 2/4 (wed) if bil is not available in Tuesday
 
