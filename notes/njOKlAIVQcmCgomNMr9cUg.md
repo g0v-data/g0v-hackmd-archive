@@ -249,5 +249,7 @@ https://g0v.github.io/consviz/
 10. 每個案件都要有一個 perment-link, 可以用這個 link 分享案件
 11. 憲庭載入中：
 ![](https://g0v.hackmd.io/_uploads/SkgDazJ7UZl.png)
+![](https://g0v.hackmd.io/_uploads/BJsWlk_Ibl.png)
+![](https://g0v.hackmd.io/_uploads/H1nnJy_UZe.png)
 
 ![](https://g0v.hackmd.io/_uploads/ryIXNy7Ibx.png)
