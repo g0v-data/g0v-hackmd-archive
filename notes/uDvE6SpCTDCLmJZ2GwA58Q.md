@@ -99,6 +99,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 文房 https://www.facebook.com/share/p/14P62Z5wSz/?mib
     - 朱崙福聚宮 https://www.facebook.com/share/p/1CRRMSwK5P/
     - 水道課研究中心 孫立人官邸 https://www.facebook.com/share/v/1FYp5h7qUa/?mibextid=wwXIfr
+    - 神社平面圖 https://www.facebook.com/share/1DXzJJCc5d/?mibextid=wwXIfr
     - 1925 遍路石佛 https://zh.m.wikipedia.org/zh-tw/%E5%8F%B0%E5%8C%97%E5%9B%9B%E5%9C%8B%E5%85%AB%E5%8D%81%E5%85%AB%E6%89%80%E9%9D%88%E5%A0%B4
     - 1928 待登載至流域歷程變遷地圖，應該可以用 點位 方式，至少標記「1928 年此處為共同墓地」的方式 https://www.facebook.com/share/p/15n9yi7qg8/
     - 1929 大稻埕 水路 繪畫 https://www.facebook.com/share/17vc6kLWTf/?mibextid=wwXIfr
@@ -206,6 +207,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 新生南路 廢棄電玩設備 https://memory.culture.tw/Home/Detail?Id=2272045&IndexCode=online_metadata
     - 中山女中 歷史 https://www.facebook.com/photo.php?fbid=914165563834754&set=a.530768725507775&type=3
     - 建國啤酒廠 歷史 https://youtu.be/_KhvJxQRXMg?si=S1wL3G0trCIlp6tQ
+    - 照片 基隆河截彎取直之前鳥瞰 https://www.facebook.com/share/p/1GWSmMoL4C/?mibextid=wwXIfr
     - 1986 濟南路二段建築 https://www.facebook.com/share/p/1wZvvGufENk2PExN/
     - 1978 照片 https://www.facebook.com/story.php?story_fbid=pfbid0Ypt5RJbMoKdVWJHzibUm4C7wZVujBfCAyAqtvDqGZgUEuSvzoMMUaAHfW5p5CUsl&id=747873617&mibextid=qC1gEa
     - 重要 蟾蜍山 照片 水路 https://www.facebook.com/GongguanSettlements/photos/a.534107260039871/869062796544314/?type=3
