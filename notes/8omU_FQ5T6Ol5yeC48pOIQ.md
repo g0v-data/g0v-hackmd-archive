@@ -149,5 +149,39 @@ https://www.autohotkey.com/
 
 
 
+```
 
 
+# 檔案名稱建議：Remove-SysprepBlockers.ps1
+# 請以系統管理員身分執行
+
+Write-Host "開始檢查並移除可能阻擋 Sysprep 的 Appx 套件..." -ForegroundColor Cyan
+
+# 取得所有使用者的 Appx 套件
+$packages = Get-AppxPackage -AllUsers
+
+foreach ($pkg in $packages) {
+    # 常見阻擋 Sysprep 的套件：語言體驗包、Microsoft Store App、Xbox、Zune、Skype 等
+    if ($pkg.Name -match "LanguageExperiencePack" -or
+        $pkg.Name -match "Xbox" -or
+        $pkg.Name -match "Zune" -or
+        $pkg.Name -match "Skype" -or
+        $pkg.Name -match "Microsoft.People" -or
+        $pkg.Name -match "Microsoft.Microsoft3DViewer" -or
+        $pkg.Name -match "Microsoft.MSPaint") {
+
+        Write-Host "移除套件: $($pkg.Name)" -ForegroundColor Yellow
+        try {
+            Remove-AppxPackage -AllUsers -Package $pkg.PackageFullName -ErrorAction SilentlyContinue
+            dism /online /Remove-ProvisionedAppxPackage /PackageName:$pkg.PackageFullName | Out-Null
+        } catch {
+            Write-Host "移除失敗: $($pkg.Name) - $($_.Exception.Message)" -ForegroundColor Red
+        }
+    }
+}
+
+Write-Host "檢查完成。請重新執行 Sysprep。" -ForegroundColor Green
+```
+Set-ExecutionPolicy Bypass -Scope Process -Force
+.\Remove-SysprepBlockers.ps1
+sysprep /generalize /oobe /shutdown
