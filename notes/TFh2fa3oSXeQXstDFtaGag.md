@@ -72,6 +72,8 @@ https://www.facebook.com/share/p/1BugN7czw3/
 
 鹿野忠雄 https://g0v.hackmd.io/d7LoE2oHQFCYalTEWrt4aw?view
 
+1920 佐藤春夫 https://www.facebook.com/share/1AMuQPsGPJ/
+
 1921 英領北婆羅洲政廳理民官魯特（Edward Owen Rutter, 1889-1944），於1921年4月3日至11日在臺灣做由南到北的旅行，前後九天 https://www.thenewslens.com/article/83104
 1923 Harry Alverson Franck，旅程：1923年10月中到11月底 https://www.books.com.tw/products/0010808391
 
