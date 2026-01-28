@@ -5,7 +5,10 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter, Chris Torng, Tim 
+參與者 Participants：Peter, Yi-ting, Josh, Tim 
+![](https://g0v.hackmd.io/_uploads/BkgdTndvLZl.png)
+![](https://g0v.hackmd.io/_uploads/B1Oa3uvIWx.png)
+
 
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
