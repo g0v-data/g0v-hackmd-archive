@@ -4,6 +4,9 @@ tags: cofacts, meshtastic, heltec, 電池, 太陽能
 
 # Cofacts 快速回應韌性計畫
 
+> For Cofacts 核心團隊成員，以及其他類似組織的實驗筆記
+> 探討在非常時期如何能相互聯繫與進行作業
+
 ## 電池
 
 ### iSolar SB600
@@ -87,7 +90,9 @@ tags: cofacts, meshtastic, heltec, 電池, 太陽能
 
 ### 在手機上完成 Heltec 設定
 
-> 以下內容出處: https://www.facebook.com/share/p/1Hftn51U3N/
+> 以下內容複製貼上自: https://www.facebook.com/share/p/1Hftn51U3N/
+> 原作者 Dryden Wu, 2025/8/2
+
 1. 用手機掃描 QRcode 它會幫你完成基本頻率的設定（Medium Fast、Slot 1、加入台灣頻道） ![](https://g0v.hackmd.io/_uploads/SJ7VDE6SWg.png =x200)
    - 使用 QRcode 設定後，會出現四個頻道，以下解釋各個頻道的用途
       - MediumFast：預設頻道。這個是 Meshtastic 內建的預設頻道，此頻道的內容沒有加密，因此大家通常也不會用這頻道講話。
@@ -127,7 +132,7 @@ tags: cofacts, meshtastic, heltec, 電池, 太陽能
 ### Hardware 
 
 - 預設沒有裝電池，從玻璃外看到的是電池盒外殼
-	- 電量顯示僅供參考，應該是用電壓算的
+	- 電量顯示僅供參考，應該是用電壓算的 [name=mrorz]
 	    - 4.19V --> 100%
 	    - 4.07V --> 91%
 	    - 3.96V --> 77%
@@ -135,7 +140,7 @@ tags: cofacts, meshtastic, heltec, 電池, 太陽能
 	    - 3.54V --> 31%
 	    - 3.16V --> 3%
 	- 放電到最後快沒電時，會進入自動關機+開機循環
-	- 充電充到進不去之後，一直到上面的自動關機+開機循環，大約可以放 16 小時
+	- 充電充到進不去之後，一直到上面的自動關機+開機循環，大約可以放 16 小時 [name=mrorz]
 - 可以插 Usb 直接使用
 - USER 按鈕長按是確認/MENU，按一下是導覽(靈敏度好像有點低？常常按一下不會動)
 

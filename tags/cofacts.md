@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Cofacts 快速回應韌性計畫](../notes/6fWdUufOTJ6njaEe_vrZJg.md) | 2026-01-28T08:45:19+00:00 | 2026-01-20T12:47:04+00:00 |
+| 1 | [Cofacts 快速回應韌性計畫](../notes/6fWdUufOTJ6njaEe_vrZJg.md) | 2026-01-28T15:04:53+00:00 | 2026-01-20T12:47:04+00:00 |
 | 2 | [20241007 會議記錄](../notes/8xZ5QdTqSDO9pKqmRwWMVw.md) | 2026-01-05T01:11:32+00:00 | 2024-10-06T17:02:59+00:00 |
 | 3 | [Cofacts Chatbot Platform Resilience Improvement Plan](../notes/BRsJOevWSbyUMBSZEVVWrA.md) | 2025-12-23T11:52:05+00:00 | 2022-08-05T02:46:53+00:00 |
 | 4 | [20250805 會議記錄](../notes/IDlOnke0RFWsCxHPvW7ydw.md) | 2025-11-25T10:03:09+00:00 | 2025-07-29T17:32:22+00:00 |
