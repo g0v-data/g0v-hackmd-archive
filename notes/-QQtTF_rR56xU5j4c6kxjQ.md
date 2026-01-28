@@ -89,4 +89,5 @@ https://g0v.hackmd.io/6fWdUufOTJ6njaEe_vrZJg
 
 2/4 (三) 嗎
 - Change to 2/4 (wed) if bil is not available in Tuesday
+- Update: yes, change to 2/4
 

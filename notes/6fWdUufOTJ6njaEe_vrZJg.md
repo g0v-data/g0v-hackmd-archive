@@ -178,9 +178,9 @@ tags: cofacts, meshtastic, heltec, 電池, 太陽能
 - 可以考慮鉛酸電池 + 逆變器 [name=alfred]
 	- powerbank 比較小、方便
 	- 鉛酸電池：二手要找內電阻檢測器、逆變器 power output
-- 要設定需要撐多久 [name=ed]
-	- 第一次停電會比較猝不及防，但之後會有輪流供電 [name=bil]
-	- 飲食三天的話電可能也是
+- 要訂定目標：需要撐多久 [name=ed]
+	- 第一次停電會比較猝不及防，但之後會有輪流供電。 [name=bil]
+	- 烏克蘭經驗是飲食三天，電可能也可以比照辦理。
 	- 初次攻擊大多是凌晨 3am（防衛最薄弱）[name=alfred]
 - Alternative: 無線電
 	- HF 台北到高雄（地形允許的話）[name=alfred]
