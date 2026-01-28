@@ -30,3 +30,5 @@ https://vacation.eztravel.com.tw/pkgfrn/p/FRN0000020475
 
 文化圈研究
 https://www.facebook.com/share/p/1DXkZYuNVF/
+https://www.facebook.com/minliang.wong/posts/pfbid0ThDRscgcNncUPkN71VgRa8FzVQJpzy44Xr1WfofHj2Kw34qa7ymTKaqmLbfSCu4Kl
+https://www.facebook.com/mingching.sinica/posts/pfbid0kbNmyo4zLHUw77gZSo17gzV36xxiKgnt5quSr8ezXUsu2mb6WQ4gSzXWCooQ5iikl
