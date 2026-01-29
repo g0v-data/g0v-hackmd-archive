@@ -185,3 +185,6 @@ Write-Host "檢查完成。請重新執行 Sysprep。" -ForegroundColor Green
 Set-ExecutionPolicy Bypass -Scope Process -Force
 .\Remove-SysprepBlockers.ps1
 sysprep /generalize /oobe /shutdown
+
+
+https://www.ute.com/tw/ezsetup
