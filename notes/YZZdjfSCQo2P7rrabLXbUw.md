@@ -8,7 +8,6 @@
 :::
 https://www.youtube.com/shorts/JRbGDgyfVHA
 
-https://apps.microsoft.com/detail/9pj8266bhfwn?hl=zh-TW&gl=TW
 https://poki.com/zh/g/vortellis-pizza?gdgameCode=YAIUT3
 #### 日本環球影城自由行規劃
 https://www.youtube.com/watch?v=jbv9R_-a_nc
