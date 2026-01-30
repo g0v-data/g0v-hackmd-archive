@@ -26,7 +26,10 @@ https://www.suao.gov.tw/News_Content.aspx?n=12210&s=180033
 宜蘭，八重山諸島，沖繩
 https://vacation.eztravel.com.tw/pkgfrn/p/FRN0000020475
 
-## 文化圈研究
+## 關聯筆記
+
+鰻苗與洋流
+https://www.facebook.com/share/p/182SKK6Hjb/
 
 文化圈研究
 https://www.facebook.com/share/p/1DXkZYuNVF/
