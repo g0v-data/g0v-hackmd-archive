@@ -55,6 +55,7 @@ g0v Slack Channel Guide 頻道傳送門
 #india
 #myanmar
 #thai-ภาษาไทย 泰國與泰語
+#g0v-bangkok
 #tiếngviệt-vietnam 越南與越語
 #nepali-नेपाली
 #malaysia-馬來西亞
@@ -64,6 +65,7 @@ g0v Slack Channel Guide 頻道傳送門
 #pacific_太平洋
 #north-america 想在美國協作的可以來這邊聊天喔！
 #g0v-siliconvalley g0v 矽谷灣區小聚
+#latin-america
 #brazil
 #russia
 #ukraine
@@ -205,6 +207,7 @@ g0v Slack Channel Guide 頻道傳送門
 #election-policy-tracker 候選人政見彙整平台
 選前大補帖，專案另有設置 Slack https://join.slack.com/t/taiwanvotingguide/shared_invite/zt-20t7r7oo3-KmgRaARq_1qHo1VECY8ssQ
 #pridewatch彩虹選民觀選指南 隨著每年的選舉將會逐步更新，歡迎提供使用者回饋、許願！
+#constitution 憲庭加好友 / 憲法法庭
 #ly g0v 國會松、立法院資料 g0v Congress Hackathon, Legislative Yuan data
 #parliament 國會、立法院
 #law
