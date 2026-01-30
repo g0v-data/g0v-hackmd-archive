@@ -342,6 +342,15 @@ https://g0v-slack-archive.g0v.ronny.tw
 ．伴伴學 Discord: https://discord.gg/azQUs8Y2fY
 ．Code for Taiwan Discord：https://discord.com/invite/pRFjDXeFyv
 ．Code for Korea Discord https://discord.gg/xNNvfhJUV5
+* Formosa Art Bank
+福爾摩沙藝術銀行去中心化治理組織
+https://x.com/FAB_DAO
+Discord
+https://discord.com/invite/skvQAGPBDV
+
+* GreenSofa 綠沙發
+以 Web3 公共財資助台灣 Public Goods 發展
+https://x.com/GreenSofa_TW
 
 ---
 
