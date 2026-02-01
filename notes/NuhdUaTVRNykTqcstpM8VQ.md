@@ -136,7 +136,7 @@ g0v Slack Channel Guide 頻道傳送門
 #itaigi 愛台語 對漢字佮台羅誠熟手，做伙鬥校對巡喲
 #chhoetaigi ChhoeTaigi 台語辭典⁺
 #taiwanbooks 矽谷圖書館台灣書籍植入計畫 Silicon Valley Library Taiwan Book Insertion Project
-#edu-school-學校存續議題 民國 130 年的全國小學生人數推估湧現地圖，推估未來學校就學人口，探討校地轉型與民主辦學 A map projecting the distribution of Taiwan’s elementary school population in 2040 
+#edu-reschool-學校存續議題 民國 130 年的全國小學生人數推估湧現地圖，推估未來學校就學人口，探討校地轉型與民主辦學 A map projecting the distribution of Taiwan’s elementary school population in 2040 
 #edu 零時小學校「開源協作與教育工作」主頻道
 #edu-aray 公民科技貢獻者的專案與任務視覺化平台
 #edu-accomdemy 伴伴學社群頻道
