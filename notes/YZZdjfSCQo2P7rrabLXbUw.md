@@ -6,6 +6,13 @@
 [TOC]
 
 :::
+桌遊：
+*幕後交易
+大限77
+德國蟑螂
+作弊飛蛾
+
+
 https://www.youtube.com/shorts/JRbGDgyfVHA
 
 https://poki.com/zh/g/vortellis-pizza?gdgameCode=YAIUT3
@@ -84,3 +91,4 @@ https://doodles.google/
 
 #### Ken暫存
 https://www.youtube.com/watch?v=QG0FOY7NxqE&list=PLORWJtExPDfkdyH5gkroQ9B7iSwbDc5Wf
+
