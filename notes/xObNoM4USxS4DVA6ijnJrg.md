@@ -102,13 +102,15 @@
 2021/08/30 - [學甲工業區國有地遭埋爐碴案開挖及地下水監測](https://www.facebook.com/ironprofessorchan/posts/412063756928979)
 2021/08/30 - [台南環保局回應表示低於地下水污染監測標準](https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=7795841)
 2021/11/16 - [學甲國有地爐碴案驗出鉻含量超標](https://news.pts.org.tw/article/554199)，環保署廢管處科長黎揚輝說：「看起來它是爐碴，就是煉鋼爐碴的東西，目前明顯違規的是違反廢棄物清理法39條的規定。」(*31)
-2022/05/19 - [監察委員林國明提案糾正臺南市政府](https://www.cy.gov.tw/News_Content.aspx?n=125&sms=8912&s=23696)
+2022/05/19 - [監察委員林國明提案糾正臺南市政府](https://www.cy.gov.tw/News_Content.aspx?n=125&sms=8912&s=23696), 111社調0014
 2022/12/12 - [學甲農地爐渣案業者不法獲利21億 郭再欽等8人遭起訴](https://www.tnc.moj.gov.tw/media/305099/%E9%83%ADoo%E9%81%95%E5%8F%8D%E5%BB%A2%E6%A3%84%E6%B8%85%E6%B3%95%E7%AD%89%E7%BD%AA%E5%AB%8C%E6%8F%90%E8%B5%B7%E5%85%AC%E8%A8%B4%E6%96%B0%E8%81%9E%E7%A8%BF.pdf?mediaDL=true)
 2022/12/19 - [台南市議會專案報告「學甲、後壁爐碴案」](https://www.youtube.com/watch?v=EXPoOGvw7HI)
 2023/06/21 - 環事字第112007225A號函命明样馨公司、郭再欽及魏如筠於112年7月10日前提送處置計畫書
 2024/02/23 - [台南學甲爐渣案 監委提案彈劾黃偉哲5比7未通過](https://www.cna.com.tw/news/aipl/202402230121.aspx)
 2024/09/06 - [學甲爐碴案迄今只清三分之一　國有地尚有二千多噸未清](https://www.facebook.com/story.php?story_fbid=122176307390188150&id=61555644527991)
 2024/11/09 - [台南學甲爐碴未清完 表面水呈強鹼](https://udn.com/news/story/7326/8348101)
+2024/11/21 - [郭再欽針對113年度訴字第273號提出申請](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=KSBA,113%2c%e8%a8%b4%2c273%2c20241121%2c1)，於臺灣臺南地方法院111年度訴字第1416號刑事訴訟事件確定前，停止訴訟程序
+2024/12/10 - [魏如筠針對113年度訴字第279號提出申請](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=KSBA,113%2c%e8%a8%b4%2c279%2c20241210%2c1)，於臺灣臺南地方法院111年度訴字第1416號刑事訴訟事件確定前，停止訴訟程序
 2025/02/13 - [環境部 部長彭啓明與台南市政府環境保護局 局長 許仁澤 podcast 討論](https://www.moenv.gov.tw/page/C4405EE8E0558CFC/f5ddd3f8-1725-4d36-9d52-19aa86dfe668), [逐字](https://hackmd.io/@kiang/HJF5-wT5Je)
 2025/03/24 - [郭再欽聲請解除扣押之命令遭駁回](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TNDM,114%2c%e8%81%b2%2c53%2c20250324%2c1)
 
