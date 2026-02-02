@@ -13,6 +13,8 @@ tags: txt,
 ꉂ🤣𐤔
 
 又双叒叕
+𣡾
+https://zh.moegirl.org.cn/zh-tw/%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95#google_vignette
 
 ⸝ဗီူ⸜
 

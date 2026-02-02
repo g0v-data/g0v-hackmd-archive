@@ -61,3 +61,7 @@ Cofacts 小聚
 chewei> 發想 2030 黑客松型態
 - 共筆：https://g0v.hackmd.io/@jothon/2030
 
+chewei> 規劃推廣小冊子
+- 因為有擺攤推廣需求，預計介紹的內容較多，萌生製作小冊子的構想，工作筆記如下
+    - https://g0v.hackmd.io/8nYqYBChQliFk55hQlnP5Q?view#2026-%E5%B0%8F%E5%86%8A%E5%AD%90
+
