@@ -218,6 +218,11 @@ beta.cofacts.ai - code: https://github.com/cofacts/beta-ai/blob/master/cofacts_a
 
 ## 5 月 MG 演講
 
+114學年下學期清華通識主題座談會活動流程
+（一） 時間：115年5月13日（三）19:00-21:00
+（二） 地點：旺宏館國際會議廳
+（三） 主題：人文社會AI的協作創新
+
 清華通識教育中心
 https://cge.site.nthu.edu.tw/p/403-1573-10094-1.php?Lang=zh-tw
 類似活動： https://cge.site.nthu.edu.tw/p/406-1573-275239,r10094.php?Lang=zh-tw
