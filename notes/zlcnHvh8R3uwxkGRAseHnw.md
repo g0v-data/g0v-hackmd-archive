@@ -20,12 +20,83 @@
 ## 📝 一般討論 (General)
 
 ### 伺服器記憶體問題
+
+:::spoiler Detial
+
+#### System Overview
+- Uptime: 406 days
+- Load Average: 1.05, 1.02, 1.07 (on 6 Cores) -> Healthy CPU Load
+- Memory: 16GB Total
+- Used: ~12GB (Applications) + ~3GB (Cache)
+- Free: ~340MB
+- Swap: 100% Used (4GB / 4GB) -> CRITICAL
+
+#### Resource Consumers
+##### Memory
+The system is under heavy memory pressure with Swap completely full.
+1. Elasticsearch (rumors-deploy_db_1): ~7.83GB (50% of Host RAM)
+2. Uptime: 2 hours (Recently restarted, yet memory filled again).
+3. Heap Setting: ES_JAVA_OPTS=-Xms7g -Xmx7g.
+4. Docker Daemon (dockerd): 2.3GB (RES). This is unusually high for a daemon and is a significant contributor to memory pressure.
+5. Page Cache: ~3.1GB. usage is normal for Elasticsearch (Lucene indices interally use OS cache), but in a constrained system, this competes with applications.
+
+##### Swap Analysis
+- Swap Usage: 100% (4GB).
+- Swappiness: 10 (Low).
+- Interpretation: Even with a low preference for swapping (vm.swappiness=10), the system was forced to swap out 4GB because physical RAM was completely exhausted.
+
+##### CPU
+1. API (rumors-deploy_api_1):
+    - Process node /srv/www/build/index.js (PID 14667) was using 74.6% CPU in top snapshot.
+    - Averaged ~3.5% in docker stats.
+    - This indicates traffic spikes or a heavy query processing, but keeping overall load low (~1.0).
+2. Elasticsearch: ~58% of 1 core (in docker stats).
+
+#### Resolution (Implemented 2026-01-28)
+User applied the following limits to prevent OOM Killer from targeting random system processes:
+1. Elasticsearch (db):
+    1. Java Heap: 7g.
+    2. Status: Healthy (7.6GB used).
+2. URL Resolver:Status: Healthy (82MB used).
+
+Result:
+- System Swap is still full (expected without host reboot)
+
+Post-Reboot Verification (2026-01-28 03:00台北時間)
+The system rebooted successfully at 19:00 UTC.
+
+Current Status
+- Uptime: 5 minutes
+- Memory:
+    - Used: 7.3GB (Much lower than the previous 12GB + 4GB Swap)
+    - Free: 8.3GB
+    - Swap: 0B / 4GB (Completely cleared!)
+- Docker Daemon: Memory usage is reset and healthy.
+- Service Verification:
+    - All core services are Up.
+    - Note: `db` and `url-resolver` required a manual `up -d` right after reboot as they did not auto-start initially, but they are now running stable with the new limits.
+
+Final Configuration
+- Elasticsearch: Heap 7G
+- Result: The system now has ~5-8GB of breathing room for OS cache and other services, significantly reducing the risk of a system-wide freeze.
+
+:::
+
 - **mrorz** 回報 API 服務不穩，主因是伺服器記憶體耗盡。
 > "API not accessible now"
-- **mrorz** 進行了緊急處理，包括調降 Elasticsearch 的 Java heap space，並重新啟動伺服器。
+- 2026/1/28 **mrorz** 進行了緊急處理，包括調降 Elasticsearch 的 Java heap space，並重新啟動伺服器。
 > "System Swap is still full (expected without host reboot), but apps are now contained."
 > "The system rebooted successfully at 19:00 UTC."
 - **mrorz** 提供了詳細的系統狀態分析，指出 Elasticsearch 是主要的記憶體消耗者。
+
+要注意的事情：現在 Linode 上的 Linux 核心沒有開啟 cgroup memory，導致
+- docker stats 現在不會顯示各個 container 的 RAM usage
+- docker-compose 無法使用 mem_limit (本來我們也沒在用)
+
+總之現在跟昨晚最大的差別就是
+- elasticsearch container 的 Java heap space 從 8GB 調降到 7GB
+- 重開過機器所以 swap 清空了、docker daemon 用的 RAM usage 也變低了
+- docker stats somehow 看不到 RAM 了
 
 ### 會議與協作
 - **mglee** 表示想參加 2/4 的會議，了解 AI agent 的開發狀況。
