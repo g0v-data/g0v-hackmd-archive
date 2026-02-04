@@ -215,3 +215,10 @@ beta.cofacts.ai - code: https://github.com/cofacts/beta-ai/blob/master/cofacts_a
 
 已修正大部分測試程式的 error 
 下禮拜有機會可以有個版本可以讓大家試玩
+
+## 5 月 MG 演講
+
+清華通識教育中心
+https://cge.site.nthu.edu.tw/p/403-1573-10094-1.php?Lang=zh-tw
+類似活動： https://cge.site.nthu.edu.tw/p/406-1573-275239,r10094.php?Lang=zh-tw
+公共化 ai: https://nthuhssai.site.nthu.edu.tw/p/412-1535-18453.php
