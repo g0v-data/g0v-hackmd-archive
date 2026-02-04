@@ -47,3 +47,16 @@
 - **Pull Request #282: [Takedown spam user bk8linkvip iK_cEpwBRkUkW3J-LOKq](https://github.com/cofacts/takedowns/pull/282)**
   - 於 2026-01-31 建立並完成，處理了垃圾訊息使用者的下架。
 
+## nDX
+
+https://ndx.dta.tw/google-%e5%8f%b0%e7%81%a3%e6%96%b0%e8%81%9e%e6%95%b8%e4%bd%8d%e5%85%b1%e6%a6%ae%e5%9f%ba%e9%87%91%e6%94%af%e6%8c%81%e4%b9%8b-ndx-%e6%95%b8%e4%bd%8d%e5%89%b5%e6%96%b0%e7%8d%8e%e5%8a%a9%e8%a8%88-2/
+
+Cofacts.ai：打造多代理人 AI 陪伴公民查核者對抗網路不實訊息
+台灣實科協會
+
+焦點小組運作
+- 換 term？
+
+社群工作坊與國際交流
+- 國內分享
+- 國際交流
