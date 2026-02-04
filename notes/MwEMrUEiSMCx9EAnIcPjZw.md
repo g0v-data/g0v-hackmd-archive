@@ -32,19 +32,15 @@
 - 一句一個可判斷立場的陳述
 - 即時投票介面
 - 同意 / 不同意
-- 加上「優先級」投票（例如 1–3 或 1–5）
+- 加上「優先級」評分投票（例如 1~3 分 或 1~5 分）
 - 參與者不需要發言，只需用手機投票或標記優先順序。
 #### Phase 2：意見分群與收斂輔助
 在第一階段累積投票資料後，系統提供即時輔助分析：
-- 共識度計算
-- 哪些意見高度一致
-- 哪些高度分歧
-- 優先級排序
-- 哪些議題被認為「重要」
-- 哪些只是噪音
+- 共識度計算：哪些意見共識度高 vs 哪些共識度低意見分歧
+- 優先級排序：計算得分，哪些議題被認為「優先級較高」vs「優先級較低」
+- 找出「高優先級 × 低共識」的關鍵張力點，優先討論
 - 分群（Polis-like clustering）
 - 將立場相近的參與者與意見分群
-- 找出「高優先級 × 低共識」的關鍵張力點
 - 分群摘要（Summarization）
 - 各群體在意的是什麼
 - 分歧背後的價值差異
@@ -62,29 +58,30 @@
 
 ## 開發方向（技術／產品層）
 1️⃣ 系統模組拆解（非常重要）
-A. Audio & Transcription Layer
+- **Audio & Transcription Layer**
 Audio input（現場）
 ASR（Whisper / API / local model）
 Speaker segmentation（可先不做）
-B. Statement Extraction Layer
+- **Statement Extraction Layer**
 從逐字稿切出「可投票陳述」
 約束：
 一句一個主張
 避免複合句
 這一層是成敗關鍵之一
-C. Voting Interface
+- **Voting Interface**
 Mobile-first
 投票類型：
 同意 / 不同意
 優先級（數值）
-D. Aggregation & Analysis
+- **Aggregation & Analysis**
 共識度計算
 優先級加權
 Polis-style clustering（可先簡化）
-E. Facilitator Dashboard
+- **Facilitator Dashboard**
 即時看到：
 高優先 × 低共識
 值得拉回討論的 statements
+
 2️⃣ MVP 切法（務實建議）
 如果一開始就想「即時 + AI + 分群 + Polis」，會死。
 最小可行版本（MVP 1）應該是：
@@ -93,29 +90,35 @@ E. Facilitator Dashboard
 簡單排序，不做分群
 先證明：
 這樣做，主持人真的比較好帶討論
-三、目前還不足、但「一定要補」的地方
+
+3️⃣ 目前還不足、但「一定要補」的地方
 我會直接列「缺口清單」。
-1️⃣ 你還沒定義「誰是主要使用者」
+- **你還沒定義「誰是主要使用者」**
 至少要選一個主角：
 主持人？
 參與者？
 記錄者？
 現在 README 是「大家都很重要」，但產品一定要偏心。
-2️⃣ Statement 的品質控制機制不清楚
+- **Statement 的品質控制機制不清楚**
 這是最大風險點：
 誰決定一句話能不能變成 statement？
 AI 自動？人審？
 錯誤或偏誤怎麼修？
 如果 statement 爛，後面全部都爛。
-3️⃣ 「不影響討論」還是停留在願望層次
+「不影響討論」還是停留在願望層次
 你提出了很好的問題，但還沒回答：
 手機亮起來會不會反而分心？
 投票時機怎麼控制？
 主持人要不要 cue？
 這需要一個流程設計（facilitation flow），不是只有工具。
-4️⃣ 與 Polis 的關係還模糊
+- **與 Polis 的關係還模糊**
 現在是三種可能混在一起：
 Polis-like（自己重做）
 Polis bridge（資料送進 Polis）
 Polis-inspired analysis
 這個要早點選，不然技術路線會亂。
+
+## 可參考資料
+
+- 2020年論文 [CommunityClick: Capturing and Reporting CommunityFeedback from Town Halls to
+Improve Inclusivity](https://dl.acm.org/doi/abs/10.1145/3432912) 分享by社群夥伴 Tzu-Sheng Kuo
