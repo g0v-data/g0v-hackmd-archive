@@ -222,8 +222,13 @@ beta.cofacts.ai - code: https://github.com/cofacts/beta-ai/blob/master/cofacts_a
 （一） 時間：115年5月13日（三）19:00-21:00
 （二） 地點：旺宏館國際會議廳
 （三） 主題：人文社會AI的協作創新
+（四） 講者：李梅君(中研院民族所)、王道維(清大物理系)
 
 清華通識教育中心
 https://cge.site.nthu.edu.tw/p/403-1573-10094-1.php?Lang=zh-tw
 類似活動： https://cge.site.nthu.edu.tw/p/406-1573-275239,r10094.php?Lang=zh-tw
-公共化 ai: https://nthuhssai.site.nthu.edu.tw/p/412-1535-18453.php
+邀請者林文源老師同時也是學界「公共化 AI」計畫的主持人: https://nthuhssai.site.nthu.edu.tw/p/412-1535-18453.php
+
+MG：曾用 cofacts 的資料庫、結合《資訊判讀力》一書的方法，製作一份事實查核的學習單。
+- 該學習單收錄在[「人文社會課程之生成式AI指令集」](https://nthuhssai.site.nthu.edu.tw/p/404-1535-254188.php)種子範例網頁
+- 我會再次修改，用在114學年於台大人類學系開設的「數位人類學」課程中，作為期中作業。
