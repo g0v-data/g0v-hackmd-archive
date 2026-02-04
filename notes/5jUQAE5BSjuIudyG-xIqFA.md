@@ -5,9 +5,9 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter, Yi-ting, Josh, Tim 
-![](https://g0v.hackmd.io/_uploads/BkgdTndvLZl.png)
-![](https://g0v.hackmd.io/_uploads/B1Oa3uvIWx.png)
+參與者 Participants：Peter, Josh 
+![](https://g0v.hackmd.io/_uploads/SkQAM2xD-g.png)
+![](https://g0v.hackmd.io/_uploads/r1e7RGheDZx.png)
 
 
 https://www.vtaiwan.tw/jitsi
@@ -48,6 +48,7 @@ https://www.vtaiwan.tw/jitsi
 - 會提供相關食宿與機票補助
 - 看看有沒有夥伴有興趣，如果有的話，Peter 可以協助聯繫！
 - 如果沒有的話，Peter 應該會出席本次活動
+    - 目前先以 Peter 出席為主。
 
 ### 與國發會的協調合作
 - 更新：剛剛已經將信件寄出，如果有興趣參與後續討論的社群夥伴，都歡迎跳坑！
@@ -57,4 +58,19 @@ https://www.vtaiwan.tw/jitsi
 
 ## 延續上週的討論：動態化意見工具
 - [動態討論視覺化：讓口頭討論可以及時轉成 polis 意見的工具](/MwEMrUEiSMCx9EAnIcPjZw)
+- 實驗上的對照組
+    - 利用數位工具與不利用數位工具來做對照與研究
+### 實驗的操作
+- 跟其他審議活動的內容結合（例如教育部、地方創生的審議討論）
+    - 跟他們提案，說明可以使用我們的工具
+- 可能可以做的合作計劃：
+    - 與 AGORA 的組織合作
 
+### Action list
+- 今天晚上來做列清單與做流程的程序 [name=peter]
+    - 議題小聚從收集意見到收斂討論產生的結果
+
+- 合作方向 [name=josh]
+    - 工具開發的方向，可以放在上面的共筆上
+    - 合作方向：看是要放在上面的共筆上
+    - 
