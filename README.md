@@ -2,6 +2,7 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [憲庭加好友](tags/%E6%86%B2%E5%BA%AD%E5%8A%A0%E5%A5%BD%E5%8F%8B.md) | 2 | 2026-02-04T21:59:17+00:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 36298 | 2026-02-04T16:20:30+00:00 |
 | [vTaiwan](tags/vTaiwan.md) | 125 | 2026-02-04T11:51:40+00:00 |
 | [digital-resilience](tags/digital-resilience.md) | 52 | 2026-02-04T10:53:45+00:00 |
@@ -15,7 +16,6 @@
 | [cowork guideline](tags/cowork%20guideline.md) | 22 | 2026-02-01T12:12:33+00:00 |
 | [GIS](tags/GIS.md) | 177 | 2026-02-01T10:18:26+00:00 |
 | [japan](tags/japan.md) | 4 | 2026-01-30T18:48:57+00:00 |
-| [憲庭加好友](tags/%E6%86%B2%E5%BA%AD%E5%8A%A0%E5%A5%BD%E5%8F%8B.md) | 1 | 2026-01-28T19:14:50+00:00 |
 | [cofacts](tags/cofacts.md) | 509 | 2026-01-28T15:04:53+00:00 |
 | [ meshtastic](tags/%20meshtastic.md) | 1 | 2026-01-28T15:04:53+00:00 |
 | [ heltec](tags/%20heltec.md) | 1 | 2026-01-28T15:04:53+00:00 |
