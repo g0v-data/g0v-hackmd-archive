@@ -235,6 +235,9 @@ https://www.books.com.tw/products/0010632516
 財政
 https://youtu.be/toI_UYpNtic
 
+中國大陸短缺經濟的總體失衡分析 
+https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22087NSYSU025010%22.&searchmode=basic
+
 回顧元代以降的行省劃分採取統治目的，劃分方式影響民國初期聯省自治的基礎條件
 https://youtu.be/Qri2Sx216Ds
 
