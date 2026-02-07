@@ -129,6 +129,8 @@ https://www.facebook.com/share/1A2jTimCgp/
 安排會議
 https://www.facebook.com/share/p/1Addn6PWbz/
 
+https://www.facebook.com/share/p/1BzAsDhMyA/?mibextid=wwXIfr
+
 ## 單據拍照轉成表格文字
 
 https://www.facebook.com/share/r/15wpa3GnoT/
@@ -145,6 +147,10 @@ https://www.facebook.com/share/p/15CRFJaVeP/
 
 製作給嬰兒聆聽的歌曲
 https://www.facebook.com/share/v/19tpCh2Jki/
+
+# 製作網頁
+
+用 AI 製作2026 動物行為暨生態研討會手機網頁版呈現，使用基本的指令 https://moogoo78.github.io/mg-docs/blog/CABE-2026-mobile-AI/
 
 # 公共電視
 
