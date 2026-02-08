@@ -22,26 +22,27 @@ Omniverse Platform
 | Script Editor   | 互動控制層     | 即時測試、操作 Scene、學 API     |
 | Standalone Python Script    | 實驗控制層     | 正式實驗、論文、可重現流程     |
 
+
 ```mermaid
 flowchart TD
     A[Omniverse Platform]
 
-    A --> B[Nucleus]
-    A --> C[Connect]
     A --> D[Kit]
-    A --> E[RTX Renderer]
     A --> F[Simulation]
+    A --> C[Connect]
+    A --> E[RTX Renderer]
+    A --> B[Nucleus]
 ```
 
 ```mermaid
 flowchart LR
     KS[Kit Stack]
 
-   
-    KS --> K[Kit]
-    KS --> CE[Core Extensions]
-    KS --> E[Extensions]
     KS --> A[Assemblies]
+    KS --> E[Extensions]
+    KS --> CE[Core Extensions]
+    KS --> K[Kit]
+   
 
     A --> App[Apps]
     A --> Micro[Microservices]
