@@ -21,3 +21,14 @@ Omniverse Platform
 | Action Graph (OmniGraph)    | 視覺操作層     | 簡單控制、Demo、教學     |
 | Script Editor   | 互動控制層     | 即時測試、操作 Scene、學 API     |
 | Standalone Python Script    | 實驗控制層     | 正式實驗、論文、可重現流程     |
+
+```mermaid
+flowchart TD
+    A[Omniverse Platform]
+
+    A --> B[Nucleus]
+    A --> C[Connect]
+    A --> D[Kit]
+    A --> E[RTX Renderer]
+    A --> F[Simulation]
+```
