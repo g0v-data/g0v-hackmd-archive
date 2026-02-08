@@ -12,6 +12,7 @@ image: https://raw.githubusercontent.com/g0v/style-guide/gh-pages/logo/png/g0v-l
 
 
 ## 歷次活動
+- [20260208 第貳拾次國會松](/4DjUCQHzTUyR86p6FPPcsQ)
 - [20260117 第拾玖次國會松](/Wfe0hEscQSuR0dtfsVmyuA)
 - [20251213 第拾捌次國會松](/DBkSKyirSkCfJV4jJ-upfQ)
 - [20251115 第拾柒次國會松](/OcjHQuF2SGeQVOB0RtdztA)
