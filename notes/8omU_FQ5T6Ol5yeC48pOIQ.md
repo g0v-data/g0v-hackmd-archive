@@ -190,15 +190,8 @@ sysprep /generalize /oobe /shutdown
 https://www.ute.com/tw/ezsetup
 
 ```
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2792562829]
-"EnabledState"=dword:00000001
-"EnabledStateOptions"=dword:00000000
+reg add HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32 /ve /f
 
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3036241548]
-"EnabledState"=dword:00000001
-"EnabledStateOptions"=dword:00000000
 
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\734731404]
-"EnabledState"=dword:00000001
-"EnabledStateOptions"=dword:00000000
+
 ```
