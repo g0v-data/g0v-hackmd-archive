@@ -44,7 +44,10 @@ flowchart LR
     KS --> K[Kit]
    
 
-    A --> App[Apps]
+    
+
+```
+A --> App[Apps]
     A --> Micro[Microservices]
 
     E --> Assets[Assets]
@@ -58,5 +61,3 @@ flowchart LR
     K --> PhysX[PhysX]
     K --> RTX[RTX]
     K --> PY[Python]
-
-```
