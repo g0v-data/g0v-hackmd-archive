@@ -189,6 +189,7 @@ sysprep /generalize /oobe /shutdown
 
 https://www.ute.com/tw/ezsetup
 
+```
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2792562829]
 "EnabledState"=dword:00000001
 "EnabledStateOptions"=dword:00000000
@@ -200,3 +201,4 @@ https://www.ute.com/tw/ezsetup
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\734731404]
 "EnabledState"=dword:00000001
 "EnabledStateOptions"=dword:00000000
+```
