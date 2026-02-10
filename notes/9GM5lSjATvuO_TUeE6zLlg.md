@@ -2,7 +2,7 @@
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
+- NPO Hub 出席：bil, mrorz, nonumpa
 - 線上出席：
 - https://meet.google.com/mrz-dgrd-pri
 :::
@@ -12,9 +12,16 @@
 小松果 https://g0v.hackmd.io/maYYqW6tSey9abb-5A5nSA
 
 - 沒有長椅之後 setup 變得很直覺
+- 不會有延長線 [name=bil]
 - NewTaipei 網路還撐得住
-- 盤點延長線
-
+	- 樓下還有活動，但網路也還會 work
+- 盤點延長線：5 條
+	- 還是有座位沒有 cover [name=mrorz]
+	- 不是每個人都需要 [name=bil]
+- 出席比預期多 [name=bil]
+- 桌子需要 1pm 就開始場佈，1:30 就有人進來
+- 2樓押證件
+- 下次 4/12 (日)
 
 ## 伺服器
 - 2026/1/28 至今 Swap 都在低水位（<0.5GB），看起來 RAM 沒爆炸
@@ -29,6 +36,7 @@
 - [[wip] git branch](https://github.com/cofacts/rumors-api/commits/feature/upgrade-to-elasticsearch-v9/)
 
 目前測試起來，第一次 query 速度有點慢，1~5 秒
+有人提到相關的效能問題 [elasticsearch#99894]( https://github.com/elastic/elasticsearch/issues/99894)
 
 ## nDX 專案籌備
 
