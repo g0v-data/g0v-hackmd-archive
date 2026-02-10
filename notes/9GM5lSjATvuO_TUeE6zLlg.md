@@ -72,3 +72,8 @@ https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/
     - ADK deploy to Langfuse
     - Deploy to cloudrun or Linode
 - Cloudflare workflow
+
+## 下次開會
+
+暫停兩週
+下次開會=3/5(四)
