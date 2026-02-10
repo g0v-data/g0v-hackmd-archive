@@ -21,6 +21,12 @@
 ## 資料庫遷移
 > nonumpa
 
+- web: https://dev-db-v9.cofacts.tw/
+- api: https://dev-api-db-v9.cofacts.tw/
+- [[wip] git branch](https://github.com/cofacts/rumors-api/commits/feature/upgrade-to-elasticsearch-v9/)
+
+目前測試起來，第一次 query 速度有點慢，1~5 秒
+
 ## nDX 專案籌備
 
 ### Schedule
