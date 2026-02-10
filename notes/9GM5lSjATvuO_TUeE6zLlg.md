@@ -54,3 +54,13 @@
 
 https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.0
 
+(Also added to https://g0v.hackmd.io/@cofacts/rd/ )
+
+新年期間 by Johnson
+
+- Cofacts.ai
+    - Tanstack + shadcn library
+    - UI 基礎元素參考[子龍 design](https://www.figma.com/design/nFFi6c8ennXV8CxeF58Asl/Confact?node-id=0-1&p=f&t=27jepKYsqBCCkD72-0)，使用 [Stitch](https://stitch.withgoogle.com/) 生出 chat UI figma
+    - ADK deploy to Langfuse
+    - Deploy to cloudrun or Linode
+- Cloudflare workflow
