@@ -8,6 +8,9 @@
 :::
 
 ## 小聚檢討 (2/8)
+
+小松果 https://g0v.hackmd.io/maYYqW6tSey9abb-5A5nSA
+
 - 沒有長椅之後 setup 變得很直覺
 - NewTaipei 網路還撐得住
 - 盤點延長線
@@ -30,8 +33,24 @@
 ## nDX 專案籌備
 
 ### Schedule
+- 3 月初開始
+- 4 月底：
+    - 希望 cofacts.ai 的 agent 部分能運作
+    - 備案：直接使用 beta.cofacts.ai
+- Tune prompt & UX 10 個月
+    - single sign on
+    - 增加 multimodal = 增強 agent 能力
+    - 抓新資料（接更多 tool 與資料讓 LLM 讀）= 增強 agent 能力
+- 建立 evaluation 機制（LLM-as-judge?）
+    - 明晚 20:30 討論
 
 ### 資料生成小組
+- 5 月開始
+- 用系統寫回應
+- 一開始可能需要複製貼上回應，開發完 single sign on 之後可以直接送回應進 Cofacts
+- upvote / downvote，其中一個 downvote 選項是 hallucination
 
 ### 程式開發
+
+https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.0
 
