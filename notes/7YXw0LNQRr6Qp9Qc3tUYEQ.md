@@ -5,10 +5,16 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：
+參與者 Participants：Peter, Josh, Tim, Chris 
+
+:::info
+下週小聚暫停一次，因應農曆年放假XD 
+下一次小聚是2/25！
+:::
 
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
+![](https://g0v.hackmd.io/_uploads/ryhUkgcDbe.png)
 
 ::: success
 ## 專案儀表板：目前 vTaiwan 社群在進行的事情 
@@ -38,3 +44,58 @@ https://www.vtaiwan.tw/jitsi
 :::
 
 ## 小小的分享
+### 未來團隊取得12席眾議院議席！
+![](https://g0v.hackmd.io/_uploads/r1eecrkcw-e.jpg)
+- 脈絡：在剛剛結束的眾議院選舉中，未來團隊取得12個眾議員席次
+- 未來議會：除了有法案立法程序與法案內容的介紹之外，還有用生成式 AI 的聊天機器人來回答問題
+    - 中文嘛誒通
+![](https://g0v.hackmd.io/_uploads/BkHFL1qPWe.png)
+- 可以
+#### 想要發展的方向：
+- 請他們來分享未來議會的建置過程
+- 跟他們討論目前未來議會遇到的問題
+    - 如何整理資料
+    - AI 機器人的能力與極限，以及如何建置？
+#### 其他案例
+- [蘇黎世 GPT](https://zuericitygpt.ch/)
+
+### 與國發會的協調合作
+- 更新：目前尚未收到回覆，明天會致電確認是否有收到信件，同時也會確認年後有沒有機會拜訪
+### 歐洲議會議員討論
+- 今日剛剛收到議員助理來信，希望跟我們約在布魯塞爾會面。
+- 感覺實體會面不一定是一個可能的選項（maybe 看看 Josh 或翊婷有沒有機會過去聊聊）不過可以約一個線上會議
+- 提案：先看看線上討論的可能性
+- 預想的流程：
+    - 介紹 vTaiwan 
+    - 介紹 vTaiwan 在做的事情
+    - 釐清看看他們的目標跟需要解決的問題
+#### Action List
+- 先敲線上會議的時間（GMT+1）
+- 確認他們想要討論的 agenda
+
+### SINTEF in Norway 合作
+- 收到 SINTEF in Norway 的邀請，希望一起來投 [Nordforsk](https://www.nordforsk.org/calls/call-proposals-disruptive-technologies)的獎助計劃。
+#### Action List
+- 先敲線上會議的時間（GMT+1）
+- 確認分工、想要做的題目，以及我們能夠提供的協助
+
+### India Innovates 2026
+- 目前確定在 3/26 啟程前往新德里
+- 3/28 Day1 活動
+    - Keynote 對談
+    - CEO Roundtable 
+### ICANN 85
+- 3 月
+- ICANN 是網路治理蠻重要的組織，負責的就是網域分配，
+- 看一下多方利害關係人治理
+- 回來後希望可以寫一篇文章來分享
+
+## 接下來的待辦事項
+- 完成經驗分享的文章 [name=peter]
+    - 12月去 code for japan summit 
+    - 1 月去 Privacy by Design Conference
+    - 2/25 以前完成初稿
+- 公民審議大會 [name=josh]
+    - 2/25 以前完成初稿
+- 審議內容的即時整理與可以使用的數位工具 [name=josh]
+    - 
