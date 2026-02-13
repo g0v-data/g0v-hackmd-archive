@@ -49,6 +49,9 @@ https://www.facebook.com/groups/chizutochimei/posts/3156766061143172/
 1866 必麒麟 https://photos.app.goo.gl/m1Fyye2Z3WUMr45U6
 1871 湯姆生與馬雅各 https://photos.app.goo.gl/m1Fyye2Z3WUMr45U6
 
+1873 樺山資紀和水野遵，為了征臺，偵查全台臺
+https://tebook.ntl.edu.tw/info.aspx?antiforgery=86349025-fe6c-4409-8e98-0265800b4aa9&actions=view&uuid=df521398-03e7-463e-8923-2dab03cb6850
+
 馬偕 https://photos.app.goo.gl/af7M1gur7tMVrDdj7
 張聰明
 https://www.facebook.com/share/p/1BugN7czw3/
