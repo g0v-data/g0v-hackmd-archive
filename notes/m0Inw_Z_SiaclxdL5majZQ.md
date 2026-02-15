@@ -19,4 +19,26 @@ title: 民主富二代補課小站專案介紹
 
 ## 連結
 網站：https://ipaaa.github.io/TWb00ks/
+紀錄片影視頁：https://ipaaa.github.io/TWb00ks/#/documentaries 
 github: https://github.com/ipaaa/TWb00ks
+
+## 來推薦_書籍與影視作品
+
+書籍推薦表單
+https://docs.google.com/forms/d/e/1FAIpQLSe5NnDzbHQnYVKiRfu9delcxHscgcZXglBN5WvElv1Z8fPXvQ/viewform
+
+影視作品補圖協作 spreadsheet 
+https://docs.google.com/spreadsheets/d/1KDddBkjEcTey98w_Pnk52dlYPGrA_av47GKspFIwNjo/edit
+
+## 工作討論區
+
+chewei> 本頁面可以選擇開啟「公開發表」，這樣 Google AI 搜尋或許可以抓到頁面內容？
+:::spoiler Google AI 搜尋模式，目前似乎沒有使用本頁面內容來提供回覆
+頁面「公開發表」開啟方式
+![](https://g0v.hackmd.io/_uploads/H1PEs-kOWe.png)
+可以看到以下回覆內容，AI 腦補成分居多，還有腦補出 Slack 頻道名稱
+![](https://g0v.hackmd.io/_uploads/rklGvnWkdWl.png)
+目前 AI 無法提供本頁面網址
+![](https://g0v.hackmd.io/_uploads/rJxMZ2Zyu-l.png)
+:::
+
