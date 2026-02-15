@@ -122,6 +122,10 @@ tags: cofacts, meshtastic, heltec, 電池, 太陽能
       - 如果你的訊息有出現在上面，但沒看到機器人的，那可能是機器人在忙，可以稍後再試。
       - 如果在上面沒看到你的訊息，那可能你附近沒有其他節點可以幫你轉發到 MQTT 上面，這時候可以到社團的聊天室問問看，附近有沒有人可以跟你一起測試訊號。
 
+### Reference
+
+[臺灣 Meshtastic 節點設置準則](https://guide.meshtastic.tw)
+
 ### TODO
 
 - 約定通訊頻道與方式
