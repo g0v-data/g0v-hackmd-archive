@@ -2,8 +2,8 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [影音轉逐字稿 / 如何在 Macbook 裝 whisper / How to Install whisper in Macbook](../notes/t1B_DdkHTOyqsWiYm0bzAw.md) | 2025-03-13T07:54:18+00:00 | 2023-05-30T09:42:37+00:00 |
-| 2 | [在AI時代重讀《到奴役之路》20240713 講座 @唐山書店](../notes/AeacLNBMSEyrB6i5Lpsr1w.md) | 2024-07-14T12:23:09+00:00 | 2024-07-14T12:06:45+00:00 |
+| 1 | [在AI時代重讀《到奴役之路》<br>20240713 講座 @唐山書店](../notes/AeacLNBMSEyrB6i5Lpsr1w.md) | 2026-02-16T22:11:17+00:00 | 2024-07-14T12:06:45+00:00 |
+| 2 | [影音轉逐字稿 / 如何在 Macbook 裝 whisper / How to Install whisper in Macbook](../notes/t1B_DdkHTOyqsWiYm0bzAw.md) | 2025-03-13T07:54:18+00:00 | 2023-05-30T09:42:37+00:00 |
 | 3 | [Environmental Design & Computer-Aided 空間規劃設計與 AI 工具](../notes/3dqTVh6SS9a4SIXMT3X1HQ.md) | 2024-05-07T22:59:02+00:00 | 2023-03-25T13:43:44+00:00 |
 | 4 | [藥學．要學：AI驅動的個人化精準學習](../notes/8PYVkjW_RuSGFlIYJnGKoA.md) | 2024-04-06T03:50:58+00:00 | 2024-02-18T03:32:07+00:00 |
 | 5 | [快速認識【g0v 零時小學校】繁體中文 AI 開源實踐計畫](../notes/DGv5v_iFRoasaETVPb874A.md) | 2024-03-02T15:54:55+00:00 | 2024-02-28T03:03:03+00:00 |

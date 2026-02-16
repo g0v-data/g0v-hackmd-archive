@@ -12,7 +12,13 @@ https://fb.me/e/3D532vzmh
 
 https://www.facebook.com/rainchamber123/posts/pfbid02x6fDJn22d27YJ78FVDWTNZwanPJgkMSXUkfRJBgNsrg3bXRPT59jE5VSoMHcZVw1l
 
+
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frainchamber123%2Fposts%2Fpfbid02x6fDJn22d27YJ78FVDWTNZwanPJgkMSXUkfRJBgNsrg3bXRPT59jE5VSoMHcZVw1l&show_text=true&width=500" width=100% height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+書籍背景介紹
+https://www.facebook.com/share/p/18PfzFskNo/
+
 
 ## 講座影片
 
