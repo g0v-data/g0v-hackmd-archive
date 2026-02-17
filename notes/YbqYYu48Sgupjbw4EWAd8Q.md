@@ -25,6 +25,8 @@ tags: GIS
 - 健康影響
 - 污痕灰燼的物質流向：自然水體
     - 污痕灰燼以及街道清洗的污水，會從雨水下水道流入自然水體
+- 垃圾
+    - https://www.facebook.com/share/r/1LW7ENiVu9/
 
 
 法規與義務
