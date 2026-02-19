@@ -16,3 +16,11 @@
 #### 討論與決議
 - 申請細節：需要至少三個不同的組織一起合作，且至少要有一個組織是加拿大註冊
     - Sheridan College 可以成為那個加拿大的代表
+    - 需要確認 OCF 是否能夠擔任共同申請人
+:::info
+Ms. Yi-Jie Chen
+
+Tel: 02-2737-7682
+
+Email: yijiechen@nstc.gov.tw
+:::
