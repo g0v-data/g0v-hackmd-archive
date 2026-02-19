@@ -35,6 +35,9 @@ https://www.facebook.com/groups/chizutochimei/posts/3156766061143172/
 
 1603 陳第，本為古北口遊擊將軍，後解甲歸田，回到福建福州連江。陰曆萬曆三十年尾（陽曆1603年初），明朝將軍沈有容為了去驅逐假倭而發兵至今台灣安平外海，邀請陳第隨從。事後，陳第將當時約二十多天的經歷（萬曆三十年十二月七日即1603年1月18日出征、十日即1月21日抵達、三十除夕即2月10日離開），告知其好友陳學伊，陳學伊認為此事不可無記，力勸其記錄為文，作成〈東番記〉一文，文中可能亦收錄有沈有容出征前秘密招聘漁人所收集有關台灣的情報，收錄在沈有容輯《閩海贈言》一書中。當時也有人質疑，海寇盤據東番，而東番不屬中國，沒理由在版圖以外用兵，陳第也為文幫沈有容辯解。https://zh.wikipedia.org/zh-tw/%E6%9D%B1%E7%95%AA%E8%A8%98
 
+航線
+https://www.facebook.com/share/p/174eDXRfxM/
+
 1654 荷蘭人北部調查 https://www.facebook.com/share/p/19wzbpAG1N/
 
 1697 郁永河《裨海紀遊》 https://photos.app.goo.gl/1zDiwTNRDtMeyhBU7
@@ -76,6 +79,7 @@ https://www.facebook.com/share/p/1BugN7czw3/
 鹿野忠雄 https://g0v.hackmd.io/d7LoE2oHQFCYalTEWrt4aw?view
 
 1920 佐藤春夫 https://www.facebook.com/share/1AMuQPsGPJ/
+https://www.facebook.com/share/p/17zmfLFQpZ/
 
 1921 英領北婆羅洲政廳理民官魯特（Edward Owen Rutter, 1889-1944），於1921年4月3日至11日在臺灣做由南到北的旅行，前後九天 https://www.thenewslens.com/article/83104
 1923 Harry Alverson Franck，旅程：1923年10月中到11月底 https://www.books.com.tw/products/0010808391
