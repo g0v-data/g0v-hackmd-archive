@@ -34,6 +34,7 @@ https://www.facebook.com/share/p/1HRg52u6tk/
 - 捷運站 https://www.facebook.com/share/p/edJrJrgeJt8i2nJK/
 - 麟光站 https://www.facebook.com/share/p/1FjdrsFerf/
 - 愛明眼科 https://www.facebook.com/groups/birdwindowcollision/posts/1273161673399287/
+- 臺北市南港區天橋連通道玻璃護欄 https://photos.app.goo.gl/fXXmHRWD4RZV9D7EA
 - 臺北市南港區中研院生技園區 https://www.facebook.com/groups/birdwindowcollision/posts/1236196760429112/
 - 臺北市文山區政治大學圖書館 
     - https://photos.app.goo.gl/1GLyi9YiZNQf99x78
