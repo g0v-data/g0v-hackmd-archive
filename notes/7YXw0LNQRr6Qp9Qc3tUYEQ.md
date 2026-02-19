@@ -75,6 +75,7 @@ https://www.vtaiwan.tw/jitsi
 
 ### SINTEF in Norway 合作
 - 收到 SINTEF in Norway 的邀請，希望一起來投 [Nordforsk](https://www.nordforsk.org/calls/call-proposals-disruptive-technologies)的獎助計劃。
+- [SINTEF 討論](/kdTN_B8fTsmxAxaWgABvSg)
 #### Action List
 - 先敲線上會議的時間（GMT+1）
 - 確認分工、想要做的題目，以及我們能夠提供的協助
