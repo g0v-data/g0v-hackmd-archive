@@ -77,6 +77,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 《諸羅縣誌》山川總圖北部。影像來源：維基百科
     - 歷史地圖 https://www.facebook.com/share/p/ZHmx9jxcTKPgYpad/
     - 太古巢 河邊舊址 https://youtu.be/eRaDSA-qaxk
+    - 重要 [有照片] 大安森林公園內，黃氏古厝水柳居 https://youtu.be/qJ1M7FAgOKY?si=ynev4MVRPY3oSHCz&t=330
     - 東門護城河溝 https://www.facebook.com/105231068229012/photos/a.105265611558891/312616044157179/?type=3&mibextid=cr9u03
     - 大浪泵溪 
         - https://www.facebook.com/share/p/ki8m7BEEv2vCjkP8/
