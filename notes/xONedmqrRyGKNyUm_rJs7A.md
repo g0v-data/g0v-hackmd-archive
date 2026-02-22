@@ -4,6 +4,9 @@ tags: GIS,
 
 # 平埔族群
 
+各類素材蒐集
+https://photos.app.goo.gl/5qBWhLbZm6nfPVRY6
+
 平埔身分法三讀 萬淑娟談20年心路
 https://tcnn.org.tw/archives/256441
 
