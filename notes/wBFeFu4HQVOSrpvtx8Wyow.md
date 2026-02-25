@@ -43,3 +43,12 @@ https://www.vtaiwan.tw/jitsi
 :::
 
 ## 小小的分享
+### SINTEF 合作計畫
+- [SINTEF 合作討論](/kdTN_B8fTsmxAxaWgABvSg)
+- 目前確認過，vTaiwan 無法成為共同
+
+### 
+
+
+
+## 
