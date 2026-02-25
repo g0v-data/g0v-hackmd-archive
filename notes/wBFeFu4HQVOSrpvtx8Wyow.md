@@ -43,12 +43,29 @@ https://www.vtaiwan.tw/jitsi
 :::
 
 ## 小小的分享
+### 近期的一些分享整理
+- 德國馬歇爾基金會來台訪問團成員：國際民主組織(Democracy International)策略方針主任 Ms. Lauren Kirby 希望跟我們進行討論
+- 加拿大 [Le Devoir](https://www.ledevoir.com)記者Magdaline Boutros 來台訪問，目前敲定在 3/16 下午14:00，同時 3/11 vTaiwan 小松她會上線參加。
+- 歐洲議員訪問：延後至 3 月中至 3 月底
+
 ### SINTEF 合作計畫
 - [SINTEF 合作討論](/kdTN_B8fTsmxAxaWgABvSg)
-- 目前確認過，vTaiwan 無法成為共同
+- 目前確認過，vTaiwan 無法成為共同的申請者，根據國科會的規定，必須要是有獲得國科會補助資格的人，才可以成為本計劃的共同申請者
 
-### 
+### Mozilla Foundation 的 Democracy x AI Cohort 
+- Mozilla Foundation 的 Democracy x AI Cohort 是一個開放給全球團隊／創新者的招募計畫（類似 incubator + 陪伴式資助），目的是支援那些利用人工智慧強化民主機制的技術專案。它不只是單純給錢，而是提供 資金 + 培訓 + 專家輔導 + 社群網絡 幫助你把想法從 prototype 或早期成果，變成有實際影響力的產品或平台。
+- 其徵選的對象中有三項似乎與我們專案的內容是相關的：
+    - Deliberation platforms that help diverse communities discuss complex issues, build consensus, and navigate trade-offs at scale.
+    - Participatory decision-making tools that integrate public input directly into governance decisions, budgeting, and resource allocation.
+    - Community input systems that translate public voices into actionable insights for policymakers.
+- 你的技術使用 AI 作為核心能力，不是附屬功能
+### 團隊與技術
+- 有可運作的技術成果（不只概念、prototype 也可以），
+- 有 能執行 12 個月的團隊，
+- 願意在 grant 期間 公開部分 code、分享成果與學習，
+- 英文溝通與書面能力（申請表需用英文）
 
-
+### 後續聯繫
+- 如果僅有概念的話，亦可填寫表單：https://mozillafoundation.tfaforms.net/f/grantmaking?utm_source=chatgpt.com 
 
 ## 
