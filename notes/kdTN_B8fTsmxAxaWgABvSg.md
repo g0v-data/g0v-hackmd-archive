@@ -6,7 +6,7 @@ tags:vtaiwan
 
 ## Background 背景
 - [20260211 小松](/7YXw0LNQRr6Qp9Qc3tUYEQ)
-- 在 2026/2/10 收到來自挪威智庫 [SINTEF](https://www.sintef.no/en/)的邀請，希望我們一起參與一個提案競賽 [Nordforsk](https://www.nordforsk.org/calls/call-proposals-disruptive-technologies)的獎助計劃。
+- 在 2026/2/10 收到來自挪威智庫 [SINTEF](https://www.sintef.no/en/)的邀請，希望我們一起參與一個提案競賽 [The competition International Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges](https://www.nordforsk.org/calls/call-proposals-disruptive-technologies)的獎助計劃。
 - 雙方訂於 2026/02/19 21:00 進行第一次會議，討論可能的合作方向
 
 ## 討論記錄
