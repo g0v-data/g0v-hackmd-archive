@@ -9,13 +9,13 @@ If you are planning to [buy properties in Dubai Creek Harbour](https://takweenal
 
 Dubai Creek Harbour combines luxury living with strategic connectivity. Its proximity to major commercial hubs and lifestyle destinations makes it highly attractive for professionals and families alike.
 
-Investors who choose to [buy apartment in Dubai Creek Harbour](https://takweenaldar.ae/en/for-sale/dubai/studio-apartments-for-sale-dubai-creek-harbour) benefit from strong rental demand and steady appreciation. The community’s well-planned environment, waterfront setting, and modern amenities contribute to long-term value growth.
+Investors who choose to [buy apartment in Dubai Creek Harbour](https://takweenaldar.ae/en/for-sale/dubai/apartments-for-sale-dubai-creek-harbour) benefit from strong rental demand and steady appreciation. The community’s well-planned environment, waterfront setting, and modern amenities contribute to long-term value growth.
 
 With expert guidance from Takween Aldar, buyers can navigate the market confidently and select properties that match both lifestyle preferences and investment strategies.
 
 ### Buy Studio Apartment in Dubai Creek Harbour
 
-For first-time investors, choosing to [buy studio apartment in Dubai Creek Harbour](https://takweenaldar.ae/en/for-sale/dubai/apartments-for-sale-dubai-creek-harbour) is often the ideal starting point. Studio units offer affordability and high rental demand, especially among young professionals.
+For first-time investors, choosing to [buy studio apartment in Dubai Creek Harbour](https://takweenaldar.ae/en/for-sale/dubai/studio-apartments-for-sale-dubai-creek-harbour) is often the ideal starting point. Studio units offer affordability and high rental demand, especially among young professionals.
 
 These properties are compact yet functional, making them easy to rent and maintain. Investors looking for consistent occupancy and stable income often consider studios a reliable option.
 
