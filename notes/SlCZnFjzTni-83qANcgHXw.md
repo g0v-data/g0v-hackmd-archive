@@ -1,12 +1,12 @@
 ---
 tags: 宣傳組, 設計小組, summit2026
-title: 20251125 設計組第貳次會議
+title: 20251125 設計組第二次會議
 ---
 
 {%hackmd @summit2026/stylesheet %}
 <header><span class="summit-logo">g0v Summit</span>2026 設計小組</header>
 
-# 20251125 設計組第貳次會議
+# 20251125 設計組第二次會議
 
 > 時間：2025/11/25 （二） 7:00 PM
 > 地點：線上([傳送門](https://jitsi.ocf.tw/g0vSummit2026Media))
