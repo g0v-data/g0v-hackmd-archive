@@ -18,6 +18,9 @@ https://youtu.be/i6sLniNcCew
 竹塹社
 https://hackmd.io/@indigenous/HyRKA-FiI
 
+道卡斯，新港社
+https://www.facebook.com/share/1Jbg1km7dh/?mibextid=wwXIfr
+
 蔦松遺址與西拉雅
 https://youtu.be/kPPHzaxQqlc?si=7gadhyW9Pa9KRZMN
 
