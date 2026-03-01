@@ -42,6 +42,8 @@ https://quizlet.com/tw/606710364/112%E4%BD%B3%E9%9F%B3%E7%BF%B0%E6%9E%97%E5%9C%8
 畫圖猜圖/邀請馬：https://brushbattle.io/#440635
 你畫我猜    https://gartic.io/
 Google限時塗鴉    https://quickdraw.withgoogle.com/?locale=zh_TW
+Google Play 
+猜猜畫畫    https://play.google.com/store/apps/details?id=com.kwalee.drawit&hl=zh_TW
 
 擋廣告
 https://adguard.com/zh_tw/welcome.html?utm_campaign=home&utm_medium=license_activation&utm_source=android
@@ -58,17 +60,15 @@ https://web.jsps.kh.edu.tw/googlegame/
 
 #### 常用連結
 https://poki.com/zh/g/kiwi-clicker
-連播DoraA夢
-https://www.youtube.com/live/dgAEF2ppKg8?si=p-si6O8N2AbKzfVa
+
 打字練習1    https://worldofkeyboards.com/bopomofo
 打字練習2    https://typing.tw
 國字筆順    https://stroke-order.learningweb.moe.edu.tw/home.do?lang=zh_TW
 麥塊經典板  https://www.crazygames.com/game/minecraft-classic
 https://poki.com/zh#
 poki https://poki.com/zh#utm_source=redirect-en-zh
-happy-glass    https://poki.com/zh/g/happy-glass
+
 https://doodles.google/
-猴子商店 https://poki.com/zh/g/monkey-mart
 遊戲網站    https://www.crazygames.com
 遊戲網站    https://cn.game-game.com
 遊戲天堂    https://www.i-gamer.net/
