@@ -1,11 +1,11 @@
 ---
 tags: vTaiwan
 ---
-# 20260225 小松
+# 20260304 小松
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Josh, Peter, Tim
+參與者 Participants：
 
 ![](https://g0v.hackmd.io/_uploads/By9wUwBtbg.png)
 ![](https://g0v.hackmd.io/_uploads/BJoD8PSK-x.png)
@@ -42,3 +42,36 @@ https://www.vtaiwan.tw/jitsi
 :::
 
 ## 小小的分享
+
+### 與德國馬歇爾基金會訪台學人 Lauren Kirby 討論
+- 3/3 上午在福華飯店與德國馬歇爾基金會訪台學人 Lauren Kirby 針對 vTaiwan 在進行的專案與近期的研究進行討論。
+- Lauren Kirby 目前在 [Democracy International (DI)](https://democracyinternational.com/about/) 擔任策略與設計主任，DI 與世界各地的政府合作推動公民參與相關專案。
+- 討論的課題：
+    - vTaiwan 與 g0v 社群的發展
+    - 社群的運作方式與協作機制
+    - 專案的推進與發現
+- 達成的目標：
+    - 讓她更認識 vTaiwan 與 g0v 
+    - 分享去年與 TWNIC 合作的專案成果給她
+- 下一步：
+    - 由於時間有限，應該後續還會繼續交流
+    - 討論看看合作的可能性
+### 近期的交流邀請分享
+- 澳洲 [Democracy Developers](https://www.democracydevelopers.org.au/)的創辦人，同時是 ANU 的副教授[Vanessa Teague](https://www.democracydevelopers.org.au/2025/01/22/vanessa-teague/) 下週會來台灣參加 Real World Crypto，約了一個討論討論合作的可能性
+    - 目標：看看是否有機會合作爭取更多資源
+- 加拿大 [Le Devoir](https://www.ledevoir.com)記者Magdaline Boutros 來台訪問，目前敲定在 3/16 下午14:00，同時 3/11 vTaiwan 小松她會上線參加。
+    - 目標：完成訪問，以及討論看看是否有機會發表投書或專欄，主題以台灣的公民科技與數位工具為主
+- 歐洲議員討論：延後至 3 月中至 3 月底
+
+### 網域拍賣
+- https://vtw.link/ 因為域名續訂日期到期且不再續訂，需要在域名釋出後重新去處理
+- https://www.gandi.net/zh-Hant 可以在這邊註冊一個帳號，然後等 3/4 ~ 3/5 開始瘋狂刷 vtw.link 看什麼時候開放註冊，這邊註冊一年 430元而且會有台灣發票，我記得 vtaiwan 在 ocf 有帳戶，也許可以開 ocf 統編用 ocf 帳戶報帳。-[name=ronny]
+- 預計在今晚進行搶註 [name=peter]
+
+### 與國發會合作聯繫
+- 今天致電聯繫未果，明天會聯繫。已經跟同仁確認該專員明天會進辦公室了～
+- 
+
+## Mozilla 徵稿計畫
+- 計畫網頁：[Democracy x AI Cohort: Call for Proposals](https://www.mozillafoundation.org/en/what-we-do/grantmaking/incubator/democracy-ai-cohort/)
+- 共筆：[Mozilla Democracy x AI Cohort: Call for Proposals x vTaiwan](/7KIeOgmlTkiGHPreswTq0g)
