@@ -88,10 +88,11 @@ community governance
 
 2026 小松紀錄 2026 Weekly Meetup
 ----
-- [20250225小松](/wBFeFu4HQVOSrpvtx8Wyow)
-- [20250211小松](/7YXw0LNQRr6Qp9Qc3tUYEQ)
-- [20250204小松](/5jUQAE5BSjuIudyG-xIqFA)
-- [20250128小松](/kPBOQnhPS6OazYaNUnKtkg)
+- [20260304小松](/6ndubFQDRZqGUQ9BzXtgSQ)
+- [20260225小松](/wBFeFu4HQVOSrpvtx8Wyow)
+- [20260211小松](/7YXw0LNQRr6Qp9Qc3tUYEQ)
+- [20260204小松](/5jUQAE5BSjuIudyG-xIqFA)
+- [20260128小松](/kPBOQnhPS6OazYaNUnKtkg)
 - [20260121小松](/8DaTiu5HQnK0uHKPAvUMRQ)
 - [20260114小松](/nDzYYK1YRW2x24_AK4RQDg)
 - [20260107小松](/tGT-EDegQFyq96amJ2yjPA)
