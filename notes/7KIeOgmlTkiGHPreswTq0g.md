@@ -40,7 +40,7 @@ tags: vTaiwan
         - 過去 polis 的痛點：沒有辦法擴散的問題
         - 目前希望解決的問題：可以持續的擴散並且延展討論
         - recursive 
-        - 運用龍蝦大戰機器人
+        - 運用OpenClaw龍蝦大戰假訊息機器人
 - 加分
     - Mozilla 社群的長期參與
     - g0v 的公民科技社群基礎
@@ -54,6 +54,8 @@ tags: vTaiwan
 - 後期的功能
     - 身份驗證的機制
 - 參考文獻：
+    - https://journals.sagepub.com/doi/10.1177/13540661251382639
+ 
 ### Proposed Project Title
 ### Project Summary
 ### Your Project
@@ -107,7 +109,7 @@ These experiences provide strong evidence that AI-supported sense-making tools c
 ### Your Team
 - Who is building this? What relevant experience does your team have?
 - 希望下週小松前可以拿到相關資訊
-    - Peter, g0v contributor, 
+    - Peter
     - Josh 
     - Tim
     - Yiting
