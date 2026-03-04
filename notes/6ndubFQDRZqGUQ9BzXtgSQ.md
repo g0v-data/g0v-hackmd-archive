@@ -5,10 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：
-
-![](https://g0v.hackmd.io/_uploads/By9wUwBtbg.png)
-![](https://g0v.hackmd.io/_uploads/BJoD8PSK-x.png)
+參與者 Participants：Peter 
 
 
 https://www.vtaiwan.tw/jitsi
@@ -68,10 +65,15 @@ https://www.vtaiwan.tw/jitsi
 - https://www.gandi.net/zh-Hant 可以在這邊註冊一個帳號，然後等 3/4 ~ 3/5 開始瘋狂刷 vtw.link 看什麼時候開放註冊，這邊註冊一年 430元而且會有台灣發票，我記得 vtaiwan 在 ocf 有帳戶，也許可以開 ocf 統編用 ocf 帳戶報帳。-[name=ronny]
 - 預計在今晚進行搶註 [name=peter]
 
-### 與國發會合作聯繫
+## 與國發會合作聯繫
 - 今天致電聯繫未果，明天會聯繫。已經跟同仁確認該專員明天會進辦公室了～
-- 
+
+## SINTEF 合作
+- [SINTEF 合作討論](/kdTN_B8fTsmxAxaWgABvSg)
+- 目前的環節：參與意向書 NOI 終於找到三個單位一起擔任共同主持人：加拿大 謝里丹學院 / 挪威 SINTEF / 英國 Durham University 
+- vTaiwan 的角色：成為外部諮詢與合作單位
 
 ## Mozilla 徵稿計畫
 - 計畫網頁：[Democracy x AI Cohort: Call for Proposals](https://www.mozillafoundation.org/en/what-we-do/grantmaking/incubator/democracy-ai-cohort/)
+- AI 生成初稿：https://chatgpt.com/share/69a81206-83fc-800f-afc5-014106ca6af6 
 - 共筆：[Mozilla Democracy x AI Cohort: Call for Proposals x vTaiwan](/7KIeOgmlTkiGHPreswTq0g)

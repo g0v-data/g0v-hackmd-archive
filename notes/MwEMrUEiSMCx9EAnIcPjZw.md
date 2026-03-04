@@ -57,6 +57,44 @@
 - 輔助而非主導：工具不替人做決定
 - 以 Polis 精神為核心：找共識、而非比人氣
 
+## 1. Stage One: Opinion Gathering (Dynamic & Interactive)
+**Goal:** Capture the raw signal of participant opinions through rapid, low-friction interaction.
+
+### How it works
+This stage happens in one of two contexts:
+- **Online:** Participants engage with learning materials where **micro-voting** opportunities are embedded. As they read or watch, they react to Polis-style statements (Agree/Disagree/Pass).
+- **In Real Life:** An **LLM listens** to the live conversation (e.g., in breakout groups) and quickly identifies key statements. These are immediately presented to the group for voting.
+
+### Key Features
+- **Polis-style interaction:** Fast, binary (or ternary) voting creates a rich dataset without demanding long-form writing from everyone.
+- **Dynamic generation:** Statements evolve based on what is being discussed or consumed.
+
+### Seamless "Voting" Integration
+To avoid "survey fatigue," voting is framed as **continuous low-friction reacting**:
+*   **Citizen Education App (Online):** Users engage with an interactive learning platform (e.g., reading policy briefs, watching explainers). As they learn, micro-voting prompts appear *contextually*, allowing them to express opinions on specific points immediately after learning about them. This merges civic education with opinion gathering.
+*   **Ambient Listening (Live):** In physical spaces, the LLM monitors the discussion. When a distinct claim is made, it pushes a notification to participants' phones: *"A point was just made about [X]. Do you agree?"* This captures sentiment in the moment of expression without stopping the conversation.
+*   **Open Contribution:** Beyond reacting, users can submit their own statements via an open text field at any time. These user-generated statements enter the pool and are presented to other participants for rating, ensuring the agenda is shaped bottom-up, not just top-down.
+
+## 2. Stage Two: Iterative Consensus Discovery
+**Goal:** diverse opinions -> PCA -> Clustering -> Validation Loop -> Rough Consensus.
+
+### The Problem
+Traditional facilitation relies on what speakers say. This data-rich process allows us to identify what the silent majority actually thinks to avoid the "tyranny of speakers".
+
+### The Process
+1.  **Analysis:** The system generates a matrix of agreements/disagreements and runs **PCA (2D)** and clustering algorithms.
+2.  **Iterative Validation Loop:**
+    -   **Start Specific:** We begin with a larger number of small, tight clusters.
+    -   **Summarize:** The LLM generates a summary of opinions for each cluster.
+    -   **Verify:** We ask participants: *"Does this summary accurately represent your opinion?"*
+    -   **Expand or Stop:**
+        -   **If Approved (e.g., >X% agree):** We move to the next iteration with **fewer, bigger clusters** (broadening the consensus).
+        -   **If Rejected:** We stop. This marks the limit of the group's "Rough Consensus."
+
+### Outcome
+This "reverse-pyramid" approach finds the widest possible common ground that participants explicitly validate, ensuring the final output is not just an AI hallucination but a human-verified consensus.
+
+
 ## 開發方向（技術／產品層）
 1️⃣ 系統模組拆解（非常重要）
 - **Audio & Transcription Layer**
