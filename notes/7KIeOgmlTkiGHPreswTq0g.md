@@ -3,7 +3,7 @@ tags: vTaiwan
 ---
 # Mozilla Democracy x AI Cohort: Call for Proposals x vTaiwan
 
-## 背景緣起 Background
+## 主筆記
 - 從摩茲社群的 Irvin 處取得資訊
 - 於 [20260225 小松](/wBFeFu4HQVOSrpvtx8Wyow) 確認以之前申請 TWNIC 的企劃書改投稿來申請
     - 時程：
@@ -13,12 +13,15 @@ tags: vTaiwan
         - Full Proposals Due: April 15, 2026
         - Selections Announced: June 1, 2026
         - Cohort Begins: 12 months beginning June 2026
+- [20260304 小松](/6ndubFQDRZqGUQ9BzXtgSQ) 確認需要整理以下資料
+    - 見第一階段提案
 
 ## 第一階段提案
 - 根據這個 proposal 的設計，要通過第一階段才有第二階段。
+### 
 ### Your Project
 - What technology are you building? How does it address this cohort's theme?
-    - 待補
+    - 
 - Who’s part of the community you hope benefits from your project? How are you connecting with them? What community challenge does your project help to address?
     - 待補
 - Describe your project's traction. What’s working? What evidence do you have that this technology solves a real problem?
