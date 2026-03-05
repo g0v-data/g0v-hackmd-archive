@@ -74,11 +74,38 @@ Production API 在晚間無回應。經檢查發現系統負載極高 (Load Aver
     - Gemini 3.1 Flash-Lite
         - Video: $0.25/1M token
         - Audio: $0.5/1M token
-- 又好又快又便宜 --> 換
+- 又好又快又便宜 --> 換！ https://github.com/cofacts/rumors-api/pull/380
 
-## Cofacts.ai
+## nDX 專案
 
+分三塊
+1. cofacts.ai：chat interface & agent
+2. Website revamp：現在的 cofacts.tw 的改進，以與 AI 整合
+3. 行政項目：找人、準備文件等等
+
+### Cofacts.ai
+
+- 嘗試過的組合
+    - mastra + copilotkit https://github.com/MrOrz/beta-ai-mastra
+        - mastra 是 typescript 很不錯
+        - 和 adk 相比 mastra 包的東西有點太多（workflow, trace 什麼的）我覺得可能會有點複雜
+    - adk + copilotkit
+        - copilotkit 有現成的 UI 算是舒服
+        - 但即使是「在 landing page 傳訊息之後跳轉到 session 頁面」這樣的 UX，也會需要用到付費的 headless hook
+        - 只用 AGUI protocol: 不會保留 ADK 的 author 等欄位
+        - 最後決定直接用純的 ADK
 - 現況
+    - 製作方法
+        - 在 antigravity 分析完現有 figma 圖片之後送進 stitch 做 UI，經過多次來回後完成初稿 https://stitch.withgoogle.com/projects/3329376242415119860?pli=1
+        - 將初稿（圖片 + HTML）下載下來後 vibe coding
+    - https://github.com/cofacts/ai
+        - 對話已經會 work (同 beta-ai)
+        - 右側欄還沒接
+    - Tanstack start 接 Python ADK
+        - Python ADK 所有 API 不直接對外，由 tanstack start 的 API 做 proxy
+    - Staging: cofacts-ai-236494820908.asia-east1.run.app
+        - 直接用 [sidecar](https://docs.cloud.google.com/run/docs/deploying?hl=zh-tw#sidecars) 把 ADK 和 tanstack start build 出來的兩個 image 塞在同一個 Google run service
+        - min instance = 0，啟動稍慢 (acceptable for staging)
 - 時程
     - [ ] Johnson 分享新年期間 Cofacts.ai 開發進度。
     - [ ] 討論 evaluation 機制。
@@ -86,4 +113,9 @@ Production API 在晚間無回應。經檢查發現系統負載極高 (Load Aver
     - Cofacts.ai
     - Website revamp
     - Administrative
+
+### Website revamp
+
+- In contact with YuTin, wil
+
 
