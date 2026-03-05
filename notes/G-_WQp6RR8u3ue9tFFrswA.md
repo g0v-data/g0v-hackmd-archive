@@ -12,10 +12,14 @@
 - [ ] **小聚檢討**：盤點延長線，為 4/12 小聚做準備。
 - [ ] **伺服器**：將 Elasticsearch 的 heap space 從 7GB 調整到 8GB。
 - [ ] **資料庫遷移**：nonumpa 分享 feature/upgrade-to-elasticsearch-v9 branch 進度與效能問題。
-- Opendata & DB backup
+- DB backup
     - Production elasticsearch 的 backup 停了，因為 gcs 找不到
-        - 改了些東西 TBA
-    - https://github.com/cofacts/opendata/pull/29
+    - 主因是 production elasticsearch 沒有 bind mount elasticsearch 放 plugin 的地方
+    - 改了 docker-compose.yml 使 plugin 也在 host machine 的檔案系統了
+- Opendata 
+    - 自動打包 https://github.com/cofacts/opendata/pull/29
+    - 自動上傳 https://github.com/cofacts/opendata/pull/30
+    - https://huggingface.co/datasets/Cofacts/line-msg-fact-check-tw 每週一凌晨會更新了
 
 ## 綜合討論
 ### 系統架構討論
