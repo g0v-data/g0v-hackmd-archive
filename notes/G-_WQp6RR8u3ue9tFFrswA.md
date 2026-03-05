@@ -2,16 +2,19 @@
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
+- NPO Hub 出席：bil, lahna, mrorz, nonumpa
 - 線上出席：
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
 ## 上次會議待辦
-
-- [ ] **小聚檢討**：盤點延長線，為 4/12 小聚做準備。
-- [ ] **伺服器**：將 Elasticsearch 的 heap space 從 7GB 調整到 8GB。
 - [ ] **資料庫遷移**：nonumpa 分享 feature/upgrade-to-elasticsearch-v9 branch 進度與效能問題。
+
+
+
+
+## Past events
+
 - DB backup
     - Production elasticsearch 的 backup 停了，因為 gcs 找不到
     - 主因是 production elasticsearch 沒有 bind mount elasticsearch 放 plugin 的地方
@@ -21,11 +24,6 @@
     - 自動上傳 https://github.com/cofacts/opendata/pull/30
     - https://huggingface.co/datasets/Cofacts/line-msg-fact-check-tw 每週一凌晨會更新了
 
-## Past events
-### 系統架構討論
-- **mrorz** 在 2026/02/13 分享了系統架構圖，並引發了相關討論。
-> Alfred chen@g0v-tw: 我理解的我們系統的結構長這樣對不對？
-
 ### 重大事件：伺服器無回應
 - **mrorz** 在 2026/02/13 20:06 (UTC+8) 回報 API 無回應，最終在約一小時後，透過重啟伺服器解決。
 > mrorz@g0v-tw: API 似乎掛了，但我看不出為啥
@@ -34,6 +32,46 @@
 事件摘要
 Production API 在晚間無回應。經檢查發現系統負載極高 (Load Average > 6)，Elasticsearch container 變成 Zombie process 且無法停止，Docker daemon 操作卡死。最終透過重啟整台 VPS 恢復服務。
 
+Post-mortem: Production API Unresponsive Incident (2026-02-13)
+事件摘要
+Production API 在晚間無回應。經檢查發現系統負載極高 (Load Average > 6)，Elasticsearch container 變成 Zombie process 且無法停止，Docker daemon 操作卡死。最終透過重啟整台 VPS 恢復服務。
+影響範圍
+時間: 約 20:00 - 21:03 (UTC+8)，持續約 1 小時。
+服務: API (api.cofacts.tw) 回應 Timeout，導致網站與 LINE Bot 無法正常運作。
+狀態: 目前已完全恢復。
+
+事件時間軸 (Timeline)
+• 20:06: User 發現 API 無反應。嘗試重啟 url-resolver 與 api 成功，但服務未恢復。嘗試停止 db (Elasticsearch) 失敗，docker stop 與 docker kill command hang 住。
+• 20:39: Coding Agent (我) 介入調查。
+• 20:40: 診斷發現機器 Load Average 6.11，Elasticsearch process (PID 2443) 呈現 Zombie 狀態且佔用 26.5% CPU。kswapd0 活躍 (Swap Thrashing)。
+• 20:41: 嘗試 docker-compose restart db，Timeout 失敗。
+• 20:43: 嘗試直接 kill -9 Elasticsearch 的父行程 (containerd-shim)。
+結果：Container 重啟了，記憶體釋放 (12GB -> 8.7GB)，API Port 恢復連線。
+問題：Elasticsearch 因非正常關閉，留下了 write.lock 檔案，導致新啟動的 process 無法寫入資料目錄而啟動失敗。
+• 20:50: 嘗試再次停止 db container 以清理 lock files。所有 Docker 指令 (stop, kill, update) 全部卡死無反應。
+• 20:54: 判斷 Docker Daemon 本身已故障，嘗試 systemctl restart docker。
+結果：指令卡在 deactivating 狀態超過 6 分鐘，無法完成 graceful shutdown。
+• 21:00: 執行 sudo reboot 強制重啟整台機器。
+• 21:03: 機器重啟完成。SSH 恢復，所有 Docker containers 自動啟動 (Up)，Load Average 降至正常值 (1.80)。API 確認恢復正常回應。
+• 21:18: 啟用 sysstat (sar) 服務以記錄未來系統資源歷史數據。更新
+VPS.md Troubleshooting 指南。
+
+根因分析 (Root Cause Analysis)
+直接原因: Elasticsearch Java Process 進入 Zombie/Uninterruptible Sleep (D state) 狀態，導致 Docker Daemon 無法透過標準信號 (SIGTERM/SIGKILL) 控制它。
+潛在原因 (推測): Memory Exhaustion & I/O Wait。
+證據：事故當下 kswapd0 佔用 CPU，Swap 使用量增加，Load Average 飆高。
+推論：系統記憶體不足 (16GB RAM, ES Heap 8GB + Chrome/Node.js overhead)，導致 Kernel 頻繁將 Page Cache 交換到 Disk (Thrashing)。這造成 Disk I/O 隊列塞爆，所有嘗試寫入 Log 或狀態檔的操作 (包含 Docker 指令) 全部被 Block 住。
+API Timeout: 分析 Logs 發現大量請求在 120s (Timeout 設定) 結束，證實因為 DB 卡死導致 API thread pool 耗盡或無法回應。
+
+後續改善措施 (Action Items)
+1. [已完成] 啟用系統監控: 已在 Production 機器啟用 sysstat，每 10 分鐘記錄一次 CPU、I/O Wait 與記憶體狀態。
+未來除錯指令：sar -u -f /var/log/sysstat/sa<DATE>
+2. [已完成] 更新文件: 更新
+VPS.md，加入 sysstat 使用方式與嚴重 Docker 故障的處理流程。
+3. [建議] 持續觀察記憶體與 I/O:
+若再次發生類似狀況，檢查 sar 紀錄確認是否為 I/O Wait 飆高。
+若記憶體壓力持續，建議將 Elasticsearch Heap Size 從 8GB 調降至 6GB-7GB，預留更多空間給 OS Page Cache。
+4. [建議] 檢查服務資源佔用: 留意 url-resolver (Puppeteer) 是否有記憶體洩漏傾向，可能需要更激進的重啟策略或資源限制。
 
 ## Github 活動
 ### cofacts/ai
@@ -117,6 +155,8 @@ Production API 在晚間無回應。經檢查發現系統負載極高 (Load Aver
 ### Website revamp
 
 - In contact with YuTin, will discuss tomorrow night 8pm
-- 幾個大項目
-    - 
+- 幾個大項目 
+
+
+### Administrative
 
