@@ -8,10 +8,7 @@
 :::
 
 ## 上次會議待辦
-- [ ] **資料庫遷移**：nonumpa 分享 feature/upgrade-to-elasticsearch-v9 branch 進度與效能問題。
-
-
-
+- **資料庫遷移**：nonumpa 分享 feature/upgrade-to-elasticsearch-v9 branch 進度與效能問題。
 
 ## Past events
 
@@ -23,6 +20,12 @@
     - 自動打包 https://github.com/cofacts/opendata/pull/29
     - 自動上傳 https://github.com/cofacts/opendata/pull/30
     - https://huggingface.co/datasets/Cofacts/line-msg-fact-check-tw 每週一凌晨會更新了
+- 要 po 粉專宣傳嗎？可以。
+
+:::success
+要用 Gemini 寫個 FB 貼文推廣 huggingface dataset + 圖
+by MrOrz
+:::
 
 ### 重大事件：伺服器無回應
 - **mrorz** 在 2026/02/13 20:06 (UTC+8) 回報 API 無回應，最終在約一小時後，透過重啟伺服器解決。
@@ -32,15 +35,15 @@
 事件摘要
 Production API 在晚間無回應。經檢查發現系統負載極高 (Load Average > 6)，Elasticsearch container 變成 Zombie process 且無法停止，Docker daemon 操作卡死。最終透過重啟整台 VPS 恢復服務。
 
-Post-mortem: Production API Unresponsive Incident (2026-02-13)
+#### Post-mortem: Production API Unresponsive Incident (2026-02-13)
 事件摘要
-Production API 在晚間無回應。經檢查發現系統負載極高 (Load Average > 6)，Elasticsearch container 變成 Zombie process 且無法停止，Docker daemon 操作卡死。最終透過重啟整台 VPS 恢復服務。
+- Production API 在晚間無回應。經檢查發現系統負載極高 (Load Average > 6)，Elasticsearch container 變成 Zombie process 且無法停止，Docker daemon 操作卡死。最終透過重啟整台 VPS 恢復服務。
 影響範圍
-時間: 約 20:00 - 21:03 (UTC+8)，持續約 1 小時。
-服務: API (api.cofacts.tw) 回應 Timeout，導致網站與 LINE Bot 無法正常運作。
-狀態: 目前已完全恢復。
+- 時間: 約 20:00 - 21:03 (UTC+8)，持續約 1 小時。
+- 服務: API (api.cofacts.tw) 回應 Timeout，導致網站與 LINE Bot 無法正常運作。
+- 狀態: 目前已完全恢復。
 
-事件時間軸 (Timeline)
+##### 事件時間軸 (Timeline)
 • 20:06: User 發現 API 無反應。嘗試重啟 url-resolver 與 api 成功，但服務未恢復。嘗試停止 db (Elasticsearch) 失敗，docker stop 與 docker kill command hang 住。
 • 20:39: Coding Agent (我) 介入調查。
 • 20:40: 診斷發現機器 Load Average 6.11，Elasticsearch process (PID 2443) 呈現 Zombie 狀態且佔用 26.5% CPU。kswapd0 活躍 (Swap Thrashing)。
@@ -53,17 +56,17 @@ Production API 在晚間無回應。經檢查發現系統負載極高 (Load Aver
 結果：指令卡在 deactivating 狀態超過 6 分鐘，無法完成 graceful shutdown。
 • 21:00: 執行 sudo reboot 強制重啟整台機器。
 • 21:03: 機器重啟完成。SSH 恢復，所有 Docker containers 自動啟動 (Up)，Load Average 降至正常值 (1.80)。API 確認恢復正常回應。
-• 21:18: 啟用 sysstat (sar) 服務以記錄未來系統資源歷史數據。更新
-VPS.md Troubleshooting 指南。
+• 21:18: 啟用 sysstat (sar) 服務以記錄未來系統資源歷史數據。更新 VPS.md Troubleshooting 指南。
 
-根因分析 (Root Cause Analysis)
-直接原因: Elasticsearch Java Process 進入 Zombie/Uninterruptible Sleep (D state) 狀態，導致 Docker Daemon 無法透過標準信號 (SIGTERM/SIGKILL) 控制它。
-潛在原因 (推測): Memory Exhaustion & I/O Wait。
-證據：事故當下 kswapd0 佔用 CPU，Swap 使用量增加，Load Average 飆高。
-推論：系統記憶體不足 (16GB RAM, ES Heap 8GB + Chrome/Node.js overhead)，導致 Kernel 頻繁將 Page Cache 交換到 Disk (Thrashing)。這造成 Disk I/O 隊列塞爆，所有嘗試寫入 Log 或狀態檔的操作 (包含 Docker 指令) 全部被 Block 住。
-API Timeout: 分析 Logs 發現大量請求在 120s (Timeout 設定) 結束，證實因為 DB 卡死導致 API thread pool 耗盡或無法回應。
+##### 根因分析 (Root Cause Analysis)
 
-後續改善措施 (Action Items)
+- 直接原因: Elasticsearch Java Process 進入 Zombie/Uninterruptible Sleep (D state) 狀態，導致 Docker Daemon 無法透過標準信號 (SIGTERM/SIGKILL) 控制它。
+- 潛在原因 (推測): Memory Exhaustion & I/O Wait。
+- 證據：事故當下 kswapd0 佔用 CPU，Swap 使用量增加，Load Average 飆高。
+- 推論：系統記憶體不足 (16GB RAM, ES Heap 8GB + Chrome/Node.js overhead)，導致 Kernel 頻繁將 Page Cache 交換到 Disk (Thrashing)。這造成 Disk I/O 隊列塞爆，所有嘗試寫入 Log 或狀態檔的操作 (包含 Docker 指令) 全部被 Block 住。
+- API Timeout: 分析 Logs 發現大量請求在 120s (Timeout 設定) 結束，證實因為 DB 卡死導致 API thread pool 耗盡或無法回應。
+
+##### 後續改善措施 (Action Items)
 1. [已完成] 啟用系統監控: 已在 Production 機器啟用 sysstat，每 10 分鐘記錄一次 CPU、I/O Wait 與記憶體狀態。
 未來除錯指令：sar -u -f /var/log/sysstat/sa<DATE>
 2. [已完成] 更新文件: 更新
@@ -98,6 +101,12 @@ VPS.md，加入 sysstat 使用方式與嚴重 Docker 故障的處理流程。
 - 在 2026/02/13，`cofacts.tw`, `api.cofacts.tw`, `line-bot.cofacts.tw` 皆因 HTTP timeout 或 回應 530 錯誤而觸發警報。
 - 在 2026/02/23，`api.cofacts.tw`, `line-bot.cofacts.tw`, `cofacts.tw` 皆因 HTTP timeout 而觸發警報。
 
+### 自動刪除帳號
+	
+- 2/23 ~ 2/25 spammer 持續貼文，沒發現他已經被我們標記。
+- 最近 spammer 都貼泰文 [name=nonumpa]
+- 網站流量最高前五名有孟加拉 [name=bil]
+	
 ## Transcript model
 
 - 2026 年 3 月初出了 Gemini 3.1 Flash Lite https://ai.google.dev/gemini-api/docs/models/gemini-3.1-flash-lite-preview?hl=zh-tw
@@ -121,13 +130,14 @@ VPS.md，加入 sysstat 使用方式與嚴重 Docker 故障的處理流程。
 2. Website revamp：現在的 cofacts.tw 的改進，以與 AI 整合
 3. 行政項目：找人、準備文件等等
 
+
 ### Cofacts.ai
 
 - 嘗試過的組合
     - mastra + copilotkit https://github.com/MrOrz/beta-ai-mastra
         - mastra 是 typescript 很不錯
         - 和 adk 相比 mastra 包的東西有點太多（workflow, trace 什麼的）我覺得可能會有點複雜
-    - adk + copilotkit
+    - adk + copilotkit (AGUI)
         - copilotkit 有現成的 UI 算是舒服
         - 但即使是「在 landing page 傳訊息之後跳轉到 session 頁面」這樣的 UX，也會需要用到付費的 headless hook
         - 只用 AGUI protocol: 不會保留 ADK 的 author 等欄位
@@ -144,19 +154,36 @@ VPS.md，加入 sysstat 使用方式與嚴重 Docker 故障的處理流程。
     - Staging: cofacts-ai-236494820908.asia-east1.run.app
         - 直接用 [sidecar](https://docs.cloud.google.com/run/docs/deploying?hl=zh-tw#sidecars) 把 ADK 和 tanstack start build 出來的兩個 image 塞在同一個 Google run service
         - min instance = 0，啟動稍慢 (acceptable for staging)
-- 時程
-    - [ ] Johnson 分享新年期間 Cofacts.ai 開發進度。
-    - [ ] 討論 evaluation 機制。
-- Projects (organization project on Github)
-    - Cofacts.ai
-    - Website revamp
-    - Administrative
+- TODO
+	- React-markdown --> 回應編輯器 
+	- 資料關聯整理：準備 source list 然後掃 messages 
+	- Session list
+	- Deploy to production w/ Claudelare
+	- 整理 header (logo、menu、搜尋⋯⋯ etc)
+	- landing page focus issue
+	- input 在組字時 enter 會直接送出
+	- tool call 細節調整
+	- Langfuse feedback buttons
+	- ADK 升級到可以看到 openapi.json
+	- 直接用 ADK type 來 render events 而非轉成 messages
+	- 在 tool call 中間關掉瀏覽器視窗再打開同一個 session page，要可以繼續串流結果
 
 ### Website revamp
 
 - In contact with YuTin, will discuss tomorrow night 8pm
 - 幾個大項目 
-
+  - cofacts.tw 重寫進 cofacts.ai 的 repository，終極目標是 cofacts.ai 取代現在 cofacts.tw 的樣子
+  - cofacts 帳號系統 https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.3fmvmgsjjweh (不確定)
+	- 圖片影片向量化搜尋、thumbnail
 
 ### Administrative
 
+- Quarterly reports deadline
+	- 2026-07-05 Q1 report
+	- 2026-09-04 Mid-term report
+	- 2026-12-04 Q3 report
+  - 2027-02-01 Final report
+- 報告開放兩週前繳交
+- 2027-04 實體發表會
+- Legal documents and contracts	
+	
