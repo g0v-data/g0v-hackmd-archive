@@ -116,6 +116,7 @@ Production API 在晚間無回應。經檢查發現系統負載極高 (Load Aver
 
 ### Website revamp
 
-- In contact with YuTin, wil
-
+- In contact with YuTin, will discuss tomorrow night 8pm
+- 幾個大項目
+    - 
 
