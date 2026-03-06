@@ -72,11 +72,25 @@ tags: 遺址
 
 
 
-
-
-
-
 ## 其他
+
+### 呈現方式發想
+
+地底下的台灣：如何用 AI 打造『全台考古遺址』知識 Master Registry by 哈爸
+https://wuulong.github.io/wuulong-notes-blog/posts/20260306_hgis-series-08-archaeology-master-registry/
+
+空間拓樸：尋找遺址與河的『生存甜蜜點』by 哈爸
+https://wuulong.github.io/wuulong-notes-blog/posts/20260306_hgis-series-09-spatial-topology-river/
+
+Z 軸的證言：用 DTM 高程還原海陸三千載 by 哈爸
+https://wuulong.github.io/wuulong-notes-blog/posts/20260306_hgis-series-10-dtm-settlement-shift/
+
+taiwan-history-atlas by 哈爸
+https://github.com/wuulong/taiwan-history-atlas
+
+
+
+
 
 ### 相關活動
 

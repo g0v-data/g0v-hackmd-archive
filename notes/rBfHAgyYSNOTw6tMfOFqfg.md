@@ -11,6 +11,13 @@ https://docs.google.com/spreadsheets/d/1P1sCLPAQP9hUwMFVGzneg9lAIFLoYe_arsmgdUy2
 
 # AI 應用
 
+好好用 AI ✨教材索取與合作連結：https://forms.gle/WVMaS8ATL4mLwmCJ7
+
+[情境測驗] ✨AI 是你的好朋友嗎？
+https://ooopenlab.cc/quiz/ObrzOME4l3PZ2qZNqMai
+
+[情境測驗] ✨辦公室簡報危機：https://ooopenlab.cc/quiz/UAHFaxixC9eR1quUeIjz
+
 演講影片 AI時代：機會與挑戰｜113-2 人文與科技的對話
 主講人：簡立峰（前中央研究院資訊科學研究所 副所長）
 https://youtu.be/b36XzNi23Yw
