@@ -25,8 +25,10 @@ tags: Rentea
 2. 每季/半年找個地方出去玩
    - 來 ddio 家的工地玩！ [name=ddio]
        - 想去看工地！ [name=YC]
+       - 想逛 ddio 家+1
    - 逛展覽也很棒，需要有人揪團
        - 可以負責揪團 [name=peter]
+       - 喜歡逛展覽+1
 3. 專案部份，用平日中午 + 非同步溝通 [name=ddio]
 4. 一起做官網 [name=ddio]
    - 雖然目前我毫無技術力，但想嘗試看看！ [name=YC]
