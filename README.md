@@ -2,11 +2,12 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [GIS](tags/GIS.md) | 178 | 2026-03-06T14:46:15+00:00 |
+| [ japan](tags/%20japan.md) | 1 | 2026-03-06T14:46:15+00:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 36398 | 2026-03-06T13:00:13+00:00 |
 | [jothon](tags/jothon.md) | 44 | 2026-03-06T08:52:43+00:00 |
 | [遺址](tags/%E9%81%BA%E5%9D%80.md) | 1 | 2026-03-06T08:28:02+00:00 |
 | [Rentea](tags/Rentea.md) | 204 | 2026-03-06T02:37:29+00:00 |
-| [GIS](tags/GIS.md) | 178 | 2026-03-05T10:27:55+00:00 |
 | [vTaiwan](tags/vTaiwan.md) | 129 | 2026-03-04T12:10:37+00:00 |
 | [digital-resilience](tags/digital-resilience.md) | 53 | 2026-02-28T07:26:40+00:00 |
 | [ resilience](tags/%20resilience.md) | 12 | 2026-02-28T07:26:40+00:00 |
@@ -41,7 +42,6 @@
 | [edu](tags/edu.md) | 159 | 2026-02-01T12:45:10+00:00 |
 | [ GIS](tags/%20GIS.md) | 4 | 2026-02-01T12:45:10+00:00 |
 | [cowork guideline](tags/cowork%20guideline.md) | 22 | 2026-02-01T12:12:33+00:00 |
-| [ japan](tags/%20japan.md) | 1 | 2026-01-27T06:07:58+00:00 |
 | [data](tags/data.md) | 3 | 2026-01-26T17:11:22+00:00 |
 | [ edu](tags/%20edu.md) | 4 | 2026-01-26T17:11:22+00:00 |
 | [ labor](tags/%20labor.md) | 1 | 2026-01-26T17:11:22+00:00 |
