@@ -90,7 +90,9 @@ sudo docker run --gpus all -d --network host \
 -e OMNI_PASS='eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJuY2t1aW1yYyIsInByb2ZpbGUiOnsiZmlyc3RfbmFtZSI6IiIsImxhc3RfbmFtZSI6IiIsImVtYWlsIjoiIiwiYWRtaW4iOnRydWUsIm51Y2xldXNfcm8iOmZhbHNlLCJyZWFkb25seSI6ZmFsc2UsInByb3ZpZGVyIjoiSW50ZXJuYWwiLCJlbmFibGVkIjp0cnVlLCJhY3RpdmF0ZWQiOnRydWV9LCJqdGkiOiI1N2UxM2Y2NThhN2I0YWY2OTdjYjI1ZGUzYzA4Zjg0YyIsImlhdCI6MTc3MjgwODYyNn0.pbEkK2Q47a2VEuwPHyNvd6sU7VVsIZvIumBYDYVcNBEiFkyQoh6AG918Amvt-6rPbn0TfQ1Qd7OYV0VZtoLljFv0u9lh1-1hgzIht2STaD6zXow6ls-ZKUrDKXJ0UUVOZmJ8vE4qSGdtYZcpX6_3DAMSqDvylv2NQSIx-77j2iKPVZD6rHOZb95I7H3WkS7-V_JpNTYcV_iZ0xIBwqH3myb24gRYmBliGaggZVpWGaH3gG8hjn2T2MZnfpUyRxjxiqMwKJkcVskWfQvlWl057a0K5fKCQ8oZgKFUjDeMzZtZl_QUq6vt7R5z9pAxzLamVutjlDVXkvbyHiZ_4h4fIkbffXMEk3RmZjkPWJa_lWJ-hkQYAyVQH-nAkkqi664BhSb1Kt4GBrJDeUNLLCMZSL0zIVvzd1BfeOjfKG7xAMo44NjO27sAylX_-HzY9TAE6pzxb9CtFK4WuYc97CZTvEyGshyTbFWyaSQXw1Fy4jCaHGesqYg97xWIZXfxk2Z_uxagSKpDZ_gCs4BAOFpx1s0u88IzlQIJP-7_gVpRI_FozaNRCTIm-fPL1UL-JZdOq1zlFZ_ydiuiDPOST7RHXnzhZrLvQPYPWan16J3BKf7i6YrLs91vo5HDblRYNLsNp9irg15DgqLcJqI9mEftmvAhc_1qjgOP9iGHKDkAbHI' \
 -e OMNI_HOST='140.116.234.118:8080' \
 nvcr.io/nvidia/isaac-sim:5.1.0 \
-bash -lc "cd /isaac-sim && ./runheadless.sh"
+bash -lc "cd /isaac-sim && ./runheadless.sh \
+--/exts/omni.kit.livestream.app/primaryStream/streamPort=47998 \
+--/exts/omni.kit.livestream.app/primaryStream/signalPort=49100"
 ```
 ```
 sudo docker logs -f isaac51
