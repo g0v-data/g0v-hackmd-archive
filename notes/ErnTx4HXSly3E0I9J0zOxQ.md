@@ -2,11 +2,7 @@
 tags: GIS
 ---
 
-# 好連街 - 連續型行人路徑繪製步驟
-Continuous Pedestrian Pathway
-
-🌟 在街區內創造一條連續的行人路徑，且盡可能避免受到車道阻斷，避免車輛直通穿越。
-🌟 透過調整車輛行駛方向與轉向系統，藉此創造行人連續路徑，減少人車交錯路口數量，也可以用「洄游型行車路線」來描述車輛轉向特點。
+# 好連街 GDP _ Good District Path
 
 :::success
 歡迎加入交流討論社團：
@@ -18,27 +14,44 @@ https://www.facebook.com/groups/474536628587982
 [TOC]
 :::
 
-## 什麼是「跨街區連續型行人路徑」？
+## 什麼是「好連街」？
 
 ### 介紹
 
-🌟 在街區內創造一條連續的行人路徑，且盡可能避免受到車道阻斷，避免車輛直通穿越。
-🌟 透過調整車輛行駛方向與轉向系統，藉此創造行人連續路徑，減少人車交錯路口數量，也可以用「洄游型行車路線」來描述車輛轉向特點。
+🌟 在街區內營造行人友善路徑，方案多元，包含車道瘦身、時段無車、預設無車等。
+🌟 在街區內創造一條連續的行人路徑 (Continuous Pedestrian Pathway)，且盡可能避免受到車道阻斷，避免車輛直通穿越。可以透過調整車輛行駛方向與轉向系統，藉此創造行人連續路徑，減少人車交錯路口數量，也可以用「洄游型行車路線」來描述車輛轉向特點。
 
-#### 名稱發想
+## 【對策】營造街區內的明確綠道
 
-- 主軸是形塑出街區內，可以感到安心、放心、人走的路
-- 動作：研擬、實踐
-- 目標：街區內安心的行人路徑
+### 案例蒐集
 
+#### 類型一：土地使用分區從原本的道路改為非道路
 
-### 參考案例
+例如大安區麗水公園、大直北安路536巷、臺大舟山路、基河路科教館兒童樂園段。
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSJ1EDIzKek2QdNWGR76oeA311ud1oTESIvSGj0-T7xdeuLPXKIgI2LTbemtFws8zYO_Bobdd9Gy2fO/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="470" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+#### 類型二：土地使用分區仍屬於可建築用地
 
-另開簡報
-https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X5cE/edit
+例如該道路雖仍屬住宅區，但保留為無車巷弄，例如萬華區萬大路423巷106弄。
 
+#### 類型三：建築用地的開放空間，充分加強將行人動線系統於基地的順暢度，並與所在街廓巷弄動線先銜接
+
+例如松山區八德路合庫總部、大安區公務人力發展中心基地北側留設水綠通學巷。
+
+#### 類型四：土地使用分區仍屬於道路，但目前保留為無車巷弄
+
+例如大安區德安公園南側、古莊公園東側、永康公園東側、興亞公園東側、士林區福德路31巷南半段士林紙廠圍牆旁的巷弄、頂好廣場、龍門廣場等案例，部分案例亦將該無車巷弄視為相鄰公園之延伸，相互整合成整體之開放空間。
+
+#### 類型五：土地使用分區仍屬於道路，也允許汽車通行，但有明確限縮車道寬度，甚至融合喬木綠化
+
+例如民生東路二段147巷、進安公園南側巷弄、大安區大學里溫州街52巷 S 型車道。
+
+### 案例照片蒐集
+
+[主題] 巷弄道路變更為公園或綠道化
+https://photos.app.goo.gl/PothcgShgdY5ThrB8
+
+[主題] 街廓巷弄 / 戶外舒適度 / 沒遮道 / 影響沿線建物介面設計
+https://photos.app.goo.gl/BAumLMXn12wD9qmp9
 
 ## 【對策】斜向路徑
 
@@ -52,6 +65,12 @@ https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X
         - https://www.facebook.com/groups/474536628587982/permalink/623587027016274/
     - 社團討論串：
 
+### 各地案例
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSJ1EDIzKek2QdNWGR76oeA311ud1oTESIvSGj0-T7xdeuLPXKIgI2LTbemtFws8zYO_Bobdd9Gy2fO/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="470" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+另開簡報
+https://docs.google.com/presentation/d/1MqY6TI4I1GgPUt4Mo05zHeg0A5DYIMlj35Rcej_X5cE/edit
 
 ### 歡迎來查路口寬度 !
 
@@ -457,6 +476,8 @@ https://maps.app.goo.gl/tgspqJiRToreAMX27
 2024.06.29
 https://drive.google.com/drive/folders/1pw-JHthK5d7pyJ4MhRUBrkCFQoVAbBTv?usp=sharing
 
+---
+
 ## 工作進度與筆記
 
 2023.11 臺北市、新北市三蘆地區、高雄市高雄火車站地區
@@ -773,6 +794,10 @@ Through Traffic 過境車流
 
 ### 名稱發想、文案發想
 
+- 主軸是形塑出街區內，可以感到安心、放心、人走的路
+- 動作：研擬、實踐
+- 目標：街區內安心的行人路徑
+
 #### 英文
 
 連續行人路徑
@@ -785,7 +810,6 @@ Through Traffic 過境車流
     - 路口
     - 巴塞隆納的對策也可以理解為針對路口進行調整
 - IT : Intersection Transformation
-
 
 保護、珍惜
 - Cherish : to love, protect, and care for someone or something that is important to you

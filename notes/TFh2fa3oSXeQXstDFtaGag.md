@@ -2,7 +2,7 @@
 tags: GIS,
 ---
 
-# 歷史路徑航線蒐集
+# 歷史路徑航線蒐集 / 當代路線
 
 瀏覽網址：長距離文化路徑與航線
 https://maps.app.goo.gl/S2vwgLF4RRtdKJ1B8
@@ -103,5 +103,7 @@ https://www.facebook.com/share/p/15xaBdVUQ5/
 https://www.facebook.com/share/p/1DVz6XwY6s/
 南北縱走
 https://www.facebook.com/share/p/181dn2eqD9/
+台灣中央線(約780km)縱走之社團
+https://www.facebook.com/share/g/1HzoEqoZ2L/
 帛琉至台灣航船 https://www.facebook.com/share/p/1C1jdUnTSK/
 https://www.facebook.com/share/p/1B1puNH5Di/
