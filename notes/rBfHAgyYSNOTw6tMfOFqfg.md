@@ -183,6 +183,9 @@ https://www.facebook.com/share/19NwZAUDJo/
 教會
 https://www.facebook.com/events/3957211264564162/
 
+診所
+https://www.facebook.com/share/p/1N5xGtv5BS/?mibextid=wwXIfr
+
 Dcard
 https://www.facebook.com/share/p/17osP8rKbN/
 
