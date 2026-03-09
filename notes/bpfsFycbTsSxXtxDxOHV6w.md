@@ -1,5 +1,9 @@
-https://www.xjcsensor.com
+https://www.boyuefoundry.com
 
-Founded in 2009, XJCSENSOR is a leading manufacturer of force sensors and force-control solutions.
-+86 138 2875 7249
-Shenzhen | Huizhou | Suzhou | Beijing
+Our main products are crusher spare and wear parts for all prominent industry brands including Finlay, Sandvik, Fintec, Extec, Striker, McCloskey, Metso, Pegson and Powerscreen, etc
+
++86 23 62650290
+
+Beidu Aluminum Industrial Park, Gunan street, Qijiang District, Chongqing, China
+
+
