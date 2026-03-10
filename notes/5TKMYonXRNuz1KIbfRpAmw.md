@@ -12,8 +12,9 @@
 ### 臉書推廣
 > MrOrz 使用 Gemini 撰寫一篇 Facebook 貼文來推廣 huggingface dataset，並附上圖片。
 
+![](https://g0v.hackmd.io/_uploads/SyxIhOpFbx.png)
 
-
+![](https://g0v.hackmd.io/_uploads/BJ0NsdaFZx.png)
 
 ### 伺服器維護
 > - 持續觀察伺服器的記憶體與 I/O 狀況。
