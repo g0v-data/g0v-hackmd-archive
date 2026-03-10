@@ -87,6 +87,8 @@ https://www.facebook.com/share/p/17zmfLFQpZ/
 川上瀧彌 https://www.facebook.com/share/p/1F76Vzgvaq/
 江阿讓-樟腦產業 https://www.facebook.com/share/1AbUFLsehz/
 
+陳靜
+https://www.facebook.com/share/p/1BLWn4R4z3/?mibextid=wwXIfr
 
 故宮文物路線
 - https://zh.wikipedia.org/zh-tw/%E5%9B%BD%E5%AE%9D%E5%8D%97%E8%BF%81
