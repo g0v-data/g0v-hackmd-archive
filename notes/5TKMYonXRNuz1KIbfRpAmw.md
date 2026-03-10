@@ -150,6 +150,7 @@ https://github.com/orgs/cofacts/projects/12
 ## Design review
 
 - Authentication https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.g3d1u3spsaad
+	- note that UI and BFF don't need to extract JWT token, the session cookie is considered opaque. To get current user, UI should file corresponding API to rumors-api through the BFF, and the BFF just forwards the JWT in the session cookie.
 - Cost reduction: GCE w/ Container-optimized OS + Commited usage discount
 
 ## DB migrate to elasticsearch 9.2
