@@ -1,9 +1,8 @@
-https://www.boyuefoundry.com
+Dalian Tianpeng Food Co Ltd
+https://www.tianpeng-food.com
+Our main processing products is horseradish (flake, granular and powder), ginger powder, Kanpyo, Mustard essential oil, wasabi powder, wasabi paste, curry and flavoring sauce etc. 
++86-41184610258
+3 No.2 Fuzhoucheng Industrial Zone, Wafangdian, Dalian, China
 
-Our main products are crusher spare and wear parts for all prominent industry brands including Finlay, Sandvik, Fintec, Extec, Striker, McCloskey, Metso, Pegson and Powerscreen, etc
-
-+86 23 62650290
-
-Beidu Aluminum Industrial Park, Gunan street, Qijiang District, Chongqing, China
 
 

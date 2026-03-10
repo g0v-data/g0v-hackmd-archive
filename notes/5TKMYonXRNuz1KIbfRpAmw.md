@@ -142,3 +142,10 @@ https://github.com/orgs/cofacts/projects/12
 
 ### Admin
 提醒季報的繳交期限。
+
+
+## Design review
+
+- Authentication
+- Cost reduction: GCE w/ Container-optimized OS + Commited usage discount
+
