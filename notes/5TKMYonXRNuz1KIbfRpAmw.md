@@ -92,6 +92,23 @@ Average:        all      7.40      0.00      1.15      0.09      0.99     90.38
 2. **或降低 ES Heap 到 6-7GB**（權衡：Query 可能稍慢，但避免整台機器卡死）
 3. **持續監控**：定期檢查 `sar -u` 與 `free -h`，留意 Swap 使用量是否持續上升
 
+## AI 逐字稿換 model
+
+20260307 深夜更換
+
+Latency: 應該變低了數秒
+
+![](https://g0v.hackmd.io/_uploads/rJgyQ-W6Y-x.png)
+
+Cost:
+https://console.cloud.google.com/billing/017CA0-902C8B-5A26FB/reports;grouping=GROUP_BY_SKU;products=services%2FC7E2-9256-1C43?organizationId=273083271964&project=industrious-eye-145611
+
+![](https://g0v.hackmd.io/_uploads/B1V3MZatWe.png)
+
+- 每個月 cost 不高（~ USD $20/mo, compared to $200/mo total GCP cost）
+- 大多是 Video input & Audio input
+- 從 Mar 8 數據看來，Cost 顯著下降 --> Vertex AI 有望下降到 $6 USD/mo
+
 
 ## Cofacts.ai 開發
 
