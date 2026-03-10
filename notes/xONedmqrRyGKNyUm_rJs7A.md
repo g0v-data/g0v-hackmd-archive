@@ -2,7 +2,7 @@
 tags: GIS, 
 ---
 
-# 平埔族群
+# (平埔)原住民族
 
 各類素材蒐集
 https://photos.app.goo.gl/5qBWhLbZm6nfPVRY6
