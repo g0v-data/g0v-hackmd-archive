@@ -94,6 +94,18 @@ Average:        all      7.40      0.00      1.15      0.09      0.99     90.38
 
 
 ## Cofacts.ai 開發
+
+https://github.com/orgs/cofacts/projects/12
+
+- Project description
+- Views
+- Field definition
+- Review issues
+
+---
+
+### AI Chat
+
 - [ ] React-markdown --> 回應編輯器
 - [ ] 資料關聯整理：準備 source list 然後掃 messages
 - [ ] Session list
@@ -106,9 +118,10 @@ Average:        all      7.40      0.00      1.15      0.09      0.99     90.38
 - [ ] ADK 升級到可以看到 openapi.json
 - [ ] 直接用 ADK type 來 render events 而非轉成 messages
 - [ ] 在 tool call 中間關掉瀏覽器視窗再打開同一個 session page，要可以繼續串流結果
-## 網站重構
-> 與 YuTin 討論網站重構事宜。
-## 行政事務 
-提醒季報的繳交期限。
 
-## 本週新增事項
+
+### Revamp
+> 與 YuTin 討論網站重構事宜。
+
+### Admin
+提醒季報的繳交期限。
