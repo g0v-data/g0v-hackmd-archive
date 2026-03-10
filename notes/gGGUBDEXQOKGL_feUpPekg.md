@@ -56,7 +56,9 @@ g0v slack #clickhouse
         - 「選舉名稱,縣市,姓名」 並非唯一，約有 171 人重名，不過如果只是要跟政治獻金比對的話，只有 107 年村里長和鄉(鎮、市)民代表選舉有部份重覆姓名的問題（村里長：臺北市洪美惠、桃園市陳秀菁、新北市黃永昌、鄉民代表：彰化縣 陳文明、宜蘭縣 張榮華）
 ### [政治獻金申報資料](https://ardata.cy.gov.tw)
 - 成果： [收入資料](https://lydata.ronny-s3.click/incomes.csv) [支出資料](https://lydata.ronny-s3.click/expenditures.csv)
-    - 產生時間：2023-07-27
+    - 產生時間：2024-07-18
+        - 資料狀況：incomes.csv 132MB 793344 筆, expenditures.csv 217M 1176659 筆
+    - [舊] 產生時間：2023-07-27
         - 資料狀況：incomes.csv 86MB 507548 筆, expenditures.csv 182M 989648 筆
     - [舊] 產生時間： 2023-05-29
         - 資料狀況：incomes.csv 67MB 399767 筆, expenditures.csv 128M 704649 筆
