@@ -94,6 +94,22 @@ bash -lc "cd /isaac-sim && ./runheadless.sh \
 --/exts/omni.kit.livestream.app/primaryStream/streamPort=47998 \
 --/exts/omni.kit.livestream.app/primaryStream/signalPort=49100"
 ```
+- 最新版
+```
+sudo docker run --gpus all -d --network host \
+--name isaac51 \
+-v /home/ubuntu/Omniverse:/workspace \
+-e ACCEPT_EULA=Y \
+-e OMNI_KIT_ALLOW_ROOT=1 \
+-e OMNI_USER='$omni-api-token' \
+-e OMNI_PASS='eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJuY2t1aW1yYyIsInByb2ZpbGUiOnsiZmlyc3RfbmFtZSI6IiIsImxhc3RfbmFtZSI6IiIsImVtYWlsIjoiIiwiYWRtaW4iOnRydWUsIm51Y2xldXNfcm8iOmZhbHNlLCJyZWFkb25seSI6ZmFsc2UsInByb3ZpZGVyIjoiSW50ZXJuYWwiLCJlbmFibGVkIjp0cnVlLCJhY3RpdmF0ZWQiOnRydWV9LCJqdGkiOiJhMGJiYjI5ZDkzNjQ0MThhYjk2MTQ2OGQ1NTdkZWExMSIsImlhdCI6MTc3MzEzODQ5MX0.S6WG-_wRzxSHLmMi1GnZ5MRASiis4b3Lm-fonvR0G2aEXJYuw5ycEAJbDWGzYGsb5zs39EpFcYklZsJOyqO0qucxUBoezmgy_ET19zOinSgUciwC54m8rsUdihmqN22J4ktczAfG83Hs_6L2hYh_ONhQYC-D_mTo1s4b9IyYSiA3pMYnPtg4PhqKzdtOt9O9zrdEmQ_PBYdg0JVAyKE5um4fmegc-urRuur7EBIYeFF37cf5CIYX7PLjZa0NcPTl9orJyfXqCORwdLDYQMkz_Bn43t33evozhikmZ1VmDJA5DXbtRznIu6c8Sk-msYAyGGvR1QKswBcCZB7labwZQ43wLNHNooTIWaVPECfG66KSYlJOx-uOIOKhcny2kt523AKyQCUz34ogVkxXC7yDZ3HZqk_GibppEkHzUFFMkUSkfI7bZFJ9HJoopLkx-Ah2Ye39Kmb2fWvJ5ZE7zN7MJ1VWZ0zdokLdB06wfSuyoSD9CMJ7h5DU6cIonpVlUFdD3U0IA2eCoksCD75ul2-8uH9iR3QlaClPNnzH-C3qOmJeYV1uel8Wv_pQP5AKP-6YtKKmmRjizR-VnpK8KLQR-soDZhxTarTToi_8HqPwi5VphzewvQZuv3Iv4WDr7mZMmil0ATKLeBQvtn7LSCO3IwFUbtO4lOldrqQRXgS9ahE' \
+-e OMNI_HOST='omniverse-nucleus.imrc.tw:443' \
+nvcr.io/nvidia/isaac-sim:5.1.0 \
+bash -lc "cd /isaac-sim && ./runheadless.sh \
+--/exts/omni.kit.livestream.app/primaryStream/streamPort=47998 \
+--/exts/omni.kit.livestream.app/primaryStream/signalPort=49100"
+```
+
 ```
 sudo docker logs -f isaac51
 ```
