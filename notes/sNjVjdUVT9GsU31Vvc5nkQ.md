@@ -2,7 +2,7 @@
 "NA99 - Chương trình khuyến mãi hấp dẫn dành cho thành viên mới
 Chương trình khuyến mãi NA99 là cơ hội vàng dành cho những ai muốn trở thành thành viên mới của chúng tôi. Với ưu đãi lớn, chúng tôi muốn chào đón bạn vào gia đình NA99!
 
-Khi đăng ký thành viên mới tại [na99.clogo.org](http://na99.clogo.org), bạn sẽ được hưởng nhiều ưu đãi đặc biệt. Đây là cơ hội để bạn trải nghiệm sản phẩm và dịch vụ chất lượng của chúng tôi với giá ưu đãi nhất.
+Khi đăng ký thành viên mới tại [na99.clogo.org](http://google.com), bạn sẽ được hưởng nhiều ưu đãi đặc biệt. Đây là cơ hội để bạn trải nghiệm sản phẩm và dịch vụ chất lượng của chúng tôi với giá ưu đãi nhất.
 
 Chúng tôi cam kết đem đến cho bạn trải nghiệm mua sắm trực tuyến tuyệt vời nhất. Hãy tham gia ngay để không bỏ lỡ cơ hội sở hữu sản phẩm yêu thích với giá hấp dẫn nhất! 
 
