@@ -67,65 +67,52 @@ tags: vTaiwan
         - optional: 可驗證為真人與在地居民的功能
             - 克服隱私問題的真人驗證
 :::info
-We are building an AI-assisted public deliberation platform designed to support democratic participation in complex technology policy discussions such as AI governance, online fraud prevention, and digital rights.
-The platform integrates several components that have previously been used separately in civic tech processes:
-- AI-assisted sense-making tools that summarize public input
-- large-scale opinion collection tools such as Pol.is
-- structured deliberation frameworks used in offline civic workshops
-- experimental AI agents that simulate perspectives of underrepresented participants
-
-The goal is to transform these fragmented tools and practices into a reproducible infrastructure for democratic deliberation.
-In Taiwan, many civic participation systems focus on petitions or simple voting mechanisms, which are insufficient for complex policy debates. Our platform helps participants understand different perspectives, identify areas of consensus and disagreement, and translate large volumes of public input into structured policy insights. 
-
-This directly addresses the cohort’s theme of AI supporting democratic participation, by using AI to lower the barriers to participation, synthesize public input at scale, and make deliberation processes more accessible and transparent.
-:::
-- Who’s part of the community you hope benefits from your project? How are you connecting with them? What community challenge does your project help to address?
-:::info
-The project primarily benefits three communities:
-1. Citizens participating in digital governance discussions
-Many citizens are interested in technology policy issues but lack accessible spaces to participate meaningfully. The platform enables participation through mobile devices and simplified interfaces, lowering barriers for broader public engagement.
-2. Government agencies and public institutions
-Public agencies often struggle to process large volumes of citizen input from consultations or workshops. The platform helps transform public opinions into structured summaries and consensus maps, making them more usable for policy development.
-3. Civic tech communities and NGOs
-Organizations working on digital rights, internet governance, and public policy can reuse the open-source platform to organize deliberation processes without needing extensive technical infrastructure.
-We connect with these communities through the vTaiwan civic tech network, which includes:
-the g0v community
-weekly open meetings and hackathons
-Slack channels and online collaboration spaces
-partnerships with government initiatives such as deliberative workshops
-The core challenge we address is that existing civic participation platforms often fail to support meaningful deliberation, especially when policy issues involve complex technical and social trade-offs. Our project aims to bridge this gap.
+### V.2 草稿
+We are building an AI-assisted deliberation system designed for real-time consensus discovery in civic discussions. The system is intended for use in citizen assemblies, public policy forums, hybrid meetings, and other time-limited deliberation settings where groups must quickly identify areas of agreement and disagreement.
+The design follows several key principles: the technology should be low-interference (not interrupting ongoing discussions), real-time (producing insights during the conversation rather than after), and assistive rather than directive. Inspired by the philosophy of Pol.is, the system focuses on discovering shared consensus rather than amplifying the loudest voices.
+The platform operates in two stages.
+In the first stage, the system captures opinions through rapid, low-friction interactions. Participants can respond to short statements using simple agree/disagree/pass reactions. These statements may be embedded in online learning materials or generated dynamically from live discussions using large language models that identify key claims in conversation.
+In the second stage, the system analyzes the resulting opinion matrix using dimensional reduction and clustering techniques. AI then summarizes clusters of viewpoints and asks participants to verify whether these summaries accurately represent their positions. Through repeated validation loops, the system identifies the broadest possible “rough consensus” that participants explicitly confirm.
+By combining real-time interaction with AI-assisted sense-making, the technology allows democratic discussions to scale beyond traditional facilitation limits while preserving human verification and collective decision-making.
 :::
 - Describe your project's traction. What’s working? What evidence do you have that this technology solves a real problem?
 :::info
-This project builds on over a decade of civic tech experimentation through the vTaiwan process, which has facilitated discussions on more than 30 national policy issues in Taiwan, including the regulation of ride-sharing platforms, fintech regulation, and online alcohol sales. e
-The vTaiwan model combines online opinion gathering with offline workshops to bring together citizens, government officials, and industry stakeholders.
-Recent work has expanded this process into AI-assisted deliberation, including:
-collaboration with Chatham House and the AI Objectives Institute in the Democratic Inputs to AI project, where Pol.is and large language models were used to analyze large-scale public input
-experiments with AI sense-making tools developed by Google Jigsaw to structure and summarize public discussions
-pilot tests of AI-generated citizen perspectives to simulate viewpoints from participants who cannot attend deliberation events
-Early experiments suggest that AI tools can significantly reduce the time required to analyze public input and can surface patterns of agreement that would otherwise be difficult to detect.
-These experiences provide strong evidence that AI-supported sense-making tools can improve the scalability and effectiveness of democratic deliberation processes.
+### V.2 草稿
+This project builds on more than a decade of civic technology experimentation through the vTaiwan process in Taiwan. Since 2014, vTaiwan has facilitated deliberations on over 30 national policy issues, including the regulation of ride-sharing platforms, fintech regulation, and online alcohol sales.
+
+The vTaiwan model combines online opinion gathering with offline deliberative workshops, allowing citizens, government officials, and industry stakeholders to collaboratively explore policy solutions. Tools such as Pol.is and Mentimeter have been used to collect and analyze large-scale public input, helping identify areas of consensus across different stakeholder groups.
+Recent work has expanded this model through experiments with AI-assisted sense-making. In collaboration with organizations including Chatham House and the AI Objectives Institute in the Democratic Inputs to AI project, Pol.is data and large language models were used to analyze public input from large-scale civic consultations.
+
+The community has also begun experimenting with AI-based tools that summarize deliberation outcomes and simulate missing citizen perspectives to improve representation in discussions.
+
+These experiments suggest that AI can significantly reduce the time required to process large volumes of public input while helping facilitators identify patterns of agreement that would otherwise be difficult to detect. The proposed platform builds on these existing practices and aims to transform them into a reusable infrastructure for democratic deliberation.
 :::
 ### Your Team
 - Who is building this? What relevant experience does your team have?
 - 希望下週小松前可以拿到相關資訊
-    - Peter
-    - Josh 
+    - Peter Cui
+    - Joshua 楚約, https://joshuacyang.com
     - Tim
-    - Yiting
-    - Irvin
+    - Yiting Lien, https://www.linkedin.com/in/yiting-lien-b95431135 
+    - Irvin Chen, https://www.getprog.ai/profile/165936
     - 待補
 :::info
-This project is developed by members of the vTaiwan civic tech community, an open collaboration network formed through the g0v movement.
-The core team combines expertise in law, public policy, software engineering, civic technology, and user experience design.
-Key contributors include:
-Peter (Cui Jia-Wei)
-Legal researcher and civic tech contributor working on AI governance and digital policy. He participates in the vTaiwan project and has worked on deliberative processes related to AI governance and online harms.
-Josh
-Civic technologist and software engineer active in the g0v community, contributing to open-source civic technology tools and digital participation platforms.
-Irvin
-Community organizer and Mozilla community contributor who has been involved in open internet and digital democracy initiatives.
-In addition to the core team, the project can mobilize a broader network of contributors through the g0v community, including designers, developers, and policy researchers.
+### V.2 草稿
+This project is developed by members of the vTaiwan and g0v civic tech community in Taiwan, bringing together expertise across law, public policy, software engineering, data analysis, design, and open internet advocacy. The project is supported by the Open Culture Foundation (OCF), a non-profit organization that promotes open technology, digital rights, and open culture initiatives in Taiwan.
+
+Peter Cui is a legal researcher and civic tech contributor working on AI governance, digital policy, and democratic participation in technology regulation. Through his work with the vTaiwan community, he has contributed to deliberation processes addressing emerging technology policy issues.
+
+Joshua Yang is a software engineer with a background connected to ETH Zurich and experience in building digital systems for civic engagement and data-driven public discussion. His work focuses on developing scalable technical infrastructures that support large-scale participation and open collaboration.
+
+Tim contributes technical development and infrastructure design, helping translate deliberation methods into scalable digital systems. 
+
+Yiting Lien works at the intersection of technology policy, research, and civic innovation. She has been engaged in international discussions on technology governance and participated in global forums exploring responsible technology development, including initiatives connected with the Oxford Internet Institute. Her work helps bridge research perspectives with practical civic technology experimentation.
+
+Irvin Chen is an active contributor in the Mozilla community and has long been involved in initiatives supporting the open internet and digital democracy. His experience connecting open-source communities and civic technology networks helps situate this project within broader global conversations on democratic technology.
+
+Beyond the core team, the project can mobilize a broader contributor network through the g0v civic tech community, which regularly collaborates through weekly meetings, hackathons, and open online workspaces. This ecosystem enables designers, developers, researchers, and civic organizers to collectively experiment with new democratic technologies.
+
+With interdisciplinary expertise, strong community infrastructure, and institutional support from organizations such as OCF, the team is well positioned to develop and test AI-assisted democratic tools in real-world policy discussions.
 :::
 ### Your vision for impact and sustainability
 - What would success look like in 2-3 years? How will you measure success?
