@@ -116,31 +116,89 @@ With interdisciplinary expertise, strong community infrastructure, and instituti
 :::
 ### Your vision for impact and sustainability
 - What would success look like in 2-3 years? How will you measure success?
-:::success
-In two to three years, we envision the platform becoming a widely used open infrastructure for digital deliberation in Taiwan and beyond.
-Success would include:
-at least 10 public deliberation processes conducted using the platform
-participation from thousands of citizens in discussions on digital policy topics
-adoption by government agencies, NGOs, or civic organizations
-an active open-source developer community contributing improvements
-We will measure success through:
-participation numbers
-diversity of participants
-policy outputs generated from deliberation processes
-reuse of the platform by external organizations.
+:::info
+### V2 草稿
+In two to three years, success would mean that the platform has become a practical civic infrastructure for facilitating democratic dialogue in high-stakes policy environments.
+
+Taiwan faces a unique set of challenges that make such infrastructure increasingly important. The country is on the frontline of information operations and disinformation campaigns, while also experiencing growing political polarization, frequent natural disasters, and persistent geopolitical pressure. These pressures will become especially visible during Taiwan’s upcoming election cycles in 2026 and 2028, which are widely watched internationally as indicators of democratic resilience in the digital age.
+
+In this context, Taiwan’s elections increasingly function as a global testing ground for how democratic societies respond to disinformation, polarization, and rapidly evolving technology. Strengthening public deliberation capacity before and during these moments is therefore not only relevant for Taiwan, but also for other democracies facing similar challenges.
+
+Our vision is that the platform becomes a widely used tool for facilitating structured public discussions around complex public issues, including digital governance, disaster preparedness, and responses to emerging technologies. By enabling real-time opinion gathering and consensus discovery, the platform helps communities process disagreement constructively rather than allowing polarization to deepen.
+
+We would measure success through several indicators.
+First, adoption: at least 10–15 deliberative processes organized by civic groups, research institutions, or public agencies using the platform.
+
+Second, participation: several thousand participants contributing opinions and interacting with the system across multiple deliberation processes.
+
+Third, deliberation quality: measurable identification of consensus areas and validated summaries of public opinion generated through the platform’s iterative consensus discovery process.
+
+Fourth, ecosystem growth: an active open-source contributor community and reuse of the platform by organizations beyond Taiwan.
+
+Ultimately, success would mean demonstrating that AI-assisted deliberation tools can strengthen democratic resilience by helping societies navigate disagreement, misinformation, and crisis without fragmenting their democratic institutions.
 :::
 - What do you need to make this project sustainable long-term? What are the biggest barriers to getting there?
-    - 待補
+:::success
+### V1 草稿
+Long-term sustainability for this project depends on building the platform as open public infrastructure that can be widely reused across civic and policy contexts.
+First, the platform will be developed as free and open-source software (FOSS). This allows local civic organizations, NGOs, and local elected officials in Taiwan to adopt the system for their own public discussions and community consultations. By making the technology easy to deploy and adaptable to different contexts, the project aims to lower the barriers for grassroots actors to organize structured public deliberation.
+Second, sustainability requires collaboration with institutions involved in digital governance. We plan to explore partnerships with organizations such as TWNIC and other internet governance stakeholders to experiment with how AI-assisted deliberation tools can support discussions around internet governance, online harms, and digital policy. These collaborations can help integrate the platform into real policy and governance processes.
+Third, the project aims to diversify funding sources beyond a single grant. In Taiwan, there are emerging funding channels supporting civic technology and open-source projects, such as twgrant.tw and various public-interest technology foundations. By demonstrating the platform’s practical value through pilot deployments, the project will seek additional support from these funding programs and philanthropic initiatives.
+Despite these opportunities, several barriers remain. One challenge is ensuring that the technology is simple enough for non-technical organizations to use. Another is building trust in AI-assisted analysis within democratic processes, which requires strong transparency and human validation mechanisms. Addressing these challenges will be essential to ensuring long-term adoption.
+If successful, the platform could become a sustainable piece of democratic infrastructure that supports public dialogue and participatory governance in Taiwan and potentially other democratic societies.
+:::
 - What would $50,000 unlock for your project?
-    - 待補
+:::success
+### V.1 草稿
+A $50,000 grant would allow the project to move from experimental prototypes to a functional and deployable deliberation platform.
+
+The most important impact would be enabling a dedicated part-time developer to focus on building and maintaining the core system. Civic technology projects are often developed by volunteers with limited time and resources, which makes sustained development difficult. This funding would provide the capacity to implement core features, integrate existing deliberation tools, prioritize the development and improve the platform’s usability for real-world deployment.
+
+In addition to technical development, the funding would support the organization of pilot deliberation activities. These activities are essential for testing the platform in real public discussions and improving the system through practical feedback. The funding would help cover the basic costs required to host deliberative workshops and public forums, including facilitation, documentation, and technical support.
+
+Together, these two components—dedicated development capacity and real-world deliberation pilots—would allow the project to demonstrate how AI-assisted deliberation tools can function as practical democratic infrastructure rather than purely experimental technology.
+
+The results of these pilots would also generate open documentation and case studies that other civic organizations and governments could reuse when exploring AI-assisted democratic participation.
+:::
 ### Your commitment to openness
 - How will you share your code, learnings, and data with others? Is there already a larger community that contributes to the project?
+:::success
+### V1 草稿
+The project is designed as an open civic technology initiative from the beginning. All core software developed through the project will be released as free and open-source software (FOSS) on GitHub under a permissive license, allowing other organizations to deploy, adapt, and extend the platform.
 
+In addition to releasing the source code, we will publish documentation that explains both the technical architecture and the deliberation methodology behind the system. This will include deployment guides, facilitation materials, and case studies from pilot deliberation processes. The goal is not only to share the technology itself, but also the practical knowledge needed to organize AI-assisted public deliberation.
+
+The project also builds on an existing community ecosystem. The vTaiwan process and the g0v civic tech community have developed a long tradition of open collaboration through weekly meetings, hackathons, and shared online workspaces. Developers, designers, researchers, and civic organizers regularly contribute ideas, prototypes, and improvements to civic technology tools.
+
+With support from organizations such as the Open Culture Foundation (OCF) and connections with international open internet communities, the project aims to contribute to a broader global conversation about open-source democratic technologies.
+
+By sharing code, documentation, and lessons learned openly, we hope the platform can be reused and adapted by civic organizations, governments, and researchers in Taiwan and beyond.
+:::
 ### Democratic Impact
 - How does your technology actively advance democratic practice? What specific democratic outcomes (participation, transparency, accountability, civic space protection) does it enable?
-    - 待補
+:::success
+### V1 草稿
+The platform advances democratic practice by strengthening four core dimensions of democracy: participation, transparency, accountability, and the protection of civic space.
+
+First, it expands meaningful participation by lowering the barriers to organizing deliberation processes. Traditional in-person deliberation workshops often require significant preparation, including agenda design, opinion collection, facilitation, and post-event analysis. These requirements can make deliberative processes difficult to organize for communities with limited resources. 
+
+By automating parts of opinion gathering, clustering, and summarization, the platform allows civic organizations, local communities, and grassroots organizers to run structured deliberation processes with far fewer resources. This makes democratic deliberation accessible not only to governments or well-funded institutions, but also to local NGOs, community groups, and local elected representatives.
+
+Such capacity is especially important in situations involving crisis or collective decision-making under pressure. In Taiwan, for example, communities frequently need to coordinate responses to natural disasters such as typhoons. After a major typhoon last year, volunteers known as “Shovel Heroes” spontaneously organized themselves to travel to disaster areas and assist with cleanup and recovery efforts. Situations like this demonstrate how civic mobilization often emerges organically, but also how communities can benefit from better tools to quickly gather perspectives, coordinate priorities, and make collective decisions.
+
+Second, the platform increases transparency through real-time visualization of collective opinions. Rather than producing summaries only after discussions end, the system dynamically displays patterns of agreement and disagreement as participants interact with the platform. This immediate feedback allows participants to see how their views relate to others in the group, enabling more responsive and adaptive discussions.
+
+Third, the platform strengthens accountability in deliberation processes. Because the system records how opinions were collected, clustered, and validated through participant feedback loops, it creates a transparent trace of how consensus emerges. Policymakers, civic organizations, and participants can therefore understand how deliberation results were produced.
+
+Finally, the platform helps protect civic space in polarized or information-contested environments. By identifying areas of shared ground across diverse viewpoints, the system reduces the risk that discussions are dominated by the most vocal participants or fragmented by misinformation and polarization. Instead, it supports constructive dialogue and collective problem-solving.
+
+Together, these mechanisms transform public discussion into a more inclusive, transparent, and resilient democratic process.
+:::
 - How is AI essential to achieving your democratic impact at scale or in ways that weren't previously possible? What would be lost without the AI component?
-    - 待補
+:::success
+### V1 草稿
+
+:::
 - Provide a link to your code repository, demo, or website where we can see your project in action.
     - 待補
 - Provide a link to a 2-minute video (a Google Drive link, for example) showing your project and vision. This isn't about production value—we want to see the technology working and hear directly from your team about why it matters. (note, this video submission is not required, but strongly encouraged).
