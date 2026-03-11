@@ -94,7 +94,7 @@ These experiments suggest that AI can significantly reduce the time required to 
     - Joshua 楚約, https://joshuacyang.com
     - Tim
     - Yiting Lien, https://www.linkedin.com/in/yiting-lien-b95431135 
-    - Irvin Chen, https://www.getprog.ai/profile/165936
+    - Irvin Chen, https://www.linkedin.com/in/irvinchen/
     - 待補
 :::info
 ### V.2 草稿
@@ -197,7 +197,15 @@ Together, these mechanisms transform public discussion into a more inclusive, tr
 - How is AI essential to achieving your democratic impact at scale or in ways that weren't previously possible? What would be lost without the AI component?
 :::success
 ### V1 草稿
+AI is essential to this project because it enables the platform to transform unstructured conversations into structured democratic input in real time. The system uses AI at three critical stages of the deliberation process: capturing opinions, synthesizing collective signals, and validating emerging consensus.
 
+First, AI enables the system to extract votable statements directly from ongoing discussions. In physical deliberation workshops or hybrid meetings, participants often express ideas verbally rather than through written submissions. Large language models monitor the conversation and identify key claims or policy statements, which are then immediately presented to participants as short propositions that they can respond to using Polis-style voting (agree, disagree, or pass). This allows discussions to continue naturally without requiring facilitators to interrupt the conversation to manually record opinions.
+
+Second, AI helps transform the resulting voting data into a map of collective opinion. As participants respond to statements, the platform generates an agreement matrix that can be analyzed using dimensionality reduction and clustering techniques. These methods reveal patterns in how participants align with different viewpoints and allow facilitators and participants to see where groups converge or diverge. AI-assisted analysis helps interpret these clusters and generate readable descriptions of the viewpoints represented in each group.
+
+Third, AI supports an iterative consensus discovery process. The system generates summaries of each opinion cluster and presents them back to participants for validation. Participants can confirm whether the summary accurately reflects their views, allowing the system to progressively merge clusters and identify the widest possible areas of agreement. This process ensures that consensus is not imposed by the system but verified by participants themselves.
+
+Without AI, these processes would require extensive manual facilitation and post-event analysis. Facilitators would need to manually transcribe discussions, formulate statements, analyze voting data, and summarize viewpoints. This would make it extremely difficult to run the system in real time or to scale deliberation processes to larger groups. The AI component therefore acts as a deliberation infrastructure that allows structured democratic discussion to occur dynamically within live conversations.
 :::
 - Provide a link to your code repository, demo, or website where we can see your project in action.
     - 待補
