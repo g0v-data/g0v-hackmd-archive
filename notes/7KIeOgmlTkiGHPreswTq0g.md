@@ -57,6 +57,54 @@ tags: vTaiwan
     - https://journals.sagepub.com/doi/10.1177/13540661251382639
  
 ### Proposed Project Title
+
+#### 目前討論：Make consensus building alive from vTaiwan experience: Real time opinion gathering for deliberation in polarized society 
+
+#### Opㄔ
+
+1️⃣ 最接近你原句的修正版
+Making Consensus‑Building Alive: A Real‑Time Deliberation Tool from the vTaiwan Experience
+2️⃣ 更清楚一點（推薦）
+Making Consensus‑Building Alive: Real‑Time Deliberation Tools from the vTaiwan Experience
+3️⃣ 加上極化社會背景
+Making Consensus‑Building Alive: Real‑Time Deliberation Tools for Polarized Societies
+4️⃣ 最像 grant proposal 的版本（我最推薦）
+Making Consensus‑Building Alive: Real‑Time Democratic Deliberation Inspired by vTaiwan
+5️⃣ 如果想強調 AI
+Making Consensus‑Building Alive: AI‑Assisted Real‑Time Deliberation from the vTaiwan Experience
+
+#### 其他選項
+1️⃣ 比較標準、穩健型（最安全）
+AI-Assisted Democratic Deliberation: Real-Time Consensus Discovery for Public Decision-Making
+
+2️⃣ civic tech 風格（我個人很推薦）
+Sensemaking for Democracy: AI Tools for Real-Time Public Deliberation
+
+3️⃣ Pol.is 延伸型（讓 reviewer容易理解）
+From Conversation to Consensus: AI Infrastructure for Democratic Deliberation
+
+4️⃣ Mozilla 風格（比較有敘事感）
+Scaling Democratic Deliberation with AI
+
+5️⃣ 技術特色型（突出你的即時系統）
+Real-Time Civic Sensemaking: AI-Assisted Deliberation for Complex Public Decisions
+
+6️⃣ 我最推薦的一個（很符合你這個 project）
+From Conversation to Consensus: AI-Assisted Infrastructure for Democratic Deliberation
+
+
+1️⃣ 最清楚版本（最安全、grant reviewer 很好懂）
+AI‑Assisted Democratic Deliberation Infrastructure
+2️⃣ 強調公民參與
+Scaling Democratic Deliberation with AI
+3️⃣ 強調台灣與全球影響
+AI for Democratic Deliberation: Lessons from Taiwan’s Civic Tech Ecosystem
+4️⃣ 強調工具與平台
+Building AI‑Assisted Infrastructure for Public Deliberation
+5️⃣ 比較有 vision（Mozilla 會喜歡）
+Rebuilding Public Deliberation in the Age of AI
+
+
 ### Project Summary
 ### Your Project
 - What technology are you building? How does it address this cohort's theme?
@@ -69,10 +117,15 @@ tags: vTaiwan
 :::info
 ### V.2 草稿
 We are building an AI-assisted deliberation system designed for real-time consensus discovery in civic discussions. The system is intended for use in citizen assemblies, public policy forums, hybrid meetings, and other time-limited deliberation settings where groups must quickly identify areas of agreement and disagreement.
+
 The design follows several key principles: the technology should be low-interference (not interrupting ongoing discussions), real-time (producing insights during the conversation rather than after), and assistive rather than directive. Inspired by the philosophy of Pol.is, the system focuses on discovering shared consensus rather than amplifying the loudest voices.
+
 The platform operates in two stages.
+
 In the first stage, the system captures opinions through rapid, low-friction interactions. Participants can respond to short statements using simple agree/disagree/pass reactions. These statements may be embedded in online learning materials or generated dynamically from live discussions using large language models that identify key claims in conversation.
+
 In the second stage, the system analyzes the resulting opinion matrix using dimensional reduction and clustering techniques. AI then summarizes clusters of viewpoints and asks participants to verify whether these summaries accurately represent their positions. Through repeated validation loops, the system identifies the broadest possible “rough consensus” that participants explicitly confirm.
+
 By combining real-time interaction with AI-assisted sense-making, the technology allows democratic discussions to scale beyond traditional facilitation limits while preserving human verification and collective decision-making.
 :::
 - Describe your project's traction. What’s working? What evidence do you have that this technology solves a real problem?
@@ -92,7 +145,7 @@ These experiments suggest that AI can significantly reduce the time required to 
 - 希望下週小松前可以拿到相關資訊
     - Peter Cui
     - Joshua 楚約, https://joshuacyang.com
-    - Tim
+    - Tim, https://www.linkedin.com/in/tim-y-5446ab3b6
     - Yiting Lien, https://www.linkedin.com/in/yiting-lien-b95431135 
     - Irvin Chen, https://www.linkedin.com/in/irvinchen/
     - 待補
@@ -102,7 +155,7 @@ This project is developed by members of the vTaiwan and g0v civic tech community
 
 Peter Cui is a legal researcher and civic tech contributor working on AI governance, digital policy, and democratic participation in technology regulation. Through his work with the vTaiwan community, he has contributed to deliberation processes addressing emerging technology policy issues.
 
-Joshua Yang is a software engineer with a background connected to ETH Zurich and experience in building digital systems for civic engagement and data-driven public discussion. His work focuses on developing scalable technical infrastructures that support large-scale participation and open collaboration.
+Joshua Yang is a software engineer and a postdoc researcher at ETH Zurich and experience in building digital systems for civic engagement and data-driven public discussion. His work focuses on developing scalable technical infrastructures that support large-scale participation and open collaboration.
 
 Tim contributes technical development and infrastructure design, helping translate deliberation methods into scalable digital systems. 
 
@@ -208,8 +261,16 @@ Third, AI supports an iterative consensus discovery process. The system generate
 Without AI, these processes would require extensive manual facilitation and post-event analysis. Facilitators would need to manually transcribe discussions, formulate statements, analyze voting data, and summarize viewpoints. This would make it extremely difficult to run the system in real time or to scale deliberation processes to larger groups. The AI component therefore acts as a deliberation infrastructure that allows structured democratic discussion to occur dynamically within live conversations.
 :::
 - Provide a link to your code repository, demo, or website where we can see your project in action.
-    - 待補
+    - https://github.com/g0v/sensemaker-frontend 
 - Provide a link to a 2-minute video (a Google Drive link, for example) showing your project and vision. This isn't about production value—we want to see the technology working and hear directly from your team about why it matters. (note, this video submission is not required, but strongly encouraged).
     - 這個蠻重要的，要上傳一個 2 分鐘的影片 demo 要用的東西
-### AI and Translation Tools
-- How were AI and/or translation tools used in completing this application?
+    - pitch video 
+    - Notebook LLM 的影片生成功能
+## Action Item
+- 錄製影片：
+- 3/14 （六）晚上21:00
+    - 確認 Rosalind 是否可以出席
+    - Josh 
+    - Peter
+    - Irvin 
+    - Tim 
