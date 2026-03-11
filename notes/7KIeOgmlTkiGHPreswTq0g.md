@@ -148,7 +148,7 @@ reuse of the platform by external organizations.
     - 待補
 ### Your commitment to openness
 - How will you share your code, learnings, and data with others? Is there already a larger community that contributes to the project?
-- 
+
 ### Democratic Impact
 - How does your technology actively advance democratic practice? What specific democratic outcomes (participation, transparency, accountability, civic space protection) does it enable?
     - 待補
