@@ -13,24 +13,25 @@ tags: Rentea
 
 ## 我想要在 Rentea 看到、作到...但...
 
-1. 想要參加、舉辦定期小聚，閒聊也好（每次更新大家的近況就很有趣了），但至少到 2026 結束前，我平日晚上變數很多，有點難參與 [name=ddio]
-2. 跟陌生人聊到 Rentea ，都會覺得這樣的租屋方案很有趣，但想要進一步了解時，會找不到資料，或是覺得門檻太高 [name=ddio]
+1. 想要參加、舉辦定期小聚，閒聊也好（每次更新大家的近況就很有趣了），但至少到 2026 結束前，我平日晚上變數很多，有點難參與 [name=ddio][name=stella]
+2. 跟陌生人聊到 Rentea ，都會覺得這樣的租屋方案很有趣，但想要進一步了解時，會找不到資料，或是覺得門檻太高 [name=ddio][name=stella]
    > 想要持續招募新成員，但進入的漏斗很不順 [name=ddio]
-3. 大家都還是會在 slack 貼新聞、討論，覺得大家還是有各種動力，想要維持這個地方的運作 [name=ddio]
+3. 大家都還是會在 slack 貼新聞、討論，覺得大家還是有各種動力，想要維持這個地方的運作 [name=ddio][name=stella]
 
 ## 如果可以，我想要在 Rentea..
 
-1. 平日中午線上聊聊、一起吃午餐？ [name=ddio]
+1. 平日中午線上聊聊、一起吃午餐？ [name=ddio][name=stella]
    > ddio 平日中午有彈性很多
 2. 每季/半年找個地方出去玩
-   - 來 ddio 家的工地玩！ [name=ddio]
-       - 想去看工地！ [name=YC]
+   - 來 ddio 家的工地玩！ [name=ddio][name=stella]
+       - 想去看工地！ [name=YC][name=stella]
        - 想逛 ddio 家+1
+       - 想逛 ddio 家+1 [name=stella]
    - 逛展覽也很棒，需要有人揪團
        - 可以負責揪團 [name=peter]
-       - 喜歡逛展覽+1
-3. 專案部份，用平日中午 + 非同步溝通 [name=ddio]
-4. 一起做官網 [name=ddio]
+       - 喜歡逛展覽+1[name=stella]
+3. 專案部份，用平日中午 + 非同步溝通 [name=ddio][name=stella]
+4. 一起做官網 [name=ddio][name=stella]
    - 雖然目前我毫無技術力，但想嘗試看看！ [name=YC]
    1. 各專案最近在做啥，要解決什麼問題 -> 從 slack + hackmd + ?? 收集資訊
    2. 轉貼社群相關文章、報導 -> 從 slack 討論轉摘要，給 Rentea 立場的見解
@@ -38,11 +39,11 @@ tags: Rentea
    4. 社群在聊什麼，成員有誰
 5. 分散式工具分享
 6. 可復原的租屋 DIY 、一起裝潢你的租屋吧 -> 也可以合作、收費？
-   - 可以拿 ddio 新家來實驗/POC [name=ddio]
-7. 第一間房子持續維運！ [name=ddio]
+   - 可以拿 ddio 新家來實驗/POC [name=ddio][name=stella]
+7. 第一間房子持續維運！ [name=ddio][name=stella]
    1. 好不容易和房東建立起的信任關係，希望可以繼續維持下去
    2. 用類似代管的方式，讓房客也成為社群參與者
-8. tmonk 的房子招租、代管 [name=ddio]
+8. tmonk 的房子招租、代管 [name=ddio][name=stella]
    - aka [長租剛好 2.0](https://g0v.hackmd.io/@ddio-io/rentea-rental-house-2-0/https%3A%2F%2Fg0v.hackmd.io%2F%40PNNNN%2FSJwxbBR21l%23Rentea-%25E9%2595%25B7%25E7%25A7%259F%25E5%2589%259B%25E5%25A5%25BD-%25E6%259C%258D%25E5%258B%259920)
 
 ## 補充資料
