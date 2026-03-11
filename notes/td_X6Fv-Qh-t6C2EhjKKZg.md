@@ -48,6 +48,8 @@ tags: 防災, 民防
 > - 壞血症？（維他命C）
 > - 腳氣病？（維他命B1，糙米？）
 
+- 防災食品 https://g0v.hackmd.io/raTM7APqQfKKxsXwYhoWZA?view
+
 ### 水
 - 濾水器 / Brita 濾芯 3個
 - 空保特瓶 5個 或 5L 空水瓶 2個
