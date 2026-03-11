@@ -58,9 +58,12 @@ tags: vTaiwan
  
 ### Proposed Project Title
 
-#### 目前討論：Make consensus building alive from vTaiwan experience: Real time opinion gathering for deliberation in polarized society 
+#### 暫時結論
+Making Consensus‑Building Alive: AI‑Assisted Real‑Time Deliberation from the vTaiwan Experience in Digitally Polarized Societies
 
-#### Opㄔ
+
+
+### other preliminary discussion
 
 1️⃣ 最接近你原句的修正版
 Making Consensus‑Building Alive: A Real‑Time Deliberation Tool from the vTaiwan Experience
@@ -106,6 +109,29 @@ Rebuilding Public Deliberation in the Age of AI
 
 
 ### Project Summary
+:::info
+
+We are building an AI‑assisted deliberation system designed for real‑time consensus discovery in civic discussions. The system is intended for citizen assemblies, public policy forums, hybrid meetings, and other time‑limited deliberation settings where groups must quickly identify areas of agreement and disagreement. It can also support public debates and policy presentations during elections, helping audiences better understand competing viewpoints and identify areas of public consensus.
+
+The project builds on lessons from Taiwan’s vTaiwan civic technology process including Po.lis, which has facilitated deliberation on dozens of national policy issues through open collaboration between citizens, government, and civil society — including the regulatory framework for ride‑sharing services such as Uber.
+
+Taiwan is one of the world’s most highly connected and digitally active societies, but it is also on the frontline of AI‑driven influence operations and large‑scale cognitive manipulation campaigns. These conditions make Taiwan a critical testing ground for new democratic technologies. The system we propose is designed specifically to address this challenge: helping societies maintain meaningful public dialogue in environments shaped by misinformation, algorithmic amplification, and political polarization.
+
+The system operates in three stages. 
+1st, AI captures and analyzes live discussions or debates, extracting key arguments and opinion statements in real time. 
+2nd, participants or audiences respond to these statements through simple agree/disagree/pass interactions, allowing the system to rapidly map areas of consensus and disagreement using clustering and opinion analysis techniques inspired by Pol.is. 
+3rd, AI agents use the resulting consensus map to engage with the broader information ecosystem — sharing summaries, responding to related discussions online, and helping extend deliberation beyond the original event.
+
+By combining real‑time interaction, AI‑assisted sense‑making, and network‑scale dialogue, the platform allows democratic deliberation to scale beyond traditional facilitation limits while preserving human verification and collective decision‑making. Developed within Taiwan’s g0v civic tech ecosystem, the project aims to transform proven deliberation practices into reusable infrastructure that helps digitally polarized societies move from confrontation toward dialogue and consensus‑building.
+
+While developed in Taiwan, the approach is also relevant to other democracies facing deep political polarization — including the United States and other digitally connected societies where public discourse is increasingly shaped by algorithmic media environments.
+
+不知道申請書的長度限制為何，可以視情況縮短
+
+
+
+
+:::
 ### Your Project
 - What technology are you building? How does it address this cohort's theme?
     - 使用的元素：
@@ -122,7 +148,7 @@ The design follows several key principles: the technology should be low-interfer
 
 The platform operates in two stages.
 
-In the first stage, the system captures opinions through rapid, low-friction interactions. Participants can respond to short statements using simple agree/disagree/pass reactions. These statements may be embedded in online learning materials or generated dynamically from live discussions using large language models that identify key claims in conversation.
+In the first stage, the system captures opinions through real-time, rapid, low-friction interactions. Participants can respond to short statements using simple agree/disagree/pass reactions. These statements may be embedded in online learning materials or generated dynamically from live discussions using large language models that identify key claims in conversation.
 
 In the second stage, the system analyzes the resulting opinion matrix using dimensional reduction and clustering techniques. AI then summarizes clusters of viewpoints and asks participants to verify whether these summaries accurately represent their positions. Through repeated validation loops, the system identifies the broadest possible “rough consensus” that participants explicitly confirm.
 
