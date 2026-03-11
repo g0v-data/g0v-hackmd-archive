@@ -24,6 +24,9 @@ https://www.facebook.com/share/1Jbg1km7dh/?mibextid=wwXIfr
 吉貝耍
 https://www.facebook.com/share/v/18Mg4DXvUL/?mibextid=wwXIfr
 
+埔里 噶哈巫
+https://www.facebook.com/share/r/18U15NDiSD/
+
 蔦松遺址與西拉雅
 https://youtu.be/kPPHzaxQqlc?si=7gadhyW9Pa9KRZMN
 
