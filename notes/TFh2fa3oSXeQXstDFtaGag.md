@@ -61,6 +61,9 @@ https://www.facebook.com/share/p/1BugN7czw3/
 
 胡傳 (胡適父親) https://photos.app.goo.gl/saRc1kAhxZdpAagx6
 
+北白川宮能久親王
+https://www.facebook.com/share/p/14cb48k5rVz/
+
 巴爾頓與濱野彌四郎 https://photos.app.goo.gl/AVFicc4LwHX3tbsD7
 伊能嘉矩 https://photos.app.goo.gl/amrUaB3sHfCMUDVG8
 
