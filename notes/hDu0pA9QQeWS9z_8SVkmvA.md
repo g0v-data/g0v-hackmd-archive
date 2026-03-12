@@ -1,7 +1,7 @@
 ---
 tags: FtO, g0v-intl
 ---
-# FtO Seoul 2026 Intro
+# FtO Seoul 2026
 
 ## Basic Info
 - Dates: September 18-20 (Fri-Sun), 2026
