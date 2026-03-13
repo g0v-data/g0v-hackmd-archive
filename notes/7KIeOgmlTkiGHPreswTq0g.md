@@ -176,22 +176,22 @@ These experiments suggest that AI can significantly reduce the time required to 
     - Irvin Chen, https://www.linkedin.com/in/irvinchen/
     - 待補
 :::info
-### V.2 草稿
-This project is developed by members of the vTaiwan and g0v civic tech community in Taiwan, bringing together expertise across law, public policy, software engineering, data analysis, design, and open internet advocacy. The project is supported by the Open Culture Foundation (OCF), a non-profit organization that promotes open technology, digital rights, and open culture initiatives in Taiwan.
+### V.3 草稿
+This project is led by a core team drawn from Taiwan’s vTaiwan and g0v civic tech community, combining expertise in law, public policy, software engineering, data analysis, design, and open internet advocacy. The project is supported by the Open Culture Foundation (OCF), a non-profit organisation that promotes open technology, digital rights, and open culture initiatives in Taiwan.
 
 Peter Cui is a legal researcher and civic tech contributor working on AI governance, digital policy, and democratic participation in technology regulation. Through his work with the vTaiwan community, he has contributed to deliberation processes addressing emerging technology policy issues.
 
-Joshua Yang is a software engineer and a postdoc researcher at ETH Zurich and experience in building digital systems for civic engagement and data-driven public discussion. His work focuses on developing scalable technical infrastructures that support large-scale participation and open collaboration.
+Joshua Yang is a software engineer and postdoctoral researcher at ETH Zurich with experience building digital systems for civic engagement and data-driven public discussion. His work focuses on developing scalable technical infrastructures that support large-scale participation and open collaboration.
 
-Tim contributes technical development and infrastructure design, helping translate deliberation methods into scalable digital systems. 
+Tim contributes technical development and infrastructure design, helping translate deliberation methods into scalable digital systems.
 
-Yiting Lien works at the intersection of technology policy, research, and civic innovation. She has been engaged in international discussions on technology governance and participated in global forums exploring responsible technology development, including initiatives connected with the Oxford Internet Institute. Her work helps bridge research perspectives with practical civic technology experimentation.
+Yiting Lien works at the intersection of technology policy, research, and civic innovation. She has participated in international discussions on technology governance and global forums on responsible technology development, including initiatives connected with the Oxford Internet Institute. Her work helps bridge research perspectives with practical civic technology experimentation.
 
-Irvin Chen is an active contributor in the Mozilla community and has long been involved in initiatives supporting open internet policies and digital democracy, including helping publish the Mandarin version of the Mozilla Digital ID White Paper in 2020. His other contributions include serving as a member of the Mozilla Reps Council from '18 to '20, working as the local project coordinator of the Common Voice OMSF program that helped shipping six Indigenous languages during '24–'25, and serving as a community liaison for the Mozila Taiwan Community and project manager of the Taipei Mozilla Community Space since 2011. His experience in connecting open-source communities and civic technology networks helps situate this project within broader global conversations on democratic technology.
+Irvin Chen is an active contributor in the Mozilla community and has long been involved in initiatives supporting open internet policy and digital democracy. His experience includes helping publish the Mandarin version of the Mozilla Digital ID White Paper in 2020, serving on the Mozilla Reps Council from 2018 to 2020, coordinating the Common Voice OMSF programme that supported six Indigenous languages in 2024 to 2025, and serving as a community liaison for the Mozilla Taiwan Community and project manager of the Taipei Mozilla Community Space since 2011. His work connects this project to broader open-source and democratic technology communities.
 
-Beyond the core team, the project can mobilize a broader contributor network through the g0v civic tech community, which regularly collaborates through weekly meetings, hackathons, and open online workspaces. This ecosystem enables designers, developers, researchers, and civic organizers to collectively experiment with new democratic technologies.
+Beyond this core team, the project is embedded in the wider vTaiwan and g0v civic tech ecosystem. vTaiwan has sustained a regular rhythm of weekly meetings, while g0v convenes a bimonthly hackathon and maintains open collaborative spaces that allow contributors to join quickly when needed. This means the project is not only supported by a strong interdisciplinary core team, but also by a broader network of civic hackers, developers, designers, researchers, and organisers who are motivated to help build, test, and improve the work.
 
-With interdisciplinary expertise, strong community infrastructure, and institutional support from organizations such as OCF, the team is well positioned to develop and test AI-assisted democratic tools in real-world policy discussions.
+This combination of a focused core team and a highly active civic tech ecosystem gives the project unusual momentum. It creates the conditions not just to design AI-assisted democratic tools, but to rapidly prototype, refine, and deploy them in real-world policy and public participation contexts.
 :::
 ### Your vision for impact and sustainability
 - What would success look like in 2-3 years? How will you measure success?
