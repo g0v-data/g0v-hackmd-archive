@@ -73,6 +73,7 @@ g0v Slack Channel Guide 頻道傳送門
 #deutschland-germany 德國與德語區
 #french-français
 #uk
+#türkiye_土耳其
 #israeli-palestinian-conflict
 #g0v-it https://github.com/g0v-it
 #intl 國際交流工作小組 g0v international、國際交流資訊都在這
@@ -92,7 +93,9 @@ g0v Slack Channel Guide 頻道傳送門
 #jothon-online-雲端活動籌辦 蒐集線上活動籌辦事務
 #jothon-local-support-地方社群支持方案
 #fundraising-救松團-募款執行
+#impact_sroi 影響力評估
 #passp0rt 社群護照
+#寄送文宣品摺頁手冊書籍
 #booth-擺攤 申請擺攤、出攤協力
 #g0v-conservation-archive-文物保存
 #community99-社群九分鐘-撰寫工作頻道
@@ -280,6 +283,7 @@ g0v Slack Channel Guide 頻道傳送門
 #disaster-go 任務化提升台灣防災準備
 #心家園_災害復原重建 
 #gis 地理資訊、地理資料 :earth_asia: Geo-data
+#gis-內容素材蒐集頻道
 #energy 能源議題頻道
 #rentea 租屋資料與議題
 #openlab-mapping Geographic Referencing for Technology Transfer via  Bioregional similarity. Aggregating and associative mapping data.
@@ -341,9 +345,9 @@ https://g0v-slack-archive.g0v.ronny.tw
 ．南臺灣學生資訊社群 Discord: https://discord.gg/6QW6gqhHQe
 ．伴伴學 Discord: https://discord.gg/azQUs8Y2fY
 ．Code for Taiwan Discord：https://discord.com/invite/pRFjDXeFyv
-．Code for Korea Discord https://discord.gg/xNNvfhJUV5
 ．Formosa Art Bank 福爾摩沙藝術銀行去中心化治理組織 Discord: https://discord.com/invite/skvQAGPBDV
 ．GreenSofa 綠沙發 _ 以 Web3 公共財資助台灣 Public Goods 發展 Discord: https://discord.com/invite/skvQAGPBDV
+．Code for Korea Discord https://discord.gg/xNNvfhJUV5
 
 ---
 
