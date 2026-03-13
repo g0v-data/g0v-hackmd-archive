@@ -2,7 +2,7 @@
 tags: GIS
 ---
 
-# 好連街 GDP _ Good District Path
+# 好連街 GDP _ Good District Path / 生活路徑營造
 
 :::success
 歡迎加入交流討論社團：
@@ -493,10 +493,9 @@ https://drive.google.com/drive/folders/1pw-JHthK5d7pyJ4MhRUBrkCFQoVAbBTv?usp=sha
 2024.06.29 針對臺北市建國中學-古亭站-南門市場，探討方案與公車路線的衝度
 - https://www.facebook.com/groups/474536628587982/posts/480887367952908/
 
+---
 
-
-
-## 繪製步驟
+## 繪製步驟：街廓界定、好連街指認
 
 ### 一、街廓在哪裡
 
@@ -574,6 +573,9 @@ https://drive.google.com/drive/folders/1pw-JHthK5d7pyJ4MhRUBrkCFQoVAbBTv?usp=sha
     - https://hwms.moenv.gov.tw/dispPageBox/route/routeCP.aspx?ddsPageID=ROUTE
     - https://github.com/funtuan/taiwan-garbage-opendata?tab=readme-ov-file
 
+機構進出車輛動線
+- 醫院、消防等
+
 基礎設施維修站點與車輛路線
 - 例如?
 
@@ -599,7 +601,7 @@ https://g0v.hackmd.io/X8mWlCWIRkOfCIhTjp1oLA?view
 街區生活 (居住與辦公) 的汽車使用者、送貨的司機
 - 街區的過境車流會減少
 - 比較不會堵塞在街區內
-- 對於貨車可能需要搭配卸貨區
+- 對於貨車需要搭配卸貨區
 
 使用巷弄內停車位的駕駛
 - 依照路網，仍可以停車
@@ -634,7 +636,7 @@ https://visual.ly/community/Infographics/environment/walkable-mixed-use-neighbor
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2d87be3259f2bec376bf7adce597a557.png)
 
 
-## 特定街區
+## 特定街區探討列舉
 
 ### 臺北市捷運淡水線兩側街區【基隆河-市民大道-承德路-中山北路】
 - 優先讓淡水線捷運站主要出入口與相鄰街區不被車道所切斷，例如R3R4出入口與長安路口、中山站的南京路口、雙連站的民生西路口、錦西街路口、民權西路站與撫順街
@@ -714,7 +716,6 @@ https://g0v.hackmd.io/@chewei/muzha/
 - 討論串：https://www.facebook.com/groups/474536628587982/posts/739461315428844/
 
 
-
 ## 發想筆記
 
 「汽車淘刷」vs 街廓沃土、培植
@@ -774,7 +775,7 @@ Through Traffic 過境車流
 發想
 - 界定出街廓後
     - 假設這個大街廓單一產權，單一土地使用機能
-    - 可能會變成重複
+        - 可能會變成重複
     - 以實際街廓狀態來看，產權分佈與決策傾向、對於機能的設定，視為能創造街廓特色的來源
 
 溝通文宣

@@ -29,17 +29,23 @@ tags: 新生流域,
 
 ## 活動概要整理與延伸探討
 
-![](https://g0v.hackmd.io/_uploads/ByxCvOoN1bx.jpg)
-![](https://g0v.hackmd.io/_uploads/Syxx6jsNk-e.png)
+### 【主題：都市設施系統】聚焦新生高架橋交通轉型方案、高架橋與微氣候等
 
+![](https://g0v.hackmd.io/_uploads/ByxCvOoN1bx.jpg)
+
+大台北交通模擬分析
+A collection of Jupyter Notebooks and Python utilities to build, solve, and visualize traffic assignment models for Taipei. This repository demonstrates data preparation, network building, demand creation, and numerical solution methods (e.g., All‑or‑Nothing, Frank‑Wolfe / User Equilibrium).
+- 介紹影片：https://youtu.be/XpR60Y_3Hmk
+- GitHub：https://github.com/aKi-1201/TrafficAssignmentModel-Taipei/
+- 分析論文成果釋出：https://github.com/aKi-1201/TrafficAssignmentModel-Taipei/releases/download/paper-v2.0/paper.pdf
 
 分析方法
 - 有詢問交通局，當時花博期間新生高架橋修繕的交通流量紀錄
 - TRTS-4S
     - 也是捷運規劃依據
-- python + QGIS
+- 程式技術：Python + QGIS
 
-部分不通車的方案
+關於「部分不通車」的方案
 - 方案：保留劍潭到民族東路的橋體，在民族東路以北設置上下橋區域，保留濱江引道
 
 ![](https://g0v.hackmd.io/_uploads/S1edsjiNkZl.png)
@@ -88,3 +94,10 @@ tags: 新生流域,
         - 瓦磘溝的鄰水岸都市更新整合方案
 
 
+〈高架道路型式及街谷環境條件對都市微氣候影響之研究―以臺北市新生高架道路為例〉
+https://www.facebook.com/groups/582154450196478/posts/1012516907160228/
+
+
+## 【主題：水綠環境與調適】探討氣候變遷調適、水綠環境營造等
+
+![](https://g0v.hackmd.io/_uploads/Syxx6jsNk-e.png)

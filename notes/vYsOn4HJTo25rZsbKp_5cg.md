@@ -11,7 +11,6 @@ https://g0v.hackmd.io/@chewei/B14OsdWfi/
 - [Intro & Find Us 📢](https://g0v.hackmd.io/@chewei/Hyys4_Y29)
 
 ## 近期活動資訊 Event
-- [2025/11/02 週日上下午<br>新生流域公民論壇<br>🔥🔥🔥](https://g0v.hackmd.io/@chewei/20251102)
 - [[線上] 新生流域「觀點便利貼」<br>歡迎線上填寫、瀏覽成果 ✍](https://g0v.hackmd.io/MrRWqJgpTHeeGgMyfOxF3w?view)
 
 ## 活動企劃區
@@ -19,9 +18,10 @@ https://g0v.hackmd.io/@chewei/B14OsdWfi/
 - [Event 活動企劃構想彙整區 🏃‍♀️](https://g0v.hackmd.io/mPCuC_qcRAG1Yw7rrUZwRg?view)
 
 ### 已結束活動
-- [(已結束)2024 一月至十一月<br>活動籌畫](https://g0v.hackmd.io/_HOgDAFaRYaoApQZJrwRNQ?view)
-- [(已結束)2023 十一月<br>戶外走讀與室內討論活動](https://g0v.hackmd.io/77MzJ59PQoScFkm4P4kYUw?view)
-- [(已結束)2023 四月至八月<br>戶外走讀與室內討論活動](https://g0v.hackmd.io/@chewei/S1tEhWp6j)
+- [2025/11/02 <br>新生流域公民論壇](https://g0v.hackmd.io/@chewei/20251102)
+- [2024 一月至十一月<br>活動籌畫](https://g0v.hackmd.io/_HOgDAFaRYaoApQZJrwRNQ?view)
+- [2023 十一月<br>戶外走讀與室內討論活動](https://g0v.hackmd.io/77MzJ59PQoScFkm4P4kYUw?view)
+- [2023 四月至八月<br>戶外走讀與室內討論活動](https://g0v.hackmd.io/@chewei/S1tEhWp6j)
 - [20190217 基隆河三腳渡碼頭登船➡︎進入新生大排溝底航行➡︎至光華商場北側的林森抽水站折返<br>👁️‍🗨️ 搭船遊覽環景影片紀錄](https://g0v.hackmd.io/jyO4Hf3GS_6ZWqMWRS1ZCw?view)
 
 ## 議題探討
