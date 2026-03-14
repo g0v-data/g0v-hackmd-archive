@@ -53,6 +53,9 @@ https://g0v.hackmd.io/FiMmi2-bRsavQff8LZNvUQ
 - https://jothon.g0v.tw/events/
 - todo 揪松團整理
 
+g0v Summit
+- https://drive.google.com/drive/folders/1TphU9pQpeG7L7_u-3FYysltUukxDN8NO
+
 0與1的力量 by Tuiry
 - https://g0v.hackmd.io/v9xC2yaDSWSi9pucnz4zWQ?view
 
