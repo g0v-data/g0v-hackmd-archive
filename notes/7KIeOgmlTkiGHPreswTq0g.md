@@ -59,7 +59,7 @@ tags: vTaiwan
 ### Proposed Project Title
 
 #### 暫時結論
-Making Consensus‑Building Alive: AI‑Assisted Real‑Time Deliberation from the vTaiwan Experience in Digitally Polarized Societies
+vTaiwan 3.0: AI‑Assisted Real‑Time Deliberation tool from the vTaiwan Experience in Digitally Polarized Societies
 
 
 
@@ -141,6 +141,12 @@ While developed in Taiwan, the approach is also relevant to other democracies fa
         - optional: 可驗證為真人與在地居民的功能
             - 克服隱私問題的真人驗證
 :::info
+### 最終版
+We are building an AI-assisted deliberation system designed to identify consensus in civic discussions in real time. The system is intended for citizen assemblies, hybrid meetings, and other time-limited deliberation settings.
+The design follows three principles: low interference, real-time feedback, and assistive rather than directive use of AI. Inspired by Pol.is, the goal is to surface shared understanding instead of amplifying the loudest voices.
+The platform operates in two stages. First, it captures opinions through rapid, low-friction interactions. Participants respond to short statements using simple agree/disagree/pass reactions. These statements may come from prepared materials or be generated from live discussions using large language models.
+Second, the system analyzes the opinion matrix using clustering and dimensional reduction techniques. AI summarizes viewpoint clusters and asks participants to verify them. Through repeated validation loops, the system identifies the broadest possible rough consensus confirmed by participants while maintaining human oversight and collective decision-making.
+
 ### V.2 草稿
 We are building an AI-assisted deliberation system designed for real-time consensus discovery in civic discussions. The system is intended for use in citizen assemblies, public policy forums, hybrid meetings, and other time-limited deliberation settings where groups must quickly identify areas of agreement and disagreement.
 
@@ -156,6 +162,14 @@ By combining real-time interaction with AI-assisted sense-making, the technology
 :::
 - Describe your project's traction. What’s working? What evidence do you have that this technology solves a real problem?
 :::info
+### 最終版草稿
+This project builds on more than a decade of civic technology experimentation through Taiwan’s vTaiwan process. Since 2014, vTaiwan has facilitated deliberations on over 30 national policy issues, including ride-sharing regulation, fintech policy, and online alcohol sales.
+
+The vTaiwan model combines online opinion gathering with offline deliberative workshops, enabling citizens, government officials, and industry stakeholders to collaboratively explore policy solutions. Digital tools such as Pol.is and Mentimeter have helped collect and analyze large-scale public input, revealing areas of consensus across diverse groups.
+
+More recently, the community has explored AI-assisted sense-making. Through collaborations with organizations such as Chatham House and the AI Objectives Institute in the Democratic Inputs to AI project, large language models were used to analyze civic consultation data and support deliberation analysis.
+
+These efforts show that AI can significantly accelerate analysis of public input while helpinag facilitators detect consensus patterns, forming the foundation for a reusable deliberation infrastructure.
 ### V.2 草稿
 This project builds on more than a decade of civic technology experimentation through the vTaiwan process in Taiwan. Since 2014, vTaiwan has facilitated deliberations on over 30 national policy issues, including the regulation of ride-sharing platforms, fintech regulation, and online alcohol sales.
 
@@ -176,6 +190,12 @@ These experiments suggest that AI can significantly reduce the time required to 
     - Irvin Chen, https://www.linkedin.com/in/irvinchen/
     - 待補
 :::info
+### 最終版
+This project is led by a core team from Taiwan’s vTaiwan and g0v civic tech communities, bringing together expertise in law, public policy, software engineering, data analysis, design, and open internet advocacy. The work is supported by the Open Culture Foundation (OCF), a nonprofit that promotes open technology and digital rights in Taiwan.
+
+Peter Cui is a legal researcher focused on AI governance, digital policy, and civic participation. Joshua Yang, a software engineer and postdoctoral researcher at ETH Zurich, develops scalable systems for large-scale collaboration. Tim contributes technical development and infrastructure design for deliberation platforms. Yiting Lien works at the intersection of technology policy, research, and civic innovation. Irvin Chen brings long-standing experience in the Mozilla community and open internet initiatives.
+
+Beyond the core team, the project is supported by the broader vTaiwan and g0v ecosystem, including regular meetings and hackathons that enable rapid collaboration, prototyping, and real-world experimentation.
 ### V.3 草稿
 This project is led by a core team drawn from Taiwan’s vTaiwan and g0v civic tech community, combining expertise in law, public policy, software engineering, data analysis, design, and open internet advocacy. The project is supported by the Open Culture Foundation (OCF), a non-profit organisation that promotes open technology, digital rights, and open culture initiatives in Taiwan.
 
@@ -196,6 +216,11 @@ This combination of a focused core team and a highly active civic tech ecosystem
 ### Your vision for impact and sustainability
 - What would success look like in 2-3 years? How will you measure success?
 :::info
+### 最終稿
+In two to three years, success would mean the platform becoming practical civic infrastructure for democratic dialogue in high-stakes policy environments. Taiwan faces mounting pressures from disinformation, political polarization, natural disasters, and geopolitical tensions, particularly as the 2026 and 2028 elections approach—moments closely watched as tests of democratic resilience in the digital age.
+Our vision is that the platform becomes widely used to facilitate structured public discussions on complex issues such as digital governance, disaster preparedness, and emerging technologies. By enabling real-time opinion gathering and consensus discovery, it helps communities process disagreement constructively rather than deepening polarization.
+
+We would measure success through four indicators: adoption by 10–15 deliberative processes organized by NGOs, researchers, or public agencies; participation from several thousand contributors; demonstrated improvements in deliberation quality through identifiable consensus and structured summaries; and ecosystem growth, including an active open-source contributor community and reuse of the platform by organizations beyond Taiwan.
 ### V2 草稿
 In two to three years, success would mean that the platform has become a practical civic infrastructure for facilitating democratic dialogue in high-stakes policy environments.
 
@@ -216,8 +241,20 @@ Fourth, ecosystem growth: an active open-source contributor community and reuse 
 
 Ultimately, success would mean demonstrating that AI-assisted deliberation tools can strengthen democratic resilience by helping societies navigate disagreement, misinformation, and crisis without fragmenting their democratic institutions.
 :::
+- Who’s part of the community you hope benefits from your project? How are you connecting with them? What community challenge does your project help to address?
+:::info
+Our project aims to support civil society organizations. Taiwan has a vibrant ecosystem of NGOs actively working on public interest issues—for example, the Judicial Reform Foundation on civil rights, gender issues and digital human rights, DoubleThink Lab on countering authoritarian influence operations using technologies such as AI, and the Taiwan Association for Human Rights on digital rights and privacy protection.
+
+We engage these communities through the existing networks of vTaiwan and g0v, including civic tech hackathons, policy workshops, and collaborative online spaces where NGOs, technologists, and researchers regularly exchange ideas and test new tools.
+
+However, many NGOs face significant constraints when organizing public consultations or participatory discussions. Running meaningful deliberation processes requires time, technical capacity, and resources to collect and analyze public input. Our project addresses this challenge by providing open-source, AI-assisted tools that lower the cost and effort required to organize inclusive, structured public deliberation.
+:::
 - What do you need to make this project sustainable long-term? What are the biggest barriers to getting there?
 :::success
+### 最終版
+Long-term sustainability depends on building the platform as public democratic infrastructure that can be widely reused across different context. The system will be developed as free and open-source software (FOSS), allowing NGOs and local politicians in Taiwan to adopt it for community consultations and public deliberation. We also aim to collaborate with institutions involved in digital governance to explore how AI-assisted deliberation tools can support discussions on issues like online harms, digital policy, and internet governance.
+
+However, several challenges must be addressed to ensure sustainability. One key barrier is usability: many civic organizations lack technical capacity, so the platform must be simple to deploy and operate without specialized expertise. Another challenge is trust. AI-assisted analysis in democratic processes requires strong transparency, clear methodologies, and human validation to ensure legitimacy. Finally, long-term sustainability will require diversified funding sources beyond single grants, supported by partnerships with civic tech and public-interest technology funders.
 ### V1 草稿
 Long-term sustainability for this project depends on building the platform as open public infrastructure that can be widely reused across civic and policy contexts.
 First, the platform will be developed as free and open-source software (FOSS). This allows local civic organizations, NGOs, and local elected officials in Taiwan to adopt the system for their own public discussions and community consultations. By making the technology easy to deploy and adaptable to different contexts, the project aims to lower the barriers for grassroots actors to organize structured public deliberation.
@@ -228,6 +265,10 @@ If successful, the platform could become a sustainable piece of democratic infra
 :::
 - What would $50,000 unlock for your project?
 :::success
+### 最終版
+A $50,000 grant would enable the project to move from experimental prototypes to a functional and deployable deliberation platform. The most significant impact would be supporting a dedicated part-time developer to focus on building and maintaining the core system. Civic tech tools are often created by volunteers with limited time, which makes sustained development difficult. This funding would allow us to implement key features, integrate existing deliberation tools, and improve usability so the platform can be reliably used in real-world settings.
+The grant would also support pilot deliberation activities. These pilots are essential for testing the platform in real discussions and refining the system through practical feedback. Funding would help cover the basic costs of hosting deliberative workshops and public forums, including facilitation, documentation, and technical support.
+Together, dedicated development capacity and real-world pilots would demonstrate how AI-assisted deliberation can function as practical democratic infrastructure rather than a experimental prototype.
 ### V.1 草稿
 A $50,000 grant would allow the project to move from experimental prototypes to a functional and deployable deliberation platform.
 
@@ -242,6 +283,11 @@ The results of these pilots would also generate open documentation and case stud
 ### Your commitment to openness
 - How will you share your code, learnings, and data with others? Is there already a larger community that contributes to the project?
 :::success
+### 最終版
+The project is designed as an open civic technology initiative from the beginning. All core software will be released as free and open-source software (FOSS) on GitHub under a permissive license, allowing other organizations to deploy, adapt, and extend the platform.
+Beyond releasing the source code, we will publish documentation explaining both the technical architecture and the deliberation methodology behind the system. This includes deployment guides, facilitation materials, and case studies from pilot deliberation processes, enabling others to replicate AI-assisted public deliberation in their own contexts.
+The project also builds on an existing civic tech ecosystem in Taiwan. vTaiwan and the g0v community have collaborated through weekly meetings, hackathons, and shared online workspaces where developers, researchers, and civic organizers co-develop public-interest technologies.
+With support from partners such as the Open Culture Foundation and connections to civic-tech communities, the project aims to contribute to the global development of open-source democratic infrastructure.
 ### V1 草稿
 The project is designed as an open civic technology initiative from the beginning. All core software developed through the project will be released as free and open-source software (FOSS) on GitHub under a permissive license, allowing other organizations to deploy, adapt, and extend the platform.
 
@@ -256,6 +302,12 @@ By sharing code, documentation, and lessons learned openly, we hope the platform
 ### Democratic Impact
 - How does your technology actively advance democratic practice? What specific democratic outcomes (participation, transparency, accountability, civic space protection) does it enable?
 :::success
+### 最終版
+The platform advances democratic practice by strengthening four core dimensions of democracy: participation, transparency, accountability, and civic space protection.
+First, it expands meaningful participation by lowering the barriers to organizing deliberation processes. Traditional in-person deliberation requires significant preparation, facilitation, and analysis, making it difficult for resource-limited communities to organize. By automating opinion collection, clustering, and summarization, the platform enables civic organizations, local communities, and grassroots groups to run structured deliberations with far fewer resources. This makes democratic dialogue accessible not only to governments but also to NGOs, community groups, and local representatives. Such tools are particularly valuable during crises—such as Taiwan’s frequent typhoons—when communities must rapidly gather perspectives and coordinate collective responses.
+Second, the platform increases transparency through real-time visualization of collective opinions. Participants can see emerging patterns of agreement and disagreement during discussions, allowing conversations to evolve dynamically and building trust in the process.
+Third, it strengthens accountability by creating a traceable record of how opinions were gathered, clustered, and validated through participant feedback loops. This helps policymakers and participants understand how outcomes are generated.
+Finally, the platform protects civic space in polarized or information-contested environments by highlighting shared ground across diverse viewpoints and encouraging constructive dialogue. 
 ### V1 草稿
 The platform advances democratic practice by strengthening four core dimensions of democracy: participation, transparency, accountability, and the protection of civic space.
 
