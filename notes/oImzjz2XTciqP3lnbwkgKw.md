@@ -13,8 +13,9 @@ image: https://i.imgur.com/vwP94aZ.jpg
 
 其他參考資料
 - [給記者朋友、研究者的採訪建議事項](/hgXdOpyZRPCK1HVBVGmIhA)[target=_blank] 
-- [以 g0v 為主題的學術研究](https://g0v.hackmd.io/tpWNQTFvSOS_ZrSt2MiPWg)[target=_blank] 
+- [g0v 歷年採訪共筆文件彙整](https://g0v.hackmd.io/@jothon/g0vinterview/)[target=_blank] 
 - [g0v 媒體報導 / g0v media coverage](https://docs.google.com/spreadsheets/d/1YaD9e3HQ19ft2lSz_B9nnxjw8A-4Tbfain9OvnS38aw/edit?usp=sharing)[target=_blank] 
+- [以 g0v 為主題的學術研究](https://g0v.hackmd.io/tpWNQTFvSOS_ZrSt2MiPWg)[target=_blank] 
 
 ![Filming of The Life-Sized City in the office of g0v jothon. Photo by g0v.tw, CC BY 2.0](https://i.imgur.com/vwP94aZ.jpg)
 > Filming of The Life-Sized City in the office of g0v jothon. [CC BY 2.0 by g0v.tw](https://www.flickr.com/photos/g0v/48989674468/in/album-72157711577604536/)
@@ -126,6 +127,7 @@ https://www.youtube.com/watch?v=7238q4LM1nA&feature=youtu.b
 ### Taiwan Plus media
 
 🎥 g0v contributor Sam and the Taiwan Plus media team captured the g0v hackathon through film.
+- https://youtu.be/kitNCWX-aHY
 - https://x.com/taiwanplusnews/status/1608991453753008128
 
 ## 2023
@@ -149,3 +151,6 @@ https://g0v.hackmd.io/7TONekHaRBS4mr6lzdxlHw?view
 澳洲 ABC 電視台委託的製片公司
 https://g0v.hackmd.io/J4T9DwT8SZqipo_JBefnxw?view
 
+## 2026
+
+## 2027
