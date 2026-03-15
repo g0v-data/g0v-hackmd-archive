@@ -46,6 +46,13 @@ https://ppass.boca.gov.tw/sp-ipm-process-2.html
 來回含海遊館入管券 4200，單程3400，下午5點回程，末班6點
 https://www.kaiyukan.com/thv/captline/
 
+大阪周遊卡 Osaka Amazing Pass，2日券約台幣1000，不含南海本線、 JR 線
+可參與約40項設施，例如天保山大摩天輪
+可樂旅遊：
+https://www.colatour.com.tw/webDM/tour/japan/usj/ticket.html
+https://tour.colatour.com.tw/itinerary?TourCode=NOZ082405BR6&TourDate=2026/08/24
+https://www.colatour.com.tw/C10P_Package/C10P001_Q1_OrderInfo.aspx?ProjectId=2023OSA-2D1N-U01
+
 單字卡
 https://quizlet.com/tw/606710364/112%E4%BD%B3%E9%9F%B3%E7%BF%B0%E6%9E%97%E5%9C%8B%E4%B8%AD%E8%8B%B1%E8%AA%9Ebook-1_7%E4%B8%8Au3_%E5%96%AE%E5%AD%97%E5%85%A8-flash-cards/
 
