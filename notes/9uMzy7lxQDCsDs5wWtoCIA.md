@@ -1,6 +1,10 @@
 ## "花蓮救災爭議之後：未來台灣救災程序與資訊流通如何改進？——公民意見徵集" 意見綜整報告(2025/11/23版)
 
+### (最新版報告：[2026/03/15版](https://g0v.hackmd.io/mFmGObzZSrqCoDMXr_zCIw))
+
 資料來源：https://pol.is/report/r89seayfre3aha6vybrav
+
+分析工具：https://make.vtaiwan.tw
 
 意見徵集中：
 https://pol.is/4fxd6ehrfj
