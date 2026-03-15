@@ -65,3 +65,11 @@ chewei> 規劃推廣小冊子
 - 因為有擺攤推廣需求，預計介紹的內容較多，萌生製作小冊子的構想，工作筆記如下
     - https://g0v.hackmd.io/8nYqYBChQliFk55hQlnP5Q?view#2026-%E5%B0%8F%E5%86%8A%E5%AD%90
 
+3/16 Questions from Magdaline Boutros _ 採訪交流
+- 共筆文件：https://g0v.hackmd.io/obKWdY0EQ5GvUehDV5Vv8Q?view
+    - The civic tech community seems particularly active in Taiwan. Is that just an impression, or is the movement especially strong here?
+    - Where does this involvement of civic hackers in Taiwan’s democratic life come from?
+    - Why did you decide to create g0v ? How does it work ?
+    - How would you describe the relationship of the g0v community with the government?
+    - Can you give examples of grassroots initiatives that were later adopted by the government?
+    - Is the civic tech culture linked to the fact that Taiwan was not always a democracy, and therefore people know what it means not to have a voice?
