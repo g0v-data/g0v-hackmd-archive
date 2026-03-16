@@ -15,6 +15,9 @@ https://youtu.be/5FMzT1LrXv8?si=_g-iM2ryHT8qDCZH
 東遷
 https://youtu.be/i6sLniNcCew
 
+凱達格蘭
+https://www.facebook.com/share/p/1aeSPqRucu/
+
 竹塹社
 https://hackmd.io/@indigenous/HyRKA-FiI
 
