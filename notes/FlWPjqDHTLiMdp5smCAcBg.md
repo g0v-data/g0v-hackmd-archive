@@ -66,6 +66,13 @@ https://github.com/orgs/cofacts/projects/12
 
 ---
 
+## Design
+
+- COS https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.31x22849fdr2#heading=h.qmggrn3hmjbo
+- AI
+	- Polarization https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.xhkm0lgp8yph#heading=h.bds7a9ytl0eb
+	- AI https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.898ssgv1wzmk#heading=h.exs6cbiyoz13
+	- Defense https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.z3mp0t1qzjyy#heading=h.ch3h3ngppkxg
 
 
 
