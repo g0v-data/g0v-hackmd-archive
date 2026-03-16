@@ -27,6 +27,7 @@ tags: GIS
     - https://www.facebook.com/100000155080998/posts/2271344962880651/
 - 啤酒就是未來
     - http://swalk.blogspot.com/2021/01/blog-post_7.html`（added by LUCHH) `
+- 清酒面對氣候變遷 https://www.facebook.com/share/p/1axWC5VNG1
 
 ### 發想
 
