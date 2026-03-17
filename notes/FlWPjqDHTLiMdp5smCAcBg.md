@@ -1,5 +1,12 @@
 # 20260317 會議記錄
 
+:::info
+- [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
+- NPO Hub 出席：bil, lahna, mrorz, nonumpa
+- 線上出席：
+- https://meet.google.com/mrz-dgrd-pri
+:::
+
 ## 上次會議待辦
 
 ### Cofacts.ai 開發
@@ -118,3 +125,5 @@ TODO - @mrorz
 - [x] LINE 文案：假訊息的起手式：「只要年滿 65 歲，把資費改成每月 149 元的樂齡方案，兩年合約省出 8000 多元，這些錢本來都在幫電信公司賺業績，今天就教你怎麼把它們全部省回來。」這是生成式ＡＩ做出來的假內容。動手闢謠，讓我們一起保護家人，Cofacts 真的假的 第 51 次志工查核工作坊需要你的加入，活動完全免費，（請自備電腦）04/12(日)下午，地點青職基地，最近的捷運站是捷運板橋站1號出口。連結內報名：https://cofacts.kktix.cc/events/cofactseditor52
 - [ ] VOOM 發文
 - [ ] FB 發文
+
+
