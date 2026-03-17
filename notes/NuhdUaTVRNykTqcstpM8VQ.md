@@ -65,15 +65,18 @@ g0v Slack Channel Guide 頻道傳送門
 #pacific_太平洋
 #north-america 想在美國協作的可以來這邊聊天喔！
 #g0v-siliconvalley g0v 矽谷灣區小聚
+#méxico_墨西哥
 #latin-america
 #brazil
 #russia
 #ukraine
+#suomi_finland_芬蘭
 #netherlands_荷蘭
 #deutschland-germany 德國與德語區
 #french-français
 #uk
 #türkiye_土耳其
+#българия_balgariya_保加利亞
 #israeli-palestinian-conflict
 #g0v-it https://github.com/g0v-it
 #intl 國際交流工作小組 g0v international、國際交流資訊都在這
