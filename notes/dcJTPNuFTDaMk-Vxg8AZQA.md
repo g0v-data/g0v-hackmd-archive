@@ -11,6 +11,8 @@ tags: txt,
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
 ​
 
+https://www.facebook.com/share/p/1D9TUvfTqB/
+
 ⫷⋄⫸
 
 𓂃𓈒𓏸𓂃𓈒𓏸𓂃𓈒𓏸

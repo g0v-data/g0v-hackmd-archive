@@ -45,10 +45,13 @@ https://www.facebook.com/share/v/15p7HWGoN5/
 Line 的翻譯機器人
 https://www.facebook.com/share/p/1Asz4SaySK/
 
-## 開發票
+## 開發票 / 會計
 
 開發票
 https://www.facebook.com/neltseng/posts/pfbid02S3vKdmmQnqMAV4JP5Ky22AhKfWuCVBJj9M44QJgFUkpA8TswtMt8WzSD9KMfzCafl
+
+日本會計服務
+https://www.facebook.com/share/p/1AQFawzntp/
 
 ## 文字資料彙整清理
 
