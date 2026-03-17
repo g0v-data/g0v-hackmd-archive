@@ -39,6 +39,4 @@ https://teams.microsoft.com/meet/4755693985475?p=bzI7xqzO78eu8EHWrP
 https://www.toolskk.com/webcam-mic-test
 
 #### Zoom
-:bulb:停用待更新
-會議 ID：
-密碼：
+https://meet.google.com/iuq-xgoc-brt
