@@ -20,9 +20,10 @@ https://github.com/orgs/cofacts/projects/12
 - [ ] 在 tool call 中間關掉瀏覽器視窗再打開同一個 session page，要可以繼續串流結果
 
 ### DB migrate to elasticsearch 9.2
-- [ ] code review API & DB PR [name=mrorz]
-- [ ] migration SOP 文件 (for coding agent to execute migration) [name=nonumpa]
-	- [ ] 要同時開兩台 db，需要調整 resource
+- [x] code review API & DB PR [name=mrorz]
+- [x] migration SOP 文件 (for coding agent to execute migration) [name=nonumpa]
+	- [x] 要同時開兩台 db，需要調整 resource
+	- [x] https://github.com/cofacts/rumors-api/pull/381/changes/09ac28f366a855feb58bc8717c9e1a0937488293
 
 ## Updates
 
@@ -50,6 +51,15 @@ https://github.com/orgs/cofacts/projects/12
   > Elasticsearch 和 API 應該不可能 XD 不管是否考慮 cloudflare pages & worker，都是要開台機器的，本文重點也在這。文中有關網站這類 client 是順便塞的。
   >
   > 另一方面，cloudflare worker and pages 是 PaaS + edge computing 架構，不是以 docker image 為主的 container 部署平台，塞過去要大改架構，因此目前不考慮。
+
+:::info
+TODO - @mrorz 
+- 執行 https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?pli=1&tab=t.31x22849fdr2
+- 確認 docker-compose 與 rumors-deploy script 是否可以共用
+- 可以的話，開一台 production 設定好 ES6 snapshot，準備 migrate
+	- 準備好後先停機，省 cost
+:::
+
 
 ### Github 活動
 
