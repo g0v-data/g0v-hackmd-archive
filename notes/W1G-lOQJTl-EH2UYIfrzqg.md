@@ -126,6 +126,8 @@ https://www.taiwanembassy.org/jpfuk/post/8697.html
 - 電影，聚焦離島緊急醫療 https://www.facebook.com/share/1XjGEgozYL/
 - 薩摩會議 https://www.facebook.com/share/p/1BgrsEQxhV/
 - 甑島 https://www.facebook.com/share/p/1AogbzWUxy/
+- https://www.facebook.com/share/p/18WkmjhbNF/?mibextid=wwXIfr
+- https://www.facebook.com/share/p/1TSb2yLBsk/?mibextid=wwXIfr
 
 沖繩
 https://youtu.be/rylRtFqR4R8
