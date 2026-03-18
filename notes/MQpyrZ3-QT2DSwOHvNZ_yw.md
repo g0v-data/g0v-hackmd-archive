@@ -61,4 +61,5 @@ https://www.vtaiwan.tw/jitsi
 :::info
 We are currently developing an AI-supported tool that helps citizens better understand democratic processes, explains political developments in accessible ways and lowers the barrier to participate in local decision-making. The project is supported by the German Federal Ministry for Family Affairs and focuses especially on strengthening democratic participation.
 :::
-## Mozilla AIx
+## Mozilla AIxDemocracy Cohort
+- 
