@@ -13,5 +13,6 @@ tags: river,
 2026 申請萬華社區大學公民週活動
 - 預計日期 4/27 週一晚上
 - 活動名稱：
-- 活動簡介
+- 活動簡介 (撰寫中)
+    - 運用水岸城市大地圖，邀請參加者一起 
     - https://g0v.hackmd.io/@chewei/xindian-river-watershed/
