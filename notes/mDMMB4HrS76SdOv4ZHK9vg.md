@@ -17,7 +17,7 @@
     + 加減量歷史紀錄 `/product/change/amount-log`
     + 上下架申請(批次) `/product/change/shelve-apply`
     + 圖文異動申請 `/product/change/content-apply`
-    + 變價申請 `/product/change/content-apply`
+    + 變價申請 `/product/change/price-apply`
 
 + 行銷活動 `/product/marketing`
     + 折扣行銷活動查詢 `/product/marketing/discount-query`
