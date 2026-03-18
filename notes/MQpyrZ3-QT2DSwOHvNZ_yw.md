@@ -5,7 +5,10 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter 
+參與者 Participants：Peter, tim, yi-ting lien
+
+![](https://g0v.hackmd.io/_uploads/B1gFma-OqWe.png)
+![](https://g0v.hackmd.io/_uploads/B1-FmpWu5-e.png)
 
 
 https://www.vtaiwan.tw/jitsi
@@ -50,7 +53,7 @@ https://www.vtaiwan.tw/jitsi
 - Le Devoir 記者來台訪談，除了 vTaiwan 外，也訪談了 g0v 社群
     - [Questions from Magdaline Boutros _ 採訪交流](/obKWdY0EQ5GvUehDV5Vv8Q)
 - 幾個有趣的問題
-    - 開源（open-source)與民主的關聯是什麼？
+    - 開源 （open-source) 與民主的關聯是什麼？
     - The civic tech community seems particularly active in Taiwan. Is that just an impression, or is the movement especially strong here?
     - Where does this involvement of civic hackers in Taiwan’s democratic life come from?
     - vTaiwan 如何利用數位工具進行討論與審議
@@ -63,3 +66,27 @@ We are currently developing an AI-supported tool that helps citizens better unde
 :::
 ## Mozilla AIxDemocracy Cohort
 - 成功 submit 投稿了！
+- - 計畫網頁：[Democracy x AI Cohort: Call for Proposals](https://www.mozillafoundation.org/en/what-we-do/grantmaking/incubator/democracy-ai-cohort/)
+- AI 生成初稿：https://chatgpt.com/share/69a81206-83fc-800f-afc5-014106ca6af6 
+- 共筆：[Mozilla Democracy x AI Cohort: Call for Proposals x vTaiwan](/7KIeOgmlTkiGHPreswTq0g)
+
+## 重新整理 vTaiwan 的起源
+- 4 月會跟 Nicole 見面
+
+## TWNIC 合作
+- 先以 AI 治理相關議題
+### 認真版的報告整理
+- [vTaiwan 議題小聚3：針對詐騙應該怎麼做](https://docs.google.com/document/d/1gYthSiddnm10E2iaNssK1SGDZFwxxH1qG3tCVa2fMq8/edit?usp=sharing)
+    - 架構
+- [vTaiwan 模擬市民大會](https://docs.google.com/document/d/18WaxrP28sqAhpERiXnlCkuDRNquM1RqZdQaTiCQlwMg/edit?usp=sharing)
+    - 架構
+        - (Executive Summary)
+        - Motivation 
+        - Methodology 
+        - Findings 
+    - 想要宣告的結論
+        - 可以 engage 到更多元的利害關係人
+- [vTaiwan]
+
+## Notebooklm 影片製作
+- 可以等報告完成後再說
