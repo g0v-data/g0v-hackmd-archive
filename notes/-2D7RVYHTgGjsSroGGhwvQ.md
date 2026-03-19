@@ -98,6 +98,7 @@ bash -lc "cd /isaac-sim && ./runheadless.sh \
 ```
 sudo docker run --gpus all -d --network host \
 --name isaac51 \
+--runtime=nvidia \
 -v /home/ubuntu/Omniverse:/workspace \
 -e ACCEPT_EULA=Y \
 -e OMNI_KIT_ALLOW_ROOT=1 \
