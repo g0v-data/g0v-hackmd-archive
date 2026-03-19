@@ -35,6 +35,11 @@ https://docs.google.com/presentation/d/12jmmN0e1Ige_bl_-CnyonIoKWe_F9H_4kS2PTVXk
 AI 應用提案模板
 https://g0v.hackmd.io/rywMmJtrSNa1w_pmsUJgzw?view
 
+應用情境歸納列舉
+https://www.facebook.com/share/p/19i25hXvTL/
+
+---
+
 ## 修圖片
 
 使用開源軟體，移除圖片內的特定物件圖像
