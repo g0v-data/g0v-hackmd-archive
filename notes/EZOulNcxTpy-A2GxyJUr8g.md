@@ -19,5 +19,5 @@ tags: GIS,
 - [生活，在路上 📢<br>官方 Line 帳號](https://lin.ee/dsHdkrs)[target=_blank]
 
 ## 歡迎加入<br>主題型社團
-- FB 社團：[好連街 - 連續型行人路徑繪製社群](https://www.facebook.com/groups/474536628587982)[target=_blank]
+- FB 社團：[好連街 GDP _ Good District Path / 生活路徑營造](https://www.facebook.com/groups/474536628587982)[target=_blank]
 - FB 社團：[水城臺北．從新生流域開始吧 ! Taipei Xinsheng Watershed Network](https://www.facebook.com/groups/582154450196478)[target=_blank]
