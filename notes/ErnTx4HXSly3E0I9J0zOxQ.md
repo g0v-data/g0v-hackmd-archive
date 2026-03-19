@@ -5,8 +5,9 @@ tags: GIS
 # 好連街 GDP _ Good District Path / 生活路徑營造
 
 :::success
-歡迎加入交流討論社團：
-https://www.facebook.com/groups/474536628587982
+歡迎加入交流
+FB 社團：https://www.facebook.com/groups/474536628587982
+g0v Slack #好連街_gdp_good-district-path-生活路徑營造
 :::
 
 :::warning
