@@ -50,6 +50,7 @@ tags: bridge
 - 取得多個社群溝通工具的 bot/app/token
     - [Slack] g0v Slack [已取得並設定完成](https://g0v.hackmd.io/xbrqQThXSNmWTepWqbZ9GQ)
     - [Slack] Code for Korea 已取得並設定完成
+    - [Discord] Code for Korea 已取得並設定完成
     - [Slack] Code for Japan 已取得並設定完成
     - [Discord] 零時小學校 已取得並設定完成
     - [Discord] UniCourse 已取得並設定完成
