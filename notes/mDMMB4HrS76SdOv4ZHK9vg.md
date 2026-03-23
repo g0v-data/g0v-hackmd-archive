@@ -1,4 +1,4 @@
-# admin router
+# SCM admin router
 
 ## 商品管理 `product`
 + 商品提報 `/product/draft`
@@ -28,10 +28,11 @@
 
 ## 訂單管理 `order`
 + 出貨管理 `/order/ship`
-    + 未出貨訂單 `/order/ship/unship`
+    + 出貨管理`/order/ship/query`
+    + 未出貨訂單 `/order/ship/index`
     + 未押出貨客辦退 `/order/ship/undeposited`
     + 已出貨訂單 `/order/ship/shipped`
-    + 
+
 + 回收管理 `/order/retract`
     + 未回收訂單 `/order/retract/unretracted`
 
