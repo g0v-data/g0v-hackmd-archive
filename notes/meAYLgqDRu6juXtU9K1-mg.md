@@ -11,4 +11,4 @@ We are currently developing an AI-supported tool that helps citizens better unde
 :::
 
 ## Tool 分享
-- JOININ 
+- JOININ 一個 AI 的平台
