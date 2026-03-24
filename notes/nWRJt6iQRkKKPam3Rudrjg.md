@@ -11,8 +11,6 @@ tags: cofacts,
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
-## 上次會議待辦
-
 ### Cofacts.ai 開發
 
 https://github.com/orgs/cofacts/projects/12
@@ -31,7 +29,7 @@ https://github.com/orgs/cofacts/projects/12
 - [ ] 在 tool call 中間關掉瀏覽器視窗再打開同一個 session page，要可以繼續串流結果
 
 ### 主機遷移至 GCE
-- [x] @mrorz 執行 https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?pli=1&tab=t.t599bt7kwc4o#heading=h.351xoil28n2
+- [x] @mrorz 執行 https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?pli=1&tab=t.31x22849fdr2#heading=h.qmggrn3hmjbo
 - [x] @mrorz 確認 docker-compose 與 rumors-deploy script 是否可以共用
 - [ ] @mrorz 可以的話，開一台 production 設定好 ES6 snapshot，準備 migrate
 	- 準備好後先停機，省 cost
@@ -67,7 +65,7 @@ flowchart TB
             subgraph GCE ["🖥️ GCE: e2-highmem-4 (Ubuntu 24.04 LTS)"]
                 
                 subgraph OS ["Linux OS 層"]
-                    PAM["🔑 pam_group.so<br>(登入自動指派 dockerops 群組)"]
+                    PAM["🔑 pam_group.so<br>(登入自動指派 docker 群組)"]
                     Ops_Agent["📈 Google Cloud Ops Agent<br>(收集 Metrics & Logs)"]
                 end
 
@@ -130,10 +128,15 @@ flowchart TB
     class Cloudflared,Site,API,Bot,ES,Resolver,Cron container;
 ```
 
+:::info
+TODO: 記得設定 swap
+:::
+
 新 Devops manual https://github.com/cofacts/devops/pull/1/changes
 
 ### 小聚籌備
-- [ ] 投放目標：雙北
+- [x] 投放目標：雙北
+- [x] Rich menu
 - [ ] VOOM 發文
 - [ ] FB 發文
 - [ ] 食物：沒有
