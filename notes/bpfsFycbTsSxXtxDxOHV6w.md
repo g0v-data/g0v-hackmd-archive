@@ -1,8 +1,8 @@
-Dalian Tianpeng Food Co Ltd
-https://www.tianpeng-food.com
-Our main processing products is horseradish (flake, granular and powder), ginger powder, Kanpyo, Mustard essential oil, wasabi powder, wasabi paste, curry and flavoring sauce etc. 
-+86-41184610258
-3 No.2 Fuzhoucheng Industrial Zone, Wafangdian, Dalian, China
+Shanghai SUMORE Industrial Co Ltd
+https://www.sumore.com/
+Shanghai SUMORE Industrial Co., Ltd. is globally recognized for quality products, competitive pricing, and excellent after-sales service.
++86-21-61478359
+Room 1510, Yuanda Building, 360 Changzhou Road, Putuo District, Shanghai, China
 
 
 
