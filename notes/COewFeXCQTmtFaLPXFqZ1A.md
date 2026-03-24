@@ -13,6 +13,10 @@ tags: asia, Thai, GIS
 公民科技專案與社群手冊｜有各國相關內容段落
 https://g0v.hackmd.io/@jothon/ctpbook/
 
+This site offers a selection of Southeast Asia maps from the University of Hawaiʻi at Mānoa Library Map Collection. 
+https://experience.arcgis.com/experience/6295783fcb5b47ae9186247c74342b59
+https://www.facebook.com/miriam.stark/posts/pfbid02g3zSWfog84Hsm6oqoGRhDqH7fiXkrSzhBzqXSJ9mX9BwaUtwMcc9nvPo3bdFb8Vfl
+
 # Dataset
 
 ## Shelter Map
