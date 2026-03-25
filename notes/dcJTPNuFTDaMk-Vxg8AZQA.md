@@ -11,6 +11,8 @@ tags: txt,
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
 ​
 
+──── ⌂ ──── ⌂ ────
+
 https://www.facebook.com/share/p/1D9TUvfTqB/
 
 ⫷⋄⫸
@@ -59,7 +61,7 @@ gather g0ther
 https://www.threads.com/@npm_south/post/DLbnhKxpYCz
 
 
-┏━━━━━━━━━━━━━━━━━┓
+┏━━━━━━━━━━━━━━┓
 　✸　標題文字 ✸
-┗━━━━━━━━━━━━━━━━━┛
+┗━━━━━━━━━━━━━━┛
 https://www.facebook.com/share/p/17byvuNops/
