@@ -1,8 +1,7 @@
-Shanghai SUMORE Industrial Co Ltd
-https://www.sumore.com/
-Shanghai SUMORE Industrial Co., Ltd. is globally recognized for quality products, competitive pricing, and excellent after-sales service.
-+86-21-61478359
-Room 1510, Yuanda Building, 360 Changzhou Road, Putuo District, Shanghai, China
+https://www.heorshe.com
+Heorshe identifies itself as a new generation baby brand. We are inspired by a beautiful vision: that baby products can pursue the trendy fashion style while ensuring an extremely safe material and smooth user experience.
++86 731 8380 8111
+
 
 
 
