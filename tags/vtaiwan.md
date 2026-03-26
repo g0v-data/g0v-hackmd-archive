@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Meeting Mel Stein from  Wir sind der Osten 紀錄](../notes/meAYLgqDRu6juXtU9K1-mg.md) | 2026-03-26T11:00:05+00:00 | 2026-03-23T09:00:02+00:00 |
+| 1 | [Meeting Mel Stein from  Wir sind der Osten 紀錄](../notes/meAYLgqDRu6juXtU9K1-mg.md) | 2026-03-26T11:01:14+00:00 | 2026-03-23T09:00:02+00:00 |
 | 2 | [「SenseMaker意見綜整器」使用說明(V2)](../notes/vjYMEjYqRmGfYc0hScQkWg.md) | 2025-11-12T11:00:32+00:00 | 2025-09-02T22:30:28+00:00 |
 | 3 | [vTaiwan in Facing the Ocean 2025](../notes/QQeA5m3ATrK-Luqm3GdlKQ.md) | 2025-09-13T21:58:05+00:00 | 2025-09-10T11:06:26+00:00 |
 | 4 | [「Agora Citizen公民審議平台」使用說明(V1)](../notes/JNyULIFAQK6XgQADc2G7JQ.md) | 2025-09-04T06:51:53+00:00 | 2025-09-03T05:19:34+00:00 |

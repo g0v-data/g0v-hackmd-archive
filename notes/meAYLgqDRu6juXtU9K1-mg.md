@@ -17,4 +17,6 @@ We are currently developing an AI-supported tool that helps citizens better unde
 
 ## 合作方向
 - 討論工具：JOININ 工具功能討論與修改
-- 資訊分享：在 vTaiwan 小聚
+- 資訊分享：在 vTaiwan 小聚進行討論與交流
+- 共同提案：將在週末的黑客松共同提案
+- 合辦活動：在德國推動公民科技發展

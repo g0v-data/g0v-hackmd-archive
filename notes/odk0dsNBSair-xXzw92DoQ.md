@@ -5,8 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter
-
+參與者 Participants：Peter, Yi-ting Lien, Tim, Josh
 
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -51,6 +50,8 @@ https://www.vtaiwan.tw/jitsi
 ### 本週在台南有大松喔！
 - [大松資訊](https://g0v.hackmd.io/@jothon/g0v-hackath72n/https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F16R4OokdP_qPD-txUHB31tmoQtv8M133n6znDQycrM7Y%2Fedit%3Fusp%3Dsharing)
 - 目前確認 Peter 會前往台南提案與短講
+    - 提案：
+    - 短講：
 
 ## TWNIC 合作
 - 先以 AI 治理相關議題
@@ -68,6 +69,59 @@ https://www.vtaiwan.tw/jitsi
         - Findings 
     - 想要宣告的結論
         - 可以 engage 到更多元的利害關係人
-- [vTaiwan]
 
 ## Notebooklm 影片製作
+
+## 新的文章點子
+- Polis, Polis 2.0, Sensemaker, 跟其他工具的關係分析
+- Polis 的問卷形式：wiki survey，由大眾可以決定問卷的走向
+    - Pol.is 很自豪的一點是語言中立
+        - 不使用任何的語言分析（NLP）來呈現視覺化
+        - 單純只有用投票取向來決定分群
+        - 大型語言模型的工具出現後，開始會思考不同的方向
+            - Pol.is 2.0 就是加上 LLM 的部分
+- 加入 AI 之後的分析會發生什麼事
+    - 分析可能會變得扁平化
+    - 目前生成式人工智慧的侷限：呈現機率的問題
+    - 案例：collective summary 
+- AI 
+- Category:
+    - web1.0
+    - web2.0
+    - web3.0
+
+### 延伸
+- https://www.anthropic.com/features/81k-interviews 
+    - 社會科學的分析者回應分歧
+        - 規模確實最大
+        - 但是將半結構訪談的內容交給 AI 
+        - sample 到的資訊：全部都是 claude
+    - 批評：
+- 思考：是否可以在 line 上架一個意見的 interface
+- [vTaiwan的 LINE bot](/tj4Q3X8iTe2HOAeARcHoCw)
+    - 結合自動化
+    - 流程：
+        - 利用媒體/調查網站查詢台灣熱門議題
+        - 針對議題撰寫摘要
+        - 設定 polis 
+        - 利用 LINE Bot 推送投票（polis）
+        - 回收結果
+    - 參考
+        - cofacts 的聊天機器人
+        - https://chatbot.tnsprout.org/
+        - 
+- 可以將共筆推出
+- vTaiwan GitHub 的狀態
+    - 要確認
+## vTaiwan Dashboard 兼社群專案儀表板
+- [vTaiwan Dashboard 兼社群專案儀表板](/spO86QZUQ_ShvfeGPtvDNg)
+- 一句話說明這個專案：動動嘴可以快速更新社群儀表板
+### 功能：
+- 利用 agentic AI 來管理專案儀表板
+    - 正在進行中的事情
+    - 要完成的工作
+    - 目前工作是否已經被分派
+- wishlist：結合 github / trello 的功能
+- 優點：其他的社群也可以用
+- 延展：運用聊天機器人幫助使用者 onboard
+
