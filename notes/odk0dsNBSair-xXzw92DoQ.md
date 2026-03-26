@@ -43,3 +43,6 @@ https://www.vtaiwan.tw/jitsi
 - [Meeting Mel Stein from  Wir sind der Osten 紀錄](/meAYLgqDRu6juXtU9K1-mg)
 - 討論議題：
     - Mel 目前在的非營利組織想要開發一個基於人工智慧的聊天機器人 JOININ，希望透過 AI Companion 的方式
+
+### 本週在台南有大松喔！
+- 
