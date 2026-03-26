@@ -67,6 +67,9 @@ tags: GIS
     - 是否會因為結構材料，同性質的建築物，其係數而有所不同？
         - 例如磚造住宅、RC住宅、鋼構住宅？
         - 不過，係數是基於使用行為 (用電、燃氣、燃油)，所以構造材料本身是否會影響使用行為呢？
+- 都市型態對建築光電潛力與能源消耗影響之初探—以臺北市為例 Exploring the Impact of the Urban Form on Building Solar Photovoltaic Potential and Energy Consumption - A Case Study of Taipei City
+    - https://www.airitilibrary.com/Article/Detail?DocID=10181067-N202603210010-00003
+
 
 ### 圖資整理試作 
 

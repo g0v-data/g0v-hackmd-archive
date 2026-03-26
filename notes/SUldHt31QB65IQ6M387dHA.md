@@ -28,6 +28,8 @@ tags: 公有地大行動,公有資產
 - [大安區公有設施用電與相關運營成本概算]
 - [建立大安區能源中和／碳中和試點，依據實際狀況整理出家戶或社會團體執行懶人包與成本估算方法，以及未來建築法規參考依據](https://uxbackpacker.medium.com/中野區地方自治零排碳論壇小記-cb9929044904)
 - [製作家戶節能執行懶人包與相關改建與設備更換參考清冊]
+- 都市型態對建築光電潛力與能源消耗影響之初探—以臺北市為例 Exploring the Impact of the Urban Form on Building Solar Photovoltaic Potential and Energy Consumption - A Case Study of Taipei City
+    - https://www.airitilibrary.com/Article/Detail?DocID=10181067-N202603210010-00003
 - [屋頂光電裝設需求基準與限制條件盤查](https://www.notion.so/daweiho/f3ca14f8a3e349e0b71849ad6e778132)
 - [屋頂光電產權與帶光電中古屋交易估價的規範設計]
 
