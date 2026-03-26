@@ -42,7 +42,32 @@ https://www.vtaiwan.tw/jitsi
 ### 與 Mel Stein 見面
 - [Meeting Mel Stein from  Wir sind der Osten 紀錄](/meAYLgqDRu6juXtU9K1-mg)
 - 討論議題：
-    - Mel 目前在的非營利組織想要開發一個基於人工智慧的聊天機器人 JOININ，希望透過 AI Companion 的方式
+    - Mel 目前在的非營利組織想要開發一個基於人工智慧的聊天機器人 JOININ，希望透過 AI Companion 的方式協助強化民主
+    - 面臨的問題：東德地區與西德地區的發展不均與相對剝奪感，影響原東德地區居民對民主的觀感，進而成為極端主義的溫床。
+        - 與台灣的類似之處：民主的觀感受到生活與收入上的相對剝奪感改變。
+#### 目前討論到的合作機制
+
 
 ### 本週在台南有大松喔！
-- 
+- [大松資訊](https://g0v.hackmd.io/@jothon/g0v-hackath72n/https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F16R4OokdP_qPD-txUHB31tmoQtv8M133n6znDQycrM7Y%2Fedit%3Fusp%3Dsharing)
+- 目前確認 Peter 會前往台南提案與短講
+
+## TWNIC 合作
+- 先以 AI 治理相關議題
+    - 幾個議題：
+        - 人工智慧對於現在的支持系統帶來的影響：https://www.twreporter.org/a/opinion-ai-as-a-social-anteroom
+        - 人工智慧的著作權爭議：https://www.twreporter.org/a/taiwan-sovereign-ai-zhtw-llm-copyright-conflict?fbclid=Iw[…]L8PJekhgdgjNUu50wDnz_HTkakwlBb-N_aem_dL8IYo8Dx6p5BCoZ3lw49g
+### 認真版的報告整理
+- [vTaiwan 議題小聚3：針對詐騙應該怎麼做](https://docs.google.com/document/d/1gYthSiddnm10E2iaNssK1SGDZFwxxH1qG3tCVa2fMq8/edit?usp=sharing)
+    - 架構
+- [vTaiwan 模擬市民大會](https://docs.google.com/document/d/18WaxrP28sqAhpERiXnlCkuDRNquM1RqZdQaTiCQlwMg/edit?usp=sharing)
+    - 架構
+        - (Executive Summary)
+        - Motivation 
+        - Methodology 
+        - Findings 
+    - 想要宣告的結論
+        - 可以 engage 到更多元的利害關係人
+- [vTaiwan]
+
+## Notebooklm 影片製作

@@ -13,4 +13,8 @@ We are currently developing an AI-supported tool that helps citizens better unde
 :::
 
 ## Tool 分享
-- JOININ 一個 AI 的平台，利用聊天軟體的介面形式來強化
+- JOININ 一個 AI 的平台，利用聊天軟體的介面形式來強化民主
+
+## 合作方向
+- 討論工具：JOININ 工具功能討論與修改
+- 資訊分享：在 vTaiwan 小聚
