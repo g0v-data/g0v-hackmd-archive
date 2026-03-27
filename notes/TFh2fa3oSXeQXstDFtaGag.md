@@ -106,6 +106,8 @@ https://www.facebook.com/share/p/15xaBdVUQ5/
 徒步環島 https://www.facebook.com/share/p/1CK1fohbPV/
 火車環島
 https://www.facebook.com/share/p/1DVz6XwY6s/
+火車環島，搭配解任務競賽
+https://youtu.be/QUGHPuUU5FA
 南北縱走
 https://www.facebook.com/share/p/181dn2eqD9/
 台灣中央線(約780km)縱走之社團
