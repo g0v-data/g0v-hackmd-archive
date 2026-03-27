@@ -78,6 +78,7 @@ g0v Slack Channel Guide 頻道傳送門
 #türkiye_土耳其
 #българия_balgariya_保加利亞
 #israeli-palestinian-conflict
+#africa
 #g0v-it https://github.com/g0v-it
 #intl 國際交流工作小組 g0v international、國際交流資訊都在這
 #facing-the-ocean Connected to Code for Korea & Code for Japan
@@ -308,6 +309,7 @@ g0v Slack Channel Guide 頻道傳送門
 #river 河流與流域
 #super-agri 超農域，農藥查詢系統，南庄桐花松，農業資料與專案 :ear_of_rice: Agriculture related projects
 #tree 遙測算樹、圖資找地、倡議種樹 :deciduous_tree:
+#fractal-taiwan_臺灣碎形_蒐集臺灣輪廓外形的地景景點
 #food
 #glutenfreetw
 #gf-tw 無麩質安全網 gluten free
