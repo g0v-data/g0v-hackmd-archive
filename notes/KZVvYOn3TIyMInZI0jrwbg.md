@@ -19,6 +19,11 @@ https://2026-game.sitcon.party/booth?token=d89b40fa-5f23-428a-8d7e-ce2482aab6a6
 ![](https://g0v.hackmd.io/_uploads/B1cXDi4s-e.png =x400)
 ![](https://g0v.hackmd.io/_uploads/B1e5uUoNobg.png =x400)
 
+![](https://g0v.hackmd.io/_uploads/SkODEkHiZx.jpg)
+Photo by SeanGau
+![](https://g0v.hackmd.io/_uploads/Sk2DNkHi-l.png)
+Photo by SeanGau
+
 ## 參考資料
 - [攤位規格書](https://drive.google.com/file/d/1NxJaK_JE4XtnRSpv0Oe4n67eKaiaJe6V/view)
 - [行前信](https://sitcon.org/2026/email/)
