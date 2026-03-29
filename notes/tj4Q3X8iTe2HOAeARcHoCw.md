@@ -20,5 +20,5 @@ tags: vtaiwan
     - 上傳程式碼到 github，
     - OGP 相關合作討論
         - 討論看看民間的公共參與
-- Cloudfare 的帳號已經建好了
-- 現在
+## Cloudfare 的帳號已經建好了
+- 確認好 cloudfare 的帳號

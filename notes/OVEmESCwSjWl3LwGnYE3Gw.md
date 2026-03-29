@@ -17,7 +17,7 @@ tags: vtaiwan
 - **LINE Bot**：負責與使用者互動、推送投票、接收回覆。
 - **Cloudflare Worker / Hono API**：負責驗證、整理新聞、保存候選題目、提供安全 API。
 - **OpenClaw（龍蝦）**：定期用受保護的 Token 打 API，觸發 AI 摘要、整理 polis 投票題目、回寫結果。
-
+    - 目前的討論：不一定要用 Openclaw，其實用 cloudfare 的雲端服務就可以滿足需求，甚至可以使用開源 AI 的工具
 ---
 
 ## 2. 建議總體架構

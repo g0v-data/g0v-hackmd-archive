@@ -78,3 +78,8 @@ https://g0v.hackmd.io/q5meM1EoRxieGRC6XTHx4Q?view
 ## 20250107 詢問急救課程推薦
 
 https://g0v.hackmd.io/-9i14hLqRFez1IzvOhCyow?view
+
+## 20260329 詢問 TPass
+
+- GRB https://www.grb.gov.tw/search;keyword=TPASS;type=GRB05
+- 是否有票證資料可以申請使用？
