@@ -65,7 +65,6 @@ tags: edu
 - Next
     - 或許可以開一個共筆
 
-
 ## 職業災害
 
 https://g0v.hackmd.io/6U3Ip-5VQmyKXdfY8qUqtA?view
@@ -74,12 +73,16 @@ https://g0v.hackmd.io/6U3Ip-5VQmyKXdfY8qUqtA?view
 
 https://g0v.hackmd.io/q5meM1EoRxieGRC6XTHx4Q?view
 
-
 ## 20250107 詢問急救課程推薦
 
 https://g0v.hackmd.io/-9i14hLqRFez1IzvOhCyow?view
 
-## 20260329 詢問 TPass
+## 20260329 g0v 台南黑客松現場，詢問 TPASS 交通政策是否有相關探討與資料
 
-- GRB https://www.grb.gov.tw/search;keyword=TPASS;type=GRB05
-- 是否有票證資料可以申請使用？
+- 發問內容
+    - 發問背景：
+        - g0v 台南黑客松現場，修習台南大學問題分析與決策課程，有一組同學們想探討 TPASS 這個交通措施，詢問 TPASS 交通政策是否有相關探討與資料
+- chewei> 可以查查看 GRB 政府研究計畫成果彙整網站
+    - https://www.grb.gov.tw/search;keyword=TPASS;type=GRB05
+- chewei> 是否有票證資料可以申請使用？
+
