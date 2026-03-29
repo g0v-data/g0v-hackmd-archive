@@ -3,4 +3,6 @@ tags: vtaiwan
 ---
 # vTaiwan的 LINE bot
 ## 初步想法
-- 在 3/26 的小松中
+- 在 [20260326 小松](/odk0dsNBSair-xXzw92DoQ)中初步提到了這個想法
+- 想要達成的目標：一個可以抓取新聞 api 後，生成摘要，並且提供給大家進行 polis 投票的一個工具。
+- 
