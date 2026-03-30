@@ -10,8 +10,6 @@
 https://www.youtube.com/watch?v=XFMa8p32gJs
 動物方城市2》主題曲 Shakira - Zoo 中文翻譯
 https://www.youtube.com/watch?v=7pQZQyMwqIw
-蚵仔、芋仔、鵝... 八格台語節奏挑戰
-https://www.youtube.com/shorts/JRbGDgyfVHA
 
 https://poki.com/zh/g/vortellis-pizza?gdgameCode=YAIUT3
 #### 日本環球影城自由行規劃
