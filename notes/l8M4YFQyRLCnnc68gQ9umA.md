@@ -59,7 +59,6 @@ Cofacts production on GCE
 https://github.com/cofacts/devops/blob/main/GCE.md
 
 
-
 ### :rocket: Staging
 
 Now on staging:
@@ -67,19 +66,10 @@ Now on staging:
 - ES 9.3.2
 - New API that connects to ES 9.3.2
 
-
 #### :robot_face: LINE bot
 
 - [ ] 應可送出「全新訊息」
-    - [ ] 問訊息來源時選擇「我自己打的」或「LINE 外面看到的」，應該會被擋下。
     - [ ] 提供正確訊息來源後跳到理由頁面，關掉理由視窗，訊息應該還是有被送出。
-    - [ ] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
-    - [ ] 可以修改理由送出。查看 article page 看理由是否有被送出。
-    - [ ] 「分享到 Facebook」、「分享到 LINE」可以正常運作
-
-- [ ] 送出「沒回應」的舊訊息，應可送出新理由
-    - [ ] 跳出來源視窗後關閉，文章的「N 人回報」應該仍然要 + 1（除非測試者已經針對該篇送過 reply request）。
-    - [ ] 提供正確訊息來源後跳到理由頁面，關掉理由視窗，可以看到「提供更多資訊」按鈕，按下去可以再打開「理由」視窗
     - [ ] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
     - [ ] 可以修改理由送出。查看 article page 看理由是否有被送出。
 
@@ -89,40 +79,21 @@ Now on staging:
     - [ ] 可以再次選擇 downvote
     - [ ] 選完回應之後，還可以捲回去選其他回應
 
-- [ ] 送出跟舊訊息相似的訊息，應提供選項選擇最像的訊息
-    - [ ] 按下任一訊息應該會列出回應
-    - [ ] 選了一個訊息之後，還可以捲回去按其他訊息
-    - [ ] 捲回去按下「這裡都沒有我要的」應該要跳出詢問來源視窗 (選項中不能有 100% 相似的，否則會找不到按鈕)
-
-- [ ] Rich menu 測試
-    - [ ] 「設定」更改後再次打開，應該會保留原本設定
-    - [ ] 「查過的訊息」應該要列出之前查過的訊息
-
-- [ ] Group chat test
-
 #### :globe_with_meridians: Site
 
-**未登入下檢測：**
-- [ ] Article list
-  - [ ] Filter works (Replied by me: known issue)
-  - [ ] Sorting works
-  - [ ] Can go to article page
+**登入狀態下檢測：**
 - [ ] Replies list
-  - [ ] Filter works (Replied by me: known issue)
-  - [ ] Sorting works
-  - [ ] Can go to article page
-  - [ ] 無法 upvote / downvote replies
-  - [ ] Can see vote reasons
-- [ ] Hoax for you
   - [ ] Filter works
   - [ ] Sorting works
   - [ ] Can go to article page
+  - [ ] Can upvote / downvote replies
+  - [ ] Can see vote reasons
 - [ ] Article detail
   - [ ] Can see similar messages
   - [ ] Can see deleted replies
-  - [ ] Cannot submit, upvote, downvote reply request
-  - [ ] Cannot submit, upvote, downvote reply
-  - [ ] Cannot add, remove, upvote, downvote category
+  - [ ] Can submit, upvote, downvote reply request
+  - [ ] Can submit, remove own reply
+  - [ ] Can add, remove, upvote, downvote category
 - [ ] Search
   - [ ] Can use global search to perform search
   - [ ] Can use textarea in header to perform searches
@@ -155,6 +126,14 @@ https://github.com/orgs/cofacts/projects/12
 > Tech design doc: https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.t599bt7kwc4o#heading=h.y3xsu1kqk04p
 
 Cost review
+![](https://g0v.hackmd.io/_uploads/BywNjXFjbx.png)
+
+- 目前為原價，每天 USD$ 6 --> 一個月 USD$180
+- 原本估算：
+    - e2-highmem-4 搭配 1 年期 CUD 折扣 ~$120.00 / 月
+    - 關掉 Linode （省 USD96/mo）
+    - rumors-site 被 cofacts-ai 取代，直接開在 e2-highmem-4 裡面，關掉 cloudrun instances 月省 160USD/mo ![](https://g0v.hackmd.io/_uploads/H1BMpXtiZl.png)
+
 
 ### Elasticsearch 升級
 
@@ -186,9 +165,7 @@ Reindex time spend = 2hr
 
 下一個階段：正式切換 (Final Cutover & Phase 4)
 
-
 既然 Staging 的驗證已經完美通關，我們準備好要進行 Production 的正式切換 了。
-
 
 Production 切換計畫：
 1. 停止 Production 的 v6 舊服務（db）。
@@ -206,6 +183,33 @@ Production 切換計畫：
 
 
 ## 小聚籌備
+
+- 2026/04/12(日) 14:00-17:00 青職基地二樓借好了 
+
+04/12 (日) 2pm - 5 pm 
+- 誰會來呢: bil, mrorz, nonumpa, Lahna
+- 辦在青職基地，已經確認借好
+- [x] 食物：沒有
+- [x] 場地：新北市青年局青職基地
+- [ ] 時間：13:00 擺桌子場佈
+	- 活動時間：14:00 - 17:00
+	- 時間分配
+        - 2:00 - 2:20 開場
+            - 影片
+            - Slido 暖身
+        - 2:20 - 2:40 引導註冊網站、介紹評價現有回應
+        - 2:40 - 2:50 實作評價
+        - 2:50 - 3:10 介紹補充資訊
+        - 3:10 - 3:40 實作補充資訊、自我介紹、休息
+        - 3:40 - 4:10 介紹撰寫新回應
+        - 4:10 - 4:40 實作撰寫新回應
+        - 4:40 - 5:00 介紹分類、RSS、合照
+- [ ] 投放目標：
+  - 推播日：03/26（04/01 或是 03/24 設定）- 已經推播，目前有滿
+  - 目標：雙北
+- [x] KKTIX: https://cofacts.kktix.cc/events/cofactseditor52
+- [ ] 記得帶：貼紙、不太環保杯 (bil)
+- [x] LINE 文案：假訊息的起手式：「只要年滿 65 歲，把資費改成每月 149 元的樂齡方案，兩年合約省出 8000 多元，這些錢本來都在幫電信公司賺業績，今天就教你怎麼把它們全部省回來。」這是生成式ＡＩ做出來的假內容。動手闢謠，讓我們一起保護家人，Cofacts 真的假的 第 52 次志工查核工作坊需要你的加入，活動完全免費，（請自備電腦）04/12(日)下午，地點青職基地，最近的捷運站是捷運板橋站1號出口。連結內報名：https://cofacts.kktix.cc/events/cofactseditor52
 - [ ] VOOM 發文
 - [ ] FB 發文
-- [ ] 記得帶：貼紙、不太環保杯 (bil)
+
