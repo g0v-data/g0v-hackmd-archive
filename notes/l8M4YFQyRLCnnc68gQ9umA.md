@@ -6,8 +6,8 @@ tags: cofacts
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
-- 線上出席：
+- NPO Hub 出席：bil, lahna, mrorz, nonumpa
+- 線上出席：Alfred
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
@@ -79,43 +79,48 @@ Now on staging:
     - [ ] 可以再次選擇 downvote
     - [ ] 選完回應之後，還可以捲回去選其他回應
 
+##### Release blocker
+- Investigate staging bot - 文字也很慢，卡在 AI 生成回應
+![](https://g0v.hackmd.io/_uploads/Syn72NKsZx.png =300x)
+
+- 查詢舊的也不行
+  - ![](https://g0v.hackmd.io/_uploads/BywiaNKjbg.png =300x)
+  - ![](https://g0v.hackmd.io/_uploads/B1gh6VtoWx.png =300x)
+
+
+
 #### :globe_with_meridians: Site
 
+https://dev.cofacts.tw
+
 **登入狀態下檢測：**
-- [ ] Replies list
-  - [ ] Filter works
-  - [ ] Sorting works
-  - [ ] Can go to article page
-  - [ ] Can upvote / downvote replies
-  - [ ] Can see vote reasons
-- [ ] Article detail
-  - [ ] Can see similar messages
-  - [ ] Can see deleted replies
-  - [ ] Can submit, upvote, downvote reply request
-  - [ ] Can submit, remove own reply
-  - [ ] Can add, remove, upvote, downvote category
-- [ ] Search
-  - [ ] Can use global search to perform search
-  - [ ] Can use textarea in header to perform searches
-  - [ ] Can list searched articles
-    - [ ] Filter works
-    - [ ] Sorting works
-    - [ ] Can go to article page
-  - [ ] Can list searched replies
-    - [ ] Can go to reply page
+- [x] Replies list
+  - [x] Filter works
+  - [x] Sorting works
+  - [x] Can go to article page
+  - [x] Can upvote / downvote replies
+  - [x] Can see vote reasons
+- [x] Article detail
+  - [x] Can see similar messages
+  - [x] Can see deleted replies
+  - [x] Can submit, upvote, downvote reply request
+  - [x] Can submit, remove own reply
+  - [x] Can add, remove, upvote, downvote category
+- [x] Search
+  - [x] Can use global search to perform search
+  - [x] Can list searched articles
+    - [x] Filter works
+    - [ ] ~~Sorting works~~ No such function
+    - [x] Can go to article page
+  - [x] Can list searched replies
+    - [x] Can go to reply page
 
-**登入自有帳號後檢測：**
-- [ ] Replies search page
-  - [ ] can upvote / downvote replies
-- [ ] Replies list
-  - [ ] can upvote / downvote replies
-- [ ] Article detail
-  - [ ] Can submit, upvote, downvote reply request
-  - [ ] Can submit, remove own reply
-  - [ ] Can upvote, downvote other's article reply
-  - [ ] Can add, remove, upvote, downvote category
-- [ ] Can logout
+:::info
+偶爾會 Service Unavailable 但好像之前就這樣
+:::
 
+Admin API
+http://dev-admin-api.cofacts.tw/
 
 ## Cofacts.ai 開發
 
@@ -134,6 +139,9 @@ Cost review
     - 關掉 Linode （省 USD96/mo）
     - rumors-site 被 cofacts-ai 取代，直接開在 e2-highmem-4 裡面，關掉 cloudrun instances 月省 160USD/mo ![](https://g0v.hackmd.io/_uploads/H1BMpXtiZl.png)
 
+:::info
+- 用 rsync 把 production Cofacts 做個備份到本機端，然後再 delete instance [name=alfred++]
+:::
 
 ### Elasticsearch 升級
 
