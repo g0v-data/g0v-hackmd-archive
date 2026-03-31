@@ -1,5 +1,5 @@
-Qidong City Meixun Machinery Co Ltd
-https://www.engmeixun.com
-Quality is our everlasting pursuit and the foundation of our enterprise. Meixun has passed the ISO9001 control system and the CE certification and achieved a number of patents for paper honeycomb technologies.
-+86-513-8369333
-No.28 Jiangfeng Road, High-tech Industrial Park, Qidong City, Jiangsu Province, China
+BOBO Machine Co Ltd
+https://www.bobomachine.com
+BOBO in Chinese means exuberant and vigorous. With continuous progress and development in past two decades, now BOBO machine is becoming the leading machine manufacturer and solution supplier in HVAC and Refrigeration industry.
++86-15962807500
+CBD, Nantong, JiangSu, China
