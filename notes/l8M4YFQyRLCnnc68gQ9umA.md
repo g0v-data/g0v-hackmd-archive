@@ -68,16 +68,16 @@ Now on staging:
 
 #### :robot_face: LINE bot
 
-- [ ] 應可送出「全新訊息」
-    - [ ] 提供正確訊息來源後跳到理由頁面，關掉理由視窗，訊息應該還是有被送出。
-    - [ ] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
-    - [ ] 可以修改理由送出。查看 article page 看理由是否有被送出。
+- [x] 應可送出「全新訊息」
+    - [x] 提供正確訊息來源後跳到理由頁面，關掉理由視窗，訊息應該還是有被送出。
+    - [x] 可從聊天視窗內打開理由視窗，繼續填寫理由送出。查看 article page 看理由是否有被送出。
+    - [x] 可以修改理由送出。查看 article page 看理由是否有被送出。
 
-- [ ] 送出「有回應」的舊訊息，應自動回傳回應
-    - [ ] 應列出訊息所有的回應
-    - [ ] 選擇回應之後可以幫回應 upvote
-    - [ ] 可以再次選擇 downvote
-    - [ ] 選完回應之後，還可以捲回去選其他回應
+- [x] 送出「有回應」的舊訊息，應自動回傳回應
+    - [x] 應列出訊息所有的回應
+    - [x] 選擇回應之後可以幫回應 upvote
+    - [x] 可以再次選擇 downvote
+    - [x] 選完回應之後，還可以捲回去選其他回應
 
 ##### Release blocker
 - Investigate staging bot - 文字也很慢，卡在 AI 生成回應
@@ -87,6 +87,10 @@ Now on staging:
   - ![](https://g0v.hackmd.io/_uploads/BywiaNKjbg.png =300x)
   - ![](https://g0v.hackmd.io/_uploads/B1gh6VtoWx.png =300x)
 
+:::success
+Resolved: 單純是因為 staging mongodb 太久沒用所以被 suspend orz
+啟動 mongodb 之後就正常了
+:::
 
 
 #### :globe_with_meridians: Site
