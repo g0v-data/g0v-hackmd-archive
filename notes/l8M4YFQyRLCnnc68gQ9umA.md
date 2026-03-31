@@ -55,6 +55,10 @@ tags: cofacts
 
 ### :rocket: Production
 
+Cofacts production on GCE
+https://github.com/cofacts/devops/blob/main/GCE.md
+
+
 
 ### :rocket: Staging
 
@@ -146,8 +150,15 @@ Now on staging:
 
 https://github.com/orgs/cofacts/projects/12
 
+### GCE migration
+
+> Tech design doc: https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.t599bt7kwc4o#heading=h.y3xsu1kqk04p
+
+Cost review
+
 ### Elasticsearch 升級
 
+> Tech design doc： https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.auumvk9ockbl
 
 Reindex time spend = 2hr
 - Start time: 2026年 3月31日 星期二 00時52分36秒 CST
