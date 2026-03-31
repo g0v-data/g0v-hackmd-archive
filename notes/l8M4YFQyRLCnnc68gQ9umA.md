@@ -11,12 +11,52 @@ tags: cofacts
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
-### :potable_water: Release pipeline
 
-#### :rocket: Production
+## 會前資訊
+
+### 綜合討論 (General)
+
+- **主機遷移至 Google Compute Engine (GCE)**
+  - mrorz 於 3/27 晚間進行了主機遷移，將服務從 Linode 搬遷至 GCE，預計停機一小時。遷移完成後，服務恢復正常。
+  - 討論中提及 GCE 的流量計費方式，以及對 AI 爬蟲可能導致帳單爆增的擔憂。
+  - mrorz 考慮使用 Cloudflare 的 HTML 快取及 AI 爬蟲防禦功能，以降低費用。
+
+- **Elasticsearch 升級**
+  - Staging 環境的 Elasticsearch 已升級至 9.3 版本，預計在清明連假期間將 Production 環境也升級。
+
+- **API Server Build 失敗**
+  - mrorz 於 3/30 晚間回報新版 API server build 失敗，並由 nonumpa 協助修復。
+
+- **服務短暫中斷**
+  - 3/25 `cofacts.tw` 網站曾短暫無法連線，後來自行恢復。
+
+### 開發相關 (Github)
+
+- **rumors-api**
+  - [New release release/20260331](https://github.com/cofacts/rumors-api/releases/tag/release/20260331)
+  - [PR #383: fix: include babel.config.js in Docker build and exclude test files](https://github.com/cofacts/rumors-api/pull/383) (已合併)
+  - [PR #382: Fix build](https://github.com/cofacts/rumors-api/pull/382) (已關閉)
+  - [PR #381: refactor: migrate from Elasticsearch 6.8 to 9.2 and Node 18 to 24](https://github.com/cofacts/rumors-api/pull/381) (已合併)
+
+- **rumors-db**
+  - [New release release/20260328](https://github.com/cofacts/rumors-db/releases/tag/release/20260328)
+  - [PR #77: Upgrade to Elasticsearch 9.2 and Node 24](https://github.com/cofacts/rumors-db/pull/77) (已合併)
+
+- **devops**
+  - [PR #1: docs: Add GCE.md with instance setup instructions](https://github.com/cofacts/devops/pull/1) (審核中)
+
+### 系統狀況 (Server Alerts)
+
+- 3/30: `cofacts.tw` 及 `line-bot.cofacts.tw` 服務不穩定。
+- 3/27: `line-bot.cofacts.tw` 及 `api.cofacts.tw` 服務不穩定。
+- 3/25: `cofacts.tw` 服務不穩定。
+
+## :potable_water: Release pipeline
+
+### :rocket: Production
 
 
-#### :rocket: Staging
+### :rocket: Staging
 
 Now on staging:
 
@@ -24,7 +64,7 @@ Now on staging:
 - New API that connects to ES 9.3.2
 
 
-##### :robot_face: LINE bot
+#### :robot_face: LINE bot
 
 - [ ] 應可送出「全新訊息」
     - [ ] 問訊息來源時選擇「我自己打的」或「LINE 外面看到的」，應該會被擋下。
@@ -56,7 +96,7 @@ Now on staging:
 
 - [ ] Group chat test
 
-##### :globe_with_meridians: Site
+#### :globe_with_meridians: Site
 
 **未登入下檢測：**
 - [ ] Article list
@@ -100,45 +140,6 @@ Now on staging:
   - [ ] Can upvote, downvote other's article reply
   - [ ] Can add, remove, upvote, downvote category
 - [ ] Can logout
-
-## 會前資訊
-
-### 綜合討論 (General)
-
-- **主機遷移至 Google Compute Engine (GCE)**
-  - mrorz 於 3/27 晚間進行了主機遷移，將服務從 Linode 搬遷至 GCE，預計停機一小時。遷移完成後，服務恢復正常。
-  - 討論中提及 GCE 的流量計費方式，以及對 AI 爬蟲可能導致帳單爆增的擔憂。
-  - mrorz 考慮使用 Cloudflare 的 HTML 快取及 AI 爬蟲防禦功能，以降低費用。
-
-- **Elasticsearch 升級**
-  - Staging 環境的 Elasticsearch 已升級至 9.3 版本，預計在清明連假期間將 Production 環境也升級。
-
-- **API Server Build 失敗**
-  - mrorz 於 3/30 晚間回報新版 API server build 失敗，並由 nonumpa 協助修復。
-
-- **服務短暫中斷**
-  - 3/25 `cofacts.tw` 網站曾短暫無法連線，後來自行恢復。
-
-### 開發相關 (Github)
-
-- **rumors-api**
-  - [New release release/20260331](https://github.com/cofacts/rumors-api/releases/tag/release/20260331)
-  - [PR #383: fix: include babel.config.js in Docker build and exclude test files](https://github.com/cofacts/rumors-api/pull/383) (已合併)
-  - [PR #382: Fix build](https://github.com/cofacts/rumors-api/pull/382) (已關閉)
-  - [PR #381: refactor: migrate from Elasticsearch 6.8 to 9.2 and Node 18 to 24](https://github.com/cofacts/rumors-api/pull/381) (已合併)
-
-- **rumors-db**
-  - [New release release/20260328](https://github.com/cofacts/rumors-db/releases/tag/release/20260328)
-  - [PR #77: Upgrade to Elasticsearch 9.2 and Node 24](https://github.com/cofacts/rumors-db/pull/77) (已合併)
-
-- **devops**
-  - [PR #1: docs: Add GCE.md with instance setup instructions](https://github.com/cofacts/devops/pull/1) (審核中)
-
-### 系統狀況 (Server Alerts)
-
-- 3/30: `cofacts.tw` 及 `line-bot.cofacts.tw` 服務不穩定。
-- 3/27: `line-bot.cofacts.tw` 及 `api.cofacts.tw` 服務不穩定。
-- 3/25: `cofacts.tw` 服務不穩定。
 
 
 ## Cofacts.ai 開發
