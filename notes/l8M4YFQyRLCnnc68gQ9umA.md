@@ -1,5 +1,5 @@
 ---
-tags: cofacts,
+tags: cofacts
 ---
 
 # 20260331 會議記錄
@@ -33,6 +33,12 @@ https://github.com/orgs/cofacts/projects/12
 ### :potable_water: Release pipeline
 
 #### :rocket: Staging
+
+Now on staging:
+
+- ES 9.3.2
+- New API that connects to ES 9.3.2
+
 
 ##### :robot_face: LINE bot
 
@@ -118,6 +124,44 @@ Reindex time spend = 2hr
 - Article 搞定：大概在 01:19 (30min 內)
 - Reindex 期間 Load 會飆到 > 15，RAM 會用掉 24GB + 8GB buffer ~= 32 GB
 - Process time: 2hr (7437 秒)
+
+
+目前進度與現狀：
+
+
+1. Production (GCE: 9209)：
+   * ES v9 已經就緒。
+   * 資料搬遷 (Reindex) 完成。
+   * GCS Snapshot Repository 註冊並通過驗證。
+   * 完整備份 (Snapshot) 已建立成功。
+
+
+2. Staging (Vultr: 62222)：
+   * ES v9 已經就緒。
+   * 已成功從 GCS 完整恢復資料。
+   * 驗證成功：Staging API 已成功透過別名讀取 ES v9 的資料。
+
+---
+
+下一個階段：正式切換 (Final Cutover & Phase 4)
+
+
+既然 Staging 的驗證已經完美通關，我們準備好要進行 Production 的正式切換 了。
+
+
+Production 切換計畫：
+1. 停止 Production 的 v6 舊服務（db）。
+2. 修改 Production 的 docker-compose.yml：
+   * 將 db 改為 v9 鏡像（或是將原本的 elasticsearch-v9 改為 db 並設回正確的 port）。
+   * 移除 elasticsearch-v9 臨時服務。
+   * 將 api 的 ELASTICSEARCH_URL 從 http://db:9200 指向新 db。
+3. 啟動 Production 服務。
+
+## Cofacts.ai
+
+### Hybrid search infrastructure
+
+[針對 Cofacts 多模態查核資料庫之 Gemini Embedding 2 與 Elasticsearch 9 混合搜尋架構評估報告](https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?pli=1&tab=t.tmt65uvfpaek#heading=h.50am5vq07luy)
 
 
 ### 小聚籌備
