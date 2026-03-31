@@ -11,26 +11,10 @@ tags: cofacts
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
-## 上次會議待辦事項
-
-### Cofacts.ai 開發
-
-https://github.com/orgs/cofacts/projects/12
-
-- [ ] React-markdown --> 回應編輯器
-- [ ] 資料關聯整理：準備 source list 然後掃 messages
-- [ ] Session list
-- [ ] Deploy to production w/ Claudelare
-- [ ] 整理 header (logo、menu、搜尋⋯⋯ etc)
-- [ ] landing page focus issue
-- [ ] input 在組字時 enter 會直接送出
-- [ ] tool call 細節調整
-- [ ] Langfuse feedback buttons
-- [ ] ADK 升級到可以看到 openapi.json
-- [ ] 直接用 ADK type 來 render events 而非轉成 messages
-- [ ] 在 tool call 中間關掉瀏覽器視窗再打開同一個 session page，要可以繼續串流結果
-
 ### :potable_water: Release pipeline
+
+#### :rocket: Production
+
 
 #### :rocket: Staging
 
@@ -117,7 +101,52 @@ Now on staging:
   - [ ] Can add, remove, upvote, downvote category
 - [ ] Can logout
 
-### ES6 --> ES9
+## 會前資訊
+
+### 綜合討論 (General)
+
+- **主機遷移至 Google Compute Engine (GCE)**
+  - mrorz 於 3/27 晚間進行了主機遷移，將服務從 Linode 搬遷至 GCE，預計停機一小時。遷移完成後，服務恢復正常。
+  - 討論中提及 GCE 的流量計費方式，以及對 AI 爬蟲可能導致帳單爆增的擔憂。
+  - mrorz 考慮使用 Cloudflare 的 HTML 快取及 AI 爬蟲防禦功能，以降低費用。
+
+- **Elasticsearch 升級**
+  - Staging 環境的 Elasticsearch 已升級至 9.3 版本，預計在清明連假期間將 Production 環境也升級。
+
+- **API Server Build 失敗**
+  - mrorz 於 3/30 晚間回報新版 API server build 失敗，並由 nonumpa 協助修復。
+
+- **服務短暫中斷**
+  - 3/25 `cofacts.tw` 網站曾短暫無法連線，後來自行恢復。
+
+### 開發相關 (Github)
+
+- **rumors-api**
+  - [New release release/20260331](https://github.com/cofacts/rumors-api/releases/tag/release/20260331)
+  - [PR #383: fix: include babel.config.js in Docker build and exclude test files](https://github.com/cofacts/rumors-api/pull/383) (已合併)
+  - [PR #382: Fix build](https://github.com/cofacts/rumors-api/pull/382) (已關閉)
+  - [PR #381: refactor: migrate from Elasticsearch 6.8 to 9.2 and Node 18 to 24](https://github.com/cofacts/rumors-api/pull/381) (已合併)
+
+- **rumors-db**
+  - [New release release/20260328](https://github.com/cofacts/rumors-db/releases/tag/release/20260328)
+  - [PR #77: Upgrade to Elasticsearch 9.2 and Node 24](https://github.com/cofacts/rumors-db/pull/77) (已合併)
+
+- **devops**
+  - [PR #1: docs: Add GCE.md with instance setup instructions](https://github.com/cofacts/devops/pull/1) (審核中)
+
+### 系統狀況 (Server Alerts)
+
+- 3/30: `cofacts.tw` 及 `line-bot.cofacts.tw` 服務不穩定。
+- 3/27: `line-bot.cofacts.tw` 及 `api.cofacts.tw` 服務不穩定。
+- 3/25: `cofacts.tw` 服務不穩定。
+
+
+## Cofacts.ai 開發
+
+https://github.com/orgs/cofacts/projects/12
+
+### Elasticsearch 升級
+
 
 Reindex time spend = 2hr
 - Start time: 2026年 3月31日 星期二 00時52分36秒 CST
@@ -157,14 +186,14 @@ Production 切換計畫：
    * 將 api 的 ELASTICSEARCH_URL 從 http://db:9200 指向新 db。
 3. 啟動 Production 服務。
 
-## Cofacts.ai
-
 ### Hybrid search infrastructure
 
 [針對 Cofacts 多模態查核資料庫之 Gemini Embedding 2 與 Elasticsearch 9 混合搜尋架構評估報告](https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?pli=1&tab=t.tmt65uvfpaek#heading=h.50am5vq07luy)
 
 
-### 小聚籌備
+
+
+## 小聚籌備
 - [ ] VOOM 發文
 - [ ] FB 發文
 - [ ] 記得帶：貼紙、不太環保杯 (bil)
