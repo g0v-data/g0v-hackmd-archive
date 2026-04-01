@@ -40,9 +40,16 @@ https://www.vtaiwan.tw/jitsi
 ## 小小的分享
 ### 大松的更新資訊：
 - 跟 SeanGau 討論過後，確認 LINE BOT 的部分用 CLOUDFARE 來開發就可以，不一定要串龍蝦。
-- 與婉玲討論了，可以組織一場跟國發會法制協調組的拜會，討論開放 api 與社群協作相關議題
-- 與 Isabel 討論了
+- 與婉玲討論了，可以組織一場跟國發會法制協調組的拜會，討論開放 api 與社群協作相關議題。
+    - 目前還在思考怎麼 draft 信件比較好
 
-### 未來的合作方向：
+- 與 Isabel 討論了一下，未來與 TWNIC 的議題小聚活動，或許可以參考數發部目前針對 AI 的相關政策
+    - AI 風險分類框架：https://moda.gov.tw/major-policies/ai/governance/19244，目前還沒公布，但是已經通過。
+    - AI 應用影響評估：https://moda.gov.tw/major-policies/ai/governance/19246，裡面有兒童、女性、人權三項，建議可以從兒童下手。
+### 與 Mel 在大松見面
+
 
 ## vTaiwan LINE Bot 的開發
+- 目前已經確認開發架構，並且建立 cloudfare 的 vTaiwan 帳號了
+- [Cloudflare 兩頭接：LINE Bot × OpenClaw 專案工程實作方案](/OVEmESCwSjWl3LwGnYE3Gw) 感謝 bestian 驗證實作方案
+- 
