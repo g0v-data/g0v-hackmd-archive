@@ -47,6 +47,7 @@ https://www.vtaiwan.tw/jitsi
     - AI 風險分類框架：https://moda.gov.tw/major-policies/ai/governance/19244，目前還沒公布，但是已經通過。
     - AI 應用影響評估：https://moda.gov.tw/major-policies/ai/governance/19246，裡面有兒童、女性、人權三項，建議可以從兒童下手。
 ### 與 Mel 在大松見面
+![](https://g0v.hackmd.io/_uploads/r1Snydcs-l.jpg)
 
 
 ## vTaiwan LINE Bot 的開發
