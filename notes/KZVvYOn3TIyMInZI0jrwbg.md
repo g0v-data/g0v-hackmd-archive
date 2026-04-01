@@ -30,6 +30,11 @@ Photo by Dong
 Photo by SeanGau
 ![](https://g0v.hackmd.io/_uploads/Sk2DNkHi-l.png)
 Photo by SeanGau
+![](https://g0v.hackmd.io/_uploads/ryxN0ZF5sWl.jpg)
+Photo by SeanGau
+![](https://g0v.hackmd.io/_uploads/rya0WK5iWx.png)
+![](https://g0v.hackmd.io/_uploads/Hy9DzYcoWg.png)
+Photo by Wang Yu Ching / Office of the President 總統府 (CC BY 4.0) 檔案來源：https://www.flickr.com/photos/presidentialoffice/albums/72177720332679694/with/55171667327
 
 ## 參考資料
 - [攤位規格書](https://drive.google.com/file/d/1NxJaK_JE4XtnRSpv0Oe4n67eKaiaJe6V/view)
