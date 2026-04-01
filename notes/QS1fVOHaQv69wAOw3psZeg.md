@@ -6,6 +6,9 @@ We invite guest speakers from 8:00 PM to 8:30 PM at our events. If you would lik
 
 This is the collaborative note for vTaiwan Community.
 
+## 2026
+
+
 ## 2025
 
 ### January
