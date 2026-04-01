@@ -29,6 +29,9 @@ https://hackmd.io/@indigenous/HyRKA-FiI
 道卡斯，新港社
 https://www.facebook.com/share/1Jbg1km7dh/?mibextid=wwXIfr
 
+南部平埔族群
+https://youtu.be/j2dROk3H-6M
+
 吉貝耍
 https://www.facebook.com/share/v/18Mg4DXvUL/?mibextid=wwXIfr
 
