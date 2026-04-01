@@ -1,3 +1,7 @@
+---
+tags: edu
+---
+
 # Google Lextract (LangExtract) 專案深度解析心智圖
 
 ## 1. 專案概況

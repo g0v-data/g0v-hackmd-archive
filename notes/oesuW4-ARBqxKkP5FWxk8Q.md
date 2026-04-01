@@ -1,5 +1,5 @@
 ---
-tags:
+tags: GIS
 ---
 
 # Türkiye 土耳其

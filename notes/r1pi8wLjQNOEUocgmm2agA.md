@@ -1,3 +1,7 @@
+---
+tags: edu,
+---
+
 # Omniverse
 [toc]
 ## [omniverse install](https://g0v.hackmd.io/0ZPwf5LlQGWlexnqZ08QzA?view)

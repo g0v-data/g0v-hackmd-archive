@@ -1,3 +1,7 @@
+---
+tags: edu
+---
+
 # omniverse ubuntu install(docker)
 
 - 確認 GPU

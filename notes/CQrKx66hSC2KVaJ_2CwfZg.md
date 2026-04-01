@@ -1,3 +1,7 @@
+---
+tags: AI, 
+---
+
 # NotebookLM9個高級技巧
 
 ## 1. 核心理念：建立 Master Notebook (數位分身)

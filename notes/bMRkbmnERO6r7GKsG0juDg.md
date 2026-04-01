@@ -1,5 +1,5 @@
 ---
-tags:
+tags: ReSchool, GIS
 ---
 
 # 20260125【ReSchool 校地創生專案工作坊】桌次內容

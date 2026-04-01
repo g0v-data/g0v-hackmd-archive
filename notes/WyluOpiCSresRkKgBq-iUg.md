@@ -1,3 +1,7 @@
+---
+tags: edu
+---
+
 # omniverse streaming
 [toc]
 

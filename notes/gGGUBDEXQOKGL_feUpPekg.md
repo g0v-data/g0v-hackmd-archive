@@ -1,5 +1,5 @@
 ---
-tags:
+tags: OLAP, data,
 ---
 
 適合練習 OLAP 的開放資料集

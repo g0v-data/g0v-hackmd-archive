@@ -1,3 +1,7 @@
+---
+tags: edu
+---
+
 # Omniverse install
 [toc]
 
