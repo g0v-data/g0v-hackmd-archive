@@ -87,7 +87,7 @@
 - 社群討論 GitHub Projects、GitLab 等替代方案。
 
 ### Frankly 中文化
-- **bestian** 投入 Frankly（au 的審議對話平台）中文化翻譯。
+- **bestian** 投入 Frankly（au fork 的審議對話平台）中文化翻譯。
 
 ---
 
