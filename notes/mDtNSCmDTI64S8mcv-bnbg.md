@@ -49,7 +49,7 @@ https://www.vtaiwan.tw/jitsi
 
 - 與 Isabel 討論了一下，未來與 TWNIC 的議題小聚活動，或許可以參考數發部目前針對 AI 的相關政策：[數發部AI專區](https://moda.gov.tw/major-policies/ai/1781)
     - AI 風險分類框架：https://moda.gov.tw/major-policies/ai/governance/19244 ， 目前還沒公布，但是已經通過。
-    - AI 應用影響評估：https://moda.gov.tw/major-policies/ai/governance/19246 ， 裡面有兒童、女性、人權三項，建議可以從兒童下手。
+    - AI 應用影響評估：https://moda.gov.tw/major-policies/ai/governance/19246 ， 裡面有兒童、女性、人權三項，建議可以從兒童著手。
 #### 下一步
 - 參考上述的內容，列出幾個未來小聚可以討論的方向給翊婷
 ### 與 Mel 在大松見面
@@ -77,6 +77,16 @@ https://www.vtaiwan.tw/jitsi
 ### 待辦事項
 - 先自己試試看之後，再來詢問 cofacts 的夥伴
     - [Cofacts 的 Github 連結](https://github.com/cofacts) 
+
+
+### 社群意見回饋
+
+> 嗨大家好！我是智仁，最近在關注 vTaiwan 的 LINE Bot × Polis 專案。
+> 看了 4/1 小松的共筆，想請教關於「關注度／討論度」作為議題篩選指標的設計：
+> 關注度高的新聞，媒體與輿論通常已有既定框架，放到 Polis 上是否反而難以產生新的意見光譜？相對地，關注度低但政策重要性高的議題（如 AI 對兒童的影響評估），或許更適合用 Polis 來發掘多元觀點。
+> 目前有考慮加入「政策重要性」或「意見分歧度」等其他維度嗎？[name=荻野目智仁]
+
+
 
 
 # 轉錄逐字稿與AI大綱
