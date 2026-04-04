@@ -10,17 +10,23 @@ FB 社團：https://www.facebook.com/groups/474536628587982
 g0v Slack #好連街_gdp_good-district-path-生活路徑營造
 :::
 
-:::warning
-本文件目錄如下
-[TOC]
-:::
-
 ## 什麼是「好連街」？
 
 ### 介紹
 
 🌟 在街區內營造行人友善路徑，方案多元，包含車道瘦身、時段無車、預設無車等。
 🌟 在街區內創造一條連續的行人路徑 (Continuous Pedestrian Pathway)，且盡可能避免受到車道阻斷，避免車輛直通穿越。可以透過調整車輛行駛方向與轉向系統，藉此創造行人連續路徑，減少人車交錯路口數量，也可以用「洄游型行車路線」來描述車輛轉向特點。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hozl8r36ako?si=iskQF90o1d3BZx3K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+三分鐘提案影片：https://youtu.be/Hozl8r36ako
+
+---
+
+:::warning
+本文件目錄如下
+[TOC]
+:::
 
 ## 【對策】營造街區內的明確綠道
 
