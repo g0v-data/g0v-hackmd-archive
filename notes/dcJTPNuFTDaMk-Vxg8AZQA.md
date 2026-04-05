@@ -25,6 +25,9 @@ https://www.facebook.com/share/p/1D9TUvfTqB/
 𣡾
 https://zh.moegirl.org.cn/zh-tw/%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95#google_vignette
 
+‧̫͡‧ོʔ‧̫͡‧ཻʕ‧̫͡‧ʔ‧͓͡‧ʔ
+
+
 ⸝ဗီူ⸜
 
 𓃹𓆉𓆏𓃻𓆓𓅰𓃠𓃥𓃬𓆊
