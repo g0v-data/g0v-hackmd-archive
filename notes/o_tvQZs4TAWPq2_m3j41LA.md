@@ -49,6 +49,9 @@ https://www.facebook.com/hemodialysis.taiwan/posts/pfbid02ZoHh7FwtYBDrwZxEhxYQhD
 海報商品
 https://www.facebook.com/share/1BfpNfuNZ3/?mibextid=wwXIfr
 
+跑者驛站
+https://www.facebook.com/share/r/1DuMUAh3dh/?mibextid=wwXIfr
+
 ## 發想
 
 臺北市路跑活動執行審核計畫
