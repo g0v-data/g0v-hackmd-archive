@@ -47,6 +47,7 @@ tags: GIS
 - 用木片相互交叉來組成類似鞭炮的帶狀木片組構方式，且也可以產生依序一片一片蹦跳的效果 
     - https://www.facebook.com/share/r/wcy1LoSKXvAv5Azz/
     - https://youtube.com/shorts/ejEpE8iFPYs
+    - https://youtube.com/shorts/AFPVu7IddzQ
 - 環保禮炮車 https://wushengtw.com/wushengcar/
 - LED 線香
     - https://www.facebook.com/share/p/xvUCkgoYqUGAiDdT/
