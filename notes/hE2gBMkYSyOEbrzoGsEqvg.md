@@ -22,4 +22,17 @@ https://g0v.hackmd.io/l8M4YFQyRLCnnc68gQ9umA
 
 ## API access
 
+verify1st.tw / https://github.com/topben/cryptotruth/pull/50
 
+Product
+- 主要是用 LLM 生成防詐文案
+- Cofacts 用來作為 Crowd-source evidence，會交給 LLM 生成最後訊息
+
+Concerns
+- 源頭活水：希望流量數字可以收得到、feedback 收得到
+- 不要有 extra effort for us
+
+https://github.com/cofacts/opendata/blob/master/LEGAL.md
+
+- 不在 LINE 所以給 LIFF URL 沒有太大幫助
+- 
