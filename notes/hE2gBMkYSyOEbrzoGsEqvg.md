@@ -2,8 +2,8 @@
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
-- 線上出席：
+- NPO Hub 出席：bil, lahna, mrorz, alfred
+- 線上出席：ggm
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
@@ -24,13 +24,17 @@
 ### GCE Migration
 #### Cost review
 
+3/27 GCE migration
+
 - 3/28 ~ 4/6 十天 USD121 --> 30天約 370USD ![](https://g0v.hackmd.io/_uploads/BkHuBwG2Wg.png)
 - Cloudrun distribution: 50% TW, 50% en+ja ![](https://g0v.hackmd.io/_uploads/BkgIYUDfh-e.png)
 
+:::info
 TODO
 1. 可以開始把 en, ja 搬到 GCE 上 --> estimated cost save = 70USD/mo
 2. 跑幾週看穩定度，決定是否要再把 tw site 也搬進 GCE
 3. 跑幾個月看實際用到的運算量，決定 GCP committed use discount 怎麼買比較划算
+:::
 
 #### LINE bot 穩定度
 
@@ -39,10 +43,12 @@ TODO
 - GCE migration 時，這個 cronjob 被寫成直接用 docker-compose restart，導致有 downtime。
 - 4/7 傍晚發現並已經修正，19:15 開始應該會正常無 downtime。
 
-#### 還沒做的東西
 
+:::info
+#### 還沒做的東西
 - Cloudflare HTML cache and AI crawler defense
 - Linode rsync 備份 + 刪 instance
+:::
 
 ### Elasticsearch 升級
 
@@ -79,6 +85,12 @@ Error reporting server info to Apollo during schema reporting: Error: An unexpec
 登入時會看到 `*** System restart required ***`，表示 Ubuntu 的底層 Kernel 順著 package update 已經安裝好了新版本，但需要你手動重啟機器才會套用。你可以在未來確認沒有重大活動的離峰時間，下一道 `sudo reboot`，重啟後所有 `restart: always` 的服務都會自己長回來，非常方便。
 :::
 
+:::info
+TODO
+- 找一個離峰時間重開 GCE --> reset Swap ＆ apply Ubuntu kernel
+- 確認 weekly backup 有正常運作、修正 weekly opendata publish https://github.com/cofacts/opendata/pull/32
+:::
+
 ### Cofacts.ai 開發
 - Progress update: https://github.com/orgs/cofacts/projects/12
 - Hybrid search: https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.lhafy6bbdc9p
@@ -91,11 +103,11 @@ Error reporting server info to Apollo during schema reporting: Error: An unexpec
     - [ ] KKTIX 行前通知：提醒時間、使用電腦而非手機
   > Hello 你好，
 	>
-	> 本週日就是 2 月 8 日查核志工培訓囉！
+	> 本週日就是 4 月 12 日查核志工培訓囉！
 	>
-	> 志工培訓需要大量查詢資料，請自備筆電 💻 與充電器 🔌 並帶著愉快的心情來參加。帶順手的平板也可以的！如果願意協助編修影片逐字稿，請自備耳機唷🎧！
+	> 志工培訓需要大量查詢資料，請自備筆電 💻 與充電器 🔌 並帶著愉快的心情來參加。帶順手的平板也可以的！如果願意協助編修影片逐字稿，請自備耳機唷🎧！ 另外這次的活動會有瑞士新蘇黎世報的紀錄片採訪進行一定距離外的活動紀錄，不願意入鏡是絕對沒有問題的，我們尊重每個人的肖像權。
 	>
-	> 🕒 時間：2/08（日）14:00 - 17:00
+	> 🕒 時間：04/12（日）14:00 - 17:00
 	> 📍 地點：新北市青年局青職基地2樓 / 新北市板橋區民權路170號2樓(近板橋捷運站)
 	> 
 	> 費用全免，會很準時開始。若不克前往，記得取消報名 :)
@@ -109,7 +121,7 @@ Error reporting server info to Apollo during schema reporting: Error: An unexpec
 	> 那麼明天見囉😊
 	>
 	> 比鄰敬上
-    - [x] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
+    - [ ] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
 	- [ ] 準備 Slido `#cofacts`
 		- [ ] 放投影片網址
 - 當日準備 / 攜帶
@@ -122,9 +134,9 @@ Error reporting server info to Apollo during schema reporting: Error: An unexpec
     - [ ] 一次性杯子 - bil
     - [ ] 延長線 - bil
         - 比鄰有 5 條
-    - [ ] Wifi 機 - mrorz
-        - [ ] rt-ax57 go
-        - [ ] 電源線
+    - [ ] ~~Wifi 機 - mrorz~~ 網路夠穩
+        - [ ] ~~rt-ax57 go~~
+        - [ ] ~~電源線~~
     - [ ] 多帶一條 type-c 公公線 for dongle 的電
     - [ ] 備用 wifi 機 [name=nonumpa]
 - 13:00 - 場佈 [排法](https://g0v.hackmd.io/9IEjq11XSwCyES_VFn8JEg#%E5%B0%8F%E8%81%9A%E6%AA%A2%E8%A8%8E) ![](https://docs.google.com/drawings/d/e/2PACX-1vSZhu49XCUS50miXVUNYO9taFST862ov-EY3zD03qcPy9edM8qU5Q6QpCTFRpzQBwcCQX78pblmzi39/pub?w=943&h=652)
