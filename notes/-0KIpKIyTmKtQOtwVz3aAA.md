@@ -22,6 +22,9 @@ https://www.facebook.com/story.php?story_fbid=pfbid02pZpe86qhcejBjoUmniNDyaYEAyv
 什麼是有效的癌症篩檢 https://goo.gl/WcJC55
 https://www.facebook.com/story.php?story_fbid=pfbid02rKoxJdet1L2eLLjUaiEM9X4LpS7Z38aodFEvp1uRLdVumgyJ6FQ1sFTAdg8JnZTFl&id=1624140681141615&mibextid=qC1gEa
 
+子宮內膜癌前病變，需要「子宮鏡檢查」
+https://www.facebook.com/share/p/1XXcWnSQs9/
+
 摘：「手術後的回診看切片報告，證實切除的腫瘤是惡性，不過因為發現的早，目前完整切除後沒有擴散現象，定期回醫院檢查就好了，該說是萬幸吧。」
 https://www.facebook.com/story.php?story_fbid=pfbid02m5Z5rKaiF9wz8DuRfQtzU7De15x9ZsoN3KbvffRQqZxJHDouWErMkxUmS8qx1QhUl&id=100000072259315&mibextid=qC1gEa
 

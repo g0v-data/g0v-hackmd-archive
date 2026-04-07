@@ -7,4 +7,6 @@ tags: river
 塔塔悠社
 https://photos.app.goo.gl/AhGfYa1S2c9buSuE8
 
-大直 https://www.facebook.com/share/p/18Wok8fWwK/
+大直 
+https://www.facebook.com/share/p/18SerGSntN/?mibextid=wwXIfr
+https://www.facebook.com/share/p/18Wok8fWwK/
