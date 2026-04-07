@@ -14,11 +14,13 @@ https://g0v.hackmd.io/l8M4YFQyRLCnnc68gQ9umA
 - Production cutover status
 
 ### Cofacts.ai 開發
-- Progress update
+- Progress update: https://github.com/orgs/cofacts/projects/12
+- Hybrid search: https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.lhafy6bbdc9p
+    - 例子：AI 假海嘯影片 https://cofacts.tw/article/6w6rYJgBngzKCCgMrohC
+    - 例子：鳥喝水暴斃 https://cofacts.tw/article/Ar4e2pgB6nor6FKt1vXc
 
 ### 小聚籌備
 - Event review and follow-up
-
 
 ## API access
 
