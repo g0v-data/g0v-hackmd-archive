@@ -7,18 +7,6 @@
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
-## 💬 Discord 上聊了什麼？
-
-### general
-
-- **mrorz@g0v-tw**
-  > 上面這個 15 天前的訊息，紀錄了我們從 COS 轉 ubuntu 的心境轉折
-- **Alfred chen@g0v-tw**
-  > 我們不是ubuntu嗎？
-
-### server-alerts
-- `line-bot.cofacts.tw` 在 `2026-03-31 20:05:25 +0000 UTC` 回報為 Unhealthy，原因是 `Response code mismatch error`。
-
 ## 💻 Github 上發生了什麼？
 
 - **cofacts/takedowns**
@@ -34,14 +22,33 @@
 ## :mag: 本週確認事項
 
 ### GCE Migration
-- Cost review
-- Cloudflare HTML cache and AI crawler defense - 還沒做
-- 3/27 migration 之後，LINE bot 很常在整點 15 分的時候有 502 error ![](https://g0v.hackmd.io/_uploads/Sk5ZlwG2bg.png)
-	- Linode 上我們本來就會每個整點 15 分時重啟 Line bot（處理 group chat 機制不穩定問題），但當時用的是 pm2 reload 指令 
-	- GCE migration 時，這個 cronjob 被寫成直接用 docker-compose restart，導致有 downtime。
-	- 4/7 傍晚發現並已經修正，19:15 開始應該會正常無 downtime。
+#### Cost review
+
+- 3/28 ~ 4/6 十天 USD121 --> 30天約 370USD ![](https://g0v.hackmd.io/_uploads/BkHuBwG2Wg.png)
+- Cloudrun distribution: 50% TW, 50% en+ja ![](https://g0v.hackmd.io/_uploads/BkgIYUDfh-e.png)
+
+TODO
+1. 可以開始把 en, ja 搬到 GCE 上 --> estimated cost save = 70USD/mo
+2. 跑幾週看穩定度，決定是否要再把 tw site 也搬進 GCE
+3. 跑幾個月看實際用到的運算量，決定 GCP committed use discount 怎麼買比較划算
+
+#### LINE bot 穩定度
+
+3/27 migration 之後，LINE bot 很常在整點 15 分的時候有 502 error ![](https://g0v.hackmd.io/_uploads/Sk5ZlwG2bg.png)
+- Linode 上我們本來就會每個整點 15 分時重啟 Line bot（處理 group chat 機制不穩定問題），但當時用的是 pm2 reload 指令 
+- GCE migration 時，這個 cronjob 被寫成直接用 docker-compose restart，導致有 downtime。
+- 4/7 傍晚發現並已經修正，19:15 開始應該會正常無 downtime。
+
+#### 還沒做的東西
+
+- Cloudflare HTML cache and AI crawler defense
+- Linode rsync 備份 + 刪 instance
 
 ### Elasticsearch 升級
+
+> Design doc: https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.auumvk9ockbl
+
+- 4/1 凌晨 1:40 ~ 4:10 進行了 Elasticsearch v9 migration
 
 :::spoiler Production cutover status
 我已經連入 `cofacts-prod` 檢查過整體的運作狀態與系統資源了。
