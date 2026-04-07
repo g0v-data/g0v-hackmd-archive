@@ -1,8 +1,35 @@
 # 20260407 會議記錄
 
-## :last_week: 上週會議紀錄
+:::info
+- [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
+- NPO Hub 出席：
+- 線上出席：
+- https://meet.google.com/mrz-dgrd-pri
+:::
 
-https://g0v.hackmd.io/l8M4YFQyRLCnnc68gQ9umA
+## 💬 Discord 上聊了什麼？
+
+### general
+
+- **mrorz@g0v-tw**
+  > 上面這個 15 天前的訊息，紀錄了我們從 COS 轉 ubuntu 的心境轉折
+- **Alfred chen@g0v-tw**
+  > 我們不是ubuntu嗎？
+
+### server-alerts
+- `line-bot.cofacts.tw` 在 `2026-03-31 20:05:25 +0000 UTC` 回報為 Unhealthy，原因是 `Response code mismatch error`。
+
+## 💻 Github 上發生了什麼？
+
+- **cofacts/takedowns**
+  - [Add privacy removal report for message in database #291](https://github.com/cofacts/takedowns/pull/291)
+    - MrOrz 開了 PR，希望能移除包含家庭隱私資訊的訊息。
+  - [Takedown spam user 日本外送茶TG：yy9882 YMwgWJ0BZgZZYBoadwoP #290](https://github.com/cofacts/takedowns/pull/290)
+    - nonumpa 關閉了這個 PR。
+- **cofacts/ai**
+  - [design: Cofacts design system component library #22](https://github.com/cofacts/ai/pull/22)
+    - MrOrz 開了 PR，新增了 Cofacts design system component library。
+
 
 ## :mag: 本週確認事項
 
