@@ -43,8 +43,56 @@ https://www.vtaiwan.tw/jitsi
 
 ### g0v Summit 演講目前有備取上
 - 投 g0v Summit 2026 的演講議程「我們真的在對話嗎？AI 與數位工具在審議民主中的機會與風險 / Are We Really in Dialogue? Opportunities and Risks of AI in Deliberative Democracy」有入選備取議程。
-
+- https://summit.g0v.tw/2026/
+- 5/23-24 g0v Summit 
 
 ### 模擬審議大會結果發表
-- 5/14 的 Taiwan Internet Week 會來報告去年執行模擬審議大會的成果，這會是四月討論的事情～
-- 
+- 5/14 的 Taiwan Internet Week 活動會來報告去年執行模擬審議大會的成果，這會是四月討論的事情～
+- TFGA 與 vTaiwan
+- https://joshuacyang.com/vtaiwan_agent_democracy/#/about
+#### 待辦事項
+- 報告完成 [vTaiwan 模擬市民大會](https://docs.google.com/document/d/18WaxrP28sqAhpERiXnlCkuDRNquM1RqZdQaTiCQlwMg/edit?usp=sharing)
+    - BACKGROUND 
+    - METHODOLOGY
+    - RESULT
+    - LIMITATION / FUTURE
+    - 報告放在哪裡？
+        - vTAIWAN 網站上
+- 將上述的網站 https://joshuacyang.com/vtaiwan_agent_democracy/#/about 看看能否移動到 vTaiwan 網站底下 
+    - 與 bestian 討論看看怎麼做一個 project 的頁面
+- 在網站上要新增一個讓我們可以放成果報告的地方
+    - 簡易版：後端資料放 google drive，前端呈現看怎麼刻
+    - 符合目前網站架構：後端放 github
+- 原始資料：放在 github 
+- 做數據分析
+
+### AI Poses Risks to Democratic and Social Systems
+- https://zhijing-jin.com/d/2026-ai-risk.pdf
+#### 7 problems 
+- Same AI models make idea shrinking
+- AI is making people less open-minded 
+- Belief Homogenization
+    - DDoS problem for deliberation 
+    - Digital Identity
+- Fake news
+    - fake content
+- Blind rule / decision 
+    - Blindly following AI's instruction
+- AI procurement for the Gov 
+    - 瑞士目前都是實驗性質的導入
+- AI losing jobs and power
+    - Labor market changes as AI advanced. 
+
+## 與 TWNIC 的合作
+- 主題會延續之前的討論：AI Governance 
+    - 延續數發部的政策方向：https://moda.gov.tw/major-policies/ai/governance/19246
+        - 目前數發部做的成果：兒童、性別、人權
+        - 承襲兒童這個主題，以 AI 風險矩陣的端點
+- 4/30 proposal - co-editing notes: https://docs.google.com/document/d/13Z4jyVu4ZsMSdru3Od0kieT-7mriLRE_kmHPVfR-lCk/edit?usp=sharing
+- 可能試試看的機會：https://www.atgora.org/atgoraapp
+    - 能否透過科技來做 information integrity 的工作
+### 要完成的事項
+- 提醒 josh 
+## NewsAgora 
+- Github: https://github.com/v-taiwan/NewsAgora-/tree/main
+- 先做出一個可以在 github 上部署
