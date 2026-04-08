@@ -37,4 +37,7 @@ summit 2026 的主視覺：椅子
     ![5\*5 網狀](https://g0v.hackmd.io/_uploads/H1hUbaXhbx.png)
     
     4. 將網狀結構收緊到 10\*10 公分以內，並將四邊兩條相同的兩條線向內折(文字描述不易理解，請看圖片)
+    
+    ![](https://g0v.hackmd.io/_uploads/H1gkl4aXn-x.png)
+
     5. 收邊，把多餘的線段隱藏

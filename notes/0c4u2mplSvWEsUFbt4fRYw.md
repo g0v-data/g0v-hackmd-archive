@@ -96,3 +96,10 @@ https://www.vtaiwan.tw/jitsi
 ## NewsAgora 
 - Github: https://github.com/v-taiwan/NewsAgora-/tree/main
 - 先做出一個可以在 github 上部署
+
+## Discussion with Ralph Heward Mills
+### introduction
+- building the personal knowledge graph
+- https://solidproject.org/ 
+### Potential Cooperation
+- 
