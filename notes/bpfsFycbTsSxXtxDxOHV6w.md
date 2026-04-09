@@ -1,5 +1,6 @@
-BOBO Machine Co Ltd
-https://www.bobomachine.com
-BOBO in Chinese means exuberant and vigorous. With continuous progress and development in past two decades, now BOBO machine is becoming the leading machine manufacturer and solution supplier in HVAC and Refrigeration industry.
-+86-15962807500
-CBD, Nantong, JiangSu, China
+https://www.nonwovenline.com
+Zhejiang Yanpeng Nonwoven Machinery Co Ltd. is a professional manufacturer specializing in the research and development of non-woven production lines.
++86 138 6859 4229
+
+Ping hai Road, Binhai New District Pingyang County, Zhejiang, China
+
