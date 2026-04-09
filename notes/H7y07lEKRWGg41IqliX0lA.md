@@ -43,4 +43,6 @@ https://www.facebook.com/share/1CLgqZ8mX2/
 說實在話、講實在話
 說真的
 嚴格來說
+所以說
+
 
