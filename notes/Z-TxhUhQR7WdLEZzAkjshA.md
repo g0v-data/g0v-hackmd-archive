@@ -1,5 +1,5 @@
 :::danger
-展頌股份有限公司會議專用紀錄(僅顯示網址，登入密碼請洽承辦人員)
+展頌股份有限公司會議室專區(僅顯示網址，登入密碼請洽承辦人員)
 本頁快速網址：[https://www.chainlon.net/meet](https://www.chainlon.net/meet)
 :::
 :::warning
