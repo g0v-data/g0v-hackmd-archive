@@ -205,6 +205,9 @@ https://www.facebook.com/watch?v=950240829364406
 臺南多處待拆分(地標資訊不清楚)
 https://www.facebook.com/story.php?story_fbid=pfbid04v1S5XCPXu7vZdJZeMbVesjYHuqDuH4TopHUa7dNqAtKsvr9sYsR5qgJRdRFrXgdl&id=100049204915573&mibextid=qC1gEa
 
+台南小東門
+https://www.facebook.com/share/p/1Gyjq5hswh/?mibextid=wwXIfr
+
 台南市善化區大成陸橋標線問題，快車道+機慢車專用道配置但一樣寬，導致下橋右轉汽車容易在快車道右轉，是否應評估改為快慢車道
 
 台南市 公車站設在快車道，但無行穿線可以到達
