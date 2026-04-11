@@ -125,9 +125,9 @@ TODO
 	> 那麼明天見囉😊
 	>
 	> 比鄰敬上
-    - [ ] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
-	- [ ] 準備 Slido `#cofacts`
-		- [ ] 放投影片網址
+    - [x] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
+	- [x] 準備 Slido `#cofacts`
+		- [x] 放投影片網址
 - 當日準備 / 攜帶
     - [ ] 樓下用的標語 - bil
     - [ ] **拍照用大布條**
@@ -194,5 +194,3 @@ Concerns
 https://github.com/cofacts/opendata/blob/master/LEGAL.md
 
 - 不在 LINE 所以給 LIFF URL 沒有太大幫助
-
-
