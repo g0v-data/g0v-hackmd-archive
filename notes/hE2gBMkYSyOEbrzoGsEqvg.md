@@ -167,7 +167,7 @@ TODO
 - 14:00 - 14:20 開場
     - 放[長影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs) 8min
     - 場地、Slido、Cofacts 機器人系統簡介
-- 14:20 - 14:40：引導註冊網站、介紹評價現有回應
+- 14:20 - 14:40：引導 註冊網站、介紹評價現有回應
 - 14:40 - 14:50：實作評價
     - 讓大家從網站找訊息按讚
 - 14:50 - 15:10 介紹補充資訊
