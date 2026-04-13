@@ -12,3 +12,6 @@ https://www.sciencedirect.com/science/article/abs/pii/S0006320716309545
 
 森林火災議題與機制
 https://www.facebook.com/share/p/1Bmm9qFX3Z/
+
+首爾 NDVI 分析
+https://www.facebook.com/groups/759532211420925?multi_permalinks=1932630774111057&hoisted_section_header_type=recently_seen&locale=zh_TW
