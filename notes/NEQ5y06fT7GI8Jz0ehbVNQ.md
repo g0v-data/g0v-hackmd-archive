@@ -15,7 +15,7 @@ tags: cofacts,
 
 ### GCE Migration
 
-- [ ] 可以開始把 en, ja 搬到 GCE 上 --> estimated cost save = 70USD/mo
+- [x] 可以開始把 en, ja 搬到 GCE 上 --> estimated cost save = 70USD/mo
 	- Done on 2026/4/8
 - [ ] 跑幾週看穩定度，決定是否要再把 tw site 也搬進 GCE
 - [ ] 跑幾個月看實際用到的運算量，決定 GCP committed use discount 怎麼買比較划算
@@ -24,6 +24,203 @@ tags: cofacts,
 - [x] Linode rsync 備份 + 刪 instance
 	- rsync: 4/12 已備份在 macbook pro (僅設定檔如 env files & cronjobs)
 	- 4/14 已刪除 Linode instance
+
+了解，改用 `gcloud` CLI + SSH 來查。不用 Python SDK。
+
+Ran command: `gcloud compute ssh cofacts-prod --tunnel-through-iap --project=industrious-eye-145611 --zone=asia-east1-b \
+  --command="sar -u -f /var/log/sysstat/sa08 2>/dev/null | tail -30; echo '---APR9---'; sar -u -f /var/log/sysstat/sa09 2>/dev/null | tail -30" 2>&1`
+Ran command: `# 查 GCE 近期 OOM / error logs
+gcloud logging read \
+  'resource.type="gce_instance" AND (severity>=ERROR OR textPayload=~"oom|Out of memory|kill|OOM") AND timestamp>="2026-04-08T00:00:00Z"' \
+  --project=industrious-eye-145611 --limit=20 \
+  --format="value(timestamp,severity,textPayload,jsonPayload.message)" 2>&1 | head -60`
+
+好，OOM 完全沒有，只有 sshd 的 GCP agent 小警告（不影響服務）。現在抓更完整的 sar 資料（包含記憶體）和各天 CPU 高峰：
+
+Ran command: `gcloud compute ssh cofacts-prod --tunnel-through-iap --project=industrious-eye-145611 --zone=asia-east1-b \
+  --command="
+echo '=== APR8 CPU ==='; sar -u -f /var/log/sysstat/sa08 2>/dev/null | grep -E 'Average|Maximum' | head -5
+echo '=== APR9 CPU ==='; sar -u -f /var/log/sysstat/sa09 2>/dev/null | grep -E 'Average|Maximum' | head -5
+echo '=== APR10 CPU ==='; sar -u -f /var/log/sysstat/sa10 2>/dev/null | grep -E 'Average|Maximum' | head -5
+echo '=== APR11 CPU ==='; sar -u -f /var/log/sysstat/sa11 2>/dev/null | grep -E 'Average|Maximum' | head -5
+echo '=== APR12 CPU ==='; sar -u -f /var/log/sysstat/sa12 2>/dev/null | grep -E 'Average|Maximum' | head -5
+echo '=== APR13 CPU ==='; sar -u -f /var/log/sysstat/sa13 2>/dev/null | grep -E 'Average|Maximum' | head -5
+echo '=== APR8 MEM ==='; sar -r -f /var/log/sysstat/sa08 2>/dev/null | grep -v '^$' | tail -5
+echo '=== APR9 MEM ==='; sar -r -f /var/log/sysstat/sa09 2>/dev/null | grep -v '^$' | tail -5
+echo '=== APR10 MEM ==='; sar -r -f /var/log/sysstat/sa10 2>/dev/null | grep -v '^$' | tail -5
+echo '=== APR11 MEM ==='; sar -r -f /var/log/sysstat/sa11 2>/dev/null | grep -v '^$' | tail -5
+echo '=== APR12 MEM ==='; sar -r -f /var/log/sysstat/sa12 2>/dev/null | grep -v '^$' | tail -5
+echo '=== APR13 MEM ==='; sar -r -f /var/log/sysstat/sa13 2>/dev/null | grep -v '^$' | tail -5
+" 2>&1`
+Ran command: `# Cloud Run request count via REST API
+TOKEN=$(gcloud auth print-access-token)
+NOW=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+START="2026-04-07T00:00:00Z"
+
+curl -s -H "Authorization: Bearer $TOKEN" \
+"https://monitoring.googleapis.com/v3/projects/industrious-eye-145611/timeSeries?filter=metric.type%3D%22run.googleapis.com%2Frequest_count%22%20AND%20resource.labels.service_name%3D%22site-en%22&interval.startTime=${START}&interval.endTime=${NOW}&aggregation.alignmentPeriod=86400s&aggregation.perSeriesAligner=ALIGN_SUM" \
+2>&1 | python3 -c "
+import sys, json
+d = json.load(sys.stdin)
+for ts in d.get('timeSeries', []):
+    svc = ts['resource']['labels'].get('service_name','?')
+    for pt in ts['points']:
+        print(f\"{svc} {pt['interval']['startTime'][:10]} requests={pt['value'].get('int64Value',0)}\")
+" 2>&1 | head -20`
+Ran command: `# Cloud Run request count - site-en site-ja site-tw 一次全查
+TOKEN=$(gcloud auth print-access-token)
+START="2026-04-06T00:00:00Z"
+NOW=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+
+for SVC in site-en site-ja site-tw; do
+  echo "=== $SVC ==="
+  curl -s -H "Authorization: Bearer $TOKEN" \
+  "https://monitoring.googleapis.com/v3/projects/industrious-eye-145611/timeSeries?filter=metric.type%3D%22run.googleapis.com%2Frequest_count%22%20AND%20resource.labels.service_name%3D%22${SVC}%22&interval.startTime=${START}&interval.endTime=${NOW}&aggregation.alignmentPeriod=86400s&aggregation.perSeriesAligner=ALIGN_SUM&aggregation.crossSeriesReducer=REDUCE_SUM&aggregation.groupByFields=resource.labels.service_name" \
+  2>/dev/null | python3 -c "
+import sys, json
+d = json.load(sys.stdin)
+total = {}
+for ts in d.get('timeSeries', []):
+    for pt in ts['points']:
+        day = pt['interval']['startTime'][:10]
+        total[day] = total.get(day, 0) + int(pt['value'].get('int64Value',0))
+for day in sorted(total):
+    print(f'  {day}: {total[day]} requests')
+"
+done 2>&1`
+
+很好，資料相當清楚。現在再抓 Cloud Run 的 instance count（確認 site-en/ja 已縮到 0），以及 GCE 目前的記憶體狀態：
+
+Ran command: `# Cloud Run active instances - 確認 site-en/ja 是否已降到 0
+TOKEN=$(gcloud auth print-access-token)
+START="2026-04-07T00:00:00Z"
+NOW=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+
+for SVC in site-en site-ja; do
+  echo "=== $SVC instances ==="
+  curl -s -H "Authorization: Bearer $TOKEN" \
+  "https://monitoring.googleapis.com/v3/projects/industrious-eye-145611/timeSeries?filter=metric.type%3D%22run.googleapis.com%2Fcontainer%2Finstance_count%22%20AND%20resource.labels.service_name%3D%22${SVC}%22&interval.startTime=${START}&interval.endTime=${NOW}&aggregation.alignmentPeriod=86400s&aggregation.perSeriesAligner=ALIGN_MAX&aggregation.crossSeriesReducer=REDUCE_MAX&aggregation.groupByFields=resource.labels.service_name" \
+  2>/dev/null | python3 -c "
+import sys, json
+d = json.load(sys.stdin)
+for ts in d.get('timeSeries', []):
+    for pt in ts['points']:
+        day = pt['interval']['startTime'][:10]
+        print(f'  {day}: max_instances={pt[\"value\"].get(\"int64Value\",\"?\")}')" 
+done 2>&1`
+Ran command: `# 目前 GCE 的記憶體與 swap 狀況
+gcloud compute ssh cofacts-prod --tunnel-through-iap --project=industrious-eye-145611 --zone=asia-east1-b \
+  --command="free -h && echo '---' && docker stats --no-stream --format 'table {{.Name}}\t{{.CPUPerc}}\t{{.MemUsage}}'" 2>&1`
+
+資料已足夠。現在整理成報告：
+
+---
+
+## 📊 調查結果摘要
+
+### 🖥️ GCE `cofacts-prod` 伺服器負載
+
+#### CPU（`sar -u` 日平均）
+
+| 日期 | %user | %sys | %iowait | %idle |
+|------|-------|------|---------|-------|
+| 4/8 | ~12% | ~1.6% | **0.42%** | 86% |
+| 4/9 | ~14% | ~2.0% | **0.58%** | 83% |
+| 4/10 | ~19% | ~2.6% | **0.59%** | 77% |
+| 4/11 | ~20% | ~2.6% | **0.45%** | 77% |
+| 4/12 | ~18% | ~2.5% | **0.60%** | 79% |
+| 4/13 | ~18% | ~2.4% | **0.70%** | 79% |
+
+**結論**：CPU 無問題。4/10-11 因新服務上線後穩定跑，%user 升了約 8pp，但 %idle 仍有 77%。`%iowait` 全程 < 1%，無 I/O 瓶頸。
+
+#### 記憶體（目前狀態）⚠️ **需要關注**
+
+| 日期 | **平均 used** | **%memused** | kbmemfree |
+|------|-------------|-------------|-----------|
+| **4/8 前段**（上線前） | ~15.1 GiB | **50.3%** | ~8.0 GiB |
+| **4/8 後段**（新服務啟動） | ~12.2 GiB | **60.0%** | ~7.3 GiB |
+| **4/9** | ~12.5 GiB | **58.5%** | ~6.8 GiB |
+| **4/10** | ~14.0 GiB | **53.8%** | ~9.7 GiB |
+| **4/11** | ~13.8 GiB | **54.3%** | ~9.6 GiB |
+| **4/12** | ~13.7 GiB | **54.8%** | ~9.4 GiB |
+| **4/13** | ~13.7 GiB | **54.9%** | ~9.6 GiB |
+
+**觀察**：
+- 新服務上線後（4/8→4/9）used 從 ~50% 跳到 ~58-60%，增加約 2.5 GiB
+- 4/10 之後趨於穩定，大約都在 **54-55%（~13.7 GiB）**，有約 **9-10 GiB free**
+
+整體來說 **RAM 沒有超過負荷**，平均使用率健康。
+
+
+```
+Mem:  31Gi total  |  17Gi used  |  9.6Gi free  |  4.4Gi buff/cache
+Swap: 4.0Gi total |  3.9Gi used |  142Mi free   ← Swap 幾乎用滿！
+```
+
+**各容器記憶體**：
+
+| Container | CPU | MEM |
+|-----------|-----|-----|
+| `db` (Elasticsearch) | 29.7% | 15.6 GiB |
+| `site-en` | **13.4%** | **1020 MiB** ← 接近警戒線 |
+| `api` | 4.1% | 790 MiB |
+| `site-ja` | 0.7% | 555 MiB |
+| `line-bot-zh` | 1.3% | 293 MiB |
+
+
+Ran command: `gcloud compute ssh cofacts-prod --tunnel-through-iap --project=industrious-eye-145611 --zone=asia-east1-b \
+  --command="
+for D in 08 09 10 11 12 13; do
+  echo \"=== APR\$D ===\"
+  sar -r -f /var/log/sysstat/sa\$D 2>/dev/null | grep '^Average'
+done" 2>&1`
+
+
+
+**⚠️ Swap 幾乎打滿（3.9G / 4G）**。追溯 `sar -r` 可以看到 4/9 開始 used 增加了約 2GB（新服務加入），目前系統仍穩定運行，但 swap 壓力大。`site-en` 也已接近 1GB 警戒線。
+
+---
+
+### ☁️ Cloud Run 降載分析
+
+#### site-en / site-ja 請求量（轉移至 GCE 後急降）
+
+| 日期 | site-en | site-ja |
+|------|---------|---------|
+| 4/6 | ~78k | ~41k |
+| 4/7 | ~67k | ~36k |
+| **4/8** | **~28k** ↓ | **~22k** ↓ |
+| 4/9+ | **0** ✅ | **0** ✅ |
+
+4/8 開始在 GCE 上線，流量已大幅移走。4/9 之後 Cloud Run 的 site-en / site-ja **完全沒有新請求**，降載成功。
+
+#### Cloud Run instance count（確認縮容）
+
+| 日期 | site-en max instances | site-ja max instances |
+|------|----|----|
+| 4/7 | 5 | 5 |
+| 4/8 | 7（轉移當天短暫高峰） | 5 |
+| 4/9 | 5（殘留一些） | 5 |
+| 4/10+ | **資料無（已縮到 0）** ✅ | **資料無** ✅ |
+
+---
+
+### 🔥 需要立即處理的問題
+
+**Swap 幾乎用滿 (3.9G / 4G)**。建議：
+
+```bash
+# 重啟 site-en（目前最吃記憶體的非 ES 服務）
+gcloud compute ssh cofacts-prod --tunnel-through-iap \
+  --command="cd /srv/rumors-deploy && docker compose restart site-en"
+```
+
+或者如果重啟後仍然偏高，考慮重啟整台機器讓 swap 清空：
+
+```bash
+gcloud compute instances reset cofacts-prod --zone=asia-east1-b --project=industrious-eye-145611
+```
+
 
 ### Elasticsearch 升級
 - [x] 找一個離峰時間重開 GCE --> reset Swap ＆ apply Ubuntu kernel
@@ -40,7 +237,6 @@ tags: cofacts,
 		連續兩週都有成功執行，備份機制運作正常。
 
 - [ ] 修正 weekly opendata publish https://github.com/cofacts/opendata/pull/32
-
 
 ## 查核小聚
 
