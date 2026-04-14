@@ -25,6 +25,8 @@ tags: cofacts,
 	- rsync: 4/12 已備份在 macbook pro (僅設定檔如 env files & cronjobs)
 	- 4/14 已刪除 Linode instance
 
+:::spoiler
+
 了解，改用 `gcloud` CLI + SSH 來查。不用 Python SDK。
 
 Ran command: `gcloud compute ssh cofacts-prod --tunnel-through-iap --project=industrious-eye-145611 --zone=asia-east1-b \
@@ -108,13 +110,7 @@ for ts in d.get('timeSeries', []):
         day = pt['interval']['startTime'][:10]
         print(f'  {day}: max_instances={pt[\"value\"].get(\"int64Value\",\"?\")}')" 
 done 2>&1`
-Ran command: `# 目前 GCE 的記憶體與 swap 狀況
-gcloud compute ssh cofacts-prod --tunnel-through-iap --project=industrious-eye-145611 --zone=asia-east1-b \
-  --command="free -h && echo '---' && docker stats --no-stream --format 'table {{.Name}}\t{{.CPUPerc}}\t{{.MemUsage}}'" 2>&1`
-
-資料已足夠。現在整理成報告：
-
----
+Ran command:
 
 ## 📊 調查結果摘要
 
@@ -168,15 +164,6 @@ Swap: 4.0Gi total |  3.9Gi used |  142Mi free   ← Swap 幾乎用滿！
 | `line-bot-zh` | 1.3% | 293 MiB |
 
 
-Ran command: `gcloud compute ssh cofacts-prod --tunnel-through-iap --project=industrious-eye-145611 --zone=asia-east1-b \
-  --command="
-for D in 08 09 10 11 12 13; do
-  echo \"=== APR\$D ===\"
-  sar -r -f /var/log/sysstat/sa\$D 2>/dev/null | grep '^Average'
-done" 2>&1`
-
-
-
 **⚠️ Swap 幾乎打滿（3.9G / 4G）**。追溯 `sar -r` 可以看到 4/9 開始 used 增加了約 2GB（新服務加入），目前系統仍穩定運行，但 swap 壓力大。`site-en` 也已接近 1GB 警戒線。
 
 ---
@@ -221,6 +208,7 @@ gcloud compute ssh cofacts-prod --tunnel-through-iap \
 gcloud compute instances reset cofacts-prod --zone=asia-east1-b --project=industrious-eye-145611
 ```
 
+:::
 
 ### Elasticsearch 升級
 - [x] 找一個離峰時間重開 GCE --> reset Swap ＆ apply Ubuntu kernel
@@ -242,7 +230,7 @@ gcloud compute instances reset cofacts-prod --zone=asia-east1-b --project=indust
 
 > 小松果：https://g0v.hackmd.io/@mrorz/BkvGFidhZg?type=view
 
-好的，這就為您準備 4/14 的會議。
+## 上週訊息彙總
 
 以下是從 2026/4/7 上次會議後，到目前為止的 Discord 各頻道摘要：
 
@@ -273,6 +261,7 @@ gcloud compute instances reset cofacts-prod --zone=asia-east1-b --project=indust
 - **cofacts/rumors-deploy**
   - feat: add cofacts-ai services and adk env template to sample compose (PR #41) - Open
     - Link: https://github.com/cofacts/rumors-deploy/pull/41
+    - 由於實際狀況會紀錄在非公開 devops repo，rumors-deploy 就能大幅簡化
   - chore: modernize docker-compose with profiles and healthchecks (PR #40) - Open
     - Link: https://github.com/cofacts/rumors-deploy/pull/40
   - [Infra] 提升 url-resolver 服務穩定性 (Issue #34) - Commented
@@ -291,4 +280,9 @@ gcloud compute instances reset cofacts-prod --zone=asia-east1-b --project=indust
     - Link: https://github.com/cofacts/collab-server/pull/9
   - New release: release/20260409
     - Link: https://github.com/cofacts/collab-server/releases/tag/release/20260409
+
+## Cofacts.ai 
+
+過進度：https://github.com/orgs/cofacts/projects/12/views/1
+
 
