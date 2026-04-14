@@ -6,7 +6,7 @@ tags: cofacts,
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
+- NPO Hub 出席：bil, lahna, nonumpa, mrorz
 - 線上出席：
 - https://meet.google.com/mrz-dgrd-pri
 :::
@@ -26,92 +26,6 @@ tags: cofacts,
 	- 4/14 已刪除 Linode instance
 
 :::spoiler
-
-了解，改用 `gcloud` CLI + SSH 來查。不用 Python SDK。
-
-Ran command: `gcloud compute ssh cofacts-prod --tunnel-through-iap --project=industrious-eye-145611 --zone=asia-east1-b \
-  --command="sar -u -f /var/log/sysstat/sa08 2>/dev/null | tail -30; echo '---APR9---'; sar -u -f /var/log/sysstat/sa09 2>/dev/null | tail -30" 2>&1`
-Ran command: `# 查 GCE 近期 OOM / error logs
-gcloud logging read \
-  'resource.type="gce_instance" AND (severity>=ERROR OR textPayload=~"oom|Out of memory|kill|OOM") AND timestamp>="2026-04-08T00:00:00Z"' \
-  --project=industrious-eye-145611 --limit=20 \
-  --format="value(timestamp,severity,textPayload,jsonPayload.message)" 2>&1 | head -60`
-
-好，OOM 完全沒有，只有 sshd 的 GCP agent 小警告（不影響服務）。現在抓更完整的 sar 資料（包含記憶體）和各天 CPU 高峰：
-
-Ran command: `gcloud compute ssh cofacts-prod --tunnel-through-iap --project=industrious-eye-145611 --zone=asia-east1-b \
-  --command="
-echo '=== APR8 CPU ==='; sar -u -f /var/log/sysstat/sa08 2>/dev/null | grep -E 'Average|Maximum' | head -5
-echo '=== APR9 CPU ==='; sar -u -f /var/log/sysstat/sa09 2>/dev/null | grep -E 'Average|Maximum' | head -5
-echo '=== APR10 CPU ==='; sar -u -f /var/log/sysstat/sa10 2>/dev/null | grep -E 'Average|Maximum' | head -5
-echo '=== APR11 CPU ==='; sar -u -f /var/log/sysstat/sa11 2>/dev/null | grep -E 'Average|Maximum' | head -5
-echo '=== APR12 CPU ==='; sar -u -f /var/log/sysstat/sa12 2>/dev/null | grep -E 'Average|Maximum' | head -5
-echo '=== APR13 CPU ==='; sar -u -f /var/log/sysstat/sa13 2>/dev/null | grep -E 'Average|Maximum' | head -5
-echo '=== APR8 MEM ==='; sar -r -f /var/log/sysstat/sa08 2>/dev/null | grep -v '^$' | tail -5
-echo '=== APR9 MEM ==='; sar -r -f /var/log/sysstat/sa09 2>/dev/null | grep -v '^$' | tail -5
-echo '=== APR10 MEM ==='; sar -r -f /var/log/sysstat/sa10 2>/dev/null | grep -v '^$' | tail -5
-echo '=== APR11 MEM ==='; sar -r -f /var/log/sysstat/sa11 2>/dev/null | grep -v '^$' | tail -5
-echo '=== APR12 MEM ==='; sar -r -f /var/log/sysstat/sa12 2>/dev/null | grep -v '^$' | tail -5
-echo '=== APR13 MEM ==='; sar -r -f /var/log/sysstat/sa13 2>/dev/null | grep -v '^$' | tail -5
-" 2>&1`
-Ran command: `# Cloud Run request count via REST API
-TOKEN=$(gcloud auth print-access-token)
-NOW=$(date -u +%Y-%m-%dT%H:%M:%SZ)
-START="2026-04-07T00:00:00Z"
-
-curl -s -H "Authorization: Bearer $TOKEN" \
-"https://monitoring.googleapis.com/v3/projects/industrious-eye-145611/timeSeries?filter=metric.type%3D%22run.googleapis.com%2Frequest_count%22%20AND%20resource.labels.service_name%3D%22site-en%22&interval.startTime=${START}&interval.endTime=${NOW}&aggregation.alignmentPeriod=86400s&aggregation.perSeriesAligner=ALIGN_SUM" \
-2>&1 | python3 -c "
-import sys, json
-d = json.load(sys.stdin)
-for ts in d.get('timeSeries', []):
-    svc = ts['resource']['labels'].get('service_name','?')
-    for pt in ts['points']:
-        print(f\"{svc} {pt['interval']['startTime'][:10]} requests={pt['value'].get('int64Value',0)}\")
-" 2>&1 | head -20`
-Ran command: `# Cloud Run request count - site-en site-ja site-tw 一次全查
-TOKEN=$(gcloud auth print-access-token)
-START="2026-04-06T00:00:00Z"
-NOW=$(date -u +%Y-%m-%dT%H:%M:%SZ)
-
-for SVC in site-en site-ja site-tw; do
-  echo "=== $SVC ==="
-  curl -s -H "Authorization: Bearer $TOKEN" \
-  "https://monitoring.googleapis.com/v3/projects/industrious-eye-145611/timeSeries?filter=metric.type%3D%22run.googleapis.com%2Frequest_count%22%20AND%20resource.labels.service_name%3D%22${SVC}%22&interval.startTime=${START}&interval.endTime=${NOW}&aggregation.alignmentPeriod=86400s&aggregation.perSeriesAligner=ALIGN_SUM&aggregation.crossSeriesReducer=REDUCE_SUM&aggregation.groupByFields=resource.labels.service_name" \
-  2>/dev/null | python3 -c "
-import sys, json
-d = json.load(sys.stdin)
-total = {}
-for ts in d.get('timeSeries', []):
-    for pt in ts['points']:
-        day = pt['interval']['startTime'][:10]
-        total[day] = total.get(day, 0) + int(pt['value'].get('int64Value',0))
-for day in sorted(total):
-    print(f'  {day}: {total[day]} requests')
-"
-done 2>&1`
-
-很好，資料相當清楚。現在再抓 Cloud Run 的 instance count（確認 site-en/ja 已縮到 0），以及 GCE 目前的記憶體狀態：
-
-Ran command: `# Cloud Run active instances - 確認 site-en/ja 是否已降到 0
-TOKEN=$(gcloud auth print-access-token)
-START="2026-04-07T00:00:00Z"
-NOW=$(date -u +%Y-%m-%dT%H:%M:%SZ)
-
-for SVC in site-en site-ja; do
-  echo "=== $SVC instances ==="
-  curl -s -H "Authorization: Bearer $TOKEN" \
-  "https://monitoring.googleapis.com/v3/projects/industrious-eye-145611/timeSeries?filter=metric.type%3D%22run.googleapis.com%2Fcontainer%2Finstance_count%22%20AND%20resource.labels.service_name%3D%22${SVC}%22&interval.startTime=${START}&interval.endTime=${NOW}&aggregation.alignmentPeriod=86400s&aggregation.perSeriesAligner=ALIGN_MAX&aggregation.crossSeriesReducer=REDUCE_MAX&aggregation.groupByFields=resource.labels.service_name" \
-  2>/dev/null | python3 -c "
-import sys, json
-d = json.load(sys.stdin)
-for ts in d.get('timeSeries', []):
-    for pt in ts['points']:
-        day = pt['interval']['startTime'][:10]
-        print(f'  {day}: max_instances={pt[\"value\"].get(\"int64Value\",\"?\")}')" 
-done 2>&1`
-Ran command:
-
 ## 📊 調查結果摘要
 
 ### 🖥️ GCE `cofacts-prod` 伺服器負載
@@ -225,10 +139,23 @@ gcloud compute instances reset cofacts-prod --zone=asia-east1-b --project=indust
 		連續兩週都有成功執行，備份機制運作正常。
 
 - [ ] 修正 weekly opendata publish https://github.com/cofacts/opendata/pull/32
+	:::info
+	nonumpa 會協助
+	:::
 
 ## 查核小聚
 
 > 小松果：https://g0v.hackmd.io/@mrorz/BkvGFidhZg?type=view
+
+- 延長線很重 [name=bil]
+- 延長線拉在兩列桌子中間很不錯
+	- 新排法 https://docs.google.com/drawings/d/1alkhSEp45u_izIo901cYB1_7a7Hw5PK45s_jfVk4l-M/edit <img src="https://docs.google.com/drawings/d/e/2PACX-1vTy2yIiGPlGEHt7Lx53u0_Ai8We0xNQpNMeMrOKJgIC1BB5Ef5J8isCDLxM4oOMUGSnoLKexNOGsSvI/pub?w=943&amp;h=652">
+- New Taipei 不怎麼樣，樓下也沒活動，人數也沒有很多
+	- 還是需要自架網路
+	- 手機分享網路到沒電（3:45 左右沒電）
+		- MrOrz 5G 36GB 流量用光
+- 傳單錯字：LLM 那張左下角有個錯字
+
 
 ## 上週訊息彙總
 
@@ -261,9 +188,9 @@ gcloud compute instances reset cofacts-prod --zone=asia-east1-b --project=indust
 - **cofacts/rumors-deploy**
   - feat: add cofacts-ai services and adk env template to sample compose (PR #41) - Open
     - Link: https://github.com/cofacts/rumors-deploy/pull/41
+  - chore: modernize docker-compose with  healthchecks (PR #42) - Open
+    - Link: https://github.com/cofacts/rumors-deploy/pull/42
     - 由於實際狀況會紀錄在非公開 devops repo，rumors-deploy 就能大幅簡化
-  - chore: modernize docker-compose with profiles and healthchecks (PR #40) - Open
-    - Link: https://github.com/cofacts/rumors-deploy/pull/40
   - [Infra] 提升 url-resolver 服務穩定性 (Issue #34) - Commented
     - Link: https://github.com/cofacts/rumors-deploy/issues/34
 
@@ -285,4 +212,18 @@ gcloud compute instances reset cofacts-prod --zone=asia-east1-b --project=indust
 
 過進度：https://github.com/orgs/cofacts/projects/12/views/1
 
+## Discord spammer
+> discord general --> slack
 
+需要把 Discord 進入門檻拉高一點（提問 etc）
+
+- 說不定可以用 MCP 和 AI 一起想辦法
+
+:::info
+nonumpa 會看
+:::
+
+## 開會時間
+
+- 5 月初會暫停一次開會 for RightsCon
+- 5/23, 24 g0v summit 擺攤
