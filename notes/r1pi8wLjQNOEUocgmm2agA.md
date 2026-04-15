@@ -11,3 +11,4 @@ tags: edu,
 ## [遠端連線(解決本地端沒有nvidia gpu問題，使用server gpu)](https://g0v.hackmd.io/qDZ0mmHlTvOoSdhaXHFPNg)
 ## [omniverse isaac sim mcp server](https://g0v.hackmd.io/Xpp6L3BwS-KNoZDp8LPcYw)
 ## [代訂](https://g0v.hackmd.io/Tta23mvRT4ap1UJEa33DNg)
+## [use_isaac_sim_in_docker(ubuntu_22.04)](https://g0v.hackmd.io/XIS3Vk8gTh-MtO6O0xul_whttps://)
