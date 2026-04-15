@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter,
+參與者 Participants：Peter, Allison, Tim 
 
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -50,11 +50,19 @@ https://www.vtaiwan.tw/jitsi
     - 延續數發部的政策方向：https://moda.gov.tw/major-policies/ai/governance/19246
         - 目前數發部做的成果：兒童、性別、人權
         - 承襲兒童這個主題，以 AI 風險矩陣的端點
-- 4/30 proposal - co-editing notes: https://docs.google.com/document/d/13Z4jyVu4ZsMSdru3Od0kieT-7mriLRE_kmHPVfR-lCk/edit?usp=sharing
+- 4/30 proposal - co-editing notes: https://docs.google.com/document/d/13Z4jyVu4ZsMSdru3Od0kieT-7mriLRE_kmHPVfR-lCk/edit?usp=sharing 
 - 可能試試看的機會：https://www.atgora.org/atgoraapp
     - 能否透過科技來做 information integrity 的工作
+### feedback from Allison
+- Allison 認為學生沈迷於 AI 互動是一個很大的問題（2.1.1）
+    - 在未來會是一個很大的問題
+- Allison 認為演算法推送特定內容給兒少（1.3.1）、AI 生成、散布兒少不適內容（1.4.1）會是最想討論的問題
+
+### 討論後的結果
+- 認為在台北場與花蓮場設計一個問卷，調查參與者的認知與了解
 ### 要完成的事項
 - 提醒 josh 
+- 
 ## NewsAgora 
 - Github: https://github.com/v-taiwan/NewsAgora-/tree/main
 - 先做出一個可以在 github 上部署
@@ -73,3 +81,5 @@ https://ronnywang.github.io/policy-animal-medical/
 我覺得也許 vtaiwan 之後也可以嘗試類似的流程，產生一個 prompt 讓大家自行去跟自己慣用的 AI 討論，並且討論完後再請 ai 統整一些結果回傳回來，可能也會有意見徵集的效果
 - [name=ronny]
 :::
+- 類似工具：https://github.com/pm5/claude-skill-information-literacy?fbclid=IwY2xjawRMVxdleHRuA2FlbQIxMABicmlkETFCYVpuRndESENtT3RBSmtNc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm7hws8ddWU32MTGs7wTCh6IW0n7Lw9fSxFqF-TGltCGhO_GJfg3OaviKiVO_aem_9ifMDcaDWN7M-sl1xdgsUw 
+- 初步想法：也可以將審議討論的 principle 轉成 skill 
