@@ -7,6 +7,7 @@ tags: river,
 ![](https://g0v.hackmd.io/_uploads/HySDcb_q-g.jpg)
 
 相簿：https://photos.app.goo.gl/4srsW9N8XFqVC9Xe8
+https://www.facebook.com/share/p/1Bp6v5iMZV/
 
 ## 活動籌辦
 
