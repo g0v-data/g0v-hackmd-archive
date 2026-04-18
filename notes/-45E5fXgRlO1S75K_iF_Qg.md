@@ -17,7 +17,9 @@ tags: cofacts,
 - [x] 04/16 凌晨重開機清了 swap、也刪了 v6 的 disk，空出 10GB 空間
 - [ ] 跑幾週看穩定度，決定是否要再把 tw site 也搬進 GCE
 - [ ] 跑幾個月看實際用到的運算量，決定 GCP committed use discount 怎麼買比較划算
-- [ ] Cloudflare HTML cache and AI crawler defense
+- [x] Cloudflare HTML cache and AI crawler defense
+	- 好像不能對 verified bot 設定 cache (configuration rule 不能用 verified bot 設，但好像能手動設 user agent rule)
+	- 開了 https://www.cloudflare.com/zh-tw/ai-crawl-control/ 觀察
 
 ### Elasticsearch 升級
 - [ ] 修正 weekly opendata publish https://github.com/cofacts/opendata/pull/32
@@ -34,6 +36,8 @@ tags: cofacts,
 ## Cofacts.ai
 
 過進度：https://github.com/orgs/cofacts/projects/12/views/1
+
+
 
 ## 開會時間
 - 5 月初會暫停一次開會 for RightsCon
