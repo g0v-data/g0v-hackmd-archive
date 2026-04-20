@@ -1,7 +1,7 @@
 Ô Dù In Logo giải pháp quảng cáo thương hiệu chất lượng
-Trong các chiến lược Marketing hiện nay, những vật phẩm quảng cáo có tính ứng dụng cao chắc chắn sẽ được nhiều doanh nghiệp lựa chọn. Mà một trong những sản phẩm nổi trội nhất có thể kể đến [**ô dù in logo**](https://oduvuongtron.com/). Dù in logo vừa có giá thành hợp lý vừa giúp thương hiệu của bạn tiếp cận khách hàng một cách tự nhiên và ấn tượng nhất.
+Trong các chiến lược Marketing hiện nay, những vật phẩm quảng cáo có tính ứng dụng cao chắc chắn sẽ được nhiều doanh nghiệp lựa chọn. Mà một trong những sản phẩm nổi trội nhất có thể kể đến [**ô dù in logo**](https://). Dù in logo vừa có giá thành hợp lý vừa giúp thương hiệu của bạn tiếp cận khách hàng một cách tự nhiên và ấn tượng nhất.
 Dù cầm tay in logo được sử dụng phổ biến, không chỉ sử dụng trong các sự kiện, quán cà phê, cửa hàng…mà chúng còn trở thành quà tặng doanh nghiệp nhờ tính tiện dụng cao và quảng bá hiệu quả lâu dài.
-![](https://g0v.hackmd.io/_uploads/HJyTo-g9bl.png)
+![ô dù](https://hackmd.io/_uploads/Hy3M-DmT-g.png)
 
 Vì sao dù in logo theo yêu cầu lại được nhiều doanh nghiệp lựa chọn.
 Trong môi trường kinh doanh cạnh tranh khốc liệt như hiện nay thì việc xây dựng thương hiệu là yếu tố quan trọng được nhiều công ty trú trọng. Những sản phẩm quảng cáo có tính tiện dụng trong thực tiễn thường được đánh giá cao và tạo được dấu ấn khắc ghi tốt hơn so với quảng cáo truyền thống.
@@ -26,5 +26,3 @@ VP Hà Nội: Số 21, Ngõ 20, Đ. Nghĩa Đô, P. Nghĩa Đô, Hà Nội
 Hotline HN: 0906 64 65 62
 Thời Gian Làm Việc: 8-12h: 13h15-17h15 từ T2-T6, T7: 8-12h, Chiều Nghỉ
 Email: cskh@vuongtrongift.com
-
-
