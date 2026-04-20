@@ -1,4 +1,4 @@
-[Hitclub](https://) - Trải nghiệm cổng game nhiều trò chơi thú vị và hấp dẫn. Giao diện dễ sử dụng giúp kết nối cộng đồng game thủ một cách nhanh chóng. Hãy tham gia Hitclub ngay!
+[Hitclub](https://hitclub10.world/) - Trải nghiệm cổng game nhiều trò chơi thú vị và hấp dẫn. Giao diện dễ sử dụng giúp kết nối cộng đồng game thủ một cách nhanh chóng. Hãy tham gia Hitclub ngay!
 
 Website: https://hitclub10.world/
 ĐC: 182/6 Huỳnh Tấn Phát, Phường Tân Thuận Tây, Quận 7, TP. Hồ Chí Minh, Việt Nam 
