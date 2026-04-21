@@ -54,6 +54,9 @@ nonumpa 會協助
   - > mrorz: rumors-deploy 更新囉，也放了張圖
     > https://github.com/cofacts/rumors-deploy?tab=readme-ov-file#architecture-overview
   - 有個方式可以設定 github org 首頁 [name=alfred]
+  	- .github repo /profile/README
+  	- 用 git submodule 指向到 rumors-deploy 的 README
+  	- 參考範例 https://github.com/github
 
 - **Cloudflare Browser Run**
   - mrorz 提出了使用 Cloudflare 的 browser run 功能，可能可以簡化目前在 cofacts worker repo 中爬取資料的流程。
@@ -150,7 +153,7 @@ duration of the period you have been assigned.
 
 目標群眾
 - 想知道 insight
-- 不太會想知道 bot 怎麼用
+- 不太會想知道 bot 怎麼用，除非是查核組織
 
 :::success
 回去點一下，不夠的話盡快印
