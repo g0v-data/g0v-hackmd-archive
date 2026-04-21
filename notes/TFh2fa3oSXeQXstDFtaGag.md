@@ -52,10 +52,18 @@ https://www.facebook.com/share/p/174eDXRfxM/
 1866 必麒麟 https://photos.app.goo.gl/m1Fyye2Z3WUMr45U6
 1871 湯姆生與馬雅各 https://photos.app.goo.gl/m1Fyye2Z3WUMr45U6
 
+馬雅各醫師 James Laidlaw Maxwell
+https://trailpaint.org/stories/taiwan-missionaries/
+
 1873 樺山資紀和水野遵，為了征臺，偵查全台臺
 https://tebook.ntl.edu.tw/info.aspx?antiforgery=86349025-fe6c-4409-8e98-0265800b4aa9&actions=view&uuid=df521398-03e7-463e-8923-2dab03cb6850
 
+1875 巴克禮牧師 Thomas Barclay
+https://trailpaint.org/stories/taiwan-missionaries/
+
 馬偕 https://photos.app.goo.gl/af7M1gur7tMVrDdj7
+馬偕博士 George Leslie Mackay
+https://trailpaint.org/stories/taiwan-missionaries/
 張聰明
 https://www.facebook.com/share/p/1BugN7czw3/
 
@@ -63,6 +71,9 @@ https://www.facebook.com/share/p/1BugN7czw3/
 
 北白川宮能久親王
 https://www.facebook.com/share/p/14cb48k5rVz/
+
+1895 蘭大衛醫師 David Landsborough
+https://trailpaint.org/stories/taiwan-missionaries/
 
 巴爾頓與濱野彌四郎 https://photos.app.goo.gl/AVFicc4LwHX3tbsD7
 伊能嘉矩 https://photos.app.goo.gl/amrUaB3sHfCMUDVG8
@@ -96,6 +107,9 @@ https://www.facebook.com/share/p/1BLWn4R4z3/?mibextid=wwXIfr
 故宮文物路線
 - https://zh.wikipedia.org/zh-tw/%E5%9B%BD%E5%AE%9D%E5%8D%97%E8%BF%81
 - https://www.npm.gov.tw/Articles.aspx?sno=03012532&l=1
+
+1951 彭蒙惠宣教師 Doris Brougham
+https://trailpaint.org/stories/taiwan-missionaries/
 
 1955「自由中國號」從基隆出發，途經釣魚台、沖繩、橫濱，最後跨越太平洋，抵達美國舊金山，創下臺灣第一艘木造帆船橫渡太平洋的紀錄 https://www.facebook.com/chunfu.lai/posts/10214230629634704
 
