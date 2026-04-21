@@ -90,6 +90,44 @@ tags: cofacts,
     nonumpa 會看
     :::
 
+## Community updates
+
+### General Channel
+
+- **rumors-deploy 更新**
+  - mrorz 分享了 rumors-deploy 的更新，並在 README 中加入了一張架構圖。
+  - > mrorz: rumors-deploy 更新囉，也放了張圖
+    > https://github.com/cofacts/rumors-deploy?tab=readme-ov-file#architecture-overview
+
+- **Cloudflare Browser Run**
+  - mrorz 提出了使用 Cloudflare 的 browser run 功能，可能可以簡化目前在 cofacts worker repo 中爬取資料的流程。
+  - > mrorz: Cloudrun 的 browser run (原 browser rendering) 現在可以直接讓 local puppeteer 連結，也有 MCP 可以讓 coding agent 直連
+    > https://blog.cloudflare.com/browser-run-for-ai-agents/
+    > 這樣一來就不需要像 cofacts worker repo 那樣把爬資料整個拉到 worker 去，直接接好像也可以
+
+### Server Alerts
+
+- **服務短暫中斷**
+  - 4 月 15 日晚上 6 點左右，`api.cofacts.tw` 和 `line-bot.cofacts.tw` 出現了約 1 分鐘的 "Unhealthy" 狀態，原因是 "Response code mismatch error"。
+
+### Github Activities
+
+- **`cofacts/ai`**
+  - **Langfuse 使用者回饋功能** ([#24](https://github.com/cofacts/ai/pull/24))：MrOrz 開了一個新的 PR 來實作 Langfuse 的使用者回饋系統，讓 UI 上可以針對每個 agent message 傳送 feedback。
+  - **CI/CD 流程設定** ([#23](https://github.com/cofacts/ai/pull/23))：為 `cofacts/ai` 專案設定了 pre-commit hooks 和 CI pipelines，以確保程式碼品質。
+  - **Markdown 支援與訊息元件重構** ([#21](https://github.com/cofacts/ai/pull/21))：MrOrz review 並修正了 `cofacts/ai` 中關於 Markdown 渲染和訊息元件的程式碼。
+
+- **`cofacts/rumors-api`**
+  - **身分驗證流程改造** ([#386](https://github.com/cofacts/rumors-api/pull/386), [#385](https://github.com/cofacts/rumors-api/issues/385), [#384](https://github.com/cofacts/rumors-api/issues/384))：nonumpa 提出了一個新的身分驗證流程，主要是為 `cofacts.ai` 的 SSR (Server-Side Rendering) 設計一個客製化的 Authorization Code Flow。
+
+- **`cofacts/beta-ai`**
+  - **URL 內容提取基準測試** ([#17](https://github.com/cofacts/beta-ai/pull/17))：MrOrz 建立了一個 benchmark 腳本，用來測試四種不同的 URL 內容提取策略，並將結果存入 Langfuse 以便比較。
+  - **修正 HackMD agent 的操作指示** ([#16](https://github.com/cofacts/beta-ai/pull/16))：為了避免 agent 直接修改大型的會議記錄首頁，更新了對 agent 的指示，讓它只提供生成好的標題和連結，由使用者手動更新。
+
+- **`cofacts/takedowns`**
+  - **移除 spam 使用者** ([#294](https://github.com/cofacts/takedowns/pull/294))：nonumpa 移除了一個 spam 使用者。
+
+
 ## Cofacts.ai
 
 過進度：https://github.com/orgs/cofacts/projects/12/views/1

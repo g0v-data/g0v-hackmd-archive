@@ -6,6 +6,7 @@ tags: GIS
 
 ## [共用] 木柵街區系列活動記錄與探討方向整理
 
+文件請見以下資料夾：
 https://drive.google.com/drive/folders/1cQUKKZ1QNmKJWaUAkASx9RtEfXQR69M1?usp=sharing
 
 ---
