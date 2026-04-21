@@ -6,8 +6,8 @@ tags: cofacts,
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
-- 線上出席：
+- NPO Hub 出席：bil, lahna, mrorz
+- 線上出席：Alfred, ggm
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
@@ -77,7 +77,6 @@ tags: cofacts,
   - 新 skills https://github.com/cofacts/devops/pull/5 : 每週 production status report、備份 config、整理 contributor 等
 
 
-
 ## 開會時間
 - 5 月初會暫停一次開會 for RightsCon
 - 5/23, 24 g0v summit 擺攤
@@ -85,6 +84,25 @@ tags: cofacts,
 ## RightsCon 擺攤
 
 ### 攤位資訊
+
+Q: What are the official load-in dates and times for Community Village exhibitors?
+A: Monday 4 May: 09:00 – 18:00 (Setup and Load-in only)
+
+Q: What are the official load-out dates for Community Village exhibitors?
+A: Friday 8 May: 08:30 – 15:00 (Exhibition), followed by 15:00 – 18:00 (Load-out)
+
+Q: What is the exact footprint of my booth?
+A: A standard Community Village allocation includes:
+● Footprint: 2m (width) x 2m (depth) designated floor area.
+● Table: One 6ft x 2.5ft (1.8m x 0.75m) trestle table with a linen cloth.
+● Seating: Two conference chairs.
+● Max Display Height: 2.5 meters for any pull-up banners.
+● Electrical: One plug point (Type G)
+
+Q: Can I use floor-standing banners?
+A: Yes, provided they fit within your footprint and preferably behind your stand.
+Sustainability Tip: We recommend lightweight fabric X-frame banners over heavy vinyl
+roll-ups.
 
 ### 展出內容
 
