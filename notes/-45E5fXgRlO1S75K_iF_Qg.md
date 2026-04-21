@@ -112,6 +112,8 @@ tags: cofacts,
 
 Cost: $1.5/day --> $3/day ($45USD/mo --> $90USD/mo)
 
+Monthly budget 從 250 USD 提升到 300 USD
+
 ## 📊 Cofacts Production Status Report (2026-04-21 更新版)
 
 :::spoiler
