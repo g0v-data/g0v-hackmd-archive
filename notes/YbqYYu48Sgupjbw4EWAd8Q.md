@@ -30,7 +30,9 @@ tags: GIS
 
 
 法規與義務
-- 各項規範可參年放鞭炮小心違法傷荷包！哪些地點禁止施放？過年放鞭炮還要注意什麼？ https://ynews.page.link/mZse3
+- 各項規範可參年放鞭炮小心違法傷荷包！哪些地點禁止施放？過年放鞭炮還要注意什麼？ 
+    - https://www.legis-pedia.com/article/More/1478
+    - https://ynews.page.link/mZse3
 - 廢棄物清理法第50條
     - 潑漆、毀損路面（比較接近燃放鞭炮造成燒焦）
 - 街道鋪面清洗，尚能清除燒痕 https://www.facebook.com/liqingl3/posts/5669513776397904?comment_id=5726986753983939&reply_comment_id=5727007420648539&notif_id=1644146241419946&notif_t=comment_mention&ref=notif
