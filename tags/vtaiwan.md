@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [「Sensemaker意見綜整器」使用說明(V3)](../notes/AzK-iLF2RA-hJpo6LkAirA.md) | 2026-04-20T22:53:42+00:00 | 2026-04-20T22:40:45+00:00 |
+| 1 | [「Sensemaker意見綜整器」使用說明(V3)](../notes/AzK-iLF2RA-hJpo6LkAirA.md) | 2026-04-20T23:12:06+00:00 | 2026-04-20T22:40:45+00:00 |
 | 2 | [「Sensemaker意見綜整器」使用說明(V1)](../notes/6mzxQkY3Sr6ILYSfSMsqVg.md) | 2026-04-20T22:41:20+00:00 | 2025-07-07T01:59:56+00:00 |
 | 3 | [Interview with Bella Wexler](../notes/UUpZPGrhQW25hfL5w97EmQ.md) | 2026-04-01T02:05:37+00:00 | 2026-04-01T02:01:27+00:00 |
 | 4 | [Cloudflare 兩頭接：LINE Bot × OpenClaw 專案工程實作方案](../notes/OVEmESCwSjWl3LwGnYE3Gw.md) | 2026-03-29T08:41:46+00:00 | 2026-03-27T05:15:05+00:00 |
