@@ -6,7 +6,7 @@ tags: cofacts,
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：bil, lahna, mrorz
+- NPO Hub 出席：bil, lahna, mrorz, nonumpa
 - 線上出席：Alfred, ggm
 - https://meet.google.com/mrz-dgrd-pri
 :::
@@ -20,10 +20,12 @@ tags: cofacts,
 - [x] Cloudflare HTML cache and AI crawler defense --> 下面「bots and network cost」討論
 
 ### Elasticsearch 升級
-- [ ] 修正 weekly opendata publish https://github.com/cofacts/opendata/pull/32
-    :::info
-    nonumpa 會協助
-    :::
+- [x] 修正 weekly opendata publish https://github.com/cofacts/opendata/pull/32
+	- Review 時要注意 CI 時的備份資料夾位置
+
+:::success
+nonumpa 會協助
+:::
 
 ### Discord spammer
 - [ ] 需要把 Discord 進入門檻拉高一點（提問 etc）
@@ -35,6 +37,14 @@ tags: cofacts,
 
 過進度：https://github.com/orgs/cofacts/projects/12/views/1
 
+- bot user 變多，有更多熱門訊息，但都是 FB link [name=bil]
+  - cofacts.ai 可以存取 cofacts.tw 上面顯示的所有資料
+  - FB 現在抓不到，url context tool 也很有限，有待 url-resolver 開發完畢
+  	- beta-adk 做實驗
+  	- 比較 4 種方法
+  	- dataset: cofacts 過去資料庫的網域數量，sample 一些具有代表性的網域
+  - 可以考慮再找一個外包來開發 url-resolver
+
 ## Community updates
 
 ### General Channel
@@ -43,6 +53,7 @@ tags: cofacts,
   - mrorz 分享了 rumors-deploy 的更新，並在 README 中加入了一張架構圖。
   - > mrorz: rumors-deploy 更新囉，也放了張圖
     > https://github.com/cofacts/rumors-deploy?tab=readme-ov-file#architecture-overview
+  - 有個方式可以設定 github org 首頁 [name=alfred]
 
 - **Cloudflare Browser Run**
   - mrorz 提出了使用 Cloudflare 的 browser run 功能，可能可以簡化目前在 cofacts worker repo 中爬取資料的流程。
@@ -85,11 +96,19 @@ tags: cofacts,
 
 ### 攤位資訊
 
-Q: What are the official load-in dates and times for Community Village exhibitors?
-A: Monday 4 May: 09:00 – 18:00 (Setup and Load-in only)
+Your Booth Details
 
-Q: What are the official load-out dates for Community Village exhibitors?
-A: Friday 8 May: 08:30 – 15:00 (Exhibition), followed by 15:00 – 18:00 (Load-out)
+The Community Village is the heart of RightsCon — a mixed-use space located on the ground floor within the Kenneth Kaunda wing of our venue, the MICC.
+
+Booth #: Booth 17
+
+Thematic Zone: Digital Security & Privacy
+
+Date(s): Fri 8 May
+
+Time slot: Half Day (9:00 AM – 1:00 PM)
+
+![](https://g0v.hackmd.io/_uploads/ByRDD1rabg.png)
 
 Q: What is the exact footprint of my booth?
 A: A standard Community Village allocation includes:
@@ -104,14 +123,38 @@ A: Yes, provided they fit within your footprint and preferably behind your stand
 Sustainability Tip: We recommend lightweight fabric X-frame banners over heavy vinyl
 roll-ups.
 
+Q: What materials are recommended for my booth?
+A: We encourage you to use environmentally responsible materials in line with RightsCon’s
+commitment to sustainability. Examples could be fabric banners, QR codes linking to digital
+content, recycled cardboard displays, and potted plants. Please avoid, if possible, PVC/vinyl
+banners, foam boards, polystyrene, inflatables, single-use plastics and excessive printed
+materials. Please note that helium balloons are strictly prohibited.
+
+Q: Does my booth need to be staffed for the entire duration of the exhibit?
+A: You are responsible for providing staff at your booth for the duration of the exhibit, and all
+exhibitors must be registered for RightsCon. Booths must be fully staffed throughout the
+duration of the period you have been assigned.
+
 ### 展出內容
 
-- [ ] 名片
+- [ ] 名片 [name=mrorz] [name=bil]
+- [ ] 貼紙 [name=bil]
+- [ ] 布條：Cofacts & 彩虹鯨魚旗
 - [ ] 傳單
-    - [ ] ？？
+    - [ ] acho 黃色傳單 (英文)，確認 QR code [name=mrorz]
+    - [ ] 志超的單面介紹，一般性介紹
 - [ ] 多媒體
-- [ ] 談資
+		- 英文 youtube 輪播
+		- 英文網頁 https://en.cofacts.tw/about
+- bil laptop, mrorz laptop, portable screen
 
+目標群眾
+- 想知道 insight
+- 不太會想知道 bot 怎麼用
+
+:::success
+回去點一下，不夠的話盡快印
+:::
 
 ## Bots and server network cost
 
