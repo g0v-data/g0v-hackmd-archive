@@ -667,6 +667,9 @@ https://www.facebook.com/MikLiu/posts/pfbid02ZbXdSetV7vgiMX8wVt4eQ1yHtzfFTHDD29A
 討論串：https://www.facebook.com/groups/474536628587982/posts/725430420165267/
 
 ### 臺北市臺師大街區【和平東路-羅斯福路-新生南路】
+
+主題文件：https://g0v.hackmd.io/@chewei/GDP/https%3A%2F%2Fg0v.hackmd.io%2FHBZfoiCsQNOd2pItf-ye8A%3Fview
+
 - 優先處理溫州街全段人車衝突路口數量降低
 - 針對大學里，兩處公園及水綠空間，結合斜向連續型行人路徑，將路口對街的徒步空間相連，溫州街45巷水圳與大學公園，台電魚木與溫州公園
 - 古莊里優先處理過境車流衝擊

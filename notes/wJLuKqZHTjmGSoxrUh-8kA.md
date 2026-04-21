@@ -85,7 +85,8 @@ tags: child,
     * [「剴剴條款」三讀通過！虐殺7歲以下童最重死刑 45綠委反對](https://udn.com/news/story/6656/8880976)
 * 20251222 [二審台灣高等法院晚間辯論終結，明年1月27日宣判](https://www.cna.com.tw/news/asoc/202512220291.aspx)
 * 20260111 [「護兒少・反廢死」大遊行](https://www.facebook.com/groups/419383313867305/)
-* 20260421 [判決書出爐](https://judgment.judicial.gov.tw/LAW_Mobile_FJUD/FJUD/data.aspx?ty=JD&id=TPDM,114%2c%e8%a8%b4%2c51%2c20260416%2c2)
+* 20260127 [台灣高等法院二審駁回上訴](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPHM,114%2c%e5%9c%8b%e5%af%a9%e4%b8%8a%e9%87%8d%e8%a8%b4%2c4%2c20260127%2c6)
+* 20260421 [兒福聯盟社工一審判決](https://judgment.judicial.gov.tw/LAW_Mobile_FJUD/FJUD/data.aspx?ty=JD&id=TPDM,114%2c%e8%a8%b4%2c51%2c20260416%2c2)
 
 參考資料：
 * [林祐生(剴剴外婆友人)臉書](https://www.facebook.com/kevinlin3160/posts/pfbid0dLRybhBiErYSyVHEAcuXzsaMqHykgVnFPUHPTPLaWVYPqg9YMS1zRPeGntHoTyGRl)

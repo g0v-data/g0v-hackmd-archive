@@ -10,6 +10,7 @@ tags: GIS
 - [🌳 水綠街道與風的走廊](https://g0v.hackmd.io/vNZa-WCyTKyBk9mTmyqS8w)
 - [👋 穿越時代的學習路徑](https://g0v.hackmd.io/IR9aZ0DBTqO7eZFOKZazdQ?view)
 - [工作文件：建構街區環境舒適度檢測評估工具與方法](https://g0v.hackmd.io/@chewei/comfort)
+- [臺師大街區各類探討筆記](https://g0v.hackmd.io/HBZfoiCsQNOd2pItf-ye8A?view)
 
 ## 數位工具
 - [拍照紀錄 📸<br>線上地圖](https://commutag.agawork.tw/dataset?id=6542020c38c282460799aa4d)[target=_blank]
