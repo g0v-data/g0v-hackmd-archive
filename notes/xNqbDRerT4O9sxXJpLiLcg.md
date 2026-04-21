@@ -2,42 +2,11 @@
 tags: GIS
 ---
 
-# 【報名表單】歡迎參加 文山區木柵街區活動 !
+# 木柵街區系列活動記錄與探討方向整理
 
-:::danger
-## 木柵街區活動報名網址：<br>https://forms.gle/GBfciXmiUDF5G5HC6
-:::
+## [共用] 木柵街區系列活動記錄與探討方向整理
 
-## 場次：10/28 週二晚上｜木柵生活巷弄街區願景工作坊
-
-### 🟠活動時間：2025／10／28（週二），晚上 19:00~21:00
-### 🟠集合地點：木柵忠順廟，臺北市文山區中崙路13號
-### 🟠活動流程：
-- 18:45~19:00｜活動報到
-- 19:00~19:20｜相見歡&活動說明  
-  認識新朋友，了解今天活動怎麼玩～
-- 19:20~20:10｜街區議題&策略研擬
-  發揮想像力，看見街區的新可能～
-- 20:10~20:20｜休息時間
-  吃吃點心、伸展一下，和旁邊的夥伴聊聊剛剛的想法。  
-- 20:20~21:00｜議題綜整&交流互動
-  分享你的想法、聽聽別人的靈感，一起拼出街區再造的願景藍圖!
-
-![](https://g0v.hackmd.io/_uploads/BJeodB4Oaeg.png)
-![](https://g0v.hackmd.io/_uploads/B1n_HNuTel.png)
-![](https://g0v.hackmd.io/_uploads/Hyln_rEdpxg.png)
-![](https://g0v.hackmd.io/_uploads/Bkb3dBVuaee.png)
-![](https://g0v.hackmd.io/_uploads/HJG3uSNuall.png)
-
-
-### 🔺提醒事項
-- 報名人數以 25 人為限，報名開放至10/24(週五)中午12點截止 ，報名成功後，我們將盡快以電子郵件發送活動報名成功通知及行前說明。（本場次名額有限，依報名時間順序，額滿為止。）
-
-### 主辦單位、執行單位、協辦單位介紹
-- 主辦單位：臺北市都市更新處
-- 執行單位：經典工程顧問有限公司
-- 協辦單位：臺北市文山社區大學、財團法人台北市木柵忠順廟、台大智慧舒適度 (NTUSC+) 團隊
-
+https://drive.google.com/drive/folders/1cQUKKZ1QNmKJWaUAkASx9RtEfXQR69M1?usp=sharing
 
 ---
 
@@ -67,14 +36,13 @@ tags: GIS
 
 ---
 
+## 其他相鄰地區
+
 萬隆景美
 - https://www.facebook.com/mao.isle/posts/pfbid02pe66UJafuYg1MsH2Hj91AypncNg7jDQFPsGagj3y7B6NYrNwdGw9YjBMcBP8u2Yjl
 
 興隆萬芳
 - 木柵線捷運站與環狀線站站點之間
-
-Todo
-- 宣傳：第一場工作坊參加者
 
 
 

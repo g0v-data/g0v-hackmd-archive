@@ -4,9 +4,11 @@ tags: GIS,
 
 # 木柵街區與生活巷弄營造
 
-## [10/28 週二晚上<br>木柵生活巷弄｜街區願景工作坊](https://g0v.hackmd.io/xNqbDRerT4O9sxXJpLiLcg?view)
 
-## [🚩 活動報名網址 🚩](https://forms.gle/GBfciXmiUDF5G5HC6)
+## 木柵街區系列活動記錄與探討方向整理 
+
+- [木柵街區系列活動記錄與探討方向整理](https://g0v.hackmd.io/xNqbDRerT4O9sxXJpLiLcg?view)
+
 
 ## 數位工具
 - [拍照紀錄 📸<br>線上地圖](https://commutag.agawork.tw/dataset?id=6542020c38c282460799aa4d)[target=_blank]
