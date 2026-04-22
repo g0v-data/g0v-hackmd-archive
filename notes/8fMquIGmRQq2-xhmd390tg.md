@@ -5,10 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter, Allison, Tim, 翊婷, 泰瑋
-
-![](https://g0v.hackmd.io/_uploads/Sy9Ql6ph-e.png)
-![](https://g0v.hackmd.io/_uploads/SklcXgaT3Wg.png)
+參與者 Participants：Peter,
 
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -50,8 +47,28 @@ https://www.vtaiwan.tw/jitsi
 - 上週週末有跟 NCC 前主委，也是在 vTaiwan 草創時期協助建立 vTaiwan 討論框架的 Nicole 詹婷怡律師討論
 - 目標：完成 vTaiwan 前世今生的文章
 
+### 應用意見綜整器的實際案例
+- https://www.alearn.org.tw/report [name=bestian]
+
 ## Mozilla 基金會計畫更新
 - 確認沒有進入第二階段
+- 感謝大家的參與，尤其是 Irvin, Rosalind, 翊婷等夥伴
 
 ## 電子報計畫
-- 昨天跟災害回波
+- 昨天參與[災象回波](https://jqpau.notion.site/v1-0-2e3ee44ca46980baadc4e201bba1a2ec)的每週小聚，災象回波是光復超人在救災行動告一段落後，延續防災與救災相關討論的專案，我們有討論到，可以成立一個電子報互助會，互相提醒彼此要來寫電子報
+- 災象回波電子報：根據昨天
+- vTaiwan 電子報：
+    - 主要內容
+        - 轉譯國際上的審議與數位工具應用的新案例，作為國內社群了解相關推進的窗口
+        - 宣傳 vTaiwan 的工具、專案與活動
+- 一些想跟大家討論的：
+    - 電子報名稱？
+    - 構想：架設在 substack 上，同時連結回網站
+    - 需要克服的問題：
+        - 惰性：藉由電子報互助會來互相督促，甚至可以一起 cowork 
+        - 
+## Taiwan Internet Week 2026 
+- https://網路週.台灣/2026/agendaD02.html 
+- 本週發現一個問題：Peter 因為議程撞期的關係，無法代表 Tech For Good Asia 進行分享與報告
+- 目前的解決方案是：協調 Josh 分享去年 vTaiwan 公民審議大會的相關內容，Peter 可以協助製作ppt。
+
