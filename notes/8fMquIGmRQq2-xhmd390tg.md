@@ -51,4 +51,7 @@ https://www.vtaiwan.tw/jitsi
 - 目標：完成 vTaiwan 前世今生的文章
 
 ## Mozilla 基金會計畫更新
-- 
+- 確認沒有進入第二階段
+
+## 電子報計畫
+- 昨天跟災害回波
