@@ -1,7 +1,7 @@
 ---
 tags: vTaiwan
 ---
-# 20260415 小松
+# 20260422 小松
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
@@ -49,3 +49,6 @@ https://www.vtaiwan.tw/jitsi
 ### vTaiwan 的前世今生
 - 上週週末有跟 NCC 前主委，也是在 vTaiwan 草創時期協助建立 vTaiwan 討論框架的 Nicole 詹婷怡律師討論
 - 目標：完成 vTaiwan 前世今生的文章
+
+## Mozilla 基金會計畫更新
+- 
