@@ -103,3 +103,85 @@ https://www.vtaiwan.tw/jitsi
 - 報告實例[台灣非學校(自學)社群的現況與展望](https://www.alearn.org.tw/report)
 - Github 網站議題已開 https://github.com/g0v/vue.vTaiwan-neo/issues/127
 
+
+## 轉錄逐字稿與AI大綱
+
+
+### 逐字稿詳情
+
+https://www.vtaiwan.tw/transcription_detail/20260422
+
+
+### AI大綱
+
+**vTaiwan 會議紀要（2026‑04‑22）  
+重點整理（繁體中文）**  
+
+---
+
+## 1. 研究與工具進度  
+| 主題 | 內容 | 相關人/負責人 |
+|------|------|--------------|
+| **Botender** | 由紫森（紫森）在巴塞隆納研討會展示的 AI agent 工具，已上傳至共筆，並在 arXiv 發表《Supporting Communities in collaboratively designing AI agents》論文（case‑base） | 紫森、Josh |
+| **AI agent 在 Discord / 聊天室的應用** | 用於收集意見、分析討論、協助決策的機器人；已初步示範，待進一步測試與部署 | Josh、崔家瑋 |
+| **VTaiwan 歷史資料重建** | ① 從早期 Hackpad（vTaiwan 原始資料）下載 → 用 AI‑coding 重新整理成易讀格式（Ronnie） ② 計畫於 **6 月底前完成** 全部資料清理與上傳 ③ 5 月左右與 Nicole（Digital Trust 團隊）深度訪談，產出可發表的敘事文章 | Ronnie、Nicole、崔家瑋、Josh |
+| **Digital Trust（數位信任）合作** | Nicole 團隊正與會計顧問公司 *Deloy* 商討，欲協助台灣企業面對 AI‑agent 產生的安全與責任問題；可協助提供意見徵集與政策討論素材。 | Nicole、Deloy、崔家瑋 |
+| **Sensemaker 報告自動化** (LMStudio + `runlocalhtmlreport.sh`) | - 可在本機跑大型語言模型（免雲端成本）  <br>- 輸出一頁式互動 HTML 報告 <br>- 支援 7 種語言（英、德、西、法、日、簡中、正體） <br>- 速度受本機算力影響，10‑20 分鐘可產出完整報告 <br>- 產出範例已放在 GitHub，可直接嵌入 vTaiwan 公共資料夾 | Bestian、Joshua Yang、崔家瑋 |
+| **多語言報告示範** | 範例主題：AI 大眾看法（Bloom Civic AI Report），已完成英、德、西、法、日、簡中、正體七語版，可作為未來各議題報告的模板。 | Bestian、Joshua Yang |
+
+---
+
+## 2. 媒體與出版
+| 事件 | 內容 | 相關人 |
+|------|------|--------|
+| **加拿大記者採訪** | 兩篇文章已發表：一篇與 *Gilinby*（法律/政策）相關；另一篇與 *vTaiwan*（公共審議）相關。已請求將中文翻譯稿投稿至蒙特利爾法語報紙（Radebill）。 | 崔家瑋、Josh |
+| **公民審議大會 Agent Demo** | 會在即將到來的 TW Internet Week（4 月 30 日）及 Taiwan Internet Week 中展示，由 Josh 现场分享與實作。 | Josh、崔家瑋 |
+
+---
+
+## 3. 行程與會議安排
+| 日期 | 事項 | 備註 |
+|------|------|------|
+| **5 月中** | 與 Nicole 深度訪談（錄音、AI 文字整理、發表於網站） | 目標產出 vTaiwan 2014‑起的歷史敘事 |
+| **6 月底前** | 完成 VTaiwan 歷史資料的 AI 整理、上傳 | 里程碑 |
+| **4 月 30 日** | TWInternet Week / Taiwan Internet Week 報告提交與 Demo | 已規劃 |
+| **下週四（4/27）晚上** | VT1 上線測試會（討論時間） | 需確認可出席成員 |
+| **6 月初** | 崔家瑋赴西維利亞（Sevilla）參加網路治理會議 | 另有巴塞隆納研討會回顧 |
+
+---
+
+## 4. 電子報與社群互動計劃
+1. **目標**：打造簡短、週／月頻率的 e‑newsletter，聚焦「數位工具應用」與「公共審議案例」。
+2. **內容範例**：  
+   - 本週介紹 Botender（AI agent）工具  
+   - 分享 vTaiwan 歷史資料重建進度  
+   - 宣傳即將舉辦的網路治理會議與 TWInternet Week  
+3. **形式**：  
+   - 每期 300‑500 字，突出關鍵資訊  
+   - 附上可直接點擊的 HTML 報告（由 LMStudio 產出）  
+   - 允許讀者回饋至 Discord、Medium、Twitter，形成「自動化」的意見迴路  
+4. **負責人**：崔家瑋（策劃與撰寫），Josh（技術支援與示範）
+
+---
+
+## 5. 需要協助與行動項目
+| 項目 | 具體需求 | 負責人 |
+|------|----------|--------|
+| **Botender Demo** | 在下次會議中讓 Josh 示範並錄製影片 | Josh |
+| **VTaiwan 資料搬遷** | 下載 Hackpad 資料 → 用 Ronnie 所寫程式碼整理 → 上傳至新平台 | Ronnie、崔家瑋 |
+| **Nicole 訪談** | 安排 5 月中 interview，錄音、AI 文字整理、出版文章 | 崔家瑋 |
+| **Sense‑Making 報告模板** | 把 `runlocalhtmlreport.sh` 及範例放入 vTaiwan 公共資料夾，提供使用說明 | Bestian |
+| **TW​NIC 企劃書** | 與逸廷協作完成，目標 4/30 前送出 | 崔家瑋、逸廷 |
+| **會議時間確認** | 確認 4/27（週四）晚上所有人（Bestian、Josh、Billy）是否參加 | 崔家瑋 |
+| **電子報發佈平台** | 決定使用 Mailchimp / Substack 或 vTaiwan 官方網站，設置自動化流程 | 崔家瑋、Josh |
+
+---
+
+## 6. 會議結語
+- 大家對 **AI agent + 公民審議** 的概念表達了正面期待，認為此方式能突破既有「多元利害關係人」的接觸限制，觸及更多年齡層與社群。  
+- **對齊原則（alignment）** 被提為後續的重要課題：如何確保代理人行為與平台價值觀相符，將成為下一階段的重點討論。  
+- 會議結束時拍攝合照，並提醒所有成員把想法、筆記、待辦事項補寫至共筆（Google Docs）中。  
+
+--- 
+
+**總結**：本次會議聚焦在 AI agent 工具（Botender、vTaiwan 數據重建）、報告自動化（LMStudio 报告生成）、媒體曝光、即將到來的國內外活動以及電子報的推廣策略。主要里程碑為 **5 月訪談、6 月資料完成、4/30 TWInternet Week**。各項任務已指派負責人，請依照上述行動項目落實。祝大家工作順利！  
