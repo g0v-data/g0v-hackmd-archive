@@ -41,4 +41,11 @@ https://www.vtaiwan.tw/jitsi
 :::
 
 ## 小小的分享
-### Le Devoir 
+### Le Devoir 文章刊出！
+- 之前接受加拿大記者 Magdaline Boutros 訪問的文章已經刊出了！
+- https://www.ledevoir.com/monde/asie/972947/coder-defendre-democratie
+- https://www.ledevoir.com/monde/asie/972944/hackers-civiques-taiwan-defense-ombre
+
+### vTaiwan 的前世今生
+- 上週週末有跟 NCC 前主委，也是在 vTaiwan 草創時期協助建立 vTaiwan 討論框架的 Nicole 詹婷怡律師討論
+- 目標：完成 vTaiwan 前世今生的文章
