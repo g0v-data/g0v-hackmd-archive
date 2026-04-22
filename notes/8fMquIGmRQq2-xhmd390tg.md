@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter,
+參與者 Participants：Peter, billy, Josh, Allison, Bestian 
 
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -36,8 +36,20 @@ https://www.vtaiwan.tw/jitsi
     - 目前的 vTaiwan 很歡迎與數位工具相關的公共討論！
 - 如果想要成為協作者或者是貢獻者，我們正在努力讓說明更清楚，介面更友善！
 :::
+## 自介
+- Peter: 法律研究生, 律訓中, vTaiwan 坑主
+- Billy: 災象回波, 軟體工程師, 台灣太空世代
+- Allison: high school student 
+- Tim: 資料工程師，轉職成網站工程師 out going cynical and logical 
+- Josh: 研究員，數位民主研究員，人在瑞士
 
 ## 小小的分享
+### Josh 分享 vTaiwan 巴賽隆納小聚！
+![](https://g0v.hackmd.io/_uploads/HJpb6mLaWl.jpg)
+- Josh 跟 Tzu sheng 在巴賽隆納的研討會相聚了！
+- tzu sheng 的研究成果：https://arxiv.org/abs/2509.25492 
+    - 藉由串 AI agent 在 Discord 群組/聊天室
+    - 由 AI agent 來做分析
 ### Le Devoir 文章刊出！
 - 之前接受加拿大記者 Magdaline Boutros 訪問的文章已經刊出了！
 - https://www.ledevoir.com/monde/asie/972947/coder-defendre-democratie
@@ -46,29 +58,48 @@ https://www.vtaiwan.tw/jitsi
 ### vTaiwan 的前世今生
 - 上週週末有跟 NCC 前主委，也是在 vTaiwan 草創時期協助建立 vTaiwan 討論框架的 Nicole 詹婷怡律師討論
 - 目標：完成 vTaiwan 前世今生的文章
+- 6月底完成
+- 5月訪問
+- 其他合作：數位信任的意見徵集
+- 工作流程
 
 ### 應用意見綜整器的實際案例
 - https://www.alearn.org.tw/report [name=bestian]
 
 ## Mozilla 基金會計畫更新
 - 確認沒有進入第二階段
-- 感謝大家的參與，尤其是 Irvin, Rosalind, 翊婷等夥伴
+- 感謝大家的參與，尤其是 Irvin, Rosalind, 翊婷, 等夥伴
 
 ## 電子報計畫
 - 昨天參與[災象回波](https://jqpau.notion.site/v1-0-2e3ee44ca46980baadc4e201bba1a2ec)的每週小聚，災象回波是光復超人在救災行動告一段落後，延續防災與救災相關討論的專案，我們有討論到，可以成立一個電子報互助會，互相提醒彼此要來寫電子報
-- 災象回波電子報：根據昨天
+- 災象回波電子報：
 - vTaiwan 電子報：
     - 主要內容
         - 轉譯國際上的審議與數位工具應用的新案例，作為國內社群了解相關推進的窗口
         - 宣傳 vTaiwan 的工具、專案與活動
 - 一些想跟大家討論的：
-    - 電子報名稱？
+    - 電子報名稱？vTaiwan 電子報
+        - 本週功課：https://arxiv.org/abs/2509.25492 
+            - 介紹：botender 
     - 構想：架設在 substack 上，同時連結回網站
     - 需要克服的問題：
         - 惰性：藉由電子報互助會來互相督促，甚至可以一起 cowork 
-        - 
+### 想法：
+- vTaiwan 每個程序串起來很好，但是之前沒有相關的動能可以串起來
+- 利用 AI Agent 跟 automation 來做到這件事
+    - 作為一個
+    - [News Agora專案](https://github.com/v-taiwan/NewsAgora-/tree/main)
+        - polis 如果沒有對接的 api 的話，替代方案是可以用人力的方式複製與處理。
 ## Taiwan Internet Week 2026 
 - https://網路週.台灣/2026/agendaD02.html 
 - 本週發現一個問題：Peter 因為議程撞期的關係，無法代表 Tech For Good Asia 進行分享與報告
 - 目前的解決方案是：協調 Josh 分享去年 vTaiwan 公民審議大會的相關內容，Peter 可以協助製作ppt。
+- 方向：
+    - sensemaking report 用 agent 的意見來做整理
+
+## Sensemaker以近端模型免費執行(說明文件V3)
+
+- https://g0v.hackmd.io/AzK-iLF2RA-hJpo6LkAirA?view
+- 報告實例[台灣非學校(自學)社群的現況與展望](https://www.alearn.org.tw/report)
+- Github 網站議題已開 https://github.com/g0v/vue.vTaiwan-neo/issues/127
 

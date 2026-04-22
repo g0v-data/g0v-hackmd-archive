@@ -48,7 +48,7 @@ https://www.vtaiwan.tw/jitsi
 
 ### 模擬審議大會結果發表
 - 5/14 的 Taiwan Internet Week 活動會來報告去年執行模擬審議大會的成果，這會是四月討論的事情～
-- TFGA 與 vTaiwan
+- TFGA 與 vTaiwan合作的
 - https://joshuacyang.com/vtaiwan_agent_democracy/#/about
 #### 待辦事項
 - 報告完成 [vTaiwan 模擬市民大會](https://docs.google.com/document/d/18WaxrP28sqAhpERiXnlCkuDRNquM1RqZdQaTiCQlwMg/edit?usp=sharing)

@@ -9,6 +9,9 @@ tags: vtaiwan
 1. 現在可用LM Studio近端模型，免費執行Sensemaker意見綜整器了!
 2. 使用懶人腳本，只要設好參數，一行指令即可完全部流程!
 
+報告實例：https://www.alearn.org.tw/report
+
+
 ## 簡介
 
 此分支擴充了 Sensemaker，讓使用者能 **LM Studio** 以低成本、高效能、自選模型的方式執行意見綜整器，並可自訂報告輸出的語言。只需執行 `run_local_html_report.sh` 一個腳本，即可從 Polis 匯出資料一鍵產生完整的互動式 HTML 網頁報告。
