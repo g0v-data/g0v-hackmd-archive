@@ -3,6 +3,8 @@ Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 :::
 :::warning
 目錄
+
+gopatrol:https://192.168.5.164/gopLicense
 [TOC]
 :::
 [](https://)
