@@ -15,6 +15,11 @@
 (黃吉祿)https://meet.google.com/cup-xvnz-uog
 (羅堂國)https://meet.google.com/pga-bzti-ppi
 (斗三廠)https://meet.google.com/ctb-jjiu-ept
+2026/4/24 測試中：
+主管會議    https://meet.google.com/zvq-goua-iyv
+內訓專用    https://meet.google.com/vhj-bhpw-rqo 
+資訊部     https://meet.google.com/dub-xgzx-vwn 
+對外       https://meet.google.com/hex-matt-vcc
 
 #### CISCO
 :bulb:參加，不是登入，不須安裝，記得輸入暱稱，蘋果系統請用Chrome、Safari
