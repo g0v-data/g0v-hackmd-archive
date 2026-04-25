@@ -7,7 +7,7 @@
 
 :::
 
-https://www.youtube.com/watch?v=XFMa8p32gJs
+
 動物方城市2》主題曲 Shakira - Zoo 中文翻譯
 https://www.youtube.com/watch?v=7pQZQyMwqIw
 
@@ -105,9 +105,6 @@ https://doodles.google/
 
 
 #### Ken暫存
-https://www.youtube.com/watch?v=QG0FOY7NxqE&list=PLORWJtExPDfkdyH5gkroQ9B7iSwbDc5Wf
-
-相片大師
-https://play.google.com/store/apps/details?id=com.cyberlink.photodirector&hl=zh_TW
-*證件照應用
-https://play.google.com/store/apps/details?id=jp.gr.java_conf.siranet.idphoto&hl=zh_TW
+羅建寬
+英文：James Luo
+解釋：建寬代表建構寬廣視野、務實落地，完美呼應企業AI應用實作；James經典低調，瘦高身材配白髮有教授級權威感。
