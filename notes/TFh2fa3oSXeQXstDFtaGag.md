@@ -126,5 +126,8 @@ https://youtu.be/QUGHPuUU5FA
 https://www.facebook.com/share/p/181dn2eqD9/
 台灣中央線(約780km)縱走之社團
 https://www.facebook.com/share/g/1HzoEqoZ2L/
+
 帛琉至台灣航船 https://www.facebook.com/share/p/1C1jdUnTSK/
 https://www.facebook.com/share/p/1B1puNH5Di/
+航線：台南-伊朗-美西
+https://youtu.be/3J2wGULGg94
