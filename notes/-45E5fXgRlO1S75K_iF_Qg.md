@@ -143,6 +143,7 @@ duration of the period you have been assigned.
 - [ ] 名片 [name=mrorz] [name=bil]
 - [ ] 貼紙 [name=bil]
 - [ ] 布條：Cofacts & 彩虹鯨魚旗
+- [ ] 珍珠板說明
 - [ ] 傳單
     - [ ] acho 黃色傳單 (英文)，確認 QR code [name=mrorz]
     - [ ] 志超的單面介紹，一般性介紹
