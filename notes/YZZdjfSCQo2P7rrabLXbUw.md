@@ -13,7 +13,6 @@ https://www.youtube.com/watch?v=7pQZQyMwqIw
 
 https://poki.com/zh/g/vortellis-pizza?gdgameCode=YAIUT3
 #### 日本環球影城自由行規劃
-富悅旅行社 大阪自由行5日分享    https://www.dcard.tw/f/japan_travel/p/256682043
 【大阪環球影城】帶小孩不用買快速通關    https://www.youtube.com/watch?v=jbv9R_-a_nc
 大阪環球影城1.5日票攻略：    https://www.youtube.com/watch?v=9ebsj1Gc6I4
  能量手環*2
