@@ -23,5 +23,9 @@ https://www.facebook.com/share/p/1Bp6v5iMZV/
 - 活動名稱：新店溪水岸環境願景工作坊
 - 活動簡介
     - 本次工作坊會透過歷史地圖與文件，一起來了解歷史上的新店溪，河岸環境的變化過程，包含堤防興建、聚落位置、渡口與航運故事等。接著將邀請您一起運用水岸城市大地圖，指認您在新店溪水岸的生活與休憩經驗，一起看見城市生活中的河流角色，我們也將介紹都會型河川的營造案例經驗，邀請您提供新店溪水岸環境的願景。相關文件素材歡迎參考以下網頁：https://g0v.hackmd.io/@chewei/xindian-river-watershed/
+    - 「流域x預決算x標案」的探討角度 follow the money，使用民間建立的預算整合查詢平台工具：
+        - OpenBudget 政府預算查詢 https://budget.openfun.app
+        - 北市府的預算查詢網站 https://dbas-tbs.gov.taipei/Budget
+        - 大河小溪全民齊督工 (河川招標資料地圖) https://river-watcher.bambooculture.tw/
 
 
