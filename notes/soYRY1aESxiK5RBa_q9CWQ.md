@@ -74,6 +74,11 @@ tags: cofacts,
 
 ### rumors-api
 - **[feat(auth): Custom Authorization Code Flow with RS256 JWT + JWKS by nonumpa](https://github.com/cofacts/rumors-api/pull/386)**
+    - 使用 RS256 演算法，雖然目前沒有 client 自己驗證的需求(直接把 jwt token 丟給 api)
+        - 沒有設定 iss/aud，跟 security 無關、client 沒有 verify，所以沒做也還好
+    - 短效期 code 有效時間為 60 秒，目前沒有做成 one-time code (需要依賴 redis 或其他 db)
+    - bearer token 過期/無效會回傳 401
+    - follow-up: twitter login 需移除
 
 ### opendata
 - **[perf(dump): refactor async iterator merging with promise slots by MrOrz](https://github.com/cofacts/opendata/pull/33)**
