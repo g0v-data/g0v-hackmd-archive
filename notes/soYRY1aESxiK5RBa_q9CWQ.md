@@ -13,20 +13,76 @@ tags: cofacts,
 
 ## 追蹤事項
 
+
 ### 上週待辦
 - [ ] GCE Migration
     - [ ] 跑幾週看穩定度，決定是否要再把 tw site 也搬進 GCE
     - [ ] 跑幾個月看實際用到的運算量，決定 GCP committed use discount 怎麼買比較划算
 - [ ] nonumpa: 提高 Discord 進入門檻
-- [ ] RightsCon 擺攤
+- RightsCon 擺攤 ![](https://g0v.hackmd.io/_uploads/BJsYHeApWl.png)
+    - [ ] X 型布幕 https://www.figma.com/design/1tiXCGut4kNCEkDG9FTza7/LINE-Chat-UI-Template--Community-?node-id=3011-2598&t=M7kq3ymM7XDO2z0s-4
     - [ ] mrorz, bil: 名片
+        - mrorz 正在補名片
     - [ ] bil: 貼紙
     - [ ] mrorz: acho 黃色傳單 (英文)，確認 QR code
+    - [ ] QR code 板板、Cofacts 板板
+    - [ ] 外接螢幕：cofacts Youtube + about page
 - [ ] 針對 `Meta-ExternalAgent` 在 Cloudflare 進行頻率限制
 
 ### AI 爬蟲造成的伺服器負載
-- [ ] Cloud Run (`site-tw`) 擴容至 2GB
-- [ ] 觀察 GCE (`site-en`, `site-ja`) 記憶體回升速度
+見週報
+
+# 會議前週報
+
+## Discord 一般頻道
+
+### Elasticsearch 記憶體與 Swap 效能優化
+
+- **議題**: `Alfred chen` 建議關閉 Elasticsearch 的 swap 功能以增進效能，並引用官方文件佐證。
+- **討論**:
+  - `mrorz` 同意此作法，並與 AI 討論後決定將 `db` 的 `mem_limit` 與 `memswap_limit` 都設為 22GB。
+- **結論**:
+  > mrorz@g0v-tw: "[維運報告] Elasticsearch 記憶體優化與 Swap 調整完成
+  > 為了避免 Elasticsearch 使用 Swap 導致效能不穩，剛才已完成 Production 設定調整：
+  > • 問題背景：先前主機 4GB Swap 幾乎全滿（僅剩 2MB），且 ES Container 未限制 Swap 使用，違反官方 Best Practice 且有 OOM 隱憂。
+  > • 調整內容：
+  >     ◦ 在 `docker-compose.yml` 對 `db` 服務加上 `mem_limit: 22g` 與 `memswap_limit: 22g`。
+  >     ◦ 強制 ES 容器不使用 Swap，將所有資料保留在實體 RAM 中。
+  > 執行結果：
+  >     ◦ ✅ Swap 成功釋放：主機 Swap 使用量從 4GB 降至約 360MB。
+  >     ◦ ✅ 效能穩定：ES 已重啟完成，叢集狀態為 Yellow（單節點正常狀態），實體記憶體穩定在 17.4GB / 22GB。
+  >     ◦ ✅ 服務正常：API 與網站讀取功能均已確認恢復正常。
+  > 目前觀察 CPU 已降至穩定水位，後續會持續監控記憶體用量。"
+
+### AI 爬蟲造成的伺服器負載與成本分析
+
+- **議題**: `mrorz` 發現自 4/18 起，CloudRun 與主機的運算量皆有提高，懷疑是關閉「Block AI bots」設定所致。
+- **後續**:
+  > mrorz@g0v-tw: "4/18 以來 CloudRun 運算量與主機運算量都比較高，我在懷疑是 4/18 當天我把 Block AI bots 的設定從 Block on all pages 調成 Do not block 導致的
+  > 為了確認成因，我今天再把 toggle 設回 Block on all pages，看看運算量那些會不會下降"
+
+## Discord 伺服器警報
+
+一整週沒 alert，但 4/28 下午怪怪的
+
+## GitHub Activities
+
+### rumors-site
+- **[fix: landing-en typo by MrOrz](https://github.com/cofacts/rumors-site/pull/624)**
+
+### ai
+- **[feat: session title — auto-generate and inline editing by MrOrz](https://github.com/cofacts/ai/pull/32)**
+- **[feat: persist sessions in PostgreSQL via Cloud SQL proxy sidecar by MrOrz](https://github.com/cofacts/ai/pull/33)**
+- **[feat(auth): BFF auth with HttpOnly cookie + SSR by nonumpa](https://github.com/cofacts/ai/pull/25)**
+- **[Add feedback popover with comment for AI responses by MrOrz](https://github.com/cofacts/ai/pull/31)**
+- **[Takedown spam user 軟糖約炮gleezy號ig1234 13Pdzp0BrN44Xa7DlY0l by cofacts-takedown[bot]](https://github.com/cofacts/takedowns/pull/296)**
+- **[Fix Langfuse environment variables in CD workflow by MrOrz](https://github.com/cofacts/ai/pull/29)**
+
+### rumors-api
+- **[feat(auth): Custom Authorization Code Flow with RS256 JWT + JWKS by nonumpa](https://github.com/cofacts/rumors-api/pull/386)**
+
+### opendata
+- **[perf(dump): refactor async iterator merging with promise slots by MrOrz](https://github.com/cofacts/opendata/pull/33)**
 
 
 ---
