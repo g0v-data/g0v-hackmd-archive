@@ -6,7 +6,7 @@ tags: cofacts,
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
+- NPO Hub 出席：bil, lahna, nonumpa, mrorz
 - 線上出席：
 - https://meet.google.com/mrz-dgrd-pri
 :::
@@ -16,20 +16,82 @@ tags: cofacts,
     - [ ] 跑幾週看穩定度，決定是否要再把 tw site 也搬進 GCE
     - [ ] 跑幾個月看實際用到的運算量，決定 GCP committed use discount 怎麼買比較划算
 - [ ] nonumpa: 提高 Discord 進入門檻
-- RightsCon 擺攤 ![](https://g0v.hackmd.io/_uploads/BJsYHeApWl.png)
+   - ![](https://g0v.hackmd.io/_uploads/Hyo2m7Cp-l.png)
+   - [x] AutoMod 開「Mention Spam」+「Spam Content」(discord 預設規則)
+   - [ ] 驗證等級已經是「高」了
+     - ![](https://g0v.hackmd.io/_uploads/SyseEm06Zg.png)
+
+- [ ] RightsCon 擺攤 ![](https://g0v.hackmd.io/_uploads/BJsYHeApWl.png)
     - [ ] X 型布幕 https://www.figma.com/design/1tiXCGut4kNCEkDG9FTza7/LINE-Chat-UI-Template--Community-?node-id=3011-2598&t=M7kq3ymM7XDO2z0s-4
     - [ ] mrorz, bil: 名片
         - mrorz 正在補名片
-    - [ ] bil: 貼紙
+    - [ ] ~~bil~~ mrorz: 貼紙
     - [ ] mrorz: acho 黃色傳單 (英文)，確認 QR code
     - [ ] QR code 板板、Cofacts 板板
     - [ ] 外接螢幕：cofacts Youtube + about page
 - [x] 針對 `Meta-ExternalAgent` 在 Cloudflare 進行頻率限制
-    - [ ] 直接關閉
+    - [x] 直接關閉
 
-## cofacts.ai
+## cofacts.ai & Github update
 
-(已開 PR 者在下方討論)
+> https://github.com/orgs/cofacts/projects/12/views/1
+
+### rumors-site
+- **[fix: landing-en typo by MrOrz](https://github.com/cofacts/rumors-site/pull/624)**
+
+### ai
+- **[feat: session title — auto-generate and inline editing by MrOrz](https://github.com/cofacts/ai/pull/32)**
+- **[feat: persist sessions in PostgreSQL via Cloud SQL proxy sidecar by MrOrz](https://github.com/cofacts/ai/pull/33)**
+- **[feat(auth): BFF auth with HttpOnly cookie + SSR by nonumpa](https://github.com/cofacts/ai/pull/25)**
+- **[Add feedback popover with comment for AI responses by MrOrz](https://github.com/cofacts/ai/pull/31)**
+  - checkbox 與純文字會壓成一個純文字，需要載下來分析 or 使用 LLM
+  - 更新選項不會溯及既往
+  - 要再討論勾選選項
+- **[Fix Langfuse environment variables in CD workflow by MrOrz](https://github.com/cofacts/ai/pull/29)**
+
+:::info
+TODO: 把 login user 的 userId 接到 ADK 與 langfuse feedback
+:::
+
+---
+
+現在 cofacts.ai 使用上有幾個用起來很令人煩躁的點，好奇使用者這裡有沒有共鳴：
+
+1. 即使在輸入法組字、選字的狀況，按 enter 就會直接送出
+2. 送出了就停不下來，沒辦法像 gemini 那樣讓人能手動停止並重送指令
+6. 輸入到一半或 agent 還在想的時候不小心按到關閉分頁，沒有跳出確認視窗讓人確認要不要關閉
+
+---
+
+3. 如果對最新的回應不滿意，也沒有鉛筆功能讓人重送 prompt （gemini 在最新的使用者訊息旁邊有小鉛筆）
+4. 不能送圖片給 agent 分析
+5. ~~Agent 還在分析的時候，沒辦法傳訊息給 agent 做 steering（這個是 coding agent 比較多有這樣的設計）~~
+    - 使用者可以把執行停下來打 prompt，queued steering 沒必要 [name=mrorz]
+
+我是覺得每個都值得開張票，但應該一起討論一下哪些要先做、還有哪些是開始給更多人用之前一定要修掉的東西（也就是進入 nDX 第二階段的 blocker，理論上 5/1 要進 🫠🫠🫠 ）
+
+:::info
+結論：除了 5 之外都開票
+1, 2, 6 放第一階段，其他放第二階段
+:::
+
+### rumors-api
+- **[feat(auth): Custom Authorization Code Flow with RS256 JWT + JWKS by nonumpa](https://github.com/cofacts/rumors-api/pull/386)**
+    - 使用 RS256 演算法，雖然目前沒有 client 自己驗證的需求(直接把 jwt token 丟給 api)
+        - 沒有設定 iss/aud，跟 security 無關、client 沒有 verify，所以沒做也還好
+    - 短效期 code 有效時間為 60 秒，目前沒有做成 one-time code (需要依賴 redis 或其他 db)
+    - bearer token 過期/無效會回傳 401
+    - follow-up: twitter login 需移除
+    - ready for review
+
+:::info
+開票拿掉 twitter login
+:::
+
+### opendata
+- **[perf(dump): refactor async iterator merging with promise slots by MrOrz](https://github.com/cofacts/opendata/pull/33)**
+    - 先放著
+
 
 ## Elasticsearch 記憶體與 Swap 效能優化
 
@@ -60,44 +122,91 @@ tags: cofacts,
 
 ## Discord 伺服器警報
 
-一整週沒 alert，但 4/28 下午怪怪的。
+一整週沒 alert，但 4/28 下午怪怪的。還在研究
 
-## GitHub Activities
-
-### rumors-site
-- **[fix: landing-en typo by MrOrz](https://github.com/cofacts/rumors-site/pull/624)**
-
-### ai
-- **[feat: session title — auto-generate and inline editing by MrOrz](https://github.com/cofacts/ai/pull/32)**
-- **[feat: persist sessions in PostgreSQL via Cloud SQL proxy sidecar by MrOrz](https://github.com/cofacts/ai/pull/33)**
-- **[feat(auth): BFF auth with HttpOnly cookie + SSR by nonumpa](https://github.com/cofacts/ai/pull/25)**
-- **[Add feedback popover with comment for AI responses by MrOrz](https://github.com/cofacts/ai/pull/31)**
-- **[Takedown spam user 軟糖約炮gleezy號ig1234 13Pdzp0BrN44Xa7DlY0l by cofacts-takedown[bot]](https://github.com/cofacts/takedowns/pull/296)**
-- **[Fix Langfuse environment variables in CD workflow by MrOrz](https://github.com/cofacts/ai/pull/29)**
+**時間**：2026-04-28 15:15 – 16:10 台灣時間（07:15 – 08:10 UTC）  
+**影響**：`cofacts.tw` 及 `api.cofacts.tw` Health Check 觸發 HTTP timeout alert  
+**嚴重性**：中（服務降級，非完全中斷）
 
 ---
 
-現在 cofacts.ai 使用上有幾個用起來很令人煩躁的點，好奇使用者這裡有沒有共鳴：
+### 事件時間軸
 
-1. 即使在輸入法組字、選字的狀況，按 enter 就會直接送出
-2. 送出了就停不下來，沒辦法像 gemini 那樣讓人能手動停止並重送指令
-3. 如果對最新的回應不滿意，也沒有鉛筆功能讓人重送 prompt （gemini 在最新的使用者訊息旁邊有小鉛筆）
-4. 不能送圖片給 agent 分析
-5. Agent 還在分析的時候，沒辦法傳訊息給 agent 做 steering（這個是 coding agent 比較多有這樣的設計）
-6. 輸入到一半或 agent 還在想的時候不小心按到關閉分頁，沒有跳出確認視窗讓人確認要不要關閉
+| 時間（台灣） | 事件 |
+|---|---|
+| 15:19 | Cloudflare Health Check `cofacts.tw` → Unhealthy (HTTP timeout) |
+| 15:22 | Cloudflare Health Check `cofacts.tw` → Unhealthy |
+| **15:15–15:45** | **ES GC 密集觸發（每隔數分鐘），最嚴重時 GC overhead 1.1s/1.7s** |
+| 15:30 | Cloudflare Health Check `api.cofacts.tw` → Unhealthy |
+| 15:40 | Cloudflare Health Check `api.cofacts.tw` → Unhealthy |
+| 15:57 | Cloudflare Health Check `cofacts.tw` → Unhealthy |
+| 16:03 | Cloudflare Health Check `cofacts.tw` → Unhealthy（最後一筆 alert） |
 
-我是覺得每個都值得開張票，但應該一起討論一下哪些要先做、還有哪些是開始給更多人用之前一定要修掉的東西（也就是進入 nDX 第二階段的 blocker，理論上 5/1 要進 🫠🫠🫠 ）
+---
 
-### rumors-api
-- **[feat(auth): Custom Authorization Code Flow with RS256 JWT + JWKS by nonumpa](https://github.com/cofacts/rumors-api/pull/386)**
-    - 使用 RS256 演算法，雖然目前沒有 client 自己驗證的需求(直接把 jwt token 丟給 api)
-        - 沒有設定 iss/aud，跟 security 無關、client 沒有 verify，所以沒做也還好
-    - 短效期 code 有效時間為 60 秒，目前沒有做成 one-time code (需要依賴 redis 或其他 db)
-    - bearer token 過期/無效會回傳 401
-    - follow-up: twitter login 需移除
+### 根本原因
 
-### opendata
-- **[perf(dump): refactor async iterator merging with promise slots by MrOrz](https://github.com/cofacts/opendata/pull/33)**
+**Python botnet 對 `api.cofacts.tw/graphql` 發動大量請求，壓垮 Elasticsearch，觸發連鎖 GC 壓力 → API timeout。**
+
+### 攻擊特徵（Cloudflare Security Analytics，15:00–17:00）
+
+| 指標 | 數值 |
+|---|---|
+| 期間內總 requests | ~139k（Cloudflare 端） |
+| **524 Origin Time-out** | **31.45k** |
+| 499 Client Closed Request | 25.68k |
+| 200 OK | 52.91k |
+
+**主要攻擊來源：**
+
+| Source IP | Requests | ASN |
+|---|---|---|
+| `34.81.219.20` | 32k | **Google LLC (396982)** |
+| `54.248.237.122` | 6.35k | Amazon EC2 (16509) |
+| `35.72.187.57` | 6.31k | Amazon EC2 (16509) |
+
+**User-Agent**：`Python/3.8 aiohttp/3.7.4.post0`（Python 腳本/botnet）
+
+**攻擊目標路徑：`/graphql`（69.43k requests，佔大多數）**
+
+### Cloudflare WAF 攔截情況
+
+| 規則 | 動作 | 觸發數 |
+|---|---|---|
+| `Challenge GET /graphql Johnson@20251218` | Managed Challenge | ~19.1k |
+| `尋找Bot API Probing的Fallthrough Rule@A` | Allow（穿透到 origin） | ~22k |
+| Skip | — | 405.63k |
+
+→ 約 **22k 個 requests 穿透到 origin server**，造成 Elasticsearch 過載。
+
+### GCE 端的資源狀況（今日全天）
+
+| 指標 | 數值 | 備注 |
+|---|---|---|
+| CPU max | **99.99%** 🔴 | 今日 p95 也達 99.23% |
+| RAM max | **91.27%** 🔴 | 今日 p95 87.96% |
+| Swap max | **61.12%** 🟡 | 一度回升至 61%（平時 ~18%） |
+
+**Elasticsearch GC 事件（07:22–08:25 UTC）：**
+- `07:22:08` – GC overhead 324ms/1s
+- `07:33:19` – GC overhead 461ms/1.2s
+- `07:33:20` – GC overhead 480ms/1s
+- `07:34:10` – GC overhead 270ms/1s
+- `07:34:53` – **GC overhead 1.1s/1.7s ⚠️ WARN**
+- `07:39:42` – GC overhead 328ms/1.1s
+- `08:09:24` – GC overhead 437ms/1s
+- `08:25:47` – GC overhead 286ms/1s
+
+ES 在大量 `/graphql` 查詢壓力下，JVM GC 頻繁 STW（Stop-The-World），導致 API 回應超時，Cloudflare 回 524。
+
+### 現有防禦分析
+
+| 防線 | 狀態 | 問題 |
+|---|---|---|
+| `Challenge GET /graphql Johnson@20251218` | 🟡 有效但不足 | 只攔 19.1k，放過 22k |
+| `尋找Bot API Probing的Fallthrough Rule@A` | 🔴 Allow 穿透 | 這些流量直達 origin |
+| Block AI bots（4/23 恢復） | 🟢 有在 | 但這次是 Python aiohttp，不走 AI bot UA |
+
 
 
 ---

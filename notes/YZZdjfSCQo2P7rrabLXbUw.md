@@ -7,6 +7,7 @@
 
 :::
 
+https://docs.google.com/presentation/d/1Ghb6H6WGf1q3NZVRRNodanDQ575m84jv/edit?usp=sharing&ouid=103316880077716122371&rtpof=true&sd=true
 
 動物方城市2》主題曲 Shakira - Zoo 中文翻譯
 https://www.youtube.com/watch?v=7pQZQyMwqIw
