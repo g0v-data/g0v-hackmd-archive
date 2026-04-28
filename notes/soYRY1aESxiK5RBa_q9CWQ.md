@@ -27,6 +27,10 @@ tags: cofacts,
 - [x] 針對 `Meta-ExternalAgent` 在 Cloudflare 進行頻率限制
     - [ ] 直接關閉
 
+## cofacts.ai
+
+(已開 PR 者在下方討論)
+
 ## Elasticsearch 記憶體與 Swap 效能優化
 
 - **議題**: `Alfred chen` 建議關閉 Elasticsearch 的 swap 功能以增進效能，並引用官方文件佐證。
@@ -54,10 +58,9 @@ tags: cofacts,
 
 結論：Block AI Bots 功能對系統負載有顯著保護效果，細節見 Cofacts production weekly report
 
-
 ## Discord 伺服器警報
 
-一整週沒 alert，但 4/28 下午怪怪的
+一整週沒 alert，但 4/28 下午怪怪的。
 
 ## GitHub Activities
 
@@ -71,6 +74,19 @@ tags: cofacts,
 - **[Add feedback popover with comment for AI responses by MrOrz](https://github.com/cofacts/ai/pull/31)**
 - **[Takedown spam user 軟糖約炮gleezy號ig1234 13Pdzp0BrN44Xa7DlY0l by cofacts-takedown[bot]](https://github.com/cofacts/takedowns/pull/296)**
 - **[Fix Langfuse environment variables in CD workflow by MrOrz](https://github.com/cofacts/ai/pull/29)**
+
+---
+
+現在 cofacts.ai 使用上有幾個用起來很令人煩躁的點，好奇使用者這裡有沒有共鳴：
+
+1. 即使在輸入法組字、選字的狀況，按 enter 就會直接送出
+2. 送出了就停不下來，沒辦法像 gemini 那樣讓人能手動停止並重送指令
+3. 如果對最新的回應不滿意，也沒有鉛筆功能讓人重送 prompt （gemini 在最新的使用者訊息旁邊有小鉛筆）
+4. 不能送圖片給 agent 分析
+5. Agent 還在分析的時候，沒辦法傳訊息給 agent 做 steering（這個是 coding agent 比較多有這樣的設計）
+6. 輸入到一半或 agent 還在想的時候不小心按到關閉分頁，沒有跳出確認視窗讓人確認要不要關閉
+
+我是覺得每個都值得開張票，但應該一起討論一下哪些要先做、還有哪些是開始給更多人用之前一定要修掉的東西（也就是進入 nDX 第二階段的 blocker，理論上 5/1 要進 🫠🫠🫠 ）
 
 ### rumors-api
 - **[feat(auth): Custom Authorization Code Flow with RS256 JWT + JWKS by nonumpa](https://github.com/cofacts/rumors-api/pull/386)**
