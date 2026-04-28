@@ -11,10 +11,7 @@ tags: cofacts,
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
-## 追蹤事項
-
-
-### 上週待辦
+## 上週待辦
 - [ ] GCE Migration
     - [ ] 跑幾週看穩定度，決定是否要再把 tw site 也搬進 GCE
     - [ ] 跑幾個月看實際用到的運算量，決定 GCP committed use discount 怎麼買比較划算
@@ -27,16 +24,10 @@ tags: cofacts,
     - [ ] mrorz: acho 黃色傳單 (英文)，確認 QR code
     - [ ] QR code 板板、Cofacts 板板
     - [ ] 外接螢幕：cofacts Youtube + about page
-- [ ] 針對 `Meta-ExternalAgent` 在 Cloudflare 進行頻率限制
+- [x] 針對 `Meta-ExternalAgent` 在 Cloudflare 進行頻率限制
+    - [ ] 直接關閉
 
-### AI 爬蟲造成的伺服器負載
-見週報
-
-# 會議前週報
-
-## Discord 一般頻道
-
-### Elasticsearch 記憶體與 Swap 效能優化
+## Elasticsearch 記憶體與 Swap 效能優化
 
 - **議題**: `Alfred chen` 建議關閉 Elasticsearch 的 swap 功能以增進效能，並引用官方文件佐證。
 - **討論**:
@@ -54,12 +45,15 @@ tags: cofacts,
   >     ◦ ✅ 服務正常：API 與網站讀取功能均已確認恢復正常。
   > 目前觀察 CPU 已降至穩定水位，後續會持續監控記憶體用量。"
 
-### AI 爬蟲造成的伺服器負載與成本分析
+## AI 爬蟲造成的伺服器負載與成本分析
 
 - **議題**: `mrorz` 發現自 4/18 起，CloudRun 與主機的運算量皆有提高，懷疑是關閉「Block AI bots」設定所致。
 - **後續**:
   > mrorz@g0v-tw: "4/18 以來 CloudRun 運算量與主機運算量都比較高，我在懷疑是 4/18 當天我把 Block AI bots 的設定從 Block on all pages 調成 Do not block 導致的
-  > 為了確認成因，我今天再把 toggle 設回 Block on all pages，看看運算量那些會不會下降"
+  > 為了確認成因，我今天再把 toggle 設回 Block on all pages，看看運算量那些會不會下降
+
+結論：Block AI Bots 功能對系統負載有顯著保護效果，細節見 Cofacts production weekly report
+
 
 ## Discord 伺服器警報
 
