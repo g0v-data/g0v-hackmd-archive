@@ -122,8 +122,6 @@ TODO: 把 login user 的 userId 接到 ADK 與 langfuse feedback
 
 ## Discord 伺服器警報
 
-一整週沒 alert，但 4/28 下午怪怪的。還在研究
-
 **時間**：2026-04-28 15:15 – 16:10 台灣時間（07:15 – 08:10 UTC）  
 **影響**：`cofacts.tw` 及 `api.cofacts.tw` Health Check 觸發 HTTP timeout alert  
 **嚴重性**：中（服務降級，非完全中斷）
@@ -135,79 +133,57 @@ TODO: 把 login user 的 userId 接到 ADK 與 langfuse feedback
 | 時間（台灣） | 事件 |
 |---|---|
 | 15:19 | Cloudflare Health Check `cofacts.tw` → Unhealthy (HTTP timeout) |
-| 15:22 | Cloudflare Health Check `cofacts.tw` → Unhealthy |
-| **15:15–15:45** | **ES GC 密集觸發（每隔數分鐘），最嚴重時 GC overhead 1.1s/1.7s** |
+| 15:15–15:45 | **Elasticsearch GC 密集觸發，最嚴重時 GC overhead 1.1s/1.7s** |
 | 15:30 | Cloudflare Health Check `api.cofacts.tw` → Unhealthy |
-| 15:40 | Cloudflare Health Check `api.cofacts.tw` → Unhealthy |
-| 15:57 | Cloudflare Health Check `cofacts.tw` → Unhealthy |
-| 16:03 | Cloudflare Health Check `cofacts.tw` → Unhealthy（最後一筆 alert） |
+| 16:03 | 服務逐漸恢復正常（最後一筆 alert） |
 
----
+| 時間 (UTC) | Spam 請求數 (/user/*) | 524 錯誤數 (Timeout) | 事件說明 |
+|---|---|---|---|
+| 07:11 | 7 | 0 | 正常狀態 |
+| **07:12** | **31** | **321** | **Spam 爬取激增，524 開始出現** |
+| 07:13 | 20 | 1,577 | ES 開始陷入 GC 停頓 |
+| **07:18** | 17 | **2,116** | **錯誤達到峰值，Health Check 告警** |
+| 07:36 | 16 | 1,804 | 第二波持續壓力 |
+| 08:05 | 39 | 215 | 第三波 Spam 峰值 |
+
 
 ### 根本原因
 
-**Python botnet 對 `api.cofacts.tw/graphql` 發動大量請求，壓垮 Elasticsearch，觸發連鎖 GC 壓力 → API timeout。**
+**分散式 SEO Spam 爬蟲針對大量垃圾帳號頁面（`/user/[spam-id]`）發動掃描，導致 Elasticsearch 查詢壓力過大，觸發頻繁 GC，進而拖垮 API 回應速度。**
 
-### 攻擊特徵（Cloudflare Security Analytics，15:00–17:00）
-
-| 指標 | 數值 |
+| 指標 | 描述 |
 |---|---|
-| 期間內總 requests | ~139k（Cloudflare 端） |
-| **524 Origin Time-out** | **31.45k** |
-| 499 Client Closed Request | 25.68k |
-| 200 OK | 52.91k |
+| **攻擊目標** | `/user/` 系列路徑（如 `/user/86betws`, `/user/be5foodsupplement`） |
+| **流量特徵** | 來源極度分散，跨越全球數十個 ASN（如 OVH, Viettel, Hurricane Electric） |
+| **User-Agent** | 多變且偽裝（含 WordPress, 舊版 Chrome, 各類 Bot） |
+| **ES 壓力源** | 針對垃圾 User Profile 的渲染與檢索，耗盡 JVM 資源 |
 
-**主要攻擊來源：**
+### TOP 10 SEO Spam 路徑 (15:10 - 15:50 累計次數)
+1. `/user/86betws` (70次)
+2. `/user/be5foodsupplement` (15次)
+3. `/user/86betvg` (14次)
+4. `/user/be5nasalspray` (13次)
+5. `/user/fobsvzxukcom` (10次)
+6. `/user/fl88actor` (9次)
+7. `/user/dulieubongdaso` (9次)
+8. `/user/qq882tomcom` (8次)
+9. `/user/33wincxyz` (8次)
+10. `/user/999betdev` (7次)
 
-| Source IP | Requests | ASN |
-|---|---|---|
-| `34.81.219.20` | 32k | **Google LLC (396982)** |
-| `54.248.237.122` | 6.35k | Amazon EC2 (16509) |
-| `35.72.187.57` | 6.31k | Amazon EC2 (16509) |
+#### 流量對照分析
 
-**User-Agent**：`Python/3.8 aiohttp/3.7.4.post0`（Python 腳本/botnet）
+| IP / 來源 | 性質 | 狀態 | 備註 |
+|---|---|---|---|
+| `34.81.219.20` | **正常下游** | 524 (Timeout) | 因原站變慢而堆積請求，誤判為攻擊源 |
+| `Distributed IPs` | **SEO Spam 爬蟲** | 524 / 504 | 真正引發 ES GC 壓力的元兇 |
+| `Bing/Amazon Bot` | 合法爬蟲 | 524 | 在系統不穩定期間進一步加重搜尋壓力 |
 
-**攻擊目標路徑：`/graphql`（69.43k requests，佔大多數）**
+---
 
-### Cloudflare WAF 攔截情況
+### 已採取行動
+**保護 `/user/` 路徑**：在 Cloudflare WAF 針對 `/user/` 增加速率限制或 Managed Challenge。
 
-| 規則 | 動作 | 觸發數 |
-|---|---|---|
-| `Challenge GET /graphql Johnson@20251218` | Managed Challenge | ~19.1k |
-| `尋找Bot API Probing的Fallthrough Rule@A` | Allow（穿透到 origin） | ~22k |
-| Skip | — | 405.63k |
-
-→ 約 **22k 個 requests 穿透到 origin server**，造成 Elasticsearch 過載。
-
-### GCE 端的資源狀況（今日全天）
-
-| 指標 | 數值 | 備注 |
-|---|---|---|
-| CPU max | **99.99%** 🔴 | 今日 p95 也達 99.23% |
-| RAM max | **91.27%** 🔴 | 今日 p95 87.96% |
-| Swap max | **61.12%** 🟡 | 一度回升至 61%（平時 ~18%） |
-
-**Elasticsearch GC 事件（07:22–08:25 UTC）：**
-- `07:22:08` – GC overhead 324ms/1s
-- `07:33:19` – GC overhead 461ms/1.2s
-- `07:33:20` – GC overhead 480ms/1s
-- `07:34:10` – GC overhead 270ms/1s
-- `07:34:53` – **GC overhead 1.1s/1.7s ⚠️ WARN**
-- `07:39:42` – GC overhead 328ms/1.1s
-- `08:09:24` – GC overhead 437ms/1s
-- `08:25:47` – GC overhead 286ms/1s
-
-ES 在大量 `/graphql` 查詢壓力下，JVM GC 頻繁 STW（Stop-The-World），導致 API 回應超時，Cloudflare 回 524。
-
-### 現有防禦分析
-
-| 防線 | 狀態 | 問題 |
-|---|---|---|
-| `Challenge GET /graphql Johnson@20251218` | 🟡 有效但不足 | 只攔 19.1k，放過 22k |
-| `尋找Bot API Probing的Fallthrough Rule@A` | 🔴 Allow 穿透 | 這些流量直達 origin |
-| Block AI bots（4/23 恢復） | 🟢 有在 | 但這次是 Python aiohttp，不走 AI bot UA |
-
-
+![](https://g0v.hackmd.io/_uploads/rJ9SQIJAZe.png)
 
 ---
 
