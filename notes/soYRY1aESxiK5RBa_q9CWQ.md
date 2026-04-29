@@ -120,7 +120,7 @@ TODO: 把 login user 的 userId 接到 ADK 與 langfuse feedback
 
 結論：Block AI Bots 功能對系統負載有顯著保護效果，細節見 Cofacts production weekly report
 
-## Discord 伺服器警報
+## Discord 伺服器警報 - 2026-04-28 下午 HTTP Timeout
 
 **時間**：2026-04-28 15:15 – 16:10 台灣時間（07:15 – 08:10 UTC）  
 **影響**：`cofacts.tw` 及 `api.cofacts.tw` Health Check 觸發 HTTP timeout alert  
@@ -137,53 +137,46 @@ TODO: 把 login user 的 userId 接到 ADK 與 langfuse feedback
 | 15:30 | Cloudflare Health Check `api.cofacts.tw` → Unhealthy |
 | 16:03 | 服務逐漸恢復正常（最後一筆 alert） |
 
+---
+
+### 根本原因
+
+分散式 SEO Spam 爬蟲針對大量垃圾帳號頁面（`/user/[spam-id]`）發動掃描，並觸發了大量針對垃圾關鍵字的 `/search` 請求。這兩股針對 Elasticsearch 的沉重負載連鎖爆發，導致 ES 資源耗盡並頻繁觸發 GC，進而拖垮 API 回應速度。
+
+| 指標 | 描述 |
+|---|---|
+| **攻擊目標 A** | `/user/` 系列路徑（如 `/user/86betws`, `/user/be5foodsupplement`） |
+| **攻擊目標 B** | `/search?q=...` 包含廣告關鍵字、Temu 商品 ID 或超長法律條文 |
+| **流量特徵** | 來源極度分散，跨越全球數十個機房 ASN，規避單一 IP 速率限制 |
+| **ES 壓力源** | 針對垃圾 User Profile 的渲染檢索，以及複雜、長字串的搜尋運算 |
+
+![](https://g0v.hackmd.io/_uploads/SkBR1Dy0Ze.png)
+![](https://g0v.hackmd.io/_uploads/S19A1DkC-g.png)
+
 | 時間 (UTC) | Spam 請求數 (/user/*) | 524 錯誤數 (Timeout) | 事件說明 |
 |---|---|---|---|
 | 07:11 | 7 | 0 | 正常狀態 |
 | **07:12** | **31** | **321** | **Spam 爬取激增，524 開始出現** |
 | 07:13 | 20 | 1,577 | ES 開始陷入 GC 停頓 |
 | **07:18** | 17 | **2,116** | **錯誤達到峰值，Health Check 告警** |
-| 07:36 | 16 | 1,804 | 第二波持續壓力 |
-| 08:05 | 39 | 215 | 第三波 Spam 峰值 |
+| 08:00 | 9 | 184 | `/search` 流量翻倍高峰 (1,250次/hr) |
+
+### 惡意搜尋內容範例 (Malicious Search Queries)
+*   **Temu 商品關聯：** `site:temu.com "606143313197921"` (大量不同數字 ID)
+*   **SEO 廣告推廣：** 「外貿獨立站推廣」、「歡迎訪問六五Ai站群搜尋引擎系統」(包含網址與電話)
+*   **壓力測試/注入：** 搜尋整段長篇法律條文（如「郵局郵件內裝有禁寄文件...」）
+
+## 已採取行動
+
+**封鎖 SEO 爬蟲**：在 Cloudflare WAF 將 `/user/*` 與 `/search` 針對非 Known Bot 開啟 **Managed Challenge**。
+
+![](https://g0v.hackmd.io/_uploads/BJ_Lbw1C-g.png)
 
 
-### 根本原因
+目前捕捉到的均為 spammer
 
-**分散式 SEO Spam 爬蟲針對大量垃圾帳號頁面（`/user/[spam-id]`）發動掃描，導致 Elasticsearch 查詢壓力過大，觸發頻繁 GC，進而拖垮 API 回應速度。**
+![](https://g0v.hackmd.io/_uploads/SkSwmv1R-e.png)
 
-| 指標 | 描述 |
-|---|---|
-| **攻擊目標** | `/user/` 系列路徑（如 `/user/86betws`, `/user/be5foodsupplement`） |
-| **流量特徵** | 來源極度分散，跨越全球數十個 ASN（如 OVH, Viettel, Hurricane Electric） |
-| **User-Agent** | 多變且偽裝（含 WordPress, 舊版 Chrome, 各類 Bot） |
-| **ES 壓力源** | 針對垃圾 User Profile 的渲染與檢索，耗盡 JVM 資源 |
-
-### TOP 10 SEO Spam 路徑 (15:10 - 15:50 累計次數)
-1. `/user/86betws` (70次)
-2. `/user/be5foodsupplement` (15次)
-3. `/user/86betvg` (14次)
-4. `/user/be5nasalspray` (13次)
-5. `/user/fobsvzxukcom` (10次)
-6. `/user/fl88actor` (9次)
-7. `/user/dulieubongdaso` (9次)
-8. `/user/qq882tomcom` (8次)
-9. `/user/33wincxyz` (8次)
-10. `/user/999betdev` (7次)
-
-#### 流量對照分析
-
-| IP / 來源 | 性質 | 狀態 | 備註 |
-|---|---|---|---|
-| `34.81.219.20` | **正常下游** | 524 (Timeout) | 因原站變慢而堆積請求，誤判為攻擊源 |
-| `Distributed IPs` | **SEO Spam 爬蟲** | 524 / 504 | 真正引發 ES GC 壓力的元兇 |
-| `Bing/Amazon Bot` | 合法爬蟲 | 524 | 在系統不穩定期間進一步加重搜尋壓力 |
-
----
-
-### 已採取行動
-**保護 `/user/` 路徑**：在 Cloudflare WAF 針對 `/user/` 增加速率限制或 Managed Challenge。
-
-![](https://g0v.hackmd.io/_uploads/rJ9SQIJAZe.png)
 
 ---
 
