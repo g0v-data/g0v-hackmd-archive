@@ -1,6 +1,6 @@
-https://www.nonwovenline.com
-Zhejiang Yanpeng Nonwoven Machinery Co Ltd. is a professional manufacturer specializing in the research and development of non-woven production lines.
-+86 138 6859 4229
+https://www.hzshengsha.com
 
-Ping hai Road, Binhai New District Pingyang County, Zhejiang, China
+Hangzhou Sunshine Packaging Technology Co Ltd was established in 2016 and is a cosmetics packaging export enterprise, mainly engaged in various types of cosmetics packaging.
++86 190 1696 8738
+Room 710, 177 Gongwang Street, Fuchun Street, Hangzhou, Zhejiang, China
 
