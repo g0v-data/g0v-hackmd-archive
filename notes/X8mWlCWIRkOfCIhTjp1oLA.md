@@ -146,6 +146,9 @@ https://tw.news.yahoo.com/%E8%A1%8C%E4%BA%BA%E5%9C%B0%E7%8D%84-%E6%B1%BD%E8%BB%8
 多地點，寧靜巷弄(已標註於地圖)
 https://www.facebook.com/groups/twroadclub/permalink/2432209236958837/
 
+內湖東湖
+https://www.threads.com/@chill_yi.io/post/DXtgArVFPVL?xmt=AQF0McHAFvpfazIqw4uLNDTICnDAaK8HDYAesLuFOLY4XgbRgNmfm5tsZ579VbnsYJgMRI8&slof=1
+
 松江詩園北側巷弄應評估無車化(已標註於地圖)
 https://photos.app.goo.gl/WtcWuB9EveTdFedB8
 > [現今左側大樓已建成，並有地下車道，是因為這邊車流量本來就很小嗎?還是旁邊松江路84巷可取代其功能?]
@@ -244,7 +247,7 @@ https://www.facebook.com/VisionZeroTW/posts/pfbid02tJBn3AkmVnzzhatzhwqqW5ZGZXKTU
 - 市區綠道路認證評估作業前期規劃 https://ronnywang.github.io/pcc-viewer/tender.html?unit_id=3.1.2&job_number=112-G201-0101-0000-4270&date=20230626&filename=BDM-1-70322575
 - 內政部國土管理署人本度陸資訊網 https://myway.nlma.gov.tw/index.php
   - 主要業務連接有已完成案例
--街道醫生網站
+- 街道醫生網站
 https://www.drstreet.net/
 
 
