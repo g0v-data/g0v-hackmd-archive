@@ -40,8 +40,6 @@
 經查主要支出來自於 `Services CPU` 與 `Network Data Transfer Out`。
 雖然 Staging 網頁（如 `dev.cofacts.tw`）已設定 `x-robot-tag: noindex`，但費用仍居高不下。
 
-![](https://g0v.hackmd.io/_uploads/H1epVwvJCZx.png)
-
 ## 2. 流量分析報告 (過去 7 天)
 
 根據 Cloudflare GraphQL Analytics 資料，Staging 環境遭受大量商業爬蟲存取：
@@ -52,6 +50,7 @@
 | `dev.cofacts.tw` | 319,731 | 商業爬蟲 (Meta, DotBot, Amazon) |
 | `dev-ja.cofacts.tw` | 131,838 | 商業爬蟲 (Amazon, Applebot) |
 | `dev-en.cofacts.tw` | 78,364 | 商業爬蟲 (Amazon, Applebot) |
+| `dev-line-bot.cofacts.tw` | ~2,000 | 惡意漏洞掃描 (Vulnerability Probing) |
 | `dev-api.cofacts.tw` | 391,906 | 內部 SSR 請求 (由上述網頁喚醒) |
 
 ### 主要爬蟲來源 (`dev.cofacts.tw`)
@@ -59,29 +58,33 @@
 - **DotBot (Moz.com)**: ~7.8 萬次 (24%)
 - **Amazon SearchBot**: ~4.2 萬次 (13%)
 
+### 漏洞掃描特徵 (`dev-line-bot.cofacts.tw`)
+- **惡意路徑**: 大量請求 `wp-kikikoko.php`, `radio.php`, `alfa-rex.php7` 等非預期路徑。
+- **特徵**: User-Agent 多為空字串，來源 IP 雜亂，顯然在探測 Web Shell 或 WordPress 漏洞。
+
 ## 3. 根本原因分析
 1.  **Serverless 喚醒機制**：只要有請求進入，Cloud Run 就會喚醒實例。
 2.  **爬蟲無視標籤**：即便有 `noindex`，爬蟲仍必須下載並渲染頁面後才能讀取標籤。
 3.  **SSR 連鎖反應**：網頁端的 SSR 會同步喚醒 API 端的 Cloud Run，導致雙倍計費。
+4.  **無差別探測**：Bot 會掃描所有子網域的常見漏洞路徑，持續產生喚醒成本。
 
 ## 4. 處理決策
 為了立即止血並將 Staging 費用降至最低，決定採取以下行動：
 
-### 決策：全站部署 Cloudflare Managed Challenge
-- **執行對象**：`dev.cofacts.tw`, `dev-en.cofacts.tw`, `dev-ja.cofacts.tw`
-- **執行方式**：在 Cloudflare WAF 建立 Custom Rule，針對上述 Hostnames 套用 `Managed Challenge`。
-- **預期效果**：
-    - 在 Cloudflare 邊緣節點攔截 99% 以上的爬蟲流量。
-    - 請求不會轉發至 GCP，Cloud Run 實例將保持縮減 (Scaled to 0)。
-    - 相關費用預計減少 90% 以上。
+### 決策：Cloudflare WAF 分級防禦
+1.  **全站挑戰 (Managed Challenge)**：
+    - **對象**：`dev.cofacts.tw`, `dev-en.cofacts.tw`, `dev-ja.cofacts.tw`
+    - **效果**：在 Cloudflare 邊緣攔截 99% 爬蟲，讓 Cloud Run 保持 Scaled to 0。
+2.  **精準防禦 (Selective Defense)**：
+    - **對象**：`dev-line-bot.cofacts.tw`
+    - **規則**：僅允許 User-Agent 包含 `LineBot` 的請求，其餘流量一律套用 `Managed Challenge`。
+    - **效果**：阻斷漏洞掃描，同時確保 LINE Webhook 測試功能不受影響。
 
 ### 注意事項
-- **開發體驗**：開發者手動進入 Staging 時需通過一次性驗證。
+- **開發體驗**：開發者手動進入 Staging 網頁時需通過一次性驗證。
 - **API 隔離**：`dev-api.cofacts.tw` 由於運行於 VPS，不受喚醒費用影響，暫不強制要求挑戰。
-- **排除規則**：若需測試 LINE Bot Webhook，應將 `dev-line-bot.cofacts.tw` 排除在規則外。
 
 ---
 **分析者**: Gemini CLI
 **日期**: 2026-04-29
-
 
