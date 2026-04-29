@@ -24,11 +24,14 @@
 
 ### cofacts.ai tickets
 - [ ] 將登入使用者的 userId 傳遞給 ADK 與 Langfuse feedback
-- [ ] (第一階段) 輸入法組字時按 Enter 會直接送出訊息
-- [ ] (第一階段) 無法中途停止 AI 回應生成
-- [ ] (第一階段) 在輸入或生成中關閉分頁沒有提示
-- [ ] (第二階段) 讓使用者可以編輯自己的提問
-- [ ] (第二階段) 讓使用者可以上傳圖片進行分析
+
+| # | 標題 | Phase |
+|---|------|-------|
+| [#35](https://github.com/cofacts/ai/issues/35) | Fix: IME 組字期間按 Enter 不應送出訊息 | Phase 1 |
+| [#36](https://github.com/cofacts/ai/issues/36) | Feat: 新增停止 agent 回應的按鈕 | Phase 1 |
+| [#37](https://github.com/cofacts/ai/issues/37) | Feat: 關閉分頁前顯示確認提示 | Phase 1 |
+| [#38](https://github.com/cofacts/ai/issues/38) | Feat: 最後一則使用者訊息可編輯重送（鉛筆功能） | Phase 2 |
+| [#39](https://github.com/cofacts/ai/issues/39) | Feat: 支援圖片輸入 | Phase 2
 
 ### rumors-api tickets
 - [ ] 移除 Twitter 登入功能
@@ -72,10 +75,10 @@
 為了立即止血並將 Staging 費用降至最低，決定採取以下行動：
 
 ### 決策：Cloudflare WAF 分級防禦
-1.  **全站挑戰 (Managed Challenge)**：
+1.  **全站挑戰 (Managed Challenge)**： ![](https://g0v.hackmd.io/_uploads/ByvBa51Cbg.png)
     - **對象**：`dev.cofacts.tw`, `dev-en.cofacts.tw`, `dev-ja.cofacts.tw`
     - **效果**：在 Cloudflare 邊緣攔截 99% 爬蟲，讓 Cloud Run 保持 Scaled to 0。
-2.  **精準防禦 (Selective Defense)**：
+2.  **精準防禦 (Selective Defense)**： ![](https://g0v.hackmd.io/_uploads/BymUa91R-g.png)
     - **對象**：`dev-line-bot.cofacts.tw`
     - **規則**：僅允許 User-Agent 包含 `LineBot` 的請求，其餘流量一律套用 `Managed Challenge`。
     - **效果**：阻斷漏洞掃描，同時確保 LINE Webhook 測試功能不受影響。
