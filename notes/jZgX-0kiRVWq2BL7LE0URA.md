@@ -133,9 +133,10 @@ https://www.vtaiwan.tw/jitsi
 - 報告實例[台灣非學校(自學)社群的現況與展望](https://www.alearn.org.tw/report)
 - Github 網站議題已開 https://github.com/g0v/vue.vTaiwan-neo/issues/127
 
-## Ralph & Matthieu Bosquet from Solid Project 
+## Ralph & Matthieu from Solid Project 
 - Solid Symposium: https://sosy2026.eu/ 
 - Solid Project: https://solidproject.org/ 
 ### Some potential 
 - Privacy-enhanced protocal to exchange data and opinion
-- Agentic Deliberation: using tech
+- Agentic Deliberation: using technology to solve the challenge for the discussion 
+    - Federated AI can be a potential way to do the sharing 
