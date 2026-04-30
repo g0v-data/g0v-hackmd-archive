@@ -25,9 +25,10 @@ tags: 議程組, summit2026, program, programming, summit, 議程
 ### 技術桌（英文進行）
 - Aidan (from [equalitie.org's dComm project](https://dcomm.net.ua/en/))
 - Michael Suantak ([Myanmar's off-grid mesh network](https://metagov.org/media/pages/projects/groundwork-fellowship/documentation/c5751620c5-1713959979/building-a-decentralized-secure-and-private-communication-system-for-myanmar-michael-suantak-1.pdf))
-- 尤理衡 (開源網路維運)
-- 戴辰宇 (gd of HITCON)
-- 彭　宬 (g0v 數位韌性松)
+- 戴辰宇 ([gd of HITCON](https://hacker.org.tw/about/supervisor/))
+- 尤理衡 ([開源網路維運](https://seadog007.me/) )
+- poga ([maintainer of g0v.social](https://g0v.social/@poga))
+- 彭　宬 ([g0v DigiResiThon](https://s.g0v.tw/resi))
 
 ## 技術桌實際上想要圓桌與會者們聊什麼
 - this roundtable is for those write the code and run the servers. So what we wish paticipants to bring is more about the engineering details: the technical decisions behind running decentralized communication stacks on distributed local hosting under sustained infrastructure stress, the tradeoffs between protocol choices (Matrix vs. Briar vs. Delta Chat) given different failure modes, and the real gaps everyone identified that remain unsolved. 
