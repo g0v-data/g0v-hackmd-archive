@@ -1,49 +1,37 @@
 ---
-title: 議程：講個海外台灣人倡議社群的運作秘訣：g0v 灣區、g0v 美東、數位外交
+title: 議程：數位韌性實驗室_Off-the-grid network 技術交流
 tags: 議程組, summit2026, program, programming, summit, 議程
 ---
-# 講個運作海外台灣人倡議社群的秘訣：g0v 灣區、g0v 美東、數位外交
+# 圓桌討論_數位韌性實驗室：Off-the-grid network 技術交流
 
 > 歡迎爆改，比路上飆車族還爆改的那種爆改 [name=paulpengtw]
 
 ## 上到官網的議程介紹
  
-許多台灣人離鄉背井來到異地，無論是求學、賺錢、追逐夢想，大概都有些許身不由己的成分在。
-無論住在哪，總是有些人始終掛心著家鄉，於是他們開始邀請更多台灣人聚集在一起，想問題、找解方，嘗試透過行動和對話來緩解焦慮。
-
-這場議程決定把這些長年在海外，成天以台灣人之姿（？）在科技和數位之間打滾的柱仔跤（thiāu-á-kha）們來好好講講，他們到底是使出了什麼法術，有辦法拐一大票台灣人參加實體活動、說服好多人花費下班時間不好好休息都在搞公益專案？碰到哪些困難？好玩嗎？這套模式有可能傳承嗎？如果想學會這種魔法，等價交換的犧牲又是什麼？
+這場圓桌只談實作。我們將邀請在戰區和叢林裡實際運作去中心化通訊系統的人，以及處理服務和雲端架構的台灣開發者，一同交流拆解技術。dComms 團隊將細說他們在烏克蘭的技術決策，包含聯邦式協定的選擇、本地伺服器的分散部署、以及 P2P 內容遞送在基礎設施遭攻擊時的實際狀況與瓶頸。Michael Suantak 帶來的是另一種極端條件下的工程問題：在沒有穩定電力與專業維運人力的偏鄉，如何讓 mesh 網路和本地伺服器被社區自主維護並持續運作。藉由實作的技術交流，歡迎台灣開發者們套回在地情境，一起討論怎麼蓋替代網絡，怎麼系統化？
 
 ## 時間/日期/地點
 > 這個有點難改 [name=paulpengtw]
 - May 24th Sun.
-- 1100 - 1200 (+8)
-    - 換算 PT 應該是 2000 - 2100
-- 中研院人文館 R0
+- 1530 - 1630 (+8)
+- 中研院人文館 4F RH 交誼廳
+- 因為是圓桌討論，所以隨時會有與會者冒出來
 
-## 講者/主持人
+## 與會者/主持人
 
-- 蕭新晟（on-site）
-    - 當時在紐約
-    - 社群紀錄：2014 年誕生的紐約 g0v 美東社群
-- 子魚 lisa ky（on-site）
-    - 現在去了灣區
-    - 社群紀錄：圍繞矽谷周邊，快三歲大的 g0v 灣區社群
-- ipa chiu (TBC, should be remote)
-    - fresh off the boat
-    - 社群紀錄：2012 年誕生的 g0v 社群，hackpad 都倒了我們還沒倒
-        > 抱歉我真的想不到什麼好詞[name=paulpengtw]
-- chiayo kuo（on-site）
-    - 當時在布達佩斯
-    - 社群紀錄：明年就滿十年的數位外交行動計畫
+### 政策桌
+- MG Lee
+- Lulu Keng
+### 技術桌（英文進行）
+- Aidan (from [equalitie.org's dComm project](https://dcomm.net.ua/en/))
+- Michael Suantak ([Myanmar's off-grid mesh network](https://metagov.org/media/pages/projects/groundwork-fellowship/documentation/c5751620c5-1713959979/building-a-decentralized-secure-and-private-communication-system-for-myanmar-michael-suantak-1.pdf))
+- 尤理衡 (開源網路維運)
+- 戴辰宇 (gd of HITCON)
+- 彭　宬 (g0v 數位韌性松)
 
-## 實際上要講者聊什麼
-> 這是一個意識流狀態[name=paulpengtw]
-- 每位講者花五分鐘 recap/highlight 自己的社群或社群夥伴有多讚
-- 為什麼想搞出一個社群，下班時間這麼寶貴你不累嗎
-- 講個秘訣？（只能講一個）
-- 覺得搞社群最大的犧牲是什麼(如果只能選一個的話)
-- 你開心嗎，過得好嗎
-- 假如現在有時光機，可以拍一段影片給當時剛創立社群的自己，你想對他說什麼/或拍什麼？
-    - 給主持人：記得限制講者不能說「all in 台積電或 all in 比特幣」
-- 聽完其他與談人的分享之後，最想問對方的一個問題
+## 技術桌實際上想要圓桌與會者們聊什麼
+- this roundtable is for those write the code and run the servers. So what we wish paticipants to bring is more about the engineering details: the technical decisions behind running decentralized communication stacks on distributed local hosting under sustained infrastructure stress, the tradeoffs between protocol choices (Matrix vs. Briar vs. Delta Chat) given different failure modes, and the real gaps everyone identified that remain unsolved. 
+- some of the projects that prticipants built and operated live wartime conditions, including deploy federated services on local servers across Ukrainian cities, keeping Matrix and Mastodon instances reachable even when upstream connectivity was severed; plus what worked and what didn't when deploying mesh in difficult terrain, how you designed for community maintainability rather than requiring a permanent technical team on site, and what the realistic coverage and reliability limits of these architectures are when you're building them with constrained resources. 
+- our paticipants is not looking for abstract policy frameworks: they want to talk about how exactly does architect local-first federation, what broke in production when infrastructure was under attack, and how tools like Ceno's P2P content distribution and Ouisync's serverless file sync actually performed when centralized alternatives went dark.
+
 

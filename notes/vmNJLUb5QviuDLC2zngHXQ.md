@@ -30,11 +30,10 @@ tags: 議程組, summit2026, program, programming, summit, 議程
     - 社群紀錄：圍繞矽谷周邊，快三歲大的 g0v 灣區社群
 - ipa chiu (TBC, should be remote)
     - fresh off the boat
-    - 社群紀錄：2012 年誕生的 g0v 社群，hackpad 都倒了我們還沒倒
-        > 抱歉我真的想不到什麼好詞[name=paulpengtw]
+    - 社群紀錄：2012 年誕生的 g0v 社群
 - chiayo kuo（on-site）
     - 當時在布達佩斯
-    - 社群紀錄：明年就滿十年的數位外交行動計畫
+    - 社群紀錄：明年就滿十歲的數位外交行動計畫
 
 ## 實際上要講者聊什麼
 > 這是一個意識流狀態[name=paulpengtw]
