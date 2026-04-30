@@ -184,17 +184,6 @@ foreach ($pkg in $packages) {
 
 Write-Host "檢查完成。請重新執行 Sysprep。" -ForegroundColor Green
 ```
-Set-ExecutionPolicy Bypass -Scope Process -Force
-.\Remove-SysprepBlockers.ps1
-sysprep /generalize /oobe /shutdown
 
-
-https://www.ute.com/tw/ezsetup
-
-```
-reg add HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32 /ve /f
-
-
-
-```
-
+如何解決 Synology Drive 與 Synology Drive Client 之間的同步問題 | Synology
+https://www.youtube.com/watch?v=9URtnUZ84iw
