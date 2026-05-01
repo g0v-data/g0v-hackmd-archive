@@ -1,32 +1,25 @@
 ---
-tags: edu, 
+tags: edu, ReSchool, 
 ---
 
-# 地理資料：全國國小就學人數推估 / 分校分班清單資料 / 歷年廢併校國小清單資料
+# ReSchool 校地創生正循環
 
 :::info 方便分享共筆網址
 
-廢校預警 🚨 學校就學人口變化趨勢推測 🏫 校地校舍的未來
-
-工作文件 / 工作事項
-https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view
-
-GitHub / Dataset 資料集
-https://github.com/g0v/small_school_renaissance
-
-展示
-https://sites.google.com/view/reschool/
-
-地圖
-- 民國 130 年就學人口統計推估地圖 https://g0v.github.io/small_school_renaissance/
-- 個案探討地圖 https://maps.app.goo.gl/zrZRjUGzmKQhwhee7
+專案推動方向：
+1950 至今，已有 400+ 國小廢校空間
+2040 年，推估有 +400 國小人數歸零
+國小作為台灣社會的關鍵基礎建設，以下是四種國小轉型情境列舉：
+(1) 優先保校名單：文化多樣性 (例如族群領域、語言保存)、社福公平性 (例如育幼機構旁的學校)
+(2) 輔助轉型為實驗學校
+(3) 「半校半 X」 學校續航 (釋出部分校舍空間，結合多元活化使用)
+(4) 廢校空間用於地方永續發展 (公有建築土地活用)
 
 ![](https://g0v.hackmd.io/_uploads/rJfCS-OVlxx.jpg)
 
-
 聯繫我們：
 - 專案聯繫信箱：reschool@googlegroups.com
-- g0v Slack 頻道 #edu-school-學校存續議題
+- 與團隊交流 g0v Slack 頻道 #edu-school-學校存續議題
 https://g0v-tw.slack.com/archives/C08NDP85ASF
 - FB 社團: 零時小學校 Sch001 學習中心 https://www.facebook.com/groups/240879797438433
 

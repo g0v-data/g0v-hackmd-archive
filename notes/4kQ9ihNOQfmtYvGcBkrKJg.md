@@ -1,4 +1,4 @@
-# 20260512 會議記錄
+# 20260505 會議記錄
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
