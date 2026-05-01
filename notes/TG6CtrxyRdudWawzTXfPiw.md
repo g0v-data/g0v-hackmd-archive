@@ -19,12 +19,9 @@ tags: edu, ReSchool,
 
 聯繫我們：
 - 專案聯繫信箱：reschool@googlegroups.com
-- 與團隊交流 g0v Slack 頻道 #edu-school-學校存續議題
-https://g0v-tw.slack.com/archives/C08NDP85ASF
-- FB 社團: 零時小學校 Sch001 學習中心 https://www.facebook.com/groups/240879797438433
-
-討論素材相簿
-https://photos.app.goo.gl/AAG1nM1Wc5PKGcsp9
+- 與團隊交流：
+    - g0v Slack 頻道 #edu-school-學校存續議題　https://g0v-tw.slack.com/archives/C08NDP85ASF
+    - FB 社團: 零時小學校 Sch001 學習中心 https://www.facebook.com/groups/240879797438433
 
 :::
 
@@ -35,10 +32,13 @@ https://photos.app.goo.gl/AAG1nM1Wc5PKGcsp9
 
 跳坑：明錡, chewei, yellowsoar, Tiff, 小夏, Tmonk, 蔡阿薛Eden,
 總統盃黑客松成員：chewei, yellowsoar, 簡老師, 守傑, Klye, Ronny, 郭博勝, 
+經驗交流：高雄市，雲林縣
 
-專案介紹影片：https://youtu.be/6UyYrYeWFks
+專案介紹影片：https://youtu.be/_Xm3e4bGLIM
 
-<iframe width=100% height="480" src="https://www.youtube.com/embed/6UyYrYeWFks?si=pIkQ82TWTMmDJUJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Xm3e4bGLIM?si=u4ybOemTcGCdk7ld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ## 近期任務
 

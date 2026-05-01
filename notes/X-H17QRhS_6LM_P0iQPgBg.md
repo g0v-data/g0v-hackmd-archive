@@ -20,12 +20,12 @@ tags: ReSchool,
 ## 交流會議 6/21 週日下午 & 7/26 週日下午
 
 - 介紹可運用的資料，介紹專案內容，交流與會者想做什麼
+    - 資料集入口清單：https://docs.google.com/spreadsheets/d/16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik/edit
     - https://g0v.hackmd.io/@chewei/reschool/
 
-
-## Demo & 頒發鼓勵獎金 
+## 8/30 週日下午 Demo & 頒發鼓勵獎金 
 
 - 每個 Demo 8 分鐘 + 8 分鐘交流
-- 開 google sheet
+- 開 google sheet 排出細流
 
 

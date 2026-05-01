@@ -6,7 +6,7 @@ tags: edu, GIS,
 
 - [工作文件](https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view)
 - [20260125 高雄工作坊活動](https://g0v.hackmd.io/bMRkbmnERO6r7GKsG0juDg?view)
-- [20260829&30 返校日線上黑客松](https://g0v.hackmd.io/X-H17QRhS_6LM_P0iQPgBg?view)
+- [2026 返校日線上系列活動<br>資料介紹與交流<br>Demo 與鼓勵獎金](https://g0v.hackmd.io/X-H17QRhS_6LM_P0iQPgBg?view)
 
 ## Data Portal 資料集
 

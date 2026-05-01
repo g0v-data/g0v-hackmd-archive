@@ -6,6 +6,7 @@ tags: GIS
 
 :::success
 歡迎加入交流
+工作文件：https://g0v.hackmd.io/@chewei/GDP/
 FB 社團：https://www.facebook.com/groups/474536628587982
 g0v Slack #好連街_gdp_good-district-path-生活路徑營造
 :::
