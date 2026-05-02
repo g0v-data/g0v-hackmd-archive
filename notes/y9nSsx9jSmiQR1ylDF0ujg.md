@@ -109,4 +109,8 @@ https://www.facebook.com/groups/urban.rivers.streams/posts/5851786141577582/
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2e5c1e9e791f2fe825b45117a4a4b00d.png)
 
 
+## 溝鼠 Rattus norvegicus
+
+https://www.facebook.com/permalink.php?story_fbid=pfbid0dEXWYj8TSevxsFFBw73E93baK2k8C1QMh9j5R4WPFmkJosDaiBa2cqYrizbGLpBzl&id=100063508823442&locale=zh_TW
+https://www.facebook.com/permalink.php?story_fbid=pfbid0utP2dtNA74QM65ZuociNyThpHXQXRerKKeyooeubaSpJeRXAiPirCEFvSFDJDPvhl&id=100063508823442&locale=zh_TW
 
