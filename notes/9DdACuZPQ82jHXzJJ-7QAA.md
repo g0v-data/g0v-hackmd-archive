@@ -28,7 +28,11 @@ https://www.facebook.com/chiawei.chao.5/posts/4205517952799824
     - 臺北市：https://web.weiinfo.com.tw/TPCRenewEG/
     - 臺北市政府建立的「能源地圖」https://tpcems.tier.org.tw/open/energy-map
     - 桃園市：http://13.76.192.141/cheng/login.html
+    - 苗栗縣太陽光電公開資訊系統：https://eco.green-flow.com.tw/web/case-management.html
 
+
+kiang 製作的 太陽光電設施地圖
+https://tainan.olc.tw/p/solar/
 
 kiang 製作的 台南光電地圖
 - https://www.facebook.com/story.php?story_fbid=pfbid05ye4pxfGyNsX79kPXe7n7nerwdswyiuffzpVqt9rsvz6vXXTM5gvLJUKiSqW8Vrhl&id=100063582707007&mibextid=tejx2t
@@ -72,6 +76,11 @@ https://easytolearn.tw/GISMAP/Download/2018/5.pdf
 
 公有屋頂
 https://www.facebook.com/groups/1417173811903954/posts/2484024281885563
+
+Kiang> 探討台灣的光電問題，線上交流後我提供了一些資料與方向，他跟同學就做出了有趣的初步成果。在裡面的互動成果中，點選個別光電場的土地範圍，程式就會依據歷史衛星影像資料去分析，該場域的表面溫度在光電場設置前後的差異
+https://raw.githack.com/iantsern-twuk/CASA00025_Building-Spatial-Applications-solar-panel/refs/heads/main/Project_Template-main/docs/solar_panel.html
+
+
 
 ## 其他
 

@@ -4,16 +4,22 @@ tags: energy
 
 # 電力視覺化
 
-by kreuzc
-https://kreuzc.github.io/open-data-issue-lab/#energy
-
-
-> [點此觀看原始內容](https://g0v.hackpad.tw/Nmi7NIdzWbJ)
-
 ## 各類網站
+
+台電員工自行開發的電力儀表板
+https://tpc.lowcarbonpower.org/
 
 energypark 有建立許多線上圖表或地圖
 https://public.tableau.com/app/profile/energypark/vizzes
+
+by kreuzc
+https://kreuzc.github.io/open-data-issue-lab/#energy
+
+台電機組發電量資料 by Kiang
+https://tainan.olc.tw/p/taipower/
+
+太陽光電設施地圖
+https://tainan.olc.tw/p/solar/
 
 ## 提問：接下來五年會有缺電的問題嗎？
 
