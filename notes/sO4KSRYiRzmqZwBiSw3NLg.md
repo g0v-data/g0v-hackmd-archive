@@ -61,7 +61,7 @@ g0v Summit
 - https://g0v.hackmd.io/v9xC2yaDSWSi9pucnz4zWQ?view
 
 賀年卡圖像 
-- 2019 開始 https://g0v.hackmd.io/@jothon/ry5TjRBhD?type=view
+- 2019 開始 https://g0v.hackmd.io/@jothon/newyear
 
 tofus 的 Figma 檔案
 - [Tofus 的 g0v graphics](https://www.figma.com/community/file/1368615685578089975/tofus-and-his-g0v-graphics)
