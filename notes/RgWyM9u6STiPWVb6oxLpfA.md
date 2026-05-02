@@ -4,6 +4,10 @@ tags: energy
 
 # 電力視覺化
 
+by kreuzc
+https://kreuzc.github.io/open-data-issue-lab/#energy
+
+
 > [點此觀看原始內容](https://g0v.hackpad.tw/Nmi7NIdzWbJ)
 
 ## 各類網站
