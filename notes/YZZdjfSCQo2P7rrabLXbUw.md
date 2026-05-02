@@ -105,8 +105,10 @@ https://doodles.google/
 
 
 #### Ken暫存
-羅建寬
-英文：James Luo
-解釋：建寬代表建構寬廣視野、務實落地，完美呼應企業AI應用實作；James經典低調，瘦高身材配白髮有教授級權威感。
-
+https://pcrookie.com/powertoys/
+https://pcrookie.com/chewing/
+FreeFileSync
+https://pcrookie.com/freefilesync/
+「開源清理工具」BleachBit
+https://pcrookie.com/bleachbit/
 
