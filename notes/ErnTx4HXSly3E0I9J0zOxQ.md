@@ -735,6 +735,10 @@ https://g0v.hackmd.io/@chewei/muzha/
 
 Through Traffic 過境車流
 - 從街廓街區的角度來說，過境車流 需要處理；過境車流，也可以說是切西瓜，借用社區道路來切西瓜
+- 實際案例路段蒐集
+    - https://www.facebook.com/media/set/?set=oa.731209686019827&type=3&locale=zh_TW
+- 不走社區
+    - 臺北市林森南京路口，有設置公車專用道，但有提供南京東路往西方向左轉林森北路的專用號誌時相
 
 街區內的公共運輸方案
 - 馬車
