@@ -649,6 +649,7 @@ old.cofacts.tw 與 cofacts.ai 一度被新的 WAF 阻擋
         - 先寫死 source IP = cofacts-prod 時 skip all rules 來規避
     - 無法載入舊訊息（原因不明）
 - old.cofacts.tw 無法載入訊息列表
+- production line bot 是不是也被掃了？流量應該要大多來自 LINE bot、LIFF 瀏覽、API 拉檔案 （content endpoint）
 
 :::success
 持續觀察穩定度
