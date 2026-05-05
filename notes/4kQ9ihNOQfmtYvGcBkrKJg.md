@@ -28,6 +28,15 @@
 ### cofacts.ai tickets
 - [x] 將登入使用者的 userId 傳遞給 ADK 與 Langfuse feedback
 
+
+
+### rumors-api tickets
+- [ ] 移除 Twitter 登入功能
+
+# Cofacts.ai update
+
+> https://github.com/orgs/cofacts/projects/12
+
 | # | 標題 | Phase |
 |---|------|-------|
 | [#35](https://github.com/cofacts/ai/issues/35) | Fix: IME 組字期間按 Enter 不應送出訊息 | Phase 1 |
@@ -36,12 +45,47 @@
 | [#38](https://github.com/cofacts/ai/issues/38) | Feat: 最後一則使用者訊息可編輯重送（鉛筆功能） | Phase 2 |
 | [#39](https://github.com/cofacts/ai/issues/39) | Feat: 支援圖片輸入 | Phase 2
 
-### rumors-api tickets
-- [ ] 移除 Twitter 登入功能
+
 
 # 上次會議至今的重點事件與討論
 
+## 伺服器狀態
 
+- **`server-alerts`**: 在 5/4 到 5/5 期間，Cloudflare 發出了多次關於 `cofacts.tw`、`line-bot.cofacts.tw` 和 `api.cofacts.tw` 的服務不健康警示，原因包含 HTTP timeout、502、429、530 等錯誤，推測與 DDoS 攻擊有關。
+- **SEO Spam**: 在 4/29，`mrorz` 提到前一日的伺服器不穩定，疑似是 SEO spam 造成，目前已透過 managed challenge 處理。
+
+
+## GitHub 開發進度
+
+### rumors-api
+
+- **[PR #388: [draft] Vector search](https://github.com/cofacts/rumors-api/pull/388)**:
+  - `yutin1987` 開了新的 PR，正在進行向量搜尋功能的開發。
+  - `gemini-code-assist` bot 提出了一些程式碼建議。
+
+- **[PR #386: feat(auth): Custom Authorization Code Flow with RS256 JWT + JWKS](https://github.com/cofacts/rumors-api/pull/386)**:
+  - 這個 PR 已經部署到 staging 環境，並且 `MrOrz` 已確認功能正常。
+
+### rumors-db
+
+- **[PR #78: [draft] feat: add embeddings field for hybrid search](https://github.com/cofacts/rumors-db/pull/78)**:
+  - `yutin1987` 新增了 `embeddings` 欄位以支援混合搜尋。
+
+### ai
+
+- **[Release release/20260504](https://github.com/cofacts/ai/releases/tag/release/20260504)**:
+  - `MrOrz` 發布了新版本。
+
+- **[PR #46: feat: warn before leaving with unsaved input or active stream](https://github.com/cofacts/ai/pull/46)**:
+  - `MrOrz` 新增了在關閉分頁前，若有未儲存的輸入或正在進行的回應，會跳出提示的功能。
+
+- **[PR #43: Hide mock right side panel and mobile FAB](https://github.com/cofacts/ai/pull/43)**:
+  - 隱藏了右側面板的 UI。
+
+### devops
+
+- **[PR #6: docs: document Cloud SQL setup for cofacts.ai ADK sessions](https://github.com/cofacts/devops/pull/6)**:
+  - `gemini-code-assist` bot 建議在文件中補充 Cloud SQL Proxy 的 log 查看指令以及 IAM database authentication 的使用者名稱說明。
 
 # Staging 環境高額費用分析與處理決策 (2026-04-29)
 
