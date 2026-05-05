@@ -26,7 +26,7 @@
 - [ ] 外接螢幕：cofacts Youtube + about page
 
 ### cofacts.ai tickets
-- [x] 將登入使用者的 userId 傳遞給 ADK 與 Langfuse feedback
+- [ ] 將登入使用者的 userId 傳遞給 ADK 與 Langfuse feedback
 
 
 
@@ -65,6 +65,7 @@
 
 - **[PR #386: feat(auth): Custom Authorization Code Flow with RS256 JWT + JWKS](https://github.com/cofacts/rumors-api/pull/386)**:
   - 這個 PR 已經部署到 staging 環境，並且 `MrOrz` 已確認功能正常。
+  - Production: `JWT_PRIVATE_KEY`, `JWT_PUBLIC_KEY` added to production env & staging env
 
 ### rumors-db
 
@@ -78,9 +79,25 @@
 
 - **[PR #46: feat: warn before leaving with unsaved input or active stream](https://github.com/cofacts/ai/pull/46)**:
   - `MrOrz` 新增了在關閉分頁前，若有未儲存的輸入或正在進行的回應，會跳出提示的功能。
+  - server function env var 會讀不到 [name=nonumpa]
+      - 好像是因為 client side 也讀到 env var
+      - 可能需要阻止 client 去讀 server，[`*.server.ts` 檔名](https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#marking-whole-files-server--or-client-only)可能有用
 
 - **[PR #43: Hide mock right side panel and mobile FAB](https://github.com/cofacts/ai/pull/43)**:
   - 隱藏了右側面板的 UI。
+
+:::success
+開一張票追蹤 https://github.com/cofacts/ai/pull/25 login 機制 merge 後要做：
+- 要把 user ID 放進 ADK endpoint，使大家的 side panel 不同
+- Langfuse feedback 要記錄 user id
+- Tanstack 的 server function / API endpoint 確保沒有登入就不能和 bot 聊天
+    - 沒登入就不要顯示聊天介面
+:::
+
+:::success
+問開發者是否需要 Claude
+https://docs.cloud.google.com/identity/docs/editions
+:::
 
 ### devops
 
@@ -94,11 +111,12 @@
 
 ## 小聚籌辦
 
-- 挑場地，青職基地都借滿了
+- 挑時間跟挑場地，青職基地都借滿了
 https://thehapp.com/space/624
 新北市板橋區中山路一段 265 巷 2 弄 1 號 2 樓 - 201 房
 https://thehapp.com/space/574
 臺北市中正區忠孝西路一段50號 B3樓-B306房
+- Candidate: 6/7 (日)、6/14 (日)
 
 - 週六早上
     - [x] KKTIX 行前通知：提醒時間、使用電腦而非手機
