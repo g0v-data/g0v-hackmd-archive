@@ -91,6 +91,12 @@
 **分析者**: Gemini CLI
 **日期**: 2026-04-29
 
+### 5/5 追蹤
+
+5/3 開發時有暫時把 staging 的防火牆關掉，5/4 開回去。
+
+
+
 # 2026-05-04 DDoS 攻擊調查報告
 
 ## 時間軸
@@ -106,6 +112,8 @@
 | 2026-05-04 ~14:55 TWN | 重啟 `rumors-deploy-api-1`, `rumors-deploy-site-ja-1` 與 `rumors-deploy-site-en-1` |
 
 ---
+
+:::spoiler 細節分析
 
 ## GCE 機器影響
 
@@ -191,19 +199,24 @@ Swap: 3.8GB / 4.0GB（持續釋放中）
 
 ### 1:15pm 後新出現的 ASN（確認攻擊者）
 
-| ASN | 業者 | 30min requests | 性質 |
-|-----|------|----------------|------|
-| 212238 | Datacamp Limited | 5,578 | 常見 bot hosting |
-| 9009 | M247 Europe SRL | 4,655 | VPN/proxy hosting |
-| 3257 | GTT Communications | 2,975 | 中繼/hosting |
-| 210906 | UAB Bite Lietuva | 1,999 | 立陶宛 hosting |
-| 203020 | HostRoyale Technologies | 1,746 | 廉價 hosting |
-| 62874 | Web2Objects LLC | 1,541 | Hosting |
-| 7979 | Servers.com | 1,422 | 資料中心 |
-| 11798 | Ace Data Centers | 1,422 | 資料中心 |
-| 46635 | Contact Consumers | 1,417 | 可疑 |
-| 396356 | Latitude.sh | 1,173 | 雲端 hosting |
-| **396319** | **Oxylabs** | **1,021** | ⚠️ 已知 residential proxy 服務 |
+| ASN | 業者 | 30min requests | 唯一 IP 數（攻擊 1hr）| 性質 |
+|-----|------|----------------|----------------------|------|
+| 212238 | Datacamp Limited | 5,578 | 2,593 | 常見 bot hosting |
+| 9009 | M247 Europe SRL | 4,655 | 2,040 | VPN/proxy hosting |
+| 3257 | GTT Communications | 2,975 | 1,389 | 中繼/hosting |
+| 210906 | UAB Bite Lietuva | 1,999 | 919 | 立陶宛 hosting |
+| 203020 | HostRoyale Technologies | 1,746 | 1,078 | 廉價 hosting |
+| 62874 | Web2Objects LLC | 1,541 | 717 | Hosting |
+| 7979 | Servers.com | 1,422 | 669 | 資料中心 |
+| 11798 | Ace Data Centers | 1,422 | — | 資料中心 |
+| 46635 | Contact Consumers | 1,417 | 648 | 可疑 |
+| 396356 | Latitude.sh | 1,173 | 555 | 雲端 hosting |
+| **396319** | **Oxylabs** | **1,021** | **478** | ⚠️ 已知 residential proxy 服務 |
+| **合計** | | **24,949** | **≥ 11,086** | |
+
+攻擊共動用 **超過 11,000 個唯一 IP**，平均每個 IP 在攻擊 1 小時內只打了 **2.1 次**——這是典型的大型 botnet 分散低速爬取，每個節點行為極為溫和，per-IP rate limiting 完全無效。
+
+Oxylabs 的 478 個 IP 為 residential proxy（真實用戶裝置被當成代理），IP 信譽比純 hosting IP 更乾淨，更難封鎖。
 
 ### 攻擊中流量暴增的 GCP IP
 
@@ -279,23 +292,9 @@ Swap: 3.8GB / 4.0GB（持續釋放中）
 
 504 = Cloudflare gateway timeout（網站 SSR 等不到 API 回應）。
 
-### 攻擊行為模式：全庫廣撒爬取
-
-攻擊者為爬蟲，不執行 JavaScript。每個 ASN 在 30 分鐘內打了數百至數千個不同的 article / reply ID，每篇僅被打 2–13 次，是**系統性掃描全庫**的行為，不針對特定議題文章。
-
-| ASN | 30min 內單篇最高 | 分布 |
-|-----|----------------|------|
-| Datacamp | 13 次 | 大量不同 article ID，多數 3–6 次/篇 |
-| M247 | 6 次 | 大量不同 article ID，多數 3–5 次/篇 |
-| GTT | 5 次 | 大量不同 article ID，多數 2–4 次/篇 |
-
-估計 Datacamp 單一 ASN 在 30 分鐘內觸及 **~1,000 篇不同 article**（5,578 req ÷ 平均 5 次/篇）。
-
 ### 攻擊期間被打最多的頁面（05:00–06:00 UTC，全 zone）
 
 > 最高僅 54 hits/hr，無任何單一頁面被集中轟炸，確認廣撒式爬取。混合有機流量與攻擊流量。
-
-:::spoiler
 
 **Top 25 Article**
 
@@ -357,9 +356,15 @@ Swap: 3.8GB / 4.0GB（持續釋放中）
 | 24 | `/reply/AV4NP3IFyCdS-nWhuewU` | 9 |
 | 25 | `/reply/I8OsiXwBucwAqrbaaAp6` | 9 |
 
+### 已排除的假說
+
+- **攻擊者直接 flooding POST `/graphql`**：確認所有攻擊 ASN 打的都是 GET 網站頁面，不是 API
+- **SSR retry storm**：rumors-site 無 retry 邏輯，graphql 增幅（2.7x）與頁面增幅（3x）吻合，無倍增
+- **攻擊者使用 `moreLikeThis` query**：只找到 3 筆，且來自 LINE bot 內部呼叫，非主要攻擊手法
+- **`34.81.219.20` 是攻擊者**：這是 GCE 自己的 ephemeral IP，是 SSR 的正常出口
+- **攻擊者自動操作 LINE bot 觸發 moreLikeThis**：LINE bot 在攻擊期間只記錄到 1 筆，volume 沒有明顯上升
 
 :::
----
 
 ## 攻擊全貌（結論）
 
@@ -378,13 +383,18 @@ Swap: 3.8GB / 4.0GB（持續釋放中）
 
 `34.81.219.20`（GCE external IP）的 18,785 POST /graphql（其中 86% 為 524）是 **site-en/ja SSR 的正常呼叫**，因 API 過載而全數 timeout，非獨立攻擊行為，也無 retry。
 
-### 已排除的假說
 
-- **攻擊者直接 flooding POST `/graphql`**：確認所有攻擊 ASN 打的都是 GET 網站頁面，不是 API
-- **SSR retry storm**：rumors-site 無 retry 邏輯，graphql 增幅（2.7x）與頁面增幅（3x）吻合，無倍增
-- **攻擊者使用 `moreLikeThis` query**：只找到 3 筆，且來自 LINE bot 內部呼叫，非主要攻擊手法
-- **`34.81.219.20` 是攻擊者**：這是 GCE 自己的 ephemeral IP，是 SSR 的正常出口
-- **攻擊者自動操作 LINE bot 觸發 moreLikeThis**：LINE bot 在攻擊期間只記錄到 1 筆，volume 沒有明顯上升
+### 攻擊行為模式：全庫廣撒爬取
+
+攻擊者為爬蟲，不執行 JavaScript。每個 ASN 在 30 分鐘內打了數百至數千個不同的 article / reply ID，每篇僅被打 2–13 次，是**系統性掃描全庫**的行為，不針對特定議題文章。
+
+| ASN | 30min 內單篇最高 | 分布 |
+|-----|----------------|------|
+| Datacamp | 13 次 | 大量不同 article ID，多數 3–6 次/篇 |
+| M247 | 6 次 | 大量不同 article ID，多數 3–5 次/篇 |
+| GTT | 5 次 | 大量不同 article ID，多數 2–4 次/篇 |
+
+估計 Datacamp 單一 ASN 在 30 分鐘內觸及 **~1,000 篇不同 article**（5,578 req ÷ 平均 5 次/篇）。
 
 ---
 
@@ -409,14 +419,73 @@ or
 原有規則：`/(article|reply)/` 10秒 7次
 新增：`api.cofacts.tw` POST `/graphql` 加上頻率限制
 
+### 為何 Rate Limiting 未能阻擋攻擊
+
+Rate limiting 是**針對每個 IP** 計算，而攻擊為分散式低速（low-and-slow distributed）爬取：
+
+- 11 個 ASN × 大量不同 IP，攻擊總量約 832 req/min
+- 假設 500 個攻擊 IP：每個 IP 平均僅 **1.7 req/min**，遠低於任何合理門檻
+- 每個 IP 打不同的 article/reply ID，每篇各自只被打 2–13 次
+
+Per-IP rate limiting 對此類攻擊完全無效。ASN block 才有效，因為是封整個網路段。
+
+---
+
+## 後續建議防禦措施
+
+### 立即（5 分鐘）
+
+**修正 WAF Custom Rule，覆蓋實際攻擊路徑**
+
+現有 rule 只封那些 ASN 打 `/graphql`，但攻擊路徑是 `/article/`、`/reply/`——對這次攻擊完全無效。應更新為：
+
+```
+(ip.src.asnum in {212238 9009 3257 210906 203020 62874 7979 11798 46635 396356 396319})
+and (
+  starts_with(http.request.uri.path, "/article/")
+  or starts_with(http.request.uri.path, "/reply/")
+  or starts_with(http.request.uri.path, "/user/")
+  or starts_with(http.request.uri.path, "/graphql")
+)
+```
+
+### 近期（Cloudflare 設定）
+
+**開啟 Bot Fight Mode**
+
+Datacamp、M247、GTT 等都是 Cloudflare 已知的 bot hosting 網路。Bot Fight Mode 可自動 challenge 這類流量，不需要手動維護 ASN list。
+
+### 中期（程式面）
+
+**SSR fetch 加 timeout**
+
+`lib/fetchAPI.js` 目前無 timeout，攻擊期間每個 SSR connection 卡了 116 秒，大量 connection 堆積耗盡 RAM 與 swap。加入 10 秒 timeout：
+
+```js
+fetch(url, {
+  signal: AbortSignal.timeout(10000),
+  ...options,
+})
+```
+
+**讓 Cloudflare 快取 article/reply 頁面（最根本的解法）**
+
+攻擊的放大效果：1 page request → 1 SSR → 1 Elasticsearch query。若 article/reply 頁面能被 Cloudflare 快取（哪怕 5 分鐘），攻擊者拿到 cache hit，完全不觸發 SSR，攻擊鏈斷掉。
+
+攻擊期間 cache rate 僅 7%，幾乎每個請求都打到 origin。需在 Next.js 的頁面加 `Cache-Control: public, max-age=300, stale-while-revalidate=60`，並確認 Cloudflare 設定允許快取這些路徑。
+
+| 優先 | 措施 | 工程量 |
+|------|------|--------|
+| 立即 | WAF rule 覆蓋 /article/ /reply/ /user/ | 5 分鐘 |
+| 近期 | 開啟 Bot Fight Mode | 1 分鐘 |
+| 中期 | SSR fetch timeout（10s）| 小改 |
+| 中期 | Cloudflare 頁面快取 | 需測試 Cache-Control 對 SSR 的影響 |
+
 ---
 
 ## 待探索事項
 
 - [ ] `34.34.244.x` 這段 IP（917–516 req in 30min）是 site-tw Cloud Run 的正常 SSR，還是攻擊者另租的 GCP VM？
 - [ ] 攻擊者如何挑選要打的 article ID？（攻擊前後的 article ID 幾乎不重疊）
-- [ ] Rate limiting 的具體門檻是否合適？目前 POST /graphql 設多少 req/min？
 - [ ] 中期：`moreLikeThis` query 加 rate limit 或需登入（攻擊者從 open source 找到這個 query）
 - [ ] Elasticsearch slow query log：確認攻擊期間 ES 的實際負載模式
-
-
