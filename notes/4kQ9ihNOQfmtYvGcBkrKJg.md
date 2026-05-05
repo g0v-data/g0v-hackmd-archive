@@ -13,9 +13,12 @@
 - [ ] 跑幾週看穩定度，決定是否要再把 tw site 也搬進 GCE
 - [ ] 跑幾個月看實際用到的運算量，決定 GCP committed use discount 怎麼買比較划算
 
-### RightsCon 擺攤
-- [ ] X 型布幕 https://www.figma.com/design/1tiXCGut4kNCEkDG9FTza7/LINE-Chat-UI-Template--Community-?node-id=3011-2598&t=M7kq3ymM7XDO2z0s-4
-- [ ] mrorz, bil: 名片
+### ~~RightsCon 擺攤~~
+
+> [RightsCon cancelled](https://www.rightscon.org/rc26-statement/)
+
+- [x] X 型布幕 https://www.figma.com/design/1tiXCGut4kNCEkDG9FTza7/LINE-Chat-UI-Template--Community-?node-id=3011-2598&t=M7kq3ymM7XDO2z0s-4
+- [x] mrorz, bil: 名片
     - mrorz 正在補名片
 - [ ] mrorz: 貼紙
 - [ ] mrorz: acho 黃色傳單 (英文)，確認 QR code
@@ -23,7 +26,7 @@
 - [ ] 外接螢幕：cofacts Youtube + about page
 
 ### cofacts.ai tickets
-- [ ] 將登入使用者的 userId 傳遞給 ADK 與 Langfuse feedback
+- [x] 將登入使用者的 userId 傳遞給 ADK 與 Langfuse feedback
 
 | # | 標題 | Phase |
 |---|------|-------|
@@ -35,6 +38,10 @@
 
 ### rumors-api tickets
 - [ ] 移除 Twitter 登入功能
+
+# 上次會議至今的重點事件與討論
+
+
 
 # Staging 環境高額費用分析與處理決策 (2026-04-29)
 
@@ -93,9 +100,15 @@
 
 ### 5/5 追蹤
 
+![](https://g0v.hackmd.io/_uploads/HyHh4QvC-e.png)
+
+4/30 CloudRun 3.33 USD/day
+5/1, 5/2 應有 consume free credit
 5/3 開發時有暫時把 staging 的防火牆關掉，5/4 開回去。
+5/4 CloudRun 2.83 USD/day 
 
-
+Approximate monthly cost: 3USD * 30 ~= 100USD
+(應該大多是 Cofacts production site)
 
 # 2026-05-04 DDoS 攻擊調查報告
 
@@ -454,6 +467,19 @@ and (
 **開啟 Bot Fight Mode**
 
 Datacamp、M247、GTT 等都是 Cloudflare 已知的 bot hosting 網路。Bot Fight Mode 可自動 challenge 這類流量，不需要手動維護 ASN list。
+
+---
+
+#### Super Bot Fight Mode
+- 原先設定：Allow automated 
+
+#### Custom Rule that skips CF verified bots
+
+- 原先設定：可以 skip All rate limiting rules, ALl managed rules, All super bot fight mode rules, Hotlink protection
+- 新設定：![](https://g0v.hackmd.io/_uploads/HkLq0Xv0Wg.png)
+    - 這樣 verified bot 也會被 rate limit 以及被 Cloudflare 的 managed rules 掃描
+    - 雖然 verified bot 有可疑流量的情形較少，我們先靠 rate limit 看看
+
 
 ### 中期（程式面）
 
