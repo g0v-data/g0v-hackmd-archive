@@ -2,7 +2,7 @@
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
+- NPO Hub 出席：mrorz, bil, lahna, nonumpa
 - 線上出席：
 - https://meet.google.com/mrz-dgrd-pri
 :::
@@ -17,7 +17,7 @@
 
 > [RightsCon cancelled](https://www.rightscon.org/rc26-statement/)
 
-- [x] X 型布幕 https://www.figma.com/design/1tiXCGut4kNCEkDG9FTza7/LINE-Chat-UI-Template--Community-?node-id=3011-2598&t=M7kq3ymM7XDO2z0s-4
+- [x] X 型布幕 https://www.figma.com/design/1tiXCGut4kNCEkDG9FTza7/LINE-Chat-UI-Template--Community-?node-id=3011-2598&t=M7kq3ymM7XDO2z0s-4 ![](https://g0v.hackmd.io/_uploads/HJgsl_SwAbg.png =x300)
 - [x] mrorz, bil: 名片
     - mrorz 正在補名片
 - [ ] mrorz: 貼紙
@@ -86,6 +86,8 @@
 
 - **[PR #6: docs: document Cloud SQL setup for cofacts.ai ADK sessions](https://github.com/cofacts/devops/pull/6)**:
   - `gemini-code-assist` bot 建議在文件中補充 Cloud SQL Proxy 的 log 查看指令以及 IAM database authentication 的使用者名稱說明。
+
+- https://github.com/cofacts/devops/pull/7
 
 # Staging 環境高額費用分析與處理決策 (2026-04-29)
 
