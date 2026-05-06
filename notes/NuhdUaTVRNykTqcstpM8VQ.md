@@ -1,5 +1,5 @@
 ---
-tags: cowork guideline
+tags: slack, cowork guideline, 
 ---
 
 # g0v Slack 頻道列表與簡介短句<br>整理成容易貼入 Slack 內的格式
@@ -37,6 +37,7 @@ g0v Slack Channel Guide 頻道傳送門
 #changhua-彰化 彰化討論群組！
 #yunlin-雲林 雲林討論群組！
 #nantou-南投 南投討論群組！
+#yilan-宜蘭
 #hualien 花蓮討論群組！
 #taitung-台東
 #penghu-澎湖群島
@@ -45,9 +46,12 @@ g0v Slack Channel Guide 頻道傳送門
 #keelung 基隆討論群組
 #newtaipei_新北市
 #taoyuan-桃園
+#hsinchu-新竹
+#miaoli_苗栗
 #re-place 關於如何移住、回到故鄉，以及城市人如何與地方一起打造新故鄉的實踐 / 頻道有很多關注宜蘭的朋友
 #jothon-local-support-地方社群支持方案 support for local communities or initiatives 有相關想法與構想，歡迎到頻道討論 ~
 #asia-civic-tech
+#japan
 #hk https://github.com/g0vhk-io
 #hkpwparagliding 飛行傘計畫
 #china
@@ -101,6 +105,7 @@ g0v Slack Channel Guide 頻道傳送門
 #passp0rt 社群護照
 #寄送文宣品摺頁手冊書籍
 #booth-擺攤 申請擺攤、出攤協力
+#1024_civic_tech_day
 #g0v-conservation-archive-文物保存
 #community99-社群九分鐘-撰寫工作頻道
 #g0v-database-專案清單-基礎建設清單
@@ -143,6 +148,7 @@ g0v Slack Channel Guide 頻道傳送門
 #itaigi 愛台語 對漢字佮台羅誠熟手，做伙鬥校對巡喲
 #chhoetaigi ChhoeTaigi 台語辭典⁺
 #taiwanbooks 矽谷圖書館台灣書籍植入計畫 Silicon Valley Library Taiwan Book Insertion Project
+#taiwan-md
 #edu-reschool-學校存續議題 民國 130 年的全國小學生人數推估湧現地圖，推估未來學校就學人口，探討校地轉型與民主辦學 A map projecting the distribution of Taiwan’s elementary school population in 2040 
 #edu 零時小學校「開源協作與教育工作」主頻道
 #edu-aray 公民科技貢獻者的專案與任務視覺化平台
@@ -192,6 +198,7 @@ g0v Slack Channel Guide 頻道傳送門
 #obs 開源跨平台串流媒體和錄影程式 obs 技術交流頻道
 #band 零時樂團 :musical_score:
 #hepai-harmony-ai 結合人工智慧（AI）與音樂理論的和聲學分析應用程式
+#arthon
 #stayathome 宅在家的生活資訊
 #health 健康議題、健檢
 #medicineeasy 藥品仿單易讀化
@@ -203,6 +210,7 @@ g0v Slack Channel Guide 頻道傳送門
 #fitness 動一動
 #g0vhiking for hiking affair
 #camping :camping: 全台露營區合法共 205 筆資料與線上地圖
+#ngo NGO 會務交流
 
 ### Open Gov & Projects
 #d2wg 數位民主研究案工作小組 g0v Digital Democracy Working Group
@@ -292,6 +300,7 @@ g0v Slack Channel Guide 頻道傳送門
 #rentea 租屋資料與議題
 #openlab-mapping Geographic Referencing for Technology Transfer via  Bioregional similarity. Aggregating and associative mapping data.
 #road-safety 人行道行走狀況群眾標註平台
+#好連街_gdp_good-district-path-生活路徑營造
 #ohshown 台灣黑熊通報平台 :bear:
 #cat 協尋喵星人 :cat:
 #aerialmapping	
@@ -352,6 +361,7 @@ https://g0v-slack-archive.g0v.ronny.tw
 ．Code for Taiwan Discord：https://discord.com/invite/pRFjDXeFyv
 ．Formosa Art Bank 福爾摩沙藝術銀行去中心化治理組織 Discord: https://discord.com/invite/skvQAGPBDV
 ．GreenSofa 綠沙發 _ 以 Web3 公共財資助台灣 Public Goods 發展 Discord: https://discord.com/invite/skvQAGPBDV
+．Twinkle AI Discord: https://discord.gg/Cx737yw4ed
 ．Code for Korea Discord https://discord.gg/xNNvfhJUV5
 
 ---

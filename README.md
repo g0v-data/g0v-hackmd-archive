@@ -2,6 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [slack](tags/slack.md) | 2 | 2026-05-06T18:25:40+00:00 |
+| [ cowork guideline](tags/%20cowork%20guideline.md) | 3 | 2026-05-06T18:25:40+00:00 |
 | [cofacts](tags/cofacts.md) | 526 | 2026-05-06T12:04:38+00:00 |
 | [都市農耕](tags/%E9%83%BD%E5%B8%82%E8%BE%B2%E8%80%95.md) | 56 | 2026-05-06T11:47:58+00:00 |
 | [vTaiwan](tags/vTaiwan.md) | 141 | 2026-05-06T11:43:26+00:00 |
@@ -51,7 +53,6 @@
 | [Food](tags/Food.md) | 6 | 2026-04-01T12:33:01+00:00 |
 | [booth](tags/booth.md) | 1 | 2026-04-01T11:33:50+00:00 |
 | [ infras](tags/%20infras.md) | 2 | 2026-04-01T11:33:50+00:00 |
-| [cowork guideline](tags/cowork%20guideline.md) | 22 | 2026-03-27T14:27:17+00:00 |
 | [g0vernance](tags/g0vernance.md) | 45 | 2026-03-27T13:32:59+00:00 |
 | [公有資產](tags/%E5%85%AC%E6%9C%89%E8%B3%87%E7%94%A2.md) | 12 | 2026-03-26T13:41:43+00:00 |
 | [asia](tags/asia.md) | 1 | 2026-03-24T17:58:37+00:00 |
@@ -62,7 +63,6 @@
 | [ 流域](tags/%20%E6%B5%81%E5%9F%9F.md) | 1 | 2026-03-18T11:39:02+00:00 |
 | [ japan](tags/%20japan.md) | 1 | 2026-03-18T06:59:30+00:00 |
 | [採訪共筆](tags/%E6%8E%A1%E8%A8%AA%E5%85%B1%E7%AD%86.md) | 102 | 2026-03-15T09:25:51+00:00 |
-| [ cowork guideline](tags/%20cowork%20guideline.md) | 2 | 2026-03-15T09:25:51+00:00 |
 | [ g0v](tags/%20g0v.md) | 8 | 2026-03-15T09:25:51+00:00 |
 | [ 開源協作手冊](tags/%20%E9%96%8B%E6%BA%90%E5%8D%94%E4%BD%9C%E6%89%8B%E5%86%8A.md) | 2 | 2026-03-15T09:25:51+00:00 |
 | [ 基礎建設](tags/%20%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD.md) | 4 | 2026-03-15T09:25:51+00:00 |
@@ -396,6 +396,7 @@
 | [FacingtheOcean](tags/FacingtheOcean.md) | 2 | 2024-05-12T09:24:30+00:00 |
 | [Environmental Design](tags/Environmental%20Design.md) | 1 | 2024-05-07T22:59:02+00:00 |
 | [財務](tags/%E8%B2%A1%E5%8B%99.md) | 1 | 2024-05-04T15:15:27+00:00 |
+| [cowork guideline](tags/cowork%20guideline.md) | 21 | 2024-05-02T01:57:14+00:00 |
 | [開源協作手冊](tags/%E9%96%8B%E6%BA%90%E5%8D%94%E4%BD%9C%E6%89%8B%E5%86%8A.md) | 21 | 2024-05-02T01:57:14+00:00 |
 | [基建](tags/%E5%9F%BA%E5%BB%BA.md) | 4 | 2024-04-25T05:27:08+00:00 |
 | [基礎建設](tags/%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD.md) | 10 | 2024-04-25T05:27:08+00:00 |
@@ -502,7 +503,6 @@
 | [chatgpt](tags/chatgpt.md) | 4 | 2023-12-27T11:51:43+00:00 |
 | [daodao](tags/daodao.md) | 6 | 2023-12-19T05:55:20+00:00 |
 | [島島阿學](tags/%E5%B3%B6%E5%B3%B6%E9%98%BF%E5%AD%B8.md) | 4 | 2023-12-19T05:55:20+00:00 |
-| [slack](tags/slack.md) | 1 | 2023-12-15T23:30:44+00:00 |
 | [OpenAI](tags/OpenAI.md) | 17 | 2023-12-15T01:25:50+00:00 |
 | [archive](tags/archive.md) | 2 | 2023-12-15T01:25:50+00:00 |
 | [新手](tags/%E6%96%B0%E6%89%8B.md) | 2 | 2023-12-12T05:50:00+00:00 |
