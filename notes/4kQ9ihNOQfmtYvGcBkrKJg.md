@@ -3,7 +3,7 @@
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
 - NPO Hub 出席：mrorz, bil, lahna, nonumpa
-- 線上出席：
+- 線上出席：Alfred
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
