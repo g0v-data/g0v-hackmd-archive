@@ -9,7 +9,10 @@ tags: vtaiwan
 1. 現在可用LM Studio近端模型，免費執行Sensemaker意見綜整器了!
 2. 使用懶人腳本，只要設好參數，一行指令即可完全部流程!
 
-報告實例：https://www.alearn.org.tw/report
+報告實例：
+
+1. https://www.vtaiwan.tw/uber-x-report
+2. https://www.alearn.org.tw/report
 
 
 ## 簡介
