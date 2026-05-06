@@ -57,22 +57,23 @@ tags: vtaiwan
 
 ## 一、建立Polis意見徵集
 
+
 **關於如何建立Polis意見徵集，請見：**
 https://make.vtaiwan.tw/guide/polis
 
 
 
-### 找到Pol.is報告的原始資料匯出用的baseURL
+## 二、找到Pol.is報告的原始資料匯出用的baseURL
 
 
-在Polis的管理後台，找到Reports分頁，可以找到baseURL
+**在Polis的管理後台，找到Reports分頁，可以找到baseURL**
 
 ![baseURL截圖](https://g0v.hackmd.io/_uploads/S19mNPORWe.png)
 
 
 
 
-## 二、運用模型來分析
+## 三、運用模型來分析
 
 您可選擇：
 
@@ -175,7 +176,7 @@ bash ./run_local_html_report.sh \
 您只需執行腳本並等待一段時間，報告即會自動產生，存入您電腦的目錄中
 
 
-(接續前面的[二、運用模型來分析](#二、運用模型來分析) 第一選項：運用雲端模型 )
+(接續前面的[三、運用模型來分析](#三、運用模型來分析) 第一選項：運用雲端模型 )
 
 
 腳本：
