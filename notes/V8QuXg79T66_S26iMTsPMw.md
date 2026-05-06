@@ -49,14 +49,15 @@ https://www.vtaiwan.tw/jitsi
 ### 電子報初稿完成
 - [vtaiwan 電子報大共筆](/GnT4_W9_Slm5v1i9oiyP2g)
 - [vTaiwan 電子報編輯區](https://docs.google.com/document/d/1YXDHBqvP_5dZxd0Mz7oY5KIE1HqwAdMWiKUbX4O-wPk/edit?usp=sharing)
-#### 電子報
+#### 電子報待辦事項
 - 
 
 
 ## vTaiwan 的設計系統
-
+- 日前跟 tofus 討論，利用 AI 可以快速產生簡報的話，如果有 design system 的話，運用 AI 可以快速產生簡報。
+- https://claude.ai/design/p/0633e5e6-f4d3-48d2-83f9-8e052b7b6004?via=share 
 
 
 ## Sensemaker V3說明文件
-
+- [name=bestian] 完成了Sensemaker V3說明文件
 https://g0v.hackmd.io/AzK-iLF2RA-hJpo6LkAirA?view
