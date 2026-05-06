@@ -43,5 +43,20 @@ https://www.vtaiwan.tw/jitsi
 - Billy: software engineer, new comer 
 - Tim: Data engineer, transition to web engineers, interested in blockchain 
 - Ralph: digital policy researcher in Cambridge, interested in vTaiwan, trying to bring solid together with vTaiwan 
--
+- Bestian: Full-tack enginner, UX Designer, Autonomous Learner & Freelancer
+
 ## 小小的分享
+### 電子報初稿完成
+- [vtaiwan 電子報大共筆](/GnT4_W9_Slm5v1i9oiyP2g)
+- [vTaiwan 電子報編輯區](https://docs.google.com/document/d/1YXDHBqvP_5dZxd0Mz7oY5KIE1HqwAdMWiKUbX4O-wPk/edit?usp=sharing)
+#### 電子報
+- 
+
+
+## vTaiwan 的設計系統
+
+
+
+## Sensemaker V3說明文件
+
+https://g0v.hackmd.io/AzK-iLF2RA-hJpo6LkAirA?view
