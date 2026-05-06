@@ -30,4 +30,5 @@ tags: 都市農耕
 
 ## 工作討論串
 
-https://www.facebook.com/groups/851321448229543/posts/7658113624216924/
+2026.05 大約有 200 個點位尚未登載到線上地圖
+- 點位已蒐集在以下  https://www.facebook.com/groups/851321448229543/posts/7658113624216924/

@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：
+參與者 Participants：Peter, 泰瑋, billy, 翊婷, 
 
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -37,20 +37,21 @@ https://www.vtaiwan.tw/jitsi
 - 如果想要成為協作者或者是貢獻者，我們正在努力讓說明更清楚，介面更友善！
 :::
 ## Self-intro
-- Peter: Coordinator of vTaiwan, law student, AI research
-- Josh: Researcher on digital democracy
-- Allison: High school student, interested in law and policy making
-- Billy: software engineer, new comer 
-- Tim: Data engineer, transition to web engineers, interested in blockchain 
-- Ralph: digital policy researcher in Cambridge, interested in vTaiwan, trying to bring solid together with vTaiwan 
-- Bestian: Full-tack enginner, UX Designer, Autonomous Learner & Freelancer
+- Peter: 法律、人工智慧、研究生
+- 泰瑋：人文科學學士班，經濟研究所，後端工程師
+- Billy: 第三次參與，軟體工程師，災象回波
+    - 災象回波介紹：每週二晚上九點交流應災情報的線上小聚社群，[介紹](https://jqpau.notion.site/v1-0-2e3ee44ca46980baadc4e201bba1a2ec)，有個 [Discord 討論群](https://discord.gg/UHAWvaMYNq)，成員涵蓋台灣各地，起源是 2025/9 花蓮馬太鞍溪堰塞湖線上救災平台「光復超人」
+- Josh：位於瑞士的研究者
+- 翊婷：田野對象是 vTaiwan 
+- Tim：
 
 ## 小小的分享
 ### 電子報初稿完成
 - [vtaiwan 電子報大共筆](/GnT4_W9_Slm5v1i9oiyP2g)
 - [vTaiwan 電子報編輯區](https://docs.google.com/document/d/1YXDHBqvP_5dZxd0Mz7oY5KIE1HqwAdMWiKUbX4O-wPk/edit?usp=sharing)
 #### 電子報待辦事項
-- 
+- 設計回饋表單
+- 建立素材庫
 
 
 ## vTaiwan 的設計系統
@@ -61,3 +62,25 @@ https://www.vtaiwan.tw/jitsi
 ## Sensemaker V3說明文件
 - [name=bestian] 完成了Sensemaker V3說明文件
 https://g0v.hackmd.io/AzK-iLF2RA-hJpo6LkAirA?view
+
+
+## Taiwan Internet Week 
+- 目前已經跟 TWNIC 協調簡報在下週提供
+- 翊婷有提供一個較為簡略的版本
+- 
+
+## TWNIC 合作
+:::info
+- 聽小海說揪松團有找她，七月多會在花蓮辦活動，或許可提供一些目前想法給上週與 Peter 一起會議的 +1 [name=billy]
+:::
+
+## 災象回波（billy）
+- 災象回波作為一個交流應災資訊的線上空間，持續在每週二晚上九點小聚，電子報預計作為會前通知在週一前發出，希望能與 vTaiwan 互相學習
+    - 5/5 災象17 https://www.notion.so/jqpau/17-352ee44ca469806d940ad29e0e9c2045?source=copy_link
+    - 電子報範例 https://www.notion.so/jqpau/4-28-16-draft-350ee44ca4698079b50fda15da9daa0e
+- 想分享 Peter 的文章到災象，大致樣式如下（草稿區示意）
+    - ![](https://g0v.hackmd.io/_uploads/HyesF-o_Rbe.jpg)
+- 5/23-24 g0v summit 應災相關議程：小海、芬達、糖
+    - 關心數位信任與在地節點的串連方式，想找相關人士聊：
+        - liu.weijen：數位信任與實作的情境
+        - 豆泥：女巫攻擊平方資助活動、在地篇章、shoutout 後續

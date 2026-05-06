@@ -15,4 +15,6 @@ tags: vtaiwan
 - 建立
 
 ## 相關連結
-- 
+- [vTaiwan 電子報編輯區](https://docs.google.com/document/d/1YXDHBqvP_5dZxd0Mz7oY5KIE1HqwAdMWiKUbX4O-wPk/edit?usp=sharing)
+## 素材庫
+- TICTeC 有關 AI 與公民科技的報告https://drive.google.com/file/d/1DKE1soSqhE5yUu2WSRDZEWrHi0kaz0je/view 

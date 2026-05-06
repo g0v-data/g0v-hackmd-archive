@@ -1,5 +1,5 @@
 ---
-tags:
+tags: edu
 ---
 
 # TaskyVenture - 兒童任務管理平台
