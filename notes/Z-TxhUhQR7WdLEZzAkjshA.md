@@ -1,5 +1,5 @@
 :::danger
-展頌股份有限公司會議室專區(僅顯示網址，登入密碼請洽承辦人員)
+展頌股份有限公司會議室專區(僅顯示網址，登入帳號密碼請洽承辦人員)
 本頁快速網址：[https://www.chainlon.net/meet](https://www.chainlon.net/meet)
 :::
 :::warning
@@ -7,14 +7,10 @@
 [TOC]
 :::
 #### Google Meet
-:bulb:桌機可用瀏覽器免安裝免帳號，手機需要有Google帳號，中國不通
+:bulb:桌機可用瀏覽器免安裝免帳號，手機需要有Google帳號，**中國不通**
 展頌公用會議：https://meet.google.com/znp-xmiy-hyj
 短網址：https://www.chainlon.net/meetg
 ![](https://i.imgur.com/bIgZSUY.png)
-展頌資訊部：https://meet.google.com/zpo-usxz-ndz
-(黃吉祿)https://meet.google.com/cup-xvnz-uog
-(羅堂國)https://meet.google.com/pga-bzti-ppi
-(斗三廠)https://meet.google.com/ctb-jjiu-ept
 **以上將在2026/5/11起停用**
 2026/4/24起啟用：
 主管會議    https://meet.google.com/zvq-goua-iyv
@@ -31,8 +27,6 @@
 https://mt.chainlon.net/invited.sf?secret=FSqW0vWl.lz8tQL1qCE4zg&id=22927617
 短網址：https://www.chainlon.net/meetc
 ![](https://g0v.hackmd.io/_uploads/rk0tEN4bxl.png)
-展頌資訊部會議室(會議ID：chainlonit)：
-https://mt.chainlon.net/invited.sf?secret=3R8kejuzQCRs2ZsoziFbKg&id=chainlonit
 展頌CISCO會議室(手動輸入會議ID) https://mt.chainlon.net/
 
 #### Microsoft Teams
@@ -49,5 +43,5 @@ https://teams.microsoft.com/meet/4289735414996?p=O7HtCbYDKWL2kdeu1D
 #### 視訊設備自我測試
 https://www.toolskk.com/webcam-mic-test
 
-#### Zoom
-https://meet.google.com/iuq-xgoc-brt
+#### Zoom(停用)
+
