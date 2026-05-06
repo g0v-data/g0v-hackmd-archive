@@ -19,7 +19,7 @@ tags: cofacts,
 - [ ] 跑幾個月看實際用到的運算量，決定 GCP committed use discount 怎麼買比較划算
 
 ### cofacts.ai tickets
-- [ ] 將登入使用者的 userId 傳遞給 ADK 與 Langfuse feedback
+- [x] 將登入使用者的 userId 傳遞給 ADK 與 Langfuse feedback --> https://github.com/cofacts/ai/issues/47
 
 ### rumors-api tickets
 - [ ] 移除 Twitter 登入功能
