@@ -23,6 +23,7 @@ case:
 - 尚未修復文資
 - 未來 20 年不會改建的建物：已改建、已整維、已修復文資 ..等
 - 現況停車出入口
+- 其他項目列舉 https://www.facebook.com/share/p/18NkrsPbMV/?mibextid=wwXIfr
 
 應用
 - 街區路網路徑系統轉型評估
