@@ -433,7 +433,7 @@ https://www.journals.uchicago.edu/doi/abs/10.1086/730621
     - https://www.facebook.com/share/p/BrRrcbZbaSBWnZ6R/
 - 2024.10 書籍《次世代數位公民素養：不被AI 取代的資訊判讀》
     - 補頁碼，零時小學校 & Tiff 有撰寫一篇文章，收錄於書中
-    -https://www.facebook.com/pangphuann/posts/pfbid0r35hLXwyhxUMme1HifSjeaYG2NzpNRy1JRttdX9DJDncPwhPFhoPkxsDVptufbmol
+    - https://www.facebook.com/pangphuann/posts/pfbid0r35hLXwyhxUMme1HifSjeaYG2NzpNRy1JRttdX9DJDncPwhPFhoPkxsDVptufbmol
 
 ### [原始 hackpad 內容](https://g0v.hackpad.tw/1esFXAvr0U4)
 
