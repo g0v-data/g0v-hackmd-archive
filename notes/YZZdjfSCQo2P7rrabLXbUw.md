@@ -16,6 +16,7 @@ https://poki.com/zh/g/vortellis-pizza?gdgameCode=YAIUT3
 #### 日本環球影城自由行規劃
 【大阪環球影城】帶小孩不用買快速通關    https://www.youtube.com/watch?v=jbv9R_-a_nc
 大阪環球影城1.5日票攻略：    https://www.youtube.com/watch?v=9ebsj1Gc6I4
+https://www.youtube.com/watch?v=QcJ3ze6reVs
  能量手環*2
 
 |遊樂設施 / 快速通關4|Minecart & Fun|Minecart & Jurassic Park-可能選擇|
