@@ -18,6 +18,8 @@ tags: digital_development, public money, 報稅,
 > 雖然帶過報稅軟體介面設計工作坊，但課程後不知道怎麼從財政部下手真的去做，之前笑說上募資平台...知道一直以來是關貿接的，或許也有可能從那邊切進去？
 > [name=Lex W]
 
+- 2026 報稅網頁被登出 https://www.facebook.com/share/p/18RVXSBoiB/
+
 - 個人綜所稅、營業稅、營所稅等申報軟體
 - [網路繳稅](https://paytax.nat.gov.tw/)及[自印繳款書](http://www.etax.nat.gov.tw/etwmain/front/ETW144W)系統
 > ↑今天有被網路繳稅系統激怒，趕緊來許願 XDDD
@@ -102,6 +104,11 @@ tags: digital_development, public money, 報稅,
 ## 公眾申覆與通報工具
 
 https://g0v.hackmd.io/5nKF8hD-TL-FREKU_DqIgA
+
+
+## 待產、育兒 相關申請資訊
+
+- 育兒相關申請等資訊查找 https://www.facebook.com/share/p/1DrpYyWi4a/
 
 ## 教育領域、文化事業
 
