@@ -1,3 +1,7 @@
+---
+tags: vtaiwan 
+---
+# AI、社群媒體與言論審查：vTaiwan x TFGA 線上討論與意見徵集 線上即時紀錄
 :::success
 AI、社群媒體與言論審查：vTaiwan x TFGA 線上討論與意見徵集 線上即時紀錄
 
