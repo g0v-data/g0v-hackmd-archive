@@ -34,16 +34,13 @@ vTaiwan 自從 2014 太陽花學運後創立，是當時的政府為了增進公
 :::
 - 如果想要成為參與者，強烈建議先看 [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 - 如果對於每週小聚有興趣，可以參考左邊文件列下方的小松紀錄 
-    - 最新的小松 [0423小松](https://g0v.hackmd.io/@tmonk/rJHYWR9S4/%2F9sQpkIDxQjupL4Jf07vffQ?type=book)
+    - 最新的小松 [20260506 小松](/V8QuXg79T66_S26iMTsPMw)
 - 如果對於目前進行中的專案感興趣，歡迎參考左邊文件列中的進行中專案
 - 如果對於過去的專案感興趣，歡迎參考左邊文件列中的過去專案
 - 如果想要參考相關資料：可以去 vTaiwan 相關資料整理。
 
 ## Message for vTaiwan Participants
 :::info
-
-ChatGPT
-ChatGPT
 Here is the translation of your message into English:
 
 "Hello everyone, welcome to vTaiwan working group. No matter where you got the link and entered this place, we are very grateful for everyone's attention and support for vTaiwan!
@@ -60,7 +57,7 @@ We hope the above information helps you understand vTaiwan better. If you have a
 :::
 - If you are interested in becoming a participant, it is highly recommended to first view the newcomer's presentation.
 - If you are interested in the weekly meetups, you can refer to the weekly mmetups. We catelog the meetup documnets by the order of time. 
-    - The latest one: [1220 小松](/0vjJKyzsRuuKg_pj75z-kQ)
+    - The latest one: [20260506 小松](/V8QuXg79T66_S26iMTsPMw)
 - If you are interested in current ongoing projects, please refer to the 'Ongoing Projects' section. 
 - If you are interested in past projects, please refer to the 'Past Projects' section. 
 - If you want to consult related materials: you can go to the "vTaiwan related materials" section.
