@@ -1,5 +1,5 @@
 ---
-tags: summmit2026, chair
+tags: summit2026, chair
 ---
 
 # 手搓椅子
