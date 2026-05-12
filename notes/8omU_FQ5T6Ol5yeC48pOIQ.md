@@ -187,3 +187,5 @@ Write-Host "檢查完成。請重新執行 Sysprep。" -ForegroundColor Green
 
 如何解決 Synology Drive 與 Synology Drive Client 之間的同步問題 | Synology
 https://www.youtube.com/watch?v=9URtnUZ84iw
+
+robocopy "\\192.168.2.165\d$" "C:" /E /xd backup "D:\fpg\ERPDBT" /NS /NC /NFL /NDL /NJH /NJS /NP /R:0 /W:0 >nul
