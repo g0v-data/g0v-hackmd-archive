@@ -6,6 +6,9 @@ tags: vTaiwan
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
 參與者 Participants：Peter, 泰瑋, billy, 翊婷, 
+![](https://g0v.hackmd.io/_uploads/SkesoY5ZkGl.png)
+![](https://g0v.hackmd.io/_uploads/HJosF9ZyMx.png)
+
 
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
