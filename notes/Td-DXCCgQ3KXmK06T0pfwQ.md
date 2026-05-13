@@ -44,5 +44,40 @@ https://www.vtaiwan.tw/jitsi
 - Josh：位於瑞士的研究者
 - 翊婷：田野對象是 vTaiwan 
 - Tim：
+- Bestian：自主學習促進會資訊長, 蔬食者, vTaiwan社群工程師
 
 ## 小小的分享
+
+
+
+
+
+
+
+
+
+
+### talk討論區的spam汙染問題
+
+因talk.vtaiwan.tw受到spam汙染，致使訂閱者會收到與vTaiwan內容無關之不雅廣告，已新增兩處防spam的設定：一是特定關鍵字篩選、二是新成員留言需經審核(基本上原站已沒有要拿來當討論區，所以不能直接留言應該沒關係)
+
+> [name=Bestian]
+
+
+
+### 向法國團隊Agora Citizen提案串接Sensemaker
+
+提Feature Request給Agora，關於Advenced runner需要baseURL以及與polis同構的資料
+https://github.com/zkorum/agora/issues/1050
+
+> [name=Bestian]
+
+
+## 網站更新部份
+
+
+### 在vTaiwan主網站上嵌入meta-polis後設意見徵集
+
+在Josh開設了此案之Polis之後，Bestian已將程式備妥，請Josh協助確認GitHub上的[PR#131](https://github.com/g0v/vue.vTaiwan-neo/pull/131)，即可merge，謝謝
+
+> [name=Bestian]
