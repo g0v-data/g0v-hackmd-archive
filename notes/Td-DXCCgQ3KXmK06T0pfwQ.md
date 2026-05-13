@@ -81,3 +81,9 @@ https://github.com/zkorum/agora/issues/1050
 在Josh開設了此案之Polis之後，Bestian已將程式備妥，請Josh協助確認GitHub上的[PR#131](https://github.com/g0v/vue.vTaiwan-neo/pull/131)，即可merge，謝謝
 
 > [name=Bestian]
+
+## 共筆短網址問題解決
+- 
+- 之前出現一個狀況是 http://vtw.link 可以連上，但  https://vtw.link 無法連上的問題。
+- 發現是之前使用的轉網址服務在解析上出現問題，與 Claude 協作後，以 Cloudfare 解決了前述的問題。
+- 

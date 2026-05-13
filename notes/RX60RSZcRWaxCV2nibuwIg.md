@@ -38,3 +38,12 @@ https://www.matsu.gov.tw/chhtml/content/371050000A0010LD/2657
 
 連江縣政發展計畫規劃案-遊客承載量評估
 https://functionofcity.net/
+
+---
+
+## 活動籌辦工作區
+
+20261003 週六
+- 臺北場地
+- 馬祖場地
+
