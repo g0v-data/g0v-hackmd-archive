@@ -5,7 +5,10 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter, 泰瑋, billy, 翊婷, 
+參與者 Participants：Josh, 泰瑋, Bestian, 翊婷, Allison, Tim 
+
+![](https://g0v.hackmd.io/_uploads/H14-HkMkGg.png)
+
 
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -36,15 +39,10 @@ https://www.vtaiwan.tw/jitsi
     - 目前的 vTaiwan 很歡迎與數位工具相關的公共討論！
 - 如果想要成為協作者或者是貢獻者，我們正在努力讓說明更清楚，介面更友善！
 :::
-## Self-intro
-- Peter: 法律、人工智慧、研究生
-- 泰瑋：人文科學學士班，經濟研究所，後端工程師
-- Billy: 第三次參與，軟體工程師，災象回波
-    - 災象回波介紹：每週二晚上九點交流應災情報的線上小聚社群，[介紹](https://jqpau.notion.site/v1-0-2e3ee44ca46980baadc4e201bba1a2ec)，有個 [Discord 討論群](https://discord.gg/UHAWvaMYNq)，成員涵蓋台灣各地，起源是 2025/9 花蓮馬太鞍溪堰塞湖線上救災平台「光復超人」
-- Josh：位於瑞士的研究者
-- 翊婷：田野對象是 vTaiwan 
-- Tim：
-- Bestian：自主學習促進會資訊長, 蔬食者, vTaiwan社群工程師
+
+## 簡報分享 
+模擬市民大會
+> [name=Josh]
 
 ## 小小的分享
 

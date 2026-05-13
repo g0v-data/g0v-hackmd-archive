@@ -1,5 +1,5 @@
 ---
-tags: edu
+tags: edu, 
 ---
 
 # 零櫃諮詢：歷年詢問公共議題探討的討論串
@@ -77,7 +77,7 @@ https://g0v.hackmd.io/q5meM1EoRxieGRC6XTHx4Q?view
 
 https://g0v.hackmd.io/-9i14hLqRFez1IzvOhCyow?view
 
-## 20260329 g0v 台南黑客松現場，詢問 TPASS 交通政策是否有相關探討與資料
+## 20260329 詢問 TPASS 交通政策是否有相關探討與資料
 
 - 發問內容
     - 發問背景：
@@ -87,3 +87,8 @@ https://g0v.hackmd.io/-9i14hLqRFez1IzvOhCyow?view
 - chewei> 是否有票證資料可以申請使用？
 - 公共電視的探討節目 https://youtu.be/fMhaYWkePgY
 
+## 20260508 eTag 隱私風險
+
+- Ronny> 我今天想到一個隱私的議題，跟 gemini 討論了一下，覺得好像是個值得關注但是好像沒什麼人在討論的，就是關於 ETag 。
+- 在 OCF Slack 頻道有討論串
+- Ronny 建立了一個議題內容開展頁面 https://ronnywang.github.io/civic-notes/etag-privacy/
