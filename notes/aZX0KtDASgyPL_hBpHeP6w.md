@@ -21,6 +21,7 @@ tags: japan,
 基隆到石桓島
 https://www.uni-wagon.com/
 https://www.funliday.com/posts/okinawa-ishigaki-yaimaline/
+航線歷史 https://www.facebook.com/share/p/1RBYv8mSGR/
 
 宜蘭，與那國島
 https://www.suao.gov.tw/News_Content.aspx?n=12210&s=180033
