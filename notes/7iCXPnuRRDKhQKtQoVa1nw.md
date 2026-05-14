@@ -24,7 +24,14 @@ tags: cofacts,
 ### rumors-api tickets
 - [ ] 移除 Twitter 登入功能
 
----
+
+## cofacts.ai
+
+
+
+ https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.a8qyopr6sp5
+
+
 
 
 

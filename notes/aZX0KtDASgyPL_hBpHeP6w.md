@@ -19,6 +19,7 @@ tags: japan,
 ## 當代交通
 
 基隆到石桓島
+https://www.uni-wagon.com/
 https://www.funliday.com/posts/okinawa-ishigaki-yaimaline/
 
 宜蘭，與那國島
@@ -38,3 +39,5 @@ https://www.facebook.com/mingching.sinica/posts/pfbid0kbNmyo4zLHUw77gZSo17gzV36x
 
 石桓島上的土地公信仰
 https://www.facebook.com/share/p/18c8j1rMph/
+
+用這個島嶼連帶範圍，共軍灰色侵略航跡 (空域、海域)，是否能一起彙整，了解整體狀況
