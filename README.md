@@ -2,7 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 36650 | 2026-05-15T16:37:30+00:00 |
+| [gamification](tags/gamification.md) | 5 | 2026-05-15T21:41:49+00:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 36650 | 2026-05-15T21:06:39+00:00 |
 | [cofacts](tags/cofacts.md) | 526 | 2026-05-15T12:57:28+00:00 |
 | [japan](tags/japan.md) | 4 | 2026-05-14T19:17:04+00:00 |
 | [river](tags/river.md) | 8 | 2026-05-14T17:20:17+00:00 |
@@ -273,7 +274,6 @@
 | [house](tags/house.md) | 1 | 2025-03-03T00:30:34+00:00 |
 | [ living](tags/%20living.md) | 1 | 2025-03-03T00:30:34+00:00 |
 | [ design](tags/%20design.md) | 1 | 2025-03-03T00:30:34+00:00 |
-| [gamification](tags/gamification.md) | 5 | 2025-03-02T14:54:26+00:00 |
 | [open-student-org sogac-tw](tags/open-student-org%20sogac-tw.md) | 1 | 2025-03-01T07:12:53+00:00 |
 | [gen-z](tags/gen-z.md) | 2 | 2025-02-12T17:06:42+00:00 |
 | [edu-open](tags/edu-open.md) | 3 | 2025-02-11T14:54:32+00:00 |
