@@ -6,7 +6,7 @@ tags: cofacts,
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- 線上出席：
+- 線上出席：bil, nonumpa, mrorz
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
@@ -29,8 +29,12 @@ tags: cofacts,
 - Hybrid search 問題：
     1. [原始計畫](https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.lhafy6bbdc9p#heading=h.vjvi75xc8br7)用到了 Enterprise 版 Elasticsearch 才有的功能 [(184 USD/mo 起)](https://www.elastic.co/pricing/cloud-hosted)
     2. Alternative: https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.idc4i49df995#heading=h.e11g9q4j7duq
+    3. 會開 GCS 權限給 yutin
 - Applying Auth (PR#51)
-- Gemini Deep Research? https://drive.google.com/drive/folders/1o9JPEcEptV87y6A7r-T794ZmkfisvMRp
+    - server function 只能用 serializable things
+    - catch auth error --> redirect to login page
+    - Langfuse score 換成 server side，包 user id
+- Gemini Deep Research Agent? https://drive.google.com/drive/folders/1o9JPEcEptV87y6A7r-T794ZmkfisvMRp
     - https://ai.google.dev/gemini-api/docs/interactions/deep-research
     - 我覺得酷的地方
         - 有結構化的 annotations 列出所有參考資料
@@ -74,7 +78,8 @@ tags: cofacts,
             - 針對不同 section 呼叫 verifier 確認出處 :+1: 
             - 最後每個出處都精準摘要 :+1: 
         - 可以再觀察
-
+- Cost? [name=nonumpa]
+    - 換 flash model 之後好像都 0.1~0.2 元 [name=mrorz]
 
 ## 主機維運與資安事件
 - **Production Disk 升級**:
@@ -104,6 +109,25 @@ tags: cofacts,
 - **DDoS 攻擊後續**: 5/5 伺服器出現了數次 HTTP timeout 與 429 (Too Many Requests) 的錯誤，可能與 DDoS 攻擊後的防禦設定有關。
 - **維護期間服務中斷**: 5/6 晚間，由於進行主機硬碟升級，`api.cofacts.tw` 與 `line-bot.cofacts.tw` 等服務曾短暫中斷 (回報 530 錯誤)。
 
+## g0v summit
+
+擺攤 ![](https://g0v.hackmd.io/_uploads/BJsYHeApWl.png)
+- [ ] X 型布幕 https://www.figma.com/design/1tiXCGut4kNCEkDG9FTza7/LINE-Chat-UI-Template--Community-?node-id=3011-2598&t=M7kq3ymM7XDO2z0s-4
+- [ ] mrorz, bil: 名片
+    - mrorz 正在補名片
+- [ ] ~~bil~~ mrorz: 貼紙
+- [ ] mrorz: acho 黃色傳單 (中文)，確認 QR code
+- [ ] mrorz: 摺頁 demo (BOT QR Code)
+- [ ] QR code 板板、Cofacts 板板
+- [ ] 外接螢幕：cofacts Youtube + about page
+
+## 下次開會
+
+5/22 (五) 20:00
+
+## Communications
+
+希望 UI 顯示明確地顯示是來自 cofacts 真的假的
 
 # Cofacts 伺服器週報 (2026/5/5 – 2026/5/14)
 
@@ -217,4 +241,6 @@ Mem 使用率從上週 62–64% 下降至本週 54–55%，原因是 Elasticsear
 1. **（高優先）清除 Swap**：在離峰時段執行 `swapoff -a && swapon -a`，確認 Swap 能正常回收。若無法清除，需排查是否有 memory leak。
 2. **（中優先）site-tw 記憶體**：容器持續在 1 GB 邊緣，建議評估是否需調高 Cloud Run memory limit 或優化 SSR 記憶體用量。
 3. **（持續追蹤）Cloudflare One token 導入**：作為防火牆誤擋的根本解法，取代 Bot Fight Mode 作為 API 存取控制。
+
+
 
