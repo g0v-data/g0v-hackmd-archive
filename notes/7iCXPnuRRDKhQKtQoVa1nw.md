@@ -6,9 +6,7 @@ tags: cofacts,
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
 - 線上出席：
-- 缺席：
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
@@ -29,8 +27,11 @@ tags: cofacts,
 
 > https://github.com/orgs/cofacts/projects/12
 - Hybrid search 問題：
+    1. [原始計畫](https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.lhafy6bbdc9p#heading=h.vjvi75xc8br7)用到了 Enterprise 版 Elasticsearch 才有的功能 [(184 USD/mo 起)](https://www.elastic.co/pricing/cloud-hosted)
+    2. Alternative: https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.idc4i49df995#heading=h.e11g9q4j7duq
 - Applying Auth (PR#51)
 - Gemini Deep Research? https://drive.google.com/drive/folders/1o9JPEcEptV87y6A7r-T794ZmkfisvMRp
+    - https://ai.google.dev/gemini-api/docs/interactions/deep-research
     - 我覺得酷的地方
         - 有結構化的 annotations 列出所有參考資料
         - 偶爾會出現不錯的 infographic
