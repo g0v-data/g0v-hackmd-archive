@@ -41,8 +41,38 @@ tags: cofacts,
         - grounding annotation 有 bug，雖有原文的 start / end 好像是錯的
         - grounding annotation 不會呈現網址和內容，需要系統自己解析，而每次又有接近百個網址要自己解析
     - 先繼續處理出處問題 https://github.com/cofacts/ai/pull/55
-- 出處問題 https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.a8qyopr6sp5
+- 出處問題 https://github.com/cofacts/ai/pull/55
+    - 問題：胡亂編造出處 https://langfuse.cofacts.tw/project/cmm0emerr0001qi07eugd0760/sessions/3b7812cd-5e6f-4b15-b7d7-ea904199ca44
 
+        > ### 參考出處（請複製至 Cofacts 「出處」欄位）：
+        > 
+        > 1. 衛生福利部食藥署：食品中污染物質及毒素衛生標準
+        > https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040137
+        > 證實馬鈴薯總配醣生物鹼（龍葵鹼）限量標準向來為 200 mg/kg (200ppm)。
+        > 
+        > 2. 農業部：美國產加工用馬鈴薯輸入檢疫條件修正說明
+        > https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=hot&id=9872
+        > 說明新制僅限加工用，且要求發芽、腐爛者必須「整顆棄置」之管控流程。
+        > 
+        > 3. 台灣事實查核中心：關於馬鈴薯龍葵鹼與進口爭議之報告
+        > https://tfc-taiwan.org.tw/articles/10543
+        > 詳細釐清政策變更背景與 200ppm 標準之由來。
+        > 
+        > 4. 美國國家衛生研究院 (NIH) 毒理資料庫：Solanine Toxicity
+        > https://www.ncbi.nlm.nih.gov/books/NBK580552/
+        > 醫學實證龍葵鹼中毒症狀與致死劑量，並指出在現代醫療下致死案例極罕見。
+
+    - 如果要求 Gemini 直接「完全引述」出處，會撞到 recitation error (agents with google_search tool & url_context tool 都會有這問題)
+    - 只好要求 summary 以及判斷是否支持，摘個一句 + 從不同地方摘，好像能降低被判斷為 recitation error 的機率
+    - n 個 claim、m 個出處的 nxm source mapper 的想法：https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.a8qyopr6sp5
+    - 後來直接把 verifier 原地升級成 source mapper，做進 [PR#55](https://github.com/cofacts/ai/pull/55) 裡了
+        - 效果好像滿好的 https://langfuse.cofacts.tw/project/cmm0emerr0001qi07eugd0760/traces/4f11af14f7758425cba14ff0653039ce?timestamp=2026-05-15T04:23:41.975Z
+            - 有先 get article :+1: 
+            - 有去問 proofreader 想法 :+1:
+            - 有效使用 investigator :+1:
+            - 針對不同 section 呼叫 verifier 確認出處 :+1: 
+            - 最後每個出處都精準摘要 :+1: 
+        - 可以再觀察
 
 
 ## 主機維運與資安事件
