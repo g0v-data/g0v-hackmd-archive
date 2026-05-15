@@ -28,7 +28,19 @@ tags: cofacts,
 ## cofacts.ai
 
 > https://github.com/orgs/cofacts/projects/12
-
+- Hybrid search 問題：
+- Applying Auth (PR#51)
+- Gemini Deep Research? https://drive.google.com/drive/folders/1o9JPEcEptV87y6A7r-T794ZmkfisvMRp
+    - 我覺得酷的地方
+        - 有結構化的 annotations 列出所有參考資料
+        - 偶爾會出現不錯的 infographic
+        - API 開得相當友善，很好做成 ADK 的 Long Running Function Tool
+    - 我覺得不酷的地方
+        - 每跑一次大概要花 10min up，成本 USD 3~5
+        - 中途發現不妙也停不下來
+        - grounding annotation 有 bug，雖有原文的 start / end 好像是錯的
+        - grounding annotation 不會呈現網址和內容，需要系統自己解析，而每次又有接近百個網址要自己解析
+    - 先繼續處理出處問題 https://github.com/cofacts/ai/pull/55
 - 出處問題 https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?tab=t.a8qyopr6sp5
 
 
