@@ -246,3 +246,8 @@ https://drive.google.com/file/d/1p8BGnhcEApNRTuBsnyUV7WxbucuuEsSv/view
 
 https://g0v.hackmd.io/ulXygc48SByUb9nZTO2skw
 https://drive.google.com/file/d/1p8BGnhcEApNRTuBsnyUV7WxbucuuEsSv/view
+
+## g0v 人物誌
+ 
+g0v 人物誌 | 台灣欣欣，資料向榮 Ronny Wang
+https://ipachiu.substack.com/p/g0v-ronny-wang
