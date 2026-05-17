@@ -80,7 +80,7 @@ https://photos.app.goo.gl/PothcgShgdY5ThrB8
 [主題] 街廓巷弄 / 戶外舒適度 / 沒遮道 / 影響沿線建物介面設計
 https://photos.app.goo.gl/BAumLMXn12wD9qmp9
 
-## 【對策】斜向路徑
+## 【對策】斜向路徑 / Diverter / Modale Filter / 路口對角封閉設施
 
 - 美國用語 Diverter
     - Urban Street Design Guide https://nacto.org/publication/urban-street-design-guide/
@@ -96,8 +96,7 @@ https://photos.app.goo.gl/BAumLMXn12wD9qmp9
         - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aa273de9870855c8384ba143e8ae0583.png)
         - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8b6f54c98ce840e1576753cd92443230.png)
 
-
-### 世界各地案例
+### 引導巷弄車流轉向的世界各地案例蒐集
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSJ1EDIzKek2QdNWGR76oeA311ud1oTESIvSGj0-T7xdeuLPXKIgI2LTbemtFws8zYO_Bobdd9Gy2fO/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="470" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -514,8 +513,12 @@ https://prof.bht-berlin.de/fileadmin/prof/jschlaich/Abschlussarbeiten/Abschlussa
 2024.05 針對臺北市捷運中山站至雙連站街區
 - 有實際拍照方案中的待確認建物之停車場出入口位置 https://photos.app.goo.gl/BAumLMXn12wD9qmp9
 
-2024.06.29 針對臺北市建國中學-古亭站-南門市場，探討方案與公車路線的衝度
+2024.06.29 針對臺北市建國中學-古亭站-南門市場，探討方案與公車路線的衝突
 - https://www.facebook.com/groups/474536628587982/posts/480887367952908/
+
+2026.05.18 設置 臺北市全市街區政策倡議 的工作文件
+- https://g0v.hackmd.io/rq8ULwzSSjqGW0rfMLEffw?view
+
 
 ---
 
