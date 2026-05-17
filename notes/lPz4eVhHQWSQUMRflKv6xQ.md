@@ -143,17 +143,13 @@ Laptop
     - 靜止
 - 兩人團曲目
     - [when you believe](http://www.youtube.com/watch?v=eAM2-hg7xJs)
-    -
 - 三人團曲目
-    -
 - 四人以上團曲目
     - [世界末日](http://www.youtube.com/watch?v=X2vmwSnc6VM)
-    -
 
 #### 有樂器時：g0v band
 
 - 沒keyboard曲目
-    -
 - 有keyboard曲目
 讓我想到這個
 [https://www.youtube.com/watch?v=mvvP90Cpdfc](https://www.youtube.com/watch?v=mvvP90Cpdfc)

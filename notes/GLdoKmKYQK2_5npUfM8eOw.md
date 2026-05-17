@@ -14,6 +14,7 @@ case:
 狀態
 - 不會改建
 - 會改建
+- 改建中 https://g0v.hackmd.io/GMYOZV6jRN20YN037yRqvQ?view
 - 公有建物，尚有調整空間
 
 整合：
