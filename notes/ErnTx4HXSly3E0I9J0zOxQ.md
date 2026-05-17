@@ -29,6 +29,25 @@ g0v Slack #好連街_gdp_good-district-path-生活路徑營造
 [TOC]
 :::
 
+## 【對策】提出新的路網範型
+
+主要課題
+- 面對過境車流，看似提供多一條路徑，但整體不一定比較暢通，而過境路徑卻一定會造成事故與街區內的生活空間破碎
+- 摘自論文：「根據 Nello-Deakin（2022）於巴塞隆納的實證研究指出，在進行道路空間調整後，道路交通量平均下降 14.8%，而鄰近區域未出現顯著壅塞，呈現明顯的「交通蒸發」（traffic evaporation）效應，此結果證實道路容量減少不一定造成替代道路擁塞，部分車流可能實際消失或轉向其他運具。比利時的根特（Gent）自 2017 年起實施「循環計畫」（Circulation Plan），市中心被劃為六個區塊，車輛若要在不同分區之間移動，必須繞行外圍環狀道路，而非穿越市中心。此外，中心區內大量街道轉為步行、自行車專用或公車優先空間，並移除部分停車位將其改建為廣場、綠地、戶外座位等。減少汽車道路的同時，根特市以擴充其自行車道網路、增加停車轉乘設施與公車班次等配套措施，確保居民有替代運具選項。根據歐盟（EU Urban Mobility Observatory）資料顯示，汽車使用比例從 55%下降至 27%，大眾運輸使用比例由 9%增加至整體運輸模式的20%，徒步比例也從 15%增加至 18%。類似的現象在新加坡市政區（Civic District）、香港中環德輔道中（DVRC）等亦皆可見。」
+    - 論文：臺北市新生高架橋拆除可行性：以交通指派模型進行模擬分析 https://g0v.hackmd.io/N_FPX-6tQRyBOLafqPP1wA
+- 探討：
+    - 情境對策一：方形街廓邊長 200 公尺以下尺度的群集地區，相鄰街廓進一步整合成一個街區範圍
+        - 臺北市西門町地區、臺北城地區
+        - 臺中市火車站前地區
+        - 嘉義市區
+        - 臺南市市區
+        - 高雄火車站地區
+    - 情境對策二：由大型道路所圍塑的方形街廓邊長 200 公尺以上，自成一個街區範圍
+        - 需避免該街區內寬度 12 米以下道路成為過境車流路線
+        - Fused Grid 融合型路網 https://zh.wikipedia.org/zh-tw/%E8%9E%8D%E5%90%88%E5%9E%8B%E8%B7%AF%E7%BD%91
+            - ![](https://g0v.hackmd.io/_uploads/ryPnkPvJMl.png)
+
+
 ## 【對策】營造街區內的明確綠道
 
 ### 案例蒐集
@@ -71,9 +90,14 @@ https://photos.app.goo.gl/BAumLMXn12wD9qmp9
 - 臺灣用語 路口對角封閉設施
     - 臺北市《交通道路設計手冊》有提到路口斜向與橫向阻隔車流的設置構想
         - https://www.facebook.com/groups/474536628587982/permalink/623587027016274/
-    - 社團討論串：
+    - 社團討論串：https://www.facebook.com/groups/474536628587982/permalink/623587027016274/
+    - 2023.11 臺北市大安區大學里交通改善問卷中，有提到「阻隔部分路口，避免車輛直通穿越」這項改善措施，檔案備份 2024.06.29 
+        - https://drive.google.com/drive/folders/1pw-JHthK5d7pyJ4MhRUBrkCFQoVAbBTv?usp=sharing
+        - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aa273de9870855c8384ba143e8ae0583.png)
+        - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8b6f54c98ce840e1576753cd92443230.png)
 
-### 各地案例
+
+### 世界各地案例
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSJ1EDIzKek2QdNWGR76oeA311ud1oTESIvSGj0-T7xdeuLPXKIgI2LTbemtFws8zYO_Bobdd9Gy2fO/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="470" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -329,7 +353,10 @@ https://data.gov.hk/tc-data/dataset/hk-td-tis_15-road-network-v2
     - 留設區最窄處的寬度：至少有 20 公尺
 
 ### 西雅圖 Thomas St & Dexter Ave N
-- Google Map：
+
+Thomas St & Dexter Ave N 汽車不直通
+- https://www.facebook.com/share/uM9kYKZd2hh3CkPd/
+- Google Map：https://maps.app.goo.gl/tgspqJiRToreAMX27
 - 改造前，道路尺寸與車道數量
     - 可能要看歷史街景？
     - 南北向道路：
@@ -349,9 +376,9 @@ https://data.gov.hk/tc-data/dataset/hk-td-tis_15-road-network-v2
         - 兩側停車格
     - 留設區最窄處的寬度： 公尺
 
-#### 巴塞隆納
+### 巴塞隆納
 
-##### 軸帶 C/ del Consell de Cent
+#### 軸帶 C/ del Consell de Cent
 地圖：https://maps.app.goo.gl/366mXD3HotUejfXS9
 串聯：
 - Biblioteca Joan Miró / Parc Joan Miró
@@ -359,7 +386,7 @@ https://data.gov.hk/tc-data/dataset/hk-td-tis_15-road-network-v2
 - 巴塞隆納大學 Universitat de Barcelona
 - Sofia Barat Public Library
 
-##### 個別街廓
+#### 個別街廓
 - C/ de Sancho de Ávila
     - Parc infantil：https://maps.app.goo.gl/X5vCNzCWo821CvtGA
 - C/ de Biscaia
@@ -367,9 +394,9 @@ https://data.gov.hk/tc-data/dataset/hk-td-tis_15-road-network-v2
     - https://www.facebook.com/photo/?fbid=468516949119738&set=pcb.468520879119345&locale=zh_TW
 - 待查找線上地圖地點：https://www.facebook.com/share/9jkpUvRvNzEFkJbn/?mibextid=WC7FNe
 
-#### 維也納
+### 維也納
 
-##### 探討地區
+#### 探討地區
 https://www.energy-innovation-austria.at/article/superblock-2/?lang=en
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_749f063dfb5ef14297cb4644d024b765.jpg)
@@ -429,7 +456,7 @@ Mittelschule Herzgasse 中學學校西南側路口
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_d177094489708b23704c7f60d95eefb7.jpeg)
 
 
-##### 其他待確認
+#### 其他待確認
 實體活動策劃待確認地點
 https://www.linkedin.com/posts/flolo_supergrätzl-activity-6978991837566918656-b4uf/
 活動，待確認地點
@@ -443,7 +470,7 @@ https://x.com/infraexplained/status/1805702495810867665
 
 https://www.facebook.com/immdesignlab.polimi/posts/pfbid0MANDDHrSmx9oPPpQj65tsTbByi6pTGm9RiSLHpQD6a9wEog8NtoW9CjEhTPZhrv9l
 
-#### 德國
+### 德國
 
 [已施作] 柏林 Wrangelstraße Falckensteinstraße 
 - 2019 影片 https://x.com/ayranundspeck/status/1163876931781169155
@@ -464,25 +491,14 @@ https://maps.app.goo.gl/D7hkyk4QfTinyqFu8
 https://prof.bht-berlin.de/fileadmin/prof/jschlaich/Abschlussarbeiten/Abschlussarbeit_Nr20_Bachelor_Follert_BruesselerKiez.pdf
 
 
-#### 西雅圖
-
-Thomas St & Dexter Ave N 汽車不直通
-https://www.facebook.com/share/uM9kYKZd2hh3CkPd/
-https://maps.app.goo.gl/tgspqJiRToreAMX27
-
 ### 國際案例地點 & 臺灣情境試作地圖
 
 另開地圖：https://maps.app.goo.gl/X4C3X5fb5rMY1q5C6
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1lG4BxKyoiLXTIReVRpw8PPLpI81NU0E&ehbc=2E312F" width=100% height="480"></iframe>
 
-2023.11 臺北市大安區大學里交通改善問卷中，有提到「阻隔部分路口，避免車輛直通穿越」這項改善措施
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_aa273de9870855c8384ba143e8ae0583.png)
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8b6f54c98ce840e1576753cd92443230.png)
 
-檔案備份
-2024.06.29
-https://drive.google.com/drive/folders/1pw-JHthK5d7pyJ4MhRUBrkCFQoVAbBTv?usp=sharing
+
 
 ---
 
