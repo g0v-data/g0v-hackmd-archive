@@ -109,6 +109,7 @@ g0v Slack Channel Guide 頻道傳送門
 #g0v-conservation-archive-文物保存
 #community99-社群九分鐘-撰寫工作頻道
 #g0v-database-專案清單-基礎建設清單
+#civictech_database_臺灣公民科技專案與工具資料庫及行動指引
 #translation 翻譯頻道 i18n + l10n—translate everything.
 #localization 社群翻譯語彙庫 (glossary)，從軟體在地化需求出發，收集個別社群成員、在各自筆譯／口譯／翻譯專案使用的詞彙前進，並希望收錄不只一個語言。
 #name 專案取名稱的互助頻道 Channel for Project Naming
@@ -129,6 +130,7 @@ g0v Slack Channel Guide 頻道傳送門
 #bridge 跨平台訊息流通工具 Cross-Platform Information Flow Tools
 #g0v-social 討論 Mastodon 伺服器
 #hackmd HackMD 使用經驗與課題回報
+#hackmd-import-把有限公開改為公開瀏覽查詢
 #g0vernance 討論社群治理 Discussion on Community Governance
 #g0v-landing-page g0v.tw 網站社群治理，以及社群活動刊登至日曆的提案頻道
 #engaged-research 以 g0v 為主的學術研究 Academic research on g0v and community projects
@@ -140,6 +142,7 @@ g0v Slack Channel Guide 頻道傳送門
 #summit g0v Summit 年會的公開頻道 https://summit.g0v.tw/
 #10th-anniversary 十週年活動籌劃頻道 https://10th.g0v.tw/
 #moztw-space 摩茲工寮社群空間 https://moztw.org/space/
+#venue_場地
 
 ### Edu / Learning / Health / Living
 #幼兒發展調查資料庫
