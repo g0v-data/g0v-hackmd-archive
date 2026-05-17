@@ -12,7 +12,43 @@ tags: cofacts
 
 現況實作： https://github.com/cofacts/rumors-api/pull/389
 
+### 為何要做這個？
+
+Cofacts MCP server 讓 AI agent 能夠以**真實使用者身份**存取 Cofacts API，開啟以下工作流程：
+
+**查核者**
+- 在研究過程中直接問 Claude「這則訊息有沒有人查核過？」，不需要切換到 cofacts.tw 手動搜尋
+- 讓 Claude 彙整某篇文章現有的所有查核回應，快速掌握目前共識
+- 草擬完查核說明後，直接透過 MCP 提交 reply，不需要開啟網頁表單
+
+**智庫 / 研究人員**
+- 詢問「最近一個月關於疫苗的文章有哪些尚未查核？」，讓 Claude 查詢並整理成報告
+- 跨時段分析特定關鍵字的謠言散布模式（ListArticles + ListAnalytics）
+- 匯出特定類別的查核資料，交由 Claude 做統計摘要或輔助撰寫白皮書
+
+**Cofacts 團隊維運**
+- 快速確認「哪些文章 reply request 數量多但還沒有 reply？」
+- 透過對話介面批次確認 AI 自動回應的品質（ListAIResponses）
+- 讓 Claude 協助審視 co-occurrence 資料，找出值得關注的謠言群集
+
 ---
+
+### 為何選擇 Remote MCP 而不是 Skill？
+
+**Skill** 只會走現在的 Cofacts API，會很難登入。
+
+即使我們已經實作了 token 登入，但該登入流程最後需要 redirect 到 `ALLOWED_CALLBACK_URLS` 白名單，要進行其實不容易。
+
+**Remote MCP** 的優勢：
+
+1. **任意增減 tool，client 端不需要重新安裝**
+   Tool 清單由 server 控制，推送新 tool 後所有已連接的 client 自動取得，無需使用者更新設定。
+2. **不只限於 coding agent** 
+   可以安裝成 claude.ai 的 **Connector**、ChatGPT 的 **App**，讓使用者在一般對話介面中就能使用，不需要進入 Claude Code 或 Cursor。查核者不一定是開發者，這一點至關重要。
+3. **標準 OAuth 2.1 + PKCE，任何 MCP client 都能接**
+   Claude Code、Cursor、Gemini CLI、claude.ai connector 使用同一套 server，不需要為各 client 做客製整合。新的 MCP client 出現時，無需改動 server 端任何白名單或配置。
+
+
 
 ## 2. Auth Flow 對比
 
@@ -129,6 +165,45 @@ MCP request 執行的 mutation 寫入 ES 文件時，`appId` / `appUserId` / `us
 
 目前 Claude Code、claude.ai connector、Cursor 三者產出的內容在 `appId` 欄位上無法區分，均為 `"MCP"`。若未來需要追蹤來源，可在 dynamic registration 階段記錄 `client_name` 並考慮 per-client appId。
 
+### 三個設計選項（供討論）
+
+#### Option 1 — MCP 帳號完全獨立（現狀）
+
+`appId: 'MCP'` 被視為 backend app，`createOrUpdateUser` 產生新的 hashed user record。
+
+- DB user ID = `encodeAppId('MCP')_sha256(ES_DOC_ID)`，與 cofacts.ai 帳號毫無關聯
+- 貢獻紀錄、封鎖狀態等各自獨立
+- 優點：實作零成本，attribution 清晰
+- 缺點：同一個人在 cofacts.ai 和 MCP 是不同身份；封鎖繞過風險
+
+#### Option 2 — 共用 cofacts.ai 身份、保留 MCP attribution（推薦）
+
+讓 `getUserId` 對 MCP 走和 `'WEBSITE'` 同樣的路徑（直接回傳 ES_DOC_ID），但 `appId` 仍保持 `'MCP'` 供 mutation attribution 使用。
+
+**實作方式：一行修改 `src/util/user.ts`**
+
+```diff
+ export const isBackendApp = (appId: UserAppIdPair['appId']) =>
+-  appId !== 'WEBSITE' && appId !== 'DEVELOPMENT_FRONTEND';
++  appId !== 'WEBSITE' && appId !== 'DEVELOPMENT_FRONTEND' && appId !== 'MCP';
+```
+
+這讓 `getUserId({ appId: 'MCP', userId: ES_DOC_ID })` 直接回傳 `ES_DOC_ID`，`createOrUpdateUser` 找到現有的 social login user record，只更新 `lastActiveAt`。
+
+結果：
+- `userId` = 與 cofacts.ai 相同的 ES_DOC_ID → 同一個人、同一份紀錄
+- `appId` = `'MCP'` → mutation 仍可區分來源
+- 封鎖狀態、貢獻分數等完全共享
+
+#### Option 3 — MCP 視同 cofacts.ai 網站（最簡單）
+
+在 `mcpServer.ts` 把 `appId: 'MCP'` 改成 `appId: 'WEBSITE'`。
+
+- 完全走 cofacts.ai 同一路徑
+- 優點：零 infra 改動，身份 100% 一致
+- 缺點：log 和 analytics 無法區分 MCP 與網站來源的 mutation
+
+
 ---
 
 ## 4. 理想 Tool 設計
@@ -230,7 +305,9 @@ Domain knowledge:
 - Article = 使用者回報的可疑訊息。URL: cofacts.tw/article/<articleId>
 - Reply = 志工撰寫的查核回應。URL: cofacts.tw/reply/<replyId>
 - ArticleReply = 將 Reply 連結到 Article 的關聯（一篇 Article 可有多個 Reply）
-- ReplyRequest = 其他使用者表示「我也收到這則訊息」，用於衡量文章熱門程度
+- ArticleReplyFeedback = ...
+- ReplyRequest = ...
+- ArticleCategory = ...
 
 使用方式：
 1. 先執行 graphql_query 進行 introspection，了解 schema
