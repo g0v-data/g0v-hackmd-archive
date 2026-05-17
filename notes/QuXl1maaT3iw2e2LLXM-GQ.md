@@ -37,6 +37,9 @@ tags: 公有地大行動, 公有地大行賄
     - https://www.facebook.com/groups/show.me.the.court.case/
 
 ## 參考專案
+- 從「判決文」中擷取出地理資訊然後再繪製到地圖
+    - https://youtu.be/3KPUExGLjWg
+    - https://www.facebook.com/558939927483114/posts/4173049602738777/
 - 參考專案：台灣賄選實價登錄地圖
     - http://kiang.github.io/bribes_map/
     - https://youtu.be/A_CWm1JWA-k

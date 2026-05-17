@@ -69,7 +69,7 @@ txt2map｜文字(地址/地號)轉地圖
 地址轉經緯度: https://g0v.hackmd.io/i6MO2ddVQ8iMy1jSp9vVog?view
 地址(csv → GeoJson): http://goo.gl/wTKXUF
 「TWD97二度分帶座標」轉成「WGS84經緯度座標」: https://g0v.hackmd.io/i6MO2ddVQ8iMy1jSp9vVog?view
-地號(csv → 地政司 → GeoJson): https://goo.gl/Cf85qs
+地號(csv → 地政司 → GeoJson): https://g0v.hackmd.io/uFhBRHrnR-yvvFD4ZEn3XA?view
 從「判決文」中擷取出地理資訊然後再繪製到地圖 https://www.facebook.com/558939927483114/posts/4173049602738777/
 
 statistics2map｜統計數據的地圖
