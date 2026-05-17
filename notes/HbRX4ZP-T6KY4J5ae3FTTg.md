@@ -397,7 +397,8 @@ Prompts 與 `instructions` 的定位差異：
 來源：[modelcontextprotocol.io/clients](https://modelcontextprotocol.io/clients)
 
 
----
+## 待討論
 
-以上供大家討論。實作上優先順序建議：`graphql_query`/`graphql_mutate` 拆分 → `instructions` → tool descriptions 精修 → Resources。
-
+CreateArticle / CreateMediaArticle 是否要增加限制
+- references 限制？
+- 允許從 MCP 投遞不是 LINE 的其他來源？

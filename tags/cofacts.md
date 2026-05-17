@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Cofacts MCP Server — Technical Design Doc](../notes/HbRX4ZP-T6KY4J5ae3FTTg.md) | 2026-05-17T17:14:18+00:00 | 2026-05-17T16:11:41+00:00 |
+| 1 | [Cofacts MCP Server — Technical Design Doc](../notes/HbRX4ZP-T6KY4J5ae3FTTg.md) | 2026-05-17T18:45:39+00:00 | 2026-05-17T16:11:41+00:00 |
 | 2 | [20260515 會議記錄](../notes/7iCXPnuRRDKhQKtQoVa1nw.md) | 2026-05-15T12:57:28+00:00 | 2026-05-06T11:16:50+00:00 |
 | 3 | [20260505 會議記錄](../notes/4kQ9ihNOQfmtYvGcBkrKJg.md) | 2026-05-06T11:18:41+00:00 | 2026-04-29T06:33:56+00:00 |
 | 4 | [20260428 會議記錄](../notes/soYRY1aESxiK5RBa_q9CWQ.md) | 2026-04-29T10:54:39+00:00 | 2026-04-28T03:41:52+00:00 |

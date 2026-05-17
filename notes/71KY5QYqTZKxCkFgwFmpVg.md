@@ -5,9 +5,12 @@ tags: planning,architecture,hackpad
 
 # [舊的] 城市建築地圖案例蒐集
 
+:::danger
 最新內容更新於以下 hackmd
 https://g0v.hackmd.io/f6BFdHvDTX2o_AtNU2jtOg?view
+:::
 
+---
 
 主題：屋齡、歷史地圖、使用分區、建築高度、環境分析、交通時程地圖、人流地圖、聲音地圖、噪音地圖、綠色開放空間地圖
 

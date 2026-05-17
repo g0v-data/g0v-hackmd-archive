@@ -4,8 +4,6 @@ tags: GIS,
 
 # 環境法令整合查詢
 
-> [點此觀看原始內容](https://g0v.hackpad.tw/LGQjB0Lozmc)
-
 > 討論串 [https://www.facebook.com/groups/odtwn/permalink/1635895016424910/](https://www.facebook.com/groups/odtwn/permalink/1635895016424910/)
 > [name=che l]
 

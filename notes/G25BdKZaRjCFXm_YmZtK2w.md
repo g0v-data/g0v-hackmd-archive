@@ -5,10 +5,12 @@ tags: Issue-Mapping,hackpad
 
 # [舊的] Issue-Mapping 蒐集案例
 
-
+:::danger
 最新內容請至
 https://g0v.hackmd.io/eraUN0_hSnKu04fVeTD2eQ?view
+:::
 
+---
 
 
 ### 自然資源/監測/基礎建設

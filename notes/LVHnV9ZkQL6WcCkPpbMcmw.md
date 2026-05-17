@@ -1,6 +1,5 @@
 ---
-title: "水"
-tags: GIS, 水資源, hackpad
+tags: GIS, 水資源
 ---
 
 # 水

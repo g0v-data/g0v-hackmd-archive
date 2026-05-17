@@ -4,10 +4,12 @@ tags: hackpad
 
 # [舊的]Area Information 地區尺度的演變歷程資訊
 
+:::warning
 最新內容請至
 https://g0v.hackmd.io/J0sbdyIqQ_OrNXJ9boT9Zw?view
+:::
 
-
+---
 
 - 討論串：[https://www.facebook.com/groups/470451239772824/permalink/743070939177518/](https://www.facebook.com/groups/470451239772824/permalink/743070939177518/)
 - 構想說明：如果想要知道一個地理範圍內，(從古至今) 各種大大小小的空間變動事件，可以參考什麼樣的公部門資料來源？特定地方的規劃作為、研究成果查詢與匯整方法？

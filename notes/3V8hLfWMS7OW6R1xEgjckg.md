@@ -1,6 +1,6 @@
 ---
-title: "《金權城市》"
-tags: g0v idea pool,hackpad
+
+tags: GIS, g0v idea pool
 ---
 
 # 《金權城市》

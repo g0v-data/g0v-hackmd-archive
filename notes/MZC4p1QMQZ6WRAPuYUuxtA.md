@@ -1,26 +1,24 @@
 ---
-title: "開放政府資料法"
-tags: Legal,hackpad
+tags: Legal, hackpad
 ---
 
 # 開放政府資料法
 
-> [點此觀看原始內容](https://g0v.hackpad.tw/b6gTMfhXMYY)
-
-
 :star: 這是個法律坑，因這個坑應該會推很多不見得熟悉 g0v 運作的人進來，再加上本來最快也是明年的計畫，所以現在就先不管項目與格式，若現在就想參與，請想到什麼就寫什麼，之後再來整理。
 
+:::info
+[TOC]
+:::
+
+
 提議授權方式：CC BY 4.0
-（指這個 pad 的內容，若是立法成功本來就無法主張著作權）
+（指這個文件的內容，若是立法成功本來就無法主張著作權）
 > 之前忘了寫，如果大家沒有異議的話，第11次大松之後就定下來嘍！
 > [name=nchild]
-
 > 第十一次是幾月幾號啊（之前好像看過但又忘了），先謝啦！
 > [name=Xavier S]
-
 > 是12/20，昨天有幾位現場參與另開了一個相關 [pad](https://g0v.hackpad.tw/Taiwan_open_government_data_license_citizens_community_version#-)。
 > [name=nchild]
-
 
 ### 挖坑的原因
 
@@ -102,7 +100,7 @@ tags: Legal,hackpad
 
 ## What?
 
-### 1\. 條文裡面要包含什麼？
+### 1. 條文裡面要包含什麼？
 
 
 - 第一條應為開放政府資料立法理由（應該要每個接觸開放資料業務的公務員都要能說出）
@@ -117,7 +115,7 @@ tags: Legal,hackpad
 - 處理 [Metadata aware tool](https://g0v.hackpad.tw/QE2enP8n89F) 課題
 
 
-### 2\. 台灣開放政府資料授權條款-民間版
+### 2. 台灣開放政府資料授權條款-民間版
 
 
 [https://g0v.hackpad.com/Taiwan\_open\_government\_data\_license\_citizens\_community_version#-](https://g0v.hackpad.com/Taiwan_open_government_data_license_citizens_community_version#-)
@@ -241,6 +239,7 @@ tags: Legal,hackpad
 #### 立法院的理解與遊說
 
 - 什麼樣學經歷與工作經驗的立委/辦公室，會對於此法案感興趣？
+
 #### 產官學角色的指認
 
 - OpenData 聯盟
@@ -282,3 +281,11 @@ tags: Legal,hackpad
 
 (十三) 政府資料開放平臺API專區  - 擴充政府資料開放平臺API功能，提供第3方使用者可透過API取得本平臺動態產生之各式結構化資料。
 
+## AI 基本法
+
+涉及到資料開放的內容
+
+
+## 2026 年的倡議
+
+OCF

@@ -1,6 +1,5 @@
 ---
-title: "Crowd Planning System / Prototype"
-tags: 土地,公有地大行動,hackpad
+tags: 土地, 公有地大行動, hackpad
 ---
 
 # Crowd Planning System / Prototype

@@ -4,9 +4,10 @@ tags: hackpad
 
 # [舊的]環境演變歷程：文本蒐集
 
+:::danger
 最新內容請至 
 https://g0v.hackmd.io/hVfYoPVlQ--5hBc0ip_QrA?view
-
+:::
 
 ---
 

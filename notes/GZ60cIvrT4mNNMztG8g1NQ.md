@@ -29,6 +29,7 @@ https://docs.google.com/presentation/d/1KKDka2cuJHT6N6IqTumfcjxBt0xhJIscwmv8R7Ad
 
 ## 推動策略
 
+- 相關討論 https://g0v.hackmd.io/nPAAuUkSSlKRlgeCcK5v3Q?view
 - 從減災溝通角度，應該優先蒐集哪些災害影像？
     - 具現場重複性且 10 年內可能會發生
 - 建立資料庫架構比較表

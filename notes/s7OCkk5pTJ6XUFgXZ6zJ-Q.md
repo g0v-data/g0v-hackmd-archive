@@ -5,10 +5,12 @@ tags: 地圖化,hackpad
 
 # [舊的]地理資料格式轉換工具
 
+:::danger
 最新內容請至
 https://g0v.hackmd.io/YlItCwk0RpS1UVSlmliQXA?view
+:::
 
-
+---
 
 蒐集各種繪製電子地圖的方式。筆記原則：一行傳送門，請附上完整或短網址，工具直接用/教學文都可哦。
 
