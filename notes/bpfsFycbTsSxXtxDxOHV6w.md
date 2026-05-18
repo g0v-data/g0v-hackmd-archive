@@ -1,5 +1,7 @@
-https://www.fpdgreen.com
-Zhejiang Feipuda Environmental Protection Technology Co Ltd. It is a high-tech company specializing in R&D and manufacturing of environmental protection equipment parts, especially screw conveyor systems, with over 10 years of experience.
+Zhejiang Sowell Electric Co Ltd
 
-+86 19817096730
-140 Jinjiabang Street, Tanghui Street, Xiuzhou District, Jiaxing City, Zhejiang, China
+https://www.pv2000dc.com
+
+We focus on the R&D, selling and technical services of photovoltaic products. Our products include photovoltaic cables, PV connectors and accessories.
++86 18368490794
+No. 688, Siming Mid Road, Yinzhou District, Ningbo, China
