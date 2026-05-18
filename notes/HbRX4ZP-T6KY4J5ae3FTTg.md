@@ -401,7 +401,9 @@ Prompts 與 `instructions` 的定位差異：
 
 CreateArticle / CreateMediaArticle 是否要增加限制
 - references 限制？
+- 用 prompt 引導 agent 先查相似訊息，再來決定是否要送出，並且要求提供回報補充資訊，最後引導到自行查證
 - 允許從 MCP 投遞不是 LINE 的其他來源？
+
 
 要加 log 嗎
 - 要的話，肯定是要 log 是誰打的，還有 auth error
@@ -409,3 +411,14 @@ CreateArticle / CreateMediaArticle 是否要增加限制
     - 要 log response 嗎
 - MCP server 可以發個 [MCP-session-ID](https://modelcontextprotocol.io/specification/2025-11-25/basic/transports#session-management)，client 會一直回傳同一個 session ID，讓我們能追蹤一個 chat session 底下發生的 query
 - 直接吐在 console (上 cloud console，一個月 retention) or 吐到 langfuse (我們沒在清，他會一直存著)
+
+使用者條款？
+- 紀錄誰看過使用者條款、看了哪一個版本？
+- 傳送網路訊息之權利義務
+    - 「使用者對本聊天機器人所發送的任何事實性資訊，倘僅為事實性考究與通報，依法不視為著作表達而可被自由引用及紀錄。若提報資料受著作權利保護，並同時以聊天機器人使用者為其著作權利人，則採 CC0-1.0 無償提交至 Cofacts WG 所維運之電腦或相關設備進行存放。若提報資料的著作權利歸屬於第三方，則敦請聊天機器人使用者協助標示其歸屬狀態。」 https://github.com/cofacts/rumors-line-bot/blob/master/LEGAL.md
+    - 「提交資訊即代表您同意 Cofacts WG 將存放於電腦或其相關設備的該等資訊進行編輯性整理後，得採 CC BY-SA 4.0 或其他適宜的授權模式，將具編輯性保護之資料發布於 Cofacts 網站、Cofacts 聊天機器人或 Cofacts 所提供資料存檔等處。」https://github.com/cofacts/opendata/blob/master/LEGAL.md#%E5%9B%9B%E5%9B%9E%E5%A0%B1%E8%B3%87%E8%A8%8A
+- 傳送查核結果之權利義務
+    - 「網站協作者查核後所撰寫的回應、補充或評價等資訊，若有產生著作權利保護之可能，撰寫之編輯同意採公眾領域宣告（CC0-1.0）無償提交至 Cofacts WG 所維運之電腦或相關設備進行存放。」「網站協作者若使用第三方之資料來源進行佐證，其引用之資料來源之著作仍屬於原創作之第三方所有，此時協作者同意為查證目的，在合理範圍內引用第三方資料，並於提交時提供原創作出處。」https://github.com/cofacts/rumors-site/blob/master/LEGAL.md
+    - 同上， https://github.com/cofacts/opendata/blob/master/LEGAL.md#%E5%9B%9B%E5%9B%9E%E5%A0%B1%E8%B3%87%E8%A8%8A
+- 使用資料的權利義務：「您在後續重製或散布時，原社群顯名及每一則查證的出處連結（URI）皆必須被完整引用」與「除已知非直接營利的第三方公眾服務網站爬蟲，採低頻率部份內容捉取模式外（如 Internet Archive、Google、Facebook），以及依本使用者條款申請取得 app-id 或 app-secret 等 Cofacts API 應用外，本使用者條款明確禁止使用自動化方式爬取 Cofacts 網站或聊天機器人所提供的內容，所有逾此範圍之自動化資料爬取行為，皆視為對 Cofacts 真的假的 相關服務之惡意使用。」https://github.com/cofacts/opendata/blob/master/LEGAL.md
+- 免責聲明、聯絡方式、法院 https://github.com/cofacts/opendata/blob/master/LEGAL.md#%E4%BA%94%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E
