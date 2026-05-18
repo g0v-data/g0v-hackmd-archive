@@ -120,6 +120,7 @@ TMUSO 北醫大海外醫療服務團
 https://www.facebook.com/story.php?story_fbid=pfbid02VCGahrGJS3zdmosjxhXSXJmZ8vRyFTx7NLuHqqZFohcyapTxF6qwo8ATCCrLUg6Ul&id=100064690928605
 
 # Japan
+
 https://g0v.hackmd.io/@chewei/Japan/
 
 
@@ -137,9 +138,13 @@ https://g0v.hackmd.io/@china/book
 https://g0v.hackmd.io/@jothon/intro/
 
 
-# 菲律賓
-
+# Philippines
 
 ## Data
 
 https://www.facebook.com/share/p/5YmTcLYKjjenRy8t/
+
+## Project
+
+Maphy bygelo™ is an open-source 3D civic atlas of the Philippines, transforming 369 public datasets into actionable insights across 42,048 barangays. From demographics, poverty, health, hazards, and infrastructure, Maphy maps critical social realities directly onto real-world terrain, helping communities, researchers, and decision-makers better understand how people and places are connected. Built independently and fully open-source for everyone.
+Explore the map here: https://bygelo.com/maphy/
