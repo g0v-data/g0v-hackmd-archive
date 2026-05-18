@@ -402,3 +402,10 @@ Prompts 與 `instructions` 的定位差異：
 CreateArticle / CreateMediaArticle 是否要增加限制
 - references 限制？
 - 允許從 MCP 投遞不是 LINE 的其他來源？
+
+要加 log 嗎
+- 要的話，肯定是要 log 是誰打的，還有 auth error
+    - 要 log query 本體嗎
+    - 要 log response 嗎
+- MCP server 可以發個 [MCP-session-ID](https://modelcontextprotocol.io/specification/2025-11-25/basic/transports#session-management)，client 會一直回傳同一個 session ID，讓我們能追蹤一個 chat session 底下發生的 query
+- 直接吐在 console (上 cloud console，一個月 retention) or 吐到 langfuse (我們沒在清，他會一直存著)
