@@ -1,6 +1,38 @@
 :::danger
 Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
 :::
+:::success
+reg add "HKCR\.txt" /ve /d "txtfile" /f
+reg add "HKCR\.txt\ShellNew" /v "NullFile" /t REG_SZ /d "" /f
+reg add "HKCR\txtfile" /ve /d "Text Document" /f
+
+:::
+::
+
+:::warning
+
+@echo off
+@chcp 65001 >nul
+echo ================================
+echo 請輸入個人 Windows 帳密連線 OPQ 磁碟機
+echo ================================
+@set "domain=chainlon"
+@set /p ac1=請輸入帳號 (僅輸入使用者名稱):
+@set /p pw1=請輸入密碼:
+@net use O: /delete /y
+@net use P: /delete /y
+@net use R: /delete /y
+@net use /delete \\erp.chainlon.net /y
+@net use /delete \\dfs-tc.chainlon.net /y
+@net use /delete \\dfs-d6.chainlon.net /y
+@net use /delete \\dfs-d3.chainlon.net /y
+@net use /delete \\dfs-js.chainlon.net /y
+@net use \\dfs-tc.chainlon.net\CY01 /u:chainlon\%ac1% %pw1%
+@net use O: \\dfs-tc.chainlon.net\CY01
+@net use P: \\dfs-tc.chainlon.net\CY02
+@net use R: \\erp.chainlon.net\erp\Swing_XD00 /u:chainlon chainlon
+@net use Q: \\users-tc.chainlon.net\03Users
+:::
 :::warning
 目錄
 
