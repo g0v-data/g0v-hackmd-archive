@@ -65,6 +65,19 @@ NFT / Hypercerts / 回溯型獎助
 
 # AI 應用
 
+AI產業人才認定指引 https://moda.gov.tw/ADI/services/publications/1611#qaH19692
+
+![](https://g0v.hackmd.io/_uploads/ByKexTFyMx.png)
+
+![](https://g0v.hackmd.io/_uploads/HJZYxxTFyGl.png)
+
+![](https://g0v.hackmd.io/_uploads/BJNKxxpt1fg.png)
+
+![](https://g0v.hackmd.io/_uploads/SJQtxlTKJMe.png)
+
+![](https://g0v.hackmd.io/_uploads/HkfFxl6tyMx.png)
+
+
 好好用 AI ✨教材索取與合作連結：https://forms.gle/WVMaS8ATL4mLwmCJ7
 
 [情境測驗] ✨AI 是你的好朋友嗎？
