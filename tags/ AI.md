@@ -2,4 +2,4 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [Legal Rights and Character 法定權利與角色 / AI 試作](../notes/K_250GusQLau4X6PETwpqA.md) | 2026-05-16T14:19:36+00:00 | 2022-03-11T05:06:06+00:00 |
+| 1 | [Legal Rights and Character 法定權利與角色 / AI 試作](../notes/K_250GusQLau4X6PETwpqA.md) | 2026-05-19T14:58:51+00:00 | 2022-03-11T05:06:06+00:00 |

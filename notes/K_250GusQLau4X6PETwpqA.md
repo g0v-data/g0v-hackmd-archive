@@ -149,6 +149,9 @@ LLM https://g0v.hackmd.io/x-zztBGkT36iGyQG0xPrnA?view
 土石流細胞廣播
 https://www.facebook.com/share/p/Bzzb8N4FxvJfrhfX/
 
+蒂耶拉（阿爾巴尼亞語：Diella，原自diell「太陽」）是阿爾巴尼亞國家資訊社會局開發的人工智慧。2025年1月，它以虛擬助理身分接入e-Albania，協助民眾辦理線上公共服務及簽發數位檔案。2025年9月，阿爾巴尼亞總統巴伊拉姆·貝加伊發布總統令授權總理艾迪·拉馬監督建立虛擬AI部長，迪耶拉在第四屆拉馬政府中被正式任命為AI部長，成為全球首個人工智慧部長。
+https://zh.wikipedia.org/wiki/%E8%BF%AA%E5%9F%83%E6%8B%89_(AI)
+
 ### 2024 點子松 提案
 
 臺灣 6000 條河流
