@@ -11,9 +11,11 @@
 展頌公用會議：https://meet.google.com/znp-xmiy-hyj
 短網址：https://www.chainlon.net/meetg
 ![](https://i.imgur.com/bIgZSUY.png)
-**以上將在2026/5/11起停用**
+**以上將在2026/5/11起停用-延後**
+
 2026/4/24起啟用：
 主管會議    https://meet.google.com/zvq-goua-iyv
+![](https://g0v.hackmd.io/_uploads/Skx12LBtJMl.png)
 內訓專用    https://meet.google.com/vhj-bhpw-rqo 
 資訊部     https://meet.google.com/dub-xgzx-vwn 
 對外       https://meet.google.com/hex-matt-vcc
