@@ -52,6 +52,8 @@ https://www.vtaiwan.tw/jitsi
 ### talk討論區的spam汙染問題
 
 因talk.vtaiwan.tw受到spam汙染，致使訂閱者會收到與vTaiwan內容無關之不雅廣告，已新增兩處防spam的設定：一是特定關鍵字篩選、二是新成員留言需經審核(基本上原站已沒有要拿來當討論區，所以不能直接留言應該沒關係)
+#### 0520 更新：
+- 發現還是會有 spam 的問題。[name=peter]
 
 > [name=Bestian]
 
