@@ -1,182 +1,158 @@
-<p><a href="https://88vn1.org/" rel="nofollow">88VN</a>&nbsp;- Nền tảng giải tr&iacute; trực tuyến uy t&iacute;n chuy&ecirc;n cung cấp c&aacute;c tr&ograve; chơi đổi thưởng đa dạng v&agrave; hấp dẫn nhất hiện nay. 88VN li&ecirc;n tục n&acirc;ng cấp hạ tầng c&ocirc;ng nghệ để đảm bảo trải nghiệm mượt m&agrave; tr&ecirc;n cả m&aacute;y t&iacute;nh v&agrave; điện thoại. C&aacute;c chương tr&igrave;nh khuyến m&atilde;i gi&aacute; trị được cập nhật thường xuy&ecirc;n nhằm tối ưu h&oacute;a lợi &iacute;ch cho mọi th&agrave;nh vi&ecirc;n tham gia.</p>
-<p>Website:&nbsp;<a href="https://88vn1.org/" rel="nofollow">https://88vn1.org/</a></p>
-<p>Địa chỉ: 142 Khu D&acirc;n Cư B&igrave;nh Minh X1, Phường T&acirc;n Phong, Quận 7, Hồ Ch&iacute; Minh, Việt Nam</p>
-<p>Phone: 0927384156</p>
-<p>Email: contact@88vn1.org</p>
-<p>#88VN #88vn1org #giaitrionline88vn #casinotructuyen88vn #thethao88vn #slotgame88vn #dangky88vn #naprut88vn</p>
-<p><a href="https://www.facebook.com/88vn1org/" rel="nofollow">https://www.facebook.com/88vn1org/</a></p>
-<p><a href="https://x.com/88vn1org" rel="nofollow">https://x.com/88vn1org</a></p>
-<p><a href="https://www.youtube.com/@88vn1org" rel="nofollow">https://www.youtube.com/@88vn1org</a></p>
-<p><a href="https://www.pinterest.com/88vn1org/" rel="nofollow">https://www.pinterest.com/88vn1org/</a></p>
-<p><a href="https://vimeo.com/88vn1org" rel="nofollow">https://vimeo.com/88vn1org</a></p>
-<p><a href="https://ngel.ink/88vn1org" rel="nofollow">https://ngel.ink/88vn1org</a></p>
-<p><a href="https://qoolink.co/88vn1org" rel="nofollow">https://qoolink.co/88vn1org</a></p>
-<p><a href="https://www.weddingbee.com/members/88vn1org/" rel="nofollow">https://www.weddingbee.com/members/88vn1org/</a></p>
-<p><a href="https://www.bookingblog.com/forum/users/88vn1org/" rel="nofollow">https://www.bookingblog.com/forum/users/88vn1org/</a></p>
-<p><a href="https://boosty.to/88vn1org" rel="nofollow">https://boosty.to/88vn1org</a></p>
-<p><a href="https://www.nicovideo.jp/user/143746121" rel="nofollow">https://www.nicovideo.jp/user/143746121</a></p>
-<p><a href="https://www.sociomix.com/u/88vn1org/" rel="nofollow">https://www.sociomix.com/u/88vn1org/</a></p>
-<p><a href="https://www.deafvideo.tv/vlogger/88vn1org" rel="nofollow">https://www.deafvideo.tv/vlogger/88vn1org</a></p>
-<p><a href="https://acomics.ru/-88vn1org" rel="nofollow">https://acomics.ru/-88vn1org</a></p>
-<p><a href="https://backloggery.com/88vn1org" rel="nofollow">https://backloggery.com/88vn1org</a></p>
-<p><a href="https://colorswall.com/users/31927/collections" rel="nofollow">https://colorswall.com/users/31927/collections</a></p>
-<p><a href="https://www.bmwpower.lv/user.php?u=88vn1org" rel="nofollow">https://www.bmwpower.lv/user.php?u=88vn1org</a></p>
-<p><a href="https://pixabay.com/users/55264946/" rel="nofollow">https://pixabay.com/users/55264946/</a></p>
-<p><a href="https://www.myget.org/users/88vn1org" rel="nofollow">https://www.myget.org/users/88vn1org</a></p>
-<p><a href="https://akniga.org/profile/1407294-88vn/" rel="nofollow">https://akniga.org/profile/1407294-88vn/</a></p>
-<p><a href="https://advego.com/profile/88vn1org/" rel="nofollow">https://advego.com/profile/88vn1org/</a></p>
-<p><a href="https://www.hackerearth.com/@martunaskrylcova/" rel="nofollow">https://www.hackerearth.com/@martunaskrylcova/</a></p>
-<p><a href="https://code.antopie.org/88vn1org" rel="nofollow">https://code.antopie.org/88vn1org</a></p>
-<p><a href="https://www.dotafire.com/profile/88vn1org-242294?profilepage" rel="nofollow">https://www.dotafire.com/profile/88vn1org-242294?profilepage</a></p>
-<p><a href="https://88vn1org.mssg.me/" rel="nofollow">https://88vn1org.mssg.me/</a></p>
-<p><a href="https://www.heavyironjobs.com/profiles/8093342-88vn" rel="nofollow">https://www.heavyironjobs.com/profiles/8093342-88vn</a></p>
-<p><a href="https://trakteer.id/88vn1org" rel="nofollow">https://trakteer.id/88vn1org</a></p>
-<p><a href="https://calisthenics.mn.co/members/39091036" rel="nofollow">https://calisthenics.mn.co/members/39091036</a></p>
-<p><a href="https://www.rolepages.com/characters/88vn1org/" rel="nofollow">https://www.rolepages.com/characters/88vn1org/</a></p>
-<p><a href="https://projectnoah.org/user/88vn1org" rel="nofollow">https://projectnoah.org/user/88vn1org</a></p>
-<p><a href="https://slackcommunity.com/u/mb36kp/#/about" rel="nofollow">https://slackcommunity.com/u/mb36kp/#/about</a></p>
-<p><a href="https://espritgames.com/members/50623211/" rel="nofollow">https://espritgames.com/members/50623211/</a></p>
-<p><a href="https://codex.core77.com/88vn1org" rel="nofollow">https://codex.core77.com/88vn1org</a></p>
-<p><a href="https://transfur.com/Users/vn1org88" rel="nofollow">https://transfur.com/Users/vn1org88</a></p>
-<p><a href="https://thefeedfeed.com/endive9721" rel="nofollow">https://thefeedfeed.com/endive9721</a></p>
-<p><a href="https://www.doorkeeper.jp/users/n186t10ur82kkunm0szwfle6l4qglr?locale=en" rel="nofollow">https://www.doorkeeper.jp/users/n186t10ur82kkunm0szwfle6l4qglr?locale=en</a></p>
-<p><a href="https://aiplanet.com/profile/88vn1org" rel="nofollow">https://aiplanet.com/profile/88vn1org</a></p>
-<p><a href="https://bandori.party/user/708812/88vn1org/" rel="nofollow">https://bandori.party/user/708812/88vn1org/</a></p>
-<p><a href="https://whyp.it/users/139886/88vn1org" rel="nofollow">https://whyp.it/users/139886/88vn1org</a></p>
-<p><a href="https://bandcamp.com/88vn1org" rel="nofollow">https://bandcamp.com/88vn1org</a></p>
-<p><a href="https://www.zazzle.fr/mbr/238925246560969129" rel="nofollow">https://www.zazzle.fr/mbr/238925246560969129</a></p>
-<p><a href="https://justpaste.it/u/88vn1org" rel="nofollow">https://justpaste.it/u/88vn1org</a></p>
-<p><a href="https://www.davidrio.com/profile/martunaskrylcova1180/profile" rel="nofollow">https://www.davidrio.com/profile/martunaskrylcova1180/profile</a></p>
-<p><a href="https://entre-vos-mains.alsace.eu/profiles/88vn1org/activity" rel="nofollow">https://entre-vos-mains.alsace.eu/profiles/88vn1org/activity</a></p>
-<p><a href="https://girlfriendvideos.com/members/h/88vn1org/" rel="nofollow">https://girlfriendvideos.com/members/h/88vn1org/</a></p>
-<p><a href="https://petitlyrics.com/profile/88vn1org" rel="nofollow">https://petitlyrics.com/profile/88vn1org</a></p>
-<p><a href="https://safechat.com/u/88vn4" rel="nofollow">https://safechat.com/u/88vn4</a></p>
-<p><a href="https://www.happycampersmontessori.com/profile/martunaskrylcova51030/profile" rel="nofollow">https://www.happycampersmontessori.com/profile/martunaskrylcova51030/profile</a></p>
-<p><a href="http://jobs.emiogp.com/author/88vn1org/" rel="nofollow">http://jobs.emiogp.com/author/88vn1org/</a></p>
-<p><a href="https://big5.cantonfair.org.cn/gate/88vn1org" rel="nofollow">https://big5.cantonfair.org.cn/gate/88vn1org</a></p>
-<p><a href="https://iplogger.org/logger/8VcE5Pb7JYDD/" rel="nofollow">https://iplogger.org/logger/8VcE5Pb7JYDD/</a></p>
-<p><a href="https://www.zazzle.com/mbr/238925246560969129" rel="nofollow">https://www.zazzle.com/mbr/238925246560969129</a></p>
-<p><a href="https://forum.dfwmas.org/index.php?members/88vn1org/about" rel="nofollow">https://forum.dfwmas.org/index.php?members/88vn1org/about</a></p>
-<p><a href="https://www.zubersoft.com/mobilesheets/forum/user-126524.html" rel="nofollow">https://www.zubersoft.com/mobilesheets/forum/user-126524.html</a></p>
-<p><a href="https://www.udrpsearch.com/user/88vn1org" rel="nofollow">https://www.udrpsearch.com/user/88vn1org</a></p>
-<p><a href="https://www.exchangle.com/88vn1org" rel="nofollow">https://www.exchangle.com/88vn1org</a></p>
-<p><a href="https://fic.decidim.barcelona/profiles/88vn1org/activity" rel="nofollow">https://fic.decidim.barcelona/profiles/88vn1org/activity</a></p>
-<p><a href="https://construim.fedaia.org/profiles/88vn1org/activity" rel="nofollow">https://construim.fedaia.org/profiles/88vn1org/activity</a></p>
-<p><a href="https://commu.nosv.org/p/88vn1org/" rel="nofollow">https://commu.nosv.org/p/88vn1org/</a></p>
-<p><a href="http://worldchampmambo.com/UserProfile/tabid/42/userId/483443/Default.aspx" rel="nofollow">http://worldchampmambo.com/UserProfile/tabid/42/userId/483443/Default.aspx</a></p>
-<p><a href="https://forum.dmec.vn/index.php?members/88vn1org.181835/" rel="nofollow">https://forum.dmec.vn/index.php?members/88vn1org.181835/</a></p>
-<p><a href="https://www.themeqx.com/forums/users/88vn1org/" rel="nofollow">https://www.themeqx.com/forums/users/88vn1org/</a></p>
-<p><a href="https://lustyweb.live/members/88vn1org.113106/" rel="nofollow">https://lustyweb.live/members/88vn1org.113106/</a></p>
-<p><a href="https://ja.cofacts.tw/user/88vn1org" rel="nofollow">https://ja.cofacts.tw/user/88vn1org</a></p>
-<p><a href="https://gratisafhalen.be/author/88vn1org/" rel="nofollow">https://gratisafhalen.be/author/88vn1org/</a></p>
-<p><a href="https://www.tripadvisor.com.my/Profile/88vn1org" rel="nofollow">https://www.tripadvisor.com.my/Profile/88vn1org</a></p>
-<p><a href="https://potofu.me/88vn1org" rel="nofollow">https://potofu.me/88vn1org</a></p>
-<p><a href="https://b.hatena.ne.jp/vn1org88/bookmark" rel="nofollow">https://b.hatena.ne.jp/vn1org88/bookmark</a></p>
-<p><a href="https://notes.io/evuBd" rel="nofollow">https://notes.io/evuBd</a></p>
-<p><a href="https://forum.cnnr.fr/user/88vn1org" rel="nofollow">https://forum.cnnr.fr/user/88vn1org</a></p>
-<p><a href="https://app.readthedocs.org/profiles/88vn1org/" rel="nofollow">https://app.readthedocs.org/profiles/88vn1org/</a></p>
-<p><a href="https://foorum.kannukas.com/user/88vn1org" rel="nofollow">https://foorum.kannukas.com/user/88vn1org</a></p>
-<p><a href="https://chyoa.com/user/88vn1org" rel="nofollow">https://chyoa.com/user/88vn1org</a></p>
-<p><a href="https://gitlab.haskell.org/88vn1org" rel="nofollow">https://gitlab.haskell.org/88vn1org</a></p>
-<p><a href="https://userstyles.world/user/88vn1org" rel="nofollow">https://userstyles.world/user/88vn1org</a></p>
-<p><a href="https://partecipa.poliste.com/profiles/88vn1org/activity" rel="nofollow">https://partecipa.poliste.com/profiles/88vn1org/activity</a></p>
-<p><a href="https://www.intensedebate.com/people/88vn1org" rel="nofollow">https://www.intensedebate.com/people/88vn1org</a></p>
-<p><a href="https://miarroba.com/88vn1org" rel="nofollow">https://miarroba.com/88vn1org</a></p>
-<p><a href="https://www.4shared.com/u/RO6zCh-F/MartunasKrylcova.html" rel="nofollow">https://www.4shared.com/u/RO6zCh-F/MartunasKrylcova.html</a></p>
-<p><a href="https://affiliateclassifiedads.com/user/profile/535902" rel="nofollow">https://affiliateclassifiedads.com/user/profile/535902</a></p>
-<p><a href="https://www.komoot.com/user/5622071003254" rel="nofollow">https://www.komoot.com/user/5622071003254</a></p>
-<p><a href="https://gifyu.com/88vn1org" rel="nofollow">https://gifyu.com/88vn1org</a></p>
-<p><a href="https://freeimage.host/88vn1org" rel="nofollow">https://freeimage.host/88vn1org</a></p>
-<p><a href="https://decidim.calafell.cat/profiles/88vn1org/activity" rel="nofollow">https://decidim.calafell.cat/profiles/88vn1org/activity</a></p>
-<p><a href="https://thesmuthub.com/members/88vn1org/" rel="nofollow">https://thesmuthub.com/members/88vn1org/</a></p>
-<p><a href="https://www.aicrowd.com/participants/88vn1org" rel="nofollow">https://www.aicrowd.com/participants/88vn1org</a></p>
-<p><a href="https://letterboxd.com/88vn1org/" rel="nofollow">https://letterboxd.com/88vn1org/</a></p>
-<p><a href="https://edabit.com/user/3jJXZXrbw6rG7qAjW" rel="nofollow">https://edabit.com/user/3jJXZXrbw6rG7qAjW</a></p>
-<p><a href="https://fanclove.jp/profile/ypWDy8xEBe" rel="nofollow">https://fanclove.jp/profile/ypWDy8xEBe</a></p>
-<p><a href="https://openwhyd.org/88vn1org" rel="nofollow">https://openwhyd.org/88vn1org</a></p>
-<p><a href="https://www.notebook.ai/users/1319284" rel="nofollow">https://www.notebook.ai/users/1319284</a></p>
-<p><a href="https://www.flyingv.cc/users/1447468" rel="nofollow">https://www.flyingv.cc/users/1447468</a></p>
-<p><a href="https://lamsn.com/home.php?mod=space&amp;uid=1919913" rel="nofollow">https://lamsn.com/home.php?mod=space&amp;uid=1919913</a></p>
-<p><a href="https://www.iniuria.us/forum/member.php?668401-88vn1org" rel="nofollow">https://www.iniuria.us/forum/member.php?668401-88vn1org</a></p>
-<p><a href="https://fake-aka.com/user/88vn1org/profile" rel="nofollow">https://fake-aka.com/user/88vn1org/profile</a></p>
-<p><a href="https://bbs.theviko.com/home.php?mod=space&amp;uid=4563794" rel="nofollow">https://bbs.theviko.com/home.php?mod=space&amp;uid=4563794</a></p>
-<p><a href="https://jobs.westerncity.com/profiles/8093280-88vn" rel="nofollow">https://jobs.westerncity.com/profiles/8093280-88vn</a></p>
-<p><a href="https://www.stylevore.com/user/vn1org88" rel="nofollow">https://www.stylevore.com/user/vn1org88</a></p>
-<p><a href="https://teratail.com/users/88vn1org" rel="nofollow">https://teratail.com/users/88vn1org</a></p>
-<p><a href="https://www.coursera.org/learner/88vn1org" rel="nofollow">https://www.coursera.org/learner/88vn1org</a></p>
-<p><a href="https://hub.docker.com/u/88vn1org" rel="nofollow">https://hub.docker.com/u/88vn1org</a></p>
-<p><a href="https://adhocracy.plus/profile/88vn1org/" rel="nofollow">https://adhocracy.plus/profile/88vn1org/</a></p>
-<p><a href="https://forum.epicbrowser.com/profile.php?id=147035" rel="nofollow">https://forum.epicbrowser.com/profile.php?id=147035</a></p>
-<p><a href="https://www.walkscore.com/people/250980330715/88vn" rel="nofollow">https://www.walkscore.com/people/250980330715/88vn</a></p>
-<p><a href="https://jobs.windomnews.com/profiles/8093292-88vn" rel="nofollow">https://jobs.windomnews.com/profiles/8093292-88vn</a></p>
-<p><a href="https://writexo.com/share/44a18eb73765" rel="nofollow">https://writexo.com/share/44a18eb73765</a></p>
-<p><a href="https://wakelet.com/@88vn1org" rel="nofollow">https://wakelet.com/@88vn1org</a></p>
-<p><a href="https://dreevoo.com/profile_info.php?pid=1431175" rel="nofollow">https://dreevoo.com/profile_info.php?pid=1431175</a></p>
-<p><a href="https://theafricavoice.com/profile/88vn1org" rel="nofollow">https://theafricavoice.com/profile/88vn1org</a></p>
-<p><a href="https://anyflip.com/homepage/mehit/preview" rel="nofollow">https://anyflip.com/homepage/mehit/preview</a></p>
-<p><a href="https://zzb.bz/aQDTFH" rel="nofollow">https://zzb.bz/aQDTFH</a></p>
-<p><a href="https://homepage.ninja/88vn1org" rel="nofollow">https://homepage.ninja/88vn1org</a></p>
-<p><a href="http://www.askmap.net/location/7779172/vietnam/88vn" rel="nofollow">http://www.askmap.net/location/7779172/vietnam/88vn</a></p>
-<p><a href="https://mforum.cari.com.my/home.php?mod=space&amp;uid=3392628&amp;do=profile" rel="nofollow">https://mforum.cari.com.my/home.php?mod=space&amp;uid=3392628&amp;do=profile</a></p>
-<p><a href="http://delphi.larsbo.org/user/88vn1org" rel="nofollow">http://delphi.larsbo.org/user/88vn1org</a></p>
-<p><a href="https://v.gd/RVEaXP" rel="nofollow">https://v.gd/RVEaXP</a></p>
-<p><a href="https://fabble.cc/88vn1org" rel="nofollow">https://fabble.cc/88vn1org</a></p>
-<p><a href="https://jobs.lajobsportal.org/profiles/8093325-88vn" rel="nofollow">https://jobs.lajobsportal.org/profiles/8093325-88vn</a></p>
-<p><a href="https://land-book.com/88vn1org" rel="nofollow">https://land-book.com/88vn1org</a></p>
-<p><a href="https://www.lingvolive.com/ru-ru/profile/f1ea5166-c3a5-4f19-ab6b-ed1aee8fc812/translations" rel="nofollow">https://www.lingvolive.com/ru-ru/profile/f1ea5166-c3a5-4f19-ab6b-ed1aee8fc812/translations</a></p>
-<p><a href="https://sciencemission.com/profile/88vn1org" rel="nofollow">https://sciencemission.com/profile/88vn1org</a></p>
-<p><a href="https://rapidapi.com/user/martunaskrylcova" rel="nofollow">https://rapidapi.com/user/martunaskrylcova</a></p>
-<p><a href="https://www.checkli.com/88vn1org" rel="nofollow">https://www.checkli.com/88vn1org</a></p>
-<p><a href="https://undrtone.com/88vn1org" rel="nofollow">https://undrtone.com/88vn1org</a></p>
-<p><a href="https://doodleordie.com/profile/8vn1org" rel="nofollow">https://doodleordie.com/profile/8vn1org</a></p>
-<p><a href="https://pixelfed.uno/88vn1org" rel="nofollow">https://pixelfed.uno/88vn1org</a></p>
-<p><a href="http://freestyler.ws/user/643692/88vn1org" rel="nofollow">http://freestyler.ws/user/643692/88vn1org</a></p>
-<p><a href="https://savee.com/88vn1org/" rel="nofollow">https://savee.com/88vn1org/</a></p>
-<p><a href="https://pledgeme.co.nz/profiles/326640" rel="nofollow">https://pledgeme.co.nz/profiles/326640</a></p>
-<p><a href="https://b.cari.com.my/home.php?mod=space&amp;uid=3392628&amp;do=profile" rel="nofollow">https://b.cari.com.my/home.php?mod=space&amp;uid=3392628&amp;do=profile</a></p>
-<p><a href="https://jobs.suncommunitynews.com/profiles/8093336-88vn" rel="nofollow">https://jobs.suncommunitynews.com/profiles/8093336-88vn</a></p>
-<p><a href="https://beteiligung.stadtlindau.de/profile/okfuncncom1/" rel="nofollow">https://beteiligung.stadtlindau.de/profile/okfuncncom1/</a></p>
-<p><a href="https://www.magcloud.com/user/88vn1org" rel="nofollow">https://www.magcloud.com/user/88vn1org</a></p>
-<p><a href="https://spinninrecords.com/profile/88vn1org" rel="nofollow">https://spinninrecords.com/profile/88vn1org</a></p>
-<p><a href="https://tamilculture.com/user/88vn-1org" rel="nofollow">https://tamilculture.com/user/88vn-1org</a></p>
-<p><a href="https://hcgdietinfo.com/hcgdietforums/members/88vn1org/" rel="nofollow">https://hcgdietinfo.com/hcgdietforums/members/88vn1org/</a></p>
-<p><a href="https://whitehat.vn/members/88vn1org.222025/#about" rel="nofollow">https://whitehat.vn/members/88vn1org.222025/#about</a></p>
-<p><a href="https://app.brancher.ai/user/xJE8vKJMfT9G" rel="nofollow">https://app.brancher.ai/user/xJE8vKJMfT9G</a></p>
-<p><a href="https://www.okaywan.com/home.php?mod=space&amp;uid=765640" rel="nofollow">https://www.okaywan.com/home.php?mod=space&amp;uid=765640</a></p>
-<p><a href="http://rias.ivanovo.ru/cgi-bin/mwf/user_info.pl?uid=81060" rel="nofollow">http://rias.ivanovo.ru/cgi-bin/mwf/user_info.pl?uid=81060</a></p>
-<p><a href="https://www.zazzle.nl/mbr/238925246560969129" rel="nofollow">https://www.zazzle.nl/mbr/238925246560969129</a></p>
-<p><a href="https://7tdmjpf5yuwu.jobboard.io/profiles/8093515-88vn" rel="nofollow">https://7tdmjpf5yuwu.jobboard.io/profiles/8093515-88vn</a></p>
-<p><a href="https://www.designspiration.com/88vn1org/saves/" rel="nofollow">https://www.designspiration.com/88vn1org/saves/</a></p>
-<p><a href="https://official.link/88vn1org" rel="nofollow">https://official.link/88vn1org</a></p>
-<p><a href="https://mb360.vn/members/88vn1org.84437/" rel="nofollow">https://mb360.vn/members/88vn1org.84437/</a></p>
-<p><a href="https://boss.why3s.cc/boss/home.php?mod=space&amp;uid=259386" rel="nofollow">https://boss.why3s.cc/boss/home.php?mod=space&amp;uid=259386</a></p>
-<p><a href="https://formulamasa.com/elearning/members/88vn1org" rel="nofollow">https://formulamasa.com/elearning/members/88vn1org</a></p>
-<p><a href="https://www.laundrynation.com/community/profile/88vn1org/" rel="nofollow">https://www.laundrynation.com/community/profile/88vn1org/</a></p>
-<p><a href="https://pc.poradna.net/users/1171808860-88vn1org" rel="nofollow">https://pc.poradna.net/users/1171808860-88vn1org</a></p>
-<p><a href="https://experiment.com/users/88vn1org" rel="nofollow">https://experiment.com/users/88vn1org</a></p>
-<p><a href="https://savelist.co/profile/users/88vn1org" rel="nofollow">https://savelist.co/profile/users/88vn1org</a></p>
-<p><a href="https://pastelink.net/zx9jr82z" rel="nofollow">https://pastelink.net/zx9jr82z</a></p>
-<p><a href="https://www.ssnote.net/users/88vn1org" rel="nofollow">https://www.ssnote.net/users/88vn1org</a></p>
-<p><a href="https://selficlub.com/88vn1org" rel="nofollow">https://selficlub.com/88vn1org</a></p>
-<p><a href="https://www.vid419.com/home.php?mod=space&amp;uid=3482342" rel="nofollow">https://www.vid419.com/home.php?mod=space&amp;uid=3482342</a></p>
-<p><a href="https://vozer.net/members/88vn1org.88516/" rel="nofollow">https://vozer.net/members/88vn1org.88516/</a></p>
-<p><a href="https://leakedmodels.com/forum/members/88vn1org.701132/#about" rel="nofollow">https://leakedmodels.com/forum/members/88vn1org.701132/#about</a></p>
-<p><a href="https://replit.com/@88vn1org" rel="nofollow">https://replit.com/@88vn1org</a></p>
-<p><a href="https://web.bikemap.net/u/88vn1org" rel="nofollow">https://web.bikemap.net/u/88vn1org</a></p>
-<p><a href="http://www.orangepi.org/orangepibbsen/home.php?mod=space&amp;uid=6298971" rel="nofollow">http://www.orangepi.org/orangepibbsen/home.php?mod=space&amp;uid=6298971</a></p>
-<p><a href="https://gitlab.com/88vn1org" rel="nofollow">https://gitlab.com/88vn1org</a></p>
-<p><a href="https://www.adpost.com/u/martunaskrylcova/" rel="nofollow">https://www.adpost.com/u/martunaskrylcova/</a></p>
-<p><a href="https://www.mymeetbook.com/88vn1org" rel="nofollow">https://www.mymeetbook.com/88vn1org</a></p>
-<p><a href="https://act4sdgs.org/profile/88vn" rel="nofollow">https://act4sdgs.org/profile/88vn</a></p>
-<p><a href="http://jobboard.piasd.org/author/88vn1org/" rel="nofollow">http://jobboard.piasd.org/author/88vn1org/</a></p>
-<p><a href="https://www.france-ioi.org/user/perso.php?sLogin=88vn1org" rel="nofollow">https://www.france-ioi.org/user/perso.php?sLogin=88vn1org</a></p>
-<p><a href="http://dtan.thaiembassy.de/uncategorized/2562/?mingleforumaction=profile&amp;id=483702" rel="nofollow">http://dtan.thaiembassy.de/uncategorized/2562/?mingleforumaction=profile&amp;id=483702</a></p>
-<p><a href="https://aphorismsgalore.com/users/88vn1org" rel="nofollow">https://aphorismsgalore.com/users/88vn1org</a></p>
-<p><a href="https://kaeuchi.jp/forums/users/88vn1org/" rel="nofollow">https://kaeuchi.jp/forums/users/88vn1org/</a></p>
-<p><a href="https://www.noteflight.com/profile/b8d6e4824c32d43ff9f37865d2a0fa662a4a3b77" rel="nofollow">https://www.noteflight.com/profile/b8d6e4824c32d43ff9f37865d2a0fa662a4a3b77</a></p>
-<p><a href="http://www.activewin.com/user.asp?Action=Read&amp;UserIndex=4833712&amp;redir=&amp;redirname=Forums" rel="nofollow">http://www.activewin.com/user.asp?Action=Read&amp;UserIndex=4833712&amp;redir=&amp;redirname=Forums</a></p>
-<p><a href="https://forum.herozerogame.com/index.php?/user/158012-88vn1org/" rel="nofollow">https://forum.herozerogame.com/index.php?/user/158012-88vn1org/</a></p>
-<p><a href="https://raovat.nhadat.vn/members/88vn1org-298146.html" rel="nofollow">https://raovat.nhadat.vn/members/88vn1org-298146.html</a></p>
-<p><a href="https://cdn.muvizu.com/Profile/vn1org88/Latest" rel="nofollow">https://cdn.muvizu.com/Profile/vn1org88/Latest</a></p>
-<p><a href="https://3dwarehouse.sketchup.com/by/88vn1org" rel="nofollow">https://3dwarehouse.sketchup.com/by/88vn1org</a></p>
-<p><a href="http://www.genina.com/user/editDone/5254399.page" rel="nofollow">http://www.genina.com/user/editDone/5254399.page</a></p>
+<a href="https://bongdata.dev/">Bongdata</a> là website chuyên cung cấp KQBD trực tuyến uy tín và được đông đảo người yêu bóng đá lựa chọn hiện nay. Nền tảng này mang đến hệ thống cập nhật kết quả bóng đá nhanh chóng, chính xác cùng nhiều thông tin hữu ích như lịch thi đấu, bảng xếp hạng, tỷ lệ kèo và dữ liệu thống kê chi tiết từ hàng trăm giải đấu lớn nhỏ trên toàn thế giới. Dù là Ngoại Hạng Anh, Champions League, La Liga hay các giải đấu khu vực châu Á, Bongdata đều cập nhật liên tục với tốc độ gần như real-time giúp người dùng dễ dàng theo dõi mọi diễn biến hấp dẫn của trận đấu mà không bỏ lỡ bất kỳ khoảnh khắc quan trọng nào.
+Thông tin chi tiết:
+Địa Chỉ: 50 Nguyễn Văn Trỗi, Phường 8, Quận Phú Nhuận, TP. Hồ Chí Minh
+Hotline: 0702 731 948
+Email: admin@bongdata.net
+Website: <a href="https://bongdata.dev/">https://bongdata.dev/</a>
+#bongdata #bongdatanet #kqbd #lichthidau
+<a href="https://www.pinterest.com/bongdatadev/">https://www.pinterest.com/bongdatadev/</a>
+<a href="https://x.com/bongdatadev">https://x.com/bongdatadev</a>
+<a href="https://www.youtube.com/@bongdatadev">https://www.youtube.com/@bongdatadev</a>
+<a href="https://500px.com/p/bongdatadev">https://500px.com/p/bongdatadev</a>
+<a href="https://www.reddit.com/user/bongdatadev/">https://www.reddit.com/user/bongdatadev/</a>
+<a href="https://gravatar.com/bongdatadev">https://gravatar.com/bongdatadev</a>
+<a href="https://issuu.com/bongdatadev">https://issuu.com/bongdatadev</a>
+<a href="https://vimeo.com/bongdatadev">https://vimeo.com/bongdatadev</a>
+<a href="https://www.google.com/maps/search/50+Nguy%E1%BB%85n+V%C4%83n+Tr%E1%BB%97i,+Ph%C6%B0%E1%BB%9Dng+8,+Qu%E1%BA%ADn+Ph%C3%BA+Nhu%E1%BA%ADn,+TP.+H%E1%BB%93+Ch%C3%AD+Minh/@10.7960109,106.67032,16z/data=!3m1!4b1?hl=vi-VN&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D">https://www.google.com/maps/search/50+Nguy%E1%BB%85n+V%C4%83n+Tr%E1%BB%97i,+Ph%C6%B0%E1%BB%9Dng+8,+Qu%E1%BA%ADn+Ph%C3%BA+Nhu%E1%BA%ADn,+TP.+H%E1%BB%93+Ch%C3%AD+Minh/@10.7960109,106.67032,16z/data=!3m1!4b1?hl=vi-VN&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D</a>
+<a href="https://www.walkscore.com/people/194202017721/bongdata">https://www.walkscore.com/people/194202017721/bongdata</a>
+<a href="https://www.instapaper.com/p/17710529">https://www.instapaper.com/p/17710529</a>
+<a href="https://pxhere.com/en/photographer/5021110">https://pxhere.com/en/photographer/5021110</a>
+<a href="https://www.designspiration.com/bongdatadev/saves/">https://www.designspiration.com/bongdatadev/saves/</a>
+<a href="https://stocktwits.com/bongdatadev">https://stocktwits.com/bongdatadev</a>
+<a href="https://experiment.com/users/bongdatadev">https://experiment.com/users/bongdatadev</a>
+<a href="https://anyflip.com/homepage/birqk#About">https://anyflip.com/homepage/birqk#About</a>
+<a href="https://es.stylevore.com/user/bongdatadev">https://es.stylevore.com/user/bongdatadev</a>
+<a href="https://pinshape.com/users/8973733-bongdatadev?tab=designs">https://pinshape.com/users/8973733-bongdatadev?tab=designs</a>
+<a href="https://www.elephantjournal.com/profile/bongdatadev/">https://www.elephantjournal.com/profile/bongdatadev/</a>
+<a href="https://portfolium.com/Bongdata4">https://portfolium.com/Bongdata4</a>
+<a href="https://myanimelist.net/profile/bongdatadev">https://myanimelist.net/profile/bongdatadev</a>
+<a href="https://www.intensedebate.com/people/bongdatadev1">https://www.intensedebate.com/people/bongdatadev1</a>
+<a href="https://www.speedrun.com/users/bongdatadev">https://www.speedrun.com/users/bongdatadev</a>
+<a href="https://medibang.com/author/28349901/">https://medibang.com/author/28349901/</a>
+<a href="https://www.pozible.com/profile/bongdata-6">https://www.pozible.com/profile/bongdata-6</a>
+<a href="https://www.zumvu.com/bongdatadev/">https://www.zumvu.com/bongdatadev/</a>
+<a href="https://www.montessorijobsuk.co.uk/author/bongdatadev/">https://www.montessorijobsuk.co.uk/author/bongdatadev/</a>
+<a href="https://pbase.com/bongdatadev">https://pbase.com/bongdatadev</a>
+<a href="https://pubhtml5.com/homepage/zluhw/">https://pubhtml5.com/homepage/zluhw/</a>
+<a href="https://leetcode.com/u/iRPuWrslb4/">https://leetcode.com/u/iRPuWrslb4/</a>
+<a href="https://disqus.com/by/disqus_plWWsF4IZW/about/">https://disqus.com/by/disqus_plWWsF4IZW/about/</a>
+<a href="https://jobs.landscapeindustrycareers.org/profiles/8305638-bongdata-trang-kqbd-tr-c-tuy-n-l-ch-thi-d-u-bong-da-chinh-xac-hang-d-u">https://jobs.landscapeindustrycareers.org/profiles/8305638-bongdata-trang-kqbd-tr-c-tuy-n-l-ch-thi-d-u-bong-da-chinh-xac-hang-d-u</a>
+<a href="https://gifyu.com/bongdata12">https://gifyu.com/bongdata12</a>
+<a href="https://www.notebook.ai/users/1362204">https://www.notebook.ai/users/1362204</a>
+<a href="https://www.facer.io/u/bongdatadev">https://www.facer.io/u/bongdatadev</a>
+<a href="https://golosknig.com/profile/bongdatadev/">https://golosknig.com/profile/bongdatadev/</a>
+<a href="https://allmyfaves.com/bongdatadev?tab=Bongdata">https://allmyfaves.com/bongdatadev?tab=Bongdata</a>
+<a href="https://www.invelos.com/UserProfile.aspx?alias=bongdatadev">https://www.invelos.com/UserProfile.aspx?alias=bongdatadev</a>
+<a href="https://linkmix.co/54860368">https://linkmix.co/54860368</a>
+<a href="https://akniga.org/profile/1426943-bongdata/">https://akniga.org/profile/1426943-bongdata/</a>
+<a href="https://pixabay.com/users/bongdatadev-55942845/">https://pixabay.com/users/bongdatadev-55942845/</a>
+<a href="https://coub.com/bongdatadev">https://coub.com/bongdatadev</a>
+<a href="https://freeimage.host/bongdata22">https://freeimage.host/bongdata22</a>
+<a href="https://wibki.com/bongdatadev">https://wibki.com/bongdatadev</a>
+<a href="https://undrtone.com/bongdatadev">https://undrtone.com/bongdatadev</a>
+<a href="http://fort-raevskiy.ru/community/profile/bongdatadev/">http://fort-raevskiy.ru/community/profile/bongdatadev/</a>
+<a href="https://youbiz.com/profile/bongdatadev/">https://youbiz.com/profile/bongdatadev/</a>
+<a href="https://linqto.me/n/bongdatadev">https://linqto.me/n/bongdatadev</a>
+<a href="https://wefunder.com/bongdatatrangkqbtrctuynlchthiubngchnhxchngu1">https://wefunder.com/bongdatatrangkqbtrctuynlchthiubngchnhxchngu1</a>
+<a href="https://gitlab.aicrowd.com/bongdata5">https://gitlab.aicrowd.com/bongdata5</a>
+<a href="https://tooter.in/bongdatadev">https://tooter.in/bongdatadev</a>
+<a href="https://www.openrec.tv/user/b8loxgauygr87ijhym3c/about">https://www.openrec.tv/user/b8loxgauygr87ijhym3c/about</a>
+<a href="https://www.stylevore.com/user/bongdatadev">https://www.stylevore.com/user/bongdatadev</a>
+<a href="https://biomolecula.ru/authors/150050">https://biomolecula.ru/authors/150050</a>
+<a href="https://gitlab.aicrowd.com/bongdata5">https://gitlab.aicrowd.com/bongdata5</a>
+<a href="https://www.brownbook.net/business/55121281/bongdata">https://www.brownbook.net/business/55121281/bongdata</a>
+<a href="https://gitlab.vuhdo.io/bongdatadev">https://gitlab.vuhdo.io/bongdatadev</a>
+<a href="https://potofu.me/bongdatadev">https://potofu.me/bongdatadev</a>
+<a href="https://app.readthedocs.org/profiles/bongdatadev/">https://app.readthedocs.org/profiles/bongdatadev/</a>
+<a href="https://www.blockdit.com/users/6a0d49024f707b1795222c87">https://www.blockdit.com/users/6a0d49024f707b1795222c87</a>
+<a href="https://wirtube.de/a/bongdatadev/video-channels">https://wirtube.de/a/bongdatadev/video-channels</a>
+<a href="https://www.maanation.com/bongdatadev">https://www.maanation.com/bongdatadev</a>
+<a href="https://skitterphoto.com/photographers/2743044/bongdata-trang-kqbd-truc-tuyen-lich-thi-dau-bong-da-chinh-xac-hang-dau">https://skitterphoto.com/photographers/2743044/bongdata-trang-kqbd-truc-tuyen-lich-thi-dau-bong-da-chinh-xac-hang-dau</a>
+<a href="https://www.longisland.com/profile/Bongdata">https://www.longisland.com/profile/Bongdata</a>
+<a href="https://rapidapi.com/user/uvejaqeza56">https://rapidapi.com/user/uvejaqeza56</a>
+<a href="https://theafricavoice.com/profile/bongdatadev">https://theafricavoice.com/profile/bongdatadev</a>
+<a href="https://phatwalletforums.com/user/bongdatadev">https://phatwalletforums.com/user/bongdatadev</a>
+<a href="https://www.anibookmark.com/user/bongdatadev.html">https://www.anibookmark.com/user/bongdatadev.html</a>
+<a href="https://participacion.cabildofuer.es/profiles/bongdatadev/activity?locale=en">https://participacion.cabildofuer.es/profiles/bongdatadev/activity?locale=en</a>
+<a href="https://raovat.nhadat.vn/members/bongdatadev-315993.html">https://raovat.nhadat.vn/members/bongdatadev-315993.html</a>
+<a href="https://matkafasi.com/user/bongdatadev">https://matkafasi.com/user/bongdatadev</a>
+<a href="https://savelist.co/profile/users/bongdatadev">https://savelist.co/profile/users/bongdatadev</a>
+<a href="https://app.brancher.ai/user/QWfBc9gXrmDR">https://app.brancher.ai/user/QWfBc9gXrmDR</a>
+<a href="https://topsitenet.com/profile/bongdatadev/1815139/">https://topsitenet.com/profile/bongdatadev/1815139/</a>
+<a href="https://dreevoo.com/profile_info.php?pid=1701150">https://dreevoo.com/profile_info.php?pid=1701150</a>
+<a href="https://www.bandlab.com/bongdatadev">https://www.bandlab.com/bongdatadev</a>
+<a href="https://activepages.com.au/profile/bongdatadev">https://activepages.com.au/profile/bongdatadev</a>
+<a href="https://affariat.com/user/profile/182779">https://affariat.com/user/profile/182779</a>
+<a href="http://delphi.larsbo.org/user/bongdatadev">http://delphi.larsbo.org/user/bongdatadev</a>
+<a href="https://library.zortrax.com/members/bongdata/">https://library.zortrax.com/members/bongdata/</a>
+<a href="https://doselect.com/@d3d531c67f45443c2813dc078">https://doselect.com/@d3d531c67f45443c2813dc078</a>
+<a href="https://feyenoord.supporters.nl/profiel/153840/bongdatadev">https://feyenoord.supporters.nl/profiel/153840/bongdatadev</a>
+<a href="https://phijkchu.com/a/bongdatadev/video-channels">https://phijkchu.com/a/bongdatadev/video-channels</a>
+<a href="https://maxforlive.com/profile/user/bongdatadev?tab=about">https://maxforlive.com/profile/user/bongdatadev?tab=about</a>
+<a href="https://hackaday.io/bongdatadev">https://hackaday.io/bongdatadev</a>
+<a href="https://unityroom.com/users/9yu538phv7nkzt4s210i">https://unityroom.com/users/9yu538phv7nkzt4s210i</a>
+<a href="https://www.myminifactory.com/users/bongdatadev">https://www.myminifactory.com/users/bongdatadev</a>
+<a href="https://www.bitchute.com/channel/uNaapJOrf7Ac">https://www.bitchute.com/channel/uNaapJOrf7Ac</a>
+<a href="https://jii.li/bongdatadev">https://jii.li/bongdatadev</a>
+<a href="https://backloggery.com/bongdatadev">https://backloggery.com/bongdatadev</a>
+<a href="https://espritgames.com/members/51198830/">https://espritgames.com/members/51198830/</a>
+<a href="https://www.halaltrip.com/user/profile/351875/bongdatadev/">https://www.halaltrip.com/user/profile/351875/bongdatadev/</a>
+<a href="http://www.biblesupport.com/user/842194-bongdatadev/">http://www.biblesupport.com/user/842194-bongdatadev/</a>
+<a href="https://www.chichi-pui.com/users/bongdatadev/">https://www.chichi-pui.com/users/bongdatadev/</a>
+<a href="https://allmy.bio/bongdatadev">https://allmy.bio/bongdatadev</a>
+<a href="https://www.annuncigratuititalia.it/author/bongdatadev/">https://www.annuncigratuititalia.it/author/bongdatadev/</a>
+<a href="https://b.hatena.ne.jp/bongdatadev/bookmark">https://b.hatena.ne.jp/bongdatadev/bookmark</a>
+<a href="https://www.fanart-central.net/user/bongdatadev/profile">https://www.fanart-central.net/user/bongdatadev/profile</a>
+<a href="https://schoolido.lu/user/bongdatadev/">https://schoolido.lu/user/bongdatadev/</a>
+<a href="https://inkbunny.net/bongdatadev">https://inkbunny.net/bongdatadev</a>
+<a href="https://bandori.party/user/1009909/bongdatadev/">https://bandori.party/user/1009909/bongdatadev/</a>
+<a href="https://hanson.net/users/bongdatadev">https://hanson.net/users/bongdatadev</a>
+<a href="https://www.printables.com/@Bongdata_4875127">https://www.printables.com/@Bongdata_4875127</a>
+<a href="https://transfur.com/Users/bongdatadev">https://transfur.com/Users/bongdatadev</a>
+<a href="https://biiut.com/bongdatadev">https://biiut.com/bongdatadev</a>
+<a href="https://www.blackhatprotools.info/member.php?293050-bongdatadev">https://www.blackhatprotools.info/member.php?293050-bongdatadev</a>
+<a href="https://www.passes.com/bongdatadev">https://www.passes.com/bongdatadev</a>
+<a href="https://shareyoursocial.com/bongdatadev">https://shareyoursocial.com/bongdatadev</a>
+<a href="https://www.aseeralkotb.com/en/profiles/bongdatadev">https://www.aseeralkotb.com/en/profiles/bongdatadev</a>
+<a href="https://www.trackyserver.com/profile/254185">https://www.trackyserver.com/profile/254185</a>
+<a href="http://freestyler.ws/user/660457/bongdatadev">http://freestyler.ws/user/660457/bongdatadev</a>
+<a href="https://app.nft.nyc/wallet/6a0d748f5061669d7b6804bd">https://app.nft.nyc/wallet/6a0d748f5061669d7b6804bd</a>
+<a href="https://zzb.bz/ySAOcQ">https://zzb.bz/ySAOcQ</a>
+<a href="https://rebrickable.com/users/bongdatadev/">https://rebrickable.com/users/bongdatadev/</a>
+<a href="https://github.com/bongdatadev">https://github.com/bongdatadev</a>
+<a href="https://www.40billion.com/profile/322044629">https://www.40billion.com/profile/322044629</a>
+<a href="https://hoo.be/bongdatadev">https://hoo.be/bongdatadev</a>
+<a href="https://hackmd.openmole.org/s/z_6-HDJa4">https://hackmd.openmole.org/s/z_6-HDJa4</a>
+<a href="https://belgaumonline.com/profile/bongdatadev/">https://belgaumonline.com/profile/bongdatadev/</a>
+<a href="https://www.ebooklingo.com/posts.php?id=15791">https://www.ebooklingo.com/posts.php?id=15791</a>
+<a href="https://support.bitspower.com/support/user/bongdatadev">https://support.bitspower.com/support/user/bongdatadev</a>
+<a href="https://bizidex.com/en/bongdata-airport-transportation-961853">https://bizidex.com/en/bongdata-airport-transportation-961853</a>
+<a href="https://boss.why3s.cc/boss/home.php?mod=space&uid=268176">https://boss.why3s.cc/boss/home.php?mod=space&uid=268176</a>
+<a href="https://www.democracylab.org/user/44051">https://www.democracylab.org/user/44051</a>
+<a href="https://divisionmidway.org/jobs/author/bongdatadev/">https://divisionmidway.org/jobs/author/bongdatadev/</a>
+<a href="https://eilo.org/user/bongdatadev">https://eilo.org/user/bongdatadev</a>
+<a href="https://gratisafhalen.be/author/bongdatadev/">https://gratisafhalen.be/author/bongdatadev/</a>
+<a href="https://www.iglinks.io/uvejaqeza56-fmu?preview=true">https://www.iglinks.io/uvejaqeza56-fmu?preview=true</a>
+<a href="https://www.indiehackers.com/bongdatadev">https://www.indiehackers.com/bongdatadev</a>
+<a href="https://modx.pro/users/bongdatadev">https://modx.pro/users/bongdatadev</a>
+<a href="https://www.newline.co/@bongdatadev">https://www.newline.co/@bongdatadev</a>
+<a href="https://thefeedfeed.com/mulberry6235">https://thefeedfeed.com/mulberry6235</a>
+<a href="https://profu.link/u/bongdatadev">https://profu.link/u/bongdatadev</a>
+<a href="https://bit.ly/4dTx34X">https://bit.ly/4dTx34X</a>
+<a href="https://hub.docker.com/u/bongdatadev">https://hub.docker.com/u/bongdatadev</a>
+<a href="https://files.fm/uvejaqeza56">https://files.fm/uvejaqeza56</a>
+<a href="https://teletype.in/@bongdatadev">https://teletype.in/@bongdatadev</a>
+<a href="https://linkin.bio/bongdatadev/">https://linkin.bio/bongdatadev/</a>
+<a href="https://codeandsupply.co/users/6HHTTI-6hd9MrQ">https://codeandsupply.co/users/6HHTTI-6hd9MrQ</a>
+<a href="https://www.nicovideo.jp/user/144317091">https://www.nicovideo.jp/user/144317091</a>
+<a href="https://imgur.com/a/LLHqu5k">https://imgur.com/a/LLHqu5k</a>
+<a href="http://jobs.emiogp.com/author/bongdatadev/">http://jobs.emiogp.com/author/bongdatadev/</a>
+<a href="https://www.motiondesignawards.com/profile/22252">https://www.motiondesignawards.com/profile/22252</a>
+<a href="https://buyerseller.xyz/user/bongdatadev/">https://buyerseller.xyz/user/bongdatadev/</a>
+<a href="https://pixelfed.uno/bongdatadev">https://pixelfed.uno/bongdatadev</a>
+<a href="https://www.sunemall.com/board/board_topic/8431232/8369807.htm">https://www.sunemall.com/board/board_topic/8431232/8369807.htm</a>
+<a href="https://www.tai-ji.net/board/board_topic/4160148/8369824.htm">https://www.tai-ji.net/board/board_topic/4160148/8369824.htm</a>
+<a href="https://www.sunlitcentrekenya.co.ke/author/bongdatadev/">https://www.sunlitcentrekenya.co.ke/author/bongdatadev/</a>
+<a href="https://racetime.gg/user/NqO2YoLz98B9QEya/bongdata">https://racetime.gg/user/NqO2YoLz98B9QEya/bongdata</a>
+<a href="http://linoit.com/users/bongdatadev/canvases/Bongdata">http://linoit.com/users/bongdatadev/canvases/Bongdata</a>
+<a href="https://www.prshine.com/profile/bongdatadev">https://www.prshine.com/profile/bongdatadev</a>
