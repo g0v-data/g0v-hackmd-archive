@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：
+參與者 Participants：Peter, Tim, Allison, Taiwei
 
 
 https://www.vtaiwan.tw/jitsi
@@ -48,7 +48,45 @@ https://www.vtaiwan.tw/jitsi
 - [vtaiwan 電子報大共筆](/GnT4_W9_Slm5v1i9oiyP2g)
 - 目前訂閱數持續上升中！
 - 但是第二期拖更中，正在建立 pipeline
+- 
 
 ## Ronny 提出的 civic talk 平台
-- https://ronnywang.github.io/civic-notes/civic-talk/ 
-- 建立一個平ㄊ
+- https://ronnywang.github.io/civic-notes/civic-talk/ by [name=ronny]
+- 建立一個平台，藉由 AI 降低公共參與的門檻
+- 另一個方向：建立更好的多元利害關係人的討論，藉由 AI 來提供個人化的知識儲備。
+- 預計想要的成果：
+    - 實作後來申請 grant
+    - 開源讓 NGO 來做使用
+
+### 討論
+- 針對運作流程中第二步驟的INFORM- 意見彙整：找出共識、爭點與立場
+    - 立場地圖——誰在乎哪些面向、各自的論據具體而言是什麼 [name=peter]
+        - 可能會像是[議題手冊](https://docs.google.com/document/d/1RHJI6LbUOD-UZR3i3Itr0qVCxfkGiW8jmrKhWUKHFcQ/edit?usp=sharing)中，不同利害關係人的觀點與利益一樣，可以產生各個利害關係人（已經發表意見了）的看法
+        - 對於立場地圖的想像為何，需要向 ronny 確認
+- 現在使用 polis 的方式，缺乏與利害關係人的連結 [name=josh]
+    - 目前意見彙整的方式中，可以與 polis 相輔相成
+#### 誰來提案？
+- 誰來決定提案為何，以及如何提案？
+- 
+#### 如何確保意見全面與完整性？
+- 可以參考一個工具：https://ground.news/ [name=josh]
+    - 這個新聞網站會檢視一個議題中，不同的族群會看到的新聞
+    - 好奇：這個新聞背後的分類與針對議題的選擇，是由人類的編輯還是自動化來進行的？[name=peter]
+        - groundnews 的分類是依據外部針對媒體的分析來建立分類的標籤與機制
+        - https://ground.news/rating-system
+- 有沒有辦法建立一個人機協作的
+#### 如何真的可以降低門檻？
+- 啟動機制是由使用者啟動，還是由其他人來啟動
+- 自動化與否的兩難？
+    - 自動化可以達到降低門檻的目的
+    - 可能會產生資料上的偏誤
+- 是否可以建立人機協作的機制，例如 AI 先找資料，人類 review
+#### 如何避免網軍洗版？
+- 公益性較低的新聞，如某明星的八卦新聞。
+#### 不同階段的受眾差異
+- 有點難想像公民會願意下載 md. 檔案並且進行討論 [name=josh]
+- 這個專案的受眾是什麼？
+    1. 想要主動瞭解公共議題，並願意參與完善論述報告。
+    2. 想要主動解公共議題，但只想看報告。
+    3. 習慣被動了解公共議題，除
+- 

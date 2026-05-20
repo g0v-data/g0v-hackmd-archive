@@ -14,7 +14,6 @@ https://www.youtube.com/watch?v=7pQZQyMwqIw
 
 https://poki.com/zh/g/vortellis-pizza?gdgameCode=YAIUT3
 #### 日本環球影城自由行規劃
-【大阪環球影城】帶小孩不用買快速通關    https://www.youtube.com/watch?v=jbv9R_-a_nc
 大阪環球影城1.5日票攻略：    https://www.youtube.com/watch?v=9ebsj1Gc6I4
 https://www.youtube.com/watch?v=QcJ3ze6reVs
  能量手環*2，手環可參與的5項遊戲要過3種
@@ -57,6 +56,7 @@ https://www.kaiyukan.com/thv/captline/
 https://www.colatour.com.tw/webDM/tour/japan/usj/ticket.html
 https://tour.colatour.com.tw/itinerary?TourCode=NOZ082405BR6&TourDate=2026/08/24
 https://www.colatour.com.tw/C10P_Package/C10P001_Q1_OrderInfo.aspx?ProjectId=2023OSA-2D1N-U01
+必備清單：行動電源、水杯、單包裝小零食、200日硬幣、舒服的鞋子、輕便雨衣
 
 單字卡
 https://quizlet.com/tw/606710364/112%E4%BD%B3%E9%9F%B3%E7%BF%B0%E6%9E%97%E5%9C%8B%E4%B8%AD%E8%8B%B1%E8%AA%9Ebook-1_7%E4%B8%8Au3_%E5%96%AE%E5%AD%97%E5%85%A8-flash-cards/
