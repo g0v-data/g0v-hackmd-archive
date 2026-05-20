@@ -39,6 +39,7 @@ https://docs.google.com/document/d/1UnulKzX8hnkRpz7L4E51xJthYrJn_ENXIYoj3WgXjKk/
 - https://g0v.hackmd.io/@chewei/ryGr6YEB1l?type=view
 
 社會模式、再組織化
+- civictech.tw
 - 公民科學與群眾參與計畫資料集 https://g0v.hackmd.io/@chewei/crowdtribute/
 - 數位解方策略及工具推薦 / 揉合公民權的公民科技專案策略
     - https://docs.google.com/spreadsheets/d/1P1sCLPAQP9hUwMFVGzneg9lAIFLoYe_arsmgdUy23FA/edit
