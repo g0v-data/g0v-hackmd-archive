@@ -5,9 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Josh, 泰瑋, Bestian, 翊婷, Allison, Tim 
-
-![](https://g0v.hackmd.io/_uploads/H14-HkMkGg.png)
+參與者 Participants：
 
 
 https://www.vtaiwan.tw/jitsi
@@ -42,7 +40,15 @@ https://www.vtaiwan.tw/jitsi
 
 ## 小小的分享
 ### Internet Week 活動
+- 恭喜 Josh 發表圓滿落幕！
+- 我在我的場次也有介紹 vTaiwan 
+- 
 
 ### vTaiwan 電子報
+- [vtaiwan 電子報大共筆](/GnT4_W9_Slm5v1i9oiyP2g)
+- 目前訂閱數持續上升中！
+- 但是第二期拖更中，正在建立 pipeline
 
-## 
+## Ronny 提出的 civic talk 平台
+- https://ronnywang.github.io/civic-notes/civic-talk/ 
+- 建立一個平ㄊ

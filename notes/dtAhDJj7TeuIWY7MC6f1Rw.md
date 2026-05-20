@@ -58,12 +58,21 @@ OpenTransLive 是一套能夠即時擷取音訊、轉錄成文字，並將文字
 ### 2025/11
 - 11/23 大松提案、同步測試（要先跟揪松溝通）
 
+#### 相關成果
+[2025/11/23 大松提案](https://www.youtube.com/watch?v=C_9RNJsI56E)
+[2026/01/25 大松提案](https://www.youtube.com/watch?v=9uTR4muU3aY)
+[2026/03/29 大松提案](https://www.youtube.com/watch?v=lR0WShurIjo)
+
+
 ### 2025/12
 - 需求訪談（預計對象：揪松、summit，另：國會松）
 - 開發一個純瀏覽器版的 MVP，打開網頁就可以直接使用
 - 調整 WebSocket 的傳輸方式
 - 研究改用 OpenAI Real-time API 的可行性
 - 建立 docker file，讓使用者能夠快速部屬
+
+#### 相關成果
+
 
 ### 2026/01~02
 - 建立使用者帳號系統
