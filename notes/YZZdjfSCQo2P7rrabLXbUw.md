@@ -7,11 +7,7 @@
 
 :::
 
-https://epass.boca.gov.tw/Default.html
-https://epass.boca.gov.tw/Default.html
-
 3!jinVgX7hnY!FC
-https://docs.google.com/presentation/d/1Ghb6H6WGf1q3NZVRRNodanDQ575m84jv/edit?usp=sharing&ouid=103316880077716122371&rtpof=true&sd=true
 
 動物方城市2》主題曲 Shakira - Zoo 中文翻譯
 https://www.youtube.com/watch?v=7pQZQyMwqIw
@@ -37,7 +33,8 @@ https://www.youtube.com/watch?v=QcJ3ze6reVs
 |小小兵瘋狂乘車遊||1|
 |小小兵瘋狂任務：成為大壞蛋之路|||
 	
-門票價格等級：https://www.usj.co.jp/ticket/common/studiopass/price-calendar.html?spm=Activity.SectionCollapse.Link&clickId=07c4f8293c
+門票價格等級：F,B,C,D,E=票價低~高
+https://www.usj.co.jp/ticket/common/studiopass/price-calendar.html?spm=Activity.SectionCollapse.Link&clickId=07c4f8293c
 京阪神環球影城5天4夜行程 https://kimiyo.tw/kansai-trip4/
 詳細活動，超級任天堂等 https://vocus.cc/article/655c5374fd89780001bb1262
 外交部中部辦事處：台中市南屯區黎明路2段503號1樓
