@@ -1,7 +1,5 @@
-Zhejiang Sowell Electric Co Ltd
-
-https://www.pv2000dc.com
-
-We focus on the R&D, selling and technical services of photovoltaic products. Our products include photovoltaic cables, PV connectors and accessories.
-+86 18368490794
-No. 688, Siming Mid Road, Yinzhou District, Ningbo, China
+Kimdrill Piling Co Limited
+https://www.kimdrillpiling.com
+KIMDRILL is a trusted provider of complete solutions for deep drilling projects, with over ten years of industry experience.
++86 186 9226 2621
+Dujuan Road, Yuelv District, Changsha, Hunan, China
