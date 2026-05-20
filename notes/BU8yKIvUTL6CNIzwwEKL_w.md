@@ -6,6 +6,8 @@ tags: vTaiwan
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
 參與者 Participants：Peter, Tim, Allison, Taiwei
+![](https://g0v.hackmd.io/_uploads/HkxJZwXikMl.png)
+![](https://g0v.hackmd.io/_uploads/SJbyWvQs1Ml.png)
 
 
 https://www.vtaiwan.tw/jitsi
@@ -74,7 +76,7 @@ https://www.vtaiwan.tw/jitsi
     - 好奇：這個新聞背後的分類與針對議題的選擇，是由人類的編輯還是自動化來進行的？[name=peter]
         - groundnews 的分類是依據外部針對媒體的分析來建立分類的標籤與機制
         - https://ground.news/rating-system
-- 有沒有辦法建立一個人機協作的
+- 有沒有辦法建立一個人機協作的流程。
 #### 如何真的可以降低門檻？
 - 啟動機制是由使用者啟動，還是由其他人來啟動
 - 自動化與否的兩難？
@@ -87,6 +89,12 @@ https://www.vtaiwan.tw/jitsi
 - 有點難想像公民會願意下載 md. 檔案並且進行討論 [name=josh]
 - 這個專案的受眾是什麼？
     1. 想要主動瞭解公共議題，並願意參與完善論述報告。
-    2. 想要主動解公共議題，但只想看報告。
-    3. 習慣被動了解公共議題，除
-- 
+    2. 想要主動瞭解公共議題，但只想看報告。
+    3. 習慣被動瞭解公共議題，除了此平台報告，需再透過其它社群平台 (FB, YT, etc.) 定期發布報告來觸及。
+
+### 專案之外
+- 是否能夠主動進到社群媒體參與或者是主導討論 [name=peter]
+
+### 下一步
+- 要確認授權與專案的進行方式
+- 針對實作的細節可以

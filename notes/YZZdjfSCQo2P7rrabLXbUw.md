@@ -14,10 +14,11 @@ https://www.youtube.com/watch?v=7pQZQyMwqIw
 
 https://poki.com/zh/g/vortellis-pizza?gdgameCode=YAIUT3
 #### 日本環球影城自由行規劃
+https://docs.google.com/spreadsheets/d/1Ev91XyoPuatA-S9McHo_Act2tdDrtacrDuVr3TKsHWo/edit?usp=sharing
+
 大阪環球影城1.5日票攻略：    https://www.youtube.com/watch?v=9ebsj1Gc6I4
 https://www.youtube.com/watch?v=QcJ3ze6reVs
- 能量手環*2，手環可參與的5項遊戲要過3種
- 
+  
  https://www.facebook.com/photo/?fbid=122133864603187714&set=pcb.122133865317187714
 
 
@@ -39,12 +40,6 @@ https://www.youtube.com/watch?v=QcJ3ze6reVs
 https://www.usj.co.jp/ticket/common/studiopass/price-calendar.html?spm=Activity.SectionCollapse.Link&clickId=07c4f8293c
 京阪神環球影城5天4夜行程 https://kimiyo.tw/kansai-trip4/
 詳細活動，超級任天堂等 https://vocus.cc/article/655c5374fd89780001bb1262
-外交部中部辦事處：台中市南屯區黎明路2段503號1樓
-網路預約
-https://ppass.boca.gov.tw/sp-ipm-process-2.html
-照片：2張
-戶口名簿正本或最近3個月內辦理之戶籍謄本正本乙份
-新式國民身分證正本及其他相關證明文件正本
 
 海遊館(天保山)<-->環球影城
 來回含海遊館入管券 4200，單程3400，下午5點回程，末班6點
@@ -52,11 +47,8 @@ https://www.kaiyukan.com/thv/captline/
 
 大阪周遊卡 Osaka Amazing Pass，2日券約台幣1000，不含南海本線、 JR 線
 可參與約40項設施，例如天保山大摩天輪
-可樂旅遊：
-https://www.colatour.com.tw/webDM/tour/japan/usj/ticket.html
-https://tour.colatour.com.tw/itinerary?TourCode=NOZ082405BR6&TourDate=2026/08/24
-https://www.colatour.com.tw/C10P_Package/C10P001_Q1_OrderInfo.aspx?ProjectId=2023OSA-2D1N-U01
-必備清單：行動電源、水杯、單包裝小零食、200日硬幣、舒服的鞋子、輕便雨衣
+
+無敵星星瑪利歐能量手環，售價為5900日圓
 
 單字卡
 https://quizlet.com/tw/606710364/112%E4%BD%B3%E9%9F%B3%E7%BF%B0%E6%9E%97%E5%9C%8B%E4%B8%AD%E8%8B%B1%E8%AA%9Ebook-1_7%E4%B8%8Au3_%E5%96%AE%E5%AD%97%E5%85%A8-flash-cards/
