@@ -413,8 +413,7 @@ https://www.journals.uchicago.edu/doi/abs/10.1086/730621
     - photo by Tofus 
     - https://g0v-slack-archive.g0v.ronny.tw/index/search?q=%E6%95%99%E7%A7%91%E6%9B%B8#ts-1624157964.282700
     - ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_66173d457e45a2c6e98f4387ede852bd.png)
-- 育才出版，藝術與科技下冊，技術型高中藝術群課本，2021
-    - 更多照片：
+
 
 ### Publication 書本 / 出版
 - 《唐鳳：我所看待的自由與未來》
