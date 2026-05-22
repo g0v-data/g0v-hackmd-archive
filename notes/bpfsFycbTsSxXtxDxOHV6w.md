@@ -1,5 +1,6 @@
-Kimdrill Piling Co Limited
-https://www.kimdrillpiling.com
-KIMDRILL is a trusted provider of complete solutions for deep drilling projects, with over ten years of industry experience.
-+86 186 9226 2621
-Dujuan Road, Yuelv District, Changsha, Hunan, China
+https://www.kellywaygroup.com/
+
+Hunan Kellyway Machinery Co Ltd, founded in 2015, was founded by the main team which has up to ten years' experience on foundation works and piling machinery.
++86 13401022481
+No. 9, Minle Road, Jiuhua Economic Development Zone, Xiangtan, Hunan Province, China
+
