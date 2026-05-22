@@ -400,10 +400,9 @@ Prompts 與 `instructions` 的定位差異：
 ## 待討論
 
 CreateArticle / CreateMediaArticle 是否要增加限制
-- references 限制？
 - 用 prompt 引導 agent 先查相似訊息，再來決定是否要送出，並且要求提供回報補充資訊，最後引導到自行查證
 - 允許從 MCP 投遞不是 LINE 的其他來源？
-
+    - article [`references` 欄位](https://github.com/cofacts/rumors-db/blob/master/schema/articles.ts#L18-L35) 的限制？
 
 要加 log 嗎
 - 要的話，肯定是要 log 是誰打的，還有 auth error

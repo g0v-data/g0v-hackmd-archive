@@ -85,7 +85,7 @@ TODO: 把 login user 的 userId 接到 ADK 與 langfuse feedback
     - ready for review
 
 :::info
-開票拿掉 twitter login
+開票拿掉 twitter login --> https://github.com/cofacts/rumors-api/issues/390
 :::
 
 ### opendata

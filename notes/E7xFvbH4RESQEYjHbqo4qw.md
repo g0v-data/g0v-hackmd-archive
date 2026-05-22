@@ -17,7 +17,8 @@ tags: cofacts
 - [ ] 跑幾個月看實際用到的運算量，決定 GCP committed use discount 怎麼買比較划算
 
 ### rumors-api tickets
-- [ ] 移除 Twitter 登入功能
+- [x] 移除 Twitter 登入功能
+    - Ticket opened for tracking: https://github.com/cofacts/rumors-api/issues/390
 
 ## cofacts.ai
 
@@ -44,13 +45,15 @@ tags: cofacts
 
 #### Hybrid retrieval
 
-https://github.com/cofacts/rumors-api/pull/388
+> https://github.com/cofacts/rumors-api/pull/388
+> https://github.com/cofacts/rumors-db/pull/78
 
 已提供 production backup access to Yutin
 
 #### MCP server
 
-> https://g0v.hackmd.io/@cofacts/rd/%2FHbRX4ZP-T6KY4J5ae3FTTg
+> - Technical design doc: <https://g0v.hackmd.io/@cofacts/rd/%2FHbRX4ZP-T6KY4J5ae3FTTg>
+> - Draft pull request: <https://github.com/cofacts/rumors-api/pull/389>
 
 - 多做的，但可以寫在計劃裡 XD
     - mrorz 週末開發了 Cofacts MCP，讓使用者可以透過類 ChatGPT 介面，用自然語言操作 Cofacts 的功能，例如查詢、按讚、分類、撰寫回應等。
@@ -58,11 +61,9 @@ https://github.com/cofacts/rumors-api/pull/388
 - Target audience：
     - 專業查核者 —— 已有自己的工作流程，透過此 MCP 承先啟後
     - Cofacts WG —— 週期性管理需求、monitor 需求
-- 帶討論：
-    -   Technical design doc: <https://g0v.hackmd.io/@cofacts/rd/%2FHbRX4ZP-T6KY4J5ae3FTTg>
-    -   Draft pull request: <https://github.com/cofacts/rumors-api/pull/389>
-
-
+- 待討論：見 https://g0v.hackmd.io/HbRX4ZP-T6KY4J5ae3FTTg?view#%E5%BE%85%E8%A8%8E%E8%AB%96
+    - CreateArticle / CreateMediaArticle 是否要增加限制
+    - Log: with session? Langfuse?
 
 
 ### Usage review
@@ -274,6 +275,53 @@ https://github.com/cofacts/rumors-api/pull/388
 ## 下次開會
 
 - 回到週二？
+
+# 上週狀況
+
+## **圖片逐字稿功能異常**
+> mrorz@g0v-tw: "圖片的逐字稿最近好像壞了"
+
+### 問題
+5/5 啟用 Cloudflare Super Bot Fight Mode (SBFM) 後，圖片逐字稿功能停止運作。
+
+### 根本原因
+LINE bot 收到圖片後，會呼叫 Google Vision API 做 OCR。Vision API 需要用 HTTP 方式抓取圖片，URL 是 https://line-bot.cofacts.tw/getcontent?token=...。SBFM 把 Google Vision API 的自動化請求識別為 bot，直接擋掉，導致 Vision API 回傳 "The URL does not appear to be accessible by us."
+
+影片逐字稿（用 Gemini）不受影響，因為那條路徑直接用 GCS URI，不走 HTTP。
+
+### 修法
+- 在 Cloudflare WAF Custom rules 的「Bot Fight Mode false positives」裡新增：line-bot.cofacts.tw /getcontent → Skip Bot Fight Mode。/getcontent 本身已有 JWT token 做 application-level 保護，所以 skip SBFM 安全無虞。
+
+
+### 影響範圍
+5/5 至 5/16 透過 LINE bot 送入的圖片都沒有逐字稿，影響以圖片搜尋相似文章的準確度。修復後新送入的圖片會正常產生逐字稿。
+
+### 處理
+- admin-api 的使用會被 Cloudflare Managed Rule 擋住，故加入 False positive bypass rule
+- 188 篇舊訊息已於 5/16 用 `genAITranscript` admin API backfill 完畢。
+
+## 數發部網路爬蟲治理利害關係人政策溝通交流會議
+
+TBA
+
+## Github Activities
+
+-   **New Release**
+    -   [cofacts/ai] New release published: release/20260521 (<https://github.com/cofacts/ai/releases/tag/release/20260521>)
+    -   [cofacts/ai] New release published: release/20260520 (<https://github.com/cofacts/ai/releases/tag/release/20260520>)
+
+-   **Pull Requests**
+    -   [cofacts/ai] Pull request opened: #64 fix: redirect AI behavior after draft_factcheck_response via prompt and tool message (<https://github.com/cofacts/ai/pull/64>)
+    -   [cofacts/ai] Pull request opened: #63 fix: explicitly instruct AI not to echo draft or claim backend sync after tool call (<https://github.com/cofacts/ai/pull/63>)
+    -   [cofacts/ai] Pull request opened: #62 fix: prevent AI from echoing draft content after draft_factcheck_response (<https://github.com/cofacts/ai/pull/62>)
+    -   [cofacts/ai] Pull request opened: #61 feat: URL-based RightDrawer navigation with ToolInvocation cache (<https://github.com/cofacts/ai/pull/61>)
+    -   [cofacts/ai] Pull request opened: #60 feat(ui): add ToolInvocation paired type + rewrite RightDrawer with tool-specific content (<https://github.com/cofacts/ai/pull/60>)
+
+-   **Issues**
+    -   [cofacts/ai] Issue opened: #59 Sync logout across browser tabs with BroadcastChannel (<https://github.com/cofacts/ai/issues/59>)
+    -   [cofacts/ai] Issue opened: #58 Handle stale /session/:sessionId URLs after account switch (<https://github.com/cofacts/ai/issues/58>)
+    -   [cofacts/ai] Issue opened: #57 Decouple authentication state from user profile in AuthProvider (<https://github.com/cofacts/ai/issues/57>)
+
 
 # Production status（2026-05-15 至 2026-05-22）
 
