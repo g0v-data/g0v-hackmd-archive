@@ -230,15 +230,15 @@ https://cofacts.tw/reply/NIA0TZ4BYvv2RuZL20pp
 
 ---
 
-- [ ] mrorz: X 型布幕
+- [x] mrorz: X 型布幕
 - [ ] bil: 酷酷燈
-- [ ] mrorz, bil: 名片
-- [ ] mrorz: acho 黃色傳單 (中文)、群組漫畫傳單
-- [ ] mrorz: 摺頁 demo (BOT QR Code)
-- [ ] mrorz: 立板、手板
+- [x] mrorz, bil: 名片
+- [x] mrorz: acho 黃色傳單 (中文)、群組漫畫傳單
+- [x] mrorz: 摺頁 demo (BOT QR Code)
+- [x] mrorz: 立板、手板
   - 還有青年促參計劃嗎？
 - [x] mrorz: 喉糖、桌布、黏土、貼紙
-- [ ] QR code 板板、Cofacts 板板
+- [x] QR code 板板、Cofacts 板板
 - [ ] 外接螢幕：cofacts Youtube + about page
 
 ## 主機維運
