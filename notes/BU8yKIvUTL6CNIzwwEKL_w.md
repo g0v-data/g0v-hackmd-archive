@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter, Tim, Allison, Taiwei
+參與者 Participants：Peter, Josh, Tim, Allison, Taiwei
 ![](https://g0v.hackmd.io/_uploads/HkxJZwXikMl.png)
 ![](https://g0v.hackmd.io/_uploads/SJbyWvQs1Ml.png)
 
@@ -99,6 +99,18 @@ https://www.vtaiwan.tw/jitsi
 ### 下一步
 - 要確認授權與專案的進行方式 (直接在原 GitHub 開發？還是 fork 到 vTaiwan ？)
 - 討論實作的細節，規劃最小可行方案。
+
+### 使用者故事 User Story 發想 (由AI輔助產生)
+**1. 志願者 (提供素材發起討論)**
+我想人工收集並提交素材：提供平台議題資料來源，若湊滿三位志願者相同來源，可讓 AI 自動生成一頁式說明
+
+**2. 參與者 (回饋補充論點)**
+我想下載專屬討論包：取得可另外匯給自己 AI 進行討論的檔案 (OPINION.md)
+我想回傳意見摘要：將跟 AI 討論過的論點摘要，回傳給平台更新議題數據
+
+**3. 公開訪客**
+我想瀏覽議題列表：透過主動搜尋或平台熱度排名，快速選擇感興趣的話題查看
+
 
 
 

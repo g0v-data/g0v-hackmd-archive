@@ -6,9 +6,12 @@ tags: cofacts
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- 線上出席：
+- 線上出席：bil, alfred, mrorz, nonumpa, ggm
 - https://meet.google.com/mrz-dgrd-pri
 :::
+
+## 假帳號
+https://cofacts.tw/reply/NIA0TZ4BYvv2RuZL20pp
 
 ## 上週待辦
 
@@ -42,6 +45,7 @@ tags: cofacts
 ### 開發進度
 
 > nonumpa
+> 目標：做新的 url-resolver
 
 #### Hybrid retrieval
 
@@ -56,15 +60,17 @@ tags: cofacts
 > - Draft pull request: <https://github.com/cofacts/rumors-api/pull/389>
 
 - 多做的，但可以寫在計劃裡 XD
-    - mrorz 週末開發了 Cofacts MCP，讓使用者可以透過類 ChatGPT 介面，用自然語言操作 Cofacts 的功能，例如查詢、按讚、分類、撰寫回應等。
+    - mrorz 週末開發了 Cofacts MCP，讓使用者可以透過類 ChatGPT 介面，用自然語言操作 Cofacts 的功能，例如查詢、按讚、分類、撰寫回應等。 ![](https://g0v.hackmd.io/_uploads/Hyx-Q4ip1Mx.png)
+    - 我自己是想要拿這個搭配 Claude 的 scheduled action，可以週期性的幫忙 tag category (嗯就分類器) 或看看新回應的狀況等等  [name=mrorz]
+    - 好樣也能請 LLM 幫我自動巡田水，看看新訊息是不是能用自己的舊回應回之類 [name=mrorz]
 - 此 MCP 支援 Oauth 登入，可整合進 Claude.ai 或 custom GPTs。
 - Target audience：
     - 專業查核者 —— 已有自己的工作流程，透過此 MCP 承先啟後
     - Cofacts WG —— 週期性管理需求、monitor 需求
 - 待討論：見 https://g0v.hackmd.io/HbRX4ZP-T6KY4J5ae3FTTg?view#%E5%BE%85%E8%A8%8E%E8%AB%96
-    - CreateArticle / CreateMediaArticle 是否要增加限制
-    - Log: with session? Langfuse?
-
+    - User model: 共用 cofacts.ai 身份、保留 MCP attribution。
+    - CreateArticle / CreateMediaArticle 是否要增加限制 --> 以後再說
+    - Log: Langfuse
 
 ### Usage review
 
@@ -122,16 +128,16 @@ tags: cofacts
 
 **改動：**
 
-- **`663d5ee`** `feat: require verifier for URL-bearing messages and pre-reply claim check`
+- [**`663d5ee`**](https://github.com/cofacts/ai/commit/663d5ee459407fbc74c8bd8c42ea8ec4d2f6ad4d) `feat: require verifier for URL-bearing messages and pre-reply claim check`
   - 若 suspicious message 本身含 URL → writer 必須先呼叫 verifier（病毒式訊息常誇大或捏造來源）
   - Compose reply 前必先對 key claims 和 investigator 提供的 URLs 跑一次 verifier
 
-- **`5559f9d`** `feat: promote verifier to a mandatory numbered step in writer workflow`
+- [**`5559f9d`**](https://github.com/cofacts/ai/commit/5559f9d) `feat: promote verifier to a mandatory numbered step in writer workflow`
   - Traces 顯示 writer 一直跳過 verifier，直接把 investigator summary 當作充分依據
   - 把 verifier 從 step 4 描述中的一個選項，提升為獨立必要的 **Step 5**，附上明確格式指引
   - 移除 "if you have not already done so" 的逃脫路線
 
-- **`2e5bd97` ~ `359cf82`** 清理 verifier 範例：將台灣在地範例（龍葵鹼）改為 topic-neutral 英文範例，避免 AI 把範例當作真實資料使用
+- **[`2e5bd97`](https://github.com/cofacts/ai/commit/2e5bd97) ~ [`359cf82`](https://github.com/cofacts/ai/commit/359cf82)** 清理 verifier 範例：將台灣在地範例（龍葵鹼）改為 topic-neutral 英文範例，避免 AI 把範例當作真實資料使用
 
 ---
 
@@ -139,7 +145,7 @@ tags: cofacts
 
 **改動：**
 
-- **`fe236a4`** `refactor: remove hallucinated URL stripping logic from investigator callback`
+- [**`fe236a4`**](fe236a4) `refactor: remove hallucinated URL stripping logic from investigator callback`
   - 移除 investigator callback 中用 regex 刪掉「非 grounding URL」的邏輯
   - 這個方式會把正常 URL 也誤刪，改由 frontend 處理 grounding sources 的呈現
 
@@ -151,15 +157,15 @@ tags: cofacts
 
 **改動（三次迭代才收斂）：**
 
-- **`832c598`** `fix: prevent AI from echoing draft content after draft_factcheck_response`（05/21 04:19 UTC）
+- [**`832c598`**](https://github.com/cofacts/ai/commit/832c598) `fix: prevent AI from echoing draft content after draft_factcheck_response`（05/21 04:19 UTC）
   - 移除 step 8（Multi-Perspective Review）和 step 9（Finalize），讓 `draft_factcheck_response` 成為 workflow 的終點
   - 工具的 success message 從中文「草稿已儲存，請人工編輯者審閱後送出」改為英文，說明 draft 只在 chat 的 tool call result 可見
 
-- **`9e49a7e`** `fix: explicitly instruct AI not to echo draft or claim backend sync after tool call`（05/21 18:20 UTC）
+- [**`9e49a7e`**](https://github.com/cofacts/ai/commit/9e49a7e) `fix: explicitly instruct AI not to echo draft or claim backend sync after tool call`（05/21 18:20 UTC）
   - 上一個 fix 不夠——LLM 仍無視 success message，繼續自己寫 hallucinated 後續文字
   - 在 system prompt 中明確加入負面限制：「Do NOT echo the draft, do NOT say it was saved/synced/published to any system, do NOT link to Cofacts」
 
-- **`c19d7b6`** `fix: redirect AI behavior after draft_factcheck_response via prompt and tool message`（05/21 18:37 UTC）
+- [**`c19d7b6`**](https://github.com/cofacts/ai/commit/c19d7b6) `fix: redirect AI behavior after draft_factcheck_response via prompt and tool message`（05/21 18:37 UTC）
   - 把負面禁止指令改為正面引導：「After the tool returns success, ask the user to open the tool call result above to review」
   - Proofreader mode 從「Reviewing the Reply (Later)」改為「Reviewing Sources (Before drafting)」，避免 AI 把 proofreader review 理解成「呼叫 tool 之後再把 draft 念一遍」
   - 把 Cofacts Reply Format section 移到 workflow 之後，讓章節順序和執行順序一致
@@ -170,7 +176,7 @@ tags: cofacts
 
 **動機：** 在三波 fix 之後，重新設計 proofreader 的介入時機與流程。
 
-- **`8632eca`** `feat: replace source evaluation with draft + proofreader review loop`（05/22 02:54 UTC）
+- [**`8632eca`**](https://github.com/cofacts/ai/commit/8632eca) `feat: replace source evaluation with draft + proofreader review loop`（05/22 02:54 UTC）
   - 新增 **Step 6: Draft & Proofreader Review**：
     1. 先在 chat 中寫 plain-text draft
     2. 附上 sources 送給 political perspective agents 審閱
@@ -179,7 +185,7 @@ tags: cofacts
   - 把原本的「Source Evaluation」步驟整合進這個 loop
   - Compose Reply 步驟加入 CoT 指引：call tool 前先在 chat 說明分類理由和 key points
 
-- **`779ddc1`** `fix: restore proofreader mode descriptions`（05/22 03:01 UTC）
+- [**`779ddc1`**](https://github.com/cofacts/ai/commit/779ddc1) `fix: restore proofreader mode descriptions`（05/22 03:01 UTC）
   - 前一個 commit 意外覆蓋了 proofreader mode 描述，這個 commit 修復回來
 
 
@@ -224,7 +230,8 @@ tags: cofacts
 
 ---
 
-- [ ] X 型布幕
+- [ ] mrorz: X 型布幕
+- [ ] bil: 酷酷燈
 - [ ] mrorz, bil: 名片
 - [ ] mrorz: acho 黃色傳單 (中文)、群組漫畫傳單
 - [ ] mrorz: 摺頁 demo (BOT QR Code)
@@ -239,13 +246,11 @@ tags: cofacts
 - [ ] （中優先）site-tw 記憶體：容器持續在 1 GB 邊緣，建議評估是否需調高 Cloud Run memory limit 或優化 SSR 記憶體用量。
 - [ ] （持續追蹤）Cloudflare One token 導入：作為防火牆誤擋的根本解法，取代 Bot Fight Mode 作為 API 存取控制。
 
-## Kaggle
-
-
 ## 小聚籌備
 
 - 誰會來呢:
 - [x] 食物：沒有
+- [ ] 日期：6/7 (日)
 - [ ] 場地：新北市青年局青職基地
 - [ ] 時間：13:00 擺桌子場佈
 	- 活動時間：14:00 - 17:00
@@ -263,7 +268,7 @@ tags: cofacts
 - [ ] 投放目標：
   - 推播日：
   - 目標：雙北
-- [ ] KKTIX: https://cofacts.kktix.cc/events/cofactseditor52
+- [x] KKTIX: https://cofacts.kktix.cc/events/cofactseditor53
 - [ ] 記得帶：貼紙、不太環保杯 (bil)
 - [ ] LINE 文案：
 - [ ] VOOM 發文
@@ -271,10 +276,25 @@ tags: cofacts
 
 問題：要介紹 cofacts.ai 給參與者用嗎？
 - 可以收 early feedback
+- 要 [name=bil]
+
+## MozFest 2026
+
+https://docs.google.com/document/d/1MxHJmTdissEr0qpKMbjOvRxfybpi5fBuxguzoMwV3mo/edit?tab=t.0#heading=h.ybycwycldt2r (cofacts only)
 
 ## 下次開會
 
-- 回到週二？
+- 回到週二! 5/26 (二) 20:00 @ NPO Hub
+
+## Kaggle
+
+> 說到 Kaggle，我在想我們 Opendata 要不要也放一份在 Kaggle。畢竟 Kaggle 是我 10 幾年前學生時期就存在的平台（我有一個 10 幾年的帳號，但是是空的 XD），Gemini 也說 huggingface 偏 LLM 研究者，但 Kaggle 有更多一般的 data scientist 與學生在找資料。
+>
+> 如果覺得 OK 的話，我可以先手動上傳一份在我個人的帳號，同時申請 Kaggle organization
+通過之後再轉移 kaggle dataset 過去 organization
+
+
+下週再說
 
 # 上週狀況
 

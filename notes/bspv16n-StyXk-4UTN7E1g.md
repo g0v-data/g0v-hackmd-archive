@@ -25,3 +25,7 @@
 ![](https://g0v.hackmd.io/_uploads/SkxWce9ayGx.png)
 - cuML PCA
 ![](https://g0v.hackmd.io/_uploads/ryggscT1Gg.png)
+
+- ROC-AUC
+    - ROC-AUC 比 accuracy 更可靠。
+![](https://g0v.hackmd.io/_uploads/ryxJjs5Tkzg.png)

@@ -50,7 +50,7 @@
 
 <p>Par exemple, une variance faible pourra séduire un joueur recherchant un jeu calme avec des gains réguliers. Inversement, un amateur de sensations fortes privilégiera une machine à haute volatilité pour tenter de remporter des jackpots plus conséquents.</p>  
 
-<p>Pour approfondir cette analyse, nous invitons nos lecteurs à consulter les meilleures offres disponibles en France sur <a href="https://betriviera.fr/">betriviera casino</a>, qui recense les casinos respectant les normes ANJ tout en proposant des machines à sous avec mini-jeux d’une grande qualité.</p>
+<p>Pour approfondir cette analyse, nous invitons nos lecteurs à consulter les meilleures offres disponibles en France sur <a href="https://betriviera.io/">betriviera casino</a>, qui recense les casinos respectant les normes ANJ tout en proposant des machines à sous avec mini-jeux d’une grande qualité.</p>
 
 <h2>Analyse comparative des slots avec mini jeux : plaisir vs variance</h2>
 
