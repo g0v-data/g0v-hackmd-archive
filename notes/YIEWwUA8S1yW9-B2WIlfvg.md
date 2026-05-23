@@ -73,6 +73,12 @@ Suggestion: Add a Test-Time SC condition to the experiment, since Table 1 shows 
 Can the authors add a matched supervised baseline using the same embedding-plus-isotonic predictor trained on true correctness labels?**
 
 
+| Method     |   ECE1 |   ECE2 |    MCE |   Brier |   AUROC |
+|:-----------|-------:|-------:|-------:|--------:|--------:|
+| Supervised | 0.0524 | 0.0649 | 0.1319 |  0.1604 |  0.6524 |
+| Ours       | 0.0696 | 0.0864 | 0.2013 |  0.1550 |  0.7080 |
+| Iso. Reg.  | 0.0519 | 0.0666 | 0.1755 |  0.1513 |  0.7103 |
+
 
 **Self-consistency failures are not diagnosed enough. WebQ appears much weaker than the math datasets, likely because semantically equivalent answers can have different surface forms. The paper notes this issue but does not analyze where or why the self-consistency target breaks down. 
 On WebQ, how much of the self-consistency failure comes from correct answers expressed with different surface forms? Did semantic answer clustering improve the target?**
@@ -96,3 +102,10 @@ On WebQ, how much of the self-consistency failure comes from correct answers exp
 
 
 ## Reviewer 3
+
+
+**The main idea feels like a straightforward way to train a cheap model to imitate repeated sampling
+My main concern is low novelty. The paper’s core method is to compute self-consistency from repeated offline samples and train a small predictor to approximate that signal at test time. This feels like a direct distillation of test-time self-consistency rather than a new idea. Overall I view the paper as useful but incremental.**
+
+
+**I am also not fully convinced that the method learns confidence for the specific generated answer, since the question-only ablation is very strong and sometimes close to or better than the full response-based predictor. This suggests that much of the gain may come from learning question difficulty.**
