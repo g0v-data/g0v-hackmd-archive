@@ -11,7 +11,9 @@ tags: GIS
 資料集：
 https://docs.google.com/spreadsheets/d/1uXFyo3VHICOxk3LgODoBhKekxatFc_ZjEIXjgKxVnPs/edit
 
-- TODO：把 spreadsheet 的經度、緯度欄位整理好，補齊欄位
+- TODO：
+    - 檢視 是不是有誤刪資料 ！ 用 googlesheet 歷史版本
+    - 把 spreadsheet 的經度、緯度欄位整理好，補齊欄位
     - 把 googlesheet 經緯度格式改成統一，輔助工具：https://sample.diary.tw/18/maps.htm
 - 20220807 已整合的資料：大肚台地產業與資源調查_湧泉水井水堀_CSV
     - https://data.gov.tw/dataset/101335
