@@ -109,6 +109,11 @@ https://photos.app.goo.gl/8LyqssznnaxWsV2S8
 - 兒少，議題講者：臺北市中山分局偵查隊小隊長 洪晨鐘 https://www.facebook.com/share/p/19m8XXeJZj/
 
 
+### 收款人帳戶安全守護站
+
+你的帳戶被人匯款，有選擇的權利嗎？
+https://pcit-tw.pages.dev/
+
 ### 待分類
 
 用 AI 來浪費詐騙集團時間
@@ -152,6 +157,7 @@ https://youtu.be/YNITi71IA0o
     - https://youtu.be/T1TCjez7AlU?si=y2_yQSFOxdlz2uMs&t=3088
 - 翁韡先生，為海巡署科技鑑識科科長，近來致力於推動「智慧辦案」，利用大數據分析方法，將海巡署的辦案偵察模式，從傳統的單一個案視野，提升到罪犯網絡、跨國集團的層次，期待新的科技與更廣的視野，有助於精準打擊犯罪。
     - https://youtu.be/T1TCjez7AlU?si=znveMHsZylg6oyoK&t=2174
+- 好棒棒反詐騙協會 https://bump.oen.tw/
 - 議題社群：網路黑魔法防禦松
     - https://g0v.hackmd.io/qf2mb4z2S-q5K6HoJ3b8Vg
 - Dcard 反詐騙板
