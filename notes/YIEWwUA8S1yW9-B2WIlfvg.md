@@ -25,6 +25,19 @@ Suggestion: Add a reliability diagram for raw Test-Time SC (Figure 3 currently s
 **(2) The validated regime is much narrower than the framing suggests. All five datasets share the same structure (short, exact-matchable answers) even though the motivating use cases (tutor hints, triage advice, agentic actions) don't have this structure. The method's reliance on string-equality agreement is invisible in the experiments but central to whether it generalizes. (Section 4, lines 132–145; Section 1, lines 31–42; Appendix A.2)
 Suggestion: Either run one end-to-end experiment on a longer-form or non-factoid dataset using embedding-based agreement (e.g., cosine similarity above a threshold) in place of exact match or scope claims to "short-answer generation with exact-matchable references."**
 
+6 models on TruthfulQA
+Consistency matches using entailment, as in semantic uncertainty
+Mark correctness using entailment as well
+Average model accuracy is ~40% (difficult task for reasoning models)
+
+
+| Method   |   ECE2 - min |   ECE2- mean |   ECE2 - max |
+|:-----------------|------------------:|-------------------:|------------------:|
+| Token Probs.     |             0.300 |              0.375 |             0.468 |
+| Ans. Probs.      |             0.407 |              0.521 |             0.662 |
+| Verbal Conf.     |             0.359 |              0.466 |             0.667 |
+| Ours             |             0.117 |              0.205 |             0.242 |
+
 
 
 **(3) Distribution-shift experiments are too mild to support the deployment claim, and the cost story depends on it. Shifts are within task families; motivating scenarios involve much larger ones. If the predictor doesn't transfer broadly, the offline cost (~100k generations per setup) recurs whenever the deployment shifts, undermining the "lightweight at deployment" framing. (Section 4.2, lines 259–280; Section 4, line 146; Section 5, lines 335–340)
