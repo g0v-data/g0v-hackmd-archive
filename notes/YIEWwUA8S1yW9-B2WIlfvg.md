@@ -75,14 +75,16 @@ Can the authors add a matched supervised baseline using the same embedding-plus-
 
 | Method     |   ECE1 |   ECE2 |    MCE |   Brier |   AUROC |
 |:-----------|-------:|-------:|-------:|--------:|--------:|
-| Supervised | 0.0524 | 0.0649 | 0.1319 |  0.1604 |  0.6524 |
 | Ours       | 0.0696 | 0.0864 | 0.2013 |  0.1550 |  0.7080 |
-| Iso. Reg.  | 0.0519 | 0.0666 | 0.1755 |  0.1513 |  0.7103 |
+| Emb. + Iso. Reg.  | 0.0519 | 0.0666 | 0.1755 |  0.1513 |  0.7103 |
+| (Current) Supervised | 0.0524 | 0.0649 | 0.1319 |  0.1604 |  0.6524 |
 
 
 **Self-consistency failures are not diagnosed enough. WebQ appears much weaker than the math datasets, likely because semantically equivalent answers can have different surface forms. The paper notes this issue but does not analyze where or why the self-consistency target breaks down. 
 On WebQ, how much of the self-consistency failure comes from correct answers expressed with different surface forms? Did semantic answer clustering improve the target?**
 
+1. webq is least calibrated because it is least accurate for all models; fits well on the accuracy vs. calibration trendlines
+2. note that diagnosis of individual failures can be difficult; for example, consider a model that outputs 95\% confidence for 100 task examples, and is correct on 99 of them.  in this case, it is not clear which examples should be analyzed, but the case o
 
 **Offline cost is understated. The method requires many offline generations per model and target distribution. This may be reasonable for some local deployments, but in black-box API settings it can be costly and may need to be repeated after domain shifts or model updates. The paper should report token counts or approximate API cost.  
 -How does performance scale with the number of unlabeled calibration examples, not only with the number of self-consistency samples per example?
