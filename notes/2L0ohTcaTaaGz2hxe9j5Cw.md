@@ -41,3 +41,5 @@ summit 2026 的主視覺：椅子
     ![](https://g0v.hackmd.io/_uploads/H1gkl4aXn-x.png)
 
     5. 收邊，把多餘的線段隱藏
+    ![](https://g0v.hackmd.io/_uploads/HkuTHWllMe.png)
+    
