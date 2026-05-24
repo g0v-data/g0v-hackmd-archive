@@ -1,8 +1,11 @@
-# Chapter 13 — Graph Neural Networks
+# Topic — Graph Neural Networks
 
-> **Course:** Deep Learning  **Class code:** DL — Ch 13   **Lecturer:** —
-> **Primary textbook:** Bishop & Bishop, *Deep Learning: Foundations and Concepts* (Springer, 2024), Ch 13
-> **Translation:** Traditional Chinese (Taiwan)  ·  圖神經網路
+> **Course: Deep Learning** 
+> **Class code: DL — GNN** 
+> 
+> Lecturer: Yu-Hau Tseng
+>> Primary textbook: Bishop & Bishop, Deep Learning: Foundations and Concepts (Springer, 2024), Ch 13
+> Translation: Traditional Chinese (Taiwan)  ·  圖神經網路
 
 ---
 
@@ -36,7 +39,7 @@
 | Node / Vertex               | An entity in the graph; carries an embedding $h_n \in \mathbb{R}^D$.                            | 節點 |
 | Edge                        | A connection between two nodes; may carry an embedding $e_{nm}$.                                | 邊 |
 | Neighbourhood $N(n)$        | The set of nodes connected to node $n$ by an edge.                                              | 鄰居集合 |
-| Degree                      | $|N(n)|$, the number of neighbours of node $n$.                                                 | 度數 |
+| Degree                      | $\|N(n)\|$, the number of neighbours of node $n$.                                                 | 度數 |
 | Adjacency matrix $A$        | $N \times N$ matrix with $A_{nm}=1$ if $(n,m)\in E$, else 0.                                    | 鄰接矩陣 |
 | Undirected graph            | $A = A^\top$.                                                                                    | 無向圖 |
 | Directed graph              | Edges are ordered pairs; $A$ need not be symmetric.                                              | 有向圖 |

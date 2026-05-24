@@ -108,8 +108,25 @@ On WebQ, how much of the self-consistency failure comes from correct answers exp
 |        200 |         20 | Ours              | 0.0849 |  0.1583 |
 |        - |        - | best unsupervised | 0.2155 |  0.2214 |
 
+This table estimates the cost of running 1,000 representative math benchmark questions through public model APIs, assuming roughly 250 input tokens and 750 output tokens per question to include both reasoning/explanation and a final answer. Costs are computed from publicly listed per-token API prices, with batch/flex discounts included where available.
+
+
+| model                              |      cost |
+| ---------------------------------- | --------: |
+| Gemini 2.5 Flash-Lite  | **$0.16** |
+| Gemini 2.5 Flash       | **$0.98** |
+| Gemini 3 Flash Preview | **$1.19** |
+| GPT-5.4 mini              | **$1.78** |
+| Gemini 2.5 Pro         | **$3.91** |
+| Claude Haiku 4.5                   | **$4.00** |
+
+To run this with k=10 and n=100 on GSM8K with 1 A100 and vLLM, Qwen3-1.7B takes ~6 minutes, Qwen3-8B takes ~13 minutes.
+
 
 **Robustness to deployment decoding is incomplete. Training-temperature ablations are useful, but the more practical question is what happens when the deployed model uses a different test-time temperature or greedy decoding. How robust is the predictor when trained at one decoding temperature but deployed with another, especially greedy or low-temperature decoding?**
+
+-All experiments use a different test-time temperature. 
+-Qwen3 guidance has a suggested temperature for obtaining correct answers.  It strongly suggests against greedy decoding.
 
 
 ## Reviewer 3
@@ -120,3 +137,12 @@ My main concern is low novelty. The paper’s core method is to compute self-con
 
 
 **I am also not fully convinced that the method learns confidence for the specific generated answer, since the question-only ablation is very strong and sometimes close to or better than the full response-based predictor. This suggests that much of the gain may come from learning question difficulty.**
+
+That they are similarly marginally calibrated is unsurprising given that they have the same set of targets.  
+What we observe, however, is that the question-only confidence scores tend to bunch more tightly around the average self-consistency rate.
+Quantitatively, this can be seen in both the brier score and AUROC.  
+In particular AUROC is much worse, and this leads to meaningfully worse selective prediction performance.
+
+Overall, this can be seen in the progression from question-only, to our method with answers, to full test-time SC.  While they all have good marginal calibration, the stronger methods prevail in Brier score and AUROC.
+
+Also, we note that learning model-dependent question difficulty is itself not trivial without access to labels, and is not meaningfully different from the goal of confidence calibration (i.e., it would seem natural for a human to express the difficulty of a problem by giving their estimate of the probability that they complete it successfully).
