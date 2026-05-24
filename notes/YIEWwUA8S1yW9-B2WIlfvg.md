@@ -61,6 +61,14 @@ many fewer gens:
 Suggestion: Add a Test-Time SC condition to the experiment, since Table 1 shows it's similarly calibrated to the distilled method. If downstream performance is comparable, reframe the contribution as "we deliver well-calibrated signals cheaply" rather than "our confidence estimates are uniquely useful."**
 
 
+| Method       |    Acc |   ECE2 |    MCE |   Brier |
+|:-------------|-------:|-------:|-------:|--------:|
+| Base Model   | 0.6860 | 0.2749 | 0.3721 |  0.2608 |
+| Token Probs. | 0.6561 | 0.2149 | 0.4095 |  0.2483 |
+| Ours         | 0.6538 | 0.1279 | 0.2446 |  0.2175 |
+| TT-SC        | 0.6548 | 0.1440 | 0.2409 |  0.2168 |
+| Verbal Conf. | 0.6467 | 0.3180 | 0.4886 |  0.3097 |
+
 
 
 ## Reviewer 2
@@ -83,8 +91,9 @@ Can the authors add a matched supervised baseline using the same embedding-plus-
 **Self-consistency failures are not diagnosed enough. WebQ appears much weaker than the math datasets, likely because semantically equivalent answers can have different surface forms. The paper notes this issue but does not analyze where or why the self-consistency target breaks down. 
 On WebQ, how much of the self-consistency failure comes from correct answers expressed with different surface forms? Did semantic answer clustering improve the target?**
 
-1. webq is least calibrated because it is least accurate for all models; fits well on the accuracy vs. calibration trendlines
-2. note that diagnosis of individual failures can be difficult; for example, consider a model that outputs 95\% confidence for 100 task examples, and is correct on 99 of them.  in this case, it is not clear which examples should be analyzed, but the case o
+1. webq is least calibrated because it is least accurate for all models; fits well on the accuracy vs. calibration trendlines.
+2. webq has the same form as triviaqa, short answers with a set of potential matches.
+3. note that, because calibration is generally measured over sets of predictions, diagnosis of individual failures can be difficult; for example, consider a model that outputs 95\% confidence (based on consistency) for 100 task examples, and is correct on 99 of them.  in this case, it is not clear which examples should be analyzed as errors, but it is likely not the case of 95\% confidence with a correct answer, which in fact improves calibration
 
 **Offline cost is understated. The method requires many offline generations per model and target distribution. This may be reasonable for some local deployments, but in black-box API settings it can be costly and may need to be repeated after domain shifts or model updates. The paper should report token counts or approximate API cost.  
 -How does performance scale with the number of unlabeled calibration examples, not only with the number of self-consistency samples per example?
