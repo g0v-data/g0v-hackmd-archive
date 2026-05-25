@@ -8,17 +8,16 @@
 :::
 #### Google Meet
 :bulb:桌機可用瀏覽器免安裝免帳號，手機需要有Google帳號，**中國不通**
-展頌公用會議：https://meet.google.com/znp-xmiy-hyj
-短網址：https://www.chainlon.net/meetg
-![](https://i.imgur.com/bIgZSUY.png)
-**以上將在2026/5/11起停用-延後**
-
-2026/4/24起啟用：
 主管會議    https://meet.google.com/zvq-goua-iyv
 ![](https://g0v.hackmd.io/_uploads/Skx12LBtJMl.png)
+短網址：https://www.chainlon.net/meetg
 內訓專用    https://meet.google.com/vhj-bhpw-rqo 
 資訊部     https://meet.google.com/dub-xgzx-vwn 
 對外       https://meet.google.com/hex-matt-vcc
+**以下即日起停用
+展頌公用會議：https://meet.google.com/znp-xmiy-hyj
+
+**以上停用
 
 #### Microsoft Teams(備用1)
 :bulb:桌機可用瀏覽器免安裝免帳號，手機要安裝或登入微軟帳號，2025/5/16更新

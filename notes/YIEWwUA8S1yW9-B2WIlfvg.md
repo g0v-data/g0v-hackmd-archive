@@ -13,10 +13,10 @@ Suggestion: Add a reliability diagram for raw Test-Time SC (Figure 3 currently s
 |:----------|:------------|------------:|--------------:|----------------:|-------:|
 | gsm8k     | Self. cons. |       0.900 |         0.969 |           0.974 | -0.005 |
 | gsm8k     | Self. cons. |       0.950 |         0.977 |           0.984 | -0.006 |
-| gsm8k     | Ours        |       0.900 |         0.922 |           0.947 | -0.024 |
-| gsm8k     | Ours        |       0.950 |         0.951 |           0.977 | -0.026 |
 | polymath  | Self. cons. |       0.900 |         0.942 |           0.965 | -0.023 |
 | polymath  | Self. cons. |       0.950 |         0.959 |           0.981 | -0.022 |
+| gsm8k     | Ours        |       0.900 |         0.922 |           0.947 | -0.024 |
+| gsm8k     | Ours        |       0.950 |         0.951 |           0.977 | -0.026 |
 | polymath  | Ours        |       0.900 |         0.889 |           0.964 | -0.076 |
 | polymath  | Ours        |       0.950 |         0.889 |           0.964 | -0.076 |
 
@@ -38,6 +38,14 @@ Average model accuracy is ~40% (difficult task for reasoning models)
 | Verbal Conf.     |             0.359 |              0.466 |             0.667 |
 | Ours             |             0.117 |              0.205 |             0.242 |
 
+**also add results showing other datasets work without exact match**
+
+| Dataset   | Method       |   ECE1 |   ECE2 |   MCE |   Brier |   AUROC |
+|:----------|:-------------|-------:|-------:|------:|--------:|--------:|
+| trivia_qa | Sem. Cluster |  0.088 |  0.104 | 0.238 |   0.182 |   0.774 |
+| trivia_qa | Ex. Match |  0.080 |  0.095 | 0.211 |   0.184 |   0.760 |
+| webq      | Sem. Cluster |  0.121 |  0.141 | 0.285 |   0.228 |   0.657 |
+| webq      | Ex. Match |  0.106 |  0.126 | 0.273 |   0.230 |   0.624 |
 
 
 **(3) Distribution-shift experiments are too mild to support the deployment claim, and the cost story depends on it. Shifts are within task families; motivating scenarios involve much larger ones. If the predictor doesn't transfer broadly, the offline cost (~100k generations per setup) recurs whenever the deployment shifts, undermining the "lightweight at deployment" framing. (Section 4.2, lines 259–280; Section 4, line 146; Section 5, lines 335–340)
@@ -108,6 +116,13 @@ On WebQ, how much of the self-consistency failure comes from correct answers exp
 2. webq has the same form as triviaqa, short answers with a set of potential matches.
 3. note that, because calibration is generally measured over sets of predictions, diagnosis of individual failures can be difficult; for example, consider a model that outputs 95\% confidence (based on consistency) for 100 task examples, and is correct on 99 of them.  in this case, it is not clear which examples should be analyzed as errors, but it is likely not the case of 95\% confidence with a correct answer, which in fact improves calibration
 
+
+| Method                      |   ECE1 |   ECE2 |   MCE |   Brier |   AUROC |
+|:----------------------------|-------:|-------:|------:|--------:|--------:|
+| Ex. Matching |  0.106 |  0.126 | 0.273 |   0.230 |   0.624 |
+| Sem. Cluster |  0.121 |  0.141 | 0.285 |   0.228 |   0.657 |
+| Best Unsup.  |  0.399 |  0.409 | 0.537 |   0.386 |   0.604 |
+
 **Offline cost is understated. The method requires many offline generations per model and target distribution. This may be reasonable for some local deployments, but in black-box API settings it can be costly and may need to be repeated after domain shifts or model updates. The paper should report token counts or approximate API cost.  
 -How does performance scale with the number of unlabeled calibration examples, not only with the number of self-consistency samples per example?
 -What is the approximate offline calibration cost in tokens, wall-clock time, or API dollars for a representative black-box model?**
@@ -149,6 +164,10 @@ To run this with k=10 and n=100 on GSM8K with 1 A100 and vLLM, Qwen3-1.7B takes 
 My main concern is low novelty. The paper’s core method is to compute self-consistency from repeated offline samples and train a small predictor to approximate that signal at test time. This feels like a direct distillation of test-time self-consistency rather than a new idea. Overall I view the paper as useful but incremental.**
 
 
+
+We thank the reviewer, but we want to push back directly on the novelty assessment. The main contribution is not a new estimator, it is a reframing that is absent in prior work: repeated sampling, treated as a test-time procedure in the UQ literature, becomes an offline source of unlabeled supervision, which unlocks an important regime (as recognized by all reviewers) that no existing method serves. Calling this "incremental" because the resulting algorithm is simple inverts how methods should be judged: a simple approach that opens a new deployment regime and works across 9 models, 5 datasets, distribution shift, and black-box access is a stronger result than a complicated one, not a weaker one. We would ask the reviewer to consider whether the same method, dressed up with an unnecessary architecture or other complexities and performing slightly worse, would have read as more novel; because if so, the objection is to the absence of complexity, not the absence of a contribution.
+
+
 **I am also not fully convinced that the method learns confidence for the specific generated answer, since the question-only ablation is very strong and sometimes close to or better than the full response-based predictor. This suggests that much of the gain may come from learning question difficulty.**
 
 That they are similarly marginally calibrated is unsurprising given that they have the same set of targets.  
@@ -159,3 +178,5 @@ In particular AUROC is much worse, and this leads to meaningfully worse selectiv
 Overall, this can be seen in the progression from question-only, to our method with answers, to full test-time SC.  While they all have good marginal calibration, the stronger methods prevail in Brier score and AUROC.
 
 Also, we note that learning model-dependent question difficulty is itself not trivial without access to labels, and is not meaningfully different from the goal of confidence calibration (i.e., it would seem natural for a human to express the difficulty of a problem by giving their estimate of the probability that they complete it successfully).
+
+
