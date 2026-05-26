@@ -14,6 +14,10 @@ case:
 狀態
 - 不會改建
 - 會改建
+    - 此地塊的相關規劃
+        - 臺北市
+            - 都市審議地圖
+            - 「這個都市更新地區，有沒有細節規劃方案？」以台北市為例，非常難查閱，開一份共筆，探討短期間如何至少能回答上述疑問 https://g0v.hackmd.io/ApW7hYqAQTGOC-xq3xVRaA?view
 - 改建中 https://g0v.hackmd.io/GMYOZV6jRN20YN037yRqvQ?view
 - 公有建物，尚有調整空間
 

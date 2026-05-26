@@ -6,3 +6,4 @@ tags: name,
 
 - 吉鈴櫻 🌸
 - 居靈英 🏮 用於燈籠題字
+- 激臨位 (vui+) by RS 於 g0v Summit 2026 結尾致詞

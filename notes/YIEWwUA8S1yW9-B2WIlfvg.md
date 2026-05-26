@@ -5,9 +5,17 @@
 
 
 
+With respect to whether our evaluation, we believe that our experimental scope is extensive, covering 36 model/dataset combinations, many metrics, distribution shifts, selective prediction, and linguistic calibration.  We believe this view was supported by the other reviewers, who characterized our empirical study as "much broader than typical calibration papers" (KUuD) and "broad" and "empirically strong" (BhkZ). 
+
+We appreciate the reviewer's particular concerns, with further questions about the method's capacity to generalize.  In response to these concerns, we have run new experiments, including with a new dataset with a longer free-form answer format that is not amenable to exact matching.  Please see below for these and other results. 
+
 
 **(1) Central premise is validated only implicitly. That SC tracks correctness in reasoning models rests on aggregate ECE in Table 1 plus a citation to Lyu et al. that actually evaluates non-reasoning models. High-confidence-tail behavior, where deployment risk concentrates, isn't analyzed. (Section 4.1, lines 192–202; Section 3, line 109; Section 2, lines 75–78)
 Suggestion: Add a reliability diagram for raw Test-Time SC (Figure 3 currently shows only the distilled predictor). Add conditional accuracy among examples with SC ≥ 0.9 and ≥ 0.95. Both should be computable from existing data.**
+
+We agree that it is important to validate the underlying premise of our approach, that self-consistency tracks correctness in this setting (we also believe this is a contribution of this work).  Besides Table 1, results for test-time SC are also included in Figure 2, Tables 4+5 (in comparison to base model calibration), and Table 9 (with results by dataset).  We will point to these results more clearly in a revised manuscript.  In general, we find it to be a reliable and sharp confidence signal.
+
+In response to the reviewer's concern, we will add TT-SC to the reliability diagrams in Figure 3.  Below, please see the results corresponding to conditional accuracy among examples with SC ≥ 0.9 and ≥ 0.95.  We compare the average accuracy and confidence in these buckets for both our method and TT-SC.  TT-SC enables well-calibrated predictions in these high-confidence ranges.
 
 | Dataset   | Method      |   Threshold |   AvgAcc |   AvgConf |   diff |
 |:----------|:------------|------------:|--------------:|----------------:|-------:|
@@ -25,11 +33,13 @@ Suggestion: Add a reliability diagram for raw Test-Time SC (Figure 3 currently s
 **(2) The validated regime is much narrower than the framing suggests. All five datasets share the same structure (short, exact-matchable answers) even though the motivating use cases (tutor hints, triage advice, agentic actions) don't have this structure. The method's reliance on string-equality agreement is invisible in the experiments but central to whether it generalizes. (Section 4, lines 132–145; Section 1, lines 31–42; Appendix A.2)
 Suggestion: Either run one end-to-end experiment on a longer-form or non-factoid dataset using embedding-based agreement (e.g., cosine similarity above a threshold) in place of exact match or scope claims to "short-answer generation with exact-matchable references."**
 
-6 models on TruthfulQA
-Consistency matches using entailment, as in semantic uncertainty
-Mark correctness using entailment as well
-Average model accuracy is ~40% (difficult task for reasoning models)
+We believe that tutor hints, triage advice, agentic actions, are all closely related to math and free-form QA (as these are considered in the calibration literature[1]).  We would like to note that the example queries in Figure 1 are taken directly from the Polymath dataset, which we use in our experiments.  
 
+In response to this concern, we provide 2 additional experiments.  We will include these results in a final paper.
+
+We have run 6 models (all Qwen3 models and Nemotron-8B) on the TruthfulQA task, which is a sentence-level task that is not amenable to exact matching.  For semantic matching, we adopt the method of [1], where generations are clustered together based on bi-directional entailment, with a sample size of k=20.  We also use entailment to mark correctness.  The average model accuracy is 40\%, as we observe this task to be difficult for reasoning models.
+
+Our method far outperforms other unsupervised baselines; our worst-case performance is better than the best performance of any other method under comparison.
 
 | Method   |   ECE2 - min |   ECE2- mean |   ECE2 - max |
 |:-----------------|------------------:|-------------------:|------------------:|
@@ -40,13 +50,20 @@ Average model accuracy is ~40% (difficult task for reasoning models)
 
 **also add results showing other datasets work without exact match**
 
+We further study the dependence on exact matching by applying the semantic clustering method to our two existing open-domain QA datasets.  These methods for consistency scoring perform comparably, and both far outperform all unsupervised baselines.
+
+
 | Dataset   | Method       |   ECE1 |   ECE2 |   MCE |   Brier |   AUROC |
 |:----------|:-------------|-------:|-------:|------:|--------:|--------:|
-| trivia_qa | Sem. Cluster |  0.088 |  0.104 | 0.238 |   0.182 |   0.774 |
-| trivia_qa | Ex. Match |  0.080 |  0.095 | 0.211 |   0.184 |   0.760 |
-| webq      | Sem. Cluster |  0.121 |  0.141 | 0.285 |   0.228 |   0.657 |
-| webq      | Ex. Match |  0.106 |  0.126 | 0.273 |   0.230 |   0.624 |
+| TriviaQA | Sem. Cluster |  0.088 |  0.104 | 0.238 |   0.182 |   0.774 |
+| TriviaQA | Ex. Match |  0.080 |  0.095 | 0.211 |   0.184 |   0.760 |
+| TriviaQA | Best Unsup. | 0.289 | 0.322 | 0.500 | 0.304 | 0.701 |
+| WebQ      | Sem. Cluster |  0.121 |  0.141 | 0.285 |   0.228 |   0.657 |
+| WebQ      | Ex. Match |  0.106 |  0.126 | 0.273 |   0.230 |   0.624 | 
+| WebQ      | Best Unsup. | 0.399 | 0.409 | 0.537 | 0.386 | 0.604 |
 
+
+[1] Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation https://arxiv.org/abs/2302.09664
 
 **(3) Distribution-shift experiments are too mild to support the deployment claim, and the cost story depends on it. Shifts are within task families; motivating scenarios involve much larger ones. If the predictor doesn't transfer broadly, the offline cost (~100k generations per setup) recurs whenever the deployment shifts, undermining the "lightweight at deployment" framing. (Section 4.2, lines 259–280; Section 4, line 146; Section 5, lines 335–340)
 Suggestion: Run at least one cross-task-family transfer experiment (math → code, factoid QA → multi-step reasoning), or analyze what features the calibrator is responding to (representational geometry vs. surface task features) so readers can reason about how often recalibration would be needed in practice.**
@@ -114,7 +131,7 @@ On WebQ, how much of the self-consistency failure comes from correct answers exp
 
 1. webq is least calibrated because it is least accurate for all models; fits well on the accuracy vs. calibration trendlines.
 2. webq has the same form as triviaqa, short answers with a set of potential matches.
-3. note that, because calibration is generally measured over sets of predictions, diagnosis of individual failures can be difficult; for example, consider a model that outputs 95\% confidence (based on consistency) for 100 task examples, and is correct on 99 of them.  in this case, it is not clear which examples should be analyzed as errors, but it is likely not the case of 95\% confidence with a correct answer, which in fact improves calibration
+3. note that, because calibration is generally measured over sets of predictions, diagnosis of individual failures can be difficult; for example, consider a model that outputs 95\% confidence (based on consistency) for 100 task examples, and is correct on 99 of them.  in this case, it is not clear which examples should be analyzed as errors, but it is likely not the case of 95\% consistency with an incorrect answer, which in fact improves calibration.
 
 
 | Method                      |   ECE1 |   ECE2 |   MCE |   Brier |   AUROC |

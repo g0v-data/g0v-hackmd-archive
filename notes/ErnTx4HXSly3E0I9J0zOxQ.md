@@ -666,6 +666,17 @@ https://visual.ly/community/Infographics/environment/walkable-mixed-use-neighbor
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2d87be3259f2bec376bf7adce597a557.png)
 
+## 倡議行動方式列舉
+
+蒐集生活移動地圖
+
+針對明確空間範圍討論方案
+
+參與式預算
+
+1999
+
+議員會勘
 
 ## 特定街區探討列舉
 
