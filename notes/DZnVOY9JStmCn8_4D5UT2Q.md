@@ -40,7 +40,7 @@ tags: cofacts
 - MrOrz 下一個想處理：多媒體
     - Cofacts article 本身是圖片、影片、聲音
         - GCS URL --> ADK artifact (以 GCS URI 的形式) --> ADK 內建 load_artifacts tool 就會轉成 File Parts
-        - 另外開張票
+        - 另外開張票 --> https://github.com/cofacts/ai/issues/70
     - 使用者貼截圖時傳給 LLM https://github.com/cofacts/ai/issues/39
 
 ## 小聚籌備
