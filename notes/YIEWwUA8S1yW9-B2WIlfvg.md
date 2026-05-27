@@ -1,21 +1,20 @@
 ## Reviewer 1
 
 
-**My concerns are about the gap between what's claimed and what's tested and whether this method generalizes enough.**
+We thank the reviewer for their thoughtful feedback on our submission.
 
+With respect to our evaluation, we believe that our experimental scope is extensive, covering 36 model/dataset combinations, many metrics, distribution shifts, selective prediction, and linguistic calibration.  This view was supported by the other reviewers, who characterized our empirical study as "much broader than typical calibration papers" (KUuD) and "broad" and "empirically strong" (BhkZ). 
 
+We appreciate the reviewer's particular concerns, with further questions about the method's capacity to generalize.  In response to these concerns, we have run new experiments, including with a new dataset with a longer free-form answer format that is not amenable to exact matching.  We will add these results to an updated draft.  Please see below for these and other results. 
 
-With respect to whether our evaluation, we believe that our experimental scope is extensive, covering 36 model/dataset combinations, many metrics, distribution shifts, selective prediction, and linguistic calibration.  We believe this view was supported by the other reviewers, who characterized our empirical study as "much broader than typical calibration papers" (KUuD) and "broad" and "empirically strong" (BhkZ). 
+**Validity of self-consistency calibration**
 
-We appreciate the reviewer's particular concerns, with further questions about the method's capacity to generalize.  In response to these concerns, we have run new experiments, including with a new dataset with a longer free-form answer format that is not amenable to exact matching.  Please see below for these and other results. 
-
-
-**(1) Central premise is validated only implicitly. That SC tracks correctness in reasoning models rests on aggregate ECE in Table 1 plus a citation to Lyu et al. that actually evaluates non-reasoning models. High-confidence-tail behavior, where deployment risk concentrates, isn't analyzed. (Section 4.1, lines 192–202; Section 3, line 109; Section 2, lines 75–78)
-Suggestion: Add a reliability diagram for raw Test-Time SC (Figure 3 currently shows only the distilled predictor). Add conditional accuracy among examples with SC ≥ 0.9 and ≥ 0.95. Both should be computable from existing data.**
+<!-- **(1) Central premise is validated only implicitly. That SC tracks correctness in reasoning models rests on aggregate ECE in Table 1 plus a citation to Lyu et al. that actually evaluates non-reasoning models. High-confidence-tail behavior, where deployment risk concentrates, isn't analyzed. (Section 4.1, lines 192–202; Section 3, line 109; Section 2, lines 75–78)
+Suggestion: Add a reliability diagram for raw Test-Time SC (Figure 3 currently shows only the distilled predictor). Add conditional accuracy among examples with SC ≥ 0.9 and ≥ 0.95. Both should be computable from existing data.** -->
 
 We agree that it is important to validate the underlying premise of our approach, that self-consistency tracks correctness in this setting (we also believe this is a contribution of this work).  Besides Table 1, results for test-time SC are also included in Figure 2, Tables 4+5 (in comparison to base model calibration), and Table 9 (with results by dataset).  We will point to these results more clearly in a revised manuscript.  In general, we find it to be a reliable and sharp confidence signal.
 
-In response to the reviewer's concern, we will add TT-SC to the reliability diagrams in Figure 3.  Below, please see the results corresponding to conditional accuracy among examples with SC ≥ 0.9 and ≥ 0.95.  We compare the average accuracy and confidence in these buckets for both our method and TT-SC.  TT-SC enables well-calibrated predictions in these high-confidence ranges.
+In response to the reviewer's concern, we will add TT-SC to the reliability diagrams in Figure 3 (while we cannot share them here, they have better ECE and also visually appear closer to x=y).  Below, please see the results corresponding to conditional accuracy among examples with SC ≥ 0.9 and ≥ 0.95.  We compare the average accuracy and confidence in these buckets for both our method and TT-SC.  TT-SC enables well-calibrated predictions in these high-confidence ranges.
 
 | Dataset   | Method      |   Threshold |   AvgAcc |   AvgConf |   diff |
 |:----------|:------------|------------:|--------------:|----------------:|-------:|
@@ -29,17 +28,20 @@ In response to the reviewer's concern, we will add TT-SC to the reliability diag
 | polymath  | Ours        |       0.950 |         0.889 |           0.964 | -0.076 |
 
 
+**Dependence on exact matching**
 
-**(2) The validated regime is much narrower than the framing suggests. All five datasets share the same structure (short, exact-matchable answers) even though the motivating use cases (tutor hints, triage advice, agentic actions) don't have this structure. The method's reliance on string-equality agreement is invisible in the experiments but central to whether it generalizes. (Section 4, lines 132–145; Section 1, lines 31–42; Appendix A.2)
-Suggestion: Either run one end-to-end experiment on a longer-form or non-factoid dataset using embedding-based agreement (e.g., cosine similarity above a threshold) in place of exact match or scope claims to "short-answer generation with exact-matchable references."**
+<!-- **(2) The validated regime is much narrower than the framing suggests. All five datasets share the same structure (short, exact-matchable answers) even though the motivating use cases (tutor hints, triage advice, agentic actions) don't have this structure. The method's reliance on string-equality agreement is invisible in the experiments but central to whether it generalizes. (Section 4, lines 132–145; Section 1, lines 31–42; Appendix A.2)
+Suggestion: Either run one end-to-end experiment on a longer-form or non-factoid dataset using embedding-based agreement (e.g., cosine similarity above a threshold) in place of exact match or scope claims to "short-answer generation with exact-matchable references."** -->
 
-We believe that tutor hints, triage advice, agentic actions, are all closely related to math and free-form QA (as these are considered in the calibration literature[1]).  We would like to note that the example queries in Figure 1 are taken directly from the Polymath dataset, which we use in our experiments.  
+
+
+We believe that tutor hints, triage advice, agentic actions, are all closely related to math and free-form QA (as these are considered in the calibration literature [1]).  We would like to note that the example queries in Figure 1 are taken directly from the Polymath dataset, which we use in our experiments.  
 
 In response to this concern, we provide 2 additional experiments.  We will include these results in a final paper.
 
 We have run 6 models (all Qwen3 models and Nemotron-8B) on the TruthfulQA task, which is a sentence-level task that is not amenable to exact matching.  For semantic matching, we adopt the method of [1], where generations are clustered together based on bi-directional entailment, with a sample size of k=20.  We also use entailment to mark correctness.  The average model accuracy is 40\%, as we observe this task to be difficult for reasoning models.
 
-Our method far outperforms other unsupervised baselines; our worst-case performance is better than the best performance of any other method under comparison.
+ECE2 results are below.  Our method outperforms other unsupervised baselines; our worst-case performance is better than the best performance of any other method under comparison.
 
 | Method   |   ECE2 - min |   ECE2- mean |   ECE2 - max |
 |:-----------------|------------------:|-------------------:|------------------:|
@@ -48,9 +50,8 @@ Our method far outperforms other unsupervised baselines; our worst-case performa
 | Verbal Conf.     |             0.359 |              0.466 |             0.667 |
 | Ours             |             0.117 |              0.205 |             0.242 |
 
-**also add results showing other datasets work without exact match**
 
-We further study the dependence on exact matching by applying the semantic clustering method to our two existing open-domain QA datasets.  These methods for consistency scoring perform comparably, and both far outperform all unsupervised baselines.
+We further study the dependence on exact matching by applying the semantic clustering method to our two existing open-domain QA datasets.  These methods for consistency scoring perform comparably.
 
 
 | Dataset   | Method       |   ECE1 |   ECE2 |   MCE |   Brier |   AUROC |
@@ -65,47 +66,58 @@ We further study the dependence on exact matching by applying the semantic clust
 
 [1] Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation https://arxiv.org/abs/2302.09664
 
-**(3) Distribution-shift experiments are too mild to support the deployment claim, and the cost story depends on it. Shifts are within task families; motivating scenarios involve much larger ones. If the predictor doesn't transfer broadly, the offline cost (~100k generations per setup) recurs whenever the deployment shifts, undermining the "lightweight at deployment" framing. (Section 4.2, lines 259–280; Section 4, line 146; Section 5, lines 335–340)
-Suggestion: Run at least one cross-task-family transfer experiment (math → code, factoid QA → multi-step reasoning), or analyze what features the calibrator is responding to (representational geometry vs. surface task features) so readers can reason about how often recalibration would be needed in practice.**
+<!-- **(3) Distribution-shift experiments are too mild to support the deployment claim, and the cost story depends on it. Shifts are within task families; motivating scenarios involve much larger ones. If the predictor doesn't transfer broadly, the offline cost (~100k generations per setup) recurs whenever the deployment shifts, undermining the "lightweight at deployment" framing. (Section 4.2, lines 259–280; Section 4, line 146; Section 5, lines 335–340)
+Suggestion: Run at least one cross-task-family transfer experiment (math → code, factoid QA → multi-step reasoning), or analyze what features the calibrator is responding to (representational geometry vs. surface task features) so readers can reason about how often recalibration would be needed in practice.** -->
 
-Train on SciQ, test on mix of TriviaQA and math (GSM8K or Polymath)
+**Further distribution shifts**
 
-| extra_shift   | Method       |   ECE2 |   Brier |
+In response to this concern, we have run an additional distribution shift experiment, to compliment the shifts across domains and languages.  Here, the model is trained on a Science QA task, and deployed to a heterogeneous distribution that mixes open-domain QA (TriviaQA) with math (as this seems more natural than a situation where 100\% of the test data is from an entirely different task family); 20% of the queries are from the math domain (we separately test with both GSM8K and polymath). In this case, the model faces distribution shifts across domains, tasks, and in the case of PolyMath, languages.
+
+Results are shown in the table below; our method outperforms other unsupervised baselines.  
+
+| Math source   | Method       |   ECE2 |   Brier |
 |:--------------|:-------------|-------:|--------:|
-| gsm8k         | Ans. Probs.  |  0.336 |   0.319 |
-| gsm8k         | Token Probs. |  0.242 |   0.233 |
-| gsm8k         | Verbal Conf. |  0.279 |   0.281 |
-| gsm8k         | Ours         |  0.089 |   0.215 |
-| polymath      | Ans. Probs.  |  0.336 |   0.320 |
-| polymath      | Token Probs. |  0.242 |   0.234 |
-| polymath      | Verbal Conf. |  0.279 |   0.281 |
-| polymath      | Ours         |  0.121 |   0.226 |
+| GSM8K         | Ans. Probs.  |  0.336 |   0.319 |
+| GSM8K         | Token Probs. |  0.242 |   0.233 |
+| GSM8K         | Verbal Conf. |  0.279 |   0.281 |
+| GSM8K         | Ours         |  0.089 |   0.215 |
+| Polymath      | Ans. Probs.  |  0.336 |   0.320 |
+| Polymath      | Token Probs. |  0.242 |   0.234 |
+| Polymath      | Verbal Conf. |  0.279 |   0.281 |
+| Polymath      | Ours         |  0.121 |   0.226 |
 
+Also, we note that our method does not require 100k generations in any of our experiments.  The most we use is 40k, but Table 12 also shows we can reduce ECE by over 50\% against baselines with just 2k.
 
+To further address these concerns around data gathering and sample cost, we have re-run experiments with fewer training examples (100, 200) and number of samples (10, 20); our method remains effective with as few as 1k generations. 
 
-many fewer gens:
-
-|   train_ex |   k_ablate | Method            |   ECE2 |   Brier |
+|   Train Ex. |   Samples | Method            |   ECE2 |   Brier |
 |-----------:|-----------:|:------------------|-------:|--------:|
 |        100 |         10 | Ours              | 0.0906 |  0.1642 |
 |        100 |         20 | Ours              | 0.0900 |  0.1632 |
 |        200 |         10 | Ours              | 0.0863 |  0.1598 |
 |        200 |         20 | Ours              | 0.0849 |  0.1583 |
-|        - |        - | best unsupervised | 0.2155 |  0.2214 |
+|        - |        - | Best Unsup. | 0.2155 |  0.2214 |
 
 
+We will include both of these experiments in a final paper.
 
-**(4) The linguistic-calibration experiment is missing a control that may substantially weaken its headline. The method is compared only against miscalibrated baselines, leaving open whether the win is "this signal is uniquely useful" or just "any well-calibrated signal helps." (Section 4.3, lines 316–333; Table 16)
-Suggestion: Add a Test-Time SC condition to the experiment, since Table 1 shows it's similarly calibrated to the distilled method. If downstream performance is comparable, reframe the contribution as "we deliver well-calibrated signals cheaply" rather than "our confidence estimates are uniquely useful."**
+<!-- **(4) The linguistic-calibration experiment is missing a control that may substantially weaken its headline. The method is compared only against miscalibrated baselines, leaving open whether the win is "this signal is uniquely useful" or just "any well-calibrated signal helps." (Section 4.3, lines 316–333; Table 16)
+Suggestion: Add a Test-Time SC condition to the experiment, since Table 1 shows it's similarly calibrated to the distilled method. If downstream performance is comparable, reframe the contribution as "we deliver well-calibrated signals cheaply" rather than "our confidence estimates are uniquely useful."** -->
+
+**Test-time SC and linguistic calibration**
+
+We have closely re-read this passage, and are not sure exactly the headline the reviewer is refer to; no statements read or paraphrase as "this signal is uniquely useful". We also would not argue that other well-calibrated signals would not also be helpful, as this is the central idea of linguistic calibration.  We state the basis of our comparison in lines 323-325, which is the same set of unsupervised baselines that we use through the paper.   
+
+For completeness, we have run a test-time self-consistency baseline. Please see below for results averaged across models.  This signal also improves the decision-maker's calibration, as compared to the more uncalibrated baselines.  We will include these results in our final paper.
 
 
 | Method       |    Acc |   ECE2 |    MCE |   Brier |
 |:-------------|-------:|-------:|-------:|--------:|
 | Base Model   | 0.6860 | 0.2749 | 0.3721 |  0.2608 |
 | Token Probs. | 0.6561 | 0.2149 | 0.4095 |  0.2483 |
+| Verbal Conf. | 0.6467 | 0.3180 | 0.4886 |  0.3097 |
 | Ours         | 0.6538 | 0.1279 | 0.2446 |  0.2175 |
 | TT-SC        | 0.6548 | 0.1440 | 0.2409 |  0.2168 |
-| Verbal Conf. | 0.6467 | 0.3180 | 0.4886 |  0.3097 |
 
 
 
