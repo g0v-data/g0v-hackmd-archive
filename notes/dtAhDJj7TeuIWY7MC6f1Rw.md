@@ -55,17 +55,16 @@ OpenTransLive 是一套能夠即時擷取音訊、轉錄成文字，並將文字
 |Server|Socketio|接收 Client 端結果，同步至使用者端|
 
 ## 技術架構（2026 新版）
-請見 [live_server README.md](https://github.com/g0v/OpenTransLive/blob/main/live_server/README.md)
-以及 [milestone.md](https://github.com/g0v/OpenTransLive/blob/main/milestone.md)
+請見 [live_server README.md](https://github.com/g0v/OpenTransLive/blob/main/live_server/README.md) 以及 [milestone.md](https://github.com/g0v/OpenTransLive/blob/main/milestone.md)
 
 ## 時程規劃與成果
 ### 2025/11
 - 11/23 大松提案、同步測試（要先跟揪松溝通）
 
 #### 相關成果
-[2025/11/23 大松提案](https://www.youtube.com/watch?v=C_9RNJsI56E)
-[2026/01/25 大松提案](https://www.youtube.com/watch?v=9uTR4muU3aY)
-[2026/03/29 大松提案](https://www.youtube.com/watch?v=lR0WShurIjo)
+- [2025/11/23 大松提案](https://www.youtube.com/watch?v=C_9RNJsI56E)
+- [2026/01/25 大松提案](https://www.youtube.com/watch?v=9uTR4muU3aY)
+- [2026/03/29 大松提案](https://www.youtube.com/watch?v=lR0WShurIjo)
 
 
 ### 2025/12
@@ -122,6 +121,8 @@ OpenTransLive 是一套能夠即時擷取音訊、轉錄成文字，並將文字
 #### 相關成果
 見  [g0v-summit-2026](#20260523-24-g0v-summit-2026)
 
+> [name=ch-review] 這是什麼？
+
 
 ## 專案行政（2025 至 2026 年 5 月）
 ### 預算
@@ -156,10 +157,17 @@ OpenTransLive 是一套能夠即時擷取音訊、轉錄成文字，並將文字
 ![](https://g0v.hackmd.io/_uploads/S1xUoVDJk-g.png)
 ![](https://g0v.hackmd.io/_uploads/Skxzc8wy1Wx.png)
 
+> [name=ch-review] summit 前是不是也有一些其他應用情境，也請任翔簡要記錄一下
 
 ### 2026/05/23~24 g0v summit 2026
 
 ![](https://g0v.hackmd.io/_uploads/S1Gotv-xze.png)
+
+> [name=ch-review] 請說明上圖用意
+
+> [name=ch-review] 是否能向 summit 索取系統運行實況照片（有嗎？），並更細緻描述應用情形
+
+> [name=ch-review] 我個人有注意到 summit day 1 R0 isabel keynote 提到「矽基工程師」AI 偵測不出來也無法翻譯，可以當成有趣的小發現記錄下來。社群往往是發明新詞（包括黑話）的地方，也許這個專案可以設計關鍵詞社群協作機制，未來發放大家一起來建具備 g0v 社群特色的辭典，甚至開放到 FtO 社群變成東亞特色？
 
 #### 會後檢討
 
@@ -173,3 +181,6 @@ OpenTransLive 是一套能夠即時擷取音訊、轉錄成文字，並將文字
     Groq: $35.29 USD
     ![](https://g0v.hackmd.io/_uploads/r1UN-dblGl.png)
 - 因為 Rate Limit 及 API 費用的問題，完全開放給社群使用不太實際，也許先採用專案合作的方式進行
+
+> [name=ch-review] 是否能請任翔追加未來半年（2026/6-12）應用規劃，例如 9 月首爾面海松？
+
