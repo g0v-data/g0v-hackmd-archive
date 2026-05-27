@@ -5,9 +5,8 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter, Josh, Tim, Allison, Taiwei
-![](https://g0v.hackmd.io/_uploads/HkxJZwXikMl.png)
-![](https://g0v.hackmd.io/_uploads/SJbyWvQs1Ml.png)
+參與者 Participants：Peter, 
+
 
 
 https://www.vtaiwan.tw/jitsi
@@ -50,7 +49,13 @@ https://www.vtaiwan.tw/jitsi
 ### 本週有大松活動
 - 報名連結：https://kktix.com/events/g0v-hackath73n/registrations/155978358-df020323256d0450d0f57dfb300ff0e4#/ 
 - 預計提案：
+    - civic talk 提案
+
+## vTaiwan 電子報
 
 ## Civic Talk 
+- 目前正在 vibe coding 出一個 mvp 並將其部署到 cloudfare 上
 
 ## 2026 年度 vTaiwan 審議大會
+- 目前正在跟 TWNIC 爭取計劃
+- 
