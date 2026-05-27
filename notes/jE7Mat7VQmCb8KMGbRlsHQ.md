@@ -49,7 +49,8 @@ https://www.vtaiwan.tw/jitsi
 
 ### 本週有大松活動
 - 報名連結：https://kktix.com/events/g0v-hackath73n/registrations/155978358-df020323256d0450d0f57dfb300ff0e4#/ 
+- 預計提案：
 
-@#
+## Civic Talk 
 
 ## 2026 年度 vTaiwan 審議大會
