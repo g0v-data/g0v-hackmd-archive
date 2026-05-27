@@ -1,3 +1,7 @@
+---
+tags: infra,
+---
+
 # 開源即時語音翻譯系統 OpenTransLive
 
 ## 專案概要
