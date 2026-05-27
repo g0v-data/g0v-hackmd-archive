@@ -7,7 +7,9 @@ tags: vTaiwan
 地點 Location ：線上 Online
 參與者 Participants：Peter, 
 
+![](https://g0v.hackmd.io/_uploads/BkRZ6INlfl.png)
 
+![](https://g0v.hackmd.io/_uploads/BktzaU4ezx.png)
 
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -54,6 +56,14 @@ https://www.vtaiwan.tw/jitsi
 - 報名連結：https://kktix.com/events/g0v-hackath73n/registrations/155978358-df020323256d0450d0f57dfb300ff0e4#/ 
 - 預計提案：
     - civic talk 提案
+    - 在短講分享去年模擬審議大會活動
+- 招募
+    - 社群平台志願者
+:::info
+我覺得 civic-talk 的構想是讓匯聚程序變成每個公民都可以導入論點，以及彙整，所以會需要一些比較熟悉流程的 agent 維護者
+
+但如同 Josh 所說需要盡可能降低審議討論的投入，也許就是可以讓現場的人提供論點（現場收集逐字稿，或提供論點 bullet），並查看 agent 運算後的成果頁面？ 
+:::
 
 ## vTaiwan 電子報
 - https://docs.google.com/document/d/1YXDHBqvP_5dZxd0Mz7oY5KIE1HqwAdMWiKUbX4O-wPk/edit?usp=sharing 
@@ -64,6 +74,11 @@ https://www.vtaiwan.tw/jitsi
 - https://github.com/v-taiwan/civic-talk.git 
 - [(5/15) Ronny 的想法－civic-talk：用 AI 降低審議民主的成本](https://www.facebook.com/ronny.wang.tw/posts/pfbid02CDFDUsFA8y4ZZfTqYcyzAck1aaJD5etSuU75jzZu2irdixzRu6uSKxnTnXzN2KDfl)
     - https://ronnywang.github.io/civic-notes/civic-talk
+- 延續上週討論
+- 案例：findingconsensus.ai 
+    - 去思考怎麼去使用平台這件事
+    - 對於使用者而言，究竟是否要走到最後一哩路（幫用戶做好整潔的介面）
+
 
 ## 2026 年度 vTaiwan 審議大會
 ### 目前進度
