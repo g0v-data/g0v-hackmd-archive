@@ -37,5 +37,6 @@ https://g0v.hackmd.io/@mrorz/BJMvl968F
 - [Change the present "Taiwan, Province of China" to "Taiwan"](https://www.change.org/p/iso-change-the-present-taiwan-province-of-china-to-taiwan-4?pe=d2e&share_id=qZSXljBYJN )
 - [Google Says Taiwan is Now Taiwan Not Taiwan, Province of China](https://searchenginewatch.com/sew/news/2060787/google-says-taiwan-now-taiwan-not-taiwan-province-china)
 - OSM 社群的討論：[China and Taiwan](https://help.openstreetmap.org/questions/47439/china-and-taiwan-names) names
-- https://www.facebook.com/groups/g0v.general/posts/25534695016180230/
+- 商業服務 App https://www.facebook.com/groups/g0v.general/posts/25534695016180230/
+- GlobalGiving 捐款平台，不願意調整 https://www.facebook.com/share/1GRXVkCLVY/
 
