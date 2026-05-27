@@ -137,7 +137,7 @@ https://www.facebook.com/share/p/1GgpPnLBzw/?mibextid=wwXIfr
 - https://rito.pref.aichi.jp/
 - https://www.facebook.com/shima.ame.lab
 
-臺灣至九州的島嶼線
+臺灣至九州的島嶼線：臺灣島-八重山諸島-沖繩群島-奄美群島-九州島的島嶼路線
 https://g0v.hackmd.io/aZX0KtDASgyPL_hBpHeP6w?view
 
 九州作為大型戰爭的避難收容地區
