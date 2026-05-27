@@ -121,10 +121,6 @@ OpenTransLive 是一套能夠即時擷取音訊、轉錄成文字，並將文字
 #### 相關成果
 見 [g0v-summit-2026](https://g0v.hackmd.io/dtAhDJj7TeuIWY7MC6f1Rw?both#2026052324-g0v-summit-2026)
 
-> 這是書籤嗎？跳轉好像有問題 [name=ch-review]
-> fixed [name=SeanGau]
-
-
 ## 專案行政（2025 至 2026 年 5 月）
 ### 預算
 - 總額：新台幣 20 萬元整
@@ -158,7 +154,6 @@ OpenTransLive 是一套能夠即時擷取音訊、轉錄成文字，並將文字
 ![](https://g0v.hackmd.io/_uploads/S1xUoVDJk-g.png)
 ![](https://g0v.hackmd.io/_uploads/Skxzc8wy1Wx.png)
 
-> [name=ch-review] summit 前是不是也有一些其他應用情境，也請任翔簡要記錄一下
 ### 2026/04/11 第一島鏈社會韌性合作國際論壇
 福和會在台北晶華酒店舉辦「民主之盾：第一島鏈全社會韌性合作國際論壇」，邀集美國、日本、韓國、菲律賓等國國防戰略專家，包括前美國印太司令部陸軍司令佛林（Charles A. Flynn）、前日本自衛隊統合幕僚長岩崎茂、前韓美聯合司令部副司令任浩永、前菲律賓陸軍副司令李奧戴夫圭尼德等人，共同探討面對中國軍事壓迫、灰色地帶脅迫與認知作戰，第一島鏈國家如何匯聚政府、產業與民間能量，建構全社會防衛韌性。
 
@@ -180,17 +175,13 @@ OpenTransLive 是一套能夠即時擷取音訊、轉錄成文字，並將文字
 
 ### 2026/05/23~24 g0v summit 2026
 
-於 g0v summit 2026 現場架設 5軌同步 華、英、日、韓 4語即時翻譯，讓會眾可以掃描 QRCode 於自己手機觀看，尖峰約50人在線使用
+於 g0v summit 2026 現場架設 5軌同步 華、英、日、韓 4語即時翻譯，讓會眾可以掃描 QRCode 於自己手機觀看，尖峰約50人在線使用。
+
+下圖為五個議程廳的同步監看畫面截圖。
 
 ![](https://g0v.hackmd.io/_uploads/S1Gotv-xze.png)
 
-> [name=ch-review] 請說明上圖用意
-
-> 是否能向 summit 索取系統運行實況照片（有嗎？），並更細緻描述應用情形 [name=ch-review] 
-> 因為只有用 QRcode 讓會眾掃，也沒有特別請紀錄組拍，可能要等紀錄組釋出照片再看看 [name=SeanGau] 
-
-> 我個人有注意到 summit day 1 R0 isabel keynote 提到「矽基工程師」AI 偵測不出來也無法翻譯，可以當成有趣的小發現記錄下來。社群往往是發明新詞（包括黑話）的地方，也許這個專案可以設計關鍵詞社群協作機制，未來發放大家一起來建具備 g0v 社群特色的辭典，甚至開放到 FtO 社群變成東亞特色？ [name=ch-review]
-> 也許未來可以建立匯入辭庫的機制，目前僅能一個一個輸入 [name=SeanGau]
+summit 索取系統運行實況照片：待活動照片釋出。
 
 #### 會後檢討
 
@@ -204,16 +195,20 @@ OpenTransLive 是一套能夠即時擷取音訊、轉錄成文字，並將文字
     ![](https://g0v.hackmd.io/_uploads/r1UN-dblGl.png)
 - 因為 Rate Limit 及 API 費用的問題，完全開放給社群使用不太實際，也許先採用專案合作的方式進行
 
-> 考慮 funding 和初始應用情境，我覺得這項專案很適合加上 powered by g0v 字樣，不知道任翔是否願意？ [name=ch-review]
-> Powered by g0v 有放在首頁上
-> ![](https://g0v.hackmd.io/_uploads/HJ7oZwEeGl.png)
+## OpenTransLive is powered by g0v
+![](https://g0v.hackmd.io/_uploads/HJ7oZwEeGl.png)
 
-> 能否請任翔追加未來半年（2026/6-12）應用規劃，例如 9 月首爾面海松、其他揪松活動？ [name=ch-review]
 
-## 未來規劃
-### 功能
+## 未來規劃（2026 年 6-12 月）
+### 功能開發
 - 完善 Youtube 整合介面
 - 區分乾淨離線版本、雲端版本
+- （待規劃）關鍵詞社群協作機制、匯入辭庫機制
+    > 我個人有注意到 summit day 1 R0 isabel keynote 提到「矽基工程師」AI 偵測不出來也無法翻譯，可以當成有趣的小發現記錄下來。社群往往是發明新詞（包括黑話）的地方，也許這個專案可以設計關鍵詞社群協作機制，未來發放大家一起來建具備 g0v 社群特色的辭典，甚至開放到 FtO 社群變成東亞特色？ [name=chihao]
+    > 也許未來可以建立匯入辭庫的機制，目前僅能一個一個輸入 [name=SeanGau]
 
-### 活動
-- 揪松團主辦雙月大黑
+### 活動合作
+- 揪松團主辦雙月大黑客松
+- 2026/06/27 STS 年會
+- 2026/09/18-20 首爾面海松（TBD）
+
