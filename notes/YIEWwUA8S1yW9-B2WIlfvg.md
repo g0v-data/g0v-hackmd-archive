@@ -189,12 +189,26 @@ To run this with k=10 and n=100 on GSM8K with 1 A100 and vLLM, Qwen3-1.7B takes 
 ## Reviewer 3
 
 
+
+
 **The main idea feels like a straightforward way to train a cheap model to imitate repeated sampling
 My main concern is low novelty. The paper’s core method is to compute self-consistency from repeated offline samples and train a small predictor to approximate that signal at test time. This feels like a direct distillation of test-time self-consistency rather than a new idea. Overall I view the paper as useful but incremental.**
 
 
+We thank the reviewer, but we want to push back directly on the novelty assessment. We believe that the simplicity of our method is one of our primary contributions. Our target deployments (e.g. mobile health, workplace assistants, tutoring) share three constraints that jointly rule out much of the calibration literature: scarce labels, real-time inference budgets, and a need for reliable uncertainty estimates. Identifying self-consistency as the right target to distill, a choice that satisfies all three properties where no existing method does, is a non-obvious and carefully picked choice we made from a combinatorially large design space of possible calibration methods. Instead of proposing overcomplicated pipelines that are impressive in appearance, but are often fragile and fail to generalize in practice, we present a fundamental contribution that fills a crucial gap in the literature.  The simplicity of our method enables strong generalization in a new deployment regime: across extensive experiments including 9 models, 5 datasets, distribution shift, and black-box access, our method shows consistently strong performance across all metrics. Our focus is a simple, empirically sound method that crisply solves the problem rather than a complicated one that embellishes, and we hope the reviewer will reconsider the novelty assessment in this light.
 
-We thank the reviewer, but we want to push back directly on the novelty assessment. The main contribution is not a new estimator, it is a reframing that is absent in prior work: repeated sampling, treated as a test-time procedure in the UQ literature, becomes an offline source of unlabeled supervision, which unlocks an important regime (as recognized by all reviewers) that no existing method serves. Calling this "incremental" because the resulting algorithm is simple inverts how methods should be judged: a simple approach that opens a new deployment regime and works across 9 models, 5 datasets, distribution shift, and black-box access is a stronger result than a complicated one, not a weaker one. We would ask the reviewer to consider whether the same method, dressed up with an unnecessary architecture or other complexities and performing slightly worse, would have read as more novel; because if so, the objection is to the absence of complexity, not the absence of a contribution.
+We also argue that this is how influential work in LLM calibration has consistently been valued. 
+ - Tian et al. [1] show that simply prompting a model to state its confidence in words yields better calibration than its token probabilities; Kuhn et al. 
+ - Kuhn et al. [2] cluster generations by bi-directional entailment rather than exact matching; 
+ - Damani et al. [3] obtain calibrated uncertainty by adding a Brier-score term to the RLVR reward. 
+ - Luo et al. [4], whose setting most directly relates to ours, recalibrate an overconfident post-trained model using its corresponding base model token probs. 
+
+None of these rests on algorithmic complexity; instead, each is a conceptual choice about the right signal, equivalence, or objective, yet the field has rightly recognized them as substantial contributions. We see our work as fitting in this tradition: the difficulty and the novelty lie in identifying repeated sampling as an offline supervision source for the underserved single-generation, unlabeled regime, not in the complexity of the predictor that distills it.
+
+- [1] Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback (https://arxiv.org/abs/2305.14975), EMNLP 2023
+- [2] Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation (https://arxiv.org/abs/2302.09664), ICLR 2023
+- [3] Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty (https://arxiv.org/abs/2507.16806), ICLR 2026
+- [4] Your Pre-trained LLM is Secretly an Unsupervised Confidence Calibrator (https://arxiv.org/abs/2505.16690), Neurips 2025
 
 
 **I am also not fully convinced that the method learns confidence for the specific generated answer, since the question-only ablation is very strong and sometimes close to or better than the full response-based predictor. This suggests that much of the gain may come from learning question difficulty.**
