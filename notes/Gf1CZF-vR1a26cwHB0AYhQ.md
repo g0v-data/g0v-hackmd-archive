@@ -23,6 +23,8 @@
 ```text
 /getOvwInfo
 ```
+![](https://g0v.hackmd.io/_uploads/Skk40ABgGx.png)
+
 
 ## Step 3：找到對應 Controller
 
@@ -49,106 +51,65 @@ flowchart LR
 ---
 
 # Controller
+![](https://g0v.hackmd.io/_uploads/ByCGTRSezl.png)
 
-```mermaid
-sequenceDiagram
-participant FE as 前端頁面<br/>海外債券餘額及損益查詢
-participant Ctrl as FdQryContrl<br/>/fdQry/getOvwInfo
-participant SysParam as SysParameterService
-participant UserUtil as UserUtil
-participant CommonUtils as CommonUtils
-participant EtfAttrs as EtfAttrs
-participant B512 as B512Sender<br/>OBU
-participant B012 as B012Sender<br/>DBU
-participant Currency as CurrencyService
-participant Resp as ResponseEntity / Resp
+## 說明
 
-FE->>Ctrl: POST /fdQry/getOvwInfo
+1. Controller 先取得 `FUND_FLAG`，此參數用來判斷後續 Sender 是否走新特金流程。
+2. 透過 `UserUtil` 取得公司統編與公司 Key。
+3. 透過 `CommonUtils.getDbuobu()` 判斷該公司屬於 DBU 或 OBU。
+4. 若為 OBU，呼叫 `B512Sender`；若為 DBU，呼叫 `B012Sender`。
+5. Sender 回傳 `B512RespBean / B012RespBean` 後，Controller 會檢查交易狀態。
+6. 最後透過 `getGetOvwInfoContent()` 將資料整理成前端需要的 `recordList / recordSumList`。
 
-Ctrl->>SysParam: (1) getSysParameterByParameterId("FUND_FLAG")<br/>取得 FUND_FLAG判斷是否啟用新特金
-SysParam-->>Ctrl: fundFlagParam
 
-Ctrl->>UserUtil: (2) getCompanyIdNo(hrq) 取得公司統編
-UserUtil-->>Ctrl: companyidno
-
-Ctrl->>UserUtil: (3) getCompanyKey(hrq) 取得公司 Key
-UserUtil-->>Ctrl: companyKey
-
-Ctrl->>CommonUtils: (4) getDbuobu(companyKey) 判斷 DBU / OBU
-CommonUtils-->>Ctrl: dbuobu
-
-Ctrl->>EtfAttrs: (5) new EtfAttrs(remoteAddr, dbuobu) 建立 ETF 查詢屬性
-
-alt dbuobu = O
-    Ctrl->>B512: (6-O) send(fundFlagParam, etfAttrs, companyidno)
-    B512-->>Ctrl: B512RespBean
-    Ctrl->>Ctrl: (7-O) 檢查 isOk、TOA_Response_Code
-    Ctrl->>Currency: (8-O) getCurrency(幣別代碼)
-    Currency-->>Ctrl: 幣別中文名稱
-    Ctrl->>Ctrl: (9-O) getGetOvwInfoContent(b512Resp)
-
-end
-
-Ctrl->>Resp: (10) new Resp("0000", null, content)
-Resp-->>FE: 回傳 recordList / recordSumList
+```text
+接收前端查詢
+    ↓
+取得 FUND_FLAG、公司統編、DBU/OBU
+    ↓
+決定呼叫 B012Sender 或 B512Sender
+    ↓
+整理 Response Bean
+    ↓
+回傳前端顯示資料
 ```
+
 ---
 
 
 # Sender
-```mermaid
-sequenceDiagram
-participant Ctrl as FdQryContrl
-participant Sender as B512Sender
-participant OldReq as B512ReqBean
-participant NewReq as BNDINVReqBean
-participant Util as Cnb3Util
-participant ETF as 新特金
-participant NewResp as BNDINVRespBean
-participant OldResp as B512RespBean
+![](https://g0v.hackmd.io/_uploads/HyTcpCreGg.png)
 
-Ctrl->>Sender: send(fundFlagParam, etfAttrs, companyidno)
-Sender->>OldReq: 建立 B512ReqBean
+## 說明
+1. `B512Sender.send()` 先建立原本舊電文格式的 `B512ReqBean`。
+2. 接著依 `FUND_FLAG` 判斷後續流程：
+   - `FUND_FLAG = Y`：走新特金 BNDINV。
+   - `FUND_FLAG != Y`：走舊系統 cnb3ws B512。
+3. 若走新特金，Sender 會將 `B512ReqBean` 轉成 `BNDINVReqBean`。
+4. 接著補上新特金必要的 `Params.Head`，例如 `DbuObu`、`MsgId`、`ChannelId`、`DtaCrtIP`、`Pid`。
+5. 透過 `Cnb3Util.getcnb3EtfHttp()` 呼叫新特金 BNDINV API。
+6. 新特金回傳後，Sender 會解密 `responseData`，並轉成 `BNDINVRespBean`。
+7. 最後再將 `BNDINVRespBean` 轉回 `B512RespBean`，回傳給 Controller。
 
-Sender->>Sender: 判斷 FUND_FLAG
-
-alt FUND_FLAG = Y，走新特金
-    Sender->>NewReq: B512ReqBean 轉 BNDINVReqBean
-    Sender->>NewReq: 補 Params.Head
-    Sender->>Util: getcnb3EtfHttp(BNDINV, apiRequest)
-    Util->>ETF: 呼叫 BNDINV 債券餘額及損益查詢
-    ETF-->>Util: 回傳加密結果
-    Util-->>Sender: TeleEtfRespBean
-    Sender->>Sender: 解密 responseData(decryptData)
-    Sender->>NewResp: 轉成 BNDINVRespBean
-    Sender->>OldResp: BNDINVRespBean 轉 B512RespBean
-else FUND_FLAG != Y，走舊 cnb3ws
-    Sender->>Util: getcnb3WssocketHttp(B512, b512Req)
-    Util-->>Sender: 回傳舊 B512 結果
-    Sender->>OldResp: 建立 B512RespBean
-end
-
-Sender-->>Ctrl: 回傳 B512RespBean
+```text
+建立 B512ReqBean
+    ↓
+判斷 FUND_FLAG
+    ↓
+Y：B512ReqBean → BNDINVReqBean → 新特金 BNDINV → BNDINVRespBean → B512RespBean
+    ↓
+N：B512ReqBean → 舊 cnb3ws B512 → B512RespBean
 ```
-
-
-
-Sender 內部會依 `FUND_FLAG` 判斷：
-
-- 是否走新特金
-- 是否走舊 cnb3ws
 
 ---
 
 # 如何將舊電文轉接成新特金 (以B512/BNDINV為例)
 ## 架構說明
 
-ETF 電文採用 Sender 模式： 
 cnb3-client 透過 B012/B512Sender 發送電文並取得 Response Bean。 
-
 Sender 內部依 FUND_FLAG 判斷新舊流程，走新特金時透過 Cnb3Util 呼叫 BNDINV API。
 
----
 
 ```text
 Controller/Service (@Autowired B512Sender)
@@ -189,13 +150,6 @@ cnb3-telegram-jar/src/main/java/com/bankpro/tele/bean/fundreq/BNDINVReqBean.java
 
 建立新特金 BNDINV 上行 Request Bean。
 
-負責將舊電文轉換成新特金 Request 格式：
-
-```text
-B012ReqBean / B512ReqBean
-        ↓
-BNDINVReqBean
-```
 
 ### 範例程式
 
@@ -254,6 +208,7 @@ public class BNDINVReqBean extends EtfRequestBeanBase {
 	public void setPrdCtg(String prdCtg) {
 		this.prdCtg = prdCtg;
 	}
+}
 
 ```
 
@@ -271,15 +226,6 @@ cnb3-telegram-jar/src/main/java/com/bankpro/tele/bean/fundresp/BNDINVRespBean.ja
 
 建立新特金 BNDINV 下行 Response Bean。
 
-負責將新特金回傳內容轉回原本系統格式：
-
-```text
-新特金 Response JSON
-        ↓
-BNDINVRespBean
-        ↓
-B512RespBean
-```
 
 ### 範例程式
 
@@ -289,12 +235,10 @@ B512RespBean
  * BNDINV (B012, B512) - 債券餘額及損益查詢 (Response)
  */
 public class BNDINVRespBean extends EtfResponseBeanBase {
-
+    
 	private static final long serialVersionUID = 3122962690717369591L;
-	
 	@JsonProperty(value = "CustPermId")
 	private String custPermId;// 身份證字號
-
 	@JsonProperty(value = "Data")
 	private BNDINVResponseData data;
 
@@ -304,7 +248,6 @@ public class BNDINVRespBean extends EtfResponseBeanBase {
 	public String getCustPermId() {
 		return this.custPermId;
 	}
-
 	/**
 	 * @param custPermId - 身份證字號
 	 */
@@ -315,7 +258,6 @@ public class BNDINVRespBean extends EtfResponseBeanBase {
 	public BNDINVResponseData getData() {
 		return this.data;
 	}
-
 	public void setData(BNDINVResponseData data) {
 		this.data = data;
 	}
@@ -334,28 +276,11 @@ public class BNDINVRespBean extends EtfResponseBeanBase {
 				// O01 ~ O20 先給預設值
 				for (int o = 0; o < 20; o++)
 					recordData.put("O".concat(StringUtils.leftPad(String.valueOf((o + 1)), 2, Cnb3etfUtils.ZERO)), Cnb3etfUtils.EMPTY);
-				
 				// 放值 (1.債券)
 				recordData.put("O18", "1");                                                                        // 1.債券
 				recordData.put("O01", Cnb3etfUtils.toSocketStr(record.getFundSN()));                               // 委託單號
 				recordData.put("O02", Cnb3etfUtils.toSocketStr(record.getFundCode()));                             // 商品代號
-				recordData.put("O03", Cnb3etfUtils.toSocketStr(record.getPrdNam()));                               // 商品名稱
-				recordData.put("O07", Cnb3etfUtils.toSocketStr(record.getCurAmt(), 2));                            // 信託本金
-				recordData.put("O05", Cnb3etfUtils.toSocketStr(record.getUnit(), 2));                              // 庫存面額
-				recordData.put("O08", Cnb3etfUtils.toSocketStr(record.getCurCode()));                              // 計價幣別
-				recordData.put("O09", Cnb3etfUtils.toSocketStr(record.getNetPrice(), 4));                          // 參考價格
-				recordData.put("O10", Cnb3etfUtils.toSocketRocDate(record.getNetDate()));                          // 報價日期 (民國年)
-				recordData.put("O11", Cnb3etfUtils.toSocketStr(record.getTotXd(), 2));                             // 累計配息金額
-				recordData.put("O12", Cnb3etfUtils.toSocketStr(record.getNavAmt(), 2));                            // 市值
-				recordData.put("O13", Cnb3etfUtils.toSocketStr(record.getSign2(), record.getReturn2(), 2));        // 報酬率
-				recordData.put("O14", Cnb3etfUtils.toSocketStr(record.getSign1(), record.getReturn1(), 2));        // 含息報酬率
-				recordData.put("O15", Cnb3etfUtils.toSocketRocDate(record.getUpTrnDt()));                          // 申購日期 (民國年)
-				recordData.put("O16", Cnb3etfUtils.toSocketStr(record.getPriorIntMark(), record.getPriorInt(), 2));// 前手利息
-				recordData.put("O17", Cnb3etfUtils.toSocketStr(record.getXdProfitSign(), record.getXdProfit(), 2));// 參考含息損益
-				recordData.put("O19", Cnb3etfUtils.toSocketStr(record.getSellSts()));                              // 委賣處理中 Y/N
-				recordData.put("O20", Cnb3etfUtils.toSocketStr(record.getProfitSign(), record.getProfit(), 2));    // 參考損益
-				recordData.put("O06", Cnb3etfUtils.toSocketStr(record.getBuyPrice()));                             // 買入價格
-				recordData.put("O04", Cnb3etfUtils.EMPTY);                                                         // [停用] 庫存單位數
+				...
 				respDataList.add(recordData);
 			}
 		}
@@ -368,18 +293,11 @@ public class BNDINVRespBean extends EtfResponseBeanBase {
 				// O01 ~ O20 先給預設值
 				for (int o = 0; o < 20; o++)
 					recordCurrData.put("O".concat(StringUtils.leftPad(String.valueOf((o + 1)), 2, Cnb3etfUtils.ZERO)), Cnb3etfUtils.EMPTY);
-				
 				// 放值 (2.幣別)
 				recordCurrData.put("O18", "2");                                                                                // 2.幣別
 				recordCurrData.put("O08", Cnb3etfUtils.toSocketStr(recordCurr.getCurr()));                                     // 信託幣別
 				recordCurrData.put("O07", Cnb3etfUtils.toSocketStr(recordCurr.getAmt(), 2));                                   // 總信託金額
-				recordCurrData.put("O12", Cnb3etfUtils.toSocketStr(recordCurr.getValAmt(), 2));                                // 總參考現值
-				recordCurrData.put("O16", Cnb3etfUtils.toSocketStr(recordCurr.getPriorIntMark(), recordCurr.getPriorInt(), 2));// 前手息
-				recordCurrData.put("O20", Cnb3etfUtils.toSocketStr(recordCurr.getSign(), recordCurr.getProfit(), 2));          // 總參考損益
-				recordCurrData.put("O13", Cnb3etfUtils.toSocketStr(recordCurr.getSign2(), recordCurr.getReturn2(), 2));        // 不含息報酬率(%)
-				recordCurrData.put("O11", Cnb3etfUtils.toSocketStr(recordCurr.getTotXd(), 2));                                 // 累計配息金額
-				recordCurrData.put("O17", Cnb3etfUtils.toSocketStr(recordCurr.getSign11(), recordCurr.getProfit1(), 2));       // 總參考含息損益
-				recordCurrData.put("O14", Cnb3etfUtils.toSocketStr(recordCurr.getSign1(), recordCurr.getReturn1(), 2));        // 未實現含息報酬率(%)
+				...
 				respDataList.add(recordCurrData);
 			}
 		}
@@ -422,89 +340,88 @@ Sender 為新舊特金轉接核心。
 
 ### 範例程式
 
-```java
-public class BNDINVReqBean extends EtfRequestBeanBase {
-
-    public static final String TXN_TYPE = "BNDINV";
-
-    public BNDINVReqBean(final B512ReqBean b512) {
-
-        this.setCustPermId(
-            Cnb3etfUtils.toValue(b512.getCUSIDN())
-        );
-
-        this.setPrdCtg("02");
-    }
-}
-```
-
----
-
-# B512Sender 流程摘要
 
 ```java
-private B512RespBean callTelegram(
-        final Sysparameter sysParameter,
-        final EtfAttrs etfAttrs,
-        final B512ReqBean b512Req) {
+    private B512RespBean callTelegram(final Sysparameter sysParameter,final EtfAttrs etfAttrs,final B512ReqBean b512Req) {
 
-    // 呼叫 cnb3etf
-    if (sysParameter != null
-            && "Y".equalsIgnoreCase(sysParameter.getParametervalue())) {
+        // 呼叫 cnb3etf
+        if (sysParameter != null && "Y".equalsIgnoreCase(sysParameter.getParametervalue()))
 
-        return callCnb3etfTelegram(etfAttrs, b512Req);
+            return callCnb3etfTelegram(etfAttrs, b512Req);
+
+        // 呼叫 cnb3ws
+        return callCnb3wsTelegram(b512Req);
     }
 
-    // 呼叫 cnb3ws
-    return callCnb3wsTelegram(b512Req);
-}
-```
+    /**
+     * 呼叫 cnb3etf 套件
+     */
+    private B512RespBean callCnb3etfTelegram(final EtfAttrs etfAttrs,final B512ReqBean b512Req) {
 
----
+        BNDINVReqBean apiRequest = new BNDINVReqBean(b512Req);
 
-# 新特金流程摘要
+        EtfRequestAmBodyParamsHead paramsHead;
+        EtfResponseAm<BNDINVRespBean> apiResponse;
+        BNDINVRespBean apiRespBean;
+        B512RespBean respBean;
+        TeleEtfRespBean apiResult;
+        String apiResultJson;
 
-```java
-BNDINVReqBean apiRequest =
-        new BNDINVReqBean(b512Req);
+        // 建立 ambody.Params.Head
+        paramsHead = new EtfRequestAmBodyParamsHead();
+        paramsHead.setDbuObu(etfAttrs.getDbuobu());
+        paramsHead.setMsgId(etfTxnType);
+        paramsHead.setChannelId("C");
+        paramsHead.setDtaCrtIP(etfAttrs.getIp());
+        paramsHead.setDeviceID(Cnb3etfUtils.EMPTY);
+        paramsHead.setPid(Cnb3etfUtils.genAmbodyParamsHeadPid(paramsHead.getChannelId()));
+        
+        apiRequest.setParamsHead(paramsHead);
 
-paramsHead = new EtfRequestAmBodyParamsHead();
+        // BNDINV - 債券餘額及損益查詢
+        apiResult = this.cnb3Util.getcnb3EtfHttp(etfTxnType,apiRequest);
 
-paramsHead.setDbuObu(etfAttrs.getDbuobu());
+        // returnCode 9000：交易異常
+        if (Cnb3etfUtils.isTransactionError(apiResult.getReturnCode())) {
+            B512RespBean errTxnReqBean = new B512RespBean();
+            errTxnReqBean.setOk();
+            errTxnReqBean.setTOA_Response_Code(Cnb3etfUtils.toResponseCode(apiResult.getTxnStatusCode()));
+            errTxnReqBean.setMessageDesc(apiResult.getReturnMessage());
 
-apiRequest.setParamsHead(paramsHead);
+            return errTxnReqBean;
+        }
 
-apiResult =
-        this.cnb3Util.getcnb3EtfHttp(
-                etfTxnType,
-                apiRequest
-        );
-```
+        // returnCode 9999：系統異常
+        if (Cnb3etfUtils.isSystemError(apiResult.getReturnCode())) {
+            B512RespBean errReqBean = new B512RespBean();
+            errReqBean.set(false);
+            errReqBean.setMessageDesc(apiResult.getReturnMessage());
 
----
+            return errReqBean;
+        }
 
-# 回傳處理流程
+        // 處理 cnb3etf 回傳內容
+        apiResultJson = Cnb3etfUtils.decryptData(apiResult.getEncryptType(),apiResult.getResponseData());
+        apiResponse = Cnb3etfUtils.toObject(apiResultJson,new TypeReference<EtfResponseAm<BNDINVRespBean>>() {});
+        apiRespBean =apiResponse.getAmbody().getResult();
 
-```java
-apiResultJson =
-    Cnb3etfUtils.decryptData(
-        apiResult.getEncryptType(),
-        apiResult.getResponseData()
-    );
+        // 若交易失敗
+        if (!apiRespBean.isRespTxnSuccess()) {
+            B512RespBean errReqBean = new B512RespBean();
+            errReqBean.set(false);
+            errReqBean.setMessageDesc(apiRespBean.getRespMessageDesc());
 
-apiResponse =
-    Cnb3etfUtils.toObject(
-        apiResultJson,
-        new TypeReference<
-            EtfResponseAm<BNDINVRespBean>
-        >() {}
-    );
+            return errReqBean;
+        }
 
-apiRespBean =
-    apiResponse.getAmbody().getResult();
+        // 轉換成 B512RespBean
+        respBean = new B512RespBean(apiRespBean.toJSONObject());
+        respBean.setMessageId(apiRespBean.getRespMessageId());
+        respBean.setMessageDesc(apiRespBean.getRespMessageDesc());
 
-respBean =
-    new B512RespBean(apiRespBean.toJSONObject());
+        return respBean;
+    }
+
 ```
 
 ---
@@ -516,7 +433,7 @@ respBean =
 具備以下優點：
 
 - 前端不需修改
-- Controller 不需修改
+- Controller 維持既有 B012/B512 呼叫模式
 - 保留原本 B012 / B512 流程
 - Sender 內部完成新舊轉換
 - 降低既有系統影響範圍
