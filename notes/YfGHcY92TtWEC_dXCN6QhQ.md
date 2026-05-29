@@ -2,7 +2,7 @@
 tags: cofacts
 ---
 
-# Cofacts Hackath70n 協作頁面
+# Cofacts Hackath73n 協作頁面
 
 :::info
 - g0v slack channel：#cofacts
