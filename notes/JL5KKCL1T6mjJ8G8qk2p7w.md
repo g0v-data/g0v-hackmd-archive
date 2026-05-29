@@ -1,16 +1,5 @@
-# Tes Dafa
+## 1. Deskripsi Proyek
 
-## Belajar HackMD
+Proyek ini bertujuan untuk membangun model machine learning untuk melakukan analisis sentimen pada ulasan produk Tokopedia.
 
-- Halo
-- Dunia
-
-```python
-print("Hello World")
-```
-
-| Informasi | Keterangan |
-|-----------|------------|
-| Dataset | Tokopedia Review |
-| Data | 5000 |
-| Model | Logistic Regression |
+Model yang digunakan adalah Logistic Regression dengan representasi fitur TF-IDF untuk mengklasifikasikan ulasan ke dalam kategori sentimen positif, netral, dan negatif.
