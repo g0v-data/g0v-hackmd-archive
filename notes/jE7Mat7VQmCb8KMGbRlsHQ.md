@@ -81,6 +81,8 @@ https://www.vtaiwan.tw/jitsi
 - 如何應用在實體議題小聚？
     - **方法 1**: 在實體活動前先用 Civic Talk 整理正反方已公開的論述，做為實體活動的討論基礎材料。
     - **方法 2**: 在實體討論中用 Civic Talk 動態且即時地更新重點整理與立場視覺化 (會需要再研究如何降低與會者使用門檻。)
+### 進度更新 in 5/30 
+- 建立共筆[vtaiwan 2026 新專案 civic talk](/u6Z7tvLKTzWYSH49YTCw1A)
 
 
 ## 2026 年度 vTaiwan 審議大會
