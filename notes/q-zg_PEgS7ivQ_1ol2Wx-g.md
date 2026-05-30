@@ -17,7 +17,7 @@ tags: afterth0n,
     - [Passport to the g0v universe](https://g0v.hackmd.io/8nYqYBChQliFk55hQlnP5Q?view)
 
 - 一些社群任務
-    - [官方版](https://g0v.hackmd.io/@jothon/task)
+    - [官方版社群任務清單](https://g0v.hackmd.io/@jothon/task)
 
 - 往年有關「松後」的提案
     - [松後推坑](https://g0v.hackmd.io/@jothon/afterg0vhackathon/)
