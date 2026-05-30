@@ -11,8 +11,7 @@ tags: GIS,
 
 ## 討論社團：桃園大龍門_文化路徑探討社團
 
-https://g0v.hackmd.io/jzf1uMq8Sr-W6ozk2Y8aQw?view
-
+https://www.facebook.com/share/g/18Vzi2Mw6k/
 
 ## [人物] 大龍門步道上的人物清單 / 事件與年份
 
