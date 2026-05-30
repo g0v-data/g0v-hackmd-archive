@@ -131,3 +131,99 @@ X_train, X_test, y_train, y_test = train_test_split(
 )
 ```
 ![](https://g0v.hackmd.io/_uploads/rJlvsNfOxMg.png)
+## 8. Pelatihan Model Logistic Regression
+
+Setelah data berhasil diproses menjadi fitur numerik menggunakan TF-IDF, langkah berikutnya adalah melatih model Logistic Regression.
+
+Model dilatih menggunakan data latih yang telah dibagi sebelumnya dengan parameter `class_weight='balanced'` untuk membantu menangani ketidakseimbangan jumlah data pada setiap kelas sentimen.
+
+```python
+from sklearn.linear_model import LogisticRegression
+
+model = LogisticRegression(class_weight='balanced')
+
+model.fit(X_train, y_train)
+```
+![](https://g0v.hackmd.io/_uploads/B1lP6bQdlGg.png)
+
+
+
+# 9. Evaluasi Model
+Setelah model selesai dilatih, dilakukan evaluasi untuk mengukur kemampuan model dalam melakukan klasifikasi sentimen.
+### 9.1 Accuracy
+
+Accuracy digunakan untuk mengukur persentase prediksi yang benar dibandingkan seluruh data uji.
+
+```python
+from sklearn.metrics import accuracy_score
+
+accuracy = accuracy_score(y_test, y_pred)
+
+print("Akurasi:", accuracy)
+```
+![](https://g0v.hackmd.io/_uploads/BJxivfmuxfg.png)
+Model memperoleh nilai akurasi sebesar 84%, yang menunjukkan bahwa sebagian besar data uji berhasil diklasifikasikan dengan benar.
+
+
+
+
+### 9.2 Classification Report
+
+Classification Report digunakan untuk melihat nilai precision, recall, dan F1-score pada setiap kelas sentimen.
+
+```python
+from sklearn.metrics import classification_report
+
+print(classification_report(y_test, y_pred))
+```
+![](https://g0v.hackmd.io/_uploads/SJlYLXmdgMx.png)
+Berdasarkan hasil evaluasi, kelas sentimen positif memiliki performa terbaik dengan nilai precision dan F1-score yang tinggi. Hal ini dipengaruhi oleh dominasi jumlah data sentimen positif dalam dataset.
+
+
+
+### 9.3 Confusion Matrix
+
+Confusion Matrix digunakan untuk melihat jumlah prediksi yang benar maupun salah pada setiap kelas sentimen.
+
+```python
+from sklearn.metrics import confusion_matrix
+
+cm = confusion_matrix(y_test, y_pred)
+
+print(cm)
+```
+![](https://g0v.hackmd.io/_uploads/ByxpkN7uezx.png)
+Hasil confusion matrix menunjukkan bahwa sebagian besar data sentimen positif berhasil diprediksi dengan benar oleh model. Namun masih terdapat beberapa kesalahan klasifikasi pada kelas sentimen negatif dan netral karena jumlah datanya relatif lebih sedikit.
+
+
+# 10. Pengujian Data Baru
+
+Setelah model dievaluasi, dilakukan pengujian menggunakan beberapa kalimat baru untuk melihat kemampuan model dalam memprediksi sentimen.
+
+```python
+contoh = [
+    "barang bagus banget",
+    "pengiriman lama dan buruk",
+    "packing rapi dan cepat",
+    "produk rusak parah"
+]
+
+contoh_tfidf = tfidf.transform(contoh)
+
+prediksi = model.predict(contoh_tfidf)
+
+for review, hasil in zip(contoh, prediksi):
+    print(review, "->", hasil)
+```
+![](https://g0v.hackmd.io/_uploads/S1gjs4QOgfg.png)
+Hasil pengujian menunjukkan bahwa model mampu mengidentifikasi sentimen positif dan negatif pada kalimat baru dengan baik. Kalimat yang mengandung kata-kata bernada positif diprediksi sebagai sentimen positif, sedangkan kalimat bernada negatif diprediksi sebagai sentimen negatif.
+
+
+# 11. Kesimpulan
+
+
+Pada proyek ini telah berhasil dibangun model analisis sentimen ulasan produk Tokopedia menggunakan metode Logistic Regression dengan representasi fitur TF-IDF.
+
+Tahapan yang dilakukan meliputi eksplorasi data, preprocessing teks, pembuatan label sentimen, transformasi TF-IDF, pembagian data latih dan data uji, pelatihan model, serta evaluasi performa model.
+
+Model menghasilkan akurasi sebesar 84% pada data uji. Hasil tersebut menunjukkan bahwa Logistic Regression dan TF-IDF cukup efektif digunakan untuk melakukan klasifikasi sentimen pada dataset ulasan produk Tokopedia.

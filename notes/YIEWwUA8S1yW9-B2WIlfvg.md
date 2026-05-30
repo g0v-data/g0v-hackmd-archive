@@ -9,9 +9,6 @@ We appreciate the reviewer's particular concerns, with further questions about t
 
 **Validity of self-consistency calibration**
 
-<!-- **(1) Central premise is validated only implicitly. That SC tracks correctness in reasoning models rests on aggregate ECE in Table 1 plus a citation to Lyu et al. that actually evaluates non-reasoning models. High-confidence-tail behavior, where deployment risk concentrates, isn't analyzed. (Section 4.1, lines 192–202; Section 3, line 109; Section 2, lines 75–78)
-Suggestion: Add a reliability diagram for raw Test-Time SC (Figure 3 currently shows only the distilled predictor). Add conditional accuracy among examples with SC ≥ 0.9 and ≥ 0.95. Both should be computable from existing data.** -->
-
 We agree that it is important to validate the underlying premise of our approach, that self-consistency tracks correctness in this setting (we also believe this is a contribution of this work).  Besides Table 1, results for test-time SC are also included in Figure 2, Tables 4+5 (in comparison to base model calibration), and Table 9 (with results by dataset).  We will point to these results more clearly in a revised manuscript.  In general, we find it to be a reliable and sharp confidence signal.
 
 In response to the reviewer's concern, we will add TT-SC to the reliability diagrams in Figure 3 (while we cannot share them here, they have better ECE and also visually appear closer to x=y).  Below, please see the results corresponding to conditional accuracy among examples with SC ≥ 0.9 and ≥ 0.95.  We compare the average accuracy and confidence in these buckets for both our method and TT-SC.  TT-SC enables well-calibrated predictions in these high-confidence ranges.
@@ -29,11 +26,6 @@ In response to the reviewer's concern, we will add TT-SC to the reliability diag
 
 
 **Dependence on exact matching**
-
-<!-- **(2) The validated regime is much narrower than the framing suggests. All five datasets share the same structure (short, exact-matchable answers) even though the motivating use cases (tutor hints, triage advice, agentic actions) don't have this structure. The method's reliance on string-equality agreement is invisible in the experiments but central to whether it generalizes. (Section 4, lines 132–145; Section 1, lines 31–42; Appendix A.2)
-Suggestion: Either run one end-to-end experiment on a longer-form or non-factoid dataset using embedding-based agreement (e.g., cosine similarity above a threshold) in place of exact match or scope claims to "short-answer generation with exact-matchable references."** -->
-
-
 
 We believe that tutor hints, triage advice, agentic actions, are all closely related to math and free-form QA (as these are considered in the calibration literature [1]).  We would like to note that the example queries in Figure 1 are taken directly from the Polymath dataset, which we use in our experiments.  In response to this concern, we provide 2 additional experiments.  We will include these results in a final paper.
 
@@ -61,9 +53,6 @@ We further study the dependence on exact matching by applying the semantic clust
 
 
 [1] Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation https://arxiv.org/abs/2302.09664
-
-<!-- **(3) Distribution-shift experiments are too mild to support the deployment claim, and the cost story depends on it. Shifts are within task families; motivating scenarios involve much larger ones. If the predictor doesn't transfer broadly, the offline cost (~100k generations per setup) recurs whenever the deployment shifts, undermining the "lightweight at deployment" framing. (Section 4.2, lines 259–280; Section 4, line 146; Section 5, lines 335–340)
-Suggestion: Run at least one cross-task-family transfer experiment (math → code, factoid QA → multi-step reasoning), or analyze what features the calibrator is responding to (representational geometry vs. surface task features) so readers can reason about how often recalibration would be needed in practice.** -->
 
 **Further distribution shifts**
 
@@ -95,15 +84,11 @@ With respect to offline cost, we note that our method does not require 100k gene
 
 We will include both of these experiments in a final paper.
 
-<!-- **(4) The linguistic-calibration experiment is missing a control that may substantially weaken its headline. The method is compared only against miscalibrated baselines, leaving open whether the win is "this signal is uniquely useful" or just "any well-calibrated signal helps." (Section 4.3, lines 316–333; Table 16)
-Suggestion: Add a Test-Time SC condition to the experiment, since Table 1 shows it's similarly calibrated to the distilled method. If downstream performance is comparable, reframe the contribution as "we deliver well-calibrated signals cheaply" rather than "our confidence estimates are uniquely useful."** -->
-
 **Test-time SC and linguistic calibration**
 
-We have closely re-read this passage, and are unsure the headline the reviewer is referring to; no statements read or paraphrase as "this signal is uniquely useful". We also would not argue that other well-calibrated signals would not also be helpful, as this is the central idea of linguistic calibration.  We state the basis of our comparison in lines 323-325, which is the same set of unsupervised baselines that we use through the paper.   
+To clarify our claim: we are not arguing that our signal is uniquely well-suited to linguistic calibration, only that across the unsupervised methods we compare to it consistently yields the best-calibrated downstream decisions. We agree that other well-calibrated signals should also help, which is consistent with the central idea of linguistic calibration.
 
-For completeness, we have run a test-time self-consistency baseline. Please see below for results averaged across models.  This signal also improves the decision-maker's calibration, as compared to the more uncalibrated baselines.  We will include these results in our final paper.
-
+For completeness, and following the reviewer's suggestion, we have run a test-time self-consistency baseline. Results averaged across models are below. As expected, TT-SC also improves the decision-maker's calibration relative to the more poorly calibrated baselines, and performs comparably to our method. Our method achieves this calibration without the test-time sampling cost of TT-SC, which we view as the relevant practical advantage. We will include these results in our final paper.
 
 | Method       |    Acc |   ECE2 |    MCE |   Brier |
 |:-------------|-------:|-------:|-------:|--------:|
@@ -121,16 +106,12 @@ We thank the reviewer for taking the time to consider our submission.  Please se
 
 **Paper contribution**
 
-<!-- **Limited methodological novelty. The components are familiar: self-consistency as a confidence signal, offline distillation, embedding probes, and isotonic regression. The main contribution is their composition plus a strong empirical study. The paper should avoid overselling the method as algorithmically novel.** -->
-
 We do not claim algorithmic novelty in the individual components; our contribution is the conceptual choice of treating repeated sampling as an offline, unlabeled supervision source for the single-generation regime, together with the empirical demonstration that this works broadly. If there is any particular wording the reviewer feels should be revised, we are happy to do so; we will make a pass through the introduction and method section to ensure the contribution is framed as the composition and the regime it unlocks rather than the parts.
 
 We would also argue that simplicity here is a strength: a lightweight, off-the-shelf pipeline is what makes the approach deployable in the constrained settings we target, and it is consistent with how much influential calibration work has been valued (see response to Reviewer viF2).
 
 
 **Matched supervised baseline**
-
-<!-- **The supervised comparison is weak. The supervised baseline is Platt scaling on token probabilities. A more informative comparison would train the same embedding-plus-isotonic predictor on true correctness labels. Without this, it is hard to separate the value of self-consistency targets from the value of the predictor architecture.** -->
 
 We thank the reviewer for this suggestion, and agree that this is a useful ablation that we will include in the paper.  Please see below for results including this baseline in all experiments.
 
@@ -144,10 +125,6 @@ As expected, including the ground-truth labels meaningfully improve ECE over our
 
 
 **Self-consistency failures and WebQ performance**
-
-<!-- **Self-consistency failures are not diagnosed enough. WebQ appears much weaker than the math datasets, likely because semantically equivalent answers can have different surface forms. The paper notes this issue but does not analyze where or why the self-consistency target breaks down. 
-On WebQ, how much of the self-consistency failure comes from correct answers expressed with different surface forms? Did semantic answer clustering improve the target?** -->
-
 
 We thank the reviewer for the question. In rsponse to this concern, we ran a new experiment: we produced the WebQ self-consistency targets using semantic answer clustering rather than exact matching, and found it yields comparable calibration.
 
@@ -167,11 +144,6 @@ Finally, on diagnosing individual failures: because calibration is defined over 
 
 
 **Offline costs**
-
-<!-- **Offline cost is understated. The method requires many offline generations per model and target distribution. This may be reasonable for some local deployments, but in black-box API settings it can be costly and may need to be repeated after domain shifts or model updates. The paper should report token counts or approximate API cost.  
--How does performance scale with the number of unlabeled calibration examples, not only with the number of self-consistency samples per example?
--What is the approximate offline calibration cost in tokens, wall-clock time, or API dollars for a representative black-box model?** -->
-
 
 We thank the reviewer for raising the cost question; we have added the requested experiments here, and will include them with a more extensive discussion about offline cost in a final paper.
 
@@ -204,8 +176,6 @@ This table estimates the cost of running 1,000 representative math benchmark que
 For open weights, running k=10 with n=100 on GSM8K with a single A100 under vLLM takes ~6 min for Qwen3-1.7B and ~13 min for Qwen3-8B. We will add these figures to the appendix.
 
 **Robustness to deployment decoding**
-
-<!-- **Robustness to deployment decoding is incomplete. Training-temperature ablations are useful, but the more practical question is what happens when the deployed model uses a different test-time temperature or greedy decoding. How robust is the predictor when trained at one decoding temperature but deployed with another, especially greedy or low-temperature decoding?** -->
 
 We thank the reviewer, and we may not have made this clear enough in the paper: all of our main experiments already use a train/test temperature mismatch. Calibration targets are sampled at temperature 0.7 (with ablations at 0.5 and 0.9, Figures 13–14), while test-time decoding uses 0.6. The strong results throughout therefore already reflect a predictor trained at one decoding temperature and deployed at another, and the temperature ablations show robustness across the sampling settings we vary. We will state this train/test gap explicitly.
 
@@ -243,7 +213,7 @@ None of these rests on algorithmic complexity; instead, each is a conceptual cho
 **I am also not fully convinced that the method learns confidence for the specific generated answer, since the question-only ablation is very strong and sometimes close to or better than the full response-based predictor. This suggests that much of the gain may come from learning question difficulty.**
 
 
-It is correct that the question-only and full predictors achieve similar marginal calibration. This is expected: both are trained against the same self-consistency targets, and ECE rewards marginal calibration, which a difficulty estimate largely captures on its own (as we note in Section 4.1, a predictor near the base accuracy rate can already score well on ECE). 
+It is correct that the question-only and full predictors achieve similar marginal calibration. This is expected: both are trained against the same self-consistency targets, and ECE rewards marginal calibration, which a difficulty estimate largely captures on its own (as we note in Section 4.1, a predictor near the base accuracy rate can already score well on ECE). This is precisely why ECE alone is an incomplete picture of confidence quality, and why we also report AUROC and Brier score (Section 4, lines 156–161): a useful estimator must be both calibrated and sharp, assigning higher confidence to correct answers than incorrect ones. A method that issues the base accuracy rate to every example can be calibrated but useless for decisions.
 
 The important question is whether the full predictor extracts answer-specific information beyond question difficulty, and on the discriminative metrics the two separate clearly.  Because the question-only predictor never observes the generated answer, it must assign the same confidence to every response to a given question—including cases where the model produces an incorrect answer to an otherwise easy question. The full predictor, conditioned on the actual response, can down-weight such cases. This is exactly why it separates correct from incorrect answers better: across all five datasets (Table 9), AUROC increases strictly and monotonically from question-only → our full method → test-time self-consistency, with Brier score following the same ordering (except for Brier score on WebQ). The progression is the cleanest summary of the effect: all three are well-calibrated marginally, but the stronger, answer-aware methods are sharper. This carries directly into decisions: in selective prediction (Figure 6), the question-only ablation underperforms the full method, precisely because weaker ranking yields weaker abstention.
 
