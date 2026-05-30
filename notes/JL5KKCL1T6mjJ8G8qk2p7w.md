@@ -196,7 +196,7 @@ print(cm)
 Hasil confusion matrix menunjukkan bahwa sebagian besar data sentimen positif berhasil diprediksi dengan benar oleh model. Namun masih terdapat beberapa kesalahan klasifikasi pada kelas sentimen negatif dan netral karena jumlah datanya relatif lebih sedikit.
 
 
-# 10. Pengujian Data Baru
+# 10. Hasil Output
 
 Setelah model dievaluasi, dilakukan pengujian menggunakan beberapa kalimat baru untuk melihat kemampuan model dalam memprediksi sentimen.
 
@@ -221,9 +221,20 @@ Hasil pengujian menunjukkan bahwa model mampu mengidentifikasi sentimen positif 
 
 # 11. Kesimpulan
 
+Pada proyek ini berhasil dibangun model analisis sentimen ulasan produk Tokopedia menggunakan metode Logistic Regression dan representasi fitur TF-IDF.
 
-Pada proyek ini telah berhasil dibangun model analisis sentimen ulasan produk Tokopedia menggunakan metode Logistic Regression dengan representasi fitur TF-IDF.
+Model memperoleh nilai akurasi sebesar 84% pada data uji. Hasil evaluasi menunjukkan bahwa model mampu mengklasifikasikan sentimen positif dengan baik.
 
-Tahapan yang dilakukan meliputi eksplorasi data, preprocessing teks, pembuatan label sentimen, transformasi TF-IDF, pembagian data latih dan data uji, pelatihan model, serta evaluasi performa model.
+Pengujian pada data baru juga menunjukkan bahwa model mampu membedakan sentimen positif dan negatif secara cukup akurat.
+# 12. Kendala dan Solusi
 
-Model menghasilkan akurasi sebesar 84% pada data uji. Hasil tersebut menunjukkan bahwa Logistic Regression dan TF-IDF cukup efektif digunakan untuk melakukan klasifikasi sentimen pada dataset ulasan produk Tokopedia.
+| Kendala | Solusi |
+|----------|----------|
+| Distribusi data tidak seimbang | Menggunakan class_weight='balanced' |
+| Data teks mengandung karakter yang tidak diperlukan | Melakukan preprocessing teks |
+| Data teks tidak dapat langsung digunakan model | Menggunakan TF-IDF |
+# 13. Link Kodingan
+
+Notebook Google Colab:
+
+[Google Colab Notebook](https://colab.research.google.com/drive/1EjrscXf7Cp54pIejiy58LQ67CCM7odpi?usp=sharing)
