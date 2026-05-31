@@ -31,9 +31,15 @@ tags: afterth0n,
 
 ## 第零次松後哈拉
 
-- 規劃舉辦時間：20260531 大松結束後
-- 地點：可能是 NPO Hub 或附近的工作室 / 咖啡廳
+- 時間：20260531 大松結束後
+- 地點：NPO Hub 202 室
     - NPOHUB 二樓 202 室，5/31 週日傍晚至晚上 17:30-21:00 會開放，可以自由運用 [name=chewei]
     - > 感謝 chewei 補充 [name=Percy]
-- 食物：待確認，如果大松會場有提供食物，就以會場的食物為主
-    - 參考內容：[食物共筆](https://g0v.hackmd.io/@jothon/Food?type=view)
+- 食物：場地提供的 Pizza
+![](https://g0v.hackmd.io/_uploads/Hkx_G05KlGe.png)
+
+參考內容：[食物共筆](https://g0v.hackmd.io/@jothon/Food?type=view)
+
+### 討論內容相關共筆
+- [數位人生醫療用品建議採購清單](https://g0v.hackmd.io/P2VUPWkqTZO6DUcofIc7fQ)
+    - 在 g0v 202 室陳列一個體驗區
