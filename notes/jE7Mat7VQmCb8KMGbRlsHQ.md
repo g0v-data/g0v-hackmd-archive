@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter, 
+參與者 Participants：Peter, 翊婷, billy, T, Josh 
 
 ![](https://g0v.hackmd.io/_uploads/BkRZ6INlfl.png)
 
