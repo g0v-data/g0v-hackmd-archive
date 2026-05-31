@@ -42,4 +42,4 @@ tags: afterth0n,
 
 ### 討論內容相關共筆
 - [數位人生醫療用品建議採購清單](https://g0v.hackmd.io/P2VUPWkqTZO6DUcofIc7fQ)
-    - 在 g0v 202 室陳列一個體驗區
+    - 在 g0v 202 室陳列一個體驗區，可以放置各種健康的數位用品
