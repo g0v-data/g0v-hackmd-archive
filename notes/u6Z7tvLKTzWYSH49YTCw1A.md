@@ -72,3 +72,10 @@ tags: vtaiwan
 - **加入 g0v Slack**：[join.g0v.tw](https://join.g0v.tw)
 
 ## 討論內容彙整
+### 0531 大松進度更新與討論
+#### 大松進度更新 by 
+- 最主要的更新是將設計風格轉為與 vTaiwan 目前的官網一致[name=peter]
+- 增加 footer，感謝 [name=bestian]的貢獻！
+- 新增 about 頁面
+- 新增中英文翻譯頁面
+    - 有ㄔㄥ
