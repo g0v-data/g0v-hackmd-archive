@@ -1,8 +1,11 @@
 ---
 tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense,
-image: https://chengpengtw-images-public.s3.ap-northeast-1.amazonaws.com/img/11th+hackathon_1200600_by-paulpengtw-CCBYSA4.0.png
+image: https://g0v.hackmd.io/_uploads/HJxZ9B-cxGl.png
 title: DigiResiTh15n 第拾伍次數位韌性松
 ---
+
+![](https://g0v.hackmd.io/_uploads/HJxZ9B-cxGl.png)
+
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
@@ -17,7 +20,7 @@ title: DigiResiTh15n 第拾伍次數位韌性松
 :::success
 報名流程及注意事項
 1. 當您參與本活動，即代表您已經同意 [g0v 宣言](https://g0v.tw/intl/zh-TW/manifesto/zh-TW/) 並願意遵守 [行為守則 Code of Conduct](https://g0v.hackmd.io/s/COC)。
-2. 若欲報名活動，請直接在 [KKTIX 報名連結](https://g0v-digiresi.kktix.cc/events/digiresith14n) 逕行報名
+2. 若欲報名活動，請直接在 [KKTIX 報名連結](https://g0v-digiresi.kktix.cc/events/digiresith15n) 逕行報名
 :::
 
 :::warning
