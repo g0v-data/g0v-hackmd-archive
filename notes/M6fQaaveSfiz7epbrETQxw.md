@@ -6,7 +6,7 @@ title: DigiResiTh14n 第拾肆次數位韌性松
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
-# 20260628 (TBD) DigiResiTh16n 第拾陸次數位韌性松
+# 202607xx (TBD) DigiResiTh16n 第拾陸次數位韌性松
 
 {%hackmd VkctH3USQ-yoB6hw2s2D0Q %}
 

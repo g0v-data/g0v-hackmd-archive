@@ -1,12 +1,12 @@
 ---
 tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense,
 image: https://chengpengtw-images-public.s3.ap-northeast-1.amazonaws.com/img/11th+hackathon_1200600_by-paulpengtw-CCBYSA4.0.png
-title: DigiResiTh14n 第拾肆次數位韌性松
+title: DigiResiTh15n 第拾伍次數位韌性松
 ---
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
-# 20260411 DigiResiTh15n 第拾伍次數位韌性松
+# 20260621 DigiResiTh15n 第拾伍次數位韌性松
 
 {%hackmd VkctH3USQ-yoB6hw2s2D0Q %}
 
@@ -36,11 +36,10 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 ## 時間地點
 
-- Mar 8 2025 (SUN)
+- June 21 2026 (SUN)
 - 13:00 - 17:00（UTC+8）
-- [g0v Taipei Community Hub / g0v 台北社群空間](https://maps.app.goo.gl/o3nAyuSrNshZgW1aA) 2F
-    - 請從 1F 咖啡店 __旁邊__ 的入口上樓
-    - [「如何入場」及場地使用規定](/9pwDPOXLTr6IJKiLofl3qg)
+- [MozTW Space / 摩茲工寮](https://maps.moztw.space) 11F
+    - 搭電梯上 11F，直走左轉到底右手邊
 
 ## 提案區
 歡迎自由編輯～
@@ -49,8 +48,9 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
 | 海纜檢測 | Irvin | resilience.ocf.tw |
-| insert content here | insert name here | insert content here |
-| insert content here | insert name here | insert content here |
+| 吃過期戰備餐包 | Irvin | insert content here |
+| 試試看在 meshtastic 架構上搞一個土炮群組管理功能 | paulpengtw | [meshtastic介紹](https://docs.google.com/presentation/d/1E-LehXA-K-yGfKj2IWUuaEn4PoYlMu_Z/edit) |
+| 災象回波分享 | billy | insert content here |
 | insert content here | insert name here | insert content here |
 | insert content here | insert name here | insert content here |
 
@@ -60,7 +60,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 來者何人，留下名稱！（請自由留下自己的暱稱或稱呼）
 
 - Irvin
-- 
+- paulpengtw
 - 
 
 ---
