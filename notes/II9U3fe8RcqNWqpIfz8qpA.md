@@ -38,7 +38,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 - June 21 2026 (SUN)
 - 13:00 - 17:00（UTC+8）
-- [MozTW Space / 摩茲工寮](https://maps.moztw.space) 11F
+- [MozTW Space / 摩茲工寮](https://maps.moztw.space)
     - 搭電梯上 11F，直走左轉到底右手邊
 
 ## 提案區
@@ -48,9 +48,8 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
 | 海纜檢測 | Irvin | resilience.ocf.tw |
-| 吃過期戰備餐包 | Irvin | insert content here |
-| 試試看在 meshtastic 架構上搞一個土炮群組管理功能 | paulpengtw | [meshtastic介紹](https://docs.google.com/presentation/d/1E-LehXA-K-yGfKj2IWUuaEn4PoYlMu_Z/edit) |
-| 災象回波分享 | billy | insert content here |
+| insert content here | insert name here | insert content here |
+| insert content here | insert name here | insert content here |
 | insert content here | insert name here | insert content here |
 | insert content here | insert name here | insert content here |
 
@@ -60,7 +59,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 來者何人，留下名稱！（請自由留下自己的暱稱或稱呼）
 
 - Irvin
-- paulpengtw
+- 
 - 
 
 ---
