@@ -1,15 +1,18 @@
 # 20260602 會議記錄
 
+:::info
+- [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
+- NPO Hub 出席：bil, mrorz, nonumpa, 
+- 線上出席：
+- https://meet.google.com/mrz-dgrd-pri
+:::
+
 ## 上週待辦
 
 ### GCE Migration
 - [ ] 跑幾週看穩定度，決定是否要再把 tw site 也搬進 GCE
 - [ ] 跑幾個月看實際用到的運算量，決定 GCP committed use discount 怎麼買比較划算
-
-### 主機維運
-- [ ] （高優先）清除 Swap
-- [ ] （中優先）site-tw 記憶體
-- [ ] （持續追蹤）Cloudflare One token 導入
+    - 每個月 30X USD
 
 ### Kaggle
 - [ ] 手動在 johnson 個人帳號上傳，並處理授權條款
@@ -17,11 +20,30 @@
 - [ ] 申請 Org 帳號
 
 ### cofacts.ai
+> https://github.com/orgs/cofacts/projects/12/views/1
+
+
+- https://github.com/cofacts/ai/issues/39
 - [ ] 處理多媒體 articles
   - [Issue #70: Handle multimedia articles in cofacts.ai](https://github.com/cofacts/ai/issues/70)
   - [PR #72: feat(adk): multimodal support for non-TEXT Cofacts articles](https://github.com/cofacts/ai/pull/72)
   - [PR #73: fix: forward user JWT to rumors-api so attachmentUrl is non-null for video/audio](https://github.com/cofacts/ai/pull/73)
   - [PR #76: Pass auth token via Authorization header + ContextVar instead of session stateDelta](https://github.com/cofacts/ai/pull/76)
+
+### url-resolver
+
+- 測過 cf-browser, url-context, url-resolver
+- url-context 效果不太好
+    - score 不高，沒有仔細看結果
+    - 可能遇到 recitation error，cofacts.ai 也有遇到 [name=mrorz]
+    - 所以可能不太合用
+- `computer-use` 在 cloudflare browser rendering 上很容易 fail
+    - timeout
+    - 可能是打 gemini 的部分沒回應 etc
+- 跑完做分類
+    - JS 比較重的，固定跑 browser
+    - 其他好爬的：用輕量的
+    - 有些網站特別讓 AI 爬，有作的話可以走 https://blog.cloudflare.com/markdown-for-agents/
 
 ### 其他
 
@@ -32,19 +54,23 @@
 
 ## 大松檢討
 
-
+https://g0v.hackmd.io/@cofacts/meetings/https%3A%2F%2Fg0v.hackmd.io%2FhNNxb6m5Qy6as18Dt9AXdw
 
 ## 小聚籌辦
 
 - 6/7 (日) 青職基地 1F
     - 上次在一樓的檢討<https://g0v.hackmd.io/J8vWYqIzRn687khHpPLQvw#%E5%B0%8F%E8%81%9A%E6%AA%A2%E8%A8%8E>
+    - Impression count 是上次的 6 成，但 click through rate 差不多
+    - 再送推播，這次
+        - 拿掉前面的謠言，開門見山
+        - 換成中午 12:30
 - 週六早上
     - [ ] KKTIX 行前通知：提醒時間、使用電腦而非手機
   > Hello 你好，
 	>
 	> 本週日就是 6 月 7 日查核志工培訓囉！
 	>
-	> 志工培訓需要大量查詢資料，請自備筆電 💻 與充電器 🔌 並帶著愉快的心情來參加。帶順手的平板也可以的！如果願意協助編修影片逐字稿，請自備耳機唷🎧！ 另外這次的活動會有瑞士新蘇黎世報的紀錄片採訪進行一定距離外的活動紀錄，不願意入鏡是絕對沒有問題的，我們尊重每個人的肖像權。
+	> 志工培訓需要大量查詢資料，請自備筆電 💻 與充電器 🔌 並帶著愉快的心情來參加。帶順手的平板也可以的！如果願意協助編修影片逐字稿，請自備耳機唷🎧！
 	>
 	> 🕒 時間：06/07（日）14:00 - 17:00
 	> 📍 地點：新北市青年局青職基地1樓 / 新北市板橋區民權路170號2樓(近板橋捷運站)
@@ -65,14 +91,16 @@
 	- [ ] 準備 Slido `#cofacts`
 - 當日準備 / 攜帶
     - [ ] 樓下用的標語 - bil
-    - [ ] **拍照用大布條**
+    - [ ] **拍照用大布條** - bil
     - [ ] 貼紙 - orz, bil
     - [ ] 黏土 - orz
     - [ ] 手板 - bil
     - [ ] 講義 - bil
     - [ ] 一次性杯子 - bil
-    - [ ] 延長線 - bil
+    - [ ] 延長線 - bil, nonumpa
         - 比鄰有 5 條
+        - nonumpa 有 2 條
+        - (Optional) 和揪松借
     - [ ] Wifi 機 - mrorz
         - [ ] rt-ax57 go
         - [ ] 電源線
