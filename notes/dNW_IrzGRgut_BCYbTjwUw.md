@@ -18,19 +18,26 @@
 
 ### cofacts.ai
 - [ ] 處理多媒體 articles
+  - [Issue #70: Handle multimedia articles in cofacts.ai](https://github.com/cofacts/ai/issues/70)
+  - [PR #72: feat(adk): multimodal support for non-TEXT Cofacts articles](https://github.com/cofacts/ai/pull/72)
+  - [PR #73: fix: forward user JWT to rumors-api so attachmentUrl is non-null for video/audio](https://github.com/cofacts/ai/pull/73)
+  - [PR #76: Pass auth token via Authorization header + ContextVar instead of session stateDelta](https://github.com/cofacts/ai/pull/76)
 
-### 小聚籌備
-- [ ] 確認 6/7 活動場地、時間
-- [ ] 5/28 發布活動推播
-- [ ] 準備 LINE、VOOM、FB 文案並發文
-- [ ] bil 記得帶貼紙、不太環保杯
+### 其他
+
+**逐字稿功能修復**
+- [PR #391: fix(CreateMediaArticle): generate transcript when AI response is missing](https://github.com/cofacts/rumors-api/pull/391)
+- [PR #392: test(CreateMediaArticle): add createTranscript mock and fallback test](https://github.com/cofacts/rumors-api/pull/392)
+- [Allow missing content-length](https://github.com/cofacts/media-manager/pull/12)
 
 ## 大松檢討
+
 
 
 ## 小聚籌辦
 
 - 6/7 (日) 青職基地 1F
+    - 上次在一樓的檢討<https://g0v.hackmd.io/J8vWYqIzRn687khHpPLQvw#%E5%B0%8F%E8%81%9A%E6%AA%A2%E8%A8%8E>
 - 週六早上
     - [ ] KKTIX 行前通知：提醒時間、使用電腦而非手機
   > Hello 你好，
