@@ -14,6 +14,10 @@ tags: GIS
 
 學區範圍查詢：https://schooldistrict.tp.edu.tw/html/search.jsp
 
+## 個案探討：臺北市大安區臺師大街區
+
+https://g0v.hackmd.io/@chewei/GDP/https%3A%2F%2Fg0v.hackmd.io%2F%40chewei%2Fcampus_district%2Fhttps://g0v.hackmd.io/@chewei/GDP/https%3A%2F%2Fg0v.hackmd.io%2F%40chewei%2Fcampus_district%2F
+
 
 ## 個案探討：桃園市八德區霄裡國小
 

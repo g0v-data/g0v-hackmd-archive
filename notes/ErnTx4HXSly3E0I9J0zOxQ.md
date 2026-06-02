@@ -654,11 +654,18 @@ https://g0v.hackmd.io/@chewei/B1n-rwNTWg
 
 ## 檢視行人路徑的日間遮蔭程度
 
-案例照片蒐集相簿
-https://photos.app.goo.gl/BAumLMXn12wD9qmp9
-
 建築日照分析可以用
 https://3dmaps.nlsc.gov.tw/
+
+臺北市大安區大學里街區夏季日照 GIF 動畫
+https://www.facebook.com/groups/1533007384338240/posts/1547394612899517
+![](https://g0v.hackmd.io/_uploads/Hkln0Lheze.png)
+
+內湖科技園區夏季日照概況
+![](https://g0v.hackmd.io/_uploads/HkqRRIheMg.jpg)
+
+案例照片蒐集相簿
+https://photos.app.goo.gl/BAumLMXn12wD9qmp9
 
 ## 其他探討方法
 
