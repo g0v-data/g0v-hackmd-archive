@@ -6,6 +6,10 @@ tags: AI, rentea,
 
 ![](https://g0v.hackmd.io/_uploads/HJPpxvdJzg.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tf4gYP336EA?si=6lrl0REIoWB1wpgL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+影片：https://youtu.be/tf4gYP336EA
+
 ## 提案主題內容選擇
 
 Google AI 想提案【租屋透明地圖 2.0】– 告別租屋黑市與惡房東
