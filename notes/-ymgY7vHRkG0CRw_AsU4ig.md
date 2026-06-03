@@ -18,6 +18,7 @@ https://docs.google.com/spreadsheets/d/1uXFyo3VHICOxk3LgODoBhKekxatFc_ZjEIXjgKxV
 - 20220807 已整合的資料：大肚台地產業與資源調查_湧泉水井水堀_CSV
     - https://data.gov.tw/dataset/101335
     - 資料欄位：編號、名稱、類型、經度、緯度、位置、簡介、資料來源簡介、資料來源、照片1、照片2、照片3
+- 20260603 發現資料被刪掉，所以還原回 2025.02 版本，並且改為：可以公開檢視
 - 不定期查查看近年政府資料平台有沒有開放相關資料 
 
 
