@@ -8,23 +8,25 @@
 :::
 #### Google Meet
 :bulb:桌機可用瀏覽器免安裝免帳號，手機需要有Google帳號，**中國不通**
-管理員：meeting@chainlon.net
+管理員：meeting@chainlon.net(密碼另洽)
 主管會議：https://meet.google.com/zvq-goua-iyv
 ![](https://g0v.hackmd.io/_uploads/Skx12LBtJMl.png)
 主管會議短網址：https://www.chainlon.net/meetg
 內訓專用：https://meet.google.com/vhj-bhpw-rqo 
 對外1：https://meet.google.com/hex-matt-vcc
 資訊部：https://meet.google.com/dub-xgzx-vwn
+Google Meet官網：https://meet.google.com
 **停用/展頌公用會議：https://meet.google.com/znp-xmiy-hyj
 
 #### Microsoft Teams(備用1)
 :bulb:桌機可用瀏覽器免安裝免帳號，手機要安裝或登入微軟帳號，2025/5/16更新
-管理員：meeting@chainlon.net
+管理員：meeting@chainlon.net(密碼另洽)
 展頌公用會議：https://teams.microsoft.com/meet/4682700076407?p=2T2D28Y2Q2KxNhmA8q
 短網址：https://www.chainlon.net/meett
 ![](https://g0v.hackmd.io/_uploads/B1bsE44Zxl.png)
 教育訓練專用：https://teams.microsoft.com/meet/4755693985475?p=bzI7xqzO78eu8EHWrP
 展頌資訊部：https://teams.microsoft.com/meet/4289735414996?p=O7HtCbYDKWL2kdeu1D
+Microsoft Teams官網：https://teams.microsoft.com
 
 #### CISCO Meet(備用2，擬汰除)
 :bulb:參加，不是登入，不須安裝，記得輸入暱稱，蘋果系統請用Chrome、Safari
