@@ -47,7 +47,7 @@ https://www.vtaiwan.tw/jitsi
 ## 小小的分享
 ### COMPUTEX 找 Twinkle AI 團隊聊天
 - Twinkle AI 是專注於在做台灣開源人工智慧的社群
-- Twinkle Hub: 
+- Twinkle Hub: 可以
 ![](https://g0v.hackmd.io/_uploads/rygjwqYpezl.jpg)
 
 ### 大松成果
