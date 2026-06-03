@@ -5,7 +5,8 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter 
+參與者 Participants：Peter, Allison, Billy, Tim
+![](https://g0v.hackmd.io/_uploads/ryeN0J9pgfg.png)
 
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -36,8 +37,19 @@ https://www.vtaiwan.tw/jitsi
     - 目前的 vTaiwan 很歡迎與數位工具相關的公共討論！
 - 如果想要成為協作者或者是貢獻者，我們正在努力讓說明更清楚，介面更友善！
 :::
+## 自我介紹
+- Billy: 花蓮災象回波社群
+- Josh: Researcher 
+- Evgeniia: Russian in Texas, working on digital democracy 
+- Tim: Engineer 
+- Allison: High school student
 
 ## 小小的分享
+### COMPUTEX 找 Twinkle AI 團隊聊天
+- Twinkle AI 是專注於在做台灣開源人工智慧的社群
+- Twinkle Hub: 
+![](https://g0v.hackmd.io/_uploads/rygjwqYpezl.jpg)
+
 ### 大松成果
 - 可以參考這份[提案表](https://g0v.hackmd.io/@jothon/g0v-hackath73n/https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1rZbipCSsbzQs2OoeCrWapxWz2SyI6fgu_kS2vKLRUek%2Fedit%3Fusp%3Dsharing)
 - 完成提案與八分鐘短講
@@ -50,12 +62,38 @@ https://www.vtaiwan.tw/jitsi
 - 目前部署連結：https://civic-talk.pages.dev
 - 上週正式完成部署與實作
 - 下一步：思考應用與宣傳，還有招募使用者
+### Milestone: 
+- 7/17@TWNIC 活動上可以使用
 
 ## 審議大會更新
 - 上週有收到 TWNIC 的回饋，重新送了企劃書！
-- 目前預計會在 8/22 辦理活動。
+- 目前預計會在 8/22 在花蓮辦理活動。
+- 三場活動：
+    - 7/17 TWNIC
+    - 8/22 花蓮
+    - 9 月在台北
+
+### TWNIC 
+- 7/17 有一個實體的審議活動 @TWNIC 
+
+## Josh 開發的新工具
+- 工具敘述
+- 目的：解決在現場進行審議討論時，要同時操作 mentimeter、AI Agent 等的問題。
+- 相關連結
+- 挑戰
+    - 用戶使用介面
 
 ## 大翻譯運動
-- 起因：看到歐洲議會研究處發了一篇71頁左右的報告，分析數位工具在公民參與中的應用。有很詳盡的分析，除了有整理世界各地的 94 個案例（包含工具與倡議外），也深入分析了11個案例，並且提出分析標準。
+- 起因：看到歐洲議會研究處發了一篇71頁的報告，分析數位工具在公民參與中的應用。有很詳盡的分析，除了有整理世界各地的 94 個案例（包含工具與倡議外），也深入分析了11個案例，並且提出分析標準。
+- 
 - 原文連結：https://www.europarl.europa.eu/RegData/etudes/STUD/2026/774753/EPRS_STU%282026%29774753_EN.pdf
 - 翻譯文件連結：https://docs.google.com/document/d/1yrT1BKTJo2DMDhmRSWXwcBMdYS-A5yjaIQziA7vD1wg/edit?tab=t.0 
+### 討論
+- 報告內容仍然是不全的，要檢查與對應相關內容
+- 
+#### 將意見轉成 agent 的 skill 或資料庫
+- 將市民的意見變成 AI 的 context
+- 對應到不同機構的政策承接
+#### Polis 當作是 wiki survey 的一部份
+#### 11 個案例應該都是偏好一條龍的專案
+- Decidim 
