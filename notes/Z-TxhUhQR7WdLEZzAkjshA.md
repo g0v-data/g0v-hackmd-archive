@@ -8,27 +8,23 @@
 :::
 #### Google Meet
 :bulb:桌機可用瀏覽器免安裝免帳號，手機需要有Google帳號，**中國不通**
-主管會議    https://meet.google.com/zvq-goua-iyv
+管理員：meeting@chainlon.net
+主管會議：https://meet.google.com/zvq-goua-iyv
 ![](https://g0v.hackmd.io/_uploads/Skx12LBtJMl.png)
-短網址：https://www.chainlon.net/meetg
-內訓專用    https://meet.google.com/vhj-bhpw-rqo 
-資訊部     https://meet.google.com/dub-xgzx-vwn 
-對外       https://meet.google.com/hex-matt-vcc
-**以下即日起停用
-展頌公用會議：https://meet.google.com/znp-xmiy-hyj
-
-**以上停用
+主管會議短網址：https://www.chainlon.net/meetg
+內訓專用：https://meet.google.com/vhj-bhpw-rqo 
+對外1：https://meet.google.com/hex-matt-vcc
+資訊部：https://meet.google.com/dub-xgzx-vwn
+**停用/展頌公用會議：https://meet.google.com/znp-xmiy-hyj
 
 #### Microsoft Teams(備用1)
 :bulb:桌機可用瀏覽器免安裝免帳號，手機要安裝或登入微軟帳號，2025/5/16更新
-展頌公用會議(管理員：meeting@chainlon.net)：
-網址：https://teams.microsoft.com/meet/4682700076407?p=2T2D28Y2Q2KxNhmA8q
+管理員：meeting@chainlon.net
+展頌公用會議：https://teams.microsoft.com/meet/4682700076407?p=2T2D28Y2Q2KxNhmA8q
 短網址：https://www.chainlon.net/meett
 ![](https://g0v.hackmd.io/_uploads/B1bsE44Zxl.png)
-教育訓練專用(管理員：meeting@chainlon.net):
-https://teams.microsoft.com/meet/4755693985475?p=bzI7xqzO78eu8EHWrP
-展頌資訊部(管理員：meeting@chainlon.net):
-https://teams.microsoft.com/meet/4289735414996?p=O7HtCbYDKWL2kdeu1D
+教育訓練專用：https://teams.microsoft.com/meet/4755693985475?p=bzI7xqzO78eu8EHWrP
+展頌資訊部：https://teams.microsoft.com/meet/4289735414996?p=O7HtCbYDKWL2kdeu1D
 
 #### CISCO Meet(備用2，擬汰除)
 :bulb:參加，不是登入，不須安裝，記得輸入暱稱，蘋果系統請用Chrome、Safari
@@ -39,8 +35,10 @@ https://mt.chainlon.net/invited.sf?secret=FSqW0vWl.lz8tQL1qCE4zg&id=22927617
 ![](https://g0v.hackmd.io/_uploads/rk0tEN4bxl.png)
 展頌CISCO會議室(手動輸入會議ID) https://mt.chainlon.net/
 
-#### 視訊設備自我測試 (喇叭測試請到Youtube隨意播放即可)
+#### 視訊設備測試及常用工具
+https://www.avtestr.com/zh-tw/MeetingReadyCheck.html
 https://www.toolskk.com/webcam-mic-test
+產生二維碼：https://qr.ioi.tw/zh/
 
 #### Zoom(停用)
 
