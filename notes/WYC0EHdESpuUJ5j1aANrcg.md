@@ -45,9 +45,17 @@ https://www.vtaiwan.tw/jitsi
 
 ## Civic Talk 共筆
 - 專案共筆：[vtaiwan 2026 新專案 civic talk](/u6Z7tvLKTzWYSH49YTCw1A)
+- [civic talk 管理者指南](/2iS9plTURyuEb9U_vdN1qg)
+- Github 連結：https://github.com/v-taiwan/civic-talk
+- 目前部署連結：https://civic-talk.pages.dev
 - 上週正式完成部署與實作
 - 下一步：思考應用與宣傳，還有招募使用者
 
 ## 審議大會更新
+- 上週有收到 TWNIC 的回饋，重新送了企劃書！
+- 目前預計會在 8/22 辦理活動。
 
-## 
+## 大翻譯運動
+- 起因：看到歐洲議會研究處發了一篇71頁左右的報告，分析數位工具在公民參與中的應用。有很詳盡的分析，除了有整理世界各地的 94 個案例（包含工具與倡議外），也深入分析了11個案例，並且提出分析標準。
+- 原文連結：https://www.europarl.europa.eu/RegData/etudes/STUD/2026/774753/EPRS_STU%282026%29774753_EN.pdf
+- 翻譯文件連結：https://docs.google.com/document/d/1yrT1BKTJo2DMDhmRSWXwcBMdYS-A5yjaIQziA7vD1wg/edit?tab=t.0 
