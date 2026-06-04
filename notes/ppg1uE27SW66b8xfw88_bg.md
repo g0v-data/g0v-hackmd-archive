@@ -11,6 +11,15 @@ tags: 公民參與
 
 ## 要改什麼？民間意見蒐集
 
+
+### 體驗改善
+
+ReJOIN - 數位公共參與體驗優化
+- https://g0v.hackmd.io/R_CV5NE0Q06uf1gaaKfAKA
+- 階段探討成果影片：https://youtu.be/O5FsP8Qs6O8
+- 簡報：https://www.figma.com/deck/jVYkkzVunbDXfyZC0B5xzB
+- 問卷徵集階段 https://www.facebook.com/groups/g0v.general/posts/25783249987991397"
+
 ### 平台上的既有案件分析
 - 來附議 - 案件分析
     - 爬資料
