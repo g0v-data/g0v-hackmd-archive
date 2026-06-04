@@ -24,6 +24,8 @@ https://airtable.com/invite/l?inviteId=invRDBuYr1kkNbfTL&inviteToken=863201f08d1
     - https://www.freiheit.org/zh/taiwan/shuweicanyugongjugaiyongzaishenmeshihougaizenmetiaoxuan
 - Collection of digital tools for citizen participation, i-voting, and political parties
     - https://democracy-technologies.org/database/
+- EU civic engagement _ The use of digital tools and AI to promote citizen participation in EU policymaking
+    - https://www.europarl.europa.eu/RegData/etudes/STUD/2026/774753/EPRS_STU(2026)774753_EN.pdf
 
 ## 未來十年 Join 公共政策網路參與平臺的擴充方向，會有哪些呢？
 - 發想未來十年 Join 公共政策網路參與平臺的擴充方向：https://join.gov.tw/aboutus/index 

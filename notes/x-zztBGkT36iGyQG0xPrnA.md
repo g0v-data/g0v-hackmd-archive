@@ -28,6 +28,9 @@ tags: LLM, chatgpt
     - https://www.facebook.com/groups/pythontw/permalink/10162655948403438/
 - 需再詢問其想要的帳號圖像
     - 參考方式 https://www.facebook.com/story.php?story_fbid=pfbid029fkwqMkPdqA25ZLooSqpk1Gbs5c5gfMhyv2jrqb3XQxwp1uiZZeGohqh5q7goXyFl&id=100066394669485&mibextid=qC1gEa
+- 20260531 Google AI 想提案【租屋透明地圖 2.0】有錄製 3 分鐘提案影片哦 ~
+    - 提案影片：https://youtu.be/tf4gYP336EA
+    - 對話串 & 共筆文件：https://g0v.hackmd.io/e1mYHwVdS3yeOlYl_c0xeQ?view
 
 
 其他參考素材
