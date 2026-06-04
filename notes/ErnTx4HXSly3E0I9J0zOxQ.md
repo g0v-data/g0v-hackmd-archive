@@ -685,6 +685,19 @@ https://visual.ly/community/Infographics/environment/walkable-mixed-use-neighbor
 
 議員會勘
 
+## 資料運算類素材
+
+- 【大台北交通流量模擬】專案相關內容 https://g0v.hackmd.io/N_FPX-6tQRyBOLafqPP1wA?view
+    - A collection of Jupyter Notebooks and Python utilities to build, solve, and visualize traffic assignment models for Taipei. This repository demonstrates data preparation, network building, demand creation, and numerical solution methods (e.g., All‑or‑Nothing, Frank‑Wolfe / User Equilibrium).
+- 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐀𝐧𝐚𝐥𝐲𝐳𝐢𝐧𝐠 𝐔𝐫𝐛𝐚𝐧 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 𝐚𝐧𝐝 𝐀𝐦𝐞𝐧𝐢𝐭𝐢𝐞𝐬 𝐰𝐢𝐭𝐡 𝐎𝐒𝐌𝐧𝐱 * by 𝐆𝐞𝐨𝐟𝐟 𝐁𝐨𝐞𝐢𝐧𝐠, author of the OSMnx library
+    - OSMnx is a Python package for downloading, modeling, analyzing, and visualizing urban street networks and geospatial features from OpenStreetMap.
+    - Researchers across geography, urban planning, transport engineering, and computer science are utilizing its capabilities— with a large and growing body of scientific literature built on it.
+    - OSMNx is capable pf producing primal, directed, weighted multigraphs that accurately reflect real-world network complexity, with automated spatial extent definition and built-in simplification to minimize perimeter artifacts.
+    - Why its really helpful - it liminates dozens of ad hoc modeling decisions per project, improving reproducibility and lowering the barrier to rigorous urban network analysis.
+    - 𝐃𝐞𝐭𝐚𝐢𝐥𝐬: https://arxiv.org/pdf/2505.00736
+    - https://www.facebook.com/groups/2259010795/posts/10162830738785796
+
+
 ## 特定街區探討列舉
 
 ### 臺北市捷運淡水線兩側街區【基隆河-市民大道-承德路-中山北路】
