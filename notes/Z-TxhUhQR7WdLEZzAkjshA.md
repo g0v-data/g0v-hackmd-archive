@@ -43,4 +43,6 @@ https://www.toolskk.com/webcam-mic-test
 產生二維碼：https://qr.ioi.tw/zh/
 
 #### Zoom(停用)
+https://meet.google.com/uvw-apht-fhb
+![](https://g0v.hackmd.io/_uploads/S10YnrCgMe.png)
 
