@@ -1,0 +1,2 @@
+<h1>Print Doors</h1>
+<p><span style="font-weight: 400;">Shop the ultimate collection of premium custom <a title="men's t-shirts" href="https://www.printdoors.com/products/category/men_s_t_shirt"><strong>men's t-shirts</strong></a> featuring comfortable fits and vibrant print-on-demand graphic designs.</span></p>
