@@ -30,7 +30,9 @@ tags: 防災, 災害, architecture
 - 名稱發想：
     - 2025 災害復原相關中繼居住與社區重建資料搜集
     - 2015 心家園 - 臨時住宅與永久屋，建築設計與社區規劃的開放資料庫
-- 20150613 野百合大松 3mins 簡報：[https://goo.gl/pQvM0A](https://goo.gl/pQvM0A)
+- 20150613 野百合大松 
+    - 簡報：https://goo.gl/pQvM0A
+    - 提案影片：https://youtu.be/knTsXgZSe3s?si=SwcVUMy42Z42nAut&t=34
 - 工作頻道：g0v Slack #心家園
     - 加入方式：https://g0v.hackmd.io/@jothon/joing0vslack
 
