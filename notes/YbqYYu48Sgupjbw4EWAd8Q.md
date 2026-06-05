@@ -13,6 +13,7 @@ tags: GIS
 - 案例照片請見相簿
 - https://www.facebook.com/media/set/?set=oa.957713371526775&type=3
 - https://photos.app.goo.gl/AtkNoAMs5e2jGrmt5
+- https://www.facebook.com/share/r/1D21sweD4e/
 
 負面影響列舉整理
 - 鞭炮擺放位置，造成公共環境髒汙
