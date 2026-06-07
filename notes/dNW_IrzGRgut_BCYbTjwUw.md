@@ -88,7 +88,7 @@ https://g0v.hackmd.io/@cofacts/meetings/https%3A%2F%2Fg0v.hackmd.io%2FhNNxb6m5Qy
 	> 比鄰敬上
     - [x] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
         - 增加 cofacts.ai 介紹
-	- [ ] 準備 Slido `#cofacts`
+	- [x] 準備 Slido `#cofacts`
 - 當日準備 / 攜帶
     - [ ] 樓下用的標語 - bil
     - [ ] **拍照用大布條** - bil
@@ -104,7 +104,7 @@ https://g0v.hackmd.io/@cofacts/meetings/https%3A%2F%2Fg0v.hackmd.io%2FhNNxb6m5Qy
     - [ ] Wifi 機 - mrorz
         - [ ] rt-ax57 go
         - [ ] 電源線
-    - [ ] 多帶一條 type-c 公公線 for dongle 的電
+    - [x] 多帶一條 type-c 公公線 for dongle 的電
     - [ ] 備用 wifi 機 [name=nonumpa]
 - 13:00 - 場佈 
   - [ ] 簽到（問飲料）
