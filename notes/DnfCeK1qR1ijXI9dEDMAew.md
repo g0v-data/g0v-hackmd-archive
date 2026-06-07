@@ -109,6 +109,12 @@ Kate
 這是群體的交流關係，只要越多人發現很多事情不如他們過去所想、需要提高警覺，這個群體會讓越多人接觸
 我們自己在查訊息的時候，也在自己學著判斷與思考，這是自己的過程
 
+> reference
+> ✅ 2026 V-Dem 報告 PDF 已讀完（5117 行純文字），全文沒有「台灣假訊息冠軍」這種排名
+✅ 真正來源是 V-Dem / [Digital Society Project](https://www.digitalsocietyproject.org/) 的 [v2smfordom](https://www.v-dem.net/documents/70/codebook_v16.pdf) 指標，不在年度 Democracy Report 正文
+✅ 數字本身可被驗證：台灣 2013–2023 在該 indicator 連續 11 年排名最嚴重
+✅ 中文新聞最早出處（[自由時報 2024-03-25](https://news.ltn.com.tw/news/life/paper/1637451) + 王奕婷分析）
+
 Nei
 在 NGO 工作
 假訊息的部分會用 Cofacts 去查，有美玉姨之後直接放家族群組
@@ -140,6 +146,22 @@ Wilson
 有些人把美玉姨加入會 refer 回 cofacts，但做這麼多事情，感覺像是你丟我撿，大家一直丟資訊，不丟就不需要查、丟出來是正確的就不用查，源頭在丟
 丟的責任在哪裡？丟沒有責任，沒有承擔製造假訊息的責任，能不能跳出查證方法，對假訊息要有法律責任等的。
 
+Eric
+常常在 reddit 看每個版都有 moderator 判斷新聞來源可不可信
+看到的時候就在想說怎麼確定是可信的
+平常在家裡也會看到家人傳假訊息，例如台灣是致癌機率最高，google 發現根本就不是，但還是有人傳
+想看怎麼理解跟防
+AI 崛起，製作假訊息(影片、照片)也越來越強，原本覺得是鐵證的東西現在也很難再相信
+但查證也方便，丟進 AI 也很快，無論製造和防範兩邊都有升級，覺得來了解工具並使用會是越來越重要的技能
 
 
 
+
+
+
+![](https://g0v.hackmd.io/_uploads/H1e_PPjfZze.jpg)
+![](https://g0v.hackmd.io/_uploads/ry_vvjzWfg.jpg)
+![](https://g0v.hackmd.io/_uploads/SJz_wDoz-fe.jpg)
+16:00 雨停
+
+講事實陳述
