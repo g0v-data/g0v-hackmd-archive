@@ -107,8 +107,8 @@ https://g0v.hackmd.io/@cofacts/meetings/https%3A%2F%2Fg0v.hackmd.io%2FhNNxb6m5Qy
     - [x] 多帶一條 type-c 公公線 for dongle 的電
     - [ ] 備用 wifi 機 [name=nonumpa]
 - 13:00 - 場佈 
-  - [ ] 簽到（問飲料）
-  - [ ] 排桌子椅子 
+  - [x] 簽到（問飲料）
+  - [x] 排桌子椅子 
   - [ ] 投影位置？
   - [ ] 麥克風
   - [ ] 延長線佈置
@@ -121,10 +121,10 @@ https://g0v.hackmd.io/@cofacts/meetings/https%3A%2F%2Fg0v.hackmd.io%2FhNNxb6m5Qy
     - [ ] Google Chrome tab: [Bignum](https://cofacts.github.io/community-builder/#/bignum/setup)
 - [ ] browser tabs
     - [ ] Google Chrome tab: [KKTIX](https://cofacts.kktix.cc/events/cofactseditor53)
-    - [ ] Google Chrome tab: [Slido admin](https://admin.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/polls)
-    - [ ] Google Chrome tab: [Slido](https://wall.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/?section=215e56d0-a002-4b7e-9bf0-c58acbacc9bf)
-    - [ ] Google Chrome tab: [開場影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs)
-    - [ ] BGM
+    - [x] Google Chrome tab: [Slido admin](https://admin.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/polls)
+    - [x] Google Chrome tab: [Slido](https://wall.sli.do/event/rFQZd27cVvgEMyJAgv4BqT/?section=215e56d0-a002-4b7e-9bf0-c58acbacc9bf)
+    - [x] Google Chrome tab: [開場影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs)
+    - [x] BGM
     - [ ] Analytics
 - 14:00 - 14:20 開場
     - 放[長影片](https://www.youtube.com/playlist?list=PLz8KCDL90tNWn16J2xBzl53imUiDbNOzs) 8min
