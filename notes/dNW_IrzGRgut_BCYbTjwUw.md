@@ -24,7 +24,7 @@
 
 
 - https://github.com/cofacts/ai/issues/39
-- [ ] 處理多媒體 articles
+- [x] 處理多媒體 articles
   - [Issue #70: Handle multimedia articles in cofacts.ai](https://github.com/cofacts/ai/issues/70)
   - [PR #72: feat(adk): multimodal support for non-TEXT Cofacts articles](https://github.com/cofacts/ai/pull/72)
   - [PR #73: fix: forward user JWT to rumors-api so attachmentUrl is non-null for video/audio](https://github.com/cofacts/ai/pull/73)
@@ -65,7 +65,7 @@ https://g0v.hackmd.io/@cofacts/meetings/https%3A%2F%2Fg0v.hackmd.io%2FhNNxb6m5Qy
         - 拿掉前面的謠言，開門見山
         - 換成中午 12:30
 - 週六早上
-    - [ ] KKTIX 行前通知：提醒時間、使用電腦而非手機
+    - [x] KKTIX 行前通知：提醒時間、使用電腦而非手機
   > Hello 你好，
 	>
 	> 本週日就是 6 月 7 日查核志工培訓囉！
@@ -86,7 +86,7 @@ https://g0v.hackmd.io/@cofacts/meetings/https%3A%2F%2Fg0v.hackmd.io%2FhNNxb6m5Qy
 	> 那麼明天見囉😊
 	>
 	> 比鄰敬上
-    - [ ] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
+    - [x] 開場使用材料更新：https://docs.google.com/presentation/d/1N9DxoN1NuxdtQILkcV67y_q8EM8CJF5GhoYLcCKFpAc/edit [name=mrorz]
         - 增加 cofacts.ai 介紹
 	- [ ] 準備 Slido `#cofacts`
 - 當日準備 / 攜帶
