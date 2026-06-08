@@ -56,6 +56,9 @@ RESAS 地域経済分析システム（Regional Economy Society Analyzing System
 https://resas.go.jp/
 https://www.gyoseiq.co.jp/institute/login.php
 
+日本國土地理院公開「3D 地圖視覺化網站」原始碼，該網站採用開源的 MapLibre GL JS 開發，並以 BSD-2-Clause 授權條款釋出。使用者可透過網頁瀏覽器，直接介接「日本全國 3D 電子國土基本圖」資料服務，並以三維立體方式呈現建物、道路、鐵路等地理空間資訊。由於原始碼已上架至 GitHub，同時提供軟體應用服務及軟體開放服務。
+https://gsi-cyberjapan.github.io/gsi-3d-2025/
+
 ---
 
 ## Topic / Area
