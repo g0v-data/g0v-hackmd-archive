@@ -76,5 +76,4 @@
 * **線上產生二維碼 (QR Code)：** [https://qr.ioi.tw/zh/](https://qr.ioi.tw/zh/)
 
 #### ❌ Zoom (本服務已停用)
-* ~~https://meet.google.com/uvw-apht-fhb~~
-* **參考圖片：** ![](https://g0v.hackmd.io/_uploads/S10YnrCgMe.png)
+![]
