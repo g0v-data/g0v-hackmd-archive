@@ -15,7 +15,7 @@
 內訓專用：https://meet.google.com/vhj-bhpw-rqo 
 對外1：https://meet.google.com/hex-matt-vcc
 資訊部：https://meet.google.com/dub-xgzx-vwn
-Google Meet官網：https://meet.google.com
+Google Meet官網：https://meet.google.com/landing
 **停用/展頌公用會議：https://meet.google.com/znp-xmiy-hyj
 
 #### Microsoft Teams(備用1)
