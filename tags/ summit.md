@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [roundtable_ discussion on Off-the-grid network](../notes/Yn6DMTl3S_2fqU4nG5J5BA.md) | 2026-06-08T11:58:30+00:00 | 2026-04-30T06:00:14+00:00 |
+| 1 | [roundtable_ discussion on Off-the-grid network](../notes/Yn6DMTl3S_2fqU4nG5J5BA.md) | 2026-06-08T12:39:04+00:00 | 2026-04-30T06:00:14+00:00 |
 | 2 | [議程：講個海外台灣人倡議社群的運作秘訣：g0v 灣區、g0v 美東、數位外交](../notes/vmNJLUb5QviuDLC2zngHXQ.md) | 2026-05-24T00:50:11+00:00 | 2026-04-28T15:36:10+00:00 |
 | 3 | [03/28 SITCON](../notes/KZVvYOn3TIyMInZI0jrwbg.md) | 2026-04-01T11:33:50+00:00 | 2026-03-28T00:07:45+00:00 |
 | 4 | [場務組主文件](../notes/uTYbn5OoTIui9LtOdU9zzQ.md) | 2025-11-01T10:44:07+00:00 | 2025-08-26T02:24:50+00:00 |
