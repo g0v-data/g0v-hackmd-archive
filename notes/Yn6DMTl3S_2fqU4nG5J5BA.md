@@ -1,5 +1,5 @@
 ---
-title: roundtable: discussion on Off-the-grid network 
+title: roundtable_ discussion on Off-the-grid network 
 tags: summit2026, program, programming, summit, 議程
 ---
 # roundtable: discussion on Off-the-grid network 
@@ -12,16 +12,80 @@ tags: summit2026, program, programming, summit, 議程
 
 # what should we prepare to get islander interconnected within the island
 
+## case study
+- [dComms working in Ukraine](https://drive.google.com/file/d/1Kf45_w129YS3GOH7H_hPnFn-o1cOOsyC/view)
+
 ## two aspects
 - user side
+
 - server side
     - Network Time Protocol server
     - TLS cert
-        - TWCA might midigate
+        - TWCA might midigate the issue
     - ccTLD (.tw)
     - DNS resolvers
-- Can ActivityPub help?
-- ![](https://g0v.hackmd.io/_uploads/r1RwkQNZze.png)
+    - CDN edges
+    - Package mirrors / registries: security patches may not be available when global internet is gone, attackers may exploit this
+    - auth
+        - single sign on (e.g. google, line, facebook)
+    - recaptcha
+    - mobile push notifications 
+    - public cloud 
+    - security update 
+
+- Can ActivityPub help? (from the perspective of g0v.social admin)
+    - ![](https://g0v.hackmd.io/_uploads/r1RwkQNZze.png)
+    - multiple layers act as foundation: DNS, physical cables, etc
+
+- are activitypub or matrix depend on dns
+    - yes
+    - domains that are not .tw based would not be resolved when undersea cable are severed.
+        - e.g. g0v.social
+        - neet to talk with TWNIC people for record expiry
+    - let's encrypt let people have CA on ip address
+    - maybe use a failover on dns resolver that is somehow controlled by gover't(e.g. HINET)
+
+- Network environment in Ukraine under war
+    - Internet may be down for days during shelling
+    - Internet may be (forced) routed through Russia
+
+- place the server inside the island or outside?
+    - when the outage happen, is that ideal for us to put the server inside the warzone?
+    - depend on the threat model and what's the hypothesis
+    - dComms service distribution
+        - instances around the city
+        - each is localized, citizens signup within city
+        - each city got their own instance
+        - based on mesh vpn tech
+            - like between Kiev and Kherson, since ap doesn't do routing
+            - lighthouse
+            - [yggdrasil network](https://yggdrasil-network.github.io/)
+            - tinc
+
+- city-wise communication seems feasible; but for people hosting services it's another problem to solve
+
+- connection between two city is served
+    - how to reroute: be creative, utilize as much resource as possible (e.g. computer center in university)
+
+- what's the content people is posting on dComm services?
+    - chatting
+    - family posts
+    - alert channels about bombing info
+
+- recently installing PeerTube, contents:
+    - tech tuturials
+    - politicial contents
+
+- Impression of using Matrix: slow, huge in size, has that changed?
+    - It depends
+    - server of matrix: maybe they resolved the issue if you run on a newer machine
+    - is IRC/SMTP a better option to Matrix?
+        - Matrix's UX is superior to end-users
+        - and they got video calling
+
+- human organization on maintaining the service
+    - coops/company/org ?
+
 
 
 
