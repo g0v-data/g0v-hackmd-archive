@@ -2,9 +2,54 @@
 tags: 防災, 災害, architecture
 ---
 
-# 災害復原相關中繼居住與社區重建資料搜集
+# 災害復原相關中繼居住與社區重建資料蒐集建檔
 
-待整理素材
+:::success
+文件目錄
+[TOC]
+:::
+
+## 為什麼需要這個資料庫？
+
+- 說明：災害復原相關中繼居住與社區重建資料蒐集建檔，如各種建築設計，體現部落家屋生活習慣、家庭成員模式、集居社區公共空間、臨時生活商店街的規劃、營造經費材料細節等等，以利災時運用，以及災前演練重建情境。
+- 名稱發想：
+    - 2025 災害復原相關中繼居住與社區重建資料蒐集建檔
+    - 2015 心家園 - 臨時住宅與永久屋，建築設計與社區規劃的開放資料庫
+- 提案影片
+    - 20150613 野百合大松，簡報：https://goo.gl/pQvM0A；提案影片：https://youtu.be/knTsXgZSe3s?si=SwcVUMy42Z42nAut&t=34
+- 工作頻道：g0v Slack #心家園-災害復原重建
+    - 加入方式：https://g0v.hackmd.io/@jothon/joing0vslack
+
+## TODOs
+
+- 蒐集資料
+    - 訂定欄位
+        - 該如何訂出相關欄位、多重屬性
+        - 欄位列舉
+            - 空間形態：
+                - 新搭設的臨時住宅或組合屋
+                - 既有空間轉作為的臨時住宅或收容空間
+                - 現地重建的永久屋
+                - 異地重建的永久屋
+            - 災害事件：
+            - 時間：
+            - 地點：
+            - 組織：部落、大樓管理委員會、學校
+        - 參考其他資料領域的欄位
+            - 災害資料
+            - 建築與空間規劃資料
+            - 地理位置的描述方法
+            - 組織
+- 工具評估
+    - Airtable https://g0v.hackmd.io/@chewei/km
+- Tag 系統 / 資料使用情境
+    - 搜尋是否有既有的建築物規格系統，可以用來描述臨時與重建建築
+    - 透過工作坊討論資料運用情境
+
+
+## 資料
+
+### 待整理素材筆記區
 - https://g0v.github.io/lysayit/speech.html?id=LCIDC01_1116401_00006#line-416
 - 2025 馬太鞍部落復原重建倡議 https://g0v.hackmd.io/i3H7DBfgTM27eFHLhjsA1A?view 
     - 阿美族家屋 https://www.facebook.com/ioeacademiasinica/posts/pfbid032eTGSyXz2s88o7a9PdAXV3a5UDZ6wNxegS7MXgeBjxiTkgR6qCa6o1FrXH3Ztucwl?locale=zh_TW
@@ -22,50 +67,9 @@ tags: 防災, 災害, architecture
     - 強制移住
 - [較耗時] 對照 hackpad 內容，把這邊沒有的內容搬到 hackmd https://g0v.hackpad.tw/jEoiuMS44dD
 
----
-
-## 為什麼需要這個資料庫？
-
-- 說明：災害復原相關中繼居住與社區重建資料搜集，如各種建築設計，體現部落家屋生活習慣、家庭成員模式、集居社區公共空間、臨時生活商店街的規劃、營造經費材料細節等等，以利災時運用，以及災前演練重建情境。
-- 名稱發想：
-    - 2025 災害復原相關中繼居住與社區重建資料搜集
-    - 2015 心家園 - 臨時住宅與永久屋，建築設計與社區規劃的開放資料庫
-- 20150613 野百合大松 
-    - 簡報：https://goo.gl/pQvM0A
-    - 提案影片：https://youtu.be/knTsXgZSe3s?si=SwcVUMy42Z42nAut&t=34
-- 工作頻道：g0v Slack #心家園
-    - 加入方式：https://g0v.hackmd.io/@jothon/joing0vslack
-
-## TODOs
-
-- 蒐集資料
-    - 使用 googlespreadsheet
-        - 該如何訂出相關欄位、多重屬性
-        - 欄位列舉
-            - 空間形態：
-                - 新搭設的臨時住宅或組合屋
-                - 既有空間轉作為的臨時住宅或收容空間
-                - 現地重建的永久屋
-                - 異地重建的永久屋
-            - 災害事件：
-            - 時間：
-            - 地點：
-            - 組織：部落、大樓管理委員會、學校
-        - 參考其他資料領域的欄位
-            - 災害資料
-            - 建築與空間規劃資料
-            - 地理位置的描述方法
-            - 組織
-- Tag 系統 / 資料使用情境
-    - 搜尋是否有既有的建築物規格系統，可以用來描述臨時與重建建築
-    - 透過工作坊討論資料運用情境
-
-
-## 資料
-
 ### 各種面向的資料蒐集
 
-1.  ==蒐集實際設計案例，回顧過往災害中的臨時住宅、永久屋相關設計與規劃圖資==
+蒐集實際設計案例，回顧過往災害中的臨時住宅、永久屋相關設計與規劃圖資
 - (一) 以「地區/部落組織」來分類
     - [【回家】窩居組合屋14年 哈凱終於等到自己的家](http://pnn.pts.org.tw/main/2015/09/20/%E3%80%90%E5%9B%9E%E5%AE%B6%E3%80%91%E7%AA%A9%E5%B1%85%E7%B5%84%E5%90%88%E5%B1%8B14%E5%B9%B4-%E5%93%88%E5%87%B1%E7%B5%82%E6%96%BC%E7%AD%89%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AE%B6/?utm_campaign=shareaholic&utm_medium=facebook&utm_source=socialnetwork)
     - 溪洲部落 [https://www.facebook.com/ShijouCommunity/posts/778104462311520](https://www.facebook.com/ShijouCommunity/posts/778104462311520)
@@ -185,35 +189,41 @@ tags: 防災, 災害, architecture
         2.  \[中繼屋\]
         3.  \[永久屋\] 現地重建：
         4.  \[永久屋\] 異地重建：
-2.  ==情境揣摩的設計成果==
-    1.  各空間相關科系的相關專題、畢業設計成果、工作坊等等成果的蒐集
-        - [開放式建築應用於災後重建之可行性－以莫拉克風災永久屋重建為例](http://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22101NHU05356025%22.&searchmode=basic)
-        - [災後安置建築之永續性分析-實例設計驗證](http://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22099NUK05347009%22.&searchmode=basic)
-        - [救難與建築](http://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=x7Fphn/record?r1=1&h1=2) (針對屏東縣林邊鄉救難系統)
-        - [https://www.facebook.com/amordubussy/videos/524541861064544/](https://www.facebook.com/amordubussy/videos/524541861064544/)
-    2.  考量新的災害情景，但無相關設計應對內容，進行預先設計與使用者參與所產生的成果
-        1.  ex 東京居民參與的**災前重建計畫**之推動，地域協働復興模擬訓練
-            - [http://www.bousai.metro.tokyo.jp/taisa](http://www.bousai.metro.tokyo.jp/taisa)[…/1000216/1000405.html](http://www.bousai.metro.tokyo.jp/taisaku/1000216/1000405.html)
-            - 說明：一旦災難發生，復原重建將涉及許多事務，所以，日本開始推動於災難發生前，模擬復原重建的情境，並提出一些軟硬體方案（貸款、共有財產如何處理、土地與建築配置...）
-        2.  [大規模震災災前都市重建計劃之規劃](http://www.abri.gov.tw/utcPageBox/CHIPRO.aspx?ddsPageID=CHIPIA&IdNo=990201) 台灣
+
+
+情境揣摩的設計成果
+1.  各空間相關科系的相關專題、畢業設計成果、工作坊等等成果的蒐集
+- [開放式建築應用於災後重建之可行性－以莫拉克風災永久屋重建為例](http://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22101NHU05356025%22.&searchmode=basic)
+- [災後安置建築之永續性分析-實例設計驗證](http://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22099NUK05347009%22.&searchmode=basic)
+- [救難與建築](http://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=x7Fphn/record?r1=1&h1=2) (針對屏東縣林邊鄉救難系統)
+- [https://www.facebook.com/amordubussy/videos/524541861064544/](https://www.facebook.com/amordubussy/videos/524541861064544/)
+
+2.  考量新的災害情景，但無相關設計應對內容，進行預先設計與使用者參與所產生的成果
+- 說明：一旦災難發生，復原重建將涉及許多事務，所以，日本開始推動於災難發生前，模擬復原重建的情境，並提出一些軟硬體方案（貸款、共有財產如何處理、土地與建築配置...）
+- [大規模震災災前都市重建計劃之規劃](http://www.abri.gov.tw/utcPageBox/CHIPRO.aspx?ddsPageID=CHIPIA&IdNo=990201) 
+- 東京居民參與的**災前重建計畫**之推動，地域協働復興模擬訓練
+    - http://www.bousai.metro.tokyo.jp/taisaku/1000216/1000405.html
+
+
 3.  「使用者經驗」的資料，既有的臨時住宅設計與使用經驗訪談資料
-    1.  各類學門研究者的臨時住宅居住者訪談成果，可能是散落在不同的研究報告中
-    2.  那年風災撤村，我爺爺躲在三樓怎樣就是不肯下來 [http://www.pure-taiwan.info/2015/09/choice-between-action-and-self-identification](http://www.pure-taiwan.info/2015/09/choice-between-action-and-self-identification)
-    3.  陳儀深《九二一震災口述訪問紀錄（上、下）》
+- 各類學門研究者的臨時住宅居住者訪談成果，可能是散落在不同的研究報告中
+- 那年風災撤村，我爺爺躲在三樓怎樣就是不肯下來 [http://www.pure-taiwan.info/2015/09/choice-between-action-and-self-identification](http://www.pure-taiwan.info/2015/09/choice-between-action-and-self-identification)
+- 陳儀深《九二一震災口述訪問紀錄（上、下）》
+
 4.  「國外經驗」
-    - 例如日本、中國、紐西蘭...
-    - 二戰後美聯社拍攝日本皇居旁臨時組合屋的影像
-        - [https://www.facebook.com/photo.php?fbid=10155215968303618&set=a.10153946644273618.1073741850.747873617&type=3&theater&comment\_id=10155550079978618&notif\_t=like&notif_id=1502408584787953](https://www.facebook.com/photo.php?fbid=10155215968303618&set=a.10153946644273618.1073741850.747873617&type=3&theater&comment_id=10155550079978618&notif_t=like&notif_id=1502408584787953)
-    - 中國雲南和四川的貧困山區改造危房 [https://www.facebook.com/yitiaotv/videos/697319413787149/](https://www.facebook.com/yitiaotv/videos/697319413787149/)
-    - Refugee Housing Unit [http://worlddesignimpact.org/projects/project2013/32/](http://worlddesignimpact.org/projects/project2013/32/)
-    - 坂茂
-    - 尼泊尔-西藏地震全球建筑师灾后重建设计方案紧急援助活动 [https://www.facebook.com/haidong.ma/posts/10206628468454053](https://www.facebook.com/haidong.ma/posts/10206628468454053)
-    - 尼泊爾地震後重建行動-資源募集邀請 [https://www.facebook.com/events/1445922629057972/](https://www.facebook.com/events/1445922629057972/)
-    - In 2005 Hurricanes Katrina and Rita displaced over a million Gulf Coast residents, who were then provided with FEMA trailers for housing.  What's often not talked about is the formaldehyde toxicity of these trailers and where they are now, ten years later.
-    - Follow Public Lab Fellow Nick Shapiro's search for the remaining FEMA trailers:  a story of disaster housing perpetuating more disasters across the country, the (now busted) oil boom, and [#WhereWeBreathe](https://g0v.hackpad.tw/ep/search/?q=%23WhereWeBreathe&via=jEoiuMS44dD).
-    - Ten years ago Hurricanes Katrina and Rita tore into the Gulf Coast and displaced over a million residents. For many of these people, trailers provided by the Federal Emergency Management Agency became their homes. [https://vimeo.com/137439033](https://vimeo.com/137439033)
-    - IKEA [https://www.facebook.com/techinsider/videos/674917659373260/](https://www.facebook.com/techinsider/videos/674917659373260/)
-    - New Orleans L9W [https://divisare.com/projects/62874-mvrdv-new-orleans-l9w](https://divisare.com/projects/62874-mvrdv-new-orleans-l9w)
+- 例如日本、中國、紐西蘭...
+- 二戰後美聯社拍攝日本皇居旁臨時組合屋的影像
+    - [https://www.facebook.com/photo.php?fbid=10155215968303618&set=a.10153946644273618.1073741850.747873617&type=3&theater&comment\_id=10155550079978618&notif\_t=like&notif_id=1502408584787953](https://www.facebook.com/photo.php?fbid=10155215968303618&set=a.10153946644273618.1073741850.747873617&type=3&theater&comment_id=10155550079978618&notif_t=like&notif_id=1502408584787953)
+- 中國雲南和四川的貧困山區改造危房 [https://www.facebook.com/yitiaotv/videos/697319413787149/](https://www.facebook.com/yitiaotv/videos/697319413787149/)
+- Refugee Housing Unit [http://worlddesignimpact.org/projects/project2013/32/](http://worlddesignimpact.org/projects/project2013/32/)
+- 坂茂
+- 尼泊尔-西藏地震全球建筑师灾后重建设计方案紧急援助活动 [https://www.facebook.com/haidong.ma/posts/10206628468454053](https://www.facebook.com/haidong.ma/posts/10206628468454053)
+- 尼泊爾地震後重建行動-資源募集邀請 [https://www.facebook.com/events/1445922629057972/](https://www.facebook.com/events/1445922629057972/)
+- In 2005 Hurricanes Katrina and Rita displaced over a million Gulf Coast residents, who were then provided with FEMA trailers for housing.  What's often not talked about is the formaldehyde toxicity of these trailers and where they are now, ten years later.
+- Follow Public Lab Fellow Nick Shapiro's search for the remaining FEMA trailers:  a story of disaster housing perpetuating more disasters across the country, the (now busted) oil boom, and [#WhereWeBreathe](https://g0v.hackpad.tw/ep/search/?q=%23WhereWeBreathe&via=jEoiuMS44dD).
+- Ten years ago Hurricanes Katrina and Rita tore into the Gulf Coast and displaced over a million residents. For many of these people, trailers provided by the Federal Emergency Management Agency became their homes. [https://vimeo.com/137439033](https://vimeo.com/137439033)
+- IKEA [https://www.facebook.com/techinsider/videos/674917659373260/](https://www.facebook.com/techinsider/videos/674917659373260/)
+- New Orleans L9W [https://divisare.com/projects/62874-mvrdv-new-orleans-l9w](https://divisare.com/projects/62874-mvrdv-new-orleans-l9w)
 
 ### 關於資料格式與授權
 
@@ -276,7 +286,6 @@ CrowdSourcing 的流程
     - 如果是現地重建的情境...
 - 結合建築使用權評估模式
     - 例如：公共出租、民間自主房屋合作社、受災戶優先購買、管委會所有權人共同重建...等等現有體制的方案
-
 
 ## 透過資料梳理所歸納的「臨時住宅與永久屋」議題蒐集 / 文獻蒐集
 

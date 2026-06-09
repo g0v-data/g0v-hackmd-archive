@@ -118,12 +118,18 @@ https://pretalx.coscup.org/coscup-2026/talk/review/PKWSB3RSZPPGSVCNKNCZX3DNBCRZL
 ## 小聚檢討
 
 https://g0v.hackmd.io/DnfCeK1qR1ijXI9dEDMAew
+- 報到率超高（幾乎都來了）
+- 天氣
+- 推播開門見山，避開開頭謠言：志工、免費、工作坊、參加
 - ![](https://g0v.hackmd.io/_uploads/B1eboaKHWGe.png)
 - 新桌椅擺放方式很棒 https://docs.google.com/drawings/d/1Xho1b6JtMrlBsJ5UGCDvcK6phxXnPLznj-pz7xQEG4g/edit ![](https://docs.google.com/drawings/d/e/2PACX-1vT4JtlvPFdcg5NLMZFmvFWIVvjIJ4jjOtJaH26-zR8fsHxYO-1bhY1PG-jDXBMmtJDJKB9sGIfePKYq/pub?w=943&h=652)
     - 未來要求不要開電視牆、使用投影機
     - 樓下的鐵桌很重，邊緣銳利
 - 新教材 w/ cofacts.ai
-- 樓下插座被封起來了
+- 樓下插座被封起來了，不希望我們用更多電
+- 需要更多時間佈置
+- wifi 不給力，需要 travel router 接 5G
+    - 也有人用自己的
 
 
 # 週會彙整：2026/6/2 – 6/9 使用狀況、Feedback 與 Prompt 迭代
@@ -212,7 +218,7 @@ https://g0v.hackmd.io/DnfCeK1qR1ijXI9dEDMAew
 - ✅ **出處精準（×3 好評）**：Theme 1 的 grounding 改革成效明確，可作為本週亮點。
 
 
-# 2026/06/02 – 06/08 生產環境週報
+# 2026/06/02 – 06/08 Production 環境週報
 
 ---
 
