@@ -67,7 +67,7 @@
 </p>
 <p>
 <span style="background-color:transparent;color:#333333;">Xem thêm:&nbsp;</span>
-<a href="https://www.ttlxshipping.com/forum/topic/475541/top-diem-den-trong-tour-nha-trang-do-phe-travel-de-xuat">
+<a href="https://www.navacool.com/forum/topic/475553/phe-travel-chia-se-kinh-nghi%C3%AAm-di-tour-nha-trang-tr%C3%B2n-ven-nh%E1%BA%A5t">
 <span style="background-color:transparent;color:#1155cc;">
 <u>PHÊ TRAVEL Review Tour Nha Trang Chi Tiết&nbsp;</u>
 </span>

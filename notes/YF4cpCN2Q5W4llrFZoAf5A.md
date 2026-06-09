@@ -2,7 +2,7 @@
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：
+- NPO Hub 出席：bil, mrorz
 - 線上出席：
 - https://meet.google.com/mrz-dgrd-pri
 :::
@@ -46,16 +46,23 @@
 
 ## Cofacts.ai
 
+> https://github.com/orgs/cofacts/projects/12/
+
 ![](https://g0v.hackmd.io/_uploads/SyW0e_HWfe.png)
 
 - 兩天 AI 使用較多，一天 6USD
 - 可再觀察用量
 
 ### 人事
-- scientist
+- Scientist
 - 資料建置工作小組
 
+
+
+
 ## COSCUP
+
+https://pretalx.coscup.org/coscup-2026/talk/review/PKWSB3RSZPPGSVCNKNCZX3DNBCRZLCGV
 
 
 
@@ -63,7 +70,7 @@
 
 https://g0v.hackmd.io/DnfCeK1qR1ijXI9dEDMAew
 
-- 新桌椅擺放方式很棒
+- 新桌椅擺放方式很棒 https://docs.google.com/drawings/d/1Xho1b6JtMrlBsJ5UGCDvcK6phxXnPLznj-pz7xQEG4g/edit ![](https://docs.google.com/drawings/d/e/2PACX-1vT4JtlvPFdcg5NLMZFmvFWIVvjIJ4jjOtJaH26-zR8fsHxYO-1bhY1PG-jDXBMmtJDJKB9sGIfePKYq/pub?w=943&h=652)
 - 新教材 w/ cofacts.ai
 
 
