@@ -118,6 +118,8 @@ tags: GIS,
 2025/02/13 - [環境部 部長彭啓明與台南市政府環境保護局 局長 許仁澤 podcast 討論](https://www.moenv.gov.tw/page/C4405EE8E0558CFC/f5ddd3f8-1725-4d36-9d52-19aa86dfe668), [逐字](https://hackmd.io/@kiang/HJF5-wT5Je)
 2025/03/24 - [郭再欽聲請解除扣押之命令遭駁回](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TNDM,114%2c%e8%81%b2%2c53%2c20250324%2c1)
 2026/03/10 [法院辯論終結，預定6月底宣判](https://udn.com/news/story/7321/9371112)
+2026/06/07 [江明宗發現學甲大灣段農地被堆置事業廢棄物](https://www.youtube.com/watch?v=4mFvfG54pEg)
+2026/06/08 [蔡育輝質詢後續處置](https://www.youtube.com/watch?v=Th6LLuLaGEg)
 
 其他參考資料
 20190624 李新進里長陳情書

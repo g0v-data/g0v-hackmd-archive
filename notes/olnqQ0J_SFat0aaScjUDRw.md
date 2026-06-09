@@ -233,9 +233,8 @@ tags: 防災, 災害, architecture
 資料授權議題
 1.  建築設計與規劃圖資，是否為受委託的建築單位的著作？
     1.  這部分的授權條款，如何提供給私部門做參考呢？創用 cc 嗎？
-    2.  建築師著作權
-        1.  [https://www.facebook.com/groups/368972756282/permalink/10153057112171283/](https://www.facebook.com/groups/368972756282/permalink/10153057112171283/)
-    3.  [https://www.facebook.com/ngseksan/posts/10155320142398650](https://www.facebook.com/ngseksan/posts/10155320142398650)
+    2.  建築師著作權 https://www.facebook.com/groups/368972756282/permalink/10153057112171283/
+    3.  https://www.facebook.com/ngseksan/posts/10155320142398650
 2.  政府出版品
 3.  研究者的研究成果
 
@@ -311,6 +310,7 @@ CrowdSourcing 的流程
 - 因地層下陷而遷移
 - 陳振川報告表示，政府編列重建預算1385.46億元，其中特別預算為1165.08億元，依計畫分為建設基礎、家園重建及產業重建用途。主要計畫包括興建永久屋、校園重建、永續社區、水利設施、公路橋梁、水土保持等。（[新聞](http://www.epochtimes.com/b5/11/8/8/n3338104.htm%E8%8E%AB%E6%8B%89%E5%85%8B2%E9%80%B1%E5%B9%B4--%E5%8F%B0%E6%B0%B8%E4%B9%85%E5%B1%8B%E5%AE%8C%E5%B7%A59%E6%88%90.html#sthash.6n2QXJYZ.dpuf)）
 - 基礎建設復建部分，重建會說，太麻里溪流域堤防及農田復建等工程在積極控管下成果斐然，目前協助填復流失農地、堤防工程發包施工率達95%，年底前可全部發包施工。重建會表示，農田復建依測量成果趕辦農水路設計，也都掌握非汛期黃金施工期全力趕工，堤防及農田應可在明年汛期前達到防洪保護標準及全部復耕標準。（[新聞](http://www.epochtimes.com/b5/10/11/30/n3099893.htm#sthash.RSUseE3o.dpuf)）
+- https://www.facebook.com/AFIREislands/posts/pfbid0GRLbv3rKkLe8JFp3SvZGVrDE1hdFL3ViggzT6iTK2xK1VTRYWg2Jv3rGaDWeVGqgl
 
 ## 基本設定討論
 
@@ -320,11 +320,10 @@ CrowdSourcing 的流程
     - 關心重建議題的社區組織
     - 地方政府重建業務單位
 
-程式碼 / 方案
-- [http://isotope.metafizzy.co/](http://isotope.metafizzy.co/)
-- [http://square.github.io/crossfilter/](http://square.github.io/crossfilter/)
-
 網站參考
+- 程式碼 / 方案
+    - [http://isotope.metafizzy.co/](http://isotope.metafizzy.co/)
+    - [http://square.github.io/crossfilter/](http://square.github.io/crossfilter/)
 - 筆電快篩 [http://muyueh.com/30/notebook/](http://muyueh.com/30/notebook/)
 - 雋永R不動產 [http://restatelife.com/](http://restatelife.com/)
 - AiD 是一個建築的 wikipedia 網站，讓使用者、建築師上傳專案，自己來解釋和介紹他們所居住、設計的建築，以及這個建築在社區、人群以及文化中的角色。 [https://www.facebook.com/soidid/posts/10209209991112639](https://www.facebook.com/soidid/posts/10209209991112639)

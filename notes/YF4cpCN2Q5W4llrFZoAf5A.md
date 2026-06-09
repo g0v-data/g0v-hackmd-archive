@@ -2,8 +2,8 @@
 
 :::info
 - [所有會議記錄](https://g0v.hackmd.io/@cofacts/meetings/x232chPbTfGgNL_Q0f47rQ)
-- NPO Hub 出席：bil, mrorz
-- 線上出席：
+- NPO Hub 出席：bil, mrorz, nonumpa
+- 線上出席：ggm
 - https://meet.google.com/mrz-dgrd-pri
 :::
 
@@ -17,8 +17,6 @@
 - [ ] 手動在 johnson 個人帳號上傳，並處理授權條款
 - [ ] 研究自動化上傳
 - [ ] 申請 Org 帳號
-
-## 小聚檢討
 
 
 ## 🗓️ Since last meeting
@@ -41,6 +39,12 @@
   - [feat: display Google Search suggestion pills from investigator](https://github.com/cofacts/ai/pull/83)
 - **New Release**:
   - A new release **[release/20260606](https://github.com/cofacts/ai/releases/tag/release/20260606)** was published for `cofacts/ai`.
+  - Gemini API 改 Vertex AI (a.k.a enterprise agent platform)
+      - local 需要 application default credential, production 時是使用 cofacts-ai 的 service account
+      - 未來可以換 Vertex AI model garden 上的任何 model 來比較 performance
+  - 設定 artifact store
+      - local 是 in-memory storage
+      - 未來使用者貼圖片進 session，就會繼續用 artifct store
 - **New Issue**:
   - [Long multimodal runs hit ~300s request timeout with no final answer](https://github.com/cofacts/ai/issues/84)
 
@@ -53,25 +57,73 @@
 - 兩天 AI 使用較多，一天 6USD
 - 可再觀察用量
 
+### url-resolver
+
+computer use 的問題
+- 給 gemini 的 prompt，可能 context 塞太多
+- 和 cloudflare 無關
+
+[ready] update deps
+https://github.com/cofacts/url-resolver/pull/73
+
+using cloudflare cdp
+https://github.com/cofacts/url-resolver/pull/72
+
+optimization
+https://github.com/cofacts/url-resolver/pull/74
+- extractStatic: 好像有另一個 library [name=mrorz]
+- 會做 benchmark 看看實際效果 [name=nonumpa]
+
+:::info
+Johnson - review ready 的 PR
+:::
+
+討論
+- dependency attack https://www.ossprey.com/blog/the-complete-teampcp-campaign
+    - 新增 deps 時把版本鎖在一個月以前的 (npm install --before=2026-05-09)
+- gemini-coding-assistant free 版本好像會下架
+
 ### 人事
-- Scientist
+- Scientist - Friday 10:00~11:00 綠線
 - 資料建置工作小組
+- UI/UX designer
+    - Design system / components on pencil.dev or Penpot (migrate from Figma)
+    - Cofacts.tw + cofacts.ai 融合之後的設計
 
+### TODO
 
-
+- 自動 rename session 名稱 --> LLM summarize user input，開票
 
 ## COSCUP
 
+8/8, 8/9
+
 https://pretalx.coscup.org/coscup-2026/talk/review/PKWSB3RSZPPGSVCNKNCZX3DNBCRZLCGV
 
-
+- cofacts.ai 分享
+- 不是只有帶風向的人能用 AI，查核者也該用
+- AI: context + multi-agent 架構
+- Context
+    - URL resolver [name=nonumpa]
+    - 多媒體檢索 [name=yutin]
+- 分工 / 角色扮演來寫出能跨越同溫層的查核回應
+    - 資訊：investigator / verifier 
+    - 感受：proofreader
+    - Writer 會調配順序
+    - 目標：寫查核回應
+- 人與 AI 的互動：挑一些酷的 Langfuse trace 來復盤
+    - 人可以提供方向、sense、自己找的線索
+    - AI 可以做情緒勞動、筆墨、機械性的查證與整理
 
 ## 小聚檢討
 
 https://g0v.hackmd.io/DnfCeK1qR1ijXI9dEDMAew
-
+- ![](https://g0v.hackmd.io/_uploads/B1eboaKHWGe.png)
 - 新桌椅擺放方式很棒 https://docs.google.com/drawings/d/1Xho1b6JtMrlBsJ5UGCDvcK6phxXnPLznj-pz7xQEG4g/edit ![](https://docs.google.com/drawings/d/e/2PACX-1vT4JtlvPFdcg5NLMZFmvFWIVvjIJ4jjOtJaH26-zR8fsHxYO-1bhY1PG-jDXBMmtJDJKB9sGIfePKYq/pub?w=943&h=652)
+    - 未來要求不要開電視牆、使用投影機
+    - 樓下的鐵桌很重，邊緣銳利
 - 新教材 w/ cofacts.ai
+- 樓下插座被封起來了
 
 
 # 週會彙整：2026/6/2 – 6/9 使用狀況、Feedback 與 Prompt 迭代
@@ -158,12 +210,6 @@ https://g0v.hackmd.io/DnfCeK1qR1ijXI9dEDMAew
 - ⚠️ **「沒呼叫 proofreader」**：Working Discipline 雖規範「draft 前要完成 proofreader review」，但實際 trace 仍有跳過 → 編排紀律的遵循度待驗證。
 - ⚠️ **「回應文字與出處不符」**：verifier-confirmed-only 規則已寫死，仍出現不符，建議納入 LLM-as-judge 自動評測（出處一致性）追蹤。
 - ✅ **出處精準（×3 好評）**：Theme 1 的 grounding 改革成效明確，可作為本週亮點。
-
----
-
-兩個可以接著做的方向，你要哪個我直接動手？
-1. **逐 trace 深挖那 9 則負評**（特別是 6/6 下午的 0:00:00 那 3 筆 + 「篇幅過長」），確認當時跑的是哪個 prompt 版本、實際 orchestration 步驟，做成週會附錄。
-2. **把這份彙整輸出成檔案**（Markdown / Google Doc）方便貼週會，或建一個 Langfuse 的 LLM-judge 評測規則來持續追「出處一致性」與「篇幅」。
 
 
 # 2026/06/02 – 06/08 生產環境週報
