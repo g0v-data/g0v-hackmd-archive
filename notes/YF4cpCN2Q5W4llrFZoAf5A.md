@@ -36,13 +36,35 @@
 ### 💻 GitHub Activities
 
 - **New Pull Requests & Reviews in `cofacts/ai`**:
-  - **[fix: handle missing functionResponse.id during SSE streams](https://github.com/cofacts/ai/pull/86)**
-  - **[refactor: chatCacheKey factory for TanStack Query chat cache key](https://github.com/cofacts/ai/pull/85)**
-  - **[feat: display Google Search suggestion pills from investigator](https://github.com/cofacts/ai/pull/83)**
+  - [fix: handle missing functionResponse.id during SSE streams](https://github.com/cofacts/ai/pull/86) 還在找原因
+  - [refactor: chatCacheKey factory for TanStack Query chat cache key](https://github.com/cofacts/ai/pull/85)
+  - [feat: display Google Search suggestion pills from investigator](https://github.com/cofacts/ai/pull/83)
 - **New Release**:
   - A new release **[release/20260606](https://github.com/cofacts/ai/releases/tag/release/20260606)** was published for `cofacts/ai`.
 - **New Issue**:
-  - **[Long multimodal runs hit ~300s request timeout with no final answer](https://github.com/cofacts/ai/issues/84)**
+  - [Long multimodal runs hit ~300s request timeout with no final answer](https://github.com/cofacts/ai/issues/84)
+
+## Cofacts.ai
+
+![](https://g0v.hackmd.io/_uploads/SyW0e_HWfe.png)
+
+- 兩天 AI 使用較多，一天 6USD
+- 可再觀察用量
+
+### 人事
+- scientist
+- 資料建置工作小組
+
+## COSCUP
+
+
+
+## 小聚檢討
+
+https://g0v.hackmd.io/DnfCeK1qR1ijXI9dEDMAew
+
+- 新桌椅擺放方式很棒
+- 新教材 w/ cofacts.ai
 
 
 # 週會彙整：2026/6/2 – 6/9 使用狀況、Feedback 與 Prompt 迭代
