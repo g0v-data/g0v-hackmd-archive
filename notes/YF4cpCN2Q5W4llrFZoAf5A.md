@@ -83,7 +83,7 @@ Johnson - review ready 的 PR
     - https://www.ossprey.com/blog/the-complete-teampcp-campaign
     - https://blog.huli.tw/2026/05/25/dive-into-npm-supply-chain-attack/
     - 新增 deps 時把版本鎖在一個月以前的 (npm install --before=2026-05-09)
-- gemini-coding-assistant free 版本好像會下架
+- gemini-coding-assistant free 版本好像會[下架](https://developers.google.com/gemini-code-assist/docs/deprecations/consumer-code-review)
 
 ### 人事
 - Scientist - Friday 10:00~11:00 綠線
