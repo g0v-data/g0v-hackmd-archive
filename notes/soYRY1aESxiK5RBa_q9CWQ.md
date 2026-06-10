@@ -20,6 +20,13 @@ tags: cofacts,
    - [x] AutoMod 開「Mention Spam」+「Spam Content」(discord 預設規則)
    - [ ] 驗證等級已經是「高」了
      - ![](https://g0v.hackmd.io/_uploads/SyseEm06Zg.png)
+   - [ ] 使用「停權」功能可以刪除使用者歷史訊息
+       - ![](https://g0v.hackmd.io/_uploads/BktMf5IZfe.png)
+       - ![](https://g0v.hackmd.io/_uploads/BJfwbcLZMl.png)
+       - ![](https://g0v.hackmd.io/_uploads/HJlYD-qUZMx.png)
+
+
+
 
 - [ ] RightsCon 擺攤 ![](https://g0v.hackmd.io/_uploads/BJsYHeApWl.png)
     - [ ] X 型布幕 https://www.figma.com/design/1tiXCGut4kNCEkDG9FTza7/LINE-Chat-UI-Template--Community-?node-id=3011-2598&t=M7kq3ymM7XDO2z0s-4

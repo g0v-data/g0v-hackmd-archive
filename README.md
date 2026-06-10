@@ -2,6 +2,7 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
+| [cofacts](tags/cofacts.md) | 530 | 2026-06-10T07:28:18+00:00 |
 | [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 37130 | 2026-06-10T05:44:00+00:00 |
 | [防災](tags/%E9%98%B2%E7%81%BD.md) | 8 | 2026-06-09T13:22:41+00:00 |
 | [ 災害](tags/%20%E7%81%BD%E5%AE%B3.md) | 2 | 2026-06-09T13:22:41+00:00 |
@@ -37,7 +38,6 @@
 | [ hackathon](tags/%20hackathon.md) | 20 | 2026-05-31T19:01:38+00:00 |
 | [ civil defense](tags/%20civil%20defense.md) | 11 | 2026-05-31T19:01:38+00:00 |
 | [afterth0n](tags/afterth0n.md) | 1 | 2026-05-31T12:00:42+00:00 |
-| [cofacts](tags/cofacts.md) | 530 | 2026-05-31T07:44:45+00:00 |
 | [Templates](tags/Templates.md) | 286 | 2026-05-30T06:35:07+00:00 |
 | [Documentation](tags/Documentation.md) | 25 | 2026-05-30T06:35:07+00:00 |
 | [opendata](tags/opendata.md) | 6 | 2026-05-30T02:53:29+00:00 |
