@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter,
+參與者 Participants：Peter, Tim, Yi-ting, Allison, Josh
 
 
 https://www.vtaiwan.tw/jitsi
@@ -50,15 +50,32 @@ https://www.vtaiwan.tw/jitsi
     - https://substack.com/home/post/p-200746798
 - 最近在西班牙出差，仍然有持續在撰寫相關內容中
 
-## TWNIC 審議大會
+## TWNIC x vTaiwan 審議大會
+- 改名了！避免參與者搞混。
 - 第一場活動在 7/17 於 TWNIC 舉辦
 - 目前活動規劃：https://docs.google.com/document/d/1jTHJ7KlLN0oBFdFZDbLdQVdr7wnnb91m9nBKpgFRfIM/edit?usp=sharing
+- 在不同的活動環節會使用不同的 AI 工具
+-
 ### 討論
 - 產出的內容有哪些？
 - 有哪些資料可以討論
 - civic talk 作為審議資料的可能性
-
-
+### 工作人員
+- Peter 
+- Yi Ting Lien 
+- Tim 
+- 來問問看 tofus 要不要來玩
+- 來問問看 Ronny 作為參與者兼志工
+- 來問問看 mashbean 
+### 新的工具
+- 將大家實際討論的內容直接轉換成種子意見：https://debate.atgora.org/?code=65E828
+- 原理：利用 whisper 擷取大家的談話，分段去截取相關的意見
+- 目前發現的問題：
+    - 分段與精準度的問題
+    - 可能要讓大家都可以協助編輯 / 調整
+- 可以解決的問題：
+    - 可以讓大家發言時，其他人可以針對意見提供回應
+    - 可以解決大家手動輸入意見時，沒有辦法以口頭表達意見的問題
 
 ## Civic talk 
 - 利用 AI 整理議題內容的實際案例
@@ -74,10 +91,10 @@ Tim:
 
 Johnson: 
 文章風格 ai 感太重，論述少，但整體內容又太多 
-> 不過我覺得如果是議題資訊整理的話，本來就是以資料匯集為主，這邊的期待對齊可以再調整一下。
+> 不過我覺得如果是議題資訊整理的話，本來就是以資料匯集為主，這邊的期待對齊可以再調整一下。[name=peter]
 :::
 
-## Civic Talk 共筆
+### Civic Talk 共筆
 - 專案共筆：[vtaiwan 2026 新專案 civic talk](/u6Z7tvLKTzWYSH49YTCw1A)
 - [civic talk 管理者指南](/2iS9plTURyuEb9U_vdN1qg)
 - Github 連結：https://github.com/v-taiwan/civic-talk
@@ -86,3 +103,22 @@ Johnson:
 - 下一步：思考應用與宣傳，還有招募使用者
 ### Milestone: 
 - 7/17@TWNIC 活動上可以使用
+
+## 大翻譯運動
+- 起因：看到歐洲議會研究處發了一篇71頁的報告，分析數位工具在公民參與中的應用。有很詳盡的分析，除了有整理世界各地的 94 個案例（包含工具與倡議外），也深入分析了11個案例，並且提出分析標準。
+- 原文連結：https://www.europarl.europa.eu/RegData/etudes/STUD/2026/774753/EPRS_STU%282026%29774753_EN.pdf
+- 翻譯文件連結：https://docs.google.com/document/d/1yrT1BKTJo2DMDhmRSWXwcBMdYS-A5yjaIQziA7vD1wg/edit?tab=t.0 
+### 討論
+- 報告內容仍然是不全的，要檢查與對應相關內容
+- 
+#### 將意見轉成 agent 的 skill 或資料庫
+- 將市民的意見變成 AI 的 context
+- 對應到不同機構的政策承接
+#### Polis 當作是 wiki survey 的一部份
+#### 11 個案例應該都是偏好一條龍的專案
+- Decidim 
+
+### 觀察到的問題
+- 重複性
+- 贅字的問題
+- 
