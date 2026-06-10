@@ -27,9 +27,9 @@
 🚫 **已停用連結：**
 * 展頌公用會議：https://meet.google.com/znp-xmiy-hyj
 
-#### 🌐 相關資源
+
 * **Google Meet 官網：** https://meet.google.com/landing
-* **參考圖片：** ![](https://g0v.hackmd.io/_uploads/Skx12LBtJMl.png)
+
 
 ---
 
@@ -44,9 +44,9 @@
 * **教育訓練專用：** [點擊加入](https://teams.microsoft.com/meet/4755693985475?p=bzI7xqzO78eu8EHWrP)
 * **展頌資訊部：** [點擊加入](https://teams.microsoft.com/meet/4289735414996?p=O7HtCbYDKWL2kdeu1D)
 
-#### 🌐 相關資源
+
 * **Microsoft Teams 官網：** https://teams.microsoft.com
-* **參考圖片：** ![](https://g0v.hackmd.io/_uploads/B1bsE44Zxl.png)
+
 
 ---
 
@@ -61,8 +61,7 @@
   * 短網址：https://www.chainlon.net/meetc
 * **展頌 CISCO 會議室 (手動輸入會議ID)：** https://mt.chainlon.net/
 
-#### 🌐 相關資源
-* **參考圖片：** ![](https://g0v.hackmd.io/_uploads/rk0tEN4bxl.png)
+
 
 ---
 
@@ -74,7 +73,5 @@
 
 #### 🧰 常用工具分享
 * **線上產生二維碼 (QR Code)：** [https://qr.ioi.tw/zh/](https://qr.ioi.tw/zh/)
-
-#### ❌ Zoom (本服務已停用)
-![]
-https://meet.google.com/hfi-pzxg-roj   **財務
+---
+###  🟪 五、會議連結分享區
