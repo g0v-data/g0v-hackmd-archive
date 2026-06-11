@@ -11,6 +11,7 @@
 
 ### GCE Migration
 - [ ] 跑幾週看穩定度，決定是否要再把 tw site 也搬進 GCE
+    - AI 建議不要
 - [ ] 跑幾個月看實際用到的運算量，決定 GCP committed use discount 怎麼買比較划算
 
 ### Kaggle
@@ -20,7 +21,7 @@
 
 ### url-resolver
 - [ ] nonumpa 會對優化項目進行 benchmark
-- [ ] Johnson 會 review 已 ready 的 PR
+- [x] Johnson 會 review 已 ready 的 PR
 
 ### COSCUP
 - [ ] nonumpa 準備 URL resolver 的分享內容
@@ -33,7 +34,7 @@
 - [ ] 為「自動 rename session 名稱」開票
 
 ### 維運
-- [ ] 持續觀察 GCE server 的 Swap 用量
+- [x] 持續觀察 GCE server 的 Swap 用量
 - [ ] 處理 `site-tw` Cloud Run 服務的記憶體高壓問題
 
 ## GCP Committed Use Discount（CUD）購買方案討論
