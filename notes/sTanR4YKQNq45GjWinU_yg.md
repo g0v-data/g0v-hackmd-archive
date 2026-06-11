@@ -65,6 +65,7 @@ https://github.com/g0v/small_school_renaissance/issues/6
 - 已經停辦的學校清單在教育部統計處的學校名錄頁面裡面可以找到資料
     - https://depart.moe.edu.tw/ed4500/News.aspx?n=63F5AB3D02A8BBAC&sms=1FF9979D10DBF9F3
         - 每年的「異動一覽表」
+- 私校與長照機構 https://www.facebook.com/share/p/1JJBH4tKuz/
 - 廢校等待活化
     - 全國待活化閒置校舍
             - http://ssdelt.nhps.tp.edu.tw/index.php?action=activation_data_n
