@@ -68,7 +68,7 @@ https://www.vtaiwan.tw/jitsi
 - 來問問看 Ronny 作為參與者兼志工
 - 來問問看 mashbean 
 ### 新的工具
-- 將大家實際討論的內容直接轉換成種子意見：https://debate.atgora.org/?code=65E828
+- 將大家實際討論的內容直接轉換成種子意見：https://hear.atgora.org/
 - 原理：利用 whisper 擷取大家的談話，分段去截取相關的意見
 - 目前發現的問題：
     - 分段與精準度的問題
