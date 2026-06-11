@@ -17,9 +17,14 @@ tags: ReSchool,
 
 線上會議室：
 
-## 交流會議 6/21 週日下午 & 7/26 週日下午
+## ReSchool 交流會議 6/21 週日下午 & 7/26 週日下午
 
-- 介紹可運用的資料，介紹專案內容，交流與會者想做什麼
+- 活動時間：
+    - 6/21 週日下午 14:00-16:30
+    - 7/26 週日下午 14:00-16:30
+- 實體場地：臺北市中正區重慶南路三段 2 號 2 樓 202 室
+- 線上會議：https://meet.google.com/rva-yjfv-mny
+- 活動內容：介紹可運用的資料，介紹專案內容，交流與會者想做什麼
     - 資料集入口清單：https://docs.google.com/spreadsheets/d/16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik/edit
     - https://g0v.hackmd.io/@chewei/reschool/
 
