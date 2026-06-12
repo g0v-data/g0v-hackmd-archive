@@ -123,6 +123,7 @@ A tutorial, how to create a 3d online globe and visualise in WebGLEarth: https:/
 Excel 功能: https://goo.gl/lqdkub
 
 map23D｜平面變立體
+map2model 範圍框選就能夠製作出3D立體模型 https://map2model.com
 https://map2stl.com/
 https://www.facebook.com/groups/160129674696682/permalink/1310258056350499/
 QGIS+Threejs: https://anitagraser.com/2014/03/15/3d-viz-with-qgis-three-js/
