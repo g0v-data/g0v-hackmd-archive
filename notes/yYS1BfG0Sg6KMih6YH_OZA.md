@@ -32,10 +32,11 @@ tags: cofacts,
 - [ ] yutin 準備多媒體檢索的分享內容
 
 ### AI 修正
+- [ ] 支援檔案上傳
 - [ ] 追蹤並修正影音訊息處理時，模型產生幻覺（腦補）或 `0:00:00` 時間戳的問題
 - [ ] 為 AI writer prompt 新增長度與精簡準則
-- [ ] 驗證 AI pipeline 有時會跳過 proofreader 的問題
-- [ ] 為「自動 rename session 名稱」開票
+- [ ] 驗證 AI pipeline 有時會聲稱有呼叫 proofreader 但沒呼叫的問題
+- [x] 為「自動 rename session 名稱」開票 --> https://github.com/cofacts/ai/issues/87
 
 ### 維運
 - [x] 持續觀察 GCE server 的 Swap 用量
