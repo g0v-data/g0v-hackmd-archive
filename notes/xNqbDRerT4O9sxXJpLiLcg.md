@@ -39,6 +39,9 @@ https://drive.google.com/drive/folders/1cQUKKZ1QNmKJWaUAkASx9RtEfXQR69M1?usp=sha
 
 ## 其他相鄰地區
 
+木柵路四段、五段附近地區區段徵收公聽會
+- https://www.facebook.com/land.taipei/posts/pfbid0d26hYBD9U5zmxuxkREyAeSFmQc4uRRLH9hzvfVnboHxxSm6eDKPYCVs8wayA1saBl?locale=zh_TW
+
 萬隆景美
 - https://www.facebook.com/mao.isle/posts/pfbid02pe66UJafuYg1MsH2Hj91AypncNg7jDQFPsGagj3y7B6NYrNwdGw9YjBMcBP8u2Yjl
 
