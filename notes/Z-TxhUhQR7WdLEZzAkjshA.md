@@ -75,3 +75,5 @@
 * **線上產生二維碼 (QR Code)：** [https://qr.ioi.tw/zh/](https://qr.ioi.tw/zh/)
 ---
 ###  🟪 五、會議連結分享區
+
+meet.google.com/oip-ycyi-phz  財務用
