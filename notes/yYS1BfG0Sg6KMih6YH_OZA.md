@@ -92,3 +92,54 @@ cofacts.ai 預計一年內取代 rumors-site（Cloud Run 生產站），屆時 e
 
 - [ ] 確認 cofacts.ai 取代 rumors-site 的預計時程
 - [ ] 決定是否採用建議方案，由有 Billing Account 權限者於 GCP Console 購買
+
+# 20260616 會議前週報
+
+## General
+
+- **防火牆與 openapi.json 問題**
+  - @mrorz 提到 `takedown` CI 的 `validate-api` 功能可能因為防火牆變更而失效，並已手動開放 AS 8075 (Github actions) 對 `/openapi.json` 的存取權限。
+  > @nonumpa: 我發現 takedown ci 的 validate-api 好像也因為 5/4 防火牆誤擋事件的改動壞了
+不確定是不是 dev-admin-api.cofacts.tw 沒處理到
+  > @mrorz: 我先在 Managed rules 這裡開放 AS 8075 (Github actions 所在處) 存取 /openapi.json 囉
+
+## GitHub Activities
+
+### cofacts/ai
+
+- **E2E 測試框架**
+  - 新增了結合 Webwright 與 Playwright 的 E2E 測試框架，並有密集的 review 與討論。
+  - [feat: initialize E2E testing framework (Webwright + Playwright)](https://github.com/cofacts/ai/pull/91)
+
+- **對話功能改進**
+  - 新增了檔案與 PDF 上傳功能。
+  - [Add file/PDF attachment upload to chat](https://github.com/cofacts/ai/pull/89)
+  - 修復了重新整理後工具使用標籤 (tool call badges) 會消失的問題。
+  - [fix: preserve tool call badges after page refresh](https://github.com/cofacts/ai/pull/90)
+
+- **自動為 session 命名**
+  - MrOrz 開了新 issue，希望在 session 結束後，能用 LLM 自動生成有意義的標題。
+  - [自動為 session 命名](https://github.com/cofacts/ai/issues/87)
+
+- **釋出新版本**
+  - [release/20260613](https://github.com/cofacts/ai/releases/tag/release/20260613)
+  - [release/20260612](https://github.com/cofacts/ai/releases/tag/release/20260612)
+
+### cofacts/url-resolver
+
+- **效能優化**
+  - 新增了在靜態抓取可以取得文章時，跳過 puppeteer 的邏輯。
+  - [Skip puppeteer when a static fetch can extract the article](https://github.com/cofacts/url-resolver/pull/74)
+
+- **依賴套件升級**
+  - 升級 Node.js, puppeteer, 與 @grpc/grpc-js。
+  - [chore(deps): upgrade to Node 24, puppeteer 24, and @grpc/grpc-js](https://github.com/cofacts/url-resolver/pull/73)
+
+### cofacts/takedowns
+
+- **處理垃圾訊息使用者**
+  - [Takedown spam user Khac Dum iy1fsZ4BEY7yIwhp6ask](https://github.com/cofacts/takedowns/pull/304)
+
+## Server Alerts
+- 上週無重大伺服器警報。
+
