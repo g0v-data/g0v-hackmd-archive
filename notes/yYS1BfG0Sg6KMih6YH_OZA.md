@@ -93,6 +93,32 @@ cofacts.ai 預計一年內取代 rumors-site（Cloud Run 生產站），屆時 e
 - [ ] 確認 cofacts.ai 取代 rumors-site 的預計時程
 - [ ] 決定是否採用建議方案，由有 Billing Account 權限者於 GCP Console 購買
 
+## Idea: Cofacts knowledge base
+
+> Reference: Open knowledge format: https://gemini.google.com/share/841c65c8736a (based on LLM wiki)
+
+cofacts.tw/hack: 各種 notes、規則 etc
+https://g0v.hackmd.io/@cofacts/meetings
+https://g0v.hackmd.io/@cofacts/rd/
+Design doc https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?pli=1&tab=t.t599bt7kwc4o
+
+解決痛點：
+- 很難找過去東西：會議記錄、design doc 等等
+    - 這樣記者採訪前，也能用自己的 claude code 直接彙整最近在幹嘛，超酷
+- 很難寫新東西：
+    - 寫在哪
+    - hackmd mcp 只能一次編輯整個檔案，大檔無法直接編輯
+
+問題：
+- visibility：沒辦法分權限
+    - 但本來上面這些東西就全公開了
+    - 還是可以把 private 東西分到別的 private repo，如 devops 
+- 沒辦法像 hackmd 那樣開會時同時編輯
+    - hackmd 開會時還是可以用，只是開完會之後移動到 github，hackmd 只放當下的 meeting
+- Github 介面比 hackmd / hackfoldr 可怕 (?)
+    - 找個不錯的 Github pages / llm wiki 模板？
+
+
 # 20260616 會議前週報
 
 ## General
@@ -148,6 +174,34 @@ cofacts.ai 預計一年內取代 rumors-site（Cloud Run 生產站），屆時 e
 # Cofacts Production report 2026-06-08 ～ 2026-06-15）
 
 ![](https://g0v.hackmd.io/_uploads/H1zvJ2pZfl.png)
+
+**Cloudflare 設定更新：擋商業 SEO 爬蟲 + en/ja/zh 網站快取（6/10 晚間生效）**
+
+*改了什麼*
+1. *WAF 新規則「Block 商業爬蟲」*：封鎖 DotBot (Moz)、SemrushBot、AhrefsBot、DataForSeoBot、Barkrowler、MJ12bot。這些是純商業 SEO 工具的爬蟲，每月吃掉 ~330 GB origin 流量（快取命中率 ~0%），但對 Google/Bing 搜尋排名沒有任何貢獻。
+2. *新 Cache Rule「en/ja/zh SSR HTML」*：en/ja/zh.cofacts.tw 的頁面改由 Cloudflare 快取 60 秒。之前這些 SSR 頁面 100% 直接打到主機（zh 還因為舊規則的條件寫法完全沒被快取到）。
+
+*為什麼*
+GCE 的 egress 費用 $51/月，單位流量成本是 Cloud Run 的 6 倍；分析後發現大宗是 SEO 爬蟲狂抓 + HTML 完全沒快取。
+
+*生效 36 小時的成效*（前後各 34 小時對照，打到 origin 的流量）
+• en.cofacts.tw：9.5 GB → 4.4 GB（*-54%*）
+• ja.cofacts.tw：9.2 GB → 2.8 GB（*-70%*）
+• zh.cofacts.tw：7.5 GB → 2.2 GB（*-71%*，快取命中率 12% → 43%）
+• cofacts.tw：18.5 GB → 10.8 GB（*-42%*，純粹來自擋爬蟲）
+• 六隻爬蟲流量 26 GB → 36 MB（全是 403），36 小時共攔 13,823 個請求
+• 估計省 *GCE egress $13–15/月 + Cloud Run $4–5/月*，正式驗收看 7 月帳單
+
+*對使用者的影響*
+• 一般使用者與 Google/Bing/搜尋排名：無影響
+• en/ja/zh 頁面內容最多延遲 60 秒更新（送出回應後重整頁面可能要等一分鐘才看到）
+• 被站方封鎖的使用者看到的頁面不受快取影響（有特別排除）
+
+*後續*
+• ClaudeBot（Anthropic AI 爬蟲，95 GB/月）要不要擋還在評估
+• 評估把同樣的快取模式套到 cofacts.tw 的 /article/* （Googlebot 每月 91 GB 還在直打 Cloud Run）
+
+詳細分析與規則設定記錄在 devops repo 的 Cloudflare.md（commit 7ba2439）
 
 
 ### 一、GCE 主機（cofacts-prod）每日指標
