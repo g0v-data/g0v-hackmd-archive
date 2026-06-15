@@ -147,7 +147,8 @@ cofacts.ai 預計一年內取代 rumors-site（Cloud Run 生產站），屆時 e
 
 # Cofacts Production report 2026-06-08 ～ 2026-06-15）
 
----
+![](https://g0v.hackmd.io/_uploads/H1zvJ2pZfl.png)
+
 
 ### 一、GCE 主機（cofacts-prod）每日指標
 
