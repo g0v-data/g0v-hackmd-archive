@@ -22,7 +22,9 @@ A&T
 AT
 @
 Name: @ 松
-Slogan: Just @ Your Agent 
 @ 黑客松 = Agent Hackathon = Agenthon
+Slogan: 
+- Just @ Your Agent 
+- Just @ It
 
 沒有人的黑客松 ! Hack@th0n
