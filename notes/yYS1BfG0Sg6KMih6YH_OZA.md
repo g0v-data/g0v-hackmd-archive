@@ -16,7 +16,8 @@ tags: cofacts,
 ### GCE Migration
 - [ ] 跑幾週看穩定度，決定是否要再把 tw site 也搬進 GCE
     - AI 建議不要
-- [ ] 跑幾個月看實際用到的運算量，決定 GCP committed use discount 怎麼買比較划算
+- [x] 跑幾個月看實際用到的運算量，決定 GCP committed use discount 怎麼買比較划算
+    - See "GCP Committed Use Discount（CUD）購買方案討論" below
 
 ### Kaggle
 - [ ] 手動在 johnson 個人帳號上傳，並處理授權條款
@@ -97,10 +98,11 @@ cofacts.ai 預計一年內取代 rumors-site（Cloud Run 生產站），屆時 e
 
 > Reference: Open knowledge format: https://gemini.google.com/share/841c65c8736a (based on LLM wiki)
 
-cofacts.tw/hack: 各種 notes、規則 etc
-https://g0v.hackmd.io/@cofacts/meetings
-https://g0v.hackmd.io/@cofacts/rd/
-Design doc https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?pli=1&tab=t.t599bt7kwc4o
+"Knowledge" we have:
+- cofacts.tw/hack: 各種 notes、規則 etc
+- https://g0v.hackmd.io/@cofacts/meetings
+- https://g0v.hackmd.io/@cofacts/rd/
+- Design doc https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?pli=1&tab=t.t599bt7kwc4o
 
 解決痛點：
 - 很難找過去東西：會議記錄、design doc 等等
