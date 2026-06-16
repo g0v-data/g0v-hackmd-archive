@@ -264,22 +264,24 @@ cofacts.ai 預計一年內取代 rumors-site（Cloud Run 生產站），屆時 e
 
 ## Idea: Cofacts knowledge base
 
-> Reference: Open knowledge format: https://gemini.google.com/share/841c65c8736a (based on LLM wiki)
-
 "Knowledge" we have:
 - cofacts.tw/hack: 各種 notes、規則 etc
 - https://g0v.hackmd.io/@cofacts/meetings
 - https://g0v.hackmd.io/@cofacts/rd/
-- Design doc https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?pli=1&tab=t.t599bt7kwc4o
+- cofacts.ai Design doc https://docs.google.com/document/d/1sZ4jOsrZPvbJv4QjlMxgbqFsh_pTZNBRs-NbG-HU0rM/edit?pli=1&tab=t.t599bt7kwc4o
 
-解決痛點：
+### 痛點
 - 很難找過去東西：會議記錄、design doc 等等
     - 這樣記者採訪前，也能用自己的 claude code 直接彙整最近在幹嘛，超酷
 - 很難寫新東西：
     - 寫在哪
     - hackmd mcp 只能一次編輯整個檔案，大檔無法直接編輯
 
-問題：
+### Solution
+- Open knowledge format: https://gemini.google.com/share/841c65c8736a (based on LLM wiki)
+- [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+
+### Q&A
 - visibility：沒辦法分權限
     - 但本來上面這些東西就全公開了
     - 還是可以把 private 東西分到別的 private repo，如 devops 
@@ -287,6 +289,108 @@ cofacts.ai 預計一年內取代 rumors-site（Cloud Run 生產站），屆時 e
     - hackmd 開會時還是可以用，只是開完會之後移動到 github，hackmd 只放當下的 meeting
 - Github 介面比 hackmd / hackfoldr 可怕 (?)
     - 找個不錯的 Github pages / llm wiki 模板？
+
+:::spoiler 具體實作路徑與建議
+
+### 第一階段：資料盤點與格式轉換 (Data Transformation)
+
+OKF 的核心，其實就是 **「帶有特定 YAML 結構的 Markdown 檔案」**。你不需要複雜的資料庫，只需要把下載下來的 HackMD 加上詮釋資料（Metadata）。
+
+**1. 定義 Cofacts 的知識本體（Ontology / Types）**
+在開始轉換前，先定義你們有哪幾種「實體」。例如：
+
+* `Meeting` (會議紀錄)
+* `DesignDoc` (設計文件)
+* `Rule` (社群守則 / 協作指南)
+* `Feature` (功能)
+
+**2. 幫下載的 Markdown 加上 OKF Frontmatter**
+你可以寫一個簡單的 Python 腳本，或是用 LLM 批次處理，把 HackMD 的內容轉成 OKF 格式。
+
+📝 *舉例：把一篇 HackMD 會議紀錄轉成 OKF 格式*
+
+```yaml
+---
+id: "meeting-2023-10-04"
+title: "20231004 Cofacts 雙週開會"
+type: "Meeting"
+tags: ["meeting", "ai-integration"]
+relations:
+  - type: "discusses"
+    target: "design-doc-cofacts-ai" # 指向另一份文件的 ID
+  - type: "attended_by"
+    target: "developer-johnson"
+---
+# 20231004 Cofacts 雙週開會
+(這裡是原本 HackMD 的內容...)
+
+```
+
+> **💡 關鍵點：** 透過 `relations` 這個欄位，你就把「孤立的會議紀錄」跟「設計文件」綁在一起了。這就是產生網狀圖（Visualizer）與讓 LLM 理解脈絡的核心！
+
+---
+
+### 第二階段：建立 GitHub Repo 結構 (`cofacts/kb`)
+
+在你的 `cofacts/kb` repo 中，建議採用以下的資料夾結構：
+
+```text
+cofacts-kb/
+├── bundles/                  # 存放 OKF 檔案的地方
+│   └── cofacts_core/         # 主要知識包
+│       ├── meetings/         # 會議紀錄 MD 檔
+│       ├── design_docs/      # 設計文件 MD 檔
+│       └── rules/            # 規則 MD 檔
+├── scripts/                  # 存放把 HackMD API 轉成 OKF 的自動化腳本
+├── mkdocs.yml                # 給人類看的 Wiki 產生器設定 (後述)
+└── .github/workflows/        # 自動化部署 (GitHub Actions)
+
+```
+
+---
+
+### 第三階段：解決「介面可怕」與「權限 / 協作」問題
+
+GitHub 原始介面確實對非工程師不友善。為了解決這個問題，我們可以把 **「儲存」與「展示/編輯」分開**：
+
+**1. 給人類看的舒適 Wiki 介面 (使用 MkDocs 或 Docusaurus)**
+
+* 既然所有的資料都已經是 Markdown 了，你可以直接使用 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) 這樣的靜態網站產生器。
+* 它能把你的 Markdown 資料夾瞬間變成一個超美的、有側邊欄、支援全站搜尋的文件網站（類似 Stripe 的開發者文件介面）。
+* **整合 OKF 視覺化：** 你可以把 Google 那個 OKF HTML Visualizer 的產出結果（`viz.html`），直接用 iframe 嵌在 MkDocs 的首頁！這樣進來的人可以看樹狀目錄（傳統 Wiki），也可以看網狀圖（OKF 地圖）。
+
+**2. 開會與日常寫作的 Workflow 建議**
+
+* **開會當下：** 保持現狀，大家還是在 HackMD 上共同編輯（最順暢的即時協作）。
+* **開完會的收尾（自動化）：** 寫一個 GitHub Action，每週定期透過 HackMD API 把指定目錄下的新會議紀錄抓下來，交給輕量級的 LLM (如 Gemini Flash 或 Claude Haiku) 自動加上 YAML Frontmatter（抽取 tags 和 relations），然後發一個 Pull Request 到 `cofacts/kb`。
+* **編輯大型文件：** 鼓勵貢獻者使用 **Obsidian**。Obsidian 直接支援本地 Markdown 資料夾，而且內建 Graph View（關係圖）。你可以把 `cofacts/kb` clone 下來用 Obsidian 打開，編輯體驗極佳，寫完直接 git push。
+
+---
+
+### 第四階段：部署與開放 (GitHub Pages + CI/CD)
+
+透過 GitHub Actions 實現全自動化：
+
+1. 當有人 push 新的 Markdown 檔案（或 HackMD 自動匯入腳本觸發）。
+2. **Action 1 (給 AI 用的):** 執行 OKF CLI (enrichment-agent)，檢查 relations 是否正確，並產生 `viz.html` (互動地圖)。
+3. **Action 2 (給人類用的):** 執行 `mkdocs build`，產生漂亮的靜態 HTML Wiki。
+4. **Action 3:** 把這些編譯好的 HTML 推送到 GitHub Pages (`kb.cofacts.tw`)。
+
+---
+
+### 🚀 你現在可以馬上動手的 3 步
+
+1. **開 Repo & 抓資料：** 開啟 `github.com/cofacts/kb`，把目前的 HackMD 和 Google Doc 下載成 `.md` 檔，丟進資料夾。
+2. **套用一個好看的皮：** 在該 Repo 設定 [MkDocs Material](https://squidfunk.github.io/mkdocs-material/getting-started/)，並開啟 GitHub Pages。只要 10 分鐘，你就會得到一個漂亮的 `xxx.github.io/kb` 網站，解決「GitHub 介面可怕」的問題。
+3. **實驗 OKF 關聯：** 挑選 5 篇核心文件（例如 1 篇 Design Doc + 4 篇相關的會議紀錄），手動在最上方加上 YAML `relations`，然後用你稍早跑起來的 `enrichment-agent visualize` 跑跑看。如果成功看到這 5 篇文件連成一張圖，你的 PoC (概念驗證) 就完成了！
+
+這套架構完成後，**Cofacts 的知識庫就會擁有三種型態**：
+
+* **人類閱讀模式**：MkDocs 產生的漂亮文件網站。
+* **人類探索模式**：OKF 產生的視覺化關聯地圖 (`viz.html`)。
+* **AI 代理模式**：Claude Code 或 Cursor 可以直接讀取帶有強語意關聯的原始 Markdown 檔案。
+:::
+
 
 ## Block SEO crawler for egress cost saving
 
