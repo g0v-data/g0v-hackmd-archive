@@ -4,6 +4,7 @@ tags: 公民科學, LASS
 
 # 儀器觀察學院
 
+基本構想
 - 蒐集「邀請民眾回報儀器是否安好」、「海上海岸撿到一個神祕的儀器想詢問是誰的」、「協尋」、「儀器圖鑑」、「海上路上儀器觀察學院」等具體案例
 - 評估是否有需要建構互助、入口社團
 - 整理出有可能會被民眾發現的儀器圖鑑
@@ -11,9 +12,20 @@ tags: 公民科學, LASS
         - 經緯度
     - 非固定(海域漂流、溪流水域?)
         - 預計出沒的範圍 polygon?
-- 儀器現場，也可能適合作為地區環境教育的場域
-    - 高鐵IoT邊坡監測-苗栗段 https://youtu.be/Z3up7O4Pw4o
-- 海底回收 https://www.facebook.com/share/p/1CHcGQTea9/?mibextid=wwXIfr
+
+互動類型列舉
+- 環境教育
+    - 儀器現場，也可能適合作為地區環境教育的場域
+        - 高鐵IoT邊坡監測-苗栗段 https://youtu.be/Z3up7O4Pw4o
+- 被偷、被破壞
+- 風險
+    - 空品感測器的鋰電池失火
+        - https://www.facebook.com/esri.tw/posts/pfbid02buELAT7fJaXhfM6ofEHraEscminxw8ss2NKGJ9WK83xGdaQU5ZL7dq9xytDFwrGYl?locale=zh_TW
+    - 其他風險 ?
+- 回收
+    - 海底回收 https://www.facebook.com/share/p/1CHcGQTea9/?mibextid=wwXIfr
+
+
 
 ## 案例蒐集
 

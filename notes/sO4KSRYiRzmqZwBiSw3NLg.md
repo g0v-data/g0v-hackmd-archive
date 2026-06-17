@@ -90,3 +90,6 @@ https://docs.google.com/presentation/d/1mgtbmHB9u0JeU3GAOL1ONXXJSmqDPaBTi8fo2Exg
 
 Flickr 相簿
 https://www.flickr.com/photos/g0v/albums/
+
+常見遺失物品
+https://photos.app.goo.gl/KJicnmzMjbXSJ3JY8
