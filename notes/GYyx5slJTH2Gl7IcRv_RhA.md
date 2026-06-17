@@ -5,7 +5,9 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter, Thompson, Cindy, Billy, Tim 
+參與者 Participants：Peter, Thompson, Cindy, Billy, Tim, Ellen  
+
+![](https://g0v.hackmd.io/_uploads/HJpnRbgzMl.png)
 
 
 https://www.vtaiwan.tw/jitsi
