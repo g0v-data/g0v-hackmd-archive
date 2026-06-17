@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter,
+參與者 Participants：Peter, Thompson, Cindy, Billy, Tim 
 
 
 https://www.vtaiwan.tw/jitsi
@@ -38,11 +38,18 @@ https://www.vtaiwan.tw/jitsi
 - 如果想要成為協作者或者是貢獻者，我們正在努力讓說明更清楚，介面更友善！
 :::
 ## 自我介紹
-
+- Peter: 即將畢業的法律研究生、vTaiwan、AI 
+- Thompson Lin: UX Designer, 在英國與公民科技的組織合作、希望將設計用於公共討論、攀岩
+- Cindy: 自由工作者（教學、設計、軟體開發、什麼都做的產品經理）、勇於挑戰、羽球
+- Billy: 轉職中的軟體工程師、災象回波主持人（[本週共筆](https://app.notion.com/p/jqpau/23-379ee44ca4698053af26f4bb7d44ea2b)）、vTaiwan 新參者
+- Tim: 轉職為網站工程師、資料視覺化與區塊鏈應用、聚焦在 civic talk 應用
+- Ellen：傳產數位導入工作小組，迷惘的新時代見習者 T^T 
 
 ## 小小的分享
 ### 近況更新
 - 本週比較多心力在處理 7/17 審議大會的活動，電子報與 civic talk 比較沒有進度，但會持續跟進與追上。
+    - billy：回報電子報中的連結 http://vtw.link/ 目前壞掉
+        - 對，還在修復中
 - 本週重要進度：與台北電腦公會專案經理的昱均進行討論，就議題本身的架構與方向進行說明，同時亦邀請昱均擔任活動講師。
 - 相關討論紀錄：https://docs.google.com/document/d/1Nf75VLMcmXRkUUK8qhfJwUGvjieFjzRTSEz448X-sGA/edit?usp=sharing 
 - 
@@ -73,7 +80,9 @@ Johnson:
 > 不過我覺得如果是議題資訊整理的話，本來就是以資料匯集為主，這邊的期待對齊可以再調整一下。[name=peter]
 :::
 
-### Civic Talk 共筆
+## Civic Talk 共筆
+### 使用者回饋
+- 「希望多一點人味，讓使用者旅程可以看到更多的人。與其他人的討論痕跡互動。」- Thompson 
 - 專案共筆：[vtaiwan 2026 新專案 civic talk](/u6Z7tvLKTzWYSH49YTCw1A)
 - [civic talk 管理者指南](/2iS9plTURyuEb9U_vdN1qg)
 - Github 連結：https://github.com/v-taiwan/civic-talk
@@ -82,6 +91,24 @@ Johnson:
 - 下一步：思考應用與宣傳，還有招募使用者
 ### Milestone: 
 - 7/17@TWNIC 活動上可以使用
+
+## HearAgora 工具
+- 目前網址：hear.atgora.org 
+- 測試回饋
+:::info
+#### Tim: 
+https://hackmd.io/@JKMGwA3nSGCAiG1UTMj1pw/SyE4hUFbGe/edit
+考慮到這是你和歐洲夥伴們開發的，我有對各建議附上 Google 機翻譯文供他們參考，若有表達不夠周全的地方還請幫我補充說明，感謝~ :pray:
+#### Tim: 
+根據實測結果，目前功能規劃有兩種身份：
+(1) HOST 有開麥 & 打字 建立論點的權力，也可以分發 HOST 身份。
+(2) 一般參與者僅能進行投票表態。
+如果活動要順暢進行，收音品質跟辨識度滿關鍵的。我認為比較保險的做法，是活動當天準備一台手機跟一台筆電分別登入為 HOST。
+活動當天將手機當作麥克風傳遞給現場參與者發表論點。如果手機成功辨識語音，筆電端 HOST 就直接 Approve 為論點；如果手機辨識語音不佳 (或是線上參與者)，那筆電的 HOST 就幫忙打字建立論點。
+至於投票的結果呈現會跟主持人後續規劃流程有關，這部分 @Peter 也可以自行測看看提供想法~ :saluting_face:
+
+(特別須留意的是 Vote Scale 分為 "Agree/Disagree" 跟 "Likert" 兩種模式，HOST 可以隨時切換，雖然方便但也會同步改變參與者的投票模式，HOST 需控管好避免影響投票結果。若議程有分階段投票的需求，或許另開新的 Session 避免干擾會是好方法。)
+:::
 
 ## 大翻譯運動
 ### 0617 更新

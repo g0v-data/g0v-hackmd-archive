@@ -161,3 +161,5 @@ tags: vtaiwan
 - 是否能夠主動進到社群媒體參與或者是主導討論 [name=peter]
 
 ## 搭配 AI，進行框架細節發想
+
+[筆記連結](https://app.notion.com/p/Civic-Talk-3823377fe3ec800c976bcf70e9507074?source=copy_link)
