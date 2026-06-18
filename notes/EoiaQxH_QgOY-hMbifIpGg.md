@@ -4,7 +4,7 @@ tags:
 
 # 臺北醫學大學校園環境探討
 
-各年代歷史地圖
+各年代歷史地圖、校園圍牆街景照片
 https://docs.google.com/presentation/d/1puKwC5G6E3oRbDqtgOKrOg985mSibUj0Ya6H7x76QAA/edit?usp=sharing
 
 [地圖] 整理都市內的帶狀水綠營造案例
