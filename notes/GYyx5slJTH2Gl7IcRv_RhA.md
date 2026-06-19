@@ -132,3 +132,9 @@ https://hackmd.io/@JKMGwA3nSGCAiG1UTMj1pw/SyE4hUFbGe/edit
 ### 觀察到的問題
 - 重複性
 - 贅字的問題
+
+
+
+## 轉錄逐字稿與AI大綱
+
+
