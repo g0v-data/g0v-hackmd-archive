@@ -1,5 +1,5 @@
+https://www.hotopump.com/
 
-https://www.fpdgreen.com/
-Zhejiang Feipuda Environmental Protection Technology Co., Ltd. was established in 2012 and is located in the Economic and Technological Development Zone of Jiaxing City, Zhejiang Province, China. As a high-tech enterprise integrating R&D, manufacturing, and sales, the company specializes in the development and production of core components for environmental protection equipment, with over a decade of manufacturing experience and profound technical expertise in the field of screw conveyor systems and related accessories.
-+86 19817096730
-140 Jinjiabang Street, Tanghui Street, Xiuzhou District, Jiaxing City, Zhejiang, China
+Hunan HONGTUO Machinery Co., Ltd. is a modern high-tech enterprise integrating R&D, production, sales and service, located in Xingsha Industrial Park, Changsha Economic and Technological Development Zone, Hunan Province, China. We focus on the field of fluid conveying equipment and provide professional, efficient and customized fluid conveying solutions and product services for global customers.
++86-18692285883
+1 Xiangyang Road, Changshao Economic and Technological Development Zone, Hunan, CHINA
