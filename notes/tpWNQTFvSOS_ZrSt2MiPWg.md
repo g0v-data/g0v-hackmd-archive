@@ -396,6 +396,13 @@ https://www.journals.uchicago.edu/doi/abs/10.1086/730621
 說明文件：https://g0v.hackmd.io/@5jPm6t3mSECMQeN0oYLaMA/BkffhrnVge?type=view
 
 
+## 2026
+
+### Structured Skepticism and Community Trust: How Civic Tech Grassroots Organizers in Taiwan Promote Digital Age Democratic Resilience
+- By: Bella Wexler
+- A paper submitted in partial fulfillment of the requirements for the Master of Arts degree in the Master of Arts Program in the Committee on International Relations
+ 
+
 ---
 ## 教科書 / 書本 / 出版
 ### Schoolbook 教科書中曾出現 g0v 社群或專案的內容
