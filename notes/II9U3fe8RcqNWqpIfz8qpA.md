@@ -50,9 +50,9 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
-| 海纜檢測 | Irvin | resilience.ocf.tw |
-| insert content here | insert name here | insert content here |
-| insert content here | insert name here | insert content here |
+| 如何走私(X)偷渡(X)合法運回(O)防災行動電源 | insert name here | insert content here |
+| 一起搭船去去石垣島，在船上邊玩 AIS 邊偷拍最上級 | Irvin | insert content here |
+| ATAK 開源地理空間地圖與態勢感知 | insert name here | insert content here |
 | insert content here | insert name here | insert content here |
 | insert content here | insert name here | insert content here |
 
