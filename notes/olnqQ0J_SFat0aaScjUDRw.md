@@ -50,6 +50,7 @@ tags: 防災, 災害, architecture
 ## 資料
 
 ### 待整理素材筆記區
+- 2026 卓樂部落 火災，中繼居住 https://www.facebook.com/share/p/1Nr8hyRdsk/
 - https://g0v.github.io/lysayit/speech.html?id=LCIDC01_1116401_00006#line-416
 - 2025 馬太鞍部落復原重建倡議 https://g0v.hackmd.io/i3H7DBfgTM27eFHLhjsA1A?view 
     - 阿美族家屋 https://www.facebook.com/ioeacademiasinica/posts/pfbid032eTGSyXz2s88o7a9PdAXV3a5UDZ6wNxegS7MXgeBjxiTkgR6qCa6o1FrXH3Ztucwl?locale=zh_TW
