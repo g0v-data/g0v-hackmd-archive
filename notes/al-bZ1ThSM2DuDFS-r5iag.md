@@ -22,7 +22,8 @@ https://photos.app.goo.gl/WXeJBmCFzWx8GovHA
 https://www.facebook.com/share/p/1HRg52u6tk/
 
 淡江大橋
-https://www.facebook.com/share/1R3WoQQdrh/?mibextid=wwXIfr
+https://www.facebook.com/share/1R3WoQQdrh/
+https://www.facebook.com/share/p/1G3doQ9dcn/
 
 ## 具體案例蒐集，之後可以標記到地圖上
 
