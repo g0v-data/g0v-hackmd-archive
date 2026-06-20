@@ -1,0 +1,1 @@
+<a href="https://7mcn.voto/blog/">https://7mcn.voto/blog/</a> Điểm đến dành cho người hâm mộ bóng đá với dữ liệu trận đấu chính xác, cập nhật nhanh chóng các tỷ số trực tiếp, nhận định, lịch thi đấu, bảng xếp hạng và biến động kèo nhà cái mỗi ngày.
