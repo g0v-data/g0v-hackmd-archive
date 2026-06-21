@@ -42,6 +42,11 @@ CC BY 4.0 by g0v contributors
 [TOC]
 
 ---
+
+
+## 萌典
+https://g0v.hackmd.io/ij0xJdSCTl2uHrEOMP3w0Q?view
+
 ## g0v podcast
 
 「g0v podcast」是 g0v 成立十週年所誕生的新專案，希望透過本節目跟大家介紹 g0v 十年來累積的社群專案，以及這些專案的幕後故事，讓更多不熟悉 g0v 的人可以藉此深入對 g0v 社群與專案的了解，不再覺得參與 g0v 是需要很高門檻的一件事。
