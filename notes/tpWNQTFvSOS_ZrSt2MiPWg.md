@@ -398,6 +398,13 @@ https://www.journals.uchicago.edu/doi/abs/10.1086/730621
 
 ## 2026
 
+### Data repoliticization and environmental governance: how civic data activism negotiates state bureaucracy in Taiwan
+
+-　Chen-Yuan Chen, John Chung-En Liu. “Data repoliticization and environmental governance: how civic data activism negotiates state bureaucracy in Taiwan”
+-　https://www.tandfonline.com/doi/full/10.1080/23251042.2026.2685272
+-　簡介文字：台大社會所博士班學生陳震遠與本系教授劉仲恩近日於 Environmental Sociology 共同發表研究論文，探討公民資料行動如何介入環境治理並推動政策改革，本研究以臺灣農地違章工廠治理為案例，分析公民團體如何透過資料整合、詮釋競逐與公共倡議，揭露政府資料系統與治理機制中的矛盾，進而推動環境治理改革。
+    -　摘自台大社會 FB 貼文 https://www.facebook.com/ntusociology/posts/pfbid04fYhTnv3D29eRFbz359RGTgJDRVA6QpU6hSCeWVnKRFSJeZF3a6iVQQrqY2Kyuaml
+
 ### Structured Skepticism and Community Trust: How Civic Tech Grassroots Organizers in Taiwan Promote Digital Age Democratic Resilience
 - By: Bella Wexler
 - A paper submitted in partial fulfillment of the requirements for the Master of Arts degree in the Master of Arts Program in the Committee on International Relations
