@@ -1,0 +1,3 @@
+Favoritlərə mərc etmək həmişə düzgün seçimdir?
+
+Böyük komandaların qələbəsinə mərc etmək ilk baxışdan zəmanətli görünsə də, uzunmüddətli perspektivdə bu strategiya mütləq ziyana aparır. Bukmeykerlər favoritlərin əmsallarını süni şəkildə aşağı salırlar, çünki hamı onlara pul qoyur. Mən adətən fərqli asiya handikapları ilə oynamağa üstünlük verirəm, bu riskləri xeyli azaldır. Canlı matç gedişatında künc zərbələrini və təhlükəli hücumları daha rahat tutmaq məqsədilə [1xbet apk yukle](https://aze.1xbet.com/az/mobile) bölməsindən yararlanıram. Həmişə turnir cədvəlindəki real ehtiyacları və zədəliləri nəzərə alın.

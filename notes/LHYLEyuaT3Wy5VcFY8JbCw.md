@@ -1,0 +1,3 @@
+Mərc tarixçəsini analiz etmək faydalıdır?
+
+Keçmiş mərcləri araşdırmaq pul itkisinin qarşısını almaq üçün ən effektiv üsuldur. Ayın sonunda mənfəət və zərərinizi hesablayanda hansı idman növündə daha uğurlu olduğunuzu aydın görürsünüz. Şəxsi təcrübəmə görə, səhvləri tapıb düzəltmək strategiyanı tamamilə dəyişir. Riskli kombinasiyaları sınamaq və ya yeni taktika yoxlamaq istədikdə real büdcəmə toxunmuram, bunun üçün sadəcə [1xbet promo kod](https://aze.1xbet.com/az/promo) seçimlərindən yararlanıb pulsuz mərclər edirəm. Qeydlərinizi mütləq ekseldə tutun, rəqəmlər yalan demir.
