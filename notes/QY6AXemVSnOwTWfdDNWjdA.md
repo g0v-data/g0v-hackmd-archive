@@ -1,0 +1,3 @@
+Bir neçə slot eyni anda oynamaq rahatdır?
+
+Telefonla oynayanda bu ümumiyyətlə qeyri-mümkündür, amma böyük monitorda bəzən edənlər olur. Şəxsən sınamışam və mənə görə deyil. Bir neçə slotu eyni vaxtda fırladanda həm oyunun strategiyasını qaçırırsan, həm də uduş xətlərini izləmək olmur. Normal bir [onlayn kazino](https://aze.1xbet.com/az/casino) daxilində hər slotun öz volatilliyi və dövriyyə ritmi var. Onları hiss etmək üçün tək-tək oynamaq ən doğrusudur. Pulunuzu bir neçə yerə bölüb eyni anda riskə atmaq yerinə, bir oyunda şansınızı sakitcə sınamaq daha məntiqlidir, həm də əsəbləriniz sakit qalar.
