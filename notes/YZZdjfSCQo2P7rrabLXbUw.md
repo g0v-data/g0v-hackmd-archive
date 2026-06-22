@@ -8,7 +8,7 @@
 :::
 
 
-Danica_Lou  chenyi170508
+https://www.settour.com.tw/act/gfg/japan/usj/info.html
 
 拼圖:https://g.co/arts/Wqau6cVK3KrjjsRU9
 即時翻譯
