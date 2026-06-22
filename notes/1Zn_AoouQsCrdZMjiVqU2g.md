@@ -1,0 +1,3 @@
+Bonus funksiyalarının real təsiri
+
+Slotlardakı pulsuz fırlatmalar və çarpanlar bəzən həqiqətən də sıfır balansı möcüzəvi şəkildə qaldıra bilir. Keçən həftə sadə bir slotda təsadüfən çarpan funksiyası işə düşdü və kiçik uduşum birdən-birə ciddi məbləğə çevrildi. Amma müxtəlif [casino online](https://aze.1xbet.com/az/casino) saytlarında fərqli oyunları yoxlayarkən anladım ki, hər bonus funksiyasına kor-koranə güvənmək olmaz. Bəzi slotlar vizual olaraq çox cəlbedici görünür, lakin realda çox az qazandırır. Oyun seçərkən mütləq onların qaydalarını və bonusların necə işlədiyini əvvəlcədən oxumaq, kiçik uclarla başlamaq lazımdır.
