@@ -1,5 +1,6 @@
-https://www.hotopump.com/
+https://www.jwellmachineryglobal.com/
+JWELL Machinery Co.,Ltd was established in 1997，Shanghai, China.
+With more than 24 years experience in the field of plastic extrusion, Jwell Company has become distinctive because of her deep understanding of plastic extrusion and outstanding performance of machine processing.
 
-Hunan HONGTUO Machinery Co., Ltd. is a modern high-tech enterprise integrating R&D, production, sales and service, located in Xingsha Industrial Park, Changsha Economic and Technological Development Zone, Hunan Province, China. We focus on the field of fluid conveying equipment and provide professional, efficient and customized fluid conveying solutions and product services for global customers.
-+86-18692285883
-1 Xiangyang Road, Changshao Economic and Technological Development Zone, Hunan, CHINA
+ +86 188 512 10105
+No.118 Shangshang Road, Zhongguancun Science and Technology Industrial Park, Liyang City, Jiangsu Province, China
