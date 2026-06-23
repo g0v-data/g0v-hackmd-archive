@@ -8,14 +8,13 @@ tags: GIS,
 
 http://mapwarper.net
 
-## Case
+### 使用案例 Case
 
 https://mapwarper.net/maps/76578#Preview_Rectified_Map_tab
 
 https://mapwarper.net/maps/108311#Preview_Rectified_Map_tab
 
-## case 峨嵋鄉
-
+## 其他：用國土測繪中心線上地圖中的描繪工具
 
 用國土測繪中心線上地圖中的描繪工具，大致框出範圍，再點選匯出取得 KML 檔案格式
 國土測繪中心線上地圖：https://maps.nlsc.gov.tw/T09/mapshow.action?In_type=web
