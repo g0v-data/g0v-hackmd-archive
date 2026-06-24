@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter, 
+參與者 Participants：Peter, Thompson Lin, Yi ting Lien 
 
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -41,8 +41,12 @@ https://www.vtaiwan.tw/jitsi
 ## 小小的分享
 ### 與 TWNIC 的活動正式上線，並且開始宣傳
 - polis 連結：https://polis.tw/9xeamzkbjp
+    - 討論點：是否要換到 pol.is 上面
+    - 確認點：資料是可以導出的嗎？ [name=peter]
 - 報名表單：https://docs.google.com/forms/d/e/1FAIpQLSfZ7ZtrXB841V8Jv7eY0fFvB8N9QvihaNEoO1t8H_daKxt6oQ/viewform?usp=dialog 
     - 目前 13 人報名，持續推進與分享中
+    - 目前來的參與者 profile 主要都是公民科技社群與組織
+    - 需要不同的人際關係進行突破
 - 討論議題整理：https://docs.google.com/document/d/1Nf75VLMcmXRkUUK8qhfJwUGvjieFjzRTSEz448X-sGA/edit?usp=sharing 
 - 活動規劃： https://docs.google.com/document/d/1jTHJ7KlLN0oBFdFZDbLdQVdr7wnnb91m9nBKpgFRfIM/edit?usp=sharing 
 
@@ -84,12 +88,29 @@ Funding Partner: Youth Democracy Network (YDN): https://youthdemocracynetwork.or
 ## 7/17 審議大會活動
 ### 今天想要討論的部分：
 - 盤點當天可以來現場協助的人員
+    - Peter
+    - Yi ting 
+    - Billy
+    - Tofus
+    - Tim(?)
+    - Josh (線上)
+    - Thompson （可能可以，線上）
 - 相關的工作項目
 - 活動流程
 - 工具衝突問題：mentimeter 與 hearagora 如何同時顯示？
     - 用戶的終端設備與大螢幕的設備都會需要納入考量
+    - 解決方案：
+        - mentimeter 一開始收集意見與破冰
+            - 優點很明顯，可以
+            - 缺點：無法改變方向，需要人類介入來處理資訊
+        - https://hear.atgora.org/ 用在聆聽式的內容
+        - 同上測試：最近會進行
+        - Mentimeter 準備一些備援的簡報
+
 ### 目前的議題縱覽
-- 
+- 目前有一份 UNICRI 的報告：https://unicri.org/sites/default/files/2024-09/Generative-AI-New-Threat-Online-Child-Abuse.pdf?utm_source=chatgpt.com 
+    - 非常完整
+    - 會以這個報告作為討論的主軸
 ### 相關連結
 - polis 連結：https://polis.tw/9xeamzkbjp
 - 報名表單：https://docs.google.com/forms/d/e/1FAIpQLSfZ7ZtrXB841V8Jv7eY0fFvB8N9QvihaNEoO1t8H_daKxt6oQ/viewform?usp=dialog 
@@ -114,5 +135,35 @@ https://hackmd.io/@JKMGwA3nSGCAiG1UTMj1pw/SyE4hUFbGe/edit
 
 (特別須留意的是 Vote Scale 分為 "Agree/Disagree" 跟 "Likert" 兩種模式，HOST 可以隨時切換，雖然方便但也會同步改變參與者的投票模式，HOST 需控管好避免影響投票結果。若議程有分階段投票的需求，或許另開新的 Session 避免干擾會是好方法。)
 :::
+
+## Civic talk 
+- 利用 AI 整理議題內容的實際案例
+- https://ronnywang.github.io/civic-notes/cheerleading-male-gaze/ 
+- 有些討論：
+:::info
+Tim: 
+看起來像一些新聞網站會有的文章風格 (如 名詞解釋、重點整理)。
+這可能是雙面刃：好處是符合台灣人平常的閱讀習慣。但也容易被視為另一個新聞媒體，要如何建立公信力與差異化也值得思考。
+
+另外排版上有一點建議：【名詞說明】會介紹到的詞最好在前面【事情始末】先簡單出場使用。
+像我初看到【名詞說明】的「男性凝視」跟「性別物化」介紹，較難直覺地跟議題前述爭點產生關連性，看不懂的情況下只想跳過說明直接閱讀下文，通篇閱讀的體驗就沒那麼順。
+
+Johnson: 
+文章風格 ai 感太重，論述少，但整體內容又太多 
+> 不過我覺得如果是議題資訊整理的話，本來就是以資料匯集為主，這邊的期待對齊可以再調整一下。[name=peter]
+:::
+
+## Civic Talk 共筆
+### 使用者回饋
+- 「希望多一點人味，讓使用者旅程可以看到更多的人。與其他人的討論痕跡互動。」- Thompson 
+- 專案共筆：[vtaiwan 2026 新專案 civic talk](/u6Z7tvLKTzWYSH49YTCw1A)
+- [civic talk 管理者指南](/2iS9plTURyuEb9U_vdN1qg)
+- Github 連結：https://github.com/v-taiwan/civic-talk
+- 目前部署連結：https://civic-talk.pages.dev
+- 上週正式完成部署與實作
+- 下一步：思考應用與宣傳，還有招募使用者
+### Milestone: 
+- 7/17@TWNIC 活動上可以使用
+
 
 ## 大翻譯運動
