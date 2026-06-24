@@ -76,13 +76,15 @@ Project Partners: Wei (Azim) Hung, Taiwan; CDD-West Africa
 Funding Partner: Youth Democracy Network (YDN): https://youthdemocracynetwork.org
 :::
 - 預計會在 7/2 臺灣時間 17:00-19:00 進行一場線上分享，探討使用 AI 工具用於政策討論的經驗。
-- 
+- 目前
 
 ## 7/17 審議大會活動
 ### 今天想要討論的部分：
 - 盤點當天可以來現場協助的人員
 - 相關的工作項目
 - 活動流程
+- 工具衝突問題：mentimeter 與 hearagora 如何同時顯示？
+    - 用戶的終端設備與大螢幕的設備都會需要納入考量
 ### 目前的議題縱覽
 - 
 ### 相關連結
@@ -92,5 +94,22 @@ Funding Partner: Youth Democracy Network (YDN): https://youthdemocracynetwork.or
 - 討論議題整理：https://docs.google.com/document/d/1Nf75VLMcmXRkUUK8qhfJwUGvjieFjzRTSEz448X-sGA/edit?usp=sharing 
 - 活動規劃： https://docs.google.com/document/d/1jTHJ7KlLN0oBFdFZDbLdQVdr7wnnb91m9nBKpgFRfIM/edit?usp=sharing 
 
+## HearAgora 工具
+- 目前網址：hear.atgora.org 
+- 測試回饋
+:::info
+#### Tim: 
+https://hackmd.io/@JKMGwA3nSGCAiG1UTMj1pw/SyE4hUFbGe/edit
+考慮到這是你和歐洲夥伴們開發的，我有對各建議附上 Google 機翻譯文供他們參考，若有表達不夠周全的地方還請幫我補充說明，感謝~ :pray:
+#### Tim: 
+根據實測結果，目前功能規劃有兩種身份：
+(1) HOST 有開麥 & 打字 建立論點的權力，也可以分發 HOST 身份。
+(2) 一般參與者僅能進行投票表態。
+如果活動要順暢進行，收音品質跟辨識度滿關鍵的。我認為比較保險的做法，是活動當天準備一台手機跟一台筆電分別登入為 HOST。
+活動當天將手機當作麥克風傳遞給現場參與者發表論點。如果手機成功辨識語音，筆電端 HOST 就直接 Approve 為論點；如果手機辨識語音不佳 (或是線上參與者)，那筆電的 HOST 就幫忙打字建立論點。
+至於投票的結果呈現會跟主持人後續規劃流程有關，這部分 @Peter 也可以自行測看看提供想法~ :saluting_face:
+
+(特別須留意的是 Vote Scale 分為 "Agree/Disagree" 跟 "Likert" 兩種模式，HOST 可以隨時切換，雖然方便但也會同步改變參與者的投票模式，HOST 需控管好避免影響投票結果。若議程有分階段投票的需求，或許另開新的 Session 避免干擾會是好方法。)
+:::
 
 ## 大翻譯運動
