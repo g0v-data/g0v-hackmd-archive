@@ -88,6 +88,7 @@ community governance
 
 2026 小松紀錄 2026 Weekly Meetup
 ----
+- [20260624小松](/_kJ0Ay7BS4SILRg2aQCzjQ)
 - [20260617小松](/GYyx5slJTH2Gl7IcRv_RhA)
 - [20260610小松](/eMZwRFzqQauZSY-EofiPfA)
 - [20260603小松](/WYC0EHdESpuUJ5j1aANrcg)
