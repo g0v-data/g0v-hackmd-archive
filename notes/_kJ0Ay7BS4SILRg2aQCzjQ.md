@@ -5,10 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter, Thompson, Cindy, Billy, Tim, Ellen  
-
-![](https://g0v.hackmd.io/_uploads/HJpnRbgzMl.png)
-
+參與者 Participants：Peter, 
 
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -76,7 +73,13 @@ Project Partners: Wei (Azim) Hung, Taiwan; CDD-West Africa
 Funding Partner: Youth Democracy Network (YDN): https://youthdemocracynetwork.org
 :::
 - 預計會在 7/2 臺灣時間 17:00-19:00 進行一場線上分享，探討使用 AI 工具用於政策討論的經驗。
-- 目前
+- 目前架構
+    - The story of vTaiwan
+    - How vTaiwan uses digital tools
+    - 2023 Bridging the Recursive Public
+    - Recent AI and digital tool experiments
+    - Four-step framework for democratic tool adoption
+    - Lessons for Nigeria and democratic innovation
 
 ## 7/17 審議大會活動
 ### 今天想要討論的部分：
