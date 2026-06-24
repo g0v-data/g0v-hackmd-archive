@@ -75,6 +75,8 @@ Lead Organisation: [Tunani Initiative](https://tunanihq.org)(Nigeria)
 Project Partners: Wei (Azim) Hung, Taiwan; CDD-West Africa
 Funding Partner: Youth Democracy Network (YDN): https://youthdemocracynetwork.org
 :::
+- 預計會在 7/2 臺灣時間 17:00-19:00 進行一場線上分享，探討使用 AI 工具用於政策討論的經驗。
+- 
 
 ## 7/17 審議大會活動
 ### 今天想要討論的部分：
