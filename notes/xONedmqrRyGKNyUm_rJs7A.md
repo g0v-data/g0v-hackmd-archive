@@ -29,6 +29,7 @@ https://photos.app.goo.gl/AhGfYa1S2c9buSuE8
 
 竹塹社
 https://hackmd.io/@indigenous/HyRKA-FiI
+https://hackmd.io/LmwScOSlQVSzK0ORhWdLUQ
 
 道卡斯，新港社
 https://www.facebook.com/share/1Jbg1km7dh/?mibextid=wwXIfr
