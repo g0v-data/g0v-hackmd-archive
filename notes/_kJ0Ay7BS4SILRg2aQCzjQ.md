@@ -70,6 +70,7 @@ https://polis.tw/9xeamzkbjp
 ![](https://g0v.hackmd.io/_uploads/ByeCdN-Kfzg.png)
 
 ### 奈及利亞分享邀請
+- 開了一個共筆 [20260702 vTaiwan Sharing](/ax7BvY-1S-SCF78JlpBamQ)
 - 上週收到來自奈及利亞的分享邀請，相關資訊如下：
 :::info 
 Lead Organisation: [Tunani Initiative](https://tunanihq.org)(Nigeria)
