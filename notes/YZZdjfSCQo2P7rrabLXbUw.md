@@ -23,42 +23,15 @@ https://poki.com/zh/g/vortellis-pizza?gdgameCode=YAIUT3
 #### 日本環球影城自由行規劃
 https://docs.google.com/spreadsheets/d/1Ev91XyoPuatA-S9McHo_Act2tdDrtacrDuVr3TKsHWo/edit?usp=sharing
 
-大阪環球影城1.5日票攻略：    https://www.youtube.com/watch?v=9ebsj1Gc6I4
+大阪環球影城1.5日票攻略：   
 https://www.youtube.com/watch?v=QcJ3ze6reVs
   
- https://www.facebook.com/photo/?fbid=122133864603187714&set=pcb.122133865317187714
-
-
-|遊樂設施 / 快速通關4|Minecart & Fun|Minecart & Jurassic Park-可能選擇|
-| -------- | -------- | -------- |
-|瑪利歐賽車庫巴的挑戰書（含超級任天堂世界入園保證）|1|排隊|
-|耀西的冒險（含超級任天堂世界入園保證）||1|
-|咚奇剛的瘋狂礦車（含超級任天堂世界入園保證）|1|1|
-|鷹馬的飛行（含哈利波特魔法世界入園保證）|||
-|哈利波特禁忌之旅（含哈利波特魔法世界入園保證）|1||
-|名偵探柯南4-D現場表演秀|||
-|好萊塢美夢乘車遊|||
-|大白鯊|2選1|可能不選|
-|侏儸紀公園 – 乘船遊|2選1|可能選擇|
-|小小兵瘋狂乘車遊||1|
-|小小兵瘋狂任務：成為大壞蛋之路|||
-	
-門票價格等級：F,B,C,D,E=票價低~高
-https://www.usj.co.jp/ticket/common/studiopass/price-calendar.html?spm=Activity.SectionCollapse.Link&clickId=07c4f8293c
-京阪神環球影城5天4夜行程 https://kimiyo.tw/kansai-trip4/
-詳細活動，超級任天堂等 https://vocus.cc/article/655c5374fd89780001bb1262
-
 海遊館(天保山)<-->環球影城
 來回含海遊館入管券 4200，單程3400，下午5點回程，末班6點
 https://www.kaiyukan.com/thv/captline/
 
 大阪周遊卡 Osaka Amazing Pass，2日券約台幣1000，不含南海本線、 JR 線
 可參與約40項設施，例如天保山大摩天輪
-
-無敵星星瑪利歐能量手環，售價為5900日圓
-
-單字卡
-https://quizlet.com/tw/606710364/112%E4%BD%B3%E9%9F%B3%E7%BF%B0%E6%9E%97%E5%9C%8B%E4%B8%AD%E8%8B%B1%E8%AA%9Ebook-1_7%E4%B8%8Au3_%E5%96%AE%E5%AD%97%E5%85%A8-flash-cards/
 
 畫圖猜圖/邀請馬：https://brushbattle.io/#440635
 你畫我猜    https://gartic.io/
