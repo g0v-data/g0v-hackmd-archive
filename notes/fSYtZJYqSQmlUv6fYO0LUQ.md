@@ -4,6 +4,7 @@
 * マルチモーダルAI 
 GPT-4V
 tsuzumi
+**LLaVAに決定**
 
 * graphRAG
 LlamaIndex
