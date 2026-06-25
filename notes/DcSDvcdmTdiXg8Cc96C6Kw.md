@@ -8,6 +8,8 @@ tags: GIS, 都市更新
 https://www.facebook.com/share/p/1LSewn31tS/
 
 ## 待登載資料
+
+垂直電梯
 - 49 筆，臺北市私人住宅類，簡易程序-增設電梯（套餐B） 
     - https://uro.gov.taipei/News.aspx?n=9639D4A96F49BAFC&sms=B462987B049EF0B0&_CSN=06344202CAE09649
     - 圖卡資訊，要手動 key 出地址文字
@@ -18,6 +20,10 @@ https://www.facebook.com/share/p/1LSewn31tS/
 https://www.wealth.com.tw/articles/c95b77d0-4f60-4e30-af0a-7709d3ef9631?utm_source=facebook.com&utm_medium=fanpage
 - 中山區新興社宅
 - 公共建築類，有蒐集到也可登載到地圖中
+
+[預計新增此類別] 升降梯
+- https://www.hdac.com.tw/faq/faq.html
+- https://www.stannah.tw/
 
 ## 案例地圖
 https://maps.app.goo.gl/PcJbYYY2DPrkro5C6?g_st=ic

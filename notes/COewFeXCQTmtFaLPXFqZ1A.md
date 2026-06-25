@@ -132,6 +132,10 @@ https://data.seoul.go.kr/SeoulRtd/
 
 https://g0v.hackmd.io/@china/book
 
+# HK
+
+香港百大民間地圖
+https://docs.google.com/spreadsheets/d/1iXoayl5JYfINp_nIOHQMLrifsIk8KjtuuXH8vLO6C70/edit
 
 # Taiwan
 
