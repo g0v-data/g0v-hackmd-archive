@@ -41,6 +41,9 @@ tags: Rentea, CoRent
       > 不完全跟租屋議題相關，但最近看到基隆有團隊在做「在地空間媒合物件」，我覺得很有趣。
       > 網站上的物件有說明主人希望建築怎麼樣被使用，例如換宿、餐飲營運等。[name=YC]
 
+國立臺東大學 校外賃居網
+https://house.nfu.edu.tw/NTTU
+
 ## 契約相關
 
 - 公證 https://www.facebook.com/story.php?story_fbid=pfbid0dcz13WYevBginVfyQgkvTWB5kiUNpThMby8V7p3u21dahyQRR92rc8wLUENdGcSSl&id=100064928171862&mibextid=qC1gEa

@@ -10,7 +10,7 @@ g0v 數位韌性松 DigiResiTh0n 大全
 ===
 
 :::danger
-# 👈 Click the links on left side's [bookmarks](s.g0v.tw/resi), for latest event please refer to "[20260118 DigiResiTh13n](/dzEjfFD_RLe9DJzOMQ2C8A)"
+# 👈 Click the links on left side's [bookmarks](s.g0v.tw/resi), for latest event please refer to "[20260621 DigiResiTh15n](/%2FII9U3fe8RcqNWqpIfz8qpA)"
 :::
 
 
