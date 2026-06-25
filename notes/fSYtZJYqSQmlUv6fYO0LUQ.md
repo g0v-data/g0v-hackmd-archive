@@ -1,5 +1,14 @@
 ## 開発ノート
 `文字入力、プロンプト入力->ストーリーを入力することに絞る`
+> 6/25
+* マルチモーダルAI 
+GPT-4V
+tsuzumi
+
+* graphRAG
+LlamaIndex
+
+---
 >Llama(ラマ) 3.1 8B ins 
 
 * 文字数（Maxtext）:128k(約10万〜15万文字,一般的な小説や新書で約1〜1.5冊分)
@@ -13,8 +22,8 @@
 
 トランスフォーマーのインストールを必ず更新してくださいpip install --upgrade transformers。
 
-> 数式エディタの搭載
->* MathJax(JavaScriptプログラム)
+> ~~~~数式エディタの搭載
+>* MathJax(JavaScriptプログラム)~~~~
 
 > ベンゼン環の描画
 >* RDKit
