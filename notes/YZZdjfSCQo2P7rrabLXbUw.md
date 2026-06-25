@@ -23,6 +23,8 @@ https://poki.com/zh/g/vortellis-pizza?gdgameCode=YAIUT3
 #### 日本環球影城自由行規劃
 https://docs.google.com/spreadsheets/d/1Ev91XyoPuatA-S9McHo_Act2tdDrtacrDuVr3TKsHWo/edit?usp=sharing
 
+https://youtu.be/IlgmZlmcphU
+
 大阪環球影城1.5日票攻略：   
 https://www.youtube.com/watch?v=QcJ3ze6reVs
   
