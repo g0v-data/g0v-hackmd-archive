@@ -305,6 +305,7 @@ g0v slack 歡迎訊息，草稿共筆文件
 歷年上線成員帳號數量計算：
 - 計算方式說明：https://slack.com/intl/zh-tw/help/articles/23546798305171-%E5%B8%B8%E8%A6%8B%E5%95%8F%E7%AD%94%E9%9B%86%EF%BC%9ASlack-%E7%9A%84%E6%B4%BB%E8%BA%8D%E4%BD%BF%E7%94%A8%E8%80%85%E8%A8%88%E7%AE%97%E6%96%B9%E5%BC%8F%E6%9B%B4%E6%96%B0
 - 20260327：375 位
+- 20260626：346 位
 
 ![](https://g0v.hackmd.io/_uploads/H1-hueEi-x.png)
 ![](https://g0v.hackmd.io/_uploads/SJx-nulNibg.png)
