@@ -1,6 +1,5 @@
-https://www.jwellmachineryglobal.com/
-JWELL Machinery Co.,Ltd was established in 1997，Shanghai, China.
-With more than 24 years experience in the field of plastic extrusion, Jwell Company has become distinctive because of her deep understanding of plastic extrusion and outstanding performance of machine processing.
+https://www.kellywaygroup.com/
 
- +86 188 512 10105
-No.118 Shangshang Road, Zhongguancun Science and Technology Industrial Park, Liyang City, Jiangsu Province, China
+Hunan Kellyway Machinery Co., Ltd founded in 2015,was founded by the main team which is with up to ten years' experience on foundation works and piling machinery. HKM locates in Hunan province which is in the center of China famous for heavy equipment manufacturers. Kellyway is committed to manufacture and supply most reliable and highest cost-performance products for piling works including Kelly Bars, Drilling Tools, Drilling teeth, Double and Single Wall Casing, Roller Bits, Hydraulic Pile Breaker, Loading Test Jack.
++86 13401022481
+No. 9, Minle Road, Jiuhua Eoconomic Development Zone, Xiangtan, Hunan Province,China.
