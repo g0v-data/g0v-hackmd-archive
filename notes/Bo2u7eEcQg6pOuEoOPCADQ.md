@@ -76,6 +76,9 @@ https://www.instagram.com/reel/DLphbeLzvyz/
 東南亞各國
 https://www.facebook.com/share/p/1Amwob6CAK/
 
+2026 兵推，針對中共的海上脅迫，全社會防衛韌性委員會聚集了十一個部會，進行桌上兵推
+https://www.facebook.com/share/p/1aUP2tyakf/?mibextid=wwXIfr
+
 其他：災害應變兵推
 https://g0v.hackmd.io/1gFLsAufSuaSY6meOThf_g?view#%E7%81%BD%E5%AE%B3%E6%87%89%E8%AE%8A%E5%85%B5%E6%8E%A8 
 
