@@ -25,7 +25,7 @@ tags: Rentea, CoRent
 
 1. [如何看電箱與計算用電量](https://www.strongpilab.com/current-capacity-estimation/)
 2. 水電實際動工情況，可看[水電爸爸](https://www.youtube.com/channel/UCVizi411ybhS3LKxX6DocDA)
-
+3. [談屋頂防水施作](https://www.facebook.com/sun.ming.de.37061/posts/pfbid0F9rKAXuWwonDP3XRXPA1wCtC37paPmGTiz3nF285Rnxeu8CE1ihYCK62dmbekPFsl)
 
 ## 各地區的資源
 
