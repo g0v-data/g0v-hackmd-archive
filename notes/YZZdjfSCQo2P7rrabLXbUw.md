@@ -35,11 +35,11 @@ https://www.kaiyukan.com/thv/captline/
 大阪周遊卡 Osaka Amazing Pass，2日券約台幣1000，不含南海本線、 JR 線
 可參與約40項設施，例如天保山大摩天輪
 
-畫圖猜圖/邀請馬：https://brushbattle.io/#440635
+
 你畫我猜    https://gartic.io/
 Google限時塗鴉    https://quickdraw.withgoogle.com/?locale=zh_TW
 Google Play 
-猜猜畫畫    https://play.google.com/store/apps/details?id=com.kwalee.drawit&hl=zh_TW
+
 
 擋廣告
 https://adguard.com/zh_tw/welcome.html?utm_campaign=home&utm_medium=license_activation&utm_source=android
