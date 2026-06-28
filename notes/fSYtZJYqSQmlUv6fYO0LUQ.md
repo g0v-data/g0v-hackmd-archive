@@ -1,5 +1,22 @@
 ## 開発ノート
 `文字入力、プロンプト入力->ストーリーを入力することに絞る`
+
+> 6/28
+LLaVAの導入
+
+新しく Python 3.10 を入れ直すよりも、「現在の Python 3.12 のままで、LLaVA 側の要求（Python 3.10用である PyTorch 2.1.2）を無視して最新の PyTorch を強制的に使う」方式
+----
+* 仮想環境（venv）を作る
+# 仮想環境を作成
+python3 -m venv l_env
+
+# 仮想環境を有効化（画面左端に (l_env) と出ます）
+source l_env/bin/activate
+
+# pipを最新にする
+pip install --upgrade pip
+
+----
 > 6/25
 * マルチモーダルAI 
 GPT-4V
