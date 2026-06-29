@@ -49,6 +49,8 @@ https://g0v.hackmd.io/IOBJ82JSRFuodkB-M2FXFg?view
     - https://thaubing.gcaa.org.tw/blog/category/27
 - 有責商行 
     - https://www.facebook.com/100000096784136/posts/4985413894805121/
+- 倡議中
+    - https://agrijourney.org/petition-food-origin/#p-2
 
 ## 【蒐集】具體機制或標章制度
 
