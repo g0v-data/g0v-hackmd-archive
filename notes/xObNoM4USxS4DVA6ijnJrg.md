@@ -120,6 +120,12 @@ tags: GIS,
 2026/03/10 [法院辯論終結，預定6月底宣判](https://udn.com/news/story/7321/9371112)
 2026/06/07 [江明宗發現學甲大灣段農地被堆置事業廢棄物](https://www.youtube.com/watch?v=4mFvfG54pEg)
 2026/06/08 [蔡育輝質詢後續處置](https://www.youtube.com/watch?v=Th6LLuLaGEg)
+2026/06/29 [法院宣判](https://www.judicial.gov.tw/tw/cp-1888-1571488-71340-1.html)
+* 郭O欽有期徒刑8年6月
+* 魏O筠有期徒刑5年
+* 林O順有期徒刑10月
+* 馬O慰有期徒刑1年10月
+* 賴O添有期徒刑4年6月
 
 其他參考資料
 20190624 李新進里長陳情書
