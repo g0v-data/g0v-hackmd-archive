@@ -24,6 +24,9 @@ https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=9950&n=30177&sms=9942
 替代醫療場所（Alternative Care Site）規劃的工作坊
 https://www.facebook.com/frankfuhyuan.shih/posts/10223295464711607
 
+2026 高溫兵推
+https://www.facebook.com/share/p/1ET3CB5zqa/
+
 ## 軍事兵推
 
 蒐集文件
