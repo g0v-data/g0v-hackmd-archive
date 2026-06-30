@@ -16,3 +16,6 @@ https://www.facebook.com/share/p/1AJciCeitt/?mibextid=wwXIfr
 
 待指認探討範圍
 https://youtu.be/PY-GnymbYiA
+
+內湖相關照片與影像
+https://photos.app.goo.gl/UpMr7CPLWQb3mv1NA
