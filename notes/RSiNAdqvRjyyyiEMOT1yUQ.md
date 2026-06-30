@@ -1,0 +1,7 @@
+Website <a href="https://donghodinhvigps.com/">https://donghodinhvigps.com/</a>  là kênh phân phối trực tuyến chính thức của BabyKid Việt Nam, thương hiệu hàng đầu chuyên cung cấp các dòng đồng hồ thông minh định vị GPS chất lượng cao dành cho trẻ em học sinh cấp 1, cấp 2 và cấp 3. Tại đây, phụ huynh dễ dàng tìm thấy đa dạng các mẫu đồng hồ tích hợp nhiều công nghệ tiên tiến nhất hiện nay như định vị đa chế độ (GPS, Wifi, LBS), hỗ trợ lắp SIM nghe gọi hai chiều, nhắn tin thoại và thực hiện cuộc gọi video call hoàn toàn miễn phí. Bên cạnh đó, thiết bị còn sở hữu các tính năng bảo vệ tối ưu như cảnh báo khẩn cấp SOS, khoanh vùng an toàn, nghe âm thanh bí mật và chuẩn chống nước IP67 bền bỉ. Với cam kết sản phẩm chính hãng 100%, chính sách bảo hành một đổi một uy tín cùng dịch vụ hỗ trợ cài đặt từ xa chuyên nghiệp, website mang đến giải pháp giám sát, bảo vệ an toàn toàn diện và đồng hành cùng bé trên mọi hành trình.
+website: <a href="https://donghodinhvigps.com/">https://donghodinhvigps.com/</a> 
+phone: 0981855155 - 0383812345
+Email: admin@donghodinhvigps.com
+map: https://maps.app.goo.gl/T5ZGZ8xih7aRTmTJ6
+Địa chỉ: Số 29A2 ngõ 125 Đường Bùi Xương Trạch, Phường Khương Đình, Thành Phố Hà Nội
+hagtag: #donghodinhvigps #donghodinhvi
