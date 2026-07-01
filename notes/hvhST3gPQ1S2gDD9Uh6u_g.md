@@ -5,8 +5,12 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter,
+參與者 Participants：Peter, Tim, Yi-Ting Lien
 
+![](https://g0v.hackmd.io/_uploads/ryeOhcdMmMl.png)
+
+
+https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
 
 ::: success
@@ -51,9 +55,23 @@ tags: vTaiwan
     - 後續 issue: pol.is 的網頁連結有問題，因此修改
 - 報名表單：https://docs.google.com/forms/d/e/1FAIpQLSfZ7ZtrXB841V8Jv7eY0fFvB8N9QvihaNEoO1t8H_daKxt6oQ/viewform?usp=dialog 
     - 目前 28 人報名，持續推進與分享中
-    - 持續突破中
+    - 持續突破中，目前在思考如何打入家長與教師的群組
+    - 有參與 polis 的人太少，要鼓勵大家更積極地利用 polis 
+        - 寄信給報名者
 - 討論議題整理：https://docs.google.com/document/d/1Nf75VLMcmXRkUUK8qhfJwUGvjieFjzRTSEz448X-sGA/edit?usp=sharing 
 - 活動規劃： https://docs.google.com/document/d/1jTHJ7KlLN0oBFdFZDbLdQVdr
 - 議題簡報連結：
+    - 以這篇 UNICRI 報告來作為架構：https://unicri.org/sites/default/files/2024-09/Generative-AI-New-Threat-Online-Child-Abuse.pdf?utm_source=chatgpt.com 
 
-## 
+### 公民參與者招募進度
+- 公民參與者招募人數：接近100人
+    - 實體：待確認
+    - 線上：待確認
+- 有提供說明給公民參與者
+- 預計本週週末發詳細資訊
+- 兩場一起的設計：
+
+## civic talk 討論
+- civic talk 與 vTaiwan 主網站的功能劃分問題 [name=tim]
+    - civic talk 是議題討論的一個環節，主網站則是專案完整資訊的集散地。
+    - 
