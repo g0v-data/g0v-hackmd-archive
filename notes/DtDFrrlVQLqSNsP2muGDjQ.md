@@ -1,0 +1,1 @@
+[luongsontv](https://luongsontv60.com/) là nền tảng được nhiều người hâm mộ lựa chọn để theo dõi trực tiếp bóng đá với chất lượng hình ảnh sắc nét và đường truyền ổn định. Bên cạnh việc phát sóng các giải đấu hấp dẫn, lương sơn tv còn cập nhật lịch thi đấu, kết quả và highlight nhanh chóng, giúp người xem không bỏ lỡ bất kỳ diễn biến quan trọng nào.
