@@ -5,7 +5,9 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter, Thompson Lin, Yi ting Lien 
+參與者 Participants：Peter, Thompson Lin, Yi ting Lien, Josh, Tim 
+
+![](https://g0v.hackmd.io/_uploads/rymN6wGQGx.png)
 
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
