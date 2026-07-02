@@ -68,6 +68,7 @@ tags: 防災, 災害, architecture
 - 舊社
     - https://photos.app.goo.gl/x143m17kke5mrPou8
     - 強制移住
+- 邵族 https://www.facebook.com/xie.ying.jun.726117/posts/pfbid02uMWNeSubK1jwqtcbkymdJG95CDXrHjAkqFcdijZeZMKu1L9Z4F5uRERF4RWbBsYol
 - [較耗時] 對照 hackpad 內容，把這邊沒有的內容搬到 hackmd https://g0v.hackpad.tw/jEoiuMS44dD
 
 ### 各種面向的資料蒐集
