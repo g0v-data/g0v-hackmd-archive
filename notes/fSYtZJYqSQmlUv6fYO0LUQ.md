@@ -3,14 +3,101 @@
 > 7/3
 **Pony v6のコンテナ移行及び他AIとのつなげ作業**
 
+* 必要なライブラリのインストール(ターミナル)
+````
+pip install diffusers transformers accelerate peft safetensors
+
+※ torch と torchvision はすでにLLaVAのインストール時に最適なバージョンが入っているため、上書きによる競合を防ぐためにここでは除外しています。
+
+````
+> pipeline.py の書き換え(書き換え前のコードは前回) 
+````
+import subprocess
+import torch
+from diffusers import StableDiffusionXLPipeline
+
+def generate_pony_image(prompt, output_path):
+    print("\n--- [Pony v6] 画像の生成を開始します ---")
+    
+    # 1. Pony V6のベースモデルを読み込む
+    pipe = StableDiffusionXLPipeline.from_pretrained(
+        "Bakanayatsu/Pony-Diffusion-V6-XL-for-Anime",
+        torch_dtype=torch.bfloat16
+    )
+    pipe = pipe.to("cuda")
+
+    # 2. Pony V6用の固定ネガティブプロンプト
+    negative_prompt = (
+        "score_4, score_5, score_6, source_pony, source_furry, lowres, "
+        "bad anatomy, bad hands, text, error, missing fingers, extra digit, "
+        "fewer digits, cropped, worst quality, low quality"
+    )
+
+    # 3. 画像を生成
+    image = pipe(
+        prompt=prompt,
+        negative_prompt=negative_prompt,
+        num_inference_steps=30,
+        guidance_scale=7.0
+    ).images[0]
+
+    # 4. 指定されたパスに画像を保存
+    image.save(output_path)
+    print(f"--- [Pony v6] 画像を保存しました: {output_path} ---")
+
+
+def check_contradiction_with_llava(image_path, story_text):
+    print("\n--- [LLaVA] 画像の検品を開始します ---")
+    
+    # ターミナルコマンドを再現
+    query_text = f"この画像は次のストーリーと矛盾していますか？キャラの特徴にズレがあれば具体的に指摘してください。 ストーリー: {story_text}"
+    cmd = [
+        "python", "-m", "llava.eval.run_llava",
+        "--model-path", "liuhaotian/llava-v1.5-7b",
+        "--image", image_path,
+        "--query", query_text
+    ]
+    
+    # 実行して結果を取得
+    result = subprocess.run(cmd, stdout=subprocess.PIPE, text=True, encoding="utf-8")
+    return result.stdout
+
+
+if __name__ == "__main__":
+    # テスト用の仮の1コマ目ストーリー
+    test_story = "黒髪の魔法使いの少女が、静かな森の中で古い本を見つけて驚いている。"
+    
+    # Pony v6用のプロンプト（提供いただいた品質タグ + ストーリーの要素）
+    test_prompt = (
+        "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, source_anime, "
+        "1girl, wizard black hair, holding ancient book, quiet forest, surprised, manga style, black and white, lineart"
+    )
+    
+    # 保存先ファイルのパス
+    output_image = "frame_1.png"
+    
+    # 【処理1】Pony v6で1コマ目の画像を生成
+    generate_pony_image(test_prompt, output_image)
+    
+    # 【処理2】生成された画像をLLaVAで検品
+    llava_feedback = check_contradiction_with_llava(output_image, test_story)
+    
+    print("\n=== LLaVAの検品結果 ===")
+    print(llava_feedback)
+
+````
+> テスト実行
+````
+python pipeline.py
+````
+
 
 
 ----
 
 > 6/28
 LLaVAの導入（マルチモーダルAIとして）
-
-**新しく Python 3.10 を入れ直すよりも、「現在の Python 3.12 のままで、LLaVA 側の要求（Python 3.10用である PyTorch 2.1.2）を無視して最新の PyTorch を強制的に使う」方式
+**新しく Python 3.10 を入れ直すよりも、「現在の Python 3.12 のままで、LLaVA 側の要求（Python 3.10用である PyTorch 2.1.2）を無視して最新の PyTorch を強制的に使う」方式**
 
 * 仮想環境（venv）を作る
 ````
