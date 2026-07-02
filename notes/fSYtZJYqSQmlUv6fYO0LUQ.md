@@ -1,11 +1,17 @@
 ## 開発ノート
 `文字入力、プロンプト入力->ストーリーを入力することに絞る`
+> 7/3
+**Pony v6のコンテナ移行及び他AIとのつなげ作業**
+
+
+
+----
 
 > 6/28
-LLaVAの導入
+LLaVAの導入（マルチモーダルAIとして）
 
-新しく Python 3.10 を入れ直すよりも、「現在の Python 3.12 のままで、LLaVA 側の要求（Python 3.10用である PyTorch 2.1.2）を無視して最新の PyTorch を強制的に使う」方式
-----
+**新しく Python 3.10 を入れ直すよりも、「現在の Python 3.12 のままで、LLaVA 側の要求（Python 3.10用である PyTorch 2.1.2）を無視して最新の PyTorch を強制的に使う」方式
+
 * 仮想環境（venv）を作る
 ````
 # 仮想環境を作成
@@ -72,6 +78,33 @@ python -m llava.eval.run_llava \
     --model-path liuhaotian/llava-v1.5-7b \
     --image images/llava_logo.png \
     --query "What is unusual about this image?"
+````
+----
+ここまでターミナル
+* ここからはコード
+````
+import subprocess
+
+def test_run():
+    print("--- LLaVAのテスト呼び出しを開始します ---")
+    
+    # ターミナルで打っていたコマンドをそのまま再現
+    cmd = [
+        "python3", "-m", "llava.eval.run_llava",
+        "--model-path", "liuhaotian/llava-v1.5-7b",
+        "--image", "images/llava_logo.png",
+        "--query", "What is unusual about this image?"
+    ]
+    
+    # コマンドを実行して、ターミナルに表示される結果をそのまま画面に出力する
+    subprocess.run(cmd)
+
+if __name__ == "__main__":
+    test_run()
+````
+上を実行時、ターミナルにて
+````
+python3 pipeline.py
 ````
 
 ----

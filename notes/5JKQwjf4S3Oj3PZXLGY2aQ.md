@@ -14,7 +14,7 @@ tags: 都市農耕
 ### 20260704 都市農耕交流_簡報檔案
 - https://docs.google.com/presentation/d/1zyf2ytQXfKePHDLxCKI7AZg5XVCHZ2VpX8r4G7n-EOg/edit
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZeYX20ZulcLhhkqJ4Sqex-iIiZK98paEioJDOUYIRnv7MJ0HdZav_XgPKH2_R-6_cYeL4X54HB3AW/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZeYX20ZulcLhhkqJ4Sqex-iIiZK98paEioJDOUYIRnv7MJ0HdZav_XgPKH2_R-6_cYeL4X54HB3AW/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### 全台灣的社區農園線上地圖
 - https://maps.app.goo.gl/wBkZyPFzxa8G5cq19
@@ -22,14 +22,17 @@ tags: 都市農耕
 
 ![](https://g0v.hackmd.io/_uploads/HJ2Y2eEXMx.png)
 
-
-- 全齡農耕架構介紹文件：https://docs.google.com/document/d/1gP7vQUEeD0JqYxCrcvO3pj8R_ejGJOGVvu_UPGIfWB8/edit?tab=t.0#heading=h.2ygxberuhyew
+### 全齡農耕架構介紹文件
+- https://docs.google.com/document/d/1gP7vQUEeD0JqYxCrcvO3pj8R_ejGJOGVvu_UPGIfWB8/edit?tab=t.0#heading=h.2ygxberuhyew
 - 都市農耕共筆文件：https://g0v.hackmd.io/@chewei/Urban-Agri/
 
 ---
 
 
 ## 1. 台灣社區農耕概況介紹
+
+![](https://g0v.hackmd.io/_uploads/rylua6gNmGx.png)
+
 - 台灣的城鄉結構
     - 大型城市，如臺北市、新北市、高雄市、臺南市、臺中市、桃園市等
         - 都市密集街區，如臺北市大安區
@@ -60,10 +63,14 @@ tags: 都市農耕
 
 ## 2. 介紹「全齡農耕」的架構
 
-https://docs.google.com/document/d/1gP7vQUEeD0JqYxCrcvO3pj8R_ejGJOGVvu_UPGIfWB8/edit?tab=t.0#heading=h.2ygxberuhyew
 ![](https://g0v.hackmd.io/_uploads/B1sunxVXMg.png)
 
+https://docs.google.com/document/d/1gP7vQUEeD0JqYxCrcvO3pj8R_ejGJOGVvu_UPGIfWB8/edit?tab=t.0#heading=h.2ygxberuhyew
+
 ## 3. 探討「城市治理」面向
+
+![](https://g0v.hackmd.io/_uploads/r1g0ApeE7fl.png)
+
 
 - 以臺北市情境舉例
     - 有都市農耕經驗的人數比例，類比相近的運動類型人口
@@ -71,7 +78,6 @@ https://docs.google.com/document/d/1gP7vQUEeD0JqYxCrcvO3pj8R_ejGJOGVvu_UPGIfWB8/
 - 最有人情味的政策，在都市政策中的推展方向
     - 綠色基盤與綠化措施，納入都市農耕與社區生活圈視角
     - 飲食與綠色採購消費，與都市農耕栽種經驗體驗之間如何建構
-
 - 縣市政策推動建議
 
 ![](https://g0v.hackmd.io/_uploads/B1JpnxVQfe.png)
