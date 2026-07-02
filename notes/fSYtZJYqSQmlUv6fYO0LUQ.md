@@ -46,7 +46,7 @@ pip install -r requirements.txt
 pip install bitsandbytes fastapi markdown2[all] pydantic shortuuid uvicorn peft gradio==4.16.0 gradio_client==0.8.1 timm==0.6.13 einops-exts==0.0.4 scikit-learn==1.2.2
 
 ````
-* 7Bモデルを4bitで軽く動かすコマンド
+* 7Bモデルを4bitで軽く動かすコマンド（そんなものはなく、失敗したので次回はやらない）
 ````
 python -m llava.eval.run_llava \
     --model-path liuhaotian/llava-v1.5-7b \
@@ -59,11 +59,12 @@ python -m llava.eval.run_llava \
 
 
 ````
+# LLaVAのフォルダに移動する
+cd /workspace/LLaVA
+
 # 作成した仮想環境を起動する（これをやらないとLLaVAが動かない）
 source l_env/bin/activate
 
-# LLaVAのフォルダに移動する
-cd /workspace/LLaVA
 ````
 * 標準的な7Bモデルの実行コマンド
 ````
