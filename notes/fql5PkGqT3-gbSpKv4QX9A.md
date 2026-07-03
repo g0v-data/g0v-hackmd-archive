@@ -4,8 +4,10 @@ tags: GIS, Issue-Mapping, Open Street Map
 
 # 哺乳地圖
 
-> [點此觀看原始內容](https://g0v.hackpad.tw/O0rbl8VdqpC)
-
+:::info
+文件目錄
+[TOC]
+:::
 
 ## 想做什麼
 
@@ -118,6 +120,10 @@ tags: GIS, Issue-Mapping, Open Street Map
 
 ## 相關討論
 
+### 衛生福利部：全國逾4千處哺集乳室 地圖、LINE輕鬆查
+
+https://www.mohw.gov.tw/cp-16-82880-1.html
+
 ### 臺乳協會討論
 
 衛福部母法  [公共場所母乳哺育條例](http://law.moj.gov.tw/LawClass/LawContent.aspx?PCODE=L0070036)
@@ -194,7 +200,6 @@ tags: GIS, Issue-Mapping, Open Street Map
 [https://docs.google.com/spreadsheets/d/1t5Tuj9BQ4RZiwN3urHcKyochd7DW1nvzh85F7whkxRk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1t5Tuj9BQ4RZiwN3urHcKyochd7DW1nvzh85F7whkxRk/edit?usp=sharing)
 
 ## 哺乳室使用者經驗
-
 
 ### by 彭小五 退役的哺乳媽媽、開放街圖圖客(OSM mapper)
 
