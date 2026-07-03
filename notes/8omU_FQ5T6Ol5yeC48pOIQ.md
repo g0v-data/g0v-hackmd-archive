@@ -8,7 +8,14 @@ reg add "HKCR\txtfile" /ve /d "Text Document" /f
 
 :::
 ::
+https://ras.tradevan.com.tw/pras
 
+C:\03Users\anita.wang\AppData\Roaming\tradevan\
+
+https://www.e-invoice.com.tw/j2iv/mgt/mgt_logon.jsp
+
+帳號:22927617I1
+密碼:Cy22927617
 :::warning
 
 @echo off
