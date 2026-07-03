@@ -1,0 +1,1 @@
+[C168](https://c168.agency/) là nền tảng giải trí trực tuyến được nhiều người biết đến nhờ giao diện hiện đại, tốc độ xử lý ổn định và kho nội dung phong phú. Hệ thống luôn chú trọng nâng cao trải nghiệm người dùng với nhiều tính năng tiện ích, thao tác đơn giản, bảo mật cao cùng dịch vụ hỗ trợ tận tâm, mang đến môi trường giải trí tiện lợi và đáng tin cậy.
