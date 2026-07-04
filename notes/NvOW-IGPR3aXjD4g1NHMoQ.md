@@ -21,7 +21,7 @@ tags: GIS
 - 2025.07.26 評估「空間規劃設計案例素材」納入 Airtable
 - 2025.07.26 評估「食譜、餐廳/景點/住宿」納入 Airtable
     - https://g0v.hackmd.io/@chewei/BJd2CNNTK/
-- 2026.05 評估地方新聞媒體盤點https://g0v.hackmd.io/IEihabX9RVeISX6GkO1b4A?view
+- 2026.05 評估地方新聞媒體盤點 https://g0v.hackmd.io/IEihabX9RVeISX6GkO1b4A?view
 
 ## 自定義地理範圍
 

@@ -28,7 +28,6 @@ tags: 都市農耕
 
 ---
 
-
 ## 1. 台灣社區農耕概況介紹
 
 ![](https://g0v.hackmd.io/_uploads/rylua6gNmGx.png)
@@ -60,6 +59,8 @@ tags: 都市農耕
         - 醫院紓壓 -> 綠化 / 可食作物
         - 辦公環境 -> 栽種可食作物
         - [案例數量較少] 先有堆肥設施 -> 開始延伸到耕種
+    - 介紹如何組成團隊
+        - https://farmcity.taipei/city/m0/unit_L.php?menu=u3&mu_sid=3&su_sid=36
 
 ## 2. 介紹「全齡農耕」的架構
 
@@ -86,3 +87,21 @@ https://docs.google.com/document/d/1gP7vQUEeD0JqYxCrcvO3pj8R_ejGJOGVvu_UPGIfWB8/
 ![](https://g0v.hackmd.io/_uploads/ry7kaneEmfe.png)
 ![](https://g0v.hackmd.io/_uploads/rJrkTneVQMg.png)
 
+## 4. 青年世代
+
+### 生態綠領就業調查
+
+https://g0v.hackmd.io/@chewei/ecocollar
+
+### 企業機關的永續實踐，需要青年世代投入研擬與實踐
+
+綠色辦公室
+https://winklerpartners.com/zh/givingback/%E7%B6%A0%E8%BE%A6%E5%85%AC%E5%AE%A4/
+
+台積電中科廠區
+https://www.tsmc-charity.org/env-edu/page/Introduction-taichung
+
+### 社會服務領域
+
+台灣社會農業學會 TSARA
+https://www.facebook.com/tsara.tw/
