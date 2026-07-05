@@ -4,6 +4,16 @@ tags: 新生流域
 
 # 臺北新生流域「觀點便利貼」線上版
 
+## 新生流域活動參加者提出的 7 個課題及願景主題介紹
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1207174288?h=18ee0a9562" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+
+另開影片網址：https://vimeo.com/1207174288
+
+---
+
+## 內容整理
+
 :::warning
 📄 定期將內容整理成簡報，方便應用
 - https://docs.google.com/presentation/d/1kxHp8RYvB-xcQe0RjKKeWbi3vWuoanQLto1zVfYXkYg/edit
