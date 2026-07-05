@@ -1,0 +1,1 @@
+[C168](https://c168.rent/) là nền tảng giải trí trực tuyến được nhiều người biết đến với hệ thống dịch vụ đa dạng và giao diện hiện đại. Nền tảng chú trọng tối ưu trải nghiệm người dùng thông qua khả năng vận hành ổn định và các tính năng được cập nhật thường xuyên.
