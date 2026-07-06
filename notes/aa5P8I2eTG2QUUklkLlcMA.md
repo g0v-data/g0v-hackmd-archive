@@ -27,3 +27,8 @@ tags: GIS
 - 單則筆記
     - 「行政院農業委員會山坡地土地可利用限度查定工作要點」第4點，明定查定作業採用圖資查定為主，現場查定為輔，期藉由快速及標準化之作業方式，避免現場查定耗時費力及人為主觀判斷之誤差，並可減少申請人須負擔之鑑界費用，以增進查定作業之效率及作法之一致性
         - https://www.facebook.com/SWCBGOV/posts/pfbid03JK3ibjQYUJ9Ujaa9S8ajdk9xnfF4FgwqERmvoimTEFGThvbnyCE3MK9QGa2LCLfl
+
+## 參考案例
+
+荷蘭的整合平台https://omgevingswet.overheid.nl/regels-op-de-kaart/zoeken/locatie?session=97c90c31-58f6-4ac6-ac19-ebb5ba132cb9
+https://www.facebook.com/share/1Ej84TfMXz/
