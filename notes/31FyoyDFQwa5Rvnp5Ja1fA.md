@@ -1,0 +1,1 @@
+[ketquaxoso.info](https://ketquaxoso.info/) cập nhật kết quả xổ số nhanh chóng, chính xác và dễ theo dõi. Người dùng có thể tra cứu kết quả theo ngày, theo đài, xem thống kê và nhiều thông tin hữu ích trên giao diện đơn giản, thuận tiện cho mọi thiết bị.
