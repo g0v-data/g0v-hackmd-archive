@@ -1,0 +1,1 @@
+[OK88](https://ok88.eu.com/) là nền tảng giải trí trực tuyến nổi bật, thu hút đông đảo người chơi nhờ kho trò chơi đa dạng và nhiều chương trình ưu đãi hấp dẫn. Người dùng có thể trải nghiệm các chuyên mục như thể thao, casino trực tuyến, nổ hũ và bắn cá trên cùng một hệ thống. Giao diện tối ưu cùng tốc độ xử lý nhanh giúp mang đến trải nghiệm giải trí thuận tiện và liền mạch.
