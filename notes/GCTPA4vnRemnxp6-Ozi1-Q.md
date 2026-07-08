@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：
+參與者 Participants：Peter, tim, Josh, yi-ting lien, Thompson, Ellen, 
 
 
 https://www.vtaiwan.tw/jitsi
@@ -125,7 +125,17 @@ https://docs.google.com/presentation/d/18qmdja3GP4ZIOA0HZbLoyyi6U3DU2SypWjA7jM_4
 - 切分討論，將比較嚴肅的討論以 mentimeter 進行，前期先讓大家針對 AI 生成兒少不適內容的情境進行討論，了解大家的擔憂
 - 好處：藉由切分討論階段，可以讓參與者完整體會到 read the room 的功能
 - 壞處：需要確保 read the room 的輸出穩定度（因為是真槍實彈上場），觀眾在切換工具上可能負擔會加大
+- 結尾比開場更順？[name=ellen]
+    - 如果比較擔心操作風險的話就放結尾測試
+    - 但放前面真的比較有一種快速呈現共識的感覺 >"<
 
 ### 後續承接的方向
 - 初步：產出一份報告給 TWNIC 
 - 後續：
+
+## Polis 分析
+- 
+
+## Ralph sharing 
+- location-based digital collaboration tools 
+
