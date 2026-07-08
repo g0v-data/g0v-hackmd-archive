@@ -49,10 +49,15 @@ https://www.vtaiwan.tw/jitsi
 - 目前議題投影片初稿：https://docs.google.com/presentation/d/18qmdja3GP4ZIOA0HZbLoyyi6U3DU2SypWjA7jM_4-fs/edit?slide=id.g3f06012c277_2_2#slide=id.g3f06012c277_2_2 
     -  正在跟 TCA 昱均精修
     -  要將這個簡報轉成完整的報告投影片
+        -  介紹 vTaiwan 
+        -  
     -  Mentimeter 正在製作中
-
 - 當天流程
-    - 17:00-18:00 彩排與 set up 
+    - 16:00-17:00 彩排與 set up 
+    - 17:00-18:00 報到與最後確認
+    - 18:00-18:30 參與者報到
+    - 18:30-21:30 活動
+- 
 - ## 7/17 審議大會活動
 ### 今天想要討論的部分：
 - 盤點當天可以來現場協助的人員
