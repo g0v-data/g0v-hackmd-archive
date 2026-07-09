@@ -30,7 +30,8 @@
 + 出貨管理 `/order/ship`
     + 未出貨訂單 `/order/ship/non-delivery`
     + 出貨管理列表`/order/ship/query`
-    + 未完成訂單 `/order/ship/unship`
+    + 未出貨訂單 `/order/ship/unship-query`
+    + 未出貨訂單-批次 `/order/ship/unship`
     + 未押出貨客辦退 `/order/ship/undeposited`
     + 已出貨訂單 `/order/ship/shipped`
 
