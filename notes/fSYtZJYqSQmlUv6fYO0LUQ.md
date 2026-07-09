@@ -1,6 +1,22 @@
 ## 開発ノート
 `文字入力、プロンプト入力->ストーリーを入力することに絞る`
-> 
+> 7/9
+**llama**
+clone
+````
+git clone https://github.com/meta-llama/llama3.git
+cd llama3
+````
+「pip install -e」までやったところで、エラーが発生した。
+**tiktoken は Rust 言語 のビルド環境が必要なパッケージのため、お使いの環境（Python や OS）に Rust や C++ のコンパイラが入っていないと、ソースコードからの組み立て（ホイール生成）に失敗してしまいます。**
+まずは pip 自体を最新にし、tiktoken の既成バイナリ（すでにビルド済みのもの）を単体でインストールします。
+````
+pip install --upgrade pip setuptools wheel
+pip install tiktoken
+````
+このあともう一度「pip install -e」をやりなおして成功
+
+
 ----
 > 7/3
 **Pony v6のコンテナ移行及び他AIとのつなげ作業**
