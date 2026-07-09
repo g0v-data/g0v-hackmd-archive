@@ -16,6 +16,17 @@ pip install tiktoken
 ````
 このあともう一度「pip install -e」をやりなおして成功
 
+モデルを動かそうとするとエラーが出たので、
+* requirements.txtをインストールする
+````
+pip install -r requirements.txt
+
+````
+requirements.txt を書き換えるメモ帳やエディタで requirements.txt を開き、tiktoken==0.4.0 と書かれている行を tiktoken>=0.7.0 に書き換えて保存します。手動で最新にするその上で、以下のコマンドを実行して最新の tiktoken を入れ直します。
+````
+bashpip install "tiktoken>=0.7.0"
+````
+
 
 ----
 > 7/3
