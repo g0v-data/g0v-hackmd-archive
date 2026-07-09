@@ -1,21 +1,65 @@
 :::danger
-Chainlon2 資訊管理用暫存區，公開頁面、嚴禁機密資料
+Chainlon 資訊管理用暫存區，公開頁面、嚴禁機密資料
 :::
-:::success
-reg add "HKCR\.txt" /ve /d "txtfile" /f
-reg add "HKCR\.txt\ShellNew" /v "NullFile" /t REG_SZ /d "" /f
-reg add "HKCR\txtfile" /ve /d "Text Document" /f
+
+:::warning
+#### 目錄
+[TOC]
 
 :::
-::
-https://ras.tradevan.com.tw/pras
+[](https://)
+### 常用連結
+Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
+O:\25資訊組\FPG\ERP\FPG.xlsx
+7-Zip https://www.7-zip.org/a/7z2301-x64.exe
+Chainlon 01Backup https://www.chainlon.net/1/01Backup.zip
+https://tw.bitwar.net/course/tips/3528.html
+下載Brave
+curl https://www.chainlon.net/1/Brave-portable.zip -o C:\App\Brave-portable.zip 
 
-C:\03Users\anita.wang\AppData\Roaming\tradevan\
+### 常用指令：
+```
+顯示外部IP：curl ifconfig.me
+顯示內部IP：ipconfig | find /i "IPv4" | find /i "192.168."
 
-https://www.e-invoice.com.tw/j2iv/mgt/mgt_logon.jsp
+Windows 閒置 30 分鐘自動鎖定
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v InactivityTimeoutSecs /t REG_DWORD /d 1800 /f
 
-帳號:22927617I1
-密碼:Cy22927617
+個人化/鎖定畫面(要有檔案+Windows啟用)
+@REG ADD "HKLM\SOFTWARE\Policies\Microsoft\Windows\Personalization" /v LockScreenImage /t REG_SZ /d "C:\01Backup\Tools\lockscreen.jpg" /f
+
+Windows sysprep(重新封裝Windows以製作用戶端)
+Cd\windows\system32\sysprep
+Sysprep /generalize /shutdown /oobe
+執行CMD管理員：
+powershell Start-Process cmd -verb runas
+滑鼠右鍵選單改為傳統，省得每次都要按Shift
+reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
+
+@降低選單延遲時間(400-->50)
+reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v MenuShowDelay /t REG_SZ /d 50 /f
+
+9點關機：
+schtasks /Create /TN "Shutdown" /TR "shutdown /s /t 0" /SC DAILY /ST 21:00 /RU SYSTEM /RL HIGHEST /F
+```
+
+### Windows標準安裝
+```
+curl https://www.chainlon.net/1/7z.msi -o C:\users\\%username%\Downloads\7z.msi
+curl https://www.chainlon.net/1/OpenShell.exe -o C:\users\\%username%\Downloads\OpenShell.exe
+curl https://www.chainlon.net/1/npp.exe -o C:\users\\%username%\Downloads\npp.exe
+C:\users\\%username%\Downloads\7z.msi /quiet
+timeout 5
+C:\users\\%username%\Downloads\OpenShell.exe /qb START_MENU_FOLDER=0
+timeout 5
+C:\users\\%username%\Downloads\npp.exe /S
+timeout 5
+del C:\users\\%username%\Downloads\7z.msi /q
+del C:\users\\%username%\Downloads\npp.exe /q
+timeout 5
+del C:\users\\%username%\Downloads\OpenShell.exe /q
+```
+
 :::warning
 
 @echo off
@@ -40,88 +84,9 @@ echo ================================
 @net use R: \\erp.chainlon.net\erp\Swing_XD00 /u:chainlon chainlon
 @net use Q: \\users-tc.chainlon.net\03Users
 :::
-:::warning
-目錄
-
-gopatrol:https://192.168.5.164/gopLicense
-[TOC]
-:::
-[](https://)
-#### 常用連結
-Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
-O:\25資訊組\FPG\ERP\FPG.xlsx
-7-Zip https://www.7-zip.org/a/7z2301-x64.exe
-Chainlon 01Backup https://www.chainlon.net/1/01Backup.zip
-https://tw.bitwar.net/course/tips/3528.html
-下載Brave
-curl https://www.chainlon.net/1/Brave-portable.zip -o C:\App\Brave-portable.zip 
-
-#### 常用指令：
-```
-顯示外部IP：curl ifconfig.me
-顯示內部IP：ipconfig | find /i "IPv4" | find /i "192.168."
-
-移除TFG
-cd\Program Files (x86)\TFG\Agent
-TFGInstallTool.exe -ForceUninstallMachineID
-安裝Rdm RS.msi /quiet
-設定Rdm C:\Windows\SysWOW64\rserver30\rserver3.exe /setup
-Xcopy "P:\21.MIS\01Backup\" "C:\01Backup\" /s /e /y /i /h /d
-
-CY01+CY02檔案備份，注意路徑
-robocopy O: G:\CY01 /mir /XD DfsrPrivate Z9-準備刪除
-robocopy P: G:\CY02 /mir /XD __DFSR_DIAGNOSTICS_TEST_FOLDER__ DfsrPrivate
-
-Windows 閒置 30 分鐘自動鎖定
-reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v InactivityTimeoutSecs /t REG_DWORD /d 1800 /f
-
-個人化/鎖定畫面(要有檔案+Windows啟用)
-@REG ADD "HKLM\SOFTWARE\Policies\Microsoft\Windows\Personalization" /v LockScreenImage /t REG_SZ /d "C:\01Backup\Tools\lockscreen.jpg" /f
-
-Windows sysprep(重新封裝Windows以製作用戶端)
-Cd\windows\system32\sysprep
-Sysprep /generalize /shutdown /oobe
-執行CMD管理員：
-powershell Start-Process cmd -verb runas
-滑鼠右鍵選單改為傳統，省得每次都要按Shift
-reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
-
-@降低選單延遲時間(400-->50)
-reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v MenuShowDelay /t REG_SZ /d 50 /f
-
-9點關機：
-schtasks /Create /TN "Shutdown" /TR "shutdown /s /t 0" /SC DAILY /ST 21:00 /RU SYSTEM /RL HIGHEST /F
-```
-
-#### Windows標準安裝
-```
-curl https://www.chainlon.net/1/7z.msi -o C:\users\\%username%\Downloads\7z.msi
-curl https://www.chainlon.net/1/OpenShell.exe -o C:\users\\%username%\Downloads\OpenShell.exe
-curl https://www.chainlon.net/1/npp.exe -o C:\users\\%username%\Downloads\npp.exe
-C:\users\\%username%\Downloads\7z.msi /quiet
-timeout 5
-C:\users\\%username%\Downloads\OpenShell.exe /qb START_MENU_FOLDER=0
-timeout 5
-C:\users\\%username%\Downloads\npp.exe /S
-timeout 5
-del C:\users\\%username%\Downloads\7z.msi /q
-del C:\users\\%username%\Downloads\npp.exe /q
-timeout 5
-del C:\users\\%username%\Downloads\OpenShell.exe /q
-```
 
 
-#### 812用戶端環境
-chainlon Startup
-C:\Users\chainlon\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
-
-@net use N: \\d6.chainlon.net\02Public\21.MIS\29ChainlonSoftware\misrun
-區網速度測試
-https://totusoft.com/files/LAN_SpeedTest.exe
-
-
-
-#### Windows 部署安裝
+### Windows 部署安裝
 
 五、安裝到新電腦，使用異機還原
 開始安裝：登入為chainlon，無密碼，僅須以下小修改
