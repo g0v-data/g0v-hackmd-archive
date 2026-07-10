@@ -27,6 +27,11 @@ requirements.txt を書き換えるメモ帳やエディタで requirements.txt 
 bashpip install "tiktoken>=0.7.0"
 ````
 
+````
+from diffusers import StableDiffusionXLPipeline
+````
+これをtransformに
+
 
 ----
 > 7/3
