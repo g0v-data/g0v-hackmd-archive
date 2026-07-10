@@ -10,14 +10,9 @@
 
 https://www.settour.com.tw/act/gfg/japan/usj/info.html
 
-拼圖:https://g.co/arts/Wqau6cVK3KrjjsRU9
+Google拼圖:https://g.co/arts/Wqau6cVK3KrjjsRU9
 即時翻譯
 https://apps.microsoft.com/detail/9pjd2fdzqxm3?hl=zh-TW&gl=TW
-
-3!jinVgX7hnY!FC
-
-動物方城市2》主題曲 Shakira - Zoo 中文翻譯
-https://www.youtube.com/watch?v=7pQZQyMwqIw
 
 https://poki.com/zh/g/vortellis-pizza?gdgameCode=YAIUT3
 #### 日本環球影城自由行規劃
