@@ -1,0 +1,2 @@
+BALL88 — Link vào nhà cái chính thức, không bị chặn 2026
+Xuất hiện tại thị trường Việt Nam, [Ball 88](https://ball88s.cc/) nhanh chóng tạo được sức hút nhờ xây dựng thương hiệu uy tín và hệ sinh thái giải trí đa dạng. Nền tảng cung cấp nhiều lựa chọn như cá cược thể thao, bắn cá, slot, xổ số và các trò chơi đổi thưởng đặc sắc. Đồng thời, Ball88 luôn chú trọng tính công bằng, minh bạch và sự ổn định của hệ thống để mang đến trải nghiệm giải trí trọn vẹn cho người dùng.
