@@ -18,4 +18,5 @@ tags: 災害
 - [災害與「文化內容」之間的關係](https://g0v.hackmd.io/nrkbQgJrSta9OSfyhjKAXg?view)
 - [釐清史料影像以及國內外影像資料庫的災害照片是否適合匯入歷史影像平台](https://g0v.hackmd.io/GZ60cIvrT4mNNMztG8g1NQ?view)
 - [災害影像紀錄與遺構保存議題](https://g0v.hackmd.io/JzJWCWQjT-6MFgam9pTBDQ?view)
+- [災害復原相關中繼居住與社區重建資料蒐集建檔](https://g0v.hackmd.io/olnqQ0J_SFat0aaScjUDRw?view)
 

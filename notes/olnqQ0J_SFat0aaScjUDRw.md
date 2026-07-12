@@ -62,6 +62,7 @@ tags: 防災, 災害, architecture
 - 「從不當迫遷談空間政治與適足政治權」https://youtu.be/uELfnxnvQgI
 - https://www.facebook.com/story.php?story_fbid=pfbid0THpFms2HScJSPsbXp7h3UnbUM5nYXDDkTJb2YiFA7wZJsLD6khRHQ7oBFEe45GAvl&id=100091318715016&mibextid=tejx2t
 - 朴子新吉庄，因水災而遷村興建 https://www.facebook.com/story.php?story_fbid=pfbid023T9Y8BPdt1TE6Rt5tRRm1GfeXsWGGTsY6JmotSNLMk8wC5zXyZvbHRGCTZ7TuDgBl&id=100050414203173&mibextid=qC1gEa
+- https://www.facebook.com/share/p/1PPAubekia/
 - 金門古寧頭戰役災民安置 https://www.facebook.com/story.php?story_fbid=pfbid02214MyY5n5CNLxDjpjztF3xTzHGSTk7w4iBWjpiFq3pQkKntYJKaF8JiRFwepj2eRl&id=100002217764583&mibextid=qC1gEa
 - 待登載 https://www.tf4dr.org/domestics/1
 - 石門水庫工程 移民新村 https://www.facebook.com/share/p/1AGrZbzzF8/
