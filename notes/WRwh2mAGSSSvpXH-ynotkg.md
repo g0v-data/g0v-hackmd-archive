@@ -1,0 +1,2 @@
+[GO99](https://iraqeschool.org/) là nền tảng giải trí trực tuyến được nhiều người biết đến với giao diện hiện đại, thao tác đơn giản và tốc độ truy cập ổn định. Hệ thống cung cấp đa dạng trò chơi cùng nhiều chương trình ưu đãi, mang đến trải nghiệm thuận tiện trên cả máy tính và điện thoại.
+Website: [https://iraqeschool.org/](https://iraqeschool.org/)
