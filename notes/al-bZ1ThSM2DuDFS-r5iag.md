@@ -58,6 +58,7 @@ https://www.facebook.com/share/p/1G3doQ9dcn/
 - 大雪山森林遊樂區遊客中心 https://www.facebook.com/groups/birdwindowcollision/posts/1367090184006435/
 - 觀霧遊客中心 https://www.facebook.com/share/p/ok24n2ZeVAYDhiNd/
 - 阿里山 https://www.facebook.com/share/p/eAJscfGi1jRdzLMR/
+- 奇萊山屋 https://www.facebook.com/share/1EJ2atCMqr/
 - 偉倫咖啡廳 https://www.facebook.com/share/p/19bvuSjmkj/
 - 中興大學 https://www.facebook.com/share/p/3xcNeh5V9TvbV9QH/
 - 台南 https://www.facebook.com/share/p/17yKhwzkUq/
