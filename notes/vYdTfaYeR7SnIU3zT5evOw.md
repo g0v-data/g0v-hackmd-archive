@@ -498,8 +498,13 @@ AWS
 ## g0v Flickr
 
 網址：https://www.flickr.com/photos/g0v/
+
 成立背景：為了放 g0v 大松照片而成立的 Flickr 帳號，後來也分享給 g0v Summit 存放歷屆照片，專案社群也可以申請建立相簿。
+
 管理：g0v 揪松團（Flickr 是單一帳號，帳號跟密碼由揪松團管理）
+
+協同管理：
+- 2026.7.14 帳號權限分享給 Summit 紀錄組長月太
 
 ### 營運經費
 
