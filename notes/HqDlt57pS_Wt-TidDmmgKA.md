@@ -1,0 +1,1 @@
+[XX88](https://xx88.ing/) là nhà cái trực tuyến mang đến đa dạng sản phẩm giải trí như thể thao, casino trực tuyến, slot game và bắn cá. Giao diện được thiết kế thân thiện, thao tác nhanh, hỗ trợ nhiều phương thức nạp rút cùng dịch vụ chăm sóc khách hàng hoạt động liên tục.

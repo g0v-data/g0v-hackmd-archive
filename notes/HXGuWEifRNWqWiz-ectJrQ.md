@@ -49,19 +49,19 @@ class Solution(object):
             right=len(nums)-1
             while left < right:
                 total =nums[i]+nums[left]+nums[right]
-                if total < 0: #總和小於0，則
+                if total < 0: #總和小於0，則left+1
                     left+=1
-                elif total >0:
+                elif total >0: #總和大於0，則right-1
                     right-=1
-                else:
+                else:#找到適配組合則加入new list
                     new.append([nums[i],nums[left],nums[right]])
-                    left+=1
+                    left+=1 #繼續two pointer尋找下一個合適的組合
                     right-=1
-                    while left<right and nums[left]==nums[left-1]:
+                    while left<right and nums[left]==nums[left-1]: #檢查left與上一個值有沒有重複
                         left+=1
-                    while left<right and nums[right]==nums[right+1]:
+                    while left<right and nums[right]==nums[right+1]:#檢查right與下一個值有沒有重複
                         right-=1
-        return new        
+        return new #回傳new list   
 ```
 ## Reverse Integer
 ::: warning
