@@ -25,6 +25,9 @@ https://www.upmedia.mg/news_info.php?Type=2&SerialNo=163136&fbclid=IwZnRzaAMYNBR
 
 https://www.facebook.com/share/p/1DuG6cJxBi/
 
+分配理論
+https://youtu.be/GxHpwg0OgIo
+
 移工築起的地下社會：跨國勞動在臺灣 Underground Lives: Stories Untold for Migrant Workers in Taiwan
 https://www.facebook.com/yungta.chien/posts/pfbid02WMfAsdk9GuBVgHN6SipYNKyGB8afabGGYFqLczDs6XMwRwWFWyn27WuSs7rvaVVNl
 
