@@ -59,3 +59,13 @@ https://www.vtaiwan.tw/jitsi
 ### 議題與投影片簡報架構
 
 ### 
+
+
+## 動議
+
+### 是否公開vTaiwan的Github Project?
+
+vTaiwan的Github Project目前是Private狀態，想建議改成Public狀態。
+
+> 只要大家同意，設定我可以來做
+> [name=Bestian]
