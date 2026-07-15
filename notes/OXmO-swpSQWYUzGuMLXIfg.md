@@ -1,0 +1,1 @@
+[C168](https://c168mov.com/) là nền tảng giải trí trực tuyến hướng đến trải nghiệm ổn định, giao diện thân thiện và tốc độ xử lý nhanh. Hệ thống được tối ưu trên nhiều thiết bị, mang đến môi trường giải trí tiện lợi cùng nhiều tính năng đáp ứng nhu cầu của người dùng hiện đại.
