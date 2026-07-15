@@ -33,22 +33,23 @@ Explanation: The only possible triplet sums up to 0.
 :::
 ==python==
 ```
+#==用two pointer來解==
 class Solution(object):
     def threeSum(self, nums):
         """
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        nums.sort()
-        new=[]
+        nums.sort() #把list排序好，由小排到大
+        new=[] #創建一個新的list
         for i in range(len(nums)):
             if i > 0 and nums[i] == nums[i-1]:
-                continue
-            left=i+1
+                continue #確認是否與上個值重複，如果重複就跳過
+            left=i+1 
             right=len(nums)-1
             while left < right:
                 total =nums[i]+nums[left]+nums[right]
-                if total < 0:
+                if total < 0: #總和小於0，則
                     left+=1
                 elif total >0:
                     right-=1
