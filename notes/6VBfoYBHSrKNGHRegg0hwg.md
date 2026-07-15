@@ -119,7 +119,7 @@ https://www.vtaiwan.tw/jitsi
             - google slides（議題的簡報）0.5小時
             - mentimeter 1.5-2小時
             - - hear the room 0.5-1小時
-        - 會議室概況：兩間會議室
+        - TWNIC 會議室概況：兩間會議室
 
 ### civic talk (nice to have)
 - 發現問題點：適合整理社群貼文，但不適合整理智庫報告（欄位限制：prompt 太長可能會爆掉）
