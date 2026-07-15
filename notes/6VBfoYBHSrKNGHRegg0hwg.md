@@ -57,7 +57,13 @@ https://www.vtaiwan.tw/jitsi
 ### 報名人數與簽到單
 
 ### 議題與投影片簡報架構
+- 議題簡報：https://docs.google.com/presentation/d/18qmdja3GP4ZIOA0HZbLoyyi6U3DU2SypWjA7jM_4-fs/edit?usp=sharing
+    - 目前正在進行 polis 分析
 
+#### polis 
+
+#### mentimeter
+- 
 ### 
 
 
@@ -68,4 +74,5 @@ https://www.vtaiwan.tw/jitsi
 vTaiwan的Github Project目前是Private狀態，想建議改成Public狀態。
 
 > 只要大家同意，設定我可以來做
-> [name=Bestian]
+> [name=Bestian
+> 沒問題，這個今天晚上可以討論～
