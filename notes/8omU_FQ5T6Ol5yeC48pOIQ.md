@@ -139,9 +139,8 @@ set /p pwd2=Type password:
 
 ### 暫存
 
-MAS 啟動授權，powershell run:
+MAS 啟動授權(請自備金鑰)，powershell run:
 ```
-irm https://massgrave.dev/get | iex
 irm https://get.activated.win | iex
 ```
 
