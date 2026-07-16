@@ -136,6 +136,8 @@ set /p pwd2=Type password:
 4.該電腦遠端桌面僅允許特定IP連入、特定用戶
 
 ### 暫存
+Ken's Google Drive For Chainlon:
+https://drive.google.com/drive/folders/1Zesv6DWcMcDY2Y2Gb40BCK1vbY8m2L_t?usp=sharing
 
 MAS 啟動授權(請自備金鑰)，powershell run:
 ```
