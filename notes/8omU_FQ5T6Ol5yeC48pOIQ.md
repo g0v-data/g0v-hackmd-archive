@@ -138,7 +138,7 @@ set /p pwd2=Type password:
 ### 暫存
 Ken's Google Drive For Chainlon:
 https://drive.google.com/drive/folders/1Zesv6DWcMcDY2Y2Gb40BCK1vbY8m2L_t?usp=sharing
-
+O:\25資訊部\網路硬體設備\Firewall.xlsx
 MAS 啟動授權(請自備金鑰)，powershell run:
 ```
 irm https://get.activated.win | iex
