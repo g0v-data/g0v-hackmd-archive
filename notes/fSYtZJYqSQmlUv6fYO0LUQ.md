@@ -5,6 +5,10 @@
 
 > 7/16
 >環境をllama と llavaで分けて、裏で片方のターミナルを開いておく
+# llama環境を開くには
+````
+source LLaVA/llama/llama_env/bin/activate
+````
 Llavaをサーバーとして裏で起動しておき、Llamaの環境で一連の動作（メインスクリプト）を実行する流れが一番スムーズです。
 
 * ステップ1：【Llavaの環境】でサーバーを起動する
