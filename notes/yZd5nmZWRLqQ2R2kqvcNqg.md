@@ -7,6 +7,7 @@ tags: privacy, new-safeID, administrative-appeal, relief, 行政訴訟, 救濟, 
 
 ## Contact
 
+- 如果想參與後續可能的訴訟，請寄一封信到` privacy [at] cpeng.me`，謝謝！
 - [g0v slack #privacy 頻道](https://app.slack.com/client/T02G2SXKM/activity)
     - 歡迎直接點擊上述連結加入即時討論
 - [坑主臉書](fb.com/paulpengtw)
