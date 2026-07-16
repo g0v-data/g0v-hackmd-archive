@@ -9,8 +9,6 @@ Chainlon 資訊管理用暫存區，公開頁面、嚴禁機密資料
 :::
 [](https://)
 ### 常用連結
-Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
-O:\25資訊組\FPG\ERP\FPG.xlsx
 7-Zip https://www.7-zip.org/a/7z2301-x64.exe
 Chainlon 01Backup https://www.chainlon.net/1/01Backup.zip
 https://tw.bitwar.net/course/tips/3528.html
@@ -146,47 +144,9 @@ irm https://get.activated.win | iex
 
 https://codeload.github.com/Raphire/Win11Debloat/zip/refs/heads/master
 
-隱藏和禁用Win10系統自帶的｢立即開會
-https://allinfa.com/zh-tw/hide-close-win10-meet-now.html
-
 https://www.autohotkey.com/
 
 
-
-
-```
-
-
-# 檔案名稱建議：Remove-SysprepBlockers.ps1
-# 請以系統管理員身分執行
-
-Write-Host "開始檢查並移除可能阻擋 Sysprep 的 Appx 套件..." -ForegroundColor Cyan
-
-# 取得所有使用者的 Appx 套件
-$packages = Get-AppxPackage -AllUsers
-
-foreach ($pkg in $packages) {
-    # 常見阻擋 Sysprep 的套件：語言體驗包、Microsoft Store App、Xbox、Zune、Skype 等
-    if ($pkg.Name -match "LanguageExperiencePack" -or
-        $pkg.Name -match "Xbox" -or
-        $pkg.Name -match "Zune" -or
-        $pkg.Name -match "Skype" -or
-        $pkg.Name -match "Microsoft.People" -or
-        $pkg.Name -match "Microsoft.Microsoft3DViewer" -or
-        $pkg.Name -match "Microsoft.MSPaint") {
-
-        Write-Host "移除套件: $($pkg.Name)" -ForegroundColor Yellow
-        try {
-            Remove-AppxPackage -AllUsers -Package $pkg.PackageFullName -ErrorAction SilentlyContinue
-            dism /online /Remove-ProvisionedAppxPackage /PackageName:$pkg.PackageFullName | Out-Null
-        } catch {
-            Write-Host "移除失敗: $($pkg.Name) - $($_.Exception.Message)" -ForegroundColor Red
-        }
-    }
-}
-
-Write-Host "檢查完成。請重新執行 Sysprep。" -ForegroundColor Green
-```
 
 如何解決 Synology Drive 與 Synology Drive Client 之間的同步問題 | Synology
 https://www.youtube.com/watch?v=9URtnUZ84iw
