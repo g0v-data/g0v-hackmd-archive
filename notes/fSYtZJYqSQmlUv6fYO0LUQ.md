@@ -2,6 +2,72 @@
 `文字入力、プロンプト入力->ストーリーを入力することに絞る`
 ### h3 次にやること
 * ハギングフェイスからAPIキーを用いて、メモ帳に書いたコードの書き方で解決する方法
+
+> 7/16
+>環境をllama と llavaで分けて、裏で片方のターミナルを開いておく
+Llavaをサーバーとして裏で起動しておき、Llamaの環境で一連の動作（メインスクリプト）を実行する流れが一番スムーズです。
+
+* ステップ1：【Llavaの環境】でサーバーを起動する
+ターミナルを開き、Llavaのvenvに入ってサーバーを起動します。これにより、Llavaが指定したポート（例: 8000番）で命令を待つ状態になります。
+
+Bash
+````
+# Llavaの仮想環境をアクティベート
+source llava_env/bin/activate  # Windowsなら llava_env\Scripts\activate
+
+# vLLMなどを使ってLlavaをAPIサーバーとして起動
+vllm serve "あなたのLlavaのモデル名" --port 8000
+（※起動したら、このターミナルは閉じずにそのまま放置します）
+````
+* ステップ2：【Llamaの環境】で一連のコードを実行する
+別のターミナル画面を開き、Llama-3.2-1B のvenvに入ります。そこで以下のような「一連の動きをまとめたスクリプト（pipeline.py）」を作成して実行します。
+
+Python
+````
+import requests
+import torch
+from transformers import pipeline
+````
+
+# 動作1: 裏で待機しているLlavaサーバーに画像を分析してもらう
+````
+print("1. Llavaで画像を分析中...")
+image_url = "https://example.com/sample.jpg"  # 分析したい画像
+
+response = requests.post(
+    "http://localhost:8000/v1/chat/completions",
+    json={
+        "model": "あなたのLlavaのモデル名",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {"type": "text", "text": "この画像には何が写っていますか？詳しく説明してください。"},
+                    {"type": "image_url", "image_url": {"url": image_url}}
+                ]
+            }
+        ]
+    }
+)
+# Llavaが返してきた説明テキストを文字として受け取る
+llava_description = response.json()["choices"][0]["message"]["content"]
+print(f"Llavaの分析結果: {llava_description}\n")
+````
+
+
+# 動作2: 受け取った結果をそのままLlama-3.2に引き渡して文章を作らせる
+````
+print("2. Llama-3.2で文章を生成中...")
+model_id = "meta-llama/Llama-3.2-1B"
+pipe = pipeline("text-generation", model=model_id, torch_dtype=torch.bfloat16, device_map="auto")
+
+# Llavaの解説をプロンプト（指示文）に組み込む
+prompt = f"以下の画像の説明を元にして、面白いSNSの投稿文を作ってください。\n説明: {llava_description}"
+
+final_output = pipe(prompt)
+print("--- 最終出力結果 ---")
+print(final_output[0]["generated_text"])
+````
 > 7/9
 **llama**
 clone
