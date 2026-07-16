@@ -139,6 +139,6 @@ https://www.vtaiwan.tw/jitsi
 vTaiwan的Github Project目前是Private狀態，想建議改成Public狀態。
 
 > 只要大家同意，設定我可以來做
-> [name=Bestian
+> [name=Bestian]
 > 沒問題，這個今天晚上可以討論～
 > 經過討論
