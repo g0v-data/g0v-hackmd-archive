@@ -1,0 +1,1 @@
+<p><a href="https://nhandinhkeothom.com/">Tỷ lệ kèo</a> tại Kèo Thơm được cập nhật nhanh chóng và chính xác, giúp người chơi dễ dàng theo dõi biến động trước giờ bóng lăn. Bên cạnh việc cung cấp đầy đủ các loại kèo phổ biến, hệ thống còn đi kèm những phân tích chi tiết, hỗ trợ người chơi tham khảo và đưa ra lựa chọn phù hợp.</p>
