@@ -85,7 +85,8 @@ https://www.vtaiwan.tw/jitsi
 #### polis 
 - 目前的報告：https://polis.tw/report/r3janntdhm9ynaeydxjhk
 - 意見徵集的連結：https://polis.tw/9xeamzkbjp 
-- raw data csv：
+- Sensemaker V1分析：https://g0v.hackmd.io/g0bj89J2SZKmdYXavKy3SA?view
+- raw data json：從報告中導出，暫時放在和Sensemaker V1分析同一個共筆中
 - 目前分成 A 組與 B 組
     - 一個假設：政府與平台可能業務繁忙，而成為主張不應負擔更多責任的 A 組
 
