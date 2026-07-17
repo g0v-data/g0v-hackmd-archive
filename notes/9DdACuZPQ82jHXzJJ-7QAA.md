@@ -71,6 +71,10 @@ https://kiang.github.io/taipower_feeder/
 台南溼地與漁電共生
 https://www.facebook.com/k.olc.tw/photos/a.373836309456505/1211873392319455/
 
+漁電共生鋪排工具
+https://a606030jaguar-solarapp.pages.dev/
+https://www.facebook.com/share/p/1HceN9oscE/
+
 陽光屋頂「昕」希望 - 以彰化市中小學熱區分布範圍為例
 https://easytolearn.tw/GISMAP/Download/2018/5.pdf
 
