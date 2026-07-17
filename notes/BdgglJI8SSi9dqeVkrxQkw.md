@@ -1,0 +1,1 @@
+[sc88](https://sc88e.net/) là nền tảng giải trí trực tuyến cung cấp nhiều lựa chọn như cá cược thể thao, casino trực tuyến, game bài và các trò chơi đổi thưởng. Giao diện được thiết kế thân thiện, hỗ trợ trên nhiều thiết bị, cùng hệ thống chăm sóc khách hàng hoạt động 24/7 để hỗ trợ người dùng khi cần.
