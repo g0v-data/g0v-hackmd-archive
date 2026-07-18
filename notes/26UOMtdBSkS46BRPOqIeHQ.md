@@ -4,60 +4,67 @@
 
 ## 一、登入
 
-開啟Framer app
-選擇 ’Continue with gmail’
-驗證登入
+1. 開啟Framer app
+1. 選擇 ’Continue with Gmail’
+1. 驗證登入
 </br>
 
 ## 二、編輯模式
+### 2-1 基本步驟
 ![](https://g0v.hackmd.io/_uploads/HJ9GhrvEGe.png)
 
 1. 切換到Layers
 2. 選擇想編輯的頁面
 3. 選擇最左邊的Destop版本進行編輯，內容才會自動同步到右邊兩個較小尺寸的版本
-</br>
 
-## 三、首頁
-### 3-1 編輯文字
-![](https://g0v.hackmd.io/_uploads/B14KtrDVMg.png)
+### 2-2 編輯文字
+#### 方法1
+1. 點擊文字區塊
+2. 雙擊文字區塊即可直接於畫面中編輯
+![](https://g0v.hackmd.io/_uploads/HJAtu2_Vzl.png)
 
-1. 確認在Layers
-2. 點擊文字區塊
-3. 直接於編輯欄位變更內容
+#### 方法2
+![](https://g0v.hackmd.io/_uploads/Hyg78n_Efg.png)
 
+1. 點擊文字區塊
+2. 於右邊編輯欄位找到`Text`區塊
+3. 於`Content`中變更內容
 
-### 3-2 變更圖片
+### 2-3 變更圖片
 ![](https://g0v.hackmd.io/_uploads/Hkt0cHDNGx.png)
 
 1. 點擊要編輯的圖片
-2. 在編輯欄中點選Image
-3. 按一下縮圖可重新上傳檔案
+2. 在編輯欄中找到`Styles>Fill`中的`Image`，點一下以展開編輯面板
+3. 按一下展開的`Fill`面板中的縮圖可重新上傳檔案
+</br>
 
+## 三、首頁
 
-### 3-3 編輯合作品牌
-![](https://g0v.hackmd.io/_uploads/rkpg9BvEGx.png)
+### 3-1 編輯合作品牌
+
+![](https://g0v.hackmd.io/_uploads/By6FPnuEzl.png)
 
 1. 點擊要編輯的品牌
-2. 直接於編輯欄中變更圖片及文字
+2. 於Brand Item編輯欄中變更圖片及文字
 </br>
 
 ## 四、作品頁
-3-1 編輯首頁
+4-1 編輯首頁
 
 、
 
-## 四、關於頁
+## 五、關於頁
 
 
 
-## 五、聯絡
+## 六、聯絡
 
 展開Desktop>Hero>Stack>Text，選擇到想要編輯的文字（前面符號為“T”的元件）
 在右側欄位編輯文字內容
 
 
 
-## 六、儲存／預覽／發佈(Publish)
+## 七、儲存／預覽／發佈(Publish)
 
 
 Framer會自動儲存變更內容，不需額外存檔
@@ -67,7 +74,7 @@ Framer會自動儲存變更內容，不需額外存檔
 確認無誤後，按下’Update’，等待數秒後即可看到畫面顯示成功狀態
 
 
-## 七、全站設定
+## 八、全站設定
 ### 10-1 可調整顯示於搜尋引擎的名稱、描述，以及縮圖。
 
 
