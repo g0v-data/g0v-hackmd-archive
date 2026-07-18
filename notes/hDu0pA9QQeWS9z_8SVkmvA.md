@@ -10,6 +10,10 @@ tags: FtO, g0v-intl
     - Address: 200 Yeongsin-ro, Yeongdeungpo District, Seoul ([Google Maps](https://maps.app.goo.gl/HEdT756pghTgKfEN9)) ([NAVER Maps](https://naver.me/FG3SnyDm))
     - ==NO smoking NO alcohol in the venue!==
 
+
+> **Sign-up to FtO Souel 2026** :ocean:  
+https://forms.gle/spRvU2nLN1F5tmEc8 
+
 ## Venue
 - https://haja.net/
 - [Venue Photos](https://drive.google.com/drive/folders/1l2puQy84IsYrJGSFy_cLT68k1Eg-YnZC?usp=drive_link)
