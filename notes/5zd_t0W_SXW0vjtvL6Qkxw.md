@@ -1,0 +1,1 @@
+<a href="https://qs88qh.com/">QS88</a> là nền tảng giải trí trực tuyến mang đến nhiều lựa chọn hấp dẫn với giao diện thân thiện, tốc độ ổn định và trải nghiệm mượt mà trên cả máy tính lẫn thiết bị di động. Hệ thống cập nhật ưu đãi thường xuyên cùng dịch vụ hỗ trợ 24/7. 
