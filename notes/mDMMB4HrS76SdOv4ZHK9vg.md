@@ -29,7 +29,7 @@
 ## 訂單管理 `order`
 + 出貨管理 `/order/ship`
     + 出貨管理列表`/order/ship/query`
-    + 未完成訂單管理 `/order/ship/incomplete`
+    + 未完成訂單管理 `/order/ship/incompleteQuery`
     + 未出貨訂單管理 `/order/ship/unshipQuery`
     + 未完成訂單-批次 `/order/ship/unship`
     + 未押出貨客辦退 `/order/ship/undeposited`
