@@ -33,6 +33,9 @@ https://www.facebook.com/share/v/1Bem93ejrU/
 我了解你的明白
 https://www.facebook.com/share/1CLgqZ8mX2/
 
+吃這個好不好
+https://youtube.com/@tastethisgood
+
 ## 發想
 
 這是什麼意思
@@ -44,5 +47,8 @@ https://www.facebook.com/share/1CLgqZ8mX2/
 說真的
 嚴格來說
 所以說
+我聽說
+聽別人說
+聽媽媽說
 
 

@@ -1,7 +1,54 @@
 leetcode-medium
 ===
 [toc]
-## two point
+## two pointer
+### Container With Most Water(11)
+:::info
+You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
+
+Find two lines that together with the x-axis form a container, such that the container contains the most water.
+
+Return the maximum amount of water a container can store.
+
+Notice that you may not slant the container.
+
+ 
+
+Example 1:
+![](https://g0v.hackmd.io/_uploads/SyOVzAs4zx.png)
+
+
+Input: height = [1,8,6,2,5,4,8,3,7]
+Output: 49
+Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+Example 2:
+
+Input: height = [1,1]
+Output: 1
+:::
+```
+class Solution(object):
+    def maxArea(self, height):
+        """
+        :type height: List[int]
+        :rtype: int
+        """
+        max_area=0 #最大面積
+        left=0 
+        right=len(height)-1
+        while left<right:
+            if height[left]<height[right]: #判斷左右兩邊哪邊比較長
+                total=height[left]*(right-left) #計算面積
+                left+=1 #左邊比較小則left往右移一個位置
+            else:
+                total=height[right]*(right-left)
+                right-=1 #右邊比較小則right往左移一個位置
+            if total > max_area: #判斷是否有超過原有的max_area
+                max_area=total
+        return max_area
+              
+        
+```
 ### 3Sum(15)
 :::warning
 Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]]uch that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
@@ -168,6 +215,53 @@ class Solution(object):
         return new
                     
 
+```
+### Two Sum II - Input Array Is Sorted(167)
+:::info
+Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers.length.
+
+Return the indices of the two numbers index1 and index2, each incremented by one, as an integer array [index1, index2] of length 2.
+
+The tests are generated such that there is exactly one solution. You may not use the same element twice.
+
+Your solution must use only constant extra space.
+
+ 
+
+Example 1:
+
+Input: numbers = [2,7,11,15], target = 9
+Output: [1,2]
+Explanation: The sum of 2 and 7 is 9. Therefore, index1 = 1, index2 = 2. We return [1, 2].
+Example 2:
+
+Input: numbers = [2,3,4], target = 6
+Output: [1,3]
+Explanation: The sum of 2 and 4 is 6. Therefore index1 = 1, index2 = 3. We return [1, 3].
+Example 3:
+
+Input: numbers = [-1,0], target = -1
+Output: [1,2]
+Explanation: The sum of -1 and 0 is -1. Therefore index1 = 1, index2 = 2. We return [1, 2].
+:::
+```
+class Solution(object):
+    def twoSum(self, numbers, target):
+        """
+        :type numbers: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        left=0
+        right=len(numbers)-1
+        while left < right:
+            total=numbers[left]+numbers[right]
+            if total<target:
+                left+=1
+            elif total>target:
+                right-=1
+            else:
+                return [left+1,right+1]
 ```
 ## Reverse Integer
 ::: warning
