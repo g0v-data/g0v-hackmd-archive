@@ -49,7 +49,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
 | 海纜檢測 | Irvin | resilience.ocf.tw |
-| insert content here | insert name here | insert content here |
+| 自主 LoRa 緊急通訊演練 | T.H. | ure26.takke.me |
 | insert content here | insert name here | insert content here |
 | insert content here | insert name here | insert content here |
 | insert content here | insert name here | insert content here |
@@ -60,7 +60,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 來者何人，留下名稱！（請自由留下自己的暱稱或稱呼）
 
 - Irvin
-- 
+- T.H. (aka Schee)
 - 
 
 ---
