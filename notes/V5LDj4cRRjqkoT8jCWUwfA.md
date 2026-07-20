@@ -1,0 +1,1 @@
+[the planet clicker](https://theplanetclicker.net/) offers a simple but highly addictive idle gameplay loop that rewards both active clicking and passive progression. Build your energy production, unlock powerful upgrades, and watch your solar empire grow as you conquer multiple planets.
