@@ -3,7 +3,7 @@ leetcode-medium
 [toc]
 ## two pointer
 ### Container With Most Water(11)
-:::info
+:::warning
 You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
 
 Find two lines that together with the x-axis form a container, such that the container contains the most water.
@@ -217,7 +217,7 @@ class Solution(object):
 
 ```
 ### Two Sum II - Input Array Is Sorted(167)
-:::info
+:::warning
 Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers.length.
 
 Return the indices of the two numbers index1 and index2, each incremented by one, as an integer array [index1, index2] of length 2.
@@ -262,6 +262,72 @@ class Solution(object):
                 right-=1
             else:
                 return [left+1,right+1]
+```
+## Binary Search
+### Search a 2D Matrix
+:::warning
+You are given an m x n integer matrix matrix with the following two properties:
+
+Each row is sorted in non-decreasing order.
+The first integer of each row is greater than the last integer of the previous row.
+Given an integer target, return true if target is in matrix or false otherwise.
+
+You must write a solution in O(log(m * n)) time complexity.
+
+ 
+
+Example 1:
+
+![](https://g0v.hackmd.io/_uploads/SklUqGk34zg.png)
+
+Input: matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 3
+Output: true
+:::
+```
+class Solution(object):
+    def searchMatrix(self, matrix, target):
+        """
+        :type matrix: List[List[int]]
+        :type target: int
+        :rtype: bool
+        """
+
+        # 矩陣的列數 (row)
+        row = len(matrix)
+
+        # 矩陣的欄數 (column)
+        col = len(matrix[0])
+
+        # Binary Search 的起點 (第一個元素)
+        start = 0
+
+        # Binary Search 的終點 (最後一個元素)
+        end = row * col - 1
+
+        # 只要搜尋範圍還存在，就繼續搜尋
+        while start <= end:
+
+            # 找中間位置
+            mid = (start + end) // 2
+
+            # 將一維索引轉回二維座標
+            r = mid // col      # 第幾列
+            c = mid % col       # 第幾欄
+
+            # 找到目標
+            if matrix[r][c] == target:
+                return True
+
+            # target 在右半邊
+            elif matrix[r][c] < target:
+                start = mid + 1
+
+            # target 在左半邊
+            else:
+                end = mid - 1
+
+        # 找不到 target
+        return False
 ```
 ## Reverse Integer
 ::: warning
