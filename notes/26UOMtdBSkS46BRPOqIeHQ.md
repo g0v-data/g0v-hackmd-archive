@@ -52,22 +52,47 @@
 
 </br>
 
-### 2-5 新增建案作品
+### 2-5 編輯Footer
+![](https://g0v.hackmd.io/_uploads/rJ4XqJTVze.png)
+1. 切換到Assets
+2. 在搜尋欄中填入`footer`
+3. 選擇Footer
+4. 選擇要編輯的項目
+5. 進行編輯
+
+
+### 2-6 新增建案作品
 ![](https://g0v.hackmd.io/_uploads/ryS9Zxh4fx.png)
 1. 點選左上角下拉選單，預設為Convas
 2. 切換到CMS
-3. 按+號
-4. 填入作品資訊，完成後將`status`從`Draft`改成`Live`
+
 ![](https://g0v.hackmd.io/_uploads/SkS2Wl3Ezx.png)
 ![](https://g0v.hackmd.io/_uploads/BkXGRn3Vze.png)
+3. 按+號
+4. 填入作品資訊，完成後將`status`從`Draft`改成`Live`
+</br>
 
-### 2-6 編輯建案作品
+### 2-7 編輯建案作品
 
 ![](https://g0v.hackmd.io/_uploads/BJ9iCnnVzl.png)
+1. 切換到CMS
+2. 對要編輯的頁面按展開按鈕
 
+![](https://g0v.hackmd.io/_uploads/Byx1iwypVze.png)
+3.於表單中編輯，完畢後按左上X離開即可
 
+</br>
 
-## 三、發佈
+## 三、全站設定
+
+1. 切換到Setting
+2. 選擇要調整的對象，'General’是針對全站，'Page Settings’下則是網站中的個別頁面。
+3. 調整希望顯示於搜尋引擎的名稱、描述，以及縮圖。
+![](https://g0v.hackmd.io/_uploads/HkeAStkpEfe.png)
+
+</br>
+
+## 四、發佈
 
 ![](https://g0v.hackmd.io/_uploads/ryuk-e3EMl.png)
 
@@ -80,14 +105,3 @@ Framer會自動儲存變更內容，不需額外存檔
 
 </br>
 
-## 四、全站設定
-### 4-1 可調整顯示於搜尋引擎的名稱、描述，以及縮圖。
-
-點擊設定按鈕
-選擇要調整的對象，'General’是針對全站，'Page Settings’下則是網站中的個別頁面。
-調整希望顯示於搜尋引擎的名稱、描述，以及縮圖。
-
-### 4-2 Social Media Icon
-在任一頁面的Footer區塊點擊兩下以進入母元件編輯區
-將svg格式(無大小規範)的logo圖檔拖到畫布空白處
-將logo拖曳進實際版面，並從右側找到Size區塊，將尺寸調整為32x32 
