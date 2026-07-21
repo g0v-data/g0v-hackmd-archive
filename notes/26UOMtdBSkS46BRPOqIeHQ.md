@@ -52,9 +52,18 @@
 
 </br>
 
-### 2-5 新增作品
+### 2-5 新增建案作品
 ![](https://g0v.hackmd.io/_uploads/ryS9Zxh4fx.png)
+1. 點選左上角下拉選單，預設為Convas
+2. 切換到CMS
+3. 按+號
+4. 填入作品資訊，完成後將`status`從`Draft`改成`Live`
 ![](https://g0v.hackmd.io/_uploads/SkS2Wl3Ezx.png)
+![](https://g0v.hackmd.io/_uploads/BkXGRn3Vze.png)
+
+### 2-6 編輯建案作品
+
+![](https://g0v.hackmd.io/_uploads/BJ9iCnnVzl.png)
 
 
 
