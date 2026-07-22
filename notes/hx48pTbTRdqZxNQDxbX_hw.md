@@ -1,0 +1,1 @@
+[78win](https://78wingenz.com/) là nền tảng giải trí trực tuyến cung cấp nhiều trò chơi đa dạng như casino, thể thao, slot và game bài. Hệ thống được tối ưu trên cả máy tính và thiết bị di động, mang đến trải nghiệm mượt mà, giao diện thân thiện cùng nhiều chương trình ưu đãi dành cho người tham gia.
