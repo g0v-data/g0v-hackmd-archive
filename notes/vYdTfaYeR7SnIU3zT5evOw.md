@@ -504,7 +504,7 @@ AWS
 管理：g0v 揪松團（Flickr 是單一帳號，帳號跟密碼由揪松團管理）
 
 協同管理：
-- 2026.7.14 帳號權限分享給 Summit 紀錄組長月太
+- 2026.7.14 帳號權限分享給 Summit 2026 紀錄組長月太、總召 RS
 
 ### 營運經費
 
@@ -512,15 +512,17 @@ AWS
 
 - 2020 年感謝 Isabel 個人贊助 Flickr Pro 年度費用。
 - 2021 年感謝 Kirby 個人贊助 Flickr Pro 年度費用。
-- 2022 揪松付費 Flickr Pro 年度費用。
-- 2023 揪松付費 Flickr Pro 年度費用。
+- 2022 揪松支付 Flickr Pro 年度費用。
+- 2023 揪松支付 Flickr Pro 年度費用。
 - 2024.03 感謝 Ying 個人贊助 Flickr Pro 年度費用。
 - 2025.03 感謝捐款者 g0v.cafe
 - 2026.06 感謝 Kirby 個人贊助 Flickr Pro 年度費用
 - 2027.06 ______
+- 2028.06 ______
 
 ### 申請 Pro 公益方案
 
+2026.07 
 https://g0v.hackmd.io/4RCJzzpOSNG3Qu3tuwoSIg?view
 
 ### 社群活動、專案，申請建立　Flickr 相簿並上傳照片（內容發展中）
@@ -595,7 +597,7 @@ https://g0v.hackmd.io/I39BvrYBT3GIU399sZHeqg
         - 與 OCF 合作金流與帳務
             - OCF 提供給揪松團的 共用硬碟空間是 1T
                 - 2024.05.14 目前已使用約 330 G
-        - 不定期開發義賣品
+        - 不定期開發捐款回贈品
 - 揪松團網站：https://jothon.g0v.tw/
 - 揪松團成員
     - 邀請制：https://g0v.hackmd.io/qvr3X9bcSUSReVjsWZOYJA

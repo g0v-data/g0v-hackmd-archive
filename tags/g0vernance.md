@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2026-07-22T17:58:41+00:00 | 2018-08-30T07:19:57+00:00 |
+| 1 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2026-07-22T18:04:01+00:00 | 2018-08-30T07:19:57+00:00 |
 | 2 | [g0v slack 治理機制討論](../notes/rHe3Lfh_S3yhtRawnliSIg.md) | 2026-06-25T20:27:56+00:00 | 2021-03-16T06:12:06+00:00 |
 | 3 | [g0v 行為守則 g0v Code of Conduct](../notes/XPzJRxsHT2CaOO5WZ5r-BA.md) | 2026-05-19T17:26:02+00:00 | 2017-08-21T03:57:16+00:00 |
 | 4 | [g0v.tw 被當作詐騙網站舉例，用於事實查核與政府宣導](../notes/p-jr_r5tRLyQ1A7OUL1r9w.md) | 2025-11-03T12:35:20+00:00 | 2023-04-04T13:05:30+00:00 |
