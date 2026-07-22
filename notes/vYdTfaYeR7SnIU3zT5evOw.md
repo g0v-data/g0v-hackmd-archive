@@ -515,9 +515,13 @@ AWS
 - 2022 揪松付費 Flickr Pro 年度費用。
 - 2023 揪松付費 Flickr Pro 年度費用。
 - 2024.03 感謝 Ying 個人贊助 Flickr Pro 年度費用。
-- 2025.03 ______
-- 2026.03 ______
-- 2027.03 ______
+- 2025.03 感謝捐款者 g0v.cafe
+- 2026.06 感謝 Kirby 個人贊助 Flickr Pro 年度費用
+- 2027.06 ______
+
+### 申請 Pro 公益方案
+
+https://g0v.hackmd.io/4RCJzzpOSNG3Qu3tuwoSIg?view
 
 ### 社群活動、專案，申請建立　Flickr 相簿並上傳照片（內容發展中）
 
