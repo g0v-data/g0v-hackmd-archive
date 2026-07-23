@@ -328,8 +328,8 @@ LlamaIndex
 > ~~~~数式エディタの搭載
 >* MathJax(JavaScriptプログラム)~~~~
 
-> ベンゼン環の描画
->* RDKit
+> ~~~ベンゼン環の描画
+>* RDKit~~~
 
 > AIによる仮漫画化　（orネーム案の考案）
 >* (Stable Diffusion XL(画像))　もしくは　Pony Diffusion V6(アニメや漫画風に特化) + LoRA(キャラの固定)
