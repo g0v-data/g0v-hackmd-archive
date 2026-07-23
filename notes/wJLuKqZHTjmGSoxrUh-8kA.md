@@ -87,6 +87,7 @@ tags: child,
 * 20260111 [「護兒少・反廢死」大遊行](https://www.facebook.com/groups/419383313867305/)
 * 20260127 [台灣高等法院二審駁回上訴](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPHM,114%2c%e5%9c%8b%e5%af%a9%e4%b8%8a%e9%87%8d%e8%a8%b4%2c4%2c20260127%2c6)
 * 20260421 [兒福聯盟社工一審判決](https://judgment.judicial.gov.tw/LAW_Mobile_FJUD/FJUD/data.aspx?ty=JD&id=TPDM,114%2c%e8%a8%b4%2c51%2c20260416%2c2)
+* 20260723 [剴剴案定讞！惡保母劉彩萱判無期、劉若琳18年　將入獄服刑](https://www.ettoday.net/news/20260723/3206486.htm)
 
 參考資料：
 * [林祐生(剴剴外婆友人)臉書](https://www.facebook.com/kevinlin3160/posts/pfbid0dLRybhBiErYSyVHEAcuXzsaMqHykgVnFPUHPTPLaWVYPqg9YMS1zRPeGntHoTyGRl)
