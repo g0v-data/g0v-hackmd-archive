@@ -46,8 +46,6 @@ class Solution(object):
             if total > max_area: #判斷是否有超過原有的max_area
                 max_area=total
         return max_area
-              
-        
 ```
 ### 3Sum(15)
 :::warning
