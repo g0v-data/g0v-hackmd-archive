@@ -61,6 +61,8 @@ g0v Slack Channel Guide 頻道傳送門
 #thai-ภาษาไทย 泰國與泰語
 #g0v-bangkok
 #tiếngviệt-vietnam 越南與越語
+#cambodia_柬埔寨
+#laos_寮國
 #nepali-नेपाली
 #malaysia-馬來西亞
 #indonesia-印尼
@@ -78,6 +80,7 @@ g0v Slack Channel Guide 頻道傳送門
 #netherlands_荷蘭
 #deutschland-germany 德國與德語區
 #french-français
+#switzerland_瑞士聯邦
 #uk
 #türkiye_土耳其
 #българия_balgariya_保加利亞
@@ -145,6 +148,7 @@ g0v Slack Channel Guide 頻道傳送門
 #venue_場地
 
 ### Edu / Learning / Health / Living
+#child_嬰幼兒_孩童
 #幼兒發展調查資料庫
 #moedict 萌典、字典
 #amis 阿美語萌典
@@ -214,6 +218,7 @@ g0v Slack Channel Guide 頻道傳送門
 #g0vhiking for hiking affair
 #camping :camping: 全台露營區合法共 205 筆資料與線上地圖
 #ngo NGO 會務交流
+#farewell_tech
 
 ### Open Gov & Projects
 #d2wg 數位民主研究案工作小組 g0v Digital Democracy Working Group
@@ -306,6 +311,7 @@ g0v Slack Channel Guide 頻道傳送門
 #好連街_gdp_good-district-path-生活路徑營造
 #ohshown 台灣黑熊通報平台 :bear:
 #cat 協尋喵星人 :cat:
+#drone
 #aerialmapping	
 #lostsar-openuavlab LostSAR 開源搜救應用
 #libot 市容通報工具 / Linebot
