@@ -572,6 +572,73 @@ class Solution(object):
         return nums[left]
 
 ```
+### Koko Eating Bananas(875)
+:::warning
+Koko loves to eat bananas. There are n piles of bananas, the ith pile has piles[i] bananas. The guards have gone and will come back in h hours.
+
+Koko can decide her bananas-per-hour eating speed of k. Each hour, she chooses some pile of bananas and eats k bananas from that pile. If the pile has less than k bananas, she eats all of them instead and will not eat any more bananas during this hour.
+
+Koko likes to eat slowly but still wants to finish eating all the bananas before the guards return.
+
+Return the minimum integer k such that she can eat all the bananas within h hours.
+
+ 
+
+Example 1:
+
+Input: piles = [3,6,7,11], h = 8
+Output: 4
+Example 2:
+
+Input: piles = [30,11,23,4,20], h = 5
+Output: 30
+Example 3:
+
+Input: piles = [30,11,23,4,20], h = 6
+Output: 23
+:::
+```
+class Solution(object):
+    def minEatingSpeed(self, piles, h):
+        """
+        :type piles: List[int]
+        :type h: int
+        :rtype: int
+        """
+
+        # 最小速度至少是 1 根/小時
+        left = 1
+
+        # 最大速度不可能超過最大那堆香蕉
+        right = max(piles)
+
+        # Binary Search 搜尋「最小可行速度」
+        while left < right:
+
+            # 猜目前的吃香蕉速度
+            mid = left + (right - left) // 2
+
+            # 計算以速度 mid 吃完所有香蕉需要多少小時
+            hours = 0
+
+            for i in piles:
+                # (i + mid - 1) // mid 等同於 math.ceil(i / mid)
+                # 因為一小時只能吃一堆，所以不足一小時也要算一小時
+                hours += (i + mid - 1) // mid
+
+            # 如果花費時間超過 h
+            # 代表速度太慢，需要提高速度
+            if hours > h:
+                left = mid + 1
+
+            # 如果可以在 h 小時內完成
+            # 代表目前速度可行，試試看能不能更慢
+            else:
+                right = mid
+
+        # left == right 時，就是最小可行速度
+        return left
+```
 ## Reverse Integer
 ::: warning
 Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-2^31, 2^31 - 1], then return 0.
