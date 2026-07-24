@@ -264,6 +264,101 @@ class Solution(object):
                 return [left+1,right+1]
 ```
 ## Binary Search
+### Search in Rotated Sorted Array(33)
+:::warning
+There is an integer array nums sorted in ascending order (with distinct values).
+
+Prior to being passed to your function, nums is possibly left rotated at an unknown index k (1 <= k < nums.length) such that the resulting array is [nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]] (0-indexed). For example, [0,1,2,4,5,6,7] might be left rotated by 3 indices and become [4,5,6,7,0,1,2].
+
+Given the array nums after the possible rotation and an integer target, return the index of target if it is in nums, or -1 if it is not in nums.
+
+You must write an algorithm with O(log n) runtime complexity.
+
+ 
+
+Example 1:
+
+Input: nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
+Example 2:
+
+Input: nums = [4,5,6,7,0,1,2], target = 3
+Output: -1
+Example 3:
+
+Input: nums = [1], target = 0
+Output: -1
+:::
+```
+class Solution(object):
+    def search(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
+        left = 0
+        right = len(nums) - 1
+
+        # 搜尋區間仍存在
+        while left <= right:
+
+            # 計算中間位置
+            mid = left + (right - left) // 2
+
+            # 找到 target
+            if nums[mid] == target:
+                return mid
+            # 特殊情況：
+            # nums[left]、nums[mid]、nums[right] 都相同
+            # 無法判斷哪一半是有序的
+            #
+            # 例如：
+            # [1,1,1,1,3,1]
+            #  L    M     R
+            #
+            # 此時只能把左右各縮一格
+            if nums[left] == nums[mid] == nums[right]:
+                left += 1
+                right -= 1
+            # 左半邊有序
+            #
+            # 例如：
+            # [4,5,6,7,0,1,2]
+            #  L   M
+            #
+            # nums[left] <= nums[mid]
+            # -------------------------------------------------
+            elif nums[left] <= nums[mid]:
+
+                # target 落在左半邊有序區間
+                if nums[left] <= target < nums[mid]:
+                    right = mid - 1
+
+                # target 不在左半邊
+                else:
+                    left = mid + 1
+
+            # -------------------------------------------------
+            # 右半邊有序
+            #
+            # 例如：
+            # [6,7,0,1,2,4,5]
+            #        M      R
+            # -------------------------------------------------
+            else:
+
+                # target 落在右半邊有序區間
+                if nums[mid] < target <= nums[right]:
+                    left = mid + 1
+
+                # target 不在右半邊
+                else:
+                    right = mid - 1
+
+        # 找不到
+        return -1
+```
 ### Search a 2D Matrix(74)
 :::warning
 You are given an m x n integer matrix matrix with the following two properties:
@@ -327,6 +422,104 @@ class Solution(object):
                 end = mid - 1
 
         # 找不到 target
+        return False
+```
+### Search in Rotated Sorted Array II(81)
+:::warning
+There is an integer array nums sorted in non-decreasing order (not necessarily with distinct values).
+
+Before being passed to your function, nums is rotated at an unknown pivot index k (0 <= k < nums.length) such that the resulting array is [nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]] (0-indexed). For example, [0,1,2,4,4,4,5,6,6,7] might be rotated at pivot index 5 and become [4,5,6,6,7,0,1,2,4,4].
+
+Given the array nums after the rotation and an integer target, return true if target is in nums, or false if it is not in nums.
+
+You must decrease the overall operation steps as much as possible.
+
+ 
+
+Example 1:
+
+Input: nums = [2,5,6,0,0,1,2], target = 0
+Output: true
+Example 2:
+
+Input: nums = [2,5,6,0,0,1,2], target = 3
+Output: false
+:::
+```
+class Solution(object):
+    def search(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: bool
+        """
+
+        # Binary Search 左右邊界
+        left = 0
+        right = len(nums) - 1
+
+        # 搜尋區間仍存在
+        while left <= right:
+
+            # 計算中間位置
+            mid = left + (right - left) // 2
+
+            # 找到 target
+            if nums[mid] == target:
+                return True
+
+            # -------------------------------------------------
+            # 特殊情況：
+            # nums[left]、nums[mid]、nums[right] 都相同
+            # 無法判斷哪一半是有序的
+            #
+            # 例如：
+            # [1,1,1,1,3,1]
+            #  L    M     R
+            #
+            # 此時只能把左右各縮一格
+            # -------------------------------------------------
+            if nums[left] == nums[mid] == nums[right]:
+                left += 1
+                right -= 1
+
+            # -------------------------------------------------
+            # 左半邊有序
+            #
+            # 例如：
+            # [4,5,6,7,0,1,2]
+            #  L   M
+            #
+            # nums[left] <= nums[mid]
+            # -------------------------------------------------
+            elif nums[left] <= nums[mid]:
+
+                # target 落在左半邊有序區間
+                if nums[left] <= target < nums[mid]:
+                    right = mid - 1
+
+                # target 不在左半邊
+                else:
+                    left = mid + 1
+
+            # -------------------------------------------------
+            # 右半邊有序
+            #
+            # 例如：
+            # [6,7,0,1,2,4,5]
+            #        M      R
+            # -------------------------------------------------
+            else:
+
+                # target 落在右半邊有序區間
+                if nums[mid] < target <= nums[right]:
+                    left = mid + 1
+
+                # target 不在右半邊
+                else:
+                    right = mid - 1
+
+        # 找不到
         return False
 ```
 ### Find Minimum in Rotated Sorted Array(153)
