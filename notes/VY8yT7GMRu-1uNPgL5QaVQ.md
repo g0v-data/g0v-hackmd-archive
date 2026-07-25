@@ -5,12 +5,15 @@
 # 快速連到本頁面網址：[`s.g0v.tw/ly`](s.g0v.tw/ly)![](https://g0v.hackmd.io/_uploads/Hk0a3SiAgl.png =300x)
 :::
 
+[錄影記錄](https://www.youtube.com/watch?v=hI9t4dlA5PI)
+[Slido](https://app.sli.do/event/hvFH3QyHdKZJs1bw3rtiyB)
+
 🔸 Ronny（歐噴公司創辦人、國會松發起人）
 
 ▍這次的 AI 不一樣了，代理型AI怎麼研究政府資料？
 
 從自己寫程式，到開始大量把代理型 AI 納入工作流程。分享這一年來的嘗試，以及人類與AI的分工方式
-
+[投影片](https://docs.google.com/presentation/d/1id2SC8dxRA-sFsTo9IdviCB0Dren4TawR1SWgTTF_f0/edit)
 
 
 🔸Weichen（資安院／人類學，關心數位議題與網路治理）
@@ -18,7 +21,7 @@
 ▍Insight Pipeline：展開與代理群協作的研究生活
 
 如果研究助理變成一群 AI，研究工作會長什麼樣子？從實際案例分享自己的工作方法
-
+[投影片](https://docs.google.com/presentation/d/1_O30daAM1SkFeg7z7prb38QWC4PbovgOY_6hykQAzqc/edit?usp=sharing)
 
 
 🔸Claire（自由工作者/公民科技專案 PM & 研究員、國會松工作小組）

@@ -7,7 +7,7 @@ tags: vtaiwan
 -  場地時間：13:00-17:30
 -  活動時間：14:00-16:30
     -  場佈：13:00-14:00
-    -  Jothon 時間：14:00
+    -  Jothon 時間：14:00-14:30
     -  vTaiwan 14:30-16:30
 
 ## 討論主題與使用工具
@@ -15,7 +15,9 @@ tags: vtaiwan
 - 使用工具
     - Mentimeter 
     - Hear the room 
+    - polis
 - 花東在地議題
+    - 希望聽聽災象夥伴
     - 災害防救政策
     - 地方創生的資源分配
         - [牛犁社區發展協會的辯論](https://www.facebook.com/share/p/1EgYR7gEjR/)
@@ -23,8 +25,14 @@ tags: vtaiwan
 ## 夥伴住宿與車票
 ### 參與者簽到
 - Peter
+- 翊婷
+#### 災象
+- Janet
+- Billy
 ### 住宿 
+- 花蓮市區
 - 前一天晚上：
 - 住宿：
 ### 交通
+- 從市區前往壽豐
 - 
