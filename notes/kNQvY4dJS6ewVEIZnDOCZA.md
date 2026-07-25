@@ -1,0 +1,1 @@
+[bongdanet](https://bongdanet.biz/) là chuyên trang cập nhật thông tin bóng đá nhanh chóng với lịch thi đấu, tỷ số trực tiếp, kết quả, bảng xếp hạng và tin tức mới nhất. Bên cạnh đó, website còn mang đến các bài nhận định, thống kê phong độ và dữ liệu hữu ích giúp người hâm mộ theo dõi đầy đủ diễn biến của những giải đấu hàng đầu trong nước và quốc tế.
