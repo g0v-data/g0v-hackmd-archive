@@ -1,0 +1,2 @@
+gg88 gurucocom
+<a href="https://gg88guru.co.com/">GG88</a> mang đến cho bạn trải nghiệm giải trí đỉnh cao và hoàn toàn khác biệt! Với hệ thống trò chơi đa dạng, giao diện mượt mà cùng hàng ngàn phần quà hấp dẫn mỗi ngày, đây chính là điểm hẹn lý tưởng cho những ai yêu thích sự sôi động và kịch tính.<br>
