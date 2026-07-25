@@ -48,7 +48,7 @@ vTaiwan 相關資料整理 vTaiwan related materials
 - [vTaiwan議題小聚](/GUe0KXMsQBC-6KTIUPBVnA?both)
 - [SenseMaker應用與改良](https://g0v.hackmd.io/6mzxQkY3Sr6ILYSfSMsqVg?view)
 - [2025TWNIC研究提案](/7Fo3M_qRR2CMQc6q08YwlQ)
-
+- [2026 vTaiwan 到花蓮玩](/Eg5K7JxkStGETO3jNbDYWw)
 專案紀錄 Past Projects 
 ---
 - [vTaiwan in TicTEC 2024](/_fWuILaRSv-h3FQsXSLxaQ)
