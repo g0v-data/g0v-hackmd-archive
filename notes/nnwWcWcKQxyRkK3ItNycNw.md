@@ -6,7 +6,9 @@
 :::
 
 - [報名網址](https://g0vcongressthon.oen.tw/events/3GawOcAZ9kufoe4up7JUHelGuL1)
-
+- [投影片](https://docs.google.com/presentation/d/1FVdBNRLkdG2e3ov-fTuiCEFEWcMUrI-wzYccTsffmbI/edit?usp=sharing)
+- [方法論論文](https://drive.google.com/file/d/1llVIydeHIZlcUbHN1BvfcuK9DlTvK_P8/view?usp=sharing)
+- [報導者觀測站](https://lawmaker.twreporter.org/congress)
 ## 你家立委關心什麼？《報導者觀測站》設計幕後大公開！
 
 政府資料公開了，但你真的看得懂嗎？
