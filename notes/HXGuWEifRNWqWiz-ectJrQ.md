@@ -82,6 +82,61 @@ class Solution(object):
         # 回傳合併完成且排序好的陣列
         return result
 ```
+```
+# quick sort解法
+import random
+
+class Solution:
+    def sortArray(self, nums):
+        self.quickSort(nums, 0, len(nums) - 1)
+        return nums
+
+    def quickSort(self, nums, low, high):
+        # 區間只有一個元素或沒有元素
+        if low >= high:
+            return
+
+        # 隨機選一個 Pivot
+        pivot = nums[random.randint(low, high)]
+
+        # lt 左邊都是小於 Pivot 的元素
+        lt = low
+
+        # i 是目前正在檢查的位置
+        i = low
+
+        # gt 右邊都是大於 Pivot 的元素
+        gt = high
+
+        while i <= gt:
+            if nums[i] < pivot:
+                # 小於 Pivot，交換到左邊
+                nums[lt], nums[i] = nums[i], nums[lt]
+
+                lt += 1
+                i += 1
+
+            elif nums[i] > pivot:
+                # 大於 Pivot，交換到右邊
+                nums[i], nums[gt] = nums[gt], nums[i]
+
+                gt -= 1
+
+                # 交換過來的 nums[i] 還沒檢查
+                # 所以這裡不能讓 i += 1
+
+            else:
+                # 等於 Pivot，留在中間
+                i += 1
+
+        # 排序小於 Pivot 的區域
+        self.quickSort(nums, low, lt - 1)
+
+        # lt 到 gt 都等於 Pivot，不需要排序
+
+        # 排序大於 Pivot 的區域
+        self.quickSort(nums, gt + 1, high)
+```
 ## two pointer
 ### Container With Most Water(11)
 :::warning
