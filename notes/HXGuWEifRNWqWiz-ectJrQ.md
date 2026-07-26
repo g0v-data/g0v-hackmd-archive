@@ -1,6 +1,87 @@
 leetcode-medium
 ===
 [toc]
+## Arrays & Hashing
+### Sort an Array(912)
+:::warning
+Given an array of integers nums, sort the array in ascending order and return it.
+
+You must solve the problem without using any built-in functions in O(nlog(n)) time complexity and with the smallest space complexity possible.
+
+ 
+
+Example 1:
+
+Input: nums = [5,2,3,1]
+Output: [1,2,3,5]
+Explanation: After sorting the array, the positions of some numbers are not changed (for example, 2 and 3), while the positions of other numbers are changed (for example, 1 and 5).
+Example 2:
+
+Input: nums = [5,1,1,2,0,0]
+Output: [0,0,1,1,2,5]
+Explanation: Note that the values of nums are not necessarily unique.
+:::
+```
+# 使用merge sort
+class Solution(object):
+    def sortArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+
+        # Base Case：
+        # 如果陣列長度為 0 或 1，代表已經排序完成，直接回傳
+        if len(nums) <= 1:
+            return nums
+
+        # 找到陣列中間的位置
+        mid = len(nums) // 2
+
+        # 將陣列切成左右兩半
+        left = nums[:mid]
+        right = nums[mid:]
+
+        # 遞迴排序左半部
+        left = self.sortArray(left)
+
+        # 遞迴排序右半部
+        right = self.sortArray(right)
+
+        # 將兩個已排序的陣列合併
+        return self.merge(left, right)
+
+    def merge(self, left, right):
+
+        # i：左半部索引
+        # j：右半部索引
+        i = j = 0
+
+        # 存放合併後的排序結果
+        result = []
+
+        # 只要左右兩邊都還有元素，就持續比較
+        while i < len(left) and j < len(right):
+
+            # 左邊元素較小(或相等)，先放入 result
+            if left[i] <= right[j]:
+                result.append(left[i])
+                i += 1
+
+            # 否則放入右邊元素
+            else:
+                result.append(right[j])
+                j += 1
+
+        # 如果左半部還有剩餘元素，直接全部加入
+        result.extend(left[i:])
+
+        # 如果右半部還有剩餘元素，直接全部加入
+        result.extend(right[j:])
+
+        # 回傳合併完成且排序好的陣列
+        return result
+```
 ## two pointer
 ### Container With Most Water(11)
 :::warning
