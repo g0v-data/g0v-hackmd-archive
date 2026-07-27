@@ -8,7 +8,7 @@ tags: Rentea, CoRent
 ## 裝修方案發展階段
 
 1. [Courcasa 小院設計](https://www.courcasa.com/)，提供各種裝修範例和基礎知識
-2. 平面圖工具 [MagicPlan](https://steachs.com/archives/14324)
+2. 平面圖工具：https://homeplan.tw/tools/renoplan/、[MagicPlan](https://steachs.com/archives/14324)
 3. [Planer5D](https://planner5d.com/)
 
 ## 透視圖靈感工具
