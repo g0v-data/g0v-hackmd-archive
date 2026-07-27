@@ -33,6 +33,9 @@ https://www.facebook.com/share/v/1Bem93ejrU/
 我了解你的明白
 https://www.facebook.com/share/1CLgqZ8mX2/
 
+好！我來告訴你
+https://youtu.be/RR8wkm-plps
+
 吃這個好不好
 https://youtube.com/@tastethisgood
 
