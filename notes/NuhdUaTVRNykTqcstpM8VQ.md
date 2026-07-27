@@ -12,7 +12,6 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 [TOC]
 :::
 
-
 ## 以下是 g0v slack 頻道列表與簡介<br>》歡迎協助 (1) 提供中文簡短介紹、(2) 將簡介翻譯成英文 🙏
 
 g0v Slack Channel Guide 頻道傳送門
@@ -351,6 +350,7 @@ https://g0v-slack-archive.g0v.ronny.tw
 
 ## 非 slack 的討論區：Discord
 ．【Cofacts 真的假的】Discord: https://discord.gg/mmZS9sZuau
+．災象回波_討論災害經驗與協作知識的社群 Discord: https://discord.gg/UHAWvaMYNq
 ．確診者足跡地圖 Discord: https://discord.gg/ePKuRGE9sF
 ．零時小學校 Discord: https://discord.gg/csDjWBbhvf
 ．島島阿學 Discord: https://discord.com/invite/2NbQ7cu6jH
