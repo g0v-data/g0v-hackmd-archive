@@ -516,6 +516,11 @@ http://www.freespaceberlin.org/
 作為空間設計科系專題與畢業設計的題目
 https://g0v.hackmd.io/LPjnYM5fTl-WPIbzUWI08g
 
+## 活動類型：帶著視障朋友體驗城市水文
+
+大員水文化復興協會帶著視障朋友體驗城市水文
+https://www.facebook.com/watch/?v=1391881822784979&locale=ms_MY
+
 ### 探討地點列舉
 
 #### 林森抽水站北側 180 公尺長的河段

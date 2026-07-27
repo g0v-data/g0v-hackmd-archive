@@ -35,13 +35,15 @@ http://www.classic1990.com/en
 - 縣市政府主動引入企業公益植樹，並建置查詢平台，提供篩選器，讓多元綠化響應單位可以依照地景類型查找相關用地 (海岸區位、公園綠地區位、工業區區位、水環境區位..等)
 
 
-## 其他
+## 介紹文章
 
-介紹文章
-- 桃園誌 第81期 作者：桃園市政府新聞處 ╱ 日期：2022-02-23
-    - https://ebook.tycg.gov.tw/book/content.php?id=866
+桃園誌 第81期 作者：桃園市政府新聞處 ╱ 日期：2022-02-23
+https://ebook.tycg.gov.tw/gogofinderReader/index.php?bid=246&p=18#page/18
+
+![](https://g0v.hackmd.io/_uploads/H1MiaNNBMx.png)
 
 
 ## 2024 用地資料有同步到 桃園市碳中和資訊平台
 
-https://carbonneutral.tydep.gov.tw/CarbonSinkMapView?Type=WaterResourcesCenter
+已透過公私協力植樹的地點，有呈現在桃園市碳中和資訊平台
+https://carbonneutral.tydep.gov.tw/CarbonSinkMapView/Index?Type=MapLayer
