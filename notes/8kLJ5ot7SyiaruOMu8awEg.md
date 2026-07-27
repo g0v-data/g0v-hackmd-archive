@@ -13,3 +13,4 @@ https://g0v.hackmd.io/@chewei/poponfire/
 - 臺北市市有閒置空間整合查詢平台 (庫存頁面)：https://web.archive.org/web/20200517084338/https://www.reformspace.taipei/
 - 臺北市政府與民間社群參與者協作歷程：https://g0v.hackmd.io/WN_QBpNpQtO1oxd_r4IIjQ
 - 公有土地查詢圖台：https://maps.nlsc.gov.tw/open/EMAP_B/DMAPS
+- ReSchool_廢校資料集：https://g0v.hackmd.io/@chewei/reschool/

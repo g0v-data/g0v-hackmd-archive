@@ -88,6 +88,7 @@ tags: 公有地大行動
 
 ### 全國校地存續與民主辦學 🏫
 
+- [ReSchool_校地創生](https://g0v.hackmd.io/@chewei/reschool/)
 - [台灣廢校盤點與再生<br>餘裕空間活化機制](https://g0v.hackmd.io/sTanR4YKQNq45GjWinU_yg?view)
 - [2040 年各校學生就學人口推估地圖](https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view)
 

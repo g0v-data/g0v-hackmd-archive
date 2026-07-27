@@ -54,6 +54,8 @@ tags: 公有地大行動, 可能的空間, edu
 
 ## 資料集
 
+ReSchool_廢校資料集：https://g0v.hackmd.io/@chewei/reschool/
+
 https://github.com/g0v/small_school_renaissance/issues/6
 
 

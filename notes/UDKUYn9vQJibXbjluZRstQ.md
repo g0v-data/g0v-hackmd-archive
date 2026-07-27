@@ -5,8 +5,9 @@ tags: edu, GIS,
 # ReSchool 校地創生正循環
 
 - [工作文件](https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view)
-- [20260125 高雄工作坊活動](https://g0v.hackmd.io/bMRkbmnERO6r7GKsG0juDg?view)
-- [2026 資料介紹與交流活動](https://g0v.hackmd.io/X-H17QRhS_6LM_P0iQPgBg?view)
+
+## 地區探討
+- [地區探討文件](https://g0v.hackmd.io/bMRkbmnERO6r7GKsG0juDg?view)
 
 ## Data Portal 資料集
 
