@@ -70,5 +70,36 @@ https://etalk.naer.edu.tw/discussion/single/eventThemeEduSn/2/eventSubSession/32
 :::
 
 
+## 高雄市特色辦學案例
+
+
+高雄市新興區市立大同國小_「大同福樂學堂」將日照中心開設在大同國小內，並發展出一系列「老幼共學」課程
+https://airtable.com/appgQS9kWDYmv6B1m/shr3LaqSPJIYoWczU/tblvS1UDdFCzBwyVO/viw85MZayuO7Ujrzh/rec508yEQGErXkHRB
+
+高雄市鼓山區市立鼓岩國小_釋出空間設置鼓山日間照顧中心
+https://airtable.com/appgQS9kWDYmv6B1m/shr3LaqSPJIYoWczU/tblvS1UDdFCzBwyVO/viw85MZayuO7Ujrzh/recmH82eeTyReOW7B
+
+高雄市前金區市立前金國小_釋出部分校區設置，成為芬蘭國際學校
+https://airtable.com/appgQS9kWDYmv6B1m/shr3LaqSPJIYoWczU/tblvS1UDdFCzBwyVO/viw85MZayuO7Ujrzh/recQA75ZziK6gPPJ2
+
+高雄市路竹區市立北嶺國小_台語實驗小學
+https://airtable.com/appgQS9kWDYmv6B1m/shr3LaqSPJIYoWczU/tblvS1UDdFCzBwyVO/viw85MZayuO7Ujrzh/rec8oj7aX8SnU9CUs
+
+高雄市美濃區市立吉東國小_客語實驗小學
+https://airtable.com/appgQS9kWDYmv6B1m/shr3LaqSPJIYoWczU/tblvS1UDdFCzBwyVO/viw85MZayuO7Ujrzh/rec6JMZ16zQDlasM1
+
+高雄市桃源區市立興中國小_原住民族學校
+https://airtable.com/appgQS9kWDYmv6B1m/shr3LaqSPJIYoWczU/tblvS1UDdFCzBwyVO/viw85MZayuO7Ujrzh/recHL5w8U2EwVB4HY
+
+高雄市桃源區市立樟山國小_布農民族教育實驗學校
+https://airtable.com/appgQS9kWDYmv6B1m/shr3LaqSPJIYoWczU/tblvS1UDdFCzBwyVO/viw85MZayuO7Ujrzh/reciBUnAoMuUoOVSG
+
+高雄市內門區市立木柵國小_西拉雅平埔文化復振
+https://airtable.com/appgQS9kWDYmv6B1m/shr3LaqSPJIYoWczU/tblvS1UDdFCzBwyVO/viw85MZayuO7Ujrzh/reclPohGcg4hB79W1
+
+高雄市鼓山區市立壽山國小_高雄淺山植群復育生態教育計畫合作
+https://airtable.com/appgQS9kWDYmv6B1m/shr3LaqSPJIYoWczU/tblvS1UDdFCzBwyVO/viw85MZayuO7Ujrzh/recWplll9mamzAMFW
+
+## 高雄市校地活用案例
 
 
