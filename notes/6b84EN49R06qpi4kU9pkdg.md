@@ -11,6 +11,7 @@ tags: 災害
 
 ## 資料彙整工作說明
 
+工作筆記
 - 2023.02.02 Airtable 資料共編有 15 個帳號，若要新增則受限制
     - 先於社團說明，再看看狀況
 - hackpad 頁面上的資料，待登載至 Airtable 
@@ -18,6 +19,12 @@ tags: 災害
 - 授權無虞的圖片，可放到
     - 水保局災害影像平台
     - 或是國家文化記憶庫
+
+### 資料欄位探討
+
+是否新增「明確個別災害事件欄位」
+- 例如 921 大地震、桃芝颱風、馬太鞍堰塞湖潰堤
+- NCDR 有訂出個別災害的唯一值嗎？
 
 ### 待整理素材
 
@@ -30,6 +37,3 @@ https://www.facebook.com/twreporter/posts/pfbid02pXoodKUWzSHGD75grBmpyUTZuJvi74G
 地鳴的產生機制
 https://www.facebook.com/twreporter/posts/pfbid02pXoodKUWzSHGD75grBmpyUTZuJvi74GqBehEgdfKt2L6obcfb5c39V1rfy6bQyC2l
 
-ㄗ
-是否新增「明確個別災害事件欄位」
-例如 921 大地震、桃芝颱風

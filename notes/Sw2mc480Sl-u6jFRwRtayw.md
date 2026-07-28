@@ -5,11 +5,10 @@ tags: GIS,
 # 騎樓抓漏
 
 說明：下雨時走在騎樓，雨水會從大樓與大樓之間的間距縫隙中落下，希望標記這些位置，找到適合的解決工法並改善，加強騎樓避雨功能的連續性。
-英文：Arcade Catch Leaks、Arcade Leak Hunting 
-- 照片持續蒐集中：https://goo.gl/photos/Syn5r33RAfzrU4iH8
-- FB 社團討論串：https://www.facebook.com/media/set?set=oa.1020555625196110&type=3
 
-![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_9bec9cc8cf0c4556b4aa3d2bae715720)
+針對騎樓，因為建築棟距之間，並未規範設置遮簷，所以經常會有騎樓遮簷效果斷裂的議題，主要反映在雨日，造成雖身處騎樓，但仍會遇到淋雨，且造成棟距之處的騎樓地面因下雨而濕滑，此議題的案例蒐集以及民間各類對策裝置，蒐集於本共筆文件：https://g0v.hackmd.io/Sw2mc480Sl-u6jFRwRtayw?view
+
+---
 
 :::info
 文件目錄
@@ -17,11 +16,17 @@ tags: GIS,
 :::
 
 ---
+
+
+
 ## 找出漏雨位置
 
 - 主要工作目標：標記漏雨位置
     - 歸納漏雨類型
     - 依照各種類型，嘗試透過地理資料找出漏雨位置
+    - 照片持續蒐集中：https://goo.gl/photos/Syn5r33RAfzrU4iH8
+    - FB 社團討論串：https://www.facebook.com/media/set?set=oa.1020555625196110&type=3
+
 
 - 歸納漏雨類型
     - 有騎樓的建築物，相鄰連續，途中的棟距
@@ -120,4 +125,7 @@ tags: GIS,
 騎樓接騎樓
 騎樓不斷開
 
-Arcadededede
+英文：
+- Arcade Catch Leaks
+- Arcade Leak Hunting 
+- Arcadededede
