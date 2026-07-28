@@ -168,3 +168,6 @@ tags: GIS
 - 下大雨，把都市污染沖出
     - https://www.facebook.com/share/p/2aYkkxeF2FPgcisv/
 
+截彎取直
+- 如果這樣截彎取直
+    - ![](https://g0v.hackmd.io/_uploads/r1xi82YLSGx.png)
