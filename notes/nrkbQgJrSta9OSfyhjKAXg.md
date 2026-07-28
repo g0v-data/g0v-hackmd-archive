@@ -14,4 +14,8 @@ tags: 災害
     - 關係較為間接但可作為輔助解釋
     - 舉例：
 
-簡報檔案：https://goo.gl/0dTDuv
+👉 2019.12.17：講座分享影片「文化素材與災害潛勢關聯推論 」
+👉 介紹簡報：https://goo.gl/0dTDuv
+👉 影片網址：https://youtu.be/h65ciIHeISw
+
+<iframe width=100% height="480" src="https://www.youtube.com/embed/h65ciIHeISw?si=NH-ZVmLpbDrcD6U2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
