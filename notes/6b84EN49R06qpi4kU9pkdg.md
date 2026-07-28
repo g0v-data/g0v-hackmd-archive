@@ -19,13 +19,10 @@ tags: 災害
     - 水保局災害影像平台
     - 或是國家文化記憶庫
 
-
 ### 待整理素材
 
-是否新增「明確個別災害事件欄位」
-例如 921 大地震、桃芝颱風
-
-素材
+FB 社團內尚有許多待登載素材
+https://www.facebook.com/groups/646900492512861
 
 金門鋒面與雷電
 https://www.facebook.com/twreporter/posts/pfbid02pXoodKUWzSHGD75grBmpyUTZuJvi74GqBehEgdfKt2L6obcfb5c39V1rfy6bQyC2l
@@ -33,3 +30,6 @@ https://www.facebook.com/twreporter/posts/pfbid02pXoodKUWzSHGD75grBmpyUTZuJvi74G
 地鳴的產生機制
 https://www.facebook.com/twreporter/posts/pfbid02pXoodKUWzSHGD75grBmpyUTZuJvi74GqBehEgdfKt2L6obcfb5c39V1rfy6bQyC2l
 
+ㄗ
+是否新增「明確個別災害事件欄位」
+例如 921 大地震、桃芝颱風
