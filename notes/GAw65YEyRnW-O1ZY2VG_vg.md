@@ -73,7 +73,7 @@ tags:
 
 (1) 新生流域社群共筆文件：https://g0v.hackmd.io/@chewei/xinsheng-watershed/
 (2) 生活空間拍照記錄線上地圖工具：https://commutag.agawork.tw/dataset?id=6542020c38c282460799aa4d
-(3) Collage 空間願景拼貼網頁工具：網頁 7 月上線
+(3) Collage 空間願景拼貼網頁工具：https://collage.collective.tw/
 (4) Open Green 打開綠生活 - 民眾參與都市環境改善：https://uro.gov.taipei/News_Content.aspx?n=FA7FC23C73028362&sms=5FD6DE9E4911B7AA&s=8DCC2C2832755EB6
 (5) 臺北市都市計畫研擬階段民眾參與執行手冊：https://reurl.cc/LW2rx7
  

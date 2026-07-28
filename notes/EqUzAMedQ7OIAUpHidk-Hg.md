@@ -58,6 +58,7 @@ https://docs.google.com/presentation/d/1_Z0wRR8yebTqZ_UxZxqCtcKwCdo-luNfMSqTvl6v
         - 須用分批方式才能放入 Google my map
     - (3) 臺北市的集水單元
         - 臺北市78集水分區(原百齡集水區因士林北投區段徵收工程在切分出文林集水區、洲美集水區)之分布範圍及屬性資料表(KML格式) https://data.taipei/dataset/detail?id=d8085d88-0a07-4fe6-86ec-8910954342ac
+        - 各集水單元，應可以再進行整合或拆分，相關探討 https://g0v.hackmd.io/8U0Tvvw-ReulHUwejXN2pA?view
     - (4) 新北市
         - 板橋土城 https://www.gtint.com.tw/service_1_detail/63.htm
         - 瓦磘溝的範圍
@@ -283,6 +284,7 @@ tableau
 
 ## 公眾企劃
 
+- 建立「內水流域環境營造工作指引」https://g0v.hackmd.io/@chewei/xinsheng-watershed/https%3A%2F%2Fg0v.hackmd.io%2FluwEBL3wRC-MyXabfJgVMA%3Fview
 - [環境擬人化法制案例 / AI 🌄](https://g0v.hackmd.io/@chewei/H1UTdIOZc)
 
 

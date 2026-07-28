@@ -22,6 +22,13 @@ tags: GIS, river
                 - 分水嶺山系屬於郊山
             - 第二類 外雙溪、磺港溪、磺溪、水磨坑溪、內溝溪...等沿線兩側
                 - 分水嶺山系海拔較高
+        - 從屬哪一個大河系統
+            - 基隆河系統
+                - 縣市上下游分段
+            - 新店溪系統 https://g0v.hackmd.io/@chewei/xindian-river-watershed/
+                - 縣市左右範圍
+            - 淡水河系統
+                - 但因河面較寬，相對來說較無兩側人本生活圈建構的潛力
     - 範圍內再細分，找出「分水嶺軸帶 / 起點區位」
         - 這部分可能要產出一些圖說界定步驟
         - 基於排水管線配置現況
@@ -83,7 +90,8 @@ tags: GIS, river
     - https://g0v.hackmd.io/@chewei/xinsheng-watershed/https%3A%2F%2Fg0v.hackmd.io%2FMrRWqJgpTHeeGgMyfOxF3w%3Fview
 - 內容傳達方式參考
     - 降雨及逕流視覺化展示 https://www.facebook.com/groups/582154450196478/posts/1559102442501669?locale=zh_TW
-
+- 日本全国暗渠観光ガイド: 街と歴史のウラ名所めぐり
+    - https://www.facebook.com/groups/582154450196478/posts/1426746132403968
 
 
 

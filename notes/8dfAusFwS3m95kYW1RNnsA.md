@@ -28,4 +28,7 @@ https://www.facebook.com/share/p/1Bp6v5iMZV/
         - 北市府的預算查詢網站 https://dbas-tbs.gov.taipei/Budget
         - 大河小溪全民齊督工 (河川招標資料地圖) https://river-watcher.bambooculture.tw/
 
+## 探討觀點
 
+河川健康度 / 資料分析方法
+- https://g0v.hackmd.io/EqUzAMedQ7OIAUpHidk-Hg?view
