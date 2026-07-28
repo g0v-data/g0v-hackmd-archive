@@ -1,0 +1,1 @@
+[kqxs](https://kqxs.online/) là địa chỉ cập nhật kết quả xổ số hôm nay nhanh chóng và chính xác với đầy đủ XSMB, XSMT, XSMN cùng Vietlott. Website cung cấp dữ liệu trực tiếp theo thời gian thực, thống kê, tra cứu kết quả và lịch mở thưởng hằng ngày, giúp người dùng theo dõi kết quả xổ số thuận tiện trên mọi thiết bị. 
