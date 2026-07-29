@@ -7,6 +7,9 @@ tags: vTaiwan
 地點 Location ：線上 Online
 參與者 Participants：Peter, tim, yi-ting lien, Ellen, 
 
+![](https://g0v.hackmd.io/_uploads/S1so6PPrMl.png)
+![](https://g0v.hackmd.io/_uploads/HyxsopDDSfl.png)
+
 
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)

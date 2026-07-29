@@ -11,6 +11,10 @@ tags: vTaiwan
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
 
+
+![](https://g0v.hackmd.io/_uploads/rk15aPwBMl.png)
+![](https://g0v.hackmd.io/_uploads/ryx15pwwrzl.png)
+
 ::: success
 ## 專案儀表板：目前 vTaiwan 社群在進行的事情 
 以下是 vTaiwan 目前正在進行的幾個不同的專案！如果有興趣，可以在取得共筆編輯權限後+1，或者是
@@ -120,5 +124,12 @@ https://www.vtaiwan.tw/jitsi
 - 徵件網址：https://twgrants.tw/plan.html 
 - 徵件截止日期：即日起 - 9/30
 - 提案：利用 AI 與數位工具的審議手冊？
+- 想要回答的問題：
+    - 有哪些工具可以利用？
+    - 利用工具時可以如何進行？
+    - 有哪些注意事項？
+    - 國際上的成果？
+        - Thompson 跟 Shuyang
 - 預算規模：30萬左右
 - 目標：利用舉辦審議大會的經驗，以及訪談審議工作者的方式，產出一份手冊。
+- 想到審議手冊未來也許可以成為審議主持人培訓/培力的教材～ [name=肉腳]
