@@ -36,4 +36,6 @@ https://photos.app.goo.gl/LoN7PbXDoB73LPGx7
     - 會適合設置封閉式儲物間來停放嗎？
 
 改善設計探討
-- 2026 https://youtu.be/og1lAFpZpM4
+- 2026 
+    - https://youtu.be/og1lAFpZpM4
+    - https://www.facebook.com/share/p/1D3W9NPGon/
