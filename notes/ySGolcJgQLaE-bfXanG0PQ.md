@@ -17,3 +17,6 @@ https://www.facebook.com/groups/Soil4Climate/permalink/2953554818249586/
 
 待查找 shelter belt
 https://youtube.com/shorts/v-LJaB8y438
+
+Tool: This tool from The Nature Conservancy  allows users to visualize and analyze land maps to evaluate local biodiversity, landscape connectivity, and carbon capture potential at a town-parcel scale. These insights help organizations prioritize future land acquisitions, optimize restoration efforts, and make data-driven decisions. 
+https://www.facebook.com/share/1dQLjgr7Gc/
