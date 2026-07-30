@@ -1,0 +1,1 @@
+[79KING](https://79king.news/) là nền tảng giải trí trực tuyến cung cấp nhiều danh mục trò chơi trên cùng một hệ thống, đáp ứng nhu cầu trải nghiệm đa dạng của người dùng. Giao diện được thiết kế trực quan, hỗ trợ truy cập trên nhiều thiết bị và sắp xếp các chuyên mục khoa học. Người chơi có thể dễ dàng lựa chọn nội dung phù hợp theo sở thích và nhu cầu giải trí.
