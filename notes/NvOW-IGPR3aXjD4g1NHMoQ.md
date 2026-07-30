@@ -22,6 +22,8 @@ tags: GIS
 - 2025.07.26 評估「食譜、餐廳/景點/住宿」納入 Airtable
     - https://g0v.hackmd.io/@chewei/BJd2CNNTK/
 - 2026.05 評估地方新聞媒體盤點 https://g0v.hackmd.io/IEihabX9RVeISX6GkO1b4A?view
+- 待納入：災害復原相關中繼居住與社區重建資料搜集
+https://g0v.hackmd.io/olnqQ0J_SFat0aaScjUDRw?view
 
 ## 自定義地理範圍
 
