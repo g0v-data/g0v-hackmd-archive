@@ -37,3 +37,9 @@ prompt = "monochrome, grayscale, people"
 positive: 1girl with the speech bubble saying "Happy Holidays!", upper body, sivler short hair, blue eyes, warm wear, outdoor, snow
 negative: photo
 ````
+
+# Emi3モデル
+````
+manga style, monochrome, ink drawing, wide shot, panel 1: two cute tiny anthropomorphic hydrogen atom children with 'H' letters on their shirts, standing, holding hands and smiling brightly at viewer, laboratory background, speech bubble
+````
+![](https://g0v.hackmd.io/_uploads/HkpDzmFSGg.png)
