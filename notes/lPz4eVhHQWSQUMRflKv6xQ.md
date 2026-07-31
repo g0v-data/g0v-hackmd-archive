@@ -66,18 +66,18 @@ Laptop
     - [精簡版編曲](https://soundcloud.com/kong-kao/wjgh6obiwkip) / Kong - 授權：
     - [完整版主旋律](https://soundcloud.com/etblue/kuansim-full-vocal-20130819) / ETBlue @ g0v - 授權：CC BY 4.0
     - [插圖](https://drive.google.com/file/d/0B0NsS2a-Qx8ZNXRaY2xnVkpJLW8/edit?usp=sharing) / tuiry - 授權：CC BY 4.0
-    - [ ] 完整版編曲：
+    - [x] 完整版編曲：
 - 小幫手
     - [小幫手主旋律](https://soundcloud.com/etblue/little-helper-vocal-20130812) / ETBlue @ g0v - 授權：CC BY 4.0
-    - [ ] 編曲：
+    - [x] 編曲：
         - [進行到一半的](http://blend.io/project/52b6a608b5941431740002ee)
 - 黑客頌
     - [主旋律](https://soundcloud.com/etblue/hackerth0n-vocal-20131220) / ETBlue @ g0v - 授權：CC BY 4.0
-    - [ ] 編曲：
+    - [x] 編曲：
         - [進行到一半的](http://blend.io/project/52b6a5a9bb61307e600002bf)
 - 鬍子科比
     - [主旋律](https://soundcloud.com/etblue/tkirby-wearing-sideburns-vocal) / ETBlue @ g0v - 授權：CC BY 4.0
-    - [ ] 編曲：
+    - [x] 編曲：
 - 萌典
     - [歌詞與簡譜](https://g0v.hackpad.com/-moeDict-MMd2RLJKpRE) / ETBlue @ g0v - 授權：CC BY 4.0
     - [ ] 編曲：
