@@ -70,6 +70,7 @@ g0v Slack Channel Guide 頻道傳送門
 #pacific_太平洋
 #north-america 想在美國協作的可以來這邊聊天喔！
 #g0v-siliconvalley g0v 矽谷灣區小聚
+#seattle
 #méxico_墨西哥
 #latin-america
 #brazil
@@ -82,6 +83,8 @@ g0v Slack Channel Guide 頻道傳送門
 #switzerland_瑞士聯邦
 #uk
 #türkiye_土耳其
+#kazakhstan_哈薩克
+#kyrgyzstan_吉爾吉斯 
 #българия_balgariya_保加利亞
 #israeli-palestinian-conflict
 #africa
