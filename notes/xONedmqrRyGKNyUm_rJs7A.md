@@ -15,6 +15,9 @@ https://youtu.be/5FMzT1LrXv8?si=_g-iM2ryHT8qDCZH
 東遷
 https://youtu.be/i6sLniNcCew
 
+噶瑪蘭族
+https://www.facebook.com/share/p/1DX74wJm1o/
+
 凱達格蘭
 https://www.facebook.com/share/17bmrwS2sp/
 https://www.facebook.com/share/p/1aeSPqRucu/
