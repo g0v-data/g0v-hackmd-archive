@@ -203,7 +203,7 @@ g0v Slack Channel Guide 頻道傳送門
 #opentaiwan-chatgpt
 #zen-gpt
 #coscup 開源人年會
-#hackit 由青少年打造的創意程式社群 https://www.hackit.tw/zh-TW
+#hackit 由青少年打造的創意程式社群 https://www.hackit.one/
 #obs 開源跨平台串流媒體和錄影程式 obs 技術交流頻道
 #band 零時樂團 :musical_score:
 #hepai-harmony-ai 結合人工智慧（AI）與音樂理論的和聲學分析應用程式
