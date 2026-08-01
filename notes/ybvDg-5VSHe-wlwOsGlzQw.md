@@ -9,10 +9,10 @@ Trusted Online Casino Malaysia
 
 #gamingsafe ##gamingsafeorg #onlinecasinomalaysia
 
-https://www.facebook.com/gamingsafe/
-https://x.com/gamingsafe
-https://www.youtube.com/@gamingsafe/about
-https://www.pinterest.com/gamingsafe/
+https://www.facebook.com/gamingsafeorg/
+https://x.com/gamingsafeorg
+https://www.youtube.com/@gamingsafeorg/about
+https://www.pinterest.com/gamingsafeorg/
 https://gravatar.com/gamingsafeorg
 https://500px.com/p/gamingsafe
 https://www.twitch.tv/gamingsafeorg/about
