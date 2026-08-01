@@ -400,10 +400,12 @@ https://www.journals.uchicago.edu/doi/abs/10.1086/730621
 
 ### Data repoliticization and environmental governance: how civic data activism negotiates state bureaucracy in Taiwan
 
--　Chen-Yuan Chen, John Chung-En Liu. “Data repoliticization and environmental governance: how civic data activism negotiates state bureaucracy in Taiwan”
--　https://www.tandfonline.com/doi/full/10.1080/23251042.2026.2685272
--　簡介文字：台大社會所博士班學生陳震遠與本系教授劉仲恩近日於 Environmental Sociology 共同發表研究論文，探討公民資料行動如何介入環境治理並推動政策改革，本研究以臺灣農地違章工廠治理為案例，分析公民團體如何透過資料整合、詮釋競逐與公共倡議，揭露政府資料系統與治理機制中的矛盾，進而推動環境治理改革。
+- Chen-Yuan Chen, John Chung-En Liu. “Data repoliticization and environmental governance: how civic data activism negotiates state bureaucracy in Taiwan”
+- https://www.tandfonline.com/doi/full/10.1080/23251042.2026.2685272
+- 轉貼文字：台大社會所博士班學生陳震遠與本系教授劉仲恩近日於 Environmental Sociology 共同發表研究論文，探討公民資料行動如何介入環境治理並推動政策改革，本研究以臺灣農地違章工廠治理為案例，分析公民團體如何透過資料整合、詮釋競逐與公共倡議，揭露政府資料系統與治理機制中的矛盾，進而推動環境治理改革。
     -　摘自台大社會 FB 貼文 https://www.facebook.com/ntusociology/posts/pfbid04fYhTnv3D29eRFbz359RGTgJDRVA6QpU6hSCeWVnKRFSJeZF3a6iVQQrqY2Kyuaml
+- 轉貼文字：該研究以綠盟 #透明足跡 計畫自 2020 年參與總統盃黑客松以來推動農地工廠治理改革的經驗為例，探討 #公民資料與行動 如何影響環境治理，以及在臺灣官僚體制下所面臨的挑戰。文章指出，環境治理最大的困境之一，在於政府資料往往分散於不同部會，格式、分類與標準各異，公民難以掌握全貌。透明足跡透過整合 #工廠登記、#污染裁罰、#環境許可 與 #土地位置 等資料，建立可供公民社會使用的資料庫，並比對出官方分類與實際製程之間的落差，以及跨部會資料無法互相串接的治理缺口。研究進一步指出，這些原本零散的資料，經過整理與分析後，不只是資訊整合，更重新賦予資料公共意義，成為揭露制度問題、要求資訊公開、促進政策對話的重要基礎，也展現 #公民科技 與 #資料治理 在環境倡議中的關鍵角色。除了 #農地工廠議題，透明足跡也長期關注企業污染責任與產業永續轉型。從透明足跡網站、消費者工具「#掃了再買」App，到近期上線的「#排碳大戶觀測站」，綠盟持續將分散且複雜的環境資訊，轉化為公眾理解議題、監督企業及參與政策的工具。未來，透明足跡也將持續以資料為基礎，推動更透明、更公平的環境治理與永續轉型，讓資料不只是數字，更成為促進公共參與與制度改革的力量。
+    -　摘自綠色公民行動聯盟 FB 貼文 https://www.facebook.com/gcaa.org.tw/posts/pfbid034eNDNaiXdceHxSFxxsoFYeCDPbP29QgHEmKxmBBCseH5JidM1eAaXKTrm4rG4n16l
 
 ### Structured Skepticism and Community Trust: How Civic Tech Grassroots Organizers in Taiwan Promote Digital Age Democratic Resilience
 - By: Bella Wexler
