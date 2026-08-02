@@ -1,0 +1,2 @@
+![](https://g0v.hackmd.io/_uploads/H1g6HKs3Bfl.jpg)
+[keonhacai skin](https://keonhacai.skin/) mang đến tỷ lệ bóng đá trực tuyến được cập nhật liên tục, bao gồm kèo chấp, tài xỉu, 1×2, kèo hiệp 1 và phạt góc từ nhiều giải đấu nổi bật. Người dùng có thể nhanh chóng theo dõi lịch thi đấu, kết quả, biến động tỷ lệ và tham khảo dữ liệu để phân tích các trận cầu.
