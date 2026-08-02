@@ -172,6 +172,7 @@ OpenStreetMap 用 OverPass Turbo 將需要的資料撈出來
 
 #### 應用企劃發想案例
 
+- 資料呈現 https://www.threads.com/share/BAcDTbQVgP/
 - 情境式的城市路徑引導／In Visible Cities，摘自文章：從台北市的行道樹點位資料，我們可以看出市區幾條已然成形的林蔭道，包括仁愛路、敦化南北路、中山北路、愛國西路、辛亥路等，區域方面，民生社區與信義區的行道樹綠化密度也相對較高。這些綠色通道，串接著或大或小的公園綠地，可做為台北市區的晴天綠蔭地圖。https://www.urstaipei.net/article/21258
 - Walkonomics - Find a Beautiful Route - Walking Navigation App for iPhone and Android：https://youtu.be/gP4TjkZQoQs
 - 臺北市政府工務局公園路燈工程管理處 園藝小學堂 行道樹樹種選擇原則：https://pkl.gov.taipei/Content_List.aspx?n=C15B0193AD88F60E

@@ -13,7 +13,7 @@ tags: tree
 
 ## 現況
 - [NDVI, Treepedia-demo](https://g0v.hackmd.io/E8GwG5SMSbSSBKT9KuuSGA)
-- [Tree data 樹木資料集](https://g0v.hackpad.tw/J4diKtZxBA8)
+- [Tree data 樹木資料集](https://g0v.hackmd.io/JMUJM1qoRku71FUzaabeaQ?view)
 
 ## 森林型態分佈
 
