@@ -9,10 +9,9 @@ Contact Free Credit No Deposit
  - Website: <a href="https://freecreditnodeposit.com.co/">https://freecreditnodeposit.com.co/</a>
 Hashtag #freecreditnodeposit #freecredit365 #freecreditslot #heylinkfreecredit #joylinkfreecredit
 
-https://www.facebook.com/freecreditnodepositcomco/
-https://x.com/freecreditnodeposit
-https://www.youtube.com/@freecreditnodeposit/about
-https://www.pinterest.com/freecreditnodeposit/
+https://x.com/freecreditmalay
+https://www.youtube.com/@freecreditnodepositcomco
+https://www.pinterest.com/freecreditnodepositcomco/
 https://www.gta5-mods.com/users/freecreditnodepositcomco
 https://thefeedfeed.com/bamboo-shoot8766
 https://awan.pro/forum/user/204337/
