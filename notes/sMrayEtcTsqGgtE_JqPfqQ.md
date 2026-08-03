@@ -1,0 +1,1 @@
+[rr88.auction](https://rr88.auction/) là tên miền được sử dụng để truy cập vào hệ thống RR88 và cập nhật các thông tin mới nhất về dịch vụ. Tại đây, người dùng có thể tham khảo hướng dẫn đăng ký, đăng nhập, các chương trình ưu đãi cũng như danh mục trò chơi hiện có. Nền tảng được tối ưu để hoạt động trên nhiều thiết bị khác nhau.
