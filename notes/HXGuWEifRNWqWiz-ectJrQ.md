@@ -898,3 +898,74 @@ class Solution(object):
         == best_hour is (index)2 ==
         
 ```
+## Greedy
+### Minimum Number of Pushes to Type Word II(3016)
+:::warning
+You are given a string word containing lowercase English letters.
+
+Telephone keypads have keys mapped with distinct collections of lowercase English letters, which can be used to form words by pushing them. For example, the key 2 is mapped with ["a","b","c"], we need to push the key one time to type "a", two times to type "b", and three times to type "c" .
+
+It is allowed to remap the keys numbered 2 to 9 to distinct collections of letters. The keys can be remapped to any amount of letters, but each letter must be mapped to exactly one key. You need to find the minimum number of times the keys will be pushed to type the string word.
+
+Return the minimum number of pushes needed to type word after remapping the keys.
+
+An example mapping of letters to keys on a telephone keypad is given below. Note that 1, *, #, and 0 do not map to any letters.
+
+Example 2:
+
+
+Input: word = "xyzxyzxyzxyz"
+Output: 12
+Explanation: The remapped keypad given in the image provides the minimum cost.
+"x" -> one push on key 2
+"y" -> one push on key 3
+"z" -> one push on key 4
+Total cost is 1 * 4 + 1 * 4 + 1 * 4 = 12
+It can be shown that no other mapping can provide a lower cost.
+Note that the key 9 is not mapped to any letter: it is not necessary to map letters to every key, but to map all the letters.
+:::
+```
+class Solution(object):
+    def minimumPushes(self, word):
+        """
+        :type word: str
+        :rtype: int
+        """
+        counts = []
+        # 統計 a～z 每個字母在 word 中出現幾次
+        for i in range(26):
+            letter = chr(97 + i)
+            frequency = word.count(letter)
+            counts.append(frequency)
+        # 出現次數由大到小排序
+        # 讓高頻字母優先放在按鍵次數較少的位置
+        counts.sort(reverse=True)
+
+        # 總按鍵次數
+        total_pushes = 0
+
+        # i：排序後的位置
+        # frequency：該字母出現的次數
+        for i, frequency in enumerate(counts):
+
+            # 排序後一旦遇到 0，後面也全部都是 0
+            if frequency == 0:
+                break
+
+            # 每 8 個字母為一層
+            # i=0～7   → 按 1 次
+            # i=8～15  → 按 2 次
+            # i=16～23 → 按 3 次
+            pushes_per_character = i // 8 + 1
+
+            # 出現次數 × 每次所需按鍵數
+            total_pushes += frequency * pushes_per_character
+
+        return total_pushes
+        
+        # cost=0
+        # count=Counter(word).most_common()
+        # for i in range(len(count)):
+        #     cost+=(i//8+1)*count[i][1]
+        # return cost
+```
