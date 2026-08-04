@@ -1,0 +1,2 @@
+98winschool
+<a href="https://98win.school/">98WIN</a> là nền tảng giải trí trực tuyến được nhiều người quan tâm nhờ giao diện hiện đại, tốc độ ổn định và trải nghiệm mượt mà trên mọi thiết bị. Hệ thống cập nhật đa dạng chuyên mục, hỗ trợ người dùng tiếp cận thông tin nhanh chóng, an toàn và tiện lợi.<br>
