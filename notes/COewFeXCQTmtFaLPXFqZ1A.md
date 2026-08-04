@@ -137,6 +137,12 @@ https://g0v.hackmd.io/@china/book
 香港百大民間地圖
 https://docs.google.com/spreadsheets/d/1iXoayl5JYfINp_nIOHQMLrifsIk8KjtuuXH8vLO6C70/edit
 
+《香港行跡》紀錄香港城市和山野的歷史及遺蹟，用雙腳走進昔日香港，認識和保存香港獨有的文化歷史。由維多利亞城開始，中西文化交融，經歷建城、戰爭與繁榮，昔日片段隱藏在繁華鬧市，街角小巷都有自己的獨特故事。邀請大家一起尋寶，重新發掘香港的歷史寳藏！
+https://www.historicalwalkhk.com/
+
+3D
+https://3d.map.gov.hk/
+
 # Taiwan
 
 https://g0v.hackmd.io/@jothon/intro/
@@ -152,3 +158,5 @@ https://www.facebook.com/share/p/5YmTcLYKjjenRy8t/
 
 Maphy bygelo™ is an open-source 3D civic atlas of the Philippines, transforming 369 public datasets into actionable insights across 42,048 barangays. From demographics, poverty, health, hazards, and infrastructure, Maphy maps critical social realities directly onto real-world terrain, helping communities, researchers, and decision-makers better understand how people and places are connected. Built independently and fully open-source for everyone.
 Explore the map here: https://bygelo.com/maphy/
+
+# Singap
