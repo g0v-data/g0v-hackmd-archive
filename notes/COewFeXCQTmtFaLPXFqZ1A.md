@@ -159,4 +159,4 @@ https://www.facebook.com/share/p/5YmTcLYKjjenRy8t/
 Maphy bygelo™ is an open-source 3D civic atlas of the Philippines, transforming 369 public datasets into actionable insights across 42,048 barangays. From demographics, poverty, health, hazards, and infrastructure, Maphy maps critical social realities directly onto real-world terrain, helping communities, researchers, and decision-makers better understand how people and places are connected. Built independently and fully open-source for everyone.
 Explore the map here: https://bygelo.com/maphy/
 
-# Singap
+# Singapore
