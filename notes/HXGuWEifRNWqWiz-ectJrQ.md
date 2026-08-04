@@ -899,6 +899,55 @@ class Solution(object):
         == best_hour is (index)2 ==
         
 ```
+## sliding window
+### Longest Substring Without Repeating Characters
+:::warning
+Given a string s, find the length of the longest substring without duplicate characters.
+
+ 
+
+Example 1:
+
+Input: s = "abcabcbb"
+Output: 3
+Explanation: The answer is "abc", with the length of 3. Note that "bca" and "cab" are also correct answers.
+Example 2:
+
+Input: s = "bbbbb"
+Output: 1
+Explanation: The answer is "b", with the length of 1.
+Example 3:
+
+Input: s = "pwwkew"
+Output: 3
+Explanation: The answer is "wke", with the length of 3.
+Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+:::
+```
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        new=set()
+        left=0
+        
+        max_count=0
+        
+        # 右指針只會一往無前地向右走，絕不回頭
+        for right in range(len(s)):
+            
+            # 如果新進來的字元 s[right] 重複了
+            # 直到集合裡沒有 s[right] 為止
+            while s[right] in new:
+                new.remove(s[left])
+                left += 1
+                
+            # 確保沒重複後，把新字元加進去
+            new.add(s[right])
+            
+            # 更新最大長度
+            max_count = max(max_count, right - left + 1)
+        return max_count
+
+```
 ## Greedy
 ### Minimum Number of Pushes to Type Word II(3016)
 :::warning
