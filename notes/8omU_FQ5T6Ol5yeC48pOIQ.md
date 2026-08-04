@@ -156,3 +156,16 @@ https://www.youtube.com/watch?v=9URtnUZ84iw
 robocopy "\\192.168.2.165\d$" "C:" /E /xd backup "D:\fpg\ERPDBT" /NS /NC /NFL /NDL /NJH /NJS /NP /R:0 /W:0 >nul
 
 https://meet.google.com/xfd-baqh-fzi
+
+2015/3/2
+安裝印表機
+psexec \\192.168.10.41 -u "username" -p password c:\C4500\c4500.bat
+(已經複製到c，遠端執行會卡住不動，失敗)
+psexec \\192.168.10.41 --I -d  -u "username" -p password c:\C4500\c4500.bat
+.…目的端電腦出現操作無法完成 00000002錯誤
+
+單機操作成功：
+rem chcp 65001 <--切換編碼(中文需要)
+chcp 65001
+cscript prnport.vbs -a -r IP_192.168.10.240 -h 192.168.10.240 -o raw
+rundll32 printui.dll,PrintUIEntry /if /b "辦公區C4500" /f "RC96E164.inf" /r "IP_192.168.10.240" /m "RICOH Aficio MP C4500 RPCS" /z
