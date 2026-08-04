@@ -46,18 +46,3 @@ flowchart LR
 
     
 
-```
-A --> App[Apps]
-    A --> Micro[Microservices]
-
-    E --> Assets[Assets]
-    E --> DevOps[DevOps]
-
-    CE --> Content[Content]
-    CE --> Mesh[Mesh]
-    CE --> Texture[Texture]
-
-    K --> USD[USD]
-    K --> PhysX[PhysX]
-    K --> RTX[RTX]
-    K --> PY[Python]
