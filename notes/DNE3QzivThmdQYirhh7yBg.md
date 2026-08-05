@@ -7,6 +7,7 @@ tags: vTaiwan
 地點 Location ：線上 Online
 參與者 Participants：
 
+![](https://g0v.hackmd.io/_uploads/SkPevslUMe.png)
 
 https://www.vtaiwan.tw/jitsi
 (請用Google登入以參與視訊並啟用轉錄功能)
