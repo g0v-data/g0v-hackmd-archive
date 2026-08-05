@@ -4,6 +4,10 @@ tags: 都市農耕
 
 # 都市農業－國際經驗蒐集
 
+:::info
+上層文件：https://g0v.hackmd.io/@chewei/Urban-Agri/
+:::
+
 ## 待整合內容
 
 既有頁面
@@ -52,6 +56,7 @@ tags: 都市農耕
 - 德國，策劃讓民眾來種植
     - https://www.facebook.com/share/p/iyLbYk9k6Ky7x98v/
 - 布達佩斯 https://www.facebook.com/share/p/1AGSmqTbkZ/
+- 瑞士 https://www.facebook.com/Huiling.Shadow.Chen/posts/pfbid02tjVCu9dVjDdsWLv2hK8ASqgjD1N8pRN9exXj7HjAiBhuFrtZqbozGTkYRpjgwaTRl?locale=zh_TW
 - 加拿大 超市屋頂農耕
     - https://www.upworthy.com/amp/canadian-grocery-store-sells-produce-from-ooftop-garden-2646202425
 - 加拿大 住宅 屋頂農園
