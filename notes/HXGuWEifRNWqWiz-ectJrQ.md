@@ -900,7 +900,7 @@ class Solution(object):
         
 ```
 ## sliding window
-### Longest Substring Without Repeating Characters
+### Longest Substring Without Repeating Characters(3)
 :::warning
 Given a string s, find the length of the longest substring without duplicate characters.
 
@@ -948,6 +948,65 @@ class Solution:
         return max_count
 
 ```
+### Permutation in String(567)
+:::warning
+Given two strings s1 and s2, return true if s2 contains a permutation of s1, or false otherwise.
+
+In other words, return true if one of s1's permutations is the substring of s2.
+
+ 
+
+Example 1:
+
+Input: s1 = "ab", s2 = "eidbaooo"
+Output: true
+Explanation: s2 contains one permutation of s1 ("ba").
+Example 2:
+
+Input: s1 = "ab", s2 = "eidboaoo"
+Output: false
+:::
+```
+from collections import Counter
+
+
+class Solution:
+
+    def checkInclusion(self, s1: str, s2: str) -> bool:
+        len1, len2 = len(s1), len(s2)
+        if len1 > len2:
+            return False
+
+        check = Counter(s1)
+
+        # 1. 先建立 s2 前面 len1 長度的初始視窗 Counter
+        window = Counter(s2[:len1])
+
+        # 如果一開始就 match，直接回傳 True
+        if window == check:
+            return True
+
+        # 2. 開始高效滑動：一進一出
+        for i in range(len1, len2):
+            right_char = s2[i]  # 新進入右邊的字元
+            left_char = s2[i - len1]  # 從左邊離開的字元
+
+            # 右邊進來，數量 +1
+            window[right_char] += 1
+
+            # 左邊離開，數量 -1
+            window[left_char] -= 1
+            if window[left_char] == 0:
+                del window[left_char]  # 數量變成 0 的字元要刪掉，免得影響 == 的比對
+
+            # 每次只改兩個字元，馬上進行比對
+            if window == check:
+                return True
+
+        return False
+
+```
+
 ## Greedy
 ### Minimum Number of Pushes to Type Word II(3016)
 :::warning
