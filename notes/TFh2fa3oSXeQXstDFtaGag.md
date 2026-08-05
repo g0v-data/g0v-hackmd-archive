@@ -44,6 +44,9 @@ https://www.facebook.com/share/p/174eDXRfxM/
 
 17xx 貝紐夫斯基 宜蘭 https://www.facebook.com/share/p/1C5vABaCA8/
 
+1804 中部平埔族遷移 / 潘福安為首至大溪三層 / 潘賢文為首至宜蘭羅東
+https://g0v.hackmd.io/3qZj8DoOS3y5DkfLgy4elA?view
+
 1817—1883 吳子光 https://taicool.ith.sinica.edu.tw/browse-ebook.html?id=EB0000000036；https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%AD%90%E5%85%89
 
 1851 西鄉隆盛，宜蘭 https://www.taiwanembassy.org/jpfuk/post/8697.html
@@ -75,11 +78,18 @@ https://www.facebook.com/share/p/14cb48k5rVz/
 1895 蘭大衛醫師 David Landsborough
 https://trailpaint.org/stories/taiwan-missionaries/
 
-巴爾頓與濱野彌四郎 https://photos.app.goo.gl/AVFicc4LwHX3tbsD7
-伊能嘉矩 https://photos.app.goo.gl/amrUaB3sHfCMUDVG8
+1896 巴爾頓與濱野彌四郎，1896年8月，巴爾頓與他的學生濱野彌四郎抵台後，旋即在基隆、淡水、臺北、新竹、臺中、臺南、嘉義、鳳山，甚至遠赴澎湖，展開衛生工程調查活動，以及巿街衛生、防災、家屋設計的規劃，提出《衛生工事調查報告書》。在臺灣的三年期間，巴爾頓考察臺灣全島及澎湖的衛生狀況，規劃設計淡水自來水道及基隆自來水道，成為臺灣自來水道的開創者，也開啟了臺灣自來水的發展。
+https://photos.app.goo.gl/AVFicc4LwHX3tbsD7
+
+1896-1901 伊能嘉矩
+https://photos.app.goo.gl/amrUaB3sHfCMUDVG8
+
+1898．福爾摩沙踏查：德國旅人阿道夫．費實的臺灣漫遊手記
+https://file.moc.gov.tw/001/Upload/OldFiles/AdminUploads/files/201912/660f5c52-6566-44c0-8c9d-5d43c4a8f334.pdf
+https://www.books.com.tw/products/0010979293"
 
 1912 賴和與杜聰明，從台北走到彰化
-- https://g0v.hackmd.io/rZcXZzpGQmWxguNhbCogPQ?view
+https://g0v.hackmd.io/rZcXZzpGQmWxguNhbCogPQ?view
 
 1912 農曆正月初三，施景琛，來台考察，福州、廈門、淡水，三個星期，撰寫鯤瀛日記，訪問辜顯榮；1949 來台，1955 病逝臺灣
 
@@ -99,6 +109,7 @@ https://www.facebook.com/share/p/17zmfLFQpZ/
 1923 Harry Alverson Franck，旅程：1923年10月中到11月底 https://www.books.com.tw/products/0010808391
 
 川上瀧彌 https://www.facebook.com/share/p/1F76Vzgvaq/
+
 江阿讓-樟腦產業 https://www.facebook.com/share/1AbUFLsehz/
 
 陳靜
@@ -129,5 +140,6 @@ https://www.facebook.com/share/g/1HzoEqoZ2L/
 
 帛琉至台灣航船 https://www.facebook.com/share/p/1C1jdUnTSK/
 https://www.facebook.com/share/p/1B1puNH5Di/
+
 航線：台南-伊朗-美西
 https://youtu.be/3J2wGULGg94
