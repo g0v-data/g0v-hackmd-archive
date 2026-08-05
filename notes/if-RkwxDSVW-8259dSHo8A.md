@@ -108,7 +108,6 @@ https://www.trademag.org.tw/page/newsid1/?id=7842740&iz=6
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c7ea1bcb1c2ac928d68ceabf3c636bf4.png)
 
 
-
 ## 政策架構與內容轉貼：
 
 ### 別添１ 脱炭素先行地域の類型ごとのイメージ
