@@ -10,5 +10,8 @@ tags: 新生流域
 - chewei> 20260806 購買一本
 
 暗渠マニアック!
+- https://www.facebook.com/ankyomaniac/photos/a.512155682264830.1073741828.512152842265114/690937631053300/
 - https://www.amazon.co.jp/-/zh/dp/4760146091/ref=pd_sbs_d_sccl_1_10/355-5025524-5069412
 - chewei> 找已買過的書放在哪？
+
+
