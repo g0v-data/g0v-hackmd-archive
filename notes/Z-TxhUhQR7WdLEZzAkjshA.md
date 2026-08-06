@@ -73,6 +73,7 @@
 
 #### 🧰 常用工具分享
 * **線上產生二維碼 (QR Code)：** [https://qr.ioi.tw/zh/](https://qr.ioi.tw/zh/)
+* AdGuard 廣告封鎖器：[連結](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) 
 ---
 ###  🟪 五、會議連結分享區
 
