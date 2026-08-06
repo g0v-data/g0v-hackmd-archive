@@ -15,6 +15,7 @@ tags: 新生流域
 出流管制政策：https://www.wrap.gov.tw/cp.aspx?n=39962
 集水範圍圖資：https://g0v.hackmd.io/EqUzAMedQ7OIAUpHidk-Hg
 素材蒐集相簿：https://goo.gl/photos/YK9PAit2br5BuLzh6
+內水暗渠觀光：https://g0v.hackmd.io/Ho0HhjihSzColep4pzulMw?view
 
 ### 對照探討
 
