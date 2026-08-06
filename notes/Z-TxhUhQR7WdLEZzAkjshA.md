@@ -1,17 +1,13 @@
 :::danger
 ### 📢 展頌公司會議室專區
 *(僅顯示網址，登入帳號密碼請洽承辦人員)*
-
 本頁快速網址：[https://www.chainlon.net/meet](https://www.chainlon.net/meet)
 :::
-
 :::warning
 #### 📋 目錄
 [TOC]
 :::
-
 ---
-
 ### 🟩 一、Google Meet
 > 💡 **使用提示：** 桌機可用瀏覽器，免安裝、免帳號；手機需要有 Google 帳號。 *(請注意：中國大陸地區無法直接連線)*
 
