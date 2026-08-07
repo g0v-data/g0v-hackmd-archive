@@ -19,6 +19,9 @@ pip install torch diffusers transformers
 
 環境をやり直したい/消したい時: 作成した my_test_env フォルダをそのまま削除すればOKです。
 
+![](https://g0v.hackmd.io/_uploads/BJeK0ilQ8fg.png)
+
+
 # プロンプトと画像
 ````
 prompt = "monochrome, grayscale, people"
