@@ -254,3 +254,5 @@ https://www.facebook.com/share/p/1Br2KmrYyU/
 
 20250801 降雨
 https://www.facebook.com/share/v/16f5wiSKkL/
+
+20260808 北海岸海浪上岸 https://www.facebook.com/share/v/1FPeXKBP89/
