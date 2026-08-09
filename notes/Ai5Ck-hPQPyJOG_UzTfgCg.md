@@ -1,0 +1,1 @@
+[KQBD.bz](https://kqbd.bz/) nổi bật với tốc độ cập nhật siêu nhanh kết quả và tỷ lệ kèo, là lựa chọn tin cậy cho những ai muốn soi kèo và theo dõi bóng đá hàng ngày.
