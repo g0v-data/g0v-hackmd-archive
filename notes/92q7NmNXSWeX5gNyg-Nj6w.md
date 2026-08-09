@@ -1,0 +1,1 @@
+[XX88](https://xx88.eu.com/) là nền tảng giải trí trực tuyến cung cấp đa dạng lựa chọn từ casino, thể thao, game bài, nổ hũ đến bắn cá. Giao diện được thiết kế hiện đại, dễ thao tác trên nhiều thiết bị, kết hợp cùng hệ thống dịch vụ thuận tiện giúp người dùng có trải nghiệm liền mạch.
