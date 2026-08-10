@@ -45,12 +45,25 @@
 * 提供者：The Computational Democracy Project
 * 用途：讓參與者用自己的話提出對議題的主張，並對他人的主張表達同意或不同意，系統會透過統計演算法找出意見相近或分歧的群體分布。Polis 完全開源，理論上參與人數無上限；根據[官方知識庫紀錄](https://compdemocracy.org/Case-studies/2018-germany-aufstehen/)，至今規模最大的一場活動辦在德國，吸引超過 3 萬 3,000 人參與，對 1,000 則留言投出接近 200 萬張票。
 * 前數位政委唐鳳曾領導 PDIS（Public Digital Innovation Space，公共數位創新空間）工作小組，以 [Polis 帶領臺灣進行多項公共議題的審議式討論](https://pdis.nat.gov.tw/zh-TW/search/?q=polis)。
-Sensemaker 意見綜整器
-提供者：vTaiwan 社群（g0v.tw 專案之一）
-用途：可匯入 Polis 導出的留言資料，交由大型語言模型（LLM）自動整理成按主題分類的結構化分析報告，藉此識別主要的共同點與意見分歧。使用 Sensemaker 意見綜整器需自備 OpenRouter API Key，依資料量估算，單次分析費用約為 0.05 至 0.20 美元。
-Talk to the City
-提供者：AI Objectives Institute
-用途：適合處理訪談紀錄或開放式問卷等文字資料。系統利用大型語言模型從大量文字回應中萃取主要論點並按主題分群，同時將每個論點連結回原始引文。臺灣數位發展部已有自建 Talk to the City 的部署實例。
-Murmi
-提供者：Carbon Copy Association（網域登記與該公司的 @gora 專案相關，惟 Murmi 官方條款未證實營運關係，且該站台網域於 2026 年 8 月初剛註冊）
-用途：適合會議或工作坊現場即時蒐集意見。主持人分享代碼後，參與者免註冊即可加入；系統會將現場發言即時轉化為可投票的主張，匿名投票後將產生意見分群地圖，並由 AI 協助產出橋接對立意見的共同聲明。Murmi 支援包含繁體中文在內的多國語言介面。
+### [Sensemaker 意見綜整器](https://make.vtaiwan.tw/)
+* 提供者：vTaiwan 社群（g0v.tw 專案之一）
+* 用途：可匯入 Polis 導出的留言資料，交由大型語言模型（LLM）自動整理成按主題分類的結構化分析報告，藉此識別主要的共同點與意見分歧。使用 Sensemaker 意見綜整器需自備 OpenRouter API Key，依資料量估算，單次分析費用約為 0.05 至 0.20 美元。
+### [Talk to the City](https://talktothe.city/)
+* 提供者：AI Objectives Institute
+* 用途：適合處理訪談紀錄或開放式問卷等文字資料。系統利用大型語言模型從大量文字回應中萃取主要論點並按主題分群，同時將每個論點連結回原始引文。[臺灣數位發展部已有自建 Talk to the City 的部署實例。](https://ai.objectives.institute/blog/amplifying-voices-talk-to-the-city-in-taiwan)
+### [Murmi](https://hear.atgora.org/)
+* 提供者：Carbon Copy Association（網域登記與該公司的 @gora 專案相關，惟 Murmi 官方條款未證實營運關係，且該站台網域於 2026 年 8 月初剛註冊）
+* 用途：適合會議或工作坊現場即時蒐集意見。主持人分享代碼後，參與者免註冊即可加入；系統會將現場發言即時轉化為可投票的主張，匿名投票後將產生意見分群地圖，並由 AI 協助產出橋接對立意見的共同聲明。Murmi 支援包含繁體中文在內的多國語言介面。
+## 延伸閱讀：案例與社群討論
+* [「UberX 自用車載客」意見綜整報告](https://www.vtaiwan.tw/uber-x-report)：vTaiwan 經典案例的完整分析報告範例，涵蓋 99 則留言與 5 萬 2,718 票，可具體看到 Polis 蒐集、Sensemaker 意見綜整器整理後的報告長相。
+* [Amplifying Voices: Talk to the City in Taiwan](https://ai.objectives.institute/blog/amplifying-voices-talk-to-the-city-in-taiwan)：說明 Talk to the City 引進臺灣的脈絡，記錄數位發展部主辦的「AI 對齊大會」如何運用此工具蒐集 400 多位參與者的意見，並點出其與 vTaiwan、Polis 之間互補而非取代的關係。
+* [群眾編審法律](https://g0v.hackmd.io/0Lptz8SeTBSOReirCj7Zow?view)：g0v 社群整理的歷史脈絡文件，蒐集群眾參與法規制定的國內外案例與工具。內容大多整理於 2016 至 2017 年間，部分連結雖已失效，仍相當適合做為背景參考資料。
+
+## 使用提醒
+* 臺北市政府 i-Voting 網路投票截至 2026 年 8 月，進行中的提案、附議與討論案件數皆為 0；新提案現已統一改由公共政策網路參與平臺的臺北市專區受理。
+* Talk to the City 目前的意見蒐集管道以 WhatsApp 為主，且預設使用美國電話號碼發送訊息。臺灣使用者若非透過該管道蒐集意見，需自行準備符合欄位格式的資料後上傳。
+## 資料查核說明
+本文資料查核日期：2026-08-10。資料庫、各類工具與社群討論筆記，均有可能在此日期之後變動，請務必自行查核。
+## 授權與出處
+本文由 g0v 揪松團（jothon）與 Claire Cheng 共同編輯，以 CC BY 4.0 授權釋出，歡迎轉載、改作與 AI 取用，請標示出處。更多臺灣公民科技資源見「臺灣公民科技資料庫 Civic Tech Taiwan」：https://civictech.tw/
+
