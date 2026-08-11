@@ -46,12 +46,24 @@ https://www.vtaiwan.tw/jitsi
 
 
 
+
 ### 網站部份
+
+#### 測試區
 
 新版Civic Talk MVP上線實測中，邊測邊開發
 http://civic.vtaiwan.tw/
 
+vTaiwan新一代主站實測中，邊測邊開發
+https://next.vtaiwan.tw
+
+#### 開發區
+
+vTawian Github Project專案儀表板介面說明5min影片：
+https://drive.google.com/file/d/1EeOB7ZMb4kK3P6lsoeDXcBoL98UhMU5A/view
+
+開發甘特圖：
+https://github.com/orgs/g0v/projects/2/views/4
+
 議題認領區：
 https://github.com/orgs/g0v/projects/2/views/7
-
-vTaGithub Project專案儀表板介面說明
