@@ -43,3 +43,15 @@ https://www.vtaiwan.tw/jitsi
 ## 小小的更新
 ### 政府拜會
 - 上週參與 COSCUP 開源人年會 2026，有機會接觸到台北市政府資訊局長趙氏隆以及數位發展部公民科技科科長王士榮，因此有寄信表達討論與拜會意願，且取得正面回覆。
+
+
+
+### 網站部份
+
+新版Civic Talk MVP上線實測中，邊測邊開發
+http://civic.vtaiwan.tw/
+
+議題認領區：
+https://github.com/orgs/g0v/projects/2/views/7
+
+vTaGithub Project專案儀表板介面說明
