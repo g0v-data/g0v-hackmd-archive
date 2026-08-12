@@ -626,6 +626,7 @@ NFT (適合 NFT 構圖的角色圖像)
 - 充氣式偶服
     - https://fb.watch/h11QpEm4uI/
     - https://www.facebook.com/sdtour223/posts/pfbid036qRDs2NtTvAKFMhFCu1CpB5tmsYs9kDdfNL8WQfpGLhuVAG4wDe5Sdg8Wu4SFsxZl
+    - 電氣設備注意 ! https://www.facebook.com/essencious.nil/posts/pfbid026AWLHtHKrGWUzvkVYqsPQuLrs3WhLCdsN2j9EV5N6EAt2wUhD1mjhaHri4rSP3vfl
 - 同好社團
     - https://www.facebook.com/groups/mascotlife/
 
