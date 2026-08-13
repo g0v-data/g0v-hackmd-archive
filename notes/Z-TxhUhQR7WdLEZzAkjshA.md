@@ -13,7 +13,7 @@
 
 * **管理員帳號：** meeting@chainlon.net (密碼另洽)
 
-#### 🔗 Google 會議連結一覽
+#### 🔗 Google 會議連結一覽(~2026/12/17)
 * **主管會議：** https://meet.google.com/zvq-goua-iyv
   * 短網址：https://www.chainlon.net/meetg
 * **內訓專用：** https://meet.google.com/vhj-bhpw-rqo
