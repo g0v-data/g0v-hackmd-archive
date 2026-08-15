@@ -160,6 +160,9 @@ tags: GIS, river
                     - https://archaeogis.ihp.sinica.edu.tw/map/#/gis
                     - http://webgis.sinica.edu.tw/website/twnarchaesites/viewer.htm
     - 找出主河道
+        - 主河道樣態
+            - 類型：主幹線路線，使用地區大型道路
+            - 類型：主幹線沿著堤防內側的道路走向
         - 主河道健康度，工具可使用河溪守護網 https://iriver.tw/
             - Case: 柳川 https://iriver.tw/zh-hant/node/188
             - Case: 中港大排、瓦磘溝
