@@ -7,6 +7,9 @@ tags: GIS,
 各類素材蒐集
 https://photos.app.goo.gl/5qBWhLbZm6nfPVRY6
 
+荷蘭人筆下的平埔族群
+https://www.facebook.com/guoshiguan/posts/pfbid03XPxoubs4pPCcwXjicYBvaaeASW3u9VPkZwL6Ar9roFEPaDobUenut7Ro1RF9gEKl
+
 平埔身分法三讀 萬淑娟談20年心路
 https://tcnn.org.tw/archives/256441
 
