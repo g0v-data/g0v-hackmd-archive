@@ -7,51 +7,29 @@
 
 :::
 
-
-https://www.settour.com.tw/act/gfg/japan/usj/info.html
-
-Google拼圖:https://g.co/arts/Wqau6cVK3KrjjsRU9
-即時翻譯
-https://apps.microsoft.com/detail/9pjd2fdzqxm3?hl=zh-TW&gl=TW
-
-https://poki.com/zh/g/vortellis-pizza?gdgameCode=YAIUT3
 #### 日本環球影城自由行規劃
 https://docs.google.com/spreadsheets/d/1Ev91XyoPuatA-S9McHo_Act2tdDrtacrDuVr3TKsHWo/edit?usp=sharing
+
+住宿Hotel Name
+OKINI - DOYANEN HOTELS OKINI - DOYANEN HOTELS
+Adress
+3-4-15 Haginochaya, Nishinari-ku,Osaka,Osaka,557-0004,JP
+大阪大阪3-4-15 Haginochaya, Nishinari-ku
+Contact Number81-70534-96321
+FAX 81-66635-0093
 
 https://youtu.be/IlgmZlmcphU
 
 大阪環球影城1.5日票攻略：   
 https://www.youtube.com/watch?v=QcJ3ze6reVs
   
-海遊館(天保山)<-->環球影城
-來回含海遊館入管券 4200，單程3400，下午5點回程，末班6點
-https://www.kaiyukan.com/thv/captline/
-
-大阪周遊卡 Osaka Amazing Pass，2日券約台幣1000，不含南海本線、 JR 線
-可參與約40項設施，例如天保山大摩天輪
-
-
-你畫我猜    https://gartic.io/
-Google限時塗鴉    https://quickdraw.withgoogle.com/?locale=zh_TW
-Google Play 
-
-
-擋廣告
-https://adguard.com/zh_tw/welcome.html?utm_campaign=home&utm_medium=license_activation&utm_source=android
-
-台灣小百岳
-https://catyc.pixnet.net/blog/post/63581416-%E5%8F%B0%E7%81%A3%E5%B0%8F%E7%99%BE%E5%B2%B3
-https://meet.google.com/wxf-hzwv-hzo
-Google 遊戲
-https://web.jsps.kh.edu.tw/googlegame/
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0ee72ad82c31f2befbc519c9493b9761.png)
-
-
-
-
 #### 常用連結
 https://poki.com/zh/g/kiwi-clicker
+Google拼圖:https://g.co/arts/Wqau6cVK3KrjjsRU9
+即時翻譯
+https://apps.microsoft.com/detail/9pjd2fdzqxm3?hl=zh-TW&gl=TW
 
+https://poki.com/zh/g/vortellis-pizza?gdgameCode=YAIUT3
 打字練習1    https://worldofkeyboards.com/bopomofo
 打字練習2    https://typing.tw
 國字筆順    https://stroke-order.learningweb.moe.edu.tw/home.do?lang=zh_TW
@@ -67,7 +45,21 @@ https://doodles.google/
 2020 Blocks    https://cn.game-game.com/180599/
 冰火人3        https://cn.game-game.com/51792/
 檔案上傳 https://www.dropbox.com/request/NkESuX6UMS3o5wpw2JFW
-開車    https://slowroads.io/
+你畫我猜    https://gartic.io/
+Google限時塗鴉    https://quickdraw.withgoogle.com/?locale=zh_TW
+Google Play 
+
+
+擋廣告
+https://adguard.com/zh_tw/welcome.html?utm_campaign=home&utm_medium=license_activation&utm_source=android
+
+台灣小百岳
+https://catyc.pixnet.net/blog/post/63581416-%E5%8F%B0%E7%81%A3%E5%B0%8F%E7%99%BE%E5%B2%B3
+https://meet.google.com/wxf-hzwv-hzo
+Google 遊戲
+https://web.jsps.kh.edu.tw/googlegame/
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0ee72ad82c31f2befbc519c9493b9761.png)
+
 |女兒| 腳 | 手	| 身|加成值|暫定倍數|觸碰高度|
 | -- | -- | -- | -- | -- | -- |-- | -- | -- |
 |爸爸|104|86|	92|	576|2.3|250 |
