@@ -210,6 +210,7 @@ tags: GIS, river
     - 留意 公共工程、交通工程、建築修行為 等翻新改建契機，以及軟體類活動 (路跑夜跑、遶境 ..等，參考人水互動種類輔助發想探討)
         - 臺北市市區排水審查相關文件 https://service.taipei/case-detail/CK005
         - 捷運復舊
+        - 水路沿線建物街區https://wenshanoasis.wixsite.com/mysite
     - 水源：
         - 再生水
         - 原水資源，管線位置
