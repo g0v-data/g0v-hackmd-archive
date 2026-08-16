@@ -11,7 +11,7 @@ tags: FtO, g0v-intl
     - ==NO smoking NO alcohol in the venue!==
 
 
-> **Sign-up to FtO Souel 2026** :ocean:  
+> **Sign-up to FtO Seoul 2026** :ocean:  
 https://forms.gle/spRvU2nLN1F5tmEc8 
 
 ## Venue
