@@ -47,6 +47,7 @@ tags: GIS, river
 
 文山區集水範圍指認，以下從最下游往上游，依序列出每一個內水集水範圍，以及該範圍內 已知的常態水體：
 
+![](https://g0v.hackmd.io/_uploads/ByM9g50Lzx.png)
 ![](https://g0v.hackmd.io/_uploads/H1AKRJAIMe.jpg)
 
 
@@ -107,6 +108,19 @@ tags: GIS, river
 【新光路二段】的集水範圍
 (此範圍內有：動物園、國道公路警察大隊木柵分隊辦公區)
 動物園內的水域_水鳥觀察區水域
+
+
+士林北投
+
+![](https://g0v.hackmd.io/_uploads/r1xfcxcC8fe.png)
+
+內湖
+
+![](https://g0v.hackmd.io/_uploads/SkMzce5C8Ml.png)
+
+
+
+
 
 ---
 
@@ -195,6 +209,7 @@ tags: GIS, river
     - 4. 抽水站區位
     - 留意 公共工程、交通工程、建築修行為 等翻新改建契機，以及軟體類活動 (路跑夜跑、遶境 ..等，參考人水互動種類輔助發想探討)
         - 臺北市市區排水審查相關文件 https://service.taipei/case-detail/CK005
+        - 捷運復舊
     - 水源：
         - 再生水
         - 原水資源，管線位置
