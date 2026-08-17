@@ -23,6 +23,9 @@ tags: GIS, river
 
 3. 潛力營造行動指認：勾選人水互動類型 (歷史上、當代現況、期待營造)，勾選 淨水功能 / 貯水功能 / 環境融入水元素 / 主水路營造，並指認出位置與用地屬性
 
+說明簡報：
+https://docs.google.com/presentation/d/1L4alFJVjvNYIEiyQ3uz1UYrPJEOLQNUVW4JmaXeTZvg/edit
+
 ---
 
 ### 操作舉例說明
