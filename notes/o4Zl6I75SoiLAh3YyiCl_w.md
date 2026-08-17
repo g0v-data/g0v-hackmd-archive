@@ -1,0 +1,2 @@
+![](https://g0v.hackmd.io/_uploads/H1xxsiNlPfl.jpg)
+<a href="https://hi88.lighting/">hi88</a> là website được xây dựng với giao diện trực tuyến hiện đại, tối ưu khả năng truy cập trên nhiều thiết bị nhờ công nghệ PWA. Trang cung cấp thông tin khá đa dạng về hệ thống, hướng dẫn, tin tức và hỗ trợ người dùng, đồng thời giới thiệu các giải pháp bảo mật dữ liệu và chăm sóc khách hàng trực tuyến.
