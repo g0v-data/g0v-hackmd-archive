@@ -26,6 +26,9 @@ tags: GIS, river
 說明簡報：
 https://docs.google.com/presentation/d/1L4alFJVjvNYIEiyQ3uz1UYrPJEOLQNUVW4JmaXeTZvg/edit
 
+其他備用：
+https://docs.google.com/presentation/d/16MSrwQ_73KlkdMhGRc8BMT6yOPeh-PWFHnFJnkQa140/edit
+
 ---
 
 ### 操作舉例說明
