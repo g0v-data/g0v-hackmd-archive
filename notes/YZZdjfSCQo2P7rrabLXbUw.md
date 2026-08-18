@@ -10,6 +10,9 @@
 #### 日本環球影城自由行規劃
 https://docs.google.com/spreadsheets/d/1Ev91XyoPuatA-S9McHo_Act2tdDrtacrDuVr3TKsHWo/edit?usp=sharing
 
+景點地標
+https://maps.app.goo.gl/boKQcMKUu6mgjmQj8
+
 住宿Hotel Name
 OKINI - DOYANEN HOTELS OKINI - DOYANEN HOTELS
 Adress
