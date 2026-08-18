@@ -33,7 +33,25 @@ https://docs.google.com/presentation/d/16MSrwQ_73KlkdMhGRc8BMT6yOPeh-PWFHnFJnkQa
 
 ### 操作舉例說明
 
-將雙園抽水站集水範圍進一步指認：
+將「忠孝、成都、貴陽排水系統」集水範圍進一步指認：
+
+![](https://g0v.hackmd.io/_uploads/SyZy7ZCbDzl.png)
+
+![](https://g0v.hackmd.io/_uploads/BkekQZC-PMg.png)
+
+![](https://g0v.hackmd.io/_uploads/HJyXW0bvMx.png)
+
+![](https://g0v.hackmd.io/_uploads/BkGJmb0-wfe.png)
+
+
+指認「林森抽水站集水範圍」的水路主幹線：
+．該集水範圍內，指認出水路主幹線，且基於流經公共設施用地，起點為林森羅斯路口，往北進入中正紀念園區，進入林森南路，此處可呼應早年歷史地圖中記載的水路，右轉進入青島東路，再往北進入杭州北路，進入華山公園，再進入林森抽水站
+
+![](https://g0v.hackmd.io/_uploads/rkl6v1G98zx.png)
+
+![](https://g0v.hackmd.io/_uploads/BJ_NzAWDfg.png)
+
+將「雙園抽水站集水範圍」進一步指認：
 藍色則是主幹線
 黑色色框是 5 個集水範圍
 (1) 杭州南路羅斯福路路口
@@ -44,18 +62,16 @@ https://docs.google.com/presentation/d/16MSrwQ_73KlkdMhGRc8BMT6yOPeh-PWFHnFJnkQa
 
 ![](https://g0v.hackmd.io/_uploads/SJxR0yRLfl.png)
 
-![](https://g0v.hackmd.io/_uploads/B1pPkGqUfg.png)
+![](https://g0v.hackmd.io/_uploads/SyWm3b0-Pzx.png)
 
-林森抽水站集水範圍的水路主幹線指認：
-．紅色線條 = 該集水範圍內，指認出水路主幹線，且基於流經公共設施用地，起點為林森羅斯路口，往北進入中正紀念園區，進入林森南路，此處可呼應早年歷史地圖中記載的水路 [1]，右轉進入青島東路，再往北進入杭州北路，進入華山公園，再進入林森抽水站
-![](https://g0v.hackmd.io/_uploads/rkl6v1G98zx.png)
+![](https://g0v.hackmd.io/_uploads/ryCAWC-Pzg.png)
 
+---
 
 文山區集水範圍指認，以下從最下游往上游，依序列出每一個內水集水範圍，以及該範圍內 已知的常態水體：
 
 ![](https://g0v.hackmd.io/_uploads/ByM9g50Lzx.png)
 ![](https://g0v.hackmd.io/_uploads/H1AKRJAIMe.jpg)
-
 
 【景美抽水站】的集水範圍
 萬和一號公園水路
@@ -115,10 +131,18 @@ https://docs.google.com/presentation/d/16MSrwQ_73KlkdMhGRc8BMT6yOPeh-PWFHnFJnkQa
 (此範圍內有：動物園、國道公路警察大隊木柵分隊辦公區)
 動物園內的水域_水鳥觀察區水域
 
+---
 
 士林北投
 
 ![](https://g0v.hackmd.io/_uploads/r1xfcxcC8fe.png)
+
+百齡抽水站集水範圍
+https://www.facebook.com/watch/?v=1009691365453620&locale=zh_TW
+
+![](https://g0v.hackmd.io/_uploads/BJ_xHRWDfe.png)
+
+---
 
 內湖
 
@@ -207,8 +231,9 @@ https://docs.google.com/presentation/d/16MSrwQ_73KlkdMhGRc8BMT6yOPeh-PWFHnFJnkQa
 
 #### 有了大小範圍、分水地區、主河道/主幹線等，探討筆記
 - 範圍內的個人與法人盤點
-    - 企業 ESG，
-    - 企業的持續營運計畫，
+    - 企業 ESG，可以從坐落的集水範圍，來開展相關策畫
+        - 例如天下雜誌位在伊通街93巷，屬於松江南京路口地區集水範圍，主幹線在南京新生北路匯入新生大排
+    - 企業的持續營運計畫，強降雨、集水範圍內的承洪韌性建構
 - 若從很直觀的角度來整理各空間、場景、設施等，對於積水的看法
     - 不能淹，關鍵基礎設施
     - 不怕淹，不過有其能耐與配套限制
@@ -231,7 +256,6 @@ https://docs.google.com/presentation/d/16MSrwQ_73KlkdMhGRc8BMT6yOPeh-PWFHnFJnkQa
 - 內容傳達方式參考
     - 降雨及逕流視覺化展示 https://www.facebook.com/groups/582154450196478/posts/1559102442501669?locale=zh_TW
 
-
 ### 水環境改造場域樣態
 
 #### 以內水流域區位，歸納常見環境營造類型
@@ -246,23 +270,24 @@ https://docs.google.com/presentation/d/16MSrwQ_73KlkdMhGRc8BMT6yOPeh-PWFHnFJnkQa
 - 3. 抽水站區位
 - 4. 主幹線經過抽水站進入河濱
     - 景美溪匯流口的方案，在河濱引流設置水道與溼地環境
-
 #### 都會水環境營造的行動發想輔助
 - 概念：水融合
 - 檢視 水源機會
     - 雨水回收、中水回收、泳池溢流水
         - 晶華酒店游泳池溢流水回收再利用於冰水主機、冷卻水塔、澆灌及馬桶沖水 https://esg.silkshotelgroup.com/environment/waste
-    - 基地附近有常態水域 (景觀水池、人工濕地) 評估能否接取
-        - 送好水
+    - 基地附近有常態水域 (景觀水池、人工濕地) 評估能否接取，將好水接續往下送
     - 於較遠地區，高處引自然水源 (圳路、水道)
-        - 例如福德洋圳
+        - 例如早年福德洋圳取水口於東吳大學
+        - 瓦磘溝南支流引入秀朗橋附近河水
     - 原水資源，管線位置
         - 例如臺大校區內的舟山路有原水管線
         - 例如天母水管路
     - 山區圳溝水源
-        - 例如永春陂
-    - 自來水水廠尾水
+        - 例如永春陂與豹山溪
+    - 自來水水廠尾水，例如濱江、民生、迪化
     - 汙水處理廠再生水供給範圍
+    - 礫間處理後的水
+
 - 發展 軟體類活動 (路跑夜跑、遶境 ..等，參考人水互動種類輔助發想探討)
     - 異業結合，圍牆通透 結合 帶狀水路
     - 自然遊戲環境，踩水
