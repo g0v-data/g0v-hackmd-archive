@@ -207,6 +207,8 @@ https://docs.google.com/presentation/d/16MSrwQ_73KlkdMhGRc8BMT6yOPeh-PWFHnFJnkQa
 
 #### 有了大小範圍、分水地區、主河道/主幹線等，探討筆記
 - 範圍內的個人與法人盤點
+    - 企業 ESG，
+    - 企業的持續營運計畫，
 - 若從很直觀的角度來整理各空間、場景、設施等，對於積水的看法
     - 不能淹，關鍵基礎設施
     - 不怕淹，不過有其能耐與配套限制
