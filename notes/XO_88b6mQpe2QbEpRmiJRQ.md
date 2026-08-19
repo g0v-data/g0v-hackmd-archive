@@ -8,6 +8,8 @@ tags: river,
 
 ![](https://g0v.hackmd.io/_uploads/Hkg780bOc-e.png)
 
+2026.08 空拍影片
+https://youtu.be/lrZ2IE_XTr4
 
 ## [持續更新] 追溯城南水文化故事 / 自來水園區 / 小觀音山 / 寶藏巖
 
