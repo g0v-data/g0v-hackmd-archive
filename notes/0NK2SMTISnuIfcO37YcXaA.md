@@ -86,6 +86,8 @@ https://g0v.hackmd.io/-9i14hLqRFez1IzvOhCyow?view
     - https://www.grb.gov.tw/search;keyword=TPASS;type=GRB05
 - chewei> 是否有票證資料可以申請使用？
 - 公共電視的探討節目 https://youtu.be/fMhaYWkePgY
+- 研究題目有運用 TPASS 資料 https://www.facebook.com/share/p/1Hb7ducr4T/
+- https://hackmd.io/5B8m2scnSDyaClY3YEXOYA
 
 ## 20260508 eTag 隱私風險
 
