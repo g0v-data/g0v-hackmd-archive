@@ -1,0 +1,1 @@
+[11cc](https://11cc.it.com/) reúne informações relevantes para os interessados em apostas online, com avaliações de plataformas, conteúdos estratégicos, dicas para usuários e notícias do mercado digital, proporcionando uma visão ampla sobre as tendências e novidades que movimentam o setor.
