@@ -1,0 +1,1 @@
+[tai sunwin](https://sunwin20.now/) là lựa chọn dành cho người muốn cài đặt ứng dụng Sunwin trên thiết bị di động. Phiên bản được tối ưu để hoạt động thuận tiện trên màn hình điện thoại, hỗ trợ người dùng truy cập các danh mục giải trí một cách linh hoạt.
