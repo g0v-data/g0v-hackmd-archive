@@ -15,7 +15,6 @@ https://g0v.hackmd.io/@chewei/B14OsdWfi/
 
 ## 活動企劃區
 
-- [20260818 台北市內水流域規劃方法工作坊](https://g0v.hackmd.io/8U0Tvvw-ReulHUwejXN2pA?view)
 - [Event 活動企劃構想彙整區 🏃‍♀️](https://g0v.hackmd.io/mPCuC_qcRAG1Yw7rrUZwRg?view)
 
 ### 已結束活動
@@ -28,6 +27,7 @@ https://g0v.hackmd.io/@chewei/B14OsdWfi/
 
 ## 議題探討
 - [建立<br>「內水流域環境營造工作指引」<br>都市內水流域儀表板<br>流域擬人化 AI](https://g0v.hackmd.io/luwEBL3wRC-MyXabfJgVMA?view)
+- [20260818 台北市內水流域規劃方法工作坊](https://g0v.hackmd.io/8U0Tvvw-ReulHUwejXN2pA?view)
 - [水質檢測 💧 逕流減汙](https://g0v.hackmd.io/y9nSsx9jSmiQR1ylDF0ujg?view)
 - [菸蒂問題 🚬](https://g0v.hackmd.io/7snMaEoZSQqkxOaIYJPpTg?view)
 - [尚可勘查與對照討論的圳路或遺線空間](https://g0v.hackmd.io/BEpa5JYQRnmy6xGT05vO7Q?view)
