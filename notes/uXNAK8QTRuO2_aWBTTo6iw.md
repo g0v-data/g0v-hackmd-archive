@@ -22,6 +22,7 @@ Chainlon 展頌臨時文字紀錄區，公開頁面、嚴禁機密資料，快�
 | Xanswer| 知識心智圖(中國)| https://www.xanswer.com| 
 | leonardo| 圖片生成| https://leonardo.ai/| 
 
+![](https://g0v.hackmd.io/_uploads/SyUTDlQwGl.png)
 
 
 #### 常用指令
