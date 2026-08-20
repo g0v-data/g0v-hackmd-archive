@@ -2,6 +2,10 @@
 tags: vTaiwan
 ---
 # 20260820 小松
+![](https://g0v.hackmd.io/_uploads/BJOx6PVPfg.png)
+![](https://g0v.hackmd.io/_uploads/ByKlpDEPMg.png)
+
+
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
@@ -105,3 +109,6 @@ https://www.vtaiwan.tw/jitsi
 - 瑞士的全國性線上工具：收集對於瑞士AI 的想像
 - https://dialogue.publicai.ch/
 - 有方法邀請他們來 vTaiwan 分享嗎XD [name=peter]
+
+
+
