@@ -7,7 +7,7 @@ tags: vTaiwan
 地點 Location ：線上 Online
 參與者 Participants：Peter, 
 
-https://www.vtaiwan.tw/jitsi
+https://www.vtaiwan.tw/jitsi 
 (請用Google登入以參與視訊並啟用轉錄功能)
 
 
@@ -33,8 +33,10 @@ https://www.vtaiwan.tw/jitsi
     - 會發佈到新的網站，並在社群媒體上完成更新！
 5. [Frankly 測試](/HVEdPVQqQHqVwvFECg7sRg)
     - 目前正在測試一個新的線上會議
-6. [vTawian Github Project專案儀表板](https://github.com/orgs/g0v/projects/2)
-7. 如果想要提案怎麼辦？
+6. [Civic Talk 測試](/AOQfOmJmS-mcgr2LR4dLQA) 
+    - 目前正在測試一個新的線上公共議題討論平台 
+8. [vTawian Github Project專案儀表板](https://github.com/orgs/g0v/projects/2)
+9. 如果想要提案怎麼辦？
     - 目前的 vTaiwan 很歡迎與數位工具相關的公共討論！
 - 如果想要成為協作者或者是貢獻者，我們正在努力讓說明更清楚，介面更友善！
 - Q: 對用 AI vibe coding 的人想貢獻怎麼做？
@@ -48,4 +50,18 @@ https://www.vtaiwan.tw/jitsi
 ## 自我介紹
 
 
+
+
+
+
 ## 小小的分享
+
+
+
+[Civic Talk 測試邀請：一起試用公共議題討論的新工具](https://g0v.hackmd.io/AOQfOmJmS-mcgr2LR4dLQA?view)
+
+
+
+## 花蓮審議大會
+
+
