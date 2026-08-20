@@ -54,10 +54,15 @@ https://www.vtaiwan.tw/jitsi
 
 
 
+
 ## 小小的分享
 
+### vTaiwan 到花蓮
+- [2026 vTaiwan 到花蓮玩](/Eg5K7JxkStGETO3jNbDYWw)
+- [活動資訊綜合整理](https://docs.google.com/document/d/149v8KsrbZH_bIln17fdGoRYktLfYCUJEKEtT-Dhf6SA/edit?usp=sharing)
+- 目前邀請到楊華美議員一同參與活動
 
-
+### 網站
 [Civic Talk 測試邀請：一起試用公共議題討論的新工具](https://g0v.hackmd.io/AOQfOmJmS-mcgr2LR4dLQA?view)
 
 
