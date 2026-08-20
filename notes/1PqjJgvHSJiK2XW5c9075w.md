@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter, 
+參與者 Participants：Peter, 芬達, 凱文, thompson, bestian, allison, tim, josh 
 
 https://www.vtaiwan.tw/jitsi 
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -48,8 +48,14 @@ https://www.vtaiwan.tw/jitsi
     - 負責維護的工程師朋友會幫忙檢查
 :::
 ## 自我介紹
-
-
+- Peter: @台北市 實習律師、vTaiwan、人工智慧
+- Bestian: @淡海新市鎮 civic talk 工程師, 剛吃飽, 今天事很多（辛苦了QAQ by Peter）
+- Thompson: ＠英國倫敦 跟 shuyang 做審議工具 喜歡攀岩
+- 芬達：＠花蓮 環境社會、公民行動（長期參與花蓮社會議題的關注，地球公民基金會的志工
+- 凱文：根深蒂固的廣告與行銷, 關注 AI 與網路, 救災
+- Tim：轉職網站工程師，對事實查核領域感興趣，對區塊鏈感興趣
+- Allison：I'm a senior in high school and applying to american universities soon, im interested in poli science and international relations 
+- Josh: 研究員、人在瑞士、剛跑完四場審議工作坊
 
 
 
@@ -61,6 +67,10 @@ https://www.vtaiwan.tw/jitsi
 - [2026 vTaiwan 到花蓮玩](/Eg5K7JxkStGETO3jNbDYWw)
 - [活動資訊綜合整理](https://docs.google.com/document/d/149v8KsrbZH_bIln17fdGoRYktLfYCUJEKEtT-Dhf6SA/edit?usp=sharing)
 - 目前邀請到楊華美議員一同參與活動
+- [預計使用的簡報](https://docs.google.com/presentation/d/1e2Ui4RXx5zX_14DwjPsXUNplsrtqBpZn43IxkZ6pf78/edit?usp=sharing)
+
+
+### Decidim Conference
 
 ### 網站
 [Civic Talk 測試邀請：一起試用公共議題討論的新工具](https://g0v.hackmd.io/AOQfOmJmS-mcgr2LR4dLQA?view)
@@ -69,4 +79,29 @@ https://www.vtaiwan.tw/jitsi
 
 ## 花蓮審議大會
 
+### 工具
+- https://www.murmi.org/
+    - 上週測試的時候，發現人數比較少的時候參與者會排斥做重點整理 [name=josh]
+        - 蘇黎世：人數較多
+        - 洛桑：人數較少，較為排斥
+        - 有可能會跟人數有關係
+        - 講話會被摘要的感覺 / 「生命經驗需要被重點整理」可能會產生負面感受
+    - 故事的框架很重要 [name＝凱文]
+        - 此時主持人的分配、視角與想要達成的目標很重要
+    - murmi 會存成錄音檔案嗎？ [name=tim] 如果不會的話，或許可以加上，以利之後的追蹤，也可以新增一個功能：拉霸來調整濃縮程度，
+        - 不會 [name=josh]
+        - 
+- mentimeter
 
+## Thompson 的分享！
+- https://crown-shy.com/
+- 審議工具的工具包概念
+- 目前的工具
+    - Jitsi 
+    - TttC
+    - Polis 
+- 目前與蘇格蘭政府合作
+### 看到的案例
+- 瑞士的全國性線上工具：收集對於瑞士AI 的想像
+- https://dialogue.publicai.ch/
+- 有方法邀請他們來 vTaiwan 分享嗎XD [name=peter]
