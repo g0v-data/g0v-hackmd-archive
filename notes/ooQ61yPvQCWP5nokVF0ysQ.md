@@ -1,0 +1,3 @@
+Lc88
+![](https://g0v.hackmd.io/_uploads/SJea8F9NvGl.png)
+<a href="https://lc88ta.com/">Lc88</a> là nền tảng giải trí trực tuyến với giao diện hiện đại, tốc độ truy cập ổn định và danh mục trò chơi đa dạng. Người dùng có thể dễ dàng khám phá nhiều lựa chọn giải trí hấp dẫn, thao tác thuận tiện trên cả máy tính và thiết bị di động. Lc88 hướng đến trải nghiệm nhanh chóng, tiện lợi và chuyên nghiệp.<br>
