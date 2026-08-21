@@ -1,0 +1,1 @@
+$D) \tan\left(\frac{\pi}{4}-x\right)\\ = \frac{1-\tan x}{1+\tan x}\n\tan\left(\\frac{\\pi}{4}-x\\right)\n= \\frac{\\tan \\frac{\\pi}{4} - \\tan x}{1 + \\tan \\frac{\\pi}{4} \\tan x}\n= \\frac{1 - \\tan x}{1 + \\tan x}\n\\frac{1-\\tan x}{1+\\tan x}\n\\tan x$
