@@ -58,6 +58,9 @@ https://g0v.hackmd.io/3qZj8DoOS3y5DkfLgy4elA?view
 馬雅各醫師 James Laidlaw Maxwell
 https://trailpaint.org/stories/taiwan-missionaries/
 
+1871 蘇花古道
+https://www.facebook.com/share/p/1Cz2W99zQk/
+
 1873 樺山資紀和水野遵，為了征臺，偵查全台臺
 https://tebook.ntl.edu.tw/info.aspx?antiforgery=86349025-fe6c-4409-8e98-0265800b4aa9&actions=view&uuid=df521398-03e7-463e-8923-2dab03cb6850
 
