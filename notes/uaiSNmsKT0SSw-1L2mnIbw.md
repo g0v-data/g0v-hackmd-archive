@@ -1,0 +1,1 @@
+[hi88](https://hi88.soccer/) ra mắt tại thị trường Philippines vào năm 2022 và từng bước xây dựng vị trí trong lĩnh vực giải trí trực tuyến. Nền tảng được giới thiệu là hoạt động theo quy định tại Philippines, đồng thời chú trọng đầu tư công nghệ và cập nhật sản phẩm thường xuyên. Những cải tiến này hướng đến trải nghiệm ổn định, thuận tiện và an toàn hơn cho người dùng.
