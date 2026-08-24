@@ -169,6 +169,7 @@ https://www.facebook.com/watch/?v=1009691365453620&locale=zh_TW
             - 分水嶺山系屬於郊山
         - 第二類 外雙溪、磺港溪、磺溪、水磨坑溪、內溝溪...等沿線兩側
             - 分水嶺山系海拔較高
+        - 第三類 並非山脊作為邊界
     - 從屬哪一個大河系統
         - 基隆河系統
             - 縣市上下游分段
@@ -201,6 +202,10 @@ https://www.facebook.com/watch/?v=1009691365453620&locale=zh_TW
                 - 地址描述文字來源：https://hub.arcgis.com/datasets/IDT::%E9%81%BA%E5%9D%80/explore?location=25.046351%2C121.545594%2C16.85
                 - https://archaeogis.ihp.sinica.edu.tw/map/#/gis
                 - http://webgis.sinica.edu.tw/website/twnarchaesites/viewer.htm
+        - 台北城牆與當時集水排水水路
+        - 鐵路
+        - 快速道路堤頂土坡，例如內科二期地區
+        - 近代大型明挖地下道，例如辛亥基隆路口
 - 找出主河道 / 主幹線
     - 主河道樣態
         - 類型：主幹線路線，使用地區大型道路
