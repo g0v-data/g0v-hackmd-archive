@@ -1,0 +1,1 @@
+[nk88](https://nk8868.net/) là nền tảng giải trí trực tuyến cung cấp đa dạng sản phẩm game hấp dẫn như thể thao, casino, nổ hũ và bắn cá. Người chơi có thể khám phá hệ sinh thái giải trí phong phú cùng nhiều tính năng tiện ích hiện đại.
