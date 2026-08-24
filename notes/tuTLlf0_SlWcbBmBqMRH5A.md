@@ -70,7 +70,7 @@
 * 該專案也整理並開放了[廢併校及分校分班的名單資料](https://g0v.hackmd.io/@chewei/reschool/https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik%2Fedit)。
 
 
-### [在地刊物 localzine](https://g0v.hackmd.io/@chewei/reschool/https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F16AiaOpquE1gm2PaRTNlJkqWZ3vajcGlkvaTjJ2YWRik%2Fedit)
+### [在地刊物 localzine](https://g0v.hackmd.io/@chewei/localzine/https%3A%2F%2Fg0v.hackmd.io%2F2zMAKSGpRJq2ieFzwNfjmg%3Fview)
 提供者：g0v.tw 社群專案
 
 用途：
