@@ -86,8 +86,8 @@
 
 
 ### 延伸閱讀：社群共筆與資料庫索引
-* [Area Information 地區尺度的演變歷程資訊](https://g0v.hackmd.io/J0sbdyIqQ_OrNXJ9boT9Zw?view)：發布於 g0v HackMD 的方法論共筆。核心提問為「如何得知特定地理範圍內，從古至今的空間變動事件？」內容依據史學方法、地方學及環境變遷研究等觀點進行梳理，並盤點了實用的資料來源。
-* [環境演變歷程](https://g0v.hackmd.io/hVfYoPVlQ--5hBc0ip_QrA?view)：發布於 g0v HackMD 的方法論共筆。核心提問為「如何得知特定地理範圍內，從古至今的空間變動事件？」內容依據史學方法、地方學及環境變遷研究等觀點進行梳理，並盤點了實用的資料來源。
+* [Area Information 地區尺度的演變歷程資訊](https://g0v.hackmd.io/J0sbdyIqQ_OrNXJ9boT9Zw?view)：這是一份整理在 g0v HackMD 上的方法論共筆，專門解答空間專案常遇到的一個難題：「想知道一個地方從古至今經歷過哪些空間變動，該去哪裡找資料？」 這份文件本質上是一份教人找資料的指路清單，有別於一般提供搜尋框的資料庫。內容前半部梳理了史學、地方學與環境變遷的研究觀點；後半部則盤點各類資料來源，並刻意依照「素材年份由老至新」排列。
+* [環境演變歷程](https://g0v.hackmd.io/hVfYoPVlQ--5hBc0ip_QrA?view)：這同樣是一份發布於 g0v HackMD 上的共筆， 將臺灣各地的環境變遷文獻、論文、影像與報導，順著「由北往南、由西至東」的地理邏輯一路往下編排，並額外整理了全島尺度的史料。
 * [公共圖書館數位資源入口網「臺灣研究」分類](https://ers.nlpi.edu.tw/resourceList/?pageType=class&par=898&resourceType=databases&searchBlockType=databases&searchTarget=databases)：國立公共資訊圖書館整理的歷史文獻資料庫索引。收錄《臺灣文獻叢刊資料庫》、《臺灣百年時空歷史知識庫（1895-2000）》及《臺灣百年寫真 GIS 資料庫》等資源。由於各子資料庫的使用門檻不一，存取前需個別檢閱該資源的網站規範。
 
 
