@@ -518,6 +518,8 @@ https://www.facebook.com/share/p/1HmY5TWMpL/
 APP
 - 警政服務 App，提供「防空疏散避難專區」查詢，也是用 Google My Map 提供各地區地圖
     - https://www.npa.gov.tw/ch/app/artwebsite/view?module=artwebsite&id=1061&serno=25d5dae3-2a7d-40ea-8016-e567912ac57c
+- 壯闊台灣建立 app，可以回報避難地點現況
+    - https://www.facebook.com/share/p/1DKZLxcEc7/
 
 ### 【Hong Kong 香港】香港社區應急設施地圖
 
