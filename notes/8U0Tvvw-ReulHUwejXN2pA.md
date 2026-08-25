@@ -163,6 +163,8 @@ https://www.facebook.com/watch/?v=1009691365453620&locale=zh_TW
     - 地下管線 
         - https://dig.taipei/Tpdig/Public/pipe3.html
         - 3D https://3dgis.reac.taipei/sgwptools/reac/Apps/pipe.html
+    - 新北市雨水下水道地理資訊系統
+https://wrd.ntpc.gov.tw/rwweb/GisJs/RWD/map_user.aspx
 - 台北市內水排水分區類型說明
     - 山坡地佔該範圍的比例
         - 第一類 玉成抽水站、新生建國抽水站、雙園抽水站、...等等
