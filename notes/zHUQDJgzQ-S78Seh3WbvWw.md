@@ -49,11 +49,22 @@ https://www.vtaiwan.tw/jitsi
 :::
 ## 自我介紹
 
+Bestian: 來測試的, 工程師, 自學家長
+凱文: 從事廣告相關行業, 花蓮(剛辦完活動), AI(遠端工作)
+Thompson: UX設計師, 在英國做審議, 喜歡攀岩
+Soth壽司: 行政助理, 老人服務社工, 因花蓮講座對vTaiwan好奇
+Allison: 高三, 想唸政治與法律, 明年秋天上大學
+Josh: 做研究, 人機互動&投票行為, 在瑞士
+Peter: vTaiwan坑主, 律師, 剛在花蓮辦活動
+Ellen: 快失業的文組生, 花蓮孝親中
+Billy: 災象回波週二小聚、參與週末花蓮跑咖松、找工作中的軟體工程師
+Tim: 轉職網站工程師, 資料視覺, 區塊鍵
+
 
 ## 小小的分享
 
 
-### Steno
+### Stenoai地端AI轉錄綜整測試
 > 我今天會測一下Stenoai的轉錄和綜整功能，實驗中，不確定會不會成功
 > https://github.com/audreyt/stenoai
 > [name=bestian]
@@ -61,3 +72,19 @@ https://www.vtaiwan.tw/jitsi
 
 ### 分組功能測試
 > 上次實測發現bug後，終於修好分組功能了，這次可以再實測一次了。[name=Bestian]
+
+
+### 花蓮活動
+- 整體而言很順利
+- 花蓮場相關資料：
+    - mentimeter: https://www.mentimeter.com/app/presentation/al6ct113mghrqdjz6mvsk5cv7yo2b1a6/edit?source=share-modal
+    - 簡報：https://docs.google.com/presentation/d/1e2Ui4RXx5zX_14DwjPsXUNplsrtqBpZn43IxkZ6pf78/edit?usp=sharing 
+- 活動紀錄：https://drive.google.com/drive/folders/1qneI-_tsiYfLx5Tf27vEEzyu6i-n8h5t 
+#### 收集到有趣的意見
+- 地方政治勢力可能會影響到數位工具的使用 [name=小海]
+    - 案例：里民服務的數位工具
+- 在思考在地方做審議時的差異 [name=小海]
+- 一個屬於在地屬性的工具＋一個有號召力的 KOL 搭配 [name=凱文]
+#### 推進方向
+- 爭取與議員以及東華大學合作的機會
+- 
