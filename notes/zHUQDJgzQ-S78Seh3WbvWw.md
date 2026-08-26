@@ -9,6 +9,8 @@ tags: vTaiwan
 
 https://www.vtaiwan.tw/jitsi 
 (請用Google登入以參與視訊並啟用轉錄功能)
+![](https://g0v.hackmd.io/_uploads/Hkxm8YIhwfe.png)
+![](https://g0v.hackmd.io/_uploads/HkW7UYU2vfl.png)
 
 
 ::: success
