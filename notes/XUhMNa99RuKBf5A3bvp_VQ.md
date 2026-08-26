@@ -339,7 +339,8 @@ NSHO00SCM15 Finding Summary
 3	Weak NTLM Session Security Configuration	Medium
 4	Inadequate Interactive Logon Security Configuration	Low
 5	Weak User Account Control Elevation Configuration	Medium
-6	Insecure ICMP Redirect Processing Configuration	Low
+6	Insecure 
+Redirect Processing Configuration	Low
 7	Insecure Local Account Password Configuration	Medium
 8	Missing Windows Security Updates	Medium
 9	Trusted Platform Module (TPM) Not Available	Low
