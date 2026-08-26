@@ -53,7 +53,10 @@ https://www.vtaiwan.tw/jitsi
 ## 小小的分享
 
 
-
+### Steno
+> 我今天會測一下Stenoai的轉錄和綜整功能，實驗中，不確定會不會成功
+> https://github.com/audreyt/stenoai
+> [name=bestian]
 
 
 ### 分組功能測試
