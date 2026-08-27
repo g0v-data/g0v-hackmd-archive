@@ -10,6 +10,7 @@ python3 -m venv test_venv
 # 3. 仮想環境を有効化（有効化するとターミナルの先頭に (test_venv) と表示されます）
 # Linux / macOS の場合:
 source test_venv/bin/activate
+＊現在使用しているQwentest.pyの環境変数は　qtestvenv
 
 # 4. この中でライブラリのインストールやエラーの検証を行う
 pip install --upgrade pip
