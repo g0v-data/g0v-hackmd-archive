@@ -30,6 +30,8 @@ https://g0v.hackmd.io/IOBJ82JSRFuodkB-M2FXFg?view
 - 責任採購：供應鏈上的勞動人權與環境正義 座談會
     - 12/26 講座活動網址
         - https://www.facebook.com/events/%E9%9B%86%E6%80%9D%E5%8C%97%E7%A7%91%E5%A4%A7%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83/%E8%B2%AC%E4%BB%BB%E6%8E%A1%E8%B3%BC%E4%BE%9B%E6%87%89%E9%8F%88%E4%B8%8A%E7%9A%84%E5%8B%9E%E5%8B%95%E4%BA%BA%E6%AC%8A%E8%88%87%E7%92%B0%E5%A2%83%E6%AD%A3%E7%BE%A9-%E5%BA%A7%E8%AB%87%E6%9C%83/752093878849874/
+- 「企業與人權國家行動計劃2.0」與「經濟部盡職調查」操作手冊和方案
+    - https://www.facebook.com/share/198v2xqDyP/
 - 歐盟企業用血盡責調查指令
     - https://facebook.com/events/s/eja%E8%AE%80%E6%9B%B8%E6%9C%83%E5%85%AD%E6%9C%88%E5%A0%B4%E8%A1%80%E8%88%87%E5%9C%9F%E8%AD%AF%E8%80%85%E5%A0%B4%E5%88%86%E4%BA%AB/775709796753291/
 - 環保署 - 綠色生活資訊網
