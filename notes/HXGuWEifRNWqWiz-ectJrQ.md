@@ -948,6 +948,78 @@ class Solution:
         return max_count
 
 ```
+### Longest Repeating Character Replacement(424)
+:::warning
+You are given a string s and an integer k. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most k times.
+
+Return the length of the longest substring containing the same letter you can get after performing the above operations.
+
+ 
+
+Example 1:
+
+Input: s = "ABAB", k = 2
+Output: 4
+Explanation: Replace the two 'A's with two 'B's or vice versa.
+Example 2:
+
+Input: s = "AABABBA", k = 1
+Output: 4
+Explanation: Replace the one 'A' in the middle with 'B' and form "AABBBBA".
+The substring "BBBB" has the longest repeating letters, which is 4.
+There may exists other ways to achieve this answer too.
+:::
+```
+from collections import defaultdict
+
+class Solution:
+
+    def characterReplacement(self, s: str, k: int) -> int:
+
+        # 紀錄目前 sliding window 中，每個字元出現的次數
+        freq = defaultdict(int)
+
+        # i 是 sliding window 的左指標
+        i = 0
+
+        # 紀錄目前找到的最長合法字串長度
+        num = 0
+
+        # j 是 sliding window 的右指標，不斷向右擴展
+        for j in range(len(s)):
+
+            # 將目前右指標指向的字元加入 window
+            # 並將該字元出現次數 +1
+            freq[s[j]] += 1
+
+            # 找出目前 window 中出現次數最多的字元
+            # 例如 AABA -> A 出現 3 次，所以 maxfreq = 3
+            maxfreq = max(freq.values())
+
+            # 計算目前 sliding window 的長度
+            currentLen = j - i + 1
+
+            # 需要替換的字元數
+            # = window 長度 - 出現最多次的字元數
+            #
+            # 如果需要替換的字元數 > k
+            # 代表目前 window 不合法，需要縮小 window
+            if currentLen - maxfreq > k:
+
+                # 將左指標目前指向的字元移出 window
+                # 所以該字元的出現次數 -1
+                freq[s[i]] -= 1
+
+                # 左指標向右移動，縮小 window
+                i += 1
+
+            # 更新目前找到的最長合法 window 長度
+            num = max(num, j - i + 1)
+
+        # 回傳最長可以透過最多 k 次替換
+        # 變成相同字元的子字串長度
+        return num
+```
 ### Permutation in String(567)
 :::warning
 Given two strings s1 and s2, return true if s2 contains a permutation of s1, or false otherwise.
