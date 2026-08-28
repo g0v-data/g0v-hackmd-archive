@@ -1,0 +1,2 @@
+LX88 - Nhà Cái Uy Tín LX88.COM T8/2026 Cá Cược Casino
+[lx88](https://lx88.icu/) là nền tảng trực tuyến được giới thiệu có giấy phép PAGCOR Philippines, mang đến nhiều lựa chọn giải trí gồm cược thể thao, nổ hũ, bắn cá, live casino, casino 3D và đá gà. Hội viên được hưởng chính sách hoàn trả tối đa 3% mỗi ngày, cùng hệ thống giao dịch 1:1 đa kênh 24/7 và tiêu chuẩn GLI về tính công bằng.
