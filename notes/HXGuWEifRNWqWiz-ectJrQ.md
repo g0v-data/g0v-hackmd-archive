@@ -2,6 +2,45 @@ leetcode-medium
 ===
 [toc]
 ## Arrays & Hashing
+### Product of Array Except Self(238)
+:::warning
+Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
+
+The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer.
+
+You must write an algorithm that runs in O(n) time and without using the division operation.
+
+ 
+
+Example 1:
+
+Input: nums = [1,2,3,4]
+Output: [24,12,8,6]
+Example 2:
+
+Input: nums = [-1,1,0,-3,3]
+Output: [0,0,9,0,0]
+:::
+```
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        n=len(nums)
+         # answer 先拿來存「左邊所有元素的乘積」
+        answer=[1]*n
+        prefix=1
+        # 第一輪：算每個位置左邊的乘積
+        for i in range(len(nums)):
+            answer[i]=prefix
+            prefix*=nums[i]
+        suff=1
+        for i in range(n-1,-1,-1):
+            # suffix 是「我右邊所有數字的乘積」
+            answer[i]*=suff
+            # 把我自己加入 suffix
+            # 給左邊的下一個人使用
+            suff*=nums[i]
+        return answer
+```
 ### Sort an Array(912)
 :::warning
 Given an array of integers nums, sort the array in ascending order and return it.
