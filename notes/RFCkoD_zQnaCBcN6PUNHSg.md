@@ -9,6 +9,7 @@
 
 ## 選前抱佛腳了嗎？－－那些選議員之前必須知道的大小事
 
+[簡報](https://docs.google.com/presentation/d/1P1MV1HlDQuN3bk3Yscc-5Oe4yOlFGfvd9G2F8x4gN44/edit?slide=id.p#slide=id.p)
 🔸 Ronny（歐噴公司創辦人、國會松發起人）
 
 ▍年底要議員選舉了，來認識一下議會長什麼樣子吧
@@ -16,7 +17,7 @@
 從歐噴整理地方議會資料的經驗出發，帶大家認識議會怎麼運作、有哪些資料，又能從資料裡看見哪些有趣的地方
 
 
-
+[簡報](https://www.canva.com/design/DAHTj9dT8Do/3X37WeW5tnsAS1NP6OBXXw/view?utm_content=DAHTj9dT8Do&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 🔸 里歐（彩虹平權大平台政治倡議專員）
 
 ▍看懂地方議會：從議事流程到政策監督
