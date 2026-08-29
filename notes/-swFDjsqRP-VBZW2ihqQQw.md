@@ -110,3 +110,7 @@ tags: tree
 
 - 相關案例標示在線上地圖：https://bit.ly/tree-taiwan-map
 - 案例清單：https://bit.ly/tree-taiwan-km
+- 上述是針對既有公有綠地增進綠化，也會有以下非綠地的區位
+    - [主題] 巷弄道路變更為公園或綠道化 / 12 米以下道路 / 路側公共設施帶_種樹_停車_休憩 https://photos.app.goo.gl/PothcgShgdY5ThrB8
+    - [主題] 各種綠化綠牆案例
+https://photos.app.goo.gl/nXfUz85dE2ffgAhq5
