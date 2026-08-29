@@ -14,7 +14,7 @@ tags: design, infra
 歡迎使用共用資料夾，存放檔案
 https://drive.google.com/drive/folders/13rrzprPswRSWH9jqeeTt_H-h8O-dob-H
 
-## 宣傳單 / 摺頁 / 出版品
+## 宣傳單 / 面紙包 / 摺頁 / 出版品
 
 g0v 外文文宣，日文、英文
 Content Credit: Peter / Design Credit: Tofus,Peter
@@ -22,6 +22,9 @@ https://docs.google.com/presentation/d/1EFaqJX_S0E25kmFXimrkP5yIX9VihLNbJkRJFmt8
 
 g0v 外文文宣，英文
 https://docs.google.com/document/d/1cyIeXCSnnEPMprYJtCy-EmNsIuti4kxv/edit?usp=drive_link&ouid=115613229829145960960&rtpof=true&sd=true
+
+面紙包 2026 開始
+https://g0v.hackmd.io/@jothon/rkRYZt-9Ze
 
 2025 摺頁 Passport to the g0v universe
 https://g0v.hackmd.io/8nYqYBChQliFk55hQlnP5Q?view
@@ -41,7 +44,6 @@ https://drive.google.com/drive/folders/1tGm9PY5I6FJ0XF0THMyAaMgSe5z9r49_?usp=dri
 
 大關東旗、桌上型關東旗
 - https://drive.google.com/drive/folders/1gWdw-RveU_sVEtg0AwA5E4De9IqVP4pa?usp=drive_link
-- (2024.12) chewei> 旗子的實體數量還很多 ! 建議不用再印製
 
 貼紙
 https://g0v.hackmd.io/FiMmi2-bRsavQff8LZNvUQ

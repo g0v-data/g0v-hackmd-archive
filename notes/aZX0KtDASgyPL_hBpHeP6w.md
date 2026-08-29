@@ -47,4 +47,8 @@ https://www.facebook.com/share/p/182TZpBiH8/
 石桓島上的土地公信仰
 https://www.facebook.com/share/p/18c8j1rMph/
 
+漢人信仰中的武德太子與宮古島
+https://photos.app.goo.gl/2uZqQRJ9Xyho32wr6
+
+
 用這個島嶼連帶範圍，共軍灰色侵略航跡 (空域、海域)，是否能一起彙整，了解整體狀況
