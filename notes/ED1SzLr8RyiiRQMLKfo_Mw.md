@@ -246,8 +246,6 @@ https://youtu.be/uBGMVzYGZao
 https://youtu.be/pqh6nFKWB7k
 https://youtube.com/playlist?list=PLAa_VvKySQ8b2VdW12-OGpwf37TKiOyVf&si=fqKzTGZrNMBdy2T-
 
-
-
 Ideology and Organization in Communist China 
 Franz Schurmann 1968 
 https://en.wikipedia.org/wiki/Ideology_and_Organization_in_Communist_China
@@ -262,7 +260,11 @@ Joseph Torigian 唐志學
 https://josephtorigian.com/
 https://www.american.edu/sis/faculty/torigian.cfm
 
+一人獨裁，造成規則缺失，亞派系的競逐方向並非政策效能，造成治理能力下降
+https://youtu.be/MrVSdzAdEY4
+
 China after Communism: Preparing for a Post-CCP China | Hudson Institute
 https://www.hudson.org/politics-government/china-after-communism-preparing-post-ccp-china-miles-yu
 https://vocus.cc/article/689e7753fd89780001414e7c
 https://youtu.be/8kN7tKjmct0
+https://youtu.be/SfAN2MfxMFI
