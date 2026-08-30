@@ -20,7 +20,7 @@ tags: GIS
 
 ### 台北城城牆石開採與建城階段
 
-- 岩場位置...?
+- 岩場位置 https://www.threads.com/share/BBJt5ks4Ur/
 - 市定古蹟內湖清代採石場規劃調查研究
     - [https://www.grb.gov.tw/search/planDetail?id=787326&docId=151392](https://www.grb.gov.tw/search/planDetail?id=787326&docId=151392)
 - Rebecca Lin：內湖金面山的清代採石場是市定古蹟。歷史沿革, 臺北盆地周圍盛產質地優良的石材，當清末光緒年間計畫興築臺北府城牆時，選擇內湖及大直一帶山區所產的石材作為建材。
