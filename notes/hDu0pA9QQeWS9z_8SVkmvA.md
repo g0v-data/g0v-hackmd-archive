@@ -23,13 +23,18 @@ Haja Center is a creative community space in Yeongdeungpo focused on learning-by
 
 ## 🎉 Welcome Party: [TBD]
 - Friday evening [TBD]
+- 18:00~20:00 
 
+## 🥗 Dinner on the 19th : [TBD]
+- Saturday evening [TBD]
+- 19:00~20:00 
+- 
 ## 🍺 Food + Bar + Culture
 Haja Center is in Yeongdeungpo, on the west side of Seoul. Some nearby areas worth exploring:
 
 - Mullae (문래) — old industrial district turned into a neighborhood of small studios, cafés, pubs, and independent cultural spaces
 - Yeongdeungpo (영등포) — lots of local restaurants, Korean BBQ, pubs, and late-night food
-- Yeouido (여의도) — Han River parks, skyline views, restaurants, and easy access from the venue
+- Yeouido (여의도) — Han River parks, skyline views, restaurants, easy to reach on Line 5
 - Hongdae / Hapjeong (홍대 / 합정) — more nightlife, live music, bars, cafés, and restaurants; easy to reach on Line 2
 
 More specific food / bar recommendations: [TBD]
@@ -52,8 +57,8 @@ A convenient option for reaching the venue area:
 Incheon International Airport (ICN) is Seoul's main international airport.
 
 #### 1. 🚌 Airport Bus — About 60 minutes
-- Take Airport Bus No. 6007
-- Get off at Sinhwa Hospital (신화요양병원)
+- Take Airport limousine Bus No. 6007
+- Get off at Sinhwa Hospital (신화병원)
 - Walk about 380m to Haja Center
 
 #### 2. 🚇 Airport Railroad (AREX) + Seoul Metro — About 75 minutes
@@ -65,7 +70,6 @@ Incheon International Airport (ICN) is Seoul's main international airport.
 
 
 #### From Gimpo International Airport (GMP)
-
 Gimpo Airport (GMP) is much closer to the venue and serves domestic flights plus some international routes within East Asia.
 
 #### 🚇 Seoul Metro — About 35 minutes
@@ -86,8 +90,6 @@ Taxis are available from designated taxi stands at both airports. For participan
 Several buses stop near Sinhwa Hospital (신화병원).
 
 #### 🚕 Taxi
-If you are traveling from elsewhere in Seoul, you can search for Haja Center (하자센터) on NAVER Maps, KakaoMap, or Google Maps. 
-
 You can also show the driver this address:
 
 - 하자센터: 서울특별시 영등포구 영신로 200
