@@ -1,0 +1,1 @@
+[hitclub](http://hitclub88.love/) tự hào khẳng định sự minh bạch, uy tín tuyệt đối thông qua các chứng chỉ hoạt động hợp pháp được cấp bởi những tổ chức kiểm định cá cược hàng đầu thế giới. Mọi hoạt động đặt cược của hội viên đều chịu sự giám sát chặt chẽ nhằm đảm bảo quyền lợi, sự công bằng tối đa trong mọi ván chơi.
