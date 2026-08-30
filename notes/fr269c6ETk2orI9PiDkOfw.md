@@ -12,10 +12,10 @@ tags: g0v-siliconvalley
 
 ## Agenda
 
-​10:00-10:30 報到
-​10:30-11:00 g0v 社群介紹＆自我介紹
-​11:00-11:30 短講分享
-​11:30-14:30 Hacking & 愛玉 DIY 體驗
+- 10:00-10:30 報到
+- 10:30-11:00 g0v 社群介紹＆自我介紹
+- 11:00-11:30 短講分享
+- 11:30-14:30 Hacking & 愛玉 DIY 體驗
 
 ## 筆記協作區
 
@@ -37,20 +37,40 @@ tags: g0v-siliconvalley
 計時 1 人 30 秒
 ```
 
-
 計時1人5分鐘
-#### 提案1  
-分享簡報：
 
-#### 提案2 
+#### 提案1：g0v Summit 2026 分享 (ky)
 
 分享簡報：
 
-#### 提案3   
+#### 提案2：憲庭加好友 (ipa)
+
 分享簡報：
-#### 提案4   
+
+#### 提案3：追蹤加州高鐵工程進度的儀表板 🚄 (RS)
+
+專案網址：<https://github.com/rschiang/hsr-dashboard>
+
+專案成果：<https://poren.tw/hsr-dashboard/>
+
+專案授權：Unlicense
+
 分享簡報：
-    
+
+{%speakerdeck rschiang/is-high-speed-rail-completed-yet-cahsr-construction-dashboard %}
+
+討論：
+
+- 想去公聽會！
+- 這只是土建儀表板，無法代表軌道跟系統建設完成
+- 沒有公佈的沒有完成的地方才是最關鍵的，可以讀資料
+
+
+#### 提案4：分享我自己跟 AI 一起協作的方式（大熊） 
+
+分享簡報：
+
+
 ### 成果分享
 
 
