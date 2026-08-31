@@ -5,12 +5,25 @@ tags: GIS,
 # 馬祖議題盤點 / 社群活動籌辦
 
 ## 陸海空交通轉乘評估工具
+
+轉貼：
+- 馬祖交通指南 Q&A
+    - 先說在前面：馬祖的交通真的有點任性
+    - 馬祖交通最需要準備的不是「怎麼去」，而是「遇到霧或風浪時怎麼辦」。
+    - 霧季大約落在每年 3 月至 5 月，班機可能臨時延誤或取消；這頁面讓你出發前有心理預期、出狀況時有一鍵查詢入口
+    - https://www.matsu.live/travel-guide/matsu-transportation-guide
+- 馬祖霧季安心指南：10 個你最在意的問題，一次說清楚
+    - https://www.matsu.live/travel-guide/fog-season-faq
 - https://etravel.matsu.gov.tw/
-- 縣內，縣市之間
+- 縣內
+- 縣市之間
+    - 台北市松山機場
+    - 基隆市基隆港
+    - 台中市台中機場
+    - 高雄市小港機場
 - 國內固定航班資訊
     - 出發港口、出發時間、到達港口、到達時間、航線、異動資訊
     - https://data.gov.tw/dataset/8236
-
 
 ## 災害事件地圖
 - https://www.lcfd.gov.tw/disaster/disaster_history/%e7%81%ab%e7%81%bd/

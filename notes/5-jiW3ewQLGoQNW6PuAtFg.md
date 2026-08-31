@@ -9,7 +9,8 @@
 - 由於局長秘書在詢問出席名單，因此想要詢問大家
 - 目前出席的有
     - Peter
-
+    - ronny
+- 簡報：https://docs.google.com/presentation/d/1hMp6YMRrf0Onxpiz2JxaJtRPI6qJJCOWkfeSN9kb2WA/edit?usp=sharing 
 
 
 ## 整體流程
