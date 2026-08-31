@@ -812,6 +812,127 @@ class Solution(object):
         # left == right 時，就是最小可行速度
         return left
 ```
+## Stack
+### Evaluate Reverse Polish Notation(150)
+:::warning
+You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.
+
+Evaluate the expression. Return an integer that represents the value of the expression.
+
+Note that:
+
+The valid operators are '+', '-', '*', and '/'.
+Each operand may be an integer or another expression.
+The division between two integers always truncates toward zero.
+There will not be any division by zero.
+The input represents a valid arithmetic expression in a reverse polish notation.
+The answer and all the intermediate calculations can be represented in a 32-bit integer.
+ 
+
+Example 1:
+
+Input: tokens = ["2","1","+","3","*"]
+Output: 9
+Explanation: ((2 + 1) * 3) = 9
+Example 2:
+
+Input: tokens = ["4","13","5","/","+"]
+Output: 6
+Explanation: (4 + (13 / 5)) = 6
+:::
+```
+class Solution:
+    def evalRPN(self, tokens: List[str]) -> int:
+        stack=[]
+        for i in tokens:
+            if i in ('+','-','*','/'):
+                # 先弹出的是右操作数，后弹出的是左操作数
+                op2=stack.pop()
+                op1=stack.pop()
+                if i == '+':
+                    stack.append(op1+op2)
+                if i == '-':
+                    stack.append(op1-op2)
+                if i == '*':
+                    stack.append(op1*op2)
+                if i == '/':
+                    stack.append(int(op1/op2))
+            else:
+                stack.append(int(i))
+        return stack.pop()
+```
+### Min Stack(155)
+:::warning
+Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+
+Implement the MinStack class:
+
+MinStack() initializes the stack object.
+void push(int value) pushes the element value onto the stack.
+void pop() removes the element on the top of the stack.
+int top() gets the top element of the stack.
+int getMin() retrieves the minimum element in the stack.
+You must implement a solution with O(1) time complexity for each function.
+
+ 
+
+Example 1:
+
+Input
+["MinStack","push","push","push","getMin","pop","top","getMin"]
+[[],[-2],[0],[-3],[],[],[],[]]
+
+Output
+[null,null,null,null,-3,null,0,-2]
+
+Explanation
+MinStack minStack = new MinStack();
+minStack.push(-2);
+minStack.push(0);
+minStack.push(-3);
+minStack.getMin(); // return -3
+minStack.pop();
+minStack.top();    // return 0
+minStack.getMin(); // return -2
+:::
+```
+class MinStack:
+
+    def __init__(self):
+        # 正常的 stack
+        self.stack = []
+
+        # 專門記錄最小值的 stack
+        self.min_stack = []
+
+    def push(self, val: int) -> None:
+        # 正常加入 stack
+        self.stack.append(val)
+
+        # 如果 min_stack 是空的
+        # 或新的 val <= 目前最小值
+        # 就把 val 也加入 min_stack
+        if not self.min_stack or val <= self.min_stack[-1]:
+            self.min_stack.append(val)
+
+    def pop(self) -> None:
+        # 如果要刪掉的元素
+        # 剛好是目前最小值
+        if self.stack[-1] == self.min_stack[-1]:
+            self.min_stack.pop()
+
+        # 正常刪除 stack 最上面的元素
+        self.stack.pop()
+
+    def top(self) -> int:
+        # stack 最上面的元素
+        return self.stack[-1]
+
+    def getMin(self) -> int:
+        # min_stack 最上面的元素
+        # 永遠代表目前最小值
+        return self.min_stack[-1]
+```
 ## Linked List
 ### Find the Minimum and Maximum Number of Nodes Between Critical Points(2058)
 :::warning
