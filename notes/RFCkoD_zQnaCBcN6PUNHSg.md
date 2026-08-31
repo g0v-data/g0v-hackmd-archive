@@ -1,4 +1,4 @@
-# 20260829 第貳拾參次國會松
+# 20260829 第貳拾肆次國會松
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 :::danger
