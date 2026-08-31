@@ -30,6 +30,7 @@ tags: GIS
 - 都市氣候圖？
 - 城市風場模擬 
     - https://g0v.hackmd.io/VwSu0iYRT9-wbVe53qj-dA
+- 閃電分佈 https://www.facebook.com/share/p/19C4RLRyRV/
 09 都市發展．先西後東 050
 10 臺北「式」的商業空間 054
 11 文化軸道 064
