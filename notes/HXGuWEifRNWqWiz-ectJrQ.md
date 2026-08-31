@@ -812,7 +812,63 @@ class Solution(object):
         # left == right 時，就是最小可行速度
         return left
 ```
+## Linked List
+### Find the Minimum and Maximum Number of Nodes Between Critical Points(2058)
+:::warning
+A critical point in a linked list is defined as either a local maxima or a local minima.
 
+A node is a local maxima if the current node has a value strictly greater than the previous node and the next node.
+
+A node is a local minima if the current node has a value strictly smaller than the previous node and the next node.
+
+Note that a node can only be a local maxima/minima if there exists both a previous node and a next node.
+
+Given a linked list head, return an array of length 2 containing [minDistance, maxDistance] where minDistance is the minimum distance between any two distinct critical points and maxDistance is the maximum distance between any two distinct critical points. If there are fewer than two critical points, return [-1, -1].
+![](https://g0v.hackmd.io/_uploads/BkgCpNaGdMg.png)
+
+:::
+```
+class Solution:
+    def nodesBetweenCriticalPoints(self, head: Optional[ListNode]) -> List[int]:
+        # 少於 3 個節點，不可能有 critical point
+        if head.next.next==None:
+            return [-1, -1]
+        
+        # 第一個 critical point 的位置
+        first = -1
+
+        # 上一個 critical point 的位置
+        prev_critical = -1
+
+        # index = 1，因為目前檢查的是 head.next
+        i=1
+
+        # 最小距離
+        min_dist = float('inf')# 假設是正無限大
+        while head.next and head.next.next :
+            current=head.next
+            if (current.val<head.val and current.val<current.next.val) or (current.val>head.val and current.val>current.next.val):
+                # 第一個 critical point
+                if first == -1:
+                    first = i
+
+                else:
+                    # 計算與上一個 critical point 的距離
+                    min_dist = min(min_dist, i - prev_critical)
+
+                # 更新上一個 critical point
+                prev_critical = i
+            i+=1
+            head=current
+        
+        # 不到兩個 critical points
+        if min_dist == float('inf'):
+            return [-1, -1]
+
+        # 最大距離 = 最後一個 - 第一個
+        max_dist = prev_critical - first
+        return [min_dist, max_dist]
+```
 ## Reverse Integer
 ::: warning
 Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-2^31, 2^31 - 1], then return 0.
