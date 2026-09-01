@@ -25,10 +25,13 @@ Haja Center is a creative community space in Yeongdeungpo focused on learning-by
 - Friday evening [TBD]
 - 18:00~20:00 
 
-## 🥗 Dinner on the 19th : [TBD]
-- Saturday evening [TBD]
-- 19:00~20:00 
-- 
+## 🥗 Dinner on the 19th 
+- Saturday evening (19:00~21:00) 
+- [봄담아] https://naver.me/GZZutCK3 
+- Shabu-shabu
+- Vegan Recommendation - Sukiyaki based
+- 253m from Exit 3 of 문래역 (Mullae Station) on Subway Line 2
+
 ## 🍺 Food + Bar + Culture
 Haja Center is in Yeongdeungpo, on the west side of Seoul. Some nearby areas worth exploring:
 
