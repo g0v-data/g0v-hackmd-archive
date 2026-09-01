@@ -54,6 +54,10 @@ https://www.matsu.gov.tw/chhtml/content/371050000A0010LD/2657
 連江縣政發展計畫規劃案-遊客承載量評估
 https://functionofcity.net/
 
+## 語言文字
+
+https://www.facebook.com/shangkuanlc/posts/pfbid0bJDbG8iEgZuCurgrvriKA5niiGxiauTDpik7BJkwE83jnYWC8czBYGmD1yCWtufkl?locale=zh_TW
+
 ---
 
 ## 活動籌辦工作區
