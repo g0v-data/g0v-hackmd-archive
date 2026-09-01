@@ -25,6 +25,10 @@ https://www.facebook.com/groups/chizutochimei/posts/3156766061143172/
 
 ## 待登載區
 
+
+東洋針路、南島之路
+https://www.facebook.com/share/v/1GnJVwjxUU/
+
 徹底再現三萬年前航海 學古人從台灣划到日本沖繩 https://dq.yam.com/post/9978
 
 蘭嶼達悟族 2025 年秋天將勇渡巴丹島 https://photos.app.goo.gl/YXMfQVNQifobUq6q6
