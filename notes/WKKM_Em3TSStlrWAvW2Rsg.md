@@ -52,6 +52,19 @@ Contractor新申請: NONPCLFY23-NHB-SEP-TAOYUAN-737 MS:43-CHAOYULIN (CTR)
 
 
 
+要開單給網路team 
+說要把需要聯的人家到下面這個MTgroup
+NETACCESS_FAB16N_TOOLS
+ 
+可以開這張單然後敘述請network team 處理
+ 
+Report a Non-Manufacturing Incident
+Report a Non-Manufacturing Incident - ITNow (service-now.com)
+
+
+
+
+
 SCCM
 
 [上午 09:18] Jovi Yu 游 明智
