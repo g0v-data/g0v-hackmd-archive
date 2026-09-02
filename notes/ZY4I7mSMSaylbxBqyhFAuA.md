@@ -62,3 +62,18 @@ Tim: 轉職網站工程師, 資料視覺, 區塊鍵
 
 
 ## 小小的分享
+
+
+### pockect-polis
+
+豆泥製作的[pocket-polis](https://github.com/mashbean/pocket-polis/)，。
+
+兩個pr皆已由上游merged。
+
+au已將[其fork版](https://github.com/audreyt/pocket-polis/)部署填補上斷網的[polis.tw](https://polis.tw)，並表示
+
+"也可以問問 mashbean 要不要一起在 g0v/pocket-polis 底下維護，如果大家願意一起維護我就 transfer 進去。"
+
+"今天起三天會離線… 我先都放在 gh 上看大家想如何處理都 OK，polis.tw 我也可以移到 CF vtaiwan account 去"
+
+原始slack貼文串：https://g0v-tw.slack.com/archives/C2Q1M4N1J/p1788257243485279?thread_ts=1788244073.376959&cid=C2Q1M4N1J
