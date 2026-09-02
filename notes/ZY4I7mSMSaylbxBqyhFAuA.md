@@ -51,8 +51,13 @@ https://www.vtaiwan.tw/jitsi
 
 
 
-
 ## 小小的分享
+
+### 程序動議
+
+> 建議以下"拜會台北市政府資訊局"分享用主房間，開紫麥轉錄(小房間的人可以看到轉錄文字)；"pockect-polis"用小房間，不開轉錄(想和豆泥討論一些工程的事情)。不知Peter覺得此方案可行否?  [name=bestian]
+- 豆泥
+
 ### 拜會台北市政府資訊局
 ![](https://g0v.hackmd.io/_uploads/Bya7hvSdGl.jpg)
 - [vTaiwan 20260901 拜會交流](/5-jiW3ewQLGoQNW6PuAtFg)
@@ -63,19 +68,23 @@ https://www.vtaiwan.tw/jitsi
 - vTaiwan 目前缺的是智庫功能。 當年蔡玉玲政委模式能每週處理一個議題，關鍵是有資策會科法所在後面做政策研究。沒有全職人力與研究能量，產出難以達到機關可用的品質。
 - 不要主動提議題，要從機關的痛點切入。 主動提案會被視為與公民團體倡議、或與 JOIN 平台功能重疊；從「研考會現在卡在哪裡、我們有什麼工具與實績可以解」切入才有銜接點。
 
+
+
 ### pockect-polis
 
-豆泥製作的[pocket-polis](https://github.com/mashbean/pocket-polis/)，。
+豆泥製作的[pocket-polis](https://github.com/mashbean/pocket-polis/)，許多[pr](https://github.com/mashbean/pocket-polis/pulls?q=is%3Apr+is%3Aclosed)皆已由上游merged。
 
-兩個pr皆已由上游merged。
+au已將[其fork版](https://github.com/audreyt/pocket-polis/)部署填補上斷網的[polis.tw](https://polis.tw)，並表示:
 
-au已將[其fork版](https://github.com/audreyt/pocket-polis/)部署填補上斷網的[polis.tw](https://polis.tw)，並表示
+> "也可以問問 mashbean 要不要一起在 g0v/pocket-polis 底下維護，如果大家願意一起維護我就 transfer 進去。"
 
-"也可以問問 mashbean 要不要一起在 g0v/pocket-polis 底下維護，如果大家願意一起維護我就 transfer 進去。"
-
-"今天起三天會離線… 我先都放在 gh 上看大家想如何處理都 OK，polis.tw 我也可以移到 CF vtaiwan account 去"
+> "今天起三天會離線… 我先都放在 gh 上看大家想如何處理都 OK，polis.tw 我也可以移到 CF vtaiwan account 去"
 
 原始slack貼文串：https://g0v-tw.slack.com/archives/C2Q1M4N1J/p1788257243485279?thread_ts=1788244073.376959&cid=C2Q1M4N1J
+
+
+
+
 
 ## 推進 AI 審議手冊相關內容
 

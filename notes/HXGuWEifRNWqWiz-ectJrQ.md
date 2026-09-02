@@ -934,6 +934,104 @@ class MinStack:
         return self.min_stack[-1]
 ```
 ## Linked List
+### Remove Nth Node From End of List(19)
+:::warning
+Given the head of a linked list, remove the nth node from the end of the list and return its head.
+
+ 
+
+Example 1:
+![](https://g0v.hackmd.io/_uploads/ry-nNR_S_zl.png)
+
+
+Input: head = [1,2,3,4,5], n = 2
+Output: [1,2,3,5]
+:::
+==brute force==
+```
+class Solution:
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        # 如果 linked list 為空或只有一個節點，直接回傳 None
+        # （不過這行應該用 or，下面補充）
+        if head == None or head.next == None:
+            return None
+
+        # temp 用來走訪 linked list，不影響 head 的位置
+        temp = head
+
+        # 記錄 linked list 總共有幾個節點
+        count = 0
+
+        # 從頭走到尾，計算 linked list 長度
+        while temp:
+            temp = temp.next
+            count += 1
+
+        # 如果 n == 總長度，代表要刪除的是第一個節點
+        # 直接回傳第二個節點作為新的 head
+        if count == n:
+            return head.next
+
+        # 計算「從前面數」要刪除節點的位置
+        x = count - n
+
+        # temp 重新回到 head
+        temp = head
+
+        # 讓 temp 移動到「要刪除節點的前一個節點」
+        while x > 1:
+            temp = temp.next
+            x -= 1
+
+        # 跳過要刪除的節點
+        temp.next = temp.next.next
+
+        # 回傳原本的 head
+        return head
+```
+==two pointer==
+```
+class Solution:
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+
+        # 建立 dummy node，讓 dummy.next 指向原本的 head
+        # 使用 dummy 的好處：
+        # 如果要刪除的剛好是 head，也不需要另外做特殊判斷
+        #
+        # dummy -> 1 -> 2 -> 3 -> 4 -> 5
+        dummy = ListNode(0, head)
+
+        # fast 和 slow 一開始都指向 dummy
+        fast = dummy
+        slow = dummy
+
+        # 讓 fast 先往前走 n + 1 步
+        # 這樣 fast 和 slow 之間就會保持 n + 1 的距離
+        #
+        # 多走的這 1 步，是為了讓最後 slow
+        # 停在「要刪除節點的前一個節點」
+        for i in range(n + 1):
+            fast = fast.next
+
+        # fast 和 slow 同時往前移動
+        # 一直到 fast 走到 None
+        while fast:
+            fast = fast.next
+            slow = slow.next
+
+        # 此時 slow 剛好停在「要刪除節點的前一個」
+        #
+        # slow.next      = 要刪除的節點
+        # slow.next.next = 要刪除節點的下一個
+        #
+        # 讓 slow 直接連到下一個節點
+        # 就等於把中間的節點跳過（刪除）
+        slow.next = slow.next.next
+
+        # dummy.next 就是真正的 linked list head
+        # 即使原本的 head 被刪除，也可以正確回傳新的 head
+        return dummy.next
+```
 ### Find the Minimum and Maximum Number of Nodes Between Critical Points(2058)
 :::warning
 A critical point in a linked list is defined as either a local maxima or a local minima.
