@@ -23,8 +23,8 @@ tags:
     - ![](https://g0v.hackmd.io/_uploads/BklceEWwdfl.png)
     - 百年歷史地圖圖台 https://gissrv4.sinica.edu.tw/gis/taipei.aspx
 - 三市街地區水系
-    - https://www.facebook.com/groups/582154450196478/posts/1142484127496838
-- 灌溉系統 https://goo.gl/maps/BM1KwtabJYzQRaU9A
+    - 例如雙連陂 https://www.facebook.com/groups/582154450196478/posts/1142484127496838
+- 平原東側灌溉系統 https://goo.gl/maps/BM1KwtabJYzQRaU9A
     - 備註：下圖僅呈現 1932 年的水利組合圳路 (黃色線條)
     - ![](https://g0v.hackmd.io/_uploads/HkBPAlP_ze.png)
     - 1895年水權判決〈奉憲示禁〉記載石碑，「摘自文章：淡水知縣聽完雙方說法之後，在 1895 年 1 月 14 日（新曆）判定下游五庄勝訴...〈奉憲示禁〉石碑被立在市民大道四段 71 號中崙福成宮旁。由於是近年才被發現，重新立起的石碑，無法確定此處是不是當年立碑的原址。但中崙福成宮位在五庄之一的中崙庄，坐北朝南面臨大灣，是庄內的信仰中心，又是水圳的源頭，可說是相當合理的立碑處。」
