@@ -993,6 +993,58 @@ class MinStack:
         return self.min_stack[-1]
 ```
 ## Linked List
+### Add Two Numbers(2)
+:::warning
+You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
+
+You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+![](https://g0v.hackmd.io/_uploads/rkgJ_D6UdGl.png)
+:::
+```
+class Solution:
+    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+        dummy = ListNode(0)
+        tail = dummy
+        count = 0
+
+        while l1 != None or l2 != None or count != 0:
+
+            # 取得 l1 當前數字
+            if l1 != None:
+                digit1 = l1.val
+            else:
+                digit1 = 0
+
+            # 取得 l2 當前數字
+            if l2 != None:
+                digit2 = l2.val
+            else:
+                digit2 = 0
+
+            # 當前兩個數字 + 上一位進位
+            total = digit1 + digit2 + count
+
+            # 這一位要存的數字
+            digit = total % 10
+
+            # 計算進位
+            count = total // 10
+
+            # 建立新節點
+            new = ListNode(digit)
+            tail.next = new
+            tail = tail.next
+
+            # l1 往下一個節點
+            if l1 != None:
+                l1 = l1.next
+
+            # l2 往下一個節點
+            if l2 != None:
+                l2 = l2.next
+
+        return dummy.next
+```
 ### Remove Nth Node From End of List(19)
 :::warning
 Given the head of a linked list, remove the nth node from the end of the list and return its head.
