@@ -107,7 +107,8 @@ au已將[其fork版](https://github.com/audreyt/pocket-polis/)部署填補上斷
     - 請昱均提出幾個政策的方案？
 - google slides 
 - mentimeter - 政策意見上
-- pocket-polis 
+- pocket-polis
+- (補充: 前陣子請 AI 規劃審議流程，[連結](https://app.notion.com/p/AI-3b83377fe3ec80b98f80e762cff81c51?source=copy_link)供參 [name=Tim])
 ### 流程
 - 19:00-21:30 
 - 第一小時：議題分享 / 上一次活動回顧：45min
