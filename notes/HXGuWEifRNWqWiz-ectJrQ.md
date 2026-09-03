@@ -1,6 +1,65 @@
 leetcode-medium
 ===
 [toc]
+
+## Math
+### Construct Uniform Parity Array II(3876)
+:::warning
+You are given an array nums1 of n distinct integers.
+
+You want to construct another array nums2 of length n such that the elements in nums2 are either all odd or all even.
+
+For each index i, you must choose exactly one of the following (in any order):
+
+nums2[i] = nums1[i]
+nums2[i] = nums1[i] - nums1[j], for an index j != i, such that nums1[i] - nums1[j] >= 1
+Return true if it is possible to construct such an array, otherwise return false.
+
+ 
+
+Example 1:
+
+Input: nums1 = [1,4,7]
+
+Output: true
+
+Explanation:
+
+Set nums2[0] = nums1[0] = 1.
+Set nums2[1] = nums1[1] - nums1[0] = 4 - 1 = 3.
+Set nums2[2] = nums1[2] = 7.
+nums2 = [1, 3, 7], and all elements are odd. Thus, the answer is true.
+Example 2:
+
+Input: nums1 = [2,3]
+
+Output: false
+
+Explanation:
+
+It is not possible to construct nums2 such that all elements have the same parity. Thus, the answer is false.
+:::
+```
+# 奇數-奇數=偶數
+# 偶數-偶數=偶數
+# 奇數-偶數=奇數
+# 偶數-奇數=奇數
+
+class Solution:
+    def uniformArray(self, nums1: list[int]) -> bool:
+        # 找最小值
+        smallest=min(nums1)
+        # 最小值是奇數：
+        # 所有偶數都可以減掉 m 變成奇數
+        if smallest%2==1:
+            return True
+        # 最小值是偶數：
+        # 檢查是不是全部都是偶數
+        for i in nums1:
+            if i%2==1 and i>smallest:
+                return False
+        return True
+```
 ## Arrays & Hashing
 ### Product of Array Except Self(238)
 :::warning
