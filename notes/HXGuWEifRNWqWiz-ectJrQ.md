@@ -1143,6 +1143,124 @@ class Solution:
         # 即使原本的 head 被刪除，也可以正確回傳新的 head
         return dummy.next
 ```
+### Reorder List
+:::warning
+You are given the head of a singly linked-list. The list can be represented as:
+
+L0 → L1 → … → Ln - 1 → Ln
+Reorder the list to be on the following form:
+
+L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
+You may not modify the values in the list's nodes. Only nodes themselves may be changed.
+![](https://g0v.hackmd.io/_uploads/B1X1LgDdGg.png)
+
+:::
+:::info
+1. Fast / Slow Pointer
+   找 Linked List 中點
+
+2. Reverse Linked List
+   反轉後半段
+
+3. Merge Linked List
+   兩條 Linked List 交錯合併
+:::
+```
+class Solution:
+    def reorderList(self, head: Optional[ListNode]) -> None:
+        """
+        Do not return anything, modify head in-place instead.
+        """
+
+        # =========================
+        # Step 1：找到 Linked List 中間位置
+        # =========================
+
+        # slow 每次走一步
+        slow = head
+
+        # fast 每次走兩步
+        fast = head
+
+        # 當 fast 走到尾端時，slow 剛好會在中間附近
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+
+
+        # =========================
+        # Step 2：把 Linked List 分成兩半
+        # =========================
+
+        # second 指向後半段的開頭
+        second = slow.next
+
+        # 將前半段與後半段斷開
+        slow.next = None
+
+
+        # =========================
+        # Step 3：Reverse Second Half
+        # 反轉後半段 Linked List
+        # =========================
+
+        # prev 紀錄目前節點的「前一個節點」
+        # 一開始前面沒有任何節點，所以是 None
+        prev = None
+
+        # curr 指向目前正在處理的節點
+        # 從 second（後半段）開始
+        curr = second
+
+        # 只要 curr 還有節點，就繼續反轉
+        while curr:
+
+            # 先保存 curr 原本的下一個節點
+            # 因為等等 curr.next 會被修改
+            temp = curr.next
+
+            # 將目前節點反過來指向前一個節點
+            curr.next = prev
+
+            # prev 移動到目前的 curr
+            prev = curr
+
+            # curr 移動到原本的下一個節點
+            curr = temp
+
+
+        # =========================
+        # Step 4：交錯合併兩條 Linked List
+        # =========================
+
+        # first 指向前半段開頭
+        first = head
+
+        # prev 是反轉完成後，後半段新的 head
+        second = prev
+
+        # 只要後半段還有節點，就繼續合併
+        while second:
+
+            # 先保存 first 原本的下一個節點
+            # 避免修改 first.next 後找不到
+            temp1 = first.next
+
+            # 先保存 second 原本的下一個節點
+            temp2 = second.next
+
+            # 將 second 插到 first 後面
+            first.next = second
+
+            # second 再接回 first 原本的下一個節點
+            second.next = temp1
+
+            # first 移動到前半段下一個要處理的節點
+            first = temp1
+
+            # second 移動到後半段下一個要處理的節點
+            second = temp2
+```
 ### Find the Minimum and Maximum Number of Nodes Between Critical Points(2058)
 :::warning
 A critical point in a linked list is defined as either a local maxima or a local minima.

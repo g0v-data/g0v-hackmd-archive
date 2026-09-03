@@ -48,6 +48,9 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
 - [重要] 評估數化新生大排興建前的時期的水路概況
     - 可挑選 1904 日治二萬分之一台灣堡圖(明治版)	
     - 工作文件 https://g0v.hackmd.io/@chewei/xinsheng-watershed/https%3A%2F%2Fg0v.hackmd.io%2FpXs8pL8iSdGSl1vEFwUVVg%3Fview
+- [重要] 台車線、礦業、煉瓦場
+    - https://www.facebook.com/groups/tcmcu.rail/posts/6209024002546037
+    - https://www.google.com/maps/d/viewer?mid=19il7JkRjkRTPqHIdY6GMa-irHpx4AP8&g_ep=CAESCjExLjEzMC4xMDIYACDdYipRLDk0MjQyNjA3LDk0MjEyNDk2LDk0MjA3NTA2LDk0MjA4NTA2LDk0MjE3NTIzLDk0MjE4NjUzLDQ3MDg3MTE4LDQ3MDg0MzkzLDk0MjEzMjAwQgJUVw%3D%3D&shorturl=1&ll=24.91367450255746%2C121.03510801051046&z=13
 - [重要] 1933 年開始，台北市中央排水溝工事 / 特第一號路線工事 各類圖說文件
     - https://www.facebook.com/media/set?set=oa.1335277828310300&type=3
 - [重要] 重劃區
