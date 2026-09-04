@@ -17,6 +17,8 @@ tags:
 ### 1895 之前 佃權水利、三市街
 - 《Raonoonoo當河流串起靈魂：凱達格蘭的記憶與重生之路》https://www.facebook.com/media/set?set=oa.3075478775982452&type=3
     - 包含荷蘭東印度公司文件、西班牙傳教士文件、伊能嘉矩文件
+- 1654 年大臺北古地圖《淡水與其附近村社暨雞籠島略圖》
+    - ![](https://g0v.hackmd.io/_uploads/B1lTLg2wOMl.png)
 - 移民開墾與平埔族群
     - 轉貼自貼文：臺大校總區這塊地在清代常叫內埔仔。乾隆四年（1739年），一位名為「林冉向」的漢人，向「奇武子」此平埔族番社的成員「徹仔」，取得內埔仔一帶的土地開墾。乾隆十年正月（1745年），該社的領導者—即所謂「土官」—將「土名大佳臘南勢內埔仔」的「樹林埔」，在通事何輝澤的介紹下，招來「漢人何及展伐開樹林，后日築坡圳，墾成田業」。這是目前已知最早的漢人入墾今日臺大校總區的紀錄。換言之，在十八世紀時，臺大校總區的土地為「奇武子」此平埔族聚落所有，原本是一片森林。
         - 來源：https://www.facebook.com/kuangchi.hung/posts/pfbid0AyYxSk5acb4gUzN5CZCdXVGfHkhnvJTVpmXWiUpWXNo3ZVABkBTyymH4y3mUGfiZl
@@ -29,19 +31,23 @@ tags:
     - ![](https://g0v.hackmd.io/_uploads/HkBPAlP_ze.png)
     - 1895年水權判決〈奉憲示禁〉記載石碑，「摘自文章：淡水知縣聽完雙方說法之後，在 1895 年 1 月 14 日（新曆）判定下游五庄勝訴...〈奉憲示禁〉石碑被立在市民大道四段 71 號中崙福成宮旁。由於是近年才被發現，重新立起的石碑，無法確定此處是不是當年立碑的原址。但中崙福成宮位在五庄之一的中崙庄，坐北朝南面臨大灣，是庄內的信仰中心，又是水圳的源頭，可說是相當合理的立碑處。」
     - ![](https://g0v.hackmd.io/_uploads/rJg0id-w_fe.png)
+- 路網
+    - 例如清代艋南義路，路線約是由今日萬華區出發，行經中正區，最終抵達文山區公館一帶的道路 https://www.facebook.com/groups/582154450196478/posts/1422481302830451?locale=zh_TW
+    - ![](https://g0v.hackmd.io/_uploads/SJxGvtoDOzx.png)
 - 河運渡口
 - 鐵路
 
 ### 1895-1932 都市建構、維生設施、產業設施
 - 市區改正範圍、臺北城內市區計畫、城外南方市區計畫、東門
-- 水源地 https://g0v.hackmd.io/@chewei/xindian-river-watershed/https%3A%2F%2Fg0v.hackmd.io%2FXO_88b6mQpe2QbEpRmiJRQ%3Fview
+- 水源地選址於今日城南小觀音山 https://g0v.hackmd.io/@chewei/xindian-river-watershed/https%3A%2F%2Fg0v.hackmd.io%2FXO_88b6mQpe2QbEpRmiJRQ%3Fview
 - 治水政策方案
     - 《島都之河》https://www.facebook.com/groups/582154450196478/posts/1437315918013656
     - 日治時期臺灣近代都市颱風水災災害防治發展之調查研究 https://www.facebook.com/media/set/?set=oa.1696741224851156&type=3
 - 礦業與台車路線 https://www.google.com/maps/d/viewer?mid=19il7JkRjkRTPqHIdY6GMa-irHpx4AP8&g_ep=CAESCjExLjEzMC4xMDIYACDdYipRLDk0MjQyNjA3LDk0MjEyNDk2LDk0MjA3NTA2LDk0MjA4NTA2LDk0MjE3NTIzLDk0MjE4NjUzLDQ3MDg3MTE4LDQ3MDg0MzkzLDk0MjEzMjAwQgJUVw%3D%3D&shorturl=1&ll=24.91367450255746%2C121.03510801051046&z=13
-- 製造業
-- 電力
+    - ![](https://g0v.hackmd.io/_uploads/H1xROviwuGe.png)
 - 各類專業機構設置
+- 製造業
+- 電力系統
 - 1922 年往東併入郊外十村落
 - 1928 設立帝國大學 
 
