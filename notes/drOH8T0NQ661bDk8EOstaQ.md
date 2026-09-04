@@ -1,0 +1,1 @@
+[PG99](https://pg99.guru/) là nền tảng giải trí trực tuyến được xây dựng theo phong cách hiện đại, hướng đến sự thuận tiện trong quá trình truy cập và sử dụng. Giao diện được bố trí rõ ràng, giúp người dùng dễ dàng tìm kiếm các chuyên mục và khám phá nội dung theo nhu cầu.

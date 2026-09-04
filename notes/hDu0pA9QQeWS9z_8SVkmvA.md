@@ -10,9 +10,9 @@ tags: FtO, g0v-intl
     - Address: 200 Yeongsin-ro, Yeongdeungpo District, Seoul ([Google Maps](https://maps.app.goo.gl/HEdT756pghTgKfEN9)) ([NAVER Maps](https://naver.me/FG3SnyDm))
     - ==NO smoking NO alcohol in the venue!==
 
+## Sign up for project pitches and short talks
 
-> **Sign-up to FtO Seoul 2026** :ocean:  
-https://forms.gle/spRvU2nLN1F5tmEc8 
+
 
 ## Venue
 - https://haja.net/
@@ -21,29 +21,42 @@ https://forms.gle/spRvU2nLN1F5tmEc8
 
 Haja Center is a creative community space in Yeongdeungpo focused on learning-by-doing, youth projects, craftsmanship, and community building.
 
-## 🎉 Welcome Party: [TBD]
-- Friday evening [TBD]
-- 18:00~20:00 
+## 🎉 Welcome Party
+- Friday 18th September evening 
+- 18:00~20:00
+- [헤이그라운드 서울숲점 Heyground Seoul Forest] https://maps.app.goo.gl/aEK4FZFAR4Z5Peap8
+- You need to have registered to attend
 
 ## 🥗 Dinner on the 19th 
-- Saturday evening (19:00~21:00) 
-- [봄담아] https://naver.me/GZZutCK3 
-- Shabu-shabu
-- Vegan Recommendation - Sukiyaki based
-- 253m from Exit 3 of 문래역 (Mullae Station) on Subway Line 2
+- Saturday 19th September evening
+- 19:00~21:00
+- [봄담아] (Naver maps) https://naver.me/GZZutCK3
+(Google maps) https://maps.app.goo.gl/gzFg6X4PDvUijxBh9
+- Menu: Shabu-shabu (hot pot)
+- Vegan Recommendation - Sukiyaki based soup
+- 253m from Exit 3 of 문래역 (Mullae Station) on Subway Line 2, 20min walk from the venue
 
 ## 🍺 Food + Bar + Culture
 Haja Center is in Yeongdeungpo, on the west side of Seoul. Some nearby areas worth exploring:
 
-- Mullae (문래) — old industrial district turned into a neighborhood of small studios, cafés, pubs, and independent cultural spaces
-- Yeongdeungpo (영등포) — lots of local restaurants, Korean BBQ, pubs, and late-night food
-- Yeouido (여의도) — Han River parks, skyline views, restaurants, easy to reach on Line 5
-- Hongdae / Hapjeong (홍대 / 합정) — more nightlife, live music, bars, cafés, and restaurants; easy to reach on Line 2
+- Mullae (문래 文來) — old industrial district turned into a neighborhood of small studios, cafés, pubs, and independent cultural spaces
+- Yeongdeungpo (영등포 永登浦) — lots of local restaurants, Korean BBQ, pubs, and late-night food
+- Yeouido (여의도 汝矣島) — Han River parks, skyline views, restaurants, easy to reach on Line 5
+- Hongdae / Hapjeong (홍대 弘大 / 합정 合井) — more nightlife, live music, bars, cafés, and restaurants; easy to reach on Line 2
 
 More specific food / bar recommendations: [TBD]
 
 ## Hotel
-- ...
+Hongdae (弘大) and Hapjeong (合井) area has many more choices for accommodation and is relatively near to the venue (within 30mins by public transport, door to door).
+- [Local Stitch Creator Town Seogyo](https://localstitch.town/): A great choice for people who like to combine laptop and fun (they have a nice coworking lounge). Booking at their website is usually cheaper.
+- Hostel and airbnb options are plenty in this area.
+
+Yeongdeungpo (永登浦) is the district where Haja Center (our venue) is located in. It's one of the old centers, once serving as an important gateway to Seoul. The commercial area and accommodation choices are centered around Yeongdeungpo train station (also serving subway line 1 Yeongdeungpo station 永登浦驛).
+
+- [Hi Seoul Youth Hostel](https://www.booking.com/hotel/kr/hi-seoul-youth-hostel.ko.html?aid=324796&label=hi-seoul-youth-hostel-eCsILaim1C3i3iIjdifzSgS501024499171%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-30429582638%3Alp9195812%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YUBh8MufZgNFHpck8Hnzcw0&sid=453af966874498930a1c60e87cd88f17&dest_id=-716583&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1788503978&srpvid=94792ed11b1104ba&type=total&ucfs=1&): The best possible option as it is right next to the venue, provides clean rooms, at a discounted price. But availability is extremely limited.
+- [Apollo Guesthouse](https://kr.hotels.com/en/ho1548682784/apollo-guesthouse-seoul-south-korea/): One of the options we booked for student participants.
+- There are many cheaper motel options here, though in the night the streets look a bit rough (as rough as you can get in Seoul, which is a relatively safe city)
+
 
 ## Weather
 - Usually warm and pleasant, although the daytime can still feel like summer.
@@ -86,8 +99,8 @@ Taxis are available from designated taxi stands at both airports. For participan
 ### 🛍️ From Elsewhere in Seoul
 
 #### 🚇 Metro
-- Yeongdeungpo Market Station (Line 5) — Exit 1, about 7 min walk
-- Yeongdeungpo-gu Office Station (Lines 2 + 5) — Exit 4, about 12 min walk
+- Yeongdeungpo Market Station 永登浦市場驛 (Line 5) — Exit 1, about 7 min walk
+- Yeongdeungpo-gu Office Station 永登浦區廳驛 (Lines 2 + 5) — Exit 4, about 12 min walk
 
 #### 🚌 Bus
 Several buses stop near Sinhwa Hospital (신화병원).
