@@ -25,6 +25,9 @@ https://docs.google.com/spreadsheets/d/1jAc2GZfUrHS74IuPGa-2IMnagA-rarJ6Hz775Vf5
 ## 推動歷程與交流活動
 
 - 20261007 週三晚上 19:30-21:30 臺中內水環境探討活動 https://g0v.hackmd.io/Ki1CUJTPQHmo9OWb2jXUGw?view
+    - 時間：10/07 週三晚上 19:30-21:30
+    - 地點：臺中市逢甲大學文創中心
+    - 地址：臺中市西屯區文華路100號2樓
 - 20260818 臺北市內水流域規劃方法建構的工作坊 https://g0v.hackmd.io/8U0Tvvw-ReulHUwejXN2pA?view
 - 20241120 水利松提案 https://www.facebook.com/groups/582154450196478/posts/1104421464636438/
 - 2018 構思發想 https://www.facebook.com/MikLiu/posts/pfbid0kqM5ibNzREHH4iBLG7MvWNZdPbF1kieCM8bKAdtgUjkLQ5352ohqRmy9jgNHLjK1l
@@ -52,8 +55,17 @@ https://drive.google.com/drive/folders/1j9dktnyptoonpFwJ1SJOhyyza9WWsUx4?usp=sha
 ## 都市內水流域儀表板、流域擬人化 AI
 
 資訊呈現案例
-https://www.facebook.com/share/r/1PbSKYCms5/
-https://darkmatterlabs.org/feed/findhorn-watershed-moray-firth-bioregion
+- 強調降雨徑流走向視覺可視_依山地區與地勢
+    - https://www.facebook.com/share/r/1PbSKYCms5/
+    - https://www.facebook.com/reel/1390257922477585
+- 強調降雨徑流走向視覺可視_放入建物模型模擬如何影響降雨徑流走向
+    - https://www.facebook.com/reel/1388593809265406
+    - https://www.facebook.com/reel/1455115276482681
+- https://crisis.mapzoomer.com/
+    - https://www.facebook.com/watch/?v=1774164133617833
+- 待確認是否有圖台類成果 https://darkmatterlabs.org/feed/findhorn-watershed-moray-firth-bioregion
+
+
 
 ### 個案探討：新生流域 
 臺北市新生流域 的資料夾 / 簡報 / 文獻
