@@ -9,8 +9,32 @@ tags: FtO, g0v-intl
 - Venue: Haja Center
     - Address: 200 Yeongsin-ro, Yeongdeungpo District, Seoul ([Google Maps](https://maps.app.goo.gl/HEdT756pghTgKfEN9)) ([NAVER Maps](https://naver.me/FG3SnyDm))
     - ==NO smoking NO alcohol in the venue!==
+## Schedule
+<table>
+<tr><th>Day</th><th>Time</th><th>Activity</th><th>Location</th></tr>
+
+<tr><td rowspan="2"><strong>DAY 0<br>Sep 18 (Fri 금)</td><td>18:00–20:00</td><td><strong>Welcome dinner 네트워킹 파티</strong></td><td><a href="https://naver.me/F42MaiUj">헤이그라운드 서울숲점</a>  <a href="https://maps.app.goo.gl/aEK4FZFAR4Z5Peap8">Heyground Seoul Forest</a></td></tr>
+    <tr><td></td><td colspan="2"><em>you need to have registered beforehand</br>사전등록자만 입장 가능</em></td></tr>
+
+<tr><td rowspan="9"><strong>DAY 1<br>Sep 19 (Sat 토)</td><td>9:00</td><td><strong>Registration 등록</strong></td><td>2/F 999 Club</td></tr>
+<tr><td>9:30</td><td><strong>Opening 오프닝</strong></td><td>2/F 999 Club</td></tr>
+<tr><td>9:45</td><td><strong>Project Pitches 프로젝트 피칭</strong></td><td>2/F 999 Club</td></tr>
+<tr><td>11:00</td><td><strong>Hacking time 해킹타임</strong></td><td>2/F 999 Club + 3/F</td></tr>
+<tr><td>12:30</td><td><strong>Lunch 점심</strong></td><td>3/F</td></tr>
+<tr><td>13:00</td><td><strong>Hacking time 해킹타임 (until 17:00) </strong></td><td>2/F 999 Club + 3/F</td></tr>
+<tr><td>13:30</td><td><strong>Short Talks 라이트닝토크</strong></td><td>2/F 999 Club</td></tr>
+<tr><td>17:00</td><td><strong>Progress Sharing 결과 공유</strong></td><td>2/F 999 Club</td></tr>
+<tr><td>19:00</td><td><strong>Dinner 저녁</strong></td><td><a href="https://naver.me/GZZutCK3">봄담아 문래점</a></br> <a href="https://maps.app.goo.gl/xxXkRQRwjSibHmas7">Bomdama shabu shabu</a></td></tr>
+
+<tr><td rowspan="4"><strong>DAY 2<br>Sep 20 (Sun 일)</td><td>9:00</td><td><strong>Project Pitches 프로젝트 피칭</strong></td><td>2/F 999 Club</td></tr>
+<tr><td>10:00</td><td><strong>Hacking time 해킹타임</strong></td><td>2/F 999 Club + 3/F</td></tr>
+<tr><td>12:00</td><td><strong>Final Presentations 최종 결과 공유</strong></td><td>2/F 999 Club</td></tr>
+<tr><td>12:40</td><td><strong>Closing 클로징</strong></td><td>2/F 999 Club</td></tr>
+
+</table>
 
 ## Sign up for project pitches and short talks
+
 
 
 

@@ -1,0 +1,1 @@
+[TG88](https://tg88.international/) mang đến không gian giải trí trực tuyến với nhiều danh mục đa dạng như thể thao, casino và trò chơi slot. Người dùng có thể tìm hiểu thông tin về nền tảng cùng các hướng dẫn sử dụng cơ bản. Nội dung được xây dựng theo hướng dễ theo dõi và thuận tiện cho người mới.
