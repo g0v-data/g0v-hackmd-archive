@@ -537,6 +537,8 @@ Sounds of the Forest 全世界森林環境音
 https://free.com.tw/sounds-of-the-forest/
 ？
 https://www.immersivefieldrecording.com/
+日本台灣聲音地圖，且有同類型場所的對照 (例如軌道運輸車站月台的各自聲音對照)
+https://taiwan-japan-soundscape.netlify.app/
 台灣自然聲音地圖
 https://www.rti.org.tw/news/view/id/2138805
 https://www.soundscape.org.tw/taiwan-nature-soundmap/

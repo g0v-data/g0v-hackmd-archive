@@ -34,7 +34,19 @@ tags: FtO, g0v-intl
 </table>
 
 ## Sign up for project pitches and short talks
+You can find the [infosheet here](https://docs.google.com/spreadsheets/d/1QBegCH6UBrAHCB8s5YMgQDWFW2VtLQ7DQl1I00pXcFo/edit?gid=558445512#gid=558445512). The infosheet is an open document that we can all view and edit through out the event. The 'Hack' sheet is where you can sign up for project pitches and short talks. Slots are limited (do not add new rows!) so please sign up - first come first served.
 
+### Project Pitches
+Most of the timetable at this event is dedicated to "hacking time". Project pitches will happen at the start of each day, where you can introduce the project you are working on, and invite others to join/hack together. You are free to use any format, but everyone gets 3 mins to present.
+
+### Workshops
+Besides project pitches, this year we are inviting people to propose workshops or discussions which run for a specific duration e.g. 2 hours, and need a private space. Rooms are limited (located on 3/F), so we are using a sign up sheet (see "Hack" sheet) to collect proposals. Once finalised, we will be allocating time and space for them.
+
+### Short Talks
+We will be running a lightening talk-style session after lunch on Saturday (19th). Sign up here if you'd like to share what you're working on. This session runs parallel to the hacking time, so attendance is optional. Every presentation will be no more than 8 mins.
+
+### People
+The public information you gave in the registration form (nickname, location, self-intro) are listed in the [People sheet](https://docs.google.com/spreadsheets/d/1QBegCH6UBrAHCB8s5YMgQDWFW2VtLQ7DQl1I00pXcFo/edit?gid=1802390954#gid=1802390954). Feel free to add any other information you'd like to share with others who are joining the event - but only edit your own.
 
 
 
