@@ -166,6 +166,7 @@ https://www.facebook.com/npmgov/posts/3064769180273512
 http://thcts.ascc.net/themes/rc01.php
 https://www.facebook.com/889701534373509/posts/2042711679072483/
 本圖繪製的內容當屬乾隆中葉時期（備註：乾隆時期為 1735年至1796年）
+介紹影片 https://youtu.be/AiLxstPPJ90
 文章：認識番界
 https://medium.com/@kohua.yap/%E8%AA%8D%E8%AD%98%E7%95%AA%E7%95%8C-6108e9b7b4c3
 乾隆臺灣番界
