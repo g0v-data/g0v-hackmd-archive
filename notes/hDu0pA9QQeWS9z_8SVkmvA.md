@@ -40,7 +40,7 @@ You can find the [infosheet here](https://docs.google.com/spreadsheets/d/1QBegCH
 Most of the timetable at this event is dedicated to "hacking time". Project pitches will happen at the start of each day, where you can introduce the project you are working on, and invite others to join/hack together. You are free to use any format, but everyone gets 3 mins to present.
 
 ### Workshops
-Besides project pitches, this year we are inviting people to propose workshops or discussions which run for a specific duration e.g. 2 hours, and need a private space. Rooms are limited (located on 3/F), so we are using a sign up sheet (see "Hack" sheet) to collect proposals. Once finalised, we will be allocating time and space for them.
+Besides project pitches, this year we are inviting people to propose workshops or discussions which run for a specific duration e.g. 2 hours, and need a private space. Rooms are limited (located on 3/F), so we are using a sign up sheet (see "Hack" sheet) to collect proposals. Once finalised, we will be allocating time and space for them. If you are running a workshop, you still need to sign up on the project pitches section, to have 3 mins to introduce what the workshop is about.
 
 ### Short Talks
 We will be running a lightening talk-style session after lunch on Saturday (19th). Sign up here if you'd like to share what you're working on. This session runs parallel to the hacking time, so attendance is optional. Every presentation will be no more than 8 mins.
