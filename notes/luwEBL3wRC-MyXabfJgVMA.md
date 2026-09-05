@@ -51,6 +51,10 @@ https://drive.google.com/drive/folders/1j9dktnyptoonpFwJ1SJOhyyza9WWsUx4?usp=sha
 
 ## 都市內水流域儀表板、流域擬人化 AI
 
+資訊呈現案例
+https://www.facebook.com/share/r/1PbSKYCms5/
+https://darkmatterlabs.org/feed/findhorn-watershed-moray-firth-bioregion
+
 ### 個案探討：新生流域 
 臺北市新生流域 的資料夾 / 簡報 / 文獻
 https://drive.google.com/drive/folders/1t6xizblGJAZTTZrLGRIHgN3ta6s_WCzB?usp=sharing
@@ -62,5 +66,3 @@ Airtable 關係團體名單
 https://airtable.com/appMn8RbwnnayUwP6/shraNUu1ERv1gvUVp
 FB 社團
 https://www.facebook.com/groups/582154450196478
-資訊呈現案例
-https://www.facebook.com/share/r/1PbSKYCms5/
