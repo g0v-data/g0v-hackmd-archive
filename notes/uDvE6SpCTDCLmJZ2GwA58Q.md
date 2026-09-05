@@ -127,6 +127,8 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
         - https://www.facebook.com/share/p/ivdDxFZRiP231DZL/
     - 雙連陂 孓遺 探討
         - https://www.facebook.com/share/p/1E9rnmtNyW/?mibextid=wwXIfr
+    - 1949 松山慈祐宮 照片 https://youtu.be/Pg5UqAJ0Zzc
+    - 1950 衡陽路鳥瞰 照片 https://youtu.be/EIWJk94Bpn4
     - 照片 建國啤酒廠 https://www.facebook.com/share/rooSpYXJMWnnLBf8/
     - 重要 1948 大安橋 https://www.facebook.com/share/p/UX1KRHgiGQinhk3x/
     - 重要照片 新莊 可看出農村農田實際景象 https://www.facebook.com/story.php?story_fbid=1923299404469840&id=100064365595004
