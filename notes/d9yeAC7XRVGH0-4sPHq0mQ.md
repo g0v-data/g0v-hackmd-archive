@@ -1,0 +1,1 @@
+<a href="https://new8kbet.com/">8KBET</a> là nền tảng giải trí trực tuyến được xây dựng với giao diện hiện đại, tốc độ truy cập ổn định và đa dạng lựa chọn dành cho người dùng. Thương hiệu hướng đến trải nghiệm thuận tiện, dễ sử dụng trên nhiều thiết bị. 
