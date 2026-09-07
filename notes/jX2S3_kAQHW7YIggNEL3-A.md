@@ -1,0 +1,1 @@
+<a href="https://s666.cool/">s666</a> là nền tảng giải trí trực tuyến với giao diện hiện đại, nội dung đa dạng và trải nghiệm thuận tiện. Website được thiết kế tối ưu cho người dùng, hỗ trợ truy cập nhanh chóng trên nhiều thiết bị.
