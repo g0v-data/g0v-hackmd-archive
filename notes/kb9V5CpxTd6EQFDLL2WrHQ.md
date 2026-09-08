@@ -1,0 +1,1 @@
+<a href="https://28bet.space/">28BET</a>  là tên gọi được sử dụng cho một nền tảng giải trí trực tuyến, hướng đến người dùng yêu thích các sản phẩm game và nội dung tương tác trên môi trường số.
