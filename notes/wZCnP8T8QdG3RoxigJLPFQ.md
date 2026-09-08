@@ -1,0 +1,2 @@
+sc88plus
+<a href="https://sc88.plus/">Sc88</a> là nền tảng giải trí trực tuyến được nhiều người quan tâm với đa dạng nội dung và trải nghiệm tiện ích. Người dùng có thể khám phá thông tin, cập nhật các tính năng mới và tận hưởng không gian giải trí hiện đại. Sc88 hướng đến trải nghiệm nhanh chóng, thuận tiện và phù hợp với nhu cầu của cộng đồng người dùng.<br>
