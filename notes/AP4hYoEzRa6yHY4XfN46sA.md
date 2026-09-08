@@ -7,7 +7,7 @@ tags: 都市農耕
 ## 台北市
 
 - 柯文哲，已簽署，並提出相關政見影片：[https://www.youtube.com/watch?v=IIMZVWCRyQo](https://www.youtube.com/watch?v=IIMZVWCRyQo)
-![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_c7988fe81d5e25f62391c4829b4d43a9)
+- ![](https://g0v.hackmd.io/_uploads/B1kZsy6_fe.png)
     - 內容概要：
         - 「綠色」、「健康」的「田園城市」
             - 學校小田園計畫
@@ -21,6 +21,7 @@ tags: 都市農耕
 - 連勝文，已回覆，回覆內容公布於網址：
     - [http://taipeihope.tw/news/blog/100.html](http://taipeihope.tw/news/blog/100.html)
     - FB 粉絲頁面貼文：https://www.facebook.com/seanlien2014/posts/735919026456052
+    - ![](https://g0v.hackmd.io/_uploads/ByVfjyadGe.png)
     - 該場次的新聞影片：https://youtu.be/V_MCEr7FuCU
 - 馮光遠，無回覆
 
@@ -29,7 +30,8 @@ tags: 都市農耕
 - 游錫堃，無回覆
 - 朱立倫，競選總部無回覆，不曉得新北市政府的回覆公文..算是?
 - 新北市市政府，已回覆，公文：
-![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_3bf818962abf6d468a9ec33aec747420)
+
+![](https://g0v.hackmd.io/_uploads/BykmjkpuGg.jpg)
 
 
 ## 台中市
