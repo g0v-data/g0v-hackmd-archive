@@ -1,12 +1,14 @@
 ---
 tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense,
 image: https://chengpengtw-images-public.s3.ap-northeast-1.amazonaws.com/img/11th+hackathon_1200600_by-paulpengtw-CCBYSA4.0.png
-title: DigiResiTh14n 第拾肆次數位韌性松
+title: DigiResiTh16n 第拾陸次數位韌性松
 ---
+
+![](https://g0v.hackmd.io/_uploads/SkgSzZ5auMe.png)
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
-# 202607xx (TBD) DigiResiTh16n 第拾陸次數位韌性松
+# 20260725 DigiResiTh16n 第拾陸次數位韌性松
 
 {%hackmd VkctH3USQ-yoB6hw2s2D0Q %}
 

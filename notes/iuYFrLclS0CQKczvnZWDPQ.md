@@ -4,6 +4,8 @@ image: https://chengpengtw-images-public.s3.ap-northeast-1.amazonaws.com/img/11t
 title: DigiResiTh12n 第拾貳次數位韌性松
 ---
 
+![](https://g0v.hackmd.io/_uploads/BJev3Q9TuMe.png)
+
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
 # 20251221 DigiResiTh12n 第拾貳次數位韌性松

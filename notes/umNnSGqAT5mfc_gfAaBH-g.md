@@ -1,14 +1,14 @@
 ---
 tags: digital-resilience, resilience, internet-shutdown, digiresi, civil-defense, 民防, 數位韌性松, DigiResiTh0n, hackathon, civil defense,
 image: https://chengpengtw-images-public.s3.ap-northeast-1.amazonaws.com/img/11th+hackathon_1200600_by-paulpengtw-CCBYSA4.0.png
-title: DigiResiTh13n 第拾參次數位韌性松
+title: DigiResiTh16n 第拾陸次數位韌性松
 ---
 
-![](https://g0v.hackmd.io/_uploads/HJHo79pOMe.png)
+![](https://g0v.hackmd.io/_uploads/H1fGmqpdzl.png)
 
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
-# 20260118 DigiResiTh13n 第拾參次數位韌性松
+# 20260913 DigiResiTh16n 第拾陸次數位韌性松（RE）
 
 {%hackmd VkctH3USQ-yoB6hw2s2D0Q %}
 
@@ -19,7 +19,7 @@ title: DigiResiTh13n 第拾參次數位韌性松
 :::success
 報名流程及注意事項
 1. 當您參與本活動，即代表您已經同意 [g0v 宣言](https://g0v.tw/intl/zh-TW/manifesto/zh-TW/) 並願意遵守 [行為守則 Code of Conduct](https://g0v.hackmd.io/s/COC)。
-2. 若欲報名活動，請直接在 [KKTIX 報名連結](https://g0v-digiresi.kktix.cc/events/digiresith13n) 逕行報名
+2. 若欲報名活動，請直接在 [KKTIX 報名連結](https://g0v-digiresi.kktix.cc/events/digiresith16n-re) 逕行報名
 :::
 
 :::warning
@@ -38,7 +38,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 ## 時間地點
 
-- Jan 18 2025 (SUN)
+- Sep 13 2026 (SUN)
 - 13:00 - 17:00（UTC+8）
 - [g0v Taipei Community Hub / g0v 台北社群空間](https://maps.app.goo.gl/o3nAyuSrNshZgW1aA) 2F
     - 請從 1F 咖啡店 __旁邊__ 的入口上樓
@@ -50,10 +50,9 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
-| 冷接光纖 | insert name here | insert content here |
-| 海纜檢測 | Irvin | insert content here |
-| insert content here | insert name here | insert content here |
-| insert content here | insert name here | insert content here |
+| OCF 海纜入口網站／手機 App 韌性檢測報告分享 | Irvin / 周詳 | resilience.ocf.tw |
+| 手機不能上網演習時 OONI 觀測結果 x 社群兵推回顧 | Irvin / 以正 | [豆泥分享](https://mashbean.net/blog/2026/0813-16xy2v/)、[toomore分享](https://anoni.net/docs/blog/2026/08/ooni-mobile-throttle-drill-results/)
+| 當天自主 LoRa 緊急通訊演練 結果 | T.H. | ure26.takke.me |
 | insert content here | insert name here | insert content here |
 | insert content here | insert name here | insert content here |
 
@@ -62,7 +61,9 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 ## 簽名區
 來者何人，留下名稱！（請自由留下自己的暱稱或稱呼）
 
-Irvin
+- Irvin
+- 
+- 
 
 ---
 [Back to the top](#)

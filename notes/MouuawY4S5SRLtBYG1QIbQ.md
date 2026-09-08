@@ -4,6 +4,8 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 title: DigiResiTh9n 第玖次數位韌性松
 ---
 
+![](https://g0v.hackmd.io/_uploads/B1CA7qT_zx.png)
+
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 
 # 20240831 DigiResiTh9n 第玖次數位韌性松

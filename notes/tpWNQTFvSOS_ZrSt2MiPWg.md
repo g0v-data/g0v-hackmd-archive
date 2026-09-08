@@ -41,7 +41,6 @@ tags: 學術研究, cowork guideline, g0v, 開源協作手冊, 基礎建設,
 
 ## 2015
 
-
 ### Scraping the global civic tech community on GitHub, part 2
 - by Stefan Baack
 - https://sbaack.com/posts/2015-11-19-scraping-the-global-civic-tech-community-on-github-part-2/
@@ -137,6 +136,7 @@ tags: 學術研究, cowork guideline, g0v, 開源協作手冊, 基礎建設,
 - 作者：Fa‐ti Fan, S. Chen, Chia-Liang Kao, Michelle Murphy, M. Price, Liz Barry
 - 摘要：We believe it’s important, in this special issue on citizen science, to hear the opinions, experiences, and voices of practitioners. After all, they are front and center in the movements discussed in these pages. For this reason, we invited several participants in two noted civic-tech communities—g0v and EDGI—to join a conversation about techbased activism or civic hacking. They were Chia-liang Kao from g0v, Michelle Murphy and Matt Price from EDGI, and Liz Barry, who has been instrumental in both EDGI and Public Lab, another civic-tech group. 
 - https://www.semanticscholar.org/paper/Citizens%2C-Politics%2C-and-Civic-Technology%3A-A-with-Fan-Chen/f61af335976a32bb5977938709c2c2bd2c33a627
+- https://www.easts-journal.com/articles/citizens-politics-and-civic-technology-a-conversation-with-g0v-and-edgi
 
 ### 政治過程、資訊科技與連結行動：「開放政治獻金」專案成因與效應的分析
 - 作者：陳廷彥（國立台灣大學社會系）、許儷（國立台灣大學社會系）
@@ -451,6 +451,7 @@ https://www.journals.uchicago.edu/doi/abs/10.1086/730621
 - 2024.10 書籍《次世代數位公民素養：不被AI 取代的資訊判讀》
     - 補頁碼，零時小學校 & Tiff 有撰寫一篇文章，收錄於書中
     - https://www.facebook.com/pangphuann/posts/pfbid0r35hLXwyhxUMme1HifSjeaYG2NzpNRy1JRttdX9DJDncPwhPFhoPkxsDVptufbmol
+- 沒有人的運動
 
 ### [原始 hackpad 內容](https://g0v.hackpad.tw/1esFXAvr0U4)
 
