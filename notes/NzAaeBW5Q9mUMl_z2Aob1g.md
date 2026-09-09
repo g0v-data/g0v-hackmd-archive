@@ -54,16 +54,20 @@ https://www.vtaiwan.tw/jitsi
 :::
 
 ## 自我介紹
-- Peter: 實習律師、vTaiwan 坑主, 對外聯繫與活動
-- Bestian: 蔬食者, 工程師, 自學家長
-- Thompson: UX設計師, 英國做審議工具, 喜歡攀岩
-- 為然: 哈囉我是為然，目前是自由工作者，長期關注與投入議題溝通
-- Tim: 轉職網站工程師、資料視覺化、區塊鏈 
-- Allison: 高中生、三年級、想讀政治學
-
+- 
 
 ## 小小的分享
 
+
+### vTaiwan 2026新視覺上線了
+
+> 感謝@tofus的視覺設計，@tofus @Terry1515 @Tim @Lynn @Peter @bestian 的協作
+
+https://www.vtaiwan.tw
+
+上線一個月內都可能有bug、UI小瑕疵或不穩定的地方，若發現問題請不吝於issues區提出
+
+https://github.com/g0v/vue.vTaiwan-neo/issues
 
 
 
@@ -73,14 +77,25 @@ https://www.vtaiwan.tw/jitsi
 簡報檔 https://hackmd.io/@bestian/H1bGFjhdzl#/
 MVP https://check.vtaiwan.tw/
 
-## 0911 審議大會
+
+
+# 0911 審議大會
 ## 9/11 審議大會活動規劃
 - 預計下週完成活動簡報
+    - 活動簡報連結：
 - 問題：polis.tw 
-    - 可能要建立一個儀表板觀察狀態
+    - 已經修復
+:::info
+9/11 polis 
+- https://polis.tw/c/uojz0s426v
+- https://www.vtaiwan.tw/topic/2026_AI_C_Protection
+:::
+
+> 剛才已同步更新網站上"意見徵集"為新的有效連結了(原連結為404) [name=Bestian]
+
 - 議題分享：邀請 TCA 昱均（之前在 Iwin）分享（錄影）
     - 目前確認會在週四取得昱均的簡報與影片
-- google slides 
+- google slides: 
 - mentimeter - 政策意見上
 - pocket-polis
 - (補充: 前陣子請 AI 規劃審議流程，[連結](https://app.notion.com/p/AI-3b83377fe3ec80b98f80e762cff81c51?source=copy_link)供參 [name=Tim])
