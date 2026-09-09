@@ -7,6 +7,8 @@ tags: vTaiwan
 地點 Location ：線上 Online
 參與者 Participants：Peter, Bestian, Tim, 為然, Thompson, Allison
 
+![](https://g0v.hackmd.io/_uploads/BkGrN9Cuzx.png)
+
 
 https://www.vtaiwan.tw/jitsi 
 (請用Google登入以參與視訊並啟用轉錄功能)

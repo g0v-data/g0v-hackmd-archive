@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants：Peter, Bestian, Tim, 為然, Thompson, Allison
+參與者 Participants: 
 
 
 https://www.vtaiwan.tw/jitsi 
@@ -63,3 +63,12 @@ https://www.vtaiwan.tw/jitsi
 
 
 ## 小小的分享
+
+
+
+
+### 將AI應用於事實查核
+> [name=Bestian]
+
+簡報檔 https://hackmd.io/@bestian/H1bGFjhdzl#/
+MVP https://check.vtaiwan.tw/
