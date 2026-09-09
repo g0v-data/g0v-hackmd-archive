@@ -7,6 +7,8 @@ tags: vTaiwan
 地點 Location ：線上 Online
 參與者 Participants: 
 
+Peter, Bestian, Thompson, Tim, Josh, Allison, Soth
+
 
 https://www.vtaiwan.tw/jitsi 
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -79,10 +81,14 @@ MVP https://check.vtaiwan.tw/
 
 
 
+### GEMIC & Jigsaw 團隊
+- Gemic.com 的團隊最近在研究公民科技社群利用 AI 的情境。collective work 
+- 11/2 來台做田野調查 Gemic.com 
+
 # 0911 審議大會
 ## 9/11 審議大會活動規劃
 - 預計下週完成活動簡報
-    - 活動簡報連結：
+    - 活動簡報連結：https://docs.google.com/presentation/d/1HOr4Ga4OxwuD9A4IpUyJ_RLlwo0SOAFj-68tf5ine88/edit?usp=sharing
 - 問題：polis.tw 
     - 已經修復
 :::info
@@ -95,33 +101,40 @@ MVP https://check.vtaiwan.tw/
 
 - 議題分享：邀請 TCA 昱均（之前在 Iwin）分享（錄影）
     - 目前確認會在週四取得昱均的簡報與影片
-- google slides: 
+- google slides: https://docs.google.com/presentation/d/1HOr4Ga4OxwuD9A4IpUyJ_RLlwo0SOAFj-68tf5ine88/edit?usp=sharing 
 - mentimeter - 政策意見上
 - pocket-polis
 - (補充: 前陣子請 AI 規劃審議流程，[連結](https://app.notion.com/p/AI-3b83377fe3ec80b98f80e762cff81c51?source=copy_link)供參 [name=Tim])
 ### 流程
 - 19:00-21:30 
 - 第一小時：議題分享 / 上一次活動回顧：45min
-- 政策上的討論應該要如何 45mins-50 mins 
+- 政策上的討論應該要如何 40 mins 
     - 目標：避免發散，希望可以認真討論每一個政策行動背後的內容
         - 匯集大家對不同政策的看法、想到的事情、擔心的事情
     - 選項：
         - 分組：需要更多的協調者
-            - 線上的分組可以試試看：但是要在 teams 
+            - 線上確認以一大組為主
+            - 線上引導：Thompson / Bestian 
         - 提出政策草案：提供背景
+- 分享分組討論結果
+    - 現場引導者
+        - billy 
+        - 為然
 - 開放性討論：50-60 mins 
 - 匯集資訊：google doc 的不同分頁
+    - 線上開一個大組
+    - 利用 google doc
+    - 
 - 待辦：
     - 徵集線上 / 實體的記錄者：
-        - billy (待確認) - 實體？
-        - janet （待確認）- 實體？
-        - ellen （待確認）- 實體？
-        - peter 
+        - billy (待確認) - 實體
+        - janet （待確認）- x
+        - ellen （待確認）- 實體
+        - peter - 實體
         - 為然 - 實體
-        - 凱文（待確認）- 線上？
-        - 凱倫（待確認）- 線上？
-        - 小海（待確認）- 線上？
         - Thompson - 線上
+        - Bestian - 線上(一半)
+        - tim - 實體
 
 
 ### 人數
