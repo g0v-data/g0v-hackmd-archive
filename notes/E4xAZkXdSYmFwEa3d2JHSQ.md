@@ -1,4 +1,5 @@
-![](https://miniocodimd.openmole.org/codimd/uploads/edc604a2-4b74-4f9f-b598-d70a7ef48558.jpg)
+![](https://miniocodimd.openmole.org/codimd/uploads/2b2ed251-e32d-44a0-8d70-379ef6d19d38.jpg)
+
 <p><a target="_blank" href="https://twin68.network/" rel="noopener">TWIN68</a> là nhà cái chuyên nghiệp mang đến không gian giải trí đỉnh cao hội tụ trọn bộ sảnh game bài, slot nổ hũ, cá độ bóng đá, casino live, bắn cá và lô đề. Sân chơi trang bị chuẩn bảo mật dữ liệu tiên tiến, đảm bảo quá trình thanh toán luôn công khai và nhanh chóng. Kênh CSKH 24/7 luôn nhiệt tình tư vấn cược thủ.<br>Thông Tin Liên Hệ<br>Thương hiệu: TWIN68<br>
 Website: 
 <a target="_blank" href="https://twin68.network/" rel="noopener">https://twin68.network/</a><br>
