@@ -46,7 +46,10 @@ https://hackmd.io/LmwScOSlQVSzK0ORhWdLUQ
 https://www.facebook.com/share/p/18GZZSySn1/
 
 道卡斯，新港社
-https://www.facebook.com/share/1Jbg1km7dh/?mibextid=wwXIfr
+https://www.facebook.com/share/1Jbg1km7dh/
+
+大肚
+https://youtu.be/YT4os4vtbU4
 
 南部平埔族群
 https://youtu.be/j2dROk3H-6M
@@ -62,6 +65,9 @@ https://youtu.be/kPPHzaxQqlc?si=7gadhyW9Pa9KRZMN
 
 平埔族群-馬卡道(Makatao)
 https://www.facebook.com/groups/423167101198665
+
+大龜文王國
+https://youtu.be/YT4os4vtbU4
 
 地理範圍圖資？
 
