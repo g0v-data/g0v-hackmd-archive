@@ -60,7 +60,7 @@ Haja Center is a creative community space in Yeongdeungpo focused on learning-by
 ## 🎉 Welcome Party
 - Friday 18th September evening 
 - 18:00~20:00
-- [헤이그라운드 서울숲점 Heyground Seoul Forest] https://maps.app.goo.gl/aEK4FZFAR4Z5Peap8
+- [헤이그라운드 서울숲점 10층 Hall80 / Heyground Seoul Forest Hall80 10/F] https://maps.app.goo.gl/aEK4FZFAR4Z5Peap8
 - You need to have registered to attend
 
 ## 🥗 Dinner on the 19th 
