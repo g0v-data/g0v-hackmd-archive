@@ -1,0 +1,1 @@
+[TR88](https://tr883.co.com/) là nền tảng giải trí trực tuyến được biết đến với đa dạng sản phẩm như thể thao, casino trực tuyến, nổ hũ, bắn cá và game bài. Giao diện được định hướng hiện đại, thao tác thuận tiện trên cả máy tính và thiết bị di động. Người chơi có thể khám phá nhiều sảnh game và lựa chọn hình thức giải trí phù hợp.

@@ -9,6 +9,10 @@ _「所謂的數化是指圖形資料向量化（Vectorization），也就是根
 ![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_c9e8ca39583bf12ddb802d1d2e012965)
 
 
+## 方法研究成果
+
+https://openmuseum.tw/muse/exhibition/18189db07e91e6a6597a14b179e0540c
+
 ### 「要數化哪一張堡圖？」
 
 - 日治二萬分之一台灣堡圖（明治版）地圖年代：1898
