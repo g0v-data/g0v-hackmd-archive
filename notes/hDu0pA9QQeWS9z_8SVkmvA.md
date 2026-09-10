@@ -9,6 +9,8 @@ tags: FtO, g0v-intl
 - Venue: Haja Center
     - Address: 200 Yeongsin-ro, Yeongdeungpo District, Seoul ([Google Maps](https://maps.app.goo.gl/HEdT756pghTgKfEN9)) ([NAVER Maps](https://naver.me/FG3SnyDm))
     - ==NO smoking NO alcohol in the venue!==
+- Code of conduct: [English](https://g0v.tw/coc/en/), [Korean](https://codefor.kr/pages/581), [Mandarin](https://g0v.tw/coc/), [Japanese](https://github.com/codeforjapan/codeofconduct)
+
 ## Schedule
 <table>
 <tr><th>Day</th><th>Time</th><th>Activity</th><th>Location</th></tr>
