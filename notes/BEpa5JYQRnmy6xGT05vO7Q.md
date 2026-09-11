@@ -57,6 +57,8 @@ https://photos.app.goo.gl/K4297DFQc5WBUaAp8
 ## 舊水路沿線整體都市設計方案
 - 景美萬盛溪遺線沿線《依山水圳策略地區都市更新空間再生作業準則》，內容包含：計畫緣起、擬定單位與法源依據、範圍界定、發展現況與議題、都市更新空間再生之基本目標與策略、實質空間構想準則
     - 完整內容網址請見：https://wenshanoasis.wixsite.com/mysite/professional
+![](https://g0v.hackmd.io/_uploads/rkehFB7Ztzl.png)
+
 
 ---
 
