@@ -20,6 +20,7 @@ tags: GIS
 - 掩埋場復育場址-線上地圖
     - https://www.google.com/maps/d/viewer?mid=1UBCpseY-2VFUoyZlX_R05VBE773fk6Aa&ll=24.03324775863965%2C120.99110025&z=8
 - 部分場址影像：https://youtu.be/eNfVYjHkLXE
+- 淡水河畔公園（靠近蘆洲/三重交界處） https://www.facebook.com/LoveLuzhou/posts/pfbid0riDZZEHeESc2BtuiNVfxFh8TA3QFkotm9BGrrTawXWvxCvjqpbX5UDWWUvdVr9Qml
 - 新店溪 秀朗橋北側
     - https://www.facebook.com/share/p/MFDsrh5zNtyk74dR/
     - https://www.facebook.com/share/p/ABmnxTGaX55yaawT/
