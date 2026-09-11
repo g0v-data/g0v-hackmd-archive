@@ -12,8 +12,7 @@ python3 -m venv test_venv
 source test_venv/bin/activate
 ＊Qwentest.pyの環境変数は　qtestvenv
     使用モデル：black-forest-labs/FLUX.2-klein-4b(4b)
-＊００００test.pyの環境変数は　０testvenv
-    使用モデル：
+＊png10-11 使用モデル：black-forest-labs/FLUX.2-klein-9b(9b)(環境変数は変わらずqtestvenv)
 # 4. この中でライブラリのインストールやエラーの検証を行う
 pip install --upgrade pip
 pip install torch diffusers transformers
