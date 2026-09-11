@@ -23,6 +23,9 @@ https://www.uni-wagon.com/
 https://www.funliday.com/posts/okinawa-ishigaki-yaimaline/
 航線歷史 https://www.facebook.com/share/p/1RBYv8mSGR/
 
+石垣島—與那國島—花蓮港
+https://www.facebook.com/share/v/19FzCrSXFy/
+
 宜蘭，與那國島
 https://www.suao.gov.tw/News_Content.aspx?n=12210&s=180033
 宜蘭，八重山諸島，沖繩
