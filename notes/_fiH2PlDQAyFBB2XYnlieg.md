@@ -1,0 +1,3 @@
+# O8
+
+<a href="https://o8.forex/">O8</a> là nền tảng giải trí trực tuyến với nhiều sản phẩm đa dạng, nổi bật gồm cá cược thể thao, casino trực tuyến cùng nhiều trò chơi được yêu thích. Nền tảng sở hữu giao diện trực quan, dễ sử dụng, đi kèm hệ thống tỷ lệ kèo hấp dẫn và quy trình giao dịch được tối ưu. Nhờ khả năng tương thích với cả máy tính và thiết bị di động, người dùng có thể dễ dàng truy cập và trải nghiệm thuận tiện mọi lúc.
