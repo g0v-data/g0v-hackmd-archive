@@ -1,4 +1,4 @@
-# aiPicasso用仮想環境構築
+# 仮想環境構築について
 
 ````
 # 1. テスト用のフォルダを作成して移動
@@ -10,8 +10,10 @@ python3 -m venv test_venv
 # 3. 仮想環境を有効化（有効化するとターミナルの先頭に (test_venv) と表示されます）
 # Linux / macOS の場合:
 source test_venv/bin/activate
-＊現在使用しているQwentest.pyの環境変数は　qtestvenv
-
+＊Qwentest.pyの環境変数は　qtestvenv
+    使用モデル：black-forest-labs/FLUX.2-klein-4b(4b)
+＊００００test.pyの環境変数は　０testvenv
+    使用モデル：
 # 4. この中でライブラリのインストールやエラーの検証を行う
 pip install --upgrade pip
 pip install torch diffusers transformers
