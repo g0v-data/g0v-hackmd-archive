@@ -1,0 +1,1 @@
+<a href="https://socolive78.live/">socolive</a> là nền tảng dành cho người yêu bóng đá, cung cấp không gian theo dõi các trận đấu và cập nhật thông tin bóng đá nhanh chóng. Giao diện dễ sử dụng giúp người xem thuận tiện tìm kiếm những nội dung mình quan tâm. 
