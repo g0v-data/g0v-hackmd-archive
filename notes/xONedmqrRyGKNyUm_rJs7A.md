@@ -59,6 +59,8 @@ https://www.facebook.com/share/v/18Mg4DXvUL/?mibextid=wwXIfr
 
 埔里 噶哈巫
 https://www.facebook.com/share/r/18U15NDiSD/
+漢人開墾平埔社範圍
+https://youtu.be/8MR9nLZJDDU
 
 蔦松遺址與西拉雅
 https://youtu.be/kPPHzaxQqlc?si=7gadhyW9Pa9KRZMN
