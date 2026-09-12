@@ -1,0 +1,2 @@
+Link GO8.COM Thiên Đường Giải Trí Hàng Đầu VN
+[GO8](https://go8f.co.com/) mở ra thế giới giải trí trực tuyến đa dạng với nhiều sảnh game hấp dẫn, từ thể thao, casino trực tuyến đến nổ hũ và bắn cá. Giao diện được tối ưu theo hướng đơn giản, dễ thao tác, giúp người dùng thuận tiện trải nghiệm trên điện thoại. Ứng dụng GO8 cũng hỗ trợ truy cập nhanh chóng, hạn chế các bước trung gian và tạo cảm giác liền mạch hơn khi sử dụng.
