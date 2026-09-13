@@ -50,7 +50,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 
 | 提案名稱 | 提案人稱呼 | 提案網址或內容 |
 | --- | --- | --- |
-| OCF 海纜入口網站／手機 App 韌性檢測報告分享 | Irvin / 周詳 | resilience.ocf.tw |
+| OCF 海纜入口網站／手機 App 韌性檢測報告分享 | Irvin / 周詳 | resilience.ocf.tw [簡報分享](https://docs.google.com/presentation/d/1Pj9pSy5K9w1ehX5dsC7cOoDFwmkwbCS2cEdn2K981sc/edit?slide=id.g3e9c844c388_1_7#slide=id.g3e9c844c388_1_7) |
 | 手機不能上網演習時 OONI 觀測結果 x 社群兵推回顧 | Irvin / 以正 | [豆泥分享](https://mashbean.net/blog/2026/0813-16xy2v/)、[toomore分享](https://anoni.net/docs/blog/2026/08/ooni-mobile-throttle-drill-results/)
 | 當天自主 LoRa 緊急通訊演練 結果 | T.H. | ure26.takke.me |
 | insert content here | insert name here | insert content here |
@@ -62,8 +62,7 @@ To 不確定自己幫的上什麼忙但很關心這個議題的朋友
 來者何人，留下名稱！（請自由留下自己的暱稱或稱呼）
 
 - Irvin
-- Amelia
-- 
+- Amelia 
 
 ---
 [Back to the top](#)
