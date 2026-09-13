@@ -1,1 +1,1 @@
-<a href="https://socolive78.live/">c168</a> là nền tảng giải trí trực tuyến được nhiều người quan tâm, nổi bật với giao diện dễ sử dụng, tốc độ truy cập ổn định và hệ thống trò chơi đa dạng. Người dùng có thể tìm hiểu thông tin, khám phá các chuyên mục và trải nghiệm dịch vụ theo nhu cầu. 
+<a href="https://c168kim.com/">c168</a> là nền tảng giải trí trực tuyến được nhiều người quan tâm, nổi bật với giao diện dễ sử dụng, tốc độ truy cập ổn định và hệ thống trò chơi đa dạng. Người dùng có thể tìm hiểu thông tin, khám phá các chuyên mục và trải nghiệm dịch vụ theo nhu cầu. 
