@@ -9,61 +9,15 @@ tags: tree
 [TOC]
 :::
 
-分為兩大類探討：
-- 道路用地
-- 塊狀用地
+分為三類探討類型：
+- 類型一：塊狀用地 / 公共設施 / 植樹綠化可行探討
+    - https://photos.app.goo.gl/gr5aNr3CZEChyaxR6
+    - 較侷促場域 / 高架下方 / 庭院 / 綠牆 / 綠屋頂 / 樹穴設計 / 移動式盆器 https://photos.app.goo.gl/nXfUz85dE2ffgAhq5
+- 類型二：路側公共設施帶_種樹_停車_休憩 / 軌道設施沿線 / 巷弄道路變更為公園或綠道化 / 12 米以下道路 
+    - https://photos.app.goo.gl/PothcgShgdY5ThrB8
+- 類型三：面狀待開發地區，包含重劃區、都市更新範圍、環評案件，規劃方案將影響水綠配置
 
-## 道路用地
-
-* 路廊寬度與建議綠化對策表與案例 https://photos.app.goo.gl/PothcgShgdY5ThrB8
-    * (1) 保留車用空間，路側設置公共設施帶並種植喬木
-    * (2) 保留車用空間，設置分隔島綠化並種植(小)喬木
-    * (3) 保留車用空間，人行道增設樹穴並種植喬木
-    * (4) 將該道路營造為人本綠道
-* [「哪些線型空間種類，是容許植樹的？」討論串](https://www.facebook.com/groups/573697330058183/permalink/682494789178436/)
-
-### 國內已指認之綠道路線資料
-- 討論串：https://www.facebook.com/groups/tmitrail/posts/3056008621340783/
-- 綠道資料
-    - 國家綠道－山海圳國家綠道請參考林務局山林悠遊網官網資訊：
-        - https://recreation.forest.gov.tw/Topic/MSTW
-    - 國家綠道－淡蘭國家綠道的GIS可以參考觀光局淡蘭主題網站，裡面有淡蘭攻略可以下載圖資：
-        - https://danlantrail.necoast-nsa.gov.tw/
-        - 分散的路線
-    - 國家綠道－樟之細路的GIS可以參考健行筆記與客委會合作的專區：
-        - https://hiking.biji.co/index.php?q=minisite&id=223&nav=1841
-        - 民間社團 https://www.facebook.com/share/Ts6EjLkmbAQ8499x/
-    - 縣市綠道：https://www.tmitrail.org.tw/roadmap/1477#block-system-main
-- 舊糖鐵路線
-    - https://g0v.hackmd.io/@chewei/taisugar/
-
-### 探討「道路是否尚有潛力改造為綠道？」分析方法
-
-input 資料
-- 綠化現況
-    - 行道樹資料 (臺北84840, 新北13826, 臺中118404)：https://bit.ly/3lffjCP
-    - 5590筆，受保護樹木類：https://bit.ly/30uVu2N
-    - 樹穴資料，僅臺北市有釋出：https://bit.ly/3isBx2z
-- 人行道資料
-    - https://data.gov.tw/dataset/58791
-- 建物範圍外框資料
-    - 臺北市：建築物的輪廓資料，嚴格來說台北市沒有正式釋出，但因為曾釋出一批 3D 建物資料是開放資料，其投影面積就是建物輪廓的基本 http://bit.ly/2DfQqpZ
-    - 臺中市：臺中市建物_WGS84 https://bit.ly/37Ldiue
-- 道路寬度
-- 車流量資料
-- 管線資料
-- 設施物資料
-
-output 對策種類
-- 車道數減少
-- 車道數不變，寬度瘦身
-- 新增人行道
-- 新增植栽槽-灌木
-- 新增植栽槽-喬木樹穴
- 
----
-
-## 塊狀用地
+## 類型一：塊狀用地 / 公共設施 / 植樹綠化可行探討
 
 ### 喬木促進之用地可行類型歸納
 
@@ -118,6 +72,7 @@ output 對策種類
 - 有機會透過環境設計方案來提升綠覆，例如「停車場」類型
 - 廟宇腹地
 - 雕像週邊草皮
+- 較侷促場域 / 高架下方 / 庭院 / 綠牆 / 綠屋頂 / 樹穴設計 / 移動式盆器 https://photos.app.goo.gl/nXfUz85dE2ffgAhq5
 
 #### (3)【適合補植的土地類型】&【歸納補植原則方向種類】
 
@@ -233,7 +188,57 @@ output 對策種類
 
 ---
 
-## 面狀待開發地區：重劃區、都市更新範圍、環評案件
+## 類型二：路側公共設施帶_種樹_停車_休憩 / 軌道設施沿線 / 巷弄道路變更為公園或綠道化 / 12 米以下道路 
+
+* 路廊寬度與建議綠化對策表與案例 https://photos.app.goo.gl/PothcgShgdY5ThrB8
+    * (1) 保留車用空間，路側設置公共設施帶並種植喬木
+    * (2) 保留車用空間，設置分隔島綠化並種植(小)喬木
+    * (3) 保留車用空間，人行道增設樹穴並種植喬木
+    * (4) 將該道路營造為人本綠道
+* [「哪些線型空間種類，是容許植樹的？」討論串](https://www.facebook.com/groups/573697330058183/permalink/682494789178436/)
+
+### 國內已指認之綠道路線資料
+- 討論串：https://www.facebook.com/groups/tmitrail/posts/3056008621340783/
+- 綠道資料
+    - 國家綠道－山海圳國家綠道請參考林務局山林悠遊網官網資訊：
+        - https://recreation.forest.gov.tw/Topic/MSTW
+    - 國家綠道－淡蘭國家綠道的GIS可以參考觀光局淡蘭主題網站，裡面有淡蘭攻略可以下載圖資：
+        - https://danlantrail.necoast-nsa.gov.tw/
+        - 分散的路線
+    - 國家綠道－樟之細路的GIS可以參考健行筆記與客委會合作的專區：
+        - https://hiking.biji.co/index.php?q=minisite&id=223&nav=1841
+        - 民間社團 https://www.facebook.com/share/Ts6EjLkmbAQ8499x/
+    - 縣市綠道：https://www.tmitrail.org.tw/roadmap/1477#block-system-main
+- 舊糖鐵路線
+    - https://g0v.hackmd.io/@chewei/taisugar/
+
+### 探討「道路是否尚有潛力改造為綠道？」分析方法
+
+input 資料
+- 綠化現況
+    - 行道樹資料 (臺北84840, 新北13826, 臺中118404)：https://bit.ly/3lffjCP
+    - 5590筆，受保護樹木類：https://bit.ly/30uVu2N
+    - 樹穴資料，僅臺北市有釋出：https://bit.ly/3isBx2z
+- 人行道資料
+    - https://data.gov.tw/dataset/58791
+- 建物範圍外框資料
+    - 臺北市：建築物的輪廓資料，嚴格來說台北市沒有正式釋出，但因為曾釋出一批 3D 建物資料是開放資料，其投影面積就是建物輪廓的基本 http://bit.ly/2DfQqpZ
+    - 臺中市：臺中市建物_WGS84 https://bit.ly/37Ldiue
+- 道路寬度
+- 車流量資料
+- 管線資料
+- 設施物資料
+
+output 對策種類
+- 車道數減少
+- 車道數不變，寬度瘦身
+- 新增人行道
+- 新增植栽槽-灌木
+- 新增植栽槽-喬木樹穴
+
+---
+
+## 類型三：面狀待開發地區，包含重劃區、都市更新範圍、環評案件等，規劃方案將影響水綠配置
 
 說明：重劃與環評，會釋出預計改變地貌的地區範圍，其正當性與環境衝擊需另從法制與社會倡議機制著手，專案這邊蒐集重劃與環評案件，著重在取得地理位置與範圍。
 1. 若該案件正在規劃中，可檢視其正當性與必要性，以及其規劃方案是否因應地貌環境。
