@@ -123,6 +123,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 1940 台北市公車路線圖 https://www.facebook.com/share/aUeANjUcrTVifzGx/
         - 公車照片 https://www.facebook.com/share/p/ubpFZ5weChXnGQ2t/
     - 1932 照片鳥瞰 臺灣神社 https://www.facebook.com/share/p/B8tYT1UVD3u4z5sn/
+    - 1940-1949 照片，明治橋與鳥居 https://www.facebook.com/share/19vceMzTyu/
     - 大直戰俘營，濱江街 煉瓦工場 https://www.facebook.com/share/p/1CuhSAjWo6/?mibextid=wwXIfr
     - 照片，駐台美軍William Eggert 的C-130運輸機從松山機場往西起飛後到達現在花博公園美術園區(即天橋東邊)時由駕駛艙左側向東南方拍攝的。當時新生北路高架橋還沒建。照片內有德惠街雙城街口
         - https://www.facebook.com/share/p/ivdDxFZRiP231DZL/
@@ -207,6 +208,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
         - https://www.facebook.com/photo/?fbid=6850263598390831&set=a.460224687394786
         - https://www.facebook.com/photo/?fbid=6850263558390835&set=a.460224687394786
     - 1975-1976 敦化南路與林安泰古厝 https://www.facebook.com/share/p/YSscboMCyni5K3SU/
+    - 1988 照片 敦化南路基隆路口 https://www.facebook.com/share/p/1C3UophTa4/
     - 19 照片敦化南路一段187巷大樓興建 https://www.facebook.com/share/VpgAXY2kP1VHQYee/
     - 棒球場，七號公園 球場 https://www.facebook.com/share/p/1U26Ji8Bm1/?mibextid=wwXIfr
     - 1976 興建前 中正紀念堂 照片 https://www.facebook.com/share/p/1FeMuGyNXV/?mibextid=wwXIfr
