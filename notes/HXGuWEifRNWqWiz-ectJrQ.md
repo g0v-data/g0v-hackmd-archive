@@ -139,6 +139,68 @@ class Solution:
         # ]
         return list(d.values())
 ```
+### Longest Consecutive Sequence(128)
+:::warning
+Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
+
+You must write an algorithm that runs in O(n) time.
+
+ 
+
+Example 1:
+
+Input: nums = [100,4,200,1,3,2]
+Output: 4
+Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+Example 2:
+
+Input: nums = [0,3,7,2,5,8,4,6,0,1]
+Output: 9
+Example 3:
+
+Input: nums = [1,0,1,2]
+Output: 3
+:::
+```
+class Solution:
+    def longestConsecutive(self, nums: List[int]) -> int:
+
+        # 將 nums 轉成 set
+        # 1. 去除重複數字
+        # 2. set 查找某個數字是否存在的速度很快，平均 O(1)
+        new = set(nums)
+
+        # 紀錄目前找到的最長連續長度
+        count = 0
+
+        # 逐一檢查 set 裡面的數字
+        for i in new:
+
+            # 如果 i - 1 不存在
+            # 代表 i 是某一串連續數字的「起點」
+            #
+            # 例如 i = 1：
+            # 0 不在 new 中
+            # 所以 1 可能是 1, 2, 3, 4... 的起點
+            if i - 1 not in new:
+
+                # 目前至少有 i 自己，所以長度從 1 開始
+                length = 1
+
+                # 檢查下一個連續數字是否存在
+                #
+                # length = 1 → 檢查 i + 1
+                # length = 2 → 檢查 i + 2
+                # length = 3 → 檢查 i + 3
+                while length + i in new:
+                    length += 1
+
+                # 更新目前最長的連續長度
+                count = max(count, length)
+
+        # 回傳最長連續數字的長度
+        return count
+```
 ### Product of Array Except Self(238)
 :::warning
 Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
