@@ -61,6 +61,84 @@ class Solution:
         return True
 ```
 ## Arrays & Hashing
+### Group Anagrams(49)
+:::warning
+Given an array of strings strs, group the anagrams together. You can return the answer in any order.
+
+ 
+
+Example 1:
+
+Input: strs = ["eat","tea","tan","ate","nat","bat"]
+
+Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
+
+Explanation:
+
+There is no string in strs that can be rearranged to form "bat".
+The strings "nat" and "tan" are anagrams as they can be rearranged to form each other.
+The strings "ate", "eat", and "tea" are anagrams as they can be rearranged to form each other.
+Example 2:
+
+Input: strs = [""]
+
+Output: [[""]]
+
+Example 3:
+
+Input: strs = ["a"]
+
+Output: [["a"]]
+:::
+```
+from collections import defaultdict
+
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+
+        # 建立 dictionary
+        # key：排序後的字串
+        # value：具有相同字母組合的字串
+        d = defaultdict(list)
+
+        # 一個一個取出 strs 裡面的字串
+        for i in strs:
+
+            # sorted(i)：
+            # 將字串的字母拆開並排序
+            # 例如 "eat" -> ['a', 'e', 't']
+            
+            # ''.join(...)：
+            # 將排序後的字母重新組合成字串
+            # ['a', 'e', 't'] -> "aet"
+            
+            # 因此 "eat"、"tea"、"ate"
+            # 排序後都會得到相同的 key = "aet"
+            key = ''.join(sorted(i))
+
+            # 將原本的字串加入對應的群組
+            # 例如：
+            # d["aet"] = ["eat", "tea", "ate"]
+            d[key].append(i)
+
+        # d.values() 只取得 dictionary 裡所有的 value
+        # 再使用 list() 將它轉成 list
+        #
+        # {
+        #   "aet": ["eat", "tea", "ate"],
+        #   "ant": ["tan", "nat"],
+        #   "abt": ["bat"]
+        # }
+        #
+        # ↓
+        #
+        # [
+        #   ["eat", "tea", "ate"],
+        #   ["tan", "nat"],
+        #   ["bat"]
+        # ]
+        return list(d.values())
+```
 ### Product of Array Except Self(238)
 :::warning
 Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].

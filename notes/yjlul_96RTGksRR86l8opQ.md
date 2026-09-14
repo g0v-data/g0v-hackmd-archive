@@ -1,0 +1,1 @@
+<a href="https://xx88.center/">XX88</a> là nền tảng giải trí trực tuyến được nhiều người quan tâm nhờ giao diện hiện đại, tốc độ truy cập ổn định và hệ thống dịch vụ đa dạng. Với định hướng mang đến trải nghiệm thuận tiện, XX88 chú trọng tối ưu thao tác, cập nhật nội dung thường xuyên và xây dựng không gian giải trí thân thiện cho người dùng.<br>

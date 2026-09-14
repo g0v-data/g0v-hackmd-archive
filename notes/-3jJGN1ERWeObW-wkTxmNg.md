@@ -1,0 +1,2 @@
+GO99 Link Truy Cập GO99 COM Tặng Thưởng 888.888K
+[GO99](https://go99online.games/) là nền tảng giải trí trực tuyến có nguồn gốc từ Philippines, được giới thiệu thành lập vào năm 2018 và mở rộng hoạt động tại thị trường Việt Nam từ năm 2020. Sau nhiều năm phát triển, thương hiệu tập trung xây dựng hệ sinh thái giải trí đa dạng với Casino, Nổ Hũ, Bắn Cá, Game Bài, Thể Thao và Xổ Số. GO99 cũng chú trọng đầu tư giao diện, hệ thống bảo mật và dịch vụ hỗ trợ nhằm mang đến trải nghiệm thuận tiện hơn cho thành viên.
