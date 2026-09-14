@@ -125,6 +125,8 @@ https://photos.app.goo.gl/XSHtpaX6tPithYhA8
 - 待確認 https://m.facebook.com/story.php?story_fbid=pfbid02KMUBzKK6HFHXWLJkzaCZ88nj9j8Gguaf4kVo7VE8A9rfoDEKV6uj4JWDzjECbRDdl&id=680154561&mibextid=WC7FNe
 - 待確認 霧面貼紙 https://photos.app.goo.gl/EAqtFkbvNqaFKVqe9
 - 太陽能設施 https://www.facebook.com/share/r/sNafmWQrWQrJbJCJ/
+- DIY彩繪筆怎麼挑？
+    - https://www.facebook.com/groups/307904289925035?multi_permalinks=2013741129341334&hoisted_section_header_type=recently_seen&locale=zh_TW
 
 韓國案例
 https://www.facebook.com/share/p/2nmtFKQ15zLsQn1W/

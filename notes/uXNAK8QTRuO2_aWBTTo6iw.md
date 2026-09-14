@@ -5,24 +5,9 @@ Chainlon 展頌臨時文字紀錄區，公開頁面、嚴禁機密資料，快�
 目錄
 [TOC]
 :::
-| 平台名稱 | 用途說明 | 網址 |
-| -------- | -------- | -------- |
-| POE AI| AI整合平台| https://poe.com| 
-| ChatGPT| OpenAI GAI| https://chatgpt.com/| 
-| Copilot| 微軟GAI| https://copilot.microsoft.com/| 
-| Gemini| Google GAI| https://gemini.google.com/| 
-| Claude| 程式撰寫 GAI| https://claude.ai/|
-| Grok| X(Twitter) GAI| https://grok.com/|
-| Perplexity| Perplexity AI| https://www.perplexity.ai/| 
-| Google NotebookLM| 資料匯整總結 、語音轉檔 、OCR，強大的個人知識庫| https://notebooklm.google.com/| 
-| toolify| AI網站和工具介紹| https://www.toolify.ai/tw/| 
-| Globe Explorer| 結構式知識搜尋引擎| https://explorer.globe.engineer/| 
-| Gamma| 快速PPT| https://gamma.app/zh-tw| 
-| Gitmind| 知識心智圖(中國)| https://gitmind.com/| 
-| Xanswer| 知識心智圖(中國)| https://www.xanswer.com| 
-| leonardo| 圖片生成| https://leonardo.ai/| 
+暫時文字放在下方：
 
-![](https://g0v.hackmd.io/_uploads/SyUTDlQwGl.png)
+https://teams.microsoft.com/meet/47588655910144?p=jheAZKBZs8Z1k19JmV
 
 
 #### 常用指令
