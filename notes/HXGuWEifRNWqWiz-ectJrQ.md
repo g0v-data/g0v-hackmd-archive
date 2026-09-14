@@ -1132,6 +1132,61 @@ class MinStack:
         # 永遠代表目前最小值
         return self.min_stack[-1]
 ```
+### Daily Temperatures(739)
+:::warning
+Given an array of integers temperatures represents the daily temperatures, return an array answer such that answer[i] is the number of days you have to wait after the ith day to get a warmer temperature. If there is no future day for which this is possible, keep answer[i] == 0 instead.
+
+ 
+
+Example 1:
+
+Input: temperatures = [73,74,75,71,69,72,76,73]
+Output: [1,1,4,2,1,1,0,0]
+Example 2:
+
+Input: temperatures = [30,40,50,60]
+Output: [1,1,1,0]
+Example 3:
+
+Input: temperatures = [30,60,90]
+Output: [1,1,0]
+:::
+```
+class Solution:
+    def dailyTemperatures(self, temps):
+
+        # 建立答案陣列
+        # 預設全部都是 0
+        # 如果某一天之後都沒有更高溫度，就保持 0
+        results = [0] * len(temps)
+
+        # stack 存「還沒找到更高溫度」的 index
+        stack = []
+
+        # i = index（第幾天）
+        # temp = 當天溫度
+        for i, temp in enumerate(temps):
+
+            # 如果 stack 不為空
+            # 而且目前溫度 temp
+            # 比 stack 最上面那一天的溫度還高
+            #
+            # 代表 stack 最上面那一天
+            # 終於找到第一個比它高的溫度
+            while stack and temps[stack[-1]] < temp:
+
+                # 取出那一天的 index
+                index = stack.pop()
+
+                # i - index = 等了幾天
+                results[index] = i - index
+
+            # 目前這一天先放入 stack
+            # 等未來出現比它更高的溫度
+            stack.append(i)
+
+        return results
+```
 ## Linked List
 ### Add Two Numbers(2)
 :::warning
