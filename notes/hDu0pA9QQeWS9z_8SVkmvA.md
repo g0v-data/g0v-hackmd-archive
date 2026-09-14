@@ -10,6 +10,12 @@ tags: FtO, g0v-intl
     - Address: 200 Yeongsin-ro, Yeongdeungpo District, Seoul ([Google Maps](https://maps.app.goo.gl/HEdT756pghTgKfEN9)) ([NAVER Maps](https://naver.me/FG3SnyDm))
     - ==NO smoking NO alcohol in the venue!==
 - Code of conduct: [English](https://g0v.tw/coc/en/), [Korean](https://codefor.kr/pages/581), [Mandarin](https://g0v.tw/coc/), [Japanese](https://github.com/codeforjapan/codeofconduct)
+- Other communications: Use **#facing-the-ocean** channel in each community's Slack or Discord: [Join g0v Slack](https://join.g0v.tw/) / [Join Code for Korea Discord](https://discord.com/invite/7TFjpyqsNC) / [Join Code for Japan Slack](https://join.slack.com/t/cfj/shared_invite/zt-2fpevxmog-i09Wj6RLrKkoLKmKaektsw) (find #overseas-facing_the_ocean)
+- Emergency contact:
+    - Eunsoo: +82(0)1071558653
+    - Klou: +82(0)1026488514
+    - Rebane: +82(0)1055125913
+
 
 ## Schedule
 <table>
