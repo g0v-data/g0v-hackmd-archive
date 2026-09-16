@@ -1132,6 +1132,91 @@ class MinStack:
         # 永遠代表目前最小值
         return self.min_stack[-1]
 ```
+### Next Greater Element II
+:::warning
+Given a circular integer array nums (i.e., the next element of nums[nums.length - 1] is nums[0]), return the next greater number for every element in nums.
+
+The next greater number of a number x is the first greater number to its traversing-order next in the array, which means you could search circularly to find its next greater number. If it doesn't exist, return -1 for this number.
+
+ 
+
+Example 1:
+
+Input: nums = [1,2,1]
+Output: [2,-1,2]
+Explanation: The first 1's next greater number is 2; 
+The number 2 can't find next greater number. 
+The second 1's next greater number needs to search circularly, which is also 2.
+Example 2:
+
+Input: nums = [1,2,3,4,3]
+Output: [2,3,4,-1,4]
+:::
+```
+class Solution: 
+    def nextGreaterElements(self, nums: list[int]) -> list[int]: 
+
+        # stack 存放「還沒找到下一個更大元素」的 index
+        stack = []
+
+        # greater 用來記錄：
+        # key = index
+        # value = 該位置右邊第一個比它大的數字
+        greater = {}
+
+        # nums 的長度
+        n = len(nums)
+
+        # 跑 2 * n 次，模擬 circular array（循環陣列）
+        #
+        # 例如 nums = [1, 2, 1]
+        # 實際檢查的感覺像：
+        # [1, 2, 1, 1, 2, 1]
+        for num in range(2 * n):
+
+            # num % n：
+            # 當 num 超過陣列範圍後，重新回到前面
+            #
+            # n = 3 時：
+            # num     = 0 1 2 3 4 5
+            # num % n = 0 1 2 0 1 2
+
+            # stack[-1] 是之前還沒找到答案的 index
+            #
+            # 如果目前的數字 nums[num % n]
+            # 比 stack 最上面的數字還大
+            # 代表 stack 最上面的位置找到 next greater element
+            while stack and nums[stack[-1]] < nums[num % n]:
+
+                # 取出找到答案的 index
+                index = stack.pop()
+
+                # 目前的數字就是它的下一個更大元素
+                greater[index] = nums[num % n]
+
+            # 只有第一輪才把 index 放進 stack
+            #
+            # 第二輪不需要再放
+            # 第二輪只是讓第一輪沒找到答案的數字
+            # 有機會從陣列開頭繼續找
+            if num < n:
+                stack.append(num)
+
+        # 跑完兩輪之後
+        # 如果 stack 裡還有 index
+        # 代表繞完整個陣列都找不到更大的數字
+        while stack:
+
+            index = stack.pop()
+
+            # 找不到 next greater element → -1
+            greater[index] = -1
+
+        # num 這裡代表 index：0 ~ n-1
+        # 按照原本 nums 的順序
+        # 取出每個 index 對應的 next greater element
+        return [greater[num] for num in range(n)]
+```
 ### Daily Temperatures(739)
 :::warning
 Given an array of integers temperatures represents the daily temperatures, return an array answer such that answer[i] is the number of days you have to wait after the ith day to get a warmer temperature. If there is no future day for which this is possible, keep answer[i] == 0 instead.
