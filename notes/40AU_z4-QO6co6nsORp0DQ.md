@@ -1,0 +1,1 @@
+[GK88](https://gk88.now/) là nhà cái trực tuyến uy tín hàng đầu, mang đến trải nghiệm cá cược thể thao, casino live và game bài đa dạng với tỷ lệ cược hấp dẫn. Hệ thống bảo mật cao, nạp rút siêu tốc, hỗ trợ 24/7 giúp người chơi yên tâm tham gia. Giao diện thân thiện, ưu đãi chào mừng hấp dẫn đang chờ đón bạn khám phá ngay hôm nay tại nền tảng chất lượng này.
