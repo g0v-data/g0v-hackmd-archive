@@ -1,0 +1,1 @@
+<a href="https://tylekeonhanh.com/">Sc88</a> là nền tảng cung cấp thông tin bóng đá, tỷ lệ kèo và các nhận định trước trận, giúp người đọc dễ dàng cập nhật diễn biến và tham khảo dữ liệu bóng đá mới nhất. 
