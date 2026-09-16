@@ -7,7 +7,8 @@ Chainlon 資訊管理用暫存區，公開頁面、嚴禁機密資料
 [TOC]
 
 :::
-[](https://)
+windows hello security process cpu使用率
+https://www.google.com/search?q=windows+hello+security+process+cpu%E4%BD%BF%E7%94%A8%E7%8E%87&sca_esv=c1317ce640437651&sxsrf=APpeQnvV9WsRQArUzKTaJPTIcRbxRrLg8A%3A1789548657783&source=hp&ei=cViqaseNLYafvr0PgemF4QQ&iflsig=ABILxe8AAAAAaqpmgVrSQ_Sy1zMWLKj5tSJdlmsr3YFp&oq=windows+hello+secu&gs_lp=Egdnd3Mtd2l6IhJ3aW5kb3dzIGhlbGxvIHNlY3UqBQgBGIAEMgUQABiABDIFEAAYgAQyCxAAGIAEGMsBGLQHMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyBBAAGB4yBBAAGB5Ixk5QAFjFP3AAeACQAQCYAYIBoAHUBqoBBDE2LjK4AQPIAQD4AQGYAhKgAvwGwgIEECMYJ8ICCBAAGIAEGLEDwgIOEAAYgAQYigUYsQMYgwHCAgsQABiABBixAxiDAcICDhAuGIAEGLEDGMcBGNEDwgIFEC4YgATCAhEQLhiABBixAxiDARjHARjRA8ICCBAuGIAEGLEDwgIIEAAYgAQYtAeYAwCSBwQxNi4yoAevXbIHBDE2LjK4B_wGwgcGMC4xNy4xyAcZgAgB&sclient=gws-wiz
 ### 常用連結
 7-Zip https://www.7-zip.org/a/7z2301-x64.exe
 Chainlon 01Backup https://www.chainlon.net/1/01Backup.zip

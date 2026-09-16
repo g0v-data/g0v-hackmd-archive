@@ -10,6 +10,9 @@ tags: vTaiwan
 Peter, Bestian, Thompson, Tim, Josh, Allison, Soth
 
 
+![](https://g0v.hackmd.io/_uploads/SJxFlHRPYfg.png)
+![](https://g0v.hackmd.io/_uploads/BkFlS0vtfe.png)
+
 https://www.vtaiwan.tw/jitsi 
 (請用Google登入以參與視訊並啟用轉錄功能)
 
