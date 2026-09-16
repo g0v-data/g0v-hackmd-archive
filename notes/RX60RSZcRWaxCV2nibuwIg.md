@@ -69,5 +69,7 @@ https://www.facebook.com/shangkuanlc/posts/pfbid0bJDbG8iEgZuCurgrvriKA5niiGxiauT
 - 活動地點一：交隴半山．離島書店 (連江縣南竿鄉介壽村256號 ，舊中正圖書館旁）
 - 活動地點二：g0v 台北社群空間 (臺北市中正區重慶南路三段2號2樓202室)
 - 會進行兩地連線
+- 報名網址
+https://forms.gle/gtV9aYyW2GH4mztk7
 
 
