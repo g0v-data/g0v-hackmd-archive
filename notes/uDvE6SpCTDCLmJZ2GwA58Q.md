@@ -80,7 +80,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 《諸羅縣誌》山川總圖北部。影像來源：維基百科
     - 歷史地圖 https://www.facebook.com/share/p/ZHmx9jxcTKPgYpad/
     - 太古巢 河邊舊址 https://youtu.be/eRaDSA-qaxk
-    - 基隆河 老照片 https://www.facebook.com/share/1bjxdFacqZ/
+    - 重要 基隆河劍潭古寺遷移後 老照片 https://www.facebook.com/share/1bjxdFacqZ/
     - 重要 [有照片] 大安森林公園內，黃氏古厝水柳居 https://youtu.be/qJ1M7FAgOKY?si=ynev4MVRPY3oSHCz&t=330
     - 重要 植物園裡面的清代墳墓 https://www.facebook.com/share/1Z9AQJ1KKF/
     - 東門護城河溝 https://www.facebook.com/105231068229012/photos/a.105265611558891/312616044157179/?type=3&mibextid=cr9u03
@@ -140,6 +140,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 1959 復旦橋，敦化南北路與鐵路
         - https://www.facebook.com/share/p/ccUvBFhRaRHkJ3sq/
         - https://www.facebook.com/DigiSideEff/posts/pfbid08GY8QU7faTuxRf993LXTz4ybxRE7L8DozbRDXvS2z7BNCE3VcCxFWnF1h7CCKMgel
+    - 1965 照片 萬新鐵路與蟾蜍山 https://www.facebook.com/share/p/1DRjSRrHz5/
     - 1965 基隆河改道工程 https://youtu.be/fQ2H5hXxDeY
     - 1964 防洪工程https://youtu.be/Cja6jUKDSgs
     - 1964 堤防工程 https://youtu.be/KeX_zpBLShc
@@ -147,6 +148,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 葛樂禮颱風影片 https://youtu.be/wfjw31pbaac
     - 重要 1962 年新生大排，影片https://youtu.be/1QqaB9URJj8
     - 1963 道路似乎有溝渠https://youtu.be/pVQQuBZDl-w
+    - 1964 照片 1964年臺北市東北區 左起最遠方為興建中的中泰賓館，其次，中間最遠為中華體育館，右邊尖塔地區為中華民國五十三年經濟建設成果展覽會，尖塔再偏右一些即臺視。圖右側稍近些為北二女(中山女高)，左側為中正國校(中正國小)。拍攝地點約松江路上。 https://www.facebook.com/share/p/1FBVts2KaU/
     - 1946 道路有溝渠https://youtu.be/Ga9ZeMnj-zQ
     - 1956 螢橋https://youtu.be/Ww6Ci2spKu4
     - 大台北瓦斯公司開工影片 https://youtube.com/shorts/c6nIn6u1vSA?si=6m2x_5nf1CpHRT-W
