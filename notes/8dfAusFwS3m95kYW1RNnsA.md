@@ -34,6 +34,10 @@ https://www.facebook.com/share/p/1Bp6v5iMZV/
 - https://g0v.hackmd.io/EqUzAMedQ7OIAUpHidk-Hg?view
 
 
+大文山 與 臺北市 相互對應，似乎有碎形關係，山水佈局類似
+- https://www.facebook.com/share/p/1JJ9Rh5kuU/
+
+
 ## 待整理
 
 https://www.facebook.com/share/1dRjcFEETB/
