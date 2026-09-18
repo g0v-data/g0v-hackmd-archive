@@ -1,0 +1,2 @@
+v79 dev
+<a href="https://v79.dev/">v79</a> định vị là một trong những thương hiệu nhà cái uy tín hàng đầu xuất phát từ thị trường Philippines, hiện đang mở rộng và phát triển mạnh mẽ tại hệ sinh thái giải trí trực tuyến Việt Nam. Nền tảng cung cấp hệ sinh thái trò chơi đa dạng bao gồm cá cược thể thao, nổ hũ đổi thưởng, bắn cá ăn xu, đá gà trực tuyến, game bài đổi thưởng, thể thao điện tử (esports) và sòng bạc trực tuyến casino.

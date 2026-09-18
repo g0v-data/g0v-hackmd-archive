@@ -64,6 +64,11 @@ The public information you gave in the registration form (nickname, location, se
 - [More about the venue](https://drive.google.com/drive/folders/1-4rusyPqKDIh0mjoYv70pn41ipvLd45L)
 
 Haja Center is a creative community space in Yeongdeungpo focused on learning-by-doing, youth projects, craftsmanship, and community building.
+- 3rd Floor Map
+![](https://g0v.hackmd.io/_uploads/HyRlmQcYfe.png)
+yellow: toilets and wastebins
+red: Spaces where you shouldn't enter
+
 
 ## 🎉 Welcome Party
 - Friday 18th September evening 

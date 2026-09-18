@@ -34,7 +34,9 @@ https://www.facebook.com/share/p/1Bp6v5iMZV/
 - https://g0v.hackmd.io/EqUzAMedQ7OIAUpHidk-Hg?view
 
 
-大文山 與 臺北市 相互對應，似乎有碎形關係，山水佈局類似
+流域碎形
+- 大文山 與 臺北市 相互對應，似乎有碎形關係，山水佈局類似，河流切穿西南-東北走向的山系；指南溪案例可以作為四分溪參考，政大與中研院在空降選址與闢建歷程也有點類似
+- 兩河匯流：大嵙崁溪與三峽河匯流地區 vs 大漢溪匯流淡水河
 - https://www.facebook.com/share/p/1JJ9Rh5kuU/
 
 
