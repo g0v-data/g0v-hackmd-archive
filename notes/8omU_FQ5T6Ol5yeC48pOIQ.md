@@ -15,6 +15,8 @@ https://tw.bitwar.net/course/tips/3528.html
 下載Brave
 curl https://www.chainlon.net/1/Brave-portable.zip -o C:\App\Brave-portable.zip 
 
+HISKIO tom:https://hiskio.com/bundles/dnzg2jxmex5k
+
 ### 常用指令：
 ```
 顯示外部IP：curl ifconfig.me
