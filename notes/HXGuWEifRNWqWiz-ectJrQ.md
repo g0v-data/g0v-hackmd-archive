@@ -1132,7 +1132,7 @@ class MinStack:
         # 永遠代表目前最小值
         return self.min_stack[-1]
 ```
-### Next Greater Element II
+### Next Greater Element II(503)
 :::warning
 Given a circular integer array nums (i.e., the next element of nums[nums.length - 1] is nums[0]), return the next greater number for every element in nums.
 
@@ -1271,6 +1271,80 @@ class Solution:
             stack.append(i)
 
         return results
+```
+### Car Fleet(853)
+:::warning
+There are n cars at given miles away from the starting mile 0, traveling to reach the mile target.
+
+You are given two integer arrays position and speed, both of length n, where position[i] is the starting mile of the ith car and speed[i] is the speed of the ith car in miles per hour.
+
+A car cannot pass another car, but it can catch up and then travel next to it at the speed of the slower car.
+
+A car fleet is a single car or a group of cars driving next to each other. The speed of the car fleet is the minimum speed of any car in the fleet.
+
+If a car catches up to a car fleet at the mile target, it will still be considered as part of the car fleet.
+
+Return the number of car fleets that will arrive at the destination.
+
+ 
+
+Example 1:
+
+Input: target = 12, position = [10,8,0,5,3], speed = [2,4,1,1,3]
+
+Output: 3
+
+Explanation:
+
+The cars starting at 10 (speed 2) and 8 (speed 4) become a fleet, meeting each other at 12. The fleet forms at target.
+The car starting at 0 (speed 1) does not catch up to any other car, so it is a fleet by itself.
+The cars starting at 5 (speed 1) and 3 (speed 3) become a fleet, meeting each other at 6. The fleet moves at speed 1 until it reaches target.
+:::
+```
+class Solution:
+    def carFleet(self, target: int, position: list[int], speed: list[int]) -> int:
+
+        # 將每台車的「位置」和「速度」綁在一起
+        # 例如：
+        # position = [10, 8, 0]
+        # speed    = [2, 4, 1]
+        # cars = [(10, 2), (8, 4), (0, 1)]
+        cars = list(zip(position, speed))
+
+        # 按照 position 由大到小排序
+        # 也就是從「最靠近終點」的車開始處理
+        cars.sort(reverse=True)
+
+        # stack 用來記錄每個車隊（Fleet）抵達終點所需的時間
+        stack = []
+
+        # 依序取出每台車的位置 pos 和速度 spd
+        for pos, spd in cars:
+
+            # 計算這台車如果沒有被擋住
+            # 抵達 target 所需要的時間
+            # 時間 = 距離 / 速度
+            time = (target - pos) / spd
+
+            # 如果 stack 是空的：
+            # 代表目前是第一台車，直接形成一個 Fleet
+            #
+            # 或者：
+            # 這台車的抵達時間 > 前方 Fleet 的抵達時間
+            # 代表這台車比較慢，追不上前面的 Fleet
+            # 因此自己形成一個新的 Fleet
+            if not stack or time > stack[-1]:
+                stack.append(time)
+
+            # 如果 time <= stack[-1]
+            # 代表這台車比前面的 Fleet 快（或一樣快）
+            # 可以在抵達 target 前追上前面的 Fleet
+            # 所以會合併成同一個 Fleet
+            # 不需要加入 stack
+
+        # stack 裡有幾個抵達時間
+        # 就代表最後有幾個 Car Fleet
+        return len(stack)
 ```
 ## Linked List
 ### Add Two Numbers(2)
