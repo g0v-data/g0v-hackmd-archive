@@ -1,0 +1,2 @@
+![](https://g0v.hackmd.io/_uploads/rkFEOzctMe.jpg)
+<a href="https://88kbet.it.com/">88kbet</a> là nhà cái cá cược trực tuyến uy tín, thu hút đông đảo người chơi nhờ hệ sinh thái giải trí đa dạng, tỷ lệ kèo cạnh tranh và công nghệ bảo mật hiện đại. Nền tảng liên tục cập nhật các sự kiện thể thao hàng đầu như WORLD CUP, Champions League, Ngoại hạng Anh cùng hàng nghìn trò chơi casino, slot và thể thao điện tử hấp dẫn.
