@@ -47,6 +47,8 @@ https://www.facebook.com/share/1EQU9YjMFy/
 - 清洗用途的洗滌劑
 - 施工工地
     - https://www.facebook.com/share/p/PQP5x2MCDpZjpzzY/
+- 活動使用的彩繪顏料、粉筆等
+    - https://www.facebook.com/watch/?v=2153454878593008
 
 ### 逕流水質肇因場域
 
@@ -69,9 +71,8 @@ https://www.facebook.com/share/1EQU9YjMFy/
 針對特定場域的雨水逕流，必須接管至污水下水道
 - 加油站
 
+筆記
 - 水溝蓋設置攔汙裝置 https://www.facebook.com/share/iTUDkQnbQPtFh1kr/
-
-
 - 定點垃圾蒐集系統 https://www.facebook.com/share/v/ceNQXW49RrLscZvs/
 
 
