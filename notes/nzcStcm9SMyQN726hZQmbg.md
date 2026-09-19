@@ -1,0 +1,1 @@
+[JD88](https://jd88-vn.casino/) hướng đến xây dựng một không gian giải trí trực tuyến hiện đại với danh mục nội dung phong phú. Nền tảng sở hữu giao diện trực quan, bố cục rõ ràng và hỗ trợ người dùng truy cập trên nhiều thiết bị. Bên cạnh đó, JD88 liên tục cập nhật thêm các lựa chọn giải trí nhằm mang đến trải nghiệm đa dạng và thuận tiện hơn.
