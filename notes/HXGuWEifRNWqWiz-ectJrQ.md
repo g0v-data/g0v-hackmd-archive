@@ -1976,6 +1976,56 @@ class Solution:
 
 ```
 ## Tree
+### Binary Tree Level Order Traversal(102)
+:::warning
+![](https://g0v.hackmd.io/_uploads/BJfaslntze.png)
+
+:::
+```
+from collections import deque
+
+class Solution:
+    def levelOrder(self, root: TreeNode | None) -> list[list[int]]:
+
+        # 空 Tree
+        if not root:
+            return []
+
+        # BFS Queue
+        q = deque([root])
+
+        # 儲存每一層的結果
+        answer = []
+
+        while q:
+
+            # 紀錄目前這一層有幾個節點
+            size = len(q)
+
+            # 儲存目前這一層的節點
+            level = []
+
+            # 只處理目前這一層
+            for _ in range(size):
+
+                node = q.popleft()
+
+                # 加入目前這一層
+                level.append(node.val)
+
+                # 將下一層加入 Queue
+                if node.left:
+                    q.append(node.left)
+
+                if node.right:
+                    q.append(node.right)
+
+            # 目前這一層處理完
+            # 加入最終答案
+            answer.append(level)
+
+        return answer
+```
 ### Binary Tree Right Side View(199)
 :::warning
 ![](https://g0v.hackmd.io/_uploads/S1cuvenYMe.png)
@@ -2005,6 +2055,32 @@ class Solution:
                 if node.right:
                     a.append(node.right)
         return answer
+```
+### Lowest Common Ancestor of a Binary Search Tree(235)
+:::warning
+![](https://g0v.hackmd.io/_uploads/H1eeJgbntMg.png)
+
+:::
+```
+class Solution:
+    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+        while root:
+
+            # p、q 都比 root 小
+            # 代表兩個都在左子樹
+            if p.val < root.val and q.val < root.val:
+                root = root.left
+
+            # p、q 都比 root 大
+            # 代表兩個都在右子樹
+            elif p.val > root.val and q.val > root.val:
+                root = root.right
+
+            # 一個在左、一個在右
+            # 或其中一個就是 root
+            # 代表目前 root 就是 LCA
+            else:
+                return root
 ```
 ### Count Good Nodes in Binary Tree(1448)
 :::warning
