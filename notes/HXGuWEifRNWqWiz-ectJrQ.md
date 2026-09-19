@@ -1975,7 +1975,107 @@ class Solution:
         return False
 
 ```
+## Tree
+### Binary Tree Right Side View(199)
+:::warning
+![](https://g0v.hackmd.io/_uploads/S1cuvenYMe.png)
 
+:::
+```
+class Solution:
+    def rightSideView(self, root: TreeNode | None) -> list[int]:
+        if not root:
+            return []
+        answer=[]
+        a=deque([root])
+        while a:
+             # 紀錄目前這一層有幾個節點
+            size = len(a)
+
+            for i in range(size):
+
+                node = a.popleft()
+
+                # 如果是這一層最後一個節點
+                # 代表它是最右邊的節點
+                if i == size - 1:
+                    answer.append(node.val)
+                if node.left:
+                    a.append(node.left)
+                if node.right:
+                    a.append(node.right)
+        return answer
+```
+### Count Good Nodes in Binary Tree(1448)
+:::warning
+![](https://g0v.hackmd.io/_uploads/BJeF2wlhtGx.png)
+
+:::
+
+==dfs==
+```
+class Solution:
+    def goodNodes(self, root: TreeNode) -> int:
+        def good_nodes_helper(root, upper_bound):
+            if root is None:
+                return 0
+
+            if root.val < upper_bound:
+                return good_nodes_helper(root.left, upper_bound) + good_nodes_helper(root.right, upper_bound)
+            else:
+                # case: root.val >= upper_bound
+                return 1 + good_nodes_helper(root.left, root.val) + good_nodes_helper(root.right, root.val)
+
+        return good_nodes_helper(root, root.val)
+```
+==bfs==
+```
+class Solution:
+    def goodNodes(self, root: TreeNode) -> int:
+
+        # 如果 Tree 是空的，沒有 Good Node
+        if not root:
+            return 0
+
+        # 紀錄 Good Node 的數量
+        count = 0
+
+        # Queue 裡每一筆資料存：
+        # (目前節點, 從 root 走到目前路徑的最大值)
+        # 一開始只有 root，所以最大值就是 root.val
+        a = deque([(root, root.val)])
+        
+        # BFS：只要 Queue 還有節點就繼續處理
+        while a:
+            
+            # 取出 Queue 最前面的資料
+            # node = 目前節點
+            # target = 這條路徑目前的最大值
+            node, target = a.popleft()
+
+            # 如果目前節點的值 >= 路徑最大值
+            # 代表從 root 到這個節點的路徑上
+            # 沒有任何節點比它大，所以是 Good Node
+            if node.val >= target:
+                count += 1
+
+            # 更新目前這條路徑的最大值
+            # 給下一層的節點使用
+            new_target = max(target, node.val)
+
+            # 如果有左子節點
+            # 將「左子節點 + 目前路徑最大值」一起加入 Queue
+            if node.left:
+                a.append((node.left, new_target))
+
+            # 如果有右子節點
+            # 將「右子節點 + 目前路徑最大值」一起加入 Queue
+            if node.right:
+                a.append((node.right, new_target))
+
+        # 回傳 Good Node 的總數
+        return count
+```
 ## Greedy
 ### Minimum Number of Pushes to Type Word II(3016)
 :::warning
