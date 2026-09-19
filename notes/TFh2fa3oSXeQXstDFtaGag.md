@@ -55,6 +55,9 @@ https://g0v.hackmd.io/3qZj8DoOS3y5DkfLgy4elA?view
 
 1851 西鄉隆盛，宜蘭 https://www.taiwanembassy.org/jpfuk/post/8697.html
 
+1858 史溫侯
+https://www.facebook.com/share/p/1Dt78PPfbs/
+
 1865 必麒麟與馬雅各 https://photos.app.goo.gl/m1Fyye2Z3WUMr45U6
 1866 必麒麟 https://photos.app.goo.gl/m1Fyye2Z3WUMr45U6
 1871 湯姆生與馬雅各 https://photos.app.goo.gl/m1Fyye2Z3WUMr45U6
