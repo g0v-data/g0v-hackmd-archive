@@ -1976,6 +1976,38 @@ class Solution:
 
 ```
 ## Tree
+### Validate Binary Search Tree(98)
+:::warning
+![](https://g0v.hackmd.io/_uploads/B1lnJn-3YGl.png)
+
+:::
+```
+class Solution:
+    def isValidBST(self, root: TreeNode | None) -> bool:
+        def dfs(node, low, high):
+
+            # 走到底都沒有違反規則
+            if not node:
+                return True
+
+            # 目前 node 必須位於合法範圍內
+            if node.val <= low or node.val >= high:
+                return False
+
+            # 左子樹：
+            # 最大值不能超過目前 node.val
+            left = dfs(node.left, low, node.val)
+
+            # 右子樹：
+            # 最小值不能低於目前 node.val
+            right = dfs(node.right, node.val, high)
+
+            # 左右兩邊都必須是合法 BST
+            return left and right
+
+        # root 一開始沒有上下界限制
+        return dfs(root, float("-inf"), float("inf"))
+```
 ### Binary Tree Level Order Traversal(102)
 :::warning
 ![](https://g0v.hackmd.io/_uploads/BJfaslntze.png)
