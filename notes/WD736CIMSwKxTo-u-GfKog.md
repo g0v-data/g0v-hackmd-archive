@@ -23,7 +23,6 @@
 - ㅌ：ㄊ t
 - ㅍ：ㄆ p
 - ㅎ：ㄏ h
-
 - ㅏ：ㄚ a 
 - ㅑ：ㄧㄚ ヤ ya
 - ㅓ：ㄛ
@@ -98,3 +97,5 @@
 쟝뿨런
 
 ㄏㄧ
+
+<https://sutian.moe.edu.tw/zh-hant/huliok/miasenn/>

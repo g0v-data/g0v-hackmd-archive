@@ -8,3 +8,5 @@
 - civic talk: https://civic-talk.pages.dev/issue?id=13 
 - vtaiwan.tw
 - https://make.vtaiwan.tw 
+- 
+- https://app.sli.do/event/voUTbHhTVC1CnZn8ZjZ3DW/live/questions
