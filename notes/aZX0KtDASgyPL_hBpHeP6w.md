@@ -53,5 +53,8 @@ https://www.facebook.com/share/p/18c8j1rMph/
 漢人信仰中的武德太子與宮古島
 https://photos.app.goo.gl/2uZqQRJ9Xyho32wr6
 
+薩摩會議與臺灣地方創生群體交流
+https://www.facebook.com/share/p/19ZkMDCv6Z/
 
 用這個島嶼連帶範圍，共軍灰色侵略航跡 (空域、海域)，是否能一起彙整，了解整體狀況
+https://photos.app.goo.gl/LkX1rETqmewkuWD68
