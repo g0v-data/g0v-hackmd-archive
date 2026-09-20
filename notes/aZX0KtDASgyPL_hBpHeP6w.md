@@ -16,12 +16,15 @@ tags: japan,
 和平島，曾有琉球人聚落
 北臺
 
+
 ## 當代交通
 
 基隆到石桓島
 https://www.uni-wagon.com/
 https://www.funliday.com/posts/okinawa-ishigaki-yaimaline/
+
 航線歷史 https://www.facebook.com/share/p/1RBYv8mSGR/
+https://www.facebook.com/share/1C5BnbLg5N/
 
 石垣島—與那國島—花蓮港
 https://www.facebook.com/share/v/19FzCrSXFy/
