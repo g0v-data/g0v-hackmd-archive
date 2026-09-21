@@ -114,6 +114,43 @@ A path in a binary tree is a sequence of nodes where each pair of adjacent nodes
 The path sum of a path is the sum of the node's values in the path.
 
 Given the root of a binary tree, return the maximum path sum of any non-empty path.
-![Uploading file..._ilsn6tha2]()
+![](https://g0v.hackmd.io/_uploads/S1lENDCKfl.png)
 
 :::
+```
+class Solution:
+    def maxPathSum(self, root: TreeNode | None) -> int:
+
+        # 紀錄目前找到的最大 Path Sum
+        self.max_sum = float("-inf")
+
+        def dfs(node):
+
+            # 走到底，沒有節點可以貢獻
+            if not node:
+                return 0
+
+            # 計算左子樹能提供多少
+            # 如果是負數，就不要這條路，所以取 0
+            left = max(dfs(node.left), 0)
+
+            # 計算右子樹能提供多少
+            # 如果是負數，就不要這條路，所以取 0
+            right = max(dfs(node.right), 0)
+
+            # 如果最大路徑經過目前 node
+            # 可以同時包含：左邊 + 自己 + 右邊
+            current_sum = left + node.val + right
+
+            # 更新整棵 Tree 的最大 Path Sum
+            self.max_sum = max(self.max_sum, current_sum)
+
+            # 回傳給 Parent 時不能左右都選
+            # 只能選比較大的其中一邊
+            return node.val + max(left, right)
+
+        dfs(root)
+
+        return self.max_sum
+        
+```
