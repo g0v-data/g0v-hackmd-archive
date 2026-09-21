@@ -1,5 +1,17 @@
 # Panograms Made Easy
 
+:::info
+This is a [FtO Seoul 2026](https://fto.asia/) project.
+
+Contributors:
+- RSChiang :flag-tw: 
+- Doran :flag-kr:
+- Samit :flag-tw:
+- Aoi :flag-jp: 
+- Uju :flag-kr:
+- Goeun :flag-kr:
+:::
+
 [Slides](https://docs.google.com/presentation/d/11dSuL_XD0oP7M1CBAMEOxOkTPscueCA4Lqkra9KxuNA/edit)
 
 ## Mapping
@@ -45,7 +57,7 @@
 - ㅞ：ㄨㄝ/ウェ
 - ㅟ：ㄨㄧ
 
-# Reverse-map
+## Reverse-map
 
 - ㄅ ㅃ 
 - ㄆ ㅍ p
@@ -84,21 +96,6 @@
 - ㄤ 앙
 - ㄥ 엉
 - ㄦ 얼(어r)
-
-ㄉㄛ ㄌㄢˊ
-
-多藍
-ㄉㄨㄛ ㄌㄢˊ
-
-ㄉㄨㄛ ㄌㄚ ㄝ ㄇㄥˋ
-哆啦Ａ夢
-
-哆啦嘿嘿嘿
-쟝뿨런
-
-ㄏㄧ
-
-<https://sutian.moe.edu.tw/zh-hant/huliok/miasenn/>
 
 ## Katakana Mapping
 
@@ -216,3 +213,8 @@
 - ワ 와
 - ヲ 워
 - ン 음
+
+## Resources
+
+- <https://sutian.moe.edu.tw/zh-hant/huliok/miasenn/>
+- <https://hangulize.org/>
