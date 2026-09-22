@@ -2187,8 +2187,66 @@ class Solution:
 ## Greedy
 ### Jump Game II(45)
 :::warning
+![](https://g0v.hackmd.io/_uploads/BklFYai15fg.png)
 
 :::
+```
+class Solution:
+    def jump(self, nums: list[int]) -> int:
+        jump = 0
+        current_end = 0
+        farthest = 0
+
+        for i in range(len(nums) - 1):
+
+            # 下一跳最遠可以到哪
+            farthest = max(farthest, i + nums[i])
+
+            # 目前這一跳的範圍已經檢查完
+            if i == current_end:
+                jump += 1
+                current_end = farthest
+
+                # 已經可以到最後一格
+                if current_end >= len(nums) - 1:
+                    break
+
+        return jump
+```
+### Maximum Subarray(53)
+:::warning
+![](https://g0v.hackmd.io/_uploads/BJd3poJcGg.png)
+
+:::
+==Kadane's Algorithm==
+```
+class Solution:
+    def maxSubArray(self, nums: list[int]) -> int:
+
+        # 紀錄目前找到的最大子陣列總和
+        # 設成負無限，避免 nums 全部都是負數時出錯
+        max_sum = float('-inf')
+
+        # 紀錄目前連續子陣列的總和
+        current_sum = 0
+
+        for i in range(len(nums)):
+
+            # 將目前的 nums[i] 加入連續子陣列
+            current_sum += nums[i]
+
+            # 更新目前找到的最大總和
+            max_sum = max(max_sum, current_sum)
+
+            # 如果目前累積總和小於 0
+            # 代表這段對後面的數字只會造成拖累
+            # 所以放棄前面的結果，讓下一個位置重新開始計算
+            if current_sum < 0:
+                current_sum = 0
+
+        # 回傳最大連續子陣列總和
+        return max_sum
+```
 ### Jump Game(55)
 :::warning
 ![](https://g0v.hackmd.io/_uploads/Bkl-oZsJ9Me.png)
