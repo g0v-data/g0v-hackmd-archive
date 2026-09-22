@@ -2185,6 +2185,32 @@ class Solution:
         return count
 ```
 ## Greedy
+### Jump Game II(45)
+:::warning
+
+:::
+### Jump Game(55)
+:::warning
+![](https://g0v.hackmd.io/_uploads/Bkl-oZsJ9Me.png)
+
+:::
+```
+class Solution:
+    def canJump(self, nums: list[int]) -> bool:
+        max_reach = 0
+
+        for i in range(len(nums)):
+            # 目前這格已經走不到
+            if i > max_reach:
+                return False
+
+            # 更新最遠可以到達的位置
+            max_reach = max(max_reach, i + nums[i])
+
+        # 整個迴圈都沒有卡住
+        # 代表可以走到最後
+        return True
+```
 ### Minimum Number of Pushes to Type Word II(3016)
 :::warning
 You are given a string word containing lowercase English letters.
