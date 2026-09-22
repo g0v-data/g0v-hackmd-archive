@@ -2269,6 +2269,54 @@ class Solution:
         # 代表可以走到最後
         return True
 ```
+### Merge Triplets to Form Target Triplet(1899)
+:::warning
+![](https://g0v.hackmd.io/_uploads/Bke7C3y5Mg.png)
+
+:::
+```
+class Solution:
+    def mergeTriplets(self, triplets: list[list[int]], target: list[int]) -> bool:
+
+        # 紀錄 target 的三個位置是否都已經找到
+        # 例如 target = [2, 7, 5]
+        # new[0] 代表有沒有找到第一格的 2
+        # new[1] 代表有沒有找到第二格的 7
+        # new[2] 代表有沒有找到第三格的 5
+        new = [False, False, False]
+
+        for i in range(len(triplets)):
+
+            # 如果目前 triplet 任一位置超過 target
+            # 這個 triplet 就不能使用
+            # 因為 merge 只能取 max，一旦超過 target 就無法變小
+            if (triplets[i][0] > target[0]) or \
+               (triplets[i][1] > target[1]) or \
+               (triplets[i][2] > target[2]):
+                continue
+
+            # 如果第一個位置等於 target 的第一個位置
+            # 代表 target[0] 已經可以組合出來
+            if triplets[i][0] == target[0]:
+                new[0] = True
+
+            # 如果第二個位置等於 target 的第二個位置
+            if triplets[i][1] == target[1]:
+                new[1] = True
+
+            # 如果第三個位置等於 target 的第三個位置
+            if triplets[i][2] == target[2]:
+                new[2] = True
+
+            # 三個位置都已經找到
+            # 代表可以透過 merge 得到 target
+            if all(new) == True:
+                return True
+
+        # 掃描完所有 triplets 後
+        # 還是沒有湊齊 target 的三個位置
+        return False
+```
 ### Minimum Number of Pushes to Type Word II(3016)
 :::warning
 You are given a string word containing lowercase English letters.
