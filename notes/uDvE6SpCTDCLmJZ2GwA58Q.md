@@ -94,7 +94,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
         - http://whatagodday.blogspot.com/2023/05/2023_16.html
     - 臺北給水工事設計報告書，臺灣總督府公文類纂
         - 鑽井位置？
-    - 19xx 建中 繪畫 陳植棋https://www.facebook.com/share/1DhYeDM3aD/?mibextid=wwXIfr
+    - 19xx 建中 繪畫 陳植棋 https://www.facebook.com/share/1DhYeDM3aD/?mibextid=wwXIfr
     - 1911 「臺北市街洪水浸水圖(1913)」，地圖比例尺為1/10,000。該地圖是臺灣總督府淡水河洪水調查附圖第11號，紀錄明治44年（1911）9月1日及大正元年（1912）8月29日兩次強颱造成當時臺北市街大淹水的災情；可以標記比較代表性的位置，印象中台北車站附近 (最深)，以及古亭 (比較靠近新生流域集水區)
         - https://gis.rchss.sinica.edu.tw/mapclub_20250218/
         - https://south.cwa.gov.tw/inner/NqkP1636680979lcfJ
@@ -110,6 +110,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 1928 待登載至流域歷程變遷地圖，應該可以用 點位 方式，至少標記「1928 年此處為共同墓地」的方式 https://www.facebook.com/share/p/15n9yi7qg8/
     - 1929 大稻埕 水路 繪畫 https://www.facebook.com/share/17vc6kLWTf/?mibextid=wwXIfr
     - [重要] 1930 水源地 可能是汀州路水路 畫作 https://www.facebook.com/share/1BE2skJHAV/?mibextid=wwXIfr
+    - 1932 照片鳥瞰 臺灣神社 https://www.facebook.com/share/p/B8tYT1UVD3u4z5sn/
     - 1933 帝大氣象建築 https://www.facebook.com/share/16WdJFGkNP/?mibextid=wwXIfr
     - 1933 臺北市大觀
         - https://www.facebook.com/photo?fbid=885845619797769&set=a.113042847078054
@@ -121,9 +122,11 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 1933 帝大 氣象研究單位 https://www.facebook.com/share/17pkRHiHF9/?mibextid=wwXI
     - 1933 水源地與新店溪照片 https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=483057&keyword=%E6%96%B0%E5%BA%97%E6%BA%AA&limit=24&offset=144&sort=relevance&order=desc&isFuzzyMode=false&query=%7B%22format%22:%22%E5%9C%96%E5%83%8F%22%7D&recOffset=156&fbclid=IwZXh0bgNhZW0CMTEAAR0DzJAa0ad6QHxw_u3IBiNJRhs6t9ghTNWgqfc0aTXSN5nL1lhadeneKSk_aem_kyVG8A54Mcm4Ow7gULXF3g
         - 2024 對照拍攝 https://www.facebook.com/share/gAPPsZdwJrEHVUR4/
+    - 1935年，昭和10年發行台灣博覽會導覽地圖
+        - 待查找以下鳥瞰圖
+        - 好像有畫出基隆河南側的市區水路 
     - 1940 台北市公車路線圖 https://www.facebook.com/share/aUeANjUcrTVifzGx/
         - 公車照片 https://www.facebook.com/share/p/ubpFZ5weChXnGQ2t/
-    - 1932 照片鳥瞰 臺灣神社 https://www.facebook.com/share/p/B8tYT1UVD3u4z5sn/
     - 1940-1949 照片，明治橋與鳥居 https://www.facebook.com/share/19vceMzTyu/
     - 大直戰俘營，濱江街 煉瓦工場 https://www.facebook.com/share/p/1CuhSAjWo6/?mibextid=wwXIfr
     - 照片，駐台美軍William Eggert 的C-130運輸機從松山機場往西起飛後到達現在花博公園美術園區(即天橋東邊)時由駕駛艙左側向東南方拍攝的。當時新生北路高架橋還沒建。照片內有德惠街雙城街口
@@ -146,8 +149,8 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 1964 堤防工程 https://youtu.be/KeX_zpBLShc
     - 1964 中和 水工模型 https://youtu.be/KeX_zpBLShc
     - 葛樂禮颱風影片 https://youtu.be/wfjw31pbaac
-    - 重要 1962 年新生大排，影片https://youtu.be/1QqaB9URJj8
-    - 1963 道路似乎有溝渠https://youtu.be/pVQQuBZDl-w
+    - 重要 1962 年新生大排，影片 https://youtu.be/1QqaB9URJj8
+    - 1963 影片，道路似乎有溝渠，此影片取景有許多市區，其中有一個片段是火車停駛且有溝渠及鐵路交錯，待確認是郊區或是八德路與新生大排 https://youtu.be/pVQQuBZDl-w
     - 1964 照片 1964年臺北市東北區 左起最遠方為興建中的中泰賓館，其次，中間最遠為中華體育館，右邊尖塔地區為中華民國五十三年經濟建設成果展覽會，尖塔再偏右一些即臺視。圖右側稍近些為北二女(中山女高)，左側為中正國校(中正國小)。拍攝地點約松江路上。 https://www.facebook.com/share/p/1FBVts2KaU/
     - 1946 道路有溝渠https://youtu.be/Ga9ZeMnj-zQ
     - 1956 螢橋https://youtu.be/Ww6Ci2spKu4
@@ -180,8 +183,7 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 聖家堂 歷史 http://cl-design.com.tw/CL/image/web/catholic_web/about/brief_if.html
     - 照片 懷恩堂 https://memory.culture.tw/Home/Detail?Id=631088&IndexCode=online_metadata
     - 影片 56:46 段落，提到 北科大校門歷年移動，與大排有關 https://youtu.be/fyXjkOdDHUQ
-    - 影片 01：05:29 有北科大校門水路照片 https://youtu.be/fyXjkOdDHUQ
-    - 影片 01:55 台大鳥瞰 https://youtu.be/fyXjkOdDHUQ
+    - 影片 01:::05:29 有北科大校門水路照片 https://youtu.be/fyXjkOdDHUQ
     - 照片 1953 新生國小前身三軍托兒所 https://www.facebook.com/share/whuZH4rg437vDpuk/
     - 重要 照片 1956 新生南路三段,海源冰店 便橋 https://m.mobile01.com/topicdetail.php?f=37&t=5053330
     - 新生北路 房舍 https://www.facebook.com/share/p/a6UWsAvP8GJV3tk3/
@@ -288,9 +290,6 @@ https://www.facebook.com/media/set?set=oa.409037272263694&type=3
     - 1994 年陳洲生及謝昌輝文章，今約一萬年前古台北湖的分布範圍。
         - https://web.fg.tp.edu.tw/~earth/learn/taipeim/f.htm
     - https://g0v.hackmd.io/hVfYoPVlQ--5hBc0ip_QrA
-    - 1935年，昭和10年發行台灣博覽會導覽地圖
-        - 待查找以下鳥瞰圖
-        - 好像有畫出基隆河南側的市區水路 
     - 大安區的水路地圖
         - https://story.map.net.tw/project/9
     - 螢橋
