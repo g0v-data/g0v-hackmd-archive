@@ -2269,6 +2269,59 @@ class Solution:
         # 代表可以走到最後
         return True
 ```
+
+### Valid Parenthesis String(678)
+:::warning
+![](https://g0v.hackmd.io/_uploads/ryg4ORZWczg.png)
+:::
+```
+class Solution:
+    def checkValidString(self, s: str) -> bool:
+
+        # left_min：目前「最少」可能剩下幾個未配對的左括號 (
+        # left_max：目前「最多」可能剩下幾個未配對的左括號 (
+        left_min = 0
+        left_max = 0
+
+        for i in s:
+
+            # 遇到左括號 (
+            # 未配對的左括號數量一定 +1
+            if i == '(':
+                left_min += 1
+                left_max += 1
+
+            # 遇到右括號 )
+            # 需要拿一個左括號來配對
+            # 所以未配對的左括號數量 -1
+            elif i == ')':
+                left_min -= 1
+                left_max -= 1
+
+            # 遇到 *
+            # * 可以當成 ')'，所以最少的左括號數量 -1
+            # * 也可以當成 '('，所以最多的左括號數量 +1
+            elif i == '*':
+                left_min -= 1
+                left_max += 1
+
+            # 如果連「最多可能的左括號數量」都小於 0
+            # 代表右括號太多，前面沒有足夠的左括號或 * 可以配對
+            # 所以一定不合法
+            if left_max < 0:
+                return False
+
+            # 未配對的左括號數量不可能小於 0
+            # 如果 left_min < 0，代表可以讓某些 * 當成空字串
+            # 因此最低修正為 0
+            if left_min < 0:
+                left_min = 0
+
+        # 最後如果 left_min == 0
+        # 代表存在一種 * 的安排方式
+        # 可以讓所有左括號都成功配對
+        return left_min == 0
+```
 ### Hand of Straights(846)
 :::warning
 ![](https://g0v.hackmd.io/_uploads/SJe3AWlWqzg.png)
