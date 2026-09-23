@@ -54,6 +54,29 @@ https://www.vtaiwan.tw/jitsi
 
 ## 小小的分享
 ### 國會松順利結束
+- 國會松活動頁面：https://g0vcongressthon.oen.tw/events/3J1m87yMFVolpjYCc3ypnmvDg3j
+- 有遇到 WFD 的資深經理，正在洽談參加 TICTEC 的可能性
+#### 卓致遠分享：
+- 升一層，切一刀，換一軸 
+    - 升一層：不是看議題當下的層面，而是上升到背後的共同問題與原因
+    - 切一刀：讓議題縮小
+    - 換一軸：議題換成不同的面向：換位
+- 颱風假的時候，百貨公司是否要統一停業？
+    - 
+- 之後取得同意拿錄影
+- 用AI 來模擬審議：用claude 模擬不同的利害關係人提出
+- 公務員：減少未知，增加參與意願
+- 審議工作者：訓練的另一個方式
+#### 討論
+- 適合拿來處理多方視角的內容嗎？[name=凱文]
+    - AI 模擬的極限：論點，情緒化反應與個人故事可能比較沒有辦法
+    - bestian 提出用 AI 輔助審議的方法
+
+### 台大 D-school
+- 受邀到資訊局長 NTU D-school 課堂
+- 問題：
+    - 時間如何平衡？
+    - g0v 社群裡面有沒有教育相關專案？
 
 ### 下次大松1108 
 - https://g0v.hackmd.io/@jothon/SyGl1tPbxl 
@@ -73,17 +96,14 @@ g0v 黑客松（aka 大松）活動名稱大部分是參與者在活動前提案
 - 趕工中，先跟大家說聲不好意思QAQ
 - 
 
-## 工程進展
-
-- Civic Talk素材提交前串接事實查核API，需先查核素材真實性，方可提交
-- Civic Talk可以針對別人的意見進行投票了，也可以導出原始資料comments.csv給Sensemaker分析
-
-- Civic Talk： https://civic.vtaiwan.tw/
-
-- 待認領事項(歡迎認項)：https://github.com/orgs/g0v/projects/2/views/7
 
 
 ## 審議大會
+- 感謝 josh幫助我們找回來 murmi
+    - 成果報告：https://murmi.org/r/hJmixEudBIp1
+    - 原始投票：https://murmi.org/?code=D96C6D
+
+### 成果報告
 - 10/30 milestone
 - 可以寫的內容：
     - 銜接數發部風險影響評估的原因
@@ -99,7 +119,15 @@ g0v 黑客松（aka 大松）活動名稱大部分是參與者在活動前提案
 - 注意事項：
     - 補充保費2%,
     - 非玉山帳戶會有單筆30元手續費
+### 如果將 vTaiwan 討論與選舉連結很重要
+- 人很重要：要找到能夠充分理解議題，而不是淺碟式支持的選舉人
 
+## 工程進展：
 
+- Civic Talk素材提交前串接事實查核API，需先查核素材真實性，方可提交
+- Civic Talk可以針對別人的意見進行投票了，也可以導出原始資料comments.csv給Sensemaker分析
 
+- Civic Talk： https://civic.vtaiwan.tw/
+
+- 待認領事項(歡迎認項)：https://github.com/orgs/g0v/projects/2/views/7
 
