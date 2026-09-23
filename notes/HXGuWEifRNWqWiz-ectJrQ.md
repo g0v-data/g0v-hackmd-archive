@@ -2327,7 +2327,7 @@ class Solution:
 ![](https://g0v.hackmd.io/_uploads/SJe3AWlWqzg.png)
 
 :::
-==優化板==
+==優化版==
 ```
 class Solution:
     def isNStraightHand(self, hand: list[int], groupSize: int) -> bool:
@@ -2407,6 +2407,55 @@ class Solution:
                 hand.remove(target)
 
         # 所有牌都成功被分成連續的 group
+        return True
+```
+### Divide Array in Sets of K Consecutive Numbers(1296)
+:::warning
+![](https://g0v.hackmd.io/_uploads/Skl5wPMWqfg.png)
+
+:::
+```
+from collections import Counter
+
+class Solution:
+    def isPossibleDivide(self, nums: list[int], k: int) -> bool:
+
+        # 如果 nums 的總數不能被 k 整除
+        # 代表不可能完整分成每組 k 個數字
+        if len(nums) % k != 0:
+            return False
+
+        # 將 nums 由小到大排序
+        # 讓我們可以優先從最小的數字開始建立連續 group
+        nums.sort()
+
+        # 統計每個數字出現的次數
+        # 例如 [1,2,2,3] -> {1:1, 2:2, 3:1}
+        count = Counter(nums)
+
+        # 依照由小到大的順序檢查每個數字
+        for start in nums:
+
+            # 如果 start 還有剩餘
+            # 就必須以 start 為起點建立一個新的 group
+            if count[start] > 0:
+
+                # 從 start 開始尋找連續 k 個數字
+                # 例如 start = 2、k = 3
+                # 就需要 2、3、4
+                for i in range(k):
+
+                    # 如果需要的數字已經沒有了
+                    # 代表無法組成完整的連續 group
+                    if count[start + i] == 0:
+                        return False
+
+                    # 找到需要的數字
+                    # 使用掉一個
+                    else:
+                        count[start + i] -= 1
+
+        # 所有數字都成功被分組
         return True
 ```
 ### Merge Triplets to Form Target Triplet(1899)

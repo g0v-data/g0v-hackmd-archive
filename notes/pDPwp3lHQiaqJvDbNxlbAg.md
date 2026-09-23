@@ -473,6 +473,8 @@ TODO
         - 角色結合日本災防推廣應用 http://kaeru-caravan.jp/schedule/taitou2016
     - 公共衛生 宣導與推廣
     - 水資源 宣導與推廣
+    - 太空領域宣傳
+        - https://www.facebook.com/groups/387657394723672/posts/3706995232789855
     - ...
     - 討論：
         - 若整合成一個「宣導與推廣」，較無鑑別度
