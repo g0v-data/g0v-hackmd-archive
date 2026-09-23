@@ -2269,6 +2269,93 @@ class Solution:
         # 代表可以走到最後
         return True
 ```
+### Hand of Straights(846)
+:::warning
+![](https://g0v.hackmd.io/_uploads/SJe3AWlWqzg.png)
+
+:::
+==優化板==
+```
+class Solution:
+    def isNStraightHand(self, hand: list[int], groupSize: int) -> bool:
+        count = Counter(hand)
+        group = 0
+
+        for i in set(hand):
+
+            # 這張牌已經被前面的 group 用完
+            if count[i] == 0:
+                continue
+
+            # 找目前這串連續牌真正的起點
+            start = i
+
+            while count.get(start - 1, 0) > 0:
+                start -= 1
+
+            # 只要起點還有牌，就繼續建立 group
+            while count[start]:
+
+                # 起點有幾張，就代表至少需要建立幾組
+                amt = count[start]
+
+                # 從 start 開始找連續 groupSize 張牌
+                for j in range(groupSize):
+
+                    # 如果某張牌數量不夠
+                    # 就無法建立這些 group
+                    if count[start + j] < amt:
+                        return False
+
+                    # 使用掉這些牌
+                    count[start + j] -= amt
+
+                # 成功建立 amt 組
+                group += amt
+
+        # 注意：return 要放在 for 外面
+        # 確認所有牌都有被分進 group
+        return group * groupSize == len(hand)
+```
+```
+class Solution:
+    def isNStraightHand(self, hand: list[int], groupSize: int) -> bool:
+
+        # 先將所有牌由小到大排序
+        # 這樣每次都可以從目前最小的牌開始建立連續組合
+        hand.sort()
+
+        # 如果總牌數不能被 groupSize 整除
+        # 代表不可能將所有牌完整分組
+        if len(hand) % groupSize != 0:
+            return False
+
+        # 只要 hand 裡還有牌，就繼續建立新的 group
+        while hand:
+
+            # 每次選擇目前最小的牌作為這一組的起點
+            start = hand[0]
+
+            # 從 start 開始，尋找連續 groupSize 張牌
+            for i in range(groupSize):
+
+                # 目前需要尋找的牌
+                # 例如 start = 2、groupSize = 3
+                # 就會依序尋找 2、3、4
+                target = start + i
+
+                # 如果需要的牌不存在
+                # 代表無法組成完整的連續 group
+                if target not in hand:
+                    return False
+
+                # 找到這張牌後，將它從 hand 中移除
+                # 代表這張牌已經被目前的 group 使用
+                hand.remove(target)
+
+        # 所有牌都成功被分成連續的 group
+        return True
+```
 ### Merge Triplets to Form Target Triplet(1899)
 :::warning
 ![](https://g0v.hackmd.io/_uploads/Bke7C3y5Mg.png)
