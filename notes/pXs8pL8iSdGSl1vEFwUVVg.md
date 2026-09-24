@@ -16,6 +16,9 @@ https://www.facebook.com/groups/582154450196478/posts/1631414918603754
 
 ![](https://g0v.hackmd.io/_uploads/By4Q96zcMl.png)
 
+雙連陂相關素材
+- https://www.facebook.com/media/set?set=oa.1027865820271884&type=3
+- https://archive.ncafroc.org.tw/result?id=e3cfe01bd4304ea9b4509602ec3c1199
 
 ## 1911 年糖廠敷地圖，似乎有繪製出廠區南側的水路
 
@@ -25,7 +28,12 @@ https://www.facebook.com/share/p/Y3tVDuRMsfvyiiut/
 
 請見線上地圖
 
-## 1937 
+## 1937 臺北市地形測量原圖【TPUDD】
+
+此圖幅，適合探討
+- 中萬華與南萬華
+    - 可以看到堤防設置之前，現今的雁鴨公園與赤池河道同屬一個系統
+    - 可以看到南萬華楊家古厝水池與往西側的水道，水道其中一段為堀仔頭，以及此軸帶的巷弄與公有土地空地
 
 
 ## 先列出，陸續評估
