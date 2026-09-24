@@ -9,7 +9,27 @@ tags: 新生流域,
 圖台
 https://gissrv4.sinica.edu.tw/gis/taipei.aspx
 
-1911 年糖廠敷地圖，似乎有繪製出廠區南側的水路 https://www.facebook.com/share/p/Y3tVDuRMsfvyiiut/
+## 1905 各個大埤水域
+
+應該可視為水量水域屬於農業時期
+https://www.facebook.com/groups/582154450196478/posts/1631414918603754
+
+![](https://g0v.hackmd.io/_uploads/By4Q96zcMl.png)
+
+
+## 1911 年糖廠敷地圖，似乎有繪製出廠區南側的水路
+
+https://www.facebook.com/share/p/Y3tVDuRMsfvyiiut/
+
+## 已繪製 1930 年的大稻埕港仔溝
+
+請見線上地圖
+
+## 1937 
+
+
+## 先列出，陸續評估
+
 1916 臺北市街平面圖
 1919 臺北市街全圖
 1921 日治二萬五千分之一地形圖
