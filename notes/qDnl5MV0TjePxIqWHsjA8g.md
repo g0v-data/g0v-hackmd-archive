@@ -2,9 +2,16 @@
 tags: vTaiwan
 ---
 
-# vTaiwan 工程季報 - 2026年夏季工程摘要
+# vTaiwan 工程季報｜夏季工程摘要
 
-> 資料範圍：[g0v／vTaiwan Project #2 的 Previous iteration View](https://github.com/orgs/g0v/projects/2/views/8)，查閱時間：2026-09-24。「夏季」是本季報的名稱，工作範圍以該 View 的 `iteration:@previous` 為準，**2**。View 另排除 `InProgress`、`Backlog`，目前呈現的卡片均列於 Done。本摘要描述該檢視收錄的工作，不把 Done 等同於已在正式環境上線或完成所有驗收。
+> 希望本工程季報可以讓社群更瞭解目前vTawian的工程進展，以及如何參與。我們特別需要「先期使用者」、「UI/UX設計師」和「前端工程師」的幫忙。
+> [name=bestian]
+
+
+
+> 資料範圍：本季成果依 [g0v／vTaiwan Project #2 的 Previous iteration View](https://github.com/orgs/g0v/projects/2/views/8)，第 5 節展望依 [Current iteration View](https://github.com/orgs/g0v/projects/2/views/3)；查閱時間：2026-09-24。「夏季」是本季報的名稱，工作範圍以 `iteration:@previous` 為準，**時間範圍07/01~09/22**。
+>
+> [name=由GPT-6 sol整理，Bestian細修]
 
 ## 本季主線：把分散的審議功能接成可參與的流程
 
@@ -38,8 +45,38 @@ tags: vTaiwan
 
 [9/11 審議會的工作卡](https://github.com/g0v/vTaiwan-meetings/issues/6)記錄會前準備，包含 Slido 調整的子議題。它與上述網站功能不同，卻說明工程並非孤立的產品開發：線上議題整理、會議互動與後續意見呈現需要互相銜接。該卡描述較簡略，無法據此推論活動成效或參與人數。
 
+## 5. 秋季展望
+
+從 [Current iteration View](https://github.com/orgs/g0v/projects/2/views/3) 來看，下一階段的重心，是讓夏季建立的「看見議題、閱讀意見」路徑，延伸成**表達立場、看見分歧、取得綜整**的審議循環。[公民意見投票](https://github.com/g0v/civic-talk-hono/issues/107)已結案，採同意、不同意與略過的三態設計；[廣泛傾聽實驗](https://github.com/g0v/civic-talk-hono/issues/41)也列為完成。但[意見綜整功能](https://github.com/g0v/civic-talk-hono/issues/113)仍是待實作工作：規劃以 AI 綜整與圖像分群呈現意見，並引導下載相容的 CSV，到 Sensemaker 產生進階分析報告。[Sensemaker 首頁的匯入說明](https://github.com/g0v/sensemaker-frontend/issues/72)亦待加入 Civic Talk，讓資料出口與分析入口連成一條可理解的路徑。
+
+參與門檻方面，[Civic Talk 的手機優先版面](https://github.com/g0v/civic-talk-hono/issues/76)與[頁面版型優化](https://github.com/g0v/civic-talk-hono/issues/4)持續推進；[投稿表單的 Markdown 預覽與字數計數](https://github.com/g0v/civic-talk-hono/issues/106)則希望讓投稿者在送出前看見內容的實際呈現。主站重構線的[實機測試](https://github.com/g0v/vTaiwan-hono/issues/93)已涵蓋電腦、手機及橫放等情境，仍有平板待測；手機視訊加入與工具列問題曾由測試者回報，並拆出後續議題。這些工作共同指向同一個驗收標準：一般人能否在自己的裝置上順利參與討論和會議，而不只是在桌機畫面上看到完整功能。
+
+支撐這套流程的服務也要能長期運作。[素材提交前的自動查核](https://github.com/g0v/civic-talk-hono/issues/87)及 [fact-check-api 原型](https://github.com/g0v/fact-check-api/issues/5)已列為完成；接下來的[查核服務分層與 x402 守護機制](https://github.com/g0v/fact-check-api/issues/31)尚未全部完成，規劃讓 Civic Talk 透過 Service Binding 使用私有核心、示範入口受總量限制、公開 API 另設收費閘門，以兼顧可近性、成本與防濫用。工程協作上，[貢獻者自架 Cloudflare 測試環境的文件與設定](https://github.com/g0v/civic-talk-hono/issues/112)、[逐字稿校對](https://github.com/g0v/vTaiwan-meetings/issues/12)及[國際審議工具協作](https://github.com/g0v/vTaiwan-meetings/issues/5)也仍列於本迭代。這些是秋季看板的工作方向；未完成的卡片不應被寫成已交付或已上線的成果。
+
 ## 後續值得追蹤的銜接點
 
 1. **跨站使用路徑**：從主站連到 Civic Talk 後，追蹤訪客是否找得到議題、看得懂各階段，並能返回或分享。[主站入口](https://github.com/g0v/vue.vTaiwan-neo/issues/152)與[角色排序](https://github.com/g0v/civic-talk-hono/issues/90)是同一條路徑的兩端。
 2. **上線與驗收證據**：將看板 Done、程式碼合併、正式部署及人工驗收分別標示；尤其注意[停權整合驗收](https://github.com/g0v/vTaiwan-hono/pull/78)和[視覺改版後的後台操作](https://github.com/g0v/vue.vTaiwan-neo/issues/161)。
 3. **查核的品質與救濟**：持續記錄[誤擋案例](https://github.com/g0v/civic-talk-hono/issues/89)與人工複核結果，讓查核服務保護討論品質，也保留合格內容進入討論的機會。
+
+
+## 團隊貢獻與認領現況
+> 包含有明確認領者的「已完成」和「已認領」的項目
+
+https://github.com/orgs/g0v/projects/2/views/2
+
+## 待認領事項
+
+> 新參者友善的項目，會打上`good first issue`標籤，方便新參者辨識與認領，歡迎入坑參與貢獻，從做中學。不一定要寫code，做測試、提issue，參與工程討論也很歡迎。
+
+https://github.com/orgs/g0v/projects/2/views/7
+
+## 給先期使用者
+
+秋季重點實測：**Civic Talk公民審議平台**
+
+概念：https://civic.vtaiwan.tw/about
+
+首頁：https://civic.vtaiwan.tw
+
+議題區(錯誤回報與功能請求)：https://github.com/g0v/civic-talk-hono/issues
