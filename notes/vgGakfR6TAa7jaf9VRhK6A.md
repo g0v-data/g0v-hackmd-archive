@@ -7,6 +7,7 @@ mkdir picasso_test_env && cd picasso_test_env
 # 2. 仮想環境を作成（"test_venv" という名前の仮想環境を作成）
 python3 -m venv test_venv
 python3 -m venv qwtest_venv (qwenIE2511のための環境)
+python3 -m venv qi21test_venv (qwenImage2.1のための環境)
 
 # 3. 仮想環境を有効化（有効化するとターミナルの先頭に (test_venv) と表示されます）
 # Linux / macOS の場合:
