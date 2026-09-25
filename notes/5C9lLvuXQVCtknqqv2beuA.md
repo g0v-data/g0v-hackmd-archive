@@ -1,0 +1,1 @@
+<a href="https://ev88.city/" target="_blank" rel="noopener noreferrer">ev88</a> hướng đến trải nghiệm giải trí khác biệt với nền tảng thông minh, tốc độ ổn định và hệ thống vận hành tối ưu. Mang đến sự thuận tiện trong từng lần kết nối.
