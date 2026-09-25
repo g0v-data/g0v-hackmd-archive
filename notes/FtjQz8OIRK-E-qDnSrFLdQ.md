@@ -1,0 +1,2 @@
+OPEN88 – Thương Hiệu Giải Trí Trực Tuyến Uy Tín Số 1 Châu Á
+[OPEN88](https://mobamonster.com/) là nền tảng giải trí trực tuyến được phát triển theo hướng hiện đại, chú trọng giao diện trực quan, tốc độ vận hành ổn định và trải nghiệm thuận tiện cho hội viên. Hệ thống cung cấp đa dạng nội dung như thể thao, casino, bắn cá, đá gà, xổ số cùng nhiều chương trình ưu đãi dành cho người dùng.
