@@ -24,7 +24,9 @@ The maps highlight the median age of buildings and the size of buildings and par
 https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html
 New York City 
 建築物年代地圖 http://bdon.org/2013/09/12/building-age-nyc/
-紐約歷年變化 From New York Today: Step inside the elevators at 1 World Trade Center and witness 515 years of history unfolding at the tip of Manhattan: http://nyti.ms/1Gb1lIA
+紐約歷年變化 
+平面圖視角 https://www.facebook.com/share/r/19P8gcSsBQ/
+From New York Today: Step inside the elevators at 1 World Trade Center and witness 515 years of history unfolding at the tip of Manhattan: http://nyti.ms/1Gb1lIA
 https://www.youtube.com/watch?v=ILbcWgP76vA
 夜間版 https://www.youtube.com/watch?v=3mZnWte4PUg
 http://www.citylab.com/navigator/2016/05/go-back-in-time-through-new-york-city-with-the-oldnyc-app/482286/
