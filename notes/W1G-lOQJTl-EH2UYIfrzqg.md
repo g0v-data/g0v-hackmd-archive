@@ -25,6 +25,9 @@ WebGIS: https://rekichizu.jp/map/
 地名點資料轉化為面資料
 https://www.facebook.com/share/p/1W6ynSQDW3/
 
+江戸時代の経路検索
+https://maps.chizutodesign.com/edo-routing/
+
 日本『完全踏査  古代の道』（武部健一著/吉川弘文館）用 QGIS 套疊
 https://www.facebook.com/groups/chizutochimei/posts/3154692704683841/
 https://www.facebook.com/groups/chizutochimei/posts/3156766061143172/
