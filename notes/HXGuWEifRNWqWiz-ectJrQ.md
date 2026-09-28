@@ -2322,6 +2322,47 @@ class Solution:
         # 可以讓所有左括號都成功配對
         return left_min == 0
 ```
+### Partition Labels(763)
+:::warning
+![](https://g0v.hackmd.io/_uploads/Syg--OKvcMg.png)
+
+:::
+```
+class Solution:
+    def partitionLabels(self, s: str) -> list[int]:
+
+        # 紀錄每個字母最後一次出現的位置
+        last = {}
+
+        for i in range(len(s)):
+            last[s[i]] = i
+
+        result = []
+
+        # 目前區段的起點
+        start = 0
+
+        # 目前區段至少需要延伸到的位置
+        end = 0
+
+        for i in range(len(s)):
+
+            # 根據目前字母最後出現的位置
+            # 決定是否需要延長目前區段
+            end = max(end, last[s[i]])
+
+            # 如果目前位置已經走到區段的最遠邊界
+            # 代表這一段可以切開
+            if i == end:
+
+                # 計算這一段的長度
+                result.append(end - start + 1)
+
+                # 下一段從 i + 1 開始
+                start = i + 1
+
+        return result
+```
 ### Hand of Straights(846)
 :::warning
 ![](https://g0v.hackmd.io/_uploads/SJe3AWlWqzg.png)
