@@ -2269,7 +2269,54 @@ class Solution:
         # 代表可以走到最後
         return True
 ```
+### Gas Station(134)
+:::warning
+![](https://g0v.hackmd.io/_uploads/rkgAb1JF5zg.png)
 
+:::
+```
+class Solution:
+    def canCompleteCircuit(self, gas: list[int], cost: list[int]) -> int:
+
+        # 如果所有加油站提供的總油量
+        # 小於繞完整圈需要的總油量
+        # 代表不管從哪一站出發都不可能繞完一圈
+        if sum(gas) < sum(cost):
+            return -1
+
+        # 紀錄從目前起點 start 出發後
+        # 油箱目前剩下多少油
+        tank = 0
+
+        # 紀錄目前可能的起點
+        start = 0
+
+        # 依序檢查每一個加油站
+        for i in range(len(gas)):
+
+            # 在第 i 站加到的油
+            # 扣掉前往下一站需要消耗的油
+            diff = gas[i] - cost[i]
+
+            # 更新目前油箱剩餘的油
+            tank += diff
+
+            # 如果油箱變成負數
+            # 代表從目前的 start 出發
+            # 無法成功經過第 i 站到達下一站
+            if tank < 0:
+
+                # 目前 start ~ i 都不適合當起點
+                # 所以下一個可能的起點從 i + 1 開始
+                start = i + 1
+
+                # 從新的起點重新計算油量
+                tank = 0
+
+        # 前面已經確認 sum(gas) >= sum(cost)
+        # 所以一定存在可以繞完整圈的起點
+        return start
+```
 ### Valid Parenthesis String(678)
 :::warning
 ![](https://g0v.hackmd.io/_uploads/ryg4ORZWczg.png)
