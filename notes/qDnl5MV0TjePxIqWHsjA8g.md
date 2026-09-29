@@ -73,7 +73,12 @@ tags: vTaiwan
 
 1. **跨站使用路徑**：從主站連到 Civic Talk 後，追蹤訪客是否找得到議題、看得懂各階段，並能返回或分享。[主站入口](https://github.com/g0v/vue.vTaiwan-neo/issues/152)與[角色排序](https://github.com/g0v/civic-talk-hono/issues/90)是同一條路徑的兩端。
 2. **上線與驗收證據**：將看板 Done、程式碼合併、正式部署及人工驗收分別標示；尤其注意[停權整合驗收](https://github.com/g0v/vTaiwan-hono/pull/78)和[視覺改版後的後台操作](https://github.com/g0v/vue.vTaiwan-neo/issues/161)。
-3. **查核的品質與救濟**：持續記錄[誤擋案例](https://github.com/g0v/civic-talk-hono/issues/89)與人工複核結果，讓查核服務保護討論品質，也保留合格內容進入討論的機會。
+
+
+## 專案甘特圖
+> 時程與進程、里程碑等
+
+https://github.com/orgs/g0v/projects/2/views/4
 
 
 ## 團隊貢獻與認領現況
@@ -81,15 +86,16 @@ tags: vTaiwan
 
 https://github.com/orgs/g0v/projects/2/views/2
 
+
 ## 待認領事項
 
 > 新參者友善的項目，會打上`good first issue`標籤，方便新參者辨識與認領，歡迎入坑參與貢獻，從做中學。不一定要寫code，做測試、提issue，參與工程討論也很歡迎。
 
 https://github.com/orgs/g0v/projects/2/views/7
 
-## 給先期使用者
+## 給有興趣參與的朋友
 
-秋季重點實測**Civic Talk公民審議平台**，歡迎上線實測，發表意見、對其他人的意見投票，若進一步有興趣，還可當志願者開議題、整理素材。
+秋季重點實測**Civic Talk公民審議平台**，歡迎上線當先期使用者實測，發表意見、對其他人的意見投票，若進一步有興趣，還可當志願者開議題、整理素材。
 
 首頁：https://civic.vtaiwan.tw
 概念：https://civic.vtaiwan.tw/about
@@ -97,6 +103,14 @@ https://github.com/orgs/g0v/projects/2/views/7
 議題區(錯誤回報與功能請求)：https://github.com/g0v/civic-talk-hono/issues
 
 
-## 致謝
+# 致謝
 
-本期工程特別感謝[TofusWang](https://github.com/tofuswang/)和[ShuYangLin](https://github.com/shuyanglin)的設計視圖、[JiaWeiCui](https://github.com/Jia-wei-cui)的[Civic Talk雛型](https://github.com/v-taiwan/civic-talk)，[Terry](https://github.com/link1515)的全端工程協作、[Tim](https://github.com/techgeek12124)的實機測試
+本期工程特別感謝[TofusWang](https://github.com/tofuswang/)和[ShuYangLin](https://github.com/shuyanglin)的設計視圖、[JiaWeiCui](https://github.com/Jia-wei-cui)的[Civic Talk雛型](https://github.com/v-taiwan/civic-talk)，[Bestian](https://github.com/bestian)和[Terry](https://github.com/link1515)的全端工程接力協作、[Tim](https://github.com/techgeek12124)的實機測試、來自社群的貢獻者[Lynn](https://github.com/clhuang224)與[江左津](https://github.com/jiangzuojin226-sys)在前端工程和說明文件的改良；日本Takeruhukushima(https://github.com/takeruhukushima)協助日文翻譯、[Tahodev](https://github.com/tahodev)改良字體易讀性。
+
+非常謝謝！
+
+---
+
+> 因貢獻者來自各方，如有一時疏忽漏載的Github程式碼貢獻者，歡迎共筆將自己的名字和Github帳號補上，謝謝! [name=bestian]
+
+---
