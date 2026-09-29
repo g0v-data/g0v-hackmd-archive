@@ -105,7 +105,7 @@ https://github.com/orgs/g0v/projects/2/views/7
 
 # 致謝
 
-本期工程特別感謝[TofusWang](https://github.com/tofuswang/)和[ShuYangLin](https://github.com/shuyanglin)的設計視圖、[JiaWeiCui](https://github.com/Jia-wei-cui)的[Civic Talk雛型](https://github.com/v-taiwan/civic-talk)，[Bestian](https://github.com/bestian)和[Terry](https://github.com/link1515)的全端工程接力協作、[Tim](https://github.com/techgeek12124)的實機測試、來自社群的貢獻者[Lynn](https://github.com/clhuang224)與[江左津](https://github.com/jiangzuojin226-sys)在前端工程和說明文件的改良；日本Takeruhukushima(https://github.com/takeruhukushima)協助日文翻譯、[Tahodev](https://github.com/tahodev)改良字體易讀性。
+本期工程特別感謝[TofusWang](https://github.com/tofuswang/)和[ShuYangLin](https://github.com/shuyanglin)的設計視圖、[JiaWeiCui](https://github.com/Jia-wei-cui)的[Civic Talk雛型](https://github.com/v-taiwan/civic-talk)，[Bestian](https://github.com/bestian)和[Terry](https://github.com/link1515)的全端工程接力協作、[Tim](https://github.com/techgeek12124)的實機測試、[Thompson](https://github.com/ThompsonLin)協助搬移議題內容；來自社群的貢獻者[Lynn](https://github.com/clhuang224)與[江左津](https://github.com/jiangzuojin226-sys)在前端工程和說明文件的改良；日本[Takeruhukushima](https://github.com/takeruhukushima)協助日文翻譯、[Tahodev](https://github.com/tahodev)改良字體易讀性。
 
 非常謝謝！
 

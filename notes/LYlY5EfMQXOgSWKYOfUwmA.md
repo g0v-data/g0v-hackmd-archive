@@ -40,3 +40,41 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 
+考題一： 字串「 . 」比對
+函數給定 2 個字串 ，一個由英文字母組成的 S 和另一個為英文字母外加 1 個「 . 」組成的 P，
+請實作一個函式去判斷 S 是否匹配 P，其中，「 . 」字元代表任意 a-z 字元。
+Example:
+s = abc, p = a.c, return True
+s = abc, p = ac. ,return False
+Implement here:
+s=aczz  p=ac.
+    if len(s) != len(p):
+        return False
+    
+    int i = 0
+    
+    while i < len(s) && i < len(p):
+        if p[i] == ".":
+            i += 1 
+            continue
+        
+        if s[i] != p[i]:
+            return False
+    
+        i += 1 
+    
+    return True
+
+
+考題二： 字串「 * 」比對
+函數給定 2 個字串 ，一個由英文字母組成的 S 和另一個為英文字母外加 1 個「 *」組成的 P，
+請實作一個函式去判斷 S 是否匹配 P，其中，「  *  」字元代表重複前字元0次到任意N次。
+
+
+Example:
+s = aac, p = a*c, return True
+s = abc, p = a*c ,return False
+aac aaaac ac
+Implement here:
+    
+    
