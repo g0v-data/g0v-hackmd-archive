@@ -102,6 +102,10 @@ https://github.com/orgs/g0v/projects/2/views/7
 
 議題區(錯誤回報與功能請求)：https://github.com/g0v/civic-talk-hono/issues
 
+參與方式：
+* slack加入#vtaiwan頻道
+* slack私訊bestian
+* 直接到[civic talk](https://civic.vtaiwan.tw)註冊帳號使用
 
 # 致謝
 
