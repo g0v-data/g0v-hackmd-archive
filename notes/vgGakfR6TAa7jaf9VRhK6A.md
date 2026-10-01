@@ -11,7 +11,7 @@ python3 -m venv qi21test_venv (qwenImage2.1のための環境)
 
 # 3. 仮想環境を有効化（有効化するとターミナルの先頭に (test_venv) と表示されます）
 # Linux / macOS の場合:
-source test_venv/bin/activate
+source qi21test_venv/bin/activate
 ＊Qwentest.pyの環境変数は　qtestvenv
     使用モデル：black-forest-labs/FLUX.2-klein-4b(4b)
 ＊png10-11 使用モデル：black-forest-labs/FLUX.2-klein-9b(9b)(環境変数は変わらずqtestvenv)
