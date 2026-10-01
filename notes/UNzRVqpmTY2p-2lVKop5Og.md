@@ -1,0 +1,2 @@
+xoilac 21com
+<a href="https://xoilac21.com/">xoilac</a> nơi thăng hoa cùng đam mê bóng dá mỗi ngày. Bạn có bao giờ cảm thấy khó chịu khi đang theo dõi một trận cầu đinh thì màn hình lại quay vòng vòng hoặc mất kết nối? Hiểu được nỗi lòng đó, Xoilac ra đời như một giải pháp hoàn hảo, mang đến cho người hâm mộ không gian giải trí thể thao đỉnh cao, ổn định và hoàn toàn miễn phí.
