@@ -29,23 +29,41 @@ TODO
     - https://www.city.setagaya.lg.jp/02202/3990.html
     - 太子堂二・三丁目地区地区街づくり計画 計画図 https://www.city.setagaya.lg.jp/documents/3990/keikakuzu17.pdf
 
-## 交流提到的內容
+---
 
-https://www.cttaiwan.moda.gov.tw/
-https://sdc-rdec.tainan.gov.tw/
-https://health-reservation.tainan.gov.tw/
-https://health-examination.tncghb.gov.tw/
-https://aithon2024.goodideas-studio.com/topic-list/
+## 20251101 與議員交流
 
-https://opengov.tainan.gov.tw/budget
-https://budget.openfun.app/
+![](https://g0v.hackmd.io/_uploads/SJlR215s5fe.png)
 
-https://aiacademy.tw/good-ai-2025/
-https://www.tahr.org.tw/cases/NHID
-https://www.ecpat.org.tw/
-https://dtatw.org/about_us/
+出席：世田谷四位議員、隨行翻譯、近藤女士、RR、bil、chewei
 
-https://docs.google.com/document/d/1cWdfTZGRfvwnCr_gO-0UYQt56zstog3F/edit
+### 交流提到的內容，待整理
 
-第一個專案，挑選民生有感
-尚可半年至一年內完成
+介紹臺灣政府單位發起的公民科技機制推動近況
+- https://www.cttaiwan.moda.gov.tw/
+- https://sdc-rdec.tainan.gov.tw/
+- 醫療健康相關專案
+    - https://health-reservation.tainan.gov.tw/
+    - https://health-examination.tncghb.gov.tw/
+- 公務機關出題的黑客松 https://aithon2024.goodideas-studio.com/topic-list/
+- 預算 https://opengov.tainan.gov.tw/budget
+
+如何開始數位專案？
+- RR 建議選擇第一個公民科技專案的時候
+    - 挑選民生有感的主題，民眾比較能感同身受與認同
+    - 並且評估可以在半年至一年內完成
+
+民間的預算網站
+- https://budget.openfun.app/
+
+AI
+- AI 素養推動課程 https://aiacademy.tw/good-ai-2025/
+
+數位人權
+- 臺權會關注數位人權 https://www.tahr.org.tw/cases/NHID
+- 展翅協會 https://www.ecpat.org.tw/
+- 數位信任協會 https://dtatw.org/about_us/
+
+
+補充：東京都政府人員來訪 QA
+- https://docs.google.com/document/d/1cWdfTZGRfvwnCr_gO-0UYQt56zstog3F/edit
