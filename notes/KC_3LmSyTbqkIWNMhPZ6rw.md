@@ -5,7 +5,15 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants: Peter, Bestian, Josh, 凱文, Tim, Allison
+參與者 Participants: Bestian, Soth, Tim, Yi-Ting Lien
+
+
+自我介紹：
+
+Yi-Ting Lien: 英國, 博士生, 政治學
+Soth: 藥商、行政助理、前社工
+Tim: 轉職網站工程師、對資料視覺化有興趣、對區塊鍵有興趣
+Bestian: 
 
 
 
