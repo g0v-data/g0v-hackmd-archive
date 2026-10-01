@@ -1,0 +1,2 @@
+hp66social
+<a href="https://hp66.social/">hp66</a> là thương hiệu cung cấp nền tảng giải trí trực tuyến với giao diện hiện đại, tốc độ truy cập ổn định và trải nghiệm thân thiện. Người dùng có thể dễ dàng khám phá các chuyên mục nổi bật, cập nhật thông tin mới và tận hưởng không gian giải trí tiện lợi trên nhiều thiết bị.
