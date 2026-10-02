@@ -2184,6 +2184,78 @@ class Solution:
         # 回傳 Good Node 的總數
         return count
 ```
+## Backtracking
+:::warning
+![](https://g0v.hackmd.io/_uploads/Hk0jHThcMl.png)
+
+:::
+```
+class Solution:
+    def combinationSum(self, candidates: list[int], target: int) -> list[list[int]]:
+
+        # 儲存所有符合 target 的組合
+        result = []
+
+        # 從 candidates[0] 開始
+        index = 0
+
+        # 一開始總和為 0
+        total = 0
+
+        # index：目前考慮 candidates 的哪個位置
+        # comb：目前選擇的數字組合
+        # total：目前組合的總和
+        def make_combinationSum(index, comb, total):
+
+            # 如果目前總和剛好等於 target
+            # 代表找到一組答案
+            if total == target:
+                # comb[:] 複製目前的組合並存入 result
+                result.append(comb[:])
+                return
+
+            # 如果總和已經超過 target
+            # 或 index 超過 candidates 範圍
+            # 代表這條路走不下去，回到上一層
+            if total > target or index >= len(candidates):
+                return
+
+            # -------------------------
+            # 選擇目前的 candidates[index]
+            # -------------------------
+            comb.append(candidates[index])
+
+            # index 不變，因為同一個數字可以重複使用
+            make_combinationSum(
+                index,
+                comb,
+                total + candidates[index]
+            )
+
+            # -------------------------
+            # Backtracking
+            # -------------------------
+            # 上面的路探索完後，
+            # 刪除剛剛加入的數字，恢復原本狀態
+            comb.pop()
+
+            # -------------------------
+            # 不選目前的 candidates[index]
+            # -------------------------
+            # index + 1，改考慮下一個數字
+            make_combinationSum(
+                index + 1,
+                comb,
+                total
+            )
+
+        # 從 index = 0、空組合、total = 0 開始搜尋
+        make_combinationSum(index, [], total)
+
+        # 回傳所有符合 target 的組合
+        return result
+        
+```
 ## Greedy
 ### Jump Game II(45)
 :::warning
@@ -2274,6 +2346,7 @@ class Solution:
 ![](https://g0v.hackmd.io/_uploads/rkgAb1JF5zg.png)
 
 :::
+
 ```
 class Solution:
     def canCompleteCircuit(self, gas: list[int], cost: list[int]) -> int:
@@ -2317,6 +2390,7 @@ class Solution:
         # 所以一定存在可以繞完整圈的起點
         return start
 ```
+
 ### Valid Parenthesis String(678)
 :::warning
 ![](https://g0v.hackmd.io/_uploads/ryg4ORZWczg.png)
