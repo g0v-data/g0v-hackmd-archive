@@ -33,6 +33,7 @@ tags: GIS
     - https://www.facebook.com/weatherrisk/posts/pfbid02q4MQ2svAnQchsKi7dArwUVtUDs5mc6tXGbjJp6ChCz51AaeDymiXzgrXfrjw6aZUl
 - 花蓮縣美崙 華東掩埋場 火災 https://www.facebook.com/share/r/1WiArGZUoz/
 - 三峽 橫溪 https://www.facebook.com/share/r/1JKuKahDe3/
+- 2026 基隆天外天掩埋場火災 https://youtu.be/1wg9L0oUpDA?si=WU0TZUsyunSqW8CF
 
 
 
