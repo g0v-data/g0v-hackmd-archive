@@ -2263,7 +2263,187 @@ class Solution:
 
 :::
 ```
+class Solution:
+    def combinationSum2(
+        self, candidates: list[int], target: int
+    ) -> list[list[int]]:
 
+        # 初始總和
+        total = 0
+
+        # 從 candidates[0] 開始搜尋
+        index = 0
+
+        # 先排序
+        # 1. 讓相同數字排在一起，方便去除重複組合
+        # 2. 如果總和超過 target，可以直接 break
+        candidates.sort()
+
+        # 儲存最後所有符合 target 的組合
+        result = []
+
+        # index：這一層可以從哪個位置開始選
+        # comb：目前已經選擇的數字
+        # total：目前 comb 的總和
+        def make_combinationSum2(index, comb, total):
+
+            # 如果目前總和剛好等於 target
+            # 代表找到一組答案
+            if total == target:
+
+                # comb[:] 複製目前組合
+                # 避免之後 comb.pop() 影響已儲存的答案
+                result.append(comb[:])
+
+                # 這條路已經找到答案，不需要繼續往下搜尋
+                return
+
+            # 從目前 index 開始嘗試每一個數字
+            for i in range(index, len(candidates)):
+
+                # 如果「同一層」遇到重複的數字，就跳過
+                #
+                # i > index：
+                # 代表這不是這一層第一次選擇
+                #
+                # candidates[i] == candidates[i - 1]：
+                # 代表目前數字和上一個數字相同
+                #
+                # 避免產生重複組合
+                if i > index and candidates[i] == candidates[i - 1]:
+                    continue
+
+                # 如果加入目前數字後已經超過 target
+                # 因為 candidates 已經排序，
+                # 後面的數字只會更大，所以可以直接停止這層 for
+                if total + candidates[i] > target:
+                    break
+
+                # ------------------------
+                # 1. 做選擇
+                # ------------------------
+                # 將目前 candidates[i] 加入組合
+                comb.append(candidates[i])
+
+                # ------------------------
+                # 2. 往下一層搜尋
+                # ------------------------
+                # 使用 i + 1，因為 Combination Sum II
+                # 每個位置的數字只能使用一次
+                make_combinationSum2(
+                    i + 1,
+                    comb,
+                    total + candidates[i]
+                )
+
+                # ------------------------
+                # 3. Backtracking
+                # ------------------------
+                # 下一層搜尋完成後會回到這裡
+                # 刪掉剛剛加入的數字，恢復原本狀態
+                comb.pop()
+
+                # pop() 完後，這一次 i 就結束
+                # for 會自動進入下一個 i
+                # 再嘗試其他數字
+
+        # 從 index = 0
+        # comb = []
+        # total = 0
+        # 開始進行 Backtracking
+        make_combinationSum2(index, [], total)
+
+        # 回傳所有找到的組合
+        return result
+```
+### Subsets(78)
+:::warning
+![](https://g0v.hackmd.io/_uploads/S1l22P02cGg.png)
+
+:::
+```
+class Solution:
+    def subsets(self, nums: list[int]) -> list[list[int]]:
+
+        # 儲存所有找到的子集合
+        result = []
+
+        # 從 nums 的第 0 個位置開始
+        index = 0
+
+        # comb：目前組合出來的子集合
+        # index：這一層可以從 nums 的哪個位置開始選
+        def make_subsets(comb, index):
+
+            # 目前的 comb 本身就是一個合法的子集合
+            # comb[:] 是複製一份，避免之後 comb.pop() 影響已存入的結果
+            result.append(comb[:])
+
+            # 從 index 開始，嘗試選擇每一個數字
+            for i in range(index, len(nums)):
+
+                # 做選擇：把 nums[i] 加入目前的組合
+                comb.append(nums[i])
+
+                # 進入下一層
+                # 因為 nums[i] 已經選過了
+                # 所以下一層從 i + 1 開始選
+                make_subsets(comb, i + 1)
+
+                # 回溯：取消剛剛的選擇
+                # 回到上一層，繼續嘗試其他數字
+                comb.pop()
+
+        # 從空集合 []、index = 0 開始
+        make_subsets([], index)
+
+        # 回傳所有子集合
+        return result
+
+
+```
+### Subsets II(90)
+:::warning
+![](https://g0v.hackmd.io/_uploads/ryzci02qzx.png)
+
+:::
+```
+class Solution:
+    def subsetsWithDup(self, nums: list[int]) -> list[list[int]]:
+
+        result = []
+
+        # 先排序，讓相同的數字排在一起
+        # 這樣才能判斷重複
+        nums.sort()
+
+        def make_subsetsWithDup(comb, index):
+
+            # 目前的 comb 本身就是一個合法子集合
+            result.append(comb[:])
+
+            # 從 index 開始選擇數字
+            for i in range(index, len(nums)):
+
+                # 如果同一層遇到重複的數字，就跳過
+                # i > index 代表這不是這一層的第一個選擇
+                if i > index and nums[i] == nums[i - 1]:
+                    continue
+
+                # 做選擇
+                comb.append(nums[i])
+
+                # 往下一層
+                # 下一次從目前 i 的下一個位置開始
+                make_subsetsWithDup(comb, i + 1)
+
+                # 回溯：取消剛剛的選擇
+                comb.pop()
+
+        # 從空集合、index = 0 開始
+        make_subsetsWithDup([], 0)
+
+        return result
 ```
 ## Greedy
 ### Jump Game II(45)
