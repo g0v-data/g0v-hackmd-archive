@@ -2185,6 +2185,7 @@ class Solution:
         return count
 ```
 ## Backtracking
+### Combination Sum(39)
 :::warning
 ![](https://g0v.hackmd.io/_uploads/Hk0jHThcMl.png)
 
@@ -2255,6 +2256,14 @@ class Solution:
         # 回傳所有符合 target 的組合
         return result
         
+```
+### Combination Sum II(40)
+:::warning
+![](https://g0v.hackmd.io/_uploads/ryXYURh5fe.png)
+
+:::
+```
+
 ```
 ## Greedy
 ### Jump Game II(45)
