@@ -8,6 +8,9 @@ tags: vTaiwan
 參與者 Participants: Bestian, Soth, Tim, Yi-Ting Lien
 
 
+![](https://g0v.hackmd.io/_uploads/SylqsWY29fx.jpg)
+
+
 自我介紹：
 
 Yi-Ting Lien: 英國, 博士生, 政治學
@@ -136,3 +139,7 @@ Bestian 這邊整理了一份 **「vTaiwan 工程季報｜夏季工程摘要與�
 這個迭代我們特別需要 **「先期使用者」、「UI/UX 設計師」和「前端工程師」** 的協助。如果你有興趣參與、試用或提供回饋，歡迎一起加入，謝謝！
 
 詳情請見 [vTaiwan 工程季報｜夏季工程摘要](/qDnl5MV0TjePxIqWHsjA8g)
+
+
+## 轉錄逐字稿與AI大綱
+

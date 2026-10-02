@@ -29,8 +29,8 @@
 
 ---
 
-### 🟪 二、Microsoft Teams (備用1)
-> 💡 **使用提示：** 桌機可用瀏覽器，免安裝、免帳號；手機需安裝 App 或登入微軟帳號。 *(2025/5/16 更新)*
+### 🟪 二、Microsoft Teams (免費版)
+> 💡 **使用提示：** 桌機可用瀏覽器，免安裝、免帳號；手機需安裝 App 或登入微軟帳號。
 
 * **管理員帳號：** meeting@chainlon.net (密碼另洽)
 
@@ -45,23 +45,7 @@
 
 
 ---
-
-### 🟦 三、CISCO Meet (備用2，擬汰除)
-> 💡 **使用提示：** 
-> * 請點擊「參加」而非登入，不須安裝軟體，進入前請記得輸入您的暱稱。
-> * **蘋果系統 (iOS/macOS)：** 請使用 Chrome 或 Safari 瀏覽器開啟。
-> * **Windows 桌機 或 Android 手機：** 可使用 App 或瀏覽器 (經測試 Edge, Chrome, Firefox 均可正常運作)。
-
-#### 🔗 CISCO 會議連結一覽
-* **展頌公用會議 (會議ID：22927617)：** [點擊加入](https://mt.chainlon.net/invited.sf?secret=FSqW0vWl.lz8tQL1qCE4zg&id=22927617)
-  * 短網址：https://www.chainlon.net/meetc
-* **展頌 CISCO 會議室 (手動輸入會議ID)：** https://mt.chainlon.net/
-
-
-
----
-
-### 🛠️ 四、設備測試及工具分享區
+### 🛠️ 三、設備測試及工具分享區
 
 #### 🔧 視訊設備測試工具
 * **會議就緒檢查 (Avtestr)：** [https://www.avtestr.com/.../MeetingReadyCheck.html](https://www.avtestr.com/zh-tw/MeetingReadyCheck.html)
@@ -71,6 +55,6 @@
 * **線上產生二維碼 (QR Code)：** [https://qr.ioi.tw/zh/](https://qr.ioi.tw/zh/)
 * AdGuard 廣告封鎖器：[連結](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) 
 ---
-###  🟪 五、會議連結分享區
+###  🟪 四、會議連結分享區
 
 meet.google.com/oip-ycyi-phz  財務用
