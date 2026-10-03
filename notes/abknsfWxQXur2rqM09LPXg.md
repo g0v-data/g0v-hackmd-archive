@@ -33,7 +33,7 @@ Staff: Orz,nonumpa, bil
  麥克風只能有一支
  
  
- ![](https://g0v.hackmd.io/_uploads/SkjkERALze.jpg)
+![](https://g0v.hackmd.io/_uploads/SkjkERALze.jpg)
 
 ![](https://g0v.hackmd.io/_uploads/S1haN0R8Mg.jpg)
 
