@@ -13,9 +13,11 @@ Cofacts 查核志工工作坊 第55次小聚 小松果
 ＨＤ河東
 14人
 
-- Staff:bil,Orz
-Lance, 
+- Staff:bil, Orz
+- Online: Lance
 
+地板插座
+![](https://g0v.hackmd.io/_uploads/Skqn6-zjfe.png)
 
 
 
