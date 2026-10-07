@@ -194,4 +194,7 @@ https://g0v.social/home
 - 希望在 2027/01/25-28 來台拜訪的時候，與 vTaiwan 交流
 - 最近東京都有在各個區推動相關的數位轉型
 - 世田谷為人口數最多的行政區
-- 
+
+
+## 審議大會討論
+-下週開始每週進行相關討論：https://docs.google.com/document/d/1SfiSnufiqh1w-2En7Z7zikK6wDHhBOp9ov9UsPPGQ4I/edit?tab=t.0
