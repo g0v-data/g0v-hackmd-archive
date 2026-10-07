@@ -16,7 +16,7 @@ tags: vTaiwan
 Yi-Ting Lien: 英國, 博士生, 政治學
 Soth: 藥商、行政助理、前社工
 Tim: 轉職網站工程師、對資料視覺化有興趣、對區塊鍵有興趣
-Bestian: 
+Bestian: 自主學習, 工程師, 蔬食者
 
 
 
