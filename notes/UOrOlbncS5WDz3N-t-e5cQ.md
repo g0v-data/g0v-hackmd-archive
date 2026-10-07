@@ -1,0 +1,1 @@
+<p><a href="https://ego8.net/" target="_blank">go8</a> là nền tảng giải trí trực tuyến được nhiều người dùng quan tâm nhờ giao diện hiện đại, bố cục trực quan và danh mục trò chơi phong phú. Hệ thống được tối ưu trên nhiều thiết bị, mang đến tốc độ truy cập nhanh, thao tác thuận tiện và khả năng vận hành ổn định.</p>
