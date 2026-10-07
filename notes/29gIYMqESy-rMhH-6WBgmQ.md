@@ -1,0 +1,2 @@
+Giới Thiệu C168 – Đột Phá Giải Trí Trực Tuyến Châu Á 2025
+[C168](https://c168.gg/) là nền tảng cá cược trực tuyến thế hệ mới, chính thức ra mắt năm 2025. Sở hữu giao diện hiện đại, đa dạng sản phẩm giải trí và trải nghiệm tối ưu, hệ thống hướng đến xây dựng một không gian chơi trực tuyến tiện lợi, minh bạch và an toàn cho người dùng Việt.
