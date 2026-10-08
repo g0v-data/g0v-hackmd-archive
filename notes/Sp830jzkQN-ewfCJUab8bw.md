@@ -117,3 +117,8 @@ https://www.facebook.com/share/VuFEW77aFLp6GQka/
 https://www.facebook.com/share/p/1BZ5d7ydav/
 一等水準點
 https://www.facebook.com/share/p/et5x4oT6qR7P6Hsq/
+
+學校_內湖國中的大樹上設置儀器
+https://www.facebook.com/TaiwanATG/posts/pfbid02povqgYVdXmzAQq3Px11FiRKtB7jFp6ZqztjQcZ6VvPUoTKYKLm4ek3RvDjYozjtFl?locale=zh_TW
+
+
