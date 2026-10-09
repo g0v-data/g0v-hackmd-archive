@@ -44,6 +44,9 @@ https://www.facebook.com/share/p/182SKK6Hjb/
 洋流
 https://www.facebook.com/yuhina/posts/pfbid02eg9nAKMg6X5GuHJhLuYqMnbMHWetgj2fa84uuXAumD9E5ho9F2FmqwVXk85AL5VPl
 
+生態
+- 奄美大島 https://www.facebook.com/share/19qrKuJNvx/
+
 文化圈研究
 https://www.facebook.com/share/p/1DXkZYuNVF/
 https://www.facebook.com/minliang.wong/posts/pfbid0ThDRscgcNncUPkN71VgRa8FzVQJpzy44Xr1WfofHj2Kw34qa7ymTKaqmLbfSCu4Kl
