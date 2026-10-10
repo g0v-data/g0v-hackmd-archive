@@ -1,14 +1,14 @@
 ---
 title: 3-1 How to Start a Project?
-tags: jothon, NDI
+tags: jothon, NDI, FNF
 ---
 :::success
 :book: Return to the homepage of the handbook: https://g0v.hackmd.io/@jothon/ctpbook_en
 
-"g0v Civic Tech Project & Community Handbook" is licensed under CC BY-NC.
+"Civic Tech Project & Community Handbook" is licensed under CC BY-NC.
 :::
 
-# 3-1 How to Start a Project?｜g0v Civic Tech Project & Community Handbook
+# 3-1 How to Start a Project?｜Civic Tech Project & Community Handbook
 
 ### Chapter 3: Initiate a Civic Tech Project
 

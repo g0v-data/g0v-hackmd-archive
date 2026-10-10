@@ -21,7 +21,7 @@ tags: infras
 
 ## 任務蒐集
 
-### 定點手機可操作 1-5 分鐘之內可以完成貢獻的任務
+### 📱 定點手機可操作 1-5 分鐘之內可以完成貢獻的任務
 
 依照最小貢獻所需時長排序XD
 - [堪稱1秒就可以有1次文字複檢貢獻] 政治獻金文字複檢，已經完成 2 輪，資料有 325755 筆，距離完成第 3 輪，還有 174370 筆需要輸入：https://campaign-finance.g0v.ctiml.tw/
@@ -39,16 +39,18 @@ tags: infras
     - > [name=chewei 有這麼長!?]
     - > [name=Ying：那改一個捷運站好了，不是中正 -> 東門那種 XD]
 - [不定期] 搶票、報名活動，像是即將來臨的大松、社群小松、基礎松
+    - https://g0v.hackmd.io/@jothon/event
 - [不定期] 想大松名稱，投票大松名稱
+    - https://g0v.hackmd.io/@jothon/hackathon-name/
 - [不定期] 幫忙想專案名稱 slack #name 頻道中有招募中的命名需求
 
-### 定點需使用電腦，5-10 分鐘之內可以完成貢獻的任務，手機可能不方便操作
+### 💻 定點需使用電腦，5-10 分鐘之內可以完成貢獻的任務，手機可能不方便操作
 - Cofacts 查核可疑訊息：https://cofacts.tw/hoax-for-you
 - [待建構使用者可自主完成的引導機制]一日資料申請小幫手：(網站掛了!2023.04) https://dataopener.tw/
 - 更多事項 https://g0v.hackmd.io/dbwO37FhSjiKyptbioNnrw
 
 
-### 步行移動過程，應注意安全 !
+### 🤳 步行移動過程，應注意安全 !
 - 平安走路許願帳戶-行人庇護空間 [群眾標註](https://commutag.agawork.tw/dataset?id=63528cc34f042e88cc951433)，拍照行人空間
 - 其他：http://bit.ly/3aRISGp
 
@@ -73,6 +75,13 @@ tags: infras
 - [ ] 想一下網址 task?
 - [ ] 開 Google Site 
 - [ ] 放入已蒐集的任務
+
+### 案例
+
+Online volunteering lets you:  
+💻 Volunteer from anywhere 
+💻 Collaborate with diverse teams 
+💻 Expand your skills and knowledge  Join UNV as an online volunteer today 🔗 https://app.unv.org
 
 ---
 

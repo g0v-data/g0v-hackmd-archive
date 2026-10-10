@@ -35,5 +35,6 @@ tags: edu
  
 ### ▪️ [簡報](https://denny.one/git-g0v-sch001)
 ### ▪️ [延伸學習資料](https://forms.gle/8WCfJMDLu5V8rKqj8)
-
+- 講者 Denny 持續更新的介紹內容資源 https://denny.one/talks/
+- git 教材紙本檔案 https://www.facebook.com/share/p/18WMt8GhLX/
 

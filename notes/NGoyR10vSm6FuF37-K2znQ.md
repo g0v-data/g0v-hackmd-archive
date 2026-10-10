@@ -54,15 +54,18 @@ https://youtu.be/OYQ9-NOvUJo
 
 ## 工具
 
+手開發票檢查小幫手_查詢公司全名、檢查統編、計算稅額
+https://invoice-helper.timdream.org/
+
 數字與國字轉換
 https://www.facebook.com/1843009294/posts/pfbid0xmFZnzkaHQDGsEz3Zd9z9KkkMWHUNZwWkP4TmQsPNe2vab8PiLH4Ekmtm8PeXDdyl/
-
 
 ## 待整理
 
 核銷
 https://www.facebook.com/share/p/m3Bg4iEKJsxaG46y/
 
+https://www.facebook.com/share/p/SmD4ZSK2vZ9wZN9t/
 
 ## 議題探討：線上影片
 

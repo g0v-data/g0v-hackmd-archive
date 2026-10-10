@@ -775,3 +775,7 @@ slack 討論串
         * https://cfj.slack.com/archives/C02FA8W35JM
     * Code for Japan Slack 加入方式
         * https://www.code4japan.org/activity/community
+
+
+## whale120
+- [Whale120's Blog](https://blog.whale-tw.com/)

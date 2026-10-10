@@ -74,9 +74,14 @@ https://g0v.hackmd.io/@jothon/keng/
 - [ ] [2023 Civic Tech Project Handbook 🔥🔥🔥](https://g0v.hackmd.io/@jothon/ctpbook/)[target=_blank]
 
 
-## A.採用「面對這個問題，目前我們觀察到是這樣」的紀錄方式，整理坑主們在意的討論重點
+## 【觀點分享】什麼是「專案」？「專案」包含什麼？
 
-### (1) 一個專案中有哪些角色？
+:::info
+- 整理方式：採用「面對這個問題，目前我們觀察到是這樣」的紀錄方式，整理坑主們在意的討論重點
+- 持續蒐集可能會有的問題（歡迎 ++ 並留下你的 ID！）
+:::
+
+### 一個專案中有哪些角色？
 - 專案小組 Core Team：特點是 穩定明確
     - 坑主 
         - 提出專案構想，推動專案進展
@@ -96,7 +101,7 @@ https://g0v.hackmd.io/@jothon/keng/
     - 對於專案實質議題能提供諮詢意見的團體
     - 其他
 
-### (2) 「專案/坑」的階段
+### 「專案/坑」的階段
 - 新坑階段：提出專案構想，找出專案的工作方向，執行短期可行工作
     - 可以參考「提案模板 / 引導式課程 / 表格」來開展專案
         - https://g0v.hackmd.io/@jothon/keng/https%3A%2F%2Fg0v.hackmd.io%2Fa_sXd-DRSLmJhhd61sc_ag
@@ -149,7 +154,7 @@ https://g0v.hackmd.io/@jothon/keng/
 - 法人化 (社會企業或非營利組織)
     - (需再歸納相關經驗)
 
-### (3) 需要以「專案架構」來整理工作
+### 需要以「專案架構」來整理工作
 - 招不到人、專業性質太高，工作不好切割
     - 應該要把文件（read me）寫好，方便別人跳坑或接手。
     - 若專案架構大，把想做的切塊，訂好中間介面讓大家好跳坑。
@@ -172,7 +177,7 @@ https://g0v.hackmd.io/@jothon/keng/
         - 與公部門協力的專案會有卡到上班時間的問題。[name=ky]
         - 前朝政績容易人亡政息。[name=ky]
 
-### (4) 談專案的參與者、核心小組、招募人力
+### 談專案的參與者、核心小組、招募人力
 
 - 參與者說要做到但沒做到（或是能力不足以勝任） 
     - 一般專案運作中，為了留住新人，可能會花費更多時間去教導好的程式習慣 or 協作觀念及模式，將 5-6 分的品質提升到 7 分，剩下只能坑主自己補。
@@ -200,7 +205,7 @@ https://g0v.hackmd.io/@jothon/keng/
 - 有人可以享樂，卻沒有人要扛責任
     - 社群的外部成本，但是可以多跟大家提倡社群的環境是前人堆築起來的，請共同維護。
 
-- 不公開 SNS 群組的界線（Line、Messenger 等）
+- 非公開 SNS 群組的界線（Line、Messenger 等）
     - 坑主自律、回到 slack
     - 非公開群組不要討論專案，不要有因專案得到的資源、資訊在其中流通
 
@@ -208,7 +213,7 @@ https://g0v.hackmd.io/@jothon/keng/
     - 回信權限：至少有一定程度的參與才能回信，確保回信內容不偏離現實
     - 要有 core team，有明確穩定公開的名單，若有牽扯到 Funding 或是錢更是如此。
 
-### (5) 經費、金流聘僱問題
+### 經費、金流聘僱問題
 
 - 社群專案的經費，通常拿來做什麼？
     - 創造協作的場合與工具
@@ -239,21 +244,16 @@ https://g0v.hackmd.io/@jothon/keng/
     - 不要用社群經驗帶入正式工作，當有承諾的時候就應遵守
 
 
-### (6) 專案與大松 (社群) 的關係
+### 專案與大松 (社群) 的關係
 
 - 鼓勵坑主自主協助 g0v 大黑客松持續推動
 - 協助募款，可以做黑客松認養人 banner 掛網站
 - 多在自己的坑宣傳
 
-
 ![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_1ed0bdf12863ea1edee36494bf7b3116)
-
 ![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_0181892d6ca0d3225736dca0b3c32d5c)
 ![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_d976998f91c1a254d5fdfae7122d431f)
 
----
-
-## B.持續蒐集可能會有的問題（歡迎 ++ 並留下你的 ID！）
 
 ### 社群參與問題
 - 招不到人 [name=ddio] 
@@ -471,12 +471,13 @@ https://g0v.hackmd.io/@jothon/keng/
 - ichieh：活動 no show 不好！
 - bess：對專案探索很久，教育坑很深。bess 覺得 @@
 
+## 【課題與解法】專案執行上的常見課題與對策
 
-### 取名子
+### 專案取名子 Name
 
 - 建議盡量用集思廣益的方式，因為真的很難取名子
 - 相關頻道 g0v slack #name 
-- 共筆 https://g0v.hackmd.io/eV7qoI1JR4CpF74oo4KgAg
+- 共筆與案例探討：https://g0v.hackmd.io/eV7qoI1JR4CpF74oo4KgAg
 - 英文名稱：
     - 用途：Domain Name、email、短網址用字、HackMD Team Name
 - 中文名稱
@@ -609,6 +610,21 @@ https://g0v.hackmd.io/zNfe2MGfTrWo_5GZI0E5pQ
 
 https://g0v.hackmd.io/2vtBZdp3SMSFrxBquZPGmg?view
 
+### 專案成員共用付費工具的方法
+
+g0v Summit 2026，有購買 Canva Pro，權限運作方式
+- 登入宣傳組的帳號（media@summit.g0v.tw）
+- 寄送驗證碼到 media 的 mailing gruop
+- 輸入驗證碼，登入成功！
+
+### 開源授權如何選擇？
+
+程式碼
+https://www.facebook.com/share/p/1KUv2S2D8U/
+
+文件圖像
+https://g0v.github.io/cchelper/
+
 ### 專案一開始的 爬蟲伺服器、資料庫，該如何選擇？
 - 雲原生台灣社群 Infra Labs 計畫，摘自以下文章：今年 (2022) 本專案提供對象，主要包含技術社群與電資學生使用，其中亦對 Infra Labs 進行測試和系統架設，以下為 2022 年使用案例的成果發表，並達成本專案回饋社會與培育英才的目標。
     - https://docs.cloudnative.tw/blog/2022-recap/
@@ -616,19 +632,50 @@ https://g0v.hackmd.io/2vtBZdp3SMSFrxBquZPGmg?view
     - https://www.notion.so/saxode/CourseAPI-b3233543fa0940d1a54e32c7b312aa25
 - cloudflare 的公益專案
     - https://www.cloudflare.com/zh-tw/galileo/
+- 2024 GCP 會被 DDos 收到帳單 https://www.facebook.com/share/p/1PrbwSL7qv/
+    - https://www.facebook.com/share/p/15HvuvGrmp/
+- 中央研究院資料寄存所
+    - https://rdm.depositar.io/news/20230216
+- 民間自架的內容資源長期維運課題與案例
+    - https://g0v.hackmd.io/8uPXrUiFSvq34LO3IJpk-w?view
 
-資料寄存所
-- https://rdm.depositar.io/news/20230216
+### 用 Google 文件放圖片，取得每張圖片的固定網址
 
-### SEO
+https://www.facebook.com/share/p/1ZojurHzhP/?mibextid=wwXIfr
 
-https://www.canva.com/design/DAF-bZu-LsE/qX42vVNa_pIi7dTG_GHYwA/view
+### 網頁靜態化方案評估
 
+https://g0v.hackmd.io/@kiang/static_page_generators
 
-### 非營利組織可以申請的數位服務資源
-https://www.techsoup-taiwan.org.tw/eligibility_criteria 
-https://github.com/sharils/non-profit-candies#public-cloud
+### 監控憑證有沒有過期的工具
 
+- pichuchen> CertMon，它可以幫忙監控憑證有沒有過期，適合一次需要顧多個網站的人使用。特別的地方是，整個專案基本上都是用 Vibe Coding 生成的，所以如果要送 PR 的話，也歡迎試試看用 Vibe Coding 的方式進行喔 https://github.com/PichuChen/CertMon
+
+### AI 爬蟲來了 ! 爬專案資料，造成專案被動支出 !
+
+- https://g0v.hackmd.io/lljezcg7QUa6e2qbx6OPDw?view
+- https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH#ts-1742457176.1744
+- https://www.facebook.com/share/p/1AzyrN7ESf/
+- https://g0v-tw.slack.com/archives/CGU1SLHNH/p1751938504730039
+
+LawTrace 專案經驗整理
+- https://www.facebook.com/share/p/14eq25S4NQ6/
+
+### 呈現開源程式碼貢獻
+
+Gitroll 呈現開源程式碼貢獻
+https://www.facebook.com/share/p/1DxR8o7KzZ/
+
+### 網站內容有蒐集到歧視用語
+
+例如語料語言類網站
+- https://g0v-slack-archive.g0v.ronny.tw/index/channel/C02G2SXKX/2025-05#ts-1748411083.3108
+
+### 有了網站之後：SEO / 瀏覽者分析
+
+網站做出來之後 ／ Teemo 
+- 影片：https://youtu.be/bzbErDHGdN8
+- 簡報：https://www.canva.com/design/DAF-bZu-LsE/qX42vVNa_pIi7dTG_GHYwA/view	
 
 ### 透過「訪談、問卷」來了解開發方向
 
@@ -641,7 +688,74 @@ https://g0v.hackmd.io/@chewei/SJ2W6Ct_c/https%3A%2F%2Fg0v.hackmd.io%2F%40chewei%
 問卷
 https://g0v.hackmd.io/76lTGX03TsG9w4InrZlrEQ
 
+### 設置廣告版面，支持網站營運 
 
+- https://www.facebook.com/share/p/1Hwn7GAcqj/ 
+
+### 行銷與推廣經驗
+
+專案經驗
+- [disfactory 大家來找廠](https://docs.google.com/document/d/1WBHSAUL9GeoEv00r9MBVdPLm9xZtocsF4u3WEJaEe7A/edit)
+- 心理測驗結合議題推廣工具，案例蒐集 https://g0v.hackmd.io/Y7qSwSppRQefWU53GK2ioQ?view
+- linkedin https://www.facebook.com/share/p/17vcdx2yk1/?mibextid=wwXIfr
+
+多加運用 g0v 社群活動＆專案宣傳管道
+- https://g0v.hackmd.io/@jothon/g0vSNS
+
+### 商標申請
+- #cofacts 有相關討論串
+    - https://g0v-tw.slack.com/archives/C2PPMRQGP/p1628006791006600
+    - https://g0v-slack-archive.g0v.ronny.tw/index/channel/C2PPMRQGP#ts-1628006791.0066
+    - https://g0v.hackmd.io/Nhc9MnskSsGvUqntz0z7Dg?view
+    - https://g0v.hackmd.io/UvVFqF6cTjy7MW-B5HNtgw?view
+
+### 合理使用圖像素材
+
+阿美語萌典的一則 FB 貼文選圖，使用圖像素材
+- 該素材網站的免費授權條款（該網站用語為免費許可證）：
+    - 個人非營利用途
+    - 慈善非營利組織在非商業情況下無需任何許可授權即可使用
+- 討論串與說明 
+    - https://www.facebook.com/groups/g0v.general/permalink/8494387457304252/
+    - https://g0v-slack-archive.g0v.ronny.tw/index/channel/C02G2SXKX#ts-1729859010.657569
+
+### 短片創作與智慧財產權
+
+https://www.facebook.com/lawyerbrightday/posts/2913680925549585
+
+### 如何評估將程式碼放入政府公共程式平台
+
+Disfactory 討論文件
+https://g0v.hackmd.io/D66MUq44QZ6ghQP9aPmy6w?view
+
+### 產品企劃
+
+- https://www.facebook.com/share/p/1BZ1HrY8Q8/
+
+### 擺攤與文宣品
+
+擺攤經驗共筆
+https://g0v.hackmd.io/@jothon/booth/
+
+常見的擺攤活動
+- 每年舉辦的 COSCUP 會招募社群攤位，並搭配大地遊戲，提供攤位任務，來讓參加者至攤位進行互動
+- 每年舉辦的 SITCON 會招募社群攤位
+- 其他，歡迎提供
+
+文宣品：單張傳單、貼紙
+輸出物：關東旗
+- 輸出印刷等廠商參考：https://g0v.hackmd.io/@jothon/ngo/https%3A%2F%2Fg0v.hackmd.io%2FWBPmA4DrTjyuxx1E-T1zEA
+
+### 專案任務完成，如何評估網域 等
+
+
+空汙網
+https://www.facebook.com/share/p/1WFsNJKR8n
+
+Disfactory 
+有評估 公共程式平台 
+
+## 【階段評估重點】非營利組織與捐款責信 / 開設營業事業公司
 
 ### 專案若要設立捐款，有方案建議、或評估要點嗎？
 
@@ -673,41 +787,45 @@ https://g0v.hackmd.io/76lTGX03TsG9w4InrZlrEQ
 - 平方募資 
     - https://www.facebook.com/story.php?story_fbid=pfbid02Bw6MEEtbUAvzxzKPpAULzHeJ3UsG4gdyYdXfk79sFo78FCNKXhHdG3JaMARwiyddl&id=253752645206461
 
-### 行銷與推廣經驗
 
-[disfactory 大家來找廠](https://docs.google.com/document/d/1WBHSAUL9GeoEv00r9MBVdPLm9xZtocsF4u3WEJaEe7A/edit)
+### 設立協會或非營利組織，與專案的關係
 
-### 商標申請
-- #cofacts 有相關討論串
-    - https://g0v-tw.slack.com/archives/C2PPMRQGP/p1628006791006600
-    - https://g0v-slack-archive.g0v.ronny.tw/index/channel/C2PPMRQGP#ts-1628006791.0066
-    - https://g0v.hackmd.io/Nhc9MnskSsGvUqntz0z7Dg?view
-    - https://g0v.hackmd.io/UvVFqF6cTjy7MW-B5HNtgw?view
+臺灣
+- Cofacts
 
-### 短片創作與智慧財產權
+美國
+- 國家寶藏基金會
 
-https://www.facebook.com/lawyerbrightday/posts/2913680925549585
+🔍 諮詢面向包含：
+- 組織設立：組織登記、稅務合規
+- 基礎建設：資金、財務、會計、金融、法律、資訊與數位轉型
+- 策略規劃：管理策略、社會使命
+- 營運管理：組織結構、人力資源、管理技巧
+- 行銷銷售：市場定位、品牌及行銷策略、市場開發、銷售策略
+- 客戶關係：客戶服務與管理、捐款人關係管理
+- https://www.facebook.com/npohub.taipei/posts/pfbid0NhcWABxDGq4HkcvPqbGHzmpMzhHKoPXT1sfVmAGKUYsW5KghQexkjZninPzt7hqnl
 
-### 擺攤與文宣品
+### 非營利組織可以申請的數位服務資源
+- https://www.techsoup-taiwan.org.tw/eligibility_criteria 
+- https://github.com/sharils/non-profit-candies#public-cloud
 
-常見的擺攤活動
-- 每年舉辦的 Coscup 會招募社群攤位，並搭配大地遊戲，提供攤位任務，來讓參加者至攤位進行互動
-- 每年舉辦的 Sitcon 會招募社群攤位
-- 其他，歡迎提供
-
-文宣品：單張傳單、貼紙
-輸出物：關東旗
-- 輸出印刷等廠商參考：https://g0v.hackmd.io/@jothon/ngo/https%3A%2F%2Fg0v.hackmd.io%2FWBPmA4DrTjyuxx1E-T1zEA
-
-### 專案推廣方式
-
-心理測驗結合議題推廣工具，案例蒐集 https://g0v.hackmd.io/Y7qSwSppRQefWU53GK2ioQ?view
 
 ### 開設公司
 
+記得不要勾選 第三方支付，摘自內文「記新公司記得絕對不要勾選「第三方支付」「代收代付」營業登記，否則銀行開戶跟日後申請金流都會有問題」
+https://www.facebook.com/share/p/19tnKVEX86/
+
 https://blog.teachify.tw/posts/%e5%89%b5%e6%a5%ad%e5%bf%85%e8%ae%80%ef%bc%81%e4%b8%80%e4%ba%ba%e5%85%ac%e5%8f%b8%e6%8c%87%e5%8d%97%ef%bc%9a5%e5%88%86%e9%90%98%e6%90%9e%e6%87%82%e9%96%8b%e5%85%ac%e5%8f%b8%e8%a1%8c%e8%99%9f/
 
-### 待整理：
+Data Room
+https://www.facebook.com/share/p/17DUwah3FP/
+https://giftpack.notion.site/giftpack-data-room-template
+
+---
+
+## 自由筆記區
+
+待整理：
 - 開源協作社群經營五顆心 ！beta！https://g0v.hackmd.io/pn-innCgRKycd-MNkR-exQ
 - (1)議題探討
     - 問題分析，找出痛點

@@ -1,14 +1,14 @@
 ---
-title: 1-1 What is g0v? ｜ 公民科技專案手冊｜Civic Tech Project Handbook
-tags: jothon, NDI
+title: 1-1 What is g0v? ｜ 公民科技專案與社群手冊｜Civic Tech Project & Community Handbook
+tags: jothon, NDI, FNF
 ---
 :::success
 :book: Return to the homepage of the handbook: https://g0v.hackmd.io/@jothon/ctpbook_en
 
-"g0v Civic Tech Project & Community Handbook" is licensed under CC BY-NC.
+"Civic Tech Project & Community Handbook" is licensed under CC BY-NC.
 :::
 
-# 1-1 What is g0v?｜g0v Civic Tech Project & Community Handbook
+# 1-1 What is g0v?｜Civic Tech Project & Community Handbook
 
 ### Chapter 1: About the g0v Community
 ## What is g0v?
@@ -141,9 +141,9 @@ g0v is a non-partisan, not-for-profit, grassroots movement. You can contribute t
     * Establishing the "g0v international" task force.
     * Environmental group "Citizen of the Earth Foundation" proposing the "Disfactory: Illegal Factories Reporting System" at the g0v hackathon and organizing regular project meetings.
     * Facing the Ocean Hackathon in Okinawa, co-organized by Taiwan, Japan, and Korea.
-    * Facing the Ocean Hackathon in Tainan, co-organized by Taiwan, Japan, and Korea.
+    * Facing the Ocean Hackathon in Tainan, co-organized by g0v Intl, Code for Japan and Code for Korea..
     * g0v New York Hackathon.
-    * Invited by the Friedrich Naumann Foundation for Freedom in Germany, participating in discussions with various political parties and parliament members, and attending the Hacking Democracy Summit held in Berlin.
+    * Invited by the Friedrich Naumann Foundation for Freedom, participating in discussions with various political parties and parliament members, and attending the Hacking Democracy Summit held in Berlin.
     * Organizing 1 infrastructure hackathon.
     * Organizing 5 g0v hackathons.
 
@@ -178,19 +178,26 @@ g0v is a non-partisan, not-for-profit, grassroots movement. You can contribute t
     * Facing the Ocean Hackathon in Jeju Island, co-organized by Taiwan, Japan, and Korea.
     * Organizing 2 infrastructure hackathons.
     * Organizing 6 g0v hackathons.
-  * 2024 ~
+  * 2024  
+    *   2024 Facing the Ocean Hackathon in Yokohama, co-organized by g0v Intl, Code for Japan
+    * and Code for Korea.
+    * Organizing 2 infrastructure hackathons.
+    * Organizing 5 g0v hackathons.
+    * g0v Summit 2024.
+    * Organizing 52 g0v project‘s hackathons (hsiaothon).
+  * 2025 ~
     * *... to be continued*
 
 :::warning
-#### As of 2023, the g0v community has marked its 11th year and has achieved the following milestones to date:
- * 13475+ participants on g0v Slack
- * 916 g0v Slack channels
- * 405135+ g0v Slack messages
- * Organized 4 g0v Summit international biennial conferences
- * Held 23 Infrastructure Hackathons
- * Conducted 60 g0v hackathons
- * Received a total of 980 hackathon proposals
- * 471+ GitHub projects
- * 146,000+ users who have liked the g0v Facebook fan page or follow it
+#### As of 2024, the g0v community has marked its 12th year and has achieved the following milestones to date:
+ * 14390+ participants on g0v Slack
+ * 1048 g0v Slack channels
+ * 470852+ g0v Slack messages
+ * Organized 5 g0v Summit international biennial conferences
+ * Held 25 Infrastructure Hackathons
+ * Conducted 65 g0v hackathons
+ * Received a total of 1055 hackathon proposals
+ * 487+ GitHub projects
+ * 145,330+ users who have liked the g0v Facebook fan page or follow it
  <br/>
 :::

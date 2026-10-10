@@ -1,3 +1,7 @@
+---
+tags: hackathon
+---
+
 # g0v第陸拾參次公民科技園遊會黑客松共筆
 - [2024/09/29 09:00 活動資訊 Event Info `行前準備`](https://g0v.hackmd.io/@jothon/HJmFmRKjA)
 - [報名網址 Registration `09/02 正午開始`](http://g0v-jothon.kktix.cc/events/g0v-hackath63n)

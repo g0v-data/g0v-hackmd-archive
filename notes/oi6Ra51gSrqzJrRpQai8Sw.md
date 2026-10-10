@@ -15,7 +15,7 @@ image: https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_525733c0
 - 地點 Place：線上會議室 Online Meeting Room **Jitsi** >>> https://meet.jit.si/g0vhala
 - 本期共筆：https://beta.hackfoldr.org/g0v-hackath63n/
 - 主辦 Organizers：[g0v jothon 零時政府揪松團](https://jothon.g0v.tw/)
-- 主持 Moderator：
+- 主持 Moderator：Peter
 
 ### 關於「松前哈啦」 About Community Hangout
 「松前哈拉」是伴著 g0v 雙月大黑客松，約兩個月舉辦一次的線上會議，在黑客松的前一個晚上，讓想先分享大松提案、或關心 g0v 的社群朋友，有聚焦討論議題的機會。會議內容透過線上會議平台全程直播。
@@ -26,6 +26,11 @@ g0v 零時政府揪松團是 g0v 社群的工作小組之一，負責籌辦 g0v 
 
 
 ### 關於主持人 About Moderator
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e16a154723e64d32365d844f2aecb07c.jpg)
+
+Peter
+三個關鍵字：研究生、vTaiwan、AI
 
 
 ## 聊聊事項 Chatting Topic
@@ -39,16 +44,20 @@ g0v 零時政府揪松團是 g0v 社群的工作小組之一，負責籌辦 g0v 
 - 本次大松專案
 
 - 特別感謝
+    - 這次是由農科院/水保署、繁體中文AI開源實踐計劃、FNF，還有揪松團一起合作籌辦的唷！ 
     - 食物：
-    - 報到：
+    - 報到：Joey
     - 直播錄影：
-    - 攝影：
+    - 攝影：Paul
     - 主持人：
-    - 新手導覽團：
+        - 提案-Ted 顥天
+        - 
+    - 新手導覽團：Amos
 
 
 ## 與會簽到與三個關鍵字 Sign & 3 keywords
-
+- Joey:議題探究、攝影、科技工具研究
+- Afra：客服、自媒體、回鍋找坑
 
 
 ## 本次大松的提案小筆記 Proposal's note for Hackathon

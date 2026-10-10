@@ -1,14 +1,14 @@
 ---
 title: 2-3 Examples of Enhancing Collaboration with Interdisciplinary Groups for Social Good
-tags: jothon, NDI
+tags: jothon, NDI, FNF
 ---
 :::success
 :book: Return to the homepage of the handbook: https://g0v.hackmd.io/@jothon/ctpbook_en
 
-"g0v Civic Tech Project & Community Handbook" is licensed under CC BY-NC.
+"Civic Tech Project & Community Handbook" is licensed under CC BY-NC.
 :::
 
-# 2-3 Examples of Enhancing Collaboration with Interdisciplinary Groups for Social Good｜g0v Civic Tech Project & Community Handbook
+# 2-3 Examples of Enhancing Collaboration with Interdisciplinary Groups for Social Good｜ Civic Tech Project & Community Handbook
 
 ### Chapter 2: Community Partnerships and Network Development
 

@@ -1,19 +1,20 @@
 ---
 title: 2-1 How to  Build a Civic Tech Community?
-tags: jothon, NDI
+tags: jothon, NDI, FNF
 ---
 :::success
 :book: Return to the homepage of the handbook: https://g0v.hackmd.io/@jothon/ctpbook_en
 
-"g0v Civic Tech Project & Community Handbook" is licensed under CC BY-NC.
+" Civic Tech Project & Community Handbook" is licensed under CC BY-NC.
 :::
 
-# 2-1 How to Build a Civic Tech Community?｜g0v Civic Tech Project & Community Handbook
+# 2-1 How to Build a Civic Tech Community?｜Civic Tech Project & Community Handbook
 
 ### Chapter 2: Community Partnerships and Network Development
 
 ## How to  Build a Civic Tech Community?
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_824e9d311289ccc86153dde82596ab46.png)
+![](https://g0v.hackmd.io/_uploads/rJeviD2Qjee.png)
+
 :::info
 Civic Tech is a model that involves the use or creation of technological tools to enhance communication, crowd consensus, and citizen participation. It also includes the use of open data to increase government transparency, parliamentary oversight, and government accountability. Civic Tech takes on various forms, often utilizing online platforms, web services, mobile or desktop apps, browser extensions, physical devices, and more. Its primary focus is on civil society and aims to promote the public interest.
 :::
@@ -70,7 +71,7 @@ Initially, the g0v community primarily used IRC as the main online chatroom. How
 
 B. Real-time Collaborative Documents:
 
-In the early stages, HackPad was used as an online co-editing tool, later transitioning to the more versatile HackMD. Both HackPad and HackMD automatically record the source of each text edit, preserving the contributions of every contributor. HackMD, in addition to sponsoring the g0v community's use, offers the advantage of supporting programming languages, making it user-friendly for engineers and developers.
+In the early stages, Hackpad was used as an online co-editing tool, later transitioning to the more versatile HackMD. Both Hackpad and HackMD automatically record the source of each text edit, preserving the contributions of every contributor. HackMD, in addition to sponsoring the g0v community's use, offers the advantage of supporting programming languages, making it user-friendly for engineers and developers.
 
 C. Code Sharing Platform: g0v GitHub
 
@@ -168,38 +169,25 @@ In addition to financial and networking resources, projects often have physical 
 
 
 ### 2. Transforming Community Experience into Learning Resources and Models
-As civic tech communities and projects mature, the collective intelligence and technical expertise accumulated through open collaboration become valuable assets. This includes project collaboration methodologies, civic tech project experiences and techniques, concepts, and applications of open source and technology trends, and even career paths for civic tech communities or organizations. These experiences and insights should not only just be documented but also considered turned into learning resources and models. This would provide new participants with a solid foundation for easier integration into the civic tech community and projects, and even enable them to initiate projects with clear structures.
+Transforming the experiences of civic tech communities into educational resources and models is a key approach to nurturing future digital citizens. As civic tech communities and projects evolve, the knowledge and skills accumulated, such as principles and frameworks for project collaboration, civic tech project experiences and techniques, the concepts and applications of open-source and tech trends, and career development in the civic tech sector, can all be documented and shared as learning resources for new participants. It will help them quickly engage in communities, contribute to projects, and even start their projects. 
 
-Furthermore, inviting long-term community participants to share their experiences not only enhances the project's visibility but also helps project initiators gain a deeper insight into problems and solutions from different perspectives. Those experiences can be converted into more comprehensible learning resources. Besides, some courses about technology trends can empower long-term participants to learn how to utilize new technologies in existing projects. All courses can be used in collaboration with educational institutions, either as self-directed learning resources or collaborative courses. By doing so, g0v Sch001 hopes to promote digital citizenship from an early age and creates a multi-generational learning community.
+Inviting experienced community participants to create courses based on their experience not only raises the visibility of their projects but also allows participants to refine their skills through teaching. These courses are valuable to new participants and can be incorporated into partnerships with educational institutions as self-directed or formal courses to promote digital citizenship education.
 
-Take the g0v Sch001 project initiated by g0v Jothon as an example. this project transforms the spirit and experience of the civic tech community into digital citizenship learning resources, fostering digital citizens. g0v Sch001 converts the g0v community experiences into two learning models: “Community-Based Learning'' and “Project-Based Learning.” Both learning models encompass four essential learning elements: self-directed learning, collaborative group learning, interdisciplinary learning, and digital action.
+Based on the experience of the g0v community, the transformation of g0v Sch001 follows **four steps:**
 
-g0v Sch001 follows a four-step process to cultivate digital citizens:
-
-### (1) Step One: Transforming Community Experience and Course Creation
-Every year, g0v Sch001 invites g0v community instructors and relevant civic tech organizations to assist in transforming the experiences of civic tech practitioners into digital citizenship courses. These experiences are then organized into open online courses. Course content covers project collaboration methodologies and frameworks, project experiences and techniques, open-source principles, technology trends, civic tech careers, and more. To support project development, long-term g0v contributors are invited as "g0v Mentors" to provide suggestions for problem definition, digital tool usage, resource connections, and more during courses or project incubation competitions.
-
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9257d7c13826bbc91d76e897007adb24.jpg)
-> The menu of g0v Sch001 digital citizenship courses, image by g0v Sch001
+### (1) Step One: Turning Community Experience into Courses
+Senior community participants are invited to turn their experiences into courses. The topics covered include collaboration principles, frameworks, project experiences and techniques, open-source, tech trends (e.g., AI, Web3), career development, and digital citizenship practices. These courses are offered online for people to engage in self-directed learning. 
 
 ### (2) Step Two: Collaboration and Implementation of Digital Citizenship Courses
-Each year, g0v Sch001 collaborates with different high schools and universities to invite g0v contributors to teach courses on g0v project collaboration methodologies and practical applications, sharing civic tech project experiences, and using digital tools. These courses aim to cultivate students’ abilities in project implementation. Additionally, teacher training workshops empower educators to guide students in project-based learning. During the summer vacation, g0v Sch001 hosts the “Sch001 for Source Raising Summer Online Camp,” where participants independently learn from the digital citizenship course videos online. To adapt to technology trends and current events, g0v Sch001 also organizes various digital citizenship lectures and activities periodically.
+The collaboration and implementation of digital citizenship courses focus on three main paths: school partnerships, teacher training, and camps/workshops. Each year, g0v Sch001 creates project-based courses with high schools and universities to meet their needs. The courses contain five stages: beginner basics, themed lessons, project guidance and implementation, mentorship from experienced g0v participants, and project presentations. After students, trainers, and lecturers complete the course together, course plans and resources are made publicly available. Workshops are also offered to train teachers in project-based learning. Lastly, the “Sch001 for Source Raising” summer camp and various digital citizenship events are held through a hybrid learning model to foster engagement between learners and communities while addressing technology trends.
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2dbbaf5d897341251d3736e4d132e8d9.jpg)
-> g0v Sch001 collaborates with Taichung Girls' Senior High School to offer digital citizenship project implementation course, photo by g0v Sch001
+### (3) Nurturing Digital Citizenship Literacy through Interdisciplinary Collaboration
+After completing the courses, students who wish to start a project or learn more may join the g0v community directly. Besides, g0v Sch001 actively works with civic tech communities worldwide, such as Code for Japan, for students to share project experiences and learn from these communities across countries. g0v Sch001 also hosts international dialogues and World Café discussions on digital citizenship education to enhance digital citizenship development and global collaboration.
 
-### (3) Step Three: Cross-Disciplinary Collaboration to Expand Digital Citizenship
-After participating in digital citizenship courses, some students join the g0v community to initiate or join projects. The well-established online collaboration platforms (online communication, collaborative documents) and regularly organized hackathons provide opportunities for students to interact with the community. Besides, g0v Sch001 proactively collaborates with domestic and international civic tech communities, such as SITCON (Student Information Technology Conference), Code for Japan, and others, to provide students with more diverse resources.
+### (4) Step Four: Project Mentorship and Outcome Presentation
+For students who wish to continue working on projects, g0v Sch001 offers support through incubation competitions. Participants receive guidance to focus on relevant issues and explore solutions, with additional support such as award money, project templates, community feedback, and expert evaluations.
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_522ddb13778d8dd56f900a25d7f08c6a.png)
-> The final teams from Civictech Challenge Cup U-22 by Code for Japan presented their projects at the g0v Sch001 2022 Demo Day, image by g0v Sch001
-
-### (4) Step Four: Project Support and Presentation of Results
-After participants gain digital citizenship skills through courses, g0v Sch001 hosts a “Sch001 Project Incubator Competition” to provide students interested in proposing projects with more opportunities and resources. During this process, students are guided to focus on project issues and are assisted in presenting their project demos. Project support resources include guided project templates, community feedback mechanisms, professional evaluations, consultations with g0v contributors, project optimization workshops, monetary awards, and more.
-
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8bb2ebe70006d788024f6004ce8536c0.jpg)
-> The 3rd annual Sch001 Project Incubator Competition, photo by g0v Sch001
-> 
+These **four steps** systematically transform civic tech experiences into lasting educational resources, spreading digital citizenship literacy far and wide while cultivating new forces for community and project participation.
 
 ## Core Principle: Enhancing Community Cohesion and Identity
 ### 1. Express Gratitude to Community Contributors, Cultivating a Positive Atmosphere

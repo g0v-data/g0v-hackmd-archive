@@ -165,7 +165,9 @@ http://ipa.logdown.com/posts/143277-g0v-proposal-tips
 ### [提案模板] 群眾外包導向的提案模板 Crowdsourcing-oriented Project Template
 - 英文版 https://g0v.hackmd.io/7ipCcQRWSuifqjH2SfXy2w?view
 
+### [提案模板] AI 應用提案模板
 
+- https://g0v.hackmd.io/rywMmJtrSNa1w_pmsUJgzw?view
 
 # 如何檢視專案？ 👀
 
@@ -238,8 +240,10 @@ http://ipa.logdown.com/posts/143277-g0v-proposal-tips
     - 互補政府業務，政府有預想透過民間的加值應用
         - 口罩地圖
         - 快篩劑地圖
-- 數位解方策略及工具推薦 / 揉合公民權的公民科技專案策略
-    - https://docs.google.com/spreadsheets/d/1P1sCLPAQP9hUwMFVGzneg9lAIFLoYe_arsmgdUy23FA/edit#gid=0
+
+## 數位解方策略及工具推薦 / 揉合公民權的公民科技專案策略
+
+- https://docs.google.com/spreadsheets/d/1P1sCLPAQP9hUwMFVGzneg9lAIFLoYe_arsmgdUy23FA/edit#gid=0
 
 ## 筆記區
 

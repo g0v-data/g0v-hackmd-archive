@@ -5,6 +5,8 @@ tags: edu, SSR
 # 2024 夏日源力增能營簡介
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f999eb9d93a519375827afd0226bc3ab.png)
 
+**＊本次源力增能營結業式暨提案工作坊改動時間到 8/31喔！**
+
 ## ▍報名連結
 ### https://g0v-jothon.kktix.cc/events/sch001ssr2024
 確認報名之後，主辦單位將於各場次活動前，寄送活動相關資訊至您的信箱。
@@ -42,7 +44,7 @@ tags: edu, SSR
 |7/6-8/24|[數位公民課程](https://g0v.hackmd.io/@jothon/Sch001courses)|[線上] 課程影片|70+堂 數位線上公民課，含專案經驗、技術、AI、Web3、自學方法等
 |7/16、7/30|g0v 放輕松小聚|臺北市中正區 NPO HUB TAIPEI|雙周一次的 g0v 社群小聚，可以帶著想要討論的議題前來一起討論、共學！
 |7/20|第 62 次 g0v 黑客松|臺北市南港區中研院資訊所|g0v 百人大黑客松協作場域，歡迎前來認識來自不同領域的人、事、專案，主辦單位將提供 10 張源力票保留名額
-|8/24 下午|結業式 x 提案工作坊|臺北市中正區 NPO HUB TAIPEI|可以帶著構想來、或是來認識怎麼提案
+|8/31 下午|結業式 x 提案工作坊|臺北市中正區 NPO HUB TAIPEI|可以帶著構想來、或是來認識怎麼提案
 |不定期|g0v 小松/專案共工會議|臺北市中正區 NPO HUB TAIPEI|營隊期間若有 g0v 小松/專案共工會議，會再轉知資訊，歡迎一起參與專案 Hacking！
 
 :::success

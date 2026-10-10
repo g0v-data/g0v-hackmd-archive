@@ -1,14 +1,122 @@
 ---
 tags: cofacts, meeting note, home
 GA: UA-98468513-3
+hackmd-id: x232chPbTfGgNL_Q0f47rQ
 ---
 
 # Cofacts 會議記錄
 
-- [搜尋](https://cse.google.com/cse?cx=71f4f7ee215d54fe6)[target=_blank]
+- [當週議程與紀錄](https://hackmd.io/@cofacts/meeting)
+- [所有會議記錄](https://github.com/cofacts/kb/blob/main/src/meetings/README.md)[target=_blank]
 
-## 2024
-- [20240729 會議記錄](/8I-tSMW1RqO-kx27L9ABGA)
+## 2026 (封存)
+- [20260616 會議記錄](/yYS1BfG0Sg6KMih6YH_OZA)
+- [<i>0609</i> GCE Migration, Kaggle, url-resolver 優化, COSCUP 籌備, 小聚檢討, AI 影音處理與 sourcing 優化, Production 環境週報](/YF4cpCN2Q5W4llrFZoAf5A)
+- [<i>0602</i> GCE 搬遷觀察、cofacts.ai 週會回顧、url-resolver 測試、逐字稿修復、小聚籌辦、系統狀態報告。](/dNW_IrzGRgut_BCYbTjwUw)
+- [Cofacts Hackath73n 協作頁面](https://g0v.hackmd.io/hNNxb6m5Qy6as18Dt9AXdw)
+- [<i>0526</i> cofacts.ai開發、小聚籌備、數發部網路爬蟲會議、大松、g0v summit檢討](/DZnVOY9JStmCn8_4D5UT2Q)
+- [<i>0522</i> cofacts.ai 開發與回饋、MCP 伺服器、g0v summit 擺攤、六月小聚、圖片逐字稿修復、主機 Swap 監控](/E7xFvbH4RESQEYjHbqo4qw)
+- [<i>0515</i> GCE雲端遷移、cofacts.ai混合搜尋與引用問題、主機維運與資安事件、g0v summit擺攤、伺服器週報](/7iCXPnuRRDKhQKtQoVa1nw)
+- [<i>0505</i> GCE 搬家觀察、cofacts.ai 功能開發、小聚籌辦、Staging 環境費用分析、DDoS 攻擊調查](/4kQ9ihNOQfmtYvGcBkrKJg)
+- [<i>0428</i> RightsCon 擺攤籌備、cofacts.ai 使用者體驗、rumors-api 驗證流程、Elasticsearch 效能優化、AI 爬蟲與伺服器負載、/graphql botnet 攻擊、production 週報、Discord 管理](/soYRY1aESxiK5RBa_q9CWQ)
+- [<i>0421</i> GCE Migration追蹤、Cofacts.ai開發、RightsCon與g0v summit籌備、AI爬蟲造成的伺服器負載與成本分析](/-45E5fXgRlO1S75K_iF_Qg)
+- [<i>0414</i> GCE 伺服器觀察、Elasticsearch 升級與備份、查核小聚檢討、Discord spammer、五月開會時間。](/NEQ5y06fT7GI8Jz0ehbVNQ)
+- [<i>0407</i> GCE 搬遷檢討、Elasticsearch 升級檢討、Cofacts.ai 開發進度、小聚 rundown、verify1st API 串接](/hE2gBMkYSyOEbrzoGsEqvg)
+- [<i>0331</i> GCE 主機遷移、Elasticsearch 升級、Cofacts.ai 開發、小聚籌備](/l8M4YFQyRLCnnc68gQ9umA)
+- [<i>0324</i> Cofacts.ai開發、GCE主機遷移、小聚籌備](/nWRJt6iQRkKKPam3Rudrjg)
+- [<i>0317</i> Cofacts.ai 開發、Elasticsearch 9.2 升級、主機遷移 GCE 評估、小聚籌備](/FlWPjqDHTLiMdp5smCAcBg)
+- [<i>0310</i> Facebook推廣、伺服器健康檢查、AI逐字稿模型更新、Cofacts.ai 開發項目、設計審查、Elasticsearch 9.2 遷移計畫](/5TKMYonXRNuz1KIbfRpAmw)
+- [<i>0305</i> Opendata、伺服器無回應事件分析、Transcript model 更新、nDX 專案進度](/G-_WQp6RR8u3ue9tFFrswA)
+- [<i>0210</i> 小聚檢討、伺服器記憶體、資料庫遷移、nDX專案籌備](/9GM5lSjATvuO_TUeE6zLlg)
+- [<i>0204</i> 伺服器記憶體問題、AI agent 開發討論、服務不健康警報、Langfuse 設定、小聚籌備、nDX 專案、DB Migration 進度、MG 演講](/zlcnHvh8R3uwxkGRAseHnw)
+- [<i>0127</i> url-resolver 搬遷、小聚籌備、OCR 與 Gemini 模型更新、韌性 Meshtastic 測試](/-QQtTF_rR56xU5j4c6kxjQ)
+- [<i>0120</i> 伺服器記憶體問題、OCR功能修復、AI逐字稿功能、小聚籌備、韌性、大松](/gb7Vo2MRR3WYougk7wfE2Q)
+- [<i>0113</i> Devops manual、小聚籌備、url-resolver 記憶體問題](/v00YGfnPQb6rVcdlDI2oGw)
+- [<i>0106</i> Cloud logging、服務中斷事件、Devops manual 規劃](/BWdbczy5SwuMbA5ZNRK9bg)
+
+## 2025 (封存)
+- [<i>1229</i> Hosted Elasticsearch 試用、GCP費用監控、伺服器穩定度、2025回顧、2026規劃](/JMdtEuZiQTKAQFTNW6vtkg)
+- [<i>1223</i> Elasticsearch 遷移、GCP 成本、GraphQL 異常流量、服務穩定性、期末感恩茶會、Gemini 3 Flash 實驗](/DXnjl1RTRb6Ot4C4H5HWUg)
+- [<i>1216</i> Site 套件更新與 bug 修復、Elasticsearch 遷移進度、GCP 費用與錯誤率監控、PR review](/YKkJkDJVS9OiI2VwWeKMKA)
+- [<i>1209</i> Cloudflare健康檢查設定、人權市集與小聚回顧、Cloud cost分析、Elasticsearch遷移、社創實習期末報告](/J8vWYqIzRn687khHpPLQvw)
+- [<i>1202</i> Site fix on staging, Code for Japan summit, Cloudflare healthcheck alert, 小聚 rundown, 人權市集](/mknPw-TXQw-796TNXFHfOQ)
+- [<i>1125</i> Staging review、移除讚倒讚功能、大松檢討、12/07小聚籌備、ES v9 reindex 研究、網站服務中斷](/2O_oU54uTl-dbJn32BJTzQ)
+- [Cofacts Hackath70n 協作頁面](https://g0v.hackmd.io/YfGHcY92TtWEC_dXCN6QhQ)
+- [<i>1118</i> 大松籌備、明日音專場演唱會、人權市集、小聚籌備](/dXPNadZ-R_GyarLUJMsTDg)
+- [<i>1111</i> Cloudflare workflow 技術細節、url-resolver 與分類器實作路徑、1123 大松、1206 人權市集](/u6zvMrTrSGmZBdwZwgqA3g)
+- [<i>1104</i> ArticleReplyFeedback收回、Cloud Run cost tracking、新URL resolver 方向、ElasticSearch v9 討論、人權日擺攤、大松報名](/BgM7l_OlT26owxffLCifow)
+- [<i>1028</i> Github Activities 討論、小聚檢討](/MnR1pheTQ2GX_a6meMJk2g)
+- [<i>1021</i> Cloud Run 狀況、Langfuse 升級、詐騙訊息處理、URL resolver 重構、Production 降載、小聚 rundown](/vxsINTGRSymJfoauf9fReg)
+- [<i>1014</i> Downtime 原因分析、網站上 Cloud Run、下架文章、小聚籌備](/Mb5skcqsTuaSaVK-FJub-g)
+- [<i>1007</i> Cloudflare Alert 與網站 downtime、小聚籌備](/9knmO9voQPaY40vCVDgXhg)
+- [<i>0930</i> DevOps手冊、十月小聚、Downtime、Takedown、RightsCon](/7aAhrPosRa-RZLY5fI1dFA)
+- [<i>0916</i> 10月小聚場地、url-resolver downtime、Vertex AI 連接、env file 分離、法律信件](/ugEF1rEBQw-4IwPWjPcTtA)
+- [<i>0908</i> 服務不穩定問題、混合式URL resolver、devops-manual、面海松與小聚籌備](/UhRDo_R7QOC16fWgZIdlzA)
+- [<i>0901</i> url-resolver設計、服務自動重啟、API domain管理、備援機制、逐字稿 Gemini 升級、MrOrz分享](/Bmvp4muVR6SYDVNxcBooZw)
+- [<i>0826</i> rumors-deploy重啟策略、url-resolver與Gemini比較實驗、URL摘要混合策略、Gemini影片摘要整合、開會時間](/d2WOllsZQkOBexrslHRv9Q)
+- [<i>0819</i> 小聚檢討、服務不穩與 url-resolver 記憶體問題、重複的系統警告、新功能請求](/rxZ5aIzXRSWy9SEj_OLhLA)
+- [<i>0812</i> 待追蹤項目更新、url-resolver、小聚檢討與籌備](/4jwfLugMTDmGb1c1urBMTg)
+- [<i>0805</i> Release pipeline、Takedown repo、DDoS攻擊、小聚籌備、Gather Town 停用](/IDlOnke0RFWsCxHPvW7ydw)
+- [<i>0729</i> Editor UX Release、url-resolver穩定性問題、Cofacts.ai規劃、小聚籌備](/BN6hyW6KQsq5_drG5zhxzg)
+- [<i>0722</i> IT Matters獎報名、joyharvest回信、url-resolver重構、Github PRs、LLM主題分類器、下次會議](/3H4jGMQLSfi3ZfDEXk4J8Q)
+- [<i>0714</i> Release pipeline、大松檢討、小聚籌備、IT Matters獎項、joyharvest來信處理](/T6zxtvUeRQWufTGQPlapJQ)
+- [Cofacts Hackath68n 協作頁面](/v6aiqkJjTKSzydDWTURDXw)
+- [<i>0707</i> 倒站、URL Resolver 重構、Claude Code Action、beta-ai 更名、大松籌備](/gxKkikZbQ_WMa1LOwg4DXA)
+- [<i>0630</i> Release Pipeline、CCPRIP (worker repo & cofacts.ai)](/HtWYhnHQSum0DlgLTnKO2g)
+- [<i>0623</i> 小聚籌備、感恩茶會場地、Release、CCPRIP (Analytics, AI 逐字稿與 Chatbot, LLM 分類器, Takedown)、大松籌備](/h4OinwSDT5eaHANQTQYOLw)
+- [<i>0616</i> Open165 重構測試、CCPRIP Takedowns、小聚檢討與未來規劃](/9IEjq11XSwCyES_VFn8JEg)
+- [<i>0609</i> Open165重構、資訊安全、小聚 rundown、Langfuse更新](/Ut3zOFniT5-vuaeo6YGjfA)
+- [<i>0604</i> 謠言惑眾獎結案、資安-個人帳號、takedown、小聚籌備](/iAPTgdu4RaGoFdaFPSCpEQ)
+- [<i>0526</i> 謠言惑眾獎、大松檢討、beta.cofacts.ai staging 環境、Open165 重構、小聚籌備](/VEyqK7nJSmyDIx7wNgvfnQ)
+- [Cofacts Hackath67n 協作頁面](/@mrorz/ry8K7jdblg)
+- [<i>0519</i> 謠言惑眾獎、詐騙訊息討論、快門手反詐騙查詢、大松籌備、小聚籌備](/F0rW40_lRUKbz4VmF4mX-Q)
+- [<i>0512</i> 自動下架功能、Badge API 與 UI 增強、Cofacts.ai 新提案、API 流量管理、Langfuse 錯誤排除、Gemini 升級](/4gx_3uFUTHSYB853Fcgmlg)
+- [<i>0505</i> Release pipeline 更新 (Badge, takedowns PR)、CCPRIP 自動下架邏輯調整、Downtime 分析 (Elasticsearch, 攻擊事件)、Langfuse Clickhouse 升級與設定、Open165 urlscan.io 整合與架構、大松籌備](/pk0szdZYSkWmSCjz865Ldg)
+- [<i>0428</i> 回覆搜尋忽略已刪除回覆 (Prod)、顯示徽章 (Staging)、行動版頭像右側空間問題、CCPRIP 自動下架功能問題、攻擊事件分析、Langfuse Clickhouse 升級](/_eImng5vT5GD14W_iV72CQ)
+- [<i>0421</i> Release pipeline更新、CCPRIP自動下架問題、Downtime分析、Langfuse Clickhouse追蹤、謠言惑眾獎轉貼、小聚檢討與場地細節、LLM transcript模型比較](/loOxvvWRTTSiKMF1xl7UqA)
+- [<i>0417</i> Release pipeline staging測試、CCPRIP自動下架moderation文件、Langfuse更新與錯誤檢查、Deep Research案例分享、謠言惑眾獎後續、小聚rundown、HackMD權限問題](/-GmgAfesTB6n1pxGvWQvWA)
+- [<i>0407</i> Release pipeline審核項目、Badge功能、CCPRIP自動下架進度、Langfuse更新、謠言惑眾獎宣傳、Deep Research案例分享、小聚籌備](/SRVhEtOTQf-mQSV7CVstkw)
+- [<i>0331</i> Badge功能更新、CCPRIP自動下架與LLM費用、Langfuse Clickhouse問題與設定調整、Deep research案例分享與進階課程規劃、謠言惑眾獎宣傳、大松檢討與LLM改寫回應討論](/bSjbJYMeRoSKy3f8W4TSDw)
+- [Cofacts Hackath66n 協作頁面](/V0VdLYytThuXr2A6nEgaYg)
+- [<i>0324</i> Release pipeline更新、Langfuse Clickhouse穩定性問題與處理、CCPRIP自動下架進度與LLM transcript探索、大松準備、小聚籌備、Analytics問題、MAFINDO團隊資訊](/4SX3y9xuQuGrbE0QRm-3fA)
+- [<i>0317</i> API bug修復、影片轉錄實驗、CCPRIP自動下架功能、Langfuse設定、MyGoPen連結問題、小聚籌備](/vplohTE0RoqMuV6y2JFhnA)
+- [<i>0310</i> LLM轉錄追蹤、Langfuse空間問題、Spam移除更新、SITCON學生計算機年會擺攤檢討、大松籌備](/AvpmwuvvSGaWgHLf3sITdg)
+- [<i>0303</i> LLM影片轉錄測試、Gemini模型比較、RightsCon活動檢討、文宣更新、大松籌備](/3WGAMK9hRQ2pPQE-0x_vOQ)
+- [<i>0224</i> RightsCon擺攤準備、LLM轉錄功能修復、Cloudflare相關問題、攤位材料準備](/10oQ0SXwToG7xu_YxJ37wg)
+- [Cofacts Hackath65n 協作頁面](/htq1g_woQ9mD7Oya1QNBGw)
+- [<i>0219</i> LINE長回應處理測試、大松準備、CCPRIP自動垃圾移除、RightsCon擺攤準備、場地資訊](/qL-wd2bNSzGyKNLhb0dTaA)
+- [<i>0210</i> Release, AI transcript TODO, communication, AI feedback analysis, RightsCon & Satelite events](/BsnOA5ahTBW5Yaub1dYmhA)
+- [<i>0203</i> Release, spam removal, AI transcript, AI reply analysis, Comm, RightsCon & Satelite events](/KBowSCYBR4aCWcSK-Q1k-w)
+- [<i>0127</i> Release, RightsCon & Satelite events](/X92JNs1USOC9ylqnN02EBw)
+- [<i>0120</i> Release, Badge API, 來信, RightsCon & Satelite events, Open165, NPO Hub 辦公室使用](/jkknRKrIRIKkI7V20EogTg)
+- [<i>0113</i> RightsCon & Satelite Events, Hackmd 訪談, automated spam removal](/Bhh3mLlNSS-pVQb35KWh0g)
+- [<i>0106</i> Release, 小聚檢討, 黑魔法防禦松, 來信處理, RightsCon preparation](/r4Ml_cC4Q8a3_hWQntaVNQ)
+- [<i>0102</i> Release, Badge, spam removal information, 黑魔法防禦松, 來信處理, 小聚 rundown, Rightscon preparation](/RWUvX_48TGKgJh7M_BPlKQ)
+
+## 2024 (封存)
+- [<i>1223</i> Release, Automated spam removal false positives, 小聚籌備, 12 月開會](/vtVRnJdBRTeyX9stIEQqPQ)
+- [<i>1216</i> Release, Automated spam removal, 小聚籌備, 12月開會](/x3iNmflkSeSA1_AbfTjAiA)
+- [<i>1209</i> Release, Automated spam removal, 小聚籌備, 12月開會](/JBzxtPVYTbattxTcYTVRgA)
+- [<i>1202</i> Release, Badge schema, 可疑檢舉使用者, automated spam removal, 小聚籌備](/5-jQ-pWnT4iOEOos9t7Cyw)
+- [<i>1125</i> Release, 大松檢討, Automated spam removal gemini few-shot test, downtime, DDoS 帳單攻擊預防, 檢舉怪象, Langfuse design doc, 小聚籌備](/Jqg-lecyRhKtFDnbxnx_ZA)
+- [Cofacts / Open165 hackath64n 協作頁面](/XSpjp40-QEGVAPeTrvxZeQ)
+- [<i>1118</i> Release, badge system design review, automatic spam removal, Langfuse, 小聚籌備](/GxzR0adaS8uNuaP7Vq7pfA)
+- [<i>1111</i> Release, Admin API proposal, auto spam removal, 修改重發 proposal, 文宣 or 印刷品](/_e0nyj04SoCzxdM38CzuYQ)
+- [<i>1104</i> Release, 虛擬機器與統編, badge 功能 pubsub, langfuse proposal](/Pq1xffBaQW69lGyrp7JFng)
+- [<i>1031</i> Release, 小聚檢討, Open165 issue, Badge 功能, Automatic spam removal, Langfuse](/FRecC3VUS7aGtUxUDglRxQ)
+- [<i>1021</i> Release, DoS Patterns, 小聚 rundown](/gSdjW2taRIWsT5EvMV6iPw)
+- [<i>1007</i> Release, Cloudflare rules by Alex, Takedowns, 小聚籌備, 10 月開會, honeypot 討論](/8xZ5QdTqSDO9pKqmRwWMVw)
+- [<i>0930</i> Release, Cloudflare 設定, Open165, 小聚籌備, 10 月開會](/i1XNmK5_ShuBrkf3KHabcQ)
+- [Cofacts / Open165 hackath63n 協作頁面](/7UzK_kfzRWOcmJrXc7bxfA)
+- [<i>0923</i> Release, Open165 with worker, 社群, 小聚活動與 oen 使用](/yV0cJFs4R4iQ--83MR7HEQ)
+- [<i>0916</i> Release, Cooccurrence debug, CCPRIP logging & observability, 開源祭, Open165, 交流](/UHKMm7h_QIe5EB4Z0cGQ3g)
+- [<i>0909</i> Release, 檢舉處理, 實習, 大松籌備, 開源祭籌備, 社群](/ksMifVOaTLCzI6QNw6Q-9A)
+- [<i>0902</i> Release, Wayback Machine API, Open165 license, GAI tutorial](/IrRBabPXQBOVQTjSNlIdwg)
+- [<i>0826</i> Release, 活動, Open165 design 與改名, CCPRIP, 檢舉處理](/XouQwVKZSRyGlVpivLSmBA)
+- [<i>0821</i> Release, FtO 2024 - Cofact Thailand, Code for Japan BirdXplorer, Parti KFC](/bYvysQMGQPexpuAdcQamEQ)
+- [<i>0812</i> Release, Open165 design, internet archive wayback machine 存檔](/tnGo9lbFRNK7fos9zpEG_Q)
+- [<i>0805</i> Release, 小聚檢討, open165 名稱, coscup design workshop 成果](/S_AfXguGQiqIdpkeUJufrQ)
+- [<i>0729</i> Release, 小聚rundown, coscup, open165, 八月開會時間](/8I-tSMW1RqO-kx27L9ABGA)
 - [<i>0722</i> Open165, Release, Cofacts API schema bug, 大松檢討, 小聚籌備, coscup](/hdXUZHN2TaedLWDJON_U9A)
 - [Cofacts / Open165 hackath62n 協作頁面](/roo-89pnR6iouhm-xgLL3A)
 - [<i>0715</i> 垃圾訊息反制, 小聚籌備, 大松籌備, talks, COSCUP](/8arYsE5dQuu6Io82CVVSZg)
@@ -43,7 +151,7 @@ GA: UA-98468513-3
 - [Cofacts hackath60n 協作頁面<span class="label">大松</span>](https://g0v.hackmd.io/TnZpbsAeT1GGPcTStcl8Kw?view)
 - [<i>0103</i> release, cooccurrence, google 非營利申請, 大松籌備](/Oc68Wf3yRIm5UC7IeN6Pcg)
 
-## 2023
+## 2023 (封存)
 - [<i>1228</i> transcript spam 問題, cooccurrence PR, bridge 進度, checkmate.sg 結果, hypercert 結案, 胸針進度, 選務謠言筆記, 實科協會資訊, 放大視野 follow0up](/vKCvrqSQTlm7GEx9MAXGaw)
 - [<i>1220</i> Release, Cooccurrence, bridge, 發新聞稿經驗, checkmate.sg, hypercert 收尾, 胸針設計稿, 實科協會進度, TODO, OCF 資安陪伴計畫](/kxGE_l7XT4ePTO1ljmtNkQ)
 - [<i>1213</i> 大松檢討, fun大視野成發, follow-ups, 選務謠言筆記, hypercerts 結果, 實科協會進度](/0Ta4gitcTJCY2Lnwll0qrw)
@@ -102,7 +210,7 @@ GA: UA-98468513-3
 - [<i>0111</i> 小聚 rundown, Discord 治理, Transcript task breakdown, GA4, anti-seo spam, 坑主小聚, 色情 mitigation](/vfsdHNS2R0-XhYyy2Lphbw)
 - [<i>0104</i> Release, 一月小聚, 檢舉回應, builder 改版, CCPRIP, Site enhancement, GA4 support, 訂閱功能](/OVi9dcfGTSusdskezsphFA)
 
-## 2022
+## 2022 (封存)
 - [<i>1228</i> 一月小聚, 傳單校稿, TODO, 色情圖片](/6c3CpKXhQwOtFX8kf31ePA)
 - [<i>1221</i> 檢舉處理, 一月小聚, 數位外交協會, 放大視野](/yQkG7XW7TXaB4pdjU5s3dg)
 - [<i>1214</i> Release, Anti-seo spam, 來信, 檢舉處理, 一月小聚, Vision future 放大視野, 二月邀約](/qWt5V0kYSJCyJxO8epITnw)
@@ -157,7 +265,7 @@ GA: UA-98468513-3
 - [<i>0112</i> Release, 小聚檢討, TODO 排序, 提醒使用者刪除個資](/SETMQ8DaQDu3a5ZYnrvfpA)
 - [<i>0105</i> Release, 小聚rundown, 詐騙型態介紹文, 商標申請狀態, multimedia support 進度](/RtKFTKRFRduJK0gz3St3lQ)
 
-## 2021
+## 2021 (封存)
 - [<i>1229</i> 小聚籌備, 廣告處理, block user 延伸舉報機制, 貼文公開詐騙話術, Search snippet 修改, 探索 Open chat](/Syl8le5xS22nLo8Vc56gmw)
 - [<i>1222</i> Release, 小聚籌備, block user, 協會整理](/O0pXnRocRuKoJwdC1_9wmA)
 - [<i>1215</i> Release, 大松檢討, 小聚籌備, 公投回應狀況, 二次詐騙使用者上線狀況, AI 現況, 新分類：求生](/WEqAcqHwRAeiQywjdOu1Jw)
@@ -217,7 +325,7 @@ GA: UA-98468513-3
 - [<i>0113</i> Pilot stidy 2 人 result、Downstream bot 2020 data、小聚、翻譯、海報、形象影片、Release](/XvP4q3IkTwCDeT1zopaTQg)
 - [<i>0106</i> 一月計畫、二月小聚、downstream bot follow-up、LIFF share dialog & share 卡片 proposal、release](/0RX4MsjRRJmBqJSKVilWMA)
 
-## 2020
+## 2020 (封存)
 - [<i>1230</i> 開放授權變更 - 整理提問, website jumbotron, URL slug limit, SEO](/SfPmNj0aRAaQrkQ_Cx1KLQ)
 - [<i>1223</i> 開放授權變更, yegogo honeypot, 群組功能討論, release](/f0V7J5ceTS-1vnKh0RwILw)
 - [<i>1216</i> 開放授權變更, Dialogflow review, TWB, AI4SG, release](/uJKukwUkSYy_FYI17SsYew)
@@ -276,7 +384,7 @@ GA: UA-98468513-3
 - [<i>0108</i> RSS討論、網站perf討論、系統TODO、server-served LIFF、Takedown討論、選舉期使用率下降探討、二月小聚](/@mrorz/HJt2rymxL)
 - [<i>0101</i> Rollbar bugs開票、token自動更新、二月小聚](/@mrorz/rkHAFzKJL)
 
-## 2019
+## 2019 (封存)
 - [<i>1225</i> stackimpact、server重開設定、TODO、token 自動更新](/@mrorz/B1XErJZyL)
 - [<i>1218</i> 聖誕節、面海松、rumors-site PR 與 TODO、網站performance、OCR、Newsgeist 2020](/@mrorz/SJ8GSNv0B)
 - [面海松 FtO Hackathon Collaboration Homepage <span class="label">大松</span>](/@mrorz/HkvX_cP0S)
@@ -330,7 +438,7 @@ GA: UA-98468513-3
 - [<i>0109</i> 歡迎範例、API 回應排序、網頁資訊流、Wording 檢討、資料庫膨脹、小聚、國家圖書館](/s/B1X3aNfzE)
 - [<i>0102</i> LIFF reason review, sorting, 編輯個人頁面細節, 2/16 小聚](/s/SyN-sb8b4)
 
-## 2018
+## 2018 (封存)
 
 - [<i>1226</i> 新功能:LIFF, 編輯組織；討論：開會時間、編輯、美玉、Dev items](/s/rJNFo1xWN)
 - [<i>1219</i> puppeteer 斷線後續、LIFF 驗證、愛家解惑 URL 處理、開會時間修改、RightsCon proposal、86](/s/rJjEBUPg4)
@@ -385,7 +493,7 @@ GA: UA-98468513-3
 - [<i>0113</i> g0v-hackath28n 大松協作首頁 <span class="label">大松</span>](https://hackmd.io/s/rJOTedf4M)
 - [<i>0110</i> 大松分工、傳送理由、mappings refactor](https://hackmd.io/s/HJEGZfmVM)
 
-##  2017
+##  2017 (封存)
 - [<i>1227</i> 整理債務 (?)](https://hackmd.io/s/HkJUdb-7G)
 - [<i>1220</i> FB 提議討論](https://hackmd.io/s/rJdVIeuGG)
 - [<i>1213</i> 小聚檢討、懶人包佈達、法國、FB discussion](https://docs.google.com/document/d/e/2PACX-1vQTgQtH5W-Co4UX--1bV8CBRbklr_kSYppCIlLpJ0W3x0BnPET0zJN50lx0P_MyyK-KHVCYuO2RkWyG/pub)

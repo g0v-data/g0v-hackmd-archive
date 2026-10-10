@@ -37,3 +37,22 @@ description: 「g0v 社群每月九分鐘」是 g0v 揪松團發起的分享文�
 ---
 
 ## [g0v 專案百花齊放專區] 歡迎專案自由分享本月份訊息
+
+### 12/22 g0v 國會松
+
+12/22 週六下午，g0v 國會松，地點在臺北市 NPOHub 聚落
+https://g0vcongressthon.oen.tw/events/2pzDIxnrNncfXHqo9dkZ6VOu65s
+
+### Jothon
+
+- 建立大松小松活動訊息彙整更新頁面
+    - https://g0v.hackmd.io/@jothon/event
+- 揪松團辦公室整理近況：https://photos.app.goo.gl/r2TxXpu2CTDmGDus7
+    - 可分享物資：
+        - 口罩
+        - 束口袋
+        - 頸繩_紅色
+        - 頸繩_黑色
+
+
+

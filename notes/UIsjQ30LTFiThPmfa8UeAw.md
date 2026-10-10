@@ -7,11 +7,29 @@ tags: jothon
 ## 常用網址
 
 :::info
-- 會議室借用規則：https://g0v.hackmd.io/BNHyH7ESSxSlu12BV2U9TQ
-- 會議室申請表單：https://forms.gle/ohrqWGMhTWPCGuLr6
+g0v 台北社群空間
+- 借用規則：https://g0v.hackmd.io/BNHyH7ESSxSlu12BV2U9TQ
+- 申請表單：https://forms.gle/ohrqWGMhTWPCGuLr6
+- 場地概況與照片：https://photos.app.goo.gl/FM1QAXe9q71qXVvh9
 :::
 
+場地影片：https://photos.app.goo.gl/bWPggzyyLnHLR7kn9
+
+![](https://g0v.hackmd.io/_uploads/SJxk57Ym-xx.jpg)
+![](https://g0v.hackmd.io/_uploads/Syblc7Y7Zge.jpg)
+![](https://g0v.hackmd.io/_uploads/BkxecXK7Zgg.jpg)
+
+
+
+
 ## 活動舉辦前
+
+**必須充分瞭解 g0v 社群行為守則**
+- **申請場地舉辦社群活動，代表您同意遵守 g0v 社群行為守則。g0v 社群活動致力於提供一個無騷擾的環境給每一位參與者，無論其性別、年紀、性傾向、身心理狀態、外貌、種族或信仰。我們絕不容忍任何人對會議參與者任何形式的騷擾。**
+- **請您詳細閱讀：g0v 社群行為守則 https://g0v.tw/coc/**
+
+
+場地介紹
 - [g0v jothon @ NPO Hub 簡介](https://g0v.hackmd.io/UIsjQ30LTFiThPmfa8UeAw)
 - [空間借用規則](https://g0v.hackmd.io/BNHyH7ESSxSlu12BV2U9TQ)
 - [空間借用表單](https://forms.gle/ohrqWGMhTWPCGuLr6)[target=_blank]
@@ -31,6 +49,11 @@ tags: jothon
 - 請注意照片不應有洩漏個資，例如簽到單、洩漏個資的螢幕畫面
 :::
 
+
+## NPOHub 附近的餐飲店推薦清單
+
+https://g0v.hackmd.io/@tofus/S1XacJxzA
+
 ---
 
 ## g0v 揪松團 簡介
@@ -39,15 +62,17 @@ g0v 零時政府揪松團（g0v jothon）是主辦 g0v 百人大黑客松與基�
 
 g0v 揪松團於 2019 年 9 月開始，在 NPO Hub 有自己的辦公空間，每月提供 20 小時的會議室額度給開放社群申請使用，我們歡迎大家到這個空間舉辦與自由／開放文化（自由軟體、自由內容、開放資料、開放內容……）的相關活動。
 
+https://linktr.ee/g0vjothon
+
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f385fa374246ffdd64344c60aeb3042b.png)
 
 
 
 ## NPO Hub 簡介
 
-2016年，為呼應公民團體對於台北市內辦公空間的訴求，北市府開始尋覓市府的閒置資產，爾後在眾多資產中找到了這一棟位於市中心荒廢已久的原北一女教師眷舍。2017年在許多夥伴的號召與市府的內部協調之下，北一女中將此棟大樓正式撥交給了台北市政府社會局，作為未來非營利組織的辦公空間使用。
+2016 年，為呼應公民團體對於台北市內辦公空間的訴求，北市府開始尋覓市府的閒置資產，爾後在眾多資產中找到了這一棟位於市中心荒廢已久的原北一女教師眷舍。2017 年在許多夥伴的號召與市府的內部協調之下，北一女中將此棟大樓正式撥交給了台北市政府社會局，作為未來非營利組織的辦公空間使用。
 
-經歷2018年的整修，2019年的內部裝修與招商，台北NPO聚落現在已經有了17組團隊進駐，非營利組織或社會創新團隊能在此交流、激盪。同時，也提供數個會議室與中小型多功能活動空間、休憩區、共享廚房等。
+經歷 2018 年的整修，2019 年的內部裝修與招商，台北 NPO 聚落現在已經有了眾多團隊進駐，非營利組織或社會創新團隊能在此交流、激盪。同時，也提供數個會議室與中小型多功能活動空間、休憩區、共享廚房等。
 
 NPO Hub https://www.npohub.taipei/
 

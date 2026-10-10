@@ -1,4 +1,8 @@
-# 灣區圖書館臺灣書籍植入計畫
+---
+tags: book
+---
+
+# 書本任意門
 
 :::info
 # 專案簡介
@@ -45,13 +49,26 @@
 - 提供圖書館購書建議的自動填入機器人
 
 
-## 現有類似專案
+## 類似專案
 
-- 燦爛時光．東南亞主題書店
-- 小書蟲親子圖書館
-- Little Free Library: Take a Book. Share a Book.[](https://littlefreelibrary.org/)
-- 明尼蘇達州的台灣線上圖書館可參考:https://tolib.org/libdata/tolib/html/about/about_zh_TW/about.html
+### 閱讀空間經營
+- 小書蟲親子圖書館：https://www.thejoyculturefoundation.org/zh/general-clean
+    - 小書蟲親子圖書館是適合六個月到十二歲小朋友的中文兒童圖書館。只要申請會員，您和家人便可以使用我們的圖書及視聽資料。在館中，我們也有提供親子遊樂區及中文教學的才藝班，讓小朋友除書本外，有不同的方式接觸更多的中文。
 
+### 群眾運書 / 漂書網絡
+- 台灣「燦爛時光」東南亞主題書店：「寄一本你才看得懂的書給你」計畫
+    - 燦爛時光．東南亞主題書店：https://btbs.tw/
+- Little Free Library: Take a Book. Share a Book.
+    - https://littlefreelibrary.org/
+
+### 電子書資源
+- 明尼蘇達州的台灣線上圖書館：https://tolib.org/libdata/tolib/html/about/about_zh_TW/about.html
+- 文化部「關於擴大電子書計次借閱」網站
+    - https://ebook.moc.gov.tw/category/readers/
+- [開源] 台灣電子書搜尋，一次搜齊 9 間台灣線上書店，有 GitHub 以及貢獻者名單 ~ 
+    - https://taiwan-ebook-lover.github.io/
+
+### 討論區
 
 Jess: 圖書館的Curators的角色很重要，是他們在決定哪些書要留下來。
 
@@ -103,6 +120,7 @@ CC-BY
 
 ## 路人想法
 1. 有把電子書納入考慮嗎？
+    - 陸續於「類似專案」段落，蒐集電子書資源
 
 ## 利益揭露
 
@@ -122,8 +140,8 @@ CC-BY
 
 
 # Channel
-Slack
-#taiwanbooks
+g0v Slack 頻道 #taiwanbooks
+加入方式教學：https://g0v.hackmd.io/@jothon/joing0vslack
 
 
 ----------
@@ -141,3 +159,61 @@ Theresa Campos
 Santa Clara Library, Adult Services Coodinator
 tcampos@santaclara.gov 408-6152901
 sclibrary.org
+
+
+
+
+# 2024/11/17 討論
+- Po-nan：
+    - 請 single family house 的灣區台灣人在門前設置繁體中文書箱
+    - 只要把ISBN打進去就可以自動帶資料
+- Tiffany Chou
+    - 僑教中心的資料庫：改良成網站、加入其他美國圖書館的繁體中文藏書資料（在哪個地方）
+- Dianne 
+    - 台灣的圖書館會調書到不同的分館
+    - 很多人捐書，沒有系統化
+    - 灣區繁體中文
+    - 台灣的圖書館管理的policy
+
+
+todo 
+- 
+
+
+
+# 2025/02/15 討論
+Update：承辦人說必須透過 ky 才能捐QQ
+
+## 2/15 成果
+- [x] 開工作小組 Line Group
+- [x] 取名字：書本任意門！（by.Gemeni）
+- [x] 測試 ChatGPT：AI OCR
+
+todo
+- ky
+- [ ] 開 FB 徵書社團
+- [ ] 02/20 拜訪：
+    - [ ] 問他能不能開一個櫃給我們
+    - [ ] 問欄位
+- [ ] 館藏書拍照：AI OCR
+- Yafan 
+    - 回家整理書
+
+
+# 2025/04/19 討論
+
+照的書：
+https://photos.google.com/share/AF1QipOCM8siOC4T1ajeGgn8VmQ4KPNRaMD54EDcSh-2J3uLgLypS5o-UkjWJei_GqCfQA?key=Z3ctMm5vM2h6MnVmVklfd1pkXzVONTJVUmtuOTdR
+
+
+1. 灣區圖書館佔領運動：FB、IG
+3. 按讚最多的那本書可以買，錢大家分
+4. 股東會概念：10個人分，他們可以先輪
+ 
+ 
+ 
+ 
+5. 書本任意門：讀書會
+
+
+

@@ -37,10 +37,15 @@ g0v 零時政府揪松團（g0v jothon）是主辦 g0v 百人大黑客松與基�
 https://api.g0v.tw/community99/
 
 ## 2024
-- [2024/07 `撰寫中`](/@jothon/community99-2407)
-- [2024/06 `撰寫中`](/@jothon/community99-2406)
-- [2024/05 `撰寫中`](/@jothon/community99-2405)
-- [2024/04 `撰寫中`](/@jothon/community99-2404)
+- [2024/12 `預熱中`](/@jothon/community99-2412)
+- [2024/11 `撰寫中`](/@jothon/community99-2411)
+- [2024/10 `撰寫中`](/@jothon/community99-2410)
+- [2024/09 `撰寫中`](/@jothon/community99-2409)
+- [2024/08](/@jothon/community99-2408)
+- [2024/07](/@jothon/community99-2407)
+- [2024/06](/@jothon/community99-2406)
+- [2024/05](/@jothon/community99-2405)
+- [2024/04](/@jothon/community99-2404)
 - [2024/03](/@jothon/community99-2403)
 - [2024/01](/@jothon/community99-2401)
 

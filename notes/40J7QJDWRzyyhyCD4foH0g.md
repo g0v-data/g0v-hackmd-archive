@@ -366,37 +366,6 @@ Encourage open discussions and maintain accessible meeting minutes for reference
 g. Dealing with data confusion and difficulty in organizing information:
 Structured data collection is essential before data processing. Public servants need to develop data-driven thinking and project management skills and consider the possibility of making data usable for other systems.
 
-## 2. Conclusion
-
-Civic tech projects and communities are motivated in various ways in different regions, but their ability to take root and persist often hinges on the level of basic human rights protection, such as privacy and freedom of communication and expression.
-
-### Addressing Universal Social Needs Through Forking Open-source Projects in Multinational Contexts
-
-When responding to common social needs such as pandemics and misinformation issues, if there are existing solutions, they can be forked and adapted to similar needs in other regions using the open-source and open-data model of existing projects. For example, the Cofacts project, which originated in Taiwan, can be used by other projects or serve as a reference for addressing similar issues in other countries, with “Cofact Thailand” being one of the larger and more comprehensive projects in this regard. However, different challenges arise in different countries when applying similar open-source projects. For instance, in Thailand, due to its larger territory and greater urban-rural disparities, project members need to spend more time and effort to promote “Cofact Thailand,” which is operated by both staff and volunteers.
-
-During the COVID-19 pandemic, Hal Seki, the founder of Code for Japan (CfJ), immediately shared the experiences of Taiwan's community collaboration mask map, which sparked a huge response in the Japanese civic tech community. Code for Japan, following Taiwan's example, gave birth to the public-private cooperation project called the "Tokyo COVID-19 Task Force," referred to as the "miracle in Japan." After the Tokyo Metropolitan Government opened a GitHub project, it received nearly 800 code commits within two days, making it the top 1 trending project on GitHub globally. The discussions on CfJ's Slack platform exploded, and g0v contributors from Taiwan initiated translation efforts to translate the platform's content into Chinese. Following Tokyo, versions for Hokkaido and Kanagawa Prefecture in Japan were also launched.
-
-Beyond Japan, South Korean hackers also used the g0v community collaboration platform as a template to persuade the South Korean government to open data, subsequently leading to the launch of the South Korean mask information platform.
-
-
-### The Origin of Projects: Social Sector Networks or Civic Tech Communities
-
-Based on experiences in East Asia and South Asia, there are two main contexts for project development: projects originating from the social sector (such as non-profit organizations or corporate entities) and projects developed by communities.
-
-First, in the first context, it is more common in authoritarian countries to establish legal entities dedicated to civic tech projects to ensure their stability. Moreover, many projects in different countries apply for legal entity status to facilitate their development, and most of them take the form of non-profit organizations, such as the Cofacts project in Taiwan. Moreover, some organizations attempt to organize events or initiate projects that encourage the integration of information technology into social issues to propose solutions. For example, NHK and CfJ in Japan jointly organize hackathons, leveraging digital transformation to create more positive outcomes.
-
-On the other hand, the community-driven project development model is more prevalent in countries with relatively open political environments, such as Taiwan, Japan, and South Korea. Many projects in these countries originate from the largest local civic tech communities, fostering project initiatives through community networks, and assisting in the development of regional communities and actions, such as CfJ’s cross-regional support structure. g0v, for instance, adopts a governance mechanism that invites contributors to spontaneously form working groups for various projects, sharing community resources like collaboration platforms (Slack, HackMD), social networking services (SNS), event venue borrowing, etc. Additionally, they emphasize open-sourcing results, allowing communities and even countries to learn from each other’s projects. Simultaneously, they encourage community contributors from different regions to independently develop regional communities, such as Tainan and the g0v-siliconvalley community in the Silicon Valley area of the United States, among others.
-
-
-### The Extent of Suppression by Authorities and Governments Continues to be a Decisive Influence on Civil Society
-
-Apart from the previously mentioned difficulties in project implementation in Myanmar and China due to security concerns, the influence of authorities and policies on civic tech projects and communities remains a decisive factor, as exemplified by the situation in Hong Kong.
-
-In 2016, inspired by Taiwan’s g0v, Hong Kong citizens established g0v.hk to promote open government, open data, and citizen participation in public affairs. However, after the 2019 Anti-Extradition Law Amendment Bill Movement, Hong Kong’s freedom of expression has been restricted, and the implementation of the Hong Kong National Security Law has led to the dissolution of many non-governmental organizations, including g0v.hk (announced on June 30, 2021). As a result, the civic tech-driven approach to social progress has become challenging to sustain in Hong Kong due to changing political circumstances.
-
-Since civic tech projects and communities consist of ordinary citizens, legal provisions that infringe on human rights can lead to self-censorship among individual contributors. Even in major cities with a tech-savvy public, it remains difficult to develop or maintain independent civic tech communities. When individuals have concerns about being suppressed by the government, the benefits of digital transformation cannot fully materialize at the societal level.
-
-If there is no safety concern when engaging in civic tech projects, it is worth observing and comparing government organizations’ power to make administrative decisions, see if the authorities are supervised, and how countries fight for negotiation space. It is worth to approach the extent to which civil rights are being exercised in two ways. The first is the “oversight rights,” such as election affairs and government spending; the second is the "participation rights,” whereby civic tech project groups can further influence substantive government decisions based on the results of their projects. In recent years, Japan established a Digital Agency, and Taiwan established a Ministry of Digital Affairs, with a clear commitment to promote civic tech projects proposed by the private sector in cooperation with government departments.
 
 
 

@@ -157,7 +157,7 @@ g0vは無党派、非営利で、草の根で集まった市民運動です。�
     * 台日韓合同の「Facing the Ocean（FtO）」を沖縄で開催
     * 台日韓合同の「Facing the Ocean（FtO）」を台南で開催
     * g0vニューヨークハッカソン
-    * ドイツ「フリードリヒ・ナウマン財団」の招待を受け、複数の政党や国会議員らと交流し、ベルリンで開催された「Hacking Democracy Summit」に参加
+    * ドイツ「フリードリヒ・ナウマン財団（Friedrich Naumann Foundation for Freedom）」の招待を受け、複数の政党や国会議員らと交流し、ベルリンで開催された「Hacking Democracy Summit」に参加
     * 全1回のインフラストラクチャ・ハッカソンを開催
     * 全5回のハッカソンを開催
 

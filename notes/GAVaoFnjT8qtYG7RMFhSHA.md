@@ -10,7 +10,6 @@ tags: hackathon,63th
 - **報名 KKTIX Register：https://g0v-jothon.kktix.cc/events/g0v-hackath63n**
 - **地點 Place：臺北矽谷國際會議中（[新北市新店區北新路三段223號](https://maps.app.goo.gl/xPdRY5D2UztdNvkS8)）**
 　　　　 　 【主場地】2B
-　　　　 　 【Hacking 空間】2C
 - **線上直播 Live Broadcast：** TBA
 
 | 時間 Time |活動 Subject |行動指南 Action Item|
@@ -24,8 +23,8 @@ tags: hackathon,63th
 |12:00|午餐 Lunch|
 |13:10|新參者．旅行團 Guided Tour for Newcomer|
 |14:30|短講 Short Talk|用 8 分鐘分享與開源或是專案有關的故事，可在 [提案列表](https://docs.google.com/spreadsheets/d/13vTsnnrVatf8WQV3luSQOt3zFUoBJmMS8drzs-grwH0/edit?usp=sharing) 登記。|
-|16:00|成果報告 5-min final presentation|今日討論或 Hacking 結果，跟大家分享，可在[提案列表](https://docs.google.com/spreadsheets/d/13vTsnnrVatf8WQV3luSQOt3zFUoBJmMS8drzs-grwH0/edit?usp=sharing)登記。
-|17:00|大松正式結束 End|期待下次相見！See you next time!
+|16:10|成果報告 5-min final presentation|今日討論或 Hacking 結果，跟大家分享，可在[提案列表](https://docs.google.com/spreadsheets/d/13vTsnnrVatf8WQV3luSQOt3zFUoBJmMS8drzs-grwH0/edit?usp=sharing)登記。
+|17:20|大松正式結束 End|期待下次相見！See you next time!
 
 
 ### 💪 三分鐘提案、短講、成果發表 3-min proposal

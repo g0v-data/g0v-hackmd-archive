@@ -17,7 +17,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 - [7/16 g0v 放輕松小聚](https://g0v.hackmd.io/@tofus/rand0mth0n/%2FhkDJPiZUSfCBVaISxcStBg)
 - [7/20 g0v 帶我去月球黑客松](https://beta.hackfoldr.org/g0v-hackath62n)
 - [7/30 g0v 放輕松小聚](https://g0v.hackmd.io/@tofus/rand0mth0n/%2FH5HUCwuLRuiJGFEVwgVbYA)
-- [8/24 結業式 Ｘ 提案工作坊 `敬請期待`]()
+- [8/31 結業式 Ｘ 提案工作坊](https://g0v.hackmd.io/@jothon/H1_B6j-9R)
 
 
 ## 主辦單位
@@ -35,7 +35,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
     - [如何加入 Slack](https://g0v.hackmd.io/@jothon/joing0vslack)
 -  相關網站或社群平台
     - [零時小學校 網站](https://sch001.g0v.tw)
-    - [零時小學校官方 Line ](https://lin.ee/mffftkf )
+    - [零時小學校官方 Line ](https://lin.ee/mffftkf)
     - [零時小學校 FB 社團 學習中心](https://www.facebook.com/groups/jothon.sch001)  
     - [g0v 揪松團 Instagram ](https://www.instagram.com/g0v_jothon/) 
     - [g0v 揪松團 LINE 社群  ](https://bit.ly/jothon-LINE)

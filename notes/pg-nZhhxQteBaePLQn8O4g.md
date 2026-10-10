@@ -8,7 +8,7 @@ images: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_9bcb2ef55d3bf6ad4bfbab4a83eda8d6.png)
 ### 🔸 本次大松頁面：http://beta.hackfoldr.org/g0v-hackath64n
-（如果上面連結當機的話可以點擊：[**HackMD bookmode 頁面**](https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/BJA2QrsiR)）
+（如果上面連結當機的話可以點擊：[**HackMD bookmode 頁面**](https://g0v.hackmd.io/@jothon/g0v-hackath64n)）
 
 :::warning
 感謝 **💎鈦金大松之友 vTaiwan** 贊助本次大松。
@@ -17,6 +17,17 @@ g0v 雙月黑客松開放大眾免費參與，歡迎個人、組織、企業加�
 ▍更詳細的贊助與回饋方案，請見：[g0v 大松之友贊助方案 介紹＆說明](https://drive.google.com/drive/folders/1zC8yKEjg22kPeW5Y1Lyg3UVsPgj0XK2G?usp=drive_link)
 
 :::
+
+:::success
+此次大松也包含資金池活動 (by [拉人更輕鬆專案](/@suryazze/rJ4bw9CnR))，欲提供資金給包含青世代夥伴參與的公民科技專案。
+
+有興趣的夥伴歡迎點進連結了解更多：[徵件計畫](https://docs.google.com/document/d/1ZyUD7BF0z15pLaSEP0hHez1d9T95LlVNNVXdMhWioEY/edit?tab=t.0#heading=h.4k0q8f2japog)
+- 報名：11/1 - 11/17
+- 贊助：11/18 - 11/23 12:30（投票時間開始前）
+- 決選：11/23 大松
+- 兩場 Ask Me Anything 時間待確認～
+:::
+
 
 
 ### ▶︎ [報名點這裡！ Get your ticket](https://g0v-jothon.kktix.cc/events/g0v-hackath64n)
@@ -34,8 +45,8 @@ g0v 雙月黑客松開放大眾免費參與，歡迎個人、組織、企業加�
 
 :::success
 **場地 Wifi**
-* SSID：
-* password: 
+* SSID：g0vhackathon
+* password: 20241123
 :::
 :::info
 
@@ -54,26 +65,26 @@ g0v 雙月黑客松開放大眾免費參與，歡迎個人、組織、企業加�
 如果無法實體參與活動，歡迎於當天點擊線上直播，或於活動結束後回顧。
 - [g0v 直播 Live streaming (Youtube)](https://www.youtube.com/c/g0vTW)
 
-### 📸 活動照片
-
-每次的黑客松，都會有攝影師幫大家記錄下活動過程，歡迎大家活動結束後到 [g0v flickr 相簿](https://www.flickr.com/photos/g0v/albums/) 尋找你的身影。
 
 ### ⏰ 活動流程
 
 | 時間 |活動 |行動指南|
-|--|--|--|--|
+|--|--|--|
 |09:00|活動報到 |參與者快打起精神！|
 |09:20|新手教學|影片同步可於 [YouTube](https://youtu.be/Zvxjo4RvnhU) 觀看。
 |09:30|開場|
-|09:40|三分鐘提案| 無論是想要在 g0v 提案、發表短講，或是為自己的專案招兵買馬，歡迎在[提案列表](https://docs.google.com/spreadsheets/d/1rtqJHmMlrIYSm3let_yYYXKQpHpazDY5ImoJWLDY6FU/edit?usp=sharing)上填入相關資訊，讓參與者都能夠看見你的專案。<br>坑主請一定要留下 g0v Slack ID，方便互相聯絡喔～|
+|09:40|三分鐘提案| 無論是想要在 g0v 提案、發表短講，或是為自己的專案招兵買馬，歡迎在[提案列表](https://docs.google.com/spreadsheets/d/1rtqJHmMlrIYSm3let_yYYXKQpHpazDY5ImoJWLDY6FU/edit?usp=sharing)上填入相關資訊，讓參與者都能夠看見你的專案。<br>坑主請一定要留下 g0v Slack ID，方便互相聯絡喔～ <br>(資金池提案最多八組)|
 |10:30|三個關鍵字自我介紹|
 |11:20|分組開工|在提案和自我介紹結束後，參與者可以選擇自己有興趣的專案，加入專案一起討論。
-|12:00|午餐|
+|12:00|午餐|(場外吃飯:學生與資金池專案對談)|
 |13:10|新參者．旅行團|
 |14:30|短講|用 8 分鐘分享與開源或是專案有關的故事，可在 [提案列表](https://docs.google.com/spreadsheets/d/1rtqJHmMlrIYSm3let_yYYXKQpHpazDY5ImoJWLDY6FU/edit?usp=sharing) 登記。|
-|16:10|成果報告|今日討論或 Hacking 結果，跟大家分享，可在[提案列表](https://docs.google.com/spreadsheets/d/1rtqJHmMlrIYSm3let_yYYXKQpHpazDY5ImoJWLDY6FU/edit?usp=sharing)登記。
-|17:20|大松正式結束|期待下次相見！See you next time!
+|16:00|成果報告|今日討論或 Hacking 結果，跟大家分享，可在[提案列表](https://docs.google.com/spreadsheets/d/1rtqJHmMlrIYSm3let_yYYXKQpHpazDY5ImoJWLDY6FU/edit?usp=sharing)登記。
+|17:00|大松正式結束|期待下次相見！See you next time!
 
+### 📸 活動照片
+
+每次的黑客松，都會有攝影師幫大家記錄下活動過程，歡迎大家活動結束後到 [g0v flickr 相簿](https://www.flickr.com/photos/g0v/albums/) 尋找你的身影。
 
 ### 👥 聯繫溝通
 - **[松前哈拉（活動暖身）](https://beta.hackfoldr.org/g0v-jothon-community-hangout/)**：2024 年 11 月 22 日 (五) 21:00 - 22:00
@@ -93,40 +104,36 @@ g0v 黑客松是大家一起撐起來的！
 徵求願意幫忙的大松小幫手，歡迎留下你的大名或 slack ID：
 :::info
 
+- **活動直播**
+    - SeanGau
 - **報到(1-3人)** 協助大松參與者報到、拿頸繩＆名牌、親切地向舊雨新知 say HI 👋
     - [name=歡迎留下你的大名！]
-- **攝影(1-2人)** 用相機為各專案留下認真報告、討論的身影，並為本次大松的參與者拍攝大合照
+    - Dong
+    - Amos
+    - Peter
+- **攝影(1-2人)** 用相機為各專案留下認真報告、討論的身影，並為本次大松的參與者拍攝大合照，可以參考 👉 [歷年活動相簿](https://www.flickr.com/photos/g0v/albums/)
     - [name=歡迎留下你的大名！]
+    - 蕓安
+    - 宇岑
+    - hugh 
 - **主持（提案、短講、成果報告、松前哈拉）** 主持、協助大松各階段活動進行，一起維護大松溫暖友善的氛圍
-    - 提案：[name=歡迎留下你的大名！]
-    - 短講：[name=歡迎留下你的大名！]
-    - 成果報告：[name=歡迎留下你的大名！]
-    - 松前哈拉：[name=歡迎留下你的大名！]
+    - 提案：
+        - Hau
+    - 短講：
+        - RS
+    - 成果報告：
+        - Hau
+    - 松前哈拉：
+        - Peter
 - **新手導覽(1-2人)** 於新手導覽期間（13:10 開始），帶著新參者了解 g0v、了解各專案的內容＆目標，一起建立新手友善的大松！
     - [name=歡迎留下你的大名！]
+    - Amos
+ 
 :::
 
 #### 擔任大松小幫手，可以獲得當屆大松[大鱔人貼紙](https://g0v.hackmd.io/@jothon/g00d_nobody#%E6%94%AF%E6%8C%81-g0v-%E9%BB%91%E5%AE%A2%E6%9D%BE%EF%BC%8C%E4%B8%80%E8%B5%B7%E4%BE%86%E7%95%B6%E5%A4%A7%E9%B1%94%E4%BA%BA%EF%BC%81%EF%BC%81%EF%BC%81) 2 張唷 🐍（一張可以貼在名牌上，另一張可以收藏留念！）
 
-## 📚 給新參者：我該如何參與黑客松？
-- 放輕鬆！只要有心，人人都可找到小坑(專案)跳。
-- 多數的專案都以數位形式或電腦軟體作為專案貢獻的平台，歡迎攜帶自己的電腦或平板以便參與協作！現場有插頭可以充電喲～
-- 活動當天，請在報到處掛上名牌、貼技能貼紙，專案介紹後，勇敢找大家聊天吧！
-- 13:10 會有一條龍專案導遊團（視當天人力而定），可跟團找坑。
-:::warning
-**👉 如果你之前沒有參加過大松，可以看這邊：**
-* 什麼是零時政府黑客松？
-    * [揪松網](https://jothon.g0v.tw/)
-* 零時政府促成了哪些專案？
-    *  [成果列表](https://g0v.tw/zh-TW/project-from-registry.html)
-* 我該怎麼參與 g0v 社群活動？
-    * 【簡單版】[g0v 新手指南](https://g0v.tw/intl/zh-TW/novice/) 
-    * 【詳細版】[g0v 開源協作手冊](https://g0v.hackmd.io/@jothon/g0v-cowork-guideline) 
-* 大松開始前，想找人聊聊這次的專案嗎？
-    * [**來松前哈拉吧**－大松前夜 · 線上開講](https://beta.hackfoldr.org/g0v-jothon-community-hangout/)：「松前哈拉」是伴著 g0v 雙月大黑客松，約兩個月舉辦一次的線上會議，在每次雙月大黑客松的前一天晚上，讓關心 g0v 的社群朋友有聚焦討論議題的機會，會議內容透過線上會議平台全程直播。來聊天！來哈拉！說說你最近關心什麼，在大黑客松想做什麼？*（↖↖↖ 詳細資訊請點上方連結）*
-:::
-
-## 🪄 支持大松：源碼大明神香油錢
+## 💰 支持大松：源碼大明神香油錢
 
 g0v 專案皆為開源，源碼、文件都以開放授權釋出，共同為社會改變而努力。歡迎選取「香油票」或點擊以下捐款連結，支持源碼開放大透明的精神，讓 g0v 揪松團可以持續舉辦黑客松，推動開源專案。
 
@@ -145,6 +152,27 @@ g0v 專案皆為開源，源碼、文件都以開放授權釋出，共同為社�
 *  【2020 少量棒球帽】頂天立地價：新台幣 1024 元／頂
 *  【拖帽致敬組合價】：新台幣 1500 元／組
 :::
+
+
+## 📚 給新參者：我該如何參與黑客松？
+- 放輕鬆！只要有心，人人都可找到小坑(專案)跳。
+- 多數的專案都以數位形式或電腦軟體作為專案貢獻的平台，歡迎攜帶自己的電腦或平板以便參與協作！現場有插頭可以充電喲～
+- 活動當天，請在報到處掛上名牌、貼技能貼紙，專案介紹後，勇敢找大家聊天吧！
+- 13:10 會有一條龍專案導遊團（視當天人力而定），可跟團找坑。
+:::success
+**👉 如果你之前沒有參加過大松，可以看這邊：**
+* 什麼是零時政府黑客松？
+    * [揪松網](https://jothon.g0v.tw/)
+* 零時政府促成了哪些專案？
+    *  [成果列表](https://g0v.tw/zh-TW/project-from-registry.html)
+* 我該怎麼參與 g0v 社群活動？
+    * 【簡單版】[g0v 新手指南](https://g0v.tw/intl/zh-TW/novice/) 
+    * 【詳細版】[g0v 開源協作手冊](https://g0v.hackmd.io/@jothon/g0v-cowork-guideline) 
+* 大松開始前，想找人聊聊這次的專案嗎？
+    * [**來松前哈拉吧**－大松前夜 · 線上開講](https://beta.hackfoldr.org/g0v-jothon-community-hangout/)：「松前哈拉」是伴著 g0v 雙月大黑客松，約兩個月舉辦一次的線上會議，在每次雙月大黑客松的前一天晚上，讓關心 g0v 的社群朋友有聚焦討論議題的機會，會議內容透過線上會議平台全程直播。來聊天！來哈拉！說說你最近關心什麼，在大黑客松想做什麼？*（↖↖↖ 詳細資訊請點上方連結）*
+:::
+
+
 
 ## 📋 會後問卷填寫 <br>g0v Participation Satisfaction and Impact Survey
 <font color=#D60202>如在活動中遇到任何不愉快的情況，歡迎填寫影響力問卷，匿名（或根據意願具名）回報、描述事情經過。
@@ -173,10 +201,18 @@ g0v 零時政府揪松團（g0v jothon）是主辦 g0v 百人大黑客松與基�
 📕 揪松網 - https://jothon.g0v.tw/
 :::
 
-## 贊助單位
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7e74e52ee05b3b7a1185c076bb7228eb.png =120x)
-### [台灣資訊環境研究中心](https://iorg.tw/) IORG
-台灣資訊環境研究中心 IORG 是科學及教育防治資訊操弄、深入理解華語資訊環境、改善公共討論、強化民主韌性的台灣民間組織。
+## 贊助單位：vTaiwan
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_7cec77312008b81b6d2f22bb37a6c4f5.png =120x)
+
+### [vTaiwan](https://vtaiwan.tw/)
+vTaiwan 在 2015 年創立，希望藉由數位工具的導入與多元利害關係人的參與，收集意見、進行討論、凝聚共識，讓政府的政策與法規能夠落實並回應這些公民參與的成果。
+
+目前致力於研究數位工具與公共參與的連結，並與 NGO 合作，進行議題小聚與相關數位工具的測試與研究，公民可以自由加入成為社群的貢獻者。
+
+vTaiwan was established in 2015 with the aim of using digital tools and the participation of diverse stakeholders to gather opinions, facilitate discussions, and build consensus. This initiative was designed to ensure that government policies and regulations are implemented and responsive to the outcomes of the citizen participation.
+
+Currently we focus on researching the connection between digital tools and public participation, and collaborating with NGOs to organize social issue gatherings and conduct testing and research on relevant digital tools, allowing citizens to freely join and contribute to the community.
+
 
 :::warning
 感謝 **💎鈦金大松之友 vTaiwan** 贊助本次大松。

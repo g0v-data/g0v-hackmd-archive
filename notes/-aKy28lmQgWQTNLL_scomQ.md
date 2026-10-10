@@ -1,14 +1,14 @@
 ---
 title: 1-2 How g0v works?
-tags: jothon, NDI
+tags: jothon, NDI, FNF
 ---
 :::success
 :book: Return to the homepage of the handbook: https://g0v.hackmd.io/@jothon/ctpbook_en
 
-"g0v Civic Tech Project & Community Handbook" is licensed under CC BY-NC.
+"Civic Tech Project & Community Handbook" is licensed under CC BY-NC.
 :::
 
-# 1-2 How g0v works?｜g0v Civic Tech Project & Community Handbook
+# 1-2 How g0v works?｜Civic Tech Project & Community Handbook
 
 ### Chapter 1: About the g0v Community
 ## How g0v Works?

@@ -125,8 +125,168 @@ We can provide ChatGPT with the following information:
 Human fact checkers can act as editors checking AutoGPT's response:
 - AutoGPT's "fact-checking" process and ther critique on the results are public, hopefully these can ==inspire human fact checkers== and avoid directions that AutoGPT has proven not working.
 - [Optional] Allow human fact checkers to give instruction to AutoGPT, provides new directions of investigation
-
 :::
+
+### Cofacts.ai
+
+:::info
+- 2025 initialtive
+:::
+
+People now are getting used to UIs like `chatgpt.com` or `gemini.google.com`, which allows users to focus on talking to LLM to focus on 1 task.
+
+Therefore, we can build a site that provides exactly that:
+- A **full-page chat interface** powered by a fact-checking copilot 
+  - Besides chat, it can provide canvas-like UI so that the user and AI can polish the end result together
+  - Can build a preview window on mobile phone screen to show how the current reply reads on mobile phone
+- Each chatroom is focused on replying 1 or more related Cofacts articles.
+  - Audience can view chatrooms related to an Cofacts article.
+- A sidebar allowing users to navigate through past chatrooms, which may contain draft replies or half-done work, allowing user to come back anytime.
+- Chatrooms are connected to Cofacts articles and are **PUBLIC** to everyone
+  - Cofacts.ai users are informed about the chatroom being publically visible
+      - If they want private chat, just use ChatGPT.com at their own cost.
+  - Audiences can learn from each other about how they co-work with AI agents
+      - Chatrooms are read-only to other audiences.
+      - The UI should provide the functionality to "proceed with new chat window" to inherit past discussions and start a new one.
+      - It is also easier to spot abuse and ban them when needed.
+  - All audiences are encouraged to rate AI responses based on
+      - If the AI gives wrong information
+      - If the AI is trying too much to make the user happy instead of doing the right thing
+      - When the AI tries to provide balanced information even if the user they are talking to is suggesting otherwise
+  - The idea is coming from Audrey Tang's take on "adding AI to group chat" https://www.youtube.com/watch?v=q3PuX1JztKI&pp=ygUG5ZSQ6bOz2AY6
+      - Since Cofacts users don't work together, we make chat room public instead to facilitate "asynchonous collaboration"
+
+The 2024 initialtive (AI assisted reply authoring) relies heavily on UI integration with existing site and LINE bot, which somehow blocks the implementation. Cofacts.ai does not have this issue.
+
+
+#### Relationship with site and chatbot
+- Cofacts.ai:
+  - focused on allowing fact-checking collaborators to chat with LLM to get replies done
+  - can share half-done investigation summary as reply request comments
+  - can send completed replies
+- Cofacts.tw:
+  - focused on displaying shared stuff: articles, replies, comments, etc
+  - may revamp existing AI reply function
+- Cofacts chatbot:
+  - Focused on reporting and delivering fact-checks, but change to LLM based
+  - Filter "questions" and "circulating messages"; detect PII and ask user to confirm when submitting messages
+  - After the user submits a message, connect to similar workflow like Cofacts.ai to guide them to contribute more
+
+
+#### Agent conversation samples
+
+##### Crowd-sourced fact-checker working on a message
+
+- User: https://cofacts.tw/article/16s7wkyw98drt
+- AI: Wow it's a popular article! There are many dramatic sections that may lead to its popularity. What part do you think is the sentence tht make it viral? (Procide quick replies of sentences)
+  - Feature: emotion detection & ask for user input
+- User: (clicks quick reply) PRC sent military goods to Pakistan
+- AI: Seems that we need to search the web to see if any news site mentions the event. If not, the claim is very likely fabricated.
+- AI Investigator: here is my plan to perform deep research
+  - Deep research planning & confirmation
+- User: (agrees with proceeding)
+- AI: ...
+
+##### Verify message first
+- User: (a cofacts article with links)
+- AI: Oh, a message with links to other website! Let me check the links first.
+- AI: (Calls tool to navigate the page)
+- AI: It seems that the link brings me to a news website. Let's check if the message is backed by the message first.
+- AI Verifier: The claims of the message includes: (A) (B) (C). The web page mentions (B), while (A) and (C) are not backed by anything.
+- AI: (continue with writing)
+
+#### Milestones
+
+- M0: beta.cofacts.ai with focus groups
+  - Build a multi-agent fact-checking team of:
+    - AI Writer:
+      - Tasked to compose fact-check reply. 
+      - Interacts with human fact-checker to check with emotion parts, verifies clues and information provided by the user, process user & proof-read feedbacks, etc.
+      - Can navigate links, read images and videos to know the whole context of a suspicous message
+      - Acts as the orchestrator -- Delegate to the following sub-agents to finish the task
+    - AI Investigator - Deep research, Cofacts & other fact check DB, googling, page navigation
+    - AI Verifier - Verifies if a statement is grounded by the provided URL links.
+      - The agent is also able to navigate web pages to check its content
+      - This works for both suspicious messages, investigator result and existing fact-checks.
+    - AI proof-readers - role-play as  supporters of different political parties to see if the composed fact-checking reply is convincing or is offending to them.
+  - The system will be available to only a core group of less than 10 experienced community fact-checkers
+    - The team will interact with AI to finish fact-checking replies
+    - The team will provide feedback to AI's response
+    - The team will provide feedback to each other's replies to facilitate the loop
+  - Every feedback will be monitored and analyzed in LLM observability platform, so that we can iterate on the prompt and make sure results is becoming better.
+    - Record the time each user spent interacting with AI to finish a fact-checking reply.
+    - Check with other user's feedback for the AI assisted Cofacts reploes
+    - LLM as judge - team output score by LLM
+- M1: Generally available Cofacts.ai website
+  - With experience from M0, we should make the system generally available
+  - Every fact-checking collaborator will be able to authenticate into Cofacts.ai
+  - Canvas mode of fact-checking reply: user can directly edit draft reply and continue back-and-forth to work
+  - They can submit their work directly to Cofacts
+    - The user will be able to reply to multiple similar articles with small differences; or
+    - The user will be able to modify own replies in batch with the aid of AI
+  - Cofacts.ai can suggest new articles for the user to work on, as the user may have worked on similar items
+  - Can still form a core verifier team the correctness & usefulness
+- M2: Expand to AI chatbots
+  - By the end of M1, the capacity of fact-checkers should have largely increased; it is time to expand the channel of collecting new suspicious message
+  - Minimal lookup agent: (1) searches Cofacts and provide reply; (2) guide the user to submit when there is no similar articles
+  - Expand to more platforms: Threads, FB messenger, IG, Tiktok, TG
+  - Empower the multi-agent fact-check team by connecting to more databases
+
+
+#### Functionality
+
+- Main agents (orchestrator)
+  - 使用者應提供 Cofacts 連結或其他謠言本文作為對話起點
+  - 初步分析：情緒點、factual statement 有哪些、哪些 opinion 是基於這些 factual statement，規劃 deep research 方向
+  - Performs these steps
+    - 發散、廣蒐來源：有初步方向後，主動建議使用者使用 Deep Research 然後分享結果回來
+    - 與使用者來回討論：
+      - 用 AI verifier 檢查 deep research 結果
+      - 使用者詢問時，用 Google search tool 做 grounding，也蒐集更多出處
+    - 遇到陰謀論，應這樣處理：
+      - 奧卡姆剃刀——利用現有資訊，提供一個更可能的解釋，而該解釋可以不需要那麼多人「保密」。
+      - 列舉如果陰謀論為真，那應該可以觀察到哪些其他信號，但現實中應沒有這些信號。
+    - 一起在 canvas 撰寫回應文字與安排出處
+    - Proof-read：用 source agent 檢查出處與回應文字是否可以對應
+    - Proof-read：角色扮演 agent 判斷效果
+    - 鼓勵使用者撰寫《奇幻旅程》案例
+- Domain specific agents as sub-agents
+  - AI verifier: input 含出處文字，檢查文字中哪些部分是出處真的有 cover 到的。
+    - 使用 fetch website tool 載入各個出處後，和文字進行比對
+  - 立法院 agent: 具有相關 knowhow 取用以下 tool -- 立法院提案MCP, 預算案MCP, 議事錄MCP
+  - 法院 agent: 具有相關 knowhow 取用以下 tool -- 法條 MCP、判決書 MCP、起訴書 MCP
+  - AI proof-reders: 角色扮演 agent (見過往想法)
+  - 撰寫《奇幻旅程》agent
+  - 反詐騙 agent：發現原文是詐騙回報後，搜尋專門找資料或新聞、說服使用者這是詐騙
+- Tools
+  - Load Cofacts article (article ID)，回傳：
+    - 訊息傳入的時間、熱度
+    - 訊息型態、文字 or 逐字稿
+    - 現有回應、回應的 feedback
+    - 現有「我想補充」內容
+    - 一起傳的訊息、類似訊息
+  - 載入 deep research 結果，如 Google doc loader
+  - Google search (ADK 內建？)
+  - 以圖搜圖
+  - Fetch website：fetch MCP 或 [Archivebox](https://archivebox.io/) 的 tool wrapper
+  - 反詐騙 Tools 類似案例, site search, etc. 反詐騙、反二次詐騙文案
+
+#### Legal concerns - Responsible "AI user"
+
+給外人使用時，須增設條款：
+
+同意成為「負責任的『AI 使用者』」
+- cofacts.ai 可以
+    - 提供查證方向
+    - 協助查找內容與進行 summarization
+    - 與您討論如何撰寫回應
+    - 提供語句以及語氣上的調整
+- cofacts.ai 沒辦法：
+    - 負責任。
+- cofacts.ai 做不到「負責任的 AI」：Cofacts 提供開源的 AI 實作，在設計上試著使用公開來源情報進行論證，但仍有 hallucination。
+- 你要成為「負責任的『AI 使用者』」：繼續使用代表使用者在發表包含 AI 生成的內容時，將其視為己出，對發表之內容付全責。
+- Cofacts 使用者應檢查 AI 提供的論據是否與其提供的公開來源對應，與 AI 共創查核回應時，以自己的思考判斷導引整個寫作過程。
+- Cofacts WG 在自己能努力的範圍內盡力讓 AI 有用，但並不對 AI 的錯誤負責。
 
 ### AI assisted reply authoring
 :::info
@@ -152,6 +312,7 @@ When a new message comes in DB, provide an automated analysis with these message
   - May need a multimodal LLM to interprete these
 - Search results from custom search engine (within an allowlist of IFCN fact checkers)
     - Or use [SearXNG](https://github.com/searxng/searxng) 
+    - Or use [Grounding with Google Search](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/ground-gemini) by Gemini
 
 Then Cofacts chatbot can include the AI analysis in its reply if no human has created a reply.
 
@@ -211,6 +372,22 @@ When composing reply, the user can:
   - [Depolarizing GPT](https://depolarizinggpt.org/) GPT 模擬左翼、右翼意見領袖回應，一次看兩邊
   - [Acquaint](https://www.acquaint.org/) -  提供對話情境，使用者要用比較好的說法回應
 - [2024/4/29 - Reuters Institute - Generative AI is already helping fact-checkers. But it’s proving less useful in small languages and outside the West](https://reutersinstitute.politics.ox.ac.uk/news/generative-ai-already-helping-fact-checkers-its-proving-less-useful-small-languages-and)
+- Fighting Hallucinations
+    - Multiagent: RARR - Researching and Revising https://github.com/anthonywchen/RARR
+        - 如果拿 claim 請他去查不會 Work，要轉成 query。
+            - claim 就算很扯，它也會找到一些高度相關的 evidence 來 support 這些 claim。
+            - 「台北今天在下雨」vs「台北今天在下雨嗎？」後者其實比較讓模型比較能放手去搜到正反兩邊的結果。
+        - Detect 的要用很強的模型。
+        - Revision agent 可以用比較弱的模型。
+        - 把 claim 轉成 query 也可以用比較弱的模型。
+    - Context-Aware RAG - RAG with sufficient context https://arxiv.org/abs/2411.06037
+        - 高 relevance 不代表 sufficient context。給 LLM 看的跟給人看的搜尋結果不太一樣。
+        - 有 sufficient context 但回答錯 = 模型的問題。沒 sufficent context  = retrieval 的問題。
+        - 如果沒有 sufficent context 但模型的 world knowledge 居然能答對 --> 比較 tricky。
+        - 若有 sufficient context，但又告訴模型我們裡面沒有 sufficent context --> 模型會 tend to 回傳 I don't know。
+        - sufficient context 怎麼來？到底是否 sufficient？不能直接回答的 1-hop inference 或 multiple-hop 時算嗎？--> 用 powerful thinking model 來判斷。
+
+
 
 ## Usage & cost estimation
 

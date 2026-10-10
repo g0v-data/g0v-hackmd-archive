@@ -45,7 +45,7 @@ tags: pmpc
 - 跳坑：chewei, 
 - 標案資料：https://openfunltd.github.io/pcc-viewer/
 
-## 蒐集 GitHub 上的政府單位專區
+## 蒐集 GitHub / GitLab / Huggingface 上的政府單位專區
 
 ### Taiwan
 - 臺灣公共程式平臺 https://code.gov.tw/
@@ -75,6 +75,15 @@ tags: pmpc
     - 摘：2015-2022之間，在政府內部參與，包括承接乙方專案或者透過內部當工程師進行專案開發的經驗。相關過去的專案都公開在 https://github.com/digigov/
         - https://pretalx.coscup.org/coscup-2024/talk/8ECH9B/
 
+### 使用 GitHub 徵集意見
+
+日本關於地理資料格式的意見徵集，使用 GitHub Issue 作為意見徵集方式
+- GitHubへの投稿方法 (本GitHubの運用に当たっては、国土交通省大臣官房広報課ソーシャルメディア利用方針を準用します。)
+- https://www.mlit-gis-lab.jp/ksj/
+
+臺北市城市儀表板
+- https://github.com/taipei-doit/Taipei-City-Dashboard/issues/245
+
 ### France
 CodeGouv - Browse French public sector source code
 https://code.gouv.fr
@@ -84,3 +93,7 @@ Open Resource Exchange
 Explore how Canadian public administrations (federal, provincial, municipal and aboriginal) create greater transparency and accountability, increase citizen engagement and drive innovation and economic opportunities through open standards, open source software, open data, open information, open dialogue and open Government.
 https://code.open.canada.ca/en/index.html
 https://code.open.canada.ca/en/open-source-codes.html
+
+### 待整理
+各國開放源碼跟開放資料政策整理
+https://docs.google.com/document/d/1w-v94ShZbwJFUFSaHJ0IM_ALzXXHo_8b499toDXN3ic/edit

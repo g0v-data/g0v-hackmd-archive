@@ -2,8 +2,25 @@
 tags: web3
 ---
 
-# 林茲電子藝術節黑客松
+# Ars Electronica林茲電子藝術節與g0v互動
 
+:::warning
+文件目錄
+[toc]
+:::
+
+
+### 2025.11.13 林茲藝術大獎負責人Emiko Ogawa來信
+林茲藝術大獎的負責人Emiko Ogawa來信提到他們正在重新定義數位人權的獎項（這個獎項2004開始，2018年g0v曾經[獲獎](https://www.facebook.com/g0v.tw/posts/g0vtw-%E7%8D%B2%E9%A0%92%E6%9E%97%E8%8C%B2%E9%9B%BB%E5%AD%90%E8%97%9D%E8%A1%93%E5%A4%A7%E7%8D%8E%E9%9B%BB%E5%AD%90%E7%A4%BE%E7%BE%A4%E5%84%AA%E7%95%B0%E7%8D%8E-%E6%88%91%E5%80%91%E6%98%AF%E6%B2%92%E6%9C%89%E4%BA%BA%E4%BB%A5%E8%87%AA%E7%94%B1%E7%99%BC%E8%A1%A8%E9%96%8B%E6%94%BE%E5%8E%9F%E5%A7%8B%E7%A2%BC%E5%92%8C%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87%E7%82%BA%E7%AB%8B%E5%9F%BA%E5%9C%A8-2012-%E5%B9%B4%E6%88%90%E7%AB%8B-g0v-%E7%A4%BE%E7%BE%A4%E9%96%8B%E6%94%BE%E7%9A%84%E7%B2%BE%E7%A5%9E%E8%BF%84%E4%BB%8A%E6%9C%AA%E6%AD%87%E5%BE%9E%E5%85%A8%E5%8F%B0%E5%88%B0%E5%85%A8%E4%B8%96/2025548490819760/)），林茲希望明年邀請au參與貢獻，Lucky在g0v Slack #da0-g0v-ars-electronica 頻道聯繫au
+
+
+### 2025.01.09 STARTS Prize專案經理Masha Zolotova再次來信
+STARTS Prize專案經理Masha Zolotova再次來信詢問Lucky以個人身份接續擔任2025 STARTS Prize(European Commission的initiative，由林茲承接)International advisor的意願，Lucky答應。
+
+### 2024.01.04 STARTS Prize專案經理Masha Zolotova來信
+STARTS Prize專案經理Masha Zolotova來信詢問Lucky能否以個人身份接續擔任2024 STARTS Prize(European Commission的initiative，由林茲承接)的International advisor，Lucky答應。
+
+### 2023 European Digital Deal Summit
 主題：Ownership (Who owns the truth?)
 時間：Sep. 6-10, 2023
 地點：奧地利 [Post-City](https://ars.electronica.art/aeblog/en/2015/05/12/postcity/), [Other locations](https://ars.electronica.art/who-owns-the-truth/en/locations/)
@@ -11,7 +28,7 @@ Slack 頻道：#da0-g0v-ars-electronica
 
 https://ars.electronica.art/festival/en/
 
-### Future Innovator Summit
+#### Future Innovator Summit
 https://ars.electronica.art/futurelab/en/projects-future-innovators-summit/
 
 - Future Innovators Summit (FIS) initiated in 2014, key think-tank program during Ars Electronica Festival
@@ -24,7 +41,7 @@ https://ars.electronica.art/futurelab/en/projects-future-innovators-summit/
 - Most events had an inspiring atmosphere but often also elitist exclusivity, difficult to access for emerging professionals or outsiders
 - Ars Electronica Futurelab sought to create a **crossover event** where talents, creators, and innovators from various fields could convene and collaborate
 
-### Summary of an interview
+#### Summary of an interview
 
 - 未來創新者峰會（FIS）是一個創意智庫，每年在阿爾斯電子藝術節舉行
 - FIS 是日本廣告公司 Hakuhodo 與 Ars Electronica 之間的持續合作
@@ -38,12 +55,12 @@ https://ars.electronica.art/futurelab/en/projects-future-innovators-summit/
 - 導師在活動中發揮了重要作用，為創新者提供啟發和建議
 - 未來創新者峰會分為四天：啟動日、靈感日、研討會日和網絡日，最後公布創造性問題
 
-### 今年主題
+#### 今年主題
 I’m thrilled to inform you that today we’ve announced this year’s festival theme “Who owns the Truth?”, formulated as a question and aims directly at key disputed topics of our time: truth and ownership, interpretive authority, and sovereignty. Can truth be owned? Is there a right to truth and if it belongs to someone or something, what control and responsibility are associated with it?
 
 我很高興地告訴您，今天我們已經宣布了今年的節日主題 "誰擁有真相？"，以問題形式提出，直接針對我們時代的關鍵爭議話題：真相與擁有權、解釋權威和主權。真相能否被擁有？是否有真相的權利？如果真相屬於某人或某物，那麼它將承擔什麼樣的控制和責任？
 
-## Question to discuss
+#### Question to be discussed
 - What would be our suggested format?
 - Budgetary request for hosting a hackathon
 - What would our team look like? Individuals and potential roles?
@@ -164,7 +181,7 @@ I’m thrilled to inform you that today we’ve announced this year’s festival
     - Future innovator's summit
 - What questions do we have?
 
-## Action item
+#### Action item
 - Noah, Lucky to meet with AE next week
 - Add ael into loop
 - Lucky & Fang propose agenda, Noah to adjust based on jothon's feedback before Noah AE meeting
@@ -176,7 +193,7 @@ I’m thrilled to inform you that today we’ve announced this year’s festival
 
 ---
 
-## Agenda Design discussion
+#### Agenda Design discussion
 0423 15:00-17:00
 Participants: Lucky, Fang, ShuYang
 0428 11:00-12:00
@@ -187,13 +204,13 @@ Proposed Hackathon main topic: **If everything is a citizen**
 A three-day inclusive unconference hackathon with ritual performances about the topic as everyday opening and closing.
 * ritual performance is a way to embody the spirit of the main topic, also a way for all participants to co-create the collective bodies
 
-### Agenda
+#### Agenda
 * Participants registration, Project / Pecha-kucha registration
 * Day 1. Opening ritual performance, Check-in, Sharing, Project pitch, Participants self-intro, Group hacking (team up and hack), food night
 * Day 2. Opening ritual performance, Iteration (inspirational pecha-kucha, re-team up, keep hacking) , DJ Live
 * Day 3. Opening ritual performance, Iteration (keep hacking, sign up for project demo, project demo, quadratic voting, award) , Closing ritual performance
 
-### Sub-topics
+#### Sub-topics
 Short talks/projects from our side
 
 1. **Truth hack**（essence）- [Turtle Island](https://drive.google.com/file/d/1FP06ZbfF2Y428WZrIWZIt_WRcqlvq3_G/view?usp=share_link)（uncertainties holding/self-owning）lead by Lucky（avaialable）, [Cofact？](https://cofacts.tw/)
@@ -204,7 +221,7 @@ Short talks/projects from our side
 * we would like to design a truth chatbot (AI)  as a participant and note-taker to engage the truth deliberation for each hacking group
 
 
-### Budget : 65,000 EU
+#### Budget : 65,000 EU
 - **Personnel : 30,000 EU**
 10 ppl (6 core crew, 4 facilitators) each approx. 3000EU with travel (international and domestic), 7 days accommodation, insurance, per diem and work fee 
 
@@ -217,12 +234,12 @@ Juries(for pecha-kucha), DJ, rituals, sharings, 10 onsite staff, truth chatbot a
 - **miscellaneous expenditure : 2,000 EU**
 
 
-### To be discussed
+#### To be discussed
 1. Is g0v also responsible for marketing, website design, and documentation (text, photo, footage)?
 1. Will there be technical support, onsite crew, and other resources(projectors, tables, chairs...) from FIS?
 1. Will there be Ars Electronica and Hakuhodo team for this hackathon?
 
-### possible funding resources
+#### possible funding resources
 1. 文策院
 2. [臺灣文化光點計畫](https://www.moc.gov.tw/information_302_34271.html)—[駐奧地利代表處](https://www.mofa.gov.tw/OverseasOffice_Content.aspx?n=168&sms=87&s=57&os=47)：最高3萬鎂，確認這次無法申請（流程為前一年秋季提案，隔年執行）
 3. [外交部補助民間團體從事國際交流及活動補助](https://taiwanngo.tw/Post/82732)：小額10萬NTD內
@@ -235,7 +252,7 @@ Juries(for pecha-kucha), DJ, rituals, sharings, 10 onsite staff, truth chatbot a
 
 ---
 
-### 0523 AE回應：
+#### 0523 AE回應：
 Dear Noah, dear Lucky,
 Hoping you are doing well and please excuse my belated response as we are currently working on a rather huge project that takes up all time and resources.
 
@@ -272,7 +289,7 @@ Warm greetings,
 Christl
 
 
-### 0517 feedback from Lucky
+#### 0517 feedback from Lucky
 林茲的經費最後或許只能support核心規劃成員或有興趣的朋友前往的交通與住宿費，先讓有參加近兩次meeting的朋友們知道！依照這個發展方向，最近會跟林茲要官方邀請函，提供想要申請政府補助的朋友們申請資金與資源：
 
 國藝會
@@ -283,7 +300,7 @@ https://culture.gov.taipei/cp.aspx?n=8070EE8364CFE62F
 https://youthfirst.yda.gov.tw/index.php/subject/content/790
 
 
-### 0602 from Lucky
+#### 0602 from Lucky
 @channel 大家，由於現在AE的需求已經不是辦展，而是邀請g0v的一名facilitator帶領9/7-10共四天的工作坊，今晚會確認之後的坑主，技術上會有一些需求：
 
 1）將以g0v身分出席「Digital Deal Summit（working title」這個活動，希望是曾參與g0v運作或g0v專案的人（包括da0）
@@ -294,7 +311,7 @@ https://youthfirst.yda.gov.tw/index.php/subject/content/790
 @Vivian Chen，如果對這個坑有興趣的朋友，歡迎今晚上線參與討論，由於時間限制因素，我們今晚會確認坑主！
 
 
-### 0602 雙週例會
+#### 0602 雙週例會
 時間：2023/06/02 20:00-21:00
 地點：google meet 
 出席者：Ael、Fang、Vivian（訊息參與）
@@ -312,7 +329,7 @@ Lucky來繼續lead這個坑
 Lucky會撰寫企畫書、跟AE要官方邀請函。未來的雙週例會將改成有想要討論的事情才開，確定與AE合作會update、有能讓社群參與或contribute的部分會update及跟大家討論
 
 
-### 0706 Talking with Jovana(in charge of workshop)
+#### 0706 Talking with Jovana(in charge of workshop)
 時間：2023/07/06 16:00-17:00
 地點：google meet 
 目的：discuss further and in more details the structure of the workshop and the next steps. 
@@ -326,3 +343,6 @@ Lucky會撰寫企畫書、跟AE要官方邀請函。未來的雙週例會將改�
 2023 European Digital Deal 的頁面（WIP）
 https://ars.electronica.art/eudigitaldeal/en/
 https://ars.electronica.art/futurelab/de/projects-future-innovators-summit/
+
+2024 Lucky的過程紀錄與反思
+https://medium.com/@yunchengchen/2024%E8%B7%A8%E5%A2%83%E5%85%A8%E6%AD%90%E7%9A%8412%E5%80%8B%E8%97%9D%E8%A1%93%E9%A7%90%E6%9D%91open-call-%E5%BA%8F-edebdf74356e

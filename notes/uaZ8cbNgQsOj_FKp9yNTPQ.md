@@ -1,16 +1,16 @@
 ---
-title: 4-2 The Impact of East and South Asian Governments toward Civic Tech Development and the Relationship Between Them 
-tags: jothon, NDI
+title: 4-6 The Impact of East and South Asian Governments toward Civic Tech Development and the Relationship Between Them 
+tags: jothon, NDI, FNF
 ---
 :::success
 :book: Return to the homepage of the handbook: https://g0v.hackmd.io/@jothon/ctpbook_en
 
-"g0v Civic Tech Project & Community Handbook" is licensed under CC BY-NC.
+"Civic Tech Project & Community Handbook" is licensed under CC BY-NC.
 :::
 
-# 4-2 The Impact of East and South Asian Governments Toward Civic Tech Development and the Relationship Between Them｜g0v Civic Tech Project & Community Handbook
+# 4-6 The Impact of East and South Asian Governments Toward Civic Tech Development and the Relationship Between Them｜Civic Tech Project & Community Handbook
 
-### Chapter 4: Current Status of Civic Tech Projects and Communities in Other Asian Countries
+### Chapter 4: Current Status of Civic Tech Projects and Communities in Other Countries
 
 ## The Impact of East and South Asian Governments Toward Civic Tech Development and the Relationship Between Them 
 

@@ -15,7 +15,7 @@ tags: 開源出版
 - 試作「開源+出版」的實際歷程，藉此整理「**開源出版的執行步驟**」
 - 探討什麼樣的「**生態圈、激勵模式、市場設計**」，會鼓勵上述的實作與創作者？
 
-Find us here
+## Find us here
 - [首頁](https://g0v.hackmd.io/@jothon/content)
 - [討論區 g0v slack #open-content](https://g0v.hackmd.io/@jothon/joing0vslack) 
 
@@ -28,8 +28,8 @@ Find us here
 - [預計整理的 hackpad 內容](https://g0v.hackpad.tw/--SBFSdruovNE)[target=_blank]
 
 ## 工作區
-- [盤點：案例 - 特點 - 工具](https://g0v.hackmd.io/3ggyOHhFRRiM4q0RLyDSwQ)
+- [盤點：案例 - 特點 - 工具](https://g0v.hackmd.io/3ggyOHhFRRiM4q0RLyDSwQ?view)
 - [「開源+出版」的特點](https://g0v.hackmd.io/uIRsBftDQz2w7VUO4xrfgA?view)
-- [如何選擇工具？](https://g0v.hackmd.io/4-H0sHz5QHaV3Nd5BrYEKw)
-- [idea](https://g0v.hackmd.io/810vo5WFRyyqQ4ofbVMPwA)
+- [如何選擇工具？](https://g0v.hackmd.io/4-H0sHz5QHaV3Nd5BrYEKw?view)
+- [idea](https://g0v.hackmd.io/810vo5WFRyyqQ4ofbVMPwA?view)
 

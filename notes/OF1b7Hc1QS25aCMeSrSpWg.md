@@ -16,34 +16,7 @@ g0v 社群十年來以「開源模式」、「行動主義」、「公民精神�
 📍 [零時小學校 2020 成果手冊](https://drive.google.com/file/d/1rDerbtnV0Abk2QWRyRB_RTRDyKsvn48e/view)
 :::
 
-## 🔴 零時小學校年度活動（TBC）
-
-## 🔵 零時小學校歷屆行動者故事
-- 2020 年獲獎團隊
-    - [【幸福存摺】全台社福機構不孤單，幸福存摺用科技分享幸福](https://g0v.hackmd.io/3n_uK79FTra83HJDsySdzg)
-    - [【CoTeach 教案共享平臺】教育工作者的 Github 上線，共好的教案平台串起教師社群](https://g0v.hackmd.io/tfZ5n3UZRaafY3lqCAROjQ)
-    - [【CBFHSS 專為高中生設計的管家型聊天機器人】自己的教育科技自己做，高中生打造線上版聯絡簿](https://g0v.hackmd.io/zO93zgP8T0GW_lodRjLCNQ)
-    - [【CC0 繁體中文句庫】跨社群開放語音字庫國家隊，繁體中文 CC0 句庫，幫台灣蓋基礎建設](https://g0v.hackmd.io/65FIo7TYSayBaPowixRYvQ)
-    - [【識字題庫】程式打穩識字基本功，識字題庫讓老師出題不煩惱](https://g0v.hackmd.io/HTQ2Zc-dSPaUBk3fegCJZQ)
-    - [【島島阿學學習資源平台】學生老師共創學習資源平台，島島阿學開啟共學新時代](https://g0v.hackmd.io/e1dqRfDURmqpkwWc21N90g)
-
-- 2021 年獲獎團隊
-    - [【CourseAPI 開放式課程資訊匯流學院】找開放課程如大海撈針， 國中生發起 API 架構 整合分散的課程資訊](https://g0v.hackmd.io/kAACEm3cTB2ccCF9vFwJEQ)
-    -  [【眾生開眼_坪林尋怪地圖】怪奇生物加上開源魔法，幫坪林跟世界交朋友](https://g0v.hackmd.io/yszbWQX-Tpe5O4dn0tlkOA)
-    -  [【Sync Slide - 萬人演講零延遲】用簡報翻轉貧富， Sync Slide 打造知識分享去中心社群](https://g0v.hackmd.io/8ObFtqcLShaav6-mTL430g)
-    - [【公民天文學家互動式開源教材】天文博士與高中生共創教學社群，以開放資料成就宇宙之夢](https://g0v.hackmd.io/ulXygc48SByUb9nZTO2skw)
-    - [【有效率的尋找學習夥伴】玩社群、架系統，北中南東高中生串連幫你尋找學習夥伴](https://g0v.hackmd.io/x4SQLvtQRJCwV6i9VIM_yg)
-    - [【高中生 108 課綱教育資源整合平台】自建平臺、經驗傳承，偏鄉學生證明世界「沒有歹小孩」](https://g0v.hackmd.io/xudEQvSnRECYfJHBSFWxYw)
-
-- 2022 年獲獎團隊
-    - [【UniCourse 大學課程搜尋資料庫】不只是大學生選課救星，UniCourse 還要為你量身打造人生學習藍圖](https://g0v.hackmd.io/@jothon/HJ1lMKuAh)
-    - [【參考書推薦平台】選參考書的路不再漫長，高中生建平台找出最好升學用書](https://g0v.hackmd.io/@jothon/BJNGntOC3)
-    - [【Lipoic 來品一課】中學生領軍！立志成為師生最佳幫手的台灣版遠距教學系統](https://g0v.hackmd.io/@jothon/SJ4R0FuCh)
-    - [【平安走路許願帳戶–行人空間改善】以身作則做專案，生物老師創立熱門群眾標註平台](https://g0v.hackmd.io/@jothon/r13xe9_C2)
-    - [【長租剛好 - 永續租屋模式的市場研究】買房好難，就長租吧！租屋社群秉持開源精神，陪你度過租屋前的大小難關](https://g0v.hackmd.io/@jothon/r1R1bc_C3)
-
-## 🔴 社群與國際連結（TBC）
-## 🔵 關於我們<br>About Us
+## 🔴 關於我們<br>About Us
 
 ### [關於零時小學校](https://sch001.g0v.tw/)
 
@@ -55,7 +28,53 @@ g0v 社群十年來以「開源模式」、「行動主義」、「公民精神�
 
 ### [認識 g0v 社群<br>g0v community](https://g0v.hackmd.io/@jothon/rJRncDOhu)
 
-## 🔴 聯絡方式<br>Contact us
+## 🔵 零時小學校歷屆行動者故事
+- 專案孵化計畫_第一屆獲獎團隊
+    - [【幸福存摺】全台社福機構不孤單，幸福存摺用科技分享幸福](https://g0v.hackmd.io/3n_uK79FTra83HJDsySdzg)
+    - [【CoTeach 教案共享平臺】教育工作者的 Github 上線，共好的教案平台串起教師社群](https://g0v.hackmd.io/tfZ5n3UZRaafY3lqCAROjQ)
+    - [【CBFHSS 專為高中生設計的管家型聊天機器人】自己的教育科技自己做，高中生打造線上版聯絡簿](https://g0v.hackmd.io/zO93zgP8T0GW_lodRjLCNQ)
+    - [【CC0 繁體中文句庫】跨社群開放語音字庫國家隊，繁體中文 CC0 句庫，幫台灣蓋基礎建設](https://g0v.hackmd.io/65FIo7TYSayBaPowixRYvQ)
+    - [【識字題庫】程式打穩識字基本功，識字題庫讓老師出題不煩惱](https://g0v.hackmd.io/HTQ2Zc-dSPaUBk3fegCJZQ)
+    - [【島島阿學學習資源平台】學生老師共創學習資源平台，島島阿學開啟共學新時代](https://g0v.hackmd.io/e1dqRfDURmqpkwWc21N90g)
+
+- 專案孵化計畫_第二屆獲獎團隊
+    - [【CourseAPI 開放式課程資訊匯流學院】找開放課程如大海撈針， 國中生發起 API 架構 整合分散的課程資訊](https://g0v.hackmd.io/kAACEm3cTB2ccCF9vFwJEQ)
+    - [【眾生開眼_坪林尋怪地圖】怪奇生物加上開源魔法，幫坪林跟世界交朋友](https://g0v.hackmd.io/yszbWQX-Tpe5O4dn0tlkOA)
+    - [【Sync Slide - 萬人演講零延遲】用簡報翻轉貧富， Sync Slide 打造知識分享去中心社群](https://g0v.hackmd.io/8ObFtqcLShaav6-mTL430g)
+    - [【公民天文學家互動式開源教材】天文博士與高中生共創教學社群，以開放資料成就宇宙之夢](https://g0v.hackmd.io/ulXygc48SByUb9nZTO2skw)
+    - [【有效率的尋找學習夥伴】玩社群、架系統，北中南東高中生串連幫你尋找學習夥伴](https://g0v.hackmd.io/x4SQLvtQRJCwV6i9VIM_yg)
+    - [【高中生 108 課綱教育資源整合平台】自建平臺、經驗傳承，偏鄉學生證明世界「沒有歹小孩」](https://g0v.hackmd.io/xudEQvSnRECYfJHBSFWxYw)
+
+- 專案孵化計畫_第三屆獲獎團隊
+    - [【UniCourse 大學課程搜尋資料庫】不只是大學生選課救星，UniCourse 還要為你量身打造人生學習藍圖](https://g0v.hackmd.io/@jothon/HJ1lMKuAh)
+    - [【參考書推薦平台】選參考書的路不再漫長，高中生建平台找出最好升學用書](https://g0v.hackmd.io/@jothon/BJNGntOC3)
+    - [【Lipoic 來品一課】中學生領軍！立志成為師生最佳幫手的台灣版遠距教學系統](https://g0v.hackmd.io/@jothon/SJ4R0FuCh)
+    - [【平安走路許願帳戶–行人空間改善】以身作則做專案，生物老師創立熱門群眾標註平台](https://g0v.hackmd.io/@jothon/r13xe9_C2)
+    - [【長租剛好 - 永續租屋模式的市場研究】買房好難，就長租吧！租屋社群秉持開源精神，陪你度過租屋前的大小難關](https://g0v.hackmd.io/@jothon/r1R1bc_C3)
+
+- 專案孵化計畫_第四屆獲獎團隊
+    - [【Linux Odyssey】互動式終端機教學網站]()
+    - [【智能協同】輔協智能障礙者門市服務之混合實境技能訓練系統]()
+    - [【自學力 製學例】]()
+    - [【綠洲計畫 LZGH】]()
+    - [【Dev-in.tw】]()
+    - [【nonprofit-helper】會務 E 化小幫手]()
+    - [【Rep0rter】g0v 虛擬記者 - 每日 g0v 大小事資訊推播]()
+    - [【民防下午茶】 CD T-Time]()
+    - [【直覺物理 IntuiPhysics】開源的物理模擬專案]()
+    - [【BrainMate】]()
+    - [【FlowPath】探索學習的微光時刻]()
+
+- 繁體中文開源實踐計畫_獲選團隊
+    - [計畫整體成果介紹網站](https://g0v.hackmd.io/@jothon/AI-Grant/)
+    - [台灣語言模型競技場 Taiwan Chatbot Arena](https://g0v.hackmd.io/@jothon/SJlENRgeR0)
+    - [LegaL-Mind：智慧法律諮詢系統](https://g0v.hackmd.io/@jothon/SkU9g-xC0)
+    - [大量閱讀台灣研究的健康促進小幫手](https://g0v.hackmd.io/@jothon/H1glfM-RA)
+    - [建置定期更新的立委發言觀測儀表板與政治時事資料集](https://g0v.hackmd.io/@jothon/Byw8qzWC0)
+    - [台灣AI教學共創實驗室](https://g0v.hackmd.io/@jothon/S1xXaG-00)
+    - [台語自動分詞與詞性標記系統](https://g0v.hackmd.io/@jothon/B1eECfW0R)
+
+## 🔵 聯絡方式<br>Contact us
 - 主辦單位 g0v 零時政府揪松團 E-mail
     - jothon-organizers@g0v.tw
 - [g0v Slack](https://g0v-tw.slack.com)[target=_blank]

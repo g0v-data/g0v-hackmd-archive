@@ -1,14 +1,20 @@
 ---
 title: g0v hackath63n - 第陸拾參次公民科技園遊會黑客松
 tags: hackathon, 63th, 大松
-images: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2b8dbff2d397f7db2d8db39b54319774.png
+images: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_5ebea0e7408958b6c3e50e88dd861181.PNG
 ---
 {%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
 # g0v hackath63n - 第陸拾參次公民科技園遊會黑客松
 
-## 本次大松 hackfoldr：http://beta.hackfoldr.org/g0v-hackath63n
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_118f578da29cc9efbc75c99468f215a2.PNG)
 
-![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2b8dbff2d397f7db2d8db39b54319774.png)
+
+
+## 本次大松頁面
+### hackfoldr：http://beta.hackfoldr.org/g0v-hackath63n
+如果上面連結當機的話可以點擊：[**HackMD bookmode 頁面**](https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/BJA2QrsiR)
+
+
 
 
 :::warning
@@ -32,29 +38,30 @@ g0v 雙月黑客松開放大眾免費參與，歡迎個人、組織、企業加�
 ### 日期時間 Date and Time
 
 * **2024/09/29（日 Sun.）**
-* **09:30 - 18:00 UTC+8**
+* **09:30 - 17:20 UTC+8**
     * **09:00 開始報到 Venue will be open at 09:00**
 
 ### 地點 Venue
 
-- **臺北矽谷國際會議中心** 【主場地】2B＆2C
+- **臺北矽谷國際會議中心** 【主場地】2B【Hacking 場地】2C
 地址：[新北市新店區北新路三段223號](https://maps.app.goo.gl/xPdRY5D2UztdNvkS8)
 - **直播 Live broadcast**：TBA
 
 :::info
 ### :star: 場地 Wifi 
-* SSID：TBA
-* password:TBA
+* SSID：g0v hackathon 2C
+* password: 20240929
 :::
 
 ### 交通資訊 Transport
 
 :::success
-捷　　運：
-1. 搭捷運至大坪林站下車，1號出口，過馬路後經由42巷進入，或4號出口，順過馬路沿民權路或北新路往景美橋方向直行至台北矽谷大樓。
+**捷運**
+- 搭捷運至大坪林站下車，1號出口，過馬路後經由42巷進入，或4號出口，順過馬路沿民權路或北新路往景美橋方向直行至台北矽谷大樓。
+- 若您要搭乘捷運環狀線，從板橋站前往大坪林站，請注意「板新站、橋和站、中原站」均尚未通車，請參考 [來源圖片](https://maps.app.goo.gl/R4J4PHNTFcz9HdBW7)。
 
-開　　車
-台北矽谷二期大樓地下B3收費停車場，每小時40元（與會者可索取停車優惠券，單次160元）
+**開車**
+- 台北矽谷二期大樓地下B3收費停車場，每小時 40 元（與會者可索取停車優惠券，單次 160 元）
 :::
 
 ### Broadcast 即時資訊
@@ -130,7 +137,7 @@ If you encounter any unpleasant situations during the event, please feel free to
 |-------| ---- |
 |  ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_4679e9251355775749fb0ceb79c95a78.jpg =120x) | [g0v 零時政府揪松團](https://jothon.g0v.tw) g0v jothon task force |
 |![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_a40f024c96861345631fba19ad14820d.png =120x)|g0v 零時小學校 繁體中文AI開源實踐計畫|
-|![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_c4564ce710b00c9429bd648d849eb830.png =120x)|弗里德里希諾曼自由基金會|
+|![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_45aeb21dd79d5127031a54e1c5e4ed96.jpg =120x)|FNF Global Innovation Hub 弗里德里希諾曼自由基金會 全球創新中心|
 |![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_1fd10825768992417be005f3ef12f3b1.jpg =120x)|農業部農村發展及水土保持署|
 |![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_913c1363b539603fbe78012bc31c1b9e.jpg =120x)|財團法人農業科技研究院|
 g0v 零時政府揪松團（g0v jothon）是主辦 g0v 百人大黑客松與基礎松的工作小組（task force），2012 年底開始舉辦雙月大松，2014 年後正式取名為「揪松團」，並於 2016 年開始招募正職員工，重啟社群基礎建設計畫，希望在大黑客松之餘，讓線上與線下的跨界協作更為順暢。
@@ -149,7 +156,7 @@ g0v 零時政府揪松團（g0v jothon）是主辦 g0v 百人大黑客松與基�
 
 |                                                        Logo                                                        | 名稱                                                             | 合作項目 Sponsorship |
 |:------------------------------------------------------------------------------------------------------------------:| ---------------------------------------------------------------- | -------- |
-|       ![](https://presskit.hackmd.io/Logo/PNG/HackMD_LOGO_slogan.png =320x)       | [HackMD](https://g0v.hackmd.io/)                                 | 指定筆記 Online Note Partner |
+|![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8774cce098d8392443620fcc60a446ef.png =320x) | [HackMD](https://g0v.hackmd.io/)                                 | 指定筆記 Online Note Partner |
 |![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_28cd47f9caa7866fcba95a4fc3c2aa98.png =320x)|[開拓文教基金會](https://www.frontier.org.tw/blog/)| AI Grant 合作單位|
 
 

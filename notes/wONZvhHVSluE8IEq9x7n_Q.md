@@ -39,7 +39,27 @@ https://g0v.hackmd.io/xl7YbrcTRECluGKK_HGo6Q
 
 ---
 
-## [g0v 專案百花齊放專區] 歡迎專案自由分享六月份訊息
+## [g0v 專案百花齊放專區] 歡迎專案自由分享七月份訊息
+
+### Collage 空間願景拼貼工具網頁
+
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_34570778d7e1ec7539989c5fc0dd8944.gif)
+
+:::warning
+任翔建置的網頁工具：https://collage.collective.tw/#
+GitHub：https://github.com/SeanGau/city-collage
+大松提案影片：https://youtu.be/_RfDuPrq9tU
+:hole: 現在就入坑 #joinplus
+:::
+
+歡迎來跳坑～
+- 一、來使用網頁創作總統府前廣場的改造願景！
+- 二、有沒有什麼「物件」，你覺得也需要放到素材庫？
+    - 靜態 png
+    - 動態 gif
+- 三、程式功能開發
+    - 例如 畫出點線面，填入圖片，來作為「表達建立一片草地」的使用情境
+- 四、歡迎加入頻道 #joinplus-關注公民參與的數位工具 
 
 
 ### Cofacts 真的假的
@@ -75,6 +95,10 @@ https://g0v.hackmd.io/xl7YbrcTRECluGKK_HGo6Q
 :::
 
 vTaiwan 社群從英國回來拉！目前正在積極開展新的專案，從博愛座、開放國會與其他議題切入，同時也努力更新小聚形式，希望以「小小的分享」，讓 vTaiwan 小聚成為讓大家討論數位民主與公共參與的重要場域！
+
+vTaiwan 目前也開啟了兩個專案，一個是調查與分析各國的數位公共參與工具，另一個則是建立一個定期性的議題小聚，詳情可以參考以下共筆：
+[數位公共參與工具比較協作共筆](/@Pno233SAS8G5UfL5OvSRmA/SkXZk8UdR/%2FtLkFGP2QSMOjQijxYsg7yA)
+[vTaiwan議題小聚](/GUe0KXMsQBC-6KTIUPBVnA)
 
 
 ### Rentea

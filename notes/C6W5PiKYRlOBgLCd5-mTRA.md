@@ -1,4 +1,5 @@
 # g0v 揪松團 松前哈拉
+- [第肆拾次 2024/11/22](https://g0v.hackmd.io/@jothon/-g0v-Community-Hangout-40th)
 - [第參拾玖次 2024/9/27](https://g0v.hackmd.io/@jothon/-g0v-Community-Hangout-39th)
 - [第參拾捌次 2024/7/19](https://g0v.hackmd.io/@jothon/-g0v-Community-Hangout-38th)
 - [第參拾柒次 2024/3/1](https://g0v.hackmd.io/@jothon/-g0v-Community-Hangout-37th)

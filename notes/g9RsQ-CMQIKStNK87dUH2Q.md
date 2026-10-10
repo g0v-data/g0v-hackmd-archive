@@ -5,19 +5,54 @@ tags: ngo
 [文件首頁](https://g0v.hackmd.io/@jothon/ngo/)
 :::
 
-# 伴手禮指南
+# 伴手禮指南 / 交流贈禮經驗
 
 :::success
-筆記方式發想
+筆記方式
 - (1) 前往各國可攜帶的伴手禮，如特別針對美國西岸、泰國清邁、德國柏林的交流情境 
-- (2) 推薦可以買回來的伴手禮，請註記出訪地點
+- (2) 對方來台交流，送禮與收禮 經驗分享
+- (3) 推薦可以買回來的伴手禮，請註記出訪地點
+- 也歡迎註記「送禮對象」的特質特點
 :::
 
-## 等待分類整理區
+## 來台交流情境
 
-- 【帶出國】討論串 https://www.facebook.com/clkao/posts/pfbid02o8B2RiAcHLcSvmxZnRqjnqHgqvCimWfjagANxEtX4Z1GuUgjsHZgeQWtxxz7BYqul
+送禮
+- g0v 棒球帽
+- Nobody 拖鞋
+- g0v Summit 啤酒杯
+- 202601xx 送禮日本鹿兒島縣公務同仁參訪團
+    - 金門、馬祖 酒香風味咖啡濾掛包
+    - 馬祖醬油
+- 20250117 送禮日本鹿兒島縣町長們
+    - 日文版 公民科技專案與社群手冊
+    - 馬祖地瓜燒酒，因為鹿兒島縣包含許多島嶼，馬祖經驗可以對照
+- 20250119 日本推動數位民主工具團隊
+    - 選購圖像為主的書籍：臺灣新文化運動的時空探險 WEI SHUI’S ADVENTURE、公民行動指南、誰能代表我-人間魚詩生活誌特刊、[街擬街擬](https://www.facebook.com/share/18g8xCxtDr/)
 
-## 日本京都
+受贈經驗
+- 東京都人員來訪，贈送 小電腦組裝套件組
+
+## 島內 (收禮者不需跨國移動)
+
+島嶼形狀餅乾鐵盒
+https://www.facebook.com/share/1AUuiwk9CU/
+
+
+## 出國交流情境
+
+【帶出國】討論串 
+- https://www.facebook.com/clkao/posts/pfbid02o8B2RiAcHLcSvmxZnRqjnqHgqvCimWfjagANxEtX4Z1GuUgjsHZgeQWtxxz7BYqul
+- 有沒有適合給飛機鐵路上的哭泣嬰兒孩童的物品？
+- 有沒有適合在旅途中，分享給兒童與青年的禮物？
+    - 臺灣紙幣+外包裝簡介，有這種東西嗎？
+
+【寄出國】
+- 菓實日動物餅乾，可以直接寄送到國外，詢問 小夏 寄送經驗
+
+## 買回國的伴手禮
+
+### 日本京都
 - 【買回來】茶の菓：京都 北山 マールブランシュ
   - :::spoiler
     - 很貴但真的很好吃，UNIGF 會議指定甜點，日本總務省連續買了兩三天請現場與會者吃
@@ -32,7 +67,7 @@ tags: ngo
             - 飛機起飛前一個半小時才搭上把我載到關西空港的 HARUKA 關空特急（Hello Kitty 塗裝）
             - 一度以為要改票了:::
 
-## 美國西岸
+### 美國西岸
 - 【買回來】Ghirardelli chocolate
     - originally founded in San Francisco 
     - one of affoardable local products

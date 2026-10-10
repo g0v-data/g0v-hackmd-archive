@@ -62,8 +62,12 @@ description: 「g0v 社群每月九分鐘」是 g0v 揪松團發起的分享文�
 :::
 
 ### vTaiwan
+vTaiwan 目前開啟了兩個專案，一個是調查與分析各國的數位公共參與工具，另一個則是建立一個定期性的議題小聚，詳情可以參考以下共筆：
+[數位公共參與工具比較協作共筆](/@Pno233SAS8G5UfL5OvSRmA/SkXZk8UdR/%2FtLkFGP2QSMOjQijxYsg7yA)
+[vTaiwan議題小聚](/GUe0KXMsQBC-6KTIUPBVnA)
 
-
+vTaiwan 也在 8/14 舉辦英國回來後的分享會！詳情可以參考：
+[TICTeC 會後分享會討論共筆](/HPEzI1kcTLGLw14HhOxbmw)
 
 :::success
 :hole: 現在就入坑 #vTaiwan @peter @eli
@@ -71,7 +75,14 @@ description: 「g0v 社群每月九分鐘」是 g0v 揪松團發起的分享文�
 專案相關網站：https://vtaiwan.tw 
 :::
 
+### Collage 空間願景繪製網頁工具
 
+感謝任翔開發 ! Collage 繪製工具的底圖，可以選擇全球 Google 街景照片了 ! 🌐📷
+https://collage.collective.tw/#
+
+歡迎加入討論社團：https://www.facebook.com/share/v/Z1R95A7z2STsfWuc/
+
+一起測試 手機或平板裝置開啟網頁，操作順利度回報
 
 ### Rentea
 
@@ -138,11 +149,62 @@ Discord 溝通平台：https://discord.gg/WeTGs42tRF
 
 ### 零時小學校
 
+### 繁體中文 AI 開源實踐計畫
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0b3ca7ca2a2c4de237ed45dee698a0ca.png)
 
+g0v 零時小學校「繁體中文 AI 開源實踐計畫」邀請所有關注 GenAI 的夥伴，
+一起探索生成式 AI 的應用經驗，以及開源生態系對於臺灣的重要性！
 
-### 2024 源力增能營始業式
+🌟 上午｜AI 應用與開源生態系 論壇 
+🔸 台灣人工智慧學校秘書長 侯宜秀 (Isabel Hou) 
+🔸 MediaTek Research 聯發創新基地負責人 許大山 博士 
+🔸 國立高雄大學資工系 吳俊興 副教授 
+🔸 中央研究院資訊所 陳伶志 研究員 
+🔸 國立中央大學資工系 蔡宗翰 教授 
+🔸 卓騰語言科技創辦人 王文傑 (Peter Wolf) 
+🔸 Generative AI 社群與李慕約有限公司 李慕約 創辦人
 
+💡 下午｜繁體中文 AI 開源實踐計畫成果發表
+1️⃣ 台灣語言模型競技場 Taiwan Chatbot Arena 
+2️⃣ LegaL-Mind：智慧法律諮詢系統 
+3️⃣ 大量閱讀台灣研究的健康促進小幫手 
+4️⃣ 建置定期更新的立委發言觀測儀表板與政治時事資料集 
+5️⃣ 台灣AI教學共創實驗室 
+6️⃣ 台語自動分詞與詞性標記系統
 
+* 計畫網站：https://sch001.g0v.tw/means/
+* Hugging Face：https://huggingface.co/aigrant
+* 成果發表會直播影片：https://youtube.com/playlist?list=PLdwQWxpS513CYIfSY_LTHEMuVi07ci0BN&feature=shared 
+
+:::success
+**📅 活動詳細資訊**
+活動時間：8/3 週六 10:00-16:00（分為三個場次）
+活動地點：國立臺灣科技大學 TR 611 研揚大樓六樓
+更多資訊：https://g0v.hackmd.io/@jothon/AI_Grant_20240803
+活動成果頁面：https://www.frontier.org.tw/blog2/%e7%b9%81%e9%ab%94%e4%b8%ad%e6%96%87ai%e9%96%8b%e6%ba%90%e5%af%a6%e8%b8%90%e8%a8%88%e7%95%ab%e6%88%90%e6%9e%9c%e7%99%bc%e8%a1%a8%ef%bc%8d%ef%bc%8d%e5%bb%ba%e7%bd%ae%e6%9c%ac%e5%9c%9f%e9%96%8b%e6%ba%90/
+:::
+
+### 提案工作坊 x 源力增能營結業式
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_f1275d0cc9903391ae432470e83a6eed.png)
+
+在上周六 8/31 零時小學校與臺大堉璘計畫：拉人更輕鬆專案同學們一同舉辦的提案工作坊中，十多位參與者共同認識了 g0v 社群與開源文化，也邀請島島阿學與 Bookish 兩個專案的成員分享他們參與社群和推動專案的經驗。
+
+活動的尾聲，參與者們一起練習發想與明確化問題，也分享了在大松中提案的流程與了解社群可以使用的工具等等。
+
+你有希望能讓更多人關心並投入的議題嗎？了解了 g0v 過往的專案之後，你也想在未來參與其中嗎？歡迎大家一同到 9/29 g0v 第 63 次公民科技園遊會黑客松發揮你的想法和專長！
+
+未來拉人更輕鬆專案也會持續舉辦專案經驗的分享會，敬請期待！
+
+最後也想邀請參與本次工作坊的夥伴填寫回饋問卷，分享你對這次活動的建議與回饋！
+
+:::success
+**【工作坊資訊】**
+🕒 時間：8/31（六） 13:00 - 16:00
+📍 場地：NPO HUB TAIPEI 四樓社群廚房（台北市中正區重慶南路三段2號4樓）
+🔗 活動資訊＆報名連結：https://g0v.hackmd.io/@jothon/H1_B6j-9R 
+🔗 **回饋問卷連結：https://forms.gle/M4Yf5RBuXHgdt5ss9**
+🔗 活動筆記：https://g0v.hackmd.io/@jothon/H1_B6j-9R 
+:::
 ---
 
 :::success

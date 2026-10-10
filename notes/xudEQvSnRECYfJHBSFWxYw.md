@@ -24,10 +24,11 @@ Organize school resources, academic activities, and use social media propaganda,
 :::success
 
 * 提案連結：https://sch001.g0v.tw/dash/prj/3Cyfkt0EDc05-70AJd02ny2Yt
-* 專案網站：https://sites.google.com/nycu.edu.tw/sch001-108platform
+* 專案網站：https://thc1006.github.io/sch001-108platform/
 * 專案開源：MIT License
     * 開源資料：https://github.com/thc1006/sch001-108platform
 * 團隊成員：蔡秀吉（@Alex(秀吉)）、吳恩恩、吳宜樺、游蕙伃
+* 專案介紹影片：https://youtu.be/BxKFVSTmiYI
 
 
 :::

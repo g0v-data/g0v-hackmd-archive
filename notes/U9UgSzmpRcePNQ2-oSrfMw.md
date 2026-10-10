@@ -75,7 +75,15 @@ tags: summit2024
     - [提案記錄](https://docs.google.com/spreadsheets/d/1H4-XxanyDrIOm9UBxqlLQg1rggWZ7QcKJX5crTy5hCk/edit#gid=1889179789)
 - [第參次小松](https://g0v.hackmd.io/6e06MbQuSkGxQpvKzMBIBQ?view#85-Summit-%E7%AC%AC%E5%8F%83%E6%AC%A1%E5%B0%8F%E6%9D%BE)
     - [提案記錄](https://docs.google.com/spreadsheets/d/1H4-XxanyDrIOm9UBxqlLQg1rggWZ7QcKJX5crTy5hCk/edit#gid=699351638)
- 
+- [Day 1 覆盤](https://g0v.hackmd.io/bhF1pAe8SlW8v8ZLEU4MaQ)
+
+## 會後活動
+
+- [檢討會](/m1675Di0QP20jQTJdO1WqQ)
+- 帳務
+- [紀念品庫存販售](/JXeFGfs3QTixAj0qBqRt7Q)
+- 會後大松
+
 ## 👉跳坑專區
 
 - [g0v Summit 2024 組別 + 跳坑](https://g0v.hackmd.io/dttYgGq1SmqCCp4ZntffZw)

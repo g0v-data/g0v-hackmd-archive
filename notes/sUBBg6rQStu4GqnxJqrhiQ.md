@@ -4,10 +4,18 @@ tags: edu
 # 公民科技專案與 108 課綱對照表
 
 :::success
-* [公民科技專案與108 課綱對照表連結](https://airtable.com/invite/l?inviteId=invNRg7NNnjGE4JDB&inviteToken=f56ae55b4ff4bb9ce496d3b38c6935ac84a60d81c8e1b0c72c9da2effd93f41e&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)
+## 瀏覽網址：公民科技專案與108 課綱對照表
+https://airtable.com/appdbeLq7SJxJFZ3L/shrBLGsn7o4tbyoD7
+:::
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/appdbeLq7SJxJFZ3L/shrBLGsn7o4tbyoD7" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+:::info
+* [編輯網址：公民科技專案與108 課綱對照表](https://airtable.com/invite/l?inviteId=invNRg7NNnjGE4JDB&inviteToken=f56ae55b4ff4bb9ce496d3b38c6935ac84a60d81c8e1b0c72c9da2effd93f41e&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)
 * 「[零時小學校](https://sch001.g0v.tw/)」為開源專案，專案內容、討論過程及其成果將以[姓名標示 4.0 國際 (CC BY 4.0) ](https://creativecommons.org/licenses/by/4.0/deed.zh_TW)授權條款釋出。
 :::
+
+---
 
 讓專案與教育工作者更好理解專案與教育的關聯性，以及如何直接在 108 課綱下的教學現場使用，零時小學校以 airtable 整理一份對照表，歡迎大家一同協作，也歡迎分享。
 - For 教育工作者：
@@ -16,10 +24,14 @@ tags: edu
 - For 專案團隊：
 希望能讓想要將專案做教育推廣的團隊更清楚自身專案具有何種教育內涵，因此以 108 課綱的細項提供參考，讓專案團隊可以自行連結，並更清楚對教育工作者闡述與 108 課綱的關聯。
 
+# 文件工作區
+
 ## 一、待修正：
 * 公民科技專案對應項目需要再整理一次
 * 公民科技專案介紹待補充
 * 編輯權限？？？若只有五個人可編輯，要如何協作比較合適
+* 20250308 SITCON 開放式議程，有討論此對照表的調整方向
+    * 議程共筆：https://hackmd.io/MJw8iyS9TSaQ7Sfi83umJw?view
 
 ## 二、協作方式與使用守則：
 

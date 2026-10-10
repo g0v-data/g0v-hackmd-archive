@@ -12,7 +12,7 @@ tags: jothon
 - [憲法 相關 g0v 專案](https://g0v.hackmd.io/OXnIawrLS-uCQFwygecIOQ?view)
     - 歡迎加入 g0v Slack 頻道 #law
 - [立法院 相關 g0v 專案與倡議](https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/SJ93ZW5XR/%2Faa3ckptzS-CKinhmKCO7rA)
-    - 歡迎加入 g0v Slack 頻道 #tw-ly-and-council
+    - 歡迎加入 g0v Slack 頻道 #ly
 - [監察院 相關 g0v 專案與倡議](https://g0v.hackmd.io/uYUazeopQK6pHUBTQAQihw?view)
     - 歡迎加入 g0v Slack 頻道 #open-moneyflow
 - [司法院 相關 g0v 專案與倡議](https://g0v.hackmd.io/YvaGSJo9QO2wH9ZaqvBUoQ?view)

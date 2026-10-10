@@ -9,6 +9,12 @@ tags: 採訪共筆,g0v,interview
 
 ## 過往採訪共筆
 
+### 與 g0v 社群參與者相關的影片拍攝、紀錄片拍攝
+- [與 g0v 社群參與者相關的影片拍攝、紀錄片拍攝](https://g0v.hackmd.io/@chewei/SJndN7dTB)
+
+### 2026
+- [3/16 Questions from Magdaline Boutros _ 採訪交流](https://g0v.hackmd.io/obKWdY0EQ5GvUehDV5Vv8Q?view)
+
 ### 2021
 - [3 月 Questions to understand the stories of g0v contributors](https://hackmd.io/@detien/g0v)
 - [8 月 NHK《BS1 Special: Corona Shift》](https://g0v.hackmd.io/@jothon/BJM_EWpgK)

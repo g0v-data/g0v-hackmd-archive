@@ -2,7 +2,7 @@
 tags: 救松
 ---
 
-# 募款推廣 + 展覽與講座
+# 展覽與講座，推廣募款
 
 :::warning
 - 跳坑簽到：chewei, Teemo
@@ -38,6 +38,8 @@ tags: 救松
 
 ### 展場條件說明
 - 地點：臺北市中山地下街第四廣場
+- 申請方式：市民服務大平台 [https://service.gov.taipei/Case/ApplyWay/201907180077](https://)
+- 聯繫窗口：02-25505600轉3228宋先生
 - 場地：
     - 照片：https://photos.app.goo.gl/VaQD52gVgSJvZspt8
     - 平面圖：https://www.metro.taipei/News_Content.aspx?n=320CF0D294FF9489&s=3613243DDE849631

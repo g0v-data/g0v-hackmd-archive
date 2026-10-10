@@ -27,6 +27,9 @@ g0v 零時政府揪松團是 g0v 社群的工作小組之一，負責籌辦 g0v 
 
 ### 關於主持人 About Moderator
 
+![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_8b79afe030578e334cd7d7df74d87cd3.jpg)
+#### Peter 
+三個關鍵字：vTaiwan 還沒畢業的研究生、最近在碰審議的東東
 
 ## 聊聊事項 Chatting Topic
 ### 大松提醒
@@ -60,6 +63,14 @@ g0v 雙月黑客松開放大眾免費參與，歡迎個人、組織、企業加�
 - **新手導覽(1-2人)** 於新手導覽期間（13:10 開始），帶著新參者了解 g0v、了解各專案的內容＆目標，一起建立新手友善的大松！
 :::
 ## 與會簽到與三個關鍵字 Sign & 3 keywords
+- Peter （我的在上面XD）
+- Arthur 電腦圖學 工程師
+- Kapibara 新聞 人類學 之前參加過一次大松
+- Yvonne 學生 web3 拉人更輕鬆
+- Luphia 嘴炮 肥宅 中年大叔
+- 翊偉Ian 工程師 雲端 數位皮夾 雙寶爸
+- Ronny 工程師 立法院資料 國會松
+- David 工程師 科技人 雙寶爸
 
 
 ## 本次大松的提案小筆記 Proposal's note for Hackathon

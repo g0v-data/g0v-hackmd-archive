@@ -66,6 +66,17 @@ canvas https://www.canva.com/zh_tw/
 - 銅版紙，用筆書寫，會有刺耳聲音
 * 2023 印製大松名牌：映畫紙 290g（龍年賀卡同此材質）
 
+## 綜合
+
+這篇提到 多家廠商，應該都是有口碑的
+- https://www.facebook.com/share/p/162GQ2Pum7/
+
+
+- SL 推薦> 宏信數位有限公司 https://maps.app.goo.gl/qNUpnn62w3C7z9hV9
+
+## 報紙材質
+
+- 品墨良行
 
 ---
 
@@ -80,3 +91,8 @@ canvas https://www.canva.com/zh_tw/
 chewei> 百方十全能廣告
 理由：關東旗印製一年後，黑色墨蔓延出繡色
 照片：https://g0v-slack-archive.g0v.ronny.tw/index/channel/C024NAMF0CV/2023-07
+
+
+## 開源出版
+
+https://g0v.hackmd.io/uIRsBftDQz2w7VUO4xrfgA?view

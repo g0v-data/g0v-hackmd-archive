@@ -1,8 +1,8 @@
 ---
-tags: AI, edu
+tags: AI, edu, jothon
 ---
 
-# 語言盤點
+# 盤點語言專案
 
 2024.07 開始把內容整理到 Airtable
 - 工作文件

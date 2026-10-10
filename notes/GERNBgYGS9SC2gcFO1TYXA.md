@@ -1,0 +1,51 @@
+---
+tags: jothon, 
+---
+
+# g0v 第柒拾參次<br>動手自造黑客松<br>Braiding our Future<br>Hackath73n
+
+- [What is a g0v hackathon ?<br>什麼是 g0v 黑客松？](https://g0v.hackmd.io/KvzHayP4SPqXRhtrn2QH0w?view)
+- [g0v Code of Conduct (CoC)<br>g0v 行為守則](https://g0v.hackmd.io/s/COC)
+
+## Event Info<br>[UTC+8] 2026/05/31<br>Sun. 10:30-17:30<br>@Taipei
+
+- [Run-down / Projects<br>活動流程與專案清單](https://docs.google.com/spreadsheets/d/1rZbipCSsbzQs2OoeCrWapxWz2SyI6fgu_kS2vKLRUek/edit?usp=sharing)
+- [Live stream on YouTube<br>活動直播](https://www.youtube.com/g0vTW)[target=_blank]
+- [g0v Slack Registration Tutorial<br>加入 g0v Slack 聊天頻道](https://g0v.hackmd.io/@jothon/joing0vslack)
+- [Tainan Venue Registration<br>台北場地的報名網址](https://g0v-jothon.kktix.cc/events/g0v-hackath73n)[target=_blank]
+- [零世代青年專案資金池<br>Generation Zero Vestment](https://g0v.hackmd.io/@jothon/Generation_Zero_Vestment)
+- [本次大松合作單位與貢獻者<br>Contributors & Donors](https://g0v.hackmd.io/msOc-1-ZTnGCHJys5Z45Vg?view)
+
+## 零時小學校｜課程｜專案孵化
+- [源力增能季 66 堂<br>🌟 免費開放式課程<br>涵蓋 AI．公民科技．專案實作](https://g0v-jothon.kktix.cc/events/sch001ssr2025)[target=_blank]
+- [專案孵化計畫 🌟 10 組團隊介紹](https://g0v.hackmd.io/@jothon/nest/)[target=_blank]
+
+## Join g0v Community
+
+- [g0v Manifesto 宣言<br>English French Deutsch<br>正體中文 日本語 Español](https://g0v.tw/intl/zh-TW/manifesto/en/)
+- [g0v Slack Registration Tutorial<br>加入 g0v Slack 聊天頻道](https://g0v.hackmd.io/@jothon/joing0vslack)
+- [g0v Slack Channel List<br>頻道列表](https://g0v.hackmd.io/NuhdUaTVRNykTqcstpM8VQ?view)
+- [註冊 g0v HackMD ](https://g0v.hackmd.io/join?code=jothon)
+- [🔔 Event Info<br>大松小松活動訊息不漏接](https://g0v.hackmd.io/@jothon/event)
+
+## Find Project 
+
+- [GitHub](https://github.com/g0v/awesome-g0v)[target=_blank]
+- [Crowdsourcing Project / Task](https://g0v.hackmd.io/@jothon/task)
+- [來幫下一場 g0v 黑客松取名子+投票](https://g0v.hackmd.io/@jothon/hackathon-name)[target=_blank]
+- [900+ 次提案 / 搜尋介面](https://chunyenhuang.github.io/awesome-g0v-projects/#/)
+- [200+ 個專案 / 連結](https://sheet2site.com/api/v3/index.php?key=1Qm1u2kRpqEtWAHyQJWMFf0NKPx0HMOhb8uBDbLfUKoM)[target=_blank]
+- [200+ 個專案<br>20 個影響力類別的分布圓餅圖](https://app.awesome-table.com/-MnVz4_I6B5OzsFZUcaq/view)
+- [200+ 個專案<br>依照憲政五院部會架構](https://g0v.hackmd.io/@jothon/forms-of-government/)[target=_blank]
+- [專案圖鑑 - 用簡報方式製作各個專案的介紹頁面](https://docs.google.com/presentation/d/1S4rWtCGAe99Vy_bLd6CjuHtAdrCYzN1k7TqhIrG-u5g/edit#slide=id.g19bfd91926b_0_3)
+- [數位解方策略及工具推薦 / 揉合公民權的公民科技專案策略](https://docs.google.com/spreadsheets/d/1P1sCLPAQP9hUwMFVGzneg9lAIFLoYe_arsmgdUy23FA/edit)
+
+## g0v Civic Tech Project & Community Handbook
+
+- [English version](https://g0v.hackmd.io/@jothon/ctpbook_en/)[target=_blank]
+- [日本語](https://g0v.hackmd.io/@jothon/ctpbook_jp)[target=_blank]
+- [繁體中文版](https://g0v.hackmd.io/@jothon/ctpbook)[target=_blank]
+
+## Follow g0v Jothon 追蹤 揪松團<br>掌握大松小松活動資訊
+
+- [g0v Jothon](https://linktr.ee/g0vjothon)[target=_blank]

@@ -1,7 +1,14 @@
 ---
-title: g0v 揪松團 2024 年活動行事曆
 tags: jothon
 ---
+
+# 最新活動資訊請至以下網址
+
+## https://g0v.hackmd.io/@jothon/event
+
+---
+
+:::spoiler 過往資料
 
 # g0v 揪松團 2024 年活動行事曆
 
@@ -18,9 +25,9 @@ tags: jothon
 | 六 JUN   |       |     | [6/4 第貳次放輕松](https://g0v.hackmd.io/@tofus/rand0mth0n)    |
 | 七 JUL   | [7/20 g0v Hackath62n](https://beta.hackfoldr.org/g0v-hackath62n/) 中研院資訊所|     |     |
 | 八 AUG   |       |     | 8/17-18 Facing the Ocean 2024 橫濱 |
-| 九 SEP   | [9/29 g0v Hackath63n](https://beta.hackfoldr.org/g0v-hackath63n/) 新北（暫定） |     |     |
+| 九 SEP   | [9/29 g0v Hackath63n](https://beta.hackfoldr.org/g0v-hackath63n/) 新北|     |     |
 | 十 OCT   |       |     |     |
-| 十一 NOV | [11/9 g0v Hackath64n](https://beta.hackfoldr.org/g0v-hackath64n/) |     |     |
+| 十一 NOV | [11/23 g0v Hackath64n](https://beta.hackfoldr.org/g0v-hackath64n/) |     |     |
 | 十二 DEC |       |     |     |
 
 ## 2024/1
@@ -71,7 +78,7 @@ tags: jothon
 ## 2024/9
 ### 9/- g0v Hackath63n
 - 時間：2024/9/-（六）
-- 地點：
+- 地點：台北矽谷國際會議中心
 - 共筆：https://beta.hackfoldr.org/g0v-hackath63n/
 
 
@@ -83,8 +90,8 @@ tags: jothon
 
 ## 2024/11
 ### 11/- g0v Hackath64n
-- 時間：2024/11/-（六）
-- 地點：
+- 時間：2024/11/23（六）
+- 地點：中央研究院資訊所（台北市南港區研究院路 2 段 128 號）
 - 共筆：https://beta.hackfoldr.org/g0v-hackath64n/
 
 

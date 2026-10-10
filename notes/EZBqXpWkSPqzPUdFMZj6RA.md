@@ -12,7 +12,7 @@ tags: jothon, NDI
 
 #### CC BY-NC © g0v Jothon & Contributors
 
-#### Contributors: Isabel Hou, ipa, clkao, kirby, chewei, ronny, ky, Chihao, Ying, Analeigh, Tiff, Yi, fisher小渝, Nick, ichieh, Sophia, bil, tofus, Peter, Maung, Huong, Denny, Sam, Yan, Linus, Jason, Jaala, Facing the Ocean, Code for Korea, Code for Japan, g0v contributors
+#### Contributors: Isabel Hou, ipa, clkao, kirby, chewei, ronny, ky, Tiff, Ying, Analeigh, Yi, Chihao, fisher小渝, pm5, Nick, ichieh, Sophia, bil, tofus, Peter, Maung, Huong, Denny, Sam, Yan, Linus, Jason, Jaala, Jimmy, Facing the Ocean, Code for Korea, Code for Japan, Open Knowledge Foundation Germany, Sonja, Saya, FNF Global Innovation Hub, Yueh Chen, Tzu-Chin Chang, Ya-wei Chou, g0v contributors
 #### Curators: Isabel Hou, chewei, g0v Jothon
 #### Publisher: g0v Jothon
 #### Sponsor: National Democratic Institute for International Affairs (NDI)
