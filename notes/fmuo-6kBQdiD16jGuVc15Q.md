@@ -1,0 +1,2 @@
+[HP66](https://hp66.social/) là nền tảng giải trí trực tuyến hướng đến trải nghiệm tiện lợi với giao diện hiện đại, bố cục rõ ràng và hệ thống danh mục phong phú. Người dùng có thể dễ dàng tìm kiếm thông tin, khám phá các chuyên mục và truy cập website trên cả máy tính lẫn điện thoại.
+Website: [https://hp66.social/](https://hp66.social/)
