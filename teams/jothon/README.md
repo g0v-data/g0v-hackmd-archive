@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 社群小松果 🌰 🐿️ | 2026-10-10T10:42:05+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-09T15:33:27+00:00 | View mode |
 | [B17hjPWufg](../../notes/zlgYN4KdR_a4bsOVPdOr1w.md) | 社群小聚｜臺中 | 2026-10-08T19:10:47+00:00 | View mode |
 | [ByV45GdcZe](../../notes/LvivQwz1TT20JqfRA-U0sQ.md) | 社群小聚｜台東 | 2026-10-08T14:47:49+00:00 | View mode |
@@ -14,7 +15,6 @@
 | [rJ2tUiXjee](../../notes/sYm-3TeaSD-M1FPSZpO9WA.md) | 5-6 數位公民素養願景與推動策略探索 ｜公民科技專案手冊｜Civic Tech Project Handbook | 2026-10-08T01:49:59+00:00 | View mode |
 | [SkIjbv2Yfe](../../notes/528r6B6hSy-fa821uuJNkA.md) | 與學生團隊合作募款 | 2026-10-06T07:12:36+00:00 | View mode |
 | [Byv5v5shbg](../../notes/-JUKdilNQ-uncai7swYokQ.md) | 2026 Civic Tech ON (October+November) | 2026-10-05T11:31:26+00:00 | View mode |
-| [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 社群小松果 🌰 🐿️ | 2026-10-04T13:49:33+00:00 | View mode |
 | [HJzSklLjR](../../notes/_5ze8ubgR1a8PeolhyVMpg.md) | 公民科技專案與社群資料庫 | 2026-10-03T09:29:49+00:00 | View mode |
 | [ry9tadGjkl](../../notes/vywr30o0Ssqpn3orwM4ePQ.md) | 健康的 g0ver / 健康風險意識 內容蒐集 | 2026-10-02T09:10:28+00:00 | View mode |
 | [BJHF00i_Gg](../../notes/0k2xQac4Ru6zWpQX_naeDg.md) | 桃園 | 2026-09-28T11:39:24+00:00 | View mode |

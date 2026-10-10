@@ -1,0 +1,1 @@
+<a href="https://h13.io/">H13</a> là nền tảng giải trí trực tuyến hướng đến người dùng yêu thích các hình thức giải trí tương tác trên môi trường internet. Website được thiết kế với giao diện trực quan, bố cục rõ ràng và các danh mục nội dung được sắp xếp khoa học, giúp người dùng thuận tiện trong quá trình tìm hiểu và sử dụng.
