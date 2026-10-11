@@ -154,6 +154,11 @@ https://forms.gle/bBxBfiiooGsfjTa38
     - QRCode 
     - 待開一個 hackmd 文件，提供各地漂書地點
     - 優先建議在哪裡拿到本書，就放回拿到的地方
+- 漂書地點蒐集
+    - 陸續蒐集的地點：https://photos.app.goo.gl/ruJ15gJe6XYxduYw5
+    - 交通部 https://reading.motc.gov.tw/funread/app/map_list
+
+
 
 ### 盤點贈書單位，請註記「僅供內閱」或是「自由漂書&個人索書」
 - [僅供內閱] 非臺灣的中文圖書館，適合中文、英文、日文書籍都放，歡迎列舉推薦

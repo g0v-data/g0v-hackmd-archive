@@ -95,4 +95,6 @@ https://youtu.be/-dTudmFPusw
 地理範圍圖資？
 
 ## 過往活動紀錄
-
+* 噶哈巫 Wikidata 工作坊
+    * [活動紀錄](https://www.wikidata.org/wiki/Wikidata:WikiProject_Taiwan/%E5%99%B6%E5%93%88%E5%B7%AB_Wikidata_%E5%B7%A5%E4%BD%9C%E5%9D%8A)
+    * [活動報導](https://diff.wikimedia.org/zh-hant/2025/06/06/%e5%99%b6%e5%93%88%e5%b7%ab-x-wikidata-lexeme%ef%bc%9a%e7%82%ba%e8%aa%9e%e8%a8%80%e4%bf%9d%e5%ad%98%e9%96%8b%e5%95%9f%e6%96%b0%e8%b7%af/)

@@ -2,13 +2,14 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-10-11T02:51:57+00:00 | View mode |
+| [S10SNQMj1x](../../notes/gj-iH-szRWypWKwt1glm_Q.md) | 地區社群支持方案 | 2026-10-11T02:29:06+00:00 | View mode |
+| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-11T02:08:42+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 社群小松果 🌰 🐿️ | 2026-10-10T10:42:05+00:00 | View mode |
-| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-09T15:33:27+00:00 | View mode |
 | [B17hjPWufg](../../notes/zlgYN4KdR_a4bsOVPdOr1w.md) | 社群小聚｜臺中 | 2026-10-08T19:10:47+00:00 | View mode |
 | [ByV45GdcZe](../../notes/LvivQwz1TT20JqfRA-U0sQ.md) | 社群小聚｜台東 | 2026-10-08T14:47:49+00:00 | View mode |
 | [S1vmKz_9-l](../../notes/U8ZY6AcwTAWX1Kyz-t614g.md) | 社群小聚｜花蓮 | 2026-10-08T14:47:20+00:00 | View mode |
 | [SkL1dHSCyl](../../notes/Ovl0MYOsQCKECQ9Ig4HOVA.md) | AI 麻瓜共學團 | 2026-10-08T14:30:07+00:00 | Book mode |
-| [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-10-08T13:54:28+00:00 | View mode |
 | [H1rk1Z9lel](../../notes/z91iPKGeRTGH-lIs8XKayg.md) | Appendix-Civic Tech Project & Community Handbook \| Learning Sheet 公民科技專案與社群手冊學習單 | 2026-10-08T02:24:41+00:00 | View mode |
 | [SkxM9QBwsn](../../notes/b3T70Xu-Q1Gug2UHdIbRBQ.md) | 5-5：台日韓青年參與公民科技社群現況 ｜ g0v 公民科技專案與社群手冊｜g0v Civic Tech Project & Community Handbook | 2026-10-08T01:56:02+00:00 | View mode |
 | [B19nOO-Wh](../../notes/-wHZDBuyR8WSUn6v0GO_4A.md) | g0v 公民科技專案與社群手冊 | 2026-10-08T01:52:23+00:00 | Book mode |
@@ -53,7 +54,6 @@
 | [rkAGALAUK](../../notes/LHLAPHxjTt6Spp5LJr_zew.md) | 黑客松場地場勘 | 2026-08-30T08:44:15+00:00 | View mode |
 | [rkRYZt-9Ze](../../notes/ru-7S6xsQL-1pXmTRXPAmg.md) | 製作「面紙包」用於發送 | 2026-08-29T14:33:59+00:00 | View mode |
 | [H1SmCW2v1e](../../notes/8B2i_h0iSKOvhBkR1FFHZw.md) | 移動松：巴士 / 火車 / 高鐵 / 船運 | 2026-08-12T11:29:07+00:00 | View mode |
-| [S10SNQMj1x](../../notes/gj-iH-szRWypWKwt1glm_Q.md) | 地區社群支持方案 | 2026-08-12T09:36:59+00:00 | View mode |
 | [SyN63Zkq-x](../../notes/FfdQPrIvTHyYuH8XMzygCg.md) | 模擬遊戲 | 2026-08-11T14:44:42+00:00 | View mode |
 | [rknaiQh31x](../../notes/fnVPK_1zSDagP7RiacyZ9w.md) | 歷年 COSCUP 開源人年會 _ 擺攤 | 2026-08-07T10:41:03+00:00 | View mode |
 | [B1ccTmkUGl](../../notes/CzOGu7HOQh-rJ5Pk4LT_gw.md) | 公私協力怎麼談：一起討論公部門和民間合作的方法，以及常卡在哪 | 2026-08-04T21:08:04+00:00 | View mode |
