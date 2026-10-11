@@ -43,6 +43,7 @@ tags: GIS
 
 相關倡議
 - https://cloud.greentw.greenpeace.org/petition-plastics-reuse/
+- 日本大崎町 https://www.facebook.com/share/p/1DfH3WxHEf/
 
 # 東亞臨海垃圾場資料 / 掩埋場資料
 
