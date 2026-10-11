@@ -164,6 +164,15 @@ tags: jothon, hackathon
 
 ---
 
+10/17-10/25 CRC 賽伯格實驗室，將於新北美樹展出《孤娘的無人機藝》 「AI萬物：起鼓，2026臺灣嘉年華」（AI for ALL: Opening Act, Taiwan Festival 2026）
+- 時間：2026.10.17-10.25
+- 地點：新北市美術館地下3樓 （交流展示區）
+- 詳細資訊：https://www.facebook.com/share/p/1JsfAfsSrC/
+- 在這段期間，CRC 賽伯格實驗室，將於新北美展出《孤娘的無人機藝》一系列裝置，我們希望藉由展品跟大家交流，無論是無人機群攻、AI標定系統、認知作戰或網路攻擊，當代衝突或許已超越物理邊界與人類對道德的認知速度，對於瀰漫於一個臨界的演算法空間，我們該怎麼理解和界定？
+
+
+---
+
 ![2026 維基數據跨領域論壇](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Wikidata_Cross-Domain_Forum_2026_Banner_3740_1080.svg/3840px-Wikidata_Cross-Domain_Forum_2026_Banner_3740_1080.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
 2026/10/24 2026 維基數據跨領域論壇 Wikidata Cross-Domain Forum 2026
 - 日期：20261024 週六下午
