@@ -73,6 +73,9 @@ https://www.facebook.com/share/r/18U15NDiSD/
 漢人開墾平埔社範圍
 https://youtu.be/8MR9nLZJDDU
 
+諸羅山社
+https://www.facebook.com/share/1FDXtUQ3ZR/
+
 蔦松遺址與西拉雅
 https://youtu.be/kPPHzaxQqlc?si=7gadhyW9Pa9KRZMN
 
