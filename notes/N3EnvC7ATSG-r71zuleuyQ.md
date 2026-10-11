@@ -104,8 +104,8 @@ tags: jothon, hackathon
 10/08 週四晚上 ▶︎ 主題：Dragon Curve 背後的共同遞迴結構 F4: functional thursday 社群活動
 - ▶︎ 分享者：李金樺，今年剛升台大資訊系大二，平常喜歡有趣數學問題、寫寫程式，所以想事情的方式可能有一點「數學腦」XD
 - ▶︎ 講題內容：大一期間，我意外接觸到 Dragon Curve，並發現這條曲線背後藏著許多漂亮的遞迴結構。後來，我又進一步認識了 Short Folded Representation 與 Gray Code 兩種不同的數學描述，卻發現它們都能產生相同的 Dragon Sequence。這次分享將介紹我如何利用 Haskell 與數學證明探索它們之間的關係，並找出三者共同的遞迴函數。
-- 活動地點：10/08 週四晚上 7:15
-- 活動時間：台北市中正區重慶南路三段2號2樓202室
+- 活動時間：10/08 週四晚上 7:15
+- 活動地點：台北市中正區重慶南路三段2號2樓202室
 - 活動頁面：https://www.facebook.com/events/1082482564748571/
 - FB 社團：https://www.facebook.com/groups/functioanl.thursday/
 
@@ -171,6 +171,8 @@ tags: jothon, hackathon
 - 地址：Le Phare 共享空間 | 新左營館 / 高雄市左營區站前北路1號環球購物中心4樓
 - [活動資訊](https://www.wikidata.org/wiki/Wikidata:Fourteenth_Birthday/Taiwan)
 - [報名頁面](https://wikidatatw.kktix.cc/events/wikidataforum2026)
+
+---
 
 10/24 週六 臺灣公民科技主題日
 - 論壇、短講、攤位園遊會，一起來認識公民科技生態系
@@ -278,6 +280,7 @@ tags: jothon, hackathon
 - 台南場
     - 時間：3/7 週日 10:30-17:00
     - 地點：台南市友愛街好想工作室，臺南市中西區友愛街117號2樓
+---
 
 暫定舉辦 Open Data Day Taiwan 2027
 
