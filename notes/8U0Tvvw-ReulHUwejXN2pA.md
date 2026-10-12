@@ -2,7 +2,7 @@
 tags: GIS, river
 ---
 
-# 20260818 台北市內水流域規劃方法工作坊
+# 台北市內水流域規劃與營造
 
 :::info
 上層文件：[建立「內水流域環境營造工作指引」](https://g0v.hackmd.io/luwEBL3wRC-MyXabfJgVMA?view)
@@ -13,27 +13,21 @@ tags: GIS, river
 [TOC]
 :::
 
-## 活動介紹
 
-8/18 週二上午 10:30-12:00 內水流域規劃方法建構的工作坊，活動重點：
+## 建立內水流域範圍指認方法與交流意見
 
-1. 輔助各單位掌握各個堤內內水集水範圍認識與細分，並找出主幹線/主河道，了解城市裡的「分水區位/分水嶺」
+20260818 台北市內水流域規劃方法工作坊，活動重點：
+- 1. 輔助各單位掌握各個堤內內水集水範圍認識與細分，並找出主幹線/主河道，了解城市裡的「分水區位/分水嶺」
+- 2. 介紹常見公民資料行動數位工具，包含河溪網河川守護地圖可以記錄主河道主幹線環境現況，災害歷史地圖可收錄重要的災害老照片，iNaturalist 生物調查，也建議建立該流域範圍的歷史素材地圖；也想蒐集還有什麼樣的資料主題地圖，對於該流域來說也很重要呢？如水質通報地圖、戶外舒適度地圖、乾式滯洪及常態水體水域位置地圖、潛在水源資源指認地圖 (原水管線、水廠尾水、再生水、郊山逕流) 等
+- 3. 潛力營造行動指認：勾選人水互動類型 (歷史上、當代現況、期待營造)，勾選 淨水功能 / 貯水功能 / 環境融入水元素 / 主水路營造，並指認出位置與用地屬性
+- 說明簡報：https://docs.google.com/presentation/d/1L4alFJVjvNYIEiyQ3uz1UYrPJEOLQNUVW4JmaXeTZvg/edit
+- 其他備用：https://docs.google.com/presentation/d/16MSrwQ_73KlkdMhGRc8BMT6yOPeh-PWFHnFJnkQa140/edit
 
-2. 介紹常見公民資料行動數位工具，包含河溪網河川守護地圖可以記錄主河道主幹線環境現況，災害歷史地圖可收錄重要的災害老照片，iNaturalist 生物調查，也建議建立該流域範圍的歷史素材地圖；也想蒐集還有什麼樣的資料主題地圖，對於該流域來說也很重要呢？如水質通報地圖、戶外舒適度地圖、乾式滯洪及常態水體水域位置地圖、潛在水源資源指認地圖 (原水管線、水廠尾水、再生水、郊山逕流) 等
+## 工作方法建構
 
-3. 潛力營造行動指認：勾選人水互動類型 (歷史上、當代現況、期待營造)，勾選 淨水功能 / 貯水功能 / 環境融入水元素 / 主水路營造，並指認出位置與用地屬性
+### 具體地區
 
-說明簡報：
-https://docs.google.com/presentation/d/1L4alFJVjvNYIEiyQ3uz1UYrPJEOLQNUVW4JmaXeTZvg/edit
-
-其他備用：
-https://docs.google.com/presentation/d/16MSrwQ_73KlkdMhGRc8BMT6yOPeh-PWFHnFJnkQa140/edit
-
----
-
-### 操作舉例說明
-
-將「忠孝、成都、貴陽排水系統」集水範圍進一步指認：
+#### 將「忠孝、成都、貴陽排水系統」集水範圍進一步指認：
 
 ![](https://g0v.hackmd.io/_uploads/SyZy7ZCbDzl.png)
 
@@ -44,14 +38,16 @@ https://docs.google.com/presentation/d/16MSrwQ_73KlkdMhGRc8BMT6yOPeh-PWFHnFJnkQa
 ![](https://g0v.hackmd.io/_uploads/BkGJmb0-wfe.png)
 
 
-指認「林森抽水站集水範圍」的水路主幹線：
+#### 指認「林森抽水站集水範圍」的水路主幹線：
+
 ．該集水範圍內，指認出水路主幹線，且基於流經公共設施用地，起點為林森羅斯路口，往北進入中正紀念園區，進入林森南路，此處可呼應早年歷史地圖中記載的水路，右轉進入青島東路，再往北進入杭州北路，進入華山公園，再進入林森抽水站
 
 ![](https://g0v.hackmd.io/_uploads/rkl6v1G98zx.png)
 
 ![](https://g0v.hackmd.io/_uploads/BJ_NzAWDfg.png)
 
-將「雙園抽水站集水範圍」進一步指認：
+#### 將「雙園抽水站集水範圍」進一步指認：
+
 藍色則是主幹線
 黑色色框是 5 個集水範圍
 (1) 杭州南路羅斯福路路口
@@ -68,7 +64,7 @@ https://docs.google.com/presentation/d/16MSrwQ_73KlkdMhGRc8BMT6yOPeh-PWFHnFJnkQa
 
 ---
 
-文山區集水範圍指認，以下從最下游往上游，依序列出每一個內水集水範圍，以及該範圍內 已知的常態水體：
+#### 文山區集水範圍指認，以下從最下游往上游，依序列出每一個內水集水範圍，以及該範圍內 已知的常態水體：
 
 ![](https://g0v.hackmd.io/_uploads/ByM9g50Lzx.png)
 ![](https://g0v.hackmd.io/_uploads/H1AKRJAIMe.jpg)
@@ -133,28 +129,25 @@ https://docs.google.com/presentation/d/16MSrwQ_73KlkdMhGRc8BMT6yOPeh-PWFHnFJnkQa
 
 ---
 
-士林北投
+#### 士林北投
 
 ![](https://g0v.hackmd.io/_uploads/r1xfcxcC8fe.png)
 
-百齡抽水站集水範圍
+#### 百齡抽水站集水範圍
+
 https://www.facebook.com/watch/?v=1009691365453620&locale=zh_TW
 
 ![](https://g0v.hackmd.io/_uploads/BJ_xHRWDfe.png)
 
 ---
 
-內湖
+#### 內湖
 
 ![](https://g0v.hackmd.io/_uploads/SkMzce5C8Ml.png)
 
-
-
 ---
 
-## 工作方法建構
-
-### 集水範圍歸屬、主幹線指認
+### 方法歸納整理：集水範圍歸屬、主幹線指認
 
 #### 如何歸屬範圍：最大範圍，各個子範圍
 - 資料
@@ -279,6 +272,7 @@ https://wrd.ntpc.gov.tw/rwweb/GisJs/RWD/map_user.aspx
 - 3. 抽水站區位
 - 4. 主幹線經過抽水站進入河濱
     - 景美溪匯流口的方案，在河濱引流設置水道與溼地環境
+
 #### 都會水環境營造的行動發想輔助
 - 概念：水融合
 - 檢視 水源機會
@@ -308,6 +302,8 @@ https://wrd.ntpc.gov.tw/rwweb/GisJs/RWD/map_user.aspx
     - 水路沿線建物街區整合規劃設計 https://wenshanoasis.wixsite.com/mysite
 
 #### 臺北盆地人水互動的用途行為種類列舉
+- 蒐集：
+    - https://www.facebook.com/media/set?set=oa.2182737969289730&type=3&locale=zh_TW
 - 參考：賓果表格內容
 - 水井：台北城水井、南萬華楊氏古厝水井、建國啤酒廠深井、防災用水預備點
 - 建物雨水回收與利用
@@ -318,6 +314,22 @@ https://wrd.ntpc.gov.tw/rwweb/GisJs/RWD/map_user.aspx
 - 日本全国暗渠観光ガイド: 街と歴史のウラ名所めぐり
     - https://www.facebook.com/groups/582154450196478/posts/1426746132403968
 
+## 20261013 交流會議
 
-
+- 圖資整理：https://www.facebook.com/groups/582154450196478/posts/1645701990508380
+- 說明：
+    - 排水分區
+        - 水利處容受力分析與措施
+            - 文山區萬隆，平原地區敦北大排
+        - 但也會有今年夏季的強降雨積水地區，歷年積水地點十分重要
+- 策略分區
+    - 內科
+    - 依山小綠洲 https://wenshanoasis.wixsite.com/mysite/professional
+    - 都市更新地區
+        - 福德洋圳北側
+        - 永吉路30巷
+    - 整合銜接所謂的「超級街廓」(super)，建議改用「人本街區」名稱
+        - 大安區大學里
+        - 東區商圈頂好廣場軸帶
+        - 士林芝山捷運站座落街區
 

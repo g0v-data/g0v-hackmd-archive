@@ -17,55 +17,58 @@ g0v 社群小松果 🌰 🐿️
 2027 松果預定 🐿️
 ===
 - [No.] 1121 週日 g0v 黑客松暫定，g0v 台北社群空間
-- [No.] 1030 週六 公民科技主題日活動 [籌備文件](https://g0v.hackmd.io/@jothon/civictechon/https%3A%2F%2Fg0v.hackmd.io%2FEvkiY6tiQzK2uve2kgpnAg%3Fview)
+- 1030 週六 公民科技主題日活動 [籌備文件](https://g0v.hackmd.io/@jothon/civictechon/https%3A%2F%2Fg0v.hackmd.io%2FEvkiY6tiQzK2uve2kgpnAg%3Fview)
 - [No.]
 - 0919 週日 g0v 黑客松暫定，也考慮 0918+0919 非台北的地區，跑咖松
 - 考慮 0821+0822 非台北的地區，跑咖松
 - 留意 7月底 8月初 會有 COSCUP
 - [No.] 
 - 0718 週日 g0v 黑客松暫定，也考慮 0717+0718 非台北的地區，跑咖松
-- [No.] 0523 週日 g0v 黑客松暫定，g0v 台北社群空間
+- [No.] 0523 週日 g0v 黑客松，g0v 台北社群空間
+- 0522 週六下午 公民科技小聚評估中，基隆港區
 - [No.]
-- 0307 週日 g0v 黑客松暫定，臺南好想工作室
+- 0307 週日 g0v 黑客松，臺南好想工作室
+- 0306 週六 g0v 黑客松，嘉義謐巷空間
 - [No.] 
-- 0110 週日 g0v 黑客松暫定，找比較不冷的地區例如屏東
+- [No.] 1/25-1/28 之間大約，揪松團與 vTaiwan 預計有一場日本東京世田谷區役所的交流會議，大約三小時
+- [No.]
+- 0110 週日 g0v 黑客松，屏東市讀者城市空間
+- 0109 週六 g0v 黑客松評估中，高雄市
 - [No.]
 - 【注意】2027 小松場地，想填寫的話 ok，但不確保一定有場地哦 ! 因為涉及臺北市政府青年局的政策，全棟委託經營案期程為 2025 年初至 2026 年底；揪松團預計 2026.06 已有先詢問經營單位 2027 動態，等待中
 
 2026 小松果 🌰 🐿️
 ===
 - [No.] 1220 週日上午下午晚上 g0v 黑客松 暫定，已有借用二樓公用活動場地
-- [No.] 
+- [No.]
+- 空間續約詢問警戒日 11/30 週一：倒數 30 天
+- [No.]
 - [No.] 1210 週四晚上 F4: functional thursday 社群活動 (接洽 by chewei)
-- [No.] 
+- [No.]
+- 空間續約詢問警戒日 11/15 週日：倒數 45 天
 - [No.] 1114 週六下午暫訂國會松
 - [No.] 1112 週四晚上 F4: functional thursday 社群活動 (接洽 by chewei)
 - [No.] 
 - [No.] 1109 週一晚上 [Clojure Meetup](https://www.facebook.com/share/g/1984fJXewb/) (接洽 by chewei, Laurence Chen)
-- [No.] 🌲 1108 週日上午下午晚上 g0v 黑客松 (備註：11月28日投票開票)
+- [No.] 🌲 1108 週日上午下午晚上 g0v 黑客松
 - 1107 週六晚上 g0v 黑客松場地佈置與環境整備 by 揪松團
 - [No.] 
 - [No.] 1102 週一晚上 AI Monday 開設實體場地 by 揪松團, 藥品仿單白話文運動
 - [No.] 1031 週六下午 都市農耕網食農教育課程 (接洽者by chewei)
 - 仍可借用 202 室場地 🌲 1024 週六在高雄高鐵共構大樓場地 公民科技日活動 by 揪松團
+- [No.]
 - [No.] 1018 週日下午、晚上 12:30 - 21:00 SITCON 2027 預算會議 + 議程組會議（接洽 by Ya)
 - [No.]
 - [No.] 1014 週三晚上 g0v 國會松
-- [No.] 1008 週四晚上 F4: functional thursday 社群活動 (接洽 by chewei)
-- [No.] 1006 週二晚上 20:00 Cofacts 社群週會
-- [No.] 
-- [No.] 1003 週六下午晚上 馬祖臺北連線小松 (接洽 by dong, chewei)
-- [No.]
-- [No.] 0929 週二晚上 20:00 Cofacts 社群週會
-- [No.]
+- [No.132] 1008 週四晚上 F4: functional thursday 社群活動 (接洽 by chewei)
+- [No.131] 1006 週二晚上 20:00 Cofacts 社群週會
+- [No.130] 1003 週六下午晚上 馬祖臺北連線小松 (接洽 by dong, chewei)
+- [No.129] 0929 週二晚上 20:00 Cofacts 社群週會
 - 注意 ! 0924 週四晚上全棟建物消毒，無法使用 !
-- [No.]
-- [No.] 0922 週二晚上 20:00 Cofacts 社群週會
-- [No.] 0919 週六下午 g0v-congress25n g0v 第貳拾伍次國會松
-- [No.] 
+- [No.128] 0922 週二晚上 20:00 Cofacts 社群週會
+- [No.127] 0919 週六下午 g0v-congress25n g0v 第貳拾伍次國會松
 - 仍可借用 202 室場地 🌊 9/18-9/20 [FtO Seoul 2026 (Facing the Ocean Meet & Hack)](https://g0v.hackmd.io/@fto/book/%2FhDu0pA9QQeWS9z_8SVkmvA?type=book)
-- [No.] 
-- [No.] ~~0915 週二晚上 20:00 Cofacts 社群週會~~ 改 9/14 線上
+- ~~0915 週二晚上 20:00 Cofacts 社群週會~~ 改 9/14 線上
 - [No.126] 0913 週日下午 Python 年會籌備會議 (接洽 by 揪松團, Rock)
 - [No.125] 0913 週日下午 數位韌性松
 - [No.124] 0911 週五中午下午 韌性城市議題討論 (接洽 by chewei)

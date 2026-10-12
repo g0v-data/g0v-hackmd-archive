@@ -75,12 +75,16 @@ https://www.kokon.co.jp/smp/book/b642913.html
 日本植生図應用
 https://g0v.hackmd.io/@chewei/patch-by-planting/https%3A%2F%2Fg0v.hackmd.io%2F5jJLT_OzR9qfPERjbKBpXw
 
+日本暗渠觀光_全国暗渠観光ガイド: 街と歴史のウラ名所めぐり
+https://g0v.hackmd.io/Ho0HhjihSzColep4pzulMw?view
+
 日本都市計画家協会（Japan Society of Urban and Regional Planners） 
 https://www.facebook.com/jsurp
 
 ２０３０―２０４０年　日本の土地と住宅
 https://www.chuko.co.jp/laclef/2024/12/150828.html
 
+再生型都市・建築論
 https://www.facebook.com/share/p/1B97La8Urf/
 
 《NHK スペシャル震災 ビッグデータ》此書的網路素材
@@ -130,10 +134,13 @@ https://www.taiwanembassy.org/jpfuk/post/8697.html
 - 2024 鹿兒島縣町長交流 https://maps.app.goo.gl/qEqYau321AVMRCv16
 - 2025 災害 https://www.facebook.com/share/p/17C2gc5jm9/
 - 電影，聚焦離島緊急醫療 https://www.facebook.com/share/1XjGEgozYL/
-- 薩摩會議 https://www.facebook.com/share/p/1BgrsEQxhV/
+- 薩摩會議 
+    - https://www.facebook.com/share/p/1BgrsEQxhV/
+    - https://www.facebook.com/liu.ming.hao.188189/posts/pfbid01NVZPASSf5kZqZMfYiyDWVrdH8yPrLcb39ZvGDig1ia34sTL8CZSrfG9ggg11Z58l?locale=zh_TW
 - 甑島 https://www.facebook.com/share/p/1AogbzWUxy/
 - https://www.facebook.com/share/p/18WkmjhbNF/?mibextid=wwXIfr
 - https://www.facebook.com/share/p/1TSb2yLBsk/?mibextid=wwXIfr
+- 大崎町 https://www.facebook.com/liya.chang.5/posts/pfbid0Y2Kn4Pmbar2Ccows9AQdJKqcCkyvRfERqocPubz3m15EpvsYGvsimee3RSAfAW5Ll?locale=zh_TW
 
 沖繩
 https://youtu.be/rylRtFqR4R8
