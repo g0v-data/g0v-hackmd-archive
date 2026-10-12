@@ -322,6 +322,9 @@ https://wrd.ntpc.gov.tw/rwweb/GisJs/RWD/map_user.aspx
     - 討論串：https://www.facebook.com/groups/582154450196478/posts/1645701990508380
 - 簡報
     - https://docs.google.com/presentation/d/11lmIj8bKnKXRWnZhQcwK_qd5Gzvp83KwZHOie2tOzzI/edit
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQJN7ZUW8cf3J5PNhH7pbSgmowXgOlU0Ad0xic_WBgt8MfvvjJqHYeBdoAiN6C9JySKjty7shRCNonQ/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 :::
 
 ### 觀點：
@@ -333,68 +336,81 @@ https://wrd.ntpc.gov.tw/rwweb/GisJs/RWD/map_user.aspx
 - 水環境，比較理想的營造序列，口語上可以稱為「有質，有量，有水文」
     - 水質改善，可以改變人們對於水的態度
         - 現況就有良好水質的水源，應加以維護重視並營造水環境，例如臺灣大學校內運用新店溪原水水源營造校內生態池與草圳水路；蒐集雨水貯留並營造水環境，規模可大可小。
-        - 長年匯聚髒汙雨水的水路，檢討該集水範圍的汙染來源並提出輔導改善措施，中山區議員經常質詢新生大排臭味，需要加以重視，因此污染也影響基隆河水質。
-    - 把關好的水質，水域明渠較能獲得支持，親水型生活與營業服務才能發展，生態環境才能改善。
+        - 長年匯聚髒汙雨水的水路，檢討該集水範圍的汙染來源並提出輔導改善措施，例如中山區議員經常質詢新生大排臭味，需要加以重視，此污染也影響基隆河水質。
+    - 把關好的水質，水域明渠較能獲得支持，親水型生活空間與營業服務才能發展，生態環境才能改善。
 
-### 檢視臺北當前的水環境
-- 排水分區
-    - 市政府水利處降雨容受度提升計畫：https://heo.gov.taipei/cp.aspx?n=80DB54FC1F6AC7DC
-        - 已針對 文山區萬隆、平原地區敦北大排、士林集水區與士林官邸北側地下滯洪設施 推動相關措施
-        - 但也會有 2026 年夏季的強降雨積水地區，如內湖港墘站至文德站一帶，其集水範圍上溯至郊山金瑞園區，歷年積水地點十分重要
-    - 強化「郊山至河岸的集水分區」地區水環境治理與水文共感
-        - 山系地區與依山地區，孕發溪流山谷，並沖積出山腳平原，屬於地形及溪流主導的地區
-            - 例如豹山溪溪水流經永春陂濕地，匯入中坡大排經五分埔至玉成抽水站，匯入基隆河
-            - 此地形也影響歷史上的入山路徑與越嶺型古道位置、山腳區域設置陂塘設施、山區開採煤礦產業
-        - 指標經驗：四分溪流域 https://heo.gov.taipei/cp.aspx?n=0EA3EC0991A5BAB1
-            - 包含：中研院歐美所建築物設計其一樓承洪空間、封溪護魚措施、近年開展流域願景工作坊、檢視水岸腹地空間等
-        - 類似情境：
-            - 北投磺港溪，近年完成奇岩段的都市計畫用地變更，將車道集中，使水路與公園用地連續銜接，設置近自然緩坡，提升滯洪效果
-            - 士林磺溪，民間團體投入生態保育導向的維護經營措施倡議與協力
-            - 士林雙溪
-            - 文山區政大貓空與指南溪，近年於下游段打除陡峭混凝土護岸，營造植生緩坡
-        - 水利處政策 https://heo.gov.taipei/cp.aspx?n=D71495741C3D7B2A
+### 臺北水環境政策推動建議
+- 市政府水利處降雨容受度提升計畫，應進行精進
+    - 計畫網頁：https://heo.gov.taipei/cp.aspx?n=80DB54FC1F6AC7DC
+    - 近年已針對 文山區萬隆、平原地區敦北大排、士林集水區與士林官邸北側地下滯洪設施 推動相關措施
+    - 但仍與現況有所落差
+        - 如 2026 年夏季的強降雨積水地區，如內湖港墘站至文德站一帶，其集水範圍上溯至郊山金瑞園區
+        - 歷年積水地點資料調查，應加強建置，並邀請市民共同匯整資料與經驗
+        - 應邀請第四代淹水潛勢地圖之執行單位進行交流 https://www.wra.gov.tw/wrap/cp.aspx?n=39961
+    - 可整合市府已建構 臺北市公園規劃設計要點內容中，已提出之臺北市四種環境分區架構
+        - 全市已區分四種環境分區類型：山系地區、依山地區、建成地區、水系地區
+        - 中華民國113年1月18日臺北市政府(113)府工公字第1133002132號令修正發布第九點，自中華民國113年1月22日生效，相關內容文件：https://pkl.gov.taipei/News.aspx?n=CC239C98A9EBBFBE&sms=E2680A0F71C62CCE
+- 強化「郊山至河岸的集水分區」地區水環境治理與水文共感
+    - 山系地區與依山地區，孕發溪流山谷，並沖積出山腳平原，屬於地形及溪流主導的地區
+        - 例如四獸山豹山溪溪水流經永春陂濕地，匯入中坡大排經五分埔至玉成抽水站，匯入基隆河
+        - 此類地形也影響歷史上的入山路徑與越嶺型古道位置、山腳區域設置陂塘設施、山區開採煤礦產業、休閒農業發展、國土保育及生態棲地區位等
+    - 指標經驗：四分溪流域 https://heo.gov.taipei/cp.aspx?n=0EA3EC0991A5BAB1
+        - 包含：中研院歐美所建築物設計其一樓承洪空間、四分溪封溪護魚措施、近年開展流域願景工作坊、檢視水岸腹地空間等
+    - 類似情境：
+        - 北投磺港溪，近年完成奇岩段的都市計畫用地變更，將車道集中，使水路與公園用地連續銜接，設置近自然緩坡，提升滯洪效果
+        - 士林磺溪，民間團體投入生態保育導向的維護經營措施倡議與協力
+        - 士林雙溪
+        - 文山區政大貓空與指南溪，近年於下游段打除陡峭混凝土護岸，營造植生緩坡
+    - 政策盤點
+        - 大地處坡地安全業務 https://www.geo.gov.taipei/Content_List.aspx?n=13C032DE95D81243
+        - 水利處流域營造業務 https://heo.gov.taipei/cp.aspx?n=D71495741C3D7B2A
         - 可藉此整合該集水範圍內的鄰水生活環境營造機會
-            - 包含公共運輸站點、公園綠地、水岸廊道等開放空間整合
-            - 都市設計回應承洪韌性
-- 建立「水岸廊帶」地區
-    - 建議可採用「河川中線」至「水岸鄰近第一個捷運站」形成一個水岸廊帶範圍
-    - 可進一步充實「建成地區與水系地區」細部分區
-- 類型二：加蓋後的雨水排水主河道軸帶與街區
+            - 包含公共運輸站點、公園綠地、水岸廊道、山徑銜接等開放空間整合措施
+            - 各建築基地與都市設計應回應承洪韌性
+- 建立「水岸廊帶」地區：淡水河、基隆河、雙溪、新店溪
+    - 建議可採用「河川中線」至「水岸鄰近第一個捷運站」形成一個水岸廊帶範圍，強化此區域自然營力整合籌市城市宜居環境營造，進一步充實「建成地區與水系地區」細部分區
+    - 人本交通環境串聯河濱空間：大眾運輸站點至水門人本交通改善，促進地區街區居民親近自然的頻率
+    - 河岸風廊都市設計管制：可參考國內其他縣市風廊管制措施
+    - 水質改善與河濱棲地多樣化營造：
+        - 針對主排水路越過堤防進入河濱公園地區，設置引流人工濕地改善市區雨水排水水質，指標經驗：
+            - 臺北市文山區景美溪河濱公園內設置人工濕地藉此改善市區雨水排水的水質 https://photos.app.goo.gl/gDMijbyuSpmEFPit8
+            - 新北市大漢溪人工濕地廊帶 https://www.facebook.com/ntpcwetlands
+- 針對已加蓋的雨水排水主河道軸帶與街區
     - [短期措施] 改善水質：雨水主河道設置水質檢測設備界定水質來源分區，整合公共設施用地設置礫間淨化，截脂器推廣與稽查，逕流減汙對策研擬
         - 參考經驗：市區內的雨水排水路
             - 臺中柳川、臺中綠川、新北雙和瓦磘溝等，集水範圍內於公共設施用地設置礫間淨化設施
             - 新北雙和瓦磘溝，截脂器推廣與稽查
             - 新北新莊中港大排
-        - 參考經驗：針對主排水路進入河濱公園地區，設置引流人工濕地改善市區雨水排水水質
-            - 臺北市文山區景美溪河濱公園內設置人工濕地藉此改善市區雨水排水的水質 https://photos.app.goo.gl/gDMijbyuSpmEFPit8
-            - 新北市大漢溪人工濕地廊帶 https://www.facebook.com/ntpcwetlands
-    - [短期措施] 水環境生活場域營造，無涉及洪峰排水功能
-        - 機關機構措施現況
-            - 臺北市政府水利處措施 https://heo.gov.taipei/cp.aspx?n=BFFA093635CE9249
-            - 臺北市政府公園綠地內水域，如大安森林公園近年擴大公園內的水域範圍進行生態棲地營造、文山區木柵公園內萃湖環境維護等
-            - 大學校園規劃，如大安區臺北科技大學校園介面水路營造、大安區臺灣大學校內水環境營造以及與市府合作新生南路三段水圳意象
-        - 參考經驗：
-            - 大安區溫州街45巷霧裡薛圳二支圳古蹟場域 (文化資產保存與經營計畫研擬中)
-            - 大安區民族實中校園改造，包含設置雨水貯水設施、明渠水路
-            - 更多案例：https://g0v.hackmd.io/@chewei/xinsheng-watershed/https%3A%2F%2Fg0v.hackmd.io%2FBEpa5JYQRnmy6xGT05vO7Q%3Fview
-        - 政策整合建議：整合銜接所謂的「超級街廓」(super)，建議改用「家園街區」名稱
-        - 潛力營造地點指認
-            - 住宅街區：大安區大學里，水圳古蹟與公園延伸擴大 https://www.facebook.com/groups/474536628587982/posts/991430313565275?locale=zh_TW
-            - 商圈：東區商圈頂好廣場軸帶，商圈戶外空間擴大，也是重要的雨水排水軸帶 https://www.facebook.com/groups/474536628587982/posts/516245754417069?locale=zh_TW
-            - 產業園區：內科 2026 年夏季積淹水事件，要加強當前承洪能力，且未來的捷運工地務必加強因應強降雨導致工安危害之風險
-                - 原先提供滯洪功能之大港墘公園，目前凹地已被填平設置捷運工程局工務所，且未來此捷運站採用凹地式站體 (類似大安森林公園站) 恐將面對強降雨積淹水風險 https://www.facebook.com/esmond.ou/posts/pfbid0jJiDpn9ANhTH9HdBGnhZTUqre6jTxm2eVsMQvbUHLXevLyKhhTtweyQ6MkzLsaL7l?locale=zh_TW
-            - 都市更新地區：永吉路30巷與帶狀公園，公園下方設有重要雨水排水軸帶 
-                - 信義-3 富生公園及松隆路周邊更新地區 
-            - 都市更新地區：士林福德洋圳北側
-                - 臺北市士林區-2-捷運Y26站北側暨華榮市場周邊更新地區都市更新計畫案 https://uro.gov.taipei/cp.aspx?n=3C7DB2F1081E962B
-            - 文山區萬隆，依山小綠洲規劃設計方案 https://wenshanoasis.wixsite.com/mysite/professional
-            - 觀點參考：張樞建築師 提出的街區空間設計觀點 
-                - https://www.facebook.com/shuchangkung/posts/pfbid0S4g5Ux2uJ9U8AC6z9m8yabCHeH9ShBepYNXrP2Mtg7QksNnr2JKvonY5wATRVHHhl
-                - https://eyesonplace.net/2020/03/27/13722/
-                - https://youtu.be/7DOL8ipB1sk?si=CjSQxhtqMkXroYuq&t=666
-            - https://g0v.hackmd.io/3Rp4pGotTlW5rzRnEt64KQ?view
     - [中期措施] 雨水主排水路，點狀營造明渠水環境場域
         - 參考經驗：文山區萬和一號公園 https://youtu.be/6DVl3-vWHWA
+- 市區水環境生活場域營造，無涉及洪峰排水功能
+    - 機關機構措施現況
+        - 大學校園規劃中的水環境營造措施，如大安區臺北科技大學校園介面水路營造、大安區臺灣大學校內水環境營造以及與市府合作新生南路三段水圳意象等
+        - 臺北市政府公園綠地內水域，如大安森林公園近年擴大公園內的水域範圍進行生態棲地營造、文山區木柵公園內萃湖環境維護等
+        - 臺北市政府水利處主動盤點並營造之地點 https://heo.gov.taipei/cp.aspx?n=BFFA093635CE9249
+        - 臺北市政府水利處推動基地保水，可加強基地開放空間營造水環境場域，應與建管處合作推動
+            - 推動基地開發雨水流出抑制管理 https://heo.gov.taipei/cp.aspx?n=FA324D258F02DDD7
+            - 推動公私協力提升全市排水容受度 https://heo.gov.taipei/cp.aspx?n=E23C5A6CA17DB8E2
+    - 指標經驗：
+        - 大安區民族實中校園改造，包含設置雨水貯水設施、明渠水路
+        - 大安區溫州街45巷霧裡薛圳二支圳古蹟場域 (文化資產保存與經營計畫研擬中)
+        - 更多案例：https://g0v.hackmd.io/@chewei/xinsheng-watershed/https%3A%2F%2Fg0v.hackmd.io%2FBEpa5JYQRnmy6xGT05vO7Q%3Fview
+    - 政策整合建議：整合銜接所謂的「超級街廓」(super)，建議改用「家園街區」名稱
+    - 潛力營造地點指認
+        - 住宅街區：大安區大學里，水圳古蹟與公園延伸擴大 https://www.facebook.com/groups/474536628587982/posts/991430313565275?locale=zh_TW
+        - 商圈：東區商圈頂好廣場軸帶，商圈戶外空間擴大，也是重要的雨水排水軸帶 https://www.facebook.com/groups/474536628587982/posts/516245754417069?locale=zh_TW
+        - 產業園區：內科 2026 年夏季積淹水事件，要加強當前承洪能力，且未來的捷運工地務必加強因應強降雨導致工安危害之風險
+            - 原先提供滯洪功能之大港墘公園，目前凹地已被填平設置捷運工程局工務所，且未來此捷運站採用凹地式站體 (類似大安森林公園站) 恐將面對強降雨積淹水風險 https://www.facebook.com/esmond.ou/posts/pfbid0jJiDpn9ANhTH9HdBGnhZTUqre6jTxm2eVsMQvbUHLXevLyKhhTtweyQ6MkzLsaL7l?locale=zh_TW
+        - 都市更新地區：永吉路30巷與帶狀公園，公園下方設有重要雨水排水軸帶 
+            - 信義-3 富生公園及松隆路周邊更新地區 
+        - 都市更新地區：士林福德洋圳北側
+            - 臺北市士林區-2-捷運Y26站北側暨華榮市場周邊更新地區都市更新計畫案 https://uro.gov.taipei/cp.aspx?n=3C7DB2F1081E962B
+        - 文山區萬隆，依山小綠洲規劃設計方案 https://wenshanoasis.wixsite.com/mysite/professional
+        - 觀點參考：張樞建築師 提出的街區空間設計觀點 
+            - https://www.facebook.com/shuchangkung/posts/pfbid0S4g5Ux2uJ9U8AC6z9m8yabCHeH9ShBepYNXrP2Mtg7QksNnr2JKvonY5wATRVHHhl
+            - https://eyesonplace.net/2020/03/27/13722/
+            - https://youtu.be/7DOL8ipB1sk?si=CjSQxhtqMkXroYuq&t=666
+        - https://g0v.hackmd.io/3Rp4pGotTlW5rzRnEt64KQ?view
 - 縣市合作情境：水城雙北．從新店溪流域開始吧 ! Taipei Xindian River Watershed Network
     - 新店溪流域 https://g0v.hackmd.io/@chewei/xindian-river-watershed/
     - 城南大學群落 https://docs.google.com/presentation/d/10j1O9EoObHGh9iuoMo07JsHEx4KSkt3KgvXCnWecgIY/edit
