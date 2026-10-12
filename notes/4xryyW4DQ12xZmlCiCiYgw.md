@@ -1,0 +1,1 @@
+[sc88](https://sc88e.com/) mang đến không gian giải trí trực tuyến với nhiều danh mục trò chơi đa dạng, từ casino, cá cược thể thao đến xổ số, nổ hũ và bắn cá. Nền tảng hướng đến giao diện thân thiện, thao tác thuận tiện cùng hệ thống tính năng được bố trí rõ ràng, giúp người dùng dễ dàng tìm hiểu các lựa chọn giải trí phù hợp

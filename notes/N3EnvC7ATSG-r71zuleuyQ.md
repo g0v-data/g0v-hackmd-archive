@@ -8,7 +8,12 @@ tags: jothon, hackathon
 - 參加活動代表你同意遵守 g0v 社群行為守則。g0v 社群活動致力於提供一個無騷擾的環境給每一位參與者，無論其性別、年紀、性傾向、身心理狀態、外貌、種族或信仰。我們絕不容忍任何人對會議參與者任何形式的騷擾。請您詳細閱讀：g0v 社群行為守則 https://g0v.tw/coc/
 
 :::info
-社群常用網址彙整：https://linktr.ee/g0vjothon
+
+【 g0v 社群行事曆｜一站式檢視 g0v 社群的活動 + 可訂閱日曆！】
+https://g0v.github.io/community-calendar/
+
+【社群常用網址彙整】
+https://linktr.ee/g0vjothon
 :::
 
 :::warning
@@ -96,9 +101,6 @@ tags: jothon, hackathon
 - 報名網址：https://forms.gle/gtV9aYyW2GH4mztk7
 - 活動共筆：https://g0v.hackmd.io/@jothon/meetup/https%3A%2F%2Fg0v.hackmd.io%2FzlgYN4KdR_a4bsOVPdOr1w%3Fview
 
-![](https://g0v.hackmd.io/_uploads/r1f5uPfsMe.jpg)
-
-
 ---
 
 10/08 週四晚上 ▶︎ 主題：Dragon Curve 背後的共同遞迴結構 F4: functional thursday 社群活動
@@ -117,7 +119,6 @@ tags: jothon, hackathon
 - 【時間】2026年 10/14，14:00~16:00【演講於15:30結束，歡迎現場佳賓到會議室外大廳，與講者交流互動。】
 - 【地點】中研院新館3樓2319室
 - https://www.facebook.com/share/p/18YcS8CRyH/
-
 
 ---
 
@@ -169,7 +170,6 @@ tags: jothon, hackathon
 - 地點：新北市美術館地下3樓 （交流展示區）
 - 詳細資訊：https://www.facebook.com/share/p/1JsfAfsSrC/
 - 摘自貼文：在這段期間，CRC 賽伯格實驗室，將於新北美展出《孤娘的無人機藝》一系列裝置，我們希望藉由展品跟大家交流，無論是無人機群攻、AI標定系統、認知作戰或網路攻擊，當代衝突或許已超越物理邊界與人類對道德的認知速度，對於瀰漫於一個臨界的演算法空間，我們該怎麼理解和界定？
-
 
 ---
 
@@ -265,6 +265,10 @@ tags: jothon, hackathon
 ---
 
 ### 2027.01
+
+1/6 週三 公民科技體驗營_新竹場
+
+---
 
 2027 1/09-1/10 g0v 第柒拾陸次黑客松 Hackath76n
 - 高雄場
