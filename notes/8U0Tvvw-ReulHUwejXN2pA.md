@@ -323,13 +323,17 @@ https://wrd.ntpc.gov.tw/rwweb/GisJs/RWD/map_user.aspx
             - 文山區萬隆，平原地區敦北大排
         - 但也會有今年夏季的強降雨積水地區，歷年積水地點十分重要
 - 策略分區
-    - 內科
-    - 依山小綠洲 https://wenshanoasis.wixsite.com/mysite/professional
-    - 都市更新地區
-        - 福德洋圳北側
-        - 永吉路30巷
-    - 整合銜接所謂的「超級街廓」(super)，建議改用「人本街區」名稱
-        - 大安區大學里
-        - 東區商圈頂好廣場軸帶
+    - 整合人文與水文 ![](https://g0v.hackmd.io/_uploads/SkPtJK9izl.png)
+        - 應整合 張樞建築師的街區營造觀點
+        - https://g0v.hackmd.io/3Rp4pGotTlW5rzRnEt64KQ?view
+    - 整合銜接所謂的「超級街廓」(super)，建議改用「家園街區 / 潮流商圈」名稱
+        - 大安區大學里，水圳與公園延伸擴大
+        - 東區商圈頂好廣場軸帶，商圈戶外空間擴大，也是重要的雨水排水軸帶
+        - 內科，要加強承洪能力，且未來的捷運工地務必加強強降雨導致工安風險
+            - 納莉颱風市區淹水肇因為堤防工程未完善導致河水湧入市區造成抽水機停擺：https://www.facebook.com/media/set/?set=oa.4576170055996793&type=3&locale=zh_TW
+        - 都市更新地區_永吉路30巷，重要雨水排水軸帶
+        - 都市更新地區_福德洋圳北側
+        - 文山區萬隆 依山小綠洲 https://wenshanoasis.wixsite.com/mysite/professional
         - 士林芝山捷運站座落街區
+
 

@@ -1,0 +1,1 @@
+<a href="https://v79.today/">v79</a> là nền tảng giải trí trực tuyến cung cấp nhiều danh mục nội dung trên cùng một hệ thống. Giao diện được thiết kế trực quan, hỗ trợ người dùng thao tác thuận tiện trên điện thoại và máy tính. Bên cạnh việc cập nhật nội dung, nền tảng chú trọng cải thiện tốc độ truy cập và tối ưu trải nghiệm sử dụng. 
