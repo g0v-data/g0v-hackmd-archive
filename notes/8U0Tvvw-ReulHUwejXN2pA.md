@@ -335,5 +335,8 @@ https://wrd.ntpc.gov.tw/rwweb/GisJs/RWD/map_user.aspx
         - 都市更新地區_福德洋圳北側
         - 文山區萬隆 依山小綠洲 https://wenshanoasis.wixsite.com/mysite/professional
         - 士林芝山捷運站座落街區
+- 縣市合作情境：水城雙北．從新店溪流域開始吧 ! Taipei Xindian River Watershed Network
+    - 新店溪流域 https://g0v.hackmd.io/@chewei/xindian-river-watershed/
+    - 城南大學群落 https://docs.google.com/presentation/d/10j1O9EoObHGh9iuoMo07JsHEx4KSkt3KgvXCnWecgIY/edit
 
 
