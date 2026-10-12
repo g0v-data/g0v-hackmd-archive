@@ -22,6 +22,7 @@ Image by YI
 ．10/06 多維度空間資訊基礎圖資成果發表會
 ．10/07 公民科技臺中社群小聚
 ．10/08 F4: functional thursday
+．10/14 g0v 國會松
 ．10/24 2026 維基數據跨領域論壇
 ．10/24 g0v.tw 網域註冊 14 年暨 Civic Tech Day 臺灣公民科技主題日 @高雄左營
 
@@ -31,11 +32,13 @@ Image by YI
 各場次詳細資訊請見：https://g0v.hackmd.io/@jothon/event
 :::
 
-．11/02 AI Monday (Cofacts, 藥品仿單白話文運動)
+．11/02 AI Monday (Cofacts, 藥品仿單白話文運動, 公民科技內容整理 Skill)
 ．11/08 第柒拾伍次投出未來黑客松 G0Vote Hackath75n
 ．11/09 OpenStreetMap x Wikidata 月聚會
 ．11/12 F4: functional thursday
 ．11/19 網路自由小聚
+
+---
 
 ## 2026.10.24 Civic Tech Day @高雄
 

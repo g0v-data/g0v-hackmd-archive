@@ -2,8 +2,9 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [Hkh8DtAgfl](../../notes/EvkiY6tiQzK2uve2kgpnAg.md) | 2027_ON+1030 籌辦工作文件 | 2026-10-12T07:31:45+00:00 | View mode |
+| [Byv5v5shbg](../../notes/-JUKdilNQ-uncai7swYokQ.md) | 2026 Civic Tech ON (October+November) | 2026-10-12T07:30:54+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-12T06:45:18+00:00 | View mode |
-| [Byv5v5shbg](../../notes/-JUKdilNQ-uncai7swYokQ.md) | 2026 Civic Tech ON (October+November) | 2026-10-12T06:29:21+00:00 | View mode |
 | [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-10-11T06:50:25+00:00 | View mode |
 | [S10SNQMj1x](../../notes/gj-iH-szRWypWKwt1glm_Q.md) | 地區社群支持方案 | 2026-10-11T02:29:06+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 社群小松果 🌰 🐿️ | 2026-10-10T10:42:05+00:00 | View mode |
@@ -58,7 +59,6 @@
 | [rknaiQh31x](../../notes/fnVPK_1zSDagP7RiacyZ9w.md) | 歷年 COSCUP 開源人年會 _ 擺攤 | 2026-08-07T10:41:03+00:00 | View mode |
 | [B1ccTmkUGl](../../notes/CzOGu7HOQh-rJ5Pk4LT_gw.md) | 公私協力怎麼談：一起討論公部門和民間合作的方法，以及常卡在哪 | 2026-08-04T21:08:04+00:00 | View mode |
 | [SJwLXkDGGl](../../notes/WwSHF6WtRm2vNuEIwnFRFg.md) | 讀過公民科技知識庫的 AI，要叫什麼名字？ | 2026-07-31T15:53:33+00:00 | View mode |
-| [Hkh8DtAgfl](../../notes/EvkiY6tiQzK2uve2kgpnAg.md) | 2027_ON+1030 籌辦工作文件 | 2026-07-30T13:54:54+00:00 | View mode |
 | [rJ-Clzpz-l](../../notes/dCYy0CL2Q_-HXLRjxFpBsA.md) | 災害應變_民間平台案例蒐集 | 2026-07-28T20:35:48+00:00 | View mode |
 | [HkW4UYjcJx](../../notes/jjVPR63iRQWCe12jvaPKhg.md) | g0v Taipei Community Hub / g0v 台北社群空間 | 2026-07-26T14:06:35+00:00 | View mode |
 | [rkrQjN5lMx](../../notes/x23E-IbgRbq5Ss2TxB7j9g.md) | AI Agent 數位公民沙盒計畫 | 2026-07-25T19:09:26+00:00 | View mode |
