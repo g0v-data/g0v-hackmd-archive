@@ -1,0 +1,1 @@
+<a href="https://r666.social/">R666</a> là nền tảng giải trí trực tuyến hiện đại với giao diện thân thiện, dễ sử dụng và trải nghiệm linh hoạt. Đây là lựa chọn dành cho người dùng yêu thích sự tiện lợi và muốn khám phá những xu hướng giải trí mới trong môi trường số. 
