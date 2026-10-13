@@ -2,8 +2,9 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [Hkh8DtAgfl](../../notes/EvkiY6tiQzK2uve2kgpnAg.md) | 2027_ON+1030 籌辦工作文件 | 2026-10-13T01:18:38+00:00 | View mode |
+| [BkxrwGIvWx](../../notes/qkIrfWr9Q_Kho3HJ-uZ9IQ.md) | Almanac _ 公民科技年曆 / 主題日評估 | 2026-10-13T01:15:00+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 社群小松果 🌰 🐿️ | 2026-10-12T14:24:24+00:00 | View mode |
-| [Hkh8DtAgfl](../../notes/EvkiY6tiQzK2uve2kgpnAg.md) | 2027_ON+1030 籌辦工作文件 | 2026-10-12T07:31:45+00:00 | View mode |
 | [Byv5v5shbg](../../notes/-JUKdilNQ-uncai7swYokQ.md) | 2026 Civic Tech ON (October+November) | 2026-10-12T07:30:54+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-12T06:45:18+00:00 | View mode |
 | [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-10-11T06:50:25+00:00 | View mode |
@@ -47,7 +48,6 @@
 | [r1r42GXdfg](../../notes/oC6aCXPbR8KH2txBL1GwCw.md) | 社群小聚｜南投與埔里 | 2026-08-31T15:24:05+00:00 | View mode |
 | [rkWbVhDyfg](../../notes/OVCKhe3eTrOYYioJUuOvCA.md) | 社群小聚｜雲林 | 2026-08-31T15:21:24+00:00 | View mode |
 | [HyNCdGuGfe](../../notes/A014I2MSQXS4aQB1NU_KuQ.md) | 屏東 | 2026-08-30T23:57:46+00:00 | View mode |
-| [BkxrwGIvWx](../../notes/qkIrfWr9Q_Kho3HJ-uZ9IQ.md) | Almanac _ 公民科技年曆 / 主題日評估 | 2026-08-30T23:23:23+00:00 | View mode |
 | [Bk06N1PGfg](../../notes/Veor3T_3SiGyhlV8MA-crA.md) | 每月一次的週間晚上 AI x Civic Tech 分享 ┃ 籌備共筆 | 2026-08-30T11:54:57+00:00 | View mode |
 | [ryuGpT0eGx](../../notes/X-35BMf_QjW8NntAIGzuhQ.md) | COSCUP _ AI 開放治理 & Civic Tech 議程 | 2026-08-30T11:51:09+00:00 | View mode |
 | [By7uRdPZlg](../../notes/ZQVAAa9CQv6-oa0BQIGLeQ.md) | 2026／07 至 10 月 第柒拾肆次公民科技跑咖松 | 2026-08-30T10:23:59+00:00 | View mode |
