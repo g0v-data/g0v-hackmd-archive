@@ -34,6 +34,7 @@ https://www.facebook.com/share/185Wffte8Q/
 https://www.facebook.com/share/p/14jc4ucFDZP/
 
 毛少翁社
+https://www.facebook.com/share/p/18X12oDN71/
 https://www.facebook.com/share/1DD9S7kdru/
 https://www.facebook.com/share/p/19b2Eh1ZDH/
 
@@ -41,6 +42,9 @@ https://www.facebook.com/share/p/19b2Eh1ZDH/
 https://www.facebook.com/share/p/1CZMs6aUDG/
 https://photos.app.goo.gl/AhGfYa1S2c9buSuE8
 
+秀朗社
+https://www.facebook.com/share/p/19YAoTX5sK/
+https://www.facebook.com/share/p/1EzX9xjAyX/
 
 
 竹塹社
