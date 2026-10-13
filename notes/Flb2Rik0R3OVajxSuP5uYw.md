@@ -34,7 +34,7 @@ tags: GIS
 - 花蓮縣美崙 華東掩埋場 火災 https://www.facebook.com/share/r/1WiArGZUoz/
 - 三峽 橫溪 https://www.facebook.com/share/r/1JKuKahDe3/
 - 2026 基隆天外天掩埋場火災 https://youtu.be/1wg9L0oUpDA?si=WU0TZUsyunSqW8CF
-
+- https://www.facebook.com/share/19PVEGNnQ4/
 
 
 提案構想
