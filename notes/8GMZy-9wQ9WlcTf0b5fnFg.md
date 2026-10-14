@@ -1,0 +1,1 @@
+[ColaTV](https://colatv.channel/) là nền tảng trực tiếp bóng đá miễn phí dành cho người hâm mộ Việt, cung cấp đường truyền Full HD ổn định cùng bình luận viên tiếng Việt cuốn hút. Trang tích hợp lịch thi đấu, kết quả, bảng xếp hạng và livescore cập nhật liên tục, giúp theo dõi giải lớn từ Ngoại hạng Anh đến V-League tiện lợi trên trình duyệt mà không cần đăng ký.
