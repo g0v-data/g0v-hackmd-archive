@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants: Peter
+參與者 Participants: Peter, Bestian, Tim, Thompson
 
 自我介紹：
 https://www.vtaiwan.tw/jitsi 
@@ -54,11 +54,28 @@ https://www.vtaiwan.tw/jitsi
 
 ## 小小的分享
 ### 與 FDP 秘書長吃飯
-- 10/15 與德國自由民主黨秘書長妮可·布特納 (Nicole Büttner)來台訪團吃飯，討論公共審議工具的可能性。
+- 10/13 與德國自由民主黨 FDP 秘書長妮可·布特納 (Nicole Büttner)來台訪團吃飯，討論公共審議工具的可能性。
+    - [諾曼自由基金會全球創新中心](https://www.freiheit.org/zh/taiwan)就是 FDP 德國自由民主黨成立的。
 - 他們對我們使用 polis 與 civic talk 很感興趣
-- 剛好 civic talk 行動裝置友善版紀錄完成
+- 剛好 [civic talk 行動裝置友善版](https://civic.vtaiwan.tw/)開發完成，可以跟他們分享
+- 使用數位工具：建立使用者對於數位工具的信任
+- 以人為核心來使用數位工具。
+#### 可以分享的 item
+- make.vtaiwan.tw
+-- Github 開源專案位置 https://github.com/g0v/sensemaker-frontend
+- civic.vtaiwan.tw
+-- Github 開源專案位置 https://github.com/g0v/civic-talk-hono
+#### 未來小隊
+- https://interview.team-mir.ai/interview/ai-interview-feedback/topics
 
-
+### Gemic/Jigsaw 訪團
+- 日期：11/5 週四晚上 19:00
+- 地點：[請請義大利麵](https://share.google/O2ERSeZbtz0jV2oG1)
+- 110臺北市信義區興隆里逸仙路50巷22號 
+- 想要出席的人可以在底下+1
+    - +1 [name=peter]
+    - +1 [name=thompson]*
+    - +1 [name=tim]*
 
 ### Civic talk下一波介面優化目標
 
@@ -68,8 +85,28 @@ https://www.vtaiwan.tw/jitsi
 
 [**優化筆電介面(維持mobile first)**](https://github.com/g0v/civic-talk-hono/milestone/10)
 
+#### 未來發展方向與應用情境
+
+1. 實體審議的前導
+2. 議題手冊和事前的warmup
+3. 連結到過去的議題
+    - 可以達成 recursive 
 
 
+### 共議未來
+- 歡迎想要鍛鍊或者是訓練審議技術的人可以來讀
+- 邀請 [name=thompson]來分享！
+ 《[共議未來](https://gpi.culture.tw/books/1011500888)》
 
 
 ## 審議大會成果紀錄與結案報告
+- 共編文件連結：https://docs.google.com/document/d/1SfiSnufiqh1w-2En7Z7zikK6wDHhBOp9ov9UsPPGQ4I/edit?usp=sharing 
+- 小松討論紀錄：
+    - 第一場：[20260715 小松](/6VBfoYBHSrKNGHRegg0hwg)
+    - 第一場：[20260729 小松](/d8O37ClVT1KsAedOCosxfA)
+    - 第二場：[20260826 小松](/zHUQDJgzQ-S78Seh3WbvWw)
+    - 第三場：[20260916 小松](/gEyNBu0tRkOt71m9KJm_0Q)
+    - 第三場：[20260923小松](/53nCLdr2SNmUhU86b54Glg)
+### 可以改進
+
+### 觀察到的事情

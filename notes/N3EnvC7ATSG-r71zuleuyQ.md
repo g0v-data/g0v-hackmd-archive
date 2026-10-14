@@ -549,6 +549,8 @@ https://g0v.hackmd.io/@jothon/hsiaothon/
 八月
 - 暑假 COSCUP 
     - 2025 8/9-8/10
+- 8/25-8
+    - https://www.facebook.com/share/p/1MMKqXyeuy/
 
 九月
 - 已知活動
