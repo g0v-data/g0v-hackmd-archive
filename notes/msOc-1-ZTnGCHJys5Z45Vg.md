@@ -15,7 +15,43 @@ https://g0v.cafe ☕**
 
 https://g0v.hackmd.io/
 
-## g0v 台北黑客松 Hackath74n 合作單位與貢獻者 Contributors & Donors
+## g0v 台北黑客松 Hackath75n 合作單位與貢獻者 Contributors & Donors
+
+### 活動籌辦執行 Contributors
+- 活動籌畫 Event Planning：揪松團 https://linktr.ee/g0vjothon , chewei, Ronny
+- 帳務行政 Administration：OCF
+- 活動主視覺創作：YI
+- 揪松網網站更新：
+- 協助宣傳活動 Promotion Support：
+    - 揪松團發 SNS、揪松團寄送電子報、揪松團 LINE 群組
+    - 預計發送：
+        - FB 
+            - 島島阿學 FB 社團
+        - Discord
+            - Code for Taiwan Discord
+            - 北臺灣學生資訊社群
+        - 數位游牧協會
+        - 台北的大學科系與社團
+            - 盤點相關系辦信箱、學生社團信箱，加入到揪松團的信件群組「大專院校科系 & 大學社團」 https://docs.google.com/spreadsheets/d/1r8lQiNTov7L3vfrwFQZOZ6OJtAlCSe7dfy2HdowOYs8/edit
+- 餐飲籌劃：揪松團
+    - 午餐：甜心便當 https://g0v.hackmd.io/TFg-yum1S1SukuEL4yNOnQ?view
+    - 飲料與茶點：
+- 場地布置志工：chewei,
+- 場地：
+- 活動配樂：
+- 直播志工：SeanGau
+- 攝影志工：
+- 驗票與報到 Ticket Check-in and Registration：
+- 當天場務志工：
+- 現場提供英語解說協助 On-site English Interpretation Support：
+- 活動主持 Event Hosting：chewei, 
+- 專案導覽團 Project Tour： 
+
+---
+
+## 歷屆黑客松的合作單位與貢獻者 Contributors & Donors
+
+:::spoiler g0v 台北黑客松 Hackath74n 合作單位與貢獻者 Contributors & Donors
 
 ### 合作執行單位
 - g0v 揪松團 https://linktr.ee/g0vjothon
@@ -48,7 +84,7 @@ https://g0v.hackmd.io/
 - 場地布置志工：chewei, Joey, 小侯
 - 場地：屯屯書店 https://linktr.ee/tuntunbooksnbooze
 - 活動配樂：https://youtube.com/playlist?list=PLTfrFxFdAIEo&si=JPJ1RRoiio5jGALA
-- 直播志工：SeanGao
+- 直播志工：SeanGau
 - 攝影志工：Dong
 - 驗票與報到 Ticket Check-in and Registration：Joey
 - 當天場務志工：Joey, 小侯
@@ -58,7 +94,9 @@ https://g0v.hackmd.io/
 - 社群推廣小冊子：chewei, 
     - 歡迎跳坑 https://g0v.hackmd.io/8nYqYBChQliFk55hQlnP5Q?view
 
-## g0v 台北黑客松 Hackath73n 合作單位與貢獻者 Contributors & Donors
+:::
+
+:::spoiler g0v 黑客松 Hackath73n 合作單位與貢獻者 Contributors & Donors
 
 ### 合作執行單位
 - g0v 揪松團 https://linktr.ee/g0vjothon
@@ -104,8 +142,7 @@ https://g0v.hackmd.io/
     - 籌畫執行：揪松團,
     - 獎金贊助：綠沙發社群, chewei
 
-
-## 歷屆黑客松的合作單位與貢獻者 Contributors & Donors
+:::
 
 :::spoiler g0v 台南黑客松 Hackath72n 合作單位與貢獻者 Contributors & Donors
 

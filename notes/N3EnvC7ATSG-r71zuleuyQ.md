@@ -214,7 +214,7 @@ https://linktr.ee/g0vjothon
 
 ---
 
-2026/11/08 Sun. g0v 第柒拾伍次黑客松 Hackath75n
+2026/11/08 Sun. g0v 第柒拾伍次投出未來黑客松 G0Vote Hackath75n
 - Live stream on YouTube 活動直播 https://www.youtube.com/@g0vTW/
 - g0v Slack Chat Room 文字聊天頻道 https://g0v.hackmd.io/@jothon/joing0vslack
 - 實體場次_報名網址：https://g0v.hackmd.io/@jothon/g0v-hackath75n
