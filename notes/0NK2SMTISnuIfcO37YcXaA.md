@@ -94,3 +94,12 @@ https://g0v.hackmd.io/-9i14hLqRFez1IzvOhCyow?view
 - Ronny> 我今天想到一個隱私的議題，跟 gemini 討論了一下，覺得好像是個值得關注但是好像沒什麼人在討論的，就是關於 ETag 。
 - 在 OCF Slack 頻道有討論串
 - Ronny 建立了一個議題內容開展頁面 https://ronnywang.github.io/civic-notes/etag-privacy/
+
+## 20260805
+
+待查找 slack archive 網址
+
+![](https://g0v.hackmd.io/_uploads/HJnUOipsMl.png)
+![](https://g0v.hackmd.io/_uploads/SkxnIuiaoMg.png)
+
+
