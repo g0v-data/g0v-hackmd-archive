@@ -7,6 +7,9 @@ Chainlon 展頌臨時文字紀錄區，公開頁面、嚴禁機密資料，快�
 :::
 暫時文字放在下方：
 
+https://www.chainlon.net/2.html
+
+
 https://teams.microsoft.com/meet/47588655910144?p=jheAZKBZs8Z1k19JmV
 
 

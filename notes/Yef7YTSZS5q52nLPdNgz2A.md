@@ -46,7 +46,7 @@ g0v 社群小松果 🌰 🐿️
 - [No.] 1210 週四晚上 F4: functional thursday 社群活動 (接洽 by chewei)
 - [No.]
 - 空間續約詢問警戒日 11/15 週日：倒數 45 天
-- [No.] 1114 週六下午暫訂國會松
+- [No.] 1121 週六下午暫訂國會松
 - [No.] 1112 週四晚上 F4: functional thursday 社群活動 (接洽 by chewei)
 - [No.] 
 - [No.] 1109 週一晚上 [Clojure Meetup](https://www.facebook.com/share/g/1984fJXewb/) (接洽 by chewei, Laurence Chen)
