@@ -30,9 +30,11 @@ tags: edu, ReSchool,
 [toc]
 :::
 
-跳坑：明錡, chewei, yellowsoar, Tiff, 小夏, Tmonk, 蔡阿薛Eden,
-總統盃黑客松成員：chewei, yellowsoar, 簡老師, 守傑, Klye, Ronny, 郭博勝, 
-經驗交流：高雄市，雲林縣
+貢獻者
+- 跳坑：明錡, chewei, yellowsoar, Tiff, 小夏, Tmonk, 蔡阿薛Eden,
+- 總統盃黑客松成員：chewei, yellowsoar, 簡老師, 守傑, Klye, Ronny, 郭博勝, 
+- 經驗交流：高雄市
+- 經驗交流：雲林縣、亞洲大學團隊
 
 專案介紹影片：https://youtu.be/_Xm3e4bGLIM
 
@@ -180,6 +182,12 @@ Connect 累積行動團體網絡名單
     - https://www.cip.gov.tw/zh-tw/news/data-list/9A8362871EA0BBFF/7BC58CB745833C26AE9B30328A2228A5-info.html
     - https://gis.ardswc.gov.tw/news/map/303
 - 林業事業區 https://www.facebook.com/share/p/16xAHyUTgG/
+
+
+民間關注單位
+- https://youtu.be/9x_nPGmUqys
+
+
 
 
 ### 縣市教育治理政策情境
