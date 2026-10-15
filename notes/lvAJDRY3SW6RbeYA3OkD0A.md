@@ -1,0 +1,1 @@
+[79king cc](https://79kingcc.net/) tạo nên ấn tượng mạnh mẽ với không gian tương tác trực tuyến đỉnh cao và vô cùng hấp dẫn. Nền tảng được tối ưu hóa chuẩn xác, hỗ trợ kết nối mượt mà trên mọi nền tảng thiết bị, mang đến cho người dùng những giây phút giải trí chất lượng và đầy cuốn hút.
