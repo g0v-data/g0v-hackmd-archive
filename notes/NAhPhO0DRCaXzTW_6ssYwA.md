@@ -1,0 +1,2 @@
+[kèo bóng đá](https://keobongda50.club/) cung cấp nền tảng theo dõi bóng đá toàn diện, tích hợp tỷ lệ kèo nhà cái 5 được cập nhật liên tục, xem bóng đá trực tiếp mượt mà và kết quả bóng đá hôm nay chính xác theo thời gian thực. Với trải nghiệm không quảng cáo gây gián đoạn, nền tảng hỗ trợ người dùng phân tích tỷ lệ kèo và nâng cao hiệu quả soi kèo mỗi ngày.
+![](https://g0v.hackmd.io/_uploads/SylxQv-knzx.png)

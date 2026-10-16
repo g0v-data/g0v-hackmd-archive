@@ -1,0 +1,1 @@
+<a href="https://7mcnmacao.com/">7M</a> là nền tảng cập nhật tỷ số bóng đá trực tuyến nhanh chóng và chính xác, mang đến dữ liệu thời gian thực từ hàng trăm giải đấu lớn nhỏ trên thế giới. Người dùng dễ dàng theo dõi kết quả, lịch thi đấu, diễn biến trận đấu cùng các phân tích chuyên sâu giúp nắm bắt thông tin thể thao một cách toàn diện và tiện lợi mỗi ngày.

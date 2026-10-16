@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [r1QUPqo2Wg](../../notes/S3cmrJ8mS06lPKHJSxSINg.md) | 10/24 Civic Tech Day<br>公民科技主題日 | 2026-10-16T02:25:15+00:00 | Book mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-16T01:36:58+00:00 | View mode |
 | [SkL1dHSCyl](../../notes/Ovl0MYOsQCKECQ9Ig4HOVA.md) | AI 麻瓜共學團 | 2026-10-15T23:57:22+00:00 | Book mode |
 | [H1fFF6AiGg](../../notes/y7g5eBS4RJ-QPul7siR0ug.md) | g0v 第柒拾伍次<br>投出未來黑客松<br>G0Vote Hackath75n | 2026-10-15T23:22:17+00:00 | Book mode |
@@ -25,7 +26,6 @@
 | [BJHF00i_Gg](../../notes/0k2xQac4Ru6zWpQX_naeDg.md) | 桃園 | 2026-09-28T11:39:24+00:00 | View mode |
 | [r17EsOYrex](../../notes/71J-oG2VThSDQomGVzi0HA.md) | 社群小聚｜在嘉義舉辦社群小聚 | 2026-09-27T13:47:00+00:00 | View mode |
 | [ry5TjRBhD](../../notes/hkqwwNqfQ9OPLIamC5QW-g.md) | g0v 賀年卡與賀年詞募集 | 2026-09-26T15:23:30+00:00 | View mode |
-| [r1QUPqo2Wg](../../notes/S3cmrJ8mS06lPKHJSxSINg.md) | Civic Tech _ Almanac | 2026-09-26T14:29:20+00:00 | Book mode |
 | [SyGl1tPbxl](../../notes/lQoQZLwxSh29OdvMIBhnkA.md) | 2026／11 g0v 大松命名 | 2026-09-21T15:44:39+00:00 | View mode |
 | [H1NxxDjyGl](../../notes/N406TMGEQYKe9nK8bu26XQ.md) | 基隆 | 2026-09-19T14:37:07+00:00 | View mode |
 | [H1IgVnPkGg](../../notes/G2NrbqCXR2u7VQnl5SG9UQ.md) | 社群小聚｜彰化 | 2026-09-15T19:35:46+00:00 | View mode |
