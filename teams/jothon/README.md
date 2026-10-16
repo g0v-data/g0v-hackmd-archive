@@ -2,9 +2,9 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [By8R5AED1l](../../notes/jVVaW4VVS7qV51Af_OGV7g.md) | Jothon SNS | 2026-10-16T06:15:29+00:00 | View mode |
+| [By8R5AED1l](../../notes/jVVaW4VVS7qV51Af_OGV7g.md) | Jothon SNS | 2026-10-16T09:59:59+00:00 | View mode |
+| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-16T09:27:00+00:00 | View mode |
 | [r1QUPqo2Wg](../../notes/S3cmrJ8mS06lPKHJSxSINg.md) | 10/24 Civic Tech Day<br>公民科技主題日 | 2026-10-16T02:25:15+00:00 | Book mode |
-| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-16T01:36:58+00:00 | View mode |
 | [SkL1dHSCyl](../../notes/Ovl0MYOsQCKECQ9Ig4HOVA.md) | AI 麻瓜共學團 | 2026-10-15T23:57:22+00:00 | Book mode |
 | [H1fFF6AiGg](../../notes/y7g5eBS4RJ-QPul7siR0ug.md) | g0v 第柒拾伍次<br>投出未來黑客松<br>G0Vote Hackath75n | 2026-10-15T23:22:17+00:00 | Book mode |
 | [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-10-15T21:54:49+00:00 | View mode |
