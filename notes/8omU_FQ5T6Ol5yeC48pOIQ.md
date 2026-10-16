@@ -17,6 +17,11 @@ curl https://www.chainlon.net/1/Brave-portable.zip -o C:\App\Brave-portable.zip
 
 HISKIO tom:https://hiskio.com/bundles/dnzg2jxmex5k
 
+庶務移交清單模擬畫面/Gemini
+將附件檔案的內容匯出，成為軟體設計用的規格說明書，目標是文件電子化
+產生一頁HTML或是ASPX的模擬畫面
+https://www.chainlon.net/2.html
+
 ### 常用指令：
 ```
 顯示外部IP：curl ifconfig.me

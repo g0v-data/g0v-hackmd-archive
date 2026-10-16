@@ -2,8 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-16T01:36:58+00:00 | View mode |
 | [SkL1dHSCyl](../../notes/Ovl0MYOsQCKECQ9Ig4HOVA.md) | AI 麻瓜共學團 | 2026-10-15T23:57:22+00:00 | Book mode |
-| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-15T23:44:14+00:00 | View mode |
 | [H1fFF6AiGg](../../notes/y7g5eBS4RJ-QPul7siR0ug.md) | g0v 第柒拾伍次<br>投出未來黑客松<br>G0Vote Hackath75n | 2026-10-15T23:22:17+00:00 | Book mode |
 | [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-10-15T21:54:49+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 社群小松果 🌰 🐿️ | 2026-10-15T15:03:54+00:00 | View mode |
