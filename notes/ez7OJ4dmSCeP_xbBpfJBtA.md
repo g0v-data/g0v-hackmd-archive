@@ -1,0 +1,1 @@
+Welcome to Futureway Consultancy, one of the most trusted and reliable study abroad consultancies in Bangladesh. We provide professional international education guidance, student admission support, and visa processing services for students who dream of studying in the UK, Canada, USA, New Zealand, Denmark, and Malaysia. website : https://futurewayconsultancy.com/bangladesh/ 
