@@ -219,7 +219,7 @@ https://linktr.ee/g0vjothon
 - 線上會議網址與活動共筆：https://g0v.hackmd.io/@jothon/ai/
 - 講題一：抵禦資訊操弄的開源實踐：Cofacts 群眾查核平台的經驗與挑戰
     - 講者：Billion 
-    - 講題簡介：Billion 在 2016 年共同發起 Cofacts 真的假的專案。她長期在婚姻平權、開放與自由的領域深耕多元的倡議與對話，比鄰也開發對抗不實訊息的培力課程。她專精公民科技與數位民主活動，曾獲選美國國務院專業人才交流計畫之學友與去中心化網路學友專案。
+    - 講題簡介：在面對錯誤資訊之時，我們期望透過工具的開發，提供有意願的公民資料收集與效率的幫助。人機合作，群眾協作，讓協作者在自己習慣的空間創造社會影響力。Billion 在 2016 年共同發起 Cofacts 真的假的專案。她長期在婚姻平權、開放與自由的領域深耕多元的倡議與對話，比鄰也開發對抗不實訊息的培力課程。她專精公民科技與數位民主活動，曾獲選美國國務院專業人才交流計畫之學友與去中心化網路學友專案。
 - 講題二：From AI to Alliance 集眾之智，共創健康生活
     - 講者：Ann, JC, Wei, YU
     - 講題簡介：(100 字) AI應用在醫療還沒起步就會遇到如何落地的挑戰。從合作的場域與醫療人員、繁瑣的法規與倫理試驗委員會、前端/後端/使用者經驗/和醫療機構介接，築起一層又一層的門檻。來聽聽過去這一年，甘蔗汁小隊是如何用低成本、佛系開拓出一個可行的路徑吧！
@@ -228,6 +228,23 @@ https://linktr.ee/g0vjothon
     - 講題簡介：一個人能整理的公民科技資源文章有限。因此我用 AI 加速寫作，並把整個流程封裝成一套可重複使用的開源 Skill，確保內容扎實、品質穩定。這場短講會分享我如何設計人機分工：讓 AI 處理耗時的整理，人專心把關核心重點。
 
 ---
+
+11/06 週五【第10屆《科技發展與法律規範學術研討會》形構數位自我：資料、資本與正義】
+- 時間：2026年11月6日（五）
+- 地點：中央研究院人文社會科學館北棟三樓第一會議室
+- 詳細資訊：https://www.facebook.com/story.php?story_fbid=pfbid0v1gXdKmCHWaTt7UpQCSQ4TFEjBaMsZcTsjWUFtYPWq3yAwp9AmwMSGEhs3ubrdWKl&id=100063789742948&mibextid=NOb6eG
+- 議程講題轉貼：
+    - Sociological Critique of Generative AI 生成式 AI 的社會學批判
+    - Foundation Models, Sovereign Power, Law, and the Struggle for Dominance in Universal Infrastructure 基礎模型的權力分析：主權權力、法律與基礎設施的主導權爭奪
+    - Collective Data Bias: An Ontology through the Lens of Social Network 集體資料偏誤：透過社會網絡視角解析的本體
+    - How Biased AI Vaccine Information Deepens Health Inequity Across Communities of Unequal Trust 帶立場偏向的大型語言模型疫苗資訊如何在低信任社群加深健康不平等
+    - Industry-led Crawler Regulation  and the Threat to the Open Web 產業主導的爬蟲規範與開放網路的危機
+    - Voice Cloning and the Bounded Fluidity of Vocal Data: Toward a Relational Governance AI 聲音複製：聲音資料之有界性流動及關係性治理之初探
+    - Data Governance of Digital Advertising-Driven Business Models: Starting from the EU Meta ‘Pay or Consent’ Case 數位廣告驅動商業模式之資料治理：從歐盟臉書「付費或同意」案出發
+    - Ambient intelligence and regulation: some legal metamorphoses through the lens of two dichotomies 情境智能與規範體制：兩組對立視角下之若干法律蛻變
+
+
+--- 
 
 2026/11/08 Sun. g0v 第柒拾伍次投出未來黑客松 G0Vote Hackath75n
 - 活動時間 Time：2026/11/08 週日 Sun. 10:30-17:30

@@ -33,12 +33,15 @@ tags: 新生流域,
 ## 東大排
 - 信義區信義路五段150巷315弄 https://maps.app.goo.gl/zsCzj12S7Mv6FMYh6
 
-## 待指認所屬系統
+## 待指認所屬系統，信義區 吳興街
 
 惠安公園與水路
 https://photos.app.goo.gl/WUsSzkeuBDLyVBC28
 
-台北醫學大學宿舍旁水路
+https://www.veins-of-taipei.com/2025/10/20/r137/
+
+## 台北醫學大學宿舍旁水路
+
 https://photos.app.goo.gl/K4297DFQc5WBUaAp8
 
 ## 景美溪東側岔流
