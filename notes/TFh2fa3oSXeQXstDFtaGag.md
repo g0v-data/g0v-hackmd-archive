@@ -145,6 +145,10 @@ https://trailpaint.org/stories/taiwan-missionaries/
 北海岸
 https://www.facebook.com/share/p/15xaBdVUQ5/
 徒步環島 https://www.facebook.com/share/p/1CK1fohbPV/
+
+單車環島
+https://www.facebook.com/TaipeiBikeWorks/posts/pfbid02sNnao8bTJ7X9k7hq72YiUHvfPjwA3bKV3a4tC95EFaQ58ayog9WwMTuMZGfK4JRgl
+
 火車環島
 https://www.facebook.com/share/p/1DVz6XwY6s/
 火車環島，搭配解任務競賽
