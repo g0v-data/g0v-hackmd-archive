@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [By8R5AED1l](../../notes/jVVaW4VVS7qV51Af_OGV7g.md) | Jothon SNS | 2026-10-16T05:33:27+00:00 | View mode |
 | [r1QUPqo2Wg](../../notes/S3cmrJ8mS06lPKHJSxSINg.md) | 10/24 Civic Tech Day<br>公民科技主題日 | 2026-10-16T02:25:15+00:00 | Book mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-16T01:36:58+00:00 | View mode |
 | [SkL1dHSCyl](../../notes/Ovl0MYOsQCKECQ9Ig4HOVA.md) | AI 麻瓜共學團 | 2026-10-15T23:57:22+00:00 | Book mode |
@@ -33,7 +34,6 @@
 | [B13XHdP1Ml](../../notes/2QPnlJdcRcmMxbBTLiujeA.md) | Disaster 防災與減災 | 2026-09-11T09:21:22+00:00 | View mode |
 | [Hyxo4FkjC](../../notes/MdulssubSXyXzX_Jm7EmdA.md) | 揪松團擺攤方案：器材、互動、口語說明內容 | 2026-09-10T20:41:39+00:00 | View mode |
 | [ByHiV_Dkzg](../../notes/oH-LgYkMQiGHaA0HFo7hsg.md) | Vote 政見資料，選舉資料，政治獻金 | 2026-09-10T16:13:53+00:00 | View mode |
-| [By8R5AED1l](../../notes/jVVaW4VVS7qV51Af_OGV7g.md) | Jothon SNS | 2026-09-08T11:10:51+00:00 | View mode |
 | [SyuU7Md9Zg](../../notes/iOqB9tVBQF6_hFl_Jm2jOA.md) | 共辦效應 Meetup<br> Accompanied Effect | 2026-09-07T06:51:08+00:00 | Book mode |
 | [SkGS-jwJzx](../../notes/xt2YlHBSSzWhPAO65XnmMg.md) | <center>公民科技行動指引<br>Civic Tech Guide</center> | 2026-09-05T06:22:17+00:00 | View mode |
 | [rkVx1GUCWe](../../notes/rO5b1GLFQY-njG5vOqx1bw.md) | 公民科技行動指引 Guide | 2026-09-05T06:21:48+00:00 | Book mode |
