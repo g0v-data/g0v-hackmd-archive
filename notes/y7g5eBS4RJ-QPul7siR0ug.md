@@ -7,7 +7,7 @@ tags: jothon,
 - [What is a g0v hackathon ?<br>什麼是 g0v 黑客松？](https://g0v.hackmd.io/KvzHayP4SPqXRhtrn2QH0w?view)
 - [g0v Code of Conduct (CoC)<br>g0v 行為守則](https://g0v.hackmd.io/s/COC)
 
-## Event Info<br>[UTC+8] 2026/11/08<br>Sat. 10:30-17:30<br>@Taipei NPOHUB
+## Event Info<br>[UTC+8] 2026/11/08<br>Sun. 10:30-17:30<br>@Taipei NPOHUB
 
 - [Run-down / Projects<br>活動流程與專案清單](https://docs.google.com/spreadsheets/d/1Edt1jsKKRgGzE4uR1LDpKrAohz8gAKPnO17-XtF8HpM/edit?usp=sharing)
 - [Live stream on YouTube<br>活動直播](https://www.youtube.com/g0vTW)[target=_blank]
@@ -29,15 +29,11 @@ tags: jothon,
 
 ## Find Project 
 
-- [civictech.tw](civictech.tw)[target=_blank]
+- [台灣公民科技資料庫<br>civictech.tw](https://civictech.tw/)[target=_blank]
 - [與 AI 聊聊公民科技知識內容](https://notebooklm.google.com/notebook/1d609458-7ef5-4b50-afbc-13ad31ea375e)[target=_blank]
 - [GitHub](https://github.com/g0v/awesome-g0v)[target=_blank]
 - [Crowdsourcing Project / Task](https://g0v.hackmd.io/@jothon/task)
 - [來幫下一場 g0v 黑客松取名子+投票](https://g0v.hackmd.io/@jothon/hackathon-name)[target=_blank]
-- [900+ 次提案 / 搜尋介面](https://chunyenhuang.github.io/awesome-g0v-projects/#/)
-- [200+ 個專案 / 連結](https://sheet2site.com/api/v3/index.php?key=1Qm1u2kRpqEtWAHyQJWMFf0NKPx0HMOhb8uBDbLfUKoM)[target=_blank]
-- [200+ 個專案<br>20 個影響力類別的分布圓餅圖](https://app.awesome-table.com/-MnVz4_I6B5OzsFZUcaq/view)
-- [200+ 個專案<br>依照憲政五院部會架構](https://g0v.hackmd.io/@jothon/forms-of-government/)[target=_blank]
 - [專案圖鑑 - 用簡報方式製作各個專案的介紹頁面](https://docs.google.com/presentation/d/1S4rWtCGAe99Vy_bLd6CjuHtAdrCYzN1k7TqhIrG-u5g/edit#slide=id.g19bfd91926b_0_3)
 - [數位解方策略及工具推薦 / 揉合公民權的公民科技專案策略](https://docs.google.com/spreadsheets/d/1P1sCLPAQP9hUwMFVGzneg9lAIFLoYe_arsmgdUy23FA/edit)
 

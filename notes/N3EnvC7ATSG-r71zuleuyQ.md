@@ -209,16 +209,35 @@ https://linktr.ee/g0vjothon
 
 11/02 AI Monday 線上活動
 - 時間：11/02 週一晚上 20:00-21:30
-- 線上活動網址：
-- 活動共筆：https://g0v.hackmd.io/@jothon/ai/https%3A%2F%2Fg0v.hackmd.io%2FVeor3T_3SiGyhlV8MA-crA
+- 線上會議網址與活動共筆：https://g0v.hackmd.io/@jothon/ai/
+- 講題一：抵禦資訊操弄的開源實踐：Cofacts 群眾查核平台的經驗與挑戰
+    - 講者：Billion 
+    - 講題簡介：Billion 在 2016 年共同發起 Cofacts 真的假的專案。她長期在婚姻平權、開放與自由的領域深耕多元的倡議與對話，比鄰也開發對抗不實訊息的培力課程。她專精公民科技與數位民主活動，曾獲選美國國務院專業人才交流計畫之學友與去中心化網路學友專案。
+- 講題二：From AI to Alliance 集眾之智，共創健康生活
+    - 講者：Ann, JC, Wei, YU
+    - 講題簡介：(100 字) AI應用在醫療還沒起步就會遇到如何落地的挑戰。從合作的場域與醫療人員、繁瑣的法規與倫理試驗委員會、前端/後端/使用者經驗/和醫療機構介接，築起一層又一層的門檻。來聽聽過去這一年，甘蔗汁小隊是如何用低成本、佛系開拓出一個可行的路徑吧！
+- 講題三：一個人寫公民科技指引太累啦！把我跟 AI 寫作流程做成 Skill 的經驗分享
+    - 講者：Claire
+    - 講題簡介：一個人能整理的公民科技資源文章有限。因此我用 AI 加速寫作，並把整個流程封裝成一套可重複使用的開源 Skill，確保內容扎實、品質穩定。這場短講會分享我如何設計人機分工：讓 AI 處理耗時的整理，人專心把關核心重點。
 
 ---
 
 2026/11/08 Sun. g0v 第柒拾伍次投出未來黑客松 G0Vote Hackath75n
+- 活動時間 Time：2026/11/08 週日 Sun. 10:30-17:30
+- 活動地點 Location：g0v 台北社群空間 / 台北市中正區重慶南路三段2號 g0v Community Hub, Taipei   / No. 2, Section 3, Chongqing South Road, Zhongzheng District, Taipei City
+- 活動流程 Event Schedule
+    - 10:20-10:30 報到 Check-in
+    - 10:30-11:00 活動開場，公民科技資料庫介紹 Opening & Civic Tech Database Introduction
+    - 11:00-12:00 提案時間，每個提案 3 分鐘 Project Pitching (3 mins per pitch)
+    - 12:00 午餐 Lunch
+    - 14:00-14:40 短講時間，每個短講 8 分鐘 Talks (8 mins per talk)
+    - 16:30-17:30 成果報告，每個報告 5 分鐘 Project Wrap-up (5 mins per presentation)
+    - 17:30 活動結束 Event Ends
+    - 17:30-20:30 場地開放自由使用 Venue Open for Free Networking / Hacking
+- 活動共筆與報名網址 Registration：https://g0v.hackmd.io/@jothon/g0v-hackath75n/
 - Live stream on YouTube 活動直播 https://www.youtube.com/@g0vTW/
 - g0v Slack Chat Room 文字聊天頻道 https://g0v.hackmd.io/@jothon/joing0vslack
-- 實體場次_報名網址：https://g0v.hackmd.io/@jothon/g0v-hackath75n
-    - 活動地點：g0v 台北社群空間 (臺北市中正區重慶南路三段2號2樓202室)
+
 
 ---
 

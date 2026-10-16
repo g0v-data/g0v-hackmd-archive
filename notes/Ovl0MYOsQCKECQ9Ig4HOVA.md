@@ -6,7 +6,7 @@ tags: AI,
 
 ## AI Monday<br>每月第一個週一晚上<br>線上分享 AI 與公民科技
 - [AI Monday 活動詳細資訊](https://docs.google.com/spreadsheets/d/1y9RLwi-O040_NhvmGpuEhXXPSvsbgbHWgiAmIioI6i0/edit?gid=0#gid=0)
-- [網頁好讀版+活動資訊日曆+可介接資料](https://g0v.github.io/AI-Monday/)[target=_blank]
+- [網頁好讀版<br>+活動資訊日曆<br>+可介接資料](https://g0v.github.io/AI-Monday/)[target=_blank]
 - [籌備文件](https://g0v.hackmd.io/Veor3T_3SiGyhlV8MA-crA)
 
 ## AI 培力課程與<br>專題實作活動資訊

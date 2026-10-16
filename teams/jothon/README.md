@@ -2,8 +2,9 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [H1fFF6AiGg](../../notes/y7g5eBS4RJ-QPul7siR0ug.md) | g0v 第柒拾伍次<br>投出未來黑客松<br>G0Vote Hackath75n | 2026-10-15T22:09:51+00:00 | Book mode |
-| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-15T21:55:29+00:00 | View mode |
+| [SkL1dHSCyl](../../notes/Ovl0MYOsQCKECQ9Ig4HOVA.md) | AI 麻瓜共學團 | 2026-10-15T23:57:22+00:00 | Book mode |
+| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-15T23:44:14+00:00 | View mode |
+| [H1fFF6AiGg](../../notes/y7g5eBS4RJ-QPul7siR0ug.md) | g0v 第柒拾伍次<br>投出未來黑客松<br>G0Vote Hackath75n | 2026-10-15T23:22:17+00:00 | Book mode |
 | [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-10-15T21:54:49+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 社群小松果 🌰 🐿️ | 2026-10-15T15:03:54+00:00 | View mode |
 | [Hkh8DtAgfl](../../notes/EvkiY6tiQzK2uve2kgpnAg.md) | 2027_ON+1030 籌辦工作文件 | 2026-10-13T01:18:38+00:00 | View mode |
@@ -14,7 +15,6 @@
 | [B17hjPWufg](../../notes/zlgYN4KdR_a4bsOVPdOr1w.md) | 社群小聚｜臺中 | 2026-10-08T19:10:47+00:00 | View mode |
 | [ByV45GdcZe](../../notes/LvivQwz1TT20JqfRA-U0sQ.md) | 社群小聚｜台東 | 2026-10-08T14:47:49+00:00 | View mode |
 | [S1vmKz_9-l](../../notes/U8ZY6AcwTAWX1Kyz-t614g.md) | 社群小聚｜花蓮 | 2026-10-08T14:47:20+00:00 | View mode |
-| [SkL1dHSCyl](../../notes/Ovl0MYOsQCKECQ9Ig4HOVA.md) | AI 麻瓜共學團 | 2026-10-08T14:30:07+00:00 | Book mode |
 | [H1rk1Z9lel](../../notes/z91iPKGeRTGH-lIs8XKayg.md) | Appendix-Civic Tech Project & Community Handbook \| Learning Sheet 公民科技專案與社群手冊學習單 | 2026-10-08T02:24:41+00:00 | View mode |
 | [SkxM9QBwsn](../../notes/b3T70Xu-Q1Gug2UHdIbRBQ.md) | 5-5：台日韓青年參與公民科技社群現況 ｜ g0v 公民科技專案與社群手冊｜g0v Civic Tech Project & Community Handbook | 2026-10-08T01:56:02+00:00 | View mode |
 | [B19nOO-Wh](../../notes/-wHZDBuyR8WSUn6v0GO_4A.md) | g0v 公民科技專案與社群手冊 | 2026-10-08T01:52:23+00:00 | Book mode |
