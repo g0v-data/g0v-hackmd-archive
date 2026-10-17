@@ -1,4 +1,5 @@
-![](https://g0v.hackmd.io/_uploads/SyxFCVwl2fe.jpg)
+![](https://g0v.hackmd.io/_uploads/HJxYBtgZnMx.jpg)
+
 
 
 <a href="https://win79com.host">Win79</a>  xây dựng hệ thống giải trí đa dạng với nhiều dòng game và sảnh chơi được bố trí theo từng chuyên mục. Bên cạnh game bài, slot và casino, nền tảng còn có các lựa chọn như Tài Xỉu, bắn cá cùng nhiều nội dung đáng chú ý khác. Khám phá Win79 để cập nhật thêm thông tin về giao diện, tính năng và hệ thống trò chơi.
