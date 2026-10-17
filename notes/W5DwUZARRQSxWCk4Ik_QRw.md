@@ -1,0 +1,2 @@
+taixiu green
+<a href="https://taixiu.green/">Tài xỉu</a> không chỉ đơn thuần là một trò chơi lắc xúc xắc may rủi quen thuộc mà từ lâu đã trở thành một phần trong văn hóa giải trí nhanh của rất nhiều người. Từ những buổi tụ họp bạn bè rôm rả đến các nền tảng trực tuyến hiện đại, mỗi tiếng hô "Tài" hay "Xỉu" đều mang đến những cung bậc cảm xúc hồi hộp, kịch tính khó quên.
