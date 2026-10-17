@@ -60,6 +60,9 @@ https://www.facebook.com/share/p/18GZZSySn1/
 https://www.facebook.com/share/1Jbg1km7dh/
 https://www.facebook.com/share/1BxCJT6MzX/
 
+中部平埔青年
+https://www.facebook.com/share/1Eti2VnRmY/
+
 大肚
 https://youtu.be/YT4os4vtbU4
 
@@ -72,6 +75,10 @@ https://youtu.be/j2dROk3H-6M
 
 吉貝耍
 https://www.facebook.com/share/v/18Mg4DXvUL/?mibextid=wwXIfr
+
+
+東螺社
+https://www.facebook.com/share/p/1DnfkgR8vp/
 
 埔里 噶哈巫
 https://www.facebook.com/share/r/18U15NDiSD/
