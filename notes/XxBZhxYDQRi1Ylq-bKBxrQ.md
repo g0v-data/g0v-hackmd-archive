@@ -1,0 +1,1 @@
+<a href="https://kqbd.at/">KQBD</a> là nền tảng cập nhật kết quả bóng đá trực tuyến nhanh chóng và chính xác, mang đến tỷ số thời gian thực cùng lịch thi đấu, bảng xếp hạng từ hàng trăm giải đấu lớn nhỏ. Người dùng dễ dàng theo dõi diễn biến trận đấu, thống kê chi tiết và thông tin quan trọng giúp nắm bắt thế giới bóng đá một cách toàn diện mỗi ngày.
