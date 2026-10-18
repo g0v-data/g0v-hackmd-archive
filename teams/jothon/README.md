@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-10-18T09:18:07+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 社群小松果 🌰 🐿️ | 2026-10-17T16:16:20+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-16T13:47:27+00:00 | View mode |
 | [By8R5AED1l](../../notes/jVVaW4VVS7qV51Af_OGV7g.md) | Jothon SNS | 2026-10-16T10:02:23+00:00 | View mode |
@@ -12,7 +13,6 @@
 | [Hkh8DtAgfl](../../notes/EvkiY6tiQzK2uve2kgpnAg.md) | 2027_ON+1030 籌辦工作文件 | 2026-10-13T01:18:38+00:00 | View mode |
 | [BkxrwGIvWx](../../notes/qkIrfWr9Q_Kho3HJ-uZ9IQ.md) | Almanac _ 公民科技年曆 / 主題日評估 | 2026-10-13T01:15:00+00:00 | View mode |
 | [Byv5v5shbg](../../notes/-JUKdilNQ-uncai7swYokQ.md) | 2026 Civic Tech ON (October+November) | 2026-10-12T07:30:54+00:00 | View mode |
-| [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-10-11T06:50:25+00:00 | View mode |
 | [S10SNQMj1x](../../notes/gj-iH-szRWypWKwt1glm_Q.md) | 地區社群支持方案 | 2026-10-11T02:29:06+00:00 | View mode |
 | [B17hjPWufg](../../notes/zlgYN4KdR_a4bsOVPdOr1w.md) | 社群小聚｜臺中 | 2026-10-08T19:10:47+00:00 | View mode |
 | [ByV45GdcZe](../../notes/LvivQwz1TT20JqfRA-U0sQ.md) | 社群小聚｜台東 | 2026-10-08T14:47:49+00:00 | View mode |
