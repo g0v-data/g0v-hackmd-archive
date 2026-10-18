@@ -100,6 +100,9 @@ https://www.facebook.com/share/p/16DqpskrVq/
 撿到，海域上的漂浮油管
 https://www.facebook.com/story.php?story_fbid=pfbid07fxxmunruhVYawt29xaG2cYsL4kXGE3fbnaDPoamKQ34zwvBDyqtCWRKwWKKeejkl&id=100064855503591&mibextid=tejx2t
 
+撿到，淨灘活動撿到彈脫式衛星標籤
+https://www.facebook.com/share/p/1Ed7ff94Kt/
+
 【FB 社團】海洋類的儀器，可以先轉到 海社 FB 社團
 https://www.facebook.com/groups/151945971606662
 
