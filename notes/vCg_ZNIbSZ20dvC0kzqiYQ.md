@@ -131,6 +131,13 @@ idea: 可以建立一個地點地圖
 - 20261017 chewei 有提供面紙包給 臺北市大安區唐山書店
 
 
+
+## 待詢問
+
+
+- 澎湖縣馬公市_植隱冊室
+- 馬來西亞 季風三三 https://www.facebook.com/share/1E9brSyZ7k/
+
 ## 建立表單
 
 讓空間經營單位可以填寫地址
@@ -221,6 +228,8 @@ https://forms.gle/bBxBfiiooGsfjTa38
     - https://www.facebook.com/share/p/1Cu7cnsHq7/
 
 ### 盤點文宣品與摺頁寄放地點
+- 待詢問 花蓮光復_彼心書店 能否寄放面紙包
+- 待詢問 台東市_檔案室裡的小村閱讀 能否寄放面紙包
 - 自造中心
     - 花蓮光復 https://www.facebook.com/share/p/1C3NNDi47v/
 - 大學，適合中文、英文、日文書籍都放
