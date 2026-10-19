@@ -9,6 +9,12 @@ tags: booth,
 [TOC]
 :::
 
+## 面紙包 + 寄放盒
+
+寄放盒，案例蒐集
+https://photos.app.goo.gl/AxMGp2bVNJjzpVUz7
+
+
 ## 廠商與詢價
 
 理想印刷

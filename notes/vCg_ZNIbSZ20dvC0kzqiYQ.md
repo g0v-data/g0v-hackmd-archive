@@ -42,12 +42,20 @@ tags: jothon,
     - 探討：有適合贈送英文版書籍的單位嗎？
         - 國際學校？
 
+
+文宣品
+- 面紙包 https://g0v.hackmd.io/@jothon/rkRYZt-9Ze
+- 外盒評估 
+
+
 ## 已知館藏位置 / 寄放與致贈紀錄
 
 :::info
 idea: 可以建立一個地點地圖
+Photo 各個現場的相簿 https://photos.app.goo.gl/hW4M5VQBAUVhQPyC9
 :::
 
+### 圖書館
 - 中研院圖書館
     - https://aslib.on.worldcat.org/search/detail/1524149609?queryString=%E6%9D%8E%E6%A2%85%E5%90%9B&idDetect=true&clusterResults=false&groupVariantRecords=false&bookReviews=off
     - 民族所圖書館，有一本
@@ -68,6 +76,8 @@ idea: 可以建立一個地點地圖
 - 2025.12 ky 有捐一本 MG 的書到美國灣區的文教中心圖書館
     - https://www.ocac.gov.tw/OCAC/SubSites/Pages/VDetail.aspx?site=ad4b003b-2a11-4a19-a14e-42f11fecae70&nodeid=972&pid=4710
     - 注意！美國一般公立圖書館不收捐書他們會賣掉換錢 
+
+### 學校社團
 - 20251221 chewei 致贈給牯嶺街書香市集攤位 
     - 已致贈一本給 高中校刊社團：松山高中
     - 已致贈一本給 高中校刊社團：中山女中
@@ -75,6 +85,8 @@ idea: 可以建立一個地點地圖
     - 已致贈一本給 高中校刊社團：建國中學
     - 已致贈一本給 台大意識報 社團
     - 已致贈一本給 綠書店
+
+### 各類空間、書店、場所
 - 2025.12 已寄送一本致贈 嘉義台灣圖書室 https://www.facebook.com/taiwanlib/
     - 也有寄放社群摺頁
 - 2026.01 感謝 chih-yuan 轉交致贈給 台大城鄉所所辦圖書室，編目：118456
@@ -120,23 +132,30 @@ idea: 可以建立一個地點地圖
 - 20260827 chewei 有提供給 臺東市晃晃書店 面紙包，已同意致贈一本沒有人內閱，待寄送
     - ![](https://g0v.hackmd.io/_uploads/rJ_xQ2pvMe.jpg)
 - 20260902 chewei 提供 面紙包 給 臺北市文山社區大學擺放在辦公室門口的摺頁自取櫃子
-- chewei 待詢問 花蓮光復_彼心書店 能否寄放面紙包
-- chewei 待詢問 台東市_檔案室裡的小村閱讀 能否寄放面紙包
 - 20261001 chewei 有提供一本沒有人給 馬祖南竿_西尾半島物產店 https://www.facebook.com/XIWEIPENINSULA/
 - 20261002 chewei 有提供一本沒有人書籍與面紙包 給 馬祖南竿_交隴半山．離島書店 https://www.facebook.com/profile.php?id=61590437082917
 - 20261002 chewei 有提供一本沒有人給 連江縣文化處馬祖圖書館
 - 預計詢問 澎湖縣馬公市_植隱冊室 https://www.facebook.com/penghubookstore/
 - 20261008 chewei 有提供面紙包給 臺中_邊譜書店
 - 20261010 chewei 有提供面紙包給 台中魚麗共同廚房，店長知道 ipa 與 g0v，之後應該可以詢問致贈沒有人書籍
-- 20261017 chewei 有提供面紙包給 臺北市大安區唐山書店
+- 20261017 chewei 有提供面紙包給 臺北市大安區唐山書店，有照片可參考相簿
 
+---
 
+### 物資寄件
 
-## 待詢問
+- 簡介，確保收件者理解
+- 依場所_面紙包
+    - 評估數量
+    - 是否有外盒
+- 依場所是否還缺_書籍
+    - 沒有人的運動
+    - 公民科技手冊_中文
+    - 公民科技手冊_英文
+    - 公民科技手冊_日文
+- 推薦「還可以致贈的單位」表單填寫說明與網址
 
-
-- 澎湖縣馬公市_植隱冊室
-- 馬來西亞 季風三三 https://www.facebook.com/share/1E9brSyZ7k/
+---
 
 ## 建立表單
 
@@ -169,7 +188,8 @@ https://forms.gle/bBxBfiiooGsfjTa38
 
 
 
-### 盤點贈書單位，請註記「僅供內閱」或是「自由漂書&個人索書」
+### 盤點潛在贈書單位，請註記「僅供內閱」或是「自由漂書&個人索書」
+
 - [僅供內閱] 非臺灣的中文圖書館，適合中文、英文、日文書籍都放，歡迎列舉推薦
     - 多倫多大學利銘澤典宬 
         - https://hongkong.library.utoronto.ca/zh-hant/about-library
@@ -228,8 +248,10 @@ https://forms.gle/bBxBfiiooGsfjTa38
     - https://www.facebook.com/share/p/1Cu7cnsHq7/
 
 ### 盤點文宣品與摺頁寄放地點
+- 待詢問 lightbox 攝影圖書室
 - 待詢問 花蓮光復_彼心書店 能否寄放面紙包
 - 待詢問 台東市_檔案室裡的小村閱讀 能否寄放面紙包
+- 待詢問 澎湖縣馬公市_植隱冊室 https://www.facebook.com/penghubookstore/
 - 自造中心
     - 花蓮光復 https://www.facebook.com/share/p/1C3NNDi47v/
 - 大學，適合中文、英文、日文書籍都放
@@ -258,6 +280,7 @@ https://forms.gle/bBxBfiiooGsfjTa38
         - https://www.facebook.com/share/1CMqsVicKb/
 - 青年培力工作站們
     - https://www.twrr.ndc.gov.tw/teen-workshop
+- 馬來西亞 季風三三 https://www.facebook.com/share/1E9brSyZ7k/
 - 日本福岡
     - https://engineercafe.jp/
 - 日本東京飛地書店

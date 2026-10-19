@@ -2,7 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-10-18T23:59:33+00:00 | View mode |
+| [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-10-19T00:36:46+00:00 | View mode |
+| [rkRYZt-9Ze](../../notes/ru-7S6xsQL-1pXmTRXPAmg.md) | 製作「面紙包」用於發送 | 2026-10-19T00:26:19+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 社群小松果 🌰 🐿️ | 2026-10-18T13:25:57+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-16T13:47:27+00:00 | View mode |
 | [By8R5AED1l](../../notes/jVVaW4VVS7qV51Af_OGV7g.md) | Jothon SNS | 2026-10-16T10:02:23+00:00 | View mode |
@@ -55,7 +56,6 @@
 | [By7uRdPZlg](../../notes/ZQVAAa9CQv6-oa0BQIGLeQ.md) | 2026／07 至 10 月 第柒拾肆次公民科技跑咖松 | 2026-08-30T10:23:59+00:00 | View mode |
 | [rJ_a81PlMg](../../notes/Mld-V2fHRL2Mh8HDVOgxqA.md) | 台南 | 2026-08-30T09:11:25+00:00 | View mode |
 | [rkAGALAUK](../../notes/LHLAPHxjTt6Spp5LJr_zew.md) | 黑客松場地場勘 | 2026-08-30T08:44:15+00:00 | View mode |
-| [rkRYZt-9Ze](../../notes/ru-7S6xsQL-1pXmTRXPAmg.md) | 製作「面紙包」用於發送 | 2026-08-29T14:33:59+00:00 | View mode |
 | [H1SmCW2v1e](../../notes/8B2i_h0iSKOvhBkR1FFHZw.md) | 移動松：巴士 / 火車 / 高鐵 / 船運 | 2026-08-12T11:29:07+00:00 | View mode |
 | [SyN63Zkq-x](../../notes/FfdQPrIvTHyYuH8XMzygCg.md) | 模擬遊戲 | 2026-08-11T14:44:42+00:00 | View mode |
 | [rknaiQh31x](../../notes/fnVPK_1zSDagP7RiacyZ9w.md) | 歷年 COSCUP 開源人年會 _ 擺攤 | 2026-08-07T10:41:03+00:00 | View mode |
