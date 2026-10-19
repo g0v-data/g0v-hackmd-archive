@@ -1,0 +1,1 @@
+[Kết quả bóng đá](https://ketquabongda.nl/) được cập nhật liên tục trên nền tảng chuyên nghiệp, mang đến tỷ số thời gian thực cùng thống kê chi tiết từ các giải đấu lớn. Người dùng dễ dàng theo dõi lịch thi đấu, bảng xếp hạng và diễn biến trận đấu, hỗ trợ nắm bắt thông tin thể thao nhanh chóng và chính xác mọi lúc.
