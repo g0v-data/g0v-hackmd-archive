@@ -190,6 +190,7 @@ https://linktr.ee/g0vjothon
 - 地址：Le Phare 共享空間 | 新左營館 / 高雄市左營區站前北路1號環球購物中心4樓
 - 工作文件：https://g0v.hackmd.io/@jothon/civictechon
 - 報名網址：https://forms.gle/gtV9aYyW2GH4mztk7
+- 線上：https://meet.google.com/hks-hcye-mqi
 - 主辦單位：財團法人開放文化基金會、g0v 揪松團
 - 合作單位：數位發展部、Wikidata Taiwan 臺灣維基數據社群、g0v 揪松團_青年公益計畫執行小組、g0v 零時小學校
 - 本場次公民科技主題日，從以下不同的面向來探討公民科技：
