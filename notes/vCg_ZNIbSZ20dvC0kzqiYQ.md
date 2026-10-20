@@ -249,6 +249,8 @@ https://forms.gle/bBxBfiiooGsfjTa38
 
 ### 盤點文宣品與摺頁寄放地點
 - 待詢問 lightbox 攝影圖書室
+- 待詢問 永和小小書房
+- 待詢問 永和綠書店
 - 待詢問 花蓮光復_彼心書店 能否寄放面紙包
 - 待詢問 台東市_檔案室裡的小村閱讀 能否寄放面紙包
 - 待詢問 澎湖縣馬公市_植隱冊室 https://www.facebook.com/penghubookstore/
