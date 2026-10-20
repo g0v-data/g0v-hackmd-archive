@@ -5,6 +5,7 @@ tags: data, edu, labor, health,
 # 如何過一天 / 過一年
 
 https://1in8b.life/
+https://www.threads.com/share/_kBEIkuDC/
 
 記錄與呈現生活生計樣態
 
