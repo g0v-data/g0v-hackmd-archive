@@ -14,7 +14,6 @@ tags: booth,
 寄放盒，案例蒐集
 https://photos.app.goo.gl/AxMGp2bVNJjzpVUz7
 
-
 ## 廠商與詢價
 
 理想印刷
@@ -40,6 +39,10 @@ https://photos.app.goo.gl/AxMGp2bVNJjzpVUz7
         - 一句專案介紹：
             - 簡訊實聯制的發源地
             - 萌典孵化器
+- 延續 EJ 開啟了面紙包動物擔當 ~ 歡迎推薦動物種類 (例如 O'Reilley 的書籍封面也系列使用動物形象)
+    - 雪鴞 / 白鴞
+    - 黑客松鼠
+    - 黑貓
 
 ### TA 受眾設定
 
@@ -52,6 +55,7 @@ https://photos.app.goo.gl/AxMGp2bVNJjzpVUz7
 - 「想要拿到的人產生什麼刺激？」
     - 哲瑋：在之後需要/想加入的時候可以想到
     - 下次活動的日期
+    - 訂閱每月電子報，藉由電子報來提醒近期活動資訊
 
 
 ## 成品成果
