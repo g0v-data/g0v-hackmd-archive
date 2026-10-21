@@ -173,11 +173,10 @@ https://linktr.ee/g0vjothon
 
 ---
 
-![2026 維基數據跨領域論壇](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Wikidata_Cross-Domain_Forum_2026_Banner_3740_1080.svg/3840px-Wikidata_Cross-Domain_Forum_2026_Banner_3740_1080.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
+![2026 維基數據跨領域論壇](https://g0v.hackmd.io/_uploads/rkRErLI2Mx.png)
+
 2026/10/24 2026 維基數據跨領域論壇 Wikidata Cross-Domain Forum 2026
-- 日期：20261024 週六下午
-- 地點：高雄高鐵左營站共構大樓四樓場地
-- 地址：Le Phare 共享空間 | 新左營館 / 高雄市左營區站前北路1號環球購物中心4樓
+- 日期：20261024 週六下午，線上直播，請至 Wikidata Taiwan 臺灣維基數據社群 YouTube 頻道直播觀看：https://www.youtube.com/@wikidatataiwan9726
 - [活動資訊](https://www.wikidata.org/wiki/Wikidata:Fourteenth_Birthday/Taiwan)
 - [報名頁面](https://wikidatatw.kktix.cc/events/wikidataforum2026)
 
@@ -205,7 +204,7 @@ https://linktr.ee/g0vjothon
         - 公民參與機制規劃執行經驗分享
         - 問答討論
     - 15:00-16:00【公民科技與社群】
-        - 由揪松團成員主持，以及各社群代表與談，邀請各類主題型社群籌辦者與談交流，包含 g0v 國會松 (邀請中) 、g0v 數位韌性松 (邀請中) 、g0v 灣區小聚 (邀請中) 、公民 AI 素養計劃團隊 (邀請中) 等，分享採用社群模式深化各項公民科技主題的動機與經驗。
+        - 由揪松團成員主持，以及各社群代表與談，邀請各類主題型社群籌辦者與談交流，包含 g0v 國會松、g0v 數位韌性松、g0v 灣區小聚、公民 AI 素養計劃團隊 (邀請中) 等，分享採用社群模式深化各項公民科技主題的動機與經驗。
     - 16:00-17:00【提案分享】
         - 由揪松團成員主持，提案分享時段，現場開放每個提案 5 分鐘，共計 10 個提案分享。
         - 活動結束
