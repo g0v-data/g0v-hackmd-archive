@@ -1,0 +1,2 @@
+bongdanet vn
+<a href="https://bongdanetvn.net/">bongdanet</a> cập nhật nhanh chóng và chính xác các tin tức bóng đá hot nhất hôm nay. Hệ thống cung cấp lịch thi đấu, bảng xếp hạng và các nhận định chuyên sâu từ chuyên gia hàng đầu. Độc giả dễ dàng theo dõi diễn biến từng trận đấu đỉnh cao, nắm bắt thông tin chuyển nhượng và phong độ đội bóng yêu thích một cách trực quan, đầy đủ và hoàn toàn miễn phí.
