@@ -54,4 +54,86 @@
 
 <p><a href="https://ok.ru/profile/910731971114/pphotos/993000283946">https://ok.ru/profile/910731971114/pphotos/993000283946</a></p>
 
-<p> </p>
+<p><a href="https://fliphtml5.com/home/vc88in">https://fliphtml5.com/home/vc88in</a></p>
+
+<p><a href="https://sites.google.com/view/vc88in">https://sites.google.com/view/vc88in</a></p>
+
+<p><a href="https://app.readthedocs.org/profiles/vc88in/">https://app.readthedocs.org/profiles/vc88in/</a></p>
+
+<p><a href="https://www.yumpu.com/user/vc88in">https://www.yumpu.com/user/vc88in</a></p>
+
+<p><a href="https://knowyourmeme.com/users/vc88in">https://knowyourmeme.com/users/vc88in</a></p>
+
+<p><a href="https://www.amebaownd.com/profiles/2986160">https://www.amebaownd.com/profiles/2986160</a></p>
+
+<p><a href="https://vc88in.wordpress.com/">https://vc88in.wordpress.com/</a></p>
+
+<p><a href="https://cdn.muvizu.com/Profile/vc88in/Latest">https://cdn.muvizu.com/Profile/vc88in/Latest</a></p>
+
+<p><a href="https://www.zazzle.com/mbr/238762333435453651">https://www.zazzle.com/mbr/238762333435453651</a></p>
+
+<p><a href="https://speakerdeck.com/vc88in">https://speakerdeck.com/vc88in</a></p>
+
+<p><a href="https://heylink.me/vc88in/">https://heylink.me/vc88in/</a></p>
+
+<p><a href="https://www.walkscore.com/people/102433363427/vc88in">https://www.walkscore.com/people/102433363427/vc88in</a></p>
+
+<p><a href="https://qna.habr.com/user/vc88in">https://qna.habr.com/user/vc88in</a></p>
+
+<p><a href="https://vc88in.webflow.io/">https://vc88in.webflow.io/</a></p>
+
+<p><a href="https://www.goodreads.com/user/show/205852733-vc88-in">https://www.goodreads.com/user/show/205852733-vc88-in</a></p>
+
+<p><a href="http://bio.site/vc88in">http://bio.site/vc88in</a></p>
+
+<p><a href="https://vc88in.tistory.com/1">https://vc88in.tistory.com/1</a></p>
+
+<p><a href="https://telegra.ph/vc88in-10-21">https://telegra.ph/vc88in-10-21</a></p>
+
+<p><a href="https://qiita.com/vc88in">https://qiita.com/vc88in</a></p>
+
+<p><a href="https://www.diigo.com/item/note/c19o7/qt28?k=c14f9b497ecbc9a05c0d69492cd741fa">https://www.diigo.com/item/note/c19o7/qt28?k=c14f9b497ecbc9a05c0d69492cd741fa</a></p>
+
+<p><a href="https://devpost.com/vc88in">https://devpost.com/vc88in</a></p>
+
+<p><a href="https://md.darmstadt.ccc.de/s/Twn5vLTEbL">https://md.darmstadt.ccc.de/s/Twn5vLTEbL</a></p>
+
+<p><a href="https://www.wantedly.com/id/vc88in">https://www.wantedly.com/id/vc88in</a></p>
+
+<p><a href="https://wakelet.com/@vc88in">https://wakelet.com/@vc88in</a></p>
+
+<p><a href="https://www.themoviedb.org/u/vc88in">https://www.themoviedb.org/u/vc88in</a></p>
+
+<p><a href="https://3dwarehouse.sketchup.com/by/vc88in">https://3dwarehouse.sketchup.com/by/vc88in</a></p>
+
+<p><a href="https://www.outdooractive.com/en/member/vc88-in/355643110/">https://www.outdooractive.com/en/member/vc88-in/355643110/</a></p>
+
+<p><a href="https://www.magcloud.com/user/vc88in">https://www.magcloud.com/user/vc88in</a></p>
+
+<p><a href="https://tawk.to/vc88in">https://tawk.to/vc88in</a></p>
+
+<p><a href="https://gitlab.haskell.org/vc88in">https://gitlab.haskell.org/vc88in</a></p>
+
+<p><a href="https://hashnode.com/@vc88in">https://hashnode.com/@vc88in</a></p>
+
+<p><a href="https://pbase.com/vc88in">https://pbase.com/vc88in</a></p>
+
+<p><a href="https://beacons.ai/vc88in">https://beacons.ai/vc88in</a></p>
+
+<p><a href="https://www.bitchute.com/channel/2CfQtHaJI7Ix">https://www.bitchute.com/channel/2CfQtHaJI7Ix</a></p>
+
+<p><a href="https://old.bitchute.com/channel/2CfQtHaJI7Ix/">https://old.bitchute.com/channel/2CfQtHaJI7Ix/</a></p>
+
+<p><a href="https://pubhtml5.com/homepage/yjzum/">https://pubhtml5.com/homepage/yjzum/</a></p>
+
+<p><a href="https://makerworld.com/en/@vc88in">https://makerworld.com/en/@vc88in</a></p>
+
+<p><a href="https://www.prodesigns.com/wordpress-themes/support/users/vc88in">https://www.prodesigns.com/wordpress-themes/support/users/vc88in</a></p>
+
+<p><a href="https://g0v.hackmd.io/@vc88in/vc88in">https://g0v.hackmd.io/@vc88in/vc88in</a></p>
+
+<p><a href="https://pub41.bravenet.com/forum/static/show.php?usernum=3501574107&frmid=26&msgid=1059876&cmd=show">https://pub41.bravenet.com/forum/static/show.php?usernum=3501574107&frmid=26&msgid=1059876&cmd=show</a></p>
+
+<p><a href="https://forum.codeigniter.com/member.php?action=profile&uid=259868">https://forum.codeigniter.com/member.php?action=profile&uid=259868</a></p>
+
+<p><a href="https://leetcode.com/u/vc88in/">https://leetcode.com/u/vc88in/</a></p>
