@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants: Peter, Bestian
+參與者 Participants: Tim, Bestian, Yi-ting, Allison
 
 
 
@@ -24,10 +24,6 @@ https://www.vtaiwan.tw/jitsi
     - 活動咖的最愛
     - 如果有公民團體與組織想要合作也可以看過來！
     - 目前也在進行 [AI 用於數位公民參與經驗](/nJUYukWFSWuEsG-XQalHcA) 的收集！
-2. [vtaiwan x Tech for Good Asia 合作](/PdvNjkLlSd-WytXN_otWbQ) 計畫
-    - 預計會討論人工智慧相關議題
-    - 需要研究與分析人才
-    - 想要貢獻議題或意見這邊請
 3. [vTaiwan 網站改版，啟動！](/Q3_hgovyRHusEq8-3nomPQ)
     - 目標是打造新的 vTaiwan 網站
     - 結合 blog、媒體資源、活動發佈、建立線上活動與討論等功能
@@ -61,4 +57,21 @@ https://www.vtaiwan.tw/jitsi
 - 目前預計於 2027 年 01 月 27 日，於 NPO Hub 實體舉辦
 - 目前確認日方會來11人左右。
 - 事前問題收集共筆：https://g0v.hackmd.io/C5NNMOqoRx2EHyXIj9kccg
-- 
+
+
+
+## Civic talk改良相關
+
+Tim: 
+
+1. 站內處理
+https://github.com/g0v/civic-talk-hono/issues/165
+
+2. 命題設定方向：
+
+- 張力取向(贊成/反對/中立與學術)
+- 中性審議性探討方向(沒有明確的贊成/反對，上傳的素材沒有明確的辦法分類為贊成/反對。)
+
+3. 
+
+- https://github.com/g0v/civic-talk-hono/issues/166
