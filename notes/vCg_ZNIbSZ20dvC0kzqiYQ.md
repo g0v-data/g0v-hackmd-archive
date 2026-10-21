@@ -254,6 +254,9 @@ https://forms.gle/bBxBfiiooGsfjTa38
 - 待詢問 花蓮光復_彼心書店 能否寄放面紙包
 - 待詢問 台東市_檔案室裡的小村閱讀 能否寄放面紙包
 - 待詢問 澎湖縣馬公市_植隱冊室 https://www.facebook.com/penghubookstore/
+- 獨立書店清單
+    - https://twcp.moc.gov.tw/prec-u/project/rows/%E7%8D%A8%E7%AB%8B%E6%9B%B8%E5%BA%97%E9%BB%9E%E6%95%B8%E6%94%BE%E5%A4%A7%E5%B0%88%E6%A1%88%E5%B0%88%E5%8D%80
+    - https://fribooker.wordpress.com/bookstore/
 - 自造中心
     - 花蓮光復 https://www.facebook.com/share/p/1C3NNDi47v/
 - 大學，適合中文、英文、日文書籍都放

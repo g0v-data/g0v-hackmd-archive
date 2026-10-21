@@ -2,9 +2,10 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-10-21T04:23:11+00:00 | View mode |
+| [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | What is a g0v hackathon ? | 2026-10-21T04:10:38+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-10-21T01:18:39+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-20T10:19:37+00:00 | View mode |
-| [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-10-20T00:41:49+00:00 | View mode |
 | [rkRYZt-9Ze](../../notes/ru-7S6xsQL-1pXmTRXPAmg.md) | 製作「面紙包」用於發送 | 2026-10-19T00:26:19+00:00 | View mode |
 | [By8R5AED1l](../../notes/jVVaW4VVS7qV51Af_OGV7g.md) | Jothon SNS | 2026-10-16T10:02:23+00:00 | View mode |
 | [r1QUPqo2Wg](../../notes/S3cmrJ8mS06lPKHJSxSINg.md) | 10/24 Civic Tech Day<br>公民科技主題日 | 2026-10-16T02:25:15+00:00 | Book mode |
@@ -213,7 +214,6 @@
 | [SJug8WTLc](../../notes/a_sXd-DRSLmJhhd61sc_ag.md) | 如何提案？ <br>提案模板、引導式課程影片 | 2025-08-23T06:06:00+00:00 | View mode |
 | [B1Mr35v_lx](../../notes/kJFSKcOHR0mzxomZxo9k8w.md) | g0v 之友 _ 世界地圖 | 2025-08-22T14:58:47+00:00 | View mode |
 | [r18zvj-HJg](../../notes/JBN1BLfqSKWCOwr018k0jw.md) | Arrival Guide To Taiwan | 2025-08-22T14:48:08+00:00 | View mode |
-| [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | What is a g0v hackathon ? | 2025-08-22T12:12:42+00:00 | View mode |
 | [SkSgCcGdlg](../../notes/He-NHKIgSZqfno2OUKqLOg.md) | 第四屆108課綱觀察報告發佈會暨高中職論壇 | 2025-08-07T21:43:39+00:00 | View mode |
 | [BywhAok-gg](../../notes/CYGqjXuMQtibMJx2nUU9jQ.md) | Counterspell / Hack Club | 2025-08-07T19:37:33+00:00 | View mode |
 | [HJJfI83Hlx](../../notes/K206wKymTxu8FpIWHcAa0A.md) | AI 培力應用相關活動資訊分享 💖 | 2025-08-07T19:37:20+00:00 | View mode |

@@ -2,9 +2,13 @@
 tags: hackathon, jothon
 ---
 
+## g0v 第柒拾伍次投出未來黑客松<br>G0Vote Hackath75n
+
+
+![](https://g0v.hackmd.io/_uploads/rJ7593Snfe.png)
+
+
 # What is a g0v hackathon ?
-
-
 
 ![](https://g0v.hackmd.io/_uploads/Sy68qQnLJx.png)
 
@@ -12,15 +16,16 @@ A g0v hackathon is a collaborative event organized by the g0v (pronounced "gov z
 
 Held every two months, g0v hackathons provide an open and inclusive space equipped with resources like Wi-Fi, food, and drinks. Participants work on various open-source projects that address societal issues, ranging from government data visualization to public service tools. The event emphasizes creativity, collaboration, and sharing, fostering a vibrant community dedicated to making the world a better place through technology.
 
-[![](https://g0v.hackmd.io/_uploads/Hk-sv4SFJg.png)](https://x.com/taiwanplusnews/status/1608991453753008128)
+<iframe width=100% height="480" src="https://www.youtube.com/embed/kitNCWX-aHY?si=nGM0QTrhyw4Y66jz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Taiwan is home to one of the world&#39;s biggest civic hacking groups, the decentralized and volunteer-run g0v community. <a href="https://twitter.com/helloitisSam?ref_src=twsrc%5Etfw">@Helloitissam</a> attends a hackathon to explore how the group works. <a href="https://t.co/bNttWJ7CZH">pic.twitter.com/bNttWJ7CZH</a></p>&mdash; TaiwanPlus News (@taiwanplusnews) <a href="https://twitter.com/taiwanplusnews/status/1608991453753008128?ref_src=twsrc%5Etfw">December 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+g0v contributor Sam 與 Taiwan Plus 團隊拍攝的 g0v 大松紀錄。
 
 :::info
 Past Hackathon Events (Accumulated Over 60 Events, Since 2012.12)
 * https://jothon.g0v.tw/events/
 
 Project Database 
+* https://civictech.tw/
 * https://awesome.g0v.tw 
 * [with SDGs Category](https://sheet2site.com/api/v3/index.php?key=1Qm1u2kRpqEtWAHyQJWMFf0NKPx0HMOhb8uBDbLfUKoM)[target=_blank]
 :::

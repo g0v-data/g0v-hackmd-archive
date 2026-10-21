@@ -95,13 +95,15 @@ https://g0v.hackmd.io/-9i14hLqRFez1IzvOhCyow?view
 - 在 OCF Slack 頻道有討論串
 - Ronny 建立了一個議題內容開展頁面 https://ronnywang.github.io/civic-notes/etag-privacy/
 
-## 20260805
+## 20260805 檢舉汽車違規的工具
 
-待查找 slack archive 網址
-
-https://policesms.pages.dev/
-
-![](https://g0v.hackmd.io/_uploads/HJnUOipsMl.png)
-![](https://g0v.hackmd.io/_uploads/SkxnIuiaoMg.png)
-
+- 發問內容
+    - johnson> 最近嘗試檢舉汽車違規停在人行道，被通知不舉發，理由是 iphone 拍的照片上沒有時間浮水印，詢問承辦人員後得知照片檔案的時間資訊在他們的系統看不到，因此一定要檢舉人自行加上浮水印（當下聽到覺得有點荒謬）。被退件的日期剛好在事發後第七天，幸好仍在七日時限內，尚有機會再舉發一次。目前使用這個網站替照片加上時間浮水印，但網站有些 bug 使用起來不太方便。我通常因為嫌麻煩而不會特別檢舉輕度的交通違規，但此案件就發生在住家附近，時常看到有人違停，而且旁邊就是警局，我也曾親自到警局告知警方，但警方後續似乎沒有作為。親自檢舉後才知道檢舉流程與相關要求，在這邊分享，也好奇有沒有人有類似經驗可供參考
+    - https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH/2026-08#ts-1785899452.354339
+- irvin> 
+    - fixtw https://fixtw.com/ 的功能之一就是自動抓時間加浮水印 
+    - 要承辦自己加也很不通，這不等於要他自己改證據？
+    - 就算再近也可以直接打 110，因為 call center 會列案管理
+    - 罰單會附上照片，照片上會需要有日期時間
+- chewei> https://policesms.pages.dev/
 
