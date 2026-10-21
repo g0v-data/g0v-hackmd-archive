@@ -1,11 +1,16 @@
 ---
 tags: vTaiwan
 ---
-# 20261007 小松
+# 20261014 小松
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants: Peter, Bestian, Tim, Thompson
+參與者 Participants: Peter, Bestian, Tim, Thompson, 翊婷, allison
+
+
+![](https://g0v.hackmd.io/_uploads/rkxbz6g83Ge.png)
+
+
 
 自我介紹：
 https://www.vtaiwan.tw/jitsi 
