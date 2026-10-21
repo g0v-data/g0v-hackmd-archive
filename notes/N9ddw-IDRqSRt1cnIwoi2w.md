@@ -1,18 +1,17 @@
 ---
 tags: vTaiwan
 ---
-# 20261014 小松
+# 20261021 小松
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants: Peter, Bestian, Tim, Thompson, 翊婷, allison
+參與者 Participants: Peter, Bestian
 
-
-![](https://g0v.hackmd.io/_uploads/rkxbz6g83Ge.png)
 
 
 
 自我介紹：
+
 https://www.vtaiwan.tw/jitsi 
 (請用Google登入以參與視訊並啟用轉錄功能)
 
@@ -61,3 +60,5 @@ https://www.vtaiwan.tw/jitsi
 ### 20270127 世田谷 DX 部門的實體拜會
 - 目前預計於 2027 年 01 月 27 日，於 NPO Hub 實體舉辦
 - 目前確認日方會來11人左右。
+- 事前問題收集共筆：https://g0v.hackmd.io/C5NNMOqoRx2EHyXIj9kccg
+- 
