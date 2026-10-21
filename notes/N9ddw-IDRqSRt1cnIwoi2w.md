@@ -8,6 +8,8 @@ tags: vTaiwan
 參與者 Participants: Tim, Bestian, Yi-ting, Allison
 
 
+![](https://g0v.hackmd.io/_uploads/SJ5PKX83Ml.jpg)
+
 
 
 自我介紹：
