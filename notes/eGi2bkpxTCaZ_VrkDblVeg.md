@@ -1,0 +1,1 @@
+[thoitiethomnay.org](https://thoitiethomnay.org/) là website dự báo thời tiết trên 34 tỉnh thành tại Việt Nam, cung cấp thông tin về nhiệt độ, lượng mưa, gió và chỉ số UV. Người dùng có thể theo dõi chất lượng không khí cùng các cảnh báo mưa lũ trên toàn quốc, giúp chủ động hơn trong sinh hoạt và di chuyển.
