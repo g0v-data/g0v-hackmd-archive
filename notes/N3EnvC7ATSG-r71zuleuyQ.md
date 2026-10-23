@@ -282,7 +282,12 @@ https://linktr.ee/g0vjothon
 
 ---
 
-11/12 週四晚上 F4: functional thursday 社群活動
+11/12 週四晚上 F4: functional thursday 社群活動 ▶︎主題：Functional Programming 在 Patch Theory 中的應用
+- Version control systems，例如 Git，是開發過程中不可或缺的工具。在多人協作的過程中，merge conflict 總是難以避免。有沒有其他方式能讓我們更好的合併 branches，更準確地辨識變更之間的衝突？這次分享想從常見的 version control systems 出發，探討 diff 用於 merge 上的限制。接著進一步介紹 patch theory 的概念，以及 Darcs 是怎麼利用它來管理變更，functional programming 又是怎麼協助我們的。
+- ▶︎分享者：葉宥均，交大資工大三的學生，正在接觸 patch theory。
+- 地點：g0v 台北社群空間
+- 地址: 台北市中正區重慶南路三段2號2樓202室
+- https://luma.com/u8yi2zy4
 - https://www.facebook.com/groups/functioanl.thursday/
 
 ---
