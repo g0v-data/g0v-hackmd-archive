@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [r1QUPqo2Wg](../../notes/S3cmrJ8mS06lPKHJSxSINg.md) | 10/24 Civic Tech Day<br>公民科技主題日 | 2026-10-24T10:52:02+00:00 | Book mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-24T07:58:22+00:00 | View mode |
 | [BkCPHcYEee](../../notes/_ab2mPTsSOqJC4V8ssMnDg.md) | 零時小學校<br>專案孵化計畫<br>Civic Nest | 2026-10-21T12:55:19+00:00 | Book mode |
 | [r18M8NIhGe](../../notes/NBtIE1b8TkuHhuGZ9R9akg.md) | 專案孵化計畫 Civic Nest 6th 籌備中 | 2026-10-21T12:54:49+00:00 | View mode |
@@ -11,7 +12,6 @@
 | [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-10-21T04:23:11+00:00 | View mode |
 | [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | What is a g0v hackathon ? | 2026-10-21T04:10:38+00:00 | View mode |
 | [By8R5AED1l](../../notes/jVVaW4VVS7qV51Af_OGV7g.md) | Jothon SNS | 2026-10-16T10:02:23+00:00 | View mode |
-| [r1QUPqo2Wg](../../notes/S3cmrJ8mS06lPKHJSxSINg.md) | 10/24 Civic Tech Day<br>公民科技主題日 | 2026-10-16T02:25:15+00:00 | Book mode |
 | [SkL1dHSCyl](../../notes/Ovl0MYOsQCKECQ9Ig4HOVA.md) | AI 麻瓜共學團 | 2026-10-15T23:57:22+00:00 | Book mode |
 | [H1fFF6AiGg](../../notes/y7g5eBS4RJ-QPul7siR0ug.md) | g0v 第柒拾伍次<br>投出未來黑客松<br>G0Vote Hackath75n | 2026-10-15T23:22:17+00:00 | Book mode |
 | [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-10-15T21:54:49+00:00 | View mode |
