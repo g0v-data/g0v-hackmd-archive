@@ -142,6 +142,11 @@ https://docs.google.com/spreadsheets/d/1iXoayl5JYfINp_nIOHQMLrifsIk8KjtuuXH8vLO6
 
 https://hkgeotiles.com/map
 
+
+香港浸會大學歷史系「香港空間史研究計畫」團隊完成香港歷史空間數據平台 
+hkmaps.hk
+https://www.facebook.com/share/p/1E5nLxNw5S/
+
 《香港行跡》紀錄香港城市和山野的歷史及遺蹟，用雙腳走進昔日香港，認識和保存香港獨有的文化歷史。由維多利亞城開始，中西文化交融，經歷建城、戰爭與繁榮，昔日片段隱藏在繁華鬧市，街角小巷都有自己的獨特故事。邀請大家一起尋寶，重新發掘香港的歷史寳藏！
 https://www.historicalwalkhk.com/
 
