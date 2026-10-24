@@ -667,6 +667,11 @@ https://www.facebook.com/groups/1533007384338240/posts/1547394612899517
 案例照片蒐集相簿
 https://photos.app.goo.gl/BAumLMXn12wD9qmp9
 
+## 安全城市：規劃、設計與經營的設計準則
+
+翻譯文本，掃描檔案
+https://drive.google.com/file/d/0B9KyxXC_y1sLNlN4RllfcXJjeGs/view?usp=sharing&resourcekey=0-RnFQ9rUHTfyeiHLPO5JlIg
+
 ## 其他探討方法
 
 https://visual.ly/community/Infographics/environment/walkable-mixed-use-neighborhood
