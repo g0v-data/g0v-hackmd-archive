@@ -8,7 +8,16 @@ tags:
 [TOC]
 :::
 
-水流_人流_公共設施
+## 永續韌性城市_政策訴求
+
+https://six-cities.gcaa.org.tw/#demands
+
+## 發想
+
+整合「內水集水分區」與「道路形塑的街廓」兩個流動主題工作方法，人的移動與生活圈，水的流動與調適策略
+水流_人流_公共設施_物流
+安全城市：規劃、設計與經營的設計準則，翻譯文本，掃描檔案
+https://drive.google.com/file/d/0B9KyxXC_y1sLNlN4RllfcXJjeGs/view?usp=sharing&resourcekey=0-RnFQ9rUHTfyeiHLPO5JlIg
 
 ## 臺北內水流域規劃方法
 
@@ -35,3 +44,7 @@ https://g0v.hackmd.io/@chewei/poponfire/https%3A%2F%2Fg0v.hackmd.io%2Fqn1zVwvtQV
 ![](https://g0v.hackmd.io/_uploads/BklVVQkJcfg.png)
 
 ![](https://g0v.hackmd.io/_uploads/H1W4NXJyqzg.png)
+
+## 文山區
+
+https://g0v.hackmd.io/@chewei/carbon-uptake/https%3A%2F%2Fg0v.hackmd.io%2FM369znrhQHWqONzLjOCj8g%3Fview
