@@ -97,4 +97,4 @@ Other
 - [idea pool 提點子 / 民防議題蒐集](/PMiMLc-JT3yFrAs3CL6rzw)
 - [民防相關證照](/B-ky08JbR4-HD3lFDwynLQ)
 - [基建 logistics of DigiResiTh0n](/e6rWxnppQmuSpUxcoXzoHw)
-
+- https://g0v.hackmd.io/vIpaYApzTsetTd8vd_S8WA
