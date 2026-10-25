@@ -4,6 +4,9 @@ tags:
 
 # 都市風場 / 季風風場
 
+概述
+https://www.facebook.com/RCPO.HUNG/posts/pfbid02j2fTUmAqkMMJ8xnu4qRwxt65zetzuYGgx42hUwSFxYAKojCcbiHUJHisyDwnwsLKl?locale=zh_TW
+
 介紹文章 
 https://ncdr.nat.gov.tw/NCDR-Topic/2026/NCDRLibrary/august.html
 
