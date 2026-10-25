@@ -2,7 +2,8 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 41920 | 2026-10-25T06:59:42+00:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 41923 | 2026-10-25T07:49:04+00:00 |
+| [japan](tags/japan.md) | 3 | 2026-10-25T07:41:10+00:00 |
 | [digital-resilience](tags/digital-resilience.md) | 56 | 2026-10-25T06:46:01+00:00 |
 | [ resilience](tags/%20resilience.md) | 17 | 2026-10-25T06:46:01+00:00 |
 | [ internet-shutdown](tags/%20internet-shutdown.md) | 16 | 2026-10-25T06:46:01+00:00 |
@@ -38,7 +39,6 @@
 | [ river](tags/%20river.md) | 4 | 2026-10-12T21:28:45+00:00 |
 | [ japan](tags/%20japan.md) | 1 | 2026-10-12T14:38:31+00:00 |
 | [都市農耕](tags/%E9%83%BD%E5%B8%82%E8%BE%B2%E8%80%95.md) | 58 | 2026-10-10T10:37:47+00:00 |
-| [japan](tags/japan.md) | 3 | 2026-10-10T08:56:27+00:00 |
 | [Rentea](tags/Rentea.md) | 204 | 2026-10-09T10:46:39+00:00 |
 | [ CoRent](tags/%20CoRent.md) | 3 | 2026-10-09T10:46:39+00:00 |
 | [cofacts](tags/cofacts.md) | 532 | 2026-10-06T05:57:06+00:00 |

@@ -36,6 +36,9 @@ https://vacation.eztravel.com.tw/pkgfrn/p/FRN0000020475
 
 ## 關聯筆記
 
+東海海域
+https://www.facebook.com/share/1CzHwJvuS6/
+
 梅雨
 https://www.facebook.com/share/v/1D3XuBxEEx/
 
