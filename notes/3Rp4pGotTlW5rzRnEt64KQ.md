@@ -18,11 +18,11 @@ https://six-cities.gcaa.org.tw/#demands
 
 不因人為改變的自然條件、社會架構
 - 郊山地勢地形，坡地社區，溪谷集水型態
-- 捷運系統
+- 捷運系統，火車站
 - 總統府與特區，松山機場，市政府位置
 - 堤防與抽水站方案
 
-大尺度架構，仍有調整方案
+大尺度架構，仍有調整提議
 - 仁愛路、新生高架方案
 
 ### if 採用「生活地區街廓」作為實踐單位 GPU_Good Practice Unit
@@ -61,13 +61,15 @@ https://six-cities.gcaa.org.tw/#demands
         - 市民大道以北｜大同中山，網格較均質 
             - ![](https://g0v.hackmd.io/_uploads/rJxd80jhGg.png)
             - ![](https://g0v.hackmd.io/_uploads/Bk3jw0jnfe.png)
-        - 市民大道以南｜羅斯福路中山南路以西｜基隆路光復南路以東
+        - 市民大道以南｜羅斯福路中山南路以西｜基隆路以東
             - ![](https://g0v.hackmd.io/_uploads/HkxfaY0onGx.png)
 
 發想階段素材筆記
 - 整合「內水集水分區」與「道路形塑的街廓」兩個流動主題工作方法，人的移動與生活圈，水的流動與調適策略
 - 水流_人流_公共設施_物流
 - 安全城市：規劃、設計與經營的設計準則，翻譯文本，掃描檔案 https://drive.google.com/file/d/0B9KyxXC_y1sLNlN4RllfcXJjeGs/view?usp=sharing&resourcekey=0-RnFQ9rUHTfyeiHLPO5JlIg
+- 臺北市淨零排放管理自治條例 - 對應到環境地貌 - 白話文版本 https://docs.google.com/spreadsheets/d/1XC1UUo-DT0OPsrtRrp3nUpuRaCPJHgjizu7Tm_VmoJ8/edit?usp=drive_web&ouid=115613229829145960960
+
 
 ## 臺北內水流域規劃方法
 
