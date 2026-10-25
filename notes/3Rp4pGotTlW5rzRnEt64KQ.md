@@ -31,16 +31,17 @@ https://six-cities.gcaa.org.tw/#demands
 - 地區再生委員會
     - 捷運加蚋站服務範圍，半島型態
     - 民生社區，範圍_敦化南京至機場河濱，民生汐止線
-    - 園區之間綜效整合
-        - 範圍_華山三創光華園區整合，新生高架八德路匝道調整
-        - 鐵博松菸大巨蛋中山園區
     - 內科一期滯洪調適能力提升對策
     - 內科二期滯洪調適能力提升對策
-    - 北醫與北側地區開發
+    - 園區之間綜效整合
+        - 華山三創光華園區整合，調整新生高架八德路匝道
+        - 鐵博松菸大巨蛋中山園區
+        - 臺大與龍安國小與大安森林公園
+        - 北醫校區與北側地區開發
     - 軸帶轉型：捷運施工復舊方案，加強氣候調適效能
-        - 東環段_Y39至Y36_南崗ㄕㄢ-松仁路-松仁路95巷-松德路-松山路-基隆河
+        - 東環段_Y39至Y36_南港山系-松仁路-松仁路95巷-松德路-松山路-基隆河
         - 中和光復線_公館至臺大捷運復舊方案，營造水綠空間
-        - 民生汐止線
+        - 民生汐止線 https://www.dorts.gov.taipei/cp.aspx?n=640DFDDFA9B8FEA8
     - 自然條件，明確自成一格的範圍
         - 由自然包圍的城鎮
             - 降溫城市計畫已界定的士林範圍，範圍_雙溪基隆河郊山圍塑
@@ -56,6 +57,12 @@ https://six-cities.gcaa.org.tw/#demands
             - 大湖公園海拔以上地區
             - 捷運內湖站海拔以上地區
             - 內溝溪流域
+    - 各街區範圍界定，促進範圍內能有較多行人友善與戶外空間營造契機為主
+        - 市民大道以北｜大同中山，網格較均質 
+            - ![](https://g0v.hackmd.io/_uploads/rJxd80jhGg.png)
+            - ![](https://g0v.hackmd.io/_uploads/Bk3jw0jnfe.png)
+        - 市民大道以南｜羅斯福路中山南路以西｜基隆路光復南路以東
+            - ![](https://g0v.hackmd.io/_uploads/HkxfaY0onGx.png)
 
 發想階段素材筆記
 - 整合「內水集水分區」與「道路形塑的街廓」兩個流動主題工作方法，人的移動與生活圈，水的流動與調適策略
@@ -96,4 +103,3 @@ https://g0v.hackmd.io/@chewei/poponfire/https%3A%2F%2Fg0v.hackmd.io%2Fqn1zVwvtQV
 
 ## 探討：文山區
 
-https://g0v.hackmd.io/@chewei/carbon-uptake/https%3A%2F%2Fg0v.hackmd.io%2FM369znrhQHWqONzLjOCj8g%3Fview
