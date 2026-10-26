@@ -1,0 +1,2 @@
+8XBET planeta - Trang Chủ 8XBET.COM Truy Cập Mobile uy Tín T10/2026
+[8XBET](https://8xbet123.bio/) là nền tảng giải trí trực tuyến với nhiều sảnh chơi đa dạng như thể thao, slot và bắn cá. Hệ thống chú trọng bảo mật thông tin, minh bạch trong giao dịch và thường xuyên cập nhật các chương trình ưu đãi. Giao diện thân thiện, tương thích nhiều thiết bị, giúp người dùng truy cập thuận tiện.
