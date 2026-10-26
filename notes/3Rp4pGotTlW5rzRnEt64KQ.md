@@ -63,6 +63,8 @@ https://six-cities.gcaa.org.tw/#demands
             - ![](https://g0v.hackmd.io/_uploads/Bk3jw0jnfe.png)
         - 市民大道以南｜羅斯福路中山南路以西｜基隆路以東
             - ![](https://g0v.hackmd.io/_uploads/HkxfaY0onGx.png)
+        - 曾指認的範圍 https://photos.app.goo.gl/YSF23FBvoGM7oAvA6
+        - 與前述街廓範圍單元接近的都市更新地區劃設
 
 發想階段素材筆記
 - 整合「內水集水分區」與「道路形塑的街廓」兩個流動主題工作方法，人的移動與生活圈，水的流動與調適策略
@@ -101,12 +103,13 @@ https://g0v.hackmd.io/@chewei/poponfire/https%3A%2F%2Fg0v.hackmd.io%2Fqn1zVwvtQV
 
 ![](https://g0v.hackmd.io/_uploads/H1W4NXJyqzg.png)
 
+## 探討：已陸續探討的地區與街廓範圍
 
-
-## 探討：文山區
-
+文山區
 https://g0v.hackmd.io/@chewei/carbon-uptake/https%3A%2F%2Fg0v.hackmd.io%2FM369znrhQHWqONzLjOCj8g%3Fview
 
+已陸續探討的街廓範圍
+https://g0v.hackmd.io/@chewei/GDP/https%3A%2F%2Fg0v.hackmd.io%2Frq8ULwzSSjqGW0rfMLEffw%3Fview
 
 ## 其他
 
