@@ -300,6 +300,22 @@ https://linktr.ee/g0vjothon
     - 報名連結：reurl.cc/vGzg3o
     - 本次活動開放實體票和線上票，實體名額有限，請確定會出席的夥伴再報名參與喔！
 
+---
+
+11/13 週五傍晚｜TWIGF 南部學生讀書會・高雄場
+- 🌐 從網路治理到 ICANN：誰有權決定網際網路的未來？
+    - 網際網路看似是一個開放、去中心化的全球網絡，但究竟是誰在管理網際網路？誰有權決定網域名稱、IP 位址等關鍵資源的分配？政府、企業、技術社群與公民社會，又應該如何參與其中？
+    - 這些問題不只是技術議題，更涉及全球治理、國家主權、公共政策，以及數位時代的權力分配。
+    - 今年 TWIGF（Taiwan Internet Governance Forum）將在高雄舉辦南部學生讀書會，邀請對 Internet Governance（網路治理）有興趣的青年學生與各界朋友，一起透過閱讀與討論，認識網際網路治理的歷史、制度與未來挑戰。
+- 📖 本次讀書會選書：Milton L. Mueller (2025). Declaring Independence in Cyberspace: Internet Self-Governance and the End of US Control of ICANN. The MIT Press.
+    - 這本書以 ICANN 的治理發展為核心，探討網際網路如何逐步走向全球多方利害關係人治理（Multistakeholder Governance），以及美國政府在網際網路關鍵資源治理中角色的轉變。特別是在 AI、數位主權與地緣政治快速變化的今天，重新理解網際網路治理的制度演進，也有助於我們思考下一個世代的數位治理挑戰。
+- 📍 活動資訊
+    - 📅 日期：2026 年 11 月 13 日（星期五）傍晚 16:00–17:30
+    - 🏢 地點：Le Phare 共享空間－西子灣會議室
+    - 🚄 地址：高鐵新左營站 4 樓（高雄市左營區站前北路 1 號 4 樓）
+- 📩 報名方式：請直接寄信至：hltseng@mail.nutn.edu.tw
+    - 來信請註明「報名參加 TWIGF 讀書會」，並提供以下資訊：姓名、學校／公司（或服務單位）、聯絡方式
+
 
 ---
 
