@@ -17,3 +17,5 @@ https://www.threads.com/share/_kBEIkuDC/
 記錄與呈現生活生計樣態
 
 生活區位 / 成就
+
+https://www.facebook.com/share/14unbBHXt3X/
