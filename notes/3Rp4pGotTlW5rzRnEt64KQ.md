@@ -2,7 +2,7 @@
 tags: taipei,
 ---
 
-# 臺北市內水流域規劃 / 街區規劃倡議 / 公有資產永續善用制度倡議
+# 臺北市治理單元探討 / 內水流域 / 街區規劃 / 公有資產
 
 :::info
 [TOC]
@@ -42,6 +42,8 @@ https://six-cities.gcaa.org.tw/#demands
         - 東環段_Y39至Y36_南港山系-松仁路-松仁路95巷-松德路-松山路-基隆河
         - 中和光復線_公館至臺大捷運復舊方案，營造水綠空間
         - 民生汐止線 https://www.dorts.gov.taipei/cp.aspx?n=640DFDDFA9B8FEA8
+    - 軸帶轉型：車道
+        - https://www.facebook.com/share/p/1CLf5GbJrh/
     - 自然條件，明確自成一格的範圍
         - 由自然包圍的城鎮
             - 降溫城市計畫已界定的士林範圍，範圍_雙溪基隆河郊山圍塑
