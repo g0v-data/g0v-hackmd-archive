@@ -98,6 +98,9 @@ https://www.facebook.com/groups/423167101198665
 大龜文王國
 https://youtu.be/YT4os4vtbU4
 
+撒奇萊雅巫文化紀錄
+https://kaus-ritual-booking.truemesa35.chatgpt.site/
+
 台東族群
 https://www.facebook.com/share/1AYBNjH9sF/
 
