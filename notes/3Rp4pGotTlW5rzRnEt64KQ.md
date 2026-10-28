@@ -11,12 +11,11 @@ tags: taipei,
 ## 永續韌性城市_政策訴求
 
 完整內容網頁：https://six-cities.gcaa.org.tw/#demands
--一、再生能源與產業永續轉型
-二、防災韌性與民生保障
-三、高溫調適與健康安全
-四、水患治理轉型
-五、永續交通轉型
-
+- 一、再生能源與產業永續轉型
+- 二、防災韌性與民生保障
+- 三、高溫調適與健康安全
+- 四、水患治理轉型
+- 五、永續交通轉型
 
 臺灣碳排地圖：十年空間變遷與轉型敏感區域
 https://rsprc.ntu.edu.tw/web/research/research_in.jsp?lang=tw&rp_id=RP1787554609370
