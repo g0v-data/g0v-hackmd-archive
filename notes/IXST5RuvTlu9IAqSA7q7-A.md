@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants: 
+參與者 Participants: Tim, Peter,Bestian, ronny, Thompson, Billy, Josh
 
 
 自我介紹：
@@ -57,14 +57,25 @@ https://www.vtaiwan.tw/jitsi
 ### vTaiwan 與 g0v 要登上 CCC 拉！
 - 第 40 屆混沌通訊大會（40th Chaos Communication Congress, 40C3）以「Model Citizens」為年度主題，將於 2026 年 12 月 27 日至 30 日在漢堡展覽中心（Hamburg Messe）舉行。此大會是由混沌電腦俱樂部（Chaos Computer Club, CCC）與志工共同籌辦、每年一度為期四天的會議，聚焦於科技、社會與烏托邦。議程涵蓋講座、工作坊及各類活動，主題以資訊科技為主但不以此為限，整體強調對科技抱持批判且具創造性的態度，並探討技術進步對社會的影響。 
 - 自 1984 年創辦以來，大會一直由社群自主籌辦，歡迎各種形式的參與，鼓勵與會者擔任志工、與所屬「集會」（assembly）共同舉辦動手實作及自主組織的活動，或向其他駭客發表自己的專案。除主舞台的正式議程（Fahrplan）外，會場也提供社群自主發起的「自主組織場次」（Self-Organized Sessions）及每人五分鐘的閃電講（Lightning Talks）；歷屆演講可於 media.ccc.de 影音典藏庫線上觀看。 
-
+- https://docs.google.com/document/d/1QNo_TDC2ydvJOPHzy56JvdJ6Laz8YoWvPAESCI3cLhA/edit?usp=sharing
 
 ### 簡單看一下目前vTaiwan Github Project的工程看板
 
-- current itteration工程看板
+- current iteration工程看板
 https://github.com/orgs/g0v/projects/2/views/3
 
 - 待認領事項
 https://github.com/orgs/g0v/projects/2/views/7
 
-- Road
+- Roadmap
+https://github.com/orgs/g0v/projects/2/views/4
+
+## 會後討論
+
+- 台北市長選舉公民參與的反思：也許 vTaiwan 明年也可以做 2028 大選用的開源工具，例如「候選人給問嗎？」並邀請所有候選人響應使用工具。(主動收集意見，要候選人回應民意)
+
+- 或是優化[civic talk](https://civic.vtaiwan.tw)並引導參選人前往提出議題/意見來匯集民意和調查。(後續讓候選人或公民深化討論既存議題)
+
+## 下週有11/8 大松
+- https://g0v.hackmd.io/@jothon/g0v-hackath75n/https%3A%2F%2Fg0v.hackmd.io%2FKvzHayP4SPqXRhtrn2QH0w%3Fview
+- 下週小松
