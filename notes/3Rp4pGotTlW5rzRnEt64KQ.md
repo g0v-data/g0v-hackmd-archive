@@ -67,6 +67,9 @@ https://rsprc.ntu.edu.tw/web/research/research_in.jsp?lang=tw&rp_id=RP1787554609
             - 大湖公園海拔以上地區
             - 捷運內湖站海拔以上地區
             - 內溝溪流域
+        - 積淹水事件群聚與面狀積淹水地區
+            - 信義：六和、三興、松隆基隆路地區 ..等
+            - 內湖
     - 各街區範圍界定，促進範圍內能有較多行人友善與戶外空間營造契機為主
         - 市民大道以北｜大同中山，網格較均質 
             - ![](https://g0v.hackmd.io/_uploads/rJxd80jhGg.png)

@@ -2,8 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [S1Nl-4JTfg](../../notes/1Kt7BUX7QbSfe8oyLSnKBg.md) | SPAR 2026 秋季研究計畫_Assessing Taiwan's Global Position for Transformative AI_20261102訪談共筆 | 2026-10-28T10:19:53+00:00 | View mode |
 | [SkL1dHSCyl](../../notes/Ovl0MYOsQCKECQ9Ig4HOVA.md) | AI 麻瓜共學團 | 2026-10-28T08:55:41+00:00 | Book mode |
-| [S1Nl-4JTfg](../../notes/1Kt7BUX7QbSfe8oyLSnKBg.md) | SPAR 2026 秋季研究計畫_Assessing Taiwan's Global Position for Transformative AI_20261102訪談共筆 | 2026-10-28T08:53:51+00:00 | View mode |
 | [ryuGpT0eGx](../../notes/X-35BMf_QjW8NntAIGzuhQ.md) | COSCUP _ AI 開放治理 & Civic Tech 議程 | 2026-10-28T08:53:42+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-10-27T09:03:31+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-26T03:08:30+00:00 | View mode |
