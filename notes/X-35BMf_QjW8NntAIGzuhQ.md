@@ -1,5 +1,5 @@
 ---
-tags: ai,
+tags: AI,
 ---
 
 # COSCUP _ AI 開放治理 & Civic Tech 議程

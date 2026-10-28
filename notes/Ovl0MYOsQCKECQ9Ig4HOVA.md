@@ -16,9 +16,8 @@ tags: AI,
 - [AI 應用提案模板](https://g0v.hackmd.io/rywMmJtrSNa1w_pmsUJgzw?view)
 - [參考：AI 應用案例<br>與各領域指引](https://g0v.hackmd.io/@chewei/project_case)
 - [探討：AI 與公民科技<br>應用近況與展望](https://g0v.hackmd.io/aGlkvdrrRCemsKBE0pkXlg?view)
+- [20261102 訪談交流<br>Assessing Taiwan’s Global Position for Transformative AI](https://g0v.hackmd.io/1Kt7BUX7QbSfe8oyLSnKBg?view)
 
-## AI 開放治理與公民科技<br>活動議程
-- [2026/8/8 議程活動資訊](https://g0v.hackmd.io/X-35BMf_QjW8NntAIGzuhQ?view)
 
 ## 專題實作活動紀錄
 - [20250410 AI 麻瓜共學團 #1 多地址路線規劃](https://hackmd.io/baPHEj5wR22g9S1maXKzfw?view)
