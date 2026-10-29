@@ -180,3 +180,9 @@ rundll32 printui.dll,PrintUIEntry /if /b "辦公區C4500" /f "RC96E164.inf" /r "
 圖像生成    https://www.goenhance.ai/zhHant/tools/recraft-v3-image-generator
 
 https://meet.google.com/gbz-aizq-ito
+https://dev-box3.taiwanmds.com/tmr-ai-manage/industry-agent/
+https://dev-box3.taiwanmds.com/tmr-ai-manage/industry-agent/
+https://drive.google.com/file/d/15bcsKRLyi6ObQc1WkUGg7Vgb3HSSESwR/view
+
+
+https://meet.google.com/meet/krw-qerk-ozx
