@@ -170,3 +170,9 @@ Maphy bygelo™ is an open-source 3D civic atlas of the Philippines, transformin
 Explore the map here: https://bygelo.com/maphy/
 
 # Singapore
+
+A web-based digital platform to visualize and model urban microclimate simulations to support urban planning in Singapore
+- https://cde.nus.edu.sg/arch-ucdl/researches/ucdl-microclimate-digital-platform/
+- https://www.shicheng.news/zh-hant/v/PrR8z#new
+- 2025.05 有邀請推動者來台北分享圖資圖台應用，分享影片可參考以下
+https://www.facebook.com/share/p/1BMzEPf4gS/

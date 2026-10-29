@@ -178,3 +178,5 @@ cscript prnport.vbs -a -r IP_192.168.10.240 -h 192.168.10.240 -o raw
 rundll32 printui.dll,PrintUIEntry /if /b "辦公區C4500" /f "RC96E164.inf" /r "IP_192.168.10.240" /m "RICOH Aficio MP C4500 RPCS" /z
 
 圖像生成    https://www.goenhance.ai/zhHant/tools/recraft-v3-image-generator
+
+https://meet.google.com/gbz-aizq-ito
