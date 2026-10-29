@@ -2,13 +2,13 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-10-29T08:52:56+00:00 | View mode |
+| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-29T08:42:43+00:00 | View mode |
 | [HJt-ZzgTGl](../../notes/1--0hK3sR56iH5YRxOXvrw.md) | Civic Tech Asia | 2026-10-29T00:23:36+00:00 | Book mode |
 | [BymubzgTzg](../../notes/RkYqGDleQQine_lSVRBreg.md) | Civic Tech Asia | 2026-10-29T00:21:42+00:00 | View mode |
 | [S1Nl-4JTfg](../../notes/1Kt7BUX7QbSfe8oyLSnKBg.md) | SPAR 2026 秋季研究計畫_Assessing Taiwan's Global Position for Transformative AI_20261102訪談共筆 | 2026-10-28T10:19:53+00:00 | View mode |
 | [SkL1dHSCyl](../../notes/Ovl0MYOsQCKECQ9Ig4HOVA.md) | AI 麻瓜共學團 | 2026-10-28T08:55:41+00:00 | Book mode |
 | [ryuGpT0eGx](../../notes/X-35BMf_QjW8NntAIGzuhQ.md) | COSCUP _ AI 開放治理 & Civic Tech 議程 | 2026-10-28T08:53:42+00:00 | View mode |
-| [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-10-27T09:03:31+00:00 | View mode |
-| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-10-26T03:08:30+00:00 | View mode |
 | [r1QUPqo2Wg](../../notes/S3cmrJ8mS06lPKHJSxSINg.md) | 10/24 Civic Tech Day<br>公民科技主題日 | 2026-10-24T10:52:02+00:00 | Book mode |
 | [BkCPHcYEee](../../notes/_ab2mPTsSOqJC4V8ssMnDg.md) | 零時小學校<br>專案孵化計畫<br>Civic Nest | 2026-10-21T12:55:19+00:00 | Book mode |
 | [r18M8NIhGe](../../notes/NBtIE1b8TkuHhuGZ9R9akg.md) | 專案孵化計畫 Civic Nest 6th 籌備中 | 2026-10-21T12:54:49+00:00 | View mode |
