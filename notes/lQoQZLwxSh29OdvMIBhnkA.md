@@ -2,12 +2,12 @@
 tags: hackathon, jothon
 ---
 
-# 2026／11 g0v 大松命名 
+# 2026／11 第柒拾伍次投出未來黑客松 G0Vote Hackath75n
 
 :::success
 g0v 黑客松（aka 大松）活動名稱大部分是參與者在活動前提案投票後命名的，讓你可以冠名 g0v 黑客松！
 
-本次大松：g0v 第柒拾伍次_______黑客松 Hackath75n
+本次大松：g0v 第柒拾伍次投出未來黑客松 G0Vote Hackath75n
 活動時間：20261108 週日 10:30-17:30
 活動地點：台北市中正區重慶南路三段2號2樓
 報名網址：https://g0v.hackmd.io/@jothon/g0v-hackath75n

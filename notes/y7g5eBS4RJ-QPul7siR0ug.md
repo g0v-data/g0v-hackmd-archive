@@ -9,7 +9,7 @@ tags: jothon,
 
 ## Event Info<br>[UTC+8] 2026/11/08<br>Sun. 10:30-17:30<br>@Taipei NPOHUB
 
-- [Run-down / Projects<br>活動流程與專案清單](https://docs.google.com/spreadsheets/d/1Edt1jsKKRgGzE4uR1LDpKrAohz8gAKPnO17-XtF8HpM/edit?usp=sharing)
+- [Run-down / Projects<br>活動流程與專案清單<br>參加者 Participant](https://docs.google.com/spreadsheets/d/1Edt1jsKKRgGzE4uR1LDpKrAohz8gAKPnO17-XtF8HpM/edit?usp=sharing)
 - [Live stream on YouTube<br>活動直播](https://www.youtube.com/g0vTW)[target=_blank]
 - [g0v Slack Registration Tutorial<br>加入 g0v Slack 聊天頻道](https://g0v.hackmd.io/@jothon/joing0vslack)
 - [Registration<br>報名網址](https://forms.gle/hM7CCmZfXx11vF8N7)[target=_blank]
