@@ -12,6 +12,9 @@ https://1in8b.life/
 https://taiwanese-simulator.tw/
 https://www.threads.com/share/_kBEIkuDC/
 
+「台灣人生模擬器」，隨機投胎到1950年起某一年的台灣，從出生活到過世，走一遍爸媽、阿公阿嬤的人生
+https://twlife.chingspuzzle.com/
+
 ## idea
 
 記錄與呈現生活生計樣態
