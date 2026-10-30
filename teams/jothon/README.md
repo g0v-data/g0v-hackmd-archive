@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-10-30T14:27:00+00:00 | View mode |
 | [r1YnqGXjgg](../../notes/4-nyFkwISE2VQ1JO6rRIyw.md) | 2027／03 g0v 大松命名 | 2026-10-30T11:56:34+00:00 | View mode |
 | [Hy1S5Mmjel](../../notes/k-zw6iqaRy-SqBEKj_gH6w.md) | 2027／01 g0v 大松命名 | 2026-10-30T11:56:06+00:00 | View mode |
 | [HJNDn3e7C](../../notes/zyPgR_H6QwWBBgGXA6DYEA.md) | 活動命名 Bookmode | 2026-10-30T11:55:30+00:00 | Book mode |
@@ -10,7 +11,6 @@
 | [SyHqsxMTMe](../../notes/ye1kqdGkT0e6O37VuReXCQ.md) | 桃城聽脈 _ 專案相關內容 | 2026-10-30T11:25:11+00:00 | View mode |
 | [H1fFF6AiGg](../../notes/y7g5eBS4RJ-QPul7siR0ug.md) | g0v 第柒拾伍次<br>投出未來黑客松<br>G0Vote Hackath75n | 2026-10-30T11:11:37+00:00 | Book mode |
 | [BymubzgTzg](../../notes/RkYqGDleQQine_lSVRBreg.md) | Civic Tech Asia | 2026-10-30T10:58:50+00:00 | View mode |
-| [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-10-29T08:52:56+00:00 | View mode |
 | [HJt-ZzgTGl](../../notes/1--0hK3sR56iH5YRxOXvrw.md) | Civic Tech Asia | 2026-10-29T00:23:36+00:00 | Book mode |
 | [S1Nl-4JTfg](../../notes/1Kt7BUX7QbSfe8oyLSnKBg.md) | SPAR 2026 秋季研究計畫_Assessing Taiwan's Global Position for Transformative AI_20261102訪談共筆 | 2026-10-28T10:19:53+00:00 | View mode |
 | [SkL1dHSCyl](../../notes/Ovl0MYOsQCKECQ9Ig4HOVA.md) | AI 麻瓜共學團 | 2026-10-28T08:55:41+00:00 | Book mode |
