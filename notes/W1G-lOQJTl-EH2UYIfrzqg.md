@@ -117,9 +117,10 @@ Tokyo
 - https://eyesonplace.net/2017/11/29/7004/
 - https://tw.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/suishin/minnade/areaplan/pl-ninteibo.html
 
-### 兵庫縣 / 大阪 / 京都
-
-- https://g0v.hackmd.io/pctpoYVFSSm_o8Kydk4NwQ?view
+### 關西地區 / 兵庫縣 / 大阪 / 京都
+- 2府：大阪府、京都府
+- 5縣：兵庫縣、奈良縣、和歌山縣、滋賀縣、三重縣
+- 兵庫縣 https://g0v.hackmd.io/pctpoYVFSSm_o8Kydk4NwQ?view
 
 ### 九州 / 沖繩 / 島嶼
 
