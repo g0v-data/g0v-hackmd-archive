@@ -490,6 +490,22 @@ https://maps.app.goo.gl/D7hkyk4QfTinyqFu8
 https://prof.bht-berlin.de/fileadmin/prof/jschlaich/Abschlussarbeiten/Abschlussarbeit_Nr20_Bachelor_Follert_BruesselerKiez.pdf
 
 
+### 澳洲
+
+Safe Active Streets - Norfolk Neighbourhood - City of Vincent
+https://youtu.be/oraG2MGl4VE
+此影片有提出街廓整體檢視方法
+
+City of Vincent (Norfolk Street) Norfolk St & Burt St
+https://imagine.vincent.wa.gov.au/norfolk-neighbourhood-project
+照片遠處可以看到設置車阻，原本應該是直通道路，改為囊底路；此路徑沿線有一處高齡生活園區，以及道路末端有一個地區大型公園，穿過公園就接近市中心的河岸水域
+City of Vincent (Norfolk Street) Norfolk St & Burt St
+https://maps.app.goo.gl/KRpLADwPtXuDmPCH8
+Safe Active Streets Pilot Program
+https://www.transport.wa.gov.au/activetransport/safe-active-streets-pilot-program.asp
+
+
+
 ### 國際案例地點 & 臺灣情境試作地圖
 
 另開地圖：https://maps.app.goo.gl/X4C3X5fb5rMY1q5C6
