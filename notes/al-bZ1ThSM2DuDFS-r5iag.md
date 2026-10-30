@@ -63,6 +63,7 @@ https://www.facebook.com/share/p/1G3doQ9dcn/
 - 中興大學 https://www.facebook.com/share/p/3xcNeh5V9TvbV9QH/
 - 台南 https://www.facebook.com/share/p/17yKhwzkUq/
 - 臺南高鐵天橋 https://www.facebook.com/share/p/19Sry8gRZA/
+- 臺史博湖畔圖書館 https://www.facebook.com/tanihong/posts/pfbid0GWZ1aFrru7hhR7j2Vk5unAKywnKyg2PPN67VA8cDddw1cWsA8gsNQc9V4zTiwea8l
 - 雄女 https://www.facebook.com/groups/birdwindowcollision/posts/1363931294322324/
 - 高雄第一科大 https://www.facebook.com/share/p/98hopTiDhYum8D5T/
 - 和平電廠 https://www.facebook.com/share/p/19TDBu9zs4/
