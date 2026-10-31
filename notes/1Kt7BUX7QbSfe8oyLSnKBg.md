@@ -6,7 +6,9 @@ tags: AI,
 
 線上訪談
 - 線上訪談日期：11/2 週一晚上 19:00-20:00
-- 線上會議室網址：線上訪問g0v https://meet.google.com/uef-usaj-ohy
+- 線上會議室網址： https://meet.google.com/uef-usaj-ohy
+- 出席簽到：
+    - 揪松團 chewei
 
 訪綱與回答共筆
 - 訪談共筆文件，歡迎自主填寫

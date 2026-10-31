@@ -201,6 +201,9 @@ https://drive.google.com/file/d/1KjYATFfLsVqLIIB_lWQM4pg0HHFo-i_S/view?usp=drive
 台中台灣大道民權路口（有鎖內容看不到）
 https://www.facebook.com/100094870554841/posts/pfbid02L2FDr2UhHa5djfBe49ZAsXwfEXwrCK21JsCrxAAWUNN3d92PiumxbEm2D7MCVopVl/?mibextid=cr9u03
 
+彰化金馬路（台1丙）× 中華西路（台19）× 曉陽路口
+https://www.facebook.com/share/p/1JFTV6Twor/
+
 彰師大附近 進德路標線改造工作坊（有鎖內容看不到）
 https://www.facebook.com/share/p/NXPAL2zBooXD7C6R/
 
