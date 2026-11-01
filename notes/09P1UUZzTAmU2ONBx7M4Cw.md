@@ -1,0 +1,1 @@
+<a href="https://onejd88.com/" target="_blank" rel="noopener noreferrer">JD88</a> là điểm đến giải trí trực tuyến với giao diện hiện đại, trải nghiệm đa dạng, khả năng tương thích trên nhiều thiết bị và thông tin được cập nhật thường xuyên mỗi ngày Website: <a href="https://onejd88.com/" target="_blank" rel="noopener noreferrer">https://onejd88.com/</a>
