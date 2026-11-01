@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [SyN63Zkq-x](../../notes/FfdQPrIvTHyYuH8XMzygCg.md) | 模擬遊戲 | 2026-11-01T15:07:42+00:00 | View mode |
 | [S1Nl-4JTfg](../../notes/1Kt7BUX7QbSfe8oyLSnKBg.md) | SPAR 2026 秋季研究計畫_Assessing Taiwan's Global Position for Transformative AI_20261102訪談共筆 | 2026-10-31T14:05:29+00:00 | View mode |
 | [HJiDSv76Ge](../../notes/Dm4FpkkTRQ-uWN1SAiOmnA.md) | 學區地理資料 | 2026-10-31T13:05:36+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-10-30T14:27:00+00:00 | View mode |
@@ -67,7 +68,6 @@
 | [rJ_a81PlMg](../../notes/Mld-V2fHRL2Mh8HDVOgxqA.md) | 台南 | 2026-08-30T09:11:25+00:00 | View mode |
 | [rkAGALAUK](../../notes/LHLAPHxjTt6Spp5LJr_zew.md) | 黑客松場地場勘 | 2026-08-30T08:44:15+00:00 | View mode |
 | [H1SmCW2v1e](../../notes/8B2i_h0iSKOvhBkR1FFHZw.md) | 移動松：巴士 / 火車 / 高鐵 / 船運 | 2026-08-12T11:29:07+00:00 | View mode |
-| [SyN63Zkq-x](../../notes/FfdQPrIvTHyYuH8XMzygCg.md) | 模擬遊戲 | 2026-08-11T14:44:42+00:00 | View mode |
 | [rknaiQh31x](../../notes/fnVPK_1zSDagP7RiacyZ9w.md) | 歷年 COSCUP 開源人年會 _ 擺攤 | 2026-08-07T10:41:03+00:00 | View mode |
 | [B1ccTmkUGl](../../notes/CzOGu7HOQh-rJ5Pk4LT_gw.md) | 公私協力怎麼談：一起討論公部門和民間合作的方法，以及常卡在哪 | 2026-08-04T21:08:04+00:00 | View mode |
 | [SJwLXkDGGl](../../notes/WwSHF6WtRm2vNuEIwnFRFg.md) | 讀過公民科技知識庫的 AI，要叫什麼名字？ | 2026-07-31T15:53:33+00:00 | View mode |

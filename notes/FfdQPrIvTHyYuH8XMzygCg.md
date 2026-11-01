@@ -13,6 +13,9 @@ Data Center
 https://store.steampowered.com/app/4170200/Data_Center/
 https://www.facebook.com/share/p/197DtTemRD/
 
+晶圓廠
+https://fab24hr.com/
+
 林業設備操作模擬
 https://www.facebook.com/share/p/1CVc1rK8DS/
 
