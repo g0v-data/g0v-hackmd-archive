@@ -7,7 +7,6 @@
 
 :::
 #### 常用連結
-https://poki.com/zh/g/kiwi-clicker
 Google拼圖:https://g.co/arts/Wqau6cVK3KrjjsRU9
 即時翻譯
 https://apps.microsoft.com/detail/9pjd2fdzqxm3?hl=zh-TW&gl=TW
@@ -16,7 +15,7 @@ https://poki.com/zh/g/vortellis-pizza?gdgameCode=YAIUT3
 打字練習1    https://worldofkeyboards.com/bopomofo
 打字練習2    https://typing.tw
 國字筆順    https://stroke-order.learningweb.moe.edu.tw/home.do?lang=zh_TW
-麥塊經典板  https://www.crazygames.com/game/minecraft-classic
+
 https://poki.com/zh#
 poki https://poki.com/zh#utm_source=redirect-en-zh
 
@@ -26,7 +25,6 @@ https://doodles.google/
 遊戲天堂    https://www.i-gamer.net/
 經典遊戲    https://playclassic.games/
 2020 Blocks    https://cn.game-game.com/180599/
-冰火人3        https://cn.game-game.com/51792/
 檔案上傳 https://www.dropbox.com/request/NkESuX6UMS3o5wpw2JFW
 你畫我猜    https://gartic.io/
 Google限時塗鴉    https://quickdraw.withgoogle.com/?locale=zh_TW
@@ -38,7 +36,7 @@ https://adguard.com/zh_tw/welcome.html?utm_campaign=home&utm_medium=license_acti
 
 台灣小百岳
 https://catyc.pixnet.net/blog/post/63581416-%E5%8F%B0%E7%81%A3%E5%B0%8F%E7%99%BE%E5%B2%B3
-https://meet.google.com/wxf-hzwv-hzo
+
 Google 遊戲
 https://web.jsps.kh.edu.tw/googlegame/
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_0ee72ad82c31f2befbc519c9493b9761.png)
