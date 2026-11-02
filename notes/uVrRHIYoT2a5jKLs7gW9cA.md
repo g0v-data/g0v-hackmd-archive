@@ -13,7 +13,7 @@ Giờ hoạt động: 24/7
 Hashtag: #ee88 #ee88bvb #nhacaiee88 #ee88nhacai #e88 #ee88com #ee88dangnhap
 
 https://www.youtube.com/@ee88bvbcom/about
-https://x.com/ee88egcom
+https://x.com/ee88bvbcom
 https://www.twitch.tv/ee88bvbcom
 https://www.pinterest.com/ee88bvbcom/
 https://gravatar.com/ee88bvbcom
