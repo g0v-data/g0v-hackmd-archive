@@ -63,6 +63,7 @@ g0v 台北社群空間_小松果 🌰 🐿️
 - [No.] 1121 週六下午暫訂國會松
 - [No.] 1117 週二晚上 20:00 Cofacts 社群週會
 - [No.] 1117 週二下午 淡江建築系課程_都市水環境交流 (接洽 by chewei)
+- [No.] 1115 週日上午下午 揪松團交流會議  (接洽 by chewei, Ronny)
 - [No.] 1112 週四晚上 F4: functional thursday 社群活動 (接洽 by chewei)
 - [No.] 1112 週四晚上 國會松 使用二樓大間場地 (接洽 by Ronny, chewei)
 - [No.] 1111 週三上午下午 揪松團交流會議  (接洽 by chewei, Ronny)
