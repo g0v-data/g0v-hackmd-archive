@@ -2,10 +2,10 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-11-02T07:53:56+00:00 | View mode |
 | [SyN63Zkq-x](../../notes/FfdQPrIvTHyYuH8XMzygCg.md) | 模擬遊戲 | 2026-11-01T15:07:42+00:00 | View mode |
 | [S1Nl-4JTfg](../../notes/1Kt7BUX7QbSfe8oyLSnKBg.md) | SPAR 2026 秋季研究計畫_Assessing Taiwan's Global Position for Transformative AI_20261102訪談共筆 | 2026-10-31T14:05:29+00:00 | View mode |
 | [HJiDSv76Ge](../../notes/Dm4FpkkTRQ-uWN1SAiOmnA.md) | 學區地理資料 | 2026-10-31T13:05:36+00:00 | View mode |
-| [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-10-30T14:27:00+00:00 | View mode |
 | [r1YnqGXjgg](../../notes/4-nyFkwISE2VQ1JO6rRIyw.md) | 2027／03 g0v 大松命名 | 2026-10-30T11:56:34+00:00 | View mode |
 | [Hy1S5Mmjel](../../notes/k-zw6iqaRy-SqBEKj_gH6w.md) | 2027／01 g0v 大松命名 | 2026-10-30T11:56:06+00:00 | View mode |
 | [HJNDn3e7C](../../notes/zyPgR_H6QwWBBgGXA6DYEA.md) | 活動命名 Bookmode | 2026-10-30T11:55:30+00:00 | Book mode |
