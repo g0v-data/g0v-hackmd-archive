@@ -414,7 +414,7 @@ https://g0v.hackmd.io/@jothon/guide/
 - 透過超過 110 份填答，提出公民科技實踐者所需資源
 - 建立指引知識架構，陸續撰寫行動心法
 
-Database
+### Database
 - 順序 1：兩份 airtable 評估整合
     - 公民科技 + 公民科學&群眾參與型計畫
     - 建立收錄原則與表單管道
@@ -425,15 +425,19 @@ Database
         - dataset
         - API
         - 釋出使用者訪談整理
+    -  g0v slack 頻道
+    -  專案介紹影片，如果有的話
 - 順序 3：國內外相近領域專案對照
     - 例如 Code for Japan 社群有一個 防貧窮 API 專案，是國內尚未看到的切入角度；日本 Code for SAKE 可以做為 臺灣地酒釀酒主題參考
 
-公民 + AI
+
+## 公民 + AI
 - 大哉問問到飽，NotebookLM https://notebooklm.google.com/notebook/1d609458-7ef5-4b50-afbc-13ad31ea375e
 - AI 輔助形成專案架構，許願池語法 + NotebookLM 產製提案影片，案例 Gemini 想要提案租屋透明地圖 https://g0v.hackmd.io/e1mYHwVdS3yeOlYl_c0xeQ?view
-- [發想] AI Civic Tech Monday 每月活動，分享與交流 https://g0v.hackmd.io/Veor3T_3SiGyhlV8MA-crA?view
+- AI Civic Tech Monday 每月活動，分享與交流 https://g0v.hackmd.io/@jothon/ai
 
-推廣給以下三種行動者
+
+## 推廣給以下三種行動者
 - 國高中職學生，提供 主題操作教案，首次接觸公民科技專案就能上手操作與貢獻
     - 公民權益_人本交通：地區車禍熱點拍照分析地圖，揪松團曾陪伴內湖高中社團課程操作此主題，使用 群眾標註地圖工具；學生時期，走路與單車的時光，需要空間平權
     - 生態環境_物種紀錄：iNaturalist 物種拍照的紀錄，貢獻至全球資料庫；棲地圖、TNFD
@@ -442,7 +446,7 @@ Database
     - 語言類專案 https://g0v.hackmd.io/@jothon/guide/https%3A%2F%2Fg0v.hackmd.io%2F-DjIIJ4SRLi64L_bfPI4Hg%3Fview
         - 熟悉母語者，可以協助母語保存貢獻，例如 common voice
         - 學習語言
-- 青年公民
+- 數位公民
     - 使用 NotebookLM AI 陪你提構想
     - 做專案，來 g0v slack、社群活動 分享進度 https://g0v.hackmd.io/@jothon/event
     - 了解坑主對於專案的構想，引薦資源 (若有希望尋求 NGO 合作則可主動引薦媒合)
@@ -453,20 +457,30 @@ Database
         - 例如環評報告書論壇不易閱讀
         - 各類法定權利盤點 https://docs.google.com/presentation/d/17BM2XCb_lXToTKHUF_eC4vWjAIcDHtmF9J4w9B8FrRI/edit?slide=id.g50d9360e403fc023_4#slide=id.g50d9360e403fc023_4
 
-課題地圖
+## 課題地圖 Issue 
 - Data 
     - data gov 的 我想要更多 專區累積內容
     - 例如學區資料、鄰界圖
 - 帶有權益法治背景
     - 公眾權益法律未能落實之處
     - Join 提案
+- 媒體專題型報導
+    - 例如公視我們的島
+- 議題 NGO 提出
+    - 例如河溪網
+- 民間行動
+    - 例如 姚瑞中_蚊子館
 - 公共行政出題或必須解題
-    - 機關機構各自的出題
+    - 機關機構各自的出題，有蒐集歷屆各類黑客送活動清單
+    - 例如歷屆總統盃黑客松入選題目
     - 例如台南市
     - 例如鐵客松
     - 臺北 1999 + 你給我聽好了
     - 2026 民間團體倡議永續韌性城市
-- 活動現場
+    - 例如馬祖
+- 活動現場蒐集到的
+    - 阿美語 AI 模型訓練
     - 宜蘭廢棄魚塭怎麼辦
     - 臺東呂阿玉建築師作品
-- 許願池廣義蒐集
+    - 馬祖氣象研判與交通資訊
+- 許願池廣義蒐集到的

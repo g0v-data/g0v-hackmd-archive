@@ -2,7 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [B1RUK6tb-e](../../notes/zkWf3uJDQA6mp7FfqzfIsQ.md) | <center>公民科技及數位工具應用指南與支持網絡</center> | 2026-11-03T15:48:55+00:00 | View mode |
+| [B1RUK6tb-e](../../notes/zkWf3uJDQA6mp7FfqzfIsQ.md) | <center>公民科技及數位工具應用指南與支持網絡</center> | 2026-11-03T16:17:56+00:00 | View mode |
 | [ryvfY7v5xe](../../notes/ARUbzVynRga6J8SUgiCgGw.md) | 交流推廣活動 Outreach & Exchange Events & Outcomes | 2026-11-03T14:20:31+00:00 | View mode |
 | [By8R5AED1l](../../notes/jVVaW4VVS7qV51Af_OGV7g.md) | Jothon SNS | 2026-11-03T13:57:27+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-11-02T16:22:03+00:00 | View mode |
