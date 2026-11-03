@@ -13,6 +13,8 @@ tags: txt,
 
 ─=≡Σ((( つ•̀ω•́)つ
 
+˃̣̣̥᷄ ᴖ ˂̣̣̥᷅
+
 ➫ ➫ ➫
 
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
@@ -56,7 +58,7 @@ https://zh.moegirl.org.cn/zh-tw/%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95#google_vign
 𒀭𒀭𒀭
 
 
-▒░▌ OOOO，OOOO ▐░▒
+▒░▌ 文字文字 ▐░▒
 
 ▓█▓█▓█▓█▓█▓█▓█▓█▓█▓█
 
