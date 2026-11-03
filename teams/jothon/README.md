@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [B1RUK6tb-e](../../notes/zkWf3uJDQA6mp7FfqzfIsQ.md) | <center>公民科技及數位工具應用指南與支持網絡</center> | 2026-11-03T15:48:55+00:00 | View mode |
 | [ryvfY7v5xe](../../notes/ARUbzVynRga6J8SUgiCgGw.md) | 交流推廣活動 Outreach & Exchange Events & Outcomes | 2026-11-03T14:20:31+00:00 | View mode |
 | [By8R5AED1l](../../notes/jVVaW4VVS7qV51Af_OGV7g.md) | Jothon SNS | 2026-11-03T13:57:27+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-11-02T16:22:03+00:00 | View mode |
@@ -81,7 +82,6 @@
 | [rkPVhuZq-g](../../notes/g9CD-XBKRnOUXEPlMnJxEQ.md) | 社群申請 2026 g0v Summit 擺攤的共筆 | 2026-07-23T08:16:22+00:00 | View mode |
 | [rko9liNjyg](../../notes/ODqsRO2OSz6I2-gS41lNnw.md) | 近期 g0v 黑客松活動 | 2026-07-22T05:36:07+00:00 | View mode |
 | [H15AzGuqbl](../../notes/9j3nnWHZRbuXPH4HgscPRg.md) | 社群小聚｜宜蘭 | 2026-07-19T14:36:59+00:00 | View mode |
-| [B1RUK6tb-e](../../notes/zkWf3uJDQA6mp7FfqzfIsQ.md) | <center>公民科技及數位工具應用指南與支持網絡</center> | 2026-07-18T02:58:57+00:00 | View mode |
 | [H1bnkat5gx](../../notes/-fZHED2CSp6qcfxfw9lhWQ.md) | 20251207 公民科技社群聚會暨鏈結資料文獻臺灣譯本發表會_活動資訊與共筆 | 2026-07-11T13:56:31+00:00 | View mode |
 | [rkIy4GaGGg](../../notes/TtTBDAu3T124JhL4jPC3Nw.md) | 20260712 SITCON Camp 社群博覽會 _ 擺攤 | 2026-07-08T09:24:40+00:00 | View mode |
 | [rkHhn_dkL](../../notes/bLZZA8HlQcWZyjbgvRS6ig.md) | g0v 坑主小聚 / 坑主大補帖 | 2026-07-05T14:34:13+00:00 | View mode |
