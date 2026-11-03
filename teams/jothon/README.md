@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [By8R5AED1l](../../notes/jVVaW4VVS7qV51Af_OGV7g.md) | Jothon SNS | 2026-11-03T13:57:27+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-11-02T16:22:03+00:00 | View mode |
 | [SyN63Zkq-x](../../notes/FfdQPrIvTHyYuH8XMzygCg.md) | 模擬遊戲 | 2026-11-01T15:07:42+00:00 | View mode |
 | [S1Nl-4JTfg](../../notes/1Kt7BUX7QbSfe8oyLSnKBg.md) | SPAR 2026 秋季研究計畫_Assessing Taiwan's Global Position for Transformative AI_20261102訪談共筆 | 2026-10-31T14:05:29+00:00 | View mode |
@@ -24,7 +25,6 @@
 | [rkRYZt-9Ze](../../notes/ru-7S6xsQL-1pXmTRXPAmg.md) | 製作「面紙包」用於發送 | 2026-10-21T05:40:54+00:00 | View mode |
 | [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-10-21T04:23:11+00:00 | View mode |
 | [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | What is a g0v hackathon ? | 2026-10-21T04:10:38+00:00 | View mode |
-| [By8R5AED1l](../../notes/jVVaW4VVS7qV51Af_OGV7g.md) | Jothon SNS | 2026-10-16T10:02:23+00:00 | View mode |
 | [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-10-15T21:54:49+00:00 | View mode |
 | [Hkh8DtAgfl](../../notes/EvkiY6tiQzK2uve2kgpnAg.md) | 2027_ON+1030 籌辦工作文件 | 2026-10-13T01:18:38+00:00 | View mode |
 | [BkxrwGIvWx](../../notes/qkIrfWr9Q_Kho3HJ-uZ9IQ.md) | Almanac _ 公民科技年曆 / 主題日評估 | 2026-10-13T01:15:00+00:00 | View mode |
