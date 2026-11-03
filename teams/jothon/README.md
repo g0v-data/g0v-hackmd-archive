@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [ryvfY7v5xe](../../notes/ARUbzVynRga6J8SUgiCgGw.md) | 交流推廣活動 Outreach & Exchange Events & Outcomes | 2026-11-03T14:20:31+00:00 | View mode |
 | [By8R5AED1l](../../notes/jVVaW4VVS7qV51Af_OGV7g.md) | Jothon SNS | 2026-11-03T13:57:27+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-11-02T16:22:03+00:00 | View mode |
 | [SyN63Zkq-x](../../notes/FfdQPrIvTHyYuH8XMzygCg.md) | 模擬遊戲 | 2026-11-01T15:07:42+00:00 | View mode |
@@ -212,7 +213,6 @@
 | [Bym9BUZHyg](../../notes/nNEkGpfzReWIkyzN2C142A.md) | 228 共生音樂節擺攤 | 2025-09-09T14:22:45+00:00 | View mode |
 | [H1KLllMGge](../../notes/cNMLsp9KQiaK2J76MXXIiw.md) | 提供審閱攤位資料 | 2025-09-09T14:22:36+00:00 | View mode |
 | [B16m5Gxup](../../notes/PpFHUj1bRuiluTQpLAuIeA.md) | 揪松團物資器材清單 / 可分享物資 / 借用方式 / 擺攤 / 文物保存 | 2025-09-09T14:20:37+00:00 | View mode |
-| [ryvfY7v5xe](../../notes/ARUbzVynRga6J8SUgiCgGw.md) | 交流推廣活動 Outreach & Exchange Events & Outcomes | 2025-09-05T08:14:14+00:00 | View mode |
 | [B1ADpJRdA](../../notes/CZqvO0aDQmGm2fEMBxMQKQ.md) | g0v シビックテックプロジェクトとコミュニティの手引き | 2025-09-04T15:22:27+00:00 | Book mode |
 | [SJW3sDecll](../../notes/nrFF3PNXTEWWtH2HxgxeGw.md) | 教育部製作_各教育階段學生數預測報告 | 2025-08-30T12:21:25+00:00 | View mode |
 | [BJvSW3Ttll](../../notes/WwCxB0cYSFSDlT_pJtxNhA.md) | 新北市的場地 | 2025-08-28T10:40:38+00:00 | View mode |
