@@ -366,6 +366,7 @@ https://www.journals.uchicago.edu/doi/abs/10.1086/730621
 - 中文摘要：從2016年「post-truth」的討論到2020年的「infodemic」，網絡謠言似乎變得更加猖獗、有害且難以駁斥。本文探討了Cofacts，一個台灣的事實查核服務，它結合了聊天機器人和由編輯志工提供的事實查核資料庫，來幫助查核在LINE上流傳的謠言。我主張，Cofacts的眾包方法結合了Donna Haraway所稱的即身客觀性 (embodied objectivity)，這種客觀性堅持，知識都有其視角與身體，從來就非普世皆同。透過群眾外包的事實查核機器人，Cofacts從而挑戰傳統事實查核中，認為事實是單一、客觀的並且具有權威的觀點。Cofacts誕生於台灣不同世代之間的衝突，這些衝突源於不同的生活經歷、信仰和價值觀，以及對美好生活的期望。通過採取強調開放性的技術解決方案，Cofacts為數位原住民打開新的政治空間，一方面他們可以在父家長的社會中爭奪對事實的話語權；另一方面，Cofacts的眾包方法也讓數位原住民之間建立新的關懷聯繫，並重新開始因同溫層和世代對立而被阻礙的世代對話。
 
 ## 2025
+
 ### 《沒有人的運動：黑客、鄉民、與g0v零時政府的數位行動主義》
 - 作者：李梅君 (中研院民族所)
 - 一本關於 g0v 的數位民族誌
@@ -395,7 +396,6 @@ https://www.journals.uchicago.edu/doi/abs/10.1086/730621
 
 說明文件：https://g0v.hackmd.io/@5jPm6t3mSECMQeN0oYLaMA/BkffhrnVge?type=view
 
-
 ## 2026
 
 ### Data repoliticization and environmental governance: how civic data activism negotiates state bureaucracy in Taiwan
@@ -411,6 +411,10 @@ https://www.journals.uchicago.edu/doi/abs/10.1086/730621
 - By: Bella Wexler
 - A paper submitted in partial fulfillment of the requirements for the Master of Arts degree in the Master of Arts Program in the Committee on International Relations
  
+## 2027
+
+
+
 
 ---
 ## 教科書 / 書本 / 出版
@@ -452,6 +456,9 @@ https://www.journals.uchicago.edu/doi/abs/10.1086/730621
     - 補頁碼，零時小學校 & Tiff 有撰寫一篇文章，收錄於書中
     - https://www.facebook.com/pangphuann/posts/pfbid0r35hLXwyhxUMme1HifSjeaYG2NzpNRy1JRttdX9DJDncPwhPFhoPkxsDVptufbmol
 - 沒有人的運動
+    - https://youtu.be/qw8EQhyGso0?si=eO3BdConbdXHeQnn
+- 田野敲敲門2
+    - 補頁碼，有提到 g0v
 
 ### [原始 hackpad 內容](https://g0v.hackpad.tw/1esFXAvr0U4)
 
