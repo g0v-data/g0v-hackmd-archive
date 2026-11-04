@@ -8,6 +8,9 @@ tags: vTaiwan
 參與者 Participants: Tim, Peter,Bestian, ronny, Thompson, Billy, Josh
 
 
+![](https://g0v.hackmd.io/_uploads/SJDdW9_6fg.png)
+![](https://g0v.hackmd.io/_uploads/HylD_b9Oafg.png)
+
 自我介紹：
 
 https://www.vtaiwan.tw/jitsi 

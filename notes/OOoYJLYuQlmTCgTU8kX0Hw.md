@@ -5,7 +5,9 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants: Tim, Peter,Bestian, ronny, Thompson, Billy, Josh
+參與者 Participants: Peter, Tim, Bestian, Thompson 
+![](https://g0v.hackmd.io/_uploads/ryg9GAcOafl.png)
+![](https://g0v.hackmd.io/_uploads/rk5z05upzg.png)
 
 
 自我介紹：
@@ -56,19 +58,19 @@ https://www.vtaiwan.tw/jitsi
     - GEMIC 
         - Jana
         - Todd
-    - Team Taiwan 
+    - Team vTaiwan 
         - Peter
-        - Denny
-        - RS 
-        - 為然
-        - Crystal
+        - Denny (SITCOM)
+        - RS (G0V)
+        - 為然 (CDIS)
+        - Crystal (AS)
         - Tim
 - 預計討論議題
-    - 目前 vTaiwan 應用 AI 情形
+    - 目前 vTaiwan 應用 AI 情境
     - 台灣社群的相關應用
     - 美國與其他國家社群的應用
     - 他們的研究與 Jigsaw 的發展
-- [20261108vTaiwan與Jigsaw討論](/0N5bWOHfQwmQNf9u6ORKoQ)
+- [20261108vTaiwan與 GEMIC 討論](/0N5bWOHfQwmQNf9u6ORKoQ)
 
 ### 11/22 IxDF UX Brunch Chat 小聚分享
 - https://luma.com/lj9idr19
@@ -91,8 +93,8 @@ https://www.vtaiwan.tw/jitsi
 :::
 
 ### 年度重頭戲：CCC 
-- vTaiwan 成功登上德國一年一度的大型社群盛會 CCC 混沌通訊大會了！本次的議程會與德國的社群倡議組織我們來自東方[wir sind der osten ](https://wirsindderosten.de/wir-sind-der-osten/) 合作，探討台灣的公民科技與 vTaiwan 使用的數位工具可以如何形塑共識。
-- 目前預計使用的工具：polis.tw + sensemaker 
+- vTaiwan 成功登上德國一年一度的大型社群盛會 CCC 混沌通訊大會了！本次的議程會與德國的社群倡議組織「我們來自東方」[wir sind der osten ](https://wirsindderosten.de/wir-sind-der-osten/) 合作，探討台灣的公民科技與 vTaiwan 使用的數位工具可以如何形塑共識。
+- 目前預計使用的工具：[polis.tw](https://polis.tw) + [sensemaker](https://make.vtaiwan.tw) 
 - 目前確認會由FNF 諾曼自由基金會擔任贊助方。
 - 12/27-30 會在漢堡舉辦
 
@@ -104,9 +106,19 @@ Hello, 我來尋求幫忙了：）
 :::
 - 預計11/11 與11/18 進行測試
 
+### 壓力測試內容
+- 可能需要用不同的瀏覽器
+- 可能會知道哪些東西是參與者實際上會用到的
 
+## 本週是 g0v 大松啦！
+- 這一次的重頭戲是 civic.vtaiwan.tw 
+- 可以邀請大家來開 good first issue 邀請大家來當作志願者搜集素材
+- 兩個方向：歡迎大家帶議題或帶素材進來
+- https://g0v.hackmd.io/AOQfOmJmS-mcgr2LR4dLQA?view
+-  先開共筆 [vTaiwan in 2026/11/08 大松](/Vf-eEXKRR2aM5JI9JNQhSQ)
+-  分享投影片：
 
-### 《共議未來》閱讀筆記
+## 《共議未來》閱讀筆記
 - 提出民主創新需要「民主基礎設施」，作為持續促進公民參與和社會互動的重要條件
 - 對於公共參與專家的三個重要能力（aka 三種基礎設施）
     - 知識中介者：
@@ -130,5 +142,34 @@ Hello, 我來尋求幫忙了：）
     - 蛋黃區：核心利害關係人，在審議上可以採取「結盟」，需要深化參與並精準溝通
     - 蛋白區：廣泛的不特定群眾，確保資訊流通、並透過多元的對話系統，保持興趣與促進長期參與
 
+### 討論
+- 分層溝通是很有趣的溝通策略 [name=peter]
+    - 傳統上來說 vTaiwan 重視的就是多元利害關係人，在分層溝通的討論上可以討論
+    - polis 可以接觸到蛋白區的人
+    - 審議大會：偏向蛋白區的人
+    - 傳統的 vTaiwan 討論：實體上的討論偏向蛋黃區
+- 如果要達成政策改變? 需要哪些工具 [name=thompson]
+    - 如何包裝相關的成果，可能會是關鍵 [name=peter]
+    - 透過分層接觸的機制萃取出意見，或可集中成join平台提案。[name=tim]
+    - 蛋黃區可用的溝通工具: 隱私的即時會議轉錄+綜整AI輔助工具Steno AI https://stenoai.co/ [name=bestian]
+    - 蛋黃區可對蛋白區作意見徵集與調整: 可用Polis, Civic Talk
 
-### 意識管理小工
+### 下一步的行動
+- 感覺可以利用這個標準蛋黃區", "蛋白區"的互動關係，幫工具做簡單的分類？ [name=peter]
+
+## Consul 合作
+- https://consuldemocracy.org/ 
+:::info
+It's been a while since we connected at COSCUP! Thank you for coming to my talk in Taiwan, it was great to meet you.
+
+I was taking a look at vTaiwan's work, and I think there's a good fit with what the Consul Democracy Foundation does. Consul is free open source and self-hosted, every institution installs and operates its own. We would like to work with technical partners in Asia who can help institutions in their own country do that. We see this as complementary to what you already do, and we would be glad to give your work more visibility among Consul's international community.
+
+Would you be open to a short call to explore potential collaboration? Looking forward to hearing from you.
+:::
+
+## 意識管理小工具分享
+
+1. [為什麼要用紙本待辦清單？](https://www.bestian.tw/articles/paper_todo)
+2. 即印式[紙本待辦清單](https://www.bestian.tw/todo)
+> 因為上週Josh提到工作節奏常被打斷，所以想到這個
+> 目前還沒開源程式碼和進行開源授權，但可以免費使用[name=Bestian]
