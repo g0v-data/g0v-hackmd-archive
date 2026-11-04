@@ -41,14 +41,16 @@ https://photos.app.goo.gl/AxMGp2bVNJjzpVUz7
             - 萌典孵化器
 - 延續 EJ 開啟了面紙包動物擔當 ~ 歡迎推薦動物種類 (例如 O'Reilley 的書籍封面也系列使用動物形象)
     - 雪鴞 / 白鴞
-        - 特點設定：遭遇，巧遇，靜、份量
+        - 特點設定：遭遇，巧遇，沉靜，份量
     - 黑客松鼠
         - 特點設定：降落，酷
-    - 黑貓
+    - 貓
         - 特點設定：直面世界法則，運算處理中
             - https://pets.ettoday.net/news/1346715
             - ![](https://g0v.hackmd.io/_uploads/SJxkW_p_pMg.png)
-    - 橘貓
+        - 特點設定：投入實踐
+            - https://www.hitpaw.tw/meme-tips/cat-memes.html
+            - ![](https://g0v.hackmd.io/_uploads/rJFGYTO6Gg.png)
         - 特點設定：握拳，立志
             - ![](https://g0v.hackmd.io/_uploads/SkQGITdafg.png)
 
