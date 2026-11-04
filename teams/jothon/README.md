@@ -2,6 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [rkRYZt-9Ze](../../notes/ru-7S6xsQL-1pXmTRXPAmg.md) | 製作「面紙包」用於發送 | 2026-11-04T14:58:40+00:00 | View mode |
+| [ry5TjRBhD](../../notes/hkqwwNqfQ9OPLIamC5QW-g.md) | g0v 賀年卡與賀年詞募集<br>New Year's Cards and Greeting Phrases | 2026-11-04T14:10:44+00:00 | View mode |
 | [Hy1S5Mmjel](../../notes/k-zw6iqaRy-SqBEKj_gH6w.md) | 2027／01 g0v 大松命名 | 2026-11-04T12:46:09+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-04T09:54:58+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-11-04T08:50:59+00:00 | View mode |
@@ -24,7 +26,6 @@
 | [BkCPHcYEee](../../notes/_ab2mPTsSOqJC4V8ssMnDg.md) | 零時小學校<br>專案孵化計畫<br>Civic Nest | 2026-10-21T12:55:19+00:00 | Book mode |
 | [r18M8NIhGe](../../notes/NBtIE1b8TkuHhuGZ9R9akg.md) | 專案孵化計畫 Civic Nest 6th 籌備中 | 2026-10-21T12:54:49+00:00 | View mode |
 | [HyBiNcJ1o](../../notes/ZwLI9V36Tmi-jFXWVtb1hQ.md) | 影響力報告線上版，內容可以呈現什麼？ | 2026-10-21T07:34:51+00:00 | View mode |
-| [rkRYZt-9Ze](../../notes/ru-7S6xsQL-1pXmTRXPAmg.md) | 製作「面紙包」用於發送 | 2026-10-21T05:40:54+00:00 | View mode |
 | [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-10-21T04:23:11+00:00 | View mode |
 | [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | What is a g0v hackathon ? | 2026-10-21T04:10:38+00:00 | View mode |
 | [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-10-15T21:54:49+00:00 | View mode |
@@ -44,7 +45,6 @@
 | [ry9tadGjkl](../../notes/vywr30o0Ssqpn3orwM4ePQ.md) | 健康的 g0ver / 健康風險意識 內容蒐集 | 2026-10-02T09:10:28+00:00 | View mode |
 | [BJHF00i_Gg](../../notes/0k2xQac4Ru6zWpQX_naeDg.md) | 桃園 | 2026-09-28T11:39:24+00:00 | View mode |
 | [r17EsOYrex](../../notes/71J-oG2VThSDQomGVzi0HA.md) | 社群小聚｜在嘉義舉辦社群小聚 | 2026-09-27T13:47:00+00:00 | View mode |
-| [ry5TjRBhD](../../notes/hkqwwNqfQ9OPLIamC5QW-g.md) | g0v 賀年卡與賀年詞募集 | 2026-09-26T15:23:30+00:00 | View mode |
 | [H1NxxDjyGl](../../notes/N406TMGEQYKe9nK8bu26XQ.md) | 基隆 | 2026-09-19T14:37:07+00:00 | View mode |
 | [H1IgVnPkGg](../../notes/G2NrbqCXR2u7VQnl5SG9UQ.md) | 社群小聚｜彰化 | 2026-09-15T19:35:46+00:00 | View mode |
 | [ryIv5z_Qgg](../../notes/u_WlftE-TreiWR59Jyr07w.md) | 零時小學校<br>從零開始的 AI 素養培力<br>與 AI 應用提案演練課 | 2026-09-12T01:23:57+00:00 | View mode |
