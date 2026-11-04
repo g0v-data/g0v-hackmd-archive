@@ -52,7 +52,7 @@ https://g0v.hackmd.io/@chewei/B14OsdWfi/
 
 - [淡水河與迪化街集水範圍](https://g0v.hackmd.io/ZPM0tCs8Qc2R_i4fwlOSCA?view)
 - [新店溪與西藏路集水範圍](https://g0v.hackmd.io/z_KOU4UtRnSVTr5Vrj_wtA?view)
-- [水城雙北．從新店溪流域開始吧 ! Taipei Xindian River Watershed Network](https://g0v.hackmd.io/@chewei/xindian-river-watershed/)
+- [水城雙北．從新店溪流域開始吧 ! Taipei Xindian River Watershed Network](https://g0v.hackmd.io/@chewei/xindian-river-watershed/)[target=_blank]
 
 ## 鄰接流域｜基隆河系統
 - [基隆河與玉成抽水站範圍&南港汐止大坑溪](https://g0v.hackmd.io/b3AUrLzrR4WyNR-NS2pJYw?view)
