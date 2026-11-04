@@ -53,7 +53,7 @@ g0v 台北社群空間_小松果 🌰 🐿️
         - 牆面鑽孔復舊
 - [No.]
 - **空間續約詢問警戒日 11/30 週一：倒數 30 天**
-- [No.] 1205 週六下午 202 室+2樓大間+2樓中間
+- [No.] 1217 晚上 IVOD 實作工作坊 (接洽 by ronny, 雨婷)
 - [No.] 1215 週二晚上 20:00 Cofacts 社群週會
 - [No.] 1210 週四晚上 F4: functional thursday 社群活動 (接洽 by chewei)
 - [No.] 1208 週二晚上 20:00 Cofacts 社群週會
@@ -69,12 +69,12 @@ g0v 台北社群空間_小松果 🌰 🐿️
 - [No.] 1111 週三下午晚上 揪松團交流會議  (接洽 by chewei, Ronny)
 - [No.] 1110 週二晚上 20:00 Cofacts 社群週會
 - [No.] 1109 週一晚上 [Clojure Meetup](https://www.facebook.com/share/g/1984fJXewb/) (接洽 by chewei, Laurence Chen)
+- [No.] 1108 週日晚上 SITCON 行銷籌備會議 
 - [No.] 🌲 1108 週日上午下午晚上 g0v 黑客松
 - 1107 週六晚上 g0v 黑客松場地佈置與環境整備 by 揪松團
-- [No.] 1103 週二晚上 20:00 Cofacts 社群週會
-- [No.] 1102 週一晚上 AI Monday 開設實體場地 by 揪松團, 藥品仿單白話文運動
-- [No.] 1031 週六下午 都市農耕網食農教育課程 (接洽 by chewei)
-- [No.]
+- [No.139] 1103 週二晚上 20:00 Cofacts 社群週會
+- [No.138] 1102 週一晚上 AI Monday 開設實體場地 by 揪松團, 藥品仿單白話文運動
+- [No.137] 1031 週六下午 都市農耕網食農教育課程 (接洽 by chewei)
 - [No.136] 1025 週日晚上 18:30 - 22:30 SITCON 2027 五籌（接洽 by chewei, Ya）
 - [No.135] 1018 週日下午、晚上 12:30 - 21:00 SITCON 2027 預算會議 + 議程組會議（接洽 by chewei, Ya)
 - [No.134] 1014 週三晚上 g0v 國會松
