@@ -11,7 +11,7 @@ g0v 黑客松（aka 大松）活動名稱大部分是參與者在活動前提案
 
 高雄場
 - 活動時間：2027/01/09 週六 10:30-17:00
-- 活動地點：暫定 Second Space RED，高雄市新興區七賢一路294號
+- 活動地點：高雄市高鐵左營站共構大樓四樓
 - 報名網址：https://g0v.hackmd.io/@jothon/g0v-hackath76n
 
 屏東場
@@ -25,8 +25,8 @@ g0v 黑客松（aka 大松）活動名稱大部分是參與者在活動前提案
     - 總名稱概念：
         - 高屏 => 高頻
         - 共振
-    - 高雄場概念：KHSSR = Kao Hsiung Second Space RED
-    - 屏東場概念：屏民潮南 = 屏東 + 民生路 + 潮州 + 南州 
+    - 高雄場概念：~~KHSSR = Kao Hsiung Second Space RED~~
+    - 屏東場概念：~~屏民潮南 = 屏東 + 民生路 + 潮州 + 南州 ~~
         - 潮・南深耕 https://pt.lovelytaiwan.org.tw/
         - 預計聯繫聯發科技教育基金會、台灣好基金會等
     - 投票

@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [Hy1S5Mmjel](../../notes/k-zw6iqaRy-SqBEKj_gH6w.md) | 2027／01 g0v 大松命名 | 2026-11-04T12:46:09+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-04T09:54:58+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-11-04T08:50:59+00:00 | View mode |
 | [B1RUK6tb-e](../../notes/zkWf3uJDQA6mp7FfqzfIsQ.md) | <center>公民科技及數位工具應用指南與支持網絡</center> | 2026-11-03T16:17:56+00:00 | View mode |
@@ -11,7 +12,6 @@
 | [S1Nl-4JTfg](../../notes/1Kt7BUX7QbSfe8oyLSnKBg.md) | SPAR 2026 秋季研究計畫_Assessing Taiwan's Global Position for Transformative AI_20261102訪談共筆 | 2026-10-31T14:05:29+00:00 | View mode |
 | [HJiDSv76Ge](../../notes/Dm4FpkkTRQ-uWN1SAiOmnA.md) | 學區地理資料 | 2026-10-31T13:05:36+00:00 | View mode |
 | [r1YnqGXjgg](../../notes/4-nyFkwISE2VQ1JO6rRIyw.md) | 2027／03 g0v 大松命名 | 2026-10-30T11:56:34+00:00 | View mode |
-| [Hy1S5Mmjel](../../notes/k-zw6iqaRy-SqBEKj_gH6w.md) | 2027／01 g0v 大松命名 | 2026-10-30T11:56:06+00:00 | View mode |
 | [HJNDn3e7C](../../notes/zyPgR_H6QwWBBgGXA6DYEA.md) | 活動命名 Bookmode | 2026-10-30T11:55:30+00:00 | Book mode |
 | [SyGl1tPbxl](../../notes/lQoQZLwxSh29OdvMIBhnkA.md) | 2026／11 第柒拾伍次投出未來黑客松 G0Vote Hackath75n | 2026-10-30T11:55:07+00:00 | View mode |
 | [SyHqsxMTMe](../../notes/ye1kqdGkT0e6O37VuReXCQ.md) | 桃城聽脈 _ 專案相關內容 | 2026-10-30T11:25:11+00:00 | View mode |
