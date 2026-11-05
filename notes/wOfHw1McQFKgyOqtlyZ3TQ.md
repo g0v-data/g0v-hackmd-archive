@@ -10,6 +10,7 @@ tags: river,
 - [基隆市水環境議題](https://g0v.hackmd.io/tAmPp3InRWiLogJQ2cB1_g?view)
 - [臺北市內水環境探討](https://g0v.hackmd.io/8U0Tvvw-ReulHUwejXN2pA?view)
 - [臺中水環境探討 / 雲林](https://g0v.hackmd.io/cNlUqTZJSgmNot6tD7NRdg?view)
+- [嘉義市水環境](https://g0v.hackmd.io/sBXbabPQQZGimbL46PG5Dg?view)
 
 ## 推薦工具
 - [歷史災害照片地圖](https://photo.ardswc.gov.tw/Repository/Database)[target=_blank]
