@@ -415,10 +415,11 @@ https://g0v.hackmd.io/@jothon/guide/
 - 建立指引知識架構，陸續撰寫行動心法
 
 ### Database
-- 順序 1：兩份 airtable 評估整合
+- 兩份 airtable 評估整合
     - 公民科技 + 公民科學&群眾參與型計畫
-    - 建立收錄原則與表單管道
-- 順序 2：深描專案讓 AI 看懂精隨
+- 建立收錄原則與表單管道
+    - https://g0v.hackmd.io/rUYHE7onSRSQ3w07vZx05Q
+- 深描專案讓 AI 看懂精隨
     - 每一個專案產出 Insight，開 Insight 的規格
     - Skill = 專案手法 + 每個專案的 Insight
     - 增加 tag
@@ -427,7 +428,7 @@ https://g0v.hackmd.io/@jothon/guide/
         - 釋出使用者訪談整理
     -  g0v slack 頻道
     -  專案介紹影片，如果有的話
-- 順序 3：國內外相近領域專案對照
+- 國內外相近領域專案對照
     - 例如 Code for Japan 社群有一個 防貧窮 API 專案，是國內尚未看到的切入角度；日本 Code for SAKE 可以做為 臺灣地酒釀酒主題參考
 
 
