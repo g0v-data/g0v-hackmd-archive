@@ -60,6 +60,8 @@ AI陪伴失智照護新模式 https://www.facebook.com/yuanliyuyu/posts/pfbid08T
 
 【免費版】
 登山輔助工具 https://peakit.tw/
+數位登山
+https://hiking.aimingdata.com/
 火燒雲預測網站：https://fc.nekolens.tw/
 使用AI為產品產生強大的分析模型，透過過整合設計策略模板至四大研究模組，將繁雜的策略思考流程，轉化為一目了然的結構化分析報告，協助設計者效率提出產品前期設計策略。
 https://ai-design-strategy.rdlab.tw/
