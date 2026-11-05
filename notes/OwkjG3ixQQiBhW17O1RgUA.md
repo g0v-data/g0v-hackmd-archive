@@ -1,0 +1,1 @@
+<a href="https://new88.market/">New88</a> là nền tảng giải trí trực tuyến hướng đến cộng đồng người dùng Việt Nam, được phát triển trên hệ thống công nghệ hiện đại. Với định hướng xây dựng không gian trải nghiệm đa dạng, thương hiệu chú trọng hoàn thiện nội dung, giao diện và khả năng tiếp cận, giúp người dùng dễ dàng khám phá các chuyên mục theo nhu cầu cá nhân.
