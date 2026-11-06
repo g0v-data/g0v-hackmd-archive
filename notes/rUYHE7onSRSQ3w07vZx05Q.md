@@ -35,6 +35,7 @@ https://www.facebook.com/share/19Hy3x3fwg/
 BigGIS
 
 【偏向指引心法，或是開一個蒐集】
+
 明確議題，讓民意代表候選人連署得網頁
 https://ngtu.org/whitepaper
 例如 議題推廣結合心理測驗 https://g0v.hackmd.io/Y7qSwSppRQefWU53GK2ioQ
@@ -102,6 +103,9 @@ https://archi-prompt.com/
 https://www.facebook.com/share/1Bj3B5aRgR/
 
 【指引手冊類】
+
+地方實踐指南｜https://guide.mountcounty.com/
+https://www.facebook.com/share/p/1EzBCWvT4x/
 生動盟《我們想這樣生小孩！陪伴孕產旅程的行動手冊》
 https://www.facebook.com/share/p/1EZYQNjdRU/
 《台灣維修社群-小家電維修報告》
