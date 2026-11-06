@@ -2,7 +2,7 @@
 
 | 序號 | 標題 | 編輯時間 | 建立時間 |
 | ---- | --- | ------ | ------------
-| 1 | [與 g0v 社群或專案相關聯的學術研究<br>Academic research on g0v and community projects](../notes/tpWNQTFvSOS_ZrSt2MiPWg.md) | 2026-11-04T22:51:49+00:00 | 2016-01-08T18:45:16+00:00 |
+| 1 | [與 g0v 社群或專案相關聯的學術研究<br>Academic research on g0v and community projects](../notes/tpWNQTFvSOS_ZrSt2MiPWg.md) | 2026-11-06T21:20:42+00:00 | 2016-01-08T18:45:16+00:00 |
 | 2 | [g0v 社群參與心得分享](../notes/VdmAs1YgRVWV4ixaXPCdpg.md) | 2026-10-03T09:26:55+00:00 | 2019-11-29T07:12:10+00:00 |
 | 3 | [g0v 社群治理目錄／g0v community g0vernance directory](../notes/vYdTfaYeR7SnIU3zT5evOw.md) | 2026-07-22T18:04:01+00:00 | 2018-08-30T07:19:57+00:00 |
 | 4 | [與 g0v 社群參與者相關的影片拍攝、紀錄片拍攝](../notes/oImzjz2XTciqP3lnbwkgKw.md) | 2026-03-15T09:25:51+00:00 | 2019-12-06T18:56:51+00:00 |

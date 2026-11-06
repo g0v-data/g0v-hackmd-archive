@@ -458,7 +458,7 @@ https://www.journals.uchicago.edu/doi/abs/10.1086/730621
 - 沒有人的運動
     - https://youtu.be/qw8EQhyGso0?si=eO3BdConbdXHeQnn
 - 田野敲敲門2
-    - 補頁碼，有提到 g0v
+    - https://photos.app.goo.gl/EYedFcmmpgamgQ7M9
 
 ### [原始 hackpad 內容](https://g0v.hackpad.tw/1esFXAvr0U4)
 
