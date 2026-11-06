@@ -28,6 +28,7 @@ tags: jothon,
 - 彰化縣福興鄉上市櫃公司
     - https://www.setn.com/m/news.aspx?newsid=1835490
     - https://www.cubelec.com.tw/prd-aegis.php
+- 福興 https://www.facebook.com/share/1M67n9pa4L/
 - 彰化 https://www.facebook.com/share/19S8wj4TyT/
 - 寶斗青村未來式
     - purefarmspace@gmail.com

@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [H1IgVnPkGg](../../notes/G2NrbqCXR2u7VQnl5SG9UQ.md) | 社群小聚｜彰化 | 2026-11-06T19:11:04+00:00 | View mode |
 | [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | 資料登載工作頁面 & 收錄原則探討 | 2026-11-06T10:20:51+00:00 | View mode |
 | [B1RUK6tb-e](../../notes/zkWf3uJDQA6mp7FfqzfIsQ.md) | <center>公民科技及數位工具應用指南與支持網絡</center> | 2026-11-05T09:01:13+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-11-04T22:53:13+00:00 | View mode |
@@ -47,7 +48,6 @@
 | [BJHF00i_Gg](../../notes/0k2xQac4Ru6zWpQX_naeDg.md) | 桃園 | 2026-09-28T11:39:24+00:00 | View mode |
 | [r17EsOYrex](../../notes/71J-oG2VThSDQomGVzi0HA.md) | 社群小聚｜在嘉義舉辦社群小聚 | 2026-09-27T13:47:00+00:00 | View mode |
 | [H1NxxDjyGl](../../notes/N406TMGEQYKe9nK8bu26XQ.md) | 基隆 | 2026-09-19T14:37:07+00:00 | View mode |
-| [H1IgVnPkGg](../../notes/G2NrbqCXR2u7VQnl5SG9UQ.md) | 社群小聚｜彰化 | 2026-09-15T19:35:46+00:00 | View mode |
 | [ryIv5z_Qgg](../../notes/u_WlftE-TreiWR59Jyr07w.md) | 零時小學校<br>從零開始的 AI 素養培力<br>與 AI 應用提案演練課 | 2026-09-12T01:23:57+00:00 | View mode |
 | [B13XHdP1Ml](../../notes/2QPnlJdcRcmMxbBTLiujeA.md) | Disaster 防災與減災 | 2026-09-11T09:21:22+00:00 | View mode |
 | [Hyxo4FkjC](../../notes/MdulssubSXyXzX_Jm7EmdA.md) | 揪松團擺攤方案：器材、互動、口語說明內容 | 2026-09-10T20:41:39+00:00 | View mode |
