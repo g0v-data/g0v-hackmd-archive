@@ -21,7 +21,7 @@ https://g0v.hackmd.io/
 - 活動籌畫 Event Planning：揪松團 https://linktr.ee/g0vjothon , chewei, Ronny
 - 帳務行政 Administration：OCF
 - 活動主視覺創作：YI
-- 揪松網網站更新：
+- 揪松網網站更新：任翔
 - 協助宣傳活動 Promotion Support：
     - 揪松團發 SNS、揪松團寄送電子報、揪松團 LINE 群組
     - 預計發送：
@@ -35,13 +35,13 @@ https://g0v.hackmd.io/
             - 盤點相關系辦信箱、學生社團信箱，加入到揪松團的信件群組「大專院校科系 & 大學社團」 https://docs.google.com/spreadsheets/d/1r8lQiNTov7L3vfrwFQZOZ6OJtAlCSe7dfy2HdowOYs8/edit
 - 餐飲籌劃：揪松團
     - 午餐：甜心便當 https://g0v.hackmd.io/TFg-yum1S1SukuEL4yNOnQ?view
-    - 飲料與茶點：
-- 場地布置志工：chewei,
-- 場地：
+    - 飲料與茶點：咖博館
+- 場地布置志工：chewei, percy
+- 場地：NPOHUB Taipei
 - 活動配樂：
 - 直播志工：SeanGau
 - 攝影志工：
-- 驗票與報到 Ticket Check-in and Registration：
+- 驗票與報到 Ticket Check-in and Registration：自助式
 - 當天場務志工：
 - 現場提供英語解說協助 On-site English Interpretation Support：
 - 活動主持 Event Hosting：chewei, 
