@@ -3,8 +3,10 @@
         "id": "EqbeWH-VSYm0u5Xj0GnJig",
         "title": "永續韌性城市<br>政策訴求與實踐方式",
         "content": "",
-        "tags": [],
-        "lastchangeAt": "2026-11-07T20:54:42.660Z",
+        "tags": [
+            "city"
+        ],
+        "lastchangeAt": "2026-11-07T21:31:34.563Z",
         "createdAt": "2026-10-25T17:06:02.747Z",
         "isVisited": true,
         "publishType": "book",
