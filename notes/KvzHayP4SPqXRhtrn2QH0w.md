@@ -7,6 +7,8 @@ tags: hackathon, jothon
 
 ![](https://g0v.hackmd.io/_uploads/rJ7593Snfe.png)
 
+11/08 也是 世界都市日 World Urbanism Day & World Town Planning Day
+https://www.planning.org/international/worldtown/
 
 # What is a g0v hackathon ?
 
