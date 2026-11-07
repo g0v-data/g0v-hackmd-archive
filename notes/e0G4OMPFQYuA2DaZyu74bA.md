@@ -89,6 +89,7 @@ community governance
 
 2026 小松紀錄 2026 Weekly Meetup
 ----
+- [vTaiwan in 2026/11/08 大松](/Vf-eEXKRR2aM5JI9JNQhSQ)
 - [20261104小松](/OOoYJLYuQlmTCgTU8kX0Hw)
 - [20261028小松](/IXST5RuvTlu9IAqSA7q7-A)
 - [20261021小松](/N9ddw-IDRqSRt1cnIwoi2w)
