@@ -66,7 +66,7 @@ g0v 台北社群空間_小松果 🌰 🐿️
 - [No.] 1111 週三下午晚上 揪松團交流會議  (接洽 by chewei, Ronny)
 - [No.] 1110 週二晚上 20:00 Cofacts 社群週會
 - [No.] 1109 週一晚上 [Clojure Meetup](https://www.facebook.com/share/g/1984fJXewb/) (接洽 by chewei, Laurence Chen)
-- [No.] 1108 週日晚上 SITCON 行銷籌備會議 
+- [No.] 
 - [No.] 🌲 1108 週日上午下午晚上 g0v 黑客松
 - 1107 週六晚上 g0v 黑客松場地佈置與環境整備 by 揪松團
 - [No.139] 1103 週二晚上 20:00 Cofacts 社群週會
