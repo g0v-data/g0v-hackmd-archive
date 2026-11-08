@@ -158,6 +158,8 @@ https://www.facebook.com/889701534373509/posts/2602630799747232
 https://publish.framerizer.com/volkenkunde/mapping-asia
 1708
 
+1717《諸羅縣志》山川
+
 〈臺灣圖〉及〈臺灣後山圖〉，收錄於《各省沿海口隘全圖》長卷卷末
 https://www.facebook.com/npmgov/posts/3064769180273512
 1723~1730年，雍正元年至八年
