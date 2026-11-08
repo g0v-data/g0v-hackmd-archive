@@ -58,7 +58,7 @@ Civic Talk 還在成長中。與其把它當成一個已經完成的產品，更
 
 ### 給開發者
 
-若你熟悉 GitHub，也歡迎直接到專案 Repo 查看程式、提出 Issue，一起參與開發：
+若你熟悉 GitHub，也歡迎直接到專案 Repo 查看程式、提出 Issue、fork專案、開PR，一起參與開發：
 
 **低垂的果實：
 
@@ -71,6 +71,13 @@ https://github.com/g0v/civic-talk-hono
 
 **議題區**(錯誤回報及功能許願):
 https://github.com/g0v/civic-talk-hono/issues
+
+
+#### 本日PR流程
+
+本日若有PR要在下午加入成果發表，請 request 本日主責工程師 Terry 的 review。檢閱過後Terry會直接merge + deploy，更新Civic Talk主站。
+
+Terry 的 GitHub 帳號： [Link1515](https://github.com/Link1515)
 
 
 ## 20261108 大松討論區
@@ -101,3 +108,5 @@ https://github.com/g0v/civic-talk-hono/issues
 1. 找到素材收集中、彙整中的議題
 2. 幫忙找素材、貢獻到Civic talk平台
 3. 幫忙彙整(可體驗AI彙整prompt的流程)
+
+## 意見回饋收集區
