@@ -6,9 +6,9 @@ tags: cofacts
 
 :::info
 - g0v slack channel：#cofacts
-- [Proposal slides](https://docs.google.com/presentation/d/1Hh2dJ2Sa-IlRZYTGOjXT6n-3vp3DRuGSwSoVR9nkNyY/edit)
+- [Proposal slides](https://docs.google.com/presentation/d/1HzyBIrv7Qd9ynmoVk6NS6Td2frf-dPhca5p2wQE2EZM/edit)
 - 坑主：bil & MrOrz (Johnson)
-- 場地：
+- 場地：R202
 :::
 
 ## Cofacts 真的假的
@@ -39,3 +39,15 @@ https://line.me/R/ti/p/@cofacts
 4. 貼回 cofacts.tw/article/.... 送出查核報告
 
 ## 協作
+
+![](https://g0v.hackmd.io/_uploads/rybHLjTpMe.png)
+
+- 實際上必須提供 cofacts article 才能繼續使用
+    - 但 UI 讓人誤以為可以直接發問 [name=Eric] [name=水餃]
+    - UI 應該先行偵測開串訊息是否有 Cofacts article；目前的 placeholder copy「貼上可疑訊息」太誤導 [name=Eric]
+    - Cofacts article detail page 應該可以要能點開 cofacts.ai 帶上 article ID
+
+- 在蒐集到比較多回報之後，可以主動調查 [name=Eric]
+    - 在 cofacts.ai 比較穩定之後可以做，先確保 AI 做出來的東西，是人類願意用自己的身份發出來的
+
+
