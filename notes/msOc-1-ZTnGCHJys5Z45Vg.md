@@ -38,14 +38,13 @@ https://g0v.hackmd.io/
     - 飲料與茶點：咖博館
 - 場地布置志工：chewei, Percy
 - 場地：NPOHUB Taipei
-- 活動配樂：
 - 直播志工：SeanGau
-- 攝影志工：
+- 攝影志工：Dong, Oliver
 - 驗票與報到 Ticket Check-in and Registration：Percy, Dong
 - 當天場務志工：Dong, 水餃, 小侯, Percy, 築鋒, MrOrz
-- 現場提供英語解說協助 On-site English Interpretation Support：Peter
+- 現場提供英語解說協助 On-site English Interpretation Support：Peter, 比鄰
 - 活動主持 Event Hosting：chewei, 
-- 專案導覽團 Project Tour：chewei,
+- 專案導覽團 Project Tour：
 
 ---
 

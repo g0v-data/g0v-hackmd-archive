@@ -2,7 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-11-08T14:53:06+00:00 | View mode |
+| [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-11-08T22:12:22+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-11-08T02:16:05+00:00 | View mode |
 | [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | What is a g0v hackathon ? | 2026-11-07T15:17:06+00:00 | View mode |
 | [H1IgVnPkGg](../../notes/G2NrbqCXR2u7VQnl5SG9UQ.md) | 社群小聚｜彰化 | 2026-11-06T19:11:04+00:00 | View mode |
