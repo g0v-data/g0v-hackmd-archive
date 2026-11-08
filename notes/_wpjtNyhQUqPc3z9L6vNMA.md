@@ -31,8 +31,9 @@ tags: CommuTag
 - Dong
     - 照片授權條款
 - ael
-    - Disfactory 有地號圖可以做介接
+    - Disfactory 有一些圖資（如地號圖）可以做介接
     - Disfactory 正在改版中
+        - https://deploy-preview-200--disfactory-frontend.netlify.app/
 - ansel
     - 要多幾個控
     - 使用者要上傳資料的時候就要先輸入更多資料
