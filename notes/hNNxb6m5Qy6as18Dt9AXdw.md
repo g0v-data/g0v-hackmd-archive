@@ -25,7 +25,7 @@ https://line.me/R/ti/p/@cofacts
 
 #### :one: 幫寫得好的回應按讚 :thumbsup: 
 
-最新查核列表：https://cofacts.g0v.tw/replies
+最新查核列表：https://cofacts.tw/replies
 
 每則編輯所寫的回應，點進去後在左下角有大拇哥。
 向上的大姆哥 :thumbsup: 表示回得還行
@@ -37,7 +37,7 @@ https://line.me/R/ti/p/@cofacts
 #### :two: 回應「等你來查」的訊息
 找到自己有興趣的訊息，進行回應。
 
-https://cofacts.g0v.tw/hoax-for-you
+https://cofacts.tw/hoax-for-you
 
 :new: 可以試著用 https://cofacts.ai 和 AI 一起寫回應唷！
 （AI 有任何問題請不吝按 :thumbsdown:）
@@ -67,3 +67,4 @@ https://cofacts.g0v.tw/hoax-for-you
 ## 協作
 
 - Dong
+

@@ -36,16 +36,16 @@ https://g0v.hackmd.io/
 - 餐飲籌劃：揪松團
     - 午餐：甜心便當 https://g0v.hackmd.io/TFg-yum1S1SukuEL4yNOnQ?view
     - 飲料與茶點：咖博館
-- 場地布置志工：chewei, percy
+- 場地布置志工：chewei, Percy
 - 場地：NPOHUB Taipei
 - 活動配樂：
 - 直播志工：SeanGau
 - 攝影志工：
-- 驗票與報到 Ticket Check-in and Registration：自助式
-- 當天場務志工：
-- 現場提供英語解說協助 On-site English Interpretation Support：
+- 驗票與報到 Ticket Check-in and Registration：Percy, Dong
+- 當天場務志工：Dong
+- 現場提供英語解說協助 On-site English Interpretation Support：Peter
 - 活動主持 Event Hosting：chewei, 
-- 專案導覽團 Project Tour： 
+- 專案導覽團 Project Tour：chewei,
 
 ---
 
