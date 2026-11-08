@@ -60,7 +60,11 @@ Civic Talk 還在成長中。與其把它當成一個已經完成的產品，更
 
 若你熟悉 GitHub，也歡迎直接到專案 Repo 查看程式、提出 Issue，一起參與開發：
 
-**低垂的果實：[issue 200:意見綜整步驟流程優化：footer顯示"意見綜整器"+意見頁新增按鈕](https://github.com/g0v/civic-talk-hono/issues/200)**
+**低垂的果實：
+
+1. [issue 200:意見綜整步驟流程優化：footer顯示"意見綜整器"+意見頁新增按鈕](https://github.com/g0v/civic-talk-hono/issues/200)**
+2. 幾項[新參者友善議題(Good First Issues)](https://github.com/g0v/civic-talk-hono/issues?q=is%3Aissue+state%3Aopen+label%3A%22good+first+issue%22)
+
 
 **Civic talk專案的Github儲存庫**:
 https://github.com/g0v/civic-talk-hono
