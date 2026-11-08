@@ -13,3 +13,4 @@ tags: vTaiwan
 - [Civic Talk 測試邀請：一起試用公共議題討論的新工具](/AOQfOmJmS-mcgr2LR4dLQA)
 
 ## 其他關於 vTaiwan 的聊聊
+在現場遇到來自瑞典記者的提問
