@@ -42,7 +42,7 @@ https://g0v.hackmd.io/
 - 直播志工：SeanGau
 - 攝影志工：
 - 驗票與報到 Ticket Check-in and Registration：Percy, Dong
-- 當天場務志工：Dong
+- 當天場務志工：Dong, 水餃, 小侯, Percy, , MrOrz
 - 現場提供英語解說協助 On-site English Interpretation Support：Peter
 - 活動主持 Event Hosting：chewei, 
 - 專案導覽團 Project Tour：chewei,
