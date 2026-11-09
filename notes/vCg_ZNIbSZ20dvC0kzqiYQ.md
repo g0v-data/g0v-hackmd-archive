@@ -35,13 +35,18 @@ tags: jothon,
     - 已經發完了，要用數位輸出
     - 檔案網址：https://g0v.hackmd.io/@jothon/ctpbook_jp/
     - 探討：有適合贈送日文版書籍的單位嗎？
-        - 日本學校？
+        - 台灣的日語場域
+            - 學校？
+        - 日本的場所
+            - 飛地東京書店？
 - 《公民科技專案與手冊》英文版
     - 已經發完了，要用數位輸出
     - 檔案網址：https://g0v.hackmd.io/@jothon/ctpbook_en/
     - 探討：有適合贈送英文版書籍的單位嗎？
-        - 國際學校？
-
+        - 台灣的英語場域
+            - 學校？
+        - 國際的場所
+            - 各國的台灣僑校？
 
 文宣品
 - 面紙包 https://g0v.hackmd.io/@jothon/rkRYZt-9Ze
@@ -146,6 +151,7 @@ Photo 各個現場的相簿 https://photos.app.goo.gl/hW4M5VQBAUVhQPyC9
 ### 物資寄件
 
 - 簡介，確保收件者理解
+    - 推薦「還可以致贈的單位」表單填寫說明與網址
 - 依場所_面紙包
     - 評估數量
     - 是否有外盒
@@ -154,7 +160,6 @@ Photo 各個現場的相簿 https://photos.app.goo.gl/hW4M5VQBAUVhQPyC9
     - 公民科技手冊_中文
     - 公民科技手冊_英文
     - 公民科技手冊_日文
-- 推薦「還可以致贈的單位」表單填寫說明與網址
 
 ---
 
