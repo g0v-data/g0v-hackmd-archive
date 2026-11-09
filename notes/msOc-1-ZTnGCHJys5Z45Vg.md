@@ -43,7 +43,7 @@ https://g0v.hackmd.io/
 - 驗票與報到 Ticket Check-in and Registration：Percy, Dong
 - 當天場務志工：Dong, 水餃, 小侯, Percy, 築鋒, MrOrz
 - 現場提供英語解說協助 On-site English Interpretation Support：Peter, 比鄰
-- 活動主持 Event Hosting：chewei, 
+- 活動主持 Event Hosting：chewei, ronny
 - 專案導覽團 Project Tour：
 
 ---

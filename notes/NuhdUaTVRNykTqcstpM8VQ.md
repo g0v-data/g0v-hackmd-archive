@@ -15,10 +15,10 @@ https://g0v.hackmd.io/@daisuke/ryjkbFyuS
 ## 以下是 g0v slack 頻道列表與簡介<br>》歡迎協助 (1) 提供中文簡短介紹、(2) 將簡介翻譯成英文 🙏
 
 g0v Slack Channel Guide 頻道傳送門
-．Global & Local：50+ 個頻道
+．Global & Local：80+ 個頻道
 ．Infra / G0vernace：50+ 個頻道
-．Edu / Learning / Health / Livingl：60+ 個頻道
-．Open Gov & Projects：100+ 個頻道
+．Edu / Learning / Health / Livingl：70+ 個頻道
+．Open Gov & Projects：120+ 個頻道
 
 ### Global & Local
 #general 社群大廳，可以在這邊提出任何問題！ G0v City Hall / Plaza
@@ -44,6 +44,8 @@ g0v Slack Channel Guide 頻道傳送門
 #matsu 馬祖討論群組！
 #keelung 基隆討論群組
 #newtaipei_新北市
+#newtaipei_永和中和雙和 
+#taipei_臺北市
 #taoyuan-桃園
 #hsinchu-新竹
 #miaoli_苗栗
@@ -51,11 +53,15 @@ g0v Slack Channel Guide 頻道傳送門
 #jothon-local-support-地方社群支持方案 support for local communities or initiatives 有相關想法與構想，歡迎到頻道討論 ~
 #asia-civic-tech
 #japan
+#japan-tokyo-bay-東京湾-とうきょうわん
 #hk https://github.com/g0vhk-io
 #hkpwparagliding 飛行傘計畫
+#macao_澳門
 #china
+#福州 
+#廈門
+#singapore
 #philippines_filipinos_菲律賓地理與文化
-#india
 #myanmar
 #thai-ภาษาไทย 泰國與泰語
 #g0v-bangkok
@@ -63,6 +69,7 @@ g0v Slack Channel Guide 頻道傳送門
 #cambodia_柬埔寨
 #laos_寮國
 #nepali-नेपाली
+#india
 #malaysia-馬來西亞
 #indonesia-印尼
 #australia 澳洲
@@ -77,18 +84,28 @@ g0v Slack Channel Guide 頻道傳送門
 #russia
 #ukraine
 #suomi_finland_芬蘭
+#sweden
+#polska_poland_波蘭
+#ceska_czechia_捷克
 #netherlands_荷蘭
+#belgium_比利時
 #deutschland-germany 德國與德語區
 #french-français
 #switzerland_瑞士聯邦
+#españa_spain_西班牙
 #uk
+#eurpoe
 #türkiye_土耳其
 #kazakhstan_哈薩克
 #kyrgyzstan_吉爾吉斯 
+#hrvatska_croatia_克羅埃西亞 
 #българия_balgariya_保加利亞
 #israeli-palestinian-conflict
+#سُورِيَة_syria_敘利亞
 #africa
+#seychelles_塞席爾共和國
 #g0v-it https://github.com/g0v-it
+#correcting-taiwan-in-country-list_修正台灣標示
 #intl 國際交流工作小組 g0v international、國際交流資訊都在這
 #facing-the-ocean Connected to Code for Korea & Code for Japan
 #ig Internet / digital governance
@@ -147,6 +164,7 @@ g0v Slack Channel Guide 頻道傳送門
 #summit g0v Summit 年會的公開頻道 https://summit.g0v.tw/
 #10th-anniversary 十週年活動籌劃頻道 https://10th.g0v.tw/
 #moztw-space 摩茲工寮社群空間 https://moztw.org/space/
+#屯屯-tuntun-books-booze 書、咖啡、酒與空間，邀請你一起屯在這裡！
 #venue_場地
 
 ### Edu / Learning / Health / Living
@@ -198,6 +216,8 @@ g0v Slack Channel Guide 頻道傳送門
 #clickhouse 
 #functional-thursday 函數式程式設計 (Functional Programming) 交流社群，每月舉辦活動哦 !
 #robot
+#makers
+#3d
 #ai-learning
 #llm4myhometown
 #opentaiwan-chatgpt
@@ -210,8 +230,9 @@ g0v Slack Channel Guide 頻道傳送門
 #arthon
 #stayathome 宅在家的生活資訊
 #health 健康議題、健檢
-#medicineeasy 藥品仿單易讀化
+#medplain 藥品仿單白話文運動
 #open-nhi-smartcard-agent 非官方健保卡讀卡機元件開發計劃
+#blood_血庫與捐血
 #psymap 心理健康資源
 #psychmatch_public
 #adhd
@@ -219,13 +240,14 @@ g0v Slack Channel Guide 頻道傳送門
 #fitness 動一動
 #g0vhiking for hiking affair
 #camping :camping: 全台露營區合法共 205 筆資料與線上地圖
-#ngo NGO 會務交流
 #farewell_tech
 
 ### Open Gov & Projects
+#ngo NGO 會務交流
 #d2wg 數位民主研究案工作小組 g0v Digital Democracy Working Group
 #ogp 關注台灣「開放政府行動方案」制定 Focus on Taiwan's "Open Government Action Plan"
 #pmpc-公共程式法治研析與推動 Public Money Public Code
+#gxv_政商關係
 #open-moneyflow #金流百科（政治獻金、公投募集經費、標案、視覺化）
 #vote 選舉相關的專案或想法
 #electionsign2022 蒐集選舉看板
@@ -277,7 +299,7 @@ g0v Slack Channel Guide 頻道傳送門
 #da0-hack-and-show Studi0 在做 Hypercerts 的 fund 實驗
 #da0-shoutout 是 incentivize g0v 的演進，做 organic 貢獻系統
 #da0-global-comms 在做公共財與 DAO 的 podcast
-#da0-learning 每月持續有讀書會
+#da0-learning 
 #arm0ry 在做 web3 的任務獎勵系統
 #da0-coordinate 在奠定 da0 的基礎設施
 #da0-dml 是跟 dark matter labs 在AI上的初期對話
@@ -304,7 +326,13 @@ g0v Slack Channel Guide 頻道傳送門
 #mesh Meshtastic Taiwan Community 臺灣鏈網
 #disaster-go 任務化提升台灣防災準備
 #心家園_災害復原重建 
+#諮商同意權
 #gis 地理資訊、地理資料 :earth_asia: Geo-data
+#gis_開發案件_環境影響評估
+#gis-火災
+#gis_commutag_群眾標註地圖工具
+#gis_地方創生
+#localzine_在地刊物
 #gis-內容素材蒐集頻道
 #energy 能源議題頻道
 #rentea 租屋資料與議題
@@ -324,6 +352,7 @@ g0v Slack Channel Guide 頻道傳送門
 #poponfire-公有地大行動 公有土地資料與地圖 Public Land Data
 #joinplus-關注公民參與的數位工具
 #carbon
+#自然民具
 #ocean
 #marine-debris 討論海洋廢棄物
 #river 河流與流域
