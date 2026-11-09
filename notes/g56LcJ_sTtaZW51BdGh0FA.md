@@ -1,0 +1,1 @@
+[Làm thế nào để truy cập đúng website SC88 chính thức?](https://tuyensinhnganhan.com/) Trước tiên, người dùng nên kiểm tra chính xác tên miền, thông tin nhận diện thương hiệu và chứng chỉ bảo mật HTTPS trên trình duyệt. Không nên truy cập những đường dẫn được gửi từ nguồn không xác định hoặc cung cấp thông tin đăng nhập trên các trang web có dấu hiệu giả mạo.
