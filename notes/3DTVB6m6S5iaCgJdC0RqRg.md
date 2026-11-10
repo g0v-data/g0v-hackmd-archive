@@ -128,7 +128,7 @@ Thank you for your comments and questions.
 
 > Weakness 1: Lack of a clear central finding and low statistical power. While the protocol is sound, the results and figures center around differences and variability rather than a cohesive unifying finding. The finding on tasks and how it affects producer rankings could be strengthened by repeat runs and bootstrap intervals on tau to establish the reliability of these differences. The stability of Reusability rankings is also based upon a partially statistically insignificant p-value (0.068) in the best-case scenario. Figure 3 further shows weak correlations between state cohesion and Analysability and the three other outcomes. It would be helpful for the authors to clarify the substantiality of the findings despite their heterogeneity and limited statistical significance and to provide higher-power analyses if possible.
 
-Thank you for your careful comments. Our central finding is that the maintainability of agent-generated code depends on downstream maintenance demands and maintainer profiles. Findings 1 and 2 show that producer rankings differ across maintenance demands, while cross-maintainer agreement also varies by demand. Finding 4 further identifies different source-feature associations across demands and maintainer profiles. Together, these findings motivate evaluating maintainability in the context of specific downstream work, rather than relying on a single overall ranking.
+Thank you for your sincere comments. Our central finding is that maintainability should be evaluated separately for each maintenance demand under a specified maintainer profile. Finding 1 supports separating demands because producers rank differently for understanding, reusing, and testing code. Finding 2 supports accounting for the maintainer because these rankings do not transfer equally well across maintainers. Finding 4 further motivates demand-specific optimization research, as the source characteristics associated with performance vary across demands and maintainers. We discuss the practical implications under Question 4 and will clarify this central finding in the revision.
 
 To assess the reliability of our results, we conducted additional repeated evaluations using DeepSeek V4 Flash across all cases and three maintenance demands. We fixed the Stage I artifacts, questions or tasks, prompts, tools, and budgets, and performed two additional independent Stage II runs, yielding three measurements per evaluation unit, including the original run. Each run includes 104 Analysability evaluations, 104 Reusability evaluations, and 96 Testability task runs covering 12 task instances across 7 independent cases.
 
@@ -141,12 +141,11 @@ We report single-measurement absolute-agreement ICC and between-run Kendall's τ
 | Reusability construction tokens | 0.9977 | 1.000 | 1.000 | 1.000 |
 | Testability construction tokens | 0.9968 | 0.929 | 0.929 | 0.857 |
 
-The ICC values of 0.9799–0.9977 and ranking τ values of 0.750–1.000 indicate high repeatability within each outcome. We further examine uncertainty in the original cross-demand and cross-maintainer comparisons under Question 1.
+The high ICC values (0.9799–0.9977) and between-run ranking τ values (0.750–1.000) indicate that producer rankings are relatively stable within each outcome, despite the low cross-demand agreement reported in Finding 1. We further examine uncertainty in the original cross-demand and cross-maintainer comparisons through paired case bootstrap under Question 1.
 
-Regarding Finding 2, all three cross-maintainer τ values for source reuse share are positive, with two corresponding p values of 0.034 and 0.068, the latter above the 0.05 threshold. The three Reusability construction-token coefficients are also positive, averaging 0.49. Our finding concerns stronger relative cross-maintainer agreement for Reusability, rather than statistical significance for every maintainer pair.
+Regarding Finding 2, all three cross-maintainer τ values for source reuse share are positive, although one comparison has p = 0.068. Our paired case bootstrap further yields positive confidence intervals for the mean cross-maintainer agreement in both source reuse share (0.46, 95% CI [0.12, 0.71]) and Reusability construction tokens (0.49, 95% CI [0.17, 0.71]). These results support relatively stronger cross-maintainer agreement for Reusability without implying statistical significance for every maintainer pair.
 
-Finally, Figure 3 shows weak, mixed-direction associations between state cohesion and downstream outcomes. This suggests that state cohesion alone does not substitute for direct downstream evaluation.
-
+Figure 3 further reinforces the importance of downstream evaluation. Its weak, mixed-direction associations between static cohesion and maintenance outcomes suggest that this measure alone is insufficient to characterize maintainability across different demands.
 ### Response to Question 1
 
 > Question 1: Is the disagreement across tasks and maintainers statistically significant, considering the modest differences? It would be helpful to show confidence intervals for tau values (for instance, bootstrapping).
@@ -178,19 +177,29 @@ Both Reusability outcomes have 95% CIs entirely above zero.
 
 > Question 4: How should human practitioners use the benchmark or methodology to make critical decisions about which producer to use?
 
-Thank you for your thoughtful question. As discussed in Section 5, practitioners can use CarryBench to select producers based on their anticipated downstream maintenance work and maintainer profiles. Multi-agent software engineering provides a practical example: MAGIS assigns code localization to a Repository Custodian (Tao et al., 2024), while MetaGPT and AgentCoder assign test construction to specialized agents (Hong et al., 2024; Huang et al., 2024). These roles place different demands on the code they receive.
+Thank you for your thoughtful question. As discussed in Section 5, practitioners can use CarryBench by considering two aspects of their workflow: the maintenance work to be performed and the maintainer that will perform it.
 
-For source understanding and behavioral analysis, practitioners can prioritize Analysability score. When building new consumers, source reuse share and construction tokens capture reuse extent and cost, while Testability construction tokens reflect the effort required to build executable tests. Cross-maintainer agreement further indicates how consistently producer rankings transfer across downstream workers.
+The maintenance demand determines which outcomes to examine. For source understanding and behavioral analysis, practitioners can prioritize Analysability score. For building new consumers, source reuse share and construction tokens capture reuse extent and cost; for test construction, practitioners can compare Testability construction tokens. Multi-agent software engineering illustrates these demands: MAGIS assigns code localization to a Repository Custodian (Tao et al., 2024), while MetaGPT and AgentCoder assign test construction to specialized agents (Hong et al., 2024; Huang et al., 2024).
 
-Practitioners can also apply the same evaluation protocol in their own deployment environments, using their actual maintainer profiles, tasks, and budgets to inform producer selection.
+The maintainer profile determines the conditions under which producers are compared. Practitioners should use the panel matching their downstream maintainer and examine cross-maintainer agreement to assess whether producer rankings transfer. Lower agreement motivates reevaluating producer choices when the maintainer changes, particularly for Analysability and Testability.
+
+Practitioners can also apply the same protocol in their deployment environments, using their actual maintainer profiles, tasks, and budgets to inform producer selection.
 
 ### Response to Question 2
 
 > Question 2: Considering the potential risk of biases in either case of including or excluding the same model as a maintainer of itself, why was it chosen to exclude? Could you provide a justification or comparison results if the self model was not excluded?
 
-Thank you for your comments. CarryBench evaluates maintainability through the downstream performance of fixed maintainer models, making it important to control for factors beyond the artifact itself. Different producer models may generate code with distinct distributions of naming conventions, source organization, and implementation patterns. A maintainer evaluating its own outputs may be more familiar with these patterns, potentially introducing a distributional familiarity advantage that confounds comparisons of artifact maintainability.
+Thank you for your comments. CarryBench evaluates maintainability through the downstream performance of fixed maintainer models. Different producers may generate code with distinct naming conventions, source organization, and implementation patterns. A model’s own outputs may align more closely with these patterns, introducing an additional distributional alignment factor. We therefore exclude producer–maintainer identity pairs to reduce its influence on maintainability comparisons. Cross-maintainer comparisons retain the seven producers evaluated by both profiles, ensuring a consistent candidate set.
 
-We therefore exclude producer–maintainer identity pairs to reduce this potential bias. For cross-maintainer comparisons, we retain the seven producer models evaluated by both maintainer profiles, ensuring a consistent candidate set.
+As requested, we also report the excluded self-maintenance results:
+
+| Producer–maintainer pair | Analysability score (%) ↑ | Source reuse share (%) ↑ | Reusability construction tokens (k) ↓ | Testability construction tokens (k) ↓ |
+|---|---:|---:|---:|---:|
+| DeepSeek V4 Flash | 92.15 (2/9) | 75.04 (9/9) | 792.78 (4/9) | 243.98 (2/9) |
+| HY3 | 88.62 (5/9) | 77.82 (6/9) | 971.63 (8/9) | 206.87 (3/9) |
+| Kimi K2.7 Code | 94.46 (1/9) | 82.77 (2/9) | 2313.36 (9/9) | 215.55 (6/9) |
+
+Parentheses indicate ranks among all nine producers under the corresponding maintainer, with 1 being best. Tokens are reported in thousands.
 
 ### Response to Question 3 
 
