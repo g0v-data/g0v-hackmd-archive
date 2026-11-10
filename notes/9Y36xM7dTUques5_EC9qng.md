@@ -10,9 +10,7 @@ Thank you for your sincere comments and questions. We address them below.
 >
 > Question 1: Are there repeated runs of the same maintainer on the same artifact? What's the test-retest τ or ICC? If there are none, how do you distinguish the disagreement in Findings 1 and 2 from noise?
 
-Our original evaluation did not report multiple independent runs of the same maintainer on the same artifact. This is consistent with the initial versions of SlopCodeBench (Orlanski et al., 2026), SWE-CI (Chen et al., 2026), and SWE-Milestone (Deng et al., 2026), which also did not report multiple independent evaluations of complete agent trajectories under the same configuration. Given the cost of repository-level agent evaluation, our original design prioritized coverage across producer models, maintainer profiles, and maintenance demands.
-
-To further examine the stability of our results, we conducted additional repeated evaluations using DeepSeek V4 Flash, chosen to balance capability and cost, while retaining all repository cases and all three maintenance demands. Excluding the producer–maintainer identity pair leaves eight producer models per panel. We fixed the Stage I artifact, questions or tasks, prompts, tools, and budgets, and added two independent Stage II runs per evaluation unit, yielding three measurements including the original run. Each run contains 104 Analysability evaluations, 104 Reusability evaluations, and 96 Testability task runs covering 12 task instances over 7 independent cases.
+Our original evaluation prioritized coverage across producer models, maintainer profiles, and maintenance demands, given the cost of repository-level agent evaluation. To further assess the stability of our results, we conducted additional repeated evaluations using DeepSeek V4 Flash as a balance between capability and cost, while retaining all repository cases and all three maintenance demands. We held the Stage I artifacts, questions or tasks, prompts, tools, and budgets fixed, and performed two additional independent Stage II runs for each evaluation unit, resulting in three measurements per evaluation unit, including the original run.
 
 The table below reports the mean ± sample standard deviation of each producer model's average performance across the three runs. Analysability score and source reuse share are percentages, with standard deviations in percentage points, while construction tokens are reported in thousands of tokens.
 
@@ -90,14 +88,6 @@ Regarding the effective sample size, the unit of analysis is the artifact. The 5
 For the permutation test, we first fit the baseline model and permute its residuals among the eight artifacts within each case. We then add the permuted residuals back to the original baseline fitted values, refit both the baseline model and the full model containing the block score, and calculate Partial R². The block score and the case, producer, and language labels remain fixed throughout this procedure, so each permutation evaluates the gain from adding the same score. The 13 within-case permutations form a joint permutation space of size $(8!)^{13}$, with each joint permutation yielding a statistic for the complete 104-artifact panel.
 
 We use 20,000 random permutations and calculate the raw p-value as $p=(X+1)/(B+1)$, where $B=20{,}000$ and $X$ counts permutation statistics at least as large as the observed statistic. Benjamini–Hochberg (BH) correction is then applied over the complete set of candidate blocks for the same outcome and maintainer profile to obtain q.
-
-### References
-
-Jialong Chen, Xander Xu, Hu Wei, Chuan Chen, and Bing Zhao. SWE-CI: Evaluating agent capabilities in maintaining codebases via continuous integration. arXiv preprint arXiv:2603.03823, 2026.
-
-Gangda Deng, Zhaoling Chen, Zhongming Yu, Haoyang Fan, Yuhong Liu, Yuxin Yang, Dhruv Parikh, Rajgopal Kannan, Le Cong, Mengdi Wang, Qian Zhang, Viktor Prasanna, Xiangru Tang, and Xingyao Wang. SWE-Milestone: Evaluating AI agents on continuous software evolution. In Proceedings of the 43rd International Conference on Machine Learning, 2026. arXiv:2603.13428.
-
-Gabriel Orlanski, Devjeet Roy, Alexander Yun, Changho Shin, Alex Gu, Albert Ge, Dyah Adila, Nicholas Roberts, Frederic Sala, and Aws Albarghouthi. SlopCodeBench: Benchmarking how coding agents degrade over long-horizon iterative tasks. arXiv preprint arXiv:2603.24755, 2026.
 
 # Reviewer vGFm, 3（conf3）
 
