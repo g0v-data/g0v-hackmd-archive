@@ -36,7 +36,7 @@ tags: GIS
 - 2026 基隆天外天掩埋場火災 https://youtu.be/1wg9L0oUpDA?si=WU0TZUsyunSqW8CF
 - https://www.facebook.com/share/19PVEGNnQ4/
 - 燕巢 https://www.facebook.com/share/p/1P9L4qjJ2j/
-
+- 臺南東山 https://youtu.be/sGSTCtlLaRo
 
 提案構想
 - 總統盃黑客松，編號 266 台灣人與垃圾距離 (掩埋場資訊) by 環資

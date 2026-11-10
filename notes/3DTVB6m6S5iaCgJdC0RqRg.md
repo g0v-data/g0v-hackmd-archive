@@ -177,11 +177,11 @@ Both Reusability outcomes have 95% CIs entirely above zero.
 
 > Question 4: How should human practitioners use the benchmark or methodology to make critical decisions about which producer to use?
 
-Thank you for your thoughtful question. As discussed in Section 5, practitioners can use CarryBench by considering two aspects of their workflow: the maintenance work to be performed and the maintainer that will perform it.
+Thank you for your thoughtful question. Section 5 explains how to select producers for the intended maintenance demand and maintainer profile.
 
-The maintenance demand determines which outcomes to examine. For source understanding and behavioral analysis, practitioners can prioritize Analysability score. For building new consumers, source reuse share and construction tokens capture reuse extent and cost; for test construction, practitioners can compare Testability construction tokens. Multi-agent software engineering illustrates these demands: MAGIS assigns code localization to a Repository Custodian (Tao et al., 2024), while MetaGPT and AgentCoder assign test construction to specialized agents (Hong et al., 2024; Huang et al., 2024).
+For source understanding and behavioral analysis, practitioners can prioritize Analysability score. For building new consumers, source reuse share and construction tokens capture reuse extent and cost; for test construction, practitioners can compare Testability construction tokens. Multi-agent software engineering illustrates these demands: MAGIS assigns code localization to a Repository Custodian (Tao et al., 2024), while MetaGPT and AgentCoder assign test construction to specialized agents (Hong et al., 2024; Huang et al., 2024).
 
-The maintainer profile determines the conditions under which producers are compared. Practitioners should use the panel matching their downstream maintainer and examine cross-maintainer agreement to assess whether producer rankings transfer. Lower agreement motivates reevaluating producer choices when the maintainer changes, particularly for Analysability and Testability.
+Practitioners should use the panel matching their downstream maintainer and examine cross-maintainer agreement to assess whether producer rankings transfer. Lower agreement motivates reevaluating producer choices when the maintainer changes, particularly for Analysability and Testability.
 
 Practitioners can also apply the same protocol in their deployment environments, using their actual maintainer profiles, tasks, and budgets to inform producer selection.
 
@@ -193,14 +193,13 @@ Thank you for your comments. CarryBench evaluates maintainability through the do
 
 As requested, we also report the excluded self-maintenance results:
 
-| Producer–maintainer pair | Analysability score (%) ↑ | Source reuse share (%) ↑ | Reusability construction tokens (k) ↓ | Testability construction tokens (k) ↓ |
-|---|---:|---:|---:|---:|
-| DeepSeek V4 Flash | 92.15 (2/9) | 75.04 (9/9) | 792.78 (4/9) | 243.98 (2/9) |
-| HY3 | 88.62 (5/9) | 77.82 (6/9) | 971.63 (8/9) | 206.87 (3/9) |
-| Kimi K2.7 Code | 94.46 (1/9) | 82.77 (2/9) | 2313.36 (9/9) | 215.55 (6/9) |
+| Producer–maintainer pair | Analysability score (%) ↑ | Source reuse share (%) ↑ | Reusability construction tokens (× profile median) ↓ | Testability construction tokens (× profile median) ↓ |
+| --- | ---: | ---: | ---: | ---: |
+| DeepSeek V4 Flash | 92.15 (2/9) | 75.04 (9/9) | 0.92 (4/9) | 0.83 (2/9) |
+| HY3 | 88.62 (5/9) | 77.82 (6/9) | 1.47 (8/9) | 0.84 (3/9) |
+| Kimi K2.7 Code | 94.46 (1/9) | 82.77 (2/9) | 1.72 (9/9) | 1.01 (5/9) |
 
-Parentheses indicate ranks among all nine producers under the corresponding maintainer, with 1 being best. Tokens are reported in thousands.
-
+Parentheses indicate ranks among all nine producers under the corresponding maintainer, with 1 being best. Construction tokens use the same normalization denominators as Figure 2: the median producer-level cost among the eight non-self producers in each maintainer profile. 
 ### Response to Question 3 
 
 > Question 3: Were the downstream tasks for Reusability, Analysability, and Testability written by humans or AI? Was there any human validation in the process of selecting or validating these tasks?
@@ -218,3 +217,4 @@ Wei Tao, Yucheng Zhou, Yanlin Wang, Wenqiang Zhang, Hongyu Zhang, and Yu Cheng. 
 Sirui Hong, Mingchen Zhuge, Jonathan Chen, Xiawu Zheng, Yuheng Cheng, Ceyao Zhang, Jinlin Wang, Zili Wang, Steven Ka Shing Yau, Zijuan Lin, Liyang Zhou, Chenyu Ran, Lingfeng Xiao, Chenglin Wu, and Jürgen Schmidhuber. [MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework](https://proceedings.iclr.cc/paper_files/paper/2024/file/6507b115562bb0a305f1958ccc87355a-Paper-Conference.pdf). In International Conference on Learning Representations, 2024.
 
 Dong Huang, Jie M. Zhang, Michael Luck, Qingwen Bu, Yuhao Qing, and Heming Cui. [AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation](https://arxiv.org/abs/2312.13010). arXiv preprint arXiv:2312.13010, 2024.
+

@@ -180,6 +180,15 @@ https://linktr.ee/g0vjothon
 
 ---
 
+11/24 週二晚上 Kaohsiung | Claude Meetup
+- JC Lee (Turing Space Head of Product)：產品團隊如何和 Claude 大軍相愛相殺，倍增工作的速度與產能
+- GGM (Cofacts 貢獻者／Skymizer 共同創辦人)：像做 Code Review 一樣做事實查核，以及 AI 在流程中真正幫上忙的地方
+- Summit (Linker Vision Head of Delivery)：以團隊在公司專案上運用 Claude 的實際案例，為 BYOD 時段開場
+- https://www.facebook.com/share/p/1Eb2ZXihof/
+- https://luma.com/claude-kaohsiung-1
+
+---
+
 ### 2026.12
 
 
