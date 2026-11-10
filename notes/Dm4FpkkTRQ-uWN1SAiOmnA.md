@@ -16,7 +16,8 @@ https://www.facebook.com/groups/2819127468115692/posts/7561905847171140
 臺北市
 - 臺北市有釋出 鄰界shp檔案 https://data.gov.tw/dataset/121424
     - 需要用學區描述文字，對應到鄰界範圍，然後拼起來作為該校的學區範圍
-- 臺北市學區地理範圍，曾經呈現在線上圖臺中，但線上圖臺已撤除
+- 臺北市學區地理範圍地圖
+    - https://schooldistrict.tp.edu.tw/html/search.jsp
 
 雲林縣
 - 縣政府直接畫出國小學區地理範圍，呈現在線上圖臺 https://map.yunlin.gov.tw/map?center=23.65597,120.44248&scale=338472&mode=2d&webmap=5d712962ec7f4ae5882098a4c1d66ec4&webscene=672b2d0041424796959e2657b78d6b0f
