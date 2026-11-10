@@ -117,7 +117,7 @@ A key consideration in this design is providing consistent test requirements and
 
 To support this design, the CLI provides a consistent interface across implementation languages. We specify behavioral scenarios and an observation schema at the case level, then automatically obtain trusted observations from each artifact's execution as its ground truth. The tester must accurately capture and represent the behavior of the current artifact, whose functional correctness may vary. This allows the same task protocol to be applied to artifacts from new producers without redesigning tasks or manually specifying expected outputs for each implementation, which is an important reason for prioritizing CLI programs.
 
-The same design also provides a basis for expanding case coverage. New cases can define their behavioral scenarios and observation schemas under the existing protocol while reusing the controlled execution interface and acceptance mechanism based on trusted observations. Artifacts from new producers can then be evaluated directly using these case protocols.
+The same design also provides a basis for expanding case coverage. New cases can define their behavioral scenarios and observation schemas under the existing protocol while reusing the controlled execution interface and acceptance mechanism based on trusted observations. Artifacts from new producers can then be evaluated directly using these case protocols. This extensibility also provides a path toward evaluating larger and more complex software projects。
 
 The CLI interface also supports diverse testing requirements. For example, the Tokei task in Appendix A7.3 involves fixture construction, ignore and filtering rules, symbolic-link handling, two output surfaces, and relations between runs.
 
@@ -232,6 +232,6 @@ For Reusability and Testability, the authors defined the task objectives, behavi
 
 Wei Tao, Yucheng Zhou, Yanlin Wang, Wenqiang Zhang, Hongyu Zhang, and Yu Cheng. [MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution](https://papers.neurips.cc/paper_files/paper/2024/file/5d1f02132ef51602adf07000ca5b6138-Paper-Conference.pdf). In Advances in Neural Information Processing Systems, 2024.
 
-Sirui Hong, Mingchen Zhuge, Jiaqi Chen, Xiawu Zheng, Yuheng Cheng, Ceyao Zhang, Jinlin Wang, Zili Wang, Steven Ka Shing Yau, Zijuan Lin, Liyang Zhou, Chenyu Ran, Lingfeng Xiao, Chenglin Wu, and Jürgen Schmidhuber. [MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352). In International Conference on Learning Representations, 2024.
+Sirui Hong, Mingchen Zhuge, Jonathan Chen, Xiawu Zheng, Yuheng Cheng, Ceyao Zhang, Jinlin Wang, Zili Wang, Steven Ka Shing Yau, Zijuan Lin, Liyang Zhou, Chenyu Ran, Lingfeng Xiao, Chenglin Wu, and Jürgen Schmidhuber. [MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework](https://proceedings.iclr.cc/paper_files/paper/2024/file/6507b115562bb0a305f1958ccc87355a-Paper-Conference.pdf). In International Conference on Learning Representations, 2024.
 
 Dong Huang, Jie M. Zhang, Michael Luck, Qingwen Bu, Yuhao Qing, and Heming Cui. [AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation](https://arxiv.org/abs/2312.13010). arXiv preprint arXiv:2312.13010, 2024.
