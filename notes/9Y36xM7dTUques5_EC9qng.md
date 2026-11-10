@@ -44,6 +44,8 @@ In our evaluation, the fixed source inspection budget allows us to compare Analy
 
 The results in Table A11 suggest that the number of source files alone does not explain the differences in Analysability scores. GLM 5.2 has 8.308 source files on average and achieves scores of 89.2% and 86.9% under DeepSeek V4 Flash and HY3, respectively, while GLM 5.1 has only 2.231 files on average but achieves lower corresponding scores of 86.9% and 86.3%. The statix case illustrates this more directly: HY3 achieved 94% on GLM 5.2's eight-file implementation by inspecting three relevant source files within five calls, compared with 90% on GLM 5.1's single-file implementation. This example shows that an observer can locate and understand relevant behavior within the fixed inspection budget even when the implementation spans multiple files. The effort required therefore also depends on how the source is organized, rather than simply how many files it contains.
 
+Across all 104 artifacts per maintainer, adding log(1 + source file count) to a model controlling only for case yields Partial R² values of 3.97%, 3.73%, and 7.89% for DeepSeek V4 Flash, HY3, and Kimi K2.7 Code, respectively, indicating that file count explains a limited proportion of the remaining score variation.
+
 File count affects the search space and may also be associated with other aspects of source organization, such as naming and the distribution of logic. This is closely related to our lexical organization finding: the block covers identifier sharing and cross-file spread, import density, duplication, and local control structure, and examines their conditional association with Analysability.
 
 ### Response to Question 3
