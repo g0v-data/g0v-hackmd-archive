@@ -2,7 +2,10 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-10T16:14:18+00:00 | View mode |
+| [S10SNQMj1x](../../notes/gj-iH-szRWypWKwt1glm_Q.md) | 地區社群支持方案 | 2026-11-10T21:31:42+00:00 | View mode |
+| [r1NujZbRfl](../../notes/0LpMh6OWRIGHkPcgu93R8g.md) | 林口生活圈 | 2026-11-10T21:26:11+00:00 | View mode |
+| [SyuU7Md9Zg](../../notes/iOqB9tVBQF6_hFl_Jm2jOA.md) | 共辦效應 Meetup<br> Accompanied Effect | 2026-11-10T21:25:15+00:00 | Book mode |
+| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-10T21:21:47+00:00 | View mode |
 | [HJiDSv76Ge](../../notes/Dm4FpkkTRQ-uWN1SAiOmnA.md) | 學區地理資料 | 2026-11-10T14:48:52+00:00 | View mode |
 | [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | 資料登載工作頁面 & 收錄原則探討 | 2026-11-10T08:02:12+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-11-09T15:35:33+00:00 | View mode |
@@ -34,7 +37,6 @@
 | [Hkh8DtAgfl](../../notes/EvkiY6tiQzK2uve2kgpnAg.md) | 2027_ON+1030 籌辦工作文件 | 2026-10-13T01:18:38+00:00 | View mode |
 | [BkxrwGIvWx](../../notes/qkIrfWr9Q_Kho3HJ-uZ9IQ.md) | Almanac _ 公民科技年曆 / 主題日評估 | 2026-10-13T01:15:00+00:00 | View mode |
 | [Byv5v5shbg](../../notes/-JUKdilNQ-uncai7swYokQ.md) | 2026 Civic Tech ON (October+November) | 2026-10-12T07:30:54+00:00 | View mode |
-| [S10SNQMj1x](../../notes/gj-iH-szRWypWKwt1glm_Q.md) | 地區社群支持方案 | 2026-10-11T02:29:06+00:00 | View mode |
 | [B17hjPWufg](../../notes/zlgYN4KdR_a4bsOVPdOr1w.md) | 社群小聚｜臺中 | 2026-10-08T19:10:47+00:00 | View mode |
 | [ByV45GdcZe](../../notes/LvivQwz1TT20JqfRA-U0sQ.md) | 社群小聚｜台東 | 2026-10-08T14:47:49+00:00 | View mode |
 | [S1vmKz_9-l](../../notes/U8ZY6AcwTAWX1Kyz-t614g.md) | 社群小聚｜花蓮 | 2026-10-08T14:47:20+00:00 | View mode |
@@ -52,7 +54,6 @@
 | [B13XHdP1Ml](../../notes/2QPnlJdcRcmMxbBTLiujeA.md) | Disaster 防災與減災 | 2026-09-11T09:21:22+00:00 | View mode |
 | [Hyxo4FkjC](../../notes/MdulssubSXyXzX_Jm7EmdA.md) | 揪松團擺攤方案：器材、互動、口語說明內容 | 2026-09-10T20:41:39+00:00 | View mode |
 | [ByHiV_Dkzg](../../notes/oH-LgYkMQiGHaA0HFo7hsg.md) | Vote 政見資料，選舉資料，政治獻金 | 2026-09-10T16:13:53+00:00 | View mode |
-| [SyuU7Md9Zg](../../notes/iOqB9tVBQF6_hFl_Jm2jOA.md) | 共辦效應 Meetup<br> Accompanied Effect | 2026-09-07T06:51:08+00:00 | Book mode |
 | [SkGS-jwJzx](../../notes/xt2YlHBSSzWhPAO65XnmMg.md) | <center>公民科技行動指引<br>Civic Tech Guide</center> | 2026-09-05T06:22:17+00:00 | View mode |
 | [rkVx1GUCWe](../../notes/rO5b1GLFQY-njG5vOqx1bw.md) | 公民科技行動指引 Guide | 2026-09-05T06:21:48+00:00 | Book mode |
 | [S1LstNNH6](../../notes/8_z1xqCwQH-np8Zu9iBOkw.md) | 最新活動資訊請至以下網址 | 2026-09-02T10:20:02+00:00 | View mode |

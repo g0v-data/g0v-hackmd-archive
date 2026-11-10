@@ -171,11 +171,7 @@ https://www.facebook.com/share/1Bbq8KyzTj/
 第二場次：參與者挑選有興趣課題探討與構想，國內外相關專案蒐集
 
 推廣介紹
-- 於地方社社群活動中，介紹推廣公民科技專案、公民科學與群眾外包式的計畫
-- 100+ 各種公民科學與公眾參與計畫 https://g0v.hackmd.io/@chewei/crowdtribute/https%3A%2F%2Fg0v.hackmd.io%2F%40chewei%2Frk47XdX0i
-- 200+ g0v projects
-    - https://sheet2site.com/api/v3/index.php?key=1Qm1u2kRpqEtWAHyQJWMFf0NKPx0HMOhb8uBDbLfUKoM
-    - https://g0v.hackmd.io/_5ze8ubgR1a8PeolhyVMpg
+- civictech.tw 於地方社社群活動中，介紹推廣公民科技專案、公民科學與群眾外包式的計畫
 
 ### 歡迎提供 ~
 

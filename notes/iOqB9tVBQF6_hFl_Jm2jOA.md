@@ -17,6 +17,7 @@ tags: jothon,
 - [宜蘭 2026.07](https://g0v.hackmd.io/9j3nnWHZRbuXPH4HgscPRg?view)
 - [花蓮 2026.08](https://g0v.hackmd.io/U8ZY6AcwTAWX1Kyz-t614g?view)
 - [臺東 2026.08](https://g0v.hackmd.io/LvivQwz1TT20JqfRA-U0sQ?view)
+- [林口生活圈](https://g0v.hackmd.io/0LpMh6OWRIGHkPcgu93R8g?view)
 - [桃園](https://g0v.hackmd.io/0k2xQac4Ru6zWpQX_naeDg?view)
 - [南庄桐花松 2020, 2021, 2022, 2023](https://g0v.hackmd.io/@jothon/tungflowerthon/)
 - [臺中 2026](https://g0v.hackmd.io/zlgYN4KdR_a4bsOVPdOr1w?view)
