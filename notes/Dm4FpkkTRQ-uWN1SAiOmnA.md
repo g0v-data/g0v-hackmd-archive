@@ -19,5 +19,11 @@ https://www.facebook.com/groups/2819127468115692/posts/7561905847171140
 - 臺北市學區地理範圍地圖
     - https://schooldistrict.tp.edu.tw/html/search.jsp
 
+
 雲林縣
 - 縣政府直接畫出國小學區地理範圍，呈現在線上圖臺 https://map.yunlin.gov.tw/map?center=23.65597,120.44248&scale=338472&mode=2d&webmap=5d712962ec7f4ae5882098a4c1d66ec4&webscene=672b2d0041424796959e2657b78d6b0f
+
+## 應用
+
+- 學區通學路徑探討 https://g0v.hackmd.io/Ji6EZrMRQjyWsoNaZYUwwA?view
+
