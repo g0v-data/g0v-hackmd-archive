@@ -130,7 +130,7 @@ Thank you for your comments and questions.
 
 Thank you for your sincere comments. Our central finding is that maintainability should be evaluated separately for each maintenance demand under a specified maintainer profile. Finding 1 supports separating demands because producers rank differently for understanding, reusing, and testing code. Finding 2 supports accounting for the maintainer because these rankings do not transfer equally well across maintainers. Finding 4 further motivates demand-specific optimization research, as the source characteristics associated with performance vary across demands and maintainers. We discuss the practical implications under Question 4 and will clarify this central finding in the revision.
 
-To assess the reliability of our results, we conducted additional repeated evaluations using DeepSeek V4 Flash across all cases and three maintenance demands. We fixed the Stage I artifacts, questions or tasks, prompts, tools, and budgets, and performed two additional independent Stage II runs, yielding three measurements per evaluation unit, including the original run. Each run includes 104 Analysability evaluations, 104 Reusability evaluations, and 96 Testability task runs covering 12 task instances across 7 independent cases.
+We repeated Stage II evaluations twice using DeepSeek V4 Flash across all cases and demands, yielding three measurements per unit. Stage I artifacts, tasks, prompts, tools, and budgets were fixed.
 
 We report single-measurement absolute-agreement ICC and between-run Kendall's τ for producer rankings:
 
