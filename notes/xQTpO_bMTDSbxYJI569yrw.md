@@ -7,6 +7,8 @@ tags: vTaiwan
 地點 Location ：線上 Online
 參與者 Participants: Peter, Bestian, Tim, Allison, Aiganym, Thompson
 
+![](https://g0v.hackmd.io/_uploads/B1xjJqRWCzx.png)
+![](https://g0v.hackmd.io/_uploads/r1j19RZ0Gg.png)
 
 自我介紹：
 
@@ -132,3 +134,4 @@ https://www.vtaiwan.tw/jitsi
 - purpose: to make discussion 
 
 ### How to choose the issue:
+- TWNIC: want to AI governance 
