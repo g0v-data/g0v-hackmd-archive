@@ -63,6 +63,7 @@ g0v 台北社群空間_小松果 🌰 🐿️
 - [No.]
 - [No.] 1112 週四晚上 F4: functional thursday 社群活動 (接洽 by chewei)
 - [No.] 1112 週四晚上 國會松 使用二樓大間場地 (接洽 by Ronny, chewei)
+- [No.] 1112 週四下午 韓國統一部參訪  (接洽 by chewei, RR)
 - [No.] 1111 週三下午晚上 揪松團交流會議  (接洽 by chewei, Ronny)
 - [No.] 1110 週二晚上 20:00 Cofacts 社群週會
 - [No.141] 1109 週一晚上 [Clojure Meetup](https://www.facebook.com/share/g/1984fJXewb/) (接洽 by chewei, Laurence Chen) 
