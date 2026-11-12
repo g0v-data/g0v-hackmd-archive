@@ -10,6 +10,41 @@ s = aaaaaaac, p = a*c, return True
 s = abc, p = a*c ,return False
 
 
-s = aabaaaac -> a*ba*c =? p
+     ^
+s = acb
+      ^ 
+p = a*cb
 
-O(n)
+s.size() = 2
+p.size() = 3
+cur_s = 2
+cur_p = 2
+
+bool compare(std::string s, std::string p) {
+    int cur_s = 0;
+    int cur_p = 0;
+    
+    while (cur_s < s.size() && cur_p < p.size()) {
+        if (s[cur_s] != p[cur_p]) {
+            if (p[cur_p] != '*') {
+                return false;
+                
+            }
+            if (s[cur_s] == p[cur_p-1]) {
+                cur_s++;
+                cur_p++;
+                continue;
+            }
+            if (cur_p == p.size()-1) {
+                return false;
+            }
+            cur_p++;
+            if (s[cur_s] != p[cur_p]) {
+                return false;
+            }
+        }
+        cur_s++;
+        cur_p++;
+    }
+    return cur_s == s.size() && cur_p == p.size();
+}
