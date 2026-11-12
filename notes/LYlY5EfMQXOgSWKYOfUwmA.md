@@ -27,19 +27,10 @@ bool compare(std::string s, std::string p) {
     while (cur_s < s.size() && cur_p < p.size()) {
         if (s[cur_s] != p[cur_p]) {
             if (p[cur_p] != '*') {
-                return false;
-                
-            }
-            if (s[cur_s] == p[cur_p-1]) {
-                cur_s++;
-                cur_p++;
-                continue;
-            }
-            if (cur_p == p.size()-1) {
-                return false;
-            }
-            cur_p++;
-            if (s[cur_s] != p[cur_p]) {
+                if (s[cur_s] != p[cur_p-1] && (cur_p == p.size()-1 || s[cur_s] != p[++cur_p])) {
+                    return false;
+                }
+            } else {
                 return false;
             }
         }
