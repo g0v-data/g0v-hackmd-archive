@@ -236,17 +236,16 @@ https://linktr.ee/g0vjothon
 - 活動地點：臺灣大學法律學院霖澤館 國際會議廳
 - 活動官網：https://sites.google.com/g.ntu.edu.tw/2026-advanced-ai-safety-forum
 - 報名連結：https://forms.gle/ZNXqMqHBNbxze6hf8
+    - https://www.facebook.com/share/p/1JLPk6DA5R/
 - 講者名單：
     - 劉泰興 (Ted Liu)｜IBM 智能與創新自動化解決方案 技術總監
     - Thomas Zeng｜Assistant GM, Central Silicon Product Development, MediaTek
     - James Zhang｜Distinguished Engineer, NVIDIA
-- 鄒耀東｜DeCloak 帝濶智慧科技 共同創辦人、總經理暨技術長
-- 唐鳳 (Audrey Tang)｜中華民國無任所大使（開場影片）
-- NTU AI Safety | 臺大AI 安全社群
-- 邱銘彰 (Birdman)｜奧義智慧科技 技術長暨共同創辦人
-- 梁宏祥 (Clement Neo)｜新衡 (Neo Research) 創辦人 / SASH Research Advisor
-- https://www.facebook.com/share/p/1JLPk6DA5R/
-
+    - 鄒耀東｜DeCloak 帝濶智慧科技 共同創辦人、總經理暨技術長
+    - 唐鳳 (Audrey Tang)｜中華民國無任所大使（開場影片）
+    - NTU AI Safety | 臺大AI 安全社群
+    - 邱銘彰 (Birdman)｜奧義智慧科技 技術長暨共同創辦人
+    - 梁宏祥 (Clement Neo)｜新衡 (Neo Research) 創辦人 / SASH Research Advisor
 
 ---
 
@@ -287,12 +286,13 @@ https://linktr.ee/g0vjothon
 ---
 
 2027 1/09-1/10 g0v 第柒拾陸次高屏共振黑客松 Hackath76n
-- 高雄場
-    - 時間：01/09 週六 10:30-17:00
-    - 地點：高雄市左營區高鐵共構大樓四樓
-- 屏東場
-    - 時間：01/10 週日 10:30-17:00
-    - 地點：屏東市讀者城市空間，屏東縣屏東市瑞光里民生路4-17號
+- https://g0v.hackmd.io/@jothon/g0v-hackath76n
+- 時間：01/09 週六 10:30-17:00
+    - 高雄場地地點：高雄市左營區高鐵共構大樓四樓
+    - 臺北場地地點：臺北市中正區重慶南路三段2號2樓
+- 時間：01/10 週日 10:30-17:00
+    - 屏東場地地點：屏東市讀者城市空間，屏東縣屏東市瑞光里民生路4-17號
+    - 臺北場地地點：臺北市中正區重慶南路三段2號2樓
 
 ---
 
@@ -303,6 +303,7 @@ https://linktr.ee/g0vjothon
 ### 2027.03
 
 2027 3/6-3/7 g0v 第柒拾柒次嘉南羊年黑客松 Hackath77n
+- https://g0v.hackmd.io/@jothon/g0v-hackath76n
 - 嘉義場
     - 時間：3/6 週六 10:30-17:00
     - 地點：嘉義市謐巷空間，嘉義市西區民生北路215巷11號
