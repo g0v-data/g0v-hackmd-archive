@@ -303,7 +303,7 @@ https://linktr.ee/g0vjothon
 ### 2027.03
 
 2027 3/6-3/7 g0v 第柒拾柒次嘉南羊年黑客松 Hackath77n
-- https://g0v.hackmd.io/@jothon/g0v-hackath76n
+- https://g0v.hackmd.io/@jothon/g0v-hackath77n
 - 嘉義場
     - 時間：3/6 週六 10:30-17:00
     - 地點：嘉義市謐巷空間，嘉義市西區民生北路215巷11號
@@ -329,6 +329,7 @@ https://linktr.ee/g0vjothon
 ### 2027.05
 
 2027/05/23 週日 g0v 第柒拾捌次黑客松 Hackath78n
+- https://g0v.hackmd.io/@jothon/g0v-hackath78n
 - 時間：5/23 週日 10:30-17:00
 - 地點：臺北市中正區重慶南路三段2號2樓
 
@@ -345,6 +346,8 @@ https://linktr.ee/g0vjothon
 ---
 
 2027/07/31-08/01 COSCUP 開源人年會 (推估日期)
+
+---
 
 ### 2027.08
 
