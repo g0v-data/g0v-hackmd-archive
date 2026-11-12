@@ -1,0 +1,1 @@
+<a href="https://b33.help/">B33</a> là nền tảng trực tuyến mang đến trải nghiệm tiện lợi, giao diện thân thiện và khả năng truy cập dễ dàng. Người dùng có thể khám phá các tính năng và thông tin hữu ích một cách nhanh chóng, đơn giản. Trải nghiệm thuận tiện chỉ với vài thao tác.
