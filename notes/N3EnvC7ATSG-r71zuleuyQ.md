@@ -230,6 +230,26 @@ https://linktr.ee/g0vjothon
 
 ---
 
+12/06 週日 【2026 前瞻 AI 安全論壇：尖端科技與研究】
+- 當 AI 從回答問題的模型，發展成能自主規劃、呼叫工具、執行任務的 Agent，AI 的安全邊界也隨之改變：傳統在入口檢查的身分管理，已無法掌握 Agent 在執行過程中的動作；交給雲端與加速運算環境的模型、資料與機密，需要可驗證的保護；LLM 本身會產生幻覺、難以預測，使 AI 安全無法只沿用傳統資安的思維；而模型可能出現的危險行為，更需要在部署前就被系統性地評測。本次論壇從基礎設施、模型特性到評測方法，逐一回應這些挑戰。來自產學界的專家將分享如何以委派授權、Agent 獨立身分與動態短效憑證，即時裁決每一次工具呼叫，以及如何透過可信執行環境（TEE）與遠端證明（attestation），在釋出敏感資產前先驗證運算環境；也將從 LLM 幻覺重新檢視 AI 安全的本質，並拆解能力、傾向與控制評測的方法與限制。面對這些挑戰，AI 安全也需要更多人投入，論壇也將透過無任所大使唐鳳的影片，談臺灣在 AI 安全中可以扮演的角色，並由 NTU AI Safety 分享投入這個領域的資源與路徑。
+- 活動日期：2026/12/6 (日) 08:30 – 16:30
+- 活動地點：臺灣大學法律學院霖澤館 國際會議廳
+- 活動官網：https://sites.google.com/g.ntu.edu.tw/2026-advanced-ai-safety-forum
+- 報名連結：https://forms.gle/ZNXqMqHBNbxze6hf8
+- 講者名單：
+    - 劉泰興 (Ted Liu)｜IBM 智能與創新自動化解決方案 技術總監
+    - Thomas Zeng｜Assistant GM, Central Silicon Product Development, MediaTek
+    - James Zhang｜Distinguished Engineer, NVIDIA
+- 鄒耀東｜DeCloak 帝濶智慧科技 共同創辦人、總經理暨技術長
+- 唐鳳 (Audrey Tang)｜中華民國無任所大使（開場影片）
+- NTU AI Safety | 臺大AI 安全社群
+- 邱銘彰 (Birdman)｜奧義智慧科技 技術長暨共同創辦人
+- 梁宏祥 (Clement Neo)｜新衡 (Neo Research) 創辦人 / SASH Research Advisor
+- https://www.facebook.com/share/p/1JLPk6DA5R/
+
+
+---
+
 12/7 OpenStreetMap x Wikidata 月聚會 #95
 - 時間：2026-12-7 (一) 19:30-21:30
 - 地點：請特別注意！摩茲工寮已經搬遷到臺北市中正區重慶南路一段 99 號 11 樓 1105 室(鄰近二二八和平公園)

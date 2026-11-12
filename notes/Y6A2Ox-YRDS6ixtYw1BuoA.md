@@ -9,7 +9,7 @@ tags: 國會松
 
 
 ### 本共筆 QRCode
-https://s.g0v.tw/congressthon
+https://s.g0v.tw/ly
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_855eda1d43b9514aa000812ffa921e3e.png)
         
 ### 回到初心

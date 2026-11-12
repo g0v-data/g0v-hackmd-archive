@@ -119,6 +119,8 @@ https://photos.app.goo.gl/XSHtpaX6tPithYhA8
 ## 方案介紹
 
 - 綠建築手冊 https://www.facebook.com/share/1AENtRqguu/
+- 野鳥窗殺博物館Bird-Window Collision Museum 窗殺宣導教材PDF下載網頁
+https://www.birdwindowcollision.info/programs
 - https://www.facebook.com/share/p/QpbiGhuRuswgya1w/
 - https://www.birdwindowcollision.info/post/%E4%BD%BF%E7%94%A8%E8%A4%87%E5%90%88%E6%9D%90%E8%B3%AA%E7%9A%84%E6%96%B9%E6%B3%95diy%E6%94%B9%E9%80%A0%E7%AA%97%E6%88%B6
 - https://www.birdwindowcollision.info/post/%E5%8F%8B%E5%96%84%E9%B3%A5%E9%A1%9E%E5%BB%BA%E6%9D%90
