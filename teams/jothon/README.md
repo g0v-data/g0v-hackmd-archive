@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-11-13T10:34:11+00:00 | View mode |
 | [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | 資料登載工作頁面 & 收錄原則探討 | 2026-11-12T17:00:46+00:00 | View mode |
 | [rkRYZt-9Ze](../../notes/ru-7S6xsQL-1pXmTRXPAmg.md) | 製作「面紙包」用於發送 | 2026-11-12T15:53:35+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-12T13:00:57+00:00 | View mode |
@@ -11,7 +12,6 @@
 | [r1NujZbRfl](../../notes/0LpMh6OWRIGHkPcgu93R8g.md) | 林口生活圈 | 2026-11-10T21:26:11+00:00 | View mode |
 | [SyuU7Md9Zg](../../notes/iOqB9tVBQF6_hFl_Jm2jOA.md) | 共辦效應 Meetup<br> Accompanied Effect | 2026-11-10T21:25:15+00:00 | Book mode |
 | [HJiDSv76Ge](../../notes/Dm4FpkkTRQ-uWN1SAiOmnA.md) | 學區地理資料 | 2026-11-10T14:48:52+00:00 | View mode |
-| [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-11-09T15:02:24+00:00 | View mode |
 | [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-11-09T14:04:25+00:00 | View mode |
 | [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | What is a g0v hackathon ? | 2026-11-07T15:17:06+00:00 | View mode |
 | [H1IgVnPkGg](../../notes/G2NrbqCXR2u7VQnl5SG9UQ.md) | 社群小聚｜彰化 | 2026-11-06T19:11:04+00:00 | View mode |

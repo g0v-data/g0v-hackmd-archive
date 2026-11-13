@@ -136,7 +136,7 @@ Photo 各個現場的相簿 https://photos.app.goo.gl/hW4M5VQBAUVhQPyC9
     - Kshow餐廳
 - 20260827 chewei 有提供給 臺東市晃晃書店 面紙包，已同意致贈一本沒有人內閱，待寄送
     - ![](https://g0v.hackmd.io/_uploads/rJ_xQ2pvMe.jpg)
-- 20260902 chewei 提供 面紙包 給 臺北市文山社區大學擺放在辦公室門口的摺頁自取櫃子
+- 20260902 chewei 提供 面紙包 給 臺北市文山社區大學擺放在辦公室門口的摺頁自取櫃子；20261113 chewei 有補充面紙包
 - 20261001 chewei 有提供一本沒有人給 馬祖南竿_西尾半島物產店 https://www.facebook.com/XIWEIPENINSULA/
 - 20261002 chewei 有提供一本沒有人書籍與面紙包 給 馬祖南竿_交隴半山．離島書店 https://www.facebook.com/profile.php?id=61590437082917
 - 20261002 chewei 有提供一本沒有人給 連江縣文化處馬祖圖書館
