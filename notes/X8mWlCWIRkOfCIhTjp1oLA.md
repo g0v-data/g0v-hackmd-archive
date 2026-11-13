@@ -198,6 +198,9 @@ https://www.threads.com/@chill_yi.io/post/DS6uPa4CQK5?xmt=AQF08podHYiYi18WCSeQe6
 10、南屯區:向心南路(文心南五路一段至文心南二路),兩側總長度約 860 公尺。
 https://drive.google.com/file/d/1KjYATFfLsVqLIIB_lWQM4pg0HHFo-i_S/view?usp=drive_link
 
+台中西屯區台灣大道惠來路口
+https://www.facebook.com/share/p/1ExnnTpYFK/
+
 台中台灣大道民權路口（有鎖內容看不到）
 https://www.facebook.com/100094870554841/posts/pfbid02L2FDr2UhHa5djfBe49ZAsXwfEXwrCK21JsCrxAAWUNN3d92PiumxbEm2D7MCVopVl/?mibextid=cr9u03
 
