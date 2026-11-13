@@ -6,6 +6,7 @@
 :::
 
 - [報名網址](https://g0vcongressthon.oen.tw/events/3L5cONaFbf7myaYtUfcaIKRYlOJ)
+- [投影片](https://docs.google.com/presentation/d/1TB4aopBN4iAmeBKpYRlUtgFyOVexXcTXQYqeDoIW5FY/edit?usp=sharing)
 
 ## 第貳拾柒次國會松 - 從揭露政商關係到監督民代問政：報導者如何從開放資料追出深度報導
 

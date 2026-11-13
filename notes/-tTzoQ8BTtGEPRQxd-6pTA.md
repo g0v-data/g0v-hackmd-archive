@@ -1,0 +1,2 @@
+[yg88](https://yg88km.com/) hướng đến việc xây dựng không gian giải trí trực tuyến hiện đại, nơi người dùng có thể dễ dàng tiếp cận nhiều nội dung tương tác đa dạng. Nền tảng chú trọng thiết kế giao diện trực quan, bố cục khoa học và khả năng tương thích với nhiều thiết bị. Nhờ đó, quá trình truy cập và khám phá các tính năng trở nên thuận tiện, phù hợp với nhu cầu sử dụng linh hoạt  
+Website: [https://yg88km.com/](https://yg88km.com/)
