@@ -42,6 +42,9 @@ https://www.facebook.com/share/p/1Sitm7Xpx5/
 摘自貼文：如果突然出現單側聽力下降、臉部或肢體無力、說話不清、劇烈頭暈等症狀，不要等、不要撐、不要觀察看看，黃金時間真的很短，及早就醫，結果可能完全不一樣。
 https://www.facebook.com/share/p/1DALgDVRrT/
 
+植牙手術後，要休養，勿聚餐
+https://www.facebook.com/share/18FZag3rrw/
+
 可以挑選「心臟」與「腦部」這兩個重點項目進行，因為會猝死所以建議優先先做，摘自文章：可以挑選「心臟」與「腦部」這兩個重點項目進行，以便出現冠狀動脈阻塞、動脈硬化、動脈瘤等問題時，可以儘早治療，降低猝死的機率。
 https://health.udn.com/health/story/6008/6106055
 https://youtube.com/shorts/wwDfPxyfwQk
