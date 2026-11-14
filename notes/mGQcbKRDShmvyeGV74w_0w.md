@@ -10,7 +10,7 @@ g0v 數位韌性松 DigiResiTh0n 大全
 ===
 
 :::danger
-# 👈 Click the links on left side's [bookmarks](s.g0v.tw/resi), for latest event please refer to "[20260913 DigiResiTh16n](https://g0v.hackmd.io/@irvin/S17rZ5pufx)"
+# 👈 Click the links on left side's bookmarks s.g0v.tw/resi
 :::
 
 
@@ -35,6 +35,7 @@ We want to discuss measures for both governmental and civil department, that can
 ---
 `Latest` 
 
+- [202611XX DigiResiTh17n 第拾柒次](/ZY-JjtljRdqsunoqRmztCg)
 - [20260913 DigiResiTh16n 第拾陸次 (RE)](/umNnSGqAT5mfc_gfAaBH-g)
 - [20260725 DigiResiTh16n 第拾陸次](/M6fQaaveSfiz7epbrETQxw)
 - [20260621 DigiResiTh15n 第拾伍次](/II9U3fe8RcqNWqpIfz8qpA)
