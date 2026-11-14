@@ -4,7 +4,7 @@ image: https://chengpengtw-images-public.s3.ap-northeast-1.amazonaws.com/img/dig
 title: DigiResiTh17n 第拾柒次數位韌性松
 ---
 
-{%hackmd L0dLpQ_zTzGoNxeURzO2kw %}
+<img src="https://chengpengtw-images-public.s3.ap-northeast-1.amazonaws.com/img/digiresith17n-splash-b%402x-paulpengtw-CCBYSA4.0.png" alt="splash">
 
 # 20261129 DigiResiTh17n 第拾柒次數位韌性松
 
