@@ -33,13 +33,11 @@ g0v 台北社群空間_小松果 🌰 🐿️
 - [No.] 0202 週二晚上 20:00 Cofacts 社群週會
 - [No.] 0127 週三晚上 vTaiwan 與揪松團預計有一場日本東京世田谷區役所的交流會議
 - [No.] 0126 週二晚上 20:00 Cofacts 社群週會
-- [No.] 尚待確認 0120 週三上午或下午 日本關西地區交流會議
 - [No.] 0119 週二晚上 20:00 Cofacts 社群週會
 - [No.] 0119 週二下午 日本關西地區交流會議 (接洽：揪松團)
 - [No.] 0112 週二晚上 20:00 Cofacts 社群週會
-- [No.] 
-- 0110 週日 g0v 高屏共振黑客松，屏東市讀者城市空間
-- 0109 週六 g0v 高屏共振黑客松，高雄市高鐵左營站共構大樓
+- [No.] 0110 週日上下午 g0v 黑客松
+- [No ] 0109 週六上下午 g0v 黑客松
 - [No.] 0105 週二晚上 20:00 Cofacts 社群週會
 - [No.]
 - 【注意】2027 小松場地，想填寫的話 ok，但不確保一定有場地哦 ! 因為涉及臺北市政府青年局的政策，全棟委託經營案期程為 2025 年初至 2026 年底；揪松團 2026.06 已有先詢問經營單位 2027 動態，等待回覆中
@@ -55,18 +53,17 @@ g0v 台北社群空間_小松果 🌰 🐿️
 - [No.] 1210 週四晚上 F4: functional thursday 社群活動 (接洽 by chewei)
 - [No.] 1208 週二晚上 20:00 Cofacts 社群週會
 - [No.] 1201 週二晚上 20:00 Cofacts 社群週會
-- [No.]
+- [No.] 1129 週日下午 [第拾柒次數位韌性松](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/%2FZY-JjtljRdqsunoqRmztCg)
 - 1127 週五 冷氣濾網清洗
 - [No.] 1124 週二晚上 20:00 Cofacts 社群週會
 - [No.] 1121 週六下午暫訂國會松
 - [No.] 1117 週二晚上 20:00 Cofacts 社群週會
 - [No.] 1117 週二下午 淡江建築系課程_都市水環境交流 (接洽 by chewei)
-- [No.]
-- [No.] 1112 週四晚上 F4: functional thursday 社群活動 (接洽 by chewei)
-- [No.] 1112 週四晚上 國會松 使用二樓大間場地 (接洽 by Ronny, chewei)
-- [No.] 1112 週四下午 韓國統一部參訪  (接洽 by chewei, RR)
-- [No.] 1111 週三下午晚上 揪松團交流會議  (接洽 by chewei, Ronny)
-- [No.] 1110 週二晚上 20:00 Cofacts 社群週會
+- [No.146] 1112 週四晚上 F4: functional thursday 社群活動 (接洽 by chewei)
+- [No.145] 1112 週四晚上 國會松 使用二樓大間場地 (接洽 by Ronny, chewei)
+- [No.144] 1112 週四下午 韓國統一部參訪  (接洽 by chewei, RR)
+- [No.143] 1111 週三下午晚上 塞席爾共和國民間人員來訪交流 with 歐噴公司、開放文化基金會、揪松團 (接洽 by chewei, Ronny)
+- [No.142] 1110 週二晚上 20:00 Cofacts 社群週會
 - [No.141] 1109 週一晚上 [Clojure Meetup](https://www.facebook.com/share/g/1984fJXewb/) (接洽 by chewei, Laurence Chen) 
 - [No.140] 🌲 1108 週日上午下午晚上 g0v 黑客松
 - 1107 週六晚上 g0v 黑客松場地佈置與環境整備 by 揪松團

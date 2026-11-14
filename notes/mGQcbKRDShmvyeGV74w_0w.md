@@ -35,7 +35,7 @@ We want to discuss measures for both governmental and civil department, that can
 ---
 `Latest` 
 
-- [202611XX DigiResiTh17n 第拾柒次](/ZY-JjtljRdqsunoqRmztCg)
+- [20261129 DigiResiTh17n 第拾柒次](/ZY-JjtljRdqsunoqRmztCg)
 - [20260913 DigiResiTh16n 第拾陸次 (RE)](/umNnSGqAT5mfc_gfAaBH-g)
 - [20260725 DigiResiTh16n 第拾陸次](/M6fQaaveSfiz7epbrETQxw)
 - [20260621 DigiResiTh15n 第拾伍次](/II9U3fe8RcqNWqpIfz8qpA)
