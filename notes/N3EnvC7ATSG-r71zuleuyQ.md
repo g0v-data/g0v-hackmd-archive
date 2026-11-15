@@ -561,6 +561,7 @@ https://g0v.hackmd.io/@jothon/hsiaothon/
 
 三月
 - 3 月台南氣候宜人很推薦舉辦活動 https://www.facebook.com/share/p/15uGRLThDL/
+- 建議：三月的第一個週日
 - 已知活動
     - 每年三月有 SITCON 週六，臺北
         - 2025.03.08 台北 SITCON

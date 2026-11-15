@@ -2,7 +2,13 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-15T14:41:00+00:00 | View mode |
+| [B1erzPwRMe](../../notes/jDcns09jQB-FGawwddNLkQ.md) | 2028 年各場次大松命名 | 2026-11-15T16:59:45+00:00 | View mode |
+| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-15T16:56:36+00:00 | View mode |
+| [HJNDn3e7C](../../notes/zyPgR_H6QwWBBgGXA6DYEA.md) | 活動命名 Bookmode | 2026-11-15T16:49:28+00:00 | Book mode |
+| [SJhfElwGGg](../../notes/jXRW3NmPQISprRaOA6hphA.md) | 2027／11 g0v 大松命名 | 2026-11-15T16:47:18+00:00 | View mode |
+| [Hy1S5Mmjel](../../notes/k-zw6iqaRy-SqBEKj_gH6w.md) | 2027／01 g0v 大松命名 | 2026-11-15T16:43:22+00:00 | View mode |
+| [HJMvgwP0zx](../../notes/VfQVXR8OTyu8hlDltdwNWg.md) | g0v Hackathan | 2026-11-15T16:41:11+00:00 | Book mode |
+| [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | What is a g0v hackathon ? | 2026-11-15T16:27:17+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-11-15T14:31:39+00:00 | View mode |
 | [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | 資料登載工作頁面 & 收錄原則探討 | 2026-11-15T09:28:37+00:00 | View mode |
 | [ry9tadGjkl](../../notes/vywr30o0Ssqpn3orwM4ePQ.md) | 健康的 g0ver / 健康風險意識 內容蒐集 | 2026-11-13T13:12:28+00:00 | View mode |
@@ -14,17 +20,14 @@
 | [SyuU7Md9Zg](../../notes/iOqB9tVBQF6_hFl_Jm2jOA.md) | 共辦效應 Meetup<br> Accompanied Effect | 2026-11-10T21:25:15+00:00 | Book mode |
 | [HJiDSv76Ge](../../notes/Dm4FpkkTRQ-uWN1SAiOmnA.md) | 學區地理資料 | 2026-11-10T14:48:52+00:00 | View mode |
 | [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-11-09T14:04:25+00:00 | View mode |
-| [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | What is a g0v hackathon ? | 2026-11-07T15:17:06+00:00 | View mode |
 | [H1IgVnPkGg](../../notes/G2NrbqCXR2u7VQnl5SG9UQ.md) | 社群小聚｜彰化 | 2026-11-06T19:11:04+00:00 | View mode |
 | [B1RUK6tb-e](../../notes/zkWf3uJDQA6mp7FfqzfIsQ.md) | <center>公民科技及數位工具應用指南與支持網絡</center> | 2026-11-05T09:01:13+00:00 | View mode |
 | [ry5TjRBhD](../../notes/hkqwwNqfQ9OPLIamC5QW-g.md) | g0v 賀年卡與賀年詞募集<br>New Year's Cards and Greeting Phrases | 2026-11-04T14:10:44+00:00 | View mode |
-| [Hy1S5Mmjel](../../notes/k-zw6iqaRy-SqBEKj_gH6w.md) | 2027／01 g0v 大松命名 | 2026-11-04T12:46:09+00:00 | View mode |
 | [ryvfY7v5xe](../../notes/ARUbzVynRga6J8SUgiCgGw.md) | 交流推廣活動 Outreach & Exchange Events & Outcomes | 2026-11-03T14:20:31+00:00 | View mode |
 | [By8R5AED1l](../../notes/jVVaW4VVS7qV51Af_OGV7g.md) | Jothon SNS | 2026-11-03T13:57:27+00:00 | View mode |
 | [SyN63Zkq-x](../../notes/FfdQPrIvTHyYuH8XMzygCg.md) | 模擬遊戲 | 2026-11-01T15:07:42+00:00 | View mode |
 | [S1Nl-4JTfg](../../notes/1Kt7BUX7QbSfe8oyLSnKBg.md) | SPAR 2026 秋季研究計畫_Assessing Taiwan's Global Position for Transformative AI_20261102訪談共筆 | 2026-10-31T14:05:29+00:00 | View mode |
 | [r1YnqGXjgg](../../notes/4-nyFkwISE2VQ1JO6rRIyw.md) | 2027／03 g0v 大松命名 | 2026-10-30T11:56:34+00:00 | View mode |
-| [HJNDn3e7C](../../notes/zyPgR_H6QwWBBgGXA6DYEA.md) | 活動命名 Bookmode | 2026-10-30T11:55:30+00:00 | Book mode |
 | [SyGl1tPbxl](../../notes/lQoQZLwxSh29OdvMIBhnkA.md) | 2026／11 第柒拾伍次投出未來黑客松 G0Vote Hackath75n | 2026-10-30T11:55:07+00:00 | View mode |
 | [SyHqsxMTMe](../../notes/ye1kqdGkT0e6O37VuReXCQ.md) | 桃城聽脈 _ 專案相關內容 | 2026-10-30T11:25:11+00:00 | View mode |
 | [H1fFF6AiGg](../../notes/y7g5eBS4RJ-QPul7siR0ug.md) | g0v 第柒拾伍次<br>投出未來黑客松<br>G0Vote Hackath75n | 2026-10-30T11:11:37+00:00 | Book mode |
@@ -61,7 +64,6 @@
 | [SyJi0ww7zg](../../notes/bHWPJT4YQve1VT36x5v4kQ.md) | 澎湖 | 2026-09-02T08:51:36+00:00 | View mode |
 | [SJkN2cwyze](../../notes/7bid8DlMSg2xC8ydTMoYag.md) | 生態 | 2026-09-02T02:37:12+00:00 | View mode |
 | [HJeJifQjgl](../../notes/_kuWKonIRvW6HU9o09eEWg.md) | 2027／05 g0v 大松命名 | 2026-09-02T02:18:24+00:00 | View mode |
-| [SJhfElwGGg](../../notes/jXRW3NmPQISprRaOA6hphA.md) | 2027／11 g0v 大松命名 | 2026-09-01T14:51:15+00:00 | View mode |
 | [SJAaSX7dMl](../../notes/dfgqzLtBSraAjWSlpZxJZw.md) | 金門 | 2026-08-31T16:05:00+00:00 | View mode |
 | [Bk_SXQmuGg](../../notes/TyQnLyy5R3SRvSFwLUvB7Q.md) | 社群小聚｜部落與聚落 | 2026-08-31T16:02:28+00:00 | View mode |
 | [SJsDmxPfGe](../../notes/1thatkFaTByXWPkbi8JcZQ.md) | 2027／07 至 10 月 第柒拾玖次公民科技跑咖松 | 2026-08-31T15:36:24+00:00 | View mode |

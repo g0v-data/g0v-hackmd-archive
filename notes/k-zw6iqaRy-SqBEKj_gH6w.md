@@ -7,17 +7,21 @@ tags: hackathon, jothon
 :::success
 g0v 黑客松（aka 大松）活動名稱大部分是參與者在活動前提案投票後命名的，讓你可以冠名 g0v 黑客松！
 
-本次大松：g0v 第柒拾陸次_______黑客松 Hackath76n
+本次大松：g0v 第柒拾陸次高屏共振黑客松 Hackath76n
 
-高雄場
+週六場
 - 活動時間：2027/01/09 週六 10:30-17:00
-- 活動地點：高雄市高鐵左營站共構大樓四樓
-- 報名網址：https://g0v.hackmd.io/@jothon/g0v-hackath76n
+- 活動地點：
+    - A：高雄市高鐵左營站共構大樓四樓
+    - B：g0v 臺北社群空間
+- 報名網址：https://g0v.hackmd.io/@jothon/g0v-hackathon
 
-屏東場
+週日場
 - 活動時間：2027/01/10 週日 10:30-17:00
-- 活動地點：屏東縣屏東市民生路4-17號，讀者城市空間
-- 報名網址：https://g0v.hackmd.io/@jothon/g0v-hackath76n
+- 活動地點：
+    - A：屏東縣屏東市民生路4-17號，讀者城市空間
+    - B：g0v 臺北社群空間
+- 報名網址：https://g0v.hackmd.io/@jothon/g0v-hackathon
 
 :::
 

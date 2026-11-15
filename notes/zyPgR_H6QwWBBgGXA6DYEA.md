@@ -5,11 +5,12 @@ tags: hackathon, jothon
 # 活動命名 Bookmode
 
 - [歷屆黑客松名稱一覽](https://jothon.g0v.tw/events/)[target=_blank]
+- [🔥🔥 2028 年度各場次黑客松](https://g0v.hackmd.io/jDcns09jQB-FGawwddNLkQ?view)
 - [2027/11 🔥 第捌拾次](https://g0v.hackmd.io/jXRW3NmPQISprRaOA6hphA?view)
 - [2027/07-10 第柒拾玖次公民科技跑咖松 g0v Civic Tech Hopping](https://g0v.hackmd.io/1thatkFaTByXWPkbi8JcZQ?view)
-- [2027/05 🔥 第柒拾捌次](https://g0v.hackmd.io/_kuWKonIRvW6HU9o09eEWg?view)
-- [2027/03 🔥🔥 第柒拾柒次](https://g0v.hackmd.io/4-nyFkwISE2VQ1JO6rRIyw?view)
-- [2027/01 🔥🔥 第柒拾陸次](https://g0v.hackmd.io/k-zw6iqaRy-SqBEKj_gH6w?view)
+- [2027/05 🔥🔥 第柒拾捌次](https://g0v.hackmd.io/_kuWKonIRvW6HU9o09eEWg?view)
+- [2027/03 第柒拾柒次嘉南羊年黑客松 Hackath77n](https://g0v.hackmd.io/4-nyFkwISE2VQ1JO6rRIyw?view)
+- [2027/01 第柒拾陸次高屏共振黑客松 Hackath76n](https://g0v.hackmd.io/k-zw6iqaRy-SqBEKj_gH6w?view)
 - [2026/11 第柒拾伍次投出未來黑客松 G0Vote Hackath75n](https://g0v.hackmd.io/lQoQZLwxSh29OdvMIBhnkA?view)
 - [2026/07-10 第柒拾肆次公民科技跑咖松 g0v Civic Tech Hopping](https://g0v.hackmd.io/ZQVAAa9CQv6-oa0BQIGLeQ?view)
 - [2026/05 動手自造黑客松 Braiding our Future Hackath73n](https://g0v.hackmd.io/XUtr4sErTbGRZpTeds_ukQ?view)

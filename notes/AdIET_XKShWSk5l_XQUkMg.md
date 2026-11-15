@@ -1,0 +1,1 @@
+[XX8](https://xx8.works/) là nền tảng giải trí trực tuyến với nhiều danh mục hấp dẫn như Casino, Slot Game, bắn cá và thể thao. Sở hữu giao diện trực quan, XX8 hướng đến trải nghiệm thuận tiện trên cả máy tính và điện thoại. Truy cập [https://xx8.works/](https://xx8.works/) để tìm hiểu thêm về thương hiệu. 

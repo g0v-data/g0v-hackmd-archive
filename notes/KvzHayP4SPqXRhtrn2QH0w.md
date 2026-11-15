@@ -2,13 +2,7 @@
 tags: hackathon, jothon
 ---
 
-## g0v 第柒拾伍次投出未來黑客松<br>G0Vote Hackath75n
-
-
-![](https://g0v.hackmd.io/_uploads/rJ7593Snfe.png)
-
-11/08 也是 世界都市日 World Urbanism Day & World Town Planning Day
-https://www.planning.org/international/worldtown/
+## g0v 第柒拾陸次高屏共振黑客松<br>G0Vote Hackath76n
 
 # What is a g0v hackathon ?
 
