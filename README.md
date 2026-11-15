@@ -2,7 +2,7 @@
 
 | Tag | 文章數 | 最新更新時間
 | --- | ------ | ------------
-| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 43119 | 2026-11-15T06:55:59+00:00 |
+| [未分類](tags/%E6%9C%AA%E5%88%86%E9%A1%9E.md) | 43120 | 2026-11-15T07:51:48+00:00 |
 | [digital-resilience](tags/digital-resilience.md) | 57 | 2026-11-14T14:04:22+00:00 |
 | [ resilience](tags/%20resilience.md) | 19 | 2026-11-14T14:04:22+00:00 |
 | [ internet-shutdown](tags/%20internet-shutdown.md) | 18 | 2026-11-14T14:04:22+00:00 |
