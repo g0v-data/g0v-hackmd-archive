@@ -2,7 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-15T18:31:58+00:00 | View mode |
+| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-15T22:34:43+00:00 | View mode |
 | [HJeJifQjgl](../../notes/_kuWKonIRvW6HU9o09eEWg.md) | 2027／05 g0v 大松命名 | 2026-11-15T18:05:03+00:00 | View mode |
 | [r1YnqGXjgg](../../notes/4-nyFkwISE2VQ1JO6rRIyw.md) | 2027／03 g0v 大松命名 | 2026-11-15T18:03:59+00:00 | View mode |
 | [B1erzPwRMe](../../notes/jDcns09jQB-FGawwddNLkQ.md) | 2028 年各場次大松命名 | 2026-11-15T17:53:12+00:00 | View mode |
