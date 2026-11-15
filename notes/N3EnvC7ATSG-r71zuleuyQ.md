@@ -320,7 +320,7 @@ https://linktr.ee/g0vjothon
 ---
 
 2027 1/09-1/10 g0v 第柒拾陸次高屏共振黑客松 Hackath76n
-- https://g0v.hackmd.io/@jothon/g0v-hackath76n
+- https://g0v.hackmd.io/@jothon/g0v-hackathon
 - 時間：01/09 週六 10:30-17:00
     - 高雄場地地點：高雄市左營區高鐵共構大樓四樓
     - 臺北場地地點：臺北市中正區重慶南路三段2號2樓
@@ -337,7 +337,7 @@ https://linktr.ee/g0vjothon
 ### 2027.03
 
 2027 3/6-3/7 g0v 第柒拾柒次嘉南羊年黑客松 Hackath77n
-- https://g0v.hackmd.io/@jothon/g0v-hackath77n
+- https://g0v.hackmd.io/@jothon/g0v-hackathon
 - 時間：3/6 週六 10:30-17:00
     - 地點：嘉義市謐巷空間，嘉義市西區民生北路215巷11號
 - 時間：3/7 週日 10:30-17:00
@@ -361,10 +361,9 @@ https://linktr.ee/g0vjothon
 ### 2027.05
 
 2027/05/23 週日 g0v 第柒拾捌次黑客松 Hackath78n
-- https://g0v.hackmd.io/@jothon/g0v-hackath78n
+- https://g0v.hackmd.io/@jothon/g0v-hackathon
 - 時間：5/23 週日 10:30-17:00
 - 地點：臺北市中正區重慶南路三段2號2樓
-
 
 ---
 
@@ -397,14 +396,13 @@ https://linktr.ee/g0vjothon
 
 ### 2027.10
 
-2027/10/30 週六 公民科技主題日 
-- 籌備構想：https://g0v.hackmd.io/@jothon/civictechon
 
 ---
 
 ### 2027.11
 
-2027/11/21 週日 g0v 黑客松，台北
+11/07 週日 g0v 黑客松暨公民科技主題日
+- 結合公民科技主題日：https://g0v.hackmd.io/@jothon/civictechon
 
 ---
 
@@ -412,20 +410,43 @@ https://linktr.ee/g0vjothon
 
 ### 2028.01
 
+01/09 週日 g0v 黑客松
+- 地點：高雄市
+
 ### 2028.02
 
 ### 2028.03
+
+03/05 週日 g0v 黑客松
+- 地點：台南好想工作室
 
 ### 2028.04
 
 ### 2028.05
 
+05/28 週日 g0v 黑客松
+- 地點：g0v 台北社群空間，重慶南路三段2號2樓
+
 ### 2028.06
+
+### 2028.07
+
+07/16 週日 g0v 黑客松
+
+### 2028.08
+
+### 2028.09
+
+09/24 週日 g0v 黑客松
+
+### 2028.10
 
 ### 2028.11
 
-11/04 週六 公民科技主題日 
-- 籌備構想：https://g0v.hackmd.io/@jothon/civictechon
+11/05 週日 g0v 黑客松暨公民科技主題日 
+- 地點：g0v 台北社群空間，重慶南路三段2號2樓
+- 日期：11/05 週日
+- 流程內容：整合 Civic Tech Day https://g0v.hackmd.io/@jothon/civictechon
 
 ## [每月 Monthly] Social Hack Day 🌟 Code for Japan
 
@@ -548,6 +569,15 @@ https://g0v.hackmd.io/@jothon/hsiaothon/
 :::info
 揪松團 兩個月舉辦一次黑客松，近年是預設挑選奇數月
 列舉 衝突注意、正向加成 (例如海外假期回國時間段) 的選日子注意事項，歡迎共筆
+
+g0v 黑客松擇日筆記：
+- 1 月，要看每年過年日期來調整
+- 3 月的第一個週日
+- 5 月的最後一個週日或倒數第二個週日
+- 7 月通常都選月中，此月份無國定假日，彈性大
+- 9 月選擇 9/20 軟體自由日當週週日
+- 11 月的第一個週日，並結合 Civic Tech Day 內容
+
 :::
 
 
@@ -619,11 +649,13 @@ https://g0v.hackmd.io/@jothon/hsiaothon/
 - 加乘節日
     - 9/13 因為是第 256 天，所以有「程式設計師節 Programmer's Day」之稱
     - 9/20 是「軟體自由日 Software Freedom Day」
+        - 可以採用 9/20 當週週六週日
 
 十月
 - 已知活動
     - mopcon 10 月
     - HITCON 2024.10.23
+    - 臺灣同志遊行，每年十月底最後一個週六
 - 10/24 g0v.tw 註冊
 - Civic Tech ON (October+November)
     - https://g0v.hackmd.io/@jothon/civictechon/
@@ -642,6 +674,7 @@ https://g0v.hackmd.io/@jothon/hsiaothon/
     - Civic Tech ON (October+November)
         - https://g0v.hackmd.io/@jothon/civictechon/
         - 每年 10/31 當週的週六，有時候會落在 11 月初
+        - 可評估「11 月的第一個週末」
 - 20261101 週日上午下午晚上 g0v 黑客松，投票前
     - 1/1 週五放假，當週形成三天連假
     - 12/25 週五放假，當週形成三天連假

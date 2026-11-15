@@ -2,10 +2,11 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [B1erzPwRMe](../../notes/jDcns09jQB-FGawwddNLkQ.md) | 2028 年各場次大松命名 | 2026-11-15T16:59:45+00:00 | View mode |
-| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-15T16:56:36+00:00 | View mode |
+| [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-15T18:00:02+00:00 | View mode |
+| [B1erzPwRMe](../../notes/jDcns09jQB-FGawwddNLkQ.md) | 2028 年各場次大松命名 | 2026-11-15T17:53:12+00:00 | View mode |
+| [SJsDmxPfGe](../../notes/1thatkFaTByXWPkbi8JcZQ.md) | 2027／07 至 10 月 第柒拾玖次公民科技跑咖松 | 2026-11-15T17:47:49+00:00 | View mode |
+| [SJhfElwGGg](../../notes/jXRW3NmPQISprRaOA6hphA.md) | 2027／11 g0v 大松命名 | 2026-11-15T17:46:54+00:00 | View mode |
 | [HJNDn3e7C](../../notes/zyPgR_H6QwWBBgGXA6DYEA.md) | 活動命名 Bookmode | 2026-11-15T16:49:28+00:00 | Book mode |
-| [SJhfElwGGg](../../notes/jXRW3NmPQISprRaOA6hphA.md) | 2027／11 g0v 大松命名 | 2026-11-15T16:47:18+00:00 | View mode |
 | [Hy1S5Mmjel](../../notes/k-zw6iqaRy-SqBEKj_gH6w.md) | 2027／01 g0v 大松命名 | 2026-11-15T16:43:22+00:00 | View mode |
 | [HJMvgwP0zx](../../notes/VfQVXR8OTyu8hlDltdwNWg.md) | g0v Hackathan | 2026-11-15T16:41:11+00:00 | Book mode |
 | [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | What is a g0v hackathon ? | 2026-11-15T16:27:17+00:00 | View mode |
@@ -66,7 +67,6 @@
 | [HJeJifQjgl](../../notes/_kuWKonIRvW6HU9o09eEWg.md) | 2027／05 g0v 大松命名 | 2026-09-02T02:18:24+00:00 | View mode |
 | [SJAaSX7dMl](../../notes/dfgqzLtBSraAjWSlpZxJZw.md) | 金門 | 2026-08-31T16:05:00+00:00 | View mode |
 | [Bk_SXQmuGg](../../notes/TyQnLyy5R3SRvSFwLUvB7Q.md) | 社群小聚｜部落與聚落 | 2026-08-31T16:02:28+00:00 | View mode |
-| [SJsDmxPfGe](../../notes/1thatkFaTByXWPkbi8JcZQ.md) | 2027／07 至 10 月 第柒拾玖次公民科技跑咖松 | 2026-08-31T15:36:24+00:00 | View mode |
 | [r1r42GXdfg](../../notes/oC6aCXPbR8KH2txBL1GwCw.md) | 社群小聚｜南投與埔里 | 2026-08-31T15:24:05+00:00 | View mode |
 | [rkWbVhDyfg](../../notes/OVCKhe3eTrOYYioJUuOvCA.md) | 社群小聚｜雲林 | 2026-08-31T15:21:24+00:00 | View mode |
 | [HyNCdGuGfe](../../notes/A014I2MSQXS4aQB1NU_KuQ.md) | 屏東 | 2026-08-30T23:57:46+00:00 | View mode |

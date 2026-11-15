@@ -26,7 +26,7 @@ https://g0v.hackmd.io/@jothon/meetup/https%3A%2F%2Fg0v.hackmd.io%2FOVCKhe3eTrOYY
 9/19 週日 縣市+大學：南投中興新村+中興大學南投分部 https://nantou.nchu.edu.tw/education/
 https://g0v.hackmd.io/@jothon/meetup/https%3A%2F%2Fg0v.hackmd.io%2FoC6aCXPbR8KH2txBL1GwCw%3Fview
 
-10/30 週六 台中
+11/07 週六 台中：g0v 第捌拾次黑客松 Hackath80n & Civic Tech Day
 https://g0v.hackmd.io/@jothon/civictechon
 
 ---
