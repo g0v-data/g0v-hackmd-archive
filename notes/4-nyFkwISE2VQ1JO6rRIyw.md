@@ -9,15 +9,13 @@ g0v 黑客松（aka 大松）活動名稱大部分是參與者在活動前提案
 
 本次大松：g0v 第柒拾柒次_______黑客松 Hackath77n
 
-嘉義場黑客松
 活動時間：20270306 週六
-活動地點：謐巷 𝐌𝐄 𝐋𝐀𝐍𝐄，嘉義市西區民生北路215巷11號 https://maps.app.goo.gl/G1kXYQNynYAxB1xU9
-報名網址：https://g0v.hackmd.io/@jothon/g0v-hackath77n
+- 活動地點：謐巷 𝐌𝐄 𝐋𝐀𝐍𝐄，嘉義市西區民生北路215巷11號 https://maps.app.goo.gl/G1kXYQNynYAxB1xU9
+- 報名網址：https://g0v.hackmd.io/@jothon/g0v-hackathon
 
-臺南場黑客松
 活動時間：20270307 週日
-活動地點：台南好想工作室，臺南市中西區友愛街117號2樓 https://maps.app.goo.gl/STHQCcEK69vHzzNT8
-報名網址：https://g0v.hackmd.io/@jothon/g0v-hackath77n
+- 活動地點：台南好想工作室，臺南市中西區友愛街117號2樓 https://maps.app.goo.gl/STHQCcEK69vHzzNT8
+- 報名網址：https://g0v.hackmd.io/@jothon/g0v-hackathon
 
 :::
 

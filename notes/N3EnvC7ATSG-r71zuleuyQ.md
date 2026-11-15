@@ -402,6 +402,7 @@ https://linktr.ee/g0vjothon
 ### 2027.11
 
 11/07 週日 g0v 黑客松暨公民科技主題日
+- https://g0v.hackmd.io/@jothon/g0v-hackathon
 - 結合公民科技主題日：https://g0v.hackmd.io/@jothon/civictechon
 
 ---
@@ -412,6 +413,7 @@ https://linktr.ee/g0vjothon
 
 01/09 週日 g0v 黑客松
 - 地點：高雄市
+- 活動資訊：https://g0v.hackmd.io/@jothon/g0v-hackathon
 
 ### 2028.02
 
@@ -419,6 +421,7 @@ https://linktr.ee/g0vjothon
 
 03/05 週日 g0v 黑客松
 - 地點：台南好想工作室
+- 活動資訊：https://g0v.hackmd.io/@jothon/g0v-hackathon
 
 ### 2028.04
 
@@ -426,18 +429,23 @@ https://linktr.ee/g0vjothon
 
 05/28 週日 g0v 黑客松
 - 地點：g0v 台北社群空間，重慶南路三段2號2樓
+- 活動資訊：https://g0v.hackmd.io/@jothon/g0v-hackathon
 
 ### 2028.06
 
 ### 2028.07
 
 07/16 週日 g0v 黑客松
+- 地點：待定
+- 活動資訊：https://g0v.hackmd.io/@jothon/g0v-hackathon
 
 ### 2028.08
 
 ### 2028.09
 
 09/24 週日 g0v 黑客松
+- 地點：待定
+- 活動資訊：https://g0v.hackmd.io/@jothon/g0v-hackathon
 
 ### 2028.10
 
@@ -446,6 +454,7 @@ https://linktr.ee/g0vjothon
 11/05 週日 g0v 黑客松暨公民科技主題日 
 - 地點：g0v 台北社群空間，重慶南路三段2號2樓
 - 日期：11/05 週日
+- 活動資訊：https://g0v.hackmd.io/@jothon/g0v-hackathon
 - 流程內容：整合 Civic Tech Day https://g0v.hackmd.io/@jothon/civictechon
 
 ## [每月 Monthly] Social Hack Day 🌟 Code for Japan
@@ -570,14 +579,22 @@ https://g0v.hackmd.io/@jothon/hsiaothon/
 揪松團 兩個月舉辦一次黑客松，近年是預設挑選奇數月
 列舉 衝突注意、正向加成 (例如海外假期回國時間段) 的選日子注意事項，歡迎共筆
 
-g0v 黑客松擇日筆記：
+揪松團主辦的活動，擇日筆記：
 - 1 月，要看每年過年日期來調整
-- 3 月的第一個週日
+    - g0v 黑客松，建議地點於高雄與屏東
+- 3 月的第一個週末
+    - g0v 黑客松，建議地點於嘉義與臺南
 - 5 月的最後一個週日或倒數第二個週日
-- 7 月通常都選月中，此月份無國定假日，彈性大
-- 9 月選擇 9/20 軟體自由日當週週日
-- 11 月的第一個週日，並結合 Civic Tech Day 內容
-
+    - g0v 黑客松，建議地點於臺北或臺中
+- 7 月 8 月 9 月 10 月
+    - 可評估 各縣市跑咖松模式 https://g0v.hackmd.io/@jothon/meetup
+    - 7 月通常選月中，此月份無國定假日，彈性大
+    - 8 月通常選月中，此月份無國定假日，彈性大
+    - 9 月選擇 9/20 軟體自由日當週週日，也是開學後，教師節前
+    - 10 月選擇月初或月中，避開當年的連假區間
+- 11 月的第一個週日
+    - g0v 黑客松，並結合 Civic Tech Day 內容
+    - 地點可以評估在臺北或臺中
 :::
 
 

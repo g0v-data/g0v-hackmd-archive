@@ -36,6 +36,7 @@ g0v Slack Channel Guide 頻道傳送門
 #changhua-彰化 彰化討論群組！
 #yunlin-雲林 雲林討論群組！
 #nantou-南投 南投討論群組！
+#南投縣_埔里_puli
 #yilan-宜蘭
 #hualien 花蓮討論群組！
 #taitung-台東
@@ -43,9 +44,10 @@ g0v Slack Channel Guide 頻道傳送門
 #kinmen-金門 金門討論群組！
 #matsu 馬祖討論群組！
 #keelung 基隆討論群組
+#taipei_臺北市
 #newtaipei_新北市
 #newtaipei_永和中和雙和 
-#taipei_臺北市
+#林口與龜山_linkou_guishan
 #taoyuan-桃園
 #hsinchu-新竹
 #miaoli_苗栗
@@ -54,6 +56,7 @@ g0v Slack Channel Guide 頻道傳送門
 #asia-civic-tech
 #japan
 #japan-tokyo-bay-東京湾-とうきょうわん
+#japan_近畿地方_きんきちほう_關西地方_かんさいちほう
 #hk https://github.com/g0vhk-io
 #hkpwparagliding 飛行傘計畫
 #macao_澳門
@@ -74,6 +77,7 @@ g0v Slack Channel Guide 頻道傳送門
 #indonesia-印尼
 #australia 澳洲
 #newzealand_紐西蘭 
+#tuvalu_吐瓦魯
 #pacific_太平洋
 #north-america 想在美國協作的可以來這邊聊天喔！
 #g0v-siliconvalley g0v 矽谷灣區小聚
@@ -85,6 +89,7 @@ g0v Slack Channel Guide 頻道傳送門
 #ukraine
 #suomi_finland_芬蘭
 #sweden
+#lietuvos_lithuania_立陶宛
 #polska_poland_波蘭
 #ceska_czechia_捷克
 #netherlands_荷蘭
@@ -172,6 +177,7 @@ g0v Slack Channel Guide 頻道傳送門
 #幼兒發展調查資料庫
 #moedict 萌典、字典
 #amis 阿美語萌典
+#kari_truku_太魯閣語
 #itaigi 愛台語 對漢字佮台羅誠熟手，做伙鬥校對巡喲
 #chhoetaigi ChhoeTaigi 台語辭典⁺
 #taiwanbooks 矽谷圖書館台灣書籍植入計畫 Silicon Valley Library Taiwan Book Insertion Project
@@ -204,6 +210,7 @@ g0v Slack Channel Guide 頻道傳送門
 #edu-camp 零時小學校 營隊活動頻道
 #edu-sch001ing 零時小學校 講師與教案交流頻道
 #students
+#open-student-org 學生開放自治社群 | Student Open Governance Associated Community 關心臺灣各級學校學生自治之開放治理發展現況
 #edu-open-stu-association
 #edu-unicourse 大學課程資訊交流平臺
 #edu-ntu 臺大相關課程活動的頻道
