@@ -198,7 +198,13 @@ https://nianfo.app/sutras
 
 
 PISA 2025 臺灣科學教育調查視覺化網頁
-https://thyan-arch.github.io/guess-taiwan-pisa/?
+https://thyan-arch.github.io/guess-taiwan-pisa/
+
+生育門檻可視化
+https://popolab-tw.github.io/next-gen/map/
+https://www.threads.com/share/BBNLsrP3wm
+
+
 
 -------
 
