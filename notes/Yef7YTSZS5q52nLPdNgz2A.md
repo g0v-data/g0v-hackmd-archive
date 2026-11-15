@@ -56,6 +56,7 @@ g0v 台北社群空間_小松果 🌰 🐿️
 - [No.] 1129 週日下午 [第拾柒次數位韌性松](https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/%2FZY-JjtljRdqsunoqRmztCg)
 - 1127 週五 冷氣濾網清洗
 - [No.] 1124 週二晚上 20:00 Cofacts 社群週會
+- [No. ]
 - [No.] 1121 週六下午暫訂國會松
 - [No.] 1117 週二晚上 20:00 Cofacts 社群週會
 - [No.] 1117 週二下午 淡江建築系課程_都市水環境交流 (接洽 by chewei)
