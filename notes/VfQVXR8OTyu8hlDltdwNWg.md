@@ -1,5 +1,5 @@
 ---
-tags:
+tags: hackathon,
 ---
 
 # g0v Hackathan

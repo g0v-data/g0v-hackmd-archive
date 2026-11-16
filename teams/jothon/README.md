@@ -2,6 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [SyJi0ww7zg](../../notes/bHWPJT4YQve1VT36x5v4kQ.md) | 澎湖 | 2026-11-16T02:56:45+00:00 | View mode |
+| [HJMvgwP0zx](../../notes/VfQVXR8OTyu8hlDltdwNWg.md) | g0v Hackathan | 2026-11-16T02:56:07+00:00 | Book mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-11-15T23:51:51+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-15T22:34:43+00:00 | View mode |
 | [HJeJifQjgl](../../notes/_kuWKonIRvW6HU9o09eEWg.md) | 2027／05 g0v 大松命名 | 2026-11-15T18:05:03+00:00 | View mode |
@@ -11,7 +13,6 @@
 | [SJhfElwGGg](../../notes/jXRW3NmPQISprRaOA6hphA.md) | 2027／11 g0v 大松命名 | 2026-11-15T17:46:54+00:00 | View mode |
 | [HJNDn3e7C](../../notes/zyPgR_H6QwWBBgGXA6DYEA.md) | 活動命名 Bookmode | 2026-11-15T16:49:28+00:00 | Book mode |
 | [Hy1S5Mmjel](../../notes/k-zw6iqaRy-SqBEKj_gH6w.md) | 2027／01 g0v 大松命名 | 2026-11-15T16:43:22+00:00 | View mode |
-| [HJMvgwP0zx](../../notes/VfQVXR8OTyu8hlDltdwNWg.md) | g0v Hackathan | 2026-11-15T16:41:11+00:00 | Book mode |
 | [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | What is a g0v hackathon ? | 2026-11-15T16:27:17+00:00 | View mode |
 | [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | 資料登載工作頁面 & 收錄原則探討 | 2026-11-15T09:28:37+00:00 | View mode |
 | [ry9tadGjkl](../../notes/vywr30o0Ssqpn3orwM4ePQ.md) | 健康的 g0ver / 健康風險意識 內容蒐集 | 2026-11-13T13:12:28+00:00 | View mode |
@@ -63,7 +64,6 @@
 | [SkGS-jwJzx](../../notes/xt2YlHBSSzWhPAO65XnmMg.md) | <center>公民科技行動指引<br>Civic Tech Guide</center> | 2026-09-05T06:22:17+00:00 | View mode |
 | [rkVx1GUCWe](../../notes/rO5b1GLFQY-njG5vOqx1bw.md) | 公民科技行動指引 Guide | 2026-09-05T06:21:48+00:00 | Book mode |
 | [S1LstNNH6](../../notes/8_z1xqCwQH-np8Zu9iBOkw.md) | 最新活動資訊請至以下網址 | 2026-09-02T10:20:02+00:00 | View mode |
-| [SyJi0ww7zg](../../notes/bHWPJT4YQve1VT36x5v4kQ.md) | 澎湖 | 2026-09-02T08:51:36+00:00 | View mode |
 | [SJkN2cwyze](../../notes/7bid8DlMSg2xC8ydTMoYag.md) | 生態 | 2026-09-02T02:37:12+00:00 | View mode |
 | [SJAaSX7dMl](../../notes/dfgqzLtBSraAjWSlpZxJZw.md) | 金門 | 2026-08-31T16:05:00+00:00 | View mode |
 | [Bk_SXQmuGg](../../notes/TyQnLyy5R3SRvSFwLUvB7Q.md) | 社群小聚｜部落與聚落 | 2026-08-31T16:02:28+00:00 | View mode |
