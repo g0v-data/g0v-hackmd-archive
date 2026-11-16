@@ -4,65 +4,68 @@ tags: civictech
 
 # 資料登載工作頁面 & 收錄原則探討
 
+:::info
+[TOC]
+:::
+
+---
+
+
+## 國際對照舉例筆記區
+
+流產蒐集器具
+https://www.facebook.com/share/17FrD5uMuX/
+
+日本防窮 API
+https://g0v.hackmd.io/@summit2026/H1EqQBc0bl/%2FFpw7r2-7QRKdJFuQcxJl6g
+
+---
+
 ## 討論納入評估原則
 ．插不插電均可，例如堆肥箱方案開源與同好支持社群
 ．清單資料欄位新增「是否開源」
+．若非開源，一定要有免費使用版本
 ．【能否使用】使用者馬上可以運用 vs 必須經由篩選才能取得使用機會 vs 沒有公開使用管道
 ．需要設置 新增&異議 意見回報機制
 
+---
 
-## 待處理資料
+## 不一定能登載
 
-https://data.openfun.tw
-https://data.openfun.tw/knowledge/quick-start
+### 【可能與目前法律相衝突】
 
-【有使用開放資料的民間專案】
-https://data.gov.tw/applications
-
-【台灣獨立開發者專案列表】收錄台灣獨立開發者的網站、App、遊戲與開源作品
-https://lianghsun.github.io/awesome-taiwan-project/
-
-【政府開源專案】
-公共程式 https://code.gov.tw/
-政府單位程式放在 GitHub  https://g0v.hackmd.io/bt4AsE2mQy-gFGaU-PvQqA?view
-
-【政府非開源的服務】
-會適合納入嗎？
-網詐通報查詢網
-https://www.facebook.com/share/19Hy3x3fwg/
-中研院百年歷史地圖
-災害潛勢地圖
-BigGIS
-
-【偏向指引心法，或是開一個蒐集】
-
-明確議題，讓民意代表候選人連署得網頁
-https://ngtu.org/whitepaper
-例如 議題推廣結合心理測驗 https://g0v.hackmd.io/Y7qSwSppRQefWU53GK2ioQ
-
-【鄉民建資料，民間蒐集的資料集】
-https://docs.google.com/spreadsheets/d/1IlK6XpIbnL6nW-UjGw363KcmzGNGmEAsAk0rs0qQuYc/edit?gid=0#gid=0
-
-
-【一種類型情境】
 揭露犯罪者資訊的網頁
 https://g0v.hackmd.io/Q-wOZ_O8QXWoUhSLYj6FbQ?view
 
-【有這個計畫，但似乎沒有網站或公開頁面，但也並非找不到團隊】
+### 【有這個計畫，但似乎沒有網站或公開頁面，但也並非找不到團隊】
+
 手語辨識廠商
 https://www.facebook.com/share/v/1B8CBjzzXf/
+
 森林「天眼巡護山林」系統 https://www.facebook.com/share/p/1NQkFWswYD/
+
 SEL App https://www.edtech.tw/post/sel-%E6%95%99%E8%82%B2%E6%96%B0%E9%9D%A9%E5%91%BD%EF%BC%81%E7%B1%BD%E6%A8%82%E5%8D%B3%E5%B0%87%E6%8E%A8%E5%87%BA%E6%83%85%E7%B7%92%E6%95%99%E8%82%B2-app%EF%BC%8C%E8%AE%93%E6%AF%8F%E5%80%8B%E8%A6%AA%E5%AD%90%E9%83%BD%E8%83%BD%E6%9B%B4%E6%87%82%E8%87%AA%E5%B7%B1
+
 Fovy 技能歷程 https://linktr.ee/FOVY
+
 張老師 AI https://wabay.tw/collab/1980/ https://www.facebook.com/share/1CtTjDoczk/
+
 AI陪伴失智照護新模式 https://www.facebook.com/yuanliyuyu/posts/pfbid08TFwek1xU4YkbEJJnVuKv6JqEzLc7eM8rfact3crGt6gQq87xnUqeBGumjGZmb7nl
 
-------------------------
+### 【沒有常態免費使用版本】
 
-【免費版】
+商業產品_沒有免費使用版本 https://bleichrodersmessage.com/tc/parnassus/
+
+排班系統工具_訂閱方案註冊免費試用兩週 https://home.st2el.online/faq.html
+
+---
+
+## 還算可以登載
+
+### 【免費版】
+
 登山輔助工具 https://peakit.tw/
-數位登山
-https://hiking.aimingdata.com/
+數位登山 https://hiking.aimingdata.com/
 火燒雲預測網站：https://fc.nekolens.tw/
 
 都市生物，議題遊戲化
@@ -114,33 +117,64 @@ https://www.facebook.com/share/v/1FAJJ3ZQ6p/
 https://archi-prompt.com/
 https://www.facebook.com/share/1Bj3B5aRgR/
 
-【指引手冊類】
+### 【有使用開放資料的民間專案，且有提供免費使用方案，且具有一定的公共意義】
+
+要逐一檢視
+https://data.gov.tw/applications
+
+### 【台灣獨立開發者專案列表，且有提供免費使用方案，且具有一定的公共意義】
+
+要逐一檢視
+https://lianghsun.github.io/awesome-taiwan-project/
+
+### 【政府非開源的服務_但屬於關鍵資料集】會適合納入嗎？
+
+網詐通報查詢網 https://www.facebook.com/share/19Hy3x3fwg/
+
+中研院百年歷史地圖
+
+災害潛勢地圖
+
+BigGIS
+
+---
+
+## 可以立刻登載
+
+### 【偏向指引心法，或是開一個蒐集】
+
+明確議題，讓民意代表候選人連署得網頁
+https://ngtu.org/whitepaper
+例如 議題推廣結合心理測驗 https://g0v.hackmd.io/Y7qSwSppRQefWU53GK2ioQ
+
+### 【政府開源專案】
+
+公共程式 https://code.gov.tw/
+政府單位程式放在 GitHub  https://g0v.hackmd.io/bt4AsE2mQy-gFGaU-PvQqA?view
+
+
+### 【鄉民建資料，民間蒐集的資料集】
+
+https://docs.google.com/spreadsheets/d/1IlK6XpIbnL6nW-UjGw363KcmzGNGmEAsAk0rs0qQuYc/edit?gid=0#gid=0
+
+
+### 【指引手冊類】
 
 地方實踐指南｜https://guide.mountcounty.com/
 https://www.facebook.com/share/p/1EzBCWvT4x/
-生動盟《我們想這樣生小孩！陪伴孕產旅程的行動手冊》
-https://www.facebook.com/share/p/1EZYQNjdRU/
-《台灣維修社群-小家電維修報告》
-https://nothingisgarbage.com/repair-statistics/
+
 機器人友善環境指引
 https://www.facebook.com/share/v/1FTSzYGEZC/
-防青少年網路風險，台少盟研發全台首款數位安全互動遊戲
-https://www.facebook.com/share/17fQ14kHeQ/
 
-
-【開源開放類，登載沒啥問題】登載後即刪除
-
-《報導者》推出的走路模擬器，帶你用10歲左右小孩的身高視角、坐輪椅的視角上下學
-https://www.facebook.com/share/1Hd5HGMh6P/
-
-美國台灣觀測站
+### 【開源開放類，登載沒啥問題】登載後即刪除
 
 反偷拍
 https://www.instagram.com/p/DfCgvDMn2e-/?dlrf=MWszamFlbzdkcWg4eQ==
 
-https://tdal.tw
+
 Call-in 簡單叩應
 https://www.facebook.com/share/18Lfw3hEzW/
+
 DMAT 災難醫療 AI 資訊整合與動態指揮智慧平台
 展示影片：https://youtu.be/lRxgryqMyig
 說明簡報：https://www.canva.com/design/DAHQlwq42qA/n75Y9docaKMxvB7Vn7MmYQ/view
@@ -151,21 +185,16 @@ https://www.facebook.com/share/p/1Ew9JwtaXd/
 專案工具
 https://www.facebook.com/share/1BfpgzAgfL/
 
-選舉類資料
-https://www.taiwanvotes.tw/
-Tokyo Taiwan Radar
-https://tokyo-taiwan-radar.vercel.app/
-CIDS @ Participedia
-https://participedia.net/search?selectedCategory=all&query=CIDS
-企業調查
-https://shopyourvalues.app/
-方案方法：搭配 AirTag 將 iPhone「尋找」操作介面，製作為友善視障朋友的立體說明書，視障朋友可透過觸覺，得知重要按鈕的位置
-https://g0v.hackmd.io/BdqvsaUARmuw1qbc6kvjaA?view
-🌿 微氣候與環境綠化互動地圖 https://pse.is/9ea6ft
-💧 信水義河互動地圖與回饋平台 https://pse.is/9ea6g8
+
+微氣候與環境綠化互動地圖 https://pse.is/9ea6ft
+
+信水義河互動地圖與回饋平台 https://pse.is/9ea6g8
+
 空間類 GitHub 
 https://www.hjplusdesign.com/hjplus_open_source_projects/
+
 Google 系列工具用於教育行政減量，有 GITHUB https://www.facebook.com/share/p/1D7Jri6f8T/
+
 衛星追蹤
 https://www.facebook.com/share/p/1GkdbyRMfg/
 https://sat.xionglala.space/
@@ -206,15 +235,6 @@ https://www.threads.com/share/BBNLsrP3wm
 
 
 
--------
 
-國際對照
-流產蒐集器具
-https://www.facebook.com/share/17FrD5uMuX/
-防窮 API
 
---------
 
-商業產品
-https://bleichrodersmessage.com/tc/parnassus/
-https://home.st2el.online/faq.html

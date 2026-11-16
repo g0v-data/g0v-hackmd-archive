@@ -74,10 +74,8 @@ https://forms.gle/gtV9aYyW2GH4mztk7
 本工作文件
 https://g0v.hackmd.io/@jothon/civictech_doc
 
-Project List 公民科技專案清單瀏覽網址
+Project List 公民科技專案 + 公民科學與群眾參與型計畫 彙整清單瀏覽網址
 https://airtable.com/app2R1DOrrO9iysOr/shrHT6ylhRFHqOdfv/tblsXkbTpx2tylp89/viws0OSzkhZwVkSlh
-Project List 公民科學與群眾參與型計畫清單瀏覽網址
-https://airtable.com/appAilQ8XpcZkvBko/shrJwHQ3VYSb27i4o
 
 公民科技行動指引
 https://civictech.tw/
@@ -86,9 +84,9 @@ https://g0v.hackmd.io/@jothon/guide
 NotebookLM 對話測試
 https://notebooklm.google.com/notebook/1d609458-7ef5-4b50-afbc-13ad31ea375e
 
-Landing Page 內容測試網頁
-https://cooldongdong.github.io/civictech.tw/
-https://sites.google.com/view/civictechtw/
+Landing Page
+https://civictech.tw/
+
 
 :::
 

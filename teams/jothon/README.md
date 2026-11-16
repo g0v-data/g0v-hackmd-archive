@@ -2,6 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [B1RUK6tb-e](../../notes/zkWf3uJDQA6mp7FfqzfIsQ.md) | <center>公民科技及數位工具應用指南與支持網絡</center> | 2026-11-16T03:50:41+00:00 | View mode |
+| [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | 資料登載工作頁面 & 收錄原則探討 | 2026-11-16T03:31:43+00:00 | View mode |
 | [SyJi0ww7zg](../../notes/bHWPJT4YQve1VT36x5v4kQ.md) | 澎湖 | 2026-11-16T02:56:45+00:00 | View mode |
 | [HJMvgwP0zx](../../notes/VfQVXR8OTyu8hlDltdwNWg.md) | g0v Hackathan | 2026-11-16T02:56:07+00:00 | Book mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-11-15T23:51:51+00:00 | View mode |
@@ -14,7 +16,6 @@
 | [HJNDn3e7C](../../notes/zyPgR_H6QwWBBgGXA6DYEA.md) | 活動命名 Bookmode | 2026-11-15T16:49:28+00:00 | Book mode |
 | [Hy1S5Mmjel](../../notes/k-zw6iqaRy-SqBEKj_gH6w.md) | 2027／01 g0v 大松命名 | 2026-11-15T16:43:22+00:00 | View mode |
 | [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | What is a g0v hackathon ? | 2026-11-15T16:27:17+00:00 | View mode |
-| [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | 資料登載工作頁面 & 收錄原則探討 | 2026-11-15T09:28:37+00:00 | View mode |
 | [ry9tadGjkl](../../notes/vywr30o0Ssqpn3orwM4ePQ.md) | 健康的 g0ver / 健康風險意識 內容蒐集 | 2026-11-13T13:12:28+00:00 | View mode |
 | [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-11-13T10:34:11+00:00 | View mode |
 | [rkRYZt-9Ze](../../notes/ru-7S6xsQL-1pXmTRXPAmg.md) | 製作「面紙包」用於發送 | 2026-11-12T15:53:35+00:00 | View mode |
@@ -25,7 +26,6 @@
 | [HJiDSv76Ge](../../notes/Dm4FpkkTRQ-uWN1SAiOmnA.md) | 學區地理資料 | 2026-11-10T14:48:52+00:00 | View mode |
 | [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-11-09T14:04:25+00:00 | View mode |
 | [H1IgVnPkGg](../../notes/G2NrbqCXR2u7VQnl5SG9UQ.md) | 社群小聚｜彰化 | 2026-11-06T19:11:04+00:00 | View mode |
-| [B1RUK6tb-e](../../notes/zkWf3uJDQA6mp7FfqzfIsQ.md) | <center>公民科技及數位工具應用指南與支持網絡</center> | 2026-11-05T09:01:13+00:00 | View mode |
 | [ry5TjRBhD](../../notes/hkqwwNqfQ9OPLIamC5QW-g.md) | g0v 賀年卡與賀年詞募集<br>New Year's Cards and Greeting Phrases | 2026-11-04T14:10:44+00:00 | View mode |
 | [ryvfY7v5xe](../../notes/ARUbzVynRga6J8SUgiCgGw.md) | 交流推廣活動 Outreach & Exchange Events & Outcomes | 2026-11-03T14:20:31+00:00 | View mode |
 | [By8R5AED1l](../../notes/jVVaW4VVS7qV51Af_OGV7g.md) | Jothon SNS | 2026-11-03T13:57:27+00:00 | View mode |

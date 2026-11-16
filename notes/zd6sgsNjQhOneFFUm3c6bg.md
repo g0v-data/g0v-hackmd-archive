@@ -15,7 +15,14 @@ tags: 公民科學
 4.  你認為與公民科學十分相關的領域，例如儀器自造、群眾募資、環境影響評估法的通過、部落自主運動...等等
 5.  浮現的討論，例如「科學」與「公民」的認定...
 
-2025.02.22
+## 2026.11.16 資料清單已併入 civictech.tw
+
+- 網站瀏覽：https://civictech.tw/
+- 可介接資料 API：https://data.civictech.tw/
+- 可供瀏覽 Airtable：https://airtable.com/app2R1DOrrO9iysOr/shrHT6ylhRFHqOdfv/tblDkM54gu9kbmAbW/viwhlrSCWjkcjNFJi
+
+## 2025.02.22 介紹影片
+
 <iframe width=100% height="450" src="https://www.youtube.com/embed/p34blwTIUo4?si=UicgKU5KJG23jlRV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width=100% height="450" src="https://www.youtube.com/embed/ikLSAemVUFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -23,8 +30,8 @@ tags: 公民科學
 ## 常用工作連結
 ### ==Docs 共筆文件：https://g0v.hackmd.io/@chewei/crowdtribute/==
 ### ==Group 歡迎加入討論社團：https://www.facebook.com/groups/437659989769965==
-### ==Data 公民科學與群眾參與計畫基本資訊資料集：http://bit.ly/3aRISGp==
-### ==Web 查找網頁 (試作)：http://bit.ly/citizen-science-tw==
+### ==Data 公民科學與群眾參與計畫基本資訊資料集：https://civictech.tw/==
+### ==Web 查找網頁：https://civictech.tw/==
 ### ==Poll [意見蒐集] 你覺得什麼是公民科學？：https://pol.is/7nai2k==
 
 <iframe src="https://pol.is/7nai2k" width=100% height="1000"></iframe>
