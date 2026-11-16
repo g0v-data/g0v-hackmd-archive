@@ -1,0 +1,1 @@
+<a href="https://j88.rent/">J88</a> là nền tảng giải trí trực tuyến mang đến nhiều lựa chọn hấp dẫn dành cho người dùng yêu thích trải nghiệm giải trí hiện đại. Với giao diện thân thiện, danh mục đa dạng và khả năng truy cập thuận tiện, J88 hướng đến việc tạo nên không gian giải trí thú vị và dễ sử dụng. 

@@ -28,7 +28,7 @@ https://g0v.hackmd.io/@summit2026/H1EqQBc0bl/%2FFpw7r2-7QRKdJFuQcxJl6g
 ．【能否使用】使用者馬上可以運用 vs 必須經由篩選才能取得使用機會 vs 沒有公開使用管道
 ．需要設置 新增&異議 意見回報機制
 
-## 標籤使用探討筆記ㄊㄊ
+## 標籤使用探討筆記
 
 「群眾外包」這個標籤
 - 明確貢獻資料
@@ -133,6 +133,10 @@ https://data.gov.tw/applications
 
 要逐一檢視
 https://lianghsun.github.io/awesome-taiwan-project/
+
+vibe coding
+https://www.facebook.com/share/p/1cX25FPMT3/
+
 
 ### 【政府非開源的服務_但屬於關鍵資料集】會適合納入嗎？
 
