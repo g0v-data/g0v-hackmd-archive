@@ -315,6 +315,15 @@ https://linktr.ee/g0vjothon
 
 ---
 
+
+2026-12-31 跨年松
+- 時間：待確認
+- 地點：NPO Hub 202
+- 地址：臺北市中正區重慶南路三段2號2樓
+- 共筆：https://g0v.hackmd.io/@Percy314159/croissant-bookmode/%2F%40Percy314159%2Fcroissant-introduce
+
+---
+
 ### 2027.01
 
 1/6 週三 公民科技體驗營_新竹場

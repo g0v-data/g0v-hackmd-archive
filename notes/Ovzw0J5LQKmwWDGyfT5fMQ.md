@@ -44,7 +44,7 @@ tags: 2026 跨年松,
 
 ## 活動內容發想
 - 製作和可頌有關的專案
-    - 可頌地圖
+    - 可頌地圖，或許可以混搭 [name=Dong] 在 75 次大松的 [提案](https://youtu.be/oVx9Oj42sNw)
 - 做正常的可頌
     - 可頌食譜 
         - [迷你酥皮可頌](https://cookpad.com/tw/%E9%A3%9F%E8%AD%9C/24253660-%E8%BF%B7%E4%BD%A0%E9%85%A5%E7%9A%AE%E5%8F%AF%E9%A0%8C) [name=mrorz] 
