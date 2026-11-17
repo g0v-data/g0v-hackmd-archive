@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [SJl0a7FNXO](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2026-11-17T03:33:56+00:00 | Book mode |
 | [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | 資料登載工作頁面 & 收錄原則探討 | 2026-11-16T19:16:43+00:00 | View mode |
 | [B1RUK6tb-e](../../notes/zkWf3uJDQA6mp7FfqzfIsQ.md) | <center>公民科技及數位工具應用指南與支持網絡</center> | 2026-11-16T03:50:41+00:00 | View mode |
 | [SyJi0ww7zg](../../notes/bHWPJT4YQve1VT36x5v4kQ.md) | 澎湖 | 2026-11-16T02:56:45+00:00 | View mode |
@@ -315,7 +316,6 @@
 | [HkfMTufJke](../../notes/qU9DNpqPTlWHk7pp3Siixg.md) | 2024／11 大松命名 | 2024-12-07T10:27:00+00:00 | View mode |
 | [BkLMzEbgd](../../notes/5RN9ZHUBRqKdYDo3Vod5_g.md) | g0v 松後推坑 | 2024-12-05T19:40:05+00:00 | Book mode |
 | [BJcp3VJVyx](../../notes/Z1pLXSGRROe5yqQExjo1wQ.md) | g0v hackath64n - 第陸拾肆次黃金比例黑客松 松後推坑 | 2024-12-05T16:45:24+00:00 | View mode |
-| [SJl0a7FNXO](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2024-11-25T04:50:13+00:00 | Book mode |
 | [Bkn31Ybm1g](../../notes/-1pAdvsBTpuTSuKTFsxCEg.md) | g0v 社群每月九分鐘 - 2024/10 | 2024-11-25T04:44:39+00:00 | View mode |
 | [SyQ3o9Qe1g](../../notes/gA7MMo-YQwe2FUctL7O64g.md) | 第參拾柒次 g0v 揪松團 松前哈拉 | 2024-11-22T13:21:12+00:00 | View mode |
 | [rJl6EyiXxJg](../../notes/TBJmPk9MTRioFcxtGZ6YMA.md) | g0v第陸拾肆次黃金比例黑客松共筆 | 2024-11-19T22:52:23+00:00 | Book mode |

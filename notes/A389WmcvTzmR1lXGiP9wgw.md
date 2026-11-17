@@ -36,6 +36,10 @@ g0v 零時政府揪松團（g0v jothon）是主辦 g0v 百人大黑客松與基�
 請務必使用：四位數西元年+斜線+雙位數月份
 https://api.g0v.tw/community99/
 
+
+- [近期活動資訊](https://g0v.github.io/community-calendar/)
+- [社群常用網址彙整](https://linktr.ee/g0vjothon)
+
 ## 2024
 - [2024/12 `預熱中`](/@jothon/community99-2412)
 - [2024/11 `撰寫中`](/@jothon/community99-2411)
