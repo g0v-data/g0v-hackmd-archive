@@ -5,6 +5,7 @@ tags: GIS
 # 垃圾掩埋場資料
 
 資料
+- https://landfill.moenv.gov.tw/Landfill_map.aspx
 - 濱海（河）掩埋場調查報告公開
     - 網址：https://teia.tw/perspective/%e6%bf%b1%e6%b5%b7%ef%bc%88%e6%b2%b3%ef%bc%89%e6%8e%a9%e5%9f%8b%e5%a0%b4%e8%aa%bf%e6%9f%a5%e5%a0%b1%e5%91%8a%e5%85%ac%e9%96%8b-%e5%9e%83%e5%9c%be%e6%9a%ab%e7%bd%ae%e6%88%90%e7%92%b0%e5%a2%83%e9%9a%b1/
     - 特點：
@@ -20,6 +21,7 @@ tags: GIS
 - 掩埋場復育場址-線上地圖
     - https://www.google.com/maps/d/viewer?mid=1UBCpseY-2VFUoyZlX_R05VBE773fk6Aa&ll=24.03324775863965%2C120.99110025&z=8
 - 部分場址影像：https://youtu.be/eNfVYjHkLXE
+- 八斗子 https://www.facebook.com/share/1J1E2uqQ2v/
 - 淡水河畔公園（靠近蘆洲/三重交界處） https://www.facebook.com/LoveLuzhou/posts/pfbid0riDZZEHeESc2BtuiNVfxFh8TA3QFkotm9BGrrTawXWvxCvjqpbX5UDWWUvdVr9Qml
 - 新店溪 秀朗橋北側
     - https://www.facebook.com/share/p/MFDsrh5zNtyk74dR/
