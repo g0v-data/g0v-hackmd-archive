@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [HyNCdGuGfe](../../notes/A014I2MSQXS4aQB1NU_KuQ.md) | 屏東 | 2026-11-18T17:09:31+00:00 | View mode |
 | [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-11-18T15:08:21+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-18T04:25:23+00:00 | View mode |
 | [SJl0a7FNXO](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2026-11-17T03:33:56+00:00 | Book mode |
@@ -70,7 +71,6 @@
 | [Bk_SXQmuGg](../../notes/TyQnLyy5R3SRvSFwLUvB7Q.md) | 社群小聚｜部落與聚落 | 2026-08-31T16:02:28+00:00 | View mode |
 | [r1r42GXdfg](../../notes/oC6aCXPbR8KH2txBL1GwCw.md) | 社群小聚｜南投與埔里 | 2026-08-31T15:24:05+00:00 | View mode |
 | [rkWbVhDyfg](../../notes/OVCKhe3eTrOYYioJUuOvCA.md) | 社群小聚｜雲林 | 2026-08-31T15:21:24+00:00 | View mode |
-| [HyNCdGuGfe](../../notes/A014I2MSQXS4aQB1NU_KuQ.md) | 屏東 | 2026-08-30T23:57:46+00:00 | View mode |
 | [Bk06N1PGfg](../../notes/Veor3T_3SiGyhlV8MA-crA.md) | 每月一次的週間晚上 AI x Civic Tech 分享 ┃ 籌備共筆 | 2026-08-30T11:54:57+00:00 | View mode |
 | [By7uRdPZlg](../../notes/ZQVAAa9CQv6-oa0BQIGLeQ.md) | 2026／07 至 10 月 第柒拾肆次公民科技跑咖松 | 2026-08-30T10:23:59+00:00 | View mode |
 | [rJ_a81PlMg](../../notes/Mld-V2fHRL2Mh8HDVOgxqA.md) | 台南 | 2026-08-30T09:11:25+00:00 | View mode |

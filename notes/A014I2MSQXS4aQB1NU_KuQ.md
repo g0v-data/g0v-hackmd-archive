@@ -50,6 +50,8 @@ tags:
 - 屏東青創中心
     - https://www.facebook.com/PingtungDigitalYouthCenter/
     - https://ycpt.pthg.gov.tw/youth-startup/space
+- 東港 https://www.instagram.com/maritime_building_cafe
+
 
 ## 活動企劃發想
 
