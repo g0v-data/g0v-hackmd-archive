@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-11-18T03:49:19+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-17T14:22:38+00:00 | View mode |
 | [SJl0a7FNXO](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2026-11-17T03:33:56+00:00 | Book mode |
 | [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | 資料登載工作頁面 & 收錄原則探討 | 2026-11-16T19:16:43+00:00 | View mode |
@@ -18,7 +19,6 @@
 | [Hy1S5Mmjel](../../notes/k-zw6iqaRy-SqBEKj_gH6w.md) | 2027／01 g0v 大松命名 | 2026-11-15T16:43:22+00:00 | View mode |
 | [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | What is a g0v hackathon ? | 2026-11-15T16:27:17+00:00 | View mode |
 | [ry9tadGjkl](../../notes/vywr30o0Ssqpn3orwM4ePQ.md) | 健康的 g0ver / 健康風險意識 內容蒐集 | 2026-11-13T13:12:28+00:00 | View mode |
-| [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-11-13T10:34:11+00:00 | View mode |
 | [rkRYZt-9Ze](../../notes/ru-7S6xsQL-1pXmTRXPAmg.md) | 製作「面紙包」用於發送 | 2026-11-12T15:53:35+00:00 | View mode |
 | [SJE91_dKxg](../../notes/xJ9_dZ_lTm2syUKrIhmY8g.md) | 咖博館：飲料、茶點、素食午餐 | 2026-11-11T06:00:58+00:00 | View mode |
 | [S10SNQMj1x](../../notes/gj-iH-szRWypWKwt1glm_Q.md) | 地區社群支持方案 | 2026-11-10T21:31:42+00:00 | View mode |

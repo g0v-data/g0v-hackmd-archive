@@ -281,6 +281,7 @@ https://forms.gle/bBxBfiiooGsfjTa38
     - 圖書館
     - 人文類單位
     - 資訊所
+- 高中資訊社團，寄送面紙包
 - 青年發展署體系單位
     - https://www.facebook.com/share/p/1DngXA7HB3/?mibextid=wwXIfr
 - 縣市青年局處
