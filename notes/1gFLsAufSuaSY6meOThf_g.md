@@ -15,6 +15,9 @@ https://www.facebook.com/permalink.php?story_fbid=1681004065376955&id=1000040213
 新竹縣
 https://www.facebook.com/jumount/posts/pfbid02NbX3gHgDJKovFTG2kCynLrFp2NkMEkdfCLrwHRJTiVTAjQcc6chN7omkCCo74pml
 
+情境：嘉義山區強震豪雨引發曾文溪流域災情
+https://www.facebook.com/share/p/1K3PDCmJGX/
+
 臺南市永康區復國里
 https://www.facebook.com/groups/bousaiTW/permalink/2605406503106219/
 
