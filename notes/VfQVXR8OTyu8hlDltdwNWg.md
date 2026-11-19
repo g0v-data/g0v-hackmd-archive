@@ -7,14 +7,13 @@ tags: hackathon,
 - [What is a g0v hackathon ?<br>什麼是 g0v 黑客松？](https://g0v.hackmd.io/KvzHayP4SPqXRhtrn2QH0w?view)
 - [g0v Code of Conduct (CoC)<br>g0v 行為守則](https://g0v.hackmd.io/s/COC)
 
-## Event Info<br>[UTC+8] 2026/11/08<br>Sun. 10:30-17:30<br>@Taipei NPOHUB
+## Event Info<br>[UTC+8] 2027/01/09<br>Sat. 10:30-17:00<br>高雄左營 & 台北<br>+<br>[UTC+8] 2027/01/10<br>Sun. 10:30-17:00<br>屏東市區 & 台北
 
-- [Run-down / Projects<br>活動流程與專案清單<br>參加者 Participant](https://docs.google.com/spreadsheets/d/1Edt1jsKKRgGzE4uR1LDpKrAohz8gAKPnO17-XtF8HpM/edit?usp=sharing)
+- [Registration<br>報名網址]()[target=_blank]
+- [Run-down / Projects<br>活動流程與專案清單<br>參加者 Participant]()
 - [Live stream on YouTube<br>活動直播](https://www.youtube.com/g0vTW)[target=_blank]
 - [g0v Slack Registration Tutorial<br>加入 g0v Slack 聊天頻道](https://g0v.hackmd.io/@jothon/joing0vslack)
-- [Registration<br>報名網址](https://forms.gle/hM7CCmZfXx11vF8N7)[target=_blank]
-- [零世代青年專案資金池<br>Generation Zero Vestment](https://g0v.hackmd.io/@jothon/Generation_Zero_Vestment)
-- [本次大松合作單位與貢獻者<br>Contributors & Donors](https://g0v.hackmd.io/msOc-1-ZTnGCHJys5Z45Vg?view)
+- [大松合作單位與貢獻者<br>Contributors & Donors](https://g0v.hackmd.io/msOc-1-ZTnGCHJys5Z45Vg?view)
 
 ## 零時小學校｜課程｜專案孵化
 - [源力增能季 66 堂<br>🌟 免費開放式課程<br>涵蓋 AI．公民科技．專案實作](https://g0v-jothon.kktix.cc/events/sch001ssr2025)[target=_blank]
@@ -46,3 +45,4 @@ tags: hackathon,
 ## Follow g0v Jothon 追蹤 揪松團<br>掌握大松小松活動資訊
 
 - [g0v Jothon](https://linktr.ee/g0vjothon)[target=_blank]
+- [零世代青年專案資金池<br>Generation Zero Vestment](https://g0v.hackmd.io/@jothon/Generation_Zero_Vestment)

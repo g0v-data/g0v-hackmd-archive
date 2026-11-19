@@ -2,14 +2,17 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | 資料登載工作頁面 & 收錄原則探討 | 2026-11-19T17:46:27+00:00 | View mode |
+| [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | 資料登載工作頁面 & 收錄原則探討 | 2026-11-19T18:57:49+00:00 | View mode |
+| [HJMvgwP0zx](../../notes/VfQVXR8OTyu8hlDltdwNWg.md) | g0v Hackathan | 2026-11-19T18:52:38+00:00 | Book mode |
+| [Hy0H2n2AGg](../../notes/yIRJbjhgScCJoiwdHvUhog.md) | Civic Nest<br>零時小學校專案孵化計畫<br>第六屆專案團隊介紹 | 2026-11-19T18:38:21+00:00 | View mode |
+| [r18M8NIhGe](../../notes/NBtIE1b8TkuHhuGZ9R9akg.md) | 專案孵化計畫 Civic Nest | 2026-11-19T18:36:55+00:00 | View mode |
+| [BkCPHcYEee](../../notes/_ab2mPTsSOqJC4V8ssMnDg.md) | 零時小學校<br>專案孵化計畫<br>Civic Nest | 2026-11-19T18:34:56+00:00 | Book mode |
 | [HyNCdGuGfe](../../notes/A014I2MSQXS4aQB1NU_KuQ.md) | 屏東 | 2026-11-18T17:09:31+00:00 | View mode |
 | [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-11-18T15:08:21+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-18T04:25:23+00:00 | View mode |
 | [SJl0a7FNXO](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2026-11-17T03:33:56+00:00 | Book mode |
 | [B1RUK6tb-e](../../notes/zkWf3uJDQA6mp7FfqzfIsQ.md) | <center>公民科技及數位工具應用指南與支持網絡</center> | 2026-11-16T03:50:41+00:00 | View mode |
 | [SyJi0ww7zg](../../notes/bHWPJT4YQve1VT36x5v4kQ.md) | 澎湖 | 2026-11-16T02:56:45+00:00 | View mode |
-| [HJMvgwP0zx](../../notes/VfQVXR8OTyu8hlDltdwNWg.md) | g0v Hackathan | 2026-11-16T02:56:07+00:00 | Book mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-11-15T23:51:51+00:00 | View mode |
 | [HJeJifQjgl](../../notes/_kuWKonIRvW6HU9o09eEWg.md) | 2027／05 g0v 大松命名 | 2026-11-15T18:05:03+00:00 | View mode |
 | [r1YnqGXjgg](../../notes/4-nyFkwISE2VQ1JO6rRIyw.md) | 2027／03 g0v 大松命名 | 2026-11-15T18:03:59+00:00 | View mode |
@@ -41,8 +44,6 @@
 | [SkL1dHSCyl](../../notes/Ovl0MYOsQCKECQ9Ig4HOVA.md) | AI 麻瓜共學團 | 2026-10-28T08:55:41+00:00 | Book mode |
 | [ryuGpT0eGx](../../notes/X-35BMf_QjW8NntAIGzuhQ.md) | COSCUP _ AI 開放治理 & Civic Tech 議程 | 2026-10-28T08:53:42+00:00 | View mode |
 | [r1QUPqo2Wg](../../notes/S3cmrJ8mS06lPKHJSxSINg.md) | 10/24 Civic Tech Day<br>公民科技主題日 | 2026-10-24T10:52:02+00:00 | Book mode |
-| [BkCPHcYEee](../../notes/_ab2mPTsSOqJC4V8ssMnDg.md) | 零時小學校<br>專案孵化計畫<br>Civic Nest | 2026-10-21T12:55:19+00:00 | Book mode |
-| [r18M8NIhGe](../../notes/NBtIE1b8TkuHhuGZ9R9akg.md) | 專案孵化計畫 Civic Nest 6th 籌備中 | 2026-10-21T12:54:49+00:00 | View mode |
 | [HyBiNcJ1o](../../notes/ZwLI9V36Tmi-jFXWVtb1hQ.md) | 影響力報告線上版，內容可以呈現什麼？ | 2026-10-21T07:34:51+00:00 | View mode |
 | [Hkh8DtAgfl](../../notes/EvkiY6tiQzK2uve2kgpnAg.md) | 2027_ON+1030 籌辦工作文件 | 2026-10-13T01:18:38+00:00 | View mode |
 | [BkxrwGIvWx](../../notes/qkIrfWr9Q_Kho3HJ-uZ9IQ.md) | Almanac _ 公民科技年曆 / 主題日評估 | 2026-10-13T01:15:00+00:00 | View mode |

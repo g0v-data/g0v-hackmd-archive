@@ -207,14 +207,9 @@ https://www.facebook.com/share/1BfpgzAgfL/
 
 信水義河互動地圖與回饋平台 https://pse.is/9ea6g8
 
-空間類 GitHub 
-https://www.hjplusdesign.com/hjplus_open_source_projects/
 
 Google 系列工具用於教育行政減量，有 GITHUB https://www.facebook.com/share/p/1D7Jri6f8T/
 
-衛星追蹤
-https://www.facebook.com/share/p/1GkdbyRMfg/
-https://sat.xionglala.space/
 
 退休要存多少，沒有單一答案——它取決於你怎麼看勞保、長照、生活品質這幾件事。下面選一選、調一調，看屬於你的數字。
 https://retire-lab.pages.dev/target/
