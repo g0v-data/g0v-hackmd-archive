@@ -15,7 +15,7 @@ https://github.com/NullFull/jonmat-next
 data-csv
 https://docs.google.com/spreadsheets/d/1vjCUzjeNxnNZ-ZaaNLM4fx2n_ephZDjpJSSvJGUVm0U/edit#gid=2015788390
 map
-https://nullfull.github.io/jonmat/ 
+https://jonmat.nullfull.kr/
 https://app.awesome-table.com/-N4gJktF6DYGmY2ZEA0q/view
 
 
