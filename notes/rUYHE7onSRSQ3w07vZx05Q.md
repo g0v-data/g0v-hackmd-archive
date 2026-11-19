@@ -70,6 +70,13 @@ AI陪伴失智照護新模式 https://www.facebook.com/yuanliyuyu/posts/pfbid08T
 
 ### 【免費版】
 
+
+https://www.facebook.com/share/p/1Fb7Kr6fnA/
+1. 「裁判書實證研究平台」（含量化資訊圖表、事實與見解檢索、文本擷取工具）： https://hssai-verdictstudy.phys.nthu.edu.tw
+2. 釋字及憲法法庭資料庫：https://hssai-concourt.phys.nthu.edu.tw/
+3. AI 量刑預測系統：https://hssai-sentencing.phys.nthu.edu.tw/
+4. 申論題批改小幫手：https://hssai-textgrading.phys.nthu.edu.tw/
+
 登山輔助工具 https://peakit.tw/
 數位登山 https://hiking.aimingdata.com/
 火燒雲預測網站：https://fc.nekolens.tw/

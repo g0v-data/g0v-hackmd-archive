@@ -39,9 +39,18 @@ https://www.facebook.com/share/p/1Bp6v5iMZV/
 - 兩河匯流：大嵙崁溪與三峽河匯流地區 vs 大漢溪匯流淡水河
 - https://www.facebook.com/share/p/1JJ9Rh5kuU/
 
+## 古新店溪研究
+
+楊貴三、葉志杰 古新店溪之舊河道新證—兼論臺北盆地洪患現象之地形特性
+https://www.chr.gov.taipei/News_Content.aspx?n=E0A330A4F72C3F6E&sms=55DE0F8A9A06FCE5&s=BA2390F40FDA43ED
+
+更新世晚期古新店溪下游流路變遷之研究
+https://hdl.handle.net/11296/9yj5zw
+
 
 ## 待整理
 
 https://www.facebook.com/share/1dRjcFEETB/
 
+碧潭堰
 https://www.facebook.com/share/1GVqdj9vSt/
