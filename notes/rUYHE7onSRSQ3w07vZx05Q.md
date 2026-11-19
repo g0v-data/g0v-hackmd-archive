@@ -10,22 +10,17 @@ tags: civictech
 
 ---
 
-## 國際對照舉例筆記區
-
-流產蒐集器具
-https://www.facebook.com/share/17FrD5uMuX/
-
-日本防窮 API
-https://g0v.hackmd.io/@summit2026/H1EqQBc0bl/%2FFpw7r2-7QRKdJFuQcxJl6g
-
----
-
 ## 討論納入評估原則
-．插不插電均可，例如堆肥箱方案開源與同好支持社群
-．清單資料欄位新增「是否開源」
-．若非開源，一定要有免費使用版本
-．【能否使用】使用者馬上可以運用 vs 必須經由篩選才能取得使用機會 vs 沒有公開使用管道
-．需要設置 新增&異議 意見回報機制
+- 插不插電均可，例如堆肥箱方案內容開源與同好支持社群
+- 清單資料欄位新增「是否開源」
+- 若非開源，一定要有常態免費使用版本，才能評估登載
+- 【能否使用】
+    - [可評估登載] 使用者馬上可以運用，有常態免費使用版本，且裝置通用 (網頁版，或是 App 均有 iOS 或 Android)
+    - [不登載] 使用者馬上可以運用，有常態免費使用版本，但只有 iOS 或 Android 
+    - [不登載] 使用者馬上可以運用，免費使用有明確期限或次數用量 
+    - [不登載] 使用者要申請之後，必須經由篩選才能取得使用機會
+    - [不登載] 沒有公開使用管道
+- 需要設置 新增&異議 意見回報機制
 
 ## 標籤使用探討筆記
 
@@ -50,13 +45,14 @@ https://www.facebook.com/share/v/1B8CBjzzXf/
 
 森林「天眼巡護山林」系統 https://www.facebook.com/share/p/1NQkFWswYD/
 
-SEL App https://www.edtech.tw/post/sel-%E6%95%99%E8%82%B2%E6%96%B0%E9%9D%A9%E5%91%BD%EF%BC%81%E7%B1%BD%E6%A8%82%E5%8D%B3%E5%B0%87%E6%8E%A8%E5%87%BA%E6%83%85%E7%B7%92%E6%95%99%E8%82%B2-app%EF%BC%8C%E8%AE%93%E6%AF%8F%E5%80%8B%E8%A6%AA%E5%AD%90%E9%83%BD%E8%83%BD%E6%9B%B4%E6%87%82%E8%87%AA%E5%B7%B1
-
 Fovy 技能歷程 https://linktr.ee/FOVY
 
-張老師 AI https://wabay.tw/collab/1980/ https://www.facebook.com/share/1CtTjDoczk/
+張老師 AI 
+https://wabay.tw/collab/1980/
+https://www.facebook.com/share/1CtTjDoczk/
 
-AI陪伴失智照護新模式 https://www.facebook.com/yuanliyuyu/posts/pfbid08TFwek1xU4YkbEJJnVuKv6JqEzLc7eM8rfact3crGt6gQq87xnUqeBGumjGZmb7nl
+AI陪伴失智照護新模式
+https://www.facebook.com/yuanliyuyu/posts/pfbid08TFwek1xU4YkbEJJnVuKv6JqEzLc7eM8rfact3crGt6gQq87xnUqeBGumjGZmb7nl
 
 ### 【沒有常態免費使用版本】
 
@@ -69,53 +65,33 @@ AI陪伴失智照護新模式 https://www.facebook.com/yuanliyuyu/posts/pfbid08T
 不動產地圖查詢、老屋圖層與拜訪管理工具，整合土地建物查詢、地籍與主題圖層、老屋分布、基地測量、實價登錄、地／屋主拜訪紀錄、通訊錄與團隊共享。適合房仲店東、店長、業務主管、代書、土地開發與都更危老評估團隊使用，把查資料、看地圖、估基地、記錄拜訪與交接管理放在同一套流程裡。
 https://www.goldswagger.com.tw/review/itaiwan-membership
 
+台灣餐飲開店勝率 AI 分析_準備要開店了嗎？讓你提前看懂商圈數據，掌握競爭力
+https://ai.ichefpos.com/restaurant-intelligence
+
+### 【免費版】已開啟並評估，不建議登錄
+
+郵務輔助工具
+- https://www.facebook.com/share/1SwfBAxwJp/
+- 並無網頁版，僅 Google Play 版本
+
+災害通知
+- https://app.zhe-wei.net
+- https://www.facebook.com/share/r/1FM6Ejn8eV/
+
+移動性施工預警系統
+- http://roadwork.zhe-wei.net/
+- https://www.facebook.com/share/r/1HozE8ofhN/
+
 ---
 
 ## 還算可以登載
 
 ### 【免費版】
 
-
-災害通知
-https://app.zhe-wei.net
-https://www.facebook.com/share/r/1FM6Ejn8eV/
-
-移動性施工預警系統
-http://roadwork.zhe-wei.net/
-https://www.facebook.com/share/r/1HozE8ofhN/
-
-
-台灣餐飲開店勝率 AI 分析_準備要開店了嗎？讓你提前看懂商圈數據，掌握競爭力
-https://ai.ichefpos.com/restaurant-intelligence
-
-
-
-
-
-
-
-遠距抱抱 https://www.farhugs.com/
-
-郵務
-https://www.facebook.com/share/1SwfBAxwJp/
-
-
-
-專利法 AI
-https://patent9.manus.space/
-
-考上社工師，歷屆題庫彙整網頁
-https://www.facebook.com/share/p/1JSiYeksyh/
-
-
 先進感知
 https://apps.apple.com/tw/developer/kang-wu/id1261000921
 https://play.google.com/store/apps/developer?id=ABCsense&hl=zh_TW
 https://www.youtube.com/watch?v=1vM9WozwU3c
-
-
-
-
 
 
 ### 【有使用開放資料的民間專案，且有提供免費使用方案，且具有一定的公共意義】
@@ -155,8 +131,10 @@ BigGIS
 https://docs.google.com/spreadsheets/d/1IlK6XpIbnL6nW-UjGw363KcmzGNGmEAsAk0rs0qQuYc/edit?gid=0#gid=0
 
 
-### 【偏向指引心法，指引手冊類】
+### 【偏向指引心法，指引手冊類，量表】
 
+分析長者健康圖譜工具，量表工具包下載 (ICOPE 長者健康整合式功能評估量表、健康識能量表、心情溫度計量表)
+https://www.digitalhumanitarian.org/%E6%95%B8%E4%BD%8D%E5%9F%B9%E5%8A%9B-2026
 
 
 ### 【開源開放類，登載沒啥問題】登載後即刪除
@@ -169,6 +147,15 @@ Mydata 與數位皮夾
 https://g0v.hackmd.io/vRbi1BbSTnGaffnX1CvaEA?view
 
 
+--- 
+
+## 國際對照舉例筆記區
+
+流產蒐集器具
+https://www.facebook.com/share/17FrD5uMuX/
+
+日本防窮 API
+https://g0v.hackmd.io/@summit2026/H1EqQBc0bl/%2FFpw7r2-7QRKdJFuQcxJl6g
 
 
 
