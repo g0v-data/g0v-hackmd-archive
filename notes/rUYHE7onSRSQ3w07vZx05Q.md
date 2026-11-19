@@ -162,7 +162,7 @@ BigGIS
 
 明確議題，讓民意代表候選人連署得網頁
 https://ngtu.org/whitepaper
-例如 議題推廣結合心理測驗 https://g0v.hackmd.io/Y7qSwSppRQefWU53GK2ioQ
+
 
 ### 【政府開源專案】
 
@@ -177,73 +177,22 @@ https://docs.google.com/spreadsheets/d/1IlK6XpIbnL6nW-UjGw363KcmzGNGmEAsAk0rs0qQ
 
 ### 【指引手冊類】
 
-地方實踐指南｜https://guide.mountcounty.com/
-https://www.facebook.com/share/p/1EzBCWvT4x/
 
-機器人友善環境指引
-https://www.facebook.com/share/v/1FTSzYGEZC/
+
+
 
 ### 【開源開放類，登載沒啥問題】登載後即刪除
-
-反偷拍
-https://www.instagram.com/p/DfCgvDMn2e-/?dlrf=MWszamFlbzdkcWg4eQ==
-
-
-Call-in 簡單叩應
-https://www.facebook.com/share/18Lfw3hEzW/
 
 DMAT 災難醫療 AI 資訊整合與動態指揮智慧平台
 展示影片：https://youtu.be/lRxgryqMyig
 說明簡報：https://www.canva.com/design/DAHQlwq42qA/n75Y9docaKMxvB7Vn7MmYQ/view
 
-職安衛 知識內容
-https://www.facebook.com/share/p/1Ew9JwtaXd/
-
-專案工具
-https://www.facebook.com/share/1BfpgzAgfL/
-
-
-微氣候與環境綠化互動地圖 https://pse.is/9ea6ft
-
-信水義河互動地圖與回饋平台 https://pse.is/9ea6g8
-
-
-Google 系列工具用於教育行政減量，有 GITHUB https://www.facebook.com/share/p/1D7Jri6f8T/
-
-
-退休要存多少，沒有單一答案——它取決於你怎麼看勞保、長照、生活品質這幾件事。下面選一選、調一調，看屬於你的數字。
-https://retire-lab.pages.dev/target/
-https://www.facebook.com/share/p/19BV7jnUp5/
-
-把文件內容轉為 markdown 
-https://www.facebook.com/share/18fafj3kC7/
-
-Self-hostable Kahoot 1:1 clone on Cloudflare Workers + Durable Objects + D1, gated by Zero Trust Access
-https://www.facebook.com/htlin.lizard/posts/pfbid0233pti3E7pACVsJWKUuP8wpqbjXub7fTGJPs34MoE4smGwMD6L7sCST8mWFSg14b4l?locale=zh_TW
-
-為外國人設計的注音符號學習網頁: zhuyin-learning.vercel.app
-https://www.threads.com/@yui.uiuxrookie/post/DYo2x_zke1V
-
-不知道怎麼跟 AI 下指令嗎？我做了一個小遊戲，邊玩邊學怎麼跟 AI 對話。
-https://www.facebook.com/reel/1043309405336645
-Promptasy:
-https://www.garyhsieh.com/promptasy
-程式碼:
-https://github.com/romanticamaj/promptasy
-
 Mydata 與數位皮夾
 https://g0v.hackmd.io/vRbi1BbSTnGaffnX1CvaEA?view
 
-佛號・咒語・經文 21 種佛號、咒語與經文，附完整經文與持誦說明，點選即可閱讀全文
-https://nianfo.app/sutras
 
 
-PISA 2025 臺灣科學教育調查視覺化網頁
-https://thyan-arch.github.io/guess-taiwan-pisa/
 
-生育門檻可視化
-https://popolab-tw.github.io/next-gen/map/
-https://www.threads.com/share/BBNLsrP3wm
 
 
 

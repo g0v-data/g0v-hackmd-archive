@@ -1,0 +1,2 @@
+Bookmaker’s mobile version
+For those who like to dig into statistics, this bookmaker’s [mobile version](https://gh.download1xbetandroid.com/) is far more convenient than the website. Within each match, there’s a built-in section covering head-to-head records, team form, and possession percentages, along with dedicated tabs for corners, fouls, and cards. Plus, you can add your favorite leagues to your "Favorites" so you don’t have to search for them every time in the master list, which spans 60 different sports.
