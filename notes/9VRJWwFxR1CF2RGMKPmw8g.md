@@ -4,6 +4,11 @@ tags: 黑話,
 
 # 松果
 
+:::info
+上層文件：g0v 黑話及語錄
+https://g0v.hackmd.io/hosZS2MqRR-JLwhomnDU3w
+:::
+
 ## 用詞由來
 
 > 松果是小松成果的意思
