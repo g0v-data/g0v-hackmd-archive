@@ -21,7 +21,7 @@ https://app.awesome-table.com/-N4gJktF6DYGmY2ZEA0q/view
 
 ## Taiwan
 
-統整
+2026 年由台灣前進陣線統整來源自歐噴資料庫之政治獻金數據，製作「民代吃什麼？政治獻金美食地圖」
 https://taiwangogo.tw/play/food/
 
 ky> 108 年的國民兩黨整理好囉 
