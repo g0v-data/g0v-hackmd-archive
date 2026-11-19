@@ -64,25 +64,17 @@ AI陪伴失智照護新模式 https://www.facebook.com/yuanliyuyu/posts/pfbid08T
 
 排班系統工具_訂閱方案註冊免費試用兩週 https://home.st2el.online/faq.html
 
+碳行者 App https://carbon-walker.com/
+
+不動產地圖查詢、老屋圖層與拜訪管理工具，整合土地建物查詢、地籍與主題圖層、老屋分布、基地測量、實價登錄、地／屋主拜訪紀錄、通訊錄與團隊共享。適合房仲店東、店長、業務主管、代書、土地開發與都更危老評估團隊使用，把查資料、看地圖、估基地、記錄拜訪與交接管理放在同一套流程裡。
+https://www.goldswagger.com.tw/review/itaiwan-membership
+
 ---
 
 ## 還算可以登載
 
 ### 【免費版】
 
-
-https://www.facebook.com/share/p/1Fb7Kr6fnA/
-1. 「裁判書實證研究平台」（含量化資訊圖表、事實與見解檢索、文本擷取工具）： https://hssai-verdictstudy.phys.nthu.edu.tw
-2. 釋字及憲法法庭資料庫：https://hssai-concourt.phys.nthu.edu.tw/
-3. AI 量刑預測系統：https://hssai-sentencing.phys.nthu.edu.tw/
-4. 申論題批改小幫手：https://hssai-textgrading.phys.nthu.edu.tw/
-
-登山輔助工具 https://peakit.tw/
-數位登山 https://hiking.aimingdata.com/
-火燒雲預測網站：https://fc.nekolens.tw/
-
-都市生物，議題遊戲化
-https://www.facebook.com/share/p/1BH48tDDSC/
 
 災害通知
 https://app.zhe-wei.net
@@ -92,43 +84,39 @@ https://www.facebook.com/share/r/1FM6Ejn8eV/
 http://roadwork.zhe-wei.net/
 https://www.facebook.com/share/r/1HozE8ofhN/
 
-使用AI為產品產生強大的分析模型，透過過整合設計策略模板至四大研究模組，將繁雜的策略思考流程，轉化為一目了然的結構化分析報告，協助設計者效率提出產品前期設計策略。
-https://ai-design-strategy.rdlab.tw/
-優惠券分享平台網站
-https://couponshare.lazybearlife.com/
-https://www.threads.com/@lazybearlife_/post/DabyzL6CaCq?xmt=AQG0UjuGJjm6NGH8SWp-rucPBlCbSIY0b-pz9v-CCDMbaSL8zRBurG4FxBv6ak3iphfuP1x7&slof=1
+
 台灣餐飲開店勝率 AI 分析_準備要開店了嗎？讓你提前看懂商圈數據，掌握競爭力
 https://ai.ichefpos.com/restaurant-intelligence
-不動產地圖查詢、老屋圖層與拜訪管理工具，整合土地建物查詢、地籍與主題圖層、老屋分布、基地測量、實價登錄、地／屋主拜訪紀錄、通訊錄與團隊共享。適合房仲店東、店長、業務主管、代書、土地開發與都更危老評估團隊使用，把查資料、看地圖、估基地、記錄拜訪與交接管理放在同一套流程裡。
-https://www.goldswagger.com.tw/review/itaiwan-membership
-地籍 App 
-https://www.facebook.com/share/17nAJCuhEH/
-https://www.facebook.com/share/17iuuft2a8/
-基地分析
-https://siteforesight.app/
-大規模崩塌區風險模擬系統
-https://www.facebook.com/share/p/17euCy5dTf/
-碳行者 App https://carbon-walker.com/
+
+
+
+
+
+
+
 遠距抱抱 https://www.farhugs.com/
+
 郵務
 https://www.facebook.com/share/1SwfBAxwJp/
-法律書狀撰寫
-https://lawbot.tw/
+
+
+
 專利法 AI
 https://patent9.manus.space/
-巡山員地圖的主要目的是希望地圖上的點位資料能夠變成動態更新，仰賴於每位山友在山上或下山後能在點位提供最新資訊。包含水源的水量、水質，路況是否有崩塌、公務封鎖、虎頭蜂出沒，營地狀況、通訊點等等。
-https://www.facebook.com/groups/664516810370602/?multi_permalinks=3453723538116568&hoisted_section_header_type=recently_seen
+
 考上社工師，歷屆題庫彙整網頁
 https://www.facebook.com/share/p/1JSiYeksyh/
-交通費計算工具
-https://www.facebook.com/share/v/1Gocjn3oHe/
+
+
 先進感知
+https://apps.apple.com/tw/developer/kang-wu/id1261000921
+https://play.google.com/store/apps/developer?id=ABCsense&hl=zh_TW
 https://www.youtube.com/watch?v=1vM9WozwU3c
-排座位工具
-https://www.facebook.com/share/v/1FAJJ3ZQ6p/
-建築指示詞
-https://archi-prompt.com/
-https://www.facebook.com/share/1Bj3B5aRgR/
+
+
+
+
+
 
 ### 【有使用開放資料的民間專案，且有提供免費使用方案，且具有一定的公共意義】
 
@@ -142,7 +130,6 @@ https://lianghsun.github.io/awesome-taiwan-project/
 
 vibe coding
 https://www.facebook.com/share/p/1cX25FPMT3/
-
 
 ### 【政府非開源的服務_但屬於關鍵資料集】會適合納入嗎？
 
@@ -158,26 +145,17 @@ BigGIS
 
 ## 可以立刻登載
 
-### 【偏向指引心法，或是開一個蒐集】
-
-明確議題，讓民意代表候選人連署得網頁
-https://ngtu.org/whitepaper
-
-
 ### 【政府開源專案】
 
 公共程式 https://code.gov.tw/
 政府單位程式放在 GitHub  https://g0v.hackmd.io/bt4AsE2mQy-gFGaU-PvQqA?view
-
 
 ### 【鄉民建資料，民間蒐集的資料集】
 
 https://docs.google.com/spreadsheets/d/1IlK6XpIbnL6nW-UjGw363KcmzGNGmEAsAk0rs0qQuYc/edit?gid=0#gid=0
 
 
-### 【指引手冊類】
-
-
+### 【偏向指引心法，指引手冊類】
 
 
 
