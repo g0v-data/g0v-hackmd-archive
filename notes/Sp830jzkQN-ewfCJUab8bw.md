@@ -118,6 +118,9 @@ https://www.facebook.com/100053357980297/posts/pfbid03eKSXmgxcZYbgGEPoiJ98SdvQ6c
 各類型氣象設備介紹
 https://www.facebook.com/100064277576496/posts/pfbid023enUVP5oi93tWe2JBFmwktCRvGxdEjXJkyNNFJg3ZMUpcSnJXmRWvqzhFQFFELtAl/
 
+消防栓漏水
+https://www.facebook.com/share/p/1CHfjskC8a/
+
 三角點
 https://www.facebook.com/share/VuFEW77aFLp6GQka/
 https://www.facebook.com/share/p/1BZ5d7ydav/
