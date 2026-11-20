@@ -22,6 +22,7 @@ The Atlas of ReUrbanism is an evolving and expanding tool, allowing users to exp
 https://archpaper.com/2017/02/interactive-map-atlas-of-reurbanism/
 The maps highlight the median age of buildings and the size of buildings and parcels. Information is distilled into 200-by-200-meter squares and color coded. The atlas gives each grid square a Character Score, which is a function of its buildings’ sizes and ages. This score can be compared to other measurable quantities, such as economic growth, to better understand the impact of older buildings within the city fabric. Other layers in the maps include National Historic Landmarks, City Landmarks, and National Historic Districts.
 https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html
+
 New York City 
 建築物年代地圖 http://bdon.org/2013/09/12/building-age-nyc/
 紐約歷年變化 
@@ -41,43 +42,58 @@ Map of York 1852
 https://yorkmaps.net/1852/#15.93/53.9619/-1.0814/0.8/58
 Timescapes - We've remastered one of our seminal first projects, an immersive film about the history of NYC.
 http://localprojects.net/work/timescapes
+
 Brooklyn 
 建築物年代地圖 http://bklynr.com/block-by-block-brooklyns-past-and-present/
+
 Chicago
 建築物年代地圖 http://buildings.transitized.com/
-有定位功能，但應該要考量使用者若非該城市地區，應該引導至預設畫面，芝加哥的就沒引導....
+有定位功能，但應該要考量使用者若非該城市地區，應該引導至預設畫面，芝加哥的就沒引導
+
 DC 
 http://trib.al/lccFK1D
+
 St. Louis
 建築物年代地圖 http://www.stltoday.com/news/multimedia/special/how-old-is-that-building-check-structures-in-the-st/html_5ce90745-d14d-53da-9bff-8ab53dea9ddb.html/
+
 Milwaukee
 建築物年代地圖 http://milwaukeestat.com/milwaukee-ages-map
+
 Detroit
 建築物年代地圖 http://whydontweownthis.com/age/mi/wayne/detroit#13/42.3571/-83.0760
 點選平面的圖塊，連動配合空拍圖，讓你看到實際的每一棟建築物～
+
 Los Angeles
 建築物年代地圖 http://cityhubla.github.io/LA_Building_Age/#12/34.0526/-118.2612
 可開關不同時期的資料
 https://www.laconservancy.org/explore-la/historic-places?utm_source=fbia
+
 Portland Oregon 
 建築物年代地圖 http://labratrevenge.com/pdx/#12/45.4802/-122.6706
+
 Vancouver
 建築物年代地圖 http://www.aristova.me/projects/vancouver-building-age-map/
 圖示中除了建築物之外，特別把 park 列出，並標註為白色
+
 Porto Alegre
 http://www.oldmapsonline.org/en/Porto_Alegre
+
 Moscow
 建築物年代地圖 http://msk.mercator.ru/
+
 Kyiv, Ukraine 
-建築物年代地圖 http://mapbuilders.org/KyivBuildingsFullPage?
+建築物年代地圖 http://mapbuilders.org/KyivBuildingsFullPage
+
 Ljubljana (Slovenia)
 建築物年代地圖 http://www.virostatiq.com/data/ljubljana-building-ages/
 影片小動畫 https://vimeo.com/72249300
+
 Netherlands 
 建築物年代地圖 http://code.waag.org/buildings/#52.344,4.8887,13
 建築物年代地圖 http://bag.edugis.nl/
 使用者可以透過時間軸拉霸，來呈現建築物資料
 有道路與街廓底圖
+
 Amsterdam
 建築物年代地圖 http://maps.amsterdam.nl/bouwjaar/?LANG=en
 可以隨著時間來呈現建築物資料
@@ -90,6 +106,7 @@ https://www.facebook.com/oudamsterdam/videos/1025353347607673/
 http://www.citylab.com/tech/2015/08/a-comprehensive-map-archive-of-everything-amsterdam/400451/
 http://trib.al/mWb8xSR
 http://maps.amsterdam.nl/
+
 Paris
 建築物年代地圖 http://www.comeetie.fr/galerie/BatiParis/#12/48.8589/2.3491
 可以點選開關不同時期的建築資料
@@ -98,34 +115,43 @@ Pour fêter le million d'abonnés au compte Twitter de PARIS, redécouvrez la vi
 https://www.facebook.com/GallicaBnF/videos/10153391836463193/
 L’aménagement de la Place Maillot
 https://www.facebook.com/paris/videos/10154321681469639/
+
 Barcelona
 建築物年代地圖 http://bigtimebcn.300000kms.net/
 道路底圖選擇為黃色，圖面周圍運用白色漸層降低訊息量
 運用歷史地圖呈現演變 http://cartahistorica.muhba.cat/
 研討簡報 https://www.facebook.com/UCLUrbanLab/videos/10155492525758881/
+
 Oviedo (Spain)  
 建築物年代地圖 Año de construcción http://icaroviedo.webcindario.com/ovdcatastro_map.html?
 運用 google 底圖，底圖可以選擇一般地圖或衛星圖
 圖塊邊緣運用陰影處理
+
 London
 說明 http://oobrien.com/2015/12/building-ages/
 http://vis.oobrien.com/booth/
 Dwellings – Modal Age
 Dwellings – Proportion Built after 1945
 研討簡報 https://www.facebook.com/UCLUrbanLab/videos/10155492525758881/
+
 Reykjavík
 建築物年代地圖 The Age of Greater Reykjavík http://flother.is/2013/reykjavik-age/
 有呈現島嶼邊緣線，深灰色
+
 Istanbul
 The Evolution of Istanbul, In Maps http://www.istanbulurbandatabase.com/
+
 廣島
 核爆前廣島產業獎勵所周邊景貌動畫 https://www.facebook.com/amordubussy/videos/608023766049686/
+
 Tokyo
 NHKスペシャル｜カラーでよみがえる東京～不死鳥都市の100年～ 
 http://www.nhk.or.jp/special/phoenix/
+
 HongKong
 香港房屋年齡地圖 http://initiumlab.com/blog/20160725-hk-house-age/
 說明文字轉貼：香港的新房子和老房子都分布在哪裏？不同區域的地產開發順序孰先孰後？我們找到民政事務總署公佈的超過3萬條私有大廈紀錄，製作出互動地圖，快來一探究竟吧。（文字來源：Initium Lab）
+
 Taipei 
 建築物年代地圖 / 台北市屋齡地圖
 製圖者 林佳賢
@@ -135,11 +161,14 @@ https://imdataman.github.io/taipei-house-age-map/
 製圖者 ronny 
 https://ronnywang.cartodb.com/tables/taipei/public/map
 ronny 介紹文章 http://ronny.wang/blog/post/35346775-taipei,-taiwan%3A-the-age-of-the-city
+城市圖譜製作
+https://www.facebook.com/share/v/1HAqEXEJD2/
 台北市民國50~102年建築-動畫版本 https://youtu.be/i7y54tXm7iU
 建築物輪廓資料
 建築物的輪廓資料，嚴格來說台北市沒有正式釋出，但因為曾釋出一批 3D 建物資料是開放資料，其投影面積就是建物輪廓的基本
 https://www.facebook.com/groups/1417173811903954/permalink/2080968975524431/
 大台北盆地聚落演變過程探討 https://g0v.hackpad.tw/0jmTITGGvfT
+
 臺中市
 臺中市採用開放資料授權釋出建築物輪廓資料：臺中市建物_WGS84
 https://opendata.taichung.gov.tw/dataset/bdaa52e5-b5d6-4a62-81b6-d4d5e9728c45
