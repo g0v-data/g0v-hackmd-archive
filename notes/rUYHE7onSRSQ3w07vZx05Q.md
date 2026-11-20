@@ -2,7 +2,7 @@
 tags: civictech
 ---
 
-# 資料登載工作頁面 & 收錄原則探討
+# civictech.tw 資料登載工作頁面 & 收錄原則探討
 
 :::info
 [TOC]
@@ -138,6 +138,9 @@ https://www.digitalhumanitarian.org/%E6%95%B8%E4%BD%8D%E5%9F%B9%E5%8A%9B-2026
 
 
 ### 【開源開放類，登載沒啥問題】登載後即刪除
+
+麵包板接線助手
+https://www.facebook.com/share/r/1A1pSdbb7X/
 
 DMAT 災難醫療 AI 資訊整合與動態指揮智慧平台
 展示影片：https://youtu.be/lRxgryqMyig
