@@ -2,7 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [SJsDmxPfGe](../../notes/1thatkFaTByXWPkbi8JcZQ.md) | 2027／07 至 10 月 第柒拾玖次公民科技跑咖松 | 2026-11-21T15:38:51+00:00 | View mode |
+| [SJsDmxPfGe](../../notes/1thatkFaTByXWPkbi8JcZQ.md) | 2027／07 至 10 月 第柒拾玖次公民科技跑咖松 | 2026-11-21T16:09:07+00:00 | View mode |
 | [SJhfElwGGg](../../notes/jXRW3NmPQISprRaOA6hphA.md) | 2027／11 g0v 大松命名 | 2026-11-21T15:32:26+00:00 | View mode |
 | [H1IgVnPkGg](../../notes/G2NrbqCXR2u7VQnl5SG9UQ.md) | 社群小聚｜彰化 | 2026-11-21T15:27:49+00:00 | View mode |
 | [r1r42GXdfg](../../notes/oC6aCXPbR8KH2txBL1GwCw.md) | 社群小聚｜南投與埔里 | 2026-11-21T15:22:40+00:00 | View mode |
