@@ -2,9 +2,14 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [SJsDmxPfGe](../../notes/1thatkFaTByXWPkbi8JcZQ.md) | 2027／07 至 10 月 第柒拾玖次公民科技跑咖松 | 2026-11-21T14:56:48+00:00 | View mode |
-| [H1IgVnPkGg](../../notes/G2NrbqCXR2u7VQnl5SG9UQ.md) | 社群小聚｜彰化 | 2026-11-21T14:51:25+00:00 | View mode |
-| [SJhfElwGGg](../../notes/jXRW3NmPQISprRaOA6hphA.md) | 2027／11 g0v 大松命名 | 2026-11-21T14:49:42+00:00 | View mode |
+| [SJsDmxPfGe](../../notes/1thatkFaTByXWPkbi8JcZQ.md) | 2027／07 至 10 月 第柒拾玖次公民科技跑咖松 | 2026-11-21T15:38:51+00:00 | View mode |
+| [SJhfElwGGg](../../notes/jXRW3NmPQISprRaOA6hphA.md) | 2027／11 g0v 大松命名 | 2026-11-21T15:32:26+00:00 | View mode |
+| [H1IgVnPkGg](../../notes/G2NrbqCXR2u7VQnl5SG9UQ.md) | 社群小聚｜彰化 | 2026-11-21T15:27:49+00:00 | View mode |
+| [r1r42GXdfg](../../notes/oC6aCXPbR8KH2txBL1GwCw.md) | 社群小聚｜南投與埔里 | 2026-11-21T15:22:40+00:00 | View mode |
+| [BJHF00i_Gg](../../notes/0k2xQac4Ru6zWpQX_naeDg.md) | 桃園 | 2026-11-21T15:15:48+00:00 | View mode |
+| [r1NujZbRfl](../../notes/0LpMh6OWRIGHkPcgu93R8g.md) | 林口生活圈 | 2026-11-21T15:14:46+00:00 | View mode |
+| [B17hjPWufg](../../notes/zlgYN4KdR_a4bsOVPdOr1w.md) | 社群小聚｜臺中與苗栗 | 2026-11-21T15:13:52+00:00 | View mode |
+| [SyuU7Md9Zg](../../notes/iOqB9tVBQF6_hFl_Jm2jOA.md) | 共辦效應 Meetup<br> Accompanied Effect | 2026-11-21T15:13:34+00:00 | Book mode |
 | [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-11-21T14:29:42+00:00 | View mode |
 | [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | Now Coming 2027 g0v 黑客松｜1月 ~ 5 月 | 2026-11-21T14:13:14+00:00 | View mode |
 | [HJMvgwP0zx](../../notes/VfQVXR8OTyu8hlDltdwNWg.md) | g0v Hackathan | 2026-11-21T14:01:19+00:00 | Book mode |
@@ -28,8 +33,6 @@
 | [rkRYZt-9Ze](../../notes/ru-7S6xsQL-1pXmTRXPAmg.md) | 製作「面紙包」用於發送 | 2026-11-12T15:53:35+00:00 | View mode |
 | [SJE91_dKxg](../../notes/xJ9_dZ_lTm2syUKrIhmY8g.md) | 咖博館：飲料、茶點、素食午餐 | 2026-11-11T06:00:58+00:00 | View mode |
 | [S10SNQMj1x](../../notes/gj-iH-szRWypWKwt1glm_Q.md) | 地區社群支持方案 | 2026-11-10T21:31:42+00:00 | View mode |
-| [r1NujZbRfl](../../notes/0LpMh6OWRIGHkPcgu93R8g.md) | 林口生活圈 | 2026-11-10T21:26:11+00:00 | View mode |
-| [SyuU7Md9Zg](../../notes/iOqB9tVBQF6_hFl_Jm2jOA.md) | 共辦效應 Meetup<br> Accompanied Effect | 2026-11-10T21:25:15+00:00 | Book mode |
 | [HJiDSv76Ge](../../notes/Dm4FpkkTRQ-uWN1SAiOmnA.md) | 學區地理資料 | 2026-11-10T14:48:52+00:00 | View mode |
 | [ry5TjRBhD](../../notes/hkqwwNqfQ9OPLIamC5QW-g.md) | g0v 賀年卡與賀年詞募集<br>New Year's Cards and Greeting Phrases | 2026-11-04T14:10:44+00:00 | View mode |
 | [ryvfY7v5xe](../../notes/ARUbzVynRga6J8SUgiCgGw.md) | 交流推廣活動 Outreach & Exchange Events & Outcomes | 2026-11-03T14:20:31+00:00 | View mode |
@@ -48,7 +51,6 @@
 | [Hkh8DtAgfl](../../notes/EvkiY6tiQzK2uve2kgpnAg.md) | 2027_ON+1030 籌辦工作文件 | 2026-10-13T01:18:38+00:00 | View mode |
 | [BkxrwGIvWx](../../notes/qkIrfWr9Q_Kho3HJ-uZ9IQ.md) | Almanac _ 公民科技年曆 / 主題日評估 | 2026-10-13T01:15:00+00:00 | View mode |
 | [Byv5v5shbg](../../notes/-JUKdilNQ-uncai7swYokQ.md) | 2026 Civic Tech ON (October+November) | 2026-10-12T07:30:54+00:00 | View mode |
-| [B17hjPWufg](../../notes/zlgYN4KdR_a4bsOVPdOr1w.md) | 社群小聚｜臺中 | 2026-10-08T19:10:47+00:00 | View mode |
 | [ByV45GdcZe](../../notes/LvivQwz1TT20JqfRA-U0sQ.md) | 社群小聚｜台東 | 2026-10-08T14:47:49+00:00 | View mode |
 | [S1vmKz_9-l](../../notes/U8ZY6AcwTAWX1Kyz-t614g.md) | 社群小聚｜花蓮 | 2026-10-08T14:47:20+00:00 | View mode |
 | [H1rk1Z9lel](../../notes/z91iPKGeRTGH-lIs8XKayg.md) | Appendix-Civic Tech Project & Community Handbook \| Learning Sheet 公民科技專案與社群手冊學習單 | 2026-10-08T02:24:41+00:00 | View mode |
@@ -57,7 +59,6 @@
 | [rJ2tUiXjee](../../notes/sYm-3TeaSD-M1FPSZpO9WA.md) | 5-6 數位公民素養願景與推動策略探索 ｜公民科技專案手冊｜Civic Tech Project Handbook | 2026-10-08T01:49:59+00:00 | View mode |
 | [SkIjbv2Yfe](../../notes/528r6B6hSy-fa821uuJNkA.md) | 與學生團隊合作募款 | 2026-10-06T07:12:36+00:00 | View mode |
 | [HJzSklLjR](../../notes/_5ze8ubgR1a8PeolhyVMpg.md) | 公民科技專案與社群資料庫 | 2026-10-03T09:29:49+00:00 | View mode |
-| [BJHF00i_Gg](../../notes/0k2xQac4Ru6zWpQX_naeDg.md) | 桃園 | 2026-09-28T11:39:24+00:00 | View mode |
 | [r17EsOYrex](../../notes/71J-oG2VThSDQomGVzi0HA.md) | 社群小聚｜在嘉義舉辦社群小聚 | 2026-09-27T13:47:00+00:00 | View mode |
 | [H1NxxDjyGl](../../notes/N406TMGEQYKe9nK8bu26XQ.md) | 基隆 | 2026-09-19T14:37:07+00:00 | View mode |
 | [ryIv5z_Qgg](../../notes/u_WlftE-TreiWR59Jyr07w.md) | 零時小學校<br>從零開始的 AI 素養培力<br>與 AI 應用提案演練課 | 2026-09-12T01:23:57+00:00 | View mode |
@@ -70,7 +71,6 @@
 | [SJkN2cwyze](../../notes/7bid8DlMSg2xC8ydTMoYag.md) | 生態 | 2026-09-02T02:37:12+00:00 | View mode |
 | [SJAaSX7dMl](../../notes/dfgqzLtBSraAjWSlpZxJZw.md) | 金門 | 2026-08-31T16:05:00+00:00 | View mode |
 | [Bk_SXQmuGg](../../notes/TyQnLyy5R3SRvSFwLUvB7Q.md) | 社群小聚｜部落與聚落 | 2026-08-31T16:02:28+00:00 | View mode |
-| [r1r42GXdfg](../../notes/oC6aCXPbR8KH2txBL1GwCw.md) | 社群小聚｜南投與埔里 | 2026-08-31T15:24:05+00:00 | View mode |
 | [rkWbVhDyfg](../../notes/OVCKhe3eTrOYYioJUuOvCA.md) | 社群小聚｜雲林 | 2026-08-31T15:21:24+00:00 | View mode |
 | [Bk06N1PGfg](../../notes/Veor3T_3SiGyhlV8MA-crA.md) | 每月一次的週間晚上 AI x Civic Tech 分享 ┃ 籌備共筆 | 2026-08-30T11:54:57+00:00 | View mode |
 | [By7uRdPZlg](../../notes/ZQVAAa9CQv6-oa0BQIGLeQ.md) | 2026／07 至 10 月 第柒拾肆次公民科技跑咖松 | 2026-08-30T10:23:59+00:00 | View mode |

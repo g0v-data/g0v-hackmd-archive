@@ -7,35 +7,35 @@ tags: hackathon, jothon
 中文名稱：g0v 第柒拾玖次公民科技跑咖松
 英文名稱：g0v Civic Tech Hopping
 
-地區社群活動籌劃文件：
-- https://g0v.hackmd.io/@jothon/meetup/
+地區社群活動籌劃文件：https://g0v.hackmd.io/@jothon/meetup/
 
-## 活動場次資訊
+## 活動場次規劃
 
 ![](https://g0v.hackmd.io/_uploads/rkktJ7mdzl.png)
 
+初步構想：員林 / 二林 / 斗六 / 北港 / 埔里 / 中興新村 / 苗栗市 / 豐原 / 烏日
+
 彰化
-7/17 週六 彰化市
-7/18 週日 彰化二林鎮
-https://g0v.hackmd.io/@jothon/meetup/https%3A%2F%2Fg0v.hackmd.io%2FG2NrbqCXR2u7VQnl5SG9UQ%3Fview
+7/17 週六下午 彰化員林鎮
+7/18 週日下午 彰化二林鎮
 
 雲林
-8/21 週六 雲林_斗六市
-8/22 週日 雲林北港或嘉義新港
-https://g0v.hackmd.io/@jothon/meetup/https%3A%2F%2Fg0v.hackmd.io%2FOVCKhe3eTrOYYioJUuOvCA%3Fview
+8/21 週六下午 雲林斗六市
+8/22 週日下午 雲林北港或嘉義新港
 
 南投
-9/18 週六 縣市+大學：埔里+暨南大學
-9/19 週日 縣市+機關：南投中興新村+中興大學南投分部 https://nantou.nchu.edu.tw/education/
-https://g0v.hackmd.io/@jothon/meetup/https%3A%2F%2Fg0v.hackmd.io%2FoC6aCXPbR8KH2txBL1GwCw%3Fview
+9/18 週六下午 埔里+暨南大學 (縣市+大學)
+9/19 週日下午 南投中興新村+中興大學南投分部 (縣市+機關)
 
-苗栗與北臺中
-10/16 週六 臺中豐原
-10/17 週日 苗栗苑裡
+苗栗至豐原
+10/16 週六下午 臺中豐原
+10/17 週日下午 苗栗市
 
-台中
-11/07 週六 台中：g0v 第捌拾次黑客松 Hackath80n & Civic Tech Day
-https://g0v.hackmd.io/@jothon/civictechon
+臺中高鐵站與臺中市區
+11/07 週六上下午 臺中高鐵站，g0v 第捌拾次黑客松 Hackath80n & Civic Tech Day https://g0v.hackmd.io/@jothon/civictechon
+
+
+
 
 ---
 :::info

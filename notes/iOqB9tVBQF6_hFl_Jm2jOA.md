@@ -20,7 +20,7 @@ tags: jothon,
 - [林口生活圈](https://g0v.hackmd.io/0LpMh6OWRIGHkPcgu93R8g?view)
 - [桃園](https://g0v.hackmd.io/0k2xQac4Ru6zWpQX_naeDg?view)
 - [南庄桐花松 2020, 2021, 2022, 2023](https://g0v.hackmd.io/@jothon/tungflowerthon/)
-- [臺中 2026](https://g0v.hackmd.io/zlgYN4KdR_a4bsOVPdOr1w?view)
+- [臺中與苗栗 2026, 2027](https://g0v.hackmd.io/zlgYN4KdR_a4bsOVPdOr1w?view)
 - [南投與埔里 2027](https://g0v.hackmd.io/oC6aCXPbR8KH2txBL1GwCw?view)
 - [彰化 2027](https://g0v.hackmd.io/G2NrbqCXR2u7VQnl5SG9UQ?view)
 - [雲林 2027](https://g0v.hackmd.io/OVCKhe3eTrOYYioJUuOvCA?view)
