@@ -7,7 +7,7 @@ tags: hackathon,
 - [What is a g0v hackathon ?<br>什麼是 g0v 黑客松？](https://g0v.hackmd.io/KvzHayP4SPqXRhtrn2QH0w?view)
 - [g0v Code of Conduct (CoC)<br>g0v 行為守則](https://g0v.hackmd.io/s/COC)
 
-## Event Info<br>[UTC+8] 2027/01/09<br>Sat. 10:30-17:00<br>高雄左營 & 台北<br>+<br>[UTC+8] 2027/01/10<br>Sun. 10:30-17:00<br>屏東市區 & 台北
+## Event Info<br>[UTC+8] 2027/01/09<br>Sat. 10:30-17:00<br>高雄左營 & 台北 NPOHUB <br>+<br>[UTC+8] 2027/01/10<br>Sun. 10:30-17:00<br>屏東市區 & 台北 NPOHUB 
 
 - [Registration<br>報名網址]()[target=_blank]
 - [Run-down / Projects<br>活動流程與專案清單<br>參加者 Participant]()

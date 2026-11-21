@@ -2,7 +2,7 @@
 tags: hackathon, jothon
 ---
 
-## g0v 第柒拾陸次高屏共振黑客松<br>G0Vote Hackath76n
+## g0v 第柒拾陸次高屏共振黑客松<br>g0v Hackath76n
 
 # What is a g0v hackathon ?
 
