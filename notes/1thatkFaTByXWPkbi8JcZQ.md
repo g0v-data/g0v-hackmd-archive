@@ -14,18 +14,26 @@ tags: hackathon, jothon
 
 ![](https://g0v.hackmd.io/_uploads/rkktJ7mdzl.png)
 
-7/17 週六 彰化_北彰化
-7/18 週日 彰化_南彰化
+彰化
+7/17 週六 彰化市
+7/18 週日 彰化二林鎮
 https://g0v.hackmd.io/@jothon/meetup/https%3A%2F%2Fg0v.hackmd.io%2FG2NrbqCXR2u7VQnl5SG9UQ%3Fview
 
-8/21 週六 雲林_東雲林
-8/22 週日 雲林_西雲林
+雲林
+8/21 週六 雲林_斗六市
+8/22 週日 雲林北港或嘉義新港
 https://g0v.hackmd.io/@jothon/meetup/https%3A%2F%2Fg0v.hackmd.io%2FOVCKhe3eTrOYYioJUuOvCA%3Fview
 
+南投
 9/18 週六 縣市+大學：埔里+暨南大學
-9/19 週日 縣市+大學：南投中興新村+中興大學南投分部 https://nantou.nchu.edu.tw/education/
+9/19 週日 縣市+機關：南投中興新村+中興大學南投分部 https://nantou.nchu.edu.tw/education/
 https://g0v.hackmd.io/@jothon/meetup/https%3A%2F%2Fg0v.hackmd.io%2FoC6aCXPbR8KH2txBL1GwCw%3Fview
 
+苗栗與北臺中
+10/16 週六 臺中豐原
+10/17 週日 苗栗苑裡
+
+台中
 11/07 週六 台中：g0v 第捌拾次黑客松 Hackath80n & Civic Tech Day
 https://g0v.hackmd.io/@jothon/civictechon
 

@@ -2,8 +2,12 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [HJMvgwP0zx](../../notes/VfQVXR8OTyu8hlDltdwNWg.md) | g0v Hackathan | 2026-11-21T13:11:07+00:00 | Book mode |
-| [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | What is a g0v hackathon ? | 2026-11-21T12:52:41+00:00 | View mode |
+| [SJsDmxPfGe](../../notes/1thatkFaTByXWPkbi8JcZQ.md) | 2027／07 至 10 月 第柒拾玖次公民科技跑咖松 | 2026-11-21T14:56:48+00:00 | View mode |
+| [H1IgVnPkGg](../../notes/G2NrbqCXR2u7VQnl5SG9UQ.md) | 社群小聚｜彰化 | 2026-11-21T14:51:25+00:00 | View mode |
+| [SJhfElwGGg](../../notes/jXRW3NmPQISprRaOA6hphA.md) | 2027／11 g0v 大松命名 | 2026-11-21T14:49:42+00:00 | View mode |
+| [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-11-21T14:29:42+00:00 | View mode |
+| [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | Now Coming 2027 g0v 黑客松｜1月 ~ 5 月 | 2026-11-21T14:13:14+00:00 | View mode |
+| [HJMvgwP0zx](../../notes/VfQVXR8OTyu8hlDltdwNWg.md) | g0v Hackathan | 2026-11-21T14:01:19+00:00 | Book mode |
 | [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | civictech.tw 資料登載工作頁面 & 收錄原則探討 | 2026-11-20T20:20:14+00:00 | View mode |
 | [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-11-20T10:46:32+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-11-20T02:14:44+00:00 | View mode |
@@ -18,8 +22,6 @@
 | [HJeJifQjgl](../../notes/_kuWKonIRvW6HU9o09eEWg.md) | 2027／05 g0v 大松命名 | 2026-11-15T18:05:03+00:00 | View mode |
 | [r1YnqGXjgg](../../notes/4-nyFkwISE2VQ1JO6rRIyw.md) | 2027／03 g0v 大松命名 | 2026-11-15T18:03:59+00:00 | View mode |
 | [B1erzPwRMe](../../notes/jDcns09jQB-FGawwddNLkQ.md) | 2028 年各場次大松命名 | 2026-11-15T17:53:12+00:00 | View mode |
-| [SJsDmxPfGe](../../notes/1thatkFaTByXWPkbi8JcZQ.md) | 2027／07 至 10 月 第柒拾玖次公民科技跑咖松 | 2026-11-15T17:47:49+00:00 | View mode |
-| [SJhfElwGGg](../../notes/jXRW3NmPQISprRaOA6hphA.md) | 2027／11 g0v 大松命名 | 2026-11-15T17:46:54+00:00 | View mode |
 | [HJNDn3e7C](../../notes/zyPgR_H6QwWBBgGXA6DYEA.md) | 活動命名 Bookmode | 2026-11-15T16:49:28+00:00 | Book mode |
 | [Hy1S5Mmjel](../../notes/k-zw6iqaRy-SqBEKj_gH6w.md) | 2027／01 g0v 大松命名 | 2026-11-15T16:43:22+00:00 | View mode |
 | [ry9tadGjkl](../../notes/vywr30o0Ssqpn3orwM4ePQ.md) | 健康的 g0ver / 健康風險意識 內容蒐集 | 2026-11-13T13:12:28+00:00 | View mode |
@@ -29,8 +31,6 @@
 | [r1NujZbRfl](../../notes/0LpMh6OWRIGHkPcgu93R8g.md) | 林口生活圈 | 2026-11-10T21:26:11+00:00 | View mode |
 | [SyuU7Md9Zg](../../notes/iOqB9tVBQF6_hFl_Jm2jOA.md) | 共辦效應 Meetup<br> Accompanied Effect | 2026-11-10T21:25:15+00:00 | Book mode |
 | [HJiDSv76Ge](../../notes/Dm4FpkkTRQ-uWN1SAiOmnA.md) | 學區地理資料 | 2026-11-10T14:48:52+00:00 | View mode |
-| [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-11-09T14:04:25+00:00 | View mode |
-| [H1IgVnPkGg](../../notes/G2NrbqCXR2u7VQnl5SG9UQ.md) | 社群小聚｜彰化 | 2026-11-06T19:11:04+00:00 | View mode |
 | [ry5TjRBhD](../../notes/hkqwwNqfQ9OPLIamC5QW-g.md) | g0v 賀年卡與賀年詞募集<br>New Year's Cards and Greeting Phrases | 2026-11-04T14:10:44+00:00 | View mode |
 | [ryvfY7v5xe](../../notes/ARUbzVynRga6J8SUgiCgGw.md) | 交流推廣活動 Outreach & Exchange Events & Outcomes | 2026-11-03T14:20:31+00:00 | View mode |
 | [By8R5AED1l](../../notes/jVVaW4VVS7qV51Af_OGV7g.md) | Jothon SNS | 2026-11-03T13:57:27+00:00 | View mode |

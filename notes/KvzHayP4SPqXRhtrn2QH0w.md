@@ -2,7 +2,43 @@
 tags: hackathon, jothon
 ---
 
-## g0v 第柒拾陸次高屏共振黑客松<br>g0v Hackath76n
+# Now Coming 2027 g0v 黑客松｜1月 ~ 5 月
+
+## 【一月 January】
+
+### 2027/01/09 週六 Sat. 10:30-17:00 第柒拾陸次高屏共振黑客松 g0v Hackath76n
+- Location_Kaohsiung：高雄市左營區 Le Phare 共享空間 | 新左營館 (高雄市左營區站前北路1號環球購物中心4樓) (4 F., No. 1, Zhanqian N. Rd., Zuoying Dist., Kaohsiung City, Taiwan) 
+- Location_Taipei：g0v 台北社群空間 (台北市中正區重慶南路三段2號) g0v Community Hub, Taipei (No. 2, Section 3, Chongqing South Road, Zhongzheng District, Taipei City)
+
+### 2027/01/10 週日 Sun. 10:30-17:00 第柒拾陸次高屏共振黑客松 g0v Hackath76n
+- Location_Pingtung：CityReader 讀者城市閱讀文創館(屏東縣屏東市瑞光里民生路4-17號) (No. 4-17, Minsheng Road, Pingtung City, Taiwan)
+- Location_Taipei：g0v 台北社群空間 (台北市中正區重慶南路三段2號) g0v Community Hub, Taipei (No. 2, Section 3, Chongqing South Road, Zhongzheng District, Taipei City)
+
+## 【三月 March】
+
+### 2027/03/06 週六 Sat. 10:30-17:00 第柒拾柒次嘉南羊年黑客松 g0v Hackath77n
+- Location_Chiayi：嘉義市謐巷空間 (嘉義市西區民生北路215巷11號)(No.11, Ln. 215, Minsheng N. Rd., West Dist., Chiayi City)
+
+### 2027/03/07 週日 Sun. 10:30-17:00 第柒拾柒次嘉南羊年黑客松 g0v Hackath77n
+- Location_Tainan：臺南市好想工作室 (臺南市中西區友愛街117號2樓)(2 F., No. 117, You'ai St., West Central Dist., Tainan City )
+
+## 【五月 May】
+
+### 2027/05/23 週日 Sun. 10:30-17:00 第柒拾捌次黑客松 g0v Hackath78n
+- Location_Taipei：g0v 台北社群空間 (台北市中正區重慶南路三段2號) g0v Community Hub, Taipei (No. 2, Section 3, Chongqing South Road, Zhongzheng District, Taipei City)
+
+:::info
+黑客松當日活動流程 Event Schedule
+．10:20-10:30 報到 Check-in
+．10:30-11:00 活動開場，公民科技資料庫介紹 Opening & Civic Tech Database Introduction
+．11:00-12:00 提案時間，每個提案 3 分鐘 Project Pitching (3 mins per pitch)
+．12:00 午餐 Lunch
+．14:00-14:40 短講時間，每個短講 8 分鐘 Talks (8 mins per talk)
+．16:00-17:00 成果報告，每個報告 5 分鐘 Project Wrap-up (5 mins per presentation)
+．17:00 活動結束 Event Ends
+:::
+
+---
 
 # What is a g0v hackathon ?
 

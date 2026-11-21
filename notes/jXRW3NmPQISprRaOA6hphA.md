@@ -8,14 +8,16 @@ tags: hackathon, jothon
 g0v 黑客松（aka 大松）活動名稱大部分是參與者在活動前提案投票後命名的，讓你可以冠名 g0v 黑客松！
 
 本次大松：g0v 第捌拾次_______黑客松 Hackath80n
-活動時間：20271107 週日
-活動地點：台北市 g0v 台北社群空間
+活動時間：
+活動地點：
 報名網址：https://g0v.hackmd.io/@jothon/g0v-hackath80n
 :::
 
+- g0v 第捌拾次黑客松 Hackath80n & Civic Tech Day
 - 八十黑客松
 - 本次實際上是第 81 場
     - 9*9=81
+        - g0v 第捌拾次 9*9=81 黑客松 Hackath80n
 
 
 

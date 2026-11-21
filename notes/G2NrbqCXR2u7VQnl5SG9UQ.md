@@ -43,4 +43,4 @@ tags: jothon,
 ### 活動場地蒐集筆記
 
 員林
-- https://www.facebook.com/share/1DKQ78hPmE/
+- 員林演藝廳 Yuanlin Performance Hall https://www.facebook.com/share/1DKQ78hPmE/

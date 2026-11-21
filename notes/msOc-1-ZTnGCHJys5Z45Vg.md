@@ -15,7 +15,54 @@ https://g0v.cafe ☕**
 
 https://g0v.hackmd.io/
 
-## g0v 台北黑客松 Hackath75n 合作單位與貢獻者 Contributors & Donors
+
+## g0v 高屏共振黑客松 g0v Hackath76n 合作單位與貢獻者 Contributors & Donors
+
+### 活動籌辦執行 Contributors
+- 活動籌畫 Event Planning：揪松團 https://linktr.ee/g0vjothon , chewei, Ronny
+- 帳務行政 Administration：OCF
+- 活動主視覺創作：YI
+- 揪松網網站更新：
+- 協助宣傳活動 Promotion Support：
+    - 揪松團發 SNS、揪松團寄送電子報、揪松團 LINE 群組
+    - 預計發送，也歡迎自行補充宣傳管道：
+        - FB 
+            - 島島阿學 FB 社團
+        - Discord
+            - Code for Taiwan Discord
+        - 大學科系與社團，盤點相關系辦信箱、學生社團信箱，加入到揪松團的信件群組「大專院校科系 & 大學社團」 https://docs.google.com/spreadsheets/d/1r8lQiNTov7L3vfrwFQZOZ6OJtAlCSe7dfy2HdowOYs8/edit
+- 活動主持 Event Hosting：chewei, ronny
+- 專案導覽團 Project Tour：
+- 場地：g0v 台北社群空間
+    - 餐飲籌劃：
+    - 場地布置志工：Percy,
+    - 直播志工：
+    - 攝影志工：
+    - 協助參加者報到 Check-in：
+    - 當天場務志工：
+    - 現場提供英語解說協助 On-site English Interpretation Support：
+- 場地：高雄左營高鐵共構四樓
+    - 餐飲籌劃：
+    - 場地布置志工：chewei,
+    - 直播志工：SeanGau
+    - 攝影志工：
+    - 協助參加者報到 Check-in：
+    - 當天場務志工：
+    - 現場提供英語解說協助 On-site English Interpretation Support：
+- 場地：屏東市區讀者城市空間
+    - 餐飲籌劃：
+    - 場地布置志工：chewei,
+    - 直播志工：SeanGau
+    - 攝影志工：
+    - 協助參加者報到 Check-in：
+    - 當天場務志工：
+    - 現場提供英語解說協助 On-site English Interpretation Support：
+
+---
+
+## 歷屆黑客松的合作單位與貢獻者 Contributors & Donors
+
+:::spoiler g0v 投出未來黑客松 G0Vote Hackath75n 合作單位與貢獻者 Contributors & Donors
 
 ### 活動籌辦執行 Contributors
 - 活動籌畫 Event Planning：揪松團 https://linktr.ee/g0vjothon , chewei, Ronny
@@ -46,9 +93,9 @@ https://g0v.hackmd.io/
 - 活動主持 Event Hosting：chewei, ronny
 - 專案導覽團 Project Tour：
 
----
+:::
 
-## 歷屆黑客松的合作單位與貢獻者 Contributors & Donors
+---
 
 :::spoiler g0v 台北黑客松 Hackath74n 合作單位與貢獻者 Contributors & Donors
 
@@ -94,6 +141,8 @@ https://g0v.hackmd.io/
     - 歡迎跳坑 https://g0v.hackmd.io/8nYqYBChQliFk55hQlnP5Q?view
 
 :::
+
+---
 
 :::spoiler g0v 黑客松 Hackath73n 合作單位與貢獻者 Contributors & Donors
 
@@ -142,6 +191,8 @@ https://g0v.hackmd.io/
     - 獎金贊助：綠沙發社群, chewei
 
 :::
+
+---
 
 :::spoiler g0v 台南黑客松 Hackath72n 合作單位與貢獻者 Contributors & Donors
 
@@ -194,6 +245,8 @@ https://g0v.hackmd.io/
     - 獎金贊助：綠沙發社群, chewei
 
 :::
+
+---
 
 :::spoiler g0v KHH 高雄黑客松 Hackath71n 合作單位與貢獻者 Contributors & Donors
 
