@@ -9,7 +9,7 @@ tags: hackathon,
 
 ## Event Info<br>[UTC+8] 2027/01/09<br>Sat. 10:30-17:00<br>高雄左營 & 台北 NPOHUB <br>+<br>[UTC+8] 2027/01/10<br>Sun. 10:30-17:00<br>屏東市區 & 台北 NPOHUB 
 
-- [Registration<br>報名網址]()[target=_blank]
+- [Registration<br>報名網址](https://forms.gle/9gm3Jhtn4fZQ6kZy5)[target=_blank]
 - [Run-down / Projects<br>活動流程與專案清單<br>參加者 Participant]()
 - [Live stream on YouTube<br>活動直播](https://www.youtube.com/g0vTW)[target=_blank]
 - [g0v Slack Registration Tutorial<br>加入 g0v Slack 聊天頻道](https://g0v.hackmd.io/@jothon/joing0vslack)

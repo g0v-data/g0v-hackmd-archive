@@ -4,11 +4,11 @@ tags: vTaiwan
 # vTaiwan工作組 vTaiwan Working Group General Info
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e8eb51b0fb6025270e6eaecdb7b05180.jpg)
-- Come and join [Our weekly meetup](https://meet.jit.si/vTaiwan): Wednesday, 19:00-21:00 UTC+8
+- Come and join [Our weekly meetup](https://meet.jit.si/vTaiwan): Wednesday, 19:00-20:00 UTC+8
 - Find us at
     - [email](vtaiwan.tw@gmail.com)
     - [Facebook](https://www.facebook.com/vtaiwan.tw/)
-    - [Twitter](https://twitter.com/v_taiwan)
+    - [X](https://twitter.com/v_taiwan)
 ## 一句話說明 vTaiwan  vTaiwan in a word
 :::success
 - vTaiwan 在 2015 年創立，希望藉由數位工具的導入與多元利害關係人的參與，收集意見、進行討論、凝聚共識，讓政府的政策與法規能夠落實並回應這些公民參與的成果。
@@ -34,7 +34,7 @@ vTaiwan 自從 2014 太陽花學運後創立，是當時的政府為了增進公
 :::
 - 如果想要成為參與者，強烈建議先看 [新手簡報](https://docs.google.com/presentation/d/1ELAVIpaPVCmAx7nq-7e8-SVrckZ4ohRwn3V-TSpe78U/edit?usp=sharing)
 - 如果對於每週小聚有興趣，可以參考左邊文件列下方的小松紀錄 
-    - 最新的小松 [20260506 小松](/V8QuXg79T66_S26iMTsPMw)
+    - 最新的小松 [20261118 小松](/I6V9IyWRQxqKbJfuOz4aIg)
 - 如果對於目前進行中的專案感興趣，歡迎參考左邊文件列中的進行中專案
 - 如果對於過去的專案感興趣，歡迎參考左邊文件列中的過去專案
 - 如果想要參考相關資料：可以去 vTaiwan 相關資料整理。
@@ -57,7 +57,7 @@ We hope the above information helps you understand vTaiwan better. If you have a
 :::
 - If you are interested in becoming a participant, it is highly recommended to first view the newcomer's presentation.
 - If you are interested in the weekly meetups, you can refer to the weekly mmetups. We catelog the meetup documnets by the order of time. 
-    - The latest one: [20260506 小松](/V8QuXg79T66_S26iMTsPMw)
+    - The latest one: [20261118 小松](/I6V9IyWRQxqKbJfuOz4aIg)
 - If you are interested in current ongoing projects, please refer to the 'Ongoing Projects' section. 
 - If you are interested in past projects, please refer to the 'Past Projects' section. 
 - If you want to consult related materials: you can go to the "vTaiwan related materials" section.
