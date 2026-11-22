@@ -8,5 +8,6 @@ tags: city,
 - [永續](https://voteclimate.tw/platforms)
 - [社會住宅](https://ours.org.tw/2026candidatecomparison/)
 - [人本交通](https://ngtu.org/whitepaper#tracker)
+- [遊戲權落實](https://www.facebook.com/share/1CcKKpEfff/)[target=_blank]
 - [臺北市 Taipei](https://g0v.hackmd.io/3Rp4pGotTlW5rzRnEt64KQ?view)
 - [基隆市](https://g0v.hackmd.io/cXVQ8QtcQBWt40ir84DQOA?view)
