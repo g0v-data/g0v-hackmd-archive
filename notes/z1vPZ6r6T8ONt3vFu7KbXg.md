@@ -35,6 +35,7 @@ tags: 都市農耕
     - https://www.facebook.com/TeymuWatan/posts/pfbid02rMCAribXfs85VEpwTYDucJeNSWbB44xhmR1RbyAfHDzv8VYX28a23HUGeHEVosT1l
 - 五節芒與掃把
 - [https://www.facebook.com/revealbooks/posts/899732096731464](https://www.facebook.com/revealbooks/posts/899732096731464)
+- 探討塑膠掃把會產生塑膠碎屑 https://www.facebook.com/share/p/1EFeV9gHBq/
 - [https://www.facebook.com/permalink.php?story_fbid=508469442655540&id=100004774657729](https://www.facebook.com/permalink.php?story_fbid=508469442655540&id=100004774657729)
 - [https://www.facebook.com/twpochen/posts/511516809027600](https://www.facebook.com/twpochen/posts/511516809027600)
 - [https://www.facebook.com/photo.php?fbid=10205642127588617&set=a.1738470257696.2085628.1116811865&type=3](https://www.facebook.com/photo.php?fbid=10205642127588617&set=a.1738470257696.2085628.1116811865&type=3)
