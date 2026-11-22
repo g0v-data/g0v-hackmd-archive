@@ -1,0 +1,1 @@
+[TG88](https://tg88alt.pro/) nền tảng giải trí trực tuyến hiện đại, mang đến không gian trải nghiệm đa dạng với giao diện trực quan, tốc độ vận hành ổn định và thiết kế tối ưu trên nhiều thiết bị. Với định hướng lấy trải nghiệm người dùng làm trọng tâm, TG88 không ngừng cập nhật công nghệ và hoàn thiện hệ sinh thái để tạo nên hành trình giải trí thuận tiện, mượt mà và liền mạch.
