@@ -27,7 +27,7 @@ Google AI 想提案【租屋透明地圖 2.0】– 告別租屋黑市與惡房�
     - 備註：影片可愛風格是 chewei 選的
 
 ## 專案連結
-- Github: https://github.com/liilee111/tw-rental-transparency-map 
+- Github: https://github.com/liilee111/tw-rental-transparency-map (Plan to transfer the ownership to g0v later)
 
 ## 評估：能否再請 AI 可以往下執行？
 
