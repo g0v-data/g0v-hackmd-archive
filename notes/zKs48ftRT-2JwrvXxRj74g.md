@@ -19,6 +19,17 @@ tags: opengov
     - 用 googlespreadsheet 來蒐集
 
 
+待整理
+https://docs.google.com/spreadsheets/d/1NB-ehgt6wPzAAO4cHzHKM4Q4mvDiOG9qVEJp_IvsENE/edit?usp=drivesdk
+
+
+:::info
+文件目錄
+[TOC]
+:::
+
+
+
 ## 國際經驗整理
 
 ![](https://g0vhackmd.blob.core.windows.net/g0v-hackmd-images/upload_a722765f7d41ecdb3b08e74b9b69bbb0)
@@ -111,7 +122,8 @@ tags: opengov
 
 #### 法規｜Crowdsourced Law
 
-- 案例蒐集：[群眾編審法律 / 政策共識凝聚 / 工具](https://g0v.hackpad.tw/--7UUZdBOsM4U)
+- 案例蒐集：群眾編審法律 / 政策共識凝聚 / 工具
+    - https://g0v.hackmd.io/0Lptz8SeTBSOReirCj7Zow?view
 - 臺灣：
     - [vTaiwan](https://vtw.link/)
 
@@ -171,7 +183,7 @@ tags: opengov
 
 #### 群眾產製的都市計畫｜Crowd Planning
 
-- 案例蒐集：[Crowd Planning System Prototype](https://g0v.hackpad.com/dVyaLcWGdNA)
+- 案例蒐集：Crowd Planning System Prototype https://g0v.hackmd.io/BZMhGoJbRcmSuG5-SS9rOg
 - [https://dt.asu.edu/tools](https://dt.asu.edu/tools)
 - 臺灣：
     - [《審議式民主的北投歷程》](http://www.ptcf.org.tw/ptcf2/modules/myproject/case.php?cat_id=170&page=1)〈將審議民主經驗嵌入社區願景營造工作〉

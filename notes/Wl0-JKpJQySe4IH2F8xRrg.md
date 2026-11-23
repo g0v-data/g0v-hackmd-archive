@@ -22,4 +22,6 @@ chewei>
     - 可以增加製作者彰顯，例如  A Film by Dong, AI?
     - 可以評估 cc 授權方案
     - 可以增加 powered by g0v
+- 影像
+    - 影片末尾，可增加 松鼠走入畫面中的橋段，參考之前之前的版本
 - civictech.tw 網站中可以呈現此影片
