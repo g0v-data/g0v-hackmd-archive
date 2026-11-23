@@ -37,6 +37,8 @@ https://tainan.olc.tw/p/solar/
 kiang 製作的 台南光電地圖
 - https://www.facebook.com/story.php?story_fbid=pfbid05ye4pxfGyNsX79kPXe7n7nerwdswyiuffzpVqt9rsvz6vXXTM5gvLJUKiSqW8Vrhl&id=100063582707007&mibextid=tejx2t
 
+Aster Wei 製作
+https://formosa-solar-guide.tristan416.chatgpt.site/
 
 新聞專題報導中，有描述到案場
 - 苗栗縣 Miaoli
