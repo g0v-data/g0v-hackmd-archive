@@ -2,11 +2,11 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | civictech.tw 資料登載工作頁面 & 收錄原則探討 | 2026-11-23T18:10:17+00:00 | View mode |
 | [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-11-23T17:59:45+00:00 | View mode |
 | [Sy2szIbymx](../../notes/Wl0-JKpJQySe4IH2F8xRrg.md) | civictech.tw 介紹影片_歡迎回饋意見 | 2026-11-23T16:59:31+00:00 | View mode |
 | [SJl0a7FNXO](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群動態 | 2026-11-23T15:20:07+00:00 | Book mode |
 | [rylUFKCRJx](../../notes/oTSeXwo7RmesGeN4wuCr3A.md) | 貼圖系列企劃 | 2026-11-22T15:29:11+00:00 | View mode |
-| [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | civictech.tw 資料登載工作頁面 & 收錄原則探討 | 2026-11-21T23:41:11+00:00 | View mode |
 | [SJsDmxPfGe](../../notes/1thatkFaTByXWPkbi8JcZQ.md) | 2027／07 至 10 月 第柒拾玖次公民科技跑咖松 | 2026-11-21T16:09:07+00:00 | View mode |
 | [SJhfElwGGg](../../notes/jXRW3NmPQISprRaOA6hphA.md) | 2027／11 g0v 大松命名 | 2026-11-21T15:32:26+00:00 | View mode |
 | [H1IgVnPkGg](../../notes/G2NrbqCXR2u7VQnl5SG9UQ.md) | 社群小聚｜彰化 | 2026-11-21T15:27:49+00:00 | View mode |

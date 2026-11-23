@@ -16,6 +16,9 @@ https://www.facebook.com/story.php?story_fbid=pfbid0mZtwUAcTJwX2YfqHaNpdgNdNahnH
 
 ## 馬上應用
 
+### g0v 素材
+
+https://g0v.hackmd.io/@tofus/Bkxv56f8C
 
 ### ICON
 
@@ -65,6 +68,10 @@ https://www.facebook.com/story.php?story_fbid=pfbid0mZtwUAcTJwX2YfqHaNpdgNdNahnH
 ### 網格紙產生器
 
 - [http://gridzzly.com/](http://gridzzly.com/)
+
+### 漫畫翻譯輔助
+
+https://studio.loomic.io/zh-Hant
 
 ### 筆刷
 
@@ -281,6 +288,7 @@ https://www.facebook.com/story.php?story_fbid=pfbid0mZtwUAcTJwX2YfqHaNpdgNdNahnH
 
 ## 更多資源蒐集區
 
+- 軟體程式 https://getartcraft.com/
 - [Quora: What are the best resources for learning bleeding edge web UI and UX design ](http://www.quora.com/What-are-the-best-resources-for-learning-bleeding-edge-web-UI-and-UX-design)
 - [https://vide.tw/7815](https://vide.tw/7815)
 - 日本中の「UI/UX」の参考になるスライド資料を気合いで全部集めました！（たぶん）[http://boxil.jp/magazine/uiux/](http://boxil.jp/magazine/uiux/)
