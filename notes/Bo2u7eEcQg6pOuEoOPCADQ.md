@@ -160,6 +160,9 @@ https://g0v.hackmd.io/U3Yb1Xc0Rr6bKewv9Ip9mg?view
 - https://taiwansafetyzone.com/
     - https://www.facebook.com/100063963876690/posts/1196107739198011/
 
+戰棋桌遊《Next War: Taiwan》
+- https://www.facebook.com/share/1K8tuRqCVs/
+
 ### 役政
 
 交通費計算工具
