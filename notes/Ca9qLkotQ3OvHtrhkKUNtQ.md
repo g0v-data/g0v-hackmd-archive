@@ -1,0 +1,2 @@
+Betting on boxing or baseball
+When betting on boxing or baseball, beginners should start with the simplest outcomes, gradually moving on to handicaps and totals once they have a clear grasp of how results are calculated. In the [mobile app](https://download1xbetandroid.com/en/), the bet slip is designed to be intuitive, so you can immediately see exactly what you’ve selected and what your potential winnings are. There’s no need to complicate things unnecessarily - the fundamentals are always more important than complex strategies.
