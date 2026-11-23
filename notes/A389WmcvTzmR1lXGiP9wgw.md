@@ -4,41 +4,24 @@ description: 「g0v 社群每月九分鐘」是 g0v 揪松團發起的分享文�
 image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e4aa76b749b5cbc99414bfc86343b366.png
 ---
 
-# g0v 社群每月九分鐘
+# g0v 社群動態
 
-:::info
-本頁連結 https://g0v.hackmd.io/@jothon/community99
-:::
+## 📰 g0v 社群每分鐘
+
+- [g0v rep0rter 社群每分鐘](https://rep0rter.observe.tw/)
+- [Event 近期活動資訊](https://g0v.github.io/community-calendar/)
+- [社群常用網址彙整](https://linktr.ee/g0vjothon)
+
+---
+
+## [📰 g0v 社群每月九分鐘](https://g0v.hackmd.io/@jothon/community99)
 
 ### 「g0v 社群每月九分鐘」是 g0v 揪松團發起的分享文，每月上旬更新，希望每月可以用九分鐘的時間，跟你分享 g0v 社群每月趣事。分享文是在 HackMD 上發表的共筆，歡迎共同編輯。
 
 ![](https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_e4aa76b749b5cbc99414bfc86343b366.png)
 
-:::success
-**關於 g0v 揪松團**
-
-g0v 零時政府揪松團（g0v jothon）是主辦 g0v 百人大黑客松與基礎松的工作小組（task force），2012 年底開始舉辦雙月大松，2014 年後正式取名為「揪松團」，並於 2016 年開始招募正職員工，重啟社群基礎建設計畫，希望在大黑客松之餘，讓線上與線下的跨界協作更為順暢。
-
-**g0v 揪松團的各種社群帳號**
-
-📍 g0v 揪松團 IG - https://www.instagram.com/g0v_jothon/
-📖 零時小學校 FB 社團 - https://www.facebook.com/groups/jothon.sch001
-💬 g0v 揪松團 LINE 社群 - http://bit.ly/jothon-LINE
-📕 揪松網 - https://jothon.g0v.tw/
-💰 捐款支持 g0v 黑客松 - http://bit.ly/moneyg0v
-（g0v 雙月黑客松開放大眾免費參與，歡迎自由捐款給負責揪大松的 g0v 揪松團，讓我們有經費可以持續在 g0v 社群推動開源專案。）
-:::
-
----
-
-## [📰 首頁：g0v 社群每月九分鐘](https://g0v.hackmd.io/@jothon/community99)
-
 請務必使用：四位數西元年+斜線+雙位數月份
 https://api.g0v.tw/community99/
-
-
-- [近期活動資訊](https://g0v.github.io/community-calendar/)
-- [社群常用網址彙整](https://linktr.ee/g0vjothon)
 
 ## 2024
 - [2024/12 `預熱中`](/@jothon/community99-2412)

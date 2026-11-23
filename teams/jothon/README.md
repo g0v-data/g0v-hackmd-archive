@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [SJl0a7FNXO](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群動態 | 2026-11-23T15:20:07+00:00 | Book mode |
 | [Sy2szIbymx](../../notes/Wl0-JKpJQySe4IH2F8xRrg.md) | civictech.tw 介紹影片_歡迎回饋意見 | 2026-11-23T13:57:20+00:00 | View mode |
 | [rylUFKCRJx](../../notes/oTSeXwo7RmesGeN4wuCr3A.md) | 貼圖系列企劃 | 2026-11-22T15:29:11+00:00 | View mode |
 | [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | civictech.tw 資料登載工作頁面 & 收錄原則探討 | 2026-11-21T23:41:11+00:00 | View mode |
@@ -23,7 +24,6 @@
 | [BkCPHcYEee](../../notes/_ab2mPTsSOqJC4V8ssMnDg.md) | 零時小學校<br>專案孵化計畫<br>Civic Nest | 2026-11-19T18:34:56+00:00 | Book mode |
 | [HyNCdGuGfe](../../notes/A014I2MSQXS4aQB1NU_KuQ.md) | 屏東 | 2026-11-18T17:09:31+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-18T04:25:23+00:00 | View mode |
-| [SJl0a7FNXO](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群每月九分鐘 | 2026-11-17T03:33:56+00:00 | Book mode |
 | [B1RUK6tb-e](../../notes/zkWf3uJDQA6mp7FfqzfIsQ.md) | <center>公民科技及數位工具應用指南與支持網絡</center> | 2026-11-16T03:50:41+00:00 | View mode |
 | [SyJi0ww7zg](../../notes/bHWPJT4YQve1VT36x5v4kQ.md) | 澎湖 | 2026-11-16T02:56:45+00:00 | View mode |
 | [HJeJifQjgl](../../notes/_kuWKonIRvW6HU9o09eEWg.md) | 2027／05 g0v 大松命名 | 2026-11-15T18:05:03+00:00 | View mode |
