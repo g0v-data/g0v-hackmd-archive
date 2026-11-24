@@ -1,0 +1,2 @@
+OK68 - Sân Chơi Trực Tuyến Xanh Chín Cho Dân Chuyên Giải Trí
+[ok68](https://ok68.guru/) tự hào là điểm đến giải trí trực tuyến nổi bật tại châu Á với chất lượng dịch vụ chuyên nghiệp. Nền tảng không ngừng đổi mới kho trò chơi phong phú, mang đến những phút giây giải trí hấp dẫn. Cùng hệ thống công nghệ tiên tiến, OK68 luôn chú trọng bảo mật thông tin và quyền riêng tư của hội viên.
