@@ -88,6 +88,10 @@ https://ai.ichefpos.com/restaurant-intelligence
 
 ### 【免費版】
 
+登山
+https://www.facebook.com/share/p/1H2uR6YZ3b/
+
+
 先進感知
 https://apps.apple.com/tw/developer/kang-wu/id1261000921
 https://play.google.com/store/apps/developer?id=ABCsense&hl=zh_TW
