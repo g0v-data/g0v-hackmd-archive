@@ -149,6 +149,9 @@ Robotics Lab
 https://robotics-lab-app.vercel.app
 
 
+街景立體，評估開一個專頁，也放入資料類參考內容
+https://formosa-streetscape-lab.spaceboxvisual.chatgpt.site
+
 DMAT 災難醫療 AI 資訊整合與動態指揮智慧平台
 展示影片：https://youtu.be/lRxgryqMyig
 說明簡報：https://www.canva.com/design/DAHQlwq42qA/n75Y9docaKMxvB7Vn7MmYQ/view

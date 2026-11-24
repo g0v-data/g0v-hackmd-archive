@@ -1,0 +1,66 @@
+<a href="https://bayclub.spot/ceo-Tran-Bao-Ngoc">Trần Bảo Ngọc</a> sinh năm 1989 tại Đà Nẵng, tốt nghiệp ngành Quản trị Kinh doanh tại Đại học Kinh tế Quốc dân. Bà có hơn tám năm kinh nghiệm vận hành các nền tảng giải trí trực tuyến, từng đảm nhiệm vị trí quản lý khu vực tại một công ty giải trí số trước khi trở thành CEO của BayClub. Dưới sự dẫn dắt của bà, BayClub định hướng xây dựng không gian chơi gọn gàng, chú trọng bảo mật nhiều lớp và trải nghiệm tiếng Việt mượt mà trên mọi thiết bị. Bà hiện sống tại Hồ Chí Minh.
+Thông tin liên hệ:
+Thương hiệu: BayClub
+Địa chỉ: 156 Trần Phú, Phường 4, Chợ Quán, Hồ Chí Minh, Việt Nam
+Hotline: 0985533221
+Email: bayclub@gmail.com
+Website: <a href="https://bayclub.spot/ceo-Tran-Bao-Ngoc">https://bayclub.spot/ceo-Tran-Bao-Ngoc</a>
+<a href="https://www.pinterest.com/TranBaoNgoc5/">https://www.pinterest.com/TranBaoNgoc5/</a>
+<a href="https://500px.com/p/tranbaongoc5">https://500px.com/p/tranbaongoc5</a>
+<a href="https://issuu.com/tranbaongoc5?ps=24">https://issuu.com/tranbaongoc5?ps=24</a>
+<a href="https://vimeo.com/tranbaongoc5">https://vimeo.com/tranbaongoc5</a>
+<a href="https://gravatar.com/tranbaongoc5">https://gravatar.com/tranbaongoc5</a>
+<a href="https://pxhere.com/en/photographer/5198384">https://pxhere.com/en/photographer/5198384</a>
+<a href="https://leetcode.com/u/TranBaoNgoc5/">https://leetcode.com/u/TranBaoNgoc5/</a>
+<a href="https://manylink.co/@TranBaoNgoc5">https://manylink.co/@TranBaoNgoc5</a>
+<a href="https://tooter.in/TranBaoNgoc5">https://tooter.in/TranBaoNgoc5</a>
+<a href="https://wirtube.de/a/tranbaongoc5/video-channels">https://wirtube.de/a/tranbaongoc5/video-channels</a>
+<a href="https://doselect.com/@cc9f44eb5559cb0457739b6fb">https://doselect.com/@cc9f44eb5559cb0457739b6fb</a>
+<a href="https://feyenoord.supporters.nl/profiel/199637/TranBaoNgoc5">https://feyenoord.supporters.nl/profiel/199637/TranBaoNgoc5</a>
+<a href="https://hackaday.io/TranBaoNgoc5?saved=true">https://hackaday.io/TranBaoNgoc5?saved=true</a>
+<a href="https://www.mellow-fan.com/user/pgjnsmxaq9hsfb68zqkt/about">https://www.mellow-fan.com/user/pgjnsmxaq9hsfb68zqkt/about</a>
+<a href="https://disqus.com/by/TranBaoNgoc5/about/">https://disqus.com/by/TranBaoNgoc5/about/</a>
+<a href="https://www.walkscore.com/people/148358406307/tr%E1%BA%A7n-b%E1%BA%A3o-ng%E1%BB%8Dc">https://www.walkscore.com/people/148358406307/tr%E1%BA%A7n-b%E1%BA%A3o-ng%E1%BB%8Dc</a>
+<a href="https://anyflip.com/homepage/gwwjf#About">https://anyflip.com/homepage/gwwjf#About</a>
+<a href="https://experiment.com/users/TranBaoNgoc5">https://experiment.com/users/TranBaoNgoc5</a>
+<a href="https://www.intensedebate.com/profiles/tranbaongoc5">https://www.intensedebate.com/profiles/tranbaongoc5</a>
+<a href="https://medibang.com/author/29073290/">https://medibang.com/author/29073290/</a>
+<a href="https://zumvu.com/tranbaongoc5/">https://zumvu.com/tranbaongoc5/</a>
+<a href="https://pubhtml5.com/homepage/cwekd/">https://pubhtml5.com/homepage/cwekd/</a>
+<a href="https://gifyu.com/tranbaongoc5">https://gifyu.com/tranbaongoc5</a>
+<a href="https://undrtone.com/TranBaoNgoc5">https://undrtone.com/TranBaoNgoc5</a>
+<a href="https://www.stylevore.com/user/TranBaoNgoc5">https://www.stylevore.com/user/TranBaoNgoc5</a>
+<a href="https://tealfeed.com/tranbaongoc5">https://tealfeed.com/tranbaongoc5</a>
+<a href="https://potofu.me/tranbaongoc5">https://potofu.me/tranbaongoc5</a>
+<a href="https://www.blockdit.com/tranbaongoc5">https://www.blockdit.com/tranbaongoc5</a>
+<a href="https://skitterphoto.com/photographers/3747051/tran-bao-ngoc">https://skitterphoto.com/photographers/3747051/tran-bao-ngoc</a>
+<a href="https://phatwalletforums.com/user/tranbaongoc5">https://phatwalletforums.com/user/tranbaongoc5</a>
+<a href="https://b.hatena.ne.jp/TranBaoNgoc5/bookmark">https://b.hatena.ne.jp/TranBaoNgoc5/bookmark</a>
+<a href="https://graphcommons.com/graphs/7dc7564b-3a8d-4e59-a29e-fd32345f5d2e">https://graphcommons.com/graphs/7dc7564b-3a8d-4e59-a29e-fd32345f5d2e</a>
+<a href="https://phijkchu.com/a/tranbaongoc5/video-channels">https://phijkchu.com/a/tranbaongoc5/video-channels</a>
+<a href="https://es.stylevore.com/user/TranBaoNgoc5">https://es.stylevore.com/user/TranBaoNgoc5</a>
+<a href="https://unityroom.com/users/y8iove9bxl302dj7mha5">https://unityroom.com/users/y8iove9bxl302dj7mha5</a>
+<a href="https://www.myminifactory.com/users/TranBaoNgoc5">https://www.myminifactory.com/users/TranBaoNgoc5</a>
+<a href="https://www.transfur.com/Users/tranbaongoc5">https://www.transfur.com/Users/tranbaongoc5</a>
+<a href="https://cofacts.tw/user/TranBaoNgoc5">https://cofacts.tw/user/TranBaoNgoc5</a>
+<a href="https://safechat.com/u/tran.bao.828">https://safechat.com/u/tran.bao.828</a>
+<a href="https://www.gamesfree.ca/TranBaoNgoc5">https://www.gamesfree.ca/TranBaoNgoc5</a>
+<a href="https://matters.town/@kaelaweissl250n">https://matters.town/@kaelaweissl250n</a>
+<a href="https://zzb.bz/q4x0Tp">https://zzb.bz/q4x0Tp</a>
+<a href="https://app.talkshoe.com/user/tranbaongoc5">https://app.talkshoe.com/user/tranbaongoc5</a>
+<a href="https://mygamedb.com/profile/TranBaoNgoc5">https://mygamedb.com/profile/TranBaoNgoc5</a>
+<a href="https://mez.ink/tranbaongoc5">https://mez.ink/tranbaongoc5</a>
+<a href="https://igli.me/TranBaoNgoc5">https://igli.me/TranBaoNgoc5</a>
+<a href="https://3dwarehouse.sketchup.com/by/TranBaoNgoc5">https://3dwarehouse.sketchup.com/by/TranBaoNgoc5</a>
+<a href="https://www.haikudeck.com/presentations/TrnBo.Ngc">https://www.haikudeck.com/presentations/TrnBo.Ngc</a>
+<a href="https://egl.circlly.com/users/TranBaoNgoc5">https://egl.circlly.com/users/TranBaoNgoc5</a>
+<a href="https://lifeinsys.com/user/tranbaongoc5">https://lifeinsys.com/user/tranbaongoc5</a>
+<a href="https://homepage.ninja/tranbaongoc5">https://homepage.ninja/tranbaongoc5</a>
+<a href="https://www.myget.org/users/TranBaoNgoc5">https://www.myget.org/users/TranBaoNgoc5</a>
+<a href="https://aetherlink.app/u/7530564453386190848">https://aetherlink.app/u/7530564453386190848</a>
+<a href="https://motion-gallery.net/users/1098319">https://motion-gallery.net/users/1098319</a>
+<a href="https://fabble.cc/tranbaongoc5">https://fabble.cc/tranbaongoc5</a>
+<a href="https://connect.gt/user/tranbaongoc5">https://connect.gt/user/tranbaongoc5</a>
+<a href="https://jobs.packagingnews.co.uk/company/tran-bao-ngoc-1">https://jobs.packagingnews.co.uk/company/tran-bao-ngoc-1</a>
+<a href="https://marshmallow-qa.com/4iuwtccm2h0kl51">https://marshmallow-qa.com/4iuwtccm2h0kl51</a>
+<a href="https://protospielsouth.com/user/194891">https://protospielsouth.com/user/194891</a>
