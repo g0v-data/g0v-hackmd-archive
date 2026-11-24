@@ -141,6 +141,9 @@ https://docs.google.com/spreadsheets/d/1IlK6XpIbnL6nW-UjGw363KcmzGNGmEAsAk0rs0qQ
 https://www.digitalhumanitarian.org/%E6%95%B8%E4%BD%8D%E5%9F%B9%E5%8A%9B-2026
 
 
+桌遊
+https://youtube.com/shorts/VXAttXZ8H0A
+
 ### 【開源開放類，登載沒啥問題】登載後即刪除
 
 
