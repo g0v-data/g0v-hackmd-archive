@@ -7,6 +7,9 @@ tags: CommuTag
 
 ## 261108｜75th｜大松
 
+提案影片：https://youtu.be/oVx9Oj42sNw
+成果報告：https://youtu.be/1b8ZbuPEUTc
+
 ### 簡報
 <iframe src="https://talks.cooldongdong.com/261108-commutag/" frameborder="0" width="100%" height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

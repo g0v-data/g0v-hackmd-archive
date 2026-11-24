@@ -8,6 +8,8 @@ tags: civictech,
 
 ## 如何發起一個公民科技專案？
 - [[內容整理中] 專案的不同階段<br>成員角色有哪些種類？<br>提案模板<br>坑主常見問答](https://g0v.hackmd.io/TcONfMZ6TvqCpF2ZjMbsgA?view)
+- [[內容整理中]新手如何參與 g0v 社群？](/KZ_wsPoUTxmexFT9oHLM0Q)
+
 
 ## 資料驅動對策手法<br>Data-driven
 - [專案的大量資料怎麼轉成好懂的圖表？資料視覺化工具清單整理](https://g0v.hackmd.io/@claire/rkM1ynawzl)
