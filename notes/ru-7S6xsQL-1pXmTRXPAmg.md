@@ -14,6 +14,10 @@ tags: booth,
 寄放盒，案例蒐集
 https://photos.app.goo.gl/AxMGp2bVNJjzpVUz7
 
+摺紙方式成型的收納盒
+https://www.instagram.com/reel/DRNEXZyk6Sk/
+https://www.instagram.com/reel/DRH7rG-E18B/
+
 ## 廠商與詢價
 
 理想印刷
