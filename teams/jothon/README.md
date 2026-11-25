@@ -2,8 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [rkRYZt-9Ze](../../notes/ru-7S6xsQL-1pXmTRXPAmg.md) | 製作「面紙包」用於發送 | 2026-11-24T23:49:22+00:00 | View mode |
-| [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | civictech.tw 資料登載工作頁面 & 收錄原則探討 | 2026-11-24T22:48:09+00:00 | View mode |
+| [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | civictech.tw 資料登載工作頁面 & 收錄原則探討 | 2026-11-25T00:23:04+00:00 | View mode |
+| [rkRYZt-9Ze](../../notes/ru-7S6xsQL-1pXmTRXPAmg.md) | 製作「面紙包」用於發送 | 2026-11-25T00:11:15+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-24T16:57:03+00:00 | View mode |
 | [Sy2szIbymx](../../notes/Wl0-JKpJQySe4IH2F8xRrg.md) | civictech.tw 介紹影片_歡迎回饋意見 | 2026-11-24T15:32:07+00:00 | View mode |
 | [rkVx1GUCWe](../../notes/rO5b1GLFQY-njG5vOqx1bw.md) | 公民科技行動指引 Guide | 2026-11-24T14:26:47+00:00 | Book mode |

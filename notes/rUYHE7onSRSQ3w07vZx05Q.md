@@ -68,7 +68,7 @@ https://www.goldswagger.com.tw/review/itaiwan-membership
 台灣餐飲開店勝率 AI 分析_準備要開店了嗎？讓你提前看懂商圈數據，掌握競爭力
 https://ai.ichefpos.com/restaurant-intelligence
 
-### 【免費版】已開啟並評估，不建議登錄
+### 【免費版】已瀏覽過內容並評估，不建議登錄
 
 郵務輔助工具
 - https://www.facebook.com/share/1SwfBAxwJp/
@@ -87,6 +87,9 @@ https://ai.ichefpos.com/restaurant-intelligence
 ## 還算可以登載
 
 ### 【免費版】
+
+球賽的大會輔助工具
+https://www.facebook.com/share/p/1Cc9DoCfNe/
 
 登山
 https://www.facebook.com/share/p/1H2uR6YZ3b/

@@ -15,18 +15,19 @@ tags: booth,
 https://photos.app.goo.gl/AxMGp2bVNJjzpVUz7
 
 摺紙方式成型的收納盒
-https://www.instagram.com/reel/DRNEXZyk6Sk/
-https://www.instagram.com/reel/DRH7rG-E18B/
+- https://www.instagram.com/reel/DRNEXZyk6Sk/
+- https://www.instagram.com/reel/DRH7rG-E18B/
+- 松果 https://youtu.be/jR9NJQzyfjA
 
 ## 廠商與詢價
 
 理想印刷
 - https://www.lixiangprint.com.tw/product/190/
-- 長方形 
+- 面紙包_長方形 
     - 100 包，$830
     - 1000 包，$3694
     - 5000 包，$15978
-- 大正方形
+- 面紙包_大正方形
     - 100 包，$1800
     - 5000 包，$20050
 - 製作檔案注意需要用 ai 檔案格式
