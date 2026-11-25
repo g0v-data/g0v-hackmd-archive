@@ -155,4 +155,11 @@ https://www.vtaiwan.tw/jitsi
 - 更多的 co-working
     - co-working 的項目有哪些？
     - civic talk 的議題更新
-- 移到
+- 移到別的時間
+    - 目前提案：週六21:00-22:00 
+    - 
+
+
+### Thompson的Civic Talk 第一輪使用者研究規劃（草稿）
+
+https://docs.google.com/document/d/1nSeyBuO3-pyMf9RpFo7yAtzjl54elGURBuI19JXFuC8/edit?tab=t.0
