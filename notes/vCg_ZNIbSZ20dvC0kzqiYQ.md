@@ -10,6 +10,12 @@ tags: jothon,
 [TOC]
 :::
 
+## 工具建置構想
+
+找書趣_哪裡會有這本書？
+https://g0v.hackmd.io/WP05tZfcR9eADJFDHQKfpA?view
+
+---
 
 ## 書籍捐贈原則
 
