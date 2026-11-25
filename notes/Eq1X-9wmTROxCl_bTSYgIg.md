@@ -163,3 +163,60 @@ https://www.vtaiwan.tw/jitsi
 ### Thompson的Civic Talk 第一輪使用者研究規劃（草稿）
 
 https://docs.google.com/document/d/1nSeyBuO3-pyMf9RpFo7yAtzjl54elGURBuI19JXFuC8/edit?tab=t.0
+
+
+
+## 轉錄逐字稿與AI大綱
+
+### 逐字稿詳情
+
+https://www.vtaiwan.tw/transcription_detail/20261125
+
+### AI大綱
+
+**會議重點整理（2026‑11‑25 19:06‑19:56）**
+
+---
+
+### 1. iXDF 活動回顧
+- **性質**：以服務設計師為主的跨領域社群活動。  
+- **參與者**：服務設計師、工程師、視障者等多元背景。  
+- **亮點**：視障者社群自行組成「工程師+服務設計師+使用者」的小團隊，開發助障工具與服務，適合與 g0v、vTaiwan 合作。
+
+### 2. 本週三晚間線上聚會的時間感受
+- 仍在探索「週三晚上」是否為大多數夥伴的可參與時段，後續再進一步調查並調整。
+
+### 3. 與 vTaiwan／郭子的合作可能性
+- 郭子具備公部門服務設計經驗、民間議題推動經驗，且與視障者團體有連結，為 **vTaiwan** 合作的理想橋梁。
+
+### 4. CivicTalk 新功能上線 Demo 及回饋
+| 觀察點 | 內容 |
+|--------|------|
+| **Thompson 反饋** | 1. 英文簡報與中文說明語言不一致 2. Demo 與簡報切換卡頓 3. 若能直接在議題中加入投票/任務，使用體驗更佳 |
+| **Demo 時長** | 10 分鐘的快速展示太過倉促，難以完整呈現功能。建議改為 **互動式** 示範（使用 Mentimeter、Polis、PocketPolis 等即時投票/意見收集工具）。 |
+| **功能概況** | - 已將 **PocketPolis** 的意見綜整（分群視覺化 + 語言模型摘要）完整移植至 CivicTalk。 - 目前在 CivicTalk 上已有兩個投票議題接近門檻：   1️⃣ 長者健保費補助 (Issue #19)    2️⃣ AI 時代的設計師角色定位 (Issue #13) |
+
+### 5. CivicTalk 的產品定位與未來發展
+1. **個人意見整理工具箱**：供使用者自行匯總、分類自己的看法。  
+2. **社群意見整合資訊庫**：把同好或專案團隊的討論、投票結果彙整成可視化資料。  
+3. **公共留言板**：面向全體公民，提供開放的議題討論與決策參與平台。
+
+#### 未來工作重點
+- **與專案深度結合**：在即將啟動的審議／AI 相關專案中嵌入 CivicTalk（例如在 Google Form 之上加 CivicTalk banner，或直接將議題嵌入專案流程）。  
+- **客製化介面**：允許專案自行設定表單說明、超連結、品牌樣式；此需求可能涉及較多後端資源，需要進一步評估。  
+- **開源模型與服務**：確認 CivicTalk 的意見綜整是否直接使用 PocketPolis 的開源模型（已於 README 標註受其啟發），保持開源透明與可維護性。
+
+### 6. 重要連結與追蹤議題
+| 項目 | 連結 |
+|------|------|
+| CivicTalk 投票議題（長者健保） | https://civic.vtaiwan.tw/issues/19 |
+| CivicTalk 投票議題（AI 設計師） | https://civic.vtaiwan.tw/issues/13 |
+| CivicTalk 程式碼庫（GitHub） | https://github.com/g0v/civic-talk-hono |
+| 轉錄流程 Bugs（vTaiwan‑hono） | https://github.com/g0v/vTaiwan-hono/issues/158 |
+| 其他開發 Issue（#239） | https://github.com/g0v/civic-talk-hono/issues/239 |
+| PocketPolis 介紹（意見綜整兩部分） | 於 Bestian 回覆內說明 |
+
+
+---
+
+**結論**：CivicTalk 正從「資訊整理」向「意見整合」與「公民審議」演進。接下來的重點是提升 Demo 的互動性、加強與外部專案的客製化整合，以及持續優化語言與技術細節，以達成更順暢的公民參與體驗。
