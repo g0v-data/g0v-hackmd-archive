@@ -4,20 +4,20 @@ We thank the reviewer for the positive assessment and suggestions. New results b
 
 **Q1. Baseline failure analysis**
 
-We further analyzed baseline failures across the three datasets. LLM-based selection omitted the specialist with the highest estimated contribution in 48.7% test cases. Among the cases that changed from correct to incorrect diagnoses after introducing retrieval in MDTeamGPT, 8.7% showed explicit evidence of diagnostic anchoring. These findings support the two limitations identified in our paper.
+We further analyzed baseline failures across the three datasets. LLM-based selection omitted the specialist with the highest estimated contribution in 48.7% of test cases. Among the cases that changed from correct to incorrect diagnoses after introducing retrieval in MDTeamGPT, 8.7% showed explicit evidence of diagnostic anchoring. These findings support the two limitations identified in our paper.
 
 **Q2.1. Validity of Shapley**
 
 We estimate Shapley values from static response combinations to reduce computational costs, as full multi-round discussions for all specialist coalitions would require approximately 8× as many LLM calls per case.
 
-Without accumulated cross-disciplinary ineraction experience(P_int), we remove either the specialist with the highest (w/o H.) or lowest (w/o L.) Shapley contribution and evaluate the performance:
-||w/o H.|w/o L.|
+Without accumulated cross-disciplinary interaction experience(P_int), we remove either the specialist with the highest (w/o H.) or lowest (w/o L.) Shapley contribution and evaluate the performance:
+||w/o H|w/o L|
 |---|---:|---:|
 |RD302|41.0|42.4|
 |MME|2.4|8.3|
 |HMS|27.4|32.2|
 
-The results show that removing either specialist reduces performance, with a greater decrease for w/o H., suggestting that our estimations are informative of specialists' contributions to final diagnose.
+The results show that removing either specialist reduces performance, with a greater decrease for w/o H., suggesting that our estimates are informative about specialists' contributions to final diagnosis.
 
 **Q2.2. Comparison with alternative selection strategies**
 

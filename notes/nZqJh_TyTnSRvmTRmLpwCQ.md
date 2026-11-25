@@ -17,7 +17,7 @@ E2Med achieves higher accuracy in all 6 comparisons, with significant ACC_O impr
 
 **Stability of exp. accumulation**
 
-We further shuffled cases in accumulation and evaluate: 48.9±0.4(RD302), 35.7±0.0(MME), and 44.0±0.7(HMS). Comparable means and limited variance suggest robustness.
+We further shuffle cases in accumulation and evaluate: 48.9±0.4(RD302), 35.7±0.0(MME), and 44.0±0.7(HMS). Comparable means and limited variance suggest robustness.
 
 **Alternative selection strategies**
 

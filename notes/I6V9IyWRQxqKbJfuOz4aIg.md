@@ -8,6 +8,7 @@ tags: vTaiwan
 參與者 Participants: Peter, Soth, Tim, shu, Allison 
 
 自我介紹：
+![](https://g0v.hackmd.io/_uploads/S13LGEEy7g.png)
 
 
 
@@ -89,7 +90,7 @@ https://github.com/g0v/civic-talk-hono/issues/226
 
 
 ### 本週日的 IxDF 分享
-- https://docs.google.com/presentation/d/10jSK2KBr4Do096FAgFghQdQF50zLNuV4DniwxaWJSj0/edit?usp=sharing 
+- 投影片連結https://docs.google.com/presentation/d/10jSK2KBr4Do096FAgFghQdQF50zLNuV4DniwxaWJSj0/edit?usp=sharing 
 - 想要談的內容：
     - vTaiwan 是什麼？
     - 我們在做什麼？
