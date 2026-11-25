@@ -347,6 +347,14 @@ https://linktr.ee/g0vjothon
 
 ---
 
+12/19 週六 Social Hack Day #79
+- https://luma.com/shd79
+- 主辦單位：Code for Japan
+- 日本時間 12月19日 星期六上午 11:00 - 下午6:00 GMT+9
+
+
+---
+
 
 2026-12-31 跨年松
 - 時間：待確認
