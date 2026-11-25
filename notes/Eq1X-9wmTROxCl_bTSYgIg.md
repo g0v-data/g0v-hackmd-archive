@@ -5,7 +5,7 @@ tags: vTaiwan
 
 時間 Time ：19:00 - 20:00
 地點 Location ：線上 Online
-參與者 Participants: Peter, 
+參與者 Participants: Peter, Thompson 
 
 https://www.vtaiwan.tw/jitsi 
 (請用Google登入以參與視訊並啟用轉錄功能)
@@ -53,11 +53,25 @@ https://www.vtaiwan.tw/jitsi
 
 ## 小小的分享
 ### IxDF 活動
-- 投影片連結[https://docs.google.com/presentation/d/10jSK2KBr4Do096FAgFghQdQF50zLNuV4DniwxaWJSj0/edit?usp=sharing](https://docs.google.com/presentation/d/10jSK2KBr4Do096FAgFghQdQF50zLNuV4DniwxaWJSj0/edit?usp=sharing) 
-
-
+- [投影片連結](https://docs.google.com/presentation/d/10jSK2KBr4Do096FAgFghQdQF50zLNuV4DniwxaWJSj0/edit?usp=sharing)
 - 總覺得有吸引到人，但進入門檻還是有點高，大家可能還是不知道怎麼做
-- 可以請主辦單位協助轉發活動邀請
+- 有認識有趣的人
+    - 嶼我共視 Coseeing 
+    - 郭子：前PDIS 成員，也在加拿大的公共政府工作過，在台灣推廣服務設計的教育與分享
+        - vTaiwan 很適合跟他們合作
+        - 認識 shu yang
+        - 在公部門推動議題、身障者團體
+    - 心瑜Chole 
+- 可以請主辦單位協助轉發後續的活動邀請
+
+### DEMO 
+- 投影片與發表的語言可以一致。
+- 投影片與demo 來回跳動，容易對參與者來說覺得很干擾。
+- 給予底下的參與者一個任務來互動。
+- 設定一個小任務：意見綜整可以拿來作為快速demo
+- 時間限制：10分
+    - 勉強demo 的效果不好
+    - 可能可以使用其他工具 murmi / pocket polis 
 
 ![](https://g0v.hackmd.io/_uploads/SkeuGO44k7l.jpg)
 ![](https://g0v.hackmd.io/_uploads/BJW_GO4Vymg.jpg)
@@ -85,7 +99,28 @@ https://www.vtaiwan.tw/jitsi
 
 - 謝謝大家的參與和支持！:raised_hands:  [name=bestian ]
 :::
--
+- 接下來的目標：讓大家想要理性討論意見時，可以使用 civic talk 來進行
+    - 個人的議題整理工具箱
+    - 社群的意見整合與資訊公佈欄
+    - 公眾的留言板
+        - 需要有志願者協助管理
+- 如何與社會議題相結合
+    - 明年繼續進行的嘗試：跟預定要進行的專案
+        - 審議工作者與 AI 等數位工具的運用
+        - 身心障礙者的數位權利
+        - AI 時代下的數位平台治理
+    - 利用人際連結：
+
+### 設計提案
+- 可否新增超連結？
+    - 目前測試沒有辦法新增超連結
+- 可否新增個人化的設計？
+- 使用者可否在建立議題頁建立草稿或暫存？
+    - 機制：在前端建立暫存區暫存起來
+- 開票連結：https://github.com/g0v/civic-talk-hono/issues
+
+### 開源專案的貢獻者入門
+
 
 ## 1201 APSIG 分享
 - 背景資訊：
@@ -93,7 +128,31 @@ https://www.vtaiwan.tw/jitsi
     - APSIG 是針對亞太地區網路政策的能力建構計畫，參與者包括政策制定者、技術人員、學者與公民社會代表。2026 年的計畫共有來自 17 個經濟體的 31 位學員參與，包含 20 位國際學員與 11 位台灣在地學員。
 - 下午完成的[投影片](https://docs.google.com/presentation/d/1Z91B7-vNBuIfhHuyABY_kQ5EsJMnwIyWPZZZJH1rGPA/edit?usp=sharing)
     - 會介紹到 vTaiwan 的機制，並且進行比較。
+        - 原因1: 這一次的主題與人權與AI治理有關，是vTaiwan 討論的議題
+        - 原因2: vTaiwan 機制本身就是多元利害關係人的機制
+        - 原因3: vTaiwan 與 ICANN 的比較
+    - 會想要帶一個工作坊，跟大家一起討論議題
 
 ## vTaiwan in 40C3
 - 目前我們的議程確認會在12/29 的德國時間上午11:00
 - 目前的簡報：https://canva.link/8e0t155tdfm715m
+- 感覺可以新增德文的功能？
+    - 邀請大家幫忙校對
+
+## 針對週三晚上的小松的想法
+- 目前小松的困境：提案與想法還是集中在我跟 bestian （之前還有josh 跟翊婷）身上。
+- 想要達到的方式：更多人可以一起來提案想做的事情。
+- 可以做的第一步：以前有寫過一個自動化機器人，目標：
+    - 每週一固定更新一篇共筆
+    - 讓大家可以上來填寫想要的
+- 目前的時間會比較極限（週三晚上）[name=tim]
+    - 預先準備 [name=peter]
+- 例行會議與討論活動間的重合
+
+### 下週嘗試
+- 更早開好共筆與更新
+    - 我要道歉，這是我的壞習慣，我需要改變我的習慣[name=peter]
+- 更多的 co-working
+    - co-working 的項目有哪些？
+    - civic talk 的議題更新
+- 移到
