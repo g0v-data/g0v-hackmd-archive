@@ -207,6 +207,9 @@ https://www.facebook.com/100094870554841/posts/pfbid02L2FDr2UhHa5djfBe49ZAsXwfEX
 彰化金馬路（台1丙）× 中華西路（台19）× 曉陽路口
 https://www.facebook.com/share/p/1JFTV6Twor/
 
+彰化市金馬林森彰草多向路口
+https://www.facebook.com/share/p/1cYAVzQFLH/
+
 彰師大附近 進德路標線改造工作坊（有鎖內容看不到）
 https://www.facebook.com/share/p/NXPAL2zBooXD7C6R/
 
