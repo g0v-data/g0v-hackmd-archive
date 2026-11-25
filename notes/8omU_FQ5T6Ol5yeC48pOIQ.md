@@ -7,7 +7,7 @@ Chainlon 資訊管理用暫存區，公開頁面、嚴禁機密資料
 [TOC]
 
 :::
-
+O:\25資訊部\ServerMainTain\2026-11-25_GOP名單.csv
 ### 常用連結
 7-Zip https://www.7-zip.org/a/7z2301-x64.exe
 Chainlon 01Backup https://www.chainlon.net/1/01Backup.zip
