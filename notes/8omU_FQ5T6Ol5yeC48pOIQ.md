@@ -186,3 +186,13 @@ https://drive.google.com/file/d/15bcsKRLyi6ObQc1WkUGg7Vgb3HSSESwR/view
 
 
 https://meet.google.com/meet/krw-qerk-ozx
+
+reg add "HKCU\Software\Classes\CLSID\{51668040-5e31-4023-bbe3-149163bd80f1}\InprocServer32" /ve /f
+reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /ve /f
+reg add "HKCU\Software\Classes\CLSID\{51668040-5e31-4023-bbe3-149163bd80f1}\InprocServer32" /ve /f
+reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
+taskkill /f /im explorer.exe
+start explorer.exe
+https://github.com/PeterStrick/ViVeTool-GUI/tree/master
+vivetool /disable /id:60813048
+https://github.com/thebookisclosed/ViVe/releases
