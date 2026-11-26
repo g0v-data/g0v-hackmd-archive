@@ -61,7 +61,7 @@ g0v 台北社群空間_小松果 🌰 🐿️
 - [No.]
 - [No.] 1210 週四晚上 F4: functional thursday 社群活動 (接洽 by chewei)
 - [No.] 1208 週二晚上 20:00 Cofacts 社群週會
-- [No.] 1205 週六下午 CRC 數位韌性活動 (接洽 by chewei, crc 團隊)
+- [No.] 1205 週六上下午 CRC 數位韌性活動 (接洽 by chewei, crc 團隊)
 - [No.]
 - [No.] 1201 週二晚上 20:00 Cofacts 社群週會
 - [No.]
