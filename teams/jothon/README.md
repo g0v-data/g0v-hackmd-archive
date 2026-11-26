@@ -2,6 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [BkxrwGIvWx](../../notes/qkIrfWr9Q_Kho3HJ-uZ9IQ.md) | Almanac _ 公民科技年曆 / 主題日評估 | 2026-11-26T18:47:03+00:00 | View mode |
+| [Hy0H2n2AGg](../../notes/yIRJbjhgScCJoiwdHvUhog.md) | Civic Nest<br>零時小學校專案孵化計畫<br>第六屆專案團隊介紹 | 2026-11-26T18:17:23+00:00 | View mode |
 | [S1xBGKN1Ql](../../notes/WP05tZfcR9eADJFDHQKfpA.md) | 找書趣_哪裡會有這本書？ | 2026-11-26T12:15:06+00:00 | View mode |
 | [Byl8kKBkme](../../notes/AdfWG9kgSSKe3xe3L4jy1Q.md) | 漂書地點回饋 Bookcrossing | 2026-11-26T11:23:21+00:00 | View mode |
 | [HJYW2wvPr](../../notes/Yef7YTSZS5q52nLPdNgz2A.md) | g0v 台北社群空間_小松果 🌰 🐿️ | 2026-11-26T01:08:41+00:00 | View mode |
@@ -27,7 +29,6 @@
 | [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-11-21T14:29:42+00:00 | View mode |
 | [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | Now Coming 2027 g0v 黑客松｜1月 ~ 5 月 | 2026-11-21T14:13:14+00:00 | View mode |
 | [HJMvgwP0zx](../../notes/VfQVXR8OTyu8hlDltdwNWg.md) | g0v Hackathan | 2026-11-21T14:01:19+00:00 | Book mode |
-| [Hy0H2n2AGg](../../notes/yIRJbjhgScCJoiwdHvUhog.md) | Civic Nest<br>零時小學校專案孵化計畫<br>第六屆專案團隊介紹 | 2026-11-19T18:38:21+00:00 | View mode |
 | [BkCPHcYEee](../../notes/_ab2mPTsSOqJC4V8ssMnDg.md) | 零時小學校<br>專案孵化計畫<br>Civic Nest | 2026-11-19T18:34:56+00:00 | Book mode |
 | [HyNCdGuGfe](../../notes/A014I2MSQXS4aQB1NU_KuQ.md) | 屏東 | 2026-11-18T17:09:31+00:00 | View mode |
 | [B1RUK6tb-e](../../notes/zkWf3uJDQA6mp7FfqzfIsQ.md) | <center>公民科技及數位工具應用指南與支持網絡</center> | 2026-11-16T03:50:41+00:00 | View mode |
@@ -54,7 +55,6 @@
 | [SkL1dHSCyl](../../notes/Ovl0MYOsQCKECQ9Ig4HOVA.md) | AI 麻瓜共學團 | 2026-10-28T08:55:41+00:00 | Book mode |
 | [ryuGpT0eGx](../../notes/X-35BMf_QjW8NntAIGzuhQ.md) | COSCUP _ AI 開放治理 & Civic Tech 議程 | 2026-10-28T08:53:42+00:00 | View mode |
 | [HyBiNcJ1o](../../notes/ZwLI9V36Tmi-jFXWVtb1hQ.md) | 影響力報告線上版，內容可以呈現什麼？ | 2026-10-21T07:34:51+00:00 | View mode |
-| [BkxrwGIvWx](../../notes/qkIrfWr9Q_Kho3HJ-uZ9IQ.md) | Almanac _ 公民科技年曆 / 主題日評估 | 2026-10-13T01:15:00+00:00 | View mode |
 | [Byv5v5shbg](../../notes/-JUKdilNQ-uncai7swYokQ.md) | 2026 Civic Tech ON (October+November) | 2026-10-12T07:30:54+00:00 | View mode |
 | [ByV45GdcZe](../../notes/LvivQwz1TT20JqfRA-U0sQ.md) | 社群小聚｜台東 | 2026-10-08T14:47:49+00:00 | View mode |
 | [S1vmKz_9-l](../../notes/U8ZY6AcwTAWX1Kyz-t614g.md) | 社群小聚｜花蓮 | 2026-10-08T14:47:20+00:00 | View mode |

@@ -54,3 +54,22 @@ tags: edu,
 
 介紹影片：https://youtu.be/PRQUjtnQ38A
 
+---
+
+## (預計提案) rep0rter 公民科技社群動態
+
+https://rep0rter.observe.tw/
+
+---
+
+## (預計提案) karamome 唱歌學台語
+
+https://karamome.com/
+
+---
+
+## (預計提案) 台灣教育處方籤
+
+https://thc1006.github.io/sch001-108platform/
+
+---
