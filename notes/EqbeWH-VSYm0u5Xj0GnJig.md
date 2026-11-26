@@ -14,6 +14,7 @@ tags: city,
 ## 縣市探討
 - [臺北市 Taipei](https://g0v.hackmd.io/3Rp4pGotTlW5rzRnEt64KQ?view)
 - [基隆市](https://g0v.hackmd.io/cXVQ8QtcQBWt40ir84DQOA?view)
+- [臺南市](https://g0v.hackmd.io/nve-z1DkSvminyEBJNhU-Q?view)
 
 ## 機制參考
 
