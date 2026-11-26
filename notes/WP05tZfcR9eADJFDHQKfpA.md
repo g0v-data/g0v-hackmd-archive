@@ -19,5 +19,5 @@ tags:
 ---
 
 ## 實際測試
-- 《沒有人的運動》 https://g0v.hackmd.io/vCg_ZNIbSZ20dvC0kzqiYQ?view
+- 《沒有人的運動》分佈地點蒐集 https://g0v.hackmd.io/vCg_ZNIbSZ20dvC0kzqiYQ?view
 - 工作頻道 g0v Slack #寄送文宣品摺頁手冊書籍
