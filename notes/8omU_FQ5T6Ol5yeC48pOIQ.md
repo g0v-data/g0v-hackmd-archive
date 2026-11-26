@@ -196,3 +196,4 @@ start explorer.exe
 https://github.com/PeterStrick/ViVeTool-GUI/tree/master
 vivetool /disable /id:60813048
 https://github.com/thebookisclosed/ViVe/releases
+https://migovi.com/tw/context-menu-windows-11-co-dien-lenh-moi/
