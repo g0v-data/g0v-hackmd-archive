@@ -91,6 +91,8 @@ https://ai.ichefpos.com/restaurant-intelligence
 球賽的大會輔助工具
 https://www.facebook.com/share/p/1Cc9DoCfNe/
 
+
+
 登山
 https://www.facebook.com/share/p/1H2uR6YZ3b/
 
@@ -116,13 +118,20 @@ https://www.facebook.com/share/p/1cX25FPMT3/
 
 ### 【政府非開源的服務_但屬於關鍵資料集】會適合納入嗎？
 
-網詐通報查詢網 https://www.facebook.com/share/19Hy3x3fwg/
+原住民族語言線上辭典
+https://e-dictionary.ilrdf.org.tw/home
+
+網詐通報查詢網
+https://www.facebook.com/share/19Hy3x3fwg/
 
 中研院百年歷史地圖
+https://gissrv4.sinica.edu.tw/gis/twhgis/
 
 災害潛勢地圖
+https://dmap.ncdr.nat.gov.tw/
 
 BigGIS
+https://gis.ardswc.gov.tw/
 
 ---
 

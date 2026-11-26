@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | civictech.tw 資料登載工作頁面 & 收錄原則探討 | 2026-11-26T20:38:52+00:00 | View mode |
 | [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-11-26T19:48:09+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-26T19:45:27+00:00 | View mode |
 | [BkxrwGIvWx](../../notes/qkIrfWr9Q_Kho3HJ-uZ9IQ.md) | Almanac _ 公民科技年曆 / 主題日評估 | 2026-11-26T18:47:03+00:00 | View mode |
@@ -13,7 +14,6 @@
 | [r1QUPqo2Wg](../../notes/S3cmrJ8mS06lPKHJSxSINg.md) | Civic Tech Day<br>公民科技主題日 | 2026-11-25T20:13:07+00:00 | Book mode |
 | [r18M8NIhGe](../../notes/NBtIE1b8TkuHhuGZ9R9akg.md) | 專案孵化計畫 Civic Nest | 2026-11-25T19:09:38+00:00 | View mode |
 | [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-11-25T15:55:33+00:00 | View mode |
-| [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | civictech.tw 資料登載工作頁面 & 收錄原則探討 | 2026-11-25T00:23:04+00:00 | View mode |
 | [rkRYZt-9Ze](../../notes/ru-7S6xsQL-1pXmTRXPAmg.md) | 製作「面紙包」用於發送 | 2026-11-25T00:11:15+00:00 | View mode |
 | [Sy2szIbymx](../../notes/Wl0-JKpJQySe4IH2F8xRrg.md) | civictech.tw 介紹影片_歡迎回饋意見 | 2026-11-24T15:32:07+00:00 | View mode |
 | [rkVx1GUCWe](../../notes/rO5b1GLFQY-njG5vOqx1bw.md) | 公民科技行動指引 Guide | 2026-11-24T14:26:47+00:00 | Book mode |
