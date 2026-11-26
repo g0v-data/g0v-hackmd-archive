@@ -84,18 +84,23 @@ https://ai.ichefpos.com/restaurant-intelligence
 
 ---
 
-## 還算可以登載
+## 可以登載
 
 ### 【免費版】
 
 球賽的大會輔助工具
 https://www.facebook.com/share/p/1Cc9DoCfNe/
 
-
+國小學習網站
+https://gkfather.com/playground/
+https://www.facebook.com/groups/269368291735841/?multi_permalinks=1549489537057037&hoisted_section_header_type=recently_seen
 
 登山
 https://www.facebook.com/share/p/1H2uR6YZ3b/
 
+今晚，拍哪一片宇宙？從月光到雲量，為你的下一張星空作品找到好時機。
+https://nightframe-astro-weng.humblehawk10.chatgpt.site/
+https://www.facebook.com/groups/845755203508432/?multi_permalinks=1612215050195773&hoisted_section_header_type=recently_seen&locale=zh_TW
 
 先進感知
 https://apps.apple.com/tw/developer/kang-wu/id1261000921
