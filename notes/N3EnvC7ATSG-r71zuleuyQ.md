@@ -201,6 +201,11 @@ https://linktr.ee/g0vjothon
 - https://www.facebook.com/share/p/1Eb2ZXihof/
 - https://luma.com/claude-kaohsiung-1
 
+11/28-12/20 孤娘的無人機藝 展出
+- CRC 加入 C-Lab 2026 CREATORS 計劃之後，領銜藝術家 李紫彤 和團隊成員，進行了上山下海的田野、後人類戰爭的討論、還有各種階段的作品產出，終於，現在要推出完整概念的展覽 →→ 從孤娘出發，在交會 AI、無人機與數位戰爭中，探討科技與權力的之間的灰色地帶。
+- ▚ 11.28 — 12.20  ▚  空總 C-LAB｜C7 通信分隊展演空間
+- https://www.facebook.com/permalink.php?story_fbid=pfbid02anT7tiYqigWmhdoNBVenHpW3kj6imEbPFx5WBwxd1ny1ew2NM9DJisfwQptg7Qxdl&id=61587673071547
+
 ---
 
 11/29 週日下午 數位韌性松
@@ -338,6 +343,13 @@ https://linktr.ee/g0vjothon
 - 活動資訊：https://www.accupass.com/event/2611030211128116758170
 - 地點：華山文創園區 西一館，
 - 地址：台北市中正區八德路一段1號
+
+---
+
+12/12 週六下午 14:00-16:00｜熱科技冷復仇：女性主義民防韌性工作坊 
+- 報名連結：https://www.accupass.com/event/2611120327401619674002
+- 時間｜12/12（六）14:00-16:00
+- 地點｜空總國家文化基地 D2 多功能廳
 
 ---
 
