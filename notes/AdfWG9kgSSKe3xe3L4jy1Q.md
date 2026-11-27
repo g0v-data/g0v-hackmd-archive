@@ -71,9 +71,9 @@ Todo
             - n001 (20261126 by chewei @ntu)
             - n002 (20261126 by chewei @ntu)
             - n003 (20261126 by chewei @ntu)
-            - n004 (20261127 by chewei @ )
-            - n005 (20261127 by chewei @ )
-            - n006 (20261127 by chewei @ )
+            - n004 (20261127 by chewei @就諦書屋 )
+            - n005 (20261127 by chewei @就諦書屋 )
+            - n006 (20261127 by chewei @就諦書屋 )
 - 回報工具，評估使用 commutag 
 
 如何促進沒有人漂書
@@ -97,3 +97,11 @@ https://linktr.ee/g0vjothon
 回報者：chewei
 照片：
 ![](https://g0v.hackmd.io/_uploads/r1ATGcSJml.jpg)
+
+
+書籍編號：n004, n005, n006
+時間：20261127
+地點：就諦書屋
+回報者：chewei
+照片：
+![](https://g0v.hackmd.io/_uploads/rJpLKq8kQl.jpg)
