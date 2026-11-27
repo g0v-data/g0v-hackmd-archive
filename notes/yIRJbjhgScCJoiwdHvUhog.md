@@ -56,7 +56,18 @@ tags: edu,
 
 ---
 
+## (預計提案) 去馬祖，先看交通
+
+簡介：最大的變數是天氣。先看月份、再決定搭機或搭船，最後把備案準備好。
+
+https://explorematsu.netlify.app/
+
+
+---
+
 ## (預計提案) rep0rter 公民科技社群動態
+
+簡介：
 
 https://rep0rter.observe.tw/
 
@@ -64,11 +75,15 @@ https://rep0rter.observe.tw/
 
 ## (預計提案) karamome 唱歌學台語
 
+簡介：
+
 https://karamome.com/
 
 ---
 
 ## (預計提案) 台灣教育處方籤
+
+簡介：
 
 https://thc1006.github.io/sch001-108platform/
 

@@ -1,5 +1,5 @@
 ---
-tags: jothon,
+tags: jothon, book
 ---
 
 # 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄
@@ -10,13 +10,6 @@ tags: jothon,
 [TOC]
 :::
 
-## 工具建置構想
-
-找書趣_哪裡會有這本書？
-https://g0v.hackmd.io/WP05tZfcR9eADJFDHQKfpA?view
-
----
-
 ## 書籍捐贈原則
 
 書籍捐贈場域
@@ -25,8 +18,9 @@ https://g0v.hackmd.io/WP05tZfcR9eADJFDHQKfpA?view
     - 縣市圖書館
     - 鄉鎮圖書館，例如屏東縣萬巒鄉立圖書館
     - 民間圖書室或是書店
-- 學生社團
-- 誒 
+    - 餐飲空間
+    - 活動空間
+- 學生社團 
     - 高中
     - 國中
     - 大學
@@ -67,6 +61,7 @@ Photo 各個現場的相簿 https://photos.app.goo.gl/hW4M5VQBAUVhQPyC9
 :::
 
 ### 書籍內閱場所｜機構內部型 / 不一定適合對外借閱
+- g0v 臺北社群空間，臺北市中正區重慶南路三段2號2樓202室
 - 中研院圖書館
     - https://aslib.on.worldcat.org/search/detail/1524149609?queryString=%E6%9D%8E%E6%A2%85%E5%90%9B&idDetect=true&clusterResults=false&groupVariantRecords=false&bookReviews=off
     - 民族所圖書館，有一本
@@ -98,20 +93,31 @@ Photo 各個現場的相簿 https://photos.app.goo.gl/hW4M5VQBAUVhQPyC9
 - 20260416 已致贈 50 本給誠品藝術文化基金會，由基金會分派給合作的內閱型圖書單位 (本次似乎是提供給 高中、國中、國小、兒少機構；但並無法更明確的說明)
 
 ### 書籍內閱場所｜公眾比較容易造訪
-- 馬祖南竿_西尾半島物產店
-- 馬祖南竿_連江縣文化處馬祖圖書館
-- 宜蘭頭城海波浪社群空間
-- 宜蘭礁溪駅本屋書店
-- 宜蘭青年創生基地
-- 花蓮縣壽豐鄉豐田社區 伴多咖啡廳
-- 同齊咖啡
-- 黑鯨咖啡
-- 勝利不廢餐廳
-- Kshow餐廳
-- 臺東市晃晃書店
-- 臺中魚麗共同廚房
-- 嘉義台灣圖書室
-- 萬巒鄉立圖書館
+- 馬祖南竿
+    - 西尾半島物產店
+    - 連江縣文化處馬祖圖書館
+- 宜蘭頭城
+    - 海波浪社群空間
+- 宜蘭礁溪
+    - 駅本屋書店
+- 宜蘭五結
+    - 宜蘭青年創生基地
+- 花蓮壽豐鄉
+    - 豐田社區伴多咖啡廳
+- 花蓮市
+    - 同齊咖啡
+    - 黑鯨咖啡
+    - Kshow餐廳
+- 花蓮光復
+    - 勝利不廢餐廳
+- 臺東市
+    - 晃晃書店
+- 臺中市北區
+    - 魚麗共同廚房
+- 嘉義東區
+    - 台灣圖書室
+- 屏東萬巒
+    - 萬巒鄉立圖書館
 
 ### 文宣品寄放
 - 2025.12 已寄送一本沒有人致贈 嘉義台灣圖書室 https://www.facebook.com/taiwanlib/
@@ -139,12 +145,13 @@ Photo 各個現場的相簿 https://photos.app.goo.gl/hW4M5VQBAUVhQPyC9
     - ![](https://g0v.hackmd.io/_uploads/r1eNj5Vr3-g.jpg =x200)
     - 20260828 chewei 有造訪書店，並與店長聊到 g0v，以及自身於在地的經驗，之後應可以再寄送面紙包文宣品
     - 20261125 chewei 寄出面紙包
+    - 不太確定是否為內閱型書籍
 - 20260418 Dong 有提供給 臺北市中正區左轉有書書店，面紙包、推廣手冊
     - 20261125 已寄送面紙包
     - 有路過可自己補面紙包
 - 20260622 chewei 有提供給 屯屯 (地點在臺北市長安東路林森路口附近)，一本沒有人、推廣手冊、面紙包
     - 不太確定是否為內閱型書籍
-    - chewei 平時可以路過添補面紙包
+    - 有路過可自己補面紙包，可認領此場所：chewei
 - 20260718 宜蘭頭城海波浪社群空間 g0v Slack #re-place 一本沒有人實體書、面紙包
 - 20260719 chewei 有提供給 宜蘭青年創生基地，一本沒有人，面紙包樣品_已透過 email 詢問可以寄放面紙包
     - 20261125 已寄送面紙包
@@ -176,7 +183,7 @@ Photo 各個現場的相簿 https://photos.app.goo.gl/hW4M5VQBAUVhQPyC9
     - 有路過可自己補面紙包
 - 20261108 感謝 Percy 協助，分享面紙包至新北高工圖書館的零食分享區
 - 20261118 chewei 有提供面紙包給 臺北市中山區伊通街街區 法國信鴿書店，職員同意可以放，有照片可以參考相簿
-    - 有路過可自己補面紙包
+    - 有路過可自己補面紙包，可認領此場所：chewei
 - 202611?? chewei 有路過寄放面紙包在 lightbox 攝影圖書室
     - 有路過可自己補或放信箱
     - 不曉得是否適合放沒有人書籍
@@ -185,60 +192,14 @@ Photo 各個現場的相簿 https://photos.app.goo.gl/hW4M5VQBAUVhQPyC9
 - 20261125 chewei 寄出面紙包至嘉義市東區洪雅書房
 
 
----
+### 【待詢問】文宣品寄放地點
 
-### 物資寄件
-
-- 簡介，確保收件者理解
-    - 推薦「還可以致贈的單位」表單填寫說明與網址
-- 依場所_面紙包
-    - 評估數量
-    - 是否有外盒
-- 依場所是否還缺_書籍
-    - 沒有人的運動
-    - 公民科技手冊_中文
-    - 公民科技手冊_英文
-    - 公民科技手冊_日文
-
----
-
-## 建立表單
-
-讓空間經營單位可以填寫地址
-我們定期寄送物資過去
-
-:::danger
-推薦表單
-https://forms.gle/bBxBfiiooGsfjTa38
-:::
-
----
-
-## 工作筆記區：潛力地點列舉、企劃構想等
-
-### 資料彙整構想
-
-- 評估整合至 airtable 清單資料
-    - https://airtable.com/app2R1DOrrO9iysOr/shrHT6ylhRFHqOdfv/tblsXkbTpx2tylp89/viws0OSzkhZwVkSlh
-
-### 如何促進沒有人漂書
-
-- 若是採用「漂書」方式，可以在書本內文或封底，增加「看完之後，如何漂書給下一位沒有人」的說明資訊
-    - QRCode 
-    - 待開一個 hackmd 文件，提供各地漂書地點
-    - 優先建議在哪裡拿到本書，就放回拿到的地方
-- 漂書地點蒐集
-    - 陸續蒐集的地點：https://photos.app.goo.gl/ruJ15gJe6XYxduYw5
-    - 交通部 https://reading.motc.gov.tw/funread/app/map_list
-
-
-### 盤點文宣品與摺頁寄放地點
 - 預計詢問 澎湖縣馬公市_植隱冊室 https://www.facebook.com/penghubookstore/
+- 台北場所清單 https://storemap.puma.taipei/
 - 待詢問 永和小小書房
 - 待詢問 永和綠書店
     - 20251221 chewei 致贈給牯嶺街書香市集攤位_綠書店
 - 待詢問 台東市_檔案室裡的小村閱讀 能否寄放面紙包
-- 待詢問 澎湖縣馬公市_植隱冊室 https://www.facebook.com/penghubookstore/
 - 高雄苓雅 日閱書局
 - 獨立書店清單
     - https://twcp.moc.gov.tw/prec-u/project/rows/%E7%8D%A8%E7%AB%8B%E6%9B%B8%E5%BA%97%E9%BB%9E%E6%95%B8%E6%94%BE%E5%A4%A7%E5%B0%88%E6%A1%88%E5%B0%88%E5%8D%80
@@ -272,7 +233,7 @@ https://forms.gle/bBxBfiiooGsfjTa38
 - 日本東京飛地書店
     - https://nowherebookstore.io/overseas_tokyo
 
-### 盤點潛在贈書單位「僅供內閱」
+### 【待詢問】僅供內閱型場所
 
 - [僅供內閱] 非臺灣的中文圖書館，適合中文、英文、日文書籍都放，歡迎列舉推薦
     - 多倫多大學利銘澤典宬 
@@ -325,11 +286,10 @@ https://forms.gle/bBxBfiiooGsfjTa38
     - https://dna.org.tw/
 
 
-
-### 盤點「自由漂書&個人索書&捐贈管道」
+### 【待詢問】漂書位置
 
 :::info
-[常態明確] 的漂書位置，登載至以下頁面中
+[已確認常態明確] 的漂書位置，登載至以下頁面中
 https://g0v.hackmd.io/@jothon/bookcrossing
 :::
 
@@ -338,6 +298,7 @@ https://g0v.hackmd.io/@jothon/bookcrossing
     - 可以評估寄送兩本，一本送館藏，一本漂書
     - https://www.fhsh.tp.edu.tw/office/div_600/read/%E6%84%9B%E9%96%B1%E2%80%A7%E8%87%AA%E7%94%B1%E2%80%A7%E5%88%86%E4%BA%AB%E3%80%8C%E6%BC%82%E6%9B%B8%E7%AB%99%E3%80%8D/
 - 新北市板橋區讀享，有二手書交換區，也有固定閱覽書的樣子 https://www.facebook.com/share/p/1JY7sFEds3/ 
+- 交通部 https://reading.motc.gov.tw/funread/app/map_list
 - 台北大學圖書館，於貼文詢問目前是否還有該漂書區
     - https://www.facebook.com/permalink.php?story_fbid=pfbid02v4sXCEno9qV3P83B3PfjTsUJ5muLBXjvYqMgf3Dxdh21sC7BjwFCEbGkiNmag2q4l&id=100057612003084
 - 新北漂書書櫃各地點：
@@ -355,7 +316,43 @@ https://g0v.hackmd.io/@jothon/bookcrossing
 
 ---
 
-### 詢問信件文字
+# 工作筆記區
+
+## 物資寄件
+
+- 簡介，確保收件者理解
+    - 推薦「還可以致贈的單位」表單填寫說明與網址
+- 依場所_面紙包
+    - 評估數量
+    - 是否有外盒
+- 依場所是否還缺_書籍
+    - 沒有人的運動
+    - 公民科技手冊_中文
+    - 公民科技手冊_英文
+    - 公民科技手冊_日文
+
+---
+
+## 建立表單
+
+讓空間經營單位可以填寫地址
+我們定期寄送物資過去
+
+:::danger
+推薦表單
+https://forms.gle/bBxBfiiooGsfjTa38
+:::
+
+---
+
+## 資料彙整構想
+
+- 評估整合至 airtable 清單資料
+    - https://airtable.com/app2R1DOrrO9iysOr/shrHT6ylhRFHqOdfv/tblsXkbTpx2tylp89/viws0OSzkhZwVkSlh
+
+---
+
+## 詢問信件文字
 
 [贈書詢問] 致贈 g0v 社群ＯＯＯＯＯＯＯＯ
 
@@ -392,3 +389,11 @@ https://youtu.be/SldUq8VMjsI
 
 
 感謝🙏
+
+---
+
+# 工具建置構想_找書趣_哪裡會有這本書？
+
+https://g0v.hackmd.io/WP05tZfcR9eADJFDHQKfpA?view
+
+---
