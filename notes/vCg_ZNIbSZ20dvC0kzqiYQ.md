@@ -195,6 +195,7 @@ Photo 各個現場的相簿 https://photos.app.goo.gl/hW4M5VQBAUVhQPyC9
 ### 【待詢問】文宣品寄放地點
 
 - 預計詢問 澎湖縣馬公市_植隱冊室 https://www.facebook.com/penghubookstore/
+- 預計詢問 臺北市條通 濕地一樓的文宣品橋面
 - 台北場所清單 https://storemap.puma.taipei/
 - 待詢問 永和小小書房
 - 待詢問 永和綠書店
