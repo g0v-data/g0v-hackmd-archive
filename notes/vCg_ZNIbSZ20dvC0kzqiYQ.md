@@ -66,7 +66,7 @@ idea: 可以建立一個地點地圖
 Photo 各個現場的相簿 https://photos.app.goo.gl/hW4M5VQBAUVhQPyC9
 :::
 
-### 圖書館
+### 書籍內閱場所｜機構內部型 / 不一定適合對外借閱
 - 中研院圖書館
     - https://aslib.on.worldcat.org/search/detail/1524149609?queryString=%E6%9D%8E%E6%A2%85%E5%90%9B&idDetect=true&clusterResults=false&groupVariantRecords=false&bookReviews=off
     - 民族所圖書館，有一本
@@ -87,37 +87,50 @@ Photo 各個現場的相簿 https://photos.app.goo.gl/hW4M5VQBAUVhQPyC9
 - 2025.12 ky 有捐一本 MG 的書到美國灣區的文教中心圖書館
     - https://www.ocac.gov.tw/OCAC/SubSites/Pages/VDetail.aspx?site=ad4b003b-2a11-4a19-a14e-42f11fecae70&nodeid=972&pid=4710
     - 注意！美國一般公立圖書館不收捐書他們會賣掉換錢 
-
-### 學校社團
-- 20251221 chewei 致贈給牯嶺街書香市集攤位 
-    - 已致贈一本給 高中校刊社團：松山高中
-    - 已致贈一本給 高中校刊社團：中山女中
-    - 已致贈一本給 高中校刊社團：師大附中
-    - 已致贈一本給 高中校刊社團：建國中學
-    - 已致贈一本給 台大意識報 社團
-    - 已致贈一本給 綠書店
-
-### 各類空間、書店、場所
-- 2025.12 已寄送一本致贈 嘉義台灣圖書室 https://www.facebook.com/taiwanlib/
-    - 也有寄放社群摺頁
+- 20251221 chewei 致贈給牯嶺街書香市集攤位_高中社團_松山高中校刊社
+- 20251221 chewei 致贈給牯嶺街書香市集攤位_高中社團_中山女中校刊社
+- 20251221 chewei 致贈給牯嶺街書香市集攤位_高中社團_師大附中校刊社
+- 20251221 chewei 致贈給牯嶺街書香市集攤位_高中社團_建國中學校刊社
+- 20251221 chewei 致贈給牯嶺街書香市集攤位_大學社團_台大意識報 
 - 2026.01 感謝 chih-yuan 轉交致贈給 台大城鄉所所辦圖書室，編目：118456
-- 2026.01 已致贈 高雄市三餘書店一本
+- 2026.03.28 SITCON 擺攤，有致贈一本給來攤位參訪的蕭副總統
+    - 相關照片記錄 https://g0v.hackmd.io/@jothon/booth/%2FKZVvYOn3TIyMInZI0jrwbg%3Fview
+- 20260416 已致贈 50 本給誠品藝術文化基金會，由基金會分派給合作的內閱型圖書單位 (本次似乎是提供給 高中、國中、國小、兒少機構；但並無法更明確的說明)
+
+### 書籍內閱場所｜公眾比較容易造訪
+- 馬祖南竿_西尾半島物產店
+- 馬祖南竿_連江縣文化處馬祖圖書館
+- 宜蘭頭城海波浪社群空間
+- 宜蘭礁溪駅本屋書店
+- 宜蘭青年創生基地
+- 花蓮縣壽豐鄉豐田社區 伴多咖啡廳
+- 同齊咖啡
+- 黑鯨咖啡
+- 勝利不廢餐廳
+- Kshow餐廳
+- 臺東市晃晃書店
+- 臺中魚麗共同廚房
+- 嘉義台灣圖書室
+- 萬巒鄉立圖書館
+
+### 文宣品寄放
+- 2025.12 已寄送一本沒有人致贈 嘉義台灣圖書室 https://www.facebook.com/taiwanlib/
     - 也有寄放社群摺頁
-    - 不太確定是否為內閱型書籍
+    - 20261125 已寄送面紙包
+- 2026.01 已致贈 高雄市三餘書店一本
+    - 也有寄放社群摺頁，不太確定是否為內閱型書籍
+    - 20261125 已寄送面紙包
 - 2026.01 寄放摺頁於 高雄市工地書店
-    - Todo 後續應可再寄送書籍至書店
-- [可漂書] 台南市友愛街好想工作室
+    - 後續應可再寄送書籍至書店
+    - 20261125 已寄送面紙包與一本沒有人
+    - 不太確定是否為內閱型書籍
+- 台南市友愛街好想工作室
     - 有寄放摺頁
     - ![](https://g0v.hackmd.io/_uploads/HJswQPsoZx.jpg)
-    - 二樓梯間，有免費自取區，可漂書
 - 台南市台南新芽辦公室入口文宣品櫃
     - 可寄放摺頁
     - ![](https://g0v.hackmd.io/_uploads/SJhpXDosbl.jpg)
     - ![](https://g0v.hackmd.io/_uploads/HyXyEwjoWl.jpg)
-- 台鐵新左營站有漂書書櫃
-    - ![](https://g0v.hackmd.io/_uploads/Hyvs75r_zx.jpg)
-- 2026.03.28 SITCON 擺攤，有致贈一本給來攤位參訪的蕭副總統
-    - 相關照片記錄 https://g0v.hackmd.io/@jothon/booth/%2FKZVvYOn3TIyMInZI0jrwbg%3Fview
 - 2026.04.01 感謝 Dong 協助，致贈一本給 萬巒鄉立圖書館，另有放置摺頁
     - ![](https://g0v.hackmd.io/_uploads/rknhI8oi-l.jpg =x200)
     - 萬巒鄉立圖書館拍攝本書宣傳照於 FB 貼文推廣：https://www.facebook.com/share/1EHZTLvUY8/
@@ -125,33 +138,52 @@ Photo 各個現場的相簿 https://photos.app.goo.gl/hW4M5VQBAUVhQPyC9
     - ![](https://g0v.hackmd.io/_uploads/HkNsqNH3Wl.jpg =x200)
     - ![](https://g0v.hackmd.io/_uploads/r1eNj5Vr3-g.jpg =x200)
     - 20260828 chewei 有造訪書店，並與店長聊到 g0v，以及自身於在地的經驗，之後應可以再寄送面紙包文宣品
-- 20260416 已致贈 50 本給誠品藝術文化基金會，由基金會分派給合作的內閱型圖書單位 (本次似乎是提供給 高中、國中、國小、兒少機構；但並無法更明確的說明)
+    - 20261125 chewei 寄出面紙包
 - 20260418 Dong 有提供給 臺北市中正區左轉有書書店，面紙包、推廣手冊
+    - 20261125 已寄送面紙包
+    - 有路過可自己補面紙包
 - 20260622 chewei 有提供給 屯屯 (地點在臺北市長安東路林森路口附近)，一本沒有人、推廣手冊、面紙包
     - 不太確定是否為內閱型書籍
-    - chewei 可以路過添補面紙包
+    - chewei 平時可以路過添補面紙包
 - 20260718 宜蘭頭城海波浪社群空間 g0v Slack #re-place 一本沒有人實體書、面紙包
 - 20260719 chewei 有提供給 宜蘭青年創生基地，一本沒有人，面紙包樣品_已透過 email 詢問可以寄放面紙包
+    - 20261125 已寄送面紙包
 - 20260720 chewei 有提供給 礁溪 駅本屋書店，一本沒有人
+    - 面紙包倒是沒問過
 - 20260720 chewei 有提供給 宜蘭市 城鄉潮間帶書店，一本沒有人，面紙包樣品_已透過 FB 詢問可以寄放面紙包
+    - 不太確定是否為內閱型書籍
 - 20260822 chewei 有提供給 花蓮縣壽豐鄉豐田社區 伴多咖啡廳，一本沒有人，面紙包 10 包
+    - 20261125 已寄送面紙包
 - 20260822 請小海協助分享書籍與面紙包給結識的空間，海海預計放置在：
     - 同齊咖啡
     - 黑鯨咖啡
     - 勝利不廢餐廳
     - Kshow餐廳
-- 20260827 chewei 有提供給 臺東市晃晃書店 面紙包，已同意致贈一本沒有人內閱，待寄送
+- 20260827 chewei 有提供給 臺東市晃晃書店 面紙包，已同意致贈一本沒有人內閱
     - ![](https://g0v.hackmd.io/_uploads/rJ_xQ2pvMe.jpg)
-- 20260902 chewei 提供 面紙包 給 臺北市文山社區大學擺放在辦公室門口的摺頁自取櫃子；20261113 chewei 有補充面紙包
+    - 20261125 已寄送一本沒有人與面紙包
+- 20260902 chewei 提供 面紙包 給 臺北市文山社區大學擺放在辦公室門口的摺頁自取櫃子
+    - 20261113 chewei 有補充面紙包
 - 20261001 chewei 有提供一本沒有人給 馬祖南竿_西尾半島物產店 https://www.facebook.com/XIWEIPENINSULA/
 - 20261002 chewei 有提供一本沒有人書籍與面紙包 給 馬祖南竿_交隴半山．離島書店 https://www.facebook.com/profile.php?id=61590437082917
+    - 不太確定是否為內閱型書籍
 - 20261002 chewei 有提供一本沒有人給 連江縣文化處馬祖圖書館
-- 預計詢問 澎湖縣馬公市_植隱冊室 https://www.facebook.com/penghubookstore/
 - 20261008 chewei 有提供面紙包給 臺中_邊譜書店
-- 20261010 chewei 有提供面紙包給 台中魚麗共同廚房，店長知道 ipa 與 g0v，之後應該可以詢問致贈沒有人書籍
+    - 20261125 已寄送面紙包
+- 20261010 chewei 有提供面紙包給 臺中魚麗共同廚房，店長知道 ipa 與 g0v
+    - 20261125 已寄送一本沒有人 & 面紙包
 - 20261017 chewei 有提供面紙包給 臺北市大安區唐山書店，有照片可參考相簿
+    - 有路過可自己補面紙包
 - 20261108 感謝 Percy 協助，分享面紙包至新北高工圖書館的零食分享區
 - 20261118 chewei 有提供面紙包給 臺北市中山區伊通街街區 法國信鴿書店，職員同意可以放，有照片可以參考相簿
+    - 有路過可自己補面紙包
+- 202611?? chewei 有路過寄放面紙包在 lightbox 攝影圖書室
+    - 有路過可自己補或放信箱
+    - 不曉得是否適合放沒有人書籍
+- 20261125 chewei 寄出面紙包至花蓮光復_彼心書店
+- 20261125 chewei 寄出面紙包至臺北市西門町飛地書店 
+- 20261125 chewei 寄出面紙包至嘉義市東區洪雅書房
+
 
 ---
 
@@ -200,6 +232,45 @@ https://forms.gle/bBxBfiiooGsfjTa38
     - 交通部 https://reading.motc.gov.tw/funread/app/map_list
 
 
+### 盤點文宣品與摺頁寄放地點
+- 預計詢問 澎湖縣馬公市_植隱冊室 https://www.facebook.com/penghubookstore/
+- 待詢問 永和小小書房
+- 待詢問 永和綠書店
+    - 20251221 chewei 致贈給牯嶺街書香市集攤位_綠書店
+- 待詢問 台東市_檔案室裡的小村閱讀 能否寄放面紙包
+- 待詢問 澎湖縣馬公市_植隱冊室 https://www.facebook.com/penghubookstore/
+- 高雄苓雅 日閱書局
+- 獨立書店清單
+    - https://twcp.moc.gov.tw/prec-u/project/rows/%E7%8D%A8%E7%AB%8B%E6%9B%B8%E5%BA%97%E9%BB%9E%E6%95%B8%E6%94%BE%E5%A4%A7%E5%B0%88%E6%A1%88%E5%B0%88%E5%8D%80
+    - https://fribooker.wordpress.com/bookstore/
+- 自造中心
+    - 花蓮光復 https://www.facebook.com/share/p/1C3NNDi47v/
+- 大學，適合中文、英文、日文書籍都放
+    - 政大？
+- 待詢問公館誠品書店，活動摺頁手冊區能否寄放
+- 待詢問臺南市政大書局
+- 社區大學
+- 中研院院區，也是否也有適合的地點
+    - 旅客住宿
+    - 圖書館
+    - 人文類單位
+    - 資訊所
+- 高中資訊社團，寄送面紙包
+- 青年發展署體系單位
+    - https://www.facebook.com/share/p/1DngXA7HB3/?mibextid=wwXIfr
+- 縣市青年局處
+    - 臺北市青年局
+    - 新北市青年局
+    - 高雄市青年局
+    - 屏東縣
+        - https://www.facebook.com/share/1CMqsVicKb/
+- 青年培力工作站們
+    - https://www.twrr.ndc.gov.tw/teen-workshop
+- 馬來西亞 季風三三 https://www.facebook.com/share/1E9brSyZ7k/
+- 日本福岡
+    - https://engineercafe.jp/
+- 日本東京飛地書店
+    - https://nowherebookstore.io/overseas_tokyo
 
 ### 盤點潛在贈書單位「僅供內閱」
 
@@ -240,8 +311,10 @@ https://forms.gle/bBxBfiiooGsfjTa38
         - 待詢問
     - https://www.iseeyou.org.tw/contact
         - 待詢問
-
-### 盤點「自由漂書&個人索書&捐贈管道」
+- 新北市板橋區讀享，有固定閱覽書的樣子 https://www.facebook.com/share/p/1JY7sFEds3/ 
+- [待詢問] 桃園 
+    - https://www.facebook.com/share/p/1Cu7cnsHq7/
+- 玖樓，交誼空間，待詢問
 - iGoods
     - https://www.igoods.tw/News/News_Info_1.aspx?ID=152
     - 待詢問平台的受贈單位，是否有圖書內閱型單位
@@ -250,79 +323,35 @@ https://forms.gle/bBxBfiiooGsfjTa38
     - 待詢問平台的受贈單位，是否有圖書內閱型單位
 - [僅供內閱] 待詢問 數位游牧者協會 是否有推薦的合作實體空間單位，適合放書籍與文宣品
     - https://dna.org.tw/
-- [漂書] 
-    - 台大第一學生活動中心，適合中文、英文、日文書籍都放，室內有一個紙本擺放索取區，可以放書自取
-        - 2026.11.26 有開始記錄此處漂書 https://g0v.hackmd.io/@jothon/bookcrossing
-    - 臺北市大安區師大浦城街就諦書屋，門口有漂書書櫃
-        - https://photos.app.goo.gl/ruJ15gJe6XYxduYw5
-    - 台北市復興高中圖書館有設置漂書書櫃
-        - 可以評估寄送兩本，一本送館藏，一本漂書
-        - https://www.fhsh.tp.edu.tw/office/div_600/read/%E6%84%9B%E9%96%B1%E2%80%A7%E8%87%AA%E7%94%B1%E2%80%A7%E5%88%86%E4%BA%AB%E3%80%8C%E6%BC%82%E6%9B%B8%E7%AB%99%E3%80%8D/
-    - 台北市延慧書庫，算是捐書，
-        - https://www.dep.gov.taipei/News_Content.aspx?n=ACEFA960B5A4ACD7&s=B13B344A9B51E125
-    - 台北大學圖書館，於貼文詢問目前是否還有該漂書區
-        - https://www.facebook.com/permalink.php?story_fbid=pfbid02v4sXCEno9qV3P83B3PfjTsUJ5muLBXjvYqMgf3Dxdh21sC7BjwFCEbGkiNmag2q4l&id=100057612003084
-    - 新北漂書書櫃各地點：
-        - https://activity3.library.ntpc.gov.tw/location.html
-        - https://www.library.ntpc.gov.tw/IReadYou/singlehtml/f3f7e8e97c8e4f5e922e9326c03c4636#gsc.tab=0
-    - 雙溪火車站 https://www.facebook.com/share/p/1d2RSLd68k/
-    - 台中中友百貨C棟一樓騎樓，有一個燈泡造型的漂書書櫃
-        - https://photos.app.goo.gl/ruJ15gJe6XYxduYw5
-    - 高雄台鐵新左營站票閘口外，有一個漂書書櫃
-        - https://photos.app.goo.gl/ruJ15gJe6XYxduYw5
+
+
+
+### 盤點「自由漂書&個人索書&捐贈管道」
+
+:::info
+[常態明確] 的漂書位置，登載至以下頁面中
+https://g0v.hackmd.io/@jothon/bookcrossing
+:::
+
+待詢問、待確認是否還有設置
+- 台北市復興高中圖書館有設置漂書書櫃
+    - 可以評估寄送兩本，一本送館藏，一本漂書
+    - https://www.fhsh.tp.edu.tw/office/div_600/read/%E6%84%9B%E9%96%B1%E2%80%A7%E8%87%AA%E7%94%B1%E2%80%A7%E5%88%86%E4%BA%AB%E3%80%8C%E6%BC%82%E6%9B%B8%E7%AB%99%E3%80%8D/
+- 新北市板橋區讀享，有二手書交換區，也有固定閱覽書的樣子 https://www.facebook.com/share/p/1JY7sFEds3/ 
+- 台北大學圖書館，於貼文詢問目前是否還有該漂書區
+    - https://www.facebook.com/permalink.php?story_fbid=pfbid02v4sXCEno9qV3P83B3PfjTsUJ5muLBXjvYqMgf3Dxdh21sC7BjwFCEbGkiNmag2q4l&id=100057612003084
+- 新北漂書書櫃各地點：
+    - https://activity3.library.ntpc.gov.tw/location.html
+    - https://www.library.ntpc.gov.tw/IReadYou/singlehtml/f3f7e8e97c8e4f5e922e9326c03c4636#gsc.tab=0
+- 新北市雙溪區雙溪火車站外
+    - https://www.facebook.com/share/p/1d2RSLd68k/
 - 竹山客運車站的書廊空間
     - https://www.facebook.com/share/p/18b7hhmqss/
     - 待確認 是 僅供內閱 或 漂書
-- 玖樓，交誼空間
-- 桃園 
-    - https://www.facebook.com/share/p/1Cu7cnsHq7/
+- 台南市友愛街好想工作室
+    - 二樓梯間，有免費自取區，可漂書
+    - 問 Howard 此區是否還在
 
-### 盤點文宣品與摺頁寄放地點
-- 待詢問 lightbox 攝影圖書室
-- 待詢問 永和小小書房
-- 待詢問 永和綠書店
-- 待詢問 花蓮光復_彼心書店 能否寄放面紙包
-- 待詢問 台東市_檔案室裡的小村閱讀 能否寄放面紙包
-- 待詢問 澎湖縣馬公市_植隱冊室 https://www.facebook.com/penghubookstore/
-- 待詢問 新北市板橋區讀享，有二手書交換區，也有固定閱覽書的樣子 https://www.facebook.com/share/p/1JY7sFEds3/ 
-- 高雄苓雅 日閱書局
-- 獨立書店清單
-    - https://twcp.moc.gov.tw/prec-u/project/rows/%E7%8D%A8%E7%AB%8B%E6%9B%B8%E5%BA%97%E9%BB%9E%E6%95%B8%E6%94%BE%E5%A4%A7%E5%B0%88%E6%A1%88%E5%B0%88%E5%8D%80
-    - https://fribooker.wordpress.com/bookstore/
-- 自造中心
-    - 花蓮光復 https://www.facebook.com/share/p/1C3NNDi47v/
-- 大學，適合中文、英文、日文書籍都放
-    - 台大第一學生活動中心，室內有一個紙本擺放索取區，可以放書自取，適合加上一本小冊子
-    - 政大？
-- 書店：
-    - 詢問誠品書店的活動摺頁手冊區，有什麼寄放規則嗎？
-    - 詢問臺北市大安區唐山書店摺頁區
-        - 面紙包樣品_後續待 email 詢問能否寄放面紙包
-    - 詢問臺北市西門町飛地書店 
-    - 詢問臺南市政大書局
-- 社區大學
-    - 待詢問 臺北市文山社區大學 能否寄放文宣品，半戶外的櫃子
-- 中研院院區，也是否也有適合的地點
-    - 旅客住宿
-    - 圖書館
-    - 人文類單位
-    - 資訊所
-- 高中資訊社團，寄送面紙包
-- 青年發展署體系單位
-    - https://www.facebook.com/share/p/1DngXA7HB3/?mibextid=wwXIfr
-- 縣市青年局處
-    - 臺北市青年局
-    - 新北市青年局
-    - 高雄市青年局
-    - 屏東縣
-        - https://www.facebook.com/share/1CMqsVicKb/
-- 青年培力工作站們
-    - https://www.twrr.ndc.gov.tw/teen-workshop
-- 馬來西亞 季風三三 https://www.facebook.com/share/1E9brSyZ7k/
-- 日本福岡
-    - https://engineercafe.jp/
-- 日本東京飛地書店
-    - https://nowherebookstore.io/overseas_tokyo
 
 ---
 

@@ -2,8 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
-| [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-11-27T01:53:32+00:00 | View mode |
-| [Byl8kKBkme](../../notes/AdfWG9kgSSKe3xe3L4jy1Q.md) | 漂書地點回饋 Bookcrossing | 2026-11-27T01:36:21+00:00 | View mode |
+| [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-11-27T02:59:24+00:00 | View mode |
+| [Byl8kKBkme](../../notes/AdfWG9kgSSKe3xe3L4jy1Q.md) | 漂書地點回饋 Bookcrossing | 2026-11-27T02:42:15+00:00 | View mode |
 | [SJsDmxPfGe](../../notes/1thatkFaTByXWPkbi8JcZQ.md) | 2027／07 至 10 月 第柒拾玖次公民科技跑咖松 | 2026-11-27T01:08:25+00:00 | View mode |
 | [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | civictech.tw 資料登載工作頁面 & 收錄原則探討 | 2026-11-26T21:16:01+00:00 | View mode |
 | [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-11-26T19:48:09+00:00 | View mode |
