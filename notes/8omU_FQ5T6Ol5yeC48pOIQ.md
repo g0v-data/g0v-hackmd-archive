@@ -162,38 +162,8 @@ https://www.youtube.com/watch?v=9URtnUZ84iw
 
 robocopy "\\192.168.2.165\d$" "C:" /E /xd backup "D:\fpg\ERPDBT" /NS /NC /NFL /NDL /NJH /NJS /NP /R:0 /W:0 >nul
 
-https://meet.google.com/xfd-baqh-fzi
-
-2015/3/2
-安裝印表機
-psexec \\192.168.10.41 -u "username" -p password c:\C4500\c4500.bat
-(已經複製到c，遠端執行會卡住不動，失敗)
-psexec \\192.168.10.41 --I -d  -u "username" -p password c:\C4500\c4500.bat
-.…目的端電腦出現操作無法完成 00000002錯誤
-
-單機操作成功：
-rem chcp 65001 <--切換編碼(中文需要)
-chcp 65001
-cscript prnport.vbs -a -r IP_192.168.10.240 -h 192.168.10.240 -o raw
-rundll32 printui.dll,PrintUIEntry /if /b "辦公區C4500" /f "RC96E164.inf" /r "IP_192.168.10.240" /m "RICOH Aficio MP C4500 RPCS" /z
 
 圖像生成    https://www.goenhance.ai/zhHant/tools/recraft-v3-image-generator
 
-https://meet.google.com/gbz-aizq-ito
-https://dev-box3.taiwanmds.com/tmr-ai-manage/industry-agent/
-https://dev-box3.taiwanmds.com/tmr-ai-manage/industry-agent/
-https://drive.google.com/file/d/15bcsKRLyi6ObQc1WkUGg7Vgb3HSSESwR/view
 
 
-https://meet.google.com/meet/krw-qerk-ozx
-
-reg add "HKCU\Software\Classes\CLSID\{51668040-5e31-4023-bbe3-149163bd80f1}\InprocServer32" /ve /f
-reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /ve /f
-reg add "HKCU\Software\Classes\CLSID\{51668040-5e31-4023-bbe3-149163bd80f1}\InprocServer32" /ve /f
-reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
-taskkill /f /im explorer.exe
-start explorer.exe
-https://github.com/PeterStrick/ViVeTool-GUI/tree/master
-vivetool /disable /id:60813048
-https://github.com/thebookisclosed/ViVe/releases
-https://migovi.com/tw/context-menu-windows-11-co-dien-lenh-moi/

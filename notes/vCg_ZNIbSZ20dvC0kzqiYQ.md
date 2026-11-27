@@ -150,7 +150,7 @@ Photo 各個現場的相簿 https://photos.app.goo.gl/hW4M5VQBAUVhQPyC9
 - 20261008 chewei 有提供面紙包給 臺中_邊譜書店
 - 20261010 chewei 有提供面紙包給 台中魚麗共同廚房，店長知道 ipa 與 g0v，之後應該可以詢問致贈沒有人書籍
 - 20261017 chewei 有提供面紙包給 臺北市大安區唐山書店，有照片可參考相簿
-- 20261108 感謝 Percy 協助，預計分享面紙包至新北高工圖書館的零食分享區
+- 20261108 感謝 Percy 協助，分享面紙包至新北高工圖書館的零食分享區
 - 20261118 chewei 有提供面紙包給 臺北市中山區伊通街街區 法國信鴿書店，職員同意可以放，有照片可以參考相簿
 
 ---
@@ -201,7 +201,7 @@ https://forms.gle/bBxBfiiooGsfjTa38
 
 
 
-### 盤點潛在贈書單位，請註記「僅供內閱」或是「自由漂書&個人索書」
+### 盤點潛在贈書單位「僅供內閱」
 
 - [僅供內閱] 非臺灣的中文圖書館，適合中文、英文、日文書籍都放，歡迎列舉推薦
     - 多倫多大學利銘澤典宬 
@@ -240,6 +240,8 @@ https://forms.gle/bBxBfiiooGsfjTa38
         - 待詢問
     - https://www.iseeyou.org.tw/contact
         - 待詢問
+
+### 盤點「自由漂書&個人索書&捐贈管道」
 - iGoods
     - https://www.igoods.tw/News/News_Info_1.aspx?ID=152
     - 待詢問平台的受贈單位，是否有圖書內閱型單位
@@ -249,10 +251,25 @@ https://forms.gle/bBxBfiiooGsfjTa38
 - [僅供內閱] 待詢問 數位游牧者協會 是否有推薦的合作實體空間單位，適合放書籍與文宣品
     - https://dna.org.tw/
 - [漂書] 
-    - 台大第一學生活動中心，適合中文、英文、日文書籍都放，室內有一個紙本擺放索取區，可以放書自取，適合加上一本小冊子
-    - 台北市延慧書庫  https://www.dep.gov.taipei/News_Content.aspx?n=ACEFA960B5A4ACD7&s=B13B344A9B51E125
-    - 新北漂書書櫃各地點：https://activity3.library.ntpc.gov.tw/location.html
-    - 雙溪火車站https://www.facebook.com/share/p/1d2RSLd68k/
+    - 台大第一學生活動中心，適合中文、英文、日文書籍都放，室內有一個紙本擺放索取區，可以放書自取
+        - 2026.11.26 有開始記錄此處漂書 https://g0v.hackmd.io/@jothon/bookcrossing
+    - 臺北市大安區師大浦城街就諦書屋，門口有漂書書櫃
+        - https://photos.app.goo.gl/ruJ15gJe6XYxduYw5
+    - 台北市復興高中圖書館有設置漂書書櫃
+        - 可以評估寄送兩本，一本送館藏，一本漂書
+        - https://www.fhsh.tp.edu.tw/office/div_600/read/%E6%84%9B%E9%96%B1%E2%80%A7%E8%87%AA%E7%94%B1%E2%80%A7%E5%88%86%E4%BA%AB%E3%80%8C%E6%BC%82%E6%9B%B8%E7%AB%99%E3%80%8D/
+    - 台北市延慧書庫，算是捐書，
+        - https://www.dep.gov.taipei/News_Content.aspx?n=ACEFA960B5A4ACD7&s=B13B344A9B51E125
+    - 台北大學圖書館，於貼文詢問目前是否還有該漂書區
+        - https://www.facebook.com/permalink.php?story_fbid=pfbid02v4sXCEno9qV3P83B3PfjTsUJ5muLBXjvYqMgf3Dxdh21sC7BjwFCEbGkiNmag2q4l&id=100057612003084
+    - 新北漂書書櫃各地點：
+        - https://activity3.library.ntpc.gov.tw/location.html
+        - https://www.library.ntpc.gov.tw/IReadYou/singlehtml/f3f7e8e97c8e4f5e922e9326c03c4636#gsc.tab=0
+    - 雙溪火車站 https://www.facebook.com/share/p/1d2RSLd68k/
+    - 台中中友百貨C棟一樓騎樓，有一個燈泡造型的漂書書櫃
+        - https://photos.app.goo.gl/ruJ15gJe6XYxduYw5
+    - 高雄台鐵新左營站票閘口外，有一個漂書書櫃
+        - https://photos.app.goo.gl/ruJ15gJe6XYxduYw5
 - 竹山客運車站的書廊空間
     - https://www.facebook.com/share/p/18b7hhmqss/
     - 待確認 是 僅供內閱 或 漂書
