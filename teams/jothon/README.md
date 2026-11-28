@@ -2,6 +2,7 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [Sy2szIbymx](../../notes/Wl0-JKpJQySe4IH2F8xRrg.md) | civictech.tw 介紹影片_歡迎回饋意見 | 2026-11-28T12:47:11+00:00 | View mode |
 | [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | Now Coming 2027 g0v 黑客松｜1月 ~ 5 月 | 2026-11-28T11:58:55+00:00 | View mode |
 | [r17EsOYrex](../../notes/71J-oG2VThSDQomGVzi0HA.md) | 社群小聚｜在嘉義舉辦社群小聚 | 2026-11-28T11:50:27+00:00 | View mode |
 | [SkGS-jwJzx](../../notes/xt2YlHBSSzWhPAO65XnmMg.md) | <center>公民科技行動指引<br>Civic Tech Guide</center> | 2026-11-28T11:45:50+00:00 | View mode |
@@ -23,7 +24,6 @@
 | [r1QUPqo2Wg](../../notes/S3cmrJ8mS06lPKHJSxSINg.md) | Civic Tech Day<br>公民科技主題日 | 2026-11-25T20:13:07+00:00 | Book mode |
 | [r18M8NIhGe](../../notes/NBtIE1b8TkuHhuGZ9R9akg.md) | 專案孵化計畫 Civic Nest | 2026-11-25T19:09:38+00:00 | View mode |
 | [rkRYZt-9Ze](../../notes/ru-7S6xsQL-1pXmTRXPAmg.md) | 製作「面紙包」用於發送 | 2026-11-25T00:11:15+00:00 | View mode |
-| [Sy2szIbymx](../../notes/Wl0-JKpJQySe4IH2F8xRrg.md) | civictech.tw 介紹影片_歡迎回饋意見 | 2026-11-24T15:32:07+00:00 | View mode |
 | [rkVx1GUCWe](../../notes/rO5b1GLFQY-njG5vOqx1bw.md) | 公民科技行動指引 Guide | 2026-11-24T14:26:47+00:00 | Book mode |
 | [SJl0a7FNXO](../../notes/A389WmcvTzmR1lXGiP9wgw.md) | g0v 社群動態 | 2026-11-23T15:20:07+00:00 | Book mode |
 | [rylUFKCRJx](../../notes/oTSeXwo7RmesGeN4wuCr3A.md) | 貼圖系列企劃 | 2026-11-22T15:29:11+00:00 | View mode |
