@@ -16,7 +16,11 @@ Share a Spot
 - 臺北市大安區台大第一學生活動中心一樓穿廊
 - 臺北市大安區師大浦城街就諦書屋，門口有贈書書櫃
     - 照片：https://photos.app.goo.gl/ruJ15gJe6XYxduYw5
-- 臺北市延慧書庫的捐書箱，算是捐書，可以在書籍內頁中，提醒閱讀者用漂書方式再釋出
+- 臺中市北區台中中友百貨C棟一樓騎樓，有一個燈泡造型的漂書書櫃
+    - 照片：https://photos.app.goo.gl/ruJ15gJe6XYxduYw5
+- 高雄市左營區台鐵新左營站票閘口外，有一個漂書書櫃
+    - 照片：https://photos.app.goo.gl/ruJ15gJe6XYxduYw5
+- [捐書箱] 臺北市延慧書庫的捐書箱，算是捐書，可以在書籍內頁中，提醒閱讀者用漂書方式再釋出
     - https://www.dep.gov.taipei/News_Content.aspx?n=ACEFA960B5A4ACD7&s=B13B344A9B51E125
     - 捷運新北投支線新北投站 
     - 臺北市內湖區捷運文湖線大直站
@@ -47,10 +51,6 @@ Share a Spot
     - 臺北市文山區捷運文湖線萬芳社區站
     - 新北市新店區捷運松山新店線大坪林
     - 新北市板橋區捷運板南線江子翠站
-- 臺中市北區台中中友百貨C棟一樓騎樓，有一個燈泡造型的漂書書櫃
-    - 照片：https://photos.app.goo.gl/ruJ15gJe6XYxduYw5
-- 高雄市左營區台鐵新左營站票閘口外，有一個漂書書櫃
-    - 照片：https://photos.app.goo.gl/ruJ15gJe6XYxduYw5
 
 
 ---

@@ -2,8 +2,10 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [Byl8kKBkme](../../notes/AdfWG9kgSSKe3xe3L4jy1Q.md) | 漂書地點回饋 Bookcrossing | 2026-11-28T09:18:03+00:00 | View mode |
+| [SyuU7Md9Zg](../../notes/iOqB9tVBQF6_hFl_Jm2jOA.md) | 共辦效應 Meetup<br> Accompanied Effect | 2026-11-28T09:12:56+00:00 | Book mode |
+| [S1GA9zuy7l](../../notes/J8vxR3qQQACUHUacPnfeDw.md) | 新竹縣 | 2026-11-28T09:12:07+00:00 | View mode |
 | [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-11-27T12:16:32+00:00 | View mode |
-| [Byl8kKBkme](../../notes/AdfWG9kgSSKe3xe3L4jy1Q.md) | 漂書地點回饋 Bookcrossing | 2026-11-27T05:47:00+00:00 | View mode |
 | [Hy0H2n2AGg](../../notes/yIRJbjhgScCJoiwdHvUhog.md) | Civic Nest<br>零時小學校專案孵化計畫<br>第六屆專案團隊介紹 | 2026-11-27T03:28:53+00:00 | View mode |
 | [SJsDmxPfGe](../../notes/1thatkFaTByXWPkbi8JcZQ.md) | 2027／07 至 10 月 第柒拾玖次公民科技跑咖松 | 2026-11-27T01:08:25+00:00 | View mode |
 | [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | civictech.tw 資料登載工作頁面 & 收錄原則探討 | 2026-11-26T21:16:01+00:00 | View mode |
@@ -26,7 +28,6 @@
 | [BJHF00i_Gg](../../notes/0k2xQac4Ru6zWpQX_naeDg.md) | 桃園 | 2026-11-21T15:15:48+00:00 | View mode |
 | [r1NujZbRfl](../../notes/0LpMh6OWRIGHkPcgu93R8g.md) | 林口生活圈 | 2026-11-21T15:14:46+00:00 | View mode |
 | [B17hjPWufg](../../notes/zlgYN4KdR_a4bsOVPdOr1w.md) | 社群小聚｜臺中與苗栗 | 2026-11-21T15:13:52+00:00 | View mode |
-| [SyuU7Md9Zg](../../notes/iOqB9tVBQF6_hFl_Jm2jOA.md) | 共辦效應 Meetup<br> Accompanied Effect | 2026-11-21T15:13:34+00:00 | Book mode |
 | [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | Now Coming 2027 g0v 黑客松｜1月 ~ 5 月 | 2026-11-21T14:13:14+00:00 | View mode |
 | [HJMvgwP0zx](../../notes/VfQVXR8OTyu8hlDltdwNWg.md) | g0v Hackathan | 2026-11-21T14:01:19+00:00 | Book mode |
 | [BkCPHcYEee](../../notes/_ab2mPTsSOqJC4V8ssMnDg.md) | 零時小學校<br>專案孵化計畫<br>Civic Nest | 2026-11-19T18:34:56+00:00 | Book mode |

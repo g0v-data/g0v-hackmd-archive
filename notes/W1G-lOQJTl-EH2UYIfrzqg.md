@@ -104,7 +104,7 @@ https://peatix.com/event/4296712/
 2050 
 https://nistep.repo.nii.ac.jp/records/2000284
 
-### 東京 / 橫濱
+### 東京灣 / 東京 / 橫濱
 
 Tokyo
 - https://minitokyo3d.com/
@@ -112,9 +112,16 @@ Tokyo
     - https://info.tokyo-digitaltwin.metro.tokyo.lg.jp/3dmodel/
 - 東京地鐵 https://www.facebook.com/share/1AF2rSrNKS/
     - 興建歷程 https://youtu.be/vDUu3Jg3aak
+- 東京23区の水害（洪水・高潮）を読む地図
+    - https://3d-layered-thematic-map.structure-and-representation.com/
+        - https://www.facebook.com/yuichi.yazaki/posts/pfbid023BPsp8fZH8rzsrr6tdUknQxcwwm8nr58zGNaLhfxtre9HN8Hu7qLudW6NwEXStWl
 
 東京都世田谷區
 - https://g0v.hackmd.io/V2ZWE3VBRe-DyOiFRaeysg?view
+
+東京都江東區
+- https://from-where-i-stand.structure-and-representation.com/
+    - https://www.facebook.com/yuichi.yazaki/posts/pfbid031R2fEHWwQKBTuv2j3ePUCwz31h1cXHaaTsjtfoeuDtL5ZjwEzScRMQhGMLBMSeaUl
 
 橫濱地區營造機制、地區規劃
 - https://eyesonplace.net/2017/11/29/7004/
