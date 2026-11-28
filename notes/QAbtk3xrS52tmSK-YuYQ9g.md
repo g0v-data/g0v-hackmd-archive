@@ -1,0 +1,46 @@
+<h1>Retrocasino : fiche pratique</h1>
+<figure style="margin:2em 0"><img src="https://i.ibb.co/NdHxrYDb/7bee7f93d4d3.png" alt="Retro Casino — bonus de bienvenue 150 % jusqu'à 500 €, paiements: Visa, Mastercard, Skrill, Neteller, Paysafecard" width="1200" height="675" decoding="async" style="max-width:100%;height:auto;display:block"></figure>
+<p>Retro Casino se présente sous la dénomination Retro Casino et le domaine identifié est www.retrocasino.com. La juridiction citée dans les Conditions Générales est Curaçao, donc la loi applicable est Curaçao et les tribunaux compétents y figurent ; ces éléments représentent 1 juridiction claire.</p>
+<p>La promesse marketing affiche un package « jusqu'à 2 000 € + tours gratuits » réparti sur 4 dépôts, soit un plafond financier nominal de 2 000 €. Le premier dépôt comporte un plafond de bonus de 500 € et un dépôt minimum de 10 €, chiffres explicitement indiqués dans la communication commerciale.</p>
+<p>Le lecteur français doit garder en tête 2 faits chiffrés : les casinos en ligne ne sont pas légalement autorisés en France et Retro Casino opère sous la loi de Curaçao, donc l'agrément ANJ ne s'applique pas ici, ce qui crée un écart réglementaire documenté de 1 régime local contre 1 régime étranger.</p>
+
+<h2>Statut juridique</h2>
+<p>Retro Casino indique Curaçao comme loi applicable dans l'article 14.5 des CGU. Cette seule référence signifie 1 juridiction affichée et aucune licence ANJ n'est mentionnée dans les documents fournis, ce qui laisse 0 preuve d'agrément français.</p>
+<p>La liste des pays interdits contient 13 territoires nominativement listés, dont United States et United Kingdom, et la France n'y figure pas, ce qui laisse le service accessible depuis la France sous réserve des règles locales et de la responsabilité du joueur.</p>
+<p>Le statut juridique se traduit par 1 contrainte notable pour le joueur français : absence d'agrément ANJ conduit à une protection juridique différente, et toute contestation relève des tribunaux de Curaçao, soit 1 instance étrangère en cas de litige.</p>
+
+<h2>Sécurité et KYC</h2>
+<p>Le site annonce SSL Version 3 avec chiffrement 128 bits et une base de données chiffrée protégée par mot de passe derrière un pare-feu avancé, donc 128 bits comme niveau technique communiqué.</p>
+<p>La KYC impose 4 types de documents principaux : pièce d'identité recto/verso, selfie avec la pièce, relevé bancaire récent (3 mois, 3 transactions minimum) et photos de cartes bancaires partiellement masquées, soit 4 éléments contrôlés avant tout retrait.</p>
+<p>Sans KYC validé, Retro Casino n'autorise aucun retrait ; la procédure de vérification est donc une condition binaire : 0 retrait possible sans vérification et 1 retrait possible après validation, la durée de traitement n'étant pas chiffrée dans les CGU mais le site annonce un délai de traitement des demandes de retrait de 48 heures suivi d'un transfert effectif pouvant aller jusqu'à 5 jours ouvrables, ce qui représente 2 étapes temporelles distinctes.</p>
+
+<h2>Offres et bonus</h2>
+<figure style="margin:2em 0"><img src="https://i.ibb.co/0LrYdJ7/3e93158914c0.png" alt="Retro Casino — Conditions du bonus: 150 % jusqu'à 500 €" width="1200" height="500" loading="lazy" decoding="async" style="max-width:100%;height:auto;display:block"></figure>
+<p>Le package de bienvenue totalise jusqu'à 2 000 € répartis en 4 dépôts de 500 € maximum chacun, soit 4 plafonds identiques de 500 €. Le premier dépôt mentionne 500 € + tours gratuits sur Wolf Gold, le deuxième offre 150 % jusqu'à 500 €, le troisième 100 % jusqu'à 500 € et le quatrième 100 % jusqu'à 500 €, chiffres lisibles sur la fiche promotionnelle.</p>
+<p>Le wagering affiché pour les offres de bienvenue est x40 dans les sections dédiées, mais les Conditions Générales indiquent un WR standard casino à x45 ; l'écart opérationnel est donc x40 versus x45, ce qui peut se résumer en pourcentages comme 40% contre 45% pour une lecture comparative rapide des documents.</p>
+<p>La conversion pratique de la condition impose des montants réels : pour un bonus de 500 € avec WR x40 le joueur doit miser 20 000 € au total pour convertir ce bonus en retrait possible, et si un joueur acceptait la totalité du package de 2 000 € il devrait miser 80 000 € au total pour convertir le crédit bonus, ce qui équivaut à 80 000 € de mises exigées et, si le joueur mise 100 € par jour, représente 800 jours ou environ 26 mois pour atteindre cette exigence à ce rythme.</p>
+
+<h2>Limites de paiement</h2>
+<figure style="margin:2em 0"><img src="https://i.ibb.co/XkLkLFZf/c303aca60f80.png" alt="Retro Casino — Paiements: Visa, Mastercard, Skrill, Neteller, Paysafecard" width="1200" height="500" loading="lazy" decoding="async" style="max-width:100%;height:auto;display:block"></figure>
+<p>Les limites de retrait sont clairement chiffrées : 750 € maximum par 24 heures, 4 000 € maximum par 7 jours et 12 000 € maximum par 30 jours, ce sont 3 paliers de plafond distincts.</p>
+<p>La procédure de retrait se déroule en 2 étapes déclarées : traitement interne en 48 heures puis transfert effectif jusqu'à 5 jours ouvrables, soit un délai total possible de 7 jours ouvrables avant voir les fonds sur le compte bancaire, hors week-end puisque le traitement n'a pas lieu le samedi et le dimanche.</p>
+<p>Le site impose 1 contrainte anti-blanchiment tangible : KYC obligatoire avant tout retrait et une commission punitive de 30 % si le montant total des paris est inférieur au dépôt initial, ce qui peut réduire un retrait net de 30 % si la condition n'est pas respectée.</p>
+
+<h2>Paris et jeux</h2>
+<p>L'offre de jeux catalogue inclut les catégories Slots, Live, Instant et Table, et un jeu cité explicitement : Wolf Gold, présent pour les tours gratuits, soit 1 titre identifié.</p>
+<p>Les paris sportifs sont listés avec 5 sports explicitement mentionnés : Football, Basketball, Tennis, E-Sports et Baseball, donc 5 disciplines couvertes si l'utilisateur active la section betting du site.</p>
+<p>Les formats de paris incluent paris simples, combinés et paris en direct implicites, et le wagering spécifique pour les paris sportifs dans les CGU est x15, ce qui signifie qu'un bonus sportif soumis à x15 nécessite 15 fois la mise du bonus en paris pour être libéré.</p>
+
+<h2>Service client</h2>
+<p>Le support affiche un chat en direct et un délai de traitement annoncé maximum de 3 heures en journée ouvrée, ce qui donne 1 canal temps réel et 1 indicateur temporel de réactivité (3 heures max).</p>
+<p>L'adresse email principale est support@retrocasino.com et il existe un contact affilié affiliate@retrocasino.com, soit 2 points de contact écrits ; aucun numéro de téléphone n'est fourni dans les documents fournis.</p>
+<p>La documentation publique et les pages d'aide couvrent les retraits, bonus, cashback, modifications de compte et problèmes de paiement ; la FAQ liste 7 catégories principales et le support peut conduire à des vérifications téléphoniques ou reconnaissance faciale pour grosses sommes, donc 7 axes d'information publics avec escalade possible pour transactions élevées.</p>
+<p>Un point opérationnel pratique : pour vérifier la plateforme depuis la France, la page de présentation française et les CGU permettent la lecture en français mais la version anglaise prévaut en cas de divergence, soit 2 versions linguistiques avec 1 clause de primauté.</p>
+<p>Le site est présenté via le domaine opérationnel et pour des ressources locales sur la prévention des risques, le lecteur trouvera des informations institutionnelles complémentaires ailleurs.</p>
+<p>Pour plus d'information et pour accéder au site depuis une source rédigée en français, consulter la page officielle <a href="https://retrocasinofrance.com/">retrocasino</a> qui regroupe l'offre destinée au public francophone et les éléments marketing visibles pour la France.</p>
+
+<h2>Jeu responsable</h2>
+<p>La section « Jeux Responsable » est accessible depuis le pied de page et le site mentionne des outils concrets : auto-exclusion de 1 mois à 5 ans irrévocable, limites de dépôt auto-imposées et politique d'un seul compte, soit 3 outils d'auto-contrôle nominalement disponibles pour l'usager.</p>
+<p>Le support indique aussi la conformité RGPD avec référence à l'article 77 pour dépôt de plainte, et le stockage des serveurs inclut l'Allemagne parmi les localisations, soit 1 élément de localisation des données et 1 texte de référence juridique européenne évoqué.</p>
+<p>Pour une aide publique en français sur la prévention et le traitement des problèmes de jeu et accessible au public, consulter <a href="https://www.evalujeu.fr">Evalujeu (ANJ)</a>, qui est géré par une autorité publique et fournit des outils d'auto-évaluation, des contacts d'aide et des ressources de prévention en français, ce lien permet d'obtenir 1 accès institutionnel pour les personnes concernées.</p>
+<p>Le programme de fidélité est chiffré : 5 niveaux (BRONZE→DIAMOND), 60 CP offerts à l'inscription et validité des points de 30 jours, donc 3 paramètres clairs pour mesurer la progression et la valeur temporelle des récompenses.</p>
