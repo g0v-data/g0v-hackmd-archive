@@ -2,6 +2,10 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | Now Coming 2027 g0v 黑客松｜1月 ~ 5 月 | 2026-11-28T11:58:55+00:00 | View mode |
+| [r17EsOYrex](../../notes/71J-oG2VThSDQomGVzi0HA.md) | 社群小聚｜在嘉義舉辦社群小聚 | 2026-11-28T11:50:27+00:00 | View mode |
+| [SkGS-jwJzx](../../notes/xt2YlHBSSzWhPAO65XnmMg.md) | <center>公民科技行動指引<br>Civic Tech Guide</center> | 2026-11-28T11:45:50+00:00 | View mode |
+| [B1RUK6tb-e](../../notes/zkWf3uJDQA6mp7FfqzfIsQ.md) | <center>公民科技及數位工具應用指南與支持網絡</center> | 2026-11-28T11:43:36+00:00 | View mode |
 | [SkL1dHSCyl](../../notes/Ovl0MYOsQCKECQ9Ig4HOVA.md) | AI 麻瓜共學團 | 2026-11-28T10:49:45+00:00 | Book mode |
 | [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | civictech.tw 資料登載工作頁面 & 收錄原則探討 | 2026-11-28T10:41:19+00:00 | View mode |
 | [Byl8kKBkme](../../notes/AdfWG9kgSSKe3xe3L4jy1Q.md) | 漂書地點回饋 Bookcrossing | 2026-11-28T09:18:03+00:00 | View mode |
@@ -29,11 +33,9 @@
 | [BJHF00i_Gg](../../notes/0k2xQac4Ru6zWpQX_naeDg.md) | 桃園 | 2026-11-21T15:15:48+00:00 | View mode |
 | [r1NujZbRfl](../../notes/0LpMh6OWRIGHkPcgu93R8g.md) | 林口生活圈 | 2026-11-21T15:14:46+00:00 | View mode |
 | [B17hjPWufg](../../notes/zlgYN4KdR_a4bsOVPdOr1w.md) | 社群小聚｜臺中與苗栗 | 2026-11-21T15:13:52+00:00 | View mode |
-| [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | Now Coming 2027 g0v 黑客松｜1月 ~ 5 月 | 2026-11-21T14:13:14+00:00 | View mode |
 | [HJMvgwP0zx](../../notes/VfQVXR8OTyu8hlDltdwNWg.md) | g0v Hackathan | 2026-11-21T14:01:19+00:00 | Book mode |
 | [BkCPHcYEee](../../notes/_ab2mPTsSOqJC4V8ssMnDg.md) | 零時小學校<br>專案孵化計畫<br>Civic Nest | 2026-11-19T18:34:56+00:00 | Book mode |
 | [HyNCdGuGfe](../../notes/A014I2MSQXS4aQB1NU_KuQ.md) | 屏東 | 2026-11-18T17:09:31+00:00 | View mode |
-| [B1RUK6tb-e](../../notes/zkWf3uJDQA6mp7FfqzfIsQ.md) | <center>公民科技及數位工具應用指南與支持網絡</center> | 2026-11-16T03:50:41+00:00 | View mode |
 | [SyJi0ww7zg](../../notes/bHWPJT4YQve1VT36x5v4kQ.md) | 澎湖 | 2026-11-16T02:56:45+00:00 | View mode |
 | [HJeJifQjgl](../../notes/_kuWKonIRvW6HU9o09eEWg.md) | 2027／05 g0v 大松命名 | 2026-11-15T18:05:03+00:00 | View mode |
 | [r1YnqGXjgg](../../notes/4-nyFkwISE2VQ1JO6rRIyw.md) | 2027／03 g0v 大松命名 | 2026-11-15T18:03:59+00:00 | View mode |
@@ -65,13 +67,11 @@
 | [rJ2tUiXjee](../../notes/sYm-3TeaSD-M1FPSZpO9WA.md) | 5-6 數位公民素養願景與推動策略探索 ｜公民科技專案手冊｜Civic Tech Project Handbook | 2026-10-08T01:49:59+00:00 | View mode |
 | [SkIjbv2Yfe](../../notes/528r6B6hSy-fa821uuJNkA.md) | 與學生團隊合作募款 | 2026-10-06T07:12:36+00:00 | View mode |
 | [HJzSklLjR](../../notes/_5ze8ubgR1a8PeolhyVMpg.md) | 公民科技專案與社群資料庫 | 2026-10-03T09:29:49+00:00 | View mode |
-| [r17EsOYrex](../../notes/71J-oG2VThSDQomGVzi0HA.md) | 社群小聚｜在嘉義舉辦社群小聚 | 2026-09-27T13:47:00+00:00 | View mode |
 | [H1NxxDjyGl](../../notes/N406TMGEQYKe9nK8bu26XQ.md) | 基隆 | 2026-09-19T14:37:07+00:00 | View mode |
 | [ryIv5z_Qgg](../../notes/u_WlftE-TreiWR59Jyr07w.md) | 零時小學校<br>從零開始的 AI 素養培力<br>與 AI 應用提案演練課 | 2026-09-12T01:23:57+00:00 | View mode |
 | [B13XHdP1Ml](../../notes/2QPnlJdcRcmMxbBTLiujeA.md) | Disaster 防災與減災 | 2026-09-11T09:21:22+00:00 | View mode |
 | [Hyxo4FkjC](../../notes/MdulssubSXyXzX_Jm7EmdA.md) | 揪松團擺攤方案：器材、互動、口語說明內容 | 2026-09-10T20:41:39+00:00 | View mode |
 | [ByHiV_Dkzg](../../notes/oH-LgYkMQiGHaA0HFo7hsg.md) | Vote 政見資料，選舉資料，政治獻金 | 2026-09-10T16:13:53+00:00 | View mode |
-| [SkGS-jwJzx](../../notes/xt2YlHBSSzWhPAO65XnmMg.md) | <center>公民科技行動指引<br>Civic Tech Guide</center> | 2026-09-05T06:22:17+00:00 | View mode |
 | [S1LstNNH6](../../notes/8_z1xqCwQH-np8Zu9iBOkw.md) | 最新活動資訊請至以下網址 | 2026-09-02T10:20:02+00:00 | View mode |
 | [SJkN2cwyze](../../notes/7bid8DlMSg2xC8ydTMoYag.md) | 生態 | 2026-09-02T02:37:12+00:00 | View mode |
 | [SJAaSX7dMl](../../notes/dfgqzLtBSraAjWSlpZxJZw.md) | 金門 | 2026-08-31T16:05:00+00:00 | View mode |

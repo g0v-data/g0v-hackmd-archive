@@ -15,10 +15,6 @@ tags: civictech,
 </font>
 
 :::info
-若您願意收到本計畫的最新資訊、7-12 月系列活動資訊
-歡迎您填寫以下表單
-https://forms.gle/gtV9aYyW2GH4mztk7
-
 公民科技資源需求問卷
 https://forms.gle/u5Vr74hRjxNLm1tr9
 :::

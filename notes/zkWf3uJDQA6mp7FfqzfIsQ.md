@@ -4,6 +4,9 @@ tags: jothon,
 
 # <center>公民科技及數位工具應用指南與支持網絡</center>
 
+<iframe width=100% height="480" src="https://www.youtube.com/embed/PikLvsr4MWg?si=GuctxJSkfOp7KvRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
 <br>
 <font face="黑體" size=4>
 <center>+</center>
@@ -17,13 +20,19 @@ tags: jothon,
 
 ## 一、問卷【臺灣公民科技參與者的資源需求調查】
 
-問卷填寫網址：https://forms.gle/PziZjumu4q6L3vDu9
+【歡迎填寫】問卷填寫網址：https://forms.gle/PziZjumu4q6L3vDu9
 
 問卷填答成果 - 圖表 📊 來看看大家的填答成果
 https://app.awesome-table.com/-OvzBSMSQRUoXBtGrXW2/view
 
 問卷填答成果 - CC-by 4.0 資料集下載網址 📜
 https://docs.google.com/spreadsheets/d/1Z7am3yalgPbQLureQS0tWTofSKrLJRAI4473pFLErag/edit?usp=sharing
+
+【2026 分析】誰在臺灣做公民科技？又是什麼擋住了他們？
+- 127 位 g0v.tw 參與者告訴我們：怎麼進來、卡在哪裡、為什麼留下
+- 資料範圍：截至 2026/7/20，共 127 份有效填答
+- https://report.claire-cheng.com/
+
 
 ## 二、公民科技行動指引網站推廣活動
 

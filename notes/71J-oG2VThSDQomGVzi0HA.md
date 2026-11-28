@@ -67,7 +67,8 @@ tags: chiayi, jothon,
 - 嘉義市政府智慧科技處：https://www.facebook.com/TechnologiesDept
 - 嘉義市政府的青年品牌：https://www.facebook.com/profile.php?id=100087103786402
 - 下港女子 https://ekangwoman.com/ekangwoman/
-- 朴子https://www.facebook.com/story.php?story_fbid=pfbid0zMWX4ZYsH17GQLvzdgHVhhKUikmFgRp6uYpCfjgPn9PCWGreLGZkY38B6aWKCmqal&id=100003318143965&mibextid=NOb6eG
+- 朴子 https://www.facebook.com/story.php?story_fbid=pfbid0zMWX4ZYsH17GQLvzdgHVhhKUikmFgRp6uYpCfjgPn9PCWGreLGZkY38B6aWKCmqal&id=100003318143965&mibextid=NOb6eG
+- https://grant-direction.com.tw/index.php?route=product/product&product_id=3731
 
 大學體系
 - 相關系辦信箱、學生社團信箱，加入到揪松團的信件群組「大專院校科系 & 大學社團」

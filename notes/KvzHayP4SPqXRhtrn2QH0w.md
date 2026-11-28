@@ -4,6 +4,9 @@ tags: hackathon, jothon
 
 # Now Coming 2027 g0v 黑客松｜1月 ~ 5 月
 
+Registration 報名網址
+https://forms.gle/9gm3Jhtn4fZQ6kZy5
+
 ## 【一月 January】
 
 ### 2027/01/09 週六 Sat. 10:30-17:00 第柒拾陸次高屏共振黑客松 g0v Hackath76n
