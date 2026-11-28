@@ -2,13 +2,14 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [SkL1dHSCyl](../../notes/Ovl0MYOsQCKECQ9Ig4HOVA.md) | AI 麻瓜共學團 | 2026-11-28T10:49:45+00:00 | Book mode |
+| [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | civictech.tw 資料登載工作頁面 & 收錄原則探討 | 2026-11-28T10:41:19+00:00 | View mode |
 | [Byl8kKBkme](../../notes/AdfWG9kgSSKe3xe3L4jy1Q.md) | 漂書地點回饋 Bookcrossing | 2026-11-28T09:18:03+00:00 | View mode |
 | [SyuU7Md9Zg](../../notes/iOqB9tVBQF6_hFl_Jm2jOA.md) | 共辦效應 Meetup<br> Accompanied Effect | 2026-11-28T09:12:56+00:00 | Book mode |
 | [S1GA9zuy7l](../../notes/J8vxR3qQQACUHUacPnfeDw.md) | 新竹縣 | 2026-11-28T09:12:07+00:00 | View mode |
 | [S1ewzYSQ-e](../../notes/vCg_ZNIbSZ20dvC0kzqiYQ.md) | 社群文宣品與摺頁寄放 /《沒有人的運動》贈書推廣紀錄 | 2026-11-27T12:16:32+00:00 | View mode |
 | [Hy0H2n2AGg](../../notes/yIRJbjhgScCJoiwdHvUhog.md) | Civic Nest<br>零時小學校專案孵化計畫<br>第六屆專案團隊介紹 | 2026-11-27T03:28:53+00:00 | View mode |
 | [SJsDmxPfGe](../../notes/1thatkFaTByXWPkbi8JcZQ.md) | 2027／07 至 10 月 第柒拾玖次公民科技跑咖松 | 2026-11-27T01:08:25+00:00 | View mode |
-| [HJhT4Tt6zg](../../notes/rUYHE7onSRSQ3w07vZx05Q.md) | civictech.tw 資料登載工作頁面 & 收錄原則探討 | 2026-11-26T21:16:01+00:00 | View mode |
 | [Sysbm0ydyl](../../notes/msOc-1-ZTnGCHJys5Z45Vg.md) | g0v hackathon 大松合作單位與貢獻者 Contributors & Donors | 2026-11-26T19:48:09+00:00 | View mode |
 | [HJcr3Xh4kl](../../notes/N3EnvC7ATSG-r71zuleuyQ.md) | 大松小松活動訊息不漏接 🔔 Event Info | 2026-11-26T19:45:27+00:00 | View mode |
 | [BkxrwGIvWx](../../notes/qkIrfWr9Q_Kho3HJ-uZ9IQ.md) | Almanac _ 公民科技年曆 / 主題日評估 | 2026-11-26T18:47:03+00:00 | View mode |
@@ -53,7 +54,6 @@
 | [H1fFF6AiGg](../../notes/y7g5eBS4RJ-QPul7siR0ug.md) | g0v 第柒拾伍次<br>投出未來黑客松<br>G0Vote Hackath75n | 2026-10-30T11:11:37+00:00 | Book mode |
 | [BymubzgTzg](../../notes/RkYqGDleQQine_lSVRBreg.md) | Civic Tech Asia | 2026-10-30T10:58:50+00:00 | View mode |
 | [HJt-ZzgTGl](../../notes/1--0hK3sR56iH5YRxOXvrw.md) | Civic Tech Asia | 2026-10-29T00:23:36+00:00 | Book mode |
-| [SkL1dHSCyl](../../notes/Ovl0MYOsQCKECQ9Ig4HOVA.md) | AI 麻瓜共學團 | 2026-10-28T08:55:41+00:00 | Book mode |
 | [ryuGpT0eGx](../../notes/X-35BMf_QjW8NntAIGzuhQ.md) | COSCUP _ AI 開放治理 & Civic Tech 議程 | 2026-10-28T08:53:42+00:00 | View mode |
 | [HyBiNcJ1o](../../notes/ZwLI9V36Tmi-jFXWVtb1hQ.md) | 影響力報告線上版，內容可以呈現什麼？ | 2026-10-21T07:34:51+00:00 | View mode |
 | [Byv5v5shbg](../../notes/-JUKdilNQ-uncai7swYokQ.md) | 2026 Civic Tech ON (October+November) | 2026-10-12T07:30:54+00:00 | View mode |

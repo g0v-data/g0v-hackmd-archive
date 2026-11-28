@@ -56,6 +56,9 @@ https://www.facebook.com/yuanliyuyu/posts/pfbid08TFwek1xU4YkbEJJnVuKv6JqEzLc7eM8
 
 ### 【沒有常態免費使用版本】
 
+算力租用
+https://gputw.ai/zh-TW/invite/e2xxtqe3
+
 商業產品_沒有免費使用版本 https://bleichrodersmessage.com/tc/parnassus/
 
 排班系統工具_訂閱方案註冊免費試用兩週 https://home.st2el.online/faq.html

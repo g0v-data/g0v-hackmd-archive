@@ -17,7 +17,7 @@ tags: AI,
 - [參考：AI 應用案例<br>與各領域指引](https://g0v.hackmd.io/@chewei/project_case)
 - [探討：AI 與公民科技<br>應用近況與展望](https://g0v.hackmd.io/aGlkvdrrRCemsKBE0pkXlg?view)
 - [20261102 訪談交流<br>Assessing Taiwan’s Global Position for Transformative AI](https://g0v.hackmd.io/1Kt7BUX7QbSfe8oyLSnKBg?view)
-
+- [AI Inclusive Co-Learning Project](https://avpn.asia/ai-course/ai-inclusive-co-learning-project/)
 
 ## 專題實作活動紀錄
 - [20250410 AI 麻瓜共學團 #1 多地址路線規劃](https://hackmd.io/baPHEj5wR22g9S1maXKzfw?view)
