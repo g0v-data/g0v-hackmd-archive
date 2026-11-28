@@ -16,6 +16,7 @@ image: https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_
 
 ## 政策倡議歷程記錄 📢
 
+- [2027-2030 縣市政見觀察<br>綠生活與都市農耕主題](https://g0v.hackmd.io/4plEdGVoRS26lHkF3Sjp4w?view)
 - [全齡農耕-倡議概念發展<br>+<br>20220629 全齡農耕倡議記者會](https://g0v.hackmd.io/@chewei/SkUFG5iu5)
 - [2021 倡議工作籌備](https://g0v.hackmd.io/nK6F78oYT5CmezxrRRQ8_g?view)
 - [20200105 政策討論會](https://g0v.hackmd.io/N5oVpWe1SdONGtvIFrH3Dw?view) 

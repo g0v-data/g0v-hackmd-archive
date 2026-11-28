@@ -2,8 +2,8 @@
 
 | 代碼 | 標題 | 編輯時間 | 模式 |
 | ---- | --- | ------ | -- | 
+| [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | Now Coming 2027 g0v 黑客松｜1月 ~ 5 月 | 2026-11-28T13:08:31+00:00 | View mode |
 | [Sy2szIbymx](../../notes/Wl0-JKpJQySe4IH2F8xRrg.md) | civictech.tw 介紹影片_歡迎回饋意見 | 2026-11-28T12:47:11+00:00 | View mode |
-| [HymEPDZHJg](../../notes/KvzHayP4SPqXRhtrn2QH0w.md) | Now Coming 2027 g0v 黑客松｜1月 ~ 5 月 | 2026-11-28T11:58:55+00:00 | View mode |
 | [r17EsOYrex](../../notes/71J-oG2VThSDQomGVzi0HA.md) | 社群小聚｜在嘉義舉辦社群小聚 | 2026-11-28T11:50:27+00:00 | View mode |
 | [SkGS-jwJzx](../../notes/xt2YlHBSSzWhPAO65XnmMg.md) | <center>公民科技行動指引<br>Civic Tech Guide</center> | 2026-11-28T11:45:50+00:00 | View mode |
 | [B1RUK6tb-e](../../notes/zkWf3uJDQA6mp7FfqzfIsQ.md) | <center>公民科技及數位工具應用指南與支持網絡</center> | 2026-11-28T11:43:36+00:00 | View mode |

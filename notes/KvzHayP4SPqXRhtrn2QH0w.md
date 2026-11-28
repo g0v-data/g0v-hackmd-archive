@@ -10,12 +10,12 @@ https://forms.gle/9gm3Jhtn4fZQ6kZy5
 ## 【一月 January】
 
 ### 2027/01/09 週六 Sat. 10:30-17:00 第柒拾陸次高屏共振黑客松 g0v Hackath76n
-- Location_Kaohsiung：高雄市左營區 Le Phare 共享空間 | 新左營館 (高雄市左營區站前北路1號環球購物中心4樓) (4 F., No. 1, Zhanqian N. Rd., Zuoying Dist., Kaohsiung City, Taiwan) 
-- Location_Taipei：g0v 台北社群空間 (台北市中正區重慶南路三段2號) g0v Community Hub, Taipei (No. 2, Section 3, Chongqing South Road, Zhongzheng District, Taipei City)
+- Location1_Kaohsiung：高雄市左營區 Le Phare 共享空間 | 新左營館 (高雄市左營區站前北路1號環球購物中心4樓) (4 F., No. 1, Zhanqian N. Rd., Zuoying Dist., Kaohsiung City, Taiwan) 
+- Location2_Taipei：g0v 台北社群空間 (台北市中正區重慶南路三段2號) g0v Community Hub, Taipei (No. 2, Section 3, Chongqing South Road, Zhongzheng District, Taipei City)
 
 ### 2027/01/10 週日 Sun. 10:30-17:00 第柒拾陸次高屏共振黑客松 g0v Hackath76n
-- Location_Pingtung：CityReader 讀者城市閱讀文創館(屏東縣屏東市瑞光里民生路4-17號) (No. 4-17, Minsheng Road, Pingtung City, Taiwan)
-- Location_Taipei：g0v 台北社群空間 (台北市中正區重慶南路三段2號) g0v Community Hub, Taipei (No. 2, Section 3, Chongqing South Road, Zhongzheng District, Taipei City)
+- Location1_Pingtung：CityReader 讀者城市閱讀文創館(屏東縣屏東市瑞光里民生路4-17號) (No. 4-17, Minsheng Road, Pingtung City, Taiwan)
+- Location2_Taipei：g0v 台北社群空間 (台北市中正區重慶南路三段2號) g0v Community Hub, Taipei (No. 2, Section 3, Chongqing South Road, Zhongzheng District, Taipei City)
 
 ## 【三月 March】
 
